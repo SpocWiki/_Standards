@@ -1,90 +1,157 @@
 ---
 aliases:
-  - Era~2~Mesoproterozoic
-  - Mesoproterozoic
-  - Мезопротерозой
-  - Mezoproterozoikum
-  - Mesoproterozoisk
-  - Mesoproterozoikum
-  - Mesoproterozoico
-  - Mesoproterosoikum
-  - Mesoproterotsoikum
-  - Mésoprotérozoïque
-  - mezoproterozoikum
-  - mesoproterozoico
-  - 原生代中期
-  - Mezoproterozojus
-  - Mesoproterozoïcum
-  - Mezoproterozoik
-  - Mesoproterozóico
-  - mezoproterozoik
-  - mesoproterozoikum
-  - 中元古代
+- an Ré Mhéiseaprótarasóch
+- Era~2~Mesoproterozoic
+- Istiproterozugal
+- Mesoproterosoikum
+- Mesoproterosoïkum
+- Mesoproterotsoikum
+- Mesoproterotsooinen maailmankausi
+- Mesoproterozoic
+- Mesoproterozoico
+- Mesoproterozoik
+- Mesoproterozoiko
+- Mesoproterozoikum
+- Mesoproterozoisk
+- Mesoproterozoïcum
+- Mesoproterozóico
+- Mezoproterozoeg
+- Mezoproterozoik
+- mezoproterozoiko
+- Mezoproterozoikum
+- Mezoproterozojus
+- Mezoproterozoy
+- Mezoproterozoyik
+- Mezoproterozoý
+- Miðfrumlífsöld
+- Mésoprotérozoïque
+- Đại Trung Nguyên Sinh
+- мезапратэразой
+- мезопротерозоик
+- Мезопротерозой
+- мэзапратэразой
+- מזופרוטרוזואיקון
+- البروتروزي الأوسط
+- مەزوپروتەروزوي
+- پیشینزیستی میانه
+- मध्यप्राग्जीवी महाकल्प
+- மெசோபுரோடெரோசோயிக்
+- มหายุคมีโซโพรเทอโรโซอิก
+- 中元古代
+- 中原生代
+- 原生代中期
+- 중원생대
 has_id_wikidata: Q210611
 instance_of:
-  - "[[_Standards/WikiData/WD~era,630830]]"
-  - "[[_Standards/WikiData/WD~erathem,2464485]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+- '[[_Standards/WikiData/WD~era,630830]]'
+- '[[_Standards/WikiData/WD~erathem,2464485]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 end_time: -1000000000-01-01T00:00:00Z
 start_time: -1600000000-01-01T00:00:00Z
 sRGB_color_hex_triplet: FDB462
 Commons_category: Mesoproterozoic
 dv_has_:
   duration_:
-    years: "6.000e+8"
-  previous_:
-    item: "[[Era-2500~Paleoproterozoic]]"
-  next_:
-    item: "[[Era-1000~Neoproterozoic]]"
+    years: 6.000e+8
   name_:
+    abbreviated: MP
+    af: Mesoproterosoïkum
+    ar: البروتروزي الأوسط
+    avk: Istiproterozugal
+    az: Mezoproterozoy
+    be: мезапратэразой
+    be-tarask: мэзапратэразой
     bg: Мезопротерозой
-    cs: Mezoproterozoikum
+    br: Mezoproterozoeg
+    bs: Mezoproterozoik
+    ca: Mesoproterozoic
+    cs: mezoproterozoikum
     da: Mesoproterozoisk
     de: Mesoproterozoikum
+    en: Mesoproterozoic
+    en-gb: Mesoproterozoic
+    eo: mezoproterozoiko
     es: Mesoproterozoico
     et: Mesoproterosoikum
-    fi: Mesoproterotsoikum
+    eu: Mesoproterozoiko
+    fa: پیشینزیستی میانه
+    fi: Mesoproterotsooinen maailmankausi
     fr: Mésoprotérozoïque
+    ga: an Ré Mhéiseaprótarasóch
+    he: מזופרוטרוזואיקון
+    hi: मध्यप्राग्जीवी महाकल्प
+    hr: mezoproterozoik
     hu: mezoproterozoikum
-    it: mesoproterozoico
-    ja: 原生代中期
-    lt: Mezoproterozojus
+    id: Mesoproterozoikum
+    is: Miðfrumlífsöld
+    it: Mesoproterozoico
+    ja: 中原生代
+    kk: Мезопротерозой
+    kk-arab: مەزوپروتەروزوي
+    kk-cn: مەزوپروتەروزوي
+    kk-cyrl: Мезопротерозой
+    kk-kz: Мезопротерозой
+    kk-latn: Mezoproterozoý
+    kk-tr: Mezoproterozoý
+    ko: 중원생대
+    lt: mezoproterozojus
+    mk: мезопротерозоик
+    ms: Mesoproterozoik
     nl: Mesoproterozoïcum
+    nn: mesoproterozoikum
     no: Mesoproterozoikum
-    pl: Mezoproterozoik
-    pt: Mesoproterozóico
-    sk: mezoproterozoikum
+    pl: mezoproterozoik
+    pt: Mesoproterozoico
+    ro: Mesoproterozoic
+    ru: мезопротерозой
+    sh: Mezoproterozoik
+    sk: Mezoproterozoikum
     sl: mezoproterozoik
-    sv: mesoproterozoikum
+    sv: Mesoproterozoikum
+    ta: மெசோபுரோடெரோசோயிக்
+    th: มหายุคมีโซโพรเทอโรโซอิก
+    tr: Mezoproterozoyik
+    uk: мезопротерозой
+    vi: Đại Trung Nguyên Sinh
+    yue: 中元古代
     zh: 中元古代
-    abbreviated: MP
+    zh-cn: 中元古代
+    zh-hans: 中元古代
+    zh-hant: 中元古代
+    zh-hk: 中元古代
+    zh-sg: 中元古代
+    zh-tw: 中元古代
+  next_:
+    item: '[[Era-1000~Neoproterozoic]]'
+  previous_:
+    item: '[[Era-2500~Paleoproterozoic]]'
+  text_of_:
+    color: 0xFDB462
   time_:
     started: -1600000000
     stopped: -1000000000
-  text_of_:
-    color: "0xFDB462"
 dv_is_:
   same_as:
-    - "[[WD~Mesoproterozoic,210611]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic|Era-1600~Mesoproterozoic]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic.public|Era-1600~Mesoproterozoic.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic.internal|Era-1600~Mesoproterozoic.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic.protect|Era-1600~Mesoproterozoic.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic.private|Era-1600~Mesoproterozoic.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic.personal|Era-1600~Mesoproterozoic.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic.secret|Era-1600~Mesoproterozoic.secret]]"
-dv_has_duration_years: "6.000e+8"
-dv_has_previous_item: "[[Era-2500~Paleoproterozoic]]"
-dv_has_next_item: "[[Era-1000~Neoproterozoic]]"
+  - '[[WD~Mesoproterozoic,210611]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic|Era-1600~Mesoproterozoic]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic.public|Era-1600~Mesoproterozoic.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic.internal|Era-1600~Mesoproterozoic.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic.protect|Era-1600~Mesoproterozoic.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic.private|Era-1600~Mesoproterozoic.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic.personal|Era-1600~Mesoproterozoic.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic.secret|Era-1600~Mesoproterozoic.secret]]'
+dv_has_duration_years: 6.000e+8
+dv_has_previous_item: '[[Era-2500~Paleoproterozoic]]'
+dv_has_next_item: '[[Era-1000~Neoproterozoic]]'
 dv_is_same_as:
-  - "[[WD~Mesoproterozoic,210611]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic|Era-1600~Mesoproterozoic]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic.public|Era-1600~Mesoproterozoic.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic.internal|Era-1600~Mesoproterozoic.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic.protect|Era-1600~Mesoproterozoic.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic.private|Era-1600~Mesoproterozoic.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic.personal|Era-1600~Mesoproterozoic.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic.secret|Era-1600~Mesoproterozoic.secret]]"
+- '[[WD~Mesoproterozoic,210611]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic|Era-1600~Mesoproterozoic]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic.public|Era-1600~Mesoproterozoic.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic.internal|Era-1600~Mesoproterozoic.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic.protect|Era-1600~Mesoproterozoic.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic.private|Era-1600~Mesoproterozoic.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic.personal|Era-1600~Mesoproterozoic.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic.secret|Era-1600~Mesoproterozoic.secret]]'
 dv_has_name_bg: Мезопротерозой
 dv_has_name_cs: Mezoproterozoikum
 dv_has_name_da: Mesoproterozoisk
@@ -108,9 +175,8 @@ dv_has_name_zh: 中元古代
 dv_has_name_abbreviated: MP
 dv_has_time_started: -1600000000
 dv_has_time_stopped: -1000000000
-dv_has_text_of_color: "0xFDB462"
+dv_has_text_of_color: 0xFDB462
 ---
-
 # [[Era-1600~Mesoproterozoic]] 
 
 #is_a_/time_/Era 

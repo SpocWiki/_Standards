@@ -1,16 +1,48 @@
 ---
 aliases:
-  - Lutetian
+- Luteciense
+- Lutecià
+- Lutenianu
+- lutet
+- lutetia
+- Lutetian
+- Lutetiano
+- Lutetiar
+- Lutetien
+- lutetij
+- Lutetium
+- Lutetium (stratigrafie)
+- Lutetium (sub-kala)
+- Lutetium i eocen
+- Lutezian
+- Luteziano
+- Lutețian
+- Lutizzianu
+- Lutétien
+- Lutēcijas stāvs
+- Lütesiyen
+- Tầng Lutetia
+- лутет
+- лютетский ярус
+- Лютецький ярус
+- Лютэцкі ярус
+- اللوتيتي
+- لوتتین
+- ルテシアン
+- 卢台特期
+- 卢台特阶
+- 盧台特階
+- 루테시아절
 has_id_wikidata: Q514893
-named_after: "[[_Standards/WikiData/WD~Lutetia,270273]]"
+named_after: '[[_Standards/WikiData/WD~Lutetia,270273]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-named_by: "[[_Standards/WikiData/WD~Albert_de_Lapparent,2739611]]"
-significant_place: "[[_Standards/WikiData/WD~Gorrondatxe,8210861]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Lutetian,24069006]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Lutetian,133864043]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+named_by: '[[_Standards/WikiData/WD~Albert_de_Lapparent,2739611]]'
+significant_place: '[[_Standards/WikiData/WD~Gorrondatxe,8210861]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Lutetian,24069006]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Lutetian,133864043]]'
 coordinate_location: Point(-3.014336111 43.379575)
 Commons_category: Lutetian
 sRGB_color_hex_triplet: FEB98A
@@ -18,60 +50,87 @@ end_time: -41200000-01-01T00:00:00Z
 start_time: -47800000-01-01T00:00:00Z
 dv_has_:
   duration_:
-    years: "6.600e+6"
-  previous_:
-    item: "[[Age~1~Ypresian]]"
-  next_:
-    item: "[[Age~3~Bartonian]]"
+    years: 6.600e+6
   name_:
+    abbreviated: e5
+    af: Lutetium (stratigrafie)
+    ar: اللوتيتي
+    ast: Lutenianu
+    be: Лютэцкі ярус
     bg: Лютеѿ
+    ca: Lutecià
     cs: Lutet
     da: Lutetien
     de: Lutetium
+    en: Lutetian
     es: Luteciense
     et: Luteti
+    eu: Lutetiar
+    fa: لوتتین
     fi: Lutet
     fr: Lutétien
     hu: lutetiai
-    it: leteziano
-    ja: ルテシアン期
+    id: Lutetium (sub-kala)
+    it: Luteziano
+    ja: ルテシアン
+    ko: 루테시아절
     lt: Liutetis
-    nl: Lutetiën
+    lv: Lutēcijas stāvs
+    mk: лутет
+    nb: Lutetium i eocen
+    nds: Lutetium
+    nl: Lutetien
+    nn: lutetia
     no: Litetium
-    pl: Lutet
-    pt: Luteciano
+    pl: lutet
+    pt: Lutetiano
+    ro: Lutețian
+    ru: лютетский ярус
+    scn: Lutizzianu
+    sh: Lutet
     sk: lutét
-    sl: lutecij
+    sl: lutetij
+    sr: Лутет
     sv: lutet
+    tr: Lütesiyen
+    uk: Лютецький ярус
+    vec: Lutezian
+    vi: Tầng Lutetia
     zh: 卢台特期
-    abbreviated: e5
-  time_:
-    started: "-47.8e6"
-    stopped: "-41.2e6"
+    zh-hans: 卢台特阶
+    zh-hant: 盧台特階
+    zh-hk: 盧台特階
+  next_:
+    item: '[[Age~3~Bartonian]]'
+  previous_:
+    item: '[[Age~1~Ypresian]]'
   text_of_:
-    color: "0xFDB482"
+    color: 0xFDB482
+  time_:
+    started: -47.8e6
+    stopped: -41.2e6
 dv_is_:
   same_as:
-    - "[[WD~Lutetian,514893]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~2~Lutetian|Age~2~Lutetian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~2~Lutetian.public|Age~2~Lutetian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~2~Lutetian.internal|Age~2~Lutetian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~2~Lutetian.protect|Age~2~Lutetian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~2~Lutetian.private|Age~2~Lutetian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~2~Lutetian.personal|Age~2~Lutetian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~2~Lutetian.secret|Age~2~Lutetian.secret]]"
-dv_has_duration_years: "6.600e+6"
-dv_has_previous_item: "[[Age~1~Ypresian]]"
-dv_has_next_item: "[[Age~3~Bartonian]]"
+  - '[[WD~Lutetian,514893]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~2~Lutetian|Age~2~Lutetian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~2~Lutetian.public|Age~2~Lutetian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~2~Lutetian.internal|Age~2~Lutetian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~2~Lutetian.protect|Age~2~Lutetian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~2~Lutetian.private|Age~2~Lutetian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~2~Lutetian.personal|Age~2~Lutetian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~2~Lutetian.secret|Age~2~Lutetian.secret]]'
+dv_has_duration_years: 6.600e+6
+dv_has_previous_item: '[[Age~1~Ypresian]]'
+dv_has_next_item: '[[Age~3~Bartonian]]'
 dv_is_same_as:
-  - "[[WD~Lutetian,514893]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~2~Lutetian|Age~2~Lutetian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~2~Lutetian.public|Age~2~Lutetian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~2~Lutetian.internal|Age~2~Lutetian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~2~Lutetian.protect|Age~2~Lutetian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~2~Lutetian.private|Age~2~Lutetian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~2~Lutetian.personal|Age~2~Lutetian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~2~Lutetian.secret|Age~2~Lutetian.secret]]"
+- '[[WD~Lutetian,514893]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~2~Lutetian|Age~2~Lutetian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~2~Lutetian.public|Age~2~Lutetian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~2~Lutetian.internal|Age~2~Lutetian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~2~Lutetian.protect|Age~2~Lutetian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~2~Lutetian.private|Age~2~Lutetian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~2~Lutetian.personal|Age~2~Lutetian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~2~Lutetian.secret|Age~2~Lutetian.secret]]'
 dv_has_name_bg: Лютеѿ
 dv_has_name_cs: Lutet
 dv_has_name_da: Lutetien
@@ -93,9 +152,9 @@ dv_has_name_sl: lutecij
 dv_has_name_sv: lutet
 dv_has_name_zh: 卢台特期
 dv_has_name_abbreviated: e5
-dv_has_time_started: "-47.8e6"
-dv_has_time_stopped: "-41.2e6"
-dv_has_text_of_color: "0xFDB482"
+dv_has_time_started: -47.8e6
+dv_has_time_stopped: -41.2e6
+dv_has_text_of_color: 0xFDB482
 ---
 # [[Age~2~Lutetian]] 
 

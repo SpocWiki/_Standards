@@ -1,26 +1,85 @@
 ---
 aliases:
-  - Treaty of Trianon
-  - Traité de Trianon
-  - Trianoni békediktátum
-  - Trattato del Trianon
-  - Tratatul de la Trianon
-  - 1920-Treaty_of_Trianon
-  - 1920-Treaty of Trianon
+- 1920-Treaty of Trianon
+- 1920-Treaty_of_Trianon
+- Conradh Trianon
+- Cytundeb Trianon
+- Foedus apud Trianonium sanctum
+- Hòa ước Trianon
+- Pajangjian Trianon
+- Perjanjian Trianon
+- Tractat de Trianon
+- Tractat del Trianon
+- Traité de Trianon
+- Traktat w Trianon
+- Tratado de Trianon
+- Tratatul de la Trianon
+- Trattato del Trianon
+- tratà del Trianon
+- Tratáu de Trianón
+- Treaty of Trianon
+- Trianon shartnomasi
+- Trianon sülh müqaviləsi
+- Trianon-traktaten
+- Trianon-verdrag
+- Trianona traktato
+- Trianonas līgums
+- Trianonfördraget
+- Trianongo Ituna
+- Trianoni békediktátum
+- trianoni békeszerződés
+- Trianoni rahuleping
+- Trianonin rauha
+- Trianono sutartis
+- Trianonska mirovna pogodba
+- Trianonski sporazum
+- Trianonská mierová zmluva
+- Trianonská smlouva
+- Trijanonski mir
+- Trijanonski sporazum
+- Triyanon Antlaşması
+- Trïanon bitim şartı
+- Verdrag van Trianon
+- Vertrag von Trianon
+- Συνθήκη του Τριανόν
+- Тріанонський договір
+- Тријанон договор
+- Тријанонски споразум
+- Трианон бітім шарты
+- Трианонски договор
+- Трианонский договор
+- Трианонскый мирный договор
+- Трыянонскі дагавор
+- Трыянонская дамова
+- Տրիանոնի պայմանագիր
+- חוזה טריאנון
+- ترىيانون ٴبىتىم شارتى
+- معاهدة تريانون
+- پیمان تریانون
+- پەیمانی تریانۆن
+- ত্রিয়ানোঁ চুক্তি
+- ട്രിയനൻ ഉടമ്പടി
+- สนธิสัญญาทรียานง
+- ტრიანონის საზავო ხელშეკრულება
+- 大正九年六月四日仏蘭西国トリアノンニ於テ帝国全権委員ノ同盟及聯合国全権委員並洪牙利国全権委員ト共ニ署名調印シタル平和条約及附属議定書
+- 特里亚农条约
+- 特里亞農條約
+- 特里阿農條約
+- 트리아농 조약
 has_id_wikidata: Q181902
 participant:
-  - "[[_Standards/WikiData/WD~Kingdom_of_Hungary,171150]]"
-  - "[[_Standards/WikiData/WD~Allies_of_the_First_World_War,215669]]"
+- '[[_Standards/WikiData/WD~Kingdom_of_Hungary,171150]]'
+- '[[_Standards/WikiData/WD~Allies_of_the_First_World_War,215669]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~Versailles_system,595819]]"
-  - "[[_Standards/WikiData/WD~peace_treaty,625298]]"
+- '[[_Standards/WikiData/WD~Versailles_system,595819]]'
+- '[[_Standards/WikiData/WD~peace_treaty,625298]]'
 has_edition_or_translation:
-  - "[[_Standards/WikiData/WD~Treaty_of_Trianon_Preamble,21192298]]"
-  - "[[_Standards/WikiData/WD~Treaty_of_Trianon_Part_I,21192299]]"
-  - "[[_Standards/WikiData/WD~Treaty_of_Trianon_Part_II,21192301]]"
-location: "[[_Standards/WikiData/WD~Grand_Trianon,8049]]"
-named_after: "[[_Standards/WikiData/WD~Grand_Trianon,8049]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~French,150]]"
+- '[[_Standards/WikiData/WD~Treaty_of_Trianon_Preamble,21192298]]'
+- '[[_Standards/WikiData/WD~Treaty_of_Trianon_Part_I,21192299]]'
+- '[[_Standards/WikiData/WD~Treaty_of_Trianon_Part_II,21192301]]'
+location: '[[_Standards/WikiData/WD~Grand_Trianon,8049]]'
+named_after: '[[_Standards/WikiData/WD~Grand_Trianon,8049]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~French,150]]'
 BHCL_UUID: 7d1b20e9-0b24-4ad1-a782-a589bf6032cb
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Treaty%20of%20trianon%20negotiations.jpg
 Commons_category: Treaty of Trianon
@@ -30,25 +89,108 @@ short_name: トリアノン条約
 point_in_time: 1920-06-04T00:00:00Z
 dv_is_:
   same_as:
-    - "[[../../../../../../../../../WikiData/WD~Treaty_of_Trianon,181902|WD~Treaty_of_Trianon,181902]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1920-Treaty_of_Trianon|1920-Treaty_of_Trianon]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1920-Treaty_of_Trianon.public|1920-Treaty_of_Trianon.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1920-Treaty_of_Trianon.internal|1920-Treaty_of_Trianon.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1920-Treaty_of_Trianon.protect|1920-Treaty_of_Trianon.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1920-Treaty_of_Trianon.private|1920-Treaty_of_Trianon.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1920-Treaty_of_Trianon.personal|1920-Treaty_of_Trianon.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1920-Treaty_of_Trianon.secret|1920-Treaty_of_Trianon.secret]]"
+  - '[[../../../../../../../../../WikiData/WD~Treaty_of_Trianon,181902|WD~Treaty_of_Trianon,181902]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1920-Treaty_of_Trianon|1920-Treaty_of_Trianon]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1920-Treaty_of_Trianon.public|1920-Treaty_of_Trianon.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1920-Treaty_of_Trianon.internal|1920-Treaty_of_Trianon.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1920-Treaty_of_Trianon.protect|1920-Treaty_of_Trianon.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1920-Treaty_of_Trianon.private|1920-Treaty_of_Trianon.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1920-Treaty_of_Trianon.personal|1920-Treaty_of_Trianon.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1920-Treaty_of_Trianon.secret|1920-Treaty_of_Trianon.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../../WikiData/WD~Treaty_of_Trianon,181902|WD~Treaty_of_Trianon,181902]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1920-Treaty_of_Trianon|1920-Treaty_of_Trianon]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1920-Treaty_of_Trianon.public|1920-Treaty_of_Trianon.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1920-Treaty_of_Trianon.internal|1920-Treaty_of_Trianon.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1920-Treaty_of_Trianon.protect|1920-Treaty_of_Trianon.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1920-Treaty_of_Trianon.private|1920-Treaty_of_Trianon.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1920-Treaty_of_Trianon.personal|1920-Treaty_of_Trianon.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1920-Treaty_of_Trianon.secret|1920-Treaty_of_Trianon.secret]]"
+- '[[../../../../../../../../../WikiData/WD~Treaty_of_Trianon,181902|WD~Treaty_of_Trianon,181902]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1920-Treaty_of_Trianon|1920-Treaty_of_Trianon]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1920-Treaty_of_Trianon.public|1920-Treaty_of_Trianon.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1920-Treaty_of_Trianon.internal|1920-Treaty_of_Trianon.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1920-Treaty_of_Trianon.protect|1920-Treaty_of_Trianon.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1920-Treaty_of_Trianon.private|1920-Treaty_of_Trianon.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1920-Treaty_of_Trianon.personal|1920-Treaty_of_Trianon.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1920-Treaty_of_Trianon.secret|1920-Treaty_of_Trianon.secret]]'
+dv_has_:
+  name_:
+    af: Trianon-verdrag
+    ar: معاهدة تريانون
+    ary: معاهدة تريانون
+    arz: معاهدة تريانون
+    ast: Tratáu de Trianón
+    az: Trianon sülh müqaviləsi
+    be: Трыянонскі дагавор
+    be-tarask: Трыянонская дамова
+    bg: Трианонски договор
+    bn: ত্রিয়ানোঁ চুক্তি
+    bs: Trijanonski sporazum
+    ca: Tractat del Trianon
+    ckb: پەیمانی تریانۆن
+    cs: Trianonská smlouva
+    cy: Cytundeb Trianon
+    da: Trianon-traktaten
+    de: Vertrag von Trianon
+    el: Συνθήκη του Τριανόν
+    en: Treaty of Trianon
+    en-ca: Treaty of Trianon
+    en-gb: Treaty of Trianon
+    eo: Trianona traktato
+    es: Tratado de Trianon
+    et: Trianoni rahuleping
+    eu: Trianongo Ituna
+    fa: پیمان تریانون
+    fi: Trianonin rauha
+    fr: traité de Trianon
+    ga: Conradh Trianon
+    gl: Tratado de Trianon
+    he: חוזה טריאנון
+    hr: Trianonski sporazum
+    hu: trianoni békeszerződés
+    hy: Տրիանոնի պայմանագիր
+    id: Perjanjian Trianon
+    it: trattato del Trianon
+    ja: 大正九年六月四日仏蘭西国トリアノンニ於テ帝国全権委員ノ同盟及聯合国全権委員並洪牙利国全権委員ト共ニ署名調印シタル平和条約及附属議定書
+    ka: ტრიანონის საზავო ხელშეკრულება
+    kk: Трианон бітім шарты
+    kk-arab: ترىيانون ٴبىتىم شارتى
+    kk-cn: ترىيانون ٴبىتىم شارتى
+    kk-cyrl: Трианон бітім шарты
+    kk-kz: Трианон бітім шарты
+    kk-latn: Trïanon bitim şartı
+    kk-tr: Trïanon bitim şartı
+    ko: 트리아농 조약
+    la: Foedus apud Trianonium sanctum
+    lt: Trianono sutartis
+    lv: Trianonas līgums
+    mk: Тријанон договор
+    ml: ട്രിയനൻ ഉടമ്പടി
+    nb: Trianon-traktaten
+    nl: Verdrag van Trianon
+    oc: Tractat de Trianon
+    pl: Traktat w Trianon
+    pt: Tratado de Trianon
+    pt-br: Tratado de Trianon
+    ro: Tratatul de la Trianon
+    ru: Трианонский договор
+    rue: Трианонскый мирный договор
+    sh: Trijanonski mir
+    sk: Trianonská mierová zmluva
+    sl: Trianonska mirovna pogodba
+    sr: Тријанонски споразум
+    sr-el: Trijanonski sporazum
+    su: Pajangjian Trianon
+    sv: Trianonfördraget
+    th: สนธิสัญญาทรียานง
+    tr: Triyanon Antlaşması
+    uk: Тріанонський договір
+    uz: Trianon shartnomasi
+    vec: tratà del Trianon
+    vi: Hòa ước Trianon
+    wuu: 特里亚农条约
+    yue: 特里亞農條約
+    zh: 特里亞農條約
+    zh-cn: 特里亚农条约
+    zh-hans: 特里亚农条约
+    zh-hant: 特里阿農條約
+    zh-hk: 特里亞農條約
+    zh-sg: 特里亚农条约
+    zh-tw: 特里阿農條約
 ---
-
 # [[1920-Treaty_of_Trianon]] 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Treaty_of_Trianon,181902|WD~Treaty_of_Trianon,181902]]  

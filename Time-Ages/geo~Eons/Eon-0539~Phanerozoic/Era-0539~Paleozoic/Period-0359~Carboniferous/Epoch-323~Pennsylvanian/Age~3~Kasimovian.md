@@ -1,120 +1,143 @@
 ---
 aliases:
-  - Kasimovian
-  - Каѿимов
-  - Kasimov
-  - Kasimovien
-  - Kasimovium
-  - Kasimoviense
-  - Kasimovi
-  - kaszimovi
-  - kasimoviano
-  - カシモビアン期
-  - Kasimovis
-  - Kasimoviën
-  - Kasimow
-  - Kasimoviano
-  - kasimov
-  - kasimovij
-  - 卡西莫夫期
-  - "{ newTitle: }":
+- Kasimov
+- Kasimovi
+- Kasimovian
+- kasimoviano
+- Kasimovien
+- Kasimoviense
+- kasimovij
+- Kasimovis
+- Kasimovium
+- Kasimovià
+- Kasimoviën
+- Kasimow
+- Kasimuvianu
+- kaszimovi
+- System.Collections.Generic.Dictionary`2[System.Object,System.Object]
+- Tầng Kasimov
+- касимовский ярус
+- Каѿимов
+- Қасымов ярусы
+- الكاسيموفي
+- کازیمووین
+- カシモビアン
+- カシモビアン期
+- 卡西莫夫期
+- 卡西莫夫阶
 has_id_wikidata: Q545853
-named_after: "[[_Standards/WikiData/WD~Kasimov,145457]]"
+named_after: '[[_Standards/WikiData/WD~Kasimov,145457]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-named_by: "[[_Standards/WikiData/WD~Boris_Danshin,18274571]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Kasimovian,30869552]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+named_by: '[[_Standards/WikiData/WD~Boris_Danshin,18274571]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Kasimovian,30869552]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 end_time: -303700000-01-01T00:00:00Z
 start_time: -307000000-01-01T00:00:00Z
 Commons_category: Kasimovian
 sRGB_color_hex_triplet: BFD0C5
 confidential: private
 cssclasses:
-  - private
-  - note
+- private
+- note
 draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
-expiryDate:
-has_Template: "[[Extract~Note~Template]]"
+expiryDate: 
+has_Template: '[[Extract~Note~Template]]'
 has_time_started:
-  '{ "date:YYYY-MM-DD": }':
+  '{ "date:YYYY-MM-DD": }': 
 isDeleted: false
 isReadOnly: false
 keywords:
-  "{ newTitle: }":
+  '{ newTitle: }': 
 lang: en
-layout:
+layout: 
 license: (c)copyrighted
 linkTitle:
-  "{ newTitle: }":
+  '{ newTitle: }': 
 publish: false
-publishDate:
+publishDate: 
 tags:
-  - "{ newTitle: }":
-  - excalidraw
+- '{ newTitle: }': 
+- excalidraw
 title:
-  "{ newTitle: }":
+  '{ newTitle: }': 
 type: private_note
 dv_has_:
   duration_:
     years: NaN
-  previous_:
-    item: "[[Age~2~Moscovian]]"
-  next_:
-    item: "[[Age~4~Gzhelian]]"
   name_:
+    abbreviated: c6
+    af: Kasimovium
+    ar: الكاسيموفي
     bg: Каѿимов
+    bs: Kasimovij
+    ca: Kasimovià
     cs: Kasimov
     da: Kasimovien
     de: Kasimovium
+    en: Kasimovian
+    en-gb: Kasimovian
     es: Kasimoviense
     et: Kasimovi
+    fa: کازیمووین
     fi: Kasimov
     fr: Kasimovien
     hu: kaszimovi
-    it: kasimoviano
-    ja: カシモビアン期
+    id: Kasimovium
+    it: Kasimoviano
+    ja: カシモビアン
+    kk: Қасымов ярусы
     lt: Kasimovis
-    nl: Kasimoviën
+    nl: Kasimovien
+    nn: kasimov
     no: Kasimovium
     pl: Kasimow
     pt: Kasimoviano
+    ru: касимовский ярус
+    scn: Kasimuvianu
     sk: kasimov
     sl: kasimovij
     sv: kasimov
+    vi: Tầng Kasimov
     zh: 卡西莫夫期
-    abbreviated: c6
-  time_:
-    started: "-307.0e6"
-    stopped: "-303.7e6"
+    zh-cn: 卡西莫夫阶
+    zh-hans: 卡西莫夫期
+    zh-hant: 卡西莫夫期
+  next_:
+    item: '[[Age~4~Gzhelian]]'
+  previous_:
+    item: '[[Age~2~Moscovian]]'
   text_of_:
-    color: "0xBFD0C5"
+    color: 0xBFD0C5
+  time_:
+    started: -307.0e6
+    stopped: -303.7e6
 dv_is_:
   same_as:
-    - "[[WD~Kasimovian,545853]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~3~Kasimovian|Age~3~Kasimovian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~3~Kasimovian.public|Age~3~Kasimovian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~3~Kasimovian.internal|Age~3~Kasimovian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~3~Kasimovian.protect|Age~3~Kasimovian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~3~Kasimovian.private|Age~3~Kasimovian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~3~Kasimovian.personal|Age~3~Kasimovian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~3~Kasimovian.secret|Age~3~Kasimovian.secret]]"
+  - '[[WD~Kasimovian,545853]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~3~Kasimovian|Age~3~Kasimovian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~3~Kasimovian.public|Age~3~Kasimovian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~3~Kasimovian.internal|Age~3~Kasimovian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~3~Kasimovian.protect|Age~3~Kasimovian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~3~Kasimovian.private|Age~3~Kasimovian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~3~Kasimovian.personal|Age~3~Kasimovian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~3~Kasimovian.secret|Age~3~Kasimovian.secret]]'
 dv_has_duration_years: NaN
-dv_has_previous_item: "[[Age~2~Moscovian]]"
-dv_has_next_item: "[[Age~4~Gzhelian]]"
+dv_has_previous_item: '[[Age~2~Moscovian]]'
+dv_has_next_item: '[[Age~4~Gzhelian]]'
 dv_is_same_as:
-  - "[[WD~Kasimovian,545853]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~3~Kasimovian|Age~3~Kasimovian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~3~Kasimovian.public|Age~3~Kasimovian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~3~Kasimovian.internal|Age~3~Kasimovian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~3~Kasimovian.protect|Age~3~Kasimovian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~3~Kasimovian.private|Age~3~Kasimovian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~3~Kasimovian.personal|Age~3~Kasimovian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~3~Kasimovian.secret|Age~3~Kasimovian.secret]]"
+- '[[WD~Kasimovian,545853]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~3~Kasimovian|Age~3~Kasimovian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~3~Kasimovian.public|Age~3~Kasimovian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~3~Kasimovian.internal|Age~3~Kasimovian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~3~Kasimovian.protect|Age~3~Kasimovian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~3~Kasimovian.private|Age~3~Kasimovian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~3~Kasimovian.personal|Age~3~Kasimovian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~3~Kasimovian.secret|Age~3~Kasimovian.secret]]'
 dv_has_name_bg: Каѿимов
 dv_has_name_cs: Kasimov
 dv_has_name_da: Kasimovien
@@ -136,8 +159,8 @@ dv_has_name_sl: kasimovij
 dv_has_name_sv: kasimov
 dv_has_name_zh: 卡西莫夫期
 dv_has_name_abbreviated: c6
-dv_has_time_stopped: "-303.7e6"
-dv_has_text_of_color: "0xBFD0C5"
+dv_has_time_stopped: -303.7e6
+dv_has_text_of_color: 0xBFD0C5
 ---
 # [[Age~3~Kasimovian]] 
 

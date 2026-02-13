@@ -1,90 +1,103 @@
 ---
 aliases:
-  - Aeronian
-  - перон
-  - Aeron
-  - Aeronien
-  - Aeronium
-  - Aeroniense
-  - Aeroni
-  - Aéronien
-  - aeroni
-  - aeroniano
-  - アエロニアン期
-  - Aeronis
-  - Aeroniën
-  - Aeroniano
-  - aerón
-  - aeronij
-  - aeron
-  - 埃隆期
+- Aeron
+- Aeroni
+- Aeroni lade
+- Aeronian
+- aeroniano
+- Aeronien
+- Aeroniense
+- aeronij
+- Aeronis
+- Aeronium
+- Aeroniën
+- Aerunianu
+- aerón
+- Aéronien
+- Tầng Aeron
+- Аероний
+- аэронский ярус
+- перон
+- آئرونین
+- الإروني
+- アエロニアン
+- アエロニアン期
+- 埃隆期
 has_id_wikidata: Q381595
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-named_by: "[[_Standards/WikiData/WD~Charles_Hepworth_Holland,1064829]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_Aeronian,134704042]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+named_by: '[[_Standards/WikiData/WD~Charles_Hepworth_Holland,1064829]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_Aeronian,134704042]]'
 end_time: -438500000-01-01T00:00:00Z
 start_time: -440800000-01-01T00:00:00Z
 sRGB_color_hex_triplet: A4E0D0
 coordinate_location: Point(14.2119 49.923)
 dv_has_:
   duration_:
-    years: "2.300e+6"
-  previous_:
-    item: "[[Age~1~Rhuddanian]]"
-  next_:
-    item: "[[Age~3~Telychian]]"
+    years: 2.300e+6
   name_:
-    bg: перон
+    abbreviated: s2
+    ar: الإروني
+    bg: Аероний
     cs: Aeron
     da: Aeronien
     de: Aeronium
+    en: Aeronian
     es: Aeroniense
-    et: Aeroni
+    et: Aeroni lade
+    fa: آئرونین
     fi: Aeron
     fr: Aéronien
     hu: aeroni
-    it: aeroniano
-    ja: アエロニアン期
+    id: Aeronium
+    it: Aeroniano
+    ja: アエロニアン
     lt: Aeronis
-    nl: Aeroniën
+    nl: Aeronien
+    nn: aeron
     no: Aeronium
     pl: Aeron
     pt: Aeroniano
+    ru: аэронский ярус
+    scn: Aerunianu
     sk: aerón
     sl: aeronij
     sv: aeron
+    vi: Tầng Aeron
     zh: 埃隆期
-    abbreviated: s2
-  time_:
-    started: "-440.8e6"
-    stopped: "-438.5e6"
+  next_:
+    item: '[[Age~3~Telychian]]'
+  previous_:
+    item: '[[Age~1~Rhuddanian]]'
   text_of_:
-    color: "0xB3E1C2"
+    color: 0xB3E1C2
+  time_:
+    started: -440.8e6
+    stopped: -438.5e6
 dv_is_:
   same_as:
-    - "[[WD~Aeronian,381595]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~2~Aeronian|Age~2~Aeronian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~2~Aeronian.public|Age~2~Aeronian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~2~Aeronian.internal|Age~2~Aeronian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~2~Aeronian.protect|Age~2~Aeronian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~2~Aeronian.private|Age~2~Aeronian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~2~Aeronian.personal|Age~2~Aeronian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~2~Aeronian.secret|Age~2~Aeronian.secret]]"
-dv_has_duration_years: "2.300e+6"
-dv_has_previous_item: "[[Age~1~Rhuddanian]]"
-dv_has_next_item: "[[Age~3~Telychian]]"
+  - '[[WD~Aeronian,381595]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~2~Aeronian|Age~2~Aeronian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~2~Aeronian.public|Age~2~Aeronian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~2~Aeronian.internal|Age~2~Aeronian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~2~Aeronian.protect|Age~2~Aeronian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~2~Aeronian.private|Age~2~Aeronian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~2~Aeronian.personal|Age~2~Aeronian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~2~Aeronian.secret|Age~2~Aeronian.secret]]'
+dv_has_duration_years: 2.300e+6
+dv_has_previous_item: '[[Age~1~Rhuddanian]]'
+dv_has_next_item: '[[Age~3~Telychian]]'
 dv_is_same_as:
-  - "[[WD~Aeronian,381595]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~2~Aeronian|Age~2~Aeronian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~2~Aeronian.public|Age~2~Aeronian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~2~Aeronian.internal|Age~2~Aeronian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~2~Aeronian.protect|Age~2~Aeronian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~2~Aeronian.private|Age~2~Aeronian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~2~Aeronian.personal|Age~2~Aeronian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~2~Aeronian.secret|Age~2~Aeronian.secret]]"
+- '[[WD~Aeronian,381595]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~2~Aeronian|Age~2~Aeronian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~2~Aeronian.public|Age~2~Aeronian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~2~Aeronian.internal|Age~2~Aeronian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~2~Aeronian.protect|Age~2~Aeronian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~2~Aeronian.private|Age~2~Aeronian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~2~Aeronian.personal|Age~2~Aeronian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~2~Aeronian.secret|Age~2~Aeronian.secret]]'
 dv_has_name_bg: перон
 dv_has_name_cs: Aeron
 dv_has_name_da: Aeronien
@@ -106,11 +119,10 @@ dv_has_name_sl: aeronij
 dv_has_name_sv: aeron
 dv_has_name_zh: 埃隆期
 dv_has_name_abbreviated: s2
-dv_has_time_started: "-440.8e6"
-dv_has_time_stopped: "-438.5e6"
-dv_has_text_of_color: "0xB3E1C2"
+dv_has_time_started: -440.8e6
+dv_has_time_stopped: -438.5e6
+dv_has_text_of_color: 0xB3E1C2
 ---
-
 # [[Age~2~Aeronian]] 
 
 #is_a_/time_/Age 

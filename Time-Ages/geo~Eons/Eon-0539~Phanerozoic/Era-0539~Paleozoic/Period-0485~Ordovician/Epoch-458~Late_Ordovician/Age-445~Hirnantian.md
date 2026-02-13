@@ -1,91 +1,106 @@
 ---
 aliases:
-  - Hirnantian
-  - Хирнант
-  - Hirnant
-  - Hirnantien
-  - Hirnantium
-  - Hirnantiense
-  - Hirnantia
-  - hirnanti
-  - hirnantiano
-  - ヒルナンティアン期
-  - Hirnantis
-  - Hirnantiën
-  - Hirnatium
-  - Hirnantiano
-  - hirnant
-  - hirnantij
-  - 赫南特期
+- Hirnant
+- hirnanti
+- Hirnanti lade
+- Hirnantia
+- Hirnantian
+- hirnantiano
+- Hirnantianu
+- Hirnantien
+- Hirnantiense
+- hirnantij
+- Hirnantis
+- Hirnantium
+- Hirnantiën
+- Hirnatium
+- Tầng Hirnant
+- Хирнант
+- хирнантский ярус
+- الهيرنانتي
+- هیرنانتین
+- ヒルナンシアン
+- ヒルナンティアン期
+- 赫南特期
 has_id_wikidata: Q583151
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-named_after: "[[_Standards/WikiData/WD~Cwm_Hirnant,24641548]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Hirnantian,30869524]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-named_by: "[[_Standards/WikiData/WD~B._B._Bancroft,134720161]]"
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_Hirnantian,134721250]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+named_after: '[[_Standards/WikiData/WD~Cwm_Hirnant,24641548]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Hirnantian,30869524]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+named_by: '[[_Standards/WikiData/WD~B._B._Bancroft,134720161]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_Hirnantian,134721250]]'
 end_time: -443800000-01-01T00:00:00Z
 coordinate_location: Point(111.41944444 30.98222222)
 start_time: -445200000-01-01T00:00:00Z
 sRGB_color_hex_triplet: 95DABC
 dv_has_:
   duration_:
-    years: "1.400e+6"
-  previous_:
-    item: "[[Age-453~Katian]]"
-  next_:
-    item: "[[../../Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian|Age~1~Rhuddanian]]"
+    years: 1.400e+6
   name_:
+    abbreviated: o7
+    ar: الهيرنانتي
     bg: Хирнант
+    br: Hirnantian
     cs: Hirnant
     da: Hirnantien
-    de: Hirnantium
+    de: Hirnant
+    en: Hirnantian
     es: Hirnantiense
-    et: Hirnantia
+    et: Hirnanti lade
+    fa: هیرنانتین
     fi: Hirnant
     fr: Hirnantien
     hu: hirnanti
-    it: hirnantiano
-    ja: ヒルナンティアン期
+    id: Hirnantium
+    it: Hirnantiano
+    ja: ヒルナンシアン
     lt: Hirnantis
-    nl: Hirnantiën
+    nl: Hirnantien
+    nn: hirnant
     no: Hirnatium
     pl: Hirnant
     pt: Hirnantiano
+    ru: хирнантский ярус
+    scn: Hirnantianu
+    sh: Hirnant
     sk: hirnant
     sl: hirnantij
-    sv: hirnant
+    sv: Hirnant
+    vi: Tầng Hirnant
     zh: 赫南特期
-    abbreviated: o7
-  time_:
-    started: "-445.2e6"
-    stopped: "-443.8e6"
+  next_:
+    item: '[[../../Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian|Age~1~Rhuddanian]]'
+  previous_:
+    item: '[[Age-453~Katian]]'
   text_of_:
-    color: "0xA6DBAB"
+    color: 0xA6DBAB
+  time_:
+    started: -445.2e6
+    stopped: -443.8e6
 dv_is_:
   same_as:
-    - "[[WD~Hirnantian,583151]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-445~Hirnantian|Age-445~Hirnantian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-445~Hirnantian.public|Age-445~Hirnantian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-445~Hirnantian.internal|Age-445~Hirnantian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-445~Hirnantian.protect|Age-445~Hirnantian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-445~Hirnantian.private|Age-445~Hirnantian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-445~Hirnantian.personal|Age-445~Hirnantian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-445~Hirnantian.secret|Age-445~Hirnantian.secret]]"
-dv_has_duration_years: "1.400e+6"
-dv_has_previous_item: "[[Age-453~Katian]]"
-dv_has_next_item: "[[../../Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian|Age~1~Rhuddanian]]"
+  - '[[WD~Hirnantian,583151]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-445~Hirnantian|Age-445~Hirnantian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-445~Hirnantian.public|Age-445~Hirnantian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-445~Hirnantian.internal|Age-445~Hirnantian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-445~Hirnantian.protect|Age-445~Hirnantian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-445~Hirnantian.private|Age-445~Hirnantian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-445~Hirnantian.personal|Age-445~Hirnantian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-445~Hirnantian.secret|Age-445~Hirnantian.secret]]'
+dv_has_duration_years: 1.400e+6
+dv_has_previous_item: '[[Age-453~Katian]]'
+dv_has_next_item: '[[../../Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian|Age~1~Rhuddanian]]'
 dv_is_same_as:
-  - "[[WD~Hirnantian,583151]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-445~Hirnantian|Age-445~Hirnantian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-445~Hirnantian.public|Age-445~Hirnantian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-445~Hirnantian.internal|Age-445~Hirnantian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-445~Hirnantian.protect|Age-445~Hirnantian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-445~Hirnantian.private|Age-445~Hirnantian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-445~Hirnantian.personal|Age-445~Hirnantian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-445~Hirnantian.secret|Age-445~Hirnantian.secret]]"
+- '[[WD~Hirnantian,583151]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-445~Hirnantian|Age-445~Hirnantian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-445~Hirnantian.public|Age-445~Hirnantian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-445~Hirnantian.internal|Age-445~Hirnantian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-445~Hirnantian.protect|Age-445~Hirnantian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-445~Hirnantian.private|Age-445~Hirnantian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-445~Hirnantian.personal|Age-445~Hirnantian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-445~Hirnantian.secret|Age-445~Hirnantian.secret]]'
 dv_has_name_bg: Хирнант
 dv_has_name_cs: Hirnant
 dv_has_name_da: Hirnantien
@@ -107,11 +122,10 @@ dv_has_name_sl: hirnantij
 dv_has_name_sv: hirnant
 dv_has_name_zh: 赫南特期
 dv_has_name_abbreviated: o7
-dv_has_time_started: "-445.2e6"
-dv_has_time_stopped: "-443.8e6"
-dv_has_text_of_color: "0xA6DBAB"
+dv_has_time_started: -445.2e6
+dv_has_time_stopped: -443.8e6
+dv_has_text_of_color: 0xA6DBAB
 ---
-
 # [[Age-445~Hirnantian]] 
 
 #is_a_/time_/Age 

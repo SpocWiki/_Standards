@@ -1,31 +1,42 @@
 ---
 aliases:
-  - Givetian
-  - Живет
-  - Givet
-  - Givetien
-  - Givetium
-  - Givetiense
-  - Givétien
-  - giveti
-  - givetiano
-  - ジベーチアン期
-  - Živetis
-  - Givetiën
-  - Żywet
-  - Givetiano
-  - givet
-  - givetij
-  - 吉维特期
+- Givet
+- giveti
+- Givetian
+- givetiano
+- Givetiar
+- Givetien
+- Givetiense
+- givetij
+- Givetium
+- Givetià
+- Givetiën
+- Givitianu
+- Givétien
+- Jivet asri va yarusi
+- Tầng Givet
+- Żywet
+- Živetas stāvs
+- Živetis
+- Живет
+- Живет ярусы, живет
+- живетский ярус
+- Живетський ярус
+- الغيفتي
+- ژیوتین
+- ジベティアン
+- ジベーチアン期
+- 吉維特階
+- 吉维特期
 has_id_wikidata: Q650845
-named_after: "[[_Standards/WikiData/WD~Givet,241940]]"
+named_after: '[[_Standards/WikiData/WD~Givet,241940]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-named_by: "[[_Standards/WikiData/WD~Jules_Gosselet,572826]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Givetian,24068695]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Givetian,134570687]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+named_by: '[[_Standards/WikiData/WD~Jules_Gosselet,572826]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Givetian,24068695]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Givetian,134570687]]'
 coordinate_location: Point(-4.35416667 31.2375)
 end_time: -382700000-01-01T00:00:00Z
 start_time: -387700000-01-01T00:00:00Z
@@ -33,60 +44,75 @@ described_at_URL: https://popups.uliege.be/1374-8505/index.php?id=1063
 sRGB_color_hex_triplet: F5DE94
 dv_has_:
   duration_:
-    years: "5.000e+6"
-  previous_:
-    item: "[[Age~1~Eifelian]]"
-  next_:
-    item: "[[../Epoch-382~Late_Devonian/Age~1~Frasnian|Age~1~Frasnian]]"
+    years: 5.000e+6
   name_:
+    abbreviated: d5
+    af: Givetium
+    ar: الغيفتي
     bg: Живет
+    ca: Givetià
     cs: Givet
     da: Givetien
     de: Givetium
+    en: Givetian
     es: Givetiense
     et: Givet
+    eu: Givetiar
+    fa: ژیوتین
     fi: Givet
     fr: Givétien
     hu: giveti
-    it: givetiano
-    ja: ジベーチアン期
+    id: Givetium
+    it: Givetiano
+    ja: ジベティアン
+    kk: Живет ярусы, живет
     lt: Živetis
-    nl: Givetiën
+    lv: Živetas stāvs
+    nl: Givetien
+    nn: givet
     no: Givetium
     pl: Żywet
     pt: Givetiano
+    ru: живетский ярус
+    scn: Givitianu
     sk: givet
     sl: givetij
     sv: givet
-    zh: 吉维特期
-    abbreviated: d5
-  time_:
-    started: "-387.7e6"
-    stopped: "-382.7e6"
+    uk: Живетський ярус
+    uz: Jivet asri va yarusi
+    vi: Tầng Givet
+    zh: 吉維特階
+  next_:
+    item: '[[../Epoch-382~Late_Devonian/Age~1~Frasnian|Age~1~Frasnian]]'
+  previous_:
+    item: '[[Age~1~Eifelian]]'
   text_of_:
-    color: "0xF1E185"
+    color: 0xF1E185
+  time_:
+    started: -387.7e6
+    stopped: -382.7e6
 dv_is_:
   same_as:
-    - "[[WD~Givetian,650845]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~2~Givetian|Age~2~Givetian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~2~Givetian.public|Age~2~Givetian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~2~Givetian.internal|Age~2~Givetian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~2~Givetian.protect|Age~2~Givetian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~2~Givetian.private|Age~2~Givetian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~2~Givetian.personal|Age~2~Givetian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~2~Givetian.secret|Age~2~Givetian.secret]]"
-dv_has_duration_years: "5.000e+6"
-dv_has_previous_item: "[[Age~1~Eifelian]]"
-dv_has_next_item: "[[../Epoch-382~Late_Devonian/Age~1~Frasnian|Age~1~Frasnian]]"
+  - '[[WD~Givetian,650845]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~2~Givetian|Age~2~Givetian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~2~Givetian.public|Age~2~Givetian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~2~Givetian.internal|Age~2~Givetian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~2~Givetian.protect|Age~2~Givetian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~2~Givetian.private|Age~2~Givetian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~2~Givetian.personal|Age~2~Givetian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~2~Givetian.secret|Age~2~Givetian.secret]]'
+dv_has_duration_years: 5.000e+6
+dv_has_previous_item: '[[Age~1~Eifelian]]'
+dv_has_next_item: '[[../Epoch-382~Late_Devonian/Age~1~Frasnian|Age~1~Frasnian]]'
 dv_is_same_as:
-  - "[[WD~Givetian,650845]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~2~Givetian|Age~2~Givetian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~2~Givetian.public|Age~2~Givetian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~2~Givetian.internal|Age~2~Givetian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~2~Givetian.protect|Age~2~Givetian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~2~Givetian.private|Age~2~Givetian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~2~Givetian.personal|Age~2~Givetian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~2~Givetian.secret|Age~2~Givetian.secret]]"
+- '[[WD~Givetian,650845]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~2~Givetian|Age~2~Givetian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~2~Givetian.public|Age~2~Givetian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~2~Givetian.internal|Age~2~Givetian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~2~Givetian.protect|Age~2~Givetian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~2~Givetian.private|Age~2~Givetian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~2~Givetian.personal|Age~2~Givetian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~2~Givetian.secret|Age~2~Givetian.secret]]'
 dv_has_name_bg: Живет
 dv_has_name_cs: Givet
 dv_has_name_da: Givetien
@@ -108,9 +134,9 @@ dv_has_name_sl: givetij
 dv_has_name_sv: givet
 dv_has_name_zh: 吉维特期
 dv_has_name_abbreviated: d5
-dv_has_time_started: "-387.7e6"
-dv_has_time_stopped: "-382.7e6"
-dv_has_text_of_color: "0xF1E185"
+dv_has_time_started: -387.7e6
+dv_has_time_stopped: -382.7e6
+dv_has_text_of_color: 0xF1E185
 ---
 # [[Age~2~Givetian]] 
 

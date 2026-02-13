@@ -1,107 +1,234 @@
 ---
 aliases:
-  - Archean
-  - прхай
-  - Archaikum
-  - Arkæisk
-  - Archaean
-  - Arcaico
-  - Arhaikum
-  - Arkeikum
-  - Archéen
-  - archaikum
-  - archeano
-  - 始生代
-  - Archejus
-  - Archaïcum
-  - Archaik
-  - archaikum, prahory
-  - arhaik
-  - arkeikum
-  - 太古宙
-  - Eon~2~Archean
+- an tAeón Aircéach
+- Arcaica
+- Arcaico
+- Archaean
+- Archaicum
+- Archaik
+- Archaikum
+- archaikum, prahory
+- Archaïcum
+- Archeaidd
+- Archean
+- archeano
+- Archejus
+- Archeïcum
+- Archianu
+- Archéen
+- archėjus
+- Argeïkum
+- Arhaic
+- arhaik
+- Arhaikum
+- arhajs
+- Arkaikum
+- Arkean
+- arkeano
+- arkeeinen eoni
+- Arkeen
+- Arkeikum
+- Arkeozoikum
+- Arkeyaan
+- Arkeyano
+- Arkeyî
+- Arkæikum
+- Arkæisk
+- Arquean
+- Arqueano
+- Arqueà
+- Arxea
+- Arxey
+- Arxeý
+- Eoi arkaiko
+- Eon~2~Archean
+- Liên đại Thái cổ
+- Upphafsöld
+- Αρχαιοζωικός μεγααιώνας
+- архаик
+- Архай
+- архей
+- Архей,
+- Архейський еон
+- прхай
+- Արխեյան դարաշրջան
+- ארכאיקון
+- آرکئن
+- آرکین
+- ارحەي
+- اركيا
+- الدهر السحيق
+- आर्कीअन
+- আর্কিয়ান
+- ஆர்க்கியன் பேரூழி
+- ಆರ್ಕಿಯನ್ ಕಲ್ಪ
+- ආකියානු
+- บรมยุคอาร์เคียน
+- არქეული ეონი
+- 太古代
+- 太古宙
+- 始生代
+- 시생누대
 has_id_wikidata: Q104168
 Commons_category: Archean
 described_by_source:
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]"
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 end_time: -2500000000
 has_time_started: -4031000000
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Archean.png
 instance_of:
-  - "[[_Standards/WikiData/WD~eon,108256]]"
-  - "[[_Standards/WikiData/WD~eonothem,2669627]]"
+- '[[_Standards/WikiData/WD~eon,108256]]'
+- '[[_Standards/WikiData/WD~eonothem,2669627]]'
 IPA_transcription: /ɑːrˈkiːən/
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Q11039569,11039569]]"
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q11039569,11039569]]'
 sRGB_color_hex_triplet: F0047F
 start_time: -4031000000
-topic_s_main_template: "[[_Standards/WikiData/WD~Q100870042,100870042]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Q100870042,100870042]]'
 dv_has_:
-  time_:
-    started: "-4.031e9"
-    stopped: "-2.500e9"
   duration_:
-    years: "1.531e+9"
-  previous_:
-    item: "[[Eon-4567~Hadean]]"
-  next_:
-    item: "[[Eon-2500~Proterozoic]]"
+    years: 1.531e+9
   name_:
-    bg: прхай
-    cs: Archaikum
-    da: Arkæisk
+    abbreviated: AR
+    af: Argeïkum
+    ar: الدهر السحيق
+    arz: اركيا
+    avk: Arxea
+    az: Arxey
+    be: архей
+    be-tarask: архей
+    bg: Архай
+    bn: আর্কিয়ান
+    br: Arkean
+    bs: Arhaik
+    ca: Arqueà
+    cs: archaikum
+    cy: Archeaidd
+    da: Arkæikum
     de: Archaikum
+    el: Αρχαιοζωικός μεγααιώνας
+    en: Archean
+    en-ca: Archean
+    en-gb: Archaean
     en_:
       gb: Archaean
       us: Archean
-    en: Archean
+    eo: arkeano
     es: Arcaico
     et: Arhaikum
-    fi: Arkeikum
+    eu: Eoi arkaiko
+    fa: آرکئن
+    fi: arkeeinen eoni
     fr: Archéen
+    frr: Archaikum
+    ga: an tAeón Aircéach
+    gl: Arcaico
+    he: ארכאיקון
+    hi: आर्कीअन
+    hr: arhaik
     hu: archaikum
-    it: archeano
-    ja: 始生代
-    lt: Archejus
-    nl: Archaïcum
+    hy: Արխեյան դարաշրջան
+    id: Arkaikum
+    is: Upphafsöld
+    it: Archeano
+    ja: 太古代
+    ka: არქეული ეონი
+    kaa: Arxey
+    kk: Архей
+    kk-arab: ارحەي
+    kk-cn: ارحەي
+    kk-cyrl: Архей
+    kk-kz: Архей
+    kk-latn: Arxeý
+    kk-tr: Arxeý
+    kn: ಆರ್ಕಿಯನ್ ಕಲ್ಪ
+    ko: 시생누대
+    ku: Arkeyî
+    la: Archaicum
+    lfn: Arcaica
+    lt: archėjus
+    lv: arhajs
+    map-bms: Arkeozoikum
+    mk: архаик
+    ms: Arkean
+    nb: Arkeikum
+    nds: Archaikum
+    nl: Archeïcum
+    nn: arkeikum
     no: Arkeikum
-    pl: Archaik
-    pt: Arcaico
-    sk: archaikum, prahory
+    oc: Arquean
+    pl: archaik
+    pnb: آرکین
+    pt: Arqueano
+    pt-br: Arqueano
+    ro: Arhaic
+    ru: архей
+    sah: Архей,
+    scn: Archianu
+    sco: Archean
+    sh: Arhaik
+    si: ආකියානු
+    sk: Archaikum
     sl: arhaik
-    sv: arkeikum
+    so: Arkeyaan
+    sr: Архаик
+    sv: Arkeikum
+    ta: ஆர்க்கியன் பேரூழி
+    tg: Архей
+    th: บรมยุคอาร์เคียน
+    tl: Arkeyano
+    tr: Arkeen
+    tt: архей
+    udm: архей
+    uk: Архейський еон
+    uz: Arxey
+    vi: Liên đại Thái cổ
+    wuu: 太古宙
+    yue: 太古宙
     zh: 太古宙
-    abbreviated: AR
+    zh-cn: 太古宙
+    zh-hans: 太古宙
+    zh-hant: 太古宙
+    zh-hk: 太古宙
+    zh-sg: 太古宙
+    zh-tw: 太古宙
+  next_:
+    item: '[[Eon-2500~Proterozoic]]'
+  previous_:
+    item: '[[Eon-4567~Hadean]]'
   text_of_:
-    color: "0xF0047F"
+    color: 0xF0047F
+  time_:
+    started: -4.031e9
+    stopped: -2.500e9
 dv_is_:
   same_as:
-    - "[[WD~Archean,104168]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-4031~Archean|Eon-4031~Archean]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-4031~Archean.public|Eon-4031~Archean.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-4031~Archean.internal|Eon-4031~Archean.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-4031~Archean.protect|Eon-4031~Archean.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-4031~Archean.private|Eon-4031~Archean.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-4031~Archean.personal|Eon-4031~Archean.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-4031~Archean.secret|Eon-4031~Archean.secret]]"
-dv_has_time_stopped: "-2.500e9"
-dv_has_duration_years: "1.531e+9"
-dv_has_previous_item: "[[Eon-4567~Hadean]]"
-dv_has_next_item: "[[Eon-2500~Proterozoic]]"
+  - '[[WD~Archean,104168]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-4031~Archean|Eon-4031~Archean]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-4031~Archean.public|Eon-4031~Archean.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-4031~Archean.internal|Eon-4031~Archean.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-4031~Archean.protect|Eon-4031~Archean.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-4031~Archean.private|Eon-4031~Archean.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-4031~Archean.personal|Eon-4031~Archean.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-4031~Archean.secret|Eon-4031~Archean.secret]]'
+dv_has_time_stopped: -2.500e9
+dv_has_duration_years: 1.531e+9
+dv_has_previous_item: '[[Eon-4567~Hadean]]'
+dv_has_next_item: '[[Eon-2500~Proterozoic]]'
 dv_is_same_as:
-  - "[[WD~Archean,104168]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-4031~Archean|Eon-4031~Archean]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-4031~Archean.public|Eon-4031~Archean.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-4031~Archean.internal|Eon-4031~Archean.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-4031~Archean.protect|Eon-4031~Archean.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-4031~Archean.private|Eon-4031~Archean.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-4031~Archean.personal|Eon-4031~Archean.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-4031~Archean.secret|Eon-4031~Archean.secret]]"
+- '[[WD~Archean,104168]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-4031~Archean|Eon-4031~Archean]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-4031~Archean.public|Eon-4031~Archean.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-4031~Archean.internal|Eon-4031~Archean.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-4031~Archean.protect|Eon-4031~Archean.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-4031~Archean.private|Eon-4031~Archean.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-4031~Archean.personal|Eon-4031~Archean.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-4031~Archean.secret|Eon-4031~Archean.secret]]'
 dv_has_name_bg: прхай
 dv_has_name_cs: Archaikum
 dv_has_name_da: Arkæisk
@@ -126,9 +253,8 @@ dv_has_name_sl: arhaik
 dv_has_name_sv: arkeikum
 dv_has_name_zh: 太古宙
 dv_has_name_abbreviated: AR
-dv_has_text_of_color: "0xF0047F"
+dv_has_text_of_color: 0xF0047F
 ---
-
 # [[Eon-4031~Archean]] 
 
 #is_a_/time_/Eon

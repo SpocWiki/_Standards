@@ -335,7 +335,10 @@ dv_has_number_of_group: 36
 dv_has_name_abbreviated: No
 dv_has_number_of_electrons: 102
 ---
-# [[Nobelium]]
+# [[Nobelium]] 
+
+
+## #has_/properties 
 
 #is_/same_as :: [[../../../WikiData/WD~Nobelium,1901]] 
 

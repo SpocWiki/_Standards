@@ -1,7 +1,72 @@
 ---
 aliases:
-  - Verkehr
-  - Traffic
+- cestni promet
+- circulation routière
+- Commeatus
+- Ferkear
+- forgalom
+- Gaunisala
+- giao thông
+- Gyaudoeng
+- Jotolâh
+- Lalu lintas
+- liikenne
+- Liiklus
+- promet
+- provoz
+- ruch drogowy
+- saobraćaj
+- Trafaig
+- Traffic
+- traffico
+- trafic
+- trafik
+- Trafiki
+- trafikk
+- trafiko
+- Trafiku
+- Trapiko
+- tràfego
+- Tràfich
+- trànsit
+- trácht
+- tráfico
+- tráficu
+- tránsito vehicular
+- trânsito
+- Tō-lō͘ kau-thong
+- Umferð
+- verkeer
+- Verkehr
+- Verkieër
+- Verkéier
+- Yol hərəkəti
+- Zirkulazio
+- Çул-йĕр çинчи куçăм
+- οδική κυκλοφορία
+- дарожны рух
+- дорожній рух
+- дорожное движение
+- саобраћај
+- сообраќај
+- תנועה
+- آمدرفت
+- ترافیک
+- ترافیکي پولیس
+- حركة المرور
+- यातायात
+- যান চলাচল
+- ਸੜਕ ਤੇ ਚਲਣ ਦੇ ਨਿਯਮ
+- రహదారి నియమాలు
+- ട്രാഫിക് നിയമങ്ങൾ
+- การจราจร
+- ယာဉ်ကြောပိတ်ဆို့မှု
+- ၵႃးၶမ်
+- መራኸቢ
+- 交通
+- 道路交通
+- 郵傳
+- 교통
 has_id_wikidata: Q4323994
 main_Wikidata_property: Q4323994
 Basisklassifikation: 55.84
@@ -13,10 +78,101 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Kreuzung%20B1-B96%20Be
 IPTC_NewsCode: mediatopic/20000342
 produced_sound: '[[_Standards/WikiData/WD~traffic_noise,1748361]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~motion,79782]]'
-  - '[[_Standards/WikiData/WD~physical_system,1454986]]'
+- '[[_Standards/WikiData/WD~motion,79782]]'
+- '[[_Standards/WikiData/WD~physical_system,1454986]]'
+dv_has_:
+  name_:
+    ar: حركة المرور
+    ast: tráficu
+    az: Yol hərəkəti
+    be: дарожны рух
+    be-tarask: дарожны рух
+    bho: यातायात
+    bn: যান চলাচল
+    bs: saobraćaj
+    ca: trànsit
+    cs: provoz
+    cv: Çул-йĕр çинчи куçăм
+    da: trafik
+    de: Verkehr
+    el: οδική κυκλοφορία
+    en: traffic
+    en-ca: traffic
+    en-gb: traffic
+    eo: trafiko
+    es: tránsito vehicular
+    et: Liiklus
+    eu: Zirkulazio
+    fa: ترافیک
+    fi: liikenne
+    fj: Gaunisala
+    fr: circulation routière
+    fy: Ferkear
+    ga: trácht
+    gd: Trafaig
+    gl: tráfico
+    gsw: Verkehr
+    he: תנועה
+    hi: यातायात
+    hr: promet
+    ht: Trafik
+    hu: forgalom
+    ia: Traffico
+    id: Lalu lintas
+    io: Trafiko
+    is: Umferð
+    it: traffico
+    ja: 道路交通
+    ko: 교통
+    la: Commeatus
+    lb: Verkéier
+    li: Verkieër
+    lzh: 郵傳
+    mk: сообраќај
+    ml: ട്രാഫിക് നിയമങ്ങൾ
+    ms: lalu lintas
+    my: ယာဉ်ကြောပိတ်ဆို့မှု
+    nan: Tō-lō͘ kau-thong
+    nb: trafikk
+    nds: Verkehr
+    nl: verkeer
+    nn: trafikk
+    pa: ਸੜਕ ਤੇ ਚਲਣ ਦੇ ਨਿਯਮ
+    pl: ruch drogowy
+    pms: Tràfich
+    ps: ترافیکي پولیس
+    pt: trânsito
+    pt-br: Trânsito
+    ro: trafic
+    ru: дорожное движение
+    sco: traffic
+    sh: saobraćaj
+    shn: ၵႃးၶမ်
+    sl: cestni promet
+    smn: Jotolâh
+    sq: Trafiku
+    sr: саобраћај
+    sr-ec: саобраћај
+    sr-el: saobraćaj
+    sv: trafik
+    sw: Trafiki
+    te: రహదారి నియమాలు
+    th: การจราจร
+    ti: መራኸቢ
+    tl: Trapiko
+    tr: trafik
+    uk: дорожній рух
+    ur: آمدرفت
+    vec: tràfego
+    vi: giao thông
+    wuu: 交通
+    yue: 交通
+    za: Gyaudoeng
+    zh: 交通
+    zh-cn: 交通
+    zh-hant: 交通
+    zh-hk: 交通
 ---
-
 # [[Traffic]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Traffic,4323994|WD~Traffic,4323994]] 

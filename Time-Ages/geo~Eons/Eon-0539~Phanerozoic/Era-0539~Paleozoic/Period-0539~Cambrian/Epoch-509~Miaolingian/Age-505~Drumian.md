@@ -1,29 +1,34 @@
 ---
 aliases:
-  - Drumian
-  - Друм
-  - Drum
-  - Drumien
-  - Drumium
-  - Drumiense
-  - Drumi
-  - drumi
-  - drumiano
-  - ドルミアン期
-  - Drumis
-  - Drumiën
-  - Drumiano
-  - drum
-  - drumij
-  - 鼓山期
+- Drum
+- Drumi
+- Drumian
+- drumiano
+- Drumianu
+- Drumien
+- Drumiense
+- drumij
+- Drumis
+- Drumium
+- Drumiën
+- Tầng Drum
+- Друм
+- Друмий
+- друмский ярус
+- الدرومي
+- درومین
+- ช่วงอายุดรูเมียน
+- ドラミアン
+- ドルミアン期
+- 鼓山期
 has_id_wikidata: Q43712
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-named_after: "[[_Standards/WikiData/WD~Drum_Mountains,14628892]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Drumian,30869626]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_Drumian,134963433]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+named_after: '[[_Standards/WikiData/WD~Drum_Mountains,14628892]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Drumian,30869626]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_Drumian,134963433]]'
 start_time: -504500000-01-01T00:00:00Z
 coordinate_location: Point(-112.9915 39.5117)
 end_time: -500500000-01-01T00:00:00Z
@@ -31,60 +36,70 @@ Commons_category: Drumian
 sRGB_color_hex_triplet: BFD99D
 dv_has_:
   duration_:
-    years: "4.000e+6"
-  previous_:
-    item: "[[Age-509~Wuliuan]]"
-  next_:
-    item: "[[Age-501~Guzhangian]]"
+    years: 4.000e+6
   name_:
-    bg: Друм
+    abbreviated: ep6
+    ar: الدرومي
+    bg: Друмий
     cs: Drum
     da: Drumien
     de: Drumium
+    en: Drumian
+    en-gb: Drumian
     es: Drumiense
     et: Drumi
+    fa: درومین
     fi: Drum
     fr: Drumien
     hu: drumi
+    id: Drumium
     it: drumiano
-    ja: ドルミアン期
+    ja: ドラミアン
     lt: Drumis
-    nl: Drumiën
+    nl: Drumien
+    nn: drum
     no: Drumium
-    pl: Drum
+    pl: drum
     pt: Drumiano
+    ru: друмский ярус
+    scn: Drumianu
     sk: drum
     sl: drumij
     sv: drum
+    th: ช่วงอายุดรูเมียน
+    vi: Tầng Drum
     zh: 鼓山期
-    abbreviated: ep6
-  time_:
-    started: "-504.5e6"
-    stopped: "-500.5e6"
+  next_:
+    item: '[[Age-501~Guzhangian]]'
+  previous_:
+    item: '[[Age-509~Wuliuan]]'
   text_of_:
-    color: "0xBFD99D"
+    color: 0xBFD99D
+  time_:
+    started: -504.5e6
+    stopped: -500.5e6
 dv_is_:
   same_as:
-    - "[[WD~Drumian,43712]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-505~Drumian|Age-505~Drumian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-505~Drumian.public|Age-505~Drumian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-505~Drumian.internal|Age-505~Drumian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-505~Drumian.protect|Age-505~Drumian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-505~Drumian.private|Age-505~Drumian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-505~Drumian.personal|Age-505~Drumian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-505~Drumian.secret|Age-505~Drumian.secret]]"
-dv_has_duration_years: "4.000e+6"
-dv_has_previous_item: "[[Age-509~Wuliuan]]"
-dv_has_next_item: "[[Age-501~Guzhangian]]"
+  - '[[WD~Drumian,43712]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-505~Drumian|Age-505~Drumian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-505~Drumian.public|Age-505~Drumian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-505~Drumian.internal|Age-505~Drumian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-505~Drumian.protect|Age-505~Drumian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-505~Drumian.private|Age-505~Drumian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-505~Drumian.personal|Age-505~Drumian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-505~Drumian.secret|Age-505~Drumian.secret]]'
+dv_has_duration_years: 4.000e+6
+dv_has_previous_item: '[[Age-509~Wuliuan]]'
+dv_has_next_item: '[[Age-501~Guzhangian]]'
 dv_is_same_as:
-  - "[[WD~Drumian,43712]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-505~Drumian|Age-505~Drumian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-505~Drumian.public|Age-505~Drumian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-505~Drumian.internal|Age-505~Drumian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-505~Drumian.protect|Age-505~Drumian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-505~Drumian.private|Age-505~Drumian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-505~Drumian.personal|Age-505~Drumian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-505~Drumian.secret|Age-505~Drumian.secret]]"
+- '[[WD~Drumian,43712]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-505~Drumian|Age-505~Drumian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-505~Drumian.public|Age-505~Drumian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-505~Drumian.internal|Age-505~Drumian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-505~Drumian.protect|Age-505~Drumian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-505~Drumian.private|Age-505~Drumian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-505~Drumian.personal|Age-505~Drumian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-505~Drumian.secret|Age-505~Drumian.secret]]'
 dv_has_name_bg: Друм
 dv_has_name_cs: Drum
 dv_has_name_da: Drumien
@@ -106,9 +121,9 @@ dv_has_name_sl: drumij
 dv_has_name_sv: drum
 dv_has_name_zh: 鼓山期
 dv_has_name_abbreviated: ep6
-dv_has_time_started: "-504.5e6"
-dv_has_time_stopped: "-500.5e6"
-dv_has_text_of_color: "0xBFD99D"
+dv_has_time_started: -504.5e6
+dv_has_time_stopped: -500.5e6
+dv_has_text_of_color: 0xBFD99D
 ---
 # [[Age-505~Drumian]] 
 

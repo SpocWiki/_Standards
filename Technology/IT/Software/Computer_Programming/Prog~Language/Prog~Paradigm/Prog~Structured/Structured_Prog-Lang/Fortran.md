@@ -1,51 +1,66 @@
 ---
-has_time_started: 1957-01-01 
+has_time_started: 1957-01-01
 aliases:
+- Fortran
+- Fortrano
+- Фортран
+- Ֆորտրան
+- فورتران
+- فورترن
+- فۆرتران
+- फ़ोरट्रान
+- फोर्ट्रान
+- ফরট্রান
+- போர்ட்ரான்
+- ఫోర్ట్రాన్
+- ഫോർട്രാൻ
+- ภาษาฟอร์แทรน
+- 포트란
 has_id_wikidata: Q83303
 programming_paradigm:
-  - "[[_Standards/WikiData/WD~object_oriented_programming,79872]]"
-  - "[[_Standards/WikiData/WD~structured_programming,223335]]"
-  - "[[_Standards/WikiData/WD~imperative_programming,275596]]"
-  - "[[_Standards/WikiData/WD~generic_programming,1051282]]"
-  - "[[_Standards/WikiData/WD~procedural_programming,1418502]]"
-  - "[[_Standards/WikiData/WD~array_programming,4307787]]"
+- '[[_Standards/WikiData/WD~object_oriented_programming,79872]]'
+- '[[_Standards/WikiData/WD~structured_programming,223335]]'
+- '[[_Standards/WikiData/WD~imperative_programming,275596]]'
+- '[[_Standards/WikiData/WD~generic_programming,1051282]]'
+- '[[_Standards/WikiData/WD~procedural_programming,1418502]]'
+- '[[_Standards/WikiData/WD~array_programming,4307787]]'
 has_use:
-  - "[[_Standards/WikiData/WD~computer_programming,80006]]"
-  - "[[_Standards/WikiData/WD~analysis,217602]]"
-  - "[[_Standards/WikiData/WD~creating,123819227]]"
-designed_by: "[[_Standards/WikiData/WD~John_Backus,92746]]"
+- '[[_Standards/WikiData/WD~computer_programming,80006]]'
+- '[[_Standards/WikiData/WD~analysis,217602]]'
+- '[[_Standards/WikiData/WD~creating,123819227]]'
+designed_by: '[[_Standards/WikiData/WD~John_Backus,92746]]'
 developer:
-  - "[[_Standards/WikiData/WD~John_Backus,92746]]"
-  - "[[_Standards/WikiData/WD~Q37156,37156]]"
-copyright_license: "[[_Standards/WikiData/WD~MIT_License,334661]]"
+- '[[_Standards/WikiData/WD~John_Backus,92746]]'
+- '[[_Standards/WikiData/WD~Q37156,37156]]'
+copyright_license: '[[_Standards/WikiData/WD~MIT_License,334661]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~object_based_language,899523]]"
-  - "[[_Standards/WikiData/WD~imperative_programming_language,21562092]]"
-  - "[[_Standards/WikiData/WD~structured_programming_language,28920117]]"
-  - "[[_Standards/WikiData/WD~array_programming_language,28920142]]"
-  - "[[_Standards/WikiData/WD~procedural_programming_language,28922885]]"
-  - "[[_Standards/WikiData/WD~generic_programming_language,28923026]]"
-  - "[[_Standards/WikiData/WD~programming_language,9143]]"
+- '[[_Standards/WikiData/WD~object_based_language,899523]]'
+- '[[_Standards/WikiData/WD~imperative_programming_language,21562092]]'
+- '[[_Standards/WikiData/WD~structured_programming_language,28920117]]'
+- '[[_Standards/WikiData/WD~array_programming_language,28920142]]'
+- '[[_Standards/WikiData/WD~procedural_programming_language,28922885]]'
+- '[[_Standards/WikiData/WD~generic_programming_language,28923026]]'
+- '[[_Standards/WikiData/WD~programming_language,9143]]'
 typing_discipline:
-  - "[[_Standards/WikiData/WD~strong_typing,991202]]"
-  - "[[_Standards/WikiData/WD~static_typing,1940914]]"
-  - "[[_Standards/WikiData/WD~manifest_typing,17123089]]"
+- '[[_Standards/WikiData/WD~strong_typing,991202]]'
+- '[[_Standards/WikiData/WD~static_typing,1940914]]'
+- '[[_Standards/WikiData/WD~manifest_typing,17123089]]'
 derivative_work:
-  - "[[_Standards/WikiData/WD~GNU_Fortran,1050459]]"
-  - "[[_Standards/WikiData/WD~Ratfor,4115288]]"
-  - "[[_Standards/WikiData/WD~FORMAC,5426889]]"
-  - "[[_Standards/WikiData/WD~SLIP,7390955]]"
-influenced_by: "[[_Standards/WikiData/WD~Speedcoding,7475416]]"
-copyright_status: "[[_Standards/WikiData/WD~copyrighted,50423863]]"
-described_by_source: "[[_Standards/WikiData/WD~ISO_IEC_1539,85568587]]"
-has_edition_or_translation: "[[_Standards/WikiData/WD~Fortran_2023,126707438]]"
+- '[[_Standards/WikiData/WD~GNU_Fortran,1050459]]'
+- '[[_Standards/WikiData/WD~Ratfor,4115288]]'
+- '[[_Standards/WikiData/WD~FORMAC,5426889]]'
+- '[[_Standards/WikiData/WD~SLIP,7390955]]'
+influenced_by: '[[_Standards/WikiData/WD~Speedcoding,7475416]]'
+copyright_status: '[[_Standards/WikiData/WD~copyrighted,50423863]]'
+described_by_source: '[[_Standards/WikiData/WD~ISO_IEC_1539,85568587]]'
+has_edition_or_translation: '[[_Standards/WikiData/WD~Fortran_2023,126707438]]'
 described_at_URL:
-  - https://marketplace.sshopencloud.eu/tool-or-service/piir0h
-  - https://tapor.ca/tools/484
+- https://marketplace.sshopencloud.eu/tool-or-service/piir0h
+- https://tapor.ca/tools/484
 file_extension:
-  - f
-  - for
-  - f90
+- f
+- for
+- f90
 inception: 1957-01-01T00:00:00Z
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Fortran%20logo.svg
 official_website: https://fortran-lang.org
@@ -61,6 +76,44 @@ GitHub_username: fortran-lang
 X_Twitter_username: fortranlang
 JIS_standard: X3001
 name_in_kana: フォートラン
+dv_has_:
+  name_:
+    ar: فورتران
+    ba: Фортран
+    bg: FORTRAN
+    bn: ফরট্রান
+    bs: FORTRAN
+    ckb: فۆرتران
+    cv: Фортран
+    en: Fortran
+    en-us: Fortran
+    eo: Fortrano
+    eu: FORTRAN
+    fa: فورترن
+    ga: FORTRAN
+    hi: फ़ोरट्रान
+    hy: Ֆորտրան
+    ia: FORTRAN
+    ja: FORTRAN
+    kaa: Fortran
+    kk: Фортран
+    ko: 포트란
+    la: FORTRAN
+    mk: Фортран
+    ml: ഫോർട്രാൻ
+    mn: Фортран
+    mr: फोर्ट्रान
+    ms: FORTRAN
+    mul: Fortran
+    mwl: FORTRAN
+    ru: Фортран
+    sr: Фортран
+    ta: போர்ட்ரான்
+    te: ఫోర్ట్రాన్
+    tg: Фортран
+    th: ภาษาฟอร์แทรน
+    tr: FORTRAN
+    uk: Фортран
 ---
 # [[Fortran]] 
 

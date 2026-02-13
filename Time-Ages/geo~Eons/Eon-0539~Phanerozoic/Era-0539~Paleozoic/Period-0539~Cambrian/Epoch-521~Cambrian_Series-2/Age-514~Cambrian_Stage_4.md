@@ -1,92 +1,125 @@
 ---
 aliases:
-  - Cambrian-Stage-4
-  - Камбрий - 4 етаж
-  - Kambrium-Stupeň 4
-  - Kambrium-Etage 4
-  - Kambrium-Stufe 4
-  - Cámbrico-Piso 4
-  - Kambrium, Lade 4
-  - Kambri-vaihe 4
-  - Cambrien-Etage 4
-  - kambrium 4. emelet
-  - cambriano - stage 4
-  - 第4期
-  - Kambras-Aukšts 4
-  - Cambrium, Zone 4
-  - Kambrium-etasje 4
-  - Kambr-Piętro 4
-  - Câmbrico-Piso 4
-  - kambrium, stupeň 4
-  - kambrij stopnja 4
-  - kambrium etage 4
-  - 第四期
+- 4. wiek kambru
+- Cambrian Stage 4
+- Cambrian-Stage-4
+- cambriano - stage 4
+- Cambrien-Etage 4
+- Cambrium 4e etage
+- Cambrium, Zone 4
+- Cámbrico-Piso 4
+- Câmbrico-Piso 4
+- etasje 4
+- Kambr-Piętro 4
+- Kambras-Aukšts 4
+- Kambri-vaihe 4
+- kambrij stopnja 4
+- kambrijska stopnja 4
+- kambrium 4. emelet
+- kambrium etage 4
+- Kambrium Stufe 4
+- Kambrium Tahap 4
+- Kambrium, Lade 4
+- kambrium, stupeň 4
+- Kambrium-Etage 4
+- Kambrium-etasje 4
+- Kambrium-Stufe 4
+- Kambrium-Stupeň 4
+- kvara kambria etaĝo
+- Pianu 4 dû Cambrianu
+- Piso 4
+- Quart estatge del Cambrià
+- Tầng 4
+- Étage 4
+- Камбрий - 4 етаж
+- Камбрий етаж 4
+- ярус 4
+- اشکوب ۴ کامبرین
+- المرحلة 4 من الكامبري
+- หินช่วงอายุแคมเบรียน 4
+- カンブリア紀第四期
+- 寒武纪第四期
+- 第4期
+- 第四期
 has_id_wikidata: Q5025308
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Cambrian_Stage_4,131610330]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Cambrian_Stage_4,131610330]]'
 start_time: -514500000-01-01T00:00:00Z
 Commons_category: Cambrian Stage 4
 sRGB_color_hex_triplet: B3CA8E
 end_time: -506500000-01-01T00:00:00Z
 dv_has_:
   duration_:
-    years: "5.000e+6"
-  previous_:
-    item: "[[Age-521~Cambrian_Stage_3]]"
-  next_:
-    item: "[[../Epoch-509~Miaolingian/Age-509~Wuliuan|Age-509~Wuliuan]]"
+    years: 5.000e+6
   name_:
-    bg: Камбрий - 4 етаж
+    abbreviated: ep4
+    ar: المرحلة 4 من الكامبري
+    bg: Камбрий етаж 4
+    ca: Quart estatge del Cambrià
     cs: Kambrium-Stupeň 4
     da: Kambrium-Etage 4
-    de: Kambrium-Stufe 4
-    es: Cámbrico-Piso 4
+    de: Kambrium Stufe 4
+    en: Cambrian Stage 4
+    en-gb: Cambrian Stage 4
+    eo: kvara kambria etaĝo
+    es: Piso 4
     et: Kambrium, Lade 4
+    fa: اشکوب ۴ کامبرین
     fi: Kambri-vaihe 4
-    fr: Cambrien-Etage 4
+    fr: Étage 4
     hu: kambrium 4. emelet
+    id: Kambrium Tahap 4
     it: cambriano - stage 4
-    ja: 第4期
+    ja: カンブリア紀第四期
     lt: Kambras-Aukšts 4
-    nl: Cambrium, Zone 4
+    nl: Cambrium 4e etage
+    nn: etasje 4
     no: Kambrium-etasje 4
-    pl: Kambr-Piętro 4
+    pl: 4. wiek kambru
     pt: Câmbrico-Piso 4
+    ru: ярус 4
+    scn: Pianu 4 dû Cambrianu
     sk: kambrium, stupeň 4
-    sl: kambrij stopnja 4
+    sl: kambrijska stopnja 4
     sv: kambrium etage 4
-    zh: 第四期
-    abbreviated: ep4
+    th: หินช่วงอายุแคมเบรียน 4
+    vi: Tầng 4
+    zh: 寒武纪第四期
+    zh-cn: 寒武纪第四期
+  next_:
+    item: '[[../Epoch-509~Miaolingian/Age-509~Wuliuan|Age-509~Wuliuan]]'
+  previous_:
+    item: '[[Age-521~Cambrian_Stage_3]]'
+  text_of_:
+    color: 0xB3CA8E
   time_:
     started: -514000000
     stopped: -509000000
-  text_of_:
-    color: "0xB3CA8E"
 dv_is_:
   same_as:
-    - "[[WD~Cambrian-Stage-4,5025308]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2/Age-514~Cambrian_Stage_4|Age-514~Cambrian_Stage_4]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2/Age-514~Cambrian_Stage_4.public|Age-514~Cambrian_Stage_4.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2/Age-514~Cambrian_Stage_4.internal|Age-514~Cambrian_Stage_4.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2/Age-514~Cambrian_Stage_4.protect|Age-514~Cambrian_Stage_4.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2/Age-514~Cambrian_Stage_4.private|Age-514~Cambrian_Stage_4.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2/Age-514~Cambrian_Stage_4.personal|Age-514~Cambrian_Stage_4.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2/Age-514~Cambrian_Stage_4.secret|Age-514~Cambrian_Stage_4.secret]]"
-dv_has_duration_years: "5.000e+6"
-dv_has_previous_item: "[[Age-521~Cambrian_Stage_3]]"
-dv_has_next_item: "[[../Epoch-509~Miaolingian/Age-509~Wuliuan|Age-509~Wuliuan]]"
+  - '[[WD~Cambrian-Stage-4,5025308]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2/Age-514~Cambrian_Stage_4|Age-514~Cambrian_Stage_4]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2/Age-514~Cambrian_Stage_4.public|Age-514~Cambrian_Stage_4.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2/Age-514~Cambrian_Stage_4.internal|Age-514~Cambrian_Stage_4.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2/Age-514~Cambrian_Stage_4.protect|Age-514~Cambrian_Stage_4.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2/Age-514~Cambrian_Stage_4.private|Age-514~Cambrian_Stage_4.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2/Age-514~Cambrian_Stage_4.personal|Age-514~Cambrian_Stage_4.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2/Age-514~Cambrian_Stage_4.secret|Age-514~Cambrian_Stage_4.secret]]'
+dv_has_duration_years: 5.000e+6
+dv_has_previous_item: '[[Age-521~Cambrian_Stage_3]]'
+dv_has_next_item: '[[../Epoch-509~Miaolingian/Age-509~Wuliuan|Age-509~Wuliuan]]'
 dv_is_same_as:
-  - "[[WD~Cambrian-Stage-4,5025308]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2/Age-514~Cambrian_Stage_4|Age-514~Cambrian_Stage_4]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2/Age-514~Cambrian_Stage_4.public|Age-514~Cambrian_Stage_4.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2/Age-514~Cambrian_Stage_4.internal|Age-514~Cambrian_Stage_4.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2/Age-514~Cambrian_Stage_4.protect|Age-514~Cambrian_Stage_4.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2/Age-514~Cambrian_Stage_4.private|Age-514~Cambrian_Stage_4.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2/Age-514~Cambrian_Stage_4.personal|Age-514~Cambrian_Stage_4.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2/Age-514~Cambrian_Stage_4.secret|Age-514~Cambrian_Stage_4.secret]]"
+- '[[WD~Cambrian-Stage-4,5025308]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2/Age-514~Cambrian_Stage_4|Age-514~Cambrian_Stage_4]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2/Age-514~Cambrian_Stage_4.public|Age-514~Cambrian_Stage_4.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2/Age-514~Cambrian_Stage_4.internal|Age-514~Cambrian_Stage_4.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2/Age-514~Cambrian_Stage_4.protect|Age-514~Cambrian_Stage_4.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2/Age-514~Cambrian_Stage_4.private|Age-514~Cambrian_Stage_4.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2/Age-514~Cambrian_Stage_4.personal|Age-514~Cambrian_Stage_4.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2/Age-514~Cambrian_Stage_4.secret|Age-514~Cambrian_Stage_4.secret]]'
 dv_has_name_bg: Камбрий - 4 етаж
 dv_has_name_cs: Kambrium-Stupeň 4
 dv_has_name_da: Kambrium-Etage 4
@@ -110,7 +143,7 @@ dv_has_name_zh: 第四期
 dv_has_name_abbreviated: ep4
 dv_has_time_started: -514000000
 dv_has_time_stopped: -509000000
-dv_has_text_of_color: "0xB3CA8E"
+dv_has_text_of_color: 0xB3CA8E
 ---
 # [[Age-514~Cambrian_Stage_4]] 
 

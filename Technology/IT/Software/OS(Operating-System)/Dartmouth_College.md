@@ -1,8 +1,145 @@
 ---
 aliases:
-  - Dartmouth College
-  - Dartmouth_College
+- Colaiste Dartmouth
+- Coleg Dartmouth
+- Colegiul Dartmouth
+- Collegium Dartmuthense
+- Coláiste Dartmouth
+- Dartmouth College
+- Dartmouth Főiskola
+- Dartmouth Kolej
+- Dartmouth kolleji
+- Dartmouth-háskóli
+- Dartmouthova kolej
+- Dartmouth_College
+- Dartmut Kolleci
+- Dartmutas koledža
+- Faculdade de Dartmouth
+- kolegio Dartmouth
+- Kolegji Dartmouth
+- Kolehiyo Dartmouth
+- Kolej Dartmouth
+- Perguruan Tinggi Dartmouth
+- Universitat Dartmouth
+- Đại học Dartmouth
+- Κολέγιο Ντάρτμουθ
+- Дартмут көллияте
+- Дартмут университеті
+- Дартмутски колеџ
+- Дартмутский колледж
+- Дартмутський коледж
+- Дартмуты колледж
+- Дартмуцкі каледж
+- Колеж Дартмут
+- Դարտմուտի քոլեջ
+- Տարդմութ քոլեճ
+- דארטמות' קולג'
+- دارتموث کالجی
+- كلية دارتموث
+- ڈارٹماؤتھ کالج
+- ڈارٹماوتھ کالج
+- کالج دارتموث
+- डार्टमथ कॉलेज
+- ডার্টমাউথ মহাবিদ্যালয়
+- ਡਾਰਟਮਾਊਥ ਕਾਲਜ
+- டார்ட்மத் கல்லூரி
+- ഡാർട്മത് കോളേജ്
+- วิทยาลัยดาร์ตมัธ
+- ဒတ်မောက်ကောလိပ်
+- დარტმუთის კოლეჯი
+- ダートマス大学
+- 达特茅斯学院
+- 達特茅斯學院
+- 達茅夫學院
+- 다트머스 대학교
 has_id_wikidata: Q49116
+dv_has_:
+  name_:
+    ar: كلية دارتموث
+    arz: كلية دارتموث
+    ast: Dartmouth College
+    az: Dartmut Kolleci
+    azb: دارتموث کالجی
+    be: Дартмуцкі каледж
+    be-tarask: Дартмуцкі каледж
+    bg: Колеж Дартмут
+    bn: ডার্টমাউথ মহাবিদ্যালয়
+    ca: Universitat Dartmouth
+    cs: Dartmouthova kolej
+    cy: Coleg Dartmouth
+    da: Dartmouth College
+    de: Dartmouth College
+    de-ch: Dartmouth College
+    el: Κολέγιο Ντάρτμουθ
+    en: Dartmouth College
+    en-ca: Dartmouth College
+    en-gb: Dartmouth College
+    eo: kolegio Dartmouth
+    es: Dartmouth College
+    et: Dartmouth College
+    eu: Dartmouth College
+    fa: کالج دارتموث
+    fi: Dartmouth College
+    fr: Dartmouth College
+    ga: Coláiste Dartmouth
+    gd: Colaiste Dartmouth
+    gl: Dartmouth College
+    he: דארטמות' קולג'
+    hu: Dartmouth Főiskola
+    hy: Դարտմուտի քոլեջ
+    hyw: Տարդմութ քոլեճ
+    ia: Dartmouth College
+    id: Perguruan Tinggi Dartmouth
+    ilo: Dartmouth College
+    is: Dartmouth-háskóli
+    it: Dartmouth College
+    ja: ダートマス大学
+    ka: დარტმუთის კოლეჯი
+    kk: Дартмут университеті
+    km: Dartmouth College
+    ko: 다트머스 대학교
+    la: Collegium Dartmuthense
+    lv: Dartmutas koledža
+    ml: ഡാർട്മത് കോളേജ്
+    mr: डार्टमथ कॉलेज
+    ms: Kolej Dartmouth
+    my: ဒတ်မောက်ကောလိပ်
+    nb: Dartmouth College
+    nl: Dartmouth College
+    oc: Dartmouth College
+    os: Дартмуты колледж
+    pa: ਡਾਰਟਮਾਊਥ ਕਾਲਜ
+    pl: Dartmouth College
+    pnb: ڈارٹماؤتھ کالج
+    pt: Faculdade de Dartmouth
+    pt-br: Faculdade de Dartmouth
+    ro: Colegiul Dartmouth
+    ru: Дартмутский колледж
+    sh: Dartmouth College
+    sl: Dartmouth College
+    sq: Kolegji Dartmouth
+    sr: Дартмутски колеџ
+    sv: Dartmouth College
+    ta: டார்ட்மத் கல்லூரி
+    th: วิทยาลัยดาร์ตมัธ
+    tl: Dartmouth College
+    tr: Dartmouth Kolej
+    tt: Дартмут көллияте
+    uk: Дартмутський коледж
+    ur: ڈارٹماوتھ کالج
+    uz: Dartmouth kolleji
+    vi: Đại học Dartmouth
+    war: Kolehiyo Dartmouth
+    yue: 達茅夫學院
+    zh: 达特茅斯学院
+    zh-cn: 达特茅斯学院
+    zh-hans: 达特茅斯学院
+    zh-hant: 達特茅斯學院
+    zh-hk: 達茅夫學院
+    zh-mo: 达特茅斯学院
+    zh-my: 达特茅斯学院
+    zh-sg: 达特茅斯学院
+    zh-tw: 達特茅斯學院
 ---
 > **Dartmouth College** (; DART-məth) is a private Ivy League research university 
 > in[[../../../../Earth/Continent/America~North/USA/USA~Eastern/New_England/New_Hampshire/counties~New_Hampshire/Grafton,County/Hanover,New_Hampshire]]]. 

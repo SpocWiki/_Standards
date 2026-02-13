@@ -1,100 +1,238 @@
 ---
 aliases:
-  - Carboniferous
-  - Karbon
-  - Карбон
-  - Carbonífero
-  - Kivihiili
-  - Carbonifère
-  - karbon
-  - carbonifero
-  - 石炭紀
-  - Karbonas
-  - Carboon
-  - Carbónico
-  - karbón
-  - 石炭纪
+- Aevum Carboniferum
+- an Tréimhse Charbónmhar
+- Carbonifer
+- carbonifero
+- Carboniferosa
+- Carboniferous
+- Carbonifferaidd
+- Carbonifèr
+- Carbonifère
+- Carbonìfaro
+- Carbonìfer
+- Carbonífer
+- Carbonífero
+- Carboníferu
+- Carboon
+- Carbónico
+- Chio̍h-thoàⁿ-kì
+- Daş kömür dövrü
+- iio
+- Kaarboon (da'da)
+- Karbon
+- Karbon dáwiri
+- Karbon kezeñi
+- Karbonas
+- Karbonifer
+- Karbonifero
+- karbonio
+- Karboniperoso
+- karbons
+- Karboon
+- Karboon (Geologii)
+- karbón
+- Kivihiili
+- Kivihiilikausi
+- Kolatímabilið
+- Kỷ Than đá
+- Masa karbon
+- Toshkoʻmir sistemasi
+- Ìgbà Eléèédú
+- Λιθανθρακοφόρος περίοδος
+- Ангишт
+- кам'яновугільний період
+- каменнавугальны перыяд
+- каменноугольный период
+- Карбон
+- Карбон кезеңі
+- музъемэгыр вакыт
+- Таш көмүр мезгили
+- ташкүмер дәвере
+- Քարածխային ժամանակաշրջան
+- קרבון
+- العصر الفحمي
+- كاربون كەزەڭى
+- کاربنمئی
+- کاربونیفیرس
+- کربونیفر
+- कार्बनी कल्प
+- प्राङ्गारयुग
+- ਕਾਰਬਨਮਈ
+- கார்பனிபெரசுக் காலம்
+- കാർബോണിഫെറസ് ഘട്ടം
+- ยุคคาร์บอนิเฟอรัส
+- კარბონული სისტემა
+- 石炭紀
+- 石炭纪
+- 석탄기
 has_id_wikidata: Q133738
 instance_of:
-  - "[[_Standards/WikiData/WD~period,392928]]"
-  - "[[_Standards/WikiData/WD~system,403523]]"
+- '[[_Standards/WikiData/WD~period,392928]]'
+- '[[_Standards/WikiData/WD~system,403523]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]'
 named_by:
-  - "[[_Standards/WikiData/WD~William_Daniel_Conybeare,2143830]]"
-  - "[[_Standards/WikiData/WD~William_Phillips,3568882]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Carboniferous,8343789]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+- '[[_Standards/WikiData/WD~William_Daniel_Conybeare,2143830]]'
+- '[[_Standards/WikiData/WD~William_Phillips,3568882]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Carboniferous,8343789]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 end_time: -298900000-01-01T00:00:00Z
-different_from: "[[_Standards/WikiData/WD~carbon_fibers,5860]]"
-named_after: "[[_Standards/WikiData/WD~coal,24489]]"
+different_from: '[[_Standards/WikiData/WD~carbon_fibers,5860]]'
+named_after: '[[_Standards/WikiData/WD~coal,24489]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide%20Paleographic%20Map%20of%20Earth%2C%20330%20Ma%20%28Serpukhovian%20Age%29.png
 IPA_transcription: /ˌkɑːrbəˈnɪfərəs/
 sRGB_color_hex_triplet: 67A599
 Commons_category: Carboniferous
-Dewey_Decimal_Classification: "551.75"
+Dewey_Decimal_Classification: 551.75
 start_time: -358900000-01-01T00:00:00Z
 dv_has_:
   duration_:
-    years: "6.000e+7"
-  previous_:
-    item: "[[Period-0419~Devonian]]"
-  next_:
-    item: "[[Period-0299~Permian]]"
+    years: 6.000e+7
   name_:
+    abbreviated: C
+    af: Karboon
+    ar: العصر الفحمي
+    ast: Carboníferu
+    az: Daş kömür dövrü
+    be: каменнавугальны перыяд
+    be-tarask: карбон
     bg: Карбон
-    cs: Karbon
+    bjn: Karbon
+    br: Karbonifer
+    ca: Carbonífer
+    cdo: Carboniferous
+    cs: karbon
+    cy: Carbonifferaidd
     da: Karbon
     de: Karbon
+    el: Λιθανθρακοφόρος περίοδος
+    en: Carboniferous
+    en-gb: Carboniferous
+    eo: karbonio
     es: Carbonífero
     et: Karbon
-    fi: Kivihiili
+    eu: Karbonifero
+    fa: کربونیفر
+    fi: Kivihiilikausi
     fr: Carbonifère
+    frr: Karboon (Geologii)
+    ga: an Tréimhse Charbónmhar
+    gl: Carbonífero
+    gsw: Karbon
+    he: קרבון
+    hi: कार्बनी कल्प
+    hr: karbon
     hu: karbon
-    it: carbonifero
+    hy: Քարածխային ժամանակաշրջան
+    id: Karbon
+    is: Kolatímabilið
+    it: Carbonifero
     ja: 石炭紀
-    lt: Karbonas
+    ka: კარბონული სისტემა
+    kaa: Karbon dáwiri
+    kk: Карбон кезеңі
+    kk-arab: كاربون كەزەڭى
+    kk-cn: كاربون كەزەڭى
+    kk-cyrl: Карбон кезеңі
+    kk-kz: Карбон кезеңі
+    kk-latn: Karbon kezeñi
+    kk-tr: Karbon kezeñi
+    ko: 석탄기
+    ky: Таш көмүр мезгили
+    la: Aevum Carboniferum
+    lb: Karbon
+    lfn: Carboniferosa
+    li: Carboon
+    lt: karbonas
+    lv: karbons
+    mk: карбон
+    ml: കാർബോണിഫെറസ് ഘട്ടം
+    mn: iio
+    ms: Masa karbon
+    mzn: کربونیفر
+    nan: Chio̍h-thoàⁿ-kì
+    nb: Karbon
+    ne: प्राङ्गारयुग
     nl: Carboon
+    nn: karbon
     no: Karbon
-    pl: Karbon
-    pt: Carbónico
-    sk: karbón
+    oc: Carbonifèr
+    pa: ਕਾਰਬਨਮਈ
+    pl: karbon
+    pms: Carbonìfer
+    pnb: کاربنمئی
+    pt: Carbonífero
+    ro: Carbonifer
+    ru: каменноугольный период
+    sh: Karbon
+    si: Carboniferous
+    sk: Karbón
     sl: karbon
-    sv: karbon
+    so: Kaarboon (da'da)
+    sr: карбон
+    sr-ec: карбон
+    sr-el: karbon
+    sv: Karbon
+    ta: கார்பனிபெரசுக் காலம்
+    tg: Ангишт
+    th: ยุคคาร์บอนิเฟอรัส
+    tl: Karboniperoso
+    tr: Karbonifer
+    tt: ташкүмер дәвере
+    udm: музъемэгыр вакыт
+    uk: кам'яновугільний період
+    ur: کاربونیفیرس
+    uz: Toshkoʻmir sistemasi
+    vec: Carbonìfaro
+    vi: Kỷ Than đá
+    war: Carboniferous
+    wuu: 石炭纪
+    yo: Ìgbà Eléèédú
+    yue: 石炭紀
     zh: 石炭纪
-    abbreviated: C
-  time_:
-    started: "-358.9e6"
-    stopped: "-298.9e6"
+    zh-cn: 石炭纪
+    zh-hans: 石炭纪
+    zh-hant: 石炭紀
+    zh-hk: 石炭紀
+    zh-sg: 石炭纪
+    zh-tw: 石炭紀
+  next_:
+    item: '[[Period-0299~Permian]]'
+  previous_:
+    item: '[[Period-0419~Devonian]]'
   text_of_:
-    color: "0x67A599"
+    color: 0x67A599
+  time_:
+    started: -358.9e6
+    stopped: -298.9e6
 dv_is_:
   same_as:
-    - "[[WD~Carboniferous,133738]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous|Period-0359~Carboniferous]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous.public|Period-0359~Carboniferous.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous.internal|Period-0359~Carboniferous.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous.protect|Period-0359~Carboniferous.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous.private|Period-0359~Carboniferous.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous.personal|Period-0359~Carboniferous.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous.secret|Period-0359~Carboniferous.secret]]"
-dv_has_duration_years: "6.000e+7"
-dv_has_previous_item: "[[Period-0419~Devonian]]"
-dv_has_next_item: "[[Period-0299~Permian]]"
+  - '[[WD~Carboniferous,133738]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous|Period-0359~Carboniferous]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous.public|Period-0359~Carboniferous.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous.internal|Period-0359~Carboniferous.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous.protect|Period-0359~Carboniferous.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous.private|Period-0359~Carboniferous.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous.personal|Period-0359~Carboniferous.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous.secret|Period-0359~Carboniferous.secret]]'
+dv_has_duration_years: 6.000e+7
+dv_has_previous_item: '[[Period-0419~Devonian]]'
+dv_has_next_item: '[[Period-0299~Permian]]'
 dv_is_same_as:
-  - "[[WD~Carboniferous,133738]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous|Period-0359~Carboniferous]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous.public|Period-0359~Carboniferous.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous.internal|Period-0359~Carboniferous.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous.protect|Period-0359~Carboniferous.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous.private|Period-0359~Carboniferous.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous.personal|Period-0359~Carboniferous.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous.secret|Period-0359~Carboniferous.secret]]"
+- '[[WD~Carboniferous,133738]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous|Period-0359~Carboniferous]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous.public|Period-0359~Carboniferous.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous.internal|Period-0359~Carboniferous.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous.protect|Period-0359~Carboniferous.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous.private|Period-0359~Carboniferous.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous.personal|Period-0359~Carboniferous.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous.secret|Period-0359~Carboniferous.secret]]'
 dv_has_name_bg: Карбон
 dv_has_name_cs: Karbon
 dv_has_name_da: Karbon
@@ -116,11 +254,10 @@ dv_has_name_sl: karbon
 dv_has_name_sv: karbon
 dv_has_name_zh: 石炭纪
 dv_has_name_abbreviated: C
-dv_has_time_started: "-358.9e6"
-dv_has_time_stopped: "-298.9e6"
-dv_has_text_of_color: "0x67A599"
+dv_has_time_started: -358.9e6
+dv_has_time_stopped: -298.9e6
+dv_has_text_of_color: 0x67A599
 ---
-
 # [[Period-0359~Carboniferous]] 
 
 #is_a_/time_/Period 

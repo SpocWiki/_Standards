@@ -1,56 +1,187 @@
 ---
 aliases:
-  - War_of_the_Pacific
-  - War of the Pacific
-  - Guerra del Pacífico
+- 1879-1883 çулсенчи Лăпкă океан вăрçи
+- Brezel ar Meurvor Habask
+- Chiến tranh Thái Bình Dương
+- Druhá tichomořská válka
+- guera del pasìfego
+- guerra del Pacifico
+- Guerra del Pacífic
+- Guerra del Pacífico
+- Guerra del Pacíficu
+- Guerra do Pacífico
+- guerre du Pacifique
+- Guèrra dau Pacific
+- Kyrrahafsstríðið
+- Milito di Pacifiko
+- Ozeano Bareko Gerra
+- Pacifika Milito
+- Pacifički rat
+- Paraguasu Py'aguapy Ñorairõ
+- Pasifik Savaşı
+- Perang di Pasifik
+- Ramiojo vandenyno karas
+- Războiul Pacificului
+- Sakit okeanı müharibəsi
+- Salpeetrisõda
+- Salpeterkrieg
+- Salpeterkrigen
+- salpeterkriget
+- Salpeteroorlog
+- salétromháború
+- solitrna vojna
+- Stillehavskrigen
+- Tyynenmeren sota
+- Vita vya shura
+- War of the Pacific
+- War_of_the_Pacific
+- Wojna o Pacyfik
+- Πόλεμος του Ειρηνικού
+- Втора тихоокеанска война
+- Вторая тихоокеанская война
+- Пацифички рат
+- Салетравая вайна
+- Тихоокеанска војна
+- Тихоокеанська війна
+- Тымыҡ океан һуғышы
+- Экинчи шошокеан къазауат
+- Երկրորդ Խաղաղօվկիանոսյան պատերազմ
+- מלחמת האוקיינוס השקט
+- بحراوقیانوس کی جنگ
+- جنگ اقیانوس آرام
+- حرب المحيط الهادئ
+- پاسیفیک ساواشی
+- प्रशांत महासागर का युद्ध
+- প্রশান্ত মহাসাগরের যুদ্ধ
+- สงครามมหาสมุทรแปซิฟิก
+- წყნარი ოკეანის მეორე ომი
+- 太平洋戦争
+- 硝石战争
+- 硝石戰爭
+- 태평양 전쟁
 has_id_wikidata: Q152004
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 named_after:
-  - "[[_Standards/WikiData/WD~centavo,1553039]]"
-  - "[[_Standards/WikiData/WD~saltpeter,12970360]]"
-  - "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
+- '[[_Standards/WikiData/WD~centavo,1553039]]'
+- '[[_Standards/WikiData/WD~saltpeter,12970360]]'
+- '[[_Standards/WikiData/WD~Pacific_Ocean,98]]'
 order_of_battle:
-  - "[[_Standards/WikiData/WD~order_of_battle_of_the_Chilean_Army_during_the_Pacific_War,30904822]]"
-  - "[[_Standards/WikiData/WD~order_of_battle_of_the_Bolivian_Army_during_the_Pacific_War,48781628]]"
+- '[[_Standards/WikiData/WD~order_of_battle_of_the_Chilean_Army_during_the_Pacific_War,30904822]]'
+- '[[_Standards/WikiData/WD~order_of_battle_of_the_Bolivian_Army_during_the_Pacific_War,48781628]]'
 end_time: 1884-04-04T00:00:00Z
 start_time: 1879-04-05T00:00:00Z
 participant:
-  - "[[_Standards/WikiData/WD~Chile,298]]"
-  - "[[_Standards/WikiData/WD~Peru,419]]"
-  - "[[_Standards/WikiData/WD~Bolivia,750]]"
+- '[[_Standards/WikiData/WD~Chile,298]]'
+- '[[_Standards/WikiData/WD~Peru,419]]'
+- '[[_Standards/WikiData/WD~Bolivia,750]]'
 country:
-  - "[[_Standards/WikiData/WD~Chile,298]]"
-  - "[[_Standards/WikiData/WD~Peru,419]]"
-  - "[[_Standards/WikiData/WD~Bolivia,750]]"
+- '[[_Standards/WikiData/WD~Chile,298]]'
+- '[[_Standards/WikiData/WD~Peru,419]]'
+- '[[_Standards/WikiData/WD~Bolivia,750]]'
 location:
-  - "[[_Standards/WikiData/WD~Peru,419]]"
-  - "[[_Standards/WikiData/WD~Bolivia,750]]"
-instance_of: "[[_Standards/WikiData/WD~war,198]]"
+- '[[_Standards/WikiData/WD~Peru,419]]'
+- '[[_Standards/WikiData/WD~Bolivia,750]]'
+instance_of: '[[_Standards/WikiData/WD~war,198]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sinking%20of%20the%20Esmeralda%20during%20the%20battle%20of%20Iquique.jpg
 Commons_gallery: Óleos de la Guerra del Pacífico
 Commons_category: War of the Pacific
-Dewey_Decimal_Classification: "983.0616"
+Dewey_Decimal_Classification: 983.0616
 dv_is_:
   same_as:
-    - "[[../../../../../../../../WikiData/WD~War_of_the_Pacific,152004|WD~War_of_the_Pacific,152004]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879|1884-War_of_the_Pacific+1879]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879.public|1884-War_of_the_Pacific+1879.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879.internal|1884-War_of_the_Pacific+1879.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879.protect|1884-War_of_the_Pacific+1879.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879.private|1884-War_of_the_Pacific+1879.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879.personal|1884-War_of_the_Pacific+1879.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879.secret|1884-War_of_the_Pacific+1879.secret]]"
+  - '[[../../../../../../../../WikiData/WD~War_of_the_Pacific,152004|WD~War_of_the_Pacific,152004]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879|1884-War_of_the_Pacific+1879]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879.public|1884-War_of_the_Pacific+1879.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879.internal|1884-War_of_the_Pacific+1879.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879.protect|1884-War_of_the_Pacific+1879.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879.private|1884-War_of_the_Pacific+1879.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879.personal|1884-War_of_the_Pacific+1879.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879.secret|1884-War_of_the_Pacific+1879.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~War_of_the_Pacific,152004|WD~War_of_the_Pacific,152004]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879|1884-War_of_the_Pacific+1879]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879.public|1884-War_of_the_Pacific+1879.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879.internal|1884-War_of_the_Pacific+1879.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879.protect|1884-War_of_the_Pacific+1879.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879.private|1884-War_of_the_Pacific+1879.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879.personal|1884-War_of_the_Pacific+1879.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879.secret|1884-War_of_the_Pacific+1879.secret]]"
+- '[[../../../../../../../../WikiData/WD~War_of_the_Pacific,152004|WD~War_of_the_Pacific,152004]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879|1884-War_of_the_Pacific+1879]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879.public|1884-War_of_the_Pacific+1879.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879.internal|1884-War_of_the_Pacific+1879.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879.protect|1884-War_of_the_Pacific+1879.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879.private|1884-War_of_the_Pacific+1879.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879.personal|1884-War_of_the_Pacific+1879.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879.secret|1884-War_of_the_Pacific+1879.secret]]'
+dv_has_:
+  name_:
+    af: Salpeteroorlog
+    ar: حرب المحيط الهادئ
+    ast: Guerra del Pacíficu
+    az: Sakit okeanı müharibəsi
+    azb: پاسیفیک ساواشی
+    ba: Тымыҡ океан һуғышы
+    be: Салетравая вайна
+    be-tarask: Салетравая вайна
+    bg: Втора тихоокеанска война
+    bn: প্রশান্ত মহাসাগরের যুদ্ধ
+    br: Brezel ar Meurvor Habask
+    ca: Guerra del Pacífic
+    cs: Druhá tichomořská válka
+    cv: 1879-1883 çулсенчи Лăпкă океан вăрçи
+    da: Salpeterkrigen
+    de: Salpeterkrieg
+    el: Πόλεμος του Ειρηνικού
+    en: War of the Pacific
+    eo: Pacifika Milito
+    es: Guerra del Pacífico
+    et: Salpeetrisõda
+    eu: Ozeano Bareko Gerra
+    fa: جنگ اقیانوس آرام
+    fi: Tyynenmeren sota
+    fr: guerre du Pacifique
+    gl: Guerra do Pacífico
+    gn: Paraguasu Py'aguapy Ñorairõ
+    he: מלחמת האוקיינוס השקט
+    hi: प्रशांत महासागर का युद्ध
+    hr: Pacifički rat
+    hu: salétromháború
+    hy: Երկրորդ Խաղաղօվկիանոսյան պատերազմ
+    id: Perang di Pasifik
+    io: Milito di Pacifiko
+    is: Kyrrahafsstríðið
+    it: guerra del Pacifico
+    ja: 太平洋戦争
+    ka: წყნარი ოკეანის მეორე ომი
+    ko: 태평양 전쟁
+    krc: Экинчи шошокеан къазауат
+    lt: Ramiojo vandenyno karas
+    mk: Тихоокеанска војна
+    ms: Perang di Pasifik
+    nb: Salpeterkrigen
+    nl: Salpeteroorlog
+    nn: Stillehavskrigen
+    oc: Guèrra dau Pacific
+    pl: Wojna o Pacyfik
+    pt: Guerra do Pacífico
+    ro: Războiul Pacificului
+    ru: Вторая тихоокеанская война
+    sh: Pacifički rat
+    sl: solitrna vojna
+    so: War of the pacific
+    sr: Пацифички рат
+    sr-ec: Пацифички рат
+    sr-el: Pacifički rat
+    sv: salpeterkriget
+    sw: Vita vya shura
+    th: สงครามมหาสมุทรแปซิฟิก
+    tr: Pasifik Savaşı
+    uk: Тихоокеанська війна
+    ur: بحراوقیانوس کی جنگ
+    vec: guera del pasìfego
+    vi: Chiến tranh Thái Bình Dương
+    wuu: 硝石战争
+    yue: 硝石戰爭
+    zh: 硝石战争
+    zh-cn: 硝石战争
+    zh-hans: 硝石战争
+    zh-hant: 硝石戰爭
+    zh-hk: 硝石戰爭
+    zh-sg: 硝石战争
+    zh-tw: 硝石戰爭
 ---
-
 # [[1884-War_of_the_Pacific+1879]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~War_of_the_Pacific,152004|WD~War_of_the_Pacific,152004]]  

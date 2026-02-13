@@ -1,31 +1,49 @@
 ---
 aliases:
-  - Cambrian Series 2
-  - Камбрий - 2 ѿериѿ
-  - Kambrium-Oddělení 2
-  - Kambrium-Serie 2
-  - Cámbrico-Serie 2
-  - Kambrium, Ladestik 2
-  - Kambri-sarja 2
-  - Cambrien-Séries 2
-  - kambrium 2. sorozat
-  - cambriano - serie 2
-  - 第2世
-  - Kambras-Serija 2
-  - Cambrium, Zone 2
-  - Kambrium -serie 2
-  - Kambr-Oddział 2
-  - Câmbrico-Série 2
-  - kambrium - séria 2
-  - kambrij-serija 2
-  - kambrium serie 2
-  - 第二世
+- Cambrian Series 2
+- cambriano - serie 2
+- Cambriano Série 2
+- Cambrien-Séries 2
+- Cambrium 2e serie
+- Cambrium, Zone 2
+- Cámbrico-Serie 2
+- Câmbrico-Série 2
+- Druga epoka kambru
+- dua epoko de kambrio
+- Kambiyen Seri 2
+- Kambr-Oddział 2
+- Kambras-Serija 2
+- Kambri-sarja 2
+- kambrij-serija 2
+- kambrijska serija 2
+- kambrium - séria 2
+- Kambrium -serie 2
+- kambrium 2. sorozat
+- Kambrium Seri 2
+- kambrium serie 2
+- Kambrium, Ladestik 2
+- Kambrium-Oddělení 2
+- Kambrium-Serie 2
+- Segona sèrie del Cambrià
+- Serie 2
+- Siri 2 Kambria
+- Série 2
+- Thống 2 (kỷ Cambri)
+- Камбрий - 2 ѿериѿ
+- отдел 2
+- النسق 2 من الكمبري
+- ردیف ۲ کامبرین
+- หินสมัยแคมเบรียน 2
+- カンブリア紀第二期
+- 寒武纪第二世
+- 第2世
+- 第二世
 has_id_wikidata: Q5025303
 instance_of:
-  - "[[_Standards/WikiData/WD~series,312468]]"
-  - "[[_Standards/WikiData/WD~epoch,754897]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Cambrian_Series_2,30869621]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+- '[[_Standards/WikiData/WD~series,312468]]'
+- '[[_Standards/WikiData/WD~epoch,754897]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Cambrian_Series_2,30869621]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 start_time: -521000000-01-01T00:00:00Z
 Commons_category: Cambrian Series 2
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide%20Paleographic%20Map%20of%20Earth%2C%20515%20Ma.png
@@ -34,60 +52,73 @@ sRGB_color_hex_triplet: 99C078
 end_time: -506500000-01-01T00:00:00Z
 dv_has_:
   duration_:
-    years: "1.200e+7"
-  previous_:
-    item: "[[Epoch~]]"
-  next_:
-    item: "[[Epoch~]]"
+    years: 1.200e+7
   name_:
+    abbreviated: Ep2
+    ar: النسق 2 من الكمبري
     bg: Камбрий - 2 ѿериѿ
+    ca: Segona sèrie del Cambrià
     cs: Kambrium-Oddělení 2
     da: Kambrium-Serie 2
-    de: Kambrium-Serie 2
-    es: Cámbrico-Serie 2
+    de: Kambrium Serie 2
+    en: Cambrian Series 2
+    en-gb: Cambrian Series 2
+    eo: dua epoko de kambrio
+    es: Serie 2
     et: Kambrium, Ladestik 2
+    fa: ردیف ۲ کامبرین
     fi: Kambri-sarja 2
-    fr: Cambrien-Séries 2
+    fr: Série 2
     hu: kambrium 2. sorozat
+    id: Kambrium Seri 2
     it: cambriano - serie 2
-    ja: 第2世
+    ja: カンブリア紀第二期
     lt: Kambras-Serija 2
-    nl: Cambrium, Zone 2
+    ms: Siri 2 Kambria
+    nl: Cambrium 2e serie
+    nn: serie 2
     no: Kambrium -serie 2
-    pl: Kambr-Oddział 2
-    pt: Câmbrico-Série 2
+    pl: Druga epoka kambru
+    pt: Cambriano Série 2
+    ru: отдел 2
     sk: kambrium - séria 2
-    sl: kambrij-serija 2
+    sl: kambrijska serija 2
     sv: kambrium serie 2
-    zh: 第二世
-    abbreviated: Ep2
+    th: หินสมัยแคมเบรียน 2
+    tr: Kambiyen Seri 2
+    vi: Thống 2 (kỷ Cambri)
+    zh: 寒武纪第二世
+  next_:
+    item: '[[Epoch~]]'
+  previous_:
+    item: '[[Epoch~]]'
+  text_of_:
+    color: 0x99C078
   time_:
     started: -521000000
     stopped: -509000000
-  text_of_:
-    color: "0x99C078"
 dv_is_:
   same_as:
-    - "[[WD~Cambrian_Series_2,5025303]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2|Epoch-521~Cambrian_Series-2]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2.public|Epoch-521~Cambrian_Series-2.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2.internal|Epoch-521~Cambrian_Series-2.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2.protect|Epoch-521~Cambrian_Series-2.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2.private|Epoch-521~Cambrian_Series-2.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2.personal|Epoch-521~Cambrian_Series-2.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2.secret|Epoch-521~Cambrian_Series-2.secret]]"
-dv_has_duration_years: "1.200e+7"
-dv_has_previous_item: "[[Epoch~]]"
-dv_has_next_item: "[[Epoch~]]"
+  - '[[WD~Cambrian_Series_2,5025303]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2|Epoch-521~Cambrian_Series-2]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2.public|Epoch-521~Cambrian_Series-2.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2.internal|Epoch-521~Cambrian_Series-2.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2.protect|Epoch-521~Cambrian_Series-2.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2.private|Epoch-521~Cambrian_Series-2.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2.personal|Epoch-521~Cambrian_Series-2.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2.secret|Epoch-521~Cambrian_Series-2.secret]]'
+dv_has_duration_years: 1.200e+7
+dv_has_previous_item: '[[Epoch~]]'
+dv_has_next_item: '[[Epoch~]]'
 dv_is_same_as:
-  - "[[WD~Cambrian_Series_2,5025303]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2|Epoch-521~Cambrian_Series-2]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2.public|Epoch-521~Cambrian_Series-2.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2.internal|Epoch-521~Cambrian_Series-2.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2.protect|Epoch-521~Cambrian_Series-2.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2.private|Epoch-521~Cambrian_Series-2.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2.personal|Epoch-521~Cambrian_Series-2.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2.secret|Epoch-521~Cambrian_Series-2.secret]]"
+- '[[WD~Cambrian_Series_2,5025303]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2|Epoch-521~Cambrian_Series-2]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2.public|Epoch-521~Cambrian_Series-2.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2.internal|Epoch-521~Cambrian_Series-2.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2.protect|Epoch-521~Cambrian_Series-2.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2.private|Epoch-521~Cambrian_Series-2.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2.personal|Epoch-521~Cambrian_Series-2.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2.secret|Epoch-521~Cambrian_Series-2.secret]]'
 dv_has_name_bg: Камбрий - 2 ѿериѿ
 dv_has_name_cs: Kambrium-Oddělení 2
 dv_has_name_da: Kambrium-Serie 2
@@ -111,9 +142,8 @@ dv_has_name_zh: 第二世
 dv_has_name_abbreviated: Ep2
 dv_has_time_started: -521000000
 dv_has_time_stopped: -509000000
-dv_has_text_of_color: "0x99C078"
+dv_has_text_of_color: 0x99C078
 ---
-
 # [[Epoch-521~Cambrian_Series-2]] 
 
 #is_a_/time_/Epoch 

@@ -1,39 +1,78 @@
 ---
 aliases:
-  - Titus_Livius
-  - Livy
-  - Titus Livius
+- Livias
+- Livije
+- Livius
+- Livy
+- Lívíus
+- Tit Livi
+- Tit Livij
+- Tit Livije
+- Titas Livijus
+- Tite-Live
+- Tito Livio
+- Tito Lívio
+- Tits Līvijs
+- Titu Liviu
+- Titu Líviu
+- Titus Livi
+- Titus Livius
+- Titus_Livius
+- Tytus Liwiusz
+- Tît Livi
+- Τίτος Λίβιος
+- Тіт Лівій
+- Тит Ливиј
+- Тит Ливије
+- Тит Ливий
+- Тытус Лівіюс
+- Ціт Лівій
+- Տիտոս Լիվիոս
+- טיטוס ליוויוס
+- تيتوس ليفيوس
+- تيتوس ليويوس
+- تیتوس لیویوس
+- लिव्ही टायटस
+- டைட்டஸ் லிவியஸ் லிவி
+- ടൈറ്റസ് ലിവിയുസ് പറ്റാവിനുസ്
+- ลิวี
+- လီဗီ၊ တီ အယ်
+- ტიტუს ლივიუსი
+- ティトゥス・リウィウス
+- 李維
+- 蒂托·李维
+- 티투스 리비우스
 has_id_wikidata: Q2039
 occupation:
-  - "[[_Standards/WikiData/WD~historian,201788]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~poet,49757]]"
-gens: "[[_Standards/WikiData/WD~Livia_gens,301330]]"
+- '[[_Standards/WikiData/WD~historian,201788]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~poet,49757]]'
+gens: '[[_Standards/WikiData/WD~Livia_gens,301330]]'
 described_by_source:
-  - "[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
-  - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-notable_work: "[[_Standards/WikiData/WD~History_of_Rome,1155892]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-praenomen: "[[_Standards/WikiData/WD~Titus,21473990]]"
-nomen_gentilicium: "[[_Standards/WikiData/WD~Livius,32979256]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~Geldersch_Landschap_en_Kasteelen,98904445]]"
-attested_in: "[[_Standards/WikiData/WD~Mare_Magnum_volume_82,118465996]]"
+- '[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+notable_work: '[[_Standards/WikiData/WD~History_of_Rome,1155892]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+praenomen: '[[_Standards/WikiData/WD~Titus,21473990]]'
+nomen_gentilicium: '[[_Standards/WikiData/WD~Livius,32979256]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
+has_works_in_the_collection: '[[_Standards/WikiData/WD~Geldersch_Landschap_en_Kasteelen,98904445]]'
+attested_in: '[[_Standards/WikiData/WD~Mare_Magnum_volume_82,118465996]]'
 date_of_birth: -0058-01-01T00:00:00Z
-place_of_death: "[[_Standards/WikiData/WD~Padua,617]]"
-place_of_birth: "[[_Standards/WikiData/WD~Padua,617]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-genre: "[[_Standards/WikiData/WD~historiography,50675]]"
+place_of_death: '[[_Standards/WikiData/WD~Padua,617]]'
+place_of_birth: '[[_Standards/WikiData/WD~Padua,617]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+genre: '[[_Standards/WikiData/WD~historiography,50675]]'
 BHCL_UUID: 6667b95d-1991-4641-8dc6-5a9eca7273de
-Wolfram_Language_entity_code: Entity"Concept", "Livy = `=this.dv_"Concept", "Livy` 
+Wolfram_Language_entity_code: Entity"Concept", "Livy = `=this.dv_"Concept", "Livy`
 Krugosvet_article_archived_: istoriya/liviy-tit
 Royal_Academy_new_identifier: livy
 name_in_native_language: Titus Livius
@@ -46,33 +85,135 @@ NLC_authorities: 211515
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Titus%20Livius.png
 ISNI: 122834055
 Provenio_UUID:
-  - 06d0271b-a9c8-42f8-bc61-47f2d73a6bef
-  - 165962fb-82d1-4eb6-8a1a-88c00ad4a7c5
+- 06d0271b-a9c8-42f8-bc61-47f2d73a6bef
+- 165962fb-82d1-4eb6-8a1a-88c00ad4a7c5
 Libris_URI: 1zcfg8kk4xzmqz4
 Europeana_entity: agent/base/60138
 dv_"Concept", "Livy: 5x926"
 dv_is_:
   same_as:
-    - "[[../../../../../../../../../WikiData/WD~Titus_Livius,2039|WD~Titus_Livius,2039]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Titus_Livius|Titus_Livius]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Titus_Livius.public|Titus_Livius.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Titus_Livius.internal|Titus_Livius.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Titus_Livius.protect|Titus_Livius.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Titus_Livius.private|Titus_Livius.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Titus_Livius.personal|Titus_Livius.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Titus_Livius.secret|Titus_Livius.secret]]"
+  - '[[../../../../../../../../../WikiData/WD~Titus_Livius,2039|WD~Titus_Livius,2039]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Titus_Livius|Titus_Livius]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Titus_Livius.public|Titus_Livius.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Titus_Livius.internal|Titus_Livius.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Titus_Livius.protect|Titus_Livius.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Titus_Livius.private|Titus_Livius.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Titus_Livius.personal|Titus_Livius.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Titus_Livius.secret|Titus_Livius.secret]]'
 dv_concept-livy: 5x926"
 dv_is_same_as:
-  - "[[../../../../../../../../../WikiData/WD~Titus_Livius,2039|WD~Titus_Livius,2039]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Titus_Livius|Titus_Livius]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Titus_Livius.public|Titus_Livius.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Titus_Livius.internal|Titus_Livius.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Titus_Livius.protect|Titus_Livius.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Titus_Livius.private|Titus_Livius.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Titus_Livius.personal|Titus_Livius.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Titus_Livius.secret|Titus_Livius.secret]]"
+- '[[../../../../../../../../../WikiData/WD~Titus_Livius,2039|WD~Titus_Livius,2039]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Titus_Livius|Titus_Livius]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Titus_Livius.public|Titus_Livius.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Titus_Livius.internal|Titus_Livius.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Titus_Livius.protect|Titus_Livius.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Titus_Livius.private|Titus_Livius.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Titus_Livius.personal|Titus_Livius.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Titus_Livius.secret|Titus_Livius.secret]]'
+dv_has_:
+  name_:
+    af: Titus Livius
+    an: Tito Livio
+    ar: تيتوس ليفيوس
+    ary: تيتوس ليويوس
+    arz: تيتوس ليفيوس
+    ast: Titu Liviu
+    az: Tit Livi
+    azb: تیتوس لیویوس
+    be: Ціт Лівій
+    be-tarask: Тытус Лівіюс
+    bg: Тит Ливий
+    br: Titus Livius
+    bs: Livije
+    ca: Titus Livi
+    co: Titu Liviu
+    cs: Livius
+    cv: Тит Ливий
+    cy: Titus Livius
+    da: Livius
+    de: Titus Livius
+    de-ch: Titus Livius
+    diq: Titus Livius
+    el: Τίτος Λίβιος
+    en: Titus Livius
+    en-ca: Livy
+    en-gb: Livy
+    eo: Tito Livio
+    es: Tito Livio
+    et: Titus Livius
+    eu: Tito Livio
+    ext: Titu Líviu
+    fa: تیتوس لیویوس
+    fi: Livius
+    fr: Tite-Live
+    fur: Tît Livi
+    ga: Livias
+    gd: Livius
+    gl: Tito Livio
+    he: טיטוס ליוויוס
+    hr: Livije
+    hu: Titus Livius
+    hy: Տիտոս Լիվիոս
+    id: Titus Livius
+    io: Titus Livius
+    is: Lívíus
+    it: Tito Livio
+    ja: ティトゥス・リウィウス
+    ka: ტიტუს ლივიუსი
+    kk: Тит Ливий
+    ko: 티투스 리비우스
+    ku: Titus Livius
+    la: Titus Livius
+    lb: Titus Livius
+    lfn: Tito Livio
+    li: Livius
+    lt: Titas Livijus
+    lv: Tits Līvijs
+    mg: Titus Livius
+    mk: Тит Ливиј
+    ml: ടൈറ്റസ് ലിവിയുസ് പറ്റാവിനുസ്
+    mr: लिव्ही टायटस
+    ms: Livius
+    mul: Titus Livius
+    my: လီဗီ၊ တီ အယ်
+    nb: Titus Livius
+    nl: Titus Livius
+    nn: Titus Livius
+    oc: Tit Livi
+    pcd: Tite-Live
+    pl: Tytus Liwiusz
+    pt: Tito Lívio
+    pt-br: Tito Lívio
+    ro: Titus Livius
+    ru: Тит Ливий
+    rue: Тит Ливий
+    scn: Titu Liviu
+    sco: Livy
+    sh: Tit Livije
+    sk: Titus Livius
+    sl: Tit Livij
+    sq: Tit Livi
+    sr: Тит Ливије
+    sr-ec: Тит Ливије
+    sv: Titus Livius
+    ta: டைட்டஸ் லிவியஸ் லிவி
+    th: ลิวี
+    tl: Livy
+    tr: Titus Livius
+    uk: Тіт Лівій
+    ur: تیتوس لیویوس
+    uz: Titus Livius
+    vec: Tito Livio
+    vi: Titus Livius
+    war: Tito Livio
+    wuu: 蒂托·李维
+    xmf: ტიტუს ლივიუსი
+    yue: 李維
+    zh: 蒂托·李维
+    zh-cn: 蒂托·李维
+    zh-hans: 蒂托·李维
+    zh-hant: 蒂托·李维
 ---
-
 # [[Titus_Livius]] 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Titus_Livius,2039|WD~Titus_Livius,2039]]  

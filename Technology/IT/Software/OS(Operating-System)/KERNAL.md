@@ -1,8 +1,22 @@
 ---
 has_id_wikidata: Q1362489
+dv_has_:
+  name_:
+    de: Kernal
+    en: KERNAL
+    es: KERNAL
+    fi: KERNAL
+    fr: KERNAL
+    ga: KERNAL
+    it: KERNAL
+    lmo: KERNAL
+    nl: Kernal
+    pt: KERNAL
+    ro: KERNAL
+    vec: KERNAL
+aliases:
+- Kernal
 ---
-
-
 # [[KERNAL]]
 
 ## #has_/text_of_/abstract 

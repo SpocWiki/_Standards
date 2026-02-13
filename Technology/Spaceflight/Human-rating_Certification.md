@@ -1,12 +1,26 @@
 ---
 aliases:
-  - Human-rating certification
-  - Human-rating
-  - man-rating
-  - crew-rating
+- Certificazione human-rating
+- crew-rating
+- Human-rating
+- Human-rating certification
+- man-rating
+- 有人
+- 載人評估認證
+- 載人認證
+- 载人评估认证
+- 载人飞行安全标准
 has_id_wikidata: Q5936797
+dv_has_:
+  name_:
+    en: Human-rating certification
+    it: Certificazione human-rating
+    ja: 有人
+    zh: 載人認證
+    zh-cn: 载人飞行安全标准
+    zh-hans: 载人评估认证
+    zh-hant: 載人評估認證
 ---
-
 # [[Human-rating_Certification]] 
 
 #is_/same_as :: [[WD~Human-rating_certification,5936797]] 

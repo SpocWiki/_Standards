@@ -1,31 +1,36 @@
 ---
 aliases:
-  - Roadian
-  - Роад
-  - Road
-  - Roadien
-  - Roadium
-  - Roadiense
-  - Roadi
-  - roadi
-  - roadiano
-  - ローディアン期
-  - Roadis
-  - Roadiën
-  - Roadiano
-  - road
-  - roadij
-  - 罗德期
+- Road
+- Roadi
+- Roadian
+- roadiano
+- Roadianu
+- Roadien
+- Roadiense
+- roadij
+- Roadis
+- Roadium
+- Roadià
+- Roadiën
+- Tầng Road
+- Роад
+- роудский ярус
+- الرودي
+- رودین
+- ローディアン
+- ローディアン期
+- 罗德期
+- 羅德階
 has_id_wikidata: Q1051453
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-named_after: "[[_Standards/WikiData/WD~Road_Canyon_Formation,18158681]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+named_after: '[[_Standards/WikiData/WD~Road_Canyon_Formation,18158681]]'
 named_by:
-  - "[[_Standards/WikiData/WD~Brian_Frederick_Glenister,20739197]]"
-  - "[[_Standards/WikiData/WD~William_M._Furnish,24844363]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Roadian,134443956]]"
+- '[[_Standards/WikiData/WD~Brian_Frederick_Glenister,20739197]]'
+- '[[_Standards/WikiData/WD~William_M._Furnish,24844363]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Roadian,134443956]]'
 coordinate_location: Point(-104.877 31.8767)
 sRGB_color_hex_triplet: FE8E72
 Commons_category: Roadian
@@ -33,60 +38,72 @@ start_time: -272950000-01-01T00:00:00Z
 end_time: -268800000-01-01T00:00:00Z
 dv_has_:
   duration_:
-    years: "6.110e+6"
-  previous_:
-    item: "[[../Epoch-298~Cisuralian/Age~4~Kungurian|Age~4~Kungurian]]"
-  next_:
-    item: "[[Age~2~Wordian]]"
+    years: 6.110e+6
   name_:
+    abbreviated: p5
+    af: Roadium
+    ar: الرودي
     bg: Роад
+    ca: Roadià
     cs: Road
     da: Roadien
     de: Roadium
+    en: Roadian
     es: Roadiense
     et: Roadi
+    fa: رودین
     fi: Road
     fr: Roadien
+    hr: Road
     hu: roadi
-    it: roadiano
-    ja: ローディアン期
+    id: Roadium
+    it: Roadiano
+    ja: ローディアン
     lt: Roadis
-    nl: Roadiën
+    nl: Roadien
+    nn: road
     no: Roadium
     pl: Road
     pt: Roadiano
+    ru: роудский ярус
+    scn: Roadianu
+    sh: Roadij
     sk: road
     sl: roadij
     sv: road
-    zh: 罗德期
-    abbreviated: p5
-  time_:
-    started: "-273.01e6"
-    stopped: "-266.90e6"
+    vi: Tầng Road
+    zh: 羅德階
+  next_:
+    item: '[[Age~2~Wordian]]'
+  previous_:
+    item: '[[../Epoch-298~Cisuralian/Age~4~Kungurian|Age~4~Kungurian]]'
   text_of_:
-    color: "0xFB8069"
+    color: 0xFB8069
+  time_:
+    started: -273.01e6
+    stopped: -266.90e6
 dv_is_:
   same_as:
-    - "[[WD~Roadian,1051453]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~1~Roadian|Age~1~Roadian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~1~Roadian.public|Age~1~Roadian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~1~Roadian.internal|Age~1~Roadian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~1~Roadian.protect|Age~1~Roadian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~1~Roadian.private|Age~1~Roadian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~1~Roadian.personal|Age~1~Roadian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~1~Roadian.secret|Age~1~Roadian.secret]]"
-dv_has_duration_years: "6.110e+6"
-dv_has_previous_item: "[[../Epoch-298~Cisuralian/Age~4~Kungurian|Age~4~Kungurian]]"
-dv_has_next_item: "[[Age~2~Wordian]]"
+  - '[[WD~Roadian,1051453]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~1~Roadian|Age~1~Roadian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~1~Roadian.public|Age~1~Roadian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~1~Roadian.internal|Age~1~Roadian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~1~Roadian.protect|Age~1~Roadian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~1~Roadian.private|Age~1~Roadian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~1~Roadian.personal|Age~1~Roadian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~1~Roadian.secret|Age~1~Roadian.secret]]'
+dv_has_duration_years: 6.110e+6
+dv_has_previous_item: '[[../Epoch-298~Cisuralian/Age~4~Kungurian|Age~4~Kungurian]]'
+dv_has_next_item: '[[Age~2~Wordian]]'
 dv_is_same_as:
-  - "[[WD~Roadian,1051453]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~1~Roadian|Age~1~Roadian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~1~Roadian.public|Age~1~Roadian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~1~Roadian.internal|Age~1~Roadian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~1~Roadian.protect|Age~1~Roadian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~1~Roadian.private|Age~1~Roadian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~1~Roadian.personal|Age~1~Roadian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~1~Roadian.secret|Age~1~Roadian.secret]]"
+- '[[WD~Roadian,1051453]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~1~Roadian|Age~1~Roadian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~1~Roadian.public|Age~1~Roadian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~1~Roadian.internal|Age~1~Roadian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~1~Roadian.protect|Age~1~Roadian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~1~Roadian.private|Age~1~Roadian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~1~Roadian.personal|Age~1~Roadian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~1~Roadian.secret|Age~1~Roadian.secret]]'
 dv_has_name_bg: Роад
 dv_has_name_cs: Road
 dv_has_name_da: Roadien
@@ -108,9 +125,9 @@ dv_has_name_sl: roadij
 dv_has_name_sv: road
 dv_has_name_zh: 罗德期
 dv_has_name_abbreviated: p5
-dv_has_time_started: "-273.01e6"
-dv_has_time_stopped: "-266.90e6"
-dv_has_text_of_color: "0xFB8069"
+dv_has_time_started: -273.01e6
+dv_has_time_stopped: -266.90e6
+dv_has_text_of_color: 0xFB8069
 ---
 # [[Age~1~Roadian]]
 

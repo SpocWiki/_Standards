@@ -1,85 +1,207 @@
 ---
 aliases:
-  - Neogene
-  - пеоген
-  - Neogén
-  - Neogen
-  - Neógeno
-  - Neogeen
-  - Neogeeni
-  - Néogène
-  - neogén
-  - neogene
-  - 新第三紀
-  - Neogenas
-  - Neogénico
-  - neogen
-  - 晚第三纪
-  - Period~2~Neogene
+- an Tréimhse Neoigineach
+- kỷ Neogen
+- Neogeen
+- Neogeeni
+- neogeenikausi
+- neogeeʹn
+- Neogen
+- Neogen dáwiri
+- Neogen dövrü
+- Neogen kezeñi
+- Neogen sistemasi
+- neogena
+- Neogenas
+- Neogene
+- Neogenel
+- Neogenicum
+- neogeno
+- Neogèn
+- Neogén
+- Neogénico
+- neogēns
+- Neohene
+- Neojen
+- Neojiin
+- Neoxeno
+- Neoxenu
+- Neozen
+- Neógeno
+- Neógentímabilið
+- Niugeni
+- Néogène
+- Period~2~Neogene
+- Sin-seⁿ-kí
+- Ìgbà Ìbíniọ̀tun
+- Νεογενής περίοδος
+- неагенавы перыяд
+- Неоген
+- неоген вакыт
+- Неоген кезеңі
+- Неоген мезгили
+- неогеновий період
+- неогеновый период
+- нэаген
+- пеоген
+- Նեոգեն
+- נאוגן
+- العصر النيوجيني
+- نئوژن
+- نیوجین
+- نەوگەن كەزەڭى
+- निओजिन
+- नियोजीन कल्प
+- നിയോജിൻ
+- ยุคนีโอจีน
+- ნეოგენური სისტემა
+- 新第三紀
+- 新近紀
+- 新近纪
+- 晚第三纪
+- 신진기
 has_id_wikidata: Q103924
-named_by: "[[_Standards/WikiData/WD~Moriz_Hoernes,115209]]"
+named_by: '[[_Standards/WikiData/WD~Moriz_Hoernes,115209]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~period,392928]]"
-  - "[[_Standards/WikiData/WD~system,403523]]"
-different_from: "[[_Standards/WikiData/WD~Neogene_(genus),1382612]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
+- '[[_Standards/WikiData/WD~period,392928]]'
+- '[[_Standards/WikiData/WD~system,403523]]'
+different_from: '[[_Standards/WikiData/WD~Neogene_(genus),1382612]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 start_time: -23030000-01-01T00:00:00Z
 end_time: -2580000-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide%20Paleographic%20Map%20of%20Earth%2C%2015%20Ma%20%28Langhian%20Age%29.png
 sRGB_color_hex_triplet: FFE619
 Commons_category: Neogene
-Dewey_Decimal_Classification: "551.786"
+Dewey_Decimal_Classification: 551.786
 dv_has_:
   duration_:
-    years: "2.045e+7"
-  previous_:
-    item: "[[Period-0066~Paleogene]]"
-  next_:
-    item: "[[Period-0003~Quaternary]]"
+    years: 2.045e+7
   name_:
     abbreviated: N
-    bg: пеоген
+    af: Neogeen
+    ar: العصر النيوجيني
+    ast: Neoxenu
+    az: Neogen dövrü
+    be: неагенавы перыяд
+    be-tarask: нэаген
+    bg: Неоген
+    bjn: Neogen
+    br: Neogenel
+    bs: Neogen
+    ca: Neogen
     cs: Neogén
+    cy: Neogen
     da: Neogen
     de: Neogen
+    el: Νεογενής περίοδος
+    en: Neogene
+    en-gb: Neogene
+    eo: neogeno
     es: Neógeno
-    et: Neogeen
-    fi: Neogeeni
+    et: neogeen
+    eu: Neogeno
+    fa: نئوژن
+    fi: neogeenikausi
     fr: Néogène
+    ga: an Tréimhse Neoigineach
+    gl: Neoxeno
+    gsw: Neogen
+    he: נאוגן
+    hi: नियोजीन कल्प
+    hr: neogen
     hu: neogén
-    it: neogene
+    hy: Նեոգեն
+    id: Neogen
+    is: Neógentímabilið
+    it: Neogene
     ja: 新第三紀
-    lt: Neogenas
+    ka: ნეოგენური სისტემა
+    kaa: Neogen dáwiri
+    kk: Неоген кезеңі
+    kk-arab: نەوگەن كەزەڭى
+    kk-cn: نەوگەن كەزەڭى
+    kk-cyrl: Неоген кезеңі
+    kk-kz: Неоген кезеңі
+    kk-latn: Neogen kezeñi
+    kk-tr: Neogen kezeñi
+    ko: 신진기
+    ky: Неоген мезгили
+    la: Neogenicum
+    lb: Neogen
+    lt: neogenas
+    lv: neogēns
+    mk: неоген
+    ml: നിയോജിൻ
+    mr: निओजिन
+    ms: Neogen
+    nan: Sin-seⁿ-kí
+    nb: neogen
+    nds: Neogen
     nl: Neogeen
+    nn: neogen
     no: Neogen
-    pl: Neogen
-    pt: Neogénico
-    sk: neogén
+    oc: Neogèn
+    pl: neogen
+    pnb: نیوجین
+    pt: Neogeno
+    ro: Neogen
+    ru: неогеновый период
+    sah: Неоген
+    scn: Niugeni
+    se: neogena
+    sh: neogen
+    sk: Neogén
     sl: neogen
+    smn: neogeen
+    sms: neogeeʹn
+    so: Neojiin
+    sr: неоген
     sv: neogen
-    zh: 晚第三纪
-  time_:
-    started: "-23.03e6"
-    stopped: "-2.58e6"
+    th: ยุคนีโอจีน
+    tl: Neohene
+    tr: Neojen
+    udm: неоген вакыт
+    uk: неогеновий період
+    uz: Neogen sistemasi
+    vec: Neozen
+    vi: kỷ Neogen
+    war: Neogen
+    wuu: 新近纪
+    yo: Ìgbà Ìbíniọ̀tun
+    yue: 新近紀
+    zh: 新近纪
+    zh-cn: 新近纪
+    zh-hans: 新近纪
+    zh-hant: 新近紀
+    zh-hk: 新近紀
+    zh-sg: 新近纪
+    zh-tw: 新近紀
+  next_:
+    item: '[[Period-0003~Quaternary]]'
+  previous_:
+    item: '[[Period-0066~Paleogene]]'
   text_of_:
-    color: "0xFFE619"
+    color: 0xFFE619
+  time_:
+    started: -23.03e6
+    stopped: -2.58e6
 dv_is_:
   same_as:
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene|Period-0023~Neogene]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene.public|Period-0023~Neogene.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene.internal|Period-0023~Neogene.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene.protect|Period-0023~Neogene.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene.private|Period-0023~Neogene.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene.personal|Period-0023~Neogene.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene.secret|Period-0023~Neogene.secret]]"
-dv_has_duration_years: "2.045e+7"
-dv_has_previous_item: "[[Period-0066~Paleogene]]"
-dv_has_next_item: "[[Period-0003~Quaternary]]"
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene|Period-0023~Neogene]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene.public|Period-0023~Neogene.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene.internal|Period-0023~Neogene.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene.protect|Period-0023~Neogene.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene.private|Period-0023~Neogene.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene.personal|Period-0023~Neogene.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene.secret|Period-0023~Neogene.secret]]'
+dv_has_duration_years: 2.045e+7
+dv_has_previous_item: '[[Period-0066~Paleogene]]'
+dv_has_next_item: '[[Period-0003~Quaternary]]'
 dv_has_name_abbreviated: N
-dv_has_time_started: "-23.03e6"
-dv_has_time_stopped: "-2.58e6"
-dv_has_text_of_color: "0xFFE619"
+dv_has_time_started: -23.03e6
+dv_has_time_stopped: -2.58e6
+dv_has_text_of_color: 0xFFE619
 dv_has_name_bg: пеоген
 dv_has_name_cs: Neogén
 dv_has_name_da: Neogen
@@ -101,15 +223,14 @@ dv_has_name_sl: neogen
 dv_has_name_sv: neogen
 dv_has_name_zh: 晚第三纪
 dv_is_same_as:
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene|Period-0023~Neogene]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene.public|Period-0023~Neogene.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene.internal|Period-0023~Neogene.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene.protect|Period-0023~Neogene.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene.private|Period-0023~Neogene.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene.personal|Period-0023~Neogene.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene.secret|Period-0023~Neogene.secret]]"
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene|Period-0023~Neogene]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene.public|Period-0023~Neogene.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene.internal|Period-0023~Neogene.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene.protect|Period-0023~Neogene.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene.private|Period-0023~Neogene.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene.personal|Period-0023~Neogene.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene.secret|Period-0023~Neogene.secret]]'
 ---
-
 # [[Period-0023~Neogene]] 
 
 #is_a_/time_/Period 

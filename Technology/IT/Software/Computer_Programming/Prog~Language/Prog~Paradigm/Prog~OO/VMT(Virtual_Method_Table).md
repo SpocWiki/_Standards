@@ -1,11 +1,39 @@
 ---
 aliases:
-  - Virtual method table
-  - VMT
-  - Virtual-Method-Table
-  - VMT(Virtual_Method_Table)
-  - VMT(Virtual Method Table)
+- Tabelle virtueller Methoden
+- table des méthodes virtuelles
+- Tabulka virtuálních metod
+- Taula de mètodes virtual
+- Virtual method table
+- Virtual-Method-Table
+- VMT
+- VMT(Virtual Method Table)
+- VMT(Virtual_Method_Table)
+- Віртуальна таблиця функцій
+- Таблица виртуальных методов
+- טבלת מתודות וירטואלית
+- 仮想関数テーブル
+- 虚函数表
+- 虛擬函式表
+- 虛擬方法表
+- 가상 메소드 테이블
 has_id_wikidata: Q1755692
+dv_has_:
+  name_:
+    ca: Taula de mètodes virtual
+    cs: Tabulka virtuálních metod
+    de: Tabelle virtueller Methoden
+    en: virtual method table
+    fr: table des méthodes virtuelles
+    he: טבלת מתודות וירטואלית
+    ja: 仮想関数テーブル
+    ko: 가상 메소드 테이블
+    ru: Таблица виртуальных методов
+    uk: Віртуальна таблиця функцій
+    zh: 虛擬方法表
+    zh-cn: 虚函数表
+    zh-hans: 虚函数表
+    zh-hant: 虛擬函式表
 ---
 ## #has_/text_of_/abstract 
 

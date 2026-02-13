@@ -1,26 +1,141 @@
 ---
 aliases:
+- basikal gunung
+- beic mynydd
+- bicicleta de montanha
+- bicicleta de montaña
+- bicicleta de monte
+- Bicicleta tot terrenh
+- bicicleta tot terreny
+- bicicletta di muntagna
+- Birota montana
+- Brdski biciklizam
+- Dağ bisikleti
+- Fjallahjól
+- gorsko kolo
+- horské kolo
+- horský bicykel
+- Kalnų dviratis
+- maastopolkupyörä
+- Marc'h-houarn Treuz Bro
+- meahccesihkkel
+- meccipyerá
+- mendiko bizikleta
+- montbiciklo
+- mountain bike
+- mountainbike
+- rower górski
+- Sepeda gunung
+- terreinfytse
+- terrengsykkel
+- Velobike
+- vélo tout-terrain
+- xe đạp leo núi
+- Брдски бициклизам
+- гірський велосипед
+- горны веласіпед
+- горны ровар
+- горный велосипед
+- Маунтинбайк
+- Планински велосипед
+- Тау велосипеды
+- אופני הרים
+- باسيکل ݢونوڠ
+- دراجة جبلية
+- دوچرخه کوهستان
+- จักรยานเสือภูเขา
+- マウンテンバイク
+- 山地車
+- 登山車
+- 登山车
+- 산악 자전거
 has_id_wikidata: Q223705
-instance_of: "[[_Standards/WikiData/WD~exercise_equipment,352222]]"
-used_by: "[[_Standards/WikiData/WD~mountain_biking,520611]]"
-sport: "[[_Standards/WikiData/WD~mountain_biking,520611]]"
-operator: "[[_Standards/WikiData/WD~mountain_biker,19799599]]"
-different_from: "[[_Standards/WikiData/WD~gravel_bike,30765852]]"
-subclass_of: "[[_Standards/WikiData/WD~bicycle,11442]]"
+instance_of: '[[_Standards/WikiData/WD~exercise_equipment,352222]]'
+used_by: '[[_Standards/WikiData/WD~mountain_biking,520611]]'
+sport: '[[_Standards/WikiData/WD~mountain_biking,520611]]'
+operator: '[[_Standards/WikiData/WD~mountain_biker,19799599]]'
+different_from: '[[_Standards/WikiData/WD~gravel_bike,30765852]]'
+subclass_of: '[[_Standards/WikiData/WD~bicycle,11442]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bulls%20Wild%20Cup%201%20%28Modell%202010%29%2020100814.jpg
 short_name: VTT
 OpenStreetMap_key: mtb
 video: http://commons.wikimedia.org/wiki/Special:FilePath/New%20mountain%20bike%20skills%20track%20in%20Bwlch%20Nant%20yr%20Arian%2C%20Powys%2C%20Wales.webm
-UNSPSC_Code: "25161505"
+UNSPSC_Code: 25161505
 Commons_category: Mountain bikes
 Baidu_Tieba_name: 山地车
 native_label:
-  - vélo tout-terrain
-  - vélo de montagne
-  - gorsko kolo
+- vélo tout-terrain
+- vélo de montagne
+- gorsko kolo
 OpenStreetMap_tag: sport=mtb
+dv_has_:
+  name_:
+    ar: دراجة جبلية
+    ast: bicicleta de monte
+    ba: Тау велосипеды
+    bar: Mountainbike
+    be: горны веласіпед
+    be-tarask: горны ровар
+    bg: Планински велосипед
+    br: Marc'h-houarn Treuz Bro
+    ca: bicicleta tot terreny
+    cs: horské kolo
+    cv: Маунтинбайк
+    cy: beic mynydd
+    da: mountainbike
+    de: Mountainbike
+    en: mountain bike
+    eo: montbiciklo
+    es: bicicleta de montaña
+    eu: mendiko bizikleta
+    fa: دوچرخه کوهستان
+    fi: maastopolkupyörä
+    fr: vélo tout-terrain
+    fur: Mountain bike
+    gl: Bicicleta de montaña
+    he: אופני הרים
+    hr: Brdski biciklizam
+    id: Sepeda gunung
+    is: Fjallahjól
+    it: mountain bike
+    ja: マウンテンバイク
+    ko: 산악 자전거
+    la: Birota montana
+    lt: Kalnų dviratis
+    mk: планински велосипед
+    ms: basikal gunung
+    ms-arab: باسيکل ݢونوڠ
+    nb: terrengsykkel
+    nds-nl: terreinfytse
+    nl: mountainbike
+    oc: Bicicleta tot terrenh
+    pl: rower górski
+    pt: bicicleta de montanha
+    ru: горный велосипед
+    scn: bicicletta di muntagna
+    se: meahccesihkkel
+    sh: Brdski biciklizam
+    sk: horský bicykel
+    sl: gorsko kolo
+    smn: meccipyerá
+    sr: Брдски бициклизам
+    sr-ec: Брдски бициклизам
+    sr-el: Brdski biciklizam
+    sv: mountainbike
+    th: จักรยานเสือภูเขา
+    tr: Dağ bisikleti
+    uk: гірський велосипед
+    vi: xe đạp leo núi
+    wa: Velobike
+    yue: 山地車
+    zh: 登山車
+    zh-cn: 登山车
+    zh-hans: 登山车
+    zh-hant: 登山車
+    zh-hk: 登山車
+    zh-sg: 登山车
+    zh-tw: 登山車
 ---
-
 # [[Mountain_Bike]] 
 
 #is_/same_as :: [[WD~Mountain_bike,223705]] 

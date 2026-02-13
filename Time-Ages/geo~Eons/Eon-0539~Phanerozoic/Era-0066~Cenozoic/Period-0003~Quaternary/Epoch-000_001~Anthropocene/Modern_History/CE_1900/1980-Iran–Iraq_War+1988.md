@@ -1,31 +1,120 @@
 ---
 aliases:
-  - Iran–Iraq War
-  - 1980-Iran–Iraq_War+1988
-  - 1980-Iran–Iraq War+1988
+- 1980-Iran–Iraq War+1988
+- 1980-Iran–Iraq_War+1988
+- Bellum Sinus Persici Primum
+- brezel etre Iran hag Irak
+- Chiến tranh Iran-Iraq
+- Cogadh Iaráin - Iaráic
+- Erster Golfkrieg
+- Eýran-yrak urşy
+- Gerang Iran-Irak
+- Guera Iran-Iraq
+- guerra entre Irán e Irak
+- guerra Iran-Iraq
+- Guerra Irán-Iraq
+- Guerra Irã-Iraque
+- guerre Iran-Irak
+- Guèrra Iran-Iraq
+- Iraani-Iraagi sõda
+- Irak-Irankrigen
+- Irak-Iranoorlog
+- Iraka-irana milito
+- Irakin–Iranin sota
+- Irako–Irano karas
+- irak–iráni háború
+- Iran-Irak gerra
+- Iran-Irak-krigen
+- Iran-Irakse Oorlog
+- Iransko-irački rat
+- iransko-iraška vojna
+- Iran–Irak-krigen
+- Iran–Irak-kriget
+- Iran–Iraq War
+- Iraq-Iran War
+- Iračko-iranski rat
+- Iron-Iragi čang
+- irácko-íránská válka
+- Iránsko-iracká vojna
+- Irānas—Irākas karš
+- Kríggið ímillum Iran og Irak
+- Lufta Iran-Irak
+- Milito Iran-Irak
+- Perang Iran-Irak
+- Perang Iran-Iraq
+- Rhyfel Iran-Irac
+- Războiul Iran-Irak
+- Stríð Íraks og Írans
+- Vita kati ya Irak na Uajemi
+- Wojna iracko-irańska
+- Éischte Golfkrich
+- İran-Irak Savaşı
+- İran–İraq müharibəsi
+- Şerê Îran û Iraqê
+- Πόλεμος Ιράν-Ιράκ
+- Ірана-іракская вайна
+- ірана-ірацкая вайна
+- Ірано-іракська війна
+- Иран-Гыйрак сугышы
+- Иран-ирак согушу
+- Иран-Ирак соғысы
+- Иран-Иракийн дайн
+- Иран-Ираҡ һуғышы
+- Ирано-иракска война
+- Ирано-иракская война
+- Ирачко-ирански рат
+- Ҷанги Эрон ва Ироқ
+- Իրանա-իրաքյան պատերազմ
+- איראן-איראק מלחמה
+- מלחמת איראן-עיראק
+- ایران عراق جنگ
+- ایران-عراق جنگ
+- ایران-عیراق ساواشی
+- جأن ئیران و عأراق
+- جنگ ایران و عراق
+- حرب الخليج الأولى
+- حرب الخليج الاولانيه
+- حرب لخليج اللولا
+- د ایران او عراق جګړه
+- شەڕی ئێران و عێراق
+- އީރާން އިރާޤު ހަނގުރާމަ
+- इराण–इराक युद्ध
+- इरान इराक युद्ध
+- ईरान-इराक़ युद्ध
+- ইরাক–ইরান যুদ্ধ
+- ਇਰਾਨ-ਇਰਾਕ ਯੁੱਧ
+- ஈரான் – ஈராக் போர்
+- ഇറാൻ-ഇറാഖ് യുദ്ധം
+- สงครามอิรัก-อิหร่าน
+- အီရန်-အီရတ်စစ်ပွဲ
+- ირან-ერაყის ომი
+- イラン・イラク戦争
+- 两伊战争
+- 兩伊戰爭
+- 이란-이라크 전쟁
 has_id_wikidata: Q82664
 instance_of:
-  - "[[_Standards/WikiData/WD~annexation,194465]]"
-  - "[[_Standards/WikiData/WD~war_of_aggression,474138]]"
-  - "[[_Standards/WikiData/WD~war,198]]"
+- '[[_Standards/WikiData/WD~annexation,194465]]'
+- '[[_Standards/WikiData/WD~war_of_aggression,474138]]'
+- '[[_Standards/WikiData/WD~war,198]]'
 participant:
-  - "[[_Standards/WikiData/WD~People's_Mojahedin_Organization_of_Iran,636947]]"
-  - "[[_Standards/WikiData/WD~Patriotic_Union_of_Kurdistan,677505]]"
-  - "[[_Standards/WikiData/WD~Islamic_Supreme_Council_of_Iraq,718723]]"
-  - "[[_Standards/WikiData/WD~Kurdistan_Democratic_Party,781221]]"
-  - "[[_Standards/WikiData/WD~Democratic_Party_of_Iranian_Kurdistan,785078]]"
-  - "[[_Standards/WikiData/WD~Democratic_Revolutionary_Front_for_the_Liberation_of_Arabistan,5255812]]"
-  - "[[_Standards/WikiData/WD~Iran,794]]"
-  - "[[_Standards/WikiData/WD~Iraq,796]]"
-  - "[[_Standards/WikiData/WD~Sudan,1049]]"
-order_of_battle: "[[_Standards/WikiData/WD~Order_of_battle_during_the_Iran_Iraq_War,7100587]]"
-part_of: "[[_Standards/WikiData/WD~Gulf_War,9001214]]"
-has_effect: "[[_Standards/WikiData/WD~multiple_causes,18121382]]"
+- "[[_Standards/WikiData/WD~People's_Mojahedin_Organization_of_Iran,636947]]"
+- '[[_Standards/WikiData/WD~Patriotic_Union_of_Kurdistan,677505]]'
+- '[[_Standards/WikiData/WD~Islamic_Supreme_Council_of_Iraq,718723]]'
+- '[[_Standards/WikiData/WD~Kurdistan_Democratic_Party,781221]]'
+- '[[_Standards/WikiData/WD~Democratic_Party_of_Iranian_Kurdistan,785078]]'
+- '[[_Standards/WikiData/WD~Democratic_Revolutionary_Front_for_the_Liberation_of_Arabistan,5255812]]'
+- '[[_Standards/WikiData/WD~Iran,794]]'
+- '[[_Standards/WikiData/WD~Iraq,796]]'
+- '[[_Standards/WikiData/WD~Sudan,1049]]'
+order_of_battle: '[[_Standards/WikiData/WD~Order_of_battle_during_the_Iran_Iraq_War,7100587]]'
+part_of: '[[_Standards/WikiData/WD~Gulf_War,9001214]]'
+has_effect: '[[_Standards/WikiData/WD~multiple_causes,18121382]]'
 location:
-  - "[[_Standards/WikiData/WD~Iran,794]]"
-  - "[[_Standards/WikiData/WD~Iraq,796]]"
-  - "[[_Standards/WikiData/WD~Persian_Gulf,34675]]"
-named_after: "[[_Standards/WikiData/WD~Persian_Gulf,34675]]"
+- '[[_Standards/WikiData/WD~Iran,794]]'
+- '[[_Standards/WikiData/WD~Iraq,796]]'
+- '[[_Standards/WikiData/WD~Persian_Gulf,34675]]'
+named_after: '[[_Standards/WikiData/WD~Persian_Gulf,34675]]'
 start_time: 1980-09-22T00:00:00Z
 end_time: 1988-08-20T00:00:00Z
 U_S_National_Archives_Identifier: 10639243
@@ -36,25 +125,129 @@ Wolfram_Language_entity_code: Entity["HistoricalEvent", "IranIraqWarCeasefire198
 Commons_category: Iran-Iraq War
 dv_is_:
   same_as:
-    - "[[../../../../../../../../WikiData/WD~Iran–Iraq_War,82664]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1980-Iran–Iraq_War+1988|1980-Iran–Iraq_War+1988]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1980-Iran–Iraq_War+1988.public|1980-Iran–Iraq_War+1988.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1980-Iran–Iraq_War+1988.internal|1980-Iran–Iraq_War+1988.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1980-Iran–Iraq_War+1988.protect|1980-Iran–Iraq_War+1988.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1980-Iran–Iraq_War+1988.private|1980-Iran–Iraq_War+1988.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1980-Iran–Iraq_War+1988.personal|1980-Iran–Iraq_War+1988.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1980-Iran–Iraq_War+1988.secret|1980-Iran–Iraq_War+1988.secret]]"
+  - '[[../../../../../../../../WikiData/WD~Iran–Iraq_War,82664]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1980-Iran–Iraq_War+1988|1980-Iran–Iraq_War+1988]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1980-Iran–Iraq_War+1988.public|1980-Iran–Iraq_War+1988.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1980-Iran–Iraq_War+1988.internal|1980-Iran–Iraq_War+1988.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1980-Iran–Iraq_War+1988.protect|1980-Iran–Iraq_War+1988.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1980-Iran–Iraq_War+1988.private|1980-Iran–Iraq_War+1988.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1980-Iran–Iraq_War+1988.personal|1980-Iran–Iraq_War+1988.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1980-Iran–Iraq_War+1988.secret|1980-Iran–Iraq_War+1988.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Iran–Iraq_War,82664]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1980-Iran–Iraq_War+1988|1980-Iran–Iraq_War+1988]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1980-Iran–Iraq_War+1988.public|1980-Iran–Iraq_War+1988.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1980-Iran–Iraq_War+1988.internal|1980-Iran–Iraq_War+1988.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1980-Iran–Iraq_War+1988.protect|1980-Iran–Iraq_War+1988.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1980-Iran–Iraq_War+1988.private|1980-Iran–Iraq_War+1988.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1980-Iran–Iraq_War+1988.personal|1980-Iran–Iraq_War+1988.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1980-Iran–Iraq_War+1988.secret|1980-Iran–Iraq_War+1988.secret]]"
+- '[[../../../../../../../../WikiData/WD~Iran–Iraq_War,82664]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1980-Iran–Iraq_War+1988|1980-Iran–Iraq_War+1988]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1980-Iran–Iraq_War+1988.public|1980-Iran–Iraq_War+1988.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1980-Iran–Iraq_War+1988.internal|1980-Iran–Iraq_War+1988.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1980-Iran–Iraq_War+1988.protect|1980-Iran–Iraq_War+1988.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1980-Iran–Iraq_War+1988.private|1980-Iran–Iraq_War+1988.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1980-Iran–Iraq_War+1988.personal|1980-Iran–Iraq_War+1988.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1980-Iran–Iraq_War+1988.secret|1980-Iran–Iraq_War+1988.secret]]'
+dv_has_:
+  name_:
+    af: Iran-Irakse Oorlog
+    ar: حرب الخليج الأولى
+    ary: حرب لخليج اللولا
+    arz: حرب الخليج الاولانيه
+    ast: Guerra Irán-Iraq
+    az: İran–İraq müharibəsi
+    azb: ایران-عیراق ساواشی
+    ba: Иран-Ираҡ һуғышы
+    bcl: Gerang Iran-Irak
+    be: Ірана-іракская вайна
+    be-tarask: ірана-ірацкая вайна
+    bg: Ирано-иракска война
+    bn: ইরাক–ইরান যুদ্ধ
+    br: brezel etre Iran hag Irak
+    bs: Iransko-irački rat
+    ca: guerra Iran-Iraq
+    ckb: شەڕی ئێران و عێراق
+    cs: irácko-íránská válka
+    cy: Rhyfel Iran-Irac
+    da: Iran-Irak-krigen
+    de: Erster Golfkrieg
+    de-ch: Erster Golfkrieg
+    dv: އީރާން އިރާޤު ހަނގުރާމަ
+    el: Πόλεμος Ιράν-Ιράκ
+    en: Iran–Iraq War
+    en-ca: Iran–Iraq War
+    en-gb: Iran–Iraq War
+    eo: Iraka-irana milito
+    es: guerra entre Irán e Irak
+    et: Iraani-Iraagi sõda
+    eu: Iran-Irak gerra
+    fa: جنگ ایران و عراق
+    fi: Irakin–Iranin sota
+    fo: Kríggið ímillum Iran og Irak
+    fr: guerre Iran-Irak
+    ga: Cogadh Iaráin - Iaráic
+    gl: Guerra Irán-Iraq
+    he: מלחמת איראן-עיראק
+    hi: ईरान-इराक़ युद्ध
+    hr: Iransko-irački rat
+    hu: irak–iráni háború
+    hy: Իրանա-իրաքյան պատերազմ
+    id: Perang Iran-Irak
+    io: Milito Iran-Irak
+    is: Stríð Íraks og Írans
+    it: guerra Iran-Iraq
+    ja: イラン・イラク戦争
+    ka: ირან-ერაყის ომი
+    kk: Иран-Ирак соғысы
+    ko: 이란-이라크 전쟁
+    ku: Şerê Îran û Iraqê
+    ky: Иран-ирак согушу
+    la: Bellum Sinus Persici Primum
+    lb: Éischte Golfkrich
+    lrc: جأن ئیران و عأراق
+    lt: Irako–Irano karas
+    lv: Irānas—Irākas karš
+    ml: ഇറാൻ-ഇറാഖ് യുദ്ധം
+    mn: Иран-Иракийн дайн
+    mr: इराण–इराक युद्ध
+    ms: Perang Iran-Iraq
+    my: အီရန်-အီရတ်စစ်ပွဲ
+    mzn: ایران-عراق جنگ
+    nb: Iran–Irak-krigen
+    ne: इरान इराक युद्ध
+    nl: Irak-Iranoorlog
+    nn: Irak-Irankrigen
+    oc: Guèrra Iran-Iraq
+    pa: ਇਰਾਨ-ਇਰਾਕ ਯੁੱਧ
+    pl: Wojna iracko-irańska
+    pnb: ایران عراق جنگ
+    ps: د ایران او عراق جګړه
+    pt: Guerra Irã-Iraque
+    pt-br: Guerra Irã-Iraque
+    ro: Războiul Iran-Irak
+    ru: Ирано-иракская война
+    sco: Iran–Iraq War
+    sh: Iračko-iranski rat
+    sk: Iránsko-iracká vojna
+    sl: iransko-iraška vojna
+    so: Iraq-Iran War
+    sq: Lufta Iran-Irak
+    sr: Ирачко-ирански рат
+    sv: Iran–Irak-kriget
+    sw: Vita kati ya Irak na Uajemi
+    ta: ஈரான் – ஈராக் போர்
+    tg: Ҷанги Эрон ва Ироқ
+    th: สงครามอิรัก-อิหร่าน
+    tk: Eýran-yrak urşy
+    tly: Iron-Iragi čang
+    tr: İran-Irak Savaşı
+    tt: Иран-Гыйрак сугышы
+    uk: Ірано-іракська війна
+    ur: ایران عراق جنگ
+    vec: Guera Iran-Iraq
+    vi: Chiến tranh Iran-Iraq
+    wuu: 两伊战争
+    yi: איראן-איראק מלחמה
+    yue: 兩伊戰爭
+    zh: 两伊战争
+    zh-cn: 两伊战争
+    zh-hans: 两伊战争
+    zh-hant: 兩伊戰爭
 ---
-
 # [[1980-Iran–Iraq_War+1988]] 
 
 #is_/same_as :: [[WD~Iran–Iraq_War,82664]] 

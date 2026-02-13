@@ -1,33 +1,112 @@
 ---
 aliases:
-  - New_Imperialism
-  - New Imperialism
+- Chủ nghĩa Tân đế quốc
+- Høyimperialismen
+- Impalaerouriezh nevez
+- Imperialaeth Newydd
+- Imperialisme Baru
+- Impiriúlachas Nua
+- Inperialismo Berria
+- Naujasis imperializmas
+- Neoimperialisme
+- Neoimperialismo
+- Neoimperialismus
+- New Imperialism
+- New_Imperialism
+- Noul imperialism
+- Nouvel impérialisme
+- Nova Imperiismo
+- Novi imperijalizam
+- Nuevo Imperialismo
+- Nuevu Imperialismu
+- Nuovo imperialismo
+- Sin Tè-kok-chú-gī
+- Uusi imperialismi
+- Yeni Sömürgecilik
+- Неаімперыялізм
+- Неоимпериализм
+- Нов империјализам
+- Новий імперіалізм
+- нэаімпэрыялізм
+- Яңы империализм
+- Նոր իմպերիալիզմ
+- אימפריאליזם מודרני
+- إمبريالية جديدة
+- امپریالیسم نو
+- नवसाम्राज्यवाद
+- ਨਵ ਸਾਮਰਾਜਵਾਦ
+- പുതിയ സാമ്രാജ്യത്വം
+- 新帝国主义
+- 新帝国主義
+- 신제국주의
 has_id_wikidata: Q304121
-instance_of: "[[_Standards/WikiData/WD~historical_period,11514315]]"
+instance_of: '[[_Standards/WikiData/WD~historical_period,11514315]]'
 start_time: 1880-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/China%20imperialism%20cartoon.jpg
 end_time: 1920-01-01T00:00:00Z
 dv_is_:
   same_as:
-    - "[[../../../../../../../../WikiData/WD~New_Imperialism,304121]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1880-New_Imperialism+1920|1880-New_Imperialism+1920]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1880-New_Imperialism+1920.public|1880-New_Imperialism+1920.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1880-New_Imperialism+1920.internal|1880-New_Imperialism+1920.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1880-New_Imperialism+1920.protect|1880-New_Imperialism+1920.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1880-New_Imperialism+1920.private|1880-New_Imperialism+1920.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1880-New_Imperialism+1920.personal|1880-New_Imperialism+1920.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1880-New_Imperialism+1920.secret|1880-New_Imperialism+1920.secret]]"
+  - '[[../../../../../../../../WikiData/WD~New_Imperialism,304121]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1880-New_Imperialism+1920|1880-New_Imperialism+1920]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1880-New_Imperialism+1920.public|1880-New_Imperialism+1920.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1880-New_Imperialism+1920.internal|1880-New_Imperialism+1920.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1880-New_Imperialism+1920.protect|1880-New_Imperialism+1920.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1880-New_Imperialism+1920.private|1880-New_Imperialism+1920.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1880-New_Imperialism+1920.personal|1880-New_Imperialism+1920.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1880-New_Imperialism+1920.secret|1880-New_Imperialism+1920.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~New_Imperialism,304121]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1880-New_Imperialism+1920|1880-New_Imperialism+1920]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1880-New_Imperialism+1920.public|1880-New_Imperialism+1920.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1880-New_Imperialism+1920.internal|1880-New_Imperialism+1920.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1880-New_Imperialism+1920.protect|1880-New_Imperialism+1920.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1880-New_Imperialism+1920.private|1880-New_Imperialism+1920.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1880-New_Imperialism+1920.personal|1880-New_Imperialism+1920.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1880-New_Imperialism+1920.secret|1880-New_Imperialism+1920.secret]]"
+- '[[../../../../../../../../WikiData/WD~New_Imperialism,304121]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1880-New_Imperialism+1920|1880-New_Imperialism+1920]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1880-New_Imperialism+1920.public|1880-New_Imperialism+1920.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1880-New_Imperialism+1920.internal|1880-New_Imperialism+1920.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1880-New_Imperialism+1920.protect|1880-New_Imperialism+1920.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1880-New_Imperialism+1920.private|1880-New_Imperialism+1920.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1880-New_Imperialism+1920.personal|1880-New_Imperialism+1920.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1880-New_Imperialism+1920.secret|1880-New_Imperialism+1920.secret]]'
+dv_has_:
+  name_:
+    ar: إمبريالية جديدة
+    ast: Nuevu Imperialismu
+    ba: Яңы империализм
+    be: Неаімперыялізм
+    be-tarask: нэаімпэрыялізм
+    br: Impalaerouriezh nevez
+    ca: Neoimperialisme
+    cs: Neoimperialismus
+    cy: Imperialaeth Newydd
+    de: Neoimperialismus
+    en: New Imperialism
+    eo: Nova Imperiismo
+    es: Nuevo Imperialismo
+    eu: Inperialismo Berria
+    fa: امپریالیسم نو
+    fi: Uusi imperialismi
+    fr: Nouvel impérialisme
+    ga: Impiriúlachas Nua
+    gl: Neoimperialismo
+    he: אימפריאליזם מודרני
+    hi: नवसाम्राज्यवाद
+    hy: Նոր իմպերիալիզմ
+    id: Imperialisme Baru
+    it: Nuovo imperialismo
+    ja: 新帝国主義
+    ko: 신제국주의
+    lt: Naujasis imperializmas
+    mk: Нов империјализам
+    ml: പുതിയ സാമ്രാജ്യത്വം
+    ms: Imperialisme Baru
+    nan: Sin Tè-kok-chú-gī
+    nb: Høyimperialismen
+    pa: ਨਵ ਸਾਮਰਾਜਵਾਦ
+    pt: Neoimperialismo
+    ro: Noul imperialism
+    ru: Неоимпериализм
+    sr: Novi imperijalizam
+    tr: Yeni Sömürgecilik
+    uk: Новий імперіалізм
+    vi: Chủ nghĩa Tân đế quốc
+    zh: 新帝国主义
 ---
-
 # [[1880-New_Imperialism+1920]] 
 
 #is_/same_as :: [[WD~New_Imperialism,304121]] 

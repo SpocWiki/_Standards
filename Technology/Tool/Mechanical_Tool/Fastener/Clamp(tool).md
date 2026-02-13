@@ -1,24 +1,98 @@
 ---
 aliases:
-  - Schraubzwinge
-  - Clamp
-  - cramp
-  - Clamp(tool)
+- Clamp
+- Clamp(tool)
+- clemă
+- cramp
+- grampo
+- Kasingay
+- Liimapuristin
+- lijmtang
+- morsetto
+- Panyipit
+- Pitskruvi
+- posa rusa
+- primež
+- sargento
+- Sarjenta
+- Schraubzwinge
+- serjant
+- serre-joint
+- Skrubo-krampono
+- skrutvinge
+- Skruvtvinge
+- Stega (alat)
+- svěrka
+- tving
+- tvinge
+- zacisk
+- ŝraŭbokrampo
+- струбцина
+- Стяга
+- шрубцынга
+- כליבה
+- قامطة
+- گیره (ابزار)
+- शिकंजा
+- クランプ
+- 夾鉗
+- 自動式夾子
+- 조임틀
 has_id_wikidata: Q846600
 subclass_of:
-  - "[[_Standards/WikiData/WD~joining_technology,266328]]"
-  - "[[_Standards/WikiData/WD~fastener,2002016]]"
-  - "[[_Standards/WikiData/WD~physical_tool,39546]]"
-has_use: "[[_Standards/WikiData/WD~fixture,10863071]]"
-described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-Nomenclature_for_Museum_Cataloging: "9170"
-GS1_GPC_code: "10003535"
+- '[[_Standards/WikiData/WD~joining_technology,266328]]'
+- '[[_Standards/WikiData/WD~fastener,2002016]]'
+- '[[_Standards/WikiData/WD~physical_tool,39546]]'
+has_use: '[[_Standards/WikiData/WD~fixture,10863071]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+Nomenclature_for_Museum_Cataloging: 9170
+GS1_GPC_code: 10003535
 Commons_gallery: Clamp
 Commons_category: Clamps
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Clamp%20pod.jpg
-Unicode_character: 🗜
+Unicode_character: "\U0001F5DC"
+dv_has_:
+  name_:
+    ar: قامطة
+    be-tarask: шрубцынга
+    bg: Стяга
+    ca: serjant
+    cs: svěrka
+    da: tvinge
+    de: Schraubzwinge
+    en: clamp
+    eo: ŝraŭbokrampo
+    es: sargento
+    et: Pitskruvi
+    eu: Sarjenta
+    fa: گیره (ابزار)
+    fi: Liimapuristin
+    fr: serre-joint
+    he: כליבה
+    hi: शिकंजा
+    io: Skrubo-krampono
+    it: morsetto
+    ja: クランプ
+    ko: 조임틀
+    nb: skrutvinge
+    nl: lijmtang
+    nn: Skruvtvinge
+    pam: Panyipit
+    pl: zacisk
+    pt: grampo
+    pt-br: grampo
+    ro: clemă
+    ru: струбцина
+    sh: Stega (alat)
+    sl: primež
+    sr: Stega (alat)
+    sv: tving
+    tay: posa rusa
+    tl: Kasingay
+    uk: Струбцина
+    yue: 夾鉗
+    zh: 自動式夾子
 ---
-
 # [[Clamp(tool)]] 🗜 
 
 #is_/same_as :: [[../../../../WikiData/WD~Clamp,846600|WD~Clamp,846600]] 

@@ -1,14 +1,53 @@
 ---
 aliases:
-  - Niet
-  - Rivet
+- Iltze zapal
+- klinknagel
+- kovica
+- nagle
+- neet
+- Niet
+- Niittaus
+- nit
+- Nito
+- Nitovanie
+- nitte
+- nýt
+- Paku keling
+- perçin
+- rebite
+- rebló
+- Remache
+- Remallo
+- Rivet
+- Riveto
+- rivetto
+- Rivèt
+- szegecs
+- Zakovica
+- πριτσίνι
+- Бөрктөмө
+- Заклёпка
+- заклепка
+- заковица
+- ніт
+- Нит
+- нитна
+- מסמרת
+- برشام
+- میخپرچ
+- कीलक
+- ရီပစ်
+- リベット
+- 窩釘
+- 鉚釘
+- 리벳
 has_id_wikidata: Q212500
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 has_use: '[[_Standards/WikiData/WD~riveting,1470124]]'
 subclass_of: '[[_Standards/WikiData/WD~fastener,2002016]]'
 instance_of: '[[_Standards/WikiData/WD~type_of_machine_element,44409287]]'
@@ -17,8 +56,59 @@ Commons_gallery: Rivet
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Rivet01.jpg
 UNSPSC_Code: 31162200
 Commons_category: Rivets
+dv_has_:
+  name_:
+    an: Remallo
+    ar: برشام
+    ast: Remache
+    be-tarask: ніт
+    bg: Нит
+    ca: rebló
+    cs: nýt
+    da: nitte
+    de: Niet
+    el: πριτσίνι
+    en: rivet
+    eo: Nito
+    es: Remache
+    et: neet
+    eu: Iltze zapal
+    fa: میخپرچ
+    fi: Niittaus
+    fr: rivet
+    he: מסמרת
+    hi: कीलक
+    hr: Zakovica
+    hu: szegecs
+    id: Paku keling
+    io: Riveto
+    it: rivetto
+    ja: リベット
+    ko: 리벳
+    ky: Бөрктөмө
+    mk: нитна
+    ms: rivet
+    my: ရီပစ်
+    nb: nagle
+    nl: klinknagel
+    nn: nagle
+    pl: Nit
+    pms: Rivèt
+    pt: rebite
+    ro: Nit
+    ru: Заклёпка
+    sh: Zakovica
+    sk: Nitovanie
+    sl: kovica
+    sr: заковица
+    sr-ec: заковица
+    sr-el: Zakovica
+    sv: nit
+    tr: perçin
+    uk: заклепка
+    yue: 窩釘
+    zh: 鉚釘
 ---
-
 # [[Rivet]] 
 
 #is_/same_as :: [[WD~Rivet,212500]] 

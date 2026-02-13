@@ -147,6 +147,7 @@ dv_has_:
     ko: 유럽 원자력 공동체
     ky: Европанын Атом Энергетикасы боюнча Коому
     la: Communitas Europaea energiae atomicae
+    lb: Euratom
     li: Europese Gemeinsjap veur Atoomenergie
     lt: Europos atominės energetikos bendrija
     lv: Eiropas Atomenerģijas kopiena

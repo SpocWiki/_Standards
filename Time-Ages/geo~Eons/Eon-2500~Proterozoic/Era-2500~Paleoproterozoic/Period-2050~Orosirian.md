@@ -1,88 +1,129 @@
 ---
 aliases:
-  - Orosirian
-  - Ороѿир
-  - Orosir
-  - Orosirien
-  - Orosirium
-  - Orosiriense
-  - orosiri
-  - orosiriano
-  - オロシリアン紀
-  - Orosiris
-  - Orosiriën
-  - Orosiriano
-  - orosirium
-  - orosijrij
-  - 造山纪
+- Kỷ Orosira
+- orosijrij
+- Orosir
+- Orosira
+- orosiri
+- Orosirian
+- orosiriano
+- Orosiriar
+- Orosirieg
+- Orosirien
+- Orosiriense
+- orosirij
+- Orosiris
+- Orosirium
+- Orosirià
+- Orosiriën
+- Orosírico
+- Orozir dövrü
+- Orusirianu
+- аразірый
+- орозирій
+- орозирийский период
+- Ороѿир
+- אורוסיר
+- الأوروسيري
+- اوروسیرین
+- ओरोसिरियाई कल्प
+- ยุคออโรซีเรียน
+- オロシリアン
+- オロシリアン紀
+- 造山紀
+- 造山纪
+- 오로시리아기
 has_id_wikidata: Q597383
 instance_of:
-  - "[[_Standards/WikiData/WD~period,392928]]"
-  - "[[_Standards/WikiData/WD~system,403523]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Orosirian,131224984]]"
+- '[[_Standards/WikiData/WD~period,392928]]'
+- '[[_Standards/WikiData/WD~system,403523]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Orosirian,131224984]]'
 start_time: -2050000000-01-01T00:00:00Z
-named_after: "[[_Standards/WikiData/WD~mountain_range,46831]]"
+named_after: '[[_Standards/WikiData/WD~mountain_range,46831]]'
 Commons_category: Orosirian
 end_time: -1800000000-01-01T00:00:00Z
 IPA_transcription: /ˌɒroʊˈsɪəriən/
 sRGB_color_hex_triplet: F76898
 dv_has_:
   duration_:
-    years: "2.500e+8"
-  previous_:
-    item: "[[Period-2300~Rhyacian]]"
-  next_:
-    item: "[[Period-1800~Statherian]]"
+    years: 2.500e+8
   name_:
+    abbreviated: PP3
+    ar: الأوروسيري
+    az: Orozir dövrü
+    be: аразірый
     bg: Ороѿир
+    br: Orosirieg
+    ca: Orosirià
     cs: Orosir
     da: Orosirien
     de: Orosirium
-    es: Orosiriense
+    en: Orosirian
+    en-gb: Orosirian
+    es: Orosírico
     et: Orosir
+    eu: Orosiriar
+    fa: اوروسیرین
     fi: Orosir
     fr: Orosirien
-    hu: orosiri
-    it: orosiriano
-    ja: オロシリアン紀
-    lt: Orosiris
-    nl: Orosiriën
+    he: אורוסיר
+    hi: ओरोसिरियाई कल्प
+    hr: orosirij
+    hu: Orosirium
+    id: Orosirium
+    it: Orosiriano
+    ja: オロシリアン
+    ko: 오로시리아기
+    lt: orosiris
+    ms: Orosira
+    nl: Orosirium
+    nn: orosir
     no: Orosirium
-    pl: Orosir
+    pl: orosir
     pt: Orosiriano
+    ru: орозирийский период
+    scn: Orusirianu
+    sh: Orosirij
     sk: orosirium
-    sl: orosijrij
+    sl: orosirij
     sv: orosirium
+    th: ยุคออโรซีเรียน
+    uk: орозирій
+    vi: Kỷ Orosira
+    yue: 造山紀
     zh: 造山纪
-    abbreviated: PP3
-  time_:
-    started: "-2.050e9"
-    stopped: "-1.800e9"
+  next_:
+    item: '[[Period-1800~Statherian]]'
+  previous_:
+    item: '[[Period-2300~Rhyacian]]'
   text_of_:
-    color: "0xF76898"
+    color: 0xF76898
+  time_:
+    started: -2.050e9
+    stopped: -1.800e9
 dv_is_:
   same_as:
-    - "[[WD~Orosirian,597383]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2050~Orosirian|Period-2050~Orosirian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2050~Orosirian.public|Period-2050~Orosirian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2050~Orosirian.internal|Period-2050~Orosirian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2050~Orosirian.protect|Period-2050~Orosirian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2050~Orosirian.private|Period-2050~Orosirian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2050~Orosirian.personal|Period-2050~Orosirian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2050~Orosirian.secret|Period-2050~Orosirian.secret]]"
-dv_has_duration_years: "2.500e+8"
-dv_has_previous_item: "[[Period-2300~Rhyacian]]"
-dv_has_next_item: "[[Period-1800~Statherian]]"
+  - '[[WD~Orosirian,597383]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2050~Orosirian|Period-2050~Orosirian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2050~Orosirian.public|Period-2050~Orosirian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2050~Orosirian.internal|Period-2050~Orosirian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2050~Orosirian.protect|Period-2050~Orosirian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2050~Orosirian.private|Period-2050~Orosirian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2050~Orosirian.personal|Period-2050~Orosirian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2050~Orosirian.secret|Period-2050~Orosirian.secret]]'
+dv_has_duration_years: 2.500e+8
+dv_has_previous_item: '[[Period-2300~Rhyacian]]'
+dv_has_next_item: '[[Period-1800~Statherian]]'
 dv_is_same_as:
-  - "[[WD~Orosirian,597383]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2050~Orosirian|Period-2050~Orosirian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2050~Orosirian.public|Period-2050~Orosirian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2050~Orosirian.internal|Period-2050~Orosirian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2050~Orosirian.protect|Period-2050~Orosirian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2050~Orosirian.private|Period-2050~Orosirian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2050~Orosirian.personal|Period-2050~Orosirian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2050~Orosirian.secret|Period-2050~Orosirian.secret]]"
+- '[[WD~Orosirian,597383]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2050~Orosirian|Period-2050~Orosirian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2050~Orosirian.public|Period-2050~Orosirian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2050~Orosirian.internal|Period-2050~Orosirian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2050~Orosirian.protect|Period-2050~Orosirian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2050~Orosirian.private|Period-2050~Orosirian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2050~Orosirian.personal|Period-2050~Orosirian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2050~Orosirian.secret|Period-2050~Orosirian.secret]]'
 dv_has_name_bg: Ороѿир
 dv_has_name_cs: Orosir
 dv_has_name_da: Orosirien
@@ -104,11 +145,10 @@ dv_has_name_sl: orosijrij
 dv_has_name_sv: orosirium
 dv_has_name_zh: 造山纪
 dv_has_name_abbreviated: PP3
-dv_has_time_started: "-2.050e9"
-dv_has_time_stopped: "-1.800e9"
-dv_has_text_of_color: "0xF76898"
+dv_has_time_started: -2.050e9
+dv_has_time_stopped: -1.800e9
+dv_has_text_of_color: 0xF76898
 ---
-
 # [[Period-2050~Orosirian]] 
 
 #is_a_/time_/Period 

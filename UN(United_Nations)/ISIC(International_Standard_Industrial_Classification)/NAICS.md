@@ -1,7 +1,36 @@
 ---
 has_id_wikidata: Q3509282
+dv_has_:
+  name_:
+    ar: نظام التصنيف الصناعي في أمريكا الشمالية
+    be-tarask: Паўночнаамэрыканская сыстэма клясыфікацыі прамысловасьцяў
+    ca: NAICS
+    de: North American Industry Classification System
+    en: North American Industry Classification System
+    es: Sistema de Clasificación Industrial de América del Norte
+    fr: Système de Classification des Industries de l'Amérique du Nord
+    he: מערכת הסיווג הענפי הצפון אמריקאית
+    ja: 北米産業分類システム
+    pl: NAICS
+    sl: Severnoameriški panožni klasifikacijski sistem
+    uk: North American Industry Classification System
+    zh: 北美行業分類系統
+    zh-hans: 北美产业分类系统
+    zh-hant: 北美產業分類體系
+aliases:
+- NAICS
+- North American Industry Classification System
+- Severnoameriški panožni klasifikacijski sistem
+- Sistema de Clasificación Industrial de América del Norte
+- Système de Classification des Industries de l'Amérique du Nord
+- Паўночнаамэрыканская сыстэма клясыфікацыі прамысловасьцяў
+- מערכת הסיווג הענפי הצפון אמריקאית
+- نظام التصنيف الصناعي في أمريكا الشمالية
+- 北米産業分類システム
+- 北美产业分类系统
+- 北美產業分類體系
+- 北美行業分類系統
 ---
-
 North 
 American 
 Industry 

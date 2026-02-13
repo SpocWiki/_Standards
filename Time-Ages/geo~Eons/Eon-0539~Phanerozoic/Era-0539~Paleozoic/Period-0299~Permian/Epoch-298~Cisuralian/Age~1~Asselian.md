@@ -1,92 +1,117 @@
 ---
 aliases:
-  - Asselian
-  - пѿел
-  - Assel
-  - Asselien
-  - Asselium
-  - Asseliense
-  - Asseli
-  - Assélien
-  - asszeli
-  - asseliano
-  - アセリアン期
-  - Aselis
-  - Asseliën
-  - Aselsk
-  - Asseliano
-  - assel
-  - asselij
-  - 阿瑟尔期
+- Aselij
+- Aselis
+- Aselsk
+- Assel
+- Asseli
+- Asselian
+- asseliano
+- Asselien
+- Asseliense
+- asselij
+- Asselium
+- Asselià
+- Asseliën
+- Assilianu
+- asszeli
+- Assélien
+- Tầng Assel
+- Ассель ярусы
+- ассельский ярус
+- Ассельський ярус
+- пѿел
+- آسلین
+- الأسيلي
+- アスラン年代
+- アセリアン期
+- 阿瑟尔期
+- 阿瑟爾階
 has_id_wikidata: Q740340
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Q789402,789402]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q789402,789402]]'
 named_after: "[[_Standards/WikiData/WD~Assel',3697749]]"
-named_by: "[[_Standards/WikiData/WD~Vasiliy_E._Ruzhentsev,4399810]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Asselian,134468842]]"
+named_by: '[[_Standards/WikiData/WD~Vasiliy_E._Ruzhentsev,4399810]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Asselian,134468842]]'
 start_time: -298900000-01-01T00:00:00Z
 end_time: -295000000-01-01T00:00:00Z
 sRGB_color_hex_triplet: F0775F
 coordinate_location: Point(57.8914 50.2458)
 dv_has_:
   duration_:
-    years: "5.390e+6"
-  previous_:
-    item: "[[../../Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian|Age~4~Gzhelian]]"
-  next_:
-    item: "[[Age~2~Sakmarian]]"
+    years: 5.390e+6
   name_:
+    abbreviated: p1
+    af: Asselium
+    ar: الأسيلي
     bg: пѿел
+    bs: Aselij
+    ca: Asselià
     cs: Assel
     da: Asselien
     de: Asselium
+    en: Asselian
     es: Asseliense
     et: Asseli
+    fa: آسلین
     fi: Assel
     fr: Assélien
+    gl: Asseliense
+    hr: Assel
     hu: asszeli
-    it: asseliano
-    ja: アセリアン期
+    id: Asselium
+    it: Asseliano
+    ja: アスラン年代
+    kk: Ассель ярусы
     lt: Aselis
-    nl: Asseliën
+    nl: Asselien
+    nn: assel
     no: Asselium
-    pl: Aselsk
+    pl: Assel
     pt: Asseliano
+    ru: ассельский ярус
+    scn: Assilianu
+    sh: Aselij
     sk: assel
     sl: asselij
     sv: assel
-    zh: 阿瑟尔期
-    abbreviated: p1
-  time_:
-    started: "-298.90e6"
-    stopped: "-293.51e6"
+    uk: Ассельський ярус
+    vi: Tầng Assel
+    zh: 阿瑟爾階
+  next_:
+    item: '[[Age~2~Sakmarian]]'
+  previous_:
+    item: '[[../../Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian|Age~4~Gzhelian]]'
   text_of_:
-    color: "0xE36350"
+    color: 0xE36350
+  time_:
+    started: -298.90e6
+    stopped: -293.51e6
 dv_is_:
   same_as:
-    - "[[WD~Asselian,740340]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian|Age~1~Asselian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian.public|Age~1~Asselian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian.internal|Age~1~Asselian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian.protect|Age~1~Asselian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian.private|Age~1~Asselian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian.personal|Age~1~Asselian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian.secret|Age~1~Asselian.secret]]"
-dv_has_duration_years: "5.390e+6"
-dv_has_previous_item: "[[../../Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian|Age~4~Gzhelian]]"
-dv_has_next_item: "[[Age~2~Sakmarian]]"
+  - '[[WD~Asselian,740340]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian|Age~1~Asselian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian.public|Age~1~Asselian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian.internal|Age~1~Asselian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian.protect|Age~1~Asselian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian.private|Age~1~Asselian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian.personal|Age~1~Asselian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian.secret|Age~1~Asselian.secret]]'
+dv_has_duration_years: 5.390e+6
+dv_has_previous_item: '[[../../Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian|Age~4~Gzhelian]]'
+dv_has_next_item: '[[Age~2~Sakmarian]]'
 dv_is_same_as:
-  - "[[WD~Asselian,740340]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian|Age~1~Asselian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian.public|Age~1~Asselian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian.internal|Age~1~Asselian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian.protect|Age~1~Asselian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian.private|Age~1~Asselian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian.personal|Age~1~Asselian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian.secret|Age~1~Asselian.secret]]"
+- '[[WD~Asselian,740340]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian|Age~1~Asselian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian.public|Age~1~Asselian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian.internal|Age~1~Asselian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian.protect|Age~1~Asselian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian.private|Age~1~Asselian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian.personal|Age~1~Asselian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian.secret|Age~1~Asselian.secret]]'
 dv_has_name_bg: пѿел
 dv_has_name_cs: Assel
 dv_has_name_da: Asselien
@@ -108,9 +133,9 @@ dv_has_name_sl: asselij
 dv_has_name_sv: assel
 dv_has_name_zh: 阿瑟尔期
 dv_has_name_abbreviated: p1
-dv_has_time_started: "-298.90e6"
-dv_has_time_stopped: "-293.51e6"
-dv_has_text_of_color: "0xE36350"
+dv_has_time_started: -298.90e6
+dv_has_time_stopped: -293.51e6
+dv_has_text_of_color: 0xE36350
 ---
 # [[Age~1~Asselian]]
 

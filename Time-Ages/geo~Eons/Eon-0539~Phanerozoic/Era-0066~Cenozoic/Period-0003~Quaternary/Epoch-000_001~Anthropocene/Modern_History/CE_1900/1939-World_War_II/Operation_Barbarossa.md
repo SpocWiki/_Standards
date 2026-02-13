@@ -1,33 +1,110 @@
 ---
 aliases:
-  - Operation Barbarossa
-  - Operation_Barbarossa
+- Barbarosa
+- Barbarosos operacija
+- Barbarossa hadművelet
+- Barbarossa Harekâtı
+- Barbarossa operatsiäse
+- Barbarossa plaan
+- Barbarossa rejasi
+- Barbarossa əməliyyatı
+- Bizargorri Operazioa
+- Chiến dịch Barbarossa
+- Cyrch Barbarossa
+- Innrásin í Sovétríkin
+- Obbreeaght Barbarossa
+- Oberiadur-brezel Barbarossa
+- Oibríocht Barbarossa
+- Operaasje Barbarossa
+- Operaatio Barbarossa
+- Operace Barbarossa
+- Operacija Barbarossa
+- Operacioni Barbarossa
+- Operació Barbarroja
+- Operación Barbarossa
+- Operación Barbarroja
+- Operación Barbarroya
+- operacja Barbarossa
+- Operaco Barbaroso
+- Operaco Barbarossa
+- Operasi Barbarossa
+- Operasie Barbarossa
+- Operasjon Barbarossa
+- Operasyong Barbarossa
+- Operatie Barbarossa
+- Operation Barbarossa
+- Operation_Barbarossa
+- operazione Barbarossa
+- Operação Barbarossa
+- Operațiunea Barbarossa
+- Operácia Barbarossa
+- opération Barbarossa
+- Unternehmen Barbarossa
+- «Барбаросса»
+- Επιχείρηση Μπαρμπαρόσα
+- Амалиёти «Барбаросса»
+- Барбаросса ажиллагаа
+- Барбаросса жоспары
+- Операција Барбароса
+- операция «Барбаросса»
+- Операция „Барбароса“
+- план «Барбаросса»
+- план Барбароса
+- Плян Барбароса
+- Բարբարոսա
+- Բարբարոսա (ռազմական գործողութիւն)
+- אפעראציע בארבאראסע
+- מבצע ברברוסה
+- آپریشن باربروسا
+- ئۆپەراسیۆنی باربارۆسا
+- اوپریشن باربروسا
+- بارباروسا
+- بارباروسا عملیاتی
+- د بارباروسا عملیات
+- عملية بربروسا
+- عملیات بارباروسا
+- ߏߔߋߙߊߛߌߦߐ߲ ߓߊߙߌߓߊ߬ߙߏߛߊ߬
+- ऑपरेशन बर्बरोस्सा
+- ऑपरेशन बार्बारोसा
+- অপারেশন বারবারোসা
+- ਓਪਰੇਸ਼ਨ ਬਾਰਬਾਰੋਸਾ
+- ઓપરેશન બાર્બોરોસા
+- பர்பரோசா நடவடிக்கை
+- ഓപ്പറേഷൻ ബാർബറോസ
+- ปฏิบัติการบาร์บาร็อสซา
+- ოპერაცია ბარბაროსა
+- バルバロッサ作戦
+- 巴巴罗萨行动
+- 巴巴羅薩作戰
+- 巴巴羅薩行動
+- 바르바로사 작전
+- 바르바로싸 작전
 has_id_wikidata: Q83055
-named_after: "[[_Standards/WikiData/WD~Frederick_Barbarossa,79789]]"
+named_after: '[[_Standards/WikiData/WD~Frederick_Barbarossa,79789]]'
 location:
-  - "[[_Standards/WikiData/WD~Ukrainian_Soviet_Socialist_Republic,133356]]"
-  - "[[_Standards/WikiData/WD~General_Government,156111]]"
-  - "[[_Standards/WikiData/WD~Moldavian_Soviet_Socialist_Republic,170895]]"
-  - "[[_Standards/WikiData/WD~European_Russia,875134]]"
-  - "[[_Standards/WikiData/WD~Byelorussian_Soviet_Socialist_Republic,2895]]"
-  - "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
-  - "[[_Standards/WikiData/WD~Lithuania,37]]"
-  - "[[_Standards/WikiData/WD~Estonia,191]]"
-  - "[[_Standards/WikiData/WD~Latvia,211]]"
+- '[[_Standards/WikiData/WD~Ukrainian_Soviet_Socialist_Republic,133356]]'
+- '[[_Standards/WikiData/WD~General_Government,156111]]'
+- '[[_Standards/WikiData/WD~Moldavian_Soviet_Socialist_Republic,170895]]'
+- '[[_Standards/WikiData/WD~European_Russia,875134]]'
+- '[[_Standards/WikiData/WD~Byelorussian_Soviet_Socialist_Republic,2895]]'
+- '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
+- '[[_Standards/WikiData/WD~Lithuania,37]]'
+- '[[_Standards/WikiData/WD~Estonia,191]]'
+- '[[_Standards/WikiData/WD~Latvia,211]]'
 participant:
-  - "[[_Standards/WikiData/WD~Slovak_Republic,154401]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Hungary,171150]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Romania,203493]]"
-  - "[[_Standards/WikiData/WD~Nazi_Germany,7318]]"
-  - "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
-  - "[[_Standards/WikiData/WD~Finland,33]]"
-has_cause: "[[_Standards/WikiData/WD~Lebensraum,157136]]"
-instance_of: "[[_Standards/WikiData/WD~invasion,467011]]"
-order_of_battle: "[[_Standards/WikiData/WD~order_of_battle_for_Operation_Barbarossa,820353]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Operation_Barbarossa,8810407]]"
-main_regulatory_text: "[[_Standards/WikiData/WD~Fall_Barbarossa,16711666]]"
-foundational_text: "[[_Standards/WikiData/WD~Hitler_over_Russia_,21660923]]"
-category_for_maps_or_plans: "[[_Standards/WikiData/WD~Category_Maps_of_Operation_Barbarossa,84062134]]"
+- '[[_Standards/WikiData/WD~Slovak_Republic,154401]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Hungary,171150]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Romania,203493]]'
+- '[[_Standards/WikiData/WD~Nazi_Germany,7318]]'
+- '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
+- '[[_Standards/WikiData/WD~Finland,33]]'
+has_cause: '[[_Standards/WikiData/WD~Lebensraum,157136]]'
+instance_of: '[[_Standards/WikiData/WD~invasion,467011]]'
+order_of_battle: '[[_Standards/WikiData/WD~order_of_battle_for_Operation_Barbarossa,820353]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Operation_Barbarossa,8810407]]'
+main_regulatory_text: '[[_Standards/WikiData/WD~Fall_Barbarossa,16711666]]'
+foundational_text: '[[_Standards/WikiData/WD~Hitler_over_Russia_,21660923]]'
+category_for_maps_or_plans: '[[_Standards/WikiData/WD~Category_Maps_of_Operation_Barbarossa,84062134]]'
 BHCL_UUID: a75a6d28-d89c-4a2d-91c2-932a21d65c79
 end_time: 1941-12-05T00:00:00Z
 start_time: 1941-06-22T00:00:00Z
@@ -37,32 +114,126 @@ detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Operation%20Barba
 Wolfram_Language_entity_code: Entity["MilitaryConflict", "OperationBarbarossa"]
 Commons_category: Operation Barbarossa
 dv_has_:
+  name_:
+    af: Operasie Barbarossa
+    an: Operación Barbarroya
+    ar: عملية بربروسا
+    ast: Operación Barbarossa
+    az: Barbarossa əməliyyatı
+    azb: بارباروسا عملیاتی
+    be: план Барбароса
+    be-tarask: Плян Барбароса
+    bg: Операция „Барбароса“
+    bn: অপারেশন বারবারোসা
+    br: Oberiadur-brezel Barbarossa
+    bs: Operacija Barbarossa
+    ca: Operació Barbarroja
+    ckb: ئۆپەراسیۆنی باربارۆسا
+    cs: Operace Barbarossa
+    cy: Cyrch Barbarossa
+    da: Operation Barbarossa
+    de: Unternehmen Barbarossa
+    el: Επιχείρηση Μπαρμπαρόσα
+    en: Operation Barbarossa
+    en-ca: Operation Barbarossa
+    en-gb: Operation Barbarossa
+    eo: Operaco Barbaroso
+    es: Operación Barbarroja
+    et: Barbarossa plaan
+    eu: Bizargorri Operazioa
+    fa: عملیات بارباروسا
+    fi: Operaatio Barbarossa
+    fr: opération Barbarossa
+    fy: Operaasje Barbarossa
+    ga: Oibríocht Barbarossa
+    gl: Operación Barbarossa
+    gu: ઓપરેશન બાર્બોરોસા
+    gv: Obbreeaght Barbarossa
+    he: מבצע ברברוסה
+    hi: ऑपरेशन बर्बरोस्सा
+    hr: Operacija Barbarossa
+    hu: Barbarossa hadművelet
+    hy: Բարբարոսա
+    hyw: Բարբարոսա (ռազմական գործողութիւն)
+    id: Operasi Barbarossa
+    io: Operaco Barbarossa
+    is: Innrásin í Sovétríkin
+    it: operazione Barbarossa
+    ja: バルバロッサ作戦
+    ka: ოპერაცია ბარბაროსა
+    kk: Барбаросса жоспары
+    ko: 바르바로사 작전
+    ko-kp: 바르바로싸 작전
+    ky: «Барбаросса»
+    lt: Barbarosos operacija
+    lv: Barbarosa
+    mk: Операција Барбароса
+    ml: ഓപ്പറേഷൻ ബാർബറോസ
+    mn: Барбаросса ажиллагаа
+    mr: ऑपरेशन बार्बारोसा
+    ms: Operasi Barbarossa
+    mzn: بارباروسا
+    nb: Operasjon Barbarossa
+    nl: Operatie Barbarossa
+    nn: Operasjon Barbarossa
+    nqo: ߏߔߋߙߊߛߌߦߐ߲ ߓߊߙߌߓߊ߬ߙߏߛߊ߬
+    pa: ਓਪਰੇਸ਼ਨ ਬਾਰਬਾਰੋਸਾ
+    pl: operacja Barbarossa
+    pnb: اوپریشن باربروسا
+    ps: د بارباروسا عملیات
+    pt: Operação Barbarossa
+    pt-br: Operação Barbarossa
+    ro: Operațiunea Barbarossa
+    ru: операция «Барбаросса»
+    sco: Operation Barbarossa
+    sg: Opération Barbarossa
+    sh: Operacija Barbarossa
+    sk: Operácia Barbarossa
+    sl: operacija Barbarossa
+    sq: Operacioni Barbarossa
+    sr: Операција Барбароса
+    sv: Operation Barbarossa
+    ta: பர்பரோசா நடவடிக்கை
+    tg: Амалиёти «Барбаросса»
+    th: ปฏิบัติการบาร์บาร็อสซา
+    tl: Operasyong Barbarossa
+    tr: Barbarossa Harekâtı
+    tt: Barbarossa operatsiäse
+    uk: план «Барбаросса»
+    ur: آپریشن باربروسا
+    uz: Barbarossa rejasi
+    vi: Chiến dịch Barbarossa
+    wuu: 巴巴罗萨行动
+    yi: אפעראציע בארבאראסע
+    yue: 巴巴羅薩作戰
+    zh: 巴巴羅薩行動
+    zh-cn: 巴巴罗萨行动
+    zh-hk: 巴巴羅薩行動
   time_:
     started: 1941-06-22T00:00:00.000+02:00
     stopped: 1941-12-01T00:00:00.000+02:00
 dv_is_:
   same_as:
-    - "[[WD~Operation_Barbarossa,83055]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Operation_Barbarossa|Operation_Barbarossa]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Operation_Barbarossa.public|Operation_Barbarossa.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Operation_Barbarossa.internal|Operation_Barbarossa.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Operation_Barbarossa.protect|Operation_Barbarossa.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Operation_Barbarossa.private|Operation_Barbarossa.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Operation_Barbarossa.personal|Operation_Barbarossa.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Operation_Barbarossa.secret|Operation_Barbarossa.secret]]"
+  - '[[WD~Operation_Barbarossa,83055]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Operation_Barbarossa|Operation_Barbarossa]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Operation_Barbarossa.public|Operation_Barbarossa.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Operation_Barbarossa.internal|Operation_Barbarossa.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Operation_Barbarossa.protect|Operation_Barbarossa.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Operation_Barbarossa.private|Operation_Barbarossa.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Operation_Barbarossa.personal|Operation_Barbarossa.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Operation_Barbarossa.secret|Operation_Barbarossa.secret]]'
 dv_has_time_started: 1941-06-22
 dv_has_time_stopped: 1941-12-01
 dv_is_same_as:
-  - "[[WD~Operation_Barbarossa,83055]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Operation_Barbarossa|Operation_Barbarossa]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Operation_Barbarossa.public|Operation_Barbarossa.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Operation_Barbarossa.internal|Operation_Barbarossa.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Operation_Barbarossa.protect|Operation_Barbarossa.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Operation_Barbarossa.private|Operation_Barbarossa.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Operation_Barbarossa.personal|Operation_Barbarossa.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Operation_Barbarossa.secret|Operation_Barbarossa.secret]]"
+- '[[WD~Operation_Barbarossa,83055]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Operation_Barbarossa|Operation_Barbarossa]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Operation_Barbarossa.public|Operation_Barbarossa.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Operation_Barbarossa.internal|Operation_Barbarossa.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Operation_Barbarossa.protect|Operation_Barbarossa.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Operation_Barbarossa.private|Operation_Barbarossa.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Operation_Barbarossa.personal|Operation_Barbarossa.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Operation_Barbarossa.secret|Operation_Barbarossa.secret]]'
 ---
-
 # [[Operation_Barbarossa]] 
 
 has_time_started = `=this.dv_has_time_started` 

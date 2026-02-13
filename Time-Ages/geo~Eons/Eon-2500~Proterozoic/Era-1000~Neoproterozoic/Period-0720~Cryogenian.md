@@ -1,30 +1,60 @@
 ---
 aliases:
-  - Cryogenian
-  - Cryogen
-  - Криоген
-  - Cryogenien
-  - Kryogenium
-  - Criogeniense
-  - Krüogeen
-  - Cryogénien
-  - cryogeni
-  - cryogeniano
-  - クリオジェニアン紀
-  - Kriogenis
-  - Cryogeniën
-  - Kriogen
-  - Criogeniano
-  - kryogén
-  - cryogenij
-  - kryogenium
-  - 成冰纪
+- an Tréimhse Chrióigineach
+- Criogeniano
+- Criogeniense
+- Criogenià
+- Criogénico
+- Criugginianu
+- Cryogen
+- cryogeni
+- Cryogenian
+- cryogeniano
+- Cryogeniar
+- Cryogenien
+- cryogenij
+- Cryogenium
+- Cryogeniën
+- Cryogénien
+- Kriogen
+- Kriogen dövrü
+- Kriogenieg
+- Kriogenij
+- Kriogenio
+- Kriogenis
+- Kriogenium
+- Kriogeniy dáwiri
+- kriogén
+- Kriyojeniyen
+- kryogeenikausi
+- kryogen
+- Kryogenium
+- kryogén
+- Krüogeen
+- Kỷ Cryogen
+- Período crioxénico
+- Rhewlifiad Cryogenaidd
+- кріогеній
+- Криоген
+- криогений
+- крыагеній
+- крыяген
+- קריוגן
+- العصر البارد
+- کریوژنین
+- क्रायोजेनियाई कल्प
+- ยุคไครโอเจเนียน
+- キオゲニアン
+- クリオジェニアン紀
+- 成冰紀
+- 成冰纪
+- 크라이오제니아기
 has_id_wikidata: Q507402
 instance_of:
-  - "[[_Standards/WikiData/WD~period,392928]]"
-  - "[[_Standards/WikiData/WD~system,403523]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Cryogenian,9649569]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+- '[[_Standards/WikiData/WD~period,392928]]'
+- '[[_Standards/WikiData/WD~system,403523]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Cryogenian,9649569]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 end_time: -635000000-01-01T00:00:00Z
 start_time: -720000000-01-01T00:00:00Z
 video: http://commons.wikimedia.org/wiki/Special:FilePath/SIM%20neoproto.ogv
@@ -33,60 +63,99 @@ Commons_category: Cryogenian
 sRGB_color_hex_triplet: FECC5C
 dv_has_:
   duration_:
-    years: "8.500e+7"
-  previous_:
-    item: "[[Period-1000~Tonian]]"
-  next_:
-    item: "[[Period-0635~Ediacaran]]"
+    years: 8.500e+7
   name_:
-    bg: Криоген
-    cs: Cryogen
-    da: Cryogenien
-    de: Kryogenium
-    es: Criogeniense
-    et: Krüogeen
-    fi: Cryogen
-    fr: Cryogénien
-    hu: cryogeni
-    it: cryogeniano
-    ja: クリオジェニアン紀
-    lt: Kriogenis
-    nl: Cryogeniën
-    no: Kryogenium
-    pl: Kriogen
-    pt: Criogeniano
-    sk: kryogén
-    sl: cryogenij
-    sv: kryogenium
-    zh: 成冰纪
     abbreviated: NP2
+    af: Kriogenium
+    ar: العصر البارد
+    az: Kriogen dövrü
+    be: крыагеній
+    be-tarask: крыяген
+    bg: Криоген
+    br: Kriogenieg
+    bs: Kriogenij
+    ca: Criogenià
+    cs: Kryogén
+    cy: Rhewlifiad Cryogenaidd
+    da: Cryogenien
+    de: Cryogenium
+    en: Cryogenian
+    en-gb: Cryogenian
+    eo: Kriogenio
+    es: Criogénico
+    et: Krüogeen
+    eu: Cryogeniar
+    fa: کریوژنین
+    fi: kryogeenikausi
+    fr: Cryogénien
+    ga: an Tréimhse Chrióigineach
+    gl: Período crioxénico
+    he: קריוגן
+    hi: क्रायोजेनियाई कल्प
+    hr: kriogenij
+    hu: kriogén
+    id: Kriogenium
+    it: Cryogeniano
+    ja: キオゲニアン
+    kaa: Kriogeniy dáwiri
+    ko: 크라이오제니아기
+    lt: kriogenis
+    mn: Криоген
+    ms: Kriogen
+    nb: Kryogenium
+    nl: Cryogenium
+    nn: kryogen
+    no: Kryogenium
+    pl: kriogen
+    pt: Criogeniano
+    ru: криогений
+    sah: Криогений
+    scn: Criugginianu
+    sh: Kriogenij
+    sk: kryogén
+    sl: kriogenij
+    sv: Kryogenium
+    th: ยุคไครโอเจเนียน
+    tr: Kriyojeniyen
+    uk: кріогеній
+    vi: Kỷ Cryogen
+    yue: 成冰紀
+    zh: 成冰纪
+    zh-cn: 成冰纪
+    zh-hans: 成冰纪
+    zh-hant: 成冰紀
+    zh-hk: 成冰紀
+  next_:
+    item: '[[Period-0635~Ediacaran]]'
+  previous_:
+    item: '[[Period-1000~Tonian]]'
+  text_of_:
+    color: 0xFECC5C
   time_:
     started: -720000000
     stopped: -635000000
-  text_of_:
-    color: "0xFECC5C"
 dv_is_:
   same_as:
-    - "[[WD~Cryogenian,507402]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0720~Cryogenian|Period-0720~Cryogenian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0720~Cryogenian.public|Period-0720~Cryogenian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0720~Cryogenian.internal|Period-0720~Cryogenian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0720~Cryogenian.protect|Period-0720~Cryogenian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0720~Cryogenian.private|Period-0720~Cryogenian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0720~Cryogenian.personal|Period-0720~Cryogenian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0720~Cryogenian.secret|Period-0720~Cryogenian.secret]]"
-dv_has_duration_years: "8.500e+7"
-dv_has_previous_item: "[[Period-1000~Tonian]]"
-dv_has_next_item: "[[Period-0635~Ediacaran]]"
+  - '[[WD~Cryogenian,507402]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0720~Cryogenian|Period-0720~Cryogenian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0720~Cryogenian.public|Period-0720~Cryogenian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0720~Cryogenian.internal|Period-0720~Cryogenian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0720~Cryogenian.protect|Period-0720~Cryogenian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0720~Cryogenian.private|Period-0720~Cryogenian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0720~Cryogenian.personal|Period-0720~Cryogenian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0720~Cryogenian.secret|Period-0720~Cryogenian.secret]]'
+dv_has_duration_years: 8.500e+7
+dv_has_previous_item: '[[Period-1000~Tonian]]'
+dv_has_next_item: '[[Period-0635~Ediacaran]]'
 dv_is_same_as:
-  - "[[WD~Cryogenian,507402]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0720~Cryogenian|Period-0720~Cryogenian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0720~Cryogenian.public|Period-0720~Cryogenian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0720~Cryogenian.internal|Period-0720~Cryogenian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0720~Cryogenian.protect|Period-0720~Cryogenian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0720~Cryogenian.private|Period-0720~Cryogenian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0720~Cryogenian.personal|Period-0720~Cryogenian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0720~Cryogenian.secret|Period-0720~Cryogenian.secret]]"
+- '[[WD~Cryogenian,507402]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0720~Cryogenian|Period-0720~Cryogenian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0720~Cryogenian.public|Period-0720~Cryogenian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0720~Cryogenian.internal|Period-0720~Cryogenian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0720~Cryogenian.protect|Period-0720~Cryogenian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0720~Cryogenian.private|Period-0720~Cryogenian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0720~Cryogenian.personal|Period-0720~Cryogenian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0720~Cryogenian.secret|Period-0720~Cryogenian.secret]]'
 dv_has_name_bg: Криоген
 dv_has_name_cs: Cryogen
 dv_has_name_da: Cryogenien
@@ -110,7 +179,7 @@ dv_has_name_zh: 成冰纪
 dv_has_name_abbreviated: NP2
 dv_has_time_started: -720000000
 dv_has_time_stopped: -635000000
-dv_has_text_of_color: "0xFECC5C"
+dv_has_text_of_color: 0xFECC5C
 ---
 # [[Period-0720~Cryogenian]] 
 

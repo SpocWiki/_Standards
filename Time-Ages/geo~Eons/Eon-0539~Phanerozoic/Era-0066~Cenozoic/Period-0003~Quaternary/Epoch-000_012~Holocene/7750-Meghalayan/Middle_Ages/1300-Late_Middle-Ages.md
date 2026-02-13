@@ -1,38 +1,167 @@
 ---
 aliases:
-  - late medieval period
-  - Late Middle Ages
-  - 1300-Late_Middle-Ages
-  - 1300-Late Middle-Ages
+- 1300-Late Middle-Ages
+- 1300-Late_Middle-Ages
+- Abad Pertengahan Akhir
+- Baixa Edat Meya
+- Baixa Idade Media
+- Baixa Idade Média
+- baso medioevo
+- Basse etât di mieç
+- Basso Medioevo
+- Baxa Edá Media
+- Behe Erdi Aroa
+- Edad Media Tardía
+- Edade Mèdia Bàscia
+- edat mitjana tardana
+- Evul Mediu Târziu
+- Geç Orta Çağ
+- hiliskeskaeg
+- Hậu kỳ Trung cổ
+- Kasni srednji vek
+- kasni srednji vijek
+- Krennamzer izelañ
+- késő középkor
+- late medieval period
+- late middeleeuwen
+- Late Middle Ages
+- Malfrua Mezepoko
+- maŋitgaskaáigi
+- Medievie Tard
+- Mesjeta e vonë
+- Moyen Âge tardif
+- myöhäiskeskiaika
+- Neskorý stredovek
+- Osow Kres diwedhes
+- pozdní středověk
+- pozni srednji vek
+- późne średniowiecze
+- seinmellomalderen
+- senmedeltiden
+- Senmiddelalder
+- senmiddelalderen
+- Son orta əsrlər
+- Spätmittelalter
+- Síðmiðaldir
+- Temp medieval tardiv
+- yr Oesoedd Canol Diweddar
+- Æрæгастæуккаг æнустæ
+- όψιμος Μεσαίωνας
+- доцен среден век
+- Късно Средновековие
+- Пізнє Середньовіччя
+- Позднее Средневековье
+- Позняе Сярэдневякоўе
+- Позьняе Сярэднявечча
+- ուշ միջնադար
+- שלהי ימי הביניים
+- أواخر العصور الوسطى
+- سدههای میانی پایانی
+- لقرون لوسطانية لمعطلة
+- สมัยกลางตอนปลาย
+- გვიანი შუა საუკუნეები
+- 中世後期
+- 中世紀後期
+- 中世纪后期
+- 중세 후기
 has_id_wikidata: Q212976
 dv_has_:
+  name_:
+    an: Baixa Edat Meya
+    ar: أواخر العصور الوسطى
+    ary: لقرون لوسطانية لمعطلة
+    ast: Baxa Edá Media
+    az: Son orta əsrlər
+    be: Позняе Сярэдневякоўе
+    be-tarask: Позьняе Сярэднявечча
+    bg: Късно Средновековие
+    br: Krennamzer izelañ
+    ca: edat mitjana tardana
+    cs: pozdní středověk
+    cy: yr Oesoedd Canol Diweddar
+    da: Senmiddelalder
+    de: Spätmittelalter
+    el: όψιμος Μεσαίωνας
+    en: Late Middle Ages
+    en-gb: late Middle Ages
+    eo: Malfrua Mezepoko
+    es: Edad Media Tardía
+    et: hiliskeskaeg
+    eu: Behe Erdi Aroa
+    fa: سدههای میانی پایانی
+    fi: myöhäiskeskiaika
+    fr: Moyen Âge tardif
+    fur: Basse etât di mieç
+    gl: Baixa Idade Media
+    he: שלהי ימי הביניים
+    hu: késő középkor
+    hy: ուշ միջնադար
+    id: Abad Pertengahan Akhir
+    ie: Medievie Tard
+    is: Síðmiðaldir
+    it: Basso Medioevo
+    ja: 中世後期
+    ka: გვიანი შუა საუკუნეები
+    ko: 중세 후기
+    kw: Osow Kres diwedhes
+    mk: доцен среден век
+    nb: senmiddelalderen
+    nl: late middeleeuwen
+    nn: seinmellomalderen
+    os: Æрæгастæуккаг æнустæ
+    pl: późne średniowiecze
+    pt: Baixa Idade Média
+    rm: Temp medieval tardiv
+    ro: Evul Mediu Târziu
+    ru: Позднее Средневековье
+    ryu: 中世後期
+    sc: Edade Mèdia Bàscia
+    sco: late Middle Ages
+    se: maŋitgaskaáigi
+    sh: kasni srednji vijek
+    sk: Neskorý stredovek
+    sl: pozni srednji vek
+    sq: Mesjeta e vonë
+    sr: Kasni srednji vek
+    sv: senmedeltiden
+    th: สมัยกลางตอนปลาย
+    tr: Geç Orta Çağ
+    uk: Пізнє Середньовіччя
+    vec: baso medioevo
+    vi: Hậu kỳ Trung cổ
+    zh: 中世紀後期
+    zh-cn: 中世纪后期
+    zh-hans: 中世纪后期
+    zh-hant: 中世紀後期
+    zh-hk: 中世紀後期
+    zh-sg: 中世纪后期
+    zh-tw: 中世紀後期
   next_: {}
 dv_is_:
   same_as:
-    - "[[WD~Late_Middle_Ages,212976]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages|1300-Late_Middle-Ages]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages.public|1300-Late_Middle-Ages.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages.internal|1300-Late_Middle-Ages.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages.protect|1300-Late_Middle-Ages.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages.private|1300-Late_Middle-Ages.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages.personal|1300-Late_Middle-Ages.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages.secret|1300-Late_Middle-Ages.secret]]"
+  - '[[WD~Late_Middle_Ages,212976]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages|1300-Late_Middle-Ages]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages.public|1300-Late_Middle-Ages.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages.internal|1300-Late_Middle-Ages.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages.protect|1300-Late_Middle-Ages.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages.private|1300-Late_Middle-Ages.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages.personal|1300-Late_Middle-Ages.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages.secret|1300-Late_Middle-Ages.secret]]'
 dv_has_time_started: 1300-06-01
 dv_has_time_stopped: 1500-06-01
 dv_has_duration_years: 200
 dv_has_duration_: P200Y
-dv_has_previous_item: "[[1000-High_Middle-Ages+1300]]"
+dv_has_previous_item: '[[1000-High_Middle-Ages+1300]]'
 dv_is_same_as:
-  - "[[WD~Late_Middle_Ages,212976]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages|1300-Late_Middle-Ages]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages.public|1300-Late_Middle-Ages.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages.internal|1300-Late_Middle-Ages.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages.protect|1300-Late_Middle-Ages.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages.private|1300-Late_Middle-Ages.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages.personal|1300-Late_Middle-Ages.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages.secret|1300-Late_Middle-Ages.secret]]"
+- '[[WD~Late_Middle_Ages,212976]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages|1300-Late_Middle-Ages]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages.public|1300-Late_Middle-Ages.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages.internal|1300-Late_Middle-Ages.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages.protect|1300-Late_Middle-Ages.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages.private|1300-Late_Middle-Ages.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages.personal|1300-Late_Middle-Ages.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages.secret|1300-Late_Middle-Ages.secret]]'
 ---
-
 #is_a_/time_/Culture 
 
  has_time_started = `$= dv.current().dv_has_time_started` 

@@ -1,31 +1,133 @@
 ---
 aliases:
-  - gravity assist maneuver
-  - swing-by
-  - gravitational slingshot
-  - Gravity_Assist
-  - Gravity Assist
+- asistencia gravitacional
+- Asistencia gravitatoria
+- Asistență gravitațională
+- Asistimi gravitacional
+- assistance gravitationnelle
+- assistència gravitatòria
+- asysta grawitacyjna
+- Bantuan gravitasi
+- cabhair imtharraingthe
+- Fionda gravitazionale
+- Grabitatearen laguntza
+- gravidade assistida
+- gravita helpo
+- Gravitacijska praćka
+- gravitacijski manever
+- Gravitacioni manuvar
+- gravitasjonsslynge
+- gravitational slingshot
+- Gravitationel slynge
+- gravitationsslunga
+- Gravitatsiä manövrı
+- Gravitační manévr
+- Gravitačný manéver
+- Gravity Assist
+- gravity assist maneuver
+- Gravity_Assist
+- Gravitācijas manevrs
+- hintamanőver
+- Painovoimalinko
+- Swaartekragslinger
+- Swiertekrêftslinger
+- swing-by
+- Yerçekimsel sapan
+- zwaartekrachtsslinger
+- Гравітаційний маневр
+- Гравітацыйны манеўр
+- гравітацыйны манэўр
+- Гравитационен маньовър
+- Гравитационный манёвр
+- Гравитациски маневар
+- Գրավիտացիոն օժանդակում
+- מקלעת כבידתית
+- ثقلی مدد
+- مساعدة الجاذبية
+- کمک جاذبهای
+- გრავიტაციული მანევრი
+- スイングバイ
+- 引力助推
+- 重力助推
+- 스윙바이
 has_id_wikidata: Q223776
 developer:
-  - '[[_Standards/WikiData/WD~Mstislav_Keldysh,246497]]'
-  - '[[_Standards/WikiData/WD~Yuri_Kondratyuk,921167]]'
+- '[[_Standards/WikiData/WD~Mstislav_Keldysh,246497]]'
+- '[[_Standards/WikiData/WD~Yuri_Kondratyuk,921167]]'
 discoverer_or_inventor: '[[_Standards/WikiData/WD~Friedrich_Zander,327279]]'
 different_from: '[[_Standards/WikiData/WD~Oberth_effect,824852]]'
 part_of: '[[_Standards/WikiData/WD~interplanetary_spaceflight,834235]]'
 used_by: '[[_Standards/WikiData/WD~Luna_3,942814]]'
 has_characteristic: "[[_Standards/WikiData/WD~Tisserand's_parameter,1806612]]"
 subclass_of:
-  - '[[_Standards/WikiData/WD~space_maneuver,17488288]]'
-  - '[[_Standards/WikiData/WD~passive_motion,29374520]]'
+- '[[_Standards/WikiData/WD~space_maneuver,17488288]]'
+- '[[_Standards/WikiData/WD~passive_motion,29374520]]'
 has_use:
-  - '[[_Standards/WikiData/WD~reduction,47496130]]'
-  - '[[_Standards/WikiData/WD~acceleration,11376]]'
+- '[[_Standards/WikiData/WD~reduction,47496130]]'
+- '[[_Standards/WikiData/WD~acceleration,11376]]'
 uses: '[[_Standards/WikiData/WD~momentum,41273]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Animation%20of%20Voyager%202%20trajectory.gif
 Commons_category: Gravitational slingshots
 time_of_earliest_written_record: 1925-01-01T00:00:00Z
+dv_has_:
+  name_:
+    af: Swaartekragslinger
+    ar: مساعدة الجاذبية
+    ast: Asistencia gravitatoria
+    be: Гравітацыйны манеўр
+    be-tarask: гравітацыйны манэўр
+    bg: Гравитационен маньовър
+    ca: assistència gravitatòria
+    cs: Gravitační manévr
+    da: Gravitationel slynge
+    de: Swing-by
+    en: gravity assist
+    eo: gravita helpo
+    es: asistencia gravitatoria
+    eu: Grabitatearen laguntza
+    fa: کمک جاذبهای
+    fi: Painovoimalinko
+    fr: assistance gravitationnelle
+    fy: Swiertekrêftslinger
+    ga: cabhair imtharraingthe
+    gl: asistencia gravitacional
+    he: מקלעת כבידתית
+    hr: Gravitacijska praćka
+    hu: hintamanőver
+    hy: Գրավիտացիոն օժանդակում
+    id: Bantuan gravitasi
+    it: Fionda gravitazionale
+    ja: スイングバイ
+    ka: გრავიტაციული მანევრი
+    ko: 스윙바이
+    lb: Swing-by
+    lv: Gravitācijas manevrs
+    mk: Гравитациски маневар
+    nb: gravitasjonsslynge
+    nl: zwaartekrachtsslinger
+    pl: asysta grawitacyjna
+    pt: gravidade assistida
+    ro: Asistență gravitațională
+    ru: Гравитационный манёвр
+    sk: Gravitačný manéver
+    sl: gravitacijski manever
+    sq: Asistimi gravitacional
+    sr: Gravitacioni manuvar
+    sv: gravitationsslunga
+    tr: Yerçekimsel sapan
+    tt: Gravitatsiä manövrı
+    uk: Гравітаційний маневр
+    ur: ثقلی مدد
+    vi: Swing-by
+    yue: 重力助推
+    zh: 重力助推
+    zh-cn: 引力助推
+    zh-hans: 重力助推
+    zh-hant: 重力助推
+    zh-hk: 重力助推
+    zh-sg: 引力助推
+    zh-tw: 重力助推
 ---
-
 # [[Gravity_Assist]] 
 
 #is_/same_as :: [[../../WikiData/WD~Gravity_assist,223776|WD~Gravity_assist,223776]] 

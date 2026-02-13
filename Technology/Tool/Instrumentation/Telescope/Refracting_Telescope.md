@@ -1,8 +1,52 @@
 ---
 aliases:
-  - dioptric telescope
-  - Refracting_Telescope
-  - Refracting Telescope
+- Astronomisk kikare
+- dioptric telescope
+- Errefrakzio-teleskopio
+- Fernrohr
+- Kính viễn vọng khúc xạ
+- Kırılmalı teleskop
+- Luneta astronomica
+- lunette astronomique
+- lunetă astronomică
+- Lënserefrakter
+- Refracting Telescope
+- Refracting_Telescope
+- refractor
+- refrakcijski teleskop
+- refraktor
+- refraktoro
+- Refraktors
+- Refraktorski teleskop
+- teileascóp athraonta
+- Telescopi refractor
+- telescopio refractor
+- telescopio rifrattore
+- Telescopiu refractor
+- telescópio refractor
+- Teleskop pembiasan
+- teleskop soczewkowy
+- Teleskòp refraktè
+- Zuaweziaga
+- Διοπτρικό τηλεσκόπιο
+- Рефрактор
+- Рефракторен телескоп
+- Рэфрактар
+- телескоп-рефрактор
+- Ռեֆրակտոր
+- טלסקופ שובר-אור
+- تلسکوپ شکستی
+- تەلیسکۆبی تیشکدانەوە
+- مقراب كاسر
+- अपवर्ती दूरदर्शी
+- প্রতিসরণ দূরবিন
+- അപവർത്തന ദൂരദർശിനി
+- กล้องโทรทรรศน์หักเหแสง
+- რეფრაქტორი
+- 屈折望遠鏡
+- 折射望远镜
+- 折射望遠鏡
+- 굴절 망원경
 has_id_wikidata: Q216778
 has_part_s_: '[[_Standards/WikiData/WD~lens,768575]]'
 subclass_of: '[[_Standards/WikiData/WD~optical_telescope,35273]]'
@@ -10,8 +54,72 @@ Nomenclature_for_Museum_Cataloging: 8405
 OmegaWiki_Defined_Meaning: 666042
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Zeiss2.jpg
 Commons_category: Refracting telescopes
+dv_has_:
+  name_:
+    ar: مقراب كاسر
+    ast: Telescopiu refractor
+    bar: Zuaweziaga
+    be: Рэфрактар
+    be-tarask: рэфрактар
+    bg: Рефракторен телескоп
+    bn: প্রতিসরণ দূরবিন
+    ca: Telescopi refractor
+    ckb: تەلیسکۆبی تیشکدانەوە
+    cs: refraktor
+    da: refraktor
+    de: Fernrohr
+    el: Διοπτρικό τηλεσκόπιο
+    en: refracting telescope
+    eo: refraktoro
+    es: telescopio refractor
+    et: Refraktor
+    eu: Errefrakzio-teleskopio
+    fa: تلسکوپ شکستی
+    fr: lunette astronomique
+    ga: teileascóp athraonta
+    gl: Telescopio refractor
+    gsw: Fernrohr
+    he: טלסקופ שובר-אור
+    hi: अपवर्ती दूरदर्शी
+    hr: Refraktorski teleskop
+    ht: Teleskòp refraktè
+    hy: Ռեֆրակտոր
+    io: Refraktoro
+    it: telescopio rifrattore
+    ja: 屈折望遠鏡
+    ko: 굴절 망원경
+    lb: Lënserefrakter
+    lv: Refraktors
+    mk: Рефрактор
+    ml: അപവർത്തന ദൂരദർശിനി
+    ms: Teleskop pembiasan
+    nb: refraktor
+    nl: refractor
+    nn: Refraktor
+    oc: Luneta astronomica
+    pl: teleskop soczewkowy
+    pt: telescópio refractor
+    ro: lunetă astronomică
+    ru: телескоп-рефрактор
+    sh: Refraktor
+    sk: Refraktor
+    sl: refrakcijski teleskop
+    sr: Рефрактор
+    sv: Astronomisk kikare
+    th: กล้องโทรทรรศน์หักเหแสง
+    tr: Kırılmalı teleskop
+    uk: Рефрактор
+    vi: Kính viễn vọng khúc xạ
+    xmf: რეფრაქტორი
+    yue: 折射望遠鏡
+    zh: 折射望远镜
+    zh-cn: 折射望远镜
+    zh-hans: 折射望远镜
+    zh-hant: 折射望遠鏡
+    zh-hk: 折射望遠鏡
+    zh-sg: 折射望远镜
+    zh-tw: 折射望遠鏡
 ---
-
 # [[Refracting_Telescope]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Refracting_telescope,216778|WD~Refracting_telescope,216778]]  

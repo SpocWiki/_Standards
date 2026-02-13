@@ -1,13 +1,74 @@
 ---
 aliases:
-  - interwar period
-  - interbellum
-  - 1919-Interwar_Period+1939
-  - 1919-Interwar Period+1939
+- 1919-Interwar Period+1939
+- 1919-Interwar_Period+1939
+- a két világháború közötti időszak
+- dwudziestolecie międzywojenne
+- entre-deux-guerres
+- Europa i svijet između dva svjetska rata
+- Gerrarteko garaia
+- Giai đoạn giữa hai cuộc chiến tranh
+- interbellum
+- Intermilita periodo
+- Intermilitala periodo
+- interwar period
+- medvojno obdobje
+- Medzivojnové obdobie
+- Mellankrigstiden
+- Mellemkrigstiden
+- mellomkrigstida
+- mellomkrigstiden
+- meziválečné období
+- Međuratni period
+- millistríðsárin
+- Müharibələrarası dövr
+- Na blianta idirchogaidh
+- Panahong Entregera
+- perioada interbelică
+- Periode antar perang
+- Periodo interbellico
+- Periodu d'enteguerres
+- Periudha mes dy luftërave botërore
+- Perìodo interbèłego
+- període d'entreguerres
+- período de entreguerras
+- período entreguerras
+- serdema di navbera du şeran de
+- Sotien välinen aika
+- Starpkaru periods
+- Tarpukaris
+- Tëschekrichszäit
+- Urushlar oraligʻi davri
+- Y cyfnod rhwng y rhyfeloedd
+- Ynterbellum
+- Zwischenkriegszeit
+- İki savaş arası dönem
+- Μεσοπόλεμος
+- інтербелум
+- Інтэрбелум
+- Интербеллум
+- міжваенны пэрыяд
+- Међуратни период
+- меѓувоен период
+- межвоенный период
+- Период между световните войни
+- ինտերբելում
+- בין שתי מלחמות העולם
+- بین جنگ دور
+- د دواړونړیوالو جګړو تر منځ موده
+- دوره میاندوجنگ
+- فترة ما بين الحربين العالميتين
+- विश्वयुद्धों के मध्य की अवधि
+- ਇੰਟਰਵਾਰ ਪੀਰੀਅਡ
+- สมัยระหว่างสงคราม
+- 战间期
+- 戦間期
+- 戰間期
+- 전간기
 has_id_wikidata: Q154611
-instance_of: "[[_Standards/WikiData/WD~historical_period,11514315]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Interwar_period,13341431]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~Q59078586,59078586]]"
+instance_of: '[[_Standards/WikiData/WD~historical_period,11514315]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Interwar_period,13341431]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~Q59078586,59078586]]'
 subject_named_as: Zwischenkriegszeit
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Europe%20in%201923.jpg
 Commons_category: Interwar period
@@ -15,25 +76,101 @@ end_time: 1939-09-11T00:00:00Z
 start_time: 1918-11-11T00:00:00Z
 dv_is_:
   same_as:
-    - "[[../../../../../../../../WikiData/WD~Interwar_period,154611]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/1919-Interwar_Period+1939|1919-Interwar_Period+1939]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/1919-Interwar_Period+1939.public|1919-Interwar_Period+1939.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/1919-Interwar_Period+1939.internal|1919-Interwar_Period+1939.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/1919-Interwar_Period+1939.protect|1919-Interwar_Period+1939.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/1919-Interwar_Period+1939.private|1919-Interwar_Period+1939.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/1919-Interwar_Period+1939.personal|1919-Interwar_Period+1939.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/1919-Interwar_Period+1939.secret|1919-Interwar_Period+1939.secret]]"
+  - '[[../../../../../../../../WikiData/WD~Interwar_period,154611]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/1919-Interwar_Period+1939|1919-Interwar_Period+1939]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/1919-Interwar_Period+1939.public|1919-Interwar_Period+1939.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/1919-Interwar_Period+1939.internal|1919-Interwar_Period+1939.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/1919-Interwar_Period+1939.protect|1919-Interwar_Period+1939.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/1919-Interwar_Period+1939.private|1919-Interwar_Period+1939.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/1919-Interwar_Period+1939.personal|1919-Interwar_Period+1939.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/1919-Interwar_Period+1939.secret|1919-Interwar_Period+1939.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Interwar_period,154611]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/1919-Interwar_Period+1939|1919-Interwar_Period+1939]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/1919-Interwar_Period+1939.public|1919-Interwar_Period+1939.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/1919-Interwar_Period+1939.internal|1919-Interwar_Period+1939.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/1919-Interwar_Period+1939.protect|1919-Interwar_Period+1939.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/1919-Interwar_Period+1939.private|1919-Interwar_Period+1939.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/1919-Interwar_Period+1939.personal|1919-Interwar_Period+1939.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/1919-Interwar_Period+1939.secret|1919-Interwar_Period+1939.secret]]"
+- '[[../../../../../../../../WikiData/WD~Interwar_period,154611]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/1919-Interwar_Period+1939|1919-Interwar_Period+1939]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/1919-Interwar_Period+1939.public|1919-Interwar_Period+1939.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/1919-Interwar_Period+1939.internal|1919-Interwar_Period+1939.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/1919-Interwar_Period+1939.protect|1919-Interwar_Period+1939.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/1919-Interwar_Period+1939.private|1919-Interwar_Period+1939.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/1919-Interwar_Period+1939.personal|1919-Interwar_Period+1939.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/1919-Interwar_Period+1939.secret|1919-Interwar_Period+1939.secret]]'
+dv_has_:
+  name_:
+    ar: فترة ما بين الحربين العالميتين
+    ast: Periodu d'enteguerres
+    az: Müharibələrarası dövr
+    be: Інтэрбелум
+    be-tarask: міжваенны пэрыяд
+    bg: Период между световните войни
+    ca: període d'entreguerres
+    cs: meziválečné období
+    cy: Y cyfnod rhwng y rhyfeloedd
+    da: Mellemkrigstiden
+    de: Zwischenkriegszeit
+    el: Μεσοπόλεμος
+    en: interwar period
+    eo: Intermilita periodo
+    es: período de entreguerras
+    et: Interbellum
+    eu: Gerrarteko garaia
+    fa: دوره میاندوجنگ
+    fi: Sotien välinen aika
+    fr: entre-deux-guerres
+    fy: Ynterbellum
+    ga: Na blianta idirchogaidh
+    gl: período de entreguerras
+    he: בין שתי מלחמות העולם
+    hi: विश्वयुद्धों के मध्य की अवधि
+    hr: Europa i svijet između dva svjetska rata
+    hu: a két világháború közötti időszak
+    hy: ինտերբելում
+    id: Periode antar perang
+    io: Intermilitala periodo
+    is: millistríðsárin
+    it: Periodo interbellico
+    ja: 戦間期
+    ko: 전간기
+    krc: Интербеллум
+    ku: serdema di navbera du şeran de
+    la: Interbellum
+    lb: Tëschekrichszäit
+    li: Interbellum
+    lt: Tarpukaris
+    lv: Starpkaru periods
+    mk: меѓувоен период
+    nb: mellomkrigstiden
+    nl: interbellum
+    nn: mellomkrigstida
+    pa: ਇੰਟਰਵਾਰ ਪੀਰੀਅਡ
+    pl: dwudziestolecie międzywojenne
+    pnb: بین جنگ دور
+    ps: د دواړونړیوالو جګړو تر منځ موده
+    pt: período entreguerras
+    pt-br: período entreguerras
+    ro: perioada interbelică
+    ru: межвоенный период
+    sh: Međuratni period
+    sk: Medzivojnové obdobie
+    sl: medvojno obdobje
+    sq: Periudha mes dy luftërave botërore
+    sr: Међуратни период
+    sv: Mellankrigstiden
+    th: สมัยระหว่างสงคราม
+    tl: Panahong Entregera
+    tr: İki savaş arası dönem
+    uk: інтербелум
+    ur: بین جنگ دور
+    uz: Urushlar oraligʻi davri
+    vec: Perìodo interbèłego
+    vi: Giai đoạn giữa hai cuộc chiến tranh
+    yue: 戰間期
+    zh: 战间期
+    zh-cn: 战间期
+    zh-hans: 战间期
+    zh-hant: 戰間期
+    zh-hk: 戰間期
+    zh-sg: 战间期
+    zh-tw: 戰間期
 ---
-
 # [[1919-Interwar_Period+1939]] 
 
 #is_/same_as :: [[WD~Interwar_period,154611]] 

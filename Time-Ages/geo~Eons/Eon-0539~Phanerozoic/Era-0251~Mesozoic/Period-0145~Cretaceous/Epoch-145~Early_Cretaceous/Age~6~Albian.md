@@ -1,80 +1,131 @@
 ---
 aliases:
-  - Albian
+- Alb
+- alba
+- albai
+- Albia
+- Albian
+- Albiano
+- Albiano (geologio)
+- Albianu
+- Albiar
+- Albien
+- Albiense
+- Albij
+- Albium
+- Albià
+- Tầng Alba
+- Άλβιο
+- Альб ярусы
+- альбский ярус
+- Альбський ярус
+- אלביאן
+- آلبین
+- الألبي
+- アルビアン
+- 阿爾布期
+- 알비절
 has_id_wikidata: Q301728
 named_by: "[[_Standards/WikiData/WD~Alcide_d'Orbigny,344661]]"
-named_after: "[[_Standards/WikiData/WD~Aube,548466]]"
+named_after: '[[_Standards/WikiData/WD~Aube,548466]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Albian,21750186]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Albian,132744424]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Albian,21750186]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Albian,132744424]]'
 start_time: -113000000-01-01T00:00:00Z
 end_time: -100500000-01-01T00:00:00Z
-country: "[[_Standards/WikiData/WD~France,142]]"
+country: '[[_Standards/WikiData/WD~France,142]]'
 Commons_category: Albian
 sRGB_color_hex_triplet: CDE5A8
 coordinate_location: Point(5.311766666 44.496605555)
 dv_has_:
   duration_:
-    years: "1.250e+7"
-  previous_:
-    item: "[[Age~5~Aptian]]"
-  next_:
-    item: "[[../Epoch-101~Late_Cretaceous/Age~1~Cenomanian|Age~1~Cenomanian]]"
+    years: 1.250e+7
   name_:
+    abbreviated: b6
+    af: Albium
+    ar: الألبي
+    ast: Albianu
     bg: плб
+    bs: Albij
+    ca: Albià
     cs: Alb
     da: Albien
     de: Albium
+    el: Άλβιο
+    en: Albian
+    eo: Albiano (geologio)
     es: Albiense
     et: Albi
+    eu: Albiar
+    fa: آلبین
     fi: Alb
     fr: Albien
+    gl: Albiense
+    he: אלביאן
     hu: albai
-    it: albiano
-    ja: アルビアン期
+    id: Albium
+    it: Albiano
+    ja: アルビアン
+    kk: Альб ярусы
+    ko: 알비절
+    la: Albium
     lt: Albis
-    nl: Albiën
+    ms: Albia
+    nb: Albium
+    nl: Albien
+    nn: alba
     no: Alb
-    pl: Alb
+    oc: Albian
+    pl: alb
     pt: Albiano
+    ru: альбский ярус
+    scn: Albianu
+    sh: Alb
     sk: alb
     sl: albij
     sv: alban
-    zh: 阿尔布期
-    abbreviated: b6
-  time_:
-    started: "-113.0e6"
-    stopped: "-100.5e6"
+    tr: Albian
+    uk: Альбський ярус
+    vi: Tầng Alba
+    zh: 阿爾布期
+    zh-hant: 阿爾布期
+  next_:
+    item: '[[../Epoch-101~Late_Cretaceous/Age~1~Cenomanian|Age~1~Cenomanian]]'
+  previous_:
+    item: '[[Age~5~Aptian]]'
   text_of_:
-    color: "0xCCEA97"
+    color: 0xCCEA97
+  time_:
+    started: -113.0e6
+    stopped: -100.5e6
 dv_is_:
   same_as:
-    - "[[WD~Albian,301728]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~6~Albian|Age~6~Albian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~6~Albian.public|Age~6~Albian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~6~Albian.internal|Age~6~Albian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~6~Albian.protect|Age~6~Albian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~6~Albian.private|Age~6~Albian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~6~Albian.personal|Age~6~Albian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~6~Albian.secret|Age~6~Albian.secret]]"
-dv_has_duration_years: "1.250e+7"
-dv_has_previous_item: "[[Age~5~Aptian]]"
-dv_has_next_item: "[[../Epoch-101~Late_Cretaceous/Age~1~Cenomanian|Age~1~Cenomanian]]"
+  - '[[WD~Albian,301728]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~6~Albian|Age~6~Albian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~6~Albian.public|Age~6~Albian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~6~Albian.internal|Age~6~Albian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~6~Albian.protect|Age~6~Albian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~6~Albian.private|Age~6~Albian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~6~Albian.personal|Age~6~Albian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~6~Albian.secret|Age~6~Albian.secret]]'
+dv_has_duration_years: 1.250e+7
+dv_has_previous_item: '[[Age~5~Aptian]]'
+dv_has_next_item: '[[../Epoch-101~Late_Cretaceous/Age~1~Cenomanian|Age~1~Cenomanian]]'
 dv_is_same_as:
-  - "[[WD~Albian,301728]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~6~Albian|Age~6~Albian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~6~Albian.public|Age~6~Albian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~6~Albian.internal|Age~6~Albian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~6~Albian.protect|Age~6~Albian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~6~Albian.private|Age~6~Albian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~6~Albian.personal|Age~6~Albian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~6~Albian.secret|Age~6~Albian.secret]]"
+- '[[WD~Albian,301728]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~6~Albian|Age~6~Albian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~6~Albian.public|Age~6~Albian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~6~Albian.internal|Age~6~Albian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~6~Albian.protect|Age~6~Albian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~6~Albian.private|Age~6~Albian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~6~Albian.personal|Age~6~Albian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~6~Albian.secret|Age~6~Albian.secret]]'
 dv_has_name_bg: плб
 dv_has_name_cs: Alb
 dv_has_name_da: Albien
@@ -96,9 +147,9 @@ dv_has_name_sl: albij
 dv_has_name_sv: alban
 dv_has_name_zh: 阿尔布期
 dv_has_name_abbreviated: b6
-dv_has_time_started: "-113.0e6"
-dv_has_time_stopped: "-100.5e6"
-dv_has_text_of_color: "0xCCEA97"
+dv_has_time_started: -113.0e6
+dv_has_time_stopped: -100.5e6
+dv_has_text_of_color: 0xCCEA97
 ---
 # [[Age~6~Albian]] 
 

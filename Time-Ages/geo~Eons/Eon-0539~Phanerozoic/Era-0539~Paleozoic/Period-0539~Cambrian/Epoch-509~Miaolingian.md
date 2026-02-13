@@ -1,13 +1,32 @@
 ---
 aliases:
-  - Miaolingian
+- Miaoling
+- Miaolingian
+- miaolingiar
+- Miaolingien
+- Miaolingiense
+- miaolingij
+- Miaolingium
+- Miaolingiyen
+- Miaolingià
+- Miaolínguico
+- Miêu Lĩnh
+- serie 3
+- мяолинский отдел
+- المياولينغي
+- ردیف ۳ کامبرین
+- สมัยเมียวลิงเจียน
+- ミャオリンギアン
+- 苗岭世
+- 苗嶺世
+- 먀오링세
 has_id_wikidata: Q5025304
 instance_of:
-  - "[[_Standards/WikiData/WD~series,312468]]"
-  - "[[_Standards/WikiData/WD~epoch,754897]]"
-named_after: "[[_Standards/WikiData/WD~Miaoling_Mountains,28798795]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Miaolingian,30869619]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+- '[[_Standards/WikiData/WD~series,312468]]'
+- '[[_Standards/WikiData/WD~epoch,754897]]'
+named_after: '[[_Standards/WikiData/WD~Miaoling_Mountains,28798795]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Miaolingian,30869619]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 end_time: -497000000-01-01T00:00:00Z
 Commons_category: Miaolingian
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide%20Paleographic%20Map%20of%20Earth%2C%20505%20Ma%20%28Wuliuan%20Stage%29.png
@@ -16,46 +35,70 @@ sRGB_color_hex_triplet: A6CF86
 start_time: -506500000-01-01T00:00:00Z
 dv_has_:
   duration_:
-    years: "1.200e+7"
-  previous_:
-    item: "[[Epoch~]]"
-  next_:
-    item: "[[Epoch~]]"
+    years: 1.200e+7
   name_:
     abbreviated: Ep3
+    ar: المياولينغي
+    ca: Miaolingià
+    de: Miaolingium
+    en: Miaolingian
+    en-gb: Miaolingian
+    es: Miaolingiense
+    eu: miaolingiar
+    fa: ردیف ۳ کامبرین
+    fr: Miaolingien
+    id: Miaolingium
+    ja: ミャオリンギアン
+    ko: 먀오링세
+    ms: Miaoling
+    nl: Miaolingien
+    nn: serie 3
+    pl: miaoling
+    pt: Miaolínguico
+    ru: мяолинский отдел
+    sl: miaolingij
+    sv: Miaoling
+    th: สมัยเมียวลิงเจียน
+    tr: Miaolingiyen
+    vi: Miêu Lĩnh
+    zh: 苗嶺世
+    zh-cn: 苗岭世
+  next_:
+    item: '[[Epoch~]]'
+  previous_:
+    item: '[[Epoch~]]'
+  text_of_:
+    color: 0xA6CF86
   time_:
     started: -509000000
     stopped: -497000000
-  text_of_:
-    color: "0xA6CF86"
 dv_is_:
   same_as:
-    - "[[WD~Miaolingian,5025304]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian|Epoch-509~Miaolingian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian.public|Epoch-509~Miaolingian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian.internal|Epoch-509~Miaolingian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian.protect|Epoch-509~Miaolingian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian.private|Epoch-509~Miaolingian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian.personal|Epoch-509~Miaolingian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian.secret|Epoch-509~Miaolingian.secret]]"
-dv_has_duration_years: "1.200e+7"
-dv_has_previous_item: "[[Epoch~]]"
-dv_has_next_item: "[[Epoch~]]"
+  - '[[WD~Miaolingian,5025304]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian|Epoch-509~Miaolingian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian.public|Epoch-509~Miaolingian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian.internal|Epoch-509~Miaolingian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian.protect|Epoch-509~Miaolingian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian.private|Epoch-509~Miaolingian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian.personal|Epoch-509~Miaolingian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian.secret|Epoch-509~Miaolingian.secret]]'
+dv_has_duration_years: 1.200e+7
+dv_has_previous_item: '[[Epoch~]]'
+dv_has_next_item: '[[Epoch~]]'
 dv_is_same_as:
-  - "[[WD~Miaolingian,5025304]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian|Epoch-509~Miaolingian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian.public|Epoch-509~Miaolingian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian.internal|Epoch-509~Miaolingian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian.protect|Epoch-509~Miaolingian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian.private|Epoch-509~Miaolingian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian.personal|Epoch-509~Miaolingian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian.secret|Epoch-509~Miaolingian.secret]]"
+- '[[WD~Miaolingian,5025304]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian|Epoch-509~Miaolingian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian.public|Epoch-509~Miaolingian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian.internal|Epoch-509~Miaolingian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian.protect|Epoch-509~Miaolingian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian.private|Epoch-509~Miaolingian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian.personal|Epoch-509~Miaolingian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian.secret|Epoch-509~Miaolingian.secret]]'
 dv_has_name_abbreviated: Ep3
 dv_has_time_started: -509000000
 dv_has_time_stopped: -497000000
-dv_has_text_of_color: "0xA6CF86"
+dv_has_text_of_color: 0xA6CF86
 ---
-
 # [[Epoch-509~Miaolingian]] 
 
 #is_a_/time_/Epoch 

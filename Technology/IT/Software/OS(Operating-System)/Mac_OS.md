@@ -1,22 +1,54 @@
 ---
 aliases:
-  - Mac OS
-  - macOS
-  - Mac OS X
-  - Mac operating system
-  - Macintosh operating system
-  - Mac_OS
+- Classic Mac OS
+- Mac işletim sistemleri
+- Mac operating system
+- Mac OS
+- Mac OS Classic
+- Mac OS operatin seestems
+- Mac OS operating systems
+- Mac OS X
+- Mac-Betriebssysteme
+- Macintosh (оперативни системи)
+- Macintosh operating system
+- Macintosh operating systems
+- Macintosh styresystemer
+- Macintosh stýrikerfi
+- macOS
+- MacOS Classic
+- Mac_OS
+- Macのオペレーティングシステム
+- operacijski sistemi Macintosh
+- operační systémy pro Mac
+- Sistem operasi Macintosh
+- sistemas operativos Mac
+- Systemata interna Macintosh
+- systèmes d'exploitation Mac OS
+- Λειτουργικά συστήματα Mac
+- מאקאס
+- أنظمة تشغيل ماك أو أس
+- مک اواس
+- مەک ئۆ ئێس
+- मॅक संचालन प्रणाली
+- मेक प्रचालनतन्त्र
+- म्याक ओ एस
+- ম্যাক ওএস
+- மாக் இயக்குதளம்
+- แมคโอเอส
+- 麥金塔作業系統
+- 麦金塔操作系统
+- 맥 OS
 has_id_wikidata: Q43627
 named_after: '[[_Standards/WikiData/WD~Mac,75687]]'
 platform:
-  - '[[_Standards/WikiData/WD~Q272629,272629]]'
-  - '[[_Standards/WikiData/WD~AArch64,18384745]]'
+- '[[_Standards/WikiData/WD~Q272629,272629]]'
+- '[[_Standards/WikiData/WD~AArch64,18384745]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Classic_Mac_OS,13522376]]'
-  - '[[../../../../WikiData/WD~macOS,14116]]'
+- '[[_Standards/WikiData/WD~Classic_Mac_OS,13522376]]'
+- '[[../../../../WikiData/WD~macOS,14116]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Classic_Mac_OS,13522376]]'
-  - '[[../../../../WikiData/WD~macOS,14116]]'
+- '[[_Standards/WikiData/WD~Classic_Mac_OS,13522376]]'
+- '[[../../../../WikiData/WD~macOS,14116]]'
 developer: '[[_Standards/WikiData/WD~Apple_Inc.,312]]'
 subclass_of: '[[_Standards/WikiData/WD~operating_system,9135]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/2010-01-21%20MacBook%20Pro%20flat%20panel%20showing%20Earth%20background.jpg
@@ -24,8 +56,53 @@ WordLift_URL: http://data.thenextweb.com/tnw/entity/mac_os_2
 official_website: https://www.apple.com/lae/macos/what-is/
 IMDb_keyword: macintosh
 Commons_category: Macintosh operating systems
+dv_has_:
+  name_:
+    ar: أنظمة تشغيل ماك أو أس
+    bn: ম্যাক ওএস
+    ckb: مەک ئۆ ئێس
+    cs: operační systémy pro Mac
+    da: Macintosh styresystemer
+    de: Mac-Betriebssysteme
+    el: Λειτουργικά συστήματα Mac
+    en: Mac OS operating systems
+    fa: مک اواس
+    fr: systèmes d'exploitation Mac OS
+    gl: sistemas operativos Mac
+    haw: MacOS
+    hi: मॅक संचालन प्रणाली
+    id: Sistem operasi Macintosh
+    is: Macintosh stýrikerfi
+    it: Classic Mac OS
+    ja: Macのオペレーティングシステム
+    ko: 맥 OS
+    la: Systemata interna Macintosh
+    lij: Classic Mac OS
+    lld: Macintosh operating systems
+    mag: मेक प्रचालनतन्त्र
+    mr: मॅक संचालन प्रणाली
+    mul: Mac OS
+    new: म्याक ओ एस
+    sco: Mac OS operatin seestems
+    sl: operacijski sistemi Macintosh
+    sr: Macintosh (оперативни системи)
+    sv: Mac OS Classic
+    ta: மாக் இயக்குதளம்
+    tg: MacOS
+    th: แมคโอเอส
+    tr: Mac işletim sistemleri
+    vec: MacOS Classic
+    wuu: 麦金塔操作系统
+    yi: מאקאס
+    zh: 麦金塔操作系统
+    zh-cn: 麦金塔操作系统
+    zh-hans: 麦金塔操作系统
+    zh-hant: 麥金塔作業系統
+    zh-hk: 麥金塔作業系統
+    zh-mo: 麥金塔作業系統
+    zh-sg: 麦金塔操作系统
+    zh-tw: 麥金塔作業系統
 ---
-
 # [[Mac_OS]] 
 
 #is_/same_as :: [[WD~Macintosh_operating_systems,43627]] 

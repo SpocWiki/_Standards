@@ -2,6 +2,7 @@
 aliases:
 - amhránaí is scríbhneoir
 - arraneyder as screeudeyr
+- auteur-compositeur-interprète ou autrice-compositrice-interprète
 - auteur.e-compositeur.ice-interprète
 - Autor-compositor-interprete
 - ca sĩ kiêm sáng tác nhạc
@@ -196,7 +197,7 @@ dv_has_:
     eu: egile abeslari
     fa: خواننده-ترانهپرداز
     fi: laulaja-lauluntekijä
-    fr: auteur.e-compositeur.ice-interprète
+    fr: auteur-compositeur-interprète ou autrice-compositrice-interprète
     frr: singer songwriter
     fy: sjonger-lietsjeskriuwer
     ga: amhránaí is scríbhneoir

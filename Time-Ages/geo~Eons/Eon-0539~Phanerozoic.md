@@ -1,96 +1,215 @@
 ---
 aliases:
-  - Phanerozoic
-  - Фанерозой
-  - Fanerozoikum
-  - Phanerozoisk
-  - Phanerozoikum
-  - Fanerozoico
-  - Fanerosoikum
-  - Fanerotsoikum
-  - Phanérozoïque
-  - fanerozoikum
-  - fanerozoico
-  - 顕生代
-  - Fanerozojus
-  - Phanerozoïcum
-  - Fanerozoik
-  - Fanerozóico
-  - fanerozoik
-  - 显生宙
-  - Eon~4~Phanerozoic
+- an tAeón Fanarasóch
+- Eon~4~Phanerozoic
+- Fanerosoikum
+- Fanerosoyig
+- Fanerosoïkum
+- Fanerotsoikum
+- fanerotsooinen eoni
+- Fanerozoeg
+- Fanerozoic
+- Fanerozoico
+- Fanerozoicu
+- Fanerozoik
+- fanerozoiko
+- Fanerozoikum
+- fanerozojs
+- Fanerozojus
+- Fanerozoy
+- Fanerozoy eoni
+- Fanerozoyik
+- Fanerozoïc
+- Fanerozoïcum
+- Fanerozoý
+- Fanerozòego
+- Fanerozóico
+- Ffanerosöig
+- Hián-seng lúi-tāi
+- Liên đại Hiển sinh
+- Panérozoikum
+- Phanerozoic
+- Phanerozoicum
+- Phanerozoikum
+- Phanerozoisk
+- Phanerozoïcum
+- Phanérozoïque
+- Tímabil sýnilegs lífs
+- Φανεροζωικός μεγααιώνας
+- фанеразой
+- фанерозоик
+- Фанерозой
+- фанерозой эону
+- фанэразой
+- Ֆաներոզոյի ժամանակաշրջան
+- פנרוזואיקון
+- بھو گربھک
+- دهر البشائر
+- فانەروزوي
+- پیدازیستی
+- दृश्यजीवी इओन
+- ফ্যানারোজোয়িক
+- ਭੂ-ਗਰਭਕ
+- ಫನೆರೊಜೋಯಿಕ್ ಕಲ್ಪ
+- ෆැනෙරොසොයික
+- บรมยุคฟาเนอโรโซอิก
+- ფანეროზოური ეონი
+- 显生宙
+- 顕生代
+- 顯生宙
+- 현생누대
 has_id_wikidata: Q101313
 Commons_category: Phanerozoic
 described_by_source:
-  - "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+- '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 has_time_started: -538800000
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ice%20age%20fauna%20of%20northern%20Spain%20-%20Mauricio%20Ant%C3%B3n.jpg
 instance_of:
-  - "[[_Standards/WikiData/WD~eon,108256]]"
-  - "[[_Standards/WikiData/WD~eonothem,2669627]]"
+- '[[_Standards/WikiData/WD~eon,108256]]'
+- '[[_Standards/WikiData/WD~eonothem,2669627]]'
 IPA_transcription: /ˌfænərəˈzoʊ.ɪk/
-named_by: "[[_Standards/WikiData/WD~George_Halcott_Chadwick,46122631]]"
+named_by: '[[_Standards/WikiData/WD~George_Halcott_Chadwick,46122631]]'
 part_of:
-  - "[[_Standards/WikiData/WD~geologic_time_scale,43521]]"
-  - "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+- '[[_Standards/WikiData/WD~geologic_time_scale,43521]]'
+- '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 sRGB_color_hex_triplet: 9AD9DD
 start_time: -538800000
-topic_s_main_template: "[[_Standards/WikiData/WD~Q26108156,26108156]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Q26108156,26108156]]'
 dv_has_:
   duration_:
-    years: "5.388e+8"
-  previous_:
-    item: "[[Eon-2500~Proterozoic]]"
-  next_:
-    item: ---
+    years: 5.388e+8
   name_:
+    af: Fanerosoïkum
+    ar: دهر البشائر
+    ast: Fanerozoicu
+    az: Fanerozoy
+    be: фанеразой
+    be-tarask: фанэразой
     bg: Фанерозой
+    bn: ফ্যানারোজোয়িক
+    br: Fanerozoeg
+    bs: Fanerozoik
+    ca: Fanerozoic
     cs: Fanerozoikum
-    da: Phanerozoisk
+    cy: Ffanerosöig
+    da: Phanerozoikum
     de: Phanerozoikum
+    el: Φανεροζωικός μεγααιώνας
+    en: Phanerozoic
+    en-ca: Phanerozoic
+    en-gb: Phanerozoic
+    eo: fanerozoiko
     es: Fanerozoico
     et: Fanerosoikum
-    fi: Fanerotsoikum
+    eu: Fanerozoiko
+    fa: پیدازیستی
+    fi: fanerotsooinen eoni
     fr: Phanérozoïque
+    frr: Phanerozoikum
+    ga: an tAeón Fanarasóch
+    gl: Fanerozoico
+    gsw: Phanerozoikum
+    he: פנרוזואיקון
+    hi: दृश्यजीवी इओन
+    hr: fanerozoik
     hu: fanerozoikum
-    it: fanerozoico
+    hy: Ֆաներոզոյի ժամանակաշրջան
+    id: Fanerozoikum
+    is: Tímabil sýnilegs lífs
+    it: Fanerozoico
     ja: 顕生代
-    lt: Fanerozojus
-    nl: Phanerozoïcum
+    jv: Fanerozoikum
+    ka: ფანეროზოური ეონი
+    kaa: Fanerozoy
+    kk: Фанерозой
+    kk-arab: فانەروزوي
+    kk-cn: فانەروزوي
+    kk-cyrl: Фанерозой
+    kk-kz: Фанерозой
+    kk-latn: Fanerozoý
+    kk-tr: Fanerozoý
+    kn: ಫನೆರೊಜೋಯಿಕ್ ಕಲ್ಪ
+    ko: 현생누대
+    ky: фанерозой эону
+    la: Phanerozoicum
+    lb: Phanerozoikum
+    lt: fanerozojus
+    lv: fanerozojs
+    mk: фанерозоик
+    ms: Fanerozoik
+    nan: Hián-seng lúi-tāi
+    nb: Fanerozoikum
+    nds: Phanerozoikum
+    nl: Fanerozoïcum
+    nn: fanerozoikum
     no: Fanerozoikum
-    pl: Fanerozoik
-    pt: Fanerozóico
+    oc: Fanerozoïc
+    pa: ਭੂ-ਗਰਭਕ
+    pl: fanerozoik
+    pnb: بھو گربھک
+    pt: Fanerozoico
+    pt-br: Fanerozoico
+    ro: Fanerozoic
+    ru: фанерозой
+    sah: Фанерозой
+    sh: Fanerozoik
+    si: ෆැනෙරොසොයික
     sk: fanerozoikum
     sl: fanerozoik
-    sv: fanerozoikum
+    so: Fanerosoyig
+    sr: Фанерозоик
+    sr-ec: Фанерозоик
+    sr-el: Fanerozoik
+    su: Panérozoikum
+    sv: Fanerozoikum
+    th: บรมยุคฟาเนอโรโซอิก
+    tl: Phanerozoic
+    tr: Fanerozoyik
+    uk: фанерозой
+    uz: Fanerozoy eoni
+    vec: Fanerozòego
+    vi: Liên đại Hiển sinh
+    war: Phanerozoic
+    wuu: 显生宙
+    yue: 顯生宙
     zh: 显生宙
-  time_:
-    started: "-538.8e6"
-    stopped: "0.0e6"
+    zh-cn: 显生宙
+    zh-hans: 显生宙
+    zh-hant: 顯生宙
+    zh-hk: 顯生宙
+    zh-sg: 显生宙
+    zh-tw: 顯生宙
+  next_:
+    item: '---'
+  previous_:
+    item: '[[Eon-2500~Proterozoic]]'
   text_of_:
-    color: "0x9AD9DD"
+    color: 0x9AD9DD
+  time_:
+    started: -538.8e6
+    stopped: 0.0e6
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Phanerozoic,101313|WD~Phanerozoic,101313]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic|Eon-0539~Phanerozoic]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic.public|Eon-0539~Phanerozoic.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic.internal|Eon-0539~Phanerozoic.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic.protect|Eon-0539~Phanerozoic.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic.private|Eon-0539~Phanerozoic.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic.personal|Eon-0539~Phanerozoic.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic.secret|Eon-0539~Phanerozoic.secret]]"
-dv_has_duration_years: "5.388e+8"
-dv_has_previous_item: "[[Eon-2500~Proterozoic]]"
-dv_has_next_item: ---
+  - '[[../../WikiData/WD~Phanerozoic,101313|WD~Phanerozoic,101313]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic|Eon-0539~Phanerozoic]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic.public|Eon-0539~Phanerozoic.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic.internal|Eon-0539~Phanerozoic.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic.protect|Eon-0539~Phanerozoic.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic.private|Eon-0539~Phanerozoic.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic.personal|Eon-0539~Phanerozoic.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic.secret|Eon-0539~Phanerozoic.secret]]'
+dv_has_duration_years: 5.388e+8
+dv_has_previous_item: '[[Eon-2500~Proterozoic]]'
+dv_has_next_item: '---'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Phanerozoic,101313|WD~Phanerozoic,101313]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic|Eon-0539~Phanerozoic]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic.public|Eon-0539~Phanerozoic.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic.internal|Eon-0539~Phanerozoic.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic.protect|Eon-0539~Phanerozoic.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic.private|Eon-0539~Phanerozoic.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic.personal|Eon-0539~Phanerozoic.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic.secret|Eon-0539~Phanerozoic.secret]]"
+- '[[../../WikiData/WD~Phanerozoic,101313|WD~Phanerozoic,101313]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic|Eon-0539~Phanerozoic]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic.public|Eon-0539~Phanerozoic.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic.internal|Eon-0539~Phanerozoic.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic.protect|Eon-0539~Phanerozoic.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic.private|Eon-0539~Phanerozoic.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic.personal|Eon-0539~Phanerozoic.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic.secret|Eon-0539~Phanerozoic.secret]]'
 dv_has_name_bg: Фанерозой
 dv_has_name_cs: Fanerozoikum
 dv_has_name_da: Phanerozoisk
@@ -111,10 +230,9 @@ dv_has_name_sk: fanerozoikum
 dv_has_name_sl: fanerozoik
 dv_has_name_sv: fanerozoikum
 dv_has_name_zh: 显生宙
-dv_has_time_stopped: "0.0e6"
-dv_has_text_of_color: "0x9AD9DD"
+dv_has_time_stopped: 0.0e6
+dv_has_text_of_color: 0x9AD9DD
 ---
-
 # [[Eon-0539~Phanerozoic]] 
 
 #is_a_/time_/Eon 

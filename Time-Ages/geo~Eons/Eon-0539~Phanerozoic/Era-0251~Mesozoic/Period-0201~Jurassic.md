@@ -1,30 +1,102 @@
 ---
 aliases:
-  - Jurassic
-  - Jura
+- an Tréimhse Iúrasach
+- Churasico
+- Djurassike
+- Giurassico
+- Giuràssich
+- Hurasiko
+- Hurasiku Unaq
+- Iurassicum
+- Jura
+- Jura (Geologii)
+- Jura-kì
+- jurakausi
+- Jurasal-epoko
+- Juraseg
+- Jurasic
+- Jurasica
+- Jurasig
+- Jurasik
+- Jurasiko
+- Jurasiku
+- Jurassic
+- Jurassik
+- Jurassique
+- Juràsego
+- Juràssic
+- Jurásico
+- Jurássico
+- Juura
+- Juuraasiig
+- Júra
+- Kỷ Jura
+- Xurásico
+- Xurásicu
+- Yura dáwiri
+- Yura dövrü
+- Yura sistemasi
+- Zurassic
+- Ìgbà Jùrásíkì
+- ĵurasio
+- Ιουράσια περίοδος
+- Јура
+- Юра
+- юра вакыт
+- Юра кезеңі
+- Юра мезгили
+- Юра периоды
+- Юрийн галав
+- юрскі перыяд
+- юрский период
+- юрський період
+- Յուրայի ժամանակաշրջան
+- יורה
+- العصر الجوراسي
+- جوراسک
+- جوراسیک
+- جیوراسک
+- ژوراسیک
+- जुरैसिक कल्प
+- ज्यूरासिक काळ
+- सरीसृपयुग
+- জুরাসিক
+- ਜੂਰੈਸਿਕ
+- சுராசிக் காலம்
+- ജുറാസ്സിക്
+- ยุคจูแรสซิก
+- ဂျူယက်စစ် ကာလ
+- ဂျူရာဆီက်ယုဂ်
+- იურული სისტემა
+- ジュラ紀
+- 侏罗纪
+- 侏羅紀
+- 侏羅紀末期滅絕事件
+- 유라기
+- 쥐라기
 has_id_wikidata: Q45805
 different_from:
-  - "[[_Standards/WikiData/WD~Jura,106351]]"
-  - "[[_Standards/WikiData/WD~Jurassic,1473937]]"
-  - "[[_Standards/WikiData/WD~Júra,16429904]]"
-named_after: "[[_Standards/WikiData/WD~Jura_Mountains,178611]]"
+- '[[_Standards/WikiData/WD~Jura,106351]]'
+- '[[_Standards/WikiData/WD~Jurassic,1473937]]'
+- '[[_Standards/WikiData/WD~Júra,16429904]]'
+named_after: '[[_Standards/WikiData/WD~Jura_Mountains,178611]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~period,392928]]"
-  - "[[_Standards/WikiData/WD~system,403523]]"
-named_by: "[[_Standards/WikiData/WD~Alexandre_Brongniart,442937]]"
+- '[[_Standards/WikiData/WD~period,392928]]'
+- '[[_Standards/WikiData/WD~system,403523]]'
+named_by: '[[_Standards/WikiData/WD~Alexandre_Brongniart,442937]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Jurassic,7145285]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Hettangian,134318266]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Jurassic,7145285]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Hettangian,134318266]]'
 start_time: -201400000-01-01T00:00:00Z
-OmegaWiki_Defined_Meaning: "866061"
+OmegaWiki_Defined_Meaning: 866061
 Commons_category: Jurassic
 end_time: -145000000-01-01T00:00:00Z
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Jurassic%20spoken%20article.ogg
@@ -32,65 +104,156 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide%20Paleograph
 IPA_transcription: /dʒʊˈræsɪk/
 sRGB_color_hex_triplet: 34B2C9
 Dewey_Decimal_Classification:
-  - "551.766"
-  - "560.1766"
-  - "561.1166"
+- 551.766
+- 560.1766
+- 561.1166
 dv_has_:
   duration_:
-    years: "5.640e+7"
-  previous_:
-    item: "[[Period-0252~Triassic]]"
-  next_:
-    item: "[[Period-0145~Cretaceous]]"
+    years: 5.640e+7
   name_:
+    abbreviated: J
+    af: Jura
+    an: Churasico
+    ar: العصر الجوراسي
+    ast: Xurásicu
+    az: Yura dövrü
+    be: юрскі перыяд
+    be-tarask: юра
     bg: Юра
+    bjn: Jura
+    bn: জুরাসিক
+    br: Juraseg
+    bs: Jura
+    ca: Juràssic
+    cdo: Jurassic
     cs: Jura
-    da: Jurassisk
+    cy: Jurasig
+    da: Jura
     de: Jura
+    el: Ιουράσια περίοδος
+    en: Jurassic
+    en-gb: Jurassic
+    eo: ĵurasio
     es: Jurásico
     et: Juura
-    fi: Jura
+    eu: Jurasiko
+    fa: ژوراسیک
+    fi: jurakausi
     fr: Jurassique
+    frr: Jura (Geologii)
+    fur: Zurassic
+    ga: an Tréimhse Iúrasach
+    gl: Xurásico
+    gsw: Jura
+    he: יורה
+    hi: जुरैसिक कल्प
+    hr: jura
     hu: jura
-    it: giurassico
+    hy: Յուրայի ժամանակաշրջան
+    id: Jura
+    io: Jurasal-epoko
+    is: Júra
+    it: Giurassico
     ja: ジュラ紀
-    lt: Jura
+    jv: Jura
+    ka: იურული სისტემა
+    kaa: Yura dáwiri
+    kk: Юра кезеңі
+    ko: 쥐라기
+    ko-kp: 유라기
+    ky: Юра мезгили
+    la: Iurassicum
+    lb: Jura
+    lfn: Jurasica
+    li: Jura
+    lt: jura
+    lv: Jura
+    lzh: 侏羅紀
+    mk: Јура
+    ml: ജുറാസ്സിക്
+    mn: Юрийн галав
+    mr: ज्यूरासिक काळ
+    ms: Jurasik
+    mwl: Jurássico
+    my: ဂျူယက်စစ် ကာလ
+    mzn: جوراسیک
+    nan: Jura-kì
+    nb: jura
+    nds: Jura
+    ne: सरीसृपयुग
     nl: Jura
+    nn: jura
     no: Jura
-    pl: Jura
+    oc: Jurassic
+    pa: ਜੂਰੈਸਿਕ
+    pl: jura
+    pms: Giuràssich
+    pnb: جوراسک
+    ps: جوراسیک
     pt: Jurássico
-    sk: jura, jurský
+    qu: Hurasiku Unaq
+    rki: ဂျူရာဆီက်ယုဂ်
+    ro: Jurasic
+    ru: юрский период
+    sh: Jura
+    si: Jurassic
+    sk: Jura
     sl: jura
-    sv: jura
+    so: Juuraasiig
+    sq: Jurasiku
+    sr: Јура
+    su: Jurassik
+    sv: Jura
+    sw: Jura
+    ta: சுராசிக் காலம்
+    th: ยุคจูแรสซิก
+    tl: Hurasiko
+    tr: Jura
+    tt: Юра периоды
+    udm: юра вакыт
+    uk: юрський період
+    ur: جیوراسک
+    uz: Yura sistemasi
+    vec: Juràsego
+    vi: Kỷ Jura
+    wa: Djurassike
+    war: Jurassic
+    wuu: 侏罗纪
+    yo: Ìgbà Jùrásíkì
+    yue: 侏羅紀
     zh: 侏罗纪
-    abbreviated: J
-  time_:
-    started: "-201.4e6"
-    stopped: "-145.0e6"
+    zh-hant: 侏羅紀末期滅絕事件
+  next_:
+    item: '[[Period-0145~Cretaceous]]'
+  previous_:
+    item: '[[Period-0252~Triassic]]'
   text_of_:
-    color: "0x34B2C9"
+    color: 0x34B2C9
+  time_:
+    started: -201.4e6
+    stopped: -145.0e6
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Jurassic,45805|WD~Jurassic,45805]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic|Period-0201~Jurassic]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic.public|Period-0201~Jurassic.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic.internal|Period-0201~Jurassic.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic.protect|Period-0201~Jurassic.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic.private|Period-0201~Jurassic.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic.personal|Period-0201~Jurassic.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic.secret|Period-0201~Jurassic.secret]]"
-dv_has_duration_years: "5.640e+7"
-dv_has_previous_item: "[[Period-0252~Triassic]]"
-dv_has_next_item: "[[Period-0145~Cretaceous]]"
+  - '[[../../../../WikiData/WD~Jurassic,45805|WD~Jurassic,45805]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic|Period-0201~Jurassic]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic.public|Period-0201~Jurassic.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic.internal|Period-0201~Jurassic.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic.protect|Period-0201~Jurassic.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic.private|Period-0201~Jurassic.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic.personal|Period-0201~Jurassic.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic.secret|Period-0201~Jurassic.secret]]'
+dv_has_duration_years: 5.640e+7
+dv_has_previous_item: '[[Period-0252~Triassic]]'
+dv_has_next_item: '[[Period-0145~Cretaceous]]'
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Jurassic,45805|WD~Jurassic,45805]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic|Period-0201~Jurassic]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic.public|Period-0201~Jurassic.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic.internal|Period-0201~Jurassic.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic.protect|Period-0201~Jurassic.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic.private|Period-0201~Jurassic.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic.personal|Period-0201~Jurassic.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic.secret|Period-0201~Jurassic.secret]]"
+- '[[../../../../WikiData/WD~Jurassic,45805|WD~Jurassic,45805]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic|Period-0201~Jurassic]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic.public|Period-0201~Jurassic.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic.internal|Period-0201~Jurassic.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic.protect|Period-0201~Jurassic.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic.private|Period-0201~Jurassic.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic.personal|Period-0201~Jurassic.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic.secret|Period-0201~Jurassic.secret]]'
 dv_has_name_bg: Юра
 dv_has_name_cs: Jura
 dv_has_name_da: Jurassisk
@@ -112,11 +275,10 @@ dv_has_name_sl: jura
 dv_has_name_sv: jura
 dv_has_name_zh: 侏罗纪
 dv_has_name_abbreviated: J
-dv_has_time_started: "-201.4e6"
-dv_has_time_stopped: "-145.0e6"
-dv_has_text_of_color: "0x34B2C9"
+dv_has_time_started: -201.4e6
+dv_has_time_stopped: -145.0e6
+dv_has_text_of_color: 0x34B2C9
 ---
-
 # [[Period-0201~Jurassic]] 
 
 #is_a_/time_/Period 

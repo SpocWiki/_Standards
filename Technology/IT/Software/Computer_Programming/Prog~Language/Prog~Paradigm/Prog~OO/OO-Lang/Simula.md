@@ -1,7 +1,78 @@
 ---
 has_id_wikidata: Q212569
+dv_has_:
+  name_:
+    ar: سيمولا
+    bn: সিমুলা (প্রোগ্রামিং ভাষা)
+    ca: Simula67
+    cs: Simula 67
+    da: Simula 67
+    de: Simula
+    el: Simula
+    en: Simula
+    es: Simula
+    fa: سیمولا
+    fi: Simula
+    fr: Simula
+    ga: Simula
+    hu: Simula
+    hy: Simula
+    ilo: Simula
+    io: Simula
+    it: Simula
+    ja: Simula
+    kk: Симула
+    kk-arab: سىيمۋلا
+    kk-cn: سىيمۋلا
+    kk-cyrl: Симула
+    kk-kz: Симула
+    kk-latn: Sïmwla
+    kk-tr: Sïmwla
+    ko: 시뮬라
+    lb: Simula
+    mk: Симула
+    ml: സിമുല
+    mul: Simula
+    nb: Simula
+    nl: Simula
+    nn: Simula
+    pl: Simula
+    pt: Simula
+    ro: Simula
+    ru: Симула
+    sk: Simula
+    sr: Симула
+    sv: Simula
+    syl: ꠌꠤꠝꠥꠟꠣ
+    tg: Simula
+    tg-latn: Simula
+    th: ภาษาซิมูลา
+    tr: Simula
+    uk: Симула
+    vec: Simula 67
+    yue: Simula
+    zh: Simula
+    zh-cn: Simula
+    zh-hans: Simula
+    zh-hant: Simula
+    zh-hk: Simula
+    zh-sg: Simula
+    zh-tw: Simula
+aliases:
+- Simula
+- Simula 67
+- Simula67
+- Sïmwla
+- Симула
+- سىيمۋلا
+- سيمولا
+- سیمولا
+- সিমুলা (প্রোগ্রামিং ভাষা)
+- സിമുല
+- ภาษาซิมูลา
+- ꠌꠤꠝꠥꠟꠣ
+- 시뮬라
 ---
-
 # [[Simula]] 
 
 #is_a_/ComputerLanguage 

@@ -1,7 +1,46 @@
 ---
 has_id_wikidata: Q34280
+dv_has_:
+  name_:
+    ar: بلانكالكول
+    bg: Планкалкюл
+    ca: Plankalkül
+    da: Plankalkül
+    de: Plankalkül
+    el: Plankalkül
+    en: Plankalkül
+    es: Plankalkül
+    fa: پلن کلکولوس
+    fi: Plankalkül
+    fr: Plankalkül
+    ga: Plankalkül
+    hu: Plankalkül
+    it: Plankalkül
+    ja: プランカルキュール
+    mul: Plankalkül
+    nb: Plankalkül
+    nl: Plankalkül
+    nn: Plankalkül
+    oc: Plankalkül
+    pl: Plankalkül
+    pt: Plankalkül
+    ro: Plankalkül
+    ru: Планкалкюль
+    sl: Plankalkül
+    sv: Plankalkül
+    tg: Планкалкюл
+    tr: Plankalkül
+    uk: Планкалкюль
+    vec: Plankalkül
+    zh: Plankalkül
+aliases:
+- Plankalkül
+- Планкалкюл
+- Планкалкюль
+- بلانكالكول
+- پلن کلکولوس
+- プランカルキュール
 ---
-
 # [[Plankalkül]] 
 
 #is_a_/ComputerLanguage 

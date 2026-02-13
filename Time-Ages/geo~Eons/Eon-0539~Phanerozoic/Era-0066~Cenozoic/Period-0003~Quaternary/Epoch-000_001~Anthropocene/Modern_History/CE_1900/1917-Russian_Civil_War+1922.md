@@ -1,32 +1,127 @@
 ---
 aliases:
-  - "Russian Civil War (Russian: Гражданская война в России, romanized: Grazhdanskaya voyna v Rossii"
-  - 1917-Russian_Civil_War+1922
-  - 1917-Russian Civil War+1922
+- 1917-Russian Civil War+1922
+- 1917-Russian_Civil_War+1922
+- Bellum Civile Russicum
+- Brezel diabarzh Rusia
+- Caggey Theayagh y Roosh
+- Cogadh Cathartha na Rúise
+- Cogadh Sìobhalta na Ruise
+- Den russiske borgarkrigen
+- Den Russiske Borgerkrig
+- den russiske borgerkrigen
+- Digmaang Sibil sa Rusya
+- Errusiako Gerra Zibila
+- Gherra tzivile russa
+- Guere civile rûsse
+- Guerra Cebil Russa
+- Guerra Civil Rusa
+- Guerra Civil Russa
+- Guerra Civil Russe
+- guerra civile russa
+- Guerra civili russa
+- guerre civile russe
+- Guèrra Civila Russa
+- Gyera Sibil han Rusya
+- Interna milito di Rusia
+- Krievijas pilsoņu karš
+- Lufta Civile Ruse
+- Lō͘-se-a Lōe-chiàn
+- Nội chiến Nga
+- oroszországi polgárháború
+- Perang Sadulur Rusia
+- Perang Saudara Rusia
+- Rhyfel Cartref Rwsia
+- Rossiyada fuqarolar urushi
+- Ruošâ siskáldâssuáti
+- Ruošša siskkáldassoahti
+- Rus İç Savaşı
+- Rusia enlanda milito
+- Rusijos pilietinis karas
+- Rusiyada vətəndaş müharibəsi
+- Ruska byrgarska wójna
+- ruska državljanska vojna
+- Ruski građanski rat
+- ruská občanská válka
+- Ruská občianska vojna
+- Russian Civil War
+- 'Russian Civil War (Russian: Гражданская война в России, romanized: Grazhdanskaya voyna v Rossii'
+- Russische Burgeroorlog
+- Russischer Bürgerkrieg
+- Russyske boargerkriich
+- Russ’sche Börgerkrieg
+- Ryska inbördeskriget
+- Rússneska borgarastyrjöldin
+- Războiul Civil Rus
+- Urusijətədə Šəhrvandə dave
+- Vene kodusõda
+- Venäjän sisällissota
+- Vinne kodosõda
+- wojna domowa w Rosji
+- Şerê navxweyî yê Rûsyayê
+- Ρωσικός Εμφύλιος Πόλεμος
+- Гражданийн тӀом Россехь
+- Гражданска война в Русия
+- Гражданская война в России
+- Грамадзянская вайна ў Расіі
+- Грамадзянская вайна ў Расеі
+- Громадянська війна в Росії
+- Оросой эрхэтэнэй дайн
+- Оросын иргэний дайн
+- Раççейри граждан вăрçи
+- Ресей империясының азамат соғысы
+- Россия ватандашлар сугышы
+- Россиядагы жарандык согуш жана чет өлкөлүк интервенция
+- Русия ватандашлар сугышы
+- Руска граѓанска војна
+- Руски грађански рат
+- Рәсәйҙә Граждандар һуғышы
+- Уæрæсейы мидхæст
+- Эрсече хинна бIорахой тIом
+- Ҷанги шаҳрвандии Русия
+- Ռուսաստանի քաղաքացիական պատերազմ
+- מלחמת האזרחים ברוסיה
+- الحرب الأهلية الروسية
+- الحرب الاهليه الروسيه
+- جنگ داخلی روسیه
+- د روسیې کورنۍ جګړه
+- روسی خانہ جنگی
+- روسیه ایچ ساواشی
+- شەڕی ناوخۆییی ڕووسیا
+- रूसी गृहयुद्ध
+- রাশিয়ার গৃহযুদ্ধ
+- உருசிய உள்நாட்டுப் போர்
+- สงครามกลางเมืองรัสเซีย
+- რუსეთის სამოქალაქო ომი
+- რუსეთიშ ომენოღალე ლჷმა
+- ロシア内戦
+- 俄国内战
+- 俄國內戰
+- 러시아 내전
 has_id_wikidata: Q79911
 participant:
-  - "[[_Standards/WikiData/WD~White_movement,104309]]"
-  - "[[_Standards/WikiData/WD~Red_Army,251395]]"
-  - "[[_Standards/WikiData/WD~Australia,408]]"
-  - "[[_Standards/WikiData/WD~Joseph_Stalin,855]]"
-  - "[[_Standards/WikiData/WD~Vladimir_Lenin,1394]]"
-  - "[[_Standards/WikiData/WD~Russian_Soviet_Federative_Socialist_Republic,2184]]"
-  - "[[_Standards/WikiData/WD~Leon_Trotsky,33391]]"
+- '[[_Standards/WikiData/WD~White_movement,104309]]'
+- '[[_Standards/WikiData/WD~Red_Army,251395]]'
+- '[[_Standards/WikiData/WD~Australia,408]]'
+- '[[_Standards/WikiData/WD~Joseph_Stalin,855]]'
+- '[[_Standards/WikiData/WD~Vladimir_Lenin,1394]]'
+- '[[_Standards/WikiData/WD~Russian_Soviet_Federative_Socialist_Republic,2184]]'
+- '[[_Standards/WikiData/WD~Leon_Trotsky,33391]]'
 location:
-  - "[[_Standards/WikiData/WD~Russian_Republic,139319]]"
-  - "[[_Standards/WikiData/WD~Russian_Socialist_Federative_Soviet_Republic,2305208]]"
-  - "[[_Standards/WikiData/WD~Russian_Democratic_Federative_Republic,4397927]]"
-  - "[[_Standards/WikiData/WD~Qajar_Iran,63158027]]"
-  - "[[_Standards/WikiData/WD~Mongolia,711]]"
-  - "[[_Standards/WikiData/WD~Tuva,960]]"
+- '[[_Standards/WikiData/WD~Russian_Republic,139319]]'
+- '[[_Standards/WikiData/WD~Russian_Socialist_Federative_Soviet_Republic,2305208]]'
+- '[[_Standards/WikiData/WD~Russian_Democratic_Federative_Republic,4397927]]'
+- '[[_Standards/WikiData/WD~Qajar_Iran,63158027]]'
+- '[[_Standards/WikiData/WD~Mongolia,711]]'
+- '[[_Standards/WikiData/WD~Tuva,960]]'
 country:
-  - "[[_Standards/WikiData/WD~Ukrainian_People's_Republic,243610]]"
-  - "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
-  - "[[_Standards/WikiData/WD~Russian_Empire,34266]]"
+- "[[_Standards/WikiData/WD~Ukrainian_People's_Republic,243610]]"
+- '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
+- '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~armed_conflict,350604]]"
-  - "[[_Standards/WikiData/WD~civil_war,8465]]"
-part_of: "[[_Standards/WikiData/WD~Revolutions_of_1917_1923,7318933]]"
+- '[[_Standards/WikiData/WD~armed_conflict,350604]]'
+- '[[_Standards/WikiData/WD~civil_war,8465]]'
+part_of: '[[_Standards/WikiData/WD~Revolutions_of_1917_1923,7318933]]'
 BHCL_UUID: ef45ed8a-f9c0-4ab7-85ef-f54b77d9d8c4
 Commons_category: Civil war of Russia
 detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Russian%20civil%20war%20in%20the%20west.svg
@@ -35,31 +130,140 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/CWRArticleImage.jpg
 Krugosvet_article_archived_: istoriya/GRAZHDANSKAYA_VONA_V_ROSSII.html
 start_time: 1917-11-07T00:00:00Z
 dv_has_:
-  next_: "[[1922-Soviet_Union+1991]]"
-  previous_: "[[../../Early_modern_History/CE_1700/1721-Russian_Empire+1917|1721-Russian_Empire+1917]]"
+  name_:
+    an: Guerra Civil Rusa
+    anp: रूसी गृहयुद्ध
+    ar: الحرب الأهلية الروسية
+    arz: الحرب الاهليه الروسيه
+    ast: Guerra civil rusa
+    az: Rusiyada vətəndaş müharibəsi
+    azb: روسیه ایچ ساواشی
+    ba: Рәсәйҙә Граждандар һуғышы
+    be: Грамадзянская вайна ў Расіі
+    be-tarask: Грамадзянская вайна ў Расеі
+    bg: Гражданска война в Русия
+    bn: রাশিয়ার গৃহযুদ্ধ
+    br: Brezel diabarzh Rusia
+    bs: Ruski građanski rat
+    bxr: Оросой эрхэтэнэй дайн
+    ca: Guerra Civil Russa
+    ce: Гражданийн тӀом Россехь
+    ckb: شەڕی ناوخۆییی ڕووسیا
+    cs: ruská občanská válka
+    cv: Раççейри граждан вăрçи
+    cy: Rhyfel Cartref Rwsia
+    da: Den Russiske Borgerkrig
+    de: Russischer Bürgerkrieg
+    de-ch: Russischer Bürgerkrieg
+    el: Ρωσικός Εμφύλιος Πόλεμος
+    en: Russian Civil War
+    en-ca: Russian Civil War
+    en-gb: Russian Civil War
+    eo: Rusia enlanda milito
+    es: guerra civil rusa
+    et: Vene kodusõda
+    eu: Errusiako Gerra Zibila
+    fa: جنگ داخلی روسیه
+    fi: Venäjän sisällissota
+    fr: guerre civile russe
+    fy: Russyske boargerkriich
+    ga: Cogadh Cathartha na Rúise
+    gd: Cogadh Sìobhalta na Ruise
+    gl: Guerra Civil Rusa
+    gv: Caggey Theayagh y Roosh
+    he: מלחמת האזרחים ברוסיה
+    hi: रूसी गृहयुद्ध
+    hr: Ruski građanski rat
+    hsb: Ruska byrgarska wójna
+    hu: oroszországi polgárháború
+    hy: Ռուսաստանի քաղաքացիական պատերազմ
+    ia: Guerra Civil Russe
+    id: Perang Saudara Rusia
+    inh: Эрсече хинна бIорахой тIом
+    io: Interna milito di Rusia
+    is: Rússneska borgarastyrjöldin
+    it: guerra civile russa
+    ja: ロシア内戦
+    ka: რუსეთის სამოქალაქო ომი
+    kk: Ресей империясының азамат соғысы
+    ko: 러시아 내전
+    ku: Şerê navxweyî yê Rûsyayê
+    ky: Россиядагы жарандык согуш жана чет өлкөлүк интервенция
+    la: Bellum Civile Russicum
+    lt: Rusijos pilietinis karas
+    lv: Krievijas pilsoņu karš
+    mk: Руска граѓанска војна
+    mn: Оросын иргэний дайн
+    ms: Perang Saudara Rusia
+    mwl: Guerra Cebil Russa
+    nan: Lō͘-se-a Lōe-chiàn
+    nb: den russiske borgerkrigen
+    nds: Russ’sche Börgerkrieg
+    nl: Russische Burgeroorlog
+    nn: Den russiske borgarkrigen
+    oc: Guèrra Civila Russa
+    os: Уæрæсейы мидхæст
+    pl: wojna domowa w Rosji
+    pnb: روسی خانہ جنگی
+    ps: د روسیې کورنۍ جګړه
+    pt: Guerra Civil Russa
+    pt-br: Guerra Civil Russa
+    ro: Războiul Civil Rus
+    ru: Гражданская война в России
+    sc: Gherra tzivile russa
+    scn: Guerra civili russa
+    se: Ruošša siskkáldassoahti
+    sh: Ruski građanski rat
+    sk: Ruská občianska vojna
+    sl: ruska državljanska vojna
+    smn: Ruošâ siskáldâssuáti
+    sq: Lufta Civile Ruse
+    sr: Руски грађански рат
+    su: Perang Sadulur Rusia
+    sv: Ryska inbördeskriget
+    ta: உருசிய உள்நாட்டுப் போர்
+    tg: Ҷанги шаҳрвандии Русия
+    th: สงครามกลางเมืองรัสเซีย
+    tl: Digmaang Sibil sa Rusya
+    tly: Urusijətədə Šəhrvandə dave
+    tr: Rus İç Savaşı
+    tt: Россия ватандашлар сугышы
+    tt-cyrl: Русия ватандашлар сугышы
+    uk: Громадянська війна в Росії
+    ur: روسی خانہ جنگی
+    uz: Rossiyada fuqarolar urushi
+    vi: Nội chiến Nga
+    vro: Vinne kodosõda
+    wa: Guere civile rûsse
+    war: Gyera Sibil han Rusya
+    wuu: 俄国内战
+    xmf: რუსეთიშ ომენოღალე ლჷმა
+    yue: 俄國內戰
+    zh: 俄国内战
+  next_: '[[1922-Soviet_Union+1991]]'
+  previous_: '[[../../Early_modern_History/CE_1700/1721-Russian_Empire+1917|1721-Russian_Empire+1917]]'
 dv_is_:
   same_as:
-    - "[[../../../../../../../../WikiData/WD~Russian_Civil_War,79911]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Civil_War+1922|1917-Russian_Civil_War+1922]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Civil_War+1922.public|1917-Russian_Civil_War+1922.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Civil_War+1922.internal|1917-Russian_Civil_War+1922.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Civil_War+1922.protect|1917-Russian_Civil_War+1922.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Civil_War+1922.private|1917-Russian_Civil_War+1922.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Civil_War+1922.personal|1917-Russian_Civil_War+1922.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Civil_War+1922.secret|1917-Russian_Civil_War+1922.secret]]"
-dv_has_next_: "[[1922-Soviet_Union+1991]]"
-dv_has_previous_: "[[../../Early_modern_History/CE_1700/1721-Russian_Empire+1917|1721-Russian_Empire+1917]]"
+  - '[[../../../../../../../../WikiData/WD~Russian_Civil_War,79911]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Civil_War+1922|1917-Russian_Civil_War+1922]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Civil_War+1922.public|1917-Russian_Civil_War+1922.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Civil_War+1922.internal|1917-Russian_Civil_War+1922.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Civil_War+1922.protect|1917-Russian_Civil_War+1922.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Civil_War+1922.private|1917-Russian_Civil_War+1922.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Civil_War+1922.personal|1917-Russian_Civil_War+1922.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Civil_War+1922.secret|1917-Russian_Civil_War+1922.secret]]'
+dv_has_next_: '[[1922-Soviet_Union+1991]]'
+dv_has_previous_: '[[../../Early_modern_History/CE_1700/1721-Russian_Empire+1917|1721-Russian_Empire+1917]]'
 dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Russian_Civil_War,79911]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Civil_War+1922|1917-Russian_Civil_War+1922]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Civil_War+1922.public|1917-Russian_Civil_War+1922.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Civil_War+1922.internal|1917-Russian_Civil_War+1922.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Civil_War+1922.protect|1917-Russian_Civil_War+1922.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Civil_War+1922.private|1917-Russian_Civil_War+1922.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Civil_War+1922.personal|1917-Russian_Civil_War+1922.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Civil_War+1922.secret|1917-Russian_Civil_War+1922.secret]]"
+- '[[../../../../../../../../WikiData/WD~Russian_Civil_War,79911]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Civil_War+1922|1917-Russian_Civil_War+1922]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Civil_War+1922.public|1917-Russian_Civil_War+1922.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Civil_War+1922.internal|1917-Russian_Civil_War+1922.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Civil_War+1922.protect|1917-Russian_Civil_War+1922.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Civil_War+1922.private|1917-Russian_Civil_War+1922.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Civil_War+1922.personal|1917-Russian_Civil_War+1922.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Civil_War+1922.secret|1917-Russian_Civil_War+1922.secret]]'
 ---
-
 # [[1917-Russian_Civil_War+1922]] 
 
 has_next_ = `=this.dv_has_next_` 

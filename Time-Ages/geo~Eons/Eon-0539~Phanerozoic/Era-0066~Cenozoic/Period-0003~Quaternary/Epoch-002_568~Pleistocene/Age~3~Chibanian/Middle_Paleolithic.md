@@ -1,47 +1,157 @@
 ---
 aliases:
-  - Mittelpaläolithikum
-  - Middle Palaeolithic
-  - Middle Paleolithic
-  - Middle_Paleolithic
+- 30 000–40 000 aK
+- cредний палеолит
+- Gitnang Paleolitiko
+- Hen Oes y Cerrig Canol
+- Henoadvezh krenn ar maen
+- Keskipaleoliittinen kausi
+- Keskmine paleoliitikum
+- mellanpaleolitikum
+- meza paleolitiko
+- middenpaleolithicum
+- Middle Palaeolithic
+- Middle Paleolithic
+- Middle_Paleolithic
+- Mittelpaläolithikum
+- Miðfornsteinöld
+- Orta paleolit
+- Orta Paleolitik
+- Oʻrta paleolit
+- Paleolit środkowy
+- Paleolitico medio
+- Paleoliticul mijlociu
+- Paleolitikum Madya
+- Paleolito ertain
+- paleolític mitjà
+- Paleolítico medio
+- Paleolítico Médio
+- Paleolíticu mediu
+- Paleôlitika Afovoany
+- Paléolithique moyen
+- Srednji paleolit
+- Srednji paleolitik
+- Stredný paleolit
+- Střední paleolit
+- tenpo kiwen sinpin insa
+- thời kỳ đồ đá cũ trung
+- Zaman Paleolitik Pertengahan
+- Дунд палеолит
+- Середній палеоліт
+- Средњи палеолит
+- Среден палеолит
+- сярэдні палеаліт
+- Միջին պալեոլիթ
+- התקופה הפלאוליתית התיכונה
+- د ډبرې منځنۍ لرغونې دوره
+- عصر حجري قديم وسيط
+- پارینهسنگی میانی
+- मध्यपुरापाषाण काल
+- நடு பழையகற்காலம்
+- భారతదేశంలో మధ్య ప్రాచీన శిలాయుగం
+- ကျောက်ခေတ်ဟောင်း ခေတ်လယ်
+- შუა პალეოლითი
+- 中期旧石器時代
+- 旧石器时代中期
+- 舊石器時代中期
+- 중기 구석기 시대
 has_id_wikidata: Q626270
-instance_of: "[[_Standards/WikiData/WD~archaeological_period,15401633]]"
+instance_of: '[[_Standards/WikiData/WD~archaeological_period,15401633]]'
 start_time: -300000-01-01T00:00:00Z
 end_time: -30000-01-01T00:00:00Z
 Commons_category: Middle Paleolithic
 Stadtwiki_Dresden_article: Mittelpaläolithikum
 dv_has_:
-  time_:
-    started: -300000
-    stopped: -48000
   duration_:
     years: 252000
     ka: 252
+  name_:
+    ar: عصر حجري قديم وسيط
+    ast: Paleolíticu mediu
+    az: Orta paleolit
+    be-tarask: сярэдні палеаліт
+    br: Henoadvezh krenn ar maen
+    ca: paleolític mitjà
+    cs: Střední paleolit
+    cy: Hen Oes y Cerrig Canol
+    de: Mittelpaläolithikum
+    en: Middle Paleolithic
+    eo: meza paleolitiko
+    es: Paleolítico medio
+    et: Keskmine paleoliitikum
+    eu: Paleolito ertain
+    fa: پارینهسنگی میانی
+    fi: Keskipaleoliittinen kausi
+    fr: Paléolithique moyen
+    gl: Paleolítico Medio
+    ha: Middle Paleolithic
+    he: התקופה הפלאוליתית התיכונה
+    hi: मध्यपुरापाषाण काल
+    hr: Srednji paleolitik
+    hy: Միջին պալեոլիթ
+    id: Paleolitikum Madya
+    io: 30 000–40 000 aK
+    is: Miðfornsteinöld
+    it: Paleolitico medio
+    ja: 中期旧石器時代
+    ka: შუა პალეოლითი
+    ko: 중기 구석기 시대
+    mg: Paleôlitika Afovoany
+    mk: Среден палеолит
+    mn: Дунд палеолит
+    ms: Zaman Paleolitik Pertengahan
+    my: ကျောက်ခေတ်ဟောင်း ခေတ်လယ်
+    nl: middenpaleolithicum
+    pl: Paleolit środkowy
+    ps: د ډبرې منځنۍ لرغونې دوره
+    pt: Paleolítico Médio
+    ro: Paleoliticul mijlociu
+    ru: cредний палеолит
+    sh: Srednji paleolit
+    sk: Stredný paleolit
+    sl: srednji paleolitik
+    sr: Средњи палеолит
+    sv: mellanpaleolitikum
+    ta: நடு பழையகற்காலம்
+    te: భారతదేశంలో మధ్య ప్రాచీన శిలాయుగం
+    tl: Gitnang Paleolitiko
+    tok: tenpo kiwen sinpin insa
+    tr: Orta Paleolitik
+    uk: Середній палеоліт
+    uz: Oʻrta paleolit
+    vi: thời kỳ đồ đá cũ trung
+    zh: 旧石器时代中期
+    zh-cn: 旧石器时代中期
+    zh-hans: 旧石器时代中期
+    zh-hant: 舊石器時代中期
+    zh-hk: 舊石器時代中期
+  time_:
+    started: -300000
+    stopped: -48000
 dv_is_:
   same_as:
-    - "[[../../../../../../../WikiData/WD~Middle_Paleolithic,626270|WD~Middle_Paleolithic,626270]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Middle_Paleolithic|Middle_Paleolithic]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Middle_Paleolithic.public|Middle_Paleolithic.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Middle_Paleolithic.internal|Middle_Paleolithic.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Middle_Paleolithic.protect|Middle_Paleolithic.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Middle_Paleolithic.private|Middle_Paleolithic.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Middle_Paleolithic.personal|Middle_Paleolithic.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Middle_Paleolithic.secret|Middle_Paleolithic.secret]]"
+  - '[[../../../../../../../WikiData/WD~Middle_Paleolithic,626270|WD~Middle_Paleolithic,626270]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Middle_Paleolithic|Middle_Paleolithic]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Middle_Paleolithic.public|Middle_Paleolithic.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Middle_Paleolithic.internal|Middle_Paleolithic.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Middle_Paleolithic.protect|Middle_Paleolithic.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Middle_Paleolithic.private|Middle_Paleolithic.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Middle_Paleolithic.personal|Middle_Paleolithic.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Middle_Paleolithic.secret|Middle_Paleolithic.secret]]'
 dv_has_time_started: -300000
 dv_has_time_stopped: -48000
 dv_has_duration_years: 252000
 dv_has_duration_ka: 252
 dv_is_same_as:
-  - "[[../../../../../../../WikiData/WD~Middle_Paleolithic,626270|WD~Middle_Paleolithic,626270]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Middle_Paleolithic|Middle_Paleolithic]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Middle_Paleolithic.public|Middle_Paleolithic.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Middle_Paleolithic.internal|Middle_Paleolithic.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Middle_Paleolithic.protect|Middle_Paleolithic.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Middle_Paleolithic.private|Middle_Paleolithic.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Middle_Paleolithic.personal|Middle_Paleolithic.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Middle_Paleolithic.secret|Middle_Paleolithic.secret]]"
+- '[[../../../../../../../WikiData/WD~Middle_Paleolithic,626270|WD~Middle_Paleolithic,626270]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Middle_Paleolithic|Middle_Paleolithic]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Middle_Paleolithic.public|Middle_Paleolithic.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Middle_Paleolithic.internal|Middle_Paleolithic.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Middle_Paleolithic.protect|Middle_Paleolithic.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Middle_Paleolithic.private|Middle_Paleolithic.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Middle_Paleolithic.personal|Middle_Paleolithic.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Middle_Paleolithic.secret|Middle_Paleolithic.secret]]'
 ---
-
 # [[Middle_Paleolithic]] 
 
 #is_a_/time_/Culture 

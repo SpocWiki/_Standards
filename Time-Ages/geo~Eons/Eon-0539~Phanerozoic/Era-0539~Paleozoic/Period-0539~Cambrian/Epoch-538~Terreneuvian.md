@@ -1,29 +1,43 @@
 ---
 aliases:
-  - Terreneuvian
-  - Теренеув
-  - Terreneuv
-  - Terreneuvien
-  - Terreneuvium
-  - Terreneuviense
-  - Terreneuvi
-  - terreneuvi
-  - terreneuviano
-  - テレニュービアン世
-  - Tereniuvis
-  - Terreneuviën
-  - Terenew
-  - Terreneuviano
-  - terreneuv
-  - terreneuvij
-  - 纽芬兰世
+- Cambriano Inferior
+- Cambriano inferiore
+- Cambrià inferior
+- Donji kambrij
+- Kambrian abred
+- Rani kambrij
+- Terenew
+- Tereniuvis
+- teronovio
+- Terreneuv
+- Terreneuve
+- Terreneuvi
+- Terreneuvian
+- terreneuviano
+- Terreneuviar
+- Terreneuvien
+- Terreneuviense
+- terreneuvij
+- Terreneuvium
+- Terreneuviën
+- Terrenöviyen
+- Thống Terreneuve
+- Теренеув
+- терренувский отдел
+- ترنووین
+- سلسلة تيرينيفية
+- สมัยแตร์นูเวียน
+- テレニュービアン世
+- 紐芬蘭世
+- 纽芬兰世
+- 테르뇌브세
 has_id_wikidata: Q515287
 instance_of:
-  - "[[_Standards/WikiData/WD~series,312468]]"
-  - "[[_Standards/WikiData/WD~epoch,754897]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Terreneuvian,30869620]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-named_after: "[[_Standards/WikiData/WD~Newfoundland,48335]]"
+- '[[_Standards/WikiData/WD~series,312468]]'
+- '[[_Standards/WikiData/WD~epoch,754897]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Terreneuvian,30869620]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+named_after: '[[_Standards/WikiData/WD~Newfoundland,48335]]'
 end_time: -521000000-01-01T00:00:00Z
 Commons_category: Terreneuvian
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide%20Paleographic%20Map%20of%20Earth%2C%20530%20Ma%20%28Fortunian%20Age%29.png
@@ -32,60 +46,80 @@ sRGB_color_hex_triplet: 8CB06C
 start_time: -538800000-01-01T00:00:00Z
 dv_has_:
   duration_:
-    years: "1.780e+7"
-  previous_:
-    item: "[[Epoch~]]"
-  next_:
-    item: "[[Epoch~]]"
+    years: 1.780e+7
   name_:
+    abbreviated: Ep1
+    ar: سلسلة تيرينيفية
     bg: Теренеув
+    br: Kambrian abred
+    ca: Cambrià inferior
     cs: Terreneuv
     da: Terreneuvien
-    de: Terreneuvium
+    de: Terreneuve
+    en: Terreneuvian
+    en-gb: Terreneuvian
+    eo: teronovio
     es: Terreneuviense
     et: Terreneuvi
+    eu: Terreneuviar
+    fa: ترنووین
     fi: Terreneuv
     fr: Terreneuvien
+    hr: Rani kambrij
     hu: terreneuvi
-    it: terreneuviano
+    id: Terreneuvium
+    it: Cambriano inferiore
     ja: テレニュービアン世
+    ko: 테르뇌브세
     lt: Tereniuvis
-    nl: Terreneuviën
+    ms: Terreneuve
+    nl: Terreneuvien
+    nn: terreneuv
     no: Terreneuvium
     pl: Terenew
-    pt: Terreneuviano
+    pt: Cambriano Inferior
+    ru: терренувский отдел
+    sh: Donji kambrij
     sk: terreneuv
     sl: terreneuvij
-    sv: terreneuv
+    sv: Terreneuve
+    th: สมัยแตร์นูเวียน
+    tr: Terrenöviyen
+    vi: Thống Terreneuve
     zh: 纽芬兰世
-    abbreviated: Ep1
-  time_:
-    started: "-538.8e6"
-    stopped: "-521.0e6"
+    zh-hans: 纽芬兰世
+    zh-hant: 紐芬蘭世
+  next_:
+    item: '[[Epoch~]]'
+  previous_:
+    item: '[[Epoch~]]'
   text_of_:
-    color: "0x8CB06C"
+    color: 0x8CB06C
+  time_:
+    started: -538.8e6
+    stopped: -521.0e6
 dv_is_:
   same_as:
-    - "[[WD~Terreneuvian,515287]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian|Epoch-538~Terreneuvian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian.public|Epoch-538~Terreneuvian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian.internal|Epoch-538~Terreneuvian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian.protect|Epoch-538~Terreneuvian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian.private|Epoch-538~Terreneuvian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian.personal|Epoch-538~Terreneuvian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian.secret|Epoch-538~Terreneuvian.secret]]"
-dv_has_duration_years: "1.780e+7"
-dv_has_previous_item: "[[Epoch~]]"
-dv_has_next_item: "[[Epoch~]]"
+  - '[[WD~Terreneuvian,515287]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian|Epoch-538~Terreneuvian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian.public|Epoch-538~Terreneuvian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian.internal|Epoch-538~Terreneuvian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian.protect|Epoch-538~Terreneuvian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian.private|Epoch-538~Terreneuvian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian.personal|Epoch-538~Terreneuvian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian.secret|Epoch-538~Terreneuvian.secret]]'
+dv_has_duration_years: 1.780e+7
+dv_has_previous_item: '[[Epoch~]]'
+dv_has_next_item: '[[Epoch~]]'
 dv_is_same_as:
-  - "[[WD~Terreneuvian,515287]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian|Epoch-538~Terreneuvian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian.public|Epoch-538~Terreneuvian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian.internal|Epoch-538~Terreneuvian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian.protect|Epoch-538~Terreneuvian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian.private|Epoch-538~Terreneuvian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian.personal|Epoch-538~Terreneuvian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian.secret|Epoch-538~Terreneuvian.secret]]"
+- '[[WD~Terreneuvian,515287]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian|Epoch-538~Terreneuvian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian.public|Epoch-538~Terreneuvian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian.internal|Epoch-538~Terreneuvian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian.protect|Epoch-538~Terreneuvian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian.private|Epoch-538~Terreneuvian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian.personal|Epoch-538~Terreneuvian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian.secret|Epoch-538~Terreneuvian.secret]]'
 dv_has_name_bg: Теренеув
 dv_has_name_cs: Terreneuv
 dv_has_name_da: Terreneuvien
@@ -107,11 +141,10 @@ dv_has_name_sl: terreneuvij
 dv_has_name_sv: terreneuv
 dv_has_name_zh: 纽芬兰世
 dv_has_name_abbreviated: Ep1
-dv_has_time_started: "-538.8e6"
-dv_has_time_stopped: "-521.0e6"
-dv_has_text_of_color: "0x8CB06C"
+dv_has_time_started: -538.8e6
+dv_has_time_stopped: -521.0e6
+dv_has_text_of_color: 0x8CB06C
 ---
-
 # [[Epoch-538~Terreneuvian]] 
 
 #is_a_/time_/Epoch 

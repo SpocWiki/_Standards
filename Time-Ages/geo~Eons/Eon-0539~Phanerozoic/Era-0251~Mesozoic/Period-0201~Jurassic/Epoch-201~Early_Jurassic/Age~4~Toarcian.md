@@ -1,26 +1,47 @@
 ---
 aliases:
-  - Toarcian
+- toarc
+- toarci
+- Toarcian
+- Toarciano
+- Toarcianu
+- Toarciar
+- Toarcien
+- Toarciense
+- Toarcij
+- Toarcium
+- Toarcià
+- toark
+- Toarkium
+- Toarsium
+- Tuarcianu
+- Tầng Toarc
+- тоарский ярус
+- Тоарський ярус
+- ליאס
+- التورسي
+- توآرسین
+- トアルシアン
+- 托阿尔期
+- 托阿爾期
+- 토아르시움절
 has_id_wikidata: Q914363
-named_after: "[[_Standards/WikiData/WD~Thouars,279681]]"
+named_after: '[[_Standards/WikiData/WD~Thouars,279681]]'
 named_by: "[[_Standards/WikiData/WD~Alcide_d'Orbigny,344661]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-significant_place: "[[_Standards/WikiData/WD~Peniche,941967]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Toarcian,21694553]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Toarcian,134284650]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+significant_place: '[[_Standards/WikiData/WD~Peniche,941967]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Toarcian,21694553]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Toarcian,134284650]]'
 start_time: -182700000-01-01T00:00:00Z
 end_time: -174100000-01-01T00:00:00Z
 sRGB_color_hex_triplet: 74D1F0
 dv_has_:
+  abbreviation: I4
   duration_:
-    years: "9.500e+6"
-  previous_:
-    item: "[[Age~3~Pliensbachian]]"
-  next_:
-    item: "[[../Epoch-175~Middle_Jurassic/Age~1~Aalenian|Age~1~Aalenian]]"
+    years: 9.500e+6
   label_:
     bg: Тоар
     cs: Toark
@@ -42,34 +63,69 @@ dv_has_:
     sl: toarcij
     sv: toarc
     zh: 托阿尔期
-  abbreviation: I4
-  time_:
-    started: "-184.2e6"
-    stopped: "-174.7e6"
+  name_:
+    af: Toarsium
+    ar: التورسي
+    ast: Toarcianu
+    bs: Toarcij
+    ca: Toarcià
+    de: Toarcium
+    en: Toarcian
+    es: Toarciense
+    eu: Toarciar
+    fa: توآرسین
+    fr: Toarcien
+    gl: Toarciano
+    he: ליאס
+    hu: toarci
+    id: Toarkium
+    it: Toarciano
+    ja: トアルシアン
+    ko: 토아르시움절
+    la: Toarcium
+    nl: Toarcien
+    nn: toarc
+    pl: toark
+    pt: Toarciano
+    ru: тоарский ярус
+    scn: Tuarcianu
+    sh: Toarcij
+    sl: toarcij
+    uk: Тоарський ярус
+    vi: Tầng Toarc
+    zh: 托阿尔期
+    zh-hant: 托阿爾期
+  next_:
+    item: '[[../Epoch-175~Middle_Jurassic/Age~1~Aalenian|Age~1~Aalenian]]'
+  previous_:
+    item: '[[Age~3~Pliensbachian]]'
   text_of_:
-    color: "0x99CEE3"
+    color: 0x99CEE3
+  time_:
+    started: -184.2e6
+    stopped: -174.7e6
 dv_is_:
   same_as:
-    - "[[WD~Toarcian,914363]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~4~Toarcian|Age~4~Toarcian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~4~Toarcian.public|Age~4~Toarcian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~4~Toarcian.internal|Age~4~Toarcian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~4~Toarcian.protect|Age~4~Toarcian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~4~Toarcian.private|Age~4~Toarcian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~4~Toarcian.personal|Age~4~Toarcian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~4~Toarcian.secret|Age~4~Toarcian.secret]]"
-dv_has_duration_years: "9.500e+6"
-dv_has_previous_item: "[[Age~3~Pliensbachian]]"
-dv_has_next_item: "[[../Epoch-175~Middle_Jurassic/Age~1~Aalenian|Age~1~Aalenian]]"
+  - '[[WD~Toarcian,914363]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~4~Toarcian|Age~4~Toarcian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~4~Toarcian.public|Age~4~Toarcian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~4~Toarcian.internal|Age~4~Toarcian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~4~Toarcian.protect|Age~4~Toarcian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~4~Toarcian.private|Age~4~Toarcian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~4~Toarcian.personal|Age~4~Toarcian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~4~Toarcian.secret|Age~4~Toarcian.secret]]'
+dv_has_duration_years: 9.500e+6
+dv_has_previous_item: '[[Age~3~Pliensbachian]]'
+dv_has_next_item: '[[../Epoch-175~Middle_Jurassic/Age~1~Aalenian|Age~1~Aalenian]]'
 dv_is_same_as:
-  - "[[WD~Toarcian,914363]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~4~Toarcian|Age~4~Toarcian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~4~Toarcian.public|Age~4~Toarcian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~4~Toarcian.internal|Age~4~Toarcian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~4~Toarcian.protect|Age~4~Toarcian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~4~Toarcian.private|Age~4~Toarcian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~4~Toarcian.personal|Age~4~Toarcian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~4~Toarcian.secret|Age~4~Toarcian.secret]]"
+- '[[WD~Toarcian,914363]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~4~Toarcian|Age~4~Toarcian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~4~Toarcian.public|Age~4~Toarcian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~4~Toarcian.internal|Age~4~Toarcian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~4~Toarcian.protect|Age~4~Toarcian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~4~Toarcian.private|Age~4~Toarcian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~4~Toarcian.personal|Age~4~Toarcian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~4~Toarcian.secret|Age~4~Toarcian.secret]]'
 dv_has_label_bg: Тоар
 dv_has_label_cs: Toark
 dv_has_label_da: Toarcien
@@ -91,9 +147,9 @@ dv_has_label_sl: toarcij
 dv_has_label_sv: toarc
 dv_has_label_zh: 托阿尔期
 dv_has_abbreviation: I4
-dv_has_time_started: "-184.2e6"
-dv_has_time_stopped: "-174.7e6"
-dv_has_text_of_color: "0x99CEE3"
+dv_has_time_started: -184.2e6
+dv_has_time_stopped: -174.7e6
+dv_has_text_of_color: 0x99CEE3
 ---
 # [[Age~4~Toarcian]] 
 

@@ -1,110 +1,240 @@
 ---
 aliases:
-  - Precambrian
-  - Прекамбрий
-  - Prekambrium
-  - Prækambrium
-  - Präkambrium
-  - Precámbrico
-  - Prekambrium
-  - Prekambri
-  - Précambrien
-  - prekambrium
-  - precambriano
-  - 先カンブリア時代
-  - Prekambras
-  - Precambrium
-  - Prekambrium
-  - Prekambr
-  - Precâmbrico
-  - prekambrium
-  - predkambrij
-  - prekambrium
-  - 前寒武纪
-  - Super-Eon~Precambrian
+- Abdikambruk
+- antaŭkambrio
+- Aurrekanbriar
+- Cyn-Gambriaidd
+- Durleetoo
+- eelkambrium
+- Forkambríum
+- Kambriyaan ka hor
+- Kambriyen öncesi
+- Kembridən əvvəl
+- Koha Parakembriane
+- Kriptozoy
+- Pirmskembrijs
+- Praecambricum
+- Prakambria
+- Prakambrium
+- Precambrian
+- precambriano
+- precambrianu
+- Precambrium
+- Precambrià
+- Precanbrian
+- Precámbrico
+- Precâmbrico
+- predkambrij
+- Prekambr
+- Prekambras
+- Prekambri
+- Prekambrij
+- Prekambrium
+- Prekambriyano
+- Prekembrïý
+- Präkambrium
+- Prækambrium
+- Pré-Cambriano
+- Précambrien
+- Réamh-Chaimbriach
+- Sian-Cambria sî-tāi
+- Super-Eon~Precambrian
+- Thời kỳ Tiền Cambri
+- Tokembriy
+- Ìgbà iwájú Kámbríà
+- Προκάμβριο
+- дакембар
+- дакембрый
+- Докамбрий
+- докембрій
+- докембрий
+- кембрийазь
+- Кембрияға дейінгі
+- Криптозой эону
+- прекамбријум
+- Прекамбрий
+- Прекембрий
+- преткамбриум
+- Մինչքեմբրի
+- פרקמבריון
+- قبل کیمبری دور
+- ما قبل الكمبري
+- پرکامبرین
+- پرەكەمبرىيي
+- कैंब्रियनपूर्व
+- त्रिखण्ड पूर्वयुग
+- प्रीकैंब्रियन
+- প্রাক্-ক্যাম্ব্রিয়ান
+- ਪ੍ਰੀਕੈਂਬਰੀਅਨ
+- ಆರ್ಷೇಯ ಯುಗ
+- พรีแคมเบรียน
+- 先カンブリア時代
+- 前寒武紀
+- 前寒武纪
+- 선캄브리아 시대
 has_id_wikidata: Q103910
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~supereon,15398983]]"
-  - "[[_Standards/WikiData/WD~supereonothem,108674179]]"
-named_after: "[[_Standards/WikiData/WD~Cambria,27814]]"
-part_of: "[[_Standards/WikiData/WD~geologic_time_scale,43521]]"
+- '[[_Standards/WikiData/WD~supereon,15398983]]'
+- '[[_Standards/WikiData/WD~supereonothem,108674179]]'
+named_after: '[[_Standards/WikiData/WD~Cambria,27814]]'
+part_of: '[[_Standards/WikiData/WD~geologic_time_scale,43521]]'
 Commons_category: Precambrian
 schematic:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/PreCambrian%20Era%20Geological%20Timeline.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Zeitskala%20Evolution%20Pr%C3%A4kambrium.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/PreCambrian%20Era%20Geological%20Timeline.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Zeitskala%20Evolution%20Pr%C3%A4kambrium.png
 sRGB_color_hex_triplet: F74370
 Krugosvet_article_archived_: geologiya/kriptozoi
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Temagami%20greenstone%20belt%20pillow%20lava.jpg
 end_time: -538800000-01-01T00:00:00Z
 start_time: -4567000000-01-01T00:00:00Z
 dv_has_:
-  time_:
-    started:
-      - "4567.0e6"
-      - "-4567.0e6"
-    stopped:
-      - "538.8e6"
-      - "-538.8e6"
   name_:
-    bg: Прекамбрий
-    cs: Prekambrium
+    abbreviated: PE
+    af: Prekambrium
+    ar: ما قبل الكمبري
+    ast: precambrianu
+    avk: Abdikambruk
+    az: Kembridən əvvəl
+    be: дакембрый
+    be-tarask: дакембар
+    bg: Докамбрий
+    bho: प्रीकैंब्रियन
+    bjn: Prakambrium
+    bn: প্রাক্-ক্যাম্ব্রিয়ান
+    bs: Prekambrij
+    ca: Precambrià
+    cs: prekambrium
+    cy: Cyn-Gambriaidd
     da: Prækambrium
     de: Präkambrium
+    el: Προκάμβριο
+    en: Precambrian
+    en-gb: Precambrian
+    eo: antaŭkambrio
     es: Precámbrico
-    et: Prekambrium
-    fi: Prekambri
+    et: eelkambrium
+    eu: Aurrekanbriar
+    fa: پرکامبرین
+    fi: prekambri
     fr: Précambrien
+    ga: Réamh-Chaimbriach
+    gl: Precámbrico
+    he: פרקמבריון
+    hi: कैंब्रियनपूर्व
+    hr: prekambrij
     hu: prekambrium
-    it: precambriano
+    hy: Մինչքեմբրի
+    id: Prakambrium
+    is: Forkambríum
+    it: Precambriano
     ja: 先カンブリア時代
-    lt: Prekambras
+    jv: Precambrian
+    kaa: Kriptozoy
+    kk: Прекембрий
+    kk-arab: پرەكەمبرىيي
+    kk-cn: پرەكەمبرىيي
+    kk-cyrl: Кембрияға дейінгі
+    kk-kz: Прекембрий
+    kk-latn: Prekembrïý
+    kk-tr: Prekembrïý
+    kn: ಆರ್ಷೇಯ ಯುಗ
+    ko: 선캄브리아 시대
+    ky: Криптозой эону
+    la: Praecambricum
+    lt: prekambras
+    lv: Pirmskembrijs
+    lzh: 前寒武紀
+    mk: преткамбриум
+    ms: Prakambria
+    nan: Sian-Cambria sî-tāi
+    nb: Prekambrium
+    nds: Präkambrium
+    ne: त्रिखण्ड पूर्वयुग
     nl: Precambrium
+    nn: prekambrium
     no: Prekambrium
-    pl: Prekambr
-    pt: Precâmbrico
-    sk: prekambrium
+    oc: Precambrian
+    om: Durleetoo
+    pa: ਪ੍ਰੀਕੈਂਬਰੀਅਨ
+    pl: prekambr
+    pms: Precambrian
+    pt: Pré-Cambriano
+    ro: Precambrian
+    ru: докембрий
+    sh: Prekambrij
+    si: Precambrian
+    sk: Prekambrium
     sl: predkambrij
-    sv: prekambrium
+    so: Kambriyaan ka hor
+    sq: Koha Parakembriane
+    sr: прекамбријум
+    su: Prakambrium
+    sv: Prekambrium
+    th: พรีแคมเบรียน
+    tl: Prekambriyano
+    tr: Kambriyen öncesi
+    udm: кембрийазь
+    uk: докембрій
+    ur: قبل کیمبری دور
+    uz: Tokembriy
+    vec: Precanbrian
+    vi: Thời kỳ Tiền Cambri
+    war: Precambrian
+    wuu: 前寒武纪
+    yo: Ìgbà iwájú Kámbríà
+    yue: 前寒武紀
     zh: 前寒武纪
-    abbreviated: PE
+    zh-cn: 前寒武纪
+    zh-hans: 前寒武纪
+    zh-hant: 前寒武紀
+    zh-hk: 前寒武紀
+    zh-sg: 前寒武纪
+    zh-tw: 前寒武紀
   text_of_:
-    color: "0xF74370"
+    color: 0xF74370
+  time_:
+    started:
+    - 4567.0e6
+    - -4567.0e6
+    stopped:
+    - 538.8e6
+    - -538.8e6
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Precambrian,103910|WD~Precambrian,103910]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Super-Eon~Precambrian|Super-Eon~Precambrian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Super-Eon~Precambrian.public|Super-Eon~Precambrian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Super-Eon~Precambrian.internal|Super-Eon~Precambrian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Super-Eon~Precambrian.protect|Super-Eon~Precambrian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Super-Eon~Precambrian.private|Super-Eon~Precambrian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Super-Eon~Precambrian.personal|Super-Eon~Precambrian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Super-Eon~Precambrian.secret|Super-Eon~Precambrian.secret]]"
+  - '[[../../WikiData/WD~Precambrian,103910|WD~Precambrian,103910]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Super-Eon~Precambrian|Super-Eon~Precambrian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Super-Eon~Precambrian.public|Super-Eon~Precambrian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Super-Eon~Precambrian.internal|Super-Eon~Precambrian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Super-Eon~Precambrian.protect|Super-Eon~Precambrian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Super-Eon~Precambrian.private|Super-Eon~Precambrian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Super-Eon~Precambrian.personal|Super-Eon~Precambrian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Super-Eon~Precambrian.secret|Super-Eon~Precambrian.secret]]'
   comprised_of:
-    - "[[Eon-4567~Hadean]]"
-    - "[[Eon-4031~Archean]]"
-    - "[[Eon-2500~Proterozoic]]"
+  - '[[Eon-4567~Hadean]]'
+  - '[[Eon-4031~Archean]]'
+  - '[[Eon-2500~Proterozoic]]'
 dv_has_time_started:
-  - "4567.0e6"
-  - "-4567.0e6"
+- 4567.0e6
+- -4567.0e6
 dv_has_time_stopped:
-  - "538.8e6"
-  - "-538.8e6"
+- 538.8e6
+- -538.8e6
 dv_is_same_as:
-  - "[[../../WikiData/WD~Precambrian,103910|WD~Precambrian,103910]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Super-Eon~Precambrian|Super-Eon~Precambrian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Super-Eon~Precambrian.public|Super-Eon~Precambrian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Super-Eon~Precambrian.internal|Super-Eon~Precambrian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Super-Eon~Precambrian.protect|Super-Eon~Precambrian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Super-Eon~Precambrian.private|Super-Eon~Precambrian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Super-Eon~Precambrian.personal|Super-Eon~Precambrian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Super-Eon~Precambrian.secret|Super-Eon~Precambrian.secret]]"
+- '[[../../WikiData/WD~Precambrian,103910|WD~Precambrian,103910]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Super-Eon~Precambrian|Super-Eon~Precambrian]]'
+- '[[/_public/Time-Ages/geo~Eons/Super-Eon~Precambrian.public|Super-Eon~Precambrian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Super-Eon~Precambrian.internal|Super-Eon~Precambrian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Super-Eon~Precambrian.protect|Super-Eon~Precambrian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Super-Eon~Precambrian.private|Super-Eon~Precambrian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Super-Eon~Precambrian.personal|Super-Eon~Precambrian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Super-Eon~Precambrian.secret|Super-Eon~Precambrian.secret]]'
 dv_is_comprised_of:
-  - "[[Eon-4567~Hadean]]"
-  - "[[Eon-4031~Archean]]"
-  - "[[Eon-2500~Proterozoic]]"
+- '[[Eon-4567~Hadean]]'
+- '[[Eon-4031~Archean]]'
+- '[[Eon-2500~Proterozoic]]'
 dv_has_name_bg: Прекамбрий
 dv_has_name_cs: Prekambrium
 dv_has_name_da: Prækambrium
@@ -126,9 +256,8 @@ dv_has_name_sl: predkambrij
 dv_has_name_sv: prekambrium
 dv_has_name_zh: 前寒武纪
 dv_has_name_abbreviated: PE
-dv_has_text_of_color: "0xF74370"
+dv_has_text_of_color: 0xF74370
 ---
-
 # [[Super-Eon~Precambrian]] 
 
 #has_/time_/started :: 4567.0e6 

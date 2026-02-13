@@ -1,27 +1,103 @@
 ---
 aliases:
-  - fourth power
-  - fourth estate
-  - Fourth_Estate
-  - Fourth Estate
+- Cuarto poder
+- Czwarta władza
+- den fjerde statsmakt
+- Fjórða valdið
+- fourth estate
+- fourth power
+- Fourth_Estate
+- Hak kuasa keempat
+- Neljäs valtiomahti
+- Quart poder
+- Quarto poder
+- quarto potere
+- quatrième pouvoir
+- Tredje statsmakten
+- Törtinşi bïlik
+- Vierde macht
+- vierte Gewalt
+- četrti steber oblasti
+- Četvrta sila
+- Četvrta vlast
+- Đệ tứ quyền
+- Τέταρτη εξουσία
+- Дөрөв дэх засаглал
+- Тăваттăмĕш влаç
+- Төртінші билік
+- Четвёртая власть
+- Четверта влада
+- Չորրորդ իշխանություն
+- السلطة الرابعة
+- رکن چهارم مشروطیت
+- ٴتورتىنشى بىيلىك
+- द फोर्थ इस्टेट
+- ฐานันดรที่สี่
+- მეოთხე ხელისუფლება
+- 四権
+- 第四权
+- 第四權
+- 제4권력
 dv_is_:
   same_as:
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Fourth_Estate|Fourth_Estate]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Fourth_Estate.public|Fourth_Estate.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Fourth_Estate.internal|Fourth_Estate.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Fourth_Estate.protect|Fourth_Estate.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Fourth_Estate.private|Fourth_Estate.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Fourth_Estate.personal|Fourth_Estate.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Fourth_Estate.secret|Fourth_Estate.secret]]"
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Fourth_Estate|Fourth_Estate]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Fourth_Estate.public|Fourth_Estate.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Fourth_Estate.internal|Fourth_Estate.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Fourth_Estate.protect|Fourth_Estate.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Fourth_Estate.private|Fourth_Estate.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Fourth_Estate.personal|Fourth_Estate.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Fourth_Estate.secret|Fourth_Estate.secret]]'
 dv_is_same_as:
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Fourth_Estate|Fourth_Estate]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Fourth_Estate.public|Fourth_Estate.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Fourth_Estate.internal|Fourth_Estate.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Fourth_Estate.protect|Fourth_Estate.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Fourth_Estate.private|Fourth_Estate.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Fourth_Estate.personal|Fourth_Estate.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Fourth_Estate.secret|Fourth_Estate.secret]]"
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Fourth_Estate|Fourth_Estate]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Fourth_Estate.public|Fourth_Estate.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Fourth_Estate.internal|Fourth_Estate.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Fourth_Estate.protect|Fourth_Estate.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Fourth_Estate.private|Fourth_Estate.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Fourth_Estate.personal|Fourth_Estate.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Fourth_Estate.secret|Fourth_Estate.secret]]'
 has_id_wikidata: Q926333
+dv_has_:
+  name_:
+    ar: السلطة الرابعة
+    ca: Quart poder
+    cv: Тăваттăмĕш влаç
+    de: vierte Gewalt
+    el: Τέταρτη εξουσία
+    en: Fourth Estate
+    es: Cuarto poder
+    fa: رکن چهارم مشروطیت
+    fi: Neljäs valtiomahti
+    fr: quatrième pouvoir
+    he: Fourth Estate
+    hr: Četvrta sila
+    hy: Չորրորդ իշխանություն
+    id: Hak kuasa keempat
+    is: Fjórða valdið
+    it: quarto potere
+    ja: 四権
+    ka: მეოთხე ხელისუფლება
+    kk: Төртінші билік
+    kk-arab: ٴتورتىنشى بىيلىك
+    kk-cyrl: Төртінші билік
+    kk-latn: Törtinşi bïlik
+    ko: 제4권력
+    mn: Дөрөв дэх засаглал
+    mr: द फोर्थ इस्टेट
+    nb: den fjerde statsmakt
+    nl: Vierde macht
+    pl: Czwarta władza
+    pt: Quarto poder
+    ru: Четвёртая власть
+    sh: Četvrta vlast
+    sl: četrti steber oblasti
+    sv: Tredje statsmakten
+    th: ฐานันดรที่สี่
+    uk: Четверта влада
+    vi: Đệ tứ quyền
+    zh: 第四權
+    zh-hans: 第四权
+    zh-hant: 第四權
+    zh-hk: 第四權
 ---
 ## #has_/text_of_/abstract 
 

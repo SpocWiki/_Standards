@@ -1,11 +1,70 @@
 ---
-has_time_started: 1960-01-01 
+has_time_started: 1960-01-01
 aliases:
-  - IDA
-  - International Development Association
-  - Association internationale de développement
-  - IDA(International_Development_Association)
-  - IDA(International Development Association)
+- Agenzia Internazionale per lo Sviluppo
+- Asociación Internacional de Fomento
+- Asociación Internacional de Fomentu
+- Asociasion Internasionałe del Desviłupo
+- Asociația Internațională de Dezvoltare
+- Asosiasi Pembangunan Internasional
+- Associació Internacional de Foment
+- Association internationale de développement
+- Associação Internacional de Desenvolvimento
+- Beynəlxalq İnkişaf Assosiasiyası
+- Comhlachas Forbartha Idirnáisiúnta
+- Det internasjonale utviklingsfondet
+- Hiệp hội Phát triển Quốc tế
+- IDA
+- IDA(International Development Association)
+- IDA(International_Development_Association)
+- Internacia Evoluiga Asocio
+- International Development Association
+- International Entwécklungsassociatioun
+- Internationale Entwicklungsorganisation
+- Internationale Ontwikkelingsassociatie
+- Kansainvälinen kehitysjärjestö
+- Mednarodno združenje za razvoj
+- Medzinárodná asociácia pre rozvoj
+- Mezinárodní rozvojová asociace
+- Međunarodno udruženje za razvoj
+- Międzynarodowe Stowarzyszenie Rozwoju
+- Nazioarteko Garapen Elkartea
+- Nemzetközi Fejlesztési Társulás
+- Persatuan Pembangunan Antarabangsa
+- Rahvusvaheline Arenguassotsiatsioon
+- Tarptautinė plėtros asociacija
+- Uluslararası Kalkınma Birliği
+- Xalqaro taraqqiyot uyushmasi
+- Διεθνής Αναπτυξιακή Ένωση
+- Ассотсиатсияи байналмилалии рушд
+- Міжнародна асоціація розвитку
+- Міжнародная асацыяцыя разьвіцьця
+- Међународно удружење за развој
+- Меѓународно здружение за развој
+- Международная ассоциация развития
+- Халыкара үсеш ассоциациясе
+- Халыҡ-ара үҫеш ассоциацияһы
+- Эл аралык өнүктүрүү ассоциациясы
+- Զարգացման միջազգային ասոցիացիա
+- ארגון הפיתוח הבינלאומי
+- انجمن توسعه بینالملل
+- بين الاقوامي ترقياتي ائسوسئيشن
+- بین الاقوامی انجمن برائے ترقی
+- مؤسسة التنمية الدولية
+- نړيواله پرمختياېې ټولنه
+- अंतर्राष्ट्रीय विकास संस्था
+- আন্তর্জাতিক উন্নয়ন সংস্থা
+- ਅੰਤਰਰਾਸ਼ਟਰੀ ਵਿਕਾਸ ਐਸੋਸੀਏਸ਼ਨ
+- ಅಂತಾರಾಷ್ಟ್ರೀಯ ಅಭಿವೃದ್ಧಿ ಸಂಸ್ಥೆ
+- അന്താരാഷ്ട്ര വികസന സമിതി
+- අන්තර්ජාතික සංවර්ධන සංගමය
+- สมาคมเพื่อการพัฒนาระหว่างประเทศ
+- ერეფოშქაშე გოვითარაფაშ ასოციაცია
+- საერთაშორისო განვითარების ასოციაცია
+- 国际开发协会
+- 国際開発協会
+- 國際開發協會
+- 국제 개발 협회
 has_id_wikidata: Q827525
 official_observer_status_in_organization: '[[_Standards/WikiData/WD~World_Intellectual_Property_Organization,177773]]'
 different_from: '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
@@ -24,16 +83,83 @@ inception: 1960-01-01T00:00:00Z
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/International%20Development%20Association%20logo.svg
 official_website: http://www.worldbank.org/ida/
 ISNI:
-  - 0000000119420687
-  - 0000000404038719
+- 0000000119420687
+- 0000000404038719
 PermID: 5000068942
 Krugosvet_article_archived_: gumanitarnye_nauki/ekonomika_i_pravo/MEZHDUNARODNAYA_ASSOTSIATSIYA_RAZVITIYA_MAR.html
 Facebook_username: IDA.WBG
 ISO_9362_SWIFT_BIC_code: IDAWUS33XXX
 Legal_Entity_Identifier: P41R60HC414IWQA1XW02
 X_Twitter_username: wbg_ida
+dv_has_:
+  name_:
+    ar: مؤسسة التنمية الدولية
+    ast: Asociación Internacional de Fomentu
+    az: Beynəlxalq İnkişaf Assosiasiyası
+    ba: Халыҡ-ара үҫеш ассоциацияһы
+    be-tarask: Міжнародная асацыяцыя разьвіцьця
+    bn: আন্তর্জাতিক উন্নয়ন সংস্থা
+    ca: Associació Internacional de Foment
+    cs: Mezinárodní rozvojová asociace
+    de: Internationale Entwicklungsorganisation
+    el: Διεθνής Αναπτυξιακή Ένωση
+    en: International Development Association
+    eo: Internacia Evoluiga Asocio
+    es: Asociación Internacional de Fomento
+    et: Rahvusvaheline Arenguassotsiatsioon
+    eu: Nazioarteko Garapen Elkartea
+    fa: انجمن توسعه بینالملل
+    fi: Kansainvälinen kehitysjärjestö
+    fr: Association internationale de développement
+    ga: Comhlachas Forbartha Idirnáisiúnta
+    gl: Asociación Internacional de Fomento
+    he: ארגון הפיתוח הבינלאומי
+    hi: अंतर्राष्ट्रीय विकास संस्था
+    hr: Međunarodno udruženje za razvoj
+    hu: Nemzetközi Fejlesztési Társulás
+    hy: Զարգացման միջազգային ասոցիացիա
+    id: Asosiasi Pembangunan Internasional
+    it: Agenzia Internazionale per lo Sviluppo
+    ja: 国際開発協会
+    ka: საერთაშორისო განვითარების ასოციაცია
+    kn: ಅಂತಾರಾಷ್ಟ್ರೀಯ ಅಭಿವೃದ್ಧಿ ಸಂಸ್ಥೆ
+    ko: 국제 개발 협회
+    ky: Эл аралык өнүктүрүү ассоциациясы
+    lb: International Entwécklungsassociatioun
+    lt: Tarptautinė plėtros asociacija
+    mk: Меѓународно здружение за развој
+    ml: അന്താരാഷ്ട്ര വികസന സമിതി
+    ms: Persatuan Pembangunan Antarabangsa
+    nb: Det internasjonale utviklingsfondet
+    nl: Internationale Ontwikkelingsassociatie
+    pa: ਅੰਤਰਰਾਸ਼ਟਰੀ ਵਿਕਾਸ ਐਸੋਸੀਏਸ਼ਨ
+    pl: Międzynarodowe Stowarzyszenie Rozwoju
+    pnb: بین الاقوامی انجمن برائے ترقی
+    ps: نړيواله پرمختياېې ټولنه
+    pt: Associação Internacional de Desenvolvimento
+    ro: Asociația Internațională de Dezvoltare
+    ru: Международная ассоциация развития
+    sd: بين الاقوامي ترقياتي ائسوسئيشن
+    si: අන්තර්ජාතික සංවර්ධන සංගමය
+    sk: Medzinárodná asociácia pre rozvoj
+    sl: Mednarodno združenje za razvoj
+    sr: Међународно удружење за развој
+    sv: International Development Association
+    tg: Ассотсиатсияи байналмилалии рушд
+    th: สมาคมเพื่อการพัฒนาระหว่างประเทศ
+    tr: Uluslararası Kalkınma Birliği
+    tt: Халыкара үсеш ассоциациясе
+    uk: Міжнародна асоціація розвитку
+    ur: بین الاقوامی انجمن برائے ترقی
+    uz: Xalqaro taraqqiyot uyushmasi
+    vec: Asociasion Internasionałe del Desviłupo
+    vi: Hiệp hội Phát triển Quốc tế
+    xmf: ერეფოშქაშე გოვითარაფაშ ასოციაცია
+    zh: 国际开发协会
+    zh-hans: 国际开发协会
+    zh-hant: 國際開發協會
+    zh-hk: 國際開發協會
 ---
-
 # [[IDA(International_Development_Association)]] 
 
 #is_/same_as :: [[WD~International_Development_Association,827525]] 

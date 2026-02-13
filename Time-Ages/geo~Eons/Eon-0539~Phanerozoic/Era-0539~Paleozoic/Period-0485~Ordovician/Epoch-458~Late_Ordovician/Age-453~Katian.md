@@ -1,88 +1,102 @@
 ---
 aliases:
-  - Katian
-  - Кат
-  - Kat
-  - Katien
-  - Katium
-  - Katiense
-  - Kati
-  - kati
-  - katiano
-  - カティアン期
-  - Katis
-  - Katiën
-  - Katiano
-  - kat
-  - katij
-  - 凯迪期
+- Kat
+- Kati
+- Katian
+- katiano
+- Katianu
+- Katien
+- Katiense
+- katij
+- Katis
+- Katium
+- Katiën
+- katy
+- Katy lade
+- Tầng Katy
+- Кат
+- Катий (етаж)
+- катийский ярус
+- الكاتي
+- کاتین
+- カティアン
+- カティアン期
+- 凯迪期
 has_id_wikidata: Q1736601
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Katian,30869525]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_Katian,134726206]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Katian,30869525]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_Katian,134726206]]'
 coordinate_location: Point(-96.07455 34.43048333)
 sRGB_color_hex_triplet: 81D6BC
 start_time: -453000000-01-01T00:00:00Z
 end_time: -445200000-01-01T00:00:00Z
 dv_has_:
   duration_:
-    years: "7.800e+6"
-  previous_:
-    item: "[[Age-458~Sandbian]]"
-  next_:
-    item: "[[Age-445~Hirnantian]]"
+    years: 7.800e+6
   name_:
-    bg: Кат
+    abbreviated: o6
+    ar: الكاتي
+    bg: Катий (етаж)
     cs: Kat
     da: Katien
     de: Katium
+    en: Katian
     es: Katiense
-    et: Kati
+    et: Katy lade
+    fa: کاتین
     fi: Kat
     fr: Katien
     hu: kati
-    it: katiano
-    ja: カティアン期
+    id: Katium
+    it: Katiano
+    ja: カティアン
     lt: Katis
-    nl: Katiën
+    nl: Katien
+    nn: katy
     no: Katium
     pl: Kat
     pt: Katiano
+    ru: катийский ярус
+    scn: Katianu
     sk: kat
     sl: katij
     sv: kat
+    vi: Tầng Katy
     zh: 凯迪期
-    abbreviated: o6
-  time_:
-    started: "-453.0e6"
-    stopped: "-445.2e6"
+  next_:
+    item: '[[Age-445~Hirnantian]]'
+  previous_:
+    item: '[[Age-458~Sandbian]]'
   text_of_:
-    color: "0x99D69F"
+    color: 0x99D69F
+  time_:
+    started: -453.0e6
+    stopped: -445.2e6
 dv_is_:
   same_as:
-    - "[[WD~Katian,1736601]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-453~Katian|Age-453~Katian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-453~Katian.public|Age-453~Katian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-453~Katian.internal|Age-453~Katian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-453~Katian.protect|Age-453~Katian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-453~Katian.private|Age-453~Katian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-453~Katian.personal|Age-453~Katian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-453~Katian.secret|Age-453~Katian.secret]]"
-dv_has_duration_years: "7.800e+6"
-dv_has_previous_item: "[[Age-458~Sandbian]]"
-dv_has_next_item: "[[Age-445~Hirnantian]]"
+  - '[[WD~Katian,1736601]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-453~Katian|Age-453~Katian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-453~Katian.public|Age-453~Katian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-453~Katian.internal|Age-453~Katian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-453~Katian.protect|Age-453~Katian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-453~Katian.private|Age-453~Katian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-453~Katian.personal|Age-453~Katian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-453~Katian.secret|Age-453~Katian.secret]]'
+dv_has_duration_years: 7.800e+6
+dv_has_previous_item: '[[Age-458~Sandbian]]'
+dv_has_next_item: '[[Age-445~Hirnantian]]'
 dv_is_same_as:
-  - "[[WD~Katian,1736601]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-453~Katian|Age-453~Katian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-453~Katian.public|Age-453~Katian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-453~Katian.internal|Age-453~Katian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-453~Katian.protect|Age-453~Katian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-453~Katian.private|Age-453~Katian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-453~Katian.personal|Age-453~Katian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-453~Katian.secret|Age-453~Katian.secret]]"
+- '[[WD~Katian,1736601]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-453~Katian|Age-453~Katian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-453~Katian.public|Age-453~Katian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-453~Katian.internal|Age-453~Katian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-453~Katian.protect|Age-453~Katian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-453~Katian.private|Age-453~Katian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-453~Katian.personal|Age-453~Katian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-453~Katian.secret|Age-453~Katian.secret]]'
 dv_has_name_bg: Кат
 dv_has_name_cs: Kat
 dv_has_name_da: Katien
@@ -104,9 +118,9 @@ dv_has_name_sl: katij
 dv_has_name_sv: kat
 dv_has_name_zh: 凯迪期
 dv_has_name_abbreviated: o6
-dv_has_time_started: "-453.0e6"
-dv_has_time_stopped: "-445.2e6"
-dv_has_text_of_color: "0x99D69F"
+dv_has_time_started: -453.0e6
+dv_has_time_stopped: -445.2e6
+dv_has_text_of_color: 0x99D69F
 ---
 # [[Age-453~Katian]]
 

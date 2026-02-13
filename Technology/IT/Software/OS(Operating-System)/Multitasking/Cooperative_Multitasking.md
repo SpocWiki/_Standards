@@ -1,9 +1,36 @@
 ---
 aliases:
-  - Cooperative multitasking
-  - Cooperative_Multitasking
-  - Cooperative Multitasking
+- Cooperative multitasking
+- Cooperative_Multitasking
+- kooperativ fleiroppgavekøyring
+- kooperativ fleroppgavekjøring
+- kooperatives Multitasking
+- Multitarea cooperativa
+- multitarefa cooperativa
+- nepreemptívny multitasking
+- багатозадачність кооперативна
+- چند وظیفه ای بدون قبضه ای
+- 协作式多任务处理
+- 協作式多工處理
+- 協調マルチタスク
+- 合作多任务
 has_id_wikidata: Q16969336
+dv_has_:
+  name_:
+    de: kooperatives Multitasking
+    en: cooperative multitasking
+    es: Multitarea cooperativa
+    fa: چند وظیفه ای بدون قبضه ای
+    ja: 協調マルチタスク
+    nb: kooperativ fleroppgavekjøring
+    nn: kooperativ fleiroppgavekøyring
+    pt: multitarefa cooperativa
+    sk: nepreemptívny multitasking
+    uk: багатозадачність кооперативна
+    zh: 协作式多任务处理
+    zh-cn: 协作式多任务处理
+    zh-hans: 合作多任务
+    zh-hant: 協作式多工處理
 ---
 #has_/complement :: [[Preemptive_Multitasking]] 
 

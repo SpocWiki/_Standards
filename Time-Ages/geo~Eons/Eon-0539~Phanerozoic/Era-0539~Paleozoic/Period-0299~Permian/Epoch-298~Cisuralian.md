@@ -1,86 +1,110 @@
 ---
 aliases:
-  - Cisuralian
-  - Циѿурал
-  - Cisural
-  - Cisuralien
-  - Cisuralium
-  - Cisuraliense
-  - ciszurali
-  - cisuraliano
-  - キスラリアン世
-  - Kisuralis
-  - Cisuraliën
-  - Cisuraliano
-  - cisural
-  - cisuralij
-  - 乌拉尔世
+- an Sealad Ciosúralach
+- Cisural
+- Cisuralian
+- cisuraliano
+- Cisuraliar
+- Cisuralien
+- Cisuraliense
+- cisuralij
+- Cisuralium
+- Cisuralià
+- Cisuraliën
+- ciszurali
+- Kisuralis
+- kizuralis
+- kora perm
+- Sisuralium
+- Thế Cisural
+- приуральский отдел
+- Циѿурал
+- السسورالي
+- سیسورالین
+- キスラリアン世
+- 乌拉尔世
+- 古世
 has_id_wikidata: Q642169
 instance_of:
-  - "[[_Standards/WikiData/WD~series,312468]]"
-  - "[[_Standards/WikiData/WD~epoch,754897]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q32103921,32103921]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+- '[[_Standards/WikiData/WD~series,312468]]'
+- '[[_Standards/WikiData/WD~epoch,754897]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q32103921,32103921]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 start_time: -298900000-01-01T00:00:00Z
-named_after: "[[_Standards/WikiData/WD~Ural_Mountains,35600]]"
+named_after: '[[_Standards/WikiData/WD~Ural_Mountains,35600]]'
 end_time: -272950000-01-01T00:00:00Z
 sRGB_color_hex_triplet: F76E54
 dv_has_:
   duration_:
-    years: "2.589e+7"
-  previous_:
-    item: "[[../Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~3~Kasimovian|Age~3~Kasimovian]]"
-  next_:
-    item: "[[Epoch-273~Guadalupian]]"
+    years: 2.589e+7
   name_:
+    abbreviated: P1
+    af: Sisuralium
+    ar: السسورالي
     bg: Циѿурал
+    ca: Cisuralià
     cs: Cisural
     da: Cisuralien
     de: Cisuralium
+    en: Cisuralian
     es: Cisuraliense
     et: Cisural
+    eu: Cisuraliar
+    fa: سیسورالین
     fi: Cisural
     fr: Cisuralien
-    hu: ciszurali
-    it: cisuraliano
-    ja: キスラリアン世
-    lt: Kisuralis
-    nl: Cisuraliën
+    ga: an Sealad Ciosúralach
+    hr: Cisural
+    hu: kora perm
+    id: Cisuralium
+    it: Cisuraliano
+    ja: 古世
+    lt: kizuralis
+    ms: Cisural
+    nl: Cisuralien
+    nn: cisural
     no: Cisuralium
     pl: Cisural
     pt: Cisuraliano
+    ru: приуральский отдел
+    sh: Cisural
     sk: cisural
     sl: cisuralij
-    sv: cisural
+    sv: Cisural
+    vi: Thế Cisural
     zh: 乌拉尔世
-    abbreviated: P1
-  time_:
-    started: "-298.90e6"
-    stopped: "-273.01e6"
+    zh-cn: 乌拉尔世
+  next_:
+    item: '[[Epoch-273~Guadalupian]]'
+  previous_:
+    item: '[[../Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~3~Kasimovian|Age~3~Kasimovian]]'
   text_of_:
-    color: "0xEF5845"
+    color: 0xEF5845
+  time_:
+    started: -298.90e6
+    stopped: -273.01e6
 dv_is_:
   same_as:
-    - "[[WD~Cisuralian,642169]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian|Epoch-298~Cisuralian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian.public|Epoch-298~Cisuralian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian.internal|Epoch-298~Cisuralian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian.protect|Epoch-298~Cisuralian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian.private|Epoch-298~Cisuralian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian.personal|Epoch-298~Cisuralian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian.secret|Epoch-298~Cisuralian.secret]]"
-dv_has_duration_years: "2.589e+7"
-dv_has_previous_item: "[[../Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~3~Kasimovian|Age~3~Kasimovian]]"
-dv_has_next_item: "[[Epoch-273~Guadalupian]]"
+  - '[[WD~Cisuralian,642169]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian|Epoch-298~Cisuralian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian.public|Epoch-298~Cisuralian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian.internal|Epoch-298~Cisuralian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian.protect|Epoch-298~Cisuralian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian.private|Epoch-298~Cisuralian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian.personal|Epoch-298~Cisuralian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian.secret|Epoch-298~Cisuralian.secret]]'
+dv_has_duration_years: 2.589e+7
+dv_has_previous_item: '[[../Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~3~Kasimovian|Age~3~Kasimovian]]'
+dv_has_next_item: '[[Epoch-273~Guadalupian]]'
 dv_is_same_as:
-  - "[[WD~Cisuralian,642169]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian|Epoch-298~Cisuralian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian.public|Epoch-298~Cisuralian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian.internal|Epoch-298~Cisuralian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian.protect|Epoch-298~Cisuralian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian.private|Epoch-298~Cisuralian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian.personal|Epoch-298~Cisuralian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian.secret|Epoch-298~Cisuralian.secret]]"
+- '[[WD~Cisuralian,642169]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian|Epoch-298~Cisuralian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian.public|Epoch-298~Cisuralian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian.internal|Epoch-298~Cisuralian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian.protect|Epoch-298~Cisuralian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian.private|Epoch-298~Cisuralian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian.personal|Epoch-298~Cisuralian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian.secret|Epoch-298~Cisuralian.secret]]'
 dv_has_name_bg: Циѿурал
 dv_has_name_cs: Cisural
 dv_has_name_da: Cisuralien
@@ -102,11 +126,10 @@ dv_has_name_sl: cisuralij
 dv_has_name_sv: cisural
 dv_has_name_zh: 乌拉尔世
 dv_has_name_abbreviated: P1
-dv_has_time_started: "-298.90e6"
-dv_has_time_stopped: "-273.01e6"
-dv_has_text_of_color: "0xEF5845"
+dv_has_time_started: -298.90e6
+dv_has_time_stopped: -273.01e6
+dv_has_text_of_color: 0xEF5845
 ---
-
 # [[Epoch-298~Cisuralian]] 
 
 #is_a_/time_/Epoch 

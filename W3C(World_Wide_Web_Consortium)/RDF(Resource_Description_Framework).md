@@ -1,7 +1,69 @@
 ---
 has_id_wikidata: Q54872
+dv_has_:
+  name_:
+    ar: إطار توصيف الموارد
+    be-tarask: Resource Description Framework
+    bg: Resource Description Framework
+    ca: Resource Description Framework
+    ckb: ئاڕ دی ئێف
+    cs: Resource Description Framework
+    da: Resource Description Framework
+    de: Resource Description Framework
+    en: Resource Description Framework
+    eo: Rimedo-Priskriba Kadro
+    es: Resource Description Framework
+    eu: RDF
+    fa: آردیاف
+    fi: RDF
+    fr: Resource Description Framework
+    he: Resource Description Framework
+    hu: Resource Description Framework
+    id: Resource Description Framework
+    is: RDF
+    it: Resource Description Framework
+    ja: リソース記述フレームワーク
+    ko: RDF
+    lv: Resursu aprakstīšanas ietvars
+    mk: рамка за опис на ресурси
+    nb: Resource Description Framework
+    nl: Resource Description Framework
+    oc: Resource Description Framework
+    pl: Resource Description Framework
+    pt: Resource Description Framework
+    pt-br: Resource Description Framework
+    ro: Resource Description Framework
+    ru: Resource Description Framework
+    scn: Resource Description Framework
+    sk: Resource Description Framework
+    sl: Resource Description Framework
+    sr: RDF
+    sv: Resource Description Framework
+    ta: வள விபரிப்புச் சட்டகம்
+    tr: Kaynak Tanımlama Çerçevesi
+    uk: RDF
+    vi: RDF
+    yue: RDF
+    zh: 資源描述框架
+    zh-cn: 资源描述框架
+    zh-hans: 资源描述框架
+    zh-hant: 資源描述框架
+    zh-tw: 資源描述框架
+aliases:
+- Kaynak Tanımlama Çerçevesi
+- RDF
+- Resource Description Framework
+- Resursu aprakstīšanas ietvars
+- Rimedo-Priskriba Kadro
+- рамка за опис на ресурси
+- آردیاف
+- إطار توصيف الموارد
+- ئاڕ دی ئێف
+- வள விபரிப்புச் சட்டகம்
+- リソース記述フレームワーク
+- 資源描述框架
+- 资源描述框架
 ---
-
 # [[../Technology/IT/Data/Data_Language/RDF(Resource_Description_Framework)]] 
 
 #has_/url :: http://www.w3.org/1999/02/22-rdf-syntax-ns#

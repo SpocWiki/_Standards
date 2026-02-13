@@ -1,51 +1,273 @@
 ---
 aliases:
-  - Arab–Israeli conflict
-  - 1948-Arab–Israeli_Conflict
-  - 1948-Arab–Israeli Conflict
+- 1948-Arab–Israeli Conflict
+- 1948-Arab–Israeli_Conflict
+- Ady Arabo-Isiraeliana
+- Araabia-Iisraeli konflikt
+- Arab-Israeli conflict
+- Arab-israeliska-konflikten
+- Arab-Isroil ziddiyati
+- Araba-israela konflikto
+- Arabiar–israeldar gatazka
+- Arabien–Israelin konflikti
+- Arabies-Israeliese konflik
+- Arabisch-Israëlisch conflict
+- Arabiž-izrailine rida
+- arabsko-izraelski konflikt
+- arabsko-izraelský konflikt
+- Arabų-Izraelio konfliktas
+- Arab–Israelana konflikto
+- Arab–Israeli conflict
+- arab–izraeli konfliktus
+- Arap-İsrail davası
+- Arap-İsrail savaşları
+- Arābu—izraēliešu konflikts
+- Bliskoistočni sukob
+- Brezel israelat-arab
+- coinbhleacht Arab-Iosraelach
+- conflicte arabo-israelià
+- Conflicte araboisraelian
+- Conflicto arabe-israelí
+- conflicto árabe-israelí
+- conflictu árabe-israelín
+- Conflictul arabo-israelian
+- Conflit Arab-Israelian
+- conflit israélo-arabe
+- conflito israelo-árabe
+- conflito árabe-israelense
+- conflito árabe-israelí
+- Conflitt Arab-Israelian
+- conflitto arabo-israeliano
+- Contentio Arabo-Israelitica
+- Cunflet âreb-iṡraejaṅ
+- Den arabisk-israelske konflikten
+- Den israelsk-arabiske konflikt
+- Diri pagkakaarasya han Arabo-Israeli
+- Gwrthdaro Arabaidd-Israelaidd
+- Herbê Ereb-İsraili
+- Ingxabano yama-Arabhu namaSirayeli
+- Kas Arabek-Israelyek
+- Konfli israélo-arab
+- Konflik Arab-Israel
+- konflik Arab–Israel
+- konflikt izraelsko-arabski
+- Konflikti arabo-izraelit
+- Mapambano kati ya Israeli na Palestina
+- Midtøsten-konflikten
+- Nahostkonflikt
+- Pevçûna Rojhilata Navîn
+- suppiat nga Arabo-Israeli
+- tetãnguéra árave ha Israel ñombohovái
+- Vaina terp arabu ėr Izraelė
+- Xung đột Ả Rập-Israel
+- Átök Araba og Ísraelsmanna
+- Ərəb-İsrail müharibələri
+- Αραβοϊσραηλινή σύγκρουση
+- Арааб-израиль иирсээннэрэ
+- Араб-израилиин мүргэлдөөн
+- Араб-Израиль согуштары
+- Араб-израиль соғыстары
+- Араба-ізраільскі канфлікт
+- Арабо-ізраїльський конфлікт
+- арабо-израильский конфликт
+- Арабска-ізраільскі канфлікт
+- Арабско-израелски конфликт
+- Арабсько-ізраїльськый конфлікт
+- Арапско-израелски конфликт
+- Израелско-арапски сукоб
+- Ғәрәп-израиль конфликты
+- Ӏарбий-жугтий къовсам
+- Ӏаьрбийн-жуьгтийн дов
+- Արաբա-իսրայելական հակամարտություն
+- הסכסוך הישראלי-ערבי
+- מיטל מזרח קאנפליקט
+- الصراع العربى الاسرائيلى
+- الصراع العربي الإسرائيلي
+- ستیز عربها و اسرائیل
+- عرب اسرائيلي تڪرار
+- عرب اسرائیل تنازعہ
+- عرب اسرائیلی جھیڑا
+- عرب اسرایل تنازٕ
+- عرب-اسراییل ساواشلاری
+- لمطايفة بين لعرب و إسرائيل
+- کێشەی عەرەب–ئیسرائیل
+- ߊ߬ߙߊ߬ߓߎ ߣߴߌߛߌߙߊߌߟߊ߫ ߝߐߢߐ߲߯ߞߐ
+- अरब इजरायली द्वन्द
+- अरब-इजराइल संघर्ष
+- अरब-इस्रैल संघर्ष
+- আরব-ইসরায়েলি সংঘাত
+- আৰব-ইজৰাইল বিবাদ
+- ਅਰਬ-ਇਜ਼ਰਾਇਲੀ ਟਾਕਰਾ
+- அரபு-இசுரேல் முரண்பாடு
+- അറബ് - ഇസ്രയേൽ സംഘർഷം
+- ความขัดแย้งอาหรับ–อิสราเอล
+- အာရပ်-အစ္စရေး ပဋိပက္ခ
+- არაბულ-ისრაელური კონფლიქტი
+- 中东战争
+- 中東戦争
+- 中東戰爭
+- 阿以冲突
+- 중동 전쟁
 has_id_wikidata: Q8669
 Commons_category: Arab-Israeli conflict
 has_time_started: 1948-05-15
-history_of_topic: "[[_Standards/WikiData/WD~history_of_the_Arab_Israeli_conflict,2967235]]"
+history_of_topic: '[[_Standards/WikiData/WD~history_of_the_Arab_Israeli_conflict,2967235]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Arab-Israeli%20Map.svg
 instance_of:
-  - "[[_Standards/WikiData/WD~ethnic_conflict,766875]]"
-  - "[[_Standards/WikiData/WD~international_conflict,11422542]]"
-location: "[[_Standards/WikiData/WD~Middle_East,7204]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_Rights,13382529]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~Arab_Israeli_Wars,3491398]]"
+- '[[_Standards/WikiData/WD~ethnic_conflict,766875]]'
+- '[[_Standards/WikiData/WD~international_conflict,11422542]]'
+location: '[[_Standards/WikiData/WD~Middle_East,7204]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_Rights,13382529]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~Arab_Israeli_Wars,3491398]]'
 start_time: 1948-05-15
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Arab_Israeli_conflict,6682272]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Arab_Israeli_conflict,6682272]]'
 U_S_National_Archives_Identifier: 10637980
 dv_is_:
   same_as:
-    - "[[../../../../../../../../WikiData/WD~Arab–Israeli_conflict,8669|WD~Arab–Israeli_conflict,8669]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Arab–Israeli_Conflict|1948-Arab–Israeli_Conflict]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Arab–Israeli_Conflict.public|1948-Arab–Israeli_Conflict.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Arab–Israeli_Conflict.internal|1948-Arab–Israeli_Conflict.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Arab–Israeli_Conflict.protect|1948-Arab–Israeli_Conflict.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Arab–Israeli_Conflict.private|1948-Arab–Israeli_Conflict.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Arab–Israeli_Conflict.personal|1948-Arab–Israeli_Conflict.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Arab–Israeli_Conflict.secret|1948-Arab–Israeli_Conflict.secret]]"
+  - '[[../../../../../../../../WikiData/WD~Arab–Israeli_conflict,8669|WD~Arab–Israeli_conflict,8669]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Arab–Israeli_Conflict|1948-Arab–Israeli_Conflict]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Arab–Israeli_Conflict.public|1948-Arab–Israeli_Conflict.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Arab–Israeli_Conflict.internal|1948-Arab–Israeli_Conflict.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Arab–Israeli_Conflict.protect|1948-Arab–Israeli_Conflict.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Arab–Israeli_Conflict.private|1948-Arab–Israeli_Conflict.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Arab–Israeli_Conflict.personal|1948-Arab–Israeli_Conflict.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Arab–Israeli_Conflict.secret|1948-Arab–Israeli_Conflict.secret]]'
 dv_has_:
+  duration_: \-
+  name_:
+    af: Arabies-Israeliese konflik
+    an: Conflicto arabe-israelí
+    ar: الصراع العربي الإسرائيلي
+    ary: لمطايفة بين لعرب و إسرائيل
+    arz: الصراع العربى الاسرائيلى
+    as: আৰব-ইজৰাইল বিবাদ
+    ast: conflictu árabe-israelín
+    az: Ərəb-İsrail müharibələri
+    azb: عرب-اسراییل ساواشلاری
+    ba: Ғәрәп-израиль конфликты
+    be: Араба-ізраільскі канфлікт
+    be-tarask: Арабска-ізраільскі канфлікт
+    bg: Арабско-израелски конфликт
+    bn: আরব-ইসরায়েলি সংঘাত
+    br: Brezel israelat-arab
+    bs: Bliskoistočni sukob
+    bxr: Араб-израилиин мүргэлдөөн
+    ca: conflicte arabo-israelià
+    ce: Ӏаьрбийн-жуьгтийн дов
+    ckb: کێشەی عەرەب–ئیسرائیل
+    crh: Arap-İsrail davası
+    cs: arabsko-izraelský konflikt
+    cy: Gwrthdaro Arabaidd-Israelaidd
+    da: Den israelsk-arabiske konflikt
+    de: Nahostkonflikt
+    de-ch: Nahostkonflikt
+    diq: Herbê Ereb-İsraili
+    el: Αραβοϊσραηλινή σύγκρουση
+    eml: Cunflet âreb-iṡraejaṅ
+    en: Arab–Israeli conflict
+    en-ca: Arab–Israeli conflict
+    en-gb: Arab–Israeli conflict
+    eo: Araba-israela konflikto
+    es: conflicto árabe-israelí
+    et: Araabia-Iisraeli konflikt
+    eu: Arabiar–israeldar gatazka
+    fa: ستیز عربها و اسرائیل
+    fi: Arabien–Israelin konflikti
+    fr: conflit israélo-arabe
+    ga: coinbhleacht Arab-Iosraelach
+    gcr: Konfli israélo-arab
+    gl: conflito árabe-israelí
+    gn: tetãnguéra árave ha Israel ñombohovái
+    gsw: Nahostkonflikt
+    he: הסכסוך הישראלי-ערבי
+    hi: अरब-इजराइल संघर्ष
+    hif: Arab-Israeli conflict
+    hr: Bliskoistočni sukob
+    hu: arab–izraeli konfliktus
+    hy: Արաբա-իսրայելական հակամարտություն
+    id: konflik Arab–Israel
+    ilo: suppiat nga Arabo-Israeli
+    inh: Ӏарбий-жугтий къовсам
+    io: Arab–Israelana konflikto
+    is: Átök Araba og Ísraelsmanna
+    it: conflitto arabo-israeliano
+    ja: 中東戦争
+    jv: Konflik Arab-Israel
+    ka: არაბულ-ისრაელური კონფლიქტი
+    kk: Араб-израиль соғыстары
+    ko: 중동 전쟁
+    ks: عرب اسرایل تنازٕ
+    ku: Pevçûna Rojhilata Navîn
+    kw: Kas Arabek-Israelyek
+    ky: Араб-Израиль согуштары
+    la: Contentio Arabo-Israelitica
+    lmo: Conflitt Arab-Israelian
+    lt: Arabų-Izraelio konfliktas
+    lv: Arābu—izraēliešu konflikts
+    mg: Ady Arabo-Isiraeliana
+    min: Konflik Arab-Israel
+    mk: Арапско-израелски конфликт
+    ml: അറബ് - ഇസ്രയേൽ സംഘർഷം
+    ms: Konflik Arab-Israel
+    my: အာရပ်-အစ္စရေး ပဋိပက္ခ
+    nb: Midtøsten-konflikten
+    nds: Nahostkonflikt
+    ne: अरब इजरायली द्वन्द
+    nl: Arabisch-Israëlisch conflict
+    nn: Den arabisk-israelske konflikten
+    nqo: ߊ߬ߙߊ߬ߓߎ ߣߴߌߛߌߙߊߌߟߊ߫ ߝߐߢߐ߲߯ߞߐ
+    oc: Conflicte araboisraelian
+    pa: ਅਰਬ-ਇਜ਼ਰਾਇਲੀ ਟਾਕਰਾ
+    pl: konflikt izraelsko-arabski
+    pms: Conflit Arab-Israelian
+    pnb: عرب اسرائیلی جھیڑا
+    pt: conflito israelo-árabe
+    pt-br: conflito árabe-israelense
+    ro: Conflictul arabo-israelian
+    ru: арабо-израильский конфликт
+    rue: Арабсько-ізраїльськый конфлікт
+    sa: अरब-इस्रैल संघर्ष
+    sah: Арааб-израиль иирсээннэрэ
+    sd: عرب اسرائيلي تڪرار
+    sgs: Vaina terp arabu ėr Izraelė
+    sh: Bliskoistočni sukob
+    sk: Arabsko-izraelský konflikt
+    sl: arabsko-izraelski konflikt
+    sq: Konflikti arabo-izraelit
+    sr: Израелско-арапски сукоб
+    sv: Arab-israeliska-konflikten
+    sw: Mapambano kati ya Israeli na Palestina
+    ta: அரபு-இசுரேல் முரண்பாடு
+    th: ความขัดแย้งอาหรับ–อิสราเอล
+    tr: Arap-İsrail savaşları
+    uk: Арабо-ізраїльський конфлікт
+    ur: عرب اسرائیل تنازعہ
+    uz: Arab-Isroil ziddiyati
+    vep: Arabiž-izrailine rida
+    vi: Xung đột Ả Rập-Israel
+    war: Diri pagkakaarasya han Arabo-Israeli
+    wuu: 阿以冲突
+    xh: Ingxabano yama-Arabhu namaSirayeli
+    yi: מיטל מזרח קאנפליקט
+    yue: 中東戰爭
+    zh: 中东战争
+    zh-hant: 中東戰爭
   time_:
     started: 1948-05-15T00:00:00.000+02:00
-    stopped: "-"
-  duration_: \-
+    stopped: '-'
 dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Arab–Israeli_conflict,8669|WD~Arab–Israeli_conflict,8669]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Arab–Israeli_Conflict|1948-Arab–Israeli_Conflict]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Arab–Israeli_Conflict.public|1948-Arab–Israeli_Conflict.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Arab–Israeli_Conflict.internal|1948-Arab–Israeli_Conflict.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Arab–Israeli_Conflict.protect|1948-Arab–Israeli_Conflict.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Arab–Israeli_Conflict.private|1948-Arab–Israeli_Conflict.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Arab–Israeli_Conflict.personal|1948-Arab–Israeli_Conflict.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Arab–Israeli_Conflict.secret|1948-Arab–Israeli_Conflict.secret]]"
-dv_has_time_stopped: "-"
+- '[[../../../../../../../../WikiData/WD~Arab–Israeli_conflict,8669|WD~Arab–Israeli_conflict,8669]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Arab–Israeli_Conflict|1948-Arab–Israeli_Conflict]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Arab–Israeli_Conflict.public|1948-Arab–Israeli_Conflict.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Arab–Israeli_Conflict.internal|1948-Arab–Israeli_Conflict.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Arab–Israeli_Conflict.protect|1948-Arab–Israeli_Conflict.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Arab–Israeli_Conflict.private|1948-Arab–Israeli_Conflict.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Arab–Israeli_Conflict.personal|1948-Arab–Israeli_Conflict.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Arab–Israeli_Conflict.secret|1948-Arab–Israeli_Conflict.secret]]'
+dv_has_time_stopped: '-'
 dv_has_duration_years: NaN
 dv_has_duration_: \-
 ---
-
 # [[1948-Arab–Israeli_Conflict]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Arab–Israeli_conflict,8669|WD~Arab–Israeli_conflict,8669]]

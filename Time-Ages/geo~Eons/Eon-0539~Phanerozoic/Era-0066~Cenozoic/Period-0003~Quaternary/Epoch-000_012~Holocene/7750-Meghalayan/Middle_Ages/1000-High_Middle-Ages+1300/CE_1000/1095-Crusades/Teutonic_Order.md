@@ -1,91 +1,160 @@
 ---
 aliases:
-  - Teutonic Order
-  - Deutscher Orden
-  - Teutonic_Order
+- An tOrd Teotanach
+- Cavaèrs Teutonics
+- Den tyske orden
+- Den tyske riddarordenen
+- Deutscher Orden
+- Duitse Orde
+- Duutsje Orde
+- Dútske Oarder
+- Hiệp sĩ Teuton
+- Kesatria Teuton
+- Krīžėninkā
+- Marchogion Tiwtonaidd
+- Német Lovagrend
+- Orde Teutònic
+- Orde Teutónica
+- Orde Tœütonnego
+- Ordem Teutónica
+- Orden Teutonica
+- Orden Teutónica
+- Ordena Teutonikoa
+- Ordeno de Germanaj Kavaliroj
+- Ordina de la Casa Germanica de San Maria
+- Ordine teutonico
+- Ordinul teutonic
+- Ordo Sanctae Mariae Teutonicorum
+- Ordo Teutonik
+- ordre teutonique
+- Rád nemeckých rytierov
+- Saksa ordu
+- Saksalainen ritarikunta
+- Teutonala ordeno
+- Teutonic Knights
+- Teutonic Order
+- Teutonic_Order
+- Teutonikong Orden
+- Teutonski viteški red
+- Tevton ordeni
+- tevtonski viteški red
+- Tewton ordeni
+- Tyska orden
+- Tyske Orden
+- Töton Şövalyeleri
+- Urden Tütonegh
+- Urdhri Teutonik
+- Urzh Teutonek
+- Vokiečių ordinas
+- Vācu ordenis
+- Zakon krzyżacki
+- Þýsku riddararnir
+- Řád německých rytířů
+- Τεύτονες Ιππότες
+- Тевтойнаг орден
+- Тевтон орденĕ
+- Тевтон ордени
+- Тевтон ордены
+- Тевтонски орден
+- Тевтонски ред
+- Тевтонский орден
+- Тевтонський орден
+- Тэўтонскі ордэн
+- Տևտոնական շքանշան
+- המסדר הטווטוני
+- تيوتون
+- شوالیههای تتونیک
+- فرسان تيوتون
+- ट्यूटोनिक ऑर्डर
+- คณะอัศวินทิวทอนิก
+- ტევტონთა ორდენი
+- ドイツ騎士団
+- 条顿骑士团
+- 條頓騎士團
+- 튜턴 기사단
 has_id_wikidata: Q48189
 Commons_gallery: Teutonic Order
 Commons_category: Teutonic Order
 inception: 1190-01-01T00:00:00Z
 official_name:
-  - Ordo domus Sanctae Mariae Theutonicorum Ierosolimitanorum
-  - Ordo Sanctae Mariae Teutonicorum
+- Ordo domus Sanctae Mariae Theutonicorum Ierosolimitanorum
+- Ordo Sanctae Mariae Teutonicorum
 image: http://commons.wikimedia.org/wiki/Special:FilePath/CoA%20Teutonic%20Order.svg
 location:
-  - "[[_Standards/WikiData/WD~Malbork_Castle,71279]]"
-  - "[[_Standards/WikiData/WD~Acre,126084]]"
-  - "[[_Standards/WikiData/WD~Königsberg,4120832]]"
-  - "[[_Standards/WikiData/WD~Venice,641]]"
-  - "[[_Standards/WikiData/WD~Vienna,1741]]"
-  - "[[_Standards/WikiData/WD~Bad_Mergentheim,61942]]"
+- '[[_Standards/WikiData/WD~Malbork_Castle,71279]]'
+- '[[_Standards/WikiData/WD~Acre,126084]]'
+- '[[_Standards/WikiData/WD~Königsberg,4120832]]'
+- '[[_Standards/WikiData/WD~Venice,641]]'
+- '[[_Standards/WikiData/WD~Vienna,1741]]'
+- '[[_Standards/WikiData/WD~Bad_Mergentheim,61942]]'
 country:
-  - "[[_Standards/WikiData/WD~Austrian_Empire,131964]]"
-  - "[[_Standards/WikiData/WD~North_German_Confederation,150981]]"
-  - "[[_Standards/WikiData/WD~Duchy_of_Prussia,153091]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Bavaria,154195]]"
-  - "[[_Standards/WikiData/WD~State_of_the_Teutonic_Order,156020]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Württemberg,159631]]"
-  - "[[_Standards/WikiData/WD~Papal_States,170174]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Italy,172579]]"
-  - "[[_Standards/WikiData/WD~Grand_Duchy_of_Baden,186320]]"
-  - "[[_Standards/WikiData/WD~Republic_of_German_Austria,268970]]"
-  - "[[_Standards/WikiData/WD~First_Republic_of_Austria,518101]]"
-  - "[[_Standards/WikiData/WD~Holy_Roman_Empire,12548]]"
-  - "[[_Standards/WikiData/WD~Grand_Duchy_of_Hesse,20135]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Prussia,27306]]"
-  - "[[_Standards/WikiData/WD~Austria_Hungary,28513]]"
-  - "[[_Standards/WikiData/WD~Austria,40]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-  - "[[_Standards/WikiData/WD~Vatican_City,237]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Jerusalem,55502]]"
-replaces: "[[_Standards/WikiData/WD~Livonian_Brothers_of_the_Sword,157605]]"
+- '[[_Standards/WikiData/WD~Austrian_Empire,131964]]'
+- '[[_Standards/WikiData/WD~North_German_Confederation,150981]]'
+- '[[_Standards/WikiData/WD~Duchy_of_Prussia,153091]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Bavaria,154195]]'
+- '[[_Standards/WikiData/WD~State_of_the_Teutonic_Order,156020]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Württemberg,159631]]'
+- '[[_Standards/WikiData/WD~Papal_States,170174]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Italy,172579]]'
+- '[[_Standards/WikiData/WD~Grand_Duchy_of_Baden,186320]]'
+- '[[_Standards/WikiData/WD~Republic_of_German_Austria,268970]]'
+- '[[_Standards/WikiData/WD~First_Republic_of_Austria,518101]]'
+- '[[_Standards/WikiData/WD~Holy_Roman_Empire,12548]]'
+- '[[_Standards/WikiData/WD~Grand_Duchy_of_Hesse,20135]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Prussia,27306]]'
+- '[[_Standards/WikiData/WD~Austria_Hungary,28513]]'
+- '[[_Standards/WikiData/WD~Austria,40]]'
+- '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Vatican_City,237]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Jerusalem,55502]]'
+replaces: '[[_Standards/WikiData/WD~Livonian_Brothers_of_the_Sword,157605]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Livonian_Brothers_of_the_Sword,157605]]"
-  - "[[_Standards/WikiData/WD~Schäffer,253507]]"
-  - "[[_Standards/WikiData/WD~Order_of_Dobrzyń,668021]]"
-  - "[[_Standards/WikiData/WD~knight_of_the_Teutonic_Order,96651577]]"
-  - "[[_Standards/WikiData/WD~Marianer,131299523]]"
-  - "[[_Standards/WikiData/WD~Livonian_Order,29140]]"
+- '[[_Standards/WikiData/WD~Livonian_Brothers_of_the_Sword,157605]]'
+- '[[_Standards/WikiData/WD~Schäffer,253507]]'
+- '[[_Standards/WikiData/WD~Order_of_Dobrzyń,668021]]'
+- '[[_Standards/WikiData/WD~knight_of_the_Teutonic_Order,96651577]]'
+- '[[_Standards/WikiData/WD~Marianer,131299523]]'
+- '[[_Standards/WikiData/WD~Livonian_Order,29140]]'
 allegiance:
-  - "[[_Standards/WikiData/WD~Holy_Roman_Emperor,181765]]"
-  - "[[_Standards/WikiData/WD~pope,19546]]"
+- '[[_Standards/WikiData/WD~Holy_Roman_Emperor,181765]]'
+- '[[_Standards/WikiData/WD~pope,19546]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~religious_military_order,474717]]"
-  - "[[_Standards/WikiData/WD~hospitaller_order,2311325]]"
-founded_by: "[[_Standards/WikiData/WD~Heinrich_Walpot_von_Bassenheim,571817]]"
+- '[[_Standards/WikiData/WD~religious_military_order,474717]]'
+- '[[_Standards/WikiData/WD~hospitaller_order,2311325]]'
+founded_by: '[[_Standards/WikiData/WD~Heinrich_Walpot_von_Bassenheim,571817]]'
 described_by_source:
-  - "[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]"
-  - "[[_Standards/WikiData/WD~Regesta_Imperii_XIII,97879676]]"
+- '[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]'
+- '[[_Standards/WikiData/WD~Regesta_Imperii_XIII,97879676]]'
 owner_of:
-  - "[[_Standards/WikiData/WD~Duitse_Huis,2434699]]"
-  - "[[_Standards/WikiData/WD~Insterburg_Castle,2968279]]"
-  - "[[_Standards/WikiData/WD~Brandenburg_Castle,2968659]]"
-position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~Grand_Master_of_the_Teutonic_Knights,9373006]]"
-named_after: "[[_Standards/WikiData/WD~Mary,345]]"
-headquarters_locations: "[[_Standards/WikiData/WD~Vienna,1741]]"
-conferred_by: "[[_Standards/WikiData/WD~pope,19546]]"
+- '[[_Standards/WikiData/WD~Duitse_Huis,2434699]]'
+- '[[_Standards/WikiData/WD~Insterburg_Castle,2968279]]'
+- '[[_Standards/WikiData/WD~Brandenburg_Castle,2968659]]'
+position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~Grand_Master_of_the_Teutonic_Knights,9373006]]'
+named_after: '[[_Standards/WikiData/WD~Mary,345]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Vienna,1741]]'
+conferred_by: '[[_Standards/WikiData/WD~pope,19546]]'
 BHCL_UUID: cb43bb0d-1332-4369-ac8a-b2c9fc517207
 locator_map_image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Teutonic%20Order%201260.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Deutscher%20Orden%20in%20Europa%201300.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Teutonic%20Order%201410.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Teutonic%20Order%201260.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Deutscher%20Orden%20in%20Europa%201300.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Teutonic%20Order%201410.png
 official_website:
-  - http://www.deutscher-orden.at/
-  - http://www.deutscher-orden.de/
+- http://www.deutscher-orden.at/
+- http://www.deutscher-orden.de/
 coat_of_arms_image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Teutonic%20Knights%20Arms.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Insignia%20Germany%20Order%20Teutonic.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Teutonic%20Knights%20Arms.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Insignia%20Germany%20Order%20Teutonic.svg
 flag_image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20State%20of%20the%20Teutonic%20Order.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Teutonic%20Order.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Teuton%20flag.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20State%20of%20the%20Teutonic%20Order.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Teutonic%20Order.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Teuton%20flag.svg
 Image_Archive_Herder_Institute: Q48189
 native_label: Deutscher Orden
 ISNI: 122879456
@@ -93,25 +162,108 @@ Iconclass_notation: 46A1241(TEUTONIC ORDER)
 Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/TEVTONSKI_ORDEN.html
 dv_is_:
   same_as:
-    - "[[../../../../../../../../../../../WikiData/WD~Teutonic_Order,48189|WD~Teutonic_Order,48189]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1095-Crusades/Teutonic_Order|Teutonic_Order]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1095-Crusades/Teutonic_Order.public|Teutonic_Order.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1095-Crusades/Teutonic_Order.internal|Teutonic_Order.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1095-Crusades/Teutonic_Order.protect|Teutonic_Order.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1095-Crusades/Teutonic_Order.private|Teutonic_Order.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1095-Crusades/Teutonic_Order.personal|Teutonic_Order.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1095-Crusades/Teutonic_Order.secret|Teutonic_Order.secret]]"
+  - '[[../../../../../../../../../../../WikiData/WD~Teutonic_Order,48189|WD~Teutonic_Order,48189]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1095-Crusades/Teutonic_Order|Teutonic_Order]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1095-Crusades/Teutonic_Order.public|Teutonic_Order.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1095-Crusades/Teutonic_Order.internal|Teutonic_Order.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1095-Crusades/Teutonic_Order.protect|Teutonic_Order.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1095-Crusades/Teutonic_Order.private|Teutonic_Order.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1095-Crusades/Teutonic_Order.personal|Teutonic_Order.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1095-Crusades/Teutonic_Order.secret|Teutonic_Order.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../../../../WikiData/WD~Teutonic_Order,48189|WD~Teutonic_Order,48189]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1095-Crusades/Teutonic_Order|Teutonic_Order]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1095-Crusades/Teutonic_Order.public|Teutonic_Order.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1095-Crusades/Teutonic_Order.internal|Teutonic_Order.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1095-Crusades/Teutonic_Order.protect|Teutonic_Order.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1095-Crusades/Teutonic_Order.private|Teutonic_Order.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1095-Crusades/Teutonic_Order.personal|Teutonic_Order.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1095-Crusades/Teutonic_Order.secret|Teutonic_Order.secret]]"
+- '[[../../../../../../../../../../../WikiData/WD~Teutonic_Order,48189|WD~Teutonic_Order,48189]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1095-Crusades/Teutonic_Order|Teutonic_Order]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1095-Crusades/Teutonic_Order.public|Teutonic_Order.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1095-Crusades/Teutonic_Order.internal|Teutonic_Order.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1095-Crusades/Teutonic_Order.protect|Teutonic_Order.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1095-Crusades/Teutonic_Order.private|Teutonic_Order.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1095-Crusades/Teutonic_Order.personal|Teutonic_Order.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1095-Crusades/Teutonic_Order.secret|Teutonic_Order.secret]]'
+dv_has_:
+  name_:
+    af: Duitse Orde
+    an: Orden Teutonica
+    ar: فرسان تيوتون
+    arz: تيوتون
+    ast: Orde Teutónica
+    az: Tevton ordeni
+    be: Тэўтонскі ордэн
+    be-tarask: Тэўтонскі Ордэн
+    bg: Тевтонски орден
+    br: Urzh Teutonek
+    ca: Orde Teutònic
+    cs: Řád německých rytířů
+    cv: Тевтон орденĕ
+    cy: Marchogion Tiwtonaidd
+    da: Tyske Orden
+    de: Deutscher Orden
+    de-ch: Deutscher Orden
+    el: Τεύτονες Ιππότες
+    en: Teutonic Order
+    en-ca: Teutonic Knights
+    en-gb: Teutonic Knights
+    eo: Ordeno de Germanaj Kavaliroj
+    es: Orden Teutónica
+    et: Saksa ordu
+    eu: Ordena Teutonikoa
+    fa: شوالیههای تتونیک
+    fi: Saksalainen ritarikunta
+    fr: ordre teutonique
+    fy: Dútske Oarder
+    ga: An tOrd Teotanach
+    gl: Orde Teutónica
+    he: המסדר הטווטוני
+    hi: ट्यूटोनिक ऑर्डर
+    hr: Teutonski viteški red
+    hu: Német Lovagrend
+    hy: Տևտոնական շքանշան
+    id: Ordo Teutonik
+    io: Teutonala ordeno
+    is: Þýsku riddararnir
+    it: Ordine teutonico
+    ja: ドイツ騎士団
+    ka: ტევტონთა ორდენი
+    ko: 튜턴 기사단
+    ky: Тевтон ордени
+    la: Ordo Sanctae Mariae Teutonicorum
+    lfn: Ordina de la Casa Germanica de San Maria
+    li: Duutsje Orde
+    lij: Orde Tœütonnego
+    lmo: Urden Tütonegh
+    lt: Vokiečių ordinas
+    lv: Vācu ordenis
+    mk: Тевтонски ред
+    ms: Kesatria Teuton
+    nb: Den tyske orden
+    nl: Duitse Orde
+    nn: Den tyske riddarordenen
+    oc: Cavaèrs Teutonics
+    os: Тевтойнаг орден
+    pl: Zakon krzyżacki
+    pt: Ordem Teutónica
+    pt-br: Ordem Teutónica
+    ro: Ordinul teutonic
+    ru: Тевтонский орден
+    sgs: Krīžėninkā
+    sh: Teutonski viteški red
+    sk: Rád nemeckých rytierov
+    sl: tevtonski viteški red
+    sq: Urdhri Teutonik
+    sr: Тевтонски ред
+    sr-ec: Тевтонски ред
+    sv: Tyska orden
+    th: คณะอัศวินทิวทอนิก
+    tk: Tewton ordeni
+    tl: Teutonikong Orden
+    tr: Töton Şövalyeleri
+    tt: Тевтон ордены
+    uk: Тевтонський орден
+    uz: Tevton ordeni
+    vi: Hiệp sĩ Teuton
+    wuu: 条顿骑士团
+    yue: 條頓騎士團
+    zh: 条顿骑士团
 ---
-
 # [[Teutonic_Order]] 
 
 #is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Teutonic_Order,48189|WD~Teutonic_Order,48189]]  

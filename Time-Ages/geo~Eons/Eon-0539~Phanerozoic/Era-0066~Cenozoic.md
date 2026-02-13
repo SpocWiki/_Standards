@@ -1,40 +1,89 @@
 ---
 aliases:
-  - Cenozoic
-  - пеозой
-  - Kenozoikum
-  - Kænozoisk
-  - Känozoikum
-  - Cainozoic
-  - Cenozoico
-  - Kainosoikum
-  - Kenotsoikum
-  - Cénozoïque
-  - kainozoikum
-  - cenozoico
-  - 新生代
-  - Cenozojus
-  - Kaenozoïcum
-  - Kenozoik
-  - Cenozóico
-  - kenozoikum
-  - kenozoik
-  - Era~3~Cenozoic
+- an Ré Chaenasóch
+- Caenozoicum
+- Cainosöig
+- Cainozoic
+- Cenosòich
+- Cenozoic
+- Cenozoico
+- Cenozoicu
+- Cenozojus
+- Cenozoïc
+- Cenozòego
+- Cenozóico
+- Cénozoïque
+- Epò senozoyik
+- Era~3~Cenozoic
+- Kaenozoïcum
+- Kainosoikum
+- Kainosoïkum
+- kainozoikum
+- kainozojs
+- kainozojus
+- Kaynazoy erası
+- Kaynozoy
+- Kaýnozoý
+- Kenotsoikum
+- kenotsooinen maailmankausi
+- Kenozoik
+- kenozoiko
+- Kenozoikum
+- Kenozoïcum
+- Känozoikum
+- Kænozoikum
+- Kænozoisk
+- Kénozoikum
+- Neozoic
+- Nýlífsöld
+- Senozoeg
+- Senozoik
+- Senozoyik
+- Sidgelkeugal
+- Sin-seng-tāi
+- Zenozoiko
+- Äerdneizäit
+- Đại Tân sinh
+- Καινοζωικός αιώνας
+- кайназой
+- кайнозой
+- кайнозойська ера
+- кенозоик
+- Неозой
+- пеозой
+- Կայնոզոյի դարաշրջան
+- קנוזואיקון
+- حقبة الحياة الحديثة
+- كاينوزوي
+- نوجیو مہاکلپ
+- نوزیستی
+- नूतनजीव महाकल्प
+- सेनोजोइक महाकल्प
+- সিনোজোয়িক
+- ਨਵਜੀਵ ਮਹਾਕਲਪ
+- புதுஉயிர் ஊழி
+- සීනොසොයික්
+- มหายุคซีโนโซอิก
+- သက်နှောင်းကပ်
+- კაინოზოური ჯგუფი
+- កន្យសត្ត
+- 新生代
+- 신생대
 has_id_wikidata: Q102416
 ischart: Cenozoic
 instance_of:
-  - "[[_Standards/WikiData/WD~era,630830]]"
-  - "[[_Standards/WikiData/WD~erathem,2464485]]"
+- '[[_Standards/WikiData/WD~era,630830]]'
+- '[[_Standards/WikiData/WD~erathem,2464485]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Cenozoic,7144527]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Cenozoic_(navbox),10595896]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Cenozoic,7144527]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Cenozoic_(navbox),10595896]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 start_time: -66000000-01-01T00:00:00Z
-OmegaWiki_Defined_Meaning: "952479"
+OmegaWiki_Defined_Meaning: 952479
 subreddit: Cenozoic
 Commons_category: Cenozoic
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ice%20age%20fauna%20of%20northern%20Spain%20-%20Mauricio%20Ant%C3%B3n.jpg
@@ -42,69 +91,150 @@ schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Cenozoic%20Kaenozo
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-K%C3%A4nozoikum.ogg
 sRGB_color_hex_triplet: F2F91D
 Dewey_Decimal_Classification:
-  - "561.118"
-  - "551.78"
-  - "560.178"
+- 561.118
+- 551.78
+- 560.178
 dv_has_:
   duration_:
-    years: "6.600e+7"
-  previous_:
-    item: "[[Era-0251~Mesozoic]]"
-  next_:
-    item: ---
+    years: 6.600e+7
   name_:
-    bg: пеозой
+    abbreviated: CZ
+    af: Kainosoïkum
+    ar: حقبة الحياة الحديثة
+    ast: Cenozoicu
+    avk: Sidgelkeugal
+    az: Kaynazoy erası
+    ba: Кайнозой
+    be: кайназой
+    be-tarask: кайназой
+    bg: Неозой
+    bn: সিনোজোয়িক
+    br: Senozoeg
+    bs: Kenozoik
+    ca: Cenozoic
     cs: Kenozoikum
-    da: Kænozoisk
+    cy: Cainosöig
+    da: Kænozoikum
     de: Känozoikum
+    el: Καινοζωικός αιώνας
+    en: Cenozoic
+    en-gb: Cenozoic
     en_:
       gb: Cainozoic
       us: Cenozoic
-    en: Cenozoic
+    eo: kenozoiko
     es: Cenozoico
     et: Kainosoikum
-    fi: Kenotsoikum
+    eu: Zenozoiko
+    fa: نوزیستی
+    fi: kenotsooinen maailmankausi
     fr: Cénozoïque
+    frr: Känozoikum
+    ga: an Ré Chaenasóch
+    gl: Cenozoico
+    gsw: Känozoikum
+    he: קנוזואיקון
+    hi: नूतनजीव महाकल्प
+    hr: kenozoik
+    ht: Epò senozoyik
     hu: kainozoikum
-    it: cenozoico
+    hy: Կայնոզոյի դարաշրջան
+    id: Kenozoikum
+    is: Nýlífsöld
+    it: Cenozoico
     ja: 新生代
-    lt: Cenozojus
-    nl: Kaenozoïcum
+    ka: კაინოზოური ჯგუფი
+    kaa: Kaynozoy
+    kk: Кайнозой
+    kk-arab: كاينوزوي
+    kk-cn: كاينوزوي
+    kk-cyrl: Кайнозой
+    kk-kz: Кайнозой
+    kk-latn: Kaýnozoý
+    kk-tr: Kaýnozoý
+    km: កន្យសត្ត
+    ko: 신생대
+    la: Caenozoicum
+    lb: Äerdneizäit
+    lt: kainozojus
+    lv: kainozojs
+    mk: кенозоик
+    ms: Senozoik
+    my: သက်နှောင်းကပ်
+    nan: Sin-seng-tāi
+    nb: Kenozoikum
+    nds: Känozoikum
+    ne: सेनोजोइक महाकल्प
+    nl: Kenozoïcum
+    nn: kenozoikum
     no: Kenozoikum
-    pl: Kenozoik
-    pt: Cenozóico
-    sk: kenozoikum
+    oc: Cenozoïc
+    pa: ਨਵਜੀਵ ਮਹਾਕਲਪ
+    pl: kenozoik
+    pms: Cenosòich
+    pnb: نوجیو مہاکلپ
+    pt: Cenozoico
+    ro: Neozoic
+    ru: кайнозой
+    sh: Kenozoik
+    si: සීනොසොයික්
+    sk: Kenozoikum
     sl: kenozoik
-    sv: kenozoikum
+    sr: кенозоик
+    sr-ec: кенозоик
+    sr-el: kenozoik
+    su: Kénozoikum
+    sv: Kenozoikum
+    ta: புதுஉயிர் ஊழி
+    th: มหายุคซีโนโซอิก
+    tl: Cenozoic
+    tr: Senozoyik
+    tt: Кайнозой
+    udm: кайнозой
+    uk: кайнозойська ера
+    vec: Cenozòego
+    vi: Đại Tân sinh
+    war: Cenozoic
+    wuu: 新生代
+    yue: 新生代
     zh: 新生代
-    abbreviated: CZ
-  time_:
-    started: "-66.000e6"
-    stopped: "0.002e6"
+    zh-cn: 新生代
+    zh-hans: 新生代
+    zh-hant: 新生代
+    zh-hk: 新生代
+    zh-sg: 新生代
+    zh-tw: 新生代
+  next_:
+    item: '---'
+  previous_:
+    item: '[[Era-0251~Mesozoic]]'
   text_of_:
-    color: "0xF2F91D"
+    color: 0xF2F91D
+  time_:
+    started: -66.000e6
+    stopped: 0.002e6
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Cenozoic,102416|WD~Cenozoic,102416]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic|Era-0066~Cenozoic]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic.public|Era-0066~Cenozoic.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic.internal|Era-0066~Cenozoic.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic.protect|Era-0066~Cenozoic.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic.private|Era-0066~Cenozoic.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic.personal|Era-0066~Cenozoic.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic.secret|Era-0066~Cenozoic.secret]]"
-dv_has_duration_years: "6.600e+7"
-dv_has_previous_item: "[[Era-0251~Mesozoic]]"
-dv_has_next_item: ---
+  - '[[../../../WikiData/WD~Cenozoic,102416|WD~Cenozoic,102416]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic|Era-0066~Cenozoic]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic.public|Era-0066~Cenozoic.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic.internal|Era-0066~Cenozoic.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic.protect|Era-0066~Cenozoic.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic.private|Era-0066~Cenozoic.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic.personal|Era-0066~Cenozoic.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic.secret|Era-0066~Cenozoic.secret]]'
+dv_has_duration_years: 6.600e+7
+dv_has_previous_item: '[[Era-0251~Mesozoic]]'
+dv_has_next_item: '---'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Cenozoic,102416|WD~Cenozoic,102416]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic|Era-0066~Cenozoic]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic.public|Era-0066~Cenozoic.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic.internal|Era-0066~Cenozoic.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic.protect|Era-0066~Cenozoic.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic.private|Era-0066~Cenozoic.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic.personal|Era-0066~Cenozoic.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic.secret|Era-0066~Cenozoic.secret]]"
+- '[[../../../WikiData/WD~Cenozoic,102416|WD~Cenozoic,102416]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic|Era-0066~Cenozoic]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic.public|Era-0066~Cenozoic.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic.internal|Era-0066~Cenozoic.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic.protect|Era-0066~Cenozoic.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic.private|Era-0066~Cenozoic.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic.personal|Era-0066~Cenozoic.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic.secret|Era-0066~Cenozoic.secret]]'
 dv_has_name_bg: пеозой
 dv_has_name_cs: Kenozoikum
 dv_has_name_da: Kænozoisk
@@ -129,11 +259,10 @@ dv_has_name_sl: kenozoik
 dv_has_name_sv: kenozoikum
 dv_has_name_zh: 新生代
 dv_has_name_abbreviated: CZ
-dv_has_time_started: "-66.000e6"
-dv_has_time_stopped: "0.002e6"
-dv_has_text_of_color: "0xF2F91D"
+dv_has_time_started: -66.000e6
+dv_has_time_stopped: 0.002e6
+dv_has_text_of_color: 0xF2F91D
 ---
-
 # [[Era-0066~Cenozoic]] 
 
 #is_a_/time_/Era 

@@ -1,9 +1,73 @@
 ---
 aliases:
-  - ECLAC
-  - CEPAL
-  - UNECLAC
+- CEPAL
+- Comision Econòmega de l'Amèrica Latina e Caràibi
+- Comisión Económica para América Latina y el Caribe
+- Comissió Econòmica per a Amèrica Llatina i el Carib
+- Comissão Econômica para a América Latina e o Caribe
+- Commission économique pour l'Amérique latine et les Caraïbes
+- Commissione Economica per l'America Latina e i Caraibi
+- Dei sameinte nasjonanes økonomiske kommisjon for Latin-Amerika og Karibia
+- ECLAC
+- Economische Commissie voor Latijns-Amerika en het Caribisch Gebied
+- Ekonomska komisija Združenih narodov za Latinsko Ameriko in Karibe
+- FN:s ekonomiska kommission för Latinamerika och Karibien
+- FNs økonomiske kommisjon for Latin-Amerika og Karibia
+- Hospodárska komisia pre Latinskú Ameriku a Karibik
+- Hospodářská komise pro Latinskou Ameriku a Karibik
+- Komisi Ekonomi Perserikatan Bangsa-Bangsa untuk Amerika Latin dan Karibia
+- Komisiono Ekonomia por Latinameriko kaj Karibio
+- Komisja Gospodarcza Narodów Zjednoczonych ds. Ameryki Łacińskiej i Karaibów
+- Latin Amerika Ülkeleri Ekonomik Komisyonu
+- Latinoamerikarako eta Kariberako Batzorde Ekonomikoa
+- Latın Amerikası İqtisadi Komissiyası
+- Suruhanjaya Ekonomi Pertubuhan Bangsa-Bangsa Bersatu untuk Amerika Latin dan Caribbean
+- Taseqqamut tadamsant i Temrikt talatint d Karayib
+- UNECLAC
+- United Nations Economic Commission for Latin America and the Caribbean
+- Wirtschaftskommission für Lateinamerika und die Karibik
+- Економічна комісія ООН з Латинської Америки та Карибів
+- Економска комисија ОУН за Латинску Америку и Карибе
+- Экономическая комиссия для Латинской Америки и Карибского бассейна
+- اللجنه الاقتصاديه لامريكا اللاتينيه ومنطقة البحر الكاريبى التابعه للامم المتحده
+- مفوضية الأمم المتحدة الاقتصادية لأمريكا اللاتينية وجزر الكاريبي
+- 国際連合ラテンアメリカ・カリブ経済委員会
+- 拉丁美洲和加勒比经济委员会
+- 국제 연합 라틴아메리카 카리브 경제 위원회
 has_id_wikidata: Q32874
+dv_has_:
+  name_:
+    ar: مفوضية الأمم المتحدة الاقتصادية لأمريكا اللاتينية وجزر الكاريبي
+    arz: اللجنه الاقتصاديه لامريكا اللاتينيه ومنطقة البحر الكاريبى التابعه للامم المتحده
+    az: Latın Amerikası İqtisadi Komissiyası
+    ca: Comissió Econòmica per a Amèrica Llatina i el Carib
+    cs: Hospodářská komise pro Latinskou Ameriku a Karibik
+    de: Wirtschaftskommission für Lateinamerika und die Karibik
+    en: United Nations Economic Commission for Latin America and the Caribbean
+    eo: Komisiono Ekonomia por Latinameriko kaj Karibio
+    es: Comisión Económica para América Latina y el Caribe
+    eu: Latinoamerikarako eta Kariberako Batzorde Ekonomikoa
+    fr: Commission économique pour l'Amérique latine et les Caraïbes
+    id: Komisi Ekonomi Perserikatan Bangsa-Bangsa untuk Amerika Latin dan Karibia
+    it: Commissione Economica per l'America Latina e i Caraibi
+    ja: 国際連合ラテンアメリカ・カリブ経済委員会
+    kab: Taseqqamut tadamsant i Temrikt talatint d Karayib
+    ko: 국제 연합 라틴아메리카 카리브 경제 위원회
+    ms: Suruhanjaya Ekonomi Pertubuhan Bangsa-Bangsa Bersatu untuk Amerika Latin dan Caribbean
+    nb: FNs økonomiske kommisjon for Latin-Amerika og Karibia
+    nl: Economische Commissie voor Latijns-Amerika en het Caribisch Gebied
+    nn: Dei sameinte nasjonanes økonomiske kommisjon for Latin-Amerika og Karibia
+    pl: Komisja Gospodarcza Narodów Zjednoczonych ds. Ameryki Łacińskiej i Karaibów
+    pt: Comissão Econômica para a América Latina e o Caribe
+    ru: Экономическая комиссия для Латинской Америки и Карибского бассейна
+    sk: Hospodárska komisia pre Latinskú Ameriku a Karibik
+    sl: Ekonomska komisija Združenih narodov za Latinsko Ameriko in Karibe
+    sr: Економска комисија ОУН за Латинску Америку и Карибе
+    sv: FN:s ekonomiska kommission för Latinamerika och Karibien
+    tr: Latin Amerika Ülkeleri Ekonomik Komisyonu
+    uk: Економічна комісія ООН з Латинської Америки та Карибів
+    vec: Comision Econòmega de l'Amèrica Latina e Caràibi
+    zh: 拉丁美洲和加勒比经济委员会
 ---
 # [[UNECLAC]] 
 

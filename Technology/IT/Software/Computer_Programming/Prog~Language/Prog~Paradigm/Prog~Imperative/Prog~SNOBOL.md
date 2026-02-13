@@ -1,7 +1,47 @@
 ---
 has_id_wikidata: Q522041
+dv_has_:
+  name_:
+    ar: سنوبول
+    az: SNOBOL
+    bg: SNOBOL
+    ca: Snobol
+    cs: SNOBOL
+    da: SNOBOL
+    de: SNOBOL
+    en: SNOBOL
+    eo: SNOBOL
+    es: Snobol
+    fa: زبان اسنوبول
+    fi: SNOBOL
+    fr: String Oriented Symbolic Language
+    ga: SNOBOL
+    he: SNOBOL
+    it: SNOBOL
+    ja: SNOBOL
+    kk: Снобол
+    ko: SNOBOL
+    mul: SNOBOL
+    nb: SNOBOL
+    nl: SNOBOL
+    nn: SNOBOL
+    pl: Snobol
+    pt: SNOBOL 4
+    ro: SNOBOL
+    ru: Снобол
+    sv: SNOBOL
+    tr: SNOBOL
+    uk: Snobol
+    vec: SNOBOL
+    zh: SNOBOL
+aliases:
+- SNOBOL
+- SNOBOL 4
+- String Oriented Symbolic Language
+- Снобол
+- زبان اسنوبول
+- سنوبول
 ---
-
 # [[Prog~SNOBOL]] 
 
 #is_a_/ComputerLanguage 

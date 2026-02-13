@@ -1,8 +1,98 @@
 ---
 has_id_wikidata: Q593053
+dv_has_:
+  name_:
+    ar: القطع بالليزر
+    ast: Corte con láser
+    az: Lazerlə kəsmə
+    ba: Металдарҙы юғары энергия менән эшкәртеү
+    be-tarask: лазэрная рэзка
+    bg: Лазерно рязане
+    ca: tallat làser
+    cs: řezání laserem
+    da: Laserskæring
+    de: Laserschneiden
+    el: Κοπή με λέιζερ
+    en: laser cutting
+    en-ca: Laser cutting
+    en-gb: Laser cutting
+    eo: lasera tranĉado
+    es: Corte con láser
+    et: Laserlõikus
+    eu: Laserraren bidezko ebaketa
+    fa: برش لیزری
+    fi: Laserleikkaus
+    fr: Découpe laser
+    he: חיתוך בלייזר
+    hr: Rezanje laserom
+    hu: Lézervágás
+    id: Laser cutting
+    ja: レーザ切断
+    ko: 레이저 절단
+    lv: lāzergriešana
+    mr: लेझर कटर
+    nb: Laserskjæring
+    nl: lasersnijden
+    pl: Cięcie laserowe
+    pt: Corte e gravação a laser
+    ro: tăiere cu laser
+    ru: лазерная резка
+    sh: Rezanje laserom
+    sl: Lasersko rezanje
+    sr: Rezanje laserom
+    sv: Laserskärning
+    ta: சீரொளி வெட்டு
+    tr: Lazer kesim
+    uk: лазерне різання
+    uz: Lazerli kesish
+    vi: Cắt bằng laser
+    yue: 激光切割
+    zh: 鐳射切割
+    zh-cn: 激光切割
+    zh-hant: 雷射切割
+aliases:
+- Cięcie laserowe
+- Corte con láser
+- Corte e gravação a laser
+- Cắt bằng laser
+- Découpe laser
+- laser cutting
+- lasera tranĉado
+- Laserleikkaus
+- Laserlõikus
+- Laserraren bidezko ebaketa
+- Laserschneiden
+- Laserskjæring
+- Lasersko rezanje
+- Laserskärning
+- Laserskæring
+- lasersnijden
+- Lazer kesim
+- Lazerli kesish
+- Lazerlə kəsmə
+- Lézervágás
+- lāzergriešana
+- Rezanje laserom
+- tallat làser
+- tăiere cu laser
+- řezání laserem
+- Κοπή με λέιζερ
+- лазерная резка
+- лазерне різання
+- Лазерно рязане
+- лазэрная рэзка
+- Металдарҙы юғары энергия менән эшкәртеү
+- חיתוך בלייזר
+- القطع بالليزر
+- برش لیزری
+- लेझर कटर
+- சீரொளி வெட்டு
+- レーザ切断
+- 激光切割
+- 鐳射切割
+- 雷射切割
+- 레이저 절단
 ---
-
-
 # [[Laser_Cutting]] 
 
 #is_/same_as :: [[WD~Laser_cutting,593053]] 

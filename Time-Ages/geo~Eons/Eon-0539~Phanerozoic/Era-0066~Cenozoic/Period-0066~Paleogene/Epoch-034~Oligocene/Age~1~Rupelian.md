@@ -1,34 +1,46 @@
 ---
 aliases:
-  - Rupelian
-  - Рупел
-  - Rupel
-  - Rupelien
-  - Rupelium
-  - Rupeliense
-  - Rupeli
-  - Rupélien
-  - rupeli
-  - rupeliano
-  - ルペル期
-  - Rupelis
-  - Rupeliën
-  - Rupeliano
-  - rupel
-  - rupelij
-  - 鲁珀利期
+- Rupel
+- Rupeli
+- Rupelian
+- rupeliano
+- Rupelianu
+- Rupeliar
+- Rupelien
+- Rupeliense
+- rupelij
+- Rupelis
+- Rupelium
+- Rupelià
+- Rupeliën
+- Rupilianu
+- Rupélien
+- Rūpela stāvs
+- Рупел
+- рюпельский ярус
+- Рюпельський ярус
+- רופליאן
+- الروبيلي
+- روپلین
+- ルペリアン
+- ルペル期
+- 魯培爾階
+- 鲁培尔期
+- 鲁培尔阶
+- 鲁珀利期
+- 루펠절
 has_id_wikidata: Q508633
-named_by: "[[_Standards/WikiData/WD~André_Dumont,519775]]"
+named_by: '[[_Standards/WikiData/WD~André_Dumont,519775]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-different_from: "[[_Standards/WikiData/WD~Rupel,1434473]]"
-named_after: "[[_Standards/WikiData/WD~Rupel,1434473]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Rupelian,24068615]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Rupelian,133858814]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+different_from: '[[_Standards/WikiData/WD~Rupel,1434473]]'
+named_after: '[[_Standards/WikiData/WD~Rupel,1434473]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Rupelian,24068615]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Rupelian,133858814]]'
 coordinate_location: Point(13.6011 43.5328)
-significant_place: "[[_Standards/WikiData/WD~Massignano,56073]]"
+significant_place: '[[_Standards/WikiData/WD~Massignano,56073]]'
 end_time: -28100000-01-01T00:00:00Z
 start_time: -33900000-01-01T00:00:00Z
 Commons_category: Rupelian
@@ -36,60 +48,83 @@ sRGB_color_hex_triplet: FED9A2
 described_at_URL: https://popups.uliege.be/1374-8505/index.php?id=1108
 dv_has_:
   duration_:
-    years: "6.080e+6"
-  previous_:
-    item: "[[../Epoch-056~Eocene/Age~4~Priabonian|Age~4~Priabonian]]"
-  next_:
-    item: "[[Age~2~Chattian]]"
+    years: 6.080e+6
   name_:
+    abbreviated: e8
+    af: Rupelium
+    ar: الروبيلي
+    ast: Rupelianu
     bg: Рупел
+    bs: Rupelij
+    ca: Rupelià
     cs: Rupel
     da: Rupelien
-    de: Rupelium
+    de: Rupel
+    en: Rupelian
     es: Rupeliense
     et: Rupeli
+    eu: Rupeliar
+    fa: روپلین
     fi: Rupel
     fr: Rupélien
+    gl: Rupeliano
+    he: רופליאן
     hu: rupeli
-    it: rupeliano
-    ja: ルペル期
+    id: Rupelium
+    it: Rupeliano
+    ja: ルペリアン
+    ko: 루펠절
     lt: Rupelis
-    nl: Rupeliën
+    lv: Rūpela stāvs
+    nds: Rupelium
+    nl: Rupelien
+    nn: rupel
     no: Rupel
-    pl: Rupel
+    pl: rupel
     pt: Rupeliano
+    ru: рюпельский ярус
+    scn: Rupilianu
+    sh: Rupel
     sk: rupel
     sl: rupelij
     sv: rupel
-    zh: 鲁珀利期
-    abbreviated: e8
-  time_:
-    started: "-33.90e6"
-    stopped: "-27.82e6"
+    uk: Рюпельський ярус
+    vec: Rupelian
+    zh: 鲁培尔期
+    zh-hans: 鲁培尔阶
+    zh-hant: 魯培爾階
+    zh-hk: 魯培爾階
+  next_:
+    item: '[[Age~2~Chattian]]'
+  previous_:
+    item: '[[../Epoch-056~Eocene/Age~4~Priabonian|Age~4~Priabonian]]'
   text_of_:
-    color: "0xFED99A"
+    color: 0xFED99A
+  time_:
+    started: -33.90e6
+    stopped: -27.82e6
 dv_is_:
   same_as:
-    - "[[WD~Rupelian,508633]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~1~Rupelian|Age~1~Rupelian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~1~Rupelian.public|Age~1~Rupelian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~1~Rupelian.internal|Age~1~Rupelian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~1~Rupelian.protect|Age~1~Rupelian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~1~Rupelian.private|Age~1~Rupelian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~1~Rupelian.personal|Age~1~Rupelian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~1~Rupelian.secret|Age~1~Rupelian.secret]]"
-dv_has_duration_years: "6.080e+6"
-dv_has_previous_item: "[[../Epoch-056~Eocene/Age~4~Priabonian|Age~4~Priabonian]]"
-dv_has_next_item: "[[Age~2~Chattian]]"
+  - '[[WD~Rupelian,508633]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~1~Rupelian|Age~1~Rupelian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~1~Rupelian.public|Age~1~Rupelian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~1~Rupelian.internal|Age~1~Rupelian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~1~Rupelian.protect|Age~1~Rupelian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~1~Rupelian.private|Age~1~Rupelian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~1~Rupelian.personal|Age~1~Rupelian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~1~Rupelian.secret|Age~1~Rupelian.secret]]'
+dv_has_duration_years: 6.080e+6
+dv_has_previous_item: '[[../Epoch-056~Eocene/Age~4~Priabonian|Age~4~Priabonian]]'
+dv_has_next_item: '[[Age~2~Chattian]]'
 dv_is_same_as:
-  - "[[WD~Rupelian,508633]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~1~Rupelian|Age~1~Rupelian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~1~Rupelian.public|Age~1~Rupelian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~1~Rupelian.internal|Age~1~Rupelian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~1~Rupelian.protect|Age~1~Rupelian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~1~Rupelian.private|Age~1~Rupelian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~1~Rupelian.personal|Age~1~Rupelian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~1~Rupelian.secret|Age~1~Rupelian.secret]]"
+- '[[WD~Rupelian,508633]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~1~Rupelian|Age~1~Rupelian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~1~Rupelian.public|Age~1~Rupelian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~1~Rupelian.internal|Age~1~Rupelian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~1~Rupelian.protect|Age~1~Rupelian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~1~Rupelian.private|Age~1~Rupelian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~1~Rupelian.personal|Age~1~Rupelian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~1~Rupelian.secret|Age~1~Rupelian.secret]]'
 dv_has_name_bg: Рупел
 dv_has_name_cs: Rupel
 dv_has_name_da: Rupelien
@@ -111,9 +146,9 @@ dv_has_name_sl: rupelij
 dv_has_name_sv: rupel
 dv_has_name_zh: 鲁珀利期
 dv_has_name_abbreviated: e8
-dv_has_time_started: "-33.90e6"
-dv_has_time_stopped: "-27.82e6"
-dv_has_text_of_color: "0xFED99A"
+dv_has_time_started: -33.90e6
+dv_has_time_stopped: -27.82e6
+dv_has_text_of_color: 0xFED99A
 ---
 # [[Age~1~Rupelian]] 
 

@@ -1,39 +1,160 @@
 ---
-has_time_started: 1944-07-04 
+has_time_started: 1944-07-04
 aliases:
+- Bankiga Aduunka
+- Dünya Bankası Grubu
+- Groupe de la Banque mondiale
+- Grup Bank Dunia
+- Grup del Banc Mundial
+- Grupa Svetske banke
+- Grupa Svjetske banke
+- Grupo Banco Mundial
+- Grupo del Banco Mundial
+- Grupo di Banko Mundial
+- Gruppo della Banca Mondiale
+- Grupul Băncii Mondiale
+- Grŵp Banc y Byd
+- Jahon banki guruhi
+- Kumpulan Bank Dunia
+- Kundi la Benki ya Dunia
+- Maailmanpankkiryhmä
+- Monda Banka Grupo
+- Munduko Bankuaren Taldea
+- Nhóm Ngân hàng Thế giới
+- Pangkat ng Bangkong Pandaigdig
+- Skupina Svetovej banky
+- Skupina Svetovne banke
+- Skupina Světové banky
+- Sè-kài Gîn-hâng Chi̍p-thoân
+- Verdensbankgruppen
+- Världsbanksgruppen
+- Weltbankgruppe
+- World Bank Group
+- Όμιλος Παγκόσμιας Τράπεζας
+- Бөтендөнья банкы төркеме
+- Бөтә донъя банкы төркөмө
+- Група на Световната банка
+- Група Світового банку
+- Група Сусьветнага банку
+- Групација на Светската банка
+- Группа Всемирного банка
+- Дэлхийн Банк Групп
+- Համաշխարհային բանկի խումբ
+- קבוצת הבנק העולמי
+- مجموعة البنك الدولي
+- ورلڊ بئنڪ گروپ
+- گروه بانک جهانی
+- گرووپی بانکی جیھانی
+- विश्व बैङ्क समूह
+- বিশ্ব ব্যাংক গোষ্ঠী
+- ਵਿਸ਼ਵ ਬੈਂਕ ਗਰੁੱਪ
+- உலக வங்கிக் குழுமம்
+- กลุ่มธนาคารโลก
+- ကမ္ဘာ့ဘဏ်အုပ်စု
+- 世界銀行グループ
+- 世界銀行集團
+- 世界银行集团
+- 세계은행 그룹
 has_id_wikidata: Q320863
-partnership_with: "[[_Standards/WikiData/WD~International_Civil_Aviation_Organization,125761]]"
+partnership_with: '[[_Standards/WikiData/WD~International_Civil_Aviation_Organization,125761]]'
 different_from:
-  - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
-  - "[[_Standards/WikiData/WD~World_Bank,7164]]"
+- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[_Standards/WikiData/WD~World_Bank,7164]]'
 child_organization_or_unit:
-  - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
-  - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
-  - "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
-  - "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
-  - "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
-funder: "[[_Standards/WikiData/WD~Open_Society_Foundations,786194]]"
-member_of: "[[_Standards/WikiData/WD~Digital_Preservation_Coalition,5275956]]"
-instance_of: "[[_Standards/WikiData/WD~specialized_agency_of_the_United_Nations,15925165]]"
-has_part_s_: "[[_Standards/WikiData/WD~World_Bank,7164]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
-headquarters_location: "[[_Standards/WikiData/WD~Washington,_D.C.,61]]"
+- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]'
+- '[[_Standards/WikiData/WD~International_Development_Association,827525]]'
+- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
+- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
+funder: '[[_Standards/WikiData/WD~Open_Society_Foundations,786194]]'
+member_of: '[[_Standards/WikiData/WD~Digital_Preservation_Coalition,5275956]]'
+instance_of: '[[_Standards/WikiData/WD~specialized_agency_of_the_United_Nations,15925165]]'
+has_part_s_: '[[_Standards/WikiData/WD~World_Bank,7164]]'
+country: '[[_Standards/WikiData/WD~United_States,30]]'
+headquarters_location: '[[_Standards/WikiData/WD~Washington,_D.C.,61]]'
 social_media_followers: 3785996
 image: http://commons.wikimedia.org/wiki/Special:FilePath/World%20Bank%20building%20at%20Washington.jpg
 Commons_category: World Bank Group
 short_name:
-  - WBG
-  - GBM
-  - GBM
+- WBG
+- GBM
+- GBM
 inception: 1944-07-04T00:00:00Z
 logo_image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Grupo%20Banco%20Mundial%20%28Imagotipo%29.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/World%20Bank%20Group%20logo.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Grupo%20Banco%20Mundial%20%28Imagotipo%29.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/World%20Bank%20Group%20logo.svg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/World%20Bank%20Group.png
 official_website: https://www.worldbank.org/en/home
-ISNI: "0000000121555062"
+ISNI: 0000000121555062
+dv_has_:
+  name_:
+    ar: مجموعة البنك الدولي
+    ba: Бөтә донъя банкы төркөмө
+    be-tarask: Група Сусьветнага банку
+    bg: Група на Световната банка
+    bn: বিশ্ব ব্যাংক গোষ্ঠী
+    ca: Grup del Banc Mundial
+    ckb: گرووپی بانکی جیھانی
+    cs: Skupina Světové banky
+    cy: Grŵp Banc y Byd
+    de: Weltbankgruppe
+    el: Όμιλος Παγκόσμιας Τράπεζας
+    en: World Bank Group
+    en-ca: World Bank Group
+    en-gb: World Bank Group
+    eo: Monda Banka Grupo
+    es: Grupo del Banco Mundial
+    eu: Munduko Bankuaren Taldea
+    fa: گروه بانک جهانی
+    fi: Maailmanpankkiryhmä
+    fr: Groupe de la Banque mondiale
+    he: קבוצת הבנק העולמי
+    hi: विश्व बैङ्क समूह
+    hr: Grupa Svjetske banke
+    hy: Համաշխարհային բանկի խումբ
+    id: Grup Bank Dunia
+    it: Gruppo della Banca Mondiale
+    ja: 世界銀行グループ
+    ko: 세계은행 그룹
+    mk: Групација на Светската банка
+    mn: Дэлхийн Банк Групп
+    ms: Kumpulan Bank Dunia
+    my: ကမ္ဘာ့ဘဏ်အုပ်စု
+    nan: Sè-kài Gîn-hâng Chi̍p-thoân
+    nb: Verdensbankgruppen
+    nl: World Bank Group
+    pa: ਵਿਸ਼ਵ ਬੈਂਕ ਗਰੁੱਪ
+    pap: Grupo di Banko Mundial
+    pt: Grupo Banco Mundial
+    pt-br: Grupo Banco Mundial
+    ro: Grupul Băncii Mondiale
+    ru: Группа Всемирного банка
+    sd: ورلڊ بئنڪ گروپ
+    sk: Skupina Svetovej banky
+    sl: Skupina Svetovne banke
+    so: Bankiga Aduunka
+    sr: Grupa Svetske banke
+    sv: Världsbanksgruppen
+    sw: Kundi la Benki ya Dunia
+    ta: உலக வங்கிக் குழுமம்
+    th: กลุ่มธนาคารโลก
+    tl: Pangkat ng Bangkong Pandaigdig
+    tr: Dünya Bankası Grubu
+    tt: Бөтендөнья банкы төркеме
+    uk: Група Світового банку
+    uz: Jahon banki guruhi
+    vi: Nhóm Ngân hàng Thế giới
+    yue: 世界銀行集團
+    zh: 世界銀行集團
+    zh-cn: 世界银行集团
+    zh-hans: 世界银行集团
+    zh-hant: 世界銀行集團
+    zh-hk: 世界銀行集團
+    zh-mo: 世界銀行集團
+    zh-my: 世界银行集团
+    zh-sg: 世界银行集团
+    zh-tw: 世界銀行集團
 ---
-
 # [[World_Bank_Group]] 
 
 #is_/same_as :: [[WD~World_Bank_Group,320863]] 

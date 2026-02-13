@@ -1,63 +1,157 @@
 ---
 aliases:
-  - Jiangshanian
+- Jiangshanian
+- Sony Music
+- Сони Мюзик
+- סוני מיוזיק
+- سوني ميوزيك
+- سونی میوزِک
+- سونی میوزک
+- سونی میوزیک
+- سۆنی میوزک
+- सोनी म्यूजिक एंटरटेनमेंट
+- সনি মিউজিক
+- സോണി മ്യൂസിക്
+- ဆိုနီ တေးဂီတ ဖျော်ဖြေရေး
+- ソニーミュージック
+- 索尼音樂
+- 소니 뮤직 엔터테인먼트
 has_id_wikidata: Q330629
-operating_area: "[[_Standards/WikiData/WD~worldwide,13780930]]"
-different_from: "[[_Standards/WikiData/WD~Sony_Music,56760250]]"
-operator: "[[_Standards/WikiData/WD~Sony_Music,56760250]]"
-discography: "[[_Standards/WikiData/WD~Sony_Music_catalog,105047442]]"
-instance_of: "[[_Standards/WikiData/WD~record_label,18127]]"
+operating_area: '[[_Standards/WikiData/WD~worldwide,13780930]]'
+different_from: '[[_Standards/WikiData/WD~Sony_Music,56760250]]'
+operator: '[[_Standards/WikiData/WD~Sony_Music,56760250]]'
+discography: '[[_Standards/WikiData/WD~Sony_Music_catalog,105047442]]'
+instance_of: '[[_Standards/WikiData/WD~record_label,18127]]'
 social_media_followers: 62071
-Labelcode: "06667"
+Labelcode: 06667
 inception: 1991-01-01T00:00:00Z
 name: Sony Music
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Music%20Entertainment%20Logo%202023.svg
 official_website: http://www.sonymusic.com/
 X_Twitter_username:
-  - sonymusicglobal
-  - sonymusicsg
+- sonymusicglobal
+- sonymusicsg
 dv_has_:
   duration_:
-    years: "4.500e+6"
-  previous_:
-    item: "[[Age-497~Paibian]]"
-  next_:
-    item: "[[Age-490~Cambrian_Stage_10]]"
+    years: 4.500e+6
   name_:
-    zh: 江山期
     abbreviated: ep9
-  time_:
-    started: "-494.0e6"
-    stopped: "-489.5e6"
+    an: Sony Music
+    ar: سوني ميوزيك
+    ast: Sony Music
+    az: Sony Music
+    azb: سونی میوزیک
+    be: Sony Music
+    bg: Сони Мюзик
+    bn: সনি মিউজিক
+    ca: Sony Music
+    ckb: سۆنی میوزک
+    cs: Sony Music
+    cy: Sony Music
+    da: Sony Music
+    de: Sony Music
+    el: Sony Music
+    en: Sony Music
+    es: Sony Music
+    es-419: Sony Music
+    et: Sony Music
+    eu: Sony Music
+    fa: سونی میوزیک
+    fi: Sony Music
+    fit: Sony Music
+    fr: Sony Music
+    ga: Sony Music
+    gd: Sony Music
+    gl: Sony Music
+    gv: Sony Music
+    he: סוני מיוזיק
+    hi: सोनी म्यूजिक एंटरटेनमेंट
+    hu: Sony Music
+    hy: Sony Music
+    id: Sony Music
+    it: Sony Music
+    ja: ソニーミュージック
+    ka: Sony Music
+    ko: 소니 뮤직 엔터테인먼트
+    ks: سونی میوزِک
+    lt: Sony Music
+    lv: Sony Music
+    ml: സോണി മ്യൂസിക്
+    ms: Sony Music
+    mul: Sony Music
+    my: ဆိုနီ တေးဂီတ ဖျော်ဖြေရေး
+    nan: Sony Music
+    nb: Sony Music
+    nl: Sony Music
+    nn: Sony Music
+    pl: Sony Music
+    pt: Sony Music
+    pt-br: Sony Music
+    rmf: Sony Music
+    ro: Sony Music
+    ru: Sony Music
+    sco: Sony Music
+    se: Sony Music
+    sje: Sony Music
+    sju: Sony Music
+    sk: Sony Music
+    sl: Sony Music
+    sma: Sony Music
+    smj: Sony Music
+    smn: Sony Music
+    sms: Sony Music
+    sr: Sony Music
+    sv: Sony Music
+    th: Sony Music
+    tr: Sony Music
+    uk: Sony Music
+    ur: سونی میوزک
+    vec: Sony Music
+    vi: Sony Music
+    wuu: 索尼音樂
+    zh: 索尼音樂
+    zh-cn: 索尼音樂
+    zh-hans: Sony Music
+    zh-hant: Sony Music
+    zh-hk: Sony Music
+    zh-sg: Sony Music
+    zh-tw: Sony Music
+  next_:
+    item: '[[Age-490~Cambrian_Stage_10]]'
+  previous_:
+    item: '[[Age-497~Paibian]]'
   text_of_:
-    color: "0xD9F0BB"
+    color: 0xD9F0BB
+  time_:
+    started: -494.0e6
+    stopped: -489.5e6
 dv_is_:
   same_as:
-    - "[[WD~Jiangshanian,33062]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-494~Jiangshanian|Age-494~Jiangshanian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-494~Jiangshanian.public|Age-494~Jiangshanian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-494~Jiangshanian.internal|Age-494~Jiangshanian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-494~Jiangshanian.protect|Age-494~Jiangshanian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-494~Jiangshanian.private|Age-494~Jiangshanian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-494~Jiangshanian.personal|Age-494~Jiangshanian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-494~Jiangshanian.secret|Age-494~Jiangshanian.secret]]"
-dv_has_duration_years: "4.500e+6"
-dv_has_previous_item: "[[Age-497~Paibian]]"
-dv_has_next_item: "[[Age-490~Cambrian_Stage_10]]"
+  - '[[WD~Jiangshanian,33062]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-494~Jiangshanian|Age-494~Jiangshanian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-494~Jiangshanian.public|Age-494~Jiangshanian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-494~Jiangshanian.internal|Age-494~Jiangshanian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-494~Jiangshanian.protect|Age-494~Jiangshanian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-494~Jiangshanian.private|Age-494~Jiangshanian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-494~Jiangshanian.personal|Age-494~Jiangshanian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-494~Jiangshanian.secret|Age-494~Jiangshanian.secret]]'
+dv_has_duration_years: 4.500e+6
+dv_has_previous_item: '[[Age-497~Paibian]]'
+dv_has_next_item: '[[Age-490~Cambrian_Stage_10]]'
 dv_is_same_as:
-  - "[[WD~Jiangshanian,33062]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-494~Jiangshanian|Age-494~Jiangshanian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-494~Jiangshanian.public|Age-494~Jiangshanian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-494~Jiangshanian.internal|Age-494~Jiangshanian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-494~Jiangshanian.protect|Age-494~Jiangshanian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-494~Jiangshanian.private|Age-494~Jiangshanian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-494~Jiangshanian.personal|Age-494~Jiangshanian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-494~Jiangshanian.secret|Age-494~Jiangshanian.secret]]"
+- '[[WD~Jiangshanian,33062]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-494~Jiangshanian|Age-494~Jiangshanian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-494~Jiangshanian.public|Age-494~Jiangshanian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-494~Jiangshanian.internal|Age-494~Jiangshanian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-494~Jiangshanian.protect|Age-494~Jiangshanian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-494~Jiangshanian.private|Age-494~Jiangshanian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-494~Jiangshanian.personal|Age-494~Jiangshanian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-494~Jiangshanian.secret|Age-494~Jiangshanian.secret]]'
 dv_has_name_zh: 江山期
 dv_has_name_abbreviated: ep9
-dv_has_time_started: "-494.0e6"
-dv_has_time_stopped: "-489.5e6"
-dv_has_text_of_color: "0xD9F0BB"
+dv_has_time_started: -494.0e6
+dv_has_time_stopped: -489.5e6
+dv_has_text_of_color: 0xD9F0BB
 ---
 # [[Age-494~Jiangshanian]] 
 

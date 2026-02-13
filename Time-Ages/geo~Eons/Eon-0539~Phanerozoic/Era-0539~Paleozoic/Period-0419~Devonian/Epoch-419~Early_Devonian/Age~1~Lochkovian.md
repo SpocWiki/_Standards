@@ -1,90 +1,110 @@
 ---
 aliases:
-  - Lochkovian
-  - Ложков
-  - Lochkov
-  - Lochkovien
-  - Lochkovium
-  - Lochkoviense
-  - Lochkovi
-  - lochkovi
-  - lochkoviano
-  - ロッコビアン期
-  - Lochkovis
-  - Lochkoviën
-  - Lochkow
-  - Lochkoviano
-  - lochkov
-  - lochkovij
-  - 洛赫科夫期
+- Lochkov
+- Lochkovi
+- Lochkovian
+- lochkoviano
+- Lochkovien
+- Lochkoviense
+- lochkovij
+- Lochkovis
+- Lochkovium
+- Lochkovià
+- Lochkoviën
+- Lochkow
+- lohkovij
+- Luccufianu
+- Tầng Lochkov
+- Жединський ярус
+- Ложков
+- лохковский ярус
+- اللوكوفي
+- لاخکووین
+- ロッコビアン期
+- ロッコヴィアン
+- 洛赫科夫期
+- 洛霍考夫階
+- 로흐코프절
 has_id_wikidata: Q1089613
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-significant_place: "[[_Standards/WikiData/WD~Klonk,1131298]]"
-named_after: "[[_Standards/WikiData/WD~Lochkov,2456160]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Lochkovian,134611894]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+significant_place: '[[_Standards/WikiData/WD~Klonk,1131298]]'
+named_after: '[[_Standards/WikiData/WD~Lochkov,2456160]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Lochkovian,134611894]]'
 coordinate_location: Point(14.0611 49.9008)
 end_time: -410800000-01-01T00:00:00Z
 sRGB_color_hex_triplet: EEBA6E
 start_time: -419200000-01-01T00:00:00Z
 dv_has_:
   duration_:
-    years: "8.400e+6"
-  previous_:
-    item: "[[../../Period-0444~Silurian/Epoch-427~Ludlow/Age~2~Ludfordian|Age~2~Ludfordian]]"
-  next_:
-    item: "[[Age~2~Pragian]]"
+    years: 8.400e+6
   name_:
+    abbreviated: d1
+    af: Lochkovium
+    ar: اللوكوفي
     bg: Ложков
+    ca: Lochkovià
     cs: Lochkov
     da: Lochkovien
     de: Lochkovium
+    en: Lochkovian
     es: Lochkoviense
     et: Lochkovi
+    fa: لاخکووین
     fi: Lochkov
     fr: Lochkovien
     hu: lochkovi
-    it: lochkoviano
-    ja: ロッコビアン期
+    id: Lochkovium
+    it: Lochkoviano
+    ja: ロッコヴィアン
+    ko: 로흐코프절
     lt: Lochkovis
-    nl: Lochkoviën
+    nl: Lochkovien
+    nn: lochkov
     no: Lochkovium
     pl: Lochkow
     pt: Lochkoviano
+    ru: лохковский ярус
+    scn: Luccufianu
     sk: lochkov
-    sl: lochkovij
+    sl: lohkovij
     sv: lochkov
-    zh: 洛赫科夫期
-    abbreviated: d1
-  time_:
-    started: "-419.2e6"
-    stopped: "-410.8e6"
+    uk: Жединський ярус
+    vi: Tầng Lochkov
+    zh: 洛霍考夫階
+  next_:
+    item: '[[Age~2~Pragian]]'
+  previous_:
+    item: '[[../../Period-0444~Silurian/Epoch-427~Ludlow/Age~2~Ludfordian|Age~2~Ludfordian]]'
   text_of_:
-    color: "0xE5B75A"
+    color: 0xE5B75A
+  time_:
+    started: -419.2e6
+    stopped: -410.8e6
 dv_is_:
   same_as:
-    - "[[WD~Lochkovian,1089613]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~1~Lochkovian|Age~1~Lochkovian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~1~Lochkovian.public|Age~1~Lochkovian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~1~Lochkovian.internal|Age~1~Lochkovian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~1~Lochkovian.protect|Age~1~Lochkovian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~1~Lochkovian.private|Age~1~Lochkovian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~1~Lochkovian.personal|Age~1~Lochkovian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~1~Lochkovian.secret|Age~1~Lochkovian.secret]]"
-dv_has_duration_years: "8.400e+6"
-dv_has_previous_item: "[[../../Period-0444~Silurian/Epoch-427~Ludlow/Age~2~Ludfordian|Age~2~Ludfordian]]"
-dv_has_next_item: "[[Age~2~Pragian]]"
+  - '[[WD~Lochkovian,1089613]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~1~Lochkovian|Age~1~Lochkovian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~1~Lochkovian.public|Age~1~Lochkovian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~1~Lochkovian.internal|Age~1~Lochkovian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~1~Lochkovian.protect|Age~1~Lochkovian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~1~Lochkovian.private|Age~1~Lochkovian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~1~Lochkovian.personal|Age~1~Lochkovian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~1~Lochkovian.secret|Age~1~Lochkovian.secret]]'
+dv_has_duration_years: 8.400e+6
+dv_has_previous_item: '[[../../Period-0444~Silurian/Epoch-427~Ludlow/Age~2~Ludfordian|Age~2~Ludfordian]]'
+dv_has_next_item: '[[Age~2~Pragian]]'
 dv_is_same_as:
-  - "[[WD~Lochkovian,1089613]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~1~Lochkovian|Age~1~Lochkovian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~1~Lochkovian.public|Age~1~Lochkovian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~1~Lochkovian.internal|Age~1~Lochkovian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~1~Lochkovian.protect|Age~1~Lochkovian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~1~Lochkovian.private|Age~1~Lochkovian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~1~Lochkovian.personal|Age~1~Lochkovian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~1~Lochkovian.secret|Age~1~Lochkovian.secret]]"
+- '[[WD~Lochkovian,1089613]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~1~Lochkovian|Age~1~Lochkovian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~1~Lochkovian.public|Age~1~Lochkovian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~1~Lochkovian.internal|Age~1~Lochkovian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~1~Lochkovian.protect|Age~1~Lochkovian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~1~Lochkovian.private|Age~1~Lochkovian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~1~Lochkovian.personal|Age~1~Lochkovian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~1~Lochkovian.secret|Age~1~Lochkovian.secret]]'
 dv_has_name_bg: Ложков
 dv_has_name_cs: Lochkov
 dv_has_name_da: Lochkovien
@@ -106,9 +126,9 @@ dv_has_name_sl: lochkovij
 dv_has_name_sv: lochkov
 dv_has_name_zh: 洛赫科夫期
 dv_has_name_abbreviated: d1
-dv_has_time_started: "-419.2e6"
-dv_has_time_stopped: "-410.8e6"
-dv_has_text_of_color: "0xE5B75A"
+dv_has_time_started: -419.2e6
+dv_has_time_stopped: -410.8e6
+dv_has_text_of_color: 0xE5B75A
 ---
 # [[Age~1~Lochkovian]] 
 

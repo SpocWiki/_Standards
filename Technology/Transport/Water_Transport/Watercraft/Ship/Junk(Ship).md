@@ -1,14 +1,55 @@
 ---
 aliases:
-  - Dschunke
-  - 䑸
-  - zōng
-  - Junk(Ship)
+- conka
+- djonk
+- djunke
+- Djúnka
+- Dschunke
+- dzsunka
+- dżonka
+- Džonka
+- Džonki
+- džonkki
+- džunka
+- giunca
+- Iuncus
+- Jonca
+- joncă
+- Jong
+- Jonk
+- jonka (kema)
+- Jonko
+- jonque
+- junc
+- junco
+- junk
+- Junk(Ship)
+- junke
+- Junko
+- Kapal jung
+- Thuyền buồm Trung Quốc
+- zōng
+- ĵonko
+- Τζόγκα
+- џунка
+- джонка
+- ג'ונקה
+- جانک
+- جنك
+- ജങ്ക്
+- เรือสำเภา
+- ჯონკა
+- ジャンク
+- 䑸
+- 中国帆船
+- 中國帆船
+- 中式帆船
+- 정크
 has_id_wikidata: Q205011
 has_characteristic: '[[_Standards/WikiData/WD~robustness,403605]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
 subclass_of: '[[_Standards/WikiData/WD~sailboat,1075310]]'
 uses: '[[_Standards/WikiData/WD~bulkhead,12053830]]'
 instance_of: '[[_Standards/WikiData/WD~boat_type,16103215]]'
@@ -19,12 +60,77 @@ Nomenclature_for_Museum_Cataloging: 12695
 Commons_category: Junk (ship)
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Kangxi-Reise.jpg
 described_at_URL:
-  - https://ich.unesco.org/en/USL/00321
-  - https://ich.unesco.org/es/USL/00321
-  - https://ich.unesco.org/fr/USL/00321
+- https://ich.unesco.org/en/USL/00321
+- https://ich.unesco.org/es/USL/00321
+- https://ich.unesco.org/fr/USL/00321
 MIL_STD_2525_Symbol_Identification_Code: 10013000001401140000
+dv_has_:
+  name_:
+    ar: جنك
+    az: conka
+    be: джонка
+    be-tarask: джонка
+    bg: Джонка
+    bs: džunka
+    ca: junc
+    cs: džunka
+    da: junke
+    de: Dschunke
+    el: Τζόγκα
+    en: junk
+    eo: ĵonko
+    es: junco
+    et: Džonki
+    eu: Junko
+    fa: جانک
+    fi: džonkki
+    fr: jonque
+    gsw: Dschunke
+    he: ג'ונקה
+    hr: Džunka
+    hu: dzsunka
+    id: Kapal jung
+    io: Jonko
+    is: Djúnka
+    it: giunca
+    ja: ジャンク
+    ka: ჯონკა
+    ko: 정크
+    la: Iuncus
+    lt: Džonka
+    mk: џунка
+    ml: ജങ്ക്
+    ms: Jong
+    nb: djunke
+    nl: Jonk
+    oc: Jonca
+    pl: dżonka
+    pt: junco
+    ro: joncă
+    ru: джонка
+    sh: Džunka
+    sk: Džunka
+    sl: džunka
+    sr: Џунка
+    sr-ec: Џунка
+    sr-el: Džunka
+    sv: djonk
+    th: เรือสำเภา
+    tr: jong
+    uk: джонка
+    uz: jonka (kema)
+    vi: Thuyền buồm Trung Quốc
+    yue: 中式帆船
+    zh: 中国帆船
+    zh-cn: 中国帆船
+    zh-hans: 中国帆船
+    zh-hant: 中國帆船
+    zh-hk: 中國帆船
+    zh-mo: 中國帆船
+    zh-my: 中国帆船
+    zh-sg: 中国帆船
+    zh-tw: 中國帆船
 ---
-
 # [[Junk(Ship)]] 
 
 #is_/same_as :: [[WD~Junk,205011]] 

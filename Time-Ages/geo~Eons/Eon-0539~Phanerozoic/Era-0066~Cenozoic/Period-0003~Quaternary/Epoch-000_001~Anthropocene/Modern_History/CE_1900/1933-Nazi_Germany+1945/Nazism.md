@@ -1,39 +1,133 @@
 ---
 aliases:
-  - Nazismus
-  - Nationalsozialismus
-  - National Socialism
-  - Nazism
+- aalmuglâšsosialism
+- Chủ nghĩa Quốc xã
+- kansallissosialismi
+- Mɛ-ɛjaɖɛ yɔɔ lʊbɩyɛ lɩmaɣzɩyɛ
+- Nacional-Socialismo
+- nacionalsocializem
+- nacionalsocializm
+- Nacionalsocijalizam
+- nacionālsociālisms
+- nacismus
+- nacizam
+- nacizmas
+- Nacizmi
+- nacizmus
+- Nacėzmos
+- Naitsíochas
+- nasin Nasi
+- Nasionaal-Sosialisme
+- Nasional Sosializm
+- Nasism
+- Nasisma
+- Nasismi
+- nasissma
+- Nasjonaalsosjalisme
+- nasjonalsosialisme
+- Nasyonal sosyalizm
+- nationaalsocialisme
+- National Socialism
+- Nationalsocialisme
+- Nationalsozialismus
+- Nationaolsocialisme
+- natsionaalsotsialism
+- natsismm
+- Natsizm
+- Natsïaeth
+- Naziegezh
+- Nazieth
+- naziismo
+- Nazime
+- Nazionalsocialism
+- Nazionalsozialismo
+- Nazism
+- nazisma
+- Nazisme
+- Nazismo
+- nazismu
+- Nazismus
+- Nazisse
+- Naziunalsocialissem
+- nazizm
+- Nazzismo
+- nazzismu
+- Nazî
+- nemzetiszocializmus
+- Netasogädim
+- Nàsachd
+- Nási
+- Sosyalizmo nasyonal
+- Þēodlices gemǣnscipes rǣd
+- ναζισμός
+- милли сатисиялизем
+- націзм
+- націонал-соціалізм
+- нацизам
+- Нацизм
+- национал-социализм
+- националсоцијализам
+- националсоциализъм
+- нацыянал-сацыялізм
+- нозисм
+- նացիոնալ-սոցիալիզմը Գերմանիայում
+- נאציזם
+- نازية
+- نازيت
+- نازيه
+- نازیت
+- نازیزم
+- نازیسم
+- ߣߊߖ߭ߌߞߊ߲ߞߋ
+- नाजीवाद
+- नाझीवाद
+- नात्सीवाद
+- নাৎসিবাদ
+- ਨਾਜ਼ੀਵਾਦ
+- નાઝીવાદ
+- நாசிசம்
+- నాజీయిజం
+- ನಾಜಿಸಮ್
+- നാസിസം
+- නාසි වාදය
+- ระบอบนาซี
+- နာဇီ၊ နာဇိစမက်
+- ნაციონალ-სოციალიზმი
+- ナチズム
+- 納粹
+- 納粹主義
+- 纳粹主义
+- 나치즘
 has_id_wikidata: Q7310
 has_characteristic:
-  - "[[_Standards/WikiData/WD~Pan_Germanism,155812]]"
-  - "[[_Standards/WikiData/WD~militarism,177266]]"
-  - "[[_Standards/WikiData/WD~anti_communism,182121]]"
-  - "[[_Standards/WikiData/WD~German_nationalism,370744]]"
-  - "[[_Standards/WikiData/WD~anti_capitalism,389647]]"
-  - "[[_Standards/WikiData/WD~social_conservatism,1414298]]"
-  - "[[_Standards/WikiData/WD~antiliberalism,2853246]]"
-  - "[[_Standards/WikiData/WD~ultranationalism,38352698]]"
-  - "[[_Standards/WikiData/WD~Aryanism,85743247]]"
-  - "[[_Standards/WikiData/WD~authoritarianism,6229]]"
-  - "[[_Standards/WikiData/WD~racism,8461]]"
-  - "[[_Standards/WikiData/WD~antisemitism,22649]]"
-practiced_by: "[[_Standards/WikiData/WD~Nazi,574578]]"
+- '[[_Standards/WikiData/WD~Pan_Germanism,155812]]'
+- '[[_Standards/WikiData/WD~militarism,177266]]'
+- '[[_Standards/WikiData/WD~anti_communism,182121]]'
+- '[[_Standards/WikiData/WD~German_nationalism,370744]]'
+- '[[_Standards/WikiData/WD~anti_capitalism,389647]]'
+- '[[_Standards/WikiData/WD~social_conservatism,1414298]]'
+- '[[_Standards/WikiData/WD~antiliberalism,2853246]]'
+- '[[_Standards/WikiData/WD~ultranationalism,38352698]]'
+- '[[_Standards/WikiData/WD~Aryanism,85743247]]'
+- '[[_Standards/WikiData/WD~authoritarianism,6229]]'
+- '[[_Standards/WikiData/WD~racism,8461]]'
+- '[[_Standards/WikiData/WD~antisemitism,22649]]'
+practiced_by: '[[_Standards/WikiData/WD~Nazi,574578]]'
 maintained_by_WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject_Politics,5492483]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Germany,6871603]]"
-  - "[[_Standards/WikiData/WD~WikiProject_European_history,8486525]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Philosophy,8503311]]"
-  - "[[_Standards/WikiData/WD~WikiProject_LGBTQ+_studies,15092984]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Discrimination,15304988]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Jewish_history,21830231]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Nazism,5622957]]"
-instance_of: "[[_Standards/WikiData/WD~political_ideology,12909644]]"
-described_by_source: "[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]"
+- '[[_Standards/WikiData/WD~WikiProject_Politics,5492483]]'
+- '[[_Standards/WikiData/WD~WikiProject_Germany,6871603]]'
+- '[[_Standards/WikiData/WD~WikiProject_European_history,8486525]]'
+- '[[_Standards/WikiData/WD~WikiProject_Philosophy,8503311]]'
+- '[[_Standards/WikiData/WD~WikiProject_LGBTQ+_studies,15092984]]'
+- '[[_Standards/WikiData/WD~WikiProject_Discrimination,15304988]]'
+- '[[_Standards/WikiData/WD~WikiProject_Jewish_history,21830231]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Nazism,5622957]]'
+instance_of: '[[_Standards/WikiData/WD~political_ideology,12909644]]'
+described_by_source: '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~ethnic_supremacism,122167123]]"
-  - "[[_Standards/WikiData/WD~fascism,6223]]"
-  - "[[_Standards/WikiData/WD~antisemitism,22649]]"
+- '[[_Standards/WikiData/WD~ethnic_supremacism,122167123]]'
+- '[[_Standards/WikiData/WD~fascism,6223]]'
+- '[[_Standards/WikiData/WD~antisemitism,22649]]'
 OmegaWiki_Defined_Meaning: 351523
 BHCL_UUID: 1a269c25-3156-4b72-b3b6-e8aa46e153fd
 booru_tag: nazism
@@ -46,25 +140,164 @@ Krugosvet_article_archived_: istoriya/NATSIONAL-SOTSIALIZM_NATSIZM.html
 start_time: 1920-01-01T00:00:00Z
 dv_is_:
   same_as:
-    - "[[../../../../../../../../../WikiData/WD~Nazism,7310]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Nazism|Nazism]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Nazism.public|Nazism.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Nazism.internal|Nazism.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Nazism.protect|Nazism.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Nazism.private|Nazism.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Nazism.personal|Nazism.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Nazism.secret|Nazism.secret]]"
+  - '[[../../../../../../../../../WikiData/WD~Nazism,7310]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Nazism|Nazism]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Nazism.public|Nazism.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Nazism.internal|Nazism.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Nazism.protect|Nazism.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Nazism.private|Nazism.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Nazism.personal|Nazism.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Nazism.secret|Nazism.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../../WikiData/WD~Nazism,7310]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Nazism|Nazism]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Nazism.public|Nazism.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Nazism.internal|Nazism.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Nazism.protect|Nazism.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Nazism.private|Nazism.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Nazism.personal|Nazism.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Nazism.secret|Nazism.secret]]"
+- '[[../../../../../../../../../WikiData/WD~Nazism,7310]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Nazism|Nazism]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Nazism.public|Nazism.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Nazism.internal|Nazism.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Nazism.protect|Nazism.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Nazism.private|Nazism.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Nazism.personal|Nazism.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Nazism.secret|Nazism.secret]]'
+dv_has_:
+  name_:
+    af: Nasionaal-Sosialisme
+    an: Nazismo
+    ang: Þēodlices gemǣnscipes rǣd
+    ar: نازية
+    arz: نازيه
+    ast: nazismu
+    az: Nasional Sosializm
+    azb: نازیسم
+    bar: Nationalsozialismus
+    be: нацыянал-сацыялізм
+    be-tarask: нацыянал-сацыялізм
+    bg: националсоциализъм
+    bn: নাৎসিবাদ
+    br: Naziegezh
+    bs: nacizam
+    bxr: Нацизм
+    ca: nazisme
+    ckb: نازیزم
+    co: nazismu
+    cs: nacismus
+    cy: Natsïaeth
+    da: nazisme
+    de: Nationalsozialismus
+    de-ch: Nationalsozialismus
+    diq: Sosyalizmo nasyonal
+    el: ναζισμός
+    en: Nazism
+    en-ca: Nazism
+    en-gb: Nazism
+    eo: naziismo
+    es: nazismo
+    et: natsionaalsotsialism
+    eu: Nazionalsozialismo
+    fa: نازیسم
+    fi: kansallissosialismi
+    fo: Nasisma
+    fr: nazisme
+    fy: Nasjonaalsosjalisme
+    ga: Naitsíochas
+    gd: Nàsachd
+    gl: nazismo
+    gn: Nási
+    gsw: Nationalsozialismus
+    gu: નાઝીવાદ
+    he: נאציזם
+    hi: नात्सीवाद
+    hr: nacionalsocijalizam
+    hsb: nacionalsocializm
+    hu: nemzetiszocializmus
+    hy: նացիոնալ-սոցիալիզմը Գերմանիայում
+    ia: Nazismo
+    id: Nazisme
+    ie: Nationalsocialisme
+    io: Nazismo
+    is: Nasismi
+    it: nazismo
+    ja: ナチズム
+    ka: ნაციონალ-სოციალიზმი
+    kbp: Mɛ-ɛjaɖɛ yɔɔ lʊbɩyɛ lɩmaɣzɩyɛ
+    kk: нацизм
+    kn: ನಾಜಿಸಮ್
+    ko: 나치즘
+    ku: Nazî
+    kw: Nazieth
+    la: Nazismus
+    lb: Nationalsozialismus
+    lfn: Nazisme
+    li: Nationaolsocialisme
+    lld: Nazism
+    lmo: Nazionalsocialism
+    lt: nacizmas
+    lv: nacionālsociālisms
+    mg: Nazisma
+    mk: националсоцијализам
+    ml: നാസിസം
+    mn: Нацизм
+    mr: नाझीवाद
+    ms: Nazisme
+    my: နာဇီ၊ နာဇိစမက်
+    nap: Nazzismo
+    nb: nasjonalsosialisme
+    ne: नाजीवाद
+    nl: nationaalsocialisme
+    nn: nazisme
+    nqo: ߣߊߖ߭ߌߞߊ߲ߞߋ
+    oc: Nazisme
+    os: нацизм
+    pa: ਨਾਜ਼ੀਵਾਦ
+    pcd: Nazime
+    pl: nazizm
+    pms: Nasism
+    pt: Nacional-Socialismo
+    pt-br: Nacional-Socialismo
+    rm: Naziunalsocialissem
+    ro: nazism
+    ru: национал-социализм
+    rue: націзм
+    sah: Нацизм
+    scn: nazzismu
+    sco: Nazism
+    sd: نازيت
+    se: nazisma
+    sgs: Nacėzmos
+    sh: Nacionalsocijalizam
+    si: නාසි වාදය
+    sk: nacizmus
+    sl: nacionalsocializem
+    smj: nasissma
+    smn: aalmuglâšsosialism
+    sms: natsismm
+    sq: Nacizmi
+    sr: нацизам
+    su: Nazisme
+    sv: nazism
+    ta: நாசிசம்
+    te: నాజీయిజం
+    tg: нозисм
+    th: ระบอบนาซี
+    tl: Nazismo
+    tok: nasin Nasi
+    tr: Nasyonal sosyalizm
+    tt: милли сатисиялизем
+    uk: націонал-соціалізм
+    ur: نازیت
+    uz: Natsizm
+    vec: nazismo
+    vi: Chủ nghĩa Quốc xã
+    vo: Netasogädim
+    wa: Nazisse
+    war: Nazismo
+    wuu: 纳粹主义
+    xmf: ნაციონალ-სოციალიზმი
+    yi: נאציזם
+    yue: 納粹
+    zh: 纳粹主义
+    zh-cn: 纳粹主义
+    zh-hant: 納粹主義
+    zh-hk: 納粹主義
 ---
-
 # [[Nazism]] 
 
 #is_/same_as :: [[WD~Nazism,7310]] 

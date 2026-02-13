@@ -1,8 +1,100 @@
 ---
 has_id_wikidata: Q19867977
+dv_has_:
+  name_:
+    af: Starlink
+    an: Starlink
+    ar: ستارلنك
+    arz: ستارلنك
+    as: ষ্টাৰলিংক
+    az: Starlink peyk şəbəkəsi
+    bcl: Starlink
+    be: Starlink
+    bg: Starlink
+    bn: স্টারলিঙ্ক
+    ca: Starlink
+    ckb: ستارلینک
+    cs: Starlink
+    cy: Starlink
+    de: Starlink
+    de-ch: Starlink
+    el: Starlink
+    en: Starlink
+    en-ca: Starlink
+    en-gb: Starlink
+    eo: Starlink
+    es: Starlink
+    et: Starlink
+    eu: Starlink
+    fa: استارلینک
+    fi: Starlink
+    fr: Starlink
+    he: Starlink
+    hi: स्टारलिंक
+    hr: Starlink
+    hu: Starlink
+    id: Starlink
+    io: Starlink
+    is: Starlink
+    it: Starlink
+    ja: スターリンク
+    jv: Starlink
+    kk: Starlink
+    ko: 스타링크
+    la: Starlink
+    lt: Starlink
+    lv: Starlink
+    ml: സ്റ്റാർലിങ്ക്
+    mn: Starlink
+    nb: Starlink
+    ne: स्टारलिङ्क
+    nl: Starlink
+    ny: Starlink
+    pl: Starlink
+    ps: اسټارلینک
+    pt: Starlink
+    pt-br: Starlink
+    qu: Starlink
+    ro: Starlink
+    ru: Starlink
+    sah: Starlink
+    sgs: Starlink
+    sk: Starlink
+    sl: Starlink
+    sq: Starlink
+    sr: Старлинк
+    sv: Starlink
+    sw: Starlink
+    th: สตาร์ลิงก์ (โครงข่ายดาวเทียม)
+    tl: Starlink
+    tr: Starlink
+    uk: Starlink SpaceX
+    uz: Starlink
+    vi: Starlink
+    wuu: 星链
+    yue: 星鏈
+    zh: 星链
+    zh-tw: 星鏈
+aliases:
+- Starlink
+- Starlink peyk şəbəkəsi
+- Starlink SpaceX
+- Старлинк
+- استارلینک
+- اسټارلینک
+- ستارلنك
+- ستارلینک
+- स्टारलिंक
+- स्टारलिङ्क
+- ষ্টাৰলিংক
+- স্টারলিঙ্ক
+- സ്റ്റാർലിങ്ക്
+- สตาร์ลิงก์ (โครงข่ายดาวเทียม)
+- スターリンク
+- 星鏈
+- 星链
+- 스타링크
 ---
-
-
 ## #has_/text_of_/abstract 
 
 > **Starlink** is a satellite internet constellation operated by Starlink Services, LLC, 

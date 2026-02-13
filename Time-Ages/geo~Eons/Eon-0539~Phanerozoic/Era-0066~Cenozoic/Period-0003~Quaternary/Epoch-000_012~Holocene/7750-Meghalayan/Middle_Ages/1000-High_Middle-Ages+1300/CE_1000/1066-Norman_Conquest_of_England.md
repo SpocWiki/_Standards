@@ -1,8 +1,74 @@
 ---
 aliases:
+- Anglia normann inváziója
+- Concas na Normannach ar Shasana
+- conquesta normanda d'Anglaterra
+- Conquiesta normanda d'Anglaterra
+- Conquista normanda d'Inglaterra
+- Conquista normanda da Inglaterra
+- conquista normanda de Inglaterra
+- conquista normanna dell'Inghilterra
+- conquête normande de l'Angleterre
+- Counqùet de l'Aunglléterre
+- cucerirea normandă a Angliei
+- Cuộc xâm lược Anh của người Norman
+- Den normanniske erobringa av England
+- Goresgyniad Normanaidd Lloegr
+- Ingalaterrako normandiar konkista
+- Inwazja Normanów na Anglię w 1066
+- Landvinningar Normanna á Englandi
+- Norman conquest o Ingland
+- Norman conquest of England
+- Norman tùi Eng-lân ê cheng-ho̍k
+- Normana konkero de Anglio
+- Normand istilası
+- Normandernas erövring av England
+- Normandisca Forcyme
+- Normandische verovering van Engeland
+- Normannernes erobring av England
+- Normanni vallutus Inglismaal
+- normannische Eroberung Englands
+- Normanniske erobring af England
+- normannivalloitus
+- Normansko osvajanje Engleske
+- normansko zavzetje Anglije
+- Ovládnutie Anglicka Normanmi
+- Ovládnutí Anglie Normany
+- Pagsakop ng mga Normano ng Inglatera
+- Penaklukan England oleh Norman
+- penaklukan Inggris oleh Norman
+- Victoria Angliae Normannica
+- İngiltere'nin Normanlar tarafından fethi
+- Κατάκτηση της Αγγλίας από τους Νορμανδούς
+- Нармандзкае заваяваньне Ангельшчыны
+- Нармандскае заваяванне Англіі
+- Норманд Яулап алыуы
+- нормандско освојување на Англија
+- Нормандское завоевание Англии
+- Нормандське завоювання Англії
+- Нормандық жаулап алу
+- Норманско нашествие в Англия
+- Норманско освајање Енглеске
+- Անգլիայի նվաճումը նորմանների կողմից
+- הכיבוש הנורמני של אנגליה
+- حمله نرمنها به انگلستان
+- د نورمن بريا
+- غزو النورمان لإنجلترا
+- لغزو نورماندي ل نڭليز
+- नर्मन विजय
+- नॉर्मनों की इंग्लैण्ड पर विजय
+- নর্ম্যানদের ইংল্যান্ড বিজয়
+- நோர்மானியர் இங்கிலாந்தைக் கைப்பற்றுதல்
+- การพิชิตอังกฤษของชาวนอร์มัน
+- ການພິຊິດອັງກິດຂອງຊາວນໍມັງ
+- ნორმანთა მიერ ინგლისის დაპყრობა
+- ノルマン・コンクエスト
+- 諾曼征服英格蘭
+- 诺曼征服英格兰
+- 노르만 정복
 has_id_wikidata: Q200485
-country: "[[_Standards/WikiData/WD~Kingdom_of_England,179876]]"
-instance_of: "[[_Standards/WikiData/WD~conquest,1361229]]"
+country: '[[_Standards/WikiData/WD~Kingdom_of_England,179876]]'
+instance_of: '[[_Standards/WikiData/WD~conquest,1361229]]'
 end_time: 1075-01-01T00:00:00Z
 start_time: 1066-10-04T00:00:00Z
 coordinate_location: Point(-1.3167 52.0667)
@@ -10,25 +76,107 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Bayeux%20Tapestry%20Wi
 Commons_category: Norman Conquest of England
 dv_is_:
   same_as:
-    - "[[../../../../../../../../../../WikiData/WD~Norman_conquest_of_England,200485]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1066-Norman_Conquest_of_England|1066-Norman_Conquest_of_England]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1066-Norman_Conquest_of_England.public|1066-Norman_Conquest_of_England.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1066-Norman_Conquest_of_England.internal|1066-Norman_Conquest_of_England.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1066-Norman_Conquest_of_England.protect|1066-Norman_Conquest_of_England.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1066-Norman_Conquest_of_England.private|1066-Norman_Conquest_of_England.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1066-Norman_Conquest_of_England.personal|1066-Norman_Conquest_of_England.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1066-Norman_Conquest_of_England.secret|1066-Norman_Conquest_of_England.secret]]"
+  - '[[../../../../../../../../../../WikiData/WD~Norman_conquest_of_England,200485]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1066-Norman_Conquest_of_England|1066-Norman_Conquest_of_England]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1066-Norman_Conquest_of_England.public|1066-Norman_Conquest_of_England.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1066-Norman_Conquest_of_England.internal|1066-Norman_Conquest_of_England.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1066-Norman_Conquest_of_England.protect|1066-Norman_Conquest_of_England.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1066-Norman_Conquest_of_England.private|1066-Norman_Conquest_of_England.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1066-Norman_Conquest_of_England.personal|1066-Norman_Conquest_of_England.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1066-Norman_Conquest_of_England.secret|1066-Norman_Conquest_of_England.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../../../WikiData/WD~Norman_conquest_of_England,200485]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1066-Norman_Conquest_of_England|1066-Norman_Conquest_of_England]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1066-Norman_Conquest_of_England.public|1066-Norman_Conquest_of_England.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1066-Norman_Conquest_of_England.internal|1066-Norman_Conquest_of_England.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1066-Norman_Conquest_of_England.protect|1066-Norman_Conquest_of_England.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1066-Norman_Conquest_of_England.private|1066-Norman_Conquest_of_England.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1066-Norman_Conquest_of_England.personal|1066-Norman_Conquest_of_England.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1066-Norman_Conquest_of_England.secret|1066-Norman_Conquest_of_England.secret]]"
+- '[[../../../../../../../../../../WikiData/WD~Norman_conquest_of_England,200485]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1066-Norman_Conquest_of_England|1066-Norman_Conquest_of_England]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1066-Norman_Conquest_of_England.public|1066-Norman_Conquest_of_England.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1066-Norman_Conquest_of_England.internal|1066-Norman_Conquest_of_England.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1066-Norman_Conquest_of_England.protect|1066-Norman_Conquest_of_England.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1066-Norman_Conquest_of_England.private|1066-Norman_Conquest_of_England.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1066-Norman_Conquest_of_England.personal|1066-Norman_Conquest_of_England.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1066-Norman_Conquest_of_England.secret|1066-Norman_Conquest_of_England.secret]]'
+dv_has_:
+  name_:
+    an: Conquiesta normanda d'Anglaterra
+    ang: Normandisca Forcyme
+    ar: غزو النورمان لإنجلترا
+    ary: لغزو نورماندي ل نڭليز
+    ast: Conquista normanda d'Inglaterra
+    az: Normand istilası
+    ba: Норманд Яулап алыуы
+    be: Нармандскае заваяванне Англіі
+    be-tarask: Нармандзкае заваяваньне Ангельшчыны
+    bg: Норманско нашествие в Англия
+    bn: নর্ম্যানদের ইংল্যান্ড বিজয়
+    ca: conquesta normanda d'Anglaterra
+    cs: Ovládnutí Anglie Normany
+    cy: Goresgyniad Normanaidd Lloegr
+    da: Normanniske erobring af England
+    de: normannische Eroberung Englands
+    de-ch: Normannische Eroberung Englands
+    el: Κατάκτηση της Αγγλίας από τους Νορμανδούς
+    en: Norman conquest of England
+    en-ca: Norman conquest of England
+    en-gb: Norman conquest of England
+    eo: Normana konkero de Anglio
+    es: conquista normanda de Inglaterra
+    et: Normanni vallutus Inglismaal
+    eu: Ingalaterrako normandiar konkista
+    fa: حمله نرمنها به انگلستان
+    fi: normannivalloitus
+    fr: conquête normande de l'Angleterre
+    ga: Concas na Normannach ar Shasana
+    gl: conquista normanda de Inglaterra
+    he: הכיבוש הנורמני של אנגליה
+    hi: नॉर्मनों की इंग्लैण्ड पर विजय
+    hr: Normansko osvajanje Engleske
+    hu: Anglia normann inváziója
+    hy: Անգլիայի նվաճումը նորմանների կողմից
+    id: penaklukan Inggris oleh Norman
+    is: Landvinningar Normanna á Englandi
+    it: conquista normanna dell'Inghilterra
+    ja: ノルマン・コンクエスト
+    ka: ნორმანთა მიერ ინგლისის დაპყრობა
+    kk: Нормандық жаулап алу
+    ko: 노르만 정복
+    la: Victoria Angliae Normannica
+    lo: ການພິຊິດອັງກິດຂອງຊາວນໍມັງ
+    mk: нормандско освојување на Англија
+    ms: Penaklukan England oleh Norman
+    nan: Norman tùi Eng-lân ê cheng-ho̍k
+    nb: Normannernes erobring av England
+    new: नर्मन विजय
+    nl: Normandische verovering van Engeland
+    nn: Den normanniske erobringa av England
+    nrm: Counqùet de l'Aunglléterre
+    pl: Inwazja Normanów na Anglię w 1066
+    ps: د نورمن بريا
+    pt: Conquista normanda da Inglaterra
+    pt-br: Conquista normanda da Inglaterra
+    ro: cucerirea normandă a Angliei
+    ru: Нормандское завоевание Англии
+    sco: Norman conquest o Ingland
+    sh: Normansko osvajanje Engleske
+    sk: Ovládnutie Anglicka Normanmi
+    sl: normansko zavzetje Anglije
+    sr: Норманско освајање Енглеске
+    sr-ec: Норманско освајање Енглеске
+    sr-el: Normansko osvajanje Engleske
+    sv: Normandernas erövring av England
+    ta: நோர்மானியர் இங்கிலாந்தைக் கைப்பற்றுதல்
+    th: การพิชิตอังกฤษของชาวนอร์มัน
+    tl: Pagsakop ng mga Normano ng Inglatera
+    tr: İngiltere'nin Normanlar tarafından fethi
+    uk: Нормандське завоювання Англії
+    vi: Cuộc xâm lược Anh của người Norman
+    wuu: 诺曼征服英格兰
+    yue: 諾曼征服英格蘭
+    zh: 诺曼征服英格兰
+    zh-cn: 诺曼征服英格兰
+    zh-hans: 诺曼征服英格兰
+    zh-hant: 諾曼征服英格蘭
+    zh-hk: 諾曼征服英格蘭
+    zh-sg: 诺曼征服英格兰
+    zh-tw: 諾曼征服英格蘭
 ---
-
 # [[1066-Norman_Conquest_of_England]] 
 
 #is_/same_as :: [[WD~Norman_conquest_of_England,200485]] 

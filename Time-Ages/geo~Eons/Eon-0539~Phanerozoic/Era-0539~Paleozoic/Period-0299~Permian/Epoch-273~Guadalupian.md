@@ -1,89 +1,116 @@
 ---
 aliases:
-  - Guadalupian
-  - Гуадалуп
-  - Guadalup
-  - Guadalupien
-  - Guadalupium
-  - Guadalupiense
-  - Guadalupéen
-  - guadalupei
-  - guadalupiano
-  - ガダリューピアン世
-  - Gvadalupis
-  - Guadalupiën
-  - Gwadelup
-  - Guadalupiano
-  - guadalup
-  - guadalupij
-  - 瓜德鲁普世
+- an Sealad Guadalúpach
+- Guadalup
+- Guadalupe
+- guadalupei
+- Guadalupian
+- guadalupiano
+- Guadalupien
+- Guadalupiense
+- guadalupij
+- Guadalupium
+- Guadalupiyen
+- Guadalupià
+- Guadalupiën
+- Guadalupéen
+- Gvadalupij
+- Gvadalupis
+- Gwadalup
+- Gwadelup
+- középső perm
+- Thế Guadalupe
+- гваделупская эпоха
+- Гуадалуп
+- الغوادالوبي
+- گوادالوپین
+- ガダリューピアン世
+- ガダルピアン世
+- 瓜德魯普統
+- 瓜德鲁普世
+- 瓜達鹿白階
 has_id_wikidata: Q1077376
-partially_coincident_with: "[[_Standards/WikiData/WD~Zechstein,184168]]"
+partially_coincident_with: '[[_Standards/WikiData/WD~Zechstein,184168]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~series,312468]]"
-  - "[[_Standards/WikiData/WD~epoch,754897]]"
-named_after: "[[_Standards/WikiData/WD~Guadalupe_Mountains,5613246]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Guadalupian,21557529]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+- '[[_Standards/WikiData/WD~series,312468]]'
+- '[[_Standards/WikiData/WD~epoch,754897]]'
+named_after: '[[_Standards/WikiData/WD~Guadalupe_Mountains,5613246]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Guadalupian,21557529]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 sRGB_color_hex_triplet: FE8367
 start_time: -272950000-01-01T00:00:00Z
 end_time: -259100000-01-01T00:00:00Z
 dv_has_:
   duration_:
-    years: "1.350e+7"
-  previous_:
-    item: "[[Epoch-298~Cisuralian]]"
-  next_:
-    item: "[[Epoch-259~Lopingian]]"
+    years: 1.350e+7
   name_:
+    abbreviated: P2
+    af: Guadalupium
+    ar: الغوادالوبي
     bg: Гуадалуп
+    ca: Guadalupià
     cs: Guadalup
     da: Guadalupien
     de: Guadalupium
+    en: Guadalupian
     es: Guadalupiense
     et: Guadalup
+    fa: گوادالوپین
     fi: Guadalup
-    fr: Guadalupéen
-    hu: guadalupei
-    it: guadalupiano
-    ja: ガダリューピアン世
-    lt: Gvadalupis
-    nl: Guadalupiën
+    fr: Guadalupien
+    ga: an Sealad Guadalúpach
+    hr: Guadalup
+    hu: középső perm
+    it: Guadalupiano
+    ja: ガダルピアン世
+    lt: gvadalupis
+    ms: Guadalup
+    nl: Guadalupien
+    nn: guadalup
     no: Guadalupium
-    pl: Gwadelup
+    pl: Gwadalup
     pt: Guadalupiano
+    ro: Guadalupian
+    ru: гваделупская эпоха
+    sh: Gvadalupij
     sk: guadalup
-    sl: guadalupij
-    sv: guadalup
-    zh: 瓜德鲁普世
-    abbreviated: P2
-  time_:
-    started: "-273.01e6"
-    stopped: "-259.51e6"
+    sl: gvadalupij
+    sv: Guadalupe
+    tr: Guadalupiyen
+    vi: Thế Guadalupe
+    zh: 瓜達鹿白階
+    zh-hant: 瓜德魯普統
+  next_:
+    item: '[[Epoch-259~Lopingian]]'
+  previous_:
+    item: '[[Epoch-298~Cisuralian]]'
   text_of_:
-    color: "0xFB745C"
+    color: 0xFB745C
+  time_:
+    started: -273.01e6
+    stopped: -259.51e6
 dv_is_:
   same_as:
-    - "[[WD~Guadalupian,1077376]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian|Epoch-273~Guadalupian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian.public|Epoch-273~Guadalupian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian.internal|Epoch-273~Guadalupian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian.protect|Epoch-273~Guadalupian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian.private|Epoch-273~Guadalupian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian.personal|Epoch-273~Guadalupian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian.secret|Epoch-273~Guadalupian.secret]]"
-dv_has_duration_years: "1.350e+7"
-dv_has_previous_item: "[[Epoch-298~Cisuralian]]"
-dv_has_next_item: "[[Epoch-259~Lopingian]]"
+  - '[[WD~Guadalupian,1077376]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian|Epoch-273~Guadalupian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian.public|Epoch-273~Guadalupian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian.internal|Epoch-273~Guadalupian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian.protect|Epoch-273~Guadalupian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian.private|Epoch-273~Guadalupian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian.personal|Epoch-273~Guadalupian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian.secret|Epoch-273~Guadalupian.secret]]'
+dv_has_duration_years: 1.350e+7
+dv_has_previous_item: '[[Epoch-298~Cisuralian]]'
+dv_has_next_item: '[[Epoch-259~Lopingian]]'
 dv_is_same_as:
-  - "[[WD~Guadalupian,1077376]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian|Epoch-273~Guadalupian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian.public|Epoch-273~Guadalupian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian.internal|Epoch-273~Guadalupian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian.protect|Epoch-273~Guadalupian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian.private|Epoch-273~Guadalupian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian.personal|Epoch-273~Guadalupian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian.secret|Epoch-273~Guadalupian.secret]]"
+- '[[WD~Guadalupian,1077376]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian|Epoch-273~Guadalupian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian.public|Epoch-273~Guadalupian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian.internal|Epoch-273~Guadalupian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian.protect|Epoch-273~Guadalupian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian.private|Epoch-273~Guadalupian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian.personal|Epoch-273~Guadalupian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian.secret|Epoch-273~Guadalupian.secret]]'
 dv_has_name_bg: Гуадалуп
 dv_has_name_cs: Guadalup
 dv_has_name_da: Guadalupien
@@ -105,11 +132,10 @@ dv_has_name_sl: guadalupij
 dv_has_name_sv: guadalup
 dv_has_name_zh: 瓜德鲁普世
 dv_has_name_abbreviated: P2
-dv_has_time_started: "-273.01e6"
-dv_has_time_stopped: "-259.51e6"
-dv_has_text_of_color: "0xFB745C"
+dv_has_time_started: -273.01e6
+dv_has_time_stopped: -259.51e6
+dv_has_text_of_color: 0xFB745C
 ---
-
 # [[Epoch-273~Guadalupian]] 
 
 #is_a_/time_/Epoch 

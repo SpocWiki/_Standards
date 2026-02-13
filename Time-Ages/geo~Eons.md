@@ -1,41 +1,137 @@
 ---
 aliases:
-  - geo~Eons
+- aeon
+- aeón
+- eon
+- Eon (Geologiya)
+- eona
+- eonas
+- eone
+- eoni
+- eono
+- eoon
+- eó
+- eón
+- eón xeolóxico
+- geo~Eons
+- kurun
+- Leyon
+- liên đại
+- Äon
+- Æon
+- éon
+- éon geológico
+- γεωλογικός μεγααιώνας
+- Еон
+- эон
+- עידן גאולוגי
+- ابردوران
+- دهر
+- 元
+- 宙
+- 累代
+- 누대
 has_id_wikidata: Q108256
 Commons_category: Geologic eons
 different_from:
-  - "[[_Standards/WikiData/WD~aeon,398085]]"
-  - "[[_Standards/WikiData/WD~eonothem,2669627]]"
-has_part_s_: "[[_Standards/WikiData/WD~era,630830]]"
-next_higher_rank: "[[_Standards/WikiData/WD~supereon,15398983]]"
-part_of: "[[_Standards/WikiData/WD~supereon,15398983]]"
-standards_body: "[[_Standards/WikiData/WD~International_Commission_on_Stratigraphy,402104]]"
-studied_by: "[[_Standards/WikiData/WD~geochronology,213891]]"
-subclass_of: "[[_Standards/WikiData/WD~geochronological_unit,4005761]]"
+- '[[_Standards/WikiData/WD~aeon,398085]]'
+- '[[_Standards/WikiData/WD~eonothem,2669627]]'
+has_part_s_: '[[_Standards/WikiData/WD~era,630830]]'
+next_higher_rank: '[[_Standards/WikiData/WD~supereon,15398983]]'
+part_of: '[[_Standards/WikiData/WD~supereon,15398983]]'
+standards_body: '[[_Standards/WikiData/WD~International_Commission_on_Stratigraphy,402104]]'
+studied_by: '[[_Standards/WikiData/WD~geochronology,213891]]'
+subclass_of: '[[_Standards/WikiData/WD~geochronological_unit,4005761]]'
 dv_is_:
-  part_of: ---
+  part_of: '---'
   same_as:
-    - "[[/_Standards/Time-Ages/geo~Eons|geo~Eons]]"
-    - "[[/_public/Time-Ages/geo~Eons.public|geo~Eons.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons.internal|geo~Eons.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons.protect|geo~Eons.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons.private|geo~Eons.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons.personal|geo~Eons.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons.secret|geo~Eons.secret]]"
+  - '[[/_Standards/Time-Ages/geo~Eons|geo~Eons]]'
+  - '[[/_public/Time-Ages/geo~Eons.public|geo~Eons.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons.internal|geo~Eons.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons.protect|geo~Eons.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons.private|geo~Eons.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons.personal|geo~Eons.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons.secret|geo~Eons.secret]]'
 dv_has_:
-  parts: "[[geo~Eons/geo~Eras]]"
-dv_is_part_of: ---
-dv_has_parts: "[[geo~Eons/geo~Eras]]"
+  name_:
+    af: Eon
+    ar: دهر
+    ast: Eón
+    az: Eon
+    be: эон
+    be-tarask: эон
+    bg: Еон
+    br: Eon
+    ca: eó
+    cs: eon
+    cy: eon
+    da: Æon
+    de: Äon
+    de-ch: Äon
+    el: γεωλογικός μεγααιώνας
+    en: eon
+    en-ca: Aeon
+    en-gb: Aeon
+    eo: eono
+    es: eón
+    et: eoon
+    eu: Eon
+    fa: ابردوران
+    fi: eoni
+    fr: éon
+    ga: aeón
+    gl: eón xeolóxico
+    he: עידן גאולוגי
+    hr: eon
+    ht: Leyon
+    hu: eon
+    id: kurun
+    it: eone
+    ja: 累代
+    kk: Эон
+    ko: 누대
+    la: aeon
+    lt: eonas
+    lv: eona
+    mk: еон
+    ms: Eon
+    nb: Eon
+    nds: Äon
+    nl: eon
+    nn: eon
+    oc: eon
+    pl: eon
+    pt: éon geológico
+    pt-br: Éon geológico
+    ru: эон
+    sah: Эон
+    sh: Eon
+    sk: Eón
+    sl: eon
+    sr: еон
+    sr-ec: Еон
+    sr-el: Eon
+    sv: Eon
+    udm: эон
+    uk: еон
+    uz: Eon (Geologiya)
+    vec: eon
+    vi: liên đại
+    yue: 宙
+    zh: 宙
+    zh-hant: 元
+  parts: '[[geo~Eons/geo~Eras]]'
+dv_is_part_of: '---'
+dv_has_parts: '[[geo~Eons/geo~Eras]]'
 dv_is_same_as:
-  - "[[/_Standards/Time-Ages/geo~Eons|geo~Eons]]"
-  - "[[/_public/Time-Ages/geo~Eons.public|geo~Eons.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons.internal|geo~Eons.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons.protect|geo~Eons.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons.private|geo~Eons.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons.personal|geo~Eons.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons.secret|geo~Eons.secret]]"
+- '[[/_Standards/Time-Ages/geo~Eons|geo~Eons]]'
+- '[[/_public/Time-Ages/geo~Eons.public|geo~Eons.public]]'
+- '[[/_internal/Time-Ages/geo~Eons.internal|geo~Eons.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons.protect|geo~Eons.protect]]'
+- '[[/_private/Time-Ages/geo~Eons.private|geo~Eons.private]]'
+- '[[/_personal/Time-Ages/geo~Eons.personal|geo~Eons.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons.secret|geo~Eons.secret]]'
 ---
-
 # [[geo~Eons]] 
 
 is_part_of = `=this.dv_is_part_of` 

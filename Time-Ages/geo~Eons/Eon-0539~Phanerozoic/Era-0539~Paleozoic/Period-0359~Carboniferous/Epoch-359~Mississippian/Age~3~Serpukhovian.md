@@ -1,63 +1,76 @@
 ---
 aliases:
-  - Late_Mississippian
-  - Late Mississippian
-  - Serpukhovian
-  - Серпухов
-  - Serpukhov
-  - Serpukhovien
-  - Serpukhovium
-  - Serpulkhoviense
-  - Serpuhhovi
-  - szerpuhovi
-  - serpukhoviano
-  - サプコビアン期
-  - Serpuchovis
-  - Serpukhoviën
-  - Serpukovium
-  - Serpuchow
-  - Serpukoviano
-  - serpuchov
-  - serpukhovij
-  - serpukhov
-  - 谢尔普霍夫期
+- Late Mississippian
+- Late_Mississippian
+- Serpoukhovien
+- serpuchov
+- Serpuchovis
+- Serpuchow
+- Serpuhhovi
+- serpuhovij
+- Serpukhov
+- Serpukhovian
+- serpukhoviano
+- Serpukhovien
+- Serpukhoviense
+- serpukhovij
+- Serpukhovium
+- Serpukhovià
+- Serpukhoviën
+- Serpukov
+- Serpukoviano
+- Serpukovij
+- Serpukovium
+- Serpulkhoviense
+- Sirpucuvianu
+- szerpuhovi
+- Tầng Serpukhov
+- Серпухов
+- серпуховский ярус
+- Серпуховський ярус
+- Сирпухыв ярысы
+- السربوخوفي
+- سرپوخوین
+- サプコビアン期
+- サープコビアン
+- 谢尔普霍夫期
 has_id_wikidata: Q1068088
 ischart: UpperMississippian
 confidential: private
 cssclasses:
-  - private
-  - note
+- private
+- note
 draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
-expiryDate:
-has_Template: "[[Extract~Note~Template]]"
+expiryDate: 
+has_Template: '[[Extract~Note~Template]]'
 has_time_started:
-  '{ "date:YYYY-MM-DD": }':
+  '{ "date:YYYY-MM-DD": }': 
 isDeleted: false
 isReadOnly: false
 keywords:
-  "{ newTitle: }":
+  '{ newTitle: }': 
 lang: en
-layout:
+layout: 
 license: (c)copyrighted
 linkTitle:
-  "{ newTitle: }":
+  '{ newTitle: }': 
 publish: false
-publishDate:
+publishDate: 
 tags:
-  - "{ newTitle: }":
-  - excalidraw
+- '{ newTitle: }': 
+- excalidraw
 title:
-  "{ newTitle: }":
+  '{ newTitle: }': 
 type: private_note
-named_after: "[[_Standards/WikiData/WD~Serpukhov,194067]]"
+named_after: '[[_Standards/WikiData/WD~Serpukhov,194067]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Serpukhovian,30869551]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Serpukhovian,30869551]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 start_time: -330900000-01-01T00:00:00Z
 sRGB_color_hex_triplet: BFC26B
 Commons_category: Serpukhovian
@@ -65,59 +78,74 @@ end_time: -323200000-01-01T00:00:00Z
 dv_has_:
   duration_:
     years: NaN
-  previous_:
-    item: "[[Age~2~Visean|Age~Visean]]"
-  next_:
-    item: "[[../Epoch-323~Pennsylvanian/Age~1~Bashkirian|Age~1~Bashkirian]]"
   name_:
+    abbreviated: c3
+    af: Serpukhovium
+    ar: السربوخوفي
     bg: Серпухов
+    bs: Serpukovij
+    ca: Serpukhovià
     cs: Serpukhov
     da: Serpukhovien
     de: Serpukhovium
-    es: Serpulkhoviense
+    en: Serpukhovian
+    en-gb: Serpukhovian
+    es: Serpukhoviense
     et: Serpuhhovi
+    fa: سرپوخوین
     fi: Serpukhov
-    fr: Serpukhovien
+    fr: Serpoukhovien
     hu: szerpuhovi
-    it: serpukhoviano
-    ja: サプコビアン期
+    id: Serpukhovium
+    it: Serpukhoviano
+    ja: サープコビアン
     lt: Serpuchovis
-    nl: Serpukhoviën
+    nl: Serpukhovien
+    nn: serpukhov
     no: Serpukovium
     pl: Serpuchow
-    pt: Serpukoviano
+    pt: Serpukhoviano
+    ru: серпуховский ярус
+    scn: Sirpucuvianu
+    sh: Serpukov
     sk: serpuchov
-    sl: serpukhovij
+    sl: serpuhovij
     sv: serpukhov
+    tt: Сирпухыв ярысы
+    uk: Серпуховський ярус
+    vi: Tầng Serpukhov
     zh: 谢尔普霍夫期
-    abbreviated: c3
-  time_:
-    started: "-330.9e6"
-    stopped: "-323.2e6"
+  next_:
+    item: '[[../Epoch-323~Pennsylvanian/Age~1~Bashkirian|Age~1~Bashkirian]]'
+  previous_:
+    item: '[[Age~2~Visean|Age~Visean]]'
   text_of_:
-    color: "0xBFC26B"
+    color: 0xBFC26B
+  time_:
+    started: -330.9e6
+    stopped: -323.2e6
 dv_is_:
   same_as:
-    - "[[WD~Serpukhovian,1068088]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~3~Serpukhovian|Age~3~Serpukhovian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~3~Serpukhovian.public|Age~3~Serpukhovian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~3~Serpukhovian.internal|Age~3~Serpukhovian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~3~Serpukhovian.protect|Age~3~Serpukhovian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~3~Serpukhovian.private|Age~3~Serpukhovian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~3~Serpukhovian.personal|Age~3~Serpukhovian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~3~Serpukhovian.secret|Age~3~Serpukhovian.secret]]"
+  - '[[WD~Serpukhovian,1068088]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~3~Serpukhovian|Age~3~Serpukhovian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~3~Serpukhovian.public|Age~3~Serpukhovian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~3~Serpukhovian.internal|Age~3~Serpukhovian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~3~Serpukhovian.protect|Age~3~Serpukhovian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~3~Serpukhovian.private|Age~3~Serpukhovian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~3~Serpukhovian.personal|Age~3~Serpukhovian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~3~Serpukhovian.secret|Age~3~Serpukhovian.secret]]'
 dv_has_duration_years: NaN
-dv_has_previous_item: "[[Age~2~Visean|Age~Visean]]"
-dv_has_next_item: "[[../Epoch-323~Pennsylvanian/Age~1~Bashkirian|Age~1~Bashkirian]]"
+dv_has_previous_item: '[[Age~2~Visean|Age~Visean]]'
+dv_has_next_item: '[[../Epoch-323~Pennsylvanian/Age~1~Bashkirian|Age~1~Bashkirian]]'
 dv_is_same_as:
-  - "[[WD~Serpukhovian,1068088]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~3~Serpukhovian|Age~3~Serpukhovian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~3~Serpukhovian.public|Age~3~Serpukhovian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~3~Serpukhovian.internal|Age~3~Serpukhovian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~3~Serpukhovian.protect|Age~3~Serpukhovian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~3~Serpukhovian.private|Age~3~Serpukhovian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~3~Serpukhovian.personal|Age~3~Serpukhovian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~3~Serpukhovian.secret|Age~3~Serpukhovian.secret]]"
+- '[[WD~Serpukhovian,1068088]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~3~Serpukhovian|Age~3~Serpukhovian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~3~Serpukhovian.public|Age~3~Serpukhovian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~3~Serpukhovian.internal|Age~3~Serpukhovian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~3~Serpukhovian.protect|Age~3~Serpukhovian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~3~Serpukhovian.private|Age~3~Serpukhovian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~3~Serpukhovian.personal|Age~3~Serpukhovian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~3~Serpukhovian.secret|Age~3~Serpukhovian.secret]]'
 dv_has_name_bg: Серпухов
 dv_has_name_cs: Serpukhov
 dv_has_name_da: Serpukhovien
@@ -139,10 +167,9 @@ dv_has_name_sl: serpukhovij
 dv_has_name_sv: serpukhov
 dv_has_name_zh: 谢尔普霍夫期
 dv_has_name_abbreviated: c3
-dv_has_time_stopped: "-323.2e6"
-dv_has_text_of_color: "0xBFC26B"
+dv_has_time_stopped: -323.2e6
+dv_has_text_of_color: 0xBFC26B
 ---
-
 # [[Age~3~Serpukhovian]] 
 
 #is_a_/time_/Age 

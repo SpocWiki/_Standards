@@ -1,113 +1,189 @@
 ---
 aliases:
-  - William Henry
-  - Willem Hendrik
-  - William of Orange
-  - 1650-William_of_Orange+1702
-  - 1650-William of Orange+1702
+- 1650-William of Orange+1702
+- 1650-William_of_Orange+1702
+- Gilen III.a Ingalaterrakoa eta II.a Eskoziakoa
+- Guglielmo III d'Inghilterra
+- Guilherme III de Inglaterra
+- Guilhèm III d'Aurenja Nassau
+- Guillaume III d'Orange-Nassau
+- Guillem III d'Anglaterra i II d'Escòcia
+- Guillerme III de Inglaterra
+- Guillermo III de Inglaterra y II de Escocia
+- Guillermu III d'Inglaterra
+- Gulielmo III de Anglaterra
+- Gulielmus III
+- III Vilhelm
+- III. Vilmos angol király
+- III. William
+- Liam III Shasana
+- Uilleam III Shasainn is II Alba
+- Vilhelm 3. af England
+- Vilhelm III av England
+- Vilhelm III av Onglandi
+- Vilhelm III Oranialainen
+- Vilhelmo la 3-a
+- Vilhjálmur 3. Englandskonungur
+- Viliam III. Oranžský
+- Vilijam III Oranski
+- Vilim III, kralj Engleske
+- Vilim III. Oranski
+- Viljamas III Oranietis
+- Viljams III
+- Viljem III. Oranski
+- Vilém III. Oranžský
+- Vî-liâm Sâm-sṳ
+- Wilhelm III Orański
+- Wilhelm III.
+- Wiliam III & II, brenin Lloegr a'r Alban
+- Willelm III Bretta Cyning
+- Willem Hendrik
+- Willem III fan Oranje
+- Willem III van Engeland
+- Willem III van Oranje
+- William al III-lea al Angliei
+- William Henry
+- William II, Keeng o Scots
+- William III
+- William III an'i Angletera
+- William III của Anh
+- William III dari England
+- William III dari Inggris
+- William III of England
+- William la 3ma di Anglia
+- William of Orange
+- Γουλιέλμος Γ΄ της Αγγλίας
+- Вільгельм III Аранскі
+- Вільгельм III Оранський
+- Вільгэльм III Аранскі
+- Вилијам III
+- Вилијам III Орански
+- Вильгельм III Оранский
+- Вильгельм ІІІ Оранский
+- Уилям III
+- Վիլհելմ III Օրանացի
+- וויליאם דער דריטער פון ענגלאנד
+- ויליאם השלישי, מלך אנגליה
+- اۆچونجو ویلیام
+- د انګستان درېیم ویلیام
+- ولیم سوم
+- ويليام التالت ملك إنجلترا
+- ويليام الثالث ملك إنجلترا
+- ویلیام سوم انگلستان
+- विलियम ३
+- विलियम ३ (इंगलैंड)
+- विल्यम तिसरा
+- ইংল্যান্ডের তৃতীয় উইলিয়াম
+- இங்கிலாந்தின் மூன்றாம் வில்லியம்
+- വില്യം മൂന്നാമൻ
+- พระเจ้าวิลเลียมที่ 3 แห่งอังกฤษ
+- უილიამ III
+- ウィリアム3世 (イングランド王)
+- 威廉三世
+- 윌리엄 3세
 has_id_wikidata: Q129987
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~monarch,116]]"
-military_or_police_rank: "[[_Standards/WikiData/WD~general,83460]]"
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~monarch,116]]'
+military_or_police_rank: '[[_Standards/WikiData/WD~general,83460]]'
 religion_or_worldview:
-  - "[[_Standards/WikiData/WD~Reformed_Christianity,101849]]"
-  - "[[_Standards/WikiData/WD~Anglicanism,6423963]]"
-  - "[[_Standards/WikiData/WD~Protestantism,23540]]"
-spouse: "[[_Standards/WikiData/WD~Mary_II_of_England,130812]]"
-family: "[[_Standards/WikiData/WD~House_of_Orange_Nassau,155483]]"
+- '[[_Standards/WikiData/WD~Reformed_Christianity,101849]]'
+- '[[_Standards/WikiData/WD~Anglicanism,6423963]]'
+- '[[_Standards/WikiData/WD~Protestantism,23540]]'
+spouse: '[[_Standards/WikiData/WD~Mary_II_of_England,130812]]'
+family: '[[_Standards/WikiData/WD~House_of_Orange_Nassau,155483]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Leiden_University,156598]]"
-  - "[[_Standards/WikiData/WD~Eton_College,192088]]"
+- '[[_Standards/WikiData/WD~Leiden_University,156598]]'
+- '[[_Standards/WikiData/WD~Eton_College,192088]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~Dutch_Republic,170072]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_England,179876]]"
+- '[[_Standards/WikiData/WD~Dutch_Republic,170072]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_England,179876]]'
 place_of_death:
-  - "[[_Standards/WikiData/WD~Kensington_Palace,207385]]"
-  - "[[_Standards/WikiData/WD~London,84]]"
-owner_of: "[[_Standards/WikiData/WD~Soestdijk_Palace,234048]]"
-mother: "[[_Standards/WikiData/WD~Mary_Henrietta,_Princess_Royal,236930]]"
-unmarried_partner: "[[_Standards/WikiData/WD~Elizabeth_Hamilton,_Countess_of_Orkney,275268]]"
-father: "[[_Standards/WikiData/WD~William_II,_Prince_of_Orange,311455]]"
+- '[[_Standards/WikiData/WD~Kensington_Palace,207385]]'
+- '[[_Standards/WikiData/WD~London,84]]'
+owner_of: '[[_Standards/WikiData/WD~Soestdijk_Palace,234048]]'
+mother: '[[_Standards/WikiData/WD~Mary_Henrietta,_Princess_Royal,236930]]'
+unmarried_partner: '[[_Standards/WikiData/WD~Elizabeth_Hamilton,_Countess_of_Orkney,275268]]'
+father: '[[_Standards/WikiData/WD~William_II,_Prince_of_Orange,311455]]'
 position_held:
-  - "[[_Standards/WikiData/WD~stadtholder,325380]]"
-  - "[[_Standards/WikiData/WD~Prince_of_Orange,549449]]"
-  - "[[_Standards/WikiData/WD~monarch_of_Scotland,12716207]]"
-  - "[[_Standards/WikiData/WD~monarch_of_England,18810062]]"
-  - "[[_Standards/WikiData/WD~King_of_Ireland,18810066]]"
-  - "[[_Standards/WikiData/WD~King_of_England_(jure_uxoris),111513255]]"
-  - "[[_Standards/WikiData/WD~king_of_Scotland_(jure_uxoris),111728534]]"
-  - "[[_Standards/WikiData/WD~King_of_Ireland_(Iure_uxoris),111728543]]"
+- '[[_Standards/WikiData/WD~stadtholder,325380]]'
+- '[[_Standards/WikiData/WD~Prince_of_Orange,549449]]'
+- '[[_Standards/WikiData/WD~monarch_of_Scotland,12716207]]'
+- '[[_Standards/WikiData/WD~monarch_of_England,18810062]]'
+- '[[_Standards/WikiData/WD~King_of_Ireland,18810066]]'
+- '[[_Standards/WikiData/WD~King_of_England_(jure_uxoris),111513255]]'
+- '[[_Standards/WikiData/WD~king_of_Scotland_(jure_uxoris),111728534]]'
+- '[[_Standards/WikiData/WD~King_of_Ireland_(Iure_uxoris),111728543]]'
 noble_title:
-  - "[[_Standards/WikiData/WD~Duke_of_Normandy,460244]]"
-  - "[[_Standards/WikiData/WD~Prince_of_Orange,549449]]"
+- '[[_Standards/WikiData/WD~Duke_of_Normandy,460244]]'
+- '[[_Standards/WikiData/WD~Prince_of_Orange,549449]]'
 described_by_source:
-  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]"
-  - "[[_Standards/WikiData/WD~A_Compendium_of_Irish_Biography,19020593]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]"
-place_of_birth: "[[_Standards/WikiData/WD~Binnenhof,863935]]"
+- '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]'
+- '[[_Standards/WikiData/WD~A_Compendium_of_Irish_Biography,19020593]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+place_of_birth: '[[_Standards/WikiData/WD~Binnenhof,863935]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~governance,1553864]]"
-  - "[[_Standards/WikiData/WD~military_art,2560087]]"
-  - "[[_Standards/WikiData/WD~politics,7163]]"
-part_of: "[[_Standards/WikiData/WD~William_and_Mary,1947603]]"
-significant_event: "[[_Standards/WikiData/WD~posthumous_birth,2106128]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-award_received: "[[_Standards/WikiData/WD~Knight_of_the_Garter,12198181]]"
+- '[[_Standards/WikiData/WD~governance,1553864]]'
+- '[[_Standards/WikiData/WD~military_art,2560087]]'
+- '[[_Standards/WikiData/WD~politics,7163]]'
+part_of: '[[_Standards/WikiData/WD~William_and_Mary,1947603]]'
+significant_event: '[[_Standards/WikiData/WD~posthumous_birth,2106128]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+award_received: '[[_Standards/WikiData/WD~Knight_of_the_Garter,12198181]]'
 given_name:
-  - "[[_Standards/WikiData/WD~William,12344159]]"
-  - "[[_Standards/WikiData/WD~Willem,15282375]]"
-manner_of_death: "[[_Standards/WikiData/WD~accidental_death,21142718]]"
+- '[[_Standards/WikiData/WD~William,12344159]]'
+- '[[_Standards/WikiData/WD~Willem,15282375]]'
+manner_of_death: '[[_Standards/WikiData/WD~accidental_death,21142718]]'
 depicted_by:
-  - "[[_Standards/WikiData/WD~King_William_III,28043968]]"
-  - "[[_Standards/WikiData/WD~King_William_III,28044613]]"
-  - "[[_Standards/WikiData/WD~King_William_III,28044837]]"
-  - "[[_Standards/WikiData/WD~King_William_III_(1650_1702),52151320]]"
-  - "[[_Standards/WikiData/WD~King_William_III_(1650_1702),52156839]]"
-  - "[[_Standards/WikiData/WD~King_William_III_(1650_1702),52285316]]"
-  - "[[_Standards/WikiData/WD~King_William_III;_(1650_1702),105582424]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
+- '[[_Standards/WikiData/WD~King_William_III,28043968]]'
+- '[[_Standards/WikiData/WD~King_William_III,28044613]]'
+- '[[_Standards/WikiData/WD~King_William_III,28044837]]'
+- '[[_Standards/WikiData/WD~King_William_III_(1650_1702),52151320]]'
+- '[[_Standards/WikiData/WD~King_William_III_(1650_1702),52156839]]'
+- '[[_Standards/WikiData/WD~King_William_III_(1650_1702),52285316]]'
+- '[[_Standards/WikiData/WD~King_William_III;_(1650_1702),105582424]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 child:
-  - "[[_Standards/WikiData/WD~child2_Stuart,75384863]]"
-  - "[[_Standards/WikiData/WD~child1_Stuart,75384861]]"
-  - "[[_Standards/WikiData/WD~child3_Stuart,75384864]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Provenance,98801351]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~National_Museum_Paleis_het_Loo,99349995]]"
+- '[[_Standards/WikiData/WD~child2_Stuart,75384863]]'
+- '[[_Standards/WikiData/WD~child1_Stuart,75384861]]'
+- '[[_Standards/WikiData/WD~child3_Stuart,75384864]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Provenance,98801351]]'
+has_works_in_the_collection: '[[_Standards/WikiData/WD~National_Museum_Paleis_het_Loo,99349995]]'
 date_of_death: 1702-03-19T00:00:00Z
-residence: "[[_Standards/WikiData/WD~South_Holland,694]]"
+residence: '[[_Standards/WikiData/WD~South_Holland,694]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Dutch,7411]]"
-place_of_burial: "[[_Standards/WikiData/WD~Westminster_Abbey,5933]]"
-native_language: "[[_Standards/WikiData/WD~Dutch,7411]]"
-cause_of_death: "[[_Standards/WikiData/WD~pneumonia,12192]]"
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Dutch,7411]]'
+place_of_burial: '[[_Standards/WikiData/WD~Westminster_Abbey,5933]]'
+native_language: '[[_Standards/WikiData/WD~Dutch,7411]]'
+cause_of_death: '[[_Standards/WikiData/WD~pneumonia,12192]]'
 work_location:
-  - "[[_Standards/WikiData/WD~Great_Britain,23666]]"
-  - "[[_Standards/WikiData/WD~Scotland,22]]"
-  - "[[_Standards/WikiData/WD~England,21]]"
-  - "[[_Standards/WikiData/WD~Ireland,27]]"
-  - "[[_Standards/WikiData/WD~The_Hague,36600]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-medical_condition: "[[_Standards/WikiData/WD~asthma,35869]]"
+- '[[_Standards/WikiData/WD~Great_Britain,23666]]'
+- '[[_Standards/WikiData/WD~Scotland,22]]'
+- '[[_Standards/WikiData/WD~England,21]]'
+- '[[_Standards/WikiData/WD~Ireland,27]]'
+- '[[_Standards/WikiData/WD~The_Hague,36600]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+medical_condition: '[[_Standards/WikiData/WD~asthma,35869]]'
 Commons_gallery: William III of England
 Commons_category: William III of England
 Royal_Academy_new_identifier: william-iii
 name_in_native_language:
-  - William III (II) of Orange
-  - Willem III van Oranje
+- William III (II) of Orange
+- Willem III van Oranje
 date_of_birth: 1650-11-14T00:00:00Z
 AGORHA_UUID: b3426f72-a0f3-43b8-b7ae-6298ed793474
 BHCL_UUID: 72ca9f79-cdb2-46a3-93ab-3beb00f0639a
 coat_of_arms_image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20England%20%281689%E2%80%931694%29.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20England%20%281694%E2%80%931702%29.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20Arms%20of%20England%20%28c.%201690%29.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20Arms%20of%20Scotland%20%281689-1694%29.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20Arms%20of%20Scotland%20%281694-1702%29.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20England%20%281689%E2%80%931694%29.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20England%20%281694%E2%80%931702%29.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20Arms%20of%20England%20%28c.%201690%29.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20Arms%20of%20Scotland%20%281689-1694%29.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20Arms%20of%20Scotland%20%281694-1702%29.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/G.%20Kneller%20-%20Willem%20III%20%281650-1702%29%2C%20prins%20van%20Oranje%2C%20koning%20van%20Engeland%20-%20C252%20-%20Cultural%20Heritage%20Agency%20of%20the%20Netherlands%20Art%20Collection.jpg
 monogram: http://commons.wikimedia.org/wiki/Special:FilePath/Royal%20Monogram%20of%20King%20William%20III%20of%20England.svg
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Tomb%20of%20King%20William%20III%20and%20Queen%20Mary%20II.jpg
@@ -120,25 +196,117 @@ Libris_URI: khwz0vq30z2drfc
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/31675
 dv_is_:
   same_as:
-    - "[[../../../../../../../../WikiData/WD~William_III_of_England,129987|WD~William_III_of_England,129987]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1650-William_of_Orange+1702|1650-William_of_Orange+1702]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1650-William_of_Orange+1702.public|1650-William_of_Orange+1702.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1650-William_of_Orange+1702.internal|1650-William_of_Orange+1702.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1650-William_of_Orange+1702.protect|1650-William_of_Orange+1702.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1650-William_of_Orange+1702.private|1650-William_of_Orange+1702.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1650-William_of_Orange+1702.personal|1650-William_of_Orange+1702.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1650-William_of_Orange+1702.secret|1650-William_of_Orange+1702.secret]]"
+  - '[[../../../../../../../../WikiData/WD~William_III_of_England,129987|WD~William_III_of_England,129987]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1650-William_of_Orange+1702|1650-William_of_Orange+1702]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1650-William_of_Orange+1702.public|1650-William_of_Orange+1702.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1650-William_of_Orange+1702.internal|1650-William_of_Orange+1702.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1650-William_of_Orange+1702.protect|1650-William_of_Orange+1702.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1650-William_of_Orange+1702.private|1650-William_of_Orange+1702.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1650-William_of_Orange+1702.personal|1650-William_of_Orange+1702.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1650-William_of_Orange+1702.secret|1650-William_of_Orange+1702.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~William_III_of_England,129987|WD~William_III_of_England,129987]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1650-William_of_Orange+1702|1650-William_of_Orange+1702]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1650-William_of_Orange+1702.public|1650-William_of_Orange+1702.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1650-William_of_Orange+1702.internal|1650-William_of_Orange+1702.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1650-William_of_Orange+1702.protect|1650-William_of_Orange+1702.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1650-William_of_Orange+1702.private|1650-William_of_Orange+1702.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1650-William_of_Orange+1702.personal|1650-William_of_Orange+1702.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1650-William_of_Orange+1702.secret|1650-William_of_Orange+1702.secret]]"
+- '[[../../../../../../../../WikiData/WD~William_III_of_England,129987|WD~William_III_of_England,129987]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1650-William_of_Orange+1702|1650-William_of_Orange+1702]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1650-William_of_Orange+1702.public|1650-William_of_Orange+1702.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1650-William_of_Orange+1702.internal|1650-William_of_Orange+1702.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1650-William_of_Orange+1702.protect|1650-William_of_Orange+1702.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1650-William_of_Orange+1702.private|1650-William_of_Orange+1702.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1650-William_of_Orange+1702.personal|1650-William_of_Orange+1702.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1650-William_of_Orange+1702.secret|1650-William_of_Orange+1702.secret]]'
+dv_has_:
+  name_:
+    af: Willem III van Engeland
+    ang: Willelm III Bretta Cyning
+    ar: ويليام الثالث ملك إنجلترا
+    arz: ويليام التالت ملك إنجلترا
+    ast: Guillermu III d'Inglaterra
+    az: III Vilhelm
+    azb: اۆچونجو ویلیام
+    be: Вільгельм III Аранскі
+    be-tarask: Вільгэльм III Аранскі
+    bg: Уилям III
+    bn: ইংল্যান্ডের তৃতীয় উইলিয়াম
+    br: William III
+    bs: Vilim III, kralj Engleske
+    ca: Guillem III d'Anglaterra i II d'Escòcia
+    cs: Vilém III. Oranžský
+    cy: Wiliam III & II, brenin Lloegr a'r Alban
+    da: Vilhelm 3. af England
+    de: Wilhelm III.
+    el: Γουλιέλμος Γ΄ της Αγγλίας
+    en: William III of England
+    eo: Vilhelmo la 3-a
+    es: Guillermo III de Inglaterra y II de Escocia
+    et: William III
+    eu: Gilen III.a Ingalaterrakoa eta II.a Eskoziakoa
+    fa: ویلیام سوم انگلستان
+    fi: Vilhelm III Oranialainen
+    fo: Vilhelm III av Onglandi
+    fr: Guillaume III d'Orange-Nassau
+    fy: Willem III fan Oranje
+    ga: Liam III Shasana
+    gd: Uilleam III Shasainn is II Alba
+    gl: Guillerme III de Inglaterra
+    hak: Vî-liâm Sâm-sṳ
+    he: ויליאם השלישי, מלך אנגליה
+    hi: विलियम ३ (इंगलैंड)
+    hr: Vilim III. Oranski
+    hu: III. Vilmos angol király
+    hy: Վիլհելմ III Օրանացի
+    ia: Gulielmo III de Anglaterra
+    id: William III dari Inggris
+    io: William la 3ma di Anglia
+    is: Vilhjálmur 3. Englandskonungur
+    it: Guglielmo III d'Inghilterra
+    ja: ウィリアム3世 (イングランド王)
+    ka: უილიამ III
+    ko: 윌리엄 3세
+    ky: Вильгельм ІІІ Оранский
+    la: Gulielmus III
+    lt: Viljamas III Oranietis
+    lv: Viljams III
+    mg: William III an'i Angletera
+    mk: Вилијам III
+    ml: വില്യം മൂന്നാമൻ
+    mr: विल्यम तिसरा
+    ms: William III dari England
+    nb: Vilhelm III av England
+    nl: Willem III van Oranje
+    nn: Vilhelm III av England
+    oc: Guilhèm III d'Aurenja Nassau
+    pl: Wilhelm III Orański
+    ps: د انګستان درېیم ویلیام
+    pt: Guilherme III de Inglaterra
+    pt-br: Guilherme III de Inglaterra
+    ro: William al III-lea al Angliei
+    ru: Вильгельм III Оранский
+    sa: विलियम ३
+    sco: William II, Keeng o Scots
+    sh: Vilim III, kralj Engleske
+    sk: Viliam III. Oranžský
+    sl: Viljem III. Oranski
+    sq: William III
+    sr: Вилијам III Орански
+    sr-ec: Вилијам III Орански
+    sr-el: Vilijam III Oranski
+    sv: Vilhelm III av England
+    ta: இங்கிலாந்தின் மூன்றாம் வில்லியம்
+    th: พระเจ้าวิลเลียมที่ 3 แห่งอังกฤษ
+    tr: III. William
+    uk: Вільгельм III Оранський
+    ur: ولیم سوم
+    vi: William III của Anh
+    wuu: 威廉三世
+    yi: וויליאם דער דריטער פון ענגלאנד
+    yue: 威廉三世
+    zh: 威廉三世
+    zh-cn: 威廉三世
+    zh-hans: 威廉三世
+    zh-hant: 威廉三世
+    zh-hk: 威廉三世
+    zh-sg: 威廉三世
+    zh-tw: 威廉三世
 ---
-
 # [[1650-William_of_Orange+1702]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~William_III_of_England,129987|WD~William_III_of_England,129987]]   

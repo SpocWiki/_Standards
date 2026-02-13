@@ -1,8 +1,44 @@
 ---
 has_id_wikidata: Q486487
+dv_has_:
+  name_:
+    ar: ويندوز إن تي
+    arz: ويندوز ان تى
+    da: Microsoft Windows NT
+    de: Microsoft Windows NT
+    fa: ویندوز انتی
+    hi: विंडोज़ एन.टी.
+    hy: Վինդոուզ ԷնԹի
+    ja: Microsoft Windows NT
+    ko: 윈도우 NT
+    ku-arab: وندۆوس نت
+    lo: ວິນໂດເອັນທີ
+    mk: Windows NT
+    ml: വിൻഡോസ് എൻടി
+    mr: विंडोज एनटी
+    mul: Windows NT
+    sr-ec: Виндоус НТ
+    sr-el: Vindous NT
+    ta: வின்டோஸ் என்டி
+    th: วินโดวส์เอ็นที
+aliases:
+- Microsoft Windows NT
+- Vindous NT
+- Windows NT
+- Виндоус НТ
+- Վինդոուզ ԷնԹի
+- وندۆوس نت
+- ويندوز إن تي
+- ويندوز ان تى
+- ویندوز انتی
+- विंडोज एनटी
+- विंडोज़ एन.टी.
+- வின்டோஸ் என்டி
+- വിൻഡോസ് എൻടി
+- วินโดวส์เอ็นที
+- ວິນໂດເອັນທີ
+- 윈도우 NT
 ---
-
-
 # [[WindowsNT]] 
 
 

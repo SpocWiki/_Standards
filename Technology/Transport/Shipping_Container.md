@@ -1,27 +1,72 @@
 ---
 aliases:
-  - intermodal container
-  - shipping container
-  - freight container
-  - cargo container
-  - sea container
-  - ocean container
-  - container van
-  - sea van
-  - sea can
-  - C can
-  - MILVAN
-  - SEAVAN
-  - Shipping_Container
-  - Shipping Container
+- C can
+- cargo container
+- container
+- Container intermodal
+- container van
+- Contedor
+- contenedor
+- conteneur
+- contenidor
+- contêiner
+- Cuntinituri
+- Côngtenơ hóa
+- Edukiontzi
+- Frachtcontainer
+- freight container
+- intermodal container
+- Intermodalni kontejner
+- ISO-container
+- ISO-konteyner
+- ISO-кантэйнер
+- Kontajner ISO
+- konteinar
+- Konteiner
+- Konteineris
+- Kontejner
+- Kontena
+- Kontener
+- Kontenero
+- Konteyner
+- konteynir
+- Konteýner
+- kontti
+- konténer
+- Kɔntɛnɛ
+- MILVAN
+- ocean container
+- Peti kemas
+- sea can
+- sea container
+- sea van
+- SEAVAN
+- shipping container
+- Shipping_Container
+- univerzalni zabojnik
+- Εμπορευματοκιβώτιο
+- інтэрмадальны кантэйнер
+- контејнер
+- контейнер
+- מכולה
+- بارگنج
+- بارھەڵگرۆکی ینتەرمۆدال
+- حاوية متنقلة
+- كونتېينېر
+- كونتەينەر
+- பெட்டகம்
+- 海上コンテナ
+- 貨櫃
+- 集装箱
+- 컨테이너
 has_id_wikidata: Q187956
 designed_to_carry: '[[_Standards/WikiData/WD~cargo,319224]]'
 has_use:
-  - '[[_Standards/WikiData/WD~container_building,1128503]]'
-  - '[[_Standards/WikiData/WD~intermodal_freight_transport,1675313]]'
+- '[[_Standards/WikiData/WD~container_building,1128503]]'
+- '[[_Standards/WikiData/WD~intermodal_freight_transport,1675313]]'
 different_from:
-  - '[[_Standards/WikiData/WD~shipping_container,1180158]]'
-  - '[[_Standards/WikiData/WD~Container,134580419]]'
+- '[[_Standards/WikiData/WD~shipping_container,1180158]]'
+- '[[_Standards/WikiData/WD~Container,134580419]]'
 subclass_of: '[[_Standards/WikiData/WD~shipping_container,1180158]]'
 described_by_source: '[[_Standards/WikiData/WD~ISO_668,5974408]]'
 instance_of: '[[_Standards/WikiData/WD~mechanical_standard,124838920]]'
@@ -32,8 +77,87 @@ MCN_code: 8609.00.00
 Commons_gallery: Intermodal container
 Commons_category: Intermodal containers
 time_of_discovery_or_invention: 1934-01-01T00:00:00Z
+dv_has_:
+  name_:
+    ar: حاوية متنقلة
+    ast: Contenedor
+    az: Konteyner
+    be: ISO-кантэйнер
+    be-tarask: інтэрмадальны кантэйнер
+    bg: Контейнер
+    br: Kontener
+    ca: contenidor
+    ckb: بارھەڵگرۆکی ینتەرمۆدال
+    cs: kontejner
+    da: ISO-container
+    de: Frachtcontainer
+    de-ch: ISO-Container
+    el: Εμπορευματοκιβώτιο
+    en: intermodal container
+    en-ca: intermodal container
+    en-gb: intermodal container
+    eo: Kontenero
+    es: contenedor
+    et: Konteiner
+    eu: Edukiontzi
+    fa: بارگنج
+    fi: kontti
+    fr: conteneur
+    gl: Contedor
+    he: מכולה
+    hr: Kontejner
+    hu: konténer
+    id: Peti kemas
+    it: container
+    ja: 海上コンテナ
+    kk: Контейнер
+    kk-arab: كونتەينەر
+    kk-cn: كونتەينەر
+    kk-cyrl: Контейнер
+    kk-kz: Контейнер
+    kk-latn: Konteýner
+    kk-tr: Konteýner
+    ko: 컨테이너
+    ku: konteynir
+    ln: Kɔntɛnɛ
+    lt: Konteineris
+    min: Peti kemas
+    mk: контејнер
+    ms: Kontena
+    nb: Container
+    nl: container
+    nn: konteinar
+    oc: Contenedor
+    pl: kontener
+    pms: Container intermodal
+    pt: contêiner
+    pt-br: contêiner
+    ro: container
+    ru: контейнер
+    sah: Контейнер
+    scn: Cuntinituri
+    sh: Kontejner
+    sk: Kontajner ISO
+    sl: univerzalni zabojnik
+    sr: Intermodalni kontejner
+    sv: container
+    sw: Kontena
+    ta: பெட்டகம்
+    tr: Konteyner
+    ug: كونتېينېر
+    uk: контейнер
+    uz: ISO-konteyner
+    vi: Côngtenơ hóa
+    wuu: 集装箱
+    yue: 貨櫃
+    zh: 集装箱
+    zh-cn: 集装箱
+    zh-hans: 集装箱
+    zh-hant: 貨櫃
+    zh-hk: 貨櫃
+    zh-sg: 集装箱
+    zh-tw: 貨櫃
 ---
-
 # [[Shipping_Container]] 
 
 #is_/same_as :: [[WD~Intermodal_container,187956]] 

@@ -1,40 +1,96 @@
 ---
 aliases:
-  - Upper Paleolithic Revolution
-  - Cognitive Revolution
-  - Behavioral modernity
+- Behavioral modernity
+- Behaviorální modernita
+- behavioural modernity
+- Bihevioralni modernitet
+- Cognitive Revolution
+- Davranışsal modernite
+- gedragsmatige moderniteit
+- Hiện đại hành vi
+- Il grande balzo in avanti
+- Kondutisma moderneco
+- Moderne gedragspatrone
+- Moderne menneskeleg åtferd
+- Moderne menneskelig atferd
+- Modernidad conductual
+- Modernidade comportamental
+- Modernitat conductual
+- modernité comportementale
+- Perilaku modernitas
+- Upper Paleolithic Revolution
+- συμπεριφορική νεωτερικότητα
+- великий стрибок уперед
+- Поведение современного человека
+- מודרניות התנהגותית
+- حداثة سلوكية
+- مدرنیته رفتاری
+- په چلندیزو ځانګړتیاوو کې عصریتوب
+- व्यावहारिक आधुनिकता
+- 現代的行動
+- 行为现代性
+- 행동 현대성
 has_id_wikidata: Q2706556
 facet_of:
-  - "[[_Standards/WikiData/WD~human_evolution,83944]]"
-  - "[[_Standards/WikiData/WD~human_behavior,3769299]]"
-  - "[[_Standards/WikiData/WD~evolution_of_human_intelligence,4117055]]"
+- '[[_Standards/WikiData/WD~human_evolution,83944]]'
+- '[[_Standards/WikiData/WD~human_behavior,3769299]]'
+- '[[_Standards/WikiData/WD~evolution_of_human_intelligence,4117055]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~origin_of_language,501032]]"
-  - "[[_Standards/WikiData/WD~origins_of_society,7102639]]"
-has_effect: "[[_Standards/WikiData/WD~cultural_universal,3825100]]"
-instance_of: "[[_Standards/WikiData/WD~aspect_of_history,17524420]]"
+- '[[_Standards/WikiData/WD~origin_of_language,501032]]'
+- '[[_Standards/WikiData/WD~origins_of_society,7102639]]'
+has_effect: '[[_Standards/WikiData/WD~cultural_universal,3825100]]'
+instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
 earliest_date: -50000-01-01T00:00:00Z
 dv_is_:
   same_as:
-    - "[[WD~Behavioral_modernity,2706556]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Cognitive_Revolution|Cognitive_Revolution]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Cognitive_Revolution.public|Cognitive_Revolution.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Cognitive_Revolution.internal|Cognitive_Revolution.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Cognitive_Revolution.protect|Cognitive_Revolution.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Cognitive_Revolution.private|Cognitive_Revolution.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Cognitive_Revolution.personal|Cognitive_Revolution.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Cognitive_Revolution.secret|Cognitive_Revolution.secret]]"
+  - '[[WD~Behavioral_modernity,2706556]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Cognitive_Revolution|Cognitive_Revolution]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Cognitive_Revolution.public|Cognitive_Revolution.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Cognitive_Revolution.internal|Cognitive_Revolution.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Cognitive_Revolution.protect|Cognitive_Revolution.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Cognitive_Revolution.private|Cognitive_Revolution.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Cognitive_Revolution.personal|Cognitive_Revolution.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Cognitive_Revolution.secret|Cognitive_Revolution.secret]]'
 dv_is_same_as:
-  - "[[WD~Behavioral_modernity,2706556]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Cognitive_Revolution|Cognitive_Revolution]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Cognitive_Revolution.public|Cognitive_Revolution.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Cognitive_Revolution.internal|Cognitive_Revolution.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Cognitive_Revolution.protect|Cognitive_Revolution.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Cognitive_Revolution.private|Cognitive_Revolution.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Cognitive_Revolution.personal|Cognitive_Revolution.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Cognitive_Revolution.secret|Cognitive_Revolution.secret]]"
+- '[[WD~Behavioral_modernity,2706556]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Cognitive_Revolution|Cognitive_Revolution]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Cognitive_Revolution.public|Cognitive_Revolution.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Cognitive_Revolution.internal|Cognitive_Revolution.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Cognitive_Revolution.protect|Cognitive_Revolution.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Cognitive_Revolution.private|Cognitive_Revolution.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Cognitive_Revolution.personal|Cognitive_Revolution.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Cognitive_Revolution.secret|Cognitive_Revolution.secret]]'
+dv_has_:
+  name_:
+    af: Moderne gedragspatrone
+    ar: حداثة سلوكية
+    ca: Modernitat conductual
+    cs: Behaviorální modernita
+    el: συμπεριφορική νεωτερικότητα
+    en: behavioral modernity
+    en-gb: behavioural modernity
+    eo: Kondutisma moderneco
+    es: Modernidad conductual
+    fa: مدرنیته رفتاری
+    fr: modernité comportementale
+    he: מודרניות התנהגותית
+    hi: व्यावहारिक आधुनिकता
+    hr: Bihevioralni modernitet
+    id: Perilaku modernitas
+    it: Il grande balzo in avanti
+    ja: 現代的行動
+    ko: 행동 현대성
+    nb: Moderne menneskelig atferd
+    nl: gedragsmatige moderniteit
+    nn: Moderne menneskeleg åtferd
+    ps: په چلندیزو ځانګړتیاوو کې عصریتوب
+    pt: Modernidade comportamental
+    ru: Поведение современного человека
+    tr: Davranışsal modernite
+    uk: великий стрибок уперед
+    vi: Hiện đại hành vi
+    zh: 行为现代性
 ---
-
 # [[Cognitive_Revolution]] 
 
 #is_/same_as :: [[WD~Behavioral_modernity,2706556]] 

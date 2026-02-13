@@ -1,21 +1,78 @@
 ---
 aliases:
-  - Segeln
-  - Sailing
+- bela
+- belemvanîya bavanî
+- buriavimas
+- burāšana
+- iatismo
+- jadranje
+- Jedrenje
+- Jelkendi sport
+- lundrimi me vela
+- lướt thuyền buồm
+- nautisme à la voile
+- navegació a vela
+- navegación a vela
+- navigazione a vela
+- navigație cu vele
+- Paglalayag
+- Pelayaran
+- plachtění
+- purjehdus
+- purjetamine
+- Sailing
+- Saléu a vela
+- Seegelen
+- Seeschln
+- Segeln
+- segling
+- segliro
+- seiling
+- Seiljagwedvaart
+- sejlads
+- seoltóireacht
+- Siglingar
+- Silen
+- velado
+- Velasport
+- vitorlázás
+- Yelkencilik
+- zeilen
+- żeglarstwo
+- Ιστιοπλοΐα
+- једрење
+- Ветроходство
+- движение под парусом
+- едрење
+- Желкенді спорт
+- плавання під вітрилами
+- плаваньне пад ветразем
+- қаиқрони бодбонӣ
+- առագաստային սպորտ
+- שיט מפרשיות
+- الإبحار الشراعي
+- جەلكەندى سپورت
+- قایقرانی بادبانی
+- पाल
+- பாய்மரப் படகோட்டம்
+- സെയിലിംഗ്
+- セーリング
+- 航行
+- 세일링
 has_id_wikidata: Q192520
 subclass_of:
-  - '[[_Standards/WikiData/WD~recreational_sport,484937]]'
-  - '[[_Standards/WikiData/WD~marine_propulsion,11482290]]'
-  - '[[_Standards/WikiData/WD~vehicle_operation,28692567]]'
+- '[[_Standards/WikiData/WD~recreational_sport,484937]]'
+- '[[_Standards/WikiData/WD~marine_propulsion,11482290]]'
+- '[[_Standards/WikiData/WD~vehicle_operation,28692567]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~sports_discipline,2312410]]'
-  - '[[_Standards/WikiData/WD~hobby,47728]]'
+- '[[_Standards/WikiData/WD~sports_discipline,2312410]]'
+- '[[_Standards/WikiData/WD~hobby,47728]]'
 different_from: '[[_Standards/WikiData/WD~sailing,14085739]]'
 has_part_s_: '[[_Standards/WikiData/WD~tack,15608352]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 uses: '[[_Standards/WikiData/WD~sail,25999]]'
 practiced_by: '[[_Standards/WikiData/WD~sailor,45199]]'
 OmegaWiki_Defined_Meaning: 345777
@@ -26,8 +83,80 @@ icon: http://commons.wikimedia.org/wiki/Special:FilePath/Sailing%20pictogram.svg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Antriebseffekte%20beim%20Segeln.webm
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Lumpytrout%20page%20banner%20wikivoyage%20sailboat.jpg
 described_at_URL: https://neal.fun/earth-reviews/sailing
+dv_has_:
+  name_:
+    af: Seiljagwedvaart
+    ar: الإبحار الشراعي
+    ast: Saléu a vela
+    awa: पाल
+    be-tarask: плаваньне пад ветразем
+    bg: Ветроходство
+    bs: Jedrenje
+    ca: navegació a vela
+    cs: plachtění
+    da: sejlads
+    de: Segeln
+    el: Ιστιοπλοΐα
+    en: sailing
+    eo: velado
+    es: navegación a vela
+    et: purjetamine
+    eu: bela
+    fa: قایقرانی بادبانی
+    fi: purjehdus
+    fr: nautisme à la voile
+    fy: Silen
+    ga: seoltóireacht
+    gl: navegación a vela
+    he: שיט מפרשיות
+    hr: jedrenje
+    hu: vitorlázás
+    hy: առագաստային սպորտ
+    ia: Velasport
+    id: Pelayaran
+    io: segliro
+    is: Siglingar
+    it: navigazione a vela
+    ja: セーリング
+    kk: Желкенді спорт
+    kk-arab: جەلكەندى سپورت
+    kk-cn: جەلكەندى سپورت
+    kk-cyrl: Желкенді спорт
+    kk-kz: Желкенді спорт
+    kk-latn: Jelkendi sport
+    kk-tr: Jelkendi sport
+    ko: 세일링
+    ku: belemvanîya bavanî
+    lb: Seegelen
+    lt: buriavimas
+    lv: burāšana
+    mk: едрење
+    ml: സെയിലിംഗ്
+    ms: pelayaran
+    nb: seiling
+    nl: zeilen
+    nn: segling
+    pfl: Seeschln
+    pl: żeglarstwo
+    pt: iatismo
+    ro: navigație cu vele
+    ru: движение под парусом
+    sh: jedrenje
+    sl: jadranje
+    sq: lundrimi me vela
+    sr: једрење
+    sv: segling
+    ta: பாய்மரப் படகோட்டம்
+    tg: қаиқрони бодбонӣ
+    tr: Yelkencilik
+    uk: плавання під вітрилами
+    vi: lướt thuyền buồm
+    war: Paglalayag
+    yue: 航行
+    zh: 航行
+    zh-hant: 航行
+    zh-tw: 航行
 ---
-
 # [[Sailing]] 
 
 #is_/same_as :: [[WD~Sailing,192520]] 

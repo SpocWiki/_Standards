@@ -1,89 +1,103 @@
 ---
 aliases:
-  - Gorstian
-  - Горѿт
-  - Gorst
-  - Gorstien
-  - Gorstium
-  - Gorstiense
-  - Gorsti
-  - gorsti
-  - gorstiano
-  - ゴースティアン期
-  - Gorstis
-  - Gorstiën
-  - Gorstiano
-  - gorst
-  - gorstij
-  - 格斯特期
+- Gorst
+- Gorsti
+- Gorsti lade
+- Gorstian
+- gorstiano
+- Gorstianu
+- Gorstien
+- Gorstiense
+- gorstij
+- Gorstis
+- Gorstium
+- Gorstiën
+- gorsty
+- Tầng Gorsty
+- горстийский ярус
+- Горѿт
+- الغورستي
+- گورستین
+- ゴースティアン
+- ゴースティアン期
+- 戈斯特期
+- 格斯特期
 has_id_wikidata: Q752878
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-different_from: "[[_Standards/WikiData/WD~Gorst,3473536]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_Gorstian,134636462]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+different_from: '[[_Standards/WikiData/WD~Gorst,3473536]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_Gorstian,134636462]]'
 end_time: -427400000-01-01T00:00:00Z
 start_time: -427400000-01-01T00:00:00Z
 sRGB_color_hex_triplet: C3EAE6
 coordinate_location: Point(-2.7772 52.3592)
 dv_has_:
   duration_:
-    years: "1.800e+6"
-  previous_:
-    item: "[[../Epoch-433~Wenlock/Age~2~Homerian|Age~2~Homerian]]"
-  next_:
-    item: "[[Age~2~Ludfordian]]"
+    years: 1.800e+6
   name_:
+    abbreviated: s6
+    ar: الغورستي
     bg: Горѿт
     cs: Gorst
     da: Gorstien
     de: Gorstium
+    en: Gorstian
     es: Gorstiense
-    et: Gorsti
+    et: Gorsti lade
+    fa: گورستین
     fi: Gorst
     fr: Gorstien
     hu: gorsti
-    it: gorstiano
-    ja: ゴースティアン期
+    id: Gorstium
+    it: Gorstiano
+    ja: ゴースティアン
     lt: Gorstis
-    nl: Gorstiën
+    nl: Gorstien
+    nn: gorsty
     no: Gorstium
     pl: Gorst
     pt: Gorstiano
+    ru: горстийский ярус
+    scn: Gorstianu
     sk: gorst
     sl: gorstij
     sv: gorst
-    zh: 格斯特期
-    abbreviated: s6
-  time_:
-    started: "-427.4e6"
-    stopped: "-425.6e6"
+    vi: Tầng Gorsty
+    zh: 戈斯特期
+  next_:
+    item: '[[Age~2~Ludfordian]]'
+  previous_:
+    item: '[[../Epoch-433~Wenlock/Age~2~Homerian|Age~2~Homerian]]'
   text_of_:
-    color: "0xCCECDD"
+    color: 0xCCECDD
+  time_:
+    started: -427.4e6
+    stopped: -425.6e6
 dv_is_:
   same_as:
-    - "[[WD~Gorstian,752878]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~1~Gorstian|Age~1~Gorstian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~1~Gorstian.public|Age~1~Gorstian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~1~Gorstian.internal|Age~1~Gorstian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~1~Gorstian.protect|Age~1~Gorstian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~1~Gorstian.private|Age~1~Gorstian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~1~Gorstian.personal|Age~1~Gorstian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~1~Gorstian.secret|Age~1~Gorstian.secret]]"
+  - '[[WD~Gorstian,752878]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~1~Gorstian|Age~1~Gorstian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~1~Gorstian.public|Age~1~Gorstian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~1~Gorstian.internal|Age~1~Gorstian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~1~Gorstian.protect|Age~1~Gorstian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~1~Gorstian.private|Age~1~Gorstian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~1~Gorstian.personal|Age~1~Gorstian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~1~Gorstian.secret|Age~1~Gorstian.secret]]'
 dv_ischart: Gorstian
-dv_has_duration_years: "1.800e+6"
-dv_has_previous_item: "[[../Epoch-433~Wenlock/Age~2~Homerian|Age~2~Homerian]]"
-dv_has_next_item: "[[Age~2~Ludfordian]]"
+dv_has_duration_years: 1.800e+6
+dv_has_previous_item: '[[../Epoch-433~Wenlock/Age~2~Homerian|Age~2~Homerian]]'
+dv_has_next_item: '[[Age~2~Ludfordian]]'
 dv_is_same_as:
-  - "[[WD~Gorstian,752878]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~1~Gorstian|Age~1~Gorstian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~1~Gorstian.public|Age~1~Gorstian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~1~Gorstian.internal|Age~1~Gorstian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~1~Gorstian.protect|Age~1~Gorstian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~1~Gorstian.private|Age~1~Gorstian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~1~Gorstian.personal|Age~1~Gorstian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~1~Gorstian.secret|Age~1~Gorstian.secret]]"
+- '[[WD~Gorstian,752878]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~1~Gorstian|Age~1~Gorstian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~1~Gorstian.public|Age~1~Gorstian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~1~Gorstian.internal|Age~1~Gorstian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~1~Gorstian.protect|Age~1~Gorstian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~1~Gorstian.private|Age~1~Gorstian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~1~Gorstian.personal|Age~1~Gorstian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~1~Gorstian.secret|Age~1~Gorstian.secret]]'
 dv_has_name_bg: Горѿт
 dv_has_name_cs: Gorst
 dv_has_name_da: Gorstien
@@ -105,9 +119,9 @@ dv_has_name_sl: gorstij
 dv_has_name_sv: gorst
 dv_has_name_zh: 格斯特期
 dv_has_name_abbreviated: s6
-dv_has_time_started: "-427.4e6"
-dv_has_time_stopped: "-425.6e6"
-dv_has_text_of_color: "0xCCECDD"
+dv_has_time_started: -427.4e6
+dv_has_time_stopped: -425.6e6
+dv_has_text_of_color: 0xCCECDD
 ---
 # [[Age~1~Gorstian]] 
 

@@ -1,33 +1,60 @@
 ---
 aliases:
-  - Gabrielle Bonheur Chanel
-  - Coco Chanel
-  - Chanel,Coco
+- Chanel,Coco
+- Coco Chanel
+- Gabrielle Bonheur Chanel
+- Gabrielle Chanel
+- Koko Şanel
+- Koko Šanela
+- Κοκό Σανέλ
+- Како Шанэль
+- Коко Шанел
+- Коко Шанель
+- Коко Шанэль
+- Шанель Коко
+- Шанель, Коко
+- Կոկո Շանել
+- קוקו שאנל
+- شانيل
+- كوكو شانيل
+- کوکو شانل
+- کوکو شینل
+- कोको शनेल
+- ਕੋਕੋ ਸ਼ਨੈੱਲ
+- కోకో చానెల్
+- കോകോ ഷാനെൽ
+- โกโก ชาแนล
+- კოკო შანელი
+- ココ・シャネル
+- 可可·榭乃爾
+- 可可·香奈兒
+- 可可·香奈尔
+- 코코 샤넬
 has_id_wikidata: Q45661
 has_works_in_the_collection:
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art,160236]]'
-  - '[[_Standards/WikiData/WD~The_Costume_Institute,67087093]]'
-  - '[[_Standards/WikiData/WD~Jozef_Wiggers_collection,113993463]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art,160236]]'
+- '[[_Standards/WikiData/WD~The_Costume_Institute,67087093]]'
+- '[[_Standards/WikiData/WD~Jozef_Wiggers_collection,113993463]]'
 place_of_birth: '[[_Standards/WikiData/WD~Saumur,193821]]'
 unmarried_partner:
-  - '[[_Standards/WikiData/WD~Hans_Günther_von_Dincklage,215487]]'
-  - '[[_Standards/WikiData/WD~Grand_Duke_Dmitri_Pavlovich_of_Russia,372954]]'
-  - '[[_Standards/WikiData/WD~Boy_Capel,2084103]]'
-  - '[[_Standards/WikiData/WD~Étienne_Balsan,3592054]]'
+- '[[_Standards/WikiData/WD~Hans_Günther_von_Dincklage,215487]]'
+- '[[_Standards/WikiData/WD~Grand_Duke_Dmitri_Pavlovich_of_Russia,372954]]'
+- '[[_Standards/WikiData/WD~Boy_Capel,2084103]]'
+- '[[_Standards/WikiData/WD~Étienne_Balsan,3592054]]'
 employer: '[[_Standards/WikiData/WD~Chanel,218115]]'
 place_of_death: '[[_Standards/WikiData/WD~Hôtel_Ritz_Paris,656054]]'
 occupation:
-  - '[[_Standards/WikiData/WD~costume_designer,1323191]]'
-  - '[[_Standards/WikiData/WD~business_executive,2961975]]'
-  - '[[_Standards/WikiData/WD~fashion_designer,3501317]]'
-  - '[[_Standards/WikiData/WD~grand_couturier,4845479]]'
-  - '[[_Standards/WikiData/WD~modiste,18199649]]'
-  - '[[_Standards/WikiData/WD~textile_designer,18611810]]'
+- '[[_Standards/WikiData/WD~costume_designer,1323191]]'
+- '[[_Standards/WikiData/WD~business_executive,2961975]]'
+- '[[_Standards/WikiData/WD~fashion_designer,3501317]]'
+- '[[_Standards/WikiData/WD~grand_couturier,4845479]]'
+- '[[_Standards/WikiData/WD~modiste,18199649]]'
+- '[[_Standards/WikiData/WD~textile_designer,18611810]]'
 place_of_burial: '[[_Standards/WikiData/WD~Bois_de_Vaux_Cemetery,2972597]]'
 different_from: '[[_Standards/WikiData/WD~Coco_Chanel,2981326]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~jewelry_design,6189617]]'
-  - '[[_Standards/WikiData/WD~fashion_design,29583]]'
+- '[[_Standards/WikiData/WD~jewelry_design,6189617]]'
+- '[[_Standards/WikiData/WD~fashion_design,29583]]'
 sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
 award_received: '[[_Standards/WikiData/WD~Neiman_Marcus_Fashion_Award,6989627]]'
 given_name: '[[_Standards/WikiData/WD~Gabrielle,13585060]]'
@@ -35,13 +62,13 @@ mother: '[[_Standards/WikiData/WD~Jeanne_Devolle,15727194]]'
 family_name: '[[_Standards/WikiData/WD~Chanelle,37076120]]'
 topic_s_main_category: '[[_Standards/WikiData/WD~Q65060079,65060079]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~TheaterEncyclopedie,104771187]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~TheaterEncyclopedie,104771187]]'
 relative: '[[_Standards/WikiData/WD~André_Palasse,69758980]]'
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
 on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~Met_x_Wikipedia_Virtual_Edit_Meet_up_Women's_History_Month,105758538]]"
-  - '[[_Standards/WikiData/WD~NADD_Wikidata_project,123694075]]'
+- "[[_Standards/WikiData/WD~Met_x_Wikipedia_Virtual_Edit_Meet_up_Women's_History_Month,105758538]]"
+- '[[_Standards/WikiData/WD~NADD_Wikidata_project,123694075]]'
 father: '[[_Standards/WikiData/WD~Albert_Chanel,108840344]]'
 date_of_birth: 1883-08-19T00:00:00Z
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
@@ -52,9 +79,9 @@ pseudonym: Coco Chanel
 Commons_category: Coco Chanel
 date_of_death: 1971-01-10T00:00:00Z
 nickname:
-  - Gabrielle Bonheur
-  - Coco
-  - Mademoiselle
+- Gabrielle Bonheur
+- Coco
+- Mademoiselle
 birth_name: Gabrielle Chasnel
 BHCL_UUID: 70d854e4-24c5-4cc0-913f-aab0cd76985a
 name_in_native_language: Coco Chanel
@@ -65,8 +92,109 @@ P8189: 987007458081605171
 Europeana_entity: agent/base/98053
 Krugosvet_article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/SHANEL_GABRIEL.html
 Libris_URI: tr5774gc3th392d
+dv_has_:
+  name_:
+    af: Coco Chanel
+    ar: كوكو شانيل
+    arz: شانيل
+    ast: Coco Chanel
+    az: Koko Şanel
+    ba: Шанель Коко
+    bcl: Coco Chanel
+    be: Како Шанэль
+    be-tarask: Како Шанэль
+    bg: Коко Шанел
+    br: Coco Chanel
+    bs: Coco Chanel
+    ca: Coco Chanel
+    cs: Coco Chanel
+    cv: Коко Шанель
+    cy: Coco Chanel
+    da: Coco Chanel
+    de: Coco Chanel
+    de-ch: Coco Chanel
+    el: Κοκό Σανέλ
+    en: Coco Chanel
+    en-ca: Coco Chanel
+    en-gb: Coco Chanel
+    eo: Coco Chanel
+    es: Coco Chanel
+    et: Coco Chanel
+    eu: Coco Chanel
+    fa: کوکو شانل
+    fi: Coco Chanel
+    fr: Coco Chanel
+    fy: Coco Chanel
+    ga: Coco Chanel
+    gan: 可可·榭乃爾
+    gl: Coco Chanel
+    gsw: Coco Chanel
+    he: קוקו שאנל
+    hi: coco chanel
+    hr: Coco Chanel
+    hu: Coco Chanel
+    hy: Կոկո Շանել
+    id: Coco Chanel
+    ig: Coco Chanel
+    io: Coco Chanel
+    is: Coco Chanel
+    it: Coco Chanel
+    ja: ココ・シャネル
+    jv: Coco Chanel
+    ka: კოკო შანელი
+    kk: Коко Шанель
+    ko: 코코 샤넬
+    ku: Coco Chanel
+    la: Coco Chanel
+    lb: Coco Chanel
+    lt: Coco Chanel
+    lv: Koko Šanela
+    mg: Coco Chanel
+    mk: Коко Шанел
+    ml: കോകോ ഷാനെൽ
+    mn: Коко Шанэль
+    mr: कोको शनेल
+    ms: Coco Chanel
+    mul: Coco Chanel
+    nan: Coco Chanel
+    nb: Coco Chanel
+    nl: Coco Chanel
+    nn: Coco Chanel
+    oc: Coco Chanel
+    pa: ਕੋਕੋ ਸ਼ਨੈੱਲ
+    pam: Coco Chanel
+    pl: Coco Chanel
+    pnb: کوکو شینل
+    pt: Coco Chanel
+    pt-br: Coco Chanel
+    ro: Coco Chanel
+    ru: Коко Шанель
+    sco: Coco Chanel
+    sh: Coco Chanel
+    sk: Coco Chanel
+    sl: Gabrielle Chanel
+    smn: Coco Chanel
+    sq: Coco Chanel
+    sr: Коко Шанел
+    sr-ec: Коко Шанел
+    sv: Coco Chanel
+    te: కోకో చానెల్
+    th: โกโก ชาแนล
+    tl: Coco Chanel
+    tr: Coco Chanel
+    tt: Шанель Коко
+    tyv: Шанель, Коко
+    uk: Коко Шанель
+    uz: Coco Chanel
+    vi: Coco Chanel
+    war: Coco Chanel
+    wuu: 可可·香奈尔
+    xmf: კოკო შანელი
+    yue: Coco Chanel
+    zh: 可可·香奈尔
+    zh-hant: 可可·香奈兒
+    zh-tw: 可可·香奈兒
 ---
-
 # [[Chanel,Coco]] 
 
 #has_/time_/started :: 1883-08-19

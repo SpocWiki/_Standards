@@ -1,33 +1,80 @@
 ---
 aliases:
-  - Kambrium
-  - Period~1~Cambrian
-  - Камбрий
-  - Cámbrico
-  - Kambri
-  - Cambrien
-  - kambriumi
-  - cambriano
-  - カンブリア紀
-  - Kambras
-  - Cambrium
-  - Kambr
-  - Câmbrico
-  - kambrium
-  - kambrij
-  - 寒武纪
+- an Tréimhse Chaimbriach
+- Cambria-kì
+- Cambriaidd
+- Cambrian
+- cambriano
+- Cambrien
+- Cambrium
+- Cambrià
+- Cámbrico
+- Cámbricu
+- Câmbrico
+- Kambr
+- Kambras
+- Kambri
+- Kambria
+- Kambrian
+- kambrij
+- kambrikausi
+- kambrio
+- Kambrium
+- kambriumi
+- Kambriyaan
+- Kambriyano
+- Kambriyen
+- Kambríumtímabilið
+- Kanbriar
+- Kembri dövrü
+- Kembrijs
+- Kembriy dáwiri
+- Kembriy sistemasi
+- Kỷ Cambri
+- Period~1~Cambrian
+- Ìgbà Kámbríà
+- Κάμβρια περίοδος
+- камбријум
+- Камбрий
+- камбриум
+- кембар
+- кембрійський період
+- Кембрий
+- кембрий вакыт
+- Кембрий кезеңі
+- Кембрий мезгили
+- кембрийский период
+- кембрыйскі перыяд
+- Քեմբլի ժամանակաշրջան
+- קמבריון
+- العصر الكامبري
+- کامبرین
+- کیمبری دور
+- کیمبرین
+- कैंब्रियन कल्प
+- त्रिखण्डारम्म युग
+- ক্যামব্রিয়ান
+- கேம்பிரியக் காலம்
+- കാംബ്രിയൻ കാലഘട്ടം
+- ยุคแคมเบรียน
+- ကမ်ဘရီအာယုဂ်
+- კამბრიული სისტემა
+- カンブリア紀
+- 寒武紀
+- 寒武纪
+- 캄브리아기
 has_id_wikidata: Q79064
-named_by: "[[_Standards/WikiData/WD~Adam_Sedgwick,350891]]"
+named_by: '[[_Standards/WikiData/WD~Adam_Sedgwick,350891]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~period,392928]]"
-  - "[[_Standards/WikiData/WD~system,403523]]"
+- '[[_Standards/WikiData/WD~period,392928]]'
+- '[[_Standards/WikiData/WD~system,403523]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-type_locality_geology_: "[[_Standards/WikiData/WD~Fortune_Head,22494755]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~Fortune_Head,22494755]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 end_time: -486850000-06
-named_after: "[[_Standards/WikiData/WD~Cambria,27814]]"
+named_after: '[[_Standards/WikiData/WD~Cambria,27814]]'
 Commons_category: Cambrian
 start_time: -538800000-06
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide%20Paleographic%20Map%20of%20Earth%2C%20510%20Ma.png
@@ -36,60 +83,136 @@ sRGB_color_hex_triplet: 7FA056
 P8189: 987007290943505200
 dv_has_:
   duration_:
-    years: "5.340e+7"
-  previous_:
-    item: "[[../../Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0635~Ediacaran|Period-0635~Ediacaran]]"
-  next_:
-    item: "[[Period-0485~Ordovician]]"
+    years: 5.340e+7
   name_:
+    abbreviated: Ep
+    af: Kambrium
+    ar: العصر الكامبري
+    ast: Cámbricu
+    az: Kembri dövrü
+    be: кембрыйскі перыяд
+    be-tarask: кембар
     bg: Камбрий
-    cs: Kambrium
+    bjn: Kambrium
+    bn: ক্যামব্রিয়ান
+    br: Kambrian
+    bs: Kambrij
+    ca: Cambrià
+    cdo: Cambrian
+    cs: kambrium
+    cy: Cambriaidd
     da: Kambrium
     de: Kambrium
+    el: Κάμβρια περίοδος
+    en: Cambrian
+    en-gb: Cambrian
+    eo: kambrio
     es: Cámbrico
     et: Kambrium
-    fi: Kambri
+    eu: Kanbriar
+    fa: کامبرین
+    fi: kambrikausi
     fr: Cambrien
-    hu: kambriumi
-    it: cambriano
+    frr: Kambrium
+    ga: an Tréimhse Chaimbriach
+    gl: Cámbrico
+    gsw: Kambrium
+    he: קמבריון
+    hi: कैंब्रियन कल्प
+    hr: kambrij
+    hu: kambrium
+    hy: Քեմբլի ժամանակաշրջան
+    id: Kambrium
+    is: Kambríumtímabilið
+    it: Cambriano
     ja: カンブリア紀
-    lt: Kambras
+    jv: Kambrium
+    ka: კამბრიული სისტემა
+    kaa: Kembriy dáwiri
+    kk: Кембрий кезеңі
+    ko: 캄브리아기
+    ky: Кембрий мезгили
+    la: Cambrium
+    lb: Kambrium
+    lfn: Cambrian
+    li: Cambrium
+    lt: kambras
+    lv: Kembrijs
+    lzh: 寒武紀
+    mk: камбриум
+    ml: കാംബ്രിയൻ കാലഘട്ടം
+    ms: Kambria
+    my: ကမ်ဘရီအာယုဂ်
+    mzn: کامبرین
+    nan: Cambria-kì
+    nb: Kambrium
+    ne: त्रिखण्डारम्म युग
     nl: Cambrium
+    nn: kambrium
     no: Cambrium
+    oc: Cambrian
     pl: Kambr
-    pt: Câmbrico
+    pms: Cambrian
+    pnb: کیمبرین
+    pt: Cambriano
+    ro: Cambrian
+    ru: кембрийский период
+    sah: Кембрий
+    sh: Kambrij
+    si: cambrian
     sk: kambrium
     sl: kambrij
-    sv: kambrium
-    zh: 寒武纪
-    abbreviated: Ep
-  time_:
-    started: "-538.8e6"
-    stopped: "-485.4e6"
+    so: Kambriyaan
+    sr: камбријум
+    sr-ec: камбријум
+    sv: Kambrium
+    ta: கேம்பிரியக் காலம்
+    th: ยุคแคมเบรียน
+    tl: Kambriyano
+    tr: Kambriyen
+    tt: Кембрий
+    udm: кембрий вакыт
+    uk: кембрійський період
+    ur: کیمبری دور
+    uz: Kembriy sistemasi
+    vi: Kỷ Cambri
+    vo: Kambrium
+    war: Cambrian
+    wuu: 寒武纪
+    yo: Ìgbà Kámbríà
+    yue: 寒武紀
+    zh: 寒武紀
+  next_:
+    item: '[[Period-0485~Ordovician]]'
+  previous_:
+    item: '[[../../Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0635~Ediacaran|Period-0635~Ediacaran]]'
   text_of_:
-    color: "0x7FA056"
+    color: 0x7FA056
+  time_:
+    started: -538.8e6
+    stopped: -485.4e6
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Cambrian,79064|WD~Cambrian,79064]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian|Period-0539~Cambrian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian.public|Period-0539~Cambrian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian.internal|Period-0539~Cambrian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian.protect|Period-0539~Cambrian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian.private|Period-0539~Cambrian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian.personal|Period-0539~Cambrian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian.secret|Period-0539~Cambrian.secret]]"
-dv_has_duration_years: "5.340e+7"
-dv_has_previous_item: "[[../../Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0635~Ediacaran|Period-0635~Ediacaran]]"
-dv_has_next_item: "[[Period-0485~Ordovician]]"
+  - '[[../../../../WikiData/WD~Cambrian,79064|WD~Cambrian,79064]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian|Period-0539~Cambrian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian.public|Period-0539~Cambrian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian.internal|Period-0539~Cambrian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian.protect|Period-0539~Cambrian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian.private|Period-0539~Cambrian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian.personal|Period-0539~Cambrian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian.secret|Period-0539~Cambrian.secret]]'
+dv_has_duration_years: 5.340e+7
+dv_has_previous_item: '[[../../Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0635~Ediacaran|Period-0635~Ediacaran]]'
+dv_has_next_item: '[[Period-0485~Ordovician]]'
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Cambrian,79064|WD~Cambrian,79064]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian|Period-0539~Cambrian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian.public|Period-0539~Cambrian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian.internal|Period-0539~Cambrian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian.protect|Period-0539~Cambrian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian.private|Period-0539~Cambrian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian.personal|Period-0539~Cambrian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian.secret|Period-0539~Cambrian.secret]]"
+- '[[../../../../WikiData/WD~Cambrian,79064|WD~Cambrian,79064]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian|Period-0539~Cambrian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian.public|Period-0539~Cambrian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian.internal|Period-0539~Cambrian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian.protect|Period-0539~Cambrian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian.private|Period-0539~Cambrian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian.personal|Period-0539~Cambrian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian.secret|Period-0539~Cambrian.secret]]'
 dv_has_name_bg: Камбрий
 dv_has_name_cs: Kambrium
 dv_has_name_da: Kambrium
@@ -111,11 +234,10 @@ dv_has_name_sl: kambrij
 dv_has_name_sv: kambrium
 dv_has_name_zh: 寒武纪
 dv_has_name_abbreviated: Ep
-dv_has_time_started: "-538.8e6"
-dv_has_time_stopped: "-485.4e6"
-dv_has_text_of_color: "0x7FA056"
+dv_has_time_started: -538.8e6
+dv_has_time_stopped: -485.4e6
+dv_has_text_of_color: 0x7FA056
 ---
-
 # [[Period-0539~Cambrian]] 
 
 #is_a_/time_/Period 

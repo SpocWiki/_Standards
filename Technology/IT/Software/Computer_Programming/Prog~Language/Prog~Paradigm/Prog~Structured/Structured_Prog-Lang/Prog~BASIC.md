@@ -1,7 +1,28 @@
 ---
 has_id_wikidata: Q2251017
+dv_has_:
+  name_:
+    de: Dartmouth BASIC
+    en: Dartmouth BASIC
+    es: Dartmouth BASIC
+    fa: دارتموث بیسیک
+    fr: Dartmouth BASIC
+    it: Dartmouth BASIC
+    ja: ダートマスBASIC
+    ko: 다트머스 베이직
+    ml: ഡാർട്ട്മൗത്ത് ബേസിക്
+    nl: Dartmouth BASIC
+    pl: Dartmouth BASIC
+    pt: Dartmouth BASIC
+    ru: Dartmouth BASIC
+    vec: Dartmouth BASIC
+aliases:
+- Dartmouth BASIC
+- دارتموث بیسیک
+- ഡാർട്ട്മൗത്ത് ബേസിക്
+- ダートマスBASIC
+- 다트머스 베이직
 ---
-
 # [[Prog~BASIC]] 
 
 #is_a_/ComputerLanguage 

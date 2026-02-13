@@ -1,99 +1,230 @@
 ---
 aliases:
-  - Middle_Ordovician
-  - Среден Ордовик
-  - Střední ordovik
-  - Mellem Ordovicium
-  - Mittleres Ordovizium
-  - Ordovícico Medio
-  - Kesk-Ordoviitsium
-  - Keski-Ordoviikki
-  - Ordovicien moyen
-  - középső-ordovícium
-  - ordoviciano medio
-  - 中期オルドビス紀
-  - Vidurinis Ordovikas
-  - Midden Ordovicium
-  - Midtre ordovicium
-  - Środkowy Ordowik
-  - Ordovícico Médio
-  - stredný ordovik
-  - srednji ordovicij
-  - mellersta ordovicium
-  - 中奥陶世
+- an Tréimhse Ordaivíseach
+- Kesk-Ordoviitsium
+- Keski-Ordoviikki
+- középső-ordovícium
+- Kỷ Ordovic
+- Lordovig
+- Mellem Ordovicium
+- mellersta ordovicium
+- Midden Ordovicium
+- Middle_Ordovician
+- Midtre ordovicium
+- Mittleres Ordovizium
+- Ordofigaidd
+- Ordofisiyaan
+- Ordovices-kì
+- Ordovician
+- Ordoviciano
+- ordoviciano medio
+- Ordovicien
+- Ordovicien moyen
+- Ordovicij
+- ordovicio
+- Ordovicium
+- Ordovicià
+- Ordoviitsium
+- Ordovik
+- Ordovik dáwiri
+- Ordovik dövrü
+- ordovikas
+- Ordovikikausi
+- Ordoviks
+- Ordovisi
+- Ordovisian
+- Ordovisium
+- Ordovisyen
+- Ordoviziar
+- Ordovizium
+- Ordovícico
+- Ordovícico Medio
+- Ordovícico Médio
+- Ordovícicu
+- ordovícium
+- Ordowek
+- ordowik
+- Ordóvisíumtímabilið
+- srednji ordovicij
+- stredný ordovik
+- Střední ordovik
+- Vidurinis Ordovikas
+- Ìgbà Ọ̀rdòfísíà
+- Środkowy Ordowik
+- Ορδοβίκια περίοδος
+- ардовік
+- ардовіцкі перыяд
+- Ордовик
+- ордовик вакыт
+- Ордовик кезеңі
+- Ордовик мезгили
+- ордовикский период
+- ордовицијум
+- ордовицький період
+- Среден Ордовик
+- Օրդովիկի ժամանակաշրջան
+- אורדוביק
+- آردو ویسی دور
+- اردویسین
+- العصر الأوردوفيشي
+- اوردویسین
+- اورڈوویشین
+- अवरप्रवाल युग
+- ऑर्डोविशी कल्प
+- অর্ডোভিশিয়ান
+- ஓர்டோவிசியக் காலம்
+- ยุคออร์โดวิเชียน
+- ორდოვიციული სისტემა
+- オルドビス紀
+- 中奥陶世
+- 中期オルドビス紀
+- 奥陶纪
+- 奧陶紀
+- 오르도비스기
 has_id_wikidata: Q62100
 instance_of:
-  - "[[_Standards/WikiData/WD~period,392928]]"
-  - "[[_Standards/WikiData/WD~system,403523]]"
-named_after: "[[_Standards/WikiData/WD~Ordovices,768052]]"
+- '[[_Standards/WikiData/WD~period,392928]]'
+- '[[_Standards/WikiData/WD~system,403523]]'
+named_after: '[[_Standards/WikiData/WD~Ordovices,768052]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-named_by: "[[_Standards/WikiData/WD~Charles_Lapworth,932471]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Ordovician,8899315]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+named_by: '[[_Standards/WikiData/WD~Charles_Lapworth,932471]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Ordovician,8899315]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 start_time: -486850000-01-01T00:00:00Z
 end_time: -443100000-01-01T00:00:00Z
-sRGB_color_hex_triplet: "009270"
+sRGB_color_hex_triplet: 009270
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide%20Paleographic%20Map%20of%20Earth%2C%20465%20Ma%20%28Darriwilian%20Age%29.png
 Commons_category: Ordovician
-Dewey_Decimal_Classification: "551.731"
+Dewey_Decimal_Classification: 551.731
 dv_has_:
   duration_:
-    years: "1.160e+7"
-  previous_:
-    item: "[[Epoch-485~Early_Ordovician]]"
-  next_:
-    item: "[[Epoch-458~Late_Ordovician]]"
+    years: 1.160e+7
   name_:
-    bg: Среден Ордовик
-    cs: Střední ordovik
-    da: Mellem Ordovicium
-    de: Mittleres Ordovizium
-    es: Ordovícico Medio
-    et: Kesk-Ordoviitsium
-    fi: Keski-Ordoviikki
-    fr: Ordovicien moyen
-    hu: középső-ordovícium
-    it: ordoviciano medio
-    ja: 中期オルドビス紀
-    lt: Vidurinis Ordovikas
-    nl: Midden Ordovicium
-    no: Midtre ordovicium
-    pl: Środkowy Ordowik
-    pt: Ordovícico Médio
-    sk: stredný ordovik
-    sl: srednji ordovicij
-    sv: mellersta ordovicium
-    zh: 中奥陶世
     abbreviated: O2
-  time_:
-    started: "-470.0e6"
-    stopped: "-458.4e6"
+    af: Ordovisium
+    ar: العصر الأوردوفيشي
+    ast: Ordovícicu
+    az: Ordovik dövrü
+    be: ардовіцкі перыяд
+    be-tarask: ардовік
+    bg: Ордовик
+    bn: অর্ডোভিশিয়ান
+    br: Ordovisian
+    bs: Ordovicij
+    ca: Ordovicià
+    cdo: Ordovician
+    cs: Ordovik
+    cy: Ordofigaidd
+    da: Ordovicium
+    de: Ordovizium
+    el: Ορδοβίκια περίοδος
+    en: Ordovician
+    en-gb: Ordovician
+    eo: ordovicio
+    es: Ordovícico
+    et: Ordoviitsium
+    eu: Ordoviziar
+    fa: اردویسین
+    fi: Ordovikikausi
+    fr: Ordovicien
+    frr: Ordovizium
+    ga: an Tréimhse Ordaivíseach
+    gl: Ordovícico
+    gsw: Ordovizium
+    he: אורדוביק
+    hi: ऑर्डोविशी कल्प
+    hr: ordovicij
+    hu: ordovícium
+    hy: Օրդովիկի ժամանակաշրջան
+    id: Ordovisium
+    is: Ordóvisíumtímabilið
+    it: Ordoviciano
+    ja: オルドビス紀
+    ka: ორდოვიციული სისტემა
+    kaa: Ordovik dáwiri
+    kk: Ордовик кезеңі
+    ko: 오르도비스기
+    kw: Ordowek
+    ky: Ордовик мезгили
+    la: Ordovicium
+    lb: Ordovizium
+    lfn: Ordovician
+    li: Ordovicium
+    lt: ordovikas
+    lv: Ordoviks
+    lzh: 奧陶紀
+    mk: ордовик
+    ms: Ordovisi
+    mzn: اوردویسین
+    nan: Ordovices-kì
+    nb: Ordovicium
+    ne: अवरप्रवाल युग
+    nl: Ordovicium
+    nn: ordovicium
+    no: Midtre ordovicium
+    oc: Ordovician
+    pl: ordowik
+    pms: Ordovician
+    pnb: اورڈوویشین
+    pt: Ordoviciano
+    ro: Ordovician
+    ru: ордовикский период
+    sh: Ordovicij
+    si: Ordovician
+    sk: Ordovik
+    sl: ordovicij
+    so: Ordofisiyaan
+    sr: ордовицијум
+    sr-ec: ордовицијум
+    sv: Ordovicium
+    ta: ஓர்டோவிசியக் காலம்
+    th: ยุคออร์โดวิเชียน
+    tl: Ordovician
+    tr: Ordovisyen
+    udm: ордовик вакыт
+    uk: ордовицький період
+    ur: آردو ویسی دور
+    uz: Ordovik
+    vi: Kỷ Ordovic
+    vo: Lordovig
+    war: Ordovician
+    wuu: 奥陶纪
+    yo: Ìgbà Ọ̀rdòfísíà
+    yue: 奧陶紀
+    zh: 奥陶纪
+  next_:
+    item: '[[Epoch-458~Late_Ordovician]]'
+  previous_:
+    item: '[[Epoch-485~Early_Ordovician]]'
   text_of_:
-    color: "0x4DB47E"
+    color: 0x4DB47E
+  time_:
+    started: -470.0e6
+    stopped: -458.4e6
 dv_is_:
   same_as:
-    - "[[WD~Middle_Ordovician,62100]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician|Epoch-470~Middle_Ordovician]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician.public|Epoch-470~Middle_Ordovician.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician.internal|Epoch-470~Middle_Ordovician.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician.protect|Epoch-470~Middle_Ordovician.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician.private|Epoch-470~Middle_Ordovician.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician.personal|Epoch-470~Middle_Ordovician.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician.secret|Epoch-470~Middle_Ordovician.secret]]"
-dv_has_duration_years: "1.160e+7"
-dv_has_previous_item: "[[Epoch-485~Early_Ordovician]]"
-dv_has_next_item: "[[Epoch-458~Late_Ordovician]]"
+  - '[[WD~Middle_Ordovician,62100]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician|Epoch-470~Middle_Ordovician]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician.public|Epoch-470~Middle_Ordovician.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician.internal|Epoch-470~Middle_Ordovician.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician.protect|Epoch-470~Middle_Ordovician.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician.private|Epoch-470~Middle_Ordovician.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician.personal|Epoch-470~Middle_Ordovician.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician.secret|Epoch-470~Middle_Ordovician.secret]]'
+dv_has_duration_years: 1.160e+7
+dv_has_previous_item: '[[Epoch-485~Early_Ordovician]]'
+dv_has_next_item: '[[Epoch-458~Late_Ordovician]]'
 dv_is_same_as:
-  - "[[WD~Middle_Ordovician,62100]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician|Epoch-470~Middle_Ordovician]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician.public|Epoch-470~Middle_Ordovician.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician.internal|Epoch-470~Middle_Ordovician.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician.protect|Epoch-470~Middle_Ordovician.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician.private|Epoch-470~Middle_Ordovician.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician.personal|Epoch-470~Middle_Ordovician.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician.secret|Epoch-470~Middle_Ordovician.secret]]"
+- '[[WD~Middle_Ordovician,62100]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician|Epoch-470~Middle_Ordovician]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician.public|Epoch-470~Middle_Ordovician.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician.internal|Epoch-470~Middle_Ordovician.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician.protect|Epoch-470~Middle_Ordovician.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician.private|Epoch-470~Middle_Ordovician.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician.personal|Epoch-470~Middle_Ordovician.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician.secret|Epoch-470~Middle_Ordovician.secret]]'
 dv_has_name_bg: Среден Ордовик
 dv_has_name_cs: Střední ordovik
 dv_has_name_da: Mellem Ordovicium
@@ -115,11 +246,10 @@ dv_has_name_sl: srednji ordovicij
 dv_has_name_sv: mellersta ordovicium
 dv_has_name_zh: 中奥陶世
 dv_has_name_abbreviated: O2
-dv_has_time_started: "-470.0e6"
-dv_has_time_stopped: "-458.4e6"
-dv_has_text_of_color: "0x4DB47E"
+dv_has_time_started: -470.0e6
+dv_has_time_stopped: -458.4e6
+dv_has_text_of_color: 0x4DB47E
 ---
-
 # [[Epoch-470~Middle_Ordovician]] 
 
 #is_a_/time_/Epoch 

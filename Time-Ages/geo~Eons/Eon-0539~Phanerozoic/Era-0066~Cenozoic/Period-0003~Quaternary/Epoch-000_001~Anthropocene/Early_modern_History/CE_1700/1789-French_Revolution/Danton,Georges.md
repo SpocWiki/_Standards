@@ -1,54 +1,78 @@
 ---
 aliases:
-  - Georges_Danton
-  - Georges Jacques Danton
-  - Danton
-  - Danton,Georges
+- Danton
+- Danton Jorj Jak
+- Danton,Georges
+- Georges Danton
+- Georges Jacques Danton
+- Georges-Jacques Danton
+- Georges_Danton
+- Georgius Danton
+- Žorž Danton
+- Žoržs Dantons
+- Ζορζ Ζακ Νταντόν
+- Жорж Дантон
+- Жорж Жак Дантон
+- Ժորժ Ժակ Դանտոն
+- ז'ורז' דנטון
+- جورج دانتون
+- جورج ډېنټن
+- دانتون
+- ژرژ دانتون
+- जोर्जेस डेंटन
+- ਜਾਰਜਸ ਡੈਂਟਨ
+- ฌอร์ฌ ด็องตง
+- ჟორჟ ჟაკ დანტონი
+- ジョルジュ・ダントン
+- 丹東
+- 乔治·雅克·丹敦
+- 喬治·雅克·丹敦
+- 조르주 당통
 has_id_wikidata: Q184623
 Libris_URI: fcrttqqz00scf1x
 Krugosvet_article: istoriya/DANTON_ZHORZH_ZHAK.html
 name_in_native_language: Georges Danton
 date_of_death: 1794-04-05T00:00:00Z
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~revolutionary,3242115]]"
-  - "[[_Standards/WikiData/WD~lawyer,40348]]"
-cause_of_death: "[[_Standards/WikiData/WD~decapitation,204933]]"
-place_of_birth: "[[_Standards/WikiData/WD~Arcis_sur_Aube,269401]]"
-place_of_detention: "[[_Standards/WikiData/WD~Luxembourg_Palace,329852]]"
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~revolutionary,3242115]]'
+- '[[_Standards/WikiData/WD~lawyer,40348]]'
+cause_of_death: '[[_Standards/WikiData/WD~decapitation,204933]]'
+place_of_birth: '[[_Standards/WikiData/WD~Arcis_sur_Aube,269401]]'
+place_of_detention: '[[_Standards/WikiData/WD~Luxembourg_Palace,329852]]'
 described_by_source:
-  - "[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
-member_of: "[[_Standards/WikiData/WD~Committee_of_Public_Safety,724922]]"
-member_of_political_party: "[[_Standards/WikiData/WD~Cordeliers,829721]]"
+- '[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+member_of: '[[_Standards/WikiData/WD~Committee_of_Public_Safety,724922]]'
+member_of_political_party: '[[_Standards/WikiData/WD~Cordeliers,829721]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Antoinette_Gabrielle_Danton,2856965]]"
-  - "[[_Standards/WikiData/WD~Louise_Sébastienne_Danton,3263829]]"
-place_of_burial: "[[_Standards/WikiData/WD~Errancis_Cemetery,2972595]]"
+- '[[_Standards/WikiData/WD~Antoinette_Gabrielle_Danton,2856965]]'
+- '[[_Standards/WikiData/WD~Louise_Sébastienne_Danton,3263829]]'
+place_of_burial: '[[_Standards/WikiData/WD~Errancis_Cemetery,2972595]]'
 position_held:
-  - "[[_Standards/WikiData/WD~President_of_the_National_Convention,3409181]]"
-  - "[[_Standards/WikiData/WD~Minister_of_Justice,17553783]]"
-  - "[[_Standards/WikiData/WD~deputy_to_the_National_Convention,20808382]]"
-  - "[[_Standards/WikiData/WD~Member_of_parliament_for_the_Seine,58462858]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-given_name: "[[_Standards/WikiData/WD~Georges,15921764]]"
-family_name: "[[_Standards/WikiData/WD~Danton,29033242]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
+- '[[_Standards/WikiData/WD~President_of_the_National_Convention,3409181]]'
+- '[[_Standards/WikiData/WD~Minister_of_Justice,17553783]]'
+- '[[_Standards/WikiData/WD~deputy_to_the_National_Convention,20808382]]'
+- '[[_Standards/WikiData/WD~Member_of_parliament_for_the_Seine,58462858]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+given_name: '[[_Standards/WikiData/WD~Georges,15921764]]'
+family_name: '[[_Standards/WikiData/WD~Danton,29033242]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 date_of_birth: 1759-10-26T00:00:00Z
-work_locations: "[[_Standards/WikiData/WD~Colombia,739]]"
-manner_of_death: "[[_Standards/WikiData/WD~capital_punishment,8454]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-place_of_death: "[[_Standards/WikiData/WD~Paris,90]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~France,142]]"
-writing_language: "[[_Standards/WikiData/WD~French,150]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~French,150]]"
+work_locations: '[[_Standards/WikiData/WD~Colombia,739]]'
+manner_of_death: '[[_Standards/WikiData/WD~capital_punishment,8454]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+place_of_death: '[[_Standards/WikiData/WD~Paris,90]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~France,142]]'
+writing_language: '[[_Standards/WikiData/WD~French,150]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~French,150]]'
 Commons_gallery: Georges Jacques Danton
 Commons_category: Georges Jacques Danton
 Commons_Creator_page: Georges Jacques Danton
@@ -59,25 +83,111 @@ described_at_URL: http://www.digiporta.net/index.php?id=949472492
 ISNI: 109184393
 dv_is_:
   same_as:
-    - "[[../../../../../../../../../WikiData/WD~Georges_Danton,184623|WD~Georges_Danton,184623]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Danton,Georges|Danton,Georges]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Danton,Georges.public|Danton,Georges.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Danton,Georges.internal|Danton,Georges.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Danton,Georges.protect|Danton,Georges.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Danton,Georges.private|Danton,Georges.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Danton,Georges.personal|Danton,Georges.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Danton,Georges.secret|Danton,Georges.secret]]"
+  - '[[../../../../../../../../../WikiData/WD~Georges_Danton,184623|WD~Georges_Danton,184623]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Danton,Georges|Danton,Georges]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Danton,Georges.public|Danton,Georges.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Danton,Georges.internal|Danton,Georges.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Danton,Georges.protect|Danton,Georges.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Danton,Georges.private|Danton,Georges.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Danton,Georges.personal|Danton,Georges.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Danton,Georges.secret|Danton,Georges.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../../WikiData/WD~Georges_Danton,184623|WD~Georges_Danton,184623]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Danton,Georges|Danton,Georges]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Danton,Georges.public|Danton,Georges.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Danton,Georges.internal|Danton,Georges.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Danton,Georges.protect|Danton,Georges.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Danton,Georges.private|Danton,Georges.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Danton,Georges.personal|Danton,Georges.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Danton,Georges.secret|Danton,Georges.secret]]"
+- '[[../../../../../../../../../WikiData/WD~Georges_Danton,184623|WD~Georges_Danton,184623]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Danton,Georges|Danton,Georges]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Danton,Georges.public|Danton,Georges.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Danton,Georges.internal|Danton,Georges.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Danton,Georges.protect|Danton,Georges.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Danton,Georges.private|Danton,Georges.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Danton,Georges.personal|Danton,Georges.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Danton,Georges.secret|Danton,Georges.secret]]'
+dv_has_:
+  name_:
+    af: Georges Danton
+    an: Georges Jacques Danton
+    ar: جورج دانتون
+    arz: دانتون
+    ast: Georges-Jacques Danton
+    az: Danton Jorj Jak
+    be: Жорж Жак Дантон
+    be-tarask: Жорж Дантон
+    bg: Жорж Дантон
+    br: Georges-Jacques Danton
+    bs: Georges Danton
+    ca: Georges Jacques Danton
+    cs: Georges Danton
+    da: Georges-Jacques Danton
+    de: Georges Danton
+    ee: Georges Jacques Danton
+    el: Ζορζ Ζακ Νταντόν
+    en: Georges Danton
+    en-ca: Georges Danton
+    en-gb: Georges Danton
+    eo: Georges Danton
+    es: Georges-Jacques Danton
+    et: Georges Jacques Danton
+    eu: Georges Jacques Danton
+    fa: ژرژ دانتون
+    fi: Georges Danton
+    fr: Georges Jacques Danton
+    ga: Georges Jacques Danton
+    gl: Georges Jacques Danton
+    gsw: Georges Danton
+    he: ז'ורז' דנטון
+    hi: जोर्जेस डेंटन
+    hr: Georges Danton
+    hu: Georges Jacques Danton
+    hy: Ժորժ Ժակ Դանտոն
+    id: Georges Jacques Danton
+    io: Georges Danton
+    is: Georges Jacques Danton
+    it: Georges Jacques Danton
+    ja: ジョルジュ・ダントン
+    ka: ჟორჟ ჟაკ დანტონი
+    ko: 조르주 당통
+    ky: Жорж Жак Дантон
+    la: Georgius Danton
+    lb: Georges Jacques Danton
+    li: Georges Danton
+    lt: Georges Jacques Danton
+    lv: Žoržs Dantons
+    lzh: 丹東
+    mg: Georges Jacques Danton
+    mk: Жорж Дантон
+    nb: Georges Danton
+    nl: Georges Danton
+    nn: Georges Danton
+    pa: ਜਾਰਜਸ ਡੈਂਟਨ
+    pap: Georges Danton
+    pl: Georges Danton
+    ps: جورج ډېنټن
+    pt: Georges Jacques Danton
+    pt-br: Georges Jacques Danton
+    ro: Georges Jacques Danton
+    ru: Жорж Жак Дантон
+    sh: Georges Danton
+    sk: Georges Jacques Danton
+    sl: Georges-Jacques Danton
+    sq: Georges Danton
+    sr: Жорж Дантон
+    sr-ec: Жорж Дантон
+    sr-el: Žorž Danton
+    sv: Georges Jacques Danton
+    sw: Georges Danton
+    th: ฌอร์ฌ ด็องตง
+    tr: Georges Jacques Danton
+    uk: Жорж Жак Дантон
+    vi: Georges Danton
+    war: Georges Danton
+    wuu: 乔治·雅克·丹敦
+    yue: 喬治·雅克·丹敦
+    zh: 乔治·雅克·丹敦
+    zh-cn: 乔治·雅克·丹敦
+    zh-hans: 乔治·雅克·丹敦
+    zh-hant: 喬治·雅克·丹敦
+    zh-hk: 喬治·雅克·丹敦
+    zh-sg: 乔治·雅克·丹敦
+    zh-tw: 喬治·雅克·丹敦
 ---
-
 # [[Danton,Georges]] 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Georges_Danton,184623|WD~Georges_Danton,184623]] 

@@ -1,7 +1,38 @@
 ---
 has_id_wikidata: Q1201810
+dv_has_:
+  name_:
+    ar: مايكروسوفت بيسيك
+    ca: Microsoft BASIC
+    de: Microsoft BASIC
+    en: Microsoft BASIC
+    es: Microsoft BASIC
+    fr: BASIC Microsoft
+    hu: Microsoft BASIC
+    it: Microsoft BASIC
+    ja: Microsoft BASIC
+    ko: 마이크로소프트 베이직
+    ms: Microsoft BASIC
+    nl: Microsoft BASIC
+    pl: Microsoft BASIC
+    pt: Microsoft BASIC
+    ro: Microsoft BASIC
+    ru: Microsoft BASIC
+    sl: Microsoft BASIC
+    tr: Microsoft BASIC
+    uk: Microsoft BASIC
+    vec: Microsoft BASIC
+    vi: Microsoft BASIC
+    zh: Microsoft BASIC
+    zh-hans: Microsoft BASIC
+    zh-hant: Microsoft BASIC
+    zh-hk: Microsoft BASIC
+aliases:
+- BASIC Microsoft
+- Microsoft BASIC
+- مايكروسوفت بيسيك
+- 마이크로소프트 베이직
 ---
-
 # [[Microsoft_BASIC]] 
 
 #is_a_/ComputerLanguage 

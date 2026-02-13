@@ -1,9 +1,52 @@
 ---
 aliases:
-  - Portainer
-  - Container_Crane
-  - Container Crane
+- Container Crane
+- Containerbrüch
+- Containerbrücke
+- Container_Crane
+- grua portacontenidors
+- Grúa pórtico pa contenedores
+- grúa pórtico para contenedores
+- Houerhyskraan
+- Konteinerinis kranas
+- Konteinerkraana
+- Kontejnersko dvigalo
+- Kran peti kemas
+- Kren dermaga
+- Portainer
+- Portique à conteneurs
+- Portálový kontajnerový žeriav
+- Satamanosturi
+- ship to shore-kran
+- Suwnica bramowa
+- جرثقیل کانتینری
+- رافعة الحاويات الرهوية
+- 吊裝塔
 has_id_wikidata: Q500327
+dv_has_:
+  name_:
+    af: Houerhyskraan
+    ar: رافعة الحاويات الرهوية
+    ast: Grúa pórtico pa contenedores
+    ca: grua portacontenidors
+    cs: Portainer
+    de: Containerbrücke
+    en: portainer
+    es: grúa pórtico para contenedores
+    et: Konteinerkraana
+    fa: جرثقیل کانتینری
+    fi: Satamanosturi
+    fr: Portique à conteneurs
+    id: Kran peti kemas
+    lt: Konteinerinis kranas
+    ms: Kren dermaga
+    nds: Containerbrüch
+    pl: Suwnica bramowa
+    pt: Portainer
+    sk: Portálový kontajnerový žeriav
+    sl: Kontejnersko dvigalo
+    sv: ship to shore-kran
+    zh: 吊裝塔
 ---
 #is_/different_from :: [[Portainer.io-Image]] 
 

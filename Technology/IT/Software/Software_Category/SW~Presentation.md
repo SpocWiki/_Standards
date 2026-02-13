@@ -1,15 +1,97 @@
 ---
 aliases:
-  - Presentation Program
-  - presentation software
-  - SW~Presentation
+- aplikasi presentasi
+- aurkezpen programa
+- bildumilo
+- esitlustarkvara
+- esitysgrafiikka
+- glæruforrit
+- logiciel de présentation
+- oprogramowanie prezentacyjne
+- phần mềm trình diễn
+- predstavitveni program
+- presentasjonsprogram
+- presentatiesoftware
+- Presentation Program
+- presentation software
+- presentationsprogram
+- prezentační program
+- programa de presentacions
+- programa de presentación
+- programa de presentacións
+- programas de apresentação
+- Präsentationsprogramm
+- software di presentazione
+- sunum programı
+- SW~Presentation
+- vertoningsprogrammatuur
+- λογισμικό παρουσίασης
+- презентаций
+- презентационен софтуер
+- програма підготовки презентацій
+- программа подготовки презентаций
+- прэзэнтацыйная праграма
+- תוכנת מצגות
+- برنامج تقديم
+- برنامه ارائه
+- بەرنامەی پێشکەشکردن
+- இலத்திரனியல் நிகழ்த்துகை
+- プレゼンテーションソフトウェア
+- 演示用程序
+- 简报程式
+- 簡報程式
+- 簡報軟體
+- 프레젠테이션 소프트웨어
 has_id_wikidata: Q2115026
-subclass_of: "[[_Standards/WikiData/WD~application,166142]]"
-instance_of: "[[_Standards/WikiData/WD~software_category,17155032]]"
+subclass_of: '[[_Standards/WikiData/WD~application,166142]]'
+instance_of: '[[_Standards/WikiData/WD~software_category,17155032]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/LibreOffice%207.2.4.1%20Impress%20screenshot.png
 Commons_category: Presentation software
+dv_has_:
+  name_:
+    af: vertoningsprogrammatuur
+    ar: برنامج تقديم
+    be-tarask: прэзэнтацыйная праграма
+    bg: презентационен софтуер
+    ca: programa de presentacions
+    ckb: بەرنامەی پێشکەشکردن
+    cs: prezentační program
+    de: Präsentationsprogramm
+    el: λογισμικό παρουσίασης
+    en: presentation program
+    eo: bildumilo
+    es: programa de presentación
+    et: esitlustarkvara
+    eu: aurkezpen programa
+    fa: برنامه ارائه
+    fi: esitysgrafiikka
+    fr: logiciel de présentation
+    gl: programa de presentacións
+    he: תוכנת מצגות
+    id: aplikasi presentasi
+    is: glæruforrit
+    it: software di presentazione
+    ja: プレゼンテーションソフトウェア
+    ko: 프레젠테이션 소프트웨어
+    mhr: презентаций
+    nb: presentasjonsprogram
+    nl: presentatiesoftware
+    pl: oprogramowanie prezentacyjne
+    pt: programas de apresentação
+    ru: программа подготовки презентаций
+    sl: predstavitveni program
+    sv: presentationsprogram
+    ta: இலத்திரனியல் நிகழ்த்துகை
+    tr: sunum programı
+    uk: програма підготовки презентацій
+    vi: phần mềm trình diễn
+    zh: 簡報程式
+    zh-cn: 简报程式
+    zh-hans: 演示用程序
+    zh-hant: 簡報軟體
+    zh-hk: 簡報程式
+    zh-tw: 簡報程式
 ---
-
 # [[SW~Presentation]] 
 
 #is_/editor_of :: [[../../../../Society/Communication/Media/Creative_Work/Digital_Document/Presentation_Digital_Document|Presentation_Digital_Document]] 

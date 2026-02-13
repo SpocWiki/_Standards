@@ -1,26 +1,109 @@
 ---
 aliases:
-  - Proton
-  - Протон
-  - UR-500
+- Proton
+- Proton (họ tên lửa)
+- Proton hordozórakéta
+- Proton roketleri
+- Protono
+- Protonraket
+- Protón
+- UR-500
+- Пратон
+- Пратон-К
+- Протон
+- Протон зымыран-тасығышы
+- Պրոտոն (հրթիռ)
+- פרוטון
+- صاروخ بروتون
+- مووشەکی پرۆتۆن
+- پروتون
+- प्रोटॉन
+- புரோட்டான்
+- പ്രോട്ടോൺ
+- ပရိုတွန်ဒုံးပျံ
+- プロトン
+- 質子號運載火箭
+- 質子運載火箭
+- 质子号运载火箭
+- 프로톤 로켓
 has_id_wikidata: Q249231
-replaced_by: "[[_Standards/WikiData/WD~Angara,530600]]"
-manufacturer: "[[_Standards/WikiData/WD~Khrunichev_State_Research_and_Production_Space_Center,1197016]]"
-different_from: "[[_Standards/WikiData/WD~Proton,1572461]]"
-based_on: "[[_Standards/WikiData/WD~UR_500,10853123]]"
-subclass_of: "[[_Standards/WikiData/WD~expendable_launch_vehicle,15078724]]"
-described_by_source: "[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]"
-instance_of: "[[_Standards/WikiData/WD~rocket_family,109542585]]"
-country_of_origin: "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
+replaced_by: '[[_Standards/WikiData/WD~Angara,530600]]'
+manufacturer: '[[_Standards/WikiData/WD~Khrunichev_State_Research_and_Production_Space_Center,1197016]]'
+different_from: '[[_Standards/WikiData/WD~Proton,1572461]]'
+based_on: '[[_Standards/WikiData/WD~UR_500,10853123]]'
+subclass_of: '[[_Standards/WikiData/WD~expendable_launch_vehicle,15078724]]'
+described_by_source: '[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]'
+instance_of: '[[_Standards/WikiData/WD~rocket_family,109542585]]'
+country_of_origin: '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
 country:
-  - "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
+- '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
+- '[[_Standards/WikiData/WD~Russia,159]]'
 native_label: Протон
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Proton%20Zvezda.jpg
 Commons_gallery: Proton (rocket)
 Commons_category: Proton (rocket)
+dv_has_:
+  name_:
+    ar: صاروخ بروتون
+    az: Proton
+    be: Пратон
+    be-tarask: Пратон-К
+    bg: Протон
+    ca: Proton
+    ckb: مووشەکی پرۆتۆن
+    cs: Proton
+    da: Protonraket
+    de: Proton
+    en: Proton
+    en-ca: Proton
+    en-gb: Proton
+    eo: Protono
+    es: Protón
+    eu: Proton
+    fa: پروتون
+    fi: Proton
+    fr: Proton
+    he: פרוטון
+    hi: प्रोटॉन
+    hr: Proton
+    hu: Proton hordozórakéta
+    hy: Պրոտոն (հրթիռ)
+    id: Proton
+    it: Proton
+    ja: プロトン
+    kk: Протон зымыран-тасығышы
+    ko: 프로톤 로켓
+    lb: Proton
+    lv: Proton
+    ml: പ്രോട്ടോൺ
+    my: ပရိုတွန်ဒုံးပျံ
+    nb: Proton
+    nl: Proton
+    pl: Proton
+    pt: Proton
+    pt-br: Proton
+    ro: Proton
+    ru: Протон
+    sh: Proton
+    sk: Proton
+    sl: Proton
+    sr: Протон
+    sr-ec: Протон
+    sr-el: Proton
+    sv: Protonraket
+    ta: புரோட்டான்
+    tr: Proton roketleri
+    uk: Протон
+    vi: Proton (họ tên lửa)
+    yue: 質子運載火箭
+    zh: 质子号运载火箭
+    zh-cn: 质子号运载火箭
+    zh-hans: 质子号运载火箭
+    zh-hant: 質子號運載火箭
+    zh-hk: 質子號運載火箭
+    zh-sg: 质子号运载火箭
+    zh-tw: 質子號運載火箭
 ---
-
 # [[Proton-Rocket]] 
 
 #is_/same_as :: [[WD~Proton,249231]] 

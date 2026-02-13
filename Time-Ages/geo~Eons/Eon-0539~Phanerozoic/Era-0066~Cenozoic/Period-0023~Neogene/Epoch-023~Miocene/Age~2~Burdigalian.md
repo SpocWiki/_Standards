@@ -1,75 +1,127 @@
 ---
 aliases:
-  - Burdigalian
+- Burdigal
+- burdigala
+- Burdigala-kî
+- Burdigalas stāvs
+- Burdigalian
+- Burdigaliano
+- Burdigalianu
+- Burdigaliar
+- Burdigalien
+- Burdigaliense
+- Burdigalium
+- Burdigaliyen
+- Burdigalià
+- burdygał
+- burgundij
+- tầng Burdigala
+- Бурдігальський ярус
+- бурдигалиј
+- бурдигальский ярус
+- البروديغالي
+- بوردیگالین
+- バーディガリアン
+- 布尔迪加尔阶
+- 布林迪加爾階
+- 波爾多階
+- 부르디갈라절
 has_id_wikidata: Q508650
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~Orleanian,2031089]]"
-named_by: "[[_Standards/WikiData/WD~Charles_Depéret,2958889]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Burdigalian,21607908]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~Orleanian,2031089]]'
+named_by: '[[_Standards/WikiData/WD~Charles_Depéret,2958889]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Burdigalian,21607908]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 start_time: -20440000-01-01T00:00:00Z
-named_after: "[[_Standards/WikiData/WD~Bordeaux,1479]]"
+named_after: '[[_Standards/WikiData/WD~Bordeaux,1479]]'
 Commons_category: Burdigalian
 sRGB_color_hex_triplet: FFFF41
 end_time: -15980000-01-01T00:00:00Z
 dv_has_:
   duration_:
-    years: "4.460e+6"
-  previous_:
-    item: "[[Age~1~Aquitanian]]"
-  next_:
-    item: "[[Age~3~Langhian]]"
+    years: 4.460e+6
   name_:
+    abbreviated: n2
+    af: Burdigalium
+    ar: البروديغالي
+    ast: Burdigalianu
     bg: Бурдигал
+    ca: Burdigalià
     cs: Burdigal
     da: Burdigalien
     de: Burdigalium
+    en: Burdigalian
+    en-gb: Burdigalian
+    eo: Burdigaliano
     es: Burdigaliense
     et: Burdigali
+    eu: Burdigaliar
+    fa: بوردیگالین
     fi: Burdigal
     fr: Burdigalien
+    gl: Burdigaliano
     hu: burdigaliai
-    it: burdigaliano
-    ja: バーディガリアン期
+    id: Burdigalium
+    it: Burdigaliano
+    ja: バーディガリアン
+    ko: 부르디갈라절
     lt: Burdigalis
-    nl: Burdigaliën-Hemmoor
+    lv: Burdigalas stāvs
+    nan: Burdigala-kî
+    nds: Burdigalium
+    nl: Burdigalien
+    nn: burdigala
     no: Burdigalium
-    pl: Burdygał
+    pl: burdygał
     pt: Burdigaliano
+    ro: Burdigalian
+    ru: бурдигальский ярус
+    scn: Burdigalianu
+    sh: Burdigal
     sk: burdigal
-    sl: burdigalij
+    sl: burgundij
+    sr: бурдигалиј
     sv: burdigal
-    zh: 布迪加尔期
-    abbreviated: n2
-  time_:
-    started: "-20.44e6"
-    stopped: "-15.98e6"
+    tr: Burdigaliyen
+    uk: Бурдігальський ярус
+    vec: Burdigalian
+    vi: tầng Burdigala
+    zh: 波爾多階
+    zh-hans: 布尔迪加尔阶
+    zh-hant: 布林迪加爾階
+  next_:
+    item: '[[Age~3~Langhian]]'
+  previous_:
+    item: '[[Age~1~Aquitanian]]'
   text_of_:
-    color: "0xFFFF41"
+    color: 0xFFFF41
+  time_:
+    started: -20.44e6
+    stopped: -15.98e6
 dv_is_:
   same_as:
-    - "[[WD~Burdigalian,508650]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~2~Burdigalian|Age~2~Burdigalian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~2~Burdigalian.public|Age~2~Burdigalian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~2~Burdigalian.internal|Age~2~Burdigalian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~2~Burdigalian.protect|Age~2~Burdigalian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~2~Burdigalian.private|Age~2~Burdigalian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~2~Burdigalian.personal|Age~2~Burdigalian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~2~Burdigalian.secret|Age~2~Burdigalian.secret]]"
-dv_has_duration_years: "4.460e+6"
-dv_has_previous_item: "[[Age~1~Aquitanian]]"
-dv_has_next_item: "[[Age~3~Langhian]]"
+  - '[[WD~Burdigalian,508650]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~2~Burdigalian|Age~2~Burdigalian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~2~Burdigalian.public|Age~2~Burdigalian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~2~Burdigalian.internal|Age~2~Burdigalian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~2~Burdigalian.protect|Age~2~Burdigalian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~2~Burdigalian.private|Age~2~Burdigalian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~2~Burdigalian.personal|Age~2~Burdigalian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~2~Burdigalian.secret|Age~2~Burdigalian.secret]]'
+dv_has_duration_years: 4.460e+6
+dv_has_previous_item: '[[Age~1~Aquitanian]]'
+dv_has_next_item: '[[Age~3~Langhian]]'
 dv_is_same_as:
-  - "[[WD~Burdigalian,508650]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~2~Burdigalian|Age~2~Burdigalian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~2~Burdigalian.public|Age~2~Burdigalian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~2~Burdigalian.internal|Age~2~Burdigalian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~2~Burdigalian.protect|Age~2~Burdigalian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~2~Burdigalian.private|Age~2~Burdigalian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~2~Burdigalian.personal|Age~2~Burdigalian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~2~Burdigalian.secret|Age~2~Burdigalian.secret]]"
+- '[[WD~Burdigalian,508650]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~2~Burdigalian|Age~2~Burdigalian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~2~Burdigalian.public|Age~2~Burdigalian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~2~Burdigalian.internal|Age~2~Burdigalian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~2~Burdigalian.protect|Age~2~Burdigalian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~2~Burdigalian.private|Age~2~Burdigalian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~2~Burdigalian.personal|Age~2~Burdigalian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~2~Burdigalian.secret|Age~2~Burdigalian.secret]]'
 dv_has_name_bg: Бурдигал
 dv_has_name_cs: Burdigal
 dv_has_name_da: Burdigalien
@@ -91,9 +143,9 @@ dv_has_name_sl: burdigalij
 dv_has_name_sv: burdigal
 dv_has_name_zh: 布迪加尔期
 dv_has_name_abbreviated: n2
-dv_has_time_started: "-20.44e6"
-dv_has_time_stopped: "-15.98e6"
-dv_has_text_of_color: "0xFFFF41"
+dv_has_time_started: -20.44e6
+dv_has_time_stopped: -15.98e6
+dv_has_text_of_color: 0xFFFF41
 ---
 # [[Age~2~Burdigalian]] 
 

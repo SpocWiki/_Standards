@@ -1,13 +1,69 @@
 ---
 aliases:
-  - Gerüst
-  - Scaffold
+- Aldamio
+- andaime
+- andamio
+- Andamiu
+- bastida
+- bouwsteiger
+- byggnadsställning
+- Eshafodo
+- Estada
+- Gerüst
+- Giàn giáo công tác
+- iskele
+- lešenie
+- lešení
+- Mbyta'a
+- Nanglung
+- oder
+- Pastoliai
+- Perancah
+- ponteggio
+- rusztowanie
+- Scaffold
+- schelărie
+- Skafaldo
+- Skela
+- Stee
+- Steierwerk
+- Stillads
+- stillas
+- Tabulatio structoria
+- Telling
+- työteline
+- állványzat
+- échafaudage
+- σκαλωσιά
+- балясат
+- грађевинске скеле
+- леса
+- Риштування
+- рыштаванні
+- рыштаваньне
+- скела
+- Строително скеле
+- փայտամած
+- פיגום
+- داربست
+- سِقَالَة
+- मचान
+- சாரம்
+- పరంజా
+- ಸ್ಕ್ಯಾಫೋಲ್ಡಿಂಗ್
+- นั่งร้าน
+- ငြမ်း
+- 棚架
+- 脚手架
+- 腳手架
+- 足場
+- 비계
 has_id_wikidata: Q233320
 location: '[[_Standards/WikiData/WD~construction_site,360418]]'
 has_contributing_factor: '[[_Standards/WikiData/WD~construction,385378]]'
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 used_by: '[[_Standards/WikiData/WD~construction_worker,811122]]'
 subclass_of: '[[_Standards/WikiData/WD~product,2424752]]'
 has_use: '[[_Standards/WikiData/WD~transport,7590]]'
@@ -15,8 +71,75 @@ Nomenclature_for_Museum_Cataloging: 8698
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Capitol%20Dome%20Restoration%20-%20Early%20October%202014%20%2815275286649%29.jpg
 Commons_category: Scaffolding
 OpenStreetMap_tag: support=scaffold
+dv_has_:
+  name_:
+    af: Steierwerk
+    ar: سِقَالَة
+    ast: Andamiu
+    be: рыштаванні
+    be-tarask: рыштаваньне
+    bew: Nanglung
+    bg: Строително скеле
+    ca: bastida
+    cs: lešení
+    da: Stillads
+    de: Gerüst
+    el: σκαλωσιά
+    en: scaffold
+    eo: Skafaldo
+    es: andamio
+    et: Telling
+    eu: Aldamio
+    fa: داربست
+    fi: työteline
+    fr: échafaudage
+    gl: Estada
+    gn: Mbyta'a
+    he: פיגום
+    hi: मचान
+    hr: Skela
+    hu: állványzat
+    hy: փայտամած
+    id: Perancah
+    io: Eshafodo
+    it: ponteggio
+    ja: 足場
+    kn: ಸ್ಕ್ಯಾಫೋಲ್ಡಿಂಗ್
+    ko: 비계
+    la: Tabulatio structoria
+    lb: Stee
+    lt: Pastoliai
+    ms: perancah
+    my: ငြမ်း
+    myv: балясат
+    nb: stillas
+    nl: bouwsteiger
+    pl: rusztowanie
+    pt: andaime
+    pt-br: andaime
+    ro: schelărie
+    ru: леса
+    sh: Skela
+    sk: lešenie
+    sl: oder
+    sr: грађевинске скеле
+    sr-ec: скела
+    sv: byggnadsställning
+    ta: சாரம்
+    te: పరంజా
+    th: นั่งร้าน
+    tr: iskele
+    uk: Риштування
+    vi: Giàn giáo công tác
+    yue: 棚架
+    zh: 腳手架
+    zh-cn: 脚手架
+    zh-hans: 脚手架
+    zh-hant: 腳手架
+    zh-hk: 腳手架
+    zh-sg: 脚手架
+    zh-tw: 腳手架
 ---
-
 # [[Scaffold]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Scaffold,233320|WD~Scaffold,233320]]  

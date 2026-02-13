@@ -1,90 +1,105 @@
 ---
 aliases:
-  - Rhuddanian
-  - Рудан
-  - Rhuddan
-  - Rhuddanien
-  - Rhuddanium
-  - Rhuddaniense
-  - Rhuddani
-  - rhuddani
-  - rhuddaniano
-  - ルダニアン期
-  - Rudanis
-  - Rhuddaniën
-  - Rudaniano
-  - rhuddan
-  - rhuddanij
-  - 鲁丹期
+- Rhuddan
+- Rhuddani
+- Rhuddani lade
+- Rhuddanian
+- rhuddaniano
+- Rhuddanien
+- Rhuddaniense
+- rhuddanij
+- Rhuddanium
+- Rhuddaniën
+- Rudaniano
+- Rudanis
+- Ruddan
+- Ruddanianu
+- Tầng Rhuddan
+- Рудан
+- Руданий
+- рудданский ярус
+- الروداني
+- رودانین (زمینشناسی)
+- ラッダニアン
+- ルダニアン期
+- 鲁丹期
 has_id_wikidata: Q260369
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-named_by: "[[_Standards/WikiData/WD~Charles_Hepworth_Holland,1064829]]"
-named_after: "[[_Standards/WikiData/WD~Cwm_Rhuddan,29505497]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-follows: "[[_Standards/WikiData/WD~Cincinnatian,131749698]]"
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_Rhuddanian,134711803]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+named_by: '[[_Standards/WikiData/WD~Charles_Hepworth_Holland,1064829]]'
+named_after: '[[_Standards/WikiData/WD~Cwm_Rhuddan,29505497]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+follows: '[[_Standards/WikiData/WD~Cincinnatian,131749698]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_Rhuddanian,134711803]]'
 end_time: -440800000-01-01T00:00:00Z
 coordinate_location: Point(-3.27 55.44)
 start_time: -443800000-01-01T00:00:00Z
 sRGB_color_hex_triplet: 93DBC6
 dv_has_:
   duration_:
-    years: "3.000e+6"
-  previous_:
-    item: "[[../../Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-445~Hirnantian|Age-445~Hirnantian]]"
-  next_:
-    item: "[[Age~2~Aeronian]]"
+    years: 3.000e+6
   name_:
-    bg: Рудан
+    abbreviated: s1
+    ar: الروداني
+    bg: Руданий
     cs: Rhuddan
     da: Rhuddanien
     de: Rhuddanium
+    en: Rhuddanian
     es: Rhuddaniense
-    et: Rhuddani
+    et: Rhuddani lade
+    fa: رودانین (زمینشناسی)
     fi: Rhuddan
     fr: Rhuddanien
     hu: rhuddani
-    it: rhuddaniano
-    ja: ルダニアン期
+    id: Rhuddanium
+    it: Rhuddaniano
+    ja: ラッダニアン
     lt: Rudanis
-    nl: Rhuddaniën
+    nl: Rhuddanien
+    nn: rhuddan
     no: Rhuddanium
-    pl: Rhuddan
-    pt: Rudaniano
+    pl: Ruddan
+    pt: Rhuddaniano
+    ru: рудданский ярус
+    scn: Ruddanianu
     sk: rhuddan
     sl: rhuddanij
     sv: rhuddan
+    vi: Tầng Rhuddan
     zh: 鲁丹期
-    abbreviated: s1
-  time_:
-    started: "-443.8e6"
-    stopped: "-440.8e6"
+  next_:
+    item: '[[Age~2~Aeronian]]'
+  previous_:
+    item: '[[../../Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-445~Hirnantian|Age-445~Hirnantian]]'
   text_of_:
-    color: "0xA6DCB5"
+    color: 0xA6DCB5
+  time_:
+    started: -443.8e6
+    stopped: -440.8e6
 dv_is_:
   same_as:
-    - "[[WD~Rhuddanian,260369]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian|Age~1~Rhuddanian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian.public|Age~1~Rhuddanian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian.internal|Age~1~Rhuddanian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian.protect|Age~1~Rhuddanian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian.private|Age~1~Rhuddanian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian.personal|Age~1~Rhuddanian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian.secret|Age~1~Rhuddanian.secret]]"
-dv_has_duration_years: "3.000e+6"
-dv_has_previous_item: "[[../../Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-445~Hirnantian|Age-445~Hirnantian]]"
-dv_has_next_item: "[[Age~2~Aeronian]]"
+  - '[[WD~Rhuddanian,260369]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian|Age~1~Rhuddanian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian.public|Age~1~Rhuddanian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian.internal|Age~1~Rhuddanian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian.protect|Age~1~Rhuddanian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian.private|Age~1~Rhuddanian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian.personal|Age~1~Rhuddanian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian.secret|Age~1~Rhuddanian.secret]]'
+dv_has_duration_years: 3.000e+6
+dv_has_previous_item: '[[../../Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-445~Hirnantian|Age-445~Hirnantian]]'
+dv_has_next_item: '[[Age~2~Aeronian]]'
 dv_is_same_as:
-  - "[[WD~Rhuddanian,260369]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian|Age~1~Rhuddanian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian.public|Age~1~Rhuddanian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian.internal|Age~1~Rhuddanian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian.protect|Age~1~Rhuddanian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian.private|Age~1~Rhuddanian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian.personal|Age~1~Rhuddanian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian.secret|Age~1~Rhuddanian.secret]]"
+- '[[WD~Rhuddanian,260369]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian|Age~1~Rhuddanian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian.public|Age~1~Rhuddanian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian.internal|Age~1~Rhuddanian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian.protect|Age~1~Rhuddanian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian.private|Age~1~Rhuddanian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian.personal|Age~1~Rhuddanian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian.secret|Age~1~Rhuddanian.secret]]'
 dv_has_name_bg: Рудан
 dv_has_name_cs: Rhuddan
 dv_has_name_da: Rhuddanien
@@ -106,9 +121,9 @@ dv_has_name_sl: rhuddanij
 dv_has_name_sv: rhuddan
 dv_has_name_zh: 鲁丹期
 dv_has_name_abbreviated: s1
-dv_has_time_started: "-443.8e6"
-dv_has_time_stopped: "-440.8e6"
-dv_has_text_of_color: "0xA6DCB5"
+dv_has_time_started: -443.8e6
+dv_has_time_stopped: -440.8e6
+dv_has_text_of_color: 0xA6DCB5
 ---
 # [[Age~1~Rhuddanian]] 
 

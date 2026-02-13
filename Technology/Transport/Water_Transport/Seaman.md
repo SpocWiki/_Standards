@@ -1,31 +1,125 @@
 ---
 aliases:
+- denizci
+- itsasgizon
+- jūreivis
+- Kelasi Dua
+- laskar muda
+- madrus
+- mainâ
+- mairnéalach
+- marinaio
+- mariner
+- Marinero (rango)
+- mariñeiro
+- Martolod
+- marynarz
+- matalòt
+- matelot
+- Matroas
+- matros
+- Matrose
+- matroso
+- Matrous
+- matrozis
+- matruusi
+- mornar
+- námořník
+- orlogsgast
+- pomorščak
+- seaman
+- ναύτης
+- ведюшман
+- матрос
+- матрус
+- морнар
+- Новӣ
+- جندي
+- ناوی
+- 水兵
+- 海军列兵
+- 海军列兵 (俄罗斯)
+- 海軍列兵 (俄羅斯)
 has_id_wikidata: Q707995
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~private,158668]]"
-  - "[[_Standards/WikiData/WD~soldat,24261291]]"
-field_of_this_occupation: "[[_Standards/WikiData/WD~seamanship,351363]]"
+- '[[_Standards/WikiData/WD~private,158668]]'
+- '[[_Standards/WikiData/WD~soldat,24261291]]'
+field_of_this_occupation: '[[_Standards/WikiData/WD~seamanship,351363]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 part_of:
-  - "[[_Standards/WikiData/WD~merchant_marine,865132]]"
-  - "[[_Standards/WikiData/WD~navy,4508]]"
-different_from: "[[_Standards/WikiData/WD~seaman_recruit,16961535]]"
+- '[[_Standards/WikiData/WD~merchant_marine,865132]]'
+- '[[_Standards/WikiData/WD~navy,4508]]'
+different_from: '[[_Standards/WikiData/WD~seaman_recruit,16961535]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~maritime_occupation,99547053]]"
-  - "[[_Standards/WikiData/WD~military_rank,56019]]"
-subclass_of: "[[_Standards/WikiData/WD~sailor,45199]]"
+- '[[_Standards/WikiData/WD~maritime_occupation,99547053]]'
+- '[[_Standards/WikiData/WD~military_rank,56019]]'
+subclass_of: '[[_Standards/WikiData/WD~sailor,45199]]'
 Commons_category: Seamen
 female_form_of_label:
-  - mariñeira
-  - pomorščakinja
-  - marinaia
-  - Matrousin
+- mariñeira
+- pomorščakinja
+- marinaia
+- Matrousin
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Bart%20seaman%20Bastille%20Day%202008.jpg
 male_form_of_label: Matrous
+dv_has_:
+  name_:
+    ar: جندي
+    az: matros
+    ba: матрос
+    be: матрос
+    be-tarask: матрос
+    bg: матрос
+    br: Martolod
+    ca: mariner
+    cs: námořník
+    da: orlogsgast
+    de: Matrose
+    el: ναύτης
+    en: seaman
+    en-us: seaman
+    eo: matroso
+    es: Marinero (rango)
+    et: madrus
+    eu: itsasgizon
+    fa: ناوی
+    fi: matruusi
+    fr: matelot
+    fy: Matroas
+    ga: mairnéalach
+    gl: mariñeiro
+    id: Kelasi Dua
+    it: marinaio
+    ja: 水兵
+    kk: матрос
+    lb: Matrous
+    lij: mainâ
+    lt: jūreivis
+    lv: matrozis
+    mk: морнар
+    ms: laskar muda
+    myv: ведюшман
+    nb: matros
+    nl: seaman
+    oc: matalòt
+    pl: marynarz
+    ru: матрос
+    sl: pomorščak
+    sr: mornar
+    sv: matros
+    tg: Новӣ
+    tr: denizci
+    tt: матрус
+    uk: матрос
+    uz: matros
+    yue: 水兵
+    zh: 海军列兵
+    zh-cn: 海军列兵 (俄罗斯)
+    zh-hans: 海军列兵
+    zh-hant: 海軍列兵 (俄羅斯)
 ---
-
 # [[Seaman]] 
 
 #is_/same_as :: [[WD~Seaman,707995]] 

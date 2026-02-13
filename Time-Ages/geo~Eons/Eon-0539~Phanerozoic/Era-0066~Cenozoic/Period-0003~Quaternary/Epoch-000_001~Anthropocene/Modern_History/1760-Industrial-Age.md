@@ -1,39 +1,69 @@
 ---
 aliases:
-  - Industrial-Age
-  - Industrial age
+- Aois na Tionsclaíochta
+- Endüstri çağı
+- Industria Epoko
+- Industrial age
+- Industrial-Age
+- Industriezeitalter
+- Industrijsko doba
+- industriální doba
+- Koha Industriale
+- Аж үйлдвэрийн эрин үе
+- Արդյունաբերական դարաշրջան
+- عصر صناعي
+- عصر صنعتی
+- 工业时代
+- 工業時代
 has_id_wikidata: Q6027480
-instance_of: "[[_Standards/WikiData/WD~historical_period,11514315]]"
+instance_of: '[[_Standards/WikiData/WD~historical_period,11514315]]'
 end_time: http://www.wikidata.org/.well-known/genid/50726dda28afe48ca6eb721a7fb581bb
 start_time: 1780-01-01T00:00:00Z
 dv_has_:
+  duration_: P100Y
+  name_:
+    ar: عصر صناعي
+    bs: Industrijsko doba
+    cs: industriální doba
+    de: Industriezeitalter
+    en: Industrial Age
+    eo: Industria Epoko
+    fa: عصر صنعتی
+    ga: Aois na Tionsclaíochta
+    hy: Արդյունաբերական դարաշրջան
+    ja: 工業時代
+    mn: Аж үйлдвэрийн эрин үе
+    sq: Koha Industriale
+    tr: Endüstri çağı
+    zh: 工业时代
+    zh-hans: 工业时代
+    zh-hant: 工業時代
   time_:
     started: 1800-06-01T00:00:00.000+00:53
     stopped: 1900-06-01T00:00:00.000+01:00
-  duration_: P100Y
 dv_is_:
   same_as:
-    - "[[WD~Industrial_age,6027480]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/1760-Industrial-Age|1760-Industrial-Age]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/1760-Industrial-Age.public|1760-Industrial-Age.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/1760-Industrial-Age.internal|1760-Industrial-Age.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/1760-Industrial-Age.protect|1760-Industrial-Age.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/1760-Industrial-Age.private|1760-Industrial-Age.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/1760-Industrial-Age.personal|1760-Industrial-Age.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/1760-Industrial-Age.secret|1760-Industrial-Age.secret]]"
+  - '[[WD~Industrial_age,6027480]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/1760-Industrial-Age|1760-Industrial-Age]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/1760-Industrial-Age.public|1760-Industrial-Age.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/1760-Industrial-Age.internal|1760-Industrial-Age.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/1760-Industrial-Age.protect|1760-Industrial-Age.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/1760-Industrial-Age.private|1760-Industrial-Age.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/1760-Industrial-Age.personal|1760-Industrial-Age.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/1760-Industrial-Age.secret|1760-Industrial-Age.secret]]'
 dv_has_time_started: 1800-06-01
 dv_has_time_stopped: 1900-06-01
 dv_has_duration_years: 100
 dv_has_duration_: P100Y
 dv_is_same_as:
-  - "[[WD~Industrial_age,6027480]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/1760-Industrial-Age|1760-Industrial-Age]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/1760-Industrial-Age.public|1760-Industrial-Age.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/1760-Industrial-Age.internal|1760-Industrial-Age.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/1760-Industrial-Age.protect|1760-Industrial-Age.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/1760-Industrial-Age.private|1760-Industrial-Age.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/1760-Industrial-Age.personal|1760-Industrial-Age.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/1760-Industrial-Age.secret|1760-Industrial-Age.secret]]"
+- '[[WD~Industrial_age,6027480]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/1760-Industrial-Age|1760-Industrial-Age]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/1760-Industrial-Age.public|1760-Industrial-Age.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/1760-Industrial-Age.internal|1760-Industrial-Age.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/1760-Industrial-Age.protect|1760-Industrial-Age.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/1760-Industrial-Age.private|1760-Industrial-Age.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/1760-Industrial-Age.personal|1760-Industrial-Age.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/1760-Industrial-Age.secret|1760-Industrial-Age.secret]]'
 ---
 # [[1760-Industrial-Age]] 
 

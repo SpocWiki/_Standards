@@ -1,8 +1,96 @@
 ---
 has_id_wikidata: Q471748
+dv_has_:
+  name_:
+    ar: تدبير الحالات الاستثنائية
+    bg: Управление на изключения
+    bn: এক্সেপশন ব্যবস্থাপনা
+    ca: Tractament d'excepcions
+    cs: výjimka
+    de: Ausnahmebehandlung
+    en: exception handling
+    eo: esceptotraktado
+    es: manejo de excepciones
+    et: Eranditöötlus
+    fa: مدیریت استثنا
+    fi: Poikkeus
+    fr: système de gestion d'exceptions
+    he: טיפול בחריגות
+    hi: अपवाद संचालन
+    hr: Upravljanje iznimkama
+    hu: kivételkezelés
+    id: penanganan acara
+    is: Frábrigðissýslari
+    it: gestione delle eccezioni
+    ja: 例外処理
+    kn: ಎಕ್ಸೆಪ್ಶನ್ ಹ್ಯಾಂಡ್ಲಿಂಗ್
+    ko: 예외 처리
+    mk: обработка на исклучоци
+    nb: unntakshåndtering
+    nl: exception handling
+    pl: wyjątek
+    pt: tratamento de exceção
+    ru: исключение в программе
+    sl: upravljanje izjem
+    sr: Изузетак
+    sr-ec: Изузетак
+    sr-el: Izuzetak
+    sv: Undantagshantering
+    ta: விதிவிலக்கை கையாளுதல்
+    te: అసాధారణ పరిస్థితి నిర్వహణ
+    th: การจัดการสิ่งผิดปรกติ
+    tr: Hata işleme
+    uk: Обробка винятків
+    yue: 例外處理
+    zh: 异常处理
+    zh-cn: 异常处理
+    zh-hans: 异常处理
+    zh-hant: 異常處理
+    zh-hk: 例外處理
+    zh-sg: 异常处理
+    zh-tw: 例外處理
+aliases:
+- Ausnahmebehandlung
+- Eranditöötlus
+- esceptotraktado
+- exception handling
+- Frábrigðissýslari
+- gestione delle eccezioni
+- Hata işleme
+- Izuzetak
+- kivételkezelés
+- manejo de excepciones
+- penanganan acara
+- Poikkeus
+- système de gestion d'exceptions
+- Tractament d'excepcions
+- tratamento de exceção
+- Undantagshantering
+- unntakshåndtering
+- upravljanje izjem
+- Upravljanje iznimkama
+- výjimka
+- wyjątek
+- Изузетак
+- исключение в программе
+- обработка на исклучоци
+- Обробка винятків
+- Управление на изключения
+- טיפול בחריגות
+- تدبير الحالات الاستثنائية
+- مدیریت استثنا
+- अपवाद संचालन
+- এক্সেপশন ব্যবস্থাপনা
+- விதிவிலக்கை கையாளுதல்
+- అసాధారణ పరిస్థితి నిర్వహణ
+- ಎಕ್ಸೆಪ್ಶನ್ ಹ್ಯಾಂಡ್ಲಿಂಗ್
+- การจัดการสิ่งผิดปรกติ
+- 例外処理
+- 例外處理
+- 异常处理
+- 異常處理
+- 예외 처리
 ---
-
-
 #is_/similar_to :: [[../../../../../IT/Programming/Patterns/Patterns~Java.3/Patterns~Transaction|Patterns~Transaction]] 
 
 Exception Handling was introduced to [[../Prog~Functional/Prog~LISP|LISP]] during the 1960s 

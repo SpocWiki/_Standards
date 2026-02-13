@@ -1,8 +1,33 @@
 ---
 has_id_wikidata: Q1024000
+dv_has_:
+  name_:
+    ar: كوميت
+    bn: কোমিট (প্রোগ্রামিং ভাষা)
+    ca: COMIT
+    da: COMIT
+    de: COMIT
+    en: COMIT
+    es: COMIT
+    fi: COMIT
+    fr: COMIT
+    ga: COMIT
+    he: COMIT
+    it: COMIT
+    nl: COMIT
+    nn: COMIT
+    pt: COMIT
+    ro: COMIT
+    ru: COMIT
+    sv: COMIT
+    vec: COMIT
+    yue: COMIT
+    zh: COMIT
+aliases:
+- COMIT
+- كوميت
+- কোমিট (প্রোগ্রামিং ভাষা)
 ---
-
-
 # [[Prog~COMIT]] 
 
 #is_a_/ComputerLanguage 

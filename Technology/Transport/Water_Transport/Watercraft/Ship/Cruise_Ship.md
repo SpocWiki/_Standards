@@ -1,26 +1,150 @@
 ---
 aliases:
+- Brod za krstarenje
+- creuer
+- Cruceiro
+- crucero
+- cruceru
+- cruise ship
+- cruiseschip
+- cruiseskip
+- cruzeiro
+- Gurutzaontzi
+- JIRGIN RUWA NA FASINJA DON SHKATAWA SHAKATWA
+- Kapa pesiar
+- Kapal Pasiar
+- Kapal persiaran
+- Kapal pesiar
+- Keştiya gerandinê
+- Kreuzfahrtschiff
+- kruizinis laivas
+- kruvaziyer
+- Kruīza kuģis
+- krydstogtskib
+- kryssningsfartyg
+- long chrúsála
+- Meli za abiria Marekani
+- nave da crociera
+- navire de croisière
+- navă de croazieră
+- Plesierboot
+- plezurŝipo
+- potniška križarka
+- risteilyalus
+- Ristluslaev
+- Skemmtiferðaskip
+- statek wycieczkowy
+- tàu du lịch
+- výletní loď
+- üdülőhajó
+- κρουαζιερόπλοιο
+- Киштии гардишӣ
+- круізнае судна
+- круізны лайнэр
+- круїзне судно
+- крузер
+- круизен кораб
+- круизное судно
+- патнички крстосувач
+- אוניית תענוגות
+- سفينة سياحية
+- کشتی گردشی
+- क्रूज जहाज
+- প্রমোদতরী
+- ਕਰੂਜ਼ ਸ਼ਿਪ
+- เรือสำราญ
+- အပျော်စီးသင်္ဘော
+- クルーズ客船
+- 游轮
+- 郵輪
+- 유람선
 has_id_wikidata: Q39804
 different_from:
-  - "[[_Standards/WikiData/WD~cruiser,104843]]"
-  - "[[_Standards/WikiData/WD~ocean_liner,697196]]"
-has_use: "[[_Standards/WikiData/WD~cruise,1745299]]"
+- '[[_Standards/WikiData/WD~cruiser,104843]]'
+- '[[_Standards/WikiData/WD~ocean_liner,697196]]'
+has_use: '[[_Standards/WikiData/WD~cruise,1745299]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~passenger_vessel,2055880]]"
-  - "[[_Standards/WikiData/WD~ship,11446]]"
-instance_of: "[[_Standards/WikiData/WD~ship_type,2235308]]"
-designed_to_carry: "[[_Standards/WikiData/WD~cruise_passenger,22813653]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Cruise,108633684]]"
-Nomenclature_for_Museum_Cataloging: "12769"
+- '[[_Standards/WikiData/WD~passenger_vessel,2055880]]'
+- '[[_Standards/WikiData/WD~ship,11446]]'
+instance_of: '[[_Standards/WikiData/WD~ship_type,2235308]]'
+designed_to_carry: '[[_Standards/WikiData/WD~cruise_passenger,22813653]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Cruise,108633684]]'
+Nomenclature_for_Museum_Cataloging: 12769
 hashtag_: cruises
 Commons_category: Cruise ships
 image: http://commons.wikimedia.org/wiki/Special:FilePath/0%207842%20Oslo%20-%20F%C3%A4hrhafen.jpg
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Cruise%20ship%20side%20view.svg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Prince%20George%20Wharf%20in%20Nassau%20Harbor%20banner.jpg
-UNSPSC_Code: "25111509"
+UNSPSC_Code: 25111509
 IMDb_keyword: cruise-ship
+dv_has_:
+  name_:
+    af: Plesierboot
+    ar: سفينة سياحية
+    ast: cruceru
+    be: круізнае судна
+    be-tarask: круізны лайнэр
+    bg: круизен кораб
+    bn: প্রমোদতরী
+    ca: creuer
+    cs: výletní loď
+    da: krydstogtskib
+    de: Kreuzfahrtschiff
+    el: κρουαζιερόπλοιο
+    en: cruise ship
+    en-gb: cruise ship
+    en-us: cruise ship
+    eo: plezurŝipo
+    es: crucero
+    et: Ristluslaev
+    eu: Gurutzaontzi
+    fa: کشتی گردشی
+    fi: risteilyalus
+    fr: navire de croisière
+    ga: long chrúsála
+    gl: Cruceiro
+    ha: JIRGIN RUWA NA FASINJA DON SHKATAWA SHAKATWA
+    he: אוניית תענוגות
+    hi: क्रूज जहाज
+    hr: Brod za krstarenje
+    hu: üdülőhajó
+    id: Kapal pesiar
+    is: Skemmtiferðaskip
+    it: nave da crociera
+    ja: クルーズ客船
+    kge: Kapal Pasiar
+    ko: 유람선
+    ku: Keştiya gerandinê
+    lt: kruizinis laivas
+    lv: Kruīza kuģis
+    min: Kapa pesiar
+    mk: патнички крстосувач
+    ms: Kapal persiaran
+    my: အပျော်စီးသင်္ဘော
+    nb: cruiseskip
+    nl: cruiseschip
+    nn: cruiseskip
+    pa: ਕਰੂਜ਼ ਸ਼ਿਪ
+    pl: statek wycieczkowy
+    pt: cruzeiro
+    ro: navă de croazieră
+    ru: круизное судно
+    sl: potniška križarka
+    sr: крузер
+    sr-ec: крузер
+    sv: kryssningsfartyg
+    sw: Meli za abiria Marekani
+    tg: Киштии гардишӣ
+    th: เรือสำราญ
+    tr: kruvaziyer
+    uk: круїзне судно
+    vi: tàu du lịch
+    yue: 郵輪
+    zh: 郵輪
+    zh-hans: 游轮
+    zh-hk: 郵輪
+    zh-tw: 郵輪
 ---
-
 # [[Cruise_Ship]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Cruise_ship,39804|WD~Cruise_ship,39804]] 

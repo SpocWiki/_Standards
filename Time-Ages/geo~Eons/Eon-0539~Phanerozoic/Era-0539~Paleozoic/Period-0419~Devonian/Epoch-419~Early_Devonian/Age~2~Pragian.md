@@ -1,91 +1,116 @@
 ---
 aliases:
-  - Pragian
-  - Праг
-  - Prag
-  - Pragien
-  - Pragium
-  - Praguiense
-  - Praha
-  - Praguien
-  - prágai
-  - pragiano
-  - プラギアン期
-  - Pragis
-  - Pragiën
-  - Pragiano
-  - prág
-  - pragij
-  - prag
-  - 布拉格期
+- Prag
+- Praghiano
+- Praghianu
+- Pragian
+- pragiano
+- Pragien
+- Pragiense
+- pragij
+- Pragis
+- Pragium
+- Pragiën
+- Praguien
+- Praguiense
+- Praguià
+- Praha
+- prág
+- prágai
+- Tầng Praha
+- Зіґенський ярус
+- Зиген ярусы
+- Праг
+- пражский ярус
+- البراجي
+- پراگین
+- プラギアン
+- プラギアン期
+- 布拉格期
 has_id_wikidata: Q1089625
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-significant_place: "[[_Standards/WikiData/WD~Velká_Chuchle,84572475]]"
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Pragian,134605637]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+significant_place: '[[_Standards/WikiData/WD~Velká_Chuchle,84572475]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Pragian,134605637]]'
 start_time: -410800000-01-01T00:00:00Z
-named_after: "[[_Standards/WikiData/WD~Prague,1085]]"
+named_after: '[[_Standards/WikiData/WD~Prague,1085]]'
 sRGB_color_hex_triplet: EEC57B
 coordinate_location: Point(14.3726 50.0147)
 end_time: -407600000-01-01T00:00:00Z
 dv_has_:
   duration_:
-    years: "3.200e+6"
-  previous_:
-    item: "[[Age~1~Lochkovian]]"
-  next_:
-    item: "[[Age~3~Emsian]]"
+    years: 3.200e+6
   name_:
+    abbreviated: d2
+    af: Pragium
+    ar: البراجي
     bg: Праг
+    ca: Praguià
     cs: Prag
     da: Pragien
     de: Pragium
-    es: Praguiense
+    en: Pragian
+    es: Pragiense
     et: Praha
+    fa: پراگین
     fi: Praha
     fr: Praguien
     hu: prágai
-    it: pragiano
-    ja: プラギアン期
+    id: Pragium
+    it: Praghiano
+    ja: プラギアン
+    kk: Зиген ярусы
     lt: Pragis
-    nl: Pragiën
+    mul: Pragian
+    nl: Pragien
+    nn: praha
     no: Pragium
     pl: Prag
     pt: Pragiano
+    ru: пражский ярус
+    scn: Praghianu
     sk: prág
     sl: pragij
     sv: prag
+    uk: Зіґенський ярус
+    vi: Tầng Praha
     zh: 布拉格期
-    abbreviated: d2
-  time_:
-    started: "-410.8e6"
-    stopped: "-407.6e6"
+    zh-cn: 布拉格期
+    zh-hans: 布拉格期
+    zh-hant: 布拉格期
+  next_:
+    item: '[[Age~3~Emsian]]'
+  previous_:
+    item: '[[Age~1~Lochkovian]]'
   text_of_:
-    color: "0xE5C468"
+    color: 0xE5C468
+  time_:
+    started: -410.8e6
+    stopped: -407.6e6
 dv_is_:
   same_as:
-    - "[[WD~Pragian,1089625]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~2~Pragian|Age~2~Pragian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~2~Pragian.public|Age~2~Pragian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~2~Pragian.internal|Age~2~Pragian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~2~Pragian.protect|Age~2~Pragian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~2~Pragian.private|Age~2~Pragian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~2~Pragian.personal|Age~2~Pragian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~2~Pragian.secret|Age~2~Pragian.secret]]"
-dv_has_duration_years: "3.200e+6"
-dv_has_previous_item: "[[Age~1~Lochkovian]]"
-dv_has_next_item: "[[Age~3~Emsian]]"
+  - '[[WD~Pragian,1089625]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~2~Pragian|Age~2~Pragian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~2~Pragian.public|Age~2~Pragian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~2~Pragian.internal|Age~2~Pragian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~2~Pragian.protect|Age~2~Pragian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~2~Pragian.private|Age~2~Pragian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~2~Pragian.personal|Age~2~Pragian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~2~Pragian.secret|Age~2~Pragian.secret]]'
+dv_has_duration_years: 3.200e+6
+dv_has_previous_item: '[[Age~1~Lochkovian]]'
+dv_has_next_item: '[[Age~3~Emsian]]'
 dv_is_same_as:
-  - "[[WD~Pragian,1089625]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~2~Pragian|Age~2~Pragian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~2~Pragian.public|Age~2~Pragian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~2~Pragian.internal|Age~2~Pragian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~2~Pragian.protect|Age~2~Pragian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~2~Pragian.private|Age~2~Pragian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~2~Pragian.personal|Age~2~Pragian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~2~Pragian.secret|Age~2~Pragian.secret]]"
+- '[[WD~Pragian,1089625]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~2~Pragian|Age~2~Pragian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~2~Pragian.public|Age~2~Pragian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~2~Pragian.internal|Age~2~Pragian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~2~Pragian.protect|Age~2~Pragian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~2~Pragian.private|Age~2~Pragian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~2~Pragian.personal|Age~2~Pragian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~2~Pragian.secret|Age~2~Pragian.secret]]'
 dv_has_name_bg: Праг
 dv_has_name_cs: Prag
 dv_has_name_da: Pragien
@@ -107,9 +132,9 @@ dv_has_name_sl: pragij
 dv_has_name_sv: prag
 dv_has_name_zh: 布拉格期
 dv_has_name_abbreviated: d2
-dv_has_time_started: "-410.8e6"
-dv_has_time_stopped: "-407.6e6"
-dv_has_text_of_color: "0xE5C468"
+dv_has_time_started: -410.8e6
+dv_has_time_stopped: -407.6e6
+dv_has_text_of_color: 0xE5C468
 ---
 # [[Age~2~Pragian]] 
 

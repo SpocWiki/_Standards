@@ -1,78 +1,127 @@
 ---
 aliases:
-  - Thanetian
+- tanet
+- Tanetas stāvs
+- Tanetium
+- Tanetià
+- thanet
+- Thanetian
+- Thanetiano
+- Thanetianu
+- Thanetiar
+- Thanetien
+- Thanetiense
+- thanetij
+- Thanetium
+- Thanitianu
+- Thanétien
+- Tầng Thanet
+- танет
+- танетский ярус
+- Танетський ярус
+- الثانتي
+- تانتین
+- サネティアン
+- 贊尼特階
+- 赞尼特期
+- 赞尼特阶
+- 타네트절
 has_id_wikidata: Q508587
-named_by: "[[_Standards/WikiData/WD~Eugène_Renevier,116809]]"
-significant_place: "[[_Standards/WikiData/WD~Zumaia,229659]]"
+named_by: '[[_Standards/WikiData/WD~Eugène_Renevier,116809]]'
+significant_place: '[[_Standards/WikiData/WD~Zumaia,229659]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-named_after: "[[_Standards/WikiData/WD~Isle_of_Thanet,590422]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Thanetian,24068296]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Thanetian,133868914]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+named_after: '[[_Standards/WikiData/WD~Isle_of_Thanet,590422]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Thanetian,24068296]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Thanetian,133868914]]'
 coordinate_location: Point(-2.2594 43.3006)
-country: "[[_Standards/WikiData/WD~Spain,29]]"
+country: '[[_Standards/WikiData/WD~Spain,29]]'
 start_time: -59200000-01-01T00:00:00Z
 Commons_category: Thanetian
 sRGB_color_hex_triplet: FEC37D
 end_time: -56000000-01-01T00:00:00Z
 dv_has_:
   duration_:
-    years: "3.200e+6"
-  previous_:
-    item: "[[Age~2~Selandian]]"
-  next_:
-    item: "[[../Epoch-056~Eocene/Age~1~Ypresian|Age~1~Ypresian]]"
+    years: 3.200e+6
   name_:
+    abbreviated: e3
+    af: Tanetium
+    ar: الثانتي
+    ast: Thanetianu
     bg: Танет
+    ca: Tanetià
     cs: Thanet
     da: Thanetien
     de: Thanetium
+    en: Thanetian
     es: Thanetiense
     et: Thaneti
+    eu: Thanetiar
+    fa: تانتین
     fi: Thanet
     fr: Thanétien
+    gl: Thanetiano
     hu: thaneti
-    it: thanetiano
-    ja: サネティアン期
+    id: Thanetium
+    it: Thanetiano
+    ja: サネティアン
+    ko: 타네트절
     lt: Tanetis
-    nl: Thanetiën
+    lv: Tanetas stāvs
+    mk: танет
+    nds: Thanetium
+    nl: Thanetien
+    nn: thanet
     no: Thanetium
-    pl: Tanet
-    pt: Tanetiano
+    pl: tanet
+    pt: Thanetiano
+    ru: танетский ярус
+    scn: Thanitianu
+    sh: Tanet
     sk: tanet
     sl: thanetij
     sv: thanet
-    zh: 塔内提期
-    abbreviated: e3
-  time_:
-    started: "-59.2e6"
-    stopped: "-56.0e6"
+    tl: Thanetian
+    uk: Танетський ярус
+    vec: Thanetian
+    vi: Tầng Thanet
+    zh: 赞尼特期
+    zh-hans: 赞尼特阶
+    zh-hant: 贊尼特階
+    zh-hk: 贊尼特階
+  next_:
+    item: '[[../Epoch-056~Eocene/Age~1~Ypresian|Age~1~Ypresian]]'
+  previous_:
+    item: '[[Age~2~Selandian]]'
   text_of_:
-    color: "0xFDBF6F"
+    color: 0xFDBF6F
+  time_:
+    started: -59.2e6
+    stopped: -56.0e6
 dv_is_:
   same_as:
-    - "[[WD~Thanetian,508587]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~3~Thanetian|Age~3~Thanetian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~3~Thanetian.public|Age~3~Thanetian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~3~Thanetian.internal|Age~3~Thanetian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~3~Thanetian.protect|Age~3~Thanetian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~3~Thanetian.private|Age~3~Thanetian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~3~Thanetian.personal|Age~3~Thanetian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~3~Thanetian.secret|Age~3~Thanetian.secret]]"
-dv_has_duration_years: "3.200e+6"
-dv_has_previous_item: "[[Age~2~Selandian]]"
-dv_has_next_item: "[[../Epoch-056~Eocene/Age~1~Ypresian|Age~1~Ypresian]]"
+  - '[[WD~Thanetian,508587]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~3~Thanetian|Age~3~Thanetian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~3~Thanetian.public|Age~3~Thanetian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~3~Thanetian.internal|Age~3~Thanetian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~3~Thanetian.protect|Age~3~Thanetian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~3~Thanetian.private|Age~3~Thanetian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~3~Thanetian.personal|Age~3~Thanetian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~3~Thanetian.secret|Age~3~Thanetian.secret]]'
+dv_has_duration_years: 3.200e+6
+dv_has_previous_item: '[[Age~2~Selandian]]'
+dv_has_next_item: '[[../Epoch-056~Eocene/Age~1~Ypresian|Age~1~Ypresian]]'
 dv_is_same_as:
-  - "[[WD~Thanetian,508587]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~3~Thanetian|Age~3~Thanetian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~3~Thanetian.public|Age~3~Thanetian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~3~Thanetian.internal|Age~3~Thanetian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~3~Thanetian.protect|Age~3~Thanetian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~3~Thanetian.private|Age~3~Thanetian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~3~Thanetian.personal|Age~3~Thanetian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~3~Thanetian.secret|Age~3~Thanetian.secret]]"
+- '[[WD~Thanetian,508587]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~3~Thanetian|Age~3~Thanetian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~3~Thanetian.public|Age~3~Thanetian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~3~Thanetian.internal|Age~3~Thanetian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~3~Thanetian.protect|Age~3~Thanetian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~3~Thanetian.private|Age~3~Thanetian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~3~Thanetian.personal|Age~3~Thanetian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~3~Thanetian.secret|Age~3~Thanetian.secret]]'
 dv_has_name_bg: Танет
 dv_has_name_cs: Thanet
 dv_has_name_da: Thanetien
@@ -94,9 +143,9 @@ dv_has_name_sl: thanetij
 dv_has_name_sv: thanet
 dv_has_name_zh: 塔内提期
 dv_has_name_abbreviated: e3
-dv_has_time_started: "-59.2e6"
-dv_has_time_stopped: "-56.0e6"
-dv_has_text_of_color: "0xFDBF6F"
+dv_has_time_started: -59.2e6
+dv_has_time_stopped: -56.0e6
+dv_has_text_of_color: 0xFDBF6F
 ---
 # [[Age~3~Thanetian]] 
 

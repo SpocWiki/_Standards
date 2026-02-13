@@ -1,33 +1,138 @@
 ---
 aliases:
-  - Milankovitch cycle
+- Chu kỳ Milankovitch
+- Cicli di Milanković
+- cykle Milankovicia
+- Kitaran Milankovitch
+- Milankovich cycle
+- Milankovitch cycle
+- Milankovitchen teoria
+- Milankoviç Döngüsü
+- Milanković-cykler
+- Milanković-elmélet
+- milanković-parameters
+- Milanković-syklusane
+- Milanković-syklusene
+- Milanković-teorie
+- Milanković-Zyklen
+- Milankovićevi ciklusi
+- Milankovići hüpotees
+- Milankovićin jaksot
+- Milankoviĉ-cikloj
+- Milankovičiaus ciklai
+- Milankovičov cyklus
+- Milankovičovy cykly
+- Mizunguko ya Milankovich
+- paramètres de Milanković
+- Siklus Milankovitch
+- teoria de Milankovitch
+- Tsarin Milankovitch
+- Variaciones orbitales
+- Variacións orbitais
+- Variação orbital
+- Κύκλος Μιλάνκοβιτς
+- Миланковићеви циклуси
+- Миланковиќеви циклуси
+- Цикли Миланковича
+- Цикли на Миланкович
+- Циклы Миланковича
+- Цыклы Міланкавіча
+- Միլանկովիչի ցիկլներ
+- מחזורי מילנקוביץ'
+- دورات ميلانكوفيتش
+- چرخههای میلانکوویچ
+- মিলানকোভিচ চক্র
+- ਮਿਲਾਨਕੋਵਿਚ ਚੱਕਰ
+- მილანკოვიჩის ციკლები
+- ミランコビッチ・サイクル
+- 米兰科维奇循环
+- 米蘭科維奇循環
+- 밀란코비치 주기
 has_id_wikidata: Q211446
-named_after: "[[_Standards/WikiData/WD~Milutin_Milanković,89054]]"
-instance_of: "[[_Standards/WikiData/WD~cyclic_process,2692606]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
+named_after: '[[_Standards/WikiData/WD~Milutin_Milanković,89054]]'
+instance_of: '[[_Standards/WikiData/WD~cyclic_process,2692606]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
 Commons_gallery: Milankovitch cycles
 Commons_category: Milankovitch cycles
 dv_is_:
   same_as:
-    - "[[WD~Milankovitch_cycle,Q211446]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Milankovitch_Cycle|Milankovitch_Cycle]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Milankovitch_Cycle.public|Milankovitch_Cycle.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Milankovitch_Cycle.internal|Milankovitch_Cycle.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Milankovitch_Cycle.protect|Milankovitch_Cycle.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Milankovitch_Cycle.private|Milankovitch_Cycle.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Milankovitch_Cycle.personal|Milankovitch_Cycle.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Milankovitch_Cycle.secret|Milankovitch_Cycle.secret]]"
+  - '[[WD~Milankovitch_cycle,Q211446]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Milankovitch_Cycle|Milankovitch_Cycle]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Milankovitch_Cycle.public|Milankovitch_Cycle.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Milankovitch_Cycle.internal|Milankovitch_Cycle.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Milankovitch_Cycle.protect|Milankovitch_Cycle.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Milankovitch_Cycle.private|Milankovitch_Cycle.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Milankovitch_Cycle.personal|Milankovitch_Cycle.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Milankovitch_Cycle.secret|Milankovitch_Cycle.secret]]'
 dv_is_same_as:
-  - "[[WD~Milankovitch_cycle,Q211446]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Milankovitch_Cycle|Milankovitch_Cycle]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Milankovitch_Cycle.public|Milankovitch_Cycle.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Milankovitch_Cycle.internal|Milankovitch_Cycle.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Milankovitch_Cycle.protect|Milankovitch_Cycle.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Milankovitch_Cycle.private|Milankovitch_Cycle.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Milankovitch_Cycle.personal|Milankovitch_Cycle.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Milankovitch_Cycle.secret|Milankovitch_Cycle.secret]]"
+- '[[WD~Milankovitch_cycle,Q211446]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Milankovitch_Cycle|Milankovitch_Cycle]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Milankovitch_Cycle.public|Milankovitch_Cycle.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Milankovitch_Cycle.internal|Milankovitch_Cycle.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Milankovitch_Cycle.protect|Milankovitch_Cycle.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Milankovitch_Cycle.private|Milankovitch_Cycle.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Milankovitch_Cycle.personal|Milankovitch_Cycle.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Milankovitch_Cycle.secret|Milankovitch_Cycle.secret]]'
+dv_has_:
+  name_:
+    af: Milanković-teorie
+    ar: دورات ميلانكوفيتش
+    be: Цыклы Міланкавіча
+    bg: Цикли на Миланкович
+    bn: মিলানকোভিচ চক্র
+    bs: Milankovićevi ciklusi
+    ca: teoria de Milankovitch
+    cs: Milankovičovy cykly
+    da: Milanković-cykler
+    de: Milanković-Zyklen
+    el: Κύκλος Μιλάνκοβιτς
+    en: Milankovich cycle
+    eo: Milankoviĉ-cikloj
+    es: Variaciones orbitales
+    et: Milankovići hüpotees
+    eu: Milankovitchen teoria
+    fa: چرخههای میلانکوویچ
+    fi: Milankovićin jaksot
+    fr: paramètres de Milanković
+    gl: Variacións orbitais
+    ha: Tsarin Milankovitch
+    he: מחזורי מילנקוביץ'
+    hr: Milankovićevi ciklusi
+    hu: Milanković-elmélet
+    hy: Միլանկովիչի ցիկլներ
+    id: Siklus Milankovitch
+    it: Cicli di Milanković
+    ja: ミランコビッチ・サイクル
+    ka: მილანკოვიჩის ციკლები
+    ko: 밀란코비치 주기
+    lt: Milankovičiaus ciklai
+    mk: Миланковиќеви циклуси
+    ms: Kitaran Milankovitch
+    nb: Milanković-syklusene
+    nl: milanković-parameters
+    nn: Milanković-syklusane
+    pa: ਮਿਲਾਨਕੋਵਿਚ ਚੱਕਰ
+    pl: cykle Milankovicia
+    pt: Variação orbital
+    ru: Циклы Миланковича
+    sh: Milankovićevi ciklusi
+    sk: Milankovičov cyklus
+    sr: Миланковићеви циклуси
+    sr-ec: Миланковићеви циклуси
+    sr-el: Milankovićevi ciklusi
+    sv: Milanković-cykler
+    sw: Mizunguko ya Milankovich
+    tr: Milankoviç Döngüsü
+    uk: Цикли Миланковича
+    vi: Chu kỳ Milankovitch
+    zh: 米蘭科維奇循環
+    zh-cn: 米兰科维奇循环
+    zh-hans: 米兰科维奇循环
+    zh-hant: 米蘭科維奇循環
+    zh-hk: 米蘭科維奇循環
+    zh-sg: 米兰科维奇循环
+    zh-tw: 米蘭科維奇循環
 ---
-
 # [[Milankovitch_Cycle]] 
 
 #is_/same_as :: [[WD~Milankovitch_cycle,Q211446]]  

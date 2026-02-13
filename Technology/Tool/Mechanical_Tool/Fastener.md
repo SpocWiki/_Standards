@@ -1,19 +1,63 @@
 ---
 aliases:
-  - fastening
-  - Verbindungstechnik
-  - Fastener
+- ainguraketa
+- ancoratge
+- bevestigingsmiddel
+- chiusura
+- dúntóir
+- Fastener
+- fastening
+- fastgøringsemne
+- festeanordning
+- ffasnydd
+- fiksilo
+- Fissagi
+- fixador
+- fixation
+- Fixigilo
+- fästanordning
+- kancing
+- kiinnike
+- kinnitusdetail
+- Kusa
+- Mahkamlovchi buyum
+- Perekat
+- pritrdilni element
+- rögzítőelem
+- spoj
+- Spoj (mašinstvo)
+- spojovací materiál
+- sujetador
+- Tutturucu
+- Verbindungselement
+- Verbindungstechnik
+- Çирĕплетмелли хатĕр
+- кріпильні вироби
+- крапежны выраб
+- крапежныя вырабы
+- крепёжные изделия
+- Ныгытма материаллар
+- Нығытма материалдар
+- прицврстувач
+- Туттарар
+- אביזר חיבור
+- بست (ابزار)
+- مربطة
+- አጣብቂ
+- 留め具
+- 緊固件
+- 패스너
 has_id_wikidata: Q2002016
 subclass_of:
-  - '[[_Standards/WikiData/WD~machine_element,839546]]'
-  - '[[_Standards/WikiData/WD~connector,18819626]]'
-  - '[[_Standards/WikiData/WD~physical_tool,39546]]'
+- '[[_Standards/WikiData/WD~machine_element,839546]]'
+- '[[_Standards/WikiData/WD~connector,18819626]]'
+- '[[_Standards/WikiData/WD~physical_tool,39546]]'
 different_from:
-  - '[[_Standards/WikiData/WD~coupling,944517]]'
-  - '[[_Standards/WikiData/WD~fastening,91783762]]'
+- '[[_Standards/WikiData/WD~coupling,944517]]'
+- '[[_Standards/WikiData/WD~fastening,91783762]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~type_of_machine_element,44409287]]'
-  - '[[_Standards/WikiData/WD~type_of_physical_object_by_use,123035442]]'
+- '[[_Standards/WikiData/WD~type_of_machine_element,44409287]]'
+- '[[_Standards/WikiData/WD~type_of_physical_object_by_use,123035442]]'
 has_use: '[[_Standards/WikiData/WD~fastening,91783762]]'
 Nomenclature_for_Museum_Cataloging: 6557
 subreddit: fasteners
@@ -21,8 +65,60 @@ Commons_gallery: Fastener
 Commons_category: Fasteners
 U_S_National_Archives_Identifier: 10636685
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Screws.jpg
+dv_has_:
+  name_:
+    am: አጣብቂ
+    ar: مربطة
+    ba: Нығытма материалдар
+    be: крапежныя вырабы
+    be-tarask: крапежны выраб
+    ca: ancoratge
+    cs: spojovací materiál
+    cv: Çирĕплетмелли хатĕр
+    cy: ffasnydd
+    da: fastgøringsemne
+    de: Verbindungselement
+    en: fastener
+    en-ca: Fastener
+    en-gb: fastening
+    eo: fiksilo
+    es: sujetador
+    et: kinnitusdetail
+    eu: ainguraketa
+    fa: بست (ابزار)
+    fi: kiinnike
+    fr: fixation
+    ga: dúntóir
+    ha: Kusa
+    he: אביזר חיבור
+    hr: spoj
+    hu: rögzítőelem
+    id: Perekat
+    io: Fixigilo
+    it: chiusura
+    ja: 留め具
+    ko: 패스너
+    mk: прицврстувач
+    ms: kancing
+    nb: festeanordning
+    nl: bevestigingsmiddel
+    pms: Fissagi
+    pt: fixador
+    pt-br: fixador
+    ru: крепёжные изделия
+    sah: Туттарар
+    sh: Spoj
+    sk: spojovací materiál
+    sl: pritrdilni element
+    sr: Spoj (mašinstvo)
+    sv: fästanordning
+    tr: Tutturucu
+    tt: Ныгытма материаллар
+    uk: кріпильні вироби
+    uz: Mahkamlovchi buyum
+    yue: 緊固件
+    zh: 緊固件
 ---
-
 # [[Fastener]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Fastener,2002016|WD~Fastener,2002016]] 

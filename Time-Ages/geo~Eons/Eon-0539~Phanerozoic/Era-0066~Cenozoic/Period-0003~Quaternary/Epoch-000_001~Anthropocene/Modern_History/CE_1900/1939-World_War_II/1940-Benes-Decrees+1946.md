@@ -1,37 +1,106 @@
 ---
 aliases:
-  - Benes-Decrees
-  - Benes Decrees
-  - Beneš decrees
+- Benes Decrees
+- Benes-Decrees
+- Beneş Kararnamesi
+- Beneš decrees
+- Beneš-decreten
+- Beneš-Dekrete
+- Beneš-dekretene
+- Beneš-dekreterne
+- Beneš-dekrétumok
+- Beneša dekrēti
+- Benešdekreten
+- Benešin dekreetit
+- Benešove dekréty
+- Benešovi dekreti
+- Benešovy dekrety
+- Decretele lui Beneš
+- decreti Beneš
+- Decretos de Beneš
+- Decrets de Beneš
+- Dekret Beneš
+- Dekretoj de Beneš
+- dekrety Beneša
+- Décrets Beneš
+- Бенешови декрети
+- Декрети Бенеша
+- Декреты Бенеша
+- צווי בנש
+- مراسيم بينش
+- ベネシュ布告
+- 貝尼斯法令
+- 贝尼斯法令
 has_id_wikidata: Q165559
-legislated_by: "[[_Standards/WikiData/WD~Edvard_Beneš,152274]]"
-named_after: "[[_Standards/WikiData/WD~Edvard_Beneš,152274]]"
-instance_of: "[[_Standards/WikiData/WD~decree,2571972]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q16267118,16267118]]"
-applies_to_jurisdiction: "[[_Standards/WikiData/WD~Czechoslovakia,33946]]"
-country: "[[_Standards/WikiData/WD~Czechoslovakia,33946]]"
+legislated_by: '[[_Standards/WikiData/WD~Edvard_Beneš,152274]]'
+named_after: '[[_Standards/WikiData/WD~Edvard_Beneš,152274]]'
+instance_of: '[[_Standards/WikiData/WD~decree,2571972]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q16267118,16267118]]'
+applies_to_jurisdiction: '[[_Standards/WikiData/WD~Czechoslovakia,33946]]'
+country: '[[_Standards/WikiData/WD~Czechoslovakia,33946]]'
 BHCL_UUID: b26c8083-3a61-48ef-846c-8e25ba880caa
 dv_is_:
   same_as:
-    - "[[WD~Benes-Decrees,165559]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946|1940-Benes-Decrees+1946]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946.public|1940-Benes-Decrees+1946.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946.internal|1940-Benes-Decrees+1946.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946.protect|1940-Benes-Decrees+1946.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946.private|1940-Benes-Decrees+1946.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946.personal|1940-Benes-Decrees+1946.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946.secret|1940-Benes-Decrees+1946.secret]]"
+  - '[[WD~Benes-Decrees,165559]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946|1940-Benes-Decrees+1946]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946.public|1940-Benes-Decrees+1946.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946.internal|1940-Benes-Decrees+1946.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946.protect|1940-Benes-Decrees+1946.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946.private|1940-Benes-Decrees+1946.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946.personal|1940-Benes-Decrees+1946.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946.secret|1940-Benes-Decrees+1946.secret]]'
 dv_is_same_as:
-  - "[[WD~Benes-Decrees,165559]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946|1940-Benes-Decrees+1946]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946.public|1940-Benes-Decrees+1946.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946.internal|1940-Benes-Decrees+1946.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946.protect|1940-Benes-Decrees+1946.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946.private|1940-Benes-Decrees+1946.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946.personal|1940-Benes-Decrees+1946.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946.secret|1940-Benes-Decrees+1946.secret]]"
+- '[[WD~Benes-Decrees,165559]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946|1940-Benes-Decrees+1946]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946.public|1940-Benes-Decrees+1946.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946.internal|1940-Benes-Decrees+1946.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946.protect|1940-Benes-Decrees+1946.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946.private|1940-Benes-Decrees+1946.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946.personal|1940-Benes-Decrees+1946.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946.secret|1940-Benes-Decrees+1946.secret]]'
+dv_has_:
+  name_:
+    ar: مراسيم بينش
+    ca: Decrets de Beneš
+    cs: Benešovy dekrety
+    da: Beneš-dekreterne
+    de: Beneš-Dekrete
+    en: Beneš decrees
+    en-ca: Beneš decrees
+    en-gb: Beneš decrees
+    eo: Dekretoj de Beneš
+    es: Decretos de Beneš
+    fi: Benešin dekreetit
+    fr: Décrets Beneš
+    gsw: Beneš-Dekrete
+    he: צווי בנש
+    hr: Benešovi dekreti
+    hu: Beneš-dekrétumok
+    id: Dekret Beneš
+    it: decreti Beneš
+    ja: ベネシュ布告
+    lv: Beneša dekrēti
+    nb: Beneš-dekretene
+    nl: Beneš-decreten
+    pl: dekrety Beneša
+    pt: Decretos de Beneš
+    pt-br: Decretos de Beneš
+    ro: Decretele lui Beneš
+    ru: Декреты Бенеша
+    sh: Benešovi dekreti
+    sk: Benešove dekréty
+    sr: Бенешови декрети
+    sv: Benešdekreten
+    tr: Beneş Kararnamesi
+    uk: Декрети Бенеша
+    zh: 贝尼斯法令
+    zh-cn: 贝尼斯法令
+    zh-hans: 贝尼斯法令
+    zh-hant: 貝尼斯法令
+    zh-hk: 貝尼斯法令
+    zh-sg: 贝尼斯法令
+    zh-tw: 貝尼斯法令
 ---
-
 # [[1940-Benes-Decrees+1946]] 
 
 #is_/same_as :: [[WD~Benes-Decrees,165559]] 

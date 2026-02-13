@@ -1,46 +1,215 @@
 ---
-location: [ 12.48333333 , 41.88333333 ] 
+location: '[[_Standards/WikiData/WD~Latium,1048669]]'
 aliases:
-  - Roman Monarchy
-  - Roman Kingdom
-  - regal period of ancient Rome
-  - Roman_Kingdom
-  - -0752-Roman_Kingdom-0508
-  - -0752-Roman Kingdom-0508
+- -0752-Roman Kingdom-0508
+- -0752-Roman_Kingdom-0508
+- Det romerske kongedømet
+- Det romerske kongedømme
+- Det romerske kongerige
+- Erromatar Monarkia
+- Età regia di Roma
+- età reja de Roma
+- Fanjakana Rômana
+- Kahariang Romano
+- Kerajaan Beraja Rom
+- Kerajaan Romawi
+- Keyaniya Romayê
+- Kungariket Rom
+- Lô-má Ông-kok
+- Monarchia roman
+- Monarcia Roman
+- Monarkia romake
+- Monarkya Romano
+- Monarquía romana
+- Qraliya Roma
+- regal period of ancient Rome
+- Regatul Roman
+- Regne Romà
+- Regno 'e Romma
+- Regnum Romanum
+- Reiaume Roman
+- Reino de Roma
+- Rim qirolligi
+- Rimsko kraljestvo
+- Rimsko Kraljevstvo
+- Roma Krallığı
+- Roma monarkio
+- Roma çarlığı
+- Romafi Gazaroti
+- Roman Kingdom
+- Roman Kinrick
+- Roman Monarchy
+- Romana monarkio
+- Roman_Kingdom
+- Romas Karaliste
+- Romeins Koninkrijk
+- Romeinse monargie
+- Romeinske Keninkryk
+- Romos karalystė
+- Rooman kuningaskunta
+- royaume de Rome
+- Ruoman Kindom
+- Rzym królewski
+- Rímske kráľovstvo
+- Ríocht Rómhánach
+- Római Királyság
+- Rómverska konungdæmið
+- Römische Königszeit
+- Teyrnas Rhufain
+- Vana-Rooma kuningate loend
+- Vương quốc La Mã
+- Římské království
+- Ρωμαϊκό Βασίλειο
+- Римско краљевство
+- Римско Кралство
+- Римское царство
+- Римське царство
+- Рымскае каралеўства
+- Рымскае царства
+- Հռոմի թագավորության պատմություն
+- המלוכה הרומית
+- المملكة الرومانية
+- روم پاچايي
+- رومی مملکت
+- پادشاهی روم
+- रोम राजतंत्र
+- रोमन राजतन्त्र
+- रोमन राज्य
+- ราชอาณาจักรโรมัน
+- რომის სამეფო
+- რომიშ ომაფე
+- 王政ローマ
+- 罗马王政时代
+- 羅馬王國
+- 羅馬王政時代
+- 로마 왕정
 has_id_wikidata: Q201038
 start_time: -0752-04-13T00:00:00Z
 inception: -0752-04-13T00:00:00Z
 end_time: -0508-01-01T00:00:00Z
 dissolved_abolished_or_demolished_date: -0508-01-01T00:00:00Z
 legislative_body:
-  - "[[_Standards/WikiData/WD~Citizens'_Assemblies_of_the_Roman_Kingdom,287980]]"
-  - '[[_Standards/WikiData/WD~Senate_of_the_Roman_Kingdom,3510884]]'
+- "[[_Standards/WikiData/WD~Citizens'_Assemblies_of_the_Roman_Kingdom,287980]]"
+- '[[_Standards/WikiData/WD~Senate_of_the_Roman_Kingdom,3510884]]'
 different_from: '[[_Standards/WikiData/WD~list_of_kings_of_Rome,326197]]'
 official_religion: '[[_Standards/WikiData/WD~ancient_Roman_religion,337547]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~ancient_Roman_religion,337547]]'
 basic_form_of_government: '[[_Standards/WikiData/WD~elective_monarchy,584683]]'
 subclass_of: '[[_Standards/WikiData/WD~history_of_ancient_Rome,830852]]'
-location: '[[_Standards/WikiData/WD~Latium,1048669]]'
 follows: '[[_Standards/WikiData/WD~Roman_Iron_Age,2566630]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~historical_country,3024240]]'
-  - '[[_Standards/WikiData/WD~historical_period,11514315]]'
+- '[[_Standards/WikiData/WD~historical_country,3024240]]'
+- '[[_Standards/WikiData/WD~historical_period,11514315]]'
 replaces: '[[_Standards/WikiData/WD~Corniculum,5171759]]'
 capital:
-  - '[[_Standards/WikiData/WD~Roma,18287233]]'
-  - '[[_Standards/WikiData/WD~Rome,220]]'
+- '[[_Standards/WikiData/WD~Roma,18287233]]'
+- '[[_Standards/WikiData/WD~Rome,220]]'
 office_held_by_head_of_state: '[[_Standards/WikiData/WD~King_of_Rome,55375123]]'
 language_used:
-  - '[[_Standards/WikiData/WD~Latin,397]]'
-  - '[[_Standards/WikiData/WD~Old_Latin,12289]]'
+- '[[_Standards/WikiData/WD~Latin,397]]'
+- '[[_Standards/WikiData/WD~Old_Latin,12289]]'
 official_language: '[[_Standards/WikiData/WD~Latin,397]]'
 continent: '[[_Standards/WikiData/WD~Europe,46]]'
 coordinate_location: Point(12.48333333 41.88333333)
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Platner%20-%20Ancient%20Rome%20city%20growth.jpg
 Commons_category: Roman Kingdom
 OpenStreetMap_tag: historic:period=roman_kingdom
+dv_has_:
+  name_:
+    af: Romeinse monargie
+    ar: المملكة الرومانية
+    arz: المملكة الرومانية
+    ast: Monarquía romana
+    avk: Romafi Gazaroti
+    az: Roma çarlığı
+    be: Рымскае царства
+    be-tarask: Рымскае каралеўства
+    ca: Regne Romà
+    cs: Římské království
+    cy: Teyrnas Rhufain
+    da: Det romerske kongerige
+    de: Römische Königszeit
+    diq: Qraliya Roma
+    el: Ρωμαϊκό Βασίλειο
+    en: Roman Kingdom
+    en-ca: Roman Kingdom
+    en-gb: Roman Kingdom
+    eo: Roma monarkio
+    es: Monarquía romana
+    et: Vana-Rooma kuningate loend
+    eu: Erromatar Monarkia
+    fa: پادشاهی روم
+    fi: Rooman kuningaskunta
+    fr: royaume de Rome
+    fy: Romeinske Keninkryk
+    ga: Ríocht Rómhánach
+    gl: Monarquía romana
+    he: המלוכה הרומית
+    hi: रोम राजतंत्र
+    hr: Rimsko Kraljevstvo
+    hu: Római Királyság
+    hy: Հռոմի թագավորության պատմություն
+    ia: Monarchia roman
+    id: Kerajaan Romawi
+    io: Romana monarkio
+    is: Rómverska konungdæmið
+    it: Età regia di Roma
+    ja: 王政ローマ
+    jam: Ruoman Kindom
+    ka: რომის სამეფო
+    ko: 로마 왕정
+    ku: Keyaniya Romayê
+    la: Regnum Romanum
+    lfn: Monarcia Roman
+    lt: Romos karalystė
+    lv: Romas Karaliste
+    mg: Fanjakana Rômana
+    mk: Римско Кралство
+    ms: Kerajaan Beraja Rom
+    nan: Lô-má Ông-kok
+    nap: Regno 'e Romma
+    nb: Det romerske kongedømme
+    ne: रोमन राज्य
+    new: रोमन राजतन्त्र
+    nl: Romeins Koninkrijk
+    nn: Det romerske kongedømet
+    oc: Reiaume Roman
+    pl: Rzym królewski
+    pnb: رومی مملکت
+    ps: روم پاچايي
+    pt: Reino de Roma
+    pt-br: Reino de Roma
+    ro: Regatul Roman
+    ru: Римское царство
+    sco: Roman Kinrick
+    sh: Rimsko kraljevstvo
+    sk: Rímske kráľovstvo
+    sl: Rimsko kraljestvo
+    sq: Monarkia romake
+    sr: Римско краљевство
+    sr-ec: Римско краљевство
+    sr-el: Rimsko kraljevstvo
+    sv: Kungariket Rom
+    th: ราชอาณาจักรโรมัน
+    tl: Kahariang Romano
+    tr: Roma Krallığı
+    uk: Римське царство
+    ur: رومی مملکت
+    uz: Rim qirolligi
+    vec: età reja de Roma
+    vi: Vương quốc La Mã
+    war: Monarkya Romano
+    wuu: 罗马王政时代
+    xmf: რომიშ ომაფე
+    yue: 羅馬王國
+    zh: 罗马王政时代
+    zh-cn: 罗马王政时代
+    zh-hans: 罗马王政时代
+    zh-hant: 羅馬王政時代
+    zh-hk: 羅馬王政時代
+    zh-sg: 罗马王政时代
+    zh-tw: 羅馬王政時代
 ---
-
 # [[-0752-Roman_Kingdom-0508]] 
 
 #has_/time_/started :: -752 

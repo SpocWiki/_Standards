@@ -1,7 +1,56 @@
 ---
 has_id_wikidata: Q1209759
+dv_has_:
+  name_:
+    ar: خوارزم 60
+    ary: ألڭول 60
+    ast: ALGOL 60
+    bn: অ্যালগল ৬০
+    ca: ALGOL 60
+    de: ALGOL 60
+    en: ALGOL 60
+    eo: Algolo-60
+    et: Algol-60
+    eu: ALGOL 60
+    fa: الگول ۶۰
+    fi: ALGOL 60
+    fr: ALGOL 60
+    gl: ALGOL
+    he: אלגול 60
+    hy: ALGOL 60
+    io: ALGOL 60
+    ko: 알골 60
+    lv: ALGOL 60
+    ml: അൽഗോൾ 60
+    mul: ALGOL 60
+    nb: Algol 60
+    nl: Algol-60
+    pa: ਐਲਗੌਲ 60
+    pl: ALGOL 60
+    pt: ALGOL 60
+    sk: ALGOL 60
+    sl: ALGOL 60
+    tr: ALGOL 60
+    uk: ALGOL 60
+    yue: ALGOL 60
+    zh: ALGOL 60
+    zh-hans: ALGOL 60
+    zh-hant: ALGOL 60
+    zh-hk: ALGOL 60
+aliases:
+- ALGOL
+- ALGOL 60
+- Algol-60
+- Algolo-60
+- אלגול 60
+- ألڭول 60
+- الگول ۶۰
+- خوارزم 60
+- অ্যালগল ৬০
+- ਐਲਗੌਲ 60
+- അൽഗോൾ 60
+- 알골 60
 ---
-
 # [[Algol]] 
 
 #is_a_/ComputerLanguage 

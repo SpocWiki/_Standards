@@ -1,30 +1,233 @@
 ---
 aliases:
-  - Handschuh
-  - Glove
+- Chiū-lŏk
+- cimdi
+- Dastpūşak
+- Destane
+- Doreza
+- eldiven
+- eskularru
+- Gan
+- gant
+- ganto
+- Gantâ
+- Glavu
+- glazyjki
+- Glove
+- glōf
+- guant
+- guante
+- guanto
+- Guwantes
+- Gwantes
+- Găng tay
+- handschoen
+- Handschuh
+- handskar
+- handske
+- Handskoen
+- hanske
+- Heische
+- Händsch
+- kesztyű
+- Kindad
+- käsine
+- len luka
+- Lepık
+- luva
+- lámhainn
+- Maneg
+- Manicae
+- Mitcikawin
+- mănușă
+- Nguantu
+- nusurugu
+- pirštinė
+- rokavica
+- Rukavica
+- rukavice
+- Rãkawiczczi
+- rękawiczki
+- Sarung leungeun
+- Sarung tangan
+- Sor'mikod
+- Vettlingur
+- Əlcək
+- γάντι
+- бирсәткә
+- Дастпӯшак
+- Каранаш
+- Мээлей
+- пальчаткі
+- пальчатка
+- перчатка
+- Перчетке
+- Пижоргы
+- ракавица
+- Рукавица
+- рукавичка
+- Ръкавица
+- Қолғап
+- ձեռնոցներ
+- הענטשקע
+- כפפה
+- جوانتى
+- دستانے
+- دستکش
+- دەستانە
+- قفاز
+- لاسپېله
+- ܒܪ ܐܝܕܐ
+- दस्ताने
+- पन्जा
+- দস্তানা
+- ਦਸਤਾਨਾ
+- ถุงมือ
+- ལག་ཤུབས།
+- မူင်မိုဝ်း
+- လက်အိတိ
+- 手套
+- 手袋
+- 手襪
+- 장갑
 has_id_wikidata: Q169031
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-different_from: "[[_Standards/WikiData/WD~mitten,1661108]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+different_from: '[[_Standards/WikiData/WD~mitten,1661108]]'
 has_use:
-  - "[[_Standards/WikiData/WD~safety,10566551]]"
-  - "[[_Standards/WikiData/WD~fashion,12684]]"
+- '[[_Standards/WikiData/WD~safety,10566551]]'
+- '[[_Standards/WikiData/WD~fashion,12684]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~protective_clothing,14524031]]"
-  - "[[_Standards/WikiData/WD~handwear,28932195]]"
-worn_on: "[[_Standards/WikiData/WD~hand,33767]]"
+- '[[_Standards/WikiData/WD~protective_clothing,14524031]]'
+- '[[_Standards/WikiData/WD~handwear,28932195]]'
+worn_on: '[[_Standards/WikiData/WD~hand,33767]]'
 Nomenclature_for_Museum_Cataloging: 2042
 OmegaWiki_Defined_Meaning: 369021
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Centre%20de%20Documentaci%C3%B3%20Museu%20T%C3%A8xtil%20de%20Terrassa-%20Reserves-%20Teixits-%20Guants002.JPG
 Commons_category: Gloves
 Commons_gallery: Glove
 IMDb_keyword: gloves
-Unicode_character: 🧤
+Unicode_character: "\U0001F9E4"
+dv_has_:
+  name_:
+    af: Handskoen
+    ang: glōf
+    ar: قفاز
+    arc: ܒܪ ܐܝܕܐ
+    arz: جوانتى
+    ast: Guante
+    atj: Mitcikawin
+    az: Əlcək
+    ba: бирсәткә
+    bcl: Gwantes
+    be: пальчаткі
+    be-tarask: пальчатка
+    bg: Ръкавица
+    bn: দস্তানা
+    bo: ལག་ཤུབས།
+    br: Maneg
+    ca: guant
+    cdo: Chiū-lŏk
+    ce: Каранаш
+    ceb: Guwantes
+    cs: rukavice
+    csb: Rãkawiczczi
+    cv: Перчетке
+    da: handske
+    dag: nusurugu
+    de: Handschuh
+    de-ch: Handschuh
+    diq: Lepık
+    el: γάντι
+    en: glove
+    en-ca: Glove
+    en-gb: glove
+    eo: ganto
+    es: guante
+    et: Kindad
+    eu: eskularru
+    fa: دستکش
+    fi: käsine
+    fr: gant
+    ga: lámhainn
+    gl: Luva
+    he: כפפה
+    hi: दस्ताने
+    hr: Rukavice
+    ht: Gan
+    hu: kesztyű
+    hy: ձեռնոցներ
+    id: Sarung tangan
+    io: Ganto
+    is: Vettlingur
+    it: guanto
+    ja: 手袋
+    kk: Қолғап
+    ko: 장갑
+    ksh: Heische
+    ku: Destane
+    ku-arab: دەستانە
+    ku-latn: Destane
+    ky: Мээлей
+    la: Manicae
+    lb: Händsch
+    lt: pirštinė
+    lv: cimdi
+    mk: ракавица
+    mrj: Пижоргы
+    ms: Sarung tangan
+    my: လက်အိတိ
+    nb: hanske
+    ne: पन्जा
+    nl: handschoen
+    nn: hanske
+    oc: Gant
+    pa: ਦਸਤਾਨਾ
+    pl: rękawiczki
+    pnb: دستانے
+    ps: لاسپېله
+    pt: luva
+    pt-br: luva
+    ro: mănușă
+    ru: перчатка
+    rup: Gantâ
+    scn: Nguantu
+    sh: Rukavice
+    shn: မူင်မိုဝ်း
+    sk: Rukavice
+    sl: rokavica
+    sq: Doreza
+    sr: Рукавица
+    sr-ec: Рукавица
+    sr-el: Rukavica
+    su: Sarung leungeun
+    sv: handskar
+    sw: Glavu
+    szl: glazyjki
+    tg: Дастпӯшак
+    tg-latn: Dastpūşak
+    th: ถุงมือ
+    tl: Guwantes
+    tok: len luka
+    tr: eldiven
+    uk: рукавичка
+    ur: دستانے
+    vep: Sor'mikod
+    vi: Găng tay
+    wuu: 手套
+    yi: הענטשקע
+    yue: 手襪
+    zh: 手套
+    zh-cn: 手套
+    zh-hans: 手套
+    zh-hant: 手套
+    zh-hk: 手套
+    zh-sg: 手套
+    zh-tw: 手套
 ---
-
 # [[Glove]] 🧤 
 
 #is_/similar_to :: [[Mitten]] 

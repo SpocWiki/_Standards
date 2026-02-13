@@ -1,75 +1,129 @@
 ---
 aliases:
-  - Epoch~2~Middle_Triassic
-  - Epoch~2~Middle Triassic
+- an Sealad Triasach Meánach
+- Epoch~2~Middle Triassic
+- Epoch~2~Middle_Triassic
+- Keskitriaskausi
+- középső triász
+- Mellersta trias
+- Meza Triaso
+- Midden-Trias
+- Middle Triassic
+- midtre trias
+- Mitteltrias
+- Orta Triyas
+- srednji trias
+- Srednji trijas
+- střední trias
+- Trias giữa
+- Trias moyen
+- Trias Tengah
+- Trias środkowy
+- Triasiko Ertaina
+- Triassico medio
+- Triassicum medium
+- Triàsic mitjà
+- Triásico medio
+- Triásicu Mediu
+- Triássico Médio
+- vidurinis triasas
+- середній тріас
+- Средњи тријас
+- средний триас
+- טריאס תיכון
+- الثلاثي الأوسط
+- تریاس میانه
+- 三畳紀中期
+- 中三叠世
+- 트라이아스기 중기
 ischart: MiddleTriassic
 has_id_wikidata: Q929395
 instance_of:
-  - "[[_Standards/WikiData/WD~series,312468]]"
-  - "[[_Standards/WikiData/WD~epoch,754897]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Middle_Triassic,21605749]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-named_after: "[[_Standards/WikiData/WD~Q201,201]]"
+- '[[_Standards/WikiData/WD~series,312468]]'
+- '[[_Standards/WikiData/WD~epoch,754897]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Middle_Triassic,21605749]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+named_after: '[[_Standards/WikiData/WD~Q201,201]]'
 start_time: -247200000-01-01T00:00:00Z
 Commons_category: Middle Triassic
 sRGB_color_hex_triplet: BF7CB1
 end_time: -235000000-01-01T00:00:00Z
 dv_has_:
   duration_:
-    years: "1.020e+7"
-  previous_:
-    item: "[[Epoch-252~Early_Triassic]]"
-  next_:
-    item: "[[Epoch-237~Late_Triassic]]"
+    years: 1.020e+7
   name_:
+    abbreviated: T2
+    ar: الثلاثي الأوسط
+    ast: Triásicu Mediu
     bg: Среден Триаѿ
-    cs: Střední trias
+    ca: Triàsic mitjà
+    cs: střední trias
     da: Mellem Triassisk
-    de: Mittlere Trias
-    es: Triásico Medio
+    de: Mitteltrias
+    en: Middle Triassic
+    eo: Meza Triaso
+    es: Triásico medio
     et: Kesk-Triias
-    fi: Keski-Trias
+    eu: Triasiko Ertaina
+    fa: تریاس میانه
+    fi: Keskitriaskausi
     fr: Trias moyen
-    hu: középső-triász
-    it: triassico medio
-    ja: 中期三畳紀
-    lt: Vidurinis Triasas
-    nl: Midden Trias
+    ga: an Sealad Triasach Meánach
+    he: טריאס תיכון
+    hu: középső triász
+    id: Trias Tengah
+    it: Triassico medio
+    ja: 三畳紀中期
+    ko: 트라이아스기 중기
+    la: Triassicum medium
+    lt: vidurinis triasas
+    ms: Trias Tengah
+    nl: Midden-Trias
+    nn: midtre trias
     no: Midtre trias
-    pl: Środkowy Trias
-    pt: Triásico Médio
+    pl: Trias środkowy
+    pt: Triássico Médio
+    ru: средний триас
+    sh: Srednji trijas
     sk: stredný trias
     sl: srednji trias
-    sv: mellersta trias
+    sr: Средњи тријас
+    sv: Mellersta trias
+    tr: Orta Triyas
+    uk: середній тріас
+    vi: Trias giữa
     zh: 中三叠世
-    abbreviated: T2
-  time_:
-    started: "-247.2e6"
-    stopped: "-237.0e6"
+  next_:
+    item: '[[Epoch-237~Late_Triassic]]'
+  previous_:
+    item: '[[Epoch-252~Early_Triassic]]'
   text_of_:
-    color: "0xB168B1"
+    color: 0xB168B1
+  time_:
+    started: -247.2e6
+    stopped: -237.0e6
 dv_is_:
   same_as:
-    - "[[WD~Middle_Triassic,929395]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic|Epoch-247~Middle_Triassic]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic.public|Epoch-247~Middle_Triassic.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic.internal|Epoch-247~Middle_Triassic.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic.protect|Epoch-247~Middle_Triassic.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic.private|Epoch-247~Middle_Triassic.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic.personal|Epoch-247~Middle_Triassic.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic.secret|Epoch-247~Middle_Triassic.secret]]"
-dv_has_duration_years: "1.020e+7"
-dv_has_previous_item: "[[Epoch-252~Early_Triassic]]"
-dv_has_next_item: "[[Epoch-237~Late_Triassic]]"
+  - '[[WD~Middle_Triassic,929395]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic|Epoch-247~Middle_Triassic]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic.public|Epoch-247~Middle_Triassic.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic.internal|Epoch-247~Middle_Triassic.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic.protect|Epoch-247~Middle_Triassic.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic.private|Epoch-247~Middle_Triassic.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic.personal|Epoch-247~Middle_Triassic.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic.secret|Epoch-247~Middle_Triassic.secret]]'
+dv_has_duration_years: 1.020e+7
+dv_has_previous_item: '[[Epoch-252~Early_Triassic]]'
+dv_has_next_item: '[[Epoch-237~Late_Triassic]]'
 dv_is_same_as:
-  - "[[WD~Middle_Triassic,929395]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic|Epoch-247~Middle_Triassic]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic.public|Epoch-247~Middle_Triassic.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic.internal|Epoch-247~Middle_Triassic.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic.protect|Epoch-247~Middle_Triassic.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic.private|Epoch-247~Middle_Triassic.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic.personal|Epoch-247~Middle_Triassic.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic.secret|Epoch-247~Middle_Triassic.secret]]"
+- '[[WD~Middle_Triassic,929395]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic|Epoch-247~Middle_Triassic]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic.public|Epoch-247~Middle_Triassic.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic.internal|Epoch-247~Middle_Triassic.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic.protect|Epoch-247~Middle_Triassic.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic.private|Epoch-247~Middle_Triassic.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic.personal|Epoch-247~Middle_Triassic.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic.secret|Epoch-247~Middle_Triassic.secret]]'
 dv_has_name_bg: Среден Триаѿ
 dv_has_name_cs: Střední trias
 dv_has_name_da: Mellem Triassisk
@@ -91,11 +145,10 @@ dv_has_name_sl: srednji trias
 dv_has_name_sv: mellersta trias
 dv_has_name_zh: 中三叠世
 dv_has_name_abbreviated: T2
-dv_has_time_started: "-247.2e6"
-dv_has_time_stopped: "-237.0e6"
-dv_has_text_of_color: "0xB168B1"
+dv_has_time_started: -247.2e6
+dv_has_time_stopped: -237.0e6
+dv_has_text_of_color: 0xB168B1
 ---
-
 # [[Epoch-247~Middle_Triassic]] 
 
 #is_a_/time_/Epoch 

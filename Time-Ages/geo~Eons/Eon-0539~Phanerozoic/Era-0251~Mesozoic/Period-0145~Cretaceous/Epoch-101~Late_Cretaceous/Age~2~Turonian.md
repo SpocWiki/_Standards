@@ -1,79 +1,127 @@
 ---
 aliases:
-  - Turonian
+- Tours-vaihe
+- Turon
+- turoni
+- Turonian
+- Turoniano
+- Turonianu
+- Turoniar
+- Turonien
+- Turoniense
+- turonij
+- Turonium
+- Turonià
+- Turunianu
+- Turón
+- Tầng Turon
+- турион
+- туронский ярус
+- Туронський ярус
+- טורון
+- التوروني
+- تورونین
+- チューロニアン
+- 土仑阶
+- 土侖階
+- 투랜절
 has_id_wikidata: Q691429
 named_by: "[[_Standards/WikiData/WD~Alcide_d'Orbigny,344661]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-significant_place: "[[_Standards/WikiData/WD~Pueblo,675576]]"
-different_from: "[[_Standards/WikiData/WD~Túrony,686116]]"
-described_by_source: "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Turonian,21771248]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Turonian,133929232]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+significant_place: '[[_Standards/WikiData/WD~Pueblo,675576]]'
+different_from: '[[_Standards/WikiData/WD~Túrony,686116]]'
+described_by_source: '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Turonian,21771248]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Turonian,133929232]]'
 coordinate_location: Point(-104.7275 38.2822)
 start_time: -93900000-01-01T00:00:00Z
-named_after: "[[_Standards/WikiData/WD~Tours,288]]"
+named_after: '[[_Standards/WikiData/WD~Tours,288]]'
 Commons_category: Turonian
 end_time: -89800000-01-01T00:00:00Z
 sRGB_color_hex_triplet: C3DF79
 dv_has_:
   duration_:
-    years: "4.100e+6"
-  previous_:
-    item: "[[Age~1~Cenomanian]]"
-  next_:
-    item: "[[Age~3~Coniacian]]"
+    years: 4.100e+6
   name_:
+    abbreviated: k2
+    af: Turonium
+    ar: التوروني
+    ast: Turonianu
     bg: Турон
+    ca: Turonià
     cs: Turon
     da: Turonien
-    de: Turonium
+    de: Turon
+    en: Turonian
+    eo: Turoniano
     es: Turoniense
     et: Turoni
-    fi: Turon
+    eu: Turoniar
+    fa: تورونین
+    fi: Tours-vaihe
     fr: Turonien
-    hu: turon
-    it: turoniano
-    ja: チュロニアン期
+    gl: Turoniano
+    he: טורון
+    hu: turoni
+    id: Turonium
+    it: Turoniano
+    ja: チューロニアン
+    ko: 투랜절
+    la: Turonium
     lt: Turonis
-    nl: Tuironiën
+    nb: Turonium
+    nl: Turonien
+    nn: turon
     no: Turonium
-    pl: Turon
+    pl: turon
     pt: Turoniano
-    sk: turón
+    ru: туронский ярус
+    scn: Turunianu
+    sh: Turon
+    sk: Turón
     sl: turonij
+    sr: турион
     sv: turon
-    zh: 土仑期
-    abbreviated: k2
-  time_:
-    started: "-93.9e6"
-    stopped: "-89.8e6"
+    uk: Туронський ярус
+    vec: Turonian
+    vi: Tầng Turon
+    zh: 土侖階
+    zh-cn: 土仑阶
+    zh-tw: 土侖階
+  next_:
+    item: '[[Age~3~Coniacian]]'
+  previous_:
+    item: '[[Age~1~Cenomanian]]'
   text_of_:
-    color: "0xBFE35D"
+    color: 0xBFE35D
+  time_:
+    started: -93.9e6
+    stopped: -89.8e6
 dv_is_:
   same_as:
-    - "[[WD~Turonian,691429]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~2~Turonian|Age~2~Turonian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~2~Turonian.public|Age~2~Turonian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~2~Turonian.internal|Age~2~Turonian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~2~Turonian.protect|Age~2~Turonian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~2~Turonian.private|Age~2~Turonian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~2~Turonian.personal|Age~2~Turonian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~2~Turonian.secret|Age~2~Turonian.secret]]"
-dv_has_duration_years: "4.100e+6"
-dv_has_previous_item: "[[Age~1~Cenomanian]]"
-dv_has_next_item: "[[Age~3~Coniacian]]"
+  - '[[WD~Turonian,691429]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~2~Turonian|Age~2~Turonian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~2~Turonian.public|Age~2~Turonian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~2~Turonian.internal|Age~2~Turonian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~2~Turonian.protect|Age~2~Turonian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~2~Turonian.private|Age~2~Turonian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~2~Turonian.personal|Age~2~Turonian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~2~Turonian.secret|Age~2~Turonian.secret]]'
+dv_has_duration_years: 4.100e+6
+dv_has_previous_item: '[[Age~1~Cenomanian]]'
+dv_has_next_item: '[[Age~3~Coniacian]]'
 dv_is_same_as:
-  - "[[WD~Turonian,691429]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~2~Turonian|Age~2~Turonian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~2~Turonian.public|Age~2~Turonian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~2~Turonian.internal|Age~2~Turonian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~2~Turonian.protect|Age~2~Turonian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~2~Turonian.private|Age~2~Turonian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~2~Turonian.personal|Age~2~Turonian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~2~Turonian.secret|Age~2~Turonian.secret]]"
+- '[[WD~Turonian,691429]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~2~Turonian|Age~2~Turonian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~2~Turonian.public|Age~2~Turonian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~2~Turonian.internal|Age~2~Turonian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~2~Turonian.protect|Age~2~Turonian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~2~Turonian.private|Age~2~Turonian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~2~Turonian.personal|Age~2~Turonian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~2~Turonian.secret|Age~2~Turonian.secret]]'
 dv_has_name_bg: Турон
 dv_has_name_cs: Turon
 dv_has_name_da: Turonien
@@ -95,9 +143,9 @@ dv_has_name_sl: turonij
 dv_has_name_sv: turon
 dv_has_name_zh: 土仑期
 dv_has_name_abbreviated: k2
-dv_has_time_started: "-93.9e6"
-dv_has_time_stopped: "-89.8e6"
-dv_has_text_of_color: "0xBFE35D"
+dv_has_time_started: -93.9e6
+dv_has_time_stopped: -89.8e6
+dv_has_text_of_color: 0xBFE35D
 ---
 # [[Age~2~Turonian]] 
 

@@ -1,24 +1,92 @@
 ---
 aliases:
+- Prob Anisotropi Gelombang Mikro Wilkinson
+- Tàu thăm dò Bất đẳng hướng Vi sóng Wilkinson
+- Vilkinsonova mikrotalasna anizotropna sonda
+- Wilkinson Microwave Anisotropy Probe
+- WMAP
+- Вилкинсонова микробранова анизотропна сонда
+- לוויין המחקר WMAP
+- دبلیومپ
+- مسبار ويلكنسون لتباين خواص الأمواج الصغرية
+- ڈبلیو میپ
+- विल्किनसन सूक्ष्मतरंग शोधयान
+- উইলকিনসন মাইক্রোওয়েভ অ্যানাইসোট্রপি প্রোব
+- ഡബ്ല്യു മാപ്പ്
+- ดาวเทียมสำรวจคลื่นไมโครเวฟวิลกินสัน
+- 威尔金森微波各向异性探测器
+- 威爾金森微波各向異性探測器
 has_id_wikidata: Q274106
-instance_of: "[[_Standards/WikiData/WD~space_telescope,148578]]"
-significant_event: "[[_Standards/WikiData/WD~rocket_launch,797476]]"
-start_point: "[[_Standards/WikiData/WD~Cape_Canaveral_Space_Launch_Complex_17,1034324]]"
-Lagrangian_point: "[[_Standards/WikiData/WD~L2_Earth_Sun,15725510]]"
-operator: "[[_Standards/WikiData/WD~National_Aeronautics_and_Space_Administration,23548]]"
+instance_of: '[[_Standards/WikiData/WD~space_telescope,148578]]'
+significant_event: '[[_Standards/WikiData/WD~rocket_launch,797476]]'
+start_point: '[[_Standards/WikiData/WD~Cape_Canaveral_Space_Launch_Complex_17,1034324]]'
+Lagrangian_point: '[[_Standards/WikiData/WD~L2_Earth_Sun,15725510]]'
+operator: '[[_Standards/WikiData/WD~National_Aeronautics_and_Space_Administration,23548]]'
 length: 3.6
 height: 5.1
 nominal_power_output: 419
-space_launch_vehicle: "[[_Standards/WikiData/WD~Delta_II,49538]]"
+space_launch_vehicle: '[[_Standards/WikiData/WD~Delta_II,49538]]'
 mass: 835
-SCN: "26859"
+SCN: 26859
 image: http://commons.wikimedia.org/wiki/Special:FilePath/WMAP%20spacecraft%20model.png
 official_website: https://map.gsfc.nasa.gov/
-P1015: "1542227320770"
+P1015: 1542227320770
 Commons_category: WMAP
 UTC_date_of_spacecraft_launch: 2001-06-30T00:00:00Z
+dv_has_:
+  name_:
+    ar: مسبار ويلكنسون لتباين خواص الأمواج الصغرية
+    ast: WMAP
+    be-tarask: WMAP
+    bn: উইলকিনসন মাইক্রোওয়েভ অ্যানাইসোট্রপি প্রোব
+    ca: WMAP
+    cs: Wilkinson Microwave Anisotropy Probe
+    de: Wilkinson Microwave Anisotropy Probe
+    en: Wilkinson Microwave Anisotropy Probe
+    es: WMAP
+    et: WMAP
+    eu: WMAP
+    fa: دبلیومپ
+    fi: WMAP
+    fr: Wilkinson Microwave Anisotropy Probe
+    gl: Wilkinson Microwave Anisotropy Probe
+    he: לוויין המחקר WMAP
+    hi: विल्किनसन सूक्ष्मतरंग शोधयान
+    hu: Wilkinson Microwave Anisotropy Probe
+    id: Wilkinson Microwave Anisotropy Probe
+    it: WMAP
+    ja: WMAP
+    kk: WMAP
+    ko: WMAP
+    lt: WMAP
+    mk: Вилкинсонова микробранова анизотропна сонда
+    ml: ഡബ്ല്യു മാപ്പ്
+    ms: Prob Anisotropi Gelombang Mikro Wilkinson
+    nb: WMAP
+    nl: Wilkinson Microwave Anisotropy Probe
+    pl: WMAP
+    pt: Wilkinson Microwave Anisotropy Probe
+    pt-br: Wilkinson Microwave Anisotropy Probe
+    ro: Wilkinson Microwave Anisotropy Probe
+    ru: WMAP
+    sk: Wilkinson Microwave Anisotropy Probe
+    sl: Wilkinson Microwave Anisotropy Probe
+    sr: Vilkinsonova mikrotalasna anizotropna sonda
+    sv: WMAP
+    th: ดาวเทียมสำรวจคลื่นไมโครเวฟวิลกินสัน
+    tr: Wilkinson Microwave Anisotropy Probe
+    uk: WMAP
+    ur: ڈبلیو میپ
+    vi: Tàu thăm dò Bất đẳng hướng Vi sóng Wilkinson
+    yue: 威爾金森微波各向異性探測器
+    zh: 威尔金森微波各向异性探测器
+    zh-cn: 威尔金森微波各向异性探测器
+    zh-hans: 威尔金森微波各向异性探测器
+    zh-hant: 威爾金森微波各向異性探測器
+    zh-hk: 威爾金森微波各向異性探測器
+    zh-sg: 威尔金森微波各向异性探测器
+    zh-tw: 威爾金森微波各向異性探測器
 ---
-
 # [[WMAP(Wilkinson_Microwave_Anisotropy_Probe)]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Wilkinson_Microwave_Anisotropy_Probe,274106|WD~Wilkinson_Microwave_Anisotropy_Probe,274106]]   

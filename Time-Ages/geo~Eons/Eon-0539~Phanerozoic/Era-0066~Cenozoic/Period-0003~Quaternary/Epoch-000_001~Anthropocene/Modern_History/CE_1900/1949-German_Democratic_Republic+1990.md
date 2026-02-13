@@ -1,144 +1,284 @@
 ---
 location:
-  - 12.389
-  - 52.052
+- 12.389
+- 52.052
 aliases:
-  - German Democratic Republic
-  - 1949-German_Democratic_Republic+1990
-  - 1949-German Democratic Republic+1990
+- 1949-German Democratic Republic+1990
+- 1949-German_Democratic_Republic+1990
+- A' Ghearmailt an Ear
+- Aast-Düütsklound
+- Alemaniako Errepublika Demokratikoa
+- Aliman Dimukratiku Republika
+- Almagne do Levant
+- Almaniya Demokratik Respublikası
+- Austur-Þýskaland
+- Cumhuriyetê Almanyayo Demokratik
+- Cộng hòa Dân chủ Đức
+- DDR
+- Deitsche Demokratische Republik
+- Den tyske demokratiske republikken
+- Deutsche Demokratische Republik
+- Doğu Almanya
+- Duitse Democratische Republiek
+- Duitse Democratische Rippubliek
+- Duitse Demokratiese Republiek
+- Dytschi Demokratischi Republik
+- Däitsch Demokratesch Republik
+- Dútske Demokratyske Republyk
+- Düütsche Demokraatsche Republiek
+- East Alemanya
+- East Germany
+- Eastra Gērmania
+- Est-Germania
+- Eysturtýskland
+- German Democratic Republic
+- German Democratic Republica
+- Germana Demokratia Respubliko
+- Germania Est
+- Germanijan Demokratine Tazovaldkund
+- Germaniya Demokratik Respublikasi
+- Gjermania Lindore
+- Gweriniaeth Ddemocrataidd yr Almaen
+- Həšipemə Almanijə
+- Istočna Nemačka
+- Jamhuri ya Kidemokrasia ya Kijerumani
+- Jerman Kangin
+- Jerman Timur
+- Jerman Wétan
+- Jérman Wétan
+- Komara Demokratîk a Almanyayê
+- ma Tosi lon poka pi kama suno
+- Mjymjecko Dymokratyczno Republika
+- Nemačka Demokratska Republika
+- Nemecká demokratická republika
+- Nemška demokratična republika
+- Niemiecka Republika Demokratyczna
+- Nimska demokratiska republika
+- Njemačka demokratska republika
+- Nuorta-Duiska
+- Nuorttâ-Saksa
+- Nuõrtt-Saksslajânnam
+- Német Demokratikus Köztársaság
+- Německá demokratická republika
+- Němska demokratiska republika
+- Oôst-Duutsland
+- Poblacht Dhaonlathach na Gearmáine
+- Repoblika Demôkratika Alemàna
+- Repubbrica Democratega Tedesca
+- Republega Democratega Todesca
+- Republica Democratic German
+- Republica Democratica Alemana
+- Republica Democratica Alemanda
+- Republica Democrată Germană
+- Republik Demokratel Alamagn
+- Republika Demokratiko Alemán
+- Repùblica Democràtica Alman-a
+- Repùbrica Democratica Tedesca
+- República Democràtica Alemanya
+- República Democrática Alemana
+- República Democrática Alemá
+- República Democrática Alemã
+- Repúbrica Democrática Alemana
+- Repüblikän Demokratik Deutänik
+- Res publica Democratica Germanica
+- Ripùbblica Dimucràtica Tidesca
+- République démocratique allemande
+- Saksa Demokraatlik Vabariik
+- Saksan demokraattinen tasavalta
+- Silangang Alemanya
+- Sinirangan nga Alemanya
+- Tang-tek
+- Vokietijos Demokratinė Respublika
+- Vācijas Demokrātiskā Republika
+- y Ghermaan Hiar
+- Zermània Est
+- Ìlàoòrùn Jẹ́mánì
+- Östtyskland
+- Øst-Tyskland
+- Ġermanja tal-Lvant
+- Λαοκρατική Δημοκρατία της Γερμανίας
+- ГДР
+- Германи Демократиллĕ Республики
+- Германин Демократин Республика
+- Германия Демократик Республикаһы
+- Германия Демократиялык Республикасы
+- Германия Демократиялық Республикасы
+- Германиядин Демократиядин Республика
+- Германска демократична република
+- Германска Демократска Република
+- Германская Дэмакратычная Рэспубліка
+- Германы Демократон Республикæ
+- Демократ Джэрмэн Республикэ
+- Демократик Алмания Җөмһүрияте
+- Зүүн Герман
+- Источна Немачка
+- Німецька Демократична Республіка
+- Нямецкая Дэмакратычная Рэспубліка
+- ҶДО
+- Արեւելեան Գերմանիա
+- Արևելյան Գերմանիա
+- גרמניה המזרחית
+- מזרח דייטשלאנד
+- آلمان دموکراتیک جومهوریتی
+- ألمانيا الشرقية
+- ئەڵمانیای ڕۆژھەڵات
+- المانيا الشرقيه
+- جمهوری دمکراتیک آلمان
+- ختيځ جرمني
+- شرقی آلمان
+- مشرقی جرمنی
+- چڑھدا جرمنی
+- पूर्व जर्मनी
+- পূর্ব জার্মানি
+- ਪੂਰਬੀ ਜਰਮਨੀ
+- ஜெர்மன் சனநாயகக் குடியரசு
+- తూర్పు జర్మనీ
+- കിഴക്കൻ ജർമ്മനി
+- ประเทศเยอรมนีตะวันออก
+- ເຢຍລະມັນຕາເວັນອອກ
+- ဂျာမန်ဒီမိုကရက်တစ်သမ္မတနိုင်ငံ
+- გერმანიაშ დემოკრატიული რესპუბლიკა
+- გერმანიის დემოკრატიული რესპუბლიკა
+- ምስራቅ ጀርመን
+- អាល្លឺម៉ង់ខាងកើត
+- ドイツ民主共和国
+- 东德
+- 東德
+- 동독
+- 민주도이췰란드
 has_id_wikidata: Q16957
 Libris_URI: jgvxw0025qdccn1
 MeSH_tree_code: Z01.586.338
 short_name:
-  - ADR
-  - ГДР
-  - NDR
-  - GDdA
-  - ΛΔΓ
-  - GDR
-  - 東独
-  - 동독
-  - DDR
-  - NRD
-  - RDG
-  - NDR
-  - НДР
-  - 东德
-  - 東德
-  - DDR
-  - GDR
-  - TDR
-  - ГДР
-  - RDA
-  - RDA
+- ADR
+- ГДР
+- NDR
+- GDdA
+- ΛΔΓ
+- GDR
+- 東独
+- 동독
+- DDR
+- NRD
+- RDG
+- NDR
+- НДР
+- 东德
+- 東德
+- DDR
+- GDR
+- TDR
+- ГДР
+- RDA
+- RDA
 demonym:
-  - Ανατολικογερμανίδα
-  - Ανατολικογερμανός
-  - orientgermaniano
-  - alemán oriental
-  - alemana oriental
-  - keletnémet
-  - tedesca orientale
-  - tedesche orientali
-  - tedeschi orientali
-  - tedesco orientale
-  - восточная немка
-  - восточные немцы
-  - восточный немец
-  - Vzhodna Nemka
-  - Vzhodni Nemec
-  - East German
-  - Deutsche
-  - Deutscher
-  - östtysk
+- Ανατολικογερμανίδα
+- Ανατολικογερμανός
+- orientgermaniano
+- alemán oriental
+- alemana oriental
+- keletnémet
+- tedesca orientale
+- tedesche orientali
+- tedeschi orientali
+- tedesco orientale
+- восточная немка
+- восточные немцы
+- восточный немец
+- Vzhodna Nemka
+- Vzhodni Nemec
+- East German
+- Deutsche
+- Deutscher
+- östtysk
 head_of_state:
-  - "[[_Standards/WikiData/WD~Wilhelm_Pieck,65917]]"
-  - "[[_Standards/WikiData/WD~Egon_Krenz,2602]]"
-  - "[[_Standards/WikiData/WD~Manfred_Gerlach,2601]]"
-  - "[[_Standards/WikiData/WD~Erich_Honecker,2607]]"
-  - "[[_Standards/WikiData/WD~Willi_Stoph,2610]]"
-  - "[[_Standards/WikiData/WD~Walter_Ulbricht,2628]]"
-  - "[[_Standards/WikiData/WD~Sabine_Bergmann_Pohl,57232]]"
+- '[[_Standards/WikiData/WD~Wilhelm_Pieck,65917]]'
+- '[[_Standards/WikiData/WD~Egon_Krenz,2602]]'
+- '[[_Standards/WikiData/WD~Manfred_Gerlach,2601]]'
+- '[[_Standards/WikiData/WD~Erich_Honecker,2607]]'
+- '[[_Standards/WikiData/WD~Willi_Stoph,2610]]'
+- '[[_Standards/WikiData/WD~Walter_Ulbricht,2628]]'
+- '[[_Standards/WikiData/WD~Sabine_Bergmann_Pohl,57232]]'
 head_of_government:
-  - "[[_Standards/WikiData/WD~Otto_Grotewohl,77210]]"
-  - "[[_Standards/WikiData/WD~Willi_Stoph,2610]]"
-  - "[[_Standards/WikiData/WD~Hans_Modrow,57241]]"
-  - "[[_Standards/WikiData/WD~Lothar_de_Maizière,57412]]"
-  - "[[_Standards/WikiData/WD~Horst_Sindermann,57896]]"
-legislative_body: "[[_Standards/WikiData/WD~Volkskammer,168396]]"
+- '[[_Standards/WikiData/WD~Otto_Grotewohl,77210]]'
+- '[[_Standards/WikiData/WD~Willi_Stoph,2610]]'
+- '[[_Standards/WikiData/WD~Hans_Modrow,57241]]'
+- '[[_Standards/WikiData/WD~Lothar_de_Maizière,57412]]'
+- '[[_Standards/WikiData/WD~Horst_Sindermann,57896]]'
+legislative_body: '[[_Standards/WikiData/WD~Volkskammer,168396]]'
 member_of:
-  - "[[_Standards/WikiData/WD~COMECON,191582]]"
-  - "[[_Standards/WikiData/WD~Economic,_Monetary_and_Social_Union,2595976]]"
-  - "[[_Standards/WikiData/WD~United_Nations,1065]]"
-  - "[[_Standards/WikiData/WD~Warsaw_Pact,41644]]"
+- '[[_Standards/WikiData/WD~COMECON,191582]]'
+- '[[_Standards/WikiData/WD~Economic,_Monetary_and_Social_Union,2595976]]'
+- '[[_Standards/WikiData/WD~United_Nations,1065]]'
+- '[[_Standards/WikiData/WD~Warsaw_Pact,41644]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Polish_People's_Republic,211274]]"
-  - "[[_Standards/WikiData/WD~West_Germany,713750]]"
-  - "[[_Standards/WikiData/WD~Czechoslovak_Socialist_Republic,853348]]"
-  - "[[_Standards/WikiData/WD~Czech_and_Slovak_Federal_Republic,1998866]]"
-  - "[[_Standards/WikiData/WD~European_Union,458]]"
-  - "[[_Standards/WikiData/WD~Poland,36]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-  - "[[_Standards/WikiData/WD~European_Economic_Community,52847]]"
-top_level_Internet_domain: "[[_Standards/WikiData/WD~.dd,435553]]"
-location_of_formation: "[[_Standards/WikiData/WD~Detlev_Rohwedder_Haus,466157]]"
-executive_body: "[[_Standards/WikiData/WD~Council_of_Ministers_of_the_GDR,567559]]"
+- "[[_Standards/WikiData/WD~Polish_People's_Republic,211274]]"
+- '[[_Standards/WikiData/WD~West_Germany,713750]]'
+- '[[_Standards/WikiData/WD~Czechoslovak_Socialist_Republic,853348]]'
+- '[[_Standards/WikiData/WD~Czech_and_Slovak_Federal_Republic,1998866]]'
+- '[[_Standards/WikiData/WD~European_Union,458]]'
+- '[[_Standards/WikiData/WD~Poland,36]]'
+- '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~European_Economic_Community,52847]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.dd,435553]]'
+location_of_formation: '[[_Standards/WikiData/WD~Detlev_Rohwedder_Haus,466157]]'
+executive_body: '[[_Standards/WikiData/WD~Council_of_Ministers_of_the_GDR,567559]]'
 replaced_by:
-  - "[[_Standards/WikiData/WD~new_states_of_Germany,675430]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
+- '[[_Standards/WikiData/WD~new_states_of_Germany,675430]]'
+- '[[_Standards/WikiData/WD~Germany,183]]'
 replaces:
-  - "[[_Standards/WikiData/WD~Allied_Control_Council,698099]]"
-  - "[[_Standards/WikiData/WD~German_Reich,1206012]]"
-  - "[[_Standards/WikiData/WD~Soviet_occupation_zone_of_Germany,55300]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_East_Germany,706790]]"
-territory_claimed_by: "[[_Standards/WikiData/WD~West_Germany,713750]]"
+- '[[_Standards/WikiData/WD~Allied_Control_Council,698099]]'
+- '[[_Standards/WikiData/WD~German_Reich,1206012]]'
+- '[[_Standards/WikiData/WD~Soviet_occupation_zone_of_Germany,55300]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_East_Germany,706790]]'
+territory_claimed_by: '[[_Standards/WikiData/WD~West_Germany,713750]]'
 diplomatic_relation:
-  - "[[_Standards/WikiData/WD~West_Germany,713750]]"
-  - "[[_Standards/WikiData/WD~North_Korea,423]]"
-  - "[[_Standards/WikiData/WD~Israel,801]]"
-  - "[[_Standards/WikiData/WD~Pakistan,843]]"
-  - "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-  - "[[_Standards/WikiData/WD~Yugoslavia,36704]]"
-motto: "[[_Standards/WikiData/WD~Workers_of_the_world,_unite!,877781]]"
+- '[[_Standards/WikiData/WD~West_Germany,713750]]'
+- '[[_Standards/WikiData/WD~North_Korea,423]]'
+- '[[_Standards/WikiData/WD~Israel,801]]'
+- '[[_Standards/WikiData/WD~Pakistan,843]]'
+- '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
+- '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Yugoslavia,36704]]'
+motto: '[[_Standards/WikiData/WD~Workers_of_the_world,_unite!,877781]]'
 office_held_by_head_of_state:
-  - "[[_Standards/WikiData/WD~President_of_East_Germany,2114953]]"
-  - "[[_Standards/WikiData/WD~President_of_the_Volkskammer,62569716]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_the_German_Democratic_Republic,2777490]]"
-instance_of: "[[_Standards/WikiData/WD~historical_country,3024240]]"
+- '[[_Standards/WikiData/WD~President_of_East_Germany,2114953]]'
+- '[[_Standards/WikiData/WD~President_of_the_Volkskammer,62569716]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_the_German_Democratic_Republic,2777490]]'
+instance_of: '[[_Standards/WikiData/WD~historical_country,3024240]]'
 basic_form_of_government:
-  - "[[_Standards/WikiData/WD~parliamentary_republic,4198907]]"
-  - "[[_Standards/WikiData/WD~communist_dictatorship,117405807]]"
-  - "[[_Standards/WikiData/WD~republic,7270]]"
-flag: "[[_Standards/WikiData/WD~flag_of_East_Germany,7624391]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_East_Germany,14615751]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q56244905,56244905]]"
-described_by_source: "[[_Standards/WikiData/WD~hedendaagsesieraden.nl,89929597]]"
+- '[[_Standards/WikiData/WD~parliamentary_republic,4198907]]'
+- '[[_Standards/WikiData/WD~communist_dictatorship,117405807]]'
+- '[[_Standards/WikiData/WD~republic,7270]]'
+flag: '[[_Standards/WikiData/WD~flag_of_East_Germany,7624391]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_East_Germany,14615751]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q56244905,56244905]]'
+described_by_source: '[[_Standards/WikiData/WD~hedendaagsesieraden.nl,89929597]]'
 coordinate_location: Point(12.389 52.052)
-country: "[[_Standards/WikiData/WD~German_Democratic_Republic,16957]]"
-continent: "[[_Standards/WikiData/WD~Europe,46]]"
-located_in_the_present_day_administrative_territorial_entity: "[[_Standards/WikiData/WD~Germany,183]]"
-language_used: "[[_Standards/WikiData/WD~German,188]]"
-official_language: "[[_Standards/WikiData/WD~German,188]]"
+country: '[[_Standards/WikiData/WD~German_Democratic_Republic,16957]]'
+continent: '[[_Standards/WikiData/WD~Europe,46]]'
+located_in_the_present_day_administrative_territorial_entity: '[[_Standards/WikiData/WD~Germany,183]]'
+language_used: '[[_Standards/WikiData/WD~German,188]]'
+official_language: '[[_Standards/WikiData/WD~German,188]]'
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Cottbus_District,48046]]"
-  - "[[_Standards/WikiData/WD~Dresden_District,48050]]"
-  - "[[_Standards/WikiData/WD~Erfurt_District,48054]]"
-  - "[[_Standards/WikiData/WD~Frankfurt_(Oder)_District,48057]]"
-  - "[[_Standards/WikiData/WD~Gera_District,48060]]"
-  - "[[_Standards/WikiData/WD~Halle_District,48066]]"
-  - "[[_Standards/WikiData/WD~Karl_Marx_Stadt_District,48072]]"
-  - "[[_Standards/WikiData/WD~Leipzig_District,48079]]"
-  - "[[_Standards/WikiData/WD~Magdeburg_District,48083]]"
-  - "[[_Standards/WikiData/WD~Neubrandenburg_District,48089]]"
-  - "[[_Standards/WikiData/WD~Potsdam_District,48094]]"
-  - "[[_Standards/WikiData/WD~Rostock_District,48098]]"
-  - "[[_Standards/WikiData/WD~Schwerin_District,48101]]"
-  - "[[_Standards/WikiData/WD~Suhl_District,48106]]"
-  - "[[_Standards/WikiData/WD~East_Berlin,56037]]"
-anthem: "[[_Standards/WikiData/WD~Auferstanden_aus_Ruinen,48147]]"
-coat_of_arms: "[[_Standards/WikiData/WD~National_Emblem_of_the_German_Democratic_Republic,48168]]"
-capital: "[[_Standards/WikiData/WD~East_Berlin,56037]]"
+- '[[_Standards/WikiData/WD~Cottbus_District,48046]]'
+- '[[_Standards/WikiData/WD~Dresden_District,48050]]'
+- '[[_Standards/WikiData/WD~Erfurt_District,48054]]'
+- '[[_Standards/WikiData/WD~Frankfurt_(Oder)_District,48057]]'
+- '[[_Standards/WikiData/WD~Gera_District,48060]]'
+- '[[_Standards/WikiData/WD~Halle_District,48066]]'
+- '[[_Standards/WikiData/WD~Karl_Marx_Stadt_District,48072]]'
+- '[[_Standards/WikiData/WD~Leipzig_District,48079]]'
+- '[[_Standards/WikiData/WD~Magdeburg_District,48083]]'
+- '[[_Standards/WikiData/WD~Neubrandenburg_District,48089]]'
+- '[[_Standards/WikiData/WD~Potsdam_District,48094]]'
+- '[[_Standards/WikiData/WD~Rostock_District,48098]]'
+- '[[_Standards/WikiData/WD~Schwerin_District,48101]]'
+- '[[_Standards/WikiData/WD~Suhl_District,48106]]'
+- '[[_Standards/WikiData/WD~East_Berlin,56037]]'
+anthem: '[[_Standards/WikiData/WD~Auferstanden_aus_Ruinen,48147]]'
+coat_of_arms: '[[_Standards/WikiData/WD~National_Emblem_of_the_German_Democratic_Republic,48168]]'
+capital: '[[_Standards/WikiData/WD~East_Berlin,56037]]'
 GS1_country_code: 440
 ISO_3166_1_numeric_code: 278
 population: 16111000
@@ -155,8 +295,8 @@ official_name: Deutsche Demokratische Republik
 native_label: Deutsche Demokratische Republik
 U_S_National_Archives_Identifier: 10046574
 dissolved_abolished_or_demolished_date:
-  - 1989-01-01T00:00:00Z
-  - 1990-10-03T00:00:00Z
+- 1989-01-01T00:00:00Z
+- 1990-10-03T00:00:00Z
 IOC_country_code: GDR
 inception: 1949-10-07T00:00:00Z
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20East%20Germany.svg
@@ -172,26 +312,193 @@ IMDb_keyword: east-germany
 GitHub_topic: german-democratic-republic
 dv_is_:
   same_as:
-    - "[[../../../../../../../../WikiData/WD~German_Democratic_Republic,16957|WD~German_Democratic_Republic,16957]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1949-German_Democratic_Republic+1990|1949-German_Democratic_Republic+1990]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1949-German_Democratic_Republic+1990.public|1949-German_Democratic_Republic+1990.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1949-German_Democratic_Republic+1990.internal|1949-German_Democratic_Republic+1990.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1949-German_Democratic_Republic+1990.protect|1949-German_Democratic_Republic+1990.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1949-German_Democratic_Republic+1990.private|1949-German_Democratic_Republic+1990.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1949-German_Democratic_Republic+1990.personal|1949-German_Democratic_Republic+1990.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1949-German_Democratic_Republic+1990.secret|1949-German_Democratic_Republic+1990.secret]]"
+  - '[[../../../../../../../../WikiData/WD~German_Democratic_Republic,16957|WD~German_Democratic_Republic,16957]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1949-German_Democratic_Republic+1990|1949-German_Democratic_Republic+1990]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1949-German_Democratic_Republic+1990.public|1949-German_Democratic_Republic+1990.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1949-German_Democratic_Republic+1990.internal|1949-German_Democratic_Republic+1990.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1949-German_Democratic_Republic+1990.protect|1949-German_Democratic_Republic+1990.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1949-German_Democratic_Republic+1990.private|1949-German_Democratic_Republic+1990.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1949-German_Democratic_Republic+1990.personal|1949-German_Democratic_Republic+1990.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1949-German_Democratic_Republic+1990.secret|1949-German_Democratic_Republic+1990.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~German_Democratic_Republic,16957|WD~German_Democratic_Republic,16957]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1949-German_Democratic_Republic+1990|1949-German_Democratic_Republic+1990]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1949-German_Democratic_Republic+1990.public|1949-German_Democratic_Republic+1990.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1949-German_Democratic_Republic+1990.internal|1949-German_Democratic_Republic+1990.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1949-German_Democratic_Republic+1990.protect|1949-German_Democratic_Republic+1990.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1949-German_Democratic_Republic+1990.private|1949-German_Democratic_Republic+1990.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1949-German_Democratic_Republic+1990.personal|1949-German_Democratic_Republic+1990.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1949-German_Democratic_Republic+1990.secret|1949-German_Democratic_Republic+1990.secret]]"
+- '[[../../../../../../../../WikiData/WD~German_Democratic_Republic,16957|WD~German_Democratic_Republic,16957]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1949-German_Democratic_Republic+1990|1949-German_Democratic_Republic+1990]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1949-German_Democratic_Republic+1990.public|1949-German_Democratic_Republic+1990.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1949-German_Democratic_Republic+1990.internal|1949-German_Democratic_Republic+1990.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1949-German_Democratic_Republic+1990.protect|1949-German_Democratic_Republic+1990.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1949-German_Democratic_Republic+1990.private|1949-German_Democratic_Republic+1990.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1949-German_Democratic_Republic+1990.personal|1949-German_Democratic_Republic+1990.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1949-German_Democratic_Republic+1990.secret|1949-German_Democratic_Republic+1990.secret]]'
+dv_has_:
+  name_:
+    af: Duitse Demokratiese Republiek
+    am: ምስራቅ ጀርመን
+    an: Republica Democratica Alemana
+    ang: Eastra Gērmania
+    ar: ألمانيا الشرقية
+    ary: ألمانيا الشرقية
+    arz: المانيا الشرقيه
+    ast: República Democrática Alemana
+    az: Almaniya Demokratik Respublikası
+    azb: آلمان دموکراتیک جومهوریتی
+    ba: Германия Демократик Республикаһы
+    ban: Jerman Kangin
+    bar: Deitsche Demokratische Republik
+    be: Германская Дэмакратычная Рэспубліка
+    be-tarask: Нямецкая Дэмакратычная Рэспубліка
+    bg: Германска демократична република
+    bn: পূর্ব জার্মানি
+    br: Republik Demokratel Alamagn
+    bs: Njemačka demokratska republika
+    ca: República Democràtica Alemanya
+    cbk-zam: República Democrática Alemana
+    ce: Германин Демократин Республика
+    ceb: East Alemanya
+    ckb: ئەڵمانیای ڕۆژھەڵات
+    cs: Německá demokratická republika
+    cv: Германи Демократиллĕ Республики
+    cy: Gweriniaeth Ddemocrataidd yr Almaen
+    da: DDR
+    de: Deutsche Demokratische Republik
+    de-at: Deutsche Demokratische Republik
+    de-ch: Deutsche Demokratische Republik
+    diq: Cumhuriyetê Almanyayo Demokratik
+    dsb: Nimska demokratiska republika
+    el: Λαοκρατική Δημοκρατία της Γερμανίας
+    en: German Democratic Republic
+    en-ca: East Germany
+    en-gb: German Democratic Republic
+    en-us: German Democratic Republic
+    eo: Germana Demokratia Respubliko
+    es: República Democrática Alemana
+    et: Saksa Demokraatlik Vabariik
+    eu: Alemaniako Errepublika Demokratikoa
+    ext: Repúbrica Democrática Alemana
+    fa: جمهوری دمکراتیک آلمان
+    fi: Saksan demokraattinen tasavalta
+    fo: Eysturtýskland
+    fr: République démocratique allemande
+    frr: DDR
+    fy: Dútske Demokratyske Republyk
+    ga: Poblacht Dhaonlathach na Gearmáine
+    gan: 東德
+    gd: A' Ghearmailt an Ear
+    gl: República Democrática Alemá
+    gsw: Dytschi Demokratischi Republik
+    gv: y Ghermaan Hiar
+    he: גרמניה המזרחית
+    hi: पूर्व जर्मनी
+    hr: Njemačka Demokratska Republika
+    hsb: Němska demokratiska republika
+    hu: Német Demokratikus Köztársaság
+    hy: Արևելյան Գերմանիա
+    hyw: Արեւելեան Գերմանիա
+    ia: Republica Democratic German
+    id: Jerman Timur
+    ie: German Democratic Republica
+    io: Est-Germania
+    is: Austur-Þýskaland
+    it: Germania Est
+    ja: ドイツ民主共和国
+    jv: Jerman Wétan
+    ka: გერმანიის დემოკრატიული რესპუბლიკა
+    kbd: Демократ Джэрмэн Республикэ
+    kk: Германия Демократиялық Республикасы
+    km: អាល្លឺម៉ង់ខាងកើត
+    ko: 동독
+    ko-kp: 민주도이췰란드
+    ksh: Deutsche Demokratische Republik
+    ku: Komara Demokratîk a Almanyayê
+    ky: Германия Демократиялык Республикасы
+    la: Res publica Democratica Germanica
+    lb: Däitsch Demokratesch Republik
+    lez: Германиядин Демократиядин Республика
+    li: Duitse Democratische Rippubliek
+    lij: Repubbrica Democratega Tedesca
+    lmo: Republega Democratega Todesca
+    lo: ເຢຍລະມັນຕາເວັນອອກ
+    lt: Vokietijos Demokratinė Respublika
+    lv: Vācijas Demokrātiskā Republika
+    lzh: 東德
+    mg: Repoblika Demôkratika Alemàna
+    mk: Германска Демократска Република
+    ml: കിഴക്കൻ ജർമ്മനി
+    mn: Зүүн Герман
+    mr: पूर्व जर्मनी
+    ms: Jerman Timur
+    mt: Ġermanja tal-Lvant
+    my: ဂျာမန်ဒီမိုကရက်တစ်သမ္မတနိုင်ငံ
+    mzn: شرقی آلمان
+    nan: Tang-tek
+    nb: Øst-Tyskland
+    nds: Düütsche Demokraatsche Republiek
+    ne: पूर्व जर्मनी
+    nl: Duitse Democratische Republiek
+    nn: Den tyske demokratiske republikken
+    oc: Republica Democratica Alemanda
+    os: Германы Демократон Республикæ
+    pa: ਪੂਰਬੀ ਜਰਮਨੀ
+    pap: Republika Demokratiko Alemán
+    pl: Niemiecka Republika Demokratyczna
+    pms: Repùblica Democràtica Alman-a
+    pnb: چڑھدا جرمنی
+    ps: ختيځ جرمني
+    pt: República Democrática Alemã
+    pt-br: República Democrática Alemã
+    qu: Aliman Dimukratiku Republika
+    ro: Republica Democrată Germană
+    ru: ГДР
+    rue: Германска демократична република
+    sah: ГДР
+    sc: Repùbrica Democratica Tedesca
+    scn: Ripùbblica Dimucràtica Tidesca
+    sco: East Germany
+    se: Nuorta-Duiska
+    sh: Nemačka Demokratska Republika
+    sk: Nemecká demokratická republika
+    sl: Nemška demokratična republika
+    smn: Nuorttâ-Saksa
+    sms: Nuõrtt-Saksslajânnam
+    sq: Gjermania Lindore
+    sr: Источна Немачка
+    sr-ec: Источна Немачка
+    sr-el: Istočna Nemačka
+    stq: Aast-Düütsklound
+    su: Jérman Wétan
+    sv: Östtyskland
+    sw: Jamhuri ya Kidemokrasia ya Kijerumani
+    szl: Mjymjecko Dymokratyczno Republika
+    ta: ஜெர்மன் சனநாயகக் குடியரசு
+    te: తూర్పు జర్మనీ
+    tg: ҶДО
+    th: ประเทศเยอรมนีตะวันออก
+    tl: Silangang Alemanya
+    tly: Həšipemə Almanijə
+    tok: ma Tosi lon poka pi kama suno
+    tr: Doğu Almanya
+    tt: Демократик Алмания Җөмһүрияте
+    uk: Німецька Демократична Республіка
+    ur: مشرقی جرمنی
+    uz: Germaniya Demokratik Respublikasi
+    vec: Zermània Est
+    vep: Germanijan Demokratine Tazovaldkund
+    vi: Cộng hòa Dân chủ Đức
+    vo: Repüblikän Demokratik Deutänik
+    wa: Almagne do Levant
+    war: Sinirangan nga Alemanya
+    wuu: 东德
+    xmf: გერმანიაშ დემოკრატიული რესპუბლიკა
+    yi: מזרח דייטשלאנד
+    yo: Ìlàoòrùn Jẹ́mánì
+    yue: 東德
+    zea: Oôst-Duutsland
+    zh: 東德
+    zh-cn: 东德
+    zh-hans: 东德
+    zh-hant: 東德
+    zh-hk: 東德
+    zh-tw: 東德
 ---
-
-
 # [[1949-German_Democratic_Republic+1990]]
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~German_Democratic_Republic,16957|WD~German_Democratic_Republic,16957]]

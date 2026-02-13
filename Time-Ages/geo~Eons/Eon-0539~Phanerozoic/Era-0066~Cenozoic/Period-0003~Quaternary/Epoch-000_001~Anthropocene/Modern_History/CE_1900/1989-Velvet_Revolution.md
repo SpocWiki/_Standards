@@ -1,22 +1,78 @@
 ---
 aliases:
-  - Velvet Revolution
-  - sametová revoluce
-  - Gentle Revolution
-  - nežná revolúcia
-  - Samtene Revolution
-  - 1989-Velvet_Revolution
-  - 1989-Velvet Revolution
+- 1989-Velvet Revolution
+- 1989-Velvet_Revolution
+- Aksamitna rewolucja
+- Aksominė revoliucija
+- Baršunasta revolucija
+- Belusezko Iraultza
+- bársonyos forradalom
+- Cách mạng Nhung
+- Flauelsbyltingin
+- Fluwelen Revolutie
+- Fløjlsrevolutionen
+- Fløyelsrevolusjonen
+- Gentle Revolution
+- Kadife Devrim
+- Məxməri inqilab
+- nežná revolúcia
+- Plišana revolucija
+- Rebolussione de pannarrigada
+- Res novae holosericae
+- Revolucioni i Kadifes
+- Revolució de Vellut
+- Revolución de Terciopelo
+- Revolución de Terciopelu
+- Revolución de Veludo
+- Revolusi Beludru
+- Revoluzion de Velluu
+- Revolução de Veludo
+- Revoluția de catifea
+- Revołusion de vełudo
+- Rivoluzione di velluto
+- Révolution de Velours
+- sametová revoluce
+- Sametrevolutsioon
+- Samette Revolutioun
+- Samettivallankumous
+- Sammetsrevolutionen
+- Samta revolūcija
+- Samtene Revolution
+- Velura Revoluciono
+- Velvet Revolution
+- Ĉeĥoslovaka revolucio en 1989
+- žametna revolucija
+- Βελούδινη επανάσταση
+- Аксамітная рэвалюцыя
+- Бархатная революция
+- Кадифена револуција
+- Нежна революция
+- Оксамитова революція
+- Плишана револуција
+- Чехословакийн зөөлөн хувьсгал
+- թավշյա հեղափոխություն
+- מהפכת הקטיפה
+- الثورة المخملية
+- انقلاب مخملی
+- مخملی انقلاب
+- মখমল বিপ্লব
+- വെൽവെറ്റ് വിപ്ലവം
+- การปฏิวัติกำมะหยี่
+- ხავერდოვანი რევოლუცია
+- ビロード革命
+- 天鵝絨革命
+- 天鹅绒革命
+- 벨벳 혁명
 has_id_wikidata: Q182817
-has_cause: "[[_Standards/WikiData/WD~totalitarianism,128135]]"
-has_part_s_: "[[_Standards/WikiData/WD~Q136747398,136747398]]"
-instance_of: "[[_Standards/WikiData/WD~revolution,10931]]"
+has_cause: '[[_Standards/WikiData/WD~totalitarianism,128135]]'
+has_part_s_: '[[_Standards/WikiData/WD~Q136747398,136747398]]'
+instance_of: '[[_Standards/WikiData/WD~revolution,10931]]'
 number_of_injured: 500
-location: "[[_Standards/WikiData/WD~Czechoslovakia,33946]]"
-country: "[[_Standards/WikiData/WD~Czechoslovakia,33946]]"
+location: '[[_Standards/WikiData/WD~Czechoslovakia,33946]]'
+country: '[[_Standards/WikiData/WD~Czechoslovakia,33946]]'
 native_label:
-  - Sametová revoluce
-  - Nežná revolúcia
+- Sametová revoluce
+- Nežná revolúcia
 point_in_time: 1989-01-01T00:00:00Z
 start_time: 1989-11-17T00:00:00Z
 end_time: 1989-12-29T00:00:00Z
@@ -25,25 +81,99 @@ Google_Doodle: 25th-anniversary-of-the-velvet-revolution
 Commons_category: Velvet Revolution
 dv_is_:
   same_as:
-    - "[[../../../../../../../../WikiData/WD~Velvet_Revolution,182817|WD~Velvet_Revolution,182817]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Velvet_Revolution|1989-Velvet_Revolution]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Velvet_Revolution.public|1989-Velvet_Revolution.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Velvet_Revolution.internal|1989-Velvet_Revolution.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Velvet_Revolution.protect|1989-Velvet_Revolution.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Velvet_Revolution.private|1989-Velvet_Revolution.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Velvet_Revolution.personal|1989-Velvet_Revolution.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Velvet_Revolution.secret|1989-Velvet_Revolution.secret]]"
+  - '[[../../../../../../../../WikiData/WD~Velvet_Revolution,182817|WD~Velvet_Revolution,182817]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Velvet_Revolution|1989-Velvet_Revolution]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Velvet_Revolution.public|1989-Velvet_Revolution.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Velvet_Revolution.internal|1989-Velvet_Revolution.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Velvet_Revolution.protect|1989-Velvet_Revolution.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Velvet_Revolution.private|1989-Velvet_Revolution.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Velvet_Revolution.personal|1989-Velvet_Revolution.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Velvet_Revolution.secret|1989-Velvet_Revolution.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Velvet_Revolution,182817|WD~Velvet_Revolution,182817]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Velvet_Revolution|1989-Velvet_Revolution]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Velvet_Revolution.public|1989-Velvet_Revolution.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Velvet_Revolution.internal|1989-Velvet_Revolution.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Velvet_Revolution.protect|1989-Velvet_Revolution.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Velvet_Revolution.private|1989-Velvet_Revolution.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Velvet_Revolution.personal|1989-Velvet_Revolution.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Velvet_Revolution.secret|1989-Velvet_Revolution.secret]]"
+- '[[../../../../../../../../WikiData/WD~Velvet_Revolution,182817|WD~Velvet_Revolution,182817]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Velvet_Revolution|1989-Velvet_Revolution]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Velvet_Revolution.public|1989-Velvet_Revolution.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Velvet_Revolution.internal|1989-Velvet_Revolution.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Velvet_Revolution.protect|1989-Velvet_Revolution.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Velvet_Revolution.private|1989-Velvet_Revolution.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Velvet_Revolution.personal|1989-Velvet_Revolution.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Velvet_Revolution.secret|1989-Velvet_Revolution.secret]]'
+dv_has_:
+  name_:
+    ar: الثورة المخملية
+    ast: Revolución de Terciopelu
+    az: Məxməri inqilab
+    be: Аксамітная рэвалюцыя
+    be-tarask: Аксамітная рэвалюцыя
+    bg: Нежна революция
+    bn: মখমল বিপ্লব
+    ca: Revolució de Vellut
+    cs: Sametová revoluce
+    da: Fløjlsrevolutionen
+    de: Samtene Revolution
+    el: Βελούδινη επανάσταση
+    en: Velvet Revolution
+    en-gb: Velvet Revolution
+    eo: Ĉeĥoslovaka revolucio en 1989
+    es: Revolución de Terciopelo
+    et: Sametrevolutsioon
+    eu: Belusezko Iraultza
+    fa: انقلاب مخملی
+    fi: Samettivallankumous
+    fr: Révolution de Velours
+    gl: Revolución de Veludo
+    gsw: Samtene Revolution
+    he: מהפכת הקטיפה
+    hr: Baršunasta revolucija
+    hu: bársonyos forradalom
+    hy: թավշյա հեղափոխություն
+    id: Revolusi Beludru
+    io: Velura Revoluciono
+    is: Flauelsbyltingin
+    it: Rivoluzione di velluto
+    ja: ビロード革命
+    ka: ხავერდოვანი რევოლუცია
+    ko: 벨벳 혁명
+    la: Res novae holosericae
+    lb: Samette Revolutioun
+    lmo: Revoluzion de Velluu
+    lt: Aksominė revoliucija
+    lv: Samta revolūcija
+    mk: Кадифена револуција
+    ml: വെൽവെറ്റ് വിപ്ലവം
+    mn: Чехословакийн зөөлөн хувьсгал
+    nb: Fløyelsrevolusjonen
+    nl: Fluwelen Revolutie
+    pl: Aksamitna rewolucja
+    pnb: مخملی انقلاب
+    pt: Revolução de Veludo
+    ro: Revoluția de catifea
+    ru: Бархатная революция
+    sc: Rebolussione de pannarrigada
+    sh: Baršunasta revolucija
+    sk: Nežná revolúcia
+    sl: žametna revolucija
+    sq: Revolucioni i Kadifes
+    sr: Plišana revolucija
+    sr-ec: Плишана револуција
+    sr-el: Plišana revolucija
+    sv: Sammetsrevolutionen
+    th: การปฏิวัติกำมะหยี่
+    tr: Kadife Devrim
+    uk: Оксамитова революція
+    ur: مخملی انقلاب
+    vec: Revołusion de vełudo
+    vi: Cách mạng Nhung
+    wuu: 天鹅绒革命
+    yue: 天鵝絨革命
+    zh: 天鵝絨革命
+    zh-cn: 天鹅绒革命
+    zh-hans: 天鹅绒革命
+    zh-hant: 天鵝絨革命
+    zh-hk: 天鵝絨革命
+    zh-sg: 天鹅绒革命
+    zh-tw: 天鵝絨革命
 ---
-
 # [[1989-Velvet_Revolution]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Velvet_Revolution,182817|WD~Velvet_Revolution,182817]]  

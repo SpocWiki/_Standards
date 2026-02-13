@@ -1,72 +1,136 @@
 ---
 aliases:
-  - Tarantian Age
-  - Late_Pleistocene
-  - Late Pleistocene
+- Gornji pleistocen
+- Jongpleistozän
+- Jungpleistozän
+- Laat Pleistoceen
+- Laat Pleistoseen
+- Late Pleistocene
+- Late_Pleistocene
+- myöhäispleistoseeni
+- Pleistocen muộn
+- Pleistocene superiore
+- Pleistoceno Superior
+- Pleistocenul târziu
+- Pleistosen Akhir
+- Pleyîstosena paşîn
+- Plistoceno Superior
+- Plistocè superior
+- Pléistocène supérieur
+- pozni pleistocen
+- późny plejstocen
+- supra pleistoceno
+- svrchní pleistocén
+- Tarantas stāvs
+- taranti
+- Tarantian Age
+- Tarantianu
+- Tarantiar
+- Tarantiense
+- Övre pleistocen
+- øvre pleistocen
+- Пізній плейстоцен
+- поздний плейстоцен
+- البليستوسين المتأخر
+- پلیستوسن پسین
+- ช่วงอายุไพลสโตซีนตอนปลาย
+- 後期更新世
+- 晚更新世
+- 플라이스토세 후기
 has_id_wikidata: Q498831
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Late_Pleistocene,24068315]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Late_Pleistocene,24068315]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 end_time: -9700-01-01T00:00:00Z
 Commons_category: Late Pleistocene
 start_time: -129000-01-01T00:00:00Z
 sRGB_color_hex_triplet: FFF2D3
 dv_has_:
-  time_:
-    started: "-129.0e3"
-    stopped: "-11.7e3"
   duration_:
     years: 117300
-  previous_:
-    item: "[[Age~3~Chibanian]]"
-  next_:
-    item: "[[../Epoch-000_012~Holocene/0000-Greenlandian|0000-Greenlandian]]"
   name_:
+    abbreviated: q4
+    af: Laat Pleistoseen
+    ar: البليستوسين المتأخر
     bg: Къѿен плейѿтоцен
-    cs: Pozdní pleistocén
+    ca: Plistocè superior
+    cs: svrchní pleistocén
     da: Sen Pleistocæn
-    de: Spätes Pleistozän
+    de: Jungpleistozän
+    en: Late Pleistocene
+    en-gb: Late Pleistocene
+    eo: supra pleistoceno
+    es: Tarantiense
     et: Hiline pleistotseen
-    fi: Myöhäis-Pleistoseeni
-    hu: késő pleisztocén
+    eu: Tarantiar
+    fa: پلیستوسن پسین
+    fi: myöhäispleistoseeni
+    fr: Pléistocène supérieur
+    frr: Jongpleistozän
+    gl: Plistoceno Superior
+    hu: taranti
+    id: Pleistosen Akhir
+    it: Pleistocene superiore
     ja: 後期更新世
+    ko: 플라이스토세 후기
+    ku: Pleyîstosena paşîn
+    ku-latn: Pleyîstosena paşîn
     lt: Apatinis Pleistocenas
+    lv: Tarantas stāvs
+    nds: Jungpleistozän
     nl: Laat Pleistoceen
+    nn: øvre pleistocen
     no: Yngre pleistocen
-    pl: Późny Plejstocen
+    pl: późny plejstocen
+    pt: Pleistoceno Superior
+    ro: Pleistocenul târziu
+    ru: поздний плейстоцен
+    scn: Tarantianu
+    sh: Gornji pleistocen
     sk: mladší pleistocén
     sl: pozni pleistocen
-    sv: yngre pleistocen
+    sv: Övre pleistocen
+    th: ช่วงอายุไพลสโตซีนตอนปลาย
+    uk: Пізній плейстоцен
+    vi: Pleistocen muộn
     zh: 晚更新世
-    abbreviated: q4
+    zh-hans: 晚更新世
+    zh-hant: 晚更新世
+  next_:
+    item: '[[../Epoch-000_012~Holocene/0000-Greenlandian|0000-Greenlandian]]'
+  previous_:
+    item: '[[Age~3~Chibanian]]'
   text_of_:
-    color: "0xFFF2D3"
+    color: 0xFFF2D3
+  time_:
+    started: -129.0e3
+    stopped: -11.7e3
 dv_is_:
   same_as:
-    - "[[WD~Late_Pleistocene,498831 ]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene|Age~4~Late_Pleistocene]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene.public|Age~4~Late_Pleistocene.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene.internal|Age~4~Late_Pleistocene.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene.protect|Age~4~Late_Pleistocene.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene.private|Age~4~Late_Pleistocene.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene.personal|Age~4~Late_Pleistocene.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene.secret|Age~4~Late_Pleistocene.secret]]"
-dv_has_time_started: "-129.0e3"
-dv_has_time_stopped: "-11.7e3"
+  - '[[WD~Late_Pleistocene,498831 ]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene|Age~4~Late_Pleistocene]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene.public|Age~4~Late_Pleistocene.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene.internal|Age~4~Late_Pleistocene.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene.protect|Age~4~Late_Pleistocene.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene.private|Age~4~Late_Pleistocene.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene.personal|Age~4~Late_Pleistocene.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene.secret|Age~4~Late_Pleistocene.secret]]'
+dv_has_time_started: -129.0e3
+dv_has_time_stopped: -11.7e3
 dv_has_duration_years: 117300
-dv_has_previous_item: "[[Age~3~Chibanian]]"
-dv_has_next_item: "[[../Epoch-000_012~Holocene/0000-Greenlandian|0000-Greenlandian]]"
+dv_has_previous_item: '[[Age~3~Chibanian]]'
+dv_has_next_item: '[[../Epoch-000_012~Holocene/0000-Greenlandian|0000-Greenlandian]]'
 dv_is_same_as:
-  - "[[WD~Late_Pleistocene,498831 ]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene|Age~4~Late_Pleistocene]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene.public|Age~4~Late_Pleistocene.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene.internal|Age~4~Late_Pleistocene.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene.protect|Age~4~Late_Pleistocene.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene.private|Age~4~Late_Pleistocene.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene.personal|Age~4~Late_Pleistocene.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene.secret|Age~4~Late_Pleistocene.secret]]"
+- '[[WD~Late_Pleistocene,498831 ]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene|Age~4~Late_Pleistocene]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene.public|Age~4~Late_Pleistocene.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene.internal|Age~4~Late_Pleistocene.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene.protect|Age~4~Late_Pleistocene.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene.private|Age~4~Late_Pleistocene.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene.personal|Age~4~Late_Pleistocene.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene.secret|Age~4~Late_Pleistocene.secret]]'
 dv_has_name_bg: Къѿен плейѿтоцен
 dv_has_name_cs: Pozdní pleistocén
 dv_has_name_da: Sen Pleistocæn
@@ -84,9 +148,8 @@ dv_has_name_sl: pozni pleistocen
 dv_has_name_sv: yngre pleistocen
 dv_has_name_zh: 晚更新世
 dv_has_name_abbreviated: q4
-dv_has_text_of_color: "0xFFF2D3"
+dv_has_text_of_color: 0xFFF2D3
 ---
-
 # [[Age~4~Late_Pleistocene]] 
 
 #is_a_/time_/Age 

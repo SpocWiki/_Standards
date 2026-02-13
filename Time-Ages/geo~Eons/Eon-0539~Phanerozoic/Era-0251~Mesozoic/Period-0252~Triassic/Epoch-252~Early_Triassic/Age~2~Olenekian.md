@@ -1,76 +1,111 @@
 ---
 aliases:
-  - Olenekian
+- Olenek
+- Olenekian
+- Olenekiano
+- Olenekianu
+- Olenekiar
+- Olenekien
+- Olenekiense
+- Olenekij
+- Olenekium
+- Oleniokià
+- olenyoki
+- Olinichianu
+- Olénékien
+- Tầng Olenek
+- оленёкский ярус
+- الأولنكي
+- اولنکین
+- オレネキアン
+- 奧倫尼克階
+- 올레네크절
 has_id_wikidata: Q914322
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Olenekian,21586916]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Olenekian,21586916]]'
 named_by:
-  - "[[_Standards/WikiData/WD~Liubov_Dmitrievna_Kiparisova,54605830]]"
-  - "[[_Standards/WikiData/WD~Yuri_Nikolaevich_Popov,119138054]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+- '[[_Standards/WikiData/WD~Liubov_Dmitrievna_Kiparisova,54605830]]'
+- '[[_Standards/WikiData/WD~Yuri_Nikolaevich_Popov,119138054]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 start_time: -251200000-01-01T00:00:00Z
-named_after: "[[_Standards/WikiData/WD~Olenyok,26799]]"
+named_after: '[[_Standards/WikiData/WD~Olenyok,26799]]'
 end_time: -247200000-01-01T00:00:00Z
 coordinate_location: Point(78.02472222 31.96527778)
 sRGB_color_hex_triplet: C26AA5
 dv_has_:
   duration_:
-    years: "-4.000e+6"
-  previous_:
-    item: "[[Age~1~Induan]]"
-  next_:
-    item: "[[../Epoch-247~Middle_Triassic/Age~1~Anisian|Age~1~Anisian]]"
+    years: -4.000e+6
   name_:
+    abbreviated: t2
+    af: Olenekium
+    ar: الأولنكي
+    ast: Olenekianu
     bg: Оленек
+    ca: Oleniokià
     cs: Olenek
     da: Olenekien
     de: Olenekium
+    en: Olenekian
     es: Olenekiense
     et: Oleneki
+    eu: Olenekiar
+    fa: اولنکین
     fi: Olenek
-    fr: Olénekien
+    fr: Olénékien
+    gl: Olenekiano
     hu: olenyoki
-    it: olenekiano
-    ja: オレネキアン期
+    id: Olenekium
+    it: Olenekiano
+    ja: オレネキアン
+    ko: 올레네크절
+    la: Olenekium
     lt: Olenekis
-    nl: Olenekiën
+    nl: Olenekien
+    nn: olenek
     no: Olenek
     pl: Olenek
     pt: Olenekiano
+    ru: оленёкский ярус
+    scn: Olinichianu
+    sh: Olenekij
     sk: olenek
     sl: olenekij
     sv: olenek
-    zh: 奥伦尼克期
-    abbreviated: t2
-  time_:
-    started: "-247.2e6"
-    stopped: "-251.2e6"
+    vi: Tầng Olenek
+    zh: 奧倫尼克階
+  next_:
+    item: '[[../Epoch-247~Middle_Triassic/Age~1~Anisian|Age~1~Anisian]]'
+  previous_:
+    item: '[[Age~1~Induan]]'
   text_of_:
-    color: "0xB051A5"
+    color: 0xB051A5
+  time_:
+    started: -247.2e6
+    stopped: -251.2e6
 dv_is_:
   same_as:
-    - "[[WD~Olenekian,914322]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~2~Olenekian|Age~2~Olenekian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~2~Olenekian.public|Age~2~Olenekian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~2~Olenekian.internal|Age~2~Olenekian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~2~Olenekian.protect|Age~2~Olenekian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~2~Olenekian.private|Age~2~Olenekian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~2~Olenekian.personal|Age~2~Olenekian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~2~Olenekian.secret|Age~2~Olenekian.secret]]"
-dv_has_duration_years: "-4.000e+6"
-dv_has_previous_item: "[[Age~1~Induan]]"
-dv_has_next_item: "[[../Epoch-247~Middle_Triassic/Age~1~Anisian|Age~1~Anisian]]"
+  - '[[WD~Olenekian,914322]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~2~Olenekian|Age~2~Olenekian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~2~Olenekian.public|Age~2~Olenekian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~2~Olenekian.internal|Age~2~Olenekian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~2~Olenekian.protect|Age~2~Olenekian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~2~Olenekian.private|Age~2~Olenekian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~2~Olenekian.personal|Age~2~Olenekian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~2~Olenekian.secret|Age~2~Olenekian.secret]]'
+dv_has_duration_years: -4.000e+6
+dv_has_previous_item: '[[Age~1~Induan]]'
+dv_has_next_item: '[[../Epoch-247~Middle_Triassic/Age~1~Anisian|Age~1~Anisian]]'
 dv_is_same_as:
-  - "[[WD~Olenekian,914322]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~2~Olenekian|Age~2~Olenekian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~2~Olenekian.public|Age~2~Olenekian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~2~Olenekian.internal|Age~2~Olenekian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~2~Olenekian.protect|Age~2~Olenekian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~2~Olenekian.private|Age~2~Olenekian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~2~Olenekian.personal|Age~2~Olenekian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~2~Olenekian.secret|Age~2~Olenekian.secret]]"
+- '[[WD~Olenekian,914322]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~2~Olenekian|Age~2~Olenekian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~2~Olenekian.public|Age~2~Olenekian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~2~Olenekian.internal|Age~2~Olenekian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~2~Olenekian.protect|Age~2~Olenekian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~2~Olenekian.private|Age~2~Olenekian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~2~Olenekian.personal|Age~2~Olenekian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~2~Olenekian.secret|Age~2~Olenekian.secret]]'
 dv_has_name_bg: Оленек
 dv_has_name_cs: Olenek
 dv_has_name_da: Olenekien
@@ -92,9 +127,9 @@ dv_has_name_sl: olenekij
 dv_has_name_sv: olenek
 dv_has_name_zh: 奥伦尼克期
 dv_has_name_abbreviated: t2
-dv_has_time_started: "-247.2e6"
-dv_has_time_stopped: "-251.2e6"
-dv_has_text_of_color: "0xB051A5"
+dv_has_time_started: -247.2e6
+dv_has_time_stopped: -251.2e6
+dv_has_text_of_color: 0xB051A5
 ---
 # [[Age~2~Olenekian]] 
 

@@ -1,43 +1,190 @@
 ---
-location: [ 90.0 , 65.0 ] 
+location:
+- "[[_Standards/WikiData/WD~Mongolian_People's_Republic,212056]]"
+- '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
+- '[[_Standards/WikiData/WD~Xinjiang,34800]]'
 aliases:
-  - Great Purge
-  - 1936-Great_Purge+1938
-  - 1936-Great Purge+1938
+- 1930-ականների բռնաճնշումներ
+- 1936-Great Purge+1938
+- 1936-Great_Purge+1938
+- Böyük Təmizlik
+- Büyük Temizlik
+- Den store terroren
+- Den store udrensning
+- Didysis valymas
+- Gran Purga
+- Granda purigo
+- Grande Expurgo
+- grande purghe
+- Grandes Purges
+- Grandi purghe
+- Great Purge
+- Groot Suiwering
+- Grosser Terror
+- Grote Zuivering
+- Großer Terror
+- Hreinsanirnar miklu
+- Katta tozalash
+- Lielais terors
+- Marea Epurare
+- nagy tisztogatás
+- Pakkerdışo Gırd
+- Pembersihan Besar-Besaran
+- Pruga Manna
+- Purga Handia
+- Spurjoù Bras
+- Stalinin vainot
+- Stora utrensningen
+- Suur Terror
+- Tāi-siok-chheng
+- Velika čistka
+- Velká čistka
+- Veľký teror
+- wielki terror
+- Zur terror
+- Đại thanh trừng
+- Μεγάλη Εκκαθάριση
+- Большой террор
+- Велика чистка
+- Великий терор
+- Вялікі тэрор
+- Голяма чистка
+- Оло террор
+- Сталинови чистки
+- הטיהורים הגדולים
+- التطهير الكبير
+- بؤیوک تمیزلهمه
+- عظيم دہشت
+- پاکسازی بزرگ
+- महान शुद्धिकरण
+- মহা শুদ্ধিকরণ
+- ਮਹਾਨ ਦਹਿਸ਼ਤ
+- பெரும் துப்புரவாக்கம்
+- ഗ്രേറ്റ് പർജ്
+- การกวาดล้างครั้งยิ่งใหญ่
+- ການລຶບລ້າງທີ່ຍິ່ງໃຫຍ່
+- დიდი წმენდა
+- 大清洗
+- 大粛清
+- 苏联肃反运动
+- 蘇聯肅反運動
+- 대숙청
 has_id_wikidata: Q187650
 participant:
-  - '[[_Standards/WikiData/WD~Vyacheslav_Molotov,132899]]'
-  - '[[_Standards/WikiData/WD~Lavrentiy_Beria,141829]]'
-  - '[[_Standards/WikiData/WD~Nikolai_Yezhov,141860]]'
-  - '[[_Standards/WikiData/WD~Genrikh_Yagoda,141869]]'
-  - '[[_Standards/WikiData/WD~Andrey_Vyshinsky,155860]]'
-  - '[[_Standards/WikiData/WD~Kliment_Voroshilov,186185]]'
-  - '[[_Standards/WikiData/WD~Lazar_Kaganovich,215705]]'
-  - '[[_Standards/WikiData/WD~Ivan_Serov,464719]]'
-  - '[[_Standards/WikiData/WD~Robert_Eikhe,1345022]]'
-  - '[[_Standards/WikiData/WD~Joseph_Stalin,855]]'
-location:
-  - "[[_Standards/WikiData/WD~Mongolian_People's_Republic,212056]]"
-  - '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
-  - '[[_Standards/WikiData/WD~Xinjiang,34800]]'
+- '[[_Standards/WikiData/WD~Vyacheslav_Molotov,132899]]'
+- '[[_Standards/WikiData/WD~Lavrentiy_Beria,141829]]'
+- '[[_Standards/WikiData/WD~Nikolai_Yezhov,141860]]'
+- '[[_Standards/WikiData/WD~Genrikh_Yagoda,141869]]'
+- '[[_Standards/WikiData/WD~Andrey_Vyshinsky,155860]]'
+- '[[_Standards/WikiData/WD~Kliment_Voroshilov,186185]]'
+- '[[_Standards/WikiData/WD~Lazar_Kaganovich,215705]]'
+- '[[_Standards/WikiData/WD~Ivan_Serov,464719]]'
+- '[[_Standards/WikiData/WD~Robert_Eikhe,1345022]]'
+- '[[_Standards/WikiData/WD~Joseph_Stalin,855]]'
 part_of: '[[_Standards/WikiData/WD~Stalinist_repression,336113]]'
 different_from: '[[_Standards/WikiData/WD~Red_Terror,542291]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~purge,1262732]]'
-  - '[[_Standards/WikiData/WD~process,3249551]]'
+- '[[_Standards/WikiData/WD~purge,1262732]]'
+- '[[_Standards/WikiData/WD~process,3249551]]'
 has_part_s_: '[[_Standards/WikiData/WD~Case_of_Trotskyist_Anti_Soviet_Military_Organization,2631954]]'
 subclass_of: '[[_Standards/WikiData/WD~terror,13648784]]'
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Vinnycia16.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9A%D0%B8%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%20%D0%94%D0%BE%D0%BD%D0%B5%D1%86%D0%BA%D0%B0%20302.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Great%20Purge%20Resolution%20of%20Central%20Committee.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Vinnycia16.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9A%D0%B8%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%20%D0%94%D0%BE%D0%BD%D0%B5%D1%86%D0%BA%D0%B0%20302.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Great%20Purge%20Resolution%20of%20Central%20Committee.jpg
 Commons_category: Great Purge
 end_time: 1938-11-17T00:00:00Z
 start_time: 1936-08-01T00:00:00Z
 coordinate_location: Point(90.0 65.0)
+dv_has_:
+  name_:
+    af: Groot Suiwering
+    ar: التطهير الكبير
+    ast: Gran Purga
+    az: Böyük Təmizlik
+    azb: بؤیوک تمیزلهمه
+    ba: Оло террор
+    be: Вялікі тэрор
+    be-tarask: Вялікі тэрор
+    bg: Голяма чистка
+    bn: মহা শুদ্ধিকরণ
+    br: Spurjoù Bras
+    ca: Gran Purga
+    cs: Velká čistka
+    da: Den store udrensning
+    de: Großer Terror
+    de-ch: Grosser Terror
+    diq: Pakkerdışo Gırd
+    el: Μεγάλη Εκκαθάριση
+    en: Great Purge
+    en-ca: Great Purge
+    en-gb: Great Purge
+    eo: Granda purigo
+    es: Gran Purga
+    et: Suur Terror
+    eu: Purga Handia
+    fa: پاکسازی بزرگ
+    fi: Stalinin vainot
+    fr: Grandes Purges
+    gl: Gran Purga
+    gsw: Großer Terror
+    he: הטיהורים הגדולים
+    hi: महान शुद्धिकरण
+    hr: Velika čistka
+    hu: nagy tisztogatás
+    hy: 1930-ականների բռնաճնշումներ
+    id: Pembersihan Besar-Besaran
+    io: Granda purigo
+    is: Hreinsanirnar miklu
+    it: Grandi purghe
+    ja: 大粛清
+    ka: დიდი წმენდა
+    ko: 대숙청
+    lo: ການລຶບລ້າງທີ່ຍິ່ງໃຫຍ່
+    lt: Didysis valymas
+    lv: Lielais terors
+    mk: Сталинови чистки
+    ml: ഗ്രേറ്റ് പർജ്
+    ms: Pembersihan Besar-Besaran
+    nan: Tāi-siok-chheng
+    nb: Den store terroren
+    nl: Grote Zuivering
+    nn: Den store terroren
+    pa: ਮਹਾਨ ਦਹਿਸ਼ਤ
+    pl: wielki terror
+    pnb: عظيم دہشت
+    pt: Grande Expurgo
+    pt-br: Grande Expurgo
+    ro: Marea Epurare
+    ru: Большой террор
+    sc: Pruga Manna
+    sco: Great Purge
+    sh: Velika čistka
+    sk: Veľký teror
+    sl: velika čistka
+    sr: Велика чистка
+    sr-ec: Велика чистка
+    sr-el: Velika čistka
+    sv: Stora utrensningen
+    ta: பெரும் துப்புரவாக்கம்
+    th: การกวาดล้างครั้งยิ่งใหญ่
+    tr: Büyük Temizlik
+    tt: Zur terror
+    uk: Великий терор
+    ur: عظيم دہشت
+    uz: Katta tozalash
+    vec: grande purghe
+    vi: Đại thanh trừng
+    wuu: 大清洗
+    yue: 大清洗
+    zh: 大清洗
+    zh-cn: 苏联肃反运动
+    zh-hans: 大清洗
+    zh-hant: 蘇聯肅反運動
+    zh-hk: 蘇聯肅反運動
+    zh-sg: 苏联肃反运动
+    zh-tw: 蘇聯肅反運動
 ---
-
-
 # [[1936-Great_Purge+1938]]
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Great_Purge,187650|WD~Great_Purge,187650]]

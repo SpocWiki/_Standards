@@ -1,80 +1,130 @@
 ---
 aliases:
-  - Danian
+- Dan
+- Dania-vaihe
+- Danian
+- Daniano
+- Danianu
+- Daniar
+- Danien
+- Daniense
+- danij
+- Danium
+- Danià
+- Dānijas stāvs
+- Tầng Đan Mạch
+- дан
+- Данський ярус
+- Дат ярусы
+- датский ярус
+- דן
+- الداني
+- دانین
+- ダニアン
+- 达宁期
+- 达宁阶
+- 達寧階
+- 덴마크절
 has_id_wikidata: Q502179
-named_by: "[[_Standards/WikiData/WD~Édouard_Desor,84445]]"
+named_by: '[[_Standards/WikiData/WD~Édouard_Desor,84445]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-different_from: "[[_Standards/WikiData/WD~Dan,1158949]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Danian,24068488]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Danian,133886032]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+different_from: '[[_Standards/WikiData/WD~Dan,1158949]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Danian,24068488]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Danian,133886032]]'
 start_time: -66000000-01-01T00:00:00Z
 end_time: -61600000-01-01T00:00:00Z
-named_after: "[[_Standards/WikiData/WD~Denmark,35]]"
+named_after: '[[_Standards/WikiData/WD~Denmark,35]]'
 Commons_category: Danian
 sRGB_color_hex_triplet: FEB872
 coordinate_location: Point(8.6486 36.1537)
 dv_has_:
   duration_:
-    years: "4.400e+6"
-  previous_:
-    item: "[[../../../Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~6~Maastrichtian|Age~6~Maastrichtian]]"
-  next_:
-    item: "[[Age~2~Selandian]]"
+    years: 4.400e+6
   name_:
+    abbreviated: e1
+    af: Danium
+    ar: الداني
+    ast: Danianu
     bg: Дан
+    ca: Danià
     cs: Dan
     da: Danien
     de: Danium
-    es: Daninese
+    en: Danian
+    es: Daniense
     et: Taani
-    fi: Dan
+    eu: Daniar
+    fa: دانین
+    fi: Dania-vaihe
     fr: Danien
+    gl: Daniano
+    he: דן
     hu: dániai
-    it: daniano
-    ja: ダニアン期
+    id: Danium
+    it: Daniano
+    ja: ダニアン
+    kk: Дат ярусы
+    ko: 덴마크절
     lt: Danis
-    nl: Daniën
+    lv: Dānijas stāvs
+    mk: дан
+    nb: dan
+    nds: Danium
+    nl: Danien
+    nn: dan
     no: Danium
-    pl: Dan
+    pl: dan
     pt: Daniano
+    ru: датский ярус
+    scn: Danianu
+    sh: Dan
     sk: dán
     sl: danij
-    sv: dan
-    zh: 丹麦期
-    abbreviated: e1
-  time_:
-    started: "-66.0e6"
-    stopped: "-61.6e6"
+    sv: Danien
+    uk: Данський ярус
+    vec: Danian
+    vi: Tầng Đan Mạch
+    zh: 达宁期
+    zh-hans: 达宁阶
+    zh-hant: 達寧階
+    zh-hk: 達寧階
+  next_:
+    item: '[[Age~2~Selandian]]'
+  previous_:
+    item: '[[../../../Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~6~Maastrichtian|Age~6~Maastrichtian]]'
   text_of_:
-    color: "0xFDB462"
+    color: 0xFDB462
+  time_:
+    started: -66.0e6
+    stopped: -61.6e6
 dv_is_:
   same_as:
-    - "[[WD~Danian,502179]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian|Age~1~Danian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian.public|Age~1~Danian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian.internal|Age~1~Danian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian.protect|Age~1~Danian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian.private|Age~1~Danian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian.personal|Age~1~Danian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian.secret|Age~1~Danian.secret]]"
-dv_has_duration_years: "4.400e+6"
-dv_has_previous_item: "[[../../../Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~6~Maastrichtian|Age~6~Maastrichtian]]"
-dv_has_next_item: "[[Age~2~Selandian]]"
+  - '[[WD~Danian,502179]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian|Age~1~Danian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian.public|Age~1~Danian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian.internal|Age~1~Danian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian.protect|Age~1~Danian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian.private|Age~1~Danian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian.personal|Age~1~Danian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian.secret|Age~1~Danian.secret]]'
+dv_has_duration_years: 4.400e+6
+dv_has_previous_item: '[[../../../Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~6~Maastrichtian|Age~6~Maastrichtian]]'
+dv_has_next_item: '[[Age~2~Selandian]]'
 dv_is_same_as:
-  - "[[WD~Danian,502179]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian|Age~1~Danian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian.public|Age~1~Danian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian.internal|Age~1~Danian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian.protect|Age~1~Danian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian.private|Age~1~Danian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian.personal|Age~1~Danian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian.secret|Age~1~Danian.secret]]"
+- '[[WD~Danian,502179]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian|Age~1~Danian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian.public|Age~1~Danian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian.internal|Age~1~Danian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian.protect|Age~1~Danian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian.private|Age~1~Danian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian.personal|Age~1~Danian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian.secret|Age~1~Danian.secret]]'
 dv_has_name_bg: Дан
 dv_has_name_cs: Dan
 dv_has_name_da: Danien
@@ -96,9 +146,9 @@ dv_has_name_sl: danij
 dv_has_name_sv: dan
 dv_has_name_zh: 丹麦期
 dv_has_name_abbreviated: e1
-dv_has_time_started: "-66.0e6"
-dv_has_time_stopped: "-61.6e6"
-dv_has_text_of_color: "0xFDB462"
+dv_has_time_started: -66.0e6
+dv_has_time_stopped: -61.6e6
+dv_has_text_of_color: 0xFDB462
 ---
 # [[Age~1~Danian]] 
 

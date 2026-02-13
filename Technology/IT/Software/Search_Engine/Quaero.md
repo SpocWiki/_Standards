@@ -1,8 +1,22 @@
 ---
 has_id_wikidata: Q949005
+dv_has_:
+  name_:
+    de: Quaero
+    en: Quaero
+    es: Quaero
+    fr: Quaero
+    it: Quaero
+    ja: Quaero
+    nb: Quaero
+    nl: Quaero
+    pl: Quaero
+    pt: Quaero
+    ru: Quaero
+    sv: Quaero
+aliases:
+- Quaero
 ---
-
-
 # [[Quaero]] 
 
 It cost 600e6€, went live in 2010 and is no longer active. 

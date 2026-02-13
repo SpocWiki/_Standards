@@ -1,58 +1,102 @@
 ---
 aliases:
-  - 3854-Northgrippian
+- 3854-Northgrippian
+- Holosen Tengah
+- Nordgrippiano
+- Norgripiense
+- Norgripià
+- Norte-Gripiano
+- Nortgripas stāvs
+- Nortgripiyen
+- Northgrip
+- Northgrippian
+- Northgrippian-vaihe
+- Northgrippien
+- Northgrippium
+- Tầng Northgrip
+- Нортгріппський вік
+- северогриппианский ярус
+- נורת'גריפיאן
+- النورثغريبي
+- نورثگریپین
+- ช่วงอายุนอร์ทกริปเปียน
+- ノースグリッピアン
+- 诺斯格瑞比期
 has_id_wikidata: Q55602572
 Commons_category: Northgrippian
 coordinate_location: Point(-42.32 75.1)
 end_time: -2250-06
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-named_after: "[[_Standards/WikiData/WD~North_Greenland_Ice_Core_Project,9063437]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+named_after: '[[_Standards/WikiData/WD~North_Greenland_Ice_Core_Project,9063437]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 sRGB_color_hex_triplet: FDECE4
 start_time: -6236-06
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Northgrippian,133697724]]"
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Northgrippian,133697724]]'
 dv_has_:
+  duration_: 4000
   name_:
     abbreviated: q6
+    ar: النورثغريبي
+    ca: Norgripià
+    de: Northgrippium
+    en: Northgrippian
+    en-gb: Northgrippian
+    es: Norgripiense
+    fa: نورثگریپین
+    fi: Northgrippian-vaihe
+    fr: Northgrippien
+    he: נורת'גריפיאן
+    id: Holosen Tengah
+    it: Nordgrippiano
+    ja: ノースグリッピアン
+    lv: Nortgripas stāvs
+    mul: Northgrippian
+    nl: Northgrippien
+    pt: Norte-Gripiano
+    ru: северогриппианский ярус
+    sv: Northgrip
+    th: ช่วงอายุนอร์ทกริปเปียน
+    tr: Nortgripiyen
+    uk: Нортгріппський вік
+    vi: Tầng Northgrip
+    zh: 诺斯格瑞比期
+  next_:
+    item: '[[Age~3~Meghalayan]]'
+  previous_:
+    item: '[[0000-Greenlandian]]'
+  text_of_:
+    color: 0xFDECE4
   time_:
     started: -8200
     stopped: -4200
-  duration_: 4000
-  text_of_:
-    color: "0xFDECE4"
-  previous_:
-    item: "[[0000-Greenlandian]]"
-  next_:
-    item: "[[Age~3~Meghalayan]]"
 dv_is_:
   same_as:
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian|3854-Northgrippian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian.public|3854-Northgrippian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian.internal|3854-Northgrippian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian.protect|3854-Northgrippian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian.private|3854-Northgrippian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian.personal|3854-Northgrippian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian.secret|3854-Northgrippian.secret]]"
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian|3854-Northgrippian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian.public|3854-Northgrippian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian.internal|3854-Northgrippian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian.protect|3854-Northgrippian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian.private|3854-Northgrippian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian.personal|3854-Northgrippian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian.secret|3854-Northgrippian.secret]]'
 dv_has_name_abbreviated: q6
 dv_has_time_started: -8200
 dv_has_time_stopped: -4200
 dv_has_duration_years: 4000
 dv_has_duration_: 4000
-dv_has_text_of_color: "0xFDECE4"
-dv_has_previous_item: "[[0000-Greenlandian]]"
-dv_has_next_item: "[[Age~3~Meghalayan]]"
+dv_has_text_of_color: 0xFDECE4
+dv_has_previous_item: '[[0000-Greenlandian]]'
+dv_has_next_item: '[[Age~3~Meghalayan]]'
 dv_is_same_as:
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian|3854-Northgrippian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian.public|3854-Northgrippian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian.internal|3854-Northgrippian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian.protect|3854-Northgrippian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian.private|3854-Northgrippian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian.personal|3854-Northgrippian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian.secret|3854-Northgrippian.secret]]"
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian|3854-Northgrippian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian.public|3854-Northgrippian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian.internal|3854-Northgrippian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian.protect|3854-Northgrippian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian.private|3854-Northgrippian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian.personal|3854-Northgrippian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian.secret|3854-Northgrippian.secret]]'
 ---
-
 # [[3854-Northgrippian]]
 
 #is_a_/time_/Age 

@@ -1,23 +1,93 @@
 ---
 aliases:
-  - Hunne
-  - Hunnen
-  - Huns
+- Gunlar
+- Gunnlar
+- Hona
+- Hun
+- Hun-cho̍k
+- hunai
+- Hunaigh
+- Huned
+- hunere
+- Hunes
+- Huni
+- Hunlar
+- Hunnar
+- Hunne
+- Hunnen
+- hunner
+- hunnerne
+- Hunni
+- Hunnid
+- hunnit
+- Hunnos
+- Huno
+- hunoj
+- hunok
+- Hunos
+- Hunové
+- Hunowie
+- Huns
+- Hunus
+- Hunët
+- huņņi
+- Hyniaid
+- Húnar
+- Hūnas
+- Người Hung
+- orang Hun
+- Uni
+- Unni
+- Wahunni
+- Ούννοι
+- Οὖννοι
+- гуни
+- Гуннар
+- гунны
+- гуны
+- Хундар
+- Хуни
+- Хунсем
+- Хүнчүүд
+- Ғұндар
+- Ҳунн
+- Һундар
+- Հոներ
+- הונים
+- الهون
+- هون
+- هونلار
+- هونيان
+- ھن
+- ھونلار
+- ہن
+- ہن سلطنت
+- हूण लोग
+- ਹੂਣ
+- హూనిక్ సామ్రాజ్యం
+- ഹൂണന്മാർ
+- ชาวฮัน
+- ჰუნები
+- ሁንስ
+- フン族
+- 匈人
+- 훈족
+- "\U00010337\U0001033F\U0001033D\U0001033D\U00010334\U00010339\U00010343"
 has_id_wikidata: Q45813
 described_by_source:
-  - "[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Tengrism,837605]]"
+- '[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Tengrism,837605]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~historical_ethnic_group,4204501]]"
-  - "[[_Standards/WikiData/WD~extinct_human_group,55208590]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q13202729,13202729]]"
-native_language: "[[_Standards/WikiData/WD~Hunnic,35959]]"
+- '[[_Standards/WikiData/WD~historical_ethnic_group,4204501]]'
+- '[[_Standards/WikiData/WD~extinct_human_group,55208590]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q13202729,13202729]]'
+native_language: '[[_Standards/WikiData/WD~Hunnic,35959]]'
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Huns%20empire.png
 Commons_gallery: Huns
 Commons_category: Huns
@@ -27,25 +97,131 @@ Libris_URI: khwz2nw3524xkh6
 OpenStreetMap_tag: historic:civilization=hun
 dv_is_:
   same_as:
-    - "[[../../../../../../../../../WikiData/WD~Huns,45813]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0300-Migration_Period+0600/Hun|Hun]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0300-Migration_Period+0600/Hun.public|Hun.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0300-Migration_Period+0600/Hun.internal|Hun.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0300-Migration_Period+0600/Hun.protect|Hun.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0300-Migration_Period+0600/Hun.private|Hun.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0300-Migration_Period+0600/Hun.personal|Hun.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0300-Migration_Period+0600/Hun.secret|Hun.secret]]"
+  - '[[../../../../../../../../../WikiData/WD~Huns,45813]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0300-Migration_Period+0600/Hun|Hun]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0300-Migration_Period+0600/Hun.public|Hun.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0300-Migration_Period+0600/Hun.internal|Hun.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0300-Migration_Period+0600/Hun.protect|Hun.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0300-Migration_Period+0600/Hun.private|Hun.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0300-Migration_Period+0600/Hun.personal|Hun.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0300-Migration_Period+0600/Hun.secret|Hun.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../../WikiData/WD~Huns,45813]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0300-Migration_Period+0600/Hun|Hun]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0300-Migration_Period+0600/Hun.public|Hun.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0300-Migration_Period+0600/Hun.internal|Hun.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0300-Migration_Period+0600/Hun.protect|Hun.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0300-Migration_Period+0600/Hun.private|Hun.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0300-Migration_Period+0600/Hun.personal|Hun.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0300-Migration_Period+0600/Hun.secret|Hun.secret]]"
+- '[[../../../../../../../../../WikiData/WD~Huns,45813]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0300-Migration_Period+0600/Hun|Hun]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0300-Migration_Period+0600/Hun.public|Hun.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0300-Migration_Period+0600/Hun.internal|Hun.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0300-Migration_Period+0600/Hun.protect|Hun.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0300-Migration_Period+0600/Hun.private|Hun.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0300-Migration_Period+0600/Hun.personal|Hun.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0300-Migration_Period+0600/Hun.secret|Hun.secret]]'
+dv_has_:
+  name_:
+    af: Hunne
+    am: ሁንስ
+    an: Hunnos
+    ang: Hūnas
+    ar: الهون
+    arz: الهون
+    ast: Hunos
+    az: Hunlar
+    azb: هونلار
+    ba: Һундар
+    bar: Hunnen
+    be: гуны
+    be-tarask: гуны
+    bg: Хуни
+    br: Huned
+    bs: Huni
+    ca: huns
+    cs: Hunové
+    cv: Хунсем
+    cy: Hyniaid
+    da: hunnerne
+    de: Hunnen
+    de-ch: Hunnen
+    el: Ούννοι
+    en: Huns
+    en-ca: Huns
+    en-gb: Huns
+    eo: hunoj
+    es: hunos
+    et: Hunnid
+    eu: Huno
+    ext: Hunus
+    fa: هون
+    fi: hunnit
+    fr: Huns
+    fy: Hunnen
+    ga: Hunaigh
+    gl: Hunos
+    got: "\U00010337\U0001033F\U0001033D\U0001033D\U00010334\U00010339\U00010343"
+    grc: Οὖννοι
+    gsw: Hunne
+    he: הונים
+    hi: हूण लोग
+    hr: Huni
+    hu: hunok
+    hy: Հոներ
+    id: orang Hun
+    io: Huni
+    is: Húnar
+    it: Unni
+    ja: フン族
+    ka: ჰუნები
+    kk: Ғұндар
+    ko: 훈족
+    ky: Хундар
+    la: Hunni
+    lb: Hunnen
+    lfn: Hunes
+    li: Hunne
+    lmo: Uni
+    lt: hunai
+    lv: huņņi
+    mg: Hona
+    mk: Хуни
+    ml: ഹൂണന്മാർ
+    mn: Хүнчүүд
+    ms: Hun
+    mwl: Hunos
+    nan: Hun-cho̍k
+    nb: hunere
+    nl: Hunnen
+    oc: Huns
+    pa: ਹੂਣ
+    pl: Hunowie
+    pnb: ہن سلطنت
+    ps: هونيان
+    pt: Hunos
+    pt-br: Hunos
+    ro: Huni
+    ru: гунны
+    sd: ھن
+    sh: Huni
+    sk: Huni
+    sl: Huni
+    sq: Hunët
+    sr: Хуни
+    sv: hunner
+    sw: Wahunni
+    te: హూనిక్ సామ్రాజ్యం
+    tg: Ҳунн
+    th: ชาวฮัน
+    tk: Gunlar
+    tl: Hun
+    tr: Hunlar
+    tt: Hunnar
+    tyv: Гуннар
+    ug: ھونلار
+    uk: гуни
+    ur: ہن
+    uz: Gunnlar
+    vi: Người Hung
+    war: Hun
+    wuu: 匈人
+    yue: 匈人
+    zh: 匈人
 ---
-
 # [[Hun]] 
 
 #is_/same_as :: [[WD~Huns,45813]] 

@@ -1,26 +1,167 @@
 ---
 aliases:
+- Akatkulaajiapana
+- Akontaabu krataa (Spreadsheet)
+- arkusz kalkulacyjny
+- Elektron cədvəl
+- Elektroninė skaičiuoklė
+- Feuj ëd càlcol
+- foaie de calcul
+- foglio elettronico
+- folha de cálculo
+- folla de cálculo
+- Fueya de cálculu
+- full de càlcul
+- Hamparan elektronik
+- hesap tablosu
+- hoja de cálculo
+- kalkultabelo
+- Kalkulu-orri
+- kalkylprogram
+- lembatang sebar
+- Litámbwisi-boyítinyi
+- phần mềm xử lý bảng tính
+- planilha eletrônica
+- preglednični program
+- Proračunska tabela
+- regneark
+- regnearkapplikasjon
+- scarbhileog
+- Spread Sheet
+- spreadsheet
+- Tabelarvutus
+- Tabellenkalkulation
+- tableur
+- Tabula calculatoria
+- tabulkový procesor
+- Taenlen
+- taulukkolaskentaohjelma
+- táblázatkezelő program
+- Tåvleu
+- Töflureiknir
+- λογιστικό φύλλο
+- Електронна таблица
+- редактор таблиц
+- табеларна пресметка
+- табличний процесор
+- Тыгъддзыф
+- Электрон таблице
+- электронныя табліцы
+- Ҷадвали электронӣ
+- Էլեկտրոնային աղյուսակ
+- גיליון אלקטרוני
+- ספרעדשיט
+- جداول ممتدة
+- صفحه گسترده
+- स्प्रेडशीट
+- স্প্রেডশিট
+- ਸਪ੍ਰੈਡਸ਼ੀਟ
+- விரிதாள்
+- ಸ್ಪ್ರೆಡ್ಷೀಟ್
+- സ്പ്രെഡ്ഷീറ്റ്
+- แผ่นตารางทำการ
+- 电子表格
+- 电子试算表
+- 表計算ソフト
+- 試算表
+- 電子試算表
+- 스프레드시트
 has_id_wikidata: Q183197
-subclass_of: "[[_Standards/WikiData/WD~application,166142]]"
+subclass_of: '[[_Standards/WikiData/WD~application,166142]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~software_feature,4485156]]"
-  - "[[_Standards/WikiData/WD~software_category,17155032]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~table_cell,7673190]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Spreadsheets,13412532]]"
+- '[[_Standards/WikiData/WD~software_feature,4485156]]'
+- '[[_Standards/WikiData/WD~software_category,17155032]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~table_cell,7673190]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Spreadsheets,13412532]]'
 product_or_material_produced:
-  - "[[_Standards/WikiData/WD~workbook,26853769]]"
-  - "[[_Standards/WikiData/WD~chart,28923]]"
-has_part_s_: "[[_Standards/WikiData/WD~active_cell,59154568]]"
-uses: "[[_Standards/WikiData/WD~spreadsheet_function,124785202]]"
+- '[[_Standards/WikiData/WD~workbook,26853769]]'
+- '[[_Standards/WikiData/WD~chart,28923]]'
+has_part_s_: '[[_Standards/WikiData/WD~active_cell,59154568]]'
+uses: '[[_Standards/WikiData/WD~spreadsheet_function,124785202]]'
 Nomenclature_for_Museum_Cataloging:
-  - "13674"
-  - "10413"
+- 13674
+- 10413
 GitHub_topic: spreadsheet
-OmegaWiki_Defined_Meaning: "672324"
+OmegaWiki_Defined_Meaning: 672324
 image: http://commons.wikimedia.org/wiki/Special:FilePath/OpenOffice.org%20Calc.png
 Commons_category: Spreadsheet software
+dv_has_:
+  name_:
+    ar: جداول ممتدة
+    ast: Fueya de cálculu
+    az: Elektron cədvəl
+    be-tarask: электронныя табліцы
+    bg: Електронна таблица
+    bn: স্প্রেডশিট
+    bs: Proračunska tabela
+    ca: full de càlcul
+    cs: tabulkový procesor
+    cy: Taenlen
+    da: regneark
+    de: Tabellenkalkulation
+    el: λογιστικό φύλλο
+    en: spreadsheet
+    eo: kalkultabelo
+    es: hoja de cálculo
+    et: Tabelarvutus
+    eu: Kalkulu-orri
+    fa: صفحه گسترده
+    fi: taulukkolaskentaohjelma
+    fr: tableur
+    ga: scarbhileog
+    gl: folla de cálculo
+    guc: Akatkulaajiapana
+    he: גיליון אלקטרוני
+    hi: स्प्रेडशीट
+    hu: táblázatkezelő program
+    hy: Էլեկտրոնային աղյուսակ
+    id: lembatang sebar
+    is: Töflureiknir
+    it: foglio elettronico
+    ja: 表計算ソフト
+    kn: ಸ್ಪ್ರೆಡ್ಷೀಟ್
+    ko: 스프레드시트
+    la: Tabula calculatoria
+    ln: Litámbwisi-boyítinyi
+    lt: Elektroninė skaičiuoklė
+    mhr: Электрон таблице
+    mk: табеларна пресметка
+    ml: സ്പ്രെഡ്ഷീറ്റ്
+    mr: स्प्रेडशीट
+    ms: Hamparan elektronik
+    nb: regnearkapplikasjon
+    nl: spreadsheet
+    os: Тыгъддзыф
+    pa: ਸਪ੍ਰੈਡਸ਼ੀਟ
+    pl: arkusz kalkulacyjny
+    pms: Feuj ëd càlcol
+    pt: folha de cálculo
+    pt-br: planilha eletrônica
+    ro: foaie de calcul
+    ru: редактор таблиц
+    sl: preglednični program
+    sr: Proračunska tabela
+    sv: kalkylprogram
+    ta: விரிதாள்
+    te: Spread Sheet
+    tg: Ҷадвали электронӣ
+    th: แผ่นตารางทำการ
+    tr: hesap tablosu
+    tw: Akontaabu krataa (Spreadsheet)
+    uk: табличний процесор
+    vi: phần mềm xử lý bảng tính
+    wa: Tåvleu
+    wuu: 电子表格
+    yi: ספרעדשיט
+    yue: 試算表
+    zh: 电子试算表
+    zh-cn: 电子试算表
+    zh-hans: 电子试算表
+    zh-hant: 電子試算表
+    zh-hk: 電子試算表
+    zh-sg: 电子试算表
+    zh-tw: 電子試算表
 ---
-
 # [[SW~Spreadsheet]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Spreadsheet,183197|WD~Spreadsheet,183197]] 

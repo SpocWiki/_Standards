@@ -1,7 +1,53 @@
 ---
 has_id_wikidata: Q826165
+dv_has_:
+  name_:
+    be-tarask: Web Ontology Language
+    ca: OWL
+    da: Web Ontology Language
+    de: Web Ontology Language
+    en: Web Ontology Language
+    eo: Reta Ontologia Lingvo
+    es: OWL
+    eu: OWL
+    fa: زبان هستیشناسی وب
+    fi: Web Ontology Language
+    fr: Web Ontology Language
+    gu: વેબ ઓન્ટોલોજિ ભાષા
+    hu: Web Ontology Language
+    it: Web Ontology Language
+    ja: OWL
+    ko: 웹 온톨로지 언어
+    nb: Web Ontology Language
+    nl: Web Ontology Language
+    pl: Web Ontology Language
+    pt: OWL
+    pt-br: OWL
+    ro: OWL
+    ru: Web Ontology Language
+    sl: Web Ontology Language
+    sv: OWL
+    th: Web Ontology Language
+    tr: Web Ontoloji Dili
+    uk: Web Ontology Language
+    yue: 網絡本體語言
+    zh: 网络本体语言
+    zh-hans: 网络本体语言
+    zh-hant: 網絡本體語言
+    zh-hk: 網絡本體語言
+    zh-tw: 網路本體語言
+aliases:
+- OWL
+- Reta Ontologia Lingvo
+- Web Ontology Language
+- Web Ontoloji Dili
+- زبان هستیشناسی وب
+- વેબ ઓન્ટોલોજિ ભાષા
+- 網絡本體語言
+- 網路本體語言
+- 网络本体语言
+- 웹 온톨로지 언어
 ---
-
 # [[owl(Ontology_Web_Language)]] 
 
 is a very expressive Language with more inference and strictness than [[rdfs]]

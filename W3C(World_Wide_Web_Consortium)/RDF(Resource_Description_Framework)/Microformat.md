@@ -1,7 +1,62 @@
 ---
 has_id_wikidata: Q848031
+dv_has_:
+  name_:
+    ar: ميكروفورمات
+    bho: माइक्रोफार्मेट
+    cs: mikroformát
+    da: Microformat
+    de: Mikroformate
+    en: microformats
+    eo: Mikroformatoj
+    es: microformato
+    eu: Mikroformatu
+    fa: میکروفرمت
+    fr: microformat
+    hi: सहायता:माइक्रोफोर्मेट्स
+    it: Microformat
+    ja: マイクロフォーマット
+    ko: 마이크로포맷
+    lv: mikroformāti
+    ml: മൈക്രോഫോർമാറ്റ്
+    nl: microformat
+    pt: Microformato
+    ru: микроформат
+    sk: Mikroformát
+    sl: mikroformati
+    sr: Mikroformat
+    sv: Mikroformat
+    te: మైక్రోఫార్మాట్లు
+    tr: Microformat
+    uk: Мікроформат
+    vi: Microformat
+    zh: 微格式
+    zh-hans: 微格式
+    zh-hant: 微格式
+    zh-hk: 微格式
+aliases:
+- microformat
+- microformato
+- microformats
+- Mikroformat
+- Mikroformate
+- mikroformati
+- Mikroformatoj
+- Mikroformatu
+- mikroformát
+- mikroformāti
+- Мікроформат
+- микроформат
+- ميكروفورمات
+- میکروفرمت
+- माइक्रोफार्मेट
+- सहायता:माइक्रोफोर्मेट्स
+- మైక్రోఫార్మాట్లు
+- മൈക്രോഫോർമാറ്റ്
+- マイクロフォーマット
+- 微格式
+- 마이크로포맷
 ---
-
 Microformat uses these Attributes, but is not used frequently:
 - `class` :: [Classname](https://en.wikipedia.org/wiki/Class_(computer_programming)) 
 - `rel` :: relationship, description of the target address in an anchor-element (`<a href=... rel=...>...</a>`) [[@rel]] 

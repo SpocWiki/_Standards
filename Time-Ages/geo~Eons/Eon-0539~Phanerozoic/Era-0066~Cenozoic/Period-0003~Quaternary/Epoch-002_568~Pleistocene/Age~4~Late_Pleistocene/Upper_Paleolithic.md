@@ -1,52 +1,160 @@
 ---
 aliases:
-  - Upper Palaeolithic
-  - Upper Paleolithic
-  - Jungpaläolithikum
-  - Upper_Paleolithic
+- 10 000–20 000 aK
+- ano ang upper paleolithic period
+- Goi Paleolitoa
+- Gornji paleolit
+- Gornji paleolitik
+- Hen Oes y Cerrig Uchaf
+- Henoadvezh diwezhañ ar maen
+- Jungpaläolithikum
+- laatpaleolithicum
+- Malfrua Paleolitiko
+- Mladý paleolit
+- mlajši paleolitik
+- Myöhäispaleoliittinen kausi
+- Paleolit górny
+- Paleolitic superior
+- Paleolitico superiore
+- paleoliticul superior
+- Paleolitik Akhir
+- Paleolitikum Akhir
+- paleolític superior
+- Paleolítico superior
+- Paleolíticu cimeru
+- Paleôlitika Ambony
+- Paléolithique supérieur
+- Pałeołìtego superiore
+- tenpo kiwen sinpin monsi
+- thời kỳ đồ đá thượng
+- Upper Palaeolithic
+- Upper Paleolithic
+- Upper_Paleolithic
+- Üst paleolit
+- Üst Paleolitik
+- Ανώτερη Παλαιολιθική περίοδος
+- верхні палеаліт
+- доцен палеолит
+- Дээд палеолитын үе
+- кейінгі палеолит
+- пізній палеоліт
+- поздний палеолит
+- Վերին պալեոլիթ
+- התקופה הפלאוליתית העליונה
+- العصر الحجري القديم العلوي
+- بالائی پیلیو لیتھک
+- د ډبرې وروستنۍ لرغونې دوره
+- پارینهسنگی زبرین
+- उत्तर पुरापाषाण काल
+- শেষ প্যালিওলিথিক যুগ
+- ကျောက်ခေတ်ဟောင်း ခေတ်နှောင်း
+- ზედა პალეოლითი
+- 後期旧石器時代
+- 旧石器时代晚期
+- 후기 구석기 시대
 has_id_wikidata: Q479505
 instance_of:
-  - "[[_Standards/WikiData/WD~historical_period,11514315]]"
-  - "[[_Standards/WikiData/WD~archaeological_period,15401633]]"
+- '[[_Standards/WikiData/WD~historical_period,11514315]]'
+- '[[_Standards/WikiData/WD~archaeological_period,15401633]]'
 start_time:
-  - -38000-01-01T00:00:00Z
-  - -48000-01-01T00:00:00Z
-location: "[[_Standards/WikiData/WD~Eurasia,5401]]"
+- -38000-01-01T00:00:00Z
+- -48000-01-01T00:00:00Z
+location: '[[_Standards/WikiData/WD~Eurasia,5401]]'
 end_time: -7700-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lascaux%20painting.jpg
 Commons_category: Upper Paleolithic
 dv_has_:
-  time_:
-    started: -48000
-    stopped: -10000
   duration_:
     years: 38000
     ka: 38
+  name_:
+    ar: العصر الحجري القديم العلوي
+    ast: Paleolíticu cimeru
+    az: Üst paleolit
+    be-tarask: верхні палеаліт
+    bn: শেষ প্যালিওলিথিক যুগ
+    br: Henoadvezh diwezhañ ar maen
+    bs: Gornji paleolit
+    ca: paleolític superior
+    cs: Mladý paleolit
+    cy: Hen Oes y Cerrig Uchaf
+    de: Jungpaläolithikum
+    el: Ανώτερη Παλαιολιθική περίοδος
+    en: Upper Paleolithic
+    en-ca: Upper Paleolithic
+    en-gb: Upper Paleolithic
+    eo: Malfrua Paleolitiko
+    es: Paleolítico superior
+    eu: Goi Paleolitoa
+    fa: پارینهسنگی زبرین
+    fi: Myöhäispaleoliittinen kausi
+    fr: Paléolithique supérieur
+    gl: Paleolítico Superior
+    gsw: Jungpaläolithikum
+    ha: Upper Paleolithic
+    he: התקופה הפלאוליתית העליונה
+    hi: उत्तर पुरापाषाण काल
+    hr: Gornji paleolitik
+    hy: Վերին պալեոլիթ
+    id: Paleolitikum Akhir
+    io: 10 000–20 000 aK
+    it: Paleolitico superiore
+    ja: 後期旧石器時代
+    ka: ზედა პალეოლითი
+    kk: кейінгі палеолит
+    ko: 후기 구석기 시대
+    mg: Paleôlitika Ambony
+    mk: доцен палеолит
+    mn: Дээд палеолитын үе
+    ms: Paleolitik Akhir
+    my: ကျောက်ခေတ်ဟောင်း ခေတ်နှောင်း
+    nl: laatpaleolithicum
+    oc: Paleolitic superior
+    pl: Paleolit górny
+    ps: د ډبرې وروستنۍ لرغونې دوره
+    pt: Paleolítico Superior
+    pt-br: Paleolítico Superior
+    ro: paleoliticul superior
+    ru: поздний палеолит
+    sh: Gornji paleolit
+    sk: Mladý paleolit
+    sl: mlajši paleolitik
+    sr: Gornji paleolit
+    tl: ano ang upper paleolithic period
+    tok: tenpo kiwen sinpin monsi
+    tr: Üst Paleolitik
+    uk: пізній палеоліт
+    ur: بالائی پیلیو لیتھک
+    vec: Pałeołìtego superiore
+    vi: thời kỳ đồ đá thượng
+    zh: 旧石器时代晚期
+  time_:
+    started: -48000
+    stopped: -10000
 dv_is_:
   same_as:
-    - "[[../../../../../../../WikiData/WD~Upper_Paleolithic,479505|WD~Upper_Paleolithic,479505]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic|Upper_Paleolithic]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic.public|Upper_Paleolithic.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic.internal|Upper_Paleolithic.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic.protect|Upper_Paleolithic.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic.private|Upper_Paleolithic.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic.personal|Upper_Paleolithic.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic.secret|Upper_Paleolithic.secret]]"
+  - '[[../../../../../../../WikiData/WD~Upper_Paleolithic,479505|WD~Upper_Paleolithic,479505]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic|Upper_Paleolithic]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic.public|Upper_Paleolithic.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic.internal|Upper_Paleolithic.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic.protect|Upper_Paleolithic.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic.private|Upper_Paleolithic.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic.personal|Upper_Paleolithic.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic.secret|Upper_Paleolithic.secret]]'
 dv_has_time_started: -48000
 dv_has_time_stopped: -10000
 dv_has_duration_years: 38000
 dv_has_duration_ka: 38
 dv_is_same_as:
-  - "[[../../../../../../../WikiData/WD~Upper_Paleolithic,479505|WD~Upper_Paleolithic,479505]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic|Upper_Paleolithic]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic.public|Upper_Paleolithic.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic.internal|Upper_Paleolithic.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic.protect|Upper_Paleolithic.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic.private|Upper_Paleolithic.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic.personal|Upper_Paleolithic.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic.secret|Upper_Paleolithic.secret]]"
+- '[[../../../../../../../WikiData/WD~Upper_Paleolithic,479505|WD~Upper_Paleolithic,479505]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic|Upper_Paleolithic]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic.public|Upper_Paleolithic.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic.internal|Upper_Paleolithic.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic.protect|Upper_Paleolithic.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic.private|Upper_Paleolithic.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic.personal|Upper_Paleolithic.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic.secret|Upper_Paleolithic.secret]]'
 ---
-
 # [[Upper_Paleolithic]]
 
 #is_a_/time_/Culture 

@@ -1,34 +1,45 @@
 ---
 aliases:
-  - Fortunian
-  - Фортун
-  - Fortun
-  - Fortunien
-  - Fortunium
-  - Fortuniense
-  - Fortune
-  - fortuni
-  - fortuniano
-  - フォルツニアン期
-  - Fortunis
-  - Fortuniën
-  - Fortuniano
-  - fortun
-  - fortunij
-  - 好运期
+- Fortun
+- Fortune
+- fortuni
+- Fortunian
+- fortuniano
+- Fortunien
+- Fortuniense
+- fortunij
+- fortunio
+- Fortunis
+- Fortunium
+- Fortunià
+- Fortuniën
+- Furtunianu
+- Tầng Fortune
+- Фортун
+- Фортуний
+- фортунский ярус
+- الفورتوني
+- فورتونین
+- ช่วงอายุฟอร์จูเนียน
+- フォルツニアン期
+- フォーチュニアン
+- 好运期
+- 幸运期
+- 幸運階
+- 포츈절
 has_id_wikidata: Q1424618
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-significant_place: "[[_Standards/WikiData/WD~Fortune,3078545]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+significant_place: '[[_Standards/WikiData/WD~Fortune,3078545]]'
 named_after:
-  - "[[_Standards/WikiData/WD~Fortune,3078545]]"
-  - "[[_Standards/WikiData/WD~Fortune_Head_Ecological_Reserve,3457657]]"
+- '[[_Standards/WikiData/WD~Fortune,3078545]]'
+- '[[_Standards/WikiData/WD~Fortune_Head_Ecological_Reserve,3457657]]'
 type_locality_geology_:
-  - "[[_Standards/WikiData/WD~Fortune_Head_Ecological_Reserve,3457657]]"
-  - "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Fortunian,63565917]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Fortunian,30869627]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+- '[[_Standards/WikiData/WD~Fortune_Head_Ecological_Reserve,3457657]]'
+- '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Fortunian,63565917]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Fortunian,30869627]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 end_time: -529000000-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Fortune%20Head%20GSSP%2C%20Newfoundland.jpg
 sRGB_color_hex_triplet: 99B575
@@ -38,63 +49,78 @@ coordinate_location: Point(-55.831 47.0762)
 dv_has_:
   duration_:
     years:
-      - "9.800e+6"
-      - "9.800e+6"
-  previous_:
-    item: "[[../../../../Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0635~Ediacaran|Period-0635~Ediacaran]]"
-  next_:
-    item: "[[Age-529~Tommotian]]"
+    - 9.800e+6
+    - 9.800e+6
   name_:
-    bg: Фортун
+    abbreviated: ep1
+    ar: الفورتوني
+    bg: Фортуний
+    ca: Fortunià
     cs: Fortun
     da: Fortunien
     de: Fortunium
+    en: Fortunian
+    en-gb: Fortunian
+    eo: fortunio
     es: Fortuniense
     et: Fortune
+    fa: فورتونین
     fi: Fortun
     fr: Fortunien
+    gl: Fortuniano
     hu: fortuni
+    id: Fortunium
     it: fortuniano
-    ja: フォルツニアン期
+    ja: フォーチュニアン
+    ko: 포츈절
     lt: Fortunis
-    nl: Fortuniën
+    nl: Fortunien
+    nn: fortune
     no: Fortunium
     pl: Fortun
     pt: Fortuniano
+    ru: фортунский ярус
+    scn: Furtunianu
     sk: fortun
     sl: fortunij
     sv: fortun
-    zh: 好运期
-    abbreviated: ep1
-  time_:
-    started: "-538.8e6"
-    stopped: "-529.0e6"
+    th: ช่วงอายุฟอร์จูเนียน
+    vi: Tầng Fortune
+    zh: 幸运期
+    zh-tw: 幸運階
+  next_:
+    item: '[[Age-529~Tommotian]]'
+  previous_:
+    item: '[[../../../../Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0635~Ediacaran|Period-0635~Ediacaran]]'
   text_of_:
-    color: "0x99B575"
+    color: 0x99B575
+  time_:
+    started: -538.8e6
+    stopped: -529.0e6
 dv_is_:
   same_as:
-    - "[[WD~Fortunian,1424618]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age~1~Fortunian|Age~1~Fortunian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age~1~Fortunian.public|Age~1~Fortunian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age~1~Fortunian.internal|Age~1~Fortunian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age~1~Fortunian.protect|Age~1~Fortunian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age~1~Fortunian.private|Age~1~Fortunian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age~1~Fortunian.personal|Age~1~Fortunian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age~1~Fortunian.secret|Age~1~Fortunian.secret]]"
+  - '[[WD~Fortunian,1424618]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age~1~Fortunian|Age~1~Fortunian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age~1~Fortunian.public|Age~1~Fortunian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age~1~Fortunian.internal|Age~1~Fortunian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age~1~Fortunian.protect|Age~1~Fortunian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age~1~Fortunian.private|Age~1~Fortunian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age~1~Fortunian.personal|Age~1~Fortunian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age~1~Fortunian.secret|Age~1~Fortunian.secret]]'
 dv_has_duration_years:
-  - "9.800e+6"
-  - "9.800e+6"
-dv_has_previous_item: "[[../../../../Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0635~Ediacaran|Period-0635~Ediacaran]]"
-dv_has_next_item: "[[Age-529~Tommotian]]"
+- 9.800e+6
+- 9.800e+6
+dv_has_previous_item: '[[../../../../Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0635~Ediacaran|Period-0635~Ediacaran]]'
+dv_has_next_item: '[[Age-529~Tommotian]]'
 dv_is_same_as:
-  - "[[WD~Fortunian,1424618]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age~1~Fortunian|Age~1~Fortunian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age~1~Fortunian.public|Age~1~Fortunian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age~1~Fortunian.internal|Age~1~Fortunian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age~1~Fortunian.protect|Age~1~Fortunian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age~1~Fortunian.private|Age~1~Fortunian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age~1~Fortunian.personal|Age~1~Fortunian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age~1~Fortunian.secret|Age~1~Fortunian.secret]]"
+- '[[WD~Fortunian,1424618]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age~1~Fortunian|Age~1~Fortunian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age~1~Fortunian.public|Age~1~Fortunian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age~1~Fortunian.internal|Age~1~Fortunian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age~1~Fortunian.protect|Age~1~Fortunian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age~1~Fortunian.private|Age~1~Fortunian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age~1~Fortunian.personal|Age~1~Fortunian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age~1~Fortunian.secret|Age~1~Fortunian.secret]]'
 dv_has_name_bg: Фортун
 dv_has_name_cs: Fortun
 dv_has_name_da: Fortunien
@@ -116,9 +142,9 @@ dv_has_name_sl: fortunij
 dv_has_name_sv: fortun
 dv_has_name_zh: 好运期
 dv_has_name_abbreviated: ep1
-dv_has_time_started: "-538.8e6"
-dv_has_time_stopped: "-529.0e6"
-dv_has_text_of_color: "0x99B575"
+dv_has_time_started: -538.8e6
+dv_has_time_stopped: -529.0e6
+dv_has_text_of_color: 0x99B575
 ---
 # [[Age~1~Fortunian]] 
 

@@ -1,8 +1,42 @@
 ---
 has_id_wikidata: Q639653
+dv_has_:
+  name_:
+    bn: ভার্চুয়াল নেটওয়ার্ক কম্পিউটিং
+    ca: Virtual Network Computing
+    cs: Virtual Network Computing
+    da: Virtual Network Computing
+    de: Virtual Network Computing
+    en: Virtual Network Computing
+    es: VNC
+    fa: رایانه مجازی تحت شبکه
+    fi: VNC
+    fr: Virtual Network Computing
+    he: Virtual Network Computing
+    it: Virtual Network Computing
+    ja: Virtual Network Computing
+    ko: VNC
+    lmo: Virtual Network Computing
+    nb: Virtual Network Computing
+    nl: Virtual Network Computing
+    nn: VNC
+    pl: Virtual Network Computing
+    pt: Virtual Network Computing
+    ru: Virtual Network Computing
+    sv: Virtual Network Computing
+    ta: மெய்நிகர் வலையமைப்பூடான கணினி
+    uk: Virtual Network Computing
+    uz: Virtual Network Computing
+    zh: VNC
+    zh-hant: VNC
+    zh-tw: VNC
+aliases:
+- Virtual Network Computing
+- VNC
+- رایانه مجازی تحت شبکه
+- ভার্চুয়াল নেটওয়ার্ক কম্পিউটিং
+- மெய்நிகர் வலையமைப்பூடான கணினி
 ---
-
-
 #is_/similar_to :: [[RDP(Remote_Desktop_Protocol)]]  
 
 ## #has_/text_of_/abstract 

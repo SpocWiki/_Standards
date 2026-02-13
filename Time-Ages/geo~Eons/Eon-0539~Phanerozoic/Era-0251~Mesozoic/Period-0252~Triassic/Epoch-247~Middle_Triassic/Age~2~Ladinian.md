@@ -1,77 +1,118 @@
 ---
 aliases:
-  - Ladinian
+- Ladin
+- ladini
+- Ladinian
+- Ladiniano
+- Ladinianu
+- Ladiniar
+- Ladinico
+- Ladinien
+- Ladiniense
+- ladinij
+- Ladinik
+- Ladinium
+- Ladinià
+- Ladyn
+- Ladìnicu
+- Tầng Ladinia
+- Ладин ярусы
+- ладинский ярус
+- Ладинський ярус
+- اللاديني
+- لادینین
+- ラディニアン
+- 拉丁尼階
+- 라딘절
 has_id_wikidata: Q726791
-significant_place: "[[_Standards/WikiData/WD~Bagolino,103465]]"
+significant_place: '[[_Standards/WikiData/WD~Bagolino,103465]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-named_after: "[[_Standards/WikiData/WD~Ladins,1799968]]"
-named_by: "[[_Standards/WikiData/WD~Alexander_Bittner,2641834]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Ladinian,21607953]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Ladinian,134369408]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+named_after: '[[_Standards/WikiData/WD~Ladins,1799968]]'
+named_by: '[[_Standards/WikiData/WD~Alexander_Bittner,2641834]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Ladinian,21607953]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Ladinian,134369408]]'
 coordinate_location: Point(10.471 45.8193)
 end_time: -237000000-01-01T00:00:00Z
 sRGB_color_hex_triplet: D492BD
 start_time: -242000000-01-01T00:00:00Z
 dv_has_:
   duration_:
-    years: "5.000e+6"
-  previous_:
-    item: "[[Age~1~Anisian]]"
-  next_:
-    item: "[[../Epoch-237~Late_Triassic/Age~1~Carnian|Age~1~Carnian]]"
+    years: 5.000e+6
   name_:
+    abbreviated: t4
+    af: Ladinium
+    ar: اللاديني
+    ast: Ladinianu
     bg: Ладин
+    ca: Ladinià
     cs: Ladin
     da: Ladinien
-    de: Ladinium
+    de: Ladin
+    en: Ladinian
     es: Ladiniense
     et: Ladini
+    eu: Ladiniar
+    fa: لادینین
     fi: Ladin
     fr: Ladinien
-    hu: ladin
-    it: ladinico
-    ja: ラディニアン期
+    gl: Ladiniano
+    hu: ladini
+    id: Ladinium
+    it: Ladinico
+    ja: ラディニアン
+    kk: Ладин ярусы
+    ko: 라딘절
+    la: Ladinium
     lt: Ladinis
-    nl: Ladiniën
+    nl: Ladinien
+    nn: ladin
     no: Ladin
     pl: Ladyn
     pt: Ladiniano
+    ru: ладинский ярус
+    scn: Ladìnicu
+    sh: Ladinik
     sk: ladin
     sl: ladinij
     sv: ladin
-    zh: 拉迪尼亚期
-    abbreviated: t4
+    uk: Ладинський ярус
+    vi: Tầng Ladinia
+    zh: 拉丁尼階
+  next_:
+    item: '[[../Epoch-237~Late_Triassic/Age~1~Carnian|Age~1~Carnian]]'
+  previous_:
+    item: '[[Age~1~Anisian]]'
+  text_of_:
+    color: 0xC983BF
   time_:
     started: -242000000
     stopped: -237000000
-  text_of_:
-    color: "0xC983BF"
 dv_is_:
   same_as:
-    - "[[WD~Ladinian,726791]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic/Age~2~Ladinian|Age~2~Ladinian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic/Age~2~Ladinian.public|Age~2~Ladinian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic/Age~2~Ladinian.internal|Age~2~Ladinian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic/Age~2~Ladinian.protect|Age~2~Ladinian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic/Age~2~Ladinian.private|Age~2~Ladinian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic/Age~2~Ladinian.personal|Age~2~Ladinian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic/Age~2~Ladinian.secret|Age~2~Ladinian.secret]]"
-dv_has_duration_years: "5.000e+6"
-dv_has_previous_item: "[[Age~1~Anisian]]"
-dv_has_next_item: "[[../Epoch-237~Late_Triassic/Age~1~Carnian|Age~1~Carnian]]"
+  - '[[WD~Ladinian,726791]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic/Age~2~Ladinian|Age~2~Ladinian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic/Age~2~Ladinian.public|Age~2~Ladinian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic/Age~2~Ladinian.internal|Age~2~Ladinian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic/Age~2~Ladinian.protect|Age~2~Ladinian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic/Age~2~Ladinian.private|Age~2~Ladinian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic/Age~2~Ladinian.personal|Age~2~Ladinian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic/Age~2~Ladinian.secret|Age~2~Ladinian.secret]]'
+dv_has_duration_years: 5.000e+6
+dv_has_previous_item: '[[Age~1~Anisian]]'
+dv_has_next_item: '[[../Epoch-237~Late_Triassic/Age~1~Carnian|Age~1~Carnian]]'
 dv_is_same_as:
-  - "[[WD~Ladinian,726791]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic/Age~2~Ladinian|Age~2~Ladinian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic/Age~2~Ladinian.public|Age~2~Ladinian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic/Age~2~Ladinian.internal|Age~2~Ladinian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic/Age~2~Ladinian.protect|Age~2~Ladinian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic/Age~2~Ladinian.private|Age~2~Ladinian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic/Age~2~Ladinian.personal|Age~2~Ladinian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic/Age~2~Ladinian.secret|Age~2~Ladinian.secret]]"
+- '[[WD~Ladinian,726791]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic/Age~2~Ladinian|Age~2~Ladinian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic/Age~2~Ladinian.public|Age~2~Ladinian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic/Age~2~Ladinian.internal|Age~2~Ladinian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic/Age~2~Ladinian.protect|Age~2~Ladinian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic/Age~2~Ladinian.private|Age~2~Ladinian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic/Age~2~Ladinian.personal|Age~2~Ladinian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic/Age~2~Ladinian.secret|Age~2~Ladinian.secret]]'
 dv_has_name_bg: Ладин
 dv_has_name_cs: Ladin
 dv_has_name_da: Ladinien
@@ -95,7 +136,7 @@ dv_has_name_zh: 拉迪尼亚期
 dv_has_name_abbreviated: t4
 dv_has_time_started: -242000000
 dv_has_time_stopped: -237000000
-dv_has_text_of_color: "0xC983BF"
+dv_has_text_of_color: 0xC983BF
 ---
 # [[Age~2~Ladinian]] 
 

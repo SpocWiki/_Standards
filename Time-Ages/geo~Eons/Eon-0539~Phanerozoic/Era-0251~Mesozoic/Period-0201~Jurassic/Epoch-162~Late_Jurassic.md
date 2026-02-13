@@ -1,72 +1,153 @@
 ---
 aliases:
-  - Epoch~3~Late_Jurassic
-  - Epoch~3~Late Jurassic
+- an Sealad Iúrasach Déanach
+- Böverjura
+- Epoch~3~Late Jurassic
+- Epoch~3~Late_Jurassic
+- Geç Jura
+- Giurassico superiore
+- Gornja jura
+- Iurassicum Superius
+- Jura Akhir
+- Jura Muộn
+- Jura późna
+- Jurasic târziu
+- Jurasiko Berantiar
+- Jurassique supérieur
+- Juràsego Superior
+- Juràssic superior
+- Jurásico Superior
+- Jurássico Superior
+- Jwrasig Hwyr
+- Kasna jura
+- késő jura
+- Laat-Jura
+- Late Jurassic
+- myöhäisjurakausi
+- Oberjura
+- pozna jura
+- supra ĵurasio
+- svrchní jura
+- Síðjúratímabilið
+- viršutinė jura
+- Xurásico superior
+- Xurásicu Superior
+- Yngre jura
+- øvre jura
+- Ύστερη Ιουρασική
+- пізня юра
+- поздняя юра
+- יורה עליון
+- الجوراسي المتأخر
+- ژوراسیک پسین
+- उत्तर जुरैसिक युग
+- ジュラ紀後期
+- 晚侏罗世
+- 晚侏罗纪
+- 晚侏羅紀
+- 쥐라기 후기
 ischart: UpperJurassic
 has_id_wikidata: Q499312
-named_after: "[[_Standards/WikiData/WD~Jura_Mountains,178611]]"
+named_after: '[[_Standards/WikiData/WD~Jura_Mountains,178611]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~series,312468]]"
-  - "[[_Standards/WikiData/WD~epoch,754897]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Late_Jurassic,9050408]]"
-described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+- '[[_Standards/WikiData/WD~series,312468]]'
+- '[[_Standards/WikiData/WD~epoch,754897]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Late_Jurassic,9050408]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 start_time: -163500000-01-01T00:00:00Z
 end_time: -145000000-01-01T00:00:00Z
-Dewey_Decimal_Classification: "551.766"
+Dewey_Decimal_Classification: 551.766
 sRGB_color_hex_triplet: 97E3FA
 dv_has_:
   duration_:
-    years: "1.650e+7"
-  previous_:
-    item: "[[Epoch-175~Middle_Jurassic]]"
-  next_:
-    item: "[[../Period-0145~Cretaceous/Epoch-145~Early_Cretaceous|Epoch~1~Early_Cretaceous]]"
+    years: 1.650e+7
   name_:
+    abbreviated: J3
+    af: Laat-Jura
+    ar: الجوراسي المتأخر
+    ast: Xurásicu Superior
     bg: Къѿна Юра
-    cs: Pozdní jura
+    bs: Kasna jura
+    ca: Juràssic superior
+    cs: svrchní jura
+    cy: Jwrasig Hwyr
     da: Sen Jurassisk
-    de: Später Jura
+    de: Oberjura
+    el: Ύστερη Ιουρασική
+    en: Late Jurassic
+    eo: supra ĵurasio
+    es: Jurásico Superior
     et: Hilis-Juura
-    fi: Myöhäis-Jura
-    hu: késő-jura
-    ja: 後期ジュラ紀
-    lt: Vėlyvoji Jura
-    nl: Laat Jura
+    eu: Jurasiko Berantiar
+    fa: ژوراسیک پسین
+    fi: myöhäisjurakausi
+    fr: Jurassique supérieur
+    ga: an Sealad Iúrasach Déanach
+    gl: Xurásico superior
+    he: יורה עליון
+    hi: उत्तर जुरैसिक युग
+    hu: késő jura
+    id: Jura Akhir
+    is: Síðjúratímabilið
+    it: Giurassico superiore
+    ja: ジュラ紀後期
+    ko: 쥐라기 후기
+    la: Iurassicum Superius
+    lt: viršutinė jura
+    ms: Jura Akhir
+    mwl: Jurássico Superior
+    nds: Böverjura
+    nl: Laat-Jura
+    nn: øvre jura
     no: Sen jura
-    pl: Późna Jura
+    pl: Jura późna
+    pt: Jurássico Superior
+    ro: Jurasic târziu
+    ru: поздняя юра
+    sh: Gornja jura
     sk: mladšia jura
     sl: pozna jura
-    sv: yngre jura
+    sv: Yngre jura
+    tr: Geç Jura
+    uk: пізня юра
+    vec: Juràsego Superior
+    vi: Jura Muộn
     zh: 晚侏罗世
-    abbreviated: J3
-  time_:
-    started: "-161.5e6"
-    stopped: "-145.0e6"
+    zh-hans: 晚侏罗纪
+    zh-hant: 晚侏羅紀
+    zh-hk: 晚侏羅紀
+  next_:
+    item: '[[../Period-0145~Cretaceous/Epoch-145~Early_Cretaceous|Epoch~1~Early_Cretaceous]]'
+  previous_:
+    item: '[[Epoch-175~Middle_Jurassic]]'
   text_of_:
-    color: "0xB3E3EE"
+    color: 0xB3E3EE
+  time_:
+    started: -161.5e6
+    stopped: -145.0e6
 dv_is_:
   same_as:
-    - "[[WD~Late_Jurassic,499312]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic|Epoch-162~Late_Jurassic]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic.public|Epoch-162~Late_Jurassic.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic.internal|Epoch-162~Late_Jurassic.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic.protect|Epoch-162~Late_Jurassic.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic.private|Epoch-162~Late_Jurassic.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic.personal|Epoch-162~Late_Jurassic.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic.secret|Epoch-162~Late_Jurassic.secret]]"
-dv_has_duration_years: "1.650e+7"
-dv_has_previous_item: "[[Epoch-175~Middle_Jurassic]]"
-dv_has_next_item: "[[../Period-0145~Cretaceous/Epoch-145~Early_Cretaceous|Epoch~1~Early_Cretaceous]]"
+  - '[[WD~Late_Jurassic,499312]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic|Epoch-162~Late_Jurassic]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic.public|Epoch-162~Late_Jurassic.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic.internal|Epoch-162~Late_Jurassic.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic.protect|Epoch-162~Late_Jurassic.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic.private|Epoch-162~Late_Jurassic.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic.personal|Epoch-162~Late_Jurassic.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic.secret|Epoch-162~Late_Jurassic.secret]]'
+dv_has_duration_years: 1.650e+7
+dv_has_previous_item: '[[Epoch-175~Middle_Jurassic]]'
+dv_has_next_item: '[[../Period-0145~Cretaceous/Epoch-145~Early_Cretaceous|Epoch~1~Early_Cretaceous]]'
 dv_is_same_as:
-  - "[[WD~Late_Jurassic,499312]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic|Epoch-162~Late_Jurassic]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic.public|Epoch-162~Late_Jurassic.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic.internal|Epoch-162~Late_Jurassic.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic.protect|Epoch-162~Late_Jurassic.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic.private|Epoch-162~Late_Jurassic.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic.personal|Epoch-162~Late_Jurassic.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic.secret|Epoch-162~Late_Jurassic.secret]]"
+- '[[WD~Late_Jurassic,499312]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic|Epoch-162~Late_Jurassic]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic.public|Epoch-162~Late_Jurassic.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic.internal|Epoch-162~Late_Jurassic.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic.protect|Epoch-162~Late_Jurassic.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic.private|Epoch-162~Late_Jurassic.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic.personal|Epoch-162~Late_Jurassic.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic.secret|Epoch-162~Late_Jurassic.secret]]'
 dv_has_name_bg: Къѿна Юра
 dv_has_name_cs: Pozdní jura
 dv_has_name_da: Sen Jurassisk
@@ -84,11 +165,10 @@ dv_has_name_sl: pozna jura
 dv_has_name_sv: yngre jura
 dv_has_name_zh: 晚侏罗世
 dv_has_name_abbreviated: J3
-dv_has_time_started: "-161.5e6"
-dv_has_time_stopped: "-145.0e6"
-dv_has_text_of_color: "0xB3E3EE"
+dv_has_time_started: -161.5e6
+dv_has_time_stopped: -145.0e6
+dv_has_text_of_color: 0xB3E3EE
 ---
-
 # [[Epoch-162~Late_Jurassic]] 
 
 #is_a_/time_/Epoch 

@@ -1,45 +1,56 @@
 ---
 location:
-  - 7.923964
-  - 45.09461
+- 7.923964
+- 45.09461
 aliases:
-  - Proterozoic
-  - Протерозой
-  - Proterozoikum
-  - Proterozoico
-  - Proterosoikum
-  - Proterotsoikum
-  - Protérozoïque
-  - proterozoos
-  - proterozoico
-  - 原生代
-  - Proterozojus
-  - Proterozoïcum
-  - Proterozoisk
-  - Proterozoik
-  - Proterozóico
-  - proterozoikum
-  - proterozoik
-  - 元古宙
-  - Eon~3~Proterozoic
+- Cinsan
+- Cintianum
+- Cinzano
+- Eon~3~Proterozoic
+- Proterosoikum
+- Proterotsoikum
+- Proterozoic
+- Proterozoico
+- Proterozoik
+- Proterozoikum
+- Proterozoisk
+- Proterozojus
+- proterozoos
+- Proterozoïcum
+- Proterozóico
+- Protérozoïque
+- Τσιντσάνο
+- Протерозой
+- Чинцано
+- Чинцано (коммуна)
+- Чынцана
+- Չինցանո
+- سينزانو بييدمونت
+- چیناتزانو
+- چیناتزانو (پیمونت)
+- チンザーノ
+- 元古宙
+- 原生代
+- 钦扎诺
+- 친차노
 has_id_wikidata: Q9283
-patron_saint: "[[_Standards/WikiData/WD~Roch,152457]]"
-instance_of: "[[_Standards/WikiData/WD~commune_of_Italy,747074]]"
-capital: "[[_Standards/WikiData/WD~Cinzano,30024775]]"
-seismic_classification: "[[_Standards/WikiData/WD~4,106435267]]"
+patron_saint: '[[_Standards/WikiData/WD~Roch,152457]]'
+instance_of: '[[_Standards/WikiData/WD~commune_of_Italy,747074]]'
+capital: '[[_Standards/WikiData/WD~Cinzano,30024775]]'
+seismic_classification: '[[_Standards/WikiData/WD~4,106435267]]'
 coordinates_of_northernmost_point: Point(7.9112847 45.1089492)
 coordinates_of_southernmost_point: Point(7.920227 45.0745035)
 coordinates_of_easternmost_point: Point(7.9421902 45.0862583)
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
-  - "[[_Standards/WikiData/WD~UTC+02_00,6723]]"
+- '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
+- '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Casalborgone,9194]]"
-  - "[[_Standards/WikiData/WD~Rivalba,10221]]"
-  - "[[_Standards/WikiData/WD~Sciolze,10301]]"
-  - "[[_Standards/WikiData/WD~Berzano_di_San_Pietro,17753]]"
-  - "[[_Standards/WikiData/WD~Moncucco_Torinese,17828]]"
-country: "[[_Standards/WikiData/WD~Italy,38]]"
+- '[[_Standards/WikiData/WD~Casalborgone,9194]]'
+- '[[_Standards/WikiData/WD~Rivalba,10221]]'
+- '[[_Standards/WikiData/WD~Sciolze,10301]]'
+- '[[_Standards/WikiData/WD~Berzano_di_San_Pietro,17753]]'
+- '[[_Standards/WikiData/WD~Moncucco_Torinese,17828]]'
+country: '[[_Standards/WikiData/WD~Italy,38]]'
 area: 6.2
 population: 331
 elevation_above_sea_level: 495
@@ -57,49 +68,98 @@ demonym: cinzanesi
 coordinate_location: Point(7.923964 45.09461)
 dv_has_:
   duration_:
-    years: "1.961e+9"
-  previous_:
-    item: "[[Eon-4031~Archean]]"
-  next_:
-    item: "[[Eon-0539~Phanerozoic]]"
+    years: 1.961e+9
   name_:
-    bg: Протерозой
-    cs: Proterozoikum
+    ar: سينزانو بييدمونت
+    azb: چیناتزانو (پیمونت)
+    be: Чынцана
+    bg: Чинцано
+    br: Cinzano
+    ca: Cinzano
+    ce: Чинцано (коммуна)
+    ceb: Cinzano
+    cs: Cinzano
     da: Proterozoikum
-    de: Proterozoikum
-    es: Proterozoico
-    et: Proterosoikum
+    de: Cinzano
+    el: Τσιντσάνο
+    en: Cinzano
+    en-ca: Cinzano
+    en-gb: Cinzano
+    eo: Cinzano
+    es: Cinzano
+    et: Cinzano
+    eu: Cinzano
+    fa: چیناتزانو
     fi: Proterotsoikum
-    fr: Protérozoïque
-    hu: proterozoos
-    it: proterozoico
-    ja: 原生代
+    fr: Cinzano
+    ga: Cinzano
+    hu: Cinzano
+    hy: Չինցանո
+    ia: Cinzano
+    id: Cinzano
+    it: Cinzano
+    ja: チンザーノ
+    kk: Чинцано
+    ko: 친차노
+    la: Cintianum
+    lij: Cinzano
+    lld: Cinzano
+    lmo: Cinzano
     lt: Proterozojus
-    nl: Proterozoïcum
+    ms: Cinzano
+    nan: Cinzano
+    nap: Cinzano
+    nb: Cinzano
+    nl: Cinzano
     no: Proterozoisk
-    pl: Proterozoik
-    pt: Proterozóico
-    sk: proterozoikum
+    oc: Cinzano
+    pl: Cinzano
+    pms: Cinsan
+    pt: Cinzano
+    pt-br: Cinzano
+    ro: Cinzano
+    roa-tara: Cinzano
+    ru: Чинцано
+    scn: Cinzano
+    sh: Cinzano
+    sk: Cinzano
     sl: proterozoik
-    sv: proterozoikum
-    zh: 元古宙
-  time_:
-    started: "-2500.0e6"
-    stopped: "-538.8e6"
+    sr: Cinzano
+    sv: Cinzano
+    tl: Cinzano
+    tr: Cinzano
+    tt: Чинцано (коммуна)
+    uk: Чинцано
+    uz: Cinzano
+    vec: Cinzano
+    vi: Cinzano
+    vo: Cinzano
+    war: Cinzano
+    zh: 钦扎诺
+    zh-cn: 钦扎诺
+    zh-hans: 钦扎诺
+    zh-hant: 钦扎诺
+  next_:
+    item: '[[Eon-0539~Phanerozoic]]'
+  previous_:
+    item: '[[Eon-4031~Archean]]'
   text_of_:
-    color: "0xF73563"
+    color: 0xF73563
+  time_:
+    started: -2500.0e6
+    stopped: -538.8e6
 dv_is_:
   same_as:
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic|Eon-2500~Proterozoic]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic.public|Eon-2500~Proterozoic.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic.internal|Eon-2500~Proterozoic.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic.protect|Eon-2500~Proterozoic.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic.private|Eon-2500~Proterozoic.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic.personal|Eon-2500~Proterozoic.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic.secret|Eon-2500~Proterozoic.secret]]"
-dv_has_duration_years: "1.961e+9"
-dv_has_previous_item: "[[Eon-4031~Archean]]"
-dv_has_next_item: "[[Eon-0539~Phanerozoic]]"
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic|Eon-2500~Proterozoic]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic.public|Eon-2500~Proterozoic.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic.internal|Eon-2500~Proterozoic.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic.protect|Eon-2500~Proterozoic.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic.private|Eon-2500~Proterozoic.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic.personal|Eon-2500~Proterozoic.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic.secret|Eon-2500~Proterozoic.secret]]'
+dv_has_duration_years: 1.961e+9
+dv_has_previous_item: '[[Eon-4031~Archean]]'
+dv_has_next_item: '[[Eon-0539~Phanerozoic]]'
 dv_has_name_bg: Протерозой
 dv_has_name_cs: Proterozoikum
 dv_has_name_da: Proterozoikum
@@ -120,20 +180,18 @@ dv_has_name_sk: proterozoikum
 dv_has_name_sl: proterozoik
 dv_has_name_sv: proterozoikum
 dv_has_name_zh: 元古宙
-dv_has_time_started: "-2500.0e6"
-dv_has_time_stopped: "-538.8e6"
-dv_has_text_of_color: "0xF73563"
+dv_has_time_started: -2500.0e6
+dv_has_time_stopped: -538.8e6
+dv_has_text_of_color: 0xF73563
 dv_is_same_as:
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic|Eon-2500~Proterozoic]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic.public|Eon-2500~Proterozoic.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic.internal|Eon-2500~Proterozoic.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic.protect|Eon-2500~Proterozoic.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic.private|Eon-2500~Proterozoic.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic.personal|Eon-2500~Proterozoic.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic.secret|Eon-2500~Proterozoic.secret]]"
-
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic|Eon-2500~Proterozoic]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic.public|Eon-2500~Proterozoic.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic.internal|Eon-2500~Proterozoic.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic.protect|Eon-2500~Proterozoic.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic.private|Eon-2500~Proterozoic.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic.personal|Eon-2500~Proterozoic.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic.secret|Eon-2500~Proterozoic.secret]]'
 ---
-
 # [[Eon-2500~Proterozoic]] 
 
 #is_a_/time_/Eon 

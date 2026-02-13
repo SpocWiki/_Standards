@@ -1,8 +1,30 @@
 ---
 has_id_wikidata: Q213970
+dv_has_:
+  name_:
+    ar: أوك
+    bs: Awk
+    ca: awk
+    fr: Awk
+    hr: Awk
+    hu: awk
+    it: Awk
+    ko: AWK
+    mul: AWK
+    nb: Awk
+    nn: Awk
+    sv: Awk
+    syl: ꠅꠅꠇ
+    tg: Awk
+    tg-latn: Awk
+    th: ภาษาออว์ก
+    yue: Awk
+aliases:
+- Awk
+- أوك
+- ภาษาออว์ก
+- ꠅꠅꠇ
 ---
-
-
 # [[Prog~AWK]]  
 
 #is_a_/ComputerLanguage 

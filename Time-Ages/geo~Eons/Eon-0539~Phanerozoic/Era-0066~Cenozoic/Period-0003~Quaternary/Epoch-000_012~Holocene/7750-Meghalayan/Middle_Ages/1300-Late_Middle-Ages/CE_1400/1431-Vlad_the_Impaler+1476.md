@@ -1,87 +1,226 @@
 ---
 aliases:
-  - Vlad III
-  - Vlad the Impaler
-  - Vlad Țepeș
-  - Vlad Dracula
-  - Vlad Drăculea
-  - 1431-Vlad_the_Impaler+1476
-  - 1431-Vlad the Impaler+1476
+- 1431-Vlad the Impaler+1476
+- 1431-Vlad_the_Impaler+1476
+- Daraakoola
+- III Vlad Tsepeş
+- III. Vlad havasalföldi fejedelem
+- Vlad an Spíce
+- Vlad de Speetser
+- Vlad die Deurboorder
+- Vlad Dracula
+- Vlad Drakula
+- Vlad Drakúla
+- Vlad Drăculea
+- Vlad el Empalador
+- Vlad III
+- Vlad III de Valacchia
+- Vlad III de Walachia
+- Vlad III di Valacchia
+- Vlad III Dracula
+- Vlad III l'Empaleur
+- Vlad III Tepeš
+- Vlad III Ţepeş
+- Vlad III.
+- Vlad III. Dracula
+- Vlad III. Drakula
+- Vlad III. Drăculea
+- Vlad III. Tepeš
+- Vlad la 3-a Drakulo
+- Vlad si Penyula
+- Vlad Sunduesi
+- Vlad Tepes
+- Vlad the Impaler
+- Vlad Tsepesch
+- Vlad Ţepeş
+- Vlad Țepeș
+- Vlad, o Empalador
+- Vladas Drakula
+- Vladislaus III Dracula
+- Vlads III Drakuls
+- Wład Palownik
+- Βλαντ Γ΄ Τσέπες
+- Влад III Дракула
+- Влад III Цепеш
+- Влад Цепеш
+- Влад Цепеш III
+- Улад III Цэпеш
+- Վլադ Դրակուլա
+- וולאד דער דורכשטעכער
+- ולאד השלישי
+- اۆچونجو ولاد
+- دریم ولاډ (ډراکول)
+- فلاد الثالث المخوزق
+- ولاد سوم
+- ڤلاد التالت
+- ڤلادی سکھەڵدڕ
+- विलाद तृतीय ड्रैकुला
+- വ്ലാദ് മൂന്നാമൻ
+- วลาดที่ 3 นักเสียบ
+- ვლად III ცეპეში
+- ヴラド・ツェペシュ
+- 弗拉德三世
+- 블라드 체페슈
 has_id_wikidata: Q43715
 Commons_gallery: Vlad Ţepeş
 name_in_native_language: Vlad al III-lea Țepeș
-manner_of_death: "[[_Standards/WikiData/WD~homicide,149086]]"
-place_of_birth: "[[_Standards/WikiData/WD~Sighișoara,193001]]"
-cause_of_death: "[[_Standards/WikiData/WD~decapitation,204933]]"
-different_from: "[[_Standards/WikiData/WD~Dracula,224630]]"
+manner_of_death: '[[_Standards/WikiData/WD~homicide,149086]]'
+place_of_birth: '[[_Standards/WikiData/WD~Sighișoara,193001]]'
+cause_of_death: '[[_Standards/WikiData/WD~decapitation,204933]]'
+different_from: '[[_Standards/WikiData/WD~Dracula,224630]]'
 noble_title:
-  - "[[_Standards/WikiData/WD~voivode,275102]]"
-  - "[[_Standards/WikiData/WD~prince,2747456]]"
+- '[[_Standards/WikiData/WD~voivode,275102]]'
+- '[[_Standards/WikiData/WD~prince,2747456]]'
 position_held:
-  - "[[_Standards/WikiData/WD~voivode,275102]]"
-  - "[[_Standards/WikiData/WD~lord_of_Wallachia,673697]]"
-  - "[[_Standards/WikiData/WD~monarch,116]]"
-father: "[[_Standards/WikiData/WD~Vlad_II_Dracul,380330]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Principality_of_Wallachia,389004]]"
+- '[[_Standards/WikiData/WD~voivode,275102]]'
+- '[[_Standards/WikiData/WD~lord_of_Wallachia,673697]]'
+- '[[_Standards/WikiData/WD~monarch,116]]'
+father: '[[_Standards/WikiData/WD~Vlad_II_Dracul,380330]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Principality_of_Wallachia,389004]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Radu_cel_Frumos,535103]]"
-  - "[[_Standards/WikiData/WD~Vlad_Călugărul,672742]]"
-  - "[[_Standards/WikiData/WD~Mircea_II_of_Wallachia,957293]]"
-family: "[[_Standards/WikiData/WD~House_of_Drăculești,645853]]"
+- '[[_Standards/WikiData/WD~Radu_cel_Frumos,535103]]'
+- '[[_Standards/WikiData/WD~Vlad_Călugărul,672742]]'
+- '[[_Standards/WikiData/WD~Mircea_II_of_Wallachia,957293]]'
+family: '[[_Standards/WikiData/WD~House_of_Drăculești,645853]]'
 child:
-  - "[[_Standards/WikiData/WD~Mihnea_cel_Rău,715428]]"
-  - "[[_Standards/WikiData/WD~Vlad,131730878]]"
-residence: "[[_Standards/WikiData/WD~Poenari_Castle,1013551]]"
-occupation: "[[_Standards/WikiData/WD~ruler,1097498]]"
-place_of_burial: "[[_Standards/WikiData/WD~Snagov_Monastery,3320343]]"
-present_in_work: "[[_Standards/WikiData/WD~Skazanie_o_Drakule_Voivode,4421344]]"
-spouse: "[[_Standards/WikiData/WD~Ilona_Szilágyi,6001059]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-given_name: "[[_Standards/WikiData/WD~Vlad,11903501]]"
-mother: "[[_Standards/WikiData/WD~Vasilissa,116150731]]"
+- '[[_Standards/WikiData/WD~Mihnea_cel_Rău,715428]]'
+- '[[_Standards/WikiData/WD~Vlad,131730878]]'
+residence: '[[_Standards/WikiData/WD~Poenari_Castle,1013551]]'
+occupation: '[[_Standards/WikiData/WD~ruler,1097498]]'
+place_of_burial: '[[_Standards/WikiData/WD~Snagov_Monastery,3320343]]'
+present_in_work: '[[_Standards/WikiData/WD~Skazanie_o_Drakule_Voivode,4421344]]'
+spouse: '[[_Standards/WikiData/WD~Ilona_Szilágyi,6001059]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+given_name: '[[_Standards/WikiData/WD~Vlad,11903501]]'
+mother: '[[_Standards/WikiData/WD~Vasilissa,116150731]]'
 date_of_death:
-  - 1477-01-01T00:00:00Z
-  - 1476-12-01T00:00:00Z
+- 1477-01-01T00:00:00Z
+- 1476-12-01T00:00:00Z
 date_of_birth:
-  - 1431-11-11T00:00:00Z
-  - 1431-01-01T00:00:00Z
-religion_or_worldview: "[[_Standards/WikiData/WD~Catholicism,1841]]"
+- 1431-11-11T00:00:00Z
+- 1431-01-01T00:00:00Z
+religion_or_worldview: '[[_Standards/WikiData/WD~Catholicism,1841]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~Romanian,7913]]"
-  - "[[_Standards/WikiData/WD~Hungarian,9067]]"
-  - "[[_Standards/WikiData/WD~Church_Slavonic,33251]]"
-place_of_death: "[[_Standards/WikiData/WD~Bucharest,19660]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+- '[[_Standards/WikiData/WD~Romanian,7913]]'
+- '[[_Standards/WikiData/WD~Hungarian,9067]]'
+- '[[_Standards/WikiData/WD~Church_Slavonic,33251]]'
+place_of_death: '[[_Standards/WikiData/WD~Bucharest,19660]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 BHCL_UUID: baa4d6bd-85b4-4e11-b6e2-5bd4593f19dc
 Commons_category: Vlad III the Impaler
 signature:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Vlad%20%C5%A2epe%C5%9F%20signature.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Vlad%20the%20Impaler%20signature.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Vlad%20%C5%A2epe%C5%9F%20signature.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Vlad%20the%20Impaler%20signature.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Vlad%20%C5%A2epe%C5%9F%2C%20the%20Impaler%2C%20Prince%20of%20Wallachia%20%281456-1462%29%20%28died%201477%29.jpg
 ISNI: 79992137
 Libris_URI: 64jmvh3q5cxbxn1
 P1015: 90364448
 dv_is_:
   same_as:
-    - "[[../../../../../../../../../../WikiData/WD~Vlad_the_Impaler,43715|WD~Vlad_the_Impaler,43715]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1431-Vlad_the_Impaler+1476|1431-Vlad_the_Impaler+1476]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1431-Vlad_the_Impaler+1476.public|1431-Vlad_the_Impaler+1476.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1431-Vlad_the_Impaler+1476.internal|1431-Vlad_the_Impaler+1476.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1431-Vlad_the_Impaler+1476.protect|1431-Vlad_the_Impaler+1476.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1431-Vlad_the_Impaler+1476.private|1431-Vlad_the_Impaler+1476.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1431-Vlad_the_Impaler+1476.personal|1431-Vlad_the_Impaler+1476.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1431-Vlad_the_Impaler+1476.secret|1431-Vlad_the_Impaler+1476.secret]]"
+  - '[[../../../../../../../../../../WikiData/WD~Vlad_the_Impaler,43715|WD~Vlad_the_Impaler,43715]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1431-Vlad_the_Impaler+1476|1431-Vlad_the_Impaler+1476]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1431-Vlad_the_Impaler+1476.public|1431-Vlad_the_Impaler+1476.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1431-Vlad_the_Impaler+1476.internal|1431-Vlad_the_Impaler+1476.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1431-Vlad_the_Impaler+1476.protect|1431-Vlad_the_Impaler+1476.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1431-Vlad_the_Impaler+1476.private|1431-Vlad_the_Impaler+1476.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1431-Vlad_the_Impaler+1476.personal|1431-Vlad_the_Impaler+1476.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1431-Vlad_the_Impaler+1476.secret|1431-Vlad_the_Impaler+1476.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../../../WikiData/WD~Vlad_the_Impaler,43715|WD~Vlad_the_Impaler,43715]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1431-Vlad_the_Impaler+1476|1431-Vlad_the_Impaler+1476]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1431-Vlad_the_Impaler+1476.public|1431-Vlad_the_Impaler+1476.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1431-Vlad_the_Impaler+1476.internal|1431-Vlad_the_Impaler+1476.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1431-Vlad_the_Impaler+1476.protect|1431-Vlad_the_Impaler+1476.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1431-Vlad_the_Impaler+1476.private|1431-Vlad_the_Impaler+1476.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1431-Vlad_the_Impaler+1476.personal|1431-Vlad_the_Impaler+1476.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1431-Vlad_the_Impaler+1476.secret|1431-Vlad_the_Impaler+1476.secret]]"
+- '[[../../../../../../../../../../WikiData/WD~Vlad_the_Impaler,43715|WD~Vlad_the_Impaler,43715]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1431-Vlad_the_Impaler+1476|1431-Vlad_the_Impaler+1476]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1431-Vlad_the_Impaler+1476.public|1431-Vlad_the_Impaler+1476.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1431-Vlad_the_Impaler+1476.internal|1431-Vlad_the_Impaler+1476.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1431-Vlad_the_Impaler+1476.protect|1431-Vlad_the_Impaler+1476.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1431-Vlad_the_Impaler+1476.private|1431-Vlad_the_Impaler+1476.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1431-Vlad_the_Impaler+1476.personal|1431-Vlad_the_Impaler+1476.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1431-Vlad_the_Impaler+1476.secret|1431-Vlad_the_Impaler+1476.secret]]'
+dv_has_:
+  name_:
+    af: Vlad die Deurboorder
+    ar: فلاد الثالث المخوزق
+    arz: ڤلاد التالت
+    ast: Vlad Țepeș
+    az: III Vlad Tsepeş
+    azb: اۆچونجو ولاد
+    bar: Vlad Tsepesch
+    be: Улад III Цэпеш
+    be-tarask: Улад III Цэпеш
+    bg: Влад Цепеш
+    br: Vlad III
+    bs: Vlad III Tepeš
+    ca: Vlad Ţepeş
+    ckb: ڤلادی سکھەڵدڕ
+    cs: Vlad III. Dracula
+    da: Vlad Dracula
+    de: Vlad III. Drăculea
+    diq: Vlad III
+    el: Βλαντ Γ΄ Τσέπες
+    en: Vlad the Impaler
+    en-gb: Vlad Tepes
+    eo: Vlad la 3-a Drakulo
+    es: Vlad el Empalador
+    et: Vlad Dracula
+    eu: Vlad Drakula
+    fa: ولاد سوم
+    fi: Vlad III
+    fr: Vlad III l'Empaleur
+    fy: Vlad de Speetser
+    ga: Vlad an Spíce
+    gd: Vlad Țepeș
+    gl: Vlad Țepeș
+    he: ולאד השלישי
+    hi: विलाद तृतीय ड्रैकुला
+    hr: Vlad III. Tepeš
+    hu: III. Vlad havasalföldi fejedelem
+    hy: Վլադ Դրակուլա
+    ia: Vlad III de Walachia
+    id: Vlad si Penyula
+    is: Vlad Drakúla
+    it: Vlad III di Valacchia
+    ja: ヴラド・ツェペシュ
+    jv: Vlad Ţepeş
+    ka: ვლად III ცეპეში
+    ko: 블라드 체페슈
+    la: Vladislaus III Dracula
+    lmo: Vlad III de Valacchia
+    lt: Vladas Drakula
+    lv: Vlads III Drakuls
+    mg: Vlad the Impaler
+    mk: Влад Цепеш
+    ml: വ്ലാദ് മൂന്നാമൻ
+    ms: Vlad Si Penyula
+    nb: Vlad Țepeș
+    nl: Vlad Dracula
+    nn: Vlad III Dracula
+    pl: Wład Palownik
+    pnb: ولاد سوم
+    ps: دریم ولاډ (ډراکول)
+    pt: Vlad, o Empalador
+    pt-br: Vlad, o Empalador
+    ro: Vlad Țepeș
+    ru: Влад III Цепеш
+    sco: Vlad the Impaler
+    sh: Vlad III Tepeš
+    sk: Vlad III.
+    sl: Vlad III. Drakula
+    so: Daraakoola
+    sq: Vlad Sunduesi
+    sr: Влад Цепеш III
+    su: Vlad Drakula
+    sv: Vlad III Dracula
+    szl: Vlad Ţepeş
+    th: วลาดที่ 3 นักเสียบ
+    tr: Vlad Dracula
+    tt: Влад III Дракула
+    uk: Влад III Дракула
+    vi: Vlad Tepes
+    war: Vlad III Ţepeş
+    wuu: 弗拉德三世
+    xmf: ვლად III ცეპეში
+    yi: וולאד דער דורכשטעכער
+    yue: 弗拉德三世
+    zh: 弗拉德三世
 ---
-
 # [[1431-Vlad_the_Impaler+1476]] 
 
 #is_/same_as :: [[../../../../../../../../../../WikiData/WD~Vlad_the_Impaler,43715|WD~Vlad_the_Impaler,43715]]  

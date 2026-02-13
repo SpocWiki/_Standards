@@ -1,11 +1,34 @@
 ---
 aliases:
-  - Kessler syndrome
-  - Kessler effect
-  - collisional cascading
-  - ablation cascade
-  - Kessler_Syndrome
-  - Kessler Syndrome
+- ablation cascade
+- collisional cascading
+- Keslera sindroms
+- Keslerio sindromas
+- Kessler effect
+- Kessler sindromea
+- Kessler syndrome
+- Kessler-szindróma
+- Kesslerin syndrooma
+- Kesslerjev sindrom
+- Kesslersyndrom
+- Kesslersyndromet
+- Kessler_Syndrome
+- Kesslerův syndrom
+- sindrom Kessler
+- sindrome di Kessler
+- sindromo de Kessler
+- sindromul Kessler
+- syndrom Kesslera
+- syndrome de Kessler
+- síndrome de Kessler
+- Кеслеров синдром
+- синдром Кесслера
+- סינדרום קסלר
+- سندروم کسلر
+- متلازمة كيسلر
+- ケスラーシンドローム
+- 凯斯勒现象
+- 케슬러 증후군
 has_id_wikidata: Q693564
 has_cause: '[[_Standards/WikiData/WD~space_debris,275450]]'
 instance_of: '[[_Standards/WikiData/WD~hazard,1132455]]'
@@ -14,8 +37,39 @@ discoverer_or_inventor: '[[_Standards/WikiData/WD~Donald_J._Kessler,5294575]]'
 facet_of: '[[_Standards/WikiData/WD~artificial_satellite_of_the_Earth,12832168]]'
 time_of_discovery_or_invention: 1978-01-01T00:00:00Z
 Wolfram_Language_entity_code: Entity["PhysicalEffect", "KesslerSyndrome"]
+dv_has_:
+  name_:
+    ar: متلازمة كيسلر
+    ca: síndrome de Kessler
+    cs: Kesslerův syndrom
+    de: Kesslersyndrom
+    en: Kessler syndrome
+    eo: sindromo de Kessler
+    es: síndrome de Kessler
+    eu: Kessler sindromea
+    fa: سندروم کسلر
+    fi: Kesslerin syndrooma
+    fr: syndrome de Kessler
+    he: סינדרום קסלר
+    hu: Kessler-szindróma
+    id: sindrom Kessler
+    it: sindrome di Kessler
+    ja: ケスラーシンドローム
+    ko: 케슬러 증후군
+    lt: Keslerio sindromas
+    lv: Keslera sindroms
+    nb: Kesslersyndromet
+    nl: Kessler syndrome
+    pl: syndrom Kesslera
+    pt: síndrome de Kessler
+    ro: sindromul Kessler
+    ru: синдром Кесслера
+    sl: Kesslerjev sindrom
+    sr: Кеслеров синдром
+    sv: Kesslersyndromet
+    uk: синдром Кесслера
+    zh: 凯斯勒现象
 ---
-
 # [[Kessler_Syndrome]] 
 
 #is_/same_as :: [[WD~Kessler_Syndrome,693564]] 

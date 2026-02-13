@@ -1,32 +1,61 @@
 ---
 aliases:
-  - Orosirian
-  - Риац
-  - Rhyak
-  - Rhyacien
-  - Rhyacium
-  - Ryaciense
-  - Rhyac
-  - Ryak
-  - rhyaci
-  - rhyaciano
-  - リヤシアン紀
-  - Riacis
-  - Rhyaciën
-  - Ryasium
-  - Riak
-  - Riaciano
-  - rhyacium
-  - rhyacij
-  - ryacium
-  - 层侵纪
+- an Tréimhse Riasach
+- Kỷ Rhyax
+- Orosirian
+- racij
+- Rhyac
+- rhyaci
+- Rhyacian
+- rhyaciano
+- Rhyaciar
+- Rhyacien
+- rhyacij
+- Rhyacium
+- Rhyaciën
+- Rhyak
+- Rhyaseg
+- Riaciano
+- Riacianu
+- riacij
+- riacinis
+- Riacis
+- Riacià
+- Riak
+- Rias dövrü
+- Riasia
+- Riasium
+- Rijacij
+- Riyasiyen
+- Riásico
+- Ryaciense
+- ryacium
+- Ryak
+- Ryasium
+- Ryasiy dáwiri
+- ryax
+- ріацій
+- Ријацијан
+- Риац
+- рыасій
+- рясий
+- ראייק
+- الرايسي
+- ریاسین
+- राएसियाई कल्प
+- ยุคไรเอเซียน
+- リィアキアン
+- リヤシアン紀
+- 层侵纪
+- 層侵紀
+- 리아시아기
 has_id_wikidata: Q870511
 instance_of:
-  - "[[_Standards/WikiData/WD~period,392928]]"
-  - "[[_Standards/WikiData/WD~system,403523]]"
-named_after: "[[_Standards/WikiData/WD~lava_flow,2512740]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Rhyacian,131219301]]"
+- '[[_Standards/WikiData/WD~period,392928]]'
+- '[[_Standards/WikiData/WD~system,403523]]'
+named_after: '[[_Standards/WikiData/WD~lava_flow,2512740]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Rhyacian,131219301]]'
 end_time: -2050000000-01-01T00:00:00Z
 start_time: -2300000000-01-01T00:00:00Z
 Commons_category: Rhyacian
@@ -34,60 +63,91 @@ sRGB_color_hex_triplet: F75B89
 IPA_transcription: raɪˈeɪsiən
 dv_has_:
   duration_:
-    years: "2.500e+8"
-  previous_:
-    item: "[[Period-2500~Siderian]]"
-  next_:
-    item: "[[Period-2050~Orosirian]]"
+    years: 2.500e+8
   name_:
+    abbreviated: PP2
+    ar: الرايسي
+    az: Rias dövrü
+    be: рыасій
     bg: Риац
+    br: Rhyaseg
+    ca: Riacià
     cs: Rhyak
     da: Rhyacien
     de: Rhyacium
-    es: Ryaciense
+    en: Rhyacian
+    en-gb: Rhyacian
+    es: Riásico
     et: Rhyac
+    eu: Rhyaciar
+    fa: ریاسین
     fi: Ryak
     fr: Rhyacien
+    ga: an Tréimhse Riasach
+    he: ראייק
+    hi: राएसियाई कल्प
+    hr: racij
     hu: rhyaci
-    it: rhyaciano
-    ja: リヤシアン紀
-    lt: Riacis
-    nl: Rhyaciën
+    id: Riasium
+    it: Rhyaciano
+    ja: リィアキアン
+    kaa: Ryasiy dáwiri
+    ko: 리아시아기
+    lt: riacinis
+    mk: Ријацијан
+    ms: Riasia
+    nl: Rhyacium
+    nn: ryax
     no: Ryasium
-    pl: Riak
-    pt: Riaciano
+    pl: riak
+    pt: Rhyaciano
+    ru: рясий
+    scn: Riacianu
+    sh: Rijacij
     sk: rhyacium
-    sl: rhyacij
+    sl: riacij
     sv: ryacium
+    th: ยุคไรเอเซียน
+    tr: Riyasiyen
+    uk: ріацій
+    vi: Kỷ Rhyax
+    wuu: 层侵纪
+    yue: 層侵紀
     zh: 层侵纪
-    abbreviated: PP2
-  time_:
-    started: "-2.300e9"
-    stopped: "-2.050e9"
+    zh-hans: 层侵纪
+    zh-hant: 層侵紀
+    zh-hk: 層侵紀
+  next_:
+    item: '[[Period-2050~Orosirian]]'
+  previous_:
+    item: '[[Period-2500~Siderian]]'
   text_of_:
-    color: "0xF75B89"
+    color: 0xF75B89
+  time_:
+    started: -2.300e9
+    stopped: -2.050e9
 dv_is_:
   same_as:
-    - "[[WD~Rhyacian,870511]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2300~Rhyacian|Period-2300~Rhyacian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2300~Rhyacian.public|Period-2300~Rhyacian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2300~Rhyacian.internal|Period-2300~Rhyacian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2300~Rhyacian.protect|Period-2300~Rhyacian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2300~Rhyacian.private|Period-2300~Rhyacian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2300~Rhyacian.personal|Period-2300~Rhyacian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2300~Rhyacian.secret|Period-2300~Rhyacian.secret]]"
-dv_has_duration_years: "2.500e+8"
-dv_has_previous_item: "[[Period-2500~Siderian]]"
-dv_has_next_item: "[[Period-2050~Orosirian]]"
+  - '[[WD~Rhyacian,870511]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2300~Rhyacian|Period-2300~Rhyacian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2300~Rhyacian.public|Period-2300~Rhyacian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2300~Rhyacian.internal|Period-2300~Rhyacian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2300~Rhyacian.protect|Period-2300~Rhyacian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2300~Rhyacian.private|Period-2300~Rhyacian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2300~Rhyacian.personal|Period-2300~Rhyacian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2300~Rhyacian.secret|Period-2300~Rhyacian.secret]]'
+dv_has_duration_years: 2.500e+8
+dv_has_previous_item: '[[Period-2500~Siderian]]'
+dv_has_next_item: '[[Period-2050~Orosirian]]'
 dv_is_same_as:
-  - "[[WD~Rhyacian,870511]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2300~Rhyacian|Period-2300~Rhyacian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2300~Rhyacian.public|Period-2300~Rhyacian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2300~Rhyacian.internal|Period-2300~Rhyacian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2300~Rhyacian.protect|Period-2300~Rhyacian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2300~Rhyacian.private|Period-2300~Rhyacian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2300~Rhyacian.personal|Period-2300~Rhyacian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2300~Rhyacian.secret|Period-2300~Rhyacian.secret]]"
+- '[[WD~Rhyacian,870511]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2300~Rhyacian|Period-2300~Rhyacian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2300~Rhyacian.public|Period-2300~Rhyacian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2300~Rhyacian.internal|Period-2300~Rhyacian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2300~Rhyacian.protect|Period-2300~Rhyacian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2300~Rhyacian.private|Period-2300~Rhyacian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2300~Rhyacian.personal|Period-2300~Rhyacian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2300~Rhyacian.secret|Period-2300~Rhyacian.secret]]'
 dv_has_name_bg: Риац
 dv_has_name_cs: Rhyak
 dv_has_name_da: Rhyacien
@@ -109,9 +169,9 @@ dv_has_name_sl: rhyacij
 dv_has_name_sv: ryacium
 dv_has_name_zh: 层侵纪
 dv_has_name_abbreviated: PP2
-dv_has_time_started: "-2.300e9"
-dv_has_time_stopped: "-2.050e9"
-dv_has_text_of_color: "0xF75B89"
+dv_has_time_started: -2.300e9
+dv_has_time_stopped: -2.050e9
+dv_has_text_of_color: 0xF75B89
 ---
 # [[Period-2300~Rhyacian]] 
 

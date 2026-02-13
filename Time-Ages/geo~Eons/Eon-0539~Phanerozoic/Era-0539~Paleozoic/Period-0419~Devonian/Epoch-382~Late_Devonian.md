@@ -1,100 +1,243 @@
 ---
 aliases:
-  - Late_Devonian
-  - Late Devonian
-  - Къѿен Девон
-  - Svrchní devon
-  - Sen Devon
-  - Spätes Devon
-  - Hilis-Devon
-  - Myöhäis-Devoni
-  - késő-devon
-  - 後期デボン紀
-  - Vėlyvasis Devonas
-  - Laat Devoon
-  - Sen devon
-  - Późny Dewon
-  - mladší devón
-  - pozni devon
-  - yngre devon
-  - 晚泥盆世
+- .devon. cedran.
+- an Tréimhse Dheavónach
+- Deboniyano
+- Defonaidd
+- Defoniyaan
+- Devoan
+- devon
+- Devon (Geologii)
+- Devon (period)
+- Devon dáwiri
+- Devon dövrü
+- Devon-kì
+- devonas
+- Devonian
+- Devoniano
+- Devoniar
+- Devonikausi
+- devonio
+- Devonium
+- Devoniyen
+- Devonià
+- Devons
+- Devontímabilið
+- Devoon
+- devón
+- Devónico
+- Devónicu
+- dewon
+- Dévonien
+- Hilis-Devon
+- késő-devon
+- Kỷ Devon
+- Laat Devoon
+- Late Devonian
+- Late_Devonian
+- mladší devón
+- Myöhäis-Devoni
+- pozni devon
+- Późny Dewon
+- Sen Devon
+- Spätes Devon
+- Svrchní devon
+- Vėlyvasis Devonas
+- yngre devon
+- Zaman Devon
+- Ìgbà Dẹfoníà
+- Δεβόνια περίοδος
+- Девон
+- девон вакыт
+- Девон кезеңі
+- Девон мезгили
+- Девон осоро
+- Девон тапхӑрӗ
+- девонский период
+- девонський період
+- дэвонскі перыяд
+- дэвонскі пэрыяд
+- Къѿен Девон
+- Դևոնի ժամանակաշրջան
+- דבון
+- العصر الديفوني
+- دونین
+- دوونین
+- ڈیونیان
+- डिवोनी कल्प
+- मत्स्ययुग
+- ডেভোনিয়ান
+- ਡੀਵੋਨਿਅਨ
+- டெவோனியக் காலம்
+- ಡಿವೋನಿಯನ್
+- ഡെവോണിയൻ കാലഘട്ടം
+- ยุคดีโวเนียน
+- ဒေဗွန်ယုဂ်
+- დევონური სისტემა
+- デボン紀
+- 後期デボン紀
+- 晚泥盆世
+- 泥盆紀
+- 泥盆纪
+- 데본기
 ischart: UpperDevonian
 has_id_wikidata: Q65955
 named_by:
-  - "[[_Standards/WikiData/WD~Adam_Sedgwick,350891]]"
-  - "[[_Standards/WikiData/WD~Roderick_Murchison,_1st_Baronet,361900]]"
+- '[[_Standards/WikiData/WD~Adam_Sedgwick,350891]]'
+- '[[_Standards/WikiData/WD~Roderick_Murchison,_1st_Baronet,361900]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~period,392928]]"
-  - "[[_Standards/WikiData/WD~system,403523]]"
+- '[[_Standards/WikiData/WD~period,392928]]'
+- '[[_Standards/WikiData/WD~system,403523]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Devonian,8375750]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-different_from: "[[_Standards/WikiData/WD~Devon,23156]]"
-named_after: "[[_Standards/WikiData/WD~Devon,23156]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Devonian,8375750]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+different_from: '[[_Standards/WikiData/WD~Devon,23156]]'
+named_after: '[[_Standards/WikiData/WD~Devon,23156]]'
 Commons_category: Devonian
 start_time: -419200000-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide%20Paleographic%20Map%20of%20Earth%2C%20390%20Ma%20%28Eifelian%20Age%29.png
 IPA_transcription: /dəˈvoʊni.ən/
 sRGB_color_hex_triplet: CB8C37
-Dewey_Decimal_Classification: "551.74"
+Dewey_Decimal_Classification: 551.74
 end_time: -358900000-01-01T00:00:00Z
 dv_has_:
   duration_:
-    years: "2.380e+7"
-  previous_:
-    item: "[[Epoch-393~Middle_Devonian]]"
-  next_:
-    item: "[[../Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian|Age~1~Tournaisian]]"
+    years: 2.380e+7
   name_:
-    bg: Къѿен Девон
-    cs: Svrchní devon
-    da: Sen Devon
-    de: Spätes Devon
-    et: Hilis-Devon
-    fi: Myöhäis-Devoni
-    hu: késő-devon
-    ja: 後期デボン紀
-    lt: Vėlyvasis Devonas
-    nl: Laat Devoon
-    no: Sen devon
-    pl: Późny Dewon
-    sk: mladší devón
-    sl: pozni devon
-    sv: yngre devon
-    zh: 晚泥盆世
     abbreviated: D3
-  time_:
-    started: "-382.7e6"
-    stopped: "-358.9e6"
+    af: Devoon
+    ar: العصر الديفوني
+    ast: Devónicu
+    az: Devon dövrü
+    ba: Девон осоро
+    be: дэвонскі перыяд
+    be-tarask: дэвонскі пэрыяд
+    bg: Девон
+    bjn: Devonian
+    bn: ডেভোনিয়ান
+    br: Devonian
+    bs: Devon (period)
+    ca: Devonià
+    cdo: Devonian
+    cs: devon
+    cv: Девон тапхӑрӗ
+    cy: Defonaidd
+    da: Devon
+    de: Devon
+    el: Δεβόνια περίοδος
+    en: Devonian
+    en-gb: Devonian
+    eo: devonio
+    es: Devónico
+    et: Devon
+    eu: Devoniar
+    fa: دوونین
+    fi: Devonikausi
+    fr: Dévonien
+    frr: Devon (Geologii)
+    ga: an Tréimhse Dheavónach
+    gl: Devoniano
+    gsw: Devon
+    he: דבון
+    hi: डिवोनी कल्प
+    hr: devon
+    hu: devon
+    hy: Դևոնի ժամանակաշրջան
+    id: Devon
+    is: Devontímabilið
+    it: Devoniano
+    ja: デボン紀
+    jbo: .devon. cedran.
+    ka: დევონური სისტემა
+    kaa: Devon dáwiri
+    kk: Девон кезеңі
+    kn: ಡಿವೋನಿಯನ್
+    ko: 데본기
+    ky: Девон мезгили
+    la: Devonium
+    lb: Devon
+    lfn: Devonian
+    li: Devoan
+    lt: devonas
+    lv: Devons
+    mk: девон
+    ml: ഡെവോണിയൻ കാലഘട്ടം
+    ms: Zaman Devon
+    my: ဒေဗွန်ယုဂ်
+    mzn: دونین
+    nan: Devon-kì
+    nb: Devon
+    nds: Devon
+    ne: मत्स्ययुग
+    nl: Devoon
+    nn: devon
+    no: Sen devon
+    oc: Devonian
+    pa: ਡੀਵੋਨਿਅਨ
+    pl: dewon
+    pms: Devonian
+    pnb: ڈیونیان
+    pt: Devoniano
+    ro: Devonian
+    ru: девонский период
+    sh: Devon
+    si: Devonian
+    sk: devón
+    sl: devon
+    so: Defoniyaan
+    sr: девон
+    sr-ec: девон
+    sv: Devon
+    ta: டெவோனியக் காலம்
+    th: ยุคดีโวเนียน
+    tl: Deboniyano
+    tr: Devoniyen
+    udm: девон вакыт
+    uk: девонський період
+    uz: Devon
+    vi: Kỷ Devon
+    war: Devonian
+    wuu: 泥盆纪
+    yo: Ìgbà Dẹfoníà
+    yue: 泥盆紀
+    zh: 泥盆纪
+    zh-hant: 泥盆紀
+  next_:
+    item: '[[../Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian|Age~1~Tournaisian]]'
+  previous_:
+    item: '[[Epoch-393~Middle_Devonian]]'
   text_of_:
-    color: "0xF1E19D"
+    color: 0xF1E19D
+  time_:
+    started: -382.7e6
+    stopped: -358.9e6
 dv_is_:
   same_as:
-    - "[[WD~Late_Devonian,65955]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian|Epoch-382~Late_Devonian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian.public|Epoch-382~Late_Devonian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian.internal|Epoch-382~Late_Devonian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian.protect|Epoch-382~Late_Devonian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian.private|Epoch-382~Late_Devonian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian.personal|Epoch-382~Late_Devonian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian.secret|Epoch-382~Late_Devonian.secret]]"
-dv_has_duration_years: "2.380e+7"
-dv_has_previous_item: "[[Epoch-393~Middle_Devonian]]"
-dv_has_next_item: "[[../Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian|Age~1~Tournaisian]]"
+  - '[[WD~Late_Devonian,65955]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian|Epoch-382~Late_Devonian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian.public|Epoch-382~Late_Devonian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian.internal|Epoch-382~Late_Devonian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian.protect|Epoch-382~Late_Devonian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian.private|Epoch-382~Late_Devonian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian.personal|Epoch-382~Late_Devonian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian.secret|Epoch-382~Late_Devonian.secret]]'
+dv_has_duration_years: 2.380e+7
+dv_has_previous_item: '[[Epoch-393~Middle_Devonian]]'
+dv_has_next_item: '[[../Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian|Age~1~Tournaisian]]'
 dv_is_same_as:
-  - "[[WD~Late_Devonian,65955]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian|Epoch-382~Late_Devonian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian.public|Epoch-382~Late_Devonian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian.internal|Epoch-382~Late_Devonian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian.protect|Epoch-382~Late_Devonian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian.private|Epoch-382~Late_Devonian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian.personal|Epoch-382~Late_Devonian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian.secret|Epoch-382~Late_Devonian.secret]]"
+- '[[WD~Late_Devonian,65955]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian|Epoch-382~Late_Devonian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian.public|Epoch-382~Late_Devonian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian.internal|Epoch-382~Late_Devonian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian.protect|Epoch-382~Late_Devonian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian.private|Epoch-382~Late_Devonian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian.personal|Epoch-382~Late_Devonian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian.secret|Epoch-382~Late_Devonian.secret]]'
 dv_has_name_bg: Къѿен Девон
 dv_has_name_cs: Svrchní devon
 dv_has_name_da: Sen Devon
@@ -112,11 +255,10 @@ dv_has_name_sl: pozni devon
 dv_has_name_sv: yngre devon
 dv_has_name_zh: 晚泥盆世
 dv_has_name_abbreviated: D3
-dv_has_time_started: "-382.7e6"
-dv_has_time_stopped: "-358.9e6"
-dv_has_text_of_color: "0xF1E19D"
+dv_has_time_started: -382.7e6
+dv_has_time_stopped: -358.9e6
+dv_has_text_of_color: 0xF1E19D
 ---
-
 # [[Epoch-382~Late_Devonian]] 
 
 #is_a_/time_/Epoch 

@@ -1,57 +1,164 @@
 ---
 aliases:
-  - Epoch
-  - Epoche
-  - Epochs
-  - Epochen
-  - geo~Epoch
+- ajastik
+- dem
+- epoc
+- epoca
+- Epoch
+- epocha
+- Epoche
+- Epochen
+- Epochs
+- epocă (geologie)
+- epog
+- epoha
+- Epoha (geologija)
+- epok
+- epoka geologiczna
+- epoke
+- epookki
+- Epòk
+- földtörténeti kor
+- Garai
+- geologia epoko
+- geologická epocha
+- geološka epoha
+- geo~Epoch
+- kala
+- sealad
+- thế địa chất
+- tijdvak
+- Çağ
+- època geològica
+- època zeołòzega
+- época
+- época geológica
+- época xeolóxica
+- époque géologique
+- ģeoloģiskā epoha
+- γεωλογική εποχή
+- геалагічная эпоха
+- геалягічная эпоха
+- геологічна епоха
+- геологическая эпоха
+- Геология эпохата
+- геолошка епоха
+- Замони геологӣ
+- תקופה גאולוגית
+- دور
+- فترة جيولوجية
+- युग (भौमिकी)
+- ეპოქა
+- 世
+- 世 (地質學)
+- 世 (地质学)
+- 세
 has_id_wikidata: Q754897
 described_by_source:
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
 different_from:
-  - "[[_Standards/WikiData/WD~epoch,507810]]"
-  - "[[_Standards/WikiData/WD~series,312468]]"
+- '[[_Standards/WikiData/WD~epoch,507810]]'
+- '[[_Standards/WikiData/WD~series,312468]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~subepoch,131461914]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~subepoch,131461914]]'
 part_of:
-  - "[[_Standards/WikiData/WD~period,392928]]"
-  - "[[_Standards/WikiData/WD~subperiod,2239359]]"
-standards_body: "[[_Standards/WikiData/WD~International_Commission_on_Stratigraphy,402104]]"
+- '[[_Standards/WikiData/WD~period,392928]]'
+- '[[_Standards/WikiData/WD~subperiod,2239359]]'
+standards_body: '[[_Standards/WikiData/WD~International_Commission_on_Stratigraphy,402104]]'
 studied_by:
-  - "[[_Standards/WikiData/WD~geochronology,213891]]"
-  - "[[_Standards/WikiData/WD~stratigraphy,134783]]"
+- '[[_Standards/WikiData/WD~geochronology,213891]]'
+- '[[_Standards/WikiData/WD~stratigraphy,134783]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~geochronological_unit,4005761]]"
-  - "[[_Standards/WikiData/WD~unit_of_time,1790144]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Geological_epoch,87077373]]"
+- '[[_Standards/WikiData/WD~geochronological_unit,4005761]]'
+- '[[_Standards/WikiData/WD~unit_of_time,1790144]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Geological_epoch,87077373]]'
 dv_is_:
-  part_of: "[[../geo~Periods|geo~Periods]]"
+  part_of: '[[../geo~Periods|geo~Periods]]'
   same_as:
-    - "[[../../../../WikiData/WD~Epoch,754897|WD~Epoch,754897]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epoch|geo~Epoch]]"
-    - "[[/_public/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epoch.public|geo~Epoch.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epoch.internal|geo~Epoch.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epoch.protect|geo~Epoch.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epoch.private|geo~Epoch.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epoch.personal|geo~Epoch.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epoch.secret|geo~Epoch.secret]]"
+  - '[[../../../../WikiData/WD~Epoch,754897|WD~Epoch,754897]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epoch|geo~Epoch]]'
+  - '[[/_public/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epoch.public|geo~Epoch.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epoch.internal|geo~Epoch.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epoch.protect|geo~Epoch.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epoch.private|geo~Epoch.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epoch.personal|geo~Epoch.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epoch.secret|geo~Epoch.secret]]'
 dv_has_:
-  parts: "[[geo~Epoch/geo~Ages]]"
-dv_is_part_of: "[[../geo~Periods|geo~Periods]]"
-dv_has_parts: "[[geo~Epoch/geo~Ages]]"
+  name_:
+    af: epog
+    ar: فترة جيولوجية
+    be: геалагічная эпоха
+    be-tarask: геалягічная эпоха
+    bs: Epoha (geologija)
+    ca: època geològica
+    cs: geologická epocha
+    cy: epoc
+    da: epoke
+    de: Epoche
+    el: γεωλογική εποχή
+    en: epoch
+    eo: geologia epoko
+    es: época
+    et: ajastik
+    eu: Garai
+    fa: دور
+    fi: epookki
+    fr: époque géologique
+    ga: sealad
+    gl: época xeolóxica
+    he: תקופה גאולוגית
+    hi: युग (भौमिकी)
+    hr: epoha
+    ht: Epòk
+    hu: földtörténeti kor
+    ia: epocha
+    id: kala
+    it: epoca
+    ja: 世
+    ka: ეპოქა
+    ko: 세
+    ku: dem
+    ku-latn: dem
+    la: epocha
+    lv: ģeoloģiskā epoha
+    mk: геолошка епоха
+    nb: epoke
+    nl: tijdvak
+    nn: epoke
+    pl: epoka geologiczna
+    pt: época geológica
+    ro: epocă (geologie)
+    ru: геологическая эпоха
+    sah: Геология эпохата
+    sh: Epoha (geologija)
+    sl: epoha
+    sr: геолошка епоха
+    sr-ec: геолошка епоха
+    sr-el: geološka epoha
+    sv: epok
+    tg: Замони геологӣ
+    tr: Çağ
+    uk: геологічна епоха
+    vec: època zeołòzega
+    vi: thế địa chất
+    yue: 世
+    zh: 世 (地质学)
+    zh-hant: 世 (地質學)
+  parts: '[[geo~Epoch/geo~Ages]]'
+dv_is_part_of: '[[../geo~Periods|geo~Periods]]'
+dv_has_parts: '[[geo~Epoch/geo~Ages]]'
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Epoch,754897|WD~Epoch,754897]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epoch|geo~Epoch]]"
-  - "[[/_public/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epoch.public|geo~Epoch.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epoch.internal|geo~Epoch.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epoch.protect|geo~Epoch.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epoch.private|geo~Epoch.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epoch.personal|geo~Epoch.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epoch.secret|geo~Epoch.secret]]"
+- '[[../../../../WikiData/WD~Epoch,754897|WD~Epoch,754897]]'
+- '[[/_Standards/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epoch|geo~Epoch]]'
+- '[[/_public/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epoch.public|geo~Epoch.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epoch.internal|geo~Epoch.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epoch.protect|geo~Epoch.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epoch.private|geo~Epoch.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epoch.personal|geo~Epoch.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epoch.secret|geo~Epoch.secret]]'
 ---
-
 # [[geo~Epoch]] 
 
 is_part_of = `=this.dv_is_part_of` 

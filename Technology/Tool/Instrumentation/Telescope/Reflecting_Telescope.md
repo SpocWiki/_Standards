@@ -1,23 +1,133 @@
 ---
-has_time_started: 1721-01-01 
+has_time_started: 1721-01-01
 aliases:
+- Kính viễn vọng phản xạ
+- odsevni teleskop
+- peegelteleskoop
+- peilikaukoputket
+- reflectin telescope
+- reflecting telescope
+- reflekta teleskopo
+- reflektor
+- Reflektorius
+- Reflektors
+- Reflektorski teleskop
+- reflektujući teleskop
+- spegelteleskop
+- speilteleskop
+- Spejlteleskop
+- spiegeltelescoop
+- Spiegelteleskop
+- teileascóp frithchaiteach
+- telescop cu reflexie
+- telescopi reflector
+- telescopio reflector
+- telescopio riflettore
+- Telescopiu reflector
+- telescópio reflector
+- telesgop adlewyrchol
+- teleskop pantulan
+- Teleskop reflektor
+- teleskop zwierciadlany
+- teleskopio islatzailea
+- Teleskòp reflektè
+- télescope réflecteur
+- tükrös távcső
+- yansımalı teleskop
+- κατοπτρικό τηλεσκόπιο
+- рефлектор
+- Рефлекторен телескоп
+- рефлекторски телескоп
+- рефлектујући телескоп
+- телескоп-рефлектор
+- тэлескоп-адбівальнік
+- Ռեֆլեկտոր
+- טלסקופ מחזיר אור
+- تلسکوپ بازتابی
+- مقراب عاكس
+- परावर्ती दूरदर्शी
+- প্রতিফলক দূরবীক্ষণ যন্ত্র
+- தெறிப்புவகைத் தொலைநோக்கி
+- กล้องโทรทรรศน์สะท้อนแสง
+- 反射望远镜
+- 反射望遠鏡
+- 반사 망원경
 has_id_wikidata: Q35221
-discoverer_or_inventor: "[[_Standards/WikiData/WD~James_Gregory,313906]]"
+discoverer_or_inventor: '[[_Standards/WikiData/WD~James_Gregory,313906]]'
 creator:
-  - "[[_Standards/WikiData/WD~John_Hadley,445128]]"
-  - "[[_Standards/WikiData/WD~Isaac_Newton,935]]"
-instance_of: "[[_Standards/WikiData/WD~astronomical_instrument,751997]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- '[[_Standards/WikiData/WD~John_Hadley,445128]]'
+- '[[_Standards/WikiData/WD~Isaac_Newton,935]]'
+instance_of: '[[_Standards/WikiData/WD~astronomical_instrument,751997]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
 start_time: 1721-01-01T00:00:00Z
-has_part_s_: "[[_Standards/WikiData/WD~mirror,35197]]"
-subclass_of: "[[_Standards/WikiData/WD~optical_telescope,35273]]"
-Nomenclature_for_Museum_Cataloging: "8402"
+has_part_s_: '[[_Standards/WikiData/WD~mirror,35197]]'
+subclass_of: '[[_Standards/WikiData/WD~optical_telescope,35273]]'
+Nomenclature_for_Museum_Cataloging: 8402
 Commons_category: Reflecting telescopes
 video:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/M1grinda94%20sd.ogv
-  - http://commons.wikimedia.org/wiki/Special:FilePath/VLTMirrorCastG93%20SD.ogv
+- http://commons.wikimedia.org/wiki/Special:FilePath/M1grinda94%20sd.ogv
+- http://commons.wikimedia.org/wiki/Special:FilePath/VLTMirrorCastG93%20SD.ogv
+dv_has_:
+  name_:
+    ar: مقراب عاكس
+    ast: Telescopiu reflector
+    az: Reflektor
+    be-tarask: тэлескоп-адбівальнік
+    bg: Рефлекторен телескоп
+    bn: প্রতিফলক দূরবীক্ষণ যন্ত্র
+    ca: telescopi reflector
+    cs: reflektor
+    cy: telesgop adlewyrchol
+    da: Spejlteleskop
+    de: Spiegelteleskop
+    el: κατοπτρικό τηλεσκόπιο
+    en: reflecting telescope
+    eo: reflekta teleskopo
+    es: telescopio reflector
+    et: peegelteleskoop
+    eu: teleskopio islatzailea
+    fa: تلسکوپ بازتابی
+    fi: peilikaukoputket
+    fr: télescope réflecteur
+    ga: teileascóp frithchaiteach
+    gl: Telescopio reflector
+    he: טלסקופ מחזיר אור
+    hi: परावर्ती दूरदर्शी
+    hr: Reflektorski teleskop
+    ht: Teleskòp reflektè
+    hu: tükrös távcső
+    hy: Ռեֆլեկտոր
+    id: Teleskop reflektor
+    it: telescopio riflettore
+    ja: 反射望遠鏡
+    kk: рефлектор
+    ko: 반사 망원경
+    lt: Reflektorius
+    lv: Reflektors
+    mk: рефлекторски телескоп
+    ms: teleskop pantulan
+    nb: speilteleskop
+    nl: spiegeltelescoop
+    nn: spegelteleskop
+    pl: teleskop zwierciadlany
+    pt: telescópio reflector
+    ro: telescop cu reflexie
+    ru: телескоп-рефлектор
+    sco: reflectin telescope
+    sk: reflektor
+    sl: odsevni teleskop
+    sr: рефлектујући телескоп
+    sr-ec: рефлектујући телескоп
+    sr-el: reflektujući teleskop
+    sv: spegelteleskop
+    ta: தெறிப்புவகைத் தொலைநோக்கி
+    th: กล้องโทรทรรศน์สะท้อนแสง
+    tr: yansımalı teleskop
+    uk: рефлектор
+    vi: Kính viễn vọng phản xạ
+    yue: 反射望遠鏡
+    zh: 反射望远镜
 ---
-
 # [[Reflecting_Telescope]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Reflecting_telescope,35221|WD~Reflecting_telescope,35221]] 

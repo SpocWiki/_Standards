@@ -1,7 +1,22 @@
 ---
 has_id_wikidata: Q7390408
+dv_has_:
+  name_:
+    en: SIMSCRIPT
+    ga: SIMSCRIPT
+    io: SIMSCRIPT
+    ko: 심스크립트
+    ml: സിംസ്ക്രിപ്റ്റ്
+    mul: SIMSCRIPT
+    nb: SIMSCRIPT
+    nn: SIMSCRIPT
+    se: SIMSCRIPT
+    zh: SIMSCRIPT
+aliases:
+- SIMSCRIPT
+- സിംസ്ക്രിപ്റ്റ്
+- 심스크립트
 ---
-
 # [[Simscript]] 
 
 #is_a_/ComputerLanguage 

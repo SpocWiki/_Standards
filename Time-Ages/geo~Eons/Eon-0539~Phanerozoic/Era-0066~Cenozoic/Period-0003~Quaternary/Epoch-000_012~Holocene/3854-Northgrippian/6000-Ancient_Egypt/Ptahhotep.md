@@ -1,16 +1,29 @@
 ---
 aliases:
-  - Ptahhotep I
-  - Ptahhotpe
-  - Ptahhotep
+- Ptahhotep
+- Ptahhotep I
+- Ptahhotepovo ponaučenie
+- Ptahhotpe
+- Ptahotep
+- Ptá-Hotep
+- Птахатэп
+- Птахотеп
+- Птаххотеп
+- Պտահոթեպ
+- פתחותפ
+- بتاح حتب
+- پتاههتپ
+- プタハホテップ
+- 普塔霍特普
+- 프타호텝
 has_id_wikidata: Q573606
-notable_work: "[[_Standards/WikiData/WD~The_Maxims_of_Ptahhotep,963743]]"
-occupation: "[[_Standards/WikiData/WD~philosopher,4964182]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+notable_work: '[[_Standards/WikiData/WD~The_Maxims_of_Ptahhotep,963743]]'
+occupation: '[[_Standards/WikiData/WD~philosopher,4964182]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 floruit: -2500-01-01T00:00:00Z
-work_location: "[[_Standards/WikiData/WD~Ancient_Egypt,11768]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Ancient_Egypt,11768]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+work_location: '[[_Standards/WikiData/WD~Ancient_Egypt,11768]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Ancient_Egypt,11768]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 date_of_death: -2400-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ptahhotep-Khamerernebty.jpg
 ISNI: 000000007247357X
@@ -18,25 +31,65 @@ Commons_category: Ptahhotep
 date_of_birth: -2450-01-01T00:00:00Z
 dv_is_:
   same_as:
-    - "[[../../../../../../../../WikiData/WD~Ptahhotep,573606|WD~Ptahhotep,573606]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6000-Ancient_Egypt/Ptahhotep|Ptahhotep]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6000-Ancient_Egypt/Ptahhotep.public|Ptahhotep.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6000-Ancient_Egypt/Ptahhotep.internal|Ptahhotep.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6000-Ancient_Egypt/Ptahhotep.protect|Ptahhotep.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6000-Ancient_Egypt/Ptahhotep.private|Ptahhotep.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6000-Ancient_Egypt/Ptahhotep.personal|Ptahhotep.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6000-Ancient_Egypt/Ptahhotep.secret|Ptahhotep.secret]]"
+  - '[[../../../../../../../../WikiData/WD~Ptahhotep,573606|WD~Ptahhotep,573606]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6000-Ancient_Egypt/Ptahhotep|Ptahhotep]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6000-Ancient_Egypt/Ptahhotep.public|Ptahhotep.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6000-Ancient_Egypt/Ptahhotep.internal|Ptahhotep.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6000-Ancient_Egypt/Ptahhotep.protect|Ptahhotep.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6000-Ancient_Egypt/Ptahhotep.private|Ptahhotep.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6000-Ancient_Egypt/Ptahhotep.personal|Ptahhotep.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6000-Ancient_Egypt/Ptahhotep.secret|Ptahhotep.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Ptahhotep,573606|WD~Ptahhotep,573606]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6000-Ancient_Egypt/Ptahhotep|Ptahhotep]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6000-Ancient_Egypt/Ptahhotep.public|Ptahhotep.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6000-Ancient_Egypt/Ptahhotep.internal|Ptahhotep.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6000-Ancient_Egypt/Ptahhotep.protect|Ptahhotep.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6000-Ancient_Egypt/Ptahhotep.private|Ptahhotep.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6000-Ancient_Egypt/Ptahhotep.personal|Ptahhotep.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6000-Ancient_Egypt/Ptahhotep.secret|Ptahhotep.secret]]"
+- '[[../../../../../../../../WikiData/WD~Ptahhotep,573606|WD~Ptahhotep,573606]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6000-Ancient_Egypt/Ptahhotep|Ptahhotep]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6000-Ancient_Egypt/Ptahhotep.public|Ptahhotep.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6000-Ancient_Egypt/Ptahhotep.internal|Ptahhotep.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6000-Ancient_Egypt/Ptahhotep.protect|Ptahhotep.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6000-Ancient_Egypt/Ptahhotep.private|Ptahhotep.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6000-Ancient_Egypt/Ptahhotep.personal|Ptahhotep.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6000-Ancient_Egypt/Ptahhotep.secret|Ptahhotep.secret]]'
+dv_has_:
+  name_:
+    ar: بتاح حتب
+    ast: Ptahhotep
+    be-tarask: Птахатэп
+    ca: Ptahhotep
+    cs: Ptahhotep
+    de: Ptahhotep
+    en: Ptahhotep
+    es: Ptahhotep
+    et: Ptahhotep
+    eu: Ptahhotep
+    fa: پتاههتپ
+    fr: Ptahhotep
+    gl: Ptahhotep
+    he: פתחותפ
+    hu: Ptahhotep
+    hy: Պտահոթեպ
+    it: Ptahhotep
+    ja: プタハホテップ
+    ko: 프타호텝
+    la: Ptahhotep
+    mg: Ptahhotep
+    nb: Ptahhotep
+    nl: Ptahhotep
+    pl: Ptahhotep
+    pt: Ptá-Hotep
+    pt-br: Ptá-Hotep
+    ro: Ptahhotep
+    ru: Птаххотеп
+    sh: Ptahhotep
+    sk: Ptahhotepovo ponaučenie
+    sl: Ptahotep
+    sq: Ptahhotep
+    sr: Птахотеп
+    sw: Ptahhotep
+    tr: Ptahhotep
+    uk: Птаххотеп
+    war: Ptahhotep
+    wuu: 普塔霍特普
+    zh: 普塔霍特普
 ---
-
 # [[Ptahhotep]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Ptahhotep,573606|WD~Ptahhotep,573606]]  

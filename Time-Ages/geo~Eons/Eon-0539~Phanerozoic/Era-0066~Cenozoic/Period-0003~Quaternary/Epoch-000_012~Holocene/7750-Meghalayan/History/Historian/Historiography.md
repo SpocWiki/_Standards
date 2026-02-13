@@ -1,57 +1,234 @@
 ---
 aliases:
+- Geschichtsschreibung
+- geschiedschrijving
+- hanesyddiaeth
+- historieskrivning
+- historiograafia
+- historiografi
+- historiografia
+- historiografie
+- historiografiija
+- historiografija
+- historiografijŏ
+- historiografio
+- Historiografy
+- historiografía
+- historiographia
+- historiographie
+- historiography
+- historiográfia
+- historiogrāfija
+- historiyografi
+- historyograpiya
+- HISTROGRAPHY
+- histôriôgrafia
+- ischriagrafi
+- istoriografia
+- istoriografie
+- istoriografija
+- jenotemipenav
+- Le̍k-sú-ha̍k
+- sagnaritun
+- staireolaíocht
+- storiografia
+- storiografie
+- sử chí học
+- tarixshunoslik
+- tarixşünaslıq
+- zgodovinopisje
+- ιστοριογραφία
+- історіографія
+- їсторїографїꙗ
+- гістарыяграфія
+- историографи
+- историографија
+- историография
+- тарихнамә
+- таърихнигорӣ
+- түүхийн товчоо
+- պատմագրություն
+- היסטוריוגרפיה
+- التأريخ
+- تاریخ لیکنه
+- تاریخ نگاری
+- تاریخنگاری
+- علم التأريخ
+- مؤرخ
+- इतिहास लेखन
+- इतिहासलेखन
+- ইতিহাস লিখনধারা
+- ਇਤਿਹਾਸਕਾਰੀ
+- வரலாற்றுவரைவியல்
+- ഹിസ്റ്റോറിയോഗ്രഫി
+- ประวัติศาสตร์นิพนธ์
+- ისტორიოგრაფია
+- ἱστοριογραφία
+- 史学史
+- 史學史
+- 력사학
+- 역사학
 has_id_wikidata: Q50675
 instance_of:
-  - "[[_Standards/WikiData/WD~umbrella_term,210588]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
+- '[[_Standards/WikiData/WD~umbrella_term,210588]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
 described_by_source:
-  - "[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-facet_of: "[[_Standards/WikiData/WD~study_of_history,1066186]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_historiography,2699662]]"
+- '[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+facet_of: '[[_Standards/WikiData/WD~study_of_history,1066186]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_historiography,2699662]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~history_of_historiography,2699662]]"
-  - "[[_Standards/WikiData/WD~historiography,30277550]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Historiography,30117093]]"
+- '[[_Standards/WikiData/WD~history_of_historiography,2699662]]'
+- '[[_Standards/WikiData/WD~historiography,30277550]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Historiography,30117093]]'
 different_from:
-  - "[[_Standards/WikiData/WD~historiography,30277550]]"
-  - "[[_Standards/WikiData/WD~school_of_history,107923750]]"
-practiced_by: "[[_Standards/WikiData/WD~historiographer,56314891]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Historiography,58221704]]"
-subclass_of: "[[_Standards/WikiData/WD~epistemology_of_history,109023778]]"
-is_the_study_of: "[[_Standards/WikiData/WD~history,309]]"
+- '[[_Standards/WikiData/WD~historiography,30277550]]'
+- '[[_Standards/WikiData/WD~school_of_history,107923750]]'
+practiced_by: '[[_Standards/WikiData/WD~historiographer,56314891]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Historiography,58221704]]'
+subclass_of: '[[_Standards/WikiData/WD~epistemology_of_history,109023778]]'
+is_the_study_of: '[[_Standards/WikiData/WD~history,309]]'
 Library_of_Congress_Classification: D13-D15
 Commons_category: Historiography
-Basisklassifikation: "15.01"
+Basisklassifikation: 15.01
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Thucydides%20pushkin02.jpg
 equivalent_class: http://kbpedia.org/knowledge-graph/reference-concept/?uri=Historiography
-Dewey_Decimal_Classification: "907.2"
+Dewey_Decimal_Classification: 907.2
 Provenio_UUID:
-  - b92e450b-1f35-4a56-b5aa-884e0a55fecb
-  - ed20bd41-758e-40d5-9e4e-51c592155e7f
+- b92e450b-1f35-4a56-b5aa-884e0a55fecb
+- ed20bd41-758e-40d5-9e4e-51c592155e7f
 UMLS_CUI: C0019663
 MeSH_tree_code: K01.400.441
 dv_is_:
   same_as:
-    - "[[../../../../../../../../../WikiData/WD~Historiography,50675]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Historiography|Historiography]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Historiography.public|Historiography.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Historiography.internal|Historiography.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Historiography.protect|Historiography.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Historiography.private|Historiography.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Historiography.personal|Historiography.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Historiography.secret|Historiography.secret]]"
+  - '[[../../../../../../../../../WikiData/WD~Historiography,50675]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Historiography|Historiography]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Historiography.public|Historiography.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Historiography.internal|Historiography.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Historiography.protect|Historiography.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Historiography.private|Historiography.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Historiography.personal|Historiography.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Historiography.secret|Historiography.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../../WikiData/WD~Historiography,50675]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Historiography|Historiography]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Historiography.public|Historiography.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Historiography.internal|Historiography.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Historiography.protect|Historiography.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Historiography.private|Historiography.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Historiography.personal|Historiography.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Historiography.secret|Historiography.secret]]"
+- '[[../../../../../../../../../WikiData/WD~Historiography,50675]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Historiography|Historiography]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Historiography.public|Historiography.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Historiography.internal|Historiography.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Historiography.protect|Historiography.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Historiography.private|Historiography.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Historiography.personal|Historiography.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Historiography.secret|Historiography.secret]]'
+dv_has_:
+  name_:
+    ar: علم التأريخ
+    arz: التأريخ
+    ast: historiografía
+    az: tarixşünaslıq
+    ba: тарихнамә
+    be: гістарыяграфія
+    be-tarask: гістарыяграфія
+    bg: историография
+    bjn: historiografi
+    bn: ইতিহাস লিখনধারা
+    bs: historiografija
+    ca: historiografia
+    cs: historiografie
+    cu: їсторїографїꙗ
+    cv: историографи
+    cy: hanesyddiaeth
+    da: historiografi
+    de: Geschichtsschreibung
+    dsb: historiografija
+    el: ιστοριογραφία
+    en: historiography
+    en-ca: historiography
+    en-gb: historiography
+    en-us: historiography
+    eo: historiografio
+    es: historiografía
+    et: historiograafia
+    eu: historiografia
+    fa: تاریخنگاری
+    fi: historiografia
+    fr: historiographie
+    fy: Historiografy
+    ga: staireolaíocht
+    gl: historiografía
+    grc: ἱστοριογραφία
+    he: היסטוריוגרפיה
+    hi: इतिहास लेखन
+    hr: historiografija
+    hu: historiográfia
+    hy: պատմագրություն
+    ia: historiographia
+    id: historiografi
+    io: historiografio
+    is: sagnaritun
+    it: storiografia
+    ja: 史学史
+    jam: ischriagrafi
+    ka: ისტორიოგრაფია
+    kn: HISTROGRAPHY
+    ko: 역사학
+    ko-kp: 력사학
+    ky: историография
+    la: historiographia
+    lb: Historiographie
+    lt: istoriografija
+    lv: historiogrāfija
+    mg: histôriôgrafia
+    mk: историографија
+    ml: ഹിസ്റ്റോറിയോഗ്രഫി
+    mn: түүхийн товчоо
+    mr: इतिहासलेखन
+    ms: historiografi
+    mwl: storiografie
+    nan: Le̍k-sú-ha̍k
+    nap: storiografia
+    nb: historiografi
+    nl: geschiedschrijving
+    nn: historiografi
+    oc: istoriografia
+    os: историографи
+    pa: ਇਤਿਹਾਸਕਾਰੀ
+    pl: historiografia
+    ps: تاریخ لیکنه
+    pt: historiografia
+    pt-br: Historiografia
+    ro: istoriografie
+    ru: историография
+    sd: مؤرخ
+    se: historiografiija
+    sh: historiografija
+    sk: historiografia
+    sl: zgodovinopisje
+    smn: historiografia
+    sms: historiografia
+    sq: historiografi
+    sr: историографија
+    sr-ec: историографија
+    sr-el: istoriografija
+    su: Historiografi
+    sv: historieskrivning
+    szl: historiografijŏ
+    ta: வரலாற்றுவரைவியல்
+    tg: таърихнигорӣ
+    th: ประวัติศาสตร์นิพนธ์
+    tl: historyograpiya
+    tr: historiyografi
+    tt: тарихнамә
+    uk: історіографія
+    ur: تاریخ نگاری
+    uz: tarixshunoslik
+    vec: storiografia
+    vi: sử chí học
+    vo: jenotemipenav
+    war: historyograpiya
+    wuu: 史学史
+    yue: 史學史
+    zh: 史學史
+    zh-hans: 史学史
 ---
-
 # [[Historiography]] 
 
 #is_/same_as :: [[WD~Historiography,50675]] 

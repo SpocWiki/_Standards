@@ -1,63 +1,190 @@
 ---
 aliases:
-  - Berlin Conference
-  - 1884-Berlin_Conference
-  - 1884-Berlin Conference
+- 1884-Berlin Conference
+- 1884-Berlin_Conference
+- A̱tung Balyin
+- Berliini konverents
+- Berliinin konferenssi
+- Berlin Conference
+- Berlin Konferansı
+- Berlin-konferansen
+- Berlina Konferenco
+- Berlingo Konferentzia
+- berlini konferencia
+- Berlinkonferansen
+- Berlinkonferencen
+- Berlinkonferensen
+- Berlinska konferencija
+- Berlyno konferencija
+- Berlínarráðstefnan
+- Berlínská konference
+- Berlīnes konference
+- Bokopano jwa kwa Berlin
+- Conferencia de Berlín
+- Conferensa de Berlin
+- Conferensje van Berlyn 1884–85
+- Conferentia de Berlin
+- Conferenza di Berlino
+- Conferința de la Berlin
+- Conferència de Berlín
+- Conferéncia de Berlin
+- Conferência de Berlim
+- conférence de Berlin
+- Koloniale Conferentie van Berlijn
+- Koloniale Konferensie van Berlyn
+- Konferenca e Berlinit
+- Konferencja berlińska
+- Konferensi Berlin
+- Konfero di Berlin
+- Kongokonferenz
+- Kuzuliadeg Berlin
+- Mkutano wa Berlin wa 1885
+- Ndajem Berlin
+- Persidangan Berlin
+- Συνέδριο του Βερολίνου
+- Берлінская канферэнцыя 1884
+- Берлінська конференція 1884—1885
+- Берліньска конференція (1884)
+- Берлинска Конференција
+- Берлинска конференция
+- Берлинская конференция
+- ועידת ברלין
+- مؤتمر برلين 1884
+- کنفرانس برلین
+- کۆنگرەی بەرلین
+- ߓߍߙߑߟߍ߲߫ ߜߊ߬ߙߊ
+- बर्लिन सम्मेलन
+- การประชุมเบอร์ลิน
+- ベルリン会議
+- 柏林西非會議
+- 베를린 회의
 has_id_wikidata: Q13582
 interested_in:
-  - "[[_Standards/WikiData/WD~colony,133156]]"
-  - "[[_Standards/WikiData/WD~German_colonial_empire,329618]]"
+- '[[_Standards/WikiData/WD~colony,133156]]'
+- '[[_Standards/WikiData/WD~German_colonial_empire,329618]]'
 participant:
-  - "[[_Standards/WikiData/WD~Kingdom_of_Italy,172579]]"
-  - "[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]"
-  - "[[_Standards/WikiData/WD~Ottoman_Empire,12560]]"
-  - "[[_Standards/WikiData/WD~Austria_Hungary,28513]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~Belgium,31]]"
-  - "[[_Standards/WikiData/WD~Spain,29]]"
-  - "[[_Standards/WikiData/WD~Denmark,35]]"
-  - "[[_Standards/WikiData/WD~Netherlands,55]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
-  - "[[_Standards/WikiData/WD~Russian_Empire,34266]]"
-  - "[[_Standards/WikiData/WD~German_Empire,43287]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Portugal,45670]]"
-  - "[[_Standards/WikiData/WD~Union_between_Sweden_and_Norway,62589]]"
-facet_of: "[[_Standards/WikiData/WD~German_colonial_empire,329618]]"
-main_subject: "[[_Standards/WikiData/WD~German_colonial_empire,329618]]"
-instance_of: "[[_Standards/WikiData/WD~international_conference,18564543]]"
+- '[[_Standards/WikiData/WD~Kingdom_of_Italy,172579]]'
+- '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
+- '[[_Standards/WikiData/WD~Ottoman_Empire,12560]]'
+- '[[_Standards/WikiData/WD~Austria_Hungary,28513]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Belgium,31]]'
+- '[[_Standards/WikiData/WD~Spain,29]]'
+- '[[_Standards/WikiData/WD~Denmark,35]]'
+- '[[_Standards/WikiData/WD~Netherlands,55]]'
+- '[[_Standards/WikiData/WD~France,142]]'
+- '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
+- '[[_Standards/WikiData/WD~German_Empire,43287]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Portugal,45670]]'
+- '[[_Standards/WikiData/WD~Union_between_Sweden_and_Norway,62589]]'
+facet_of: '[[_Standards/WikiData/WD~German_colonial_empire,329618]]'
+main_subject: '[[_Standards/WikiData/WD~German_colonial_empire,329618]]'
+instance_of: '[[_Standards/WikiData/WD~international_conference,18564543]]'
 end_time: 1885-02-26T00:00:00Z
 start_time: 1884-11-15T00:00:00Z
 coordinate_location: Point(13.38253 52.51245)
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Berlin,64]]"
-location: "[[_Standards/WikiData/WD~Germany,183]]"
-country: "[[_Standards/WikiData/WD~Germany,183]]"
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Berlin,64]]'
+location: '[[_Standards/WikiData/WD~Germany,183]]'
+country: '[[_Standards/WikiData/WD~Germany,183]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Afrikakonferenz.jpg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-BerlinConference-article.ogg
 Commons_category: Berlin Conference (1884)
 Wolfram_Language_entity_code: Entity["HistoricalEvent", "BerlinConference1885"]
 dv_is_:
-  different_from: "[[1878-Congress_of_Berlin]]"
+  different_from: '[[1878-Congress_of_Berlin]]'
   same_as:
-    - "[[WD~Berlin_Conference,13582]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Berlin_Conference|1884-Berlin_Conference]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Berlin_Conference.public|1884-Berlin_Conference.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Berlin_Conference.internal|1884-Berlin_Conference.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Berlin_Conference.protect|1884-Berlin_Conference.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Berlin_Conference.private|1884-Berlin_Conference.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Berlin_Conference.personal|1884-Berlin_Conference.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Berlin_Conference.secret|1884-Berlin_Conference.secret]]"
-dv_is_different_from: "[[1878-Congress_of_Berlin]]"
+  - '[[WD~Berlin_Conference,13582]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Berlin_Conference|1884-Berlin_Conference]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Berlin_Conference.public|1884-Berlin_Conference.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Berlin_Conference.internal|1884-Berlin_Conference.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Berlin_Conference.protect|1884-Berlin_Conference.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Berlin_Conference.private|1884-Berlin_Conference.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Berlin_Conference.personal|1884-Berlin_Conference.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Berlin_Conference.secret|1884-Berlin_Conference.secret]]'
+dv_is_different_from: '[[1878-Congress_of_Berlin]]'
 dv_is_same_as:
-  - "[[WD~Berlin_Conference,13582]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Berlin_Conference|1884-Berlin_Conference]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Berlin_Conference.public|1884-Berlin_Conference.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Berlin_Conference.internal|1884-Berlin_Conference.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Berlin_Conference.protect|1884-Berlin_Conference.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Berlin_Conference.private|1884-Berlin_Conference.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Berlin_Conference.personal|1884-Berlin_Conference.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Berlin_Conference.secret|1884-Berlin_Conference.secret]]"
+- '[[WD~Berlin_Conference,13582]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Berlin_Conference|1884-Berlin_Conference]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Berlin_Conference.public|1884-Berlin_Conference.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Berlin_Conference.internal|1884-Berlin_Conference.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Berlin_Conference.protect|1884-Berlin_Conference.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Berlin_Conference.private|1884-Berlin_Conference.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Berlin_Conference.personal|1884-Berlin_Conference.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Berlin_Conference.secret|1884-Berlin_Conference.secret]]'
+dv_has_:
+  name_:
+    af: Koloniale Konferensie van Berlyn
+    ar: مؤتمر برلين 1884
+    ast: Conferencia de Berlín
+    be: Берлінская канферэнцыя 1884
+    bg: Берлинска конференция
+    br: Kuzuliadeg Berlin
+    ca: Conferència de Berlín
+    ckb: کۆنگرەی بەرلین
+    cs: Berlínská konference
+    da: Berlinkonferencen
+    dag: Berlin Conference
+    de: Kongokonferenz
+    el: Συνέδριο του Βερολίνου
+    en: Berlin Conference
+    en-ca: Berlin Conference
+    en-gb: Berlin Conference
+    eo: Berlina Konferenco
+    es: Conferencia de Berlín
+    et: Berliini konverents
+    eu: Berlingo Konferentzia
+    fa: کنفرانس برلین
+    fi: Berliinin konferenssi
+    fr: conférence de Berlin
+    gl: Conferencia de Berlín
+    gpe: Berlin Conference
+    ha: Berlin Conference
+    he: ועידת ברלין
+    hi: बर्लिन सम्मेलन
+    hu: berlini konferencia
+    ia: Conferentia de Berlin
+    id: Konferensi Berlin
+    ig: Berlin Conference
+    io: Konfero di Berlin
+    is: Berlínarráðstefnan
+    it: Conferenza di Berlino
+    ja: ベルリン会議
+    kcg: A̱tung Balyin
+    ko: 베를린 회의
+    lt: Berlyno konferencija
+    lv: Berlīnes konference
+    mk: Берлинска Конференција
+    mr: berlin conference
+    ms: Persidangan Berlin
+    mul: Berlin Conference
+    nb: Berlin-konferansen
+    nl: Koloniale Conferentie van Berlijn
+    nn: Berlinkonferansen
+    nqo: ߓߍߙߑߟߍ߲߫ ߜߊ߬ߙߊ
+    oc: Conferéncia de Berlin
+    pl: Konferencja berlińska
+    pt: Conferência de Berlim
+    ro: Conferința de la Berlin
+    ru: Берлинская конференция
+    rue: Берліньска конференція (1884)
+    sh: Berlinska konferencija
+    sq: Konferenca e Berlinit
+    sr: Берлинска конференција
+    sv: Berlinkonferensen
+    sw: Mkutano wa Berlin wa 1885
+    th: การประชุมเบอร์ลิน
+    tn: Bokopano jwa kwa Berlin
+    tr: Berlin Konferansı
+    uk: Берлінська конференція 1884—1885
+    vec: Conferensa de Berlin
+    vls: Conferensje van Berlyn 1884–85
+    wo: Ndajem Berlin
+    yo: Berlin Conference
+    zh: 柏林西非會議
+    zh-cn: 柏林西非會議
+    zh-hans: 柏林西非會議
+    zh-hant: 柏林西非會議
 ---
-
 # [[1884-Berlin_Conference]] 
 
 is_different_from = `=this.dv_is_different_from` 

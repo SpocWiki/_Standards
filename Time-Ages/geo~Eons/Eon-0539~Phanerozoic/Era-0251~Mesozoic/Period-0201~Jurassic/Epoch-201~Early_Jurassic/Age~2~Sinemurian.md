@@ -1,76 +1,115 @@
 ---
 aliases:
-  - Sinemurian
+- sinemur
+- sinemuri
+- Sinemurian
+- Sinemuriano
+- Sinemurianu
+- Sinemuriar
+- Sinemurien
+- Sinemuriense
+- Sinemurij
+- Sinemurium
+- Sinemurià
+- Sinémurien
+- synemur
+- Tầng Sinemur
+- синемюрский ярус
+- Синемюрський ярус
+- السنموري
+- سینمورین
+- シネムーリアン
+- 錫內穆期
+- 시네무리움절
 has_id_wikidata: Q911869
-named_after: "[[_Standards/WikiData/WD~Semur_en_Auxois,236579]]"
+named_after: '[[_Standards/WikiData/WD~Semur_en_Auxois,236579]]'
 named_by: "[[_Standards/WikiData/WD~Alcide_d'Orbigny,344661]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-significant_place: "[[_Standards/WikiData/WD~East_Quantoxhead,2411043]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Sinemurian,21694195]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Sinemurian,134308334]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+significant_place: '[[_Standards/WikiData/WD~East_Quantoxhead,2411043]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Sinemurian,21694195]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Sinemurian,134308334]]'
 coordinate_location: Point(-3.236388888 51.190833333)
 end_time: -190800000-01-01T00:00:00Z
 start_time: -199300000-01-01T00:00:00Z
 sRGB_color_hex_triplet: 07C1ED
 dv_has_:
   duration_:
-    years: "6.600e+6"
-  previous_:
-    item: "[[Age~1~Hettangian]]"
-  next_:
-    item: "[[Age~3~Pliensbachian]]"
+    years: 6.600e+6
   name_:
+    abbreviated: I2
+    af: Sinemurium
+    ar: السنموري
+    ast: Sinemurianu
     bg: Синемур
+    bs: Sinemurij
+    ca: Sinemurià
     cs: Sinemur
     da: Sinemurien
-    de: Sinémurium
+    de: Sinemurium
+    en: Sinemurian
+    eo: Sinemuriano
     es: Sinemuriense
     et: Sinemuri
+    eu: Sinemuriar
+    fa: سینمورین
     fi: Sinemur
     fr: Sinémurien
+    gl: Sinemuriano
     hu: sinemuri
-    it: sinemuriano
-    ja: シネムール期
+    id: Sinemurium
+    it: Sinemuriano
+    ja: シネムーリアン
+    ko: 시네무리움절
+    la: Sinemurium
     lt: Sinemiūris
-    nl: Sinemuriën
+    nl: Sinemurien
+    nn: sinemur
     no: Sinemur
-    pl: Synemur
+    pl: synemur
     pt: Sinemuriano
+    ru: синемюрский ярус
+    scn: Sinemurianu
+    sh: Sinemurij
     sk: sinemúr
     sl: sinemurij
     sv: sinemur
-    zh: 辛涅穆尔期
-    abbreviated: I2
-  time_:
-    started: "-199.5e6"
-    stopped: "-192.9e6"
+    uk: Синемюрський ярус
+    vi: Tầng Sinemur
+    zh: 錫內穆期
+  next_:
+    item: '[[Age~3~Pliensbachian]]'
+  previous_:
+    item: '[[Age~1~Hettangian]]'
   text_of_:
-    color: "0x67BCD8"
+    color: 0x67BCD8
+  time_:
+    started: -199.5e6
+    stopped: -192.9e6
 dv_is_:
   same_as:
-    - "[[WD~Sinemurian,911869]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~2~Sinemurian|Age~2~Sinemurian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~2~Sinemurian.public|Age~2~Sinemurian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~2~Sinemurian.internal|Age~2~Sinemurian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~2~Sinemurian.protect|Age~2~Sinemurian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~2~Sinemurian.private|Age~2~Sinemurian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~2~Sinemurian.personal|Age~2~Sinemurian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~2~Sinemurian.secret|Age~2~Sinemurian.secret]]"
-dv_has_duration_years: "6.600e+6"
-dv_has_previous_item: "[[Age~1~Hettangian]]"
-dv_has_next_item: "[[Age~3~Pliensbachian]]"
+  - '[[WD~Sinemurian,911869]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~2~Sinemurian|Age~2~Sinemurian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~2~Sinemurian.public|Age~2~Sinemurian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~2~Sinemurian.internal|Age~2~Sinemurian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~2~Sinemurian.protect|Age~2~Sinemurian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~2~Sinemurian.private|Age~2~Sinemurian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~2~Sinemurian.personal|Age~2~Sinemurian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~2~Sinemurian.secret|Age~2~Sinemurian.secret]]'
+dv_has_duration_years: 6.600e+6
+dv_has_previous_item: '[[Age~1~Hettangian]]'
+dv_has_next_item: '[[Age~3~Pliensbachian]]'
 dv_is_same_as:
-  - "[[WD~Sinemurian,911869]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~2~Sinemurian|Age~2~Sinemurian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~2~Sinemurian.public|Age~2~Sinemurian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~2~Sinemurian.internal|Age~2~Sinemurian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~2~Sinemurian.protect|Age~2~Sinemurian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~2~Sinemurian.private|Age~2~Sinemurian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~2~Sinemurian.personal|Age~2~Sinemurian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~2~Sinemurian.secret|Age~2~Sinemurian.secret]]"
+- '[[WD~Sinemurian,911869]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~2~Sinemurian|Age~2~Sinemurian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~2~Sinemurian.public|Age~2~Sinemurian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~2~Sinemurian.internal|Age~2~Sinemurian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~2~Sinemurian.protect|Age~2~Sinemurian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~2~Sinemurian.private|Age~2~Sinemurian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~2~Sinemurian.personal|Age~2~Sinemurian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~2~Sinemurian.secret|Age~2~Sinemurian.secret]]'
 dv_has_name_bg: Синемур
 dv_has_name_cs: Sinemur
 dv_has_name_da: Sinemurien
@@ -92,9 +131,9 @@ dv_has_name_sl: sinemurij
 dv_has_name_sv: sinemur
 dv_has_name_zh: 辛涅穆尔期
 dv_has_name_abbreviated: I2
-dv_has_time_started: "-199.5e6"
-dv_has_time_stopped: "-192.9e6"
-dv_has_text_of_color: "0x67BCD8"
+dv_has_time_started: -199.5e6
+dv_has_time_stopped: -192.9e6
+dv_has_text_of_color: 0x67BCD8
 ---
 # [[Age~2~Sinemurian]] 
 

@@ -1,74 +1,260 @@
 ---
 aliases:
-  - Krimkrieg
-  - 1853-Crimean_War
-  - 1853-Crimean War
+- 1853-Crimean War
+- 1853-Crimean_War
+- Bellum Crimaeanum
+- Brezel Krimea
+- Chiến tranh Krym
+- Cogadh na Crimé
+- Crimean War
+- Digmaan sa Crimea
+- Gera ha Crimea
+- guera de Crimea
+- Guere di Crimêye
+- Guerra da Crimea
+- Guerra da Crimeia
+- Guerra de Crimea
+- guerra di Crimea
+- guerre de Crimée
+- Guèrra de Crimèa
+- Krimas karš
+- Krimea milito
+- Krimeako Gerra
+- Krimin sota
+- Krimkrich
+- Krimkrieg
+- Krimkrigen
+- Krimkriget
+- Krimmi sõda
+- Krimoorlog
+- krimska vojna
+- Krimski rat
+- Krym Chiàn-cheng
+- Krymo karas
+- Krymská vojna
+- krymská válka
+- krími háború
+- Krímstríðið
+- Krım müharibəsi
+- Kırım Savaşı
+- Lufta e Krimesë
+- Milito di Krimea
+- Perang Krim
+- Perang Krimea
+- Qrim urushi
+- Qırım cenki
+- Rhyfel y Crimea
+- Războiul Crimeii
+- Vita ya Krim
+- Wojna krymska
+- Κριμαϊκός Πόλεμος
+- Кримска војна
+- Кримска война
+- Кримски рат
+- Кримська війна
+- Крым согушу
+- Крымская вайна
+- Крымская война
+- Кырым сугышы
+- Хъырымы хæст
+- Қырым соғысы
+- Ҡырым һуғышы
+- Ҷанги Қрим
+- Ղրիմի պատերազմ
+- מלחמת קרים
+- קרימער מלחמה
+- جنگ کریمیا
+- جەنگی کریمیا
+- حرب القرم
+- د کريميا جګړه
+- قىرىم ئۇرۇشى
+- نبرد کریمه
+- کریمه ساواشی
+- क्राइमियन युद्ध
+- क्रीमिया का युद्ध
+- क्रीमियाको युद्ध
+- ਕਰੀਮੀਆਈ ਜੰਗ
+- ಕ್ರಿಮಿಯ ಯುದ್ಧ
+- สงครามไครเมีย
+- ყირიმის ომი
+- សង្គ្រាមគ្រីមៀ
+- クリミア戦争
+- 克里米亚战争
+- 克里米亞戰爭
+- 크림 전쟁
 has_id_wikidata: Q254106
 participant:
-  - "[[_Standards/WikiData/WD~Kingdom_of_Sardinia,165154]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Greece,209065]]"
-  - "[[_Standards/WikiData/WD~Circassia,1408764]]"
-  - "[[_Standards/WikiData/WD~Caucasian_Imamate,2088141]]"
-  - "[[_Standards/WikiData/WD~Principality_of_Mingrelia,2907860]]"
-  - "[[_Standards/WikiData/WD~British_Empire,8680]]"
-  - "[[_Standards/WikiData/WD~Ottoman_Empire,12560]]"
-  - "[[_Standards/WikiData/WD~Russian_Empire,34266]]"
+- '[[_Standards/WikiData/WD~Kingdom_of_Sardinia,165154]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Greece,209065]]'
+- '[[_Standards/WikiData/WD~Circassia,1408764]]'
+- '[[_Standards/WikiData/WD~Caucasian_Imamate,2088141]]'
+- '[[_Standards/WikiData/WD~Principality_of_Mingrelia,2907860]]'
+- '[[_Standards/WikiData/WD~British_Empire,8680]]'
+- '[[_Standards/WikiData/WD~Ottoman_Empire,12560]]'
+- '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
 described_by_source:
-  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+- '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 end_time: 1856-02-01T00:00:00Z
 start_time: 1853-10-01T00:00:00Z
 location:
-  - "[[_Standards/WikiData/WD~Baltic_Sea,545]]"
-  - "[[_Standards/WikiData/WD~Kamchatka_Peninsula,993]]"
-  - "[[_Standards/WikiData/WD~Crimea,7835]]"
-  - "[[_Standards/WikiData/WD~Caucasus,18869]]"
-  - "[[_Standards/WikiData/WD~Balkans,23522]]"
-  - "[[_Standards/WikiData/WD~Black_Sea,166]]"
-  - "[[_Standards/WikiData/WD~White_Sea,44133]]"
-instance_of: "[[_Standards/WikiData/WD~war,198]]"
+- '[[_Standards/WikiData/WD~Baltic_Sea,545]]'
+- '[[_Standards/WikiData/WD~Kamchatka_Peninsula,993]]'
+- '[[_Standards/WikiData/WD~Crimea,7835]]'
+- '[[_Standards/WikiData/WD~Caucasus,18869]]'
+- '[[_Standards/WikiData/WD~Balkans,23522]]'
+- '[[_Standards/WikiData/WD~Black_Sea,166]]'
+- '[[_Standards/WikiData/WD~White_Sea,44133]]'
+instance_of: '[[_Standards/WikiData/WD~war,198]]'
 BHCL_UUID: dcd1b2bb-9621-47ca-bb03-e89c72dee4ce
 locator_map_image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Crimean-war-1853-56.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/The%20Armenian%20Front%20During%20the%20Crimean%20War%2C%201853-56.gif
+- http://commons.wikimedia.org/wiki/Special:FilePath/Crimean-war-1853-56.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/The%20Armenian%20Front%20During%20the%20Crimean%20War%2C%201853-56.gif
 image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Crimean%20War%2C%201854-1856%20Q69851.jpg
 U_S_National_Archives_Identifier: 10675853
 UMLS_CUI: C1449766
 Commons_gallery: Crimean War
 Commons_category: Crimean War
 MeSH_tree_code:
-  - I01.880.735.950.250.469
-  - K01.400.504.937.500
+- I01.880.735.950.250.469
+- K01.400.504.937.500
 Krugosvet_article: istoriya/krymskaya-voyna
 dv_is_:
   same_as:
-    - "[[../../../../../../../../WikiData/WD~Crimean_War,254106|WD~Crimean_War,254106]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1853-Crimean_War|1853-Crimean_War]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1853-Crimean_War.public|1853-Crimean_War.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1853-Crimean_War.internal|1853-Crimean_War.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1853-Crimean_War.protect|1853-Crimean_War.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1853-Crimean_War.private|1853-Crimean_War.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1853-Crimean_War.personal|1853-Crimean_War.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1853-Crimean_War.secret|1853-Crimean_War.secret]]"
+  - '[[../../../../../../../../WikiData/WD~Crimean_War,254106|WD~Crimean_War,254106]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1853-Crimean_War|1853-Crimean_War]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1853-Crimean_War.public|1853-Crimean_War.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1853-Crimean_War.internal|1853-Crimean_War.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1853-Crimean_War.protect|1853-Crimean_War.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1853-Crimean_War.private|1853-Crimean_War.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1853-Crimean_War.personal|1853-Crimean_War.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1853-Crimean_War.secret|1853-Crimean_War.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Crimean_War,254106|WD~Crimean_War,254106]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1853-Crimean_War|1853-Crimean_War]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1853-Crimean_War.public|1853-Crimean_War.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1853-Crimean_War.internal|1853-Crimean_War.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1853-Crimean_War.protect|1853-Crimean_War.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1853-Crimean_War.private|1853-Crimean_War.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1853-Crimean_War.personal|1853-Crimean_War.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1853-Crimean_War.secret|1853-Crimean_War.secret]]"
+- '[[../../../../../../../../WikiData/WD~Crimean_War,254106|WD~Crimean_War,254106]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1853-Crimean_War|1853-Crimean_War]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1853-Crimean_War.public|1853-Crimean_War.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1853-Crimean_War.internal|1853-Crimean_War.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1853-Crimean_War.protect|1853-Crimean_War.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1853-Crimean_War.private|1853-Crimean_War.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1853-Crimean_War.personal|1853-Crimean_War.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1853-Crimean_War.secret|1853-Crimean_War.secret]]'
+dv_has_:
+  name_:
+    af: Krimoorlog
+    ar: حرب القرم
+    ast: Guerra de Crimea
+    az: Krım müharibəsi
+    azb: کریمه ساواشی
+    ba: Ҡырым һуғышы
+    be: Крымская вайна
+    be-tarask: Крымская вайна
+    bg: Кримска война
+    br: Brezel Krimea
+    bs: Krimski rat
+    ca: guerra de Crimea
+    ckb: جەنگی کریمیا
+    crh: Qırım cenki
+    crh-latn: Qırım cenki
+    cs: krymská válka
+    cy: Rhyfel y Crimea
+    da: Krimkrigen
+    de: Krimkrieg
+    de-ch: Krimkrieg
+    el: Κριμαϊκός Πόλεμος
+    en: Crimean War
+    en-ca: Crimean War
+    en-gb: Crimean War
+    eo: Krimea milito
+    es: Guerra de Crimea
+    et: Krimmi sõda
+    eu: Krimeako Gerra
+    fa: نبرد کریمه
+    fi: Krimin sota
+    fr: guerre de Crimée
+    frr: Krimkrich
+    ga: Cogadh na Crimé
+    gl: Guerra da Crimea
+    he: מלחמת קרים
+    hi: क्रीमिया का युद्ध
+    hr: Krimski rat
+    hu: krími háború
+    hy: Ղրիմի պատերազմ
+    id: Perang Krimea
+    io: Milito di Krimea
+    is: Krímstríðið
+    it: guerra di Crimea
+    ja: クリミア戦争
+    jv: Perang Krim
+    ka: ყირიმის ომი
+    kk: Қырым соғысы
+    km: សង្គ្រាមគ្រីមៀ
+    kn: ಕ್ರಿಮಿಯ ಯುದ್ಧ
+    ko: 크림 전쟁
+    ky: Крым согушу
+    la: Bellum Crimaeanum
+    lb: Krimkrich
+    lt: Krymo karas
+    lv: Krimas karš
+    mk: Кримска војна
+    ml: crimean war
+    mr: क्राइमियन युद्ध
+    ms: Perang Krimea
+    nan: Krym Chiàn-cheng
+    nb: Krimkrigen
+    ne: क्रीमियाको युद्ध
+    nl: Krimoorlog
+    nn: Krimkrigen
+    oc: Guèrra de Crimèa
+    os: Хъырымы хæст
+    pa: ਕਰੀਮੀਆਈ ਜੰਗ
+    pl: Wojna krymska
+    pnb: جنگ کریمیا
+    ps: د کريميا جګړه
+    pt: Guerra da Crimeia
+    pt-br: Guerra da Crimeia
+    ro: Războiul Crimeii
+    ru: Крымская война
+    sh: Krimski rat
+    sk: Krymská vojna
+    sl: krimska vojna
+    sq: Lufta e Krimesë
+    sr: Кримски рат
+    sr-ec: Кримски рат
+    sr-el: Krimski rat
+    sv: Krimkriget
+    sw: Vita ya Krim
+    tg: Ҷанги Қрим
+    th: สงครามไครเมีย
+    tl: Digmaan sa Crimea
+    tr: Kırım Savaşı
+    tt: Кырым сугышы
+    ug: قىرىم ئۇرۇشى
+    uk: Кримська війна
+    ur: جنگ کریمیا
+    uz: Qrim urushi
+    vec: guera de Crimea
+    vi: Chiến tranh Krym
+    wa: Guere di Crimêye
+    war: Gera ha Crimea
+    wuu: 克里米亚战争
+    yi: קרימער מלחמה
+    yue: 克里米亞戰爭
+    zh: 克里米亚战争
+    zh-cn: 克里米亚战争
+    zh-hans: 克里米亚战争
+    zh-hant: 克里米亞戰爭
+    zh-hk: 克里米亞戰爭
+    zh-sg: 克里米亚战争
+    zh-tw: 克里米亞戰爭
 ---
-
 # [[1853-Crimean_War]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Crimean_War,254106|WD~Crimean_War,254106]] 

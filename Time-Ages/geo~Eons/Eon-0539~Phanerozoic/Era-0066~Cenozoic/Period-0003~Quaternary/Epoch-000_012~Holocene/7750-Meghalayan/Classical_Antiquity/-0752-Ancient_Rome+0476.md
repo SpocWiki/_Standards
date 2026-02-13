@@ -1,12 +1,151 @@
 ---
 location:
-  - 12.48
-  - 41.89
+- 12.48
+- 41.89
 aliases:
-  - Ancient Rome
-  - Altes Rom
-  - -0752-Ancient_Rome+0476
-  - -0752-Ancient Rome+0476
+- -0752-Ancient Rome+0476
+- -0752-Ancient_Rome+0476
+- Altes Rom
+- An t-Seann Ròimh
+- An tSean-Róimh
+- Ancian Roma
+- Ancient Rome
+- Antica Roma
+- Antieke Rome
+- antiga Roma
+- Antigua Roma
+- Antik Roma
+- Antiqua Roma
+- Antički Rim
+- antični Rim
+- Antzinako Erroma
+- Gū Lò̤-mā
+- Hadton Roma
+- hen Rom
+- Henroma
+- Ienshent Ruom
+- Imperi roman
+- Karaang Roma
+- Kó͘-tāi Lô-má
+- Kú Lò-mâ
+- Kɩbɩnjaazɩ Room
+- La Mã cổ đại
+- Oude Rome
+- Qadimgi Rim
+- Qadimiy Roma
+- Qədim Roma
+- Remisches Reich
+- Rhomani
+- Rhufain hynafol
+- Rom antik
+- Rom gbangbang
+- Rom kuno
+- Roma antica
+- Roma Antică
+- Roma Antiga
+- Roma antiguo
+- Roma Antike
+- Roma antiqua
+- Roma antique
+- Roma e lashtë
+- Roma regno
+- Roma Taloha
+- Roma ya Kale
+- Roma ya kgale
+- Roman dinéʼiʼ
+- Romarriket
+- Romawa na Da
+- Romawi Kuno
+- Romaya Kevnare
+- Rome antighe
+- Rome antike
+- Rome antique
+- Romerriget
+- Romerriket
+- romerska riket
+- Romə İmperiyə
+- Rooma riik
+- Rooma väldikodde
+- Rooman valtakunta
+- Rróma Ymaguare
+- Ruma Antika
+- Ruma n zik
+- Réimescht Räich
+- Ròm ansyen
+- Ròma antica
+- Rómaveldi
+- Rómù Ayéijọ́un
+- Römisches Reich
+- Röömsch Riek
+- Röömsk Rik
+- Senovės Roma
+- Senā Roma
+- Sinaunang Roma
+- Siviltà roman-a
+- Staroveký Rím
+- starověký Řím
+- starożytny Rzim
+- starożytny Rzym
+- Storia romana
+- stôrożëtny Rzim
+- Suanoy na Roma
+- Tziviltade romana
+- Vana-Rooma
+- ókori Róma
+- Αρχαία Ρώμη
+- Авалхи Рим
+- Ажәытә Аурым
+- Антички Рим
+- Байыркы Рим
+- Боронғо Рим
+- Борынгы Рим
+- Важ Рим
+- Вашкала Рим
+- Дегь Рим
+- Древен Рим
+- Древний Рим
+- Ежелгі Рим
+- Рагон Ром
+- Руми Бостон
+- Стар Рим
+- Старажытны Рым
+- Старовікый Рим
+- Стародавній Рим
+- Шира Рум
+- Эртний Ром
+- Հին Հռոմ
+- אוראלט רוים
+- רומא העתיקה
+- روم باستان
+- روما القديمة
+- روما القديمه
+- روما لقديمة
+- سلطنت روما
+- قديم يونان
+- قدیم روم
+- لرغونی روم
+- پرانا روم
+- ڕۆمای کۆن
+- ܪܗܘܡܐ ܥܬܝܩܬܐ
+- प्राचीन रोम
+- प्राचीन रोम सभ्यता
+- প্রাচীন রোম
+- ਪ੍ਰਾਚੀਨ ਰੋਮ
+- பண்டைய ரோம்
+- పురాతన రోమ్
+- പ്രാചീന റോം
+- පුරාතන රෝමය
+- โรมโบราณ
+- ძველი რომი
+- ჯვეში რომი
+- የሮሜ መንግሥት
+- ទីក្រុងរ៉ូមបុរាណ
+- ἀρχαία Ῥώμη
+- 古代ローマ
+- 古罗马
+- 古羅馬
+- ꯑꯂꯤꯄ ꯔꯣꯝ
+- 고대 로마
 has_id_wikidata: Q1747689
 coordinate_location: Point(12.48 41.89)
 dissolved_abolished_or_demolished_date: 0476-01-01T00:00:00Z
@@ -16,49 +155,49 @@ MeSH_tree_code: I01.076.201.450.226.800.500
 Krugosvet_article: istoriya/DREVNI_RIM.html
 OpenStreetMap_tag_or_key: Tag:historic:civilization=ancient_roman
 demonym:
-  - római
-  - romana
-  - romanas
-  - romano
-  - Roman
-  - Romans
-  - romanos
-  - Romain
-  - Romaine
-  - Rimljan
-  - Rimljanka
+- római
+- romana
+- romanas
+- romano
+- Roman
+- Romans
+- romanos
+- Romain
+- Romaine
+- Rimljan
+- Rimljanka
 official_name:
-  - Res publica Populi Romani
-  - Imperium Romanum
+- Res publica Populi Romani
+- Imperium Romanum
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/No-ROMERRIKET.ogg
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Mediterranean_Basin,72499]]"
-indigenous_to: "[[_Standards/WikiData/WD~Italian_Peninsula,145694]]"
-public_holiday: "[[_Standards/WikiData/WD~Saturnalia,207213]]"
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Mediterranean_Basin,72499]]'
+indigenous_to: '[[_Standards/WikiData/WD~Italian_Peninsula,145694]]'
+public_holiday: '[[_Standards/WikiData/WD~Saturnalia,207213]]'
 has_works_in_the_collection:
-  - "[[_Standards/WikiData/WD~Art_Institute_of_Chicago,239303]]"
-  - "[[_Standards/WikiData/WD~Museum_of_Fine_Arts_of_Lyon,511]]"
-studied_by: "[[_Standards/WikiData/WD~ancient_history,435608]]"
-subclass_of: "[[_Standards/WikiData/WD~archaeological_culture,465299]]"
-follows: "[[_Standards/WikiData/WD~Latial_culture,634818]]"
+- '[[_Standards/WikiData/WD~Art_Institute_of_Chicago,239303]]'
+- '[[_Standards/WikiData/WD~Museum_of_Fine_Arts_of_Lyon,511]]'
+studied_by: '[[_Standards/WikiData/WD~ancient_history,435608]]'
+subclass_of: '[[_Standards/WikiData/WD~archaeological_culture,465299]]'
+follows: '[[_Standards/WikiData/WD~Latial_culture,634818]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Barbaricum,807748]]"
-  - "[[_Standards/WikiData/WD~Sarmatia,2528503]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_ancient_Rome,830852]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_ancient_Rome,1216140]]"
-instance_of: "[[_Standards/WikiData/WD~historical_country,3024240]]"
+- '[[_Standards/WikiData/WD~Barbaricum,807748]]'
+- '[[_Standards/WikiData/WD~Sarmatia,2528503]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_ancient_Rome,830852]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_ancient_Rome,1216140]]'
+instance_of: '[[_Standards/WikiData/WD~historical_country,3024240]]'
 followed_by:
-  - "[[_Standards/WikiData/WD~Medieval_Rome,3940476]]"
-  - "[[_Standards/WikiData/WD~Byzantine_Empire,12544]]"
+- '[[_Standards/WikiData/WD~Medieval_Rome,3940476]]'
+- '[[_Standards/WikiData/WD~Byzantine_Empire,12544]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Ancient_Rome,6337458]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Ancient_Rome_topics,6678368]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Ancient_Rome,10631465]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Ancient_Rome,15265460]]"
-capital: "[[_Standards/WikiData/WD~Roma,18287233]]"
-depicted_by: "[[_Standards/WikiData/WD~Scenes_from_ancient_Roman_history_(Buen_Retiro),131613909]]"
-has_part_s_: "[[_Standards/WikiData/WD~Byzantine_Empire,12544]]"
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Ancient_Rome,6337458]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Ancient_Rome_topics,6678368]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Ancient_Rome,10631465]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Ancient_Rome,15265460]]'
+capital: '[[_Standards/WikiData/WD~Roma,18287233]]'
+depicted_by: '[[_Standards/WikiData/WD~Scenes_from_ancient_Roman_history_(Buen_Retiro),131613909]]'
+has_part_s_: '[[_Standards/WikiData/WD~Byzantine_Empire,12544]]'
 population: 50000000
 Provenio_UUID: 6baf8301-68dc-4a0c-bbdc-4ac48e6a21e5
 BHCL_UUID: 8ba32098-0efb-4405-b3f6-a7e479a64d7e
@@ -72,33 +211,210 @@ P8189: 987007559656005100
 subreddit: ancientrome
 Libris_URI: dbqsrrsx1l8h7mq
 dv_has_:
+  duration_: 1153
+  name_:
+    ab: Ажәытә Аурым
+    af: Antieke Rome
+    am: የሮሜ መንግሥት
+    an: Antiga Roma
+    anp: प्राचीन रोम सभ्यता
+    ar: روما القديمة
+    arc: ܪܗܘܡܐ ܥܬܝܩܬܐ
+    ary: روما لقديمة
+    arz: روما القديمه
+    ast: Antigua Roma
+    az: Qədim Roma
+    azb: قدیم روم
+    ba: Боронғо Рим
+    bar: Remisches Reich
+    bcl: Suanoy na Roma
+    be: Старажытны Рым
+    be-tarask: Старажытны Рым
+    bg: Древен Рим
+    bn: প্রাচীন রোম
+    br: Henroma
+    bs: Antički Rim
+    ca: antiga Roma
+    cdo: Gū Lò̤-mā
+    ce: Шира Рум
+    ceb: Karaang Roma
+    ckb: ڕۆمای کۆن
+    co: Roma antica
+    crh: Qadimiy Roma
+    crh-latn: Qadimiy Roma
+    cs: starověký Řím
+    csb: stôrożëtny Rzim
+    cv: Авалхи Рим
+    cy: Rhufain hynafol
+    da: Romerriget
+    de: Römisches Reich
+    de-ch: Römisches Reich
+    diq: Roma Antike
+    el: Αρχαία Ρώμη
+    en: Ancient Rome
+    en-ca: Ancient Rome
+    en-gb: Ancient Rome
+    eo: Roma regno
+    es: Antigua Roma
+    et: Rooma riik
+    eu: Antzinako Erroma
+    fa: روم باستان
+    fi: Rooman valtakunta
+    fr: Rome antique
+    frr: Röömsk Rik
+    fur: Rome antighe
+    ga: An tSean-Róimh
+    gcr: Rom antik
+    gd: An t-Seann Ròimh
+    gl: Roma Antiga
+    gn: Rróma Ymaguare
+    grc: ἀρχαία Ῥώμη
+    gsw: Römisches Reich
+    ha: Romawa na Da
+    hak: Kú Lò-mâ
+    he: רומא העתיקה
+    hi: प्राचीन रोम सभ्यता
+    hr: Antički Rim
+    ht: Ròm ansyen
+    hu: ókori Róma
+    hy: Հին Հռոմ
+    hyw: Հին Հռոմ
+    ia: Roma antique
+    id: Romawi Kuno
+    ie: Ancian Roma
+    io: Antiqua Roma
+    is: Rómaveldi
+    it: antica Roma
+    ja: 古代ローマ
+    jam: Ienshent Ruom
+    ka: ძველი რომი
+    kab: Ruma n zik
+    kbp: Kɩbɩnjaazɩ Room
+    kcg: Rom gbangbang
+    kk: Ежелгі Рим
+    km: ទីក្រុងរ៉ូមបុរាណ
+    ko: 고대 로마
+    koi: Важ Рим
+    ku: Romaya Kevnare
+    kv: Важ Рим
+    kw: hen Rom
+    ky: Байыркы Рим
+    la: Roma antiqua
+    lb: Réimescht Räich
+    lez: Дегь Рим
+    lfn: Roma antica
+    lld: Storia romana
+    lt: Senovės Roma
+    lv: Senā Roma
+    lzh: 古羅馬
+    mg: Roma Taloha
+    min: Romawi Kuno
+    mk: Стар Рим
+    ml: പ്രാചീന റോം
+    mn: Эртний Ром
+    mni: ꯑꯂꯤꯄ ꯔꯣꯝ
+    mr: प्राचीन रोम
+    ms: Rom kuno
+    mt: Ruma Antika
+    mwl: Roma Antiga
+    nan: Kó͘-tāi Lô-má
+    nb: Romerriket
+    nds: Röömsch Riek
+    ne: प्राचीन रोम
+    new: प्राचीन रोम
+    nl: Oude Rome
+    nn: Romarriket
+    nso: Roma ya kgale
+    nv: Roman dinéʼiʼ
+    oc: Ròma antica
+    os: Рагон Ром
+    pa: ਪ੍ਰਾਚੀਨ ਰੋਮ
+    pap: Roma antiguo
+    pcd: Rome antike
+    pcm: Ancient Rome
+    pdc: Altes Rom
+    pl: starożytny Rzym
+    pms: Siviltà roman-a
+    pnb: پرانا روم
+    ps: لرغونی روم
+    pt: Roma Antiga
+    pt-br: Roma Antiga
+    rm: Imperi roman
+    ro: Roma Antică
+    ru: Древний Рим
+    rue: Старовікый Рим
+    sc: Tziviltade romana
+    scn: Antica Roma
+    sd: قديم يونان
+    sh: Antički Rim
+    si: පුරාතන රෝමය
+    sk: Staroveký Rím
+    skr: سلطنت روما
+    sl: antični Rim
+    smn: Rooma väldikodde
+    sq: Roma e lashtë
+    sr: Антички Рим
+    sv: romerska riket
+    sw: Roma ya Kale
+    szl: starożytny Rzim
+    ta: பண்டைய ரோம்
+    te: పురాతన రోమ్
+    tg: Руми Бостон
+    th: โรมโบราณ
+    tl: Sinaunang Roma
+    tly: Romə İmperiyə
+    tr: Antik Roma
+    tt: Борынгы Рим
+    tt-cyrl: Борынгы Рим
+    udm: Вашкала Рим
+    uk: Стародавній Рим
+    ur: قدیم روم
+    uz: Qadimgi Rim
+    vec: antiga Roma
+    vi: La Mã cổ đại
+    vro: Vana-Rooma
+    war: Hadton Roma
+    wuu: 古罗马
+    xmf: ჯვეში რომი
+    yi: אוראלט רוים
+    yo: Rómù Ayéijọ́un
+    yue: 古羅馬
+    zh: 古羅馬
+    zh-cn: 古罗马
+    zh-hans: 古罗马
+    zh-hant: 古羅馬
+    zh-hk: 古羅馬
+    zh-mo: 古羅馬
+    zh-my: 古罗马
+    zh-sg: 古罗马
+    zh-tw: 古羅馬
+    zu: Rhomani
   time_:
     started: -753
     stopped: 400
-  duration_: 1153
 dv_is_:
   same_as:
-    - "[[../../../../../../../../WikiData/WD~Ancient_Rome,1747689|WD~Ancient_Rome,1747689]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476|-0752-Ancient_Rome+0476]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476.public|-0752-Ancient_Rome+0476.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476.internal|-0752-Ancient_Rome+0476.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476.protect|-0752-Ancient_Rome+0476.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476.private|-0752-Ancient_Rome+0476.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476.personal|-0752-Ancient_Rome+0476.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476.secret|-0752-Ancient_Rome+0476.secret]]"
+  - '[[../../../../../../../../WikiData/WD~Ancient_Rome,1747689|WD~Ancient_Rome,1747689]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476|-0752-Ancient_Rome+0476]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476.public|-0752-Ancient_Rome+0476.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476.internal|-0752-Ancient_Rome+0476.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476.protect|-0752-Ancient_Rome+0476.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476.private|-0752-Ancient_Rome+0476.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476.personal|-0752-Ancient_Rome+0476.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476.secret|-0752-Ancient_Rome+0476.secret]]'
 dv_has_time_started: -753
 dv_has_time_stopped: 400
 dv_has_duration_years: 1153
 dv_has_duration_: 1153
 dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Ancient_Rome,1747689|WD~Ancient_Rome,1747689]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476|-0752-Ancient_Rome+0476]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476.public|-0752-Ancient_Rome+0476.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476.internal|-0752-Ancient_Rome+0476.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476.protect|-0752-Ancient_Rome+0476.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476.private|-0752-Ancient_Rome+0476.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476.personal|-0752-Ancient_Rome+0476.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476.secret|-0752-Ancient_Rome+0476.secret]]"
+- '[[../../../../../../../../WikiData/WD~Ancient_Rome,1747689|WD~Ancient_Rome,1747689]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476|-0752-Ancient_Rome+0476]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476.public|-0752-Ancient_Rome+0476.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476.internal|-0752-Ancient_Rome+0476.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476.protect|-0752-Ancient_Rome+0476.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476.private|-0752-Ancient_Rome+0476.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476.personal|-0752-Ancient_Rome+0476.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476.secret|-0752-Ancient_Rome+0476.secret]]'
 ---
 # [[-0752-Ancient_Rome+0476]] 
 

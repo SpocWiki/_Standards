@@ -1,14 +1,74 @@
 ---
 aliases:
+- An Fronta Thiar sa Chéad Chogadh Domhanda
+- Batı Cephesi
+- Birinci dünya müharibəsində Qərb cəbhəsi
+- Ffrynt y Gorllewin
+- Frente Occidental
+- Frente Ocidental
+- Front Barat
+- front de l'Ouest
+- front occidental de la Primera Guerra Mundial
+- Front zachodni
+- Fronte Occidental da Primeira Guerra Mundial
+- fronte occidentale
+- Frontul de Vest
+- Länsirintama
+- Läänerinne
+- Medan Barat (Perang Dunia I)
+- Mendebaldeko Frontea Lehen Mundu Gerran
+- Mặt trận phía Tây
+- nyugati front
+- Okcidenta Fronto de la Unua Mondmilito
+- Pirmā pasaules kara rietumu fronte
+- Talbenn ar C'hornôg
+- Vakarų frontas (Pirmasis pasaulinis karas)
+- Vestfronten
+- Vestfronten i 1. Verdenskrig
+- västfronten under första världskriget
+- Western Front
+- Western Front of World War I
+- Westfront
+- Westfront im Ersten Weltkrieg
+- zahodna fronta v prvi svetovni vojni
+- Zapadni front
+- Zapadni front u Prvom svetskom ratu
+- Zapadno bojište
+- západní fronta první světové války
+- Západný front (prvá svetová vojna)
+- Čivalgoma jono frontoś
+- Δυτικό Μέτωπο (Α' Παγκόσμιος Πόλεμος)
+- Беренсе донъя һуғышының Көнбайыш фронты
+- Западен фронт
+- Западен фронт во Првата светска војна
+- Западни фронт у Првом светском рату
+- Западный фронт Первой мировой войны
+- Західний фронт
+- Заходні фронт
+- Заходні фронт Першай сусветнай вайны
+- Արևմտյան ռազմաճակատ
+- החזית המערבית במלחמת העולם הראשונה
+- الجبهة الغربية
+- جبهه غربی (جنگ جهانی اول)
+- لویدیځه جبهه (لومړۍ نړیواله جګړه)
+- ߖߊ߯ߓߊ߫ ߞߟߍ߫ ߝߟߐߡߊ ߕߟߋ߬ߓߋ ߞߟߊߘߊ
+- पश्चिमी मोर्चा
+- পশ্চিম রণাঙ্গন
+- แนวรบด้านตะวันตก
+- 一戰西方戰線
+- 西方战线
+- 西方戰線
+- 西部戦線
+- 서부 전선
 has_id_wikidata: Q152989
 location:
-  - "[[_Standards/WikiData/WD~Alsace_Lorraine,155144]]"
-  - "[[_Standards/WikiData/WD~Belgium,31]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
-instance_of: "[[_Standards/WikiData/WD~war_front,842332]]"
+- '[[_Standards/WikiData/WD~Alsace_Lorraine,155144]]'
+- '[[_Standards/WikiData/WD~Belgium,31]]'
+- '[[_Standards/WikiData/WD~France,142]]'
+instance_of: '[[_Standards/WikiData/WD~war_front,842332]]'
 country:
-  - "[[_Standards/WikiData/WD~Belgium,31]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
+- '[[_Standards/WikiData/WD~Belgium,31]]'
+- '[[_Standards/WikiData/WD~France,142]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Western%20front%201915-16.jpg
 Commons_category: Western Front theatre of World War I
 official_name: Defensive Sector
@@ -16,25 +76,96 @@ end_time: 1918-11-11T00:00:00Z
 start_time: 1914-08-03T00:00:00Z
 dv_is_:
   same_as:
-    - "[[../../../../../../../../WikiData/WD~Western_Front,152989|WD~Western_Front,152989]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-Western_Front+1918|1914-Western_Front+1918]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-Western_Front+1918.public|1914-Western_Front+1918.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-Western_Front+1918.internal|1914-Western_Front+1918.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-Western_Front+1918.protect|1914-Western_Front+1918.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-Western_Front+1918.private|1914-Western_Front+1918.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-Western_Front+1918.personal|1914-Western_Front+1918.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-Western_Front+1918.secret|1914-Western_Front+1918.secret]]"
+  - '[[../../../../../../../../WikiData/WD~Western_Front,152989|WD~Western_Front,152989]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-Western_Front+1918|1914-Western_Front+1918]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-Western_Front+1918.public|1914-Western_Front+1918.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-Western_Front+1918.internal|1914-Western_Front+1918.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-Western_Front+1918.protect|1914-Western_Front+1918.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-Western_Front+1918.private|1914-Western_Front+1918.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-Western_Front+1918.personal|1914-Western_Front+1918.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-Western_Front+1918.secret|1914-Western_Front+1918.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Western_Front,152989|WD~Western_Front,152989]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-Western_Front+1918|1914-Western_Front+1918]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-Western_Front+1918.public|1914-Western_Front+1918.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-Western_Front+1918.internal|1914-Western_Front+1918.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-Western_Front+1918.protect|1914-Western_Front+1918.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-Western_Front+1918.private|1914-Western_Front+1918.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-Western_Front+1918.personal|1914-Western_Front+1918.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-Western_Front+1918.secret|1914-Western_Front+1918.secret]]"
+- '[[../../../../../../../../WikiData/WD~Western_Front,152989|WD~Western_Front,152989]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-Western_Front+1918|1914-Western_Front+1918]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-Western_Front+1918.public|1914-Western_Front+1918.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-Western_Front+1918.internal|1914-Western_Front+1918.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-Western_Front+1918.protect|1914-Western_Front+1918.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-Western_Front+1918.private|1914-Western_Front+1918.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-Western_Front+1918.personal|1914-Western_Front+1918.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-Western_Front+1918.secret|1914-Western_Front+1918.secret]]'
+dv_has_:
+  name_:
+    ar: الجبهة الغربية
+    az: Birinci dünya müharibəsində Qərb cəbhəsi
+    ba: Беренсе донъя һуғышының Көнбайыш фронты
+    be: Заходні фронт Першай сусветнай вайны
+    be-tarask: Заходні фронт
+    bg: Западен фронт
+    bn: পশ্চিম রণাঙ্গন
+    br: Talbenn ar C'hornôg
+    ca: front occidental de la Primera Guerra Mundial
+    cs: západní fronta první světové války
+    cy: Ffrynt y Gorllewin
+    da: Vestfronten i 1. Verdenskrig
+    de: Westfront im Ersten Weltkrieg
+    de-ch: Westfront
+    el: Δυτικό Μέτωπο (Α' Παγκόσμιος Πόλεμος)
+    en: Western Front
+    en-ca: Western Front
+    en-gb: Western Front
+    en-us: Western Front of World War I
+    eo: Okcidenta Fronto de la Unua Mondmilito
+    es: Frente Occidental
+    et: Läänerinne
+    eu: Mendebaldeko Frontea Lehen Mundu Gerran
+    fa: جبهه غربی (جنگ جهانی اول)
+    fi: Länsirintama
+    fr: front de l'Ouest
+    ga: An Fronta Thiar sa Chéad Chogadh Domhanda
+    gl: Fronte Occidental da Primeira Guerra Mundial
+    he: החזית המערבית במלחמת העולם הראשונה
+    hi: पश्चिमी मोर्चा
+    hr: Zapadno bojište
+    hu: nyugati front
+    hy: Արևմտյան ռազմաճակատ
+    id: Front Barat
+    it: fronte occidentale
+    ja: 西部戦線
+    ko: 서부 전선
+    lt: Vakarų frontas (Pirmasis pasaulinis karas)
+    lv: Pirmā pasaules kara rietumu fronte
+    mk: Западен фронт во Првата светска војна
+    ms: Medan Barat (Perang Dunia I)
+    myv: Čivalgoma jono frontoś
+    nb: Vestfronten
+    nl: Westfront
+    nqo: ߖߊ߯ߓߊ߫ ߞߟߍ߫ ߝߟߐߡߊ ߕߟߋ߬ߓߋ ߞߟߊߘߊ
+    pl: Front zachodni
+    ps: لویدیځه جبهه (لومړۍ نړیواله جګړه)
+    pt: Frente Ocidental
+    pt-br: Frente Ocidental
+    ro: Frontul de Vest
+    ru: Западный фронт Первой мировой войны
+    sh: Zapadni front
+    sk: Západný front (prvá svetová vojna)
+    sl: zahodna fronta v prvi svetovni vojni
+    sr: Западни фронт у Првом светском рату
+    sr-ec: Западни фронт у Првом светском рату
+    sr-el: Zapadni front u Prvom svetskom ratu
+    sv: västfronten under första världskriget
+    th: แนวรบด้านตะวันตก
+    tr: Batı Cephesi
+    uk: Західний фронт
+    vi: Mặt trận phía Tây
+    yue: 一戰西方戰線
+    zh: 西方戰線
+    zh-cn: 西方战线
+    zh-hans: 西方战线
+    zh-hant: 西方戰線
+    zh-hk: 西方戰線
+    zh-sg: 西方战线
+    zh-tw: 西方戰線
 ---
-
 # [[1914-Western_Front+1918]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Western_Front,152989|WD~Western_Front,152989]]  

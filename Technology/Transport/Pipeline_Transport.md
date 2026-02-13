@@ -1,21 +1,122 @@
 ---
 aliases:
+- Boru hattı taşımacılığı
+- Boru kəməri nəqliyyatı
+- cevni transport
+- Cevovod
+- cjevovod
+- cjevovodni saobraćaj
+- conduttura
+- csővezetékes szállítás
+- dukta transporto
+- Fantsombe fitaterana
+- hoditeria bidezko garraio
+- Njia ya bomba
+- pengangkutan pipa
+- pijptransport
+- pipeline transport
+- potrubní doprava
+- Putkiliikenne
+- Rohrleitungstransport
+- rörledningsnät
+- rørledningstransport
+- røyrleidningsførsel
+- transport par canalisation
+- transport per canonada
+- transport prin conductă
+- transport rurociągowy
+- transporte por tubaxes
+- Transporte por tubería
+- transporte tubular
+- Transporti përmes Tubacionit
+- Traspòrt con condote
+- Tresporte per tubería
+- Μεταφορά με αγωγούς
+- Пăрăхла ярăш транспорчĕ
+- трубаправодны транспарт
+- трубопровідний транспорт
+- трубопроводный транспорт
+- цевковод
+- цевовод
+- Խողովակաշարային տրանսպորտ
+- צינור נפט
+- النقل بخطوط الأنابيب
+- خط لوله انتقال
+- নলপথে পরিবহন
+- การขนส่งทางสายท่อ
+- მილსადენი ტრანსპორტი
+- パイプライン輸送
+- 管输工艺
+- 管道運輸
+- 파이프라인 수송
 has_id_wikidata: Q725864
 instance_of:
-  - "[[_Standards/WikiData/WD~industry,268592]]"
-  - "[[_Standards/WikiData/WD~mode_of_transport,334166]]"
-  - "[[_Standards/WikiData/WD~product,2424752]]"
-  - "[[_Standards/WikiData/WD~service,7406919]]"
+- '[[_Standards/WikiData/WD~industry,268592]]'
+- '[[_Standards/WikiData/WD~mode_of_transport,334166]]'
+- '[[_Standards/WikiData/WD~product,2424752]]'
+- '[[_Standards/WikiData/WD~service,7406919]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~line_transport,3537847]]"
-  - "[[_Standards/WikiData/WD~transport,7590]]"
-uses: "[[_Standards/WikiData/WD~pipeline,25471856]]"
-OmegaWiki_Defined_Meaning: "2811"
+- '[[_Standards/WikiData/WD~line_transport,3537847]]'
+- '[[_Standards/WikiData/WD~transport,7590]]'
+uses: '[[_Standards/WikiData/WD~pipeline,25471856]]'
+OmegaWiki_Defined_Meaning: 2811
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Alaska%20Pipeline%2022.jpg
 Commons_gallery: Pipeline transport
 Commons_category: Pipeline transport
+dv_has_:
+  name_:
+    ar: النقل بخطوط الأنابيب
+    ast: Tresporte per tubería
+    az: Boru kəməri nəqliyyatı
+    be: трубаправодны транспарт
+    be-tarask: трубаправодны транспарт
+    bn: নলপথে পরিবহন
+    ca: transport per canonada
+    cs: potrubní doprava
+    cv: Пăрăхла ярăш транспорчĕ
+    de: Rohrleitungstransport
+    el: Μεταφορά με αγωγούς
+    en: pipeline transport
+    eo: dukta transporto
+    es: Transporte por tubería
+    eu: hoditeria bidezko garraio
+    fa: خط لوله انتقال
+    fi: Putkiliikenne
+    fr: transport par canalisation
+    gl: transporte por tubaxes
+    he: צינור נפט
+    hr: cjevovod
+    hu: csővezetékes szállítás
+    hy: Խողովակաշարային տրանսպորտ
+    id: pengangkutan pipa
+    it: conduttura
+    ja: パイプライン輸送
+    ka: მილსადენი ტრანსპორტი
+    ko: 파이프라인 수송
+    mg: Fantsombe fitaterana
+    mk: цевковод
+    nb: rørledningstransport
+    nl: pijptransport
+    nn: røyrleidningsførsel
+    pl: transport rurociągowy
+    pms: Traspòrt con condote
+    pt: transporte tubular
+    ro: transport prin conductă
+    ru: трубопроводный транспорт
+    sh: cjevovodni saobraćaj
+    sl: cevni transport
+    sq: Transporti përmes Tubacionit
+    sr: цевовод
+    sr-ec: Цевовод
+    sr-el: Cevovod
+    sv: rörledningsnät
+    sw: Njia ya bomba
+    th: การขนส่งทางสายท่อ
+    tr: Boru hattı taşımacılığı
+    uk: трубопровідний транспорт
+    yue: 管道運輸
+    zh: 管输工艺
 ---
-
 # [[Pipeline_Transport]] 
 
 #is_/same_as :: [[../../WikiData/WD~Pipeline_transport,725864]] 

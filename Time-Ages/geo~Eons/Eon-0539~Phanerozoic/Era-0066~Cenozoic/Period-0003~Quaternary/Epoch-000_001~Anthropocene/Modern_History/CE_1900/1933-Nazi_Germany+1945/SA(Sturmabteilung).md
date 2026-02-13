@@ -1,37 +1,64 @@
 ---
 aliases:
-  - Sturmabteilung
+- Hücum dəstələri
+- Pasukan SA
+- SA
+- Sturmabteilung
+- Šturmabtajlung
+- СА
+- Штурм әтрәтләре
+- Штурмабтајлунг
+- Штурмавыя атрады
+- Штурмовые отряды
+- Щурмабтайлунг
+- ՍԱ
+- אס אה
+- اس آ
+- شٹورمابٹائلونگ
+- كتيبة العاصفة
+- كتيبة العاصفه
+- श्टूर्माब्टाइलुंग
+- ਸਟੁਰਮਾਬਤਾਲੁੰਗ
+- ஸ்ட்ரோமப்டேலுங்
+- ชตวร์มอัพไทลุง
+- 冲锋队
+- 冲锋队 (纳粹党)
+- 突撃隊
+- 納粹衝鋒隊
+- 纳粹冲锋队
+- 衝鋒隊
+- 돌격대
 has_id_wikidata: Q150793
 chairperson:
-  - "[[_Standards/WikiData/WD~Baldur_von_Schirach,76876]]"
-  - "[[_Standards/WikiData/WD~Otto_Wagener,106014]]"
-  - "[[_Standards/WikiData/WD~Heinrich_Himmler,43067]]"
-  - "[[_Standards/WikiData/WD~Hermann_Göring,47906]]"
-  - "[[_Standards/WikiData/WD~Viktor_Lutze,57703]]"
-  - "[[_Standards/WikiData/WD~Ernst_Röhm,58583]]"
-  - "[[_Standards/WikiData/WD~Wilhelm_Schepmann,61120]]"
-  - "[[_Standards/WikiData/WD~Franz_Pfeffer_von_Salomon,62748]]"
+- '[[_Standards/WikiData/WD~Baldur_von_Schirach,76876]]'
+- '[[_Standards/WikiData/WD~Otto_Wagener,106014]]'
+- '[[_Standards/WikiData/WD~Heinrich_Himmler,43067]]'
+- '[[_Standards/WikiData/WD~Hermann_Göring,47906]]'
+- '[[_Standards/WikiData/WD~Viktor_Lutze,57703]]'
+- '[[_Standards/WikiData/WD~Ernst_Röhm,58583]]'
+- '[[_Standards/WikiData/WD~Wilhelm_Schepmann,61120]]'
+- '[[_Standards/WikiData/WD~Franz_Pfeffer_von_Salomon,62748]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~paramilitary_organization,207320]]"
-  - "[[_Standards/WikiData/WD~political_faction,1393724]]"
-  - "[[_Standards/WikiData/WD~political_organization,7210356]]"
+- '[[_Standards/WikiData/WD~paramilitary_organization,207320]]'
+- '[[_Standards/WikiData/WD~political_faction,1393724]]'
+- '[[_Standards/WikiData/WD~political_organization,7210356]]'
 replaces:
-  - "[[_Standards/WikiData/WD~Der_Stahlhelm,_Bund_der_Frontsoldaten,568522]]"
-  - "[[_Standards/WikiData/WD~Q96680094,96680094]]"
-follows: "[[_Standards/WikiData/WD~Der_Stahlhelm,_Bund_der_Frontsoldaten,568522]]"
-applies_to_jurisdiction: "[[_Standards/WikiData/WD~German_Reich,1206012]]"
-country: "[[_Standards/WikiData/WD~German_Reich,1206012]]"
-wears: "[[_Standards/WikiData/WD~Brownshirt,10436492]]"
-described_by_source: "[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]"
+- '[[_Standards/WikiData/WD~Der_Stahlhelm,_Bund_der_Frontsoldaten,568522]]'
+- '[[_Standards/WikiData/WD~Q96680094,96680094]]'
+follows: '[[_Standards/WikiData/WD~Der_Stahlhelm,_Bund_der_Frontsoldaten,568522]]'
+applies_to_jurisdiction: '[[_Standards/WikiData/WD~German_Reich,1206012]]'
+country: '[[_Standards/WikiData/WD~German_Reich,1206012]]'
+wears: '[[_Standards/WikiData/WD~Brownshirt,10436492]]'
+described_by_source: '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
 child_organization_or_unit:
-  - "[[_Standards/WikiData/WD~Q122194776,122194776]]"
-  - "[[_Standards/WikiData/WD~Q130216322,130216322]]"
-has_part_s_: "[[_Standards/WikiData/WD~Q130216322,130216322]]"
-headquarters_location: "[[_Standards/WikiData/WD~Munich,1726]]"
-parent_organization_or_unit: "[[_Standards/WikiData/WD~Nazi_Party,7320]]"
+- '[[_Standards/WikiData/WD~Q122194776,122194776]]'
+- '[[_Standards/WikiData/WD~Q130216322,130216322]]'
+has_part_s_: '[[_Standards/WikiData/WD~Q130216322,130216322]]'
+headquarters_location: '[[_Standards/WikiData/WD~Munich,1726]]'
+parent_organization_or_unit: '[[_Standards/WikiData/WD~Nazi_Party,7320]]'
 member_count: 3000000
-different_from: "[[_Standards/WikiData/WD~Schutzstaffel,44687]]"
-founded_by: "[[_Standards/WikiData/WD~Ernst_Röhm,58583]]"
+different_from: '[[_Standards/WikiData/WD~Schutzstaffel,44687]]'
+founded_by: '[[_Standards/WikiData/WD~Ernst_Röhm,58583]]'
 Commons_category: Sturmabteilung
 BHCL_UUID: 5c6a98a1-ccfc-4df2-9fb4-9a1e3403f8b3
 subject_named_as: SA
@@ -39,34 +66,119 @@ short_name: SA
 native_label: Sturmabteilung
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20146-1982-004-13A%2C%20Aufmarsch%20am%20Abend%20der%20Machtergreifung%20Hitlers.jpg
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/SA-Logo.svg
-ISNI: "0000000115128347"
+ISNI: 0000000115128347
 dissolved_abolished_or_demolished_date: 1945-10-10T00:00:00Z
 inception: 1921-01-01T00:00:00Z
 dv_is_:
   same_as:
-    - "[[../../../../../../../../../WikiData/WD~Sturmabteilung,150793]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SA(Sturmabteilung)|SA(Sturmabteilung)]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SA(Sturmabteilung).public|SA(Sturmabteilung).public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SA(Sturmabteilung).internal|SA(Sturmabteilung).internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SA(Sturmabteilung).protect|SA(Sturmabteilung).protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SA(Sturmabteilung).private|SA(Sturmabteilung).private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SA(Sturmabteilung).personal|SA(Sturmabteilung).personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SA(Sturmabteilung).secret|SA(Sturmabteilung).secret]]"
+  - '[[../../../../../../../../../WikiData/WD~Sturmabteilung,150793]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SA(Sturmabteilung)|SA(Sturmabteilung)]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SA(Sturmabteilung).public|SA(Sturmabteilung).public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SA(Sturmabteilung).internal|SA(Sturmabteilung).internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SA(Sturmabteilung).protect|SA(Sturmabteilung).protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SA(Sturmabteilung).private|SA(Sturmabteilung).private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SA(Sturmabteilung).personal|SA(Sturmabteilung).personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SA(Sturmabteilung).secret|SA(Sturmabteilung).secret]]'
 dv_has_:
+  name_:
+    ar: كتيبة العاصفة
+    arz: كتيبة العاصفه
+    ast: Sturmabteilung
+    az: Hücum dəstələri
+    bcl: Sturmabteilung
+    be: Штурмавыя атрады
+    be-tarask: Штурмавыя атрады
+    bg: Щурмабтайлунг
+    br: Sturmabteilung
+    ca: Sturmabteilung
+    cs: Sturmabteilung
+    cy: Sturmabteilung
+    da: Sturmabteilung
+    de: Sturmabteilung
+    de-ch: Sturmabteilung
+    el: Sturmabteilung
+    en: Sturmabteilung
+    en-ca: Sturmabteilung
+    en-gb: Sturmabteilung
+    eo: Sturmabteilung
+    es: Sturmabteilung
+    et: Sturmabteilung
+    eu: Sturmabteilung
+    fa: اس آ
+    fi: Sturmabteilung
+    fr: Sturmabteilung
+    fy: Sturmabteilung
+    ga: Sturmabteilung
+    gl: Sturmabteilung
+    gv: Sturmabteilung
+    he: אס אה
+    hi: श्टूर्माब्टाइलुंग
+    hr: Sturmabteilung
+    hu: Sturmabteilung
+    hy: ՍԱ
+    id: Sturmabteilung
+    io: Sturmabteilung
+    it: Sturmabteilung
+    ja: 突撃隊
+    ka: Sturmabteilung
+    ko: 돌격대
+    la: SA
+    lb: Sturmabteilung
+    lfn: Sturmabteilung
+    lt: Sturmabteilung
+    lv: Sturmabteilung
+    mk: Штурмабтајлунг
+    ms: Pasukan SA
+    mul: Sturmabteilung
+    nb: Sturmabteilung
+    nl: Sturmabteilung
+    nn: Sturmabteilung
+    pa: ਸਟੁਰਮਾਬਤਾਲੁੰਗ
+    pl: Sturmabteilung
+    pt: Sturmabteilung
+    pt-br: Sturmabteilung
+    ro: Sturmabteilung
+    ru: Штурмовые отряды
+    sco: Sturmabteilung
+    sh: Sturmabteilung
+    sk: Sturmabteilung
+    sl: Sturmabteilung
+    sq: Sturmabteilung
+    sr: Штурмабтајлунг
+    sr-ec: Штурмабтајлунг
+    sr-el: Šturmabtajlung
+    sv: Sturmabteilung
+    sw: Sturmabteilung
+    ta: ஸ்ட்ரோமப்டேலுங்
+    th: ชตวร์มอัพไทลุง
+    tl: Sturmabteilung
+    tr: Sturmabteilung
+    tt: Штурм әтрәтләре
+    uk: СА
+    ur: شٹورمابٹائلونگ
+    vi: SA
+    wuu: 冲锋队 (纳粹党)
+    yue: 衝鋒隊
+    zh: 冲锋队
+    zh-cn: 纳粹冲锋队
+    zh-hans: 纳粹冲锋队
+    zh-hant: 納粹衝鋒隊
+    zh-hk: 納粹衝鋒隊
+    zh-sg: 纳粹冲锋队
+    zh-tw: 納粹衝鋒隊
   next_:
-    item: "[[SS(Schutzstaffel)]]"
+    item: '[[SS(Schutzstaffel)]]'
 dv_is_same_as:
-  - "[[../../../../../../../../../WikiData/WD~Sturmabteilung,150793]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SA(Sturmabteilung)|SA(Sturmabteilung)]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SA(Sturmabteilung).public|SA(Sturmabteilung).public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SA(Sturmabteilung).internal|SA(Sturmabteilung).internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SA(Sturmabteilung).protect|SA(Sturmabteilung).protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SA(Sturmabteilung).private|SA(Sturmabteilung).private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SA(Sturmabteilung).personal|SA(Sturmabteilung).personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SA(Sturmabteilung).secret|SA(Sturmabteilung).secret]]"
-dv_has_next_item: "[[SS(Schutzstaffel)]]"
+- '[[../../../../../../../../../WikiData/WD~Sturmabteilung,150793]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SA(Sturmabteilung)|SA(Sturmabteilung)]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SA(Sturmabteilung).public|SA(Sturmabteilung).public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SA(Sturmabteilung).internal|SA(Sturmabteilung).internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SA(Sturmabteilung).protect|SA(Sturmabteilung).protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SA(Sturmabteilung).private|SA(Sturmabteilung).private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SA(Sturmabteilung).personal|SA(Sturmabteilung).personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SA(Sturmabteilung).secret|SA(Sturmabteilung).secret]]'
+dv_has_next_item: '[[SS(Schutzstaffel)]]'
 ---
-
 # [[SA(Sturmabteilung)]] 
 
 #is_/same_as :: [[WD~Sturmabteilung,150793]] 

@@ -1,51 +1,100 @@
 ---
 aliases:
-  - Tucydides
-  - Θουκυδίδης
-  - Thoukudídēs
-  - Thucydides
+- Fukidid
+- Thoukudídēs
+- Thoukydides
+- Thoukydidis
+- Thucydide
+- Thucydides
+- Thukidides
+- Thukididi
+- Thukydid
+- Thukydides
+- Thuküdidész
+- Thúkydidés
+- Tucidide
+- Tucidides
+- Tucidido
+- Tucydides
+- Tucìdide
+- Tucìdidi
+- Tucídides
+- Tukidid
+- Tukididas
+- Tukididis
+- Tukidydes
+- Tukidīds
+- Tukydid
+- Tuusididiiz
+- Tuzidides
+- Tûkudîdes
+- Þúkýdídes
+- Θουκυδίδης
+- Тукідыд
+- Тукидид
+- Фукідід
+- Фукідыд
+- Фукидид
+- Թուկիդիդես
+- Թուքիտիտիս
+- תוקידידס
+- توسیدید
+- توکودیدس
+- تھوسی ڈائڈز
+- تھیوسائیڈیسس
+- ثوقيديدس
+- थ्यूसीदाइदीज
+- থুসিডাইডিস
+- துசிடிடீஸ்
+- തുസ്സിഡിഡീസ്
+- ธูซิดิดีส
+- თუკიდიდე
+- ቶኪዳይደስ
+- トゥキディデス
+- 修昔底德
+- 투키디데스
 has_id_wikidata: Q41683
 occupation:
-  - "[[_Standards/WikiData/WD~historian,201788]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-student_of: "[[_Standards/WikiData/WD~Antiphon_of_Rhamnus,335560]]"
-military_or_police_rank: "[[_Standards/WikiData/WD~strategos,335954]]"
-different_from: "[[_Standards/WikiData/WD~Thucydides,580356]]"
+- '[[_Standards/WikiData/WD~historian,201788]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+student_of: '[[_Standards/WikiData/WD~Antiphon_of_Rhamnus,335560]]'
+military_or_police_rank: '[[_Standards/WikiData/WD~strategos,335954]]'
+different_from: '[[_Standards/WikiData/WD~Thucydides,580356]]'
 described_by_source:
-  - "[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Georgian_Soviet_Encyclopedia,1509493]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
-  - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Russian_Encyclopedic_Dictionary,19217220]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
-  - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-notable_work: "[[_Standards/WikiData/WD~History_of_the_Peloponnesian_War,639493]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Classical_Athens,844930]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-place_of_birth: "[[_Standards/WikiData/WD~Halimous,13464895]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
-position_held: "[[_Standards/WikiData/WD~Athenian_strategos,83874251]]"
-depicted_by: "[[_Standards/WikiData/WD~Bust_of_Thucydides,_Antirrio_park,114140042]]"
-father: "[[_Standards/WikiData/WD~Olorus,125731076]]"
-place_of_burial: "[[_Standards/WikiData/WD~Tomb_of_Thucydides_in_Athens,136487268]]"
+- '[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Georgian_Soviet_Encyclopedia,1509493]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Russian_Encyclopedic_Dictionary,19217220]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+notable_work: '[[_Standards/WikiData/WD~History_of_the_Peloponnesian_War,639493]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Classical_Athens,844930]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+place_of_birth: '[[_Standards/WikiData/WD~Halimous,13464895]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
+position_held: '[[_Standards/WikiData/WD~Athenian_strategos,83874251]]'
+depicted_by: '[[_Standards/WikiData/WD~Bust_of_Thucydides,_Antirrio_park,114140042]]'
+father: '[[_Standards/WikiData/WD~Olorus,125731076]]'
+place_of_burial: '[[_Standards/WikiData/WD~Tomb_of_Thucydides_in_Athens,136487268]]'
 date_of_birth: -0460-01-01T00:00:00Z
-place_of_death: "[[_Standards/WikiData/WD~Athens,1524]]"
-influenced_by: "[[_Standards/WikiData/WD~Homer,6691]]"
-field_of_work: "[[_Standards/WikiData/WD~history_of_ancient_Greece,7798]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-writing_language: "[[_Standards/WikiData/WD~Ancient_Greek,35497]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Ancient_Greek,35497]]"
+place_of_death: '[[_Standards/WikiData/WD~Athens,1524]]'
+influenced_by: '[[_Standards/WikiData/WD~Homer,6691]]'
+field_of_work: '[[_Standards/WikiData/WD~history_of_ancient_Greece,7798]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+writing_language: '[[_Standards/WikiData/WD~Ancient_Greek,35497]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Ancient_Greek,35497]]'
 Prosopographia_Attica: 7267
-Wolfram_Language_entity_code: Entity"Concept", "Thucydides = `=this.dv_"Concept", "Thucydides` 
+Wolfram_Language_entity_code: Entity"Concept", "Thucydides = `=this.dv_"Concept", "Thucydides`
 Krugosvet_article_archived_: istoriya/FUKIDID.html
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/44553
 Libris_URI: nl02zrs649n91v6
@@ -61,26 +110,130 @@ ISNI: 000000012144141X
 dv_"Concept", "Thucydides: 7rnft"
 dv_is_:
   same_as:
-    - "[[../../../../../../../../../WikiData/WD~Thucydides,41683|WD~Thucydides,41683]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Thucydides|Thucydides]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Thucydides.public|Thucydides.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Thucydides.internal|Thucydides.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Thucydides.protect|Thucydides.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Thucydides.private|Thucydides.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Thucydides.personal|Thucydides.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Thucydides.secret|Thucydides.secret]]"
+  - '[[../../../../../../../../../WikiData/WD~Thucydides,41683|WD~Thucydides,41683]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Thucydides|Thucydides]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Thucydides.public|Thucydides.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Thucydides.internal|Thucydides.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Thucydides.protect|Thucydides.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Thucydides.private|Thucydides.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Thucydides.personal|Thucydides.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Thucydides.secret|Thucydides.secret]]'
 dv_concept-thucydides: 7rnft"
 dv_is_same_as:
-  - "[[../../../../../../../../../WikiData/WD~Thucydides,41683|WD~Thucydides,41683]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Thucydides|Thucydides]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Thucydides.public|Thucydides.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Thucydides.internal|Thucydides.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Thucydides.protect|Thucydides.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Thucydides.private|Thucydides.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Thucydides.personal|Thucydides.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Thucydides.secret|Thucydides.secret]]"
+- '[[../../../../../../../../../WikiData/WD~Thucydides,41683|WD~Thucydides,41683]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Thucydides|Thucydides]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Thucydides.public|Thucydides.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Thucydides.internal|Thucydides.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Thucydides.protect|Thucydides.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Thucydides.private|Thucydides.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Thucydides.personal|Thucydides.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Thucydides.secret|Thucydides.secret]]'
+dv_has_:
+  name_:
+    af: Thukydides
+    am: ቶኪዳይደስ
+    an: Tucidides
+    ar: ثوقيديدس
+    arz: ثوقيديدس
+    ast: Tucídides
+    az: Fukidid
+    ba: Фукидид
+    bcl: Thucydides
+    be: Фукідыд
+    be-tarask: Тукідыд
+    bg: Тукидид
+    bn: থুসিডাইডিস
+    br: Thoukydides
+    bs: Tukidid
+    ca: Tucídides
+    ckb: توسیدید
+    cs: Thúkydidés
+    cy: Thucydides
+    da: Thukydid
+    de: Thukydides
+    de-ch: Thukydides
+    diq: Tukidid
+    el: Θουκυδίδης
+    en: Thucydides
+    en-ca: Thucydides
+    en-gb: Thucydides
+    eo: Tucidido
+    es: Tucídides
+    et: Thukydides
+    eu: Tuzidides
+    fa: توکودیدس
+    fi: Thukydides
+    fr: Thucydide
+    ga: Thucydides
+    gl: Tucídides
+    grc: Θουκυδίδης
+    gsw: Thukydides
+    he: תוקידידס
+    hi: थ्यूसीदाइदीज
+    hr: Tukidid
+    hu: Thuküdidész
+    hy: Թուկիդիդես
+    hyw: Թուքիտիտիս
+    ia: Thucydides
+    id: Thukidides
+    io: Thukydides
+    is: Þúkýdídes
+    it: Tucidide
+    ja: トゥキディデス
+    jam: Tuusididiiz
+    ka: თუკიდიდე
+    kk: Фукидид
+    ko: 투키디데스
+    ku: Tûkudîdes
+    la: Thucydides
+    lb: Thukydides
+    lfn: Tucidide
+    li: Thoukydides
+    lt: Tukididas
+    lv: Tukidīds
+    mg: Thucydides
+    mk: Тукидид
+    ml: തുസ്സിഡിഡീസ്
+    ms: Thoukydides
+    mwl: Tucídides
+    mzn: توسیدید
+    nb: Tukydid
+    nl: Thucydides
+    nn: Thukydides
+    oc: Tucidides
+    pl: Tukidydes
+    pms: Tucìdide
+    pnb: تھیوسائیڈیسس
+    pt: Tucídides
+    pt-br: Tucídides
+    ro: Tucidide
+    ru: Фукидид
+    scn: Tucìdidi
+    sco: Thucydides
+    sh: Tukidid
+    sk: Thoukydides
+    sl: Tukidid
+    sq: Thukididi
+    sr: Тукидид
+    sv: Thukydides
+    sw: Thukidides
+    ta: துசிடிடீஸ்
+    th: ธูซิดิดีส
+    tl: Thoukydidis
+    tr: Tukididis
+    uk: Фукідід
+    ur: تھوسی ڈائڈز
+    uz: Fukidid
+    vi: Thucydides
+    war: Thucydides
+    wuu: 修昔底德
+    xmf: თუკიდიდე
+    yo: Thucydides
+    yue: 修昔底德
+    zh: 修昔底德
+    zh-hant: 修昔底德
+    zh-tw: 修昔底德
 ---
-
 # [[Thucydides]] 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Thucydides,41683|WD~Thucydides,41683]]  

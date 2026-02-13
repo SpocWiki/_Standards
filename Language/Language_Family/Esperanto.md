@@ -390,6 +390,7 @@ dv_has_:
     na: Esperanto
     nah: Esperantotlahtōlli
     nan: Sè-kài-gí
+    nap: Esperanto
     nb: esperanto
     nds: Esperanto
     nds-nl: Esperanto

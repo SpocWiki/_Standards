@@ -1,83 +1,113 @@
 ---
 aliases:
-  - Pridoli
-  - Пржидол
-  - Přídolí
-  - Prídoli
-  - pridoli
-  - プリドリアン世
-  - Pržidolis
-  - Przydol
-  - přídol
-  - pridolij
-  - 普里多利世
+- Pridoli
+- Pridoli (geologi)
+- Pridoli (kala)
+- Pridoli epoch
+- pridolij
+- Pridolium
+- Pridolià
+- Pridulianu
+- Przydol
+- Prídoli
+- Pržidolis
+- přídol
+- Přídolí
+- Sealad Pridoli
+- Thế Pridoli
+- Пржидол
+- пржидольская эпоха
+- Пржидольський ярус
+- بريدولي
+- دور پریدولی
+- プリドリアン世
+- プリドリ世
+- 普里多利世
+- 普里道利世
 has_id_wikidata: Q1062563
 instance_of:
-  - "[[_Standards/WikiData/WD~series,312468]]"
-  - "[[_Standards/WikiData/WD~epoch,754897]]"
-named_after: "[[_Standards/WikiData/WD~Přídolí,1396292]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Pridoli_epoch,30869535]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Přídolí,133566995]]"
+- '[[_Standards/WikiData/WD~series,312468]]'
+- '[[_Standards/WikiData/WD~epoch,754897]]'
+named_after: '[[_Standards/WikiData/WD~Přídolí,1396292]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Pridoli_epoch,30869535]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Přídolí,133566995]]'
 sRGB_color_hex_triplet: E4F2E6
 end_time: -419200000-01-01T00:00:00Z
 start_time: -423000000-01-01T00:00:00Z
 dv_has_:
   duration_:
-    years: "3.800e+6"
-  previous_:
-    item: "[[Epoch-427~Ludlow]]"
-  next_:
-    item: "[[../Period-0419~Devonian/Epoch-419~Early_Devonian|Epoch~1~Early_Devonian]]"
+    years: 3.800e+6
   name_:
+    abbreviated: S4
+    af: Pridoli
+    ar: بريدولي
     bg: Пржидол
-    cs: Přídolí
+    ca: Pridolià
+    cs: přídolí
     da: Pridoli
-    de: Pridoli
+    de: Pridolium
+    en: Pridoli
+    en-ca: Pridoli epoch
+    en-gb: Pridoli epoch
     es: Prídoli
     et: Pridoli
+    fa: دور پریدولی
     fi: Pridoli
     fr: Pridoli
+    ga: Sealad Pridoli
+    hr: pridolij
     hu: pridoli
-    it: pridoli
-    ja: プリドリアン世
+    id: Pridoli (kala)
+    it: Pridoli
+    ja: プリドリ世
     lt: Pržidolis
+    ms: Pridoli (geologi)
     nl: Pridoli
+    nn: pridoli
     no: Pridoli
     pl: Przydol
     pt: Pridoli
+    pt-br: Pridoli
+    ru: пржидольская эпоха
+    scn: Pridulianu
     sk: přídol
     sl: pridolij
-    sv: pridoli
-    zh: 普里多利世
-    abbreviated: S4
-  time_:
-    started: "-423.0e6"
-    stopped: "-419.2e6"
+    sv: Pridoli
+    uk: Пржидольський ярус
+    vi: Thế Pridoli
+    zh: 普里道利世
+  next_:
+    item: '[[../Period-0419~Devonian/Epoch-419~Early_Devonian|Epoch~1~Early_Devonian]]'
+  previous_:
+    item: '[[Epoch-427~Ludlow]]'
   text_of_:
-    color: "0xE6F5E1"
+    color: 0xE6F5E1
+  time_:
+    started: -423.0e6
+    stopped: -419.2e6
 dv_is_:
   same_as:
-    - "[[WD~Pridoli,1062563]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-423~Pridoli|Epoch-423~Pridoli]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-423~Pridoli.public|Epoch-423~Pridoli.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-423~Pridoli.internal|Epoch-423~Pridoli.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-423~Pridoli.protect|Epoch-423~Pridoli.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-423~Pridoli.private|Epoch-423~Pridoli.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-423~Pridoli.personal|Epoch-423~Pridoli.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-423~Pridoli.secret|Epoch-423~Pridoli.secret]]"
-dv_has_duration_years: "3.800e+6"
-dv_has_previous_item: "[[Epoch-427~Ludlow]]"
-dv_has_next_item: "[[../Period-0419~Devonian/Epoch-419~Early_Devonian|Epoch~1~Early_Devonian]]"
+  - '[[WD~Pridoli,1062563]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-423~Pridoli|Epoch-423~Pridoli]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-423~Pridoli.public|Epoch-423~Pridoli.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-423~Pridoli.internal|Epoch-423~Pridoli.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-423~Pridoli.protect|Epoch-423~Pridoli.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-423~Pridoli.private|Epoch-423~Pridoli.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-423~Pridoli.personal|Epoch-423~Pridoli.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-423~Pridoli.secret|Epoch-423~Pridoli.secret]]'
+dv_has_duration_years: 3.800e+6
+dv_has_previous_item: '[[Epoch-427~Ludlow]]'
+dv_has_next_item: '[[../Period-0419~Devonian/Epoch-419~Early_Devonian|Epoch~1~Early_Devonian]]'
 dv_is_same_as:
-  - "[[WD~Pridoli,1062563]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-423~Pridoli|Epoch-423~Pridoli]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-423~Pridoli.public|Epoch-423~Pridoli.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-423~Pridoli.internal|Epoch-423~Pridoli.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-423~Pridoli.protect|Epoch-423~Pridoli.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-423~Pridoli.private|Epoch-423~Pridoli.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-423~Pridoli.personal|Epoch-423~Pridoli.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-423~Pridoli.secret|Epoch-423~Pridoli.secret]]"
+- '[[WD~Pridoli,1062563]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-423~Pridoli|Epoch-423~Pridoli]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-423~Pridoli.public|Epoch-423~Pridoli.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-423~Pridoli.internal|Epoch-423~Pridoli.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-423~Pridoli.protect|Epoch-423~Pridoli.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-423~Pridoli.private|Epoch-423~Pridoli.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-423~Pridoli.personal|Epoch-423~Pridoli.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-423~Pridoli.secret|Epoch-423~Pridoli.secret]]'
 dv_has_name_bg: Пржидол
 dv_has_name_cs: Přídolí
 dv_has_name_da: Pridoli
@@ -99,11 +129,10 @@ dv_has_name_sl: pridolij
 dv_has_name_sv: pridoli
 dv_has_name_zh: 普里多利世
 dv_has_name_abbreviated: S4
-dv_has_time_started: "-423.0e6"
-dv_has_time_stopped: "-419.2e6"
-dv_has_text_of_color: "0xE6F5E1"
+dv_has_time_started: -423.0e6
+dv_has_time_stopped: -419.2e6
+dv_has_text_of_color: 0xE6F5E1
 ---
-
 # [[Epoch-423~Pridoli]] 
 
 #is_a_/time_/Epoch 

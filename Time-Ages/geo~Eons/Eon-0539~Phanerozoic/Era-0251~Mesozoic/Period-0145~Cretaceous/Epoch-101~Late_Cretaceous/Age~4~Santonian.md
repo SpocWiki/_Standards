@@ -1,75 +1,121 @@
 ---
 aliases:
-  - Santonian
+- Santon
+- santoni
+- Santonian
+- Santoniano
+- Santonianu
+- Santoniar
+- Santonien
+- Santoniense
+- santonij
+- Santonium
+- Santonià
+- Santunianu
+- Tầng Santon
+- сантонски
+- сантонский ярус
+- Сантонський ярус
+- סאנטון
+- السانتوني
+- سانتونین
+- サントニアン
+- 桑托阶
+- 桑托階
+- 생통주절
 has_id_wikidata: Q257290
-named_after: "[[_Standards/WikiData/WD~Saintes,191126]]"
+named_after: '[[_Standards/WikiData/WD~Saintes,191126]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-significant_place: "[[_Standards/WikiData/WD~Olazti_Olazagutía,1641794]]"
-named_by: "[[_Standards/WikiData/WD~Henri_Coquand,3130874]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Santonian,21782625]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Santonian,133894977]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+significant_place: '[[_Standards/WikiData/WD~Olazti_Olazagutía,1641794]]'
+named_by: '[[_Standards/WikiData/WD~Henri_Coquand,3130874]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Santonian,21782625]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Santonian,133894977]]'
 coordinate_location: Point(-2.1968 42.8668)
-country: "[[_Standards/WikiData/WD~Spain,29]]"
+country: '[[_Standards/WikiData/WD~Spain,29]]'
 sRGB_color_hex_triplet: DEE78A
 end_time: -83600000-01-01T00:00:00Z
 start_time: -86300000-01-01T00:00:00Z
 dv_has_:
   duration_:
-    years: "2.700e+6"
-  prev_item: "[[Age~5~Campanian]]"
-  next_item: "[[Age~6~Maastrichtian]]"
+    years: 2.700e+6
   name_:
+    abbreviated: k4
+    af: Santonium
+    ar: السانتوني
+    ast: Santonianu
     bg: Сантон
+    ca: Santonià
     cs: Santon
     da: Santonien
-    de: Santonium
+    de: Santon
+    en: Santonian
     es: Santoniense
     et: Santoni
+    eu: Santoniar
+    fa: سانتونین
     fi: Santon
     fr: Santonien
+    gl: Santoniano
+    he: סאנטון
     hu: santoni
-    it: santoniano
-    ja: サントニアン期
+    id: Santonium
+    it: Santoniano
+    ja: サントニアン
+    ko: 생통주절
+    la: Santonium
     lt: Santonis
-    nl: Santoniën
+    nb: Santon
+    nds: Santonium
+    nl: Santonien
+    nn: santon
     no: Santonium
-    pl: Santon
+    pl: santon
     pt: Santoniano
+    ru: сантонский ярус
+    scn: Santunianu
+    sh: Santon
     sk: santón
     sl: santonij
+    sr: сантонски
     sv: santon
-    zh: 桑托期
-    abbreviated: k4
-  time_:
-    started: "-86.3e6"
-    stopped: "-83.6e6"
+    uk: Сантонський ярус
+    vec: Santonian
+    vi: Tầng Santon
+    zh: 桑托階
+    zh-cn: 桑托阶
+    zh-tw: 桑托階
+  next_item: '[[Age~6~Maastrichtian]]'
+  prev_item: '[[Age~5~Campanian]]'
   text_of_:
-    color: "0xD9EF74"
+    color: 0xD9EF74
+  time_:
+    started: -86.3e6
+    stopped: -83.6e6
 dv_is_:
   same_as:
-    - "[[WD~Santonian,257290]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~4~Santonian|Age~4~Santonian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~4~Santonian.public|Age~4~Santonian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~4~Santonian.internal|Age~4~Santonian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~4~Santonian.protect|Age~4~Santonian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~4~Santonian.private|Age~4~Santonian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~4~Santonian.personal|Age~4~Santonian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~4~Santonian.secret|Age~4~Santonian.secret]]"
-dv_has_duration_years: "2.700e+6"
-dv_has_prev_item: "[[Age~5~Campanian]]"
-dv_has_next_item: "[[Age~6~Maastrichtian]]"
+  - '[[WD~Santonian,257290]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~4~Santonian|Age~4~Santonian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~4~Santonian.public|Age~4~Santonian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~4~Santonian.internal|Age~4~Santonian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~4~Santonian.protect|Age~4~Santonian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~4~Santonian.private|Age~4~Santonian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~4~Santonian.personal|Age~4~Santonian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~4~Santonian.secret|Age~4~Santonian.secret]]'
+dv_has_duration_years: 2.700e+6
+dv_has_prev_item: '[[Age~5~Campanian]]'
+dv_has_next_item: '[[Age~6~Maastrichtian]]'
 dv_is_same_as:
-  - "[[WD~Santonian,257290]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~4~Santonian|Age~4~Santonian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~4~Santonian.public|Age~4~Santonian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~4~Santonian.internal|Age~4~Santonian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~4~Santonian.protect|Age~4~Santonian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~4~Santonian.private|Age~4~Santonian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~4~Santonian.personal|Age~4~Santonian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~4~Santonian.secret|Age~4~Santonian.secret]]"
+- '[[WD~Santonian,257290]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~4~Santonian|Age~4~Santonian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~4~Santonian.public|Age~4~Santonian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~4~Santonian.internal|Age~4~Santonian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~4~Santonian.protect|Age~4~Santonian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~4~Santonian.private|Age~4~Santonian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~4~Santonian.personal|Age~4~Santonian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~4~Santonian.secret|Age~4~Santonian.secret]]'
 dv_has_name_bg: Сантон
 dv_has_name_cs: Santon
 dv_has_name_da: Santonien
@@ -91,9 +137,9 @@ dv_has_name_sl: santonij
 dv_has_name_sv: santon
 dv_has_name_zh: 桑托期
 dv_has_name_abbreviated: k4
-dv_has_time_started: "-86.3e6"
-dv_has_time_stopped: "-83.6e6"
-dv_has_text_of_color: "0xD9EF74"
+dv_has_time_started: -86.3e6
+dv_has_time_stopped: -83.6e6
+dv_has_text_of_color: 0xD9EF74
 ---
 # [[Age~4~Santonian]] 
 

@@ -1,89 +1,109 @@
 ---
 aliases:
-  - Sakmarian
-  - Сакмар
-  - Sakmar
-  - Sakmarien
-  - Sakmarium
-  - Sakmariense
-  - Sakmaria
-  - szakmarai
-  - sakmariano
-  - サクマリアン期
-  - Sakmaris
-  - Sakmariën
-  - Samarkium
-  - Sakmariano
-  - sakmar
-  - sakmarij
-  - 萨克马尔期
+- Sacmarianu
+- Sakmar
+- sakmara
+- Sakmaria
+- Sakmarian
+- sakmariano
+- Sakmarien
+- Sakmariense
+- sakmarij
+- Sakmaris
+- Sakmarium
+- Sakmarià
+- Sakmariën
+- Samarkium
+- szakmarai
+- Tầng Sakmara
+- Сакмар
+- сакмарский ярус
+- Сакмарський ярус
+- الساكماري
+- ساکمارین
+- サクマリアン期
+- サクマーリアン
+- 萨克马尔期
 has_id_wikidata: Q912962
-named_after: "[[_Standards/WikiData/WD~Sakmara,68939]]"
+named_after: '[[_Standards/WikiData/WD~Sakmara,68939]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Sakmarian,134463517]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Sakmarian,134463517]]'
 end_time: -290100000-01-01T00:00:00Z
 start_time: -295000000-01-01T00:00:00Z
 sRGB_color_hex_triplet: EF806A
 Commons_category: Sakmarian
 dv_has_:
   duration_:
-    years: "3.410e+6"
-  previous_:
-    item: "[[Age~1~Asselian]]"
-  next_:
-    item: "[[Age~3~Artinskian]]"
+    years: 3.410e+6
   name_:
+    abbreviated: p2
+    af: Sakmarium
+    ar: الساكماري
     bg: Сакмар
+    ca: Sakmarià
     cs: Sakmar
     da: Sakmarien
     de: Sakmarium
+    en: Sakmarian
     es: Sakmariense
     et: Sakmaria
+    fa: ساکمارین
     fi: Sakmar
     fr: Sakmarien
+    hr: Sakmar
     hu: szakmarai
-    it: sakmariano
-    ja: サクマリアン期
+    id: Sakmarium
+    it: Sakmariano
+    ja: サクマーリアン
     lt: Sakmaris
-    nl: Sakmariën
+    nl: Sakmarien
+    nn: sakmara
     no: Samarkium
     pl: Sakmar
     pt: Sakmariano
+    ru: сакмарский ярус
+    scn: Sacmarianu
+    sh: Sakmar
     sk: sakmar
     sl: sakmarij
     sv: sakmar
+    uk: Сакмарський ярус
+    vi: Tầng Sakmara
     zh: 萨克马尔期
-    abbreviated: p2
-  time_:
-    started: "-293.51e6"
-    stopped: "-290.10e6"
+  next_:
+    item: '[[Age~3~Artinskian]]'
+  previous_:
+    item: '[[Age~1~Asselian]]'
   text_of_:
-    color: "0xE36F5C"
+    color: 0xE36F5C
+  time_:
+    started: -293.51e6
+    stopped: -290.10e6
 dv_is_:
   same_as:
-    - "[[WD~Sakmarian,912962]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~2~Sakmarian|Age~2~Sakmarian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~2~Sakmarian.public|Age~2~Sakmarian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~2~Sakmarian.internal|Age~2~Sakmarian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~2~Sakmarian.protect|Age~2~Sakmarian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~2~Sakmarian.private|Age~2~Sakmarian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~2~Sakmarian.personal|Age~2~Sakmarian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~2~Sakmarian.secret|Age~2~Sakmarian.secret]]"
-dv_has_duration_years: "3.410e+6"
-dv_has_previous_item: "[[Age~1~Asselian]]"
-dv_has_next_item: "[[Age~3~Artinskian]]"
+  - '[[WD~Sakmarian,912962]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~2~Sakmarian|Age~2~Sakmarian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~2~Sakmarian.public|Age~2~Sakmarian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~2~Sakmarian.internal|Age~2~Sakmarian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~2~Sakmarian.protect|Age~2~Sakmarian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~2~Sakmarian.private|Age~2~Sakmarian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~2~Sakmarian.personal|Age~2~Sakmarian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~2~Sakmarian.secret|Age~2~Sakmarian.secret]]'
+dv_has_duration_years: 3.410e+6
+dv_has_previous_item: '[[Age~1~Asselian]]'
+dv_has_next_item: '[[Age~3~Artinskian]]'
 dv_is_same_as:
-  - "[[WD~Sakmarian,912962]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~2~Sakmarian|Age~2~Sakmarian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~2~Sakmarian.public|Age~2~Sakmarian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~2~Sakmarian.internal|Age~2~Sakmarian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~2~Sakmarian.protect|Age~2~Sakmarian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~2~Sakmarian.private|Age~2~Sakmarian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~2~Sakmarian.personal|Age~2~Sakmarian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~2~Sakmarian.secret|Age~2~Sakmarian.secret]]"
+- '[[WD~Sakmarian,912962]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~2~Sakmarian|Age~2~Sakmarian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~2~Sakmarian.public|Age~2~Sakmarian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~2~Sakmarian.internal|Age~2~Sakmarian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~2~Sakmarian.protect|Age~2~Sakmarian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~2~Sakmarian.private|Age~2~Sakmarian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~2~Sakmarian.personal|Age~2~Sakmarian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~2~Sakmarian.secret|Age~2~Sakmarian.secret]]'
 dv_has_name_bg: Сакмар
 dv_has_name_cs: Sakmar
 dv_has_name_da: Sakmarien
@@ -105,9 +125,9 @@ dv_has_name_sl: sakmarij
 dv_has_name_sv: sakmar
 dv_has_name_zh: 萨克马尔期
 dv_has_name_abbreviated: p2
-dv_has_time_started: "-293.51e6"
-dv_has_time_stopped: "-290.10e6"
-dv_has_text_of_color: "0xE36F5C"
+dv_has_time_started: -293.51e6
+dv_has_time_stopped: -290.10e6
+dv_has_text_of_color: 0xE36F5C
 ---
 # [[Age~2~Sakmarian]]
 

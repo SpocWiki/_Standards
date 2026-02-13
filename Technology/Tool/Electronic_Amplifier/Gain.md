@@ -1,10 +1,91 @@
 ---
 aliases:
+- Bati
+- forsterking
+- forsterkning
+- forstærkning
+- gain
+- ganancia
+- Ganansya
+- ganho
+- guadagno
+- guany
+- Irabazi
+- ojačanje
+- Pojačanje
+- Pojačanje (elektronika)
+- Tek-lī
+- Verstärkung
+- Võimendustegur
+- Wzmocnienie (elektronika)
+- Zisk
+- Zisk (elektrotechnika)
+- Độ khuếch đại
+- Απολαβή
+- засилување
+- каэфіцыент перадачы
+- коэффициент передачи
+- передавальний коефіцієнт
+- بهره
+- كسب كهربائي
+- प्रवर्धन
+- গেইন (ইলেকট্রনিক্স)
+- ஈட்டம்
+- เกน
+- 利得
+- 增益
+- 이득
 has_id_wikidata: Q854659
-instance_of: "[[_Standards/WikiData/WD~physical_quantity,107715]]"
-different_from: "[[_Standards/WikiData/WD~Wzmocnienie,9381126]]"
+instance_of: '[[_Standards/WikiData/WD~physical_quantity,107715]]'
+different_from: '[[_Standards/WikiData/WD~Wzmocnienie,9381126]]'
+dv_has_:
+  name_:
+    ar: كسب كهربائي
+    be-tarask: каэфіцыент перадачы
+    bg: gain
+    bn: গেইন (ইলেকট্রনিক্স)
+    bs: Pojačanje (elektronika)
+    ca: guany
+    cs: Zisk (elektrotechnika)
+    da: forstærkning
+    de: Verstärkung
+    el: Απολαβή
+    en: gain
+    es: ganancia
+    et: Võimendustegur
+    eu: Irabazi
+    fa: بهره
+    fr: Gain
+    hi: प्रवर्धन
+    hr: Pojačanje
+    id: Bati
+    it: guadagno
+    ja: 利得
+    ko: 이득
+    mk: засилување
+    nan: Tek-lī
+    nb: forsterkning
+    nl: Gain
+    nn: forsterking
+    pl: Wzmocnienie (elektronika)
+    pt: ganho
+    ru: коэффициент передачи
+    sh: Pojačanje
+    sk: Zisk
+    sl: ojačanje
+    sr: Pojačanje (elektronika)
+    su: Gain
+    ta: ஈட்டம்
+    th: เกน
+    tl: Ganansya
+    uk: передавальний коефіцієнт
+    vi: Độ khuếch đại
+    wuu: 增益
+    zh: 增益
+    zh-hans: 增益
+    zh-hant: 增益
+    zh-hk: 增益
 ---
-
 # [[Gain]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Gain,854659|WD~Gain,854659]] 

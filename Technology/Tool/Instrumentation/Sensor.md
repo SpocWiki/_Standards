@@ -1,33 +1,192 @@
 ---
 aliases:
+- andur
+- anturi
+- A̱tala
+- Bergiş
+- braiteoir
+- capteur
+- czujnik
+- cảm biến
+- Datchik
+- Isihlonga
+- Jutiklis
+- Musyaq
+- Nemi (Mælitæki)
+- Penderia
+- sensilo
+- Sensor
+- sensore
+- Sensori
+- Sensors
+- Sensör
+- sentsore
+- senzor
+- Senzori
+- Sinsuri
+- Snímač
+- synhwyrydd
+- Sénsor
+- érzékelő
+- Αισθητήρας
+- Бергіш
+- датчик
+- Мэдрэгч
+- Сензор
+- сенсор
+- сетилник
+- чуйнік
+- Ҳисгар
+- חיישן
+- بەرگىش
+- حسگر
+- سنسر
+- مستشعر
+- مکشاف
+- संवेदक
+- सेंसर
+- সুবেদী গ্রাহক
+- ਸੈਂਸਰ
+- உணரி
+- సెన్సార్
+- ಸಂವೇದಕ
+- സെൻസർ
+- ตัวรับรู้
+- အာရုံခံ
+- အာရုံခံကိရိယာ
+- センサ
+- 传感器
+- 傳感器
+- 感应器
+- 感應器
+- 感測
+- 感測器
+- 센서
 has_id_wikidata: Q167676
 instance_of:
-  - "[[_Standards/WikiData/WD~physical_technological_component,811909]]"
-  - "[[_Standards/WikiData/WD~field_of_study,1047113]]"
-  - "[[_Standards/WikiData/WD~field_of_study,2267705]]"
-part_of: "[[_Standards/WikiData/WD~measuring_instrument,2041172]]"
-subclass_of: "[[_Standards/WikiData/WD~measuring_instrument,2041172]]"
-model_item: "[[_Standards/WikiData/WD~detector,2066909]]"
-has_list: "[[_Standards/WikiData/WD~list_of_sensors,6638158]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Sensors,21096631]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
+- '[[_Standards/WikiData/WD~physical_technological_component,811909]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~field_of_study,2267705]]'
+part_of: '[[_Standards/WikiData/WD~measuring_instrument,2041172]]'
+subclass_of: '[[_Standards/WikiData/WD~measuring_instrument,2041172]]'
+model_item: '[[_Standards/WikiData/WD~detector,2066909]]'
+has_list: '[[_Standards/WikiData/WD~list_of_sensors,6638158]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Sensors,21096631]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~International_Vocabulary_of_Metrology_(3rd_edition,_2012),70257574]]"
-  - "[[_Standards/WikiData/WD~Vocabulario_Internacional_de_Metrología_(3a_Edición_en_español_2012),110694877]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Q131851259,131851259]]"
+- '[[_Standards/WikiData/WD~International_Vocabulary_of_Metrology_(3rd_edition,_2012),70257574]]'
+- '[[_Standards/WikiData/WD~Vocabulario_Internacional_de_Metrología_(3a_Edición_en_español_2012),110694877]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q131851259,131851259]]'
 Wikidata_property: sensors
-OmegaWiki_Defined_Meaning: "4613"
+OmegaWiki_Defined_Meaning: 4613
 GitHub_topic:
-  - sensor
-  - sensors
+- sensor
+- sensors
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Light%20sensor.png
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Zer%20dira%20sentsoreak%3F.webm
 IEV_number: 311-05-01
-Dewey_Decimal_Classification: "681.2"
+Dewey_Decimal_Classification: 681.2
 Commons_category: Sensors
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Sensor.ogg
+dv_has_:
+  name_:
+    apc: سنسر
+    ar: مستشعر
+    ast: sensor
+    az: Sensor
+    bcl: Sensor
+    be-tarask: чуйнік
+    bg: Сензор
+    bn: সুবেদী গ্রাহক
+    bs: Senzor
+    ca: sensor
+    cs: senzor
+    cy: synhwyrydd
+    da: sensor
+    de: Sensor
+    el: Αισθητήρας
+    en: sensor
+    eo: sensilo
+    es: sensor
+    et: andur
+    eu: sentsore
+    fa: حسگر
+    fi: anturi
+    fr: capteur
+    ga: braiteoir
+    gl: sensor
+    ha: Sensor
+    he: חיישן
+    hi: सेंसर
+    hr: Senzori
+    hu: érzékelő
+    id: Sensor
+    is: Nemi (Mælitæki)
+    it: sensore
+    ja: センサ
+    jv: Sensor
+    kcg: A̱tala
+    kk: Бергіш
+    kk-arab: بەرگىش
+    kk-cn: بەرگىش
+    kk-cyrl: Бергіш
+    kk-kz: Бергіш
+    kk-latn: Bergiş
+    kk-tr: Bergiş
+    kn: ಸಂವೇದಕ
+    ko: 센서
+    ku: Sensor
+    lt: Jutiklis
+    lv: Sensors
+    lzh: 感測
+    mk: сетилник
+    ml: സെൻസർ
+    mn: Мэдрэгч
+    mr: संवेदक
+    ms: Penderia
+    my: အာရုံခံ
+    nb: sensor
+    nl: sensor
+    nn: sensor
+    os: сенсор
+    pa: ਸੈਂਸਰ
+    pl: czujnik
+    pt: sensor
+    qu: Musyaq
+    rki: အာရုံခံကိရိယာ
+    ro: senzor
+    ru: датчик
+    scn: Sinsuri
+    sh: Senzor
+    sk: Snímač
+    sl: senzor
+    sq: Sensori
+    sr: сензор
+    sr-ec: сензор
+    sr-el: senzor
+    su: Sénsor
+    sv: sensor
+    ta: உணரி
+    te: సెన్సార్
+    tg: Ҳисгар
+    th: ตัวรับรู้
+    tl: Sensor
+    tr: Sensör
+    uk: датчик
+    ur: مکشاف
+    uz: Datchik
+    vi: cảm biến
+    wuu: 传感器
+    yue: 感應器
+    zh: 感应器
+    zh-cn: 传感器
+    zh-hans: 传感器
+    zh-hant: 傳感器
+    zh-hk: 傳感器
+    zh-sg: 传感器
+    zh-tw: 感測器
+    zu: Isihlonga
 ---
-
 # [[Sensor]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Sensor,167676|WD~Sensor,167676]] 

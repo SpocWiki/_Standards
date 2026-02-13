@@ -1,21 +1,104 @@
 ---
 aliases:
-  - Public transport
-  - public transit
-  - mass transit
-  - transit
-  - Public_Transport
-  - Public Transport
+- Almenningssamgöngur
+- almmolaš johtolat
+- ektie-valkese
+- garraio publiko
+- giao thông công cộng
+- ictimai nəqliyyat
+- iompar poiblí
+- javni potniški prevoz
+- Javni prevoz
+- javni prijevoz
+- joukkjååttlõk
+- julkinen liikenne
+- juávkkujotolâh
+- kollektiv trafik
+- kollektivtrafik
+- kollektivtransport
+- Kong-kiōng ūn-su
+- mass transit
+- Oopnboar vervoer
+- openbaar vervoer
+- Paangkutan awam
+- Pampublikong transportasyon
+- Panakayan hin publiko
+- pengangkutan awam
+- public transit
+- Public transport
+- publiczny transport zbiorowy
+- Public_Transport
+- publika transporto
+- Qalalıq kölik
+- sabiedriskais transports
+- toplu taşımacılık
+- transit
+- transport en commun
+- transport public
+- transport públic
+- Transportasi umum
+- transporte coletivo
+- transporte público
+- Transporti publik
+- transpòrt public
+- trasporto pubblico
+- Trasporto pùblego
+- Trasportu pùbbricu
+- Traspòrt pùblich
+- tresporte públicu
+- treuzdougen foran
+- tömegközlekedés
+- Usafiri wa umma
+- verejná doprava
+- veřejná doprava
+- viešasis transportas
+- zjawny wobchad
+- ëffentlechen Transport
+- öffentlicher Verkehr
+- ühistransport
+- δημόσια συγκοινωνία
+- јавен превоз
+- јавни превоз
+- грамадзкі транспарт
+- грамадскі транспарт
+- громадський транспорт
+- Йукъараллин транспорт
+- Нийтийн тээвэр
+- Обществен транспорт
+- общественный транспорт
+- Пĕрлĕх транспорчĕ
+- Түмэт транспорт
+- җәмәгать транспорты
+- Қалалық көлік
+- հասարակական տրանսպորտ
+- תחבורה ציבורית
+- حمل و نقل عمومی
+- قالالىق كولىك
+- مواصلات عمومية
+- ڤڠݢکوتن عوام
+- گواستنەوەی گشتی
+- सार्वजनिक परिवहन
+- सार्वजनिक यातायात
+- গণপরিবহন
+- පොදු ප්රවාහනය
+- การขนส่งสาธารณะ
+- საზოგადოებრივი ტრანსპორტი
+- យានដឹកជញ្ជូនសាធារណៈ
+- 公共交通
+- 公共交通機関
+- 公共運輸
+- 大眾運輸
+- 대중교통
 has_id_wikidata: Q178512
 has_use: '[[_Standards/WikiData/WD~climate_change_mitigation,898653]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-  - '[[_Standards/WikiData/WD~field_of_study,2267705]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~field_of_study,2267705]]'
 opposite_of: '[[_Standards/WikiData/WD~private_transport,1661652]]'
 different_from:
-  - '[[_Standards/WikiData/WD~passenger_transport,2072431]]'
-  - '[[_Standards/WikiData/WD~shared_transport,7489559]]'
-  - '[[_Standards/WikiData/WD~collective_transportation,109733489]]'
+- '[[_Standards/WikiData/WD~passenger_transport,2072431]]'
+- '[[_Standards/WikiData/WD~shared_transport,7489559]]'
+- '[[_Standards/WikiData/WD~collective_transportation,109733489]]'
 subclass_of: '[[_Standards/WikiData/WD~transport_service,2806437]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Public_transport,4177559]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
@@ -27,25 +110,134 @@ partially_coincident_with: '[[_Standards/WikiData/WD~collective_transportation,1
 has_characteristic: '[[_Standards/WikiData/WD~public,116796279]]'
 OmegaWiki_Defined_Meaning: 3048
 Merchant_Category_Code:
-  - 4111
-  - 4112
+- 4111
+- 4112
 social_media_followers: 14186
 image: http://commons.wikimedia.org/wiki/Special:FilePath/First%20Group%20services%20mosaic%202015.jpg
 icon:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Public%20transport%20icon.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Symbols%20of%20vehicles.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Public%20transport%20icon.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Symbols%20of%20vehicles.jpg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Stockholm%20Metro%20station%20Duvbo%20banner.jpg
 Mastodon_instance_URL: https://social.ridetrans.it
 subreddit: Infrastructurist
 Commons_gallery: Public transport
 Commons_category: Public transport
 GitHub_topic:
-  - public-transport
-  - public-transportation
+- public-transport
+- public-transportation
 OpenStreetMap_key: public_transport
 OpenStreetMap_tag: type=public_transport
+dv_has_:
+  name_:
+    ar: مواصلات عمومية
+    ast: tresporte públicu
+    az: ictimai nəqliyyat
+    be: грамадскі транспарт
+    be-tarask: грамадзкі транспарт
+    bg: Обществен транспорт
+    bjn: Paangkutan awam
+    bn: গণপরিবহন
+    br: treuzdougen foran
+    ca: transport públic
+    ce: Йукъараллин транспорт
+    ckb: گواستنەوەی گشتی
+    cs: veřejná doprava
+    cv: Пĕрлĕх транспорчĕ
+    da: kollektiv trafik
+    de: öffentlicher Verkehr
+    de-ch: öffentlicher Verkehr
+    el: δημόσια συγκοινωνία
+    en: public transport
+    en-ca: public transport
+    en-gb: public transport
+    eo: publika transporto
+    es: transporte público
+    et: ühistransport
+    eu: garraio publiko
+    fa: حمل و نقل عمومی
+    fi: julkinen liikenne
+    fr: transport en commun
+    ga: iompar poiblí
+    gl: transporte público
+    he: תחבורה ציבורית
+    hi: सार्वजनिक परिवहन
+    hr: javni prijevoz
+    hsb: zjawny wobchad
+    hu: tömegközlekedés
+    hy: հասարակական տրանսպորտ
+    id: Transportasi umum
+    io: Publika transporto
+    is: Almenningssamgöngur
+    it: trasporto pubblico
+    ja: 公共交通機関
+    ka: საზოგადოებრივი ტრანსპორტი
+    kk: Қалалық көлік
+    kk-arab: قالالىق كولىك
+    kk-cn: قالالىق كولىك
+    kk-cyrl: Қалалық көлік
+    kk-kz: Қалалық көлік
+    kk-latn: Qalalıq kölik
+    kk-tr: Qalalıq kölik
+    km: យានដឹកជញ្ជូនសាធារណៈ
+    ko: 대중교통
+    lb: ëffentlechen Transport
+    lt: viešasis transportas
+    lv: sabiedriskais transports
+    mk: јавен превоз
+    mn: Нийтийн тээвэр
+    ms: pengangkutan awam
+    ms-arab: ڤڠݢکوتن عوام
+    nan: Kong-kiōng ūn-su
+    nb: kollektivtransport
+    ne: सार्वजनिक यातायात
+    nl: openbaar vervoer
+    nn: kollektivtransport
+    oc: transpòrt public
+    pl: publiczny transport zbiorowy
+    pms: Traspòrt pùblich
+    pt: transporte coletivo
+    pt-br: transporte público
+    ro: transport public
+    ru: общественный транспорт
+    sah: Түмэт транспорт
+    scn: Trasportu pùbbricu
+    sco: public transport
+    se: almmolaš johtolat
+    sh: javni prijevoz
+    si: පොදු ප්රවාහනය
+    sk: verejná doprava
+    sl: javni potniški prevoz
+    sma: ektie-valkese
+    smn: juávkkujotolâh
+    sms: joukkjååttlõk
+    sq: Transporti publik
+    sr: јавни превоз
+    sr-ec: јавни превоз
+    sr-el: Javni prevoz
+    sv: kollektivtrafik
+    sw: Usafiri wa umma
+    th: การขนส่งสาธารณะ
+    tl: Pampublikong transportasyon
+    tr: toplu taşımacılık
+    tt: җәмәгать транспорты
+    tt-cyrl: җәмәгать транспорты
+    uk: громадський транспорт
+    vec: Trasporto pùblego
+    vi: giao thông công cộng
+    vls: Oopnboar vervoer
+    war: Panakayan hin publiko
+    wuu: 公共交通
+    yue: 公共交通
+    zh: 公共交通
+    zh-cn: 公共交通
+    zh-hans: 公共交通
+    zh-hant: 大眾運輸
+    zh-hk: 公共運輸
+    zh-mo: 公共運輸
+    zh-my: 公共交通
+    zh-sg: 公共交通
+    zh-tw: 大眾運輸
 ---
-
 # [[Public_Transport]] 
 
 #is_/same_as :: [[WD~Public_transport,178512]] 

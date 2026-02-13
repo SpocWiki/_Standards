@@ -1,39 +1,175 @@
 ---
 aliases:
-  - Orange Revolution
-  - Помаранчева революція
-  - Pomarancheva revoliutsiia
-  - 2004-Orange_Revolution
-  - 2004-Orange Revolution
+- 2004-Orange Revolution
+- 2004-Orange_Revolution
+- an Réabhlóid Oráisteach
+- Appelsínugula byltingin
+- Cách mạng Cam
+- Iraultza Laranja
+- narancsos forradalom
+- Narandžasta revolucija
+- Narančasta revolucija
+- Narıncı inqilab
+- Orange Revolution
+- Orangea revolutionen
+- Oranje Rewolusie
+- Oranjea revoluciono
+- Oranjerevolutie
+- Oransjerevolusjonen
+- Oranĝa Revolucio
+- Oranž revolutsioon
+- Oranžinė revoliucija
+- oranžna revolucija
+- Oranžová revoluce
+- Oranžová revolúcia
+- Oranžā revolūcija
+- Pomarancheva revoliutsiia
+- Pomarańczowa rewolucja
+- Reveulzi Orañjez
+- Revolució Taronja
+- Revolución laranxa
+- Revolución naranja
+- Revolución Naranxa
+- Revolusi Jingga
+- Revolusi Oranye
+- Revolução Laranja
+- Revoluția Portocalie
+- Revołusion naranson
+- Revôlisiôna Volomboasary
+- Rivoluzione arancione
+- révolution orange
+- Turuncu Devrim
+- Ukrainan oranssi vallankumous
+- Y Chwyldro Oren
+- Πορτοκαλί Επανάσταση
+- Аранжавая рэвалюцыя
+- Наранџаста револуција
+- Оранжева революция
+- Оранжевая революция
+- Оранжхуыз революци
+- Помаранчева революція
+- Портокалова револуција
+- Улбар шар хувьсгал
+- ЦӀен-можа Революци
+- Նարնջագույն հեղափոխություն
+- המהפכה הכתומה
+- الثورة البرتقالية
+- الثوره البرتقانى
+- انقلاب نارنجی
+- اورینج انقلاب
+- কমলা বিপ্লব
+- ਸੰਤਰੀ ਇਨਕਲਾਬ
+- ഓറഞ്ച് വിപ്ലവം
+- การปฏิวัติสีส้ม
+- ნარინჯისფერი რევოლუცია
+- オレンジ革命
+- 橘色革命
+- 橙色革命
+- 오렌지 혁명
 has_id_wikidata: Q836386
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Ukraine,10780973]]"
-instance_of: "[[_Standards/WikiData/WD~revolution,10931]]"
-country: "[[_Standards/WikiData/WD~Ukraine,212]]"
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Ukraine,10780973]]'
+instance_of: '[[_Standards/WikiData/WD~revolution,10931]]'
+country: '[[_Standards/WikiData/WD~Ukraine,212]]'
 start_time: 2004-11-22T00:00:00Z
 end_time: 2005-01-23T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Morning%20first%20day%20of%20Orange%20Revolution.jpg
 Commons_category: Orange Revolution
 dv_is_:
   same_as:
-    - "[[../../../../../../../../WikiData/WD~Orange_Revolution,836386]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2004-Orange_Revolution|2004-Orange_Revolution]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2004-Orange_Revolution.public|2004-Orange_Revolution.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2004-Orange_Revolution.internal|2004-Orange_Revolution.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2004-Orange_Revolution.protect|2004-Orange_Revolution.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2004-Orange_Revolution.private|2004-Orange_Revolution.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2004-Orange_Revolution.personal|2004-Orange_Revolution.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2004-Orange_Revolution.secret|2004-Orange_Revolution.secret]]"
+  - '[[../../../../../../../../WikiData/WD~Orange_Revolution,836386]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2004-Orange_Revolution|2004-Orange_Revolution]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2004-Orange_Revolution.public|2004-Orange_Revolution.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2004-Orange_Revolution.internal|2004-Orange_Revolution.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2004-Orange_Revolution.protect|2004-Orange_Revolution.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2004-Orange_Revolution.private|2004-Orange_Revolution.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2004-Orange_Revolution.personal|2004-Orange_Revolution.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2004-Orange_Revolution.secret|2004-Orange_Revolution.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Orange_Revolution,836386]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2004-Orange_Revolution|2004-Orange_Revolution]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2004-Orange_Revolution.public|2004-Orange_Revolution.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2004-Orange_Revolution.internal|2004-Orange_Revolution.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2004-Orange_Revolution.protect|2004-Orange_Revolution.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2004-Orange_Revolution.private|2004-Orange_Revolution.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2004-Orange_Revolution.personal|2004-Orange_Revolution.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2004-Orange_Revolution.secret|2004-Orange_Revolution.secret]]"
+- '[[../../../../../../../../WikiData/WD~Orange_Revolution,836386]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2004-Orange_Revolution|2004-Orange_Revolution]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2004-Orange_Revolution.public|2004-Orange_Revolution.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2004-Orange_Revolution.internal|2004-Orange_Revolution.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2004-Orange_Revolution.protect|2004-Orange_Revolution.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2004-Orange_Revolution.private|2004-Orange_Revolution.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2004-Orange_Revolution.personal|2004-Orange_Revolution.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2004-Orange_Revolution.secret|2004-Orange_Revolution.secret]]'
+dv_has_:
+  name_:
+    af: Oranje Rewolusie
+    ar: الثورة البرتقالية
+    arz: الثوره البرتقانى
+    ast: Revolución Naranxa
+    az: Narıncı inqilab
+    be: Аранжавая рэвалюцыя
+    be-tarask: Аранжавая рэвалюцыя
+    bg: Оранжева революция
+    bn: কমলা বিপ্লব
+    br: Reveulzi Orañjez
+    bs: Narandžasta revolucija
+    ca: Revolució Taronja
+    ce: ЦӀен-можа Революци
+    cs: Oranžová revoluce
+    cy: Y Chwyldro Oren
+    da: orange revolution
+    de: Orange Revolution
+    el: Πορτοκαλί Επανάσταση
+    en: Orange Revolution
+    en-ca: Orange Revolution
+    en-gb: Orange Revolution
+    eo: Oranĝa Revolucio
+    es: Revolución naranja
+    et: Oranž revolutsioon
+    eu: Iraultza Laranja
+    fa: انقلاب نارنجی
+    fi: Ukrainan oranssi vallankumous
+    fr: révolution orange
+    ga: an Réabhlóid Oráisteach
+    gl: Revolución laranxa
+    he: המהפכה הכתומה
+    hr: Narančasta revolucija
+    hu: narancsos forradalom
+    hy: Նարնջագույն հեղափոխություն
+    id: Revolusi Oranye
+    io: Oranjea revoluciono
+    is: Appelsínugula byltingin
+    it: Rivoluzione arancione
+    ja: オレンジ革命
+    ka: ნარინჯისფერი რევოლუცია
+    ko: 오렌지 혁명
+    lt: Oranžinė revoliucija
+    lv: Oranžā revolūcija
+    mg: Revôlisiôna Volomboasary
+    mk: Портокалова револуција
+    ml: ഓറഞ്ച് വിപ്ലവം
+    mn: Улбар шар хувьсгал
+    ms: Revolusi Jingga
+    nb: Oransjerevolusjonen
+    nl: Oranjerevolutie
+    os: Оранжхуыз революци
+    pa: ਸੰਤਰੀ ਇਨਕਲਾਬ
+    pl: Pomarańczowa rewolucja
+    pnb: اورینج انقلاب
+    pt: Revolução Laranja
+    pt-br: Revolução Laranja
+    ro: Revoluția Portocalie
+    ru: Оранжевая революция
+    sco: Orange Revolution
+    sh: Narančasta revolucija
+    sk: Oranžová revolúcia
+    sl: oranžna revolucija
+    sr: Наранџаста револуција
+    sv: Orangea revolutionen
+    th: การปฏิวัติสีส้ม
+    tr: Turuncu Devrim
+    uk: Помаранчева революція
+    vec: Revołusion naranson
+    vi: Cách mạng Cam
+    yue: 橙色革命
+    zh: 橙色革命
+    zh-hans: 橙色革命
+    zh-hant: 橘色革命
+    zh-hk: 橙色革命
 ---
-
 # [[2004-Orange_Revolution]] 
 
 #is_/same_as :: [[WD~Orange_Revolution,836386]] 

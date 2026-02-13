@@ -1,8 +1,32 @@
 ---
 has_id_wikidata: Q28957081
+dv_has_:
+  name_:
+    ar: ويب جي بي يو
+    bg: WebGPU
+    ca: WebGPU
+    da: WebGPU
+    de: WebGPU
+    en: WebGPU
+    es: WebGPU
+    fi: WebGPU
+    fr: WebGPU
+    ga: WebGPU
+    it: WebGPU
+    ja: WebGPU
+    ko: 웹GPU
+    nl: WebGPU
+    nn: WebGPU
+    pt: WebGPU
+    ro: WebGPU
+    ru: WebGPU
+    sv: WebGPU
+    zh: WebGPU
+aliases:
+- WebGPU
+- ويب جي بي يو
+- 웹GPU
 ---
-
-
 # [[WebGPU]] 
 
 #has_/time_/started : 2017-02-01 

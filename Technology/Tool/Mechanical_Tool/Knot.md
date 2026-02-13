@@ -1,26 +1,175 @@
 ---
 dv_is_:
-  similar_to: "[[../../../Mathematics/Topology/Knot_Theory|Knot_Theory]]"
+  similar_to: '[[../../../Mathematics/Topology/Knot_Theory|Knot_Theory]]'
   same_as:
-    - "[[../../../WikiData/WD~Knot,527395]]"
-    - "[[Knot]]"
-    - "[[/_public/Technology/Tool/Mechanical_Tool/Knot.public|Knot.public]]"
-    - "[[/_internal/Technology/Tool/Mechanical_Tool/Knot.internal|Knot.internal]]"
-    - "[[/_protect/Technology/Tool/Mechanical_Tool/Knot.protect|Knot.protect]]"
-    - "[[/_private/Technology/Tool/Mechanical_Tool/Knot.private|Knot.private]]"
-    - "[[/_personal/Technology/Tool/Mechanical_Tool/Knot.personal|Knot.personal]]"
-    - "[[/_secret/Technology/Tool/Mechanical_Tool/Knot.secret|Knot.secret]]"
-dv_is_similar_to: "[[../../../Mathematics/Topology/Knot_Theory|Knot_Theory]]"
+  - '[[../../../WikiData/WD~Knot,527395]]'
+  - '[[Knot]]'
+  - '[[/_public/Technology/Tool/Mechanical_Tool/Knot.public|Knot.public]]'
+  - '[[/_internal/Technology/Tool/Mechanical_Tool/Knot.internal|Knot.internal]]'
+  - '[[/_protect/Technology/Tool/Mechanical_Tool/Knot.protect|Knot.protect]]'
+  - '[[/_private/Technology/Tool/Mechanical_Tool/Knot.private|Knot.private]]'
+  - '[[/_personal/Technology/Tool/Mechanical_Tool/Knot.personal|Knot.personal]]'
+  - '[[/_secret/Technology/Tool/Mechanical_Tool/Knot.secret|Knot.secret]]'
+dv_is_similar_to: '[[../../../Mathematics/Topology/Knot_Theory|Knot_Theory]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Knot,527395]]"
-  - "[[Knot]]"
-  - "[[/_public/Technology/Tool/Mechanical_Tool/Knot.public|Knot.public]]"
-  - "[[/_internal/Technology/Tool/Mechanical_Tool/Knot.internal|Knot.internal]]"
-  - "[[/_protect/Technology/Tool/Mechanical_Tool/Knot.protect|Knot.protect]]"
-  - "[[/_private/Technology/Tool/Mechanical_Tool/Knot.private|Knot.private]]"
-  - "[[/_personal/Technology/Tool/Mechanical_Tool/Knot.personal|Knot.personal]]"
-  - "[[/_secret/Technology/Tool/Mechanical_Tool/Knot.secret|Knot.secret]]"
+- '[[../../../WikiData/WD~Knot,527395]]'
+- '[[Knot]]'
+- '[[/_public/Technology/Tool/Mechanical_Tool/Knot.public|Knot.public]]'
+- '[[/_internal/Technology/Tool/Mechanical_Tool/Knot.internal|Knot.internal]]'
+- '[[/_protect/Technology/Tool/Mechanical_Tool/Knot.protect|Knot.protect]]'
+- '[[/_private/Technology/Tool/Mechanical_Tool/Knot.private|Knot.private]]'
+- '[[/_personal/Technology/Tool/Mechanical_Tool/Knot.personal|Knot.personal]]'
+- '[[/_secret/Technology/Tool/Mechanical_Tool/Knot.secret|Knot.secret]]'
 has_id_wikidata: Q527395
+dv_has_:
+  name_:
+    af: knoop
+    an: nyudo
+    ar: عقدة
+    ast: nuedu
+    ay: chinu
+    az: düyün
+    be-tarask: вузел
+    bg: възел
+    bn: গিঁট
+    bs: Čvor
+    ca: nus
+    cs: uzel
+    cv: тĕвĕ
+    cy: cwlwm
+    da: knob
+    de: Knoten
+    el: κόμπος
+    en: knot
+    en-ca: knot
+    en-gb: knot
+    eo: nodo
+    es: nudo
+    et: sõlm
+    eu: korapilo
+    fa: گره
+    fi: solmu
+    fr: nœud
+    ga: snaidhm
+    gl: nó
+    gn: apokytã
+    ha: Igiya
+    he: קשר
+    hi: गांठ
+    ht: ne
+    hu: csomó
+    id: simpul
+    io: nodo
+    is: hnútur
+    it: nodo
+    ja: 結び目
+    kn: ಗಂಟು
+    ko: 매듭
+    la: nodus
+    lij: groppo
+    lmo: gropp
+    lt: mazgas
+    mcn: gídàkkà
+    mk: јазол
+    nb: knop
+    nds: Knütt
+    nl: knoop
+    nn: knute
+    nup: Knot
+    oc: nos
+    pl: węzeł
+    pms: Grop
+    pt: nó
+    pt-br: nó
+    qu: khipu
+    ro: nod
+    ru: узел
+    scn: gruppu
+    shn: ၶွတ်ႇ
+    sk: uzol
+    sl: vozel
+    sr: чвор
+    sv: knop
+    sw: fundo
+    ta: முடிச்சு
+    te: ముడి
+    th: เงื่อน
+    tr: düğüm
+    uk: вузол
+    vi: nút dây
+    wa: nuk
+    wuu: 绳结
+    yue: 繩結
+    zh: 繩結
+aliases:
+- apokytã
+- chinu
+- csomó
+- cwlwm
+- düyün
+- düğüm
+- fundo
+- Grop
+- gropp
+- groppo
+- gruppu
+- gídàkkà
+- hnútur
+- Igiya
+- khipu
+- knob
+- knoop
+- knop
+- knot
+- Knoten
+- knute
+- Knütt
+- korapilo
+- mazgas
+- ne
+- nod
+- nodo
+- nodus
+- nos
+- nudo
+- nuedu
+- nuk
+- nus
+- nyudo
+- nó
+- nút dây
+- nœud
+- simpul
+- snaidhm
+- solmu
+- sõlm
+- uzel
+- uzol
+- vozel
+- węzeł
+- Čvor
+- κόμπος
+- јазол
+- вузел
+- вузол
+- възел
+- тĕвĕ
+- узел
+- чвор
+- קשר
+- عقدة
+- گره
+- गांठ
+- গিঁট
+- முடிச்சு
+- ముడి
+- ಗಂಟು
+- เงื่อน
+- ၶွတ်ႇ
+- 結び目
+- 繩結
+- 绳结
+- 매듭
 ---
 # [[Knot]] 
 

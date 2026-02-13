@@ -1,83 +1,180 @@
 ---
-has_time_started: 1972-01-01 
+has_time_started: 1972-01-01
 aliases:
+- C
+- C ngî-ngièn
+- C ngṳ̄-ngiòng
+- C programming language
+- C程式語言
+- C言語
+- C語言
+- C语言
+- Fiteny C
+- Lenguajo C
+- Luengache de programación C
+- toki ilo Si
+- U-C
+- Си
+- Си хэл
+- Սի
+- سي
+- سی
+- سی (پروگرامنگ زبان)
+- सि
+- सी
+- চি
+- সি
+- ਸੀ ਪ੍ਰੋਗਰਾਮਿੰਗ ਭਾਸ਼ਾ
+- ସି
+- சி
+- సీ
+- ಸಿ
+- സി
+- ภาษาซี
+- ພາສາຊີ
+- ሲ
+- ភាសា C
+- ᱥᱤ (ᱯᱨᱚᱜᱽᱨᱟᱢᱤᱝ ᱯᱟᱹᱨᱥᱤ)
+- ⵙⵉ
+- 丙語
+- ꠌꠤ
+- ꯁꯤ ꯄ꯭ꯔꯣꯒ꯭ꯔꯥꯝꯃꯤꯡ ꯂꯣꯟ
 has_id_wikidata: Q15777
 media_type:
-  - text/x-chdr
-  - text/x-c
+- text/x-chdr
+- text/x-c
 JIS_standard: X3010
 influenced_by:
-  - "[[_Standards/WikiData/WD~Fortran,83303]]"
-  - "[[_Standards/WikiData/WD~assembly_language,165436]]"
-  - "[[_Standards/WikiData/WD~ALGOL,188436]]"
-  - "[[_Standards/WikiData/WD~PL_I,223433]]"
-  - "[[_Standards/WikiData/WD~B,797302]]"
-  - "[[_Standards/WikiData/WD~BCPL,810009]]"
-  - "[[_Standards/WikiData/WD~ALGOL_60,1209759]]"
-  - "[[_Standards/WikiData/WD~ALGOL_68,2166735]]"
-  - "[[_Standards/WikiData/WD~CPL,2347334]]"
+- '[[_Standards/WikiData/WD~Fortran,83303]]'
+- '[[_Standards/WikiData/WD~assembly_language,165436]]'
+- '[[_Standards/WikiData/WD~ALGOL,188436]]'
+- '[[_Standards/WikiData/WD~PL_I,223433]]'
+- '[[_Standards/WikiData/WD~B,797302]]'
+- '[[_Standards/WikiData/WD~BCPL,810009]]'
+- '[[_Standards/WikiData/WD~ALGOL_60,1209759]]'
+- '[[_Standards/WikiData/WD~ALGOL_68,2166735]]'
+- '[[_Standards/WikiData/WD~CPL,2347334]]'
 developer:
-  - "[[_Standards/WikiData/WD~American_National_Standards_Institute,180003]]"
-  - "[[_Standards/WikiData/WD~Bell_Labs,217365]]"
-  - "[[_Standards/WikiData/WD~Ken_Thompson,1107006]]"
-  - "[[_Standards/WikiData/WD~International_Organization_for_Standardization,15028]]"
-  - "[[_Standards/WikiData/WD~Dennis_M._Ritchie,45575]]"
-has_characteristic: "[[_Standards/WikiData/WD~Turing_completeness,197970]]"
+- '[[_Standards/WikiData/WD~American_National_Standards_Institute,180003]]'
+- '[[_Standards/WikiData/WD~Bell_Labs,217365]]'
+- '[[_Standards/WikiData/WD~Ken_Thompson,1107006]]'
+- '[[_Standards/WikiData/WD~International_Organization_for_Standardization,15028]]'
+- '[[_Standards/WikiData/WD~Dennis_M._Ritchie,45575]]'
+has_characteristic: '[[_Standards/WikiData/WD~Turing_completeness,197970]]'
 programming_paradigm:
-  - "[[_Standards/WikiData/WD~structured_programming,223335]]"
-  - "[[_Standards/WikiData/WD~imperative_programming,275596]]"
-  - "[[_Standards/WikiData/WD~procedural_programming,1418502]]"
+- '[[_Standards/WikiData/WD~structured_programming,223335]]'
+- '[[_Standards/WikiData/WD~imperative_programming,275596]]'
+- '[[_Standards/WikiData/WD~procedural_programming,1418502]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~compiled_language,651794]]"
-  - "[[_Standards/WikiData/WD~imperative_programming_language,21562092]]"
-  - "[[_Standards/WikiData/WD~structured_programming_language,28920117]]"
-  - "[[_Standards/WikiData/WD~procedural_programming_language,28922885]]"
-  - "[[_Standards/WikiData/WD~computer_science_term,66747126]]"
-  - "[[_Standards/WikiData/WD~programming_language,9143]]"
-follows: "[[_Standards/WikiData/WD~B,797302]]"
-based_on: "[[_Standards/WikiData/WD~B,797302]]"
+- '[[_Standards/WikiData/WD~compiled_language,651794]]'
+- '[[_Standards/WikiData/WD~imperative_programming_language,21562092]]'
+- '[[_Standards/WikiData/WD~structured_programming_language,28920117]]'
+- '[[_Standards/WikiData/WD~procedural_programming_language,28922885]]'
+- '[[_Standards/WikiData/WD~computer_science_term,66747126]]'
+- '[[_Standards/WikiData/WD~programming_language,9143]]'
+follows: '[[_Standards/WikiData/WD~B,797302]]'
+based_on: '[[_Standards/WikiData/WD~B,797302]]'
 typing_discipline:
-  - "[[_Standards/WikiData/WD~weak_typing,7977969]]"
-  - "[[_Standards/WikiData/WD~manifest_typing,17123089]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_C_programming_language,8084962]]"
+- '[[_Standards/WikiData/WD~weak_typing,7977969]]'
+- '[[_Standards/WikiData/WD~manifest_typing,17123089]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_C_programming_language,8084962]]'
 has_edition_or_translation:
-  - "[[_Standards/WikiData/WD~C17_(C_standard),56277125]]"
-  - "[[_Standards/WikiData/WD~C23,67693987]]"
-described_by_source: "[[_Standards/WikiData/WD~ISO_IEC_9899,85547147]]"
+- '[[_Standards/WikiData/WD~C17_(C_standard),56277125]]'
+- '[[_Standards/WikiData/WD~C23,67693987]]'
+described_by_source: '[[_Standards/WikiData/WD~ISO_IEC_9899,85547147]]'
 operating_system:
-  - "[[../../../../../../../../WikiData/WD~Microsoft_Windows,1406]]"
-  - "[[_Standards/WikiData/WD~Unix_like_operating_system,14656]]"
-different_from: "[[_Standards/WikiData/WD~C,9820]]"
-designed_by: "[[_Standards/WikiData/WD~Dennis_M._Ritchie,45575]]"
+- '[[../../../../../../../../WikiData/WD~Microsoft_Windows,1406]]'
+- '[[_Standards/WikiData/WD~Unix_like_operating_system,14656]]'
+different_from: '[[_Standards/WikiData/WD~C,9820]]'
+designed_by: '[[_Standards/WikiData/WD~Dennis_M._Ritchie,45575]]'
 ArchWiki_article:
-  - C
-  - C_(Español)
-  - C_(Русский)
+- C
+- C_(Español)
+- C_(Русский)
 Baidu_Tieba_name:
-  - c
-  - c语言
+- c
+- c语言
 GitHub_topic: c
 file_extension:
-  - c
-  - h
+- c
+- h
 inception: 1972-01-01T00:00:00Z
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/1999%20ISO%20C%20Concepts.png
 video:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Clangset01.ogv
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Scope%20von%20Variablen%20in%20C%20Funktionsaufrufe%20und%20Parameteruebergabe.webm
+- http://commons.wikimedia.org/wiki/Special:FilePath/Clangset01.ogv
+- http://commons.wikimedia.org/wiki/Special:FilePath/Scope%20von%20Variablen%20in%20C%20Funktionsaufrufe%20und%20Parameteruebergabe.webm
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gedit%20hello%20world.png
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20C%20Programming%20Language%20logo.svg
 Stack_Exchange_tag: https://stackoverflow.com/tags/c
 official_website:
-  - https://www.iso.org/standard/82075.html
-  - https://www.open-std.org/jtc1/sc22/wg14/
-P8189: "987007293665105171"
+- https://www.iso.org/standard/82075.html
+- https://www.open-std.org/jtc1/sc22/wg14/
+P8189: 987007293665105171
 Commons_category: C (programming language)
 subreddit:
-  - C_Programming
-  - cprogramming
+- C_Programming
+- cprogramming
 man_page: c.7
 Wolfram_Language_entity_code: Entity["ProgrammingLanguage", "C::p5vhv"]
+dv_has_:
+  name_:
+    am: ሲ
+    an: Luengache de programación C
+    ar: سي
+    ary: سي
+    as: চি
+    azb: سی
+    bho: सी
+    bn: সি
+    cdo: C ngṳ̄-ngiòng
+    cv: Си
+    eu: C
+    fa: سی
+    ha: C programming language
+    hak: C ngî-ngièn
+    hi: सी
+    hy: Սի
+    ja: C言語
+    kaa: C
+    km: ភាសា C
+    kn: ಸಿ
+    ko: C
+    ks: سی
+    ky: Си
+    lo: ພາສາຊີ
+    lzh: 丙語
+    mai: सी
+    mg: Fiteny C
+    ml: സി
+    mn: Си хэл
+    mni: ꯁꯤ ꯄ꯭ꯔꯣꯒ꯭ꯔꯥꯝꯃꯤꯡ ꯂꯣꯟ
+    mr: सी
+    mul: C
+    ne: सि
+    or: ସି
+    pa: ਸੀ ਪ੍ਰੋਗਰਾਮਿੰਗ ਭਾਸ਼ਾ
+    pap: C
+    pap-aw: C
+    pnb: سی (پروگرامنگ زبان)
+    ru: Си
+    sat: ᱥᱤ (ᱯᱨᱚᱜᱽᱨᱟᱢᱤᱝ ᱯᱟᱹᱨᱥᱤ)
+    syl: ꠌꠤ
+    ta: சி
+    te: సీ
+    tg: Си
+    th: ภาษาซี
+    tok: toki ilo Si
+    tt: Си
+    tt-cyrl: Си
+    ur: سی
+    vec: Lenguajo C
+    wuu: C语言
+    xh: U-C
+    yue: C程式語言
+    zgh: ⵙⵉ
+    zh: C语言
+    zh-hk: C語言
+    zh-tw: C語言
 ---
 # [[Prog~C]]
 

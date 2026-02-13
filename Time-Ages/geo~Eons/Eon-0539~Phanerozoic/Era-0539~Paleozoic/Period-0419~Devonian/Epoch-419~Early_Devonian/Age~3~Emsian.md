@@ -1,89 +1,115 @@
 ---
 aliases:
-  - Emsian
-  - Емѿ
-  - Ems
-  - Emsien
-  - Emsium
-  - Emsiense
-  - Emsi
-  - emsi
-  - emsiano
-  - エムシアン期
-  - Emsis
-  - Emsiën
-  - Emsiano
-  - ems
-  - emsij
-  - 艾姆斯期
+- Eimseach
+- Ems
+- Emsas stāvs
+- Emsi
+- Emsian
+- emsiano
+- Emsianu
+- Emsien
+- Emsiense
+- emsij
+- Emsis
+- Emsium
+- Emsiumo
+- Emsià
+- Emsiën
+- Tầng Ems
+- Έμσια βαθμίδα
+- Емський ярус
+- Емѿ
+- эмский ярус
+- الإمسي
+- امسین (زمینشناسی)
+- エムシアン
+- エムシアン期
+- 埃姆斯期
+- 艾姆斯期
 has_id_wikidata: Q576789
-named_after: "[[_Standards/WikiData/WD~Bad_Ems,490670]]"
+named_after: '[[_Standards/WikiData/WD~Bad_Ems,490670]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-named_by: "[[_Standards/WikiData/WD~Henry_de_Dorlodot,2080455]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Emsian,134587729]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+named_by: '[[_Standards/WikiData/WD~Henry_de_Dorlodot,2080455]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Emsian,134587729]]'
 end_time: -393300000-01-01T00:00:00Z
 start_time: -407600000-01-01T00:00:00Z
 sRGB_color_hex_triplet: ECCF87
 coordinate_location: Point(67.3056 39.2)
 dv_has_:
   duration_:
-    years: "1.430e+7"
-  previous_:
-    item: "[[Age~2~Pragian]]"
-  next_:
-    item: "[[../Epoch-393~Middle_Devonian/Age~1~Eifelian|Age~1~Eifelian]]"
+    years: 1.430e+7
   name_:
+    abbreviated: d3
+    af: Emsium
+    ar: الإمسي
     bg: Емѿ
+    ca: Emsià
     cs: Ems
     da: Emsien
     de: Emsium
+    el: Έμσια βαθμίδα
+    en: Emsian
+    eo: Emsiumo
     es: Emsiense
     et: Emsi
+    fa: امسین (زمینشناسی)
     fi: Ems
     fr: Emsien
+    ga: Eimseach
     hu: emsi
-    it: emsiano
-    ja: エムシアン期
+    id: Emsium
+    it: Emsiano
+    ja: エムシアン
     lt: Emsis
-    nl: Emsiën
+    lv: Emsas stāvs
+    nl: Emsien
+    nn: ems
     no: Emsium
     pl: Ems
     pt: Emsiano
+    ru: эмский ярус
+    scn: Emsianu
     sk: ems
     sl: emsij
     sv: ems
-    zh: 艾姆斯期
-    abbreviated: d3
-  time_:
-    started: "-407.6e6"
-    stopped: "-393.3e6"
+    uk: Емський ярус
+    vi: Tầng Ems
+    zh: 埃姆斯期
+    zh-hant: 埃姆斯期
+  next_:
+    item: '[[../Epoch-393~Middle_Devonian/Age~1~Eifelian|Age~1~Eifelian]]'
+  previous_:
+    item: '[[Age~2~Pragian]]'
   text_of_:
-    color: "0xE5D075"
+    color: 0xE5D075
+  time_:
+    started: -407.6e6
+    stopped: -393.3e6
 dv_is_:
   same_as:
-    - "[[WD~Emsian,576789]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~3~Emsian|Age~3~Emsian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~3~Emsian.public|Age~3~Emsian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~3~Emsian.internal|Age~3~Emsian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~3~Emsian.protect|Age~3~Emsian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~3~Emsian.private|Age~3~Emsian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~3~Emsian.personal|Age~3~Emsian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~3~Emsian.secret|Age~3~Emsian.secret]]"
-dv_has_duration_years: "1.430e+7"
-dv_has_previous_item: "[[Age~2~Pragian]]"
-dv_has_next_item: "[[../Epoch-393~Middle_Devonian/Age~1~Eifelian|Age~1~Eifelian]]"
+  - '[[WD~Emsian,576789]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~3~Emsian|Age~3~Emsian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~3~Emsian.public|Age~3~Emsian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~3~Emsian.internal|Age~3~Emsian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~3~Emsian.protect|Age~3~Emsian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~3~Emsian.private|Age~3~Emsian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~3~Emsian.personal|Age~3~Emsian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~3~Emsian.secret|Age~3~Emsian.secret]]'
+dv_has_duration_years: 1.430e+7
+dv_has_previous_item: '[[Age~2~Pragian]]'
+dv_has_next_item: '[[../Epoch-393~Middle_Devonian/Age~1~Eifelian|Age~1~Eifelian]]'
 dv_is_same_as:
-  - "[[WD~Emsian,576789]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~3~Emsian|Age~3~Emsian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~3~Emsian.public|Age~3~Emsian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~3~Emsian.internal|Age~3~Emsian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~3~Emsian.protect|Age~3~Emsian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~3~Emsian.private|Age~3~Emsian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~3~Emsian.personal|Age~3~Emsian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~3~Emsian.secret|Age~3~Emsian.secret]]"
+- '[[WD~Emsian,576789]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~3~Emsian|Age~3~Emsian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~3~Emsian.public|Age~3~Emsian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~3~Emsian.internal|Age~3~Emsian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~3~Emsian.protect|Age~3~Emsian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~3~Emsian.private|Age~3~Emsian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~3~Emsian.personal|Age~3~Emsian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~3~Emsian.secret|Age~3~Emsian.secret]]'
 dv_has_name_bg: Емѿ
 dv_has_name_cs: Ems
 dv_has_name_da: Emsien
@@ -105,9 +131,9 @@ dv_has_name_sl: emsij
 dv_has_name_sv: ems
 dv_has_name_zh: 艾姆斯期
 dv_has_name_abbreviated: d3
-dv_has_time_started: "-407.6e6"
-dv_has_time_stopped: "-393.3e6"
-dv_has_text_of_color: "0xE5D075"
+dv_has_time_started: -407.6e6
+dv_has_time_stopped: -393.3e6
+dv_has_text_of_color: 0xE5D075
 ---
 # [[Age~3~Emsian]] 
 

@@ -1,10 +1,68 @@
 ---
-has_time_started: 1956-01-01 
+has_time_started: 1956-01-01
 aliases:
-  - International Finance Corporation
-  - IFC
-  - IFC(International_Finance_Corporation)
-  - IFC(International Finance Corporation)
+- Beynəlxalq Maliyyə Korporasiyası
+- Corporació Financera Internacional
+- Corporación Financeira Internacional
+- Corporación Financiera Internacional
+- Corporasion Finansiària Internasionałe
+- Corporação Financeira Internacional
+- Det internasjonale finansieringsinstituttet
+- IFC
+- IFC(International Finance Corporation)
+- IFC(International_Finance_Corporation)
+- Internacia Financa Korporacio
+- International Finance Corporation
+- Internationale Finanz-Corporation
+- Internationella finansieringsbolaget
+- Kansainvälinen rahoitusyhtiö
+- Mednarodna finančna korporacija
+- Medzinárodná finančná korporácia
+- Mezinárodní finanční korporace
+- Međunarodna financijska korporacija
+- Międzynarodowa Korporacja Finansowa
+- Nazioarteko Finantza Korporazioa
+- Nemzetközi Pénzügyi Társaság
+- Perbadanan Kewangan Antarabangsa
+- Rahvusvaheline Finantskorporatsioon
+- Sazgeya Finansa Beynelmilleli
+- Societatea Financiară Internațională
+- Società finanziaria internazionale
+- Société financière internationale
+- Starptautiskā finanšu korporācija
+- Tập đoàn Tài chính Quốc tế
+- Uluslararası Finans Kurumu
+- Xalqaro moliya korporatsiyasi
+- Xalıqaralıq qarjı korporacïyası
+- Διεθνής Χρηματοοικονομική Εταιρεία
+- Корпоратсияи умумиҷаҳонии молӣ
+- Міжнародна фінансова корпорація
+- Міжнародная фінансавая карпарацыя
+- Међународна финансијска корпорација
+- Меѓународна финансиска корпорација
+- Международная финансовая корпорация
+- Халыкара финанс корпорациясе
+- Халықаралық қаржы корпорациясы
+- Халыҡ-ара финанс корпорацияһы
+- Միջազգայի ֆինանսական կորպորացիա
+- התאגיד הבינלאומי למימון
+- بین الاقوامی مالیاتی شرکت
+- حالىقارالىق قارجى كورپوراتسىيياسى
+- مؤسسة التمويل الدولية
+- مؤسسه مالی بینالمللی
+- نړيواله مالي مؤسسه
+- अन्तर्राष्ट्रिय वित्त निगम
+- ইন্টারন্যাশনাল ফাইন্যান্স কর্পোরেশন
+- சர்வதேச நிதி கூட்டுத்தாபனம்
+- ಅಂತಾರಾಷ್ಟ್ರೀಯ ಆರ್ಥಿಕ ಮಂಡಲಿ
+- അന്താരാഷ്ട്രധനകാര്യ കോർപറേഷൻ
+- ජාත්යන්තර මූල්ය සමායතනය
+- บรรษัทเงินทุนระหว่างประเทศ
+- საერთაშორისო საფინანსო კორპორაცია
+- 国际金融公司
+- 国際金融公社
+- 國際金融公司
+- 국제 금융 공사
 has_id_wikidata: Q656801
 official_observer_status_in_organization: '[[_Standards/WikiData/WD~World_Intellectual_Property_Organization,177773]]'
 parent_organization: '[[_Standards/WikiData/WD~World_Bank_Group,320863]]'
@@ -17,8 +75,8 @@ legal_form: '[[_Standards/WikiData/WD~Q130264125,130264125]]'
 country: '[[_Standards/WikiData/WD~United_States,30]]'
 headquarters_locations: '[[_Standards/WikiData/WD~Washington,_D.C.,61]]'
 social_media_followers:
-  - 38000
-  - 252742
+- 38000
+- 252742
 Commons_category: International Finance Corporation
 EU_Corporate_body_code: IFC
 inception: 1956-01-01T00:00:00Z
@@ -26,8 +84,8 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/International%20Financ
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/International%20Finance%20Corporation%20logo.svg
 official_website: https://www.ifc.org/
 ISNI:
-  - 0000000108071370
-  - 0000000119453200
+- 0000000108071370
+- 0000000119453200
 Krugosvet_article_archived_: gumanitarnye_nauki/ekonomika_i_pravo/MEZHDUNARODNAYA_FINANSOVAYA_KORPORATSIYA_MFK.html
 Instagram_username: ifc_org
 X_Twitter_username: ifc_org
@@ -35,8 +93,76 @@ Medium_username: IFC_org
 Facebook_username: IFCwbg
 ISO_9362_SWIFT_BIC_code: IFCWUS33XXX
 Legal_Entity_Identifier: QKL54NQY28TCDAI75F60
+dv_has_:
+  name_:
+    ar: مؤسسة التمويل الدولية
+    ast: Corporación Financiera Internacional
+    az: Beynəlxalq Maliyyə Korporasiyası
+    ba: Халыҡ-ара финанс корпорацияһы
+    be: Міжнародная фінансавая карпарацыя
+    be-tarask: Міжнародная фінансавая карпарацыя
+    bn: ইন্টারন্যাশনাল ফাইন্যান্স কর্পোরেশন
+    ca: Corporació Financera Internacional
+    cs: Mezinárodní finanční korporace
+    de: Internationale Finanz-Corporation
+    diq: Sazgeya Finansa Beynelmilleli
+    el: Διεθνής Χρηματοοικονομική Εταιρεία
+    en: International Finance Corporation
+    eo: Internacia Financa Korporacio
+    es: Corporación Financiera Internacional
+    et: Rahvusvaheline Finantskorporatsioon
+    eu: Nazioarteko Finantza Korporazioa
+    fa: مؤسسه مالی بینالمللی
+    fi: Kansainvälinen rahoitusyhtiö
+    fr: Société financière internationale
+    gl: Corporación Financeira Internacional
+    he: התאגיד הבינלאומי למימון
+    hr: Međunarodna financijska korporacija
+    hu: Nemzetközi Pénzügyi Társaság
+    hy: Միջազգայի ֆինանսական կորպորացիա
+    id: International Finance Corporation
+    it: Società finanziaria internazionale
+    ja: 国際金融公社
+    ka: საერთაშორისო საფინანსო კორპორაცია
+    kk: Халықаралық қаржы корпорациясы
+    kk-arab: حالىقارالىق قارجى كورپوراتسىيياسى
+    kk-cyrl: Халықаралық қаржы корпорациясы
+    kk-latn: Xalıqaralıq qarjı korporacïyası
+    kn: ಅಂತಾರಾಷ್ಟ್ರೀಯ ಆರ್ಥಿಕ ಮಂಡಲಿ
+    ko: 국제 금융 공사
+    lv: Starptautiskā finanšu korporācija
+    mk: Меѓународна финансиска корпорација
+    ml: അന്താരാഷ്ട്രധനകാര്യ കോർപറേഷൻ
+    ms: Perbadanan Kewangan Antarabangsa
+    nb: Det internasjonale finansieringsinstituttet
+    ne: अन्तर्राष्ट्रिय वित्त निगम
+    nl: International Finance Corporation
+    pl: Międzynarodowa Korporacja Finansowa
+    pnb: بین الاقوامی مالیاتی شرکت
+    ps: نړيواله مالي مؤسسه
+    pt: Corporação Financeira Internacional
+    ro: Societatea Financiară Internațională
+    ru: Международная финансовая корпорация
+    si: ජාත්යන්තර මූල්ය සමායතනය
+    sk: Medzinárodná finančná korporácia
+    sl: Mednarodna finančna korporacija
+    sr: Међународна финансијска корпорација
+    sv: Internationella finansieringsbolaget
+    ta: சர்வதேச நிதி கூட்டுத்தாபனம்
+    tg: Корпоратсияи умумиҷаҳонии молӣ
+    th: บรรษัทเงินทุนระหว่างประเทศ
+    tr: Uluslararası Finans Kurumu
+    tt: Халыкара финанс корпорациясе
+    uk: Міжнародна фінансова корпорація
+    ur: بین الاقوامی مالیاتی شرکت
+    uz: Xalqaro moliya korporatsiyasi
+    vec: Corporasion Finansiària Internasionałe
+    vi: Tập đoàn Tài chính Quốc tế
+    zh: 国际金融公司
+    zh-hans: 国际金融公司
+    zh-hant: 國際金融公司
+    zh-hk: 國際金融公司
 ---
-
 # [[IFC(International_Finance_Corporation)]] 
 
 #is_/same_as :: [[WD~International_Finance_Corporation,656801]] 

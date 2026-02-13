@@ -1,14 +1,130 @@
 ---
 aliases:
-  - slacks
-  - pants
-  - Trousers
+- Akpụkpọ ụkwụ
+- arakapecakan
+- a̱ta̱p a̱cyok
+- a̱tro-tak
+- bikses
+- bokse
+- Box
+- Bracae
+- bragas
+- Braghe
+- bragoù
+- Braies
+- Breeks
+- Breeçhyn
+- Briogais
+- broek
+- Brèghi
+- bríste
+- bukse
+- bukser
+- buksë
+- Buxur
+- byxor
+- Büx
+- Calana
+- calça
+- celana
+- cholowy
+- Clana
+- Colzon
+- Càusi
+- Galoty
+- galtzak
+- hlače
+- Hose
+- housut
+- Jinjam
+- Kabunthu
+- kalhoty
+- karson
+- kasõmbuku
+- kelnės
+- Kuree
+- Kó
+- Marone
+- Mezquentli
+- Muaanu
+- Mudhebhe
+- Mũbuuto
+- nadrág
+- nohavice
+- Pantallona
+- pantalon
+- pantalone
+- pantaloni
+- pantalono
+- pantaló
+- pantalón
+- pantolon
+- pants
+- Püksid
+- Quần
+- Salawar
+- Saruwal
+- seluar
+- slacks
+- spodnie
+- Suruali
+- Surwaal
+- Tanchut
+- Trousers
+- Trowsus
+- Vaq
+- Wando
+- Wara
+- yopun
+- Şal
+- Şalvar
+- παντελόνι
+- брюки
+- Вахчаг
+- нагавіцы
+- Панталон
+- панталоне
+- панталони
+- Понкст
+- салбар
+- Шăлавар
+- Шалбар
+- Шим
+- штани
+- Шым
+- Ялаш
+- Өмд
+- շալվար
+- הויזן
+- מכנסיים
+- بنطال
+- شلوار
+- پانتۆڵ
+- پتلون
+- پنطلون pantalon
+- ट्राउझर्स
+- पतलून
+- प्यान्ट
+- প্যান্ট
+- கால் சட்டை
+- ಷರಾಯಿ
+- กางเกง
+- ဘောင်းဘီရှည်
+- ၵူၼ်ယၢဝ်း
+- ძიქვა
+- ሱሪ
+- ᐱᔨᒌᔅ
+- ᡶᠠᡴᡡᡵᡳ
+- ズボン
+- 裤
+- 褲
+- 바지
 has_id_wikidata: Q39908
 described_by_source:
-  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-  - '[[_Standards/WikiData/WD~Q2041543,2041543]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 worn_on: '[[_Standards/WikiData/WD~lower_body,112966814]]'
 Nomenclature_for_Museum_Cataloging: 2434
 OmegaWiki_Defined_Meaning: 349559
@@ -17,16 +133,160 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Trousers%20%28drawing%
 Commons_gallery: Trousers
 Commons_category: Trousers
 Dewey_Decimal_Classification:
-  - 646.3
-  - 391.476
-  - 687.113
-  - 646.433
+- 646.3
+- 391.476
+- 687.113
+- 646.433
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Broek%20%28kledingstuk%29-article.ogg
 Iconclass_notation: 41D231
 P2167: 53101503
 hashtag: pants
+dv_has_:
+  name_:
+    af: Broek
+    am: ሱሪ
+    ar: بنطال
+    arz: پنطلون pantalon
+    ast: pantalón
+    atj: arakapecakan
+    az: Şalvar
+    ba: салбар
+    be: нагавіцы
+    be-tarask: нагавіцы
+    bew: Celana
+    bg: Панталон
+    bjn: Salawar
+    bn: প্যান্ট
+    br: bragoù
+    ca: pantaló
+    cdo: Kó
+    ckb: پانتۆڵ
+    cr: ᐱᔨᒌᔅ
+    cs: kalhoty
+    csb: buksë
+    cv: Шăлавар
+    cy: Trowsus
+    da: bukser
+    dag: Jinjam
+    de: Hose
+    de-ch: Hose
+    dga: Kuree
+    el: παντελόνι
+    eml: Brèghi
+    en: trousers
+    en-ca: Trousers
+    en-gb: trousers
+    en-us: pants
+    eo: pantalono
+    es: pantalón
+    et: Püksid
+    eu: galtzak
+    fa: شلوار
+    fi: housut
+    fr: pantalon
+    ga: bríste
+    gd: Briogais
+    gl: pantalón
+    gn: kasõmbuku
+    gv: Breeçhyn
+    ha: Wando
+    he: מכנסיים
+    hi: पतलून
+    hr: hlače
+    hsb: cholowy
+    ht: Pantalon
+    hu: nadrág
+    hy: շալվար
+    ia: Pantalon
+    iba: Tanchut
+    id: celana
+    ig: Akpụkpọ ụkwụ
+    io: Pantalono
+    is: Buxur
+    it: pantaloni
+    ja: ズボン
+    jv: Clana
+    kaj: a̱tro-tak
+    kcg: a̱ta̱p a̱cyok
+    ki: Mũbuuto
+    kk: Шалбар
+    kn: ಷರಾಯಿ
+    ko: 바지
+    ku: Şal
+    ky: Шым
+    la: Bracae
+    lb: Box
+    lez: Вахчаг
+    lfn: Pantalon
+    lmo: Colzon
+    lt: kelnės
+    lua: Muaanu
+    lv: bikses
+    lzh: 褲
+    mad: calana
+    mk: панталони
+    mn: Өмд
+    mnc: ᡶᠠᡴᡡᡵᡳ
+    mr: ट्राउझर्स
+    mrj: Ялаш
+    ms: seluar
+    my: ဘောင်းဘီရှည်
+    myv: Понкст
+    nah: Mezquentli
+    nb: bukse
+    nds: Büx
+    nds-nl: bokse
+    ne: प्यान्ट
+    nl: broek
+    nn: bukse
+    nrm: Braies
+    oc: bragas
+    pap: karson
+    pl: spodnie
+    pt: calça
+    pt-br: calça
+    qu: Wara
+    ro: pantalon
+    ru: брюки
+    scn: Càusi
+    sco: Breeks
+    sh: pantalone
+    shn: ၵူၼ်ယၢဝ်း
+    sk: nohavice
+    sl: hlače
+    sn: Mudhebhe
+    so: Surwaal
+    sq: Pantallona
+    sr: панталоне
+    sr-ec: панталоне
+    sr-el: pantalone
+    su: Calana
+    sv: byxor
+    sw: Suruali
+    szl: Galoty
+    ta: கால் சட்டை
+    tay: yopun
+    tg: Шим
+    th: กางเกง
+    tl: Pantalon
+    tr: pantolon
+    tum: Kabunthu
+    uk: штани
+    ur: پتلون
+    vec: Braghe
+    vi: Quần
+    wa: Marone
+    war: Saruwal
+    wuu: 裤
+    xmf: ძიქვა
+    yi: הויזן
+    yue: 褲
+    za: Vaq
+    zh: 褲
+    zh-hans: 裤
+    zh-hant: 褲
+    zh-tw: 褲
 ---
-
 # [[Trousers]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Trousers,39908|WD~Trousers,39908]]  

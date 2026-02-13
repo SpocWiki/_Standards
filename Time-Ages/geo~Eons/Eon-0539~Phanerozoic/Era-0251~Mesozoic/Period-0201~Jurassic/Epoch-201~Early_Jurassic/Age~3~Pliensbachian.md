@@ -1,17 +1,40 @@
 ---
 aliases:
-  - Pliensbachian
+- Pliensbach
+- pliensbachi
+- Pliensbachian
+- Pliensbachiano
+- Pliensbachianu
+- Pliensbachiar
+- Pliensbachien
+- Pliensbachiense
+- pliensbachij
+- Pliensbachium
+- Pliensbaquiano
+- Pliensbaquià
+- Plinsbachianu
+- Plinsbah
+- Plinsbahij
+- Tầng Pliensbachi
+- Плінсбахський ярус
+- Плинсбах ярусы
+- плинсбахский ярус
+- البلنسباخي
+- پلینسباخین
+- プリンスバッキアン
+- 普林斯巴赫階
+- 플린스바흐절
 has_id_wikidata: Q540479
-named_by: "[[_Standards/WikiData/WD~Albert_Oppel,66578]]"
+named_by: '[[_Standards/WikiData/WD~Albert_Oppel,66578]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-named_after: "[[_Standards/WikiData/WD~Pliensbach,2099493]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Pliensbachian,17273414]]"
-replaces: "[[_Standards/WikiData/WD~Q19607173,19607173]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+named_after: '[[_Standards/WikiData/WD~Pliensbach,2099493]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Pliensbachian,17273414]]'
+replaces: '[[_Standards/WikiData/WD~Q19607173,19607173]]'
 significant_place: "[[_Standards/WikiData/WD~Robin_Hood's_Bay,24658757]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Pliensbachian,134291380]]"
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Pliensbachian,134291380]]'
 coordinate_location: Point(-0.4975 54.4069)
 end_time: -182700000-01-01T00:00:00Z
 Commons_category: Pliensbachian
@@ -19,60 +42,79 @@ start_time: -190800000-01-01T00:00:00Z
 sRGB_color_hex_triplet: 3CC9EF
 dv_has_:
   duration_:
-    years: "8.700e+6"
-  previous_:
-    item: "[[Age~2~Sinemurian]]"
-  next_:
-    item: "[[Age~4~Toarcian]]"
+    years: 8.700e+6
   name_:
+    abbreviated: I3
+    af: Pliensbachium
+    ar: البلنسباخي
+    ast: Pliensbachianu
     bg: Плиинѿбах
+    bs: Plinsbahij
+    ca: Pliensbaquià
     cs: Pliensbach
     da: Pliensbachien
     de: Pliensbachium
+    en: Pliensbachian
     es: Pliensbachiense
     et: Pliensbachi
+    eu: Pliensbachiar
+    fa: پلینسباخین
     fi: Plienbach
     fr: Pliensbachien
+    gl: Pliensbaquiano
     hu: pliensbachi
-    it: pliensbachiano
-    ja: プリンスバッキアン期
+    id: Pliensbachium
+    it: Pliensbachiano
+    ja: プリンスバッキアン
+    kk: Плинсбах ярусы
+    ko: 플린스바흐절
+    la: Pliensbachium
     lt: Plynsbachis
-    nl: Pliënsbachiën
+    nl: Pliensbachien
+    nn: pliensbach
     no: Pliensbach
-    pl: Pliensbach
-    pt: Pliensbaquiano
+    pl: pliensbach
+    pt: Pliensbachiano
+    ru: плинсбахский ярус
+    scn: Plinsbachianu
+    sh: Plinsbah
     sk: pliensbach
-    sl: pleinsbachij
+    sl: pliensbachij
     sv: pliensbach
-    zh: 普连斯巴奇期
-    abbreviated: I3
-  time_:
-    started: "-192.9e6"
-    stopped: "-184.2e6"
+    uk: Плінсбахський ярус
+    vi: Tầng Pliensbachi
+    zh: 普林斯巴赫階
+  next_:
+    item: '[[Age~4~Toarcian]]'
+  previous_:
+    item: '[[Age~2~Sinemurian]]'
   text_of_:
-    color: "0x80C5DD"
+    color: 0x80C5DD
+  time_:
+    started: -192.9e6
+    stopped: -184.2e6
 dv_is_:
   same_as:
-    - "[[WD~Pliensbachian,540479]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~3~Pliensbachian|Age~3~Pliensbachian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~3~Pliensbachian.public|Age~3~Pliensbachian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~3~Pliensbachian.internal|Age~3~Pliensbachian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~3~Pliensbachian.protect|Age~3~Pliensbachian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~3~Pliensbachian.private|Age~3~Pliensbachian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~3~Pliensbachian.personal|Age~3~Pliensbachian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~3~Pliensbachian.secret|Age~3~Pliensbachian.secret]]"
-dv_has_duration_years: "8.700e+6"
-dv_has_previous_item: "[[Age~2~Sinemurian]]"
-dv_has_next_item: "[[Age~4~Toarcian]]"
+  - '[[WD~Pliensbachian,540479]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~3~Pliensbachian|Age~3~Pliensbachian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~3~Pliensbachian.public|Age~3~Pliensbachian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~3~Pliensbachian.internal|Age~3~Pliensbachian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~3~Pliensbachian.protect|Age~3~Pliensbachian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~3~Pliensbachian.private|Age~3~Pliensbachian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~3~Pliensbachian.personal|Age~3~Pliensbachian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~3~Pliensbachian.secret|Age~3~Pliensbachian.secret]]'
+dv_has_duration_years: 8.700e+6
+dv_has_previous_item: '[[Age~2~Sinemurian]]'
+dv_has_next_item: '[[Age~4~Toarcian]]'
 dv_is_same_as:
-  - "[[WD~Pliensbachian,540479]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~3~Pliensbachian|Age~3~Pliensbachian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~3~Pliensbachian.public|Age~3~Pliensbachian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~3~Pliensbachian.internal|Age~3~Pliensbachian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~3~Pliensbachian.protect|Age~3~Pliensbachian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~3~Pliensbachian.private|Age~3~Pliensbachian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~3~Pliensbachian.personal|Age~3~Pliensbachian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~3~Pliensbachian.secret|Age~3~Pliensbachian.secret]]"
+- '[[WD~Pliensbachian,540479]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~3~Pliensbachian|Age~3~Pliensbachian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~3~Pliensbachian.public|Age~3~Pliensbachian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~3~Pliensbachian.internal|Age~3~Pliensbachian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~3~Pliensbachian.protect|Age~3~Pliensbachian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~3~Pliensbachian.private|Age~3~Pliensbachian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~3~Pliensbachian.personal|Age~3~Pliensbachian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~3~Pliensbachian.secret|Age~3~Pliensbachian.secret]]'
 dv_has_name_bg: Плиинѿбах
 dv_has_name_cs: Pliensbach
 dv_has_name_da: Pliensbachien
@@ -94,9 +136,9 @@ dv_has_name_sl: pleinsbachij
 dv_has_name_sv: pliensbach
 dv_has_name_zh: 普连斯巴奇期
 dv_has_name_abbreviated: I3
-dv_has_time_started: "-192.9e6"
-dv_has_time_stopped: "-184.2e6"
-dv_has_text_of_color: "0x80C5DD"
+dv_has_time_started: -192.9e6
+dv_has_time_stopped: -184.2e6
+dv_has_text_of_color: 0x80C5DD
 ---
 # [[Age~3~Pliensbachian]] 
 

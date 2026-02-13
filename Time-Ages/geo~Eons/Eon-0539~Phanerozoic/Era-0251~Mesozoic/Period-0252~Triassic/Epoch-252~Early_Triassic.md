@@ -1,76 +1,132 @@
 ---
 aliases:
-  - Early_Triassic
-  - Early Triassic
+- an Sealad Triasach Luath
+- apatinis triasas
+- Behe Triasiko
+- donji trijas
+- Early Triassic
+- Early_Triassic
+- Erken Triyas
+- kora triász
+- malsupra triaso
+- Onder-Trias
+- spodnji trias
+- spodní trias
+- Trias Awal
+- Trias inférieur
+- Trias sớm
+- Trias wczesny
+- Triassico inferiore
+- Triassicum inferius
+- Triàsic inferior
+- Triásico Inferior
+- Triásicu Inferior
+- Triássico Inferior
+- undre trias
+- Untertrias
+- Varhaistriaskausi
+- Äldre trias
+- Πρώιμη Τριασική περίοδος
+- нижний триас
+- скіфський ярус
+- טריאס תחתון
+- الثلاثي المبكر
+- تریاس پیشین
+- 三畳紀前期
+- 早三叠世
+- 트라이아스기 전기
 ischart: LowerTriassic
 has_id_wikidata: Q1075885
 instance_of:
-  - "[[_Standards/WikiData/WD~series,312468]]"
-  - "[[_Standards/WikiData/WD~epoch,754897]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Early_Triassic,21568731]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Q117281940,117281940]]"
+- '[[_Standards/WikiData/WD~series,312468]]'
+- '[[_Standards/WikiData/WD~epoch,754897]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Early_Triassic,21568731]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q117281940,117281940]]'
 start_time: -252170000-01-01T00:00:00Z
-named_after: "[[_Standards/WikiData/WD~Q201,201]]"
+named_after: '[[_Standards/WikiData/WD~Q201,201]]'
 end_time: -247200000-01-01T00:00:00Z
 sRGB_color_hex_triplet: AD579A
-Dewey_Decimal_Classification: "551.762"
+Dewey_Decimal_Classification: 551.762
 dv_has_:
   duration_:
-    years: "4.702e+6"
-  previous_:
-    item: "[[../../Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian|Epoch-259~Lopingian]]"
-  next_:
-    item: "[[Epoch-247~Middle_Triassic]]"
+    years: 4.702e+6
   name_:
-    bg: Раннен Триаѿ
-    cs: brzy trias
-    da: Tidlig Triassisk
-    de: Frühe Trias (Buntsandstein)
-    es: Triásico temprano
-    et: Vara-Triias
-    fi: Varhais-Trias
-    fr: Trias précoce
-    hu: kora-triász
-    it: triassico precoce
-    ja: 三畳紀前期
-    lt: Ankstyvasis Triasas
-    nl: Vroeg Trias
-    no: Tidlig trias
-    pl: Wczesny Trias
-    pt: Triássico primitivo
-    sk: raný trias
-    sl: zgodnji trias
-    sv: äldre trias
-    zh: 早三叠世
     abbreviated: T1
-  time_:
-    started: "-251.902e6"
-    stopped: "-247.200e6"
+    ar: الثلاثي المبكر
+    ast: Triásicu Inferior
+    bg: Раннен Триаѿ
+    ca: Triàsic inferior
+    cs: spodní trias
+    da: Tidlig Triassisk
+    de: Untertrias
+    el: Πρώιμη Τριασική περίοδος
+    en: Early Triassic
+    en-ca: Early Triassic
+    en-gb: Early Triassic
+    eo: malsupra triaso
+    es: Triásico Inferior
+    et: Vara-Triias
+    eu: Behe Triasiko
+    fa: تریاس پیشین
+    fi: Varhaistriaskausi
+    fr: Trias inférieur
+    ga: an Sealad Triasach Luath
+    he: טריאס תחתון
+    hu: kora triász
+    id: Trias Awal
+    it: Triassico inferiore
+    ja: 三畳紀前期
+    ko: 트라이아스기 전기
+    la: Triassicum inferius
+    lt: apatinis triasas
+    ms: Trias Awal
+    nl: Onder-Trias
+    nn: undre trias
+    no: Tidlig trias
+    pl: Trias wczesny
+    pt: Triássico Inferior
+    pt-br: Triássico Inferior
+    ru: нижний триас
+    sh: donji trijas
+    sk: raný trias
+    sl: spodnji trias
+    sv: Äldre trias
+    tr: Erken Triyas
+    uk: скіфський ярус
+    vi: Trias sớm
+    zh: 早三叠世
+  next_:
+    item: '[[Epoch-247~Middle_Triassic]]'
+  previous_:
+    item: '[[../../Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian|Epoch-259~Lopingian]]'
   text_of_:
-    color: "0x983999"
+    color: 0x983999
+  time_:
+    started: -251.902e6
+    stopped: -247.200e6
 dv_is_:
   same_as:
-    - "[[WD~Early_Triassic,1075885]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic|Epoch-252~Early_Triassic]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic.public|Epoch-252~Early_Triassic.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic.internal|Epoch-252~Early_Triassic.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic.protect|Epoch-252~Early_Triassic.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic.private|Epoch-252~Early_Triassic.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic.personal|Epoch-252~Early_Triassic.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic.secret|Epoch-252~Early_Triassic.secret]]"
-dv_has_duration_years: "4.702e+6"
-dv_has_previous_item: "[[../../Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian|Epoch-259~Lopingian]]"
-dv_has_next_item: "[[Epoch-247~Middle_Triassic]]"
+  - '[[WD~Early_Triassic,1075885]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic|Epoch-252~Early_Triassic]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic.public|Epoch-252~Early_Triassic.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic.internal|Epoch-252~Early_Triassic.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic.protect|Epoch-252~Early_Triassic.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic.private|Epoch-252~Early_Triassic.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic.personal|Epoch-252~Early_Triassic.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic.secret|Epoch-252~Early_Triassic.secret]]'
+dv_has_duration_years: 4.702e+6
+dv_has_previous_item: '[[../../Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian|Epoch-259~Lopingian]]'
+dv_has_next_item: '[[Epoch-247~Middle_Triassic]]'
 dv_is_same_as:
-  - "[[WD~Early_Triassic,1075885]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic|Epoch-252~Early_Triassic]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic.public|Epoch-252~Early_Triassic.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic.internal|Epoch-252~Early_Triassic.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic.protect|Epoch-252~Early_Triassic.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic.private|Epoch-252~Early_Triassic.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic.personal|Epoch-252~Early_Triassic.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic.secret|Epoch-252~Early_Triassic.secret]]"
+- '[[WD~Early_Triassic,1075885]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic|Epoch-252~Early_Triassic]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic.public|Epoch-252~Early_Triassic.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic.internal|Epoch-252~Early_Triassic.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic.protect|Epoch-252~Early_Triassic.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic.private|Epoch-252~Early_Triassic.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic.personal|Epoch-252~Early_Triassic.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic.secret|Epoch-252~Early_Triassic.secret]]'
 dv_has_name_bg: Раннен Триаѿ
 dv_has_name_cs: brzy trias
 dv_has_name_da: Tidlig Triassisk
@@ -92,11 +148,10 @@ dv_has_name_sl: zgodnji trias
 dv_has_name_sv: äldre trias
 dv_has_name_zh: 早三叠世
 dv_has_name_abbreviated: T1
-dv_has_time_started: "-251.902e6"
-dv_has_time_stopped: "-247.200e6"
-dv_has_text_of_color: "0x983999"
+dv_has_time_started: -251.902e6
+dv_has_time_stopped: -247.200e6
+dv_has_text_of_color: 0x983999
 ---
-
 # [[Epoch-252~Early_Triassic]] 
 
 #is_a_/time_/Epoch 

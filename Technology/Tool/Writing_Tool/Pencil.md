@@ -1,42 +1,323 @@
 ---
 aliases:
-  - Bleistift
-  - lead pencil
-  - Pencil
+- Aglaun
+- Amru
+- Arkatz
+- Aspiq
+- blajsztyft
+- Bleesticken
+- Bleistift
+- blyant
+- blyertspenna
+- Blýantur
+- bút chì
+- Caolabhain
+- ceruza
+- Ceruzka
+- crayon
+- creion
+- Fensir
+- Galam
+- Gredon
+- Häädejraad
+- Impic
+- Iân-pit
+- Iòng-bék
+- Karandaş
+- krajono
+- Krayono
+- Kreion
+- kreyon
+- kurşun kalem
+- Laapi
+- Lapicero
+- Lapis
+- Lapisa
+- laps
+- lead pencil
+- llapiceru
+- llapis
+- lyijykynä
+- lápis
+- lápiz
+- Mantolut
+- Masinahikanatikw
+- matita
+- Olovka
+- ołówek
+- Paišielis
+- Patlot
+- peann luaidhe
+- Pencil
+- pensel
+- Penseli
+- pensil
+- pensili
+- Penzura
+- pieštukas
+- pincil
+- pinsil
+- pliiats
+- potelod
+- Potloead
+- potlood
+- Potlot
+- Pênûse
+- pɛnsere
+- Qalam
+- Qalin Qori
+- Rispl
+- stilus plumbatus
+- svinčnik
+- tužka
+- wołojnik
+- Yaconalli
+- Yienzbit
+- Yèn-pit
+- zīmulis
+- òłówk
+- μολύβι
+- аловак
+- Кăранташ
+- каләм
+- карандаш
+- Клайбас
+- кърандас
+- Молив
+- олівець
+- оловка
+- Харандаа
+- Церуза
+- Қалам
+- Қарындаш
+- մատիտ
+- עיפרון
+- قلم
+- قلم رصاص
+- مداد
+- میداد
+- وچکښ
+- پنسل
+- پينسل
+- پینسل
+- پێنووسی دار
+- ڤينسيل
+- ފަންސުރު
+- पेंसिल
+- पेन्सिल
+- सिसाकलम
+- পেঞ্চিল
+- পেন্সিল
+- ਪੈਨਸਿਲ
+- ପେନ୍ସିଲ
+- கரிக்கோல்
+- పెన్సిల్
+- പെൻസിൽ
+- පැන්සල
+- ดินสอ
+- ສໍດຳ
+- ခဲတံ
+- ၵမ်ၸိုၼ်း
+- ფანქარი
+- ᐊᓪᓛᑦ
+- ខ្មៅដៃ
+- ᱯᱮᱸᱥᱤᱞ
+- 鉛筆
+- 铅笔
+- 연필
 has_id_wikidata: Q14674
 has_use:
-  - "[[_Standards/WikiData/WD~drawing,93184]]"
-  - "[[_Standards/WikiData/WD~writing,37260]]"
+- '[[_Standards/WikiData/WD~drawing,93184]]'
+- '[[_Standards/WikiData/WD~writing,37260]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~writing_implement,121916]]"
-  - "[[_Standards/WikiData/WD~drawing_instrument,26972858]]"
+- '[[_Standards/WikiData/WD~writing_implement,121916]]'
+- '[[_Standards/WikiData/WD~drawing_instrument,26972858]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Nicolas_Jacques_Conté,907411]]"
-different_from: "[[_Standards/WikiData/WD~Q9209264,9209264]]"
-instance_of: "[[_Standards/WikiData/WD~product_category,63981612]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Nicolas_Jacques_Conté,907411]]'
+different_from: '[[_Standards/WikiData/WD~Q9209264,9209264]]'
+instance_of: '[[_Standards/WikiData/WD~product_category,63981612]]'
 made_from_material:
-  - "[[_Standards/WikiData/WD~wood,287]]"
-  - "[[_Standards/WikiData/WD~graphite,5309]]"
+- '[[_Standards/WikiData/WD~wood,287]]'
+- '[[_Standards/WikiData/WD~graphite,5309]]'
 Nomenclature_for_Museum_Cataloging: 11584
 OmegaWiki_Defined_Meaning: 5835
 GS1_GPC_code: 10001234
 image: http://commons.wikimedia.org/wiki/Special:FilePath/2014-01-16-Hittegods%20%2812009261426%29.jpg
 Unicode_character:
-  - ✏️
-  - ✎
-  - ✐
-  - 🖉
+- ✏️
+- ✎
+- ✐
+- "\U0001F589"
 time_of_earliest_written_record: 1688-01-01T00:00:00Z
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Pencil%20Diagram.svg
 UNSPSC_Code: 44121714
 Iconclass_notation: 49L52
 MCN_code: 9609.10.00
 Commons_category: Pencils
+dv_has_:
+  name_:
+    af: Potlood
+    ami: Impic
+    an: Lapicero
+    ar: قلم رصاص
+    arz: قلم رصاص
+    as: পেঞ্চিল
+    ast: llapiceru
+    atj: Masinahikanatikw
+    ay: Lapisa
+    az: Karandaş
+    azb: میداد
+    ban: Potlot
+    bcl: Lapis
+    be: аловак
+    be-tarask: аловак
+    bg: Молив
+    bn: পেন্সিল
+    br: Kreion
+    bs: Olovka
+    ca: llapis
+    cdo: Iòng-bék
+    ckb: پێنووسی دار
+    cs: tužka
+    csb: òłówk
+    cv: Кăранташ
+    cy: Pensil
+    da: blyant
+    dag: pensili
+    de: Bleistift
+    de-ch: Bleistift
+    diq: Pênûse
+    dsb: wołojnik
+    dtp: pinsil
+    dv: ފަންސުރު
+    el: μολύβι
+    en: pencil
+    en-gb: pencil
+    eo: krajono
+    es: lápiz
+    et: pliiats
+    eu: Arkatz
+    fa: مداد
+    fi: lyijykynä
+    fr: crayon
+    fur: Lapis
+    ga: peann luaidhe
+    gd: Caolabhain
+    gl: lapis
+    guc: Laapi
+    ha: Fensir
+    hak: Yèn-pit
+    he: עיפרון
+    hi: पेंसिल
+    hr: olovka
+    hsb: wołojnik
+    ht: kreyon
+    hu: ceruza
+    hy: մատիտ
+    iba: pinsil
+    id: pensil
+    ig: Pencil
+    ik: Aglaun
+    io: Krayono
+    is: Blýantur
+    it: matita
+    iu: ᐊᓪᓛᑦ
+    ja: 鉛筆
+    jv: potelod
+    ka: ფანქარი
+    kab: Amru
+    kge: Mantolut
+    kk: Қарындаш
+    km: ខ្មៅដៃ
+    ko: 연필
+    krj: lapis
+    ks: پینسل
+    ksh: Häädejraad
+    la: stilus plumbatus
+    li: Potloead
+    lld: Rispl
+    lmo: Lapis
+    lo: ສໍດຳ
+    lt: pieštukas
+    lv: zīmulis
+    lzh: 鉛筆
+    min: Pensil
+    mk: молив
+    ml: പെൻസിൽ
+    mn: Харандаа
+    mr: पेन्सिल
+    ms: pensel
+    ms-arab: ڤينسيل
+    my: ခဲတံ
+    mzn: قلم
+    nah: Yaconalli
+    nan: Iân-pit
+    nb: blyant
+    nds: Bleesticken
+    nds-nl: potlood
+    ne: सिसाकलम
+    nl: potlood
+    nn: blyant
+    oc: Gredon
+    or: ପେନ୍ସିଲ
+    os: кърандас
+    pa: ਪੈਨਸਿਲ
+    pl: ołówek
+    pnb: پنسل
+    ps: وچکښ
+    pt: lápis
+    pt-br: lápis
+    qu: Aspiq
+    ro: creion
+    rsk: Клайбас
+    ru: карандаш
+    rue: Церуза
+    sat: ᱯᱮᱸᱥᱤᱞ
+    sc: Lapis
+    sco: pincil
+    sd: پينسل
+    sgs: Paišielis
+    sh: Olovka
+    shn: ၵမ်ၸိုၼ်း
+    si: පැන්සල
+    sk: Ceruzka
+    sl: svinčnik
+    sn: Penzura
+    so: Qalin Qori
+    sq: laps
+    sr: оловка
+    su: Patlot
+    sv: blyertspenna
+    sw: Penseli
+    szl: blajsztyft
+    ta: கரிக்கோல்
+    te: పెన్సిల్
+    tg: Қалам
+    th: ดินสอ
+    tk: Galam
+    tl: Lapis
+    tr: kurşun kalem
+    tt: каләм
+    tt-cyrl: каләм
+    tw: pɛnsere
+    uk: олівець
+    ur: پینسل
+    uz: Qalam
+    vec: matita
+    vi: bút chì
+    war: Lapis
+    wuu: 铅笔
+    yue: 鉛筆
+    za: Yienzbit
+    zea: Potlood
+    zh: 鉛筆
+    zh-cn: 铅笔
+    zh-hk: 鉛筆
+    zh-tw: 鉛筆
 ---
-
 # [[Pencil]] ✏️ 
 
 #is_/same_as :: [[WD~Pencil,14674]] 

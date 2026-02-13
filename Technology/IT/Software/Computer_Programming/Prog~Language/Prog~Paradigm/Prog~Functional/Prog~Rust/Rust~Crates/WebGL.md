@@ -1,8 +1,18 @@
 ---
 has_id_wikidata: Q375913
+dv_has_:
+  name_:
+    en: WebGL
+    fa: وبجیال
+    ko: WebGL
+    mul: WebGL
+    th: เว็บจีแอล
+    tr: Webgl
+aliases:
+- WebGL
+- وبجیال
+- เว็บจีแอล
 ---
-
-
 # [[WebGL]] 
 
 #has_/next_/item :: [[WebGPU]] 

@@ -1,33 +1,148 @@
 ---
 aliases:
-  - Wagen
-  - Carriage
+- at arabası
+- Carriage
+- carrozza
+- carruagem
+- carruaje
+- carruatge
+- carruaxe
+- cludiad
+- hintó
+- Kareta
+- Kariete
+- Karoca
+- Karoso
+- Karroza
+- Karroñs
+- Kereta kuda
+- Koçk
+- kočija
+- kočár
+- Kutsch
+- Pedati
+- reau
+- rijtuig
+- rytuig
+- Trăsură
+- Tõld
+- vagn
+- Valjakkovaunu
+- voiture à cheval
+- Wagen
+- ĉarego
+- Άμαξα
+- αραμπά
+- карета
+- Карэта
+- Кочија
+- Күйме
+- Лелейк
+- ծածկակառք
+- כרכרה
+- פיאקער
+- مركبة خيل
+- کالسکه
+- کۆچک
+- घोडागाडी
+- ঘোড়ার গাড়ি
+- ᱴᱷᱮᱞᱟ ᱜᱟ.ᱰᱤ
+- キャリッジ
+- 客車
+- 车厢
+- 馬車車廂
+- 캐리지
 has_id_wikidata: Q235356
 has_part_s_:
-  - '[[_Standards/WikiData/WD~coupe,213853]]'
-  - '[[_Standards/WikiData/WD~berlin,897404]]'
-  - '[[_Standards/WikiData/WD~landau,2144333]]'
-  - '[[_Standards/WikiData/WD~coach,4655519]]'
+- '[[_Standards/WikiData/WD~coupe,213853]]'
+- '[[_Standards/WikiData/WD~berlin,897404]]'
+- '[[_Standards/WikiData/WD~landau,2144333]]'
+- '[[_Standards/WikiData/WD~coach,4655519]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~horse_drawn_vehicle,1112950]]'
+- '[[_Standards/WikiData/WD~horse_drawn_vehicle,1112950]]'
 history_of_topic: '[[_Standards/WikiData/WD~Q10297439,10297439]]'
 used_by: '[[_Standards/WikiData/WD~Q110067855,110067855]]'
 powered_by: '[[_Standards/WikiData/WD~horse,726]]'
 Nomenclature_for_Museum_Cataloging: 12021
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/.00%204705%20Coup%C3%A9-Pferdekutsche.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/00%204049%20Coup%C3%A9-Pferdekutsche%20-%20Sankt%20Petersburg.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Tom-Petersen%2C%20Bryllupskareten%2C%20Ribe%2C%201890%2C%20RKMm0157%2C%20Ribe%20Kunstmuseum.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/.00%204705%20Coup%C3%A9-Pferdekutsche.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/00%204049%20Coup%C3%A9-Pferdekutsche%20-%20Sankt%20Petersburg.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Tom-Petersen%2C%20Bryllupskareten%2C%20Ribe%2C%201890%2C%20RKMm0157%2C%20Ribe%20Kunstmuseum.jpg
 Commons_category: Carriages
 OpenStreetMap_tag_or_key: Key:carriage
+dv_has_:
+  name_:
+    af: rytuig
+    ar: مركبة خيل
+    ast: carruaxe
+    az: Kareta
+    be: Карэта
+    be-tarask: карэта
+    bn: ঘোড়ার গাড়ি
+    br: Karroñs
+    ca: carruatge
+    cs: kočár
+    cy: cludiad
+    de: Wagen
+    el: Άμαξα
+    en: carriage
+    en-gb: carriage
+    eo: ĉarego
+    es: carruaje
+    et: Tõld
+    eu: Karroza
+    fa: کالسکه
+    fi: Valjakkovaunu
+    fr: voiture à cheval
+    fy: reau
+    gl: carruaxe
+    he: כרכרה
+    hr: Kočija
+    hu: hintó
+    hy: ծածկակառք
+    id: Kereta kuda
+    inh: Лелейк
+    io: Karoso
+    it: carrozza
+    ja: キャリッジ
+    kk: Күйме
+    ko: 캐리지
+    ku: Koçk
+    ku-arab: کۆچک
+    ku-latn: Koçk
+    lb: Kutsch
+    lv: Kariete
+    mk: Кочија
+    mr: घोडागाडी
+    ms: Pedati
+    nds: Kutsch
+    nl: rijtuig
+    pl: Karoca
+    pnt: αραμπά
+    pt: carruagem
+    pt-br: carruagem
+    ro: Trăsură
+    ru: карета
+    sat: ᱴᱷᱮᱞᱟ ᱜᱟ.ᱰᱤ
+    sh: Kočija
+    sl: kočija
+    sr: кочија
+    sr-ec: кочија
+    sr-el: kočija
+    sv: vagn
+    tr: at arabası
+    uk: Карета
+    wuu: 车厢
+    yi: פיאקער
+    yue: 馬車車廂
+    zh: 客車
 ---
-
 # [[Carriage]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Carriage,235356|WD~Carriage,235356]] 

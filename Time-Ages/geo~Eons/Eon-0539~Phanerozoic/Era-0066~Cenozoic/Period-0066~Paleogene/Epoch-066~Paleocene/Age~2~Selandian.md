@@ -1,77 +1,128 @@
 ---
 aliases:
-  - Selandian
+- Seelandium
+- Seland
+- Selandian
+- Selandiano
+- Selandiar
+- Selandien
+- Selandiense
+- selandij
+- Selandium
+- Selandià
+- Sełandian
+- Silannianu
+- Själland (geologi)
+- sjælland
+- Sélandien
+- Tầng Seland
+- zeland
+- Zēlandes stāvs
+- зеланд
+- Зеландскі ярус
+- зеландский ярус
+- зэляндзкі ярус
+- السيلاندي
+- سلاندین
+- セランディアン
+- 塞兰特期
+- 塞兰特阶
+- 塞蘭特階
+- 셀란드절
 has_id_wikidata: Q503349
-significant_place: "[[_Standards/WikiData/WD~Zumaia,229659]]"
+significant_place: '[[_Standards/WikiData/WD~Zumaia,229659]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-named_by: "[[_Standards/WikiData/WD~Alfred_Rosenkrantz,6079980]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Selandian,24068668]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Selandian,133871292]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+named_by: '[[_Standards/WikiData/WD~Alfred_Rosenkrantz,6079980]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Selandian,24068668]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Selandian,133871292]]'
 start_time: -61600000-01-01T00:00:00Z
 coordinate_location: Point(-2.25944444 43.30055556)
-named_after: "[[_Standards/WikiData/WD~Zealand,25535]]"
+named_after: '[[_Standards/WikiData/WD~Zealand,25535]]'
 end_time: -59200000-01-01T00:00:00Z
 Commons_category: Selandian
 sRGB_color_hex_triplet: FEC274
 dv_has_:
   duration_:
-    years: "2.400e+6"
-  previous_:
-    item: "[[Age~1~Danian]]"
-  next_:
-    item: "[[Age~3~Thanetian]]"
+    years: 2.400e+6
   name_:
+    abbreviated: e2
+    af: Selandium
+    ar: السيلاندي
+    be: Зеландскі ярус
+    be-tarask: зэляндзкі ярус
     bg: Селанд
+    ca: Selandià
     cs: Seland
     da: Selandien
-    de: Selandium
+    de: Seelandium
+    en: Selandian
     es: Selandiense
     et: Selandi
+    eu: Selandiar
+    fa: سلاندین
     fi: Seland
     fr: Sélandien
+    gl: Selandiano
     hu: selandi
-    it: selandiano
-    ja: セランディアン期
+    id: Selandium
+    it: Selandiano
+    ja: セランディアン
+    ko: 셀란드절
     lt: Selandis
-    nl: Selandiën
+    lv: Zēlandes stāvs
+    mk: зеланд
+    nds: Seelandium
+    nl: Selandien
+    nn: sjælland
     no: Selandium
-    pl: Zeland
+    pl: zeland
     pt: Selandiano
+    ru: зеландский ярус
+    scn: Silannianu
+    sh: Seland
     sk: seland
     sl: selandij
-    sv: seland
+    sv: Själland (geologi)
+    vec: Sełandian
+    vi: Tầng Seland
     zh: 塞兰特期
-    abbreviated: e2
-  time_:
-    started: "-61.6e6"
-    stopped: "-59.2e6"
+    zh-hans: 塞兰特阶
+    zh-hant: 塞蘭特階
+    zh-hk: 塞蘭特階
+  next_:
+    item: '[[Age~3~Thanetian]]'
+  previous_:
+    item: '[[Age~1~Danian]]'
   text_of_:
-    color: "0xFEBF65"
+    color: 0xFEBF65
+  time_:
+    started: -61.6e6
+    stopped: -59.2e6
 dv_is_:
   same_as:
-    - "[[WD~Selandian,503349]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~2~Selandian|Age~2~Selandian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~2~Selandian.public|Age~2~Selandian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~2~Selandian.internal|Age~2~Selandian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~2~Selandian.protect|Age~2~Selandian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~2~Selandian.private|Age~2~Selandian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~2~Selandian.personal|Age~2~Selandian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~2~Selandian.secret|Age~2~Selandian.secret]]"
-dv_has_duration_years: "2.400e+6"
-dv_has_previous_item: "[[Age~1~Danian]]"
-dv_has_next_item: "[[Age~3~Thanetian]]"
+  - '[[WD~Selandian,503349]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~2~Selandian|Age~2~Selandian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~2~Selandian.public|Age~2~Selandian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~2~Selandian.internal|Age~2~Selandian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~2~Selandian.protect|Age~2~Selandian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~2~Selandian.private|Age~2~Selandian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~2~Selandian.personal|Age~2~Selandian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~2~Selandian.secret|Age~2~Selandian.secret]]'
+dv_has_duration_years: 2.400e+6
+dv_has_previous_item: '[[Age~1~Danian]]'
+dv_has_next_item: '[[Age~3~Thanetian]]'
 dv_is_same_as:
-  - "[[WD~Selandian,503349]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~2~Selandian|Age~2~Selandian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~2~Selandian.public|Age~2~Selandian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~2~Selandian.internal|Age~2~Selandian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~2~Selandian.protect|Age~2~Selandian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~2~Selandian.private|Age~2~Selandian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~2~Selandian.personal|Age~2~Selandian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~2~Selandian.secret|Age~2~Selandian.secret]]"
+- '[[WD~Selandian,503349]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~2~Selandian|Age~2~Selandian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~2~Selandian.public|Age~2~Selandian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~2~Selandian.internal|Age~2~Selandian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~2~Selandian.protect|Age~2~Selandian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~2~Selandian.private|Age~2~Selandian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~2~Selandian.personal|Age~2~Selandian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~2~Selandian.secret|Age~2~Selandian.secret]]'
 dv_has_name_bg: Селанд
 dv_has_name_cs: Seland
 dv_has_name_da: Selandien
@@ -93,9 +144,9 @@ dv_has_name_sl: selandij
 dv_has_name_sv: seland
 dv_has_name_zh: 塞兰特期
 dv_has_name_abbreviated: e2
-dv_has_time_started: "-61.6e6"
-dv_has_time_stopped: "-59.2e6"
-dv_has_text_of_color: "0xFEBF65"
+dv_has_time_started: -61.6e6
+dv_has_time_stopped: -59.2e6
+dv_has_text_of_color: 0xFEBF65
 ---
 # [[Age~2~Selandian]] 
 

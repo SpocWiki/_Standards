@@ -1,71 +1,85 @@
 ---
 aliases:
-  - Viséan
-  - Visian
-  - Age~Visean
-  - Middle_Mississippian
-  - Middle Mississippian
-  - Визей
-  - Visé
-  - Viseen
-  - Viseum
-  - Viseense
-  - Vise
-  - Vis
-  - Viséen
-  - viséi
-  - viseano
-  - ビゼアン期
-  - Vizejis
-  - Vise-iën
-  - Viseium
-  - Wizen
-  - Viseano
-  - visén
-  - viseij
-  - vis
-  - 韦宪期
+- Age~Visean
+- Middle Mississippian
+- Middle_Mississippian
+- Tầng Visé
+- Vis
+- Vise
+- Vise-iën
+- Visean
+- viseano
+- Viseen
+- Viseense
+- viseij
+- Viseium
+- Viseum
+- Viseà
+- Visian
+- Visianu
+- Visé
+- Viséan
+- Viséano
+- Viséen
+- viséi
+- visén
+- Viséum
+- Vize
+- Vize yarusi
+- Vizejis
+- Vizij
+- Wizen
+- Візейський ярус
+- Визе ярусы, визе
+- Визей
+- визейский ярус
+- الفيسان
+- ویزین
+- ビゼアン期
+- ビゼーアン
+- 维宪期
+- 韦宪期
 has_id_wikidata: Q647290
 ischart: MiddleMississippian
 confidential: private
 cssclasses:
-  - private
-  - note
+- private
+- note
 draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
-expiryDate:
-has_Template: "[[Extract~Note~Template]]"
+expiryDate: 
+has_Template: '[[Extract~Note~Template]]'
 has_time_started:
-  '{ "date:YYYY-MM-DD": }':
+  '{ "date:YYYY-MM-DD": }': 
 isDeleted: false
 isReadOnly: false
 keywords:
-  "{ newTitle: }":
+  '{ newTitle: }': 
 lang: en
-layout:
+layout: 
 license: (c)copyrighted
 linkTitle:
-  "{ newTitle: }":
+  '{ newTitle: }': 
 publish: false
-publishDate:
+publishDate: 
 tags:
-  - "{ newTitle: }":
-  - excalidraw
+- '{ newTitle: }': 
+- excalidraw
 title:
-  "{ newTitle: }":
+  '{ newTitle: }': 
 type: private_note
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Viséan,30869523]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Visean,134521388]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Viséan,30869523]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Visean,134521388]]'
 end_time: -330900000-01-01T00:00:00Z
 start_time: -346700000-01-01T00:00:00Z
-named_after: "[[_Standards/WikiData/WD~Visé,49743]]"
+named_after: '[[_Standards/WikiData/WD~Visé,49743]]'
 Commons_category: Visean
 coordinate_location: Point(109.45 24.4333)
 described_at_URL: https://popups.uliege.be/1374-8505/index.php?id=1091
@@ -73,59 +87,76 @@ sRGB_color_hex_triplet: A6B96C
 dv_has_:
   duration_:
     years: NaN
-  previous_:
-    item: "[[Age~1~Tournaisian]]"
-  next_:
-    item: "[[Age~3~Serpukhovian]]"
   name_:
+    abbreviated: c2
+    af: Viséum
+    ar: الفيسان
     bg: Визей
+    bs: Vizij
+    ca: Viseà
     cs: Visé
     da: Viseen
-    de: Viseum
+    de: Visé
+    en: Visean
+    en-gb: Visean
     es: Viseense
     et: Vise
+    fa: ویزین
     fi: Vis
     fr: Viséen
     hu: viséi
-    it: viseano
-    ja: ビゼアン期
+    id: Viséum
+    it: Viséano
+    ja: ビゼーアン
+    kk: Визе ярусы, визе
     lt: Vizejis
-    nl: Vise-iën
+    nl: Viséen
+    nn: visé
     no: Viseium
     pl: Wizen
     pt: Viseano
+    ro: Visean
+    ru: визейский ярус
+    scn: Visianu
+    sh: Vize
     sk: visén
-    sl: viseij
+    sl: vizij
     sv: vis
-    zh: 韦宪期
-    abbreviated: c2
-  time_:
-    started: "-346.7e6"
-    stopped: "-330.9e6"
+    uk: Візейський ярус
+    uz: Vize yarusi
+    vi: Tầng Visé
+    zh: 维宪期
+  next_:
+    item: '[[Age~3~Serpukhovian]]'
+  previous_:
+    item: '[[Age~1~Tournaisian]]'
   text_of_:
-    color: "0xA6B96C"
+    color: 0xA6B96C
+  time_:
+    started: -346.7e6
+    stopped: -330.9e6
 dv_is_:
   same_as:
-    - "[[WD~Visean,Q647290]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~2~Visean|Age~2~Visean]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~2~Visean.public|Age~2~Visean.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~2~Visean.internal|Age~2~Visean.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~2~Visean.protect|Age~2~Visean.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~2~Visean.private|Age~2~Visean.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~2~Visean.personal|Age~2~Visean.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~2~Visean.secret|Age~2~Visean.secret]]"
+  - '[[WD~Visean,Q647290]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~2~Visean|Age~2~Visean]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~2~Visean.public|Age~2~Visean.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~2~Visean.internal|Age~2~Visean.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~2~Visean.protect|Age~2~Visean.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~2~Visean.private|Age~2~Visean.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~2~Visean.personal|Age~2~Visean.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~2~Visean.secret|Age~2~Visean.secret]]'
 dv_has_duration_years: NaN
-dv_has_previous_item: "[[Age~1~Tournaisian]]"
-dv_has_next_item: "[[Age~3~Serpukhovian]]"
+dv_has_previous_item: '[[Age~1~Tournaisian]]'
+dv_has_next_item: '[[Age~3~Serpukhovian]]'
 dv_is_same_as:
-  - "[[WD~Visean,Q647290]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~2~Visean|Age~2~Visean]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~2~Visean.public|Age~2~Visean.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~2~Visean.internal|Age~2~Visean.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~2~Visean.protect|Age~2~Visean.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~2~Visean.private|Age~2~Visean.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~2~Visean.personal|Age~2~Visean.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~2~Visean.secret|Age~2~Visean.secret]]"
+- '[[WD~Visean,Q647290]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~2~Visean|Age~2~Visean]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~2~Visean.public|Age~2~Visean.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~2~Visean.internal|Age~2~Visean.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~2~Visean.protect|Age~2~Visean.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~2~Visean.private|Age~2~Visean.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~2~Visean.personal|Age~2~Visean.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~2~Visean.secret|Age~2~Visean.secret]]'
 dv_has_name_bg: Визей
 dv_has_name_cs: Visé
 dv_has_name_da: Viseen
@@ -147,10 +178,9 @@ dv_has_name_sl: viseij
 dv_has_name_sv: vis
 dv_has_name_zh: 韦宪期
 dv_has_name_abbreviated: c2
-dv_has_time_stopped: "-330.9e6"
-dv_has_text_of_color: "0xA6B96C"
+dv_has_time_stopped: -330.9e6
+dv_has_text_of_color: 0xA6B96C
 ---
-
 # [[Age~2~Visean]] 
 
 #is_a_/time_/Age 

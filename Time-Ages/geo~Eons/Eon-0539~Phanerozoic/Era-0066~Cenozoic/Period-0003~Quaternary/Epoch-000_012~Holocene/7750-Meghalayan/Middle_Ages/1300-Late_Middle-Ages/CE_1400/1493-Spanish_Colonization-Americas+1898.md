@@ -1,21 +1,73 @@
 ---
 aliases:
+- Amerika'nın İspanya tarafından sömürgeleştirilmesi
+- Amerikako espainiar kolonizazioa
+- colonisacion Spaño di America
+- Colonisation espagnole de l'Amérique
+- colonització espanyola d'Amèrica
+- Colonización española d'América
+- colonización española de América
+- Colonizarea spaniolă a Americilor
+- Colonizatio Americae Hispanica
+- Colonização espanhola da América
+- Colonizzazione spagnola delle Americhe
+- conquista
+- Conquista española de América
+- Espanjan kolonialismin historia
+- Fanjanahan-tany espaniôla tany Amerika
+- Hispana koloniado de Ameriko
+- Hiszpański podbój Ameryki
+- Ispanijos kolonijos Amerikoje
+- Kastilla Atiy
+- Kolonisasi Spanyol di Amerika
+- Penjajahan Sepanyol di Amerika
+- Spaniens kolonisering af Amerika
+- Spanische Kolonisierung Amerikas
+- Spanish colonisation of the Americas
+- Spanish colonization of the Americas
+- spansk kolonisering av Amerika
+- spanska koloniseringen av Amerika
+- Spænska innrásin
+- Tây Ban Nha thuộc địa hóa châu Mỹ
+- Španjolska kolonizacija Amerike
+- španska kolonizacija Amerike
+- Іспанская каланізацыя Амерыкі
+- Іспанська колонізація Америки
+- гішпанская калянізацыя Амэрыкі
+- Испанска колонизация на Америка
+- испанская колонизация Америки
+- Конкииста
+- Шпанска колонизација на Америка
+- Կոնկիստա
+- הקולוניזציה הספרדית של אמריקה
+- استعمارگری اسپانیا در قاره آمریکا
+- الاستعمار الإسباني للأمريكيتين
+- امریکا دی ہسپانوی نوآبادیات
+- د امریکا د لویې وچې اسپانيايي ښکېلاک
+- نوآبادیاتی ہسپانوی امریکا
+- स्पेन द्वारा अमेरिका का उपनिवेशीकरण
+- அமெரிக்காக்களில் எசுப்பானிய குடியேற்றவாதம்
+- ამერიკის ესპანური კოლონიზაცია
+- スペインによるアメリカ大陸の植民地化
+- 西属美洲
+- 西班牙美洲殖民地
+- 스페인의 아메리카 대륙 식민지화
 has_id_wikidata: Q1047607
 part_of:
-  - "[[_Standards/WikiData/WD~Spanish_Empire,80702]]"
-  - "[[_Standards/WikiData/WD~European_colonization_of_the_Americas,184716]]"
+- '[[_Standards/WikiData/WD~Spanish_Empire,80702]]'
+- '[[_Standards/WikiData/WD~European_colonization_of_the_Americas,184716]]'
 authority:
-  - "[[_Standards/WikiData/WD~Juan_Rodríguez_Fonseca,590682]]"
-  - "[[_Standards/WikiData/WD~Ferdinand_II_of_Aragon,12860]]"
-  - "[[_Standards/WikiData/WD~Isabella_I_of_Castile,45859]]"
+- '[[_Standards/WikiData/WD~Juan_Rodríguez_Fonseca,590682]]'
+- '[[_Standards/WikiData/WD~Ferdinand_II_of_Aragon,12860]]'
+- '[[_Standards/WikiData/WD~Isabella_I_of_Castile,45859]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Colonial_Argentina,596823]]"
-  - "[[_Standards/WikiData/WD~Spanish_colonization_of_North_America,9293069]]"
-  - "[[_Standards/WikiData/WD~Spanish_conquest_of_the_Maya,20645869]]"
+- '[[_Standards/WikiData/WD~Colonial_Argentina,596823]]'
+- '[[_Standards/WikiData/WD~Spanish_colonization_of_North_America,9293069]]'
+- '[[_Standards/WikiData/WD~Spanish_conquest_of_the_Maya,20645869]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~colonization,815962]]"
-  - "[[_Standards/WikiData/WD~historical_period,11514315]]"
-subclass_of: "[[_Standards/WikiData/WD~territorial_expansion,28710139]]"
+- '[[_Standards/WikiData/WD~colonization,815962]]'
+- '[[_Standards/WikiData/WD~historical_period,11514315]]'
+subclass_of: '[[_Standards/WikiData/WD~territorial_expansion,28710139]]'
 end_time: 1898-07-13T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Fray%20Bartolom%C3%A9%20de%20Olmedo%20bautizando%20a%20las%20mujeres%20ofrecidas%20por%20Xicomec%C3%B3atl%2C%20Miguel%20Gonz%C3%A1lez%20%28~1696%29.png
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Spanish%20colonization%20of%20the%20Americas.mp3
@@ -24,25 +76,85 @@ IMDb_keyword: spanish-colonization-of-the-americas
 start_time: 1493-10-03T00:00:00Z
 dv_is_:
   same_as:
-    - "[[../../../../../../../../../../WikiData/WD~Spanish_colonization_of_the_Americas,1047607|WD~Spanish_colonization_of_the_Americas,1047607]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1493-Spanish_Colonization-Americas+1898|1493-Spanish_Colonization-Americas+1898]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1493-Spanish_Colonization-Americas+1898.public|1493-Spanish_Colonization-Americas+1898.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1493-Spanish_Colonization-Americas+1898.internal|1493-Spanish_Colonization-Americas+1898.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1493-Spanish_Colonization-Americas+1898.protect|1493-Spanish_Colonization-Americas+1898.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1493-Spanish_Colonization-Americas+1898.private|1493-Spanish_Colonization-Americas+1898.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1493-Spanish_Colonization-Americas+1898.personal|1493-Spanish_Colonization-Americas+1898.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1493-Spanish_Colonization-Americas+1898.secret|1493-Spanish_Colonization-Americas+1898.secret]]"
+  - '[[../../../../../../../../../../WikiData/WD~Spanish_colonization_of_the_Americas,1047607|WD~Spanish_colonization_of_the_Americas,1047607]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1493-Spanish_Colonization-Americas+1898|1493-Spanish_Colonization-Americas+1898]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1493-Spanish_Colonization-Americas+1898.public|1493-Spanish_Colonization-Americas+1898.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1493-Spanish_Colonization-Americas+1898.internal|1493-Spanish_Colonization-Americas+1898.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1493-Spanish_Colonization-Americas+1898.protect|1493-Spanish_Colonization-Americas+1898.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1493-Spanish_Colonization-Americas+1898.private|1493-Spanish_Colonization-Americas+1898.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1493-Spanish_Colonization-Americas+1898.personal|1493-Spanish_Colonization-Americas+1898.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1493-Spanish_Colonization-Americas+1898.secret|1493-Spanish_Colonization-Americas+1898.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../../../WikiData/WD~Spanish_colonization_of_the_Americas,1047607|WD~Spanish_colonization_of_the_Americas,1047607]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1493-Spanish_Colonization-Americas+1898|1493-Spanish_Colonization-Americas+1898]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1493-Spanish_Colonization-Americas+1898.public|1493-Spanish_Colonization-Americas+1898.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1493-Spanish_Colonization-Americas+1898.internal|1493-Spanish_Colonization-Americas+1898.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1493-Spanish_Colonization-Americas+1898.protect|1493-Spanish_Colonization-Americas+1898.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1493-Spanish_Colonization-Americas+1898.private|1493-Spanish_Colonization-Americas+1898.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1493-Spanish_Colonization-Americas+1898.personal|1493-Spanish_Colonization-Americas+1898.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1493-Spanish_Colonization-Americas+1898.secret|1493-Spanish_Colonization-Americas+1898.secret]]"
+- '[[../../../../../../../../../../WikiData/WD~Spanish_colonization_of_the_Americas,1047607|WD~Spanish_colonization_of_the_Americas,1047607]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1493-Spanish_Colonization-Americas+1898|1493-Spanish_Colonization-Americas+1898]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1493-Spanish_Colonization-Americas+1898.public|1493-Spanish_Colonization-Americas+1898.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1493-Spanish_Colonization-Americas+1898.internal|1493-Spanish_Colonization-Americas+1898.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1493-Spanish_Colonization-Americas+1898.protect|1493-Spanish_Colonization-Americas+1898.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1493-Spanish_Colonization-Americas+1898.private|1493-Spanish_Colonization-Americas+1898.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1493-Spanish_Colonization-Americas+1898.personal|1493-Spanish_Colonization-Americas+1898.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1493-Spanish_Colonization-Americas+1898.secret|1493-Spanish_Colonization-Americas+1898.secret]]'
+dv_has_:
+  name_:
+    ar: الاستعمار الإسباني للأمريكيتين
+    ast: Colonización española d'América
+    be: Іспанская каланізацыя Амерыкі
+    be-tarask: гішпанская калянізацыя Амэрыкі
+    bg: Испанска колонизация на Америка
+    ca: colonització espanyola d'Amèrica
+    cs: conquista
+    da: Spaniens kolonisering af Amerika
+    de: Spanische Kolonisierung Amerikas
+    en: Spanish colonization of the Americas
+    en-ca: Spanish colonisation of the Americas
+    en-gb: Spanish colonisation of the Americas
+    eo: Hispana koloniado de Ameriko
+    es: Conquista española de América
+    eu: Amerikako espainiar kolonizazioa
+    fa: استعمارگری اسپانیا در قاره آمریکا
+    fi: Espanjan kolonialismin historia
+    fr: Colonisation espagnole de l'Amérique
+    gl: colonización española de América
+    he: הקולוניזציה הספרדית של אמריקה
+    hi: स्पेन द्वारा अमेरिका का उपनिवेशीकरण
+    hr: Španjolska kolonizacija Amerike
+    hy: Կոնկիստա
+    id: Kolonisasi Spanyol di Amerika
+    is: Spænska innrásin
+    it: Colonizzazione spagnola delle Americhe
+    ja: スペインによるアメリカ大陸の植民地化
+    ka: ამერიკის ესპანური კოლონიზაცია
+    ko: 스페인의 아메리카 대륙 식민지화
+    la: Colonizatio Americae Hispanica
+    lt: Ispanijos kolonijos Amerikoje
+    mg: Fanjanahan-tany espaniôla tany Amerika
+    mk: Шпанска колонизација на Америка
+    ms: Penjajahan Sepanyol di Amerika
+    nb: spansk kolonisering av Amerika
+    pap: colonisacion Spaño di America
+    pl: Hiszpański podbój Ameryki
+    pnb: امریکا دی ہسپانوی نوآبادیات
+    ps: د امریکا د لویې وچې اسپانيايي ښکېلاک
+    pt: Colonização espanhola da América
+    qu: Kastilla Atiy
+    ro: Colonizarea spaniolă a Americilor
+    ru: испанская колонизация Америки
+    sah: Конкииста
+    sk: conquista
+    sl: španska kolonizacija Amerike
+    sr: Španska kolonizacija Amerike
+    sv: spanska koloniseringen av Amerika
+    ta: அமெரிக்காக்களில் எசுப்பானிய குடியேற்றவாதம்
+    tr: Amerika'nın İspanya tarafından sömürgeleştirilmesi
+    uk: Іспанська колонізація Америки
+    ur: نوآبادیاتی ہسپانوی امریکا
+    vi: Tây Ban Nha thuộc địa hóa châu Mỹ
+    wuu: 西属美洲
+    yue: 西班牙美洲殖民地
+    zh: 西班牙美洲殖民地
+    zh-hans: 西班牙美洲殖民地
+    zh-hant: 西班牙美洲殖民地
+    zh-hk: 西班牙美洲殖民地
 ---
-
 # [[1493-Spanish_Colonization-Americas+1898]] 
 
 #is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Spanish_colonization_of_the_Americas,1047607|WD~Spanish_colonization_of_the_Americas,1047607]]  

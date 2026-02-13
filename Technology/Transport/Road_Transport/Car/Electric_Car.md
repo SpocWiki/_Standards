@@ -1,20 +1,91 @@
 ---
-has_time_started: 1835-01-01 
+has_time_started: 1835-01-01
 aliases:
-  - electric car or electric vehicle
-  - Electric_Car
-  - Electric Car
+- Auto electrico
+- auto elektriko
+- auto elettrica
+- automobil electric
+- automóbil eléctrico
+- automóvil eléctrico
+- automóvil llétricu
+- Car trydan
+- carro elétrico
+- cotxe elèctric
+- elbiila
+- elbil
+- Electric Car
+- electric car or electric vehicle
+- Electric_Car
+- elektra aŭtomobilo
+- elektriauto
+- Elektrik avtomobili
+- elektrikli otomobil
+- elektrische auto
+- Električni automobil
+- električni avtomobil
+- Elektroauto
+- elektromobil
+- elektromobilis
+- Elektromobilo
+- elektromos autó
+- gluaisteán leictreach
+- Imoto yamazuba
+- Kereta elektrik
+- liâdggautt
+- makinë elektrike
+- Mobil listrik
+- Oto listrik
+- Otomobîla elektrîk
+- Rafmagnsbíll
+- samochód elektryczny
+- sähköauto
+- voiture électrique
+- xe chạy điện
+- šleđgâauto
+- ηλεκτρικό αυτοκίνητο
+- електричен автомобил
+- Електрическа кола
+- електрични аутомобил
+- електромобіль
+- электрамабіль
+- Электрокар
+- электромобиль
+- էլեկտրական ավտոմեքենա
+- מכונית חשמלית
+- ئۆتۆمۆبیلی کارەبایی
+- برقی ماشین
+- برقی گاڑی
+- برقی گڈی
+- برېښنايي موټر
+- خودروی برقی
+- سيارة كهربائية
+- इलेक्ट्रिक कार
+- इलेक्ट्रिक कार (विद्युत् कार)
+- বৈদ্যুতিক গাড়ি
+- மின் தானுந்து
+- విద్యుత్ కారు
+- ವಿದ್ಯುತ್ ಕಾರ್
+- വൈദ്യുത വാഹനം
+- විදිලි සරව්ව
+- รถพลังงานไฟฟ้า
+- ລົດພະລັງງານໄຟຟ້າ
+- လျှပ်စစ်ကား
+- ელექტრომობილი
+- 电动汽车
+- 電動汽車
+- 電気自動車
+- 전기자동차
 has_id_wikidata: Q193692
 has_part_s_:
-  - '[[_Standards/WikiData/WD~electric_motor,72313]]'
-  - '[[_Standards/WikiData/WD~battery,267298]]'
+- '[[_Standards/WikiData/WD~electric_motor,72313]]'
+- '[[_Standards/WikiData/WD~battery,267298]]'
 powered_by: '[[_Standards/WikiData/WD~electric_motor,72313]]'
 has_characteristic:
-  - '[[_Standards/WikiData/WD~climate_change_mitigation,898653]]'
-  - '[[_Standards/WikiData/WD~range_anxiety,7292696]]'
+- '[[_Standards/WikiData/WD~climate_change_mitigation,898653]]'
+- '[[_Standards/WikiData/WD~range_anxiety,7292696]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~battery_electric_vehicle,1076882]]'
-  - '[[_Standards/WikiData/WD~car,1420]]'
+- '[[_Standards/WikiData/WD~battery_electric_vehicle,1076882]]'
+- '[[_Standards/WikiData/WD~car,1420]]'
 part_of: '[[_Standards/WikiData/WD~electromobility,1327007]]'
 creator: '[[_Standards/WikiData/WD~Thomas_Davenport,1395527]]'
 opposite_of: '[[_Standards/WikiData/WD~Q124351225,124351225]]'
@@ -27,8 +98,99 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Electric%20Car%20recha
 IMDb_keyword: electric-car
 Commons_category: Electrically-powered automobiles
 Wolfram_Language_entity_code: Entity["Concept", "Electric::y39j2"]
+dv_has_:
+  name_:
+    an: Auto electrico
+    ar: سيارة كهربائية
+    ast: automóvil llétricu
+    az: Elektrik avtomobili
+    be: электрамабіль
+    be-tarask: электрамабіль
+    bg: Електрическа кола
+    bho: इलेक्ट्रिक कार
+    bn: বৈদ্যুতিক গাড়ি
+    ca: cotxe elèctric
+    ckb: ئۆتۆمۆبیلی کارەبایی
+    cs: elektromobil
+    cy: Car trydan
+    da: elbil
+    de: Elektroauto
+    de-ch: Elektroauto
+    el: ηλεκτρικό αυτοκίνητο
+    en: electric car
+    en-ca: electric car
+    en-gb: electric car
+    eo: elektra aŭtomobilo
+    es: automóvil eléctrico
+    et: elektriauto
+    eu: auto elektriko
+    fa: خودروی برقی
+    fi: sähköauto
+    fr: voiture électrique
+    frr: Elektroauto
+    ga: gluaisteán leictreach
+    gl: automóbil eléctrico
+    glk: برقی ماشین
+    he: מכונית חשמלית
+    hi: इलेक्ट्रिक कार (विद्युत् कार)
+    hr: Električni automobil
+    hu: elektromos autó
+    hy: էլեկտրական ավտոմեքենա
+    id: Mobil listrik
+    io: Elektromobilo
+    is: Rafmagnsbíll
+    it: auto elettrica
+    ja: 電気自動車
+    ka: ელექტრომობილი
+    kk: Электромобиль
+    kn: ವಿದ್ಯುತ್ ಕಾರ್
+    ko: 전기자동차
+    ku: Otomobîla elektrîk
+    ky: электромобиль
+    lb: Elektroauto
+    lo: ລົດພະລັງງານໄຟຟ້າ
+    lt: elektromobilis
+    lv: Elektromobilis
+    min: Oto listrik
+    mk: електричен автомобил
+    ml: വൈദ്യുത വാഹനം
+    ms: Kereta elektrik
+    my: လျှပ်စစ်ကား
+    nb: elbil
+    nl: elektrische auto
+    nn: elbil
+    pl: samochód elektryczny
+    pnb: برقی گڈی
+    ps: برېښنايي موټر
+    pt: carro elétrico
+    ro: automobil electric
+    ru: электромобиль
+    sah: Электрокар
+    se: elbiila
+    sh: električni automobil
+    si: විදිලි සරව්ව
+    sk: elektromobil
+    sl: električni avtomobil
+    smn: šleđgâauto
+    sms: liâdggautt
+    sq: makinë elektrike
+    sr: електрични аутомобил
+    sr-ec: електрични аутомобил
+    sv: elbil
+    ta: மின் தானுந்து
+    te: విద్యుత్ కారు
+    th: รถพลังงานไฟฟ้า
+    tr: elektrikli otomobil
+    uk: електромобіль
+    ur: برقی گاڑی
+    uz: Elektromobil
+    vi: xe chạy điện
+    wuu: 电动汽车
+    yue: 電動汽車
+    zh: 电动汽车
+    zh-hans: 电动汽车
+    zu: Imoto yamazuba
 ---
-
 # [[Electric_Car]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Electric_car,193692|WD~Electric_car,193692]] 

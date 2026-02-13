@@ -1,10 +1,193 @@
 ---
 aliases:
-  - Project Apollo
-  - Apollo Program
-  - Apollo Space Program
-  - Apollo_Space_Program
+- Ahil n abulu
+- Apollo
+- Apollo kè-ōe
+- Apollo Program
+- Apollo programa
+- Apollo programm
+- Apollo programme
+- Apollo Projesi
+- Apollo Space Program
+- Apollo space programme
+- Apollo tamaɣ
+- Apollo-geimferðaáætlunin
+- Apollo-ohjelm
+- Apollo-program
+- Apollo-Programm
+- Apollo-programmet
+- Apollon
+- Apollon Proqramı
+- Apolloprogramma
+- Apolloprogrammet
+- Apollo_Space_Program
+- Chương trình Apollo
+- claare Apollo
+- Clár Apollo
+- Porjeto Apollo
+- Program Apollo
+- Programa Apollo
+- Programa Apolo
+- Programang Apollo
+- Programe Apollo
+- Programi Apollo
+- Programm Apollo
+- Programma Apollo
+- programme Apollo
+- Programo Apollo
+- Programul Apollo
+- Project Apollo
+- Projekt Apollo
+- Projekto Apollo
+- Projeto Apollo
+- Proxecto Apollo
+- Rhaglen Apollo
+- «Аполлон»
+- Απόλλων
+- Апалён
+- Аполлон
+- Аполо
+- Касмічная праграма «Апалон»
+- Космічна програма «Аполлон»
+- Пројекат Аполо
+- Ապոլո ծրագիր
+- תוכנית אפולו
+- آپولو پروژه سی
+- اپالو پروگرام
+- اپولو پروګرام
+- برنامج أبولو
+- برنامه فضایی آپولو
+- بەرنامەی ئەپۆلۆ
+- لمهمة د أپولو
+- ߝߏ߬ߟߏ߲߬ߝߊ߬ߟߊ߲߬ߕߍ߫ ߢߍߥߟߊ ߊߔߟߏ߫
+- अपोलो अभियान
+- अपोलो मोहीम
+- অ্যাপোলো কর্মসূচি
+- அப்பல்லோ திட்டம்
+- అపోలో కార్యక్రమం
+- ಅಪೋಲೋ ಕಾರ್ಯಕ್ರಮ
+- അപ്പോളോ പദ്ധതി
+- ඇපලෝ වැඩ සටහන
+- โครงการอะพอลโล
+- အပိုလို စီႏမံႏကိန်ꩻဖုံႏ
+- အပိုလိုစီမံကိန်း
+- აპოლო
+- ⴰⵀⵉⵍ ⵏ ⴰⴱⵓⵍⵓ
+- アポロ計画
+- 阿波罗计划
+- 阿波羅計劃
+- 아폴로 계획
 has_id_wikidata: Q46611
+dv_has_:
+  name_:
+    af: Apollo-program
+    an: Programa Apollo
+    ar: برنامج أبولو
+    ary: لمهمة د أپولو
+    ast: Programa Apollo
+    az: Apollon Proqramı
+    azb: آپولو پروژه سی
+    be: Касмічная праграма «Апалон»
+    be-tarask: Апалён
+    bg: Аполо
+    blk: အပိုလို စီႏမံႏကိန်ꩻဖုံႏ
+    bn: অ্যাপোলো কর্মসূচি
+    br: Programm Apollo
+    bs: Program Apollo
+    ca: Programa Apollo
+    ckb: بەرنامەی ئەپۆلۆ
+    cs: program Apollo
+    cy: Rhaglen Apollo
+    da: Apollo-programmet
+    de: Apollo-Programm
+    el: Απόλλων
+    en: Apollo space program
+    en-ca: Apollo program
+    en-gb: Apollo programme
+    eo: Projekto Apollo
+    es: Programa Apolo
+    et: Apollo programm
+    eu: Apollo programa
+    fa: برنامه فضایی آپولو
+    fi: Apollo
+    fr: programme Apollo
+    ga: Clár Apollo
+    gl: Proxecto Apollo
+    gv: claare Apollo
+    he: תוכנית אפולו
+    hi: अपोलो अभियान
+    hr: Projekt Apollo
+    hu: Apollo-program
+    hy: Ապոլո ծրագիր
+    id: Program Apollo
+    io: Programo Apollo
+    is: Apollo-geimferðaáætlunin
+    it: Programma Apollo
+    ja: アポロ計画
+    jv: Program Apollo
+    ka: აპოლო
+    kab: Ahil n abulu
+    kbp: Apollo tamaɣ
+    kn: ಅಪೋಲೋ ಕಾರ್ಯಕ್ರಮ
+    ko: 아폴로 계획
+    ky: «Аполлон»
+    la: Programma Apollo
+    lb: Apollo-Programm
+    li: Apollo-program
+    lt: Apollo
+    lv: Apollo
+    mk: Аполо
+    ml: അപ്പോളോ പദ്ധതി
+    mr: अपोलो मोहीम
+    ms: Program Apollo
+    mwl: Porjeto Apollo
+    my: အပိုလိုစီမံကိန်း
+    nan: Apollo kè-ōe
+    nb: Apollo-programmet
+    nds: Apollo-Programm
+    nl: Apolloprogramma
+    nn: Apollo-programmet
+    nqo: ߝߏ߬ߟߏ߲߬ߝߊ߬ߟߊ߲߬ߕߍ߫ ߢߍߥߟߊ ߊߔߟߏ߫
+    oc: Programe Apollo
+    pl: Program Apollo
+    pms: Programa Apollo
+    ps: اپولو پروګرام
+    pt: Projeto Apollo
+    pt-br: Programa Apollo
+    ro: Programul Apollo
+    ru: Аполлон
+    sco: Apollo space programme
+    sh: Apollo program
+    si: ඇපලෝ වැඩ සටහන
+    sk: Program Apollo
+    sl: Program Apollo
+    smn: Apollo-ohjelm
+    sq: Programi Apollo
+    sr: Пројекат Аполо
+    sv: Apolloprogrammet
+    ta: அப்பல்லோ திட்டம்
+    te: అపోలో కార్యక్రమం
+    th: โครงการอะพอลโล
+    tl: Programang Apollo
+    tr: Apollo Projesi
+    uk: Космічна програма «Аполлон»
+    ur: اپالو پروگرام
+    uz: Apollon
+    vec: Programa Apollo
+    vi: Chương trình Apollo
+    war: Programa Apollo
+    wuu: 阿波罗计划
+    yue: 阿波羅計劃
+    zgh: ⴰⵀⵉⵍ ⵏ ⴰⴱⵓⵍⵓ
+    zh: 阿波羅計劃
+    zh-cn: 阿波罗计划
+    zh-hans: 阿波罗计划
+    zh-hant: 阿波羅計劃
+    zh-hk: 阿波羅計劃
+    zh-mo: 阿波羅計劃
+    zh-my: 阿波罗计划
+    zh-sg: 阿波罗计划
+    zh-tw: 阿波羅計劃
 ---
 # [[Apollo_Space_Program]]  
 

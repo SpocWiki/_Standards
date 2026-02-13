@@ -1,75 +1,123 @@
 ---
 aliases:
-  - Callovian
+- callov
+- callovi
+- Callovian
+- Calloviano
+- Callovianu
+- Calloviar
+- Callovien
+- Calloviense
+- Callovium
+- Callow
+- Calluvianu
+- Caloviano
+- Cal·lovià
+- Kallovium
+- Kalovij
+- kelowej
+- Tầng Callovi
+- Келловей ярусы
+- келловейский ярус
+- Келовейський ярус
+- קלובאן
+- الكالوفي
+- کالووین
+- カロビアン
+- 卡洛維期
+- 卡洛維階
+- 卡洛维期
+- 칼로비아절
 has_id_wikidata: Q764255
 named_by: "[[_Standards/WikiData/WD~Alcide_d'Orbigny,344661]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-named_after: "[[_Standards/WikiData/WD~Kellaways,15059063]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Callovian,21697519]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+named_after: '[[_Standards/WikiData/WD~Kellaways,15059063]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Callovian,21697519]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 end_time: -163500000-01-01T00:00:00Z
 start_time: -166100000-01-01T00:00:00Z
 Commons_category: Callovian
 sRGB_color_hex_triplet: AEE6F0
 dv_has_:
   duration_:
-    years: "3.800e+6"
-  previous_:
-    item: "[[Age~3~Bathonian]]"
-  next_:
-    item: "[[../Epoch-162~Late_Jurassic/Age~1~Oxfordian|Age~1~Oxfordian]]"
+    years: 3.800e+6
   name_:
+    abbreviated: j4
+    af: Callovium
+    ar: الكالوفي
+    ast: Callovianu
     bg: Калов
-    cs: Callov
+    ca: Cal·lovià
+    cs: Callow
     da: Callovien
     de: Callovium
+    en: Callovian
     es: Calloviense
     et: Callovi
+    eu: Calloviar
+    fa: کالووین
     fi: Callov
     fr: Callovien
+    gl: Caloviano
+    he: קלובאן
     hu: callovi
-    it: calloviano
-    ja: カロビアン期
+    id: Kallovium
+    it: Calloviano
+    ja: カロビアン
+    kk: Келловей ярусы
+    ko: 칼로비아절
+    la: Callovium
     lt: Kelovėjis
-    nl: Calloviën
+    nl: Callovien
+    nn: callov
     no: Callove
-    pl: Kelowej
-    pt: Caloviano
+    pl: kelowej
+    pt: Calloviano
+    ru: келловейский ярус
+    scn: Calluvianu
+    sh: Kalovij
     sk: kelovej
-    sl: callovij
+    sl: kalovij
     sv: callov
-    zh: 卡洛夫期
-    abbreviated: j4
-  time_:
-    started: "-165.3e6"
-    stopped: "-161.5e6"
+    uk: Келовейський ярус
+    vi: Tầng Callovi
+    zh: 卡洛維階
+    zh-hans: 卡洛维期
+    zh-hant: 卡洛維期
+  next_:
+    item: '[[../Epoch-162~Late_Jurassic/Age~1~Oxfordian|Age~1~Oxfordian]]'
+  previous_:
+    item: '[[Age~3~Bathonian]]'
   text_of_:
-    color: "0xBFE7E5"
+    color: 0xBFE7E5
+  time_:
+    started: -165.3e6
+    stopped: -161.5e6
 dv_is_:
   same_as:
-    - "[[WD~Callovian,764255]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~4~Callovian|Age~4~Callovian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~4~Callovian.public|Age~4~Callovian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~4~Callovian.internal|Age~4~Callovian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~4~Callovian.protect|Age~4~Callovian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~4~Callovian.private|Age~4~Callovian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~4~Callovian.personal|Age~4~Callovian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~4~Callovian.secret|Age~4~Callovian.secret]]"
-dv_has_duration_years: "3.800e+6"
-dv_has_previous_item: "[[Age~3~Bathonian]]"
-dv_has_next_item: "[[../Epoch-162~Late_Jurassic/Age~1~Oxfordian|Age~1~Oxfordian]]"
+  - '[[WD~Callovian,764255]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~4~Callovian|Age~4~Callovian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~4~Callovian.public|Age~4~Callovian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~4~Callovian.internal|Age~4~Callovian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~4~Callovian.protect|Age~4~Callovian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~4~Callovian.private|Age~4~Callovian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~4~Callovian.personal|Age~4~Callovian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~4~Callovian.secret|Age~4~Callovian.secret]]'
+dv_has_duration_years: 3.800e+6
+dv_has_previous_item: '[[Age~3~Bathonian]]'
+dv_has_next_item: '[[../Epoch-162~Late_Jurassic/Age~1~Oxfordian|Age~1~Oxfordian]]'
 dv_is_same_as:
-  - "[[WD~Callovian,764255]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~4~Callovian|Age~4~Callovian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~4~Callovian.public|Age~4~Callovian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~4~Callovian.internal|Age~4~Callovian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~4~Callovian.protect|Age~4~Callovian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~4~Callovian.private|Age~4~Callovian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~4~Callovian.personal|Age~4~Callovian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~4~Callovian.secret|Age~4~Callovian.secret]]"
+- '[[WD~Callovian,764255]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~4~Callovian|Age~4~Callovian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~4~Callovian.public|Age~4~Callovian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~4~Callovian.internal|Age~4~Callovian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~4~Callovian.protect|Age~4~Callovian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~4~Callovian.private|Age~4~Callovian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~4~Callovian.personal|Age~4~Callovian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~4~Callovian.secret|Age~4~Callovian.secret]]'
 dv_has_name_bg: Калов
 dv_has_name_cs: Callov
 dv_has_name_da: Callovien
@@ -91,9 +139,9 @@ dv_has_name_sl: callovij
 dv_has_name_sv: callov
 dv_has_name_zh: 卡洛夫期
 dv_has_name_abbreviated: j4
-dv_has_time_started: "-165.3e6"
-dv_has_time_stopped: "-161.5e6"
-dv_has_text_of_color: "0xBFE7E5"
+dv_has_time_started: -165.3e6
+dv_has_time_stopped: -161.5e6
+dv_has_text_of_color: 0xBFE7E5
 ---
 # [[Age~4~Callovian]] 
 

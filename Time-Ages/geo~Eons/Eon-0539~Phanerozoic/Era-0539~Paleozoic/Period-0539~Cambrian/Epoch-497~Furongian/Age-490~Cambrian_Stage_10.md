@@ -1,121 +1,143 @@
 ---
 aliases:
-  - Cambrian-Stage-10
-  - Cambrian Stage 10
-  - Камбрий - 10 етаж
-  - Kambrium-Stupeň 10
-  - Kambrium-Etage 10
-  - Kambrium-Stufe 10
-  - Cámbrico-Piso 10
-  - Kambrium, Lade 10
-  - Kambri-vaihe 10
-  - Cambrien-Etage 10
-  - kambrium 10. emelet
-  - cambriano - stage 10
-  - 第10期
-  - Kambras-Aukštas 10
-  - Cambrium, Zone 10
-  - Kambrium-etasje10
-  - Kambr-Piętro 10
-  - Câmbrico-Piso 10
-  - kambrium, stupeň 10
-  - kambrij-stopnja 10
-  - kambrium etage 10
-  - 第十期
-  - "{ newTitle: }":
+- 10. wiek kambru
+- Cambrian Stage 10
+- Cambrian-Stage-10
+- cambriano - stage 10
+- Cambrien-Etage 10
+- Cambrium, Zone 10
+- Cámbrico-Piso 10
+- Câmbrico-Piso 10
+- etasje 10
+- Kambr-Piętro 10
+- Kambras-Aukštas 10
+- Kambri-vaihe 10
+- kambrij-stopnja 10
+- kambrijska stopnja 10
+- kambrium 10. emelet
+- kambrium etage 10
+- Kambrium Stufe 10
+- Kambrium Tahap 10
+- Kambrium, Lade 10
+- kambrium, stupeň 10
+- Kambrium-Etage 10
+- Kambrium-etasje10
+- Kambrium-Stufe 10
+- Kambrium-Stupeň 10
+- Pianu 10 dû Cambrianu
+- Piso 10
+- System.Collections.Generic.Dictionary`2[System.Object,System.Object]
+- Étage 10
+- Камбрий - 10 етаж
+- Камбрий етаж 10
+- ярус 10
+- اشکوب ۱۰ کامبرین
+- المرحلة 10 من الكامبري
+- カンブリア紀第十期
+- 寒武纪第十期
+- 第10期
+- 第十期
 has_id_wikidata: Q5025305
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 end_time: -486850000-01-01T00:00:00Z
 sRGB_color_hex_triplet: E6F5C9
 start_time: -491000000-01-01T00:00:00Z
 confidential: private
 cssclasses:
-  - private
-  - note
+- private
+- note
 draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
-expiryDate:
-has_Template: "[[Extract~Note~Template]]"
+expiryDate: 
+has_Template: '[[Extract~Note~Template]]'
 has_time_started:
-  '{ "date:YYYY-MM-DD": }':
+  '{ "date:YYYY-MM-DD": }': 
 isDeleted: false
 isReadOnly: false
 keywords:
-  "{ newTitle: }":
+  '{ newTitle: }': 
 lang: en
-layout:
+layout: 
 license: (c)copyrighted
 linkTitle:
-  "{ newTitle: }":
+  '{ newTitle: }': 
 publish: false
-publishDate:
+publishDate: 
 tags:
-  - "{ newTitle: }":
-  - excalidraw
+- '{ newTitle: }': 
+- excalidraw
 title:
-  "{ newTitle: }":
+  '{ newTitle: }': 
 type: private_note
 dv_has_:
   duration_:
     years: NaN
-  previous_:
-    item: "[[Age-494~Jiangshanian]]"
-  next_:
-    item: "[[../../Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian|Age-485~Tremadocian]]"
   name_:
-    bg: Камбрий - 10 етаж
+    abbreviated: ep10
+    ar: المرحلة 10 من الكامبري
+    bg: Камбрий етаж 10
     cs: Kambrium-Stupeň 10
     da: Kambrium-Etage 10
-    de: Kambrium-Stufe 10
-    es: Cámbrico-Piso 10
+    de: Kambrium Stufe 10
+    en: Cambrian Stage 10
+    en-gb: Cambrian Stage 10
+    es: Piso 10
     et: Kambrium, Lade 10
+    fa: اشکوب ۱۰ کامبرین
     fi: Kambri-vaihe 10
-    fr: Cambrien-Etage 10
+    fr: Étage 10
     hu: kambrium 10. emelet
+    id: Kambrium Tahap 10
     it: cambriano - stage 10
-    ja: 第10期
+    ja: カンブリア紀第十期
     lt: Kambras-Aukštas 10
     nl: Cambrium, Zone 10
+    nn: etasje 10
     no: Kambrium-etasje10
-    pl: Kambr-Piętro 10
+    pl: 10. wiek kambru
     pt: Câmbrico-Piso 10
+    ru: ярус 10
+    scn: Pianu 10 dû Cambrianu
     sk: kambrium, stupeň 10
-    sl: kambrij-stopnja 10
+    sl: kambrijska stopnja 10
     sv: kambrium etage 10
-    zh: 第十期
-    abbreviated: ep10
-  time_:
-    started: "-489.5e6"
-    stopped: "-485.4e6"
+    zh: 寒武纪第十期
+  next_:
+    item: '[[../../Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian|Age-485~Tremadocian]]'
+  previous_:
+    item: '[[Age-494~Jiangshanian]]'
   text_of_:
-    color: "0xE6F5C9"
+    color: 0xE6F5C9
+  time_:
+    started: -489.5e6
+    stopped: -485.4e6
 dv_is_:
   same_as:
-    - "[[WD~Cambrian_Stage_10,5025305]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-490~Cambrian_Stage_10|Age-490~Cambrian_Stage_10]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-490~Cambrian_Stage_10.public|Age-490~Cambrian_Stage_10.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-490~Cambrian_Stage_10.internal|Age-490~Cambrian_Stage_10.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-490~Cambrian_Stage_10.protect|Age-490~Cambrian_Stage_10.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-490~Cambrian_Stage_10.private|Age-490~Cambrian_Stage_10.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-490~Cambrian_Stage_10.personal|Age-490~Cambrian_Stage_10.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-490~Cambrian_Stage_10.secret|Age-490~Cambrian_Stage_10.secret]]"
+  - '[[WD~Cambrian_Stage_10,5025305]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-490~Cambrian_Stage_10|Age-490~Cambrian_Stage_10]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-490~Cambrian_Stage_10.public|Age-490~Cambrian_Stage_10.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-490~Cambrian_Stage_10.internal|Age-490~Cambrian_Stage_10.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-490~Cambrian_Stage_10.protect|Age-490~Cambrian_Stage_10.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-490~Cambrian_Stage_10.private|Age-490~Cambrian_Stage_10.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-490~Cambrian_Stage_10.personal|Age-490~Cambrian_Stage_10.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-490~Cambrian_Stage_10.secret|Age-490~Cambrian_Stage_10.secret]]'
 dv_has_duration_years: NaN
-dv_has_previous_item: "[[Age-494~Jiangshanian]]"
-dv_has_next_item: "[[../../Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian|Age-485~Tremadocian]]"
+dv_has_previous_item: '[[Age-494~Jiangshanian]]'
+dv_has_next_item: '[[../../Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian|Age-485~Tremadocian]]'
 dv_is_same_as:
-  - "[[WD~Cambrian_Stage_10,5025305]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-490~Cambrian_Stage_10|Age-490~Cambrian_Stage_10]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-490~Cambrian_Stage_10.public|Age-490~Cambrian_Stage_10.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-490~Cambrian_Stage_10.internal|Age-490~Cambrian_Stage_10.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-490~Cambrian_Stage_10.protect|Age-490~Cambrian_Stage_10.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-490~Cambrian_Stage_10.private|Age-490~Cambrian_Stage_10.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-490~Cambrian_Stage_10.personal|Age-490~Cambrian_Stage_10.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-490~Cambrian_Stage_10.secret|Age-490~Cambrian_Stage_10.secret]]"
+- '[[WD~Cambrian_Stage_10,5025305]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-490~Cambrian_Stage_10|Age-490~Cambrian_Stage_10]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-490~Cambrian_Stage_10.public|Age-490~Cambrian_Stage_10.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-490~Cambrian_Stage_10.internal|Age-490~Cambrian_Stage_10.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-490~Cambrian_Stage_10.protect|Age-490~Cambrian_Stage_10.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-490~Cambrian_Stage_10.private|Age-490~Cambrian_Stage_10.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-490~Cambrian_Stage_10.personal|Age-490~Cambrian_Stage_10.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-490~Cambrian_Stage_10.secret|Age-490~Cambrian_Stage_10.secret]]'
 dv_has_name_bg: Камбрий - 10 етаж
 dv_has_name_cs: Kambrium-Stupeň 10
 dv_has_name_da: Kambrium-Etage 10
@@ -137,10 +159,9 @@ dv_has_name_sl: kambrij-stopnja 10
 dv_has_name_sv: kambrium etage 10
 dv_has_name_zh: 第十期
 dv_has_name_abbreviated: ep10
-dv_has_time_stopped: "-485.4e6"
-dv_has_text_of_color: "0xE6F5C9"
+dv_has_time_stopped: -485.4e6
+dv_has_text_of_color: 0xE6F5C9
 ---
-
 # [[Age-490~Cambrian_Stage_10]] 
 
 #is_a_/time_/Age 

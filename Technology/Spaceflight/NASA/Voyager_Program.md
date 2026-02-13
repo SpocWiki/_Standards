@@ -1,23 +1,71 @@
 ---
-has_time_started: 1977-01-01 
+has_time_started: 1977-01-01
 aliases:
+- Chương trình Voyager
+- Program Voyager
+- Programa Voyager
+- Programma Voyager
+- Programme Voyager
+- Programo Voyager
+- Programul Voyager
+- Rhaglen Voyager
+- Vojadžer
+- Voyacer proqramı
+- Voyager
+- Voyager program
+- Voyager programa
+- Voyager programı
+- Voyager-program
+- Voyager-Programm
+- Voyager-programmet
+- Voyageri programm
+- Voyagerprogramma
+- Voyagerprogrammet
+- Πρόγραμμα Βόγιατζερ
+- Војаџер
+- Войаджер программа
+- Вояджер
+- Вояджър
+- Вояджэр
+- Вояжер хөтөлбөр
+- Вояҷер
+- Касмічная праграма «Вояджэр»
+- Վոյաջեր
+- Վոյէճըր Ծրագիր
+- תוכנית וויאג'ר
+- برنامج فوياجر
+- وویجر
+- وویجر برنامه سی
+- پڕۆژەی ڤۆیجر
+- ߢߍߥߟߊ ߕߊ߯ߡߊߘߋ߲
+- वॉयजर कार्यक्रम
+- ভয়েজার কর্মসূচি
+- โครงการวอยเอจเจอร์
+- ဗွိုင်ယေဂျာစီမံကိန်း
+- ვოიაჯერი
+- ボイジャー計画
+- 旅行者計劃
+- 旅行者计划
+- 航海家計畫
+- 航行者計劃
+- 보이저 프로그램
 has_id_wikidata: Q155311
-different_from: "[[_Standards/WikiData/WD~Voyager,155257]]"
-start_point: "[[_Standards/WikiData/WD~Cape_Canaveral_Space_Force_Station,334465]]"
-uses: "[[_Standards/WikiData/WD~Titan_IIIE,1187262]]"
+different_from: '[[_Standards/WikiData/WD~Voyager,155257]]'
+start_point: '[[_Standards/WikiData/WD~Cape_Canaveral_Space_Force_Station,334465]]'
+uses: '[[_Standards/WikiData/WD~Titan_IIIE,1187262]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~science_project,1298668]]"
-  - "[[_Standards/WikiData/WD~NASA_program,21605492]]"
-significant_event: "[[_Standards/WikiData/WD~maiden_flight,1362364]]"
-has_goal: "[[_Standards/WikiData/WD~interstellar_probe,1442634]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Voyager_program,12780076]]"
-depicted_by: "[[_Standards/WikiData/WD~The_Farthest,57803374]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]"
-operator: "[[_Standards/WikiData/WD~National_Aeronautics_and_Space_Administration,23548]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
+- '[[_Standards/WikiData/WD~science_project,1298668]]'
+- '[[_Standards/WikiData/WD~NASA_program,21605492]]'
+significant_event: '[[_Standards/WikiData/WD~maiden_flight,1362364]]'
+has_goal: '[[_Standards/WikiData/WD~interstellar_probe,1442634]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Voyager_program,12780076]]'
+depicted_by: '[[_Standards/WikiData/WD~The_Farthest,57803374]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+operator: '[[_Standards/WikiData/WD~National_Aeronautics_and_Space_Administration,23548]]'
+country: '[[_Standards/WikiData/WD~United_States,30]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Voyager_1,48469]]"
-  - "[[_Standards/WikiData/WD~Voyager_2,48475]]"
+- '[[_Standards/WikiData/WD~Voyager_1,48469]]'
+- '[[_Standards/WikiData/WD~Voyager_2,48475]]'
 start_time: 1977-01-01T00:00:00Z
 inception: 1977-01-01T00:00:00Z
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Voyager%20Probe.stl
@@ -25,8 +73,87 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Voyager%20probes%20wit
 official_website: https://voyager.jpl.nasa.gov
 X_Twitter_username: NASAVoyager
 Commons_category: Voyager program
+dv_has_:
+  name_:
+    af: Voyager-program
+    ar: برنامج فوياجر
+    ast: Programa Voyager
+    az: Voyacer proqramı
+    azb: وویجر برنامه سی
+    be: Касмічная праграма «Вояджэр»
+    be-tarask: Вояджэр
+    bg: Вояджър
+    bn: ভয়েজার কর্মসূচি
+    bs: Program Voyager
+    ca: Programa Voyager
+    ckb: پڕۆژەی ڤۆیجر
+    cs: Program Voyager
+    cy: Rhaglen Voyager
+    da: Voyager
+    de: Voyager-Programm
+    de-ch: Voyager-Programm
+    el: Πρόγραμμα Βόγιατζερ
+    en: Voyager program
+    en-ca: Voyager program
+    en-gb: Voyager program
+    eo: Programo Voyager
+    es: Voyager
+    et: Voyageri programm
+    eu: Voyager programa
+    fa: وویجر
+    fi: Voyager
+    fr: Programme Voyager
+    ga: Voyager
+    he: תוכנית וויאג'ר
+    hi: वॉयजर कार्यक्रम
+    hr: Program Voyager
+    hu: Voyager-program
+    hy: Վոյաջեր
+    hyw: Վոյէճըր Ծրագիր
+    id: Program Voyager
+    it: Programma Voyager
+    ja: ボイジャー計画
+    ka: ვოიაჯერი
+    kk: Вояджер
+    ko: 보이저 프로그램
+    lb: Voyager-Programm
+    lmo: Programa Voyager
+    lt: Voyager programa
+    mk: Војаџер
+    mn: Вояжер хөтөлбөр
+    ms: Program Voyager
+    my: ဗွိုင်ယေဂျာစီမံကိန်း
+    nb: Voyager-programmet
+    nl: Voyagerprogramma
+    nqo: ߢߍߥߟߊ ߕߊ߯ߡߊߘߋ߲
+    oc: Programa Voyager
+    pl: Program Voyager
+    pt: Programa Voyager
+    pt-br: Programa Voyager
+    ro: Programul Voyager
+    ru: Вояджер
+    sah: Войаджер программа
+    sh: Program Voyager
+    sl: Program Voyager
+    sr: Војаџер
+    sr-ec: Војаџер
+    sr-el: Vojadžer
+    sv: Voyagerprogrammet
+    tg: Вояҷер
+    th: โครงการวอยเอจเจอร์
+    tr: Voyager programı
+    uk: Вояджер
+    vi: Chương trình Voyager
+    wuu: 旅行者计划
+    yue: 航行者計劃
+    zh: 航海家計畫
+    zh-cn: 旅行者计划
+    zh-hans: 旅行者计划
+    zh-hant: 航海家計畫
+    zh-hk: 旅行者計劃
+    zh-sg: 旅行者计划
+    zh-tw: 航海家計畫
 ---
-
 # [[Voyager_Program]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Voyager_program,155311|WD~Voyager_program,155311]]  

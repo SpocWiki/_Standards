@@ -1,92 +1,106 @@
 ---
 aliases:
-  - Sandbian
-  - Сандб
-  - Sandby
-  - Sandbien
-  - Sandbium
-  - Sandbiense
-  - Sandbi
-  - Sandb
-  - sandbi
-  - sandbiano
-  - サンドビアン期
-  - Sandbis
-  - Sandbiën
-  - Sandbyium
-  - Sandbiano
-  - sandb
-  - sandbij
-  - sandby
-  - 桑比期
+- Sandb
+- Sandbi
+- Sandbian
+- sandbiano
+- Sandbianu
+- Sandbien
+- Sandbiense
+- sandbij
+- Sandbis
+- Sandbium
+- Sandbiën
+- Sandby
+- Sandby lade
+- Sandbyium
+- Tầng Sandby
+- Сандб
+- Сандбий
+- сандбийский ярус
+- الساندبي
+- سندبین
+- サンドビアン
+- サンドビアン期
+- 桑比期
+- 산드뷔절
 has_id_wikidata: Q1807140
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-named_after: "[[_Standards/WikiData/WD~Södra_Sandby,569800]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Sandbian,30869528]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_Sandbian,134737960]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+named_after: '[[_Standards/WikiData/WD~Södra_Sandby,569800]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Sandbian,30869528]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_Sandbian,134737960]]'
 sRGB_color_hex_triplet: 72D0A9
 end_time: -453000000-01-01T00:00:00Z
 coordinate_location: Point(13.3255 55.7137)
 start_time: -458400000-01-01T00:00:00Z
 dv_has_:
   duration_:
-    years: "5.400e+6"
-  previous_:
-    item: "[[../Epoch-470~Middle_Ordovician/Age-467~Darriwilian|Age-467~Darriwilian]]"
-  next_:
-    item: "[[Age-453~Katian]]"
+    years: 5.400e+6
   name_:
-    bg: Сандб
+    abbreviated: o5
+    ar: الساندبي
+    bg: Сандбий
     cs: Sandby
     da: Sandbien
     de: Sandbium
+    en: Sandbian
     es: Sandbiense
-    et: Sandbi
+    et: Sandby lade
+    fa: سندبین
     fi: Sandb
     fr: Sandbien
     hu: sandbi
-    it: sandbiano
-    ja: サンドビアン期
+    id: Sandbium
+    it: Sandbiano
+    ja: サンドビアン
+    ko: 산드뷔절
     lt: Sandbis
-    nl: Sandbiën
+    nl: Sandbien
+    nn: sandby
     no: Sandbyium
     pl: Sandb
     pt: Sandbiano
+    ru: сандбийский ярус
+    scn: Sandbianu
     sk: sandb
     sl: sandbij
-    sv: sandby
+    sv: Sandby
+    vi: Tầng Sandby
     zh: 桑比期
-    abbreviated: o5
-  time_:
-    started: "-458.4e6"
-    stopped: "-453.0e6"
+  next_:
+    item: '[[Age-453~Katian]]'
+  previous_:
+    item: '[[../Epoch-470~Middle_Ordovician/Age-467~Darriwilian|Age-467~Darriwilian]]'
   text_of_:
-    color: "0x8CD094"
+    color: 0x8CD094
+  time_:
+    started: -458.4e6
+    stopped: -453.0e6
 dv_is_:
   same_as:
-    - "[[WD~Sandbian,1807140]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-458~Sandbian|Age-458~Sandbian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-458~Sandbian.public|Age-458~Sandbian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-458~Sandbian.internal|Age-458~Sandbian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-458~Sandbian.protect|Age-458~Sandbian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-458~Sandbian.private|Age-458~Sandbian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-458~Sandbian.personal|Age-458~Sandbian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-458~Sandbian.secret|Age-458~Sandbian.secret]]"
-dv_has_duration_years: "5.400e+6"
-dv_has_previous_item: "[[../Epoch-470~Middle_Ordovician/Age-467~Darriwilian|Age-467~Darriwilian]]"
-dv_has_next_item: "[[Age-453~Katian]]"
+  - '[[WD~Sandbian,1807140]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-458~Sandbian|Age-458~Sandbian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-458~Sandbian.public|Age-458~Sandbian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-458~Sandbian.internal|Age-458~Sandbian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-458~Sandbian.protect|Age-458~Sandbian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-458~Sandbian.private|Age-458~Sandbian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-458~Sandbian.personal|Age-458~Sandbian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-458~Sandbian.secret|Age-458~Sandbian.secret]]'
+dv_has_duration_years: 5.400e+6
+dv_has_previous_item: '[[../Epoch-470~Middle_Ordovician/Age-467~Darriwilian|Age-467~Darriwilian]]'
+dv_has_next_item: '[[Age-453~Katian]]'
 dv_is_same_as:
-  - "[[WD~Sandbian,1807140]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-458~Sandbian|Age-458~Sandbian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-458~Sandbian.public|Age-458~Sandbian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-458~Sandbian.internal|Age-458~Sandbian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-458~Sandbian.protect|Age-458~Sandbian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-458~Sandbian.private|Age-458~Sandbian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-458~Sandbian.personal|Age-458~Sandbian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-458~Sandbian.secret|Age-458~Sandbian.secret]]"
+- '[[WD~Sandbian,1807140]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-458~Sandbian|Age-458~Sandbian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-458~Sandbian.public|Age-458~Sandbian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-458~Sandbian.internal|Age-458~Sandbian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-458~Sandbian.protect|Age-458~Sandbian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-458~Sandbian.private|Age-458~Sandbian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-458~Sandbian.personal|Age-458~Sandbian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-458~Sandbian.secret|Age-458~Sandbian.secret]]'
 dv_has_name_bg: Сандб
 dv_has_name_cs: Sandby
 dv_has_name_da: Sandbien
@@ -108,9 +122,9 @@ dv_has_name_sl: sandbij
 dv_has_name_sv: sandby
 dv_has_name_zh: 桑比期
 dv_has_name_abbreviated: o5
-dv_has_time_started: "-458.4e6"
-dv_has_time_stopped: "-453.0e6"
-dv_has_text_of_color: "0x8CD094"
+dv_has_time_started: -458.4e6
+dv_has_time_stopped: -453.0e6
+dv_has_text_of_color: 0x8CD094
 ---
 # [[Age-458~Sandbian]] 
 

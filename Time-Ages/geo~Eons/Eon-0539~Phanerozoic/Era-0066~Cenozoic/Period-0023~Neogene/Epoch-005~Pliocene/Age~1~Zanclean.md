@@ -1,16 +1,47 @@
 ---
 aliases:
-  - Zanclean
+- Tầng Zancle
+- Unterpliozän
+- Zancla-vaihe
+- zancle
+- Zancle-kî
+- Zanclean
+- Zancleano
+- Zancleanu
+- Zancleum
+- Zanclianu
+- Zancliar
+- Zanclien
+- Zancliense
+- Zanclià
+- Zancléen
+- zankl
+- Zankleano
+- Zankles stāvs
+- Zankleum
+- Zanklij
+- Ζάγκλεια βαθμίδα
+- занклін
+- занклский ярус
+- Занклський ярус
+- الزانكلي
+- زانکلین
+- ช่วงอายุซานเคลียน
+- ザンクリアン
+- 讚克爾階
+- 贊克爾階
+- 赞克尔阶
+- 잔클레절
 has_id_wikidata: Q146094
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-named_by: "[[_Standards/WikiData/WD~Giuseppe_Seguenza,3771433]]"
-named_after: "[[_Standards/WikiData/WD~Messana,4023782]]"
-significant_place: "[[_Standards/WikiData/WD~Eraclea_Minoa,18451539]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Zanclean,24068595]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Zanclean,133807943]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+named_by: '[[_Standards/WikiData/WD~Giuseppe_Seguenza,3771433]]'
+named_after: '[[_Standards/WikiData/WD~Messana,4023782]]'
+significant_place: '[[_Standards/WikiData/WD~Eraclea_Minoa,18451539]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Zanclean,24068595]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Zanclean,133807943]]'
 coordinate_location: Point(13.28055556 37.39166667)
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Etapa4muda.jpg
 sRGB_color_hex_triplet: FFFFB3
@@ -19,29 +50,68 @@ end_time: -3600000-01-01T00:00:00Z
 start_time: -5333000-01-01T00:00:00Z
 dv_has_:
   duration_:
-    years: "1.733e+6"
+    years: 1.733e+6
+  name_:
+    af: Zancleum
+    ar: الزانكلي
+    ast: Zancleanu
+    be-tarask: занклін
+    ca: Zanclià
+    de: Unterpliozän
+    el: Ζάγκλεια βαθμίδα
+    en: Zanclean
+    en-gb: Zanclean
+    eo: Zankleano
+    es: Zancliense
+    eu: Zancliar
+    fa: زانکلین
+    fi: Zancla-vaihe
+    fr: Zancléen
+    id: Zankleum
+    it: Zancleano
+    ja: ザンクリアン
+    ko: 잔클레절
+    lv: Zankles stāvs
+    nan: Zancle-kî
+    nds: Zancleum
+    nl: Zanclien
+    nn: zancle
+    pl: zankl
+    pt: Zancleano
+    ru: занклский ярус
+    scn: Zanclianu
+    sh: Zanklij
+    sk: Zankl
+    sl: zanklij
+    sv: Zancle
+    th: ช่วงอายุซานเคลียน
+    uk: Занклський ярус
+    vi: Tầng Zancle
+    zh: 贊克爾階
+    zh-hans: 赞克尔阶
+    zh-hant: 讚克爾階
 dv_is_:
   same_as:
-    - "[[WD~Zanclean,146094]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~1~Zanclean|Age~1~Zanclean]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~1~Zanclean.public|Age~1~Zanclean.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~1~Zanclean.internal|Age~1~Zanclean.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~1~Zanclean.protect|Age~1~Zanclean.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~1~Zanclean.private|Age~1~Zanclean.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~1~Zanclean.personal|Age~1~Zanclean.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~1~Zanclean.secret|Age~1~Zanclean.secret]]"
-dv_has_duration_years: "1.733e+6"
-dv_has_previous_item: "[[../Epoch-023~Miocene/Age~6~Messinian|Age~6~Messinian]]"
-dv_has_next_item: "[[Age~2~Piacenzian]]"
+  - '[[WD~Zanclean,146094]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~1~Zanclean|Age~1~Zanclean]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~1~Zanclean.public|Age~1~Zanclean.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~1~Zanclean.internal|Age~1~Zanclean.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~1~Zanclean.protect|Age~1~Zanclean.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~1~Zanclean.private|Age~1~Zanclean.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~1~Zanclean.personal|Age~1~Zanclean.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~1~Zanclean.secret|Age~1~Zanclean.secret]]'
+dv_has_duration_years: 1.733e+6
+dv_has_previous_item: '[[../Epoch-023~Miocene/Age~6~Messinian|Age~6~Messinian]]'
+dv_has_next_item: '[[Age~2~Piacenzian]]'
 dv_is_same_as:
-  - "[[WD~Zanclean,146094]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~1~Zanclean|Age~1~Zanclean]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~1~Zanclean.public|Age~1~Zanclean.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~1~Zanclean.internal|Age~1~Zanclean.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~1~Zanclean.protect|Age~1~Zanclean.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~1~Zanclean.private|Age~1~Zanclean.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~1~Zanclean.personal|Age~1~Zanclean.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~1~Zanclean.secret|Age~1~Zanclean.secret]]"
+- '[[WD~Zanclean,146094]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~1~Zanclean|Age~1~Zanclean]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~1~Zanclean.public|Age~1~Zanclean.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~1~Zanclean.internal|Age~1~Zanclean.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~1~Zanclean.protect|Age~1~Zanclean.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~1~Zanclean.private|Age~1~Zanclean.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~1~Zanclean.personal|Age~1~Zanclean.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~1~Zanclean.secret|Age~1~Zanclean.secret]]'
 dv_has_name_bg: Занклѿки
 dv_has_name_cs: Zancl
 dv_has_name_da: Zanclien
@@ -63,9 +133,9 @@ dv_has_name_sl: zanclij
 dv_has_name_sv: zancl
 dv_has_name_zh: 赞克勒期
 dv_has_abbreviation: n7
-dv_has_time_started: "-5.333e6"
-dv_has_time_stopped: "-3.600e6"
-dv_has_text_of_color: "0xFFFFB3"
+dv_has_time_started: -5.333e6
+dv_has_time_stopped: -3.600e6
+dv_has_text_of_color: 0xFFFFB3
 ---
 # [[Age~1~Zanclean]] 
 

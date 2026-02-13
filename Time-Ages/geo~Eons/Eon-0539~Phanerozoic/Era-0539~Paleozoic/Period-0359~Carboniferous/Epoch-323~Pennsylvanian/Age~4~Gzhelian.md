@@ -1,94 +1,118 @@
 ---
 aliases:
-  - Gzhelian
-  - Гжел
-  - Gzhel
-  - Gzhelien
-  - Gzhelium
-  - Gzeliense
-  - Gzheli
-  - Gzhel
-  - Gzhélien
-  - gzseli
-  - gzheliano
-  - グゼリアン期
-  - Gželis
-  - Gzheliën
-  - Gzhelium
-  - Gżel
-  - Gzeliano
-  - gžel
-  - gželij
-  - gzhel
-  - 格热尔期
+- Gjelià
+- Gshelium
+- Gzeliano
+- Gzeliense
+- Gzelij
+- Gzhel
+- Gzheli
+- Gzhelian
+- gzheliano
+- Gzhelien
+- Gzheliense
+- Gzhelium
+- Gzheliën
+- Gzhélien
+- gzseli
+- Gżel
+- gžel
+- Gželianu
+- gželij
+- Gželis
+- Tầng Gzhel
+- Гжел
+- Гжель ярусы
+- гжельский ярус
+- Гжельський ярус
+- الغزيلي
+- گژلین
+- グゼリアン
+- グゼリアン期
+- 格热尔期
+- 格舍尔期
 has_id_wikidata: Q1030848
-named_after: "[[_Standards/WikiData/WD~Gzhel,221858]]"
+named_after: '[[_Standards/WikiData/WD~Gzhel,221858]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-named_by: "[[_Standards/WikiData/WD~Sergei_Nikolaevič_Nikitin,17333360]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Gzhelian,30869548]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+named_by: '[[_Standards/WikiData/WD~Sergei_Nikolaevič_Nikitin,17333360]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Gzhelian,30869548]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 start_time: -303700000-01-01T00:00:00Z
 end_time: -298900000-01-01T00:00:00Z
 sRGB_color_hex_triplet: CCD4C7
 Commons_category: Gzhelian
 dv_has_:
   duration_:
-    years: "4.800e+6"
-  previous_:
-    item: "[[Age~3~Kasimovian]]"
-  next_:
-    item: "[[../../Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian|Age~1~Asselian]]"
+    years: 4.800e+6
   name_:
+    abbreviated: c7
+    af: Gzhelium
+    ar: الغزيلي
     bg: Гжел
+    bs: Gzelij
+    ca: Gjelià
     cs: Gzhel
     da: Gzhelien
-    de: Gzhelium
-    es: Gzeliense
+    de: Gshelium
+    en: Gzhelian
+    en-gb: Gzhelian
+    es: Gzheliense
     et: Gzheli
+    fa: گژلین
     fi: Gzhel
     fr: Gzhélien
     hu: gzseli
-    it: gzheliano
-    ja: グゼリアン期
+    id: Gzhelium
+    it: Gzheliano
+    ja: グゼリアン
+    kk: Гжель ярусы
     lt: Gželis
-    nl: Gzheliën
+    nl: Gzhelien
+    nn: gzhel
     no: Gzhelium
     pl: Gżel
-    pt: Gzeliano
+    pt: Gzheliano
+    ru: гжельский ярус
+    scn: Gželianu
     sk: gžel
-    sl: gželij
+    sl: gzelij
     sv: gzhel
-    zh: 格热尔期
-    abbreviated: c7
-  time_:
-    started: "-303.7e6"
-    stopped: "-298.9e6"
+    uk: Гжельський ярус
+    vi: Tầng Gzhel
+    zh: 格舍尔期
+  next_:
+    item: '[[../../Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian|Age~1~Asselian]]'
+  previous_:
+    item: '[[Age~3~Kasimovian]]'
   text_of_:
-    color: "0xCCD4C7"
+    color: 0xCCD4C7
+  time_:
+    started: -303.7e6
+    stopped: -298.9e6
 dv_is_:
   same_as:
-    - "[[WD~Gzhelian,1030848]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian|Age~4~Gzhelian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian.public|Age~4~Gzhelian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian.internal|Age~4~Gzhelian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian.protect|Age~4~Gzhelian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian.private|Age~4~Gzhelian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian.personal|Age~4~Gzhelian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian.secret|Age~4~Gzhelian.secret]]"
-dv_has_duration_years: "4.800e+6"
-dv_has_previous_item: "[[Age~3~Kasimovian]]"
-dv_has_next_item: "[[../../Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian|Age~1~Asselian]]"
+  - '[[WD~Gzhelian,1030848]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian|Age~4~Gzhelian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian.public|Age~4~Gzhelian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian.internal|Age~4~Gzhelian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian.protect|Age~4~Gzhelian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian.private|Age~4~Gzhelian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian.personal|Age~4~Gzhelian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian.secret|Age~4~Gzhelian.secret]]'
+dv_has_duration_years: 4.800e+6
+dv_has_previous_item: '[[Age~3~Kasimovian]]'
+dv_has_next_item: '[[../../Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian|Age~1~Asselian]]'
 dv_is_same_as:
-  - "[[WD~Gzhelian,1030848]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian|Age~4~Gzhelian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian.public|Age~4~Gzhelian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian.internal|Age~4~Gzhelian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian.protect|Age~4~Gzhelian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian.private|Age~4~Gzhelian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian.personal|Age~4~Gzhelian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian.secret|Age~4~Gzhelian.secret]]"
+- '[[WD~Gzhelian,1030848]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian|Age~4~Gzhelian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian.public|Age~4~Gzhelian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian.internal|Age~4~Gzhelian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian.protect|Age~4~Gzhelian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian.private|Age~4~Gzhelian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian.personal|Age~4~Gzhelian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian.secret|Age~4~Gzhelian.secret]]'
 dv_has_name_bg: Гжел
 dv_has_name_cs: Gzhel
 dv_has_name_da: Gzhelien
@@ -110,9 +134,9 @@ dv_has_name_sl: gželij
 dv_has_name_sv: gzhel
 dv_has_name_zh: 格热尔期
 dv_has_name_abbreviated: c7
-dv_has_time_started: "-303.7e6"
-dv_has_time_stopped: "-298.9e6"
-dv_has_text_of_color: "0xCCD4C7"
+dv_has_time_started: -303.7e6
+dv_has_time_stopped: -298.9e6
+dv_has_text_of_color: 0xCCD4C7
 ---
 # [[Age~4~Gzhelian]] 
 

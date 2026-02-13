@@ -1,31 +1,36 @@
 ---
 aliases:
-  - Paibian
-  - Паиб
-  - Paib
-  - Paibien
-  - Paibium
-  - Paibiense
-  - Paibi
-  - paibi
-  - paibiano
-  - パイビアン期
-  - Paibis
-  - Paibiën
-  - Paibiano
-  - pajb
-  - paibij
-  - paib
-  - 排碧期
+- Paib
+- Paibi
+- Paibian
+- paibiano
+- Paibianu
+- Paibien
+- Paibiense
+- paibij
+- Paibis
+- Paibium
+- Paibiën
+- pajb
+- Tầng Bài Bích
+- Паиб
+- паибский ярус
+- Пейбий
+- البايبي
+- پایبین
+- ช่วงอายุไผเบียน
+- パイビアン期
+- ペイビアン
+- 排碧期
 has_id_wikidata: Q2060764
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-significant_place: "[[_Standards/WikiData/WD~Paibi,1417430]]"
-named_after: "[[_Standards/WikiData/WD~Paibi,1417430]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Paibian,30869625]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_Paibian,134954155]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+significant_place: '[[_Standards/WikiData/WD~Paibi,1417430]]'
+named_after: '[[_Standards/WikiData/WD~Paibi,1417430]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Paibian,30869625]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_Paibian,134954155]]'
 start_time: -497000000-01-01T00:00:00Z
 coordinate_location: Point(109.5257 28.3895)
 end_time: -494200000-01-01T00:00:00Z
@@ -33,60 +38,71 @@ sRGB_color_hex_triplet: CCEBAE
 Commons_category: Paibian
 dv_has_:
   duration_:
-    years: "3.000e+6"
-  previous_:
-    item: "[[../Epoch-509~Miaolingian/Age-501~Guzhangian|Age-501~Guzhangian]]"
-  next_:
-    item: "[[Age-494~Jiangshanian]]"
+    years: 3.000e+6
   name_:
-    bg: Паиб
+    abbreviated: ep8
+    ar: البايبي
+    bg: Пейбий
+    br: Paibian
     cs: Paib
     da: Paibien
     de: Paibium
+    en: Paibian
+    en-gb: Paibian
     es: Paibiense
     et: Paibi
+    fa: پایبین
     fi: Paib
     fr: Paibien
     hu: paibi
-    it: paibiano
-    ja: パイビアン期
+    id: Paibium
+    it: Paibiano
+    ja: ペイビアン
     lt: Paibis
-    nl: Paibiën
+    nl: Paibien
+    nn: paibi
     no: Paibium
-    pl: Paib
+    pl: paib
     pt: Paibiano
+    ru: паибский ярус
+    scn: Paibianu
     sk: pajb
     sl: paibij
     sv: paib
+    th: ช่วงอายุไผเบียน
+    vi: Tầng Bài Bích
     zh: 排碧期
-    abbreviated: ep8
+  next_:
+    item: '[[Age-494~Jiangshanian]]'
+  previous_:
+    item: '[[../Epoch-509~Miaolingian/Age-501~Guzhangian|Age-501~Guzhangian]]'
+  text_of_:
+    color: 0xCCEBAE
   time_:
     started: -497000000
     stopped: -494000000
-  text_of_:
-    color: "0xCCEBAE"
 dv_is_:
   same_as:
-    - "[[WD~Paibian,2060764]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-497~Paibian|Age-497~Paibian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-497~Paibian.public|Age-497~Paibian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-497~Paibian.internal|Age-497~Paibian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-497~Paibian.protect|Age-497~Paibian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-497~Paibian.private|Age-497~Paibian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-497~Paibian.personal|Age-497~Paibian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-497~Paibian.secret|Age-497~Paibian.secret]]"
-dv_has_duration_years: "3.000e+6"
-dv_has_previous_item: "[[../Epoch-509~Miaolingian/Age-501~Guzhangian|Age-501~Guzhangian]]"
-dv_has_next_item: "[[Age-494~Jiangshanian]]"
+  - '[[WD~Paibian,2060764]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-497~Paibian|Age-497~Paibian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-497~Paibian.public|Age-497~Paibian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-497~Paibian.internal|Age-497~Paibian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-497~Paibian.protect|Age-497~Paibian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-497~Paibian.private|Age-497~Paibian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-497~Paibian.personal|Age-497~Paibian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-497~Paibian.secret|Age-497~Paibian.secret]]'
+dv_has_duration_years: 3.000e+6
+dv_has_previous_item: '[[../Epoch-509~Miaolingian/Age-501~Guzhangian|Age-501~Guzhangian]]'
+dv_has_next_item: '[[Age-494~Jiangshanian]]'
 dv_is_same_as:
-  - "[[WD~Paibian,2060764]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-497~Paibian|Age-497~Paibian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-497~Paibian.public|Age-497~Paibian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-497~Paibian.internal|Age-497~Paibian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-497~Paibian.protect|Age-497~Paibian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-497~Paibian.private|Age-497~Paibian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-497~Paibian.personal|Age-497~Paibian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-497~Paibian.secret|Age-497~Paibian.secret]]"
+- '[[WD~Paibian,2060764]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-497~Paibian|Age-497~Paibian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-497~Paibian.public|Age-497~Paibian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-497~Paibian.internal|Age-497~Paibian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-497~Paibian.protect|Age-497~Paibian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-497~Paibian.private|Age-497~Paibian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-497~Paibian.personal|Age-497~Paibian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-497~Paibian.secret|Age-497~Paibian.secret]]'
 dv_has_name_bg: Паиб
 dv_has_name_cs: Paib
 dv_has_name_da: Paibien
@@ -110,7 +126,7 @@ dv_has_name_zh: 排碧期
 dv_has_name_abbreviated: ep8
 dv_has_time_started: -497000000
 dv_has_time_stopped: -494000000
-dv_has_text_of_color: "0xCCEBAE"
+dv_has_text_of_color: 0xCCEBAE
 ---
 # [[Age-497~Paibian]] 
 

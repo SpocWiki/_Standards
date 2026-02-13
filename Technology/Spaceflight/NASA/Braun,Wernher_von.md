@@ -1,74 +1,103 @@
 ---
 aliases:
-  - Wernher_von_Braun
-  - Wernher Magnus Maximilian Freiherr von Braun
-  - Wernher von Braun
-  - von Braun
-  - Braun,Wernher_von
-  - Braun,Wernher von
+- Braun,Wernher von
+- Braun,Wernher_von
+- Verner fon Braun
+- Verners fon Brauns
+- von Braun
+- Werner von Braun
+- Wernher de Braun
+- Wernher Magnus Maximilian Freiherr von Braun
+- Wernher von Braun
+- Wernher_von_Braun
+- Βέρνερ φον Μπράουν
+- Вернер фон Браўн
+- Вернер фон Браун
+- Вэрнэр фон Браўн
+- Վերներ ֆոն Բրաուն
+- ורנר פון בראון
+- فيرنر فون براون
+- ورنر فون براون
+- ورنہر فان براؤن
+- وێرنەر ڤۆن بڕاون
+- ߥߍ߲ߙߑߤߍߙ ߝ߭ߐ߲ ߓߑߙߐ߲߫
+- वर्नर फोन ब्रॉन
+- वेर्नहर भोन ब्राउन
+- ভের্নার ফন ব্রাউন
+- வெர்னர் ஃபான் பிரெளன்
+- വേൺഹെർ വോൺ ബ്രൗൺ
+- แวร์นแฮร์ ฟ็อน เบราน์
+- ဝါနာဗွန်ဘရောင်း
+- ვერნერ ფონ ბრაუნი
+- ヴェルナー・フォン・ブラウン
+- 沃纳·冯·布劳恩
+- 華納·馮·布朗
+- 韦恩赫尔·冯·布劳恩
+- 馮布朗
+- 베르너 폰 브라운
 has_id_wikidata: Q57384
 father: '[[_Standards/WikiData/WD~Magnus_von_Braun,72654]]'
 religion_or_worldview:
-  - '[[_Standards/WikiData/WD~Lutheranism,75809]]'
-  - '[[_Standards/WikiData/WD~Evangelicalism,194253]]'
+- '[[_Standards/WikiData/WD~Lutheranism,75809]]'
+- '[[_Standards/WikiData/WD~Evangelicalism,194253]]'
 student_of:
-  - '[[_Standards/WikiData/WD~Hermann_Oberth,78503]]'
-  - '[[_Standards/WikiData/WD~Paul_Hindemith,57244]]'
+- '[[_Standards/WikiData/WD~Hermann_Oberth,78503]]'
+- '[[_Standards/WikiData/WD~Paul_Hindemith,57244]]'
 influenced_by:
-  - '[[_Standards/WikiData/WD~Hermann_Oberth,78503]]'
-  - '[[_Standards/WikiData/WD~Jules_Verne,33977]]'
+- '[[_Standards/WikiData/WD~Hermann_Oberth,78503]]'
+- '[[_Standards/WikiData/WD~Jules_Verne,33977]]'
 residence:
-  - '[[_Standards/WikiData/WD~Huntsville,79860]]'
-  - '[[_Standards/WikiData/WD~Peenemünde,490398]]'
-  - '[[_Standards/WikiData/WD~Washington,_D.C.,61]]'
-  - '[[_Standards/WikiData/WD~Berlin,64]]'
-  - '[[_Standards/WikiData/WD~Alexandria,88]]'
+- '[[_Standards/WikiData/WD~Huntsville,79860]]'
+- '[[_Standards/WikiData/WD~Peenemünde,490398]]'
+- '[[_Standards/WikiData/WD~Washington,_D.C.,61]]'
+- '[[_Standards/WikiData/WD~Berlin,64]]'
+- '[[_Standards/WikiData/WD~Alexandria,88]]'
 sibling:
-  - '[[_Standards/WikiData/WD~Magnus_von_Braun,85426]]'
-  - '[[_Standards/WikiData/WD~Sigismund_von_Braun,215355]]'
+- '[[_Standards/WikiData/WD~Magnus_von_Braun,85426]]'
+- '[[_Standards/WikiData/WD~Sigismund_von_Braun,215355]]'
 doctoral_advisor: '[[_Standards/WikiData/WD~Erich_Schumann,97710]]'
 employer:
-  - '[[_Standards/WikiData/WD~Wehrmacht,128781]]'
-  - '[[_Standards/WikiData/WD~Waffenamt,655369]]'
-  - '[[_Standards/WikiData/WD~Fairchild,1136766]]'
-  - '[[_Standards/WikiData/WD~United_States_Army,9212]]'
-  - '[[_Standards/WikiData/WD~National_Aeronautics_and_Space_Administration,23548]]'
+- '[[_Standards/WikiData/WD~Wehrmacht,128781]]'
+- '[[_Standards/WikiData/WD~Waffenamt,655369]]'
+- '[[_Standards/WikiData/WD~Fairchild,1136766]]'
+- '[[_Standards/WikiData/WD~United_States_Army,9212]]'
+- '[[_Standards/WikiData/WD~National_Aeronautics_and_Space_Administration,23548]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Humboldt_Universität_zu_Berlin,152087]]'
-  - '[[_Standards/WikiData/WD~Französisches_Gymnasium_Berlin,318186]]'
-  - '[[_Standards/WikiData/WD~Hermann_Lietz_Schule_Spiekeroog,1611984]]'
-  - '[[_Standards/WikiData/WD~ETH_Zurich,11942]]'
-  - '[[_Standards/WikiData/WD~Technische_Universität_Berlin,51985]]'
+- '[[_Standards/WikiData/WD~Humboldt_Universität_zu_Berlin,152087]]'
+- '[[_Standards/WikiData/WD~Französisches_Gymnasium_Berlin,318186]]'
+- '[[_Standards/WikiData/WD~Hermann_Lietz_Schule_Spiekeroog,1611984]]'
+- '[[_Standards/WikiData/WD~ETH_Zurich,11942]]'
+- '[[_Standards/WikiData/WD~Technische_Universität_Berlin,51985]]'
 military_or_police_rank: '[[_Standards/WikiData/WD~Sturmbannführer,161104]]'
 noble_title: '[[_Standards/WikiData/WD~baron,165503]]'
 occupation:
-  - '[[_Standards/WikiData/WD~physicist,169470]]'
-  - '[[_Standards/WikiData/WD~inventor,205375]]'
-  - '[[_Standards/WikiData/WD~military_flight_engineer,10497074]]'
-  - '[[_Standards/WikiData/WD~non_fiction_writer,15980158]]'
-  - '[[_Standards/WikiData/WD~military_personnel,47064]]'
+- '[[_Standards/WikiData/WD~physicist,169470]]'
+- '[[_Standards/WikiData/WD~inventor,205375]]'
+- '[[_Standards/WikiData/WD~military_flight_engineer,10497074]]'
+- '[[_Standards/WikiData/WD~non_fiction_writer,15980158]]'
+- '[[_Standards/WikiData/WD~military_personnel,47064]]'
 cause_of_death:
-  - '[[_Standards/WikiData/WD~pancreatic_cancer,212961]]'
-  - '[[_Standards/WikiData/WD~liver_cancer,623031]]'
+- '[[_Standards/WikiData/WD~pancreatic_cancer,212961]]'
+- '[[_Standards/WikiData/WD~liver_cancer,623031]]'
 award_received:
-  - '[[_Standards/WikiData/WD~National_Aviation_Hall_of_Fame,488005]]'
-  - '[[_Standards/WikiData/WD~Wilhelm_Exner_Medal,700368]]'
-  - '[[_Standards/WikiData/WD~Werner_von_Siemens_Ring,879351]]'
-  - '[[_Standards/WikiData/WD~Rudolf_Diesel_Medaille,2172237]]'
-  - '[[_Standards/WikiData/WD~NASA_Distinguished_Service_Medal,4286902]]'
-  - '[[_Standards/WikiData/WD~Dr._Robert_H._Goddard_Memorial_Trophy,5304351]]'
-  - '[[_Standards/WikiData/WD~Langley_Gold_Medal,6486246]]'
-  - "[[_Standards/WikiData/WD~Knight_Commander's_Cross_of_the_Order_of_Merit_of_the_Federal_Republic_of_Germany,10905235]]"
-  - '[[_Standards/WikiData/WD~Maxwell_Lecture,21662139]]'
-  - "[[_Standards/WikiData/WD~Knight's_Cross_of_the_War_Merit_Cross_with_Swords,28148347]]"
-  - '[[_Standards/WikiData/WD~Honorary_doctor_of_the_Technical_University_of_Berlin,40673468]]'
-  - '[[_Standards/WikiData/WD~International_Space_Hall_of_Fame,99951011]]'
+- '[[_Standards/WikiData/WD~National_Aviation_Hall_of_Fame,488005]]'
+- '[[_Standards/WikiData/WD~Wilhelm_Exner_Medal,700368]]'
+- '[[_Standards/WikiData/WD~Werner_von_Siemens_Ring,879351]]'
+- '[[_Standards/WikiData/WD~Rudolf_Diesel_Medaille,2172237]]'
+- '[[_Standards/WikiData/WD~NASA_Distinguished_Service_Medal,4286902]]'
+- '[[_Standards/WikiData/WD~Dr._Robert_H._Goddard_Memorial_Trophy,5304351]]'
+- '[[_Standards/WikiData/WD~Langley_Gold_Medal,6486246]]'
+- "[[_Standards/WikiData/WD~Knight_Commander's_Cross_of_the_Order_of_Merit_of_the_Federal_Republic_of_Germany,10905235]]"
+- '[[_Standards/WikiData/WD~Maxwell_Lecture,21662139]]'
+- "[[_Standards/WikiData/WD~Knight's_Cross_of_the_War_Merit_Cross_with_Swords,28148347]]"
+- '[[_Standards/WikiData/WD~Honorary_doctor_of_the_Technical_University_of_Berlin,40673468]]'
+- '[[_Standards/WikiData/WD~International_Space_Hall_of_Fame,99951011]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~West_Germany,713750]]'
-  - '[[_Standards/WikiData/WD~Nazi_Germany,7318]]'
-  - '[[_Standards/WikiData/WD~United_States,30]]'
-  - '[[_Standards/WikiData/WD~Weimar_Republic,41304]]'
-  - '[[_Standards/WikiData/WD~German_Empire,43287]]'
+- '[[_Standards/WikiData/WD~West_Germany,713750]]'
+- '[[_Standards/WikiData/WD~Nazi_Germany,7318]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Weimar_Republic,41304]]'
+- '[[_Standards/WikiData/WD~German_Empire,43287]]'
 place_of_birth: '[[_Standards/WikiData/WD~Wyrzysk,988588]]'
 child: '[[_Standards/WikiData/WD~Margrit_von_Braun,1267944]]'
 place_of_detention: '[[_Standards/WikiData/WD~Kransberg_Castle,1563943]]'
@@ -77,31 +106,31 @@ field_of_work: '[[_Standards/WikiData/WD~aerospace_engineering,3798668]]'
 place_of_burial: '[[_Standards/WikiData/WD~Ivy_Hill_Cemetery,6099858]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~The_Royal_Descents_of_600_Immigrants_to_the_American_Colonies_or_the_United_States_(2004),104788952]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~The_Royal_Descents_of_600_Immigrants_to_the_American_Colonies_or_the_United_States_(2004),104788952]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Magnus,18109457]]'
-  - '[[_Standards/WikiData/WD~Maximilian,18133228]]'
-  - '[[_Standards/WikiData/WD~Wernher,19968444]]'
+- '[[_Standards/WikiData/WD~Magnus,18109457]]'
+- '[[_Standards/WikiData/WD~Maximilian,18133228]]'
+- '[[_Standards/WikiData/WD~Wernher,19968444]]'
 academic_degree: '[[_Standards/WikiData/WD~Doctor_of_Philosophy_in_Physics,19693354]]'
 archives_at: '[[_Standards/WikiData/WD~ETH_Zurich_University_Archives,39934978]]'
 mother: '[[_Standards/WikiData/WD~Emmy_von_Braun,41623239]]'
 family_name: '[[_Standards/WikiData/WD~von_Braun,45854930]]'
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
 depicted_by:
-  - '[[_Standards/WikiData/WD~Operation_Paperclip_The_Secret_Intelligence_Program_that_Brought_Nazi_Scientists_to_America,85019750]]'
-  - '[[_Standards/WikiData/WD~The_Secret_Operation_To_Bring_Nazi_Scientists_To_America,85022210]]'
-  - "[[_Standards/WikiData/WD~How_Historians_Are_Reckoning_With_the_Former_Nazi_Who_Launched_America's_Space_Program,98101044]]"
-  - '[[_Standards/WikiData/WD~Wernher_von_Braun,107596006]]'
+- '[[_Standards/WikiData/WD~Operation_Paperclip_The_Secret_Intelligence_Program_that_Brought_Nazi_Scientists_to_America,85019750]]'
+- '[[_Standards/WikiData/WD~The_Secret_Operation_To_Bring_Nazi_Scientists_To_America,85022210]]'
+- "[[_Standards/WikiData/WD~How_Historians_Are_Reckoning_With_the_Former_Nazi_Who_Launched_America's_Space_Program,98101044]]"
+- '[[_Standards/WikiData/WD~Wernher_von_Braun,107596006]]'
 spouse: '[[_Standards/WikiData/WD~Maria_von_Braun,104848490]]'
 different_from: '[[_Standards/WikiData/WD~Wernher_von_Braun,107596006]]'
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~German,188]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~German,188]]'
 instrument:
-  - '[[_Standards/WikiData/WD~piano,5994]]'
-  - '[[_Standards/WikiData/WD~cello,8371]]'
+- '[[_Standards/WikiData/WD~piano,5994]]'
+- '[[_Standards/WikiData/WD~cello,8371]]'
 member_of_political_party: '[[_Standards/WikiData/WD~Nazi_Party,7320]]'
 allegiance: '[[_Standards/WikiData/WD~National_Aeronautics_and_Space_Administration,23548]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
@@ -121,19 +150,120 @@ BHCL_UUID: 574a9a0d-e788-44b7-bd1d-fb4149b7d7b1
 date_of_death: 1977-06-16T00:00:00Z
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Unterschrift%20Wernher%20von%20Braun%20deutsch-US-amerikanischer%20Raketentechniker.png
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Wernher%20von%20Braun.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Wernher%20von%20Braun%201960.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Wernher%20von%20Braun.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Wernher%20von%20Braun%201960.jpg
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Wernher%20von%20Braun%20HagenU.jpg
 described_at_URL:
-  - http://www.digiporta.net/index.php?id=177375249
-  - http://www.digiporta.net/index.php?id=236714831
-  - http://www.digiporta.net/index.php?id=702193497
-  - http://www.digiporta.net/index.php?id=894524075
+- http://www.digiporta.net/index.php?id=177375249
+- http://www.digiporta.net/index.php?id=236714831
+- http://www.digiporta.net/index.php?id=702193497
+- http://www.digiporta.net/index.php?id=894524075
 ISNI: 000000012132837X
 NSDAP_membership_number_1925_1945_: 5738692
 P1015: 90378049
+dv_has_:
+  name_:
+    af: Wernher von Braun
+    ar: فيرنر فون براون
+    arz: فيرنر فون براون
+    ast: Wernher von Braun
+    az: Verner fon Braun
+    azb: ورنر فون براون
+    be: Вернер фон Браўн
+    be-tarask: Вэрнэр фон Браўн
+    bg: Вернер фон Браун
+    bn: ভের্নার ফন ব্রাউন
+    bs: Wernher von Braun
+    ca: Wernher von Braun
+    ckb: وێرنەر ڤۆن بڕاون
+    cs: Wernher von Braun
+    cy: Wernher von Braun
+    da: Wernher von Braun
+    dag: Wernher von Braun
+    de: Wernher von Braun
+    de-ch: Wernher von Braun
+    diq: Wernher von Braun
+    el: Βέρνερ φον Μπράουν
+    en: Wernher von Braun
+    en-ca: Wernher von Braun
+    en-gb: Wernher von Braun
+    eo: Wernher von Braun
+    es: Wernher von Braun
+    et: Wernher von Braun
+    eu: Wernher von Braun
+    fa: ورنر فون براون
+    fi: Wernher von Braun
+    fr: Wernher von Braun
+    ga: Werner von Braun
+    gl: Wernher von Braun
+    gsw: Wernher von Braun
+    hak: Wernher von Braun
+    he: ורנר פון בראון
+    hr: Wernher von Braun
+    hu: Wernher von Braun
+    hy: Վերներ ֆոն Բրաուն
+    id: Wernher von Braun
+    io: Wernher von Braun
+    is: Wernher von Braun
+    it: Wernher von Braun
+    ja: ヴェルナー・フォン・ブラウン
+    ka: ვერნერ ფონ ბრაუნი
+    kk: Вернер Фон Браун
+    ko: 베르너 폰 브라운
+    kw: Wernher von Braun
+    la: Wernher de Braun
+    lfn: Wernher von Braun
+    lt: Wernher von Braun
+    lv: Verners fon Brauns
+    mg: Wernher von Braun
+    mk: Вернер фон Браун
+    ml: വേൺഹെർ വോൺ ബ്രൗൺ
+    mn: Вернер фон Браун
+    mr: वर्नर फोन ब्रॉन
+    ms: Wernher von Braun
+    mul: Wernher von Braun
+    my: ဝါနာဗွန်ဘရောင်း
+    nan: Wernher von Braun
+    nb: Wernher von Braun
+    nds: Wernher von Braun
+    ne: वेर्नहर भोन ब्राउन
+    nl: Wernher von Braun
+    nn: Wernher von Braun
+    nqo: ߥߍ߲ߙߑߤߍߙ ߝ߭ߐ߲ ߓߑߙߐ߲߫
+    ny: Wernher von Braun
+    oc: Wernher von Braun
+    os: Вернер фон Браун
+    pam: Wernher von Braun
+    pap: Wernher von Braun
+    pl: Wernher von Braun
+    pnb: ورنہر فان براؤن
+    ps: ورنر فون براون
+    pt: Wernher von Braun
+    pt-br: Wernher von Braun
+    ro: Wernher von Braun
+    ru: Вернер фон Браун
+    sco: Wernher von Braun
+    sh: Wernher von Braun
+    sk: Wernher von Braun
+    sl: Wernher von Braun
+    sq: Wernher von Braun
+    sr: Вернер фон Браун
+    sv: Wernher von Braun
+    sw: Wernher von Braun
+    ta: வெர்னர் ஃபான் பிரெளன்
+    th: แวร์นแฮร์ ฟ็อน เบราน์
+    tr: Wernher von Braun
+    uk: Вернер фон Браун
+    uz: Von Braun
+    vi: Wernher von Braun
+    war: Wernher von Braun
+    wuu: 沃纳·冯·布劳恩
+    xmf: ვერნერ ფონ ბრაუნი
+    yue: 馮布朗
+    zh: 韦恩赫尔·冯·布劳恩
+    zh-cn: 韦恩赫尔·冯·布劳恩
+    zh-hk: 華納·馮·布朗
 ---
-
 # [[Braun,Wernher_von]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Wernher_von_Braun,57384|WD~Wernher_von_Braun,57384]]  

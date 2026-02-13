@@ -1,8 +1,87 @@
 ---
 has_id_wikidata: Q850283
+dv_has_:
+  name_:
+    ar: قياس التداخل
+    ast: Interferometría
+    be-tarask: інтэрфэрамэтрыя
+    bg: Интерферометрия
+    ca: interferometria
+    cs: interferometrie
+    da: interferometri
+    de: Interferometrie
+    el: συμβολομετρία
+    en: interferometry
+    eo: interferometrio
+    es: interferometría
+    et: Interferomeetria
+    eu: interferometria
+    fa: تداخلسنجی
+    fi: Interferometri
+    fr: interférométrie
+    ga: trasnamhéadar
+    gl: Interferometría
+    he: אינטרפרומטריה
+    hi: व्यतिकरणमिति
+    hr: Interferometar
+    id: Interferometri
+    it: interferometria
+    ja: 干渉法
+    kn: ವ್ಯತಿಕರಣಮಾಪಕ
+    ko: 간섭법
+    lt: Interferometrija
+    mk: Интерферометрија
+    nb: interferometri
+    nl: interferometrie
+    nn: interferometri
+    pl: interferometria
+    pt: interferometria
+    ro: interferometrie
+    ru: интерферометрия
+    sl: interferometrija
+    sr: интерферометрија
+    sr-ec: интерферометрија
+    sv: interferometri
+    ta: குறுக்கீட்டுமானம்
+    th: อินเตอร์เฟอโรเมทรี
+    tr: Girişimölçer
+    uk: інтерферометрія
+    uz: Interferometriya
+    vi: Đo giao thoa
+    yue: 干涉術
+    zh: 干涉測量術
+aliases:
+- Girişimölçer
+- Interferomeetria
+- Interferometar
+- interferometri
+- interferometria
+- Interferometrie
+- Interferometrija
+- interferometrio
+- Interferometriya
+- interferometry
+- interferometría
+- interférométrie
+- trasnamhéadar
+- Đo giao thoa
+- συμβολομετρία
+- інтерферометрія
+- інтэрфэрамэтрыя
+- Интерферометрија
+- интерферометрия
+- אינטרפרומטריה
+- تداخلسنجی
+- قياس التداخل
+- व्यतिकरणमिति
+- குறுக்கீட்டுமானம்
+- ವ್ಯತಿಕರಣಮಾಪಕ
+- อินเตอร์เฟอโรเมทรี
+- 干涉測量術
+- 干涉術
+- 干渉法
+- 간섭법
 ---
-
-
 # [[Interferometry]] 
 
 #is_/same_as :: [[Interferometry]] 

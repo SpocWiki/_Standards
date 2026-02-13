@@ -1,7 +1,69 @@
 ---
 aliases:
-  - Luftkissenfahrzeug
-  - Hovercraft
+- aerodeslizador
+- Aeroescorregador
+- aeroeslizador
+- Aeroglita boato
+- aerolabaingailu
+- aerolliscador
+- aéroglisseur
+- Bàta-foluaimein
+- Ca nô đệm khí
+- Glit-navo
+- Hava yastıklı tekne
+- hofranlong
+- Hovercraft
+- Hoverkraf
+- Hoverkraft
+- Hõljuk
+- Ilmatyynyalus
+- Kapal bantalan udara
+- Kiştiji havobolin
+- Laivas su oro pagalve
+- Lebdjelica
+- Liscador
+- lochtkussenvoertuug
+- Luchtkessenreau
+- Luftkissenfahrzeug
+- luftpudebåd
+- luftputefartøy
+- légpárnás hajó
+- Navă pe pernă de aer
+- Poduszkowiec
+- sciorrárthach
+- siʹŋŋeemluʹvdd
+- Skeertuig
+- svävare
+- Vznášadlo
+- vznášedlo
+- Αερόστρωμνο
+- Киштии ҳавоболин
+- Лебдјелица
+- лебдилка
+- судніна на паветранай падушцы
+- Судна на паветранай падушцы
+- Судно на воздушной подушке
+- судно на повітряній подушці
+- Съд на въздушна възглавница
+- רחפת
+- حوامة
+- حوامہ
+- هاورکرافت
+- هواناو
+- ھۆڤەرکرافت
+- ہوورکرافٹ
+- हावरक्राफ्ट
+- হোভারক্রাফ্ট
+- காற்றுமெத்தை உந்து
+- ഹോവർക്രാഫ്റ്റ്
+- වායුපායානය
+- เรือโฮเวอร์คราฟต์
+- ရှပ်ပြေးယာဉ်
+- ჰაერბალიშიანი გემი
+- ホバークラフト
+- 气垫船
+- 氣墊船
+- 호버크래프트
 has_id_wikidata: Q185757
 discoverer_or_inventor: '[[_Standards/WikiData/WD~Christopher_Cockerell,469938]]'
 subclass_of: '[[_Standards/WikiData/WD~amphibious_vehicle,474698]]'
@@ -20,8 +82,87 @@ Commons_gallery: Hovercraft
 Commons_category: Hovercraft
 Krugosvet_article_archived_: nauka_i_tehnika/transport_i_svyaz/SUDA_NA_VOZDUSHNO_PODUSHKE.html
 Wikidata_usage_instructions: Not all hovercraft are watercraft, so add watercraft if needed
+dv_has_:
+  name_:
+    af: Skeertuig
+    ar: حوامة
+    ast: aeroeslizador
+    az: Hoverkraft
+    be: Судна на паветранай падушцы
+    be-tarask: судніна на паветранай падушцы
+    bg: Съд на въздушна възглавница
+    bn: হোভারক্রাফ্ট
+    ca: aerolliscador
+    ckb: ھۆڤەرکرافت
+    cs: vznášedlo
+    cy: hofranlong
+    da: luftpudebåd
+    de: Luftkissenfahrzeug
+    el: Αερόστρωμνο
+    en: hovercraft
+    eo: Aeroglita boato
+    es: aerodeslizador
+    et: Hõljuk
+    eu: aerolabaingailu
+    fa: هواناو
+    fi: Ilmatyynyalus
+    fr: aéroglisseur
+    fy: Luchtkessenreau
+    ga: sciorrárthach
+    gd: Bàta-foluaimein
+    gl: Aeroescorregador
+    he: רחפת
+    hi: हावरक्राफ्ट
+    hr: Hoverkraft
+    hu: légpárnás hajó
+    id: Kapal bantalan udara
+    io: Glit-navo
+    it: hovercraft
+    ja: ホバークラフト
+    ka: ჰაერბალიშიანი გემი
+    ko: 호버크래프트
+    lfn: Liscador
+    lt: Laivas su oro pagalve
+    mk: лебдилка
+    ml: ഹോവർക്രാഫ്റ്റ്
+    ms: Hoverkraf
+    my: ရှပ်ပြေးယာဉ်
+    mzn: هاورکرافت
+    nb: luftputefartøy
+    nds-nl: lochtkussenvoertuug
+    nl: hovercraft
+    pl: Poduszkowiec
+    pnb: ہوورکرافٹ
+    pt: hovercraft
+    ro: Navă pe pernă de aer
+    ru: Судно на воздушной подушке
+    si: වායුපායානය
+    sk: Vznášadlo
+    sl: hoverkraft
+    sms: siʹŋŋeemluʹvdd
+    sr: Лебдјелица
+    sr-ec: Лебдјелица
+    sr-el: Lebdjelica
+    sv: svävare
+    ta: காற்றுமெத்தை உந்து
+    tg: Киштии ҳавоболин
+    tg-latn: Kiştiji havobolin
+    th: เรือโฮเวอร์คราฟต์
+    tr: Hava yastıklı tekne
+    uk: судно на повітряній подушці
+    ur: حوامہ
+    vi: Ca nô đệm khí
+    war: Hovercraft
+    wuu: 气垫船
+    yue: 氣墊船
+    zh: 氣墊船
+    zh-cn: 气垫船
+    zh-hans: 气垫船
+    zh-hant: 氣墊船
+    zh-hk: 氣墊船
+    zh-sg: 气垫船
+    zh-tw: 氣墊船
 ---
-
 # [[Hovercraft]] 
 
 #is_/same_as :: [[WD~Hovercraft,185757]] 

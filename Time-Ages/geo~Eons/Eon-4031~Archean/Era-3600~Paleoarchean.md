@@ -1,31 +1,53 @@
 ---
 aliases:
-  - Era~2~Paleoarchean
-  - Paleoarchean
-  - Палеоархай
-  - Paleoarchaikum
-  - Palæoarkæisk
-  - Paläoarchaikum
-  - Palaeoarchaean
-  - Paleoarcaico
-  - Paleoarhaikum
-  - Paleoarkeikum
-  - Paléoarchéen
-  - paleoarchai
-  - paleoarcheano
-  - 古始生代
-  - Paleoarchejus
-  - Paleo-archaicum
-  - Paleoarchaik
-  - paleoarchaikum
-  - paleoarhaik
-  - paleoarkeikum
-  - 古太古代
+- an Ré Phailé-aircéach
+- Baleyoarkeyaan
+- Era~2~Paleoarchean
+- Palaeoarchaean
+- Paleo-archaicum
+- Paleoarcaico
+- paleoarchai
+- Paleoarchaik
+- Paleoarchaikum
+- Paleoarchean
+- paleoarcheano
+- Paleoarchejus
+- Paleoarcheïcum
+- Paleoarchėjus
+- paleoarhaik
+- Paleoarhaikum
+- Paleoarkean
+- paleoarkeano
+- Paleoarkearra
+- Paleoarkeeinen maailmankausi
+- Paleoarkeen
+- Paleoarkeikum
+- Paleoarqueano
+- Paleoarqueà
+- Paleoarxey
+- Paliuarchianu
+- Paläoarchaikum
+- Palæoarkæisk
+- Paléoarchéen
+- Savsarxeugal
+- Đại Cổ Thái Cổ
+- Палеаархей
+- Палеоархай
+- Палеоархеј
+- палеоархей
+- פלאוארכאיקון
+- الحقبة السحيقة المبكرة
+- نخستزیستی دیرینه
+- पेलियोआर्कियाई महाकल्प
+- มหายุคพาลีโออาร์เคียน
+- 古太古代
+- 古始生代
+- 고시생대
 has_id_wikidata: Q738167
 instance_of:
-  - "[[_Standards/WikiData/WD~era,630830]]"
-  - "[[_Standards/WikiData/WD~erathem,2464485]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+- '[[_Standards/WikiData/WD~era,630830]]'
+- '[[_Standards/WikiData/WD~erathem,2464485]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 end_time: -3200000000-01-01T00:00:00Z
 start_time: -3600000000-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Vaalbara%20Continent.jpg
@@ -34,54 +56,87 @@ Commons_category: Paleoarchean
 sRGB_color_hex_triplet: F4449F
 dv_has_:
   duration_:
-    years: "4.000e+8"
-  previous_:
-    item: "[[Era-4031~Eoarchean]]"
-  next_:
-    item: "[[Era-3200~Mesoarchean]]"
+    years: 4.000e+8
   name_:
     abbreviated: PA
+    ar: الحقبة السحيقة المبكرة
+    avk: Savsarxeugal
+    az: Paleoarxey
+    be: Палеаархей
     bg: Палеоархай
+    br: Paleoarkean
+    ca: Paleoarqueà
     cs: Paleoarchaikum
     da: Palæoarkæisk
     de: Paläoarchaikum
+    en: Paleoarchean
+    en-gb: Palaeoarchaean
     en_:
       gb: Palaeoarchaean
       us: Paleoarchean
-    en: Paleoarchean
+    eo: paleoarkeano
     es: Paleoarcaico
     et: Paleoarhaikum
-    fi: Paleoarkeikum
+    eu: Paleoarkearra
+    fa: نخستزیستی دیرینه
+    fi: Paleoarkeeinen maailmankausi
     fr: Paléoarchéen
-    hu: paleoarchai
-    it: paleoarcheano
-    ja: 古始生代
-    lt: Paleoarchejus
-    nl: Paleo-archaicum
+    ga: an Ré Phailé-aircéach
+    he: פלאוארכאיקון
+    hi: पेलियोआर्कियाई महाकल्प
+    hr: paleoarhaik
+    hu: Paleoarchaikum
+    id: Paleoarkean
+    it: Paleoarcheano
+    ja: 古太古代
+    ko: 고시생대
+    lt: Paleoarchėjus
+    mk: Палеоархеј
+    ms: Paleoarkean
+    nl: Paleoarcheïcum
+    nn: paleoarkeikum
     no: Paleoarkeikum
-    pl: Paleoarchaik
-    pt: Paleoarcaico
-    sk: paleoarchaikum
+    pl: paleoarchaik
+    pt: Paleoarqueano
+    ro: Paleoarchean
+    ru: палеоархей
+    scn: Paliuarchianu
+    sh: Paleoarhaik
+    sk: Paleoarchaikum
     sl: paleoarhaik
+    so: Baleyoarkeyaan
     sv: paleoarkeikum
+    th: มหายุคพาลีโออาร์เคียน
+    tl: Paleoarchean
+    tr: Paleoarkeen
+    uk: Палеоархей
+    vi: Đại Cổ Thái Cổ
+    yue: 古太古代
     zh: 古太古代
-  time_:
-    started: "-3.600e9"
-    stopped: "-3.200e9"
+    zh-hans: 古太古代
+    zh-hant: 古太古代
+    zh-hk: 古太古代
+  next_:
+    item: '[[Era-3200~Mesoarchean]]'
+  previous_:
+    item: '[[Era-4031~Eoarchean]]'
   text_of_:
-    color: "0xF4449F"
+    color: 0xF4449F
+  time_:
+    started: -3.600e9
+    stopped: -3.200e9
 dv_is_:
   same_as:
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3600~Paleoarchean|Era-3600~Paleoarchean]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3600~Paleoarchean.public|Era-3600~Paleoarchean.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3600~Paleoarchean.internal|Era-3600~Paleoarchean.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3600~Paleoarchean.protect|Era-3600~Paleoarchean.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3600~Paleoarchean.private|Era-3600~Paleoarchean.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3600~Paleoarchean.personal|Era-3600~Paleoarchean.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3600~Paleoarchean.secret|Era-3600~Paleoarchean.secret]]"
-dv_has_duration_years: "4.000e+8"
-dv_has_previous_item: "[[Era-4031~Eoarchean]]"
-dv_has_next_item: "[[Era-3200~Mesoarchean]]"
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3600~Paleoarchean|Era-3600~Paleoarchean]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3600~Paleoarchean.public|Era-3600~Paleoarchean.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3600~Paleoarchean.internal|Era-3600~Paleoarchean.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3600~Paleoarchean.protect|Era-3600~Paleoarchean.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3600~Paleoarchean.private|Era-3600~Paleoarchean.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3600~Paleoarchean.personal|Era-3600~Paleoarchean.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3600~Paleoarchean.secret|Era-3600~Paleoarchean.secret]]'
+dv_has_duration_years: 4.000e+8
+dv_has_previous_item: '[[Era-4031~Eoarchean]]'
+dv_has_next_item: '[[Era-3200~Mesoarchean]]'
 dv_has_name_abbreviated: PA
 dv_has_name_bg: Палеоархай
 dv_has_name_cs: Paleoarchaikum
@@ -106,17 +161,17 @@ dv_has_name_sk: paleoarchaikum
 dv_has_name_sl: paleoarhaik
 dv_has_name_sv: paleoarkeikum
 dv_has_name_zh: 古太古代
-dv_has_time_started: "-3.600e9"
-dv_has_time_stopped: "-3.200e9"
-dv_has_text_of_color: "0xF4449F"
+dv_has_time_started: -3.600e9
+dv_has_time_stopped: -3.200e9
+dv_has_text_of_color: 0xF4449F
 dv_is_same_as:
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3600~Paleoarchean|Era-3600~Paleoarchean]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3600~Paleoarchean.public|Era-3600~Paleoarchean.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3600~Paleoarchean.internal|Era-3600~Paleoarchean.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3600~Paleoarchean.protect|Era-3600~Paleoarchean.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3600~Paleoarchean.private|Era-3600~Paleoarchean.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3600~Paleoarchean.personal|Era-3600~Paleoarchean.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3600~Paleoarchean.secret|Era-3600~Paleoarchean.secret]]"
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3600~Paleoarchean|Era-3600~Paleoarchean]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3600~Paleoarchean.public|Era-3600~Paleoarchean.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3600~Paleoarchean.internal|Era-3600~Paleoarchean.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3600~Paleoarchean.protect|Era-3600~Paleoarchean.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3600~Paleoarchean.private|Era-3600~Paleoarchean.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3600~Paleoarchean.personal|Era-3600~Paleoarchean.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3600~Paleoarchean.secret|Era-3600~Paleoarchean.secret]]'
 ---
 # [[Era-3600~Paleoarchean]] 
 

@@ -1,77 +1,132 @@
 ---
 aliases:
-  - Piacenzian
+- Piacencianu
+- piacent
+- piacenza
+- Piacenza (geologi)
+- Piacenza-kî
+- Piacenza-vaihe
+- piacenzai
+- Piacenzian
+- Piacenziano
+- Piacenziar
+- Piacenzien
+- Piacenziense
+- piacenzij
+- Piacenzium
+- Piacinzianu
+- Piasensium
+- Pjačencas stāvs
+- Pjačentin
+- Plaisancien
+- Plasencià
+- Tầng Piacenza
+- Πιατσέντσια βαθμίδα
+- П'яченцький ярус
+- пјачентин
+- пьяченцский ярус
+- П’ячэнцкі ярус
+- البياشنزي
+- پلیوسن پسین
+- ช่วงอายุปีอาเซนเซียน
+- ピアセンジアン
+- 皮亚琴期
+- 피아첸츠절
 has_id_wikidata: Q514873
-named_by: "[[_Standards/WikiData/WD~Karl_Mayer_Eymar,116704]]"
+named_by: '[[_Standards/WikiData/WD~Karl_Mayer_Eymar,116704]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Piacenzian,1487074]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Piacenzian,21708759]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Piacenzian,1487074]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Piacenzian,21708759]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 end_time: -2580000-01-01T00:00:00Z
-named_after: "[[_Standards/WikiData/WD~Piacenza,13329]]"
+named_after: '[[_Standards/WikiData/WD~Piacenza,13329]]'
 coordinate_location: Point(13.4933 37.2889)
 Commons_category: Piacenzian
 start_time: -3600000-01-01T00:00:00Z
 sRGB_color_hex_triplet: FFFFBF
-Dewey_Decimal_Classification: "551.788"
+Dewey_Decimal_Classification: 551.788
 dv_has_:
   duration_:
-    years: "1.020e+6"
-  previous_:
-    item: "[[Age~1~Zanclean]]"
-  next_:
-    item: "[[../../Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~1~Gelasian|Age~1~Gelasian]]"
+    years: 1.020e+6
   name_:
+    abbreviated: n8
+    af: Piasensium
+    ar: البياشنزي
+    ast: Piacencianu
+    be-tarask: П’ячэнцкі ярус
     bg: Пиачен
+    ca: Plasencià
     cs: Piacenz
     da: Piacenzien
     de: Piacenzium
-    es: Plazenciense
+    el: Πιατσέντσια βαθμίδα
+    en: Piacenzian
+    en-gb: Piacenzian
+    es: Piacenziense
     et: Piacenzi
-    fi: Piacenz
-    fr: Piacenzien
+    eu: Piacenziar
+    fa: پلیوسن پسین
+    fi: Piacenza-vaihe
+    fr: Plaisancien
     hu: piacenzai
-    it: piacenziano
-    ja: ﾋﾟｱｾﾝｼﾞｱﾝ期
+    id: Piacenzian
+    it: Piacenziano
+    ja: ピアセンジアン
+    ko: 피아첸츠절
     lt: PiaĿenzis
-    nl: Reuveriën
+    lv: Pjačencas stāvs
+    mk: пјачентин
+    nan: Piacenza-kî
+    nb: Piacenzium
+    nds: Piacenzium
+    nl: Piacenzien
+    nn: piacenza
     no: Piecenzium
-    pl: Piacenz
-    pt: Placenciano
+    pl: piacent
+    pt: Piacenziano
+    ru: пьяченцский ярус
+    scn: Piacinzianu
+    sh: Pjačentin
     sk: piaĿenz
     sl: piacenzij
-    sv: piacenz
+    sv: Piacenza (geologi)
+    th: ช่วงอายุปีอาเซนเซียน
+    uk: П'яченцький ярус
+    vi: Tầng Piacenza
     zh: 皮亚琴期
-    abbreviated: n8
-  time_:
-    started: "-3.60e6"
-    stopped: "-2.58e6"
+  next_:
+    item: '[[../../Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~1~Gelasian|Age~1~Gelasian]]'
+  previous_:
+    item: '[[Age~1~Zanclean]]'
   text_of_:
-    color: "0xFFFFBF"
+    color: 0xFFFFBF
+  time_:
+    started: -3.60e6
+    stopped: -2.58e6
 dv_is_:
   same_as:
-    - "[[WD~Piacenzian,514873]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~2~Piacenzian|Age~2~Piacenzian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~2~Piacenzian.public|Age~2~Piacenzian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~2~Piacenzian.internal|Age~2~Piacenzian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~2~Piacenzian.protect|Age~2~Piacenzian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~2~Piacenzian.private|Age~2~Piacenzian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~2~Piacenzian.personal|Age~2~Piacenzian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~2~Piacenzian.secret|Age~2~Piacenzian.secret]]"
-dv_has_duration_years: "1.020e+6"
-dv_has_previous_item: "[[Age~1~Zanclean]]"
-dv_has_next_item: "[[../../Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~1~Gelasian|Age~1~Gelasian]]"
+  - '[[WD~Piacenzian,514873]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~2~Piacenzian|Age~2~Piacenzian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~2~Piacenzian.public|Age~2~Piacenzian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~2~Piacenzian.internal|Age~2~Piacenzian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~2~Piacenzian.protect|Age~2~Piacenzian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~2~Piacenzian.private|Age~2~Piacenzian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~2~Piacenzian.personal|Age~2~Piacenzian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~2~Piacenzian.secret|Age~2~Piacenzian.secret]]'
+dv_has_duration_years: 1.020e+6
+dv_has_previous_item: '[[Age~1~Zanclean]]'
+dv_has_next_item: '[[../../Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~1~Gelasian|Age~1~Gelasian]]'
 dv_is_same_as:
-  - "[[WD~Piacenzian,514873]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~2~Piacenzian|Age~2~Piacenzian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~2~Piacenzian.public|Age~2~Piacenzian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~2~Piacenzian.internal|Age~2~Piacenzian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~2~Piacenzian.protect|Age~2~Piacenzian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~2~Piacenzian.private|Age~2~Piacenzian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~2~Piacenzian.personal|Age~2~Piacenzian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~2~Piacenzian.secret|Age~2~Piacenzian.secret]]"
+- '[[WD~Piacenzian,514873]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~2~Piacenzian|Age~2~Piacenzian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~2~Piacenzian.public|Age~2~Piacenzian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~2~Piacenzian.internal|Age~2~Piacenzian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~2~Piacenzian.protect|Age~2~Piacenzian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~2~Piacenzian.private|Age~2~Piacenzian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~2~Piacenzian.personal|Age~2~Piacenzian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~2~Piacenzian.secret|Age~2~Piacenzian.secret]]'
 dv_has_name_bg: Пиачен
 dv_has_name_cs: Piacenz
 dv_has_name_da: Piacenzien
@@ -93,9 +148,9 @@ dv_has_name_sl: piacenzij
 dv_has_name_sv: piacenz
 dv_has_name_zh: 皮亚琴期
 dv_has_name_abbreviated: n8
-dv_has_time_started: "-3.60e6"
-dv_has_time_stopped: "-2.58e6"
-dv_has_text_of_color: "0xFFFFBF"
+dv_has_time_started: -3.60e6
+dv_has_time_stopped: -2.58e6
+dv_has_text_of_color: 0xFFFFBF
 ---
 # [[Age~2~Piacenzian]]
 

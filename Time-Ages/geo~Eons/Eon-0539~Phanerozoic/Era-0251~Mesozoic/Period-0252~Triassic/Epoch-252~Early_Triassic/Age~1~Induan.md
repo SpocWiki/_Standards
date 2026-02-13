@@ -1,78 +1,118 @@
 ---
 aliases:
-  - Induan
+- Ind
+- Indien
+- Induan
+- induanij
+- Induano
+- Induanu
+- Induar
+- Induense
+- Indus
+- Indus-vaihe
+- indusi
+- Indusien
+- Indusium
+- Induà
+- Innuanu
+- Tầng Indu
+- Инд ярусы
+- индский ярус
+- الإندوان
+- ایندون
+- インドゥアン
+- 印度期
+- 인두아절
 has_id_wikidata: Q855153
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Induan,21708767]]"
-significant_place: "[[_Standards/WikiData/WD~Q28832371,28832371]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Induan,21708767]]'
+significant_place: '[[_Standards/WikiData/WD~Q28832371,28832371]]'
 named_by:
-  - "[[_Standards/WikiData/WD~Liubov_Dmitrievna_Kiparisova,54605830]]"
-  - "[[_Standards/WikiData/WD~Yuri_Nikolaevich_Popov,119138054]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Induan,134385243]]"
+- '[[_Standards/WikiData/WD~Liubov_Dmitrievna_Kiparisova,54605830]]'
+- '[[_Standards/WikiData/WD~Yuri_Nikolaevich_Popov,119138054]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Induan,134385243]]'
 coordinate_location: Point(119.70583333 31.07972222)
 start_time: -251902000-01-01T00:00:00Z
 end_time: -251200000-01-01T00:00:00Z
-named_after: "[[_Standards/WikiData/WD~Indus_River,7348]]"
+named_after: '[[_Standards/WikiData/WD~Indus_River,7348]]'
 sRGB_color_hex_triplet: B861A0
 dv_has_:
   duration_:
-    years: "7.020e+5"
-  previous_:
-    item: "[[../../../Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian/Age~2~Changhsingian|Age~2~Changhsingian]]"
-  next_:
-    item: "[[Age~2~Olenekian]]"
+    years: 7.020e+5
   name_:
+    abbreviated: t1
+    af: Indusium
+    ar: الإندوان
+    ast: Induanu
     bg: Инд
+    ca: Induà
     cs: Indu
     da: Induen
     de: Indusium
+    el: Induan
+    en: Induan
     es: Induense
     et: Indu
-    fi: Indus
-    fr: Induen
+    eu: Induar
+    fa: ایندون
+    fi: Indus-vaihe
+    fr: Indusien
+    gl: Induano
     hu: indusi
-    it: induano
-    ja: インドゥアン期
+    id: Induan
+    it: Induano
+    ja: インドゥアン
+    kk: Инд ярусы
+    ko: 인두아절
+    la: Indusium
     lt: Indis
-    nl: Induiën
+    nl: Indien
+    nn: indus
     no: Indu
     pl: Ind
     pt: Induano
+    ru: индский ярус
+    scn: Innuanu
+    sh: Induan
     sk: indu
-    sl: indij
-    sv: indu
+    sl: induanij
+    sv: Indus
+    vi: Tầng Indu
     zh: 印度期
-    abbreviated: t1
-  time_:
-    started: "-251.902e6"
-    stopped: "-251.200e6"
+  next_:
+    item: '[[Age~2~Olenekian]]'
+  previous_:
+    item: '[[../../../Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian/Age~2~Changhsingian|Age~2~Changhsingian]]'
   text_of_:
-    color: "0xA4469F"
+    color: 0xA4469F
+  time_:
+    started: -251.902e6
+    stopped: -251.200e6
 dv_is_:
   same_as:
-    - "[[WD~Induan,855153]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~1~Induan|Age~1~Induan]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~1~Induan.public|Age~1~Induan.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~1~Induan.internal|Age~1~Induan.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~1~Induan.protect|Age~1~Induan.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~1~Induan.private|Age~1~Induan.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~1~Induan.personal|Age~1~Induan.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~1~Induan.secret|Age~1~Induan.secret]]"
-dv_has_duration_years: "7.020e+5"
-dv_has_previous_item: "[[../../../Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian/Age~2~Changhsingian|Age~2~Changhsingian]]"
-dv_has_next_item: "[[Age~2~Olenekian]]"
+  - '[[WD~Induan,855153]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~1~Induan|Age~1~Induan]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~1~Induan.public|Age~1~Induan.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~1~Induan.internal|Age~1~Induan.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~1~Induan.protect|Age~1~Induan.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~1~Induan.private|Age~1~Induan.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~1~Induan.personal|Age~1~Induan.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~1~Induan.secret|Age~1~Induan.secret]]'
+dv_has_duration_years: 7.020e+5
+dv_has_previous_item: '[[../../../Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian/Age~2~Changhsingian|Age~2~Changhsingian]]'
+dv_has_next_item: '[[Age~2~Olenekian]]'
 dv_is_same_as:
-  - "[[WD~Induan,855153]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~1~Induan|Age~1~Induan]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~1~Induan.public|Age~1~Induan.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~1~Induan.internal|Age~1~Induan.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~1~Induan.protect|Age~1~Induan.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~1~Induan.private|Age~1~Induan.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~1~Induan.personal|Age~1~Induan.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~1~Induan.secret|Age~1~Induan.secret]]"
+- '[[WD~Induan,855153]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~1~Induan|Age~1~Induan]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~1~Induan.public|Age~1~Induan.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~1~Induan.internal|Age~1~Induan.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~1~Induan.protect|Age~1~Induan.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~1~Induan.private|Age~1~Induan.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~1~Induan.personal|Age~1~Induan.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~1~Induan.secret|Age~1~Induan.secret]]'
 dv_has_name_bg: Инд
 dv_has_name_cs: Indu
 dv_has_name_da: Induen
@@ -94,9 +134,9 @@ dv_has_name_sl: indij
 dv_has_name_sv: indu
 dv_has_name_zh: 印度期
 dv_has_name_abbreviated: t1
-dv_has_time_started: "-251.902e6"
-dv_has_time_stopped: "-251.200e6"
-dv_has_text_of_color: "0xA4469F"
+dv_has_time_started: -251.902e6
+dv_has_time_stopped: -251.200e6
+dv_has_text_of_color: 0xA4469F
 ---
 # [[Age~1~Induan]]
 

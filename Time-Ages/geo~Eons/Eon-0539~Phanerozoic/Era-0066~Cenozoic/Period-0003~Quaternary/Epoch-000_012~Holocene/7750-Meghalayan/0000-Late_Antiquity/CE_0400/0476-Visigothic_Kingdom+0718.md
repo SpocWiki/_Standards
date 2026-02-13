@@ -1,69 +1,208 @@
 ---
 aliases:
-  - Visigothic Kingdom
-  - Visigothic Spain
-  - Kingdom of the Goths 
-  - Regnum Gothorum
-  - 0476-Visigothic_Kingdom+0718
-  - 0476-Visigothic Kingdom+0718
+- 0476-Visigothic Kingdom+0718
+- 0476-Visigothic_Kingdom+0718
+- Bisigodoen Erresuma
+- Det vestgotiske rike
+- Det vestgotiske riket
+- Fisigoatyske Ryk
+- Hispania Visigothica
+- Hiszpania Wizygotów
+- Kaharian ng Bisigodo
+- Kerajaan Visigoth
+- Kingdom of the Goths
+- Läänegootide kuningriik
+- Regatul vizigot
+- Regne visigot
+- Regno visigoto
+- Regno vizigoto
+- Regnum Gothorum
+- Reialme visigòt
+- Reino visigodo
+- Reino Visigótico
+- Reinu visigodu
+- Reĝlando de la Visigotoj
+- Rouantelezh ar Vizigoted
+- royaume des Wisigoths
+- Ríocht na Viseagotach
+- Vestgotu karaliste
+- Vestgotų karalystė
+- Vestqot krallığı
+- Visigoottien valtakunta
+- Visigota Rejio
+- Visigothic Kingdom
+- Visigothic Kinrick
+- Visigothic Spain
+- Visigotia
+- Visigotische rijk
+- Visigotiska riket
+- Vizigotlar Krallığı
+- Vizigotsko Kraljevstvo
+- Vizigót Királyság
+- Vizigótské království
+- Vương quốc Visigoth
+- Westgooteriich
+- Westgotenreich
+- Zahodnogotsko kraljestvo
+- Βησιγοτθικό Βασίλειο
+- Весготтар короллеге
+- Вестготлар кыйраллыгы
+- Вестготско кралство
+- Вестготское королевство
+- Вестготське королівство
+- Визиготско краљевство
+- Визиготско Кралство
+- Каралеўства вестготаў
+- Каралеўства вэстготаў
+- Վեստգոթական թագավորություն
+- הממלכה הוויזיגותית
+- مملكة الفيسيجوث
+- مملكة القوط الغربيين
+- مملكة دلڭواوطا لغرباوا
+- مملکت مغربی گوتھ
+- ویزیقوت کراللیغی
+- پادشاهی ویزیگوت
+- विसगोथिक साम्राज्य
+- ราชอาณาจักรวิซิกอท
+- ვესტგოთეფიშ ომაფე
+- ვესტგუთების სამეფო
+- 西ゴート王国
+- 西哥德王國
+- 西哥特王国
+- 서고트 왕국
+- "\U00010345\U00010339\U00010343\U00010344\U00010342\U00010330\U00010332\U0001033F\U00010344\U00010339\U00010343\U0001033A \U00010342\U00010334\U00010339\U0001033A\U00010339"
 has_id_wikidata: Q126936
 replaces:
-  - "[[_Standards/WikiData/WD~Kingdom_of_the_Suebi,1048918]]"
-  - "[[_Standards/WikiData/WD~Western_Roman_Empire,42834]]"
+- '[[_Standards/WikiData/WD~Kingdom_of_the_Suebi,1048918]]'
+- '[[_Standards/WikiData/WD~Western_Roman_Empire,42834]]'
 official_religion:
-  - "[[_Standards/WikiData/WD~Germanic_paganism,1122452]]"
-  - "[[_Standards/WikiData/WD~Chalcedonian_Christianity,2711500]]"
+- '[[_Standards/WikiData/WD~Germanic_paganism,1122452]]'
+- '[[_Standards/WikiData/WD~Chalcedonian_Christianity,2711500]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Kingdom_of_Toledo,2940142]]"
-  - "[[_Standards/WikiData/WD~Visigothic_Kingdom_of_Tolosa,3307686]]"
-  - "[[_Standards/WikiData/WD~Empire_of_Theodoric_the_Great,5919137]]"
-owner_of: "[[_Standards/WikiData/WD~Castle_of_Cabrières,2968724]]"
-instance_of: "[[_Standards/WikiData/WD~historical_country,3024240]]"
-part_of: "[[_Standards/WikiData/WD~barbarian_kingdom,5402094]]"
-position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~king_of_Wisigoths,22953238]]"
+- '[[_Standards/WikiData/WD~Kingdom_of_Toledo,2940142]]'
+- '[[_Standards/WikiData/WD~Visigothic_Kingdom_of_Tolosa,3307686]]'
+- '[[_Standards/WikiData/WD~Empire_of_Theodoric_the_Great,5919137]]'
+owner_of: '[[_Standards/WikiData/WD~Castle_of_Cabrières,2968724]]'
+instance_of: '[[_Standards/WikiData/WD~historical_country,3024240]]'
+part_of: '[[_Standards/WikiData/WD~barbarian_kingdom,5402094]]'
+position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~king_of_Wisigoths,22953238]]'
 inception: 0476-01-01T00:00:00Z
 capital:
-  - "[[_Standards/WikiData/WD~Barcelona,1492]]"
-  - "[[_Standards/WikiData/WD~Toledo,5836]]"
-  - "[[_Standards/WikiData/WD~Toulouse,7880]]"
-basic_form_of_government: "[[_Standards/WikiData/WD~monarchy,7269]]"
-continent: "[[_Standards/WikiData/WD~Europe,46]]"
+- '[[_Standards/WikiData/WD~Barcelona,1492]]'
+- '[[_Standards/WikiData/WD~Toledo,5836]]'
+- '[[_Standards/WikiData/WD~Toulouse,7880]]'
+basic_form_of_government: '[[_Standards/WikiData/WD~monarchy,7269]]'
+continent: '[[_Standards/WikiData/WD~Europe,46]]'
 area: 600000
 language_used:
-  - "[[_Standards/WikiData/WD~Gothic,35722]]"
-  - "[[_Standards/WikiData/WD~Vulgar_Latin,37560]]"
+- '[[_Standards/WikiData/WD~Gothic,35722]]'
+- '[[_Standards/WikiData/WD~Vulgar_Latin,37560]]'
 locator_map_image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Reino%20de%20los%20visigodos-ca.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Reino%20de%20los%20visigodos.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Reino%20de%20los%20visigodos-ca.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Reino%20de%20los%20visigodos.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Visigothic%20Kingdom.png
 Commons_category: Visigoths
 native_label:
-  - Gutþiuda Þiudinassus
-  - Regnum Gothorum
+- Gutþiuda Þiudinassus
+- Regnum Gothorum
 official_name: Regnum Gothorum
 dissolved_abolished_or_demolished_date: 0718-01-01T00:00:00Z
 OpenStreetMap_tag: historic:civilization=visigothic_kingdom
 dv_is_:
   same_as:
-    - "[[../../../../../../../../../WikiData/WD~Visigothic_Kingdom,126936|WD~Visigothic_Kingdom,126936]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Visigothic_Kingdom+0718|0476-Visigothic_Kingdom+0718]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Visigothic_Kingdom+0718.public|0476-Visigothic_Kingdom+0718.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Visigothic_Kingdom+0718.internal|0476-Visigothic_Kingdom+0718.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Visigothic_Kingdom+0718.protect|0476-Visigothic_Kingdom+0718.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Visigothic_Kingdom+0718.private|0476-Visigothic_Kingdom+0718.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Visigothic_Kingdom+0718.personal|0476-Visigothic_Kingdom+0718.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Visigothic_Kingdom+0718.secret|0476-Visigothic_Kingdom+0718.secret]]"
+  - '[[../../../../../../../../../WikiData/WD~Visigothic_Kingdom,126936|WD~Visigothic_Kingdom,126936]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Visigothic_Kingdom+0718|0476-Visigothic_Kingdom+0718]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Visigothic_Kingdom+0718.public|0476-Visigothic_Kingdom+0718.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Visigothic_Kingdom+0718.internal|0476-Visigothic_Kingdom+0718.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Visigothic_Kingdom+0718.protect|0476-Visigothic_Kingdom+0718.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Visigothic_Kingdom+0718.private|0476-Visigothic_Kingdom+0718.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Visigothic_Kingdom+0718.personal|0476-Visigothic_Kingdom+0718.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Visigothic_Kingdom+0718.secret|0476-Visigothic_Kingdom+0718.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../../WikiData/WD~Visigothic_Kingdom,126936|WD~Visigothic_Kingdom,126936]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Visigothic_Kingdom+0718|0476-Visigothic_Kingdom+0718]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Visigothic_Kingdom+0718.public|0476-Visigothic_Kingdom+0718.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Visigothic_Kingdom+0718.internal|0476-Visigothic_Kingdom+0718.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Visigothic_Kingdom+0718.protect|0476-Visigothic_Kingdom+0718.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Visigothic_Kingdom+0718.private|0476-Visigothic_Kingdom+0718.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Visigothic_Kingdom+0718.personal|0476-Visigothic_Kingdom+0718.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Visigothic_Kingdom+0718.secret|0476-Visigothic_Kingdom+0718.secret]]"
+- '[[../../../../../../../../../WikiData/WD~Visigothic_Kingdom,126936|WD~Visigothic_Kingdom,126936]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Visigothic_Kingdom+0718|0476-Visigothic_Kingdom+0718]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Visigothic_Kingdom+0718.public|0476-Visigothic_Kingdom+0718.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Visigothic_Kingdom+0718.internal|0476-Visigothic_Kingdom+0718.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Visigothic_Kingdom+0718.protect|0476-Visigothic_Kingdom+0718.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Visigothic_Kingdom+0718.private|0476-Visigothic_Kingdom+0718.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Visigothic_Kingdom+0718.personal|0476-Visigothic_Kingdom+0718.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Visigothic_Kingdom+0718.secret|0476-Visigothic_Kingdom+0718.secret]]'
+dv_has_:
+  name_:
+    an: Reino visigodo
+    ar: مملكة القوط الغربيين
+    ary: مملكة دلڭواوطا لغرباوا
+    arz: مملكة الفيسيجوث
+    ast: Reinu visigodu
+    az: Vestqot krallığı
+    azb: ویزیقوت کراللیغی
+    ba: Весготтар короллеге
+    be: Каралеўства вестготаў
+    be-tarask: Каралеўства вэстготаў
+    bg: Вестготско кралство
+    br: Rouantelezh ar Vizigoted
+    bs: Vizigotsko Kraljevstvo
+    ca: Regne visigot
+    cs: Vizigótské království
+    de: Westgotenreich
+    el: Βησιγοτθικό Βασίλειο
+    en: Visigothic Kingdom
+    eo: Reĝlando de la Visigotoj
+    es: reino visigodo
+    et: Läänegootide kuningriik
+    eu: Bisigodoen Erresuma
+    ext: Reinu visigodu
+    fa: پادشاهی ویزیگوت
+    fi: Visigoottien valtakunta
+    fr: royaume des Wisigoths
+    fy: Fisigoatyske Ryk
+    ga: Ríocht na Viseagotach
+    gl: Reino Visigodo
+    got: "\U00010345\U00010339\U00010343\U00010344\U00010342\U00010330\U00010332\U0001033F\U00010344\U00010339\U00010343\U0001033A \U00010342\U00010334\U00010339\U0001033A\U00010339"
+    gsw: Westgooteriich
+    he: הממלכה הוויזיגותית
+    hi: विसगोथिक साम्राज्य
+    hr: Vizigotsko Kraljevstvo
+    hu: Vizigót Királyság
+    hy: Վեստգոթական թագավորություն
+    id: Kerajaan Visigoth
+    io: Visigota Rejio
+    it: Regno visigoto
+    ja: 西ゴート王国
+    ka: ვესტგუთების სამეფო
+    ko: 서고트 왕국
+    la: Hispania Visigothica
+    lt: Vestgotų karalystė
+    lv: Vestgotu karaliste
+    mk: Визиготско Кралство
+    mwl: Visigotia
+    nb: Det vestgotiske rike
+    nl: Visigotische rijk
+    nn: Det vestgotiske riket
+    oc: Reialme visigòt
+    pl: Hiszpania Wizygotów
+    pt: Reino Visigótico
+    ro: Regatul vizigot
+    ru: Вестготское королевство
+    sco: Visigothic Kinrick
+    sh: Vizigotsko Kraljevstvo
+    sl: Zahodnogotsko kraljestvo
+    sr: Визиготско краљевство
+    sr-ec: Визиготско краљевство
+    sv: Visigotiska riket
+    th: ราชอาณาจักรวิซิกอท
+    tl: Kaharian ng Bisigodo
+    tr: Vizigotlar Krallığı
+    tt: Вестготлар кыйраллыгы
+    uk: Вестготське королівство
+    ur: مملکت مغربی گوتھ
+    vec: Regno vizigoto
+    vi: Vương quốc Visigoth
+    wuu: 西哥特王国
+    xmf: ვესტგოთეფიშ ომაფე
+    yue: 西哥德王國
+    zh: 西哥特王国
 ---
-
 # [[0476-Visigothic_Kingdom+0718]] 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Visigothic_Kingdom,126936|WD~Visigothic_Kingdom,126936]]  

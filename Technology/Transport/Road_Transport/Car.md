@@ -1,136 +1,305 @@
 ---
 aliases:
-  - car
-  - Car
-  - is_a_car
-  - Motor_car
-  - Motor car
-  - automobile
+- amaxi
+- amâho'hestôtse
+- antawa
+- araba
+- Auto
+- autocinetum
+- automašīna
+- automobil
+- automobila
+- automobile
+- automobilis
+- automobilo
+- automuobėlis
+- automòbil
+- automóbil
+- automóvel
+- automóvil
+- autovettura
+- autt
+- autó
+- avto
+- avtomobil
+- awto
+- aùto
+- aŭtomobilo
+- a̱da̱dei mato
+- baabuur
+- bifreið
+- biila
+- bijlla
+- bil
+- bilar
+- bïjle
+- car
+- chidí
+- chū-tōng-chhia
+- càr
+- ebyeddusa
+- erebe
+- fiarakodia
+- giceh
+- gleashtan
+- gluaisteán
+- hambautare
+- ilo tawa
+- imodoka
+- imoto
+- is_a_car
+- ka
+- karce
+- karozza
+- karr-tan
+- karu
+- kazizeng
+- kereta
+- kerita
+- khi-chhâ
+- koloi
+- konkolaataa
+- kotse
+- kurita
+- kyaar
+- ké-chiă
+- lotomobil
+- lɔɔɖɩyɛ
+- machin
+- machina automobile
+- Maschien
+- mašin
+- mba'yruguata
+- mobil
+- montor
+- mota
+- motar
+- moto
+- motokaa
+- motokā
+- motor
+- Motor car
+- motorvoertuig
+- Motor_car
+- mubil
+- mótuka
+- otapan
+- oto
+- otomobil
+- otomobîl
+- otomotif
+- piili
+- qùérette
+- sakyanan
+- samochód
+- selffērende wægn
+- ta'avale
+- tamssudut
+- tepozmalacatl
+- tomabîlu
+- tood
+- tsaap tswam (a̱tak a̱naai)
+- tumubil
+- ujijọn̄
+- utomovil
+- vetura
+- vetüra
+- vittura
+- vurdon
+- waggi
+- ô tô
+- ôtomobila
+- ɛhyɛn
+- αραπάν
+- αυτοκίνητο
+- аўтамабіль
+- автомашин
+- автомашина
+- автомобіл
+- автомобіль
+- автомобил
+- автомобиль
+- аутомобил
+- аѵтокїнито
+- массыына
+- худрав
+- хӕдтулгӕ
+- ավտոմեքենա
+- ինքնաշարժ
+- אויטאמאביל
+- מכונית
+- ئاپتوموبىل
+- ئۆتۆمۆبیل
+- اوتوموبیل
+- خودرو
+- سيارة
+- سيارة بمحرك
+- طوموبيل
+- عربيه
+- كرهبة
+- ماشین
+- موٹر کار
+- موټر
+- مَشین
+- کار
+- کريتا
+- ڪار
+- گٲڈؠ
+- ܪܕܝܬܐ
+- ߞߐ߲߬ߛߏ
+- अटोमोबाइल
+- कार
+- गाड़ी
+- मोटरगाडी
+- मोटारवाहन
+- গাড়ি
+- গাড়ী
+- ਕਾਰ
+- મોટરગાડી
+- தானுந்து
+- కారు
+- ಮೋಟಾರು ವಾಹನ
+- കാർ
+- මෝටර් රථ
+- รถยนต์
+- ລົດ
+- ကား
+- ရူတ်ႉ
+- ავტომობილი
+- መኪነት
+- መኪና
+- ᐅᒑᐹᓂᔥ
+- ᱜᱟᱹᱰᱤ
+- ụgbọala
+- 汽車
+- 汽车
+- 自動車
+- 승용자동차
 has_id_wikidata: Q1420
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - car
-layout: ""
+- car
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_car Class
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_a_car Class
 type: Type
 uses:
-  - "[[_Standards/WikiData/WD~electric_motor,72313]]"
-  - "[[_Standards/WikiData/WD~internal_combustion_engine,12757]]"
+- '[[_Standards/WikiData/WD~electric_motor,72313]]'
+- '[[_Standards/WikiData/WD~internal_combustion_engine,12757]]'
 has_use:
-  - "[[_Standards/WikiData/WD~taxi,82650]]"
-  - "[[_Standards/WikiData/WD~terrorist_attack,2223653]]"
-  - "[[_Standards/WikiData/WD~passenger_transportation,87410777]]"
-  - "[[_Standards/WikiData/WD~motorized_private_transport,107128937]]"
-  - "[[_Standards/WikiData/WD~transport,7590]]"
+- '[[_Standards/WikiData/WD~taxi,82650]]'
+- '[[_Standards/WikiData/WD~terrorist_attack,2223653]]'
+- '[[_Standards/WikiData/WD~passenger_transportation,87410777]]'
+- '[[_Standards/WikiData/WD~motorized_private_transport,107128937]]'
+- '[[_Standards/WikiData/WD~transport,7590]]'
 contributing_factor_of:
-  - "[[_Standards/WikiData/WD~air_pollution,131123]]"
-  - "[[_Standards/WikiData/WD~carbon_dioxide_emissions,3588927]]"
+- '[[_Standards/WikiData/WD~air_pollution,131123]]'
+- '[[_Standards/WikiData/WD~carbon_dioxide_emissions,3588927]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~carburetor,165435]]"
-  - "[[_Standards/WikiData/WD~axle,188209]]"
-  - "[[_Standards/WikiData/WD~differential,193137]]"
-  - "[[_Standards/WikiData/WD~clutch,194302]]"
-  - "[[_Standards/WikiData/WD~shock_absorber,211251]]"
-  - "[[_Standards/WikiData/WD~oxygen_sensor,286588]]"
-  - "[[_Standards/WikiData/WD~air_filter,583488]]"
-  - "[[_Standards/WikiData/WD~powertrain,609111]]"
-  - "[[_Standards/WikiData/WD~steering_wheel,679300]]"
-  - "[[_Standards/WikiData/WD~vehicle_frame,731988]]"
-  - "[[_Standards/WikiData/WD~car_wheel,786732]]"
-  - "[[_Standards/WikiData/WD~automatic_transmission,843592]]"
-  - "[[_Standards/WikiData/WD~manual_transmission,1208529]]"
-  - "[[_Standards/WikiData/WD~vehicle_door,1276284]]"
-  - "[[_Standards/WikiData/WD~fuel_tank,1411232]]"
-  - "[[_Standards/WikiData/WD~glove_compartment,1415117]]"
-  - "[[_Standards/WikiData/WD~dashboard,1417134]]"
-  - "[[_Standards/WikiData/WD~coach,1588072]]"
-  - "[[_Standards/WikiData/WD~seat,2207370]]"
-  - "[[_Standards/WikiData/WD~reduction_drive,2998736]]"
-  - "[[_Standards/WikiData/WD~drive_shaft,6304756]]"
-  - "[[_Standards/WikiData/WD~ball_joint,17015073]]"
-  - "[[_Standards/WikiData/WD~fuel_door,24578007]]"
-  - "[[_Standards/WikiData/WD~windshield,13693]]"
-  - "[[_Standards/WikiData/WD~hood,27206]]"
-  - "[[_Standards/WikiData/WD~engine,44167]]"
+- '[[_Standards/WikiData/WD~carburetor,165435]]'
+- '[[_Standards/WikiData/WD~axle,188209]]'
+- '[[_Standards/WikiData/WD~differential,193137]]'
+- '[[_Standards/WikiData/WD~clutch,194302]]'
+- '[[_Standards/WikiData/WD~shock_absorber,211251]]'
+- '[[_Standards/WikiData/WD~oxygen_sensor,286588]]'
+- '[[_Standards/WikiData/WD~air_filter,583488]]'
+- '[[_Standards/WikiData/WD~powertrain,609111]]'
+- '[[_Standards/WikiData/WD~steering_wheel,679300]]'
+- '[[_Standards/WikiData/WD~vehicle_frame,731988]]'
+- '[[_Standards/WikiData/WD~car_wheel,786732]]'
+- '[[_Standards/WikiData/WD~automatic_transmission,843592]]'
+- '[[_Standards/WikiData/WD~manual_transmission,1208529]]'
+- '[[_Standards/WikiData/WD~vehicle_door,1276284]]'
+- '[[_Standards/WikiData/WD~fuel_tank,1411232]]'
+- '[[_Standards/WikiData/WD~glove_compartment,1415117]]'
+- '[[_Standards/WikiData/WD~dashboard,1417134]]'
+- '[[_Standards/WikiData/WD~coach,1588072]]'
+- '[[_Standards/WikiData/WD~seat,2207370]]'
+- '[[_Standards/WikiData/WD~reduction_drive,2998736]]'
+- '[[_Standards/WikiData/WD~drive_shaft,6304756]]'
+- '[[_Standards/WikiData/WD~ball_joint,17015073]]'
+- '[[_Standards/WikiData/WD~fuel_door,24578007]]'
+- '[[_Standards/WikiData/WD~windshield,13693]]'
+- '[[_Standards/WikiData/WD~hood,27206]]'
+- '[[_Standards/WikiData/WD~engine,44167]]'
 source_of_energy:
-  - "[[_Standards/WikiData/WD~ethanol_fuel,194361]]"
-  - "[[_Standards/WikiData/WD~liquefied_petroleum_gas,351609]]"
-  - "[[_Standards/WikiData/WD~green_hydrogen,99513382]]"
-  - "[[_Standards/WikiData/WD~electricity,12725]]"
-  - "[[_Standards/WikiData/WD~diesel_fuel,38423]]"
-  - "[[_Standards/WikiData/WD~gasoline,39558]]"
-  - "[[_Standards/WikiData/WD~solar_energy,40015]]"
+- '[[_Standards/WikiData/WD~ethanol_fuel,194361]]'
+- '[[_Standards/WikiData/WD~liquefied_petroleum_gas,351609]]'
+- '[[_Standards/WikiData/WD~green_hydrogen,99513382]]'
+- '[[_Standards/WikiData/WD~electricity,12725]]'
+- '[[_Standards/WikiData/WD~diesel_fuel,38423]]'
+- '[[_Standards/WikiData/WD~gasoline,39558]]'
+- '[[_Standards/WikiData/WD~solar_energy,40015]]'
 physically_interacts_with:
-  - "[[_Standards/WikiData/WD~pedestrian,221488]]"
-  - "[[_Standards/WikiData/WD~road,34442]]"
+- '[[_Standards/WikiData/WD~pedestrian,221488]]'
+- '[[_Standards/WikiData/WD~road,34442]]'
 designed_to_carry:
-  - "[[_Standards/WikiData/WD~cargo,319224]]"
-  - "[[_Standards/WikiData/WD~passenger,319604]]"
-  - "[[_Standards/WikiData/WD~motorist,1785974]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Ferdinand_Verbiest,378277]]"
-part_of: "[[_Standards/WikiData/WD~road_transport,516739]]"
+- '[[_Standards/WikiData/WD~cargo,319224]]'
+- '[[_Standards/WikiData/WD~passenger,319604]]'
+- '[[_Standards/WikiData/WD~motorist,1785974]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Ferdinand_Verbiest,378277]]'
+part_of: '[[_Standards/WikiData/WD~road_transport,516739]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 different_from:
-  - "[[_Standards/WikiData/WD~motor_vehicle,752870]]"
-  - "[[_Standards/WikiData/WD~road_vehicle,1515493]]"
-  - "[[_Standards/WikiData/WD~Auto,3316111]]"
-  - "[[_Standards/WikiData/WD~bus,5638]]"
-  - "[[_Standards/WikiData/WD~truck,43193]]"
+- '[[_Standards/WikiData/WD~motor_vehicle,752870]]'
+- '[[_Standards/WikiData/WD~road_vehicle,1515493]]'
+- '[[_Standards/WikiData/WD~Auto,3316111]]'
+- '[[_Standards/WikiData/WD~bus,5638]]'
+- '[[_Standards/WikiData/WD~truck,43193]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~motor_vehicle,752870]]"
-  - "[[_Standards/WikiData/WD~road_vehicle,1515493]]"
-  - "[[_Standards/WikiData/WD~multi_track_vehicle,12060681]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_the_automobile,1129377]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~passenger_car,1144312]]"
-used_by: "[[_Standards/WikiData/WD~motorist,1785974]]"
-has_effect: "[[_Standards/WikiData/WD~effects_of_the_car_on_societies,2215004]]"
-maintenance_method: "[[_Standards/WikiData/WD~auto_maintenance,3055308]]"
-has_characteristic: "[[_Standards/WikiData/WD~automobile_model,3231690]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_automobile,5615754]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_automobiles,7112563]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Cars,8211065]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Automobiles,11342737]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~wheeled_vehicle,15618781]]"
-disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q96240179,96240179]]"
+- '[[_Standards/WikiData/WD~motor_vehicle,752870]]'
+- '[[_Standards/WikiData/WD~road_vehicle,1515493]]'
+- '[[_Standards/WikiData/WD~multi_track_vehicle,12060681]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_the_automobile,1129377]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~passenger_car,1144312]]'
+used_by: '[[_Standards/WikiData/WD~motorist,1785974]]'
+has_effect: '[[_Standards/WikiData/WD~effects_of_the_car_on_societies,2215004]]'
+maintenance_method: '[[_Standards/WikiData/WD~auto_maintenance,3055308]]'
+has_characteristic: '[[_Standards/WikiData/WD~automobile_model,3231690]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_automobile,5615754]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_automobiles,7112563]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Cars,8211065]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Automobiles,11342737]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~wheeled_vehicle,15618781]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q96240179,96240179]]'
 time_of_discovery_or_invention: 1884-01-01T00:00:00Z
 less_than:
-  - "[[_Standards/WikiData/WD~bus,5638]]"
-  - "[[_Standards/WikiData/WD~truck,43193]]"
+- '[[_Standards/WikiData/WD~bus,5638]]'
+- '[[_Standards/WikiData/WD~truck,43193]]'
 maximum_capacity: 8
 IAB_code: 25
 OmegaWiki_Defined_Meaning: 482
 Nomenclature_for_Museum_Cataloging: 12173
 subreddit:
-  - cars
-  - auto
-  - Autos
-  - carporn
-  - Cartalk
+- cars
+- auto
+- Autos
+- carporn
+- Cartalk
 Commons_gallery: Car
 IMDb_keyword: car
 hashtag: car
@@ -140,8 +309,8 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20
 ComputerLanguage_com_definition: automobile
 OpenStreetMap_key: motorcar
 Unicode_character:
-  - 🚗
-  - 🚘
+- "\U0001F697"
+- "\U0001F698"
 equivalent_class: https://schema.org/Car
 Commons_category: Automobiles
 label_in_sign_language: http://commons.wikimedia.org/wiki/Special:FilePath/Swl-bil-spreadthesign-4014.ogv
@@ -151,8 +320,255 @@ UNSPSC_Code: 25101503
 Iconclass_notation: 46C161
 MeSH_tree_code: J01.937.500.100
 Baidu_Tieba_name: 汽车
+dv_has_:
+  name_:
+    acm: سيارة
+    aeb: كرهبة
+    aeb-arab: كرهبة
+    af: motorvoertuig
+    am: መኪና
+    an: auto
+    ang: selffērende wægn
+    ann: ujijọn̄
+    anp: गाड़ी
+    ar: سيارة بمحرك
+    arc: ܪܕܝܬܐ
+    arq: طوموبيل
+    ary: طوموبيل
+    arz: عربيه
+    as: গাড়ী
+    ast: automóvil
+    atj: otapan
+    az: avtomobil
+    azb: اوتوموبیل
+    ba: автомобиль
+    bar: Auto
+    bbc: motor
+    bcl: kotse
+    bdr: kerita
+    be: аўтамабіль
+    be-tarask: аўтамабіль
+    bew: mobil
+    bg: автомобил
+    bho: कार
+    bn: গাড়ি
+    br: karr-tan
+    bs: automobil
+    bug: oto
+    bxr: автомашина
+    ca: automòbil
+    cdo: ké-chiă
+    ce: автомобиль
+    ceb: sakyanan
+    chy: amâho'hestôtse
+    ckb: ئۆتۆمۆبیل
+    co: vittura
+    cr: ᐅᒑᐹᓂᔥ
+    crh: araba
+    cs: automobil
+    csb: aùto
+    cu: аѵтокїнито
+    cv: автомобиль
+    cy: car
+    da: bil
+    de: Auto
+    de-ch: Automobil
+    diq: erebe
+    dtp: kurita
+    el: αυτοκίνητο
+    en: car
+    en-ca: automobile
+    en-gb: car
+    en-us: automobile
+    eo: aŭtomobilo
+    es: automóvil
+    et: auto
+    eu: automobil
+    ext: utomovil
+    fa: خودرو
+    fi: auto
+    fo: bilar
+    fr: automobile
+    frp: ôtomobila
+    frr: auto
+    fy: auto
+    ga: gluaisteán
+    gan: 汽車
+    gcr: lotomobil
+    gd: càr
+    gl: automóbil
+    glk: ماشین
+    gn: mba'yruguata
+    gsw: Auto
+    gu: મોટરગાડી
+    gv: gleashtan
+    ha: mota
+    hak: khi-chhâ
+    he: מכונית
+    hi: गाड़ी
+    hif: motar
+    hr: automobil
+    hsb: awto
+    ht: machin
+    hu: autó
+    hy: ավտոմեքենա
+    hyw: ինքնաշարժ
+    ia: automobile
+    iba: kerita
+    id: mobil
+    ie: automobile
+    ig: ụgbọala
+    ik: piili
+    io: automobilo
+    is: bifreið
+    it: autovettura
+    ja: 自動車
+    jam: kyaar
+    jbo: karce
+    jv: montor
+    ka: ავტომობილი
+    kaa: avtomobil
+    kab: tumubil
+    kaj: tsaap tswam (a̱tak a̱naai)
+    kbp: lɔɔɖɩyɛ
+    kcg: a̱da̱dei mato
+    kea: karu
+    kg: tomabîlu
+    kge: mubil
+    kk: автомобиль
+    kn: ಮೋಟಾರು ವಾಹನ
+    knc: moto
+    ko: 승용자동차
+    ks: گٲڈؠ
+    ku: otomobîl
+    ky: автомобиль
+    la: autocinetum
+    lad: otomobil
+    lb: Auto
+    lez: автомобиль
+    lfn: auto
+    lg: ebyeddusa
+    lmo: vetüra
+    ln: mótuka
+    lo: ລົດ
+    lt: automobilis
+    lv: automašīna
+    lzh: 汽車
+    mg: fiarakodia
+    mi: motokā
+    min: oto
+    mk: автомобил
+    ml: കാർ
+    mn: автомашин
+    mr: मोटारवाहन
+    ms: kereta
+    ms-arab: کريتا
+    mt: karozza
+    my: ကား
+    mzn: مَشین
+    na: auto
+    nah: tepozmalacatl
+    nan: chū-tōng-chhia
+    nb: bil
+    nds: Auto
+    nds-nl: auto
+    ne: मोटरगाडी
+    new: अटोमोबाइल
+    nl: auto
+    nn: bil
+    nqo: ߞߐ߲߬ߛߏ
+    nrm: qùérette
+    nup: car
+    nv: chidí
+    oc: automobila
+    olo: mašin
+    om: konkolaataa
+    os: хӕдтулгӕ
+    pa: ਕਾਰ
+    pcd: automobile
+    pdc: Maschien
+    pl: samochód
+    pms: automòbil
+    pnb: کار
+    pnt: αραπάν
+    ps: موټر
+    pt: automóvel
+    pt-br: automóvel
+    qu: antawa
+    rmy: vurdon
+    rn: imodoka
+    ro: automobil
+    ru: автомобиль
+    rue: автомобіл
+    rup: amaxi
+    sah: массыына
+    sat: ᱜᱟᱹᱰᱤ
+    sco: automobile
+    sd: ڪار
+    se: biila
+    sgs: automuobėlis
+    sh: automobil
+    shi: tamssudut
+    shn: ရူတ်ႉ
+    si: මෝටර් රථ
+    sk: automobil
+    sl: avtomobil
+    sm: ta'avale
+    sma: bïjle
+    smj: bijlla
+    smn: auto
+    sms: autt
+    sn: hambautare
+    so: baabuur
+    sq: vetura
+    sr: аутомобил
+    srn: waggi
+    st: koloi
+    stq: automobil
+    su: otomotif
+    sv: bil
+    sw: motokaa
+    szl: auto
+    szy: kazizeng
+    ta: தானுந்து
+    te: కారు
+    tg: худрав
+    th: รถยนต์
+    tig: መኪነት
+    tl: kotse
+    tok: ilo tawa
+    tpi: ka
+    tr: otomobil
+    tt: автомобиль
+    tw: ɛhyɛn
+    tyv: автомобиль
+    udm: автомобиль
+    ug: ئاپتوموبىل
+    uk: автомобіль
+    ur: موٹر کار
+    uz: avtomobil
+    vec: machina automobile
+    vep: avto
+    vi: ô tô
+    vls: Auto
+    vo: tood
+    vro: auto
+    wa: oto
+    war: awto
+    wuu: 汽车
+    xh: imoto
+    yi: אויטאמאביל
+    yue: 汽車
+    za: giceh
+    zea: auto
+    zh: 汽车
+    zh-cn: 汽车
+    zh-hans: 汽车
+    zh-hant: 汽車
+    zh-hk: 汽車
+    zh-tw: 汽車
+    zu: imoto
 ---
-
 # [[Car]] 🚗 
 
 [[../../../../Class|Class]] of all cars.

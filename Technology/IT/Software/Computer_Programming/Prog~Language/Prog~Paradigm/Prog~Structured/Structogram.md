@@ -1,8 +1,33 @@
 ---
 aliases:
-  - Nassi–Shneiderman diagram
-  - Structogram
+- Diagrama Nassi-Shneiderman
+- Lưu đồ Nassi–Shneiderman
+- Nassi-Shneiderman-Diagramm
+- Nassi–Shneiderman diagram
+- Programmastructuur-diagram
+- Programstruktur-diagramo
+- Structogram
+- Structogramme
+- Диаграмма Насси — Шнейдермана
+- ナッシ・シュナイダーマン図
+- 纳西-施奈德曼图
+- 나시슈나이더만도
 has_id_wikidata: Q1251015
+dv_has_:
+  name_:
+    de: Nassi-Shneiderman-Diagramm
+    en: Nassi–Shneiderman diagram
+    eo: Programstruktur-diagramo
+    es: Diagrama Nassi-Shneiderman
+    fr: Structogramme
+    ja: ナッシ・シュナイダーマン図
+    ko: 나시슈나이더만도
+    nl: Programmastructuur-diagram
+    ru: Диаграмма Насси — Шнейдермана
+    vi: Lưu đồ Nassi–Shneiderman
+    zh: 纳西-施奈德曼图
+    zh-cn: 纳西-施奈德曼图
+    zh-hans: 纳西-施奈德曼图
 ---
 # [[Structogram]] 
 

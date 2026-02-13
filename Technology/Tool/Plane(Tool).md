@@ -1,31 +1,178 @@
 ---
 aliases:
-  - Hobel
-  - Plane(Tool)
+- Bào (dụng cụ)
+- Chianozzu
+- garlopa
+- gyalu
+- Hefill
+- Hobe
+- Hobel
+- hoblík
+- Howwel
+- hyvel
+- höylä
+- höövel
+- høvel
+- høvl
+- Katam
+- Ketam kayu
+- oblius
+- Pasah
+- pialla
+- plaina
+- plana
+- plane
+- Plane(Tool)
+- Planya
+- plána
+- Rabod
+- rabot
+- rabotilo
+- Rabòt
+- Randa
+- randə
+- ribot
+- rindea
+- Runcina
+- Rəndə
+- Sapyo
+- schaaf
+- skaafgereedskap
+- skobeljnik
+- Sruugu
+- strug
+- ēvele
+- гэбля
+- Пыжар
+- Ранда
+- Ренде
+- Рубанак
+- рубанок
+- струг
+- Струж
+- ռանդա
+- מקצועה
+- رنده
+- فاره (اداه)
+- مسحج
+- रंदा
+- रंधा
+- રંદો
+- சீவுளி
+- ತೋಪಡ
+- กบไสไม้
+- တဝ်ႇလေး
+- 刨
+- 鉋
+- 대패
 has_id_wikidata: Q204260
-used_by: "[[_Standards/WikiData/WD~joiner,326358]]"
+used_by: '[[_Standards/WikiData/WD~joiner,326358]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~hand_tool,2578402]]"
-  - "[[_Standards/WikiData/WD~woodworking_tool,11789812]]"
-uses: "[[_Standards/WikiData/WD~planing,7201294]]"
-source_of_energy: "[[_Standards/WikiData/WD~human_energy,20984829]]"
+- '[[_Standards/WikiData/WD~hand_tool,2578402]]'
+- '[[_Standards/WikiData/WD~woodworking_tool,11789812]]'
+uses: '[[_Standards/WikiData/WD~planing,7201294]]'
+source_of_energy: '[[_Standards/WikiData/WD~human_energy,20984829]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~plane_iron,105512698]]"
-  - "[[_Standards/WikiData/WD~sole,105531251]]"
-  - "[[_Standards/WikiData/WD~chip_breaker,105531300]]"
-Nomenclature_for_Museum_Cataloging: "7447"
+- '[[_Standards/WikiData/WD~plane_iron,105512698]]'
+- '[[_Standards/WikiData/WD~sole,105531251]]'
+- '[[_Standards/WikiData/WD~chip_breaker,105531300]]'
+Nomenclature_for_Museum_Cataloging: 7447
 MCN_code: 8205.30.00
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Rodz%20strugow.jpg
 Iconclass_notation: 47D8(PLANE)
 Commons_gallery: Plane (tool)
 Commons_category: Planes (tools)
-Dewey_Decimal_Classification: "621.912"
+Dewey_Decimal_Classification: 621.912
+dv_has_:
+  name_:
+    af: skaafgereedskap
+    ar: مسحج
+    arz: فاره (اداه)
+    ast: Garlopa
+    az: Rəndə
+    bar: Hobe
+    be: Рубанак
+    be-tarask: гэбля
+    bg: Ренде
+    br: Rabod
+    ca: ribot
+    cs: hoblík
+    da: høvl
+    de: Hobel
+    en: plane
+    en-gb: plane
+    eo: rabotilo
+    es: garlopa
+    et: höövel
+    eu: Garlopa
+    fa: رنده
+    fi: höylä
+    fr: rabot
+    ga: plána
+    gu: રંદો
+    he: מקצועה
+    hi: रंदा
+    hu: gyalu
+    hy: ռանդա
+    ia: plana
+    ie: Rabot
+    is: Hefill
+    it: pialla
+    ja: 鉋
+    jv: Pasah
+    kn: ತೋಪಡ
+    ko: 대패
+    kv: Струж
+    la: Runcina
+    lt: oblius
+    lv: ēvele
+    mk: струг
+    mr: रंधा
+    mrj: Пыжар
+    ms: Ketam kayu
+    nb: høvel
+    nl: schaaf
+    nn: høvel
+    oc: Rabòt
+    olo: Sruugu
+    pdc: Howwel
+    pl: strug
+    pt: plaina
+    pt-br: plaina
+    ro: rindea
+    ru: рубанок
+    scn: Chianozzu
+    shn: တဝ်ႇလေး
+    sk: hoblík
+    sl: skobeljnik
+    sr: Ренде
+    sv: hyvel
+    sw: Randa
+    ta: சீவுளி
+    tg: Ранда
+    th: กบไสไม้
+    tl: Katam
+    tly: randə
+    tr: Planya
+    uk: рубанок
+    uz: Randa
+    vi: Bào (dụng cụ)
+    wa: Rabot
+    war: Sapyo
+    wuu: 刨
+    yue: 刨
+    zh: 刨
+    zh-cn: 刨
+    zh-hans: 刨
+    zh-hant: 刨
+    zh-hk: 刨
+    zh-sg: 刨
+    zh-tw: 刨
 ---
-
 # [[Plane(Tool)]] 
 
 #is_/same_as :: [[WD~Plane,204260]] 

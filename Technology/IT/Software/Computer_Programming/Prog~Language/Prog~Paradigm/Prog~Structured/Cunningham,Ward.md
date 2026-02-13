@@ -1,17 +1,41 @@
 ---
 aliases:
-  - Ward Cunningham
-  - Ward_Cunningham
-  - Cunningham,Ward
+- Cunningham,Ward
+- Vard Kanninqem
+- Vord Kaningam
+- Vords Kaningems
+- Ward Cunningham
+- Ward_Cunningham
+- Γουόρντ Κάνινγκχαμ
+- Ўорд Канінггэм
+- Ворд Канингем
+- Ворд Каннінгем
+- Уорд Каннингем
+- Уорд Кънингам
+- Ուորդ Քայննինգհեմ
+- וורד קנינגהם
+- وارد کانینگهام
+- وورد كاننجهام
+- وورد كانينغهام
+- वार्ड कन्निंघम
+- वॉर्ड कनिंगहॅम
+- வார்டு கன்னிங்காம்
+- వార్డ్ కన్నింగ్హమ్
+- วอร์ด คันนิงแฮม
+- უარდ კანინგემი
+- ウォード・カニンガム
+- 沃德·坎宁安
+- 沃德·坎寧安
+- 워드 커닝엄
 has_id_wikidata: Q7637
 field_of_work: '[[_Standards/WikiData/WD~software_engineering,80993]]'
 occupation:
-  - '[[_Standards/WikiData/WD~computer_scientist,82594]]'
-  - '[[_Standards/WikiData/WD~technology_evangelist,139648]]'
-  - '[[_Standards/WikiData/WD~programmer,5482740]]'
+- '[[_Standards/WikiData/WD~computer_scientist,82594]]'
+- '[[_Standards/WikiData/WD~technology_evangelist,139648]]'
+- '[[_Standards/WikiData/WD~programmer,5482740]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Purdue_University,217741]]'
-  - '[[_Standards/WikiData/WD~Highland_High_School,14688421]]'
+- '[[_Standards/WikiData/WD~Purdue_University,217741]]'
+- '[[_Standards/WikiData/WD~Highland_High_School,14688421]]'
 place_of_birth: '[[_Standards/WikiData/WD~Michigan_City,989282]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 family_name: '[[_Standards/WikiData/WD~Cunningham,7849873]]'
@@ -21,8 +45,8 @@ residence: '[[_Standards/WikiData/WD~Portland,6106]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 social_media_followers:
-  - 1110
-  - 63457
+- 1110
+- 63457
 work_period_start_: 1984-01-01T00:00:00Z
 date_of_birth: 1949-05-26T00:00:00Z
 P1015: 4079301
@@ -40,8 +64,38 @@ Wikimedia_username: WardCunningham
 GitHub_username: WardCunningham
 X_Twitter_username: WardCunningham
 name_in_native_language: Ward Cunningham
+dv_has_:
+  name_:
+    ar: وورد كانينغهام
+    arz: وورد كاننجهام
+    az: Vard Kanninqem
+    be-tarask: Ўорд Канінггэм
+    bg: Уорд Кънингам
+    el: Γουόρντ Κάνινγκχαμ
+    fa: وارد کانینگهام
+    he: וורד קנינגהם
+    hi: वार्ड कन्निंघम
+    hy: Ուորդ Քայննինգհեմ
+    ja: ウォード・カニンガム
+    ka: უარდ კანინგემი
+    ko: 워드 커닝엄
+    lv: Vords Kaningems
+    mk: Ворд Канингем
+    mr: वॉर्ड कनिंगहॅम
+    mul: Ward Cunningham
+    mzn: وارد کانینگهام
+    ru: Уорд Каннингем
+    sl: Ward Cunningham
+    sr: Vord Kaningam
+    ta: வார்டு கன்னிங்காம்
+    te: వార్డ్ కన్నింగ్హమ్
+    th: วอร์ด คันนิงแฮม
+    uk: Ворд Каннінгем
+    wuu: 沃德·坎宁安
+    yue: 沃德·坎寧安
+    zh: 沃德·坎宁安
+    zh-hant: 沃德·坎寧安
 ---
-
 # [[Cunningham,Ward]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Ward_Cunningham,7637|WD~Ward_Cunningham,7637]] 

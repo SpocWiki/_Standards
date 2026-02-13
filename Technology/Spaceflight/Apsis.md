@@ -1,8 +1,141 @@
 ---
 has_id_wikidata: Q83481
+dv_has_:
+  name_:
+    af: Apside
+    ar: قبا
+    ast: Ápside
+    ban: Apsis
+    be: Апацэнтр і перыцэнтр
+    be-tarask: пэрыцэнтар і апацэнтар
+    bg: Апсида
+    bho: अपसौर
+    bn: অপদূরবিন্দু
+    bs: Apsis
+    ca: àpside
+    ckb: نزیکترین و دوورترین
+    cs: apsida
+    da: Apsis
+    de: Apsis
+    el: αφήλιο
+    en: apsis
+    eo: apsido
+    es: ápside
+    et: Apsiid
+    eu: Apside
+    fa: اوج و حضیض
+    fi: Apsidi
+    fr: apside
+    ga: aipsis
+    gl: apse
+    gsw: Apsis
+    gv: apsis
+    he: אפסיד
+    hi: सूर्योच्य
+    hr: Periapsis
+    ht: Afeli
+    hu: apszispont
+    hy: Ապոկենտրոն և պերիկենտրոն
+    id: apsis
+    io: Apsido
+    is: Nándarstaða og firðstaða
+    it: apside
+    ja: 近点・遠点
+    ka: აპოცენტრი და პერიცენტრი
+    kk: Афелий
+    ko: 장축단
+    la: Apsis
+    lt: apsidė
+    lv: Apsīda
+    mk: Периапсида
+    ml: അപസൗരം
+    mr: उपनाभी बिंदू
+    ms: Apsis
+    nan: kióng-tiám
+    nb: apsis
+    nds: Apsis
+    nl: apofocus en perifocus
+    nn: aphel
+    os: апоцентр æмæ перицентр
+    pl: apsyda
+    pt: apsis
+    pt-br: apside
+    ro: apsidă
+    ru: апоцентр и перицентр
+    sh: Apsida
+    si: දුරාන්තිකය
+    sk: Apsida
+    sl: apsidna točka
+    sr: периапсис
+    sr-ec: периапсис
+    su: Apsis
+    sv: Apsis
+    ta: சுற்றுப்பாதை வீச்சு
+    th: จุดปลายระยะทางวงโคจร
+    tr: Apsis
+    tyv: Апогей
+    uk: перицентр та апоцентр
+    uz: perisentr va aposentr
+    vi: củng điểm quỹ đạo
+    wuu: 拱点
+    yue: 拱點
+    zh: 拱点
+    zh-tw: 拱點
+aliases:
+- Afeli
+- aipsis
+- aphel
+- apofocus en perifocus
+- apse
+- Apsida
+- Apside
+- Apsidi
+- apsidna točka
+- Apsido
+- apsidă
+- apsidė
+- Apsiid
+- Apsis
+- apsyda
+- apszispont
+- Apsīda
+- củng điểm quỹ đạo
+- kióng-tiám
+- Nándarstaða og firðstaða
+- Periapsis
+- perisentr va aposentr
+- àpside
+- ápside
+- αφήλιο
+- Апацэнтр і перыцэнтр
+- Апогей
+- апоцентр æмæ перицентр
+- апоцентр и перицентр
+- Апсида
+- Афелий
+- Периапсида
+- периапсис
+- перицентр та апоцентр
+- пэрыцэнтар і апацэнтар
+- Ապոկենտրոն և պերիկենտրոն
+- אפסיד
+- اوج و حضیض
+- قبا
+- نزیکترین و دوورترین
+- अपसौर
+- उपनाभी बिंदू
+- सूर्योच्य
+- অপদূরবিন্দু
+- சுற்றுப்பாதை வீச்சு
+- അപസൗരം
+- දුරාන්තිකය
+- จุดปลายระยะทางวงโคจร
+- აპოცენტრი და პერიცენტრი
+- 拱点
+- 拱點
+- 近点・遠点
+- 장축단
 ---
-
-
 # [[Apsis]]
 
 ## #has_/text_of_/abstract 

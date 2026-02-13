@@ -1,64 +1,241 @@
 ---
 aliases:
-  - War_in_Afghanistan
-  - war in Afghanistan
+- Afg'onistondagi urush (2001–2021)
+- Afganistan Savaşı
+- Afganistango gerra
+- Afganistani sõda
+- Afganistanin sota
+- Afganistano karas
+- afganisztáni háború
+- Afghanistankriget
+- Brezel Afghanistan (2001-2021)
+- Caggey 'syn Afghanistaan
+- Chiến tranh Afghanistan
+- Cogadh san Afganastáin
+- Dagaalkii Afgaanistaan (2001-taako)
+- Gherra de Afganistàn (2001-2021)
+- guera in Afghànistan
+- guerra d'Afganistán (2001–2014)
+- Guerra de Afganistán
+- guerra de l'Afganistan
+- Guerra do Afeganistão
+- guerra in Afghanistan
+- Guerra nti l'Afganistan
+- guerre d'Afghanistan
+- Karš Afganistānā
+- Krieg in Afghanistan 2001–2021
+- Krieg in Afghanistan seit 2001
+- Krigen i Afghanistan
+- Lufta në Afganistan (2001–2021)
+- Milito en Afganio
+- oorlog in Afghanistan
+- Perang ba Afghanistan (2001–2021)
+- Perang di Afganistan
+- Perang di Afghanistan
+- Rat u Afganistanu
+- Rat u Afganistanu (2001. – 2021.)
+- Rat u Avganistanu
+- Rhyfel Affganistan
+- Războiul din Afganistan
+- Segonda Guèrra d'Afganistan
+- Stríðið í Afganistan (2001–)
+- Vojna v Afganistane
+- vojna v Afganistanu
+- válka v Afghánistánu
+- war in Afghanistan
+- War in Afghanistan (2001–2021)
+- War in Afghanistan (2001–present)
+- War_in_Afghanistan
+- wojna w Afganistanie
+- Əfqanıstan müharibəsi
+- Πόλεμος στο Αφγανιστάν
+- Авганистанска војна
+- Афганы дайн 2001 оноос
+- Афгъанистаны хæст
+- Афғанстанда һуғыш (2001—2021)
+- Війна в Афганістані 2001-2021
+- вайна ў Аўганістане
+- Вайна ў Афганістане
+- Война в Афганистан
+- Война в Афганистане
+- Рат у Авганистану
+- Ҷанги Афғонистон
+- Әфганстан сугышы
+- Աֆղանական պատերազմ
+- מלחמת אפגניסטן
+- افغانستان ۾ جنگ (2001-حاضر)
+- جنگ افغانستان
+- جنگ افغانستان (2001ء– تاحال)
+- جنگ در افغانستان (۲۰۰۱–۲۰۲۱)
+- حرب أفغانستان (2001–21)
+- شەڕ لە ئەفغانستان
+- لحرب د أفغانستان
+- په افغانستان کې جګړه
+- अफ़ग़ानिस्तान युद्ध
+- মার্কিন-আফগান যুদ্ধ
+- ਅਫਗਾਨਿਸਤਾਨ ਵਿੱਚ ਯੁੱਧ
+- ஆப்கானித்தானில் போர் (2001-2021)
+- അഫ്ഗാൻ യുദ്ധം
+- สงครามในอัฟกานิสถาน
+- ავღანეთის ომი (2001–დღემდე)
+- アフガニスタン紛争
+- 阿富汗战争
+- 阿富汗战争 (2001年)
+- 阿富汗戰爭
+- 阿富汗戰爭 (2001年-2021年)
+- 아프가니스탄 전쟁
 has_id_wikidata: Q182865
 participant:
-  - "[[_Standards/WikiData/WD~Northern_Alliance,309368]]"
-  - "[[_Standards/WikiData/WD~Islamic_Emirate_of_Afghanistan,427941]]"
-  - "[[_Standards/WikiData/WD~Tehreek_e_Nafaz_e_Shariat_e_Mohammadi,690419]]"
-  - "[[_Standards/WikiData/WD~Islamic_Movement_of_Uzbekistan,973179]]"
-  - "[[_Standards/WikiData/WD~Turkistan_Islamic_Party,1674170]]"
-  - "[[_Standards/WikiData/WD~055_Brigade,3076828]]"
-  - "[[_Standards/WikiData/WD~Australia,408]]"
-  - "[[_Standards/WikiData/WD~Canada,16]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-  - "[[_Standards/WikiData/WD~Al_Qaeda,34490]]"
-follows: "[[_Standards/WikiData/WD~Operation_Infinite_Justice,1294257]]"
-part_of: "[[_Standards/WikiData/WD~post_Soviet_conflicts,1975306]]"
-order_of_battle: "[[_Standards/WikiData/WD~War_in_North_West_Pakistan_order_of_battle,7968614]]"
-location: "[[_Standards/WikiData/WD~Afghanistan,889]]"
-country: "[[_Standards/WikiData/WD~Afghanistan,889]]"
-instance_of: "[[_Standards/WikiData/WD~war,198]]"
+- '[[_Standards/WikiData/WD~Northern_Alliance,309368]]'
+- '[[_Standards/WikiData/WD~Islamic_Emirate_of_Afghanistan,427941]]'
+- '[[_Standards/WikiData/WD~Tehreek_e_Nafaz_e_Shariat_e_Mohammadi,690419]]'
+- '[[_Standards/WikiData/WD~Islamic_Movement_of_Uzbekistan,973179]]'
+- '[[_Standards/WikiData/WD~Turkistan_Islamic_Party,1674170]]'
+- '[[_Standards/WikiData/WD~055_Brigade,3076828]]'
+- '[[_Standards/WikiData/WD~Australia,408]]'
+- '[[_Standards/WikiData/WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+- '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Al_Qaeda,34490]]'
+follows: '[[_Standards/WikiData/WD~Operation_Infinite_Justice,1294257]]'
+part_of: '[[_Standards/WikiData/WD~post_Soviet_conflicts,1975306]]'
+order_of_battle: '[[_Standards/WikiData/WD~War_in_North_West_Pakistan_order_of_battle,7968614]]'
+location: '[[_Standards/WikiData/WD~Afghanistan,889]]'
+country: '[[_Standards/WikiData/WD~Afghanistan,889]]'
+instance_of: '[[_Standards/WikiData/WD~war,198]]'
 capital_cost: 2261000000000
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Collage%20of%20the%20War%20in%20Afghanistan%20%282001-2021%29.png
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Collage%20of%20the%20War%20in%20Afghanistan%20%282001-2021%29.png
-Dewey_Decimal_Classification: "958.1047"
+Dewey_Decimal_Classification: 958.1047
 subreddit: AfghanConflict
 UMLS_CUI: C2350585
 MeSH_tree_code:
-  - I01.880.735.950.250.094
-  - K01.400.504.984.124
+- I01.880.735.950.250.094
+- K01.400.504.984.124
 Commons_gallery: War in Afghanistan (2001–2021)
 Commons_category: War in Afghanistan (2001–2021)
 official_name: Afghanistan Campaign
 start_time: 2001-10-07T00:00:00Z
 end_time: 2021-08-30T00:00:00Z
 booru_tag: war_in_afghanistan
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_War_in_Afghanistan_(2001_2021),7009851]]"
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_War_in_Afghanistan_(2001_2021),7009851]]'
 dv_is_:
   same_as:
-    - "[[../../../../../../../../WikiData/WD~War_in_Afghanistan,182865|WD~War_in_Afghanistan,182865]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2001-War_in_Afghanistan+2021|2001-War_in_Afghanistan+2021]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2001-War_in_Afghanistan+2021.public|2001-War_in_Afghanistan+2021.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2001-War_in_Afghanistan+2021.internal|2001-War_in_Afghanistan+2021.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2001-War_in_Afghanistan+2021.protect|2001-War_in_Afghanistan+2021.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2001-War_in_Afghanistan+2021.private|2001-War_in_Afghanistan+2021.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2001-War_in_Afghanistan+2021.personal|2001-War_in_Afghanistan+2021.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2001-War_in_Afghanistan+2021.secret|2001-War_in_Afghanistan+2021.secret]]"
+  - '[[../../../../../../../../WikiData/WD~War_in_Afghanistan,182865|WD~War_in_Afghanistan,182865]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2001-War_in_Afghanistan+2021|2001-War_in_Afghanistan+2021]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2001-War_in_Afghanistan+2021.public|2001-War_in_Afghanistan+2021.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2001-War_in_Afghanistan+2021.internal|2001-War_in_Afghanistan+2021.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2001-War_in_Afghanistan+2021.protect|2001-War_in_Afghanistan+2021.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2001-War_in_Afghanistan+2021.private|2001-War_in_Afghanistan+2021.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2001-War_in_Afghanistan+2021.personal|2001-War_in_Afghanistan+2021.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2001-War_in_Afghanistan+2021.secret|2001-War_in_Afghanistan+2021.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~War_in_Afghanistan,182865|WD~War_in_Afghanistan,182865]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2001-War_in_Afghanistan+2021|2001-War_in_Afghanistan+2021]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2001-War_in_Afghanistan+2021.public|2001-War_in_Afghanistan+2021.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2001-War_in_Afghanistan+2021.internal|2001-War_in_Afghanistan+2021.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2001-War_in_Afghanistan+2021.protect|2001-War_in_Afghanistan+2021.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2001-War_in_Afghanistan+2021.private|2001-War_in_Afghanistan+2021.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2001-War_in_Afghanistan+2021.personal|2001-War_in_Afghanistan+2021.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2001-War_in_Afghanistan+2021.secret|2001-War_in_Afghanistan+2021.secret]]"
+- '[[../../../../../../../../WikiData/WD~War_in_Afghanistan,182865|WD~War_in_Afghanistan,182865]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2001-War_in_Afghanistan+2021|2001-War_in_Afghanistan+2021]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2001-War_in_Afghanistan+2021.public|2001-War_in_Afghanistan+2021.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2001-War_in_Afghanistan+2021.internal|2001-War_in_Afghanistan+2021.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2001-War_in_Afghanistan+2021.protect|2001-War_in_Afghanistan+2021.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2001-War_in_Afghanistan+2021.private|2001-War_in_Afghanistan+2021.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2001-War_in_Afghanistan+2021.personal|2001-War_in_Afghanistan+2021.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2001-War_in_Afghanistan+2021.secret|2001-War_in_Afghanistan+2021.secret]]'
+dv_has_:
+  name_:
+    af: oorlog in Afghanistan
+    ar: حرب أفغانستان (2001–21)
+    ary: لحرب د أفغانستان
+    ast: guerra d'Afganistán (2001–2014)
+    az: Əfqanıstan müharibəsi
+    ba: Афғанстанда һуғыш (2001—2021)
+    be: Вайна ў Афганістане
+    be-tarask: вайна ў Аўганістане
+    bg: Война в Афганистан
+    bn: মার্কিন-আফগান যুদ্ধ
+    br: Brezel Afghanistan (2001-2021)
+    ca: guerra de l'Afganistan
+    ckb: شەڕ لە ئەفغانستان
+    cs: válka v Afghánistánu
+    cy: Rhyfel Affganistan
+    da: Krigen i Afghanistan
+    de: Krieg in Afghanistan 2001–2021
+    de-ch: Krieg in Afghanistan seit 2001
+    el: Πόλεμος στο Αφγανιστάν
+    en: War in Afghanistan (2001–2021)
+    en-ca: War in Afghanistan
+    en-us: War in Afghanistan (2001–2021)
+    eo: Milito en Afganio
+    es: guerra de Afganistán
+    et: Afganistani sõda
+    eu: Afganistango gerra
+    fa: جنگ در افغانستان (۲۰۰۱–۲۰۲۱)
+    fi: Afganistanin sota
+    fr: guerre d'Afghanistan
+    ga: Cogadh san Afganastáin
+    gl: Guerra de Afganistán
+    gv: Caggey 'syn Afghanistaan
+    he: מלחמת אפגניסטן
+    hi: अफ़ग़ानिस्तान युद्ध
+    hr: Rat u Afganistanu (2001. – 2021.)
+    hu: afganisztáni háború
+    hy: Աֆղանական պատերազմ
+    iba: Perang ba Afghanistan (2001–2021)
+    id: Perang di Afganistan
+    is: Stríðið í Afganistan (2001–)
+    it: guerra in Afghanistan
+    ja: アフガニスタン紛争
+    ka: ავღანეთის ომი (2001–დღემდე)
+    ko: 아프가니스탄 전쟁
+    lt: Afganistano karas
+    lv: Karš Afganistānā
+    mk: Авганистанска војна
+    ml: അഫ്ഗാൻ യുദ്ധം
+    mn: Афганы дайн 2001 оноос
+    ms: Perang di Afghanistan
+    nb: krigen i Afghanistan
+    nl: oorlog in Afghanistan
+    oc: Segonda Guèrra d'Afganistan
+    os: Афгъанистаны хæст
+    pa: ਅਫਗਾਨਿਸਤਾਨ ਵਿੱਚ ਯੁੱਧ
+    pl: wojna w Afganistanie
+    pnb: جنگ افغانستان (2001ء– تاحال)
+    ps: په افغانستان کې جګړه
+    pt: Guerra do Afeganistão
+    pt-br: Guerra do Afeganistão
+    ro: Războiul din Afganistan
+    ru: Война в Афганистане
+    sc: Gherra de Afganistàn (2001-2021)
+    scn: Guerra nti l'Afganistan
+    sco: War in Afghanistan (2001–present)
+    sd: افغانستان ۾ جنگ (2001-حاضر)
+    sh: Rat u Afganistanu
+    sk: Vojna v Afganistane
+    sl: vojna v Afganistanu
+    so: Dagaalkii Afgaanistaan (2001-taako)
+    sq: Lufta në Afganistan (2001–2021)
+    sr: Рат у Авганистану
+    sr-ec: Рат у Авганистану
+    sr-el: Rat u Avganistanu
+    sv: Afghanistankriget
+    ta: ஆப்கானித்தானில் போர் (2001-2021)
+    tg: Ҷанги Афғонистон
+    th: สงครามในอัฟกานิสถาน
+    tr: Afganistan Savaşı
+    tt: Әфганстан сугышы
+    uk: Війна в Афганістані 2001-2021
+    ur: جنگ افغانستان
+    uz: Afg'onistondagi urush (2001–2021)
+    vec: guera in Afghànistan
+    vi: Chiến tranh Afghanistan
+    wuu: 阿富汗战争 (2001年)
+    yue: 阿富汗戰爭 (2001年-2021年)
+    zh: 阿富汗戰爭
+    zh-cn: 阿富汗战争
+    zh-hans: 阿富汗战争
+    zh-hant: 阿富汗戰爭
+    zh-hk: 阿富汗戰爭
+    zh-sg: 阿富汗战争
+    zh-tw: 阿富汗戰爭
 ---
-
 # [[2001-War_in_Afghanistan+2021]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~War_in_Afghanistan,182865|WD~War_in_Afghanistan,182865]]  

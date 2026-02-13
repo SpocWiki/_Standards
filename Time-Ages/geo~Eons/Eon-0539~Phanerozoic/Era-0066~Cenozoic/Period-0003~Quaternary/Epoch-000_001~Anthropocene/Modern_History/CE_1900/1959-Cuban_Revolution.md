@@ -1,16 +1,97 @@
 ---
 aliases:
-  - "Cuban Revolution "
-  - Revolución cubana
-  - 1959-Cuban_Revolution
-  - 1959-Cuban Revolution
+- 1959-Cuban Revolution
+- 1959-Cuban_Revolution
+- Bun-chaghlaa yn Choobey
+- Byltingin á Kúbu
+- Cuba Kek-bēng
+- Cubaanse Revolutie
+- Cuban Revolution
+- Cubanske revolution
+- Cách mạng Cuba
+- Den cubanske revolusjon
+- Den cubanske revolusjonen
+- Himagsikang Cubano
+- Kuba Devrimi
+- Kuba inqilabı
+- Kuba inqilobi
+- Kuba Revolucio
+- Kubai forradalom
+- Kubako Iraultza
+- Kubana revoluciono
+- Kubanische Revolution
+- Kubanischi Revoluzioon
+- Kubanska revolucija
+- Kubanska revolutionen
+- Kubas revolūcija
+- Kubos revoliucija
+- Kubánska revolúcia
+- Kubánská revoluce
+- Kuuba revolutsioon
+- Kuuban vallankumous
+- Küba Devrimi
+- Mbiri ya Cuba yakwambilila
+- Rebolusion ti Kuba
+- Rebolusyon Cubana
+- Revolisyon kibèn
+- Revolucion Cubana
+- Revolucioni kuban
+- Revolució Cubana
+- Revolución cubana
+- Revolusi Cuba
+- Revolusi Kuba
+- Revolução Cubana
+- Revoluția Cubaneză
+- revołusion cubana
+- Rewolucja kubańska
+- Rivolussion cuban-a
+- rivoluzione cubana
+- Rèabhlaid Chùba
+- Réabhlóid Chúba
+- Révolution cubaine
+- Şoreşa Kûbayê
+- Κουβανική Επανάσταση
+- Кубæйы революци
+- Кубінская рэвалюцыя
+- Куба инкыйлабы
+- Куба революциясы
+- Кубанска револуција
+- Кубера гӀовттам
+- Кубинска революция
+- Кубинская революция
+- Кубинська революція
+- Кубын хувьсгал
+- Կուբայական հեղափոխություն
+- המהפכה הקובנית
+- الثورة الكوبية
+- انقلاب کوبا
+- د کيوبا اوښتون
+- شۆڕشی کووبا
+- کوبا اینقیلابی
+- کوبای انقلاب
+- کیوبائی انقلاب
+- क्युबन क्रांती
+- क्यूबा की क्रांति
+- কিউবা বিপ্লব
+- ਕਿਊਬਾ ਦਾ ਇਨਕਲਾਬ
+- கியூபப் புரட்சி
+- ക്യൂബൻ വിപ്ലവം
+- කියුබානු විප්ලවය
+- การปฏิวัติคิวบา
+- ການປະຕິວັດຄິວບາ
+- კუბაშ რევოლუცია
+- კუბის რევოლუცია
+- キューバ革命
+- 古巴革命
+- 꾸바혁명
+- 쿠바 혁명
 has_id_wikidata: Q11264
-participant: "[[_Standards/WikiData/WD~26th_of_July_Movement,218452]]"
-part_of: "[[_Standards/WikiData/WD~history_of_Cuba,473130]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-instance_of: "[[_Standards/WikiData/WD~revolution,10931]]"
-locations: "[[_Standards/WikiData/WD~Cuba,241]]"
-country: "[[_Standards/WikiData/WD~Cuba,241]]"
+participant: '[[_Standards/WikiData/WD~26th_of_July_Movement,218452]]'
+part_of: '[[_Standards/WikiData/WD~history_of_Cuba,473130]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+instance_of: '[[_Standards/WikiData/WD~revolution,10931]]'
+locations: '[[_Standards/WikiData/WD~Cuba,241]]'
+country: '[[_Standards/WikiData/WD~Cuba,241]]'
 U_S_National_Archives_Identifier: 10640237
 point_in_time: 1959-01-01T00:00:00Z
 end_time: 1959-01-01T00:00:00Z
@@ -19,25 +100,123 @@ Commons_category: Cuban Revolution
 start_time: 1953-07-26T00:00:00Z
 dv_is_:
   same_as:
-    - "[[../../../../../../../../WikiData/WD~Cuban_Revolution,11264|WD~Cuban_Revolution,11264]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1959-Cuban_Revolution|1959-Cuban_Revolution]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1959-Cuban_Revolution.public|1959-Cuban_Revolution.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1959-Cuban_Revolution.internal|1959-Cuban_Revolution.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1959-Cuban_Revolution.protect|1959-Cuban_Revolution.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1959-Cuban_Revolution.private|1959-Cuban_Revolution.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1959-Cuban_Revolution.personal|1959-Cuban_Revolution.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1959-Cuban_Revolution.secret|1959-Cuban_Revolution.secret]]"
+  - '[[../../../../../../../../WikiData/WD~Cuban_Revolution,11264|WD~Cuban_Revolution,11264]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1959-Cuban_Revolution|1959-Cuban_Revolution]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1959-Cuban_Revolution.public|1959-Cuban_Revolution.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1959-Cuban_Revolution.internal|1959-Cuban_Revolution.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1959-Cuban_Revolution.protect|1959-Cuban_Revolution.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1959-Cuban_Revolution.private|1959-Cuban_Revolution.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1959-Cuban_Revolution.personal|1959-Cuban_Revolution.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1959-Cuban_Revolution.secret|1959-Cuban_Revolution.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Cuban_Revolution,11264|WD~Cuban_Revolution,11264]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1959-Cuban_Revolution|1959-Cuban_Revolution]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1959-Cuban_Revolution.public|1959-Cuban_Revolution.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1959-Cuban_Revolution.internal|1959-Cuban_Revolution.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1959-Cuban_Revolution.protect|1959-Cuban_Revolution.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1959-Cuban_Revolution.private|1959-Cuban_Revolution.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1959-Cuban_Revolution.personal|1959-Cuban_Revolution.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1959-Cuban_Revolution.secret|1959-Cuban_Revolution.secret]]"
+- '[[../../../../../../../../WikiData/WD~Cuban_Revolution,11264|WD~Cuban_Revolution,11264]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1959-Cuban_Revolution|1959-Cuban_Revolution]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1959-Cuban_Revolution.public|1959-Cuban_Revolution.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1959-Cuban_Revolution.internal|1959-Cuban_Revolution.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1959-Cuban_Revolution.protect|1959-Cuban_Revolution.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1959-Cuban_Revolution.private|1959-Cuban_Revolution.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1959-Cuban_Revolution.personal|1959-Cuban_Revolution.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1959-Cuban_Revolution.secret|1959-Cuban_Revolution.secret]]'
+dv_has_:
+  name_:
+    ar: الثورة الكوبية
+    ast: Revolución cubana
+    az: Kuba inqilabı
+    azb: کوبا اینقیلابی
+    be: Кубінская рэвалюцыя
+    be-tarask: Кубінская рэвалюцыя
+    bg: Кубинска революция
+    bn: কিউবা বিপ্লব
+    ca: Revolució Cubana
+    ckb: شۆڕشی کووبا
+    cs: Kubánská revoluce
+    da: Cubanske revolution
+    de: Kubanische Revolution
+    el: Κουβανική Επανάσταση
+    en: Cuban Revolution
+    eo: Kuba Revolucio
+    es: Revolución cubana
+    et: Kuuba revolutsioon
+    eu: Kubako Iraultza
+    ext: Revolución cubana
+    fa: انقلاب کوبا
+    fi: Kuuban vallankumous
+    fr: Révolution cubaine
+    ga: Réabhlóid Chúba
+    gag: Kuba Devrimi
+    gd: Rèabhlaid Chùba
+    gl: Revolución cubana
+    gsw: Kubanischi Revoluzioon
+    gv: Bun-chaghlaa yn Choobey
+    he: המהפכה הקובנית
+    hi: क्यूबा की क्रांति
+    hr: Kubanska revolucija
+    ht: Revolisyon kibèn
+    hu: Kubai forradalom
+    hy: Կուբայական հեղափոխություն
+    id: Revolusi Kuba
+    ilo: Rebolusion ti Kuba
+    inh: Кубера гӀовттам
+    io: Kubana revoluciono
+    is: Byltingin á Kúbu
+    it: rivoluzione cubana
+    ja: キューバ革命
+    ka: კუბის რევოლუცია
+    ko: 쿠바 혁명
+    ko-kp: 꾸바혁명
+    ku: Şoreşa Kûbayê
+    ky: Куба революциясы
+    lo: ການປະຕິວັດຄິວບາ
+    lt: Kubos revoliucija
+    lv: Kubas revolūcija
+    mk: Кубанска револуција
+    ml: ക്യൂബൻ വിപ്ലവം
+    mn: Кубын хувьсгал
+    mr: क्युबन क्रांती
+    ms: Revolusi Cuba
+    mzn: کوبای انقلاب
+    nan: Cuba Kek-bēng
+    nb: Den cubanske revolusjon
+    nl: Cubaanse Revolutie
+    nn: Den cubanske revolusjonen
+    oc: Revolucion Cubana
+    os: Кубæйы революци
+    pa: ਕਿਊਬਾ ਦਾ ਇਨਕਲਾਬ
+    pl: Rewolucja kubańska
+    pms: Rivolussion cuban-a
+    pnb: کیوبائی انقلاب
+    ps: د کيوبا اوښتون
+    pt: Revolução Cubana
+    ro: Revoluția Cubaneză
+    ru: Кубинская революция
+    sh: Kubanska revolucija
+    si: කියුබානු විප්ලවය
+    sk: Kubánska revolúcia
+    sl: kubanska revolucija
+    sq: Revolucioni kuban
+    sr: Кубанска револуција
+    sv: Kubanska revolutionen
+    ta: கியூபப் புரட்சி
+    th: การปฏิวัติคิวบา
+    tl: Himagsikang Cubano
+    tr: Küba Devrimi
+    tt: Куба инкыйлабы
+    tum: Mbiri ya Cuba yakwambilila
+    uk: Кубинська революція
+    ur: کیوبائی انقلاب
+    uz: Kuba inqilobi
+    vec: revołusion cubana
+    vi: Cách mạng Cuba
+    war: Rebolusyon Cubana
+    wuu: 古巴革命
+    xmf: კუბაშ რევოლუცია
+    yue: 古巴革命
+    zh: 古巴革命
+    zh-cn: 古巴革命
+    zh-hans: 古巴革命
+    zh-hant: 古巴革命
+    zh-sg: 古巴革命
 ---
-
 # [[1959-Cuban_Revolution]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Cuban_Revolution,11264|WD~Cuban_Revolution,11264]]

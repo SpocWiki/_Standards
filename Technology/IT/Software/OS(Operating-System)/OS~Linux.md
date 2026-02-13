@@ -1,45 +1,80 @@
 ---
-has_time_started: 1991-09-17 
+has_time_started: 1991-09-17
 aliases:
-  - Linux
-  - OS~Linux
+- kulupu ilo Linu
+- linuks
+- Linux
+- Linux作業系統
+- OS~Linux
+- Лінукс
+- Линукс
+- Լինիւքս
+- Լինուքս
+- לינוקס
+- لينكس
+- لينوكس
+- لينوکس
+- لينکس
+- لينڪس
+- لینوکس
+- لینکس
+- ܠܝܢܘܟܣ
+- लाइनक्स
+- लिनक्स
+- লিনাক্স
+- লীনাক্স
+- ਲੀਨਕਸ
+- ଲିନକ୍ସ
+- லினக்சு
+- లినక్స్
+- ಲಿನಕ್ಸ್
+- ലിനക്സ്
+- ලිනක්ස්
+- ลินุกซ์
+- ລິນຸກຊ໌
+- လင်းနပ်စ်
+- ლინუქსი
+- ሊኑክስ
+- លីនុច
+- 林納克斯
+- 리눅스
 has_id_wikidata: Q388
 Wolfram_Language_entity_code: Entity["Concept", "Linux::x59m3"]
 Lemmy_instance_URL: https://linux.community
 mascot: '[[_Standards/WikiData/WD~Tux,131200]]'
 programmed_in:
-  - '[[_Standards/WikiData/WD~assembly_language,165436]]'
-  - '[[../../../../WikiData/WD~Q575650,575650]]'
-  - '[[../../../../WikiData/WD~Q15777,15777]]'
+- '[[_Standards/WikiData/WD~assembly_language,165436]]'
+- '[[../../../../WikiData/WD~Q575650,575650]]'
+- '[[../../../../WikiData/WD~Q15777,15777]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~project,170584]]'
-  - '[[_Standards/WikiData/WD~collaborative_work,15545584]]'
-  - '[[_Standards/WikiData/WD~operating_system,9135]]'
+- '[[_Standards/WikiData/WD~project,170584]]'
+- '[[_Standards/WikiData/WD~collaborative_work,15545584]]'
+- '[[_Standards/WikiData/WD~operating_system,9135]]'
 platform:
-  - '[[_Standards/WikiData/WD~Q182933,182933]]'
-  - '[[_Standards/WikiData/WD~Q272629,272629]]'
-  - '[[_Standards/WikiData/WD~RISC_V,17637401]]'
+- '[[_Standards/WikiData/WD~Q182933,182933]]'
+- '[[_Standards/WikiData/WD~Q272629,272629]]'
+- '[[_Standards/WikiData/WD~RISC_V,17637401]]'
 influenced_by:
-  - '[[_Standards/WikiData/WD~MINIX,187906]]'
-  - '[[_Standards/WikiData/WD~Q11368,11368]]'
+- '[[_Standards/WikiData/WD~MINIX,187906]]'
+- '[[_Standards/WikiData/WD~Q11368,11368]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~computing_platform,241317]]'
-  - '[[_Standards/WikiData/WD~free_software,341]]'
-  - '[[_Standards/WikiData/WD~Unix_like_operating_system,14656]]'
+- '[[_Standards/WikiData/WD~computing_platform,241317]]'
+- '[[_Standards/WikiData/WD~free_software,341]]'
+- '[[_Standards/WikiData/WD~Unix_like_operating_system,14656]]'
 sponsor: '[[_Standards/WikiData/WD~Linux_Foundation,858851]]'
 history_of_topic: '[[_Standards/WikiData/WD~history_of_Linux,1517650]]'
 distribution_format:
-  - '[[_Standards/WikiData/WD~DVD_ROM,2144513]]'
-  - '[[_Standards/WikiData/WD~digital_download,54820071]]'
-  - '[[_Standards/WikiData/WD~floppy_disk,5293]]'
-  - '[[_Standards/WikiData/WD~CD_ROM,7982]]'
+- '[[_Standards/WikiData/WD~DVD_ROM,2144513]]'
+- '[[_Standards/WikiData/WD~digital_download,54820071]]'
+- '[[_Standards/WikiData/WD~floppy_disk,5293]]'
+- '[[_Standards/WikiData/WD~CD_ROM,7982]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~GNU_Linux,3251801]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Linux,8084313]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Linux,8210921]]'
 named_after:
-  - '[[_Standards/WikiData/WD~Q11368,11368]]'
-  - '[[_Standards/WikiData/WD~Linux_kernel,14579]]'
-  - '[[_Standards/WikiData/WD~Linus_Torvalds,34253]]'
+- '[[_Standards/WikiData/WD~Q11368,11368]]'
+- '[[_Standards/WikiData/WD~Linux_kernel,14579]]'
+- '[[_Standards/WikiData/WD~Linus_Torvalds,34253]]'
 based_on: '[[_Standards/WikiData/WD~Linux_kernel,14579]]'
 different_from: '[[_Standards/WikiData/WD~Linux_kernel,14579]]'
 studied_by: '[[_Standards/WikiData/WD~computer_science,21198]]'
@@ -57,26 +92,84 @@ subreddit: linux
 Stack_Exchange_site_URL: https://unix.stackexchange.com
 inception: 1991-09-17T00:00:00Z
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Linux.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Linus-linux.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Linus-linux%20%28swedish%29.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/De-Linux.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Linus-linux.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Linus-linux%20%28swedish%29.ogg
 spoken_text_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Linux-article.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ta-%E0%AE%B2%E0%AE%BF%E0%AE%A9%E0%AE%95%E0%AF%8D%E0%AE%9A%E0%AF%81.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Linux%20%28gesprochene%20Wikipedia%20mit%20KI-Stimme%29.mp3
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Linux%20%28spoken%20Wikipedia%20using%20AI-generated%20voice%29.opus
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20Spanish%20Article%20GNU%20Linux%20id%2025740860.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Linux-article.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Ta-%E0%AE%B2%E0%AE%BF%E0%AE%A9%E0%AE%95%E0%AF%8D%E0%AE%9A%E0%AF%81.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Linux%20%28gesprochene%20Wikipedia%20mit%20KI-Stimme%29.mp3
+- http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Linux%20%28spoken%20Wikipedia%20using%20AI-generated%20voice%29.opus
+- http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20Spanish%20Article%20GNU%20Linux%20id%2025740860.wav
 mailing_list_archive_URL:
-  - http://vger.kernel.org/
-  - https://lkml.org/
+- http://vger.kernel.org/
+- https://lkml.org/
 user_manual_URL:
-  - https://kernel.org/doc/html/latest/
-  - https://wiki.kernel.org
+- https://kernel.org/doc/html/latest/
+- https://wiki.kernel.org
 Stack_Exchange_tag: https://stackoverflow.com/tags/linux
 described_at_URL: https://www.videogameschronicle.com/?post_type=platforms&p=417
 IRC_channel_URL: irc://irc.freenode.net/linux
+dv_has_:
+  name_:
+    am: ሊኑክስ
+    anp: लिनक्स
+    ar: لينكس
+    arc: ܠܝܢܘܟܣ
+    ary: لينوكس
+    arz: لينكس
+    as: লীনাক্স
+    azb: لینوکس
+    bho: लिनक्स
+    bn: লিনাক্স
+    ckb: لینوکس
+    de: Linux
+    en: Linux
+    fa: لینوکس
+    he: לינוקס
+    hi: लिनक्स
+    hu: Linux
+    hy: Լինուքս
+    hyw: Լինիւքս
+    jbo: linuks
+    ka: ლინუქსი
+    kab: Linux
+    km: លីនុច
+    kn: ಲಿನಕ್ಸ್
+    ko: 리눅스
+    kv: Линукс
+    lo: ລິນຸກຊ໌
+    lzh: 林納克斯
+    mag: लिनक्स
+    mk: Линукс
+    ml: ലിനക്സ്
+    mn: Линукс
+    mr: लिनक्स
+    ms-arab: لينکس
+    mul: Linux
+    my: လင်းနပ်စ်
+    ne: लिनक्स
+    new: लाइनक्स
+    or: ଲିନକ୍ସ
+    os: Линукс
+    pa: ਲੀਨਕਸ
+    pap: Linux
+    pap-aw: Linux
+    pnb: لینکس
+    ps: لينوکس
+    rue: Лінукс
+    sd: لينڪس
+    si: ලිනක්ස්
+    sr: Линукс
+    ta: லினக்சு
+    te: లినక్స్
+    th: ลินุกซ์
+    tok: kulupu ilo Linu
+    ur: لینکس
+    yi: לינוקס
+    zh-hant: Linux作業系統
+    zh-tw: Linux
 ---
-
 # [[OS~Linux]] 
 
 #has_/parts :: [[OS~Linux/Linux_Kernel]] 

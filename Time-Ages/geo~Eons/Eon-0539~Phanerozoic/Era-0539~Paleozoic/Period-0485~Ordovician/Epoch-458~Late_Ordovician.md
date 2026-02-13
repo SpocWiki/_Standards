@@ -1,31 +1,50 @@
 ---
 aliases:
-  - Epoch~3~Late_Ordovician
-  - Epoch~3~Late Ordovician
-  - Къѿен Ордовик
-  - Pozdní ordovik
-  - Sen Ordovicium
-  - Spätes Ordovizium
-  - Hilis-Ordoviitsium
-  - Myöhäis-Ordoviikki
-  - késő-ordovícium
-  - 後期オルドビス紀
-  - Vėlyvasis Ordovikas
-  - Laat Ordovicium
-  - Sen ordovicium
-  - Późny Ordowik
-  - mladší ordovik
-  - starejši ordovicij
-  - yngre ordovicium
-  - 晚奥陶世
+- an Sealad Ordaivíseach Déanach
+- Augšordoviks
+- Boven-Ordovicium
+- Epoch~3~Late Ordovician
+- Epoch~3~Late_Ordovician
+- Gornji ordovicij
+- Hilis-Ordoviitsium
+- kasni ordovicij
+- késő-ordovícium
+- Laat Ordovicium
+- Late Ordovician
+- mladší ordovik
+- Myöhäis-Ordoviikki
+- Oberes Ordovizium
+- Ordovic muộn
+- Ordoviciano Superior
+- Ordoviciano superiore
+- Ordovicien supérieur
+- Ordovicià superior
+- Ordovisium Akhir
+- Ordovícico superior
+- ordowik późny
+- Pozdní ordovik
+- pozni ordovicij
+- Późny Ordowik
+- Sen Ordovicium
+- Spätes Ordovizium
+- starejši ordovicij
+- supra ordovicio
+- Vėlyvasis Ordovikas
+- yngre ordovicium
+- øvre ordovicium
+- верхний ордовик
+- Къѿен Ордовик
+- الأوردوفيشي المتأخر
+- 後期オルドビス紀
+- 晚奥陶世
 ischart: UpperOrdovician
 has_id_wikidata: Q13389115
 instance_of:
-  - "[[_Standards/WikiData/WD~series,312468]]"
-  - "[[_Standards/WikiData/WD~epoch,754897]]"
-named_after: "[[_Standards/WikiData/WD~Ordovices,768052]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Late_Ordovician,20980753]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+- '[[_Standards/WikiData/WD~series,312468]]'
+- '[[_Standards/WikiData/WD~epoch,754897]]'
+named_after: '[[_Standards/WikiData/WD~Ordovices,768052]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Late_Ordovician,20980753]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 end_time: -443100000-01-01T00:00:00Z
 start_time: -458200000-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide%20Paleographic%20Map%20of%20Earth%2C%20450%20Ma%20%28Katian%20Age%29.png
@@ -33,56 +52,73 @@ sRGB_color_hex_triplet: 7FCA93
 Commons_category: Late Ordovician
 dv_has_:
   duration_:
-    years: "1.460e+7"
-  previous_:
-    item: "[[Epoch-470~Middle_Ordovician]]"
-  next_:
-    item: "[[../Period-0444~Silurian/Epoch-443~Llandovery|Epoch-443~Llandovery]]"
+    years: 1.460e+7
   name_:
+    abbreviated: O3
+    ar: الأوردوفيشي المتأخر
     bg: Къѿен Ордовик
+    ca: Ordovicià superior
     cs: Pozdní ordovik
     da: Sen Ordovicium
-    de: Spätes Ordovizium
+    de: Oberes Ordovizium
+    en: Late Ordovician
+    en-gb: Late Ordovician
+    eo: supra ordovicio
+    es: Ordovícico superior
     et: Hilis-Ordoviitsium
     fi: Myöhäis-Ordoviikki
+    fr: Ordovicien supérieur
+    ga: an Sealad Ordaivíseach Déanach
+    hr: kasni ordovicij
     hu: késő-ordovícium
+    id: Ordovisium Akhir
+    it: Ordoviciano superiore
     ja: 後期オルドビス紀
     lt: Vėlyvasis Ordovikas
-    nl: Laat Ordovicium
+    lv: Augšordoviks
+    nl: Boven-Ordovicium
+    nn: øvre ordovicium
     no: Sen ordovicium
-    pl: Późny Ordowik
+    pl: ordowik późny
+    pt: Ordoviciano Superior
+    ru: верхний ордовик
+    sh: Gornji ordovicij
     sk: mladší ordovik
-    sl: starejši ordovicij
+    sl: pozni ordovicij
     sv: yngre ordovicium
+    vi: Ordovic muộn
     zh: 晚奥陶世
-    abbreviated: O3
-  time_:
-    started: "-458.4e6"
-    stopped: "-443.8e6"
+  next_:
+    item: '[[../Period-0444~Silurian/Epoch-443~Llandovery|Epoch-443~Llandovery]]'
+  previous_:
+    item: '[[Epoch-470~Middle_Ordovician]]'
   text_of_:
-    color: "0x7FCA93"
+    color: 0x7FCA93
+  time_:
+    started: -458.4e6
+    stopped: -443.8e6
 dv_is_:
   same_as:
-    - "[[WD~Late_Ordovician,13389115]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician|Epoch-458~Late_Ordovician]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician.public|Epoch-458~Late_Ordovician.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician.internal|Epoch-458~Late_Ordovician.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician.protect|Epoch-458~Late_Ordovician.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician.private|Epoch-458~Late_Ordovician.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician.personal|Epoch-458~Late_Ordovician.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician.secret|Epoch-458~Late_Ordovician.secret]]"
-dv_has_duration_years: "1.460e+7"
-dv_has_previous_item: "[[Epoch-470~Middle_Ordovician]]"
-dv_has_next_item: "[[../Period-0444~Silurian/Epoch-443~Llandovery|Epoch-443~Llandovery]]"
+  - '[[WD~Late_Ordovician,13389115]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician|Epoch-458~Late_Ordovician]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician.public|Epoch-458~Late_Ordovician.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician.internal|Epoch-458~Late_Ordovician.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician.protect|Epoch-458~Late_Ordovician.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician.private|Epoch-458~Late_Ordovician.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician.personal|Epoch-458~Late_Ordovician.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician.secret|Epoch-458~Late_Ordovician.secret]]'
+dv_has_duration_years: 1.460e+7
+dv_has_previous_item: '[[Epoch-470~Middle_Ordovician]]'
+dv_has_next_item: '[[../Period-0444~Silurian/Epoch-443~Llandovery|Epoch-443~Llandovery]]'
 dv_is_same_as:
-  - "[[WD~Late_Ordovician,13389115]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician|Epoch-458~Late_Ordovician]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician.public|Epoch-458~Late_Ordovician.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician.internal|Epoch-458~Late_Ordovician.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician.protect|Epoch-458~Late_Ordovician.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician.private|Epoch-458~Late_Ordovician.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician.personal|Epoch-458~Late_Ordovician.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician.secret|Epoch-458~Late_Ordovician.secret]]"
+- '[[WD~Late_Ordovician,13389115]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician|Epoch-458~Late_Ordovician]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician.public|Epoch-458~Late_Ordovician.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician.internal|Epoch-458~Late_Ordovician.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician.protect|Epoch-458~Late_Ordovician.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician.private|Epoch-458~Late_Ordovician.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician.personal|Epoch-458~Late_Ordovician.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician.secret|Epoch-458~Late_Ordovician.secret]]'
 dv_has_name_bg: Къѿен Ордовик
 dv_has_name_cs: Pozdní ordovik
 dv_has_name_da: Sen Ordovicium
@@ -100,11 +136,10 @@ dv_has_name_sl: starejši ordovicij
 dv_has_name_sv: yngre ordovicium
 dv_has_name_zh: 晚奥陶世
 dv_has_name_abbreviated: O3
-dv_has_time_started: "-458.4e6"
-dv_has_time_stopped: "-443.8e6"
-dv_has_text_of_color: "0x7FCA93"
+dv_has_time_started: -458.4e6
+dv_has_time_stopped: -443.8e6
+dv_has_text_of_color: 0x7FCA93
 ---
-
 # [[Epoch-458~Late_Ordovician]] 
 
 #is_a_/time_/Epoch 

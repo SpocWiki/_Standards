@@ -1,25 +1,83 @@
 ---
 aliases:
-  - Rohr
-  - Röhre
-  - Pipe
+- Asegdal
+- Boru
+- buis
+- canonada
+- caurule
+- cev
+- cijev
+- cső
+- Hodi
+- Paip
+- Pipa
+- Pipe
+- Pralon
+- putki
+- Pyp
+- píopa
+- Quvur
+- Rohr
+- rura
+- Röhre
+- rör
+- rør
+- røyr
+- Rúra (technika)
+- Tiyo
+- Toru
+- trubka
+- Tub (condòta)
+- tubbu
+- tubería
+- tubo
+- Tubus
+- tuyau
+- vamzdis
+- Wiru
+- zwuat
+- țeavă
+- σωλήνας
+- БиргIа
+- Лӯла
+- Пăрăх
+- торба
+- труба
+- Тръба
+- цев
+- цевка
+- Құбыр
+- Խողովակներ
+- צינור
+- أنبوب
+- بۆڕی
+- لوله
+- குழாய்
+- ống
+- パイプ
+- 管
+- 管子 (流体输送)
+- 管道
+- 鋼管
+- 钢管
+- 파이프
 has_id_wikidata: Q41551
 different_from:
-  - '[[_Standards/WikiData/WD~hose,176440]]'
-  - '[[_Standards/WikiData/WD~plumbing,182612]]'
-  - '[[_Standards/WikiData/WD~Curculionidae,7415384]]'
+- '[[_Standards/WikiData/WD~hose,176440]]'
+- '[[_Standards/WikiData/WD~plumbing,182612]]'
+- '[[_Standards/WikiData/WD~Curculionidae,7415384]]'
 opposite_of: '[[_Standards/WikiData/WD~hose,176440]]'
 has_use:
-  - '[[_Standards/WikiData/WD~tap_water,506004]]'
-  - '[[_Standards/WikiData/WD~pipeline_transport,725864]]'
-  - '[[_Standards/WikiData/WD~air_compressor,978234]]'
-  - '[[_Standards/WikiData/WD~plumbing,3241671]]'
-  - '[[_Standards/WikiData/WD~agricultural_irrigation,11453]]'
+- '[[_Standards/WikiData/WD~tap_water,506004]]'
+- '[[_Standards/WikiData/WD~pipeline_transport,725864]]'
+- '[[_Standards/WikiData/WD~air_compressor,978234]]'
+- '[[_Standards/WikiData/WD~plumbing,3241671]]'
+- '[[_Standards/WikiData/WD~agricultural_irrigation,11453]]'
 has_characteristic: '[[_Standards/WikiData/WD~stiffness,569057]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~Q30059240,30059240]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Q30059240,30059240]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~tube,1419626]]'
 instance_of: '[[_Standards/WikiData/WD~widget,2467478]]'
 part_of: '[[_Standards/WikiData/WD~piping,3679502]]'
@@ -28,16 +86,92 @@ has_part_s_: '[[_Standards/WikiData/WD~cavity,28367692]]'
 shape: '[[_Standards/WikiData/WD~open_cylinder,30090682]]'
 subclass_of: '[[_Standards/WikiData/WD~tube,121444807]]'
 physically_interacts_with:
-  - '[[_Standards/WikiData/WD~liquid,11435]]'
-  - '[[_Standards/WikiData/WD~gas,11432]]'
+- '[[_Standards/WikiData/WD~liquid,11435]]'
+- '[[_Standards/WikiData/WD~gas,11432]]'
 OmegaWiki_Defined_Meaning: 2812
 Nomenclature_for_Museum_Cataloging: 68
 Commons_category: Pipes
 image: http://commons.wikimedia.org/wiki/Special:FilePath/120%20inch%20HDPE%20plastic%20pipe%20job.jpg
 Dewey_Decimal_Classification: 671.832
 Commons_gallery: Pipe (material)
+dv_has_:
+  name_:
+    af: Pyp
+    ar: أنبوب
+    ast: Tubería
+    az: Boru
+    be: труба
+    be-tarask: труба
+    bew: Pralon
+    bg: Тръба
+    ca: canonada
+    ce: БиргIа
+    ckb: بۆڕی
+    cs: trubka
+    cv: Пăрăх
+    da: rør
+    de: Rohr
+    el: σωλήνας
+    en: pipe
+    eo: tubo
+    es: tubería
+    et: Toru
+    eu: Hodi
+    fa: لوله
+    fi: putki
+    fr: tuyau
+    ga: píopa
+    gl: tubo
+    he: צינור
+    hr: cijev
+    ht: Tiyo
+    hu: cső
+    hy: Խողովակներ
+    id: Pipa
+    io: Tubo
+    it: tubo
+    ja: パイプ
+    jv: Pipa
+    kab: Asegdal
+    kcg: zwuat
+    kk: Құбыр
+    ko: 파이프
+    la: Tubus
+    lt: vamzdis
+    lv: caurule
+    mk: цевка
+    ms: Paip
+    nb: rør
+    nl: buis
+    nn: røyr
+    pap: pipa
+    pl: rura
+    pms: Tub (condòta)
+    pt: tubo
+    pt-br: tubo
+    qu: Wiru
+    ro: țeavă
+    ru: труба
+    scn: tubbu
+    sh: cijev
+    sk: Rúra (technika)
+    sl: cev
+    sr: цев
+    sv: rör
+    ta: குழாய்
+    tg: Лӯла
+    tr: boru
+    tt: торба
+    uk: труба
+    uz: Quvur
+    vi: ống
+    wuu: 管子 (流体输送)
+    yue: 管
+    zh: 管道
+    zh-cn: 钢管
+    zh-hans: 钢管
+    zh-hant: 鋼管
 ---
-
 # [[Pipe]] 
 
 #is_/same_as :: [[WD~Pipe,41551]] 

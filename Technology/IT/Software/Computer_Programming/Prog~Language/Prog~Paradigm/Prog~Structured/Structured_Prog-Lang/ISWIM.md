@@ -1,7 +1,31 @@
 ---
 has_id_wikidata: Q1533797
+dv_has_:
+  name_:
+    ca: ISWIM
+    da: ISWIM
+    de: ISWIM
+    en: ISWIM
+    es: ISWIM
+    fa: زبان برنامه نویسی آی سوییم
+    fi: ISWIM
+    fr: ISWIM
+    ga: ISWIM
+    it: ISWIM
+    ja: ISWIM
+    ko: ISWIM
+    mul: ISWIM
+    nl: ISWIM
+    nn: ISWIM
+    pt: ISWIM
+    ro: ISWIM
+    sv: ISWIM
+    vec: ISWIM
+    zh: ISWIM
+aliases:
+- ISWIM
+- زبان برنامه نویسی آی سوییم
 ---
-
 # [[ISWIM]] 
 
 #is_a_/ComputerLanguage 

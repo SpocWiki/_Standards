@@ -1,32 +1,114 @@
 ---
 location:
-  - 90
-  - 65
+- 90
+- 65
 aliases:
+- a Szovjetunió felbomlása
+- Auflösung der Sowjetunion
+- dezmembrarea Uniunii Sovietice
+- Diddymiad yr Undeb Sofietaidd
+- dislocation de l'URSS
+- disolución da Unión Soviética
+- disolución de la Unión Soviética
+- disolución de la Xunión Soviética
+- dissolució de la Unió Soviètica
+- dissolutio Unionis Sovieticae
+- dissolution of the Soviet Union
+- dissoluzione dell’Unione Sovietica
+- Dissolução da União Soviética
+- dissolvo de Sovetunio
+- Freuzadenn an Unaniezh Soviedel
+- Hrun Sovétríkjanna
+- kipisi pi ma Sesesele
+- Liên Xô tan rã
+- Neuvostoliiton hajoaminen
+- Nõukogude Liidu lagunemine
+- Ontbinding van die Sowjetunie
+- oppløsningen av Sovjetunionen
+- Pagbuwag ng Unyong Sobyet
+- Pembubaran Kesatuan Soviet
+- pembubaran Uni Soviet
+- PSRS sabrukums
+- Raspad Sovjetskog saveza
+- Raspad SSSR-a
+- razpustitev Sovjetske zveze
+- rozpad Sovietskeho zväzu
+- rozpad Sovětského svazu
+- rozpad Związku Radzieckiego
+- Shpërbërja e Bashkimit Sovjetik
+- Sobietar Batasunaren desegitea
+- Sovet Sosialist Respublikaları İttifaqının dağılması
+- Sovjetlihttu bieđganeapmi
+- Sovjetlito pieđgânem
+- Sovjetunionens opløsning
+- Sovjetunionens upplösning
+- Sovyet Sosyalist Cumhuriyetler Birliği'nin dağılması
+- So͘-liân pang-hoāi
+- SSSRning qulashi
+- TSRS griūtis
+- uiteenvallen van de Sovjet-Unie
+- διάλυση της Σοβιετικής Ένωσης
+- Асовет Еидгыла аилабгара
+- ЗХУ-ын задрал ба мөхөл
+- КСРО ыдырауы
+- Пошхӯрии Иттиҳоди Шӯравӣ
+- Разпад на СССР
+- Распад на Советскиот Сојуз
+- распад Совјетског Савеза
+- Распад СССР
+- розпад СРСР
+- Советон Цæдисы фехæлд
+- ССРБ таркалуы
+- ССРС хайдыыта
+- СССР арканăвĕ
+- СССР тарҡалыуы
+- ԽՍՀՄ փլուզում
+- התפרקות ברית המועצות
+- צעלאזונג פון דער סאוועטן פארבאנד
+- تفكك الاتحاد السوفيتي
+- تفكيك الاتحاد السوفييتى
+- د شوروي اتحاد ړنګېدل
+- سوویت اتحاد دی تحلیل
+- سوویت اتحاد کی تحلیل
+- فروپاشی اتحاد جماهیر شوروی
+- ھەڵوەشاندنەوەی یەکێتیی سۆڤیەت
+- सोभियत संघयागु बायेज्या
+- सोवियत संघ का विघटन
+- सोवियत संघ के बिघटन
+- सोव्हियेत संघाचे विघटन
+- সোভিয়েত ইউনিয়নের পতন
+- การล่มสลายของสหภาพโซเวียต
+- სსრკ-ის დაშლა
+- სხუნუეფიშ რსხუშ აკოცჷმა
+- ソビエト連邦の崩壊
+- 苏联解体
+- 蘇聯崩析
+- 蘇聯解體
+- 소비에트 연방의 붕괴
 has_id_wikidata: Q5167679
-theorized_by: "[[_Standards/WikiData/WD~Gennady_Yanayev,113173]]"
+theorized_by: '[[_Standards/WikiData/WD~Gennady_Yanayev,113173]]'
 has_cause:
-  - "[[_Standards/WikiData/WD~Leninism,155059]]"
-  - "[[_Standards/WikiData/WD~New_Union_Treaty,218877]]"
-  - "[[_Standards/WikiData/WD~Declaration_of_the_Rights_of_the_Peoples_of_Russia,1047454]]"
-  - "[[_Standards/WikiData/WD~Monetary_reform_in_the_Soviet_Union,_1991,4157879]]"
-  - "[[_Standards/WikiData/WD~New_political_thinking,4323903]]"
+- '[[_Standards/WikiData/WD~Leninism,155059]]'
+- '[[_Standards/WikiData/WD~New_Union_Treaty,218877]]'
+- '[[_Standards/WikiData/WD~Declaration_of_the_Rights_of_the_Peoples_of_Russia,1047454]]'
+- '[[_Standards/WikiData/WD~Monetary_reform_in_the_Soviet_Union,_1991,4157879]]'
+- '[[_Standards/WikiData/WD~New_political_thinking,4323903]]'
 main_regulatory_text:
-  - "[[_Standards/WikiData/WD~1977_Soviet_Constitution,645016]]"
-  - "[[_Standards/WikiData/WD~Alma_Ata_Protocol,1786449]]"
-  - "[[_Standards/WikiData/WD~Q19181086,19181086]]"
-  - "[[_Standards/WikiData/WD~Q19227157,19227157]]"
-  - "[[_Standards/WikiData/WD~Q115926086,115926086]]"
+- '[[_Standards/WikiData/WD~1977_Soviet_Constitution,645016]]'
+- '[[_Standards/WikiData/WD~Alma_Ata_Protocol,1786449]]'
+- '[[_Standards/WikiData/WD~Q19181086,19181086]]'
+- '[[_Standards/WikiData/WD~Q19227157,19227157]]'
+- '[[_Standards/WikiData/WD~Q115926086,115926086]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~dismemberment,1228968]]"
-  - "[[_Standards/WikiData/WD~dissolution,5282797]]"
-has_immediate_cause: "[[_Standards/WikiData/WD~International_Federation_for_Victory_Over_Communism,9690903]]"
-topic_has_template: "[[_Standards/WikiData/WD~Q13601405,13601405]]"
+- '[[_Standards/WikiData/WD~dismemberment,1228968]]'
+- '[[_Standards/WikiData/WD~dissolution,5282797]]'
+has_immediate_cause: '[[_Standards/WikiData/WD~International_Federation_for_Victory_Over_Communism,9690903]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q13601405,13601405]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~dissolution_of_an_administrative_territorial_entity,18603729]]"
-  - "[[_Standards/WikiData/WD~end_cause,22087155]]"
-locations: "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
-country: "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
+- '[[_Standards/WikiData/WD~dissolution_of_an_administrative_territorial_entity,18603729]]'
+- '[[_Standards/WikiData/WD~end_cause,22087155]]'
+locations: '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
+country: '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
 coordinate_location: Point(90.0 65.0)
 image: http://commons.wikimedia.org/wiki/Special:FilePath/RIAN%20archive%20140800%20Signing%20of%20Protocol%20on%20Establishing%20Commonwealth%20of%20Independent%20States.jpg
 described_at_URL: http://ru-90.ru/tutorial/raspad-sssr
@@ -34,25 +116,119 @@ Commons_category: Collapse of the Soviet Union
 short_name: Dezmembrarea URSS
 dv_is_:
   same_as:
-    - "[[../../../../../../../../WikiData/WD~Dissolution_of_the_Soviet_Union,5167679|WD~Dissolution_of_the_Soviet_Union,5167679]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1991-Dissolution_of_the_Soviet_Union|1991-Dissolution_of_the_Soviet_Union]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1991-Dissolution_of_the_Soviet_Union.public|1991-Dissolution_of_the_Soviet_Union.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1991-Dissolution_of_the_Soviet_Union.internal|1991-Dissolution_of_the_Soviet_Union.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1991-Dissolution_of_the_Soviet_Union.protect|1991-Dissolution_of_the_Soviet_Union.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1991-Dissolution_of_the_Soviet_Union.private|1991-Dissolution_of_the_Soviet_Union.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1991-Dissolution_of_the_Soviet_Union.personal|1991-Dissolution_of_the_Soviet_Union.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1991-Dissolution_of_the_Soviet_Union.secret|1991-Dissolution_of_the_Soviet_Union.secret]]"
+  - '[[../../../../../../../../WikiData/WD~Dissolution_of_the_Soviet_Union,5167679|WD~Dissolution_of_the_Soviet_Union,5167679]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1991-Dissolution_of_the_Soviet_Union|1991-Dissolution_of_the_Soviet_Union]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1991-Dissolution_of_the_Soviet_Union.public|1991-Dissolution_of_the_Soviet_Union.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1991-Dissolution_of_the_Soviet_Union.internal|1991-Dissolution_of_the_Soviet_Union.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1991-Dissolution_of_the_Soviet_Union.protect|1991-Dissolution_of_the_Soviet_Union.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1991-Dissolution_of_the_Soviet_Union.private|1991-Dissolution_of_the_Soviet_Union.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1991-Dissolution_of_the_Soviet_Union.personal|1991-Dissolution_of_the_Soviet_Union.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1991-Dissolution_of_the_Soviet_Union.secret|1991-Dissolution_of_the_Soviet_Union.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Dissolution_of_the_Soviet_Union,5167679|WD~Dissolution_of_the_Soviet_Union,5167679]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1991-Dissolution_of_the_Soviet_Union|1991-Dissolution_of_the_Soviet_Union]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1991-Dissolution_of_the_Soviet_Union.public|1991-Dissolution_of_the_Soviet_Union.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1991-Dissolution_of_the_Soviet_Union.internal|1991-Dissolution_of_the_Soviet_Union.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1991-Dissolution_of_the_Soviet_Union.protect|1991-Dissolution_of_the_Soviet_Union.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1991-Dissolution_of_the_Soviet_Union.private|1991-Dissolution_of_the_Soviet_Union.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1991-Dissolution_of_the_Soviet_Union.personal|1991-Dissolution_of_the_Soviet_Union.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1991-Dissolution_of_the_Soviet_Union.secret|1991-Dissolution_of_the_Soviet_Union.secret]]"
+- '[[../../../../../../../../WikiData/WD~Dissolution_of_the_Soviet_Union,5167679|WD~Dissolution_of_the_Soviet_Union,5167679]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1991-Dissolution_of_the_Soviet_Union|1991-Dissolution_of_the_Soviet_Union]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1991-Dissolution_of_the_Soviet_Union.public|1991-Dissolution_of_the_Soviet_Union.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1991-Dissolution_of_the_Soviet_Union.internal|1991-Dissolution_of_the_Soviet_Union.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1991-Dissolution_of_the_Soviet_Union.protect|1991-Dissolution_of_the_Soviet_Union.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1991-Dissolution_of_the_Soviet_Union.private|1991-Dissolution_of_the_Soviet_Union.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1991-Dissolution_of_the_Soviet_Union.personal|1991-Dissolution_of_the_Soviet_Union.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1991-Dissolution_of_the_Soviet_Union.secret|1991-Dissolution_of_the_Soviet_Union.secret]]'
+dv_has_:
+  name_:
+    ab: Асовет Еидгыла аилабгара
+    af: Ontbinding van die Sowjetunie
+    ar: تفكك الاتحاد السوفيتي
+    arz: تفكيك الاتحاد السوفييتى
+    ast: disolución de la Xunión Soviética
+    az: Sovet Sosialist Respublikaları İttifaqının dağılması
+    ba: СССР тарҡалыуы
+    be: Распад СССР
+    be-tarask: Распад СССР
+    bg: Разпад на СССР
+    bho: सोवियत संघ के बिघटन
+    bn: সোভিয়েত ইউনিয়নের পতন
+    br: Freuzadenn an Unaniezh Soviedel
+    bs: Raspad Sovjetskog saveza
+    ca: dissolució de la Unió Soviètica
+    ckb: ھەڵوەشاندنەوەی یەکێتیی سۆڤیەت
+    cs: rozpad Sovětského svazu
+    cv: СССР арканăвĕ
+    cy: Diddymiad yr Undeb Sofietaidd
+    da: Sovjetunionens opløsning
+    de: Auflösung der Sowjetunion
+    el: διάλυση της Σοβιετικής Ένωσης
+    en: dissolution of the Soviet Union
+    eo: dissolvo de Sovetunio
+    es: disolución de la Unión Soviética
+    et: Nõukogude Liidu lagunemine
+    eu: Sobietar Batasunaren desegitea
+    fa: فروپاشی اتحاد جماهیر شوروی
+    fi: Neuvostoliiton hajoaminen
+    fr: dislocation de l'URSS
+    gl: disolución da Unión Soviética
+    he: התפרקות ברית המועצות
+    hi: सोवियत संघ का विघटन
+    hr: Raspad SSSR-a
+    hu: a Szovjetunió felbomlása
+    hy: ԽՍՀՄ փլուզում
+    id: pembubaran Uni Soviet
+    is: Hrun Sovétríkjanna
+    it: dissoluzione dell’Unione Sovietica
+    ja: ソビエト連邦の崩壊
+    ka: სსრკ-ის დაშლა
+    kk: КСРО ыдырауы
+    ko: 소비에트 연방의 붕괴
+    la: dissolutio Unionis Sovieticae
+    lt: TSRS griūtis
+    lv: PSRS sabrukums
+    lzh: 蘇聯崩析
+    mk: Распад на Советскиот Сојуз
+    mn: ЗХУ-ын задрал ба мөхөл
+    mr: सोव्हियेत संघाचे विघटन
+    ms: Pembubaran Kesatuan Soviet
+    nan: So͘-liân pang-hoāi
+    nb: oppløsningen av Sovjetunionen
+    new: सोभियत संघयागु बायेज्या
+    nl: uiteenvallen van de Sovjet-Unie
+    os: Советон Цæдисы фехæлд
+    pl: rozpad Związku Radzieckiego
+    pnb: سوویت اتحاد دی تحلیل
+    ps: د شوروي اتحاد ړنګېدل
+    pt: Dissolução da União Soviética
+    pt-br: Dissolução da União Soviética
+    ro: dezmembrarea Uniunii Sovietice
+    ru: распад СССР
+    sah: ССРС хайдыыта
+    se: Sovjetlihttu bieđganeapmi
+    sh: Raspad Sovjetskog Saveza
+    sk: rozpad Sovietskeho zväzu
+    sl: razpustitev Sovjetske zveze
+    smn: Sovjetlito pieđgânem
+    sq: Shpërbërja e Bashkimit Sovjetik
+    sr: распад Совјетског Савеза
+    sr-ec: распад Совјетског Савеза
+    sv: Sovjetunionens upplösning
+    tg: Пошхӯрии Иттиҳоди Шӯравӣ
+    th: การล่มสลายของสหภาพโซเวียต
+    tl: Pagbuwag ng Unyong Sobyet
+    tok: kipisi pi ma Sesesele
+    tr: Sovyet Sosyalist Cumhuriyetler Birliği'nin dağılması
+    tt: ССРБ таркалуы
+    uk: розпад СРСР
+    ur: سوویت اتحاد کی تحلیل
+    uz: SSSRning qulashi
+    vi: Liên Xô tan rã
+    wuu: 苏联解体
+    xmf: სხუნუეფიშ რსხუშ აკოცჷმა
+    yi: צעלאזונג פון דער סאוועטן פארבאנד
+    yue: 蘇聯解體
+    zh: 苏联解体
+    zh-cn: 苏联解体
+    zh-hans: 苏联解体
+    zh-hant: 蘇聯解體
+    zh-hk: 蘇聯解體
+    zh-tw: 蘇聯解體
 ---
-
 # [[1991-Dissolution_of_the_Soviet_Union]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Dissolution_of_the_Soviet_Union,5167679|WD~Dissolution_of_the_Soviet_Union,5167679]] 

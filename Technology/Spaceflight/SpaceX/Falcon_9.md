@@ -1,7 +1,95 @@
 ---
 aliases:
-- "Falcon 9"
+- Falcon 9
+- Falkon 9
+- Фалкон 9
+- Фалкън-9
+- פאלקון 9
+- فالكون 9
+- فالکن 9
+- فالکون ۹
+- فاڵکۆن ٩
+- ߝߋߟߑߞߐ߲ߡ ߉߲
+- स्पेस- एक्स फाल्कन ९
+- ফ্যালকন ৯
+- பால்கன் 9
+- ഫാൽക്കൺ 9
+- ฟัลคอน 9
+- ファルコン9
+- 猎鹰9号运载火箭
+- 獵鷹9號運載火箭
+- 팰컨 9
 has_id_wikidata: Q249091
+dv_has_:
+  name_:
+    an: Falcon 9
+    ar: فالكون 9
+    az: Falcon 9
+    azb: فالکون ۹
+    be: Falcon 9
+    bg: Фалкън-9
+    bn: ফ্যালকন ৯
+    ca: Falcon 9
+    ckb: فاڵکۆن ٩
+    cs: Falcon 9
+    cy: Falcon 9
+    da: Falcon 9
+    de: Falcon 9
+    el: Falcon 9
+    en: Falcon 9
+    eo: Falkon 9
+    es: Falcon 9
+    et: Falcon 9
+    fa: فالکون ۹
+    fi: Falcon 9
+    fr: Falcon 9
+    gl: Falcon 9
+    he: פאלקון 9
+    hi: स्पेस- एक्स फाल्कन ९
+    hr: Falcon 9
+    hu: Falcon 9
+    hy: Falcon 9
+    id: Falcon 9
+    it: Falcon 9
+    ja: ファルコン9
+    ko: 팰컨 9
+    lb: Falcon 9
+    lt: Falcon 9
+    mk: Фалкон 9
+    ml: ഫാൽക്കൺ 9
+    ms: Falcon 9
+    mul: Falcon 9
+    nan: Falcon 9
+    nb: Falcon 9
+    nl: Falcon 9
+    nn: Falcon 9
+    nqo: ߝߋߟߑߞߐ߲ߡ ߉߲
+    oc: Falcon 9
+    pl: Falcon 9
+    pnb: فالکن 9
+    pt: Falcon 9
+    ro: Falcon 9
+    ru: Falcon 9
+    sh: Falcon 9
+    sk: Falcon 9
+    sl: Falcon 9
+    sr: Фалкон 9
+    sr-ec: Фалкон 9
+    sr-el: Falkon 9
+    sv: Falcon 9
+    ta: பால்கன் 9
+    th: ฟัลคอน 9
+    tl: Falcon 9
+    tr: Falcon 9
+    uk: Falcon 9
+    vi: Falcon 9
+    zh: 獵鷹9號運載火箭
+    zh-cn: 猎鹰9号运载火箭
+    zh-hans: 猎鹰9号运载火箭
+    zh-hant: 獵鷹9號運載火箭
+    zh-hk: 獵鷹9號運載火箭
+    zh-sg: 猎鹰9号运载火箭
+    zh-tw: 獵鷹9號運載火箭
 ---
 ## #has_/text_of_/abstract 
 

@@ -1,61 +1,168 @@
 ---
 aliases:
-  - motorcycle
-  - motorcycle
-  - Motorcycle
-  - is_a_motorcycle
-  - motorbike
-  - trike
+- beic modur
+- birota automataria
+- Doqdoqqee
+- Dziʼizítsoh
+- gluaisrothar
+- Hondra
+- ilo tawa wawa pi sike tu
+- is_a_motorcycle
+- Kareta
+- Kî-chhâ
+- Marc'h-tan
+- Mashin
+- Matïtït
+- mohtorsihkkel
+- Mooto
+- mootorratas
+- moottoripyörä
+- moottorkååʹlez
+- moottorpyerá
+- moto
+- motocicleta
+- motocicletta
+- motocicletă
+- Motociclo
+- Motociclèta
+- motocikl
+- motociklas
+- motocikls
+- Motocycletta
+- motocykel
+- motocykl
+- Motor
+- Motor-Rääd
+- motorbike
+- Motorbiskılet
+- motorciklo
+- motorcycle
+- motorcykel
+- motorfiets
+- Motorfyts
+- motorkerékpár
+- motorno kolo
+- Motorrad
+- Motorsiklo
+- motorsyhkal
+- motorsykkel
+- motorsúkkla
+- Motorçerxe
+- motosikal
+- Motosiklet
+- Mototsikl
+- Motozikleta
+- motoçikletë
+- Motto
+- Motucicletta
+- Mudhudhudhu
+- Mutur phirunku
+- Mòto
+- Mò̤-táuk-chiă
+- mótorhjól
+- mô tô
+- Okada
+- otobay
+- Otofay
+- O͘-to͘-bái
+- Pikipiki
+- Pit montor
+- Pupu
+- Sapida mutur
+- sepeda motor
+- tasnsγalt
+- trike
+- tsaap tswam (a̱tak a̱hwa
+- tswam ndong
+- Tukutuku
+- wutubay
+- Zokɛ̀kɛ́
+- Μοτοσικλέτα
+- матацыкл
+- мотоцикл
+- Мотоциклет
+- Մոտոցիկլ
+- אופנוע
+- מאטאציקל
+- دراجة نارية
+- متوسيكل
+- موتسىكلىت
+- موتورسیکلت
+- موٹر سائیکل
+- موٽر سائيڪل
+- مۆتۆرسکیل
+- मोटरसाइकल
+- মোটর সাইকেল
+- ਮੋਟਰਸਾਈਕਲ
+- ମଟର ସାଇକେଲ
+- விசையுந்து
+- మోటార్ సైకిల్
+- മോട്ടോർ സൈക്കിൾ
+- යතුරුපැදිය
+- จักรยานยนต์
+- ລົດຈັກ
+- မော်တော်ဆိုင်ကယ်
+- လူတ်ႉၶိူင်ႈ
+- მოტოციკლი
+- ម៉ូតូ
+- ᨆᨚᨈᨚᨑᨚᨔᨛᨙᨄᨉ
+- Ọgba tum tum
+- オートバイ
+- 摩托車
+- 摩托车
+- 機車
+- 電單車
+- 모터사이클
 has_id_wikidata: Q34493
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
 expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - motorcycle
+- motorcycle
 layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_motorcycle Class
 publish: true
 publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_a_motorcycle Class
 type: Type
 Baidu_Tieba_name: 摩托车
 subclass_of:
-  - '[[_Standards/WikiData/WD~two_wheeler,233040]]'
-  - '[[_Standards/WikiData/WD~road_vehicle,1515493]]'
-  - '[[_Standards/WikiData/WD~single_track_vehicle,11723891]]'
-  - '[[_Standards/WikiData/WD~motor_vehicle,17152681]]'
+- '[[_Standards/WikiData/WD~two_wheeler,233040]]'
+- '[[_Standards/WikiData/WD~road_vehicle,1515493]]'
+- '[[_Standards/WikiData/WD~single_track_vehicle,11723891]]'
+- '[[_Standards/WikiData/WD~motor_vehicle,17152681]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~motorcycle_fairing,388379]]'
-  - '[[_Standards/WikiData/WD~rigid_frame,1064975]]'
-  - '[[_Standards/WikiData/WD~fuel_tank,1411232]]'
-  - '[[_Standards/WikiData/WD~motorcycle_engine,3270361]]'
-  - '[[_Standards/WikiData/WD~motorcycle_handlebar,11885128]]'
-  - '[[_Standards/WikiData/WD~motorcycle_seat,17095725]]'
-  - '[[_Standards/WikiData/WD~wheel,446]]'
+- '[[_Standards/WikiData/WD~motorcycle_fairing,388379]]'
+- '[[_Standards/WikiData/WD~rigid_frame,1064975]]'
+- '[[_Standards/WikiData/WD~fuel_tank,1411232]]'
+- '[[_Standards/WikiData/WD~motorcycle_engine,3270361]]'
+- '[[_Standards/WikiData/WD~motorcycle_handlebar,11885128]]'
+- '[[_Standards/WikiData/WD~motorcycle_seat,17095725]]'
+- '[[_Standards/WikiData/WD~wheel,446]]'
 has_characteristic:
-  - '[[_Standards/WikiData/WD~engine_displacement,466511]]'
-  - '[[_Standards/WikiData/WD~motorcycle_model,23866334]]'
-  - '[[_Standards/WikiData/WD~power,25342]]'
+- '[[_Standards/WikiData/WD~engine_displacement,466511]]'
+- '[[_Standards/WikiData/WD~motorcycle_model,23866334]]'
+- '[[_Standards/WikiData/WD~power,25342]]'
 has_list: '[[_Standards/WikiData/WD~list_of_motorcycle_manufacturers,580634]]'
 has_use: '[[_Standards/WikiData/WD~motorcycling,608003]]'
 has_part_s_of_the_class: '[[_Standards/WikiData/WD~motorcycle_component,2995263]]'
 different_from: '[[_Standards/WikiData/WD~Motocycle,6917995]]'
 topic_has_template:
-  - '[[_Standards/WikiData/WD~Template_Infobox_motorcycle,8197999]]'
-  - '[[_Standards/WikiData/WD~Template_Types_of_motorcycles,18810251]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_motorcycle,8197999]]'
+- '[[_Standards/WikiData/WD~Template_Types_of_motorcycles,18810251]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q11257814,11257814]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Motorcycling,15884974]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 used_by: '[[_Standards/WikiData/WD~motorcyclist,45787133]]'
 associated_hazard: '[[_Standards/WikiData/WD~motorcycle_accident,48802726]]'
 IAB_code: 27
@@ -65,8 +172,8 @@ Nomenclature_for_Museum_Cataloging: 12193
 Commons_gallery: Motorcycle
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Norton%20Motorcycle.jpg
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Motorrad2.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Motorrad3.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/De-Motorrad2.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/De-Motorrad3.ogg
 OpenStreetMap_key: motorcycle
 IMDb_keyword: motorcycle
 GS1_GPC_code: 10006373
@@ -75,14 +182,164 @@ U_S_National_Archives_Identifier: 10662876
 subreddit: motorcycles
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20Tips%20for%20motorcycle%20trips.jpg
 equivalent_class:
-  - http://dbpedia.org/ontology/Motorcycle
-  - https://schema.org/Motorcycle
+- http://dbpedia.org/ontology/Motorcycle
+- https://schema.org/Motorcycle
 UNSPSC_Code: 25101801
 Iconclass_notation: 46C165
 UMLS_CUI: C0026520
 MeSH_tree_code: J01.937.500.500
+dv_has_:
+  name_:
+    af: motorfiets
+    ami: Otofay
+    an: Motocicleta
+    ar: دراجة نارية
+    arz: متوسيكل
+    ast: motocicleta
+    az: Motosiklet
+    bbc: Kareta
+    bcl: Motorsiklo
+    be: матацыкл
+    be-tarask: матацыкл
+    bew: Motor
+    bg: Мотоциклет
+    bjn: Sapida mutur
+    bn: মোটর সাইকেল
+    br: Marc'h-tan
+    bs: motocikl
+    bug: ᨆᨚᨈᨚᨑᨚᨔᨛᨙᨄᨉ
+    ca: motocicleta
+    cdo: Mò̤-táuk-chiă
+    ckb: مۆتۆرسکیل
+    co: Motto
+    cs: motocykl
+    cv: Мотоцикл
+    cy: beic modur
+    da: motorcykel
+    de: Motorrad
+    de-ch: Motorrad
+    din: Matïtït
+    diq: Motorbiskılet
+    el: Μοτοσικλέτα
+    en: motorcycle
+    en-ca: Motorcycle
+    en-gb: motorcycle
+    eo: motorciklo
+    es: motocicleta
+    et: mootorratas
+    eu: Motozikleta
+    fa: موتورسیکلت
+    fi: moottoripyörä
+    fo: motorsúkkla
+    fon: Zokɛ̀kɛ́
+    fr: moto
+    fy: Motorfyts
+    ga: gluaisrothar
+    gan: 摩托車
+    gl: motocicleta
+    gur: Pupu
+    ha: Mashin
+    hak: Kî-chhâ
+    he: אופנוע
+    hi: मोटरसाइकल
+    hr: Motocikl
+    hu: motorkerékpár
+    hy: Մոտոցիկլ
+    ia: Motocycletta
+    id: sepeda motor
+    ig: Ọgba tum tum
+    io: Motorciklo
+    is: mótorhjól
+    it: motocicletta
+    ja: オートバイ
+    jv: Pit montor
+    ka: მოტოციკლი
+    kaj: tsaap tswam (a̱tak a̱hwa
+    kcg: tswam ndong
+    kk: Мотоцикл
+    km: ម៉ូតូ
+    ko: 모터사이클
+    ku: Motorçerxe
+    ky: Мотоцикл
+    la: birota automataria
+    lmo: Motociclèta
+    ln: Tukutuku
+    lo: ລົດຈັກ
+    lt: motociklas
+    lv: motocikls
+    lzh: 電單車
+    mk: мотоцикл
+    ml: മോട്ടോർ സൈക്കിൾ
+    mn: Мотоцикл
+    ms: motosikal
+    mwl: Motociclo
+    my: မော်တော်ဆိုင်ကယ်
+    nan: O͘-to͘-bái
+    nb: motorsykkel
+    nds: Motorrad
+    ne: मोटरसाइकल
+    nia: Hondra
+    nl: motorfiets
+    nn: motorsykkel
+    nv: Dziʼizítsoh
+    om: Doqdoqqee
+    or: ମଟର ସାଇକେଲ
+    pa: ਮੋਟਰਸਾਈਕਲ
+    pcm: Okada
+    pl: motocykl
+    pms: Mòto
+    pnb: موٹر سائیکل
+    pt: motocicleta
+    pt-br: motocicleta
+    qu: Mutur phirunku
+    ro: motocicletă
+    ru: мотоцикл
+    rw: Moto
+    scn: Motucicletta
+    sco: Motorcycle
+    sd: موٽر سائيڪل
+    se: mohtorsihkkel
+    sh: motocikl
+    shi: tasnsγalt
+    shn: လူတ်ႉၶိူင်ႈ
+    si: යතුරුපැදිය
+    sk: motocykel
+    sl: motorno kolo
+    smj: motorsyhkal
+    smn: moottorpyerá
+    sms: moottorkååʹlez
+    sn: Mudhudhudhu
+    so: Mooto
+    sq: motoçikletë
+    sr: мотоцикл
+    stq: Motor-Rääd
+    su: Motor
+    sv: motorcykel
+    sw: Pikipiki
+    szy: wutubay
+    ta: விசையுந்து
+    tay: otobay
+    te: మోటార్ సైకిల్
+    th: จักรยานยนต์
+    tl: Motorsiklo
+    tok: ilo tawa wawa pi sike tu
+    tr: Motosiklet
+    ug: موتسىكلىت
+    uk: мотоцикл
+    ur: موٹر سائیکل
+    uz: Mototsikl
+    vi: mô tô
+    war: Motorsiklo
+    wuu: 摩托车
+    yi: מאטאציקל
+    yue: 電單車
+    zh: 摩托車
+    zh-cn: 摩托车
+    zh-hans: 摩托车
+    zh-hant: 電單車
+    zh-hk: 電單車
+    zh-tw: 機車
 ---
-
 # [[Motorcycle]]
 
 Class of all motorcycles.

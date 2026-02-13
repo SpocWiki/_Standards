@@ -1,24 +1,94 @@
 ---
 aliases:
-  - Schweißen
-  - Welding
+- asio
+- hegesztés
+- hitsaus
+- hàn
+- iwweldjar
+- kaynak
+- keevitamine
+- kimpalan
+- las
+- lassen
+- metināšana
+- paghihinang
+- payvandlash
+- pha tiān-ku
+- pisirw
+- qaynaq
+- saldatura
+- saldimi
+- Schweissen
+- Schweißen
+- Schwoaßn
+- solda
+- soldadura
+- soldagem
+- soldér
+- soudage
+- spawalnictwo
+- sudare
+- suvirinimas
+- svařování
+- sveising
+- svejsning
+- svetsning
+- swaisi
+- sweiswerk
+- varjenje
+- veldado
+- Welding
+- yavarivanje
+- zavarivanje
+- zváranie
+- συγκόλληση
+- заваривање
+- заварување
+- заваряване
+- зварка
+- зварювання
+- пісіру
+- сварка
+- шăратав
+- ширетүү
+- Եռակցում
+- ריתוך
+- שווייסן
+- جوشکاری
+- لحام
+- لەحیمکاری
+- ٴپىسىرۋ
+- वेल्डिंग
+- वेल्डिङ
+- ঢালাই
+- ਵੈਲਡਿੰਗ
+- பற்றவைத்தல்
+- వెల్డింగ్
+- വെൽഡിങ്ങ്
+- การเชื่อมโลหะ
+- ဂဟေ
+- 拋電龜
+- 溶接
+- 焊接
+- 銲接
+- 용접
 has_id_wikidata: Q131172
 different_from:
-  - '[[_Standards/WikiData/WD~soldering_or_brazing,211387]]'
-  - '[[_Standards/WikiData/WD~brazing,13389141]]'
+- '[[_Standards/WikiData/WD~soldering_or_brazing,211387]]'
+- '[[_Standards/WikiData/WD~brazing,13389141]]'
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 practiced_by: '[[_Standards/WikiData/WD~welder,836328]]'
 partially_coincident_with: '[[_Standards/WikiData/WD~metalworking,953045]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~joining,1480529]]'
-  - '[[_Standards/WikiData/WD~process,10843872]]'
+- '[[_Standards/WikiData/WD~joining,1480529]]'
+- '[[_Standards/WikiData/WD~process,10843872]]'
 uses:
-  - '[[_Standards/WikiData/WD~welding_power_supply,1936800]]'
-  - '[[_Standards/WikiData/WD~Q3491469,3491469]]'
+- '[[_Standards/WikiData/WD~welding_power_supply,1936800]]'
+- '[[_Standards/WikiData/WD~Q3491469,3491469]]'
 has_part_s_: '[[_Standards/WikiData/WD~Welding_process,125576630]]'
 OmegaWiki_Defined_Meaning: 4137
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Migpipe.jpg
@@ -33,8 +103,106 @@ Commons_gallery: Welding
 Commons_category: Welding
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/WWS%20Welding.ogg
 Dewey_Decimal_Classification: 671.52
+dv_has_:
+  name_:
+    af: sweiswerk
+    an: soldadura
+    ar: لحام
+    ast: soldadura
+    az: qaynaq
+    ba: сварка
+    bar: Schwoaßn
+    be: зварка
+    be-tarask: зварка
+    bg: заваряване
+    bn: ঢালাই
+    bs: zavarivanje
+    ca: soldadura
+    ckb: لەحیمکاری
+    cs: svařování
+    cv: шăратав
+    cy: asio
+    da: svejsning
+    de: Schweißen
+    de-ch: Schweissen
+    el: συγκόλληση
+    en: welding
+    eo: veldado
+    es: soldadura
+    et: keevitamine
+    eu: soldadura
+    fa: جوشکاری
+    fi: hitsaus
+    fr: soudage
+    frr: swaisi
+    gl: soldadura
+    he: ריתוך
+    hi: वेल्डिंग
+    hr: yavarivanje
+    hu: hegesztés
+    hy: Եռակցում
+    id: las
+    it: saldatura
+    ja: 溶接
+    kk: пісіру
+    kk-arab: ٴپىسىرۋ
+    kk-cn: ٴپىسىرۋ
+    kk-cyrl: пісіру
+    kk-kz: пісіру
+    kk-latn: pisirw
+    kk-tr: pisirw
+    ko: 용접
+    ky: ширетүү
+    lt: suvirinimas
+    lv: metināšana
+    mk: заварување
+    ml: വെൽഡിങ്ങ്
+    mr: वेल्डिंग
+    ms: kimpalan
+    mt: iwweldjar
+    my: ဂဟေ
+    nan: pha tiān-ku
+    nan-hani: 拋電龜
+    nan-hant: 拋電龜
+    nb: sveising
+    ne: वेल्डिङ
+    nl: lassen
+    nn: sveising
+    pa: ਵੈਲਡਿੰਗ
+    pl: spawalnictwo
+    pt: soldagem
+    pt-br: solda
+    rki: ဂဟေ
+    ro: sudare
+    ru: сварка
+    sh: zavarivanje
+    sk: zváranie
+    sl: varjenje
+    sq: saldimi
+    sr: заваривање
+    sr-ec: заваривање
+    sr-el: zavarivanje
+    su: soldér
+    sv: svetsning
+    ta: பற்றவைத்தல்
+    te: వెల్డింగ్
+    th: การเชื่อมโลหะ
+    tl: paghihinang
+    tr: kaynak
+    uk: зварювання
+    uz: payvandlash
+    vi: hàn
+    wuu: 焊接
+    yi: שווייסן
+    yue: 銲接
+    zh: 焊接
+    zh-cn: 焊接
+    zh-hans: 焊接
+    zh-hant: 焊接
+    zh-hk: 焊接
+    zh-sg: 焊接
+    zh-tw: 焊接
 ---
-
 # [[Welding]] 
 
 #is_/same_as :: [[WD~Welding,131172]] 

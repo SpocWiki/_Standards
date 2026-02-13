@@ -1,8 +1,64 @@
 ---
 has_id_wikidata: Q219528
+dv_has_:
+  name_:
+    ar: سي بي / م
+    be-tarask: CP/M
+    bs: CP/M
+    ca: CP/M
+    cs: CP/M
+    da: CP/M
+    de: CP/M
+    el: CP/M
+    en: CP/M
+    es: CP/M
+    et: CP/M
+    fa: سیپی\ام
+    fi: CP/M
+    fr: Control Program/Monitor
+    ga: CP/M
+    gl: CP/M
+    he: CP/M
+    hr: CP/M
+    hu: CP/M
+    ia: CP/M
+    id: CP/M
+    ilo: CP/M
+    is: CP/M
+    it: CP/M
+    ja: CP/M
+    ko: CP/M
+    ms: CP/M
+    mul: CP/M
+    nb: CP/M
+    nl: CP/M
+    nn: CP/M
+    pl: CP/M
+    pt: CP/M
+    ro: CP/M
+    ru: CP/M
+    sh: CP/M
+    sk: CP/M
+    sl: CP/M
+    sr: CP/M
+    sv: CP/M
+    sw: CP/M
+    th: ซีพี/เอ็ม
+    tr: CP/M
+    uk: CP/M
+    vec: CP/M
+    vi: CP/M
+    zh: 微型計算機控製程序
+    zh-cn: 微型计算机控制程序
+aliases:
+- Control Program/Monitor
+- CP/M
+- سي بي / م
+- سیپی\ام
+- ซีพี/เอ็ม
+- 微型計算機控製程序
+- 微型计算机控制程序
 ---
-
-
 > **CP/M**, originally standing for Control Program/Monitor and later Control Program for Microcomputers, is a mass-market operating system created in 1974 for Intel 8080/85-based microcomputers by [[Gary_Kildall]] of Digital Research, Inc. 
 > 
 > CP/M is a disk operating system and its purpose is to organize files on a magnetic storage medium, and to load and run programs stored on a disk. Initially confined to single-tasking on 8-bit processors and no more than 64 kilobytes of memory, later versions of CP/M added multi-user variations and were migrated to 16-bit processors.

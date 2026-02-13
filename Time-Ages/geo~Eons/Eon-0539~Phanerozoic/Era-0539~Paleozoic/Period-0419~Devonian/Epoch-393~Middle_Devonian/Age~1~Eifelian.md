@@ -1,92 +1,111 @@
 ---
 aliases:
-  - Eifelian
-  - пйфел
-  - Eifel
-  - Eifelien
-  - Eifelium
-  - Eifeliense
-  - Eifeli
-  - Eifélien
-  - eifeli
-  - eifeliano
-  - アイフェリアン期
-  - Eifelis
-  - Eifeliën
-  - Eifeliano
-  - eifel
-  - eifelij
-  - 艾菲尔期
+- Aifilianu
+- Eifel
+- Eifela stāvs
+- Eifeli
+- Eifelian
+- eifeliano
+- Eifelien
+- Eifeliense
+- eifelij
+- Eifelis
+- Eifelium
+- Eifelià
+- Eifeliën
+- Eifélien
+- Tầng Eifel
+- Ейфельський ярус
+- пйфел
+- эйфельский ярус
+- الإفلي
+- ایفلین
+- アイフェリアン
+- アイフェリアン期
+- 艾菲尔期
+- 艾菲爾階
 has_id_wikidata: Q730523
-named_after: "[[_Standards/WikiData/WD~Eifel,152356]]"
-named_by: "[[_Standards/WikiData/WD~André_Dumont,519775]]"
+named_after: '[[_Standards/WikiData/WD~Eifel,152356]]'
+named_by: '[[_Standards/WikiData/WD~André_Dumont,519775]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-different_from: "[[_Standards/WikiData/WD~Q9251709,9251709]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Eifelian,134580210]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+different_from: '[[_Standards/WikiData/WD~Q9251709,9251709]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Eifelian,134580210]]'
 start_time: -393300000-01-01T00:00:00Z
 coordinate_location: Point(6.4716 50.1496)
 end_time: -387700000-01-01T00:00:00Z
 sRGB_color_hex_triplet: F5D386
 dv_has_:
   duration_:
-    years: "5.600e+6"
-  previous_:
-    item: "[[../Epoch-419~Early_Devonian/Age~3~Emsian|Age~3~Emsian]]"
-  next_:
-    item: "[[Age~2~Givetian]]"
+    years: 5.600e+6
   name_:
+    abbreviated: d4
+    af: Eifelium
+    ar: الإفلي
     bg: пйфел
+    ca: Eifelià
     cs: Eifel
     da: Eifelien
     de: Eifelium
+    en: Eifelian
     es: Eifeliense
     et: Eifeli
+    fa: ایفلین
     fi: Eifel
-    fr: Eifélien
+    fr: Eifelien
     hu: eifeli
-    it: eifeliano
-    ja: アイフェリアン期
+    id: Eifelium
+    it: Eifeliano
+    ja: アイフェリアン
     lt: Eifelis
-    nl: Eifeliën
+    lv: Eifela stāvs
+    nl: Eifelien
+    nn: eifel
     no: Eifelium
     pl: Eifel
     pt: Eifeliano
+    ru: эйфельский ярус
+    scn: Aifilianu
     sk: eifel
     sl: eifelij
     sv: eifel
-    zh: 艾菲尔期
-    abbreviated: d4
-  time_:
-    started: "-393.3e6"
-    stopped: "-387.7e6"
+    uk: Ейфельський ярус
+    vi: Tầng Eifel
+    zh: 艾菲爾階
+  next_:
+    item: '[[Age~2~Givetian]]'
+  previous_:
+    item: '[[../Epoch-419~Early_Devonian/Age~3~Emsian|Age~3~Emsian]]'
   text_of_:
-    color: "0xF1D576"
+    color: 0xF1D576
+  time_:
+    started: -393.3e6
+    stopped: -387.7e6
 dv_is_:
   same_as:
-    - "[[WD~Eifelian,730523]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~1~Eifelian|Age~1~Eifelian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~1~Eifelian.public|Age~1~Eifelian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~1~Eifelian.internal|Age~1~Eifelian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~1~Eifelian.protect|Age~1~Eifelian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~1~Eifelian.private|Age~1~Eifelian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~1~Eifelian.personal|Age~1~Eifelian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~1~Eifelian.secret|Age~1~Eifelian.secret]]"
-dv_has_duration_years: "5.600e+6"
-dv_has_previous_item: "[[../Epoch-419~Early_Devonian/Age~3~Emsian|Age~3~Emsian]]"
-dv_has_next_item: "[[Age~2~Givetian]]"
+  - '[[WD~Eifelian,730523]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~1~Eifelian|Age~1~Eifelian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~1~Eifelian.public|Age~1~Eifelian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~1~Eifelian.internal|Age~1~Eifelian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~1~Eifelian.protect|Age~1~Eifelian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~1~Eifelian.private|Age~1~Eifelian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~1~Eifelian.personal|Age~1~Eifelian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~1~Eifelian.secret|Age~1~Eifelian.secret]]'
+dv_has_duration_years: 5.600e+6
+dv_has_previous_item: '[[../Epoch-419~Early_Devonian/Age~3~Emsian|Age~3~Emsian]]'
+dv_has_next_item: '[[Age~2~Givetian]]'
 dv_is_same_as:
-  - "[[WD~Eifelian,730523]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~1~Eifelian|Age~1~Eifelian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~1~Eifelian.public|Age~1~Eifelian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~1~Eifelian.internal|Age~1~Eifelian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~1~Eifelian.protect|Age~1~Eifelian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~1~Eifelian.private|Age~1~Eifelian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~1~Eifelian.personal|Age~1~Eifelian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~1~Eifelian.secret|Age~1~Eifelian.secret]]"
+- '[[WD~Eifelian,730523]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~1~Eifelian|Age~1~Eifelian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~1~Eifelian.public|Age~1~Eifelian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~1~Eifelian.internal|Age~1~Eifelian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~1~Eifelian.protect|Age~1~Eifelian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~1~Eifelian.private|Age~1~Eifelian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~1~Eifelian.personal|Age~1~Eifelian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~1~Eifelian.secret|Age~1~Eifelian.secret]]'
 dv_has_name_bg: пйфел
 dv_has_name_cs: Eifel
 dv_has_name_da: Eifelien
@@ -108,9 +127,9 @@ dv_has_name_sl: eifelij
 dv_has_name_sv: eifel
 dv_has_name_zh: 艾菲尔期
 dv_has_name_abbreviated: d4
-dv_has_time_started: "-393.3e6"
-dv_has_time_stopped: "-387.7e6"
-dv_has_text_of_color: "0xF1D576"
+dv_has_time_started: -393.3e6
+dv_has_time_stopped: -387.7e6
+dv_has_text_of_color: 0xF1D576
 ---
 # [[Age~1~Eifelian]] 
 

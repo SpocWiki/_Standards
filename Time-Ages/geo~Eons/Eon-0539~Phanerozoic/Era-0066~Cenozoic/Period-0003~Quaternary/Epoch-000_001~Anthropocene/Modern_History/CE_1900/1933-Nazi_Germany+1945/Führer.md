@@ -1,38 +1,135 @@
 ---
 aliases:
-  - Fuehrer
-  - Führer
+- Ein Volk
+- firer
+- Fiureris
+- Fuehrer
+- Fører
+- Führer
+- Fürer
+- Fürher
+- Füürer
+- Fīrers
+- Φύρερ
+- Фирер
+- Фурер
+- Фюрар
+- фюрер
+- Фюрэр
+- ֆյուրեր
+- פיהרר
+- الفوهرر
+- پیشوا (مقام)
+- பியூரர்
+- ฟือเรอร์
+- ფიურერი
+- 元首
+- 德国元首
+- 総統
+- 나치 독일의 총통
 has_id_wikidata: Q484079
-different_from: "[[_Standards/WikiData/WD~Reichsführer_SS,162312]]"
+different_from: '[[_Standards/WikiData/WD~Reichsführer_SS,162312]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~title,216353]]"
-  - "[[_Standards/WikiData/WD~position,4164871]]"
-official_residence: "[[_Standards/WikiData/WD~Reich_Chancellery,698208]]"
-country: "[[_Standards/WikiData/WD~Nazi_Germany,7318]]"
+- '[[_Standards/WikiData/WD~title,216353]]'
+- '[[_Standards/WikiData/WD~position,4164871]]'
+official_residence: '[[_Standards/WikiData/WD~Reich_Chancellery,698208]]'
+country: '[[_Standards/WikiData/WD~Nazi_Germany,7318]]'
 dissolved_abolished_or_demolished_date: 1945-04-30T00:00:00Z
 inception: 1934-08-02T00:00:00Z
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Standarte%20Adolf%20Hitlers.svg
 dv_is_:
   same_as:
-    - "[[../../../../../../../../../WikiData/WD~Führer,484079|WD~Führer,484079]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Führer|Führer]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Führer.public|Führer.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Führer.internal|Führer.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Führer.protect|Führer.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Führer.private|Führer.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Führer.personal|Führer.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Führer.secret|Führer.secret]]"
+  - '[[../../../../../../../../../WikiData/WD~Führer,484079|WD~Führer,484079]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Führer|Führer]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Führer.public|Führer.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Führer.internal|Führer.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Führer.protect|Führer.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Führer.private|Führer.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Führer.personal|Führer.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Führer.secret|Führer.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../../WikiData/WD~Führer,484079|WD~Führer,484079]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Führer|Führer]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Führer.public|Führer.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Führer.internal|Führer.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Führer.protect|Führer.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Führer.private|Führer.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Führer.personal|Führer.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Führer.secret|Führer.secret]]"
+- '[[../../../../../../../../../WikiData/WD~Führer,484079|WD~Führer,484079]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Führer|Führer]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Führer.public|Führer.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Führer.internal|Führer.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Führer.protect|Führer.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Führer.private|Führer.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Führer.personal|Führer.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/Führer.secret|Führer.secret]]'
+dv_has_:
+  name_:
+    ar: الفوهرر
+    ast: Führer
+    av: Фюрер
+    az: Fürer
+    bcl: Führer
+    be: Фюрар
+    be-tarask: Фюрэр
+    bg: Фюрер
+    br: Führer
+    bs: Führer
+    ca: Führer
+    cs: Führer
+    de: Führer
+    el: Φύρερ
+    en: Führer
+    eo: Führer
+    es: Führer
+    et: Füürer
+    eu: Führer
+    fa: پیشوا (مقام)
+    fi: Führer
+    fr: Führer
+    gl: Führer
+    gn: Führer
+    he: פיהרר
+    hr: Führer
+    hu: Führer
+    hy: ֆյուրեր
+    id: Führer
+    is: Führer
+    it: Führer
+    ja: 総統
+    ka: ფიურერი
+    kab: Führer
+    kk: Фюрер
+    ko: 나치 독일의 총통
+    lt: Fiureris
+    lv: Fīrers
+    mk: Фирер
+    mn: Фюрер
+    ms: Führer
+    nb: Fører
+    nl: Führer
+    oc: Fürher
+    pl: Führer
+    pt: Führer
+    pt-br: Führer
+    ro: Führer
+    ru: фюрер
+    rue: Фурер
+    sh: Führer
+    sk: Führer
+    sl: Führer
+    sq: Führer
+    sr: фирер
+    sr-ec: фирер
+    sr-el: firer
+    sv: Führer
+    ta: பியூரர்
+    th: ฟือเรอร์
+    tr: Führer
+    uk: Фюрер
+    uz: Führer
+    vi: Ein Volk
+    wuu: 德国元首
+    xmf: ფიურერი
+    yue: Führer
+    zh: 元首
+    zh-hans: 元首
+    zh-hant: 元首
+    zh-hk: 元首
 ---
-
 # [[Führer]] 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Führer,484079|WD~Führer,484079]] 

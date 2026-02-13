@@ -1,140 +1,168 @@
 ---
 aliases:
-  - Early_Pennsylvanian
-  - Early Pennsylvanian
-  - 前期ペンシルバニア紀
-  - 早宾夕法尼亚世
-  - Bashkirian
-  - Башкир
-  - Bashkir
-  - Bashkirien
-  - Bashkirium
-  - Bashkiriense
-  - Baškiiri
-  - baskír
-  - bashkiriano
-  - バシキリアン期
-  - Bashkiriën
-  - Baszkir
-  - Bashkiriano
-  - baškir
-  - baškirij
-  - bashkir
-  - 巴什基尔期
-  - "{ newTitle: }":
+- Baixkirià
+- Bashkir
+- Bashkirian
+- bashkiriano
+- Bashkirien
+- Bashkiriense
+- Bashkirium
+- Bashkiriën
+- basjkir
+- baskír
+- baskíriai
+- Baszkir
+- Bašchirianu
+- Baškiiri
+- baškir
+- baškirij
+- Boshqird yarusi
+- Early Pennsylvanian
+- Early_Pennsylvanian
+- System.Collections.Generic.Dictionary`2[System.Object,System.Object]
+- Tầng Bashkiria
+- Башкир
+- башкирский ярус
+- Башкирський ярус
+- Башқұрт ярусы
+- башҡорт ярусы
+- الباشكري
+- باشکیرین
+- バシキリアン期
+- バシキーリアン
+- 前期ペンシルバニア紀
+- 巴什基尔期
+- 早宾夕法尼亚世
 has_id_wikidata: Q639443
 ischart: LowerPennsylvanian
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Bashkirian,30869507]]"
-significant_place: "[[_Standards/WikiData/WD~Arrow_Canyon,49774932]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-named_by: "[[_Standards/WikiData/WD~Sofia_Viktorovna_Semikhatova,106574396]]"
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Bashkirian,134498081]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Bashkirian,30869507]]'
+significant_place: '[[_Standards/WikiData/WD~Arrow_Canyon,49774932]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+named_by: '[[_Standards/WikiData/WD~Sofia_Viktorovna_Semikhatova,106574396]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Bashkirian,134498081]]'
 end_time: -315200000-01-01T00:00:00Z
-named_after: "[[_Standards/WikiData/WD~Bashkortostan,5710]]"
+named_after: '[[_Standards/WikiData/WD~Bashkortostan,5710]]'
 Commons_category: Bashkirian
 coordinate_location: Point(-114.7778 36.7333)
 sRGB_color_hex_triplet: 99C2B5
 start_time: -323200000-01-01T00:00:00Z
 confidential: private
 cssclasses:
-  - private
-  - note
+- private
+- note
 draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
-expiryDate:
-has_Template: "[[Extract~Note~Template]]"
+expiryDate: 
+has_Template: '[[Extract~Note~Template]]'
 has_time_started:
-  '{ "date:YYYY-MM-DD": }':
+  '{ "date:YYYY-MM-DD": }': 
 isDeleted: false
 isReadOnly: false
 keywords:
-  "{ newTitle: }":
+  '{ newTitle: }': 
 lang: en
-layout:
+layout: 
 license: (c)copyrighted
 linkTitle:
-  "{ newTitle: }":
+  '{ newTitle: }': 
 publish: false
-publishDate:
+publishDate: 
 tags:
-  - "{ newTitle: }":
-  - excalidraw
+- '{ newTitle: }': 
+- excalidraw
 title:
-  "{ newTitle: }":
+  '{ newTitle: }': 
 type: private_note
 dv_has_:
-  time_:
-    started:
-      - "-323.2e6"
-      - "-323.2e6"
-    stopped:
-      - "-315.2e6"
-      - "-315.2e6"
-  text_of_:
-    color:
-      - "0x8CBEB4"
-      - "0x99C2B5"
   duration_:
     years: NaN
-  previous_:
-    item: "[[../Epoch-359~Mississippian/Age~3~Serpukhovian|Age~3~Serpukhovian]]"
-  next_:
-    item: "[[Age~2~Moscovian]]"
   name_:
+    abbreviated: c4
+    af: Bashkirium
+    ar: الباشكري
+    ba: башҡорт ярусы
     bg: Башкир
+    bs: Baškirij
+    ca: Baixkirià
     cs: Bashkir
     da: Bashkirien
     de: Bashkirium
+    en: Bashkirian
+    en-gb: Bashkirian
     es: Bashkiriense
     et: Baškiiri
+    fa: باشکیرین
     fi: Bashkir
     fr: Bashkirien
-    hu: baskír
-    it: bashkiriano
-    ja: バシキリアン期
+    hu: baskíriai
+    id: Bashkirium
+    it: Bashkiriano
+    ja: バシキーリアン
+    kk: Башқұрт ярусы
     lt: Bashkirian
-    nl: Bashkiriën
+    nl: Bashkirien
+    nn: basjkir
     no: Bashkirium
     pl: Baszkir
     pt: Bashkiriano
+    ru: башкирский ярус
+    scn: Bašchirianu
+    sh: Baškir
     sk: baškir
     sl: baškirij
     sv: bashkir
+    uk: Башкирський ярус
+    uz: Boshqird yarusi
+    vi: Tầng Bashkiria
     zh: 巴什基尔期
-    abbreviated: c4
+  next_:
+    item: '[[Age~2~Moscovian]]'
+  previous_:
+    item: '[[../Epoch-359~Mississippian/Age~3~Serpukhovian|Age~3~Serpukhovian]]'
+  text_of_:
+    color:
+    - 0x8CBEB4
+    - 0x99C2B5
+  time_:
+    started:
+    - -323.2e6
+    - -323.2e6
+    stopped:
+    - -315.2e6
+    - -315.2e6
 dv_is_:
   same_as:
-    - "[[WD~Bashkirian,639443]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~1~Bashkirian|Age~1~Bashkirian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~1~Bashkirian.public|Age~1~Bashkirian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~1~Bashkirian.internal|Age~1~Bashkirian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~1~Bashkirian.protect|Age~1~Bashkirian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~1~Bashkirian.private|Age~1~Bashkirian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~1~Bashkirian.personal|Age~1~Bashkirian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~1~Bashkirian.secret|Age~1~Bashkirian.secret]]"
+  - '[[WD~Bashkirian,639443]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~1~Bashkirian|Age~1~Bashkirian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~1~Bashkirian.public|Age~1~Bashkirian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~1~Bashkirian.internal|Age~1~Bashkirian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~1~Bashkirian.protect|Age~1~Bashkirian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~1~Bashkirian.private|Age~1~Bashkirian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~1~Bashkirian.personal|Age~1~Bashkirian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~1~Bashkirian.secret|Age~1~Bashkirian.secret]]'
 dv_has_time_stopped:
-  - "-315.2e6"
-  - "-315.2e6"
+- -315.2e6
+- -315.2e6
 dv_has_text_of_color:
-  - "0x8CBEB4"
-  - "0x99C2B5"
+- 0x8CBEB4
+- 0x99C2B5
 dv_has_duration_years: NaN
-dv_has_previous_item: "[[../Epoch-359~Mississippian/Age~3~Serpukhovian|Age~3~Serpukhovian]]"
-dv_has_next_item: "[[Age~2~Moscovian]]"
+dv_has_previous_item: '[[../Epoch-359~Mississippian/Age~3~Serpukhovian|Age~3~Serpukhovian]]'
+dv_has_next_item: '[[Age~2~Moscovian]]'
 dv_is_same_as:
-  - "[[WD~Bashkirian,639443]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~1~Bashkirian|Age~1~Bashkirian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~1~Bashkirian.public|Age~1~Bashkirian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~1~Bashkirian.internal|Age~1~Bashkirian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~1~Bashkirian.protect|Age~1~Bashkirian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~1~Bashkirian.private|Age~1~Bashkirian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~1~Bashkirian.personal|Age~1~Bashkirian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~1~Bashkirian.secret|Age~1~Bashkirian.secret]]"
+- '[[WD~Bashkirian,639443]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~1~Bashkirian|Age~1~Bashkirian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~1~Bashkirian.public|Age~1~Bashkirian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~1~Bashkirian.internal|Age~1~Bashkirian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~1~Bashkirian.protect|Age~1~Bashkirian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~1~Bashkirian.private|Age~1~Bashkirian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~1~Bashkirian.personal|Age~1~Bashkirian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~1~Bashkirian.secret|Age~1~Bashkirian.secret]]'
 dv_has_name_bg: Башкир
 dv_has_name_cs: Bashkir
 dv_has_name_da: Bashkirien

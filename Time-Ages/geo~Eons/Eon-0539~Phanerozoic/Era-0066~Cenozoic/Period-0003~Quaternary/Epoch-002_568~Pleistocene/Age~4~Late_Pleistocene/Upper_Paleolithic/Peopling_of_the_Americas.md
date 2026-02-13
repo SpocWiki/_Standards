@@ -1,32 +1,108 @@
 ---
 aliases:
-  - Amerikas Besiedelung
+- Alveno de la homo en Amerikon
+- Amerikas Besiedelung
+- Amerikas bosættelse
+- Besiedlung Amerikas
+- Cuộc định cư châu Mỹ
+- Gizakien iritsiera Amerikara
+- intiaanien alkuperä
+- naselitev Amerike
+- Naseljavanje Amerika
+- oudste bewoners van Amerika
+- peopling of the Americas
+- poblament d'Amèrica
+- poblamiento de América
+- Poblamientu d'América
+- Poboamento de América
+- Popolamento delle Americhe
+- Populamento de America
+- Povoamento da América
+- premier peuplement de l'Amérique
+- Settlement of the Americas
+- Zaludnienie Ameryk
+- Öllste Inwahners vun Amerika
+- İnsanoğlunun Amerika kıtasına yerleşmesi
+- Заселение Америки
+- засяленьне Амэрыкі
+- Моделі заселення Америки
+- Ամերիկայի բնակեցում
+- יישובה הקדום של אמריקה
+- استيطان الأمريكيتين
+- په امریکا کې مېشتېدنه
+- अमेरिका का आवासन
+- अमेरिका केरौ खोज
+- अमेरिकामा बसोबास
+- アメリカ大陸への移住
+- 迁徙新大陆模型
+- 遷徙新大陸模型
+- 신대륙 이주설
 has_id_wikidata: Q13925462
-subclass_of: "[[_Standards/WikiData/WD~human_migration,177626]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Peopling_of_the_Americas,55940737]]"
-location: "[[_Standards/WikiData/WD~Americas,828]]"
+subclass_of: '[[_Standards/WikiData/WD~human_migration,177626]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Peopling_of_the_Americas,55940737]]'
+location: '[[_Standards/WikiData/WD~Americas,828]]'
 Commons_category: Settlement of the Americas
 dv_is_:
   same_as:
-    - "[[../../../../../../../../WikiData/WD~Peopling_of_the_Americas,13925462]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas|Peopling_of_the_Americas]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.public|Peopling_of_the_Americas.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.internal|Peopling_of_the_Americas.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.protect|Peopling_of_the_Americas.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.private|Peopling_of_the_Americas.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.personal|Peopling_of_the_Americas.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.secret|Peopling_of_the_Americas.secret]]"
+  - '[[../../../../../../../../WikiData/WD~Peopling_of_the_Americas,13925462]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas|Peopling_of_the_Americas]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.public|Peopling_of_the_Americas.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.internal|Peopling_of_the_Americas.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.protect|Peopling_of_the_Americas.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.private|Peopling_of_the_Americas.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.personal|Peopling_of_the_Americas.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.secret|Peopling_of_the_Americas.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Peopling_of_the_Americas,13925462]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas|Peopling_of_the_Americas]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.public|Peopling_of_the_Americas.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.internal|Peopling_of_the_Americas.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.protect|Peopling_of_the_Americas.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.private|Peopling_of_the_Americas.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.personal|Peopling_of_the_Americas.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.secret|Peopling_of_the_Americas.secret]]"
+- '[[../../../../../../../../WikiData/WD~Peopling_of_the_Americas,13925462]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas|Peopling_of_the_Americas]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.public|Peopling_of_the_Americas.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.internal|Peopling_of_the_Americas.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.protect|Peopling_of_the_Americas.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.private|Peopling_of_the_Americas.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.personal|Peopling_of_the_Americas.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.secret|Peopling_of_the_Americas.secret]]'
+dv_has_:
+  name_:
+    anp: अमेरिका केरौ खोज
+    ar: استيطان الأمريكيتين
+    ast: Poblamientu d'América
+    be-tarask: засяленьне Амэрыкі
+    ca: poblament d'Amèrica
+    da: Amerikas bosættelse
+    de: Besiedlung Amerikas
+    en: peopling of the Americas
+    en-ca: Settlement of the Americas
+    en-gb: Settlement of the Americas
+    eo: Alveno de la homo en Amerikon
+    es: poblamiento de América
+    eu: Gizakien iritsiera Amerikara
+    fi: intiaanien alkuperä
+    fr: premier peuplement de l'Amérique
+    gl: Poboamento de América
+    he: יישובה הקדום של אמריקה
+    hi: अमेरिका का आवासन
+    hr: Naseljavanje Amerika
+    hy: Ամերիկայի բնակեցում
+    ia: Populamento de America
+    it: Popolamento delle Americhe
+    ja: アメリカ大陸への移住
+    ko: 신대륙 이주설
+    nds: Öllste Inwahners vun Amerika
+    ne: अमेरिकामा बसोबास
+    nl: oudste bewoners van Amerika
+    pl: Zaludnienie Ameryk
+    ps: په امریکا کې مېشتېدنه
+    pt: Povoamento da América
+    pt-br: Povoamento da América
+    ru: Заселение Америки
+    sl: naselitev Amerike
+    sr: Naseljavanje Amerika
+    tr: İnsanoğlunun Amerika kıtasına yerleşmesi
+    uk: Моделі заселення Америки
+    vi: Cuộc định cư châu Mỹ
+    wuu: 迁徙新大陆模型
+    zh: 遷徙新大陸模型
 ---
-
 # [[Peopling_of_the_Americas]] 
 
 #is_/same_as :: [[WD~Peopling_of_the_Americas,13925462]] 

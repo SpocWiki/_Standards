@@ -1,7 +1,35 @@
 ---
 has_id_wikidata: Q7475416
+dv_has_:
+  name_:
+    ar: سبيد كودنج
+    be: Speedcoding
+    ca: Speedcoding
+    da: Speedcoding
+    de: Speedcoding
+    en: Speedcoding
+    es: Speedcoding
+    fi: Speedcoding
+    fr: Speedcoding
+    ga: Speedcoding
+    it: Speedcoding
+    ja: Speedcoding
+    ko: 스피드코딩
+    nl: Speedcoding
+    nn: Speedcoding
+    pt: Speedcoding
+    ro: Speedcoding
+    ru: Speedcoding
+    sk: Speedcoding
+    sv: Speedcoding
+    ur: اسپیڈ کوڈنگ
+    vec: Speedcoding
+aliases:
+- Speedcoding
+- اسپیڈ کوڈنگ
+- سبيد كودنج
+- 스피드코딩
 ---
-
 # [[SpeedCode]] 
 
 #is_a_/ComputerLanguage 

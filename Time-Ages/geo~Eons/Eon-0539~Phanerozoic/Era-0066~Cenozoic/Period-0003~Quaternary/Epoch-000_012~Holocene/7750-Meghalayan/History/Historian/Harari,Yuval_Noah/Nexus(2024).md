@@ -1,6 +1,6 @@
 ---
 type: book
-subType: ""
+subType: ''
 title: Nexus
 englishTitle: Nexus
 year: 2024
@@ -8,7 +8,7 @@ dataSource: OpenLibraryAPI
 url: https://openlibrary.org/works/OL37826293W
 id: /works/OL37826293W
 author:
-  - Yuval Noah Harari
+- Yuval Noah Harari
 plot: unknown
 pages: unknown
 image: https://covers.openlibrary.org/b/OLID/OL51102784M-L.jpg
@@ -17,27 +17,36 @@ isbn: unknown
 isbn13: unknown
 released: true
 read: false
-lastRead: ""
+lastRead: ''
 personalRating: 0
 tags: mediaDB/book
 dv_is_:
   same_as:
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah/Nexus(2024)|Nexus(2024)]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah/Nexus(2024).public|Nexus(2024).public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah/Nexus(2024).internal|Nexus(2024).internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah/Nexus(2024).protect|Nexus(2024).protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah/Nexus(2024).private|Nexus(2024).private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah/Nexus(2024).personal|Nexus(2024).personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah/Nexus(2024).secret|Nexus(2024).secret]]"
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah/Nexus(2024)|Nexus(2024)]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah/Nexus(2024).public|Nexus(2024).public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah/Nexus(2024).internal|Nexus(2024).internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah/Nexus(2024).protect|Nexus(2024).protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah/Nexus(2024).private|Nexus(2024).private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah/Nexus(2024).personal|Nexus(2024).personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah/Nexus(2024).secret|Nexus(2024).secret]]'
 dv_is_same_as:
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah/Nexus(2024)|Nexus(2024)]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah/Nexus(2024).public|Nexus(2024).public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah/Nexus(2024).internal|Nexus(2024).internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah/Nexus(2024).protect|Nexus(2024).protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah/Nexus(2024).private|Nexus(2024).private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah/Nexus(2024).personal|Nexus(2024).personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah/Nexus(2024).secret|Nexus(2024).secret]]"
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah/Nexus(2024)|Nexus(2024)]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah/Nexus(2024).public|Nexus(2024).public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah/Nexus(2024).internal|Nexus(2024).internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah/Nexus(2024).protect|Nexus(2024).protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah/Nexus(2024).private|Nexus(2024).private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah/Nexus(2024).personal|Nexus(2024).personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah/Nexus(2024).secret|Nexus(2024).secret]]'
 has_id_wikidata: Q130649687
+dv_has_:
+  name_:
+    de: Nexus (Harari)
+    en: 'Nexus: A Brief History of Information Networks from the Stone Age to AI'
+    es: 'Nexus: Una breve historia de las redes de información desde la Edad de Piedra hasta la IA'
+aliases:
+- Nexus (Harari)
+- 'Nexus: A Brief History of Information Networks from the Stone Age to AI'
+- 'Nexus: Una breve historia de las redes de información desde la Edad de Piedra hasta la IA'
 ---
 # [[Nexus(2024)]] 
 

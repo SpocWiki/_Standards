@@ -1,48 +1,235 @@
 ---
 aliases:
-  - Medaille
-  - Medal
-  - Medallion
+- bonn
+- bonn-cuimhne
+- domina
+- huy chương
+- lambar daraja
+- madalya
+- medaglia
+- Medail
+- medaila
+- medaile
+- Medaille
+- medaja
+- Medal
+- medalenn
+- medalha
+- medali
+- medalia
+- medalie
+- medalio
+- medalis
+- medalj
+- medalja
+- medalje
+- medalla
+- Medallion
+- Medallje
+- medalo
+- medalya
+- medaya
+- medaļa
+- medhali
+- medállja
+- menduru
+- midagghia
+- miitaal
+- mital
+- mitali
+- médaille
+- pingat
+- tazalɣa
+- érem
+- μετάλλιο
+- майдан
+- медаља
+- медал
+- медаль
+- миҙал
+- мэдаль
+- ылтăн медаль
+- մեդալ
+- מדליה
+- מעדאַל
+- تمغا
+- تمغو
+- مادالیا
+- ميدالية
+- میڈل
+- نشان
+- पदक
+- পদক
+- ਤਗਮਾ
+- பதக்கம்
+- పతకం
+- ಪದಕ
+- പതക്കം
+- เหรียญอิสริยาภรณ์
+- ဆုတံဆိပ်
+- მედალი
+- ᱯᱚᱫᱚᱠ
+- メダル
+- 奖章
+- 獎牌
+- 獎章
+- 메달
 has_id_wikidata: Q131647
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~award,618779]]"
-  - "[[_Standards/WikiData/WD~work_of_art,838948]]"
-  - "[[_Standards/WikiData/WD~work_with_multiple_executions,28886448]]"
-  - "[[_Standards/WikiData/WD~monetiform_object,116035976]]"
+- '[[_Standards/WikiData/WD~award,618779]]'
+- '[[_Standards/WikiData/WD~work_of_art,838948]]'
+- '[[_Standards/WikiData/WD~work_with_multiple_executions,28886448]]'
+- '[[_Standards/WikiData/WD~monetiform_object,116035976]]'
 studied_by:
-  - "[[_Standards/WikiData/WD~numismatics,631286]]"
-  - "[[_Standards/WikiData/WD~Q92300887,92300887]]"
+- '[[_Standards/WikiData/WD~numismatics,631286]]'
+- '[[_Standards/WikiData/WD~Q92300887,92300887]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Schaumünze,1750740]]"
-  - "[[_Standards/WikiData/WD~medaillon,2691994]]"
-  - "[[_Standards/WikiData/WD~decoration,11796413]]"
-  - "[[_Standards/WikiData/WD~medal_of_an_order,38593919]]"
-  - "[[_Standards/WikiData/WD~award_medal,57082336]]"
+- '[[_Standards/WikiData/WD~Schaumünze,1750740]]'
+- '[[_Standards/WikiData/WD~medaillon,2691994]]'
+- '[[_Standards/WikiData/WD~decoration,11796413]]'
+- '[[_Standards/WikiData/WD~medal_of_an_order,38593919]]'
+- '[[_Standards/WikiData/WD~award_medal,57082336]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Infobox_medal_templates,5894777]]"
-  - "[[_Standards/WikiData/WD~Template_Medal,12857424]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~decoration,11796413]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_award,107467117]]"
+- '[[_Standards/WikiData/WD~Template_Infobox_medal_templates,5894777]]'
+- '[[_Standards/WikiData/WD~Template_Medal,12857424]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~decoration,11796413]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_award,107467117]]'
 Nomenclature_for_Museum_Cataloging: 13940
 U_S_National_Archives_Identifier:
-  - 10640364
-  - 10632203
+- 10640364
+- 10632203
 OmegaWiki_Defined_Meaning: 1121077
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Medals.jpg
 Iconclass_notation: 48C26
 Commons_category: Medals
 IMDb_keyword: medallion
-Unicode_character: 🏅
+Unicode_character: "\U0001F3C5"
+dv_has_:
+  name_:
+    af: medalje
+    ar: ميدالية
+    ast: medaya
+    az: medal
+    ba: миҙал
+    be: медаль
+    be-tarask: мэдаль
+    bg: медал
+    bn: পদক
+    br: medalenn
+    bs: medalja
+    ca: medalla
+    cs: medaile
+    cv: ылтăн медаль
+    cy: medal
+    da: medalje
+    de: Medaille
+    el: μετάλλιο
+    en: medallion
+    en-gb: medal
+    eo: medalo
+    es: medalla
+    et: medal
+    eu: domina
+    fa: نشان
+    fi: mitali
+    fr: médaille
+    fy: Medalje
+    ga: bonn
+    gd: bonn-cuimhne
+    gl: medalla
+    ha: lambar daraja
+    he: מדליה
+    hi: पदक
+    hr: medalja
+    hu: érem
+    hy: մեդալ
+    ia: medalia
+    id: medali
+    io: medalio
+    it: medaglia
+    ja: メダル
+    jv: medhali
+    ka: მედალი
+    kab: tazalɣa
+    kk: медаль
+    kn: ಪದಕ
+    ko: 메달
+    ku: medalya
+    ku-arab: مادالیا
+    ku-latn: madalya
+    ky: медаль
+    la: Medalia
+    lb: Medail
+    lt: medalis
+    lv: medaļa
+    mhr: медаль
+    mk: медал
+    ml: പതക്കം
+    mr: पदक
+    ms: pingat
+    my: ဆုတံဆိပ်
+    nb: medalje
+    nds: Medallje
+    ne: पदक
+    nl: medaille
+    nn: medalje
+    oc: medalha
+    os: майдан
+    pa: ਤਗਮਾ
+    pl: medal
+    pnb: میڈل
+    pt: medalha
+    pt-br: medalha
+    ro: medalie
+    ru: медаль
+    sat: ᱯᱚᱫᱚᱠ
+    scn: midagghia
+    sco: medal
+    sd: تمغو
+    se: medállja
+    sh: medalja
+    sk: medaila
+    sl: medalja
+    smj: medállja
+    smn: miitaal
+    sms: mital
+    sn: menduru
+    sq: medalja
+    sr: медаља
+    sr-ec: медаља
+    sr-el: medalja
+    sv: medalj
+    sw: medali
+    ta: பதக்கம்
+    te: పతకం
+    tg: медал
+    th: เหรียญอิสริยาภรณ์
+    tr: madalya
+    tt: медаль
+    uk: медаль
+    ur: تمغا
+    uz: medal
+    vec: medaja
+    vi: huy chương
+    wuu: 奖章
+    yi: מעדאַל
+    yue: 獎牌
+    zh: 獎章
+    zh-cn: 奖章
+    zh-hans: 奖章
+    zh-hant: 獎章
+    zh-hk: 獎章
+    zh-sg: 奖章
+    zh-tw: 獎章
 ---
-
 # [[Medallion]] 🏅 
 
 #is_/same_as :: [[WD~Medallion,131647]] 

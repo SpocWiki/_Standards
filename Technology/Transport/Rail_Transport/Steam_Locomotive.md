@@ -1,8 +1,165 @@
 ---
 has_id_wikidata: Q171043
+dv_has_:
+  name_:
+    af: stoomlokomotief
+    ang: Stēamtrǣg
+    ar: قاطرة بخارية
+    ast: llocomotora de vapor
+    az: Parovoz
+    bar: Damflok
+    be: паравоз
+    be-tarask: паравоз
+    bg: Парен локомотив
+    bxr: Ууралай зүдхүүр
+    ca: locomotora de vapor
+    cs: parní lokomotiva
+    cy: locomotif stêm
+    da: damplokomotiv
+    de: Dampflokomotive
+    el: Ατμάμαξα
+    en: steam locomotive
+    en-ca: steam locomotive
+    en-gb: steam locomotive
+    eo: vaporlokomotivo
+    es: locomotora de vapor
+    et: auruvedur
+    eu: Lurrun tren-makina
+    fa: لوکوموتیو بخار
+    fi: höyryveturi
+    fr: locomotive à vapeur
+    fy: Stoomlokomotyf
+    gd: Carbad-smùide
+    gl: locomotora de vapor
+    gsw: Dampflokomotyv
+    he: קטר קיטור
+    hr: parna lokomotiva
+    hu: gőzmozdony
+    hy: շոգեքարշ
+    id: Lokomotif uap
+    it: locomotiva a vapore
+    ja: 蒸気機関車
+    jv: Sepur uwab
+    kk: Паровоз
+    kn: ಉಗಿಬಂಡಿ
+    ko: 증기 기관차
+    kw: Jynn-ethenn hyns-horn
+    la: Vaporitraha
+    lt: garvežys
+    lv: Tvaika lokomotīve
+    min: Lokomotif uok
+    mk: парна локомотива
+    ms: Lokomotif wap
+    nb: damplokomotiv
+    nds: Damplokomotiv
+    nl: stoomlocomotief
+    nn: damplokomotiv
+    nv: Kǫʼ naʼałbąąsii
+    os: Паровоз
+    pl: lokomotywa parowa
+    pnb: بھاپ ریلوے انجن
+    pt: locomotiva a vapor
+    pt-br: locomotiva a vapor
+    qu: Wapsi antakuyu
+    ro: locomotivă cu abur
+    ru: паровоз
+    sah: Чаан тардар
+    sco: Steam locomotive
+    sd: ٻاڦ واري ريلوي انجڻ
+    sh: Parna lokomotiva
+    sk: parný rušeň
+    sl: parna lokomotiva
+    smn: lievlâkessee
+    sr: парна локомотива
+    sr-ec: парна локомотива
+    sr-el: parna lokomotiva
+    stq: Damp-Lokomotive
+    sv: ånglok
+    ta: நீராவி உந்துப் பொறி
+    te: స్టీము లోకోమోటివ్ చరిత్ర
+    th: รถจักรไอน้ำ
+    tr: Buharlı lokomotif
+    uk: паровоз
+    ur: بھاپ ریلوے انجن
+    uz: Parovoz
+    vi: đầu máy xe lửa hơi nước
+    wuu: 蒸汽机车
+    yi: דאמף-לאקאמאטיוו
+    yue: 蒸汽火車
+    zh: 蒸汽機車
+    zh-cn: 蒸汽机车
+    zh-hans: 蒸汽机车
+    zh-hant: 蒸汽機車
+    zh-hk: 蒸汽機車
+    zh-sg: 蒸汽机车
+    zh-tw: 蒸汽機車
+aliases:
+- auruvedur
+- Buharlı lokomotif
+- Carbad-smùide
+- Damflok
+- Damp-Lokomotive
+- Dampflokomotive
+- Dampflokomotyv
+- damplokomotiv
+- garvežys
+- gőzmozdony
+- höyryveturi
+- Jynn-ethenn hyns-horn
+- Kǫʼ naʼałbąąsii
+- lievlâkessee
+- llocomotora de vapor
+- locomotif stêm
+- locomotiva a vapor
+- locomotiva a vapore
+- locomotive à vapeur
+- locomotivă cu abur
+- locomotora de vapor
+- Lokomotif uap
+- Lokomotif uok
+- Lokomotif wap
+- lokomotywa parowa
+- Lurrun tren-makina
+- parna lokomotiva
+- parní lokomotiva
+- parný rušeň
+- Parovoz
+- Sepur uwab
+- steam locomotive
+- stoomlocomotief
+- stoomlokomotief
+- Stoomlokomotyf
+- Stēamtrǣg
+- Tvaika lokomotīve
+- Vaporitraha
+- vaporlokomotivo
+- Wapsi antakuyu
+- ånglok
+- đầu máy xe lửa hơi nước
+- Ατμάμαξα
+- паравоз
+- Парен локомотив
+- парна локомотива
+- паровоз
+- Ууралай зүдхүүр
+- Чаан тардар
+- շոգեքարշ
+- דאמף-לאקאמאטיוו
+- קטר קיטור
+- بھاپ ریلوے انجن
+- قاطرة بخارية
+- لوکوموتیو بخار
+- ٻاڦ واري ريلوي انجڻ
+- நீராவி உந்துப் பொறி
+- స్టీము లోకోమోటివ్ చరిత్ర
+- ಉಗಿಬಂಡಿ
+- รถจักรไอน้ำ
+- 蒸気機関車
+- 蒸汽机车
+- 蒸汽機車
+- 蒸汽火車
+- 증기 기관차
 ---
-
-
 # [[Steam_Locomotive]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Steam_locomotive,171043|WD~Steam_locomotive,171043]]  

@@ -1,42 +1,193 @@
 ---
 aliases:
-  - "Second Opium War (simplified Chinese: 第二次鸦片战争; traditional Chinese: 第二次鴉片戰爭), also known as the Second Anglo-Chinese War or Arrow War"
-  - 1856-Second_Opium_War+1860
-  - 1856-Second Opium War+1860
+- 1856-Second Opium War+1860
+- 1856-Second_Opium_War+1860
+- Al Doilea Război al Opiului
+- Anden opiumskrig
+- Andra opiumkriget
+- Andre opiumkrig
+- Antrasis Opiumo karas
+- Chiến tranh nha phiến lần thứ hai
+- Dara Cogadh an Óipiam
+- Den andre opiumskrigen
+- druga opijska vojna
+- Drugi opijumski rat
+- druhá opiová válka
+- Druhá ópiová vojna
+- Dua Opia Milito
+- II wojna opiumowa
+- II. Afyon Savaşı
+- Ikaduha nga Gera Opyo
+- Ikalawang Digmaang Laban sa Opyo
+- Ingliz-fransuz-xitoy urushi
+- második ópiumháború
+- Opioaren bigarren gerra
+- Otrais Opija karš
+- Perang Candu Kedua
+- Second Opium War
+- 'Second Opium War (simplified Chinese: 第二次鸦片战争; traditional Chinese: 第二次鴉片戰爭), also known as the Second Anglo-Chinese War or Arrow War'
+- seconda guera de l'òpio
+- seconda guerra dell'oppio
+- seconde guerre de l'opium
+- Segona Guerra de l'Opi
+- Segonda guèrra de l'òpi
+- Segunda Guerra del Opio
+- Segunda Guerra del Opiu
+- Segunda Guerra do Opio
+- Segunda Guerra do Ópio
+- Teine oopiumisõda
+- Toinen oopiumisota
+- Tweede Opiumoorlog
+- Tē 2 Chhù A-phiàn Chiàn-cheng
+- Zweiter Opiumkrieg
+- İkinci tiryək müharibəsi
+- Англия-Франция-Кытай согушу
+- Англо-франко-китайські війни 1856—60
+- Втора опиумна война
+- Втора опиумска војна
+- Вторая Опиумная война
+- Другая опіумная вайна
+- другая опіюмная вайна
+- Други опијумски рат
+- Дыккаг опиумы хæст
+- Икенсе әфиүн һуғышы
+- Иккĕмĕш опиум вăрçи
+- Ափիոնային երկրորդ պատերազմ
+- מלחמת האופיום השנייה
+- ایکینجی تریاک ساواشی
+- جنگ دوم تریاک
+- حرب الأفيون الثانية
+- حرب الافيون التانيه
+- دوسری افیونی جنگ
+- दूसरा अफीम युद्ध
+- இரண்டாம் அபினிப் போர்
+- දෙවන අබිං යුද්ධය
+- สงครามฝิ่นครั้งที่สอง
+- ოპიუმის მეორე ომი
+- アロー戦争
+- 第二次鴉片戰爭
+- 第二次鸦片战争
+- 제2차 아편 전쟁
+- ﺋﯩﻜﻜﯩﻨﭽﻰ ﻗﯩﺘﯩﻤﻠﯩﻖ ﯬﭘﻴﯘﻥ ﯰﺭﯗﺷﻰ
 has_id_wikidata: Q418151
 participant:
-  - "[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
+- '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 end_time: 1860-01-01T00:00:00Z
 point_in_time: 1856-10-08T00:00:00Z
 start_time: 1856-01-01T00:00:00Z
-instance_of: "[[_Standards/WikiData/WD~war,198]]"
+instance_of: '[[_Standards/WikiData/WD~war,198]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Second%20Opium%20War-guangzhou.jpg
 Commons_category: Second Opium War
 dv_is_:
   same_as:
-    - "[[../../../../../../../../WikiData/WD~Second_Opium_War,418151]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1856-Second_Opium_War+1860|1856-Second_Opium_War+1860]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1856-Second_Opium_War+1860.public|1856-Second_Opium_War+1860.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1856-Second_Opium_War+1860.internal|1856-Second_Opium_War+1860.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1856-Second_Opium_War+1860.protect|1856-Second_Opium_War+1860.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1856-Second_Opium_War+1860.private|1856-Second_Opium_War+1860.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1856-Second_Opium_War+1860.personal|1856-Second_Opium_War+1860.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1856-Second_Opium_War+1860.secret|1856-Second_Opium_War+1860.secret]]"
+  - '[[../../../../../../../../WikiData/WD~Second_Opium_War,418151]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1856-Second_Opium_War+1860|1856-Second_Opium_War+1860]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1856-Second_Opium_War+1860.public|1856-Second_Opium_War+1860.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1856-Second_Opium_War+1860.internal|1856-Second_Opium_War+1860.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1856-Second_Opium_War+1860.protect|1856-Second_Opium_War+1860.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1856-Second_Opium_War+1860.private|1856-Second_Opium_War+1860.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1856-Second_Opium_War+1860.personal|1856-Second_Opium_War+1860.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1856-Second_Opium_War+1860.secret|1856-Second_Opium_War+1860.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Second_Opium_War,418151]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1856-Second_Opium_War+1860|1856-Second_Opium_War+1860]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1856-Second_Opium_War+1860.public|1856-Second_Opium_War+1860.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1856-Second_Opium_War+1860.internal|1856-Second_Opium_War+1860.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1856-Second_Opium_War+1860.protect|1856-Second_Opium_War+1860.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1856-Second_Opium_War+1860.private|1856-Second_Opium_War+1860.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1856-Second_Opium_War+1860.personal|1856-Second_Opium_War+1860.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1856-Second_Opium_War+1860.secret|1856-Second_Opium_War+1860.secret]]"
+- '[[../../../../../../../../WikiData/WD~Second_Opium_War,418151]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1856-Second_Opium_War+1860|1856-Second_Opium_War+1860]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1856-Second_Opium_War+1860.public|1856-Second_Opium_War+1860.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1856-Second_Opium_War+1860.internal|1856-Second_Opium_War+1860.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1856-Second_Opium_War+1860.protect|1856-Second_Opium_War+1860.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1856-Second_Opium_War+1860.private|1856-Second_Opium_War+1860.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1856-Second_Opium_War+1860.personal|1856-Second_Opium_War+1860.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1856-Second_Opium_War+1860.secret|1856-Second_Opium_War+1860.secret]]'
+dv_has_:
+  name_:
+    af: Tweede Opiumoorlog
+    ar: حرب الأفيون الثانية
+    arz: حرب الافيون التانيه
+    ast: Segunda Guerra del Opiu
+    az: İkinci tiryək müharibəsi
+    azb: ایکینجی تریاک ساواشی
+    ba: Икенсе әфиүн һуғышы
+    be: Другая опіумная вайна
+    be-tarask: другая опіюмная вайна
+    bg: Втора опиумна война
+    bs: Drugi opijumski rat
+    ca: Segona Guerra de l'Opi
+    cs: druhá opiová válka
+    cv: Иккĕмĕш опиум вăрçи
+    da: Anden opiumskrig
+    de: Zweiter Opiumkrieg
+    de-ch: Zweiter Opiumkrieg
+    en: Second Opium War
+    en-ca: Second Opium War
+    en-gb: Second Opium War
+    eo: Dua Opia Milito
+    es: Segunda Guerra del Opio
+    et: Teine oopiumisõda
+    eu: Opioaren bigarren gerra
+    fa: جنگ دوم تریاک
+    fi: Toinen oopiumisota
+    fr: seconde guerre de l'opium
+    ga: Dara Cogadh an Óipiam
+    gl: Segunda Guerra do Opio
+    he: מלחמת האופיום השנייה
+    hi: दूसरा अफीम युद्ध
+    hr: Drugi opijumski rat
+    hu: második ópiumháború
+    hy: Ափիոնային երկրորդ պատերազմ
+    id: Perang Candu Kedua
+    it: seconda guerra dell'oppio
+    ja: アロー戦争
+    ka: ოპიუმის მეორე ომი
+    ko: 제2차 아편 전쟁
+    ky: Англия-Франция-Кытай согушу
+    lt: Antrasis Opiumo karas
+    lv: Otrais Opija karš
+    mk: Втора опиумска војна
+    ms: Perang Candu Kedua
+    nan: Tē 2 Chhù A-phiàn Chiàn-cheng
+    nb: Andre opiumkrig
+    nl: Tweede Opiumoorlog
+    nn: Den andre opiumskrigen
+    oc: Segonda guèrra de l'òpi
+    os: Дыккаг опиумы хæст
+    pl: II wojna opiumowa
+    pnb: دوسری افیونی جنگ
+    pt: Segunda Guerra do Ópio
+    pt-br: Segunda Guerra do Ópio
+    ro: Al Doilea Război al Opiului
+    ru: Вторая Опиумная война
+    sh: Drugi opijumski rat
+    si: දෙවන අබිං යුද්ධය
+    sk: Druhá ópiová vojna
+    sl: druga opijska vojna
+    sr: Други опијумски рат
+    sr-ec: Други опијумски рат
+    sv: Andra opiumkriget
+    ta: இரண்டாம் அபினிப் போர்
+    th: สงครามฝิ่นครั้งที่สอง
+    tl: Ikalawang Digmaang Laban sa Opyo
+    tr: II. Afyon Savaşı
+    ug: ﺋﯩﻜﻜﯩﻨﭽﻰ ﻗﯩﺘﯩﻤﻠﯩﻖ ﯬﭘﻴﯘﻥ ﯰﺭﯗﺷﻰ
+    uk: Англо-франко-китайські війни 1856—60
+    ur: دوسری افیونی جنگ
+    uz: Ingliz-fransuz-xitoy urushi
+    vec: seconda guera de l'òpio
+    vi: Chiến tranh nha phiến lần thứ hai
+    war: Ikaduha nga Gera Opyo
+    wuu: 第二次鸦片战争
+    yue: 第二次鴉片戰爭
+    zh: 第二次鸦片战争
+    zh-cn: 第二次鸦片战争
+    zh-hans: 第二次鸦片战争
+    zh-hk: 第二次鴉片戰爭
+    zh-mo: 第二次鴉片戰爭
+    zh-my: 第二次鸦片战争
+    zh-sg: 第二次鸦片战争
+    zh-tw: 第二次鴉片戰爭
 ---
-
 # [[1856-Second_Opium_War+1860]] 
 
 #is_/same_as :: [[WD~Second_Opium_War,418151]] 

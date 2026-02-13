@@ -1,40 +1,84 @@
 ---
-has_time_started: 1985-10-04 
+has_time_started: 1985-10-04
 aliases:
-  - Free_Software_Foundation
-  - Free Software Foundation
+- Azad proqram təminatı fondu
+- Brīvās programmatūras fonds
+- Fondacija za slobodni softver
+- Fondacion pel Logicial Liure
+- Fondaĵo por Libera Programaro
+- Free Software Foundation
+- Free_Software_Foundation
+- Frjálsa hugbúnaðarstofnunin
+- Fundación del Software Llibre
+- Fundatio programmaturae liberae
+- Fundation pro Software Libere
+- Fundația pentru Software Liber
+- Laisvosios programinės įrangos fondas
+- Quỹ Phần mềm Tự do
+- Shirika la Bidhaa Pepe Huru
+- Yayasan Perangkat Lunak Bebas
+- Yayasan Perisian Bebas
+- Zaklada za slobodan softver
+- Özgür Yazılım Vakfı
+- Ίδρυμα Ελεύθερου Λογισμικού
+- Задужбина за слободни софтвер
+- Фонд вільного програмного забезпечення
+- Фонд Свабоднага праграмнага забеспячэння
+- Фонд свободного программного обеспечения
+- Фондација за слободна програмска опрема
+- Фондация за свободен софтуер
+- Фундацыя вольнага апраграмаваньня
+- Эрыкан ПВ фонд
+- Ազատ ծրագրային ապահովման հիմնադրամ
+- המוסד לתוכנה חופשית
+- بنیاد نرمافزار آزاد
+- ساموٙنجا نأرم أفزاریا آزاد
+- مؤسسة البرمجيات الحرة
+- फ्री सॉफ्टवेअर फाउंडेशन
+- मुक्त सॉफ्टवेयर संगठन
+- ফ্রি সফটওয়্যার ফাউন্ডেশন
+- ਫ੍ਰੀ ਸਾਫਟਵੇਅਰ ਫਾਊਂਡੇਸ਼ਨ
+- கட்டற்ற மென்பொருள் இயக்கம்
+- സ്വതന്ത്ര സോഫ്റ്റ്വെയർ സമിതി
+- ෆ්රී සොෆ්ට්වෙයා ෆඋන්ඩේශන්
+- มูลนิธิซอฟต์แวร์เสรี
+- フリーソフトウェア財団
+- 自由軟件基金會
+- 自由軟體基金會
+- 自由软件基金会
+- 자유 소프트웨어 재단
 has_id_wikidata: Q48413
 Mastodon_address: fsf@hostux.social
 street_address: '31 Milk St # 960789, Boston, MA 02196, USA'
 Debian_Wiki_article: fr/FreeSoftwareFoundation
 instance_of:
-  - '[[_Standards/WikiData/WD~non_governmental_organization,79913]]'
-  - '[[_Standards/WikiData/WD~nonprofit_organization,163740]]'
-  - '[[_Standards/WikiData/WD~charitable_organization,708676]]'
+- '[[_Standards/WikiData/WD~non_governmental_organization,79913]]'
+- '[[_Standards/WikiData/WD~nonprofit_organization,163740]]'
+- '[[_Standards/WikiData/WD~charitable_organization,708676]]'
 board_member:
-  - '[[_Standards/WikiData/WD~Gerald_Jay_Sussman,92981]]'
-  - '[[_Standards/WikiData/WD~Hal_Abelson,770584]]'
-  - '[[_Standards/WikiData/WD~Bradley_M._Kuhn,2305639]]'
-  - '[[_Standards/WikiData/WD~Geoffrey_Knauth,5534733]]'
-  - '[[_Standards/WikiData/WD~Henry_Poole,5727145]]'
-  - '[[_Standards/WikiData/WD~Matthew_Garrett,15999901]]'
-  - '[[_Standards/WikiData/WD~Ian_Kelling,106280078]]'
-  - '[[_Standards/WikiData/WD~Richard_Stallman,7439]]'
-  - '[[_Standards/WikiData/WD~Kat_Walsh,7545]]'
-  - '[[_Standards/WikiData/WD~Benjamin_Mako_Hill,49656]]'
+- '[[_Standards/WikiData/WD~Gerald_Jay_Sussman,92981]]'
+- '[[_Standards/WikiData/WD~Hal_Abelson,770584]]'
+- '[[_Standards/WikiData/WD~Bradley_M._Kuhn,2305639]]'
+- '[[_Standards/WikiData/WD~Geoffrey_Knauth,5534733]]'
+- '[[_Standards/WikiData/WD~Henry_Poole,5727145]]'
+- '[[_Standards/WikiData/WD~Matthew_Garrett,15999901]]'
+- '[[_Standards/WikiData/WD~Ian_Kelling,106280078]]'
+- '[[_Standards/WikiData/WD~Richard_Stallman,7439]]'
+- '[[_Standards/WikiData/WD~Kat_Walsh,7545]]'
+- '[[_Standards/WikiData/WD~Benjamin_Mako_Hill,49656]]'
 interested_in:
-  - '[[_Standards/WikiData/WD~digital_rights,113462]]'
-  - '[[_Standards/WikiData/WD~free_software,341]]'
+- '[[_Standards/WikiData/WD~digital_rights,113462]]'
+- '[[_Standards/WikiData/WD~free_software,341]]'
 owner_of:
-  - '[[_Standards/WikiData/WD~GNU_Savannah,1007059]]'
-  - '[[_Standards/WikiData/WD~Defective_by_Design,1182568]]'
-  - '[[_Standards/WikiData/WD~Gna!,1972275]]'
-  - '[[_Standards/WikiData/WD~GNU.org,27980040]]'
+- '[[_Standards/WikiData/WD~GNU_Savannah,1007059]]'
+- '[[_Standards/WikiData/WD~Defective_by_Design,1182568]]'
+- '[[_Standards/WikiData/WD~Gna!,1972275]]'
+- '[[_Standards/WikiData/WD~GNU.org,27980040]]'
 movement: '[[_Standards/WikiData/WD~free_software_movement,1076638]]'
 source_of_income: '[[_Standards/WikiData/WD~donation,1124860]]'
 chairperson:
-  - '[[_Standards/WikiData/WD~Geoffrey_Knauth,5534733]]'
-  - '[[_Standards/WikiData/WD~Richard_Stallman,7439]]'
+- '[[_Standards/WikiData/WD~Geoffrey_Knauth,5534733]]'
+- '[[_Standards/WikiData/WD~Richard_Stallman,7439]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Free_Software_Foundation,6465422]]'
 legal_form: '[[_Standards/WikiData/WD~501(c)(3)_organization,18325436]]'
 website_account_on: '[[_Standards/WikiData/WD~GNU_social,20204906]]'
@@ -47,30 +91,30 @@ affiliation: '[[_Standards/WikiData/WD~GNU_Project,7598]]'
 partially_coincident_with: '[[_Standards/WikiData/WD~GNU_Project,7598]]'
 country: '[[_Standards/WikiData/WD~United_States,30]]'
 headquarters_location:
-  - '[[_Standards/WikiData/WD~Boston,100]]'
-  - '[[_Standards/WikiData/WD~Cambridge,49111]]'
+- '[[_Standards/WikiData/WD~Boston,100]]'
+- '[[_Standards/WikiData/WD~Cambridge,49111]]'
 member_count: 5000
 autonomous_system_number: 22989
 social_media_followers: 57457
 total_revenue:
-  - 2183470
-  - 1053536
-  - 1294906
-  - 1339791
-  - 1352816
-  - 1373574
-  - 2628996
+- 2183470
+- 1053536
+- 1294906
+- 1339791
+- 1352816
+- 1373574
+- 2628996
 donations:
-  - 958711
-  - 1299489
-  - 1368407
-  - 2091019
+- 958711
+- 1299489
+- 1368407
+- 2091019
 Commons_gallery: Free Software Foundation
 Commons_category: Free Software Foundation
 total_assets:
-  - 1818559
-  - 2363877
-  - 2638303
+- 1818559
+- 2363877
+- 2638303
 short_name: FSF
 X_Twitter_username: fsf
 ACM_Classification_Code_2012_: 10011281
@@ -92,8 +136,94 @@ IRS_Employer_Identification_Number: 04-2888848
 review_score: 97.15/100
 ComputerLanguage_com_definition: Free+Software+Foundation
 PeerTube_channel_address: fsf@framatube.org
+dv_has_:
+  name_:
+    ar: مؤسسة البرمجيات الحرة
+    ast: Fundación del Software Llibre
+    az: Azad proqram təminatı fondu
+    bar: Free Software Foundation
+    be: Фонд Свабоднага праграмнага забеспячэння
+    be-tarask: Фундацыя вольнага апраграмаваньня
+    bg: Фондация за свободен софтуер
+    bn: ফ্রি সফটওয়্যার ফাউন্ডেশন
+    br: Free Software Foundation
+    bs: Fondacija za slobodni softver
+    ca: Free Software Foundation
+    cs: Free Software Foundation
+    cy: Free Software Foundation
+    da: Free Software Foundation
+    de: Free Software Foundation
+    el: Ίδρυμα Ελεύθερου Λογισμικού
+    eo: Fondaĵo por Libera Programaro
+    es: Free Software Foundation
+    et: Free Software Foundation
+    eu: Free Software Foundation
+    fa: بنیاد نرمافزار آزاد
+    fi: Free Software Foundation
+    fr: Free Software Foundation
+    ga: Free Software Foundation
+    gl: Free Software Foundation
+    ha: Free Software Foundation
+    he: המוסד לתוכנה חופשית
+    hi: मुक्त सॉफ्टवेयर संगठन
+    hr: Zaklada za slobodan softver
+    hsb: Free Software Foundation
+    hu: Free Software Foundation
+    hy: Ազատ ծրագրային ապահովման հիմնադրամ
+    ia: Fundation pro Software Libere
+    id: Yayasan Perangkat Lunak Bebas
+    is: Frjálsa hugbúnaðarstofnunin
+    it: Free Software Foundation
+    ja: フリーソフトウェア財団
+    ko: 자유 소프트웨어 재단
+    ky: Free Software Foundation
+    la: Fundatio programmaturae liberae
+    lb: Free Software Foundation
+    lij: Free Software Foundation
+    lrc: ساموٙنجا نأرم أفزاریا آزاد
+    lt: Laisvosios programinės įrangos fondas
+    lv: Brīvās programmatūras fonds
+    mhr: Эрыкан ПВ фонд
+    mk: Фондација за слободна програмска опрема
+    ml: സ്വതന്ത്ര സോഫ്റ്റ്വെയർ സമിതി
+    mr: फ्री सॉफ्टवेअर फाउंडेशन
+    ms: Yayasan Perisian Bebas
+    mul: Free Software Foundation
+    nb: Free Software Foundation
+    nds-nl: Free Software Foundation
+    nl: Free Software Foundation
+    nn: Free Software Foundation
+    oc: Fondacion pel Logicial Liure
+    pa: ਫ੍ਰੀ ਸਾਫਟਵੇਅਰ ਫਾਊਂਡੇਸ਼ਨ
+    pl: Free Software Foundation
+    pt: Free Software Foundation
+    ro: Fundația pentru Software Liber
+    ru: Фонд свободного программного обеспечения
+    sco: Free Software Foundation
+    sh: Fondacija za slobodni softver
+    si: ෆ්රී සොෆ්ට්වෙයා ෆඋන්ඩේශන්
+    sk: Free Software Foundation
+    sl: Free Software Foundation
+    sr: Задужбина за слободни софтвер
+    sv: Free Software Foundation
+    sw: Shirika la Bidhaa Pepe Huru
+    ta: கட்டற்ற மென்பொருள் இயக்கம்
+    th: มูลนิธิซอฟต์แวร์เสรี
+    tl: Free Software Foundation
+    tr: Özgür Yazılım Vakfı
+    uk: Фонд вільного програмного забезпечення
+    vi: Quỹ Phần mềm Tự do
+    wuu: 自由软件基金会
+    yue: 自由軟件基金會
+    zh: 自由软件基金会
+    zh-cn: 自由软件基金会
+    zh-hans: 自由软件基金会
+    zh-hant: 自由軟體基金會
+    zh-hk: 自由軟件基金會
+    zh-mo: 自由軟件基金會
+    zh-sg: 自由软件基金会
+    zh-tw: 自由軟體基金會
 ---
-
 # [[Free_Software_Foundation]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Free_Software_Foundation,48413|WD~Free_Software_Foundation,48413]] 

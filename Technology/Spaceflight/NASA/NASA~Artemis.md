@@ -1,36 +1,81 @@
 ---
 aliases:
-  - Artemis_program
-  - NASA Artemis
+- Artemida (kosmik dastur)
+- Artemida proqramı
+- Artemis
+- Artemis program
+- Artemis programa
+- Artemis Projesi
+- Artemis-program
+- Artemis-Programm
+- Artemis-programmet
+- Artemise programm
+- Artemisprogramma
+- Artemisprogrammet
+- Artemis_program
+- Chương trình Artemis
+- kulupu mun Atemi
+- NASA Artemis
+- Program Artemis
+- Programa Artemis
+- Programa Artemisa
+- programa Àrtemis
+- Programm Artemis
+- Programma Artemis
+- programme Artemis
+- Programo Artemis
+- Programul Artemis
+- rhaglen Artemis
+- Πρόγραμμα Άρτεμις
+- Артемида
+- Артемида (космос программи)
+- Артемида (програма)
+- Артемис
+- Артэміда
+- תוכנית ארטמיס
+- آرتمیس فضايي پروګرام
+- آرتمیس پروگرام
+- برنامج أرتيمس
+- برنامه فضایی آرتمیس
+- आर्टेमिस कार्यक्रम
+- আর্টেমিস প্রোগ্রাম
+- ആർട്ടെമിസ്
+- ආර්ටිමිස් වැඩසටහන
+- โครงการอาร์ทิมิส
+- アルテミス計画
+- 阿提米絲計劃
+- 阿耳忒弥斯登月计划
+- 阿耳忒弥斯计划
+- 아르테미스 계획
 has_id_wikidata: Q63819987
 uses:
-  - "[[_Standards/WikiData/WD~Orion,211727]]"
-  - "[[_Standards/WikiData/WD~Blue_Moon,39045528]]"
-  - "[[_Standards/WikiData/WD~Starship,62833385]]"
-  - "[[_Standards/WikiData/WD~Starship_Human_Landing_System,98168901]]"
-  - "[[_Standards/WikiData/WD~Space_Launch_System,64127]]"
+- '[[_Standards/WikiData/WD~Orion,211727]]'
+- '[[_Standards/WikiData/WD~Blue_Moon,39045528]]'
+- '[[_Standards/WikiData/WD~Starship,62833385]]'
+- '[[_Standards/WikiData/WD~Starship_Human_Landing_System,98168901]]'
+- '[[_Standards/WikiData/WD~Space_Launch_System,64127]]'
 start_point:
-  - "[[_Standards/WikiData/WD~Cape_Canaveral_Space_Force_Station,334465]]"
-  - "[[_Standards/WikiData/WD~Kennedy_Space_Center,48821]]"
-has_goal: "[[_Standards/WikiData/WD~exploration_of_the_Moon,1064739]]"
-significant_event: "[[_Standards/WikiData/WD~maiden_flight,1362364]]"
+- '[[_Standards/WikiData/WD~Cape_Canaveral_Space_Force_Station,334465]]'
+- '[[_Standards/WikiData/WD~Kennedy_Space_Center,48821]]'
+has_goal: '[[_Standards/WikiData/WD~exploration_of_the_Moon,1064739]]'
+significant_event: '[[_Standards/WikiData/WD~maiden_flight,1362364]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Artemis_I,3389152]]"
-  - "[[_Standards/WikiData/WD~Artemis_II,16947045]]"
-  - "[[_Standards/WikiData/WD~Artemis_III,21028127]]"
-  - "[[_Standards/WikiData/WD~Lunar_Gateway,29098442]]"
-  - "[[_Standards/WikiData/WD~Artemis_IV,60846240]]"
-  - "[[_Standards/WikiData/WD~Starship,62833385]]"
-  - "[[_Standards/WikiData/WD~Artemis_V,110823547]]"
+- '[[_Standards/WikiData/WD~Artemis_I,3389152]]'
+- '[[_Standards/WikiData/WD~Artemis_II,16947045]]'
+- '[[_Standards/WikiData/WD~Artemis_III,21028127]]'
+- '[[_Standards/WikiData/WD~Lunar_Gateway,29098442]]'
+- '[[_Standards/WikiData/WD~Artemis_IV,60846240]]'
+- '[[_Standards/WikiData/WD~Starship,62833385]]'
+- '[[_Standards/WikiData/WD~Artemis_V,110823547]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~human_spaceflight_program,13226541]]"
-  - "[[_Standards/WikiData/WD~NASA_program,21605492]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Artemis_program,63910399]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Artemis_program,64007679]]"
-operator: "[[_Standards/WikiData/WD~National_Aeronautics_and_Space_Administration,23548]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
+- '[[_Standards/WikiData/WD~human_spaceflight_program,13226541]]'
+- '[[_Standards/WikiData/WD~NASA_program,21605492]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Artemis_program,63910399]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Artemis_program,64007679]]'
+operator: '[[_Standards/WikiData/WD~National_Aeronautics_and_Space_Administration,23548]]'
+country: '[[_Standards/WikiData/WD~United_States,30]]'
 capital_cost: 35000000000
-named_after: "[[_Standards/WikiData/WD~Artemis,39503]]"
+named_after: '[[_Standards/WikiData/WD~Artemis,39503]]'
 social_media_followers: 480791
 hashtag: Artemis
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Artemis%20program%20%28solid%20contrast%20with%20wordmark%29.svg
@@ -41,8 +86,68 @@ subreddit: ArtemisProgram
 Instagram_username: nasaartemis
 X_Twitter_username: NASAArtemis
 start_time: 2017-01-01T00:00:00Z
+dv_has_:
+  name_:
+    af: Artemis-program
+    an: Programa Artemis
+    ar: برنامج أرتيمس
+    ast: Programa Artemis
+    az: Artemida proqramı
+    be-tarask: Артэміда
+    bg: Артемида (програма)
+    bn: আর্টেমিস প্রোগ্রাম
+    br: Programm Artemis
+    bs: Artemis program
+    ca: programa Àrtemis
+    cs: Program Artemis
+    cv: Артемида (космос программи)
+    cy: rhaglen Artemis
+    de: Artemis-Programm
+    el: Πρόγραμμα Άρτεμις
+    en: Artemis program
+    eo: Programo Artemis
+    es: Programa Artemisa
+    et: Artemise programm
+    eu: Artemis programa
+    fa: برنامه فضایی آرتمیس
+    fi: Artemis
+    fr: programme Artemis
+    he: תוכנית ארטמיס
+    hi: आर्टेमिस कार्यक्रम
+    hr: Program Artemis
+    hu: Artemis-program
+    id: Program Artemis
+    it: Programma Artemis
+    ja: アルテミス計画
+    ko: 아르테미스 계획
+    la: Programma Artemis
+    mk: Артемис
+    ml: ആർട്ടെമിസ്
+    ms: Program Artemis
+    nb: Artemis-programmet
+    nl: Artemisprogramma
+    pl: Program Artemis
+    pnb: آرتمیس پروگرام
+    ps: آرتمیس فضايي پروګرام
+    pt: Programa Artemis
+    pt-br: Programa Artemis
+    ro: Programul Artemis
+    ru: Артемида
+    si: ආර්ටිමිස් වැඩසටහන
+    sk: Program Artemis
+    sl: program Artemis
+    sv: Artemisprogrammet
+    th: โครงการอาร์ทิมิส
+    tok: kulupu mun Atemi
+    tr: Artemis Projesi
+    uk: Artemis
+    ur: آرتمیس پروگرام
+    uz: Artemida (kosmik dastur)
+    vi: Chương trình Artemis
+    zh: 阿耳忒弥斯计划
+    zh-hans: 阿耳忒弥斯登月计划
+    zh-tw: 阿提米絲計劃
 ---
-
 # [[NASA~Artemis]] 
 
 #is_/same_as :: [[WD~NASA~Artemis,63819987]]

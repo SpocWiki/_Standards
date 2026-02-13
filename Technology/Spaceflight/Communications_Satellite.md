@@ -1,26 +1,170 @@
 ---
 aliases:
-  - Kommunikationssatellit
-  - Communications_Satellite
-  - Communications Satellite
+- Aloqa sun'iy yo'ldoshi
+- communicatiesatelliet
+- Communications Satellite
+- Communications_Satellite
+- haberleşme uydusu
+- Isivoko sokuxhumana
+- kommunikasiya peyki
+- kommunikasjonssatellitt
+- Kommunikationssatellit
+- Kommunikatiounssatellit
+- Kommunikatschoonssatellit
+- komunika satelito
+- Komunikacijski satelit
+- Komunikacioni satelit
+- Komunikazio satelite
+- Komunikimet satelitore
+- Ryšių palydovas
+- Sakaru pavadonis
+- Satelayt pankomunikasyon
+- satelit de comunicații
+- Satelit komunikasi
+- satelita telekomunikacyjny
+- satellite de télécommunications
+- satellite per telecomunicazioni
+- satèl·lit de comunicacions
+- satélite de comunicaciones
+- satélite de comunicacións
+- satélite de comunicação
+- satélite de comunicações
+- sidesatelliit
+- telekomunikační družice
+- tietoliikennesatelliitti
+- távközlési műhold
+- Vệ tinh thông tin
+- τηλεπικοινωνιακός δορυφόρος
+- Байланыс серігі
+- Комуникационен сателит
+- комуникациони сателит
+- комуникациски сателит
+- Спадарожнік сувязі
+- спутник связи
+- супутниковий зв’язок
+- Хиймэл дагуулын холбоо
+- Կապի արբանյակ
+- לוויין תקשורת
+- ساتليت کومونيکاسي
+- قمر اصطناعي للاتصالات
+- مانگی دەستکردی پەیوەندییەکان
+- ماهواره مخابراتی
+- مواصلاتی سیارہ
+- संचार उपग्रह
+- যোগাযোগ উপগ্রহ
+- தகவல் தொடர்பு செயற்கைக்கோள்
+- సమాచార ఉపగ్రహము
+- ಸಂಪರ್ಕ ಉಪಗ್ರಹ
+- വാർത്താവിനിമയ ഉപഗ്രഹം
+- ดาวเทียมสื่อสาร
+- ဂြိုဟ်တုဆက်သွယ်ရေး
+- လၢဝ်ပွမ်တီႈၵပ်းသိုပ်ႇ
+- 通信卫星
+- 通信衛星
+- 通訊衛星
+- 通訊衞星
+- 通讯卫星
+- 통신 위성
 has_id_wikidata: Q149918
-has_use: "[[../../WikiData/WD~Satellite_communication,2225985]]"
-subclass_of: "[[_Standards/WikiData/WD~artificial_satellite_of_the_Earth,12832168]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_communications_satellite,13965330]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-instance_of: "[[_Standards/WikiData/WD~spacecraft_type,131610589]]"
+has_use: '[[../../WikiData/WD~Satellite_communication,2225985]]'
+subclass_of: '[[_Standards/WikiData/WD~artificial_satellite_of_the_Earth,12832168]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_communications_satellite,13965330]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+instance_of: '[[_Standards/WikiData/WD~spacecraft_type,131610589]]'
 Nomenclature_for_Museum_Cataloging: 11739
-Unicode_character: 🛰
+Unicode_character: "\U0001F6F0"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/AFSATCOM%20diagram.PNG
 MIL_STD_2525_Symbol_Identification_Code:
-  - 10010500001111000000
-  - 10010500001206000000
+- 10010500001111000000
+- 10010500001206000000
 Iconclass_notation: .inf
 P8189: 987007294962805100
 Commons_category: Communication satellites
 Krugosvet_article: nauka_i_tehnika/transport_i_svyaz/SPUTNIK_SVYAZI.html
+dv_has_:
+  name_:
+    ar: قمر اصطناعي للاتصالات
+    ast: satélite de comunicaciones
+    az: kommunikasiya peyki
+    be: Спадарожнік сувязі
+    be-tarask: спадарожнік сувязі
+    bg: Комуникационен сателит
+    bn: যোগাযোগ উপগ্রহ
+    bs: Komunikacioni satelit
+    ca: satèl·lit de comunicacions
+    ckb: مانگی دەستکردی پەیوەندییەکان
+    cs: telekomunikační družice
+    da: kommunikationssatellit
+    de: Kommunikationssatellit
+    el: τηλεπικοινωνιακός δορυφόρος
+    en: communications satellite
+    eo: komunika satelito
+    es: satélite de comunicaciones
+    et: sidesatelliit
+    eu: Komunikazio satelite
+    fa: ماهواره مخابراتی
+    fi: tietoliikennesatelliitti
+    fr: satellite de télécommunications
+    gl: satélite de comunicacións
+    he: לוויין תקשורת
+    hi: संचार उपग्रह
+    hr: Komunikacijski satelit
+    hu: távközlési műhold
+    hy: Կապի արբանյակ
+    id: Satelit komunikasi
+    it: satellite per telecomunicazioni
+    ja: 通信衛星
+    kk: Байланыс серігі
+    kn: ಸಂಪರ್ಕ ಉಪಗ್ರಹ
+    ko: 통신 위성
+    lb: Kommunikatiounssatellit
+    lt: Ryšių palydovas
+    lv: Sakaru pavadonis
+    min: Satelit komunikasi
+    mk: комуникациски сателит
+    ml: വാർത്താവിനിമയ ഉപഗ്രഹം
+    mn: Хиймэл дагуулын холбоо
+    ms: satelit komunikasi
+    ms-arab: ساتليت کومونيکاسي
+    my: ဂြိုဟ်တုဆက်သွယ်ရေး
+    nb: kommunikasjonssatellitt
+    nds: Kommunikatschoonssatellit
+    nl: communicatiesatelliet
+    nn: kommunikasjonssatellitt
+    pl: satelita telekomunikacyjny
+    pt: satélite de comunicação
+    pt-br: satélite de comunicações
+    ro: satelit de comunicații
+    ru: спутник связи
+    sh: Komunikacijski satelit
+    shn: လၢဝ်ပွမ်တီႈၵပ်းသိုပ်ႇ
+    sl: komunikacijski satelit
+    sq: Komunikimet satelitore
+    sr: комуникациони сателит
+    sr-ec: комуникациони сателит
+    sr-el: komunikacioni satelit
+    su: Satelit Komunikasi
+    sv: kommunikationssatellit
+    ta: தகவல் தொடர்பு செயற்கைக்கோள்
+    te: సమాచార ఉపగ్రహము
+    th: ดาวเทียมสื่อสาร
+    tr: haberleşme uydusu
+    uk: супутниковий зв’язок
+    ur: مواصلاتی سیارہ
+    uz: Aloqa sun'iy yo'ldoshi
+    vi: Vệ tinh thông tin
+    war: Satelayt pankomunikasyon
+    wuu: 通信卫星
+    yue: 通訊衞星
+    zh: 通訊衛星
+    zh-cn: 通讯卫星
+    zh-hans: 通讯卫星
+    zh-hant: 通訊衛星
+    zh-hk: 通訊衞星
+    zh-sg: 通讯卫星
+    zh-tw: 通訊衛星
+    zu: Isivoko sokuxhumana
 ---
-
 # [[Communications_Satellite]] 🛰 
 
 #is_/same_as :: [[../../WikiData/WD~Communications_satellite,149918|WD~Communications_satellite,149918]] 

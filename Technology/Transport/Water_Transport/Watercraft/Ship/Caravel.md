@@ -1,7 +1,44 @@
 ---
 aliases:
-  - Karavelle
-  - Caravel
+- carabela
+- Carabella
+- Carafel
+- Caravel
+- caravela
+- caravella
+- caravelle
+- caravel·la
+- caravelă
+- Caravèla
+- carbhal
+- Karabela
+- karavel
+- karavela
+- Karavelenn
+- karaveli
+- karavell
+- Karavella
+- Karavelle
+- Karavelo
+- Karavelė
+- Karawela
+- Karveel
+- Καραβέλα
+- Каравела
+- Каравелла
+- каравэльля
+- Կարավելլա
+- קרוולה
+- كارافيل
+- کاراول
+- کاراڤەل
+- ਕਾਰਾਵਲ
+- კარაველი
+- キャラベル船
+- 卡拉維爾帆船
+- 卡拉维尔帆船
+- 輕快帆船
+- 캐러벨
 has_id_wikidata: Q169560
 subclass_of: '[[_Standards/WikiData/WD~sailing_ship,170483]]'
 described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
@@ -10,8 +47,83 @@ discoverer_or_inventor: http://www.wikidata.org/.well-known/genid/0e216915ba3cf9
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Caravela%20Vera%20Cruz%20no%20rio%20Tejo.jpg
 P8189: 987007548938405171
 Commons_category: Caravels
+dv_has_:
+  name_:
+    af: Karveel
+    ar: كارافيل
+    ast: Carabela
+    az: Karavella
+    be: Каравела
+    be-tarask: каравэльля
+    bg: Каравела
+    br: Karavelenn
+    bs: Karavela
+    ca: caravel·la
+    cs: karavela
+    cy: Carafel
+    da: karavel
+    de: Karavelle
+    el: Καραβέλα
+    en: caravel
+    eo: Karavelo
+    es: carabela
+    et: Karavell
+    eu: Karabela
+    fa: کاراول
+    fi: karaveli
+    fr: caravelle
+    ga: carbhal
+    gl: carabela
+    he: קרוולה
+    hr: Karavela
+    hu: karavella
+    hy: Կարավելլա
+    id: Karavel
+    io: Karavelo
+    is: Karavella
+    it: caravella
+    ja: キャラベル船
+    ka: კარაველი
+    ko: 캐러벨
+    ku: Karavel
+    ku-arab: کاراڤەل
+    ku-latn: Karavel
+    ky: Каравелла
+    la: Carabella
+    lt: Karavelė
+    mk: Каравела
+    ms: Caravel
+    nb: karavell
+    nl: karveel
+    nn: karavell
+    oc: Caravèla
+    pa: ਕਾਰਾਵਲ
+    pl: Karawela
+    pt: caravela
+    pt-br: caravela
+    ro: caravelă
+    ru: Каравелла
+    sco: caravel
+    sh: Karavela
+    sl: karavela
+    sq: Karavela
+    sr: Каравела
+    sr-ec: Каравела
+    sr-el: Karavela
+    sv: karavell
+    tl: Karabela
+    tr: Karavel
+    uk: Каравела
+    vi: Caravel
+    yue: 輕快帆船
+    zh: 卡拉維爾帆船
+    zh-cn: 卡拉维尔帆船
+    zh-hans: 卡拉维尔帆船
+    zh-hant: 卡拉維爾帆船
+    zh-hk: 卡拉維爾帆船
+    zh-sg: 卡拉维尔帆船
+    zh-tw: 卡拉維爾帆船
 ---
-
 # [[Caravel]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Caravel,169560|WD~Caravel,169560]] 

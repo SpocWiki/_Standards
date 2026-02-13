@@ -1,8 +1,79 @@
 ---
 has_id_wikidata: Q580725
+dv_has_:
+  name_:
+    ar: منظار داخلي
+    ban: sarana paningalan
+    ca: endoscopi
+    cs: endoskop
+    da: endoskop
+    de: Endoskop
+    en: endoscope
+    es: endoscopio
+    fa: درونبین
+    fi: endoskooppi
+    fr: endoscope
+    he: אנדוסקופ
+    hi: अन्तर्दर्शी
+    hu: endoszkóp
+    ia: Endoscopo
+    id: alat peneropong
+    it: endoscopio
+    ja: 内視鏡
+    ko: 내시경
+    la: Endoscopium
+    mk: Ендоскоп
+    nb: endoskop
+    nl: endoscoop
+    nn: endoskop
+    pl: endoskop
+    pt: endoscópio
+    ru: эндоскоп
+    se: endoskohpa
+    si: එන්ඩස්කෝපය
+    sl: endoskop
+    smj: endoskåvppå
+    smn: endoskoop
+    sms: endoskopp
+    sv: endoskop
+    ta: உள்நோக்குக்கருவி
+    te: ఎండోస్కోప్
+    uk: ендоскоп
+    zh: 内窥镜
+    zh-cn: 内窥镜
+    zh-hans: 内窥镜
+    zh-hant: 內窺鏡
+aliases:
+- alat peneropong
+- endoscoop
+- endoscope
+- endoscopi
+- endoscopio
+- Endoscopium
+- Endoscopo
+- endoscópio
+- endoskohpa
+- endoskoop
+- endoskooppi
+- endoskop
+- endoskopp
+- endoskåvppå
+- endoszkóp
+- sarana paningalan
+- Ендоскоп
+- эндоскоп
+- אנדוסקופ
+- درونبین
+- منظار داخلي
+- अन्तर्दर्शी
+- உள்நோக்குக்கருவி
+- ఎండోస్కోప్
+- එන්ඩස්කෝපය
+- 內窺鏡
+- 内窥镜
+- 内視鏡
+- 내시경
 ---
-
-
 # [[Endoscopy]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Endoscopy,212809|WD~Endoscopy,212809]] 

@@ -1,19 +1,46 @@
 ---
 aliases:
-  - Carnian
+- Carnach
+- Carnian
+- Carniano
+- Carnianu
+- Carnico
+- Carnien
+- Carniense
+- Carnià
+- Càrnicu
+- Karn
+- karni
+- karnij
+- Karnik
+- Karnium
+- Karniyan
+- Tầng Carnia
+- Карнійський ярус
+- Карний ярусы
+- карнийский ярус
+- קרניאן
+- الكارني
+- کارنیئن
+- کارنین
+- ਕਾਰਨੀਅਨ
+- カーニアン期
+- 卡尼阶
+- 卡尼階
+- 카르니아절
 has_id_wikidata: Q911899
 named_after:
-  - "[[_Standards/WikiData/WD~Carnia,369765]]"
-  - "[[_Standards/WikiData/WD~Carnic_Alps,660390]]"
-  - "[[_Standards/WikiData/WD~Carinthia,37985]]"
+- '[[_Standards/WikiData/WD~Carnia,369765]]'
+- '[[_Standards/WikiData/WD~Carnic_Alps,660390]]'
+- '[[_Standards/WikiData/WD~Carinthia,37985]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-named_by: "[[_Standards/WikiData/WD~Johann_August_Georg_Edmund_Mojsisovics_von_Mojsvar,873571]]"
-significant_event: "[[_Standards/WikiData/WD~Carnian_Pluvial_Event,5044049]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Carnian,21607948]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Carnian,134351839]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+named_by: '[[_Standards/WikiData/WD~Johann_August_Georg_Edmund_Mojsisovics_von_Mojsvar,873571]]'
+significant_event: '[[_Standards/WikiData/WD~Carnian_Pluvial_Event,5044049]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Carnian,21607948]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Carnian,134351839]]'
 coordinate_location: Point(11.9303 46.5269)
 end_time: -227000000-01-01T00:00:00Z
 Commons_category: Carnian
@@ -21,60 +48,84 @@ start_time: -237000000-01-01T00:00:00Z
 sRGB_color_hex_triplet: D1A6C9
 dv_has_:
   duration_:
-    years: "1.000e+7"
-  previous_:
-    item: "[[../Epoch-247~Middle_Triassic/Age~2~Ladinian|Age~2~Ladinian]]"
-  next_:
-    item: "[[Age~2~Norian]]"
+    years: 1.000e+7
   name_:
+    abbreviated: t5
+    af: Karnium
+    ar: الكارني
+    ast: Carnianu
+    az: Karniyan
     bg: Карн
-    cs: Carn
+    ca: Carnià
+    cs: karn
     da: Carnien
-    de: Karnium
+    de: Karn
+    en: Carnian
     es: Carniense
     et: Carni
+    fa: کارنین
     fi: Carn
     fr: Carnien
+    ga: Carnach
+    gl: Carniano
+    he: קרניאן
     hu: karni
-    it: carnico
+    id: Karnium
+    it: Carnico
     ja: カーニアン期
+    kk: Карний ярусы
+    ko: 카르니아절
+    la: Karnium
     lt: Karnis
-    nl: Carniën
+    nl: Carnien
+    nn: karn
     no: Carn
+    pa: ਕਾਰਨੀਅਨ
     pl: Karnik
+    pnb: کارنیئن
     pt: Carniano
+    ru: карнийский ярус
+    scn: Càrnicu
+    sh: Karnik
     sk: karn
     sl: karnij
     sv: carn
-    zh: 卡尼期
-    abbreviated: t5
+    uk: Карнійський ярус
+    ur: کارنیئن
+    vi: Tầng Carnia
+    zh: 卡尼階
+    zh-hans: 卡尼阶
+  next_:
+    item: '[[Age~2~Norian]]'
+  previous_:
+    item: '[[../Epoch-247~Middle_Triassic/Age~2~Ladinian|Age~2~Ladinian]]'
+  text_of_:
+    color: 0xC99BCB
   time_:
     started: -237000000
     stopped: -227000000
-  text_of_:
-    color: "0xC99BCB"
 dv_is_:
   same_as:
-    - "[[WD~Carnian,911899]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~1~Carnian|Age~1~Carnian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~1~Carnian.public|Age~1~Carnian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~1~Carnian.internal|Age~1~Carnian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~1~Carnian.protect|Age~1~Carnian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~1~Carnian.private|Age~1~Carnian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~1~Carnian.personal|Age~1~Carnian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~1~Carnian.secret|Age~1~Carnian.secret]]"
-dv_has_duration_years: "1.000e+7"
-dv_has_previous_item: "[[../Epoch-247~Middle_Triassic/Age~2~Ladinian|Age~2~Ladinian]]"
-dv_has_next_item: "[[Age~2~Norian]]"
+  - '[[WD~Carnian,911899]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~1~Carnian|Age~1~Carnian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~1~Carnian.public|Age~1~Carnian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~1~Carnian.internal|Age~1~Carnian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~1~Carnian.protect|Age~1~Carnian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~1~Carnian.private|Age~1~Carnian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~1~Carnian.personal|Age~1~Carnian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~1~Carnian.secret|Age~1~Carnian.secret]]'
+dv_has_duration_years: 1.000e+7
+dv_has_previous_item: '[[../Epoch-247~Middle_Triassic/Age~2~Ladinian|Age~2~Ladinian]]'
+dv_has_next_item: '[[Age~2~Norian]]'
 dv_is_same_as:
-  - "[[WD~Carnian,911899]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~1~Carnian|Age~1~Carnian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~1~Carnian.public|Age~1~Carnian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~1~Carnian.internal|Age~1~Carnian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~1~Carnian.protect|Age~1~Carnian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~1~Carnian.private|Age~1~Carnian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~1~Carnian.personal|Age~1~Carnian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~1~Carnian.secret|Age~1~Carnian.secret]]"
+- '[[WD~Carnian,911899]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~1~Carnian|Age~1~Carnian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~1~Carnian.public|Age~1~Carnian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~1~Carnian.internal|Age~1~Carnian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~1~Carnian.protect|Age~1~Carnian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~1~Carnian.private|Age~1~Carnian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~1~Carnian.personal|Age~1~Carnian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~1~Carnian.secret|Age~1~Carnian.secret]]'
 dv_has_name_bg: Карн
 dv_has_name_cs: Carn
 dv_has_name_da: Carnien
@@ -98,7 +149,7 @@ dv_has_name_zh: 卡尼期
 dv_has_name_abbreviated: t5
 dv_has_time_started: -237000000
 dv_has_time_stopped: -227000000
-dv_has_text_of_color: "0xC99BCB"
+dv_has_text_of_color: 0xC99BCB
 ---
 # [[Age~1~Carnian]] 
 

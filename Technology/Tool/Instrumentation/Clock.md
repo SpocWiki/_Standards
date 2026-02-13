@@ -1,22 +1,171 @@
 ---
 aliases:
-  - Clock
+- agogo
+- aravopapaha
+- arlògi
+- arlói
+- Auer
+- a̱gogo
+- ceas
+- clag
+- cloc
+- Clock
+- clog
+- cung
+- cṳ̆ng
+- diibmu
+- dzieguorios
+- erloju
+- famantaranandro
+- gharii
+- goorsheegto
+- hodiny
+- horloge
+- horloĝo
+- horologio
+- horologium
+- ilo tenpo
+- iwashi
+- jam
+- Jam (perengka)
+- jam tembok
+- ka'iyaawatia
+- kaloko
+- kamana
+- kell
+- kello
+- klak
+- kloahkka
+- klock
+- klocka
+- klok
+- klokhorlosie
+- klokke
+- klukka
+- klók
+- knock
+- laikrodis
+- oloshi
+- ora
+- orasan
+- orelogg
+- orologio
+- pacha tupuq
+- pagorasan
+- pulkstenis
+- rellotge
+- relo
+- reloch
+- reloijo
+- reloj
+- reloxo
+- relògiu
+- relòtge
+- reló
+- relógio
+- Rilloghju
+- rolojo
+- ruloggiu
+- saa
+- saat
+- saet
+- saete
+- sat
+- soat
+- sâ
+- sî-cheng
+- sṳ̀-chûng-é
+- tapahipisimon
+- tijme
+- timepiece
+- tlapōhualtepoztli
+- tuki
+- Uah
+- Uhr
+- ur
+- ura
+- zegar
+- zeger
+- zygŏr
+- zédżer
+- òfuk-mgbọ
+- òlòj
+- óra
+- ôrlodje
+- časnik
+- časovnik
+- časud
+- čiâss
+- đồng hồ
+- ρολόι
+- гадзіннік
+- гадзіньнік
+- годинка
+- годинник
+- саат
+- сағат
+- сехет
+- соат
+- сыхьат
+- сәгать
+- сәғәт
+- час
+- часовник
+- часы
+- Ժամացոյց
+- ժամացույց
+- זייגער
+- שעון
+- ساعات
+- ساعة
+- ساعة (دوزان)
+- ساعت
+- ساعه
+- کاتژمێر
+- ګړيال
+- گٔر
+- گھنٹا
+- گھڑی
+- گھڙيال
+- ईलचं
+- घडी
+- घड्याळ
+- ঘড়ি
+- ঘড়ী
+- ਘੜੀ
+- கடிகாரம்
+- గడియారం
+- ಗಡಿಯಾರ
+- ഘടികാരം
+- นาฬิกา
+- ໂມງ
+- နာရီ
+- ၼႃႇရီႇ
+- საათი
+- ሰአት
+- ᡝᡵᡳᠨ ᡳ ᡴᡝᠮᡠᠨ
+- ὡρολόγιον
+- 时钟
+- 時計
+- 時鐘
+- 鐘
+- 시계
 has_id_wikidata: Q376
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Uhr%2020230505%20001.stl
 Commons_category: Clocks
 Commons_gallery: Clock
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 exact_match: http://wordnet-rdf.princeton.edu/wn31/103050242-n
 GS1_GPC_code: 10002252
 has_use:
-  - '[[_Standards/WikiData/WD~chronometry,186398]]'
-  - '[[_Standards/WikiData/WD~displaying,115203785]]'
+- '[[_Standards/WikiData/WD~chronometry,186398]]'
+- '[[_Standards/WikiData/WD~displaying,115203785]]'
 Iconclass_notation: 23U24
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pendulum%20clock%20by%20Jacob%20Kock%2C%20antique%20furniture%20photography%2C%20IMG%200931%20edit.jpg
 Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/CHASI.html
@@ -24,16 +173,202 @@ Nomenclature_for_Museum_Cataloging: 10265
 OmegaWiki_Defined_Meaning: 5790
 OpenStreetMap_tag_or_key: Tag:amenity=clock
 spoken_text_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Clock.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Klok%20%28tijd%29-article.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Clock.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Klok%20%28tijd%29-article.ogg
 subclass_of:
-  - '[[_Standards/WikiData/WD~metrological_mechanism,4198689]]'
-  - '[[_Standards/WikiData/WD~timepiece,42622779]]'
-  - '[[_Standards/WikiData/WD~decorative_object,115923123]]'
-  - '[[_Standards/WikiData/WD~machine,11019]]'
+- '[[_Standards/WikiData/WD~metrological_mechanism,4198689]]'
+- '[[_Standards/WikiData/WD~timepiece,42622779]]'
+- '[[_Standards/WikiData/WD~decorative_object,115923123]]'
+- '[[_Standards/WikiData/WD~machine,11019]]'
 union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+dv_has_:
+  name_:
+    ady: сыхьат
+    af: klokhorlosie
+    alt: саат
+    am: ሰአት
+    an: reloch
+    ann: òfuk-mgbọ
+    ar: ساعة
+    arq: ساعة
+    ary: ساعة (دوزان)
+    arz: ساعه
+    as: ঘড়ী
+    ast: reló
+    atj: tapahipisimon
+    az: saat
+    azb: ساعات
+    ba: сәғәт
+    bar: Uah
+    be: гадзіннік
+    be-tarask: гадзіньнік
+    bg: часовник
+    bn: ঘড়ি
+    br: ur
+    bs: sat
+    ca: rellotge
+    cdo: cṳ̆ng
+    ce: часы
+    ckb: کاتژمێر
+    co: Rilloghju
+    crh: saat
+    cs: hodiny
+    csb: zédżer
+    cv: сехет
+    cy: cloc
+    da: ur
+    dag: agogo
+    de: Uhr
+    diq: saete
+    dsb: zeger
+    el: ρολόι
+    eml: arlói
+    en: timepiece
+    en-ca: clock
+    en-gb: clock
+    eo: horloĝo
+    es: reloj
+    et: kell
+    eu: erloju
+    fa: ساعت
+    fi: kello
+    fj: kaloko
+    fr: horloge
+    fy: klok
+    ga: clog
+    gan: 鐘
+    gl: reloxo
+    glk: ساعت
+    gn: aravopapaha
+    grc: ὡρολόγιον
+    gsw: Uhr
+    guc: ka'iyaawatia
+    gv: clag
+    ha: agogo
+    hak: sṳ̀-chûng-é
+    he: שעון
+    hi: घडी
+    hif: gharii
+    hr: sat
+    hsb: časnik
+    ht: òlòj
+    hu: óra
+    hy: ժամացույց
+    hyw: Ժամացոյց
+    ia: horologio
+    iba: Jam (perengka)
+    id: jam
+    ie: horloge
+    ilo: pagorasan
+    is: klukka
+    it: orologio
+    ja: 時計
+    jam: klak
+    ka: საათი
+    kcg: a̱gogo
+    kk: сағат
+    kn: ಗಡಿಯಾರ
+    knc: sâ
+    ko: 시계
+    ks: گٔر
+    ku: saet
+    kw: klock
+    ky: саат
+    la: horologium
+    lb: Auer
+    li: klók
+    lmo: orelogg
+    lo: ໂມງ
+    lt: laikrodis
+    lv: pulkstenis
+    mg: famantaranandro
+    mk: часовник
+    ml: ഘടികാരം
+    mnc: ᡝᡵᡳᠨ ᡳ ᡴᡝᠮᡠᠨ
+    mr: घड्याळ
+    ms: jam
+    mwl: reloijo
+    my: နာရီ
+    nah: tlapōhualtepoztli
+    nan: sî-cheng
+    nb: klokke
+    nds: Klock
+    ne: घडी
+    new: ईलचं
+    nl: klok
+    nn: klokke
+    oc: relòtge
+    pa: ਘੜੀ
+    pap: oloshi
+    pl: zegar
+    pms: arlògi
+    pnb: گھڑی
+    ps: ګړيال
+    pt: relógio
+    pt-br: relógio
+    pwn: tuki
+    qu: pacha tupuq
+    rmf: kamana
+    ro: ceas
+    ru: часы
+    rue: годинка
+    sc: relògiu
+    scn: ruloggiu
+    sco: knock
+    sd: گھڙيال
+    se: diibmu
+    sgs: dzieguorios
+    sh: sat
+    shn: ၼႃႇရီႇ
+    sk: hodiny
+    sl: ura
+    smj: kloahkka
+    smn: tijme
+    sms: čiâss
+    so: goorsheegto
+    sq: ora
+    sr: часовник
+    sr-ec: часовник
+    sr-el: časovnik
+    su: jam tembok
+    sv: klocka
+    sw: saa
+    szl: zygŏr
+    szy: tuki
+    ta: கடிகாரம்
+    te: గడియారం
+    tg: соат
+    th: นาฬิกา
+    tl: orasan
+    tok: ilo tenpo
+    tr: saat
+    tt: сәгать
+    tt-cyrl: сәгать
+    udm: час
+    uk: годинник
+    ur: گھنٹا
+    uz: soat
+    vec: rolojo
+    vep: časud
+    vi: đồng hồ
+    vro: kell
+    wa: ôrlodje
+    war: relo
+    wuu: 时钟
+    yi: זייגער
+    yue: 鐘
+    za: cung
+    zh: 時鐘
+    zh-cn: 时钟
+    zh-hans: 时钟
+    zh-hant: 時鐘
+    zh-hk: 時鐘
+    zh-mo: 時鐘
+    zh-my: 时钟
+    zh-sg: 时钟
+    zh-tw: 時鐘
+    zu: iwashi
 ---
-
 # [[Clock]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Clock,376|WD~Clock,376]] 

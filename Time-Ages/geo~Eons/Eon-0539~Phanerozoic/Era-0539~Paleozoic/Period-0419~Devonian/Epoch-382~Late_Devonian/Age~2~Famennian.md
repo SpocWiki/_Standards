@@ -1,33 +1,45 @@
 ---
 aliases:
-  - Famennian
-  - Фамен
-  - Famen
-  - Famennien
-  - Fammennium
-  - Fameniense
-  - Famenne
-  - Fammenn
-  - famenni
-  - famenniano
-  - ファメニアン期
-  - Famenis
-  - Famenniën
-  - Famennium
-  - Fameniano
-  - famen
-  - fammenij
-  - famenn
-  - 法门期
+- Famen
+- Famenas stāvs
+- Fameniano
+- Fameniense
+- famenij
+- Famenis
+- famenn
+- Famenne
+- famenni
+- Famennian
+- famenniano
+- Famennien
+- Famennium
+- Famennià
+- Famenniën
+- Faminnianu
+- fammenij
+- Fammenn
+- Fammennium
+- Tầng Famenne
+- Фамен
+- Фаменин
+- фаменский ярус
+- Фаменський ярус
+- الفاميني
+- فامنین
+- ファメニアン
+- ファメニアン期
+- 法門階
+- 法门期
+- 法门阶
 has_id_wikidata: Q253839
-named_by: "[[_Standards/WikiData/WD~André_Dumont,519775]]"
+named_by: '[[_Standards/WikiData/WD~André_Dumont,519775]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-named_after: "[[_Standards/WikiData/WD~Famenne,1395106]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Famennian,24069177]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Famennian,134539975]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+named_after: '[[_Standards/WikiData/WD~Famenne,1395106]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Famennian,24069177]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Famennian,134539975]]'
 coordinate_location: Point(3.05833333 43.46888889)
 Commons_category: Famennian
 described_at_URL: https://popups.uliege.be/1374-8505/index.php?id=1077
@@ -36,60 +48,76 @@ start_time: -372200000-01-01T00:00:00Z
 end_time: -358900000-01-01T00:00:00Z
 dv_has_:
   duration_:
-    years: "1.330e+7"
-  previous_:
-    item: "[[Age~1~Frasnian]]"
-  next_:
-    item: "[[../../Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian|Age~1~Tournaisian]]"
+    years: 1.330e+7
   name_:
+    abbreviated: d7
+    af: Famennium
+    ar: الفاميني
     bg: Фамен
+    ca: Famennià
     cs: Famen
     da: Famennien
-    de: Fammennium
+    de: Famennium
+    en: Famennian
     es: Fameniense
     et: Famenne
+    fa: فامنین
     fi: Fammenn
     fr: Famennien
+    gl: Fameniano
     hu: famenni
-    it: famenniano
-    ja: ファメニアン期
+    id: Famennium
+    it: Famenniano
+    ja: ファメニアン
     lt: Famenis
-    nl: Famenniën
+    lv: Famenas stāvs
+    nl: Famennien
+    nn: famenn
     no: Famennium
     pl: Famen
     pt: Fameniano
+    ru: фаменский ярус
+    scn: Faminnianu
     sk: famen
-    sl: fammenij
+    sl: famenij
+    sr: Фаменин
     sv: famenn
-    zh: 法门期
-    abbreviated: d7
-  time_:
-    started: "-372.2e6"
-    stopped: "-358.9e6"
+    tr: Famennian
+    uk: Фаменський ярус
+    vi: Tầng Famenne
+    zh: 法門階
+    zh-hans: 法门阶
+  next_:
+    item: '[[../../Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian|Age~1~Tournaisian]]'
+  previous_:
+    item: '[[Age~1~Frasnian]]'
   text_of_:
-    color: "0xF2EDB3"
+    color: 0xF2EDB3
+  time_:
+    started: -372.2e6
+    stopped: -358.9e6
 dv_is_:
   same_as:
-    - "[[WD~Famennian,253839]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~2~Famennian|Age~2~Famennian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~2~Famennian.public|Age~2~Famennian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~2~Famennian.internal|Age~2~Famennian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~2~Famennian.protect|Age~2~Famennian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~2~Famennian.private|Age~2~Famennian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~2~Famennian.personal|Age~2~Famennian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~2~Famennian.secret|Age~2~Famennian.secret]]"
-dv_has_duration_years: "1.330e+7"
-dv_has_previous_item: "[[Age~1~Frasnian]]"
-dv_has_next_item: "[[../../Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian|Age~1~Tournaisian]]"
+  - '[[WD~Famennian,253839]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~2~Famennian|Age~2~Famennian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~2~Famennian.public|Age~2~Famennian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~2~Famennian.internal|Age~2~Famennian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~2~Famennian.protect|Age~2~Famennian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~2~Famennian.private|Age~2~Famennian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~2~Famennian.personal|Age~2~Famennian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~2~Famennian.secret|Age~2~Famennian.secret]]'
+dv_has_duration_years: 1.330e+7
+dv_has_previous_item: '[[Age~1~Frasnian]]'
+dv_has_next_item: '[[../../Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian|Age~1~Tournaisian]]'
 dv_is_same_as:
-  - "[[WD~Famennian,253839]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~2~Famennian|Age~2~Famennian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~2~Famennian.public|Age~2~Famennian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~2~Famennian.internal|Age~2~Famennian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~2~Famennian.protect|Age~2~Famennian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~2~Famennian.private|Age~2~Famennian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~2~Famennian.personal|Age~2~Famennian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~2~Famennian.secret|Age~2~Famennian.secret]]"
+- '[[WD~Famennian,253839]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~2~Famennian|Age~2~Famennian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~2~Famennian.public|Age~2~Famennian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~2~Famennian.internal|Age~2~Famennian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~2~Famennian.protect|Age~2~Famennian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~2~Famennian.private|Age~2~Famennian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~2~Famennian.personal|Age~2~Famennian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~2~Famennian.secret|Age~2~Famennian.secret]]'
 dv_has_name_bg: Фамен
 dv_has_name_cs: Famen
 dv_has_name_da: Famennien
@@ -111,9 +139,9 @@ dv_has_name_sl: fammenij
 dv_has_name_sv: famenn
 dv_has_name_zh: 法门期
 dv_has_name_abbreviated: d7
-dv_has_time_started: "-372.2e6"
-dv_has_time_stopped: "-358.9e6"
-dv_has_text_of_color: "0xF2EDB3"
+dv_has_time_started: -372.2e6
+dv_has_time_stopped: -358.9e6
+dv_has_text_of_color: 0xF2EDB3
 ---
 # [[Age~2~Famennian]] 
 

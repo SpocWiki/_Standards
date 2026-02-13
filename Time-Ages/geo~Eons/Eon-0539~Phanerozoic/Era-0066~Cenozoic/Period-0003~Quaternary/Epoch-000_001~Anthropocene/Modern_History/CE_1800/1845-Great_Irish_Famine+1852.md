@@ -1,62 +1,199 @@
 ---
 aliases:
-  - Great Irish Famine
-  - Great Hunger
-  - Gorta Mór
-  - Irish Potato Famine
-  - Drochshaol
-  - 1845-Great_Irish_Famine+1852
-  - 1845-Great Irish Famine+1852
+- 1845-Great Irish Famine+1852
+- 1845-Great_Irish_Famine+1852
+- A' Ghort Mòr
+- An Gorta Mór
+- Böyük aclıq (İrlandiya)
+- Büyük İrlanda Patates Kıtlığı
+- Caristia manna (Irlanda)
+- Den stora svälten på Irland
+- Den store hungersnauda i Irland
+- Drochshaol
+- Gorta Mór
+- Gran Fam Irlandesa
+- Gran Fame irlandesa
+- Gran hambruna irlandesa
+- Granda Famina en Irlanda
+- Granda malsatego en Irlando
+- Grande carestia irlandese
+- grande famine irlandaise
+- Grande fome de 1845–1849 na Irlanda
+- Great Hunger
+- Great Irish Famine
+- Groot Ierse Hongersnood
+- Groote Hungersnood in Irlound
+- Grosse Hungersnot in Irland
+- Große Hungersnot in Irland
+- Hallærið mikla
+- Hungersnøden i Irland 1845-1849
+- Hungersnøden i Irland 1845–1849
+- Ierse hongersnood
+- Ierske hongersneed
+- Iiri näljahäda
+- Irish Potato Famine
+- Irlandako Gosete Handia
+- Irlannin suuri nälänhätä
+- Kebuluran Besar (Ireland)
+- Kowingkatan Tagayo Ireland
+- Lapar Pungkang Besai Ireland
+- Lielais bads Īrijā
+- Marea Foamete Irlandeză
+- Naonegezh Vras Iwerzhon
+- Newyn Mawr Iwerddon
+- Nạn đói lớn (Ireland)
+- Ukame wa Eire
+- Velika glad u Irskoj
+- velika irska lakota
+- Velký irský hladomor
+- Veľký írsky hladomor
+- Wabah Kelaparan Besar
+- Wielki głód w Irlandii
+- Éire Tāi Ki-hng
+- írországi éhínség
+- Μεγάλος Λιμός της Ιρλανδίας
+- Велика глад у Ирској
+- Великий голод в Ірландії
+- Вялікі ірляндзкі голад
+- Голод в Ирландии
+- Голям глад (Ирландия)
+- רעב תפוחי האדמה הגדול באירלנד
+- قحطی بزرگ ایرلند
+- مجاعة أيرلندا الكبرى
+- அயர்லாந்தின் உருளைக்கிழங்குப் பஞ்சம்
+- ทุพภิกขภัยครั้งใหญ่ในไอร์แลนด์
+- အိုင်ယာလန်နိုင်ငံ ဒုဗ္ဘိက္ခန္တရကပ်
+- ირლანდიის დიდი შიმშილობა
+- មហាទុរ្ភិក្សនៅអៀរឡង់
+- ジャガイモ飢饉
+- 愛爾蘭大饑荒
+- 愛爾蘭薯仔饑荒
+- 爱尔兰大饥荒
+- 아일랜드 대기근
 has_id_wikidata: Q188371
 has_immediate_cause:
-  - "[[_Standards/WikiData/WD~Phytophthora_infestans,149072]]"
-  - "[[_Standards/WikiData/WD~laissez_faire,171990]]"
-  - "[[_Standards/WikiData/WD~colonialism,7167]]"
+- '[[_Standards/WikiData/WD~Phytophthora_infestans,149072]]'
+- '[[_Standards/WikiData/WD~laissez_faire,171990]]'
+- '[[_Standards/WikiData/WD~colonialism,7167]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~famine,168247]]"
-  - "[[_Standards/WikiData/WD~historical_event,13418847]]"
+- '[[_Standards/WikiData/WD~famine,168247]]'
+- '[[_Standards/WikiData/WD~historical_event,13418847]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Irish_famines,1214105]]"
-  - "[[_Standards/WikiData/WD~1861_Irish_Famine,104830083]]"
+- '[[_Standards/WikiData/WD~Irish_famines,1214105]]'
+- '[[_Standards/WikiData/WD~1861_Irish_Famine,104830083]]'
 end_time: 1852-01-01T00:00:00Z
 start_time: 1845-01-01T00:00:00Z
-locations: "[[_Standards/WikiData/WD~Ireland,22890]]"
+locations: '[[_Standards/WikiData/WD~Ireland,22890]]'
 coordinate_location: Point(-7.921 53.351)
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Irish%20potato%20famine%20Bridget%20O%27Donnel.jpg
 plaque_image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/An%20Gorta%20Mor%20Monument.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Famine%20Graveyard%20Memorial%20-%20geograph.org.uk%20-%201892019.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Placa%20conmemorativa%20das%20v%C3%ADtimas%20da%20Gran%20Fame%20irlandesa%20%28Ennistymon%29.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/An%20Gorta%20Mor%20Monument.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Famine%20Graveyard%20Memorial%20-%20geograph.org.uk%20-%201892019.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Placa%20conmemorativa%20das%20v%C3%ADtimas%20da%20Gran%20Fame%20irlandesa%20%28Ennistymon%29.jpg
 distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Ireland%20population%20change%201841%201851.png
 schematic:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Potatoes%20Production%20Great%20Famine%20en.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Production%20Pommes%20de%20terre%20Grande%20Famine%20fr.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Potatoes%20Production%20Great%20Famine%20en.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Production%20Pommes%20de%20terre%20Grande%20Famine%20fr.svg
 Wolfram_Language_entity_code: Entity["HistoricalEvent", "PotatoFamine"]
 Commons_category: Potato famine of Ireland
 native_label:
-  - the Great Famine
-  - an Gorta Mór
+- the Great Famine
+- an Gorta Mór
 dv_is_:
   same_as:
-    - "[[../../../../../../../../WikiData/WD~Great_Irish_Famine,188371|WD~Great_Irish_Famine,188371]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1845-Great_Irish_Famine+1852|1845-Great_Irish_Famine+1852]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1845-Great_Irish_Famine+1852.public|1845-Great_Irish_Famine+1852.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1845-Great_Irish_Famine+1852.internal|1845-Great_Irish_Famine+1852.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1845-Great_Irish_Famine+1852.protect|1845-Great_Irish_Famine+1852.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1845-Great_Irish_Famine+1852.private|1845-Great_Irish_Famine+1852.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1845-Great_Irish_Famine+1852.personal|1845-Great_Irish_Famine+1852.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1845-Great_Irish_Famine+1852.secret|1845-Great_Irish_Famine+1852.secret]]"
+  - '[[../../../../../../../../WikiData/WD~Great_Irish_Famine,188371|WD~Great_Irish_Famine,188371]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1845-Great_Irish_Famine+1852|1845-Great_Irish_Famine+1852]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1845-Great_Irish_Famine+1852.public|1845-Great_Irish_Famine+1852.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1845-Great_Irish_Famine+1852.internal|1845-Great_Irish_Famine+1852.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1845-Great_Irish_Famine+1852.protect|1845-Great_Irish_Famine+1852.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1845-Great_Irish_Famine+1852.private|1845-Great_Irish_Famine+1852.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1845-Great_Irish_Famine+1852.personal|1845-Great_Irish_Famine+1852.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1845-Great_Irish_Famine+1852.secret|1845-Great_Irish_Famine+1852.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Great_Irish_Famine,188371|WD~Great_Irish_Famine,188371]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1845-Great_Irish_Famine+1852|1845-Great_Irish_Famine+1852]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1845-Great_Irish_Famine+1852.public|1845-Great_Irish_Famine+1852.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1845-Great_Irish_Famine+1852.internal|1845-Great_Irish_Famine+1852.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1845-Great_Irish_Famine+1852.protect|1845-Great_Irish_Famine+1852.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1845-Great_Irish_Famine+1852.private|1845-Great_Irish_Famine+1852.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1845-Great_Irish_Famine+1852.personal|1845-Great_Irish_Famine+1852.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1845-Great_Irish_Famine+1852.secret|1845-Great_Irish_Famine+1852.secret]]"
+- '[[../../../../../../../../WikiData/WD~Great_Irish_Famine,188371|WD~Great_Irish_Famine,188371]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1845-Great_Irish_Famine+1852|1845-Great_Irish_Famine+1852]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1845-Great_Irish_Famine+1852.public|1845-Great_Irish_Famine+1852.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1845-Great_Irish_Famine+1852.internal|1845-Great_Irish_Famine+1852.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1845-Great_Irish_Famine+1852.protect|1845-Great_Irish_Famine+1852.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1845-Great_Irish_Famine+1852.private|1845-Great_Irish_Famine+1852.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1845-Great_Irish_Famine+1852.personal|1845-Great_Irish_Famine+1852.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1845-Great_Irish_Famine+1852.secret|1845-Great_Irish_Famine+1852.secret]]'
+dv_has_:
+  name_:
+    af: Groot Ierse Hongersnood
+    ar: مجاعة أيرلندا الكبرى
+    ast: Gran hambruna irlandesa
+    az: Böyük aclıq (İrlandiya)
+    be-tarask: Вялікі ірляндзкі голад
+    bg: Голям глад (Ирландия)
+    br: Naonegezh Vras Iwerzhon
+    bs: Velika glad u Irskoj
+    ca: Gran Fam Irlandesa
+    cs: Velký irský hladomor
+    cy: Newyn Mawr Iwerddon
+    da: Hungersnøden i Irland 1845-1849
+    de: Große Hungersnot in Irland
+    de-ch: Grosse Hungersnot in Irland
+    dtp: Kowingkatan Tagayo Ireland
+    el: Μεγάλος Λιμός της Ιρλανδίας
+    en: Great Irish Famine
+    eo: Granda malsatego en Irlando
+    es: Gran Hambruna irlandesa
+    et: Iiri näljahäda
+    eu: Irlandako Gosete Handia
+    fa: قحطی بزرگ ایرلند
+    fi: Irlannin suuri nälänhätä
+    fr: grande famine irlandaise
+    fy: Ierske hongersneed
+    ga: An Gorta Mór
+    gd: A' Ghort Mòr
+    gl: Gran Fame irlandesa
+    he: רעב תפוחי האדמה הגדול באירלנד
+    hr: Velika glad u Irskoj
+    hu: írországi éhínség
+    iba: Lapar Pungkang Besai Ireland
+    id: Wabah Kelaparan Besar
+    is: Hallærið mikla
+    it: Grande carestia irlandese
+    ja: ジャガイモ飢饉
+    ka: ირლანდიის დიდი შიმშილობა
+    km: មហាទុរ្ភិក្សនៅអៀរឡង់
+    ko: 아일랜드 대기근
+    lv: Lielais bads Īrijā
+    ms: Kebuluran Besar (Ireland)
+    my: အိုင်ယာလန်နိုင်ငံ ဒုဗ္ဘိက္ခန္တရကပ်
+    nan: Éire Tāi Ki-hng
+    nb: Hungersnøden i Irland 1845–1849
+    nl: Ierse hongersnood
+    nn: Den store hungersnauda i Irland
+    oc: Granda Famina en Irlanda
+    pl: Wielki głód w Irlandii
+    pt: Grande fome de 1845–1849 na Irlanda
+    ro: Marea Foamete Irlandeză
+    ru: Голод в Ирландии
+    sc: Caristia manna (Irlanda)
+    sh: Velika glad u Irskoj
+    sk: Veľký írsky hladomor
+    sl: velika irska lakota
+    sr: Велика глад у Ирској
+    stq: Groote Hungersnood in Irlound
+    sv: Den stora svälten på Irland
+    sw: Ukame wa Eire
+    ta: அயர்லாந்தின் உருளைக்கிழங்குப் பஞ்சம்
+    th: ทุพภิกขภัยครั้งใหญ่ในไอร์แลนด์
+    tr: Büyük İrlanda Patates Kıtlığı
+    uk: Великий голод в Ірландії
+    vi: Nạn đói lớn (Ireland)
+    wuu: 爱尔兰大饥荒
+    yue: 愛爾蘭薯仔饑荒
+    zh: 爱尔兰大饥荒
+    zh-cn: 爱尔兰大饥荒
+    zh-hans: 爱尔兰大饥荒
+    zh-hant: 愛爾蘭大饑荒
+    zh-hk: 愛爾蘭大饑荒
+    zh-sg: 爱尔兰大饥荒
+    zh-tw: 愛爾蘭大饑荒
 ---
-
 # [[1845-Great_Irish_Famine+1852]]
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Great_Irish_Famine,188371|WD~Great_Irish_Famine,188371]]

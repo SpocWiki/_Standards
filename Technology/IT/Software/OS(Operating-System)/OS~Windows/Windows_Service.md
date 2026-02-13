@@ -1,7 +1,27 @@
 ---
 aliases:
-  - Windows_Service
-  - Windows Service
+- servei de Windows
+- service de Windows
+- servicio de Windows
+- Servis sustava Windows
+- servizio di Windows
+- serviço do Windows
+- Služba Windows
+- storitev Windows
+- Usługa Windows
+- Windows Service
+- Windows-Systemdienst
+- Windows_Service
+- Windowsサービス
+- Windows服务
+- υπηρεσία των Windows
+- служби Windows
+- службы Windows
+- שירותי חלונות
+- خدمات ويندوز
+- 后台服务
+- 後臺服務
+- 윈도 서비스
 dv_is_/similar_to:
   path: Unix_daemon
   embed: false
@@ -11,6 +31,33 @@ dv_is_similar_to:
   embed: false
   type: file
 has_id_wikidata: Q1370727
+dv_has_:
+  name_:
+    ar: خدمات ويندوز
+    bg: Windows Service
+    ca: servei de Windows
+    cs: Služba Windows
+    de: Windows-Systemdienst
+    el: υπηρεσία των Windows
+    en: Windows service
+    es: servicio de Windows
+    fr: service de Windows
+    he: שירותי חלונות
+    hr: Servis sustava Windows
+    id: Windows service
+    it: servizio di Windows
+    ja: Windowsサービス
+    ko: 윈도 서비스
+    nl: Windows Service
+    pl: Usługa Windows
+    pt: serviço do Windows
+    pt-br: serviço do Windows
+    ru: службы Windows
+    sl: storitev Windows
+    uk: служби Windows
+    zh: Windows服务
+    zh-cn: 后台服务
+    zh-hant: 後臺服務
 ---
 # [[Windows_Service]] 
 

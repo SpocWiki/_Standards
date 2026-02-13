@@ -1,99 +1,226 @@
 ---
 aliases:
-  - Devonian
-  - Devon
-  - Девон
-  - Devónico
-  - Devoni
-  - Dévonien
-  - devon
-  - devoniano
-  - デボン紀
-  - Devonas
-  - Devoon
-  - Dewon
-  - devón
-  - 泥盆纪
+- .devon. cedran.
+- an Tréimhse Dheavónach
+- Deboniyano
+- Defonaidd
+- Defoniyaan
+- Devoan
+- Devon
+- Devon (Geologii)
+- Devon (period)
+- Devon dáwiri
+- Devon dövrü
+- Devon-kì
+- Devonas
+- Devoni
+- Devonian
+- devoniano
+- Devoniar
+- Devonikausi
+- devonio
+- Devonium
+- Devoniyen
+- Devonià
+- Devons
+- Devontímabilið
+- Devoon
+- devón
+- Devónico
+- Devónicu
+- Dewon
+- Dévonien
+- Kỷ Devon
+- Zaman Devon
+- Ìgbà Dẹfoníà
+- Δεβόνια περίοδος
+- Девон
+- девон вакыт
+- Девон кезеңі
+- Девон мезгили
+- Девон осоро
+- Девон тапхӑрӗ
+- девонский период
+- девонський період
+- дэвонскі перыяд
+- дэвонскі пэрыяд
+- Դևոնի ժամանակաշրջան
+- דבון
+- العصر الديفوني
+- دونین
+- دوونین
+- ڈیونیان
+- डिवोनी कल्प
+- मत्स्ययुग
+- ডেভোনিয়ান
+- ਡੀਵੋਨਿਅਨ
+- டெவோனியக் காலம்
+- ಡಿವೋನಿಯನ್
+- ഡെവോണിയൻ കാലഘട്ടം
+- ยุคดีโวเนียน
+- ဒေဗွန်ယုဂ်
+- დევონური სისტემა
+- デボン紀
+- 泥盆紀
+- 泥盆纪
+- 데본기
 has_id_wikidata: Q65955
 named_by:
-  - "[[_Standards/WikiData/WD~Adam_Sedgwick,350891]]"
-  - "[[_Standards/WikiData/WD~Roderick_Murchison,_1st_Baronet,361900]]"
+- '[[_Standards/WikiData/WD~Adam_Sedgwick,350891]]'
+- '[[_Standards/WikiData/WD~Roderick_Murchison,_1st_Baronet,361900]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~period,392928]]"
-  - "[[_Standards/WikiData/WD~system,403523]]"
+- '[[_Standards/WikiData/WD~period,392928]]'
+- '[[_Standards/WikiData/WD~system,403523]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Devonian,8375750]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-different_from: "[[_Standards/WikiData/WD~Devon,23156]]"
-named_after: "[[_Standards/WikiData/WD~Devon,23156]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Devonian,8375750]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+different_from: '[[_Standards/WikiData/WD~Devon,23156]]'
+named_after: '[[_Standards/WikiData/WD~Devon,23156]]'
 Commons_category: Devonian
 start_time: -419200000-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide%20Paleographic%20Map%20of%20Earth%2C%20390%20Ma%20%28Eifelian%20Age%29.png
 IPA_transcription: /dəˈvoʊni.ən/
 sRGB_color_hex_triplet: CB8C37
-Dewey_Decimal_Classification: "551.74"
+Dewey_Decimal_Classification: 551.74
 end_time: -358900000-01-01T00:00:00Z
 dv_has_:
   duration_:
-    years: "6.030e+7"
-  previous_:
-    item: "[[Period-0444~Silurian]]"
-  next_:
-    item: "[[Period-0359~Carboniferous]]"
+    years: 6.030e+7
   name_:
+    abbreviated: D
+    af: Devoon
+    ar: العصر الديفوني
+    ast: Devónicu
+    az: Devon dövrü
+    ba: Девон осоро
+    be: дэвонскі перыяд
+    be-tarask: дэвонскі пэрыяд
     bg: Девон
-    cs: Devon
+    bjn: Devonian
+    bn: ডেভোনিয়ান
+    br: Devonian
+    bs: Devon (period)
+    ca: Devonià
+    cdo: Devonian
+    cs: devon
+    cv: Девон тапхӑрӗ
+    cy: Defonaidd
     da: Devon
     de: Devon
+    el: Δεβόνια περίοδος
+    en: Devonian
+    en-gb: Devonian
+    eo: devonio
     es: Devónico
     et: Devon
-    fi: Devoni
+    eu: Devoniar
+    fa: دوونین
+    fi: Devonikausi
     fr: Dévonien
+    frr: Devon (Geologii)
+    ga: an Tréimhse Dheavónach
+    gl: Devoniano
+    gsw: Devon
+    he: דבון
+    hi: डिवोनी कल्प
+    hr: devon
     hu: devon
-    it: devoniano
+    hy: Դևոնի ժամանակաշրջան
+    id: Devon
+    is: Devontímabilið
+    it: Devoniano
     ja: デボン紀
-    lt: Devonas
+    jbo: .devon. cedran.
+    ka: დევონური სისტემა
+    kaa: Devon dáwiri
+    kk: Девон кезеңі
+    kn: ಡಿವೋನಿಯನ್
+    ko: 데본기
+    ky: Девон мезгили
+    la: Devonium
+    lb: Devon
+    lfn: Devonian
+    li: Devoan
+    lt: devonas
+    lv: Devons
+    mk: девон
+    ml: ഡെവോണിയൻ കാലഘട്ടം
+    ms: Zaman Devon
+    my: ဒေဗွန်ယုဂ်
+    mzn: دونین
+    nan: Devon-kì
+    nb: Devon
+    nds: Devon
+    ne: मत्स्ययुग
     nl: Devoon
+    nn: devon
     no: Devon
-    pl: Dewon
-    pt: Devónico
+    oc: Devonian
+    pa: ਡੀਵੋਨਿਅਨ
+    pl: dewon
+    pms: Devonian
+    pnb: ڈیونیان
+    pt: Devoniano
+    ro: Devonian
+    ru: девонский период
+    sh: Devon
+    si: Devonian
     sk: devón
     sl: devon
-    sv: devon
+    so: Defoniyaan
+    sr: девон
+    sr-ec: девон
+    sv: Devon
+    ta: டெவோனியக் காலம்
+    th: ยุคดีโวเนียน
+    tl: Deboniyano
+    tr: Devoniyen
+    udm: девон вакыт
+    uk: девонський період
+    uz: Devon
+    vi: Kỷ Devon
+    war: Devonian
+    wuu: 泥盆纪
+    yo: Ìgbà Dẹfoníà
+    yue: 泥盆紀
     zh: 泥盆纪
-    abbreviated: D
-  time_:
-    started: "-419.2e6"
-    stopped: "-358.9e6"
+    zh-hant: 泥盆紀
+  next_:
+    item: '[[Period-0359~Carboniferous]]'
+  previous_:
+    item: '[[Period-0444~Silurian]]'
   text_of_:
-    color: "0xCB8C37"
+    color: 0xCB8C37
+  time_:
+    started: -419.2e6
+    stopped: -358.9e6
 dv_is_:
   same_as:
-    - "[[WD~Devonian,65955]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian|Period-0419~Devonian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian.public|Period-0419~Devonian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian.internal|Period-0419~Devonian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian.protect|Period-0419~Devonian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian.private|Period-0419~Devonian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian.personal|Period-0419~Devonian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian.secret|Period-0419~Devonian.secret]]"
-dv_has_duration_years: "6.030e+7"
-dv_has_previous_item: "[[Period-0444~Silurian]]"
-dv_has_next_item: "[[Period-0359~Carboniferous]]"
+  - '[[WD~Devonian,65955]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian|Period-0419~Devonian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian.public|Period-0419~Devonian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian.internal|Period-0419~Devonian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian.protect|Period-0419~Devonian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian.private|Period-0419~Devonian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian.personal|Period-0419~Devonian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian.secret|Period-0419~Devonian.secret]]'
+dv_has_duration_years: 6.030e+7
+dv_has_previous_item: '[[Period-0444~Silurian]]'
+dv_has_next_item: '[[Period-0359~Carboniferous]]'
 dv_is_same_as:
-  - "[[WD~Devonian,65955]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian|Period-0419~Devonian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian.public|Period-0419~Devonian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian.internal|Period-0419~Devonian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian.protect|Period-0419~Devonian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian.private|Period-0419~Devonian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian.personal|Period-0419~Devonian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian.secret|Period-0419~Devonian.secret]]"
+- '[[WD~Devonian,65955]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian|Period-0419~Devonian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian.public|Period-0419~Devonian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian.internal|Period-0419~Devonian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian.protect|Period-0419~Devonian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian.private|Period-0419~Devonian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian.personal|Period-0419~Devonian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian.secret|Period-0419~Devonian.secret]]'
 dv_has_name_bg: Девон
 dv_has_name_cs: Devon
 dv_has_name_da: Devon
@@ -115,11 +242,10 @@ dv_has_name_sl: devon
 dv_has_name_sv: devon
 dv_has_name_zh: 泥盆纪
 dv_has_name_abbreviated: D
-dv_has_time_started: "-419.2e6"
-dv_has_time_stopped: "-358.9e6"
-dv_has_text_of_color: "0xCB8C37"
+dv_has_time_started: -419.2e6
+dv_has_time_stopped: -358.9e6
+dv_has_text_of_color: 0xCB8C37
 ---
-
 # [[Period-0419~Devonian]] 
 
 #is_a_/time_/Period 

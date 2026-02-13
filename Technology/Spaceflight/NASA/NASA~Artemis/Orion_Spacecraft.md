@@ -1,25 +1,49 @@
 ---
 aliases:
+- Orion
+- Orion (chombo cha anga-nje)
+- Orion (nau espacial)
+- Orion (nave espacial)
+- Orion (svemirska letjelica)
+- Orion űrhajó
+- Orión
+- Romfartøyet «Orion»
+- Tàu Orion
+- Арыён
+- Орион
+- אוריון
+- אריאן
+- أوريون
+- اوریون
+- ओरायन(अंतरिक्ष यान)
+- ওরায়ন
+- ஒராயன்
+- ยานโอไรออน
+- オリオン
+- 奧賴恩太空船
+- 猎户座飞船
+- 獵戶座太空船
+- 오리온 우주선
 has_id_wikidata: Q211727
-type_of_orbit: "[[_Standards/WikiData/WD~low_Earth_orbit,663611]]"
+type_of_orbit: '[[_Standards/WikiData/WD~low_Earth_orbit,663611]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~space_capsule,957055]]"
-  - "[[_Standards/WikiData/WD~crewed_spacecraft,7217761]]"
-  - "[[_Standards/WikiData/WD~reusable_spacecraft,96401666]]"
-replaces: "[[_Standards/WikiData/WD~Crew_Exploration_Vehicle,969345]]"
+- '[[_Standards/WikiData/WD~space_capsule,957055]]'
+- '[[_Standards/WikiData/WD~crewed_spacecraft,7217761]]'
+- '[[_Standards/WikiData/WD~reusable_spacecraft,96401666]]'
+replaces: '[[_Standards/WikiData/WD~Crew_Exploration_Vehicle,969345]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Raumpatrouille_Orion_Rücksturz_ins_Kino,1638629]]"
-  - "[[_Standards/WikiData/WD~Raumschiff_Orion,1777830]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Orion_(spacecraft),8705481]]"
+- '[[_Standards/WikiData/WD~Raumpatrouille_Orion_Rücksturz_ins_Kino,1638629]]'
+- '[[_Standards/WikiData/WD~Raumschiff_Orion,1777830]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Orion_(spacecraft),8705481]]'
 manufacturer:
-  - "[[_Standards/WikiData/WD~Airbus_Defence_and_Space,15529123]]"
-  - "[[_Standards/WikiData/WD~Lockheed_Martin,7240]]"
-instance_of: "[[_Standards/WikiData/WD~vehicle_model,29048322]]"
-named_after: "[[_Standards/WikiData/WD~Orion,8860]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
+- '[[_Standards/WikiData/WD~Airbus_Defence_and_Space,15529123]]'
+- '[[_Standards/WikiData/WD~Lockheed_Martin,7240]]'
+instance_of: '[[_Standards/WikiData/WD~vehicle_model,29048322]]'
+named_after: '[[_Standards/WikiData/WD~Orion,8860]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
 diameter:
-  - 1
-  - 5.03
+- 1
+- 5.03
 shelf_life: 21.1
 mass: 33446
 social_media_followers: 761095
@@ -31,8 +55,71 @@ official_website: https://www.nasa.gov/exploration/systems/orion/index.html
 X_Twitter_username: NASA_Orion
 Commons_category: Orion (spacecraft)
 inception: 2006-08-22T00:00:00Z
+dv_has_:
+  name_:
+    an: Orion (nau espacial)
+    ar: أوريون
+    be: Арыён
+    bg: Орион
+    bn: ওরায়ন
+    ca: Orion
+    cs: Orion
+    da: Orion
+    de: Orion
+    de-ch: Orion
+    el: Orion
+    en: Orion
+    en-ca: Orion
+    en-gb: Orion
+    eo: Orion
+    es: Orión
+    et: Orion
+    eu: Orion
+    fa: اوریون
+    fi: Orion
+    fr: Orion
+    gl: Orion (nave espacial)
+    he: אוריון
+    hi: ओरायन(अंतरिक्ष यान)
+    hr: Orion (svemirska letjelica)
+    hu: Orion űrhajó
+    id: Orion
+    it: Orion
+    ja: オリオン
+    jv: Orion
+    ko: 오리온 우주선
+    lt: Orion
+    lv: Orion
+    mk: Орион
+    nb: Orion
+    nl: Orion
+    nn: Romfartøyet «Orion»
+    pl: Orion
+    pt: Orion
+    pt-br: Orion
+    ro: Orion
+    ru: Орион
+    sk: Orion
+    sl: Orion
+    sr: Орион
+    sv: Orion
+    sw: Orion (chombo cha anga-nje)
+    ta: ஒராயன்
+    th: ยานโอไรออน
+    tr: Orion
+    tt: Orion
+    uk: Orion
+    vi: Tàu Orion
+    wuu: 猎户座飞船
+    yi: אריאן
+    zh: 猎户座飞船
+    zh-cn: 猎户座飞船
+    zh-hans: 猎户座飞船
+    zh-hant: 獵戶座太空船
+    zh-hk: 奧賴恩太空船
+    zh-sg: 猎户座飞船
+    zh-tw: 獵戶座太空船
 ---
-
 # [[Orion_Spacecraft]] 
 
 #is_/same_as :: [[WD~Orion_Spacecraft,211727]] 

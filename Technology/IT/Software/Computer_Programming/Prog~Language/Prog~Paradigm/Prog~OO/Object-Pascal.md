@@ -1,8 +1,62 @@
 ---
 has_id_wikidata: Q633894
+dv_has_:
+  name_:
+    ar: أوبجكت باسكال
+    ca: Object Pascal
+    cs: Object Pascal
+    da: Object Pascal
+    de: Object Pascal
+    el: Object Pascal
+    en: Object Pascal
+    eo: Objektema Paskalo
+    es: Object Pascal
+    fa: آبجکت پاسکال
+    fi: Object Pascal
+    fr: Object Pascal
+    he: אובג'קט פסקל
+    hu: Object Pascal
+    id: Objek Pascal
+    io: Object Pascal
+    it: Object Pascal
+    ja: Object Pascal
+    ko: 오브젝트 파스칼
+    ms: Object Pascal
+    mul: Object Pascal
+    nb: Object Pascal
+    nl: Object Pascal
+    pl: Object Pascal
+    pt: Object Pascal
+    ro: Object Pascal
+    sco: Object Pascal
+    sk: Object Pascal
+    sl: Object Pascal
+    sq: Object Pascal
+    sr: Објектни Паскал
+    sv: Object Pascal
+    tg: Object Pascal
+    tg-latn: Object Pascal
+    th: ภาษาอ็อบเจกต์ปาสกาล
+    tr: Object Pascal
+    tt: Object Pascal
+    tt-cyrl: Object Pascal
+    vec: Object Pascal
+    vi: Object Pascal
+    zh: Object Pascal
+    zh-hans: Object Pascal
+    zh-hant: Object Pascal
+    zh-hk: Object Pascal
+aliases:
+- Object Pascal
+- Objek Pascal
+- Objektema Paskalo
+- Објектни Паскал
+- אובג'קט פסקל
+- آبجکت پاسکال
+- أوبجكت باسكال
+- ภาษาอ็อบเจกต์ปาสกาล
+- 오브젝트 파스칼
 ---
-
-
 # [[Object-Pascal]] 
 
 #is_a_/ComputerLanguage 

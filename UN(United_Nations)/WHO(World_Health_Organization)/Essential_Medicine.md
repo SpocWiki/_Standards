@@ -1,16 +1,122 @@
 ---
 aliases:
-  - Essential_Medicine
-  - Essential medicine
-  - Essential Medicine
+- alapvető gyógyszer
+- cyffur hanfodol
+- darıyo xas
+- esencaj medikamentoj
+- essensielt legemiddel
+- Essential medicine
+- Essential_Medicine
+- essentieel geneesmiddel
+- farmaco essenziale
+- farmako esentzial
+- lek podstawowy
+- medegamento esensiałe
+- medhegneth essensek
+- medicament esențial
+- medicament essencial
+- medicamento esencial
+- medicamento essencial
+- Medikaman esansyèl
+- medshin femoil
+- Melecina esencial
+- médicament essentiel
+- Obat-obatan esensial
+- osnovna lista lijekova
+- osnovno zdravilo
+- pagrindinis vaistas
+- temel ilaç
+- ubat perlu
+- unentbehrliches Arzneimittel
+- viktigt läkemedel
+- základní léčivo
+- βασικό φάρμακο
+- асноўныя лекі
+- есенцијални лекови
+- необхідні ліки
+- неопходен лек
+- Основни лекарства
+- основное лекарство
+- төп дару
+- Հիմնական դեղամիջոցներ
+- תרופה חיונית
+- أدوية أساسية
+- اوبت ڤرلو
+- ضروری دوا
+- आवश्यक औषधि
+- आवश्यक औषधे
+- অত্যাবশ্যকীয় ওষুধের তালিকা
+- ଅତ୍ୟାବଶ୍ୟକୀୟ ଔଷଧ
+- இன்றியமையா மருந்துகள்
+- అత్యవసర ఔషధాలు
+- შანულამი წამალი
+- 基本藥物
+- 必須医薬品
+- 필수 의약품
 has_id_wikidata: Q35456
 instance_of: '[[_Standards/WikiData/WD~drug_class,2585617]]'
 facet_of: '[[_Standards/WikiData/WD~World_Health_Organization,7817]]'
 subclass_of: '[[_Standards/WikiData/WD~medication,12140]]'
 UMLS_CUI: C0282568
 MeSH_tree_code: D26.355
+dv_has_:
+  name_:
+    ar: أدوية أساسية
+    ast: Melecina esencial
+    be-tarask: асноўныя лекі
+    bg: Основни лекарства
+    bn: অত্যাবশ্যকীয় ওষুধের তালিকা
+    ca: medicament essencial
+    cs: základní léčivo
+    cy: cyffur hanfodol
+    de: unentbehrliches Arzneimittel
+    diq: darıyo xas
+    el: βασικό φάρμακο
+    en: essential medicine
+    eo: esencaj medikamentoj
+    es: medicamento esencial
+    eu: farmako esentzial
+    fr: médicament essentiel
+    gl: medicamento esencial
+    gv: medshin femoil
+    he: תרופה חיונית
+    hi: आवश्यक औषधि
+    hr: osnovna lista lijekova
+    ht: Medikaman esansyèl
+    hu: alapvető gyógyszer
+    hy: Հիմնական դեղամիջոցներ
+    id: Obat-obatan esensial
+    it: farmaco essenziale
+    ja: 必須医薬品
+    ko: 필수 의약품
+    ks: ضروری دوا
+    kw: medhegneth essensek
+    lt: pagrindinis vaistas
+    mk: неопходен лек
+    mr: आवश्यक औषधे
+    ms: ubat perlu
+    ms-arab: اوبت ڤرلو
+    nb: essensielt legemiddel
+    nl: essentieel geneesmiddel
+    nn: essensielt legemiddel
+    or: ଅତ୍ୟାବଶ୍ୟକୀୟ ଔଷଧ
+    pl: lek podstawowy
+    pt: medicamento essencial
+    ro: medicament esențial
+    ru: основное лекарство
+    sl: osnovno zdravilo
+    sr: есенцијални лекови
+    sv: viktigt läkemedel
+    ta: இன்றியமையா மருந்துகள்
+    te: అత్యవసర ఔషధాలు
+    tr: temel ilaç
+    tt: төп дару
+    uk: необхідні ліки
+    vec: medegamento esensiałe
+    xmf: შანულამი წამალი
+    yue: 基本藥物
+    zh: 基本藥物
 ---
-
 # [[Essential_Medicine]] 
 
 #is_/same_as :: [[../../WikiData/WD~Essential_medicine,35456|WD~Essential_medicine,35456]] 

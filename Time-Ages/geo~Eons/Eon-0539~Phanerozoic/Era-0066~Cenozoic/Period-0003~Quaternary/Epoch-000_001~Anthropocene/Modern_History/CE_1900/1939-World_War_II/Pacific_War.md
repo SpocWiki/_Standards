@@ -1,35 +1,106 @@
 ---
 aliases:
-  - Pacific_War
-  - Pacific War
-  - Asia–Pacific War
-  - Pacific Theater
+- Antrasis pasaulinis karas Ramiajame vandenyne
+- Asia–Pacific War
+- Azië in de Tweede Wereldoorlog
+- Bellum Pacificum
+- Brezel ar Meurvor Habask
+- Chiến tranh Thái Bình Dương
+- Cogadh an Aigéin Chiúin
+- csendes-óceáni háború
+- Digmaang Pasipiko
+- Gera de la Pasifica
+- guera del pasìfego
+- guerra del Pacifico
+- Guerra del Pacífic
+- Guerra del Pacífico
+- Guerra del Pacíficu
+- Guerra do Pacífico
+- guerre du Pacifique
+- Klusā okeāna karš
+- Lufta e Paqësorit
+- Pacific Theater
+- Pacific War
+- Pacific_War
+- Pacifika Milito
+- Paraguasu Py'aguapy ñorairõ (1937-1945)
+- Pasifik Cephesi
+- Pazifikkrich
+- Pazifikkrieg
+- Pazifikoko Gerra
+- Perang Pasifik
+- Rat na Pacifiku
+- Războiul din Pacific
+- Stillahavskriget
+- Stillehavskrigen
+- Sõda Vaiksel ookeanil
+- Thài-pêng-iûⁿ Chiàn-cheng
+- Tinch okeanidagi urush
+- Tyynenmeren sota toisessa maailmansodassa
+- Vojna v Pacifiku
+- vojna za Tihi ocean
+- válka v Tichomoří
+- wojna na Pacyfiku
+- Yakin Pacific
+- Yuda Pasifik
+- İkinci dünya müharibəsində Sakit okean cəbhəsi
+- Πόλεμος του Ειρηνικού
+- Війна на Тихому океані
+- Вайна ў Ціхім акіяне
+- Икенсе донъя һуғышының Тымыҡ океан хәрби хәрәкәттәр театры
+- Икенче бөтендөнья сугышының Тын океан хәрби хәрәкәтләр театры
+- Рат на Пацифику
+- Тихоокеанска војна
+- Тихоокеански театър
+- Тихоокеанский театр военных действий Второй мировой войны
+- Ціхаакіянскі тэатр ваенных дзеянняў Другой сусветнай вайны
+- Խաղաղօվկիանոսյան պատերազմ
+- המערכה באסיה ובאוקיינוס השקט
+- ایکینجی دۆنیا ساواشسینده ساکیت اوقیانوس جبههسی
+- بحر الکاہل جنگ
+- جنگ اقیانوس آرام
+- حرب المحيط الهادئ
+- حرب المحيط الهادي
+- د ارام سمندر جګړه
+- شەڕی پاسفیک
+- ߖߐ߮ ߟߌ߲ߓߊ߲ ߞߍ߬ߟߍ
+- प्रशांत युद्ध
+- प्रशान्त युद्ध
+- প্রশান্ত মহাসাগরীয় যুদ্ধ
+- பசிபிக் போர்
+- പസഫിക് യുദ്ധം
+- สงครามแปซิฟิก
+- წყნარი ოკეანის კამპანიები
+- 太平洋战争
+- 太平洋戦争
+- 太平洋戰爭
+- 태평양 전쟁 (제2차 세계 대전)
 has_id_wikidata: Q184425
 has_effect:
-  - "[[_Standards/WikiData/WD~Empire_of_Japan,188712]]"
-  - "[[_Standards/WikiData/WD~Allies_of_World_War_II,329888]]"
-  - "[[_Standards/WikiData/WD~Europe,46]]"
+- '[[_Standards/WikiData/WD~Empire_of_Japan,188712]]'
+- '[[_Standards/WikiData/WD~Allies_of_World_War_II,329888]]'
+- '[[_Standards/WikiData/WD~Europe,46]]'
 participant:
-  - "[[_Standards/WikiData/WD~Empire_of_Japan,188712]]"
-  - "[[_Standards/WikiData/WD~Dominion_of_New_Zealand,2594990]]"
-  - "[[_Standards/WikiData/WD~China,13426199]]"
-  - "[[_Standards/WikiData/WD~Australia,408]]"
-  - "[[_Standards/WikiData/WD~Thailand,869]]"
-  - "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
-  - "[[_Standards/WikiData/WD~Canada,16]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~Netherlands,55]]"
-  - "[[_Standards/WikiData/WD~Mexico,96]]"
-  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
-instance_of: "[[_Standards/WikiData/WD~theater_of_war,718893]]"
+- '[[_Standards/WikiData/WD~Empire_of_Japan,188712]]'
+- '[[_Standards/WikiData/WD~Dominion_of_New_Zealand,2594990]]'
+- '[[_Standards/WikiData/WD~China,13426199]]'
+- '[[_Standards/WikiData/WD~Australia,408]]'
+- '[[_Standards/WikiData/WD~Thailand,869]]'
+- '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
+- '[[_Standards/WikiData/WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Netherlands,55]]'
+- '[[_Standards/WikiData/WD~Mexico,96]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+instance_of: '[[_Standards/WikiData/WD~theater_of_war,718893]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~South_West_Pacific_theater_of_World_War_II,2423295]]"
-  - "[[_Standards/WikiData/WD~Pacific_Ocean_Theater_of_World_War_II,2920892]]"
+- '[[_Standards/WikiData/WD~South_West_Pacific_theater_of_World_War_II,2423295]]'
+- '[[_Standards/WikiData/WD~Pacific_Ocean_Theater_of_World_War_II,2920892]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~Greater_East_Asia_War,3846875]]"
-  - "[[_Standards/WikiData/WD~Asia_Pacific_War,11283334]]"
-  - "[[_Standards/WikiData/WD~Far_East_War,11541462]]"
-location: "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
+- '[[_Standards/WikiData/WD~Greater_East_Asia_War,3846875]]'
+- '[[_Standards/WikiData/WD~Asia_Pacific_War,11283334]]'
+- '[[_Standards/WikiData/WD~Far_East_War,11541462]]'
+location: '[[_Standards/WikiData/WD~Pacific_Ocean,98]]'
 end_time: 1945-09-02T00:00:00Z
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Pearl%20harbor%20banner.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/US%20landings.jpg
@@ -37,25 +108,122 @@ Commons_category: Pacific War
 start_time: 1941-12-07T00:00:00Z
 dv_is_:
   same_as:
-    - "[[../../../../../../../../../WikiData/WD~Pacific_War,184425|WD~Pacific_War,184425]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Pacific_War|Pacific_War]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Pacific_War.public|Pacific_War.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Pacific_War.internal|Pacific_War.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Pacific_War.protect|Pacific_War.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Pacific_War.private|Pacific_War.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Pacific_War.personal|Pacific_War.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Pacific_War.secret|Pacific_War.secret]]"
+  - '[[../../../../../../../../../WikiData/WD~Pacific_War,184425|WD~Pacific_War,184425]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Pacific_War|Pacific_War]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Pacific_War.public|Pacific_War.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Pacific_War.internal|Pacific_War.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Pacific_War.protect|Pacific_War.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Pacific_War.private|Pacific_War.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Pacific_War.personal|Pacific_War.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Pacific_War.secret|Pacific_War.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../../WikiData/WD~Pacific_War,184425|WD~Pacific_War,184425]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Pacific_War|Pacific_War]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Pacific_War.public|Pacific_War.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Pacific_War.internal|Pacific_War.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Pacific_War.protect|Pacific_War.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Pacific_War.private|Pacific_War.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Pacific_War.personal|Pacific_War.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Pacific_War.secret|Pacific_War.secret]]"
+- '[[../../../../../../../../../WikiData/WD~Pacific_War,184425|WD~Pacific_War,184425]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Pacific_War|Pacific_War]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Pacific_War.public|Pacific_War.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Pacific_War.internal|Pacific_War.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Pacific_War.protect|Pacific_War.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Pacific_War.private|Pacific_War.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Pacific_War.personal|Pacific_War.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Pacific_War.secret|Pacific_War.secret]]'
+dv_has_:
+  name_:
+    acm: حرب المحيط الهادي
+    ar: حرب المحيط الهادئ
+    ast: Guerra del Pacíficu
+    az: İkinci dünya müharibəsində Sakit okean cəbhəsi
+    azb: ایکینجی دۆنیا ساواشسینده ساکیت اوقیانوس جبههسی
+    ba: Икенсе донъя һуғышының Тымыҡ океан хәрби хәрәкәттәр театры
+    ban: Yuda Pasifik
+    be: Ціхаакіянскі тэатр ваенных дзеянняў Другой сусветнай вайны
+    be-tarask: Вайна ў Ціхім акіяне
+    bg: Тихоокеански театър
+    bn: প্রশান্ত মহাসাগরীয় যুদ্ধ
+    br: Brezel ar Meurvor Habask
+    bs: Rat na Pacifiku
+    ca: Guerra del Pacífic
+    ckb: شەڕی پاسفیک
+    cs: válka v Tichomoří
+    da: Stillehavskrigen
+    de: Pazifikkrieg
+    de-ch: Pazifikkrieg
+    el: Πόλεμος του Ειρηνικού
+    en: Pacific War
+    en-ca: Pacific War
+    en-gb: Pacific War
+    eo: Pacifika Milito
+    es: Guerra del Pacífico
+    et: Sõda Vaiksel ookeanil
+    eu: Pazifikoko Gerra
+    fa: جنگ اقیانوس آرام
+    fi: Tyynenmeren sota toisessa maailmansodassa
+    fr: guerre du Pacifique
+    ga: Cogadh an Aigéin Chiúin
+    gl: Guerra do Pacífico
+    gn: Paraguasu Py'aguapy ñorairõ (1937-1945)
+    ha: Yakin Pacific
+    he: המערכה באסיה ובאוקיינוס השקט
+    hi: प्रशांत युद्ध
+    hr: Rat na Pacifiku
+    hu: csendes-óceáni háború
+    hy: Խաղաղօվկիանոսյան պատերազմ
+    id: Perang Pasifik
+    it: guerra del Pacifico
+    ja: 太平洋戦争
+    jv: Perang Pasifik
+    ka: წყნარი ოკეანის კამპანიები
+    ko: 태평양 전쟁 (제2차 세계 대전)
+    la: Bellum Pacificum
+    lb: Pazifikkrich
+    lfn: Gera de la Pasifica
+    lt: Antrasis pasaulinis karas Ramiajame vandenyne
+    lv: Klusā okeāna karš
+    mk: Тихоокеанска војна
+    ml: പസഫിക് യുദ്ധം
+    ms: Perang Pasifik
+    nan: Thài-pêng-iûⁿ Chiàn-cheng
+    nb: Stillehavskrigen
+    ne: प्रशान्त युद्ध
+    nl: Azië in de Tweede Wereldoorlog
+    nqo: ߖߐ߮ ߟߌ߲ߓߊ߲ ߞߍ߬ߟߍ
+    pl: wojna na Pacyfiku
+    pnb: بحر الکاہل جنگ
+    ps: د ارام سمندر جګړه
+    pt: Guerra do Pacífico
+    pt-br: Guerra do Pacífico
+    ro: Războiul din Pacific
+    ru: Тихоокеанский театр военных действий Второй мировой войны
+    ryu: 太平洋戦争
+    sh: Rat na Pacifiku
+    sk: Vojna v Pacifiku
+    sl: vojna za Tihi ocean
+    sq: Lufta e Paqësorit
+    sr: Рат на Пацифику
+    sr-ec: Рат на Пацифику
+    sr-el: Rat na Pacifiku
+    su: Perang Pasifik
+    sv: Stillahavskriget
+    ta: பசிபிக் போர்
+    th: สงครามแปซิฟิก
+    tl: Digmaang Pasipiko
+    tr: Pasifik Cephesi
+    tt: Икенче бөтендөнья сугышының Тын океан хәрби хәрәкәтләр театры
+    uk: Війна на Тихому океані
+    ur: بحر الکاہل جنگ
+    uz: Tinch okeanidagi urush
+    vec: guera del pasìfego
+    vi: Chiến tranh Thái Bình Dương
+    wuu: 太平洋战争
+    yue: 太平洋戰爭
+    zh: 太平洋战争
+    zh-cn: 太平洋战争
+    zh-hans: 太平洋战争
+    zh-hant: 太平洋戰爭
+    zh-hk: 太平洋戰爭
+    zh-mo: 太平洋戰爭
+    zh-my: 太平洋战争
+    zh-sg: 太平洋战争
+    zh-tw: 太平洋戰爭
 ---
-
 # [[Pacific_War]] 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Pacific_War,184425|WD~Pacific_War,184425]]  

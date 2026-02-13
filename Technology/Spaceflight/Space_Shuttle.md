@@ -1,46 +1,236 @@
 ---
 aliases:
+- avaruussukkula
+- Baibén spacial
+- Bolak-balik angkasa lepas
+- Daugkartinis erdvėlaivis
+- Egorvulzun
+- Espazio-anezka
+- Fazoviy moki
+- Geimskutla
+- Gwennol Ofod
+- kosmopramo
+- Kosmosesüstik
+- Lasador na pangkalawan
+- navette spatiale américaine
+- Navicula spatialis
+- Navèt spasyal amérikenn
+- Panambangan Antariksa
+- Pesawat ulang-alik
+- Rodorsceaþel
+- Romferge
+- romferje
+- Ruimtependeltuig
+- Rumfærge
+- Rúmdarferja
+- Spaal Spoar
+- Space Shuttle
+- Spaco-paromo
+- Spejs šatl
+- Speys Şattl
+- Spies Shokl
+- Thài-khong-so
+- Tointeálaí Spáis
+- transbordador espacial
+- Tresbordador STS
+- Tàu con thoi
+- Uzay mekiği
+- vaivém
+- wahadłowiec kosmiczny
+- Yágháhoníkáángóó ałánátʼahí
+- ônibus espacial
+- Διαστημικό Λεωφορείο
+- Касьмічны чаўнок
+- космічний човник
+- Космическа совалка
+- Спејс шатл
+- Спейс шатл
+- спейс-шаттл
+- Սփեյս Շաթլ
+- מעבורת חלל
+- ספעיס שאטעל
+- خلائي شٽل
+- خلائی شٹل
+- شاتل فضایی
+- فضا شاتئلی
+- فضائی مکوک
+- فضايي شټل
+- مكوك فضاء
+- مەکۆکی ئاسمانی
+- अंतराळ शटल
+- अंतरिक्ष शटल
+- स्पेस शटल्स
+- স্পেস শাটল
+- ਪੁਲਾੜ ਵਾਹਨ
+- விண்ணோடம்
+- స్పేస్ షటిల్
+- സ്പേസ് ഷട്ടിൽ
+- අභ්යවකාශ ෂටල
+- กระสวยอวกาศ
+- ກະສວຍອາວະກາດ
+- အာကာသလွန်းပျံ
+- ᎦᎸᎶᎯ ᏪᏙᎯ
+- Ọkọ̀-àlọbọ̀ Òfurufú
+- スペースシャトル
+- 天梭
+- 太空梭
+- 太空穿梭機
+- 太空船
+- 穿梭機
+- 航天飛機
+- 航天飞机
+- 우주왕복선
 has_id_wikidata: Q48806
-has_use: "[[_Standards/WikiData/WD~orbital_spaceflight,218455]]"
+has_use: '[[_Standards/WikiData/WD~orbital_spaceflight,218455]]'
 manufacturer:
-  - "[[_Standards/WikiData/WD~Alliant_Techsystems,238765]]"
-  - "[[_Standards/WikiData/WD~Martin_Marietta,626800]]"
-  - "[[_Standards/WikiData/WD~United_Space_Alliance,1541150]]"
-  - "[[_Standards/WikiData/WD~Thiokol,2357348]]"
-  - "[[_Standards/WikiData/WD~Lockheed_Martin,7240]]"
-  - "[[_Standards/WikiData/WD~Boeing,66]]"
-start_point: "[[_Standards/WikiData/WD~Kennedy_Space_Center_Launch_Complex_39,845774]]"
+- '[[_Standards/WikiData/WD~Alliant_Techsystems,238765]]'
+- '[[_Standards/WikiData/WD~Martin_Marietta,626800]]'
+- '[[_Standards/WikiData/WD~United_Space_Alliance,1541150]]'
+- '[[_Standards/WikiData/WD~Thiokol,2357348]]'
+- '[[_Standards/WikiData/WD~Lockheed_Martin,7240]]'
+- '[[_Standards/WikiData/WD~Boeing,66]]'
+start_point: '[[_Standards/WikiData/WD~Kennedy_Space_Center_Launch_Complex_39,845774]]'
 powered_by:
-  - "[[_Standards/WikiData/WD~RS_25,1030042]]"
-  - "[[_Standards/WikiData/WD~Space_Shuttle_Orbital_Maneuvering_System,1263822]]"
-  - "[[_Standards/WikiData/WD~Space_Shuttle_Solid_Rocket_Booster,1422862]]"
+- '[[_Standards/WikiData/WD~RS_25,1030042]]'
+- '[[_Standards/WikiData/WD~Space_Shuttle_Orbital_Maneuvering_System,1263822]]'
+- '[[_Standards/WikiData/WD~Space_Shuttle_Solid_Rocket_Booster,1422862]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Space_Shuttle_external_tank,1061044]]"
-  - "[[_Standards/WikiData/WD~Space_Shuttle_orbiter,1064394]]"
-  - "[[_Standards/WikiData/WD~Space_Shuttle_Solid_Rocket_Booster,1422862]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_space_shuttle,6266629]]"
+- '[[_Standards/WikiData/WD~Space_Shuttle_external_tank,1061044]]'
+- '[[_Standards/WikiData/WD~Space_Shuttle_orbiter,1064394]]'
+- '[[_Standards/WikiData/WD~Space_Shuttle_Solid_Rocket_Booster,1422862]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_space_shuttle,6266629]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~rocket_model,110055303]]"
-  - "[[_Standards/WikiData/WD~spacecraft_model,117384800]]"
-different_from: "[[_Standards/WikiData/WD~space_shuttle,125217474]]"
-subclass_of: "[[_Standards/WikiData/WD~reusable_launch_vehicle,30128]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
+- '[[_Standards/WikiData/WD~rocket_model,110055303]]'
+- '[[_Standards/WikiData/WD~spacecraft_model,117384800]]'
+different_from: '[[_Standards/WikiData/WD~space_shuttle,125217474]]'
+subclass_of: '[[_Standards/WikiData/WD~reusable_launch_vehicle,30128]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
 diameter: 343
 height: 2209
-Nomenclature_for_Museum_Cataloging: "11734"
+Nomenclature_for_Museum_Cataloging: 11734
 image: http://commons.wikimedia.org/wiki/Special:FilePath/STS120LaunchHiRes-edit1.jpg
 first_flight: 1981-04-12T00:00:00Z
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Pl%C3%A1nik%20orbitera%202.JPG
 equivalent_class: http://dbpedia.org/ontology/SpaceShuttle
 exact_match: http://wordnet-rdf.princeton.edu/wn30/04266014-n
-U_S_National_Archives_Identifier: "10644333"
-RIA_Novosti_reference: "50932260"
+U_S_National_Archives_Identifier: 10644333
+RIA_Novosti_reference: 50932260
 Krugosvet_article_archived_: aviaciya-i-kosmonavtika/kosmicheskiy-korabl-shattl
 DPLA_subject_term: Space shuttle
 Commons_gallery: Space Shuttle
 Commons_category: Space Shuttles
+dv_has_:
+  name_:
+    af: Ruimtependeltuig
+    ang: Rodorsceaþel
+    ar: مكوك فضاء
+    ast: Tresbordador STS
+    az: Speys Şattl
+    azb: فضا شاتئلی
+    be: Спейс шатл
+    be-tarask: Касьмічны чаўнок
+    bg: Космическа совалка
+    bn: স্পেস শাটল
+    br: Egorvulzun
+    bs: Space Shuttle
+    ca: transbordador espacial
+    chr: ᎦᎸᎶᎯ ᏪᏙᎯ
+    ckb: مەکۆکی ئاسمانی
+    cs: Space Shuttle
+    cy: Gwennol Ofod
+    da: Rumfærge
+    de: Space Shuttle
+    el: Διαστημικό Λεωφορείο
+    en: Space Shuttle
+    en-ca: Space Shuttle
+    en-gb: Space Shuttle
+    eo: kosmopramo
+    es: transbordador espacial
+    et: Kosmosesüstik
+    eu: Espazio-anezka
+    fa: شاتل فضایی
+    fi: avaruussukkula
+    fo: Rúmdarferja
+    fr: navette spatiale américaine
+    frr: Space Shuttle
+    ga: Tointeálaí Spáis
+    gan: 太空船
+    gcr: Navèt spasyal amérikenn
+    gl: transbordador espacial
+    gv: Spaal Spoar
+    ha: Space Shuttle
+    he: מעבורת חלל
+    hi: अंतरिक्ष शटल
+    hr: Space Shuttle
+    hu: Space Shuttle
+    hy: Սփեյս Շաթլ
+    id: Pesawat ulang-alik
+    io: Spaco-paromo
+    is: Geimskutla
+    it: Space Shuttle
+    ja: スペースシャトル
+    jam: Spies Shokl
+    jv: Panambangan Antariksa
+    ko: 우주왕복선
+    ky: Спейс Шатл
+    la: Navicula spatialis
+    lb: Space Shuttle
+    li: Space Shuttle
+    lo: ກະສວຍອາວະກາດ
+    lt: Daugkartinis erdvėlaivis
+    lv: Space Shuttle
+    lzh: 天梭
+    mk: Спејс шатл
+    ml: സ്പേസ് ഷട്ടിൽ
+    mr: अंतराळ शटल
+    ms: Bolak-balik angkasa lepas
+    mwl: Baibén spacial
+    my: အာကာသလွန်းပျံ
+    nan: Thài-khong-so
+    nb: Romferge
+    nds: Space Shuttle
+    ne: स्पेस शटल्स
+    nl: Space Shuttle
+    nn: romferje
+    nv: Yágháhoníkáángóó ałánátʼahí
+    pa: ਪੁਲਾੜ ਵਾਹਨ
+    pl: wahadłowiec kosmiczny
+    pnb: خلائی شٹل
+    ps: فضايي شټل
+    pt: vaivém
+    pt-br: ônibus espacial
+    ro: Space Shuttle
+    ru: спейс-шаттл
+    scn: Space Shuttle
+    sd: خلائي شٽل
+    sh: Space Shuttle
+    si: අභ්යවකාශ ෂටල
+    sk: Space Shuttle
+    sl: Space Shuttle
+    sr: Spejs šatl
+    stq: Space Shuttle
+    sv: Space Shuttle
+    ta: விண்ணோடம்
+    te: స్పేస్ షటిల్
+    th: กระสวยอวกาศ
+    tl: Lasador na pangkalawan
+    tr: Uzay mekiği
+    uk: космічний човник
+    ur: فضائی مکوک
+    uz: Fazoviy moki
+    vec: Space Shuttle
+    vi: Tàu con thoi
+    wuu: 航天飞机
+    yi: ספעיס שאטעל
+    yo: Ọkọ̀-àlọbọ̀ Òfurufú
+    yue: 穿梭機
+    zh: 航天飞机
+    zh-cn: 航天飞机
+    zh-hans: 航天飞机
+    zh-hant: 航天飛機
+    zh-hk: 太空穿梭機
+    zh-tw: 太空梭
 ---
-
 # [[Space_Shuttle]] 
 
 #is_/same_as :: [[../../WikiData/WD~Space_Shuttle,48806|WD~Space_Shuttle,48806]]  

@@ -1,37 +1,107 @@
 ---
 aliases:
-  - Great Northern War
-  - 1700-Great_Northern_War+1721
-  - 1700-Great Northern War+1721
+- 1700-Great Northern War+1721
+- 1700-Great_Northern_War+1721
+- Brezel Bras an Hanternoz
+- Büyük Kuzey Savaşı
+- Den Store Nordiske Krig
+- Den store nordiske krigen
+- Gran Guerra del Nord
+- Gran Guerra del Norte
+- Gran Guerra do Norte
+- granda guera del Nord
+- Granda Guèrra dau Nòrd
+- Granda nordeyo-milito
+- Granda Nordia Milito
+- grande guerra del Nord
+- Grande Guerra do Norte
+- grande guerre du Nord
+- Great Northern War
+- Great Northren War
+- Groot Nordiese Oorlog
+- Grosser Nordischer Krieg
+- Grote Noordse Oorlog
+- Großer Nordischer Krieg
+- III wojna północna
+- Iparraldeko Gerra Handia
+- Lielais Ziemeļu karš
+- Lufta e Madhe Veriore
+- Marele Război al Nordului
+- nagy északi háború
+- Norðurlandaófriðurinn mikli
+- Perang Besar di Utara
+- Põh'asõda
+- Põhjasõda
+- Rhyfel Mawr y Gogledd
+- Severná vojna
+- severní válka
+- Shimoliy urush
+- Stora nordiska kriget
+- suuri Pohjan sota
+- Tōa Pak-hng Chiàn-cheng
+- velika severna vojna
+- Veliki severni rat
+- Veliki sjeverni rat
+- Çурçĕр вăрçи
+- Đại chiến Bắc Âu
+- Şimal müharibəsi
+- Šiaurės karas
+- Šiaurės vaina
+- Μεγάλος Βόρειος Πόλεμος
+- Велика Північна війна
+- Велика северна война
+- Велики северни рат
+- Вялікая Паўночная вайна
+- Голема северна војна
+- Паўночная вайна
+- Северная война
+- Төньяк сугыш
+- Төньяҡ һуғыш
+- Цæгаты Стыр хæст
+- Հյուսիսային պատերազմ
+- המלחמה הצפונית הגדולה
+- جنگ بزرگ شمالی
+- حرب الشمال العظمى
+- عظیم شمالی جنگ
+- قوزئی ساواشی
+- لویه شمالي جګړه
+- பெரும் வடக்குப் போர்
+- มหาสงครามเหนือ
+- ოორუეშ ლჷმა
+- ჩრდილოეთის ომი
+- 大北方战争
+- 大北方戦争
+- 大北方戰爭
+- 대북방 전쟁
 has_id_wikidata: Q151616
 participant:
-  - "[[_Standards/WikiData/WD~Electorate_of_Saxony,156199]]"
-  - "[[_Standards/WikiData/WD~Crimean_Khanate,160440]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Great_Britain,161885]]"
-  - "[[_Standards/WikiData/WD~Dutch_Republic,170072]]"
-  - "[[_Standards/WikiData/WD~Wallachia,171393]]"
-  - "[[_Standards/WikiData/WD~Polish_Lithuanian_Commonwealth,172107]]"
-  - "[[_Standards/WikiData/WD~Tsardom_of_Russia,186096]]"
-  - "[[_Standards/WikiData/WD~Cossack_Hetmanate,212439]]"
-  - "[[_Standards/WikiData/WD~Duke_of_Holstein_Gottorp,695919]]"
-  - "[[_Standards/WikiData/WD~Province_of_Hanover,819125]]"
-  - "[[_Standards/WikiData/WD~Kalmyk_Khanate,4210248]]"
-  - "[[_Standards/WikiData/WD~Principality_of_Moldavia,10957559]]"
-  - "[[_Standards/WikiData/WD~Ottoman_Empire,12560]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Prussia,27306]]"
-  - "[[_Standards/WikiData/WD~Denmark_Norway,62651]]"
-part_of: "[[_Standards/WikiData/WD~Russo_Swedish_Wars,278709]]"
+- '[[_Standards/WikiData/WD~Electorate_of_Saxony,156199]]'
+- '[[_Standards/WikiData/WD~Crimean_Khanate,160440]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Great_Britain,161885]]'
+- '[[_Standards/WikiData/WD~Dutch_Republic,170072]]'
+- '[[_Standards/WikiData/WD~Wallachia,171393]]'
+- '[[_Standards/WikiData/WD~Polish_Lithuanian_Commonwealth,172107]]'
+- '[[_Standards/WikiData/WD~Tsardom_of_Russia,186096]]'
+- '[[_Standards/WikiData/WD~Cossack_Hetmanate,212439]]'
+- '[[_Standards/WikiData/WD~Duke_of_Holstein_Gottorp,695919]]'
+- '[[_Standards/WikiData/WD~Province_of_Hanover,819125]]'
+- '[[_Standards/WikiData/WD~Kalmyk_Khanate,4210248]]'
+- '[[_Standards/WikiData/WD~Principality_of_Moldavia,10957559]]'
+- '[[_Standards/WikiData/WD~Ottoman_Empire,12560]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Prussia,27306]]'
+- '[[_Standards/WikiData/WD~Denmark_Norway,62651]]'
+part_of: '[[_Standards/WikiData/WD~Russo_Swedish_Wars,278709]]'
 described_by_source:
-  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Eesti_1000,57005414]]"
+- '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Eesti_1000,57005414]]'
 end_time: 1721-09-10T00:00:00Z
 start_time: 1700-02-22T00:00:00Z
-locations: "[[_Standards/WikiData/WD~Eastern_Europe,27468]]"
-instance_of: "[[_Standards/WikiData/WD~war,198]]"
+locations: '[[_Standards/WikiData/WD~Eastern_Europe,27468]]'
+instance_of: '[[_Standards/WikiData/WD~war,198]]'
 BHCL_UUID: f2e67da7-1ca6-4c26-88ef-ff2577200fc1
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Narva%20%28Gustaf%20Cederstr%C3%B6m%29%20-%20Nationalmuseum%20-%2018638.tif
 Commons_gallery: Great Northern War
@@ -39,26 +109,109 @@ Commons_category: Great Northern War
 Krugosvet_article: istoriya/SEVERNAYA_VONA.html
 dv_is_:
   same_as:
-    - "[[../../../../../../../../WikiData/WD~Great_Northern_War,151616|WD~Great_Northern_War,151616]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1700-Great_Northern_War+1721|1700-Great_Northern_War+1721]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1700-Great_Northern_War+1721.public|1700-Great_Northern_War+1721.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1700-Great_Northern_War+1721.internal|1700-Great_Northern_War+1721.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1700-Great_Northern_War+1721.protect|1700-Great_Northern_War+1721.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1700-Great_Northern_War+1721.private|1700-Great_Northern_War+1721.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1700-Great_Northern_War+1721.personal|1700-Great_Northern_War+1721.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1700-Great_Northern_War+1721.secret|1700-Great_Northern_War+1721.secret]]"
+  - '[[../../../../../../../../WikiData/WD~Great_Northern_War,151616|WD~Great_Northern_War,151616]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1700-Great_Northern_War+1721|1700-Great_Northern_War+1721]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1700-Great_Northern_War+1721.public|1700-Great_Northern_War+1721.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1700-Great_Northern_War+1721.internal|1700-Great_Northern_War+1721.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1700-Great_Northern_War+1721.protect|1700-Great_Northern_War+1721.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1700-Great_Northern_War+1721.private|1700-Great_Northern_War+1721.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1700-Great_Northern_War+1721.personal|1700-Great_Northern_War+1721.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1700-Great_Northern_War+1721.secret|1700-Great_Northern_War+1721.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Great_Northern_War,151616|WD~Great_Northern_War,151616]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1700-Great_Northern_War+1721|1700-Great_Northern_War+1721]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1700-Great_Northern_War+1721.public|1700-Great_Northern_War+1721.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1700-Great_Northern_War+1721.internal|1700-Great_Northern_War+1721.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1700-Great_Northern_War+1721.protect|1700-Great_Northern_War+1721.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1700-Great_Northern_War+1721.private|1700-Great_Northern_War+1721.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1700-Great_Northern_War+1721.personal|1700-Great_Northern_War+1721.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1700-Great_Northern_War+1721.secret|1700-Great_Northern_War+1721.secret]]"
+- '[[../../../../../../../../WikiData/WD~Great_Northern_War,151616|WD~Great_Northern_War,151616]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1700-Great_Northern_War+1721|1700-Great_Northern_War+1721]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1700-Great_Northern_War+1721.public|1700-Great_Northern_War+1721.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1700-Great_Northern_War+1721.internal|1700-Great_Northern_War+1721.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1700-Great_Northern_War+1721.protect|1700-Great_Northern_War+1721.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1700-Great_Northern_War+1721.private|1700-Great_Northern_War+1721.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1700-Great_Northern_War+1721.personal|1700-Great_Northern_War+1721.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1700-Great_Northern_War+1721.secret|1700-Great_Northern_War+1721.secret]]'
+dv_has_:
+  name_:
+    af: Groot Nordiese Oorlog
+    ar: حرب الشمال العظمى
+    ast: Gran Guerra del Norte
+    az: Şimal müharibəsi
+    azb: قوزئی ساواشی
+    ba: Төньяҡ һуғыш
+    be: Паўночная вайна
+    be-tarask: Вялікая Паўночная вайна
+    bg: Велика северна война
+    br: Brezel Bras an Hanternoz
+    ca: Gran Guerra del Nord
+    cs: severní válka
+    cv: Çурçĕр вăрçи
+    cy: Rhyfel Mawr y Gogledd
+    da: Den Store Nordiske Krig
+    de: Großer Nordischer Krieg
+    de-ch: Grosser Nordischer Krieg
+    el: Μεγάλος Βόρειος Πόλεμος
+    en: Great Northern War
+    eo: Granda Nordia Milito
+    es: Gran Guerra del Norte
+    et: Põhjasõda
+    eu: Iparraldeko Gerra Handia
+    fa: جنگ بزرگ شمالی
+    fi: suuri Pohjan sota
+    fr: grande guerre du Nord
+    gl: Gran Guerra do Norte
+    he: המלחמה הצפונית הגדולה
+    hr: Veliki sjeverni rat
+    hu: nagy északi háború
+    hy: Հյուսիսային պատերազմ
+    id: Perang Besar di Utara
+    io: Granda nordeyo-milito
+    is: Norðurlandaófriðurinn mikli
+    it: grande guerra del Nord
+    ja: 大北方戦争
+    ka: ჩრდილოეთის ომი
+    ko: 대북방 전쟁
+    lt: Šiaurės karas
+    lv: Lielais Ziemeļu karš
+    mk: Голема северна војна
+    nan: Tōa Pak-hng Chiàn-cheng
+    nb: Den store nordiske krig
+    nl: Grote Noordse Oorlog
+    nn: Den store nordiske krigen
+    oc: Granda Guèrra dau Nòrd
+    os: Цæгаты Стыр хæст
+    pl: III wojna północna
+    pnb: عظیم شمالی جنگ
+    ps: لویه شمالي جګړه
+    pt: Grande Guerra do Norte
+    ro: Marele Război al Nordului
+    ru: Северная война
+    sco: Great Northren War
+    sgs: Šiaurės vaina
+    sh: Veliki severni rat
+    sk: Severná vojna
+    sl: velika severna vojna
+    sq: Lufta e Madhe Veriore
+    sr: Велики северни рат
+    sr-ec: Велики северни рат
+    sr-el: Veliki severni rat
+    sv: Stora nordiska kriget
+    ta: பெரும் வடக்குப் போர்
+    th: มหาสงครามเหนือ
+    tr: Büyük Kuzey Savaşı
+    tt: Төньяк сугыш
+    uk: Велика Північна війна
+    ur: عظیم شمالی جنگ
+    uz: Shimoliy urush
+    vec: granda guera del Nord
+    vi: Đại chiến Bắc Âu
+    vro: Põh'asõda
+    wuu: 大北方战争
+    xmf: ოორუეშ ლჷმა
+    yue: 大北方戰爭
+    zh: 大北方戰爭
+    zh-cn: 大北方战争
+    zh-hans: 大北方战争
+    zh-hant: 大北方戰爭
+    zh-hk: 大北方戰爭
+    zh-sg: 大北方战争
+    zh-tw: 大北方戰爭
 ---
-
-
 # [[1700-Great_Northern_War+1721]]
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Great_Northern_War,151616|WD~Great_Northern_War,151616]]

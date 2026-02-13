@@ -1,94 +1,135 @@
 ---
 location:
-  - 17.1348
-  - 39.0385
+- 17.1348
+- 39.0385
 aliases:
-  - Calabrian
-  - Калабрий
-  - Calabr
-  - Calabrian
-  - Calabrium
-  - Calabriense
-  - Kalaabria
-  - Calabria
-  - Calabrien
-  - kalabriai
-  - calabriano
-  - カラブリア期
-  - Kalabris
-  - Onder Pleistoceen
-  - Hoog Terras
-  - Calabrium
-  - Kalambr
-  - Calabriano
-  - kalábrian
-  - calabrij
-  - calabr
-  - 卡拉布里亚期
-  - Age~2~Calabrian
+- Age~2~Calabrian
+- Calabbrianu
+- Calabr
+- Calabria
+- Calabria (geologi)
+- Calabria-vaihe
+- calabriai
+- Calabrian
+- calabriano
+- Calabriar (estaia)
+- Calabrien
+- Calabriense
+- calabrij
+- Calabrium
+- Calabrià
+- Calábrach
+- Hoog Terras
+- Kalaabria
+- Kalabr
+- kalabriai
+- Kalabrij
+- Kalabrijas stāvs
+- kalabrio
+- Kalabris
+- Kalabrium
+- Kalabriyen
+- Kalambr
+- kalábrian
+- Onder Pleistoceen
+- spodní pleistocén
+- tầng Calabria
+- калабрійський ярус
+- Калабрий
+- калабрийский ярус
+- القلوري
+- کالابرین
+- ช่วงอายุคาลาเบรียน
+- カラブリアン
+- カラブリア期
+- 卡拉布里亚期
+- 后更新世
+- 後更新世
+- 칼라브리아절
 has_id_wikidata: Q567911
 part_of:
-  - "[[_Standards/WikiData/WD~Early_Pleistocene,444693]]"
-  - "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+- '[[_Standards/WikiData/WD~Early_Pleistocene,444693]]'
+- '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Calabrian,1487061]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Calabrian,1487061]]'
 start_time: -1800000-01-01T00:00:00Z
-named_after: "[[_Standards/WikiData/WD~Calabria,1458]]"
-significant_place: "[[_Standards/WikiData/WD~Crotone,6681]]"
+named_after: '[[_Standards/WikiData/WD~Calabria,1458]]'
+significant_place: '[[_Standards/WikiData/WD~Crotone,6681]]'
 coordinate_location: Point(17.1348 39.0385)
 end_time: -774100-01-01T00:00:00Z
 Commons_category: Calabrian
 sRGB_color_hex_triplet: FFF2BA
 dv_has_:
+  duration_:
+    years: 1.026e+6
+  name_:
+    abbreviated: q2
+    af: Kalabrium
+    ar: القلوري
+    bg: Калабрий
+    ca: Calabrià
+    cs: spodní pleistocén
+    da: Calabrian
+    de: Calabrium
+    en: Calabrian
+    eo: kalabrio
+    es: Calabriense
+    et: Kalaabria
+    eu: Calabriar (estaia)
+    fa: کالابرین
+    fi: Calabria-vaihe
+    fr: Calabrien
+    ga: Calábrach
+    hu: calabriai
+    id: Kalabrium
+    it: Calabriano
+    ja: カラブリアン
+    ko: 칼라브리아절
+    lt: Kalabris
+    lv: Kalabrijas stāvs
+    nl: Calabrien
+    nn: calabria
+    no: Calabrium
+    pl: Kalabr
+    pt: Calabriano
+    ru: калабрийский ярус
+    scn: Calabbrianu
+    sh: Kalabrij
+    sk: kalábrian
+    sl: kalabrij
+    sv: Calabria (geologi)
+    th: ช่วงอายุคาลาเบรียน
+    tr: Kalabriyen
+    uk: калабрійський ярус
+    vi: tầng Calabria
+    zh: 后更新世
+    zh-hans: 后更新世
+    zh-hant: 後更新世
+  next_:
+    item: '[[Age~3~Chibanian]]'
+  previous_:
+    item: '[[Age~1~Gelasian]]'
+  text_of_:
+    color: 0xFFF2BA
   time_:
     started: -1800000
     stopped: -774000
-  duration_:
-    years: "1.026e+6"
-  previous_:
-    item: "[[Age~1~Gelasian]]"
-  next_:
-    item: "[[Age~3~Chibanian]]"
-  name_:
-    bg: Калабрий
-    cs: Calabr
-    da: Calabrian
-    de: Calabrium
-    es: Calabriense
-    et: Kalaabria
-    fi: Calabria
-    fr: Calabrien
-    hu: kalabriai
-    it: calabriano
-    ja: カラブリア期
-    lt: Kalabris
-    nl: Onder Pleistoceen/ Hoog Terras
-    no: Calabrium
-    pl: Kalambr
-    pt: Calabriano
-    sk: kalábrian
-    sl: calabrij
-    sv: calabr
-    zh: 卡拉布里亚期
-    abbreviated: q2
-  text_of_:
-    color: "0xFFF2BA"
 dv_is_:
   same_as:
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~2~Calabrian|Age~2~Calabrian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~2~Calabrian.public|Age~2~Calabrian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~2~Calabrian.internal|Age~2~Calabrian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~2~Calabrian.protect|Age~2~Calabrian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~2~Calabrian.private|Age~2~Calabrian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~2~Calabrian.personal|Age~2~Calabrian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~2~Calabrian.secret|Age~2~Calabrian.secret]]"
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~2~Calabrian|Age~2~Calabrian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~2~Calabrian.public|Age~2~Calabrian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~2~Calabrian.internal|Age~2~Calabrian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~2~Calabrian.protect|Age~2~Calabrian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~2~Calabrian.private|Age~2~Calabrian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~2~Calabrian.personal|Age~2~Calabrian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~2~Calabrian.secret|Age~2~Calabrian.secret]]'
 dv_has_time_started: -1800000
 dv_has_time_stopped: -774000
-dv_has_duration_years: "1.026e+6"
-dv_has_previous_item: "[[Age~1~Gelasian]]"
-dv_has_next_item: "[[Age~3~Chibanian]]"
+dv_has_duration_years: 1.026e+6
+dv_has_previous_item: '[[Age~1~Gelasian]]'
+dv_has_next_item: '[[Age~3~Chibanian]]'
 dv_has_name_bg: Калабрий
 dv_has_name_cs: Calabr
 dv_has_name_da: Calabrian
@@ -110,17 +151,16 @@ dv_has_name_sl: calabrij
 dv_has_name_sv: calabr
 dv_has_name_zh: 卡拉布里亚期
 dv_has_name_abbreviated: q2
-dv_has_text_of_color: "0xFFF2BA"
+dv_has_text_of_color: 0xFFF2BA
 dv_is_same_as:
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~2~Calabrian|Age~2~Calabrian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~2~Calabrian.public|Age~2~Calabrian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~2~Calabrian.internal|Age~2~Calabrian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~2~Calabrian.protect|Age~2~Calabrian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~2~Calabrian.private|Age~2~Calabrian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~2~Calabrian.personal|Age~2~Calabrian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~2~Calabrian.secret|Age~2~Calabrian.secret]]"
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~2~Calabrian|Age~2~Calabrian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~2~Calabrian.public|Age~2~Calabrian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~2~Calabrian.internal|Age~2~Calabrian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~2~Calabrian.protect|Age~2~Calabrian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~2~Calabrian.private|Age~2~Calabrian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~2~Calabrian.personal|Age~2~Calabrian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~2~Calabrian.secret|Age~2~Calabrian.secret]]'
 ---
-
 # [[Age~2~Calabrian]] 
 
 #is_a_/time_/Age 

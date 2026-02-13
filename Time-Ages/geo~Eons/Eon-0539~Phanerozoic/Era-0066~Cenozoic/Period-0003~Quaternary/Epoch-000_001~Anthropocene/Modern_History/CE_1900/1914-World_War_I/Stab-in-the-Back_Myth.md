@@ -1,44 +1,136 @@
 ---
 aliases:
-  - stab-in-the-back myth
-  - Dolchstoßlegende
-  - Stab-in-the-Back_Myth
-  - Stab-in-the-Back Myth
+- Arkadan bıçaklanma efsanesi
+- bizkarretik sastakada eman izanaren elezaharra
+- Dolchstosslegende
+- Dolchstoßlegende
+- Dolkestødslegenden
+- Dolkestøtlegenden
+- Dolkstootlegende
+- Dolkstötslegenden
+- Durklo į nugarą mitas
+- Huyền thoại đâm sau lưng
+- legenda o ciosie w plecy
+- Legenda o nožu v hrbet
+- legenda o ubodu u leđa
+- Leyenda de la puñalada por la espalda
+- Lleenda de la puñalada pel costazu
+- Llegenda de la punyalada per l'esquena
+- Mit o nožu u leđa
+- Miti i thikës pas shpine
+- Mitos pengkhianatan
+- Mitul cuțitului înfipt în spate
+- Mýtus kudly v zádech
+- noa selga löömise müüt
+- Rýtingurinn í bakið
+- Selkäänpuukotusteoria
+- stab-in-the-back myth
+- Stab-in-the-Back_Myth
+- Μύθος της πισώπλατης μαχαιριάς
+- легенда аб нажы ў плечы
+- Легенда о убоду у леђа
+- Легенда об ударе ножом в спину
+- Легенда про удар ножем у спину
+- Ножът в гърба
+- אגדת תקיעת הסכין בגב
+- أسطورة الطعنة في الظهر
+- افسانه خنجر زدن از پشت
+- நவம்பர் குற்றவாளிகள்
+- ตำนานแทงข้างหลัง
+- 刀刺在背传说
+- 刀刺在背傳說
+- 背後の一突き
+- 등 뒤의 칼 찌르기 이야기
 has_id_wikidata: Q160944
 significant_person:
-  - "[[_Standards/WikiData/WD~Max_Bauer,67930]]"
-  - "[[_Standards/WikiData/WD~Bruno_Doehring,993199]]"
-instance_of: "[[_Standards/WikiData/WD~conspiracy_theory,159535]]"
+- '[[_Standards/WikiData/WD~Max_Bauer,67930]]'
+- '[[_Standards/WikiData/WD~Bruno_Doehring,993199]]'
+instance_of: '[[_Standards/WikiData/WD~conspiracy_theory,159535]]'
 facet_of:
-  - "[[_Standards/WikiData/WD~anti_communism,182121]]"
-  - "[[_Standards/WikiData/WD~antisemitism,22649]]"
-main_subject: "[[_Standards/WikiData/WD~betrayal,2166722]]"
-significant_event: "[[_Standards/WikiData/WD~aftermath_of_World_War_I,2519948]]"
+- '[[_Standards/WikiData/WD~anti_communism,182121]]'
+- '[[_Standards/WikiData/WD~antisemitism,22649]]'
+main_subject: '[[_Standards/WikiData/WD~betrayal,2166722]]'
+significant_event: '[[_Standards/WikiData/WD~aftermath_of_World_War_I,2519948]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Stab-in-the-back%20postcard.jpg
 described_at_URL: https://www.nytimes.com/2020/11/30/opinion/trump-conspiracy-germany-1918.html
 Commons_category: Stab-in-the-back legend
 inception: 1918-01-01T00:00:00Z
 dv_is_:
   same_as:
-    - "[[../../../../../../../../../WikiData/WD~Stab-in-the-back_myth,160944|WD~Stab-in-the-back_myth,160944]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Stab-in-the-Back_Myth|Stab-in-the-Back_Myth]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Stab-in-the-Back_Myth.public|Stab-in-the-Back_Myth.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Stab-in-the-Back_Myth.internal|Stab-in-the-Back_Myth.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Stab-in-the-Back_Myth.protect|Stab-in-the-Back_Myth.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Stab-in-the-Back_Myth.private|Stab-in-the-Back_Myth.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Stab-in-the-Back_Myth.personal|Stab-in-the-Back_Myth.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Stab-in-the-Back_Myth.secret|Stab-in-the-Back_Myth.secret]]"
+  - '[[../../../../../../../../../WikiData/WD~Stab-in-the-back_myth,160944|WD~Stab-in-the-back_myth,160944]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Stab-in-the-Back_Myth|Stab-in-the-Back_Myth]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Stab-in-the-Back_Myth.public|Stab-in-the-Back_Myth.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Stab-in-the-Back_Myth.internal|Stab-in-the-Back_Myth.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Stab-in-the-Back_Myth.protect|Stab-in-the-Back_Myth.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Stab-in-the-Back_Myth.private|Stab-in-the-Back_Myth.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Stab-in-the-Back_Myth.personal|Stab-in-the-Back_Myth.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Stab-in-the-Back_Myth.secret|Stab-in-the-Back_Myth.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../../WikiData/WD~Stab-in-the-back_myth,160944|WD~Stab-in-the-back_myth,160944]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Stab-in-the-Back_Myth|Stab-in-the-Back_Myth]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Stab-in-the-Back_Myth.public|Stab-in-the-Back_Myth.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Stab-in-the-Back_Myth.internal|Stab-in-the-Back_Myth.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Stab-in-the-Back_Myth.protect|Stab-in-the-Back_Myth.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Stab-in-the-Back_Myth.private|Stab-in-the-Back_Myth.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Stab-in-the-Back_Myth.personal|Stab-in-the-Back_Myth.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Stab-in-the-Back_Myth.secret|Stab-in-the-Back_Myth.secret]]"
+- '[[../../../../../../../../../WikiData/WD~Stab-in-the-back_myth,160944|WD~Stab-in-the-back_myth,160944]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Stab-in-the-Back_Myth|Stab-in-the-Back_Myth]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Stab-in-the-Back_Myth.public|Stab-in-the-Back_Myth.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Stab-in-the-Back_Myth.internal|Stab-in-the-Back_Myth.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Stab-in-the-Back_Myth.protect|Stab-in-the-Back_Myth.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Stab-in-the-Back_Myth.private|Stab-in-the-Back_Myth.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Stab-in-the-Back_Myth.personal|Stab-in-the-Back_Myth.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Stab-in-the-Back_Myth.secret|Stab-in-the-Back_Myth.secret]]'
+dv_has_:
+  name_:
+    ar: أسطورة الطعنة في الظهر
+    ast: Lleenda de la puñalada pel costazu
+    be-tarask: легенда аб нажы ў плечы
+    bg: Ножът в гърба
+    br: Dolchstoßlegende
+    ca: Llegenda de la punyalada per l'esquena
+    cs: Mýtus kudly v zádech
+    da: Dolkestødslegenden
+    de: Dolchstoßlegende
+    de-ch: Dolchstosslegende
+    el: Μύθος της πισώπλατης μαχαιριάς
+    en: stab-in-the-back myth
+    en-us: stab-in-the-back myth
+    es: Leyenda de la puñalada por la espalda
+    et: noa selga löömise müüt
+    eu: bizkarretik sastakada eman izanaren elezaharra
+    fa: افسانه خنجر زدن از پشت
+    fi: Selkäänpuukotusteoria
+    fr: Dolchstoßlegende
+    gl: Dolchstoßlegende
+    he: אגדת תקיעת הסכין בגב
+    hr: Mit o nožu u leđa
+    id: Mitos pengkhianatan
+    is: Rýtingurinn í bakið
+    it: Dolchstoßlegende
+    ja: 背後の一突き
+    ko: 등 뒤의 칼 찌르기 이야기
+    lt: Durklo į nugarą mitas
+    nb: Dolkestøtlegenden
+    nl: Dolkstootlegende
+    pl: legenda o ciosie w plecy
+    pt: dolchstoßlegende
+    ro: Mitul cuțitului înfipt în spate
+    ru: Легенда об ударе ножом в спину
+    sh: Mit o nožu u leđa
+    sl: Legenda o nožu v hrbet
+    sq: Miti i thikës pas shpine
+    sr: Легенда о убоду у леђа
+    sr-ec: легенда о убоду у леђа
+    sr-el: legenda o ubodu u leđa
+    sv: Dolkstötslegenden
+    ta: நவம்பர் குற்றவாளிகள்
+    th: ตำนานแทงข้างหลัง
+    tr: Arkadan bıçaklanma efsanesi
+    uk: Легенда про удар ножем у спину
+    vi: Huyền thoại đâm sau lưng
+    wuu: 刀刺在背传说
+    zh: 刀刺在背传说
+    zh-cn: 刀刺在背传说
+    zh-hans: 刀刺在背传说
+    zh-hant: 刀刺在背傳說
+    zh-hk: 刀刺在背傳說
+    zh-sg: 刀刺在背传说
+    zh-tw: 刀刺在背傳說
 ---
-
 # [[Stab-in-the-Back_Myth]] 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Stab-in-the-back_myth,160944|WD~Stab-in-the-back_myth,160944]]  

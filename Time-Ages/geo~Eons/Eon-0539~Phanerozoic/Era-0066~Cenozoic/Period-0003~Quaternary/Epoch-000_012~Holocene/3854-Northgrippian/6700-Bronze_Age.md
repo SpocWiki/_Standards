@@ -1,61 +1,369 @@
 ---
 aliases:
-  - Bronze Age
-  - 6700-Bronze_Age
-  - 6700-Bronze Age
+- 6700-Bronze Age
+- 6700-Bronze_Age
+- Aetas Aenea
+- An Chré-umhaois
+- Andron'ny Alimo
+- Bara naasii
+- Branz Iej
+- bronasta doba
+- bronsaáigi
+- bronsealderen
+- Bronsetidj
+- Bronstied
+- bronstijd
+- Bronstydperk
+- bronsåldern
+- bronsöld
+- Brontze Aroa
+- Bronz-epoko
+- Bronzaig
+- Bronzano doba
+- bronzas laikmets
+- Bronze Age
+- bronzealder
+- bronzepoko
+- Bronzetiet
+- Bronzezeit
+- Bronzezit
+- bronzkor
+- bronzos amžius
+- bronzová doba
+- bronzowa doba
+- Brončano doba
+- Broonstied
+- Brounstyd
+- Bruonzas omžios
+- brånssåájgge
+- Brûnstiid
+- Bürünç asyry
+- Chheⁿ-tâng-khì Sî-tāi
+- Cinghdoengz seizdaih
+- Cɩnjɩnɔɔ yaa pʊrɔnzɩ wɛɛ
+- doba bronzová
+- Eda de bronze
+- Edad del Bronce
+- Edade de su Brunzu
+- Edat de Bronze
+- Edat del Bronze
+- edá del bronce
+- Eidade de l Bronze
+- epoca bronzului
+- epoka brązu
+- Epoka e bronzit
+- Epòka bronzë
+- Etaa del Bronz
+- Etati dû brunzu
+- Età del Bronxo
+- età del bronzo
+- Età dël bronz
+- Etæ do Brónzo
+- Eté dl Brom
+- Idade de Bronce
+- Idade do Bronze
+- Jez davri
+- Kans Yug
+- Kuarepotiju'atã Ára
+- Laj di bronz
+- Oadvezh an arem
+- Oes yr Efydd
+- Oos brons
+- Panahon han Bronse
+- Panahon ng Tansong Pula
+- Panawen ti Bronse
+- pronksiaeg
+- Pronksiaig
+- pronssikausi
+- pronssiäigi
+- pronssäiʹǧǧ
+- ransu cedra
+- Serdema Bronzê
+- Temp da bronz
+- tenpo pi kiwen mani laso
+- thời đại đồ đồng
+- Tunc dövrü
+- Tunç devri
+- Tunç Çağı
+- Zama za Shaba
+- Zaman Gangsa
+- Zaman Kanso
+- Zaman Perunggu
+- Zamanin Tagulla
+- Zera re Ndarira
+- âge du bronze
+- Εποχή του Χαλκού
+- Асри биринҷӣ
+- Борза зама
+- борзанан оьмар
+- Бронза ĕмĕрĕ
+- бронза гасыры
+- бронзавы век
+- бронзано доба
+- бронзено време
+- бронзо курым
+- Бронзова доба
+- Бронзова епоха
+- бронзовый век
+- Коло доору
+- Хүрэл зэвсгийн үе
+- Чаҥ үйэ
+- Қола дәуірі
+- Ҡула дәүере
+- Բրոնզի դար
+- בראנדז עפאכע
+- תקופת הברונזה
+- العصر البرونزي
+- برونز دؤنمی
+- د برونزو دوره
+- سەردەمی برۆنز
+- عصر برنز
+- عصر برونزى
+- لعصر د لبرونز
+- کانسی دور
+- کانسی ویلا
+- کٲنٛسؠ کال
+- ڪانسي جو دور
+- कँय् युग
+- कांस्य युग
+- कांस्ययुगम्
+- ताम्र युग
+- ताम्रपाशायूग
+- ব্রোঞ্জ যুগ
+- ব্ৰঞ্জ যুগ
+- ਕਾਂਸੀ ਯੁੱਗ
+- வெண்கலக் காலம்
+- కంచుయుగం
+- വെങ്കലയുഗം
+- ලෝකඩ යුගය
+- ยุคสัมฤทธิ์
+- ຍຸກທອງແດງ
+- ཟངས་ཆས་སྤྱོད་པའི་དུས་རབས།
+- ကြေးခေတ်
+- တောင်ꩻခေတ်
+- ბრინჯაოს ხანა
+- ბრონზეშ ხანა
+- ናስ ዘመን
+- ᱠᱟᱸᱥᱟ ᱡᱩᱜᱽ
+- 青銅世
+- 青銅器時代
+- 青銅時代
+- 青铜时代
+- 청동기 시대
 has_id_wikidata: Q11761
 Commons_category: Bronze Age
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-different_from: "[[_Standards/WikiData/WD~Bronze_age,67484121]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+different_from: '[[_Standards/WikiData/WD~Bronze_age,67484121]]'
 EAGLE_id: dates/lod/13
 end_time:
-  - -299
-  - -599
-  - -1199
+- -299
+- -599
+- -1199
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Minoan%20copper%20ingot%20from%20Zakros%2C%20Crete.jpg
-instance_of: "[[_Standards/WikiData/WD~archaeological_age,15401699]]"
+instance_of: '[[_Standards/WikiData/WD~archaeological_age,15401699]]'
 Krugosvet_article: istoriya/BRONZOVI_VEK.html
-named_after: "[[_Standards/WikiData/WD~bronze,34095]]"
+named_after: '[[_Standards/WikiData/WD~bronze,34095]]'
 OmegaWiki_Defined_Meaning: 846334
 OpenStreetMap_tag_or_key: Tag:historic:period=bronze-age
 start_time:
-  - -3099
-  - -3199
-  - -3299
-subclass_of: "[[_Standards/WikiData/WD~prehistory,11756]]"
+- -3099
+- -3199
+- -3299
+subclass_of: '[[_Standards/WikiData/WD~prehistory,11756]]'
 dv_has_:
+  duration_: 2100
+  name_:
+    af: Bronstydperk
+    am: ናስ ዘመን
+    an: Edat de Bronze
+    anp: कांस्य युग
+    ar: العصر البرونزي
+    ary: لعصر د لبرونز
+    arz: عصر برونزى
+    as: ব্ৰঞ্জ যুগ
+    ast: edá del bronce
+    az: Tunc dövrü
+    azb: برونز دؤنمی
+    ba: Ҡула дәүере
+    bar: Bronzezeit
+    be: бронзавы век
+    be-tarask: бронзавы век
+    bg: Бронзова епоха
+    blk: တောင်ꩻခေတ်
+    bn: ব্রোঞ্জ যুগ
+    bo: ཟངས་ཆས་སྤྱོད་པའི་དུས་རབས།
+    br: Oadvezh an arem
+    bs: Bronzano doba
+    ca: edat del bronze
+    ce: борзанан оьмар
+    ckb: سەردەمی برۆنز
+    crh: Tunç devri
+    cs: doba bronzová
+    csb: Epòka bronzë
+    cv: Бронза ĕмĕрĕ
+    cy: Oes yr Efydd
+    da: bronzealder
+    de: Bronzezeit
+    el: Εποχή του Χαλκού
+    en: Bronze Age
+    eo: bronzepoko
+    es: Edad del Bronce
+    et: pronksiaeg
+    eu: Brontze Aroa
+    fa: عصر برنز
+    fi: pronssikausi
+    fr: âge du bronze
+    frr: Bronsetidj
+    fy: Brûnstiid
+    ga: An Chré-umhaois
+    gan: 青銅器時代
+    gcr: Laj di bronz
+    gl: Idade de Bronce
+    gn: Kuarepotiju'atã Ára
+    gom: ताम्रपाशायूग
+    gsw: Bronzezit
+    ha: Zamanin Tagulla
+    he: תקופת הברונזה
+    hi: कांस्य युग
+    hif: Kans Yug
+    hr: brončano doba
+    hsb: bronzowa doba
+    hu: bronzkor
+    hy: Բրոնզի դար
+    id: Zaman Perunggu
+    ilo: Panawen ti Bronse
+    inh: Борза зама
+    io: Bronz-epoko
+    is: bronsöld
+    it: età del bronzo
+    ja: 青銅器時代
+    jam: Branz Iej
+    jbo: ransu cedra
+    ka: ბრინჯაოს ხანა
+    kbp: Cɩnjɩnɔɔ yaa pʊrɔnzɩ wɛɛ
+    kk: Қола дәуірі
+    ko: 청동기 시대
+    ks: کٲنٛسؠ کال
+    ku: Serdema Bronzê
+    kw: Oos brons
+    ky: Коло доору
+    la: Aetas Aenea
+    lfn: Eda de bronze
+    li: Broonstied
+    lij: Etæ do Brónzo
+    lld: Eté dl Brom
+    lmo: Etaa del Bronz
+    lo: ຍຸກທອງແດງ
+    lt: bronzos amžius
+    lv: bronzas laikmets
+    lzh: 青銅世
+    mg: Andron'ny Alimo
+    mhr: бронзо курым
+    min: Zaman Kanso
+    mk: бронзено време
+    ml: വെങ്കലയുഗം
+    mn: Хүрэл зэвсгийн үе
+    mr: ताम्र युग
+    ms: Zaman Gangsa
+    mwl: Eidade de l Bronze
+    my: ကြေးခေတ်
+    nan: Chheⁿ-tâng-khì Sî-tāi
+    nb: bronsealderen
+    nds: Bronzetiet
+    nds-nl: bronstied
+    ne: कांस्य युग
+    new: कँय् युग
+    nl: bronstijd
+    nn: bronsealderen
+    oc: Edat del Bronze
+    om: Bara naasii
+    pa: ਕਾਂਸੀ ਯੁੱਗ
+    pl: epoka brązu
+    pms: Età dël bronz
+    pnb: کانسی ویلا
+    ps: د برونزو دوره
+    pt: Idade do Bronze
+    rm: Temp da bronz
+    ro: epoca bronzului
+    ru: бронзовый век
+    rue: Бронзова доба
+    sa: कांस्ययुगम्
+    sah: Чаҥ үйэ
+    sat: ᱠᱟᱸᱥᱟ ᱡᱩᱜᱽ
+    sc: Edade de su Brunzu
+    scn: Etati dû brunzu
+    sco: Bronze Age
+    sd: ڪانسي جو دور
+    se: bronsaáigi
+    sgs: Bruonzas omžios
+    sh: Brončano doba
+    si: ලෝකඩ යුගය
+    sk: bronzová doba
+    sl: bronasta doba
+    smj: brånssåájgge
+    smn: pronssiäigi
+    sms: pronssäiʹǧǧ
+    sn: Zera re Ndarira
+    sq: Epoka e bronzit
+    sr: бронзано доба
+    stq: Bronstied
+    sv: bronsåldern
+    sw: Zama za Shaba
+    ta: வெண்கலக் காலம்
+    te: కంచుయుగం
+    tg: Асри биринҷӣ
+    th: ยุคสัมฤทธิ์
+    tk: Bürünç asyry
+    tl: Panahon ng Tansong Pula
+    tok: tenpo pi kiwen mani laso
+    tr: Tunç Çağı
+    tt: бронза гасыры
+    uk: бронзова доба
+    ur: کانسی دور
+    uz: Jez davri
+    vec: Età del Bronxo
+    vep: Bronzaig
+    vi: thời đại đồ đồng
+    vls: Brounstyd
+    vro: Pronksiaig
+    war: Panahon han Bronse
+    wuu: 青铜时代
+    xmf: ბრონზეშ ხანა
+    yi: בראנדז עפאכע
+    yue: 青銅時代
+    za: Cinghdoengz seizdaih
+    zh: 青銅時代
+    zh-hk: 青銅時代
   time_:
     started: -3300
     stopped: -1200
-  duration_: 2100
 dv_is_:
   same_as:
-    - "[[../../../../../../../WikiData/WD~Bronze_Age,11761|WD~Bronze_Age,11761]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6700-Bronze_Age|6700-Bronze_Age]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6700-Bronze_Age.public|6700-Bronze_Age.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6700-Bronze_Age.internal|6700-Bronze_Age.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6700-Bronze_Age.protect|6700-Bronze_Age.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6700-Bronze_Age.private|6700-Bronze_Age.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6700-Bronze_Age.personal|6700-Bronze_Age.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6700-Bronze_Age.secret|6700-Bronze_Age.secret]]"
+  - '[[../../../../../../../WikiData/WD~Bronze_Age,11761|WD~Bronze_Age,11761]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6700-Bronze_Age|6700-Bronze_Age]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6700-Bronze_Age.public|6700-Bronze_Age.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6700-Bronze_Age.internal|6700-Bronze_Age.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6700-Bronze_Age.protect|6700-Bronze_Age.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6700-Bronze_Age.private|6700-Bronze_Age.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6700-Bronze_Age.personal|6700-Bronze_Age.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6700-Bronze_Age.secret|6700-Bronze_Age.secret]]'
 dv_has_time_started: -3300
 dv_has_time_stopped: -1200
 dv_has_duration_years: 2100
 dv_has_duration_: 2100
 dv_is_same_as:
-  - "[[../../../../../../../WikiData/WD~Bronze_Age,11761|WD~Bronze_Age,11761]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6700-Bronze_Age|6700-Bronze_Age]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6700-Bronze_Age.public|6700-Bronze_Age.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6700-Bronze_Age.internal|6700-Bronze_Age.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6700-Bronze_Age.protect|6700-Bronze_Age.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6700-Bronze_Age.private|6700-Bronze_Age.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6700-Bronze_Age.personal|6700-Bronze_Age.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6700-Bronze_Age.secret|6700-Bronze_Age.secret]]"
+- '[[../../../../../../../WikiData/WD~Bronze_Age,11761|WD~Bronze_Age,11761]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6700-Bronze_Age|6700-Bronze_Age]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6700-Bronze_Age.public|6700-Bronze_Age.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6700-Bronze_Age.internal|6700-Bronze_Age.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6700-Bronze_Age.protect|6700-Bronze_Age.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6700-Bronze_Age.private|6700-Bronze_Age.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6700-Bronze_Age.personal|6700-Bronze_Age.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6700-Bronze_Age.secret|6700-Bronze_Age.secret]]'
 ---
-
 # [[Bronze-Age]] 
 
 #is_a_/time_/Culture 

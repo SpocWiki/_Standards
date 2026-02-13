@@ -1,10 +1,27 @@
 ---
 aliases:
-  - Postel's law
-  - Postel's_Law
-  - Robustness Principle
-  - Robustness-Principle
+- Postel's law
+- Postel's_Law
+- Principi de robustesa
+- Principio de robustez
+- Robustheitsgrundsatz
+- Robustness Principle
+- Robustness-Principle
+- ခိုင်မြဲခြင်းနိယာမ
+- ロバストネス原則
+- 鲁棒性原则
+- 견고함의 원칙
 has_id_wikidata: Q633480
+dv_has_:
+  name_:
+    ca: Principi de robustesa
+    de: Robustheitsgrundsatz
+    en: robustness principle
+    es: Principio de robustez
+    ja: ロバストネス原則
+    ko: 견고함의 원칙
+    my: ခိုင်မြဲခြင်းနိယာမ
+    zh: 鲁棒性原则
 ---
 #is_/conflicting_/with :: [[Fail-fast-Principle]]  
 

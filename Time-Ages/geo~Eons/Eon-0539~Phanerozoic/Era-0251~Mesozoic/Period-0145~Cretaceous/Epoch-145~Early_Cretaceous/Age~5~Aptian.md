@@ -1,77 +1,127 @@
 ---
 aliases:
-  - Aptian
+- apt
+- Apt-vaihe
+- apti
+- Aptia
+- Aptian
+- Aptiano
+- Aptianu
+- Aptiar
+- Aptien
+- Aptiense
+- Aptij
+- Aptium
+- Aptià
+- Atian
+- Tầng Apt
+- Άπτιο
+- аптский ярус
+- Аптський ярус
+- אפטיאן
+- آپتین
+- الأبتي
+- アプチアン
+- 阿普第阶
+- 阿普第階
+- 압트절
 has_id_wikidata: Q622265
-named_after: "[[_Standards/WikiData/WD~Apt,207632]]"
+named_after: '[[_Standards/WikiData/WD~Apt,207632]]'
 named_by: "[[_Standards/WikiData/WD~Alcide_d'Orbigny,344661]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Aptian,21757623]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Aptian,21757623]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 end_time: -113000000-01-01T00:00:00Z
 start_time: -125000000-01-01T00:00:00Z
 Commons_category: Aptian
 sRGB_color_hex_triplet: BFE19F
 dv_has_:
   duration_:
-    years: "8.400e+6"
-  previous_:
-    item: "[[Age~4~Barremian]]"
-  next_:
-    item: "[[Age~6~Albian]]"
+    years: 8.400e+6
   name_:
+    abbreviated: b5
+    af: Aptium
+    ar: الأبتي
+    ast: Aptianu
     bg: ппт
+    bs: Aptij
+    ca: Aptià
     cs: Apt
     da: Aptien
     de: Aptium
+    el: Άπτιο
+    en: Aptian
+    eo: Aptiano
     es: Aptiense
     et: Apti
-    fi: Apt
+    eu: Aptiar
+    fa: آپتین
+    fi: Apt-vaihe
     fr: Aptien
+    gl: Aptiano
+    he: אפטיאן
     hu: apti
-    it: aptiano
-    ja: アプチアン期
+    id: Aptium
+    it: Aptiano
+    ja: アプチアン
+    ko: 압트절
+    la: Aptium
     lt: Aptis
-    nl: Aptiën
+    ms: Aptia
+    nb: Aptium
+    nl: Aptien
+    nn: apt
     no: Apt
-    pl: Apt
+    oc: Atian
+    pl: apt
     pt: Aptiano
+    ru: аптский ярус
+    scn: Aptianu
+    sh: Apt
     sk: apt
     sl: aptij
     sv: apt
-    zh: 阿普弟期
-    abbreviated: b5
-  time_:
-    started: "-121.4e6"
-    stopped: "-113.0e6"
+    uk: Аптський ярус
+    vi: Tầng Apt
+    zh: 阿普第階
+    zh-cn: 阿普第阶
+    zh-tw: 阿普第階
+  next_:
+    item: '[[Age~6~Albian]]'
+  previous_:
+    item: '[[Age~4~Barremian]]'
   text_of_:
-    color: "0xBFE48A"
+    color: 0xBFE48A
+  time_:
+    started: -121.4e6
+    stopped: -113.0e6
 dv_is_:
   same_as:
-    - "[[WD~Aptian,622265]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~5~Aptian|Age~5~Aptian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~5~Aptian.public|Age~5~Aptian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~5~Aptian.internal|Age~5~Aptian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~5~Aptian.protect|Age~5~Aptian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~5~Aptian.private|Age~5~Aptian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~5~Aptian.personal|Age~5~Aptian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~5~Aptian.secret|Age~5~Aptian.secret]]"
-dv_has_duration_years: "8.400e+6"
-dv_has_previous_item: "[[Age~4~Barremian]]"
-dv_has_next_item: "[[Age~6~Albian]]"
+  - '[[WD~Aptian,622265]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~5~Aptian|Age~5~Aptian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~5~Aptian.public|Age~5~Aptian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~5~Aptian.internal|Age~5~Aptian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~5~Aptian.protect|Age~5~Aptian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~5~Aptian.private|Age~5~Aptian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~5~Aptian.personal|Age~5~Aptian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~5~Aptian.secret|Age~5~Aptian.secret]]'
+dv_has_duration_years: 8.400e+6
+dv_has_previous_item: '[[Age~4~Barremian]]'
+dv_has_next_item: '[[Age~6~Albian]]'
 dv_is_same_as:
-  - "[[WD~Aptian,622265]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~5~Aptian|Age~5~Aptian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~5~Aptian.public|Age~5~Aptian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~5~Aptian.internal|Age~5~Aptian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~5~Aptian.protect|Age~5~Aptian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~5~Aptian.private|Age~5~Aptian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~5~Aptian.personal|Age~5~Aptian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~5~Aptian.secret|Age~5~Aptian.secret]]"
+- '[[WD~Aptian,622265]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~5~Aptian|Age~5~Aptian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~5~Aptian.public|Age~5~Aptian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~5~Aptian.internal|Age~5~Aptian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~5~Aptian.protect|Age~5~Aptian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~5~Aptian.private|Age~5~Aptian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~5~Aptian.personal|Age~5~Aptian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~5~Aptian.secret|Age~5~Aptian.secret]]'
 dv_has_name_bg: ппт
 dv_has_name_cs: Apt
 dv_has_name_da: Aptien
@@ -93,9 +143,9 @@ dv_has_name_sl: aptij
 dv_has_name_sv: apt
 dv_has_name_zh: 阿普弟期
 dv_has_name_abbreviated: b5
-dv_has_time_started: "-121.4e6"
-dv_has_time_stopped: "-113.0e6"
-dv_has_text_of_color: "0xBFE48A"
+dv_has_time_started: -121.4e6
+dv_has_time_stopped: -113.0e6
+dv_has_text_of_color: 0xBFE48A
 ---
 # [[Age~5~Aptian]] 
 

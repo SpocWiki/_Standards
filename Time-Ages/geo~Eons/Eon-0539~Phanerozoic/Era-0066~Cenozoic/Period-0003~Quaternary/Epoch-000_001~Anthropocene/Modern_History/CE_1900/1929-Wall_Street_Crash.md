@@ -1,18 +1,74 @@
 ---
 aliases:
-  - Wall Street crash of 1929
-  - the Great Crash
-  - 1929-Wall_Street_Crash
-  - 1929-Wall Street Crash
+- 1929 Wall Street İflası
+- 1929 йылғы Уолл-Стрит һәләкәте
+- 1929 сыллааҕы Фонда рынога сууллуута
+- 1929 வால் வீதி வீழ்ச்சி
+- 1929-cu il birja çöküşü
+- 1929-Wall Street Crash
+- 1929-Wall_Street_Crash
+- 1929ko kraxa
+- 1929年华尔街股灾
+- 1929年華爾街股災
+- Berzovni krah 1929.
+- Beurskrach fan 1929
+- Beurskrach van 1929
+- Borsa Katastrofo de 1929
+- Børskrakket i 1929
+- Cliseadh Wall Street
+- Crac del 29
+- Crac do 29
+- Crahul de pe Wall Street din 1929
+- Cwymp Wall Street
+- fa
+- Fond bozorining qulashi 1929-yil
+- Heimskreppan 1929
+- Juodasis ketvirtadienis
+- Keruntuhan Wall Street 1929
+- krach de 1929
+- Krach di 1929
+- krach na giełdzie nowojorskiej w 1929
+- Krach na newyorské burze
+- Krah berze 1929.
+- Kuanguka kwa Soko la Hisa la Marekani 1929
+- Martedì nero
+- Must neljapäev
+- Quinta-Feira Negra
+- Runtuhnya Wall Street 1929
+- Schwaarzen Donneschdeg
+- Schwarzer Donnerstag
+- Slom burze na Wall Streetu 1929.
+- Sụp đổ thị trường chứng khoán phố Wall năm 1929
+- the Great Crash
+- Verðbréfahrunið á Wall Street 1929
+- Volstrītas sabrukums
+- vuoden 1929 pörssiromahdus
+- Wall Street crash of 1929
+- Wall Street-krakket
+- Wall Street-kraschen
+- zlom newyorške borze leta 1929
+- Κραχ της Γουόλ Στριτ του 1929
+- біржавы крах 1929 году
+- Біржовий крах 1929
+- Биржевой крах 1929 года
+- Крахът на Уолстрийт
+- Падот на Вол Стрит во 1929 година
+- Ֆոնդային բորսայի վթար 1929 թվական
+- קריסת וול סטריט 1929
+- انهيار وول ستريت
+- ওয়াল স্ট্রিট মন্দা, ১৯২৯
+- เหตุการณ์ตลาดหลักทรัพย์วอลล์สตรีทตก ค.ศ. 1929
+- ウォール街大暴落
+- 검은 목요일
 has_id_wikidata: Q201684
-different_from: "[[_Standards/WikiData/WD~Black_Friday,86483]]"
-instance_of: "[[_Standards/WikiData/WD~stock_market_crash,1020018]]"
-participant: "[[_Standards/WikiData/WD~New_York_Stock_Exchange,13677]]"
-location: "[[_Standards/WikiData/WD~United_States,30]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
+different_from: '[[_Standards/WikiData/WD~Black_Friday,86483]]'
+instance_of: '[[_Standards/WikiData/WD~stock_market_crash,1020018]]'
+participant: '[[_Standards/WikiData/WD~New_York_Stock_Exchange,13677]]'
+location: '[[_Standards/WikiData/WD~United_States,30]]'
+country: '[[_Standards/WikiData/WD~United_States,30]]'
 nickname:
-  - Black Thursday
-  - Black Tuesday
+- Black Thursday
+- Black Tuesday
 U_S_National_Archives_Identifier: 10644590
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Crowd%20outside%20nyse.jpg
 exact_match: https://data.bnf.fr/ark:/12148/cb12517611h
@@ -22,25 +78,97 @@ start_time: 1929-10-24T00:00:00Z
 point_in_time: 1929-01-01T00:00:00Z
 dv_is_:
   same_as:
-    - "[[../../../../../../../../WikiData/WD~Wall_Street_Crash_of_1929,201684|WD~Wall_Street_Crash_of_1929,201684]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1929-Wall_Street_Crash|1929-Wall_Street_Crash]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1929-Wall_Street_Crash.public|1929-Wall_Street_Crash.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1929-Wall_Street_Crash.internal|1929-Wall_Street_Crash.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1929-Wall_Street_Crash.protect|1929-Wall_Street_Crash.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1929-Wall_Street_Crash.private|1929-Wall_Street_Crash.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1929-Wall_Street_Crash.personal|1929-Wall_Street_Crash.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1929-Wall_Street_Crash.secret|1929-Wall_Street_Crash.secret]]"
+  - '[[../../../../../../../../WikiData/WD~Wall_Street_Crash_of_1929,201684|WD~Wall_Street_Crash_of_1929,201684]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1929-Wall_Street_Crash|1929-Wall_Street_Crash]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1929-Wall_Street_Crash.public|1929-Wall_Street_Crash.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1929-Wall_Street_Crash.internal|1929-Wall_Street_Crash.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1929-Wall_Street_Crash.protect|1929-Wall_Street_Crash.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1929-Wall_Street_Crash.private|1929-Wall_Street_Crash.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1929-Wall_Street_Crash.personal|1929-Wall_Street_Crash.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1929-Wall_Street_Crash.secret|1929-Wall_Street_Crash.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Wall_Street_Crash_of_1929,201684|WD~Wall_Street_Crash_of_1929,201684]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1929-Wall_Street_Crash|1929-Wall_Street_Crash]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1929-Wall_Street_Crash.public|1929-Wall_Street_Crash.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1929-Wall_Street_Crash.internal|1929-Wall_Street_Crash.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1929-Wall_Street_Crash.protect|1929-Wall_Street_Crash.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1929-Wall_Street_Crash.private|1929-Wall_Street_Crash.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1929-Wall_Street_Crash.personal|1929-Wall_Street_Crash.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1929-Wall_Street_Crash.secret|1929-Wall_Street_Crash.secret]]"
+- '[[../../../../../../../../WikiData/WD~Wall_Street_Crash_of_1929,201684|WD~Wall_Street_Crash_of_1929,201684]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1929-Wall_Street_Crash|1929-Wall_Street_Crash]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1929-Wall_Street_Crash.public|1929-Wall_Street_Crash.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1929-Wall_Street_Crash.internal|1929-Wall_Street_Crash.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1929-Wall_Street_Crash.protect|1929-Wall_Street_Crash.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1929-Wall_Street_Crash.private|1929-Wall_Street_Crash.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1929-Wall_Street_Crash.personal|1929-Wall_Street_Crash.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1929-Wall_Street_Crash.secret|1929-Wall_Street_Crash.secret]]'
+dv_has_:
+  name_:
+    ar: انهيار وول ستريت
+    ast: Crac del 29
+    az: 1929-cu il birja çöküşü
+    ba: 1929 йылғы Уолл-Стрит һәләкәте
+    be-tarask: біржавы крах 1929 году
+    bg: Крахът на Уолстрийт
+    bn: ওয়াল স্ট্রিট মন্দা, ১৯২৯
+    bs: Berzovni krah 1929.
+    ca: Crac del 29
+    co: Krach di 1929
+    cs: Krach na newyorské burze
+    cy: Cwymp Wall Street
+    da: Wall Street-krakket
+    de: Schwarzer Donnerstag
+    de-ch: Schwarzer Donnerstag
+    el: Κραχ της Γουόλ Στριτ του 1929
+    en: Wall Street crash of 1929
+    en-ca: Wall Street Crash of 1929
+    en-gb: Wall Street Crash of 1929
+    eo: Borsa Katastrofo de 1929
+    es: Crac del 29
+    et: Must neljapäev
+    eu: 1929ko kraxa
+    fa: fa
+    fi: vuoden 1929 pörssiromahdus
+    fo: Heimskreppan 1929
+    fr: krach de 1929
+    fy: Beurskrach fan 1929
+    ga: Cliseadh Wall Street
+    gl: Crac do 29
+    he: קריסת וול סטריט 1929
+    hr: Slom burze na Wall Streetu 1929.
+    hy: Ֆոնդային բորսայի վթար 1929 թվական
+    id: Runtuhnya Wall Street 1929
+    is: Verðbréfahrunið á Wall Street 1929
+    it: Martedì nero
+    ja: ウォール街大暴落
+    ko: 검은 목요일
+    lb: Schwaarzen Donneschdeg
+    lt: Juodasis ketvirtadienis
+    lv: Volstrītas sabrukums
+    mk: Падот на Вол Стрит во 1929 година
+    ms: Keruntuhan Wall Street 1929
+    nb: Børskrakket i 1929
+    nl: Beurskrach van 1929
+    nn: Børskrakket i 1929
+    pl: krach na giełdzie nowojorskiej w 1929
+    pt: Quinta-Feira Negra
+    pt-br: Quinta-Feira Negra
+    ro: Crahul de pe Wall Street din 1929
+    ru: Биржевой крах 1929 года
+    sah: 1929 сыллааҕы Фонда рынога сууллуута
+    sl: zlom newyorške borze leta 1929
+    sr: Krah berze 1929.
+    sv: Wall Street-kraschen
+    sw: Kuanguka kwa Soko la Hisa la Marekani 1929
+    ta: 1929 வால் வீதி வீழ்ச்சி
+    th: เหตุการณ์ตลาดหลักทรัพย์วอลล์สตรีทตก ค.ศ. 1929
+    tr: 1929 Wall Street İflası
+    uk: Біржовий крах 1929
+    uz: Fond bozorining qulashi 1929-yil
+    vi: Sụp đổ thị trường chứng khoán phố Wall năm 1929
+    wuu: 1929年华尔街股灾
+    yue: 1929年華爾街股災
+    zh: 1929年華爾街股災
+    zh-cn: 1929年华尔街股灾
+    zh-hans: 1929年华尔街股灾
+    zh-hant: 1929年華爾街股災
+    zh-hk: 1929年華爾街股災
+    zh-sg: 1929年华尔街股灾
+    zh-tw: 1929年華爾街股災
 ---
-
 # [[1929-Wall_Street_Crash]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Wall_Street_Crash_of_1929,201684|WD~Wall_Street_Crash_of_1929,201684]]  

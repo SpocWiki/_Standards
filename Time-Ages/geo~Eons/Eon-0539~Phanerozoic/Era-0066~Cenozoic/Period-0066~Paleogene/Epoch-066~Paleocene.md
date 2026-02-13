@@ -1,83 +1,176 @@
 ---
 aliases:
-  - Paleocene
+- an Sealad Pailéicéineach
+- Palaeocaenum
+- Paleoceen
+- Paleocen
+- paleocenas
+- Paleocene
+- Paleoceno
+- Paleocenu
+- Paleocæn
+- Paleocè
+- Paleocèn
+- Paleocén
+- Paleocēns
+- Paleoseen
+- paleoseenikausi
+- paleoseeʹn
+- Paleosen
+- paleosena
+- Paleosene
+- Paleoseno
+- paleotseen
+- Paleozeno
+- Paleósentímabilið
+- Paläozän
+- Paléocène
+- Pałeozen
+- Thế Paleocen
+- Παλαιόκαινος εποχή
+- палеацэн
+- палеоцен
+- Պալեոցեն
+- פלאוקן
+- عصر باليوسيني
+- پالئوس
+- پالئوسن
+- पेलियोसीन युग
+- สมัยพาลีโอซีน
+- პალეოცენი
+- 古新世
+- 暁新世
+- 팔레오세
 has_id_wikidata: Q76252
 instance_of:
-  - "[[_Standards/WikiData/WD~series,312468]]"
-  - "[[_Standards/WikiData/WD~epoch,754897]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Paleocene,7358142]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+- '[[_Standards/WikiData/WD~series,312468]]'
+- '[[_Standards/WikiData/WD~epoch,754897]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Paleocene,7358142]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 start_time: -66000000-01-01T00:00:00Z
-named_by: "[[_Standards/WikiData/WD~Wilhelm_Philippe_Schimper,63251]]"
+named_by: '[[_Standards/WikiData/WD~Wilhelm_Philippe_Schimper,63251]]'
 Commons_category: Paleocene
 end_time: -56000000-01-01T00:00:00Z
 coordinate_location: Point(8.6486 36.1537)
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide%20Paleographic%20Map%20of%20Earth%2C%2060%20Ma%20%28Selandian%20Age%29.png
 sRGB_color_hex_triplet: FEAD6E
 Dewey_Decimal_Classification:
-  - "560.1783"
-  - "561.1183"
+- 560.1783
+- 561.1183
 dv_has_:
   duration_:
-    years: "1.000e+7"
-  previous_:
-    item: "[[../../Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous|Epoch~2~Late_Cretaceous]]"
-  next_:
-    item: "[[Epoch-056~Eocene]]"
+    years: 1.000e+7
   name_:
+    abbreviated: E1
+    af: Paleoseen
+    ar: عصر باليوسيني
+    ast: Paleocenu
+    az: Paleosen
+    be: палеацэн
+    be-tarask: палеацэн
     bg: Палеоцен
+    br: Paleosen
+    bs: Paleocen
+    ca: Paleocè
     cs: Paleocén
+    cy: Paleocen
     da: Paleocæn
     de: Paläozän
+    el: Παλαιόκαινος εποχή
+    en: Paleocene
     en_:
       gb: Palaeocene
       us: Paleocene
-    en: Paleocene
+    eo: paleoceno
     es: Paleoceno
-    et: Paleotseen
-    fi: Paleoseeni
+    et: paleotseen
+    eu: Paleozeno
+    fa: پالئوسن
+    fi: paleoseenikausi
     fr: Paléocène
+    ga: an Sealad Pailéicéineach
+    gl: Paleoceno
+    he: פלאוקן
+    hi: पेलियोसीन युग
+    hr: paleocen
     hu: paleocén
-    it: paleocene
+    hy: Պալեոցեն
+    id: Paleosen
+    is: Paleósentímabilið
+    it: Paleocene
     ja: 暁新世
-    lt: Paleocenas
+    ka: პალეოცენი
+    ko: 팔레오세
+    la: Palaeocaenum
+    lb: Paläozän
+    lfn: Paleosene
+    lt: paleocenas
+    lv: Paleocēns
+    lzh: 古新世
+    mk: палеоцен
+    ms: Paleosen
+    mzn: پالئوس
+    nb: paleocen
+    nds: Paläozän
     nl: Paleoceen
+    nn: paleocen
     no: Paleocen
-    pl: Paleocen
-    pt: Paleocénico
-    sk: paleocén
+    oc: Paleocèn
+    pl: paleocen
+    pt: Paleoceno
+    ro: Paleocen
+    ru: палеоцен
+    se: paleosena
+    sh: Paleocen
+    sk: Paleocén
     sl: paleocen
+    smn: paleoseen
+    sms: paleoseeʹn
+    sr: палеоцен
+    stq: Paläozän
     sv: paleocen
+    th: สมัยพาลีโอซีน
+    tl: Paleoseno
+    tr: Paleosen
+    uk: палеоцен
+    vec: Pałeozen
+    vi: Thế Paleocen
+    war: Paleocen
+    wuu: 古新世
+    yue: 古新世
     zh: 古新世
-    abbreviated: E1
-  time_:
-    started: "-66.0e6"
-    stopped: "-56.0e6"
+  next_:
+    item: '[[Epoch-056~Eocene]]'
+  previous_:
+    item: '[[../../Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous|Epoch~2~Late_Cretaceous]]'
   text_of_:
-    color: "0xFDA75F"
+    color: 0xFDA75F
+  time_:
+    started: -66.0e6
+    stopped: -56.0e6
 dv_is_:
   same_as:
-    - "[[WD~Paleocene,76252]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene|Epoch-066~Paleocene]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene.public|Epoch-066~Paleocene.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene.internal|Epoch-066~Paleocene.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene.protect|Epoch-066~Paleocene.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene.private|Epoch-066~Paleocene.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene.personal|Epoch-066~Paleocene.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene.secret|Epoch-066~Paleocene.secret]]"
-dv_has_duration_years: "1.000e+7"
-dv_has_previous_item: "[[../../Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous|Epoch~2~Late_Cretaceous]]"
-dv_has_next_item: "[[Epoch-056~Eocene]]"
+  - '[[WD~Paleocene,76252]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene|Epoch-066~Paleocene]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene.public|Epoch-066~Paleocene.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene.internal|Epoch-066~Paleocene.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene.protect|Epoch-066~Paleocene.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene.private|Epoch-066~Paleocene.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene.personal|Epoch-066~Paleocene.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene.secret|Epoch-066~Paleocene.secret]]'
+dv_has_duration_years: 1.000e+7
+dv_has_previous_item: '[[../../Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous|Epoch~2~Late_Cretaceous]]'
+dv_has_next_item: '[[Epoch-056~Eocene]]'
 dv_is_same_as:
-  - "[[WD~Paleocene,76252]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene|Epoch-066~Paleocene]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene.public|Epoch-066~Paleocene.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene.internal|Epoch-066~Paleocene.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene.protect|Epoch-066~Paleocene.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene.private|Epoch-066~Paleocene.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene.personal|Epoch-066~Paleocene.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene.secret|Epoch-066~Paleocene.secret]]"
+- '[[WD~Paleocene,76252]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene|Epoch-066~Paleocene]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene.public|Epoch-066~Paleocene.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene.internal|Epoch-066~Paleocene.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene.protect|Epoch-066~Paleocene.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene.private|Epoch-066~Paleocene.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene.personal|Epoch-066~Paleocene.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene.secret|Epoch-066~Paleocene.secret]]'
 dv_has_name_bg: Палеоцен
 dv_has_name_cs: Paleocén
 dv_has_name_da: Paleocæn
@@ -102,11 +195,10 @@ dv_has_name_sl: paleocen
 dv_has_name_sv: paleocen
 dv_has_name_zh: 古新世
 dv_has_name_abbreviated: E1
-dv_has_time_started: "-66.0e6"
-dv_has_time_stopped: "-56.0e6"
-dv_has_text_of_color: "0xFDA75F"
+dv_has_time_started: -66.0e6
+dv_has_time_stopped: -56.0e6
+dv_has_text_of_color: 0xFDA75F
 ---
-
 # [[Epoch-066~Paleocene]] 
 
 #is_a_/time_/Epoch 

@@ -1,91 +1,109 @@
 ---
 aliases:
-  - Darriwilian
-  - Даривил
-  - Darriwil
-  - Darriwilien
-  - Darriwilium
-  - Darriwiliense
-  - Darriwili
-  - darriwili
-  - darriwilliano
-  - ダーリウィリアン期
-  - Darivilis
-  - Darriwiliën
-  - Daewillium
-  - Darriwiliano
-  - darriwil
-  - darriwilij
-  - 达瑞威尔期
+- Daewillium
+- Darivil
+- Darivilis
+- Darriwil
+- Darriwili
+- Darriwili lade
+- Darriwilian
+- Darriwiliano
+- Darriwilianu
+- Darriwilien
+- Darriwiliense
+- darriwilij
+- Darriwilium
+- Darriwiliën
+- darriwilliano
+- Tầng Darriwil
+- Даривил
+- Дариуилий
+- дарривилский ярус
+- الداريولي
+- داریویلین
+- ダーリウィリアン
+- ダーリウィリアン期
+- 达瑞威尔期
+- 達瑞威爾階
 has_id_wikidata: Q1032866
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-named_by: "[[_Standards/WikiData/WD~Thomas_Sergeant_Hall,7793873]]"
-named_after: "[[_Standards/WikiData/WD~Darriwil,28931382]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Darriwilian,30869277]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_Darriwilian,134776267]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+named_by: '[[_Standards/WikiData/WD~Thomas_Sergeant_Hall,7793873]]'
+named_after: '[[_Standards/WikiData/WD~Darriwil,28931382]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Darriwilian,30869277]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_Darriwilian,134776267]]'
 coordinate_location: Point(118.4897 28.8539)
 sRGB_color_hex_triplet: 35C9B2
 start_time: -467300000-01-01T00:00:00Z
 end_time: -470000000-01-01T00:00:00Z
 dv_has_:
   duration_:
-    years: "8.900e+6"
-  previous_:
-    item: "[[Age-470~Dapingian]]"
-  next_:
-    item: "[[../Epoch-458~Late_Ordovician/Age-458~Sandbian|Age-458~Sandbian]]"
+    years: 8.900e+6
   name_:
-    bg: Даривил
+    abbreviated: o4
+    ar: الداريولي
+    bg: Дариуилий
+    br: Darriwilian
     cs: Darriwil
     da: Darriwilien
     de: Darriwilium
+    en: Darriwilian
     es: Darriwiliense
-    et: Darriwili
+    et: Darriwili lade
+    fa: داریویلین
     fi: Darriwil
     fr: Darriwilien
     hu: darriwili
-    it: darriwilliano
-    ja: ダーリウィリアン期
+    id: Darriwilium
+    it: Darriwiliano
+    ja: ダーリウィリアン
     lt: Darivilis
-    nl: Darriwiliën
+    nl: Darriwilien
+    nn: darriwil
     no: Daewillium
     pl: Darriwil
     pt: Darriwiliano
+    ru: дарривилский ярус
+    scn: Darriwilianu
+    sh: Darivil
     sk: darriwil
     sl: darriwilij
     sv: darriwil
-    zh: 达瑞威尔期
-    abbreviated: o4
-  time_:
-    started: "-467.3e6"
-    stopped: "-458.4e6"
+    vi: Tầng Darriwil
+    zh: 達瑞威爾階
+  next_:
+    item: '[[../Epoch-458~Late_Ordovician/Age-458~Sandbian|Age-458~Sandbian]]'
+  previous_:
+    item: '[[Age-470~Dapingian]]'
   text_of_:
-    color: "0x74C69C"
+    color: 0x74C69C
+  time_:
+    started: -467.3e6
+    stopped: -458.4e6
 dv_is_:
   same_as:
-    - "[[WD~Darriwilian,1032866]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-467~Darriwilian|Age-467~Darriwilian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-467~Darriwilian.public|Age-467~Darriwilian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-467~Darriwilian.internal|Age-467~Darriwilian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-467~Darriwilian.protect|Age-467~Darriwilian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-467~Darriwilian.private|Age-467~Darriwilian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-467~Darriwilian.personal|Age-467~Darriwilian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-467~Darriwilian.secret|Age-467~Darriwilian.secret]]"
-dv_has_duration_years: "8.900e+6"
-dv_has_previous_item: "[[Age-470~Dapingian]]"
-dv_has_next_item: "[[../Epoch-458~Late_Ordovician/Age-458~Sandbian|Age-458~Sandbian]]"
+  - '[[WD~Darriwilian,1032866]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-467~Darriwilian|Age-467~Darriwilian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-467~Darriwilian.public|Age-467~Darriwilian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-467~Darriwilian.internal|Age-467~Darriwilian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-467~Darriwilian.protect|Age-467~Darriwilian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-467~Darriwilian.private|Age-467~Darriwilian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-467~Darriwilian.personal|Age-467~Darriwilian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-467~Darriwilian.secret|Age-467~Darriwilian.secret]]'
+dv_has_duration_years: 8.900e+6
+dv_has_previous_item: '[[Age-470~Dapingian]]'
+dv_has_next_item: '[[../Epoch-458~Late_Ordovician/Age-458~Sandbian|Age-458~Sandbian]]'
 dv_is_same_as:
-  - "[[WD~Darriwilian,1032866]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-467~Darriwilian|Age-467~Darriwilian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-467~Darriwilian.public|Age-467~Darriwilian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-467~Darriwilian.internal|Age-467~Darriwilian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-467~Darriwilian.protect|Age-467~Darriwilian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-467~Darriwilian.private|Age-467~Darriwilian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-467~Darriwilian.personal|Age-467~Darriwilian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-467~Darriwilian.secret|Age-467~Darriwilian.secret]]"
+- '[[WD~Darriwilian,1032866]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-467~Darriwilian|Age-467~Darriwilian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-467~Darriwilian.public|Age-467~Darriwilian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-467~Darriwilian.internal|Age-467~Darriwilian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-467~Darriwilian.protect|Age-467~Darriwilian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-467~Darriwilian.private|Age-467~Darriwilian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-467~Darriwilian.personal|Age-467~Darriwilian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-467~Darriwilian.secret|Age-467~Darriwilian.secret]]'
 dv_has_name_bg: Даривил
 dv_has_name_cs: Darriwil
 dv_has_name_da: Darriwilien
@@ -107,9 +125,9 @@ dv_has_name_sl: darriwilij
 dv_has_name_sv: darriwil
 dv_has_name_zh: 达瑞威尔期
 dv_has_name_abbreviated: o4
-dv_has_time_started: "-467.3e6"
-dv_has_time_stopped: "-458.4e6"
-dv_has_text_of_color: "0x74C69C"
+dv_has_time_started: -467.3e6
+dv_has_time_stopped: -458.4e6
+dv_has_text_of_color: 0x74C69C
 ---
 # [[Age-467~Darriwilian]] 
 

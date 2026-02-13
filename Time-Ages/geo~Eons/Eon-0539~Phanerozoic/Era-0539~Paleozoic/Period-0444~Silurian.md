@@ -1,100 +1,215 @@
 ---
 aliases:
-  - Silurian
-  - Silur
-  - Силур
-  - Silúrcio
-  - Siluuri
-  - Silurien
-  - szilur
-  - siluriano
-  - シルル紀
-  - Silūras
-  - Siluur
-  - Sylur
-  - Silúrico
-  - silúr
-  - silur
-  - 志留纪
+- .siluren. cedran.
+- an Tréimhse Shiolúrach
+- Kỷ Silur
+- Silur
+- Silur davri
+- Silur dáwiri
+- Silur dövrü
+- Siluran
+- Silures
+- Silures-kì
+- Silurian
+- siluriano
+- Siluriar
+- Silurien
+- silurio
+- Silurium
+- Siluriyaan
+- Siluriyano
+- Silurià
+- Siluur
+- Siluuri
+- siluurikausi
+- Silwraidd
+- silúr
+- Silúrcio
+- Silúrico
+- Silúricu
+- Silüryen
+- Silūras
+- Silūrs
+- Sylur
+- szilur
+- Sílúrtímabilið
+- Ìgbà Sílúríà
+- Σιλούρια περίοδος
+- сілурскі перыяд
+- Силур
+- силур вакыт
+- Силур кезеңі
+- Силур мезгили системасы
+- силурійський період
+- силурийский период
+- сылюрскі пэрыяд
+- Սիլուրի ժամանակաշրջան
+- סילור
+- العصرالسيلوري
+- سلوری دور
+- سیلورین
+- प्रवालयुग
+- सिल्यूरियन
+- সিলুরিয়ান
+- சிலுரியக் காலம்
+- ยุคไซลูเรียน
+- სილურული სისტემა
+- シルル紀
+- 志留紀
+- 志留纪
+- 실루리아기
 has_id_wikidata: Q62412
-named_by: "[[_Standards/WikiData/WD~Roderick_Murchison,_1st_Baronet,361900]]"
+named_by: '[[_Standards/WikiData/WD~Roderick_Murchison,_1st_Baronet,361900]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~period,392928]]"
-  - "[[_Standards/WikiData/WD~system,403523]]"
+- '[[_Standards/WikiData/WD~period,392928]]'
+- '[[_Standards/WikiData/WD~system,403523]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-named_after: "[[_Standards/WikiData/WD~Silures,1127109]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Silurian,8745244]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+named_after: '[[_Standards/WikiData/WD~Silures,1127109]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Silurian,8745244]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 start_time: -443100000-01-01T00:00:00Z
 Commons_category: Silurian
 end_time: -419620000-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide%20Paleographic%20Map%20of%20Earth%2C%20430%20Ma%20%28Homerian%20Age%29.png
 sRGB_color_hex_triplet: B3E1B6
 Dewey_Decimal_Classification:
-  - "551.73"
-  - "560.1732"
-  - "561.1132"
+- 551.73
+- 560.1732
+- 561.1132
 dv_has_:
   duration_:
-    years: "2.460e+7"
-  previous_:
-    item: "[[Period-0485~Ordovician]]"
-  next_:
-    item: "[[Period-0419~Devonian]]"
+    years: 2.460e+7
   name_:
+    abbreviated: S
+    af: Siluur
+    ar: العصرالسيلوري
+    ast: Silúricu
+    az: Silur dövrü
+    be: сілурскі перыяд
+    be-tarask: сылюрскі пэрыяд
     bg: Силур
+    bjn: Silurian
+    bn: সিলুরিয়ান
+    br: Silurian
+    bs: Silur
+    ca: Silurià
+    cdo: Silurian
     cs: Silur
+    cy: Silwraidd
     da: Silur
     de: Silur
-    es: Silúrcio
+    el: Σιλούρια περίοδος
+    en: Silurian
+    en-gb: Silurian
+    eo: silurio
+    es: Silúrico
     et: Silur
-    fi: Siluuri
+    eu: Siluriar
+    fa: سیلورین
+    fi: siluurikausi
     fr: Silurien
+    frr: Silur
+    ga: an Tréimhse Shiolúrach
+    gl: Silúrico
+    gsw: Silur
+    he: סילור
+    hi: सिल्यूरियन
+    hr: silur
     hu: szilur
-    it: siluriano
+    hy: Սիլուրի ժամանակաշրջան
+    id: Silur
+    is: Sílúrtímabilið
+    it: Siluriano
     ja: シルル紀
-    lt: Silūras
+    jbo: .siluren. cedran.
+    ka: სილურული სისტემა
+    kaa: Silur dáwiri
+    kk: Силур кезеңі
+    ko: 실루리아기
+    ky: Силур мезгили системасы
+    la: Silurium
+    lb: Silur
+    lfn: Silurian
+    li: Siluur
+    lt: silūras
+    lv: Silūrs
+    mk: силур
+    ms: Silures
+    mzn: سیلورین
+    nan: Silures-kì
+    nb: Silur
+    ne: प्रवालयुग
     nl: Siluur
+    nn: silur
     no: Silur
-    pl: Sylur
-    pt: Silúrico
-    sk: silúr
+    oc: Silurian
+    pl: sylur
+    pms: Siluran
+    pnb: سیلورین
+    pt: Siluriano
+    ro: Silurian
+    ru: силурийский период
+    sh: Silur
+    si: Silurian
+    sk: Silúr
     sl: silur
-    sv: silur
-    zh: 志留纪
-    abbreviated: S
-  time_:
-    started: "-443.8e6"
-    stopped: "-419.2e6"
+    so: Siluriyaan
+    sr: силур
+    sr-ec: силур
+    sv: Silur
+    ta: சிலுரியக் காலம்
+    th: ยุคไซลูเรียน
+    tl: Siluriyano
+    tr: Silüryen
+    udm: силур вакыт
+    uk: силурійський період
+    ur: سلوری دور
+    uz: Silur davri
+    vec: Silurian
+    vi: Kỷ Silur
+    vo: Silur
+    war: Silurian
+    wuu: 志留纪
+    yo: Ìgbà Sílúríà
+    yue: 志留紀
+    zh: 志留紀
+    zh-hant: 志留紀
+  next_:
+    item: '[[Period-0419~Devonian]]'
+  previous_:
+    item: '[[Period-0485~Ordovician]]'
   text_of_:
-    color: "0xB3E1B6"
+    color: 0xB3E1B6
+  time_:
+    started: -443.8e6
+    stopped: -419.2e6
 dv_is_:
   same_as:
-    - "[[WD~Silurian,62412]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian|Period-0444~Silurian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian.public|Period-0444~Silurian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian.internal|Period-0444~Silurian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian.protect|Period-0444~Silurian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian.private|Period-0444~Silurian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian.personal|Period-0444~Silurian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian.secret|Period-0444~Silurian.secret]]"
-dv_has_duration_years: "2.460e+7"
-dv_has_previous_item: "[[Period-0485~Ordovician]]"
-dv_has_next_item: "[[Period-0419~Devonian]]"
+  - '[[WD~Silurian,62412]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian|Period-0444~Silurian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian.public|Period-0444~Silurian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian.internal|Period-0444~Silurian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian.protect|Period-0444~Silurian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian.private|Period-0444~Silurian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian.personal|Period-0444~Silurian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian.secret|Period-0444~Silurian.secret]]'
+dv_has_duration_years: 2.460e+7
+dv_has_previous_item: '[[Period-0485~Ordovician]]'
+dv_has_next_item: '[[Period-0419~Devonian]]'
 dv_is_same_as:
-  - "[[WD~Silurian,62412]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian|Period-0444~Silurian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian.public|Period-0444~Silurian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian.internal|Period-0444~Silurian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian.protect|Period-0444~Silurian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian.private|Period-0444~Silurian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian.personal|Period-0444~Silurian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian.secret|Period-0444~Silurian.secret]]"
+- '[[WD~Silurian,62412]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian|Period-0444~Silurian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian.public|Period-0444~Silurian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian.internal|Period-0444~Silurian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian.protect|Period-0444~Silurian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian.private|Period-0444~Silurian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian.personal|Period-0444~Silurian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian.secret|Period-0444~Silurian.secret]]'
 dv_has_name_bg: Силур
 dv_has_name_cs: Silur
 dv_has_name_da: Silur
@@ -116,11 +231,10 @@ dv_has_name_sl: silur
 dv_has_name_sv: silur
 dv_has_name_zh: 志留纪
 dv_has_name_abbreviated: S
-dv_has_time_started: "-443.8e6"
-dv_has_time_stopped: "-419.2e6"
-dv_has_text_of_color: "0xB3E1B6"
+dv_has_time_started: -443.8e6
+dv_has_time_stopped: -419.2e6
+dv_has_text_of_color: 0xB3E1B6
 ---
-
 # [[Period-0444~Silurian]] 
 
 #is_a_/time_/Period 

@@ -1,99 +1,252 @@
 ---
 aliases:
+- Cornelius Tacitus
+- P. Cornelius Tacitus
+- Pubbliu Curneliu Tàcitu
+- Publij Kornelij Tacit
+- Publije Kornelije Tacit
+- Publijus Kornelijus Tacitas
+- Publio Cornelio Tacito
+- Publio Cornelio Tácito
+- Publius Cornelius Tacitus
+- Publius Kornelius Tasitus
+- Publiusz Korneliusz Tacyt
+- Públio Cornélio Tácito
+- Qai Korneli Taçit
+- Tacit
+- Tacite
+- Tacito
+- Tacits
+- Tacitus
+- Tacticus
+- Tacítus
+- Tatsit
+- Tazito
+- Tàcit
+- Tácito
+- Tácitu
+- Γάιος Κορνήλιος Τάκιτος
+- Публій Карнелій Тацыт
+- Публий Корнелий Тацит
+- Такит
+- Тацит
+- Тацит Публий Корнелий
+- Тацитус
+- Тацыт
+- Կոռնելիոս Տակիտոս
+- טקיטוס
+- تاسيتس
+- تاسیتوس
+- تاكيتوس
+- কর্নেলিয়ুস তাকিতুস
+- டாஸிடஸ்
+- ಕಾರ್ನೀಲಿಯಸ್ ಟ್ಯಾಸಿಟಸ್
+- ടാസിറ്റസ്
+- ตากิตุส
+- პუბლიუს კორნელიუს ტაციტუსი
+- タキトゥス
+- 塔西佗
+- 塔西陀
+- 타키투스
 has_id_wikidata: Q2161
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~jurist,185351]]"
-  - "[[_Standards/WikiData/WD~historian,201788]]"
-  - "[[_Standards/WikiData/WD~biographer,864380]]"
-  - "[[_Standards/WikiData/WD~annalist,67102720]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~military_personnel,47064]]"
-  - "[[_Standards/WikiData/WD~poet,49757]]"
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~jurist,185351]]'
+- '[[_Standards/WikiData/WD~historian,201788]]'
+- '[[_Standards/WikiData/WD~biographer,864380]]'
+- '[[_Standards/WikiData/WD~annalist,67102720]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~military_personnel,47064]]'
+- '[[_Standards/WikiData/WD~poet,49757]]'
 position_held:
-  - "[[_Standards/WikiData/WD~praetor,172907]]"
-  - "[[_Standards/WikiData/WD~tribune_of_the_plebs,11704729]]"
-  - "[[_Standards/WikiData/WD~ancient_Roman_senator,20056508]]"
-  - "[[_Standards/WikiData/WD~Q131994231,131994231]]"
-  - "[[_Standards/WikiData/WD~Roman_consul,40779]]"
-different_from: "[[_Standards/WikiData/WD~Tacitus,177988]]"
-student_of: "[[_Standards/WikiData/WD~Quintilian,193769]]"
-gens: "[[_Standards/WikiData/WD~Cornelia_gens,221312]]"
+- '[[_Standards/WikiData/WD~praetor,172907]]'
+- '[[_Standards/WikiData/WD~tribune_of_the_plebs,11704729]]'
+- '[[_Standards/WikiData/WD~ancient_Roman_senator,20056508]]'
+- '[[_Standards/WikiData/WD~Q131994231,131994231]]'
+- '[[_Standards/WikiData/WD~Roman_consul,40779]]'
+different_from: '[[_Standards/WikiData/WD~Tacitus,177988]]'
+student_of: '[[_Standards/WikiData/WD~Quintilian,193769]]'
+gens: '[[_Standards/WikiData/WD~Cornelia_gens,221312]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Germania,428114]]"
-  - "[[_Standards/WikiData/WD~Annals,564358]]"
-  - "[[_Standards/WikiData/WD~Dialogus_de_oratoribus,1215277]]"
-  - "[[_Standards/WikiData/WD~Agricola,1244446]]"
-  - "[[_Standards/WikiData/WD~Histories,1247073]]"
+- '[[_Standards/WikiData/WD~Germania,428114]]'
+- '[[_Standards/WikiData/WD~Annals,564358]]'
+- '[[_Standards/WikiData/WD~Dialogus_de_oratoribus,1215277]]'
+- '[[_Standards/WikiData/WD~Agricola,1244446]]'
+- '[[_Standards/WikiData/WD~Histories,1247073]]'
 has_works_in_the_collection:
-  - "[[_Standards/WikiData/WD~Philadelphia_Art_Museum,510324]]"
-  - "[[_Standards/WikiData/WD~Stedelijk_Museum_Amsterdam,924335]]"
+- '[[_Standards/WikiData/WD~Philadelphia_Art_Museum,510324]]'
+- '[[_Standards/WikiData/WD~Stedelijk_Museum_Amsterdam,924335]]'
 described_by_source:
-  - "[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
-  - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]"
-present_in_work: "[[_Standards/WikiData/WD~Dialogus_de_oratoribus,1215277]]"
-spouse: "[[_Standards/WikiData/WD~Julia_Agricola,3655670]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-nomen_gentilicium: "[[_Standards/WikiData/WD~Cornelius,11915639]]"
-praenomen: "[[_Standards/WikiData/WD~Publius,21485186]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Tacitus,22853217]]"
-cognomen: "[[_Standards/WikiData/WD~Tacitus,28004079]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
+- '[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+present_in_work: '[[_Standards/WikiData/WD~Dialogus_de_oratoribus,1215277]]'
+spouse: '[[_Standards/WikiData/WD~Julia_Agricola,3655670]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+nomen_gentilicium: '[[_Standards/WikiData/WD~Cornelius,11915639]]'
+praenomen: '[[_Standards/WikiData/WD~Publius,21485186]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Tacitus,22853217]]'
+cognomen: '[[_Standards/WikiData/WD~Tacitus,28004079]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 date_of_death: 0120-01-01T00:00:00Z
-genre: "[[_Standards/WikiData/WD~history,309]]"
-writing_language: "[[_Standards/WikiData/WD~Latin,397]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Latin,397]]"
-place_of_birth: "[[_Standards/WikiData/WD~Gallia_Narbonensis,26897]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+genre: '[[_Standards/WikiData/WD~history,309]]'
+writing_language: '[[_Standards/WikiData/WD~Latin,397]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Latin,397]]'
+place_of_birth: '[[_Standards/WikiData/WD~Gallia_Narbonensis,26897]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 Europeana_entity: agent/base/110551
 Libris_URI: c9prs98w0qbvm9p
-Wolfram_Language_entity_code: Entity"Concept", "GaiusCorneliusTacitus = `=this.dv_"Concept", "GaiusCorneliusTacitus` 
+Wolfram_Language_entity_code: Entity"Concept", "GaiusCorneliusTacitus = `=this.dv_"Concept", "GaiusCorneliusTacitus`
 Krugosvet_article_archived_: istoriya/TATSIT_KORNELI.html
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/45552
 Royal_Academy_new_identifier: publius-cornelius-tacitus
 name_in_native_language: Publius Cornelius Tacitus
 BHCL_UUID: 26f40cb1-4877-4a4b-8b75-eb26bc9410d0
 Provenio_UUID:
-  - aec3cb5c-3dba-4fe5-b403-a3e8904f4130
-  - 85ded1d1-9505-4b26-b062-f5ad96996e1a
+- aec3cb5c-3dba-4fe5-b403-a3e8904f4130
+- 85ded1d1-9505-4b26-b062-f5ad96996e1a
 Commons_gallery: Publius Cornelius Tacitus
 Commons_category: Publius Cornelius Tacitus
 Commons_Creator_page: Publius Cornelius Tacitus
 date_of_birth: 0055-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tacitus%2C%20Cornelius%20%2850%20-%20116%29.jpg
-ISNI: "0000000121033889"
+ISNI: 0000000121033889
 dv_"Concept", "GaiusCorneliusTacitus: ypz2b"
 dv_is_:
   same_as:
-    - "[[../../../../../../../../../WikiData/WD~Tacitus,2161|WD~Tacitus,2161]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Tacitus|Tacitus]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Tacitus.public|Tacitus.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Tacitus.internal|Tacitus.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Tacitus.protect|Tacitus.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Tacitus.private|Tacitus.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Tacitus.personal|Tacitus.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Tacitus.secret|Tacitus.secret]]"
+  - '[[../../../../../../../../../WikiData/WD~Tacitus,2161|WD~Tacitus,2161]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Tacitus|Tacitus]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Tacitus.public|Tacitus.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Tacitus.internal|Tacitus.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Tacitus.protect|Tacitus.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Tacitus.private|Tacitus.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Tacitus.personal|Tacitus.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Tacitus.secret|Tacitus.secret]]'
 dv_concept-gaiuscorneliustacitus: ypz2b"
 dv_is_same_as:
-  - "[[../../../../../../../../../WikiData/WD~Tacitus,2161|WD~Tacitus,2161]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Tacitus|Tacitus]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Tacitus.public|Tacitus.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Tacitus.internal|Tacitus.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Tacitus.protect|Tacitus.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Tacitus.private|Tacitus.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Tacitus.personal|Tacitus.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Tacitus.secret|Tacitus.secret]]"
+- '[[../../../../../../../../../WikiData/WD~Tacitus,2161|WD~Tacitus,2161]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Tacitus|Tacitus]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Tacitus.public|Tacitus.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Tacitus.internal|Tacitus.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Tacitus.protect|Tacitus.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Tacitus.private|Tacitus.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Tacitus.personal|Tacitus.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Tacitus.secret|Tacitus.secret]]'
+dv_has_:
+  name_:
+    af: Tacitus
+    an: Tacito
+    ar: تاكيتوس
+    arz: تاسيتس
+    ast: Tácitu
+    az: Qai Korneli Taçit
+    azb: تاسیتوس
+    be: Публій Карнелій Тацыт
+    be-tarask: Тацыт
+    bg: Публий Корнелий Тацит
+    bn: কর্নেলিয়ুস তাকিতুস
+    br: Tacitus
+    bs: Publije Kornelije Tacit
+    ca: Tàcit
+    cs: Tacitus
+    cy: Tacitus
+    da: Tacitus
+    de: Tacitus
+    de-ch: Tacitus
+    diq: Publius Cornelius Tacitus
+    el: Γάιος Κορνήλιος Τάκιτος
+    en: Tacitus
+    en-ca: Tacitus
+    en-gb: Tacitus
+    eo: Tacito
+    es: Tácito
+    et: Tacitus
+    eu: Tazito
+    ext: Tácitu
+    fa: تاسیتوس
+    fi: Tacitus
+    fr: Tacite
+    frp: Tacito
+    frr: Tacitus
+    fur: Tacit
+    fy: Publius Kornelius Tasitus
+    ga: Publius Cornelius Tacitus
+    gl: Publio Cornelio Tácito
+    gor: Tacitus
+    gsw: P. Cornelius Tacitus
+    he: טקיטוס
+    hr: Tacit
+    hu: Publius Cornelius Tacitus
+    hy: Կոռնելիոս Տակիտոս
+    ia: Tacito
+    id: Tacitus
+    io: Publius Cornelius Tacitus
+    is: Tacítus
+    it: Publio Cornelio Tacito
+    ja: タキトゥス
+    ka: პუბლიუს კორნელიუს ტაციტუსი
+    kk: Тацит Публий Корнелий
+    kn: ಕಾರ್ನೀಲಿಯಸ್ ಟ್ಯಾಸಿಟಸ್
+    ko: 타키투스
+    ku: Tacitus
+    la: Cornelius Tacitus
+    lfn: Tacito
+    li: Publius Cornelius Tacitus
+    lt: Publijus Kornelijus Tacitas
+    lv: Tacits
+    mg: Tacitus
+    mk: Такит
+    ml: ടാസിറ്റസ്
+    mn: Тацитус
+    ms: Publius Cornelius Tacitus
+    nan: Tacitus
+    nb: Tacticus
+    nds: Tacitus
+    nds-nl: Publius Cornelius Tacitus
+    nl: Publius Cornelius Tacitus
+    nn: Tacitus
+    oc: Tacit
+    pl: Publiusz Korneliusz Tacyt
+    pt: Públio Cornélio Tácito
+    pt-br: Públio Cornélio Tácito
+    rm: Tacitus
+    ro: Tacit
+    ru: Публий Корнелий Тацит
+    scn: Pubbliu Curneliu Tàcitu
+    sco: Tacitus
+    sh: Tacit
+    sk: Tacitus
+    sl: Publij Kornelij Tacit
+    sq: Tacitus
+    sr: Тацит
+    sv: Publius Cornelius Tacitus
+    sw: Tacitus
+    ta: டாஸிடஸ்
+    th: ตากิตุส
+    tl: Tacitus
+    tr: Tacitus
+    uk: Тацит
+    ur: تاسیتوس
+    uz: Tatsit
+    vi: Tacitus
+    war: Tácito
+    wuu: 塔西陀
+    xmf: პუბლიუს კორნელიუს ტაციტუსი
+    yue: 塔西佗
+    zh: 塔西佗
+    zh-cn: 塔西佗
+    zh-hans: 塔西佗
+    zh-hant: 塔西佗
+    zh-tw: 塔西陀
 ---
-
 # [[Tacitus]] 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Tacitus,2161|WD~Tacitus,2161]]  

@@ -1,54 +1,148 @@
 ---
 aliases:
-  - Becherkultur
-  - Bell Beaker Culture
-  - Bell Beaker complex
-  - Bell Beaker phenomenon
-  - -2450-Beaker_Culture-2000
-  - -2450-Beaker Culture-2000
+- -2450-Beaker Culture-2000
+- -2450-Beaker_Culture-2000
+- Becherkultur
+- Bell Beaker complex
+- Bell Beaker Culture
+- Bell Beaker phenomenon
+- Cultur de vasos campanin
+- cultura del vas campaniforme
+- Cultura del vas campanifòrme
+- Cultura del vaso campaniforme
+- Cultura do Vaso Campaniforme
+- Cultura vasi campaniformis
+- Culture campaniforme
+- Cultúr an Aosa Eascra
+- Curtura dû vasu â forma di campana
+- Diwylliant Bicer Gloch
+- Glockenbecherkultur
+- Harangedényes kultúra
+- Kanpai-formako ontzien kultura
+- Kellopikarikulttuuri
+- Kellpeekrite kultuur
+- Klackebecherkultur
+- Klockbägarkultur
+- Klokbekercultuur
+- Klokbekerkultuer
+- Klokkebegerkulturen
+- Klokkebægerkultur
+- Kultura pokala
+- Kultura pucharów dzwonowatych
+- kultura se zvoncovitými poháry
+- Kultura zvonastih pehara
+- Kultura zvonolikih vrčeva
+- kultura zvončastih čaš
+- Kulturo de sonorilformaj pokaloj
+- Kultúra zvoncovitých pohárov
+- Văn hóa hình chuông
+- Çan biçimli çömlek kültürü
+- Πολιτισμός του Λάγυνου
+- Култура звонастих пехара
+- Култура на ѕвонести пехари
+- Культура дзвоноподібних келихів
+- культура звонападобных кубкаў
+- традиция колоколовидных кубков
+- תרבות ביקר
+- ثقافة بيل بيكر
+- فرهنگ پیاله ناقوسی
+- თასების კულტურა
+- 贝尔陶器文化
+- 鐘状ビーカー文化
+- 비커 문화
 has_id_wikidata: Q470867
-followed_by: "[[_Standards/WikiData/WD~Hilversum_culture,278382]]"
-instance_of: "[[_Standards/WikiData/WD~archaeological_culture,465299]]"
+followed_by: '[[_Standards/WikiData/WD~Hilversum_culture,278382]]'
+instance_of: '[[_Standards/WikiData/WD~archaeological_culture,465299]]'
 start_time: -2600-01-01T00:00:00Z
 end_time:
-  - -2200-01-01T00:00:00Z
-  - -1800-01-01T00:00:00Z
+- -2200-01-01T00:00:00Z
+- -1800-01-01T00:00:00Z
 location:
-  - "[[_Standards/WikiData/WD~Southern_Europe,27449]]"
-  - "[[_Standards/WikiData/WD~Western_Europe,27496]]"
-  - "[[_Standards/WikiData/WD~Central_Europe,27509]]"
-indigenous_to: "[[_Standards/WikiData/WD~Europe,46]]"
+- '[[_Standards/WikiData/WD~Southern_Europe,27449]]'
+- '[[_Standards/WikiData/WD~Western_Europe,27496]]'
+- '[[_Standards/WikiData/WD~Central_Europe,27509]]'
+indigenous_to: '[[_Standards/WikiData/WD~Europe,46]]'
 BHCL_UUID: cd631548-6492-4fb5-a9e4-f07f0183a79c
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bell%20Beaker%20artefacts%2C%20Spain.jpg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Bell%20Beaker%20culture.jpg
 Commons_category: Bellbeaker culture
 dv_has_:
+  name_:
+    ar: ثقافة بيل بيكر
+    be-tarask: культура звонападобных кубкаў
+    bs: Kultura zvonastih pehara
+    ca: cultura del vas campaniforme
+    cs: kultura se zvoncovitými poháry
+    cy: Diwylliant Bicer Gloch
+    da: Klokkebægerkultur
+    de: Glockenbecherkultur
+    el: Πολιτισμός του Λάγυνου
+    en: Bell beaker culture
+    eo: Kulturo de sonorilformaj pokaloj
+    es: Cultura del vaso campaniforme
+    et: Kellpeekrite kultuur
+    eu: Kanpai-formako ontzien kultura
+    fa: فرهنگ پیاله ناقوسی
+    fi: Kellopikarikulttuuri
+    fr: Culture campaniforme
+    fy: Klokbekerkultuer
+    ga: Cultúr an Aosa Eascra
+    gl: Cultura do Vaso Campaniforme
+    gsw: Glockenbecherkultur
+    he: תרבות ביקר
+    hr: Kultura zvonolikih vrčeva
+    hu: Harangedényes kultúra
+    it: cultura del vaso campaniforme
+    ja: 鐘状ビーカー文化
+    ka: თასების კულტურა
+    ko: 비커 문화
+    la: Cultura vasi campaniformis
+    lb: Klackebecherkultur
+    lfn: Cultur de vasos campanin
+    mk: Култура на ѕвонести пехари
+    nb: Klokkebegerkulturen
+    nl: Klokbekercultuur
+    oc: Cultura del vas campanifòrme
+    pl: Kultura pucharów dzwonowatych
+    pt: Cultura do Vaso Campaniforme
+    ru: традиция колоколовидных кубков
+    scn: Curtura dû vasu â forma di campana
+    sh: Kultura pokala
+    sk: Kultúra zvoncovitých pohárov
+    sl: kultura zvončastih čaš
+    sr: Култура звонастих пехара
+    sr-ec: Култура звонастих пехара
+    sr-el: Kultura zvonastih pehara
+    sv: Klockbägarkultur
+    tr: Çan biçimli çömlek kültürü
+    uk: Культура дзвоноподібних келихів
+    vi: Văn hóa hình chuông
+    zh: 贝尔陶器文化
   time_:
     started: -2450
     stopped: -1800
 dv_is_:
   same_as:
-    - "[[wd~Beaker_Culture,470867]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2450-Beaker_Culture-2000|-2450-Beaker_Culture-2000]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2450-Beaker_Culture-2000.public|-2450-Beaker_Culture-2000.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2450-Beaker_Culture-2000.internal|-2450-Beaker_Culture-2000.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2450-Beaker_Culture-2000.protect|-2450-Beaker_Culture-2000.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2450-Beaker_Culture-2000.private|-2450-Beaker_Culture-2000.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2450-Beaker_Culture-2000.personal|-2450-Beaker_Culture-2000.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2450-Beaker_Culture-2000.secret|-2450-Beaker_Culture-2000.secret]]"
+  - '[[wd~Beaker_Culture,470867]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2450-Beaker_Culture-2000|-2450-Beaker_Culture-2000]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2450-Beaker_Culture-2000.public|-2450-Beaker_Culture-2000.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2450-Beaker_Culture-2000.internal|-2450-Beaker_Culture-2000.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2450-Beaker_Culture-2000.protect|-2450-Beaker_Culture-2000.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2450-Beaker_Culture-2000.private|-2450-Beaker_Culture-2000.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2450-Beaker_Culture-2000.personal|-2450-Beaker_Culture-2000.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2450-Beaker_Culture-2000.secret|-2450-Beaker_Culture-2000.secret]]'
 dv_has_time_started: -2450
 dv_has_time_stopped: -1800
 dv_is_same_as:
-  - "[[wd~Beaker_Culture,470867]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2450-Beaker_Culture-2000|-2450-Beaker_Culture-2000]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2450-Beaker_Culture-2000.public|-2450-Beaker_Culture-2000.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2450-Beaker_Culture-2000.internal|-2450-Beaker_Culture-2000.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2450-Beaker_Culture-2000.protect|-2450-Beaker_Culture-2000.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2450-Beaker_Culture-2000.private|-2450-Beaker_Culture-2000.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2450-Beaker_Culture-2000.personal|-2450-Beaker_Culture-2000.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2450-Beaker_Culture-2000.secret|-2450-Beaker_Culture-2000.secret]]"
+- '[[wd~Beaker_Culture,470867]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2450-Beaker_Culture-2000|-2450-Beaker_Culture-2000]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2450-Beaker_Culture-2000.public|-2450-Beaker_Culture-2000.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2450-Beaker_Culture-2000.internal|-2450-Beaker_Culture-2000.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2450-Beaker_Culture-2000.protect|-2450-Beaker_Culture-2000.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2450-Beaker_Culture-2000.private|-2450-Beaker_Culture-2000.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2450-Beaker_Culture-2000.personal|-2450-Beaker_Culture-2000.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2450-Beaker_Culture-2000.secret|-2450-Beaker_Culture-2000.secret]]'
 ---
-
 # [[-2450-Beaker_Culture-2000]]
 
 has_time_started = `=this.dv_has_time_started` 

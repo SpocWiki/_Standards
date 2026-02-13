@@ -1,17 +1,65 @@
 ---
 aliases:
-  - Astronautics
-  - cosmonautics
+- astronautica
+- Astronautics
+- astronautică
+- astronautiek
+- astronautiikka
+- astronautik
+- Astronautika
+- astronautikk
+- Astronautiko
+- astronautique
+- astronautyka
+- Astronavigatsiya
+- astronavtika
+- astronotik
+- astronàutica
+- astronáutica
+- Cirnaiviaedje
+- cosmonautics
+- Hâng-ú-su̍t
+- Ijinerezh aeregorel
+- kosmonautika
+- kosmonavtik
+- kosmonavtika
+- kosmonaŭtiko
+- kozmonautika
+- Ngành du hành vũ trụ
+- spásaireacht
+- αστροναυτική
+- Астронаутика
+- галәмгизәрчелек
+- кайҳоннавардӣ
+- касманаўтыка
+- козмонавтика
+- космонавтикæ
+- космонавтика
+- Տիեզերագնացություն
+- אסטרונאוטיקה
+- استروناوتيک
+- خلائیات
+- ملاحة فضائية
+- نیٚبٕر آسمأنؠ جہزٕ بأزی
+- کیهاننوردی
+- अंतरिक्षयानिकी
+- নভশ্চরণবিজ্ঞান
+- ਪੁਲਾੜ ਵਿਗਿਆਨ
+- விண்வெளிப் பயணவியல்
+- კოსმონავტიკა
+- 太空工程
+- 宇宙工学
+- 우주항행학
 has_id_wikidata: Q22719
 subclass_of:
-  - '[[_Standards/WikiData/WD~space_sciences,1195766]]'
-  - '[[_Standards/WikiData/WD~aerospace,2876213]]'
+- '[[_Standards/WikiData/WD~space_sciences,1195766]]'
+- '[[_Standards/WikiData/WD~aerospace,2876213]]'
 instance_of: '[[_Standards/WikiData/WD~branch_of_science,2465832]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Spaceflight,8502972]]'
 described_by_source: '[[_Standards/WikiData/WD~Astronautyka,15511781]]'
 said_to_be_the_same_as:
-  - '[[_Standards/WikiData/WD~astronautical_engineering,17386174]]'
-  - '[[_Standards/WikiData/WD~spaceflight,5916]]'
+- '[[_Standards/WikiData/WD~astronautical_engineering,17386174]]'
+- '[[_Standards/WikiData/WD~spaceflight,5916]]'
 practiced_by: '[[_Standards/WikiData/WD~astronaut,11631]]'
 OmegaWiki_Defined_Meaning: 268
 Iconclass_notation: 46C4
@@ -20,8 +68,89 @@ U_S_National_Archives_Identifier: 10637144
 P8189: 987007295075105171
 Commons_gallery: Astronautics
 Commons_category: Astronautics
+dv_has_:
+  name_:
+    an: Astronautica
+    ar: ملاحة فضائية
+    ast: Astronáutica
+    az: kosmonavtika
+    ba: космонавтика
+    be: касманаўтыка
+    be-tarask: касманаўтыка
+    bg: Космонавтика
+    bn: নভশ্চরণবিজ্ঞান
+    br: Ijinerezh aeregorel
+    bs: Astronautika
+    ca: astronàutica
+    cs: kosmonautika
+    da: astronautik
+    de: Astronautik
+    el: αστροναυτική
+    en: astronautics
+    en-ca: astronautics
+    en-gb: astronautics
+    eo: kosmonaŭtiko
+    es: astronáutica
+    et: kosmonautika
+    eu: Astronautika
+    fa: کیهاننوردی
+    fi: astronautiikka
+    fr: astronautique
+    ga: spásaireacht
+    gl: astronáutica
+    he: אסטרונאוטיקה
+    hi: अंतरिक्षयानिकी
+    hr: Astronautika
+    hy: Տիեզերագնացություն
+    ia: Astronautica
+    id: astronautika
+    io: Astronautiko
+    it: astronautica
+    ja: 宇宙工学
+    ka: კოსმონავტიკა
+    kaa: Kosmonavtika
+    ko: 우주항행학
+    ks: نیٚبٕر آسمأنؠ جہزٕ بأزی
+    ky: Космонавтика
+    la: Astronautica
+    lb: Astronautik
+    lmo: Astronautica
+    lt: astronautika
+    lv: kosmonautika
+    mk: Астронаутика
+    ms: astronautik
+    ms-arab: استروناوتيک
+    nan: Hâng-ú-su̍t
+    nb: astronautikk
+    nl: astronautiek
+    nn: astronautikk
+    oc: Astronautica
+    os: космонавтикæ
+    pa: ਪੁਲਾੜ ਵਿਗਿਆਨ
+    pl: astronautyka
+    pt: astronáutica
+    ro: astronautică
+    ru: космонавтика
+    rue: козмонавтика
+    sh: Astronautika
+    sk: kozmonautika
+    sl: astronavtika
+    sq: Astronautika
+    sr: астронаутика
+    sv: astronautik
+    ta: விண்வெளிப் பயணவியல்
+    tg: кайҳоннавардӣ
+    tr: astronotik
+    tt: галәмгизәрчелек
+    uk: космонавтика
+    ur: خلائیات
+    uz: Astronavigatsiya
+    vep: kosmonavtik
+    vi: Ngành du hành vũ trụ
+    wa: Cirnaiviaedje
+    yue: 太空工程
+    zh: 太空工程
 ---
-
 # [[Astronautics]] 
 
 #is_/same_as :: [[../../WikiData/WD~Astronautics,22719|WD~Astronautics,22719]] 

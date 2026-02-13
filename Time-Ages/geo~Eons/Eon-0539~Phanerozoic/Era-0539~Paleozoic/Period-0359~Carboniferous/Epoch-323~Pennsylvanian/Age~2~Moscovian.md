@@ -1,141 +1,165 @@
 ---
 aliases:
-  - Middle_Pennsylvanian
-  - Middle Pennsylvanian
-  - 中期ペンシルバニア紀
-  - 中宾夕法尼亚世
-  - Moscovian
-  - Моѿков
-  - Moscov
-  - Moscovien
-  - Moskovium
-  - Moscoviense
-  - Moskva
-  - Moskova
-  - moszkvai
-  - moscoviano
-  - モスコビアン期
-  - Moskovis
-  - Moscoviën
-  - Moskow
-  - Moscoviano
-  - moskov
-  - moskovij
-  - moscov
-  - 莫斯科期
-  - "{ newTitle: }":
+- Middle Pennsylvanian
+- Middle_Pennsylvanian
+- Moscov
+- Moscovian
+- moscoviano
+- Moscovien
+- Moscoviense
+- moscovià
+- Moscoviën
+- moskov
+- Moskova
+- moskovij
+- Moskovij (geologija)
+- Moskovis
+- Moskovium
+- Moskovium (subkala)
+- Moskow
+- Moskva
+- moskvio
+- moszkvai
+- Muscuvianu
+- System.Collections.Generic.Dictionary`2[System.Object,System.Object]
+- Tầng Moskva
+- московский ярус
+- Моѿков
+- الموسكوفي
+- مسکوین
+- モスコビアン
+- モスコビアン期
+- 中宾夕法尼亚世
+- 中期ペンシルバニア紀
+- 莫斯科期
 has_id_wikidata: Q1179385
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-named_by: "[[_Standards/WikiData/WD~Sergei_Nikolaevič_Nikitin,17333360]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Moscovian_(Carboniferous),30826329]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+named_by: '[[_Standards/WikiData/WD~Sergei_Nikolaevič_Nikitin,17333360]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Moscovian_(Carboniferous),30826329]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 start_time: -315200000-01-01T00:00:00Z
-named_after: "[[_Standards/WikiData/WD~Moscow,649]]"
-different_from: "[[_Standards/WikiData/WD~moscovium,1303]]"
+named_after: '[[_Standards/WikiData/WD~Moscow,649]]'
+different_from: '[[_Standards/WikiData/WD~moscovium,1303]]'
 end_time: -307000000-01-01T00:00:00Z
 sRGB_color_hex_triplet: B3CBB9
 Commons_category: Moscovian
 ischart: MiddlePennsylvanian
 confidential: private
 cssclasses:
-  - private
-  - note
+- private
+- note
 draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
-expiryDate:
-has_Template: "[[Extract~Note~Template]]"
+expiryDate: 
+has_Template: '[[Extract~Note~Template]]'
 has_time_started:
-  '{ "date:YYYY-MM-DD": }':
+  '{ "date:YYYY-MM-DD": }': 
 isDeleted: false
 isReadOnly: false
 keywords:
-  "{ newTitle: }":
+  '{ newTitle: }': 
 lang: en
-layout:
+layout: 
 license: (c)copyrighted
 linkTitle:
-  "{ newTitle: }":
+  '{ newTitle: }': 
 publish: false
-publishDate:
+publishDate: 
 tags:
-  - "{ newTitle: }":
-  - excalidraw
+- '{ newTitle: }': 
+- excalidraw
 title:
-  "{ newTitle: }":
+  '{ newTitle: }': 
 type: private_note
 dv_has_:
-  time_:
-    started:
-      - "-315.2e6"
-      - "-315.2e6"
-    stopped:
-      - "-307.0e6"
-      - "-307.0e6"
-  text_of_:
-    color:
-      - "0xA6C7B7"
-      - "0xB3CBB9"
   duration_:
     years: NaN
-  previous_:
-    item: "[[Age~1~Bashkirian]]"
-  next_:
-    item: "[[Age~3~Kasimovian]]"
   name_:
+    abbreviated: c5
+    af: Moskovium
+    ar: الموسكوفي
     bg: Моѿков
+    bs: Moskovij (geologija)
+    ca: moscovià
     cs: Moscov
     da: Moscovien
     de: Moskovium
+    en: Moscovian
+    en-gb: Moscovian
+    eo: moskvio
     es: Moscoviense
     et: Moskva
+    fa: مسکوین
     fi: Moskova
     fr: Moscovien
     hu: moszkvai
-    it: moscoviano
-    ja: モスコビアン期
+    id: Moskovium (subkala)
+    it: Moscoviano
+    ja: モスコビアン
     lt: Moskovis
-    nl: Moscoviën
+    nl: Moscovien
+    nn: moskva
     no: Moskovium
     pl: Moskow
     pt: Moscoviano
+    ru: московский ярус
+    scn: Muscuvianu
     sk: moskov
     sl: moskovij
     sv: moscov
+    vi: Tầng Moskva
     zh: 莫斯科期
-    abbreviated: c5
+    zh-cn: 莫斯科期
+    zh-hans: 莫斯科期
+    zh-hant: 莫斯科期
+  next_:
+    item: '[[Age~3~Kasimovian]]'
+  previous_:
+    item: '[[Age~1~Bashkirian]]'
+  text_of_:
+    color:
+    - 0xA6C7B7
+    - 0xB3CBB9
+  time_:
+    started:
+    - -315.2e6
+    - -315.2e6
+    stopped:
+    - -307.0e6
+    - -307.0e6
 dv_is_:
   same_as:
-    - "[[WD~Moscovian,1179385]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~2~Moscovian|Age~2~Moscovian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~2~Moscovian.public|Age~2~Moscovian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~2~Moscovian.internal|Age~2~Moscovian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~2~Moscovian.protect|Age~2~Moscovian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~2~Moscovian.private|Age~2~Moscovian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~2~Moscovian.personal|Age~2~Moscovian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~2~Moscovian.secret|Age~2~Moscovian.secret]]"
+  - '[[WD~Moscovian,1179385]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~2~Moscovian|Age~2~Moscovian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~2~Moscovian.public|Age~2~Moscovian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~2~Moscovian.internal|Age~2~Moscovian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~2~Moscovian.protect|Age~2~Moscovian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~2~Moscovian.private|Age~2~Moscovian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~2~Moscovian.personal|Age~2~Moscovian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~2~Moscovian.secret|Age~2~Moscovian.secret]]'
 dv_has_time_stopped:
-  - "-307.0e6"
-  - "-307.0e6"
+- -307.0e6
+- -307.0e6
 dv_has_text_of_color:
-  - "0xA6C7B7"
-  - "0xB3CBB9"
+- 0xA6C7B7
+- 0xB3CBB9
 dv_has_duration_years: NaN
-dv_has_previous_item: "[[Age~1~Bashkirian]]"
-dv_has_next_item: "[[Age~3~Kasimovian]]"
+dv_has_previous_item: '[[Age~1~Bashkirian]]'
+dv_has_next_item: '[[Age~3~Kasimovian]]'
 dv_is_same_as:
-  - "[[WD~Moscovian,1179385]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~2~Moscovian|Age~2~Moscovian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~2~Moscovian.public|Age~2~Moscovian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~2~Moscovian.internal|Age~2~Moscovian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~2~Moscovian.protect|Age~2~Moscovian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~2~Moscovian.private|Age~2~Moscovian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~2~Moscovian.personal|Age~2~Moscovian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~2~Moscovian.secret|Age~2~Moscovian.secret]]"
+- '[[WD~Moscovian,1179385]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~2~Moscovian|Age~2~Moscovian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~2~Moscovian.public|Age~2~Moscovian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~2~Moscovian.internal|Age~2~Moscovian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~2~Moscovian.protect|Age~2~Moscovian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~2~Moscovian.private|Age~2~Moscovian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~2~Moscovian.personal|Age~2~Moscovian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~2~Moscovian.secret|Age~2~Moscovian.secret]]'
 dv_has_name_bg: Моѿков
 dv_has_name_cs: Moscov
 dv_has_name_da: Moscovien

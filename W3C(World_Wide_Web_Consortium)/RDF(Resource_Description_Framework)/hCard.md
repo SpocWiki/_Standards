@@ -1,8 +1,42 @@
 ---
 has_id_wikidata: Q85327
+dv_has_:
+  name_:
+    ca: hCard
+    cdo: HCard
+    cs: hCard
+    de: HCard
+    en: h-card
+    en-gb: hCard
+    es: hCard
+    fi: HCard
+    fr: hCard
+    ga: h-card
+    it: hCard
+    ja: hCard
+    ko: hCard
+    lv: hCard
+    mk: hCard
+    nl: hCard
+    oc: hCard
+    pl: hCard
+    pt: hCard
+    ru: hCard
+    sl: HCard
+    sq: HCard
+    te: hCard
+    uk: hCard
+    zh: HCard
+    zh-cn: hCard
+    zh-hans: hCard
+    zh-hant: hCard
+    zh-hk: hCard
+    zh-sg: hCard
+    zh-tw: hCard
+aliases:
+- h-card
+- HCard
 ---
-
-
 > **hCard** is a microformat for publishing the contact details 
 > (which might be no more than the name) of people, companies, organizations, 
 > and places, in HTML, Atom, RSS, or arbitrary XML. 

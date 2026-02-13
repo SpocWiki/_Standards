@@ -1,57 +1,159 @@
 ---
 aliases:
-  - Anthropozän
-  - Epoch~3~Anthropocene
-  - Anthropocene
+- an tAntrapaicéineach
+- Anthropocaenum
+- Anthropoceen
+- anthropocen
+- Anthropocene
+- anthropocène
+- anthroposen
+- Anthropozän
+- antropoceen
+- antropocen
+- Antropocene
+- Antropoceni
+- Antropoceno
+- antropocæn
+- Antropocè
+- Antropocèn
+- antropocén
+- antropocēns
+- Antroposeen
+- antroposeeni
+- antroposeeʹn
+- Antroposen
+- antroposena
+- antropotseen
+- Antropozeno
+- Epoch~3~Anthropocene
+- Mannöld
+- Ανθρωποκένιο
+- антрапацэн
+- антропоцен
+- אנתרופוקן
+- آنتروپوسن
+- آنتروپوسین
+- ئەنسرۆپۆسین
+- الأنثروبوسين- عصر الإنسان
+- انتروپوسین
+- اینتھروپوسین
+- एंथ्रोपोसीन
+- பால் சோசப் கிரட்சன்
+- แอนโทรโปซีน
+- 人新世
+- 人類世
+- 인류세
 has_id_wikidata: Q26841
 instance_of:
-  - "[[_Standards/WikiData/WD~series,312468]]"
-  - "[[_Standards/WikiData/WD~epoch,754897]]"
-has_cause: "[[_Standards/WikiData/WD~human_overpopulation,331439]]"
-inspired_by: "[[_Standards/WikiData/WD~noosphere,729672]]"
+- '[[_Standards/WikiData/WD~series,312468]]'
+- '[[_Standards/WikiData/WD~epoch,754897]]'
+has_cause: '[[_Standards/WikiData/WD~human_overpopulation,331439]]'
+inspired_by: '[[_Standards/WikiData/WD~noosphere,729672]]'
 studied_by:
-  - "[[_Standards/WikiData/WD~Quaternary_science,2453249]]"
-  - "[[_Standards/WikiData/WD~Earth_science,8008]]"
-  - "[[_Standards/WikiData/WD~anthropology,23404]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Anthropocene,108045866]]"
-facet_of: "[[_Standards/WikiData/WD~human_nature_relationship,109278985]]"
+- '[[_Standards/WikiData/WD~Quaternary_science,2453249]]'
+- '[[_Standards/WikiData/WD~Earth_science,8008]]'
+- '[[_Standards/WikiData/WD~anthropology,23404]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Anthropocene,108045866]]'
+facet_of: '[[_Standards/WikiData/WD~human_nature_relationship,109278985]]'
 coordinate_location: Point(-79.948611111 43.468055555)
 Commons_category: Anthropocene
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Anthropocene%20collage.jpg
-Dewey_Decimal_Classification: "551.793"
+Dewey_Decimal_Classification: 551.793
 dv_has_:
+  duration_: 534
+  name_:
+    af: Antroposeen
+    ar: الأنثروبوسين- عصر الإنسان
+    az: Anthropocene
+    azb: آنتروپوسن
+    be-tarask: антрапацэн
+    ca: Antropocè
+    ckb: ئەنسرۆپۆسین
+    cs: antropocén
+    cv: Антропоцен
+    cy: anthroposen
+    da: antropocæn
+    de: Anthropozän
+    el: Ανθρωποκένιο
+    en: anthropocene
+    eo: Antropoceno
+    es: Antropoceno
+    et: antropotseen
+    eu: Antropozeno
+    fa: آنتروپوسین
+    fi: antroposeeni
+    fr: anthropocène
+    ga: an tAntrapaicéineach
+    gl: Antropoceno
+    ha: Anthropocene
+    he: אנתרופוקן
+    hi: एंथ्रोपोसीन
+    hu: antropocén
+    id: Antroposen
+    ig: anthropocene
+    is: Mannöld
+    it: Antropocene
+    ja: 人新世
+    ko: 인류세
+    la: Anthropocaenum
+    lv: antropocēns
+    mk: антропоцен
+    ms: Antroposen
+    nb: antropocen
+    nds: Anthropozän
+    nl: antropoceen
+    nn: anthropocen
+    oc: Antropocèn
+    pl: antropocen
+    ps: انتروپوسین
+    pt: Antropoceno
+    ro: Antropocen
+    ru: антропоцен
+    se: antroposena
+    sk: Antropocén
+    sl: antropocen
+    smn: antroposeen
+    sms: antroposeeʹn
+    sq: Antropoceni
+    sv: antropocen
+    ta: பால் சோசப் கிரட்சன்
+    th: แอนโทรโปซีน
+    tr: Antroposen
+    uk: антропоцен
+    ur: اینتھروپوسین
+    vi: Anthropocene
+    vls: Anthropoceen
+    zh: 人類世
+  next_:
+    item: '---'
+  previous_:
+    item: '[[Epoch-000_012~Holocene]]'
   time_:
     started: 1492
-  duration_: 534
-  previous_:
-    item: "[[Epoch-000_012~Holocene]]"
-  next_:
-    item: ---
 dv_is_:
   same_as:
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene|Epoch-000_001~Anthropocene]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene.public|Epoch-000_001~Anthropocene.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene.internal|Epoch-000_001~Anthropocene.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene.protect|Epoch-000_001~Anthropocene.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene.private|Epoch-000_001~Anthropocene.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene.personal|Epoch-000_001~Anthropocene.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene.secret|Epoch-000_001~Anthropocene.secret]]"
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene|Epoch-000_001~Anthropocene]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene.public|Epoch-000_001~Anthropocene.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene.internal|Epoch-000_001~Anthropocene.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene.protect|Epoch-000_001~Anthropocene.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene.private|Epoch-000_001~Anthropocene.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene.personal|Epoch-000_001~Anthropocene.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene.secret|Epoch-000_001~Anthropocene.secret]]'
 dv_has_time_started: 1492
 dv_has_duration_years: 534
 dv_has_duration_: 534
-dv_has_previous_item: "[[Epoch-000_012~Holocene]]"
-dv_has_next_item: ---
+dv_has_previous_item: '[[Epoch-000_012~Holocene]]'
+dv_has_next_item: '---'
 dv_is_same_as:
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene|Epoch-000_001~Anthropocene]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene.public|Epoch-000_001~Anthropocene.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene.internal|Epoch-000_001~Anthropocene.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene.protect|Epoch-000_001~Anthropocene.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene.private|Epoch-000_001~Anthropocene.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene.personal|Epoch-000_001~Anthropocene.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene.secret|Epoch-000_001~Anthropocene.secret]]"
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene|Epoch-000_001~Anthropocene]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene.public|Epoch-000_001~Anthropocene.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene.internal|Epoch-000_001~Anthropocene.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene.protect|Epoch-000_001~Anthropocene.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene.private|Epoch-000_001~Anthropocene.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene.personal|Epoch-000_001~Anthropocene.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene.secret|Epoch-000_001~Anthropocene.secret]]'
 ---
-
 # [[Epoch-000_001~Anthropocene]] 
 
 has_time_started = `=this.dv_has_time_started` 

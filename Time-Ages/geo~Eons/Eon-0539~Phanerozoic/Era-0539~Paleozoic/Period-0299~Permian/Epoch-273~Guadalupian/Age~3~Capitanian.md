@@ -1,91 +1,109 @@
 ---
 aliases:
-  - Capitanian
-  - Капитан
-  - Capitan
-  - Capitanien
-  - Capitanium
-  - Capitaniense
-  - Capitani
-  - capitani
-  - capitaniano
-  - カピタニアン期
-  - Kapitanis
-  - Capitaniën
-  - Kapitan
-  - Capitaniano
-  - capitan
-  - capitanij
-  - 卡匹敦期
+- Capitan
+- Capitani
+- Capitanian
+- capitaniano
+- Capitanianu
+- Capitanien
+- Capitaniense
+- capitanij
+- Capitanium
+- Capitanià
+- Capitaniën
+- Kapitan
+- Kapitanis
+- Tầng Capitan
+- Капитан
+- кептенский ярус
+- Кептенський ярус
+- الكابتاني
+- کاپیتانین
+- カピタニアン期
+- キャピタニアン
+- 卡匹敦期
 has_id_wikidata: Q858203
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-named_after: "[[_Standards/WikiData/WD~El_Capitan,5350921]]"
-named_by: "[[_Standards/WikiData/WD~George_Burr_Richardson,23091654]]"
-significant_place: "[[_Standards/WikiData/WD~Nipple_Hill,31714143]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Capitanian,134425322]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+named_after: '[[_Standards/WikiData/WD~El_Capitan,5350921]]'
+named_by: '[[_Standards/WikiData/WD~George_Burr_Richardson,23091654]]'
+significant_place: '[[_Standards/WikiData/WD~Nipple_Hill,31714143]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Capitanian,134425322]]'
 start_time: -265100000-01-01T00:00:00Z
 coordinate_location: Point(-104.7892 31.9091)
 sRGB_color_hex_triplet: FEA38A
 end_time: -259100000-01-01T00:00:00Z
 dv_has_:
   duration_:
-    years: "4.770e+6"
-  previous_:
-    item: "[[Age~2~Wordian]]"
-  next_:
-    item: "[[../Epoch-259~Lopingian/Age~1~Wuchiapingian|Age~1~Wuchiapingian]]"
+    years: 4.770e+6
   name_:
+    abbreviated: p7
+    af: Capitanium
+    ar: الكابتاني
     bg: Капитан
+    ca: Capitanià
     cs: Capitan
     da: Capitanien
     de: Capitanium
+    en: Capitanian
     es: Capitaniense
     et: Capitani
+    fa: کاپیتانین
     fi: Capitan
     fr: Capitanien
+    hr: Capitan
     hu: capitani
-    it: capitaniano
-    ja: カピタニアン期
+    id: Capitanian
+    it: Capitaniano
+    ja: キャピタニアン
     lt: Kapitanis
-    nl: Capitaniën
+    nl: Capitanien
+    nn: capitan
     no: Capitanium
     pl: Kapitan
     pt: Capitaniano
+    ru: кептенский ярус
+    scn: Capitanianu
+    sh: Kapitan
     sk: capitan
     sl: capitanij
     sv: capitan
+    uk: Кептенський ярус
+    vi: Tầng Capitan
     zh: 卡匹敦期
-    abbreviated: p7
-  time_:
-    started: "-264.28e6"
-    stopped: "-259.51e6"
+  next_:
+    item: '[[../Epoch-259~Lopingian/Age~1~Wuchiapingian|Age~1~Wuchiapingian]]'
+  previous_:
+    item: '[[Age~2~Wordian]]'
   text_of_:
-    color: "0xFB9A85"
+    color: 0xFB9A85
+  time_:
+    started: -264.28e6
+    stopped: -259.51e6
 dv_is_:
   same_as:
-    - "[[WD~Capitanian,858203]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~3~Capitanian|Age~3~Capitanian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~3~Capitanian.public|Age~3~Capitanian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~3~Capitanian.internal|Age~3~Capitanian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~3~Capitanian.protect|Age~3~Capitanian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~3~Capitanian.private|Age~3~Capitanian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~3~Capitanian.personal|Age~3~Capitanian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~3~Capitanian.secret|Age~3~Capitanian.secret]]"
-dv_has_duration_years: "4.770e+6"
-dv_has_previous_item: "[[Age~2~Wordian]]"
-dv_has_next_item: "[[../Epoch-259~Lopingian/Age~1~Wuchiapingian|Age~1~Wuchiapingian]]"
+  - '[[WD~Capitanian,858203]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~3~Capitanian|Age~3~Capitanian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~3~Capitanian.public|Age~3~Capitanian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~3~Capitanian.internal|Age~3~Capitanian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~3~Capitanian.protect|Age~3~Capitanian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~3~Capitanian.private|Age~3~Capitanian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~3~Capitanian.personal|Age~3~Capitanian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~3~Capitanian.secret|Age~3~Capitanian.secret]]'
+dv_has_duration_years: 4.770e+6
+dv_has_previous_item: '[[Age~2~Wordian]]'
+dv_has_next_item: '[[../Epoch-259~Lopingian/Age~1~Wuchiapingian|Age~1~Wuchiapingian]]'
 dv_is_same_as:
-  - "[[WD~Capitanian,858203]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~3~Capitanian|Age~3~Capitanian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~3~Capitanian.public|Age~3~Capitanian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~3~Capitanian.internal|Age~3~Capitanian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~3~Capitanian.protect|Age~3~Capitanian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~3~Capitanian.private|Age~3~Capitanian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~3~Capitanian.personal|Age~3~Capitanian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~3~Capitanian.secret|Age~3~Capitanian.secret]]"
+- '[[WD~Capitanian,858203]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~3~Capitanian|Age~3~Capitanian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~3~Capitanian.public|Age~3~Capitanian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~3~Capitanian.internal|Age~3~Capitanian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~3~Capitanian.protect|Age~3~Capitanian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~3~Capitanian.private|Age~3~Capitanian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~3~Capitanian.personal|Age~3~Capitanian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~3~Capitanian.secret|Age~3~Capitanian.secret]]'
 dv_has_name_bg: Капитан
 dv_has_name_cs: Capitan
 dv_has_name_da: Capitanien
@@ -107,9 +125,9 @@ dv_has_name_sl: capitanij
 dv_has_name_sv: capitan
 dv_has_name_zh: 卡匹敦期
 dv_has_name_abbreviated: p7
-dv_has_time_started: "-264.28e6"
-dv_has_time_stopped: "-259.51e6"
-dv_has_text_of_color: "0xFB9A85"
+dv_has_time_started: -264.28e6
+dv_has_time_stopped: -259.51e6
+dv_has_text_of_color: 0xFB9A85
 ---
 # [[Age~3~Capitanian]] 
 

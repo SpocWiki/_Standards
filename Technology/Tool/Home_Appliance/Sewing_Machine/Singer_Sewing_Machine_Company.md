@@ -1,35 +1,51 @@
 ---
-has_time_started: 1851-01-01 
+has_time_started: 1851-01-01
 aliases:
-  - Singer Sewing Machine
-  - Singer Sewing Machine Company
-  - Singer Manufacturing Company
-  - Singer Corporation
-  - Singer_Sewing_Machine_Company
+- Kompanio Singer
+- Singer
+- Singer Corporation
+- Singer Manufacturing Company
+- Singer Sewing Machine
+- Singer Sewing Machine Company
+- Singer_Sewing_Machine_Company
+- Tập đoàn Singer
+- Zinger (şirkət)
+- Зингер
+- Сингер
+- חברת סינגר
+- سنغر
+- سینگر
+- ซิงเกอร์ คอร์ปอเรชั่น
+- シンガー
+- 勝家縫紉機
+- 勝家衣車
+- 胜家缝纫机
+- 胜家衣车
+- 싱어 코퍼레이션
 has_id_wikidata: Q1330508
 industry:
-  - '[[_Standards/WikiData/WD~manufacturing,187939]]'
-  - '[[_Standards/WikiData/WD~electronics_industry,5358497]]'
+- '[[_Standards/WikiData/WD~manufacturing,187939]]'
+- '[[_Standards/WikiData/WD~electronics_industry,5358497]]'
 has_works_in_the_collection:
-  - '[[_Standards/WikiData/WD~Centraal_Museum,260913]]'
-  - "[[_Standards/WikiData/WD~Airborne_Museum_'Hartenstein',408081]]"
-  - '[[_Standards/WikiData/WD~Museum_Boijmans_Van_Beuningen,679527]]'
-  - '[[_Standards/WikiData/WD~TextielMuseum,3983824]]'
-  - '[[_Standards/WikiData/WD~Museum_Elburg,56459645]]'
-  - '[[_Standards/WikiData/WD~National_Museum_Paleis_het_Loo,99349995]]'
+- '[[_Standards/WikiData/WD~Centraal_Museum,260913]]'
+- "[[_Standards/WikiData/WD~Airborne_Museum_'Hartenstein',408081]]"
+- '[[_Standards/WikiData/WD~Museum_Boijmans_Van_Beuningen,679527]]'
+- '[[_Standards/WikiData/WD~TextielMuseum,3983824]]'
+- '[[_Standards/WikiData/WD~Museum_Elburg,56459645]]'
+- '[[_Standards/WikiData/WD~National_Museum_Paleis_het_Loo,99349995]]'
 named_after: '[[_Standards/WikiData/WD~Isaac_Singer,312011]]'
 founded_by:
-  - '[[_Standards/WikiData/WD~Isaac_Singer,312011]]'
-  - '[[_Standards/WikiData/WD~Edward_C._Clark,1291905]]'
+- '[[_Standards/WikiData/WD~Isaac_Singer,312011]]'
+- '[[_Standards/WikiData/WD~Edward_C._Clark,1291905]]'
 headquarters_location:
-  - '[[_Standards/WikiData/WD~La_Vergne,1025773]]'
-  - '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~La_Vergne,1025773]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
 parent_organization: '[[_Standards/WikiData/WD~SVP_Worldwide,3460257]]'
 instance_of: '[[_Standards/WikiData/WD~business,4830453]]'
 replaces: '[[_Standards/WikiData/WD~Friden,_Inc.,5503567]]'
 on_focus_list_of_Wikimedia_project:
-  - '[[_Standards/WikiData/WD~Wikiproject_Oorlogsbronnen,118404701]]'
-  - '[[_Standards/WikiData/WD~NADD_Wikidata_project,123694075]]'
+- '[[_Standards/WikiData/WD~Wikiproject_Oorlogsbronnen,118404701]]'
+- '[[_Standards/WikiData/WD~NADD_Wikidata_project,123694075]]'
 inception: 1851-01-01T00:00:00Z
 locations: '[[_Standards/WikiData/WD~New_York,1384]]'
 country: '[[_Standards/WikiData/WD~United_States,30]]'
@@ -37,14 +53,57 @@ product_or_material_produced: '[[_Standards/WikiData/WD~sewing_machine,49013]]'
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Singer%202007Trans.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Singer%20N%C3%A4hmaschine%20mit%20Tisch%202.jpg
 official_website:
-  - http://www.singer.com/
-  - https://singerbd.com/
-  - https://www.singerfrance.com/
+- http://www.singer.com/
+- https://singerbd.com/
+- https://www.singerfrance.com/
 ISNI: 0000000107754049
 Commons_category: Singer Corporation
 native_label: Singer Corporation
+dv_has_:
+  name_:
+    ar: سنغر
+    az: Zinger (şirkət)
+    be: Singer Corporation
+    bg: Сингер
+    ca: Singer Corporation
+    cs: Singer
+    de: Singer
+    en: Singer Corporation
+    eo: Kompanio Singer
+    es: Singer Corporation
+    et: Singer
+    eu: Singer Corporation
+    fa: سینگر
+    fi: Singer
+    fr: Singer
+    he: חברת סינגר
+    id: Singer Corporation
+    it: Singer
+    ja: シンガー
+    ko: 싱어 코퍼레이션
+    lt: Singer corporation
+    mk: Singer Corporation
+    ms: Singer Corporation
+    nan: Singer
+    nl: Singer Corporation
+    pl: Singer Corporation
+    pt: Singer Corporation
+    ru: Зингер
+    sh: Singer Corporation
+    sl: Singer
+    sv: Singer
+    th: ซิงเกอร์ คอร์ปอเรชั่น
+    tr: Singer Corporation
+    uk: Singer Corporation
+    vi: Tập đoàn Singer
+    zh: 勝家衣車
+    zh-cn: 胜家缝纫机
+    zh-hans: 胜家衣车
+    zh-hant: 勝家衣車
+    zh-hk: 勝家衣車
+    zh-sg: 胜家缝纫机
+    zh-tw: 勝家縫紉機
 ---
-
 # [[Singer_Sewing_Machine_Company]] 
 
 #is_/same_as :: [[Singer_Corporation,1330508]]

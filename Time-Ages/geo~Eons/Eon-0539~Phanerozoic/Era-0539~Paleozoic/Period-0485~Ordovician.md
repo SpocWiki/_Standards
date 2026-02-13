@@ -1,96 +1,210 @@
 ---
 aliases:
-  - Ordovician
-  - Ordovizium
-  - Ордовик
-  - Ordovik
-  - Ordovicium
-  - Ordovícico
-  - Ordoviitsium
-  - Ordoviikki
-  - Ordovicien
-  - ordovícium
-  - ordoviciano
-  - オルドビス紀
-  - Ordovikas
-  - Ordowik
-  - ordovik
-  - ordovicij
-  - ordovicium
-  - 奥陶纪
+- an Tréimhse Ordaivíseach
+- Kỷ Ordovic
+- Lordovig
+- Ordofigaidd
+- Ordofisiyaan
+- Ordovices-kì
+- Ordovician
+- ordoviciano
+- Ordovicien
+- ordovicij
+- ordovicio
+- Ordovicium
+- Ordovicià
+- Ordoviikki
+- Ordoviitsium
+- Ordovik
+- Ordovik dáwiri
+- Ordovik dövrü
+- Ordovikas
+- Ordovikikausi
+- Ordoviks
+- Ordovisi
+- Ordovisian
+- Ordovisium
+- Ordovisyen
+- Ordoviziar
+- Ordovizium
+- Ordovícico
+- Ordovícicu
+- ordovícium
+- Ordowek
+- Ordowik
+- Ordóvisíumtímabilið
+- Ìgbà Ọ̀rdòfísíà
+- Ορδοβίκια περίοδος
+- ардовік
+- ардовіцкі перыяд
+- Ордовик
+- ордовик вакыт
+- Ордовик кезеңі
+- Ордовик мезгили
+- ордовикский период
+- ордовицијум
+- ордовицький період
+- Օրդովիկի ժամանակաշրջան
+- אורדוביק
+- آردو ویسی دور
+- اردویسین
+- العصر الأوردوفيشي
+- اوردویسین
+- اورڈوویشین
+- अवरप्रवाल युग
+- ऑर्डोविशी कल्प
+- অর্ডোভিশিয়ান
+- ஓர்டோவிசியக் காலம்
+- ยุคออร์โดวิเชียน
+- ორდოვიციული სისტემა
+- オルドビス紀
+- 奥陶纪
+- 奧陶紀
+- 오르도비스기
 has_id_wikidata: Q62100
 instance_of:
-  - "[[_Standards/WikiData/WD~period,392928]]"
-  - "[[_Standards/WikiData/WD~system,403523]]"
-named_after: "[[_Standards/WikiData/WD~Ordovices,768052]]"
+- '[[_Standards/WikiData/WD~period,392928]]'
+- '[[_Standards/WikiData/WD~system,403523]]'
+named_after: '[[_Standards/WikiData/WD~Ordovices,768052]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-named_by: "[[_Standards/WikiData/WD~Charles_Lapworth,932471]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Ordovician,8899315]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+named_by: '[[_Standards/WikiData/WD~Charles_Lapworth,932471]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Ordovician,8899315]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 start_time: -486850000-01-01T00:00:00Z
 end_time: -443100000-01-01T00:00:00Z
-sRGB_color_hex_triplet: "009270"
+sRGB_color_hex_triplet: 009270
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide%20Paleographic%20Map%20of%20Earth%2C%20465%20Ma%20%28Darriwilian%20Age%29.png
 Commons_category: Ordovician
-Dewey_Decimal_Classification: "551.731"
+Dewey_Decimal_Classification: 551.731
 dv_has_:
   duration_:
-    years: "4.160e+7"
-  previous_:
-    item: "[[Period-0539~Cambrian]]"
-  next_:
-    item: "[[Period-0444~Silurian]]"
+    years: 4.160e+7
   name_:
+    abbreviated: O
+    af: Ordovisium
+    ar: العصر الأوردوفيشي
+    ast: Ordovícicu
+    az: Ordovik dövrü
+    be: ардовіцкі перыяд
+    be-tarask: ардовік
     bg: Ордовик
+    bn: অর্ডোভিশিয়ান
+    br: Ordovisian
+    bs: Ordovicij
+    ca: Ordovicià
+    cdo: Ordovician
     cs: Ordovik
+    cy: Ordofigaidd
     da: Ordovicium
     de: Ordovizium
+    el: Ορδοβίκια περίοδος
+    en: Ordovician
+    en-gb: Ordovician
+    eo: ordovicio
     es: Ordovícico
     et: Ordoviitsium
-    fi: Ordoviikki
+    eu: Ordoviziar
+    fa: اردویسین
+    fi: Ordovikikausi
     fr: Ordovicien
+    frr: Ordovizium
+    ga: an Tréimhse Ordaivíseach
+    gl: Ordovícico
+    gsw: Ordovizium
+    he: אורדוביק
+    hi: ऑर्डोविशी कल्प
+    hr: ordovicij
     hu: ordovícium
-    it: ordoviciano
+    hy: Օրդովիկի ժամանակաշրջան
+    id: Ordovisium
+    is: Ordóvisíumtímabilið
+    it: Ordoviciano
     ja: オルドビス紀
-    lt: Ordovikas
+    ka: ორდოვიციული სისტემა
+    kaa: Ordovik dáwiri
+    kk: Ордовик кезеңі
+    ko: 오르도비스기
+    kw: Ordowek
+    ky: Ордовик мезгили
+    la: Ordovicium
+    lb: Ordovizium
+    lfn: Ordovician
+    li: Ordovicium
+    lt: ordovikas
+    lv: Ordoviks
+    lzh: 奧陶紀
+    mk: ордовик
+    ms: Ordovisi
+    mzn: اوردویسین
+    nan: Ordovices-kì
+    nb: Ordovicium
+    ne: अवरप्रवाल युग
     nl: Ordovicium
+    nn: ordovicium
     no: Ordovicium
-    pl: Ordowik
-    pt: Ordovícico
-    sk: ordovik
+    oc: Ordovician
+    pl: ordowik
+    pms: Ordovician
+    pnb: اورڈوویشین
+    pt: Ordoviciano
+    ro: Ordovician
+    ru: ордовикский период
+    sh: Ordovicij
+    si: Ordovician
+    sk: Ordovik
     sl: ordovicij
-    sv: ordovicium
+    so: Ordofisiyaan
+    sr: ордовицијум
+    sr-ec: ордовицијум
+    sv: Ordovicium
+    ta: ஓர்டோவிசியக் காலம்
+    th: ยุคออร์โดวิเชียน
+    tl: Ordovician
+    tr: Ordovisyen
+    udm: ордовик вакыт
+    uk: ордовицький період
+    ur: آردو ویسی دور
+    uz: Ordovik
+    vi: Kỷ Ordovic
+    vo: Lordovig
+    war: Ordovician
+    wuu: 奥陶纪
+    yo: Ìgbà Ọ̀rdòfísíà
+    yue: 奧陶紀
     zh: 奥陶纪
-    abbreviated: O
-  time_:
-    started: "-485.4e6"
-    stopped: "-443.8e6"
+  next_:
+    item: '[[Period-0444~Silurian]]'
+  previous_:
+    item: '[[Period-0539~Cambrian]]'
   text_of_:
-    color: "0x009270"
+    color: 0x009270
+  time_:
+    started: -485.4e6
+    stopped: -443.8e6
 dv_is_:
   same_as:
-    - "[[WD~Ordovician,62100]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician|Period-0485~Ordovician]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician.public|Period-0485~Ordovician.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician.internal|Period-0485~Ordovician.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician.protect|Period-0485~Ordovician.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician.private|Period-0485~Ordovician.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician.personal|Period-0485~Ordovician.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician.secret|Period-0485~Ordovician.secret]]"
-dv_has_duration_years: "4.160e+7"
-dv_has_previous_item: "[[Period-0539~Cambrian]]"
-dv_has_next_item: "[[Period-0444~Silurian]]"
+  - '[[WD~Ordovician,62100]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician|Period-0485~Ordovician]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician.public|Period-0485~Ordovician.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician.internal|Period-0485~Ordovician.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician.protect|Period-0485~Ordovician.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician.private|Period-0485~Ordovician.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician.personal|Period-0485~Ordovician.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician.secret|Period-0485~Ordovician.secret]]'
+dv_has_duration_years: 4.160e+7
+dv_has_previous_item: '[[Period-0539~Cambrian]]'
+dv_has_next_item: '[[Period-0444~Silurian]]'
 dv_is_same_as:
-  - "[[WD~Ordovician,62100]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician|Period-0485~Ordovician]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician.public|Period-0485~Ordovician.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician.internal|Period-0485~Ordovician.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician.protect|Period-0485~Ordovician.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician.private|Period-0485~Ordovician.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician.personal|Period-0485~Ordovician.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician.secret|Period-0485~Ordovician.secret]]"
+- '[[WD~Ordovician,62100]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician|Period-0485~Ordovician]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician.public|Period-0485~Ordovician.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician.internal|Period-0485~Ordovician.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician.protect|Period-0485~Ordovician.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician.private|Period-0485~Ordovician.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician.personal|Period-0485~Ordovician.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician.secret|Period-0485~Ordovician.secret]]'
 dv_has_name_bg: Ордовик
 dv_has_name_cs: Ordovik
 dv_has_name_da: Ordovicium
@@ -112,11 +226,10 @@ dv_has_name_sl: ordovicij
 dv_has_name_sv: ordovicium
 dv_has_name_zh: 奥陶纪
 dv_has_name_abbreviated: O
-dv_has_time_started: "-485.4e6"
-dv_has_time_stopped: "-443.8e6"
-dv_has_text_of_color: "0x009270"
+dv_has_time_started: -485.4e6
+dv_has_time_stopped: -443.8e6
+dv_has_text_of_color: 0x009270
 ---
-
 # [[Period-0485~Ordovician]] 
 
 #is_a_/time_/Period 

@@ -1,20 +1,45 @@
 ---
-has_time_started: 1969-01-01 
+has_time_started: 1969-01-01
 aliases:
-  - Unics
-  - OS~Unix
+- ilo Juni
+- lo .uniks.
+- OS~Unix
+- Unics
+- Unikso
+- UNIX
+- Unix作業系統
+- Јуникс
+- Уникс
+- Յունիքս
+- יוניקס
+- يونكس
+- یونکس
+- یونیکس
+- یوونیکس
+- युनिक्स
+- युनिक्स्
+- यूनिक्स
+- ইউনিক্স
+- யுனிக்சு
+- యునిక్స్
+- ಯುನಿಕ್ಸ್
+- യുണിക്സ്
+- යුනික්ස්
+- ยูนิกซ์
+- ယူးနစ်စ်
+- 유닉스
 has_id_wikidata: Q11368
 developer:
-  - '[[_Standards/WikiData/WD~Brian_Kernighan,92608]]'
-  - '[[_Standards/WikiData/WD~Bell_Labs,217365]]'
-  - '[[_Standards/WikiData/WD~Q1107006,1107006]]'
-  - '[[_Standards/WikiData/WD~Dennis_M._Ritchie,45575]]'
+- '[[_Standards/WikiData/WD~Brian_Kernighan,92608]]'
+- '[[_Standards/WikiData/WD~Bell_Labs,217365]]'
+- '[[_Standards/WikiData/WD~Q1107006,1107006]]'
+- '[[_Standards/WikiData/WD~Dennis_M._Ritchie,45575]]'
 programmed_in:
-  - '[[_Standards/WikiData/WD~assembly_language,165436]]'
-  - '[[../../../../WikiData/WD~Q15777,15777]]'
+- '[[_Standards/WikiData/WD~assembly_language,165436]]'
+- '[[../../../../WikiData/WD~Q15777,15777]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~project,170584]]'
-  - '[[_Standards/WikiData/WD~class,16889133]]'
+- '[[_Standards/WikiData/WD~project,170584]]'
+- '[[_Standards/WikiData/WD~class,16889133]]'
 followed_by: '[[_Standards/WikiData/WD~Plan_9,725779]]'
 influenced_by: '[[_Standards/WikiData/WD~Q739186,739186]]'
 follows: '[[_Standards/WikiData/WD~Q739186,739186]]'
@@ -22,29 +47,89 @@ named_after: '[[_Standards/WikiData/WD~Q739186,739186]]'
 copyright_holder: '[[_Standards/WikiData/WD~The_Open_Group,1061619]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~Unics,10387650]]'
 history_of_topic:
-  - '[[_Standards/WikiData/WD~timeline_of_Unix,11733616]]'
-  - '[[_Standards/WikiData/WD~history_of_Unix,14664]]'
+- '[[_Standards/WikiData/WD~timeline_of_Unix,11733616]]'
+- '[[_Standards/WikiData/WD~history_of_Unix,14664]]'
 derivative_work:
-  - '[[_Standards/WikiData/WD~Linux,388]]'
-  - '[[_Standards/WikiData/WD~Berkeley_Software_Distribution,34264]]'
+- '[[_Standards/WikiData/WD~Linux,388]]'
+- '[[_Standards/WikiData/WD~Berkeley_Software_Distribution,34264]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~operating_system,9135]]'
-  - '[[_Standards/WikiData/WD~Unix_like_operating_system,14656]]'
+- '[[_Standards/WikiData/WD~operating_system,9135]]'
+- '[[_Standards/WikiData/WD~Unix_like_operating_system,14656]]'
 inception: 1969-01-01T00:00:00Z
 OmegaWiki_Defined_Meaning: 691874
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Simh-pdp11-unix-sysiii.png
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/UNIX%20logo.svg
 Stack_Exchange_tag:
-  - https://stackoverflow.com/tags/unix
-  - https://unix.stackexchange.com/tags/historical-unix
+- https://stackoverflow.com/tags/unix
+- https://unix.stackexchange.com/tags/historical-unix
 P1015: 90615544
 subreddit: unix
 GitHub_topic: unix
 Commons_category: Unix
 ComputerLanguage_com_definition: Unix
 official_website: https://www.opengroup.org/unix-systems
+dv_has_:
+  name_:
+    ar: يونكس
+    az: UNIX
+    bn: ইউনিক্স
+    bs: UNIX
+    ckb: یوونیکس
+    cv: UNIX
+    da: UNIX
+    eo: Unikso
+    et: UNIX
+    fa: یونیکس
+    ga: UNIX
+    gl: UNIX
+    gsw: UNIX
+    hi: यूनिक्स
+    hif: UNIX
+    hr: UNIX
+    hy: Յունիքս
+    ia: UNIX
+    ilo: UNIX
+    ja: UNIX
+    jbo: lo .uniks.
+    ka: UNIX
+    kk: UNIX
+    kn: ಯುನಿಕ್ಸ್
+    ko: 유닉스
+    lt: UNIX
+    lv: UNIX
+    mg: UNIX
+    mk: Уникс
+    ml: യുണിക്സ്
+    mr: युनिक्स
+    ms: UNIX
+    mul: Unix
+    my: ယူးနစ်စ်
+    ne: युनिक्स
+    new: युनिक्स्
+    os: UNIX
+    ps: یونیکس
+    ro: UNIX
+    ru: UNIX
+    sc: UNIX
+    sgs: UNIX
+    si: යුනික්ස්
+    sq: UNIX
+    sr: Јуникс
+    sw: UNIX
+    ta: யுனிக்சு
+    te: యునిక్స్
+    th: ยูนิกซ์
+    tl: UNIX
+    tok: ilo Juni
+    tr: UNIX
+    uk: UNIX
+    ur: یونکس
+    uz: UNIX
+    wuu: UNIX
+    yi: יוניקס
+    yue: UNIX
+    zh-hant: Unix作業系統
 ---
-
 # [[OS~Unix]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Unix,11368|WD~Unix,11368]] 

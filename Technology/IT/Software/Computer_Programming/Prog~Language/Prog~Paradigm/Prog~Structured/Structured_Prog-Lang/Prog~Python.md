@@ -1,58 +1,97 @@
 ---
-has_time_started: 1991-02-20 
+has_time_started: 1991-02-20
 aliases:
-  - Python
-  - Prog~Python
+- paiton
+- Pajton
+- Prog~Python
+- Python
+- Python (iaith raglennu)
+- Python (lingaedje éndjolike)
+- Python (programming language)
+- Python programming language
+- Python programski jezik
+- Pythons
+- toki ilo Pason
+- Пајтон
+- Питон
+- פייתון
+- بايثون
+- پائیتھن
+- پايتؤن (برنامهنيويسي زوان)
+- پايسون
+- پایتون
+- پایتھَن
+- پایتۆن
+- ߓߊߦߌߕߐߣ
+- पाइथन
+- पाइथन प्रोग्रामिङ्ग भाषा
+- पायथॉन
+- পাইথন
+- ਪਾਈਥਨ
+- પાયથોન(પ્રોગ્રામિંગ ભાષા)
+- ପାଇଥନ୍
+- பைத்தான்
+- పైథాన్
+- പൈത്തൺ
+- පයිතන්
+- ภาษาไพทอน
+- ໄພທອນ (ພາສາໂປຣແກຣມ)
+- პითონი
+- ផាយថុន
+- ᱯᱟᱭᱛᱷᱚᱱ(ᱯᱨᱳᱜᱽᱨᱟᱢᱤᱝ ᱯᱟᱹᱨᱥᱤ)
+- 蟒語
+- ꠙꠣꠁꠕꠘ
+- 파이썬
 has_id_wikidata: Q28865
 IRC_channel_URL:
-  - irc://irc.ircnet.net/python.fi
-  - irc://chat.freenode.net/pyar
-  - irc://irc.freenode.net/distutils
-  - irc://irc.freenode.net/python
-  - irc://irc.freenode.net/python-dev
-  - irc://irc.freenode.net/python-pt
-  - irc://irc.freenode.net/python-tr
-  - irc://irc.freenode.net/python.de
+- irc://irc.ircnet.net/python.fi
+- irc://chat.freenode.net/pyar
+- irc://irc.freenode.net/distutils
+- irc://irc.freenode.net/python
+- irc://irc.freenode.net/python-dev
+- irc://irc.freenode.net/python-pt
+- irc://irc.freenode.net/python-tr
+- irc://irc.freenode.net/python.de
 Wolfram_Language_entity_code: Entity["ProgrammingLanguage", "Python::4g426"]
 OSDN_project: freshmeat_python
 subreddit:
-  - learnpython
-  - python
-  - Python
+- learnpython
+- python
+- Python
 Docker_Hub_repository: library/python
 Commons_category: Python (programming language)
 Commons_gallery: Python (programming language)
 ArchWiki_article:
-  - Python_(Português)
-  - Python_(Русский)
-  - Python_(Українська)
-  - Python
+- Python_(Português)
+- Python_(Русский)
+- Python_(Українська)
+- Python
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Python2.ogg
 programming_paradigm:
-  - '[[_Standards/WikiData/WD~object_oriented_programming,79872]]'
-  - '[[_Standards/WikiData/WD~functional_programming,193076]]'
-  - '[[_Standards/WikiData/WD~imperative_programming,275596]]'
-  - '[[_Standards/WikiData/WD~multi_paradigm_programming,4306983]]'
-  - '[[_Standards/WikiData/WD~dynamic_programming,98609791]]'
+- '[[_Standards/WikiData/WD~object_oriented_programming,79872]]'
+- '[[_Standards/WikiData/WD~functional_programming,193076]]'
+- '[[_Standards/WikiData/WD~imperative_programming,275596]]'
+- '[[_Standards/WikiData/WD~multi_paradigm_programming,4306983]]'
+- '[[_Standards/WikiData/WD~dynamic_programming,98609791]]'
 has_use:
-  - '[[_Standards/WikiData/WD~computer_programming,80006]]'
-  - '[[_Standards/WikiData/WD~computational_science,117801]]'
-  - '[[_Standards/WikiData/WD~web_development,386275]]'
-  - '[[_Standards/WikiData/WD~software_development,638608]]'
-  - '[[_Standards/WikiData/WD~data_analysis,1988917]]'
-  - '[[_Standards/WikiData/WD~machine_learning,2539]]'
-  - '[[_Standards/WikiData/WD~artificial_intelligence,11660]]'
+- '[[_Standards/WikiData/WD~computer_programming,80006]]'
+- '[[_Standards/WikiData/WD~computational_science,117801]]'
+- '[[_Standards/WikiData/WD~web_development,386275]]'
+- '[[_Standards/WikiData/WD~software_development,638608]]'
+- '[[_Standards/WikiData/WD~data_analysis,1988917]]'
+- '[[_Standards/WikiData/WD~machine_learning,2539]]'
+- '[[_Standards/WikiData/WD~artificial_intelligence,11660]]'
 developer:
-  - '[[_Standards/WikiData/WD~Python_Software_Foundation,83818]]'
-  - '[[_Standards/WikiData/WD~Guido_van_Rossum,30942]]'
+- '[[_Standards/WikiData/WD~Python_Software_Foundation,83818]]'
+- '[[_Standards/WikiData/WD~Guido_van_Rossum,30942]]'
 operating_system: '[[_Standards/WikiData/WD~cross_platform,174666]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Python,271218]]'
-  - '[[_Standards/WikiData/WD~CPython,599384]]'
+- '[[_Standards/WikiData/WD~Python,271218]]'
+- '[[_Standards/WikiData/WD~CPython,599384]]'
 typing_discipline:
-  - '[[_Standards/WikiData/WD~duck_typing,374282]]'
-  - '[[_Standards/WikiData/WD~dynamic_typing,1268978]]'
-  - '[[_Standards/WikiData/WD~gradual_typing,16965428]]'
+- '[[_Standards/WikiData/WD~duck_typing,374282]]'
+- '[[_Standards/WikiData/WD~dynamic_typing,1268978]]'
+- '[[_Standards/WikiData/WD~gradual_typing,16965428]]'
 instance_of: '[[_Standards/WikiData/WD~object_based_language,899523]]'
 influenced_by: '[[_Standards/WikiData/WD~ABC,1057802]]'
 movement: '[[_Standards/WikiData/WD~free_software_movement,1076638]]'
@@ -61,20 +100,20 @@ history_of_topic: '[[_Standards/WikiData/WD~history_of_Python,4205080]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Python_(programming_language),8084959]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Software,15659621]]'
 has_edition_or_translation:
-  - '[[_Standards/WikiData/WD~Python_3,31205855]]'
-  - '[[_Standards/WikiData/WD~Python_2,99513286]]'
+- '[[_Standards/WikiData/WD~Python_3,31205855]]'
+- '[[_Standards/WikiData/WD~Python_2,99513286]]'
 copyright_status: '[[_Standards/WikiData/WD~copyrighted,50423863]]'
 funder: '[[_Standards/WikiData/WD~BeOpen.com,110973971]]'
 has_part_s_: '[[_Standards/WikiData/WD~integrated_development_environment,13741]]'
 programmed_in:
-  - '[[../../../../../../../../WikiData/WD~Q15777,15777]]'
-  - '[[_Standards/WikiData/WD~Q28865,28865]]'
+- '[[../../../../../../../../WikiData/WD~Q15777,15777]]'
+- '[[_Standards/WikiData/WD~Q28865,28865]]'
 named_after: '[[_Standards/WikiData/WD~Monty_Python,16402]]'
 designed_by: '[[_Standards/WikiData/WD~Guido_van_Rossum,30942]]'
 official_website: https://www.python.org/
 described_at_URL:
-  - https://marketplace.sshopencloud.eu/tool-or-service/tt0gGA
-  - https://tapor.ca/tools/1366
+- https://marketplace.sshopencloud.eu/tool-or-service/tt0gGA
+- https://tapor.ca/tools/1366
 Baidu_Tieba_name: python
 GitHub_topic: python
 openSUSE_package: python
@@ -90,21 +129,75 @@ icon: http://commons.wikimedia.org/wiki/Special:FilePath/.PY%20file%20recreation
 image: http://commons.wikimedia.org/wiki/Special:FilePath/CPT-TheoryOfComp-Binary-Search-Python.png
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Python%20logo%20and%20wordmark.svg
 Stack_Exchange_tag:
-  - https://ai.stackexchange.com/tags/python
-  - https://askubuntu.com/tags/python
-  - https://codereview.stackexchange.com/tags/python
-  - https://datascience.stackexchange.com/tags/python
-  - https://dsp.stackexchange.com/tags/python
-  - https://gis.stackexchange.com/tags/python
-  - https://or.stackexchange.com/tags/python
-  - https://quantumcomputing.stackexchange.com/tags/python
-  - https://raspberrypi.stackexchange.com/tags/python
-  - https://softwareengineering.stackexchange.com/tags/python
-  - https://stackoverflow.com/tags/python
-  - https://unix.stackexchange.com/tags/python
+- https://ai.stackexchange.com/tags/python
+- https://askubuntu.com/tags/python
+- https://codereview.stackexchange.com/tags/python
+- https://datascience.stackexchange.com/tags/python
+- https://dsp.stackexchange.com/tags/python
+- https://gis.stackexchange.com/tags/python
+- https://or.stackexchange.com/tags/python
+- https://quantumcomputing.stackexchange.com/tags/python
+- https://raspberrypi.stackexchange.com/tags/python
+- https://softwareengineering.stackexchange.com/tags/python
+- https://stackoverflow.com/tags/python
+- https://unix.stackexchange.com/tags/python
 user_manual_URL: https://docs.python.org/
 issue_tracker_URL: https://github.com/python/cpython/issues
 official_wiki_URL: https://wiki.python.org
+dv_has_:
+  name_:
+    ar: بايثون
+    as: পাইথন
+    azb: پایتون
+    bar: Pythons
+    bho: पाइथन
+    bn: পাইথন
+    bs: Python programski jezik
+    ckb: پایتۆن
+    cs: Python
+    cy: Python (iaith raglennu)
+    en: Python
+    fa: پایتون
+    glk: پايتؤن (برنامهنيويسي زوان)
+    gu: પાયથોન(પ્રોગ્રામિંગ ભાષા)
+    ha: Python programming language
+    he: פייתון
+    hi: पाइथन
+    jbo: paiton
+    ka: პითონი
+    kaa: Python
+    km: ផាយថុន
+    ko: 파이썬
+    ks: پایتھَن
+    lo: ໄພທອນ (ພາສາໂປຣແກຣມ)
+    lzh: 蟒語
+    mk: Питон
+    ml: പൈത്തൺ
+    mr: पायथॉन
+    mul: Python
+    ne: पाइथन प्रोग्रामिङ्ग भाषा
+    nqo: ߓߊߦߌߕߐߣ
+    or: ପାଇଥନ୍
+    pa: ਪਾਈਥਨ
+    pap: Python
+    pap-aw: Python
+    pnb: پائیتھن
+    sat: ᱯᱟᱭᱛᱷᱚᱱ(ᱯᱨᱳᱜᱽᱨᱟᱢᱤᱝ ᱯᱟᱹᱨᱥᱤ)
+    sh: Python programski jezik
+    shn: Python (programming language)
+    si: පයිතන්
+    sr: Пајтон
+    sr-ec: Пајтон
+    sr-el: Pajton
+    syl: ꠙꠣꠁꠕꠘ
+    ta: பைத்தான்
+    te: పైథాన్
+    th: ภาษาไพทอน
+    tok: toki ilo Pason
+    ug: پايسون
+    ur: پائیتھن
+    wa: Python (lingaedje éndjolike)
+    war: Python (programming language)
 ---
 # [[Prog~Python]] 
 

@@ -1,53 +1,154 @@
 ---
 location:
-  - 90
-  - 65
+- 90
+- 65
 aliases:
-  - Population Transfer in the Soviet Union
-  - Population_Transfer_in_the_Soviet_Union
+- Biztanleriaren mugimendua Sobietar Batasunean
+- deportaciones de pueblos en la Unión Soviética
+- Deportationen in der UdSSR
+- Deportazioni dei popoli in URSS
+- déportation des peuples en URSS
+- Dịch chuyển dân cư ở Liên bang Xô viết
+- Ekziligoj en Sovetunio
+- gedwongen volksverhuizingen in de Sovjet-Unie
+- Neuvostoliiton väestönsiirrot
+- Nucené přesuny obyvatel v Sovětském svazu
+- népességcsere a Szovjetunióban
+- Pemindahan penduduk di Uni Soviet
+- Population Transfer in the Soviet Union
+- Population_Transfer_in_the_Soviet_Union
+- preseljevanje prebivalstva v Sovjetski zvezi
+- Prisilno raseljavanje u Sovjetskom Savezu
+- Sovyetler Birliği'nde nüfus göçü
+- SSRS tautų tremtys
+- SSRİ-də məcburi köçürülmələr
+- Tautu deportācijas Padomju Savienībā
+- Transferencia de poboación na Unión Soviética
+- Transferuri de populație în Uniunea Sovietică
+- Transferència de població a la Unió Soviètica
+- transferências populacionais na União Soviética
+- tvångsförflyttningar av befolkningsgrupper i Sovjetunionen
+- zesłania w ZSRR
+- Μετακίνηση πληθυσμού στη Σοβιετική Ένωση
+- Адæмты депортацитæ
+- Депортація народів в СРСР
+- Депортации народов в СССР
+- Дэпартацыі ў СССР
+- дэпартацыі народаў у СССР
+- Присилно раселување во Советскиот Сојуз
+- СССР-ҙа Халыҡтарҙы депортациялау
+- Ժողովուրդների տեղահանություն Խորհրդային Միությունում
+- העברת אוכלוסין בברית המועצות
+- انتقال السكان في الاتحاد السوفيتي
+- سوویت اتحاد میں آبادی کی مہاجرت
+- سوویت اتحاد وچ آبادی دی مہاجرت
+- مهاجرت اجباری در اتحاد جماهیر شوروی
+- په شوروي اتحاد کې د وګړو تحمیلي لېږد
+- საბჭოთა ხალხების დეპორტაცია
+- ソ連の強制移住
+- 苏联的人口转移
+- 蘇聯的人口轉移
+- 소련의 강제이주
 has_id_wikidata: Q85125
 victim_s_:
-  - "[[_Standards/WikiData/WD~Crimean_Tatars,117458]]"
-  - "[[_Standards/WikiData/WD~Kalmyks,190209]]"
-  - "[[_Standards/WikiData/WD~Balkars,192604]]"
-  - "[[_Standards/WikiData/WD~Karachays,243274]]"
-  - "[[_Standards/WikiData/WD~Ingush_people,485010]]"
-  - "[[_Standards/WikiData/WD~German_Russians,702193]]"
-  - "[[_Standards/WikiData/WD~Koryo_saram,711083]]"
-  - "[[_Standards/WikiData/WD~Meskhetian_(Turks),1055319]]"
-  - "[[_Standards/WikiData/WD~Ingrian_Finns,1998273]]"
-  - "[[_Standards/WikiData/WD~Chechens,31230]]"
+- '[[_Standards/WikiData/WD~Crimean_Tatars,117458]]'
+- '[[_Standards/WikiData/WD~Kalmyks,190209]]'
+- '[[_Standards/WikiData/WD~Balkars,192604]]'
+- '[[_Standards/WikiData/WD~Karachays,243274]]'
+- '[[_Standards/WikiData/WD~Ingush_people,485010]]'
+- '[[_Standards/WikiData/WD~German_Russians,702193]]'
+- '[[_Standards/WikiData/WD~Koryo_saram,711083]]'
+- '[[_Standards/WikiData/WD~Meskhetian_(Turks),1055319]]'
+- '[[_Standards/WikiData/WD~Ingrian_Finns,1998273]]'
+- '[[_Standards/WikiData/WD~Chechens,31230]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~ethnic_cleansing,154278]]"
-  - "[[_Standards/WikiData/WD~crime_against_humanity,173462]]"
-  - "[[_Standards/WikiData/WD~deportation,379693]]"
-  - "[[_Standards/WikiData/WD~forced_displacement,837556]]"
-  - "[[_Standards/WikiData/WD~genocide,41397]]"
-locations: "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
-country: "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
+- '[[_Standards/WikiData/WD~ethnic_cleansing,154278]]'
+- '[[_Standards/WikiData/WD~crime_against_humanity,173462]]'
+- '[[_Standards/WikiData/WD~deportation,379693]]'
+- '[[_Standards/WikiData/WD~forced_displacement,837556]]'
+- '[[_Standards/WikiData/WD~genocide,41397]]'
+locations: '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
+country: '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
 coordinate_location: Point(90.0 65.0)
 Commons_category: Soviet deportations
 dv_is_:
   same_as:
-    - "[[../../../../../../../../WikiData/WD~Population_transfer_in_the_Soviet_Union,85125|WD~Population_transfer_in_the_Soviet_Union,85125]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1930-Population_Transfer_in_the_Soviet_Union-1952|1930-Population_Transfer_in_the_Soviet_Union-1952]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1930-Population_Transfer_in_the_Soviet_Union-1952.public|1930-Population_Transfer_in_the_Soviet_Union-1952.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1930-Population_Transfer_in_the_Soviet_Union-1952.internal|1930-Population_Transfer_in_the_Soviet_Union-1952.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1930-Population_Transfer_in_the_Soviet_Union-1952.protect|1930-Population_Transfer_in_the_Soviet_Union-1952.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1930-Population_Transfer_in_the_Soviet_Union-1952.private|1930-Population_Transfer_in_the_Soviet_Union-1952.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1930-Population_Transfer_in_the_Soviet_Union-1952.personal|1930-Population_Transfer_in_the_Soviet_Union-1952.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1930-Population_Transfer_in_the_Soviet_Union-1952.secret|1930-Population_Transfer_in_the_Soviet_Union-1952.secret]]"
+  - '[[../../../../../../../../WikiData/WD~Population_transfer_in_the_Soviet_Union,85125|WD~Population_transfer_in_the_Soviet_Union,85125]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1930-Population_Transfer_in_the_Soviet_Union-1952|1930-Population_Transfer_in_the_Soviet_Union-1952]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1930-Population_Transfer_in_the_Soviet_Union-1952.public|1930-Population_Transfer_in_the_Soviet_Union-1952.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1930-Population_Transfer_in_the_Soviet_Union-1952.internal|1930-Population_Transfer_in_the_Soviet_Union-1952.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1930-Population_Transfer_in_the_Soviet_Union-1952.protect|1930-Population_Transfer_in_the_Soviet_Union-1952.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1930-Population_Transfer_in_the_Soviet_Union-1952.private|1930-Population_Transfer_in_the_Soviet_Union-1952.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1930-Population_Transfer_in_the_Soviet_Union-1952.personal|1930-Population_Transfer_in_the_Soviet_Union-1952.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1930-Population_Transfer_in_the_Soviet_Union-1952.secret|1930-Population_Transfer_in_the_Soviet_Union-1952.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Population_transfer_in_the_Soviet_Union,85125|WD~Population_transfer_in_the_Soviet_Union,85125]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1930-Population_Transfer_in_the_Soviet_Union-1952|1930-Population_Transfer_in_the_Soviet_Union-1952]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1930-Population_Transfer_in_the_Soviet_Union-1952.public|1930-Population_Transfer_in_the_Soviet_Union-1952.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1930-Population_Transfer_in_the_Soviet_Union-1952.internal|1930-Population_Transfer_in_the_Soviet_Union-1952.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1930-Population_Transfer_in_the_Soviet_Union-1952.protect|1930-Population_Transfer_in_the_Soviet_Union-1952.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1930-Population_Transfer_in_the_Soviet_Union-1952.private|1930-Population_Transfer_in_the_Soviet_Union-1952.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1930-Population_Transfer_in_the_Soviet_Union-1952.personal|1930-Population_Transfer_in_the_Soviet_Union-1952.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1930-Population_Transfer_in_the_Soviet_Union-1952.secret|1930-Population_Transfer_in_the_Soviet_Union-1952.secret]]"
+- '[[../../../../../../../../WikiData/WD~Population_transfer_in_the_Soviet_Union,85125|WD~Population_transfer_in_the_Soviet_Union,85125]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1930-Population_Transfer_in_the_Soviet_Union-1952|1930-Population_Transfer_in_the_Soviet_Union-1952]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1930-Population_Transfer_in_the_Soviet_Union-1952.public|1930-Population_Transfer_in_the_Soviet_Union-1952.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1930-Population_Transfer_in_the_Soviet_Union-1952.internal|1930-Population_Transfer_in_the_Soviet_Union-1952.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1930-Population_Transfer_in_the_Soviet_Union-1952.protect|1930-Population_Transfer_in_the_Soviet_Union-1952.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1930-Population_Transfer_in_the_Soviet_Union-1952.private|1930-Population_Transfer_in_the_Soviet_Union-1952.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1930-Population_Transfer_in_the_Soviet_Union-1952.personal|1930-Population_Transfer_in_the_Soviet_Union-1952.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1930-Population_Transfer_in_the_Soviet_Union-1952.secret|1930-Population_Transfer_in_the_Soviet_Union-1952.secret]]'
+dv_has_:
+  name_:
+    ar: انتقال السكان في الاتحاد السوفيتي
+    az: SSRİ-də məcburi köçürülmələr
+    ba: СССР-ҙа Халыҡтарҙы депортациялау
+    be: Дэпартацыі ў СССР
+    be-tarask: дэпартацыі народаў у СССР
+    bs: Prisilno raseljavanje u Sovjetskom Savezu
+    ca: Transferència de població a la Unió Soviètica
+    cs: Nucené přesuny obyvatel v Sovětském svazu
+    de: Deportationen in der UdSSR
+    el: Μετακίνηση πληθυσμού στη Σοβιετική Ένωση
+    en: population transfer in the Soviet Union
+    en-ca: population transfer in the Soviet Union
+    en-gb: population transfer in the Soviet Union
+    eo: Ekziligoj en Sovetunio
+    es: deportaciones de pueblos en la Unión Soviética
+    eu: Biztanleriaren mugimendua Sobietar Batasunean
+    fa: مهاجرت اجباری در اتحاد جماهیر شوروی
+    fi: Neuvostoliiton väestönsiirrot
+    fr: déportation des peuples en URSS
+    gl: Transferencia de poboación na Unión Soviética
+    he: העברת אוכלוסין בברית המועצות
+    hr: Prisilno raseljavanje u Sovjetskom Savezu
+    hu: népességcsere a Szovjetunióban
+    hy: Ժողովուրդների տեղահանություն Խորհրդային Միությունում
+    id: Pemindahan penduduk di Uni Soviet
+    it: Deportazioni dei popoli in URSS
+    ja: ソ連の強制移住
+    ka: საბჭოთა ხალხების დეპორტაცია
+    ko: 소련의 강제이주
+    lt: SSRS tautų tremtys
+    lv: Tautu deportācijas Padomju Savienībā
+    mk: Присилно раселување во Советскиот Сојуз
+    nl: gedwongen volksverhuizingen in de Sovjet-Unie
+    os: Адæмты депортацитæ
+    pl: zesłania w ZSRR
+    pnb: سوویت اتحاد وچ آبادی دی مہاجرت
+    ps: په شوروي اتحاد کې د وګړو تحمیلي لېږد
+    pt: transferências populacionais na União Soviética
+    pt-br: Transferências populacionais na União Soviética
+    ro: Transferuri de populație în Uniunea Sovietică
+    ru: Депортации народов в СССР
+    sh: Prisilno raseljavanje u Sovjetskom Savezu
+    sl: preseljevanje prebivalstva v Sovjetski zvezi
+    sr: Prisilno raseljavanje u Sovjetskom Savezu
+    sv: tvångsförflyttningar av befolkningsgrupper i Sovjetunionen
+    tr: Sovyetler Birliği'nde nüfus göçü
+    uk: Депортація народів в СРСР
+    ur: سوویت اتحاد میں آبادی کی مہاجرت
+    vi: Dịch chuyển dân cư ở Liên bang Xô viết
+    zh: 蘇聯的人口轉移
+    zh-cn: 苏联的人口转移
+    zh-hans: 苏联的人口转移
+    zh-hant: 蘇聯的人口轉移
+    zh-hk: 蘇聯的人口轉移
+    zh-sg: 苏联的人口转移
+    zh-tw: 蘇聯的人口轉移
 ---
-
 # [[1930-Population_Transfer_in_the_Soviet_Union-1952]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Population_transfer_in_the_Soviet_Union,85125|WD~Population_transfer_in_the_Soviet_Union,85125]] 

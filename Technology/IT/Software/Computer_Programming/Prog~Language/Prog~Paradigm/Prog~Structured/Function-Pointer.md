@@ -1,8 +1,43 @@
 ---
 has_id_wikidata: Q2736305
+dv_has_:
+  name_:
+    ar: مؤشر لدالة
+    ca: Punter de funció
+    el: Δείκτης συνάρτησης
+    en: function pointer
+    eo: referenco al funkcio
+    fa: اشارهگر به تابع
+    he: מצביע לפונקציה
+    it: Puntatori a funzione
+    ja: 関数へのポインタ
+    kk: Нұсқағыш функция
+    ko: 함수 포인터
+    pl: Typ funkcyjny
+    sl: kazalec funkcije
+    th: ตัวชี้ฟังก์ชัน
+    zh: 函数指针
+    zh-hans: 函数指针
+    zh-hant: 函數指針
+    zh-hk: 函數指針
+aliases:
+- function pointer
+- kazalec funkcije
+- Puntatori a funzione
+- Punter de funció
+- referenco al funkcio
+- Typ funkcyjny
+- Δείκτης συνάρτησης
+- Нұсқағыш функция
+- מצביע לפונקציה
+- اشارهگر به تابع
+- مؤشر لدالة
+- ตัวชี้ฟังก์ชัน
+- 函数指针
+- 函數指針
+- 関数へのポインタ
+- 함수 포인터
 ---
-
-
 #is_/similar_to :: [[../Prog~OO/Delegate~CLI]] 
 
 > A function pointer, also called a subroutine pointer or procedure pointer, 

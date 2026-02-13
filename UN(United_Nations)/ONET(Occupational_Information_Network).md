@@ -1,8 +1,19 @@
 ---
 has_id_wikidata: Q7075783
+dv_has_:
+  name_:
+    de: Occupational Information Network
+    en: O*NET OnLine
+    fa: شبکه اطلاعات شغلی
+    ja: 職業情報ネットワーク
+    nl: O*NET OnLine
+    ru: Occupational Information Network
+aliases:
+- O*NET OnLine
+- Occupational Information Network
+- شبکه اطلاعات شغلی
+- 職業情報ネットワーク
 ---
-
-
 # [[ONET(Occupational_Information_Network)]] 
 
 O_NET (Occupational Information Network) is a comprehensive database of occupational information 

@@ -1,73 +1,114 @@
 ---
 aliases:
-  - Rhaetian
+- Ret
+- Retiano
+- Retico
+- retij
+- Retià
+- Retyk
+- rhaeti
+- Rhaetian
+- Rhaetiano
+- Rhaetianu
+- Rhaetien
+- Rhaetiense
+- Rhaetium
+- Rhät
+- Rhétien
+- Rät
+- ræt
+- Rèticu
+- Tầng Rhaetian
+- Ретський ярус
+- рэтский ярус
+- الرهتي
+- راتین
+- レーティアン
+- 雷塔恩階
+- 래티아절
 has_id_wikidata: Q530828
-named_by: "[[_Standards/WikiData/WD~Wilhelm_von_Gümbel,96287]]"
+named_by: '[[_Standards/WikiData/WD~Wilhelm_von_Gümbel,96287]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Rhaetian,21618801]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Rhaetian,21618801]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 start_time: -208500000-01-01T00:00:00Z
-named_after: "[[_Standards/WikiData/WD~Rhaetian_Alps,1277]]"
+named_after: '[[_Standards/WikiData/WD~Rhaetian_Alps,1277]]'
 end_time: -201300000-01-01T00:00:00Z
 sRGB_color_hex_triplet: E8C2D8
 dv_has_:
   duration_:
-    years: "7.100e+6"
-  previous_:
-    item: "[[Age~2~Norian]]"
-  next_:
-    item: "[[../../Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~1~Hettangian|Age~1~Hettangian]]"
+    years: 7.100e+6
   name_:
+    abbreviated: t7
+    af: Rhaetium
+    ar: الرهتي
+    ast: Rhaetianu
     bg: Рет
+    ca: Retià
     cs: Rhaet
     da: Rhaetien
-    de: Rhätium
-    es: Rhetiense
+    de: Rhät
+    en: Rhaetian
+    es: Rhaetiense
     et: Rhaeti
+    fa: راتین
     fi: Rhaet
     fr: Rhétien
+    gl: Retiano
     hu: rhaeti
-    it: retico
-    ja: レーティアン期
+    id: Rhaetium
+    it: Retico
+    ja: レーティアン
+    ko: 래티아절
+    la: Rhaetium
     lt: Retis
-    nl: Rhaetiën
+    nl: Rhaetien
+    nn: ræt
     no: Ræt
     pl: Retyk
-    pt: Reciano
+    pt: Rhaetiano
+    ru: рэтский ярус
+    scn: Rèticu
+    sh: Ret
     sk: rét
     sl: retij
-    sv: rät
-    zh: 瑞替期
-    abbreviated: t7
-  time_:
-    started: "-208.5e6"
-    stopped: "-201.4e6"
+    sv: Rät
+    uk: Ретський ярус
+    vi: Tầng Rhaetian
+    zh: 雷塔恩階
+  next_:
+    item: '[[../../Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~1~Hettangian|Age~1~Hettangian]]'
+  previous_:
+    item: '[[Age~2~Norian]]'
   text_of_:
-    color: "0xE3B9DB"
+    color: 0xE3B9DB
+  time_:
+    started: -208.5e6
+    stopped: -201.4e6
 dv_is_:
   same_as:
-    - "[[WD~Rhaetian,530828]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~3~Rhaetian|Age~3~Rhaetian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~3~Rhaetian.public|Age~3~Rhaetian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~3~Rhaetian.internal|Age~3~Rhaetian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~3~Rhaetian.protect|Age~3~Rhaetian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~3~Rhaetian.private|Age~3~Rhaetian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~3~Rhaetian.personal|Age~3~Rhaetian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~3~Rhaetian.secret|Age~3~Rhaetian.secret]]"
-dv_has_duration_years: "7.100e+6"
-dv_has_previous_item: "[[Age~2~Norian]]"
-dv_has_next_item: "[[../../Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~1~Hettangian|Age~1~Hettangian]]"
+  - '[[WD~Rhaetian,530828]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~3~Rhaetian|Age~3~Rhaetian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~3~Rhaetian.public|Age~3~Rhaetian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~3~Rhaetian.internal|Age~3~Rhaetian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~3~Rhaetian.protect|Age~3~Rhaetian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~3~Rhaetian.private|Age~3~Rhaetian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~3~Rhaetian.personal|Age~3~Rhaetian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~3~Rhaetian.secret|Age~3~Rhaetian.secret]]'
+dv_has_duration_years: 7.100e+6
+dv_has_previous_item: '[[Age~2~Norian]]'
+dv_has_next_item: '[[../../Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~1~Hettangian|Age~1~Hettangian]]'
 dv_is_same_as:
-  - "[[WD~Rhaetian,530828]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~3~Rhaetian|Age~3~Rhaetian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~3~Rhaetian.public|Age~3~Rhaetian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~3~Rhaetian.internal|Age~3~Rhaetian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~3~Rhaetian.protect|Age~3~Rhaetian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~3~Rhaetian.private|Age~3~Rhaetian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~3~Rhaetian.personal|Age~3~Rhaetian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~3~Rhaetian.secret|Age~3~Rhaetian.secret]]"
+- '[[WD~Rhaetian,530828]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~3~Rhaetian|Age~3~Rhaetian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~3~Rhaetian.public|Age~3~Rhaetian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~3~Rhaetian.internal|Age~3~Rhaetian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~3~Rhaetian.protect|Age~3~Rhaetian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~3~Rhaetian.private|Age~3~Rhaetian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~3~Rhaetian.personal|Age~3~Rhaetian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~3~Rhaetian.secret|Age~3~Rhaetian.secret]]'
 dv_has_name_bg: Рет
 dv_has_name_cs: Rhaet
 dv_has_name_da: Rhaetien
@@ -89,9 +130,9 @@ dv_has_name_sl: retij
 dv_has_name_sv: rät
 dv_has_name_zh: 瑞替期
 dv_has_name_abbreviated: t7
-dv_has_time_started: "-208.5e6"
-dv_has_time_stopped: "-201.4e6"
-dv_has_text_of_color: "0xE3B9DB"
+dv_has_time_started: -208.5e6
+dv_has_time_stopped: -201.4e6
+dv_has_text_of_color: 0xE3B9DB
 ---
 # [[Age~3~Rhaetian]] 
 

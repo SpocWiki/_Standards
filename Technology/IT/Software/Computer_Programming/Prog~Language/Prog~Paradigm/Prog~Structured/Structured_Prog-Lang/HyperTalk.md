@@ -1,7 +1,38 @@
 ---
 has_id_wikidata: Q58329
+dv_has_:
+  name_:
+    ca: HyperTalk
+    da: HyperTalk
+    de: HyperTalk
+    en: HyperTalk
+    es: HyperTalk
+    eu: HyperTalk
+    fi: HyperTalk
+    fr: HyperTalk
+    ga: HyperTalk
+    he: HyperTalk
+    it: HyperTalk
+    ja: HyperTalk
+    ko: 하이퍼토크
+    ky: Hypertalk
+    ms: HyperTalk
+    mul: HyperTalk
+    nb: HyperTalk
+    nl: HyperTalk
+    nn: HyperTalk
+    oc: HyperTalk
+    pt: HyperTalk
+    ro: HyperTalk
+    ru: HyperTalk
+    sl: HyperTalk
+    sv: HyperTalk
+    tt: HyperTalk
+    tt-cyrl: HyperTalk
+aliases:
+- HyperTalk
+- 하이퍼토크
 ---
-
 # [[HyperTalk]] 
 
 #is_a_/ComputerLanguage 

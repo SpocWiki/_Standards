@@ -1,47 +1,148 @@
 ---
 aliases:
-  - Wounded Knee Massacre
-  - Battle of Wounded Knee
-  - 1890-Wounded_Knee_Massacre
-  - 1890-Wounded Knee Massacre
+- 1890-Wounded Knee Massacre
+- 1890-Wounded_Knee_Massacre
+- Battle of Wounded Knee
+- Bloedbad fan Wounded Knee
+- Bloedbad van Wounded Knee
+- Cyflafan Wounded Knee
+- Lazhadeg Wounded Knee
+- Masacre de Wounded Knee
+- Masacrul de la Wounded Knee
+- Masakr kod Vunded Nija
+- Masakr u Wounded Knee
+- Masakra e Wounded Knee
+- masakra nad Wounded Knee
+- Masakro de Wounded Knee
+- Masakro di Wounded Knee
+- Massacre de Wounded Knee
+- massacro di Wounded Knee
+- Massaker bi Wounded Knee
+- Massaker bie Wounded Knee
+- Massakern vid Wounded Knee
+- Massakren ved Wounded Knee
+- Pembantaian Wounded Knee
+- Pembunuhan Wounded Knee
+- Pokol pri Ranjenem kolenu
+- Slagting van Wounded Knee
+- Thảm sát Wounded Knee
+- Wounded Knee Katliamı
+- Wounded Knee Massacre
+- Wounded Knee-i mészárlás
+- Wounded Knee-Massaker
+- Wounded Kneeko sarraskia
+- Wounded Kneen verilöyly
+- Yaralı diz qətliamı
+- Σφαγή του Πληγωμένου Γονάτου
+- Бойня на ручье Вундед-Ни
+- гвалт ля Ўундэд-Ні
+- Клане при Ундид Ний
+- Різанина на Вундед-Ні
+- הטבח בוונדד ני
+- مذبحة ووندد ني
+- کشتار ووندد نی
+- یارالی دیز قتلعامی
+- வூண்டட் நீ படுகொலை
+- ウンデット・ニーの虐殺
+- 伤膝河大屠杀
+- 傷膝河大屠殺
+- 운디드니 학살
 has_id_wikidata: Q108413
 coordinate_location: Point(-102.365 43.1425)
 location:
-  - 43.1425
-  - -102.365
-participant: "[[_Standards/WikiData/WD~7th_Cavalry_Regiment,269574]]"
+- 43.1425
+- -102.365
+participant: '[[_Standards/WikiData/WD~7th_Cavalry_Regiment,269574]]'
 locations:
-  - "[[_Standards/WikiData/WD~Wounded_Knee_Creek,1839733]]"
-  - "[[_Standards/WikiData/WD~Wounded_Knee_National_Historic_Landmark,8037403]]"
-instance_of: "[[_Standards/WikiData/WD~massacre,3199915]]"
+- '[[_Standards/WikiData/WD~Wounded_Knee_Creek,1839733]]'
+- '[[_Standards/WikiData/WD~Wounded_Knee_National_Historic_Landmark,8037403]]'
+instance_of: '[[_Standards/WikiData/WD~massacre,3199915]]'
 point_in_time: 1890-12-29T00:00:00Z
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~South_Dakota,1211]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~South_Dakota,1211]]'
+country: '[[_Standards/WikiData/WD~United_States,30]]'
 number_of_deaths: 300
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Woundedkneesceneafterbattle.jpg
 Commons_category: Wounded Knee Massacre
 IMDb_keyword: wounded-knee-massacre
 dv_is_:
   same_as:
-    - "[[../../../../../../../../WikiData/WD~Wounded_Knee_Massacre,108413]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1890-Wounded_Knee_Massacre|1890-Wounded_Knee_Massacre]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1890-Wounded_Knee_Massacre.public|1890-Wounded_Knee_Massacre.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1890-Wounded_Knee_Massacre.internal|1890-Wounded_Knee_Massacre.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1890-Wounded_Knee_Massacre.protect|1890-Wounded_Knee_Massacre.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1890-Wounded_Knee_Massacre.private|1890-Wounded_Knee_Massacre.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1890-Wounded_Knee_Massacre.personal|1890-Wounded_Knee_Massacre.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1890-Wounded_Knee_Massacre.secret|1890-Wounded_Knee_Massacre.secret]]"
+  - '[[../../../../../../../../WikiData/WD~Wounded_Knee_Massacre,108413]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1890-Wounded_Knee_Massacre|1890-Wounded_Knee_Massacre]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1890-Wounded_Knee_Massacre.public|1890-Wounded_Knee_Massacre.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1890-Wounded_Knee_Massacre.internal|1890-Wounded_Knee_Massacre.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1890-Wounded_Knee_Massacre.protect|1890-Wounded_Knee_Massacre.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1890-Wounded_Knee_Massacre.private|1890-Wounded_Knee_Massacre.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1890-Wounded_Knee_Massacre.personal|1890-Wounded_Knee_Massacre.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1890-Wounded_Knee_Massacre.secret|1890-Wounded_Knee_Massacre.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Wounded_Knee_Massacre,108413]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1890-Wounded_Knee_Massacre|1890-Wounded_Knee_Massacre]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1890-Wounded_Knee_Massacre.public|1890-Wounded_Knee_Massacre.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1890-Wounded_Knee_Massacre.internal|1890-Wounded_Knee_Massacre.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1890-Wounded_Knee_Massacre.protect|1890-Wounded_Knee_Massacre.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1890-Wounded_Knee_Massacre.private|1890-Wounded_Knee_Massacre.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1890-Wounded_Knee_Massacre.personal|1890-Wounded_Knee_Massacre.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1890-Wounded_Knee_Massacre.secret|1890-Wounded_Knee_Massacre.secret]]"
+- '[[../../../../../../../../WikiData/WD~Wounded_Knee_Massacre,108413]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1890-Wounded_Knee_Massacre|1890-Wounded_Knee_Massacre]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1890-Wounded_Knee_Massacre.public|1890-Wounded_Knee_Massacre.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1890-Wounded_Knee_Massacre.internal|1890-Wounded_Knee_Massacre.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1890-Wounded_Knee_Massacre.protect|1890-Wounded_Knee_Massacre.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1890-Wounded_Knee_Massacre.private|1890-Wounded_Knee_Massacre.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1890-Wounded_Knee_Massacre.personal|1890-Wounded_Knee_Massacre.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1890-Wounded_Knee_Massacre.secret|1890-Wounded_Knee_Massacre.secret]]'
+dv_has_:
+  name_:
+    af: Slagting van Wounded Knee
+    ar: مذبحة ووندد ني
+    ast: Masacre de Wounded Knee
+    az: Yaralı diz qətliamı
+    azb: یارالی دیز قتلعامی
+    be-tarask: гвалт ля Ўундэд-Ні
+    bg: Клане при Ундид Ний
+    br: Lazhadeg Wounded Knee
+    ca: Massacre de Wounded Knee
+    cs: Masakr u Wounded Knee
+    cy: Cyflafan Wounded Knee
+    da: Massakren ved Wounded Knee
+    de: Wounded Knee-Massaker
+    el: Σφαγή του Πληγωμένου Γονάτου
+    en: Wounded Knee Massacre
+    en-us: Wounded Knee Massacre
+    eo: Masakro de Wounded Knee
+    es: Masacre de Wounded Knee
+    eu: Wounded Kneeko sarraskia
+    fa: کشتار ووندد نی
+    fi: Wounded Kneen verilöyly
+    fr: massacre de Wounded Knee
+    fy: Bloedbad fan Wounded Knee
+    gl: Masacre de Wounded Knee
+    he: הטבח בוונדד ני
+    hu: Wounded Knee-i mészárlás
+    id: Pembantaian Wounded Knee
+    io: Masakro di Wounded Knee
+    it: massacro di Wounded Knee
+    ja: ウンデット・ニーの虐殺
+    ko: 운디드니 학살
+    ms: Pembunuhan Wounded Knee
+    nb: Massakren ved Wounded Knee
+    nds: Massaker bi Wounded Knee
+    nl: Bloedbad van Wounded Knee
+    nn: Massakren ved Wounded Knee
+    oc: Massacre de Wounded Knee
+    pl: masakra nad Wounded Knee
+    pt: Massacre de Wounded Knee
+    ro: Masacrul de la Wounded Knee
+    ru: Бойня на ручье Вундед-Ни
+    sl: Pokol pri Ranjenem kolenu
+    sq: Masakra e Wounded Knee
+    sr: Masakr kod Vunded Nija
+    stq: Massaker bie Wounded Knee
+    sv: Massakern vid Wounded Knee
+    ta: வூண்டட் நீ படுகொலை
+    tr: Wounded Knee Katliamı
+    uk: Різанина на Вундед-Ні
+    vi: Thảm sát Wounded Knee
+    zh: 伤膝河大屠杀
+    zh-cn: 伤膝河大屠杀
+    zh-hans: 伤膝河大屠杀
+    zh-hant: 傷膝河大屠殺
+    zh-hk: 傷膝河大屠殺
+    zh-sg: 伤膝河大屠杀
+    zh-tw: 傷膝河大屠殺
 ---
-
 # [[1890-Wounded_Knee_Massacre]] 
 
 #is_/same_as :: [[WD~Wounded_Knee_Massacre,108413]]  

@@ -1,6 +1,7 @@
 ---
 has_time_started: 1997-09-21
 aliases:
+- café akhawayn
 - vayfay
 - Wai-Pai
 - wayfay
@@ -74,6 +75,7 @@ dv_has_:
     en: Wi-Fi
     et: Wi-Fi
     fa: وای-فای
+    fr: café akhawayn
     guc: Wai-Pai
     hi: वाई-फ़ाई
     kn: ವೈ-ಫೈ

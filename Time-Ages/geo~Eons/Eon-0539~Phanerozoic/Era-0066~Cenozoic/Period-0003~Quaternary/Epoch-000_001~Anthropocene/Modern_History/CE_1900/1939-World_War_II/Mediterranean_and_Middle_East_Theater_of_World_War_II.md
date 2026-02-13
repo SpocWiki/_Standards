@@ -1,22 +1,60 @@
 ---
 location:
-  - 18
-  - 35
+- 18
+- 35
 aliases:
-  - Mediterranean_and_Middle_East_Theater_of_World_War_II
+- Batalfronto de Mediteraneo, Proksima Oriento kaj Afriko en la Dua Mondmilito
+- Bigarren Mundu Gerrako Meditarraneoko eta Ekialde Hurbileko frontea
+- campagnes d'Afrique, du Moyen-Orient et de Méditerranée
+- Chiến trường Địa Trung Hải, Trung Đông và Châu Phi trong Chiến tranh thế giới thứ hai
+- Escenaris de la Mediterrània
+- Frente del Mediterraneu na Segunda Guerra Mundial
+- Frente del Mediterráneo en la Segunda Guerra Mundial
+- Frente do Mediterrâneo
+- Fronte do Mediterráneo
+- Kampania śródziemnomorska
+- Mediteranski i bliskoistočni teatar Drugog svetskog rata
+- Mediteransko i bliskoistočno bojište (Drugi svjetski rat)
+- Mediterranean and Middle East Theater of World War II
+- Mediterranean and Middle East theatre of World War II
+- Mediterranean_and_Middle_East_Theater_of_World_War_II
+- Perang Dunia II Kancah Mediterranean dan Timur Tengah
+- Pertempuran Mediterania
+- sredozemsko in bližnjevzhodno bojišče v drugi svetovni vojni
+- Teatri i Mesdheut dhe Lindjes së Mesme në Luftën e Dytë Botërore
+- Teatro del Mediterraneo della seconda guerra mondiale
+- Teatrul de luptă din Mediterană
+- Välimeren, Lähi-idän ja Afrikan sotatoimialue toisessa maailmansodassa
+- İkinci Dünya Savaşı'nın Akdeniz ve Orta Doğu askeri sahaları
+- Икенсе донъя һуғышының Урта диңгеҙ һәм Яҡын Көнсығыш хәрби хәрәкәттәр театры
+- Міжземнаморскі тэатр ваенных дзеянняў Другой сусветнай вайны
+- Міжземнаморская кампанія
+- Середземноморський, Близькосхідний і Африканський театри воєнних дій Другої світової війни
+- Средиземноморски театър
+- Средиземноморский театр военных действий Второй мировой войны
+- Միջերկրածովյան և Մերձավորարևելյան ճակատների ռազմական գործողություններ
+- זירת הים התיכון במלחמת העולם השנייה
+- جبهههای مدیترانه، خاورمیانه و آفریقا
+- مسرح عمليات المتوسط والشرق الأوسط في الحرب العالمية الثانية
+- நடுநிலக்கடல், மத்திய கிழக்கு மற்றும் ஆப்பிரிக்க களம்
+- แนวรบด้านเมดิเตอร์เรเนียนและตะวันออกกลาง
+- 地中海戦域
+- 第二次世界大战地中海、中东及非洲战场
+- 第二次世界大戰地中海、中東及非洲戰場
+- 지중해 및 중동 전구
 has_id_wikidata: Q696817
-instance_of: "[[_Standards/WikiData/WD~theater_of_war,718893]]"
-has_part_s_: "[[_Standards/WikiData/WD~Operation_Catapult,3354678]]"
+instance_of: '[[_Standards/WikiData/WD~theater_of_war,718893]]'
+has_part_s_: '[[_Standards/WikiData/WD~Operation_Catapult,3354678]]'
 country:
-  - "[[_Standards/WikiData/WD~Djibouti,977]]"
-  - "[[_Standards/WikiData/WD~Eritrea,986]]"
-  - "[[_Standards/WikiData/WD~Somalia,1045]]"
-  - "[[_Standards/WikiData/WD~Ethiopia,115]]"
+- '[[_Standards/WikiData/WD~Djibouti,977]]'
+- '[[_Standards/WikiData/WD~Eritrea,986]]'
+- '[[_Standards/WikiData/WD~Somalia,1045]]'
+- '[[_Standards/WikiData/WD~Ethiopia,115]]'
 locations:
-  - "[[_Standards/WikiData/WD~Middle_East,7204]]"
-  - "[[_Standards/WikiData/WD~North_Africa,27381]]"
-  - "[[_Standards/WikiData/WD~Southern_Europe,27449]]"
-  - "[[_Standards/WikiData/WD~Horn_of_Africa,40556]]"
+- '[[_Standards/WikiData/WD~Middle_East,7204]]'
+- '[[_Standards/WikiData/WD~North_Africa,27381]]'
+- '[[_Standards/WikiData/WD~Southern_Europe,27449]]'
+- '[[_Standards/WikiData/WD~Horn_of_Africa,40556]]'
 end_time: 1945-05-02T00:00:00Z
 start_time: 1940-06-10T00:00:00Z
 coordinate_location: Point(18.0 35.0)
@@ -24,25 +62,69 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/RAF%20pilots%20with%20
 Commons_category: Mediterranean, Middle Eastern and African theatre of World War II
 dv_is_:
   same_as:
-    - "[[../../../../../../../../../WikiData/WD~Mediterranean_and_Middle_East_Theater_of_World_War_II,696817]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Mediterranean_and_Middle_East_Theater_of_World_War_II|Mediterranean_and_Middle_East_Theater_of_World_War_II]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Mediterranean_and_Middle_East_Theater_of_World_War_II.public|Mediterranean_and_Middle_East_Theater_of_World_War_II.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Mediterranean_and_Middle_East_Theater_of_World_War_II.internal|Mediterranean_and_Middle_East_Theater_of_World_War_II.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Mediterranean_and_Middle_East_Theater_of_World_War_II.protect|Mediterranean_and_Middle_East_Theater_of_World_War_II.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Mediterranean_and_Middle_East_Theater_of_World_War_II.private|Mediterranean_and_Middle_East_Theater_of_World_War_II.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Mediterranean_and_Middle_East_Theater_of_World_War_II.personal|Mediterranean_and_Middle_East_Theater_of_World_War_II.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Mediterranean_and_Middle_East_Theater_of_World_War_II.secret|Mediterranean_and_Middle_East_Theater_of_World_War_II.secret]]"
+  - '[[../../../../../../../../../WikiData/WD~Mediterranean_and_Middle_East_Theater_of_World_War_II,696817]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Mediterranean_and_Middle_East_Theater_of_World_War_II|Mediterranean_and_Middle_East_Theater_of_World_War_II]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Mediterranean_and_Middle_East_Theater_of_World_War_II.public|Mediterranean_and_Middle_East_Theater_of_World_War_II.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Mediterranean_and_Middle_East_Theater_of_World_War_II.internal|Mediterranean_and_Middle_East_Theater_of_World_War_II.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Mediterranean_and_Middle_East_Theater_of_World_War_II.protect|Mediterranean_and_Middle_East_Theater_of_World_War_II.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Mediterranean_and_Middle_East_Theater_of_World_War_II.private|Mediterranean_and_Middle_East_Theater_of_World_War_II.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Mediterranean_and_Middle_East_Theater_of_World_War_II.personal|Mediterranean_and_Middle_East_Theater_of_World_War_II.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Mediterranean_and_Middle_East_Theater_of_World_War_II.secret|Mediterranean_and_Middle_East_Theater_of_World_War_II.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../../WikiData/WD~Mediterranean_and_Middle_East_Theater_of_World_War_II,696817]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Mediterranean_and_Middle_East_Theater_of_World_War_II|Mediterranean_and_Middle_East_Theater_of_World_War_II]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Mediterranean_and_Middle_East_Theater_of_World_War_II.public|Mediterranean_and_Middle_East_Theater_of_World_War_II.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Mediterranean_and_Middle_East_Theater_of_World_War_II.internal|Mediterranean_and_Middle_East_Theater_of_World_War_II.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Mediterranean_and_Middle_East_Theater_of_World_War_II.protect|Mediterranean_and_Middle_East_Theater_of_World_War_II.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Mediterranean_and_Middle_East_Theater_of_World_War_II.private|Mediterranean_and_Middle_East_Theater_of_World_War_II.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Mediterranean_and_Middle_East_Theater_of_World_War_II.personal|Mediterranean_and_Middle_East_Theater_of_World_War_II.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Mediterranean_and_Middle_East_Theater_of_World_War_II.secret|Mediterranean_and_Middle_East_Theater_of_World_War_II.secret]]"
+- '[[../../../../../../../../../WikiData/WD~Mediterranean_and_Middle_East_Theater_of_World_War_II,696817]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Mediterranean_and_Middle_East_Theater_of_World_War_II|Mediterranean_and_Middle_East_Theater_of_World_War_II]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Mediterranean_and_Middle_East_Theater_of_World_War_II.public|Mediterranean_and_Middle_East_Theater_of_World_War_II.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Mediterranean_and_Middle_East_Theater_of_World_War_II.internal|Mediterranean_and_Middle_East_Theater_of_World_War_II.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Mediterranean_and_Middle_East_Theater_of_World_War_II.protect|Mediterranean_and_Middle_East_Theater_of_World_War_II.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Mediterranean_and_Middle_East_Theater_of_World_War_II.private|Mediterranean_and_Middle_East_Theater_of_World_War_II.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Mediterranean_and_Middle_East_Theater_of_World_War_II.personal|Mediterranean_and_Middle_East_Theater_of_World_War_II.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Mediterranean_and_Middle_East_Theater_of_World_War_II.secret|Mediterranean_and_Middle_East_Theater_of_World_War_II.secret]]'
+dv_has_:
+  name_:
+    ar: مسرح عمليات المتوسط والشرق الأوسط في الحرب العالمية الثانية
+    ast: Frente del Mediterraneu na Segunda Guerra Mundial
+    ba: Икенсе донъя һуғышының Урта диңгеҙ һәм Яҡын Көнсығыш хәрби хәрәкәттәр театры
+    be: Міжземнаморскі тэатр ваенных дзеянняў Другой сусветнай вайны
+    be-tarask: Міжземнаморская кампанія
+    bg: Средиземноморски театър
+    ca: Escenaris de la Mediterrània
+    en: Mediterranean and Middle East Theater of World War II
+    en-ca: Mediterranean and Middle East theatre of World War II
+    en-gb: Mediterranean and Middle East theatre of World War II
+    eo: Batalfronto de Mediteraneo, Proksima Oriento kaj Afriko en la Dua Mondmilito
+    es: Frente del Mediterráneo en la Segunda Guerra Mundial
+    eu: Bigarren Mundu Gerrako Meditarraneoko eta Ekialde Hurbileko frontea
+    fa: جبهههای مدیترانه، خاورمیانه و آفریقا
+    fi: Välimeren, Lähi-idän ja Afrikan sotatoimialue toisessa maailmansodassa
+    fr: campagnes d'Afrique, du Moyen-Orient et de Méditerranée
+    gl: Fronte do Mediterráneo
+    he: זירת הים התיכון במלחמת העולם השנייה
+    hr: Mediteransko i bliskoistočno bojište (Drugi svjetski rat)
+    hy: Միջերկրածովյան և Մերձավորարևելյան ճակատների ռազմական գործողություններ
+    id: Pertempuran Mediterania
+    it: Teatro del Mediterraneo della seconda guerra mondiale
+    ja: 地中海戦域
+    ko: 지중해 및 중동 전구
+    ms: Perang Dunia II Kancah Mediterranean dan Timur Tengah
+    nl: Mediterranean and Middle East theatre of World War II
+    pl: Kampania śródziemnomorska
+    pt: Frente do Mediterrâneo
+    pt-br: Frente do Mediterrâneo
+    ro: Teatrul de luptă din Mediterană
+    ru: Средиземноморский театр военных действий Второй мировой войны
+    sl: sredozemsko in bližnjevzhodno bojišče v drugi svetovni vojni
+    sq: Teatri i Mesdheut dhe Lindjes së Mesme në Luftën e Dytë Botërore
+    sr: Mediteranski i bliskoistočni teatar Drugog svetskog rata
+    ta: நடுநிலக்கடல், மத்திய கிழக்கு மற்றும் ஆப்பிரிக்க களம்
+    th: แนวรบด้านเมดิเตอร์เรเนียนและตะวันออกกลาง
+    tr: İkinci Dünya Savaşı'nın Akdeniz ve Orta Doğu askeri sahaları
+    uk: Середземноморський, Близькосхідний і Африканський театри воєнних дій Другої світової війни
+    vi: Chiến trường Địa Trung Hải, Trung Đông và Châu Phi trong Chiến tranh thế giới thứ hai
+    zh: 第二次世界大戰地中海、中東及非洲戰場
+    zh-hans: 第二次世界大战地中海、中东及非洲战场
+    zh-hant: 第二次世界大戰地中海、中東及非洲戰場
+    zh-hk: 第二次世界大戰地中海、中東及非洲戰場
 ---
-
 # [[Mediterranean_and_Middle_East_Theater_of_World_War_II]] 
 
 #is_/same_as :: [[WD~Mediterranean_and_Middle_East_Theater_of_World_War_II,696817]] 

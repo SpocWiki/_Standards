@@ -1,8 +1,56 @@
 ---
 aliases:
-  - Oven mitts
-  - Mitten
+- cempal
+- Fausthandschuh
+- Kindhad
+- kumštinė
+- labakinnas
+- lapanen
+- manopla
+- manyopla
+- mitaine
+- miton
+- Mitten
+- muffola
+- Oven mitts
+- palčnik
+- Tompėnė
+- vante
+- vott
+- want
+- варежка
+- рукавиця
+- Үтүлүк
+- ミトン
+- 手掌笠
+- 밋턴
 has_id_wikidata: Q1661108
+dv_has_:
+  name_:
+    br: miton
+    ca: manyopla
+    de: Fausthandschuh
+    en: mitten
+    es: manopla
+    et: labakinnas
+    fi: lapanen
+    fr: mitaine
+    id: cempal
+    it: muffola
+    ja: ミトン
+    ko: 밋턴
+    lt: kumštinė
+    nb: vott
+    nl: want
+    nn: vott
+    ru: варежка
+    sah: Үтүлүк
+    sgs: Tompėnė
+    sl: palčnik
+    sv: vante
+    uk: рукавиця
+    vep: Kindhad
+    yue: 手掌笠
 ---
 # [[Mitten]] 
 

@@ -1,18 +1,123 @@
 ---
-location: [ 22.0 , 42.0 ] 
+location: '[[_Standards/WikiData/WD~Balkans,23522]]'
 aliases:
+- Avrupa'da Osmanlı savaşları
+- Bellum Turcicum
+- Cogaí Otamánacha san Eoraip
+- De osmanske krigene i Europa
+- európai oszmán háborúk
+- guerras otomanas en Europa
+- guerras otomás en Europa
+- Guerre ottomane in Europa
+- guerres otomanes a Europa
+- guerres otomanes n'Europa
+- guerres ottomanes en Europe
+- Luettelo Osmanien käymistä sodissa Euroopassa
+- Luftërat osmane në Evropë
+- Osmaanenkriiger
+- Osmanite sõjad Euroopas
+- Osmanska krigen i Europa
+- osmanske vojne v Evropi
+- Osmanski ratovi u Europi
+- Osmanské vojny v Európe
+- osmanské války v Evropě
+- Osmanų imperijos karai Europoje
+- Osmaņu impērijas kari Eiropā
+- Otomanaj militoj en Eŭropo
+- Otomandar gerrak Europan
+- Ottoman Wars in Europe
+- Perang Uthmaniyyah di Eropah
+- Perang Utsmaniyah di Eropa
+- Războaiele Otomane în Europa
+- Turkenoorlogen
+- Türkenkriege
+- wojny osmańskie w Europie
+- şerên osmanî li Ewropayê
+- Οθωμανικοί πόλεμοι στην Ευρώπη
+- асманскія войны ў Эўропе
+- Османлиски војни во Европа
+- Османски войни в Европа
+- Османские войны в Европе
+- Османско освајање Балканског полуострва
+- Турецькі війни в Європі
+- Օսմանյան պատերազմները Եվրոպայում
+- המלחמות העות'מאניות באירופה
+- الحروب العثمانية في أوروبا
+- جنگهای عثمانی در اروپا
+- حروب العثمانيين فى اوروبا
+- یورپ میں عثمانی جنگیں
+- یورپ وچ عثمانی جنگاں
+- यूरोप में उस्मानी युद्ध
+- ইউরোপে উসমানীয়দের যুদ্ধ
+- สงครามออตโตมันในยุโรป
+- モハーチの戦い
+- 奧斯曼戰爭在歐洲
+- 오스만-유럽 전쟁
 has_id_wikidata: Q698985
-instance_of: "[[_Standards/WikiData/WD~series_of_wars,104212151]]"
+instance_of: '[[_Standards/WikiData/WD~series_of_wars,104212151]]'
 start_time: 1354-01-01T00:00:00Z
 participant:
-  - "[[_Standards/WikiData/WD~Byzantine_Empire,12544]]"
-  - "[[_Standards/WikiData/WD~Ottoman_Empire,12560]]"
-country: "[[_Standards/WikiData/WD~Ottoman_Empire,12560]]"
-location: "[[_Standards/WikiData/WD~Balkans,23522]]"
+- '[[_Standards/WikiData/WD~Byzantine_Empire,12544]]'
+- '[[_Standards/WikiData/WD~Ottoman_Empire,12560]]'
+country: '[[_Standards/WikiData/WD~Ottoman_Empire,12560]]'
 end_time: 1683-01-01T00:00:00Z
 coordinate_location: Point(22.0 42.0)
+dv_has_:
+  name_:
+    ar: الحروب العثمانية في أوروبا
+    arz: حروب العثمانيين فى اوروبا
+    ast: guerres otomanes n'Europa
+    be-tarask: асманскія войны ў Эўропе
+    bg: Османски войни в Европа
+    bn: ইউরোপে উসমানীয়দের যুদ্ধ
+    ca: guerres otomanes a Europa
+    cs: osmanské války v Evropě
+    de: Türkenkriege
+    el: Οθωμανικοί πόλεμοι στην Ευρώπη
+    en: Ottoman Wars in Europe
+    eo: Otomanaj militoj en Eŭropo
+    es: guerras otomanas en Europa
+    et: Osmanite sõjad Euroopas
+    eu: Otomandar gerrak Europan
+    fa: جنگهای عثمانی در اروپا
+    fi: Luettelo Osmanien käymistä sodissa Euroopassa
+    fr: guerres ottomanes en Europe
+    frr: Osmaanenkriiger
+    ga: Cogaí Otamánacha san Eoraip
+    gl: guerras otomás en Europa
+    he: המלחמות העות'מאניות באירופה
+    hi: यूरोप में उस्मानी युद्ध
+    hr: Osmanski ratovi u Europi
+    hu: európai oszmán háborúk
+    hy: Օսմանյան պատերազմները Եվրոպայում
+    id: Perang Utsmaniyah di Eropa
+    it: Guerre ottomane in Europa
+    ja: モハーチの戦い
+    ko: 오스만-유럽 전쟁
+    ku: şerên osmanî li Ewropayê
+    ku-latn: şerên osmanî li Ewropayê
+    la: Bellum Turcicum
+    lt: Osmanų imperijos karai Europoje
+    lv: Osmaņu impērijas kari Eiropā
+    mk: Османлиски војни во Европа
+    ms: Perang Uthmaniyyah di Eropah
+    nb: De osmanske krigene i Europa
+    nl: Turkenoorlogen
+    pl: wojny osmańskie w Europie
+    pnb: یورپ وچ عثمانی جنگاں
+    ro: Războaiele Otomane în Europa
+    ru: Османские войны в Европе
+    sk: Osmanské vojny v Európe
+    sl: osmanske vojne v Evropi
+    sq: Luftërat osmane në Evropë
+    sr: Османско освајање Балканског полуострва
+    sv: Osmanska krigen i Europa
+    th: สงครามออตโตมันในยุโรป
+    tr: Avrupa'da Osmanlı savaşları
+    uk: Турецькі війни в Європі
+    ur: یورپ میں عثمانی جنگیں
+    zh: 奧斯曼戰爭在歐洲
 ---
-
 # [[Ottoman_Wars_in_Europe]] 
 
 #is_/same_as :: [[WD~Ottoman_Wars_in_Europe,698985]] 

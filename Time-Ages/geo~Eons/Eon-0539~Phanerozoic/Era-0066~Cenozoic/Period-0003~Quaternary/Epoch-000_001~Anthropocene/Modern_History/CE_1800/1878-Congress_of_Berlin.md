@@ -1,28 +1,82 @@
 ---
-location: [ 13.381944444 , 52.511666666 ] 
+location:
+- '[[_Standards/WikiData/WD~Hotel_Kaiserhof,320591]]'
+- '[[_Standards/WikiData/WD~Berlin,64]]'
 aliases:
-  - Congress of Berlin
-  - 1878-Congress_of_Berlin
-  - 1878-Congress of Berlin
+- 1878-Congress of Berlin
+- 1878-Congress_of_Berlin
+- 1878年柏林会议
+- 1878年柏林會議
+- Berliini kongress
+- Berliinin kongressi
+- Berlin Kongresi
+- Berlin kongressi
+- Berlin konqresi
+- Berlin-kongressen
+- Berliner Kongress
+- Berlinerkongressen
+- Berlingo Biltzarra
+- Berlini kongresszus
+- Berlinkongressen
+- Berlinski kongres
+- Berlínsky kongres
+- Berlínský kongres
+- Berlïn kongresi
+- Berlīnes kongress
+- congres van Berlijn
+- Congreso de Berlín
+- Congreso de Berlín de 1878
+- Congress of Berlin
+- Congresso de Berlim
+- Congresso di Berlino
+- Congresu de Berlín
+- Congresul de la Berlin
+- Congrès de Berlin
+- Congrés de Berlín
+- Consilium Berolinense
+- Hội nghị Berlin
+- Kongres Berlin
+- Kongres berliński
+- Kongresi i Berlinit
+- Kongreso de Berlino
+- Συνέδριο του Βερολίνου
+- Берлінскі кангрэс
+- Берлінський конгрес
+- Берлин конгресі
+- Берлински конгрес
+- Берлинский конгресс
+- Бэрлінскі кангрэс
+- Բեռլինի կոնգրես
+- Պերլինի Վեհաժողով
+- קונגרס ברלין
+- اجتماع برلين
+- برلن کانگرس
+- بەرلىين كونگرەسى
+- کنگره برلین
+- کۆبوونەوەی بەرلین
+- बर्लिन कांग्रेस
+- ਬਰਲਿਨ ਕਾਂਗਰਸ
+- બર્લિન કૉંગ્રેસ
+- การประชุมใหญ่เบอร์ลิน
+- ბერლინის კონგრესი
+- ベルリン会議
+- 베를린 회의
 has_id_wikidata: Q151423
 participant:
-  - '[[_Standards/WikiData/WD~Kingdom_of_Italy,172579]]'
-  - '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
-  - '[[_Standards/WikiData/WD~German_Reich,1206012]]'
-  - '[[_Standards/WikiData/WD~Ottoman_Empire,12560]]'
-  - '[[_Standards/WikiData/WD~Austria_Hungary,28513]]'
-  - '[[_Standards/WikiData/WD~France,142]]'
-  - '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
-location:
-  - '[[_Standards/WikiData/WD~Hotel_Kaiserhof,320591]]'
-  - '[[_Standards/WikiData/WD~Berlin,64]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Italy,172579]]'
+- '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
+- '[[_Standards/WikiData/WD~German_Reich,1206012]]'
+- '[[_Standards/WikiData/WD~Ottoman_Empire,12560]]'
+- '[[_Standards/WikiData/WD~Austria_Hungary,28513]]'
+- '[[_Standards/WikiData/WD~France,142]]'
+- '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
 described_by_source:
-  - '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 instance_of: '[[_Standards/WikiData/WD~summit,1072326]]'
 country: '[[_Standards/WikiData/WD~German_Reich,1206012]]'
 end_time: 1878-07-13T00:00:00Z
@@ -32,8 +86,84 @@ BHCL_UUID: d8ef4b2a-99d8-447b-87e6-d493625b0f1b
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Congress%20of%20Berlin%2C%2013%20July%201878%2C%20by%20Anton%20von%20Werner.jpg
 Commons_category: Congress of Berlin
 Gujarati_Vishwakosh_entry: બર્લિન-કૉંગ્રેસ
+dv_has_:
+  name_:
+    ar: اجتماع برلين
+    ast: Congresu de Berlín
+    az: Berlin konqresi
+    be: Берлінскі кангрэс
+    be-tarask: Бэрлінскі кангрэс
+    bg: Берлински конгрес
+    bs: Berlinski kongres
+    ca: Congrés de Berlín
+    ckb: کۆبوونەوەی بەرلین
+    cs: Berlínský kongres
+    da: Berlinerkongressen
+    de: Berliner Kongress
+    el: Συνέδριο του Βερολίνου
+    en: congress of Berlin
+    eo: Kongreso de Berlino
+    es: Congreso de Berlín
+    et: Berliini kongress
+    eu: Berlingo Biltzarra
+    fa: کنگره برلین
+    fi: Berliinin kongressi
+    fr: Congrès de Berlin
+    gl: Congreso de Berlín de 1878
+    gu: બર્લિન કૉંગ્રેસ
+    he: קונגרס ברלין
+    hi: बर्लिन कांग्रेस
+    hr: Berlinski kongres
+    hu: Berlini kongresszus
+    hy: Բեռլինի կոնգրես
+    hyw: Պերլինի Վեհաժողով
+    id: Kongres Berlin
+    it: Congresso di Berlino
+    ja: ベルリン会議
+    ka: ბერლინის კონგრესი
+    kk: Берлин конгресі
+    kk-arab: بەرلىين كونگرەسى
+    kk-cn: بەرلىين كونگرەسى
+    kk-cyrl: Берлин конгресі
+    kk-kz: Берлин конгресі
+    kk-latn: Berlïn kongresi
+    kk-tr: Berlïn kongresi
+    ko: 베를린 회의
+    la: Consilium Berolinense
+    lv: Berlīnes kongress
+    mk: Берлински конгрес
+    nb: Berlin-kongressen
+    nl: congres van Berlijn
+    nn: Berlinkongressen
+    oc: Congrès de Berlin
+    pa: ਬਰਲਿਨ ਕਾਂਗਰਸ
+    pl: Kongres berliński
+    pnb: برلن کانگرس
+    pt: Congresso de Berlim
+    ro: Congresul de la Berlin
+    ru: Берлинский конгресс
+    sh: Berlinski kongres
+    sk: Berlínsky kongres
+    sl: Berlinski kongres
+    sq: Kongresi i Berlinit
+    sr: Берлински конгрес
+    sr-ec: Берлински конгрес
+    sr-el: Berlinski kongres
+    sv: Berlinkongressen
+    th: การประชุมใหญ่เบอร์ลิน
+    tr: Berlin Kongresi
+    uk: Берлінський конгрес
+    ur: برلن کانگرس
+    uz: Berlin kongressi
+    vi: Hội nghị Berlin
+    zh: 1878年柏林會議
+    zh-cn: 1878年柏林会议
+    zh-hans: 1878年柏林会议
+    zh-hant: 1878年柏林會議
+    zh-hk: 1878年柏林會議
+    zh-sg: 1878年柏林会议
+    zh-tw: 1878年柏林會議
 ---
-
 # [[1878-Congress_of_Berlin]] 
 
 #is_/different_from :: [[1884-Berlin_Conference]] 

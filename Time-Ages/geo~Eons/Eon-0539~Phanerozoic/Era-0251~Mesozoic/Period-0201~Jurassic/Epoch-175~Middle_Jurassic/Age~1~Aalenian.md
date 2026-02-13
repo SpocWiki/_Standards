@@ -1,78 +1,130 @@
 ---
 aliases:
-  - Aalenian
+- aalen
+- Aalen (geológia)
+- Aalen mərtəbəsi
+- Aalen ýarusy
+- aaleni
+- Aaleni lade
+- Aalenian
+- Aaleniano
+- Aalenianu
+- Aaleniar
+- Aalenien
+- Aaleniense
+- Aalenium
+- Aalenià
+- Aalinianu
+- Aalénien
+- Alen
+- Alen jarēsē
+- Alenian
+- alenij
+- Tầng Aalen
+- Аален ярусы
+- ааленский ярус
+- Ааленський ярус
+- آلنین
+- الأليني
+- アーレニアン
+- 阿連期
+- 알렌절
 has_id_wikidata: Q300887
-named_by: "[[_Standards/WikiData/WD~Karl_Mayer_Eymar,116704]]"
+named_by: '[[_Standards/WikiData/WD~Karl_Mayer_Eymar,116704]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-significant_place: "[[_Standards/WikiData/WD~Fuentelsaz,986555]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Aalenian,21144002]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+significant_place: '[[_Standards/WikiData/WD~Fuentelsaz,986555]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Aalenian,21144002]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 coordinate_location: Point(-1.830333333 41.079138888)
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Aalenian,105753535]]"
-named_after: "[[_Standards/WikiData/WD~Aalen,3951]]"
-country: "[[_Standards/WikiData/WD~Spain,29]]"
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Aalenian,105753535]]'
+named_after: '[[_Standards/WikiData/WD~Aalen,3951]]'
+country: '[[_Standards/WikiData/WD~Spain,29]]'
 end_time: -170300000-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Aalenian%20GSSP%20-%20Golden%20spike%20ceremony%20-%20Fuentelsaz%2C%20Guadalajara%2C%20Spain%2014.jpg
 sRGB_color_hex_triplet: 6FDAED
 start_time: -174100000-01-01T00:00:00Z
 dv_has_:
   duration_:
-    years: "3.800e+6"
-  previous_:
-    item: "[[../Epoch-201~Early_Jurassic/Age~4~Toarcian|Age~4~Toarcian]]"
-  next_:
-    item: "[[Age~2~Bajocian]]"
+    years: 3.800e+6
   name_:
+    abbreviated: j1
+    af: Aalenium
+    ar: الأليني
+    ast: Aalenianu
+    az: Aalen mərtəbəsi
     bg: пален
+    ca: Aalenià
     cs: Aalen
     da: Aalenien
-    de: Aalénium
+    de: Aalenium
+    en: Aalenian
     es: Aaleniense
-    et: Aaleni
+    et: Aaleni lade
+    eu: Aaleniar
+    fa: آلنین
     fi: Aalen
     fr: Aalénien
+    gl: Aaleniano
     hu: aaleni
-    it: aaleniano
-    ja: アーレニアン期
+    id: Aalenium
+    it: Aaleniano
+    ja: アーレニアン
+    kk: Аален ярусы
+    ko: 알렌절
+    la: Aalenium
     lt: Alenis
-    nl: Aaleniën
+    nl: Aalenien
+    nn: aalen
     no: Aalen
-    pl: Aalen
+    oc: Aalenian
+    pl: aalen
     pt: Aaleniano
-    sk: álen
-    sl: aalenij
+    ro: Aalenian
+    ru: ааленский ярус
+    scn: Aalinianu
+    sh: Alen
+    sk: Aalen (geológia)
+    sl: alenij
     sv: aalen
-    zh: 阿连期
-    abbreviated: j1
-  time_:
-    started: "-174.7e6"
-    stopped: "-170.9e6"
+    tk: Aalen ýarusy
+    tr: Alenian
+    ug-latn: Alen jarēsē
+    uk: Ааленський ярус
+    vi: Tầng Aalen
+    zh: 阿連期
+  next_:
+    item: '[[Age~2~Bajocian]]'
+  previous_:
+    item: '[[../Epoch-201~Early_Jurassic/Age~4~Toarcian|Age~4~Toarcian]]'
   text_of_:
-    color: "0x9AD9DD"
+    color: 0x9AD9DD
+  time_:
+    started: -174.7e6
+    stopped: -170.9e6
 dv_is_:
   same_as:
-    - "[[WD~Aalenian,300887]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~1~Aalenian|Age~1~Aalenian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~1~Aalenian.public|Age~1~Aalenian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~1~Aalenian.internal|Age~1~Aalenian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~1~Aalenian.protect|Age~1~Aalenian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~1~Aalenian.private|Age~1~Aalenian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~1~Aalenian.personal|Age~1~Aalenian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~1~Aalenian.secret|Age~1~Aalenian.secret]]"
-dv_has_duration_years: "3.800e+6"
-dv_has_previous_item: "[[../Epoch-201~Early_Jurassic/Age~4~Toarcian|Age~4~Toarcian]]"
-dv_has_next_item: "[[Age~2~Bajocian]]"
+  - '[[WD~Aalenian,300887]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~1~Aalenian|Age~1~Aalenian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~1~Aalenian.public|Age~1~Aalenian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~1~Aalenian.internal|Age~1~Aalenian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~1~Aalenian.protect|Age~1~Aalenian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~1~Aalenian.private|Age~1~Aalenian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~1~Aalenian.personal|Age~1~Aalenian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~1~Aalenian.secret|Age~1~Aalenian.secret]]'
+dv_has_duration_years: 3.800e+6
+dv_has_previous_item: '[[../Epoch-201~Early_Jurassic/Age~4~Toarcian|Age~4~Toarcian]]'
+dv_has_next_item: '[[Age~2~Bajocian]]'
 dv_is_same_as:
-  - "[[WD~Aalenian,300887]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~1~Aalenian|Age~1~Aalenian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~1~Aalenian.public|Age~1~Aalenian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~1~Aalenian.internal|Age~1~Aalenian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~1~Aalenian.protect|Age~1~Aalenian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~1~Aalenian.private|Age~1~Aalenian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~1~Aalenian.personal|Age~1~Aalenian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~1~Aalenian.secret|Age~1~Aalenian.secret]]"
+- '[[WD~Aalenian,300887]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~1~Aalenian|Age~1~Aalenian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~1~Aalenian.public|Age~1~Aalenian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~1~Aalenian.internal|Age~1~Aalenian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~1~Aalenian.protect|Age~1~Aalenian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~1~Aalenian.private|Age~1~Aalenian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~1~Aalenian.personal|Age~1~Aalenian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~1~Aalenian.secret|Age~1~Aalenian.secret]]'
 dv_has_name_bg: пален
 dv_has_name_cs: Aalen
 dv_has_name_da: Aalenien
@@ -94,9 +146,9 @@ dv_has_name_sl: aalenij
 dv_has_name_sv: aalen
 dv_has_name_zh: 阿连期
 dv_has_name_abbreviated: j1
-dv_has_time_started: "-174.7e6"
-dv_has_time_stopped: "-170.9e6"
-dv_has_text_of_color: "0x9AD9DD"
+dv_has_time_started: -174.7e6
+dv_has_time_stopped: -170.9e6
+dv_has_text_of_color: 0x9AD9DD
 ---
 # [[Age~1~Aalenian]] 
 

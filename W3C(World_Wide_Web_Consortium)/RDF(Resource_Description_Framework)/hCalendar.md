@@ -1,8 +1,30 @@
 ---
 has_id_wikidata: Q306432
+dv_has_:
+  name_:
+    ar: تقويم الإنترنت بلغة توصيف النص الفائق
+    cs: hCalendar
+    en: h-event
+    es: HCalendar
+    fi: HCalendar
+    fr: hCalendar
+    ga: h-event
+    it: HCalendar
+    ja: hCalendar
+    kn: HCalendar
+    ko: hCalendar
+    lv: HCalendar
+    nl: hCalendar
+    pl: HCalendar
+    ru: HCalendar
+    sl: HCalendar
+    uk: HCalendar
+    zh: HCalendar
+aliases:
+- h-event
+- hCalendar
+- تقويم الإنترنت بلغة توصيف النص الفائق
 ---
-
-
 > **hCalendar** (short for HTML iCalendar) is a microformat standard 
 > for displaying a semantic (X)HTML representation 
 > of iCalendar-format calendar information about an event, on web pages, 

@@ -1,16 +1,88 @@
 ---
 aliases:
-  - Iron_Curtain
+- Altzairuzko Oihala
+- Aulaeum ferreum
+- Bức màn sắt
+- Cortina de Ferro
+- Cortina de fier
+- Cortina de Fierro
+- Cortina de Hierro
+- cortina di ferro
+- Demir Perde
+- Dzelzs priekškars
+- Dəmir pərdə
+- Eisene Rideau
+- Eiserner Vorhang
+- Fera Kurteno
+- Geležinė uždanga
+- Gvozdena zavesa
+- IJzeren Gordijn
+- Iron Curtain
+- Iron_Curtain
+- Izeren Gerdyn
+- jernteppet
+- Jerntæppet
+- Járntjaldið
+- Järnridån
+- Kurtinang Bakal
+- len pi kiwen walo
+- Pano de aceiro
+- Perdeya Hesinî
+- Puthaw nga Kurtina
+- raudne eesriie
+- rautaesirippu
+- rideau de fer
+- Rideoz houarn
+- Rido fè
+- Ridèl de fèrre
+- ruovderidda
+- Teló d'acer
+- Tirai Besi
+- vasfüggöny
+- Y Llen Haearn
+- Ystergordyn
+- żelazna kurtyna
+- železna zavesa
+- železná opona
+- Željezna zavjesa
+- Σιδηρούν παραπέτασμα
+- Гвоздена завеса
+- Жалезная заслона
+- Железна завеса
+- железный занавес
+- Желязна завеса
+- Залізна завіса
+- Темір перде
+- Төмөр хөшиг
+- Երկաթե վարագույր
+- אייזערנעם פארהאנג
+- מסך הברזל
+- آہنی پردہ
+- الستار الحديدي
+- اہنی پردہ
+- پرده آهنین
+- आयरन कर्टेन
+- লৌহ পর্দা
+- இரும்புத் திரை
+- അയൺ കർട്ടൻ
+- ม่านเหล็ก
+- ຜ້າມ່ານເຫຼັກ
+- რკინის ფარდა
+- វាំងននដែក
+- 鉄のカーテン
+- 鐵幕
+- 铁幕
+- 철의 장막
 has_id_wikidata: Q124425
 location:
-  - 15.873611
-  - 48.875833
-different_from: "[[_Standards/WikiData/WD~Bamboo_Curtain,1072056]]"
+- 15.873611
+- 48.875833
+different_from: '[[_Standards/WikiData/WD~Bamboo_Curtain,1072056]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~political_border,1292279]]"
-  - "[[_Standards/WikiData/WD~catchphrase,2708515]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~communism,6186]]"
-country: "[[_Standards/WikiData/WD~Czechoslovakia,33946]]"
+- '[[_Standards/WikiData/WD~political_border,1292279]]'
+- '[[_Standards/WikiData/WD~catchphrase,2708515]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~communism,6186]]'
+country: '[[_Standards/WikiData/WD~Czechoslovakia,33946]]'
 name: Iron Curtain
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Iron%20Curtain.ogg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Iron%20Curtain%20map.svg
@@ -22,23 +94,114 @@ inception: 1946-03-05T00:00:00Z
 coordinate_location: Point(15.873611 48.875833)
 dv_is_:
   same_as:
-    - "[[../../../../../../../../../WikiData/WD~Iron_Curtain,124425]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War/1945-Iron_Curtain-1991|1945-Iron_Curtain-1991]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War/1945-Iron_Curtain-1991.public|1945-Iron_Curtain-1991.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War/1945-Iron_Curtain-1991.internal|1945-Iron_Curtain-1991.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War/1945-Iron_Curtain-1991.protect|1945-Iron_Curtain-1991.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War/1945-Iron_Curtain-1991.private|1945-Iron_Curtain-1991.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War/1945-Iron_Curtain-1991.personal|1945-Iron_Curtain-1991.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War/1945-Iron_Curtain-1991.secret|1945-Iron_Curtain-1991.secret]]"
+  - '[[../../../../../../../../../WikiData/WD~Iron_Curtain,124425]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War/1945-Iron_Curtain-1991|1945-Iron_Curtain-1991]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War/1945-Iron_Curtain-1991.public|1945-Iron_Curtain-1991.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War/1945-Iron_Curtain-1991.internal|1945-Iron_Curtain-1991.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War/1945-Iron_Curtain-1991.protect|1945-Iron_Curtain-1991.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War/1945-Iron_Curtain-1991.private|1945-Iron_Curtain-1991.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War/1945-Iron_Curtain-1991.personal|1945-Iron_Curtain-1991.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War/1945-Iron_Curtain-1991.secret|1945-Iron_Curtain-1991.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../../WikiData/WD~Iron_Curtain,124425]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War/1945-Iron_Curtain-1991|1945-Iron_Curtain-1991]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War/1945-Iron_Curtain-1991.public|1945-Iron_Curtain-1991.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War/1945-Iron_Curtain-1991.internal|1945-Iron_Curtain-1991.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War/1945-Iron_Curtain-1991.protect|1945-Iron_Curtain-1991.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War/1945-Iron_Curtain-1991.private|1945-Iron_Curtain-1991.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War/1945-Iron_Curtain-1991.personal|1945-Iron_Curtain-1991.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War/1945-Iron_Curtain-1991.secret|1945-Iron_Curtain-1991.secret]]"
+- '[[../../../../../../../../../WikiData/WD~Iron_Curtain,124425]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War/1945-Iron_Curtain-1991|1945-Iron_Curtain-1991]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War/1945-Iron_Curtain-1991.public|1945-Iron_Curtain-1991.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War/1945-Iron_Curtain-1991.internal|1945-Iron_Curtain-1991.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War/1945-Iron_Curtain-1991.protect|1945-Iron_Curtain-1991.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War/1945-Iron_Curtain-1991.private|1945-Iron_Curtain-1991.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War/1945-Iron_Curtain-1991.personal|1945-Iron_Curtain-1991.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War/1945-Iron_Curtain-1991.secret|1945-Iron_Curtain-1991.secret]]'
+dv_has_:
+  name_:
+    af: Ystergordyn
+    ar: الستار الحديدي
+    ast: Cortina de Fierro
+    az: Dəmir pərdə
+    bar: Eiserner Vorhang
+    be: Жалезная заслона
+    be-tarask: жалезная заслона
+    bg: Желязна завеса
+    bn: লৌহ পর্দা
+    br: Rideoz houarn
+    bs: Željezna zavjesa
+    ca: Teló d'acer
+    cs: železná opona
+    cy: Y Llen Haearn
+    da: Jerntæppet
+    de: Eiserner Vorhang
+    el: Σιδηρούν παραπέτασμα
+    en: Iron Curtain
+    eo: Fera Kurteno
+    es: Cortina de Hierro
+    et: raudne eesriie
+    eu: Altzairuzko Oihala
+    fa: پرده آهنین
+    fi: rautaesirippu
+    fr: rideau de fer
+    fy: Izeren Gerdyn
+    gl: Pano de aceiro
+    he: מסך הברזל
+    hi: आयरन कर्टेन
+    hr: Željezna zavjesa
+    ht: Rido fè
+    hu: vasfüggöny
+    hy: Երկաթե վարագույր
+    ia: Cortina de Ferro
+    id: Tirai Besi
+    io: Fera kurteno
+    is: Járntjaldið
+    it: cortina di ferro
+    ja: 鉄のカーテン
+    ka: რკინის ფარდა
+    kk: Темір перде
+    km: វាំងននដែក
+    ko: 철의 장막
+    ku: Perdeya Hesinî
+    la: Aulaeum ferreum
+    lb: Eisene Rideau
+    lo: ຜ້າມ່ານເຫຼັກ
+    lt: Geležinė uždanga
+    lv: Dzelzs priekškars
+    mk: Железна завеса
+    ml: അയൺ കർട്ടൻ
+    mn: Төмөр хөшиг
+    ms: Tirai Besi
+    nb: jernteppet
+    nl: IJzeren Gordijn
+    nn: Jernteppet
+    oc: Ridèl de fèrre
+    pl: żelazna kurtyna
+    pnb: اہنی پردہ
+    pt: Cortina de Ferro
+    ro: Cortina de fier
+    ru: железный занавес
+    se: ruovderidda
+    sh: Gvozdena zavesa
+    sk: Železná opona
+    sl: železna zavesa
+    sr: Гвоздена завеса
+    sr-ec: Гвоздена завеса
+    sr-el: Gvozdena zavesa
+    sv: Järnridån
+    ta: இரும்புத் திரை
+    th: ม่านเหล็ก
+    tl: Kurtinang Bakal
+    tok: len pi kiwen walo
+    tr: Demir Perde
+    uk: Залізна завіса
+    ur: آہنی پردہ
+    vi: Bức màn sắt
+    war: Puthaw nga Kurtina
+    wuu: 铁幕
+    yi: אייזערנעם פארהאנג
+    yue: 鐵幕
+    zh: 铁幕
+    zh-cn: 铁幕
+    zh-hans: 铁幕
+    zh-hant: 鐵幕
+    zh-hk: 鐵幕
+    zh-sg: 铁幕
+    zh-tw: 鐵幕
 ---
 ﻿
 # [[1945-Iron_Curtain-1991]] 

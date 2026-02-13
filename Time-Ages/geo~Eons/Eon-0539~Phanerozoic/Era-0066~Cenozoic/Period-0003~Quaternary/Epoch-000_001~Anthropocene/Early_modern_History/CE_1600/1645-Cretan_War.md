@@ -1,38 +1,122 @@
 ---
-location: [ 16.21876 , 43.81276 ] 
+location:
+- '[[_Standards/WikiData/WD~Dalmatia,528042]]'
+- '[[_Standards/WikiData/WD~Crete,34374]]'
+- '[[_Standards/WikiData/WD~Aegean_Sea,34575]]'
 aliases:
-  - Cretan War
-  - Κρητικός Πόλεμος
-  - Kritikós Pólemos
-  - Girit'in Fethi
-  - War of Candia
-  - Guerra di Candia
-  - fifth Ottoman–Venetian war
-  - 1645-Cretan_War
-  - 1645-Cretan War
+- 1645-Cretan War
+- 1645-Cretan_War
+- Chiến tranh Crete (1645—1669)
+- Cinquena Guèrra Otomanoveneciana
+- Cretan War
+- Cretan War of 1645-1669
+- fifth Ottoman–Venetian war
+- Girit Savaşı
+- Girit'in Fethi
+- Guera de Candia
+- Guerra Cretense de 1645-1669
+- Guerra de Candia
+- Guerra de Candía
+- Guerra di Candia
+- guerre de Candie
+- kandiai háború
+- Kandiako Gerra
+- Kandijski rat
+- Kreeta sõda (1645–1669)
+- Kretensiska kriget
+- kretska vojna (1645–1669)
+- Krieg um Kreta
+- Krit müharibəsi (1645-1669)
+- Kritikós Pólemos
+- Krétská válka (1645–1669)
+- Otomana-Venecia Milito je 1645–69
+- Perang Kreta
+- Războiul Candiei
+- VI wojna wenecko-turecka
+- War of Candia
+- Κρητικός Πόλεμος
+- Μεγάλος Κρητικός Πόλεμος
+- Кандійська війна (1645—1669)
+- Кандијски рат
+- Кандийска война
+- Критская война
+- Криты хæст
+- Крыцкая вайна
+- Отоманско-венецијанска војна
+- מלחמת קאנדיה (1669-1645)
+- جنگ کرت
+- حرب كريت
+- کرت ساواشی
+- クレタ戦争 (1645年)
+- 克里特战争 (1645–1669年)
+- 克里特戰爭 (1645–1669)
+- 크레타 전쟁
 has_id_wikidata: Q699602
 participant:
-  - '[[_Standards/WikiData/WD~Kingdom_of_France,70972]]'
-  - '[[_Standards/WikiData/WD~Papal_States,170174]]'
-  - '[[_Standards/WikiData/WD~Knights_Hospitaller,187549]]'
-  - '[[_Standards/WikiData/WD~Maniots,1996974]]'
-  - '[[_Standards/WikiData/WD~Republic_of_Venice,4948]]'
-  - '[[_Standards/WikiData/WD~Ottoman_Empire,12560]]'
-location:
-  - '[[_Standards/WikiData/WD~Dalmatia,528042]]'
-  - '[[_Standards/WikiData/WD~Crete,34374]]'
-  - '[[_Standards/WikiData/WD~Aegean_Sea,34575]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_France,70972]]'
+- '[[_Standards/WikiData/WD~Papal_States,170174]]'
+- '[[_Standards/WikiData/WD~Knights_Hospitaller,187549]]'
+- '[[_Standards/WikiData/WD~Maniots,1996974]]'
+- '[[_Standards/WikiData/WD~Republic_of_Venice,4948]]'
+- '[[_Standards/WikiData/WD~Ottoman_Empire,12560]]'
 country:
-  - '[[_Standards/WikiData/WD~Republic_of_Venice,4948]]'
-  - '[[_Standards/WikiData/WD~Ottoman_Empire,12560]]'
+- '[[_Standards/WikiData/WD~Republic_of_Venice,4948]]'
+- '[[_Standards/WikiData/WD~Ottoman_Empire,12560]]'
 instance_of: '[[_Standards/WikiData/WD~war,198]]'
 Commons_category: Cretan War (1645–69)
 end_time: 1669-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Venetiancrete.jpg
 start_time: 1645-06-23T00:00:00Z
 coordinate_location: Point(16.21876 43.81276)
+dv_has_:
+  name_:
+    ar: حرب كريت
+    arz: حرب كريت
+    ast: Guerra de Candía
+    az: Krit müharibəsi (1645-1669)
+    azb: کرت ساواشی
+    be-tarask: Крыцкая вайна
+    bg: Кандийска война
+    ca: Guerra de Candia
+    cs: Krétská válka (1645–1669)
+    de: Krieg um Kreta
+    el: Μεγάλος Κρητικός Πόλεμος
+    en: Cretan War of 1645-1669
+    eo: Otomana-Venecia Milito je 1645–69
+    es: guerra de Candía
+    et: Kreeta sõda (1645–1669)
+    eu: Kandiako Gerra
+    fa: جنگ کرت
+    fr: guerre de Candie
+    gl: Guerra de Candía
+    he: מלחמת קאנדיה (1669-1645)
+    hr: Kandijski rat
+    hu: kandiai háború
+    id: Perang Kreta
+    it: guerra di Candia
+    ja: クレタ戦争 (1645年)
+    ko: 크레타 전쟁
+    mk: Отоманско-венецијанска војна
+    oc: Cinquena Guèrra Otomanoveneciana
+    os: Криты хæст
+    pl: VI wojna wenecko-turecka
+    pt: Guerra Cretense de 1645-1669
+    pt-br: Guerra Cretense de 1645-1669
+    ro: Războiul Candiei
+    ru: Критская война
+    sh: Kandijski rat
+    sl: kretska vojna (1645–1669)
+    sr: Кандијски рат
+    sr-ec: Кандијски рат
+    sr-el: Kandijski rat
+    sv: Kretensiska kriget
+    tr: Girit Savaşı
+    uk: Кандійська війна (1645—1669)
+    vec: Guera de Candia
+    vi: Chiến tranh Crete (1645—1669)
+    wuu: 克里特战争 (1645–1669年)
+    zh: 克里特戰爭 (1645–1669)
 ---
-
 # [[1645-Cretan_War]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Cretan_War_of_1645-1669,699602|WD~Cretan_War_of_1645-1669,699602]] 

@@ -1,7 +1,35 @@
 ---
 aliases:
-  - Zwirn
-  - Twine
+- cordel
+- Cordetta
+- cordill
+- Dratwa
+- ficelle
+- Filsela
+- Fiselenn
+- hyssing
+- Kanap
+- koord
+- Kordel
+- naru
+- provaznické výrobky
+- snöre
+- spago
+- spárga
+- sukanec
+- Twine
+- twyn
+- Zwirn
+- вераўчына
+- Канап
+- Кантра
+- шпагат
+- פתיל
+- حبل ملفوف
+- ریسمان
+- 合股線
+- 紐
+- 노끈
 has_id_wikidata: Q762984
 different_from: '[[_Standards/WikiData/WD~Twine,2184673]]'
 greater_than: '[[_Standards/WikiData/WD~string,11064354]]'
@@ -12,8 +40,44 @@ less_than: '[[_Standards/WikiData/WD~rope,31029]]'
 Nomenclature_for_Museum_Cataloging: 6550
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bindfaden.jpg
 Commons_category: Twine
+dv_has_:
+  name_:
+    af: twyn
+    ar: حبل ملفوف
+    be-tarask: вераўчына
+    bg: Канап
+    br: Fiselenn
+    ca: cordill
+    cs: provaznické výrobky
+    cv: Кантра
+    de: Zwirn
+    en: twine
+    es: cordel
+    eu: Kordel
+    fa: ریسمان
+    fi: naru
+    fr: ficelle
+    he: פתיל
+    hu: spárga
+    it: spago
+    ja: 紐
+    ko: 노끈
+    lmo: Cordetta
+    mk: канап
+    nb: hyssing
+    nl: koord
+    nn: Hyssing
+    pl: Dratwa
+    pms: Filsela
+    pt: cordel
+    ru: шпагат
+    sl: sukanec
+    sr: Kanap
+    sv: snöre
+    uk: Шпагат
+    yue: 合股線
+    zh: 合股線
 ---
-
 # [[Twine]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Twine,762984|WD~Twine,762984]]  

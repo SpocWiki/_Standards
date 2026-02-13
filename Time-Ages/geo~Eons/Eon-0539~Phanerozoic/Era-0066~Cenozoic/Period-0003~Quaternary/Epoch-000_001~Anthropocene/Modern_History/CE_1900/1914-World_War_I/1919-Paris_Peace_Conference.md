@@ -1,20 +1,96 @@
 ---
-location: [ 2.3522 , 48.8567 ] 
+location: '[[_Standards/WikiData/WD~Paris,90]]'
 aliases:
-  - Versailles Conference
-  - 1919-Paris_Peace_Conference
-  - 1919-Paris Peace Conference
+- 1919-Paris Peace Conference
+- 1919-Paris_Peace_Conference
+- 1919. gada Parīzes miera konference
+- Comhdháil Síochána Pháras
+- Conferencia de Paz de París
+- conferenza di pace di Parigi
+- Conferința de Pace de la Paris din 1919
+- Conferència de Pau de París
+- conferéncia de patz a París
+- Conferência de Paz de Paris
+- conférence de paix de Paris
+- Cynhadledd Heddwch Paris 1919
+- Deliberatio de pace componenda Lutetiae facta
+- Fredskonferansen i Paris
+- Fredskonferencen i Paris (1919-1920)
+- Fredskonferensen i Paris
+- Friðarráðstefnan í París 1919-1920
+- Hội nghị hòa bình Paris, 1919
+- Keskussulyans Kres Paris 1919
+- Konferans lapè Paris
+- Konferansa Aştiyê ya Parîsê
+- Konferenca e Paqes në Paris
+- Konferencja pokojowa w Paryżu
+- Konferenco de Parizo 1919
+- Konferensi Perdamaian Paris 1919
+- Mirovna konferencija u Parizu 1919
+- Pac-konfero en Paris (1919-1920)
+- Pariisi rahukonverents
+- Pariisin rauhankonferenssi
+- Paris Barış Konferansı
+- Paris Peace Conference
+- Paris Peace Conference, 1919
+- Paris Sülh Konfransı
+- Pariser Friedenskonferenz 1919
+- Pariser Friedenskonferenz 1919-1920
+- Pariska mirovna konferencija 1919.
+- Parisko Bake Biltzarra
+- pariška mirovna konferenca
+- Pariška mirovna konferencija 1919
+- Pariška mirovna konferencija 1919.
+- Paryžiaus taikos konferencija
+- Parížska mierová konferencia (1919 – 1920)
+- Pařížská mírová konference 1919
+- Persidangan Damai Paris, 1919
+- párizsi békekonferencia
+- Versailles Conference
+- Vredesconferentie van Parijs
+- Σύνοδος Ειρήνης του Παρισιού
+- Париж бітім конференциясы
+- Париж мамырлыкъ конференция
+- Париж тынчтык конференциясы
+- Париж тынычлык конференциясе
+- Парижка мирна конференция
+- Парижская мирная конференция
+- Паризька мирна конференція 1919—1920
+- Париска мировна конференција
+- Париска мировна конференција 1919.
+- Парисын энх тайвны бага хурал (1919-1920)
+- Парыжская мірная канферэнцыя
+- Парыская мірная канфэрэнцыя
+- Փարիզի Խաղաղութեան Վեհաժողով
+- Փարիզի խաղաղության վեհաժողով
+- ועידת השלום בפריז
+- د پاریس د سولې کنفرانس ۱۹۲۰- ۱۹۱۹
+- مؤتمر باريس للسلام 1919
+- پیرس امن کانفرنس 1919ء
+- کنفرانس صلح پاریس
+- کۆنگرەی ئاشتیی پاریس
+- पेरिस शांति सम्मेलन
+- প্যারিস শান্তি সম্মেলন, ১৯১৯
+- ਪੈਰਸ ਅਮਨ ਕਾਨਫਰੰਸ 1919
+- பாரிசு அமைதி மாநாடு, 1919-1920
+- പാരിസ് സമാധാന സമ്മേളനം (1919-1920)
+- การประชุมสันติภาพปารีส ค.ศ. 1919
+- პარიზის მშვიდობის კონფერენცია
+- パリ講和会議
+- 巴黎和会
+- 巴黎和会 (1919年)
+- 巴黎和會
+- 파리 강화 회의
 has_id_wikidata: Q199820
 archives_at: '[[_Standards/WikiData/WD~La_contemporaine,856640]]'
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
 instance_of: '[[_Standards/WikiData/WD~peace_conference,7157512]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Paris_Peace_Conference_navbox,20645539]]'
-location: '[[_Standards/WikiData/WD~Paris,90]]'
 country: '[[_Standards/WikiData/WD~France,142]]'
 creator: '[[_Standards/WikiData/WD~League_of_Nations,38130]]'
 BHCL_UUID:
-  - da85d4a2-85ee-4726-967d-d1335af82c29
-  - bd53d562-9a83-40f8-9bbf-79d8c2d1bea5
+- da85d4a2-85ee-4726-967d-d1335af82c29
+- bd53d562-9a83-40f8-9bbf-79d8c2d1bea5
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Big%20four.jpg
 Commons_category: Paris Peace Conference (1919–1920)
 official_name: Paris Peace Conference
@@ -22,8 +98,100 @@ end_time: 1920-01-21T00:00:00Z
 start_time: 1919-01-18T00:00:00Z
 point_in_time: 1919-01-01T00:00:00Z
 coordinate_location: Point(2.3522 48.8567)
+dv_has_:
+  name_:
+    ar: مؤتمر باريس للسلام 1919
+    arz: مؤتمر باريس للسلام 1919
+    awa: पेरिस शांति सम्मेलन
+    az: Paris Sülh Konfransı
+    be: Парыжская мірная канферэнцыя
+    be-tarask: Парыская мірная канфэрэнцыя
+    bg: Парижка мирна конференция
+    bn: প্যারিস শান্তি সম্মেলন, ১৯১৯
+    bs: Mirovna konferencija u Parizu 1919
+    ca: Conferència de Pau de París
+    ckb: کۆنگرەی ئاشتیی پاریس
+    cs: Pařížská mírová konference 1919
+    cy: Cynhadledd Heddwch Paris 1919
+    da: Fredskonferencen i Paris (1919-1920)
+    de: Pariser Friedenskonferenz 1919-1920
+    de-ch: Pariser Friedenskonferenz 1919
+    el: Σύνοδος Ειρήνης του Παρισιού
+    en: Paris Peace Conference
+    en-ca: Paris Peace Conference, 1919
+    en-gb: Paris Peace Conference, 1919
+    eo: Konferenco de Parizo 1919
+    es: Conferencia de Paz de París
+    et: Pariisi rahukonverents
+    eu: Parisko Bake Biltzarra
+    fa: کنفرانس صلح پاریس
+    fi: Pariisin rauhankonferenssi
+    fr: conférence de paix de Paris
+    ga: Comhdháil Síochána Pháras
+    gl: Conferencia de Paz de París
+    he: ועידת השלום בפריז
+    hi: पेरिस शांति सम्मेलन
+    hr: Pariška mirovna konferencija 1919.
+    ht: Konferans lapè Paris
+    hu: párizsi békekonferencia
+    hy: Փարիզի խաղաղության վեհաժողով
+    hyw: Փարիզի Խաղաղութեան Վեհաժողով
+    id: Konferensi Perdamaian Paris 1919
+    io: Pac-konfero en Paris (1919-1920)
+    is: Friðarráðstefnan í París 1919-1920
+    it: conferenza di pace di Parigi
+    ja: パリ講和会議
+    ka: პარიზის მშვიდობის კონფერენცია
+    kk: Париж бітім конференциясы
+    ko: 파리 강화 회의
+    krc: Париж мамырлыкъ конференция
+    ku: Konferansa Aştiyê ya Parîsê
+    kw: Keskussulyans Kres Paris 1919
+    ky: Париж тынчтык конференциясы
+    la: Deliberatio de pace componenda Lutetiae facta
+    lt: Paryžiaus taikos konferencija
+    lv: 1919. gada Parīzes miera konference
+    lzh: 巴黎和會
+    mk: Париска мировна конференција
+    ml: പാരിസ് സമാധാന സമ്മേളനം (1919-1920)
+    mn: Парисын энх тайвны бага хурал (1919-1920)
+    ms: Persidangan Damai Paris, 1919
+    nb: Fredskonferansen i Paris
+    nl: Vredesconferentie van Parijs
+    oc: conferéncia de patz a París
+    pa: ਪੈਰਸ ਅਮਨ ਕਾਨਫਰੰਸ 1919
+    pl: Konferencja pokojowa w Paryżu
+    pnb: پیرس امن کانفرنس 1919ء
+    ps: د پاریس د سولې کنفرانس ۱۹۲۰- ۱۹۱۹
+    pt: Conferência de Paz de Paris
+    pt-br: Conferência de Paz de Paris
+    ro: Conferința de Pace de la Paris din 1919
+    ru: Парижская мирная конференция
+    sh: Pariška mirovna konferencija 1919
+    sk: Parížska mierová konferencia (1919 – 1920)
+    sl: pariška mirovna konferenca
+    sq: Konferenca e Paqes në Paris
+    sr: Париска мировна конференција 1919.
+    sr-ec: Париска мировна конференција 1919.
+    sr-el: Pariska mirovna konferencija 1919.
+    sv: Fredskonferensen i Paris
+    ta: பாரிசு அமைதி மாநாடு, 1919-1920
+    th: การประชุมสันติภาพปารีส ค.ศ. 1919
+    tr: Paris Barış Konferansı
+    tt: Париж тынычлык конференциясе
+    uk: Паризька мирна конференція 1919—1920
+    ur: پیرس امن کانفرنس 1919ء
+    vi: Hội nghị hòa bình Paris, 1919
+    wuu: 巴黎和会 (1919年)
+    yue: 巴黎和會
+    zh: 巴黎和会
+    zh-cn: 巴黎和会
+    zh-hans: 巴黎和会
+    zh-hant: 巴黎和會
+    zh-hk: 巴黎和會
+    zh-sg: 巴黎和会
+    zh-tw: 巴黎和會
 ---
-
 # [[1919-Paris_Peace_Conference]] 
 
 #is_/same_as :: [[WD~Paris_Peace_Conference,199820]] 

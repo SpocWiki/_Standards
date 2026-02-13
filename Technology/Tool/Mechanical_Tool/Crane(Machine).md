@@ -1,21 +1,88 @@
 ---
 aliases:
-  - Kran
-  - Crane(Machine)
+- celtnis
+- craein
+- craen
+- crane
+- Crane(Machine)
+- Cần trục
+- daru
+- Derek
+- Dheelitirnaan Soo qaado
+- Dizalica
+- Garabi
+- gru
+- Gru (màchina)
+- grua
+- grue
+- Gruga (maquina)
+- gruo
+- grúa
+- guindaste
+- Guindastre
+- heisekran
+- hysertoestel
+- jeřáb
+- Koʻtarish krani
+- kraan
+- Kraana
+- Kran
+- Kranas
+- Krano
+- Kren (mesin)
+- Kreyn
+- lyftkran
+- macara
+- Mâcâră
+- nosturi
+- Tolleno
+- vinç
+- Vinçi (makinë)
+- żuraw
+- žeriav
+- žerjav
+- γερανός
+- грузоподъёмный кран
+- дигалка
+- дизалице
+- Кран
+- Кыраан
+- Көтергіш кран
+- підйомний кран
+- пад’ёмны кран
+- Ամբարձիչ
+- הייבמאשין
+- עגורן
+- بەرزکەر
+- جرثقیل
+- درونکښ
+- رافعة رهوية
+- کرٛین
+- کرین
+- क्रेन
+- பாரந்தூக்கி
+- క్రేన్
+- ကရိန်း
+- ၸၢၵ်ႈယုၵ်ႉႁႅင်း
+- ამწე
+- クレーン
+- 起重机
+- 起重機
+- 기중기
 has_id_wikidata: Q178692
 subclass_of:
-  - '[[_Standards/WikiData/WD~lifting_equipment,173878]]'
-  - '[[_Standards/WikiData/WD~material_handling_equipment,15984860]]'
+- '[[_Standards/WikiData/WD~lifting_equipment,173878]]'
+- '[[_Standards/WikiData/WD~material_handling_equipment,15984860]]'
 item_operated: '[[_Standards/WikiData/WD~lifting_hook,495451]]'
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 operator: '[[_Standards/WikiData/WD~crane_driver,2561741]]'
 source_of_energy:
-  - '[[_Standards/WikiData/WD~human_energy,20984829]]'
-  - http://www.wikidata.org/.well-known/genid/01901288507ada457334a34a6e315361
+- '[[_Standards/WikiData/WD~human_energy,20984829]]'
+- http://www.wikidata.org/.well-known/genid/01901288507ada457334a34a6e315361
 topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_crane,22842545]]'
 has_part_s_: '[[_Standards/WikiData/WD~cockpit,55669353]]'
 discoverer_or_inventor: http://www.wikidata.org/.well-known/genid/f67ab47cf5898787239711828fa145aa
@@ -25,8 +92,94 @@ exact_match: http://wordnet-rdf.princeton.edu/wn30/03126707-n
 Commons_gallery: Cranes (machines)
 Commons_category: Cranes (machines)
 OpenStreetMap_tag_or_key: Tag:man_made=crane
+dv_has_:
+  name_:
+    af: hysertoestel
+    an: Gruga (maquina)
+    ar: رافعة رهوية
+    az: Kran
+    be: пад’ёмны кран
+    be-tarask: пад’ёмны кран
+    bg: Кран
+    ca: grua
+    ckb: بەرزکەر
+    cs: jeřáb
+    cy: craen
+    da: kran
+    de: Kran
+    el: γερανός
+    en: crane
+    eo: gruo
+    es: grúa
+    et: Kraana
+    eu: Garabi
+    fa: جرثقیل
+    fi: nosturi
+    fr: grue
+    ga: craein
+    gl: Guindastre
+    he: עגורן
+    hi: क्रेन
+    hr: Dizalica
+    hu: daru
+    hy: Ամբարձիչ
+    id: Derek
+    io: Krano
+    it: gru
+    ja: クレーン
+    ka: ამწე
+    kk: Көтергіш кран
+    ko: 기중기
+    ks: کرٛین
+    ky: Кран
+    la: Tolleno
+    lt: Kranas
+    lv: celtnis
+    mk: дигалка
+    ms: Kren (mesin)
+    my: ကရိန်း
+    nb: heisekran
+    nl: kraan
+    nn: kran
+    oc: Grua
+    pl: żuraw
+    pms: Gru (màchina)
+    ps: درونکښ
+    pt: guindaste
+    pt-br: guindaste
+    ro: macara
+    ru: грузоподъёмный кран
+    rup: Mâcâră
+    sah: Кыраан
+    scn: gru
+    sh: dizalica
+    shn: ၸၢၵ်ႈယုၵ်ႉႁႅင်း
+    sk: žeriav
+    sl: žerjav
+    so: Dheelitirnaan Soo qaado
+    sq: Vinçi (makinë)
+    sr: дизалице
+    sr-ec: дизалице
+    sv: lyftkran
+    ta: பாரந்தூக்கி
+    te: క్రేన్
+    tl: Kreyn
+    tr: vinç
+    uk: підйомний кран
+    ur: کرین
+    uz: Koʻtarish krani
+    vi: Cần trục
+    wuu: 起重机
+    yi: הייבמאשין
+    yue: 起重機
+    zh: 起重机
+    zh-cn: 起重机
+    zh-hans: 起重机
+    zh-hant: 起重機
+    zh-hk: 起重機
+    zh-sg: 起重机
+    zh-tw: 起重機
 ---
-
 # [[Crane(Machine)]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Crane,178692|WD~Crane,178692]] 

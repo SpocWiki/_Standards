@@ -1,42 +1,173 @@
 ---
-location: [ 33.83 , 17.18 ] 
+location:
+- 17.18
+- 33.83
 aliases:
-  - Kushite Empire
-  - Kush
-  - Kingdom of Kush
-  - Kingdom_of_Kush
-  - 𓎡𓄿𓈙𓈉 
-  - kꜣš
-  - Kûsi
-  - Αἰθιοπία
-  - ⲉϭⲱϣ 
-  - Ecōš
-  - כּוּשׁ
+- Ecōš
+- Fanjakan'i Kosy
+- Ginhadian han Kush
+- Kaharian ng Kush
+- Karajaan Kush
+- Kerajaan Kush
+- Kingdom of Kush
+- Kingdom_of_Kush
+- Koesj
+- Kongedømmet Kusj
+- Kraljestvo Kuš
+- Kush
+- Kusheko Erresuma
+- Kushite Empire
+- Kusita Királyság
+- Kusj
+- Kusz
+- Kuŝ
+- Kuş Krallığı
+- Kuš
+- Kuša
+- Kušas
+- Kûsi
+- kꜣš
+- Regatul Kuș
+- Regne de Cuix
+- Reiaume de Kush
+- Reich von Kusch
+- Reino de Cuxe
+- Reino de Kush
+- Reinu de Kush
+- royaume de Koush
+- Ufalme wa Kush
+- Vương quốc Kush
+- Αἰθιοπία
+- Βασίλειο του Κους
+- Куш
+- Куш (патшалӑх)
+- Куш (паччахьалла)
+- Քուշ (թագավորություն)
+- כּוּשׁ
+- ממלכת כוש
+- مملكة كوش
+- مملکت کوش
+- پادشاهی کوش
+- کوش بادشاہت
+- कुश
+- कुशचे राज्य
+- குஷ் இராச்சியம்
+- ราชอาณาจักรคุช
+- ქუშის სამეფო
+- ქუშიშ ომაფე
+- የኩሽ መንግሥት
+- ⲉϭⲱϣ
+- クシュ
+- 古殊
+- 库施
+- 庫施
+- 庫施王國
+- 쿠시 왕국
+- "\U000133A1\U0001313F\U00013219\U00013209"
 has_id_wikidata: Q241790
 coordinate_location: Point(33.83 17.18)
-location:
-  - 17.18
-  - 33.83
 inception: -2179-01-01T00:00:00Z
 dissolved_abolished_or_demolished_date: 0350-01-01T00:00:00Z
-country: "[[_Standards/WikiData/WD~Kingdom_of_Kush,241790]]"
+country: '[[_Standards/WikiData/WD~Kingdom_of_Kush,241790]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~kingdom,417175]]"
-  - "[[_Standards/WikiData/WD~historical_country,3024240]]"
+- '[[_Standards/WikiData/WD~kingdom,417175]]'
+- '[[_Standards/WikiData/WD~historical_country,3024240]]'
 capital:
-  - "[[_Standards/WikiData/WD~Napata,743282]]"
-  - "[[_Standards/WikiData/WD~Meroë,5780]]"
-described_by_source: "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Cushan,5196167]]"
-different_from: "[[_Standards/WikiData/WD~Äthiopien,15946774]]"
-position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~King_of_Kush,38037531]]"
+- '[[_Standards/WikiData/WD~Napata,743282]]'
+- '[[_Standards/WikiData/WD~Meroë,5780]]'
+described_by_source: '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Cushan,5196167]]'
+different_from: '[[_Standards/WikiData/WD~Äthiopien,15946774]]'
+position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~King_of_Kush,38037531]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Nubia%20NASA-WW%20places%20german.jpg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Africa%20in%20400%20BC.jpg
 Commons_category: Kingdom of Kush
 name_in_kana: クシテ
 name: ⲉϭⲱϣ
+dv_has_:
+  name_:
+    af: Koesj
+    am: የኩሽ መንግሥት
+    ar: مملكة كوش
+    arz: مملكة كوش
+    ast: Reinu de Kush
+    be: Куш
+    be-tarask: Куш
+    bg: Куш
+    br: Kush
+    ca: Regne de Cuix
+    ce: Куш (паччахьалла)
+    cs: Kuš
+    cv: Куш (патшалӑх)
+    da: Kush
+    de: Reich von Kusch
+    el: Βασίλειο του Κους
+    en: Kingdom of Kush
+    en-ca: Kingdom of Kush
+    en-gb: Kingdom of Kush
+    en-us: Kush
+    eo: Kuŝ
+    es: Reino de Kush
+    eu: Kusheko Erresuma
+    fa: پادشاهی کوش
+    fi: Kuš
+    fr: royaume de Koush
+    he: ממלכת כוש
+    hi: कुश
+    hr: Kuš
+    hu: Kusita Királyság
+    hy: Քուշ (թագավորություն)
+    id: Kerajaan Kush
+    it: Kush
+    ja: クシュ
+    ka: ქუშის სამეფო
+    ko: 쿠시 왕국
+    lt: Kušas
+    lv: Kuša
+    mg: Fanjakan'i Kosy
+    min: Karajaan Kush
+    mk: Куш
+    mr: कुशचे राज्य
+    ms: Kerajaan Kush
+    nb: Kongedømmet Kusj
+    nl: Koesj
+    nn: Kusj
+    oc: Reiaume de Kush
+    pl: Kusz
+    pnb: کوش بادشاہت
+    pt: Reino de Cuxe
+    pt-br: Reino de Cuxe
+    ro: Regatul Kuș
+    ru: Куш
+    sco: Kush
+    sh: Kuš
+    sl: Kraljestvo Kuš
+    so: Kingdom of Kush
+    sr: Куш
+    sr-ec: Куш
+    sr-el: Kuš
+    sv: Kush
+    sw: Ufalme wa Kush
+    ta: குஷ் இராச்சியம்
+    th: ราชอาณาจักรคุช
+    tl: Kaharian ng Kush
+    tr: Kuş Krallığı
+    uk: Куш
+    ur: مملکت کوش
+    vec: Kush
+    vi: Vương quốc Kush
+    war: Ginhadian han Kush
+    wuu: 库施
+    xmf: ქუშიშ ომაფე
+    yue: 古殊
+    zh: 庫施王國
+    zh-cn: 库施
+    zh-hans: 库施
+    zh-hant: 庫施王國
+    zh-hk: 庫施
+    zh-sg: 库施
+    zh-tw: 庫施
 ---
-
 # [[-2179-Kingdom_of_Kush+0350]] 
 
 #is_/same_as :: [[WD~Late_Egypt,241790]] 

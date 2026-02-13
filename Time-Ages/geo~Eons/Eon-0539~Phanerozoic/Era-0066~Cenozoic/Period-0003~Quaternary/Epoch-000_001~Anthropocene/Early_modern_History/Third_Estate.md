@@ -1,27 +1,136 @@
 ---
 aliases:
-  - Third Estate
-  - Third_Estate
+- ceto sociale
+- darjat-darjat masyarakat eropah lama
+- estament
+- estamento
+- estamentu
+- estates of the realm
+- golongan kawula negara
+- luomas
+- ordre
+- rend
+- seisus
+- socia tavolo de Mezepoka Eŭropo
+- soslovïye
+- stalež
+- stan
+- stand
+- Standenmaatschappij
+- stanovi
+- stare
+- status regni
+- stav
+- stavy
+- Ständeordnung
+- ståndssamhälle
+- sääty
+- teir urzh ar gevredigezh
+- Third Estate
+- Third_Estate
+- Tiers-Etats
+- ystadau'r deyrnas
+- òrdre
+- τάξεις
+- саслоўе
+- сословие
+- сталежи
+- стан
+- суспільний стан
+- съсловие
+- ҡатлам
+- սոցիալական շերտավորում
+- קורפורציה
+- رسته اجتماعی
+- سوسلوۆىييە
+- طبقات المجتمع الأوروبي في العصر القديم
+- ฐานันดรแห่งราชอาณาจักร
+- 三身分
+- 國度層次
+- 王國議會
+- 중세 사회 계급
 dv_is_:
   same_as:
-    - "[[WD~Third_Estate,]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Third_Estate|Third_Estate]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Third_Estate.public|Third_Estate.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Third_Estate.internal|Third_Estate.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Third_Estate.protect|Third_Estate.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Third_Estate.private|Third_Estate.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Third_Estate.personal|Third_Estate.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Third_Estate.secret|Third_Estate.secret]]"
+  - '[[WD~Third_Estate,]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Third_Estate|Third_Estate]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Third_Estate.public|Third_Estate.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Third_Estate.internal|Third_Estate.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Third_Estate.protect|Third_Estate.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Third_Estate.private|Third_Estate.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Third_Estate.personal|Third_Estate.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Third_Estate.secret|Third_Estate.secret]]'
 dv_is_same_as:
-  - "[[WD~Third_Estate,]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Third_Estate|Third_Estate]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Third_Estate.public|Third_Estate.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Third_Estate.internal|Third_Estate.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Third_Estate.protect|Third_Estate.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Third_Estate.private|Third_Estate.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Third_Estate.personal|Third_Estate.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Third_Estate.secret|Third_Estate.secret]]"
+- '[[WD~Third_Estate,]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Third_Estate|Third_Estate]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Third_Estate.public|Third_Estate.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Third_Estate.internal|Third_Estate.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Third_Estate.protect|Third_Estate.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Third_Estate.private|Third_Estate.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Third_Estate.personal|Third_Estate.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Third_Estate.secret|Third_Estate.secret]]'
 has_id_wikidata: Q657326
+dv_has_:
+  name_:
+    ar: طبقات المجتمع الأوروبي في العصر القديم
+    ast: estamentu
+    ba: ҡатлам
+    be: саслоўе
+    be-tarask: стан
+    bg: съсловие
+    br: teir urzh ar gevredigezh
+    ca: estament
+    cs: stavy
+    cy: ystadau'r deyrnas
+    da: stand
+    de: Ständeordnung
+    de-ch: Ständeordnung
+    el: τάξεις
+    en: estates of the realm
+    en-ca: estates of the realm
+    en-gb: estates of the realm
+    eo: socia tavolo de Mezepoka Eŭropo
+    es: estamento
+    et: seisus
+    eu: estamentu
+    fa: رسته اجتماعی
+    fi: sääty
+    fr: ordre
+    gl: estamento
+    gsw: Ständeordnung
+    he: קורפורציה
+    hr: stalež
+    hu: rend
+    hy: սոցիալական շերտավորում
+    id: golongan kawula negara
+    it: ceto sociale
+    ja: 三身分
+    kk: сословие
+    kk-arab: سوسلوۆىييە
+    kk-cyrl: сословие
+    kk-latn: soslovïye
+    ko: 중세 사회 계급
+    la: status regni
+    lb: Stand
+    lt: luomas
+    ms: darjat-darjat masyarakat eropah lama
+    nb: stand
+    nl: Standenmaatschappij
+    oc: òrdre
+    pl: stan
+    pt: estamento
+    pt-br: estamento
+    ro: stare
+    ru: сословие
+    sk: stav
+    sl: stanovi
+    sr: сталежи
+    sv: ståndssamhälle
+    th: ฐานันดรแห่งราชอาณาจักร
+    tr: Tiers-Etats
+    uk: суспільний стан
+    yue: 國度層次
+    zh: 王國議會
+    zh-hant: 王國議會
 ---
 # [[Third_Estate]] 
 

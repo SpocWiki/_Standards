@@ -1,8 +1,32 @@
 ---
 has_id_wikidata: Q4343793
+dv_has_:
+  name_:
+    dag: Memory of the World Register – Europe and North America
+    el: Μητρώο Μνήμης του Κόσμου – Ευρώπη και Βόρεια Αμερική
+    en: Memory of the World Register – Europe and North America
+    en-us: Memory of the World Register – Europe and North America
+    es: Anexo:Registro de la Memoria del Mundo – Europa y América del Norte
+    fi: Maailman muisti -rekisteri – Eurooppa ja Pohjois-Amerikka
+    lt: Sąrašas:Pasaulio atminties registras (Europa ir Šiaurės Amerika)
+    mul: Memory of the World Register – Europe and North America
+    ru: Память мира — Европа и Северная Америка
+    sl: Register Spomin sveta – Evropa in Severna Amerika
+    uk: Список об'єктів реєстру «Пам'ять світу» в Європі й Північній Америці
+    vi: Danh sách di sản tư liệu thế giới tại châu Âu và Bắc Mỹ
+    zh: 欧洲和北美洲世界记忆名录
+aliases:
+- Anexo:Registro de la Memoria del Mundo – Europa y América del Norte
+- Danh sách di sản tư liệu thế giới tại châu Âu và Bắc Mỹ
+- Maailman muisti -rekisteri – Eurooppa ja Pohjois-Amerikka
+- Memory of the World Register – Europe and North America
+- Register Spomin sveta – Evropa in Severna Amerika
+- Sąrašas:Pasaulio atminties registras (Europa ir Šiaurės Amerika)
+- Μητρώο Μνήμης του Κόσμου – Ευρώπη και Βόρεια Αμερική
+- Память мира — Европа и Северная Америка
+- Список об'єктів реєстру «Пам'ять світу» в Європі й Північній Америці
+- 欧洲和北美洲世界记忆名录
 ---
-
-
 > The International Register of the UNESCO Memory of the World-Programme 
 > includes inscriptions from Europe and North America. 
 > As of December 2018, the region has 274 (or 52%) inscriptions 

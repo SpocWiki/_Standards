@@ -1,82 +1,113 @@
 ---
 aliases:
-  - Llandovery
-  - Лиандовери
-  - llandoveryi
-  - llandovery
-  - ランドベリアン世
-  - Landoveris
-  - Landower
-  - llandover
-  - llandoverij
-  - 兰多维列世
+- Grŵp Llanymddyfri
+- landoveri
+- Landoveris
+- Landower
+- llandover
+- Llandoveri (geologi)
+- llandoverij
+- Llandoverium
+- Llandoverià
+- Llandovery
+- llandoveryi
+- Sealad Llandovery
+- Thế Llandovery
+- Лиандовери
+- Лландоверійський ярус
+- лландоверийская эпоха
+- دور لاندووری
+- للاندوفري
+- ランドベリアン世
+- ランドベリー世
+- 兰多维列世
+- 蘭多維列世
+- 슬란도버리세
 has_id_wikidata: Q1187992
 instance_of:
-  - "[[_Standards/WikiData/WD~series,312468]]"
-  - "[[_Standards/WikiData/WD~epoch,754897]]"
-named_after: "[[_Standards/WikiData/WD~Llandovery,651733]]"
-named_by: "[[_Standards/WikiData/WD~Charles_Hepworth_Holland,1064829]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Llandovery_epoch,30869550]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+- '[[_Standards/WikiData/WD~series,312468]]'
+- '[[_Standards/WikiData/WD~epoch,754897]]'
+named_after: '[[_Standards/WikiData/WD~Llandovery,651733]]'
+named_by: '[[_Standards/WikiData/WD~Charles_Hepworth_Holland,1064829]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Llandovery_epoch,30869550]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 end_time: -433400000-01-01T00:00:00Z
 start_time: -443800000-01-01T00:00:00Z
 sRGB_color_hex_triplet: 7ED7C6
 dv_has_:
   duration_:
-    years: "1.040e+7"
-  previous_:
-    item: "[[../Period-0485~Ordovician/Epoch-458~Late_Ordovician|Epoch~3~Late_Ordovician]]"
-  next_:
-    item: "[[Epoch-433~Wenlock]]"
+    years: 1.040e+7
   name_:
+    abbreviated: S1
+    ar: للاندوفري
+    ast: Llandovery
     bg: Лиандовери
-    cs: Llandovery
+    ca: Llandoverià
+    cs: llandovery
+    cy: Grŵp Llanymddyfri
     da: Llandovery
     de: Llandovery
+    en: Llandovery
     es: Llandovery
     et: Llandovery
+    eu: Llandovery
+    fa: دور لاندووری
     fi: Llandovery
     fr: Llandovery
-    hu: llandoveryi
-    it: llandovery
-    ja: ランドベリアン世
+    ga: Sealad Llandovery
+    hr: landoveri
+    hu: Llandoveryi
+    id: Llandoverium
+    it: Llandovery
+    ja: ランドベリー世
+    ko: 슬란도버리세
     lt: Landoveris
+    ms: Llandoveri (geologi)
     nl: Llandovery
+    nn: llandovery
     no: Llandovery
     pl: Landower
     pt: Llandovery
+    ru: лландоверийская эпоха
     sk: llandover
     sl: llandoverij
-    sv: llandovery
+    sv: Llandovery
+    uk: Лландоверійський ярус
+    vi: Thế Llandovery
     zh: 兰多维列世
-    abbreviated: S1
-  time_:
-    started: "-443.8e6"
-    stopped: "-433.4e6"
+    zh-cn: 兰多维列世
+    zh-hant: 蘭多維列世
+  next_:
+    item: '[[Epoch-433~Wenlock]]'
+  previous_:
+    item: '[[../Period-0485~Ordovician/Epoch-458~Late_Ordovician|Epoch~3~Late_Ordovician]]'
   text_of_:
-    color: "0x99D7B3"
+    color: 0x99D7B3
+  time_:
+    started: -443.8e6
+    stopped: -433.4e6
 dv_is_:
   same_as:
-    - "[[WD~Llandovery,1187992]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery|Epoch-443~Llandovery]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery.public|Epoch-443~Llandovery.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery.internal|Epoch-443~Llandovery.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery.protect|Epoch-443~Llandovery.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery.private|Epoch-443~Llandovery.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery.personal|Epoch-443~Llandovery.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery.secret|Epoch-443~Llandovery.secret]]"
-dv_has_duration_years: "1.040e+7"
-dv_has_previous_item: "[[../Period-0485~Ordovician/Epoch-458~Late_Ordovician|Epoch~3~Late_Ordovician]]"
-dv_has_next_item: "[[Epoch-433~Wenlock]]"
+  - '[[WD~Llandovery,1187992]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery|Epoch-443~Llandovery]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery.public|Epoch-443~Llandovery.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery.internal|Epoch-443~Llandovery.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery.protect|Epoch-443~Llandovery.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery.private|Epoch-443~Llandovery.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery.personal|Epoch-443~Llandovery.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery.secret|Epoch-443~Llandovery.secret]]'
+dv_has_duration_years: 1.040e+7
+dv_has_previous_item: '[[../Period-0485~Ordovician/Epoch-458~Late_Ordovician|Epoch~3~Late_Ordovician]]'
+dv_has_next_item: '[[Epoch-433~Wenlock]]'
 dv_is_same_as:
-  - "[[WD~Llandovery,1187992]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery|Epoch-443~Llandovery]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery.public|Epoch-443~Llandovery.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery.internal|Epoch-443~Llandovery.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery.protect|Epoch-443~Llandovery.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery.private|Epoch-443~Llandovery.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery.personal|Epoch-443~Llandovery.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery.secret|Epoch-443~Llandovery.secret]]"
+- '[[WD~Llandovery,1187992]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery|Epoch-443~Llandovery]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery.public|Epoch-443~Llandovery.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery.internal|Epoch-443~Llandovery.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery.protect|Epoch-443~Llandovery.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery.private|Epoch-443~Llandovery.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery.personal|Epoch-443~Llandovery.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery.secret|Epoch-443~Llandovery.secret]]'
 dv_has_name_bg: Лиандовери
 dv_has_name_cs: Llandovery
 dv_has_name_da: Llandovery
@@ -98,11 +129,10 @@ dv_has_name_sl: llandoverij
 dv_has_name_sv: llandovery
 dv_has_name_zh: 兰多维列世
 dv_has_name_abbreviated: S1
-dv_has_time_started: "-443.8e6"
-dv_has_time_stopped: "-433.4e6"
-dv_has_text_of_color: "0x99D7B3"
+dv_has_time_started: -443.8e6
+dv_has_time_stopped: -433.4e6
+dv_has_text_of_color: 0x99D7B3
 ---
-
 # [[Epoch-443~Llandovery]] 
 
 #is_a_/time_/Epoch 

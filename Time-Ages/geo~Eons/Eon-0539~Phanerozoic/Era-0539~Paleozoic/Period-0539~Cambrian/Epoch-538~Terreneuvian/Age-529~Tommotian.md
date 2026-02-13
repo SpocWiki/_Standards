@@ -1,91 +1,122 @@
 ---
 aliases:
-  - Cambrian Stage 2
-  - Age~2~Tommotian
-  - Камбрий - 2 етаж
-  - Kambrium-Stupeň 2
-  - Kambrium-Etage 2
-  - Kambrium-Stufe 2
-  - Cámbrico-Piso 2
-  - Kambrium, Lade 2
-  - Kambri-vaihe 2
-  - Cambrien-Etage 2
-  - kambrium 2. emelet
-  - cambriano - stage 2
-  - 第2期
-  - Kambras-Aukštas 2
-  - Cambrium, Zone 2
-  - Kambrium-etasje 2
-  - Kambr-Piętro 2
-  - Câmbrico-Piso 2
-  - kambrium, stupeň 2
-  - kambrij-stopnja 2
-  - kambrium etage 1
-  - 第二期
+- 2. wiek kambru
+- Age~2~Tommotian
+- Cambrian Stage 2
+- cambriano - stage 2
+- Cambrien-Etage 2
+- Cambrium 2e etage
+- Cambrium, Zone 2
+- Cámbrico-Piso 2
+- Câmbrico-Piso 2
+- dua kambria etaĝo
+- etasje 2
+- Kambr-Piętro 2
+- Kambras-Aukštas 2
+- Kambri-vaihe 2
+- kambrij-stopnja 2
+- kambrijska stopnja 2
+- kambrium 2. emelet
+- kambrium etage 1
+- Kambrium Stufe 2
+- Kambrium Tahap 2
+- Kambrium, Lade 2
+- kambrium, stupeň 2
+- Kambrium-Etage 2
+- Kambrium-etasje 2
+- Kambrium-Stufe 2
+- Kambrium-Stupeň 2
+- Pianu 2 dû Cambrianu
+- Piso 2
+- Segon estatge del Cambrià
+- Tầng 2
+- Étage 2
+- Камбрий - 2 етаж
+- Камбрий етаж 2
+- ярус 2
+- اشکوب ۲ کامبرین
+- المرحلة 2 من الكامبري
+- หินช่วงอายุแคมเบรียน 2
+- トモティアン
+- 寒武纪第二期
+- 第2期
+- 第二期
 has_id_wikidata: Q5025306
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 start_time: -529000000-01-01T00:00:00Z
 end_time: -521000000-01-01T00:00:00Z
 sRGB_color_hex_triplet: A6BA80
 dv_has_:
   duration_:
-    years: "1.200e+7"
-  previous_:
-    item: "[[Age~1~Fortunian]]"
-  next_:
-    item: "[[../Epoch-521~Cambrian_Series-2/Age-521~Cambrian_Stage_3|Age-521~Cambrian_Stage_3]]"
+    years: 1.200e+7
   name_:
-    bg: Камбрий - 2 етаж
+    abbreviated: ep3
+    ar: المرحلة 2 من الكامبري
+    bg: Камбрий етаж 2
+    ca: Segon estatge del Cambrià
     cs: Kambrium-Stupeň 2
     da: Kambrium-Etage 2
-    de: Kambrium-Stufe 2
-    es: Cámbrico-Piso 2
+    de: Kambrium Stufe 2
+    en: Cambrian Stage 2
+    en-gb: Cambrian Stage 2
+    eo: dua kambria etaĝo
+    es: Piso 2
     et: Kambrium, Lade 2
+    fa: اشکوب ۲ کامبرین
     fi: Kambri-vaihe 2
-    fr: Cambrien-Etage 2
+    fr: Étage 2
     hu: kambrium 2. emelet
+    id: Kambrium Tahap 2
     it: cambriano - stage 2
-    ja: 第2期
+    ja: トモティアン
     lt: Kambras-Aukštas 2
-    nl: Cambrium, Zone 2
+    nl: Cambrium 2e etage
+    nn: etasje 2
     no: Kambrium-etasje 2
-    pl: Kambr-Piętro 2
+    pl: 2. wiek kambru
     pt: Câmbrico-Piso 2
+    ru: ярус 2
+    scn: Pianu 2 dû Cambrianu
     sk: kambrium, stupeň 2
-    sl: kambrij-stopnja 2
+    sl: kambrijska stopnja 2
     sv: kambrium etage 1
-    zh: 第二期
-    abbreviated: ep3
+    th: หินช่วงอายุแคมเบรียน 2
+    vi: Tầng 2
+    zh: 寒武纪第二期
+  next_:
+    item: '[[../Epoch-521~Cambrian_Series-2/Age-521~Cambrian_Stage_3|Age-521~Cambrian_Stage_3]]'
+  previous_:
+    item: '[[Age~1~Fortunian]]'
+  text_of_:
+    color: 0xA6BA80
   time_:
     started: -521000000
     stopped: -509000000
-  text_of_:
-    color: "0xA6BA80"
 dv_is_:
   same_as:
-    - "[[WD~Tommotian,5025306]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age-529~Tommotian|Age-529~Tommotian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age-529~Tommotian.public|Age-529~Tommotian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age-529~Tommotian.internal|Age-529~Tommotian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age-529~Tommotian.protect|Age-529~Tommotian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age-529~Tommotian.private|Age-529~Tommotian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age-529~Tommotian.personal|Age-529~Tommotian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age-529~Tommotian.secret|Age-529~Tommotian.secret]]"
-dv_has_duration_years: "1.200e+7"
-dv_has_previous_item: "[[Age~1~Fortunian]]"
-dv_has_next_item: "[[../Epoch-521~Cambrian_Series-2/Age-521~Cambrian_Stage_3|Age-521~Cambrian_Stage_3]]"
+  - '[[WD~Tommotian,5025306]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age-529~Tommotian|Age-529~Tommotian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age-529~Tommotian.public|Age-529~Tommotian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age-529~Tommotian.internal|Age-529~Tommotian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age-529~Tommotian.protect|Age-529~Tommotian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age-529~Tommotian.private|Age-529~Tommotian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age-529~Tommotian.personal|Age-529~Tommotian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age-529~Tommotian.secret|Age-529~Tommotian.secret]]'
+dv_has_duration_years: 1.200e+7
+dv_has_previous_item: '[[Age~1~Fortunian]]'
+dv_has_next_item: '[[../Epoch-521~Cambrian_Series-2/Age-521~Cambrian_Stage_3|Age-521~Cambrian_Stage_3]]'
 dv_is_same_as:
-  - "[[WD~Tommotian,5025306]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age-529~Tommotian|Age-529~Tommotian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age-529~Tommotian.public|Age-529~Tommotian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age-529~Tommotian.internal|Age-529~Tommotian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age-529~Tommotian.protect|Age-529~Tommotian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age-529~Tommotian.private|Age-529~Tommotian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age-529~Tommotian.personal|Age-529~Tommotian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age-529~Tommotian.secret|Age-529~Tommotian.secret]]"
+- '[[WD~Tommotian,5025306]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age-529~Tommotian|Age-529~Tommotian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age-529~Tommotian.public|Age-529~Tommotian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age-529~Tommotian.internal|Age-529~Tommotian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age-529~Tommotian.protect|Age-529~Tommotian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age-529~Tommotian.private|Age-529~Tommotian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age-529~Tommotian.personal|Age-529~Tommotian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age-529~Tommotian.secret|Age-529~Tommotian.secret]]'
 dv_has_name_bg: Камбрий - 2 етаж
 dv_has_name_cs: Kambrium-Stupeň 2
 dv_has_name_da: Kambrium-Etage 2
@@ -109,9 +140,8 @@ dv_has_name_zh: 第二期
 dv_has_name_abbreviated: ep3
 dv_has_time_started: -521000000
 dv_has_time_stopped: -509000000
-dv_has_text_of_color: "0xA6BA80"
+dv_has_text_of_color: 0xA6BA80
 ---
-
 # [[Age-529~Tommotian]] 
 
 #is_a_/time_/Age 

@@ -1,7 +1,76 @@
 ---
 has_id_wikidata: Q235086
+dv_has_:
+  name_:
+    an: Smalltalk
+    ar: سمول توك
+    az: Smalltalk
+    bg: Smalltalk
+    bn: স্মলটক
+    ca: Smalltalk
+    cs: Smalltalk
+    da: Smalltalk
+    de: Smalltalk
+    el: Smalltalk
+    en: Smalltalk
+    eo: Smalltalk
+    es: Smalltalk
+    et: Smalltalk
+    fa: اسمالتاک
+    fi: Smalltalk
+    fr: Smalltalk
+    ga: Smalltalk
+    he: Smalltalk
+    hu: Smalltalk
+    hy: Smalltalk
+    ia: Smalltalk
+    id: Smalltalk
+    io: Smalltalk
+    it: Smalltalk
+    ja: Smalltalk
+    ko: 스몰토크
+    lb: Smalltalk
+    lv: Smalltalk
+    ml: സ്മോൾടോക്ക്
+    mul: Smalltalk
+    nb: Smalltalk
+    nl: Smalltalk
+    nn: Smalltalk
+    pl: Smalltalk
+    pt: Smalltalk
+    pt-br: Smalltalk
+    ro: Smalltalk
+    sco: Smalltalk
+    sh: Smalltalk
+    sk: Smalltalk
+    sl: Smalltalk
+    sr: Smalltalk
+    sv: Smalltalk
+    syl: ꠁꠍꠝꠟꠐꠇ
+    tg: Smalltalk
+    tg-latn: Smalltalk
+    th: ภาษาสมอลล์ทอล์ก
+    tr: Smalltalk
+    vec: Smalltalk
+    vi: Smalltalk
+    yue: Smalltalk
+    zh: Smalltalk
+    zh-cn: Smalltalk
+    zh-hans: Smalltalk
+    zh-hant: Smalltalk
+    zh-hk: Smalltalk
+    zh-sg: Smalltalk
+    zh-tw: Smalltalk
+aliases:
+- Smalltalk
+- اسمالتاک
+- سمول توك
+- স্মলটক
+- സ്മോൾടോക്ക്
+- ภาษาสมอลล์ทอล์ก
+- ꠁꠍꠝꠟꠐꠇ
+- 스몰토크
 ---
-
 # [[Prog~Smalltalk]] 
 
 #is_a_/ComputerLanguage 

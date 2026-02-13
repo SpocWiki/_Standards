@@ -1,29 +1,50 @@
 ---
 aliases:
-  - Stenian
-  - Стен
-  - Sten
-  - Stenien
-  - Stenium
-  - Esteniense
-  - Sténien
-  - steni
-  - steniano
-  - ステニアン紀
-  - Stenis
-  - Steniën
-  - Steniano
-  - stenium
-  - stenij
-  - 狭带纪
+- an Tréimhse Stéineach
+- Esteniense
+- Estenià
+- Esténico
+- Kỷ Stenos
+- Sten
+- Sten dövrü
+- steni
+- Stenian
+- steniano
+- Steniar
+- Stenieg
+- Stenien
+- stenij
+- Stenio
+- Stenis
+- Stenium
+- Steniy dáwiri
+- Steniyen
+- Steniën
+- Stenos
+- Stinianu
+- Sténien
+- Стен
+- стеній
+- Стенијски период
+- стенийский период
+- стэн
+- стэній
+- סטן
+- استنین
+- الستني
+- स्टेनियाई कल्प
+- স্টেনিয়ান
+- ยุคสเทเนียน
+- ステニアン
+- ステニアン紀
+- 狭带纪
+- 狹帶紀
+- 스테니아기
 has_id_wikidata: Q776333
 dv_has_:
+  abbreviation: MP3
   duration_:
-    years: "2.000e+8"
-  previous_:
-    item: "[[Period-1400~Ectasian]]"
-  next_:
-    item: "[[../Era-1000~Neoproterozoic/Period-1000~Tonian|Period-1000~Tonian]]"
+    years: 2.000e+8
   label_:
     bg: Стен
     cs: Sten
@@ -45,34 +66,81 @@ dv_has_:
     sl: stenij
     sv: stenium
     zh: 狭带纪
-  abbreviation: MP3
+  name_:
+    ar: الستني
+    az: Sten dövrü
+    be: стэній
+    be-tarask: стэн
+    bn: স্টেনিয়ান
+    br: Stenieg
+    ca: Estenià
+    de: Stenium
+    en: Stenian
+    en-gb: Stenian
+    eo: Stenio
+    es: Esténico
+    eu: Steniar
+    fa: استنین
+    fr: Sténien
+    ga: an Tréimhse Stéineach
+    he: סטן
+    hi: स्टेनियाई कल्प
+    hr: stenij
+    hu: stenium
+    id: Stenium
+    it: Steniano
+    ja: ステニアン
+    kaa: Steniy dáwiri
+    ko: 스테니아기
+    lt: stenis
+    mk: Стенијски период
+    ms: Stenos
+    nl: Stenium
+    nn: sten
+    pl: sten
+    pt: Steniano
+    ru: стенийский период
+    scn: Stinianu
+    sh: Stenij
+    sl: stenij
+    sv: Stenium
+    th: ยุคสเทเนียน
+    tr: Steniyen
+    uk: стеній
+    vi: Kỷ Stenos
+    yue: 狹帶紀
+    zh: 狭带纪
+  next_:
+    item: '[[../Era-1000~Neoproterozoic/Period-1000~Tonian|Period-1000~Tonian]]'
+  previous_:
+    item: '[[Period-1400~Ectasian]]'
+  text_of_:
+    color: 0xFED99A
   time_:
     started: -1200000000
     stopped: -1000000000
-  text_of_:
-    color: "0xFED99A"
 dv_is_:
   same_as:
-    - "[[WD~Stenian,776333]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1200~Stenian|Period-1200~Stenian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1200~Stenian.public|Period-1200~Stenian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1200~Stenian.internal|Period-1200~Stenian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1200~Stenian.protect|Period-1200~Stenian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1200~Stenian.private|Period-1200~Stenian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1200~Stenian.personal|Period-1200~Stenian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1200~Stenian.secret|Period-1200~Stenian.secret]]"
-dv_has_duration_years: "2.000e+8"
-dv_has_previous_item: "[[Period-1400~Ectasian]]"
-dv_has_next_item: "[[../Era-1000~Neoproterozoic/Period-1000~Tonian|Period-1000~Tonian]]"
+  - '[[WD~Stenian,776333]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1200~Stenian|Period-1200~Stenian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1200~Stenian.public|Period-1200~Stenian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1200~Stenian.internal|Period-1200~Stenian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1200~Stenian.protect|Period-1200~Stenian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1200~Stenian.private|Period-1200~Stenian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1200~Stenian.personal|Period-1200~Stenian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1200~Stenian.secret|Period-1200~Stenian.secret]]'
+dv_has_duration_years: 2.000e+8
+dv_has_previous_item: '[[Period-1400~Ectasian]]'
+dv_has_next_item: '[[../Era-1000~Neoproterozoic/Period-1000~Tonian|Period-1000~Tonian]]'
 dv_is_same_as:
-  - "[[WD~Stenian,776333]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1200~Stenian|Period-1200~Stenian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1200~Stenian.public|Period-1200~Stenian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1200~Stenian.internal|Period-1200~Stenian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1200~Stenian.protect|Period-1200~Stenian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1200~Stenian.private|Period-1200~Stenian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1200~Stenian.personal|Period-1200~Stenian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1200~Stenian.secret|Period-1200~Stenian.secret]]"
+- '[[WD~Stenian,776333]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1200~Stenian|Period-1200~Stenian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1200~Stenian.public|Period-1200~Stenian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1200~Stenian.internal|Period-1200~Stenian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1200~Stenian.protect|Period-1200~Stenian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1200~Stenian.private|Period-1200~Stenian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1200~Stenian.personal|Period-1200~Stenian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1200~Stenian.secret|Period-1200~Stenian.secret]]'
 dv_has_label_bg: Стен
 dv_has_label_cs: Sten
 dv_has_label_da: Stenien
@@ -96,19 +164,18 @@ dv_has_label_zh: 狭带纪
 dv_has_abbreviation: MP3
 dv_has_time_started: -1200000000
 dv_has_time_stopped: -1000000000
-dv_has_text_of_color: "0xFED99A"
+dv_has_text_of_color: 0xFED99A
 instance_of:
-  - "[[_Standards/WikiData/WD~period,392928]]"
-  - "[[_Standards/WikiData/WD~system,403523]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Stenian,106856425]]"
+- '[[_Standards/WikiData/WD~period,392928]]'
+- '[[_Standards/WikiData/WD~system,403523]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Stenian,106856425]]'
 end_time: -1000000000-01-01T00:00:00Z
 start_time: -1200000000-01-01T00:00:00Z
 Commons_category: Stenian
 IPA_transcription: /ˈstiːni.ən/
 sRGB_color_hex_triplet: FED99A
 ---
-
 # [[Period-1200~Stenian]] 
 
 #is_a_/time_/Period 

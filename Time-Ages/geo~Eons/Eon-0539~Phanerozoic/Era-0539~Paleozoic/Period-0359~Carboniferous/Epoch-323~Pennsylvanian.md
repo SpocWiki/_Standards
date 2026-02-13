@@ -1,93 +1,140 @@
 ---
 aliases:
-  - Pennsylvanian
-  - Пенѿилван
-  - Pennsylván
-  - Pennsylvanien
-  - Pennsylvanium
-  - Pennsylvaniense
-  - Pennsylvania
-  - pennsylvaniai
-  - pennsylvaniano
-  - ペンシルバニア紀
-  - Pensilvanis
-  - Pennsylvaniën
-  - Pensylwan
-  - Pensilvaniano
-  - penssylván
-  - pennsylvanij
-  - pennsylvan
-  - 宾夕法尼亚亚纪
+- an Fhothréimhse Pheinnsiolváiniach
+- késő karbon
+- Oberkarbon
+- Pennsilvania (geologi)
+- Pennsilvanià
+- Pennsylvaidd
+- pennsylvan
+- Pennsylvania
+- Pennsylvania-kausi
+- pennsylvaniai
+- Pennsylvanian
+- pennsylvaniano
+- Pennsylvanien
+- Pennsylvaniense
+- pennsylvanij
+- Pennsylvanium
+- Pennsylvaniyano
+- Pennsylvaniën
+- Pennsylván
+- Pensilvaniano
+- Pensilvanij
+- pensilvanio
+- Pensilvanis
+- Pensilvánico
+- penssylván
+- Pensylwan
+- svrchní karbon
+- Thế Pennsylvania
+- Πενσυλβάνια εποχή
+- пенсильваній
+- пенсильванская подсистема
+- Пенѿилван
+- קרבון פנסילבני
+- البنسلفاني
+- پنسیلوانین
+- პენსილვანიური ეპოქა
+- ペンシルバニア紀
+- ペンシルヴァニアン
+- 宾夕法尼亚亚纪
+- 賓夕法尼亞世
+- 펜실베이니아기
 has_id_wikidata: Q373772
 instance_of:
-  - "[[_Standards/WikiData/WD~subperiod,2239359]]"
-  - "[[_Standards/WikiData/WD~subsystem,115645631]]"
-named_by: "[[_Standards/WikiData/WD~Henry_Shaler_Williams,15434172]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Pennsylvanian_(geology),20978921]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+- '[[_Standards/WikiData/WD~subperiod,2239359]]'
+- '[[_Standards/WikiData/WD~subsystem,115645631]]'
+named_by: '[[_Standards/WikiData/WD~Henry_Shaler_Williams,15434172]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Pennsylvanian_(geology),20978921]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 end_time: -298900000-01-01T00:00:00Z
-named_after: "[[_Standards/WikiData/WD~Pennsylvania,1400]]"
+named_after: '[[_Standards/WikiData/WD~Pennsylvania,1400]]'
 Commons_category: Pennsylvanian Subperiod
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide%20Paleographic%20Map%20of%20Earth%2C%20310%20Ma%20%28Moscovian%20Age%29.png
 sRGB_color_hex_triplet: 7EBCC6
 start_time: -323200000-01-01T00:00:00Z
-Dewey_Decimal_Classification: "551.752"
+Dewey_Decimal_Classification: 551.752
 dv_has_:
   duration_:
-    years: "2.430e+7"
-  previous_:
-    item: "[[Epoch-323~Pennsylvanian/Age~2~Moscovian]]"
-  next_:
-    item: "[[../../Period-0299~Permian/Epoch-298~Cisuralian|Epoch-298~Cisuralian]]"
+    years: 2.430e+7
   name_:
+    abbreviated: C2
+    af: Pennsylvanium
+    ar: البنسلفاني
     bg: Пенѿилван
-    cs: Pennsylván
+    bs: Pensilvanij
+    ca: Pennsilvanià
+    cs: svrchní karbon
+    cy: Pennsylvaidd
     da: Pennsylvanien
-    de: Pennsylvanium
-    es: Pennsylvaniense
+    de: Oberkarbon
+    el: Πενσυλβάνια εποχή
+    en: Pennsylvanian
+    en-gb: Pennsylvanian
+    eo: pensilvanio
+    es: Pensilvánico
     et: Pennsylvania
-    fi: Pennsylvania
+    fa: پنسیلوانین
+    fi: Pennsylvania-kausi
     fr: Pennsylvanien
-    hu: pennsylvaniai
-    it: pennsylvaniano
-    ja: ペンシルバニア紀
-    lt: Pensilvanis
-    nl: Pennsylvaniën
+    ga: an Fhothréimhse Pheinnsiolváiniach
+    gl: Pensilvaniano
+    he: קרבון פנסילבני
+    hu: késő karbon
+    id: Pennsylvanian
+    it: Pennsylvaniano
+    ja: ペンシルヴァニアン
+    ka: პენსილვანიური ეპოქა
+    ko: 펜실베이니아기
+    lb: Pennsylvanium
+    lt: pensilvanis
+    ms: Pennsilvania (geologi)
+    nl: Pennsylvanien
+    nn: pennsylvania
     no: Pennsylvanium
     pl: Pensylwan
-    pt: Pensilvaniano
+    pt: Pennsylvaniano
+    ru: пенсильванская подсистема
+    sh: Pennsylvanij
     sk: penssylván
-    sl: pennsylvanij
-    sv: pennsylvan
-    zh: 宾夕法尼亚亚纪
-    abbreviated: C2
-  time_:
-    started: "-323.2e6"
-    stopped: "-298.9e6"
+    sl: pensilvanij
+    sv: Pennsylvania
+    tl: Pennsylvaniyano
+    uk: пенсильваній
+    vi: Thế Pennsylvania
+    zh: 賓夕法尼亞世
+  next_:
+    item: '[[../../Period-0299~Permian/Epoch-298~Cisuralian|Epoch-298~Cisuralian]]'
+  previous_:
+    item: '[[Epoch-323~Pennsylvanian/Age~2~Moscovian]]'
   text_of_:
-    color: "0x7EBCC6"
+    color: 0x7EBCC6
+  time_:
+    started: -323.2e6
+    stopped: -298.9e6
 dv_is_:
   same_as:
-    - "[[WD~Pennsylvanian,373772]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian|Epoch-323~Pennsylvanian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian.public|Epoch-323~Pennsylvanian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian.internal|Epoch-323~Pennsylvanian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian.protect|Epoch-323~Pennsylvanian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian.private|Epoch-323~Pennsylvanian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian.personal|Epoch-323~Pennsylvanian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian.secret|Epoch-323~Pennsylvanian.secret]]"
-dv_has_duration_years: "2.430e+7"
-dv_has_previous_item: "[[Epoch-323~Pennsylvanian/Age~2~Moscovian]]"
-dv_has_next_item: "[[../../Period-0299~Permian/Epoch-298~Cisuralian|Epoch-298~Cisuralian]]"
+  - '[[WD~Pennsylvanian,373772]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian|Epoch-323~Pennsylvanian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian.public|Epoch-323~Pennsylvanian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian.internal|Epoch-323~Pennsylvanian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian.protect|Epoch-323~Pennsylvanian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian.private|Epoch-323~Pennsylvanian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian.personal|Epoch-323~Pennsylvanian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian.secret|Epoch-323~Pennsylvanian.secret]]'
+dv_has_duration_years: 2.430e+7
+dv_has_previous_item: '[[Epoch-323~Pennsylvanian/Age~2~Moscovian]]'
+dv_has_next_item: '[[../../Period-0299~Permian/Epoch-298~Cisuralian|Epoch-298~Cisuralian]]'
 dv_is_same_as:
-  - "[[WD~Pennsylvanian,373772]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian|Epoch-323~Pennsylvanian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian.public|Epoch-323~Pennsylvanian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian.internal|Epoch-323~Pennsylvanian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian.protect|Epoch-323~Pennsylvanian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian.private|Epoch-323~Pennsylvanian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian.personal|Epoch-323~Pennsylvanian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian.secret|Epoch-323~Pennsylvanian.secret]]"
+- '[[WD~Pennsylvanian,373772]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian|Epoch-323~Pennsylvanian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian.public|Epoch-323~Pennsylvanian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian.internal|Epoch-323~Pennsylvanian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian.protect|Epoch-323~Pennsylvanian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian.private|Epoch-323~Pennsylvanian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian.personal|Epoch-323~Pennsylvanian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian.secret|Epoch-323~Pennsylvanian.secret]]'
 dv_has_name_bg: Пенѿилван
 dv_has_name_cs: Pennsylván
 dv_has_name_da: Pennsylvanien
@@ -109,11 +156,10 @@ dv_has_name_sl: pennsylvanij
 dv_has_name_sv: pennsylvan
 dv_has_name_zh: 宾夕法尼亚亚纪
 dv_has_name_abbreviated: C2
-dv_has_time_started: "-323.2e6"
-dv_has_time_stopped: "-298.9e6"
-dv_has_text_of_color: "0x7EBCC6"
+dv_has_time_started: -323.2e6
+dv_has_time_stopped: -298.9e6
+dv_has_text_of_color: 0x7EBCC6
 ---
-
 # [[Epoch-323~Pennsylvanian]] 
 
 #is_a_/time_/Period 

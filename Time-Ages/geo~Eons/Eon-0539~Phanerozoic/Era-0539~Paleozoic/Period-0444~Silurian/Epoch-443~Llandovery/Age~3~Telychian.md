@@ -1,88 +1,105 @@
 ---
 aliases:
-  - Telychian
-  - Телич
-  - Telych
-  - Telychien
-  - Telychium
-  - Telychiense
-  - Telychi
-  - Télychien
-  - telychi
-  - telychiano
-  - テリチアン期
-  - TelyĿis
-  - Telychiën
-  - Telychiano
-  - telych
-  - telychij
-  - 特列奇期
+- Telichiano
+- Telichium
+- Telicz
+- Telych
+- Telychi
+- Telychi lade
+- Telychian
+- telychiano
+- Telychien
+- Telychiense
+- telychij
+- Telychium
+- Telychiën
+- TelyĿis
+- Tilichianu
+- Télychien
+- Tầng Telych
+- Телихий
+- Телич
+- теличский ярус
+- التليشي
+- تلیچین
+- テリチアン
+- テリチアン期
+- 特列奇期
+- 特列奇階
 has_id_wikidata: Q681835
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_Telychian,134698359]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_Telychian,134698359]]'
 start_time: -438500000-01-01T00:00:00Z
 end_time: -433400000-01-01T00:00:00Z
 sRGB_color_hex_triplet: B4E5DB
 coordinate_location: Point(-5.9285 37.9853)
 dv_has_:
   duration_:
-    years: "5.100e+6"
-  previous_:
-    item: "[[Age~2~Aeronian]]"
-  next_:
-    item: "[[../Epoch-433~Wenlock/Age~1~Sheinwoodian|Age~1~Sheinwoodian]]"
+    years: 5.100e+6
   name_:
-    bg: Телич
+    abbreviated: s3
+    ar: التليشي
+    bg: Телихий
     cs: Telych
     da: Telychien
     de: Telychium
+    en: Telychian
     es: Telychiense
-    et: Telychi
+    et: Telychi lade
+    fa: تلیچین
     fi: Telych
     fr: Télychien
     hu: telychi
-    it: telychiano
-    ja: テリチアン期
+    id: Telichium
+    it: Telychiano
+    ja: テリチアン
     lt: TelyĿis
-    nl: Telychiën
+    nl: Telychien
+    nn: telych
     no: Telychium
-    pl: Telych
-    pt: Telychiano
+    pl: Telicz
+    pt: Telichiano
+    ru: теличский ярус
+    scn: Tilichianu
     sk: telych
     sl: telychij
     sv: telych
-    zh: 特列奇期
-    abbreviated: s3
-  time_:
-    started: "-438.5e6"
-    stopped: "-433.4e6"
+    vi: Tầng Telych
+    zh: 特列奇階
+  next_:
+    item: '[[../Epoch-433~Wenlock/Age~1~Sheinwoodian|Age~1~Sheinwoodian]]'
+  previous_:
+    item: '[[Age~2~Aeronian]]'
   text_of_:
-    color: "0xBFE6CF"
+    color: 0xBFE6CF
+  time_:
+    started: -438.5e6
+    stopped: -433.4e6
 dv_is_:
   same_as:
-    - "[[WD~Telychian,681835]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~3~Telychian|Age~3~Telychian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~3~Telychian.public|Age~3~Telychian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~3~Telychian.internal|Age~3~Telychian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~3~Telychian.protect|Age~3~Telychian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~3~Telychian.private|Age~3~Telychian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~3~Telychian.personal|Age~3~Telychian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~3~Telychian.secret|Age~3~Telychian.secret]]"
-dv_has_duration_years: "5.100e+6"
-dv_has_previous_item: "[[Age~2~Aeronian]]"
-dv_has_next_item: "[[../Epoch-433~Wenlock/Age~1~Sheinwoodian|Age~1~Sheinwoodian]]"
+  - '[[WD~Telychian,681835]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~3~Telychian|Age~3~Telychian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~3~Telychian.public|Age~3~Telychian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~3~Telychian.internal|Age~3~Telychian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~3~Telychian.protect|Age~3~Telychian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~3~Telychian.private|Age~3~Telychian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~3~Telychian.personal|Age~3~Telychian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~3~Telychian.secret|Age~3~Telychian.secret]]'
+dv_has_duration_years: 5.100e+6
+dv_has_previous_item: '[[Age~2~Aeronian]]'
+dv_has_next_item: '[[../Epoch-433~Wenlock/Age~1~Sheinwoodian|Age~1~Sheinwoodian]]'
 dv_is_same_as:
-  - "[[WD~Telychian,681835]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~3~Telychian|Age~3~Telychian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~3~Telychian.public|Age~3~Telychian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~3~Telychian.internal|Age~3~Telychian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~3~Telychian.protect|Age~3~Telychian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~3~Telychian.private|Age~3~Telychian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~3~Telychian.personal|Age~3~Telychian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~3~Telychian.secret|Age~3~Telychian.secret]]"
+- '[[WD~Telychian,681835]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~3~Telychian|Age~3~Telychian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~3~Telychian.public|Age~3~Telychian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~3~Telychian.internal|Age~3~Telychian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~3~Telychian.protect|Age~3~Telychian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~3~Telychian.private|Age~3~Telychian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~3~Telychian.personal|Age~3~Telychian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~3~Telychian.secret|Age~3~Telychian.secret]]'
 dv_has_name_bg: Телич
 dv_has_name_cs: Telych
 dv_has_name_da: Telychien
@@ -104,9 +121,9 @@ dv_has_name_sl: telychij
 dv_has_name_sv: telych
 dv_has_name_zh: 特列奇期
 dv_has_name_abbreviated: s3
-dv_has_time_started: "-438.5e6"
-dv_has_time_stopped: "-433.4e6"
-dv_has_text_of_color: "0xBFE6CF"
+dv_has_time_started: -438.5e6
+dv_has_time_stopped: -433.4e6
+dv_has_text_of_color: 0xBFE6CF
 ---
 # [[Age~3~Telychian]] 
 

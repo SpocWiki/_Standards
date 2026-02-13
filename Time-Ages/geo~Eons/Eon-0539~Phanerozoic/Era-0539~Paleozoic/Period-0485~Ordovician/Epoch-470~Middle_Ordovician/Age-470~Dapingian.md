@@ -1,88 +1,101 @@
 ---
 aliases:
-  - Dapingian
-  - Дапинг
-  - Daping
-  - Dapingien
-  - Dapingium
-  - Dapingiense
-  - Dapingi
-  - dapingi
-  - dapingiano
-  - ダピンギアン期
-  - Dapingis
-  - Dapingiën
-  - Dapingiano
-  - daping
-  - dapingij
-  - 大坪期
+- Daping
+- Dapinghianu
+- Dapingi
+- Dapingi lade
+- Dapingian
+- dapingiano
+- Dapingien
+- Dapingiense
+- dapingij
+- Dapingis
+- Dapingium
+- Dapingiën
+- Tầng Đại Bình
+- Дапинг
+- Дапингий
+- дапинский ярус
+- الدابنغي
+- داپینگین
+- ダピンギアン期
+- ダーピンジアン
+- 大坪期
 has_id_wikidata: Q288112
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Dapingian,30869279]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_Dapingian,134822707]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Dapingian,30869279]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_Dapingian,134822707]]'
 coordinate_location: Point(111.374 30.8605)
 sRGB_color_hex_triplet: 12C5A9
 end_time: -467300000-01-01T00:00:00Z
 start_time: -470000000-01-01T00:00:00Z
 dv_has_:
   duration_:
-    years: "2.700e+6"
-  previous_:
-    item: "[[../Epoch-485~Early_Ordovician/Age-477~Floian|Age-477~Floian]]"
-  next_:
-    item: "[[Age-467~Darriwilian]]"
+    years: 2.700e+6
   name_:
-    bg: Дапинг
+    abbreviated: o3
+    ar: الدابنغي
+    bg: Дапингий
     cs: Daping
     da: Dapingien
     de: Dapingium
+    en: Dapingian
     es: Dapingiense
-    et: Dapingi
+    et: Dapingi lade
+    fa: داپینگین
     fi: Daping
     fr: Dapingien
     hu: dapingi
-    it: dapingiano
-    ja: ダピンギアン期
+    id: Dapingium
+    it: Dapingiano
+    ja: ダーピンジアン
     lt: Dapingis
-    nl: Dapingiën
+    nl: Dapingien
+    nn: daping
     no: Dapingium
     pl: Daping
     pt: Dapingiano
+    ru: дапинский ярус
+    scn: Dapinghianu
     sk: daping
     sl: dapingij
     sv: daping
+    vi: Tầng Đại Bình
     zh: 大坪期
-    abbreviated: o3
-  time_:
-    started: "-470.0e6"
-    stopped: "-467.3e6"
+  next_:
+    item: '[[Age-467~Darriwilian]]'
+  previous_:
+    item: '[[../Epoch-485~Early_Ordovician/Age-477~Floian|Age-477~Floian]]'
   text_of_:
-    color: "0x66C092"
+    color: 0x66C092
+  time_:
+    started: -470.0e6
+    stopped: -467.3e6
 dv_is_:
   same_as:
-    - "[[WD~Dapingian,288112]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-470~Dapingian|Age-470~Dapingian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-470~Dapingian.public|Age-470~Dapingian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-470~Dapingian.internal|Age-470~Dapingian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-470~Dapingian.protect|Age-470~Dapingian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-470~Dapingian.private|Age-470~Dapingian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-470~Dapingian.personal|Age-470~Dapingian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-470~Dapingian.secret|Age-470~Dapingian.secret]]"
-dv_has_duration_years: "2.700e+6"
-dv_has_previous_item: "[[../Epoch-485~Early_Ordovician/Age-477~Floian|Age-477~Floian]]"
-dv_has_next_item: "[[Age-467~Darriwilian]]"
+  - '[[WD~Dapingian,288112]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-470~Dapingian|Age-470~Dapingian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-470~Dapingian.public|Age-470~Dapingian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-470~Dapingian.internal|Age-470~Dapingian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-470~Dapingian.protect|Age-470~Dapingian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-470~Dapingian.private|Age-470~Dapingian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-470~Dapingian.personal|Age-470~Dapingian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-470~Dapingian.secret|Age-470~Dapingian.secret]]'
+dv_has_duration_years: 2.700e+6
+dv_has_previous_item: '[[../Epoch-485~Early_Ordovician/Age-477~Floian|Age-477~Floian]]'
+dv_has_next_item: '[[Age-467~Darriwilian]]'
 dv_is_same_as:
-  - "[[WD~Dapingian,288112]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-470~Dapingian|Age-470~Dapingian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-470~Dapingian.public|Age-470~Dapingian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-470~Dapingian.internal|Age-470~Dapingian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-470~Dapingian.protect|Age-470~Dapingian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-470~Dapingian.private|Age-470~Dapingian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-470~Dapingian.personal|Age-470~Dapingian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-470~Dapingian.secret|Age-470~Dapingian.secret]]"
+- '[[WD~Dapingian,288112]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-470~Dapingian|Age-470~Dapingian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-470~Dapingian.public|Age-470~Dapingian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-470~Dapingian.internal|Age-470~Dapingian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-470~Dapingian.protect|Age-470~Dapingian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-470~Dapingian.private|Age-470~Dapingian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-470~Dapingian.personal|Age-470~Dapingian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-470~Middle_Ordovician/Age-470~Dapingian.secret|Age-470~Dapingian.secret]]'
 dv_has_name_bg: Дапинг
 dv_has_name_cs: Daping
 dv_has_name_da: Dapingien
@@ -104,9 +117,9 @@ dv_has_name_sl: dapingij
 dv_has_name_sv: daping
 dv_has_name_zh: 大坪期
 dv_has_name_abbreviated: o3
-dv_has_time_started: "-470.0e6"
-dv_has_time_stopped: "-467.3e6"
-dv_has_text_of_color: "0x66C092"
+dv_has_time_started: -470.0e6
+dv_has_time_stopped: -467.3e6
+dv_has_text_of_color: 0x66C092
 ---
 # [[Age-470~Dapingian]]
 

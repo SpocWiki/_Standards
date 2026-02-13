@@ -1,34 +1,113 @@
 ---
 aliases:
-  - Roman_civil_Wars_and_Revolts
-  - Roman civil wars and revolts
+- bellum civile
+- Các cuộc nội chiến La Mã
+- guere siviłi romane
+- Guerra civil romana
+- guerras civiles romanas
+- guerras civis romanas
+- Guerras civís romanas
+- Guerre civili
+- guerres civiles romaines
+- Guerres civiles romanes
+- list of Roman civil wars and revolts
+- lista războaielor civile și a revoltelor romane
+- Neskorá rímska republika
+- Perang saudara Romawi
+- polgárháborúk a Római Birodalomban
+- Rimski građanski rat
+- Rimski građanski ratovi
+- Romaj Internaj Militoj
+- Roman civil wars and revolts
+- Roman_civil_Wars_and_Revolts
+- Romeinse burgeroorlogen
+- Rooma kodusõjad
+- Rooman sisällissota
+- Römische Bürgerkriege
+- seznam rimskih državljanskih vojn in uporov
+- Sąrašas:Senovės romėnų pilietiniai karai ir sukilimai
+- Wojny domowe Rzymu w I wieku p.n.e.
+- Zerrenda:Antzinako Erromako gerra zibil eta matxinadak
+- římské občanské války
+- Гражданские войны в Древнем Риме
+- Грамадзянскія войны ў Старажытным Рыме
+- Громадянські війни у Стародавньому Римі
+- Римски грађански рат
+- Римски граждански войни
+- מלחמות האזרחים ברפובליקה הרומית
+- قائمة الحروب الأهلية والثورات الرومانية
+- रोमन गृह युद्ध
+- ರೋಮನ್ ನಾಗರಿಕ ಯುದ್ಧಗಳು
+- ローマの内戦
+- 罗马内战
+- 로마의 내전
 has_id_wikidata: Q1747183
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Roman_civil_wars,7708534]]"
-instance_of: "[[_Standards/WikiData/WD~Wikimedia_list_article,13406463]]"
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Roman_civil_wars,7708534]]'
+instance_of: '[[_Standards/WikiData/WD~Wikimedia_list_article,13406463]]'
 end_time: 0476-01-01T00:00:00Z
 Commons_category: Roman civil wars
 start_time: -0508-01-01T00:00:00Z
 dv_is_:
   same_as:
-    - "[[../../../../../../../../../../WikiData/WD~List_of_Roman_civil_wars_and_revolts,1747183]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0026-Roman_Empire+0395/Roman_Revolts|Roman_Revolts]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0026-Roman_Empire+0395/Roman_Revolts.public|Roman_Revolts.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0026-Roman_Empire+0395/Roman_Revolts.internal|Roman_Revolts.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0026-Roman_Empire+0395/Roman_Revolts.protect|Roman_Revolts.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0026-Roman_Empire+0395/Roman_Revolts.private|Roman_Revolts.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0026-Roman_Empire+0395/Roman_Revolts.personal|Roman_Revolts.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0026-Roman_Empire+0395/Roman_Revolts.secret|Roman_Revolts.secret]]"
+  - '[[../../../../../../../../../../WikiData/WD~List_of_Roman_civil_wars_and_revolts,1747183]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0026-Roman_Empire+0395/Roman_Revolts|Roman_Revolts]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0026-Roman_Empire+0395/Roman_Revolts.public|Roman_Revolts.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0026-Roman_Empire+0395/Roman_Revolts.internal|Roman_Revolts.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0026-Roman_Empire+0395/Roman_Revolts.protect|Roman_Revolts.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0026-Roman_Empire+0395/Roman_Revolts.private|Roman_Revolts.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0026-Roman_Empire+0395/Roman_Revolts.personal|Roman_Revolts.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0026-Roman_Empire+0395/Roman_Revolts.secret|Roman_Revolts.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../../../WikiData/WD~List_of_Roman_civil_wars_and_revolts,1747183]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0026-Roman_Empire+0395/Roman_Revolts|Roman_Revolts]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0026-Roman_Empire+0395/Roman_Revolts.public|Roman_Revolts.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0026-Roman_Empire+0395/Roman_Revolts.internal|Roman_Revolts.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0026-Roman_Empire+0395/Roman_Revolts.protect|Roman_Revolts.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0026-Roman_Empire+0395/Roman_Revolts.private|Roman_Revolts.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0026-Roman_Empire+0395/Roman_Revolts.personal|Roman_Revolts.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0026-Roman_Empire+0395/Roman_Revolts.secret|Roman_Revolts.secret]]"
+- '[[../../../../../../../../../../WikiData/WD~List_of_Roman_civil_wars_and_revolts,1747183]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0026-Roman_Empire+0395/Roman_Revolts|Roman_Revolts]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0026-Roman_Empire+0395/Roman_Revolts.public|Roman_Revolts.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0026-Roman_Empire+0395/Roman_Revolts.internal|Roman_Revolts.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0026-Roman_Empire+0395/Roman_Revolts.protect|Roman_Revolts.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0026-Roman_Empire+0395/Roman_Revolts.private|Roman_Revolts.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0026-Roman_Empire+0395/Roman_Revolts.personal|Roman_Revolts.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0026-Roman_Empire+0395/Roman_Revolts.secret|Roman_Revolts.secret]]'
+dv_has_:
+  name_:
+    ar: قائمة الحروب الأهلية والثورات الرومانية
+    ast: Guerres civiles romanes
+    be-tarask: Грамадзянскія войны ў Старажытным Рыме
+    bg: Римски граждански войни
+    ca: Guerra civil romana
+    cs: římské občanské války
+    de: Römische Bürgerkriege
+    en: list of Roman civil wars and revolts
+    eo: Romaj Internaj Militoj
+    es: guerras civiles romanas
+    et: Rooma kodusõjad
+    eu: Zerrenda:Antzinako Erromako gerra zibil eta matxinadak
+    fi: Rooman sisällissota
+    fr: guerres civiles romaines
+    gl: Guerras civís romanas
+    he: מלחמות האזרחים ברפובליקה הרומית
+    hi: रोमन गृह युद्ध
+    hr: Rimski građanski rat
+    hu: polgárháborúk a Római Birodalomban
+    id: Perang saudara Romawi
+    it: Guerre civili
+    ja: ローマの内戦
+    kn: ರೋಮನ್ ನಾಗರಿಕ ಯುದ್ಧಗಳು
+    ko: 로마의 내전
+    la: bellum civile
+    lt: Sąrašas:Senovės romėnų pilietiniai karai ir sukilimai
+    nl: Romeinse burgeroorlogen
+    pl: Wojny domowe Rzymu w I wieku p.n.e.
+    pt: guerras civis romanas
+    ro: lista războaielor civile și a revoltelor romane
+    ru: Гражданские войны в Древнем Риме
+    sh: Rimski građanski ratovi
+    sk: Neskorá rímska republika
+    sl: seznam rimskih državljanskih vojn in uporov
+    sr: Римски грађански рат
+    uk: Громадянські війни у Стародавньому Римі
+    vec: guere siviłi romane
+    vi: Các cuộc nội chiến La Mã
+    zh: 罗马内战
 ---
-
 # [[Roman_Revolts]] 
 
 #is_/same_as :: [[WD~List_of_Roman_civil_wars_and_revolts,1747183]] 

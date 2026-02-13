@@ -1,34 +1,43 @@
 ---
 aliases:
-  - Frasnian
-  - Фран
-  - Frasn
-  - Frasnien
-  - Frasnium
-  - Frasniense
-  - Frasne
-  - frasni
-  - frasniano
-  - フラスニアン期
-  - Franis
-  - Frasniën
-  - Frasneium
-  - Fran
-  - Frasniano
-  - frasn
-  - frasnij
-  - 弗拉斯期
+- Fran
+- Franis
+- Frasn
+- Frasne
+- Frasneium
+- frasni
+- Frasnian
+- frasniano
+- Frasnianu
+- Frasnien
+- Frasniense
+- frasnij
+- Frasnium
+- Frasnià
+- Frasniën
+- Frānas stāvs
+- Tầng Frasne
+- Фран
+- франски
+- франский ярус
+- Франський ярус
+- الفراسني
+- فراسنین
+- フラスニアン
+- フラスニアン期
+- 弗拉斯期
+- 弗拉斯階
 has_id_wikidata: Q264200
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-named_by: "[[_Standards/WikiData/WD~Jules_Gosselet,572826]]"
-named_after: "[[_Standards/WikiData/WD~Frasnes_lez_Couvin,1451367]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Frasnian,21708748]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Frasnian,134562255]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+named_by: '[[_Standards/WikiData/WD~Jules_Gosselet,572826]]'
+named_after: '[[_Standards/WikiData/WD~Frasnes_lez_Couvin,1451367]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Frasnian,21708748]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Frasnian,134562255]]'
 coordinate_location: Point(3.0868 43.5032)
-country: "[[_Standards/WikiData/WD~France,142]]"
+country: '[[_Standards/WikiData/WD~France,142]]'
 start_time: -382700000-01-01T00:00:00Z
 Commons_category: Frasnian
 described_at_URL: https://popups.uliege.be/1374-8505/index.php?id=1071
@@ -36,60 +45,74 @@ sRGB_color_hex_triplet: F4EAB9
 end_time: -372200000-01-01T00:00:00Z
 dv_has_:
   duration_:
-    years: "1.050e+7"
-  previous_:
-    item: "[[../Epoch-393~Middle_Devonian/Age~2~Givetian|Age~2~Givetian]]"
-  next_:
-    item: "[[Age~2~Famennian]]"
+    years: 1.050e+7
   name_:
+    abbreviated: d6
+    af: Frasnium
+    ar: الفراسني
     bg: Фран
+    ca: Frasnià
     cs: Frasn
     da: Frasnien
     de: Frasnium
+    en: Frasnian
     es: Frasniense
     et: Frasne
+    fa: فراسنین
     fi: Frasn
     fr: Frasnien
+    gl: Frasniano
     hu: frasni
-    it: frasniano
-    ja: フラスニアン期
+    id: Frasnium
+    it: Frasniano
+    ja: フラスニアン
     lt: Franis
-    nl: Frasniën
+    lv: Frānas stāvs
+    nl: Frasnien
+    nn: frasne
     no: Frasneium
     pl: Fran
     pt: Frasniano
+    ru: франский ярус
+    scn: Frasnianu
     sk: frasn
     sl: frasnij
+    sr: франски
     sv: frasn
-    zh: 弗拉斯期
-    abbreviated: d6
-  time_:
-    started: "-382.7e6"
-    stopped: "-372.2e6"
+    uk: Франський ярус
+    vi: Tầng Frasne
+    zh: 弗拉斯階
+  next_:
+    item: '[[Age~2~Famennian]]'
+  previous_:
+    item: '[[../Epoch-393~Middle_Devonian/Age~2~Givetian|Age~2~Givetian]]'
   text_of_:
-    color: "0xF2EDAD"
+    color: 0xF2EDAD
+  time_:
+    started: -382.7e6
+    stopped: -372.2e6
 dv_is_:
   same_as:
-    - "[[WD~Frasnian,264200]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~1~Frasnian|Age~1~Frasnian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~1~Frasnian.public|Age~1~Frasnian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~1~Frasnian.internal|Age~1~Frasnian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~1~Frasnian.protect|Age~1~Frasnian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~1~Frasnian.private|Age~1~Frasnian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~1~Frasnian.personal|Age~1~Frasnian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~1~Frasnian.secret|Age~1~Frasnian.secret]]"
-dv_has_duration_years: "1.050e+7"
-dv_has_previous_item: "[[../Epoch-393~Middle_Devonian/Age~2~Givetian|Age~2~Givetian]]"
-dv_has_next_item: "[[Age~2~Famennian]]"
+  - '[[WD~Frasnian,264200]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~1~Frasnian|Age~1~Frasnian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~1~Frasnian.public|Age~1~Frasnian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~1~Frasnian.internal|Age~1~Frasnian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~1~Frasnian.protect|Age~1~Frasnian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~1~Frasnian.private|Age~1~Frasnian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~1~Frasnian.personal|Age~1~Frasnian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~1~Frasnian.secret|Age~1~Frasnian.secret]]'
+dv_has_duration_years: 1.050e+7
+dv_has_previous_item: '[[../Epoch-393~Middle_Devonian/Age~2~Givetian|Age~2~Givetian]]'
+dv_has_next_item: '[[Age~2~Famennian]]'
 dv_is_same_as:
-  - "[[WD~Frasnian,264200]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~1~Frasnian|Age~1~Frasnian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~1~Frasnian.public|Age~1~Frasnian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~1~Frasnian.internal|Age~1~Frasnian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~1~Frasnian.protect|Age~1~Frasnian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~1~Frasnian.private|Age~1~Frasnian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~1~Frasnian.personal|Age~1~Frasnian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~1~Frasnian.secret|Age~1~Frasnian.secret]]"
+- '[[WD~Frasnian,264200]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~1~Frasnian|Age~1~Frasnian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~1~Frasnian.public|Age~1~Frasnian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~1~Frasnian.internal|Age~1~Frasnian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~1~Frasnian.protect|Age~1~Frasnian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~1~Frasnian.private|Age~1~Frasnian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~1~Frasnian.personal|Age~1~Frasnian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~1~Frasnian.secret|Age~1~Frasnian.secret]]'
 dv_has_name_bg: Фран
 dv_has_name_cs: Frasn
 dv_has_name_da: Frasnien
@@ -111,9 +134,9 @@ dv_has_name_sl: frasnij
 dv_has_name_sv: frasn
 dv_has_name_zh: 弗拉斯期
 dv_has_name_abbreviated: d6
-dv_has_time_started: "-382.7e6"
-dv_has_time_stopped: "-372.2e6"
-dv_has_text_of_color: "0xF2EDAD"
+dv_has_time_started: -382.7e6
+dv_has_time_stopped: -372.2e6
+dv_has_text_of_color: 0xF2EDAD
 ---
 # [[Age~1~Frasnian]] 
 

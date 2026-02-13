@@ -1,7 +1,60 @@
 ---
 has_id_wikidata: Q810009
+dv_has_:
+  name_:
+    an: BCPL
+    ar: لغة البرمجة الأساسية المختلطة
+    bn: বিসিপিএল
+    ca: BCPL
+    cs: BCPL
+    da: BCPL
+    de: Basic Combined Programming Language
+    en: BCPL
+    eo: BCPL
+    es: BCPL
+    fa: بیسیپیال
+    fi: BCPL
+    fr: BCPL
+    ga: BCPL
+    gl: BCPL
+    he: BCPL
+    hu: BCPL
+    hy: BCPL
+    id: BCPL
+    io: BCPL
+    it: BCPL
+    ja: BCPL
+    ko: BCPL
+    lv: BCPL
+    mk: BCPL
+    ml: ബിസിപിഎൽ
+    mul: BCPL
+    nb: BCPL
+    nl: BCPL
+    nn: BCPL
+    pl: BCPL
+    pt: BCPL
+    ro: BCPL
+    scn: BCPL
+    sl: BCPL
+    sv: BCPL
+    syl: ꠛꠤꠌꠤꠙꠤꠄꠟ
+    tr: BCPL
+    uk: BCPL
+    vec: BCPL
+    vi: BCPL
+    yue: BCPL
+    zh: 基本組合編程語言
+aliases:
+- Basic Combined Programming Language
+- BCPL
+- بیسیپیال
+- لغة البرمجة الأساسية المختلطة
+- বিসিপিএল
+- ബിസിപിഎൽ
+- 基本組合編程語言
+- ꠛꠤꠌꠤꠙꠤꠄꠟ
 ---
-
 # [[Prog~BCPL]] 
 
 #is_a_/ComputerLanguage 

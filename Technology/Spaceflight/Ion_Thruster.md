@@ -1,19 +1,118 @@
 ---
 aliases:
-  - ion thruster
-  - ion drive
-  - ion engine
-  - Ionenantrieb
-  - Ion_Thruster
-  - Ion Thruster
+- ianinneall
+- ion drive
+- ion engine
+- ion thruster
+- Ion-motor
+- ionemotor
+- Ionenantrieb
+- ionenmotor
+- ionhajtómű
+- Ionimoottori
+- Ionski pogon
+- Iontový motor
+- Ion_Thruster
+- Ioonenjin
+- Ioonmootor
+- iónový motor
+- Jonmotor
+- jonpelilo
+- Jonski pogon
+- jonu dzinējs
+- moteur ionique
+- Motor ionic
+- Motor ioniko
+- motor iònic
+- pendorong ion
+- Penujah ion
+- propulsor de íons
+- propulsor iónico
+- Propulsor iónicu
+- propulsore ionico
+- Silnik jonowy
+- Động cơ ion
+- İyon motoru
+- іённы рухавік
+- Іонний двигун
+- Іонны рухавік
+- јонски погон
+- ионный двигатель
+- Йонен двигател
+- מנוע יונים
+- محرك أيوني
+- يوني ماشين
+- پیشرانه یونی
+- იონის ძრავი
+- イオンエンジン
+- 离子推力器
+- 離子引擎
+- 離子推力器
+- 이온 엔진
 has_id_wikidata: Q205702
 subclass_of:
-  - '[[_Standards/WikiData/WD~electrically_powered_spacecraft_propulsion,648588]]'
-  - '[[_Standards/WikiData/WD~thruster,28454968]]'
+- '[[_Standards/WikiData/WD~electrically_powered_spacecraft_propulsion,648588]]'
+- '[[_Standards/WikiData/WD~thruster,28454968]]'
 Commons_category: Ion propulsion
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ion%20Engine%20Test%20Firing%20-%20GPN-2000-000482.jpg
+dv_has_:
+  name_:
+    af: Ioonenjin
+    ar: محرك أيوني
+    ast: Propulsor iónicu
+    be: Іонны рухавік
+    be-tarask: іённы рухавік
+    bg: Йонен двигател
+    ca: motor iònic
+    cs: Iontový motor
+    da: Ion-motor
+    de: Ionenantrieb
+    en: ion thruster
+    eo: jonpelilo
+    es: propulsor iónico
+    et: Ioonmootor
+    eu: Motor ioniko
+    fa: پیشرانه یونی
+    fi: Ionimoottori
+    fr: moteur ionique
+    ga: ianinneall
+    he: מנוע יונים
+    hr: Ionski pogon
+    hu: ionhajtómű
+    id: pendorong ion
+    it: propulsore ionico
+    ja: イオンエンジン
+    ka: იონის ძრავი
+    ko: 이온 엔진
+    lv: jonu dzinējs
+    mk: јонски погон
+    ms: Penujah ion
+    nb: ionemotor
+    nl: ionenmotor
+    nn: Ionemotor
+    oc: Motor ionic
+    pl: Silnik jonowy
+    ps: يوني ماشين
+    pt: propulsor de íons
+    ro: Motor ionic
+    ru: ионный двигатель
+    sh: Ionski pogon
+    sk: iónový motor
+    sl: Ionski pogon
+    sr: Jonski pogon
+    sv: Jonmotor
+    tr: İyon motoru
+    uk: Іонний двигун
+    vi: Động cơ ion
+    yue: 離子引擎
+    zh: 离子推力器
+    zh-cn: 离子推力器
+    zh-hans: 离子推力器
+    zh-hant: 離子推力器
+    zh-hk: 離子推力器
+    zh-sg: 离子推力器
+    zh-tw: 離子推力器
 ---
-
 # [[Ion_Thruster]] 
 
 #is_/same_as :: [[WD~Ion_thruster,205702]] 

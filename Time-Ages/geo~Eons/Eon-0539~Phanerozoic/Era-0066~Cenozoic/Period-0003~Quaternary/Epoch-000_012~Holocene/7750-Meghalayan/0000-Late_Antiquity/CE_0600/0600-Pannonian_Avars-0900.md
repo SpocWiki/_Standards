@@ -1,50 +1,174 @@
 ---
 aliases:
-  - Avaren
-  - Obri
-  - Abaroi
-  - Varchonitai
-  - 0600-Pannonian_Avars-0900
-  - 0600-Pannonian Avars-0900
+- 0600-Pannonian Avars-0900
+- 0600-Pannonian_Avars-0900
+- Abaroi
+- Avaarit
+- Avar Eurasia
+- Avarai
+- Avarar
+- Avaren
+- Avarer
+- Avarerne
+- Avares
+- Avari
+- Avarlar
+- Avaroak
+- Avaroj
+- avarok
+- Avaros
+- Avars
+- Avars de Panònia
+- Avarët
+- Avaři
+- avāri
+- Aware
+- Awaren
+- Awarn
+- Awarowie
+- Awary
+- Người Avar Pannonia
+- Obri
+- Pannonian Avars
+- Varchonitai
+- àvars
+- Ávaros
+- Άβαροι
+- Авар
+- Авари
+- Аварлар
+- Аварсем
+- авартæ
+- Авары
+- Аварҙар
+- Ավարներ
+- אווארים
+- آفار أوراسيا
+- آوارهای اوراسیایی
+- یوریشیائی آوار لوک
+- यूरेशियाई आवार लोग
+- อาวาร์ยูเรเชีย
+- アヴァール
+- 阿瓦尔人
+- 阿瓦尔汗国
+- 阿瓦爾汗國
+- 阿華爾人
+- 아바르족
 has_id_wikidata: Q68962
 different_from:
-  - "[[_Standards/WikiData/WD~Avars,172717]]"
-  - "[[_Standards/WikiData/WD~Avare,2873365]]"
+- '[[_Standards/WikiData/WD~Avars,172717]]'
+- '[[_Standards/WikiData/WD~Avare,2873365]]'
 described_by_source:
-  - "[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Kościelna_encyclopedia,9253865]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-instance_of: "[[_Standards/WikiData/WD~historical_ethnic_group,4204501]]"
+- '[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Kościelna_encyclopedia,9253865]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+instance_of: '[[_Standards/WikiData/WD~historical_ethnic_group,4204501]]'
 Commons_category: Eurasian Avars
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bogenschuetzen%20Reiter-2.jpg
 Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/AVARI.html
 dv_is_:
   same_as:
-    - "[[../../../../../../../../../WikiData/WD~Pannonian_Avars,68962]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0600-Pannonian_Avars-0900|0600-Pannonian_Avars-0900]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0600-Pannonian_Avars-0900.public|0600-Pannonian_Avars-0900.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0600-Pannonian_Avars-0900.internal|0600-Pannonian_Avars-0900.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0600-Pannonian_Avars-0900.protect|0600-Pannonian_Avars-0900.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0600-Pannonian_Avars-0900.private|0600-Pannonian_Avars-0900.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0600-Pannonian_Avars-0900.personal|0600-Pannonian_Avars-0900.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0600-Pannonian_Avars-0900.secret|0600-Pannonian_Avars-0900.secret]]"
+  - '[[../../../../../../../../../WikiData/WD~Pannonian_Avars,68962]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0600-Pannonian_Avars-0900|0600-Pannonian_Avars-0900]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0600-Pannonian_Avars-0900.public|0600-Pannonian_Avars-0900.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0600-Pannonian_Avars-0900.internal|0600-Pannonian_Avars-0900.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0600-Pannonian_Avars-0900.protect|0600-Pannonian_Avars-0900.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0600-Pannonian_Avars-0900.private|0600-Pannonian_Avars-0900.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0600-Pannonian_Avars-0900.personal|0600-Pannonian_Avars-0900.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0600-Pannonian_Avars-0900.secret|0600-Pannonian_Avars-0900.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../../WikiData/WD~Pannonian_Avars,68962]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0600-Pannonian_Avars-0900|0600-Pannonian_Avars-0900]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0600-Pannonian_Avars-0900.public|0600-Pannonian_Avars-0900.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0600-Pannonian_Avars-0900.internal|0600-Pannonian_Avars-0900.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0600-Pannonian_Avars-0900.protect|0600-Pannonian_Avars-0900.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0600-Pannonian_Avars-0900.private|0600-Pannonian_Avars-0900.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0600-Pannonian_Avars-0900.personal|0600-Pannonian_Avars-0900.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0600-Pannonian_Avars-0900.secret|0600-Pannonian_Avars-0900.secret]]"
+- '[[../../../../../../../../../WikiData/WD~Pannonian_Avars,68962]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0600-Pannonian_Avars-0900|0600-Pannonian_Avars-0900]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0600-Pannonian_Avars-0900.public|0600-Pannonian_Avars-0900.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0600-Pannonian_Avars-0900.internal|0600-Pannonian_Avars-0900.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0600-Pannonian_Avars-0900.protect|0600-Pannonian_Avars-0900.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0600-Pannonian_Avars-0900.private|0600-Pannonian_Avars-0900.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0600-Pannonian_Avars-0900.personal|0600-Pannonian_Avars-0900.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0600-Pannonian_Avars-0900.secret|0600-Pannonian_Avars-0900.secret]]'
+dv_has_:
+  name_:
+    af: Aware
+    an: Avaros
+    ar: آفار أوراسيا
+    ast: Ávaros
+    az: Avarlar
+    ba: Аварҙар
+    bar: Awarn
+    be: Авары
+    be-tarask: авары
+    bg: Авари
+    bs: Avari
+    ca: àvars
+    cs: Avaři
+    cv: Аварсем
+    da: Avarerne
+    de: Awaren
+    dsb: Awary
+    el: Άβαροι
+    en: Pannonian Avars
+    en-us: Pannonian Avars
+    eo: Avaroj
+    es: ávaros
+    eu: Avaroak
+    fa: آوارهای اوراسیایی
+    fi: Avaarit
+    fr: Avars
+    fy: Avaren
+    gl: Ávaros
+    gsw: Aware
+    he: אווארים
+    hi: यूरेशियाई आवार लोग
+    hr: Avari
+    hu: avarok
+    hy: Ավարներ
+    id: Avar Eurasia
+    io: Avari
+    it: Avari
+    ja: アヴァール
+    kk: Аварлар
+    ko: 아바르족
+    ky: Аварлар
+    la: Avari
+    lfn: Avares
+    lt: Avarai
+    lv: avāri
+    mk: Авари
+    mn: Авар
+    nb: avarer
+    nl: Avaren
+    nn: Avarar
+    oc: Avars de Panònia
+    os: авартæ
+    pl: Awarowie
+    pnb: یوریشیائی آوار لوک
+    pt: Ávaros
+    ro: Avari
+    ru: авары
+    sh: Avari
+    sk: Avari
+    sl: Avari
+    sq: Avarët
+    sr: Авари
+    sr-ec: Авари
+    sr-el: Avari
+    sv: Avarer
+    th: อาวาร์ยูเรเชีย
+    tr: Avarlar
+    uk: Авари
+    uz: Avarlar
+    vi: Người Avar Pannonia
+    wuu: 阿瓦尔人
+    yue: 阿華爾人
+    zh: 阿瓦尔人
+    zh-hans: 阿瓦尔汗国
+    zh-hant: 阿瓦爾汗國
 ---
-
 # [[0600-Pannonian_Avars-0900]] 
 
 #is_/same_as :: [[WD~Pannonian_Avars,68962]] 

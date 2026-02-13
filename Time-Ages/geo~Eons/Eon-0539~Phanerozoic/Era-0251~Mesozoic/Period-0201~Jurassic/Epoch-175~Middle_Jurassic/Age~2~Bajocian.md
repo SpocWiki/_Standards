@@ -1,77 +1,119 @@
 ---
 aliases:
-  - Bajocian
+- bajoc
+- bajoci
+- Bajocian
+- Bajociano
+- Bajociar
+- Bajocien
+- Bajociense
+- Bajocij
+- Bajocium
+- Bajocià
+- Bajok
+- Bajokium
+- bajos
+- Bajosium
+- Bajucianu
+- Baxociano
+- Baxocianu
+- Tầng Bajoci
+- байосский ярус
+- Байоський ярус
+- الباجوسي
+- باجوسین
+- バッジョシアン
+- 巴柔期
+- 바욕절
 has_id_wikidata: Q375180
-named_after: "[[_Standards/WikiData/WD~Bayeux,183910]]"
+named_after: '[[_Standards/WikiData/WD~Bayeux,183910]]'
 named_by: "[[_Standards/WikiData/WD~Alcide_d'Orbigny,344661]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-significant_place: "[[_Standards/WikiData/WD~Cabo_Mondego,655636]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Bajocian,21697525]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Bajocian,134269198]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+significant_place: '[[_Standards/WikiData/WD~Cabo_Mondego,655636]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Bajocian,21697525]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Bajocian,134269198]]'
 start_time: -170300000-01-01T00:00:00Z
 end_time: -168300000-01-01T00:00:00Z
 sRGB_color_hex_triplet: 9CE2EF
 coordinate_location: Point(-8.9042 40.1992)
 dv_has_:
   duration_:
-    years: "2.700e+6"
-  previous_:
-    item: "[[Age~1~Aalenian]]"
-  next_:
-    item: "[[Age~3~Bathonian]]"
+    years: 2.700e+6
   name_:
+    abbreviated: j2
+    af: Bajosium
+    ar: الباجوسي
+    ast: Baxocianu
     bg: Байоѿ
+    ca: Bajocià
     cs: Bajok
     da: Bajocien
     de: Bajocium
+    en: Bajocian
     es: Bajociense
     et: Bajoci
+    eu: Bajociar
+    fa: باجوسین
     fi: Bajoc
     fr: Bajocien
+    gl: Baxociano
     hu: bajoci
-    it: bajociano
-    ja: バジョシアン期
+    id: Bajokium
+    it: Bajociano
+    ja: バッジョシアン
+    ko: 바욕절
+    la: Bajocium
     lt: Bajosis
-    nl: Bajociën
+    nb: Bajocium
+    nl: Bajocien
+    nn: bajoc
     no: Bajoc
-    pl: Bajos
+    pl: bajos
     pt: Bajociano
+    ru: байосский ярус
+    scn: Bajucianu
+    sh: Bajocij
     sk: bajok
     sl: bajocij
     sv: bajoc
+    uk: Байоський ярус
+    vi: Tầng Bajoci
     zh: 巴柔期
-    abbreviated: j2
-  time_:
-    started: "-170.9e6"
-    stopped: "-168.2e6"
+  next_:
+    item: '[[Age~3~Bathonian]]'
+  previous_:
+    item: '[[Age~1~Aalenian]]'
   text_of_:
-    color: "0xA6DDE0"
+    color: 0xA6DDE0
+  time_:
+    started: -170.9e6
+    stopped: -168.2e6
 dv_is_:
   same_as:
-    - "[[WD~Bajocian,375180]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~2~Bajocian|Age~2~Bajocian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~2~Bajocian.public|Age~2~Bajocian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~2~Bajocian.internal|Age~2~Bajocian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~2~Bajocian.protect|Age~2~Bajocian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~2~Bajocian.private|Age~2~Bajocian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~2~Bajocian.personal|Age~2~Bajocian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~2~Bajocian.secret|Age~2~Bajocian.secret]]"
-dv_has_duration_years: "2.700e+6"
-dv_has_previous_item: "[[Age~1~Aalenian]]"
-dv_has_next_item: "[[Age~3~Bathonian]]"
+  - '[[WD~Bajocian,375180]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~2~Bajocian|Age~2~Bajocian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~2~Bajocian.public|Age~2~Bajocian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~2~Bajocian.internal|Age~2~Bajocian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~2~Bajocian.protect|Age~2~Bajocian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~2~Bajocian.private|Age~2~Bajocian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~2~Bajocian.personal|Age~2~Bajocian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~2~Bajocian.secret|Age~2~Bajocian.secret]]'
+dv_has_duration_years: 2.700e+6
+dv_has_previous_item: '[[Age~1~Aalenian]]'
+dv_has_next_item: '[[Age~3~Bathonian]]'
 dv_is_same_as:
-  - "[[WD~Bajocian,375180]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~2~Bajocian|Age~2~Bajocian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~2~Bajocian.public|Age~2~Bajocian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~2~Bajocian.internal|Age~2~Bajocian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~2~Bajocian.protect|Age~2~Bajocian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~2~Bajocian.private|Age~2~Bajocian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~2~Bajocian.personal|Age~2~Bajocian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~2~Bajocian.secret|Age~2~Bajocian.secret]]"
+- '[[WD~Bajocian,375180]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~2~Bajocian|Age~2~Bajocian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~2~Bajocian.public|Age~2~Bajocian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~2~Bajocian.internal|Age~2~Bajocian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~2~Bajocian.protect|Age~2~Bajocian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~2~Bajocian.private|Age~2~Bajocian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~2~Bajocian.personal|Age~2~Bajocian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~2~Bajocian.secret|Age~2~Bajocian.secret]]'
 dv_has_name_bg: Байоѿ
 dv_has_name_cs: Bajok
 dv_has_name_da: Bajocien
@@ -93,9 +135,9 @@ dv_has_name_sl: bajocij
 dv_has_name_sv: bajoc
 dv_has_name_zh: 巴柔期
 dv_has_name_abbreviated: j2
-dv_has_time_started: "-170.9e6"
-dv_has_time_stopped: "-168.2e6"
-dv_has_text_of_color: "0xA6DDE0"
+dv_has_time_started: -170.9e6
+dv_has_time_stopped: -168.2e6
+dv_has_text_of_color: 0xA6DDE0
 ---
 # [[Age~2~Bajocian]] 
 

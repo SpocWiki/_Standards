@@ -1,7 +1,35 @@
 ---
 has_id_wikidata: Q1389173
+dv_has_:
+  name_:
+    ca: FLOW-MATIC
+    da: FLOW-MATIC
+    de: FLOW-MATIC
+    en: FLOW-MATIC
+    en-gb: FLOW-MATIC
+    es: FLOW-MATIC
+    fa: FLOW-MATIC
+    fi: FLOW-MATIC
+    fr: FLOW-MATIC
+    ga: FLOW-MATIC
+    gl: Flow-Matic
+    hy: FLOW-MATIC
+    io: FLOW-MATIC
+    it: FLOW-MATIC
+    ja: FLOW-MATIC
+    ko: FLOW-MATIC
+    nl: FLOW-MATIC
+    nn: FLOW-MATIC
+    pt: Flow-Matic
+    ro: FLOW-MATIC
+    ru: FLOW-MATIC
+    sv: FLOW-MATIC
+    uk: FLOW-MATIC
+    vec: FLOW-MATIC
+    zh: FLOW-MATIC
+aliases:
+- FLOW-MATIC
 ---
-
 # [[FLOW-MATIC]] 
 
 #is_a_/ComputerLanguage 

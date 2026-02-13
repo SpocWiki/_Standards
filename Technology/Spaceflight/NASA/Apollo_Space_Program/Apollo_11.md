@@ -1,37 +1,76 @@
 ---
 aliases:
-  - Apollo_11
-  - Apollo 11
+- Apollo 11
+- Apollo XI
+- Apollon 11
+- Apollo_11
+- Apollo–11
+- Apolo 11
+- Tungllendingin (1969)
+- Απόλλων 11
+- Апалён-11
+- Апалон-11
+- Аполлон 11
+- Аполлон-11
+- Аполо 11
+- Ապոլո 11
+- אפאלא 11
+- אפולו 11
+- آپولو 11
+- آپولو ۱۱
+- أبولو 11
+- ئەپۆلۆ ١١
+- اپالو 11
+- اپولو 11
+- اپولو ۱۱
+- अपोलो ११
+- অ্যাপোলো ১১
+- এপ'ল' ১১
+- એપોલો ૧૧
+- ଆପୋଲୋ ୧୧
+- அப்பல்லோ 11
+- అపోలో 11
+- ಅಪೋಲೊ ೧೧
+- അപ്പോളോ 11
+- ඇපලෝ 11
+- อะพอลโล 11
+- အပိုလို ၁၁
+- აპოლო 11
+- አፖሎ ፲፩
+- アポロ11号
+- 阿波罗11号
+- 阿波羅11號
+- 아폴로 11호
 has_id_wikidata: Q43653
 crew_member:
-  - '[[_Standards/WikiData/WD~Michael_Collins,104859]]'
-  - '[[_Standards/WikiData/WD~Neil_Armstrong,1615]]'
-  - '[[_Standards/WikiData/WD~Buzz_Aldrin,2252]]'
+- '[[_Standards/WikiData/WD~Michael_Collins,104859]]'
+- '[[_Standards/WikiData/WD~Neil_Armstrong,1615]]'
+- '[[_Standards/WikiData/WD~Buzz_Aldrin,2252]]'
 backup_or_reserve_team_or_crew:
-  - '[[_Standards/WikiData/WD~Jim_Lovell,111240]]'
-  - '[[_Standards/WikiData/WD~Fred_Haise,318965]]'
-  - '[[_Standards/WikiData/WD~Bill_Anders,19242]]'
+- '[[_Standards/WikiData/WD~Jim_Lovell,111240]]'
+- '[[_Standards/WikiData/WD~Fred_Haise,318965]]'
+- '[[_Standards/WikiData/WD~Bill_Anders,19242]]'
 significant_event:
-  - '[[_Standards/WikiData/WD~extra_vehicular_activity,182020]]'
-  - '[[_Standards/WikiData/WD~Moon_landing,495307]]'
-  - '[[_Standards/WikiData/WD~docking_and_berthing_of_spacecraft,557450]]'
-  - '[[_Standards/WikiData/WD~rocket_launch,797476]]'
-  - '[[_Standards/WikiData/WD~splashdown,1642255]]'
-  - '[[_Standards/WikiData/WD~orbital_activity,65945161]]'
+- '[[_Standards/WikiData/WD~extra_vehicular_activity,182020]]'
+- '[[_Standards/WikiData/WD~Moon_landing,495307]]'
+- '[[_Standards/WikiData/WD~docking_and_berthing_of_spacecraft,557450]]'
+- '[[_Standards/WikiData/WD~rocket_launch,797476]]'
+- '[[_Standards/WikiData/WD~splashdown,1642255]]'
+- '[[_Standards/WikiData/WD~orbital_activity,65945161]]'
 followed_by: '[[_Standards/WikiData/WD~Apollo_12,188433]]'
 follows: '[[_Standards/WikiData/WD~Apollo_10,191746]]'
 type_of_orbit: '[[_Standards/WikiData/WD~lunar_orbit,210448]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~Moon_landing,495307]]'
-  - '[[_Standards/WikiData/WD~human_spaceflight,752783]]'
-  - '[[_Standards/WikiData/WD~artificial_satellite,26540]]'
+- '[[_Standards/WikiData/WD~Moon_landing,495307]]'
+- '[[_Standards/WikiData/WD~human_spaceflight,752783]]'
+- '[[_Standards/WikiData/WD~artificial_satellite,26540]]'
 recovered_by: '[[_Standards/WikiData/WD~USS_Hornet,1141355]]'
 different_from: '[[_Standards/WikiData/WD~Apollo_11_Cave,14755864]]'
 start_point: '[[_Standards/WikiData/WD~Kennedy_Space_Center_Launch_Complex_39A,24256513]]'
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-Apollo%2011-article.ogg
 vessel:
-  - '[[_Standards/WikiData/WD~Eagle,28101302]]'
-  - '[[_Standards/WikiData/WD~Apollo_11_Command_and_Service_Module,28101301]]'
+- '[[_Standards/WikiData/WD~Eagle,28101302]]'
+- '[[_Standards/WikiData/WD~Apollo_11_Command_and_Service_Module,28101301]]'
 described_by_source: '[[_Standards/WikiData/WD~The_Star_Trek_Encyclopedia,63217791]]'
 operator: '[[_Standards/WikiData/WD~National_Aeronautics_and_Space_Administration,23548]]'
 country: '[[_Standards/WikiData/WD~United_States,30]]'
@@ -43,8 +82,8 @@ space_launch_vehicle: '[[_Standards/WikiData/WD~Saturn_V,54363]]'
 periapsis: 100.9
 apoapsis: 122.4
 mass:
-  - 4931.9
-  - 49734.6
+- 4931.9
+- 49734.6
 UTC_date_of_spacecraft_landing: 1969-07-24T00:00:00Z
 UTC_date_of_spacecraft_launch: 1969-07-16T00:00:00Z
 duration: 703115
@@ -56,12 +95,131 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/AP11%20FINAL%20APPROAC
 Commons_gallery: Apollo 11
 Commons_category: Apollo 11
 3D_model:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Cm%20exterior-render%20ready.stl
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Cm%20interior-render%20ready%20%28NASA%20%26%20Smithsonian%20Institution%29.stl
+- http://commons.wikimedia.org/wiki/Special:FilePath/Cm%20exterior-render%20ready.stl
+- http://commons.wikimedia.org/wiki/Special:FilePath/Cm%20interior-render%20ready%20%28NASA%20%26%20Smithsonian%20Institution%29.stl
 ISNI: 0000000123370045
 P8189: 987007594503605171
+dv_has_:
+  name_:
+    af: Apollo 11
+    am: አፖሎ ፲፩
+    an: Apollo 11
+    ar: أبولو 11
+    as: এপ'ল' ১১
+    ast: Apollo 11
+    az: Apollon 11
+    azb: آپولو 11
+    ban: Apollo 11
+    be: Апалон-11
+    be-tarask: Апалён-11
+    bg: Аполо 11
+    bn: অ্যাপোলো ১১
+    br: Apollo 11
+    bs: Apollo 11
+    ca: Apollo 11
+    ceb: Apollo XI
+    ckb: ئەپۆلۆ ١١
+    cs: Apollo 11
+    cv: Аполлон-11
+    cy: Apollo 11
+    da: Apollo 11
+    de: Apollo 11
+    de-ch: Apollo 11
+    el: Απόλλων 11
+    en: Apollo 11
+    en-ca: Apollo 11
+    en-gb: Apollo 11
+    eo: Apollo 11
+    es: Apolo 11
+    et: Apollo 11
+    eu: Apollo 11
+    fa: آپولو ۱۱
+    fi: Apollo 11
+    fr: Apollo 11
+    fy: Apollo 11
+    ga: Apollo 11
+    gl: Apollo 11
+    gu: એપોલો ૧૧
+    gv: Apollo 11
+    ha: Apollo 11
+    he: אפולו 11
+    hi: अपोलो ११
+    hr: Apollo 11
+    hu: Apollo–11
+    hy: Ապոլո 11
+    id: Apollo 11
+    io: Apollo 11
+    is: Tungllendingin (1969)
+    it: Apollo 11
+    ja: アポロ11号
+    jv: Apollo 11
+    ka: აპოლო 11
+    kk: Аполлон 11
+    kk-cyrl: Аполлон 11
+    kn: ಅಪೋಲೊ ೧೧
+    ko: 아폴로 11호
+    ks: اپولو ۱۱
+    ku: Apollo 11
+    la: Apollo 11
+    lmo: Apollo XI
+    lt: Apollo 11
+    lv: Apollo 11
+    mg: Apollo 11
+    min: Apollo 11
+    mk: Аполо 11
+    ml: അപ്പോളോ 11
+    mr: अपोलो ११
+    ms: Apollo 11
+    my: အပိုလို ၁၁
+    nb: Apollo 11
+    nl: Apollo 11
+    nn: Apollo 11
+    oc: Apollo 11
+    or: ଆପୋଲୋ ୧୧
+    pl: Apollo 11
+    pnb: اپولو 11
+    ps: اپولو ۱۱
+    pt: Apollo 11
+    pt-br: Apollo 11
+    ro: Apollo 11
+    ru: Аполлон-11
+    sah: Аполлон 11
+    sco: Apollo 11
+    sh: Apollo 11
+    si: ඇපලෝ 11
+    sk: Apollo 11
+    sl: Apollo 11
+    smn: Apollo 11
+    sq: Apollo 11
+    sr: Apolo 11
+    stq: Apollo 11
+    sv: Apollo 11
+    sw: Apollo 11
+    ta: அப்பல்லோ 11
+    te: అపోలో 11
+    th: อะพอลโล 11
+    tl: Apollo 11
+    tr: Apollo 11
+    ts: Apollo 11
+    uk: Аполлон-11
+    ur: اپالو 11
+    uz: Apollo 11
+    vec: Apollo 11
+    vi: Apollo 11
+    war: Apollo 11
+    wuu: 阿波罗11号
+    yi: אפאלא 11
+    yue: 阿波羅11號
+    zh: 阿波罗11号
+    zh-cn: 阿波罗11号
+    zh-hans: 阿波罗11号
+    zh-hant: 阿波羅11號
+    zh-hk: 阿波羅11號
+    zh-mo: 阿波羅11號
+    zh-my: 阿波罗11号
+    zh-sg: 阿波罗11号
+    zh-tw: 阿波羅11號
 ---
-
 # [[Apollo_11]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Apollo_11,43653|WD~Apollo_11,43653]] 

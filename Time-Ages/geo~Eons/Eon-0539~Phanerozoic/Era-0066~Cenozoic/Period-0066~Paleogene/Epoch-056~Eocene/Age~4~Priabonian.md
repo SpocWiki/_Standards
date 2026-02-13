@@ -1,19 +1,42 @@
 ---
 aliases:
-  - Priabonian
+- Priabbunianu
+- priabon
+- priabona
+- Priabonas stāvs
+- Priabonian
+- Priaboniano
+- Priabonianu
+- Priaboniar
+- Priabonien
+- Priaboniense
+- priabonij
+- Priabonium
+- Priabonià
+- Priabón
+- Tầng Priabona
+- Приабон
+- приабонский ярус
+- البريابوني
+- پریابونین
+- プリアボニアン
+- 普里阿邦期
+- 普里阿邦阶
+- 普里阿邦階
+- 프리아보나절
 has_id_wikidata: Q508438
-significant_place: "[[_Standards/WikiData/WD~Piave,213462]]"
+significant_place: '[[_Standards/WikiData/WD~Piave,213462]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-named_after: "[[_Standards/WikiData/WD~Priabona,1403375]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+named_after: '[[_Standards/WikiData/WD~Priabona,1403375]]'
 named_by:
-  - "[[_Standards/WikiData/WD~Albert_de_Lapparent,2739611]]"
-  - "[[_Standards/WikiData/WD~Ernest_Munier_Chalmas,3057095]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Ludien,3266056]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Priabonian,24068320]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Priabonian,133861656]]"
+- '[[_Standards/WikiData/WD~Albert_de_Lapparent,2739611]]'
+- '[[_Standards/WikiData/WD~Ernest_Munier_Chalmas,3057095]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Ludien,3266056]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Priabonian,24068320]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Priabonian,133861656]]'
 start_time: -37800000-01-01T00:00:00Z
 end_time: -33900000-01-01T00:00:00Z
 Commons_category: Priabonian
@@ -21,60 +44,83 @@ sRGB_color_hex_triplet: FED9A2
 coordinate_location: Point(11.918019444 45.914194444)
 dv_has_:
   duration_:
-    years: "3.810e+6"
-  previous_:
-    item: "[[Age~3~Bartonian]]"
-  next_:
-    item: "[[../Epoch-034~Oligocene/Age~1~Rupelian|Age~1~Rupelian]]"
+    years: 3.810e+6
   name_:
+    abbreviated: e7
+    af: Priabonium
+    ar: البريابوني
+    ast: Priabonianu
     bg: Приабон
+    ca: Priabonià
     cs: Priabon
     da: Priabonien
     de: Priabonium
+    en: Priabonian
+    eo: Priaboniano
     es: Priaboniense
     et: Priaboni
+    eu: Priaboniar
+    fa: پریابونین
     fi: Priabon
     fr: Priabonien
+    gl: Priaboniano
     hu: priabonai
-    it: priaboniano
-    ja: プリアボニアン期
+    id: Priabonium
+    it: Priaboniano
+    ja: プリアボニアン
+    ko: 프리아보나절
     lt: Priabonis
-    nl: Priaboniën
+    lv: Priabonas stāvs
+    nds: Priabonium
+    nl: Priabonien
+    nn: priabona
     no: Priabon
-    pl: Priabon
+    pl: priabon
     pt: Priaboniano
-    sk: priabón
+    ru: приабонский ярус
+    scn: Priabbunianu
+    sh: Priabon
+    sk: Priabón
     sl: priabonij
+    sr: Приабон
     sv: priabon
+    vec: Priabonian
+    vi: Tầng Priabona
     zh: 普里阿邦期
-    abbreviated: e7
-  time_:
-    started: "-37.71e6"
-    stopped: "-33.90e6"
+    zh-hans: 普里阿邦阶
+    zh-hant: 普里阿邦階
+    zh-hk: 普里阿邦階
+  next_:
+    item: '[[../Epoch-034~Oligocene/Age~1~Rupelian|Age~1~Rupelian]]'
+  previous_:
+    item: '[[Age~3~Bartonian]]'
   text_of_:
-    color: "0xFDCDA1"
+    color: 0xFDCDA1
+  time_:
+    started: -37.71e6
+    stopped: -33.90e6
 dv_is_:
   same_as:
-    - "[[WD~Priabonian,508438]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~4~Priabonian|Age~4~Priabonian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~4~Priabonian.public|Age~4~Priabonian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~4~Priabonian.internal|Age~4~Priabonian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~4~Priabonian.protect|Age~4~Priabonian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~4~Priabonian.private|Age~4~Priabonian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~4~Priabonian.personal|Age~4~Priabonian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~4~Priabonian.secret|Age~4~Priabonian.secret]]"
-dv_has_duration_years: "3.810e+6"
-dv_has_previous_item: "[[Age~3~Bartonian]]"
-dv_has_next_item: "[[../Epoch-034~Oligocene/Age~1~Rupelian|Age~1~Rupelian]]"
+  - '[[WD~Priabonian,508438]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~4~Priabonian|Age~4~Priabonian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~4~Priabonian.public|Age~4~Priabonian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~4~Priabonian.internal|Age~4~Priabonian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~4~Priabonian.protect|Age~4~Priabonian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~4~Priabonian.private|Age~4~Priabonian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~4~Priabonian.personal|Age~4~Priabonian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~4~Priabonian.secret|Age~4~Priabonian.secret]]'
+dv_has_duration_years: 3.810e+6
+dv_has_previous_item: '[[Age~3~Bartonian]]'
+dv_has_next_item: '[[../Epoch-034~Oligocene/Age~1~Rupelian|Age~1~Rupelian]]'
 dv_is_same_as:
-  - "[[WD~Priabonian,508438]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~4~Priabonian|Age~4~Priabonian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~4~Priabonian.public|Age~4~Priabonian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~4~Priabonian.internal|Age~4~Priabonian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~4~Priabonian.protect|Age~4~Priabonian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~4~Priabonian.private|Age~4~Priabonian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~4~Priabonian.personal|Age~4~Priabonian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~4~Priabonian.secret|Age~4~Priabonian.secret]]"
+- '[[WD~Priabonian,508438]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~4~Priabonian|Age~4~Priabonian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~4~Priabonian.public|Age~4~Priabonian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~4~Priabonian.internal|Age~4~Priabonian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~4~Priabonian.protect|Age~4~Priabonian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~4~Priabonian.private|Age~4~Priabonian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~4~Priabonian.personal|Age~4~Priabonian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~4~Priabonian.secret|Age~4~Priabonian.secret]]'
 dv_has_name_bg: Приабон
 dv_has_name_cs: Priabon
 dv_has_name_da: Priabonien
@@ -96,9 +142,9 @@ dv_has_name_sl: priabonij
 dv_has_name_sv: priabon
 dv_has_name_zh: 普里阿邦期
 dv_has_name_abbreviated: e7
-dv_has_time_started: "-37.71e6"
-dv_has_time_stopped: "-33.90e6"
-dv_has_text_of_color: "0xFDCDA1"
+dv_has_time_started: -37.71e6
+dv_has_time_stopped: -33.90e6
+dv_has_text_of_color: 0xFDCDA1
 ---
 # [[Age~4~Priabonian]] 
 

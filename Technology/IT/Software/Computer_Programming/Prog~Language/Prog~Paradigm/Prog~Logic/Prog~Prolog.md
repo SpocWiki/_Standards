@@ -1,8 +1,96 @@
 ---
 has_id_wikidata: Q163468
+dv_has_:
+  name_:
+    an: Prolog
+    ar: برولوغ
+    ast: Prolog
+    az: Proloq dili
+    be: Пралог
+    bg: Пролог
+    bn: প্রোলগ
+    ca: Prolog
+    cs: Prolog
+    da: Prolog
+    de: Prolog
+    el: Prolog
+    en: Prolog
+    eo: Prologo
+    es: Prolog
+    et: Prolog
+    eu: Prolog
+    fa: پرولوگ
+    fi: Prolog
+    fr: Prolog
+    ga: Prolog
+    gl: Prolog
+    hak: Prolog
+    he: פרולוג
+    hr: Prolog
+    hu: Prolog
+    id: Prolog
+    io: Prolog
+    is: Prolog
+    it: Prolog
+    ja: Prolog
+    jbo: prolog
+    ko: 프롤로그
+    lb: Prolog
+    lt: Prolog
+    lv: Prolog
+    mk: Пролог
+    ms: Prolog
+    mul: Prolog
+    nb: Prolog
+    nl: Prolog
+    nn: Prolog
+    pdc: Prolog
+    pl: Prolog
+    pt: Prolog
+    ro: Prolog
+    ru: Пролог
+    rue: Пролоґ
+    sco: Prolog
+    sgs: Prolog
+    sk: Prolog
+    sl: Prolog
+    sr: Prolog
+    sv: Prolog
+    syl: ꠙꠞꠟꠉ
+    ta: புரொலாக்
+    tg: Пролог
+    tg-latn: Prolog
+    th: ภาษาโปรล็อก
+    tr: Prolog
+    uk: Пролог
+    uz: Prolog
+    vec: Prolog
+    vi: Prolog
+    yo: Prolog
+    yue: Prolog
+    zh: Prolog
+    zh-cn: Prolog
+    zh-hans: Prolog
+    zh-hant: Prolog
+    zh-hk: Prolog
+    zh-sg: Prolog
+    zh-tw: Prolog
+aliases:
+- Prolog
+- Prologo
+- Proloq dili
+- Пралог
+- Пролог
+- Пролоґ
+- פרולוג
+- برولوغ
+- پرولوگ
+- প্রোলগ
+- புரொலாக்
+- ภาษาโปรล็อก
+- ꠙꠞꠟꠉ
+- 프롤로그
 ---
-
-
 # [[Prog~Prolog]] 
 
 #is_a_/ComputerLanguage 

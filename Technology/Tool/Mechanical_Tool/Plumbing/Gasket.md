@@ -1,22 +1,100 @@
 ---
 aliases:
-  - Dichtung
-  - Gasket
+- afdichting
+- brtva
+- Dichtung
+- garnitură
+- Gasket
+- Guarnission
+- guarnizione
+- joint
+- junta
+- junta d'estanquitat
+- junta mecánica
+- Kipləşdirici
+- pakning
+- tesnilo
+- Tihend
+- tätning
+- těsnění
+- Uszczelka
+- Xunta d'estanqueidá
+- xunta mecánica
+- zigilu hermetiko
+- заптивка
+- Защільнювальна прокладка
+- Нығыздағыш
+- Плосък уплътнител
+- подлошка
+- пракладка
+- уплотняющая прокладка
+- אטם
+- حشية
+- درزبند
+- அடைப்பி
+- ဂတ်စကက်
+- መድፈኛ
+- ガスケット
+- 墊片
+- 爭口
+- 개스킷
 has_id_wikidata: Q1132541
 described_by_source: '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
 different_from: '[[_Standards/WikiData/WD~Q9367487,9367487]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~seal,17004810]]'
-  - '[[_Standards/WikiData/WD~plumbing_fittings_&_support,116970842]]'
+- '[[_Standards/WikiData/WD~seal,17004810]]'
+- '[[_Standards/WikiData/WD~plumbing_fittings_&_support,116970842]]'
 made_from_material: '[[_Standards/WikiData/WD~rubber,18113858]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~type_of_machine_element,44409287]]'
-  - '[[_Standards/WikiData/WD~product_category,63981612]]'
+- '[[_Standards/WikiData/WD~type_of_machine_element,44409287]]'
+- '[[_Standards/WikiData/WD~product_category,63981612]]'
 Nomenclature_for_Museum_Cataloging: 6586
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gaskets.jpg
 Commons_category: Gaskets
+dv_has_:
+  name_:
+    am: መድፈኛ
+    ar: حشية
+    ast: Xunta d'estanqueidá
+    az: Kipləşdirici
+    be-tarask: пракладка
+    bg: Плосък уплътнител
+    ca: junta d'estanquitat
+    cs: těsnění
+    da: pakning
+    de: Dichtung
+    en: gasket
+    es: junta mecánica
+    et: Tihend
+    eu: zigilu hermetiko
+    fa: درزبند
+    fr: joint
+    gl: xunta mecánica
+    he: אטם
+    hr: brtva
+    id: gasket
+    it: guarnizione
+    ja: ガスケット
+    kk: Нығыздағыш
+    ko: 개스킷
+    mk: подлошка
+    my: ဂတ်စကက်
+    nb: pakning
+    nl: afdichting
+    pl: Uszczelka
+    pms: Guarnission
+    pt: junta
+    pt-br: junta
+    ro: garnitură
+    ru: уплотняющая прокладка
+    sl: tesnilo
+    sr: заптивка
+    sv: tätning
+    ta: அடைப்பி
+    uk: Защільнювальна прокладка
+    yue: 爭口
+    zh: 墊片
 ---
-
 # [[Gasket]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Gasket,1132541|WD~Gasket,1132541]] 

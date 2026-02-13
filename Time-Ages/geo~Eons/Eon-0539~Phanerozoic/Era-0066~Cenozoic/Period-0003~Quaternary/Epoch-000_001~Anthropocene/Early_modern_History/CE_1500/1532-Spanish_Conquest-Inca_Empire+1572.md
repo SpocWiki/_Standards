@@ -1,17 +1,54 @@
 ---
 aliases:
-  - Spanish conquest Inca Empire
-  - Spanish conquest of the Inca Empire
-  - Spanish_conquest_of_the_Inca_Empire
-  - 1532-Spanish_Conquest-Inca_Empire+1572
-  - 1532-Spanish Conquest-Inca Empire+1572
+- 1532-Spanish Conquest-Inca Empire+1572
+- 1532-Spanish_Conquest-Inca_Empire+1572
+- Concas na Spáinneach ar Impireacht na nInceach
+- Conquesta espanyola de l'Imperi inca
+- conquista del Imperio incaico
+- Conquista del Perú
+- Conquista dell'impero Inca
+- Conquista do Império Inca
+- Conquista española do Imperio Inca
+- conquête de l'empire inca
+- Hispania konkero de la Inkaa imperio
+- Hiszpański podbój Peru
+- Inka Inperioko konkista
+- Inkarikets fall
+- Inkavaltion valloitus
+- Penaklukan Empayar Inca oleh Sepanyol
+- Penaklukan Kerajaan Inka oleh Spanyol
+- Peru užkariavimas
+- Spaanse verowering van die Inka-ryk
+- Spanische Eroberung Perus
+- Spanish conquest Inca Empire
+- Spanish conquest of the Inca Empire
+- Spanish_conquest_of_the_Inca_Empire
+- Tây Ban Nha chinh phục Đế quốc Inca
+- İnka İmparatorluğu'nun İspanyollar tarafından fethi
+- Špansko osvajanje Perua
+- špansko zavzetje inkovskega imperija
+- španělské dobytí Incké říše
+- іспанскае заваяванне інкаў
+- Іспанське завоювання інків
+- гішпанская заваёва інкаў
+- Испанское завоевание инков
+- Шпанско освојување на Империјата на Инките
+- הכיבוש הספרדי של אימפריית האינקה
+- الغزو الإسباني لإمبراطورية إنكا
+- انکا سلطنت دی ہسپانوی فتح
+- انکا سلطنت کی ہسپانوی فتح
+- فتح پرو توسط اسپانیا
+- ინკების დაპყრობა ესპანელების მიერ
+- スペインによるインカ帝国の征服
+- 西班牙征服印加帝国
+- 페루 정복
 has_id_wikidata: Q636771
-instance_of: "[[_Standards/WikiData/WD~conquest,1361229]]"
+instance_of: '[[_Standards/WikiData/WD~conquest,1361229]]'
 participant:
-  - "[[_Standards/WikiData/WD~Inca_civilization,3404008]]"
-  - "[[_Standards/WikiData/WD~Francisco_Pizarro,44741]]"
+- '[[_Standards/WikiData/WD~Inca_civilization,3404008]]'
+- '[[_Standards/WikiData/WD~Francisco_Pizarro,44741]]'
 end_time: 1572-01-01T00:00:00Z
-locations: "[[_Standards/WikiData/WD~Inca_Empire,28573]]"
+locations: '[[_Standards/WikiData/WD~Inca_Empire,28573]]'
 point_in_time: 1532-01-01T00:00:00Z
 start_time: 1532-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Inca-Spanish%20confrontation.JPG
@@ -20,26 +57,64 @@ Commons_category: Spanish conquest of the Inca Empire
 coordinate_location: Point(-71.983333 -13.522222)
 dv_is_:
   same_as:
-    - "[[../../../../../../../../WikiData/WD~Spanish_conquest_of_the_Inca_Empire,636771|WD~Spanish_conquest_of_the_Inca_Empire,636771]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1532-Spanish_Conquest-Inca_Empire+1572|1532-Spanish_Conquest-Inca_Empire+1572]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1532-Spanish_Conquest-Inca_Empire+1572.public|1532-Spanish_Conquest-Inca_Empire+1572.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1532-Spanish_Conquest-Inca_Empire+1572.internal|1532-Spanish_Conquest-Inca_Empire+1572.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1532-Spanish_Conquest-Inca_Empire+1572.protect|1532-Spanish_Conquest-Inca_Empire+1572.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1532-Spanish_Conquest-Inca_Empire+1572.private|1532-Spanish_Conquest-Inca_Empire+1572.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1532-Spanish_Conquest-Inca_Empire+1572.personal|1532-Spanish_Conquest-Inca_Empire+1572.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1532-Spanish_Conquest-Inca_Empire+1572.secret|1532-Spanish_Conquest-Inca_Empire+1572.secret]]"
+  - '[[../../../../../../../../WikiData/WD~Spanish_conquest_of_the_Inca_Empire,636771|WD~Spanish_conquest_of_the_Inca_Empire,636771]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1532-Spanish_Conquest-Inca_Empire+1572|1532-Spanish_Conquest-Inca_Empire+1572]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1532-Spanish_Conquest-Inca_Empire+1572.public|1532-Spanish_Conquest-Inca_Empire+1572.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1532-Spanish_Conquest-Inca_Empire+1572.internal|1532-Spanish_Conquest-Inca_Empire+1572.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1532-Spanish_Conquest-Inca_Empire+1572.protect|1532-Spanish_Conquest-Inca_Empire+1572.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1532-Spanish_Conquest-Inca_Empire+1572.private|1532-Spanish_Conquest-Inca_Empire+1572.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1532-Spanish_Conquest-Inca_Empire+1572.personal|1532-Spanish_Conquest-Inca_Empire+1572.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1532-Spanish_Conquest-Inca_Empire+1572.secret|1532-Spanish_Conquest-Inca_Empire+1572.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Spanish_conquest_of_the_Inca_Empire,636771|WD~Spanish_conquest_of_the_Inca_Empire,636771]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1532-Spanish_Conquest-Inca_Empire+1572|1532-Spanish_Conquest-Inca_Empire+1572]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1532-Spanish_Conquest-Inca_Empire+1572.public|1532-Spanish_Conquest-Inca_Empire+1572.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1532-Spanish_Conquest-Inca_Empire+1572.internal|1532-Spanish_Conquest-Inca_Empire+1572.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1532-Spanish_Conquest-Inca_Empire+1572.protect|1532-Spanish_Conquest-Inca_Empire+1572.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1532-Spanish_Conquest-Inca_Empire+1572.private|1532-Spanish_Conquest-Inca_Empire+1572.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1532-Spanish_Conquest-Inca_Empire+1572.personal|1532-Spanish_Conquest-Inca_Empire+1572.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1532-Spanish_Conquest-Inca_Empire+1572.secret|1532-Spanish_Conquest-Inca_Empire+1572.secret]]"
+- '[[../../../../../../../../WikiData/WD~Spanish_conquest_of_the_Inca_Empire,636771|WD~Spanish_conquest_of_the_Inca_Empire,636771]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1532-Spanish_Conquest-Inca_Empire+1572|1532-Spanish_Conquest-Inca_Empire+1572]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1532-Spanish_Conquest-Inca_Empire+1572.public|1532-Spanish_Conquest-Inca_Empire+1572.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1532-Spanish_Conquest-Inca_Empire+1572.internal|1532-Spanish_Conquest-Inca_Empire+1572.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1532-Spanish_Conquest-Inca_Empire+1572.protect|1532-Spanish_Conquest-Inca_Empire+1572.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1532-Spanish_Conquest-Inca_Empire+1572.private|1532-Spanish_Conquest-Inca_Empire+1572.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1532-Spanish_Conquest-Inca_Empire+1572.personal|1532-Spanish_Conquest-Inca_Empire+1572.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1532-Spanish_Conquest-Inca_Empire+1572.secret|1532-Spanish_Conquest-Inca_Empire+1572.secret]]'
+dv_has_:
+  name_:
+    af: Spaanse verowering van die Inka-ryk
+    ar: الغزو الإسباني لإمبراطورية إنكا
+    ast: Conquista del Perú
+    be: іспанскае заваяванне інкаў
+    be-tarask: гішпанская заваёва інкаў
+    ca: Conquesta espanyola de l'Imperi inca
+    cs: španělské dobytí Incké říše
+    de: Spanische Eroberung Perus
+    en: Spanish conquest of the Inca Empire
+    eo: Hispania konkero de la Inkaa imperio
+    es: conquista del Imperio incaico
+    eu: Inka Inperioko konkista
+    fa: فتح پرو توسط اسپانیا
+    fi: Inkavaltion valloitus
+    fr: conquête de l'empire inca
+    ga: Concas na Spáinneach ar Impireacht na nInceach
+    gl: Conquista española do Imperio Inca
+    he: הכיבוש הספרדי של אימפריית האינקה
+    id: Penaklukan Kerajaan Inka oleh Spanyol
+    it: Conquista dell'impero Inca
+    ja: スペインによるインカ帝国の征服
+    ka: ინკების დაპყრობა ესპანელების მიერ
+    ko: 페루 정복
+    lt: Peru užkariavimas
+    mk: Шпанско освојување на Империјата на Инките
+    ms: Penaklukan Empayar Inca oleh Sepanyol
+    nn: Inkarikets fall
+    pl: Hiszpański podbój Peru
+    pnb: انکا سلطنت دی ہسپانوی فتح
+    pt: Conquista do Império Inca
+    ru: Испанское завоевание инков
+    sl: špansko zavzetje inkovskega imperija
+    sr: Špansko osvajanje Perua
+    tr: İnka İmparatorluğu'nun İspanyollar tarafından fethi
+    uk: Іспанське завоювання інків
+    ur: انکا سلطنت کی ہسپانوی فتح
+    vi: Tây Ban Nha chinh phục Đế quốc Inca
+    zh: 西班牙征服印加帝国
 ---
-
-
 # [[1532-Spanish_Conquest-Inca_Empire+1572]]
 
 #is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Spanish_conquest_of_the_Inca_Empire,636771|WD~Spanish_conquest_of_the_Inca_Empire,636771]]  

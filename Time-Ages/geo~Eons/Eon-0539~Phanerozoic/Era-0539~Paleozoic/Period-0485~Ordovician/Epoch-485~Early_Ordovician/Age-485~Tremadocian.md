@@ -1,33 +1,43 @@
 ---
 aliases:
-  - Tremadocian
-  - Тремадок
-  - Tremadok
-  - Tremadocien
-  - Tremadocium
-  - Tremadociense
-  - Tremadoci
-  - Tremadoc
-  - Trémadocien
-  - tremadoci
-  - tremadociano
-  - トレマドキアン期
-  - Tremadokis
-  - Tremadociën
-  - Tremadociano
-  - tremadok
-  - tremadocij
-  - tremadoc
-  - 特马豆克期
+- Tremadoc
+- Tremadoci
+- Tremadoci lade
+- Tremadocian
+- tremadociano
+- Tremadocien
+- Tremadociense
+- tremadocij
+- Tremadocium
+- Tremadocià
+- Tremadociën
+- Tremadok
+- Tremadokis
+- Tremadosium
+- Trimaducianu
+- Trémadocien
+- Tремадок
+- Tầng Tremadoc
+- Тремадок
+- Тремадок жікқабаты, тремадок
+- Тремадокий
+- тремадокский ярус
+- Тремадокський ярус
+- التريمادوشي
+- ترمادوسین
+- トレマドキアン
+- トレマドキアン期
+- 特馬豆克階
+- 特马豆克期
 has_id_wikidata: Q1267676
-named_by: "[[_Standards/WikiData/WD~Adam_Sedgwick,350891]]"
+named_by: '[[_Standards/WikiData/WD~Adam_Sedgwick,350891]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-named_after: "[[_Standards/WikiData/WD~Tremadog,2035368]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Tremadocian,30869529]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_Tremadocian,134880783]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+named_after: '[[_Standards/WikiData/WD~Tremadog,2035368]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Tremadocian,30869529]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_Tremadocian,134880783]]'
 end_time: -477700000-01-01T00:00:00Z
 start_time: -485400000-01-01T00:00:00Z
 coordinate_location: Point(-57.9653 49.6829)
@@ -35,60 +45,76 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Rock%20of%20Skiddaw%20
 sRGB_color_hex_triplet: 00B698
 dv_has_:
   duration_:
-    years: "7.700e+6"
-  previous_:
-    item: "[[../../Period-0539~Cambrian/Epoch-497~Furongian/Age-490~Cambrian_Stage_10|Age-490~Cambrian_Stage_10]]"
-  next_:
-    item: "[[Age-477~Floian]]"
+    years: 7.700e+6
   name_:
-    bg: Тремадок
+    abbreviated: o1
+    ar: التريمادوشي
+    bg: Тремадокий
+    ca: Tremadocià
     cs: Tremadok
     da: Tremadocien
     de: Tremadocium
+    en: Tremadocian
+    en-us: Tremadocian
     es: Tremadociense
-    et: Tremadoci
+    et: Tremadoci lade
+    fa: ترمادوسین
     fi: Tremadoc
     fr: Trémadocien
     hu: tremadoci
-    it: tremadociano
-    ja: トレマドキアン期
+    id: Tremadosium
+    it: Tremadociano
+    ja: トレマドキアン
+    kk: Тремадок жікқабаты, тремадок
     lt: Tremadokis
-    nl: Tremadociën
+    nl: Tremadocien
+    nn: tremadoc
     no: Tremadoc
     pl: Tremadok
     pt: Tremadociano
+    ru: тремадокский ярус
+    scn: Trimaducianu
+    sh: Tremadok
     sk: tremadok
     sl: tremadocij
+    sr: Тремадок
+    sr-ec: Tремадок
     sv: tremadoc
-    zh: 特马豆克期
-    abbreviated: o1
-  time_:
-    started: "-485.4e6"
-    stopped: "-477.7e6"
+    uk: Тремадокський ярус
+    vi: Tầng Tremadoc
+    zh: 特馬豆克階
+    zh-hant: 特馬豆克階
+  next_:
+    item: '[[Age-477~Floian]]'
+  previous_:
+    item: '[[../../Period-0539~Cambrian/Epoch-497~Furongian/Age-490~Cambrian_Stage_10|Age-490~Cambrian_Stage_10]]'
   text_of_:
-    color: "0x33A97E"
+    color: 0x33A97E
+  time_:
+    started: -485.4e6
+    stopped: -477.7e6
 dv_is_:
   same_as:
-    - "[[WD~Tremadocian,1267676]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian|Age-485~Tremadocian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian.public|Age-485~Tremadocian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian.internal|Age-485~Tremadocian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian.protect|Age-485~Tremadocian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian.private|Age-485~Tremadocian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian.personal|Age-485~Tremadocian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian.secret|Age-485~Tremadocian.secret]]"
-dv_has_duration_years: "7.700e+6"
-dv_has_previous_item: "[[../../Period-0539~Cambrian/Epoch-497~Furongian/Age-490~Cambrian_Stage_10|Age-490~Cambrian_Stage_10]]"
-dv_has_next_item: "[[Age-477~Floian]]"
+  - '[[WD~Tremadocian,1267676]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian|Age-485~Tremadocian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian.public|Age-485~Tremadocian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian.internal|Age-485~Tremadocian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian.protect|Age-485~Tremadocian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian.private|Age-485~Tremadocian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian.personal|Age-485~Tremadocian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian.secret|Age-485~Tremadocian.secret]]'
+dv_has_duration_years: 7.700e+6
+dv_has_previous_item: '[[../../Period-0539~Cambrian/Epoch-497~Furongian/Age-490~Cambrian_Stage_10|Age-490~Cambrian_Stage_10]]'
+dv_has_next_item: '[[Age-477~Floian]]'
 dv_is_same_as:
-  - "[[WD~Tremadocian,1267676]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian|Age-485~Tremadocian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian.public|Age-485~Tremadocian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian.internal|Age-485~Tremadocian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian.protect|Age-485~Tremadocian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian.private|Age-485~Tremadocian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian.personal|Age-485~Tremadocian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian.secret|Age-485~Tremadocian.secret]]"
+- '[[WD~Tremadocian,1267676]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian|Age-485~Tremadocian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian.public|Age-485~Tremadocian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian.internal|Age-485~Tremadocian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian.protect|Age-485~Tremadocian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian.private|Age-485~Tremadocian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian.personal|Age-485~Tremadocian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian.secret|Age-485~Tremadocian.secret]]'
 dv_has_name_bg: Тремадок
 dv_has_name_cs: Tremadok
 dv_has_name_da: Tremadocien
@@ -110,9 +136,9 @@ dv_has_name_sl: tremadocij
 dv_has_name_sv: tremadoc
 dv_has_name_zh: 特马豆克期
 dv_has_name_abbreviated: o1
-dv_has_time_started: "-485.4e6"
-dv_has_time_stopped: "-477.7e6"
-dv_has_text_of_color: "0x33A97E"
+dv_has_time_started: -485.4e6
+dv_has_time_stopped: -477.7e6
+dv_has_text_of_color: 0x33A97E
 ---
 # [[Age-485~Tremadocian]] 
 

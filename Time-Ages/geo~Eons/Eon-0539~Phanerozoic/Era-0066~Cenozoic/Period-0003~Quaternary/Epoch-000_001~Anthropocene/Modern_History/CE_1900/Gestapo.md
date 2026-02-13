@@ -1,30 +1,58 @@
 ---
 location:
-  - 13.3825
-  - 52.507222
+- 13.3825
+- 52.507222
 aliases:
-  - Gestapo
-  - Geheime Staatspolizei
+- Geheime Staatspolizei
+- Gestapas
+- Gestapo
+- Γκεστάπο
+- Гестапа
+- гестапо
+- Таемная дзяржаўная паліцыя
+- Գեստապո
+- גסטפו
+- געשטאפא
+- جيستابو
+- غيستابو
+- گسٹاپو
+- گشتاپو
+- گێستاپۆ
+- گېستاپو
+- गेस्टापो
+- গেস্টাপো
+- ગેસ્ટાપો
+- கெஷ்டாபோ
+- ഗസ്റ്റപ്പോ
+- เกสตาโป
+- ဂက်စတာပို
+- გესტაპო
+- ゲシュタポ
+- 盖世太保
+- 秘密國家警察
+- 纳粹秘警
+- 蓋世太保
+- 게슈타포
 has_id_wikidata: Q43250
-parent_organization: "[[_Standards/WikiData/WD~Reich_Main_Security_Office,152698]]"
+parent_organization: '[[_Standards/WikiData/WD~Reich_Main_Security_Office,152698]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~secret_police,214183]]"
-  - "[[_Standards/WikiData/WD~political_police,2101516]]"
-replaces: "[[_Standards/WikiData/WD~Prussian_Secret_Police,480016]]"
-follows: "[[_Standards/WikiData/WD~Prussian_Secret_Police,480016]]"
-different_from: "[[_Standards/WikiData/WD~Geheime_Feldpolizei,548226]]"
-headquarters_locations: "[[_Standards/WikiData/WD~Prinz_Albrecht_Palais,2110526]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
-has_part_s_: "[[_Standards/WikiData/WD~Q133575633,133575633]]"
-child_organization_unit: "[[_Standards/WikiData/WD~Q133575633,133575633]]"
-applies_to_jurisdiction: "[[_Standards/WikiData/WD~Nazi_Germany,7318]]"
-country: "[[_Standards/WikiData/WD~Nazi_Germany,7318]]"
-founded_by: "[[_Standards/WikiData/WD~Hermann_Göring,47906]]"
+- '[[_Standards/WikiData/WD~secret_police,214183]]'
+- '[[_Standards/WikiData/WD~political_police,2101516]]'
+replaces: '[[_Standards/WikiData/WD~Prussian_Secret_Police,480016]]'
+follows: '[[_Standards/WikiData/WD~Prussian_Secret_Police,480016]]'
+different_from: '[[_Standards/WikiData/WD~Geheime_Feldpolizei,548226]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Prinz_Albrecht_Palais,2110526]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+has_part_s_: '[[_Standards/WikiData/WD~Q133575633,133575633]]'
+child_organization_unit: '[[_Standards/WikiData/WD~Q133575633,133575633]]'
+applies_to_jurisdiction: '[[_Standards/WikiData/WD~Nazi_Germany,7318]]'
+country: '[[_Standards/WikiData/WD~Nazi_Germany,7318]]'
+founded_by: '[[_Standards/WikiData/WD~Hermann_Göring,47906]]'
 chairperson:
-  - "[[_Standards/WikiData/WD~Heinrich_Müller,58030]]"
-  - "[[_Standards/WikiData/WD~Reinhard_Heydrich,60039]]"
-  - "[[_Standards/WikiData/WD~Rudolf_Diels,60940]]"
+- '[[_Standards/WikiData/WD~Heinrich_Müller,58030]]'
+- '[[_Standards/WikiData/WD~Reinhard_Heydrich,60039]]'
+- '[[_Standards/WikiData/WD~Rudolf_Diels,60940]]'
 BHCL_UUID: 29c1f725-2db9-45f5-9da3-3d0fcfd735ef
 Commons_category: Gestapo
 official_name: Geheime Staatspolizei
@@ -38,25 +66,123 @@ IMDb_keyword: gestapo
 coordinate_location: Point(13.3825 52.507222)
 dv_is_:
   same_as:
-    - "[[../../../../../../../../WikiData/WD~Gestapo,43250|WD~Gestapo,43250]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/Gestapo|Gestapo]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/Gestapo.public|Gestapo.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/Gestapo.internal|Gestapo.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/Gestapo.protect|Gestapo.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/Gestapo.private|Gestapo.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/Gestapo.personal|Gestapo.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/Gestapo.secret|Gestapo.secret]]"
+  - '[[../../../../../../../../WikiData/WD~Gestapo,43250|WD~Gestapo,43250]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/Gestapo|Gestapo]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/Gestapo.public|Gestapo.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/Gestapo.internal|Gestapo.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/Gestapo.protect|Gestapo.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/Gestapo.private|Gestapo.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/Gestapo.personal|Gestapo.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/Gestapo.secret|Gestapo.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Gestapo,43250|WD~Gestapo,43250]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/Gestapo|Gestapo]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/Gestapo.public|Gestapo.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/Gestapo.internal|Gestapo.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/Gestapo.protect|Gestapo.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/Gestapo.private|Gestapo.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/Gestapo.personal|Gestapo.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/Gestapo.secret|Gestapo.secret]]"
+- '[[../../../../../../../../WikiData/WD~Gestapo,43250|WD~Gestapo,43250]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/Gestapo|Gestapo]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/Gestapo.public|Gestapo.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/Gestapo.internal|Gestapo.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/Gestapo.protect|Gestapo.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/Gestapo.private|Gestapo.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/Gestapo.personal|Gestapo.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/Gestapo.secret|Gestapo.secret]]'
+dv_has_:
+  name_:
+    af: Gestapo
+    ar: غيستابو
+    arz: جيستابو
+    ast: Gestapo
+    az: Gestapo
+    bcl: Gestapo
+    be: Гестапа
+    be-tarask: Таемная дзяржаўная паліцыя
+    bg: Гестапо
+    bn: গেস্টাপো
+    br: Gestapo
+    bs: Gestapo
+    ca: Gestapo
+    ckb: گێستاپۆ
+    cs: Gestapo
+    cy: Gestapo
+    da: Gestapo
+    de: Geheime Staatspolizei
+    el: Γκεστάπο
+    en: Gestapo
+    eo: Gestapo
+    es: Gestapo
+    et: Gestapo
+    eu: Gestapo
+    fa: گشتاپو
+    fi: Gestapo
+    fr: Gestapo
+    fy: Gestapo
+    ga: Gestapo
+    gd: Gestapo
+    gl: Gestapo
+    gu: ગેસ્ટાપો
+    gv: Gestapo
+    he: גסטפו
+    hr: Gestapo
+    hu: Gestapo
+    hy: Գեստապո
+    id: Gestapo
+    is: Gestapo
+    it: Gestapo
+    ja: ゲシュタポ
+    jv: Gestapo
+    ka: გესტაპო
+    kk: Гестапо
+    ko: 게슈타포
+    ky: Гестапо
+    la: Gestapo
+    lb: Geheime Staatspolizei
+    lfn: Gestapo
+    lmo: Gestapo
+    lt: Gestapas
+    lv: Gestapo
+    mg: Gestapo
+    mk: Гестапо
+    ml: ഗസ്റ്റപ്പോ
+    mn: Гестапо
+    ms: Gestapo
+    my: ဂက်စတာပို
+    nb: Gestapo
+    new: गेस्टापो
+    nl: Gestapo
+    nn: Gestapo
+    oc: Gestapo
+    pl: Gestapo
+    pnb: گسٹاپو
+    pt: Gestapo
+    pt-br: Gestapo
+    ro: Gestapo
+    ru: гестапо
+    sco: Gestapo
+    sh: Gestapo
+    sk: Gestapo
+    sl: Gestapo
+    sq: Gestapo
+    sr: Гестапо
+    stq: Gestapo
+    sv: Gestapo
+    ta: கெஷ்டாபோ
+    tg: Гестапо
+    th: เกสตาโป
+    tl: Gestapo
+    tr: Gestapo
+    tyv: Гестапо
+    ug: گېستاپو
+    uk: Гестапо
+    ur: گسٹاپو
+    uz: Gestapo
+    vi: Gestapo
+    war: Gestapo
+    wuu: 纳粹秘警
+    xmf: გესტაპო
+    yi: געשטאפא
+    yue: 秘密國家警察
+    zh: 蓋世太保
+    zh-cn: 盖世太保
+    zh-hans: 盖世太保
+    zh-hant: 蓋世太保
 ---
-
 # [[Gestapo]]
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Gestapo,43250|WD~Gestapo,43250]]

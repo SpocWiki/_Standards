@@ -1,8 +1,126 @@
 ---
 has_id_wikidata: Q223571
+dv_has_:
+  name_:
+    af: Ruimtepak
+    an: Trache espacial
+    ar: بذلة فضاء
+    arz: بدلة فضا
+    ast: traxe espacial
+    az: Skafandr
+    ba: Скафандр
+    be: Скафандр
+    be-tarask: скафандар
+    bg: Космически скафандър
+    ca: vestit espacial
+    cs: skafandr
+    da: Rumdragt
+    de: Raumanzug
+    el: διαστημική στολή
+    en: space suit
+    eo: kosmovesto
+    es: traje espacial
+    et: skafander
+    eu: espazio-jantzi
+    fa: لباس فضایی
+    fi: avaruuspuku
+    fr: combinaison spatiale
+    ga: culaith spáis
+    gl: traxe espacial
+    he: חליפת חלל
+    hi: स्पेस सूट
+    hu: űrruha
+    hy: Սկաֆանդր
+    id: pakaian antariksa
+    is: Geimbúningur
+    it: tuta spaziale
+    ja: 宇宙服
+    kk: Скафандр
+    ko: 우주복
+    ky: Скафандр
+    lv: kosmiskais skafandrs
+    mk: скафандер
+    ml: സ്പേസ് സ്യൂട്ട്
+    mr: अंतराळ पोशाख
+    ms: Sut angkasa lepas
+    my: အာကာသဝတ်စုံ
+    nl: ruimtepak
+    pa: ਪੁਲਾੜ ਸੂਟ
+    pl: skafander kosmiczny
+    pt: traje espacial
+    ro: costum spațial
+    ru: скафандр
+    shn: ၶူဝ်းၼုင်ႈၵၢင်ႁၢဝ်
+    sk: Skafander
+    sl: vesoljska obleka
+    sq: Kostum hapësinor
+    sr: скафандер
+    sv: rymddräkt
+    ta: விண் உடை
+    tr: uzay giysisi
+    uk: скафандр
+    uz: Skafandr
+    vi: Bộ đồ vũ trụ
+    yue: 太空衫
+    zh: 太空衣
+    zh-cn: 宇航服
+    zh-hans: 太空衣
+    zh-hant: 太空衣
+    zh-hk: 太空衣
+    zh-sg: 太空衣
+    zh-tw: 太空衣
+aliases:
+- avaruuspuku
+- Bộ đồ vũ trụ
+- combinaison spatiale
+- costum spațial
+- culaith spáis
+- espazio-jantzi
+- Geimbúningur
+- kosmiskais skafandrs
+- kosmovesto
+- Kostum hapësinor
+- pakaian antariksa
+- Raumanzug
+- Ruimtepak
+- Rumdragt
+- rymddräkt
+- skafander
+- skafander kosmiczny
+- Skafandr
+- space suit
+- Sut angkasa lepas
+- Trache espacial
+- traje espacial
+- traxe espacial
+- tuta spaziale
+- uzay giysisi
+- vesoljska obleka
+- vestit espacial
+- űrruha
+- διαστημική στολή
+- Космически скафандър
+- скафандар
+- скафандер
+- скафандр
+- Սկաֆանդր
+- חליפת חלל
+- بدلة فضا
+- بذلة فضاء
+- لباس فضایی
+- अंतराळ पोशाख
+- स्पेस सूट
+- ਪੁਲਾੜ ਸੂਟ
+- விண் உடை
+- സ്പേസ് സ്യൂട്ട്
+- အာကာသဝတ်စုံ
+- ၶူဝ်းၼုင်ႈၵၢင်ႁၢဝ်
+- 太空衣
+- 太空衫
+- 宇宙服
+- 宇航服
+- 우주복
 ---
-
-
 # [[Space_Suit]] 
 
 #is_/same_as :: [[../../WikiData/WD~Space_suit,223571|WD~Space_suit,223571]]  

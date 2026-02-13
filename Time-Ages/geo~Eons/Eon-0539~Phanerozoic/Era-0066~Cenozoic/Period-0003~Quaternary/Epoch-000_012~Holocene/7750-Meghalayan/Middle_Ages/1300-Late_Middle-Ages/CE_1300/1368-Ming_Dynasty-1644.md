@@ -1,75 +1,179 @@
 ---
 location:
-  - 103.0833333
-  - 32.8
+- 103.0833333
+- 32.8
 aliases:
-  - Ming Dynasty
-  - 1368-Ming_Dynasty-1644
-  - 1368-Ming Dynasty-1644
+- 1368-Ming Dynasty-1644
+- 1368-Ming_Dynasty-1644
+- Brenhinllin Ming
+- Bêng-tiâu
+- Dinasti Ming
+- Dinastia Ming
+- Dinastija Ming
+- Dinastio Ming
+- Dinastiya Ming
+- Dinastiyang Ming
+- Dinastìa Ming
+- dinastía Ming
+- dynastie Ming
+- Familia Mim
+- Mairi Ming
+- Min
+- Min imperiýasy
+- Min sülaləsi
+- Ming
+- Ming a Dinastia
+- Ming dinastia
+- Ming Dynasty
+- Ming Hanedanı
+- Ming ñemoñanga
+- Ming-dinastie
+- Ming-dinasztia
+- Ming-dynastia
+- Ming-Dynastie
+- Ming-dynastiet
+- Ming-Dünastii
+- Mingdynastin
+- Mingi dünastia
+- Mingu dinastėjė
+- Mingveldið
+- Mingzciuz
+- Mingų dinastija
+- Minu dinastija
+- Miñ sülâlesi
+- Miŋ Kewiyaɣ Kɩɖɛzaɣ
+- Mìn-chhèu
+- Mìng-dièu
+- nhà Minh
+- reeraghtys Ming
+- Rìgh-shliochd nam Ming
+- ríshliocht Ming
+- tenpo pi kulupu lawa Min
+- Ternieth Ming
+- Tierniezh Ming
+- Wangsa Ming
+- Xanedana Ming
+- Δυναστεία Μινγκ
+- імперія Мін
+- імперыя Мін
+- Дінастія Мінґ
+- Династија Минг
+- дудмони Минг
+- импери Мин
+- империя Мин
+- Мін
+- Миин династията
+- Мин
+- Мин империйӗ
+- Мин империясы
+- Мин империяһы
+- Мин сулалеси
+- Мин улас
+- Мин улс
+- Минг
+- Миң империясе
+- Մին դինաստիա
+- מינג דינאסטיע
+- שושלת מינג
+- ئیمپراتۆریەتیی مینگ
+- اسرة مينج
+- دودمان مینگ
+- دينستي ميڠ
+- سلالة مينغ الحاكمة
+- سلالة مينڭ
+- منگ خاندان
+- منگ سلطنت
+- مىڭ سۇلالىسى
+- مينګ واکمنه کورنۍ
+- مین سولالهسی
+- مینگ سلسله
+- मिंग राजवंश
+- मिंग वंश
+- मिङ शासन
+- मिङ्ग राजवंश
+- মিং রাজবংশ
+- মিং ৰাজবংশ
+- ਮਿੰਗ ਰਾਜਵੰਸ਼
+- மிங் அரசமரபு
+- മിങ് രാജവംശം
+- මිං රාජවංශය
+- ราชวงศ์หมิง
+- ລາຊະວົງມິງ
+- མིང་རྒྱལ་རབས།
+- မင်မင်းဆက်
+- მინის დინასტია
+- მინიშ დინასტია
+- የሚንግ ሥርወ መንግሥት
+- រាជវង្សមិង
+- ᠮᡳᠩ ᡤᡠᡵᡠᠨ
+- 大明
+- 明
+- 明朝
+- 명나라
 has_id_wikidata: Q9903
 Baidu_Tieba_name: 明朝
 population:
-  - 66598337
-  - 71850132
-  - 50950470
-  - 50908672
-  - 51655459
-  - 53281158
-  - 53712925
-  - 53949787
-  - 59873305
-  - 60105835
-  - 60545812
-  - 60692856
-basic_form_of_government: "[[_Standards/WikiData/WD~absolute_monarchy,184558]]"
-currency: "[[_Standards/WikiData/WD~bimetallism,745405]]"
+- 66598337
+- 71850132
+- 50950470
+- 50908672
+- 51655459
+- 53281158
+- 53712925
+- 53949787
+- 59873305
+- 60105835
+- 60545812
+- 60692856
+basic_form_of_government: '[[_Standards/WikiData/WD~absolute_monarchy,184558]]'
+currency: '[[_Standards/WikiData/WD~bimetallism,745405]]'
 replaced_by:
-  - "[[_Standards/WikiData/WD~Southern_Ming_dynasty,1198163]]"
-  - "[[_Standards/WikiData/WD~Shun_dynasty,2370784]]"
-different_from: "[[_Standards/WikiData/WD~House_of_Zhu,5185064]]"
-is_part_of: "[[_Standards/WikiData/WD~Late_Imperial_China,6495224]]"
+- '[[_Standards/WikiData/WD~Southern_Ming_dynasty,1198163]]'
+- '[[_Standards/WikiData/WD~Shun_dynasty,2370784]]'
+different_from: '[[_Standards/WikiData/WD~House_of_Zhu,5185064]]'
+is_part_of: '[[_Standards/WikiData/WD~Late_Imperial_China,6495224]]'
 replaces:
-  - "[[_Standards/WikiData/WD~Song,6821029]]"
-  - "[[_Standards/WikiData/WD~Yuan_dynasty,7313]]"
-  - "[[_Standards/WikiData/WD~Mongol_Empire,12557]]"
+- '[[_Standards/WikiData/WD~Song,6821029]]'
+- '[[_Standards/WikiData/WD~Yuan_dynasty,7313]]'
+- '[[_Standards/WikiData/WD~Mongol_Empire,12557]]'
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Guangxi,7238275]]"
-  - "[[_Standards/WikiData/WD~Yunnan,10880842]]"
-  - "[[_Standards/WikiData/WD~Jiaozhi_Province,10882986]]"
-  - "[[_Standards/WikiData/WD~Beizhili,10903802]]"
-  - "[[_Standards/WikiData/WD~Nanzhili,10908774]]"
-  - "[[_Standards/WikiData/WD~Sichuan,10924826]]"
-  - "[[_Standards/WikiData/WD~Q11044057,11044057]]"
-  - "[[_Standards/WikiData/WD~Guangdong,11061695]]"
-  - "[[_Standards/WikiData/WD~Jiangxi,11135247]]"
-  - "[[_Standards/WikiData/WD~Henan,11141551]]"
-  - "[[_Standards/WikiData/WD~Zhejiang,11148748]]"
-  - "[[_Standards/WikiData/WD~Shaanxi,15903824]]"
-  - "[[_Standards/WikiData/WD~Shanxi,15904338]]"
-  - "[[_Standards/WikiData/WD~Fujian,15910028]]"
-  - "[[_Standards/WikiData/WD~Guizhou,15931753]]"
-  - "[[_Standards/WikiData/WD~Huguang,17031144]]"
-  - "[[_Standards/WikiData/WD~Q47103177,47103177]]"
+- '[[_Standards/WikiData/WD~Guangxi,7238275]]'
+- '[[_Standards/WikiData/WD~Yunnan,10880842]]'
+- '[[_Standards/WikiData/WD~Jiaozhi_Province,10882986]]'
+- '[[_Standards/WikiData/WD~Beizhili,10903802]]'
+- '[[_Standards/WikiData/WD~Nanzhili,10908774]]'
+- '[[_Standards/WikiData/WD~Sichuan,10924826]]'
+- '[[_Standards/WikiData/WD~Q11044057,11044057]]'
+- '[[_Standards/WikiData/WD~Guangdong,11061695]]'
+- '[[_Standards/WikiData/WD~Jiangxi,11135247]]'
+- '[[_Standards/WikiData/WD~Henan,11141551]]'
+- '[[_Standards/WikiData/WD~Zhejiang,11148748]]'
+- '[[_Standards/WikiData/WD~Shaanxi,15903824]]'
+- '[[_Standards/WikiData/WD~Shanxi,15904338]]'
+- '[[_Standards/WikiData/WD~Fujian,15910028]]'
+- '[[_Standards/WikiData/WD~Guizhou,15931753]]'
+- '[[_Standards/WikiData/WD~Huguang,17031144]]'
+- '[[_Standards/WikiData/WD~Q47103177,47103177]]'
 capital:
-  - "[[_Standards/WikiData/WD~Shuntian_Fu,7334692]]"
-  - "[[_Standards/WikiData/WD~Yingtian_Fu,15912502]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Ming_Dynasty_topics,10801511]]"
+- '[[_Standards/WikiData/WD~Shuntian_Fu,7334692]]'
+- '[[_Standards/WikiData/WD~Yingtian_Fu,15912502]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Ming_Dynasty_topics,10801511]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~historical_period,11514315]]"
-  - "[[_Standards/WikiData/WD~historical_Chinese_state,50068795]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_the_Ming_dynasty,16843870]]"
+- '[[_Standards/WikiData/WD~historical_period,11514315]]'
+- '[[_Standards/WikiData/WD~historical_Chinese_state,50068795]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_the_Ming_dynasty,16843870]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q22828770,22828770]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828770,22828770]]'
 official_religion:
-  - "[[_Standards/WikiData/WD~Buddhism,748]]"
-  - "[[_Standards/WikiData/WD~Confucianism,9581]]"
-  - "[[_Standards/WikiData/WD~Taoism,9598]]"
-follows: "[[_Standards/WikiData/WD~Yuan_dynasty,7313]]"
-official_language: "[[_Standards/WikiData/WD~Chinese,7850]]"
-language_used: "[[_Standards/WikiData/WD~Chinese,7850]]"
-continent: "[[_Standards/WikiData/WD~Asia,48]]"
+- '[[_Standards/WikiData/WD~Buddhism,748]]'
+- '[[_Standards/WikiData/WD~Confucianism,9581]]'
+- '[[_Standards/WikiData/WD~Taoism,9598]]'
+follows: '[[_Standards/WikiData/WD~Yuan_dynasty,7313]]'
+official_language: '[[_Standards/WikiData/WD~Chinese,7850]]'
+language_used: '[[_Standards/WikiData/WD~Chinese,7850]]'
+continent: '[[_Standards/WikiData/WD~Asia,48]]'
 area: 6500000
 OmegaWiki_Defined_Meaning: 718091
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Seal%20of%20Ming%20dynasty.svg
@@ -85,32 +189,179 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Ming%20Empire%20cca%20
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Ru-Ming%20Dynasty%20%28intro%29.ogg
 Wolfram_Language_entity_code: Entity["HistoricalCountry", "MingDynasty"]
 dv_has_:
+  name_:
+    af: Ming-dinastie
+    am: የሚንግ ሥርወ መንግሥት
+    an: Dinastía Ming
+    anp: मिंग वंश
+    ar: سلالة مينغ الحاكمة
+    ary: سلالة مينڭ
+    arz: اسرة مينج
+    as: মিং ৰাজবংশ
+    ast: Dinastía Ming
+    az: Min sülaləsi
+    azb: مین سولالهسی
+    ba: Мин империяһы
+    ban: Dinasti Ming
+    be: імперыя Мін
+    be-tarask: Мін
+    bg: Мин
+    bn: মিং রাজবংশ
+    bo: མིང་རྒྱལ་རབས།
+    br: Tierniezh Ming
+    bs: Dinastija Ming
+    bxr: Мин улас
+    ca: Ming
+    cdo: Mìng-dièu
+    ce: Импери Мин
+    ckb: ئیمپراتۆریەتیی مینگ
+    crh: Miñ sülâlesi
+    cs: Ming
+    cv: Мин империйӗ
+    cy: Brenhinllin Ming
+    da: Ming-dynastiet
+    de: Ming-Dynastie
+    el: Δυναστεία Μινγκ
+    en: Ming dynasty
+    eo: Dinastio Ming
+    es: dinastía Ming
+    et: Mingi dünastia
+    eu: Ming dinastia
+    fa: دودمان مینگ
+    fi: Ming-dynastia
+    fr: dynastie Ming
+    frr: Ming-Dünastii
+    ga: ríshliocht Ming
+    gan: 明
+    gd: Rìgh-shliochd nam Ming
+    gl: Dinastía Ming
+    gn: Ming ñemoñanga
+    gsw: Ming-Dynastie
+    gv: reeraghtys Ming
+    hak: Mìn-chhèu
+    he: שושלת מינג
+    hi: मिंग राजवंश
+    hif: Ming Dynasty
+    hr: Ming
+    hu: Ming-dinasztia
+    hy: Մին դինաստիա
+    id: Dinasti Ming
+    ilo: Ming a Dinastia
+    io: Dinastio Ming
+    is: Mingveldið
+    it: dinastia Ming
+    ja: 明
+    jv: Wangsa Ming
+    ka: მინის დინასტია
+    kbp: Miŋ Kewiyaɣ Kɩɖɛzaɣ
+    kk: Мин империясы
+    km: រាជវង្សមិង
+    knc: Mairi Ming
+    ko: 명나라
+    ku: Xanedana Ming
+    kw: Ternieth Ming
+    ky: Мин сулалеси
+    la: Familia Mim
+    lb: Ming-Dynastie
+    lfn: Dinastia Ming
+    lo: ລາຊະວົງມິງ
+    lt: Mingų dinastija
+    lv: Minu dinastija
+    lzh: 明
+    mag: मिङ्ग राजवंश
+    min: Dinasti Ming
+    mk: Минг
+    ml: മിങ് രാജവംശം
+    mn: Мин улс
+    mnc: ᠮᡳᠩ ᡤᡠᡵᡠᠨ
+    mr: मिंग राजवंश
+    ms: Dinasti Ming
+    ms-arab: دينستي ميڠ
+    my: မင်မင်းဆက်
+    mzn: مینگ سلسله
+    nan: Bêng-tiâu
+    nb: Ming-dynastiet
+    nds: Ming-Dynastie
+    ne: मिंग राजवंश
+    new: मिङ शासन
+    nl: Ming-dynastie
+    nn: Ming
+    oc: Dinastia Ming
+    os: импери Мин
+    pa: ਮਿੰਗ ਰਾਜਵੰਸ਼
+    pl: Ming
+    pms: Dinastìa Ming
+    pnb: منگ سلطنت
+    ps: مينګ واکمنه کورنۍ
+    pt: Dinastia Ming
+    pt-br: Dinastia Ming
+    ro: dinastia Ming
+    ru: империя Мин
+    rue: Дінастія Мінґ
+    sah: Миин династията
+    sco: Ming Dynasty
+    sgs: Mingu dinastėjė
+    sh: Dinastija Ming
+    si: මිං රාජවංශය
+    sk: Ming
+    sl: dinastija Ming
+    sq: Dinastia Ming
+    sr: Династија Минг
+    su: Dinasti Ming
+    sv: Mingdynastin
+    sw: Ming
+    ta: மிங் அரசமரபு
+    tg: дудмони Минг
+    th: ราชวงศ์หมิง
+    tk: Min imperiýasy
+    tl: Dinastiyang Ming
+    tok: tenpo pi kulupu lawa Min
+    tr: Ming Hanedanı
+    tt: Миң империясе
+    ug: مىڭ سۇلالىسى
+    uk: імперія Мін
+    ur: منگ خاندان
+    uz: Min
+    vec: Dinastia Ming
+    vi: nhà Minh
+    vro: Mingi dünastia
+    war: Dinastiya Ming
+    wuu: 明朝
+    xmf: მინიშ დინასტია
+    yi: מינג דינאסטיע
+    yue: 大明
+    za: Mingzciuz
+    zh: 明朝
+    zh-cn: 明朝
+    zh-hans: 明朝
+    zh-hant: 明朝
+    zh-hk: 明朝
+    zh-tw: 明朝
   time_:
     started: 1368-06-01T00:00:00.000+00:53
     stopped: 1644-06-01T00:00:00.000+00:53
 dv_is_:
   same_as:
-    - "[[../../../../../../../../../../WikiData/WD~Ming_dynasty,9903|WD~Ming_dynasty,9903]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1368-Ming_Dynasty-1644|1368-Ming_Dynasty-1644]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1368-Ming_Dynasty-1644.public|1368-Ming_Dynasty-1644.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1368-Ming_Dynasty-1644.internal|1368-Ming_Dynasty-1644.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1368-Ming_Dynasty-1644.protect|1368-Ming_Dynasty-1644.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1368-Ming_Dynasty-1644.private|1368-Ming_Dynasty-1644.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1368-Ming_Dynasty-1644.personal|1368-Ming_Dynasty-1644.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1368-Ming_Dynasty-1644.secret|1368-Ming_Dynasty-1644.secret]]"
+  - '[[../../../../../../../../../../WikiData/WD~Ming_dynasty,9903|WD~Ming_dynasty,9903]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1368-Ming_Dynasty-1644|1368-Ming_Dynasty-1644]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1368-Ming_Dynasty-1644.public|1368-Ming_Dynasty-1644.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1368-Ming_Dynasty-1644.internal|1368-Ming_Dynasty-1644.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1368-Ming_Dynasty-1644.protect|1368-Ming_Dynasty-1644.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1368-Ming_Dynasty-1644.private|1368-Ming_Dynasty-1644.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1368-Ming_Dynasty-1644.personal|1368-Ming_Dynasty-1644.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1368-Ming_Dynasty-1644.secret|1368-Ming_Dynasty-1644.secret]]'
 dv_has_time_started: 1368-06-01
 dv_has_time_stopped: 1644-06-01
 dv_is_same_as:
-  - "[[../../../../../../../../../../WikiData/WD~Ming_dynasty,9903|WD~Ming_dynasty,9903]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1368-Ming_Dynasty-1644|1368-Ming_Dynasty-1644]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1368-Ming_Dynasty-1644.public|1368-Ming_Dynasty-1644.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1368-Ming_Dynasty-1644.internal|1368-Ming_Dynasty-1644.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1368-Ming_Dynasty-1644.protect|1368-Ming_Dynasty-1644.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1368-Ming_Dynasty-1644.private|1368-Ming_Dynasty-1644.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1368-Ming_Dynasty-1644.personal|1368-Ming_Dynasty-1644.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1368-Ming_Dynasty-1644.secret|1368-Ming_Dynasty-1644.secret]]"
+- '[[../../../../../../../../../../WikiData/WD~Ming_dynasty,9903|WD~Ming_dynasty,9903]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1368-Ming_Dynasty-1644|1368-Ming_Dynasty-1644]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1368-Ming_Dynasty-1644.public|1368-Ming_Dynasty-1644.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1368-Ming_Dynasty-1644.internal|1368-Ming_Dynasty-1644.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1368-Ming_Dynasty-1644.protect|1368-Ming_Dynasty-1644.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1368-Ming_Dynasty-1644.private|1368-Ming_Dynasty-1644.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1368-Ming_Dynasty-1644.personal|1368-Ming_Dynasty-1644.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1368-Ming_Dynasty-1644.secret|1368-Ming_Dynasty-1644.secret]]'
 ---
-
 # [[1368-Ming_Dynasty-1644]] 
 
 has_time_started = `=this.dv_has_time_started` 

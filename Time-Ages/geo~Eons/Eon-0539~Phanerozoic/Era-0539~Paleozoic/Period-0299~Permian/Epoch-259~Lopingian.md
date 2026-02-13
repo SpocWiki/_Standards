@@ -1,88 +1,120 @@
 ---
 aliases:
-  - Lopingian
-  - Лопинг
-  - Loping
-  - Lopingien
-  - Lopingium
-  - Lopingiense
-  - lopingi
-  - lopingiano
-  - ロピンギアン世
-  - Lopingis
-  - Lopingiën
-  - Lopingiano
-  - loping
-  - lopingij
-  - 乐平世
+- an Sealad Lopaingeach
+- késő perm
+- Leping (geologi)
+- Loping
+- lopingi
+- Lopingian
+- lopingiano
+- Lopingiar
+- Lopingien
+- Lopingiense
+- lopingij
+- lopingijus
+- Lopingis
+- Lopingium
+- Lopingiyen
+- Lopingià
+- Lopingiën
+- Thế Lạc Bình
+- Лопинг
+- лопингиум
+- лопинская эпоха
+- пізня перм
+- اللوبنجي
+- لوپینگین
+- ロピンギアン世
+- ローピンジアン
+- 乐平世
+- 러핑세
 has_id_wikidata: Q1077390
-named_by: "[[_Standards/WikiData/WD~Ferdinand_von_Richthofen,76791]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~Zechstein,184168]]"
+named_by: '[[_Standards/WikiData/WD~Ferdinand_von_Richthofen,76791]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~Zechstein,184168]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~series,312468]]"
-  - "[[_Standards/WikiData/WD~epoch,754897]]"
-named_after: "[[_Standards/WikiData/WD~Leping,1335313]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q32103916,32103916]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+- '[[_Standards/WikiData/WD~series,312468]]'
+- '[[_Standards/WikiData/WD~epoch,754897]]'
+named_after: '[[_Standards/WikiData/WD~Leping,1335313]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q32103916,32103916]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 end_time: -251902000-01-01T00:00:00Z
 sRGB_color_hex_triplet: FEAF97
 start_time: -259100000-01-01T00:00:00Z
 dv_has_:
   duration_:
-    years: "7.608e+6"
-  previous_:
-    item: "[[Epoch-273~Guadalupian]]"
-  next_:
-    item: "[[../../Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic|Epoch~1~Early_Triassic]]"
+    years: 7.608e+6
   name_:
+    abbreviated: P3
+    af: Lopingium
+    ar: اللوبنجي
     bg: Лопинг
+    ca: Lopingià
     cs: Loping
     da: Lopingien
     de: Lopingium
+    en: Lopingian
     es: Lopingiense
     et: Loping
+    eu: Lopingiar
+    fa: لوپینگین
     fi: Loping
     fr: Lopingien
-    hu: lopingi
-    it: lopingiano
-    ja: ロピンギアン世
-    lt: Lopingis
-    nl: Lopingiën
+    ga: an Sealad Lopaingeach
+    hr: Loping
+    hu: késő perm
+    id: Lopingium
+    it: Lopingiano
+    ja: ローピンジアン
+    ko: 러핑세
+    lt: lopingijus
+    mk: лопингиум
+    ms: Leping (geologi)
+    nl: Lopingien
+    nn: loping
     no: Lopingium
     pl: Loping
     pt: Lopingiano
+    ro: Lopingian
+    ru: лопинская эпоха
+    sh: Loping
     sk: loping
     sl: lopingij
-    sv: loping
+    sv: Loping
+    tr: Lopingiyen
+    uk: пізня перм
+    vi: Thế Lạc Bình
     zh: 乐平世
-    abbreviated: P3
-  time_:
-    started: "-259.510e6"
-    stopped: "-251.902e6"
+  next_:
+    item: '[[../../Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic|Epoch~1~Early_Triassic]]'
+  previous_:
+    item: '[[Epoch-273~Guadalupian]]'
   text_of_:
-    color: "0xFBA794"
+    color: 0xFBA794
+  time_:
+    started: -259.510e6
+    stopped: -251.902e6
 dv_is_:
   same_as:
-    - "[[WD~Lopingian,1077390]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian|Epoch-259~Lopingian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian.public|Epoch-259~Lopingian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian.internal|Epoch-259~Lopingian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian.protect|Epoch-259~Lopingian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian.private|Epoch-259~Lopingian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian.personal|Epoch-259~Lopingian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian.secret|Epoch-259~Lopingian.secret]]"
-dv_has_duration_years: "7.608e+6"
-dv_has_previous_item: "[[Epoch-273~Guadalupian]]"
-dv_has_next_item: "[[../../Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic|Epoch~1~Early_Triassic]]"
+  - '[[WD~Lopingian,1077390]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian|Epoch-259~Lopingian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian.public|Epoch-259~Lopingian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian.internal|Epoch-259~Lopingian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian.protect|Epoch-259~Lopingian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian.private|Epoch-259~Lopingian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian.personal|Epoch-259~Lopingian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian.secret|Epoch-259~Lopingian.secret]]'
+dv_has_duration_years: 7.608e+6
+dv_has_previous_item: '[[Epoch-273~Guadalupian]]'
+dv_has_next_item: '[[../../Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic|Epoch~1~Early_Triassic]]'
 dv_is_same_as:
-  - "[[WD~Lopingian,1077390]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian|Epoch-259~Lopingian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian.public|Epoch-259~Lopingian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian.internal|Epoch-259~Lopingian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian.protect|Epoch-259~Lopingian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian.private|Epoch-259~Lopingian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian.personal|Epoch-259~Lopingian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian.secret|Epoch-259~Lopingian.secret]]"
+- '[[WD~Lopingian,1077390]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian|Epoch-259~Lopingian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian.public|Epoch-259~Lopingian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian.internal|Epoch-259~Lopingian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian.protect|Epoch-259~Lopingian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian.private|Epoch-259~Lopingian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian.personal|Epoch-259~Lopingian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian.secret|Epoch-259~Lopingian.secret]]'
 dv_has_name_bg: Лопинг
 dv_has_name_cs: Loping
 dv_has_name_da: Lopingien
@@ -104,11 +136,10 @@ dv_has_name_sl: lopingij
 dv_has_name_sv: loping
 dv_has_name_zh: 乐平世
 dv_has_name_abbreviated: P3
-dv_has_time_started: "-259.510e6"
-dv_has_time_stopped: "-251.902e6"
-dv_has_text_of_color: "0xFBA794"
+dv_has_time_started: -259.510e6
+dv_has_time_stopped: -251.902e6
+dv_has_text_of_color: 0xFBA794
 ---
-
 # [[Epoch-259~Lopingian]] 
 
 #is_a_/time_/Epoch 

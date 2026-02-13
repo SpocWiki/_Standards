@@ -1,8 +1,11 @@
 ---
 has_id_wikidata: Q17030262
+dv_has_:
+  name_:
+    en: history of United States antitrust law
+aliases:
+- history of United States antitrust law
 ---
-
-
 # [[US_anti-trust_lawsuit]] 
 
 > The history of United States antitrust law 

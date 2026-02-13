@@ -1,28 +1,151 @@
 ---
 aliases:
+- brasage
+- brasagem
+- brasatura
+- brazare
+- forrasztás
+- Jootmine
+- Juottaminen
+- Lehimleme
+- Lehimləmə
+- Lemljenje
+- litavimas
+- lodding
+- lodēšana
+- Luari
+- lutado
+- lutowanie
+- Lätn
+- Lóðun
+- lödning
+- Löten
+- meko lemljenje
+- pematerian
+- Penyolderan
+- pájení
+- Slaglodning
+- Sodro
+- Soldadura bigun
+- Soldadura blanda
+- soldadura tova
+- soldeerwerk
+- soldeo blando y fuerte
+- solderen
+- soldering or brazing
+- spajkanje
+- Spájkovanie
+- Κόλληση
+- Дәнекерлеу
+- Каңдоо
+- лемљење
+- лемење
+- пайка
+- паяння
+- паяньне
+- Спояване
+- Զոդում
+- הלחמה
+- لحام بالقصدير
+- لحیمکاری
+- لەحیمکردنی نەرم
+- ٹانکا گری
+- टाँका लगाना
+- ಬೆಸುಗೆ
+- സോൾഡറിങ്
+- บัดกรี
+- რჩილვა
+- はんだ付け
+- 軟銲
+- 软钎焊
+- 납땜
 has_id_wikidata: Q211387
 uses:
-  - "[[_Standards/WikiData/WD~soldering_iron,623402]]"
-  - "[[_Standards/WikiData/WD~solder,866612]]"
+- '[[_Standards/WikiData/WD~soldering_iron,623402]]'
+- '[[_Standards/WikiData/WD~solder,866612]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~metalworking,953045]]"
-  - "[[_Standards/WikiData/WD~manufacturing_process,1408288]]"
-  - "[[_Standards/WikiData/WD~joining,1480529]]"
+- '[[_Standards/WikiData/WD~metalworking,953045]]'
+- '[[_Standards/WikiData/WD~manufacturing_process,1408288]]'
+- '[[_Standards/WikiData/WD~joining,1480529]]'
 has_effect:
-  - "[[_Standards/WikiData/WD~linkage,1153014]]"
-  - "[[_Standards/WikiData/WD~electrical_connection,2647496]]"
-  - "[[_Standards/WikiData/WD~thermal_conduction,7465774]]"
-product_or_material_produced: "[[_Standards/WikiData/WD~solder_joint,11826316]]"
-practiced_by: "[[_Standards/WikiData/WD~solderer,121904692]]"
+- '[[_Standards/WikiData/WD~linkage,1153014]]'
+- '[[_Standards/WikiData/WD~electrical_connection,2647496]]'
+- '[[_Standards/WikiData/WD~thermal_conduction,7465774]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~solder_joint,11826316]]'
+practiced_by: '[[_Standards/WikiData/WD~solderer,121904692]]'
 Commons_category: Soldering
 Iconclass_notation: 47C436
+dv_has_:
+  name_:
+    af: soldeerwerk
+    ar: لحام بالقصدير
+    ast: Soldadura blanda
+    az: Lehimləmə
+    bar: Lätn
+    be-tarask: паяньне
+    bg: Спояване
+    ca: soldadura tova
+    ckb: لەحیمکردنی نەرم
+    cs: pájení
+    cy: Sodro
+    da: Slaglodning
+    de: Löten
+    el: Κόλληση
+    en: soldering or brazing
+    eo: lutado
+    es: soldeo blando y fuerte
+    et: Jootmine
+    eu: Soldadura bigun
+    fa: لحیمکاری
+    fi: Juottaminen
+    fr: brasage
+    frr: Luari
+    he: הלחמה
+    hi: टाँका लगाना
+    hr: meko lemljenje
+    hu: forrasztás
+    hy: Զոդում
+    id: Penyolderan
+    is: Lóðun
+    it: brasatura
+    ja: はんだ付け
+    ka: რჩილვა
+    kk: Дәнекерлеу
+    kn: ಬೆಸುಗೆ
+    ko: 납땜
+    ky: Каңдоо
+    lt: litavimas
+    lv: lodēšana
+    mk: лемење
+    ml: സോൾഡറിങ്
+    ms: pematerian
+    nb: lodding
+    nl: solderen
+    nn: lodding
+    pl: lutowanie
+    pt: brasagem
+    ro: brazare
+    ru: пайка
+    sh: Meko lemljenje
+    sk: Spájkovanie
+    sl: spajkanje
+    sr: лемљење
+    sr-ec: лемљење
+    sr-el: Lemljenje
+    sv: lödning
+    th: บัดกรี
+    tr: Lehimleme
+    uk: паяння
+    ur: ٹانکا گری
+    yue: 軟銲
+    zh: 软钎焊
+    zh-hans: 软钎焊
 ---
-
 # [[Soldering_or_Brazing]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Soldering_or_brazing,211387|WD~Soldering_or_brazing,211387]]  

@@ -1,27 +1,39 @@
 ---
 aliases:
-  - Furongian
-  - Фуронг
-  - Furong
-  - Furongien
-  - Furongium
-  - Furogiense
-  - furongi
-  - furongiano
-  - フロンギアン世
-  - Furongis
-  - Furongiën
-  - Furongiano
-  - furong
-  - furongij
-  - 芙蓉世
+- an Sealad Furangach
+- Frongiyen
+- Furogiense
+- Furong
+- furongi
+- Furongian
+- furongiano
+- Furongiar
+- Furongien
+- Furongiense
+- furongij
+- Furongis
+- Furongium
+- Furongià
+- Furongiën
+- Thống Phù Dung
+- Фуронг
+- фуронгский отдел
+- الفورونجي
+- فورونجین
+- สมัยฝูหรงเจียน
+- フロンギアン
+- フロンギアン世
+- 芙蓉世
+- 芙蓉統
+- 芙蓉统
+- 푸룽세
 has_id_wikidata: Q1269670
 instance_of:
-  - "[[_Standards/WikiData/WD~series,312468]]"
-  - "[[_Standards/WikiData/WD~epoch,754897]]"
-named_after: "[[_Standards/WikiData/WD~Lotus,3645698]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Furongian,30338198]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+- '[[_Standards/WikiData/WD~series,312468]]'
+- '[[_Standards/WikiData/WD~epoch,754897]]'
+named_after: '[[_Standards/WikiData/WD~Lotus,3645698]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Furongian,30338198]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 end_time: -486850000-01-01T00:00:00Z
 start_time: -497000000-01-01T00:00:00Z
 Commons_category: Furongian
@@ -30,60 +42,82 @@ exact_match: http://resource.geosciml.org/classifier/ics/ischart/Furongian
 sRGB_color_hex_triplet: B3E095
 dv_has_:
   duration_:
-    years: "1.160e+7"
-  previous_:
-    item: "[[Epoch~]]"
-  next_:
-    item: "[[Epoch~]]"
+    years: 1.160e+7
   name_:
+    abbreviated: Ep4
+    ar: الفورونجي
     bg: Фуронг
+    br: Furongian
+    ca: Furongià
     cs: Furong
     da: Furongien
     de: Furongium
-    es: Furogiense
+    en: Furongian
+    en-gb: Furongian
+    es: Furongiense
     et: Furong
+    eu: Furongiar
+    fa: فورونجین
     fi: Furong
     fr: Furongien
+    ga: an Sealad Furangach
+    hr: furongij
     hu: furongi
+    id: Furongium
     it: furongiano
-    ja: フロンギアン世
+    ja: フロンギアン
+    ko: 푸룽세
     lt: Furongis
-    nl: Furongiën
+    ms: Furong
+    nl: Furongien
+    nn: furong
     no: Furongium
-    pl: Furong
+    pl: furong
     pt: Furongiano
+    ru: фуронгский отдел
+    sh: Furongij
     sk: furong
     sl: furongij
-    sv: furong
+    sv: Furong
+    th: สมัยฝูหรงเจียน
+    tr: Frongiyen
+    vi: Thống Phù Dung
     zh: 芙蓉世
-    abbreviated: Ep4
-  time_:
-    started: "-497.0e6"
-    stopped: "-485.4e6"
+    zh-cn: 芙蓉世
+    zh-hans: 芙蓉统
+    zh-hant: 芙蓉統
+    zh-tw: 芙蓉世
+  next_:
+    item: '[[Epoch~]]'
+  previous_:
+    item: '[[Epoch~]]'
   text_of_:
-    color: "0xB3E095"
+    color: 0xB3E095
+  time_:
+    started: -497.0e6
+    stopped: -485.4e6
 dv_is_:
   same_as:
-    - "[[WD~Furongian,1269670]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian|Epoch-497~Furongian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian.public|Epoch-497~Furongian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian.internal|Epoch-497~Furongian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian.protect|Epoch-497~Furongian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian.private|Epoch-497~Furongian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian.personal|Epoch-497~Furongian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian.secret|Epoch-497~Furongian.secret]]"
-dv_has_duration_years: "1.160e+7"
-dv_has_previous_item: "[[Epoch~]]"
-dv_has_next_item: "[[Epoch~]]"
+  - '[[WD~Furongian,1269670]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian|Epoch-497~Furongian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian.public|Epoch-497~Furongian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian.internal|Epoch-497~Furongian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian.protect|Epoch-497~Furongian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian.private|Epoch-497~Furongian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian.personal|Epoch-497~Furongian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian.secret|Epoch-497~Furongian.secret]]'
+dv_has_duration_years: 1.160e+7
+dv_has_previous_item: '[[Epoch~]]'
+dv_has_next_item: '[[Epoch~]]'
 dv_is_same_as:
-  - "[[WD~Furongian,1269670]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian|Epoch-497~Furongian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian.public|Epoch-497~Furongian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian.internal|Epoch-497~Furongian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian.protect|Epoch-497~Furongian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian.private|Epoch-497~Furongian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian.personal|Epoch-497~Furongian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian.secret|Epoch-497~Furongian.secret]]"
+- '[[WD~Furongian,1269670]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian|Epoch-497~Furongian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian.public|Epoch-497~Furongian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian.internal|Epoch-497~Furongian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian.protect|Epoch-497~Furongian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian.private|Epoch-497~Furongian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian.personal|Epoch-497~Furongian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian.secret|Epoch-497~Furongian.secret]]'
 dv_has_name_bg: Фуронг
 dv_has_name_cs: Furong
 dv_has_name_da: Furongien
@@ -105,9 +139,9 @@ dv_has_name_sl: furongij
 dv_has_name_sv: furong
 dv_has_name_zh: 芙蓉世
 dv_has_name_abbreviated: Ep4
-dv_has_time_started: "-497.0e6"
-dv_has_time_stopped: "-485.4e6"
-dv_has_text_of_color: "0xB3E095"
+dv_has_time_started: -497.0e6
+dv_has_time_stopped: -485.4e6
+dv_has_text_of_color: 0xB3E095
 ---
 # [[Epoch-497~Furongian]] 
 

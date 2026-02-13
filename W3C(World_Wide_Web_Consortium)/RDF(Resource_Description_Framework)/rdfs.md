@@ -1,8 +1,30 @@
 ---
 aliases:
-  - RDF-Schema
-  - rdfs
+- RDF Schema
+- RDF-Schema
+- rdfs
+- RDF模式
+- طرحواره آردیاف
+- வள விபரிப்புச் சட்டக கருத்தேற்ற முறைமை
 has_id_wikidata: Q1751819
+dv_has_:
+  name_:
+    ca: RDF Schema
+    cs: RDF Schema
+    de: RDF-Schema
+    en: RDF Schema
+    es: RDF Schema
+    fa: طرحواره آردیاف
+    fr: RDF Schema
+    it: RDF Schema
+    ja: RDF Schema
+    nl: RDFS
+    nn: RDF Schema
+    pl: RDF Schema
+    pt: RDF Schema
+    ru: RDF Schema
+    ta: வள விபரிப்புச் சட்டக கருத்தேற்ற முறைமை
+    zh: RDF模式
 ---
 # [[rdfs]] 
 

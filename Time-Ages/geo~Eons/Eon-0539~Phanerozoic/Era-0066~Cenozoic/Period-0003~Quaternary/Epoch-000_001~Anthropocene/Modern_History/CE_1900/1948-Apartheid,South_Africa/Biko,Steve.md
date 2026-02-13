@@ -1,83 +1,201 @@
 ---
 aliases:
-  - Steve_Biko
-  - Bantu Stephen Biko
-  - Stephen Biko
-  - Biko
+- Bantu Stephen Biko
+- Biko
+- Stefen Biko
+- Stephen Biko
+- Steve Biko
+- Steve_Biko
+- Stīvs Biko
+- Στιβ Μπίκο
+- Стів Біко
+- Стив Бико
+- Стыў Біка
+- Սթիվ Բիկո
+- סטיב ביקו
+- استیو بایکو
+- ستيف بيكو
+- ستیڤ بیکۆ
+- سٹیو بیکو
+- ސްޓީވް ބިކޯ
+- স্টিভ বিকো
+- ਸਟੇਵ ਬੀਕੋ
+- ஸ்டீவ் பைக்கோ
+- స్టీవ్ బికో
+- സ്റ്റീവ് ബികോ
+- สตีฟ บีโก
+- სტივ ბიკო
+- スティーヴ・ビコ
+- 史蒂夫·比科
+- 스티브 비코
 has_id_wikidata: Q214473
 Swedish_Open_Cultural_Heritage_URI: SMVK-EM/name/1553970
 Google_Doodle: steve-bikos-70th-birthday
 name_in_native_language: Steve Biko
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~civil_rights_advocate,1021386]]"
-  - "[[_Standards/WikiData/WD~trade_unionist,15627169]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-manner_of_death: "[[_Standards/WikiData/WD~homicide,149086]]"
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~civil_rights_advocate,1021386]]'
+- '[[_Standards/WikiData/WD~trade_unionist,15627169]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+manner_of_death: '[[_Standards/WikiData/WD~homicide,149086]]'
 present_in_work:
-  - "[[_Standards/WikiData/WD~Cry_Freedom,962363]]"
-  - "[[_Standards/WikiData/WD~Biko,2902619]]"
+- '[[_Standards/WikiData/WD~Cry_Freedom,962363]]'
+- '[[_Standards/WikiData/WD~Biko,2902619]]'
 place_of_birth:
-  - "[[_Standards/WikiData/WD~Tarkastad,993209]]"
-  - "[[_Standards/WikiData/WD~Qonce,1016100]]"
-place_of_burial: "[[_Standards/WikiData/WD~Qonce,1016100]]"
-archives_at: "[[_Standards/WikiData/WD~Schomburg_Center_for_Research_in_Black_Culture,1060566]]"
-educated_at: "[[_Standards/WikiData/WD~University_of_Natal,2021166]]"
+- '[[_Standards/WikiData/WD~Tarkastad,993209]]'
+- '[[_Standards/WikiData/WD~Qonce,1016100]]'
+place_of_burial: '[[_Standards/WikiData/WD~Qonce,1016100]]'
+archives_at: '[[_Standards/WikiData/WD~Schomburg_Center_for_Research_in_Black_Culture,1060566]]'
+educated_at: '[[_Standards/WikiData/WD~University_of_Natal,2021166]]'
 member_of_political_party:
-  - "[[_Standards/WikiData/WD~South_African_Students'_Organization,4411992]]"
-  - "[[_Standards/WikiData/WD~Black_People's_Convention,4921453]]"
+- "[[_Standards/WikiData/WD~South_African_Students'_Organization,4411992]]"
+- "[[_Standards/WikiData/WD~Black_People's_Convention,4921453]]"
 given_name:
-  - "[[_Standards/WikiData/WD~Stephen,4927100]]"
-  - "[[_Standards/WikiData/WD~Steve,18336566]]"
-child: "[[_Standards/WikiData/WD~Hlumelo_Biko,5873580]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-significant_event: "[[_Standards/WikiData/WD~death_in_police_custody,20730691]]"
-spouse: "[[_Standards/WikiData/WD~Ntsiki_Mashalaba,40026140]]"
-described_by_source: "[[_Standards/WikiData/WD~Dictionary_of_African_Biography,46002746]]"
-different_from: "[[_Standards/WikiData/WD~Nomhlangano_Beauty_Mkhize,97482122]]"
-family_name: "[[_Standards/WikiData/WD~Biko,112274329]]"
+- '[[_Standards/WikiData/WD~Stephen,4927100]]'
+- '[[_Standards/WikiData/WD~Steve,18336566]]'
+child: '[[_Standards/WikiData/WD~Hlumelo_Biko,5873580]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+significant_event: '[[_Standards/WikiData/WD~death_in_police_custody,20730691]]'
+spouse: '[[_Standards/WikiData/WD~Ntsiki_Mashalaba,40026140]]'
+described_by_source: '[[_Standards/WikiData/WD~Dictionary_of_African_Biography,46002746]]'
+different_from: '[[_Standards/WikiData/WD~Nomhlangano_Beauty_Mkhize,97482122]]'
+family_name: '[[_Standards/WikiData/WD~Biko,112274329]]'
 mother: "[[_Standards/WikiData/WD~Alice_'Mameete',116468794]]"
-father: "[[_Standards/WikiData/WD~Mzingayi_Mathew_Biko,116468792]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_New_York_Public_Library,121437821]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~South_Africa,258]]"
+father: '[[_Standards/WikiData/WD~Mzingayi_Mathew_Biko,116468792]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_New_York_Public_Library,121437821]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~South_Africa,258]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Xhosa,13218]]"
-  - "[[_Standards/WikiData/WD~Afrikaans,14196]]"
-place_of_death: "[[_Standards/WikiData/WD~Pretoria,3926]]"
-field_of_work: "[[_Standards/WikiData/WD~apartheid,11409]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Xhosa,13218]]'
+- '[[_Standards/WikiData/WD~Afrikaans,14196]]'
+place_of_death: '[[_Standards/WikiData/WD~Pretoria,3926]]'
+field_of_work: '[[_Standards/WikiData/WD~apartheid,11409]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 Commons_category: Steve Biko
 date_of_death: 1977-09-12T00:00:00Z
 date_of_birth: 1946-12-18T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Biko%20on%20Flyer%20for%20Steve%20Biko%20Memorial%20at%20the%20Carver%20Cultural%20Center.jpg
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/StevenBantuBiko%27sGrave.jpg
 official_website: http://www.sbf.org.za/home/
-ISNI: "0000000081456296"
-P1015: "90081591"
+ISNI: 0000000081456296
+P1015: 90081591
 Libris_URI: fcrtngbz5hcpt4h
 pseudonym: Frank Talk
 dv_is_:
   same_as:
-    - "[[../../../../../../../../../WikiData/WD~Steve_Biko,214473|WD~Steve_Biko,214473]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Biko,Steve|Biko,Steve]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Biko,Steve.public|Biko,Steve.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Biko,Steve.internal|Biko,Steve.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Biko,Steve.protect|Biko,Steve.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Biko,Steve.private|Biko,Steve.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Biko,Steve.personal|Biko,Steve.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Biko,Steve.secret|Biko,Steve.secret]]"
+  - '[[../../../../../../../../../WikiData/WD~Steve_Biko,214473|WD~Steve_Biko,214473]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Biko,Steve|Biko,Steve]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Biko,Steve.public|Biko,Steve.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Biko,Steve.internal|Biko,Steve.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Biko,Steve.protect|Biko,Steve.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Biko,Steve.private|Biko,Steve.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Biko,Steve.personal|Biko,Steve.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Biko,Steve.secret|Biko,Steve.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../../WikiData/WD~Steve_Biko,214473|WD~Steve_Biko,214473]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Biko,Steve|Biko,Steve]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Biko,Steve.public|Biko,Steve.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Biko,Steve.internal|Biko,Steve.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Biko,Steve.protect|Biko,Steve.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Biko,Steve.private|Biko,Steve.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Biko,Steve.personal|Biko,Steve.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Biko,Steve.secret|Biko,Steve.secret]]"
+- '[[../../../../../../../../../WikiData/WD~Steve_Biko,214473|WD~Steve_Biko,214473]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Biko,Steve|Biko,Steve]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Biko,Steve.public|Biko,Steve.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Biko,Steve.internal|Biko,Steve.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Biko,Steve.protect|Biko,Steve.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Biko,Steve.private|Biko,Steve.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Biko,Steve.personal|Biko,Steve.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Biko,Steve.secret|Biko,Steve.secret]]'
+dv_has_:
+  name_:
+    af: Steve Biko
+    ar: ستيف بيكو
+    arz: ستيف بيكو
+    ast: Stefen Biko
+    be-tarask: Стыў Біка
+    bg: Стив Бико
+    bn: স্টিভ বিকো
+    br: Steve Biko
+    ca: Steve Biko
+    ckb: ستیڤ بیکۆ
+    cs: Steve Biko
+    cy: Steve Biko
+    da: Steve Biko
+    de: Steve Biko
+    dv: ސްޓީވް ބިކޯ
+    el: Στιβ Μπίκο
+    en: Steve Biko
+    en-ca: Steve Biko
+    en-gb: Steve Biko
+    en-us: Steve Biko
+    eo: Steve Biko
+    es: Steve Biko
+    et: Steve Biko
+    eu: Steve Biko
+    fa: استیو بایکو
+    fi: Steve Biko
+    fr: Steve Biko
+    ga: Steve Biko
+    gaa: Steve Biko
+    gl: Steve Biko
+    gpe: Steve Biko
+    ha: Steve Biko
+    he: סטיב ביקו
+    hr: Steve Biko
+    hu: Steve Biko
+    hy: Սթիվ Բիկո
+    id: Steve Biko
+    it: Steve Biko
+    ja: スティーヴ・ビコ
+    ka: სტივ ბიკო
+    kbp: Steve Biko
+    ki: Steve Biko
+    kk: Стив Бико
+    ko: 스티브 비코
+    la: Steve Biko
+    lb: Steve Biko
+    lt: Steve Biko
+    lv: Stīvs Biko
+    mg: Steve Biko
+    ml: സ്റ്റീവ് ബികോ
+    ms: Steve Biko
+    mul: Steve Biko
+    nb: Steve Biko
+    nl: Steve Biko
+    nn: Steve Biko
+    nso: Steve Biko
+    pa: ਸਟੇਵ ਬੀਕੋ
+    pl: Steve Biko
+    pnb: سٹیو بیکو
+    pt: Steve Biko
+    pt-br: Steve Biko
+    ro: Steve Biko
+    ru: Стив Бико
+    sco: Steve Biko
+    sh: Steve Biko
+    sk: Steve Biko
+    sl: Steve Biko
+    sq: Steve Biko
+    sr: Steve Biko
+    ss: Steve Biko
+    sv: Steve Biko
+    sw: Steve Biko
+    ta: ஸ்டீவ் பைக்கோ
+    te: స్టీవ్ బికో
+    th: สตีฟ บีโก
+    tr: Steve Biko
+    ts: Steve Biko
+    tw: Steve Biko
+    uk: Стів Біко
+    ve: Steve Biko
+    vi: Steve Biko
+    wuu: 史蒂夫·比科
+    xh: Steve Biko
+    yo: Steve Biko
+    yue: 史蒂夫·比科
+    zh: 史蒂夫·比科
+    zh-cn: 史蒂夫·比科
+    zh-hans: 史蒂夫·比科
+    zh-hant: 史蒂夫·比科
+    zh-hk: 史蒂夫·比科
+    zh-sg: 史蒂夫·比科
+    zh-tw: 史蒂夫·比科
+    zu: Steve Biko
 ---
-
 # [[Biko,Steve]] 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Steve_Biko,214473|WD~Steve_Biko,214473]]   

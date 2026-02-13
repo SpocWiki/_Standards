@@ -1,80 +1,131 @@
 ---
 aliases:
-  - Cenomanian
+- cenoman
+- cenomani
+- Cenomanian
+- Cenomaniano
+- Cenomanianu
+- Cenomaniar
+- Cenomanien
+- Cenomaniense
+- cenomanij
+- Cenomanium
+- Cenomanium-vaihe
+- Cenomanià
+- Cinumanianu
+- Cénomanien
+- Senomania
+- Senomanium
+- Tầng Cenoman
+- кеноман
+- сеноманский ярус
+- Сеноманський ярус
+- קנומן
+- السينوماني
+- سنومانین
+- セノマニアン
+- 森諾曼階
+- 森诺曼阶
+- 세노마눔절
 has_id_wikidata: Q185567
 named_by: "[[_Standards/WikiData/WD~Alcide_d'Orbigny,344661]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Cenomanian,20979613]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Cenomanian,133930647]]"
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Cenomanian,20979613]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Cenomanian,133930647]]'
 end_time: -93900000-01-01T00:00:00Z
 start_time: -100500000-01-01T00:00:00Z
 coordinate_location: Point(5.5119 44.3925)
-named_after: "[[_Standards/WikiData/WD~Le_Mans,1476]]"
-country: "[[_Standards/WikiData/WD~France,142]]"
+named_after: '[[_Standards/WikiData/WD~Le_Mans,1476]]'
+country: '[[_Standards/WikiData/WD~France,142]]'
 sRGB_color_hex_triplet: B5DA71
 Commons_category: Cenomanian
 dv_has_:
   duration_:
-    years: "6.600e+6"
-  previous_:
-    item: "[[../Epoch-145~Early_Cretaceous/Age~6~Albian|Age~6~Albian]]"
-  next_:
-    item: "[[Age~2~Turonian]]"
+    years: 6.600e+6
   name_:
+    abbreviated: k1
+    af: Senomanium
+    ar: السينوماني
+    ast: Cenomanianu
     bg: Ценоман
-    cs: Cenoman
+    ca: Cenomanià
+    cs: cenoman
     da: Cenomanien
-    de: Cenomanium
+    de: Cenoman
+    en: Cenomanian
+    eo: Cenomaniano
     es: Cenomaniense
     et: Cenomani
-    fi: Cenoman
+    eu: Cenomaniar
+    fa: سنومانین
+    fi: Cenomanium-vaihe
     fr: Cénomanien
-    hu: cenoman
-    it: cenomaniano
-    ja: セノマニアン期
+    gl: Cenomaniano
+    he: קנומן
+    hu: cenomani
+    id: Senomanium
+    it: Cenomaniano
+    ja: セノマニアン
+    ko: 세노마눔절
+    la: Cenomanium
     lt: Cenomanis
-    nl: Laat/Boven Krijt
+    mk: кеноман
+    ms: Senomania
+    nb: Cenomanium
+    nl: Cenomanien
+    nn: cenoman
     no: Cenomanium
-    pl: Cenoman
+    pl: cenoman
     pt: Cenomaniano
+    ru: сеноманский ярус
+    scn: Cinumanianu
+    sh: Cenoman
     sk: cenoman
     sl: cenomanij
     sv: cenoman
-    zh: 森诺曼期
-    abbreviated: k1
-  time_:
-    started: "-100.5e6"
-    stopped: "-93.9e6"
+    uk: Сеноманський ярус
+    vec: Cenomanian
+    vi: Tầng Cenoman
+    zh: 森諾曼階
+    zh-cn: 森诺曼阶
+    zh-tw: 森諾曼階
+  next_:
+    item: '[[Age~2~Turonian]]'
+  previous_:
+    item: '[[../Epoch-145~Early_Cretaceous/Age~6~Albian|Age~6~Albian]]'
   text_of_:
-    color: "0xB3DE53"
+    color: 0xB3DE53
+  time_:
+    started: -100.5e6
+    stopped: -93.9e6
 dv_is_:
   same_as:
-    - "[[WD~Cenomanian,185567]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~1~Cenomanian|Age~1~Cenomanian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~1~Cenomanian.public|Age~1~Cenomanian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~1~Cenomanian.internal|Age~1~Cenomanian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~1~Cenomanian.protect|Age~1~Cenomanian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~1~Cenomanian.private|Age~1~Cenomanian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~1~Cenomanian.personal|Age~1~Cenomanian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~1~Cenomanian.secret|Age~1~Cenomanian.secret]]"
-dv_has_duration_years: "6.600e+6"
-dv_has_previous_item: "[[../Epoch-145~Early_Cretaceous/Age~6~Albian|Age~6~Albian]]"
-dv_has_next_item: "[[Age~2~Turonian]]"
+  - '[[WD~Cenomanian,185567]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~1~Cenomanian|Age~1~Cenomanian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~1~Cenomanian.public|Age~1~Cenomanian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~1~Cenomanian.internal|Age~1~Cenomanian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~1~Cenomanian.protect|Age~1~Cenomanian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~1~Cenomanian.private|Age~1~Cenomanian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~1~Cenomanian.personal|Age~1~Cenomanian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~1~Cenomanian.secret|Age~1~Cenomanian.secret]]'
+dv_has_duration_years: 6.600e+6
+dv_has_previous_item: '[[../Epoch-145~Early_Cretaceous/Age~6~Albian|Age~6~Albian]]'
+dv_has_next_item: '[[Age~2~Turonian]]'
 dv_is_same_as:
-  - "[[WD~Cenomanian,185567]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~1~Cenomanian|Age~1~Cenomanian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~1~Cenomanian.public|Age~1~Cenomanian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~1~Cenomanian.internal|Age~1~Cenomanian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~1~Cenomanian.protect|Age~1~Cenomanian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~1~Cenomanian.private|Age~1~Cenomanian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~1~Cenomanian.personal|Age~1~Cenomanian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~1~Cenomanian.secret|Age~1~Cenomanian.secret]]"
+- '[[WD~Cenomanian,185567]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~1~Cenomanian|Age~1~Cenomanian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~1~Cenomanian.public|Age~1~Cenomanian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~1~Cenomanian.internal|Age~1~Cenomanian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~1~Cenomanian.protect|Age~1~Cenomanian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~1~Cenomanian.private|Age~1~Cenomanian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~1~Cenomanian.personal|Age~1~Cenomanian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~1~Cenomanian.secret|Age~1~Cenomanian.secret]]'
 dv_has_name_bg: Ценоман
 dv_has_name_cs: Cenoman
 dv_has_name_da: Cenomanien
@@ -96,9 +147,9 @@ dv_has_name_sl: cenomanij
 dv_has_name_sv: cenoman
 dv_has_name_zh: 森诺曼期
 dv_has_name_abbreviated: k1
-dv_has_time_started: "-100.5e6"
-dv_has_time_stopped: "-93.9e6"
-dv_has_text_of_color: "0xB3DE53"
+dv_has_time_started: -100.5e6
+dv_has_time_stopped: -93.9e6
+dv_has_text_of_color: 0xB3DE53
 ---
 # [[Age~1~Cenomanian]] 
 

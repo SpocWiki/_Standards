@@ -1,18 +1,54 @@
 ---
-has_time_started: 1923-01-01 
+has_time_started: 1923-01-01
 aliases:
-  - Theodolit
-  - Theodolite
+- Máy kinh vĩ
+- teodaileach
+- teodailít
+- teodolihtta
+- teodoliit
+- teodoliitti
+- teodolit
+- teodolitas
+- teodolite
+- teodolito
+- teodolitt
+- Teodolït
+- teropong ukur
+- theodoliet
+- Theodolit
+- Theodolite
+- théodolite
+- θεοδόλιχος
+- теодоліт
+- теодолит
+- Тэадаліт
+- Թեոդոլիտ
+- תאודוליט
+- تئودولیت
+- تیۆدۆلایت
+- تەودولىيت
+- مزواة
+- विकोणमान
+- থিওডোলাইট
+- ਥੀਓਡੋਲਾਈਟ
+- ଥିଓଡୋଲାଇଟ୍
+- தியோடலைட்டு
+- သီအိုဒိုလိုက်
+- ቴዎዶላይት
+- トランシット
+- 經緯儀
+- 经纬仪
+- 경위의
 has_id_wikidata: Q181517
 has_use:
-  - '[[_Standards/WikiData/WD~geodesy,131089]]'
-  - '[[_Standards/WikiData/WD~surveying,816425]]'
-  - '[[_Standards/WikiData/WD~angle_measurement,1652852]]'
-  - '[[_Standards/WikiData/WD~cartography,42515]]'
+- '[[_Standards/WikiData/WD~geodesy,131089]]'
+- '[[_Standards/WikiData/WD~surveying,816425]]'
+- '[[_Standards/WikiData/WD~angle_measurement,1652852]]'
+- '[[_Standards/WikiData/WD~cartography,42515]]'
 collection: '[[_Standards/WikiData/WD~ETH_Library,684773]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 subclass_of: '[[_Standards/WikiData/WD~measuring_instrument,2041172]]'
 height: 25
 Nomenclature_for_Museum_Cataloging: 10230
@@ -26,8 +62,89 @@ inventory_number: ETHZ_IFGP_0025
 Commons_gallery: Theodolite
 Commons_category: Theodolites
 inception: 1923-01-01T00:00:00Z
+dv_has_:
+  name_:
+    am: ቴዎዶላይት
+    ar: مزواة
+    ast: teodolito
+    az: Teodolit
+    be: Тэадаліт
+    be-tarask: тэадаліт
+    bg: Теодолит
+    bn: থিওডোলাইট
+    ca: teodolit
+    ckb: تیۆدۆلایت
+    cs: teodolit
+    da: teodolit
+    de: Theodolit
+    el: θεοδόλιχος
+    en: theodolite
+    en-us: theodolite
+    eo: teodolito
+    es: teodolito
+    et: teodoliit
+    eu: teodolito
+    fa: تئودولیت
+    fi: teodoliitti
+    fr: théodolite
+    ga: teodailít
+    gd: teodaileach
+    gl: Teodolito
+    he: תאודוליט
+    hi: विकोणमान
+    hr: teodolit
+    hu: teodolit
+    hy: Թեոդոլիտ
+    id: Theodolite
+    io: teodolito
+    it: teodolite
+    ja: トランシット
+    kk: Теодолит
+    kk-arab: تەودولىيت
+    kk-cn: تەودولىيت
+    kk-cyrl: Теодолит
+    kk-kz: Теодолит
+    kk-latn: Teodolït
+    kk-tr: Teodolït
+    ko: 경위의
+    ky: Теодолит
+    lt: teodolitas
+    mk: теодолит
+    ms: teropong ukur
+    my: သီအိုဒိုလိုက်
+    nb: teodolitt
+    nl: theodoliet
+    or: ଥିଓଡୋଲାଇଟ୍
+    pa: ਥੀਓਡੋਲਾਈਟ
+    pl: teodolit
+    pt: teodolito
+    ro: teodolit
+    ru: теодолит
+    se: teodolihtta
+    sh: teodolit
+    sk: teodolit
+    sl: teodolit
+    smn: teodoliit
+    sms: teodolitt
+    sr: Теодолит
+    sr-ec: теодолит
+    sr-el: teodolit
+    sv: teodolit
+    ta: தியோடலைட்டு
+    tr: teodolit
+    uk: теодоліт
+    uz: Teodolit
+    vi: Máy kinh vĩ
+    wuu: 经纬仪
+    yue: 經緯儀
+    zh: 經緯儀
+    zh-cn: 经纬仪
+    zh-hans: 经纬仪
+    zh-hant: 經緯儀
+    zh-hk: 經緯儀
+    zh-sg: 经纬仪
+    zh-tw: 經緯儀
 ---
-
 # [[Theodolite]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Theodolite,181517|WD~Theodolite,181517]]  

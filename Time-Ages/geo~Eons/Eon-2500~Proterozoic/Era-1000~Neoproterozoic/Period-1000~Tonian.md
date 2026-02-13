@@ -1,26 +1,42 @@
 ---
 aliases:
-  - Tonian
-  - Тон
-  - Ton
-  - Tonien
-  - Tonium
-  - Toniense
-  - toni
-  - toniano
-  - トニアン紀
-  - Tonis
-  - Toniën
-  - Toniano
-  - tonium
-  - tonij
-  - 拉伸纪
+- an Tréimhse Thónach
+- Kỷ Tonas
+- Ton
+- toni
+- Tonian
+- toniano
+- Tonieg
+- Tonien
+- Toniense
+- tonij
+- Tonis
+- Tonium
+- Toniy dáwiri
+- Tonià
+- Toniën
+- Tonos
+- Tunianu
+- Tónico
+- Тон
+- тоній
+- Тоний
+- טון (יחידת זמן גאולוגית)
+- التوني
+- تونین
+- टोनियाई कल्प
+- ยุคโทเนียน
+- トニアン
+- トニアン紀
+- 拉伸紀
+- 拉伸纪
+- 토니아기
 has_id_wikidata: Q743343
 instance_of:
-  - "[[_Standards/WikiData/WD~period,392928]]"
-  - "[[_Standards/WikiData/WD~system,403523]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Tonian,112243105]]"
+- '[[_Standards/WikiData/WD~period,392928]]'
+- '[[_Standards/WikiData/WD~system,403523]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Tonian,112243105]]'
 end_time: -720000000-01-01T00:00:00Z
 start_time: -1000000000-01-01T00:00:00Z
 Commons_category: Tonian
@@ -28,60 +44,91 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide%20Paleograph
 sRGB_color_hex_triplet: FEBF4E
 dv_has_:
   duration_:
-    years: "2.800e+8"
-  previous_:
-    item: "[[../Era-1600~Mesoproterozoic/Period-1200~Stenian|Period-1200~Stenian]]"
-  next_:
-    item: "[[Period-0720~Cryogenian]]"
+    years: 2.800e+8
   name_:
-    bg: Тон
+    abbreviated: NP1
+    af: Tonium
+    ar: التوني
+    az: Tonian
+    be: тоній
+    be-tarask: тоній
+    bg: Тоний
+    br: Tonieg
+    bs: Tonij
+    ca: Tonià
     cs: Ton
     da: Tonien
     de: Tonium
-    es: Toniense
+    en: Tonian
+    en-gb: Tonian
+    es: Tónico
     et: Ton
+    fa: تونین
     fi: Ton
     fr: Tonien
-    hu: toni
-    it: toniano
-    ja: トニアン紀
-    lt: Tonis
-    nl: Toniën
+    ga: an Tréimhse Thónach
+    he: טון (יחידת זמן גאולוגית)
+    hi: टोनियाई कल्प
+    hr: tonij
+    hu: tonium
+    id: Tonium
+    it: Toniano
+    ja: トニアン
+    kaa: Toniy dáwiri
+    ko: 토니아기
+    lt: tonis
+    ms: Tonos
+    nl: Tonium
+    nn: ton
     no: Tonium
-    pl: Ton
+    pl: ton
     pt: Toniano
+    ru: тоний
+    scn: Tunianu
+    sh: Tonij
     sk: tonium
     sl: tonij
-    sv: tonium
+    sv: Tonium
+    th: ยุคโทเนียน
+    uk: тоній
+    vi: Kỷ Tonas
+    yue: 拉伸紀
     zh: 拉伸纪
-    abbreviated: NP1
+    zh-cn: 拉伸纪
+    zh-hans: 拉伸纪
+    zh-hant: 拉伸紀
+    zh-hk: 拉伸紀
+  next_:
+    item: '[[Period-0720~Cryogenian]]'
+  previous_:
+    item: '[[../Era-1600~Mesoproterozoic/Period-1200~Stenian|Period-1200~Stenian]]'
+  text_of_:
+    color: 0xFEBF4E
   time_:
     started: -1000000000
     stopped: -720000000
-  text_of_:
-    color: "0xFEBF4E"
 dv_is_:
   same_as:
-    - "[[WD~Tonian,743343]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-1000~Tonian|Period-1000~Tonian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-1000~Tonian.public|Period-1000~Tonian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-1000~Tonian.internal|Period-1000~Tonian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-1000~Tonian.protect|Period-1000~Tonian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-1000~Tonian.private|Period-1000~Tonian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-1000~Tonian.personal|Period-1000~Tonian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-1000~Tonian.secret|Period-1000~Tonian.secret]]"
-dv_has_duration_years: "2.800e+8"
-dv_has_previous_item: "[[../Era-1600~Mesoproterozoic/Period-1200~Stenian|Period-1200~Stenian]]"
-dv_has_next_item: "[[Period-0720~Cryogenian]]"
+  - '[[WD~Tonian,743343]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-1000~Tonian|Period-1000~Tonian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-1000~Tonian.public|Period-1000~Tonian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-1000~Tonian.internal|Period-1000~Tonian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-1000~Tonian.protect|Period-1000~Tonian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-1000~Tonian.private|Period-1000~Tonian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-1000~Tonian.personal|Period-1000~Tonian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-1000~Tonian.secret|Period-1000~Tonian.secret]]'
+dv_has_duration_years: 2.800e+8
+dv_has_previous_item: '[[../Era-1600~Mesoproterozoic/Period-1200~Stenian|Period-1200~Stenian]]'
+dv_has_next_item: '[[Period-0720~Cryogenian]]'
 dv_is_same_as:
-  - "[[WD~Tonian,743343]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-1000~Tonian|Period-1000~Tonian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-1000~Tonian.public|Period-1000~Tonian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-1000~Tonian.internal|Period-1000~Tonian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-1000~Tonian.protect|Period-1000~Tonian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-1000~Tonian.private|Period-1000~Tonian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-1000~Tonian.personal|Period-1000~Tonian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-1000~Tonian.secret|Period-1000~Tonian.secret]]"
+- '[[WD~Tonian,743343]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-1000~Tonian|Period-1000~Tonian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-1000~Tonian.public|Period-1000~Tonian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-1000~Tonian.internal|Period-1000~Tonian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-1000~Tonian.protect|Period-1000~Tonian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-1000~Tonian.private|Period-1000~Tonian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-1000~Tonian.personal|Period-1000~Tonian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-1000~Tonian.secret|Period-1000~Tonian.secret]]'
 dv_has_name_bg: Тон
 dv_has_name_cs: Ton
 dv_has_name_da: Tonien
@@ -105,9 +152,8 @@ dv_has_name_zh: 拉伸纪
 dv_has_name_abbreviated: NP1
 dv_has_time_started: -1000000000
 dv_has_time_stopped: -720000000
-dv_has_text_of_color: "0xFEBF4E"
+dv_has_text_of_color: 0xFEBF4E
 ---
-
 # [[Period-1000~Tonian]] 
 
 #is_a_/time_/Period 

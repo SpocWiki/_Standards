@@ -1,73 +1,116 @@
 ---
 aliases:
-  - Oxfordian
+- Oksford
+- Oksfordij
+- oksfordio
+- Oksfordium
+- oxford
+- Oxford (geologi)
+- Oxford (stratigrafická jednotka)
+- oxfordi
+- Oxfordian
+- Oxfordiano
+- Oxfordianu
+- Oxfordiar
+- Oxfordien
+- Oxfordiense
+- Oxfordium
+- Oxfordià
+- Tầng Oxford
+- оксфордский ярус
+- Оксфордський ярус
+- آکسفوردین
+- الأكسفوردي
+- オックスフォーディアン
+- 牛津階
+- 옥스퍼드절
 has_id_wikidata: Q375784
 named_by: "[[_Standards/WikiData/WD~Alcide_d'Orbigny,344661]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Oxfordian_(stage),21685168]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Oxfordian_(stage),21685168]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 start_time: -163500000-01-01T00:00:00Z
-named_after: "[[_Standards/WikiData/WD~Oxford,34217]]"
+named_after: '[[_Standards/WikiData/WD~Oxford,34217]]'
 sRGB_color_hex_triplet: ABE7FB
 end_time: -157300000-01-01T00:00:00Z
 dv_has_:
   duration_:
-    years: "6.700e+6"
-  previous_:
-    item: "[[../Epoch-175~Middle_Jurassic/Age~4~Callovian|Age~4~Callovian]]"
-  next_:
-    item: "[[Age~2~Kimmeridgian]]"
+    years: 6.700e+6
   name_:
+    abbreviated: j5
+    af: Oxfordium
+    ar: الأكسفوردي
+    ast: Oxfordianu
     bg: Окѿфорд
-    cs: Oxford
+    bs: Oksfordij
+    ca: Oxfordià
+    cs: Oxford (stratigrafická jednotka)
     da: Oxfordien
     de: Oxfordium
+    en: Oxfordian
+    eo: oksfordio
     es: Oxfordiense
     et: Oxfordi
+    eu: Oxfordiar
+    fa: آکسفوردین
     fi: Oxford
     fr: Oxfordien
+    gl: Oxfordiano
     hu: oxfordi
-    it: oxfordiano
-    ja: オックスフォーディアン期
+    id: Oksfordium
+    it: Oxfordiano
+    ja: オックスフォーディアン
+    ko: 옥스퍼드절
+    la: Oxfordium
     lt: Oksfordis
-    nl: Oxfordiën
+    nb: Oxford (geologi)
+    nl: Oxfordien
+    nn: oxford
     no: Oxford
-    pl: Oksford
+    pl: oksford
     pt: Oxfordiano
+    ru: оксфордский ярус
+    scn: Oxfordianu
+    sh: Oksford
     sk: oxford
-    sl: oxfordij
+    sl: oksfordij
     sv: oxford
-    zh: 牛津期
-    abbreviated: j5
-  time_:
-    started: "-161.5e6"
-    stopped: "-154.8e6"
+    uk: Оксфордський ярус
+    vi: Tầng Oxford
+    zh: 牛津階
+  next_:
+    item: '[[Age~2~Kimmeridgian]]'
+  previous_:
+    item: '[[../Epoch-175~Middle_Jurassic/Age~4~Callovian|Age~4~Callovian]]'
   text_of_:
-    color: "0xBFE7F1"
+    color: 0xBFE7F1
+  time_:
+    started: -161.5e6
+    stopped: -154.8e6
 dv_is_:
   same_as:
-    - "[[WD~Oxfordian,375784]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic/Age~1~Oxfordian|Age~1~Oxfordian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic/Age~1~Oxfordian.public|Age~1~Oxfordian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic/Age~1~Oxfordian.internal|Age~1~Oxfordian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic/Age~1~Oxfordian.protect|Age~1~Oxfordian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic/Age~1~Oxfordian.private|Age~1~Oxfordian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic/Age~1~Oxfordian.personal|Age~1~Oxfordian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic/Age~1~Oxfordian.secret|Age~1~Oxfordian.secret]]"
-dv_has_duration_years: "6.700e+6"
-dv_has_previous_item: "[[../Epoch-175~Middle_Jurassic/Age~4~Callovian|Age~4~Callovian]]"
-dv_has_next_item: "[[Age~2~Kimmeridgian]]"
+  - '[[WD~Oxfordian,375784]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic/Age~1~Oxfordian|Age~1~Oxfordian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic/Age~1~Oxfordian.public|Age~1~Oxfordian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic/Age~1~Oxfordian.internal|Age~1~Oxfordian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic/Age~1~Oxfordian.protect|Age~1~Oxfordian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic/Age~1~Oxfordian.private|Age~1~Oxfordian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic/Age~1~Oxfordian.personal|Age~1~Oxfordian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic/Age~1~Oxfordian.secret|Age~1~Oxfordian.secret]]'
+dv_has_duration_years: 6.700e+6
+dv_has_previous_item: '[[../Epoch-175~Middle_Jurassic/Age~4~Callovian|Age~4~Callovian]]'
+dv_has_next_item: '[[Age~2~Kimmeridgian]]'
 dv_is_same_as:
-  - "[[WD~Oxfordian,375784]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic/Age~1~Oxfordian|Age~1~Oxfordian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic/Age~1~Oxfordian.public|Age~1~Oxfordian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic/Age~1~Oxfordian.internal|Age~1~Oxfordian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic/Age~1~Oxfordian.protect|Age~1~Oxfordian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic/Age~1~Oxfordian.private|Age~1~Oxfordian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic/Age~1~Oxfordian.personal|Age~1~Oxfordian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic/Age~1~Oxfordian.secret|Age~1~Oxfordian.secret]]"
+- '[[WD~Oxfordian,375784]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic/Age~1~Oxfordian|Age~1~Oxfordian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic/Age~1~Oxfordian.public|Age~1~Oxfordian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic/Age~1~Oxfordian.internal|Age~1~Oxfordian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic/Age~1~Oxfordian.protect|Age~1~Oxfordian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic/Age~1~Oxfordian.private|Age~1~Oxfordian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic/Age~1~Oxfordian.personal|Age~1~Oxfordian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic/Age~1~Oxfordian.secret|Age~1~Oxfordian.secret]]'
 dv_has_name_bg: Окѿфорд
 dv_has_name_cs: Oxford
 dv_has_name_da: Oxfordien
@@ -89,9 +132,9 @@ dv_has_name_sl: oxfordij
 dv_has_name_sv: oxford
 dv_has_name_zh: 牛津期
 dv_has_name_abbreviated: j5
-dv_has_time_started: "-161.5e6"
-dv_has_time_stopped: "-154.8e6"
-dv_has_text_of_color: "0xBFE7F1"
+dv_has_time_started: -161.5e6
+dv_has_time_stopped: -154.8e6
+dv_has_text_of_color: 0xBFE7F1
 ---
 # [[Age~1~Oxfordian]] 
 

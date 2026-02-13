@@ -1,80 +1,153 @@
 ---
 aliases:
-  - Era~3~Neoproterozoic
-  - Neoproterozoic
-  - пеопротерозой
-  - Neoproterozoikum
-  - Neoproterozoisk
-  - Neoproerozoico
-  - Neoproterosoikum
-  - Neoproterotsoikum
-  - Néoprotérozoïque
-  - neoproterozoikum
-  - neoproterozoico
-  - 原生代後期
-  - Neoproterozojus
-  - Neoproterozoïcum
-  - Neoproterozoik
-  - Neoproterozóico
-  - neoproterozoik
-  - 新元古代
+- an Ré Neoprótarasóch
+- Era~3~Neoproterozoic
+- Gelkeproterozugal
+- Neoproerozoico
+- Neoproterosoiko
+- Neoproterosoikum
+- Neoproterosoïkum
+- Neoproterosöig
+- Neoproterotsoikum
+- neoproterotsooinen maailmankausi
+- Neoproterozoeg
+- Neoproterozoic
+- neoproterozoico
+- Neoproterozoik
+- Neoproterozoiko
+- Neoproterozoikum
+- Neoproterozoisk
+- Neoproterozojus
+- Neoproterozoy
+- Neoproterozoyik
+- Neoproterozoïcum
+- Neoproterozoý
+- Neoproterozóico
+- novproterozoiko
+- Néoprotérozoïque
+- Nýfrumlífsöld
+- Đại Tân Nguyên Sinh
+- неапратэразой
+- неопротерозой
+- нэапратэразой
+- пеопротерозой
+- נאופרוטרוזואיקון
+- حقبة الطلائع الحديثة
+- نەوپروتەروزوي
+- پیشینزیستی نو
+- नूतनप्राग्जीवी महाकल्प
+- มหายุคนีโอโพรเทอโรโซอิก
+- 原生代後期
+- 新元古代
+- 新原生代
+- 신원생대
 has_id_wikidata: Q191935
 instance_of:
-  - "[[_Standards/WikiData/WD~era,630830]]"
-  - "[[_Standards/WikiData/WD~erathem,2464485]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+- '[[_Standards/WikiData/WD~era,630830]]'
+- '[[_Standards/WikiData/WD~erathem,2464485]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 start_time: -1000000000-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bent%20Rock%20at%20the%20Crudha%20Ard%20-%20geograph.org.uk%20-%20447478.jpg
 sRGB_color_hex_triplet: FEB342
 Commons_category: Neoproterozoic
 end_time: -538800000-01-01T00:00:00Z
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Neoproterozoic,9063270]]"
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Neoproterozoic,9063270]]'
 dv_has_:
   duration_:
-    years: "4.612e+8"
-  previous_:
-    item: "[[Era-1600~Mesoproterozoic]]"
-  next_:
-    item: "[[../Eon-0539~Phanerozoic/Era-0539~Paleozoic|Era~1~Paleozoic]]"
+    years: 4.612e+8
   name_:
-    bg: пеопротерозой
-    cs: Neoproterozoikum
-    da: Neoproterozoisk
-    de: Neoproterozoikum
-    es: Neoproerozoico
-    et: Neoproterosoikum
-    fi: Neoproterotsoikum
-    fr: Néoprotérozoïque
-    hu: neoproterozoikum
-    it: neoproterozoico
-    ja: 原生代後期
-    lt: Neoproterozojus
-    nl: Neoproterozoïcum
-    no: Neoproterozoikum
-    pl: Neoproterozoik
-    pt: Neoproterozóico
-    sk: neoproterozoikum
-    sl: neoproterozoik
-    sv: neoproterozoikum
-    zh: 新元古代
     abbreviated: NP
-  time_:
-    started: "-1000.0e6"
-    stopped: "-538.8e6"
+    af: Neoproterosoïkum
+    anp: नूतनप्राग्जीवी महाकल्प
+    ar: حقبة الطلائع الحديثة
+    avk: Gelkeproterozugal
+    az: Neoproterozoy
+    be: неапратэразой
+    be-tarask: нэапратэразой
+    bg: Неопротерозой
+    br: Neoproterozoeg
+    bs: Neoproterozoik
+    ca: Neoproterozoic
+    cs: Neoproterozoikum
+    cy: Neoproterosöig
+    da: Neoproterozoikum
+    de: Neoproterozoikum
+    en: Neoproterozoic
+    en-gb: Neoproterozoic
+    eo: novproterozoiko
+    es: Neoproterozoico
+    et: Neoproterosoikum
+    eu: Neoproterozoiko
+    fa: پیشینزیستی نو
+    fi: neoproterotsooinen maailmankausi
+    fr: Néoprotérozoïque
+    ga: an Ré Neoprótarasóch
+    gl: Neoproterozoico
+    he: נאופרוטרוזואיקון
+    hi: नूतनप्राग्जीवी महाकल्प
+    hr: neoproterozoik
+    hu: neoproterozoikum
+    id: Neoproterozoikum
+    is: Nýfrumlífsöld
+    it: Neoproterozoico
+    ja: 新原生代
+    kaa: Neoproterozoy
+    kk: Неопротерозой
+    kk-arab: نەوپروتەروزوي
+    kk-cn: نەوپروتەروزوي
+    kk-cyrl: Неопротерозой
+    kk-kz: Неопротерозой
+    kk-latn: Neoproterozoý
+    kk-tr: Neoproterozoý
+    ko: 신원생대
+    lt: neoproterozojus
+    ms: Neoproterozoik
+    nl: Neoproterozoïcum
+    nn: neoproterozoikum
+    no: Neoproterozoikum
+    pl: neoproterozoik
+    pt: Neoproterozoico
+    ro: Neoproterozoic
+    ru: неопротерозой
+    sh: Neoproterozoik
+    sk: Neoproterozoikum
+    sl: neoproterozoik
+    sv: Neoproterozoikum
+    th: มหายุคนีโอโพรเทอโรโซอิก
+    tl: Neoproterosoiko
+    tr: Neoproterozoyik
+    uk: неопротерозой
+    vi: Đại Tân Nguyên Sinh
+    wuu: 新元古代
+    yue: 新元古代
+    zh: 新元古代
+    zh-cn: 新元古代
+    zh-hans: 新元古代
+    zh-hant: 新元古代
+    zh-hk: 新元古代
+    zh-sg: 新元古代
+    zh-tw: 新元古代
+  next_:
+    item: '[[../Eon-0539~Phanerozoic/Era-0539~Paleozoic|Era~1~Paleozoic]]'
+  previous_:
+    item: '[[Era-1600~Mesoproterozoic]]'
   text_of_:
-    color: "0xFEB342"
+    color: 0xFEB342
+  time_:
+    started: -1000.0e6
+    stopped: -538.8e6
 dv_is_:
   same_as:
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic|Era-1000~Neoproterozoic]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic.public|Era-1000~Neoproterozoic.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic.internal|Era-1000~Neoproterozoic.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic.protect|Era-1000~Neoproterozoic.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic.private|Era-1000~Neoproterozoic.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic.personal|Era-1000~Neoproterozoic.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic.secret|Era-1000~Neoproterozoic.secret]]"
-dv_has_duration_years: "4.612e+8"
-dv_has_previous_item: "[[Era-1600~Mesoproterozoic]]"
-dv_has_next_item: "[[../Eon-0539~Phanerozoic/Era-0539~Paleozoic|Era~1~Paleozoic]]"
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic|Era-1000~Neoproterozoic]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic.public|Era-1000~Neoproterozoic.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic.internal|Era-1000~Neoproterozoic.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic.protect|Era-1000~Neoproterozoic.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic.private|Era-1000~Neoproterozoic.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic.personal|Era-1000~Neoproterozoic.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic.secret|Era-1000~Neoproterozoic.secret]]'
+dv_has_duration_years: 4.612e+8
+dv_has_previous_item: '[[Era-1600~Mesoproterozoic]]'
+dv_has_next_item: '[[../Eon-0539~Phanerozoic/Era-0539~Paleozoic|Era~1~Paleozoic]]'
 dv_has_name_bg: пеопротерозой
 dv_has_name_cs: Neoproterozoikum
 dv_has_name_da: Neoproterozoisk
@@ -96,19 +169,18 @@ dv_has_name_sl: neoproterozoik
 dv_has_name_sv: neoproterozoikum
 dv_has_name_zh: 新元古代
 dv_has_name_abbreviated: NP
-dv_has_time_started: "-1000.0e6"
-dv_has_time_stopped: "-538.8e6"
-dv_has_text_of_color: "0xFEB342"
+dv_has_time_started: -1000.0e6
+dv_has_time_stopped: -538.8e6
+dv_has_text_of_color: 0xFEB342
 dv_is_same_as:
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic|Era-1000~Neoproterozoic]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic.public|Era-1000~Neoproterozoic.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic.internal|Era-1000~Neoproterozoic.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic.protect|Era-1000~Neoproterozoic.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic.private|Era-1000~Neoproterozoic.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic.personal|Era-1000~Neoproterozoic.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic.secret|Era-1000~Neoproterozoic.secret]]"
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic|Era-1000~Neoproterozoic]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic.public|Era-1000~Neoproterozoic.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic.internal|Era-1000~Neoproterozoic.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic.protect|Era-1000~Neoproterozoic.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic.private|Era-1000~Neoproterozoic.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic.personal|Era-1000~Neoproterozoic.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic.secret|Era-1000~Neoproterozoic.secret]]'
 ---
-
 # [[Era-1000~Neoproterozoic]] 
 
 #is_a_/time_/Era 

@@ -1,17 +1,70 @@
 ---
 aliases:
-  - Eastern Front
-  - Eastern Theater
-  - WWI~Eastern_Front
-  - WWI~Eastern Front
+- Birinci dünya müharibəsində Şərq cəbhəsi
+- Doğu Cephesi
+- Eastern Front
+- Eastern Theater
+- Ekialdeko Frontea Lehen Mundu Gerran
+- Ffrynt y Dwyrain
+- Frente Oriental
+- front de l'Est
+- front oriental
+- Front Timur
+- Front wschodni
+- Fronte Oriental
+- Fronte orientale
+- Frontul de răsărit
+- Idarinne (Esimene maailmasõda)
+- Istočni front
+- Istočni front u Prvom svetskom ratu
+- Istočno bojište
+- Itärintama
+- keleti front
+- Mặt trận phía Đông
+- Oostfront
+- Orienta Fronto de la Unua Mondmilito
+- Ostfront
+- Pirmā pasaules kara Austrumu fronte
+- Rytų frontas Pirmajame pasauliniame kare
+- vzhodna fronta
+- východní fronta první světové války
+- WWI Eastern Front
+- WWI~Eastern Front
+- WWI~Eastern_Front
+- Östfronten under första världskriget
+- Østfronten
+- Østfronten under 1. verdenskrig
+- Ανατολικό Μέτωπο (Α΄ Παγκόσμιος Πόλεμος)
+- Беренсе донъя һуғышының Көнсығыш фронты
+- Беренче бөтендөнья сугышының Көнчыгыш фронты
+- Восточный фронт Первой мировой войны
+- Дорнод фронт
+- Източен фронт
+- Источен Фронт
+- Источни фронт у Првом светском рату
+- Східний фронт (Перша світова війна)
+- Усходні фронт
+- Усходні фронт Першай сусветнай вайны
+- Արևելյան ճակատ
+- החזית המזרחית במלחמת העולם הראשונה
+- الجبهة الشرقية
+- جبهه شرقی (جنگ جهانی اول)
+- ختيځ محاذ (لومړۍ نړيواله جګړه)
+- পূর্বাঞ্চলীয় রণাঙ্গন (প্রথম বিশ্বযুদ্ধ)
+- แนวรบด้านตะวันออก
+- 一戰東方戰線
+- 东方战线
+- 東方戰線
+- 東部戦線
+- 동부 전선
 has_id_wikidata: Q154573
-instance_of: "[[_Standards/WikiData/WD~war_front,842332]]"
+instance_of: '[[_Standards/WikiData/WD~war_front,842332]]'
 location:
-  - "[[_Standards/WikiData/WD~Eastern_Europe,27468]]"
-  - "[[_Standards/WikiData/WD~Central_Europe,27509]]"
+- '[[_Standards/WikiData/WD~Eastern_Europe,27468]]'
+- '[[_Standards/WikiData/WD~Central_Europe,27509]]'
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Eastern%20Front%20%28World%20War%20I%29.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Eastern%20Front%2C%201914.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Eastern%20Front%20%28World%20War%20I%29.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Eastern%20Front%2C%201914.jpg
 Libris_URI: dbqsrwtx223xvwt
 Commons_gallery: Eastern Front (World War I)
 Commons_category: Eastern Front theatre of World War I
@@ -19,25 +72,89 @@ end_time: 1918-03-03T00:00:00Z
 start_time: 1914-08-17T00:00:00Z
 dv_is_:
   same_as:
-    - "[[../../../../../../../../../WikiData/WD~Eastern_Front,154573|WD~Eastern_Front,154573]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/WWI~Eastern_Front|WWI~Eastern_Front]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/WWI~Eastern_Front.public|WWI~Eastern_Front.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/WWI~Eastern_Front.internal|WWI~Eastern_Front.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/WWI~Eastern_Front.protect|WWI~Eastern_Front.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/WWI~Eastern_Front.private|WWI~Eastern_Front.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/WWI~Eastern_Front.personal|WWI~Eastern_Front.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/WWI~Eastern_Front.secret|WWI~Eastern_Front.secret]]"
+  - '[[../../../../../../../../../WikiData/WD~Eastern_Front,154573|WD~Eastern_Front,154573]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/WWI~Eastern_Front|WWI~Eastern_Front]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/WWI~Eastern_Front.public|WWI~Eastern_Front.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/WWI~Eastern_Front.internal|WWI~Eastern_Front.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/WWI~Eastern_Front.protect|WWI~Eastern_Front.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/WWI~Eastern_Front.private|WWI~Eastern_Front.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/WWI~Eastern_Front.personal|WWI~Eastern_Front.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/WWI~Eastern_Front.secret|WWI~Eastern_Front.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../../WikiData/WD~Eastern_Front,154573|WD~Eastern_Front,154573]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/WWI~Eastern_Front|WWI~Eastern_Front]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/WWI~Eastern_Front.public|WWI~Eastern_Front.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/WWI~Eastern_Front.internal|WWI~Eastern_Front.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/WWI~Eastern_Front.protect|WWI~Eastern_Front.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/WWI~Eastern_Front.private|WWI~Eastern_Front.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/WWI~Eastern_Front.personal|WWI~Eastern_Front.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/WWI~Eastern_Front.secret|WWI~Eastern_Front.secret]]"
+- '[[../../../../../../../../../WikiData/WD~Eastern_Front,154573|WD~Eastern_Front,154573]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/WWI~Eastern_Front|WWI~Eastern_Front]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/WWI~Eastern_Front.public|WWI~Eastern_Front.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/WWI~Eastern_Front.internal|WWI~Eastern_Front.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/WWI~Eastern_Front.protect|WWI~Eastern_Front.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/WWI~Eastern_Front.private|WWI~Eastern_Front.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/WWI~Eastern_Front.personal|WWI~Eastern_Front.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/WWI~Eastern_Front.secret|WWI~Eastern_Front.secret]]'
+dv_has_:
+  name_:
+    ar: الجبهة الشرقية
+    az: Birinci dünya müharibəsində Şərq cəbhəsi
+    ba: Беренсе донъя һуғышының Көнсығыш фронты
+    be: Усходні фронт Першай сусветнай вайны
+    be-tarask: Усходні фронт
+    bg: Източен фронт
+    bn: পূর্বাঞ্চলীয় রণাঙ্গন (প্রথম বিশ্বযুদ্ধ)
+    ca: front oriental
+    cs: východní fronta první světové války
+    cy: Ffrynt y Dwyrain
+    da: Østfronten under 1. verdenskrig
+    de: Ostfront
+    de-ch: Ostfront
+    el: Ανατολικό Μέτωπο (Α΄ Παγκόσμιος Πόλεμος)
+    en: WWI Eastern Front
+    en-ca: Eastern Front
+    eo: Orienta Fronto de la Unua Mondmilito
+    es: Frente oriental
+    et: Idarinne (Esimene maailmasõda)
+    eu: Ekialdeko Frontea Lehen Mundu Gerran
+    fa: جبهه شرقی (جنگ جهانی اول)
+    fi: Itärintama
+    fr: front de l'Est
+    gl: Fronte Oriental
+    he: החזית המזרחית במלחמת העולם הראשונה
+    hr: Istočno bojište
+    hu: keleti front
+    hy: Արևելյան ճակատ
+    id: Front Timur
+    it: Fronte orientale
+    ja: 東部戦線
+    ko: 동부 전선
+    lt: Rytų frontas Pirmajame pasauliniame kare
+    lv: Pirmā pasaules kara Austrumu fronte
+    mk: Источен Фронт
+    mn: Дорнод фронт
+    nb: Østfronten
+    nl: Oostfront
+    pl: Front wschodni
+    ps: ختيځ محاذ (لومړۍ نړيواله جګړه)
+    pt: Frente Oriental
+    pt-br: Frente Oriental
+    ro: Frontul de răsărit
+    ru: Восточный фронт Первой мировой войны
+    sh: Istočni front
+    sl: vzhodna fronta
+    sr: Источни фронт у Првом светском рату
+    sr-ec: Источни фронт у Првом светском рату
+    sr-el: Istočni front u Prvom svetskom ratu
+    sv: Östfronten under första världskriget
+    th: แนวรบด้านตะวันออก
+    tr: Doğu Cephesi
+    tt: Беренче бөтендөнья сугышының Көнчыгыш фронты
+    uk: Східний фронт (Перша світова війна)
+    vi: Mặt trận phía Đông
+    yue: 一戰東方戰線
+    zh: 东方战线
+    zh-cn: 东方战线
+    zh-hans: 东方战线
+    zh-hant: 東方戰線
+    zh-hk: 東方戰線
+    zh-sg: 东方战线
+    zh-tw: 東方戰線
 ---
-
 # [[WWI~Eastern_Front]] 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Eastern_Front,154573|WD~Eastern_Front,154573]] 

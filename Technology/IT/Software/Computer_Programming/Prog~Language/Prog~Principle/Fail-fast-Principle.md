@@ -1,8 +1,18 @@
 ---
 has_id_wikidata: Q1392923
+dv_has_:
+  name_:
+    de: Fail-Fast
+    en: fail-fast system
+    nb: feil fort-system
+    nn: feil fort-system
+    zh: 快速失败
+aliases:
+- Fail-Fast
+- fail-fast system
+- feil fort-system
+- 快速失败
 ---
-
-
 #is_/different_from :: [[Fail-fast-Culture]]  
 #is_/conflicting_/with :: [[Robustness-Principle]] 
 

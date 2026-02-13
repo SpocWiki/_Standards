@@ -1,76 +1,126 @@
 ---
 aliases:
-  - Bartonian
+- Barton
+- Bartonian
+- Bartoniano
+- Bartonianu
+- Bartoniar
+- Bartonien
+- Bartoniense
+- bartonij
+- Bartonium
+- Bartoniyen
+- Bartonià
+- Bartunianu
+- Bārtonas stāvs
+- Tầng Barton
+- Βαρτόνιος βαθμίδα
+- бартон
+- Бартон (геологија)
+- бартонский ярус
+- البارتوني
+- بارتونین
+- バートニアン
+- 巴尔顿期
+- 巴尔顿阶
+- 巴爾頓期
+- 巴爾頓階
+- 바턴절
 has_id_wikidata: Q508675
-named_by: "[[_Standards/WikiData/WD~Karl_Mayer_Eymar,116704]]"
+named_by: '[[_Standards/WikiData/WD~Karl_Mayer_Eymar,116704]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
 named_after:
-  - "[[_Standards/WikiData/WD~Barton_on_Sea,3635466]]"
-  - "[[_Standards/WikiData/WD~Barton_Beds,3635464]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Bartonian,24067978]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+- '[[_Standards/WikiData/WD~Barton_on_Sea,3635466]]'
+- '[[_Standards/WikiData/WD~Barton_Beds,3635464]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Bartonian,24067978]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 end_time: -37800000-01-01T00:00:00Z
 Commons_category: Bartonian
 sRGB_color_hex_triplet: FEC498
 start_time: -41200000-01-01T00:00:00Z
 dv_has_:
   duration_:
-    years: "3.490e+6"
-  previous_:
-    item: "[[Age~2~Lutetian]]"
-  next_:
-    item: "[[Age~4~Priabonian]]"
+    years: 3.490e+6
   name_:
+    abbreviated: e6
+    af: Bartonium
+    ar: البارتوني
+    ast: Bartonianu
     bg: Бартон
+    ca: Bartonià
     cs: Barton
     da: Bartonien
     de: Bartonium
+    el: Βαρτόνιος βαθμίδα
+    en: Bartonian
     es: Bartoniense
     et: Bartoni
+    eu: Bartoniar
+    fa: بارتونین
     fi: Barton
     fr: Bartonien
     hu: bartoni
-    it: bartoniano
-    ja: バートニアン期
+    id: Bartonium
+    it: Bartoniano
+    ja: バートニアン
+    ko: 바턴절
     lt: Bartonis
-    nl: Bartoniën
+    lv: Bārtonas stāvs
+    mk: бартон
+    nds: Bartonium
+    nl: Bartonien
+    nn: barton
     no: Barton
-    pl: Barton
+    pl: barton
     pt: Bartoniano
+    ru: бартонский ярус
+    scn: Bartunianu
+    sh: Barton
     sk: bartón
     sl: bartonij
+    sr: Бартон (геологија)
     sv: barton
+    tr: Bartoniyen
+    vec: Bartonian
+    vi: Tầng Barton
+    yue: 巴爾頓期
     zh: 巴尔顿期
-    abbreviated: e6
-  time_:
-    started: "-41.20e6"
-    stopped: "-37.71e6"
+    zh-hans: 巴尔顿阶
+    zh-hant: 巴爾頓階
+    zh-hk: 巴爾頓階
+  next_:
+    item: '[[Age~4~Priabonian]]'
+  previous_:
+    item: '[[Age~2~Lutetian]]'
   text_of_:
-    color: "0xFDC091"
+    color: 0xFDC091
+  time_:
+    started: -41.20e6
+    stopped: -37.71e6
 dv_is_:
   same_as:
-    - "[[WD~Bartonian,508675]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~3~Bartonian|Age~3~Bartonian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~3~Bartonian.public|Age~3~Bartonian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~3~Bartonian.internal|Age~3~Bartonian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~3~Bartonian.protect|Age~3~Bartonian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~3~Bartonian.private|Age~3~Bartonian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~3~Bartonian.personal|Age~3~Bartonian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~3~Bartonian.secret|Age~3~Bartonian.secret]]"
-dv_has_duration_years: "3.490e+6"
-dv_has_previous_item: "[[Age~2~Lutetian]]"
-dv_has_next_item: "[[Age~4~Priabonian]]"
+  - '[[WD~Bartonian,508675]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~3~Bartonian|Age~3~Bartonian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~3~Bartonian.public|Age~3~Bartonian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~3~Bartonian.internal|Age~3~Bartonian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~3~Bartonian.protect|Age~3~Bartonian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~3~Bartonian.private|Age~3~Bartonian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~3~Bartonian.personal|Age~3~Bartonian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~3~Bartonian.secret|Age~3~Bartonian.secret]]'
+dv_has_duration_years: 3.490e+6
+dv_has_previous_item: '[[Age~2~Lutetian]]'
+dv_has_next_item: '[[Age~4~Priabonian]]'
 dv_is_same_as:
-  - "[[WD~Bartonian,508675]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~3~Bartonian|Age~3~Bartonian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~3~Bartonian.public|Age~3~Bartonian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~3~Bartonian.internal|Age~3~Bartonian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~3~Bartonian.protect|Age~3~Bartonian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~3~Bartonian.private|Age~3~Bartonian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~3~Bartonian.personal|Age~3~Bartonian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~3~Bartonian.secret|Age~3~Bartonian.secret]]"
+- '[[WD~Bartonian,508675]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~3~Bartonian|Age~3~Bartonian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~3~Bartonian.public|Age~3~Bartonian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~3~Bartonian.internal|Age~3~Bartonian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~3~Bartonian.protect|Age~3~Bartonian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~3~Bartonian.private|Age~3~Bartonian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~3~Bartonian.personal|Age~3~Bartonian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~3~Bartonian.secret|Age~3~Bartonian.secret]]'
 dv_has_name_bg: Бартон
 dv_has_name_cs: Barton
 dv_has_name_da: Bartonien
@@ -92,9 +142,9 @@ dv_has_name_sl: bartonij
 dv_has_name_sv: barton
 dv_has_name_zh: 巴尔顿期
 dv_has_name_abbreviated: e6
-dv_has_time_started: "-41.20e6"
-dv_has_time_stopped: "-37.71e6"
-dv_has_text_of_color: "0xFDC091"
+dv_has_time_started: -41.20e6
+dv_has_time_stopped: -37.71e6
+dv_has_text_of_color: 0xFDC091
 ---
 # [[Age~3~Bartonian]] 
 

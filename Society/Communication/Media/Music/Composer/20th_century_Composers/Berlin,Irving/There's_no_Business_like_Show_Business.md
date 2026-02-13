@@ -1,8 +1,12 @@
 ---
 aliases:
-  - There's No Business Like Show Business
-  - There's_no_Business_like_Show_Business
-  - There's no Business like Show Business
+- There's No Business Like Show Business
+- There's No Business Like Show Business (pjesma)
+- There's_no_Business_like_Show_Business
+- There’s No Business Like Show Business
+- ショウほど素敵な商売はない
+- 娛樂至上
+- 娱乐至上
 has_id_wikidata: Q2419754
 lyricist: '[[_Standards/WikiData/WD~Irving_Berlin,128746]]'
 composer: '[[_Standards/WikiData/WD~Irving_Berlin,128746]]'
@@ -15,8 +19,36 @@ form_of_creative_work: '[[_Standards/WikiData/WD~song,7366]]'
 ISWC: T-070.179.409-3
 title: There's No Business Like Show Business
 publication_date: 1946-01-01T00:00:00Z
+dv_has_:
+  name_:
+    ast: There's No Business Like Show Business
+    ca: There's No Business Like Show Business
+    da: There's No Business Like Show Business
+    de: There’s No Business Like Show Business
+    en: There's No Business Like Show Business
+    es: There's No Business Like Show Business
+    eu: There's No Business Like Show Business
+    fi: There's No Business Like Show Business
+    fr: There's No Business Like Show Business
+    hu: There's No Business Like Show Business
+    it: There's No Business Like Show Business
+    ja: ショウほど素敵な商売はない
+    nb: There's No Business Like Show Business
+    nl: There's No Business Like Show Business
+    nn: There's No Business Like Show Business
+    pl: There's No Business Like Show Business
+    pt: There's No Business Like Show Business
+    ro: There's No Business Like Show Business
+    se: There's No Business Like Show Business
+    sh: There's No Business Like Show Business (pjesma)
+    sq: There's No Business Like Show Business
+    sv: There's No Business Like Show Business
+    tr: There's No Business Like Show Business
+    zh: 娱乐至上
+    zh-cn: 娱乐至上
+    zh-hans: 娱乐至上
+    zh-hant: 娛樂至上
 ---
-
 # [[There's_no_Business_like_Show_Business]] 
 
 #is_/same_as :: [[WD~There's_no_Business_like_Show_Business,2419754]] 

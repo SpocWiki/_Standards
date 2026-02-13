@@ -1,54 +1,283 @@
 ---
 aliases:
-  - Russian Revolution
-  - 1917-Russian_Revolution
-  - 1917-Russian Revolution
+- 1917-es oroszországi forradalmak
+- 1917-Russian Revolution
+- 1917-Russian_Revolution
+- 1917. aasta revolutsioonid Venemaal
+- 1917. gada Krievijas revolūcija
+- 1917年俄国革命
+- 1917年俄國革命
+- Chwyldro Rwsia
+- Cách mạng Nga
+- Den russiske revolusjon
+- Den russiske revolusjonen
+- Den Russiske Revolution 1917
+- Domhwelans Russi
+- Errusiako Iraultza
+- Fevral inqilobi
+- Himagsikang Ruso noong 1917
+- Lō͘-se-a Kek-bēng
+- Mapinduzi ya Urusi ya 1917
+- Rebolusyon Ruso
+- Reboluçon Russa de 1917
+- Res Novae Russiae
+- Reveulzi Rusia
+- Revolisyon ris
+- Revolucion Russa
+- Revolucioni rus
+- Revolució Russa
+- Revolución rusa
+- Revolución rusa de 1917
+- Revolución russa
+- Revolushon Rusiano di 1917
+- Revolusi Rusia
+- Revolusi Rusia 1917
+- Revoluzzion russa
+- Revolução Russa de 1917
+- Revoluția Rusă
+- Revolücii Venämas vl 1917
+- Revołusion Rusa
+- Rewolucje w Rosji 1917 roku
+- Rivolussion russa dël 1917
+- Rivolutzione russa
+- Rivoluzion russe
+- rivoluzione russa
+- Rivoluzzjoni Russa
+- Rivuluzzioni russa
+- Rosėjės revuoliocėjė
+- Roushie Revolution
+- Rrúsia Ñepu'ã
+- Rus Devrimi
+- Rusia revolucio de 1917
+- Rusiana revoluciono
+- Rusijos revoliucija
+- Rusiya inqilabı
+- ruska revolucija
+- Ruská revoluce
+- Ruská revolúcia 1917
+- Ruso a Rebolusion
+- Russian Revolution
+- Russian Revolution of 1917
+- Russiese Rewolusie
+- Russische Revolutie
+- Russische Revolution
+- Russische Revolutschoon
+- Russischi Revolution
+- Russiska kollveltingin 1917
+- Russyske Revolúsje
+- Ruusi tɛ kpɛlɩ lɛɛzɩtʊ
+- Ryska revolutionen
+- Réabhlóid na Rúise 1917
+- Révolusi Rusia
+- révolution russe
+- Rússneska byltingin 1917
+- Venäjän vallankumous
+- Ρωσική Επανάσταση
+- Революция 1917 года в России
+- Російська революція
+- Россия инкыйлабы
+- Руска револуција
+- Руска революция
+- Рэвалюцыя 1917 года ў Расіі
+- Рэвалюцыя 1917 году ў Расеі
+- Уæрæсейы революци 1917-æм азы
+- Урыҫ революцияһы
+- Қазан төңкерісі
+- Ռուսական հեղափոխություն
+- המהפכה הרוסית (1917)
+- רוסישע רעוואלוציע
+- التورة الروسية
+- الثورة الروسية
+- الثوره الروسيه
+- انقلاب روس
+- انقلاب روسیه
+- د روسیې انقلاب
+- روسي انقلاب
+- شۆڕشی ڕووسیا
+- रशियन क्रांती
+- रूसी क्रांति
+- রুশ বিপ্লব
+- ৰুছ বিপ্লৱ
+- ਰੂਸੀ ਇਨਕਲਾਬ
+- உருசியப் புரட்சி
+- ರಷ್ಯಾದ ಕ್ರಾಂತಿ
+- റഷ്യൻ വിപ്ലവം
+- රුසියානු විප්ලවය
+- การปฏิวัติรัสเซีย
+- ການປະຕິວັດລັດເຊຍ
+- რუსეთის რევოლუცია
+- რუსეთიშ რევოლუცია
+- ロシア革命
+- 俄國革命
+- 러시아 혁명
 has_id_wikidata: Q8729
 Commons_category: Russian Revolution of 1917
 Commons_gallery: Russian Revolution of 1917
-country: "[[_Standards/WikiData/WD~Russian_Empire,34266]]"
+country: '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Revoluci%C3%B3n-marzo-rusia--russianbolshevik00rossuoft.png
-instance_of: "[[_Standards/WikiData/WD~revolution,10931]]"
-location: "[[_Standards/WikiData/WD~Russian_Empire,34266]]"
+instance_of: '[[_Standards/WikiData/WD~revolution,10931]]'
+location: '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
 participant:
-  - "[[_Standards/WikiData/WD~Bolsheviks,83372]]"
-  - "[[_Standards/WikiData/WD~Mensheviks,191515]]"
-  - "[[_Standards/WikiData/WD~Socialist_Revolutionary_Party,217009]]"
-part_of: "[[_Standards/WikiData/WD~Revolutions_of_1917_1923,7318933]]"
+- '[[_Standards/WikiData/WD~Bolsheviks,83372]]'
+- '[[_Standards/WikiData/WD~Mensheviks,191515]]'
+- '[[_Standards/WikiData/WD~Socialist_Revolutionary_Party,217009]]'
+part_of: '[[_Standards/WikiData/WD~Revolutions_of_1917_1923,7318933]]'
 point_in_time: 1917-06
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Russian_Revolution,14398246]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Russian_Revolution,14398246]]'
 dv_has_:
+  duration: P5Y
+  duration_:
+    years: 5
+  name_:
+    af: Russiese Rewolusie
+    an: Revolución rusa de 1917
+    anp: रूसी क्रांति
+    ar: الثورة الروسية
+    ary: التورة الروسية
+    arz: الثوره الروسيه
+    as: ৰুছ বিপ্লৱ
+    ast: Revolución rusa
+    az: Rusiya inqilabı
+    ba: Урыҫ революцияһы
+    be: Рэвалюцыя 1917 года ў Расіі
+    be-tarask: Рэвалюцыя 1917 году ў Расеі
+    bg: Руска революция
+    bn: রুশ বিপ্লব
+    br: Reveulzi Rusia
+    bs: Ruska revolucija
+    ca: Revolució Russa
+    ckb: شۆڕشی ڕووسیا
+    cs: Ruská revoluce
+    cy: Chwyldro Rwsia
+    da: Den Russiske Revolution 1917
+    de: Russische Revolution
+    de-ch: Russische Revolution
+    el: Ρωσική Επανάσταση
+    en: Russian Revolution
+    en-ca: Russian Revolution
+    en-gb: Russian Revolution
+    en-us: Russian Revolution
+    eo: Rusia revolucio de 1917
+    es: Revolución rusa
+    et: 1917. aasta revolutsioonid Venemaal
+    eu: Errusiako Iraultza
+    ext: Revolución russa
+    fa: انقلاب روسیه
+    fi: Venäjän vallankumous
+    fo: Russiska kollveltingin 1917
+    fr: révolution russe
+    fur: Rivoluzion russe
+    fy: Russyske Revolúsje
+    ga: Réabhlóid na Rúise 1917
+    gl: Revolución Rusa de 1917
+    gn: Rrúsia Ñepu'ã
+    gsw: Russischi Revolution
+    he: המהפכה הרוסית (1917)
+    hi: रूसी क्रांति
+    hif: Russian Revolution of 1917
+    hr: Ruska revolucija
+    ht: Revolisyon ris
+    hu: 1917-es oroszországi forradalmak
+    hy: Ռուսական հեղափոխություն
+    id: Revolusi Rusia
+    ilo: Ruso a Rebolusion
+    io: Rusiana revoluciono
+    is: Rússneska byltingin 1917
+    it: rivoluzione russa
+    ja: ロシア革命
+    jv: Révolusi Rusia
+    ka: რუსეთის რევოლუცია
+    kbp: Ruusi tɛ kpɛlɩ lɛɛzɩtʊ
+    kk: Қазан төңкерісі
+    kn: ರಷ್ಯಾದ ಕ್ರಾಂತಿ
+    ko: 러시아 혁명
+    kw: Domhwelans Russi
+    la: Res Novae Russiae
+    lmo: Revoluzzion russa
+    lo: ການປະຕິວັດລັດເຊຍ
+    lt: Rusijos revoliucija
+    lv: 1917. gada Krievijas revolūcija
+    min: Revolusi Rusia
+    mk: Руска револуција
+    ml: റഷ്യൻ വിപ്ലവം
+    mr: रशियन क्रांती
+    ms: Revolusi Rusia 1917
+    mt: Rivoluzzjoni Russa
+    mwl: Reboluçon Russa de 1917
+    nan: Lō͘-se-a Kek-bēng
+    nb: Den russiske revolusjon
+    nds: Russische Revolutschoon
+    nl: Russische Revolutie
+    nn: Den russiske revolusjonen
+    oc: Revolucion Russa
+    os: Уæрæсейы революци 1917-æм азы
+    pa: ਰੂਸੀ ਇਨਕਲਾਬ
+    pap: Revolushon Rusiano di 1917
+    pl: Rewolucje w Rosji 1917 roku
+    pms: Rivolussion russa dël 1917
+    pnb: انقلاب روس
+    ps: د روسیې انقلاب
+    pt: Revolução Russa de 1917
+    pt-br: Revolução Russa de 1917
+    ro: Revoluția Rusă
+    ru: Революция 1917 года в России
+    sc: Rivolutzione russa
+    scn: Rivuluzzioni russa
+    sco: Roushie Revolution
+    sd: روسي انقلاب
+    sgs: Rosėjės revuoliocėjė
+    sh: Ruska revolucija
+    si: රුසියානු විප්ලවය
+    sk: Ruská revolúcia 1917
+    sl: ruska revolucija
+    sq: Revolucioni rus
+    sr: Руска револуција
+    sv: Ryska revolutionen
+    sw: Mapinduzi ya Urusi ya 1917
+    ta: உருசியப் புரட்சி
+    th: การปฏิวัติรัสเซีย
+    tl: Himagsikang Ruso noong 1917
+    tr: Rus Devrimi
+    tt: Россия инкыйлабы
+    uk: Російська революція
+    ur: انقلاب روس
+    uz: Fevral inqilobi
+    vec: Revołusion Rusa
+    vep: Revolücii Venämas vl 1917
+    vi: Cách mạng Nga
+    war: Rebolusyon Ruso
+    wuu: 1917年俄国革命
+    xmf: რუსეთიშ რევოლუცია
+    yi: רוסישע רעוואלוציע
+    yue: 俄國革命
+    zh: 1917年俄國革命
   time_:
     started: 1917-06-01T00:00:00.000+02:00
     stopped: 1922-06-01T00:00:00.000+01:00
-  duration_:
-    years: 5
-  duration: P5Y
 dv_is_:
   same_as:
-    - "[[../../../../../../../../WikiData/WD~Russian_Revolution,8729]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Revolution|1917-Russian_Revolution]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Revolution.public|1917-Russian_Revolution.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Revolution.internal|1917-Russian_Revolution.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Revolution.protect|1917-Russian_Revolution.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Revolution.private|1917-Russian_Revolution.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Revolution.personal|1917-Russian_Revolution.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Revolution.secret|1917-Russian_Revolution.secret]]"
+  - '[[../../../../../../../../WikiData/WD~Russian_Revolution,8729]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Revolution|1917-Russian_Revolution]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Revolution.public|1917-Russian_Revolution.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Revolution.internal|1917-Russian_Revolution.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Revolution.protect|1917-Russian_Revolution.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Revolution.private|1917-Russian_Revolution.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Revolution.personal|1917-Russian_Revolution.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Revolution.secret|1917-Russian_Revolution.secret]]'
 dv_has_time_started: 1917-06-01
 dv_has_time_stopped: 1922-06-01
 dv_has_duration_years: 5
 dv_has_duration: P5Y
 dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Russian_Revolution,8729]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Revolution|1917-Russian_Revolution]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Revolution.public|1917-Russian_Revolution.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Revolution.internal|1917-Russian_Revolution.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Revolution.protect|1917-Russian_Revolution.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Revolution.private|1917-Russian_Revolution.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Revolution.personal|1917-Russian_Revolution.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Revolution.secret|1917-Russian_Revolution.secret]]"
+- '[[../../../../../../../../WikiData/WD~Russian_Revolution,8729]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Revolution|1917-Russian_Revolution]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Revolution.public|1917-Russian_Revolution.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Revolution.internal|1917-Russian_Revolution.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Revolution.protect|1917-Russian_Revolution.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Revolution.private|1917-Russian_Revolution.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Revolution.personal|1917-Russian_Revolution.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Revolution.secret|1917-Russian_Revolution.secret]]'
 ---
-
 has_time_started = `=this.dv_has_time_started` 
 has_time_stopped = `=this.dv_has_time_stopped` 
 #has_/duration_/years :: `$=Math.round(((dv.current().dv_has_time_stopped ?? new Date()) - dv.current().dv_has_time_started)/1000/60/60/24/365.2425)` 

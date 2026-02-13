@@ -1,54 +1,224 @@
 ---
 aliases:
-  - Hellenistic period
-  - -0322-Hellenistic_Period-0029
-  - -0322-Hellenistic Period-0029
+- -0322-Hellenistic Period-0029
+- -0322-Hellenistic_Period-0029
+- an Ré Heilléanaíoch
+- Elenism
+- ellenismo
+- Ellenismu
+- Ellinizm
+- epoka hellenistyczna
+- ełenismo
+- garai helenistiko
+- Grecia elenistică
+- helenisma epoko
+- Helenismo
+- Helenistik Dönem
+- Helenizam
+- helenizem
+- Helenizm
+- helenizmas
+- Helenizmus
+- Hellenism
+- hellenisme
+- Hellenismen
+- Hellenismi
+- Hellenismus
+- Hellenistic period
+- Hellenistiese tydperk
+- Hellenistische periode
+- hellenizmus
+- Helleníski tíminn
+- Hellēnisms
+- helénismus
+- Hi-lia̍p-hòa sî-kî
+- Marevezh hellenadek
+- Oes Helenistaidd
+- Periode Helenistik
+- Periodo hellenistic
+- periodu helenísticu
+- període hel·lenístic
+- Período helenístico
+- thời kỳ Hy Lạp hóa
+- Vanim-potoana helenistika
+- Zaman Helenistik
+- Çaxa helenî
+- époque hellénistique
+- Ελληνιστική περίοδος
+- Елинизъм
+- елліністичний період
+- хеленистичка ера
+- хеленистички период
+- элінізм
+- Эллинизм
+- Эллинизм дәуірінің мәдениеті
+- Հելլենականութեան Դարաշրջան
+- Հելլենիզմ
+- התקופה ההלניסטית
+- عصر هلنستي
+- عصر هلنی
+- ماوەی ھێلینیستی
+- هيلينستيه
+- هېلنیسټي دوره
+- ہیلینستی ویلا
+- ہیلینیائی دور
+- हेलेनिस्टिक काल
+- हेलेनिस्टिक कालखंड
+- হেলেনীয় যুগ
+- எலனியக் காலம்
+- ഹെല്ലനിസ്റ്റിക് യുഗം
+- สมัยเฮลเลนิสติก
+- ဟဲလင်နစ်စတစ်ခေတ်
+- ელინიზმი
+- ヘレニズム
+- 希腊化时代
+- 希臘化時代
+- 헬레니즘 시대의 그리스
 has_id_wikidata: Q428995
 end_time: -0029-01-01T00:00:00Z
 start_time: -0322-01-01T00:00:00Z
 described_by_source:
-  - "[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
+- '[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~art_style,1792644]]"
-  - "[[_Standards/WikiData/WD~middle_chronology,3448837]]"
-  - "[[_Standards/WikiData/WD~historical_period,11514315]]"
-  - "[[_Standards/WikiData/WD~culture,11042]]"
+- '[[_Standards/WikiData/WD~art_style,1792644]]'
+- '[[_Standards/WikiData/WD~middle_chronology,3448837]]'
+- '[[_Standards/WikiData/WD~historical_period,11514315]]'
+- '[[_Standards/WikiData/WD~culture,11042]]'
 Commons_category: Hellenistic age
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tetradrachme.wmt.jpg
 Provenio_UUID: 708e1040-9f9e-4c8e-846c-826d5d0166e4
 EAGLE_id: dates/lod/19
-Wolfram_Language_entity_code: Entity"Concept", "Hellenism = `=this.dv_"Concept", "Hellenism` 
+Wolfram_Language_entity_code: Entity"Concept", "Hellenism = `=this.dv_"Concept", "Hellenism`
 Krugosvet_article_archived_: istoriya/ellinizm
 dv_"Concept", "Hellenism: v5rq6"
 dv_is_:
   same_as:
-    - "[[../../../../../../../../../WikiData/WD~Hellenistic_period,428995]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029|-0322-Hellenistic_Period-0029]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029.public|-0322-Hellenistic_Period-0029.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029.internal|-0322-Hellenistic_Period-0029.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029.protect|-0322-Hellenistic_Period-0029.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029.private|-0322-Hellenistic_Period-0029.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029.personal|-0322-Hellenistic_Period-0029.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029.secret|-0322-Hellenistic_Period-0029.secret]]"
+  - '[[../../../../../../../../../WikiData/WD~Hellenistic_period,428995]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029|-0322-Hellenistic_Period-0029]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029.public|-0322-Hellenistic_Period-0029.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029.internal|-0322-Hellenistic_Period-0029.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029.protect|-0322-Hellenistic_Period-0029.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029.private|-0322-Hellenistic_Period-0029.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029.personal|-0322-Hellenistic_Period-0029.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029.secret|-0322-Hellenistic_Period-0029.secret]]'
 dv_concept-hellenism: v5rq6"
 dv_is_same_as:
-  - "[[../../../../../../../../../WikiData/WD~Hellenistic_period,428995]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029|-0322-Hellenistic_Period-0029]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029.public|-0322-Hellenistic_Period-0029.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029.internal|-0322-Hellenistic_Period-0029.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029.protect|-0322-Hellenistic_Period-0029.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029.private|-0322-Hellenistic_Period-0029.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029.personal|-0322-Hellenistic_Period-0029.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029.secret|-0322-Hellenistic_Period-0029.secret]]"
+- '[[../../../../../../../../../WikiData/WD~Hellenistic_period,428995]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029|-0322-Hellenistic_Period-0029]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029.public|-0322-Hellenistic_Period-0029.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029.internal|-0322-Hellenistic_Period-0029.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029.protect|-0322-Hellenistic_Period-0029.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029.private|-0322-Hellenistic_Period-0029.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029.personal|-0322-Hellenistic_Period-0029.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029.secret|-0322-Hellenistic_Period-0029.secret]]'
+dv_has_:
+  name_:
+    af: Hellenistiese tydperk
+    ar: عصر هلنستي
+    arz: هيلينستيه
+    ast: periodu helenísticu
+    az: Ellinizm
+    be: элінізм
+    be-tarask: элінізм
+    bg: Елинизъм
+    bn: হেলেনীয় যুগ
+    br: Marevezh hellenadek
+    bs: Helenizam
+    ca: període hel·lenístic
+    cbk-zam: Período helenístico
+    ckb: ماوەی ھێلینیستی
+    cs: helénismus
+    cv: Эллинизм
+    cy: Oes Helenistaidd
+    da: Hellenismen
+    de: Hellenismus
+    de-ch: Hellenismus
+    diq: Helenizm
+    el: Ελληνιστική περίοδος
+    en: Hellenistic period
+    en-ca: Hellenistic period
+    en-gb: Hellenistic period
+    eo: helenisma epoko
+    es: período helenístico
+    et: Hellenism
+    eu: garai helenistiko
+    fa: عصر هلنی
+    fi: Hellenismi
+    fr: époque hellénistique
+    fy: Hellenisme
+    ga: an Ré Heilléanaíoch
+    gl: período helenístico
+    gsw: Hellenismus
+    he: התקופה ההלניסטית
+    hi: हेलेनिस्टिक काल
+    hr: helenizam
+    hu: hellenizmus
+    hy: Հելլենիզմ
+    hyw: Հելլենականութեան Դարաշրջան
+    ia: Periodo hellenistic
+    id: Periode Helenistik
+    io: Helenismo
+    is: Helleníski tíminn
+    it: ellenismo
+    ja: ヘレニズム
+    ka: ელინიზმი
+    kk: Эллинизм дәуірінің мәдениеті
+    ko: 헬레니즘 시대의 그리스
+    ku: Çaxa helenî
+    ky: Эллинизм
+    la: Hellenismus
+    lb: Hellenismus
+    lt: helenizmas
+    lv: Hellēnisms
+    mg: Vanim-potoana helenistika
+    mk: хеленистички период
+    ml: ഹെല്ലനിസ്റ്റിക് യുഗം
+    mr: हेलेनिस्टिक कालखंड
+    ms: Zaman Helenistik
+    my: ဟဲလင်နစ်စတစ်ခေတ်
+    nan: Hi-lia̍p-hòa sî-kî
+    nb: hellenisme
+    nds: Hellenismus
+    nl: Hellenistische periode
+    nn: hellenisme
+    os: эллинизм
+    pl: epoka hellenistyczna
+    pms: Elenism
+    pnb: ہیلینستی ویلا
+    ps: هېلنیسټي دوره
+    pt: período helenístico
+    pt-br: período helenístico
+    ro: Grecia elenistică
+    ru: Эллинизм
+    scn: Ellenismu
+    sh: Helenizam
+    sk: Helenizmus
+    sl: helenizem
+    sr: хеленистичка ера
+    sv: hellenism
+    ta: எலனியக் காலம்
+    th: สมัยเฮลเลนิสติก
+    tr: Helenistik Dönem
+    uk: елліністичний період
+    ur: ہیلینیائی دور
+    uz: Ellinizm
+    vec: ełenismo
+    vi: thời kỳ Hy Lạp hóa
+    wuu: 希腊化时代
+    xmf: ელინიზმი
+    yue: 希臘化時代
+    zh: 希臘化時代
+    zh-hans: 希腊化时代
+    zh-hant: 希臘化時代
+    zh-hk: 希臘化時代
 ---
-
 #is_/same_as :: [[WD~Hellenistic_period,428995]]
 
 ## #has_/text_of_/abstract 

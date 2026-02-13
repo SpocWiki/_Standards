@@ -1,29 +1,52 @@
 ---
 aliases:
-  - Ectasian
-  - Ектаз
-  - Ectas
-  - Ectasien
-  - Ectasium
-  - Ectasiense
-  - ectasi
-  - ectasiano
-  - エクタシアン紀
-  - Ektasis
-  - Ectasiën
-  - Ektasium
-  - Ektas
-  - Ectasiano
-  - ektazium
-  - ectasij
-  - ectasium
-  - 延展纪
+- an Tréimhse Eicteasach
+- Ectas
+- ectasi
+- Ectasian
+- ectasiano
+- Ectasianu
+- Ectasiar
+- Ectasien
+- Ectasiense
+- ectasij
+- Ectasium
+- Ectasià
+- Ectasiën
+- Ectásico
+- Ektas
+- Ektasieg
+- Ektasis
+- Ektasium
+- Ektasiyen
+- Ektaz dövrü
+- Ektazij
+- Ektazio
+- ektazis
+- ektazium
+- Ektaziy dáwiri
+- Kỷ Ectasis
+- Ектаз
+- ектазій
+- эктаз
+- эктазій
+- эктазийский период
+- אקטז
+- الإكتاسي
+- اکتاسین
+- एक्टेशियाई कल्प
+- ยุคเอกเทเซียน
+- エクタシアン
+- エクタシアン紀
+- 延展紀
+- 延展纪
+- 엑타시아기
 has_id_wikidata: Q367597
 instance_of:
-  - "[[_Standards/WikiData/WD~period,392928]]"
-  - "[[_Standards/WikiData/WD~system,403523]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Ectasian,131228521]]"
+- '[[_Standards/WikiData/WD~period,392928]]'
+- '[[_Standards/WikiData/WD~system,403523]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Ectasian,131228521]]'
 end_time: -1200000000-01-01T00:00:00Z
 start_time: -1400000000-01-01T00:00:00Z
 Commons_category: Ectasian
@@ -31,60 +54,90 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Paleoglobe%20NO%201260
 sRGB_color_hex_triplet: FDCC8A
 dv_has_:
   duration_:
-    years: "2.000e+8"
-  previous_:
-    item: "[[Period-1600~Calymmian]]"
-  next_:
-    item: "[[Period-1200~Stenian]]"
+    years: 2.000e+8
   name_:
+    abbreviated: MP2
+    ar: الإكتاسي
+    az: Ektaz dövrü
+    be: эктазій
+    be-tarask: эктаз
     bg: Ектаз
+    br: Ektasieg
+    bs: Ektazij
+    ca: Ectasià
     cs: Ectas
     da: Ectasien
     de: Ectasium
-    es: Ectasiense
+    en: Ectasian
+    en-gb: Ectasian
+    en-us: Ectasian
+    eo: Ektazio
+    es: Ectásico
     et: Ectas
+    eu: Ectasiar
+    fa: اکتاسین
     fi: Ectas
     fr: Ectasien
+    ga: an Tréimhse Eicteasach
+    he: אקטז
+    hi: एक्टेशियाई कल्प
+    hr: ektazij
     hu: ectasi
-    it: ectasiano
-    ja: エクタシアン紀
-    lt: Ektasis
-    nl: Ectasiën
+    id: Ektasium
+    it: Ectasiano
+    ja: エクタシアン
+    kaa: Ektaziy dáwiri
+    ko: 엑타시아기
+    lt: ektazis
+    ms: Ektasis
+    nl: Ectasium
+    nn: ektas
     no: Ektasium
-    pl: Ektas
+    pl: ektas
     pt: Ectasiano
+    ru: эктазийский период
+    scn: Ectasianu
+    sh: Ektazij
     sk: ektazium
-    sl: ectasij
-    sv: ectasium
+    sl: ektazij
+    sv: Ectasium
+    th: ยุคเอกเทเซียน
+    tr: Ektasiyen
+    uk: ектазій
+    vi: Kỷ Ectasis
+    yue: 延展紀
     zh: 延展纪
-    abbreviated: MP2
+  next_:
+    item: '[[Period-1200~Stenian]]'
+  previous_:
+    item: '[[Period-1600~Calymmian]]'
+  text_of_:
+    color: 0xFDCC8A
   time_:
     started: -1400000000
     stopped: -1200000000
-  text_of_:
-    color: "0xFDCC8A"
 dv_is_:
   same_as:
-    - "[[WD~Ectasian,367597]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1400~Ectasian|Period-1400~Ectasian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1400~Ectasian.public|Period-1400~Ectasian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1400~Ectasian.internal|Period-1400~Ectasian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1400~Ectasian.protect|Period-1400~Ectasian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1400~Ectasian.private|Period-1400~Ectasian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1400~Ectasian.personal|Period-1400~Ectasian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1400~Ectasian.secret|Period-1400~Ectasian.secret]]"
-dv_has_duration_years: "2.000e+8"
-dv_has_previous_item: "[[Period-1600~Calymmian]]"
-dv_has_next_item: "[[Period-1200~Stenian]]"
+  - '[[WD~Ectasian,367597]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1400~Ectasian|Period-1400~Ectasian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1400~Ectasian.public|Period-1400~Ectasian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1400~Ectasian.internal|Period-1400~Ectasian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1400~Ectasian.protect|Period-1400~Ectasian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1400~Ectasian.private|Period-1400~Ectasian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1400~Ectasian.personal|Period-1400~Ectasian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1400~Ectasian.secret|Period-1400~Ectasian.secret]]'
+dv_has_duration_years: 2.000e+8
+dv_has_previous_item: '[[Period-1600~Calymmian]]'
+dv_has_next_item: '[[Period-1200~Stenian]]'
 dv_is_same_as:
-  - "[[WD~Ectasian,367597]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1400~Ectasian|Period-1400~Ectasian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1400~Ectasian.public|Period-1400~Ectasian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1400~Ectasian.internal|Period-1400~Ectasian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1400~Ectasian.protect|Period-1400~Ectasian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1400~Ectasian.private|Period-1400~Ectasian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1400~Ectasian.personal|Period-1400~Ectasian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1400~Ectasian.secret|Period-1400~Ectasian.secret]]"
+- '[[WD~Ectasian,367597]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1400~Ectasian|Period-1400~Ectasian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1400~Ectasian.public|Period-1400~Ectasian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1400~Ectasian.internal|Period-1400~Ectasian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1400~Ectasian.protect|Period-1400~Ectasian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1400~Ectasian.private|Period-1400~Ectasian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1400~Ectasian.personal|Period-1400~Ectasian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1400~Ectasian.secret|Period-1400~Ectasian.secret]]'
 dv_has_name_bg: Ектаз
 dv_has_name_cs: Ectas
 dv_has_name_da: Ectasien
@@ -108,7 +161,7 @@ dv_has_name_zh: 延展纪
 dv_has_name_abbreviated: MP2
 dv_has_time_started: -1400000000
 dv_has_time_stopped: -1200000000
-dv_has_text_of_color: "0xFDCC8A"
+dv_has_text_of_color: 0xFDCC8A
 ---
 # [[Period-1400~Ectasian]]
 

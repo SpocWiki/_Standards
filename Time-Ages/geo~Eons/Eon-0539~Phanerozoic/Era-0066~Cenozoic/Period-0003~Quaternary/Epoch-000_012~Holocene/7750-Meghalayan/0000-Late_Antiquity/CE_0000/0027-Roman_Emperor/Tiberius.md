@@ -1,117 +1,284 @@
 ---
 aliases:
+- Tibberiu
+- Tibearius
+- Tibeio
+- Tiberi
+- Tiberi August
+- Tiberij
+- Tiberije
+- Tiberijs
+- Tiberijus Cezaris Augustas
+- Tiberio
+- Tiberiu
+- Tiberius
+- Tiberius av Romarriket
+- Tiberius Caesar Augustus
+- Tiberius Claudius Nero
+- Tiberius római császár
+- Tiberiy
+- Tibir
+- Tibère
+- Tibèri
+- Tibério
+- Tibérius
+- Tyberiusz
+- Tíberíus
+- Τιβέριος Καίσαρας Αύγουστος
+- Августус Цезарь
+- Тиберій
+- Тибериј
+- Тиберије
+- Тиберий
+- Тиберий Цезарь Август
+- Тыберый
+- Тыбэрыюс
+- Թիպերիոս
+- Տիբերիոս
+- טיבריוס
+- تایبیریەس
+- تيبریوس
+- تيبيريوس
+- تیبریوس
+- تیبیریوس
+- طيباريوس
+- قیصر ٹائبیرئیس
+- टायबीअरिअस
+- टैबीरियस
+- টাইবেরিয়াস
+- திபேரியசு
+- จักรพรรดิติแบริอุส
+- ໄທບີຣຽສ
+- ტიბერიუსი
+- ティベリウス
+- 提庇留
+- 提比略
+- 提贝里乌斯
+- 티베리우스
 has_id_wikidata: Q1407
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~soldier,4991371]]"
-  - "[[_Standards/WikiData/WD~military_personnel,47064]]"
-sibling: "[[_Standards/WikiData/WD~Nero_Claudius_Drusus,156778]]"
-participant_in: "[[_Standards/WikiData/WD~ancient_Olympic_Games,188468]]"
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~soldier,4991371]]'
+- '[[_Standards/WikiData/WD~military_personnel,47064]]'
+sibling: '[[_Standards/WikiData/WD~Nero_Claudius_Drusus,156778]]'
+participant_in: '[[_Standards/WikiData/WD~ancient_Olympic_Games,188468]]'
 child:
-  - "[[_Standards/WikiData/WD~Germanicus,191039]]"
-  - "[[_Standards/WikiData/WD~Drusus_Julius_Caesar,313737]]"
-  - "[[_Standards/WikiData/WD~Tiberillus,4222774]]"
-  - "[[_Standards/WikiData/WD~Claudia_Claudius,118275074]]"
-time_period: "[[_Standards/WikiData/WD~Julio_Claudian_dynasty,192841]]"
+- '[[_Standards/WikiData/WD~Germanicus,191039]]'
+- '[[_Standards/WikiData/WD~Drusus_Julius_Caesar,313737]]'
+- '[[_Standards/WikiData/WD~Tiberillus,4222774]]'
+- '[[_Standards/WikiData/WD~Claudia_Claudius,118275074]]'
+time_period: '[[_Standards/WikiData/WD~Julio_Claudian_dynasty,192841]]'
 family:
-  - "[[_Standards/WikiData/WD~Julio_Claudian_dynasty,192841]]"
-  - "[[_Standards/WikiData/WD~Julii_Caesares,3268376]]"
-  - "[[_Standards/WikiData/WD~Claudii_Nerones,102259474]]"
-noble_title: "[[_Standards/WikiData/WD~Augustus,211804]]"
+- '[[_Standards/WikiData/WD~Julio_Claudian_dynasty,192841]]'
+- '[[_Standards/WikiData/WD~Julii_Caesares,3268376]]'
+- '[[_Standards/WikiData/WD~Claudii_Nerones,102259474]]'
+noble_title: '[[_Standards/WikiData/WD~Augustus,211804]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Vipsania_Agrippina,232090]]"
-  - "[[_Standards/WikiData/WD~Julia_the_Elder,2259]]"
+- '[[_Standards/WikiData/WD~Vipsania_Agrippina,232090]]'
+- '[[_Standards/WikiData/WD~Julia_the_Elder,2259]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-  - "[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~ancient_Roman_religion,337547]]"
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+- '[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~ancient_Roman_religion,337547]]'
 father:
-  - "[[_Standards/WikiData/WD~Tiberius_Claudius_Nero,342512]]"
-  - "[[_Standards/WikiData/WD~Marcus_Gallius,2165262]]"
-  - "[[_Standards/WikiData/WD~Augustus,1405]]"
+- '[[_Standards/WikiData/WD~Tiberius_Claudius_Nero,342512]]'
+- '[[_Standards/WikiData/WD~Marcus_Gallius,2165262]]'
+- '[[_Standards/WikiData/WD~Augustus,1405]]'
 gens:
-  - "[[_Standards/WikiData/WD~Claudia_gens,385338]]"
-  - "[[_Standards/WikiData/WD~Julia_gens,510193]]"
-  - "[[_Standards/WikiData/WD~Gallia_gens,3760088]]"
-place_of_death: "[[_Standards/WikiData/WD~Miseno,401231]]"
-mother: "[[_Standards/WikiData/WD~Livia,469701]]"
-place_of_burial: "[[_Standards/WikiData/WD~Mausoleum_of_Augustus,770847]]"
+- '[[_Standards/WikiData/WD~Claudia_gens,385338]]'
+- '[[_Standards/WikiData/WD~Julia_gens,510193]]'
+- '[[_Standards/WikiData/WD~Gallia_gens,3760088]]'
+place_of_death: '[[_Standards/WikiData/WD~Miseno,401231]]'
+mother: '[[_Standards/WikiData/WD~Livia,469701]]'
+place_of_burial: '[[_Standards/WikiData/WD~Mausoleum_of_Augustus,770847]]'
 position_held:
-  - "[[_Standards/WikiData/WD~Roman_emperor,842606]]"
-  - "[[_Standards/WikiData/WD~ancient_Roman_senator,20056508]]"
-  - "[[_Standards/WikiData/WD~Roman_consul,40779]]"
-different_from: "[[_Standards/WikiData/WD~Tiberius,846230]]"
+- '[[_Standards/WikiData/WD~Roman_emperor,842606]]'
+- '[[_Standards/WikiData/WD~ancient_Roman_senator,20056508]]'
+- '[[_Standards/WikiData/WD~Roman_consul,40779]]'
+different_from: '[[_Standards/WikiData/WD~Tiberius,846230]]'
 cognomen:
-  - "[[_Standards/WikiData/WD~Caesar,1025414]]"
-  - "[[_Standards/WikiData/WD~Nero,2387146]]"
-hairstyle_hairlength: "[[_Standards/WikiData/WD~Caesar_cut,3665313]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-epithet: "[[_Standards/WikiData/WD~Divi_Filius,5283988]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+- '[[_Standards/WikiData/WD~Caesar,1025414]]'
+- '[[_Standards/WikiData/WD~Nero,2387146]]'
+hairstyle_hairlength: '[[_Standards/WikiData/WD~Caesar_cut,3665313]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+epithet: '[[_Standards/WikiData/WD~Divi_Filius,5283988]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 praenomen:
-  - "[[_Standards/WikiData/WD~Marcus,6757977]]"
-  - "[[_Standards/WikiData/WD~Tiberius,21485162]]"
-award_received: "[[_Standards/WikiData/WD~Olympic_victor,_tethrippon_(4_horse_chariot),23906229]]"
+- '[[_Standards/WikiData/WD~Marcus,6757977]]'
+- '[[_Standards/WikiData/WD~Tiberius,21485162]]'
+award_received: '[[_Standards/WikiData/WD~Olympic_victor,_tethrippon_(4_horse_chariot),23906229]]'
 nomen_gentilicium:
-  - "[[_Standards/WikiData/WD~Julius,29871072]]"
-  - "[[_Standards/WikiData/WD~Claudius,30006705]]"
-  - "[[_Standards/WikiData/WD~Gallius,32979201]]"
-agnomen: "[[_Standards/WikiData/WD~Claudianus,100890313]]"
+- '[[_Standards/WikiData/WD~Julius,29871072]]'
+- '[[_Standards/WikiData/WD~Claudius,30006705]]'
+- '[[_Standards/WikiData/WD~Gallius,32979201]]'
+agnomen: '[[_Standards/WikiData/WD~Claudianus,100890313]]'
 depicted_by:
-  - "[[_Standards/WikiData/WD~Bronze_head_of_Tiberius,126182516]]"
-  - "[[_Standards/WikiData/WD~Base_of_Tiberio_(from_Pozzuoli),131546474]]"
-  - "[[_Standards/WikiData/WD~Tiberius_Portrait_of_the_''Imperium_Maius''_type,131613977]]"
-  - "[[_Standards/WikiData/WD~Head_of_a_bronze_statue_of_Tiberius,131825297]]"
+- '[[_Standards/WikiData/WD~Bronze_head_of_Tiberius,126182516]]'
+- '[[_Standards/WikiData/WD~Base_of_Tiberio_(from_Pozzuoli),131546474]]'
+- "[[_Standards/WikiData/WD~Tiberius_Portrait_of_the_''Imperium_Maius''_type,131613977]]"
+- '[[_Standards/WikiData/WD~Head_of_a_bronze_statue_of_Tiberius,131825297]]'
 date_of_birth: -0041-11-14T00:00:00Z
-stepparent: "[[_Standards/WikiData/WD~Augustus,1405]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-place_of_birth: "[[_Standards/WikiData/WD~Rome,220]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Ancient_Greek,35497]]"
+stepparent: '[[_Standards/WikiData/WD~Augustus,1405]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+place_of_birth: '[[_Standards/WikiData/WD~Rome,220]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Ancient_Greek,35497]]'
 name_in_native_language:
-  - Tiberius Iulius Caesar
-  - Tiberius Claudius Nero
+- Tiberius Iulius Caesar
+- Tiberius Claudius Nero
 date_of_death: 0037-03-14T00:00:00Z
 BHCL_UUID: 2b2d465a-f1f7-44a7-9f96-5aa0f610a953
 Commons_gallery: Tiberius
 Commons_category: Tiberius
 birth_name: Tiberius Claudius Nero
 image: http://commons.wikimedia.org/wiki/Special:FilePath/%28Venice%29%20Tiberius%20Portrait%20of%20the%20%27Imperium%20Maius%27%20type%20in%20Museo%20Archeologico%20Nazionale.jpg
-ISNI: "0000000109233028"
+ISNI: 0000000109233028
 Libris_URI: 1zcfh7rk1k02z3q
 Provenio_UUID: b494bc2e-8f62-4cdf-bcfa-10ca9a8d4f92
 EAGLE_id: dates/lod/137
 Krugosvet_article_archived_: istoriya/TIBERI.html
 dv_is_:
   same_as:
-    - "[[../../../../../../../../../../WikiData/WD~Tiberius,1407|WD~Tiberius,1407]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0000/0027-Roman_Emperor/Tiberius|Tiberius]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0000/0027-Roman_Emperor/Tiberius.public|Tiberius.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0000/0027-Roman_Emperor/Tiberius.internal|Tiberius.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0000/0027-Roman_Emperor/Tiberius.protect|Tiberius.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0000/0027-Roman_Emperor/Tiberius.private|Tiberius.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0000/0027-Roman_Emperor/Tiberius.personal|Tiberius.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0000/0027-Roman_Emperor/Tiberius.secret|Tiberius.secret]]"
+  - '[[../../../../../../../../../../WikiData/WD~Tiberius,1407|WD~Tiberius,1407]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0000/0027-Roman_Emperor/Tiberius|Tiberius]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0000/0027-Roman_Emperor/Tiberius.public|Tiberius.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0000/0027-Roman_Emperor/Tiberius.internal|Tiberius.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0000/0027-Roman_Emperor/Tiberius.protect|Tiberius.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0000/0027-Roman_Emperor/Tiberius.private|Tiberius.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0000/0027-Roman_Emperor/Tiberius.personal|Tiberius.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0000/0027-Roman_Emperor/Tiberius.secret|Tiberius.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../../../WikiData/WD~Tiberius,1407|WD~Tiberius,1407]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0000/0027-Roman_Emperor/Tiberius|Tiberius]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0000/0027-Roman_Emperor/Tiberius.public|Tiberius.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0000/0027-Roman_Emperor/Tiberius.internal|Tiberius.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0000/0027-Roman_Emperor/Tiberius.protect|Tiberius.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0000/0027-Roman_Emperor/Tiberius.private|Tiberius.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0000/0027-Roman_Emperor/Tiberius.personal|Tiberius.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0000/0027-Roman_Emperor/Tiberius.secret|Tiberius.secret]]"
+- '[[../../../../../../../../../../WikiData/WD~Tiberius,1407|WD~Tiberius,1407]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0000/0027-Roman_Emperor/Tiberius|Tiberius]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0000/0027-Roman_Emperor/Tiberius.public|Tiberius.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0000/0027-Roman_Emperor/Tiberius.internal|Tiberius.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0000/0027-Roman_Emperor/Tiberius.protect|Tiberius.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0000/0027-Roman_Emperor/Tiberius.private|Tiberius.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0000/0027-Roman_Emperor/Tiberius.personal|Tiberius.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0000/0027-Roman_Emperor/Tiberius.secret|Tiberius.secret]]'
+dv_has_:
+  name_:
+    af: Tiberius
+    an: Tiberio
+    ang: Tiberius
+    ar: طيباريوس
+    arz: تيبيريوس
+    ast: Tiberiu
+    az: Tiberi
+    azb: تیبریوس
+    ban: Tibérius
+    be: Тыберый
+    be-tarask: Тыбэрыюс
+    bg: Тиберий
+    bn: টাইবেরিয়াস
+    br: Tiberius Caesar Augustus
+    bs: Tiberije
+    ca: Tiberi
+    ckb: تایبیریەس
+    cs: Tiberius
+    cv: Тиберий
+    cy: Tiberius
+    da: Tiberius
+    de: Tiberius
+    de-ch: Tiberius
+    diq: Tiberius
+    el: Τιβέριος Καίσαρας Αύγουστος
+    en: Tiberius
+    en-ca: Tiberius
+    en-gb: Tiberius
+    eo: Tiberio
+    es: Tiberio
+    et: Tiberius
+    eu: Tiberio
+    fa: تیبریوس
+    fi: Tiberius
+    fo: Tiberius
+    fr: Tibère
+    frr: Tiberius
+    fy: Tibearius
+    ga: Tibir
+    gl: Tiberio
+    gsw: Tiberius
+    he: טיבריוס
+    hi: टैबीरियस
+    hr: Tiberije
+    hu: Tiberius római császár
+    hy: Տիբերիոս
+    hyw: Թիպերիոս
+    ia: Tiberio
+    id: Tiberius
+    io: Tiberius
+    is: Tíberíus
+    it: Tiberio
+    ja: ティベリウス
+    ka: ტიბერიუსი
+    kg: Tiberius
+    kk: Тиберий Цезарь Август
+    ko: 티베리우스
+    ku: Tiberius
+    kw: Tiberius
+    la: Tiberius
+    li: Tiberius Claudius Nero
+    lij: Tibeio
+    lo: ໄທບີຣຽສ
+    lt: Tiberijus Cezaris Augustas
+    lv: Tiberijs
+    mg: Tiberius
+    mk: Тибериј
+    mn: Августус Цезарь
+    mr: टायबीअरिअस
+    mzn: تیبریوس
+    nan: Tiberius
+    nb: Tiberius
+    nds: Tiberius
+    nl: Tiberius Claudius Nero
+    nn: Tiberius av Romarriket
+    oc: Tibèri
+    os: Тиберий
+    pl: Tyberiusz
+    pms: Tiberi August
+    ps: تيبریوس
+    pt: Tibério
+    pt-br: Tibério
+    rm: Tiberius
+    ro: Tiberius
+    ru: Тиберий
+    scn: Tibberiu
+    sco: Tiberius
+    sh: Tiberije
+    sk: Tiberius
+    skr: قیصر ٹائبیرئیس
+    sl: Tiberij
+    sq: Tiberius
+    sr: Тиберије
+    sv: Tiberius
+    sw: Tiberius
+    ta: திபேரியசு
+    th: จักรพรรดิติแบริอุส
+    tl: Tiberius
+    tr: Tiberius
+    uk: Тиберій
+    ur: تیبیریوس
+    uz: Tiberiy
+    vec: Tiberio
+    vi: Tiberius
+    war: Tiberius
+    wuu: 提贝里乌斯
+    xmf: ტიბერიუსი
+    yo: Tiberius
+    yue: 提比略
+    zh: 提庇留
+    zh-cn: 提比略
 ---
-
 # [[Tiberius]] 
 
 #is_/same_as :: [[../../../../../../../../../../WikiData/WD~Tiberius,1407|WD~Tiberius,1407]]  

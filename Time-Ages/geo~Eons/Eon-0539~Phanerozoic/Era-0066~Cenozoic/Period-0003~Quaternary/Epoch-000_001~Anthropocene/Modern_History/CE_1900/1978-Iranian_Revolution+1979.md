@@ -1,30 +1,119 @@
 ---
 aliases:
-  - Iranian Revolution
-  - Iranian_Revolution
-  - Islamic Revolution
-  - 1978-Iranian_Revolution+1979
-  - 1978-Iranian Revolution+1979
+- 1978-Iranian Revolution+1979
+- 1978-Iranian_Revolution+1979
+- Chwyldro Islamaidd Iran
+- Cách mạng Hồi giáo
+- den iranske revolusjon
+- Den iranske revolusjonen
+- Den iranske revolution
+- Dispac'h Iran
+- Eron inqilobi
+- Eýrandaky 1979-njy ýylyň ynkylaby
+- Himagsikang Irani
+- Inqilobi Eron
+- Iraani revolutsioon
+- Iraani riigipööreq
+- Iraanse Revolutie
+- Iran Kek-bēng
+- Irana revolucio
+- Iranana Revoluciono
+- Irango Iraultza
+- Iranian Revolution
+- Iranian_Revolution
+- Iranin vallankumous
+- Irannese Rewolusie
+- Irano revoliucija
+- Iranska revolucija
+- Iranska revolutionen
+- Irańska rewolucja islamska
+- iráni forradalom
+- Iránska revolúcia
+- Islamic Revolution
+- islamische Revolution
+- Islāma revolūcija
+- Juyin Juya Halin Musulunci
+- Mapinduzi ya Kiislamu ya Iran
+- Rebolusyon ha Iran
+- Revolucioni Islam
+- revolució iraniana
+- Revolución iraniana
+- Revolución iranina
+- Revolución iraní
+- Revolusi Iran
+- Revolusi Islam Iran
+- Revolusyonê İrani
+- Revolução Iraniana
+- Revoluția Iraniană
+- revołusion iraniana
+- Revôlisiôna Iraniana
+- Rivolutzione iraniana
+- rivoluzione iraniana
+- Réabhlóid na hIaráine
+- Révolution iranienne
+- Seditio Islamica
+- Íranska byltingin
+- Íránská islámská revoluce
+- İran İslam Devrimi
+- İran İslam İnqilabı
+- Şoreşa Îslamî ya Îranê
+- Ιρανική Επανάσταση
+- Ісламская рэвалюцыя ў Іране
+- Ісламська революція в Ірані
+- Инқилоби Эрон
+- Ираналда Исламияб революция
+- Иранда Ислам революцияһы
+- Иранска револуција
+- Иранска революция
+- Ислам Иран Революциясы
+- Ислам революциясы
+- Исламская революция в Иране
+- Իրանի իսլամական հեղափոխություն
+- המהפכה האיראנית
+- الثورة الإسلامية في إيران
+- انقلاب اسلامی ایران
+- انقلاب ۱۳۵۷ ایران
+- ايراني انقلاب
+- ایران اسلامی انقلاب
+- ایران ایسلام اینقلابی
+- ایرانی انقلاب
+- د ایران انقلاب
+- شۆرەشائی سلامی یائی رانێ
+- شۆڕشی ١٩٧٩ی ئێران
+- इराणी क्रांती
+- इरानको इस्लामिक क्रान्ति
+- इरानी क्रान्ति
+- ईरान की इस्लामी क्रांति
+- ইরানি বিপ্লব
+- ਇਰਾਨੀ ਇਨਕਲਾਬ
+- ஈரானியப் புரட்சி
+- ഇറാനിലെ ഇസ്ലാമിക വിപ്ലവം
+- การปฏิวัติอิหร่าน
+- ირანის ისლამური რევოლუცია
+- イラン革命
+- 伊朗伊斯兰革命
+- 伊朗伊斯蘭革命
+- 이란 혁명
 has_id_wikidata: Q126065
 participant:
-  - "[[_Standards/WikiData/WD~Mohammad_Reza_I_of_Iran,128245]]"
-  - "[[_Standards/WikiData/WD~Dariush_Forouhar,289766]]"
-  - "[[_Standards/WikiData/WD~Mehdi_Bazargan,382369]]"
-  - "[[_Standards/WikiData/WD~Shapour_Bakhtiar,471787]]"
-  - "[[_Standards/WikiData/WD~Gholam_Reza_Azhari,700668]]"
-  - "[[_Standards/WikiData/WD~Jafar_Sharif_Emami,951044]]"
-  - "[[_Standards/WikiData/WD~Mahmoud_Taleghani,1255284]]"
-  - "[[_Standards/WikiData/WD~people,2472587]]"
-  - "[[_Standards/WikiData/WD~Gholam_Ali_Oveisi,5556852]]"
-  - "[[_Standards/WikiData/WD~Karim_Sanjabi,6370654]]"
-  - "[[_Standards/WikiData/WD~Ruhollah_Khomeini,38823]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_Iranian_Revolution,8093138]]"
-location: "[[_Standards/WikiData/WD~Iran,794]]"
-country: "[[_Standards/WikiData/WD~Iran,794]]"
-instance_of: "[[_Standards/WikiData/WD~revolution,10931]]"
+- '[[_Standards/WikiData/WD~Mohammad_Reza_I_of_Iran,128245]]'
+- '[[_Standards/WikiData/WD~Dariush_Forouhar,289766]]'
+- '[[_Standards/WikiData/WD~Mehdi_Bazargan,382369]]'
+- '[[_Standards/WikiData/WD~Shapour_Bakhtiar,471787]]'
+- '[[_Standards/WikiData/WD~Gholam_Reza_Azhari,700668]]'
+- '[[_Standards/WikiData/WD~Jafar_Sharif_Emami,951044]]'
+- '[[_Standards/WikiData/WD~Mahmoud_Taleghani,1255284]]'
+- '[[_Standards/WikiData/WD~people,2472587]]'
+- '[[_Standards/WikiData/WD~Gholam_Ali_Oveisi,5556852]]'
+- '[[_Standards/WikiData/WD~Karim_Sanjabi,6370654]]'
+- '[[_Standards/WikiData/WD~Ruhollah_Khomeini,38823]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_Iranian_Revolution,8093138]]'
+location: '[[_Standards/WikiData/WD~Iran,794]]'
+country: '[[_Standards/WikiData/WD~Iran,794]]'
+instance_of: '[[_Standards/WikiData/WD~revolution,10931]]'
 point_in_time: 1970-01-01T00:00:00Z
 number_of_deaths: 2781
-OmegaWiki_Defined_Meaning: "799090"
+OmegaWiki_Defined_Meaning: 799090
 start_time: 1978-01-01T00:00:00Z
 end_time: 1979-02-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mass%20demonstration%20in%20Iran%2C%20date%20unknown.jpg
@@ -33,25 +122,134 @@ Commons_category: Iranian Revolution
 native_label: انقلاب اسلامی
 dv_is_:
   same_as:
-    - "[[../../../../../../../../WikiData/WD~Iranian_Revolution,126065]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1978-Iranian_Revolution+1979|1978-Iranian_Revolution+1979]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1978-Iranian_Revolution+1979.public|1978-Iranian_Revolution+1979.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1978-Iranian_Revolution+1979.internal|1978-Iranian_Revolution+1979.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1978-Iranian_Revolution+1979.protect|1978-Iranian_Revolution+1979.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1978-Iranian_Revolution+1979.private|1978-Iranian_Revolution+1979.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1978-Iranian_Revolution+1979.personal|1978-Iranian_Revolution+1979.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1978-Iranian_Revolution+1979.secret|1978-Iranian_Revolution+1979.secret]]"
+  - '[[../../../../../../../../WikiData/WD~Iranian_Revolution,126065]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1978-Iranian_Revolution+1979|1978-Iranian_Revolution+1979]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1978-Iranian_Revolution+1979.public|1978-Iranian_Revolution+1979.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1978-Iranian_Revolution+1979.internal|1978-Iranian_Revolution+1979.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1978-Iranian_Revolution+1979.protect|1978-Iranian_Revolution+1979.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1978-Iranian_Revolution+1979.private|1978-Iranian_Revolution+1979.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1978-Iranian_Revolution+1979.personal|1978-Iranian_Revolution+1979.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1978-Iranian_Revolution+1979.secret|1978-Iranian_Revolution+1979.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Iranian_Revolution,126065]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1978-Iranian_Revolution+1979|1978-Iranian_Revolution+1979]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1978-Iranian_Revolution+1979.public|1978-Iranian_Revolution+1979.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1978-Iranian_Revolution+1979.internal|1978-Iranian_Revolution+1979.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1978-Iranian_Revolution+1979.protect|1978-Iranian_Revolution+1979.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1978-Iranian_Revolution+1979.private|1978-Iranian_Revolution+1979.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1978-Iranian_Revolution+1979.personal|1978-Iranian_Revolution+1979.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1978-Iranian_Revolution+1979.secret|1978-Iranian_Revolution+1979.secret]]"
+- '[[../../../../../../../../WikiData/WD~Iranian_Revolution,126065]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1978-Iranian_Revolution+1979|1978-Iranian_Revolution+1979]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1978-Iranian_Revolution+1979.public|1978-Iranian_Revolution+1979.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1978-Iranian_Revolution+1979.internal|1978-Iranian_Revolution+1979.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1978-Iranian_Revolution+1979.protect|1978-Iranian_Revolution+1979.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1978-Iranian_Revolution+1979.private|1978-Iranian_Revolution+1979.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1978-Iranian_Revolution+1979.personal|1978-Iranian_Revolution+1979.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1978-Iranian_Revolution+1979.secret|1978-Iranian_Revolution+1979.secret]]'
+dv_has_:
+  name_:
+    af: Irannese Rewolusie
+    ar: الثورة الإسلامية في إيران
+    ast: Revolución iranina
+    av: Ираналда Исламияб революция
+    az: İran İslam İnqilabı
+    azb: ایران ایسلام اینقلابی
+    ba: Иранда Ислам революцияһы
+    be: Ісламская рэвалюцыя ў Іране
+    be-tarask: Ісламская рэвалюцыя ў Іране
+    bg: Иранска революция
+    bn: ইরানি বিপ্লব
+    br: Dispac'h Iran
+    ca: revolució iraniana
+    ckb: شۆڕشی ١٩٧٩ی ئێران
+    cs: Íránská islámská revoluce
+    cy: Chwyldro Islamaidd Iran
+    da: Den iranske revolution
+    de: islamische Revolution
+    diq: Revolusyonê İrani
+    el: Ιρανική Επανάσταση
+    en: Iranian Revolution
+    en-ca: Iranian Revolution
+    en-gb: Iranian Revolution
+    eo: Irana revolucio
+    es: Revolución iraní
+    et: Iraani revolutsioon
+    eu: Irango Iraultza
+    fa: انقلاب ۱۳۵۷ ایران
+    fi: Iranin vallankumous
+    fr: Révolution iranienne
+    ga: Réabhlóid na hIaráine
+    gl: Revolución iraniana
+    ha: Juyin Juya Halin Musulunci
+    he: המהפכה האיראנית
+    hi: ईरान की इस्लामी क्रांति
+    hr: Iranska revolucija
+    hu: iráni forradalom
+    hy: Իրանի իսլամական հեղափոխություն
+    id: Revolusi Islam Iran
+    io: Iranana Revoluciono
+    is: Íranska byltingin
+    it: rivoluzione iraniana
+    ja: イラン革命
+    ka: ირანის ისლამური რევოლუცია
+    kk: Ислам революциясы
+    ko: 이란 혁명
+    ku: Şoreşa Îslamî ya Îranê
+    ku-arab: شۆرەشائی سلامی یائی رانێ
+    ku-latn: Şoreşa Îslamî ya Îranê
+    ky: Ислам Иран Революциясы
+    la: Seditio Islamica
+    lt: Irano revoliucija
+    lv: Islāma revolūcija
+    lzh: 伊朗伊斯蘭革命
+    mg: Revôlisiôna Iraniana
+    mk: Иранска револуција
+    ml: ഇറാനിലെ ഇസ്ലാമിക വിപ്ലവം
+    mr: इराणी क्रांती
+    ms: Revolusi Iran
+    mzn: ایران اسلامی انقلاب
+    nan: Iran Kek-bēng
+    nb: den iranske revolusjon
+    ne: इरानको इस्लामिक क्रान्ति
+    new: इरानी क्रान्ति
+    nl: Iraanse Revolutie
+    nn: Den iranske revolusjonen
+    pa: ਇਰਾਨੀ ਇਨਕਲਾਬ
+    pl: Irańska rewolucja islamska
+    pnb: ایرانی انقلاب
+    ps: د ایران انقلاب
+    pt: Revolução Iraniana
+    ro: Revoluția Iraniană
+    ru: Исламская революция в Иране
+    sc: Rivolutzione iraniana
+    sco: Iranian Revolution
+    sd: ايراني انقلاب
+    sh: Iranska revolucija
+    sk: Iránska revolúcia
+    sl: iranska revolucija
+    sq: Revolucioni Islam
+    sr: Иранска револуција
+    sr-ec: Иранска револуција
+    sr-el: Iranska revolucija
+    sv: Iranska revolutionen
+    sw: Mapinduzi ya Kiislamu ya Iran
+    ta: ஈரானியப் புரட்சி
+    tg: Инқилоби Эрон
+    tg-latn: Inqilobi Eron
+    th: การปฏิวัติอิหร่าน
+    tk: Eýrandaky 1979-njy ýylyň ynkylaby
+    tl: Himagsikang Irani
+    tr: İran İslam Devrimi
+    uk: Ісламська революція в Ірані
+    ur: انقلاب اسلامی ایران
+    uz: Eron inqilobi
+    vec: revołusion iraniana
+    vi: Cách mạng Hồi giáo
+    vro: Iraani riigipööreq
+    war: Rebolusyon ha Iran
+    wuu: 伊朗伊斯兰革命
+    yue: 伊朗伊斯蘭革命
+    zh: 伊朗伊斯蘭革命
+    zh-cn: 伊朗伊斯兰革命
+    zh-hans: 伊朗伊斯兰革命
+    zh-hant: 伊朗伊斯蘭革命
+    zh-hk: 伊朗伊斯蘭革命
+    zh-sg: 伊朗伊斯兰革命
+    zh-tw: 伊朗伊斯蘭革命
 ---
-
 # [[1978-Iranian_Revolution+1979]] 
 
 #is_/same_as :: [[WD~Iranian_Revolution,126065]]

@@ -1,76 +1,374 @@
 ---
 aliases:
-  - Industrial Revolution
-  - 1760-Industrial_Revolution
-  - 1760-Industrial Revolution
+- 1760-Industrial Revolution
+- 1760-Industrial_Revolution
+- an Réabhlóid Thionsclaíoch
+- Cách mạng công nghiệp
+- den industrielle revolusjon
+- den industrielle revolusjonen
+- Den industrielle revolution
+- Die Industrielli Revolution
+- Dispac'h Greantel
+- Gunghyez gwzming
+- Hweldro Dhiwysyansek
+- Indoschrial Revaluushan
+- Industria Iraultza
+- Industria revolucio
+- Industriae conversio
+- Industrial a Rebolusion
+- Industrial Revolution
+- Industriala Revoluciono
+- Industrialine revolücii
+- industriele revoluty
+- industriella revolutionen
+- Industrielle Revolution
+- Industrielle Revolutschoon
+- industrije revolusjovne
+- Industrijna rewolucija
+- Industrijska revolucija
+- industriële revolutie
+- INguqulo Yezimboni
+- ipari forradalom
+- Iyika ti ile-ise
+- Iðnbyltingin
+- Kang-gia̍p Kek-bēng
+- Kpɛlɩ lɛɛzʊʊ tʊma sɔsɔna
+- Mapinduzi ya Viwandani
+- Mba'aporeko Ñepu'ã
+- Ngwu-nkana eyi Irom-inu
+- Nkutsulo wa Vumaki
+- Nywerheidsomwenteling
+- Pramonės perversmas
+- Pramuonės perversmos
+- Priemyselná revolúcia
+- Průmyslová revoluce
+- Rebolusyon Industriyal
+- Rebolusyong Industriyal
+- Reboluçon Andustrial
+- Revolisyon endistriyèl
+- Revolucion industriala
+- Revolucioni Industrial
+- Revolució Industrial
+- Revolución Endustrial
+- Revolución industrial
+- Revolui Industrial
+- Revolushon Industrial
+- Revolusi Industri
+- Revolusi Industri Pertama
+- Revolusi Perindustrian
+- Revolution Industrial
+- Revolução Industrial
+- Revoluția industrială
+- revołusion industriałe
+- Revôlisiôna Indostrialy
+- rewolucja przemysłowa
+- Rivolussion Industrial
+- Rivolutzione industriale
+- Rivoluzion industriâl
+- rivoluzione industriale
+- Rivoluzzjoni Industrijali
+- Rivuluzzioni nnustriali
+- Rèvolusi industri
+- Révolousyon endistrièl
+- Révolusi indhustri
+- Révolution industrielle
+- Rūpnieciskā revolūcija
+- sanayi devrimi
+- Sanayı inqilâbı
+- sanoat toʻntarishi
+- Sänäği inqıylab
+- Sənaye inqilabı
+- teollinen vallankumous
+- Tionndadh Gnìomhachais
+- Tööstuslik pööre
+- Tüüstüspööreq
+- Warraaqsa Industirii
+- Y Chwyldro Diwydiannol
+- Yndustriële Revolúsje
+- Ídnaðarkollveltingin
+- óndiris revolyuciyası
+- önerkäsip töñkerisi
+- İnqılabê senayiye
+- Şoreşa pîşesaziyê
+- Βιομηχανική επανάσταση
+- індустрыяльная рэвалюцыя
+- Аж үйлдвэрийн хувьсгал
+- Ажаүйлэдбэриин хубисхал
+- индустријска револуција
+- Индустриал револуциэ
+- Индустриална революция
+- Индустрин революци
+- Индустриска револуција
+- Индустриял революция
+- промислова революція
+- Промыслова револуція
+- промышленная революция
+- Револуция индустриалэ
+- Сәнәғәт инҡилабы
+- өнеркәсіп төңкерісі
+- Өнөр жай төңкөрүшү
+- արդյունաբերական հեղափոխություն
+- אינדוסטריעלע רעוואלוציע
+- המהפכה התעשייתית
+- التورة الصناعية
+- الثورة الصناعية
+- الثوره الصناعيه
+- انقلاب صنعتی
+- رغاويز اوښتون
+- شۆڕشی پیشەسازانە
+- صنایع اینقیلابی
+- صنعتی انقلاب
+- औद्योगिक क्रांति
+- औद्योगिक क्रांती
+- औद्योगिक क्रान्ति
+- औद्योगिक मानव यन्त्र
+- শিল্প বিপ্লব
+- শিল্প বিপ্লৱ
+- ਸਨਅਤੀ ਇਨਕਲਾਬ
+- ઔદ્યોગિક ક્રાંતિ
+- தொழிற்புரட்சி
+- పారిశ్రామిక విప్లవం
+- ಕೈಗಾರಿಕಾ ಕ್ರಾಂತಿ
+- വ്യവസായവിപ്ലവം
+- කාර්මික විප්ලවය
+- การปฏิวัติอุตสาหกรรม
+- ການປະຕິວັດອຸດສາຫະກຳ
+- စက်မှုတော်လှန်ရေး
+- ინდუსტრიული რევოლუცია
+- የኢንዱስትሪ አብዮት
+- បដិវត្តន៍ឧស្សាហកម្ម
+- 工業革命
+- 産業革命
+- 第一次工业革命
+- 第一次工業革命
+- 산업 혁명
 has_id_wikidata: Q2269
 Commons_category: Industrial revolution
 Commons_gallery: Industrial revolution
-country_of_origin: "[[_Standards/WikiData/WD~Kingdom_of_Great_Britain,161885]]"
+country_of_origin: '[[_Standards/WikiData/WD~Kingdom_of_Great_Britain,161885]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Achter_Band,131447403]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Neunter_Band,131719188]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
+- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Achter_Band,131447403]]'
+- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Neunter_Band,131719188]]'
 end_time: 1820-06
 has_characteristic:
-  - "[[_Standards/WikiData/WD~industrialization,202398]]"
-  - "[[_Standards/WikiData/WD~mechanization,1160362]]"
-  - "[[_Standards/WikiData/WD~technological_transition,7692537]]"
-has_effect: "[[_Standards/WikiData/WD~economic_growth,189833]]"
+- '[[_Standards/WikiData/WD~industrialization,202398]]'
+- '[[_Standards/WikiData/WD~mechanization,1160362]]'
+- '[[_Standards/WikiData/WD~technological_transition,7692537]]'
+has_effect: '[[_Standards/WikiData/WD~economic_growth,189833]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Industrial_Revolution_in_England,3938059]]"
-  - "[[_Standards/WikiData/WD~Industrial_Revolution_in_Scotland,16847469]]"
-  - "[[_Standards/WikiData/WD~Industrial_Revolution_in_Wales,97353535]]"
-  - "[[_Standards/WikiData/WD~international_trade,178803]]"
-  - "[[_Standards/WikiData/WD~rural_flight,2608153]]"
-  - "[[_Standards/WikiData/WD~steam_engine,12760]]"
-  - "[[_Standards/WikiData/WD~working_class,191159]]"
+- '[[_Standards/WikiData/WD~Industrial_Revolution_in_England,3938059]]'
+- '[[_Standards/WikiData/WD~Industrial_Revolution_in_Scotland,16847469]]'
+- '[[_Standards/WikiData/WD~Industrial_Revolution_in_Wales,97353535]]'
+- '[[_Standards/WikiData/WD~international_trade,178803]]'
+- '[[_Standards/WikiData/WD~rural_flight,2608153]]'
+- '[[_Standards/WikiData/WD~steam_engine,12760]]'
+- '[[_Standards/WikiData/WD~working_class,191159]]'
 has_time_started: 1760-06
 has_time_stopped: 1820-06
 image: http://commons.wikimedia.org/wiki/Special:FilePath/M%C3%A9moires%20de%20la%20Soci%C3%A9t%C3%A9%20g%C3%A9ologique%20de%20France%20%28IA%20meymoiresdelaso00socig%29.pdf
-instance_of: "[[_Standards/WikiData/WD~historical_period,11514315]]"
+instance_of: '[[_Standards/WikiData/WD~historical_period,11514315]]'
 Krugosvet_article: gumanitarnye_nauki/ekonomika_i_pravo/PROMISHLENNAYA_REVOLYUTSIYA.html
 start_time: 1760-06
-subclass_of: "[[_Standards/WikiData/WD~economic_development,4530482]]"
+subclass_of: '[[_Standards/WikiData/WD~economic_development,4530482]]'
 dv_has_:
+  duration: P60Y
+  duration_: P60Y
+  name_:
+    ace: Rèvolusi industri
+    af: Nywerheidsomwenteling
+    am: የኢንዱስትሪ አብዮት
+    an: Revolución industrial
+    ann: Ngwu-nkana eyi Irom-inu
+    anp: औद्योगिक मानव यन्त्र
+    ar: الثورة الصناعية
+    ary: التورة الصناعية
+    arz: الثوره الصناعيه
+    as: শিল্প বিপ্লৱ
+    ast: Revolución industrial
+    az: Sənaye inqilabı
+    azb: صنایع اینقیلابی
+    ba: Сәнәғәт инҡилабы
+    be: Індустрыяльная рэвалюцыя
+    be-tarask: індустрыяльная рэвалюцыя
+    bg: Индустриална революция
+    bn: শিল্প বিপ্লব
+    br: Dispac'h Greantel
+    bs: Industrijska revolucija
+    bxr: Ажаүйлэдбэриин хубисхал
+    ca: Revolució Industrial
+    ce: Индустрин революци
+    ckb: شۆڕشی پیشەسازانە
+    crh: Sanayı inqilâbı
+    cs: Průmyslová revoluce
+    cy: Y Chwyldro Diwydiannol
+    da: Den industrielle revolution
+    de: Industrielle Revolution
+    diq: İnqılabê senayiye
+    el: Βιομηχανική επανάσταση
+    en: Industrial Revolution
+    en-ca: Industrial Revolution
+    en-gb: Industrial Revolution
+    eo: Industria revolucio
+    es: Revolución Industrial
+    et: Tööstuslik pööre
+    eu: Industria Iraultza
+    ext: Revolución Endustrial
+    fa: انقلاب صنعتی
+    fi: teollinen vallankumous
+    fo: Ídnaðarkollveltingin
+    fr: Révolution industrielle
+    fur: Rivoluzion industriâl
+    fy: Yndustriële Revolúsje
+    ga: an Réabhlóid Thionsclaíoch
+    gan: 工業革命
+    gcr: Révolousyon endistrièl
+    gd: Tionndadh Gnìomhachais
+    gl: Revolución Industrial
+    gn: Mba'aporeko Ñepu'ã
+    gsw: Die Industrielli Revolution
+    gu: ઔદ્યોગિક ક્રાંતિ
+    ha: Industrial Revolution
+    he: המהפכה התעשייתית
+    hi: औद्योगिक क्रांति
+    hif: Industrial Revolution
+    hr: Industrijska revolucija
+    hsb: Industrijna rewolucija
+    ht: Revolisyon endistriyèl
+    hu: ipari forradalom
+    hy: արդյունաբերական հեղափոխություն
+    ia: Revolution Industrial
+    id: Revolusi Industri Pertama
+    ie: Revolution Industrial
+    ilo: Industrial a Rebolusion
+    io: Industriala Revoluciono
+    is: Iðnbyltingin
+    it: rivoluzione industriale
+    ja: 産業革命
+    jam: Indoschrial Revaluushan
+    jv: Révolusi indhustri
+    ka: ინდუსტრიული რევოლუცია
+    kaa: óndiris revolyuciyası
+    kbd: Индустриал револуциэ
+    kbp: Kpɛlɩ lɛɛzʊʊ tʊma sɔsɔna
+    kk: өнеркәсіп төңкерісі
+    kk-latn: önerkäsip töñkerisi
+    km: បដិវត្តន៍ឧស្សាហកម្ម
+    kn: ಕೈಗಾರಿಕಾ ಕ್ರಾಂತಿ
+    ko: 산업 혁명
+    krc: Индустриял революция
+    ku: Şoreşa pîşesaziyê
+    kw: Hweldro Dhiwysyansek
+    ky: Өнөр жай төңкөрүшү
+    la: Industriae conversio
+    lfn: Revolui Industrial
+    lo: ການປະຕິວັດອຸດສາຫະກຳ
+    lt: Pramonės perversmas
+    lv: Rūpnieciskā revolūcija
+    lzh: 工業革命
+    mg: Revôlisiôna Indostrialy
+    min: Revolusi Industri
+    mk: Индустриска револуција
+    ml: വ്യവസായവിപ്ലവം
+    mn: Аж үйлдвэрийн хувьсгал
+    mo: Револуция индустриалэ
+    mr: औद्योगिक क्रांती
+    ms: Revolusi Perindustrian
+    mt: Rivoluzzjoni Industrijali
+    mwl: Reboluçon Andustrial
+    my: စက်မှုတော်လှန်ရေး
+    nan: Kang-gia̍p Kek-bēng
+    nb: den industrielle revolusjon
+    nds: Industrielle Revolutschoon
+    nds-nl: industriele revoluty
+    ne: औद्योगिक क्रान्ति
+    new: औद्योगिक क्रान्ति
+    nl: industriële revolutie
+    nn: den industrielle revolusjonen
+    oc: Revolucion industriala
+    om: Warraaqsa Industirii
+    pa: ਸਨਅਤੀ ਇਨਕਲਾਬ
+    pap: Revolushon Industrial
+    pl: rewolucja przemysłowa
+    pms: Rivolussion Industrial
+    pnb: صنعتی انقلاب
+    ps: رغاويز اوښتون
+    pt: Revolução Industrial
+    pt-br: Revolução Industrial
+    ro: Revoluția industrială
+    ru: промышленная революция
+    rue: Промыслова револуція
+    sc: Rivolutzione industriale
+    scn: Rivuluzzioni nnustriali
+    sgs: Pramuonės perversmos
+    sh: Industrijska revolucija
+    si: කාර්මික විප්ලවය
+    sk: Priemyselná revolúcia
+    sl: industrijska revolucija
+    sma: industrije revolusjovne
+    sq: Revolucioni Industrial
+    sr: индустријска револуција
+    sr-ec: индустријска револуција
+    sv: industriella revolutionen
+    sw: Mapinduzi ya Viwandani
+    ta: தொழிற்புரட்சி
+    te: పారిశ్రామిక విప్లవం
+    th: การปฏิวัติอุตสาหกรรม
+    tl: Rebolusyong Industriyal
+    tr: sanayi devrimi
+    ts: Nkutsulo wa Vumaki
+    tt: Sänäği inqıylab
+    uk: промислова революція
+    ur: صنعتی انقلاب
+    uz: sanoat toʻntarishi
+    vec: revołusion industriałe
+    vep: Industrialine revolücii
+    vi: Cách mạng công nghiệp
+    vro: Tüüstüspööreq
+    war: Rebolusyon Industriyal
+    wuu: 第一次工业革命
+    yi: אינדוסטריעלע רעוואלוציע
+    yo: Iyika ti ile-ise
+    yue: 工業革命
+    za: Gunghyez gwzming
+    zh: 第一次工業革命
+    zh-tw: 第一次工業革命
+    zu: INguqulo Yezimboni
   time_:
     started:
-      - 1760-06-01T00:00:00.000+00:53
-      - 1760-06-01T00:00:00.000+00:53
-      - 1820-06-01T00:00:00.000+00:53
-      - 1870-06-01T00:00:00.000+00:53
-      - 1914-06-01T00:00:00.000+01:00
-      - 1960-06-01T00:00:00.000+01:00
-      - 2024-06-01T00:00:00.000+02:00
+    - 1760-06-01T00:00:00.000+00:53
+    - 1760-06-01T00:00:00.000+00:53
+    - 1820-06-01T00:00:00.000+00:53
+    - 1870-06-01T00:00:00.000+00:53
+    - 1914-06-01T00:00:00.000+01:00
+    - 1960-06-01T00:00:00.000+01:00
+    - 2024-06-01T00:00:00.000+02:00
     stopped: 1820-06-01T00:00:00.000+00:53
-  duration_: P60Y
-  duration: P60Y
 dv_is_:
   same_as:
-    - "[[../../../../../../../../WikiData/WD~Industrial_Revolution,2269]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution|1760-Industrial_Revolution]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution.public|1760-Industrial_Revolution.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution.internal|1760-Industrial_Revolution.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution.protect|1760-Industrial_Revolution.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution.private|1760-Industrial_Revolution.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution.personal|1760-Industrial_Revolution.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution.secret|1760-Industrial_Revolution.secret]]"
+  - '[[../../../../../../../../WikiData/WD~Industrial_Revolution,2269]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution|1760-Industrial_Revolution]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution.public|1760-Industrial_Revolution.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution.internal|1760-Industrial_Revolution.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution.protect|1760-Industrial_Revolution.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution.private|1760-Industrial_Revolution.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution.personal|1760-Industrial_Revolution.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution.secret|1760-Industrial_Revolution.secret]]'
 dv_has_duration_years:
-  - 60
-  - 60
+- 60
+- 60
 dv_has_duration_: P60Y
 dv_has_duration: P60Y
 dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Industrial_Revolution,2269]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution|1760-Industrial_Revolution]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution.public|1760-Industrial_Revolution.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution.internal|1760-Industrial_Revolution.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution.protect|1760-Industrial_Revolution.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution.private|1760-Industrial_Revolution.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution.personal|1760-Industrial_Revolution.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution.secret|1760-Industrial_Revolution.secret]]"
+- '[[../../../../../../../../WikiData/WD~Industrial_Revolution,2269]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution|1760-Industrial_Revolution]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution.public|1760-Industrial_Revolution.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution.internal|1760-Industrial_Revolution.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution.protect|1760-Industrial_Revolution.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution.private|1760-Industrial_Revolution.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution.personal|1760-Industrial_Revolution.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution.secret|1760-Industrial_Revolution.secret]]'
 ---
-
 #has_/time_/started :: `=this.has_time_started`
 #has_/time_/stopped ::  `=this.has_time_stopped`
 

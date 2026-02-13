@@ -1,43 +1,146 @@
 ---
 aliases:
-  - Spanish Empire
-  - 1492-Spanish_Empire+1976
-  - 1492-Spanish Empire+1976
+- 1492-Spanish Empire+1976
+- 1492-Spanish_Empire+1976
+- Anpi espanyòl
+- Coloña España
+- Daular Sipaniya
+- Det spanske imperiet
+- Emepaea o Sipaniolo
+- Empayar Sepanyol
+- Empira Espaniôla
+- Empire espagnol
+- Empèri Espanhòl
+- Epáña Mburuvi
+- Espainiar Inperioa
+- Espaniul a Imperiu
+- Espanjan imperiumi
+- Espanyanhon nga Imperyo
+- Espanyanhong Imperyo
+- Espanyanhën nga Imperyo
+- Hispaania koloniaalimpeerium
+- Hispana Imperio
+- Hispaniana imperio
+- Impalaeriezh trevadennel Spagn
+- Imperi Espanyol
+- Imperio Español
+- Imperio Hispanic
+- Imperio nga Espaniol
+- Imperiu Español
+- Imperiul Spaniol
+- Imperium Hispanicum
+- Imperium hiszpańskie
+- Imperium Spanyol
+- Impero spagnolo
+- Imperyo Espanyol
+- Imperyong Espanyol
+- Impiraght y Spaainey
+- Impireacht na Spáinne
+- Impèriu ispagnolu
+- Império Espanhol
+- Inpero spagnoło
+- Ispanijos imperija
+- Ispaniya imperiyasi
+- Perandoria Spanjolle
+- Se-pan-gâ Tè-kok
+- Spaanse Rijk
+- Spaanse Ryk
+- Spaingie Empire
+- Spanisches Kolonialreich
+- Spanish Empire
+- Spanska imperiet
+- Spanske imperium
+- Spanyol Birodalom
+- Spænska heimsveldið
+- Spānijas impērija
+- Sî-pân-ngà Ti-koet
+- Ymerodraeth Sbaen
+- Împeratoriya Spanî
+- Đế quốc Tây Ban Nha
+- İpaniya imperiyası
+- İspaniya imperiyası
+- İspanyol İmparatorluğu
+- Španielske impérium
+- Španjolsko kolonijalno carstvo
+- Španski imperij
+- Špansko Carstvo
+- Španělské impérium
+- Ισπανική Αποικιακή Αυτοκρατορία
+- Іспанская імперыя
+- Іспанська імперія
+- Гішпанская імпэрыя
+- Империяи Испания
+- Испайнаг импери
+- Испан империясе
+- Испан империясы
+- Испан империяһы
+- Испанийн Эзэнт Улс
+- Испанска империя
+- Испанская империя
+- Шпанска империја
+- Шпанско Царство
+- Իսպանական կայսրություն
+- האימפריה הספרדית
+- שפאנישע אימפעריע
+- ئىسپانىيە ئىمپېرىيىسى
+- ئیمپراتۆریەتیی ئیسپانی
+- الإمبراطورية الإسبانية
+- الامبراطوريه الاسپانيه
+- امپراتوری اسپانیا
+- ایسپانیا ایمپیراتورلوغو
+- سلطنت ہسپانیہ
+- स्पॅनिश साम्राज्य
+- स्पेनिश साम्राज्य
+- स्पेनी साम्राज्य
+- स्पैनिश साम्राज्य
+- স্প্যানিশ সাম্রাজ্য
+- ਸਪੇਨੀ ਸਾਮਰਾਜ
+- எசுப்பானியப் பேரரசு
+- స్పానిష్ ఎంపైర్
+- จักรวรรดิสเปน
+- ຈັກກະວັດແອັດສະປາຍ
+- စပိန်အင်ပါယာ
+- ესპანეთის იმპერია
+- ესპანეთიშ იმპერია
+- スペイン帝国
+- 西班牙帝国
+- 西班牙帝國
+- 스페인 제국
 has_id_wikidata: Q80702
-anthem: "[[_Standards/WikiData/WD~Marcha_Real,130940]]"
+anthem: '[[_Standards/WikiData/WD~Marcha_Real,130940]]'
 basic_form_of_government:
-  - "[[_Standards/WikiData/WD~absolute_monarchy,184558]]"
-  - "[[_Standards/WikiData/WD~personal_union,188800]]"
-  - "[[_Standards/WikiData/WD~polysynodal_monarchy,59104206]]"
-patron_saint: "[[_Standards/WikiData/WD~Immaculate_Conception_of_Mary,185606]]"
-founded_by: "[[_Standards/WikiData/WD~Catholic_Monarchs,186851]]"
+- '[[_Standards/WikiData/WD~absolute_monarchy,184558]]'
+- '[[_Standards/WikiData/WD~personal_union,188800]]'
+- '[[_Standards/WikiData/WD~polysynodal_monarchy,59104206]]'
+patron_saint: '[[_Standards/WikiData/WD~Immaculate_Conception_of_Mary,185606]]'
+founded_by: '[[_Standards/WikiData/WD~Catholic_Monarchs,186851]]'
 replaces:
-  - "[[_Standards/WikiData/WD~Crown_of_Aragon,204920]]"
-  - "[[_Standards/WikiData/WD~Crown_of_Castile,217196]]"
-part_of: "[[_Standards/WikiData/WD~Iberian_Union,377350]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Latin_Church,597526]]"
+- '[[_Standards/WikiData/WD~Crown_of_Aragon,204920]]'
+- '[[_Standards/WikiData/WD~Crown_of_Castile,217196]]'
+part_of: '[[_Standards/WikiData/WD~Iberian_Union,377350]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Latin_Church,597526]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Spanish_East_Indies,910648]]"
-  - "[[_Standards/WikiData/WD~Spanish_Empire_in_Europe,30900270]]"
-  - "[[_Standards/WikiData/WD~Spain,29]]"
-instance_of: "[[_Standards/WikiData/WD~historical_country,3024240]]"
-diplomatic_relation: "[[_Standards/WikiData/WD~Mosquitia,6037274]]"
-currency: "[[_Standards/WikiData/WD~Spanish_dollar,15039722]]"
+- '[[_Standards/WikiData/WD~Spanish_East_Indies,910648]]'
+- '[[_Standards/WikiData/WD~Spanish_Empire_in_Europe,30900270]]'
+- '[[_Standards/WikiData/WD~Spain,29]]'
+instance_of: '[[_Standards/WikiData/WD~historical_country,3024240]]'
+diplomatic_relation: '[[_Standards/WikiData/WD~Mosquitia,6037274]]'
+currency: '[[_Standards/WikiData/WD~Spanish_dollar,15039722]]'
 capital:
-  - "[[_Standards/WikiData/WD~Toledo_city,31844059]]"
-  - "[[_Standards/WikiData/WD~Valladolid_city,31925679]]"
-  - "[[_Standards/WikiData/WD~Madrid_city,116170766]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~The_Spanish_Empire,42351373]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~Sumatran_Numismatic_Museum,64681279]]"
-significant_event: "[[_Standards/WikiData/WD~dynastic_union_of_Aragon_and_Castile,111512452]]"
-described_by_source: "[[_Standards/WikiData/WD~Meyer_s_Universum,_Erster_Band,126374795]]"
+- '[[_Standards/WikiData/WD~Toledo_city,31844059]]'
+- '[[_Standards/WikiData/WD~Valladolid_city,31925679]]'
+- '[[_Standards/WikiData/WD~Madrid_city,116170766]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~The_Spanish_Empire,42351373]]'
+has_works_in_the_collection: '[[_Standards/WikiData/WD~Sumatran_Numismatic_Museum,64681279]]'
+significant_event: '[[_Standards/WikiData/WD~dynastic_union_of_Aragon_and_Castile,111512452]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyer_s_Universum,_Erster_Band,126374795]]'
 Gregorian_calendar_start_date: 1582-10-15T00:00:00Z
-language_used: "[[_Standards/WikiData/WD~Spanish,1321]]"
-official_language: "[[_Standards/WikiData/WD~Spanish,1321]]"
-official_religion: "[[_Standards/WikiData/WD~Catholicism,1841]]"
-replaced_by: "[[_Standards/WikiData/WD~Spain,29]]"
-country: "[[_Standards/WikiData/WD~Spain,29]]"
-continent: "[[_Standards/WikiData/WD~Europe,46]]"
+language_used: '[[_Standards/WikiData/WD~Spanish,1321]]'
+official_language: '[[_Standards/WikiData/WD~Spanish,1321]]'
+official_religion: '[[_Standards/WikiData/WD~Catholicism,1841]]'
+replaced_by: '[[_Standards/WikiData/WD~Spain,29]]'
+country: '[[_Standards/WikiData/WD~Spain,29]]'
+continent: '[[_Standards/WikiData/WD~Europe,46]]'
 area: 20000000
 population: 60000000
 PM20_geo_code: A31
@@ -53,26 +156,141 @@ native_label: Monarquía universal española(Monarquía hispánica /Monarquía d
 coordinate_location: Point(-3.68333333 40.41666667)
 dv_is_:
   same_as:
-    - "[[../../../../../../../../../../WikiData/WD~Spanish_Empire,80702|WD~Spanish_Empire,80702]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976|1492-Spanish_Empire+1976]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976.public|1492-Spanish_Empire+1976.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976.internal|1492-Spanish_Empire+1976.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976.protect|1492-Spanish_Empire+1976.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976.private|1492-Spanish_Empire+1976.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976.personal|1492-Spanish_Empire+1976.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976.secret|1492-Spanish_Empire+1976.secret]]"
+  - '[[../../../../../../../../../../WikiData/WD~Spanish_Empire,80702|WD~Spanish_Empire,80702]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976|1492-Spanish_Empire+1976]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976.public|1492-Spanish_Empire+1976.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976.internal|1492-Spanish_Empire+1976.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976.protect|1492-Spanish_Empire+1976.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976.private|1492-Spanish_Empire+1976.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976.personal|1492-Spanish_Empire+1976.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976.secret|1492-Spanish_Empire+1976.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../../../WikiData/WD~Spanish_Empire,80702|WD~Spanish_Empire,80702]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976|1492-Spanish_Empire+1976]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976.public|1492-Spanish_Empire+1976.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976.internal|1492-Spanish_Empire+1976.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976.protect|1492-Spanish_Empire+1976.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976.private|1492-Spanish_Empire+1976.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976.personal|1492-Spanish_Empire+1976.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976.secret|1492-Spanish_Empire+1976.secret]]"
+- '[[../../../../../../../../../../WikiData/WD~Spanish_Empire,80702|WD~Spanish_Empire,80702]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976|1492-Spanish_Empire+1976]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976.public|1492-Spanish_Empire+1976.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976.internal|1492-Spanish_Empire+1976.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976.protect|1492-Spanish_Empire+1976.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976.private|1492-Spanish_Empire+1976.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976.personal|1492-Spanish_Empire+1976.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976.secret|1492-Spanish_Empire+1976.secret]]'
+dv_has_:
+  name_:
+    af: Spaanse Ryk
+    ar: الإمبراطورية الإسبانية
+    arz: الامبراطوريه الاسپانيه
+    ast: Imperiu Español
+    az: İspaniya imperiyası
+    azb: ایسپانیا ایمپیراتورلوغو
+    ba: Испан империяһы
+    bcl: Imperyong Espanyol
+    be: Іспанская імперыя
+    be-tarask: Гішпанская імпэрыя
+    bg: Испанска империя
+    bn: স্প্যানিশ সাম্রাজ্য
+    br: Impalaeriezh trevadennel Spagn
+    ca: Imperi Espanyol
+    cbk-zam: Coloña España
+    ceb: Espanyanhong Imperyo
+    ckb: ئیمپراتۆریەتیی ئیسپانی
+    crh: İpaniya imperiyası
+    crh-latn: İpaniya imperiyası
+    cs: Španělské impérium
+    cy: Ymerodraeth Sbaen
+    da: Spanske imperium
+    de: Spanisches Kolonialreich
+    el: Ισπανική Αποικιακή Αυτοκρατορία
+    en: Spanish Empire
+    eo: Hispana Imperio
+    es: Imperio Español
+    et: Hispaania koloniaalimpeerium
+    eu: Espainiar Inperioa
+    fa: امپراتوری اسپانیا
+    fi: Espanjan imperiumi
+    fr: Empire espagnol
+    ga: Impireacht na Spáinne
+    gl: Imperio Español
+    gn: Epáña Mburuvi
+    gv: Impiraght y Spaainey
+    ha: Daular Sipaniya
+    hak: Sî-pân-ngà Ti-koet
+    he: האימפריה הספרדית
+    hi: स्पैनिश साम्राज्य
+    hil: Espanyanhon nga Imperyo
+    hr: Španjolsko kolonijalno carstvo
+    ht: Anpi espanyòl
+    hu: Spanyol Birodalom
+    hy: Իսպանական կայսրություն
+    ia: Imperio Hispanic
+    id: Imperium Spanyol
+    ilo: Imperio nga Espaniol
+    io: Hispaniana imperio
+    is: Spænska heimsveldið
+    it: Impero spagnolo
+    ja: スペイン帝国
+    ka: ესპანეთის იმპერია
+    kk: Испан империясы
+    ko: 스페인 제국
+    krj: Espanyanhën nga Imperyo
+    ku: Împeratoriya Spanî
+    ku-latn: Împeratoriya Spanî
+    ky: Испан империясы
+    la: Imperium Hispanicum
+    lo: ຈັກກະວັດແອັດສະປາຍ
+    lt: Ispanijos imperija
+    lv: Spānijas impērija
+    mg: Empira Espaniôla
+    mk: Шпанско Царство
+    mn: Испанийн Эзэнт Улс
+    mr: स्पॅनिश साम्राज्य
+    ms: Empayar Sepanyol
+    my: စပိန်အင်ပါယာ
+    nan: Se-pan-gâ Tè-kok
+    nb: Det spanske imperiet
+    ne: स्पेनी साम्राज्य
+    new: स्पेनिश साम्राज्य
+    nl: Spaanse Rijk
+    nn: Det spanske imperiet
+    oc: Empèri Espanhòl
+    os: Испайнаг импери
+    pa: ਸਪੇਨੀ ਸਾਮਰਾਜ
+    pam: Espaniul a Imperiu
+    pl: Imperium hiszpańskie
+    pnb: سلطنت ہسپانیہ
+    pt: Império Espanhol
+    ro: Imperiul Spaniol
+    ru: Испанская империя
+    sc: Impèriu ispagnolu
+    sco: Spaingie Empire
+    sh: Špansko Carstvo
+    sk: Španielske impérium
+    sl: Španski imperij
+    sm: Emepaea o Sipaniolo
+    sq: Perandoria Spanjolle
+    sr: Шпанска империја
+    sv: Spanska imperiet
+    ta: எசுப்பானியப் பேரரசு
+    te: స్పానిష్ ఎంపైర్
+    tg: Империяи Испания
+    th: จักรวรรดิสเปน
+    tl: Imperyong Espanyol
+    tr: İspanyol İmparatorluğu
+    tt: Испан империясе
+    ug: ئىسپانىيە ئىمپېرىيىسى
+    uk: Іспанська імперія
+    ur: سلطنت ہسپانیہ
+    uz: Ispaniya imperiyasi
+    vec: Inpero spagnoło
+    vi: Đế quốc Tây Ban Nha
+    war: Imperyo Espanyol
+    wuu: 西班牙帝国
+    xmf: ესპანეთიშ იმპერია
+    yi: שפאנישע אימפעריע
+    yue: 西班牙帝國
+    zh: 西班牙帝國
+    zh-cn: 西班牙帝国
+    zh-hans: 西班牙帝国
+    zh-hant: 西班牙帝國
 ---
-
-
 # [[1492-Spanish_Empire+1976]]
 
 #is_/same_as :: [[../../../../../../../../../../WikiData/WD~Spanish_Empire,80702|WD~Spanish_Empire,80702]]

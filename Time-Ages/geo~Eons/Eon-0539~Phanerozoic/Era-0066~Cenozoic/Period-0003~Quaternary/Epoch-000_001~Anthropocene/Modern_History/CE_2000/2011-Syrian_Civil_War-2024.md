@@ -1,40 +1,137 @@
 ---
 location:
-  - 38
-  - 35
+- 38
+- 35
 aliases:
-  - Syrischer Bürgerkrieg
-  - 2011-Syrian_Civil_War-2024
-  - 2011-Syrian Civil War-2024
+- 2011 சிரியா எதிர்ப்புப் போராட்டங்கள்
+- 2011-Syrian Civil War-2024
+- 2011-Syrian_Civil_War-2024
+- Ang Digmaang Sibil ng Syrian
+- Borgarakríggið í Sýria
+- Borgerkrigen i Syria
+- Borgerkrigen i Syrien
+- Brezel diabarzh Siria
+- Bürgerkrieg in Syrien
+- Cogadh cathartha na Siria
+- Dagaalki Suuriya
+- Den syriske borgarkrigen
+- Građanski rat u Siriji
+- Guera Civil Syrio
+- Guere civile siryinne
+- Guerra civil siria
+- Guerra civil siriana
+- Guerra Civil Síria
+- Guerra civile siriana
+- Guerra civili siriana
+- guerre civile syrienne
+- Guèrra Civila Siriana
+- Gwerra ċivili Sirjana
+- Gwrthryfel Syria
+- Lufta civile në Siri
+- Nội chiến Syria
+- občanská válka v Sýrii
+- Občianska vojna v Sýrii
+- Perang Saudara Suriah
+- Perang saudara Syria
+- Războiul Civil Sirian
+- Siria enlanda milito
+- Siriako Gerra Zibila
+- Siriese Burgeroorlog
+- Sirijos pilietinis karas
+- sirska državljanska vojna
+- Stellvertreterkrieg in Syrien
+- Su-lī-a Lōe-chiàn
+- Suriya fuqarolar urushi
+- Suriyada vətəndaş müharibəsi
+- Suriye İç Savaşı
+- Syria siskkáldassoahti
+- Syrian Civil War
+- Syrien civil war
+- Syrische Burgeroorlog
+- Syrische Burheroôrlog
+- Syrische Börgeroorlog
+- Syrischer Bürgerkrieg
+- Syriska inbördeskriget
+- Syyria siskáldâssuáti
+- Syyrian sisällissota
+- szíriai polgárháború
+- Süriä watandaşlar suğışı
+- Süüria kodusõda
+- Sýrlenska borgarastyrjöldin
+- Sīrijas pilsoņu karš
+- wojna domowa w Syrii
+- şerê navxweyî yê Sûriyê
+- Συριακός Εμφύλιος Πόλεμος
+- Грађански рат у Сирији
+- Граѓанска војна во Сирија
+- Гражданска война в Сирия
+- Гражданская война в Сирии
+- Грамадзянская вайна ў Сірыі
+- Грамадзянская вайна ў Сырыі
+- громадянська війна в Сирії
+- Сирийы мидхæст
+- Сирия азаматтық соғысы
+- Сирияын гражданскӧй война
+- Сүриәлә граждандар һуғышы
+- Ҷанги дохилии Сурия
+- Өрө туруу Сирияҕа
+- Սիրիայի քաղաքացիական պատերազմ
+- מלחמת האזרחים בסוריה
+- الحرب الأهلية السورية
+- جنگ داخلی سوریه
+- حرب اهليه سوريا
+- د سوریې کورنۍ جګړه
+- سوریه ایچ ساواشی
+- سوریه دلهیی جنگ
+- شامی خانہ جنگی
+- شامی خانہٕ جنٛگی
+- شامی دیسی لڑائی
+- شەرێ ناڤخوەیی یێ سووریێ
+- شەڕی ناوخۆییی سووریا
+- لحرب ف سوريا
+- सिरियाली गृहयुद्ध
+- सीरियाई गृहयुद्ध
+- সিরীয় গৃহযুদ্ধ
+- ਸੀਰੀਆਈ ਖ਼ਾਨਾਜੰਗੀ
+- ସିରିଆର ଗୃହଯୁଦ୍ଧ
+- ಸಿರಿಯನ್ ಅಂತರ್ಯುದ್ಧ
+- സിറിയൻ ആഭ്യന്തരയുദ്ധം
+- สงครามกลางเมืองซีเรีย
+- სირიის სამოქალაქო ომი
+- ᱥᱤᱨᱤᱭᱟ ᱨᱮᱭᱟᱜ ᱜᱷᱟᱨᱚᱸᱡᱤᱭᱟᱹ ᱞᱟᱹᱲᱦᱟᱹᱭ
+- シリア内戦
+- 叙利亚内战
+- 敘利亞內戰
+- 시리아 내전
 has_id_wikidata: Q178810
 participant:
-  - "[[_Standards/WikiData/WD~Haitham_al_Maleh,82398]]"
-  - "[[_Standards/WikiData/WD~Burhan_Ghalioun,82403]]"
-  - "[[_Standards/WikiData/WD~Ali_Sadreddine_Al_Bayanouni,82400]]"
-  - "[[_Standards/WikiData/WD~Ali_Habib_Mahmud,369251]]"
-  - "[[_Standards/WikiData/WD~Mashaal_Tammo,403421]]"
-  - "[[_Standards/WikiData/WD~Maher_al_Assad,447173]]"
-  - "[[_Standards/WikiData/WD~Dawoud_Rajiha,456977]]"
-  - "[[_Standards/WikiData/WD~Assef_Shawkat,548228]]"
-  - "[[_Standards/WikiData/WD~Riad_al_Asaad,714040]]"
-  - "[[_Standards/WikiData/WD~Walid_Muallem,1334803]]"
-  - "[[_Standards/WikiData/WD~Samir_Nashar,7409537]]"
-  - "[[_Standards/WikiData/WD~Ahmed_al_Sharaa,7934206]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~Bashar_al_Assad,44329]]"
+- '[[_Standards/WikiData/WD~Haitham_al_Maleh,82398]]'
+- '[[_Standards/WikiData/WD~Burhan_Ghalioun,82403]]'
+- '[[_Standards/WikiData/WD~Ali_Sadreddine_Al_Bayanouni,82400]]'
+- '[[_Standards/WikiData/WD~Ali_Habib_Mahmud,369251]]'
+- '[[_Standards/WikiData/WD~Mashaal_Tammo,403421]]'
+- '[[_Standards/WikiData/WD~Maher_al_Assad,447173]]'
+- '[[_Standards/WikiData/WD~Dawoud_Rajiha,456977]]'
+- '[[_Standards/WikiData/WD~Assef_Shawkat,548228]]'
+- '[[_Standards/WikiData/WD~Riad_al_Asaad,714040]]'
+- '[[_Standards/WikiData/WD~Walid_Muallem,1334803]]'
+- '[[_Standards/WikiData/WD~Samir_Nashar,7409537]]'
+- '[[_Standards/WikiData/WD~Ahmed_al_Sharaa,7934206]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Bashar_al_Assad,44329]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~proxy_war,864113]]"
-  - "[[_Standards/WikiData/WD~communal_violence,5153967]]"
-  - "[[_Standards/WikiData/WD~civil_war,8465]]"
+- '[[_Standards/WikiData/WD~proxy_war,864113]]'
+- '[[_Standards/WikiData/WD~communal_violence,5153967]]'
+- '[[_Standards/WikiData/WD~civil_war,8465]]'
 has_cause:
-  - "[[_Standards/WikiData/WD~human_rights_in_Syria,2754047]]"
-  - "[[_Standards/WikiData/WD~sectarianism_and_minorities_in_the_Syrian_civil_war,7444558]]"
-has_part_s_: "[[_Standards/WikiData/WD~foreign_involvement_in_the_Syrian_civil_war,5468411]]"
+- '[[_Standards/WikiData/WD~human_rights_in_Syria,2754047]]'
+- '[[_Standards/WikiData/WD~sectarianism_and_minorities_in_the_Syrian_civil_war,7444558]]'
+has_part_s_: '[[_Standards/WikiData/WD~foreign_involvement_in_the_Syrian_civil_war,5468411]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Syrian_civil_war,9094644]]"
-  - "[[_Standards/WikiData/WD~Template_Syrian_civil_war_infobox,13882202]]"
+- '[[_Standards/WikiData/WD~Template_Syrian_civil_war,9094644]]'
+- '[[_Standards/WikiData/WD~Template_Syrian_civil_war_infobox,13882202]]'
 coordinate_location: Point(38.0 35.0)
-country: "[[_Standards/WikiData/WD~Syria,858]]"
+country: '[[_Standards/WikiData/WD~Syria,858]]'
 number_of_deaths: 570000
 social_media_followers: 103218
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Syrian%20Civil%20War%20map.svg
@@ -43,25 +140,140 @@ subreddit: syriancivilwar
 start_time: 2011-03-15T00:00:00Z
 dv_is_:
   same_as:
-    - "[[../../../../../../../../WikiData/WD~Syrian_Civil_War,178810|WD~Syrian_Civil_War,178810]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2011-Syrian_Civil_War-2024|2011-Syrian_Civil_War-2024]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2011-Syrian_Civil_War-2024.public|2011-Syrian_Civil_War-2024.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2011-Syrian_Civil_War-2024.internal|2011-Syrian_Civil_War-2024.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2011-Syrian_Civil_War-2024.protect|2011-Syrian_Civil_War-2024.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2011-Syrian_Civil_War-2024.private|2011-Syrian_Civil_War-2024.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2011-Syrian_Civil_War-2024.personal|2011-Syrian_Civil_War-2024.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2011-Syrian_Civil_War-2024.secret|2011-Syrian_Civil_War-2024.secret]]"
+  - '[[../../../../../../../../WikiData/WD~Syrian_Civil_War,178810|WD~Syrian_Civil_War,178810]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2011-Syrian_Civil_War-2024|2011-Syrian_Civil_War-2024]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2011-Syrian_Civil_War-2024.public|2011-Syrian_Civil_War-2024.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2011-Syrian_Civil_War-2024.internal|2011-Syrian_Civil_War-2024.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2011-Syrian_Civil_War-2024.protect|2011-Syrian_Civil_War-2024.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2011-Syrian_Civil_War-2024.private|2011-Syrian_Civil_War-2024.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2011-Syrian_Civil_War-2024.personal|2011-Syrian_Civil_War-2024.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2011-Syrian_Civil_War-2024.secret|2011-Syrian_Civil_War-2024.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Syrian_Civil_War,178810|WD~Syrian_Civil_War,178810]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2011-Syrian_Civil_War-2024|2011-Syrian_Civil_War-2024]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2011-Syrian_Civil_War-2024.public|2011-Syrian_Civil_War-2024.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2011-Syrian_Civil_War-2024.internal|2011-Syrian_Civil_War-2024.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2011-Syrian_Civil_War-2024.protect|2011-Syrian_Civil_War-2024.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2011-Syrian_Civil_War-2024.private|2011-Syrian_Civil_War-2024.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2011-Syrian_Civil_War-2024.personal|2011-Syrian_Civil_War-2024.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2011-Syrian_Civil_War-2024.secret|2011-Syrian_Civil_War-2024.secret]]"
+- '[[../../../../../../../../WikiData/WD~Syrian_Civil_War,178810|WD~Syrian_Civil_War,178810]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2011-Syrian_Civil_War-2024|2011-Syrian_Civil_War-2024]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2011-Syrian_Civil_War-2024.public|2011-Syrian_Civil_War-2024.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2011-Syrian_Civil_War-2024.internal|2011-Syrian_Civil_War-2024.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2011-Syrian_Civil_War-2024.protect|2011-Syrian_Civil_War-2024.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2011-Syrian_Civil_War-2024.private|2011-Syrian_Civil_War-2024.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2011-Syrian_Civil_War-2024.personal|2011-Syrian_Civil_War-2024.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2011-Syrian_Civil_War-2024.secret|2011-Syrian_Civil_War-2024.secret]]'
+dv_has_:
+  name_:
+    af: Siriese Burgeroorlog
+    ar: الحرب الأهلية السورية
+    ary: لحرب ف سوريا
+    arz: حرب اهليه سوريا
+    ast: Guerra civil siria
+    az: Suriyada vətəndaş müharibəsi
+    azb: سوریه ایچ ساواشی
+    ba: Сүриәлә граждандар һуғышы
+    bar: Stellvertreterkrieg in Syrien
+    be: Грамадзянская вайна ў Сірыі
+    be-tarask: Грамадзянская вайна ў Сырыі
+    bg: Гражданска война в Сирия
+    bn: সিরীয় গৃহযুদ্ধ
+    br: Brezel diabarzh Siria
+    bs: Građanski rat u Siriji
+    ca: Guerra civil siriana
+    ckb: شەڕی ناوخۆییی سووریا
+    cs: občanská válka v Sýrii
+    cy: Gwrthryfel Syria
+    da: Borgerkrigen i Syrien
+    de: Syrischer Bürgerkrieg
+    de-ch: Bürgerkrieg in Syrien
+    el: Συριακός Εμφύλιος Πόλεμος
+    en: Syrian Civil War
+    en-ca: Syrian civil war
+    eo: Siria enlanda milito
+    es: guerra civil siria
+    et: Süüria kodusõda
+    eu: Siriako Gerra Zibila
+    fa: جنگ داخلی سوریه
+    fi: Syyrian sisällissota
+    fo: Borgarakríggið í Sýria
+    fr: guerre civile syrienne
+    ga: Cogadh cathartha na Siria
+    gl: Guerra civil siria
+    he: מלחמת האזרחים בסוריה
+    hi: सीरियाई गृहयुद्ध
+    hr: Građanski rat u Siriji
+    hu: szíriai polgárháború
+    hy: Սիրիայի քաղաքացիական պատերազմ
+    id: Perang Saudara Suriah
+    is: Sýrlenska borgarastyrjöldin
+    it: Guerra civile siriana
+    ja: シリア内戦
+    ka: სირიის სამოქალაქო ომი
+    kk: Сирия азаматтық соғысы
+    kn: ಸಿರಿಯನ್ ಅಂತರ್ಯುದ್ಧ
+    ko: 시리아 내전
+    ks: شامی خانہٕ جنٛگی
+    ku: şerê navxweyî yê Sûriyê
+    ku-arab: شەرێ ناڤخوەیی یێ سووریێ
+    ku-latn: şerê navxweyî yê Sûriyê
+    kv: Сирияын гражданскӧй война
+    li: Syrische Börgeroorlog
+    lt: Sirijos pilietinis karas
+    lv: Sīrijas pilsoņu karš
+    mk: Граѓанска војна во Сирија
+    ml: സിറിയൻ ആഭ്യന്തരയുദ്ധം
+    ms: Perang saudara Syria
+    mt: Gwerra ċivili Sirjana
+    mzn: سوریه دلهیی جنگ
+    nan: Su-lī-a Lōe-chiàn
+    nb: Borgerkrigen i Syria
+    ne: सिरियाली गृहयुद्ध
+    nl: Syrische Burgeroorlog
+    nn: Den syriske borgarkrigen
+    oc: Guèrra Civila Siriana
+    or: ସିରିଆର ଗୃହଯୁଦ୍ଧ
+    os: Сирийы мидхæст
+    pa: ਸੀਰੀਆਈ ਖ਼ਾਨਾਜੰਗੀ
+    pap: Guera Civil Syrio
+    pl: wojna domowa w Syrii
+    pnb: شامی دیسی لڑائی
+    ps: د سوریې کورنۍ جګړه
+    pt: Guerra Civil Síria
+    pt-br: Guerra Civil Síria
+    ro: Războiul Civil Sirian
+    ru: Гражданская война в Сирии
+    sah: Өрө туруу Сирияҕа
+    sat: ᱥᱤᱨᱤᱭᱟ ᱨᱮᱭᱟᱜ ᱜᱷᱟᱨᱚᱸᱡᱤᱭᱟᱹ ᱞᱟᱹᱲᱦᱟᱹᱭ
+    scn: Guerra civili siriana
+    sco: Syrien civil war
+    se: Syria siskkáldassoahti
+    sh: Građanski rat u Siriji
+    sk: Občianska vojna v Sýrii
+    sl: sirska državljanska vojna
+    smn: Syyria siskáldâssuáti
+    so: Dagaalki Suuriya
+    sq: Lufta civile në Siri
+    sr: Грађански рат у Сирији
+    sr-ec: Грађански рат у Сирији
+    sr-el: Građanski rat u Siriji
+    sv: Syriska inbördeskriget
+    ta: 2011 சிரியா எதிர்ப்புப் போராட்டங்கள்
+    tg: Ҷанги дохилии Сурия
+    th: สงครามกลางเมืองซีเรีย
+    tl: Ang Digmaang Sibil ng Syrian
+    tr: Suriye İç Savaşı
+    tt: Süriä watandaşlar suğışı
+    uk: громадянська війна в Сирії
+    ur: شامی خانہ جنگی
+    uz: Suriya fuqarolar urushi
+    vi: Nội chiến Syria
+    wa: Guere civile siryinne
+    wuu: 叙利亚内战
+    yue: 敘利亞內戰
+    zea: Syrische Burheroôrlog
+    zh: 叙利亚内战
+    zh-cn: 叙利亚内战
+    zh-hans: 叙利亚内战
+    zh-hant: 敘利亞內戰
+    zh-hk: 敘利亞內戰
+    zh-sg: 叙利亚内战
+    zh-tw: 敘利亞內戰
 ---
-
 # [[2011-Syrian_Civil_War-2024]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Syrian_Civil_War,178810|WD~Syrian_Civil_War,178810]]  

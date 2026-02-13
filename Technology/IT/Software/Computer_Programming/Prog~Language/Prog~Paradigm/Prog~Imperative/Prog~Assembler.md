@@ -1,35 +1,206 @@
 ---
-has_time_started: 1949-01-01 
+has_time_started: 1949-01-01
 aliases:
-  - 2GL
-  - Prog~Assembler
+- 2GL
+- asamblervaloda
+- asembla lingvo
+- asembler
+- asemblerio kalba
+- asemblerski jezik
+- Asemblolinguo
+- assembleertaal
+- assembler
+- assemblerkeel
+- Assemblerlew tili
+- Assemblersprache
+- Assemblersprog
+- assembleur
+- Assembly
+- assembly dili
+- assembly language
+- assembly leid
+- Bahasa himpunan
+- Bahasa rakitan
+- Boros Simbong
+- hợp ngữ
+- jazyk symbolických adres
+- jazyk symbolických inštrukcií
+- język asemblera
+- Lengagi assembler
+- lenguahe di asamblea
+- Lenguaige de montaige
+- lenguaje ensamblador
+- limbaj de asamblare
+- Lingua coactionis
+- linguaggio assembly
+- linguaggiu assembly
+- linguaxe ensambladora
+- llenguatge assemblador
+- Llinguaxe ensamblador
+- Mihiztadura-lengoaia
+- Prog~Assembler
+- Smalamál
+- teanga díolama
+- Zaboni assembler
+- zbirni jezik
+- γλώσσα assembly
+- Асемблер
+- Ассемблер
+- Ассемблер хэл
+- Ассемблерлеу тілі
+- мова асэмблера
+- составувачки јазик
+- язык ассемблера
+- ասեմբլեր
+- שפת סף
+- ئاسسەمبلی
+- اسسەمبلەرلەۋ ٴتىلى
+- اسمبلی
+- اسمبلی زبان
+- لغة تجميع
+- असेम्बली भाषा
+- অ্যাসেম্বলি ভাষা
+- ਅਸੈਂਬਲੀ ਭਾਸ਼ਾ
+- అసెంబ్లీ భాష
+- അസെംബ്ലി ഭാഷ
+- ඇසෙම්බ්ලි භාෂාව
+- ภาษาแอสเซมบลี
+- ასემბლი
+- アセンブリ言語
+- 汇编语言
+- 組合語言
+- 아쎔블리어
+- 어셈블리어
 has_id_wikidata: Q165436
 subclass_of:
-  - '[[_Standards/WikiData/WD~low_level_programming_language,558937]]'
-  - '[[_Standards/WikiData/WD~non_structured_programming_language,28922854]]'
+- '[[_Standards/WikiData/WD~low_level_programming_language,558937]]'
+- '[[_Standards/WikiData/WD~non_structured_programming_language,28922854]]'
 programming_paradigm: '[[_Standards/WikiData/WD~non_structured_programming,905156]]'
 derivative_work: '[[_Standards/WikiData/WD~GNU_assembler,1486175]]'
 different_from: '[[_Standards/WikiData/WD~assembler,6470767]]'
 ComputerLanguage_com_definition: assembly+language
 instance_of: '[[_Standards/WikiData/WD~programming_language,9143]]'
 file_extension:
-  - s
-  - asm
+- s
+- asm
 OmegaWiki_Defined_Meaning: 1098682
 GitHub_topic:
-  - assembly
-  - assembly-language
+- assembly
+- assembly-language
 subreddit:
-  - asm
-  - Assembly_language
+- asm
+- Assembly_language
 inception: 1949-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Motorola%206800%20Assembly%20Language.png
 Stack_Exchange_tag: https://stackoverflow.com/tags/assembly
 IEV_number: 171-05-15
 P8189: 987007408650105171
 Commons_category: Assembly languages
+dv_has_:
+  name_:
+    ar: لغة تجميع
+    ast: Llinguaxe ensamblador
+    az: Assembler
+    be: мова асэмблера
+    be-tarask: мова асэмблера
+    bg: Асемблер
+    bn: অ্যাসেম্বলি ভাষা
+    bs: asembler
+    ca: llenguatge assemblador
+    cs: jazyk symbolických adres
+    da: Assemblersprog
+    de: Assemblersprache
+    dtp: Boros Simbong
+    el: γλώσσα assembly
+    en: assembly language
+    eo: asembla lingvo
+    es: lenguaje ensamblador
+    et: assemblerkeel
+    eu: Mihiztadura-lengoaia
+    fa: اسمبلی
+    fi: assembly
+    fr: assembleur
+    ga: teanga díolama
+    gl: linguaxe ensambladora
+    he: שפת סף
+    hi: असेम्बली भाषा
+    hr: asemblerski jezik
+    hsb: Assembler
+    hu: assembly
+    hy: ասեմբլեր
+    id: Bahasa rakitan
+    io: Asemblolinguo
+    is: Smalamál
+    it: linguaggio assembly
+    ja: アセンブリ言語
+    ka: ასემბლი
+    kk: Ассемблерлеу тілі
+    kk-arab: اسسەمبلەرلەۋ ٴتىلى
+    kk-cn: اسسەمبلەرلەۋ ٴتىلى
+    kk-cyrl: Ассемблерлеу тілі
+    kk-kz: Ассемблерлеу тілі
+    kk-latn: Assemblerlew tili
+    kk-tr: Assemblerlew tili
+    ko: 어셈블리어
+    ko-kp: 아쎔블리어
+    ku: Assembly
+    ku-arab: ئاسسەمبلی
+    ku-latn: Assembly
+    la: Lingua coactionis
+    lb: Assembler
+    lmo: Assembly
+    lt: asemblerio kalba
+    lv: asamblervaloda
+    mk: составувачки јазик
+    ml: അസെംബ്ലി ഭാഷ
+    mn: Ассемблер хэл
+    ms: Bahasa himpunan
+    mwl: Lenguaige de montaige
+    nb: assembler
+    nl: assembleertaal
+    nn: assembler
+    pa: ਅਸੈਂਬਲੀ ਭਾਸ਼ਾ
+    pap: lenguahe di asamblea
+    pap-aw: lenguahe di asamblea
+    pl: język asemblera
+    pms: Lengagi assembler
+    pt: assembly
+    ro: limbaj de asamblare
+    ru: язык ассемблера
+    scn: linguaggiu assembly
+    sco: assembly leid
+    se: assembly
+    sh: Asemblerski jezik
+    si: ඇසෙම්බ්ලි භාෂාව
+    sk: jazyk symbolických inštrukcií
+    sl: zbirni jezik
+    smn: assembly
+    sms: assembly
+    sq: Assembly
+    sr: Асемблер
+    sr-ec: Асемблер
+    sr-el: Asembler
+    sv: assembler
+    te: అసెంబ్లీ భాష
+    tg: Ассемблер
+    tg-latn: Zaboni assembler
+    th: ภาษาแอสเซมบลี
+    tr: assembly dili
+    uk: асемблер
+    ur: اسمبلی زبان
+    uz: Assembler
+    vec: Assembly
+    vi: hợp ngữ
+    wuu: 汇编语言
+    yue: 組合語言
+    zh: 汇编语言
+    zh-cn: 汇编语言
+    zh-hans: 汇编语言
+    zh-hant: 組合語言
+    zh-hk: 組合語言
+    zh-sg: 汇编语言
+    zh-tw: 組合語言
 ---
-
 # [[Prog~Assembler]] 
 
 #is_a_/ComputerLanguage 

@@ -1,17 +1,144 @@
 ---
 aliases:
+- Abrasiivpaber
+- Ampalas
+- Amplas
+- Brusni papir
+- brusný papír
+- carta abrasiva
+- Carta vetrada
+- Charta aspera
+- Giấy nhám
+- Glancpapjůr
+- Glaspabeier
+- greanpháipéar
+- Hiomapaperi
+- hârtie abrazivă
+- Liha
+- lixa
+- Lizpaper
+- Msasa
+- papel de lija
+- Papel de lixa
+- papel de llixa
+- paper de vidre
+- papier de verre
+- Papier ścierny
+- Pàipear-gainmhich
+- rempelas
+- Sandbabier
+- sandpaper
+- sandpapir
+- sandpapper
+- Schleifpapier
+- schuurpapier
+- Skuurpapier
+- Slibemiddel
+- smilšpapīrs
+- smirga papero
+- Zımpara kağıdı
+- Švitrinis popierius
+- γυαλόχαρτο
+- наждачная бумага
+- наждачная папера
+- Наждачний папір
+- Шкурка
+- Шмиргл папир
+- Қажауқағаз
+- հղկաթուղթ
+- נייר זכוכית
+- ریگ مال
+- سمپارە
+- سنباده
+- شګموښی
+- ورق الصنفرة
+- அரத்தாள்
+- กระดาษทราย
+- ကော်ပတ်
+- ၸေႈသၢႆး
+- ᠶᠣᠩᡤᠠᡩᡠᠨ ᡥᠣᠣᡧᠠᠨ
+- 砂紙
+- 砂纸
+- 紙やすり
+- 사포
 has_id_wikidata: Q142274
-has_part_s_: "[[_Standards/WikiData/WD~abrasive,372301]]"
-subclass_of: "[[_Standards/WikiData/WD~woodworking_tool,11789812]]"
-described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-has_use: "[[_Standards/WikiData/WD~sanding,69993563]]"
-Nomenclature_for_Museum_Cataloging: "7561"
-OmegaWiki_Defined_Meaning: "1045551"
-GS1_GPC_code: "10003156"
+has_part_s_: '[[_Standards/WikiData/WD~abrasive,372301]]'
+subclass_of: '[[_Standards/WikiData/WD~woodworking_tool,11789812]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+has_use: '[[_Standards/WikiData/WD~sanding,69993563]]'
+Nomenclature_for_Museum_Cataloging: 7561
+OmegaWiki_Defined_Meaning: 1045551
+GS1_GPC_code: 10003156
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Schleifpapier%20verschiedene%20Sorten.jpg
 Commons_category: Sandpaper
+dv_has_:
+  name_:
+    af: Skuurpapier
+    ar: ورق الصنفرة
+    ast: papel de llixa
+    be-tarask: наждачная папера
+    bg: Шкурка
+    bjn: Ampalas
+    ca: paper de vidre
+    ckb: سمپارە
+    cs: brusný papír
+    da: Slibemiddel
+    de: Schleifpapier
+    el: γυαλόχαρτο
+    en: sandpaper
+    eo: smirga papero
+    es: papel de lija
+    et: Abrasiivpaber
+    eu: Lizpaper
+    fa: سنباده
+    fi: Hiomapaperi
+    fr: papier de verre
+    ga: greanpháipéar
+    gd: Pàipear-gainmhich
+    gl: Papel de lixa
+    he: נייר זכוכית
+    hy: հղկաթուղթ
+    id: Amplas
+    it: carta abrasiva
+    ja: 紙やすり
+    jv: rempelas
+    kk: Қажауқағаз
+    ko: 사포
+    la: Charta aspera
+    lb: Glaspabeier
+    lt: Švitrinis popierius
+    lv: smilšpapīrs
+    mnc: ᠶᠣᠩᡤᠠᡩᡠᠨ ᡥᠣᠣᡧᠠᠨ
+    my: ကော်ပတ်
+    nb: sandpapir
+    nl: schuurpapier
+    nn: sandpapir
+    pdc: Sandbabier
+    pl: Papier ścierny
+    ps: شګموښی
+    pt: lixa
+    pt-br: lixa
+    ro: hârtie abrazivă
+    ru: наждачная бумага
+    sh: Brusni papir
+    shn: ၸေႈသၢႆး
+    sr: Шмиргл папир
+    sv: sandpapper
+    sw: Msasa
+    szl: Glancpapjůr
+    ta: அரத்தாள்
+    th: กระดาษทราย
+    tr: Zımpara kağıdı
+    uk: Наждачний папір
+    ur: ریگ مال
+    vec: Carta vetrada
+    vi: Giấy nhám
+    war: Liha
+    yue: 砂紙
+    zh: 砂纸
+    zh-hans: 砂纸
+    zh-hant: 砂紙
 ---
-
 # [[Sandpaper]]  
 
 #is_/same_as :: [[WD~Sandpaper,142274]] 

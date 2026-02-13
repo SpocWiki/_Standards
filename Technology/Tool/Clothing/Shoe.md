@@ -1,8 +1,328 @@
 ---
 has_id_wikidata: Q22676
+dv_has_:
+  name_:
+    ady: лъэрыгъ
+    af: skoen
+    alt: öдÿк
+    am: ጫማ
+    ami: koco
+    ang: scōh
+    ann: ikpukot
+    ar: حذاء
+    arc: ܣܐܘܢܐ
+    arq: صباط
+    ast: zapatu
+    atj: Maskisin
+    awa: जुता
+    az: ayaqqabı
+    azb: آیاققابی
+    ba: туфли
+    bar: Schuah
+    bas: bǎ
+    bcl: sapatos
+    be: туфлі
+    be-tarask: абутак
+    bew: sepatu
+    bg: обувка
+    bn: জুতা
+    br: botez
+    bs: cipele
+    ca: sabata
+    cdo: à̤
+    chy: mo'kêhanôtse
+    ckb: پێڵاو
+    cr: ᒪᔅᒋᓯᓐ
+    crh: ayaqqap
+    cs: obuv
+    cv: атă-пушмак
+    cy: esgid
+    da: sko
+    de: Schuh
+    diq: sewl
+    ee: afokpa
+    el: παπούτσι
+    en: shoe
+    en-us: shoe
+    eo: ŝuo
+    es: zapato
+    et: kingad
+    eu: oinetako
+    fa: کفش
+    fi: kenkä
+    fr: chaussure
+    ga: bróg
+    gd: bròg
+    gl: zapato
+    gn: sapatu
+    gsw: Schue
+    gur: Tagera
+    gv: braag
+    ha: takalmi
+    hak: hài-è
+    he: נעליים
+    hi: शू
+    hr: cipela
+    hsb: črij
+    ht: soulye
+    hu: cipő
+    hy: կոշիկ
+    hyw: Կօշիկ
+    ia: scarpa
+    iba: Kasut
+    id: sepatu
+    io: shuo
+    is: skór
+    it: scarpa
+    ja: 靴
+    jbo: cutci
+    jv: sepatu
+    kcg: kwatak
+    kge: Sapatu
+    ki: Kĩratũ
+    kn: ಶೂ
+    knc: Suno
+    ko: 신발
+    ku: pêlav
+    la: calceus
+    lad: chapin
+    lb: Schong
+    lfn: sapato
+    lmo: scarpa
+    ln: sapáto
+    lo: ເກີບ
+    lt: batai
+    lv: kurpes
+    lzh: 履
+    mad: sepatu
+    mcn: tùkrùnà
+    mg: Kiraro
+    mk: чевел
+    mn: гутал
+    mnc: ᠰᠠᠪᡠ
+    mos: noeda
+    ms: kasut
+    ms-arab: کاسوت
+    my: ရှူးဖိနပ်
+    nah: cactli
+    nan: ê-á
+    nb: sko
+    nds: Schoh
+    nds-nl: scho
+    ne: जुत्ता
+    new: लाकां
+    nia: badagahe
+    nl: schoen
+    nn: sko
+    nso: seeta
+    pa: ਜੁੱਤੇ
+    pdc: Schuh
+    pfl: Schlabbe
+    pl: buty
+    pnb: جُتی
+    pnt: τσαγγίν'
+    ps: پڼې
+    pt: sapato
+    pt-br: sapato
+    qu: sapatu
+    rmf: tijaȟ
+    rn: ikirato
+    ro: pantof
+    ru: туфли
+    sat: ᱯᱟᱱᱟᱦᱤ
+    sco: shae
+    se: gáma
+    sh: cipele
+    shn: သွၵ်းတိၼ်
+    si: පාවහන්
+    sk: topánka
+    skr: جُتی
+    sl: čevelj
+    smn: kaamâ
+    sms: kaammi
+    sn: shangu
+    so: kabo
+    sq: këpuca
+    sr: ципела
+    sr-ec: ципела
+    sr-el: cipela
+    st: seeta
+    su: sapatu
+    sv: sko
+    sw: kiatu
+    szl: strzewiki
+    ta: காலணி
+    te: షూ
+    th: รองเท้า
+    tl: sapatos
+    tn: shoes
+    tok: len noka anpa
+    tr: ayakkabı
+    tt: аяк киеме
+    tt-cyrl: аяк киеме
+    tum: shapato
+    tw: mpaboa
+    uk: легке взуття
+    ur: جوتا
+    uz: oyoq kiyimi
+    vi: giày
+    vls: schoe
+    war: sapatos
+    wuu: 鞋
+    xh: IsiHlangu
+    yi: שיך
+    yue: 鞋
+    zh: 鞋
+    zh-hans: 鞋
+    zh-hant: 鞋子
+    zh-hk: 鞋
+    zh-tw: 鞋子
+aliases:
+- afokpa
+- ayakkabı
+- ayaqqabı
+- ayaqqap
+- badagahe
+- batai
+- botez
+- braag
+- bròg
+- bróg
+- buty
+- bǎ
+- cactli
+- calceus
+- chapin
+- chaussure
+- cipela
+- cipele
+- cipő
+- cutci
+- esgid
+- giày
+- gáma
+- hài-è
+- ikirato
+- ikpukot
+- IsiHlangu
+- kaammi
+- kaamâ
+- kabo
+- Kasut
+- kenkä
+- kiatu
+- kingad
+- Kiraro
+- koco
+- kurpes
+- kwatak
+- këpuca
+- Kĩratũ
+- len noka anpa
+- Maskisin
+- mo'kêhanôtse
+- mpaboa
+- noeda
+- obuv
+- oinetako
+- oyoq kiyimi
+- pantof
+- pêlav
+- sabata
+- sapato
+- sapatos
+- Sapatu
+- sapáto
+- scarpa
+- Schlabbe
+- scho
+- schoe
+- schoen
+- Schoh
+- Schong
+- Schuah
+- Schue
+- Schuh
+- scōh
+- seeta
+- sepatu
+- sewl
+- shae
+- shangu
+- shapato
+- shoe
+- shoes
+- shuo
+- sko
+- skoen
+- skór
+- soulye
+- strzewiki
+- Suno
+- Tagera
+- takalmi
+- tijaȟ
+- topánka
+- tùkrùnà
+- zapato
+- zapatu
+- à̤
+- ê-á
+- öдÿк
+- čevelj
+- črij
+- ŝuo
+- παπούτσι
+- τσαγγίν'
+- абутак
+- атă-пушмак
+- аяк киеме
+- гутал
+- легке взуття
+- лъэрыгъ
+- обувка
+- туфлі
+- туфли
+- ципела
+- чевел
+- կոշիկ
+- Կօշիկ
+- נעליים
+- שיך
+- آیاققابی
+- جوتا
+- جُتی
+- حذاء
+- صباط
+- پڼې
+- پێڵاو
+- کاسوت
+- کفش
+- ܣܐܘܢܐ
+- जुता
+- जुत्ता
+- लाकां
+- शू
+- জুতা
+- ਜੁੱਤੇ
+- காலணி
+- షూ
+- ಶೂ
+- පාවහන්
+- รองเท้า
+- ເກີບ
+- ရှူးဖိနပ်
+- သွၵ်းတိၼ်
+- ጫማ
+- ᒪᔅᒋᓯᓐ
+- ᠰᠠᠪᡠ
+- ᱯᱟᱱᱟᱦᱤ
+- 履
+- 靴
+- 鞋
+- 鞋子
+- 신발
 ---
-
-
 # [[Shoe]] 
 
 #is_/same_as :: [[WD~Shoe,22676]] 

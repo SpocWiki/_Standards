@@ -1,64 +1,76 @@
 ---
 aliases:
-  - Early_Mississippian
-  - Early Mississippian
-  - Tournaisian
-  - Турней
-  - Tournai
-  - Tournaisien
-  - Tournaisium
-  - Tournaisiense
-  - Tournais
-  - tournaisi
-  - tournasiano
-  - トルネージアン期
-  - Turnėjis
-  - Tournaisiën
-  - Tournasium
-  - Turnej
-  - Turnaisiano
-  - turnén
-  - tournaisij
-  - tournas
-  - 杜内期
+- Early Mississippian
+- Early_Mississippian
+- Tournai
+- Tournais
+- tournaisi
+- Tournaisian
+- Tournaisiano
+- Tournaisien
+- Tournaisiense
+- tournaisij
+- Tournaisium
+- Tournaisià
+- Tournaisiën
+- tournas
+- tournasiano
+- Tournasium
+- Turnaisiano
+- Turne
+- Turnej
+- Turnezij
+- Turnisianu
+- turnén
+- Turnėjis
+- Tầng Tournai
+- Турней
+- турнейский ярус
+- Турнейський ярус
+- турнесиум
+- التورنايسي
+- تورنزین
+- トルネーシアン
+- トルネージアン期
+- 杜内期
 has_id_wikidata: Q940381
 ischart: LowerMississippian
 confidential: private
 cssclasses:
-  - private
-  - note
+- private
+- note
 draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
-expiryDate:
-has_Template: "[[Extract~Note~Template]]"
+expiryDate: 
+has_Template: '[[Extract~Note~Template]]'
 has_time_started:
-  '{ "date:YYYY-MM-DD": }':
+  '{ "date:YYYY-MM-DD": }': 
 isDeleted: false
 isReadOnly: false
 keywords:
-  "{ newTitle: }":
+  '{ newTitle: }': 
 lang: en
-layout:
+layout: 
 license: (c)copyrighted
 linkTitle:
-  "{ newTitle: }":
+  '{ newTitle: }': 
 publish: false
-publishDate:
+publishDate: 
 tags:
-  - "{ newTitle: }":
-  - excalidraw
+- '{ newTitle: }': 
+- excalidraw
 title:
-  "{ newTitle: }":
+  '{ newTitle: }': 
 type: private_note
-named_after: "[[_Standards/WikiData/WD~Tournai,173219]]"
+named_after: '[[_Standards/WikiData/WD~Tournai,173219]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Tournaisian,30869494]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Tournaisian,134528883]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Tournaisian,30869494]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Tournaisian,134528883]]'
 end_time: -346700000-01-01T00:00:00Z
 coordinate_location: Point(3.3573 43.5555)
 Commons_category: Tournaisian
@@ -67,60 +79,75 @@ described_at_URL: https://popups.uliege.be/1374-8505/index.php?id=1084
 start_time: -358900000-01-01T00:00:00Z
 dv_is_:
   same_as:
-    - "[[WD~Tournaisian,940381]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian|Age~1~Tournaisian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian.public|Age~1~Tournaisian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian.internal|Age~1~Tournaisian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian.protect|Age~1~Tournaisian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian.private|Age~1~Tournaisian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian.personal|Age~1~Tournaisian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian.secret|Age~1~Tournaisian.secret]]"
+  - '[[WD~Tournaisian,940381]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian|Age~1~Tournaisian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian.public|Age~1~Tournaisian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian.internal|Age~1~Tournaisian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian.protect|Age~1~Tournaisian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian.private|Age~1~Tournaisian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian.personal|Age~1~Tournaisian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian.secret|Age~1~Tournaisian.secret]]'
 dv_has_:
   duration_:
     years: NaN
-  previous_:
-    item: "[[../../Period-0419~Devonian/Epoch-382~Late_Devonian/Age~2~Famennian|Age~2~Famennian]]"
-  next_:
-    item: "[[Age~2~Visean|Age~Visean]]"
   name_:
+    abbreviated: C1c1
+    af: Tournaisium
+    ar: التورنايسي
     bg: Турней
+    bs: Turnezij
+    ca: Tournaisià
     cs: Tournai
     da: Tournaisien
-    de: Tournaisium
+    de: Tournai
+    en: Tournaisian
+    en-gb: Tournaisian
     es: Tournaisiense
     et: Tournais
+    fa: تورنزین
     fi: Tournais
     fr: Tournaisien
     hu: tournaisi
-    it: tournasiano
-    ja: トルネージアン期
+    id: Tournaisian
+    it: Tournaisiano
+    ja: トルネーシアン
     lt: Turnėjis
-    nl: Tournaisiën
+    mk: турнесиум
+    nl: Tournaisien
+    nn: tournai
     no: Tournasium
     pl: Turnej
-    pt: Turnaisiano
+    pt: Tournaisiano
+    ru: турнейский ярус
+    scn: Turnisianu
+    sh: Turne
     sk: turnén
-    sl: tournaisij
+    sl: turnezij
     sv: tournas
+    uk: Турнейський ярус
+    vi: Tầng Tournai
     zh: 杜内期
-    abbreviated: C1c1
-  time_:
-    started: "-358.9e6"
-    stopped: "-346.7e6"
+  next_:
+    item: '[[Age~2~Visean|Age~Visean]]'
+  previous_:
+    item: '[[../../Period-0419~Devonian/Epoch-382~Late_Devonian/Age~2~Famennian|Age~2~Famennian]]'
   text_of_:
-    color: "0x8CB06C"
+    color: 0x8CB06C
+  time_:
+    started: -358.9e6
+    stopped: -346.7e6
 dv_is_same_as:
-  - "[[WD~Tournaisian,940381]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian|Age~1~Tournaisian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian.public|Age~1~Tournaisian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian.internal|Age~1~Tournaisian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian.protect|Age~1~Tournaisian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian.private|Age~1~Tournaisian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian.personal|Age~1~Tournaisian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian.secret|Age~1~Tournaisian.secret]]"
+- '[[WD~Tournaisian,940381]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian|Age~1~Tournaisian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian.public|Age~1~Tournaisian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian.internal|Age~1~Tournaisian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian.protect|Age~1~Tournaisian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian.private|Age~1~Tournaisian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian.personal|Age~1~Tournaisian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian.secret|Age~1~Tournaisian.secret]]'
 dv_has_duration_years: NaN
-dv_has_previous_item: "[[../../Period-0419~Devonian/Epoch-382~Late_Devonian/Age~2~Famennian|Age~2~Famennian]]"
-dv_has_next_item: "[[Age~2~Visean|Age~Visean]]"
+dv_has_previous_item: '[[../../Period-0419~Devonian/Epoch-382~Late_Devonian/Age~2~Famennian|Age~2~Famennian]]'
+dv_has_next_item: '[[Age~2~Visean|Age~Visean]]'
 dv_has_name_bg: Турней
 dv_has_name_cs: Tournai
 dv_has_name_da: Tournaisien
@@ -142,10 +169,9 @@ dv_has_name_sl: tournaisij
 dv_has_name_sv: tournas
 dv_has_name_zh: 杜内期
 dv_has_name_abbreviated: C1c1
-dv_has_time_stopped: "-346.7e6"
-dv_has_text_of_color: "0x8CB06C"
+dv_has_time_stopped: -346.7e6
+dv_has_text_of_color: 0x8CB06C
 ---
-
 # [[Age~1~Tournaisian]] 
 
 #is_a_/time_/Age 

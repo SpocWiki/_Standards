@@ -1,44 +1,322 @@
 ---
 aliases:
+- bolg‘a
+- burris
+- búa
+- casúr
+- ciocan
+- dongsol
+- fög
+- gandhèn
+- GUDUMA
+- haimer
+- hamar
+- hamer
+- hammar
+- hammare
+- hammer
+- hamor
+- Hoomer
+- Hummer
+- Höömerk
+- kalapács
+- kladivo
+- Kombisa
+- kòng-thûi-á
+- kūjātis
+- mailu
+- malleus
+- marteau
+- marteddu
+- martel
+- martell
+- martello
+- martellu
+- martelo
+- martiello
+- martiellu
+- martiliu
+- martillo
+- martilyo
+- martèl
+- marté
+- matarika
+- mato
+- miehtjer
+- morthwyl
+- morzhol
+- młot
+- nyundo
+- oamer
+- Opani
+- palu
+- pal’l’aine
+- plaktukas
+- samukun
+- Shókkish
+- takana
+- tantanana
+- tevşo
+- tukul
+- tôhohko
+- vasar
+- vasara
+- veahčir
+- veeččir
+- veäʹččer
+- vietjere
+- çekani
+- çekiç
+- çəkic
+- āmurs
+- čekić
+- σφυρί
+- алх
+- балка
+- балға
+- ве̄чар
+- гон
+- клипач
+- мăлатук
+- малаток
+- молат
+- молоток
+- чакуш
+- чекан
+- чекић
+- чук
+- чүкеч
+- өтүйэ
+- մուրճ
+- האמער
+- פטיש
+- بولقا
+- دۆکُر
+- شاكوش
+- مطرقة
+- څټک
+- چکش
+- چکوش
+- چکیج
+- چەکوش
+- ھٿوڙي
+- ہتھوڑا
+- ܐܪܙܦܬܐ
+- मुगः
+- हथौड़ा
+- हातोडा
+- হাতুড়ি
+- ਹਥੌੜਾ
+- ହାତୁଡ଼ି
+- சுத்தியல்
+- సుత్తి
+- ಸುತ್ತಿಗೆ
+- ചുറ്റിക
+- ค้อน
+- တူ(ကိရိယာ)
+- ၶွၼ်ႉၸွၵ်း
+- ჩაქუჩი
+- መዶሻ
+- ᡶᠣᠯᡥᠣ
+- ᱠᱩᱴᱟᱹᱥᱤ
+- 榔头
+- 槌
+- 鎚仔
+- 망치
 has_id_wikidata: Q25294
 has_part_s_:
-  - "[[_Standards/WikiData/WD~handle,200266]]"
-  - "[[_Standards/WikiData/WD~striker,4095594]]"
-  - "[[_Standards/WikiData/WD~hammerhead,34503943]]"
+- '[[_Standards/WikiData/WD~handle,200266]]'
+- '[[_Standards/WikiData/WD~striker,4095594]]'
+- '[[_Standards/WikiData/WD~hammerhead,34503943]]'
 has_use:
-  - "[[_Standards/WikiData/WD~masonry,272999]]"
-  - "[[_Standards/WikiData/WD~construction,385378]]"
-  - "[[_Standards/WikiData/WD~woodworking,816871]]"
-  - "[[_Standards/WikiData/WD~metalworking,953045]]"
-  - "[[_Standards/WikiData/WD~home_repair,5889160]]"
-  - "[[_Standards/WikiData/WD~stoneworking,99551768]]"
-different_from: "[[_Standards/WikiData/WD~Hammer,532508]]"
+- '[[_Standards/WikiData/WD~masonry,272999]]'
+- '[[_Standards/WikiData/WD~construction,385378]]'
+- '[[_Standards/WikiData/WD~woodworking,816871]]'
+- '[[_Standards/WikiData/WD~metalworking,953045]]'
+- '[[_Standards/WikiData/WD~home_repair,5889160]]'
+- '[[_Standards/WikiData/WD~stoneworking,99551768]]'
+different_from: '[[_Standards/WikiData/WD~Hammer,532508]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~woodworking_tool,11789812]]"
-  - "[[_Standards/WikiData/WD~impact_tool,30058680]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q116591856,116591856]]"
-has_characteristic: "[[_Standards/WikiData/WD~mass,11423]]"
-OmegaWiki_Defined_Meaning: "6183"
-Nomenclature_for_Museum_Cataloging: "7363"
+- '[[_Standards/WikiData/WD~woodworking_tool,11789812]]'
+- '[[_Standards/WikiData/WD~impact_tool,30058680]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q116591856,116591856]]'
+has_characteristic: '[[_Standards/WikiData/WD~mass,11423]]'
+OmegaWiki_Defined_Meaning: 6183
+Nomenclature_for_Museum_Cataloging: 7363
 Commons_gallery: Hammer
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Claw-hammer.jpg
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Hammer%2020221226.stl
-Unicode_character: 🔨
+Unicode_character: "\U0001F528"
 MCN_code:
-  - 8205.20.00
-  - 8467.29.93
+- 8205.20.00
+- 8467.29.93
 Iconclass_notation: 47D8(HAMMER)
 subreddit: Hammers
 Commons_category: Hammers
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/PSM%20V09%20D038%20Physics%20of%20proper%20hammer%20use.jpg
-U_S_National_Archives_Identifier: "10675282"
+U_S_National_Archives_Identifier: 10675282
+dv_has_:
+  name_:
+    af: hamer
+    am: መዶሻ
+    an: martiello
+    ang: hamor
+    ar: مطرقة
+    arc: ܐܪܙܦܬܐ
+    arz: شاكوش
+    ast: martiellu
+    az: çəkic
+    azb: چکیج
+    bcl: dongsol
+    be: молат
+    be-tarask: малаток
+    bg: чук
+    bi: hamer
+    bjn: tukul
+    bn: হাতুড়ি
+    br: morzhol
+    bs: čekić
+    ca: martell
+    chy: tôhohko
+    ckb: چەکوش
+    co: martellu
+    cs: kladivo
+    cv: мăлатук
+    cy: morthwyl
+    da: hammer
+    dag: matarika
+    de: Hammer
+    de-at: Hammer
+    de-ch: Hammer
+    el: σφυρί
+    en: hammer
+    en-ca: hammer
+    en-gb: hammer
+    eo: martelo
+    es: martillo
+    et: vasar
+    eu: mailu
+    fa: چکش
+    fi: vasara
+    fr: marteau
+    frr: Höömerk
+    ga: casúr
+    gl: martelo
+    glk: چکوش
+    ha: GUDUMA
+    he: פטיש
+    hi: हथौड़ा
+    hr: čekić
+    hsb: hamor
+    ht: mato
+    hu: kalapács
+    hy: մուրճ
+    id: palu
+    inh: гон
+    io: martelo
+    is: hamar
+    it: martello
+    ja: 槌
+    jv: gandhèn
+    ka: ჩაქუჩი
+    kaa: Shókkish
+    kk: балға
+    kn: ಸುತ್ತಿಗೆ
+    ko: 망치
+    ks: دۆکُر
+    ku: tevşo
+    ky: балка
+    la: malleus
+    lb: Hummer
+    lfn: martel
+    lmo: martel
+    lt: plaktukas
+    lv: āmurs
+    mg: tantanana
+    min: palu
+    mk: чекан
+    ml: ചുറ്റിക
+    mn: алх
+    mnc: ᡶᠣᠯᡥᠣ
+    mr: हातोडा
+    ms: tukul
+    my: တူ(ကိရိယာ)
+    nan: kòng-thûi-á
+    nb: hammer
+    nds: Hamer
+    new: मुगः
+    nl: hamer
+    nn: hammar
+    nrm: marté
+    oc: martèl
+    olo: pal’l’aine
+    or: ହାତୁଡ଼ି
+    pa: ਹਥੌੜਾ
+    pam: martiliu
+    pl: młot
+    pnb: ہتھوڑا
+    ps: څټک
+    pt: martelo
+    pt-br: martelo
+    qu: takana
+    ro: ciocan
+    ru: молоток
+    rue: клипач
+    sah: өтүйэ
+    sat: ᱠᱩᱴᱟᱹᱥᱤ
+    scn: marteddu
+    sco: haimer
+    sd: ھٿوڙي
+    se: veahčir
+    sgs: kūjātis
+    sh: čekić
+    shn: ၶွၼ်ႉၸွၵ်း
+    sjd: ве̄чар
+    sk: kladivo
+    sl: kladivo
+    sma: vietjere
+    smj: miehtjer
+    smn: veeččir
+    sms: veäʹččer
+    sn: nyundo
+    so: burris
+    sq: çekani
+    sr: чекић
+    stq: Hoomer
+    su: palu
+    sv: hammare
+    sw: nyundo
+    szy: samukun
+    ta: சுத்தியல்
+    te: సుత్తి
+    tg: чакуш
+    th: ค้อน
+    tl: martilyo
+    tr: çekiç
+    tt: чүкеч
+    tt-cyrl: чүкеч
+    ug: بولقا
+    uk: молоток
+    uz: bolg‘a
+    vi: búa
+    vls: oamer
+    vo: fög
+    war: martilyo
+    wuu: 榔头
+    xh: Opani
+    yi: האמער
+    yue: 鎚仔
+    zh: 槌
+    zh-hans: 槌
+    zh-hant: 槌
+    zh-tw: 槌
+    zu: Kombisa
 ---
-
 # [[Hammer]] 
 
 #is_/same_as :: [[WD~Hammer,25294]] 

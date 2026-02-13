@@ -1,48 +1,194 @@
 ---
 aliases:
-  - "Roman Senate (Latin: Senātus Rōmānus"
-  - Roman_Senate
-  - Roman Senate
+- Det romerske Senat
+- Det romerske senatet
+- Erromako Senatua
+- Rimski senat
+- Roma Senatosu
+- Roma senatı
+- Roman Senate
+- 'Roman Senate (Latin: Senātus Rōmānus'
+- Roman_Senate
+- Romas senāts
+- Romeinse senaat
+- Romeinske Senaat
+- Romerska senaten
+- Romia senato
+- Romos senatas
+- Rooman senaatti
+- Rómverska öldungaráðið
+- Römischer Senat
+- Seanad na Róimhe
+- Senado ng Roma
+- Senado romano
+- Senat
+- Senat Rom
+- Senat roman
+- Senat romano
+- Senat Romawi
+- Senat romà
+- Senat rzymski
+- Senati
+- Senati Romak
+- Senato roman
+- Senato romano
+- Senatul Romei antice
+- Senatus
+- Sened roman
+- Senedd Rhufain
+- Senát (staroveký Rím)
+- Senáu romanu
+- szenátus
+- sénat romain
+- Viện nguyên lão La Mã
+- Římský senát
+- Ρωμαϊκή Σύγκλητος
+- Римски сенат
+- Рымскі сэнат
+- сенат
+- Сенат, Старажытны Рым
+- Հռոմեական սենատ
+- הסנאט הרומי
+- روم سناسی
+- رومی سینیٹ
+- سنای روم
+- مجلس الشيوخ الرومانى
+- مجلس الشيوخ الروماني
+- रोमन सीनेट
+- রোমান সিনেট
+- රෝමානු සෙනෙට් මණ්ඩලය
+- วุฒิสภาโรมัน
+- რომის სენატი
+- რომიშ სენატი
+- 元老院
+- 罗马元老院
+- 羅馬元老院
+- 로마 원로원
 has_id_wikidata: Q130614
 instance_of:
-  - "[[_Standards/WikiData/WD~aristocracy,123432]]"
-  - "[[_Standards/WikiData/WD~senate,2570643]]"
-  - "[[_Standards/WikiData/WD~legislature,11204]]"
+- '[[_Standards/WikiData/WD~aristocracy,123432]]'
+- '[[_Standards/WikiData/WD~senate,2570643]]'
+- '[[_Standards/WikiData/WD~legislature,11204]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Senat,343948]]"
-  - "[[_Standards/WikiData/WD~Senate,1466018]]"
+- '[[_Standards/WikiData/WD~Senat,343948]]'
+- '[[_Standards/WikiData/WD~Senate,1466018]]'
 described_by_source:
-  - "[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Q30059240,30059240]]"
+- '[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Q30059240,30059240]]'
 headquarters_location:
-  - "[[_Standards/WikiData/WD~Curia_Julia,1144514]]"
-  - "[[_Standards/WikiData/WD~Curia_Hostilia,1144512]]"
-  - "[[_Standards/WikiData/WD~Curia_Cornelia,5194731]]"
-has_cause: "[[_Standards/WikiData/WD~ordo_senatorius,1225322]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~ancient_Roman_senator,20056508]]"
-has_part_s_: "[[_Standards/WikiData/WD~ancient_Roman_senator,20056508]]"
+- '[[_Standards/WikiData/WD~Curia_Julia,1144514]]'
+- '[[_Standards/WikiData/WD~Curia_Hostilia,1144512]]'
+- '[[_Standards/WikiData/WD~Curia_Cornelia,5194731]]'
+has_cause: '[[_Standards/WikiData/WD~ordo_senatorius,1225322]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~ancient_Roman_senator,20056508]]'
+has_part_s_: '[[_Standards/WikiData/WD~ancient_Roman_senator,20056508]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Curia%20Iulia.JPG
 dv_is_:
   same_as:
-    - "[[../../../../../../../../../WikiData/WD~Roman_Senate,130614|WD~Roman_Senate,130614]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/Roman_Senate|Roman_Senate]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/Roman_Senate.public|Roman_Senate.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/Roman_Senate.internal|Roman_Senate.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/Roman_Senate.protect|Roman_Senate.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/Roman_Senate.private|Roman_Senate.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/Roman_Senate.personal|Roman_Senate.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/Roman_Senate.secret|Roman_Senate.secret]]"
+  - '[[../../../../../../../../../WikiData/WD~Roman_Senate,130614|WD~Roman_Senate,130614]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/Roman_Senate|Roman_Senate]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/Roman_Senate.public|Roman_Senate.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/Roman_Senate.internal|Roman_Senate.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/Roman_Senate.protect|Roman_Senate.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/Roman_Senate.private|Roman_Senate.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/Roman_Senate.personal|Roman_Senate.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/Roman_Senate.secret|Roman_Senate.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../../WikiData/WD~Roman_Senate,130614|WD~Roman_Senate,130614]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/Roman_Senate|Roman_Senate]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/Roman_Senate.public|Roman_Senate.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/Roman_Senate.internal|Roman_Senate.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/Roman_Senate.protect|Roman_Senate.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/Roman_Senate.private|Roman_Senate.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/Roman_Senate.personal|Roman_Senate.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/Roman_Senate.secret|Roman_Senate.secret]]"
+- '[[../../../../../../../../../WikiData/WD~Roman_Senate,130614|WD~Roman_Senate,130614]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/Roman_Senate|Roman_Senate]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/Roman_Senate.public|Roman_Senate.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/Roman_Senate.internal|Roman_Senate.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/Roman_Senate.protect|Roman_Senate.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/Roman_Senate.private|Roman_Senate.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/Roman_Senate.personal|Roman_Senate.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/Roman_Senate.secret|Roman_Senate.secret]]'
+dv_has_:
+  name_:
+    ar: مجلس الشيوخ الروماني
+    arz: مجلس الشيوخ الرومانى
+    ast: Senáu romanu
+    az: Roma senatı
+    azb: روم سناسی
+    be: Сенат, Старажытны Рым
+    be-tarask: Рымскі сэнат
+    bg: Сенат
+    bn: রোমান সিনেট
+    br: Sened roman
+    bs: Rimski senat
+    ca: Senat romà
+    cs: Římský senát
+    cy: Senedd Rhufain
+    da: Det romerske Senat
+    de: Römischer Senat
+    el: Ρωμαϊκή Σύγκλητος
+    en: Roman Senate
+    en-ca: Roman Senate
+    en-gb: Roman Senate
+    eo: Romia senato
+    es: Senado romano
+    et: Senat
+    eu: Erromako Senatua
+    fa: سنای روم
+    fi: Rooman senaatti
+    fr: sénat romain
+    fy: Romeinske Senaat
+    ga: Seanad na Róimhe
+    gl: Senado romano
+    he: הסנאט הרומי
+    hi: रोमन सीनेट
+    hr: Rimski senat
+    hu: szenátus
+    hy: Հռոմեական սենատ
+    ia: Senato roman
+    id: Senat Romawi
+    is: Rómverska öldungaráðið
+    it: Senato romano
+    ja: 元老院
+    ka: რომის სენატი
+    ko: 로마 원로원
+    la: Senatus
+    lt: Romos senatas
+    lv: Romas senāts
+    mk: Римски сенат
+    ms: Senat Rom
+    nap: Senat romano
+    nb: Det romerske senatet
+    nl: Romeinse senaat
+    nn: Det romerske senatet
+    oc: Senat roman
+    pl: Senat rzymski
+    pt: Senado romano
+    pt-br: Senado romano
+    ro: Senatul Romei antice
+    ru: сенат
+    sco: Roman Senate
+    sh: Rimski Senat
+    si: රෝමානු සෙනෙට් මණ්ඩලය
+    sk: Senát (staroveký Rím)
+    sl: rimski senat
+    sq: Senati Romak
+    sr: Римски сенат
+    sr-ec: Римски сенат
+    sr-el: Rimski senat
+    sv: Romerska senaten
+    sw: Senati
+    th: วุฒิสภาโรมัน
+    tl: Senado ng Roma
+    tr: Roma Senatosu
+    uk: Сенат
+    ur: رومی سینیٹ
+    vi: Viện nguyên lão La Mã
+    wuu: 罗马元老院
+    xmf: რომიშ სენატი
+    yue: 羅馬元老院
+    zh: 羅馬元老院
+    zh-cn: 罗马元老院
+    zh-hans: 罗马元老院
+    zh-hant: 羅馬元老院
+    zh-hk: 羅馬元老院
+    zh-sg: 罗马元老院
+    zh-tw: 羅馬元老院
 ---
-
 # [[Roman_Senate]] 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Roman_Senate,130614|WD~Roman_Senate,130614]]  

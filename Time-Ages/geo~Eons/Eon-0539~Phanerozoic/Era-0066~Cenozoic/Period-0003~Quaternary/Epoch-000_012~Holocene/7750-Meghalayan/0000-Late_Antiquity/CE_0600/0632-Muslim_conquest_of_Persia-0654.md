@@ -1,29 +1,86 @@
 ---
 aliases:
-  - Muslim_conquest_of_Persia
-  - Muslim conquest of Persia
+- Arabische Eroberung Persiens
+- Arabische verovering van Perzië
+- Arabski podbój Iranu
+- Conquesta musulmana de Pèrsia
+- Conquista aràbia de Pèrsia
+- conquista islamica della Persia
+- Conquista islâmica da Pérsia
+- Conquista musulmana de Persia
+- Conquista musulmá de Persia
+- conquête musulmane de la Perse
+- cucerirea musulmană a Persiei
+- Den islamske erobringen av Persia
+- Islama konkero de Persio
+- Islamiska erövringen av Persien
+- Muslim conquest of Persia
+- Muslimansko osvajanje Perzije
+- muslimansko zavzetje Perzije
+- Muslimske erobring af Iran
+- Muslimské dobytí Persie
+- Muslim_conquest_of_Persia
+- Nasarar Musulunci a Farisa
+- Penaklukan Islam ke atas Parsi
+- Penaklukan Persia oleh Muslim
+- Persian muslimivalloitus
+- Persiaren konkista musulmana
+- Terefê bısılmanan ra işğalê İran
+- İran'da İslam
+- Ərəblərin İranı işğalı
+- Μουσουλμανική κατάκτηση της Περσίας
+- Арабскае заваяванне Персіі
+- Арабская заваёва Пэрсіі
+- Арабско завоюване на Персия
+- Арабское завоевание Персии
+- Арабське завоювання Ірану
+- Арапско освајање Персије
+- Исламско освојување на Персија
+- Муслиманско освајање Персије
+- Ғәрәптәрҙең Фарсияны яулауы
+- Արաբական արշավանքները Պարսկաստան
+- Արաբական Արշաւանքները Դէպի Պարսկաստան
+- הכיבוש המוסלמי של פרס
+- الفتح الإسلامي لفارس
+- ایران دی اسلامی فتح
+- ایران کی اسلامی فتح
+- حمله اعراب به ایران
+- د مسلمانو له خوا د فارس نيول
+- فارسس پؠٹھ مُسلمانن ہِنٛز فتح
+- فتح فارس
+- موسلمانلارین ایران آلینماسی
+- फारस पर मुस्लिम विजय
+- মুসলিমদের পারস্য বিজয়
+- பாரசீகம் மீதான இசுலாமியப் படையெடுப்பு
+- การพิชิตจักรวรรดิเปอร์เซียโดยมุสลิม
+- ირანის დაპყრობა არაბების მიერ
+- イスラーム教徒のペルシア征服
+- 伊斯兰对波斯个征服
+- 伊斯兰对波斯的征服
+- 伊斯蘭對波斯的征服
+- 이슬람의 페르시아 정복
 has_id_wikidata: Q887684
 participant:
-  - "[[_Standards/WikiData/WD~Sasanian_Empire,83891]]"
-  - "[[_Standards/WikiData/WD~Arab_Christians,431164]]"
-  - "[[_Standards/WikiData/WD~House_of_Karen,769552]]"
-  - "[[_Standards/WikiData/WD~Dabuyid_dynasty,2816439]]"
-  - "[[_Standards/WikiData/WD~House_of_Mihrān,3313087]]"
-  - "[[_Standards/WikiData/WD~Rashidun_Caliphate,12490507]]"
-  - "[[_Standards/WikiData/WD~House_of_Ispahbudhan,17004913]]"
-  - "[[_Standards/WikiData/WD~Byzantine_Empire,12544]]"
-  - "[[_Standards/WikiData/WD~Hephthalites,26576]]"
+- '[[_Standards/WikiData/WD~Sasanian_Empire,83891]]'
+- '[[_Standards/WikiData/WD~Arab_Christians,431164]]'
+- '[[_Standards/WikiData/WD~House_of_Karen,769552]]'
+- '[[_Standards/WikiData/WD~Dabuyid_dynasty,2816439]]'
+- '[[_Standards/WikiData/WD~House_of_Mihrān,3313087]]'
+- '[[_Standards/WikiData/WD~Rashidun_Caliphate,12490507]]'
+- '[[_Standards/WikiData/WD~House_of_Ispahbudhan,17004913]]'
+- '[[_Standards/WikiData/WD~Byzantine_Empire,12544]]'
+- '[[_Standards/WikiData/WD~Hephthalites,26576]]'
 location:
-  - "[[_Standards/WikiData/WD~Sasanian_Empire,83891]]"
-  - "[[_Standards/WikiData/WD~Azerbaijan,274536]]"
-  - "[[_Standards/WikiData/WD~Makran,695111]]"
-  - "[[_Standards/WikiData/WD~Khorasan,2352322]]"
-  - "[[_Standards/WikiData/WD~Fars_(land),4121865]]"
-  - "[[_Standards/WikiData/WD~Arab_Iraq,6000379]]"
-  - "[[_Standards/WikiData/WD~Persian_Iraq,17043605]]"
+- '[[_Standards/WikiData/WD~Sasanian_Empire,83891]]'
+- '[[_Standards/WikiData/WD~Azerbaijan,274536]]'
+- '[[_Standards/WikiData/WD~Makran,695111]]'
+- '[[_Standards/WikiData/WD~Khorasan,2352322]]'
+- '[[_Standards/WikiData/WD~Fars_(land),4121865]]'
+- '[[_Standards/WikiData/WD~Arab_Iraq,6000379]]'
+- '[[_Standards/WikiData/WD~Persian_Iraq,17043605]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~conquest,1361229]]"
-  - "[[_Standards/WikiData/WD~war,198]]"
+- '[[_Standards/WikiData/WD~conquest,1361229]]'
+- '[[_Standards/WikiData/WD~war,198]]'
 end_time: 0654-01-01T00:00:00Z
 start_time: 0633-01-01T00:00:00Z
 Commons_category: Muslim conquest of Persia
@@ -31,25 +88,89 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/%D8%A7%D9%84%D9%81%D8%
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Islamic%20Conquest%20of%20Persia-ar.wav
 dv_is_:
   same_as:
-    - "[[../../../../../../../../../WikiData/WD~Muslim_conquest_of_Persia,887684]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654|0632-Muslim_conquest_of_Persia-0654]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654.public|0632-Muslim_conquest_of_Persia-0654.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654.internal|0632-Muslim_conquest_of_Persia-0654.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654.protect|0632-Muslim_conquest_of_Persia-0654.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654.private|0632-Muslim_conquest_of_Persia-0654.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654.personal|0632-Muslim_conquest_of_Persia-0654.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654.secret|0632-Muslim_conquest_of_Persia-0654.secret]]"
+  - '[[../../../../../../../../../WikiData/WD~Muslim_conquest_of_Persia,887684]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654|0632-Muslim_conquest_of_Persia-0654]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654.public|0632-Muslim_conquest_of_Persia-0654.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654.internal|0632-Muslim_conquest_of_Persia-0654.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654.protect|0632-Muslim_conquest_of_Persia-0654.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654.private|0632-Muslim_conquest_of_Persia-0654.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654.personal|0632-Muslim_conquest_of_Persia-0654.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654.secret|0632-Muslim_conquest_of_Persia-0654.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../../WikiData/WD~Muslim_conquest_of_Persia,887684]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654|0632-Muslim_conquest_of_Persia-0654]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654.public|0632-Muslim_conquest_of_Persia-0654.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654.internal|0632-Muslim_conquest_of_Persia-0654.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654.protect|0632-Muslim_conquest_of_Persia-0654.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654.private|0632-Muslim_conquest_of_Persia-0654.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654.personal|0632-Muslim_conquest_of_Persia-0654.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654.secret|0632-Muslim_conquest_of_Persia-0654.secret]]"
+- '[[../../../../../../../../../WikiData/WD~Muslim_conquest_of_Persia,887684]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654|0632-Muslim_conquest_of_Persia-0654]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654.public|0632-Muslim_conquest_of_Persia-0654.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654.internal|0632-Muslim_conquest_of_Persia-0654.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654.protect|0632-Muslim_conquest_of_Persia-0654.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654.private|0632-Muslim_conquest_of_Persia-0654.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654.personal|0632-Muslim_conquest_of_Persia-0654.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654.secret|0632-Muslim_conquest_of_Persia-0654.secret]]'
+dv_has_:
+  name_:
+    ar: الفتح الإسلامي لفارس
+    arz: فتح فارس
+    ast: Conquista musulmana de Persia
+    az: Ərəblərin İranı işğalı
+    azb: موسلمانلارین ایران آلینماسی
+    ba: Ғәрәптәрҙең Фарсияны яулауы
+    be: Арабскае заваяванне Персіі
+    be-tarask: Арабская заваёва Пэрсіі
+    bg: Арабско завоюване на Персия
+    bn: মুসলিমদের পারস্য বিজয়
+    bs: Muslimansko osvajanje Perzije
+    ca: Conquesta musulmana de Pèrsia
+    cs: Muslimské dobytí Persie
+    da: Muslimske erobring af Iran
+    de: Arabische Eroberung Persiens
+    diq: Terefê bısılmanan ra işğalê İran
+    el: Μουσουλμανική κατάκτηση της Περσίας
+    en: Muslim conquest of Persia
+    eo: Islama konkero de Persio
+    es: conquista musulmana de Persia
+    eu: Persiaren konkista musulmana
+    fa: حمله اعراب به ایران
+    fi: Persian muslimivalloitus
+    fr: conquête musulmane de la Perse
+    gl: Conquista musulmá de Persia
+    ha: Nasarar Musulunci a Farisa
+    he: הכיבוש המוסלמי של פרס
+    hi: फारस पर मुस्लिम विजय
+    hr: Muslimansko osvajanje Perzije
+    hy: Արաբական արշավանքները Պարսկաստան
+    hyw: Արաբական Արշաւանքները Դէպի Պարսկաստան
+    id: Penaklukan Persia oleh Muslim
+    it: conquista islamica della Persia
+    ja: イスラーム教徒のペルシア征服
+    ka: ირანის დაპყრობა არაბების მიერ
+    ko: 이슬람의 페르시아 정복
+    ks: فارسس پؠٹھ مُسلمانن ہِنٛز فتح
+    mk: Исламско освојување на Персија
+    ms: Penaklukan Islam ke atas Parsi
+    nb: Den islamske erobringen av Persia
+    nl: Arabische verovering van Perzië
+    oc: Conquista aràbia de Pèrsia
+    pl: Arabski podbój Iranu
+    pnb: ایران دی اسلامی فتح
+    ps: د مسلمانو له خوا د فارس نيول
+    pt: Conquista islâmica da Pérsia
+    ro: cucerirea musulmană a Persiei
+    ru: Арабское завоевание Персии
+    sh: Muslimansko osvajanje Perzije
+    sl: muslimansko zavzetje Perzije
+    sr: Арапско освајање Персије
+    sr-ec: Муслиманско освајање Персије
+    sv: Islamiska erövringen av Persien
+    ta: பாரசீகம் மீதான இசுலாமியப் படையெடுப்பு
+    th: การพิชิตจักรวรรดิเปอร์เซียโดยมุสลิม
+    tr: İran'da İslam
+    uk: Арабське завоювання Ірану
+    ur: ایران کی اسلامی فتح
+    wuu: 伊斯兰对波斯个征服
+    zh: 伊斯蘭對波斯的征服
+    zh-hans: 伊斯兰对波斯的征服
+    zh-hant: 伊斯蘭對波斯的征服
+    zh-hk: 伊斯蘭對波斯的征服
 ---
-
 # [[0632-Muslim_conquest_of_Persia-0654]] 
 
 #is_/same_as :: [[WD~Muslim_conquest_of_Persia,887684]] 

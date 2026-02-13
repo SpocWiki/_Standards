@@ -1,86 +1,144 @@
 ---
 aliases:
-  - Era~1~Eoarchean
-  - Eoarchean
-  - Еоархай
-  - Eoarchaikum
-  - Eoarkæisk
-  - Eoarchaean
-  - Eoarcaico
-  - Eoarhaikum
-  - Eoarkeikum
-  - Eoarchéen
-  - eoarchaikum
-  - eoarcheano
-  - 暁始生代
-  - Eoarchejus
-  - Eo-archaicum
-  - Eoarchaik
-  - eoarhaik
-  - eoarkeikum
-  - 始太古代
+- Eo-archaicum
+- Eoarcaico
+- Eoarchaean
+- Eoarchaik
+- Eoarchaikum
+- Eoarchean
+- eoarcheano
+- Eoarchejus
+- Eoarcheïcum
+- Eoarchéen
+- Eoarchėjus
+- Eoarhaic
+- eoarhaik
+- Eoarhaikum
+- Eoarkean
+- eoarkeano
+- Eoarkearra
+- Eoarkeeinen maailmankausi
+- Eoarkeen
+- Eoarkeikum
+- Eoarkeyaan
+- Eoarkæisk
+- Eoarqueano
+- Eoarqueà
+- Eoarxey
+- Era~1~Eoarchean
+- Euarchianu
+- Veysavsarxeugal
+- Éoarchéen
+- Đại Tiền Thái cổ
+- Еоархай
+- Еоархей
+- Эаархей
+- эоархей
+- Էոարքեյ
+- אאוארכאיקון
+- الحقبة السحيقة الأولى
+- سپیدهدم نخستزیستی
+- इयोआर्कियाई महाकल्प
+- มหายุคอีโออาร์เคียน
+- 原太古代
+- 始太古代
+- 暁始生代
+- 초시생대
 has_id_wikidata: Q731470
 Commons_category: Eoarchean
 end_time: -3600000000
 has_time_started: -4031000000
 instance_of:
-  - "[[_Standards/WikiData/WD~era,630830]]"
-  - "[[_Standards/WikiData/WD~erathem,2464485]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+- '[[_Standards/WikiData/WD~era,630830]]'
+- '[[_Standards/WikiData/WD~erathem,2464485]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 sRGB_color_hex_triplet: DA037F
 start_time: -4031000000
 dv_has_:
-  time_:
-    started: "-4.031e9"
-    stopped: "-3.600e9"
   duration_:
-    years: "4.310e+8"
-  previous_:
-    item: "[[../Eon-4567~Hadean|Eon~1~Hadean]]"
-  next_:
-    item: "[[Era-3600~Paleoarchean]]"
-  text_of_:
-    color: "0xDA037F"
+    years: 4.310e+8
   name_:
     abbreviated: EA
+    ar: الحقبة السحيقة الأولى
+    avk: Veysavsarxeugal
+    az: Eoarxey
+    be: Эаархей
     bg: Еоархай
+    br: Eoarkean
+    ca: Eoarqueà
     cs: Eoarchaikum
     da: Eoarkæisk
     de: Eoarchaikum
+    en: Eoarchean
+    en-gb: Eoarchaean
     en_:
       gb: Eoarchaean
       us: Eoarchean
-    en: Eoarchean
+    eo: eoarkeano
     es: Eoarcaico
     et: Eoarhaikum
-    fi: Eoarkeikum
-    fr: Eoarchéen
-    hu: eoarchaikum
-    it: eoarcheano
-    ja: 暁始生代
-    lt: Eoarchejus
-    nl: Eo-archaicum
+    eu: Eoarkearra
+    fa: سپیدهدم نخستزیستی
+    fi: Eoarkeeinen maailmankausi
+    fr: Éoarchéen
+    gl: Eoarcaico
+    he: אאוארכאיקון
+    hi: इयोआर्कियाई महाकल्प
+    hr: eoarhaik
+    hu: Eoarchaikum
+    hy: Էոարքեյ
+    id: Eoarkean
+    it: Eoarcheano
+    ja: 原太古代
+    kaa: Eoarxey
+    ko: 초시생대
+    lt: Eoarchėjus
+    ms: Eoarkean
+    nl: Eoarcheïcum
+    nn: eoarkeikum
     no: Eoarkeikum
-    pl: Eoarchaik
-    pt: Eoarcaico
-    sk: eoarchaikum
+    pl: eoarchaik
+    pt: Eoarqueano
+    ro: Eoarhaic
+    ru: эоархей
+    scn: Euarchianu
+    sh: Eoarhaik
+    sk: Eoarchaikum
     sl: eoarhaik
+    so: Eoarkeyaan
     sv: eoarkeikum
+    th: มหายุคอีโออาร์เคียน
+    tr: Eoarkeen
+    uk: Еоархей
+    vi: Đại Tiền Thái cổ
+    yue: 始太古代
     zh: 始太古代
+    zh-hans: 始太古代
+    zh-hant: 始太古代
+    zh-hk: 始太古代
+  next_:
+    item: '[[Era-3600~Paleoarchean]]'
+  previous_:
+    item: '[[../Eon-4567~Hadean|Eon~1~Hadean]]'
+  text_of_:
+    color: 0xDA037F
+  time_:
+    started: -4.031e9
+    stopped: -3.600e9
 dv_is_:
   same_as:
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-4031~Archean/Era-4031~Eoarchean|Era-4031~Eoarchean]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-4031~Archean/Era-4031~Eoarchean.public|Era-4031~Eoarchean.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-4031~Archean/Era-4031~Eoarchean.internal|Era-4031~Eoarchean.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-4031~Archean/Era-4031~Eoarchean.protect|Era-4031~Eoarchean.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-4031~Archean/Era-4031~Eoarchean.private|Era-4031~Eoarchean.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-4031~Archean/Era-4031~Eoarchean.personal|Era-4031~Eoarchean.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-4031~Archean/Era-4031~Eoarchean.secret|Era-4031~Eoarchean.secret]]"
-dv_has_time_stopped: "-3.600e9"
-dv_has_duration_years: "4.310e+8"
-dv_has_previous_item: "[[../Eon-4567~Hadean|Eon~1~Hadean]]"
-dv_has_next_item: "[[Era-3600~Paleoarchean]]"
-dv_has_text_of_color: "0xDA037F"
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-4031~Archean/Era-4031~Eoarchean|Era-4031~Eoarchean]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-4031~Archean/Era-4031~Eoarchean.public|Era-4031~Eoarchean.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-4031~Archean/Era-4031~Eoarchean.internal|Era-4031~Eoarchean.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-4031~Archean/Era-4031~Eoarchean.protect|Era-4031~Eoarchean.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-4031~Archean/Era-4031~Eoarchean.private|Era-4031~Eoarchean.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-4031~Archean/Era-4031~Eoarchean.personal|Era-4031~Eoarchean.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-4031~Archean/Era-4031~Eoarchean.secret|Era-4031~Eoarchean.secret]]'
+dv_has_time_stopped: -3.600e9
+dv_has_duration_years: 4.310e+8
+dv_has_previous_item: '[[../Eon-4567~Hadean|Eon~1~Hadean]]'
+dv_has_next_item: '[[Era-3600~Paleoarchean]]'
+dv_has_text_of_color: 0xDA037F
 dv_has_name_abbreviated: EA
 dv_has_name_bg: Еоархай
 dv_has_name_cs: Eoarchaikum
@@ -106,15 +164,14 @@ dv_has_name_sl: eoarhaik
 dv_has_name_sv: eoarkeikum
 dv_has_name_zh: 始太古代
 dv_is_same_as:
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-4031~Archean/Era-4031~Eoarchean|Era-4031~Eoarchean]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-4031~Archean/Era-4031~Eoarchean.public|Era-4031~Eoarchean.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-4031~Archean/Era-4031~Eoarchean.internal|Era-4031~Eoarchean.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-4031~Archean/Era-4031~Eoarchean.protect|Era-4031~Eoarchean.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-4031~Archean/Era-4031~Eoarchean.private|Era-4031~Eoarchean.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-4031~Archean/Era-4031~Eoarchean.personal|Era-4031~Eoarchean.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-4031~Archean/Era-4031~Eoarchean.secret|Era-4031~Eoarchean.secret]]"
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-4031~Archean/Era-4031~Eoarchean|Era-4031~Eoarchean]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-4031~Archean/Era-4031~Eoarchean.public|Era-4031~Eoarchean.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-4031~Archean/Era-4031~Eoarchean.internal|Era-4031~Eoarchean.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-4031~Archean/Era-4031~Eoarchean.protect|Era-4031~Eoarchean.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-4031~Archean/Era-4031~Eoarchean.private|Era-4031~Eoarchean.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-4031~Archean/Era-4031~Eoarchean.personal|Era-4031~Eoarchean.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-4031~Archean/Era-4031~Eoarchean.secret|Era-4031~Eoarchean.secret]]'
 ---
-
 # [[Era-4031~Eoarchean]] 
 
 #is_a_/time_/Era 

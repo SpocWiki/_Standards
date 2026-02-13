@@ -1,8 +1,27 @@
 ---
 has_id_wikidata: Q4348530
+dv_has_:
+  name_:
+    de: Dartmouth Time Sharing System
+    en: Dartmouth Time Sharing System
+    es: Dartmouth Time Sharing System
+    fi: Dartmouth Time Sharing System
+    ja: DTSS
+    ko: 다트머스 시분할 시스템
+    mul: Dartmouth Time-Sharing System
+    nl: Dartmouth Time Sharing System
+    zh: Dartmouth分时系统
+    zh-hans: 达特茅斯分时系统
+    zh-hant: 達特茅斯分時系統
+aliases:
+- Dartmouth Time Sharing System
+- Dartmouth Time-Sharing System
+- Dartmouth分时系统
+- DTSS
+- 达特茅斯分时系统
+- 達特茅斯分時系統
+- 다트머스 시분할 시스템
 ---
-
-
 # [[DTSS(Dartmouth_Time_Sharing_System)]] 
 
 #is_/different_from :: [[Multics]] 

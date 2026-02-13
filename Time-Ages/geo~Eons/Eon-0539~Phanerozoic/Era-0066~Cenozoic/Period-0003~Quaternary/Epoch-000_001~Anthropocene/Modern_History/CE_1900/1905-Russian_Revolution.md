@@ -1,21 +1,90 @@
 ---
 aliases:
-  - Russian Revolution of 1905
-  - First Russian Revolution
-  - 1905-Russian_Revolution
-  - 1905-Russian Revolution
+- 1905 ലെ റഷ്യന് വിപ്ലവം
+- 1905-07 çулсенчи революцийĕ
+- 1905-revolusjonen
+- 1905-Russian Revolution
+- 1905-Russian_Revolution
+- 1905-ös orosz forradalom
+- 1905. aasta revolutsioon
+- 1905. gada revolūcija
+- 1905eko Errusiako Iraultza
+- 1905–1907 m. Rusijos revoliucija
+- 1905—1907 шерашкара революци Россехь
+- 1905年俄国革命
+- 1905年俄國革命
+- Birinci Rusiya inqilabı
+- Birinşi Orıs Revolyucïyası
+- Cách mạng Nga
+- Den Russiske Revolution 1905
+- Dispac'h Rusia 1905
+- First Russian Revolution
+- Himagsikang Ruso ng 1905
+- Revolucion russa de 1905
+- Revolució russa de 1905
+- Revolución rusa de 1905
+- Revolusi Rusia 1905
+- Revolutie van 1905
+- Revolution of 1905
+- Revolução Russa de 1905
+- Revoluția rusă din 1905
+- revołusion rusa del 1905
+- Rewolucja 1905 roku
+- rivoluzione russa del 1905
+- Rus Devrimi
+- Rusa revoluciono di 1905
+- Rusia revolucio de 1905
+- ruska revolucija
+- Ruska revolucija 1905.
+- Ruska revolucija 1905. godine
+- Ruská revoluce
+- Russian Revolution of 1905
+- Russiese Rewolusie
+- Russische Revolution 1905
+- Ryska revolutionen 1905
+- Réabhlóid na Rúise, 1905
+- Révolution russe de 1905
+- Venäjän vuoden 1905 vallankumous
+- Ρωσική επανάσταση του 1905
+- Бірінші Орыс Революциясы
+- Беренче Рәсәй инкыйлабы
+- Расейская рэвалюцыя 1905 году
+- Революція 1905—1907
+- Революция 1905—1907 годов в России
+- Революция в Русия
+- Россиядагы 1905–07-жылдардагы революция
+- Руска револуција (1905)
+- Руска револуција 1905.
+- Рэвалюцыя 1905—1907 гадоў у Расіі
+- Ռուսական հեղափոխություն (1905)
+- מהפכת 1905
+- الثورة الروسية 1905
+- انقلاب روسیه
+- د روسیې د ۱۹۰۵ زکال انقلاب
+- روسی انقلاب ۱۹۰۵
+- روسیه ده ۱۹۰۵-۱۹۰۷-جی ایللر اینقیلابی
+- ٴبىرىنشى ورىس رەۆوليۋتسىيياسى
+- सन् १९०५-१९०७ को प्रथम रुसी पुँजीजीवी प्रजातन्त्रवादी क्रान्ति
+- १९०५ की रूसी क्रांति
+- ਰੂਸੀ ਇਨਕਲਾਬ
+- உருசியப் புரட்சி
+- การปฏิวัติรัสเซีย พ.ศ. 2448
+- რუსეთის რევოლუცია (1905)
+- ロシア第一革命
+- 俄國革命 (1905年)
+- 러시아 혁명
 has_id_wikidata: Q184928
 participant:
-  - "[[_Standards/WikiData/WD~Polish_Socialist_Party,210431]]"
-  - "[[_Standards/WikiData/WD~General_Jewish_Labour_Bund_in_Lithuania,_Poland_and_Russia,647460]]"
-  - "[[_Standards/WikiData/WD~Social_Democracy_of_the_Kingdom_of_Poland_and_Lithuania,967759]]"
-  - "[[_Standards/WikiData/WD~Russian_Empire,34266]]"
-topic_has_template: "[[_Standards/WikiData/WD~Q14626003,14626003]]"
-category_of_associated_people: "[[_Standards/WikiData/WD~Q32496227,32496227]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Wikiproject_Polish_Socialist_Party,123137951]]"
-instance_of: "[[_Standards/WikiData/WD~revolution,10931]]"
-location: "[[_Standards/WikiData/WD~Russia,159]]"
-country: "[[_Standards/WikiData/WD~Russian_Empire,34266]]"
+- '[[_Standards/WikiData/WD~Polish_Socialist_Party,210431]]'
+- '[[_Standards/WikiData/WD~General_Jewish_Labour_Bund_in_Lithuania,_Poland_and_Russia,647460]]'
+- '[[_Standards/WikiData/WD~Social_Democracy_of_the_Kingdom_of_Poland_and_Lithuania,967759]]'
+- '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q14626003,14626003]]'
+category_of_associated_people: '[[_Standards/WikiData/WD~Q32496227,32496227]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wikiproject_Polish_Socialist_Party,123137951]]'
+instance_of: '[[_Standards/WikiData/WD~revolution,10931]]'
+location: '[[_Standards/WikiData/WD~Russia,159]]'
+country: '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Russian%20Revolution%2C%201905%20Q81553.jpg
 Wolfram_Language_entity_code: Entity["MilitaryConflict", "RevolutionOf1905"]
 Krugosvet_article_archived_: gosudarstvo-i-politika/revolyuciya-1905-1907-v-rossii
@@ -25,25 +94,113 @@ point_in_time: 1905-01-22T00:00:00Z
 start_time: 1905-01-22T00:00:00Z
 dv_is_:
   same_as:
-    - "[[../../../../../../../../WikiData/WD~Russian_Revolution_of_1905,184928]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1905-Russian_Revolution|1905-Russian_Revolution]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1905-Russian_Revolution.public|1905-Russian_Revolution.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1905-Russian_Revolution.internal|1905-Russian_Revolution.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1905-Russian_Revolution.protect|1905-Russian_Revolution.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1905-Russian_Revolution.private|1905-Russian_Revolution.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1905-Russian_Revolution.personal|1905-Russian_Revolution.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1905-Russian_Revolution.secret|1905-Russian_Revolution.secret]]"
+  - '[[../../../../../../../../WikiData/WD~Russian_Revolution_of_1905,184928]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1905-Russian_Revolution|1905-Russian_Revolution]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1905-Russian_Revolution.public|1905-Russian_Revolution.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1905-Russian_Revolution.internal|1905-Russian_Revolution.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1905-Russian_Revolution.protect|1905-Russian_Revolution.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1905-Russian_Revolution.private|1905-Russian_Revolution.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1905-Russian_Revolution.personal|1905-Russian_Revolution.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1905-Russian_Revolution.secret|1905-Russian_Revolution.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Russian_Revolution_of_1905,184928]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1905-Russian_Revolution|1905-Russian_Revolution]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1905-Russian_Revolution.public|1905-Russian_Revolution.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1905-Russian_Revolution.internal|1905-Russian_Revolution.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1905-Russian_Revolution.protect|1905-Russian_Revolution.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1905-Russian_Revolution.private|1905-Russian_Revolution.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1905-Russian_Revolution.personal|1905-Russian_Revolution.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1905-Russian_Revolution.secret|1905-Russian_Revolution.secret]]"
+- '[[../../../../../../../../WikiData/WD~Russian_Revolution_of_1905,184928]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1905-Russian_Revolution|1905-Russian_Revolution]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1905-Russian_Revolution.public|1905-Russian_Revolution.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1905-Russian_Revolution.internal|1905-Russian_Revolution.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1905-Russian_Revolution.protect|1905-Russian_Revolution.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1905-Russian_Revolution.private|1905-Russian_Revolution.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1905-Russian_Revolution.personal|1905-Russian_Revolution.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1905-Russian_Revolution.secret|1905-Russian_Revolution.secret]]'
+dv_has_:
+  name_:
+    af: Russiese Rewolusie
+    an: Revolución rusa de 1905
+    ar: الثورة الروسية 1905
+    ast: Revolución rusa de 1905
+    az: Birinci Rusiya inqilabı
+    azb: روسیه ده ۱۹۰۵-۱۹۰۷-جی ایللر اینقیلابی
+    be: Рэвалюцыя 1905—1907 гадоў у Расіі
+    be-tarask: Расейская рэвалюцыя 1905 году
+    bg: Революция в Русия
+    br: Dispac'h Rusia 1905
+    ca: Revolució russa de 1905
+    ce: 1905—1907 шерашкара революци Россехь
+    cs: Ruská revoluce
+    cv: 1905-07 çулсенчи революцийĕ
+    da: Den Russiske Revolution 1905
+    de: Russische Revolution 1905
+    de-ch: Russische Revolution 1905
+    el: Ρωσική επανάσταση του 1905
+    en: Russian Revolution of 1905
+    en-ca: Revolution of 1905
+    en-gb: Revolution of 1905
+    eo: Rusia revolucio de 1905
+    es: Revolución rusa de 1905
+    et: 1905. aasta revolutsioon
+    eu: 1905eko Errusiako Iraultza
+    fa: انقلاب روسیه
+    fi: Venäjän vuoden 1905 vallankumous
+    fr: Révolution russe de 1905
+    ga: Réabhlóid na Rúise, 1905
+    gl: Revolución Rusa de 1905
+    he: מהפכת 1905
+    hi: १९०५ की रूसी क्रांति
+    hr: Ruska revolucija 1905. godine
+    hu: 1905-ös orosz forradalom
+    hy: Ռուսական հեղափոխություն (1905)
+    id: Revolusi Rusia 1905
+    io: Rusa revoluciono di 1905
+    it: rivoluzione russa del 1905
+    ja: ロシア第一革命
+    ka: რუსეთის რევოლუცია (1905)
+    kk: Бірінші Орыс Революциясы
+    kk-arab: ٴبىرىنشى ورىس رەۆوليۋتسىيياسى
+    kk-cn: ٴبىرىنشى ورىس رەۆوليۋتسىيياسى
+    kk-cyrl: Бірінші Орыс Революциясы
+    kk-kz: Бірінші Орыс Революциясы
+    kk-latn: Birinşi Orıs Revolyucïyası
+    kk-tr: Birinşi Orıs Revolyucïyası
+    ko: 러시아 혁명
+    ky: Россиядагы 1905–07-жылдардагы революция
+    lt: 1905–1907 m. Rusijos revoliucija
+    lv: 1905. gada revolūcija
+    mk: Руска револуција (1905)
+    ml: 1905 ലെ റഷ്യന് വിപ്ലവം
+    nb: 1905-revolusjonen
+    ne: सन् १९०५-१९०७ को प्रथम रुसी पुँजीजीवी प्रजातन्त्रवादी क्रान्ति
+    nl: Revolutie van 1905
+    oc: Revolucion russa de 1905
+    pa: ਰੂਸੀ ਇਨਕਲਾਬ
+    pl: Rewolucja 1905 roku
+    pnb: روسی انقلاب ۱۹۰۵
+    ps: د روسیې د ۱۹۰۵ زکال انقلاب
+    pt: Revolução Russa de 1905
+    pt-br: Revolução Russa de 1905
+    ro: Revoluția rusă din 1905
+    ru: Революция 1905—1907 годов в России
+    sh: Ruska revolucija 1905.
+    sl: ruska revolucija
+    sr: Руска револуција 1905.
+    sr-ec: Руска револуција 1905.
+    sr-el: Ruska revolucija 1905.
+    sv: Ryska revolutionen 1905
+    ta: உருசியப் புரட்சி
+    th: การปฏิวัติรัสเซีย พ.ศ. 2448
+    tl: Himagsikang Ruso ng 1905
+    tr: Rus Devrimi
+    tt: Беренче Рәсәй инкыйлабы
+    uk: Революція 1905—1907
+    vec: revołusion rusa del 1905
+    vi: Cách mạng Nga
+    yue: 俄國革命 (1905年)
+    zh: 1905年俄国革命
+    zh-cn: 1905年俄国革命
+    zh-hans: 1905年俄国革命
+    zh-hant: 1905年俄國革命
+    zh-hk: 1905年俄國革命
+    zh-sg: 1905年俄国革命
+    zh-tw: 1905年俄國革命
 ---
-
 # [[1905-Russian_Revolution]] 
 
 #is_/same_as :: [[WD~Russian_Revolution_of_1905,184928]] 

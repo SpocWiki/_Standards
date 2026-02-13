@@ -1,8 +1,107 @@
 ---
 has_id_wikidata: Q192969
+dv_has_:
+  name_:
+    ar: حاسوب متعدد المهام
+    az: çoxtapşırıqlılıq
+    ca: multitasca
+    ckb: فرەکرداریی کۆمپیوتەر
+    cs: multitasking
+    da: Multitasking
+    de: Multitasking
+    el: πολυεπιτέλεση
+    en: multitasking
+    eo: plurtaskado
+    es: multitarea
+    et: multitegumtöö
+    eu: multiataza
+    fa: چندکارگی
+    fi: moniajo
+    fr: multitâche
+    gl: Multitarefa
+    he: ריבוי משימות
+    hr: višezadaćnost
+    hu: többfeladatosság
+    hy: Բազմախնդրություն
+    id: tugas ganda
+    is: fjölverkavinnsla
+    it: multitasking
+    ja: マルチタスク
+    kk: Көптапсырмалылық
+    kk-arab: كوپتاپسىرمالىلىق
+    kk-cn: كوپتاپسىرمالىلىق
+    kk-cyrl: Көптапсырмалылық
+    kk-kz: Көптапсырмалылық
+    kk-latn: Köptapsırmalılıq
+    kk-tr: Köptapsırmalılıq
+    ko: 다중작업
+    lmo: Multitasking
+    lv: daudzdarbība
+    mk: повеќезадачност
+    ml: കമ്പ്യൂട്ടർ മൾട്ടിടാസ്കിംഗ്
+    nb: fleroppgavekjøring
+    nl: multitasking
+    nn: multikøyring
+    pl: wielozadaniowość
+    pt: multitarefa
+    ro: multitasking
+    ru: многозадачность
+    sk: multitasking
+    sl: večopravilnost
+    sv: multikörning
+    th: มัลติทาสกิง
+    tr: çoklu görev
+    uk: багатозадачність
+    vi: Đa nhiệm máy tính
+    zh: 多任务处理
+    zh-cn: 多任务处理
+    zh-hans: 多任务处理
+    zh-hant: 多任務處理
+    zh-hk: 多任務處理
+    zh-sg: 多任务处理
+    zh-tw: 多任務處理
+aliases:
+- daudzdarbība
+- fjölverkavinnsla
+- fleroppgavekjøring
+- Köptapsırmalılıq
+- moniajo
+- multiataza
+- multikörning
+- multikøyring
+- multitarea
+- multitarefa
+- multitasca
+- multitasking
+- multitegumtöö
+- multitâche
+- plurtaskado
+- tugas ganda
+- többfeladatosság
+- večopravilnost
+- višezadaćnost
+- wielozadaniowość
+- çoklu görev
+- çoxtapşırıqlılıq
+- Đa nhiệm máy tính
+- πολυεπιτέλεση
+- багатозадачність
+- Көптапсырмалылық
+- многозадачность
+- повеќезадачност
+- Բազմախնդրություն
+- ריבוי משימות
+- حاسوب متعدد المهام
+- فرەکرداریی کۆمپیوتەر
+- كوپتاپسىرمالىلىق
+- چندکارگی
+- കമ്പ്യൂട്ടർ മൾട്ടിടാസ്കിംഗ്
+- มัลติทาสกิง
+- マルチタスク
+- 多任务处理
+- 多任務處理
+- 다중작업
 ---
-
-
 # [[Multitasking]] 
 
 ## #has_/text_of_/abstract 

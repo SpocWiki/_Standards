@@ -1,18 +1,45 @@
 ---
 aliases:
-  - Coniacian
+- Coniac
+- coniaci
+- Coniacian
+- Coniaciano
+- Coniacianu
+- Coniaciar
+- Coniacien
+- Coniaciense
+- coniacij
+- Coniacium
+- Coniacià
+- coniak
+- Cuniacianu
+- Koniaciano
+- koniak
+- Koniakium
+- Konijak
+- Soinasium
+- Tầng Cognac
+- Коньяк ярусы, коньяк
+- коньякский ярус
+- Коньякський ярус
+- קוניאק
+- الكونياكي
+- کنیاسین
+- コニアシアン
+- 科尼亞克階
+- 코냐크절
 has_id_wikidata: Q645398
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-named_by: "[[_Standards/WikiData/WD~Henri_Coquand,3130874]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Coniacian,21708743]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Coniacian,133895092]]"
-different_from: "[[_Standards/WikiData/WD~cognac,284]]"
-named_after: "[[_Standards/WikiData/WD~Cognac,285]]"
-significant_place: "[[_Standards/WikiData/WD~Salzgitter,3200]]"
-country: "[[_Standards/WikiData/WD~Germany,183]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+named_by: '[[_Standards/WikiData/WD~Henri_Coquand,3130874]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Coniacian,21708743]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Coniacian,133895092]]'
+different_from: '[[_Standards/WikiData/WD~cognac,284]]'
+named_after: '[[_Standards/WikiData/WD~Cognac,285]]'
+significant_place: '[[_Standards/WikiData/WD~Salzgitter,3200]]'
+country: '[[_Standards/WikiData/WD~Germany,183]]'
 Commons_category: Coniacian
 start_time: -89800000-01-01T00:00:00Z
 end_time: -86300000-01-01T00:00:00Z
@@ -20,60 +47,82 @@ sRGB_color_hex_triplet: D1E382
 coordinate_location: Point(10.3295 52.1243)
 dv_has_:
   duration_:
-    years: "3.500e+6"
-  previous_:
-    item: "[[Age~2~Turonian]]"
-  next_:
-    item: "[[Age~4~Santonian]]"
+    years: 3.500e+6
   name_:
+    abbreviated: k3
+    af: Koniakium
+    ar: الكونياكي
+    ast: Coniacianu
     bg: Кониак
-    cs: Coniak
+    ca: Coniacià
+    cs: coniak
     da: Coniacien
-    de: Coniacium
-    es: Coni
+    de: Coniac
+    en: Coniacian
+    eo: Koniaciano
+    es: Coniaciense
     et: Coniaci
+    eu: Coniaciar
+    fa: کنیاسین
     fi: Coniac
     fr: Coniacien
+    gl: Coniaciano
+    he: קוניאק
     hu: coniaci
-    it: coniaciano
-    ja: コニアシアン期
+    id: Soinasium
+    it: Coniaciano
+    ja: コニアシアン
+    kk: Коньяк ярусы, коньяк
+    ko: 코냐크절
+    la: Coniacium
     lt: Konjakis
-    nl: Conaciën
+    nb: Coniac
+    nl: Coniacien
+    nn: coniac
     no: Coniacium
-    pl: Koniak
+    pl: koniak
     pt: Coniaciano
+    ru: коньякский ярус
+    scn: Cuniacianu
+    sh: Konijak
     sk: koňak
     sl: coniacij
     sv: coniac
-    zh: 科尼亚克期
-    abbreviated: k3
-  time_:
-    started: "-89.8e6"
-    stopped: "-86.3e6"
+    uk: Коньякський ярус
+    vec: Coniacian
+    vi: Tầng Cognac
+    zh: 科尼亞克階
+  next_:
+    item: '[[Age~4~Santonian]]'
+  previous_:
+    item: '[[Age~2~Turonian]]'
   text_of_:
-    color: "0xCCE968"
+    color: 0xCCE968
+  time_:
+    started: -89.8e6
+    stopped: -86.3e6
 dv_is_:
   same_as:
-    - "[[WD~Coniacian,645398]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~3~Coniacian|Age~3~Coniacian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~3~Coniacian.public|Age~3~Coniacian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~3~Coniacian.internal|Age~3~Coniacian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~3~Coniacian.protect|Age~3~Coniacian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~3~Coniacian.private|Age~3~Coniacian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~3~Coniacian.personal|Age~3~Coniacian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~3~Coniacian.secret|Age~3~Coniacian.secret]]"
-dv_has_duration_years: "3.500e+6"
-dv_has_previous_item: "[[Age~2~Turonian]]"
-dv_has_next_item: "[[Age~4~Santonian]]"
+  - '[[WD~Coniacian,645398]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~3~Coniacian|Age~3~Coniacian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~3~Coniacian.public|Age~3~Coniacian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~3~Coniacian.internal|Age~3~Coniacian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~3~Coniacian.protect|Age~3~Coniacian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~3~Coniacian.private|Age~3~Coniacian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~3~Coniacian.personal|Age~3~Coniacian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~3~Coniacian.secret|Age~3~Coniacian.secret]]'
+dv_has_duration_years: 3.500e+6
+dv_has_previous_item: '[[Age~2~Turonian]]'
+dv_has_next_item: '[[Age~4~Santonian]]'
 dv_is_same_as:
-  - "[[WD~Coniacian,645398]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~3~Coniacian|Age~3~Coniacian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~3~Coniacian.public|Age~3~Coniacian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~3~Coniacian.internal|Age~3~Coniacian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~3~Coniacian.protect|Age~3~Coniacian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~3~Coniacian.private|Age~3~Coniacian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~3~Coniacian.personal|Age~3~Coniacian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~3~Coniacian.secret|Age~3~Coniacian.secret]]"
+- '[[WD~Coniacian,645398]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~3~Coniacian|Age~3~Coniacian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~3~Coniacian.public|Age~3~Coniacian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~3~Coniacian.internal|Age~3~Coniacian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~3~Coniacian.protect|Age~3~Coniacian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~3~Coniacian.private|Age~3~Coniacian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~3~Coniacian.personal|Age~3~Coniacian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~3~Coniacian.secret|Age~3~Coniacian.secret]]'
 dv_has_name_bg: Кониак
 dv_has_name_cs: Coniak
 dv_has_name_da: Coniacien
@@ -95,9 +144,9 @@ dv_has_name_sl: coniacij
 dv_has_name_sv: coniac
 dv_has_name_zh: 科尼亚克期
 dv_has_name_abbreviated: k3
-dv_has_time_started: "-89.8e6"
-dv_has_time_stopped: "-86.3e6"
-dv_has_text_of_color: "0xCCE968"
+dv_has_time_started: -89.8e6
+dv_has_time_stopped: -86.3e6
+dv_has_text_of_color: 0xCCE968
 ---
 # [[Age~3~Coniacian]] 
 

@@ -1,77 +1,136 @@
 ---
 aliases:
-  - Campanian
+- Campan
+- campaniai
+- Campanian
+- Campaniano
+- Campanianu
+- Campaniar
+- Campanien
+- Campaniense
+- campanij
+- Campanium
+- campanià
+- Canpanian
+- Champagne-vaihe
+- kampan
+- Kampania
+- Kampanium
+- Kampán
+- Tầng Champagne
+- Кампан ярусы
+- кампанскі ярус
+- кампанский ярус
+- Кампанський ярус
+- קמפן (גיל גאולוגי)
+- الكامباني
+- کامپانین
+- კამპანიური სართული
+- カンパニアン
+- 坎帕期
+- 坎帕阶
+- 坎帕階
+- 샹파뉴절
 has_id_wikidata: Q492941
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-named_after: "[[_Standards/WikiData/WD~Champagne,1080717]]"
-named_by: "[[_Standards/WikiData/WD~Henri_Coquand,3130874]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Campanian,21784190]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Campanian,133894676]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+named_after: '[[_Standards/WikiData/WD~Champagne,1080717]]'
+named_by: '[[_Standards/WikiData/WD~Henri_Coquand,3130874]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Campanian,21784190]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Campanian,133894676]]'
 end_time: -72100000-01-01T00:00:00Z
-significant_place: "[[_Standards/WikiData/WD~Gubbio,20458]]"
+significant_place: '[[_Standards/WikiData/WD~Gubbio,20458]]'
 coordinate_location: Point(12.58283 43.36267)
 Commons_category: Campanian
 start_time: -83600000-01-01T00:00:00Z
 sRGB_color_hex_triplet: EAED93
 dv_has_:
   duration_:
-    years: "1.150e+7"
-  previous_:
-    item: "[[../../../Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~1~Gelasian|Gelasian]]"
-  next_:
-    item: "[[../../../Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian|Chibanian]]"
+    years: 1.150e+7
   name_:
+    abbreviated: k5
+    af: Campanium
+    ar: الكامباني
+    ast: Campanianu
+    be-tarask: кампанскі ярус
     bg: Кампан
-    cs: Campan
+    ca: campanià
+    cs: Kampán
     da: Campanien
     de: Campanium
+    en: Campanian
+    eo: Kampania
     es: Campaniense
     et: Campani
-    fi: Campan
+    eu: Campaniar
+    fa: کامپانین
+    fi: Champagne-vaihe
     fr: Campanien
+    gl: Campaniano
+    he: קמפן (גיל גאולוגי)
     hu: campaniai
-    it: campaniano
-    ja: カンパニアン期
+    id: Kampanium
+    it: Campaniano
+    ja: カンパニアン
+    ka: კამპანიური სართული
+    kk: Кампан ярусы
+    ko: 샹파뉴절
+    la: Campanium
+    lb: Campanium
     lt: Kampanis
-    nl: Campaniën
+    nb: Campanium
+    nds: Campanium
+    nl: Campanien
+    nn: campan
     no: Campanium
-    pl: Kampan
+    pl: kampan
     pt: Campaniano
+    ru: кампанский ярус
+    scn: Campanianu
+    sh: Kampan
     sk: kampán
     sl: campanij
-    sv: campan
-    zh: 坎佩尼期
-    abbreviated: k5
-  time_:
-    started: "-83.6e6"
-    stopped: "-72.1e6"
+    sv: Campan
+    uk: Кампанський ярус
+    vec: Canpanian
+    vi: Tầng Champagne
+    zh: 坎帕期
+    zh-hans: 坎帕阶
+    zh-hant: 坎帕階
+    zh-hk: 坎帕階
+  next_:
+    item: '[[../../../Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian|Chibanian]]'
+  previous_:
+    item: '[[../../../Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~1~Gelasian|Gelasian]]'
   text_of_:
-    color: "0xE6F47F"
+    color: 0xE6F47F
+  time_:
+    started: -83.6e6
+    stopped: -72.1e6
 dv_is_:
   same_as:
-    - "[[WD~Campanian,492941]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~5~Campanian|Age~5~Campanian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~5~Campanian.public|Age~5~Campanian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~5~Campanian.internal|Age~5~Campanian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~5~Campanian.protect|Age~5~Campanian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~5~Campanian.private|Age~5~Campanian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~5~Campanian.personal|Age~5~Campanian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~5~Campanian.secret|Age~5~Campanian.secret]]"
-dv_has_duration_years: "1.150e+7"
-dv_has_previous_item: "[[../../../Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~1~Gelasian|Gelasian]]"
-dv_has_next_item: "[[../../../Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian|Chibanian]]"
+  - '[[WD~Campanian,492941]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~5~Campanian|Age~5~Campanian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~5~Campanian.public|Age~5~Campanian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~5~Campanian.internal|Age~5~Campanian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~5~Campanian.protect|Age~5~Campanian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~5~Campanian.private|Age~5~Campanian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~5~Campanian.personal|Age~5~Campanian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~5~Campanian.secret|Age~5~Campanian.secret]]'
+dv_has_duration_years: 1.150e+7
+dv_has_previous_item: '[[../../../Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~1~Gelasian|Gelasian]]'
+dv_has_next_item: '[[../../../Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian|Chibanian]]'
 dv_is_same_as:
-  - "[[WD~Campanian,492941]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~5~Campanian|Age~5~Campanian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~5~Campanian.public|Age~5~Campanian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~5~Campanian.internal|Age~5~Campanian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~5~Campanian.protect|Age~5~Campanian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~5~Campanian.private|Age~5~Campanian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~5~Campanian.personal|Age~5~Campanian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~5~Campanian.secret|Age~5~Campanian.secret]]"
+- '[[WD~Campanian,492941]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~5~Campanian|Age~5~Campanian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~5~Campanian.public|Age~5~Campanian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~5~Campanian.internal|Age~5~Campanian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~5~Campanian.protect|Age~5~Campanian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~5~Campanian.private|Age~5~Campanian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~5~Campanian.personal|Age~5~Campanian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~5~Campanian.secret|Age~5~Campanian.secret]]'
 dv_has_name_bg: Кампан
 dv_has_name_cs: Campan
 dv_has_name_da: Campanien
@@ -93,9 +152,9 @@ dv_has_name_sl: campanij
 dv_has_name_sv: campan
 dv_has_name_zh: 坎佩尼期
 dv_has_name_abbreviated: k5
-dv_has_time_started: "-83.6e6"
-dv_has_time_stopped: "-72.1e6"
-dv_has_text_of_color: "0xE6F47F"
+dv_has_time_started: -83.6e6
+dv_has_time_stopped: -72.1e6
+dv_has_text_of_color: 0xE6F47F
 ---
 # [[Age~5~Campanian]]
 

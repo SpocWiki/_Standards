@@ -1,34 +1,100 @@
 ---
 aliases:
-  - Spanish Republic
-  - República Española
-  - Second Spanish Republic
-  - Segunda República Española
-  - 1931-Second_Spanish_Republic+1939
-  - 1931-Second Spanish Republic+1939
+- 1931-Second Spanish Republic+1939
+- 1931-Second_Spanish_Republic+1939
+- A Doua Republică Spaniolă
+- Anden spanske republik
+- Andra spanska republiken
+- Dara Poblacht na Spáinne
+- Den andre spanske republikken
+- Druga Republika Hiszpańska
+- Druga španjolska republika
+- Druga Španska Republika
+- Drugŏ Republika Hiszpańskŏ
+- Druhá španielska republika
+- Druhá španělská republika
+- Dua Hispana Respubliko
+- Duesim Republica Hispan
+- Duesma Hispaniana republiko
+- Dàrna Poblachd na Spàinne
+- Eil Republik spagnol
+- Espainiako Bigarren Errepublika
+- Espanjan toinen tasavalta
+- Hispaania Teine Vabariik
+- második spanyol köztársaság
+- Otrā Spānijas Republika
+- Republik Sepanyol Kedua
+- Republik Spanyol Kedua
+- República Española
+- Res Publica Hispanica Secunda
+- Second Spanish Republic
+- seconda Repubblica Spagnola
+- seconda Repùblega Spagnoła
+- Seconde République espagnole
+- Segona República Espanyola
+- Segonda Republica Espanhòla
+- Segunda Republica Espanyola
+- Segunda República Espanhola
+- Segunda República Española
+- Segunda República Spanhola
+- Segundera Repúbrica Española
+- Spanish Republic
+- Tweede Spaanse Republiek
+- Zweite Spanische Republik
+- Ïspan Respwblïkası
+- Đệ nhị Cộng hòa Tây Ban Nha
+- İkinci İspan Respublikası
+- İkinci İspanya Cumhuriyeti
+- Δεύτερη Ισπανική Δημοκρατία
+- Втора испанска република
+- Втора Шпанска Република
+- Вторая испанская республика
+- Друга Іспанська республіка
+- Друга шпанска република
+- Другая Іспанская Рэспубліка
+- Другая Гішпанская Рэспубліка
+- Дыккаг Испайнаг Республикæ
+- Испан Республикасы
+- Ҷумҳурии Дуюми Испания
+- Իսպանական հեղափոխություն
+- הרפובליקה הספרדית השנייה
+- الجمهورية الإسبانية الثانية
+- الجمهوريه الاسپانيه التانيه
+- ایکینجی ایسپانیایا جومهوریتی
+- جمهوری دوم اسپانیا
+- ىيسپان رەسپۋبلىيكاسى
+- ہسپانوی جمہوریہ دوم
+- দ্বিতীয় স্পেনীয় প্রজাতন্ত্র
+- இரண்டாவது எசுப்பானியக் குடியரசு
+- สาธารณรัฐสเปนที่ 2
+- ესპანეთის მეორე რესპუბლიკა
+- スペイン第二共和政
+- 西班牙第二共和国
+- 西班牙第二共和國
+- 스페인 제2공화국
 has_id_wikidata: Q178038
-political_ideology: "[[_Standards/WikiData/WD~anti_clericalism,478004]]"
-legislative_body: "[[_Standards/WikiData/WD~Congress_of_Deputies,539149]]"
+political_ideology: '[[_Standards/WikiData/WD~anti_clericalism,478004]]'
+legislative_body: '[[_Standards/WikiData/WD~Congress_of_Deputies,539149]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~secular_state,859563]]"
-  - "[[_Standards/WikiData/WD~historical_country,3024240]]"
-  - "[[_Standards/WikiData/WD~historical_period,11514315]]"
-  - "[[_Standards/WikiData/WD~republic,7270]]"
-anthem: "[[_Standards/WikiData/WD~Hymn_of_Riego,992460]]"
-follows: "[[_Standards/WikiData/WD~Spain_under_the_Restoration,1044536]]"
-motto: "[[_Standards/WikiData/WD~Plus_ultra,1045726]]"
-replaced_by: "[[_Standards/WikiData/WD~Junta_de_Defensa_Nacional,1626826]]"
-flag: "[[_Standards/WikiData/WD~flag_of_the_Second_Spanish_Republic,3314598]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_the_Second_Spanish_Republic,3816809]]"
-followed_by: "[[_Standards/WikiData/WD~Francoist_Spain,13474305]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]"
-official_language: "[[_Standards/WikiData/WD~Spanish,1321]]"
+- '[[_Standards/WikiData/WD~secular_state,859563]]'
+- '[[_Standards/WikiData/WD~historical_country,3024240]]'
+- '[[_Standards/WikiData/WD~historical_period,11514315]]'
+- '[[_Standards/WikiData/WD~republic,7270]]'
+anthem: '[[_Standards/WikiData/WD~Hymn_of_Riego,992460]]'
+follows: '[[_Standards/WikiData/WD~Spain_under_the_Restoration,1044536]]'
+motto: '[[_Standards/WikiData/WD~Plus_ultra,1045726]]'
+replaced_by: '[[_Standards/WikiData/WD~Junta_de_Defensa_Nacional,1626826]]'
+flag: '[[_Standards/WikiData/WD~flag_of_the_Second_Spanish_Republic,3314598]]'
+coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_the_Second_Spanish_Republic,3816809]]'
+followed_by: '[[_Standards/WikiData/WD~Francoist_Spain,13474305]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
+official_language: '[[_Standards/WikiData/WD~Spanish,1321]]'
 capital:
-  - "[[_Standards/WikiData/WD~Barcelona,1492]]"
-  - "[[_Standards/WikiData/WD~Madrid,2807]]"
-country: "[[_Standards/WikiData/WD~Spain,29]]"
-continent: "[[_Standards/WikiData/WD~Europe,46]]"
-member_of: "[[_Standards/WikiData/WD~League_of_Nations,38130]]"
+- '[[_Standards/WikiData/WD~Barcelona,1492]]'
+- '[[_Standards/WikiData/WD~Madrid,2807]]'
+country: '[[_Standards/WikiData/WD~Spain,29]]'
+continent: '[[_Standards/WikiData/WD~Europe,46]]'
+member_of: '[[_Standards/WikiData/WD~League_of_Nations,38130]]'
 short_name: España
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Escudo%20de%20la%20Segunda%20Rep%C3%BAblica%20Espa%C3%B1ola.svg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Spanish%20State.png
@@ -40,25 +106,115 @@ coordinate_location: Point(-3.5 40.2)
 inception: 1931-04-14T00:00:00Z
 dv_is_:
   same_as:
-    - "[[../../../../../../../../WikiData/WD~Second_Spanish_Republic,178038|WD~Second_Spanish_Republic,178038]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1931-Second_Spanish_Republic+1939|1931-Second_Spanish_Republic+1939]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1931-Second_Spanish_Republic+1939.public|1931-Second_Spanish_Republic+1939.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1931-Second_Spanish_Republic+1939.internal|1931-Second_Spanish_Republic+1939.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1931-Second_Spanish_Republic+1939.protect|1931-Second_Spanish_Republic+1939.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1931-Second_Spanish_Republic+1939.private|1931-Second_Spanish_Republic+1939.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1931-Second_Spanish_Republic+1939.personal|1931-Second_Spanish_Republic+1939.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1931-Second_Spanish_Republic+1939.secret|1931-Second_Spanish_Republic+1939.secret]]"
+  - '[[../../../../../../../../WikiData/WD~Second_Spanish_Republic,178038|WD~Second_Spanish_Republic,178038]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1931-Second_Spanish_Republic+1939|1931-Second_Spanish_Republic+1939]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1931-Second_Spanish_Republic+1939.public|1931-Second_Spanish_Republic+1939.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1931-Second_Spanish_Republic+1939.internal|1931-Second_Spanish_Republic+1939.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1931-Second_Spanish_Republic+1939.protect|1931-Second_Spanish_Republic+1939.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1931-Second_Spanish_Republic+1939.private|1931-Second_Spanish_Republic+1939.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1931-Second_Spanish_Republic+1939.personal|1931-Second_Spanish_Republic+1939.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1931-Second_Spanish_Republic+1939.secret|1931-Second_Spanish_Republic+1939.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Second_Spanish_Republic,178038|WD~Second_Spanish_Republic,178038]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1931-Second_Spanish_Republic+1939|1931-Second_Spanish_Republic+1939]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1931-Second_Spanish_Republic+1939.public|1931-Second_Spanish_Republic+1939.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1931-Second_Spanish_Republic+1939.internal|1931-Second_Spanish_Republic+1939.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1931-Second_Spanish_Republic+1939.protect|1931-Second_Spanish_Republic+1939.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1931-Second_Spanish_Republic+1939.private|1931-Second_Spanish_Republic+1939.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1931-Second_Spanish_Republic+1939.personal|1931-Second_Spanish_Republic+1939.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1931-Second_Spanish_Republic+1939.secret|1931-Second_Spanish_Republic+1939.secret]]"
+- '[[../../../../../../../../WikiData/WD~Second_Spanish_Republic,178038|WD~Second_Spanish_Republic,178038]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1931-Second_Spanish_Republic+1939|1931-Second_Spanish_Republic+1939]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1931-Second_Spanish_Republic+1939.public|1931-Second_Spanish_Republic+1939.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1931-Second_Spanish_Republic+1939.internal|1931-Second_Spanish_Republic+1939.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1931-Second_Spanish_Republic+1939.protect|1931-Second_Spanish_Republic+1939.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1931-Second_Spanish_Republic+1939.private|1931-Second_Spanish_Republic+1939.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1931-Second_Spanish_Republic+1939.personal|1931-Second_Spanish_Republic+1939.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1931-Second_Spanish_Republic+1939.secret|1931-Second_Spanish_Republic+1939.secret]]'
+dv_has_:
+  name_:
+    an: Segunda Republica Espanyola
+    ar: الجمهورية الإسبانية الثانية
+    arz: الجمهوريه الاسپانيه التانيه
+    ast: Segunda República Española
+    az: İkinci İspan Respublikası
+    azb: ایکینجی ایسپانیایا جومهوریتی
+    be: Другая Іспанская Рэспубліка
+    be-tarask: Другая Гішпанская Рэспубліка
+    bg: Втора испанска република
+    bn: দ্বিতীয় স্পেনীয় প্রজাতন্ত্র
+    br: Eil Republik spagnol
+    bs: Druga Španska Republika
+    ca: Segona República Espanyola
+    cbk-zam: Segunda República Española
+    cs: Druhá španělská republika
+    da: Anden spanske republik
+    de: Zweite Spanische Republik
+    el: Δεύτερη Ισπανική Δημοκρατία
+    en: Second Spanish Republic
+    en-us: Second Spanish Republic
+    eo: Dua Hispana Respubliko
+    es: Segunda República Española
+    et: Hispaania Teine Vabariik
+    eu: Espainiako Bigarren Errepublika
+    ext: Segundera Repúbrica Española
+    fa: جمهوری دوم اسپانیا
+    fi: Espanjan toinen tasavalta
+    fr: Seconde République espagnole
+    ga: Dara Poblacht na Spáinne
+    gd: Dàrna Poblachd na Spàinne
+    gl: Segunda República Española
+    he: הרפובליקה הספרדית השנייה
+    hr: Druga španjolska republika
+    hu: második spanyol köztársaság
+    hy: Իսպանական հեղափոխություն
+    id: Republik Spanyol Kedua
+    ie: Duesim Republica Hispan
+    io: Duesma Hispaniana republiko
+    it: seconda Repubblica Spagnola
+    ja: スペイン第二共和政
+    ka: ესპანეთის მეორე რესპუბლიკა
+    kk: Испан Республикасы
+    kk-arab: ىيسپان رەسپۋبلىيكاسى
+    kk-cn: ىيسپان رەسپۋبلىيكاسى
+    kk-cyrl: Испан Республикасы
+    kk-kz: Испан Республикасы
+    kk-latn: Ïspan Respwblïkası
+    kk-tr: Ïspan Respwblïkası
+    ko: 스페인 제2공화국
+    la: Res Publica Hispanica Secunda
+    lv: Otrā Spānijas Republika
+    mk: Втора Шпанска Република
+    ms: Republik Sepanyol Kedua
+    mwl: Segunda República Spanhola
+    nb: Den andre spanske republikken
+    nl: Tweede Spaanse Republiek
+    nn: Den andre spanske republikken
+    oc: Segonda Republica Espanhòla
+    os: Дыккаг Испайнаг Республикæ
+    pl: Druga Republika Hiszpańska
+    pnb: ہسپانوی جمہوریہ دوم
+    pt: Segunda República Espanhola
+    ro: A Doua Republică Spaniolă
+    ru: Вторая испанская республика
+    sh: Druga španjolska republika
+    sk: Druhá španielska republika
+    sl: Druga španska republika
+    sr: Друга шпанска република
+    sr-ec: Друга шпанска република
+    sr-el: Druga španska republika
+    sv: Andra spanska republiken
+    szl: Drugŏ Republika Hiszpańskŏ
+    ta: இரண்டாவது எசுப்பானியக் குடியரசு
+    tg: Ҷумҳурии Дуюми Испания
+    th: สาธารณรัฐสเปนที่ 2
+    tr: İkinci İspanya Cumhuriyeti
+    uk: Друга Іспанська республіка
+    ur: ہسپانوی جمہوریہ دوم
+    vec: seconda Repùblega Spagnoła
+    vi: Đệ nhị Cộng hòa Tây Ban Nha
+    wuu: 西班牙第二共和国
+    yue: 西班牙第二共和國
+    zh: 西班牙第二共和国
+    zh-cn: 西班牙第二共和国
+    zh-hans: 西班牙第二共和国
+    zh-hant: 西班牙第二共和國
+    zh-hk: 西班牙第二共和國
+    zh-sg: 西班牙第二共和国
+    zh-tw: 西班牙第二共和國
 ---
-
 # [[1931-Second_Spanish_Republic+1939]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Second_Spanish_Republic,178038|WD~Second_Spanish_Republic,178038]]  

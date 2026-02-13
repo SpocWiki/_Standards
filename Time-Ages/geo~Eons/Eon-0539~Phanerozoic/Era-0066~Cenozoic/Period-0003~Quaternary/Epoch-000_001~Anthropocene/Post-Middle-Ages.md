@@ -1,36 +1,50 @@
 ---
 aliases:
-  - Post-Middle-Ages
-  - Post-medieval
-  - Post-medieval archaeology
+- Neuzeitarchäologie
+- novoveška arheologija
+- Post-medieval
+- Post-medieval archaeology
+- Post-Middle-Ages
+- postmezepoka arĥeologio
+- Постсередньовічна археологія
+- علم الآثار ما بعد العصور الوسطى
+- 近世考古学
 has_id_wikidata: Q1982103
-instance_of: "[[_Standards/WikiData/WD~archaeological_child_discipline,4785472]]"
-subclass_of: "[[_Standards/WikiData/WD~archaeology,23498]]"
+instance_of: '[[_Standards/WikiData/WD~archaeological_child_discipline,4785472]]'
+subclass_of: '[[_Standards/WikiData/WD~archaeology,23498]]'
 dv_has_:
+  name_:
+    ar: علم الآثار ما بعد العصور الوسطى
+    de: Neuzeitarchäologie
+    en: post-medieval archaeology
+    eo: postmezepoka arĥeologio
+    ja: 近世考古学
+    sl: novoveška arheologija
+    uk: Постсередньовічна археологія
   time_:
-    started: "1.5e3"
-    stopped: "1.8e3"
+    started: 1.5e3
+    stopped: 1.8e3
 dv_is_:
   same_as:
-    - "[[WD~Post-medieval_archaeology,1982103]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Post-Middle-Ages|Post-Middle-Ages]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Post-Middle-Ages.public|Post-Middle-Ages.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Post-Middle-Ages.internal|Post-Middle-Ages.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Post-Middle-Ages.protect|Post-Middle-Ages.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Post-Middle-Ages.private|Post-Middle-Ages.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Post-Middle-Ages.personal|Post-Middle-Ages.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Post-Middle-Ages.secret|Post-Middle-Ages.secret]]"
-dv_has_time_started: "1.5e3"
-dv_has_time_stopped: "1.8e3"
+  - '[[WD~Post-medieval_archaeology,1982103]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Post-Middle-Ages|Post-Middle-Ages]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Post-Middle-Ages.public|Post-Middle-Ages.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Post-Middle-Ages.internal|Post-Middle-Ages.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Post-Middle-Ages.protect|Post-Middle-Ages.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Post-Middle-Ages.private|Post-Middle-Ages.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Post-Middle-Ages.personal|Post-Middle-Ages.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Post-Middle-Ages.secret|Post-Middle-Ages.secret]]'
+dv_has_time_started: 1.5e3
+dv_has_time_stopped: 1.8e3
 dv_is_same_as:
-  - "[[WD~Post-medieval_archaeology,1982103]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Post-Middle-Ages|Post-Middle-Ages]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Post-Middle-Ages.public|Post-Middle-Ages.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Post-Middle-Ages.internal|Post-Middle-Ages.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Post-Middle-Ages.protect|Post-Middle-Ages.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Post-Middle-Ages.private|Post-Middle-Ages.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Post-Middle-Ages.personal|Post-Middle-Ages.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Post-Middle-Ages.secret|Post-Middle-Ages.secret]]"
+- '[[WD~Post-medieval_archaeology,1982103]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Post-Middle-Ages|Post-Middle-Ages]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Post-Middle-Ages.public|Post-Middle-Ages.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Post-Middle-Ages.internal|Post-Middle-Ages.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Post-Middle-Ages.protect|Post-Middle-Ages.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Post-Middle-Ages.private|Post-Middle-Ages.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Post-Middle-Ages.personal|Post-Middle-Ages.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Post-Middle-Ages.secret|Post-Middle-Ages.secret]]'
 ---
 # [[Post-Middle-Ages]] 
 

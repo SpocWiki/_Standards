@@ -1,8 +1,85 @@
 ---
 aliases:
-  - Hydrofoils
-  - Hydrofoil
+- aliscafo
+- Apogflugila boato
+- bärplansbåt
+- Deniz otobüsü
+- draagvleugelboot
+- duillárthach
+- Hidroala
+- Hidrofoil
+- hidrofólio
+- Hidrogliser
+- Hidròpter
+- hordszárnyas hajó
+- hydroffoil
+- Hydrofoil
+- hydrofoilfartøj
+- Hydrofoils
+- hydroptère
+- Kantosiipialus
+- křídlový člun
+- Navă cu aripi portante
+- Tiiburlaev
+- Tragflügelboot
+- Tàu cánh ngầm
+- Wodolot
+- Υδροπτέρυγο
+- вадалёт
+- судна на падводных крылах
+- Судно на підводних крилах
+- судно на подводных крыльях
+- хидроглисер
+- Шывай çунатлă карап
+- סנפירית
+- قایق بالهدار
+- 水中翼船
+- 水翼船
+- 수중익선
 has_id_wikidata: Q657819
+dv_has_:
+  name_:
+    be: судна на падводных крылах
+    be-tarask: вадалёт
+    ca: Hidròpter
+    cs: křídlový člun
+    cv: Шывай çунатлă карап
+    cy: hydroffoil
+    da: hydrofoilfartøj
+    de: Tragflügelboot
+    el: Υδροπτέρυγο
+    en: hydrofoil
+    eo: Apogflugila boato
+    es: Hidroala
+    et: Tiiburlaev
+    fa: قایق بالهدار
+    fi: Kantosiipialus
+    fr: hydroptère
+    ga: duillárthach
+    he: סנפירית
+    hr: Hidrogliser
+    hu: hordszárnyas hajó
+    id: Hidrofoil
+    it: aliscafo
+    ja: 水中翼船
+    ko: 수중익선
+    mk: хидроглисер
+    nb: hydrofoil
+    nl: draagvleugelboot
+    pl: Wodolot
+    pt: hidrofólio
+    ro: Navă cu aripi portante
+    ru: судно на подводных крыльях
+    sh: Hidrogliser
+    sl: hidrogliser
+    sv: bärplansbåt
+    tr: Deniz otobüsü
+    uk: Судно на підводних крилах
+    vi: Tàu cánh ngầm
+    zh: 水翼船
+    zh-hans: 水翼船
+    zh-hant: 水翼船
+    zh-hk: 水翼船
 ---
 # [[Hydrofoil]] 
 

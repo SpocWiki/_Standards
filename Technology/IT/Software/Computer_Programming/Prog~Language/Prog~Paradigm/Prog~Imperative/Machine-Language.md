@@ -1,8 +1,176 @@
 ---
 aliases:
-  - 1GL
-  - Machine-Language
+- 1GL
+- areg ijinenn
+- bahasa mesin
+- Bahaso masin
+- cod peiriant
+- código de máquina
+- código máquina
+- códigu máquina
+- gépi kód
+- język maszynowy
+- ki-hâi-bé
+- kod mesin
+- kodet
+- kodigo ng makina
+- konekieli
+- langage machine
+- lenguagg machina
+- lenguaje de máquina
+- limbaj mașină
+- linguaggio macchina
+- llenguatge de màquina
+- maašinkielâ
+- machine code
+- machine language
+- Machine-Language
+- machinetaal
+- makina-lengoaia
+- makine dili
+- Maschinensprache
+- Mashina kodı
+- mashina tili
+- mashinokodexo
+- masinkood
+- maskinkod
+- maskinkode
+- maŝinkodo
+- maşın kodu
+- mašinaǩiõll
+- mašininis kodas
+- mašinowa rěč
+- mašinski jezik
+- mašīnkods
+- meaisínchód
+- ngôn ngữ máy
+- sambau
+- strojna koda
+- strojni jezik
+- strojový kód
+- umkitizo wenguxa
+- vélamál
+- γλώσσα μηχανής
+- машин код
+- машина тили
+- машиналық тіл
+- машинен език
+- машинний код
+- машинный код
+- машински језик
+- машынны код
+- մեքենայական կոդ
+- שפת מכונה
+- آلاتی زبان
+- زبان ماشین
+- لغة الآلة
+- کود ميسين
+- کۆدی مەکینە
+- मशीनी भाषा
+- मेसिन कोड
+- মেশিন লেঙগুয়েজ
+- যান্ত্রিক ভাষা
+- യന്ത്രഭാഷ
+- รหัสเครื่อง
+- მანქანური ენა
+- 机器语言
+- 機器語言
+- 機械語
+- 기계어
 has_id_wikidata: Q55813
+dv_has_:
+  name_:
+    ar: لغة الآلة
+    ast: códigu máquina
+    az: maşın kodu
+    be: машынны код
+    be-tarask: машынны код
+    bg: машинен език
+    bn: যান্ত্রিক ভাষা
+    bpy: মেশিন লেঙগুয়েজ
+    br: areg ijinenn
+    bs: mašinski jezik
+    ca: llenguatge de màquina
+    ckb: کۆدی مەکینە
+    cs: strojový kód
+    cy: cod peiriant
+    da: maskinkode
+    de: Maschinensprache
+    de-ch: Maschinensprache
+    el: γλώσσα μηχανής
+    en: machine code
+    en-ca: machine code
+    en-gb: machine code
+    eo: maŝinkodo
+    es: lenguaje de máquina
+    et: masinkood
+    eu: makina-lengoaia
+    fa: زبان ماشین
+    fi: konekieli
+    fr: langage machine
+    ga: meaisínchód
+    gl: código máquina
+    he: שפת מכונה
+    hi: मशीनी भाषा
+    hr: strojni jezik
+    hsb: mašinowa rěč
+    hu: gépi kód
+    hy: մեքենայական կոդ
+    id: bahasa mesin
+    io: mashinokodexo
+    is: vélamál
+    it: linguaggio macchina
+    ja: 機械語
+    jbo: sambau
+    ka: მანქანური ენა
+    kaa: Mashina kodı
+    kk: машиналық тіл
+    ko: 기계어
+    ky: машина тили
+    lmo: lenguagg machina
+    lt: mašininis kodas
+    lv: mašīnkods
+    mhr: машин код
+    min: Bahaso masin
+    ml: യന്ത്രഭാഷ
+    mn: машин код
+    mo: limbaj mașină
+    ms: kod mesin
+    ms-arab: کود ميسين
+    mwl: código de máquina
+    my: machine language
+    nan: ki-hâi-bé
+    nb: maskinkode
+    ne: मेसिन कोड
+    nl: machinetaal
+    nn: maskinkode
+    pl: język maszynowy
+    pt: código de máquina
+    pt-br: código de máquina
+    ro: limbaj mașină
+    ru: машинный код
+    sh: mašinski jezik
+    sk: strojový kód
+    sl: strojna koda
+    smn: maašinkielâ
+    sms: mašinaǩiõll
+    sq: kodet
+    sr: машински језик
+    sr-ec: машински језик
+    sr-el: mašinski jezik
+    sv: maskinkod
+    th: รหัสเครื่อง
+    tl: kodigo ng makina
+    tr: makine dili
+    uk: машинний код
+    ur: آلاتی زبان
+    uz: mashina tili
+    vi: ngôn ngữ máy
+    wuu: 机器语言
+    yue: 機器語言
+    zh: 机器语言
+    zh-hant: 機器語言
+    zu: umkitizo wenguxa
 ---
 [[Prog~Assembler]] is considered to be a 2nd Generation Programming Language, 
 different from the 1st Generation [[Machine-Language]]. 

@@ -1,85 +1,134 @@
 ---
 aliases:
-  - Era~3~Mesoarchean
-  - Mesoarchean
-  - Мезоархай
-  - Mezoarchaikum
-  - Mesoarkæisk
-  - Mesoarchaikum
-  - Mesoarchaean
-  - Mesoarcaico
-  - Mesoarhaikum
-  - Mesoarkeikum
-  - Mésoarchéen
-  - mezoarchai
-  - mesoarcheano
-  - 中始生代
-  - Mezoarchejus
-  - Meso-archaicum
-  - Mezoarchaik
-  - mezoarchaikum
-  - mezoarhaik
-  - mesoarkeikum
-  - 中太古代
+- an Ré Mhéasaircéach
+- Era~3~Mesoarchean
+- Istiarxeugal
+- Meso-archaicum
+- Mesoarcaico
+- Mesoarchaean
+- Mesoarchaikum
+- Mesoarchean
+- mesoarcheano
+- Mesoarcheïcum
+- Mesoarhaikum
+- Mesoarkean
+- Mesoarkear
+- Mesoarkeeinen maailmankausi
+- Mesoarkeen
+- Mesoarkeikum
+- Mesoarkeyaan
+- Mesoarkæisk
+- Mesoarqueano
+- Mesoarqueà
+- mezoarchai
+- Mezoarchaik
+- Mezoarchaikum
+- Mezoarchejus
+- Mezoarchėjus
+- mezoarhaik
+- mezoarkeano
+- Mezoarxey
+- Misuarchianu
+- Mésoarchéen
+- Đại Trung Thái Cổ
+- Мезаархей
+- Мезоархай
+- Мезоархеј
+- мезоархей
+- מזוארכאיקון
+- الحقبة السحيقة الوسطى
+- نخستزیستی میانه
+- मीसोआर्कियाई महाकल्प
+- มหายุคมีโซอาร์เคียน
+- 中太古代
+- 中始生代
 has_id_wikidata: Q607992
 instance_of:
-  - "[[_Standards/WikiData/WD~era,630830]]"
-  - "[[_Standards/WikiData/WD~erathem,2464485]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+- '[[_Standards/WikiData/WD~era,630830]]'
+- '[[_Standards/WikiData/WD~erathem,2464485]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 end_time: -2800000000-01-01T00:00:00Z
 start_time: -3200000000-01-01T00:00:00Z
 Commons_category: Mesoarchean
 sRGB_color_hex_triplet: F768A9
 dv_has_:
   duration_:
-    years: "4.000e+8"
-  previous_:
-    item: "[[Era-3600~Paleoarchean]]"
-  next_:
-    item: "[[Era-2800~Neoarchean]]"
+    years: 4.000e+8
   name_:
     abbreviated: MA
+    ar: الحقبة السحيقة الوسطى
+    avk: Istiarxeugal
+    az: Mezoarxey
+    be: Мезаархей
     bg: Мезоархай
+    br: Mesoarkean
+    ca: Mesoarqueà
     cs: Mezoarchaikum
     da: Mesoarkæisk
     de: Mesoarchaikum
+    en: Mesoarchean
+    en-gb: Mesoarchaean
     en_:
       gb: Mesoarchaean
       us: Mesoarchean
-    en: Mesoarchean
+    eo: mezoarkeano
     es: Mesoarcaico
     et: Mesoarhaikum
-    fi: Mesoarkeikum
+    eu: Mesoarkear
+    fa: نخستزیستی میانه
+    fi: Mesoarkeeinen maailmankausi
     fr: Mésoarchéen
-    hu: mezoarchai
-    it: mesoarcheano
-    ja: 中始生代
-    lt: Mezoarchejus
-    nl: Meso-archaicum
+    ga: an Ré Mhéasaircéach
+    he: מזוארכאיקון
+    hi: मीसोआर्कियाई महाकल्प
+    hr: mezoarhaik
+    hu: Mezoarchaikum
+    id: Mesoarkean
+    it: Mesoarcheano
+    ja: 中太古代
+    lt: Mezoarchėjus
+    mk: Мезоархеј
+    ms: Mesoarkean
+    nl: Mesoarcheïcum
+    nn: mesoarkeikum
     no: Mesoarkeikum
-    pl: Mezoarchaik
-    pt: Mesoarcaico
-    sk: mezoarchaikum
+    pl: mezoarchaik
+    pt: Mesoarqueano
+    ro: Mesoarchean
+    ru: мезоархей
+    scn: Misuarchianu
+    sh: Mezoarhaik
+    sk: Mezoarchaikum
     sl: mezoarhaik
+    so: Mesoarkeyaan
     sv: mesoarkeikum
+    th: มหายุคมีโซอาร์เคียน
+    tr: Mesoarkeen
+    uk: Мезоархей
+    vi: Đại Trung Thái Cổ
+    yue: 中太古代
     zh: 中太古代
-  time_:
-    started: "-3.200e9"
-    stopped: "-2.800e9"
+  next_:
+    item: '[[Era-2800~Neoarchean]]'
+  previous_:
+    item: '[[Era-3600~Paleoarchean]]'
   text_of_:
-    color: "0xF768A9"
+    color: 0xF768A9
+  time_:
+    started: -3.200e9
+    stopped: -2.800e9
 dv_is_:
   same_as:
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3200~Mesoarchean|Era-3200~Mesoarchean]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3200~Mesoarchean.public|Era-3200~Mesoarchean.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3200~Mesoarchean.internal|Era-3200~Mesoarchean.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3200~Mesoarchean.protect|Era-3200~Mesoarchean.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3200~Mesoarchean.private|Era-3200~Mesoarchean.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3200~Mesoarchean.personal|Era-3200~Mesoarchean.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3200~Mesoarchean.secret|Era-3200~Mesoarchean.secret]]"
-dv_has_duration_years: "4.000e+8"
-dv_has_previous_item: "[[Era-3600~Paleoarchean]]"
-dv_has_next_item: "[[Era-2800~Neoarchean]]"
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3200~Mesoarchean|Era-3200~Mesoarchean]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3200~Mesoarchean.public|Era-3200~Mesoarchean.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3200~Mesoarchean.internal|Era-3200~Mesoarchean.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3200~Mesoarchean.protect|Era-3200~Mesoarchean.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3200~Mesoarchean.private|Era-3200~Mesoarchean.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3200~Mesoarchean.personal|Era-3200~Mesoarchean.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3200~Mesoarchean.secret|Era-3200~Mesoarchean.secret]]'
+dv_has_duration_years: 4.000e+8
+dv_has_previous_item: '[[Era-3600~Paleoarchean]]'
+dv_has_next_item: '[[Era-2800~Neoarchean]]'
 dv_has_name_abbreviated: MA
 dv_has_name_bg: Мезоархай
 dv_has_name_cs: Mezoarchaikum
@@ -104,17 +153,17 @@ dv_has_name_sk: mezoarchaikum
 dv_has_name_sl: mezoarhaik
 dv_has_name_sv: mesoarkeikum
 dv_has_name_zh: 中太古代
-dv_has_time_started: "-3.200e9"
-dv_has_time_stopped: "-2.800e9"
-dv_has_text_of_color: "0xF768A9"
+dv_has_time_started: -3.200e9
+dv_has_time_stopped: -2.800e9
+dv_has_text_of_color: 0xF768A9
 dv_is_same_as:
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3200~Mesoarchean|Era-3200~Mesoarchean]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3200~Mesoarchean.public|Era-3200~Mesoarchean.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3200~Mesoarchean.internal|Era-3200~Mesoarchean.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3200~Mesoarchean.protect|Era-3200~Mesoarchean.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3200~Mesoarchean.private|Era-3200~Mesoarchean.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3200~Mesoarchean.personal|Era-3200~Mesoarchean.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3200~Mesoarchean.secret|Era-3200~Mesoarchean.secret]]"
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3200~Mesoarchean|Era-3200~Mesoarchean]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3200~Mesoarchean.public|Era-3200~Mesoarchean.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3200~Mesoarchean.internal|Era-3200~Mesoarchean.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3200~Mesoarchean.protect|Era-3200~Mesoarchean.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3200~Mesoarchean.private|Era-3200~Mesoarchean.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3200~Mesoarchean.personal|Era-3200~Mesoarchean.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3200~Mesoarchean.secret|Era-3200~Mesoarchean.secret]]'
 ---
 # [[Era-3200~Mesoarchean]] 
 

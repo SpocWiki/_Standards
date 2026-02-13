@@ -1,8 +1,112 @@
 ---
 has_id_wikidata: Q208420
+dv_has_:
+  name_:
+    af: drieriemsgalei
+    ar: ثلاثية المجاديف
+    ast: Trirreme
+    az: Triyera
+    ba: Трирема
+    be-tarask: трырэма
+    bg: Триера
+    br: Teirroeñveg
+    bs: Trirema
+    ca: trirrem
+    cs: triréma
+    da: trier
+    de: Triere
+    el: τριήρης
+    en: trireme
+    eo: triremo
+    es: trirreme
+    et: Trieer
+    eu: Trirreme
+    fa: ترایریم
+    fi: Kolmisoutu
+    fr: trière
+    ga: tríréim
+    gl: trirreme
+    grc: Τριήρης
+    he: תלת-חתרית
+    hr: Trijera
+    hu: triérész
+    id: Trireme
+    io: Triremo
+    it: trireme
+    ja: 三段櫂船
+    ka: ტრირემა
+    kk: Трирема
+    ko: 삼단노선
+    la: triremis
+    lt: Trirema
+    lv: Triēra
+    mk: триера
+    nb: Trirem
+    nl: trireem
+    oc: Trirema
+    pl: Triera
+    pms: Trirem
+    pt: trirreme
+    ro: Triremă
+    ru: трирема
+    scn: Tririmi
+    sh: Trirema
+    sk: Triréma
+    sl: triera
+    sr: Тријера
+    sr-ec: Тријера
+    sr-el: Trijera
+    sv: Trirem
+    tr: Trireme
+    uk: Трієра
+    yue: 三列槳座戰船
+    zh: 三列槳座戰船
+    zh-cn: 三列桨座战船
+    zh-hans: 三列桨座战船
+    zh-hant: 三列槳座戰船
+    zh-hk: 三列槳座戰船
+    zh-sg: 三列桨座战船
+    zh-tw: 三列槳座戰船
+aliases:
+- drieriemsgalei
+- Kolmisoutu
+- Teirroeñveg
+- Trieer
+- trier
+- Triera
+- Triere
+- Trijera
+- trireem
+- Trirem
+- Trirema
+- trireme
+- triremis
+- triremo
+- Triremă
+- Tririmi
+- trirrem
+- trirreme
+- triréma
+- Triyera
+- trière
+- triérész
+- Triēra
+- tríréim
+- τριήρης
+- Трієра
+- Тријера
+- Триера
+- трирема
+- трырэма
+- תלת-חתרית
+- ترایریم
+- ثلاثية المجاديف
+- ტრირემა
+- 三列桨座战船
+- 三列槳座戰船
+- 三段櫂船
+- 삼단노선
 ---
-
-
 # [[Trireme]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Trireme,208420|WD~Trireme,208420]]  

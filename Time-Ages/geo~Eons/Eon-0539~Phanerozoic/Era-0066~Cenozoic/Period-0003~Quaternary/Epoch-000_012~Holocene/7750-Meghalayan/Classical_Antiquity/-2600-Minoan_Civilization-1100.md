@@ -1,39 +1,199 @@
 ---
-location: [ 24.893333 , 35.309722 ] 
+location: '[[_Standards/WikiData/WD~Crete,34374]]'
 aliases:
-  - Minoan civilization
-  - -2600-Minoan_Civilization-1100
-  - -2600-Minoan Civilization-1100
+- -2600-Minoan Civilization-1100
+- -2600-Minoan_Civilization-1100
+- Civilisation minoan
+- civilisation minoenne
+- civilització minoica
+- Civilizacion minoïca
+- Civilización minoica
+- Civilização minoica
+- Civilizația cretană
+- civiltà minoica
+- Cultura Minoica
+- Den minoiske sivilisasjonen
+- Girit Uygarlığı
+- Gwareiddiad Minoaidd
+- Kabihasnang Minoe
+- kultura minojska
+- Mino civilizacija
+- Minoa civilizo
+- Minoan civilisation
+- Minoan civilization
+- Minoesch Kultur
+- Minoische Kultur
+- Minoisk kultur
+- Minoiska kulturen
+- Minojska civilizacija
+- Minojska kultura
+- Minojská kultúra
+- Minolainen kulttuuri
+- Minos bûn-bêng
+- Minos-kulturo
+- Minose kultuur
+- Minoy sivilizasiyası
+- Minoy sivilizatsiyasi
+- Minoyske beskaving
+- Minoïese beskawing
+- Minoïsche beschaving
+- minószi civilizáció
+- Mínojská civilizace
+- Mínóísk menning
+- Mīnojiešu civilizācija
+- Na Mionóigh
+- Peradaban Minoa
+- Qytetërimi minoan
+- Sibilisayon Minos
+- Sivilia Minoan
+- Sivilizasiona minôana
+- siviltà minòega
+- Tamadun Minoan
+- văn minh Minos
+- Zibilizazio minoiko
+- Μινωικός πολιτισμός
+- Мінойская цывілізацыя
+- Мінойська цивілізація
+- Минојска цивилизација
+- Миной өркениеті
+- Минойска цивилизация
+- Минойская цивилизация
+- Մինոասեան քաղաքակրթութիւն
+- Մինոյան քաղաքակրթություն
+- התרבות המינואית
+- حضارة مينوسية
+- حضاره مينونيه
+- مینوسی تہذیب
+- مینوسیها
+- मिनोआई सभ्यता
+- মিনোয়ান সভ্যতা
+- மினோவன் நாகரிகம்
+- อารยธรรมไมนอส
+- မစ်နိုးယန် ယဉ်ကျေးမှု
+- მინოსის კულტურა
+- ミノア文明
+- 米諾斯文明
+- 米诺斯文明
+- 미노스 문명
 has_id_wikidata: Q134178
 instance_of:
-  - "[[_Standards/WikiData/WD~archaeological_culture,465299]]"
-  - "[[_Standards/WikiData/WD~style,1292119]]"
-  - "[[_Standards/WikiData/WD~civilization,2718886]]"
-  - "[[_Standards/WikiData/WD~historical_period,11514315]]"
-  - "[[_Standards/WikiData/WD~ancient_civilization,28171280]]"
-part_of: "[[_Standards/WikiData/WD~history_of_Crete,1516494]]"
-language_used: "[[_Standards/WikiData/WD~Minoan,1669994]]"
-topic_has_template: "[[_Standards/WikiData/WD~Q14695113,14695113]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+- '[[_Standards/WikiData/WD~archaeological_culture,465299]]'
+- '[[_Standards/WikiData/WD~style,1292119]]'
+- '[[_Standards/WikiData/WD~civilization,2718886]]'
+- '[[_Standards/WikiData/WD~historical_period,11514315]]'
+- '[[_Standards/WikiData/WD~ancient_civilization,28171280]]'
+part_of: '[[_Standards/WikiData/WD~history_of_Crete,1516494]]'
+language_used: '[[_Standards/WikiData/WD~Minoan,1669994]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q14695113,14695113]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 end_time: -1099-01-01T00:00:00Z
 start_time:
-  - -3299-01-01T00:00:00Z
-  - -2000-01-01T00:00:00Z
+- -3299-01-01T00:00:00Z
+- -2000-01-01T00:00:00Z
 coordinate_location: Point(24.893333 35.309722)
-named_after: "[[_Standards/WikiData/WD~Minos,23168]]"
-indigenous_to: "[[_Standards/WikiData/WD~Crete,34374]]"
-location: "[[_Standards/WikiData/WD~Crete,34374]]"
+named_after: '[[_Standards/WikiData/WD~Minos,23168]]'
+indigenous_to: '[[_Standards/WikiData/WD~Crete,34374]]'
 BHCL_UUID: e45e3efa-3526-4d39-9d49-a0f71a3515fe
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20Minoan%20Crete-en.svg
 Library_of_Congress_Classification:
-  - DF220.3
-  - DF221.C8
+- DF220.3
+- DF221.C8
 Krugosvet_article_archived_: istoriya/MINOSKAYA_TSIVILIZATSIYA.html
 Commons_category: Minoan civilization
 OpenStreetMap_tag: historic:civilization=minoan
-Dewey_Decimal_Classification: "939.18"
+Dewey_Decimal_Classification: 939.18
+dv_has_:
+  name_:
+    af: Minoïese beskawing
+    an: Civilización minoica
+    ar: حضارة مينوسية
+    arz: حضاره مينونيه
+    ast: Civilización minoica
+    az: Minoy sivilizasiyası
+    be: Мінойская цывілізацыя
+    be-tarask: Мінойская цывілізацыя
+    bg: Минойска цивилизация
+    bn: মিনোয়ান সভ্যতা
+    bs: Minojska civilizacija
+    ca: civilització minoica
+    cs: Mínojská civilizace
+    cy: Gwareiddiad Minoaidd
+    da: Minoisk kultur
+    de: Minoische Kultur
+    el: Μινωικός πολιτισμός
+    en: Minoan civilization
+    en-gb: Minoan civilisation
+    eo: Minoa civilizo
+    es: civilización minoica
+    et: Minose kultuur
+    eu: Zibilizazio minoiko
+    fa: مینوسیها
+    fi: Minolainen kulttuuri
+    fr: civilisation minoenne
+    fy: Minoyske beskaving
+    ga: Na Mionóigh
+    gl: Civilización minoica
+    he: התרבות המינואית
+    hi: मिनोआई सभ्यता
+    hr: Minojska kultura
+    hu: minószi civilizáció
+    hy: Մինոյան քաղաքակրթություն
+    hyw: Մինոասեան քաղաքակրթութիւն
+    ia: Civilisation minoan
+    id: Peradaban Minoa
+    io: Minos-kulturo
+    is: Mínóísk menning
+    it: civiltà minoica
+    ja: ミノア文明
+    ka: მინოსის კულტურა
+    kk: Миной өркениеті
+    ko: 미노스 문명
+    la: Cultura Minoica
+    lb: Minoesch Kultur
+    lfn: Sivilia Minoan
+    lt: Mino civilizacija
+    lv: Mīnojiešu civilizācija
+    mg: Sivilizasiona minôana
+    mk: Минојска цивилизација
+    ms: Tamadun Minoan
+    my: မစ်နိုးယန် ယဉ်ကျေးမှု
+    nan: Minos bûn-bêng
+    nb: Minoisk kultur
+    nl: Minoïsche beschaving
+    nn: Den minoiske sivilisasjonen
+    oc: Civilizacion minoïca
+    pl: kultura minojska
+    pt: Civilização minoica
+    ro: Civilizația cretană
+    ru: Минойская цивилизация
+    sh: Minojska civilizacija
+    sk: Minojská kultúra
+    sl: minojska kultura
+    sq: Qytetërimi minoan
+    sr: Минојска цивилизација
+    sr-ec: Минојска цивилизација
+    sr-el: Minojska civilizacija
+    sv: Minoiska kulturen
+    ta: மினோவன் நாகரிகம்
+    th: อารยธรรมไมนอส
+    tl: Kabihasnang Minoe
+    tr: Girit Uygarlığı
+    uk: Мінойська цивілізація
+    ur: مینوسی تہذیب
+    uz: Minoy sivilizatsiyasi
+    vec: siviltà minòega
+    vi: văn minh Minos
+    war: Sibilisayon Minos
+    wuu: 米诺斯文明
+    yue: 米諾斯文明
+    zh: 米诺斯文明
+    zh-cn: 米诺斯文明
+    zh-hans: 米诺斯文明
+    zh-hant: 米諾斯文明
+    zh-hk: 米諾斯文明
+    zh-sg: 米诺斯文明
+    zh-tw: 米諾斯文明
 ---
-
 # [[-2600-Minoan_Civilization-1100]] 
 
 #is_/same_as :: [[WD~Minoan_civilization,134178]] 

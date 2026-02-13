@@ -1,34 +1,123 @@
 ---
-has_time_started: 1977-01-01 
+has_time_started: 1977-01-01
 aliases:
-  - Berkeley_Software_Distribution
-  - BSD Unix
-  - BSD-Unix
+- Berkeley Software Distribution
+- Berkeley_Software_Distribution
+- BSD
+- BSD Unix
+- BSD-Unix
+- Distribussion ëd Software ëd Berkeley
+- ԲիԷսԴի
+- بی ایس ڈی
+- بیاسدی
+- توزيعة برمجيات بيركلي
+- বার্কলি সফটওয়্যার ডিস্ট্রিবিউশন
+- பெர்க்லி மென்பொருள் பரவல்
+- ബെർക്കീലി സോഫ്റ്റ്വെയർ വിതരണം
+- เบิร์กลีย์ซอฟต์แวร์ดิสทริบิวชัน
+- 버클리 소프트웨어 배포판(BSD)
 has_id_wikidata: Q34264
-developer: "[[_Standards/WikiData/WD~University_of_California,_Berkeley,168756]]"
-named_after: "[[_Standards/WikiData/WD~University_of_California,_Berkeley,168756]]"
-copyright_license: "[[_Standards/WikiData/WD~BSD_licenses,191307]]"
+developer: '[[_Standards/WikiData/WD~University_of_California,_Berkeley,168756]]'
+named_after: '[[_Standards/WikiData/WD~University_of_California,_Berkeley,168756]]'
+copyright_license: '[[_Standards/WikiData/WD~BSD_licenses,191307]]'
 followed_by:
-  - "[[_Standards/WikiData/WD~386BSD,228413]]"
-  - "[[_Standards/WikiData/WD~BSD_OS,336773]]"
-  - "[[_Standards/WikiData/WD~DEMOS,4153388]]"
-  - "[[_Standards/WikiData/WD~Q34225,34225]]"
-based_on: "[[_Standards/WikiData/WD~Research_Unix,2666693]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_the_Berkeley_Software_Distribution,9133389]]"
-copyright_status: "[[_Standards/WikiData/WD~copyrighted,50423863]]"
-different_from: "[[_Standards/WikiData/WD~BSD,58636917]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~English,1860]]"
-follows: "[[_Standards/WikiData/WD~Q11368,11368]]"
-instance_of: "[[_Standards/WikiData/WD~Q11368,11368]]"
-programmed_in: "[[_Standards/WikiData/WD~Q15777,15777]]"
+- '[[_Standards/WikiData/WD~386BSD,228413]]'
+- '[[_Standards/WikiData/WD~BSD_OS,336773]]'
+- '[[_Standards/WikiData/WD~DEMOS,4153388]]'
+- '[[_Standards/WikiData/WD~Q34225,34225]]'
+based_on: '[[_Standards/WikiData/WD~Research_Unix,2666693]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_the_Berkeley_Software_Distribution,9133389]]'
+copyright_status: '[[_Standards/WikiData/WD~copyrighted,50423863]]'
+different_from: '[[_Standards/WikiData/WD~BSD,58636917]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~English,1860]]'
+follows: '[[_Standards/WikiData/WD~Q11368,11368]]'
+instance_of: '[[_Standards/WikiData/WD~Q11368,11368]]'
+programmed_in: '[[_Standards/WikiData/WD~Q15777,15777]]'
 short_name: BSD
 inception: 1977-01-01T00:00:00Z
 subreddit: BSD
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/BSD%20wordmark.svg
 software_version_identifier: 4.4-Lite2
 Commons_category: Berkeley Software Distribution
+dv_has_:
+  name_:
+    ar: توزيعة برمجيات بيركلي
+    ast: BSD
+    az: Berkeley Software Distribution
+    bar: Berkeley Software Distribution
+    be: Berkeley Software Distribution
+    be-tarask: Berkeley Software Distribution
+    bg: BSD
+    bn: বার্কলি সফটওয়্যার ডিস্ট্রিবিউশন
+    bs: Berkeley Software Distribution
+    ca: BSD
+    cs: BSD
+    cv: BSD
+    da: Berkeley Software Distribution
+    de: Berkeley Software Distribution
+    el: Berkeley Software Distribution
+    en: Berkeley Software Distribution
+    eo: BSD
+    es: Berkeley Software Distribution
+    et: BSD
+    eu: BSD
+    fa: بیاسدی
+    fi: Berkeley Software Distribution
+    fr: Berkeley Software Distribution
+    gl: Berkeley Software Distribution
+    he: BSD
+    hr: Berkeley Software Distribution
+    hu: Berkeley Software Distribution
+    hy: ԲիԷսԴի
+    id: Berkeley Software Distribution
+    ilo: Berkeley Software Distribution
+    is: BSD
+    it: Berkeley Software Distribution
+    ja: BSD
+    ka: Berkeley Software Distribution
+    ko: 버클리 소프트웨어 배포판(BSD)
+    la: Berkeley Software Distribution
+    li: Berkeley Software Distribution
+    lld: Berkeley Software Distribution
+    lt: BSD
+    lv: BSD
+    mk: BSD Unix
+    ml: ബെർക്കീലി സോഫ്റ്റ്വെയർ വിതരണം
+    ms: Berkeley Software Distribution
+    mul: BSD
+    nan: BSD
+    nb: Berkeley Software Distribution
+    nl: Berkeley Software Distribution
+    nn: BSD
+    oc: Berkeley Software Distribution
+    pl: Berkeley Software Distribution
+    pms: Distribussion ëd Software ëd Berkeley
+    pt: Berkeley Software Distribution
+    qu: BSD
+    ro: BSD
+    ru: BSD
+    sc: BSD
+    sco: Berkeley Software Distribution
+    sh: Berkeley Software Distribution
+    sk: Berkeley Software Distribution
+    sl: Berkeley Software Distribution
+    sr: BSD
+    sv: Berkeley Software Distribution
+    ta: பெர்க்லி மென்பொருள் பரவல்
+    th: เบิร์กลีย์ซอฟต์แวร์ดิสทริบิวชัน
+    tr: BSD
+    tt: BSD
+    tt-cyrl: BSD
+    uk: Berkeley Software Distribution
+    ur: بی ایس ڈی
+    vec: BSD
+    vi: BSD
+    wuu: BSD
+    yi: BSD
+    yue: BSD
+    zh: BSD
+    zh-cn: BSD
 ---
-
 # [[BSD-Unix]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Berkeley_Software_Distribution,34264|WD~Berkeley_Software_Distribution,34264]] 

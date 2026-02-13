@@ -1,20 +1,58 @@
 ---
-has_time_started: 1938-01-01 
+has_time_started: 1938-01-01
 aliases:
-  - VW Käfer
-  - Volkswagen_Beetle
-  - Volkswagen Beetle
+- Folksvagen buba
+- Volkswagen Beetle
+- Volkswagen Bjalla
+- Volkswagen Bogár
+- Volkswagen Broscuță
+- Volkswagen Brouk
+- Volkswagen Buba
+- Volkswagen Chrobák
+- Volkswagen Coccinelle
+- Volkswagen Escarabat
+- Volkswagen Escaravello
+- Volkswagen Fusca
+- Volkswagen Garbus
+- Volkswagen Kever
+- Volkswagen Kupla
+- Volkswagen Käfer
+- Volkswagen Maggiolino
+- Volkswagen tipa 1
+- Volkswagen Tipo 1
+- Volkswagen Tipu 1
+- Volkswagen Typ 1
+- Volkswagen Type 1
+- Volkswagen_Beetle
+- VW Käfer
+- Фолксваген Буба
+- Фолксваген Каефер
+- Фольксваген Жук
+- חיפושית
+- فولكس فاغن بيتل
+- فولکس قورباغهای
+- فوکس ویگن بیٹل
+- فۆلکسڤاگن بیتل
+- वोक्सवैगन बीटल
+- โฟล์กสวาเกน บีเทิล
+- フォルクスワーゲン・タイプ1
+- 大众甲壳虫
+- 大眾甲殼蟲
+- 福士伟根甲壳虫
+- 福士甲蟲車
+- 福斯金龜車
+- 폭스바겐 비틀
 has_id_wikidata: Q152946
 manufacturer: '[[_Standards/WikiData/WD~Volkswagen_Group,156578]]'
 powered_by: '[[_Standards/WikiData/WD~gasoline_engine,502048]]'
 country_of_origin:
-  - '[[_Standards/WikiData/WD~West_Germany,713750]]'
-  - '[[_Standards/WikiData/WD~Nazi_Germany,7318]]'
-  - '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~West_Germany,713750]]'
+- '[[_Standards/WikiData/WD~Nazi_Germany,7318]]'
+- '[[_Standards/WikiData/WD~Germany,183]]'
 subclass_of: '[[_Standards/WikiData/WD~compact_car,946808]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~automobile_model,3231690]]'
-  - '[[_Standards/WikiData/WD~automobile_model_series,59773381]]'
+- '[[_Standards/WikiData/WD~automobile_model,3231690]]'
+- '[[_Standards/WikiData/WD~automobile_model_series,59773381]]'
 described_by_source: '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
 has_part_s_: '[[_Standards/WikiData/WD~frunk,104816707]]'
 commissioned_by: '[[_Standards/WikiData/WD~Nazi_Germany,7318]]'
@@ -35,8 +73,79 @@ IMDb_keyword: volkswagen-beetle
 start_time: 1938-01-01T00:00:00Z
 discontinued_date: 2003-07-30T00:00:00Z
 service_entry: 1936-01-01T00:00:00Z
+dv_has_:
+  name_:
+    af: Volkswagen Beetle
+    an: Volkswagen Beetle
+    ar: فولكس فاغن بيتل
+    ast: Volkswagen Tipu 1
+    az: Volkswagen Beetle
+    be: Volkswagen Käfer
+    be-tarask: Фольксваген Жук
+    bg: Volkswagen Käfer
+    br: Volkswagen Käfer
+    ca: Volkswagen Escarabat
+    ckb: فۆلکسڤاگن بیتل
+    cs: Volkswagen Brouk
+    da: Volkswagen Type 1
+    de: VW Käfer
+    el: Volkswagen Beetle
+    en: Volkswagen Beetle
+    eo: Volkswagen Tipo 1
+    es: Volkswagen Tipo 1
+    eu: Volkswagen Beetle
+    fa: فولکس قورباغهای
+    fi: Volkswagen Kupla
+    fr: Volkswagen Coccinelle
+    gl: Volkswagen Escaravello
+    he: חיפושית
+    hi: वोक्सवैगन बीटल
+    hr: Volkswagen Buba
+    hu: Volkswagen Bogár
+    id: Volkswagen Beetle
+    is: Volkswagen Bjalla
+    it: Volkswagen Maggiolino
+    ja: フォルクスワーゲン・タイプ1
+    jv: Volkswagen Beetle
+    ko: 폭스바겐 비틀
+    la: VW Käfer
+    lt: Volkswagen Beetle
+    mk: Фолксваген Буба
+    mn: Фолксваген Каефер
+    ms: Volkswagen Beetle
+    mul: Volkswagen Beetle
+    nah: Volkswagen Käfer
+    nb: Volkswagen Type 1
+    nl: Volkswagen Kever
+    pl: Volkswagen Garbus
+    pnb: فوکس ویگن بیٹل
+    pt: Volkswagen Fusca
+    ro: Volkswagen Broscuță
+    ru: Volkswagen Käfer
+    sco: Volkswagen Beetle
+    sh: Volkswagen Buba
+    sk: Volkswagen Chrobák
+    sl: Volkswagen tipa 1
+    sr: Фолксваген буба
+    sr-ec: Фолксваген буба
+    sr-el: Folksvagen buba
+    sv: Volkswagen Typ 1
+    th: โฟล์กสวาเกน บีเทิล
+    tly: Volkswagen Käfer
+    tr: Volkswagen Beetle
+    uk: Volkswagen Käfer
+    vi: Volkswagen Beetle
+    war: Volkswagen Beetle
+    wuu: 大众甲壳虫
+    yue: 福士甲蟲車
+    zh: 大众甲壳虫
+    zh-cn: 大众甲壳虫
+    zh-hans: 大众甲壳虫
+    zh-hant: 大眾甲殼蟲
+    zh-hk: 福士甲蟲車
+    zh-sg: 福士伟根甲壳虫
+    zh-tw: 福斯金龜車
 ---
-
 # [[Volkswagen_Beetle]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Volkswagen_Beetle,152946|WD~Volkswagen_Beetle,152946]]  

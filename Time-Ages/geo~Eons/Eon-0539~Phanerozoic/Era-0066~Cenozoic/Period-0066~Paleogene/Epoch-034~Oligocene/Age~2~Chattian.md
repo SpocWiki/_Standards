@@ -1,32 +1,48 @@
 ---
 aliases:
-  - Chattian
-  - Хат
-  - Chat
-  - Chattien
-  - Chattium
-  - Chattiense
-  - Chatti
-  - Chatt
-  - katti
-  - chattiano
-  - シャティアン期
-  - Chatis
-  - Chattiën
-  - Szat
-  - Chatiano
-  - chatt
-  - chattij
-  - 恰特期
+- Catià
+- Cattianu
+- Chat
+- Chatian
+- Chatiano
+- Chatianu
+- Chatis
+- Chatt
+- Chatti
+- Chattian
+- chattiano
+- Chattiar
+- Chattien
+- Chattiense
+- chattij
+- Chattium
+- Chattiën
+- Hat
+- Hatij
+- Hattu stāvs
+- katti
+- Szat
+- Tầng Chatti
+- Хат
+- хаттский ярус
+- Хаттський ярус
+- الخاتي
+- چاتین
+- シャティアン期
+- チャッティアン
+- 恰特期
+- 恰特阶
+- 恰特階
+- 카티절
 has_id_wikidata: Q502171
-named_by: "[[_Standards/WikiData/WD~Theodor_Fuchs,89937]]"
-named_after: "[[_Standards/WikiData/WD~Chatti,164076]]"
+named_by: '[[_Standards/WikiData/WD~Theodor_Fuchs,89937]]'
+named_after: '[[_Standards/WikiData/WD~Chatti,164076]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Chattian,24068513]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Chattian,133854302]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Chattian,24068513]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Chattian,133854302]]'
 end_time: -23030000-01-01T00:00:00Z
 start_time: -28100000-01-01T00:00:00Z
 Commons_category: Chattian
@@ -34,60 +50,83 @@ sRGB_color_hex_triplet: FEE4B2
 coordinate_location: Point(12.467730555 43.646613888)
 dv_has_:
   duration_:
-    years: "4.790e+6"
-  previous_:
-    item: "[[Age~1~Rupelian]]"
-  next_:
-    item: "[[../../Period-0023~Neogene/Epoch-023~Miocene/Age~1~Aquitanian|Age~1~Aquitanian]]"
+    years: 4.790e+6
   name_:
+    abbreviated: e9
+    af: Chattium
+    ar: الخاتي
+    ast: Chatianu
     bg: Хат
+    bs: Hatij
+    ca: Catià
     cs: Chat
     da: Chattien
     de: Chattium
+    en: Chattian
     es: Chattiense
     et: Chatti
+    eu: Chattiar
+    fa: چاتین
     fi: Chatt
     fr: Chattien
+    gl: Chattiano
     hu: katti
-    it: chattiano
-    ja: シャティアン期
+    id: Chattium
+    it: Chattiano
+    ja: チャッティアン
+    ko: 카티절
     lt: Chatis
-    nl: Chattiën
+    lv: Hattu stāvs
+    nds: Chattium
+    nl: Chattien
+    nn: chatt
     no: Chattium
-    pl: Szat
-    pt: Chatiano
+    pl: szat
+    pt: Chattiano
+    ru: хаттский ярус
+    scn: Cattianu
+    sh: Hat
     sk: chatt
     sl: chattij
     sv: chatt
+    uk: Хаттський ярус
+    vec: Chatian
+    vi: Tầng Chatti
     zh: 恰特期
-    abbreviated: e9
-  time_:
-    started: "-27.82e6"
-    stopped: "-23.03e6"
+    zh-hans: 恰特阶
+    zh-hant: 恰特階
+    zh-hk: 恰特階
+  next_:
+    item: '[[../../Period-0023~Neogene/Epoch-023~Miocene/Age~1~Aquitanian|Age~1~Aquitanian]]'
+  previous_:
+    item: '[[Age~1~Rupelian]]'
   text_of_:
-    color: "0xFEE6AA"
+    color: 0xFEE6AA
+  time_:
+    started: -27.82e6
+    stopped: -23.03e6
 dv_is_:
   same_as:
-    - "[[WD~Chattian,502171]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~2~Chattian|Age~2~Chattian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~2~Chattian.public|Age~2~Chattian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~2~Chattian.internal|Age~2~Chattian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~2~Chattian.protect|Age~2~Chattian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~2~Chattian.private|Age~2~Chattian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~2~Chattian.personal|Age~2~Chattian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~2~Chattian.secret|Age~2~Chattian.secret]]"
-dv_has_duration_years: "4.790e+6"
-dv_has_previous_item: "[[Age~1~Rupelian]]"
-dv_has_next_item: "[[../../Period-0023~Neogene/Epoch-023~Miocene/Age~1~Aquitanian|Age~1~Aquitanian]]"
+  - '[[WD~Chattian,502171]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~2~Chattian|Age~2~Chattian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~2~Chattian.public|Age~2~Chattian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~2~Chattian.internal|Age~2~Chattian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~2~Chattian.protect|Age~2~Chattian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~2~Chattian.private|Age~2~Chattian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~2~Chattian.personal|Age~2~Chattian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~2~Chattian.secret|Age~2~Chattian.secret]]'
+dv_has_duration_years: 4.790e+6
+dv_has_previous_item: '[[Age~1~Rupelian]]'
+dv_has_next_item: '[[../../Period-0023~Neogene/Epoch-023~Miocene/Age~1~Aquitanian|Age~1~Aquitanian]]'
 dv_is_same_as:
-  - "[[WD~Chattian,502171]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~2~Chattian|Age~2~Chattian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~2~Chattian.public|Age~2~Chattian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~2~Chattian.internal|Age~2~Chattian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~2~Chattian.protect|Age~2~Chattian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~2~Chattian.private|Age~2~Chattian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~2~Chattian.personal|Age~2~Chattian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~2~Chattian.secret|Age~2~Chattian.secret]]"
+- '[[WD~Chattian,502171]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~2~Chattian|Age~2~Chattian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~2~Chattian.public|Age~2~Chattian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~2~Chattian.internal|Age~2~Chattian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~2~Chattian.protect|Age~2~Chattian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~2~Chattian.private|Age~2~Chattian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~2~Chattian.personal|Age~2~Chattian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~2~Chattian.secret|Age~2~Chattian.secret]]'
 dv_has_name_bg: Хат
 dv_has_name_cs: Chat
 dv_has_name_da: Chattien
@@ -109,9 +148,9 @@ dv_has_name_sl: chattij
 dv_has_name_sv: chatt
 dv_has_name_zh: 恰特期
 dv_has_name_abbreviated: e9
-dv_has_time_started: "-27.82e6"
-dv_has_time_stopped: "-23.03e6"
-dv_has_text_of_color: "0xFEE6AA"
+dv_has_time_started: -27.82e6
+dv_has_time_stopped: -23.03e6
+dv_has_text_of_color: 0xFEE6AA
 ---
 # [[Age~2~Chattian]] 
 

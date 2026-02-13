@@ -1,86 +1,112 @@
 ---
 aliases:
-  - Wenlock
-  - Венлок
-  - wenlocki
-  - wenlockiano
-  - ウェンロッキアン世
-  - Uenlokis
-  - Welnlock
-  - Wenlok
-  - wenlock
-  - wenlockij
-  - 温洛克世
+- Sealad Wenlock
+- Thế Wenlock
+- Uenlokis
+- venlok
+- Welnlock
+- Wenlock
+- Wenlock (geologi)
+- Wenlock (kala)
+- wenlocki
+- wenlockiano
+- wenlockij
+- Wenlockià
+- Wenlok
+- Венлок
+- венлокская эпоха
+- Венлокський ярус
+- ونلاک
+- وينلوك
+- ウェンロッキアン世
+- ウェンロック
+- 文洛克世
+- 温洛克世
 has_id_wikidata: Q1064996
 instance_of:
-  - "[[_Standards/WikiData/WD~series,312468]]"
-  - "[[_Standards/WikiData/WD~epoch,754897]]"
+- '[[_Standards/WikiData/WD~series,312468]]'
+- '[[_Standards/WikiData/WD~epoch,754897]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Wenlock_epoch,30869282]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Wenlock_epoch,30869282]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 start_time: -433400000-01-01T00:00:00Z
 sRGB_color_hex_triplet: A4E0D0
 Commons_category: Wenlock Epoch
 end_time: -427400000-01-01T00:00:00Z
 dv_has_:
   duration_:
-    years: "6.000e+6"
-  previous_:
-    item: "[[Epoch-443~Llandovery]]"
-  next_:
-    item: "[[Epoch-427~Ludlow]]"
+    years: 6.000e+6
   name_:
+    abbreviated: S2
+    ar: وينلوك
     bg: Венлок
-    cs: Wenlock
+    ca: Wenlockià
+    cs: wenlock
     da: Wenlock
     de: Wenlock
+    en: Wenlock
     es: Wenlock
     et: Wenlock
+    fa: ونلاک
     fi: Wenlock
     fr: Wenlock
+    ga: Sealad Wenlock
+    hr: venlok
     hu: wenlocki
-    it: wenlockiano
-    ja: ウェンロッキアン世
+    id: Wenlock (kala)
+    it: Wenlock
+    ja: ウェンロック
     lt: Uenlokis
+    ms: Wenlock (geologi)
     nl: Wenlock
+    nn: wenlock
     no: Welnlock
     pl: Wenlok
     pt: Wenlock
+    ru: венлокская эпоха
     sk: wenlock
     sl: wenlockij
-    sv: wenlock
-    zh: 温洛克世
-    abbreviated: S2
-  time_:
-    started: "-433.4e6"
-    stopped: "-427.4e6"
+    sv: Wenlock
+    uk: Венлокський ярус
+    vi: Thế Wenlock
+    zh: 文洛克世
+    zh-cn: 文洛克世
+    zh-hans: 文洛克世
+    zh-hant: 文洛克世
+  next_:
+    item: '[[Epoch-427~Ludlow]]'
+  previous_:
+    item: '[[Epoch-443~Llandovery]]'
   text_of_:
-    color: "0xB3E1C2"
+    color: 0xB3E1C2
+  time_:
+    started: -433.4e6
+    stopped: -427.4e6
 dv_is_:
   same_as:
-    - "[[WD~Wenlock,1064996]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock|Epoch-433~Wenlock]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock.public|Epoch-433~Wenlock.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock.internal|Epoch-433~Wenlock.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock.protect|Epoch-433~Wenlock.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock.private|Epoch-433~Wenlock.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock.personal|Epoch-433~Wenlock.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock.secret|Epoch-433~Wenlock.secret]]"
-dv_has_duration_years: "6.000e+6"
-dv_has_previous_item: "[[Epoch-443~Llandovery]]"
-dv_has_next_item: "[[Epoch-427~Ludlow]]"
+  - '[[WD~Wenlock,1064996]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock|Epoch-433~Wenlock]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock.public|Epoch-433~Wenlock.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock.internal|Epoch-433~Wenlock.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock.protect|Epoch-433~Wenlock.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock.private|Epoch-433~Wenlock.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock.personal|Epoch-433~Wenlock.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock.secret|Epoch-433~Wenlock.secret]]'
+dv_has_duration_years: 6.000e+6
+dv_has_previous_item: '[[Epoch-443~Llandovery]]'
+dv_has_next_item: '[[Epoch-427~Ludlow]]'
 dv_is_same_as:
-  - "[[WD~Wenlock,1064996]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock|Epoch-433~Wenlock]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock.public|Epoch-433~Wenlock.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock.internal|Epoch-433~Wenlock.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock.protect|Epoch-433~Wenlock.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock.private|Epoch-433~Wenlock.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock.personal|Epoch-433~Wenlock.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock.secret|Epoch-433~Wenlock.secret]]"
+- '[[WD~Wenlock,1064996]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock|Epoch-433~Wenlock]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock.public|Epoch-433~Wenlock.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock.internal|Epoch-433~Wenlock.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock.protect|Epoch-433~Wenlock.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock.private|Epoch-433~Wenlock.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock.personal|Epoch-433~Wenlock.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock.secret|Epoch-433~Wenlock.secret]]'
 dv_has_name_bg: Венлок
 dv_has_name_cs: Wenlock
 dv_has_name_da: Wenlock
@@ -102,11 +128,10 @@ dv_has_name_sl: wenlockij
 dv_has_name_sv: wenlock
 dv_has_name_zh: 温洛克世
 dv_has_name_abbreviated: S2
-dv_has_time_started: "-433.4e6"
-dv_has_time_stopped: "-427.4e6"
-dv_has_text_of_color: "0xB3E1C2"
+dv_has_time_started: -433.4e6
+dv_has_time_stopped: -427.4e6
+dv_has_text_of_color: 0xB3E1C2
 ---
-
 # [[Epoch-433~Wenlock]] 
 
 #is_a_/time_/Epoch 

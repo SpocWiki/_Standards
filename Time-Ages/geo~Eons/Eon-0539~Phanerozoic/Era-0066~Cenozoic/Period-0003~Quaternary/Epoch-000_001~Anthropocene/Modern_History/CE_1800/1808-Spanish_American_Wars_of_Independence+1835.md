@@ -1,50 +1,147 @@
 ---
 aliases:
-  - Spanish American Wars of Independence
-  - 1808-Spanish_American_Wars_of_Independence+1835
-  - 1808-Spanish American Wars of Independence+1835
+- 1808-Spanish American Wars of Independence+1835
+- 1808-Spanish_American_Wars_of_Independence+1835
+- Ameriketako Espainiar lurraldeen independentzia gerrak
+- Bella libertatis Hispano-Americana
+- Borba za neovisnost Latinske Amerike
+- Borba za nezavisnost Latinske Amerike
+- Borba za nezavisnost zemalja Latinske Amerike
+- Chiến tranh giành độc lập châu Mỹ Tây Ban Nha
+- De hispanoamerikanske uavhengighetskrigene
+- Espanjalaisen Amerikan itsenäisyyssodat
+- guerras de independencia hispanoamericanas
+- guerras de independência na América espanhola
+- guerre d'indipendenza ispanoamericane
+- guerres d'independencia hispanoamericanes
+- guerres d'independència hispanoamericanes
+- Guerres d'indépendance hispano-américaines
+- Hispanoamerické války za nezávislost
+- Ispanijų kolonijų Amerikoje nepriklausomybės kovos
+- Ispaña Amirika Kacharikuna Awqanakuy
+- Perang Kemerdekaan Amerika Spanyol
+- Războaiele de independență ale statelor hispano-americane
+- Sendependigo de Hispanameriko
+- Spaans-Amerikaanse onafhankelijkheidsoorlogen
+- Spaans-Amerikaanse Vryheidsoorloë
+- Spanish American Wars of Independence
+- Spansk-amerikanske frihedskrig
+- Spanskamerikanska självständighetskrigen
+- südamerikanische Unabhängigkeitskriege
+- wojna kolonii hiszpańskich o niepodległość
+- İspanyol-Amerikan bağımsızlık savaşı
+- Şerê Serxwebûnê ya Spanî Amerîkî
+- špansko-ameriške vojne za neodvisnost
+- Ισπανοαμερικανικοί πόλεμοι ανεξαρτησίας
+- Борба за независност Латинске Америке
+- Війна за незалежність іспанських колоній в Америці
+- Вайна гішпанаамэрыканскіх калёніяў за незалежнасьць
+- Вайна за незалежнасць іспанскіх калоній у Амерыцы
+- Война за независимость испанских колоний в Америке
+- Латиноамерикански војни за независност
+- Իսպանական գաղութների անկախության պատերազմ Ամերիկայում
+- מלחמות העצמאות באמריקה הספרדית
+- جنگهای استقلال آمریکا از اسپانیا
+- حروب استقلال أمريكا الإسبانية
+- د خپلواکۍاسپانيايي امريکايي جګړې
+- எசுப்பானிய அமெரிக்காவில் விடுதலைப் போர்கள்
+- ომი დამოუკიდებლობისათვის ესპანეთის ამერიკულ კოლონიებში
+- イスパノアメリカ独立戦争
+- 西班牙美洲獨立戰爭
+- 스페인령 아메리카 독립 전쟁
 has_id_wikidata: Q1123201
 participant:
-  - "[[_Standards/WikiData/WD~Spanish_Empire,80702]]"
-  - "[[_Standards/WikiData/WD~Gran_Colombia,199821]]"
-  - "[[_Standards/WikiData/WD~First_Mexican_Empire,285658]]"
-  - "[[_Standards/WikiData/WD~United_Provinces_of_the_Río_de_la_Plata,738144]]"
-  - "[[_Standards/WikiData/WD~Chile,298]]"
-  - "[[_Standards/WikiData/WD~Peru,419]]"
-  - "[[_Standards/WikiData/WD~Bolivia,750]]"
-locations: "[[_Standards/WikiData/WD~Hispanic_America,653884]]"
-part_of: "[[_Standards/WikiData/WD~Atlantic_Revolutions,3108868]]"
-order_of_battle: "[[_Standards/WikiData/WD~Spanish_expeditionary_army_(Spanish_American_independence)_order_of_battle,7573367]]"
+- '[[_Standards/WikiData/WD~Spanish_Empire,80702]]'
+- '[[_Standards/WikiData/WD~Gran_Colombia,199821]]'
+- '[[_Standards/WikiData/WD~First_Mexican_Empire,285658]]'
+- '[[_Standards/WikiData/WD~United_Provinces_of_the_Río_de_la_Plata,738144]]'
+- '[[_Standards/WikiData/WD~Chile,298]]'
+- '[[_Standards/WikiData/WD~Peru,419]]'
+- '[[_Standards/WikiData/WD~Bolivia,750]]'
+locations: '[[_Standards/WikiData/WD~Hispanic_America,653884]]'
+part_of: '[[_Standards/WikiData/WD~Atlantic_Revolutions,3108868]]'
+order_of_battle: '[[_Standards/WikiData/WD~Spanish_expeditionary_army_(Spanish_American_independence)_order_of_battle,7573367]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~series_of_wars,104212151]]"
-  - "[[_Standards/WikiData/WD~civil_war,8465]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]"
+- '[[_Standards/WikiData/WD~series_of_wars,104212151]]'
+- '[[_Standards/WikiData/WD~civil_war,8465]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
 end_time: 1833-09-29T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Independencia.gif
 Commons_category: Spanish American wars of independence
 start_time: 1808-09-25T00:00:00Z
 dv_is_:
   same_as:
-    - "[[../../../../../../../../WikiData/WD~Spanish_American_Wars_of_Independence,1123201|WD~Spanish_American_Wars_of_Independence,1123201]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1808-Spanish_American_Wars_of_Independence+1835|1808-Spanish_American_Wars_of_Independence+1835]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1808-Spanish_American_Wars_of_Independence+1835.public|1808-Spanish_American_Wars_of_Independence+1835.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1808-Spanish_American_Wars_of_Independence+1835.internal|1808-Spanish_American_Wars_of_Independence+1835.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1808-Spanish_American_Wars_of_Independence+1835.protect|1808-Spanish_American_Wars_of_Independence+1835.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1808-Spanish_American_Wars_of_Independence+1835.private|1808-Spanish_American_Wars_of_Independence+1835.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1808-Spanish_American_Wars_of_Independence+1835.personal|1808-Spanish_American_Wars_of_Independence+1835.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1808-Spanish_American_Wars_of_Independence+1835.secret|1808-Spanish_American_Wars_of_Independence+1835.secret]]"
+  - '[[../../../../../../../../WikiData/WD~Spanish_American_Wars_of_Independence,1123201|WD~Spanish_American_Wars_of_Independence,1123201]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1808-Spanish_American_Wars_of_Independence+1835|1808-Spanish_American_Wars_of_Independence+1835]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1808-Spanish_American_Wars_of_Independence+1835.public|1808-Spanish_American_Wars_of_Independence+1835.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1808-Spanish_American_Wars_of_Independence+1835.internal|1808-Spanish_American_Wars_of_Independence+1835.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1808-Spanish_American_Wars_of_Independence+1835.protect|1808-Spanish_American_Wars_of_Independence+1835.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1808-Spanish_American_Wars_of_Independence+1835.private|1808-Spanish_American_Wars_of_Independence+1835.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1808-Spanish_American_Wars_of_Independence+1835.personal|1808-Spanish_American_Wars_of_Independence+1835.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1808-Spanish_American_Wars_of_Independence+1835.secret|1808-Spanish_American_Wars_of_Independence+1835.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Spanish_American_Wars_of_Independence,1123201|WD~Spanish_American_Wars_of_Independence,1123201]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1808-Spanish_American_Wars_of_Independence+1835|1808-Spanish_American_Wars_of_Independence+1835]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1808-Spanish_American_Wars_of_Independence+1835.public|1808-Spanish_American_Wars_of_Independence+1835.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1808-Spanish_American_Wars_of_Independence+1835.internal|1808-Spanish_American_Wars_of_Independence+1835.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1808-Spanish_American_Wars_of_Independence+1835.protect|1808-Spanish_American_Wars_of_Independence+1835.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1808-Spanish_American_Wars_of_Independence+1835.private|1808-Spanish_American_Wars_of_Independence+1835.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1808-Spanish_American_Wars_of_Independence+1835.personal|1808-Spanish_American_Wars_of_Independence+1835.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1808-Spanish_American_Wars_of_Independence+1835.secret|1808-Spanish_American_Wars_of_Independence+1835.secret]]"
+- '[[../../../../../../../../WikiData/WD~Spanish_American_Wars_of_Independence,1123201|WD~Spanish_American_Wars_of_Independence,1123201]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1808-Spanish_American_Wars_of_Independence+1835|1808-Spanish_American_Wars_of_Independence+1835]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1808-Spanish_American_Wars_of_Independence+1835.public|1808-Spanish_American_Wars_of_Independence+1835.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1808-Spanish_American_Wars_of_Independence+1835.internal|1808-Spanish_American_Wars_of_Independence+1835.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1808-Spanish_American_Wars_of_Independence+1835.protect|1808-Spanish_American_Wars_of_Independence+1835.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1808-Spanish_American_Wars_of_Independence+1835.private|1808-Spanish_American_Wars_of_Independence+1835.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1808-Spanish_American_Wars_of_Independence+1835.personal|1808-Spanish_American_Wars_of_Independence+1835.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1808-Spanish_American_Wars_of_Independence+1835.secret|1808-Spanish_American_Wars_of_Independence+1835.secret]]'
+dv_has_:
+  name_:
+    af: Spaans-Amerikaanse Vryheidsoorloë
+    ar: حروب استقلال أمريكا الإسبانية
+    ast: guerres d'independencia hispanoamericanes
+    be: Вайна за незалежнасць іспанскіх калоній у Амерыцы
+    be-tarask: Вайна гішпанаамэрыканскіх калёніяў за незалежнасьць
+    bs: Borba za nezavisnost zemalja Latinske Amerike
+    ca: guerres d'independència hispanoamericanes
+    cs: Hispanoamerické války za nezávislost
+    da: Spansk-amerikanske frihedskrig
+    de: südamerikanische Unabhängigkeitskriege
+    el: Ισπανοαμερικανικοί πόλεμοι ανεξαρτησίας
+    en: Spanish American wars of independence
+    eo: Sendependigo de Hispanameriko
+    es: guerras de independencia hispanoamericanas
+    eu: Ameriketako Espainiar lurraldeen independentzia gerrak
+    fa: جنگهای استقلال آمریکا از اسپانیا
+    fi: Espanjalaisen Amerikan itsenäisyyssodat
+    fr: Guerres d'indépendance hispano-américaines
+    gl: guerras de independencia hispanoamericanas
+    he: מלחמות העצמאות באמריקה הספרדית
+    hr: Borba za neovisnost Latinske Amerike
+    hy: Իսպանական գաղութների անկախության պատերազմ Ամերիկայում
+    id: Perang Kemerdekaan Amerika Spanyol
+    it: guerre d'indipendenza ispanoamericane
+    ja: イスパノアメリカ独立戦争
+    ka: ომი დამოუკიდებლობისათვის ესპანეთის ამერიკულ კოლონიებში
+    ko: 스페인령 아메리카 독립 전쟁
+    ku: Şerê Serxwebûnê ya Spanî Amerîkî
+    la: Bella libertatis Hispano-Americana
+    lt: Ispanijų kolonijų Amerikoje nepriklausomybės kovos
+    mk: Латиноамерикански војни за независност
+    nb: De hispanoamerikanske uavhengighetskrigene
+    nl: Spaans-Amerikaanse onafhankelijkheidsoorlogen
+    pl: wojna kolonii hiszpańskich o niepodległość
+    ps: د خپلواکۍاسپانيايي امريکايي جګړې
+    pt: guerras de independência na América espanhola
+    pt-br: guerras de independência na América espanhola
+    qu: Ispaña Amirika Kacharikuna Awqanakuy
+    ro: Războaiele de independență ale statelor hispano-americane
+    ru: Война за независимость испанских колоний в Америке
+    sh: Borba za nezavisnost Latinske Amerike
+    sl: špansko-ameriške vojne za neodvisnost
+    sr: Борба за независност Латинске Америке
+    sr-ec: Борба за независност Латинске Америке
+    sr-el: Borba za nezavisnost Latinske Amerike
+    sv: Spanskamerikanska självständighetskrigen
+    ta: எசுப்பானிய அமெரிக்காவில் விடுதலைப் போர்கள்
+    tr: İspanyol-Amerikan bağımsızlık savaşı
+    uk: Війна за незалежність іспанських колоній в Америці
+    vi: Chiến tranh giành độc lập châu Mỹ Tây Ban Nha
+    zh: 西班牙美洲獨立戰爭
 ---
-
-
 # [[1808-Spanish_American_Wars_of_Independence+1835]]
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Spanish_American_Wars_of_Independence,1123201|WD~Spanish_American_Wars_of_Independence,1123201]]

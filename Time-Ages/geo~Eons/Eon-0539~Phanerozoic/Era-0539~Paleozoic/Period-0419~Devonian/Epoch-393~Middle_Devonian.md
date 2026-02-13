@@ -1,92 +1,114 @@
 ---
 aliases:
-  - Middle_Devonian
-  - Middle Devonian
-  - Среден Девон
-  - Střední devon
-  - Mellem Devon
-  - Mitteldevon
-  - Devónico Medio
-  - Kesk-Devon
-  - Keski-Devoni
-  - Dévonien moyen
-  - középső-devon
-  - devoniano medio
-  - 中期デボン紀
-  - Vidurinis Devonas
-  - Midden Devoon
-  - Midtre devon
-  - Środkowy Dewon
-  - Devónico Médio
-  - stredný devón
-  - srednji devon
-  - mellersta devon
-  - 中泥盆世
+- an Sealad Deavónach Meánach
+- Devon Tengah
+- devoniano medio
+- Devoniano Médio
+- Devoniar ertaina
+- Devónico Medio
+- Devónico Médio
+- Dewon środkowy
+- Dévonien moyen
+- Kesk-Devon
+- keskdevon
+- Keski-Devoni
+- középső devon
+- középső-devon
+- Mellem Devon
+- mellersta devon
+- meza devonio
+- Midden Devoon
+- Midden-Devoon
+- Middle Devonian
+- Middle_Devonian
+- Midtre devon
+- Mitteldevon
+- Mittleres Devon
+- srednji devon
+- stredný devón
+- Střední devon
+- Vidurinis Devonas
+- Vidusdevons
+- Środkowy Dewon
+- Среден Девон
+- средний девон
+- الديفوني الأوسط
+- 中期デボン紀
+- 中泥盆世
 has_id_wikidata: Q731313
 instance_of:
-  - "[[_Standards/WikiData/WD~series,312468]]"
-  - "[[_Standards/WikiData/WD~epoch,754897]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q49763553,49763553]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+- '[[_Standards/WikiData/WD~series,312468]]'
+- '[[_Standards/WikiData/WD~epoch,754897]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q49763553,49763553]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 start_time: -393300000-01-01T00:00:00Z
 end_time: -382700000-01-01T00:00:00Z
 sRGB_color_hex_triplet: F6C87A
 dv_has_:
   duration_:
-    years: "1.060e+7"
-  previous_:
-    item: "[[Epoch-419~Early_Devonian]]"
-  next_:
-    item: "[[Epoch-382~Late_Devonian]]"
+    years: 1.060e+7
   name_:
+    abbreviated: D2
+    ar: الديفوني الأوسط
     bg: Среден Девон
-    cs: Střední devon
+    cs: střední devon
     da: Mellem Devon
-    de: Mitteldevon
+    de: Mittleres Devon
+    en: Middle Devonian
+    eo: meza devonio
     es: Devónico Medio
-    et: Kesk-Devon
+    et: keskdevon
+    eu: Devoniar ertaina
     fi: Keski-Devoni
     fr: Dévonien moyen
-    hu: középső-devon
-    it: devoniano medio
+    ga: an Sealad Deavónach Meánach
+    hu: középső devon
+    id: Devon Tengah
+    it: Devoniano medio
     ja: 中期デボン紀
     lt: Vidurinis Devonas
-    nl: Midden Devoon
+    lv: Vidusdevons
+    nl: Midden-Devoon
+    nn: midtre devon
     no: Midtre devon
-    pl: Środkowy Dewon
-    pt: Devónico Médio
+    pl: Dewon środkowy
+    pt: Devoniano Médio
+    ru: средний девон
     sk: stredný devón
     sl: srednji devon
     sv: mellersta devon
     zh: 中泥盆世
-    abbreviated: D2
-  time_:
-    started: "-393.3e6"
-    stopped: "-382.7e6"
+  next_:
+    item: '[[Epoch-382~Late_Devonian]]'
+  previous_:
+    item: '[[Epoch-419~Early_Devonian]]'
   text_of_:
-    color: "0xF1C868"
+    color: 0xF1C868
+  time_:
+    started: -393.3e6
+    stopped: -382.7e6
 dv_is_:
   same_as:
-    - "[[WD~Middle_Devonian,731313]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian|Epoch-393~Middle_Devonian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian.public|Epoch-393~Middle_Devonian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian.internal|Epoch-393~Middle_Devonian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian.protect|Epoch-393~Middle_Devonian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian.private|Epoch-393~Middle_Devonian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian.personal|Epoch-393~Middle_Devonian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian.secret|Epoch-393~Middle_Devonian.secret]]"
-dv_has_duration_years: "1.060e+7"
-dv_has_previous_item: "[[Epoch-419~Early_Devonian]]"
-dv_has_next_item: "[[Epoch-382~Late_Devonian]]"
+  - '[[WD~Middle_Devonian,731313]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian|Epoch-393~Middle_Devonian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian.public|Epoch-393~Middle_Devonian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian.internal|Epoch-393~Middle_Devonian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian.protect|Epoch-393~Middle_Devonian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian.private|Epoch-393~Middle_Devonian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian.personal|Epoch-393~Middle_Devonian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian.secret|Epoch-393~Middle_Devonian.secret]]'
+dv_has_duration_years: 1.060e+7
+dv_has_previous_item: '[[Epoch-419~Early_Devonian]]'
+dv_has_next_item: '[[Epoch-382~Late_Devonian]]'
 dv_is_same_as:
-  - "[[WD~Middle_Devonian,731313]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian|Epoch-393~Middle_Devonian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian.public|Epoch-393~Middle_Devonian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian.internal|Epoch-393~Middle_Devonian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian.protect|Epoch-393~Middle_Devonian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian.private|Epoch-393~Middle_Devonian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian.personal|Epoch-393~Middle_Devonian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian.secret|Epoch-393~Middle_Devonian.secret]]"
+- '[[WD~Middle_Devonian,731313]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian|Epoch-393~Middle_Devonian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian.public|Epoch-393~Middle_Devonian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian.internal|Epoch-393~Middle_Devonian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian.protect|Epoch-393~Middle_Devonian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian.private|Epoch-393~Middle_Devonian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian.personal|Epoch-393~Middle_Devonian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian.secret|Epoch-393~Middle_Devonian.secret]]'
 dv_has_name_bg: Среден Девон
 dv_has_name_cs: Střední devon
 dv_has_name_da: Mellem Devon
@@ -108,9 +130,9 @@ dv_has_name_sl: srednji devon
 dv_has_name_sv: mellersta devon
 dv_has_name_zh: 中泥盆世
 dv_has_name_abbreviated: D2
-dv_has_time_started: "-393.3e6"
-dv_has_time_stopped: "-382.7e6"
-dv_has_text_of_color: "0xF1C868"
+dv_has_time_started: -393.3e6
+dv_has_time_stopped: -382.7e6
+dv_has_text_of_color: 0xF1C868
 ---
 # [[Epoch-393~Middle_Devonian]] 
 

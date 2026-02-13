@@ -1,80 +1,109 @@
 ---
 aliases:
-  - Ludlow
-  - Лудлоу
-  - ludlowi
-  - ludlow
-  - ルーロビアン世
-  - Ludlovis
-  - ludlowij
-  - 卢德洛世
+- ladlov
+- Ludlov yarusi
+- Ludlovis
+- Ludlow
+- Ludlow (kala)
+- Ludlow-epookki
+- ludlowi
+- ludlowij
+- Ludlowià
+- Ludluvianu
+- Sealad Ludlow
+- Thế Ludlow
+- лудловская эпоха
+- Лудловська епоха
+- Лудлоу
+- دور لودلاو
+- لودلو
+- ラドロー世
+- ルーロビアン世
+- 卢德洛世
+- 羅德洛世
+- 러들로세
 has_id_wikidata: Q1065155
 instance_of:
-  - "[[_Standards/WikiData/WD~series,312468]]"
-  - "[[_Standards/WikiData/WD~epoch,754897]]"
-named_after: "[[_Standards/WikiData/WD~Ludlow,839811]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Ludlow_epoch,30869538]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+- '[[_Standards/WikiData/WD~series,312468]]'
+- '[[_Standards/WikiData/WD~epoch,754897]]'
+named_after: '[[_Standards/WikiData/WD~Ludlow,839811]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Ludlow_epoch,30869538]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 sRGB_color_hex_triplet: B4E5DB
 Commons_category: Ludlow Epoch
 start_time: -427400000-01-01T00:00:00Z
 end_time: -423000000-01-01T00:00:00Z
 dv_has_:
   duration_:
-    years: "8.200e+6"
-  previous_:
-    item: "[[Epoch-433~Wenlock]]"
-  next_:
-    item: "[[Epoch-423~Pridoli]]"
+    years: 8.200e+6
   name_:
+    abbreviated: S3
+    ar: لودلو
     bg: Лудлоу
+    ca: Ludlowià
     cs: Ludlow
     da: Ludlow
     de: Ludlow
+    en: Ludlow
     es: Ludlow
     et: Ludlow
-    fi: Ludlow
+    fa: دور لودلاو
+    fi: Ludlow-epookki
     fr: Ludlow
+    ga: Sealad Ludlow
+    hr: ladlov
     hu: ludlowi
-    it: ludlow
-    ja: ルーロビアン世
+    id: Ludlow (kala)
+    it: Ludlow
+    ja: ラドロー世
+    ko: 러들로세
     lt: Ludlovis
     nl: Ludlow
+    nn: ludlow
     no: Ludlow
     pl: Ludlow
     pt: Ludlow
+    ru: лудловская эпоха
+    scn: Ludluvianu
     sk: ludlow
     sl: ludlowij
-    sv: ludlow
-    zh: 卢德洛世
-    abbreviated: S3
-  time_:
-    started: "-427.4e6"
-    stopped: "-419.2e6"
+    sv: Ludlow
+    uk: Лудловська епоха
+    uz: Ludlov yarusi
+    vi: Thế Ludlow
+    zh: 羅德洛世
+    zh-tw: 羅德洛世
+  next_:
+    item: '[[Epoch-423~Pridoli]]'
+  previous_:
+    item: '[[Epoch-433~Wenlock]]'
   text_of_:
-    color: "0xBFE6CF"
+    color: 0xBFE6CF
+  time_:
+    started: -427.4e6
+    stopped: -419.2e6
 dv_is_:
   same_as:
-    - "[[WD~Ludlow,1065155]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow|Epoch-427~Ludlow]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow.public|Epoch-427~Ludlow.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow.internal|Epoch-427~Ludlow.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow.protect|Epoch-427~Ludlow.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow.private|Epoch-427~Ludlow.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow.personal|Epoch-427~Ludlow.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow.secret|Epoch-427~Ludlow.secret]]"
-dv_has_duration_years: "8.200e+6"
-dv_has_previous_item: "[[Epoch-433~Wenlock]]"
-dv_has_next_item: "[[Epoch-423~Pridoli]]"
+  - '[[WD~Ludlow,1065155]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow|Epoch-427~Ludlow]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow.public|Epoch-427~Ludlow.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow.internal|Epoch-427~Ludlow.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow.protect|Epoch-427~Ludlow.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow.private|Epoch-427~Ludlow.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow.personal|Epoch-427~Ludlow.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow.secret|Epoch-427~Ludlow.secret]]'
+dv_has_duration_years: 8.200e+6
+dv_has_previous_item: '[[Epoch-433~Wenlock]]'
+dv_has_next_item: '[[Epoch-423~Pridoli]]'
 dv_is_same_as:
-  - "[[WD~Ludlow,1065155]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow|Epoch-427~Ludlow]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow.public|Epoch-427~Ludlow.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow.internal|Epoch-427~Ludlow.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow.protect|Epoch-427~Ludlow.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow.private|Epoch-427~Ludlow.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow.personal|Epoch-427~Ludlow.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow.secret|Epoch-427~Ludlow.secret]]"
+- '[[WD~Ludlow,1065155]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow|Epoch-427~Ludlow]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow.public|Epoch-427~Ludlow.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow.internal|Epoch-427~Ludlow.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow.protect|Epoch-427~Ludlow.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow.private|Epoch-427~Ludlow.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow.personal|Epoch-427~Ludlow.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow.secret|Epoch-427~Ludlow.secret]]'
 dv_has_name_bg: Лудлоу
 dv_has_name_cs: Ludlow
 dv_has_name_da: Ludlow
@@ -96,11 +125,10 @@ dv_has_name_sl: ludlowij
 dv_has_name_sv: ludlow
 dv_has_name_zh: 卢德洛世
 dv_has_name_abbreviated: S3
-dv_has_time_started: "-427.4e6"
-dv_has_time_stopped: "-419.2e6"
-dv_has_text_of_color: "0xBFE6CF"
+dv_has_time_started: -427.4e6
+dv_has_time_stopped: -419.2e6
+dv_has_text_of_color: 0xBFE6CF
 ---
-
 # [[Epoch-427~Ludlow]] 
 
 #is_a_/time_/Epoch 

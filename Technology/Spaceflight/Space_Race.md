@@ -1,23 +1,169 @@
 ---
-has_time_started: 1957-10-04 
-has_time_stopped: 1975-07-01 
+has_time_started: 1957-10-04
+has_time_stopped: 1975-07-01
 aliases:
+- avaruuskilpa
+- Carreira espacial
+- Carrera espacial
+- Chạy đua vào không gian
+- Corrida espacial
+- corsa allo spazio
+- course à l'espace
+- Cursa en l'univers
+- cursa espacial
+- Cursa Spațială
+- Espazioko lasterketa
+- Geimkapphlaupið
+- gomuvuođagilvvohallan
+- karerang pangkalawakan
+- Kosmik yarış
+- kosminės lenktynės
+- Kosmokonkuro
+- Kosmokonkurso
+- Kosmosa sacensība
+- Perlombaan angkasa
+- Perlumbaan Angkasa
+- romkappløpet
+- ruimtewedloop
+- Rumkapløbet
+- Ruumtefeer
+- rymdkapplöpningen
+- space race
+- Svemirska trka
+- Svemirska utrka
+- Thài-khong Kēng-cheng
+- Uzay Yarışı
+- Vesmírne preteky
+- Vesmírný závod
+- Vesoljska tekma
+- Wettlauf ins All
+- Wyścig kosmiczny
+- Y Ras Ofod
+- űrverseny
+- Αγώνας του διαστήματος
+- Вселенска трка
+- Йыһан ярышы
+- касьмічная гонка
+- космічні перегони
+- Космическа надпревара
+- космическая гонка
+- Сансрын уралдаан
+- Свемирска трка
+- Ғарыштағы жарыс
+- տիեզերական մրցավազք
+- המרוץ לחלל
+- קאסמאס געיעג
+- اوزای یاریشی
+- خلائی دوڑ
+- رقابت فضایی
+- سباق الفضاء
+- سپیس دوڑ
+- پێشبڕکێی بۆشایی
+- अन्तरिक्ष दौड
+- মহাকাশ প্রতিযোগিতা
+- ਪੁਲਾੜ ਦੌੜ
+- விண்வெளிப் போட்டி
+- අභ්යවකාශ තරගය
+- การแข่งขันอวกาศ
+- အာကာသပြိုင်ပွဲ
+- 太空竞赛
+- 太空競賽
+- 宇宙開発競争
+- 우주 경쟁
 has_id_wikidata: Q1932
 instance_of:
-  - "[[_Standards/WikiData/WD~space_exploration,180046]]"
-  - "[[_Standards/WikiData/WD~competition,476300]]"
-different_from: "[[_Standards/WikiData/WD~Space_Race,7572621]]"
-subclass_of: "[[_Standards/WikiData/WD~race_to_space,124516650]]"
+- '[[_Standards/WikiData/WD~space_exploration,180046]]'
+- '[[_Standards/WikiData/WD~competition,476300]]'
+different_from: '[[_Standards/WikiData/WD~Space_Race,7572621]]'
+subclass_of: '[[_Standards/WikiData/WD~race_to_space,124516650]]'
 participant:
-  - "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
+- '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
 Commons_category: Space Race
 end_time: 1975-07-01T00:00:00Z
 start_time: 1957-10-04T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Apollo-Soyuz-Test-Program-artist-rendering.jpg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Space%20Race%20Part%201.ogg
+dv_has_:
+  name_:
+    af: ruimtewedloop
+    ar: سباق الفضاء
+    ast: Carrera espacial
+    az: Kosmik yarış
+    azb: اوزای یاریشی
+    ba: Йыһан ярышы
+    be-tarask: касьмічная гонка
+    bg: Космическа надпревара
+    bn: মহাকাশ প্রতিযোগিতা
+    bs: Svemirska trka
+    ca: cursa espacial
+    ckb: پێشبڕکێی بۆشایی
+    cs: Vesmírný závod
+    cy: Y Ras Ofod
+    da: Rumkapløbet
+    de: Wettlauf ins All
+    de-ch: Wettlauf ins All
+    el: Αγώνας του διαστήματος
+    en: space race
+    en-ca: Space Race
+    en-gb: Space Race
+    eo: Kosmokonkuro
+    es: carrera espacial
+    eu: Espazioko lasterketa
+    fa: رقابت فضایی
+    fi: avaruuskilpa
+    fr: course à l'espace
+    gl: Carreira espacial
+    he: המרוץ לחלל
+    hr: Svemirska utrka
+    hu: űrverseny
+    hy: տիեզերական մրցավազք
+    id: Perlombaan angkasa
+    io: Kosmokonkurso
+    is: Geimkapphlaupið
+    it: corsa allo spazio
+    ja: 宇宙開発競争
+    kk: Ғарыштағы жарыс
+    ko: 우주 경쟁
+    lt: kosminės lenktynės
+    lv: Kosmosa sacensība
+    mk: Вселенска трка
+    mn: Сансрын уралдаан
+    ms: Perlumbaan Angkasa
+    my: အာကာသပြိုင်ပွဲ
+    nan: Thài-khong Kēng-cheng
+    nb: romkappløpet
+    ne: अन्तरिक्ष दौड
+    nl: ruimtewedloop
+    pa: ਪੁਲਾੜ ਦੌੜ
+    pl: Wyścig kosmiczny
+    pnb: سپیس دوڑ
+    pt: Corrida espacial
+    pt-br: Corrida espacial
+    rm: Cursa en l'univers
+    ro: Cursa Spațială
+    ru: космическая гонка
+    sco: Space Race
+    se: gomuvuođagilvvohallan
+    sh: Svemirska trka
+    si: අභ්යවකාශ තරගය
+    sk: Vesmírne preteky
+    sl: Vesoljska tekma
+    sr: Свемирска трка
+    stq: Ruumtefeer
+    sv: rymdkapplöpningen
+    ta: விண்வெளிப் போட்டி
+    th: การแข่งขันอวกาศ
+    tl: karerang pangkalawakan
+    tr: Uzay Yarışı
+    uk: космічні перегони
+    ur: خلائی دوڑ
+    vi: Chạy đua vào không gian
+    wuu: 太空竞赛
+    yi: קאסמאס געיעג
+    yue: 太空競賽
+    zh: 太空競賽
 ---
-
 # [[Space_Race]] 
 
 #is_/same_as :: [[../../WikiData/WD~Space_race,1932|WD~Space_race,1932]]  

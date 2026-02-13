@@ -1,24 +1,170 @@
 ---
 dv_is_:
   same_as:
-    - "[[../../../../../../../../WikiData/WD~Vedic_period,215262|WD~Vedic_period,215262]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1500-Vedic_Period-0500|-1500-Vedic_Period-0500]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1500-Vedic_Period-0500.public|-1500-Vedic_Period-0500.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1500-Vedic_Period-0500.internal|-1500-Vedic_Period-0500.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1500-Vedic_Period-0500.protect|-1500-Vedic_Period-0500.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1500-Vedic_Period-0500.private|-1500-Vedic_Period-0500.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1500-Vedic_Period-0500.personal|-1500-Vedic_Period-0500.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1500-Vedic_Period-0500.secret|-1500-Vedic_Period-0500.secret]]"
+  - '[[../../../../../../../../WikiData/WD~Vedic_period,215262|WD~Vedic_period,215262]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1500-Vedic_Period-0500|-1500-Vedic_Period-0500]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1500-Vedic_Period-0500.public|-1500-Vedic_Period-0500.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1500-Vedic_Period-0500.internal|-1500-Vedic_Period-0500.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1500-Vedic_Period-0500.protect|-1500-Vedic_Period-0500.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1500-Vedic_Period-0500.private|-1500-Vedic_Period-0500.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1500-Vedic_Period-0500.personal|-1500-Vedic_Period-0500.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1500-Vedic_Period-0500.secret|-1500-Vedic_Period-0500.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Vedic_period,215262|WD~Vedic_period,215262]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1500-Vedic_Period-0500|-1500-Vedic_Period-0500]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1500-Vedic_Period-0500.public|-1500-Vedic_Period-0500.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1500-Vedic_Period-0500.internal|-1500-Vedic_Period-0500.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1500-Vedic_Period-0500.protect|-1500-Vedic_Period-0500.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1500-Vedic_Period-0500.private|-1500-Vedic_Period-0500.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1500-Vedic_Period-0500.personal|-1500-Vedic_Period-0500.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1500-Vedic_Period-0500.secret|-1500-Vedic_Period-0500.secret]]"
+- '[[../../../../../../../../WikiData/WD~Vedic_period,215262|WD~Vedic_period,215262]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1500-Vedic_Period-0500|-1500-Vedic_Period-0500]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1500-Vedic_Period-0500.public|-1500-Vedic_Period-0500.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1500-Vedic_Period-0500.internal|-1500-Vedic_Period-0500.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1500-Vedic_Period-0500.protect|-1500-Vedic_Period-0500.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1500-Vedic_Period-0500.private|-1500-Vedic_Period-0500.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1500-Vedic_Period-0500.personal|-1500-Vedic_Period-0500.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1500-Vedic_Period-0500.secret|-1500-Vedic_Period-0500.secret]]'
 has_id_wikidata: Q215262
+dv_has_:
+  name_:
+    af: Vediese tydperk
+    anp: वैदिक सभ्यता
+    ar: فترة فيدية
+    as: বৈদিক কাল
+    ast: Periodu védicu
+    awa: वैदिक काल
+    ba: Веда цивилизацияһы
+    be-tarask: Вэдычная цывілізацыя
+    bg: Ведическа цивилизация
+    bho: वैदिक काल
+    bn: বৈদিক যুগ
+    ca: període vèdic
+    cs: Védské období
+    de: Bedeutung des Veda
+    en: Vedic period
+    eo: Veda Civilizo
+    es: Periodo védico
+    et: Veedade kultuur
+    eu: Garai vediko
+    fa: دوره ودایی
+    fi: Veda-kausi
+    fr: période védique
+    gl: Período védico
+    he: התרבות הוודית
+    hi: वैदिक सभ्यता
+    hif: Vedic jamaana
+    hu: védikus civilizáció
+    hy: Վեդայական դարաշրջան
+    id: Periode Weda
+    is: Vedatímabilið
+    it: civiltà vedica
+    ja: ヴェーダ期
+    kn: ವೈದಿಕ ಯುಗ
+    ko: 베다 시대
+    lt: Vedų civilizacija
+    mag: बैदिक सभ्यता
+    mai: वैदिक सभ्यता
+    mk: ведски период
+    ml: വേദ കാലഘട്ടം
+    ms: Zaman Veda
+    mzn: ودایی دوره
+    ne: वैदिक काल
+    nl: Vedische beschaving
+    nn: Vedisk tid
+    pa: ਵੈਦਿਕ ਕਾਲ
+    pl: Okres wedyjski
+    pnb: ویدک دور
+    pt: Civilização védica
+    ro: civilizația vedică
+    ru: Ведийская цивилизация
+    sa: वैदिकी संस्कृतिः
+    sh: Vedski period
+    si: වෛදික යුගය
+    sk: Védske náboženstvo
+    sl: vedsko obdobje
+    sq: Periudha Vedike
+    sr: Ведизам
+    sr-ec: Ведизам
+    sr-el: Vedizam
+    sv: Vedisk religion
+    ta: வேதகாலம்
+    te: vadic culture
+    th: สมัยพระเวท
+    tl: Panahong Vediko
+    tr: Vedik dönem
+    tt: Веда цивилизациясе
+    uk: Ведична цивілізація
+    ur: ویدک دور
+    vi: Thời kỳ Vệ Đà
+    yue: 吠陀時代
+    zh: 吠陀時期
+    zh-cn: 吠陀文化
+    zh-hans: 吠陀文化
+    zh-hant: 吠陀時期
+    zh-hk: 吠陀文化
+    zh-sg: 吠陀文化
+    zh-tw: 吠陀時期
+aliases:
+- Bedeutung des Veda
+- Civilização védica
+- civilizația vedică
+- civiltà vedica
+- Garai vediko
+- Okres wedyjski
+- Panahong Vediko
+- Periode Weda
+- Periodo védico
+- Periodu védicu
+- Periudha Vedike
+- període vèdic
+- Período védico
+- période védique
+- Thời kỳ Vệ Đà
+- vadic culture
+- Veda Civilizo
+- Veda-kausi
+- Vedatímabilið
+- Vedic jamaana
+- Vedic period
+- Vediese tydperk
+- Vedik dönem
+- Vedische beschaving
+- Vedisk religion
+- Vedisk tid
+- Vedizam
+- Vedski period
+- vedsko obdobje
+- Vedų civilizacija
+- Veedade kultuur
+- védikus civilizáció
+- Védske náboženstvo
+- Védské období
+- Zaman Veda
+- Веда цивилизациясе
+- Веда цивилизацияһы
+- Ведизам
+- Ведийская цивилизация
+- Ведическа цивилизация
+- Ведична цивілізація
+- ведски период
+- Вэдычная цывілізацыя
+- Վեդայական դարաշրջան
+- התרבות הוודית
+- دوره ودایی
+- فترة فيدية
+- ودایی دوره
+- ویدک دور
+- बैदिक सभ्यता
+- वैदिक काल
+- वैदिक सभ्यता
+- वैदिकी संस्कृतिः
+- বৈদিক কাল
+- বৈদিক যুগ
+- ਵੈਦਿਕ ਕਾਲ
+- வேதகாலம்
+- ವೈದಿಕ ಯುಗ
+- വേദ കാലഘട്ടം
+- වෛදික යුගය
+- สมัยพระเวท
+- ヴェーダ期
+- 吠陀文化
+- 吠陀時代
+- 吠陀時期
+- 베다 시대
 ---
 ---
 aliases:

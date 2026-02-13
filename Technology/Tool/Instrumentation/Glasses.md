@@ -1,22 +1,132 @@
 ---
 aliases:
-  - Brille
-  - eyeglasses
-  - spectacles
-  - specs
-  - Glasses
+- Acchiale
+- akiniai
+- Antipara
+- Ba̍k-kiàⁿ
+- Betaurreko
+- Binoklo
+- bril
+- Brill
+- Brille
+- briller
+- brilles
+- Bryle
+- Brëll
+- Brün
+- brýle
+- cermin mata
+- eyeglasses
+- Eynək
+- gafas
+- Gafes
+- Gannukún
+- Gingqda
+- Glasses
+- glasögon
+- gözlük
+- Ixtezcatl
+- Kacamata
+- Kacomato
+- Koʻzoynak
+- kính mắt
+- Lentes
+- Linèt
+- lunedoù
+- Lunetas
+- lunettes de vue
+- Ma'aataéve'éxanéstotôtse
+- Miwani
+- Muk-kiang
+- Nahapiwakan
+- Naočale
+- nawoči
+- Ngāng-giáng
+- ninkpara
+- occhiale
+- ochelari
+- Ogiai
+- okulary korekcyjne
+- okuliare
+- okulvitro
+- Olleras
+- očala
+- Očkad
+- Perspicillum
+- prillid
+- Qhawana q'ispillu
+- salamin
+- Sbectol
+- Seipônê
+- silmälasit
+- specs
+- spectacles
+- spéaclaí
+- Syzet
+- szemüveg
+- Sörömihörö
+- Tasma
+- Ucchiali
+- ulleres
+- Windo bilong fes
+- ååʹšǩ
+- Çavik
+- óculos
+- čalbmeláset
+- čalmelaasah
+- Špėkolā
+- γυαλιά
+- Айнак
+- акуляры
+- Куçлăх
+- Куьзганаш
+- күзлек
+- Көз айнек
+- Көзілдірік
+- Көстүк
+- наочаре
+- окуляри для корекції вад зору
+- очила
+- очки
+- Сельмукшт
+- Сӹнзӓлык
+- ակնոց
+- ברילן
+- משקפיים
+- عينڪ
+- عینک
+- نضاضر
+- نظارة
+- چاویلکە
+- چرمين مات
+- चश्मा
+- वक्ल
+- চশমা
+- ਐਨਕ
+- மூக்குக் கண்ணாடி
+- కళ్ళద్దాలు
+- ಕನ್ನಡಕ
+- കണ്ണട
+- แว่นตา
+- မျက်မှန်
+- မၢၼ်ႇတႃ
+- სათვალე
+- វ៉ែនតា
+- 眼鏡
+- 眼镜
+- 안경
 has_id_wikidata: Q37501
-subclass_of: "[[_Standards/WikiData/WD~costume_accessory,1065579]]"
-has_part_s_: "[[_Standards/WikiData/WD~corrective_lens,2143661]]"
+subclass_of: '[[_Standards/WikiData/WD~costume_accessory,1065579]]'
+has_part_s_: '[[_Standards/WikiData/WD~corrective_lens,2143661]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-worn_on: "[[_Standards/WikiData/WD~face,37017]]"
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+worn_on: '[[_Standards/WikiData/WD~face,37017]]'
 OmegaWiki_Defined_Meaning: 8320
 Nomenclature_for_Museum_Cataloging:
-  - 2755
-  - 2760
+- 2755
+- 2760
 Commons_gallery: Glasses
 Commons_category: Glasses
 time_of_discovery_or_invention: 1270-01-01T00:00:00Z
@@ -24,17 +134,156 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/2023%20Okulary%20korek
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/EN-glasses.ogg
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Q37501%20noun%20562323%20ccShmidtSergey%20glasses.svg
 described_at_URL: https://neal.fun/earth-reviews/glasses
-Unicode_character: 👓
+Unicode_character: "\U0001F453"
 U_S_National_Archives_Identifier: 10675278
 UNSPSC_Code: 42142901
 UMLS_CUI:
-  - C0015421
-  - C0524594
+- C0015421
+- C0524594
 MeSH_tree_code: E07.632.500.300
 subreddit: glasses
 Baidu_Tieba_name: 眼镜
+dv_has_:
+  name_:
+    af: Bril
+    an: Lunetas
+    ar: نظارة
+    ary: نضاضر
+    ast: Gafes
+    atj: Nahapiwakan
+    az: Eynək
+    bar: Brün
+    be: акуляры
+    be-tarask: акуляры
+    bg: очила
+    bho: चश्मा
+    bn: চশমা
+    br: lunedoù
+    bs: naočale
+    ca: ulleres
+    cdo: Ngāng-giáng
+    ce: Куьзганаш
+    chy: Ma'aataéve'éxanéstotôtse
+    ckb: چاویلکە
+    cs: brýle
+    cv: Куçлăх
+    cy: Sbectol
+    da: briller
+    dag: ninkpara
+    de: Brille
+    el: γυαλιά
+    en: glasses
+    en-gb: glasses
+    eo: okulvitro
+    es: gafas
+    et: prillid
+    eu: Betaurreko
+    fa: عینک
+    fi: silmälasit
+    fon: Gannukún
+    fr: lunettes de vue
+    ga: spéaclaí
+    gan: 眼鏡
+    gl: Lentes
+    gom: वक्ल
+    hak: Muk-kiang
+    he: משקפיים
+    hi: चश्मा
+    hr: Naočale
+    hsb: nawoči
+    ht: Linèt
+    hu: szemüveg
+    hy: ակնոց
+    id: Kacamata
+    io: Binoklo
+    it: occhiale
+    ja: 眼鏡
+    jv: Kacamata
+    ka: სათვალე
+    kk: Көзілдірік
+    km: វ៉ែនតា
+    kn: ಕನ್ನಡಕ
+    ko: 안경
+    ku: Çavik
+    ky: Көз айнек
+    la: Perspicillum
+    lb: Brëll
+    li: Bril
+    lmo: Ogiai
+    lt: akiniai
+    lv: brilles
+    lzh: 眼鏡
+    min: Kacomato
+    mk: Очила
+    ml: കണ്ണട
+    mrj: Сӹнзӓлык
+    ms: cermin mata
+    ms-arab: چرمين مات
+    my: မျက်မှန်
+    myv: Сельмукшт
+    nah: Ixtezcatl
+    nan: Ba̍k-kiàⁿ
+    nap: Acchiale
+    nb: briller
+    nds: Brill
+    ne: चश्मा
+    nia: Sörömihörö
+    nl: bril
+    nn: briller
+    nso: Seipônê
+    pa: ਐਨਕ
+    pl: okulary korekcyjne
+    pnb: عینک
+    pt: óculos
+    pt-br: óculos
+    qu: Qhawana q'ispillu
+    ro: ochelari
+    ru: очки
+    sc: Olleras
+    scn: Ucchiali
+    sd: عينڪ
+    se: čalbmeláset
+    sgs: Špėkolā
+    sh: Naočale
+    shn: မၢၼ်ႇတႃ
+    sk: okuliare
+    sl: očala
+    smn: čalmelaasah
+    sms: ååʹšǩ
+    sq: Syzet
+    sr: наочаре
+    stq: Brille
+    su: Tasma
+    sv: glasögon
+    sw: Miwani
+    szl: Bryle
+    ta: மூக்குக் கண்ணாடி
+    te: కళ్ళద్దాలు
+    tg: Айнак
+    th: แว่นตา
+    tl: salamin
+    tpi: Windo bilong fes
+    tr: gözlük
+    tt: күзлек
+    tyv: Көстүк
+    uk: окуляри для корекції вад зору
+    ur: عینک
+    uz: Koʻzoynak
+    vep: Očkad
+    vi: kính mắt
+    war: Antipara
+    wuu: 眼镜
+    yi: ברילן
+    yue: 眼鏡
+    za: Gingqda
+    zh: 眼鏡
+    zh-cn: 眼镜
+    zh-hans: 眼镜
+    zh-hant: 眼鏡
+    zh-hk: 眼鏡
+    zh-my: 眼镜
+    zh-tw: 眼鏡
 ---
-
 # [[Glasses]] 👓 
 
 #is_/same_as :: [[WD~Glasses,37501]] 

@@ -1,31 +1,50 @@
 ---
 aliases:
-  - Era~1~Paleoproterozoic
-  - Paleoproterozoic
-  - Палеопротерозой
-  - Paleoproterozoikum
-  - Palæoproterozoisk
-  - Paläoproteroizoikum
-  - Palaeoproterozoic
-  - Paleoproterozoico
-  - Paleoproterosoikum
-  - Paleoproterotsoikum
-  - Paléoprotérozoïque
-  - paleoproterozikum
-  - paleoproterozoico
-  - 原生代前期
-  - Paleoproterozojus
-  - paleoproterozoïcum
-  - Paleoproterozoik
-  - Paleoproterozóico
-  - paleoproterozoikum
-  - paleoproterozoik
-  - 古元古代
+- an Ré Phailéaprótarasóch
+- Era~1~Paleoproterozoic
+- Fornfrumlífsöld
+- Lekeproterozugal
+- Palaeoproterozoic
+- Paleoproterosoikum
+- Paleoproterosoïkum
+- Paleoproterotsoikum
+- Paleoproterotsooinen maailmankausi
+- paleoproterozikum
+- Paleoproterozoeg
+- Paleoproterozoic
+- Paleoproterozoico
+- Paleoproterozoik
+- paleoproterozoiko
+- Paleoproterozoikum
+- Paleoproterozojus
+- Paleoproterozoy
+- Paleoproterozoyik
+- paleoproterozoïcum
+- Paleoproterozoý
+- Paleoproterozóico
+- Paläoproteroizoikum
+- Paläoproterozoikum
+- Palæoproterozoisk
+- Paléoprotérozoïque
+- Đại Cổ Nguyên Sinh
+- палеапратэразой
+- Палеопротерозой
+- פלאופרוטרוזואיקון
+- حقبة الطلائع القديمة
+- پالەوپروتەروزوي
+- پیشینزیستی دیرینه
+- पुराप्राग्जीवी महाकल्प
+- প্যালিওপ্রোটেরোজোয়িক
+- มหายุคแพลีโอโพรเทอโรโซอิก
+- 原生代前期
+- 古元古代
+- 古原生代
+- 고원생대
 has_id_wikidata: Q193738
 instance_of:
-  - "[[_Standards/WikiData/WD~era,630830]]"
-  - "[[_Standards/WikiData/WD~erathem,2464485]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+- '[[_Standards/WikiData/WD~era,630830]]'
+- '[[_Standards/WikiData/WD~erathem,2464485]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 sRGB_color_hex_triplet: F74370
 start_time: -2500000000-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/2050ma.png
@@ -33,54 +52,99 @@ Commons_category: Paleoproterozoic
 end_time: -1600000000-01-01T00:00:00Z
 dv_has_:
   duration_:
-    years: "9.000e+8"
-  previous_:
-    item: "[[../Eon-4031~Archean/Era-2800~Neoarchean|Era~4~Neoarchean]]"
-  next_:
-    item: "[[Era-1600~Mesoproterozoic]]"
+    years: 9.000e+8
   name_:
     abbreviated: PP
+    af: Paleoproterosoïkum
+    ar: حقبة الطلائع القديمة
+    avk: Lekeproterozugal
+    az: Paleoproterozoy
+    be: палеапратэразой
+    be-tarask: палеапратэразой
     bg: Палеопротерозой
-    cs: Paleoproterozoikum
+    bn: প্যালিওপ্রোটেরোজোয়িক
+    br: Paleoproterozoeg
+    bs: Paleoproterozoik
+    ca: Paleoproterozoic
+    cs: paleoproterozoikum
     da: Palæoproterozoisk
-    de: Paläoproteroizoikum
+    de: Paläoproterozoikum
+    en: Paleoproterozoic
+    en-gb: Palaeoproterozoic
     en_:
       gb: Palaeoproterozoic
       us: Paleoproterozoic
-    en: Paleoproterozoic
+    eo: paleoproterozoiko
     es: Paleoproterozoico
     et: Paleoproterosoikum
-    fi: Paleoproterotsoikum
+    eu: Paleoproterozoiko
+    fa: پیشینزیستی دیرینه
+    fi: Paleoproterotsooinen maailmankausi
     fr: Paléoprotérozoïque
-    hu: paleoproterozikum
-    it: paleoproterozoico
-    ja: 原生代前期
-    lt: Paleoproterozojus
-    nl: paleoproterozoïcum
+    ga: an Ré Phailéaprótarasóch
+    gl: Paleoproterozoico
+    he: פלאופרוטרוזואיקון
+    hi: पुराप्राग्जीवी महाकल्प
+    hr: paleoproterozoik
+    hu: paleoproterozoikum
+    id: Paleoproterozoikum
+    is: Fornfrumlífsöld
+    it: Paleoproterozoico
+    ja: 古原生代
+    kk: Палеопротерозой
+    kk-arab: پالەوپروتەروزوي
+    kk-cn: پالەوپروتەروزوي
+    kk-cyrl: Палеопротерозой
+    kk-kz: Палеопротерозой
+    kk-latn: Paleoproterozoý
+    kk-tr: Paleoproterozoý
+    ko: 고원생대
+    lt: paleoproterozojus
+    ms: Paleoproterozoik
+    nl: Paleoproterozoïcum
+    nn: paleoproterozoikum
     no: Paleoproterozoikum
-    pl: Paleoproterozoik
-    pt: Paleoproterozóico
-    sk: paleoproterozoikum
+    pl: paleoproterozoik
+    pt: Paleoproterozoico
+    ro: Paleoproterozoic
+    ru: палеопротерозой
+    sh: Paleoproterozoik
+    sk: Paleoproterozoikum
     sl: paleoproterozoik
-    sv: paleoproterozoikum
+    sv: Paleoproterozoikum
+    th: มหายุคแพลีโอโพรเทอโรโซอิก
+    tr: Paleoproterozoyik
+    uk: палеопротерозой
+    vi: Đại Cổ Nguyên Sinh
+    yue: 古元古代
     zh: 古元古代
+    zh-cn: 古元古代
+    zh-hans: 古元古代
+    zh-hant: 古元古代
+    zh-hk: 古元古代
+    zh-sg: 古元古代
+    zh-tw: 古元古代
+  next_:
+    item: '[[Era-1600~Mesoproterozoic]]'
+  previous_:
+    item: '[[../Eon-4031~Archean/Era-2800~Neoarchean|Era~4~Neoarchean]]'
+  text_of_:
+    color: 0xF74370
   time_:
     started: -2500000000
     stopped: -1600000000
-  text_of_:
-    color: "0xF74370"
 dv_is_:
   same_as:
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic|Era-2500~Paleoproterozoic]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic.public|Era-2500~Paleoproterozoic.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic.internal|Era-2500~Paleoproterozoic.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic.protect|Era-2500~Paleoproterozoic.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic.private|Era-2500~Paleoproterozoic.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic.personal|Era-2500~Paleoproterozoic.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic.secret|Era-2500~Paleoproterozoic.secret]]"
-dv_has_duration_years: "9.000e+8"
-dv_has_previous_item: "[[../Eon-4031~Archean/Era-2800~Neoarchean|Era~4~Neoarchean]]"
-dv_has_next_item: "[[Era-1600~Mesoproterozoic]]"
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic|Era-2500~Paleoproterozoic]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic.public|Era-2500~Paleoproterozoic.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic.internal|Era-2500~Paleoproterozoic.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic.protect|Era-2500~Paleoproterozoic.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic.private|Era-2500~Paleoproterozoic.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic.personal|Era-2500~Paleoproterozoic.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic.secret|Era-2500~Paleoproterozoic.secret]]'
+dv_has_duration_years: 9.000e+8
+dv_has_previous_item: '[[../Eon-4031~Archean/Era-2800~Neoarchean|Era~4~Neoarchean]]'
+dv_has_next_item: '[[Era-1600~Mesoproterozoic]]'
 dv_has_name_abbreviated: PP
 dv_has_name_bg: Палеопротерозой
 dv_has_name_cs: Paleoproterozoikum
@@ -107,17 +171,16 @@ dv_has_name_sv: paleoproterozoikum
 dv_has_name_zh: 古元古代
 dv_has_time_started: -2500000000
 dv_has_time_stopped: -1600000000
-dv_has_text_of_color: "0xF74370"
+dv_has_text_of_color: 0xF74370
 dv_is_same_as:
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic|Era-2500~Paleoproterozoic]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic.public|Era-2500~Paleoproterozoic.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic.internal|Era-2500~Paleoproterozoic.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic.protect|Era-2500~Paleoproterozoic.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic.private|Era-2500~Paleoproterozoic.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic.personal|Era-2500~Paleoproterozoic.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic.secret|Era-2500~Paleoproterozoic.secret]]"
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic|Era-2500~Paleoproterozoic]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic.public|Era-2500~Paleoproterozoic.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic.internal|Era-2500~Paleoproterozoic.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic.protect|Era-2500~Paleoproterozoic.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic.private|Era-2500~Paleoproterozoic.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic.personal|Era-2500~Paleoproterozoic.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic.secret|Era-2500~Paleoproterozoic.secret]]'
 ---
-
 # [[Era-2500~Paleoproterozoic]] 
 
 #is_a_/time_/Era 

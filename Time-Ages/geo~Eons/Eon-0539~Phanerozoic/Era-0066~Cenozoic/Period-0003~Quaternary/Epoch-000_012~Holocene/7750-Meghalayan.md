@@ -1,60 +1,121 @@
 ---
 location:
-  - 91.715
-  - 25.262222222
+- 91.715
+- 25.262222222
 aliases:
-  - 7750-Meghalayan
+- 7750-Meghalayan
+- Holosen Akhir
+- Megalaià
+- megalaj
+- Megalayense
+- Meghalaiano
+- Meghalaya (geologi)
+- Meghalayan
+- Meghalayan-vaihe
+- Meghalayano
+- Meghalayen
+- Meghalayum
+- Meghaliyen
+- meghálajai
+- Meghālajas stāvs
+- Tầng Meghalaya
+- Μεγκαλάγια
+- мегхалайский ярус
+- Мегхалейський вік
+- מגהליאן
+- عصر الميغالايان
+- مگالاین
+- میگھلین
+- মেঘালয় উপযুগ
+- মেঘালয় যুগ
+- ਮੇਘਲਿਅਨ
+- മേഘാലയൻ
+- ช่วงอายุเมฆาลายัน
+- メーガーラヤン
+- 梅加拉亚期
 has_id_wikidata: Q55594589
 Commons_category: Meghalayan
 coordinate_location: Point(91.715 25.262222222)
-different_from: "[[_Standards/WikiData/WD~Meghalaya,1195]]"
+different_from: '[[_Standards/WikiData/WD~Meghalaya,1195]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-named_after: "[[_Standards/WikiData/WD~Meghalaya,1195]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+named_after: '[[_Standards/WikiData/WD~Meghalaya,1195]]'
 sRGB_color_hex_triplet: FDEDEC
 start_time: -2250-06
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Meghalayan,133676723]]"
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Meghalayan,133676723]]'
 dv_has_:
+  duration_: 4000
   name_:
     abbreviated: q7
+    ar: عصر الميغالايان
+    as: মেঘালয় যুগ
+    bn: মেঘালয় উপযুগ
+    ca: Megalaià
+    de: Meghalayum
+    el: Μεγκαλάγια
+    en: Meghalayan
+    en-gb: Meghalayan
+    es: Megalayense
+    fa: مگالاین
+    fi: Meghalayan-vaihe
+    fr: Meghalayen
+    gl: Meghalaiano
+    he: מגהליאן
+    hu: meghálajai
+    id: Holosen Akhir
+    it: Meghalayano
+    ja: メーガーラヤン
+    lv: Meghālajas stāvs
+    ml: മേഘാലയൻ
+    mul: Meghalayan
+    nl: Meghalayen
+    pa: ਮੇਘਲਿਅਨ
+    pnb: میگھلین
+    pt: Meghalaiano
+    ru: мегхалайский ярус
+    sl: megalaj
+    sv: Meghalaya (geologi)
+    th: ช่วงอายุเมฆาลายัน
+    tr: Meghaliyen
+    uk: Мегхалейський вік
+    vi: Tầng Meghalaya
+    zh: 梅加拉亚期
+  next_:
+    item: '[[../Epoch-000_001~Anthropocene]]'
+  previous_:
+    item: '[[3854-Northgrippian]]'
+  text_of_:
+    color: 0xFDEDEC
   time_:
     started: -2250
     stopped: 1750
-  duration_: 4000
-  text_of_:
-    color: "0xFDEDEC"
-  previous_:
-    item: "[[3854-Northgrippian]]"
-  next_:
-    item: "[[../Epoch-000_001~Anthropocene]]"
 dv_is_:
   same_as:
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan|7750-Meghalayan]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan.public|7750-Meghalayan.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan.internal|7750-Meghalayan.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan.protect|7750-Meghalayan.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan.private|7750-Meghalayan.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan.personal|7750-Meghalayan.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan.secret|7750-Meghalayan.secret]]"
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan|7750-Meghalayan]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan.public|7750-Meghalayan.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan.internal|7750-Meghalayan.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan.protect|7750-Meghalayan.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan.private|7750-Meghalayan.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan.personal|7750-Meghalayan.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan.secret|7750-Meghalayan.secret]]'
 dv_has_name_abbreviated: q7
 dv_has_time_started: -2250
 dv_has_time_stopped: 1750
 dv_has_duration_years: 4000
 dv_has_duration_: 4000
-dv_has_text_of_color: "0xFDEDEC"
-dv_has_previous_item: "[[3854-Northgrippian]]"
-dv_has_next_item: "[[../Epoch-000_001~Anthropocene]]"
+dv_has_text_of_color: 0xFDEDEC
+dv_has_previous_item: '[[3854-Northgrippian]]'
+dv_has_next_item: '[[../Epoch-000_001~Anthropocene]]'
 dv_is_same_as:
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan|7750-Meghalayan]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan.public|7750-Meghalayan.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan.internal|7750-Meghalayan.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan.protect|7750-Meghalayan.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan.private|7750-Meghalayan.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan.personal|7750-Meghalayan.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan.secret|7750-Meghalayan.secret]]"
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan|7750-Meghalayan]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan.public|7750-Meghalayan.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan.internal|7750-Meghalayan.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan.protect|7750-Meghalayan.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan.private|7750-Meghalayan.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan.personal|7750-Meghalayan.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan.secret|7750-Meghalayan.secret]]'
 ---
-
 # [[Age~3~Meghalayan]] 
 
 #is_a_/time_/Age 

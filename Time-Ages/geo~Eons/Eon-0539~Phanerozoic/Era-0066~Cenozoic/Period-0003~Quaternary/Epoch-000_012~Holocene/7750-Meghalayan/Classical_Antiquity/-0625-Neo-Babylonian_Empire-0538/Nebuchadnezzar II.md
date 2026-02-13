@@ -1,84 +1,246 @@
 ---
 aliases:
-  - Nebuchadnezzar the Great
-  - Nebuchadnezzar II
-  - Nebuchadrezzar II
+- 2 ናቡከደነጾር
+- II Navuxodonosor
+- II. Nabú-kudurri-uszur
+- II. Nebukadnezar
+- Naboukadnesar II
+- Nabuchodonosaras II
+- Nabuchodonosor II
+- Nabuchodonozor II
+- Nabucodonosor
+- Nabucodonosor al II-lea
+- Nabucodonosor II
+- Nabucodonosòr II
+- Nabugodounosor II
+- Nabukadnezar II.
+- Nabukodonosor II
+- Nabukodonosor II.
+- Nabukodonosor II.a
+- Nabúcadnazar II
+- Nabû-kudurrī-uṣur II.
+- Navuxodonosor II
+- Navuxodonosorii
+- Nebokadnetsara II
+- Nebuchadnesar II
+- Nebuchadnezzar 2-sè
+- Nebuchadnezzar II
+- Nebuchadnezzar the Great
+- Nebuchadrezzar II
+- Nebukadnecaro la 2-a
+- Nebukadnecars II
+- Nebukadnesar
+- Nebukadnesar 2.
+- Nebukadnesar II
+- Nebukadnesar II av Babylon
+- Nebukadnesar II.
+- Nebukadnessar II
+- Nebukadnetsar II
+- Nebukadnezar II
+- Nebukadnezar II.
+- Nebukadressar II
+- Nebukadreza II
+- Nebúkadnesar 2.
+- Nebûkadnêzer II
+- Nì-pu-kap-nì-sat ngi-sṳ
+- Ναβουχοδονόσορ
+- Ναβουχοδονόσωρ Β'
+- Навукодоносор II
+- Навухаданосар II
+- Навуходонозор II
+- Навуходоносор II
+- Небухаднезар II
+- Նաբուգոդոնոսոր II
+- נבוכדנאצר דער צווייטער
+- נבוכדנצר השני
+- بخت نصر
+- بختنصر
+- نبوخذ نصر التانى
+- نبوخذ نصر الثاني الكلداني
+- نبوکیدنصسر
+- نەبووخەد نەسر دووەم
+- ܢܒܘ ܚܘܕܘܪܝ ܐܘܨܘܪ
+- দ্বিতীয় নেবুচাদনেজার
+- இரண்டாம் நெபுகாத்நேசர்
+- නෙබුකැඩ්නෙසර් II
+- พระเจ้าเนบูคัดเนซซาร์ที่ 2
+- ნაბუქოდონოსორ II
+- ネブカドネザル2世
+- 尼布甲尼撒二世
+- 네부카드네자르 2세
 has_id_wikidata: Q12591
 date_of_birth: -0641-01-01T00:00:00Z
-different_from: "[[_Standards/WikiData/WD~Nebuchadenzar,111111]]"
+different_from: '[[_Standards/WikiData/WD~Nebuchadenzar,111111]]'
 present_in_work:
-  - "[[_Standards/WikiData/WD~Jeremiah,131590]]"
-  - "[[_Standards/WikiData/WD~Second_Book_of_Kings,209746]]"
-  - "[[_Standards/WikiData/WD~Daniel_4,16159105]]"
-  - "[[_Standards/WikiData/WD~Civilization_V,2385]]"
-place_of_birth: "[[_Standards/WikiData/WD~Uruk,168518]]"
-father: "[[_Standards/WikiData/WD~Nabopolassar,273514]]"
+- '[[_Standards/WikiData/WD~Jeremiah,131590]]'
+- '[[_Standards/WikiData/WD~Second_Book_of_Kings,209746]]'
+- '[[_Standards/WikiData/WD~Daniel_4,16159105]]'
+- '[[_Standards/WikiData/WD~Civilization_V,2385]]'
+place_of_birth: '[[_Standards/WikiData/WD~Uruk,168518]]'
+father: '[[_Standards/WikiData/WD~Nabopolassar,273514]]'
 child:
-  - "[[_Standards/WikiData/WD~Amel_Marduk,313234]]"
-  - "[[_Standards/WikiData/WD~Nitocris_of_Babylon,372441]]"
-  - "[[_Standards/WikiData/WD~Eanna_sharra_usur,9250030]]"
-  - "[[_Standards/WikiData/WD~Kaššaya,11736824]]"
-  - "[[_Standards/WikiData/WD~Marduk_nadin_ahi,11767982]]"
-  - "[[_Standards/WikiData/WD~Ba'u_asitu,97331420]]"
+- '[[_Standards/WikiData/WD~Amel_Marduk,313234]]'
+- '[[_Standards/WikiData/WD~Nitocris_of_Babylon,372441]]'
+- '[[_Standards/WikiData/WD~Eanna_sharra_usur,9250030]]'
+- '[[_Standards/WikiData/WD~Kaššaya,11736824]]'
+- '[[_Standards/WikiData/WD~Marduk_nadin_ahi,11767982]]'
+- "[[_Standards/WikiData/WD~Ba'u_asitu,97331420]]"
 described_by_source:
-  - "[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Islamskiy_entsiklopedicheskiy_slovar',18517268]]"
-  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Q30059240,30059240]]"
+- '[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Islamskiy_entsiklopedicheskiy_slovar',18517268]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Q30059240,30059240]]'
 occupation:
-  - "[[_Standards/WikiData/WD~leader,1251441]]"
-  - "[[_Standards/WikiData/WD~king,12097]]"
-  - "[[_Standards/WikiData/WD~monarch,116]]"
-spouse: "[[_Standards/WikiData/WD~Amytis_of_Media,1574056]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-sibling: "[[_Standards/WikiData/WD~Nabu_shuma_lisir,11788594]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Ancient_Mesopotamian_religion,21028568]]"
-position_held: "[[_Standards/WikiData/WD~King_of_Babylon,28132899]]"
+- '[[_Standards/WikiData/WD~leader,1251441]]'
+- '[[_Standards/WikiData/WD~king,12097]]'
+- '[[_Standards/WikiData/WD~monarch,116]]'
+spouse: '[[_Standards/WikiData/WD~Amytis_of_Media,1574056]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+sibling: '[[_Standards/WikiData/WD~Nabu_shuma_lisir,11788594]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Ancient_Mesopotamian_religion,21028568]]'
+position_held: '[[_Standards/WikiData/WD~King_of_Babylon,28132899]]'
 date_of_death: -0560-01-01T00:00:00Z
-place_of_death: "[[_Standards/WikiData/WD~Babylon,5684]]"
+place_of_death: '[[_Standards/WikiData/WD~Babylon,5684]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Ishtar_Gate,26082]]"
-  - "[[_Standards/WikiData/WD~Hanging_Gardens_of_Babylon,41931]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Akkadian,35518]]"
+- '[[_Standards/WikiData/WD~Ishtar_Gate,26082]]'
+- '[[_Standards/WikiData/WD~Hanging_Gardens_of_Babylon,41931]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Akkadian,35518]]'
 OmegaWiki_Defined_Meaning: 1379985
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Nebukadnessar%20II.jpg
 ISNI: 118774061
 Libris_URI: 75knt1qr3z3wwbm
-Wolfram_Language_entity_code: Entity"Concept", "Nebuchadnezzar = `=this.dv_"Concept", "Nebuchadnezzar` 
+Wolfram_Language_entity_code: Entity"Concept", "Nebuchadnezzar = `=this.dv_"Concept", "Nebuchadnezzar`
 Krugosvet_article_archived_: istoriya/NAVUHODONOSOR.html
 Commons_category: Nebuchadnezzar II
 dv_"Concept", "Nebuchadnezzar: 78g34"
 dv_is_:
   same_as:
-    - "[[WD~Nebuchadnezzar_II,12591]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538/Nebuchadnezzar II|Nebuchadnezzar II]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538/Nebuchadnezzar II.public|Nebuchadnezzar II.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538/Nebuchadnezzar II.internal|Nebuchadnezzar II.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538/Nebuchadnezzar II.protect|Nebuchadnezzar II.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538/Nebuchadnezzar II.private|Nebuchadnezzar II.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538/Nebuchadnezzar II.personal|Nebuchadnezzar II.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538/Nebuchadnezzar II.secret|Nebuchadnezzar II.secret]]"
+  - '[[WD~Nebuchadnezzar_II,12591]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538/Nebuchadnezzar II|Nebuchadnezzar II]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538/Nebuchadnezzar II.public|Nebuchadnezzar II.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538/Nebuchadnezzar II.internal|Nebuchadnezzar II.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538/Nebuchadnezzar II.protect|Nebuchadnezzar II.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538/Nebuchadnezzar II.private|Nebuchadnezzar II.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538/Nebuchadnezzar II.personal|Nebuchadnezzar II.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538/Nebuchadnezzar II.secret|Nebuchadnezzar II.secret]]'
 dv_concept-nebuchadnezzar: 78g34"
 dv_is_same_as:
-  - "[[WD~Nebuchadnezzar_II,12591]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538/Nebuchadnezzar II|Nebuchadnezzar II]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538/Nebuchadnezzar II.public|Nebuchadnezzar II.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538/Nebuchadnezzar II.internal|Nebuchadnezzar II.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538/Nebuchadnezzar II.protect|Nebuchadnezzar II.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538/Nebuchadnezzar II.private|Nebuchadnezzar II.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538/Nebuchadnezzar II.personal|Nebuchadnezzar II.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538/Nebuchadnezzar II.secret|Nebuchadnezzar II.secret]]"
+- '[[WD~Nebuchadnezzar_II,12591]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538/Nebuchadnezzar II|Nebuchadnezzar II]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538/Nebuchadnezzar II.public|Nebuchadnezzar II.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538/Nebuchadnezzar II.internal|Nebuchadnezzar II.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538/Nebuchadnezzar II.protect|Nebuchadnezzar II.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538/Nebuchadnezzar II.private|Nebuchadnezzar II.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538/Nebuchadnezzar II.personal|Nebuchadnezzar II.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0625-Neo-Babylonian_Empire-0538/Nebuchadnezzar II.secret|Nebuchadnezzar II.secret]]'
+dv_has_:
+  name_:
+    af: Nebukadnesar II
+    am: 2 ናቡከደነጾር
+    ar: نبوخذ نصر الثاني الكلداني
+    arc: ܢܒܘ ܚܘܕܘܪܝ ܐܘܨܘܪ
+    arz: نبوخذ نصر التانى
+    ast: Nabucodonosor II
+    az: II Navuxodonosor
+    azb: نبوکیدنصسر
+    be: Навухаданосар II
+    be-tarask: Навухаданосар II
+    bg: Навуходоносор II
+    bn: দ্বিতীয় নেবুচাদনেজার
+    br: Naboukadnesar II
+    ca: Nabucodonosor II
+    ceb: Nabucodonosor
+    ckb: نەبووخەد نەسر دووەم
+    cs: Nebukadnesar II.
+    cv: Навуходоносор II
+    cy: Nebuchadnesar II
+    da: Nebukadnesar 2.
+    de: Nabû-kudurrī-uṣur II.
+    el: Ναβουχοδονόσωρ Β'
+    en: Nebuchadnezzar II
+    en-ca: Nebuchadnezzar II
+    en-gb: Nebuchadnezzar II
+    en-us: Nebuchadnezzar II
+    eo: Nebukadnecaro la 2-a
+    es: Nabucodonosor II
+    et: Nebukadnetsar II
+    eu: Nabukodonosor II.a
+    fa: بختنصر
+    fi: Nebukadressar II
+    fr: Nabuchodonosor II
+    fy: Nebûkadnêzer II
+    ga: Nabúcadnazar II
+    gl: Nabucodonosor II
+    grc: Ναβουχοδονόσορ
+    hak: Nì-pu-kap-nì-sat ngi-sṳ
+    he: נבוכדנצר השני
+    hr: Nabukodonosor II.
+    hu: II. Nabú-kudurri-uszur
+    hy: Նաբուգոդոնոսոր II
+    id: Nebukadnezar II
+    is: Nebúkadnesar 2.
+    it: Nabucodonosor II
+    ja: ネブカドネザル2世
+    ka: ნაბუქოდონოსორ II
+    ko: 네부카드네자르 2세
+    la: Nabuchodonosor II
+    li: Nebukadnesar
+    lt: Nabuchodonosaras II
+    lv: Nebukadnecars II
+    mg: Nebokadnetsara II
+    mk: Навуходонозор II
+    mn: Небухаднезар II
+    ms: Nebuchadnezzar II
+    mul: Nabukadnezar II.
+    nan: Nebuchadnezzar 2-sè
+    nb: Nebukadnesar II
+    nl: Nebukadnezar II
+    nn: Nebukadnesar II av Babylon
+    nrm: Nabugodounosor II
+    oc: Nabucodonosòr II
+    pl: Nabuchodonozor II
+    pnb: بخت نصر
+    ps: بخت نصر
+    pt: Nabucodonosor II
+    pt-br: Nabucodonosor II
+    ro: Nabucodonosor al II-lea
+    ru: Навуходоносор II
+    sco: Nebuchadnezzar II
+    sd: بخت نصر
+    sh: Nabukodonosor II
+    si: නෙබුකැඩ්නෙසර් II
+    sk: Nebukadnesar II.
+    skr: بخت نصر
+    sl: Nebukadnezar II.
+    sq: Nebuchadnezzar II
+    sr: Навукодоносор II
+    sv: Nebukadnessar II
+    sw: Nebukadreza II
+    ta: இரண்டாம் நெபுகாத்நேசர்
+    th: พระเจ้าเนบูคัดเนซซาร์ที่ 2
+    tl: Nabucodonosor II
+    tr: II. Nebukadnezar
+    tt: Navuxodonosor II
+    uk: Навуходоносор II
+    ur: بخت نصر
+    uz: Navuxodonosorii
+    vi: Nebuchadnezzar II
+    war: Nebuchadnezzar II
+    wuu: 尼布甲尼撒二世
+    xmf: ნაბუქოდონოსორ II
+    yi: נבוכדנאצר דער צווייטער
+    yue: 尼布甲尼撒二世
+    zh: 尼布甲尼撒二世
 ---
-
 # [[Nebuchadnezzar II]] 
 
 #is_/same_as :: [[WD~Nebuchadnezzar_II,12591]] 

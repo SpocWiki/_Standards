@@ -1,103 +1,221 @@
 ---
 aliases:
-  - Holocene calendar
-  - Holocene Era
-  - Human Era
-  - Холоцен
-  - Holocén
-  - Holocæn
-  - Holozän
-  - Holoceno
-  - Holotseen
-  - Holoseeni
-  - Holocène
-  - holocén
-  - olocene
-  - 完新世
-  - Holocenas
-  - Holoceen
-  - Holocen
-  - Holocénico
-  - holocen
-  - 全新世
-  - Holocene
-  - Epoch~2~Holocene
+- an Sealad Holaicéineach
+- Epoch~2~Holocene
+- Golotsen
+- Holocaenum
+- Holoceen
+- Holocen
+- Holocenas
+- Holocene
+- Holocene calendar
+- Holocene Era
+- Holoceno
+- Holocenu
+- Holocæn
+- Holocè
+- Holocène
+- Holocén
+- Holocénico
+- holocēns
+- Holoseen
+- Holoseeni
+- holoseeʹn
+- Holosen
+- holosena
+- Holoseno
+- Holosén
+- Holotseen
+- Holozeno
+- Holozän
+- Human Era
+- Nútími
+- olocene
+- Olocèn
+- Olosene
+- Oluceni
+- Oân-sin-sè
+- tenpo pi sin ale
+- thế Holocen
+- Ολόκαινος εποχή
+- галацэн
+- галяцэн
+- голоцен
+- Холоцен
+- Հոլոցեն
+- הולוקן
+- هولوسن
+- هولوسين
+- هولوسین
+- ہولوسین
+- नूतनतम युग
+- হলোসিন
+- புவியியல் வரலாற்றுகால அட்டவைண
+- హోలోసీన్
+- ഹോളോസീൻ
+- สมัยโฮโลซีน
+- ჰოლოცენი
+- 全新世
+- 完新世
+- 홀로세
 has_id_wikidata: Q25445
 Commons_category: Holocene
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide.jpg
 instance_of:
-  - "[[_Standards/WikiData/WD~series,312468]]"
-  - "[[_Standards/WikiData/WD~epoch,754897]]"
+- '[[_Standards/WikiData/WD~series,312468]]'
+- '[[_Standards/WikiData/WD~epoch,754897]]'
 IPA_transcription: /ˈhɒl.əsiːn/
-named_by: "[[_Standards/WikiData/WD~Paul_Gervais,433721]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-significant_event: "[[_Standards/WikiData/WD~Middle_Bronze_Age_Cold_Epoch,4375138]]"
+named_by: '[[_Standards/WikiData/WD~Paul_Gervais,433721]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+significant_event: '[[_Standards/WikiData/WD~Middle_Bronze_Age_Cold_Epoch,4375138]]'
 sRGB_color_hex_triplet: FEEBD2
 start_time: -9700-01-01
 dv_has_:
+  duration_:
+    years: 1.149e+4
   name_:
     abbreviated: Q2
+    af: Holoseen
+    ar: هولوسين
+    arz: هولوسين
+    ast: Holocenu
+    az: Holosen
+    ba: Голоцен
+    bcl: Holoseno
+    be: галацэн
+    be-tarask: галяцэн
     bg: Холоцен
-    cs: Holocén
+    bn: হলোসিন
+    br: Holosen
+    bs: Holocen
+    ca: Holocè
+    cdo: Holocene
+    cs: holocén
+    cy: Holosen
     da: Holocæn
     de: Holozän
+    el: Ολόκαινος εποχή
+    en: Holocene
+    en-ca: Holocene
+    en-gb: Holocene
+    eo: holoceno
     es: Holoceno
-    et: Holotseen
-    fi: Holoseeni
+    et: holotseen
+    eu: Holozeno
+    fa: هولوسین
+    fi: holoseeni
     fr: Holocène
+    frr: Holozän
+    fy: Holoseen
+    ga: an Sealad Holaicéineach
+    gl: Holoceno
+    ha: Holocene
+    he: הולוקן
+    hi: नूतनतम युग
+    hr: holocen
     hu: holocén
-    it: olocene
+    hy: Հոլոցեն
+    id: Holosen
+    is: Nútími
+    it: Olocene
     ja: 完新世
-    lt: Holocenas
+    jv: Holosen
+    ka: ჰოლოცენი
+    kk: Голоцен
+    ko: 홀로세
+    ku: Holosen
+    ky: Голоцен
+    la: Holocaenum
+    lb: Holozän
+    lfn: Olosene
+    lt: holocenas
+    lv: holocēns
+    lzh: 全新世
+    mk: холоцен
+    ml: ഹോളോസീൻ
+    ms: Holosen
+    mzn: هولوسن
+    nan: Oân-sin-sè
+    nb: holocen
+    nds: Holozän
     nl: Holoceen
+    nn: holocen
     no: Holocen
+    oc: Olocèn
     pl: Holocen
-    pt: Holocénico
-    sk: holocén
+    pnb: ہولوسین
+    ps: هولوسين
+    pt: Holoceno
+    pt-br: Holoceno
+    ro: holocen
+    ru: голоцен
+    sah: Голоцен
+    scn: Oluceni
+    sco: Holocene
+    se: holosena
+    sh: Holocen
+    sk: Holocén
     sl: holocen
+    smn: holoseen
+    sms: holoseeʹn
+    sq: Holocen
+    sr: холоцен
+    stq: Holozän
+    su: Holosén
     sv: holocen
+    ta: புவியியல் வரலாற்றுகால அட்டவைண
+    te: హోలోసీన్
+    th: สมัยโฮโลซีน
+    tl: Holoseno
+    tok: tenpo pi sin ale
+    tr: Holosen
+    uk: голоцен
+    uz: Golotsen
+    vi: thế Holocen
+    vls: Holoceen
+    war: Holocen
+    wuu: 全新世
+    yue: 全新世
     zh: 全新世
-  time_:
-    started: "-10.e3"
-    stopped: 1492
-  text_of_:
-    color: "0xFEEBD2"
-  duration_:
-    years: "1.149e+4"
-  previous_:
-    item: "[[Epoch-002_568~Pleistocene]]"
   next_:
-    item: "[[Epoch-000_001~Anthropocene]]"
+    item: '[[Epoch-000_001~Anthropocene]]'
+  previous_:
+    item: '[[Epoch-002_568~Pleistocene]]'
+  text_of_:
+    color: 0xFEEBD2
+  time_:
+    started: -10.e3
+    stopped: 1492
 dv_is_:
   same_as:
-    - "[[../../../../../WikiData/WD~Holocene,25445]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene|Epoch-000_012~Holocene]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene.public|Epoch-000_012~Holocene.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene.internal|Epoch-000_012~Holocene.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene.protect|Epoch-000_012~Holocene.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene.private|Epoch-000_012~Holocene.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene.personal|Epoch-000_012~Holocene.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene.secret|Epoch-000_012~Holocene.secret]]"
+  - '[[../../../../../WikiData/WD~Holocene,25445]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene|Epoch-000_012~Holocene]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene.public|Epoch-000_012~Holocene.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene.internal|Epoch-000_012~Holocene.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene.protect|Epoch-000_012~Holocene.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene.private|Epoch-000_012~Holocene.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene.personal|Epoch-000_012~Holocene.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene.secret|Epoch-000_012~Holocene.secret]]'
 dv_has_name_abbreviated: Q2
-dv_has_time_started: "-10.e3"
+dv_has_time_started: -10.e3
 dv_has_time_stopped: 1492
-dv_has_text_of_color: "0xFEEBD2"
-dv_has_duration_years: "1.149e+4"
-dv_has_previous_item: "[[Epoch-002_568~Pleistocene]]"
-dv_has_next_item: "[[Epoch-000_001~Anthropocene]]"
+dv_has_text_of_color: 0xFEEBD2
+dv_has_duration_years: 1.149e+4
+dv_has_previous_item: '[[Epoch-002_568~Pleistocene]]'
+dv_has_next_item: '[[Epoch-000_001~Anthropocene]]'
 dv_is_same_as:
-  - "[[../../../../../WikiData/WD~Holocene,25445]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene|Epoch-000_012~Holocene]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene.public|Epoch-000_012~Holocene.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene.internal|Epoch-000_012~Holocene.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene.protect|Epoch-000_012~Holocene.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene.private|Epoch-000_012~Holocene.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene.personal|Epoch-000_012~Holocene.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene.secret|Epoch-000_012~Holocene.secret]]"
+- '[[../../../../../WikiData/WD~Holocene,25445]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene|Epoch-000_012~Holocene]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene.public|Epoch-000_012~Holocene.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene.internal|Epoch-000_012~Holocene.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene.protect|Epoch-000_012~Holocene.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene.private|Epoch-000_012~Holocene.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene.personal|Epoch-000_012~Holocene.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene.secret|Epoch-000_012~Holocene.secret]]'
 dv_has_name_bg: Холоцен
 dv_has_name_cs: Holocén
 dv_has_name_da: Holocæn
@@ -119,7 +237,6 @@ dv_has_name_sl: holocen
 dv_has_name_sv: holocen
 dv_has_name_zh: 全新世
 ---
-
 # [[Epoch-000_012~Holocene]] 
 
 #is_a_/time_/Epoch 

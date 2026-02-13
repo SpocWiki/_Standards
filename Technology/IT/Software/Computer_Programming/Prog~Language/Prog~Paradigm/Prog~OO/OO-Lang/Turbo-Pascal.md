@@ -1,7 +1,63 @@
 ---
 has_id_wikidata: Q473201
+dv_has_:
+  name_:
+    ar: توربو باسكال
+    ca: Turbo Pascal
+    cs: Turbo Pascal
+    da: Turbo Pascal
+    de: Turbo Pascal
+    de-ch: Turbo Pascal
+    el: Turbo Pascal
+    en: Turbo Pascal
+    en-ca: Turbo Pascal
+    en-gb: Turbo Pascal
+    eo: Turbo Pascal
+    es: Turbo Pascal
+    et: Turbo Pascal
+    fi: Turbo Pascal
+    fr: Turbo Pascal
+    he: טורבו פסקל
+    hu: Turbo Pascal
+    id: Turbo Pascal
+    it: Turbo Pascal
+    ja: Turbo Pascal
+    kk: Turbo Pascal
+    ko: 터보 파스칼
+    ky: Turbo Pascal
+    mg: Turbo Pascal
+    nb: Turbo Pascal
+    nl: Turbo Pascal
+    pl: Turbo Pascal
+    pt: Turbo Pascal
+    pt-br: Turbo Pascal
+    ro: Borland Pascal
+    ru: Turbo Pascal
+    sh: Turbo Pascal
+    sk: Turbo Pascal
+    sv: Turbo Pascal
+    ta: டேர்போ பாசுகால்
+    tr: Turbo Pascal
+    tt: Turbo Pascal
+    tt-cyrl: Turbo Pascal
+    uk: Turbo Pascal
+    vec: Turbo Pascal
+    vi: Turbo Pascal
+    zh: Turbo Pascal
+    zh-cn: Turbo Pascal
+    zh-hans: Turbo Pascal
+    zh-hant: Turbo Pascal
+    zh-hk: Turbo Pascal
+    zh-sg: Turbo Pascal
+    zh-tw: Turbo Pascal
+aliases:
+- Borland Pascal
+- Turbo Pascal
+- טורבו פסקל
+- توربو باسكال
+- டேர்போ பாசுகால்
+- 터보 파스칼
 ---
-
 # [[Turbo-Pascal]] 
 
 #is_a_/ComputerLanguage 

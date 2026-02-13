@@ -1,90 +1,102 @@
 ---
 aliases:
-  - Ludfordian
-  - Лудфорд
-  - Ludford
-  - Ludfordien
-  - Ludfordium
-  - Ludfordiense
-  - Ludfordi
-  - ludfordi
-  - ludfordiano
-  - ルドフォーディアン期
-  - Lutfordis
-  - Ludfordiën
-  - Ludfordiano
-  - ludford
-  - ludfordij
-  - 卢德福德期
+- Ludford
+- Ludfordi
+- Ludfordi lade
+- Ludfordian
+- ludfordiano
+- Ludfordien
+- Ludfordiense
+- ludfordij
+- Ludfordium
+- Ludfordiën
+- Ludfurdianu
+- Lutfordis
+- Tầng Ludford
+- Лудфорд
+- лудфордский ярус
+- اللودفوردي
+- لودفوردین
+- ルドフォーディアン
+- ルドフォーディアン期
+- 卢德福德期
 has_id_wikidata: Q912190
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-different_from: "[[_Standards/WikiData/WD~Ludford,1211559]]"
-named_after: "[[_Standards/WikiData/WD~Ludford,6698748]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Ludfordian,134620402]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+different_from: '[[_Standards/WikiData/WD~Ludford,1211559]]'
+named_after: '[[_Standards/WikiData/WD~Ludford,6698748]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Ludfordian,134620402]]'
 start_time: -425600000-01-01T00:00:00Z
 coordinate_location: Point(-2.77722222 52.35916667)
 sRGB_color_hex_triplet: D4EEE6
 end_time: -423000000-01-01T00:00:00Z
 dv_has_:
   duration_:
-    years: "2.600e+6"
-  previous_:
-    item: "[[Age~1~Gorstian]]"
-  next_:
-    item: "[[../../Period-0419~Devonian/Epoch-419~Early_Devonian/Age~1~Lochkovian|Age~1~Lochkovian]]"
+    years: 2.600e+6
   name_:
+    abbreviated: s7
+    ar: اللودفوردي
     bg: Лудфорд
     cs: Ludford
     da: Ludfordien
     de: Ludfordium
+    en: Ludfordian
     es: Ludfordiense
-    et: Ludfordi
+    et: Ludfordi lade
+    fa: لودفوردین
     fi: Ludford
     fr: Ludfordien
     hu: ludfordi
-    it: ludfordiano
-    ja: ルドフォーディアン期
+    id: Ludfordium
+    it: Ludfordiano
+    ja: ルドフォーディアン
     lt: Lutfordis
-    nl: Ludfordiën
+    nl: Ludfordien
+    nn: ludford
     no: Ludford
     pl: Ludford
     pt: Ludfordiano
+    ru: лудфордский ярус
+    scn: Ludfurdianu
     sk: ludford
     sl: ludfordij
     sv: ludford
+    vi: Tầng Ludford
     zh: 卢德福德期
-    abbreviated: s7
-  time_:
-    started: "-425.6e6"
-    stopped: "-423.0e6"
+  next_:
+    item: '[[../../Period-0419~Devonian/Epoch-419~Early_Devonian/Age~1~Lochkovian|Age~1~Lochkovian]]'
+  previous_:
+    item: '[[Age~1~Gorstian]]'
   text_of_:
-    color: "0xD9F0DF"
+    color: 0xD9F0DF
+  time_:
+    started: -425.6e6
+    stopped: -423.0e6
 dv_is_:
   same_as:
-    - "[[WD~Ludfordian,912190]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~2~Ludfordian|Age~2~Ludfordian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~2~Ludfordian.public|Age~2~Ludfordian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~2~Ludfordian.internal|Age~2~Ludfordian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~2~Ludfordian.protect|Age~2~Ludfordian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~2~Ludfordian.private|Age~2~Ludfordian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~2~Ludfordian.personal|Age~2~Ludfordian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~2~Ludfordian.secret|Age~2~Ludfordian.secret]]"
+  - '[[WD~Ludfordian,912190]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~2~Ludfordian|Age~2~Ludfordian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~2~Ludfordian.public|Age~2~Ludfordian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~2~Ludfordian.internal|Age~2~Ludfordian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~2~Ludfordian.protect|Age~2~Ludfordian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~2~Ludfordian.private|Age~2~Ludfordian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~2~Ludfordian.personal|Age~2~Ludfordian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~2~Ludfordian.secret|Age~2~Ludfordian.secret]]'
 dv_ischart: Ludfordian
-dv_has_duration_years: "2.600e+6"
-dv_has_previous_item: "[[Age~1~Gorstian]]"
-dv_has_next_item: "[[../../Period-0419~Devonian/Epoch-419~Early_Devonian/Age~1~Lochkovian|Age~1~Lochkovian]]"
+dv_has_duration_years: 2.600e+6
+dv_has_previous_item: '[[Age~1~Gorstian]]'
+dv_has_next_item: '[[../../Period-0419~Devonian/Epoch-419~Early_Devonian/Age~1~Lochkovian|Age~1~Lochkovian]]'
 dv_is_same_as:
-  - "[[WD~Ludfordian,912190]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~2~Ludfordian|Age~2~Ludfordian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~2~Ludfordian.public|Age~2~Ludfordian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~2~Ludfordian.internal|Age~2~Ludfordian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~2~Ludfordian.protect|Age~2~Ludfordian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~2~Ludfordian.private|Age~2~Ludfordian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~2~Ludfordian.personal|Age~2~Ludfordian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~2~Ludfordian.secret|Age~2~Ludfordian.secret]]"
+- '[[WD~Ludfordian,912190]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~2~Ludfordian|Age~2~Ludfordian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~2~Ludfordian.public|Age~2~Ludfordian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~2~Ludfordian.internal|Age~2~Ludfordian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~2~Ludfordian.protect|Age~2~Ludfordian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~2~Ludfordian.private|Age~2~Ludfordian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~2~Ludfordian.personal|Age~2~Ludfordian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~2~Ludfordian.secret|Age~2~Ludfordian.secret]]'
 dv_has_name_bg: Лудфорд
 dv_has_name_cs: Ludford
 dv_has_name_da: Ludfordien
@@ -106,9 +118,9 @@ dv_has_name_sl: ludfordij
 dv_has_name_sv: ludford
 dv_has_name_zh: 卢德福德期
 dv_has_name_abbreviated: s7
-dv_has_time_started: "-425.6e6"
-dv_has_time_stopped: "-423.0e6"
-dv_has_text_of_color: "0xD9F0DF"
+dv_has_time_started: -425.6e6
+dv_has_time_stopped: -423.0e6
+dv_has_text_of_color: 0xD9F0DF
 ---
 # [[Age~2~Ludfordian]] 
 

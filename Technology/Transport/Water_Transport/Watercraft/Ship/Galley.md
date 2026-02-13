@@ -1,21 +1,57 @@
 ---
 aliases:
-  - Galeere
-  - Galley
+- Cudigghiuni
+- Galai
+- Gale
+- galea
+- Galeer
+- Galeere
+- galei
+- Galeiða
+- galej
+- galeja
+- Galera
+- Galero
+- galeră
+- Gali
+- Galija
+- Galley
+- galär
+- galère
+- galé
+- galéra
+- gałera
+- ghali
+- gálya
+- kadırga
+- Kaleeri
+- Manchani
+- rámhlong
+- Γαλέρα
+- галера
+- Галија
+- Գալերա
+- ספינת משוטים
+- القادس
+- گالی
+- ガレー船
+- 桨帆船
+- 槳帆船
+- 갤리
 has_id_wikidata: Q188924
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-  - '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 derivative_work: '[[_Standards/WikiData/WD~galleass,897941]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Galera,1491841]]'
-  - '[[_Standards/WikiData/WD~galley,115070835]]'
+- '[[_Standards/WikiData/WD~Galera,1491841]]'
+- '[[_Standards/WikiData/WD~galley,115070835]]'
 instance_of: '[[_Standards/WikiData/WD~ship_type,2235308]]'
 depicted_by: '[[_Standards/WikiData/WD~Reconstruction_of_a_galley,131764591]]'
 subclass_of: '[[_Standards/WikiData/WD~ship,11446]]'
@@ -24,8 +60,84 @@ Iconclass_notation: 46C23221
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Galley-knightshospitaller.jpg
 Commons_gallery: Galley
 Commons_category: Galleys (ship)
+dv_has_:
+  name_:
+    af: galei
+    an: Galera
+    ar: القادس
+    ast: Galera
+    be: галера
+    be-tarask: галера
+    bg: Галера
+    bjn: Gali
+    br: Gale
+    bs: Galija
+    ca: galera
+    co: Galera
+    cs: galéra
+    cy: gali
+    da: galej
+    de: Galeere
+    el: Γαλέρα
+    en: galley
+    eo: Galero
+    es: galera
+    et: Galeer
+    eu: Galera
+    fa: گالی
+    fi: Kaleeri
+    fr: galère
+    ga: rámhlong
+    gl: galera
+    gsw: Galeere
+    he: ספינת משוטים
+    hr: Galija
+    hu: gálya
+    hy: Գալերա
+    id: Galai
+    io: Galero
+    is: Galeiða
+    it: galea
+    ja: ガレー船
+    ko: 갤리
+    lt: Galera
+    mk: Галија
+    ms: ghali
+    nb: galei
+    nl: galei
+    nn: galei
+    oc: Galera
+    pl: galera
+    pms: Galea
+    pt: galé
+    ro: galeră
+    ru: галера
+    scn: Cudigghiuni
+    sco: galley
+    sh: Galija
+    sk: Galéra
+    sl: galeja
+    sq: Galera
+    sr: Галија
+    sr-ec: Галија
+    sr-el: Galija
+    sv: galär
+    sw: Manchani
+    tg: Галера
+    tr: kadırga
+    tt: Галера
+    uk: галера
+    vec: gałera
+    wuu: 桨帆船
+    yue: 槳帆船
+    zh: 槳帆船
+    zh-cn: 桨帆船
+    zh-hans: 桨帆船
+    zh-hant: 槳帆船
+    zh-hk: 槳帆船
+    zh-sg: 桨帆船
+    zh-tw: 槳帆船
 ---
-
 # [[Galley]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Galley,188924|WD~Galley,188924]] 

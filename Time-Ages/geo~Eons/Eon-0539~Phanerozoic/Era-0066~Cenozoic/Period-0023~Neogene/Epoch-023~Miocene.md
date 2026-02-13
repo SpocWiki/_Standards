@@ -1,101 +1,197 @@
 ---
 aliases:
-  - Miozän
-  - Миоцен
-  - Miocén
-  - Miocæn
-  - Mioceno
-  - Miotseen
-  - Mioseeni
-  - Miocène
-  - miocén
-  - miocene
-  - 中新世
-  - Miocenas
-  - Mioceen
-  - Miocen
-  - Miocénico
-  - miocen
-  - Epoch~1~Miocene
+- an Sealad Méicéineach
+- Epoch~1~Miocene
+- Miocaenum
+- Mioceen
+- Miocen
+- Miocenas
+- miocene
+- Mioceno
+- Miocenu
+- Miocæn
+- Miocè
+- Miocèn
+- Miocène
+- Miocén
+- Miocénico
+- miocēns
+- Mioseen
+- Mioseeni
+- mioseeʹn
+- Miosen
+- miosena
+- Miosene
+- Mioseno
+- Miotseen
+- Miotsen boʻlimi
+- Miozeno
+- Miozän
+- Miuceni
+- Miyosen
+- Míósen
+- Mïosen
+- thế Miocen
+- Tiong-sin-sè
+- Μειόκαινο
+- міоцен
+- міяцэн
+- Миоцен
+- Միոցեն
+- מיוקן
+- ميوسين
+- میوسن
+- मध्यनूतन युग
+- ਮਾਇਓਸੀਨ
+- மயோசீன்
+- మయోసీన్
+- മയോസീൻ
+- สมัยไมโอซีน
+- მიოცენი
+- 中新世
+- 마이오세
 has_id_wikidata: Q76267
 instance_of:
-  - "[[_Standards/WikiData/WD~series,312468]]"
-  - "[[_Standards/WikiData/WD~epoch,754897]]"
+- '[[_Standards/WikiData/WD~series,312468]]'
+- '[[_Standards/WikiData/WD~epoch,754897]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Miocene,7063284]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Miocene,7063284]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 start_time: -23030000-01-01T00:00:00Z
-named_by: "[[_Standards/WikiData/WD~Charles_Lyell,5333]]"
+named_by: '[[_Standards/WikiData/WD~Charles_Lyell,5333]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide%20Paleographic%20Map%20of%20Earth%2C%2015%20Ma%20%28Langhian%20Age%29.png
 sRGB_color_hex_triplet: FFFF00
 end_time: -5333000-01-01T00:00:00Z
 Commons_category: Miocene
-Dewey_Decimal_Classification: "551.787"
+Dewey_Decimal_Classification: 551.787
 dv_has_:
-  previous_:
-    item: "[[../Period-0066~Paleogene/Epoch-034~Oligocene|Epoch-034~Oligocene]]"
-  next_:
-    item: "[[Epoch-005~Pliocene]]"
+  duration_:
+    years: 1.770e+7
   name_:
     abbreviated: N1
+    af: Mioseen
+    ar: ميوسين
+    ast: Miocenu
+    be: міяцэн
+    be-tarask: міяцэн
     bg: Миоцен
+    br: Miosen
+    bs: Miocen
+    ca: Miocè
     cs: Miocén
+    cy: Mïosen
     da: Miocæn
     de: Miozän
+    el: Μειόκαινο
+    en: Miocene
+    en-gb: Miocene
+    eo: mioceno
     es: Mioceno
-    et: Miotseen
-    fi: Mioseeni
+    et: miotseen
+    eu: Miozeno
+    fa: میوسن
+    fi: mioseeni
     fr: Miocène
+    ga: an Sealad Méicéineach
+    gl: Mioceno
+    he: מיוקן
+    hi: मध्यनूतन युग
+    hr: miocen
     hu: miocén
-    it: miocene
+    hy: Միոցեն
+    id: Miosen
+    io: Mioceno
+    is: Míósen
+    it: Miocene
     ja: 中新世
-    lt: Miocenas
+    ka: მიოცენი
+    kk: Миоцен
+    ko: 마이오세
+    la: Miocaenum
+    lb: Miozän
+    lfn: Miosene
+    lt: miocenas
+    lv: miocēns
+    mk: Миоцен
+    ml: മയോസീൻ
+    ms: Miosen
+    mzn: میوسن
+    nan: Tiong-sin-sè
+    nb: miocen
+    nds: Miozän
     nl: Mioceen
+    nn: miocen
     no: Miocen
-    pl: Miocen
-    pt: Miocénico
-    sk: miocén
+    oc: Miocèn
+    pa: ਮਾਇਓਸੀਨ
+    pl: miocen
+    pms: Miocen
+    pt: Mioceno
+    ro: Miocen
+    ru: миоцен
+    scn: Miuceni
+    se: miosena
+    sh: miocen
+    sk: Miocén
     sl: miocen
+    smn: mioseen
+    sms: mioseeʹn
+    sr: Миоцен
+    stq: Miozän
     sv: miocen
+    ta: மயோசீன்
+    te: మయోసీన్
+    tg: Миоцен
+    th: สมัยไมโอซีน
+    tl: Mioseno
+    tr: Miyosen
+    uk: міоцен
+    uz: Miotsen boʻlimi
+    vi: thế Miocen
+    war: Miocen
+    wuu: 中新世
+    yue: 中新世
     zh: 中新世
-  time_:
-    started: "-23.030e6"
-    stopped: "-5.333e6"
-  duration_:
-    years: "1.770e+7"
+  next_:
+    item: '[[Epoch-005~Pliocene]]'
+  previous_:
+    item: '[[../Period-0066~Paleogene/Epoch-034~Oligocene|Epoch-034~Oligocene]]'
   text_of_:
-    color: "0xFFFF00"
+    color: 0xFFFF00
+  time_:
+    started: -23.030e6
+    stopped: -5.333e6
 dv_is_:
   same_as:
-    - "[[WD~Miocene,76267]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene|Epoch-023~Miocene]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene.public|Epoch-023~Miocene.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene.internal|Epoch-023~Miocene.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene.protect|Epoch-023~Miocene.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene.private|Epoch-023~Miocene.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene.personal|Epoch-023~Miocene.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene.secret|Epoch-023~Miocene.secret]]"
-dv_has_previous_item: "[[../Period-0066~Paleogene/Epoch-034~Oligocene|Epoch-034~Oligocene]]"
-dv_has_next_item: "[[Epoch-005~Pliocene]]"
+  - '[[WD~Miocene,76267]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene|Epoch-023~Miocene]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene.public|Epoch-023~Miocene.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene.internal|Epoch-023~Miocene.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene.protect|Epoch-023~Miocene.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene.private|Epoch-023~Miocene.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene.personal|Epoch-023~Miocene.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene.secret|Epoch-023~Miocene.secret]]'
+dv_has_previous_item: '[[../Period-0066~Paleogene/Epoch-034~Oligocene|Epoch-034~Oligocene]]'
+dv_has_next_item: '[[Epoch-005~Pliocene]]'
 dv_is_same_as:
-  - "[[WD~Miocene,76267]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene|Epoch-023~Miocene]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene.public|Epoch-023~Miocene.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene.internal|Epoch-023~Miocene.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene.protect|Epoch-023~Miocene.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene.private|Epoch-023~Miocene.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene.personal|Epoch-023~Miocene.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene.secret|Epoch-023~Miocene.secret]]"
+- '[[WD~Miocene,76267]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene|Epoch-023~Miocene]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene.public|Epoch-023~Miocene.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene.internal|Epoch-023~Miocene.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene.protect|Epoch-023~Miocene.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene.private|Epoch-023~Miocene.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene.personal|Epoch-023~Miocene.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene.secret|Epoch-023~Miocene.secret]]'
 dv_has_name_abbreviated: N1
-dv_has_time_started: "-23.030e6"
-dv_has_time_stopped: "-5.333e6"
-dv_has_duration_years: "1.770e+7"
-dv_has_text_of_color: "0xFFFF00"
+dv_has_time_started: -23.030e6
+dv_has_time_stopped: -5.333e6
+dv_has_duration_years: 1.770e+7
+dv_has_text_of_color: 0xFFFF00
 dv_has_name_bg: Миоцен
 dv_has_name_cs: Miocén
 dv_has_name_da: Miocæn
@@ -117,7 +213,6 @@ dv_has_name_sl: miocen
 dv_has_name_sv: miocen
 dv_has_name_zh: 中新世
 ---
-
 # [[Epoch-023~Miocene]] 
 
 #is_a_/time_/Epoch 

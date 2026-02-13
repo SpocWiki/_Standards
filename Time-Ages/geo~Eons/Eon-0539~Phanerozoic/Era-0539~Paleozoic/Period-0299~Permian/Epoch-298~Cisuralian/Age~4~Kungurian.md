@@ -1,90 +1,109 @@
 ---
 aliases:
-  - Kungurian
-  - Кунгур
-  - Kungur
-  - Kungurien
-  - Kungurium
-  - Kunguriense
-  - Kunguri
-  - kunguri
-  - kungurianno
-  - クングリアン期
-  - Kunguris
-  - Kunguriën
-  - Kunguriano
-  - kungur
-  - kungurij
-  - 孔古尔期
+- Kungur
+- Kunguri
+- Kungurian
+- kungurianno
+- Kunguriano
+- Kungurianu
+- Kungurien
+- Kunguriense
+- kungurij
+- Kunguris
+- Kungurium
+- Kungurià
+- Kunguriën
+- Tầng Kungur
+- Кунгур
+- кунгурский ярус
+- Кунгурський ярус
+- الكونغوري
+- کونگورین
+- クングリアン期
+- クングーリアン
+- 孔古尔期
+- 孔古階
 has_id_wikidata: Q1073812
-different_from: "[[_Standards/WikiData/WD~Kungur,155974]]"
+different_from: '[[_Standards/WikiData/WD~Kungur,155974]]'
 named_after:
-  - "[[_Standards/WikiData/WD~Kungur,155974]]"
-  - "[[_Standards/WikiData/WD~Kungursky_Uyezd,4247139]]"
+- '[[_Standards/WikiData/WD~Kungur,155974]]'
+- '[[_Standards/WikiData/WD~Kungursky_Uyezd,4247139]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 start_time: -283500000-01-01T00:00:00Z
 sRGB_color_hex_triplet: EF947F
 end_time: -272950000-01-01T00:00:00Z
 dv_has_:
   duration_:
-    years: "1.049e+7"
-  previous_:
-    item: "[[Age~3~Artinskian]]"
-  next_:
-    item: "[[../Epoch-273~Guadalupian/Age~1~Roadian|Age~1~Roadian]]"
+    years: 1.049e+7
   name_:
+    abbreviated: p4
+    af: Kungurium
+    ar: الكونغوري
     bg: Кунгур
+    ca: Kungurià
     cs: Kungur
     da: Kungurien
     de: Kungurium
+    en: Kungurian
     es: Kunguriense
     et: Kunguri
+    fa: کونگورین
     fi: Kungur
     fr: Kungurien
     hu: kunguri
-    it: kungurianno
-    ja: クングリアン期
+    id: Kungurium
+    it: Kunguriano
+    ja: クングーリアン
     lt: Kunguris
-    nl: Kunguriën
+    nl: Kungurien
+    nn: kungur
     no: Kungurium
     pl: Kungur
     pt: Kunguriano
+    ru: кунгурский ярус
+    scn: Kungurianu
+    sh: Kungur
     sk: kungur
     sl: kungurij
     sv: kungur
-    zh: 孔古尔期
-    abbreviated: p4
-  time_:
-    started: "-283.50e6"
-    stopped: "-273.01e6"
+    uk: Кунгурський ярус
+    vi: Tầng Kungur
+    zh: 孔古階
+  next_:
+    item: '[[../Epoch-273~Guadalupian/Age~1~Roadian|Age~1~Roadian]]'
+  previous_:
+    item: '[[Age~3~Artinskian]]'
   text_of_:
-    color: "0xE38776"
+    color: 0xE38776
+  time_:
+    started: -283.50e6
+    stopped: -273.01e6
 dv_is_:
   same_as:
-    - "[[WD~Kungurian,1073812]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~4~Kungurian|Age~4~Kungurian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~4~Kungurian.public|Age~4~Kungurian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~4~Kungurian.internal|Age~4~Kungurian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~4~Kungurian.protect|Age~4~Kungurian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~4~Kungurian.private|Age~4~Kungurian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~4~Kungurian.personal|Age~4~Kungurian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~4~Kungurian.secret|Age~4~Kungurian.secret]]"
-dv_has_duration_years: "1.049e+7"
-dv_has_previous_item: "[[Age~3~Artinskian]]"
-dv_has_next_item: "[[../Epoch-273~Guadalupian/Age~1~Roadian|Age~1~Roadian]]"
+  - '[[WD~Kungurian,1073812]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~4~Kungurian|Age~4~Kungurian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~4~Kungurian.public|Age~4~Kungurian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~4~Kungurian.internal|Age~4~Kungurian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~4~Kungurian.protect|Age~4~Kungurian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~4~Kungurian.private|Age~4~Kungurian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~4~Kungurian.personal|Age~4~Kungurian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~4~Kungurian.secret|Age~4~Kungurian.secret]]'
+dv_has_duration_years: 1.049e+7
+dv_has_previous_item: '[[Age~3~Artinskian]]'
+dv_has_next_item: '[[../Epoch-273~Guadalupian/Age~1~Roadian|Age~1~Roadian]]'
 dv_is_same_as:
-  - "[[WD~Kungurian,1073812]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~4~Kungurian|Age~4~Kungurian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~4~Kungurian.public|Age~4~Kungurian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~4~Kungurian.internal|Age~4~Kungurian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~4~Kungurian.protect|Age~4~Kungurian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~4~Kungurian.private|Age~4~Kungurian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~4~Kungurian.personal|Age~4~Kungurian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~4~Kungurian.secret|Age~4~Kungurian.secret]]"
+- '[[WD~Kungurian,1073812]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~4~Kungurian|Age~4~Kungurian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~4~Kungurian.public|Age~4~Kungurian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~4~Kungurian.internal|Age~4~Kungurian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~4~Kungurian.protect|Age~4~Kungurian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~4~Kungurian.private|Age~4~Kungurian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~4~Kungurian.personal|Age~4~Kungurian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~4~Kungurian.secret|Age~4~Kungurian.secret]]'
 dv_has_name_bg: Кунгур
 dv_has_name_cs: Kungur
 dv_has_name_da: Kungurien
@@ -106,9 +125,9 @@ dv_has_name_sl: kungurij
 dv_has_name_sv: kungur
 dv_has_name_zh: 孔古尔期
 dv_has_name_abbreviated: p4
-dv_has_time_started: "-283.50e6"
-dv_has_time_stopped: "-273.01e6"
-dv_has_text_of_color: "0xE38776"
+dv_has_time_started: -283.50e6
+dv_has_time_stopped: -273.01e6
+dv_has_text_of_color: 0xE38776
 ---
 # [[Age~4~Kungurian]] 
 

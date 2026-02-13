@@ -1,100 +1,197 @@
 ---
 aliases:
-  - Pleiocene
-  - Плиоцен
-  - Pliocén
-  - Pliocæn
-  - Pliozän
-  - Ploceno
-  - Pliotseen
-  - Plioseeni
-  - Pliocène
-  - pliocén
-  - pliocene
-  - 鮮新世
-  - Pliocenas
-  - Plioceen
-  - Pliocen
-  - Pliocénico
-  - pliocen
-  - 上新世
-  - Epoch~2~Pliocene
+- an Sealad Pléicéineach
+- Epoch~2~Pliocene
+- Pleiocene
+- Pliocaenum
+- Plioceen
+- Pliocen
+- Pliocenas
+- pliocene
+- Plioceni
+- plioceno
+- Pliocenu
+- Pliocæn
+- Pliocè
+- Pliocèn
+- Pliocène
+- Pliocén
+- Pliocénico
+- pliocēns
+- Plioseen
+- Plioseeni
+- plioseeʹn
+- Pliosen
+- pliosena
+- Pliosene
+- Plioseno
+- Pliotseen
+- Pliotsen
+- Pliozeno
+- Pliozän
+- Pliyosen
+- Pliyosen Çağ
+- Ploceno
+- Plíósen
+- Sian-sin-sè
+- Thế Pliocen
+- Πλειόκαινο
+- пліоцен
+- пліяцэн
+- Плиоцен
+- Պլիոցենյան բաժին
+- פליוקן
+- بليوسين
+- پليوسين
+- پلیوسن
+- अतिनूतन युग
+- ప్లయోసీన్
+- สมัยไพลโอซีน
+- პლიოცენი
+- 上新世
+- 鮮新世
+- 플리오세
 has_id_wikidata: Q76259
 instance_of:
-  - "[[_Standards/WikiData/WD~series,312468]]"
-  - "[[_Standards/WikiData/WD~epoch,754897]]"
+- '[[_Standards/WikiData/WD~series,312468]]'
+- '[[_Standards/WikiData/WD~epoch,754897]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Pliocene,7344876]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Pliocene,7344876]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 end_time: -2580000-01-01T00:00:00Z
-named_by: "[[_Standards/WikiData/WD~Charles_Lyell,5333]]"
+named_by: '[[_Standards/WikiData/WD~Charles_Lyell,5333]]'
 Commons_category: Pliocene
 sRGB_color_hex_triplet: FFFF99
 start_time: -5333000-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide%20Paleographic%20Map%20of%20Earth%2C%205%20Ma%20%28Zanclean%20Age%29.png
-Dewey_Decimal_Classification: "551.788"
+Dewey_Decimal_Classification: 551.788
 dv_has_:
+  duration_:
+    years: 2.753e+6
   name_:
     abbreviated: N2
+    af: Plioseen
+    ar: بليوسين
+    ast: Pliocenu
+    az: Pliosen
+    be-tarask: пліяцэн
     bg: Плиоцен
+    br: Pliosen
+    bs: Pliocen
+    ca: Pliocè
     cs: Pliocén
+    cy: Pliosen
     da: Pliocæn
     de: Pliozän
-    es: Ploceno
-    et: Pliotseen
-    fi: Plioseeni
+    el: Πλειόκαινο
+    en: Pliocene
+    en-ca: Pliocene
+    en-gb: Pliocene
+    eo: plioceno
+    es: Plioceno
+    et: pliotseen
+    eu: Pliozeno
+    fa: پلیوسن
+    fi: plioseeni
     fr: Pliocène
+    ga: an Sealad Pléicéineach
+    gl: Plioceno
+    he: פליוקן
+    hi: अतिनूतन युग
+    hr: pliocen
     hu: pliocén
-    it: pliocene
+    hy: Պլիոցենյան բաժին
+    id: Pliosen
+    io: Plioceno
+    is: Plíósen
+    it: Pliocene
     ja: 鮮新世
-    lt: Pliocenas
+    ka: პლიოცენი
+    kk: Плиоцен
+    ko: 플리오세
+    ku: Pliyosen
+    ku-latn: Pliyosen
+    la: Pliocaenum
+    lb: Pliozän
+    lfn: Pliosene
+    lt: pliocenas
+    lv: pliocēns
+    mk: плиоцен
+    mr: अतिनूतन युग
+    ms: Pliosen
+    mzn: پلیوسن
+    nan: Sian-sin-sè
+    nb: pliocen
+    nds: Pliozän
     nl: Plioceen
+    nn: pliocen
     no: Pliocen
-    pl: Pliocen
-    pt: Pliocénico
-    sk: pliocén
+    oc: Pliocèn
+    pl: pliocen
+    pms: Pliocen
+    ps: پليوسين
+    pt: Plioceno
+    pt-br: Plioceno
+    ro: pliocen
+    ru: плиоцен
+    se: pliosena
+    sh: pliocen
+    sk: Pliocén
     sl: pliocen
+    smn: plioseen
+    sms: plioseeʹn
+    sq: Plioceni
+    sr: плиоцен
+    stq: Pliozän
     sv: pliocen
+    te: ప్లయోసీన్
+    th: สมัยไพลโอซีน
+    tl: Plioseno
+    tr: Pliyosen Çağ
+    uk: пліоцен
+    uz: Pliotsen
+    vi: Thế Pliocen
+    war: Pliocen
+    wuu: 上新世
+    yue: 上新世
     zh: 上新世
-  time_:
-    started: "-5.333e6"
-    stopped: "-2.580e6"
-  duration_:
-    years: "2.753e+6"
-  previous_:
-    item: "[[Epoch-023~Miocene]]"
   next_:
-    item: "[[../Period-0003~Quaternary/Epoch-002_568~Pleistocene|Epoch~1~Pleistocene]]"
+    item: '[[../Period-0003~Quaternary/Epoch-002_568~Pleistocene|Epoch~1~Pleistocene]]'
+  previous_:
+    item: '[[Epoch-023~Miocene]]'
   text_of_:
-    color: "0xFFFF99"
+    color: 0xFFFF99
+  time_:
+    started: -5.333e6
+    stopped: -2.580e6
 dv_is_:
   same_as:
-    - "[[WD~Pliocene,76259]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene|Epoch-005~Pliocene]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene.public|Epoch-005~Pliocene.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene.internal|Epoch-005~Pliocene.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene.protect|Epoch-005~Pliocene.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene.private|Epoch-005~Pliocene.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene.personal|Epoch-005~Pliocene.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene.secret|Epoch-005~Pliocene.secret]]"
+  - '[[WD~Pliocene,76259]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene|Epoch-005~Pliocene]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene.public|Epoch-005~Pliocene.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene.internal|Epoch-005~Pliocene.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene.protect|Epoch-005~Pliocene.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene.private|Epoch-005~Pliocene.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene.personal|Epoch-005~Pliocene.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene.secret|Epoch-005~Pliocene.secret]]'
 dv_has_name_abbreviated: N2
-dv_has_time_started: "-5.333e6"
-dv_has_time_stopped: "-2.580e6"
-dv_has_duration_years: "2.753e+6"
-dv_has_previous_item: "[[Epoch-023~Miocene]]"
-dv_has_next_item: "[[../Period-0003~Quaternary/Epoch-002_568~Pleistocene|Epoch~1~Pleistocene]]"
+dv_has_time_started: -5.333e6
+dv_has_time_stopped: -2.580e6
+dv_has_duration_years: 2.753e+6
+dv_has_previous_item: '[[Epoch-023~Miocene]]'
+dv_has_next_item: '[[../Period-0003~Quaternary/Epoch-002_568~Pleistocene|Epoch~1~Pleistocene]]'
 dv_is_same_as:
-  - "[[WD~Pliocene,76259]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene|Epoch-005~Pliocene]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene.public|Epoch-005~Pliocene.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene.internal|Epoch-005~Pliocene.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene.protect|Epoch-005~Pliocene.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene.private|Epoch-005~Pliocene.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene.personal|Epoch-005~Pliocene.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene.secret|Epoch-005~Pliocene.secret]]"
+- '[[WD~Pliocene,76259]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene|Epoch-005~Pliocene]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene.public|Epoch-005~Pliocene.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene.internal|Epoch-005~Pliocene.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene.protect|Epoch-005~Pliocene.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene.private|Epoch-005~Pliocene.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene.personal|Epoch-005~Pliocene.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene.secret|Epoch-005~Pliocene.secret]]'
 dv_has_name_bg: Плиоцен
 dv_has_name_cs: Pliocén
 dv_has_name_da: Pliocæn
@@ -115,9 +212,8 @@ dv_has_name_sk: pliocén
 dv_has_name_sl: pliocen
 dv_has_name_sv: pliocen
 dv_has_name_zh: 上新世
-dv_has_text_of_color: "0xFFFF99"
+dv_has_text_of_color: 0xFFFF99
 ---
-
 # [[Epoch-005~Pliocene]] 
 
 #is_a_/time_/Epoch 

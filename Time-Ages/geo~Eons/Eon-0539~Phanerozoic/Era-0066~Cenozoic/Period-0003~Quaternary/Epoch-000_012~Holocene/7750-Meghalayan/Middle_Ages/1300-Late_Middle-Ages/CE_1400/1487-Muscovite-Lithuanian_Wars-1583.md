@@ -1,45 +1,113 @@
 ---
 aliases:
-  - Muscovite–Lithuanian Wars
-  - Russo-Lithuanian Wars
-  - Muscovite Wars
-  - Lithuanian Wars
-  - 1487-Muscovite-Lithuanian_Wars-1583
-  - 1487-Muscovite-Lithuanian Wars-1583
+- 1487-Muscovite-Lithuanian Wars-1583
+- 1487-Muscovite-Lithuanian_Wars-1583
+- Errusia-Lituania Gerrak
+- guerras moscovito-lituanas
+- Guerre moscovito-lituane
+- Guerres lituano-moscovites
+- Guerres moscovita-lituanes
+- Guerres moscovito-lituanes
+- LDK–Maskvos karai
+- Lietuvas—Maskavijas kari
+- Lithuanian Wars
+- Moskouse-Litouwse Oorlogen
+- Moskova-Litvanya Savaşları
+- Moskovsko-litavski ratovi
+- moskovsko-litovske vojne
+- Moskva-Leedu sõda
+- Moskviaj-Litoviaj Militoj
+- Muscovite Wars
+- Muscovite-Lithuanian Wars
+- Muscovite–Lithuanian Wars
+- rusko-litevské války
+- Russisch-Litauische Kriege
+- Russo-Lithuanian Wars
+- Războaiele moscovite-lituaniene
+- Wojny moskiewskie
+- Πόλεμοι Μοσχοβίας-Λιθουανίας
+- Войны Вялікага Княства Літоўскага і Маскоўскай дзяржавы
+- войны Вялікага Княства Літоўскага з Маскоўскай дзяржавай
+- литовсько-московські війни
+- Московско-литвански ратови
+- Рус-Литва сугышлары
+- Рус-литва һуғыштары
+- русско-литовские войны
+- الحروب الموسكوية الليتوانية
+- რუსეთ-ლიტვის ომი
+- モスクワ・リトアニア戦争
+- 莫斯科-立陶宛战争
+- 莫斯科-立陶宛戰爭
+- 莫斯科立陶宛公國之戰
 has_id_wikidata: Q1567698
 participant:
-  - "[[_Standards/WikiData/WD~Grand_Principality_of_Moscow,170770]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Poland,1649871]]"
-  - "[[_Standards/WikiData/WD~Grand_Duchy_of_Lithuania,49683]]"
+- '[[_Standards/WikiData/WD~Grand_Principality_of_Moscow,170770]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Poland,1649871]]'
+- '[[_Standards/WikiData/WD~Grand_Duchy_of_Lithuania,49683]]'
 described_by_source:
-  - "[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-instance_of: "[[_Standards/WikiData/WD~series_of_wars,104212151]]"
+- '[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+instance_of: '[[_Standards/WikiData/WD~series_of_wars,104212151]]'
 start_time: 1487-01-01T00:00:00Z
 end_time: 1583-01-01T00:00:00Z
 Universal_Decimal_Classification: 355.48(47:474.5)
 Krugosvet_article_archived_: istoriya/RUSSKO-LITOVSKIE_VONI.html
 dv_is_:
   same_as:
-    - "[[../../../../../../../../../../WikiData/WD~Muscovite-Lithuanian_Wars,1567698]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1487-Muscovite-Lithuanian_Wars-1583|1487-Muscovite-Lithuanian_Wars-1583]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1487-Muscovite-Lithuanian_Wars-1583.public|1487-Muscovite-Lithuanian_Wars-1583.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1487-Muscovite-Lithuanian_Wars-1583.internal|1487-Muscovite-Lithuanian_Wars-1583.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1487-Muscovite-Lithuanian_Wars-1583.protect|1487-Muscovite-Lithuanian_Wars-1583.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1487-Muscovite-Lithuanian_Wars-1583.private|1487-Muscovite-Lithuanian_Wars-1583.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1487-Muscovite-Lithuanian_Wars-1583.personal|1487-Muscovite-Lithuanian_Wars-1583.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1487-Muscovite-Lithuanian_Wars-1583.secret|1487-Muscovite-Lithuanian_Wars-1583.secret]]"
+  - '[[../../../../../../../../../../WikiData/WD~Muscovite-Lithuanian_Wars,1567698]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1487-Muscovite-Lithuanian_Wars-1583|1487-Muscovite-Lithuanian_Wars-1583]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1487-Muscovite-Lithuanian_Wars-1583.public|1487-Muscovite-Lithuanian_Wars-1583.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1487-Muscovite-Lithuanian_Wars-1583.internal|1487-Muscovite-Lithuanian_Wars-1583.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1487-Muscovite-Lithuanian_Wars-1583.protect|1487-Muscovite-Lithuanian_Wars-1583.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1487-Muscovite-Lithuanian_Wars-1583.private|1487-Muscovite-Lithuanian_Wars-1583.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1487-Muscovite-Lithuanian_Wars-1583.personal|1487-Muscovite-Lithuanian_Wars-1583.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1487-Muscovite-Lithuanian_Wars-1583.secret|1487-Muscovite-Lithuanian_Wars-1583.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../../../../WikiData/WD~Muscovite-Lithuanian_Wars,1567698]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1487-Muscovite-Lithuanian_Wars-1583|1487-Muscovite-Lithuanian_Wars-1583]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1487-Muscovite-Lithuanian_Wars-1583.public|1487-Muscovite-Lithuanian_Wars-1583.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1487-Muscovite-Lithuanian_Wars-1583.internal|1487-Muscovite-Lithuanian_Wars-1583.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1487-Muscovite-Lithuanian_Wars-1583.protect|1487-Muscovite-Lithuanian_Wars-1583.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1487-Muscovite-Lithuanian_Wars-1583.private|1487-Muscovite-Lithuanian_Wars-1583.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1487-Muscovite-Lithuanian_Wars-1583.personal|1487-Muscovite-Lithuanian_Wars-1583.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1487-Muscovite-Lithuanian_Wars-1583.secret|1487-Muscovite-Lithuanian_Wars-1583.secret]]"
+- '[[../../../../../../../../../../WikiData/WD~Muscovite-Lithuanian_Wars,1567698]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1487-Muscovite-Lithuanian_Wars-1583|1487-Muscovite-Lithuanian_Wars-1583]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1487-Muscovite-Lithuanian_Wars-1583.public|1487-Muscovite-Lithuanian_Wars-1583.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1487-Muscovite-Lithuanian_Wars-1583.internal|1487-Muscovite-Lithuanian_Wars-1583.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1487-Muscovite-Lithuanian_Wars-1583.protect|1487-Muscovite-Lithuanian_Wars-1583.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1487-Muscovite-Lithuanian_Wars-1583.private|1487-Muscovite-Lithuanian_Wars-1583.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1487-Muscovite-Lithuanian_Wars-1583.personal|1487-Muscovite-Lithuanian_Wars-1583.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1487-Muscovite-Lithuanian_Wars-1583.secret|1487-Muscovite-Lithuanian_Wars-1583.secret]]'
+dv_has_:
+  name_:
+    ar: الحروب الموسكوية الليتوانية
+    ast: Guerres moscovita-lituanes
+    ba: Рус-литва һуғыштары
+    be: войны Вялікага Княства Літоўскага з Маскоўскай дзяржавай
+    be-tarask: Войны Вялікага Княства Літоўскага і Маскоўскай дзяржавы
+    ca: Guerres moscovito-lituanes
+    cs: rusko-litevské války
+    de: Russisch-Litauische Kriege
+    el: Πόλεμοι Μοσχοβίας-Λιθουανίας
+    en: Muscovite-Lithuanian Wars
+    eo: Moskviaj-Litoviaj Militoj
+    es: guerras moscovito-lituanas
+    et: Moskva-Leedu sõda
+    eu: Errusia-Lituania Gerrak
+    fr: Guerres lituano-moscovites
+    hr: Moskovsko-litavski ratovi
+    it: Guerre moscovito-lituane
+    ja: モスクワ・リトアニア戦争
+    ka: რუსეთ-ლიტვის ომი
+    lt: LDK–Maskvos karai
+    lv: Lietuvas—Maskavijas kari
+    nl: Moskouse-Litouwse Oorlogen
+    pl: Wojny moskiewskie
+    ro: Războaiele moscovite-lituaniene
+    ru: русско-литовские войны
+    sl: moskovsko-litovske vojne
+    sr: Московско-литвански ратови
+    tr: Moskova-Litvanya Savaşları
+    tt: Рус-Литва сугышлары
+    uk: литовсько-московські війни
+    zh: 莫斯科立陶宛公國之戰
+    zh-cn: 莫斯科-立陶宛战争
+    zh-hans: 莫斯科-立陶宛战争
+    zh-hant: 莫斯科-立陶宛戰爭
 ---
-
 # [[Muscovite-Lithuanian_Wars]] 
 
 #is_/same_as :: [[WD~Muscovite-Lithuanian_Wars,1567698]] 

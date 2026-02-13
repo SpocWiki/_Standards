@@ -1,74 +1,150 @@
 ---
 aliases:
-  - Epoch~1~Early_Cretaceous
-  - Epoch~1~Early Cretaceous
+- an Sealad Luath-Chailceach
+- apatinė kreida
+- Creta sớm
+- Cretaceum inferius
+- Cretaci inferior
+- Cretacico inferiore
+- Cretacicul timpuriu
+- Cretàzego inferior
+- Cretáceo Inferior
+- Cretácico inferior
+- Cretácicu Inferior
+- Crétacé inférieur
+- Donja kreda
+- Early Cretaceous
+- Epoch~1~Early Cretaceous
+- Epoch~1~Early_Cretaceous
+- Erken Kretase
+- Kapur Awal
+- kora kréta
+- Kreda wczesna
+- Kretazeo Goiztiar
+- Lower Cretaceous
+- malsupra kretaceo
+- Rana kreda
+- spodnja kreda
+- Spodní křída
+- undre kritt
+- Unterkreide
+- Varhaisliitukausi
+- Vroeg-Krijt
+- Árkrítartímabilið
+- Äldre krita
+- πρώιμη κρητιδική εποχή
+- долна креда
+- нижний мел
+- рання крейда
+- קרטיקון תחתון
+- الطباشيري المبكر
+- کرتاسه پیشین
+- पूर्व चाकमय युग
+- തുടക്ക ക്രിറ്റേഷ്യസ്
+- 早白垩纪
+- 早白堊紀
+- 白亜紀前期
+- 白堊紀早期
+- 백악기 전기
 ischart: LowerCretaceous
 has_id_wikidata: Q752187
-named_after: "[[_Standards/WikiData/WD~chalk,183670]]"
+named_after: '[[_Standards/WikiData/WD~chalk,183670]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~series,312468]]"
-  - "[[_Standards/WikiData/WD~epoch,754897]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Early_Cretaceous,20078603]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+- '[[_Standards/WikiData/WD~series,312468]]'
+- '[[_Standards/WikiData/WD~epoch,754897]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Early_Cretaceous,20078603]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 end_time: -100500000-01-01T00:00:00Z
 start_time: -145000000-01-01T00:00:00Z
 Commons_category: Early Cretaceous
 sRGB_color_hex_triplet: 7ECD74
-Dewey_Decimal_Classification: "551.77"
+Dewey_Decimal_Classification: 551.77
 dv_has_:
   duration_:
-    years: "4.450e+7"
-  previous_:
-    item: "[[../Period-0201~Jurassic/Epoch-162~Late_Jurassic|Epoch~3~Late_Jurassic]]"
-  next_:
-    item: "[[Epoch-101~Late_Cretaceous]]"
+    years: 4.450e+7
   name_:
-    bg: Ранна Креда
-    da: Tidlig Kridt
-    de: Frühe Kreide
-    es: Cretácico temprano
-    et: Varajane kriit
-    fi: Varhais-Liitu
-    fr: Crétacé précoce
-    hu: kora-kréta
-    it: Cretaceo precoce
-    ja: 白亜紀前期
-    lt: Ankstyvoji Kreida
-    nl: Vroeg Krijt
-    pl: Wczesna Kreda
-    pt: Cretáceo Primitivo
-    sk: raná  krieda
-    sl: zgodnja kreda
-    sv: äldre krita
-    zh: 早白垩世
     abbreviated: K1
-  time_:
-    started: "-145.0e6"
-    stopped: "-100.5e6"
+    ar: الطباشيري المبكر
+    ast: Cretácicu Inferior
+    bg: Ранна Креда
+    bs: Rana kreda
+    ca: Cretaci inferior
+    cs: Spodní křída
+    da: Tidlig Kridt
+    de: Unterkreide
+    el: πρώιμη κρητιδική εποχή
+    en: Early Cretaceous
+    en-us: Lower Cretaceous
+    eo: malsupra kretaceo
+    es: Cretácico inferior
+    et: Varajane kriit
+    eu: Kretazeo Goiztiar
+    fa: کرتاسه پیشین
+    fi: Varhaisliitukausi
+    fr: Crétacé inférieur
+    ga: an Sealad Luath-Chailceach
+    gl: Cretáceo Inferior
+    he: קרטיקון תחתון
+    hi: पूर्व चाकमय युग
+    hu: kora kréta
+    id: Kapur Awal
+    is: Árkrítartímabilið
+    it: Cretacico inferiore
+    ja: 白亜紀前期
+    ko: 백악기 전기
+    la: Cretaceum inferius
+    lt: apatinė kreida
+    mk: долна креда
+    ml: തുടക്ക ക്രിറ്റേഷ്യസ്
+    ms: Kapur Awal
+    nl: Vroeg-Krijt
+    nn: undre kritt
+    pl: Kreda wczesna
+    pt: Cretáceo Inferior
+    ro: Cretacicul timpuriu
+    ru: нижний мел
+    sh: Donja kreda
+    sk: raná  krieda
+    sl: spodnja kreda
+    sv: Äldre krita
+    tr: Erken Kretase
+    uk: рання крейда
+    vec: Cretàzego inferior
+    vi: Creta sớm
+    zh: 白堊紀早期
+    zh-hans: 早白垩纪
+    zh-hant: 早白堊紀
+  next_:
+    item: '[[Epoch-101~Late_Cretaceous]]'
+  previous_:
+    item: '[[../Period-0201~Jurassic/Epoch-162~Late_Jurassic|Epoch~3~Late_Jurassic]]'
   text_of_:
-    color: "0x8CCD57"
+    color: 0x8CCD57
+  time_:
+    started: -145.0e6
+    stopped: -100.5e6
 dv_is_:
   same_as:
-    - "[[WD~Early_Cretaceous,752187]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous|Epoch-145~Early_Cretaceous]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous.public|Epoch-145~Early_Cretaceous.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous.internal|Epoch-145~Early_Cretaceous.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous.protect|Epoch-145~Early_Cretaceous.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous.private|Epoch-145~Early_Cretaceous.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous.personal|Epoch-145~Early_Cretaceous.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous.secret|Epoch-145~Early_Cretaceous.secret]]"
-dv_has_duration_years: "4.450e+7"
-dv_has_previous_item: "[[../Period-0201~Jurassic/Epoch-162~Late_Jurassic|Epoch~3~Late_Jurassic]]"
-dv_has_next_item: "[[Epoch-101~Late_Cretaceous]]"
+  - '[[WD~Early_Cretaceous,752187]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous|Epoch-145~Early_Cretaceous]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous.public|Epoch-145~Early_Cretaceous.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous.internal|Epoch-145~Early_Cretaceous.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous.protect|Epoch-145~Early_Cretaceous.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous.private|Epoch-145~Early_Cretaceous.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous.personal|Epoch-145~Early_Cretaceous.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous.secret|Epoch-145~Early_Cretaceous.secret]]'
+dv_has_duration_years: 4.450e+7
+dv_has_previous_item: '[[../Period-0201~Jurassic/Epoch-162~Late_Jurassic|Epoch~3~Late_Jurassic]]'
+dv_has_next_item: '[[Epoch-101~Late_Cretaceous]]'
 dv_is_same_as:
-  - "[[WD~Early_Cretaceous,752187]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous|Epoch-145~Early_Cretaceous]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous.public|Epoch-145~Early_Cretaceous.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous.internal|Epoch-145~Early_Cretaceous.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous.protect|Epoch-145~Early_Cretaceous.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous.private|Epoch-145~Early_Cretaceous.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous.personal|Epoch-145~Early_Cretaceous.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous.secret|Epoch-145~Early_Cretaceous.secret]]"
+- '[[WD~Early_Cretaceous,752187]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous|Epoch-145~Early_Cretaceous]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous.public|Epoch-145~Early_Cretaceous.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous.internal|Epoch-145~Early_Cretaceous.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous.protect|Epoch-145~Early_Cretaceous.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous.private|Epoch-145~Early_Cretaceous.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous.personal|Epoch-145~Early_Cretaceous.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous.secret|Epoch-145~Early_Cretaceous.secret]]'
 dv_has_name_bg: Ранна Креда
 dv_has_name_da: Tidlig Kridt
 dv_has_name_de: Frühe Kreide
@@ -88,11 +164,10 @@ dv_has_name_sl: zgodnja kreda
 dv_has_name_sv: äldre krita
 dv_has_name_zh: 早白垩世
 dv_has_name_abbreviated: K1
-dv_has_time_started: "-145.0e6"
-dv_has_time_stopped: "-100.5e6"
-dv_has_text_of_color: "0x8CCD57"
+dv_has_time_started: -145.0e6
+dv_has_time_stopped: -100.5e6
+dv_has_text_of_color: 0x8CCD57
 ---
-
 # [[Epoch-145~Early_Cretaceous]] 
 
 #is_a_/time_/Epoch 

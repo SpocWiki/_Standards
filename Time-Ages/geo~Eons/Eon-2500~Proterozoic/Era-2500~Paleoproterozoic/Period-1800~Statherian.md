@@ -1,29 +1,51 @@
 ---
 aliases:
-  - Statherian
-  - Статер
-  - Stather
-  - Statherien
-  - Statherium
-  - Statheriense
-  - Stathérien
-  - statheri
-  - statheriano
-  - スタテリアン紀
-  - Stateris
-  - Statheriën
-  - Staterium
-  - Stater
-  - Stateriano
-  - staterium
-  - statherij
-  - 固结纪
+- Estaterià
+- Estatérico
+- Kỷ Statheros
+- Stater
+- Stater dövrü
+- Stateriano
+- staterij
+- Stateris
+- Staterium
+- Stateriy dáwiri
+- Stateriyen
+- Stateros
+- Stather
+- statheri
+- Statherian
+- statheriano
+- Statheriar
+- Statherieg
+- Statherien
+- Statheriense
+- statherij
+- Statherium
+- Statheriën
+- Stathérien
+- Statirianu
+- Статер
+- статерій
+- статерийский период
+- Статерски период
+- статэрый
+- סטאתר
+- استاترین
+- الستاثري
+- स्टाथेरियाई कल्प
+- ยุคสตาทีเรียน
+- スタテリアン
+- スタテリアン紀
+- 固結紀
+- 固结纪
+- 스타테리아기
 has_id_wikidata: Q684942
 instance_of:
-  - "[[_Standards/WikiData/WD~period,392928]]"
-  - "[[_Standards/WikiData/WD~system,403523]]"
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Statherian,131225396]]"
+- '[[_Standards/WikiData/WD~period,392928]]'
+- '[[_Standards/WikiData/WD~system,403523]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Statherian,131225396]]'
 Commons_category: Statherian
 end_time: -1600000000-01-01T00:00:00Z
 start_time: -1800000000-01-01T00:00:00Z
@@ -31,60 +53,85 @@ IPA_transcription: /stəˈθɪəriən/
 sRGB_color_hex_triplet: F875A7
 dv_has_:
   duration_:
-    years: "2.000e+8"
-  previous_:
-    item: "[[Period-2050~Orosirian]]"
-  next_:
-    item: "[[../Era-1600~Mesoproterozoic/Period-1600~Calymmian|Period-1600~Calymmian]]"
+    years: 2.000e+8
   name_:
-    bg: Статер
+    abbreviated: PP4
+    ar: الستاثري
+    az: Stater dövrü
+    be: статэрый
+    bg: Статерски период
+    br: Statherieg
+    ca: Estaterià
     cs: Stather
     da: Statherien
     de: Statherium
-    es: Statheriense
+    en: Statherian
+    en-gb: Statherian
+    es: Estatérico
     et: Stather
+    eu: Statheriar
+    fa: استاترین
     fi: Stather
     fr: Stathérien
-    hu: statheri
-    it: statheriano
-    ja: スタテリアン紀
-    lt: Stateris
-    nl: Statheriën
+    he: סטאתר
+    hi: स्टाथेरियाई कल्प
+    hr: staterij
+    hu: statherium
+    id: Staterium
+    it: Statheriano
+    ja: スタテリアン
+    kaa: Stateriy dáwiri
+    ko: 스타테리아기
+    lt: stateris
+    ms: Stateros
+    nl: Statherium
+    nn: stather
     no: Staterium
-    pl: Stater
-    pt: Stateriano
+    pl: stater
+    pt: Statheriano
+    ru: статерийский период
+    scn: Statirianu
+    sh: Staterij
     sk: staterium
-    sl: statherij
+    sl: staterij
     sv: staterium
+    th: ยุคสตาทีเรียน
+    tr: Stateriyen
+    uk: статерій
+    vi: Kỷ Statheros
+    yue: 固結紀
     zh: 固结纪
-    abbreviated: PP4
+  next_:
+    item: '[[../Era-1600~Mesoproterozoic/Period-1600~Calymmian|Period-1600~Calymmian]]'
+  previous_:
+    item: '[[Period-2050~Orosirian]]'
+  text_of_:
+    color: 0xF875A7
   time_:
     started: -1800000000
     stopped: -1600000000
-  text_of_:
-    color: "0xF875A7"
 dv_is_:
   same_as:
-    - "[[WD~Statherian,684942]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-1800~Statherian|Period-1800~Statherian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-1800~Statherian.public|Period-1800~Statherian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-1800~Statherian.internal|Period-1800~Statherian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-1800~Statherian.protect|Period-1800~Statherian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-1800~Statherian.private|Period-1800~Statherian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-1800~Statherian.personal|Period-1800~Statherian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-1800~Statherian.secret|Period-1800~Statherian.secret]]"
-dv_has_duration_years: "2.000e+8"
-dv_has_previous_item: "[[Period-2050~Orosirian]]"
-dv_has_next_item: "[[../Era-1600~Mesoproterozoic/Period-1600~Calymmian|Period-1600~Calymmian]]"
+  - '[[WD~Statherian,684942]]'
+  - '[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-1800~Statherian|Period-1800~Statherian]]'
+  - '[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-1800~Statherian.public|Period-1800~Statherian.public]]'
+  - '[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-1800~Statherian.internal|Period-1800~Statherian.internal]]'
+  - '[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-1800~Statherian.protect|Period-1800~Statherian.protect]]'
+  - '[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-1800~Statherian.private|Period-1800~Statherian.private]]'
+  - '[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-1800~Statherian.personal|Period-1800~Statherian.personal]]'
+  - '[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-1800~Statherian.secret|Period-1800~Statherian.secret]]'
+dv_has_duration_years: 2.000e+8
+dv_has_previous_item: '[[Period-2050~Orosirian]]'
+dv_has_next_item: '[[../Era-1600~Mesoproterozoic/Period-1600~Calymmian|Period-1600~Calymmian]]'
 dv_is_same_as:
-  - "[[WD~Statherian,684942]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-1800~Statherian|Period-1800~Statherian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-1800~Statherian.public|Period-1800~Statherian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-1800~Statherian.internal|Period-1800~Statherian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-1800~Statherian.protect|Period-1800~Statherian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-1800~Statherian.private|Period-1800~Statherian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-1800~Statherian.personal|Period-1800~Statherian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-1800~Statherian.secret|Period-1800~Statherian.secret]]"
+- '[[WD~Statherian,684942]]'
+- '[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-1800~Statherian|Period-1800~Statherian]]'
+- '[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-1800~Statherian.public|Period-1800~Statherian.public]]'
+- '[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-1800~Statherian.internal|Period-1800~Statherian.internal]]'
+- '[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-1800~Statherian.protect|Period-1800~Statherian.protect]]'
+- '[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-1800~Statherian.private|Period-1800~Statherian.private]]'
+- '[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-1800~Statherian.personal|Period-1800~Statherian.personal]]'
+- '[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-1800~Statherian.secret|Period-1800~Statherian.secret]]'
 dv_has_name_bg: Статер
 dv_has_name_cs: Stather
 dv_has_name_da: Statherien
@@ -108,7 +155,7 @@ dv_has_name_zh: 固结纪
 dv_has_name_abbreviated: PP4
 dv_has_time_started: -1800000000
 dv_has_time_stopped: -1600000000
-dv_has_text_of_color: "0xF875A7"
+dv_has_text_of_color: 0xF875A7
 ---
 # [[Period-1800~Statherian]] 
 

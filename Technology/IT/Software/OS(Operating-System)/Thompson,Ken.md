@@ -1,10 +1,69 @@
 ---
 aliases:
-  - Ken Thompson
-  - Ken_Thompson
-  - Thompson~Ken
-  - Thompson,Ken
+- Ken Thompson
+- Ken Tompson
+- Kenneth Thompso
+- Kens Tompsons
+- Ken_Thompson
+- Thompson,Ken
+- Thompson~Ken
+- Κεν Τόμσον
+- Кен Томпсан
+- Кен Томпсон
+- Кен Томпсън
+- Քեն Թոմփսոն
+- קן תומפסון
+- كين تومسن
+- کن تامسون
+- کنت تامسون
+- کین تھامسن
+- केन थॉम्पसन
+- केन थॉम्प्सन
+- কেন টম্পসন
+- கென் தாம்ப்சன்
+- കെൻ തോംപ്സൺ
+- කෙන් තොම්සන්
+- კენ ტომფსონი
+- ケン・トンプソン
+- 肯·汤普森
+- 肯·汤普逊
+- 肯·湯普森
+- 켄 톰프슨
 has_id_wikidata: Q1107006
+dv_has_:
+  name_:
+    ar: كين تومسن
+    az: Ken Tompson
+    azb: کن تامسون
+    be: Кен Томпсан
+    bg: Кен Томпсън
+    bn: কেন টম্পসন
+    el: Κεν Τόμσον
+    fa: کنت تامسون
+    he: קן תומפסון
+    hi: केन थॉम्पसन
+    hy: Քեն Թոմփսոն
+    ja: ケン・トンプソン
+    ka: კენ ტომფსონი
+    ko: 켄 톰프슨
+    ky: Кен Томпсон
+    lv: Kens Tompsons
+    ml: കെൻ തോംപ്സൺ
+    mr: केन थॉम्प्सन
+    mul: Ken Thompson
+    ru: Кен Томпсон
+    si: කෙන් තොම්සන්
+    sl: Kenneth Thompso
+    sr: Кен Томпсон
+    sr-ec: Кен Томпсон
+    ta: கென் தாம்ப்சன்
+    uk: Кен Томпсон
+    ur: کین تھامسن
+    wuu: 肯·汤普逊
+    zh: 肯·汤普森
+    zh-cn: 肯·汤普森
+    zh-hans: 肯·汤普森
+    zh-hant: 肯·湯普森
 ---
 > Kenneth Lane Thompson (born 1943-02-04) 
 > is an American pioneer of computer science. 
