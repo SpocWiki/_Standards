@@ -1078,7 +1078,7 @@ dv_has_formula_structural: CH3(CH2)14COOH
 ---
 # [[Palmitic_Acid]] 
 
- has_formula_structural = `$= dv.current().__has_formula_structural` 
+ has_formula_structural = `= this.dv_has_formula_structural` 
 #is_/same_as :: [[WD~Palmitic_Acid,209727]]  
 
 ## #has_/text_of_/abstract  
