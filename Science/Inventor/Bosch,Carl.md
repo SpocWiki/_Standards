@@ -85,7 +85,7 @@ dv_has_:
     ast: Carl Bosch
     azb: کارل بوش
     be: Карл Бош
-    be-tarask: Карл Бош
+    be_tarask: Карл Бош
     bg: Карл Бош
     bn: কার্ল বশ
     ca: Carl Bosch
@@ -131,7 +131,7 @@ dv_has_:
     pl: Carl Bosch
     pnb: کارل بوش
     pt: Carl Bosch
-    pt-br: Carl Bosch
+    pt_br: Carl Bosch
     ro: Carl Bosch
     ru: Карл Бош
     sco: Carl Bosch

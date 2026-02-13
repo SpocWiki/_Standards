@@ -103,7 +103,7 @@ dv_has_:
     az: Mozaika
     azb: موزائیک
     be: Мазаіка
-    be-tarask: мазаіка
+    be_tarask: мазаіка
     bg: Мозайка
     bn: মোজাইক
     br: Marelladur
@@ -141,11 +141,11 @@ dv_has_:
     ka: მოზაიკა
     kaa: Mozaika
     kk: Мозаика
-    kk-arab: موزاىيكا
+    kk_arab: موزاىيكا
     kk-cn: موزاىيكا
-    kk-cyrl: Мозаика
+    kk_cyrl: Мозаика
     kk-kz: Мозаика
-    kk-latn: Mozaïka
+    kk_latn: Mozaïka
     kk-tr: Mozaïka
     ko: 모자이크
     ko-kp: 쪽무늬그림
@@ -166,7 +166,7 @@ dv_has_:
     pl: mozaika
     ps: موزایيک
     pt: mosaico
-    pt-br: mosaico
+    pt_br: mosaico
     ro: mozaic
     ru: мозаика
     rue: Мозайка
@@ -178,8 +178,8 @@ dv_has_:
     sl: mozaik
     sq: mozike
     sr: мозаик
-    sr-ec: Мозаик
-    sr-el: Mozaik
+    sr_ec: Мозаик
+    sr_el: Mozaik
     sv: mosaik
     sw: Mozaiki
     th: งานโมเสก
@@ -194,12 +194,12 @@ dv_has_:
     wuu: 镶嵌艺术
     yue: 鑲嵌藝術
     zh: 鑲嵌畫
-    zh-cn: 马赛克
-    zh-hans: 马赛克
-    zh-hant: 馬賽克
-    zh-hk: 馬賽克
-    zh-sg: 马赛克
-    zh-tw: 馬賽克
+    zh_cn: 马赛克
+    zh_hans: 马赛克
+    zh_hant: 馬賽克
+    zh_hk: 馬賽克
+    zh_sg: 马赛克
+    zh_tw: 馬賽克
 ---
 # [[Mosaic]] 
 

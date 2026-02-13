@@ -20,8 +20,8 @@ dv_has_:
     de: Pseudomonadota
     el: Ψευδομοναδωτά
     en: Pseudomonadota
-    en-ca: Pseudomonadota
-    en-gb: Pseudomonadota
+    en_ca: Pseudomonadota
+    en_gb: Pseudomonadota
     eo: Pseŭdomonadotoj
     es: Pseudomonadota
     eu: Pseudomonadota
@@ -42,7 +42,7 @@ dv_has_:
     oc: Pseudomonadota
     pl: Pseudomonadota
     pt: Pseudomonadota
-    pt-br: Pseudomonadota
+    pt_br: Pseudomonadota
     ro: Pseudomonadota
     ru: Pseudomonadota
     sl: Pseudomonadota

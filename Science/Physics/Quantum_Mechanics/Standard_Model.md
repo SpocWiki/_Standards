@@ -143,7 +143,7 @@ dv_has_:
     ast: Modelo estándar de la física de partícules
     az: Standart model
     be: Стандартная мадэль
-    be-tarask: стандартная мадэль
+    be_tarask: стандартная мадэль
     bg: Стандартен модел
     bn: প্রমিত মডেল
     bs: Standardni model
@@ -154,11 +154,11 @@ dv_has_:
     da: Standardmodellen
     de: Standardmodell der Teilchenphysik
     de-at: Standardmodell der Teilchenphysik
-    de-ch: Standardmodell der Teilchenphysik
+    de_ch: Standardmodell der Teilchenphysik
     el: Καθιερωμένο Πρότυπο
     en: Standard Model
-    en-ca: Standard Model
-    en-gb: Standard Model
+    en_ca: Standard Model
+    en_gb: Standard Model
     eo: norma modelo
     es: Modelo estándar de física de partículas
     et: Osakestefüüsika standardmudel
@@ -206,7 +206,7 @@ dv_has_:
     pl: model standardowy
     pnb: میعاری نمونہ
     pt: Modelo padrão
-    pt-br: Modelo padrão
+    pt_br: Modelo padrão
     ro: Modelul Standard
     ru: Стандартная модель
     sco: Staundart Model

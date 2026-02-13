@@ -120,7 +120,7 @@ dv_has_:
     ast: Frank Capra
     az: Frenk Kapra
     be: Фрэнк Капра
-    be-tarask: Фрэнк Капра
+    be_tarask: Фрэнк Капра
     bg: Франк Капра
     bn: ফ্রাঙ্ক ক্যাপ্রা
     bs: Frank Capra
@@ -131,8 +131,8 @@ dv_has_:
     de: Frank Capra
     el: Φρανκ Κάπρα
     en: Frank Capra
-    en-ca: Frank Capra
-    en-gb: Frank Capra
+    en_ca: Frank Capra
+    en_gb: Frank Capra
     eo: Frank Capra
     es: Frank Capra
     et: Frank Capra
@@ -173,7 +173,7 @@ dv_has_:
     pl: Frank Capra
     ps: فرانک کاپرا
     pt: Frank Capra
-    pt-br: Frank Capra
+    pt_br: Frank Capra
     qu: Frank Capra
     ro: Frank Capra
     ru: Фрэнк Капра
@@ -199,9 +199,9 @@ dv_has_:
     xmf: ფრენკ კაპრა
     yue: 法蘭克卡普拉
     zh: 法蘭克·卡普拉
-    zh-hant: 弗蘭克·卡普拉
+    zh_hant: 弗蘭克·卡普拉
     zh-my: 法兰克·卡普拉
-    zh-sg: 法兰克·卡普拉
+    zh_sg: 法兰克·卡普拉
 ---
 # [[Capra,Frank]] 
 

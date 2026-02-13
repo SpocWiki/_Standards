@@ -209,7 +209,7 @@ dv_has_:
     az: Həbsxana
     azb: زیندان
     be: турма
-    be-tarask: турма
+    be_tarask: турма
     bg: Затвор
     bn: কারাগার
     bo: གོ་ར་
@@ -227,8 +227,8 @@ dv_has_:
     de: Gefängnis
     el: φυλακή
     en: prison
-    en-ca: prison
-    en-gb: prison
+    en_ca: prison
+    en_gb: prison
     en-us: prison
     eo: malliberejo
     es: prisión
@@ -269,7 +269,7 @@ dv_has_:
     ko: 교도소
     ks: قٲد خانہٕ
     ku: girtîgeh
-    ku-latn: girtîgeh
+    ku_latn: girtîgeh
     ky: Түрмө
     la: Carcer
     lb: Prisong
@@ -299,7 +299,7 @@ dv_has_:
     pnb: جیل
     ps: محبس
     pt: prisão
-    pt-br: prisão
+    pt_br: prisão
     pwn: rusung
     qu: Samk'ay wasi
     rgn: chérzar
@@ -319,7 +319,7 @@ dv_has_:
     sms: tuʹrmm
     sq: burg
     sr: затвор
-    sr-ec: затвор
+    sr_ec: затвор
     sv: anstalt
     sw: Gereza
     ta: சிறைச்சாலை
@@ -329,7 +329,7 @@ dv_has_:
     tok: tomo pi poki jan
     tr: cezaevi
     tt: төрмә
-    tt-cyrl: төрмә
+    tt_cyrl: төрмә
     tyv: Домзак
     uk: в'язниця
     ur: قید خانہ
@@ -343,14 +343,14 @@ dv_has_:
     yi: טורמע
     yue: 監獄
     zh: 監獄
-    zh-cn: 监狱
-    zh-hans: 监狱
-    zh-hant: 監獄
-    zh-hk: 監獄
-    zh-mo: 監獄
+    zh_cn: 监狱
+    zh_hans: 监狱
+    zh_hant: 監獄
+    zh_hk: 監獄
+    zh_mo: 監獄
     zh-my: 监狱
-    zh-sg: 监狱
-    zh-tw: 監獄
+    zh_sg: 监狱
+    zh_tw: 監獄
 ---
 # [[Prison]] 
 

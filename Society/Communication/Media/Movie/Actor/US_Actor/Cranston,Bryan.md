@@ -50,7 +50,7 @@ dv_has_:
     bar: Bryan Cranston
     bcl: Bryan Cranston
     be: Браян Крэнстан
-    be-tarask: Браян Крэнстан
+    be_tarask: Браян Крэнстан
     bg: Брайън Кренстън
     bm: Bryan Cranston
     bn: ব্রায়ান ক্র্যানস্টন
@@ -64,11 +64,11 @@ dv_has_:
     da: Bryan Cranston
     de: Bryan Cranston
     de-at: Bryan Cranston
-    de-ch: Bryan Cranston
+    de_ch: Bryan Cranston
     el: Μπράιαν Κράνστον
     en: Bryan Cranston
-    en-ca: Bryan Cranston
-    en-gb: Bryan Cranston
+    en_ca: Bryan Cranston
+    en_gb: Bryan Cranston
     eo: Bryan Cranston
     es: Bryan Cranston
     et: Bryan Cranston
@@ -123,7 +123,7 @@ dv_has_:
     nap: Bryan Cranston
     nb: Bryan Cranston
     nds: Bryan Cranston
-    nds-nl: Bryan Cranston
+    nds_nl: Bryan Cranston
     ne: ब्रायन क्राँस्टन
     nl: Bryan Cranston
     nn: Bryan Cranston
@@ -138,7 +138,7 @@ dv_has_:
     pms: Bryan Cranston
     prg: Bryan Cranston
     pt: Bryan Cranston
-    pt-br: Bryan Cranston
+    pt_br: Bryan Cranston
     rgn: Bryan Cranston
     rm: Bryan Cranston
     ro: Bryan Cranston
@@ -151,7 +151,7 @@ dv_has_:
     sl: Bryan Cranston
     sq: Bryan Cranston
     sr: Брајан Кранстон
-    sr-el: Bryan Cranston
+    sr_el: Bryan Cranston
     sv: Bryan Cranston
     sw: Bryan Cranston
     ta: பிரையன் கிரான்ஸ்டன்
@@ -175,10 +175,10 @@ dv_has_:
     yo: Bryan Cranston
     yue: 拜仁鈞士頓
     zh: 布萊恩·科蘭斯頓
-    zh-cn: 布赖恩·克兰斯顿
-    zh-hans: 布莱恩·科兰斯顿
-    zh-hant: 布賴恩·克蘭斯頓
-    zh-hk: 拜恩卡蘭斯頓
+    zh_cn: 布赖恩·克兰斯顿
+    zh_hans: 布莱恩·科兰斯顿
+    zh_hant: 布賴恩·克蘭斯頓
+    zh_hk: 拜恩卡蘭斯頓
     zh-my: 拜仁·康斯顿
     zu: Bryan Cranston
 ---

@@ -102,7 +102,7 @@ dv_has_:
     ast: Gustav Fechner
     az: Qustav Fexner
     azb: قوستاو تئودور فخنر
-    be-tarask: Густаў Фэхнэр
+    be_tarask: Густаў Фэхнэр
     bg: Густав Фехнер
     bs: Gustav Fechner
     ca: Gustav Fechner
@@ -113,8 +113,8 @@ dv_has_:
     de: Gustav Theodor Fechner
     el: Γκούσταφ Τέοντορ Φέχνερ
     en: Gustav Fechner
-    en-ca: Gustav Fechner
-    en-gb: Gustav Fechner
+    en_ca: Gustav Fechner
+    en_gb: Gustav Fechner
     eo: Gustav Fechner
     es: Gustav Fechner
     et: Gustav Fechner
@@ -148,7 +148,7 @@ dv_has_:
     pms: Gustav Fechner
     ps: ګوستاو فيچنر
     pt: Gustav Theodor Fechner
-    pt-br: Gustav Theodor Fechner
+    pt_br: Gustav Theodor Fechner
     ro: Gustav Theodor Fechner
     ru: Густав Теодор Фехнер
     sah: Густав Фехнер

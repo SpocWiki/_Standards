@@ -93,7 +93,7 @@ dv_has_:
     ast: cromatografía
     az: xromatoqrafiya
     be: храматаграфія
-    be-tarask: храматаграфія
+    be_tarask: храматаграфія
     bg: хроматография
     bn: মিশ্রণ পৃথকীকরণ বিজ্ঞান
     bs: hromatografija
@@ -154,8 +154,8 @@ dv_has_:
     sms: kromatografia
     sq: KROMATOGRAFIA
     sr: хроматографија
-    sr-ec: хроматографија
-    sr-el: hromatografija
+    sr_ec: хроматографија
+    sr_el: hromatografija
     sv: kromatografi
     ta: வண்ணப்படிவுப் பிரிகை
     te: క్రొమటోగ్రఫి
@@ -169,12 +169,12 @@ dv_has_:
     wuu: 色谱法
     yue: 色譜學
     zh: 色谱法
-    zh-cn: 色谱法
-    zh-hans: 色谱法
-    zh-hant: 色譜法
-    zh-hk: 色譜法
-    zh-sg: 色谱法
-    zh-tw: 色譜法
+    zh_cn: 色谱法
+    zh_hans: 色谱法
+    zh_hant: 色譜法
+    zh_hk: 色譜法
+    zh_sg: 色谱法
+    zh_tw: 色譜法
 ---
 # [[Chromatography]] 
 

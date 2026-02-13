@@ -59,7 +59,7 @@ dv_has_:
     az: no
     bcl: Noh
     be: Но
-    be-tarask: но
+    be_tarask: но
     bg: Но
     br: Nō
     bs: nō
@@ -90,8 +90,8 @@ dv_has_:
     kk: Но
     ko: 노
     ku: Noh
-    ku-arab: نۆه
-    ku-latn: Noh
+    ku_arab: نۆه
+    ku_latn: Noh
     la: Noh
     lb: Noh
     lt: No
@@ -112,7 +112,7 @@ dv_has_:
     sh: Noh
     sl: no
     sr: Но драма
-    sr-ec: Но драма
+    sr_ec: Но драма
     sv: no-teater
     ta: நோ
     tg: Но
@@ -124,12 +124,12 @@ dv_has_:
     wuu: 能剧
     yue: 能劇
     zh: 能剧
-    zh-cn: 能剧
-    zh-hans: 能剧
-    zh-hant: 能劇
-    zh-hk: 能劇
-    zh-sg: 能剧
-    zh-tw: 能劇
+    zh_cn: 能剧
+    zh_hans: 能剧
+    zh_hant: 能劇
+    zh_hk: 能劇
+    zh_sg: 能剧
+    zh_tw: 能劇
 ---
 # [[Noh]] 
 

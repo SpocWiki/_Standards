@@ -138,7 +138,7 @@ dv_has_:
     ast: Josiah Willard Gibbs
     az: Cozayya Uillard Gibbs
     be: Джозая Уілард Гібс
-    be-tarask: Джазая Ўілард Гібс
+    be_tarask: Джазая Ўілард Гібс
     bg: Уилард Гибс
     bn: জোসায়া উইলার্ড গিবস
     bs: Josiah Willard Gibbs
@@ -150,8 +150,8 @@ dv_has_:
     de: Josiah Willard Gibbs
     el: Τζοσάια Γουίλαρντ Γκιμπς
     en: Josiah Willard Gibbs
-    en-ca: Josiah Willard Gibbs
-    en-gb: Josiah Willard Gibbs
+    en_ca: Josiah Willard Gibbs
+    en_gb: Josiah Willard Gibbs
     eo: Josiah Willard Gibbs
     es: Josiah Willard Gibbs
     eu: Josiah Willard Gibbs
@@ -187,7 +187,7 @@ dv_has_:
     pms: Josiah Willard Gibbs
     ps: جوسیا ویلارد ګیبس
     pt: Josiah Willard Gibbs
-    pt-br: Josiah Willard Gibbs
+    pt_br: Josiah Willard Gibbs
     ro: Josiah Willard Gibbs
     ru: Джозайя Уиллард Гиббс
     sco: Josiah Willard Gibbs
@@ -207,12 +207,12 @@ dv_has_:
     xmf: ჯოზაია უილარდ გიბსი
     yue: 約西亞·威拉德·吉布斯
     zh: 约西亚·威拉德·吉布斯
-    zh-cn: 约西亚·威拉德·吉布斯
-    zh-hans: 约西亚·威拉德·吉布斯
-    zh-hant: 約西亞·威拉德·吉布斯
-    zh-hk: 約西亞·威拉德·吉布斯
-    zh-sg: 约西亚·威拉德·吉布斯
-    zh-tw: 約西亞·威拉德·吉布斯
+    zh_cn: 约西亚·威拉德·吉布斯
+    zh_hans: 约西亚·威拉德·吉布斯
+    zh_hant: 約西亞·威拉德·吉布斯
+    zh_hk: 約西亞·威拉德·吉布斯
+    zh_sg: 约西亚·威拉德·吉布斯
+    zh_tw: 約西亞·威拉德·吉布斯
 ---
 # [[Gibbs,Josiah_Willard]] 
 

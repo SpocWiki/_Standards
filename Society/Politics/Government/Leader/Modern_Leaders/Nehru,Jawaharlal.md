@@ -166,7 +166,7 @@ dv_has_:
     ban: Jawaharlal Nehru
     bcl: Jawaharlal Nehru
     be: Джавахарлал Нэру
-    be-tarask: Джавагарлал Нэру
+    be_tarask: Джавагарлал Нэру
     bg: Джавахарлал Неру
     bho: जवाहरलाल नेहरू
     bn: জওহরলাল নেহরু
@@ -183,14 +183,14 @@ dv_has_:
     cy: Jawaharlal Nehru
     da: Jawaharlal Nehru
     de: Jawaharlal Nehru
-    de-ch: Jawaharlal Nehru
+    de_ch: Jawaharlal Nehru
     diq: Cevahirlel Nehru
     dty: जवाहरलाल नेहरू
     dv: ޖަވާހަރްލާލް ނެހްރޫ
     el: Τζαβαχαρλάλ Νεχρού
     en: Jawaharlal Nehru
-    en-ca: Jawaharlal Nehru
-    en-gb: Jawaharlal Nehru
+    en_ca: Jawaharlal Nehru
+    en_gb: Jawaharlal Nehru
     en-us: Jawaharlal Nehru
     eo: Jawaharlal Nehru
     es: Jawaharlal Nehru
@@ -271,7 +271,7 @@ dv_has_:
     pnb: جواہر لعل نہرو
     ps: جواهر لال نهرو
     pt: Jawaharlal Nehru
-    pt-br: Jawaharlal Nehru
+    pt_br: Jawaharlal Nehru
     qu: Jawaharlal Nehru
     ro: Jawaharlal Nehru
     roa-tara: Jawaharlal Nehru

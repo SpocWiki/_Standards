@@ -137,7 +137,7 @@ dv_has_:
     ast: programa de televisión
     az: televiziya şousu
     be: тэлеперадача
-    be-tarask: тэлевізійная праграма
+    be_tarask: тэлевізійная праграма
     bg: телевизионно предаване
     bho: टीवी शो
     bn: টেলিভিশন অনুষ্ঠান
@@ -150,12 +150,12 @@ dv_has_:
     cy: rhaglen deledu
     da: tv-program
     de: Fernsehsendung
-    de-ch: Fernsehsendung
+    de_ch: Fernsehsendung
     diq: programê têlevizyoni
     el: τηλεοπτικό πρόγραμμα
     en: television program
-    en-ca: television program
-    en-gb: television programme
+    en_ca: television program
+    en_gb: television programme
     eo: televida programo
     es: programa de televisión
     et: telesaade
@@ -193,7 +193,7 @@ dv_has_:
     lv: televīzijas raidījums
     mk: телевизиска програма
     ms: rancangan televisyen
-    ms-arab: رانچڠن تيليۏيشن
+    ms_arab: رانچڠن تيليۏيشن
     nah: īxiptlayōltzintli
     nb: TV-program
     nds: Feernsehprogramm
@@ -206,7 +206,7 @@ dv_has_:
     pcd: émission d'télévision
     pl: program telewizyjny
     pt: programa de televisão
-    pt-br: programa de televisão
+    pt_br: programa de televisão
     ro: program de televiziune
     ru: телепередача
     sco: televeesion programme
@@ -217,8 +217,8 @@ dv_has_:
     smn: TV-ohjelm
     sms: TV-programm
     sr: телевизијски програм
-    sr-ec: телевизијски програм
-    sr-el: televizijski program
+    sr_ec: телевизијски програм
+    sr_el: televizijski program
     sv: TV-program
     ta: தொலைக்காட்சி நிகழ்ச்சி
     tg: барномаи телевизионӣ
@@ -226,7 +226,7 @@ dv_has_:
     tl: programang pantelebisyon
     tr: televizyon programı
     tt: телетапшыру
-    tt-cyrl: телетапшыру
+    tt_cyrl: телетапшыру
     uk: телепередача
     ur: ٹیلی ویژن پروگرام
     uz: televizion koʻrsatuv
@@ -237,14 +237,14 @@ dv_has_:
     yi: טעלעוויזיע פראגראם
     yue: 電視節目
     zh: 電視節目
-    zh-cn: 电视节目
-    zh-hans: 电视节目
-    zh-hant: 電視節目
-    zh-hk: 電視節目
-    zh-mo: 電視節目
+    zh_cn: 电视节目
+    zh_hans: 电视节目
+    zh_hant: 電視節目
+    zh_hk: 電視節目
+    zh_mo: 電視節目
     zh-my: 电视节目
-    zh-sg: 电视节目
-    zh-tw: 電視節目
+    zh_sg: 电视节目
+    zh_tw: 電視節目
 ---
 # [[Television_Program]] 
 

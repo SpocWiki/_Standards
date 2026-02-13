@@ -137,7 +137,7 @@ dv_has_:
     ml: എച്ച്.ടി.എം.എൽ.
     mr: एच.टी.एम.एल.
     ms: Bahasa Penanda Hiperteks
-    ms-arab: بهاس ڤنندا هايڤرتيکس
+    ms_arab: بهاس ڤنندا هايڤرتيکس
     mul: HTML
     ne: एचटिएमएल
     new: एच टी एम् एल्
@@ -155,10 +155,10 @@ dv_has_:
     tok: toki ilo HTML
     ur: وراۓمتن زبان تدوین
     zh: 超文本标记语言
-    zh-cn: 超文本标记语言
-    zh-hans: 超文本标记语言
-    zh-hant: 超文本標記語言
-    zh-tw: 超文本標記語言
+    zh_cn: 超文本标记语言
+    zh_hans: 超文本标记语言
+    zh_hant: 超文本標記語言
+    zh_tw: 超文本標記語言
 ---
 # [[HTML]] 
 

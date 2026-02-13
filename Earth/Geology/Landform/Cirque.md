@@ -96,7 +96,7 @@ dv_has_:
     ar: سيرك
     ast: Circu natural
     az: Kar
-    be-tarask: кар
+    be_tarask: кар
     bg: Циркус
     bs: Cirk
     ca: circ natural
@@ -125,11 +125,11 @@ dv_has_:
     ja: 圏谷
     ka: კარი
     kk: Кар
-    kk-arab: كار
+    kk_arab: كار
     kk-cn: كار
-    kk-cyrl: Кар
+    kk_cyrl: Кар
     kk-kz: Кар
-    kk-latn: Kar
+    kk_latn: Kar
     kk-tr: Kar
     ko: 카르
     kw: Komm
@@ -149,8 +149,8 @@ dv_has_:
     sk: kar
     sl: krnica
     sr: цирк
-    sr-ec: Цирк
-    sr-el: Cirk
+    sr_ec: Цирк
+    sr_el: Cirk
     sv: cirque
     ta: பனிபறிபள்ளம்
     th: เซิร์ก
@@ -158,12 +158,12 @@ dv_has_:
     uk: Кар
     yue: 冰斗
     zh: 冰斗
-    zh-cn: 冰斗
-    zh-hans: 冰斗
-    zh-hant: 冰斗
-    zh-hk: 冰斗
-    zh-sg: 冰斗
-    zh-tw: 冰斗
+    zh_cn: 冰斗
+    zh_hans: 冰斗
+    zh_hant: 冰斗
+    zh_hk: 冰斗
+    zh_sg: 冰斗
+    zh_tw: 冰斗
 ---
 # [[Cirque]] 
 

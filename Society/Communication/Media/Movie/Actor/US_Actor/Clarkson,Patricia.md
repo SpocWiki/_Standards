@@ -32,7 +32,7 @@ dv_has_:
     ast: Patricia Clarkson
     azb: پاتریشا کلارکسون
     bar: Patricia Clarkson
-    be-tarask: Патрысія Кларксан
+    be_tarask: Патрысія Кларксан
     bg: Патриша Кларксън
     bm: Patricia Clarkson
     bn: প্যাট্রিশিয়া ক্লার্কসন
@@ -44,11 +44,11 @@ dv_has_:
     da: Patricia Clarkson
     de: Patricia Clarkson
     de-at: Patricia Clarkson
-    de-ch: Patricia Clarkson
+    de_ch: Patricia Clarkson
     el: Πατρίσια Κλάρκσον
     en: Patricia Clarkson
-    en-ca: Patricia Clarkson
-    en-gb: Patricia Clarkson
+    en_ca: Patricia Clarkson
+    en_gb: Patricia Clarkson
     eo: Patricia Clarkson
     es: Patricia Clarkson
     et: Patricia Clarkson
@@ -92,7 +92,7 @@ dv_has_:
     nap: Patricia Clarkson
     nb: Patricia Clarkson
     nds: Patricia Clarkson
-    nds-nl: Patricia Clarkson
+    nds_nl: Patricia Clarkson
     nl: Patricia Clarkson
     nn: Patricia Clarkson
     nrm: Patricia Clarkson
@@ -103,7 +103,7 @@ dv_has_:
     pms: Patricia Clarkson
     prg: Patricia Clarkson
     pt: Patricia Clarkson
-    pt-br: Patricia Clarkson
+    pt_br: Patricia Clarkson
     rgn: Patricia Clarkson
     rm: Patricia Clarkson
     ro: Patricia Clarkson
@@ -117,8 +117,8 @@ dv_has_:
     sl: Patricia Clarkson
     sq: Patricia Clarkson
     sr: Патриша Кларксон
-    sr-ec: Патриша Кларксон
-    sr-el: Patriša Klarkson
+    sr_ec: Патриша Кларксон
+    sr_el: Patriša Klarkson
     sv: Patricia Clarkson
     sw: Patricia Clarkson
     th: แพทริเซีย คลาร์กสัน

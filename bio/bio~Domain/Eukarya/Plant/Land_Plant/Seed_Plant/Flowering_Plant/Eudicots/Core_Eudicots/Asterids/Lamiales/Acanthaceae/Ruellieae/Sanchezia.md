@@ -42,7 +42,7 @@ dv_has_:
     oc: Sanchezia
     pl: Sanchezia
     pt: Sanchezia
-    pt-br: Sanchezia
+    pt_br: Sanchezia
     ro: Sanchezia
     ru: Саншеция
     sq: Sanchezia
@@ -53,9 +53,9 @@ dv_has_:
     vo: Sanchezia
     war: Sanchezia
     zh: 少君木属
-    zh-cn: 少君木属
-    zh-hans: 少君木属
-    zh-tw: 金葉木屬
+    zh_cn: 少君木属
+    zh_hans: 少君木属
+    zh_tw: 金葉木屬
 ---
 # [[Sanchezia]] 
 

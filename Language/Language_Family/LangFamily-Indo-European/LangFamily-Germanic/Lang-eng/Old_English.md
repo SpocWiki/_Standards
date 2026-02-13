@@ -175,7 +175,7 @@ dv_has_:
     az: Köhnə ingilis dili
     bar: Anglsaxische Sproch
     be: старажытнаанглійская мова
-    be-tarask: стараангельская мова
+    be_tarask: стараангельская мова
     bg: Староанглийски език
     bn: প্রাচীন ইংরেজি ভাষা
     br: hensaozneg
@@ -185,7 +185,7 @@ dv_has_:
     cy: Angeleg
     da: angelsaksisk
     de: Altenglisch
-    de-ch: Altenglisch
+    de_ch: Altenglisch
     el: Παλαιά αγγλική γλώσσα
     en: Old English
     en-us: Old English
@@ -248,7 +248,7 @@ dv_has_:
     pnb: پراݨی انگریزی
     ps: زړه انگليسي
     pt: inglês antigo
-    pt-br: língua inglesa antiga
+    pt_br: língua inglesa antiga
     qu: Ñawpa Inlis simi
     ro: Limba engleză veche
     ru: древнеанглийский язык
@@ -262,8 +262,8 @@ dv_has_:
     sl: stara angleščina
     sq: Gjuha e vjetër angleze
     sr: староенглески језик
-    sr-ec: староенглески језик
-    sr-el: staroengleski jezik
+    sr_ec: староенглески језик
+    sr_el: staroengleski jezik
     sv: fornengelska
     sw: Kiingereza cha Kale
     ta: பண்டைய ஆங்கிலம்
@@ -280,9 +280,9 @@ dv_has_:
     wuu: 古英语
     yue: 古英文
     zh: 古英語
-    zh-hant: 古英語
-    zh-hk: 古英語
-    zh-tw: 古英語
+    zh_hant: 古英語
+    zh_hk: 古英語
+    zh_tw: 古英語
 ---
 # [[Old_English]] 
 

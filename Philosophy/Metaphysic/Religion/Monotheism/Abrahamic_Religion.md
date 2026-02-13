@@ -149,7 +149,7 @@ dv_has_:
     ba: Ибраһими диндәр
     bcl: Abrahamikong relihiyon
     be: аўраамічныя рэлігіі
-    be-tarask: абрагамічная рэлігія
+    be_tarask: абрагамічная рэлігія
     bg: Авраамически религии
     bn: ইব্রাহিমীয় ধর্ম
     br: Relijionoù a-ziwar Abraham
@@ -158,7 +158,7 @@ dv_has_:
     ceb: relihyong Abraamikanhon
     ckb: دینە ئیبراھیمییەکان
     crh: Semaviy dinler
-    crh-latn: Semaviy dinler
+    crh_latn: Semaviy dinler
     cs: Abrahámovská náboženství
     cy: crefyddau Abrahamig
     da: abrahamitiske religioner
@@ -197,7 +197,7 @@ dv_has_:
     kk: Авраамдық діндер
     ko: 아브라함의 종교
     ku: dînên birahîmî
-    ku-latn: dînên birahîmî
+    ku_latn: dînên birahîmî
     la: Religiones Abrahameae
     lad: Relijión abraámika
     lmo: Religion abramiteghe
@@ -248,8 +248,8 @@ dv_has_:
     tok: nasin sewi pi jan Alawan
     tr: İbrahimî dinler
     tt: Ибраһими диннәр
-    tt-cyrl: Ибраһими диннәр
-    tt-latn: İbrahimi dinnär
+    tt_cyrl: Ибраһими диннәр
+    tt_latn: İbrahimi dinnär
     ug: ئىبراھىمىي دىنلەر
     uk: Авраамічні релігії
     ur: ابراہیمی ادیان
@@ -261,10 +261,10 @@ dv_has_:
     yo: ẹ̀sìn ti ábráhámù
     yue: 亞巴郎諸教
     zh: 亞伯拉罕諸教
-    zh-cn: 亚伯拉罕诸教
-    zh-hant: 亞伯拉罕諸教
-    zh-hk: 亞伯拉罕諸教
-    zh-tw: 亞伯拉罕諸教
+    zh_cn: 亚伯拉罕诸教
+    zh_hant: 亞伯拉罕諸教
+    zh_hk: 亞伯拉罕諸教
+    zh_tw: 亞伯拉罕諸教
     zu: Izinkolo zika-Abrahama
 ---
 # [[Abrahamic_Religion]] 

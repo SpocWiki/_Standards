@@ -81,7 +81,7 @@ dv_has_:
     ast: lliteratura xuvenil
     az: Yeniyetmə ədəbiyyatı
     be: падлеткавая літаратура
-    be-tarask: падлеткавая літаратура
+    be_tarask: падлеткавая літаратура
     bn: পরিণত কিশোর সাহিত্য
     br: Lennegezh krennarded
     bs: Književnost za mlade odrasle
@@ -92,7 +92,7 @@ dv_has_:
     de: Jugendliteratur
     el: λογοτεχνία για νέους ενήλικες
     en: young adult literature
-    en-gb: youth literature
+    en_gb: youth literature
     eo: porjunula literaturo
     es: literatura juvenil
     et: noorsookirjandus
@@ -129,8 +129,8 @@ dv_has_:
     smn: nuorâikirjálâšvuotâ
     sms: nuõriǩeerjlažvuõtt
     sr: књижевност за младе
-    sr-ec: књижевност за младе
-    sr-el: književnost za mlade
+    sr_ec: књижевност за младе
+    sr_el: književnost za mlade
     sv: ungdomslitteratur
     th: วรรณกรรมเยาวชน
     tr: gençlik edebiyatı
@@ -140,9 +140,9 @@ dv_has_:
     vi: Văn học thanh thiếu niên
     yue: 青年小說
     zh: 青年文学
-    zh-hans: 年轻成人小说
-    zh-hant: 年輕成人小說
-    zh-hk: 年輕成人小說
+    zh_hans: 年轻成人小说
+    zh_hant: 年輕成人小說
+    zh_hk: 年輕成人小說
 ---
 # [[Young_Adult_Literature]] 
 

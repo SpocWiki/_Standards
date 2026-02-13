@@ -101,7 +101,7 @@ dv_has_:
     az: Liberal demokratiya
     azb: لیبرال دموکراسی
     be: ліберальная дэмакратыя
-    be-tarask: лібэральная дэмакратыя
+    be_tarask: лібэральная дэмакратыя
     bg: либерална демокрация
     ca: democràcia liberal
     ceb: demokrasyang liberal
@@ -149,7 +149,7 @@ dv_has_:
     pl: demokracja liberalna
     ps: لېبراله ډیموکراسي
     pt: democracia liberal
-    pt-br: democracia liberal
+    pt_br: democracia liberal
     ro: democrație liberală
     ru: либеральная демократия
     scn: Libbiraldimucrazzìa
@@ -157,8 +157,8 @@ dv_has_:
     sk: liberálna demokracia
     sl: liberalna demokracija
     sr: Либерална демократија
-    sr-ec: либерална демократија
-    sr-el: liberalna demokratija
+    sr_ec: либерална демократија
+    sr_el: liberalna demokratija
     sv: liberal demokrati
     ta: தாராண்மை மக்களாட்சி
     th: เสรีประชาธิปไตย
@@ -170,12 +170,12 @@ dv_has_:
     xmf: ლიბერალური დემოკრატია
     yue: 自由民主制
     zh: 自由民主制
-    zh-cn: 自由民主制
-    zh-hans: 自由民主制
-    zh-hant: 自由民主制
-    zh-hk: 自由民主制
-    zh-sg: 自由民主制
-    zh-tw: 自由民主制
+    zh_cn: 自由民主制
+    zh_hans: 自由民主制
+    zh_hant: 自由民主制
+    zh_hk: 自由民主制
+    zh_sg: 自由民主制
+    zh_tw: 自由民主制
 ---
 # [[Liberal_Democracy]] 
 

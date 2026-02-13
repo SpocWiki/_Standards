@@ -109,7 +109,7 @@ dv_has_:
     az: Zövq
     bcl: Kasiraman
     be: задавальненне
-    be-tarask: задавальненьне
+    be_tarask: задавальненьне
     bg: Удоволствие
     bn: আনন্দ
     bpy: আনন্দ
@@ -174,14 +174,14 @@ dv_has_:
     so: Raaxo
     sq: kënaqësi
     sr: задовољство
-    sr-ec: задовољство
-    sr-el: zadovoljstvo
+    sr_ec: задовољство
+    sr_el: zadovoljstvo
     sv: njutning
     th: กายิกสุข
     tl: Tuwa
     tr: zevk
     tt: рәхәт
-    tt-cyrl: рәхәт
+    tt_cyrl: рәхәт
     uk: задоволення
     ur: لذت
     uz: Zavqlanish

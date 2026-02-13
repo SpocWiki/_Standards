@@ -67,7 +67,7 @@ dv_has_:
     ab: Виетнам
     ace: Viètnam
     ady: Вьетнам
-    aeb-arab: ڥياتنام
+    aeb_arab: ڥياتنام
     af: Viëtnam
     am: ቬት ናም
     ami: Vietnam
@@ -90,7 +90,7 @@ dv_has_:
     bbc: Pietnam
     bcl: Bietnam
     be: В’етнам
-    be-tarask: Віетнам
+    be_tarask: Віетнам
     bew: Piètnam
     bg: Виетнам
     bho: वियतनाम
@@ -107,7 +107,7 @@ dv_has_:
     bug: ᨄᨗᨐᨙ ᨊᨛ
     bxr: Вьетнам
     ca: Vietnam
-    cbk-zam: Vietnam
+    cbk_zam: Vietnam
     cdo: Yue Nam
     ce: Вьетнам
     ceb: Vietnam
@@ -117,7 +117,7 @@ dv_has_:
     ckb: ڤیێتنام
     co: Vietnam
     crh: Vyetnam
-    crh-latn: Vyetnam
+    crh_latn: Vyetnam
     cs: Vietnam
     csb: Wietnam
     cu: Виѥтнамъ
@@ -127,7 +127,7 @@ dv_has_:
     dag: Vietnam
     de: Vietnam
     de-at: Vietnam
-    de-ch: Vietnam
+    de_ch: Vietnam
     diq: Vietnam
     dsb: Vietnam
     dtp: Vietnam
@@ -138,7 +138,7 @@ dv_has_:
     el: Βιετνάμ
     eml: Vietnam
     en: Vietnam
-    en-gb: Vietnam
+    en_gb: Vietnam
     eo: Vjetnamio
     es: Vietnam
     et: Vietnam
@@ -164,7 +164,7 @@ dv_has_:
     gn: Vietnam
     gom: व्हिएतनाम
     gom-deva: व्हिएतनाम
-    gom-latn: Vietnam
+    gom_latn: Vietnam
     gor: Vietnam
     gpe: Vietnam
     gsw: Vietnam
@@ -241,7 +241,7 @@ dv_has_:
     mad: Vietnam
     mag: वियतनाम
     mai: भियतनाम
-    map-bms: Vietnam
+    map_bms: Vietnam
     mdf: Виетнам
     mg: Vietnam
     mhr: Вьетнам
@@ -255,7 +255,7 @@ dv_has_:
     mos: Vietnam
     mr: व्हियेतनाम
     ms: Vietnam
-    ms-arab: ۏيئيتنم
+    ms_arab: ۏيئيتنم
     mt: Vjetnam
     mwl: Bietname
     my: ဗီယက်နမ်နိုင်ငံ
@@ -267,7 +267,7 @@ dv_has_:
     nap: Vietnam
     nb: Vietnam
     nds: Vietnam
-    nds-nl: Vietnam
+    nds_nl: Vietnam
     ne: भियतनाम
     new: भियतनाम
     nia: Vietnam
@@ -299,7 +299,7 @@ dv_has_:
     pnt: Βιετνάμ
     ps: ويتنام
     pt: Vietname
-    pt-br: Vietnã
+    pt_br: Vietnã
     qu: Witnam
     rm: Vietnam
     rmy: Vietnam
@@ -333,8 +333,8 @@ dv_has_:
     so: Fiyetnam
     sq: Vietnami
     sr: Вијетнам
-    sr-ec: Вијетнам
-    sr-el: Vijetnam
+    sr_ec: Вијетнам
+    sr_el: Vijetnam
     srn: Vi-etnam
     ss: IViyethina
     st: Vietnam
@@ -393,14 +393,14 @@ dv_has_:
     zea: Vietnam
     zgh: ⴼⵢⵉⵜⵏⴰⵎ
     zh: 越南
-    zh-cn: 越南
-    zh-hans: 越南
-    zh-hant: 越南
-    zh-hk: 越南
-    zh-mo: 越南
+    zh_cn: 越南
+    zh_hans: 越南
+    zh_hant: 越南
+    zh_hk: 越南
+    zh_mo: 越南
     zh-my: 越南
-    zh-sg: 越南
-    zh-tw: 越南
+    zh_sg: 越南
+    zh_tw: 越南
     zu: IViyetnami
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Vietnam

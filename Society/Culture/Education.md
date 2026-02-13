@@ -286,7 +286,7 @@ dv_has_:
     ban: Pangajian
     bcl: edukasyon
     be: адукацыя
-    be-tarask: адукацыя
+    be_tarask: адукацыя
     bew: Onderwès
     bg: образование
     bho: शिक्षा
@@ -310,7 +310,7 @@ dv_has_:
     da: uddannelse
     dag: education
     de: Ausbildung
-    de-ch: Bildung
+    de_ch: Bildung
     dtp: pondidikan
     el: εκπαίδευση
     en: education
@@ -390,7 +390,7 @@ dv_has_:
     lzh: 教學
     mad: pandidigan
     mai: शिक्षा
-    map-bms: pendidikan
+    map_bms: pendidikan
     mdf: тиевомась
     mg: fanabeazana
     mi: mātauranga
@@ -402,7 +402,7 @@ dv_has_:
     mnw: ပရေၚ်ပညာ
     mr: शिक्षण
     ms: pendidikan
-    ms-arab: ڤنديديقن
+    ms_arab: ڤنديديقن
     mt: edukazzjoni
     mwl: eiducaçon
     my: ပညာရေး
@@ -428,7 +428,7 @@ dv_has_:
     pnb: تعلیم
     ps: زده کړه
     pt: educação
-    pt-br: educação
+    pt_br: educação
     qu: yachay
     rmf: skooliba
     ro: educație
@@ -454,8 +454,8 @@ dv_has_:
     so: waxbarasho
     sq: arsimim
     sr: образовање
-    sr-ec: образовање
-    sr-el: obrazovanje
+    sr_ec: образовање
+    sr_el: obrazovanje
     st: thuto
     su: atikan
     sv: utbildning
@@ -476,7 +476,7 @@ dv_has_:
     tr: eğitim
     ts: dyondzo
     tt: мәгариф
-    tt-cyrl: мәгариф
+    tt_cyrl: мәгариф
     udm: дышетон
     uk: освіта
     ur: تعلیم
@@ -495,14 +495,14 @@ dv_has_:
     za: gyauyuz
     zgh: ⴰⵡⵡⵓⵔ:ⴰⵙⵙⴳⵎⵉ
     zh: 教育
-    zh-cn: 教育
-    zh-hans: 教育
-    zh-hant: 教育
-    zh-hk: 教育
-    zh-mo: 教育
+    zh_cn: 教育
+    zh_hans: 教育
+    zh_hant: 教育
+    zh_hk: 教育
+    zh_mo: 教育
     zh-my: 教育
-    zh-sg: 教育
-    zh-tw: 教育
+    zh_sg: 教育
+    zh_tw: 教育
     zu: imfundo
 ---
 # [[Education]] 

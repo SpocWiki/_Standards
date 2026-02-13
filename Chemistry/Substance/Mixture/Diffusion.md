@@ -108,7 +108,7 @@ dv_has_:
     ast: difusión
     az: Diffuziya
     be: дыфузія
-    be-tarask: дыфузія
+    be_tarask: дыфузія
     bg: Дифузия
     bn: ব্যাপন
     bs: Difuzija
@@ -147,7 +147,7 @@ dv_has_:
     kk: Диффузия
     kn: ಪ್ರಸರಣೆ
     ko: 확산
-    ku-latn: belavbûne
+    ku_latn: belavbûne
     ky: Диффузия
     la: Diffusio
     lt: difuzija
@@ -171,8 +171,8 @@ dv_has_:
     so: Diffusion
     sq: Difuzion
     sr: дифузија
-    sr-ec: дифузија
-    sr-el: Difuzija
+    sr_ec: дифузија
+    sr_el: Difuzija
     sv: diffusion
     ta: பரவல்
     te: వ్యాపనము
@@ -190,12 +190,12 @@ dv_has_:
     xmf: დიფუზია
     yue: 擴散
     zh: 扩散作用
-    zh-cn: 扩散作用
-    zh-hans: 扩散作用
-    zh-hant: 擴散作用
-    zh-hk: 擴散作用
-    zh-sg: 扩散作用
-    zh-tw: 擴散作用
+    zh_cn: 扩散作用
+    zh_hans: 扩散作用
+    zh_hant: 擴散作用
+    zh_hk: 擴散作用
+    zh_sg: 扩散作用
+    zh_tw: 擴散作用
 ---
 # [[Diffusion]] 
 

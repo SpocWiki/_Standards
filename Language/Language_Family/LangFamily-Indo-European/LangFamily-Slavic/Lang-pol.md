@@ -319,7 +319,7 @@ OpenStreetMap_key: language:pl
 dv_has_:
   name_:
     ab: Аполш бызшәа
-    aeb-arab: البولوني
+    aeb_arab: البولوني
     af: Pools
     am: ፖልኛ
     an: idioma polaco
@@ -338,7 +338,7 @@ dv_has_:
     ban: Basa Polandia
     bar: Poinische Sproch
     be: польская мова
-    be-tarask: польская мова
+    be_tarask: польская мова
     bg: полски език
     bho: पोलिश भाषा
     bn: পোলীয় ভাষা
@@ -353,7 +353,7 @@ dv_has_:
     ckb: زمانی پۆڵەندی
     co: polaccu
     crh: Leh tili
-    crh-latn: Leh tili
+    crh_latn: Leh tili
     cs: polština
     csb: Pòlsczi jãzëk
     cu: Пол҄ьскъ ѩꙁꙑкъ
@@ -368,8 +368,8 @@ dv_has_:
     el: Πολωνικά
     eml: Pulàc
     en: Polish
-    en-ca: Polish
-    en-gb: Polish
+    en_ca: Polish
+    en_gb: Polish
     eo: pola lingvo
     es: polaco
     et: poola keel
@@ -420,7 +420,7 @@ dv_has_:
     krc: Поляк тил
     ks: پولِش زَبان
     ku: zimanê polonî
-    ku-latn: zimanê polonî
+    ku_latn: zimanê polonî
     kv: Польша кыв
     kw: Polonek
     ky: Поляк тили
@@ -446,7 +446,7 @@ dv_has_:
     mni: ꯄꯣꯂꯤꯁ ꯂꯣꯟ
     mr: पोलिश भाषा
     ms: bahasa Poland
-    ms-arab: بهاس ڤولند
+    ms_arab: بهاس ڤولند
     mt: Pollakk
     mul: Polski
     myv: Польскоень кель
@@ -457,7 +457,7 @@ dv_has_:
     nap: lengua pulacca
     nb: polsk
     nds: Poolsch
-    nds-nl: Pools
+    nds_nl: Pools
     ne: पोल्यान्डेली
     new: पोलिश भाषा
     nl: Pools
@@ -476,7 +476,7 @@ dv_has_:
     pnb: پولی
     ps: پولينډي ژبه
     pt: polaco
-    pt-br: polonês
+    pt_br: polonês
     qu: Pulaku simi
     ro: limba poloneză
     ru: польский язык
@@ -500,7 +500,7 @@ dv_has_:
     sms: puolaǩiõll
     sq: polonisht
     sr: пољски
-    sr-ec: пољски
+    sr_ec: пољски
     stq: Poolsk
     su: Basa Polandia
     sv: polska
@@ -510,7 +510,7 @@ dv_has_:
     te: పోలిష్
     tet: Lia-polaku
     tg: полякӣ
-    tg-cyrl: забони лаҳистонӣ
+    tg_cyrl: забони лаҳистонӣ
     th: ภาษาโปแลนด์
     ti: ፖሊሽ
     tl: Wikang Polako
@@ -519,7 +519,7 @@ dv_has_:
     tpi: Tok Polan
     tr: Lehçe
     tt: поляк теле
-    tt-cyrl: поляк теле
+    tt_cyrl: поляк теле
     tyv: Поляк дыл
     udm: Поляк кыл
     ug: پولەك تىلى
@@ -541,11 +541,11 @@ dv_has_:
     yue: 波蘭話
     zea: Poôls
     zh: 波蘭語
-    zh-cn: 波兰语
-    zh-hans: 波兰语
-    zh-hant: 波蘭語
-    zh-hk: 波蘭語
-    zh-tw: 波蘭語
+    zh_cn: 波兰语
+    zh_hans: 波兰语
+    zh_hant: 波蘭語
+    zh_hk: 波蘭語
+    zh_tw: 波蘭語
     zu: IsiPholisi
 ---
 # [[Lang-pol]] 

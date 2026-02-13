@@ -69,7 +69,7 @@ dv_has_:
     vi: Psyllium
     war: Psyllium
     zh: 洋車前子
-    zh-hant: Psyllium seed husks
+    zh_hant: Psyllium seed husks
 ---
 # [[Psyllium]] 
 

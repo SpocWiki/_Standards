@@ -363,7 +363,7 @@ dv_has_:
     ban: Segara Kalér
     bar: Nordsee
     be: Паўночнае мора
-    be-tarask: Паўночнае мора
+    be_tarask: Паўночнае мора
     bg: Северно море
     bho: नॉर्थ सागर
     bn: উত্তর সাগর
@@ -382,13 +382,13 @@ dv_has_:
     cy: Môr y Gogledd
     da: Nordsøen
     de: Nordsee
-    de-ch: Nordsee
+    de_ch: Nordsee
     diq: Deryayê Zımey
     dsb: Pódpołnocne mórjo
     el: Βόρεια Θάλασσα
     en: North Sea
-    en-ca: North Sea
-    en-gb: North Sea
+    en_ca: North Sea
+    en_gb: North Sea
     eo: Norda Maro
     es: mar del Norte
     et: Põhjameri
@@ -464,7 +464,7 @@ dv_has_:
     nan: Pak-hái
     nb: Nordsjøen
     nds: Noordsee
-    nds-nl: Noordzee
+    nds_nl: Noordzee
     ne: उत्तरी सागर
     new: उत्तर सागर
     nl: Noordzee
@@ -479,7 +479,7 @@ dv_has_:
     pnb: بحیرہ شمال
     ps: شمالي سمندر
     pt: Mar do Norte
-    pt-br: Mar do Norte
+    pt_br: Mar do Norte
     rmf: Botnosko ȟyönos
     ro: Marea Nordului
     roa-tara: Mare d'u Nord
@@ -501,7 +501,7 @@ dv_has_:
     sms: Vuâđđmiârr
     sq: Deti i Veriut
     sr: Северно море
-    sr-ec: Северно море
+    sr_ec: Северно море
     stq: Noudsee
     su: Laut Kalér
     sv: Nordsjön
@@ -532,11 +532,11 @@ dv_has_:
     yue: 北海
     zea: Noôrdzeê
     zh: 北海
-    zh-cn: 北海
-    zh-hans: 北海
-    zh-hant: 北海
-    zh-hk: 北海
-    zh-tw: 北海
+    zh_cn: 北海
+    zh_hans: 北海
+    zh_hant: 北海
+    zh_hk: 北海
+    zh_tw: 北海
 ---
 # [[North_Sea]] 
 

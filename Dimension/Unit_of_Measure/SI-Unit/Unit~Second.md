@@ -203,7 +203,7 @@ dv_has_:
     bas: ǹnúmûk
     bcl: segundo
     be: секунда
-    be-tarask: сэкунда
+    be_tarask: сэкунда
     bew: Sekon
     bg: s
     bn: সেকেন্ড
@@ -222,7 +222,7 @@ dv_has_:
     de: Sekunde
     el: δευτερόλεπτο
     en: second
-    en-gb: second
+    en_gb: second
     eo: sekundo
     es: segundo
     et: sekund
@@ -296,7 +296,7 @@ dv_has_:
     mnw: စက္က
     mr: सेकंद
     ms: saat
-    ms-arab: ساعت
+    ms_arab: ساعت
     mt: sekonda
     my: စက္ကန့်
     nan: bió
@@ -316,7 +316,7 @@ dv_has_:
     pnb: سکنٹ
     ps: ثانیه
     pt: segundo
-    pt-br: segundo
+    pt_br: segundo
     qu: sikundu
     rm: s
     ro: secundă
@@ -345,8 +345,8 @@ dv_has_:
     so: ilbiriqsi
     sq: sekonda
     sr: секунда
-    sr-ec: секунда
-    sr-el: sekunda
+    sr_ec: секунда
+    sr_el: sekunda
     su: detik
     sv: sekund
     sw: sekunde
@@ -359,7 +359,7 @@ dv_has_:
     tok: tenpo lili wan Sekon
     tr: saniye
     tt: секунд
-    tt-cyrl: секунд
+    tt_cyrl: секунд
     udm: секунд
     uk: секунда
     ur: سیکنڈ
@@ -377,14 +377,14 @@ dv_has_:
     yue: 秒
     za: miux
     zh: 秒
-    zh-cn: 秒钟
-    zh-hans: 秒
-    zh-hant: 秒
-    zh-hk: 秒
-    zh-mo: 秒
+    zh_cn: 秒钟
+    zh_hans: 秒
+    zh_hant: 秒
+    zh_hk: 秒
+    zh_mo: 秒
     zh-my: 秒
-    zh-sg: 秒
-    zh-tw: 秒鐘
+    zh_sg: 秒
+    zh_tw: 秒鐘
 ---
 # [[Unit~Second]] 
 

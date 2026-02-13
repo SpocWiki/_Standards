@@ -78,7 +78,7 @@ dv_has_:
     nl: universalisme
     oc: Universal (metafisica)
     pt: universalidade
-    pt-br: universalidade
+    pt_br: universalidade
     ro: Universal (metafizică)
     sl: univerzalnost
     sq: Universaliteti
@@ -86,8 +86,8 @@ dv_has_:
     tr: Evrensellik
     zh: 共相
     zh-hans: 共相
-    zh-hant: 共相
-    zh-hk: 共相
+    zh_hant: 共相
+    zh_hk: 共相
 ---
 # [[Universalism]]  
 

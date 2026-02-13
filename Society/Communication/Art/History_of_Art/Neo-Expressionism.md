@@ -49,7 +49,7 @@ dv_has_:
     arz: التعبيريه الجديده
     ast: neoespresionismu
     be: неаэкспрэсіянізм
-    be-tarask: нэаэкспрэсіянізм
+    be_tarask: нэаэкспрэсіянізм
     bg: Неоекспресионизъм
     ca: neoexpressionisme
     cs: Neoexpresionismus
@@ -75,7 +75,7 @@ dv_has_:
     nl: neo-expressionisme
     oc: Neoexpressionisme
     pl: Neoekspresjonizm
-    pt-br: neo-expressionismo
+    pt_br: neo-expressionismo
     ro: Neoexpresionism
     ru: неоэкспрессионизм
     sh: Neoekspresionizam

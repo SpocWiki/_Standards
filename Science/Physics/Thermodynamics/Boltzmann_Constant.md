@@ -163,7 +163,7 @@ dv_has_:
     ast: Constante de Boltzmann
     az: Boltsman sabiti
     be: Пастаянная Больцмана
-    be-tarask: канстанта Больцмана
+    be_tarask: канстанта Больцмана
     bg: Константа на Болцман
     bn: বোলট্জম্যান ধ্রুবক
     br: Digemmenn Boltzmann
@@ -234,7 +234,7 @@ dv_has_:
     xmf: ბოლცმანიშ კონსტანტა
     yue: 波茲曼常數
     zh: 波茲曼常數
-    zh-hans: 玻尔兹曼常数
+    zh_hans: 玻尔兹曼常数
 ---
 # [[Boltzmann_Constant]] 
 

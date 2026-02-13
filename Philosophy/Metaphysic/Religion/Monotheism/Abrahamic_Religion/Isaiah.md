@@ -117,7 +117,7 @@ dv_has_:
     ast: Isaías
     az: Yeşua
     be: Ісайя
-    be-tarask: Ісая
+    be_tarask: Ісая
     bg: Исая
     bo: ཡེ་ཤ་ཡཱ།
     br: Yeshaia
@@ -165,15 +165,15 @@ dv_has_:
     pl: Izajasz
     pnb: یسعیاہ
     pt: Isaías
-    pt-br: Isaías
+    pt_br: Isaías
     ro: Isaia
     ru: Исаия
     sh: Izaija
     sk: Izaiáš
     sn: Isaya
     sr: Исаија
-    sr-ec: Исаија
-    sr-el: Isaija
+    sr_ec: Исаија
+    sr_el: Isaija
     stq: Jesaja
     sw: Nabii Isaya
     ta: ஏசாயா
@@ -190,12 +190,12 @@ dv_has_:
     yi: ישעיהו
     yue: 以賽亞
     zh: 以賽亞
-    zh-cn: 以赛亚
-    zh-hans: 以赛亚
-    zh-hant: 以賽亞
-    zh-hk: 以賽亞
-    zh-sg: 以赛亚
-    zh-tw: 以賽亞
+    zh_cn: 以赛亚
+    zh_hans: 以赛亚
+    zh_hant: 以賽亞
+    zh_hk: 以賽亞
+    zh_sg: 以赛亚
+    zh_tw: 以賽亞
 ---
 # [[Isaiah]] 
 

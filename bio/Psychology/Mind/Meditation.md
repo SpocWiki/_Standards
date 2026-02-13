@@ -109,7 +109,7 @@ dv_has_:
     awa: ध्यान
     az: meditasiya
     be: медытацыя
-    be-tarask: мэдытацыя
+    be_tarask: мэдытацыя
     bg: Медитация
     bn: ধ্যান
     bo: ཏིང་ངེ་འཛིན།
@@ -144,11 +144,11 @@ dv_has_:
     ja: 瞑想
     jam: Meditieshan
     kk: медитация
-    kk-arab: مەدىيتاتسىييا
+    kk_arab: مەدىيتاتسىييا
     kk-cn: مەدىيتاتسىييا
-    kk-cyrl: Медитация
+    kk_cyrl: Медитация
     kk-kz: Медитация
-    kk-latn: medïtacïya
+    kk_latn: medïtacïya
     kk-tr: Medïtacïya
     km: ការតាំងសមាធិ
     kn: ಧ್ಯಾನ
@@ -168,7 +168,7 @@ dv_has_:
     my: တရားရှုမှတ်ခြင်း
     mzn: مدیتیشن
     nb: meditasjon
-    nds-nl: meditatie
+    nds_nl: meditatie
     new: ध्यान
     nl: meditatie
     nn: meditasjon
@@ -188,8 +188,8 @@ dv_has_:
     sn: Ufungisiso
     sq: Meditimi
     sr: медитација
-    sr-ec: медитација
-    sr-el: meditacija
+    sr_ec: медитација
+    sr_el: meditacija
     sv: meditation
     sw: Sala ya moyo
     ta: தியானம்
@@ -209,12 +209,12 @@ dv_has_:
     yi: מעדיטאַציע
     yue: 冥想
     zh: 冥想
-    zh-cn: 冥想
-    zh-hans: 冥想
-    zh-hant: 冥想
-    zh-hk: 冥想
-    zh-sg: 冥想
-    zh-tw: 冥想
+    zh_cn: 冥想
+    zh_hans: 冥想
+    zh_hant: 冥想
+    zh_hk: 冥想
+    zh_sg: 冥想
+    zh_tw: 冥想
 ---
 # [[Meditation]] 
 

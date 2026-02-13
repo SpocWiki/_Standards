@@ -107,7 +107,7 @@ dv_has_:
     az: Balina
     ba: Кит
     be: Кіт
-    be-tarask: Кіт
+    be_tarask: Кіт
     bg: Кит
     bn: তিমি মণ্ডল
     bo: ན་ཀྲའི་སྐར་ཚོམ་
@@ -181,7 +181,7 @@ dv_has_:
     tl: Cetus
     tr: Cetus
     tt: Кит йолдызлыгы
-    tt-cyrl: Кит йолдызлыгы
+    tt_cyrl: Кит йолдызлыгы
     udm: Кит
     uk: Кит
     ur: قیطس

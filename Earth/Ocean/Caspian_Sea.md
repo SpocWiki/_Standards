@@ -331,7 +331,7 @@ dv_has_:
     bar: Kaspischs Meer
     bcl: Dagat Kaspyo
     be: Каспійскае мора
-    be-tarask: Касьпійскае мора
+    be_tarask: Касьпійскае мора
     bew: Laot Kaspi
     bg: Каспийско море
     bho: कैस्पियन सागर
@@ -355,8 +355,8 @@ dv_has_:
     dsb: Kaspiske mórjo
     el: Κασπία Θάλασσα
     en: Caspian Sea
-    en-ca: Caspian Sea
-    en-gb: Caspian Sea
+    en_ca: Caspian Sea
+    en_gb: Caspian Sea
     eo: Kaspio
     es: mar Caspio
     et: Kaspia meri
@@ -405,7 +405,7 @@ dv_has_:
     kbp: Kasɩpɩyɛɛnɩ Teŋgu
     kge: Lawok Kaspia
     kk: Каспий теңізі
-    kk-cyrl: Каспий теңізі
+    kk_cyrl: Каспий теңізі
     km: សមុទ្រ កាសព្យែន
     kn: ಕ್ಯಾಸ್ಪಿಯನ್ ಸಮುದ್ರ
     ko: 카스피해
@@ -429,7 +429,7 @@ dv_has_:
     lv: Kaspijas jūra
     lzh: 裏海
     mai: क्यासपियन सागर
-    map-bms: Laut Kaspia
+    map_bms: Laut Kaspia
     mdf: Каспиянь иневедсь
     mg: Ranomasina Kaspiana
     mhr: Каспий теҥыз
@@ -447,7 +447,7 @@ dv_has_:
     nan: Caspi Hái
     nb: Det kaspiske hav
     nds: Kaspische See
-    nds-nl: Kaspische Zee
+    nds_nl: Kaspische Zee
     ne: क्यासपियन सागर
     new: क्यास्पियन सागर
     nl: Kaspische Zee
@@ -463,7 +463,7 @@ dv_has_:
     pnb: بحیرہ کیسپیئن
     ps: کسپين سمندر
     pt: Mar Cáspio
-    pt-br: Mar Cáspio
+    pt_br: Mar Cáspio
     qu: Kaspi hatun qucha
     rm: Mar Caspica
     ro: Marea Caspică
@@ -516,11 +516,11 @@ dv_has_:
     yue: 裏海
     zea: Kaspische Zeê
     zh: 裏海
-    zh-cn: 里海
-    zh-hans: 里海
-    zh-hant: 裏海
-    zh-sg: 里海
-    zh-tw: 裡海
+    zh_cn: 里海
+    zh_hans: 里海
+    zh_hant: 裏海
+    zh_sg: 里海
+    zh_tw: 裡海
 ---
 # [[Caspian_Sea]] 
 

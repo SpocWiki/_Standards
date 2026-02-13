@@ -117,7 +117,7 @@ dv_has_:
     ast: ponte colgante
     az: Asma körpü
     be: Вісячы мост
-    be-tarask: вісячы мост
+    be_tarask: вісячы мост
     bg: Висящ мост
     bn: ঝুলন্ত সেতু
     ca: pont penjant
@@ -127,11 +127,11 @@ dv_has_:
     cy: pont grog
     da: hængebro
     de: Hängebrücke
-    de-ch: Hängebrücke
+    de_ch: Hängebrücke
     el: κρεμαστή γέφυρα
     en: suspension bridge
-    en-ca: Suspension bridge
-    en-gb: suspension bridge
+    en_ca: Suspension bridge
+    en_gb: suspension bridge
     eo: pendoponto
     es: puente colgante
     et: rippsild
@@ -169,7 +169,7 @@ dv_has_:
     oc: Pont suspendut
     pl: most wiszący
     pt: ponte pênsil
-    pt-br: ponte pênsil
+    pt_br: ponte pênsil
     ro: pod suspendat
     ru: висячий мост
     sco: suspension brig
@@ -192,14 +192,14 @@ dv_has_:
     wuu: 悬索桥
     yue: 懸索橋
     zh: 懸索橋
-    zh-cn: 悬索桥
-    zh-hans: 悬索桥
-    zh-hant: 懸索橋
-    zh-hk: 懸索橋
-    zh-mo: 懸索橋
+    zh_cn: 悬索桥
+    zh_hans: 悬索桥
+    zh_hant: 懸索橋
+    zh_hk: 懸索橋
+    zh_mo: 懸索橋
     zh-my: 悬索桥
-    zh-sg: 悬索桥
-    zh-tw: 懸索橋
+    zh_sg: 悬索桥
+    zh_tw: 懸索橋
 ---
 # [[Suspension_Bridge]] 
 

@@ -168,7 +168,7 @@ dv_has_:
     bar: Kilimandscharo
     bcl: Bukid Kilimanjaro
     be: Гара Кіліманджара
-    be-tarask: Кіліманджара
+    be_tarask: Кіліманджара
     bg: Килиманджаро
     bn: কিলিমাঞ্জারো
     bo: རི་བོ་ཆི་ལི་མ་ཀྲ་ལུའོ།
@@ -190,8 +190,8 @@ dv_has_:
     dv: ކިލިމަންޖާރޯ ފަރުބަދަ
     el: Κιλιμάντζαρο
     en: Mount Kilimanjaro
-    en-ca: Mount Kilimanjaro
-    en-gb: Mount Kilimanjaro
+    en_ca: Mount Kilimanjaro
+    en_gb: Mount Kilimanjaro
     eo: Kilimanĝaro
     es: Kilimanjaro
     et: Kilimanjaro
@@ -279,7 +279,7 @@ dv_has_:
     pms: Kilimangiaro
     pnb: کلیمنجارو
     pt: Kilimanjaro
-    pt-br: Kilimanjaro
+    pt_br: Kilimanjaro
     qu: Kilimanjaro
     rm: Kilimandscharo
     ro: Kilimanjaro

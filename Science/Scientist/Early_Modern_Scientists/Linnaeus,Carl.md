@@ -283,7 +283,7 @@ dv_has_:
     bar: Carl von Linné
     bcl: Carl Linnaeus
     be: Карл Ліней
-    be-tarask: Карл Лінэй
+    be_tarask: Карл Лінэй
     bg: Карл Линей
     bho: कार्ल लिन्नायस
     bn: কার্ল লিনিয়াস
@@ -304,13 +304,13 @@ dv_has_:
     cy: Carolus Linnaeus
     da: Carl von Linné
     de: Carl von Linné
-    de-ch: Carl von Linné
+    de_ch: Carl von Linné
     dsb: Carl von Linné
     ee: Carl von Linné
     el: Κάρολος Λινναίος
     en: Carl Linnaeus
-    en-ca: Carl Linnaeus
-    en-gb: Carl Linnaeus
+    en_ca: Carl Linnaeus
+    en_gb: Carl Linnaeus
     eo: Karolo Lineo
     es: Carlos Linneo
     et: Carl von Linné
@@ -391,7 +391,7 @@ dv_has_:
     nap: Carl von Linné
     nb: Carl von Linné
     nds: Carl von Linné
-    nds-nl: Carolus Linnaeus
+    nds_nl: Carolus Linnaeus
     new: कारोलस लिनियस
     nia: Carolus Linnaeus
     nl: Carolus Linnaeus
@@ -438,7 +438,7 @@ dv_has_:
     so: Kaal Liniyus
     sq: Carl von Linné
     sr: Карл фон Лине
-    sr-ec: Карл фон Лине
+    sr_ec: Карл фон Лине
     stq: Carolus Linnaeus
     su: Carolus Linnaeus
     sv: Carl von Linné
@@ -453,8 +453,8 @@ dv_has_:
     tok: jan Ka Linaju
     tr: Carl Linnaeus
     tt: Карл Линней
-    tt-cyrl: Карл Линней
-    tt-latn: Qarl Linney
+    tt_cyrl: Карл Линней
+    tt_latn: Qarl Linney
     uk: Карл Лінней
     ur: لنی اس
     uz: Carl Linnaeus
@@ -472,10 +472,10 @@ dv_has_:
     yue: 林奈
     zea: Carolus Linnaeus
     zh: 卡尔·林奈
-    zh-cn: 卡尔·林奈
-    zh-hans: 卡尔·林奈
-    zh-hant: 卡爾·林奈
-    zh-tw: 卡爾·林奈
+    zh_cn: 卡尔·林奈
+    zh_hans: 卡尔·林奈
+    zh_hant: 卡爾·林奈
+    zh_tw: 卡爾·林奈
 ---
 # [[Linnaeus,Carl]] 
 

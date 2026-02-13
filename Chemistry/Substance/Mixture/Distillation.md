@@ -122,7 +122,7 @@ dv_has_:
     arz: تقطير
     ast: Destilación
     be: перагонка
-    be-tarask: дыстыляцыя
+    be_tarask: дыстыляцыя
     bg: Дестилация
     bn: পাতন
     bs: Destilacija
@@ -132,11 +132,11 @@ dv_has_:
     cy: Distyllu
     da: Destillation
     de: Destillation
-    de-ch: Destillation
+    de_ch: Destillation
     el: Απόσταξη
     en: distillation
-    en-ca: distillation
-    en-gb: distillation
+    en_ca: distillation
+    en_gb: distillation
     eo: distilado
     es: destilación
     et: destilleerimine
@@ -158,11 +158,11 @@ dv_has_:
     jv: Distilasi
     ka: დისტილაცია
     kk: Дистиллятор
-    kk-arab: دىيستىيللياتور
+    kk_arab: دىيستىيللياتور
     kk-cn: دىيستىيللياتور
-    kk-cyrl: Дистиллятор
+    kk_cyrl: Дистиллятор
     kk-kz: Дистиллятор
-    kk-latn: Dïstïllyator
+    kk_latn: Dïstïllyator
     kk-tr: Dïstïllyator
     kn: ಡಿಸ್ಟಲೇಶನ
     ko: 증류
@@ -187,7 +187,7 @@ dv_has_:
     pa: ਕਸ਼ੀਦਣਾ
     pl: destylacja
     pt: destilação
-    pt-br: Destilação
+    pt_br: Destilação
     ro: distilare
     ru: дистилляция
     sh: Destilacija
@@ -195,8 +195,8 @@ dv_has_:
     sk: Destilácia
     sl: destilacija
     sr: дестилација
-    sr-ec: Дестилација
-    sr-el: Destilacija
+    sr_ec: Дестилација
+    sr_el: Destilacija
     su: Distilasi
     sv: destillation
     sw: Ukenekaji
@@ -214,12 +214,12 @@ dv_has_:
     wuu: 蒸馏
     yue: 蒸餾
     zh: 蒸馏
-    zh-cn: 蒸馏
-    zh-hans: 蒸馏
-    zh-hant: 蒸餾
-    zh-hk: 蒸餾
-    zh-sg: 蒸馏
-    zh-tw: 蒸餾
+    zh_cn: 蒸馏
+    zh_hans: 蒸馏
+    zh_hant: 蒸餾
+    zh_hk: 蒸餾
+    zh_sg: 蒸馏
+    zh_tw: 蒸餾
 ---
 # [[Distillation]] 
 

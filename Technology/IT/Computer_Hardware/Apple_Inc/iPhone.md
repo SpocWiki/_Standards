@@ -6,11 +6,11 @@ dv_has_:
     ary: آيفون
     arz: آي فون
     azb: آیفون
-    be-tarask: Айфон
+    be_tarask: Айфон
     bn: আইফোন
     ca: iPhone
     ckb: ئایفۆن
-    de-ch: Apple iPhone
+    de_ch: Apple iPhone
     fa: آی فون
     he: אייפון
     hi: आइफ़ोन

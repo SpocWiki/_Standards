@@ -54,7 +54,7 @@ dv_has_:
     kk: Антидиурездік гормон
     ko: 바소프레신
     ku: Hormona dijemîztin
-    ku-latn: hormona dijemîztin
+    ku_latn: hormona dijemîztin
     la: Vasopressinum
     lt: Vazopresinas
     lv: Vazopresīns

@@ -89,7 +89,7 @@ dv_has_:
     ar: نظام انتخابي
     ast: Sistema de votación
     az: Seçki sistemi
-    be-tarask: выбарчая сыстэма
+    be_tarask: выбарчая сыстэма
     bg: избирателна система
     bn: নির্বাচনী ব্যবস্থা
     ca: sistema electoral
@@ -119,11 +119,11 @@ dv_has_:
     ja: 選挙方法
     ka: საარჩევნო სისტემა
     kk: Сайлау жүйесі
-    kk-arab: سايلاۋ جۇيەسى
+    kk_arab: سايلاۋ جۇيەسى
     kk-cn: سايلاۋ جۇيەسى
-    kk-cyrl: Сайлау жүйесі
+    kk_cyrl: Сайлау жүйесі
     kk-kz: Сайлау жүйесі
-    kk-latn: Saýlaw jüýesi
+    kk_latn: Saýlaw jüýesi
     kk-tr: Saýlaw jüýesi
     ko: 선거 제도
     ky: шайлоо тутуму
@@ -133,7 +133,7 @@ dv_has_:
     mnw: ရုဲမာဲ၊ သၞောတ်
     mr: मतदान प्रणाली
     ms: sistem pilihan raya
-    ms-arab: سيستم ڤيليهن راي
+    ms_arab: سيستم ڤيليهن راي
     nb: valgordning
     ne: निर्वाचन प्रणाली
     nl: kiessysteem
@@ -150,8 +150,8 @@ dv_has_:
     sms: vaalvueʹǩǩ
     sq: Sistemi zgjedhor
     sr: изборни систем
-    sr-ec: изборни систем
-    sr-el: izborni sistem
+    sr_ec: изборни систем
+    sr_el: izborni sistem
     sv: valsystem
     ta: வாக்களிப்பு முறைகள்
     te: ఎన్నికల వ్యవస్థ
@@ -164,13 +164,13 @@ dv_has_:
     vi: hệ thống đầu phiếu
     yue: 投票制度
     zh: 投票制度
-    zh-cn: 投票制度
-    zh-hans: 投票制度
-    zh-hant: 投票制度
-    zh-hk: 投票制度
-    zh-mo: 投票制度
-    zh-sg: 投票制度
-    zh-tw: 投票制度
+    zh_cn: 投票制度
+    zh_hans: 投票制度
+    zh_hant: 投票制度
+    zh_hk: 投票制度
+    zh_mo: 投票制度
+    zh_sg: 投票制度
+    zh_tw: 投票制度
 ---
 # [[Electoral_System]] 
 

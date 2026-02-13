@@ -139,7 +139,7 @@ dv_has_:
     ba: Эрнан Кортес
     bar: Hernán Cortés
     be: Эрнан Картэс
-    be-tarask: Эрнан Картэс
+    be_tarask: Эрнан Картэс
     bg: Ернан Кортес
     bn: এর্নান কোর্তেস
     br: Hernán Cortés
@@ -158,8 +158,8 @@ dv_has_:
     ee: Hernán Cortés
     el: Ερνάν Κορτές
     en: Hernán Cortés
-    en-ca: Hernán Cortés
-    en-gb: Hernán Cortés
+    en_ca: Hernán Cortés
+    en_gb: Hernán Cortés
     eo: Hernán Cortés
     es: Hernán Cortés
     et: Hernán Cortés
@@ -223,7 +223,7 @@ dv_has_:
     nan: Hernán Cortés
     nb: Hernán Cortés
     nds: Hernán Cortés
-    nds-nl: Hernán Cortés
+    nds_nl: Hernán Cortés
     ne: हर्नान कोर्टस
     nl: Hernán Cortés
     nn: Hernán Cortés
@@ -238,7 +238,7 @@ dv_has_:
     pnb: ہرنان کورٹیز
     ps: هېرنان کورتېس
     pt: Hernán Cortés
-    pt-br: Hernán Cortés
+    pt_br: Hernán Cortés
     qu: Hernán Cortés
     ro: Hernán Cortés
     ru: Эрнан Кортес
@@ -278,8 +278,8 @@ dv_has_:
     yi: הערנאן קארטעס
     yue: 荷南寇蒂斯
     zh: 埃爾南·科爾特斯
-    zh-hant: 埃爾南·科爾特斯
-    zh-tw: 埃爾南·科爾特斯
+    zh_hant: 埃爾南·科爾特斯
+    zh_tw: 埃爾南·科爾特斯
   time_:
     started: 1485-12-01T00:00:00.000+00:53
     stopped: 1547-12-02T00:00:00.000+00:53

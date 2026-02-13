@@ -95,7 +95,7 @@ dv_has_:
     az: Seysmologiya
     bcl: Sismolohiya
     be: сейсмалогія
-    be-tarask: сэйсмалёгія
+    be_tarask: сэйсмалёгія
     bg: Сеизмология
     bn: ভূকম্পবিজ্ঞান
     br: Seismologiezh
@@ -169,8 +169,8 @@ dv_has_:
     sms: seismologia
     sq: Sizmologjia
     sr: сеизмологија
-    sr-ec: сеизмологија
-    sr-el: seizmologija
+    sr_ec: сеизмологија
+    sr_el: seizmologija
     sv: seismologi
     ta: நில நடுக்கவியல்
     th: วิทยาแผ่นดินไหว
@@ -186,10 +186,10 @@ dv_has_:
     wuu: 地震學
     yue: 地震學
     zh: 地震学
-    zh-cn: 地震学
-    zh-hans: 地震学
-    zh-hant: 地震學
-    zh-tw: 地震學
+    zh_cn: 地震学
+    zh_hans: 地震学
+    zh_hant: 地震學
+    zh_tw: 地震學
 ---
 # [[Seismology]] 
 

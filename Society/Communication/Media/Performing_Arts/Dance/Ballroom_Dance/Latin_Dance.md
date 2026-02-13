@@ -75,9 +75,9 @@ dv_has_:
     wuu: 拉丁舞
     yue: 拉丁舞
     zh: 拉丁舞
-    zh-hans: 拉丁舞
-    zh-hant: 拉丁舞
-    zh-hk: 拉丁舞
+    zh_hans: 拉丁舞
+    zh_hant: 拉丁舞
+    zh_hk: 拉丁舞
 ---
 # [[Latin_Dance]] 
 

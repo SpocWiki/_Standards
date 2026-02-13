@@ -85,7 +85,7 @@ dv_has_:
     ast: Gastroenterología
     az: Qastroenterologiya
     be: гастраэнтэралогія
-    be-tarask: гастраэнтэралёгія
+    be_tarask: гастраэнтэралёгія
     bg: Гастроентерология
     bn: পাকান্ত্রবিজ্ঞান
     bs: Gastroenterologija
@@ -169,8 +169,8 @@ dv_has_:
     xmf: გასტროენტეროლოგია
     yue: 消化科
     zh: 消化科
-    zh-hant: 消化科
-    zh-tw: 消化科
+    zh_hant: 消化科
+    zh_tw: 消化科
 ---
 # [[Gastroenterology]] 
 

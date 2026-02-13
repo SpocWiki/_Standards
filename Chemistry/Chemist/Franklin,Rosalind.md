@@ -151,12 +151,12 @@ dv_has_:
     cy: Rosalind Franklin
     da: Rosalind Franklin
     de: Rosalind Franklin
-    de-ch: Rosalind Franklin
+    de_ch: Rosalind Franklin
     dtp: Rosalind Franklin
     el: Ρόζαλιντ Φράνκλιν
     en: Rosalind Franklin
-    en-ca: Rosalind Franklin
-    en-gb: Rosalind Franklin
+    en_ca: Rosalind Franklin
+    en_gb: Rosalind Franklin
     eo: Rosalind Franklin
     es: Rosalind Franklin
     et: Rosalind Franklin
@@ -201,7 +201,7 @@ dv_has_:
     pl: Rosalind Franklin
     ps: روزالينډ فرانکلين
     pt: Rosalind Franklin
-    pt-br: Rosalind Franklin
+    pt_br: Rosalind Franklin
     qu: Rosalind Franklin
     ro: Rosalind Franklin
     ru: Розалинд Франклин

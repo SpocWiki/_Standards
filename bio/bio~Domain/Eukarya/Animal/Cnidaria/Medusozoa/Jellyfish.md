@@ -122,7 +122,7 @@ dv_has_:
     ban: Ubur-ubur
     bcl: Dikya
     be: Медузы
-    be-tarask: медуза
+    be_tarask: медуза
     bg: медузи
     bho: जेलीफिश
     bn: জেলিফিশ
@@ -135,11 +135,11 @@ dv_has_:
     cy: Slefren fôr
     da: Gopler
     de: Qualle
-    de-ch: Qualle
+    de_ch: Qualle
     el: Μέδουσα
     en: jellyfish
-    en-ca: Jellyfish
-    en-gb: jellyfish
+    en_ca: Jellyfish
+    en_gb: jellyfish
     eo: Meduzo
     es: medusa
     et: Meduus
@@ -169,7 +169,7 @@ dv_has_:
     kaa: Meduza
     kk: Медуза
     ko: 해파리
-    ku-latn: bûka deryayê
+    ku_latn: bûka deryayê
     kw: Morgowles
     la: Medusa (animal)
     lb: Jelliskapp
@@ -196,7 +196,7 @@ dv_has_:
     pnt: θαλασσομάνα
     ps: مېډوسا
     pt: alforreca
-    pt-br: medusa
+    pt_br: medusa
     qu: Kachu k'arachiq
     ro: Acalefe
     ru: медуза
@@ -209,7 +209,7 @@ dv_has_:
     sl: meduza
     sq: Kandili i detit
     sr: медуза
-    sr-ec: медуза
+    sr_ec: медуза
     sv: Maneter
     sw: Konyeza
     ta: சொறி மீன்
@@ -228,8 +228,8 @@ dv_has_:
     wuu: 水母
     yue: 白蚱
     zh: 水母
-    zh-cn: 水母
-    zh-hans: 水母
+    zh_cn: 水母
+    zh_hans: 水母
 ---
 # [[Jellyfish]] 🪼 
 

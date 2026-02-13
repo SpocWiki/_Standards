@@ -238,7 +238,7 @@ dv_has_:
     arz: بيت موندريان
     ast: Piet Mondrian
     be: Піт Мандрыян
-    be-tarask: Піт Мондрыян
+    be_tarask: Піт Мондрыян
     bg: Пийт Мондриан
     bn: Piet Mondrian
     br: Piet Mondrian
@@ -249,11 +249,11 @@ dv_has_:
     da: Piet Mondrian
     de: Piet Mondrian
     de-at: Piet Mondriaan
-    de-ch: Piet Mondriaan
+    de_ch: Piet Mondriaan
     el: Πητ Μοντριάν
     en: Piet Mondrian
-    en-ca: Piet Mondriaan
-    en-gb: Piet Mondriaan
+    en_ca: Piet Mondriaan
+    en_gb: Piet Mondriaan
     eo: Piet Mondriaan
     es: Piet Mondrian
     et: Piet Mondrian
@@ -298,7 +298,7 @@ dv_has_:
     pl: Piet Mondrian
     pms: Piet Mondrian
     pt: Piet Mondrian
-    pt-br: Piet Mondrian
+    pt_br: Piet Mondrian
     ro: Piet Mondrian
     ru: Пит Мондриан
     sc: Piet Mondrian
@@ -309,8 +309,8 @@ dv_has_:
     sl: Piet Mondrian
     sq: Piet Mondrian
     sr: Пит Мондријан
-    sr-ec: Пит Мондријан
-    sr-el: Pit Mondrijan
+    sr_ec: Пит Мондријан
+    sr_el: Pit Mondrijan
     sv: Piet Mondrian
     th: ปีต โมนดรียาน
     tr: Piet Mondrian
@@ -320,12 +320,12 @@ dv_has_:
     wuu: 皮特·蒙德里安
     yue: 皮特·蒙德里安
     zh: 皮特·蒙德里安
-    zh-cn: 皮特·蒙德里安
-    zh-hans: 皮特·蒙德里安
-    zh-hant: 皮特·蒙德里安
-    zh-hk: 皮特·蒙德里安
-    zh-sg: 皮特·蒙德里安
-    zh-tw: 皮特·蒙德里安
+    zh_cn: 皮特·蒙德里安
+    zh_hans: 皮特·蒙德里安
+    zh_hant: 皮特·蒙德里安
+    zh_hk: 皮特·蒙德里安
+    zh_sg: 皮特·蒙德里安
+    zh_tw: 皮特·蒙德里安
 ---
 # [[Mondrian,Piet]] 
 

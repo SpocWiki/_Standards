@@ -19,11 +19,11 @@ dv_has_:
     da: Stilkhvepse
     de: Taillenwespen
     de-at: Apocrita
-    de-ch: Apocrita
+    de_ch: Apocrita
     el: Απόκριτα
     en: Apocrita
-    en-ca: Apocrita
-    en-gb: Apocrita
+    en_ca: Apocrita
+    en_gb: Apocrita
     eo: Apokrito
     es: apócritos
     et: Rippkehalised
@@ -63,7 +63,7 @@ dv_has_:
     nap: Apocrita
     nb: Stilkvepser
     nds: Kneepwöpsen
-    nds-nl: Apocrita
+    nds_nl: Apocrita
     nl: Apocrita
     nn: Stilkkvefsar
     nrm: Apocrita
@@ -76,7 +76,7 @@ dv_has_:
     pms: Apocrita
     ps: باريکه تنه لرونکی خوځندکې
     pt: Apocrita
-    pt-br: Apocrita
+    pt_br: Apocrita
     rm: Apocrita
     ro: Apocrita
     ru: стебельчатобрюхие
@@ -101,9 +101,9 @@ dv_has_:
     wo: Apocrita
     yue: 細腰亞目
     zh: 细腰亚目
-    zh-cn: 细腰亚目
-    zh-hans: 细腰亚目
-    zh-tw: 細腰亞目
+    zh_cn: 细腰亚目
+    zh_hans: 细腰亚目
+    zh_tw: 細腰亞目
     zu: Apocrita
 aliases:
 - Apocrita

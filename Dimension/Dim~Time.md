@@ -247,7 +247,7 @@ dv_has_:
     bar: Zeid
     bcl: Oras
     be: час
-    be-tarask: час
+    be_tarask: час
     bg: време
     bho: समय
     bn: সময়
@@ -273,8 +273,8 @@ dv_has_:
     el: χρόνος
     eml: Tèimp
     en: time
-    en-ca: time
-    en-gb: time
+    en_ca: time
+    en_gb: time
     eo: tempo
     es: tiempo
     et: aeg
@@ -328,7 +328,7 @@ dv_has_:
     krc: заман
     ks: کال
     ku: Wext
-    ku-latn: dem
+    ku_latn: dem
     kus: Saŋa
     kw: Termyn
     ky: Убакыт
@@ -344,7 +344,7 @@ dv_has_:
     lzh: 時
     mag: समय
     mai: समय
-    map-bms: Wektu
+    map_bms: Wektu
     mdf: пинге
     mg: Fotoana
     min: Wakatu
@@ -354,7 +354,7 @@ dv_has_:
     mni: ꯇꯥꯏꯝ
     mr: काळ
     ms: masa
-    ms-arab: ماس
+    ms_arab: ماس
     mt: ħin
     my: အချိန်
     myv: Шка
@@ -363,7 +363,7 @@ dv_has_:
     nan: Sî-kan
     nb: tid
     nds: Tiet
-    nds-nl: tied
+    nds_nl: tied
     ne: समय
     new: ई
     nl: tijd
@@ -385,7 +385,7 @@ dv_has_:
     pnb: ویلا
     ps: وخت
     pt: tempo
-    pt-br: tempo
+    pt_br: tempo
     qu: Mit'awi
     rgn: témp
     rki: အချိန်
@@ -411,7 +411,7 @@ dv_has_:
     so: Wakhti
     sq: kohë
     sr: време
-    sr-ec: време
+    sr_ec: време
     stq: Tied
     su: Wayah
     sv: tid
@@ -427,8 +427,8 @@ dv_has_:
     tok: tenpo
     tr: zaman
     tt: вакыт
-    tt-cyrl: вакыт
-    tt-latn: waqıt
+    tt_cyrl: вакыт
+    tt_latn: waqıt
     udm: дыр
     uk: час
     ur: وقت
@@ -449,14 +449,14 @@ dv_has_:
     za: Seizgan
     zgh: ⴰⴽⵓⴷ
     zh: 时间
-    zh-cn: 时间
-    zh-hans: 时间
-    zh-hant: 時間
-    zh-hk: 時間
-    zh-mo: 時間
+    zh_cn: 时间
+    zh_hans: 时间
+    zh_hant: 時間
+    zh_hk: 時間
+    zh_mo: 時間
     zh-my: 时间
-    zh-sg: 时间
-    zh-tw: 時間
+    zh_sg: 时间
+    zh_tw: 時間
     zu: Isikhathi
 ---
 # [[Dim~Time]]   

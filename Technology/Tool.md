@@ -192,7 +192,7 @@ dv_has_:
     azb: جیهاز
     ba: ҡорал
     be: інструмент
-    be-tarask: інструмэнт
+    be_tarask: інструмэнт
     bg: инструмент
     blk: ကိရိယာႏ
     bn: সরঞ্জাম
@@ -205,17 +205,17 @@ dv_has_:
     chr: ᎪᎱᏍᏗ ᎬᏔᏂᏓᏍᏗ
     ckb: ئامراز
     crh: alet
-    crh-latn: alet
+    crh_latn: alet
     cs: nástroj
     cy: offeryn
     da: værktøj
     de: Werkzeug
-    de-ch: Werkzeug
+    de_ch: Werkzeug
     dsb: źěłowy rěd
     el: εργαλείο
     en: physical tool
-    en-ca: tool
-    en-gb: tool
+    en_ca: tool
+    en_gb: tool
     eo: laborilo
     es: herramienta
     et: tööriist
@@ -265,12 +265,12 @@ dv_has_:
     mni: ꯈꯨꯠꯂꯥꯏ
     mr: हत्यार
     ms: alat
-    ms-arab: الت
+    ms_arab: الت
     my: ကိရိယာ
     nan: ke-si
     nb: verktøy
     nds: Warktüüg
-    nds-nl: raaive
+    nds_nl: raaive
     ne: औजार
     new: ज्याभः
     nl: gereedschap
@@ -284,7 +284,7 @@ dv_has_:
     pnb: سَند
     ps: فزيکي توکی
     pt: ferramenta
-    pt-br: ferramenta
+    pt_br: ferramenta
     qu: irraminta
     ro: unealtă
     rsk: Орудиє
@@ -301,8 +301,8 @@ dv_has_:
     sn: chombo chebasa
     sq: mjet
     sr: алат
-    sr-ec: алат
-    sr-el: alat
+    sr_ec: алат
+    sr_el: alat
     su: Pakakas
     sv: verktyg
     sw: zana
@@ -315,8 +315,8 @@ dv_has_:
     to: meʻangāue
     tr: alet
     tt: корал
-    tt-cyrl: корал
-    tt-latn: qoral
+    tt_cyrl: корал
+    tt_latn: qoral
     uk: інструмент
     ur: اوزار
     uz: asbob
@@ -332,14 +332,14 @@ dv_has_:
     yue: 架生
     za: hongdawz
     zh: 实体工具
-    zh-cn: 工具
-    zh-hans: 工具
-    zh-hant: 工具
-    zh-hk: 工具
-    zh-mo: 工具
+    zh_cn: 工具
+    zh_hans: 工具
+    zh_hant: 工具
+    zh_hk: 工具
+    zh_mo: 工具
     zh-my: 工具
-    zh-sg: 工具
-    zh-tw: 工具
+    zh_sg: 工具
+    zh_tw: 工具
 ---
 # [[Tool]] 
 

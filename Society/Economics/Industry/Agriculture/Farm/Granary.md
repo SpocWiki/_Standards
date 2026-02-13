@@ -102,7 +102,7 @@ dv_has_:
     ay: pirwa
     bar: Droadkåstn
     be: амбар
-    be-tarask: клець
+    be_tarask: клець
     bg: Хамбар
     bjn: Kindai
     ca: graner
@@ -112,7 +112,7 @@ dv_has_:
     de: Getreidespeicher
     el: σιτοβολώνας
     en: granary
-    en-gb: granary
+    en_gb: granary
     eo: grenejo
     es: granero
     et: ait
@@ -133,11 +133,11 @@ dv_has_:
     ka: ბეღელი
     kbp: Kpou
     kk: албар
-    kk-arab: البار
+    kk_arab: البار
     kk-cn: البار
-    kk-cyrl: албар
+    kk_cyrl: албар
     kk-kz: албар
-    kk-latn: albar
+    kk_latn: albar
     kk-tr: albar
     ko: 미곡창
     la: granarium
@@ -148,7 +148,7 @@ dv_has_:
     mk: амбар
     mrj: клӓт
     nb: låve
-    nds-nl: spyker
+    nds_nl: spyker
     nl: graanopslag
     pl: spichlerz
     pt: celeiro
@@ -161,16 +161,16 @@ dv_has_:
     smn: äitti
     sms: äiʹtt
     sr: амбар
-    sr-ec: амбар
-    sr-el: ambar
+    sr_ec: амбар
+    sr_el: ambar
     sv: härbre
     ta: குதிர்
     tg: анбори ғалла
-    tg-cyrl: анбори ғалла
-    tg-latn: anʙori ƣalla
+    tg_cyrl: анбори ғалла
+    tg_latn: anʙori ƣalla
     tr: tahıl ambarı
     tt: келәт
-    tt-latn: kelät
+    tt_latn: kelät
     uk: зерносховище
     vi: Kho thóc
     wa: gurnî ås grins
@@ -178,9 +178,9 @@ dv_has_:
     wuu: 粮仓
     yue: 穀倉
     zh: 糧倉
-    zh-cn: 粮仓
-    zh-hant: 糧倉
-    zh-tw: 糧倉
+    zh_cn: 粮仓
+    zh_hant: 糧倉
+    zh_tw: 糧倉
 ---
 # [[Granary]] 
 

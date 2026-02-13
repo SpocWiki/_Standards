@@ -90,7 +90,7 @@ dv_has_:
     ba: Блюз
     bar: Blues
     be: блюз
-    be-tarask: блюз
+    be_tarask: блюз
     bg: блус
     bn: ব্লুজ
     br: Blues
@@ -142,7 +142,7 @@ dv_has_:
     kn: ಬ್ಲೂಸ್
     ko: 블루스
     ku: blues
-    ku-latn: blues
+    ku_latn: blues
     ky: Блюз
     la: Blues
     lb: Blues
@@ -161,7 +161,7 @@ dv_has_:
     nah: Blues
     nb: blues
     nds: Blues
-    nds-nl: blues
+    nds_nl: blues
     nl: blues
     nn: blues
     nrm: Blues
@@ -173,7 +173,7 @@ dv_has_:
     pms: Blues
     pnb: بلوز
     pt: Blues
-    pt-br: Blues
+    pt_br: Blues
     rm: Blues
     ro: blues
     ru: блюз
@@ -191,8 +191,8 @@ dv_has_:
     sms: bluesmusikk
     sq: Blues
     sr: блуз
-    sr-ec: блуз
-    sr-el: bluz
+    sr_ec: блуз
+    sr_el: bluz
     sv: blues
     sw: Blues
     ta: புளூஸ்
@@ -214,8 +214,8 @@ dv_has_:
     yo: Orin blues
     yue: 怨曲
     zh: 藍調
-    zh-hans: 布鲁斯
-    zh-hant: 藍調
+    zh_hans: 布鲁斯
+    zh_hant: 藍調
 ---
 # [[Blues]] 
 

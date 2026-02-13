@@ -59,7 +59,7 @@ dv_has_:
     oc: Bolitoglossa
     pl: Bolitoglossa
     pt: Bolitoglossa
-    pt-br: Bolitoglossa
+    pt_br: Bolitoglossa
     ro: Bolitoglossa
     ru: Bolitoglossa
     sq: Bolitoglossa
@@ -71,9 +71,9 @@ dv_has_:
     vo: Bolitoglossa
     war: Bolitoglossa
     zh: 游舌螈属
-    zh-cn: 游舌螈属
-    zh-hans: 游舌螈属
-    zh-tw: 游舌螈屬
+    zh_cn: 游舌螈属
+    zh_hans: 游舌螈属
+    zh_tw: 游舌螈屬
 ---
 # [[Bolitoglossa]] 
 

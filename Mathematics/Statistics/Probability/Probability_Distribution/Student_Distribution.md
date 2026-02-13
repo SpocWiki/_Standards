@@ -76,7 +76,7 @@ dv_has_:
     ar: توزيع ستيودنت الاحتمالي
     ast: Distribución t de Student
     be: размеркаванне Ст’юдэнта
-    be-tarask: разьмеркаваньне Ст’юдэнта
+    be_tarask: разьмеркаваньне Ст’юдэнта
     ca: Distribució t de Student
     cs: Studentovo rozdělení
     cv: Стьюдент валеçĕвĕ
@@ -114,7 +114,7 @@ dv_has_:
     uk: T-розподіл Стьюдента
     yue: 學生t分佈
     zh: 学生t-分布
-    zh-tw: 司徒頓t分布
+    zh_tw: 司徒頓t分布
 ---
 # [[Student_Distribution]] 
 

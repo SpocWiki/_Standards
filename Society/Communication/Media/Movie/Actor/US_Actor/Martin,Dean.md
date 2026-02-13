@@ -126,7 +126,7 @@ dv_has_:
     az: Din Martin
     azb: دین مارتین
     bcl: Dean Martin
-    be-tarask: Дын Мартын
+    be_tarask: Дын Мартын
     bg: Дийн Мартин
     bs: Dean Martin
     ca: Dean Martin
@@ -135,11 +135,11 @@ dv_has_:
     cy: Dean Martin
     da: Dean Martin
     de: Dean Martin
-    de-ch: Dean Martin
+    de_ch: Dean Martin
     el: Ντιν Μάρτιν
     en: Dean Martin
-    en-ca: Dean Martin
-    en-gb: Dean Martin
+    en_ca: Dean Martin
+    en_gb: Dean Martin
     eo: Dean Martin
     es: Dean Martin
     et: Dean Martin
@@ -176,7 +176,7 @@ dv_has_:
     pap: Dean Martin
     pl: Dean Martin
     pt: Dean Martin
-    pt-br: Dean Martin
+    pt_br: Dean Martin
     qu: Dean Martin
     ro: Dean Martin
     ru: Дин Мартин
@@ -198,11 +198,11 @@ dv_has_:
     wuu: 迪安·马丁
     yue: 甸馬田
     zh: 迪安·马丁
-    zh-cn: 迪安·马丁
-    zh-hant: 甸·馬田
-    zh-hk: 甸·馬田
+    zh_cn: 迪安·马丁
+    zh_hant: 甸·馬田
+    zh_hk: 甸·馬田
     zh-my: 甸·马田
-    zh-sg: 甸·马田
+    zh_sg: 甸·马田
 ---
 # [[Martin,Dean]] 
 

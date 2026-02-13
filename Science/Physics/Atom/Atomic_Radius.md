@@ -102,7 +102,7 @@ dv_has_:
     as: পাৰমাণৱিক ব্যাসাৰ্দ্ধ
     ast: Radiu atómicu
     be: Радыус атама
-    be-tarask: атамны радыюс
+    be_tarask: атамны радыюс
     bg: Атомен радиус
     bn: পারমাণবিক ব্যাসার্ধ
     bs: Atomski radijus
@@ -133,9 +133,9 @@ dv_has_:
     ja: 原子半径
     ka: ატომის რადიუსი
     kk: Атом радиусы
-    kk-arab: اتوم رادىيۋسى
-    kk-cyrl: Атом радиусы
-    kk-latn: Atom radïwsı
+    kk_arab: اتوم رادىيۋسى
+    kk_cyrl: Атом радиусы
+    kk_latn: Atom radïwsı
     ko: 원자 반지름
     ky: Атомдук радиус
     lmo: Ragg atòmich
@@ -153,7 +153,7 @@ dv_has_:
     oc: Rai atomic
     pl: Promień atomowy
     pt: raio atómico
-    pt-br: raio atômico
+    pt_br: raio atômico
     ro: Rază atomică
     ru: радиус атома
     sh: Atomski radijus
@@ -162,8 +162,8 @@ dv_has_:
     sl: atomski polmer
     smn: aatoomsuonjâr
     sr: Атомски радијус
-    sr-ec: Атомски радијус
-    sr-el: Atomski radijus
+    sr_ec: Атомски радијус
+    sr_el: Atomski radijus
     sv: atomradie
     ta: அணு ஆரம்
     th: รัศมีอะตอม
@@ -176,9 +176,9 @@ dv_has_:
     wuu: 原子半径
     yue: 原子半徑
     zh: 原子半径
-    zh-hans: 原子半径
-    zh-hant: 原子半徑
-    zh-hk: 原子半徑
+    zh_hans: 原子半径
+    zh_hant: 原子半徑
+    zh_hk: 原子半徑
 ---
 # [[Atomic_Radius]]  
 

@@ -93,7 +93,7 @@ dv_has_:
     ast: Sphyrnidae
     az: Çəkicbaşlı köpəkbalığı
     be: Молатагаловыя акулы
-    be-tarask: молатагаловыя акулы
+    be_tarask: молатагаловыя акулы
     bew: Cucut martèl
     bg: Акули чук
     bo: ཉ་རྡོ་གཟན་ཐོད་ཞེང་ཅན།
@@ -142,7 +142,7 @@ dv_has_:
     pl: Młotowate
     pnb: تھؤڑاسر شارک
     pt: Sphyrnidae
-    pt-br: Sphyrnidae
+    pt_br: Sphyrnidae
     ro: Sphyrnidae
     ru: Молотоголовые акулы
     sk: Sfyrnovité
@@ -165,12 +165,12 @@ dv_has_:
     war: Sphyrnidae
     yue: 鎚頭鯊
     zh: 双髻鲨科
-    zh-cn: 双髻鲨科
-    zh-hans: 双髻鲨科
-    zh-hant: 雙髻鯊
-    zh-hk: 雙髻鯊
-    zh-sg: 双髻鲨
-    zh-tw: 雙髻鯊
+    zh_cn: 双髻鲨科
+    zh_hans: 双髻鲨科
+    zh_hant: 雙髻鯊
+    zh_hk: 雙髻鯊
+    zh_sg: 双髻鲨
+    zh_tw: 雙髻鯊
 ---
 # [[Hammerhead_Shark]] 
 

@@ -153,7 +153,7 @@ dv_has_:
     ba: Аллергия
     bcl: Alerhiya
     be: алергія
-    be-tarask: алергія
+    be_tarask: алергія
     bg: Алергия
     bjn: Riman
     bn: অতিপ্রতিক্রিয়া
@@ -242,7 +242,7 @@ dv_has_:
     sms: allergia
     sq: Alergjia
     sr: алергија
-    sr-ec: алергија
+    sr_ec: алергија
     su: Alergi
     sv: allergi
     sw: Mzio

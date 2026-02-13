@@ -99,7 +99,7 @@ dv_has_:
     ast: Racionalismu
     az: Rasionalizm
     be: рацыяналізм
-    be-tarask: рацыяналізм
+    be_tarask: рацыяналізм
     bg: Рационализъм
     bho: बुद्धिवाद
     bn: যুক্তিবাদ
@@ -141,8 +141,8 @@ dv_has_:
     kk: Рационализм
     ko: 합리주의
     ku: Rasyonalîzm
-    ku-arab: راسیۆنالیزم
-    ku-latn: Rasyonalîzm
+    ku_arab: راسیۆنالیزم
+    ku_latn: Rasyonalîzm
     kw: resonegieth
     la: Rationalismus
     lb: Rationalissem
@@ -180,8 +180,8 @@ dv_has_:
     sms: rationalismm
     sq: Racionalizmi
     sr: рационализам
-    sr-ec: рационализам
-    sr-el: racionalizam
+    sr_ec: рационализам
+    sr_el: racionalizam
     sv: rationalism
     ta: பகுத்தறிவியம்
     te: హేతువాదులు
@@ -199,14 +199,14 @@ dv_has_:
     yi: ראציאנאליזם
     yue: 理性主義
     zh: 理性主义
-    zh-cn: 理性主义
-    zh-hans: 理性主义
-    zh-hant: 理性主義
-    zh-hk: 理性主義
-    zh-mo: 理性主義
+    zh_cn: 理性主义
+    zh_hans: 理性主义
+    zh_hant: 理性主義
+    zh_hk: 理性主義
+    zh_mo: 理性主義
     zh-my: 理性主义
-    zh-sg: 理性主义
-    zh-tw: 理性主義
+    zh_sg: 理性主义
+    zh_tw: 理性主義
 ---
 # [[Rationalism]] 
 

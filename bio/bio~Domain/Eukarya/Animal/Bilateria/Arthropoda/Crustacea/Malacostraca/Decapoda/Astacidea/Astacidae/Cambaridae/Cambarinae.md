@@ -46,7 +46,7 @@ dv_has_:
     oc: Cambaridae
     pl: Cambaridae
     pt: Cambaridae
-    pt-br: Cambaridae
+    pt_br: Cambaridae
     ro: Cambaridae
     ru: Cambaridae
     sq: Cambaridae
@@ -57,12 +57,12 @@ dv_has_:
     vo: Cambaridae
     war: Cambaridae
     zh: 蝲蛄科
-    zh-cn: 蝲蛄科
-    zh-hans: 蝲蛄科
-    zh-hant: 蝲蛄科
-    zh-hk: 蝲蛄科
-    zh-sg: 蝲蛄科
-    zh-tw: 蝲蛄科
+    zh_cn: 蝲蛄科
+    zh_hans: 蝲蛄科
+    zh_hant: 蝲蛄科
+    zh_hk: 蝲蛄科
+    zh_sg: 蝲蛄科
+    zh_tw: 蝲蛄科
 ---
 ## Phylogeny 
 

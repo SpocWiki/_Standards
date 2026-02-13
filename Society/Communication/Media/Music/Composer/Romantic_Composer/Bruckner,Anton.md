@@ -138,7 +138,7 @@ dv_has_:
     ast: Anton Bruckner
     ba: Антон Брукнер
     be: Антон Брукнер
-    be-tarask: Антон Брукнэр
+    be_tarask: Антон Брукнэр
     bg: Антон Брукнер
     br: Anton Bruckner
     bs: Anton Bruckner
@@ -193,7 +193,7 @@ dv_has_:
     pa: ਐਂਟੋਨ ਬਰੁਕਨਰ
     pl: Anton Bruckner
     pt: Anton Bruckner
-    pt-br: Anton Bruckner
+    pt_br: Anton Bruckner
     ro: Anton Bruckner
     ru: Антон Брукнер
     sco: Anton Bruckner
@@ -215,7 +215,7 @@ dv_has_:
     wuu: 安东·布鲁克纳
     yue: 布魯克納
     zh: 安东·布鲁克纳
-    zh-hant: 安東・布魯克納
+    zh_hant: 安東・布魯克納
 ---
 # [[Bruckner,Anton]] 
 

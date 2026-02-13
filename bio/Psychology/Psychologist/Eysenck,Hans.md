@@ -84,7 +84,7 @@ dv_has_:
     ast: Hans Eysenck
     az: Hans Ayzenk
     azb: هانس ایسنک
-    be-tarask: Ганс Айзэнк
+    be_tarask: Ганс Айзэнк
     bg: Ханс Айзенк
     ca: Hans Eysenck
     co: Hans Eysenck
@@ -95,8 +95,8 @@ dv_has_:
     ee: Hans J. Eysenck
     el: Χανς Άιζενκ
     en: Hans Eysenck
-    en-ca: Hans Eysenck
-    en-gb: Hans Eysenck
+    en_ca: Hans Eysenck
+    en_gb: Hans Eysenck
     eo: Hans Eysenck
     es: Hans Eysenck
     et: Hans Jürgen Eysenck
@@ -132,7 +132,7 @@ dv_has_:
     oc: Hans Eysenck
     pl: Hans Eysenck
     pt: Hans Eysenck
-    pt-br: Hans Eysenck
+    pt_br: Hans Eysenck
     ro: Hans Eysenck
     ru: Ганс Юрген Айзенк
     sk: Hans Jürgen Eysenck

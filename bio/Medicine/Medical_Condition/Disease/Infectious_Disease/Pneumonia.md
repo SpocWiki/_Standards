@@ -229,7 +229,7 @@ dv_has_:
     azb: ذاتالریه
     ba: пневмония
     be: пнеўманія
-    be-tarask: пнэўманія
+    be_tarask: пнэўманія
     bg: пневмония
     bgn: سینه بغل
     bn: নিউমোনিয়া
@@ -251,8 +251,8 @@ dv_has_:
     dz: གློ་གཅོང་ནད།
     el: πνευμονία
     en: pneumonia
-    en-ca: Pneumonia
-    en-gb: pneumonia
+    en_ca: Pneumonia
+    en_gb: pneumonia
     eo: pneŭmonito
     es: neumonía
     et: kopsupõletik
@@ -297,7 +297,7 @@ dv_has_:
     ko: 폐렴
     ks: نمونیا
     ku: kulbûna pişikê
-    ku-latn: kulbûna pişikê
+    ku_latn: kulbûna pişikê
     kw: niwmonia
     ky: Пневмония
     la: Pneumonia
@@ -332,7 +332,7 @@ dv_has_:
     pnb: نمونیا
     ps: سینه بغل
     pt: pneumonia
-    pt-br: pneumonia
+    pt_br: pneumonia
     rn: Umusonga
     ro: pneumonie
     ru: пневмония
@@ -350,8 +350,8 @@ dv_has_:
     sn: Chibayo
     sq: pneumonia
     sr: упала плућа
-    sr-ec: упала плућа
-    sr-el: upala pluća
+    sr_ec: упала плућа
+    sr_el: upala pluća
     sv: lunginflammation
     sw: Nimonia
     ta: நுரையீரல் அழற்சி
@@ -377,9 +377,9 @@ dv_has_:
     yue: 肺炎
     za: bwtbingh
     zh: 肺炎
-    zh-hans: 肺炎
-    zh-hant: 肺炎
-    zh-tw: 肺炎
+    zh_hans: 肺炎
+    zh_hant: 肺炎
+    zh_tw: 肺炎
 ---
 # [[Pneumonia]] 
 

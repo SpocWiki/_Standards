@@ -199,25 +199,25 @@ dv_has_:
     bar: Tina Turner
     bcl: Tina Turner
     be: Ціна Цёрнер
-    be-tarask: Тына Тэрнэр
+    be_tarask: Тына Тэрнэр
     bg: Тина Търнър
     bm: Tina Turner
     bn: টিনা টার্নার
     br: Tina Turner
     bs: Tina Turner
     ca: Tina Turner
-    cbk-zam: Tina Turner
+    cbk_zam: Tina Turner
     co: Tina Turner
     cs: Tina Turner
     cy: Tina Turner
     da: Tina Turner
     de: Tina Turner
     de-at: Tina Turner
-    de-ch: Tina Turner
+    de_ch: Tina Turner
     el: Τίνα Τέρνερ
     en: Tina Turner
-    en-ca: Tina Turner
-    en-gb: Tina Turner
+    en_ca: Tina Turner
+    en_gb: Tina Turner
     eo: Tina Turner
     es: Tina Turner
     et: Tina Turner
@@ -271,13 +271,13 @@ dv_has_:
     mn: Тина Төрнэр
     mrj: Тина Тӧрнер
     ms: Tina Turner
-    ms-arab: تينا ترنر
+    ms_arab: تينا ترنر
     mt: Tina Turner
     mul: Tina Turner
     nap: Tina Turner
     nb: Tina Turner
     nds: Tina Turner
-    nds-nl: Tina Turner
+    nds_nl: Tina Turner
     nl: Tina Turner
     nn: Tina Turner
     nrm: Tina Turner
@@ -290,7 +290,7 @@ dv_has_:
     pms: Tina Turner
     prg: Tina Turner
     pt: Tina Turner
-    pt-br: Tina Turner
+    pt_br: Tina Turner
     qu: Tina Turner
     rgn: Tina Turner
     rm: Tina Turner
@@ -305,8 +305,8 @@ dv_has_:
     sl: Tina Turner
     sq: Tina Turner
     sr: Тина Тарнер
-    sr-ec: Тина Тарнер
-    sr-el: Tina Tarner
+    sr_ec: Тина Тарнер
+    sr_el: Tina Tarner
     sv: Tina Turner
     sw: Tina Turner
     szl: Tina Turner
@@ -328,12 +328,12 @@ dv_has_:
     yo: Tina Turner
     yue: 天娜端納
     zh: 蒂娜·特纳
-    zh-cn: 蒂娜·特纳
-    zh-hans: 蒂娜·特纳
-    zh-hant: 蒂娜·特娜
-    zh-hk: 天娜·端納
-    zh-sg: 蒂娜·特纳
-    zh-tw: 蒂娜·特娜
+    zh_cn: 蒂娜·特纳
+    zh_hans: 蒂娜·特纳
+    zh_hant: 蒂娜·特娜
+    zh_hk: 天娜·端納
+    zh_sg: 蒂娜·特纳
+    zh_tw: 蒂娜·特娜
     zu: Tina Turner
 ---
 # [[Turner,Tina]] 

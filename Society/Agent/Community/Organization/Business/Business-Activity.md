@@ -85,7 +85,7 @@ dv_has_:
     ast: Negociu
     ba: бизнес
     be: бізнес
-    be-tarask: бізнэс
+    be_tarask: бізнэс
     bg: Бизнес
     ca: empresa
     cs: podnikání
@@ -114,14 +114,14 @@ dv_has_:
     mcn: slé , slòkóy
     mn: Бизнес
     ms: perniagaan
-    ms-arab: ڤرنياݢاءن
+    ms_arab: ڤرنياݢاءن
     nan: Seng-lí
     nb: næringsliv
     nl: bedrijfsleven
     nn: næringsliv
     ps: سوداګر
     pt: direito comercial
-    pt-br: negócios
+    pt_br: negócios
     ru: деловая активность
     rue: Бізніс
     sco: Business

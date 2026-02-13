@@ -12,7 +12,7 @@ dv_has_:
     az: hüquqşünas
     ba: юрист
     be: юрыст
-    be-tarask: юрыст
+    be_tarask: юрыст
     bg: юрист
     bn: বিচারপতি
     br: gwiraour
@@ -21,19 +21,19 @@ dv_has_:
     chr: ᏗᏘᏲᎯᎯ
     ckb: دادوەر
     crh: uquqçı
-    crh-latn: uquqçı
+    crh_latn: uquqçı
     cs: právník
     cy: cyfreithegydd
     da: jurist
     de: Jurist
     de-at: Jurist
-    de-ch: Jurist
+    de_ch: Jurist
     diq: Hıquqwan
     dsb: jurist
     el: νομικός
     en: jurist
-    en-ca: Jurist
-    en-gb: jurist
+    en_ca: Jurist
+    en_gb: jurist
     en-us: jurist
     eo: juristo
     es: jurista
@@ -72,16 +72,16 @@ dv_has_:
     kaa: yurist
     kbp: Paɣtʊ tɩlɩyʊ
     kk: заңгер
-    kk-arab: زاڭگەر
+    kk_arab: زاڭگەر
     kk-cn: زاڭگەر
-    kk-cyrl: Заңгер
+    kk_cyrl: Заңгер
     kk-kz: Заңгер
-    kk-latn: Zañger
+    kk_latn: Zañger
     kk-tr: Zañger
     kn: ನ್ಯಾಯಧೀಶಕರು
     ko: 법학자
     ku: dadwer
-    ku-latn: dadwer
+    ku_latn: dadwer
     kw: rethor
     ky: юрист
     la: iuris peritus
@@ -98,7 +98,7 @@ dv_has_:
     ml: നിയമവിദഗ്ധൻ
     mr: कायदेपंडित
     ms: pakar undang-undang
-    ms-arab: ڤاکر اوندڠ٢
+    ms_arab: ڤاکر اوندڠ٢
     mt: ġurist
     nb: jurist
     nds: Jurist
@@ -111,7 +111,7 @@ dv_has_:
     pap: hurista
     pl: prawnik
     pt: jurista
-    pt-br: jurista
+    pt_br: jurista
     ro: jurist
     ru: юрист
     rue: правник
@@ -127,8 +127,8 @@ dv_has_:
     sms: juristt
     sq: jurist
     sr: правник
-    sr-ec: правник
-    sr-el: pravnik
+    sr_ec: правник
+    sr_el: pravnik
     sv: jurist
     szl: prawnik
     ta: சட்ட அறிஞர்
@@ -138,7 +138,7 @@ dv_has_:
     tl: jurist
     tr: hukukçu
     tt: хокук белгече
-    tt-cyrl: хокук белгече
+    tt_cyrl: хокук белгече
     uk: правник
     ur: مفسرِ قانون
     uz: yurist
@@ -148,12 +148,12 @@ dv_has_:
     yi: יוריסט
     yue: 法學家
     zh: 法学家
-    zh-cn: 法学家
-    zh-hans: 法学家
-    zh-hant: 法學家
-    zh-hk: 法學家
-    zh-sg: 法学家
-    zh-tw: 法學家
+    zh_cn: 法学家
+    zh_hans: 法学家
+    zh_hant: 法學家
+    zh_hk: 法學家
+    zh_sg: 法学家
+    zh_tw: 法學家
 aliases:
 - aghaʼdiitʼaahii
 - ahli hukum

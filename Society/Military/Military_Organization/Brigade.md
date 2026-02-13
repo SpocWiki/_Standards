@@ -7,7 +7,7 @@ dv_has_:
     ast: Brigada
     az: Briqada
     be: брыгада
-    be-tarask: брыгада
+    be_tarask: брыгада
     bg: бригада
     bn: ব্রিগেড
     bs: Brigada
@@ -20,8 +20,8 @@ dv_has_:
     de: Brigade
     el: ταξιαρχία
     en: brigade
-    en-ca: brigade
-    en-gb: brigade
+    en_ca: brigade
+    en_gb: brigade
     eo: brigado
     es: brigada
     et: Brigaad
@@ -43,17 +43,17 @@ dv_has_:
     ja: 旅団
     jv: Brigade
     kk: Бригада
-    kk-arab: برىيگادا
+    kk_arab: برىيگادا
     kk-cn: برىيگادا
-    kk-cyrl: Бригада
+    kk_cyrl: Бригада
     kk-kz: Бригада
-    kk-latn: Brïgada
+    kk_latn: Brïgada
     kk-tr: Brïgada
     ko: 여단
     ko-kp: 려단
     ku: Lîwa
-    ku-arab: لیوا
-    ku-latn: Lîwa
+    ku_arab: لیوا
+    ku_latn: Lîwa
     ky: Бригада
     lt: brigada
     lv: Brigāde
@@ -76,12 +76,12 @@ dv_has_:
     sl: brigada
     sq: Brigada (njësi ushtarake)
     sr: бригада
-    sr-ec: бригада
-    sr-el: brigada
+    sr_ec: бригада
+    sr_el: brigada
     sv: brigad
     ta: பிரிகேட்
     tg: Бригада
-    tg-latn: Brigada
+    tg_latn: Brigada
     th: กองพลน้อย
     tr: tugay
     tt: Бригада
@@ -91,12 +91,12 @@ dv_has_:
     yi: בריגאַדע
     yue: 旅 (軍隊編制)
     zh: 旅
-    zh-cn: 旅
-    zh-hans: 旅
-    zh-hant: 旅
-    zh-hk: 旅
-    zh-sg: 旅
-    zh-tw: 旅
+    zh_cn: 旅
+    zh_hans: 旅
+    zh_hant: 旅
+    zh_hk: 旅
+    zh_sg: 旅
+    zh_tw: 旅
 aliases:
 - Brigaad
 - brigad

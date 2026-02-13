@@ -76,7 +76,7 @@ dv_has_:
     ar: شريعة بالي
     as: পালি ধৰ্মশাস্ত্ৰ
     ast: Canon Pali
-    be-tarask: палійскі канон
+    be_tarask: палійскі канон
     bg: Палийски канон
     bho: तिपिटक
     bn: পালি ত্রিপিটক
@@ -128,8 +128,8 @@ dv_has_:
     sl: palijski kanon
     so: Tipitaka
     sr: Пали канон
-    sr-ec: Пали канон
-    sr-el: Pali kanon
+    sr_ec: Пали канон
+    sr_el: Pali kanon
     sv: Palikanonen
     th: พระไตรปิฎกภาษาบาลี
     tl: tipitëkëng Therëwadë
@@ -137,12 +137,12 @@ dv_has_:
     uk: Тапітака
     vi: Kinh điển Pali
     zh: 巴利文大藏經
-    zh-cn: 巴利文大藏经
-    zh-hans: 巴利文大藏经
-    zh-hant: 巴利文大藏經
-    zh-hk: 巴利文大藏經
-    zh-sg: 巴利文大藏经
-    zh-tw: 巴利文大藏經
+    zh_cn: 巴利文大藏经
+    zh_hans: 巴利文大藏经
+    zh_hant: 巴利文大藏經
+    zh_hk: 巴利文大藏經
+    zh_sg: 巴利文大藏经
+    zh_tw: 巴利文大藏經
 ---
 # [[Pāli_Canon]] 
 

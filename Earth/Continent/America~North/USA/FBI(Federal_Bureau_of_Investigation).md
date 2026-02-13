@@ -160,7 +160,7 @@ dv_has_:
     az: Federal Təhqiqat Bürosu
     ba: Федераль эҙәрлекләүҙәр бюроһы
     be: Федэральнае бюро расследванняў
-    be-tarask: Фэдэральнае бюро расьсьледаваньняў
+    be_tarask: Фэдэральнае бюро расьсьледаваньняў
     bg: Федерално бюро за разследване
     bn: ফেডারেল ব্যুরো অব ইনভেস্টিগেশন
     br: Federal Bureau of Investigation
@@ -233,8 +233,8 @@ dv_has_:
     sl: Zvezni preiskovalni urad
     sq: Zyra Federative e Hetimit Amerikan
     sr: Федерални истражни биро
-    sr-ec: Федерални истражни биро
-    sr-el: Federalni istražni biro
+    sr_ec: Федерални истражни биро
+    sr_el: Federalni istražni biro
     sv: Federal Bureau of Investigation
     sw: Shirika la Upelelezi la Marekani
     syl: ꠄꠙ ꠛꠤ ꠀꠁ
@@ -250,14 +250,14 @@ dv_has_:
     xmf: ფედერალური ონაკვერალი ბიურო
     yue: 聯邦調查局
     zh: 聯邦調查局
-    zh-cn: 联邦调查局
-    zh-hans: 联邦调查局
-    zh-hant: 聯邦調查局
-    zh-hk: 聯邦調查局
-    zh-mo: 聯邦調查局
+    zh_cn: 联邦调查局
+    zh_hans: 联邦调查局
+    zh_hant: 聯邦調查局
+    zh_hk: 聯邦調查局
+    zh_mo: 聯邦調查局
     zh-my: 联邦调查局
-    zh-sg: 联邦调查局
-    zh-tw: 聯邦調查局
+    zh_sg: 联邦调查局
+    zh_tw: 聯邦調查局
 ---
 # [[FBI(Federal_Bureau_of_Investigation)]] 
 

@@ -70,7 +70,7 @@ dv_has_:
     ar: مؤثرات خاصة
     ast: Efeutos especiales
     az: xüsusi effekt
-    be-tarask: спэцэфэкт
+    be_tarask: спэцэфэкт
     bn: বিশেষ আবহ
     bs: Specijalni efekat
     ca: efectes especials
@@ -120,18 +120,18 @@ dv_has_:
     th: เอฟเฟกต์พิเศษ
     tr: Özel efekt
     tt: махсус эффект
-    tt-cyrl: махсус эффект
+    tt_cyrl: махсус эффект
     uk: спецефекти
     uz: maxsus effekt
     vi: Hiệu ứng đặc biệt
     yue: 特技效果
     zh: 特殊效果
-    zh-cn: 特殊效果
-    zh-hans: 特殊效果
-    zh-hant: 特殊效果
-    zh-hk: 特殊效果
-    zh-sg: 特殊效果
-    zh-tw: 特殊效果
+    zh_cn: 特殊效果
+    zh_hans: 特殊效果
+    zh_hant: 特殊效果
+    zh_hk: 特殊效果
+    zh_sg: 特殊效果
+    zh_tw: 特殊效果
     zu: INgengamehlo
 ---
 # [[Special_Effects]] 

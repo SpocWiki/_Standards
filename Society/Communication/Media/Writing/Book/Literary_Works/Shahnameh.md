@@ -206,14 +206,14 @@ dv_has_:
     ba: Шаһнамә
     bcl: Šāhnāme
     be: Шах-намэ
-    be-tarask: Шагнамэ
+    be_tarask: Шагнамэ
     bg: Шах-наме
     bn: শাহনামা
     br: Shahnameh
     bs: Šahname
     btm: Syahnameh
     ca: El Llibre dels Reis
-    cbk-zam: Šāhnāme
+    cbk_zam: Šāhnāme
     ce: Шахнаме
     ceb: Shāhnāmeh
     ckb: شانامە
@@ -224,13 +224,13 @@ dv_has_:
     cy: Shahnameh
     da: Kongebogen
     de: Schāhnāme
-    de-ch: Schāhnāme
+    de_ch: Schāhnāme
     diq: Şaname
     dv: ޝާހްނާމާ
     el: Σαχναμέ
     en: Shahnameh
-    en-ca: Shahnameh
-    en-gb: Shahnameh
+    en_ca: Shahnameh
+    en_gb: Shahnameh
     eo: Ŝahnameo
     es: Shahnameh
     et: Shāhnāmeh
@@ -290,7 +290,7 @@ dv_has_:
     pnb: شاہنامہ
     ps: شاهنامه
     pt: Shahnameh
-    pt-br: Shahnameh
+    pt_br: Shahnameh
     ro: Șah-Namé
     ru: Шахнаме
     rue: Шах-наме
@@ -320,14 +320,14 @@ dv_has_:
     yi: שאַהנאַמע
     yue: 群王書
     zh: 列王紀
-    zh-cn: 列王紀
-    zh-hans: 列王紀
-    zh-hant: 列王紀
-    zh-hk: 列王紀
-    zh-mo: 列王紀
+    zh_cn: 列王紀
+    zh_hans: 列王紀
+    zh_hant: 列王紀
+    zh_hk: 列王紀
+    zh_mo: 列王紀
     zh-my: 列王紀
-    zh-sg: 列王紀
-    zh-tw: 列王紀
+    zh_sg: 列王紀
+    zh_tw: 列王紀
 ---
 ## #has_/text_of_/abstract 
 

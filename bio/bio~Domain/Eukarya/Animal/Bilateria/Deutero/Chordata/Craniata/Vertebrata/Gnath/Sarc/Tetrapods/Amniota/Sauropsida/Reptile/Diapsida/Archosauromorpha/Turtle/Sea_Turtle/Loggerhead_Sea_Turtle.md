@@ -127,7 +127,7 @@ dv_has_:
     ban: Penyu jun
     bar: Caretta caretta
     bcl: Bulawon
-    be-tarask: логергэд
+    be_tarask: логергэд
     bg: карета
     bn: মুগুরমাথা সাগর কাছিম
     br: Baot skantek
@@ -141,8 +141,8 @@ dv_has_:
     diq: Kesa deryay
     el: Caretta caretta
     en: loggerhead sea turtle
-    en-ca: Loggerhead sea turtle
-    en-gb: Loggerhead sea turtle
+    en_ca: Loggerhead sea turtle
+    en_gb: Loggerhead sea turtle
     en-us: loggerhead sea turtle
     eo: Kareto
     es: Caretta caretta
@@ -175,7 +175,7 @@ dv_has_:
     pl: Karetta
     pnb: کاریٹا کاریٹا
     pt: tartaruga-comum
-    pt-br: Tartaruga-comum
+    pt_br: Tartaruga-comum
     ro: Caretta caretta
     ru: логгерхед
     sc: Tostoine de abba
@@ -184,8 +184,8 @@ dv_has_:
     sl: glavata kareta
     sq: Breshka e ujit
     sr: Caretta caretta
-    sr-ec: Caretta caretta
-    sr-el: Caretta caretta
+    sr_ec: Caretta caretta
+    sr_el: Caretta caretta
     sv: Oäkta karettsköldpadda
     ta: பெருந்தலைக் கடலாமை
     th: เต่าหัวค้อน
@@ -197,12 +197,12 @@ dv_has_:
     wuu: 赤蠵龟
     yue: 赤蠵龜
     zh: 赤蠵龜
-    zh-cn: 蠵龟
-    zh-hans: 蠵龟
-    zh-hant: 蠵龜
-    zh-hk: 蠵龜
-    zh-sg: 蠵龟
-    zh-tw: 赤蠵龜
+    zh_cn: 蠵龟
+    zh_hans: 蠵龟
+    zh_hant: 蠵龜
+    zh_hk: 蠵龜
+    zh_sg: 蠵龟
+    zh_tw: 赤蠵龜
 ---
 # [[Loggerhead_Sea_Turtle]] 
 

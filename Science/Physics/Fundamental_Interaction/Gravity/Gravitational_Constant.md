@@ -104,7 +104,7 @@ dv_has_:
     ast: Constante de gravitación universal
     azb: کوتله چکیمی ثابیتی
     be: гравітацыйная пастаянная
-    be-tarask: гравітацыйная канстанта
+    be_tarask: гравітацыйная канстанта
     bg: Гравитационна константа
     bn: মহাকর্ষ ধ্রুবক
     ca: constant de la gravitació
@@ -145,7 +145,7 @@ dv_has_:
     ml: ഗുരുത്വാകർഷണസ്ഥിരാങ്കം
     mr: गुरुत्व स्थिरांक
     ms: pemalar graviti
-    ms-arab: ڤمالر ݢراۏيتي
+    ms_arab: ڤمالر ݢراۏيتي
     mul: G
     my: ကမ္ဘာမြေဆွဲအားကိန်းသေ
     nan: Bān-iú-ín-le̍k siông-sò͘
@@ -163,7 +163,7 @@ dv_has_:
     sk: Gravitačná konštanta
     sl: gravitacijska konstanta
     sr: гравитациона константа
-    sr-ec: гравитациона константа
+    sr_ec: гравитациона константа
     sv: gravitationskonstanten
     ta: ஈர்ப்பியல் மாறிலி
     te: గురుత్వస్థిరాంకము
@@ -178,8 +178,8 @@ dv_has_:
     xmf: გრავიტაციული კონსტანტა
     yue: 萬有引力常數
     zh: 万有引力常数
-    zh-hant: 萬有引力常數
-    zh-tw: 萬有引力常數
+    zh_hant: 萬有引力常數
+    zh_tw: 萬有引力常數
 ---
 # [[Gravitational_Constant]] 
 

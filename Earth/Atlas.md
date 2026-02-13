@@ -145,7 +145,7 @@ dv_has_:
     az: Atlas
     ba: Географик атлас
     be: геаграфічны атлас
-    be-tarask: атляс
+    be_tarask: атляс
     bg: Атлас
     bn: মানচিত্রাবলী
     br: Atlas
@@ -209,7 +209,7 @@ dv_has_:
     pl: atlas
     pnb: اٹلس
     pt: atlas
-    pt-br: atlas
+    pt_br: atlas
     ro: Atlas geografic
     ru: географический атлас
     sah: аатылас
@@ -223,8 +223,8 @@ dv_has_:
     sms: karttǩeʹrjj
     sq: Atlasi
     sr: географски атлас
-    sr-ec: Географски атлас
-    sr-el: Geografski atlas
+    sr_ec: Географски атлас
+    sr_el: Geografski atlas
     sv: kartbok
     sw: Atlasi
     ta: அட்லசு
@@ -244,12 +244,12 @@ dv_has_:
     xmf: გეოგრაფიული ატლასი
     yue: 地圖集
     zh: 地圖集
-    zh-cn: 地图集
-    zh-hans: 地图集
-    zh-hant: 地圖集
-    zh-hk: 地圖集
-    zh-sg: 地图集
-    zh-tw: 地圖集
+    zh_cn: 地图集
+    zh_hans: 地图集
+    zh_hant: 地圖集
+    zh_hk: 地圖集
+    zh_sg: 地图集
+    zh_tw: 地圖集
   parent_class: '[[../CreativeWork]]'
   properties: '[ about, abstract, accessMode, accessModeSufficient, accessibilityAPI, accessibilityControl, accessibilityFeature, accessibilityHazard, accessibilitySummary, accountablePerson, acquireLicensePage, additionalType, aggregateRating, alternateName, alternativeHeadline, archivedAt, assesses, associatedMedia, audience, audio, author, award, awards, character, citation, comment, commentCount, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfOrigin, creativeWorkStatus, creator, creditText, dateCreated, dateModified, datePublished, description, disambiguatingDescription, discussionUrl, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, encoding, encodingFormat, encodings, exampleOfWork, expires, fileFormat, funder, funding, genre, hasPart, headline, identifier, image, inLanguage, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isBasedOn, isBasedOnUrl, isFamilyFriendly, isPartOf, keywords, learningResourceType, license, locationCreated, mainEntity, mainEntityOfPage, maintainer, material, materialExtent, mentions, name, offers, pattern, position, potentialAction, producer, provider, publication, publisher, publisherImprint, publishingPrinciples, recordedAt, releasedEvent, review, reviews, sameAs, schemaVersion, sdDatePublished, sdLicense, sdPublisher, size, sourceOrganization, spatial, spatialCoverage, sponsor, subjectOf, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, translationOfWork, translator, typicalAgeRange, url, usageInfo, version, video, workExample, workTranslation ]'
 dv_is_different_from: '[[../Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Atlas(Mythology)|Atlas(Mythology)]]'

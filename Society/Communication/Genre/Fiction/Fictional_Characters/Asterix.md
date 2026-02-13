@@ -132,7 +132,7 @@ dv_has_:
     ast: Astérix el Galu
     bar: Asterix
     be: Астэрыкс
-    be-tarask: Астэрыкс
+    be_tarask: Астэрыкс
     bg: Астерикс
     bn: অ্যাসটেরিক্স
     br: Astérix
@@ -143,7 +143,7 @@ dv_has_:
     de: Asterix
     el: Αστερίξ
     en: Asterix
-    en-gb: Asterix
+    en_gb: Asterix
     eo: Asteriks
     es: Astérix el Galo
     et: Asterix

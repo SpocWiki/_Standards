@@ -84,7 +84,7 @@ dv_has_:
     az: Kvark
     azb: کوارک
     be: кварк
-    be-tarask: кварк
+    be_tarask: кварк
     bg: Кварк
     bn: কোয়ার্ক
     bs: Kvark
@@ -95,11 +95,11 @@ dv_has_:
     cy: cwarc
     da: kvark
     de: Quark
-    de-ch: Quark (Physik)
+    de_ch: Quark (Physik)
     el: κουάρκ
     en: quark
-    en-ca: Quark
-    en-gb: quark
+    en_ca: Quark
+    en_gb: quark
     eo: kvarko
     es: cuark
     et: kvark
@@ -157,7 +157,7 @@ dv_has_:
     pnb: کوارک
     ps: کوارک
     pt: quark
-    pt-br: quark
+    pt_br: quark
     ro: quarc
     ru: кварк
     scn: quark
@@ -167,8 +167,8 @@ dv_has_:
     sl: kvark
     sq: Kuark
     sr: кварк
-    sr-ec: кварк
-    sr-el: kvark
+    sr_ec: кварк
+    sr_el: kvark
     su: Quark
     sv: kvark
     ta: குவார்க்கு
@@ -188,9 +188,9 @@ dv_has_:
     wuu: 夸克
     yue: 夸克
     zh: 夸克
-    zh-hant: 夸克
-    zh-hk: 夸克
-    zh-tw: 夸克
+    zh_hant: 夸克
+    zh_hk: 夸克
+    zh_tw: 夸克
     zu: Inkemfe
 ---
 # [[Quark]] 

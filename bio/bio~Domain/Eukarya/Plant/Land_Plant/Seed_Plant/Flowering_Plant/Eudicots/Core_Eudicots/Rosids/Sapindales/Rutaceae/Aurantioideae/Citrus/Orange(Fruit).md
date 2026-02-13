@@ -241,8 +241,8 @@ Gujarati_Vishwakosh_entry: નારંગી
 dv_has_:
   name_:
     ab: Апатырқал
-    aeb-arab: كعبة بردڨان
-    aeb-latn: bortgèn
+    aeb_arab: كعبة بردڨان
+    aeb_latn: bortgèn
     af: Lemoen
     am: ብርቱካን
     an: Narancha
@@ -258,7 +258,7 @@ dv_has_:
     bar: Pamarantschn
     bbc: Unte
     be: Апельсін
-    be-tarask: апэльсін
+    be_tarask: апэльсін
     bg: портокал
     bho: संतरा
     bn: কমলা
@@ -280,8 +280,8 @@ dv_has_:
     el: πορτοκάλι
     eml: Partugal
     en: orange
-    en-ca: Orange
-    en-gb: orange
+    en_ca: Orange
+    en_gb: orange
     eo: oranĝo
     es: naranja
     et: apelsin
@@ -346,7 +346,7 @@ dv_has_:
     lv: apelsīns
     lzh: 橙
     mai: सन्तोला
-    map-bms: Jeruk
+    map_bms: Jeruk
     mg: voasary
     min: limau manih
     mk: портокал
@@ -367,7 +367,7 @@ dv_has_:
     nap: purtuallo
     nb: appelsin
     nds: Appelsien
-    nds-nl: appelsien
+    nds_nl: appelsien
     ne: जुनार
     new: सन्त्रासि
     nia: Dima
@@ -387,7 +387,7 @@ dv_has_:
     pnb: سنگترہ
     ps: مالټه
     pt: laranja
-    pt-br: laranja
+    pt_br: laranja
     qu: Chilina
     rn: Umucungwe
     ro: portocală
@@ -410,7 +410,7 @@ dv_has_:
     so: Liin
     sq: Portokalli
     sr: наранџа
-    sr-ec: Наранџа
+    sr_ec: Наранџа
     st: lamuni
     sv: apelsin
     sw: chungwa
@@ -423,7 +423,7 @@ dv_has_:
     to: Moli
     tr: Portakal
     tt: әфлисун
-    tt-cyrl: әфлисун
+    tt_cyrl: әфлисун
     tum: Olenji
     tw: ankaa
     ty: Ânani
@@ -444,14 +444,14 @@ dv_has_:
     yue: 橙
     za: Makdoengj
     zh: 橙
-    zh-cn: 橙
-    zh-hans: 橙
-    zh-hant: 橙
-    zh-hk: 橙
-    zh-mo: 橙
+    zh_cn: 橙
+    zh_hans: 橙
+    zh_hant: 橙
+    zh_hk: 橙
+    zh_mo: 橙
     zh-my: 橙
-    zh-sg: 橙
-    zh-tw: 橙
+    zh_sg: 橙
+    zh_tw: 橙
     zu: INtshungwa
 ---
 # [[Orange(Fruit)]] 🍊 

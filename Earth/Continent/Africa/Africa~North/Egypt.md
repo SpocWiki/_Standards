@@ -66,7 +66,7 @@ dv_has_:
     ace: Meusé
     acm: مصر
     ady: Мысыр
-    aeb-arab: مصر
+    aeb_arab: مصر
     af: Egipte
     am: ግብፅ
     ami: Egypt
@@ -93,7 +93,7 @@ dv_has_:
     bbc: Misir
     bcl: Ehipto
     be: Егіпет
-    be-tarask: Эгіпет
+    be_tarask: Эгіпет
     bew: Mesir
     bg: Египет
     bgn: میسر
@@ -110,7 +110,7 @@ dv_has_:
     bug: ᨆᨔᨗᨑᨗ
     bxr: Египет
     ca: Egipte
-    cbk-zam: Egipto
+    cbk_zam: Egipto
     cdo: Ăi-gĭk
     ce: Мисар
     ceb: Ehipto
@@ -120,7 +120,7 @@ dv_has_:
     ckb: میسر
     co: Egittu
     crh: Mısır
-    crh-latn: Mısır
+    crh_latn: Mısır
     cs: Egypt
     csb: Egipt
     cu: Єгѷптъ
@@ -130,7 +130,7 @@ dv_has_:
     dag: Egypt
     de: Ägypten
     de-at: Ägypten
-    de-ch: Ägypten
+    de_ch: Ägypten
     diq: Mısır
     dsb: Egyptojska
     dty: इजिप्ट
@@ -138,8 +138,8 @@ dv_has_:
     ee: Egipte
     el: Αίγυπτος
     en: Egypt
-    en-ca: Egypt
-    en-gb: Egypt
+    en_ca: Egypt
+    en_gb: Egypt
     en-us: Egypt
     eo: Egiptio
     es: Egipto
@@ -166,7 +166,7 @@ dv_has_:
     gn: Ehipto
     gom: मिस्र
     gom-deva: ईजिप्त
-    gom-latn: Ejipt
+    gom_latn: Ejipt
     gor: Mesir
     got: "\U00010330\U00010339\U00010332\U00010345\U00010340\U00010344\U00010330\U0001033F"
     gpe: Egypt
@@ -243,7 +243,7 @@ dv_has_:
     lzh: 埃及
     mad: Mesir
     mai: मिस्र
-    map-bms: Mesir
+    map_bms: Mesir
     mdf: Эгипт
     mg: Ejipta
     mhr: Египет
@@ -256,7 +256,7 @@ dv_has_:
     mr: इजिप्त
     mrj: Египет
     ms: Mesir
-    ms-arab: مصر
+    ms_arab: مصر
     mt: Eġittu
     mwl: Eigito
     my: အီဂျစ်နိုင်ငံ
@@ -268,7 +268,7 @@ dv_has_:
     nap: Naggitto
     nb: Egypt
     nds: Ägypten
-    nds-nl: Egypte
+    nds_nl: Egypte
     ne: इजिप्ट
     new: मिस्र
     nia: Miserai
@@ -299,7 +299,7 @@ dv_has_:
     pnt: Αίγυπτος
     ps: مصر
     pt: Egito
-    pt-br: Egito
+    pt_br: Egito
     pwn: Idjiputu
     qu: Ihiptu
     rm: Egipta
@@ -336,8 +336,8 @@ dv_has_:
     so: Masar
     sq: Egjipti
     sr: Египат
-    sr-ec: Египат
-    sr-el: Egipat
+    sr_ec: Египат
+    sr_el: Egipat
     srn: Egiptakondre
     ss: IGibhithe
     st: Egepeta
@@ -366,7 +366,7 @@ dv_has_:
     trv: Egypt
     ts: Egypt
     tt: Мисыр
-    tt-cyrl: Мисыр
+    tt_cyrl: Мисыр
     tum: Egypt
     tw: Misrim
     ty: Egipt
@@ -397,14 +397,14 @@ dv_has_:
     zea: Ehypte
     zgh: ⵎⵉⵚⵕⴰ
     zh: 埃及
-    zh-cn: 埃及
-    zh-hans: 埃及
-    zh-hant: 埃及
-    zh-hk: 埃及
-    zh-mo: 埃及
+    zh_cn: 埃及
+    zh_hans: 埃及
+    zh_hant: 埃及
+    zh_hk: 埃及
+    zh_mo: 埃及
     zh-my: 埃及
-    zh-sg: 埃及
-    zh-tw: 埃及
+    zh_sg: 埃及
+    zh_tw: 埃及
     zu: IGibhithe
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Egypt

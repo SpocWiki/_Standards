@@ -63,7 +63,7 @@ dv_has_:
     nn: Kim Philby
     pl: Kim Philby
     pt: Kim Philby
-    pt-br: Kim Philby
+    pt_br: Kim Philby
     ro: Kim Philby
     ru: Ким Филби
     sk: Kim Philby
@@ -74,12 +74,12 @@ dv_has_:
     tr: Kim Philby
     uk: Кім Філбі
     zh: 金·費爾比
-    zh-cn: 金·费尔比
-    zh-hans: 金·费尔比
-    zh-hant: 金·費爾比
-    zh-hk: 金·費爾比
-    zh-sg: 金·费尔比
-    zh-tw: 金·費爾比
+    zh_cn: 金·费尔比
+    zh_hans: 金·费尔比
+    zh_hant: 金·費爾比
+    zh_hk: 金·費爾比
+    zh_sg: 金·费尔比
+    zh_tw: 金·費爾比
 ---
 # [[Philby,Kim]] 
 

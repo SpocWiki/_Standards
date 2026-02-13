@@ -131,7 +131,7 @@ dv_has_:
     az: potensial enerji
     bcl: enerhiyang potensyal
     be: патэнцыйная энергія
-    be-tarask: патэнцыйная энэргія
+    be_tarask: патэнцыйная энэргія
     bg: потенциална енергия
     bn: বিভব শক্তি
     bs: potencijalna energija
@@ -141,11 +141,11 @@ dv_has_:
     cy: egni potensial
     da: potentiel energi
     de: potentielle Energie
-    de-ch: potentielle Energie
+    de_ch: potentielle Energie
     el: δυναμική ενέργεια
     en: potential energy
-    en-ca: potential energy
-    en-gb: potential energy
+    en_ca: potential energy
+    en_gb: potential energy
     eo: potenciala energio
     es: energía potencial
     et: potentsiaalne energia
@@ -185,7 +185,7 @@ dv_has_:
     mn: потенциал энерги
     mr: स्थितिज ऊर्जा
     ms: tenaga keupayaan
-    ms-arab: تناݢ کأوڤاياءن
+    ms_arab: تناݢ کأوڤاياءن
     my: အတည်စွမ်းအင်
     nb: potensiell energi
     nl: potentiële energie
@@ -196,7 +196,7 @@ dv_has_:
     pl: energia potencjalna
     pms: energìa potensial
     pt: energia potencial
-    pt-br: energia potencial
+    pt_br: energia potencial
     ro: energie potențială
     ru: потенциальная энергия
     sd: امڪاني توانائي
@@ -209,8 +209,8 @@ dv_has_:
     so: awood kaydsan
     sq: energjia potenciale
     sr: потенцијална енергија
-    sr-ec: потенцијална енергија
-    sr-el: potencijalna energija
+    sr_ec: потенцијална енергија
+    sr_el: potencijalna energija
     sv: potentiell energi
     ta: நிலை ஆற்றல்
     te: స్థితిశక్తి
@@ -227,12 +227,12 @@ dv_has_:
     wuu: 势能
     yue: 位能
     zh: 势能
-    zh-cn: 势能
-    zh-hans: 势能
-    zh-hant: 勢能
-    zh-hk: 勢能
-    zh-sg: 势能
-    zh-tw: 勢能
+    zh_cn: 势能
+    zh_hans: 势能
+    zh_hant: 勢能
+    zh_hk: 勢能
+    zh_sg: 势能
+    zh_tw: 勢能
     zu: Isidlakathi
 ---
 # [[Potential_Energy]] 

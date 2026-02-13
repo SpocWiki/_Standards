@@ -42,7 +42,7 @@ dv_has_:
     ar: مراقبة
     az: Monitorinq
     be: маніторынг
-    be-tarask: маніторынг
+    be_tarask: маніторынг
     ca: monitoreig
     cy: monitro
     da: monitorering
@@ -63,9 +63,9 @@ dv_has_:
     it: monitoraggio
     ja: モニタリング
     kk: Мониторинг
-    kk-arab: مونىيتورىينگ
-    kk-cyrl: Мониторинг
-    kk-latn: Monïtorïng
+    kk_arab: مونىيتورىينگ
+    kk_cyrl: Мониторинг
+    kk_latn: Monïtorïng
     ko: 모니터링 (동음이의)
     ky: Мониторинг
     lt: monitoringas
@@ -81,14 +81,14 @@ dv_has_:
     sr: надгледање
     tg: пойиш
     tt: мониторинг
-    tt-cyrl: мониториң
+    tt_cyrl: мониториң
     udm: мониторинг
     uk: моніторинг
     uz: Monitoring
     vec: monitorajo
     zh: 监测
-    zh-hant: 偵測
-    zh-tw: 偵測
+    zh_hant: 偵測
+    zh_tw: 偵測
 ---
 # [[Monitoring]] 
 

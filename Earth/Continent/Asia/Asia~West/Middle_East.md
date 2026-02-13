@@ -304,7 +304,7 @@ dv_has_:
     ba: Урта Көнсығыш
     bcl: Tahaw na Sirangan
     be: Сярэдні Усход
-    be-tarask: Сярэдні Ўсход
+    be_tarask: Сярэдні Ўсход
     bg: Близък изток
     bho: मध्य पूरुब
     bjn: Timur Tangah
@@ -328,8 +328,8 @@ dv_has_:
     dty: मध्य पूर्व
     el: Μέση Ανατολή
     en: Middle East
-    en-ca: Middle East
-    en-gb: Middle East
+    en_ca: Middle East
+    en_gb: Middle East
     eo: Mezoriento
     es: Medio Oriente
     et: Lähis-Ida
@@ -402,14 +402,14 @@ dv_has_:
     mn: Ойрхи Дорнод
     mr: मध्यपूर्व
     ms: Timur Tengah
-    ms-arab: تيمور تڠه
+    ms_arab: تيمور تڠه
     mwl: Medio Ouriente
     my: အရှေ့အလယ်ပိုင်းဒေသ
     mzn: خاورمیونه
     nan: Tiong-tang
     nb: Midtøsten
     nds: Nahoost
-    nds-nl: Midden-Oosten
+    nds_nl: Midden-Oosten
     ne: मध्य पूर्व
     new: मध्य पूर्व
     nia: Timur Tengah
@@ -429,7 +429,7 @@ dv_has_:
     pnb: مشرق وسطی
     ps: منځنی ختيځ
     pt: Médio Oriente
-    pt-br: Oriente Médio
+    pt_br: Oriente Médio
     ro: Orientul Mijlociu
     roa-tara: Medie Oriende
     ru: Средний Восток
@@ -467,7 +467,7 @@ dv_has_:
     tr: Orta Doğu
     ts: Vuxa-dyambu bya le xikarhi
     tt: Урта Көнчыгыш
-    tt-cyrl: Урта Көнчыгыш
+    tt_cyrl: Урта Көнчыгыш
     udm: Матысь Шунды ӝужан пал
     ug: ئوتتۇرا شەرق
     uk: Середній Схід
@@ -487,14 +487,14 @@ dv_has_:
     zea: Midden-Oôsten
     zgh: ⴰⴳⵎⵓⴹ ⴰⵏⴰⵎⵎⴰⵙ
     zh: 中东
-    zh-cn: 中东
-    zh-hans: 中东
-    zh-hant: 中東
-    zh-hk: 中東
-    zh-mo: 中東
+    zh_cn: 中东
+    zh_hans: 中东
+    zh_hant: 中東
+    zh_hk: 中東
+    zh_mo: 中東
     zh-my: 中东
-    zh-sg: 中东
-    zh-tw: 中東
+    zh_sg: 中东
+    zh_tw: 中東
 ---
 # [[Middle_East]] 
 

@@ -61,7 +61,7 @@ dv_has_:
     af: Bestaansboerdery
     ar: زراعة الكفاف
     ast: Agricultura de subsistencia
-    be-tarask: натуральная сельская гаспадарка
+    be_tarask: натуральная сельская гаспадарка
     ca: agricultura de subsistència
     cs: samozásobitelské hospodaření
     cy: amaeth ymgynhaliol
@@ -69,8 +69,8 @@ dv_has_:
     de: Subsistenzwirtschaft
     el: γεωργία συντήρησης
     en: subsistence agriculture
-    en-ca: Subsistence agriculture
-    en-gb: Subsistence agriculture
+    en_ca: Subsistence agriculture
+    en_gb: Subsistence agriculture
     eo: Vivteniga agrikulturo
     es: agricultura de subsistencia
     eu: Iraupeneko nekazaritza
@@ -95,7 +95,7 @@ dv_has_:
     nl: zelfvoorzieningslandbouw
     pl: rolnictwo samozaopatrzeniowe
     pt: agricultura de subsistência
-    pt-br: Agricultura de subsistência
+    pt_br: Agricultura de subsistência
     ro: agricultură de subzistență
     ru: натуральное сельское хозяйство
     sl: samooskrbno kmetovanje
@@ -108,9 +108,9 @@ dv_has_:
     vi: Nông nghiệp tự cung tự cấp
     yue: 自給自足式農業
     zh: 自給農業
-    zh-cn: 糊口農業
-    zh-hans: 糊口農業
-    zh-hant: 餬口農業
+    zh_cn: 糊口農業
+    zh_hans: 糊口農業
+    zh_hant: 餬口農業
 ---
 # [[Subsistence_Agriculture]] 
 

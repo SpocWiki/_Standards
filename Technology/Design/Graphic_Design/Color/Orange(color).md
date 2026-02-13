@@ -199,7 +199,7 @@ dv_has_:
     azb: ناریٛنجی
     ban: kudrang
     be: аранжавы колер
-    be-tarask: аранжавы колер
+    be_tarask: аранжавы колер
     bg: оранжев цвят
     bn: কমলা
     bo: ལི་ཝང།
@@ -220,8 +220,8 @@ dv_has_:
     dsb: oranžowy
     el: πορτοκαλί
     en: orange
-    en-ca: orange
-    en-gb: orange
+    en_ca: orange
+    en_gb: orange
     en-us: orange
     eo: oranĝkoloro
     es: naranja
@@ -272,7 +272,7 @@ dv_has_:
     lv: oranžā krāsa
     lzh: 橙
     mai: सन्तोला
-    map-bms: jingga
+    map_bms: jingga
     mdf: оранже
     mk: портокалова
     ml: ഓറഞ്ച്
@@ -301,7 +301,7 @@ dv_has_:
     pl: barwa pomarańczowa
     pnb: کھٹا
     pt: laranja
-    pt-br: laranja
+    pt_br: laranja
     qu: killmu
     ro: portocaliu
     ru: оранжевый
@@ -334,7 +334,7 @@ dv_has_:
     tr: turuncu
     ts: tshopi
     tt: кызгылт сары
-    tt-cyrl: кызгылт сары
+    tt_cyrl: кызгылт сары
     ty: puātou
     udm: напӵуж
     ug: قىزغۇچ سېرىق
@@ -352,14 +352,14 @@ dv_has_:
     yo: ọsàn
     yue: 橙色
     zh: 橙色
-    zh-cn: 橙色
-    zh-hans: 橙色
-    zh-hant: 橘色
-    zh-hk: 橙色
-    zh-mo: 橙色
+    zh_cn: 橙色
+    zh_hans: 橙色
+    zh_hant: 橘色
+    zh_hk: 橙色
+    zh_mo: 橙色
     zh-my: 橙色
-    zh-sg: 橙色
-    zh-tw: 橘色
+    zh_sg: 橙色
+    zh_tw: 橘色
     zu: Owolintshi (umbala)
 ---
 # [[Orange(color)]] 

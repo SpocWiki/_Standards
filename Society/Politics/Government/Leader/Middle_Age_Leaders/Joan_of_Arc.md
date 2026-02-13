@@ -173,7 +173,7 @@ dv_has_:
     bar: Jeanne d’Arc
     bcl: Joan of Arc
     be: Жанна д'Арк
-    be-tarask: Жанна д’Арк
+    be_tarask: Жанна д’Арк
     bew: Janah Arek
     bg: Жана д'Арк
     bn: জোন অব আর্ক
@@ -194,8 +194,8 @@ dv_has_:
     el: Ιωάννα της Λωρραίνης
     eml: Śvàna 'd Arc
     en: Joan of Arc
-    en-ca: Joan of Arc
-    en-gb: Joan of Arc
+    en_ca: Joan of Arc
+    en_gb: Joan of Arc
     eo: Johana de Arko
     es: Juana de Arco
     et: Jeanne d'Arc
@@ -286,7 +286,7 @@ dv_has_:
     pnb: جون آف آرک
     ps: د آرک ژان
     pt: Joana d'Arc
-    pt-br: Joana d'Arc
+    pt_br: Joana d'Arc
     ro: Ioana d'Arc
     ru: Жанна д’Арк
     rue: Яна з Арку
@@ -325,10 +325,10 @@ dv_has_:
     yi: זשאן ד'ארק
     yue: 聖女貞德
     zh: 聖女貞德
-    zh-cn: 聖女貞德
-    zh-hans: 聖女貞德
-    zh-hant: 聖女貞德
-    zh-tw: 聖女貞德
+    zh_cn: 聖女貞德
+    zh_hans: 聖女貞德
+    zh_hant: 聖女貞德
+    zh_tw: 聖女貞德
 ---
 # [[Joan_of_Arc]] 
 

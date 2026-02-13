@@ -68,7 +68,7 @@ dv_has_:
     ace: Suriah
     acm: سوريا
     ady: Сирие
-    aeb-arab: سوريا
+    aeb_arab: سوريا
     af: Sirië
     am: ሶርያ
     ami: Syria
@@ -91,7 +91,7 @@ dv_has_:
     bar: Syrien
     bcl: Sirya
     be: Сірыя
-    be-tarask: Сырыя
+    be_tarask: Сырыя
     bew: Suriah
     bg: Сирия
     bgn: سوریه
@@ -107,7 +107,7 @@ dv_has_:
     bug: Suriah
     bxr: Сири
     ca: Síria
-    cbk-zam: Siria
+    cbk_zam: Siria
     cdo: Sê̤ṳ-lé-ā
     ce: Сири
     ceb: Siria
@@ -115,7 +115,7 @@ dv_has_:
     ckb: سووریا
     co: Siria
     crh: Suriye
-    crh-latn: Suriye
+    crh_latn: Suriye
     crh-ro: Súriye
     cs: Sýrie
     csb: Syrëjô
@@ -126,7 +126,7 @@ dv_has_:
     dag: Syria
     de: Syrien
     de-at: Syrien
-    de-ch: Syrien
+    de_ch: Syrien
     diq: Suriya
     dsb: Syriska
     dtp: Syria
@@ -135,8 +135,8 @@ dv_has_:
     ee: Siria
     el: Συρία
     en: Syria
-    en-ca: Syria
-    en-gb: Syria
+    en_ca: Syria
+    en_gb: Syria
     en-us: Syria
     eo: Sirio
     es: Siria
@@ -161,7 +161,7 @@ dv_has_:
     gn: Siria
     gom: सीरिया
     gom-deva: सीरिया
-    gom-latn: Syria
+    gom_latn: Syria
     got: "\U00010343\U00010330\U0001033F\U00010342\U0001033E\U00010330/Saurja"
     gpe: Syria
     grc: Συρία
@@ -242,7 +242,7 @@ dv_has_:
     mni: ꯁꯤꯔꯤꯌꯥ
     mr: सीरिया
     ms: Syria
-    ms-arab: سوريا
+    ms_arab: سوريا
     mt: Sirja
     mwl: Síria
     my: ဆီးရီးယားနိုင်ငံ
@@ -252,7 +252,7 @@ dv_has_:
     nan: Su-lī-a
     nb: Syria
     nds: Syrien
-    nds-nl: Syrië
+    nds_nl: Syrië
     ne: सिरिया
     new: सिरिया
     nl: Syrië
@@ -276,7 +276,7 @@ dv_has_:
     pnt: Συρία
     ps: سوريه
     pt: Síria
-    pt-br: Síria
+    pt_br: Síria
     qu: Sirya
     rmy: Syria
     ro: Siria
@@ -304,8 +304,8 @@ dv_has_:
     so: Suuriya
     sq: Siria
     sr: Сирија
-    sr-ec: Сирија
-    sr-el: Sirija
+    sr_ec: Сирија
+    sr_el: Sirija
     srn: Syirikondre
     ss: ISiriya
     su: Suriah
@@ -358,12 +358,12 @@ dv_has_:
     zea: Syrië
     zgh: ⵙⵓⵔⵢⴰ
     zh: 敘利亞
-    zh-cn: 叙利亚
-    zh-hans: 叙利亚
-    zh-hant: 敘利亞
-    zh-hk: 敘利亞
+    zh_cn: 叙利亚
+    zh_hans: 叙利亚
+    zh_hant: 敘利亞
+    zh_hk: 敘利亞
     zh-my: 叙利亚
-    zh-tw: 敘利亞
+    zh_tw: 敘利亞
     zu: i-Syria
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Syria

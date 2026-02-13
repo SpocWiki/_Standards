@@ -158,7 +158,7 @@ dv_has_:
     ast: Ralph Waldo Emerson
     az: Ralf Uold Emerson
     be: Ралф Уолда Эмерсан
-    be-tarask: Ралф Ўолда Эмэрсан
+    be_tarask: Ралф Ўолда Эмэрсан
     bg: Ралф Уолдо Емерсън
     bn: রাল্ফ ওয়াল্ডো এমার্সন
     br: Ralph Waldo Emerson
@@ -172,8 +172,8 @@ dv_has_:
     de: Ralph Waldo Emerson
     el: Ραλφ Ουάλντο Εμερσον
     en: Ralph Waldo Emerson
-    en-ca: Ralph Waldo Emerson
-    en-gb: Ralph Waldo Emerson
+    en_ca: Ralph Waldo Emerson
+    en_gb: Ralph Waldo Emerson
     eo: Ralph Waldo Emerson
     es: Ralph Waldo Emerson
     et: Ralph Waldo Emerson
@@ -219,7 +219,7 @@ dv_has_:
     nan: Ralph Waldo Emerson
     nb: Ralph Waldo Emerson
     nds: Ralph Waldo Emerson
-    nds-nl: Ralph Waldo Emerson
+    nds_nl: Ralph Waldo Emerson
     new: राल्फ वाल्डो इमरसन
     nl: Ralph Waldo Emerson
     nn: Ralph Waldo Emerson
@@ -231,7 +231,7 @@ dv_has_:
     pnb: رالف والڈو ایمرسن
     ps: رالف والډو ایمرسن
     pt: Ralph Waldo Emerson
-    pt-br: Ralph Waldo Emerson
+    pt_br: Ralph Waldo Emerson
     ro: Ralph Waldo Emerson
     ru: Ральф Уолдо Эмерсон
     sa: राल्फ वाल्डो एमरसन

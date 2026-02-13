@@ -4,7 +4,7 @@ dv_has_:
     ab: Бутан
     ace: Bhutan
     ady: Бутан
-    aeb-arab: بوتان
+    aeb_arab: بوتان
     af: Bhoetan
     am: ቡታን
     ami: Bhutan
@@ -24,7 +24,7 @@ dv_has_:
     bar: Bhutan
     bcl: Butan
     be: Бутан
-    be-tarask: Бутан
+    be_tarask: Бутан
     bew: Butan
     bg: Бутан
     bgn: بوتان
@@ -40,7 +40,7 @@ dv_has_:
     bs: Butan
     bxr: Бутан
     ca: Bhutan
-    cbk-zam: Bután
+    cbk_zam: Bután
     cdo: Bhutan
     ce: Бутан
     ceb: Bhutan
@@ -48,7 +48,7 @@ dv_has_:
     ckb: بووتان
     co: Bhutan
     crh: Butan
-    crh-latn: Butan
+    crh_latn: Butan
     cs: Bhútán
     csb: Bhutan
     cv: Бутан
@@ -57,7 +57,7 @@ dv_has_:
     dag: Bhutan
     de: Bhutan
     de-at: Bhutan
-    de-ch: Bhutan
+    de_ch: Bhutan
     diq: Butan
     dsb: Bhutan
     dtp: Bhutan
@@ -66,8 +66,8 @@ dv_has_:
     dz: འབྲུག་ཡུལ་
     el: Μπουτάν
     en: Bhutan
-    en-ca: Bhutan
-    en-gb: Bhutan
+    en_ca: Bhutan
+    en_gb: Bhutan
     en-us: Bhutan
     eo: Butano
     es: Bután
@@ -91,7 +91,7 @@ dv_has_:
     gn: Vutã
     gom: भूतान
     gom-deva: भूतान
-    gom-latn: Bhutan
+    gom_latn: Bhutan
     got: "\U00010331\U0001033F\U00010344\U00010330"
     gpe: Bhutan
     gsw: Bhutan
@@ -153,7 +153,7 @@ dv_has_:
     lv: Butāna
     lzh: 不丹
     mai: भुटान
-    map-bms: Bhutan
+    map_bms: Bhutan
     mdf: Бутан
     mg: Botàna
     mhr: Бутан
@@ -176,7 +176,7 @@ dv_has_:
     nap: Bhutan
     nb: Bhutan
     nds: Bhutan
-    nds-nl: Butan
+    nds_nl: Butan
     ne: भुटान
     new: भुटान
     nl: Bhutan
@@ -200,7 +200,7 @@ dv_has_:
     pnb: بھوٹان
     ps: بوتان
     pt: Butão
-    pt-br: Butão
+    pt_br: Butão
     qu: Butan
     rm: Bhutan
     rmy: Bhutan
@@ -230,8 +230,8 @@ dv_has_:
     so: Butaan
     sq: Butani
     sr: Бутан
-    sr-ec: Бутан
-    sr-el: Butan
+    sr_ec: Бутан
+    sr_el: Butan
     srn: Butankondre
     ss: IBhuthani
     stq: Bhutan
@@ -283,14 +283,14 @@ dv_has_:
     zea: Bhutan
     zgh: ⴱⵓⵜⴰⵏ
     zh: 不丹
-    zh-cn: 不丹
-    zh-hans: 不丹
-    zh-hant: 不丹
-    zh-hk: 不丹
-    zh-mo: 不丹
+    zh_cn: 不丹
+    zh_hans: 不丹
+    zh_hant: 不丹
+    zh_hk: 不丹
+    zh_mo: 不丹
     zh-my: 不丹
-    zh-sg: 不丹
-    zh-tw: 不丹
+    zh_sg: 不丹
+    zh_tw: 不丹
     zu: i-Bhutan
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Bhutan

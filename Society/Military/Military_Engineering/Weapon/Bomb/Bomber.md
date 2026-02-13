@@ -96,7 +96,7 @@ dv_has_:
     ast: Bombarderu
     az: bombardmançı
     be: Бамбардзіроўшчык
-    be-tarask: бамбавік
+    be_tarask: бамбавік
     bg: Бомбардировач
     br: bombezer
     bs: bombarder
@@ -127,11 +127,11 @@ dv_has_:
     it: bombardiere
     ja: 爆撃機
     kk: Бомбалаушы
-    kk-arab: بومبالاۋشى
+    kk_arab: بومبالاۋشى
     kk-cn: بومبالاۋشى
-    kk-cyrl: Бомбалаушы
+    kk_cyrl: Бомбалаушы
     kk-kz: Бомбалаушы
-    kk-latn: Bombalawşı
+    kk_latn: Bombalawşı
     kk-tr: Bombalawşı
     ko: 폭격기
     lmo: Bombarder
@@ -167,8 +167,8 @@ dv_has_:
     sms: pommjarplaan
     sq: avion bombardues
     sr: бомбардерски авион
-    sr-ec: бомбардерски авион
-    sr-el: bombarderski avion
+    sr_ec: бомбардерски авион
+    sr_el: bombarderski avion
     sv: bombflygplan
     ta: குண்டுவீச்சு வானூர்தி
     tg: Бумбафкан
@@ -182,14 +182,14 @@ dv_has_:
     wuu: 轰炸机
     yue: 轟炸機
     zh: 轟炸機
-    zh-cn: 轰炸机
-    zh-hans: 轰炸机
-    zh-hant: 轟炸機
-    zh-hk: 轟炸機
-    zh-mo: 轟炸機
+    zh_cn: 轰炸机
+    zh_hans: 轰炸机
+    zh_hant: 轟炸機
+    zh_hk: 轟炸機
+    zh_mo: 轟炸機
     zh-my: 轰炸机
-    zh-sg: 轰炸机
-    zh-tw: 轟炸機
+    zh_sg: 轰炸机
+    zh_tw: 轟炸機
 ---
 # [[Bomber]] 
 

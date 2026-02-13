@@ -218,7 +218,7 @@ dv_has_:
     bar: Kuidua
     bcl: Kultura
     be: культура
-    be-tarask: культура
+    be_tarask: культура
     bew: Budaya
     bg: култура
     bho: संस्कृति
@@ -244,14 +244,14 @@ dv_has_:
     da: kultur
     dag: kali
     de: Kultur
-    de-ch: Kultur
+    de_ch: Kultur
     diq: Zagon
     dv: ސަގާފަތު
     el: κουλτούρα
     eml: Cultùra
     en: culture
-    en-ca: Culture
-    en-gb: culture
+    en_ca: Culture
+    en_gb: culture
     eo: kulturo
     es: cultura
     et: kultuur
@@ -310,7 +310,7 @@ dv_has_:
     krc: Культура
     ks: تٔہذیٖب
     ku: çand
-    ku-latn: çand
+    ku_latn: çand
     kw: gonisogeth
     ky: маданият
     la: Cultura
@@ -327,7 +327,7 @@ dv_has_:
     lv: kultūra
     lzh: 人文
     mad: Bhuddhâjâ
-    map-bms: Budaya
+    map_bms: Budaya
     mdf: Культурсь
     mg: Kolontsaina
     mhr: тӱвыра
@@ -337,7 +337,7 @@ dv_has_:
     mn: Соёл
     mr: संस्कृती
     ms: budaya
-    ms-arab: بودايا
+    ms_arab: بودايا
     mt: kultura
     mwl: Cultura
     my: ယဉ်ကျေးမှု
@@ -348,7 +348,7 @@ dv_has_:
     nap: Cultura
     nb: kultur
     nds: Kultur
-    nds-nl: kultuur
+    nds_nl: kultuur
     ne: संस्कृति
     new: संस्कृति
     ng: Hastangi
@@ -370,7 +370,7 @@ dv_has_:
     pnb: ثقافت
     ps: هڅوب
     pt: cultura
-    pt-br: cultura
+    pt_br: cultura
     qu: Kawsay saphi
     rmf: kulttuures
     rn: Umuco
@@ -401,8 +401,8 @@ dv_has_:
     so: Dhaqan
     sq: kulturë
     sr: култура
-    sr-ec: култура
-    sr-el: kultura
+    sr_ec: култура
+    sr_el: kultura
     ss: Inhlonipho
     stq: Kultuur
     su: Budaya
@@ -421,8 +421,8 @@ dv_has_:
     tr: kültür
     ts: Culture
     tt: мәдәният
-    tt-cyrl: мәдәният
-    tt-latn: mädäniät
+    tt_cyrl: мәдәният
+    tt_latn: mädäniät
     tw: Amamerɛ
     udm: лулчеберет
     ug: كۈلتۈر
@@ -445,14 +445,14 @@ dv_has_:
     za: Vwnzva
     zea: Cultuur
     zh: 文化
-    zh-cn: 文化
-    zh-hans: 文化
-    zh-hant: 文化
-    zh-hk: 文化
-    zh-mo: 文化
+    zh_cn: 文化
+    zh_hans: 文化
+    zh_hant: 文化
+    zh_hk: 文化
+    zh_mo: 文化
     zh-my: 文化
-    zh-sg: 文化
-    zh-tw: 文化
+    zh_sg: 文化
+    zh_tw: 文化
 ---
 # [[Culture]] 
 

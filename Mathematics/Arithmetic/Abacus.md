@@ -114,7 +114,7 @@ dv_has_:
     azb: چؤرتکه
     bcl: abakus
     be: абак
-    be-tarask: абак
+    be_tarask: абак
     bg: абак
     bi: abakus
     bn: অ্যাবাকাস
@@ -193,7 +193,7 @@ dv_has_:
     pms: àbaco
     pnb: گنتارا
     pt: ábaco
-    pt-br: ábaco
+    pt_br: ábaco
     ro: abac
     ru: абак
     sat: ᱟᱵᱟᱠᱚᱥ
@@ -214,7 +214,7 @@ dv_has_:
     th: ลูกคิด
     tl: abakus
     tr: abaküs
-    ug-latn: abak
+    ug_latn: abak
     uk: абак
     ur: گنتارا
     uz: abak

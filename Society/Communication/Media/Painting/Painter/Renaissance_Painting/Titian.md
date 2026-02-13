@@ -354,7 +354,7 @@ dv_has_:
     az: Tisian Veçellio
     ba: Тициан
     be: Тыцыян
-    be-tarask: Тыцыян
+    be_tarask: Тыцыян
     bg: Тициан
     bo: ཌི་ཛི་ཨ་ནོ་ཝ་ཅེ་ལི་ཡོ།
     br: Tizian
@@ -418,7 +418,7 @@ dv_has_:
     pl: Tycjan
     pms: Tissian
     pt: Ticiano
-    pt-br: Ticiano
+    pt_br: Ticiano
     qu: Tiziano
     ro: Tiziano Vecellio
     ru: Тициан
@@ -431,7 +431,7 @@ dv_has_:
     sl: Tizian
     sq: Ticiani
     sr: Тицијан Вечели
-    sr-ec: Тицијан Вечели
+    sr_ec: Тицијан Вечели
     stq: Tiziano Vecellio
     sv: Tizian
     szy: Ti-syang
@@ -447,8 +447,8 @@ dv_has_:
     wuu: 蒂齐亚诺·韦切利奥
     yue: 提香
     zh: 提香
-    zh-cn: 提香
-    zh-tw: 提齊安諾·維伽略
+    zh_cn: 提香
+    zh_tw: 提齊安諾·維伽略
 ---
 # [[Titian]] 
 

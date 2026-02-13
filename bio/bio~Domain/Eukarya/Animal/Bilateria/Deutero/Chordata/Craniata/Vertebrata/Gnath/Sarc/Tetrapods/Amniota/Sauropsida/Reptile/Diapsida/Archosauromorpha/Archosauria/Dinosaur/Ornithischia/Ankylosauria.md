@@ -61,7 +61,7 @@ dv_has_:
     an: Ankylosaurus
     ar: أنكيلوصور
     ast: Ankylosaurus
-    be-tarask: анкілязаўр
+    be_tarask: анкілязаўр
     bg: анкилозаври
     br: Ankilosaor
     ca: ancilosaure
@@ -92,7 +92,7 @@ dv_has_:
     jv: Ankylosaurus
     ko: 안킬로사우루스
     la: Ankylosaurus
-    map-bms: Ankylosaurus
+    map_bms: Ankylosaurus
     mk: Анкилосаурус
     mn: Анкилозавр
     ms: Ankylosaurus
@@ -124,8 +124,8 @@ dv_has_:
     wuu: 甲龙属
     yue: 甲龍
     zh: 甲龙属
-    zh-cn: 甲龙属
-    zh-hans: 甲龙属
+    zh_cn: 甲龙属
+    zh_hans: 甲龙属
 ---
 # [[Ankylosauria]]
 

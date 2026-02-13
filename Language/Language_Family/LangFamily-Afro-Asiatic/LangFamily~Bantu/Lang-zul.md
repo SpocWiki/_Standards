@@ -168,7 +168,7 @@ dv_has_:
     az: Zulu dili
     bar: Zulu
     be: зулу
-    be-tarask: зулу
+    be_tarask: зулу
     bg: Зулуски език
     bn: জুলু ভাষা
     bo: ཙོ་ལུའུའི་སྐད།
@@ -181,11 +181,11 @@ dv_has_:
     cy: Swlw
     da: zulu
     de: isiZulu
-    de-ch: IsiZulu
+    de_ch: IsiZulu
     el: Ζουλού γλώσσα
     en: Zulu
-    en-ca: Zulu
-    en-gb: Zulu
+    en_ca: Zulu
+    en_gb: Zulu
     eo: zulua lingvo
     es: zulú
     et: suulu keel
@@ -253,7 +253,7 @@ dv_has_:
     pnb: زولو
     ps: زولو ژبه
     pt: língua zulu
-    pt-br: língua zulu
+    pt_br: língua zulu
     qu: Zulu simi
     ro: limba zulu
     ru: зулу
@@ -296,7 +296,7 @@ dv_has_:
     yo: Èdè Zulu
     yue: 祖魯文
     zh: 祖鲁语
-    zh-hant: 祖魯語
+    zh_hant: 祖魯語
     zu: IsiZulu
 ---
 # [[Lang-zul]] 

@@ -36,7 +36,7 @@ dv_has_:
     oc: Bothriuridae
     pl: Bothriuridae
     pt: Bothriuridae
-    pt-br: Bothriuridae
+    pt_br: Bothriuridae
     ro: Bothriuridae
     ru: Bothriuridae
     sq: Bothriuridae
@@ -48,9 +48,9 @@ dv_has_:
     vo: Bothriuridae
     war: Bothriuridae
     zh: 腺尾蝎科
-    zh-cn: 腺尾蝎科
-    zh-hans: 腺尾蝎科
-    zh-tw: 腺尾蠍科
+    zh_cn: 腺尾蝎科
+    zh_hans: 腺尾蝎科
+    zh_tw: 腺尾蠍科
 ---
 # [[Bothriuridae]] 
 

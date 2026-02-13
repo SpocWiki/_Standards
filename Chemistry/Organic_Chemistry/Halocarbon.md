@@ -60,7 +60,7 @@ dv_has_:
   name_:
     ar: هالوكربون
     az: halogenli üzvi birləşmələr
-    be-tarask: галягенаарганічнае злучэньне
+    be_tarask: галягенаарганічнае злучэньне
     ca: hidrocarbur halogenat
     cs: halokarbon
     da: organohalid

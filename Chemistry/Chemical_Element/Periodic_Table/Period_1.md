@@ -101,7 +101,7 @@ dv_has_:
     az: Dövri sistemin birinci periodu
     ba: Периодик системаның беренсе периоды
     be: элемент першага перыяду перыядычнай сістэмы
-    be-tarask: першы пэрыяд
+    be_tarask: першы пэрыяд
     bg: Период 1 на периодичната система
     bho: पीरियड १ तत्व
     bn: প্রথম পর্যায়ের মৌল
@@ -138,7 +138,7 @@ dv_has_:
     mk: I периода на периодниот систем
     ml: ഒന്നാം പിരീഡ് മൂലകങ്ങൾ
     ms: kala 1
-    ms-arab: کالا 1
+    ms_arab: کالا 1
     nan: Tē-1 chiu-kî goân-sò͘
     nb: periode 1
     nl: periode-1-element
@@ -154,8 +154,8 @@ dv_has_:
     sk: 1. perióda
     sl: 1. perioda
     sr: 1. периода хемијских елемената
-    sr-ec: 1. периода хемијских елемената
-    sr-el: 1. perioda hemijskih elemenata
+    sr_ec: 1. периода хемијских елемената
+    sr_el: 1. perioda hemijskih elemenata
     sv: period 1
     ta: கிடைக்குழு 1 தனிமங்கள்
     te: పీరియడ్ 1 మూలకం
@@ -167,12 +167,12 @@ dv_has_:
     wuu: 第1周期元素
     yue: 第1周期元素
     zh: 第1周期元素
-    zh-cn: 第1周期元素
-    zh-hans: 第1周期元素
-    zh-hant: 第1周期元素
-    zh-hk: 第1周期元素
-    zh-sg: 第1周期元素
-    zh-tw: 第1周期元素
+    zh_cn: 第1周期元素
+    zh_hans: 第1周期元素
+    zh_hant: 第1周期元素
+    zh_hk: 第1周期元素
+    zh_sg: 第1周期元素
+    zh_tw: 第1周期元素
 ---
 # [[Period_1]] 
 

@@ -62,7 +62,7 @@ dv_has_:
     ar: ترميم الأسنان
     ast: Empastie
     az: Plomb
-    be-tarask: зубная плёмба
+    be_tarask: зубная плёмба
     ca: restauració dental
     cs: zubní plomba
     de: Füllungstherapie

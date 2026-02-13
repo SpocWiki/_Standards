@@ -52,7 +52,7 @@ dv_has_:
     ast: Música minimalista
     az: minimalizm
     be: мінімалізм
-    be-tarask: мінімалізм
+    be_tarask: мінімалізм
     ca: música minimalista
     cs: minimalismus
     da: minimalistisk musik
@@ -94,7 +94,7 @@ dv_has_:
     uk: мінімалізм
     yue: 簡約音樂
     zh: 簡約音樂
-    zh-hant: 簡約音樂
+    zh_hant: 簡約音樂
 ---
 # [[Minimalist_Music]] 
 

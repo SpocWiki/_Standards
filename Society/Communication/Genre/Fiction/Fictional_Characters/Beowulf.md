@@ -127,7 +127,7 @@ dv_has_:
     az: Beovulf
     ba: Беовульф
     be: Беавульф
-    be-tarask: Бэўвульф
+    be_tarask: Бэўвульф
     bg: Беоулф
     bn: বেউলফ
     br: Beowulf
@@ -137,11 +137,11 @@ dv_has_:
     cy: Beowulf
     da: Bjovulfkvadet
     de: Beowulf
-    de-ch: Beowulf
+    de_ch: Beowulf
     el: Μπέογουλφ
     en: Beowulf
-    en-ca: Beowulf
-    en-gb: Beowulf
+    en_ca: Beowulf
+    en_gb: Beowulf
     en-us: Beowulf
     eo: Beowulf
     es: Beowulf
@@ -184,7 +184,7 @@ dv_has_:
     pl: Beowulf
     ps: بیوولف
     pt: Beowulf
-    pt-br: Beowulf
+    pt_br: Beowulf
     ro: Beowulf
     ru: Беовульф
     sah: Беовульф
@@ -195,7 +195,7 @@ dv_has_:
     sl: Beowulf
     sq: Beowulf
     sr: Беовулф
-    sr-ec: Беовулф
+    sr_ec: Беовулф
     sv: Beowulf
     sw: Beowulf
     te: బేవుల్ఫ్
@@ -210,7 +210,7 @@ dv_has_:
     xmf: ბეოვულფი
     yue: 貝武夫
     zh: 貝奧武夫
-    zh-hans: 贝奥武夫
+    zh_hans: 贝奥武夫
 ---
 # [[Beowulf]] 
 

@@ -99,7 +99,7 @@ dv_has_:
     ast: antimateria
     az: antimaddə
     be: антыматэрыя
-    be-tarask: антыматэрыя
+    be_tarask: антыматэрыя
     bg: антиматерия
     bn: প্রতিপদার্থ
     bs: antimaterija
@@ -112,8 +112,8 @@ dv_has_:
     el: αντιύλη
     eml: anti-matèria
     en: antimatter
-    en-ca: antimatter
-    en-gb: antimatter
+    en_ca: antimatter
+    en_gb: antimatter
     en-us: antimatter
     eo: antimaterio
     es: antimateria
@@ -162,7 +162,7 @@ dv_has_:
     pl: antymateria
     pnb: ضد مادہ
     pt: antimatéria
-    pt-br: antimatéria
+    pt_br: antimatéria
     ro: antimaterie
     ru: антивещество
     scn: antimateria
@@ -174,8 +174,8 @@ dv_has_:
     sl: antisnov
     sq: kundërlënda
     sr: антиматерија
-    sr-ec: антиматерија
-    sr-el: antimaterija
+    sr_ec: антиматерија
+    sr_el: antimaterija
     su: antimatéri
     sv: antimateria
     ta: எதிர்ப் பொருள்
@@ -192,14 +192,14 @@ dv_has_:
     wuu: 反物质
     yue: 反物質
     zh: 反物質
-    zh-cn: 反物质
-    zh-hans: 反物质
-    zh-hant: 反物質
-    zh-hk: 反物質
-    zh-mo: 反物質
+    zh_cn: 反物质
+    zh_hans: 反物质
+    zh_hant: 反物質
+    zh_hk: 反物質
+    zh_mo: 反物質
     zh-my: 反物质
-    zh-sg: 反物质
-    zh-tw: 反物質
+    zh_sg: 反物质
+    zh_tw: 反物質
 ---
 # [[Antimatter]] 
 

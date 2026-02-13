@@ -39,7 +39,7 @@ dv_has_:
     bi: Jerry Lewis
     br: Jerry Lewis
     ca: Jerry Lewis
-    cbk-zam: Jerry Lewis
+    cbk_zam: Jerry Lewis
     ceb: Jerry Lewis
     ckb: جێری لویز
     co: Jerry Lewis
@@ -47,12 +47,12 @@ dv_has_:
     cy: Jerry Lewis
     da: Jerry Lewis
     de: Jerry Lewis
-    de-ch: Jerry Lewis
+    de_ch: Jerry Lewis
     diq: Jerry Lewis
     el: Τζέρι Λιούις
     en: Jerry Lewis
-    en-ca: Jerry Lewis
-    en-gb: Jerry Lewis
+    en_ca: Jerry Lewis
+    en_gb: Jerry Lewis
     eo: Jerry Lewis
     es: Jerry Lewis
     eu: Jerry Lewis
@@ -77,7 +77,7 @@ dv_has_:
     lb: Jerry Lewis
     li: Jerry Lewis
     lv: Džerijs Lūiss
-    map-bms: Jerry Lewis
+    map_bms: Jerry Lewis
     mg: Jerry Lewis
     mul: Jerry Lewis
     nah: Jerry Lewis
@@ -91,7 +91,7 @@ dv_has_:
     pl: Jerry Lewis
     pms: Jerry Lewis
     pt: Jerry Lewis
-    pt-br: Jerry Lewis
+    pt_br: Jerry Lewis
     qu: Jerry Lewis
     ro: Jerry Lewis
     ru: Джерри Льюис
@@ -114,11 +114,11 @@ dv_has_:
     wuu: 杰瑞·刘易斯
     yo: Jerry Lewis
     zh: 傑利·路易斯
-    zh-cn: 杰里·刘易斯
-    zh-hans: 谢利·路易
-    zh-hant: 傑利·路易斯
+    zh_cn: 杰里·刘易斯
+    zh_hans: 谢利·路易
+    zh_hant: 傑利·路易斯
     zh-my: 谢利·路易
-    zh-sg: 谢利·路易
+    zh_sg: 谢利·路易
 ---
 # [[Jerry Lewis]] 
 

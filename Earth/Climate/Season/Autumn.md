@@ -280,7 +280,7 @@ dv_has_:
     bar: Hiachst
     bcl: Tagrakdag
     be: восень
-    be-tarask: восень
+    be_tarask: восень
     bg: Есен
     bho: पतझड़
     bn: শরৎ
@@ -299,15 +299,15 @@ dv_has_:
     cy: Hydref
     da: efterår
     de: Herbst
-    de-ch: Herbst
+    de_ch: Herbst
     diq: Payız
     dsb: Nazyma
     dty: शरद ऋतु
     el: φθινόπωρο
     eml: Avtûn
     en: autumn
-    en-ca: Autumn
-    en-gb: autumn
+    en_ca: Autumn
+    en_gb: autumn
     en-us: fall
     eo: aŭtuno
     es: otoño
@@ -353,7 +353,7 @@ dv_has_:
     ks: ہَرُد
     ksh: Herbst
     ku: payîz
-    ku-latn: payîz
+    ku_latn: payîz
     kv: Ар
     kw: kynnyav
     ky: Күз
@@ -375,7 +375,7 @@ dv_has_:
     mk: есен
     ml: ശരത്കാലം
     ms: musim luruh
-    ms-arab: موسيم لوروه
+    ms_arab: موسيم لوروه
     mwl: Outonho
     my: ဆောင်းဦး
     myv: сёксь
@@ -385,7 +385,7 @@ dv_has_:
     nap: Autunno
     nb: høst
     nds: Harvst
-    nds-nl: haarst
+    nds_nl: haarst
     ne: शरद ऋतु
     nl: herfst
     nn: haust
@@ -403,7 +403,7 @@ dv_has_:
     pnt: μοθοπώρ'
     ps: منی
     pt: outono
-    pt-br: Outono
+    pt_br: Outono
     qu: Puquy mit'a
     rmf: hyösta
     rmy: Autumno
@@ -435,7 +435,7 @@ dv_has_:
     so: Dayr
     sq: vjeshta
     sr: јесен
-    sr-ec: Јесен
+    sr_ec: Јесен
     sv: höst
     sw: Majira ya kupuputika majani
     szl: podzim
@@ -469,8 +469,8 @@ dv_has_:
     za: Cawzcou
     zgh: ⴰⵎⵡⴰⵏ
     zh: 秋季
-    zh-hant: 秋季
-    zh-tw: 秋季
+    zh_hant: 秋季
+    zh_tw: 秋季
     zu: Inkwindla
 ---
 # [[Autumn]] 

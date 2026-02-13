@@ -95,7 +95,7 @@ dv_has_:
     ar: اتخاذ القرار
     ast: Toma de decisiones
     be: прыняцце рашэння
-    be-tarask: прыняцьце рашэньня
+    be_tarask: прыняцьце рашэньня
     bg: Вземане на решения
     ca: presa de decisions
     ckb: بڕیاردان
@@ -148,8 +148,8 @@ dv_has_:
     sms: tuʹmmstõktuâjj
     sq: vendimmarrje
     sr: одлучивање
-    sr-ec: одлучивање
-    sr-el: odlučivanje
+    sr_ec: одлучивање
+    sr_el: odlučivanje
     sv: beslutsfattande
     ta: முடிவு செய்தல்
     te: నిర్ణయం తీసుకోవటం
@@ -160,9 +160,9 @@ dv_has_:
     vi: quyết định
     yue: 決策
     zh: 决策
-    zh-hans: 商业决策
-    zh-hant: 決策
-    zh-hk: 決策
+    zh_hans: 商业决策
+    zh_hant: 決策
+    zh_hk: 決策
 ---
 # [[Decision_Making]] 
 

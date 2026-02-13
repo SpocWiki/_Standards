@@ -144,7 +144,7 @@ dv_has_:
     ban: Brom
     bcl: Bromina
     be: Бром
-    be-tarask: бром
+    be_tarask: бром
     bg: бром
     bho: ब्रोमीन
     bn: ব্রোমিন
@@ -161,11 +161,11 @@ dv_has_:
     cy: bromin
     da: brom
     de: Brom
-    de-ch: Brom
+    de_ch: Brom
     el: βρώμιο
     en: bromine
-    en-ca: Bromine
-    en-gb: bromine
+    en_ca: Bromine
+    en_gb: bromine
     eo: bromo
     es: bromo
     et: broom
@@ -226,7 +226,7 @@ dv_has_:
     mr: ब्रोमिन
     mrj: Бром
     ms: bromin
-    ms-arab: برومين
+    ms_arab: برومين
     mt: bromu
     my: ဘရိုမင်း
     myv: Бром
@@ -249,7 +249,7 @@ dv_has_:
     pnb: برومائن
     ps: برومين
     pt: bromo
-    pt-br: bromo
+    pt_br: bromo
     qu: Bromu
     ro: brom
     ru: бром
@@ -294,11 +294,11 @@ dv_has_:
     yo: Bromine
     yue: 溴
     zh: 溴
-    zh-cn: 溴
-    zh-hans: 溴
-    zh-hant: 溴
-    zh-hk: 溴
-    zh-tw: 溴
+    zh_cn: 溴
+    zh_hans: 溴
+    zh_hant: 溴
+    zh_hk: 溴
+    zh_tw: 溴
     zu: UmBhulufu
   number_of_:
     period: 4

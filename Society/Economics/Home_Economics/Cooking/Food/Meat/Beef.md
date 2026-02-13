@@ -186,7 +186,7 @@ dv_has_:
     bbj: bap naʼ
     bcl: Karneng baka
     be: ялавічына
-    be-tarask: ялавічына
+    be_tarask: ялавічына
     bg: Говеждо месо
     bkc: sɔ ndàyì
     bkh: tít nyaka
@@ -202,13 +202,13 @@ dv_has_:
     cy: cig eidion
     da: oksekød
     de: Rindfleisch
-    de-ch: Rindfleisch
+    de_ch: Rindfleisch
     diq: Goştê naxıri
     dua: nyama anyaka
     el: μοσχαρίσιο κρέας
     en: beef
-    en-ca: Beef
-    en-gb: beef
+    en_ca: Beef
+    en_gb: beef
     eo: bovaĵo
     es: carne de res
     et: veiseliha
@@ -263,7 +263,7 @@ dv_has_:
     ml: മാട്ടിറച്ചി
     mn: үхрийн
     ms: daging lembu
-    ms-arab: داݢيڠ لمبو
+    ms_arab: داݢيڠ لمبو
     mt: ċanga
     mua: nəə dəə
     my: အမဲသား
@@ -286,7 +286,7 @@ dv_has_:
     pih: Biif
     pl: wołowina
     pt: carne bovina
-    pt-br: Carne bovina
+    pt_br: Carne bovina
     qu: Waka aycha
     rm: charn-bov
     ro: vită
@@ -300,8 +300,8 @@ dv_has_:
     sms: kuuzzvueʹǯǯ
     sq: mish lope
     sr: говедина
-    sr-ec: говедина
-    sr-el: govedina
+    sr_ec: говедина
+    sr_el: govedina
     sv: nötkött
     sw: nyama ya ng'ombe
     ta: மாட்டிறைச்சி
@@ -326,12 +326,12 @@ dv_has_:
     yue: 牛肉
     zh: 牛肉
     zh-cn: 牛肉
-    zh-hans: 牛肉
-    zh-hant: 牛肉
-    zh-hk: 牛肉
-    zh-mo: 牛肉
-    zh-sg: 牛肉
-    zh-tw: 牛肉
+    zh_hans: 牛肉
+    zh_hant: 牛肉
+    zh_hk: 牛肉
+    zh_mo: 牛肉
+    zh_sg: 牛肉
+    zh_tw: 牛肉
 ---
 # [[Beef]] 
 

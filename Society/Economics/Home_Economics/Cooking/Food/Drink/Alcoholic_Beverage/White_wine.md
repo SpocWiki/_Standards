@@ -70,7 +70,7 @@ dv_has_:
     arz: نبيت ابيض
     ast: vinu blanco
     ba: аҡ шарап
-    be-tarask: белае віно
+    be_tarask: белае віно
     bg: бяло вино
     br: gwin gwenn
     ca: vi blanc
@@ -81,7 +81,7 @@ dv_has_:
     de: Weißwein
     el: λευκό κρασί
     en: white wine
-    en-gb: white wine
+    en_gb: white wine
     eo: blanka vino
     es: vino blanco
     eu: ardo zuri
@@ -125,7 +125,7 @@ dv_has_:
     yue: 白葡萄酒
     za: Laeujhau
     zh: 白葡萄酒
-    zh-hans: 白葡萄酒
+    zh_hans: 白葡萄酒
 ---
 # [[White_wine]]
 

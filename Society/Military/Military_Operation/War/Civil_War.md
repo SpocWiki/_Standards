@@ -162,7 +162,7 @@ dv_has_:
     azb: ایچ ساواش
     ba: Граждандар һуғышы
     be: грамадзянская вайна
-    be-tarask: грамадзянская вайна
+    be_tarask: грамадзянская вайна
     bg: Гражданска война
     bn: গৃহযুদ্ধ
     br: brezel diabarzh
@@ -181,7 +181,7 @@ dv_has_:
     de: Bürgerkrieg
     el: εμφύλιος πόλεμος
     en: civil war
-    en-ca: civil war
+    en_ca: civil war
     eo: interna milito
     es: guerra civil
     et: kodusõda
@@ -222,7 +222,7 @@ dv_has_:
     krc: Граждан къазауат
     ks: خانہٕ جَنٛگی
     ku: şerê navxweyî
-    ku-latn: şerê navxweyî
+    ku_latn: şerê navxweyî
     kw: bresel dhinasek
     ky: Жарандык согуш
     la: Bellum civile
@@ -238,14 +238,14 @@ dv_has_:
     ml: ആഭ്യന്തരയുദ്ധം
     mn: Иргэний дайн
     ms: perang saudara
-    ms-arab: ڤرڠ ساودارا
+    ms_arab: ڤرڠ ساودارا
     my: ပြည်တွင်းစစ်
     myv: Потмотюрема
     nan: Lōe-chiàn
     nap: guèrr civile
     nb: borgerkrig
     nds: Börgerkrieg
-    nds-nl: bürgeroorlog
+    nds_nl: bürgeroorlog
     ne: गृहयुद्ध
     nl: burgeroorlog
     nn: borgarkrig
@@ -276,7 +276,7 @@ dv_has_:
     so: Dagaal Sokeeye
     sq: Lufta civile
     sr: грађански рат
-    sr-ec: грађански рат
+    sr_ec: грађански рат
     sv: inbördeskrig
     sw: Vita ya wenyewe kwa wenyewe
     ta: உள்நாட்டுப் போர்
@@ -287,7 +287,7 @@ dv_has_:
     tok: utala insa
     tr: İç savaş
     tt: ватандашлар сугышы
-    tt-cyrl: ватандашлар сугышы
+    tt_cyrl: ватандашлар сугышы
     udm: граждан ож
     uk: громадянська війна
     ur: خانہ جنگی
@@ -303,11 +303,11 @@ dv_has_:
     yo: Ogun abẹ́lé
     yue: 內戰
     zh: 内战
-    zh-cn: 内战
-    zh-hans: 内战
-    zh-hant: 内战
-    zh-hk: 內戰
-    zh-tw: 內戰
+    zh_cn: 内战
+    zh_hans: 内战
+    zh_hant: 内战
+    zh_hk: 內戰
+    zh_tw: 內戰
 ---
 # [[Civil_War]] 
 

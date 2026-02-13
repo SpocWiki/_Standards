@@ -162,7 +162,7 @@ dv_has_:
     ban: Kalénder Julian
     bar: Julianischa Kalenda
     be: Юліянскі каляндар
-    be-tarask: юліянскі каляндар
+    be_tarask: юліянскі каляндар
     bg: Юлиански календар
     bn: জুলীয় বর্ষপঞ্জি
     br: Deiziadur juluan
@@ -230,7 +230,7 @@ dv_has_:
     lv: Jūlija kalendārs
     lzh: 儒略曆
     mai: जुलियन क्यालेन्डर
-    map-bms: Kalendher Julian
+    map_bms: Kalendher Julian
     mg: Tetiandro joliana
     mk: јулијански календар
     mni: ꯖꯨꯂꯤꯌꯥꯟ ꯊꯄꯥꯂꯣꯟ
@@ -263,7 +263,7 @@ dv_has_:
     sms: juliaanlaž kaʹlndar
     sq: Kalendari Julian
     sr: Јулијански календар
-    sr-ec: Јулијански календар
+    sr_ec: Јулијански календар
     sv: julianska kalendern
     sw: Kalenda ya Juliasi
     szl: juliański kalyndŏrz
@@ -272,7 +272,7 @@ dv_has_:
     tl: Kalendaryong Huliyano
     tr: Jülyen takvimi
     tt: юлиан тәкъвиме
-    tt-cyrl: юлиан тәкъвиме
+    tt_cyrl: юлиан тәкъвиме
     ug: جۇلىيان تەقۋىمى
     uk: Юліанський календар
     ur: جولینی تقویم
@@ -286,10 +286,10 @@ dv_has_:
     yi: יוליאנישער קאלענדאר
     yue: 儒略曆
     zh: 儒略曆
-    zh-hans: 儒略历
-    zh-hant: 儒略曆
-    zh-hk: 儒略曆
-    zh-tw: 儒略曆
+    zh_hans: 儒略历
+    zh_hant: 儒略曆
+    zh_hk: 儒略曆
+    zh_tw: 儒略曆
 ---
 # [[Julian_Calendar]] 
 

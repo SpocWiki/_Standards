@@ -89,7 +89,7 @@ dv_has_:
     az: Böyük Britaniyanın Avropa İttifaqından çıxışı
     bar: Brexit
     be: Выхад Вялікабрытаніі з Еўрапейскага саюза
-    be-tarask: Брэксыт
+    be_tarask: Брэксыт
     bg: Излизане на Великобритания от Европейския съюз
     bho: ब्रेक्जिट
     bjn: Brexit
@@ -103,13 +103,13 @@ dv_has_:
     da: Brexit
     de: Brexit
     de-at: Brexit
-    de-ch: Brexit
+    de_ch: Brexit
     din: Brɛ̈kdhït
     diq: Brexit
     el: Έξοδος του Ηνωμένου Βασίλειου από την Ευρωπαϊκή Ένωση
     en: Brexit
-    en-ca: Brexit
-    en-gb: Brexit
+    en_ca: Brexit
+    en_gb: Brexit
     eo: Briteliro
     es: salida del Reino Unido de la Unión Europea
     et: Brexit
@@ -168,7 +168,7 @@ dv_has_:
     nap: Brexit
     nb: Brexit
     nds: Brexit
-    nds-nl: brexit
+    nds_nl: brexit
     nl: brexit
     nn: brexit
     nrm: Brexit
@@ -180,7 +180,7 @@ dv_has_:
     pnb: برطانیہ دا یورپی یونین توں نکلنا
     ps: د برتانیا وتل د اروپایي اتحادیه نه
     pt: Brexit
-    pt-br: Brexit
+    pt_br: Brexit
     rm: Brexit
     rmf: Brexit
     ro: Brexit
@@ -203,7 +203,7 @@ dv_has_:
     sms: Brexit
     sq: BREXIT
     sr: Повлачење Уједињеног Краљевства из Европске уније
-    sr-el: Brexit
+    sr_el: Brexit
     sv: Brexit
     sw: Brexit
     ta: பிரெக்சிட்டு
@@ -224,8 +224,8 @@ dv_has_:
     yi: ברעקסיט
     yue: 英國脫歐
     zh: 英國脫歐
-    zh-hant: 英國脫歐
-    zh-tw: 英國脫歐
+    zh_hant: 英國脫歐
+    zh_tw: 英國脫歐
     zu: Brexit
 ---
 # [[Brexit]] 

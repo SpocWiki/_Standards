@@ -92,7 +92,7 @@ dv_has_:
     ban: taksonomi
     bar: Taxonomie
     be: таксаномія
-    be-tarask: таксаномія
+    be_tarask: таксаномія
     bew: Pengrèrodan
     bg: таксономия
     bjn: taksunumi
@@ -105,11 +105,11 @@ dv_has_:
     cy: tacsonomeg
     da: taksonomi
     de: Taxonomie
-    de-ch: taxonomie
+    de_ch: taxonomie
     el: ταξινομία
     en: taxonomy
-    en-ca: taxonomy
-    en-gb: taxonomy
+    en_ca: taxonomy
+    en_gb: taxonomy
     eo: taksonomio
     es: taxonomía
     et: taksonoomia
@@ -137,7 +137,7 @@ dv_has_:
     kk: таксономия
     ko: 분류학
     ku: taksonomî
-    ku-latn: taksonomî
+    ku_latn: taksonomî
     kw: taksonomieth
     ky: таксономия
     la: taxinomia
@@ -145,7 +145,7 @@ dv_has_:
     lij: taxonomïa
     lt: taksonomija
     lv: taksonomija
-    map-bms: taksonomi
+    map_bms: taksonomi
     min: taksonomi
     mk: таксономија
     ml: ശാസ്ത്രീയ വർഗ്ഗീകരണം
@@ -161,7 +161,7 @@ dv_has_:
     oc: taxinomia
     pl: taksonomia
     pt: taxonomia
-    pt-br: taxonomia
+    pt_br: taxonomia
     ro: taxonomie
     ru: таксономия
     sah: таксономия
@@ -176,8 +176,8 @@ dv_has_:
     sn: kupatsanura zvipenyu
     sq: taksonomia
     sr: таксономија
-    sr-ec: таксономија
-    sr-el: taksonomija
+    sr_ec: таксономија
+    sr_el: taksonomija
     su: taksonomi
     sv: taxonomi
     ta: வகைபிரித்தல்

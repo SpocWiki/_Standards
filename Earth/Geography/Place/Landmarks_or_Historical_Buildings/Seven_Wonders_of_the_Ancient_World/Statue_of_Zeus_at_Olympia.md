@@ -161,7 +161,7 @@ dv_has_:
     az: Olimpdə Zevsin heykəli
     ba: Олимпияла Зевс статуяһы
     be: Статуя Зеўса
-    be-tarask: Статуя Зэўса
+    be_tarask: Статуя Зэўса
     bg: Статуя на Зевс Олимпийски
     bn: অলিম্পিয়ার জিউসের মূর্তি
     bs: Zeusov kip u Olimpiji
@@ -219,7 +219,7 @@ dv_has_:
     pl: Posąg Zeusa w Olimpii
     pnb: زیوس دا بت
     pt: Estátua de Zeus em Olímpia
-    pt-br: Estátua de Zeus em Olímpia
+    pt_br: Estátua de Zeus em Olímpia
     qu: Olimpyapi Zeus wank'a
     ro: Statuia lui Zeus din Olympia
     ru: Статуя Зевса в Олимпии
@@ -229,7 +229,7 @@ dv_has_:
     sl: Zevsov kip v Olimpiji
     sq: Shtatorja e Zeusit në Olimpia
     sr: Статуа Зевса у Олимпији
-    sr-ec: Статуа Зевса у Олимпији
+    sr_ec: Статуа Зевса у Олимпији
     sv: Zeusstatyn i Olympia
     sw: Sanamu ya Zeus mjini Olympia
     ta: ஒலிம்பியாவின் சேயுஸ் சிலை

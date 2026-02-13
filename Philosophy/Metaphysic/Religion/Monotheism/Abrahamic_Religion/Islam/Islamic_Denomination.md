@@ -82,7 +82,7 @@ dv_has_:
     az: Məzhəb
     azb: ایسلام مذهبلری
     ba: Ислам ағымдары
-    be-tarask: ісламскія кірункі
+    be_tarask: ісламскія кірункі
     bg: Клонове на исляма
     bn: ইসলামি সম্প্রদায় ও শাখা
     bs: pravci u islamu
@@ -110,12 +110,12 @@ dv_has_:
     ja: イスラームの分派
     jam: Divijan a Izlam
     kk: Ислам ағымдары
-    kk-arab: ىيسلام اعىمدارى
-    kk-cyrl: Ислам ағымдары
-    kk-latn: Ïslam ağımdarı
+    kk_arab: ىيسلام اعىمدارى
+    kk_cyrl: Ислам ағымдары
+    kk_latn: Ïslam ağımdarı
     ko: 이슬람 학파 및 분파
     ku: mezheba îslamê
-    ku-latn: mezheba îslamê
+    ku_latn: mezheba îslamê
     kw: hanwans Islamek
     lt: Islamo srovės
     lv: islāma mācība un nozare
@@ -144,8 +144,8 @@ dv_has_:
     xmf: ისლამური გემაჸვენჯალა
     yue: 伊斯蘭教派
     zh: 伊斯兰教派
-    zh-cn: 伊斯兰教派
-    zh-hant: 伊斯蘭教派
+    zh_cn: 伊斯兰教派
+    zh_hant: 伊斯蘭教派
 ---
 # [[Islamic_Denomination]] 
 

@@ -105,7 +105,7 @@ dv_has_:
     ast: Movimientu brownianu
     az: Broun hərəkəti
     be: Броўнаўскі рух
-    be-tarask: броўнаўскі рух
+    be_tarask: броўнаўскі рух
     bg: Брауново движение
     bn: ব্রাউনীয় গতি
     ca: moviment brownià
@@ -161,8 +161,8 @@ dv_has_:
     sl: Brownovo gibanje
     sq: Levizja Brauniane
     sr: Брауново кретање
-    sr-ec: Брауново кретање
-    sr-el: Braunovo kretanje
+    sr_ec: Брауново кретање
+    sr_el: Braunovo kretanje
     su: Gerak Brown
     sv: brownsk rörelse
     ta: பிரௌனியன் இயக்கம்
@@ -177,12 +177,12 @@ dv_has_:
     wuu: 布朗运动
     yue: 布朗運動
     zh: 布朗运动
-    zh-cn: 布朗运动
-    zh-hans: 布朗运动
-    zh-hant: 布朗運動
-    zh-hk: 布朗運動
-    zh-sg: 布朗运动
-    zh-tw: 布朗運動
+    zh_cn: 布朗运动
+    zh_hans: 布朗运动
+    zh_hant: 布朗運動
+    zh_hk: 布朗運動
+    zh_sg: 布朗运动
+    zh_tw: 布朗運動
 ---
 # [[Brownian_motion]] 
 

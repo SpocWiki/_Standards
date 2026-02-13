@@ -64,7 +64,7 @@ dv_has_:
     ar: سلوقي إنجليزي
     arz: كلب سلوقى
     ast: Galgu inglés
-    be-tarask: грэйгаўнд
+    be_tarask: грэйгаўнд
     bg: Грейхаунд
     br: Milgi
     ca: llebrer anglès
@@ -74,11 +74,11 @@ dv_has_:
     cy: Milgi
     da: Greyhound
     de: Greyhound
-    de-ch: Greyhound
+    de_ch: Greyhound
     el: Γκρεϊχάουντ
     en: greyhound
-    en-ca: Greyhound
-    en-gb: greyhound
+    en_ca: Greyhound
+    en_gb: greyhound
     eo: Angla leporhundo
     es: Galgo inglés
     et: Inglise hurt
@@ -105,7 +105,7 @@ dv_has_:
     pl: greyhound
     pnb: گرے ہاؤنڈ
     pt: galgo inglês
-    pt-br: Galgo inglês
+    pt_br: Galgo inglês
     ru: Грейхаунд
     sco: grewhoond
     sk: Anglický chrt

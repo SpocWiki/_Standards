@@ -37,11 +37,11 @@ dv_has_:
     da: Caenogastropoda
     de: Caenogastropoda
     de-at: Caenogastropoda
-    de-ch: Caenogastropoda
+    de_ch: Caenogastropoda
     el: καινογαστερόποδα
     en: Caenogastropoda
-    en-ca: Caenogastropoda
-    en-gb: Caenogastropoda
+    en_ca: Caenogastropoda
+    en_gb: Caenogastropoda
     eo: Caenogastropoda
     es: Caenogastropoda
     et: Caenogastropoda
@@ -80,7 +80,7 @@ dv_has_:
     nap: Caenogastropoda
     nb: Caenogastropoda
     nds: Caenogastropoda
-    nds-nl: Caenogastropoda
+    nds_nl: Caenogastropoda
     nl: Caenogastropoda
     nn: Caenogastropoda
     nrm: Caenogastropoda
@@ -90,7 +90,7 @@ dv_has_:
     pl: Caenogastropoda
     pms: Caenogastropoda
     pt: Caenogastropoda
-    pt-br: Caenogastropoda
+    pt_br: Caenogastropoda
     rm: Caenogastropoda
     ro: Caenogastropoda
     ru: ценогастроподы
@@ -113,12 +113,12 @@ dv_has_:
     war: Caenogastropoda
     wo: Caenogastropoda
     zh: 新进腹足亚纲
-    zh-cn: 新进腹足亚纲
-    zh-hans: 新进腹足亚纲
-    zh-hant: 新進腹足總目
-    zh-hk: 新進腹足總目
-    zh-sg: 新进腹足总目
-    zh-tw: 新進腹足總目
+    zh_cn: 新进腹足亚纲
+    zh_hans: 新进腹足亚纲
+    zh_hant: 新進腹足總目
+    zh_hk: 新進腹足總目
+    zh_sg: 新进腹足总目
+    zh_tw: 新進腹足總目
     zu: Caenogastropoda
 ---
 # [[Caenogastropoda]] 

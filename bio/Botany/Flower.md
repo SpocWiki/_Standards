@@ -236,8 +236,8 @@ MeSH_tree_code: A18.024.249.500
 UMLS_CUI: C1138416
 dv_has_:
   name_:
-    aeb-arab: نوّارة
-    aeb-latn: nawwàra
+    aeb_arab: نوّارة
+    aeb_latn: nawwàra
     af: blom
     alt: чечек
     am: አበባ
@@ -260,7 +260,7 @@ dv_has_:
     bar: Bleame
     bcl: burak
     be: кветка
-    be-tarask: кветка
+    be_tarask: кветка
     bew: Kembang
     bg: цвят
     bho: फूल
@@ -284,13 +284,13 @@ dv_has_:
     da: blomst
     dag: pum
     de: Blüte
-    de-ch: Blüte
+    de_ch: Blüte
     dty: फूल
     dz: མེ་ཏོག
     el: άνθος
     en: flower
-    en-ca: flower
-    en-gb: flower
+    en_ca: flower
+    en_gb: flower
     en-us: flower
     eo: floro
     es: flor
@@ -364,7 +364,7 @@ dv_has_:
     lzh: 花
     mad: Kembhâng
     mai: फूल
-    map-bms: kembang
+    map_bms: kembang
     mcn: mɓ̀ɔ̀ɔ́ gùnà
     mg: voninkazo
     mhr: пеледыш
@@ -377,7 +377,7 @@ dv_has_:
     mr: फूल
     mrj: пеледӹш
     ms: bunga
-    ms-arab: بوڠا
+    ms_arab: بوڠا
     mwl: frol
     my: ပန်း
     myv: цеця
@@ -387,7 +387,7 @@ dv_has_:
     nap: sciuore
     nb: blomst
     nds: Blöte
-    nds-nl: bloeme
+    nds_nl: bloeme
     ne: फूल
     new: स्वां
     nia: Bunga
@@ -408,7 +408,7 @@ dv_has_:
     pnb: پُھل
     ps: ګل
     pt: flor
-    pt-br: flor
+    pt_br: flor
     qu: tuktu
     rn: Ishurwe
     ro: floare
@@ -467,11 +467,11 @@ dv_has_:
     za: va
     zgh: ⴰⵊⴷⴷⵉⴳ
     zh: 花
-    zh-cn: 花
-    zh-hans: 花
-    zh-hant: 花
-    zh-hk: 花
-    zh-tw: 花
+    zh_cn: 花
+    zh_hans: 花
+    zh_hant: 花
+    zh_hk: 花
+    zh_tw: 花
 ---
 # [[Flower]] 🥀 
 

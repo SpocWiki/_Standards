@@ -71,7 +71,7 @@ dv_has_:
     ast: Herman Hollerith
     az: Herman Hollerit
     be: Герман Холерыт
-    be-tarask: Гэрман Голерыт
+    be_tarask: Гэрман Голерыт
     bg: Херман Холерит
     bn: হারম্যান হলারিথ
     ca: Herman Hollerith
@@ -79,11 +79,11 @@ dv_has_:
     cy: Herman Hollerith
     da: Herman Hollerith
     de: Herman Hollerith
-    de-ch: Herman Hollerith
+    de_ch: Herman Hollerith
     el: Χέρμαν Χόλεριθ
     en: Herman Hollerith
-    en-ca: Herman Hollerith
-    en-gb: Herman Hollerith
+    en_ca: Herman Hollerith
+    en_gb: Herman Hollerith
     es: Herman Hollerith
     eu: Herman Hollerith
     fa: هرمان هولریث
@@ -112,7 +112,7 @@ dv_has_:
     nn: Herman Hollerith
     pl: Herman Hollerith
     pt: Herman Hollerith
-    pt-br: Herman Hollerith
+    pt_br: Herman Hollerith
     ro: Herman Hollerith
     ru: Герман Холлерит
     sah: Герман Холлерит
@@ -122,8 +122,8 @@ dv_has_:
     sl: Herman Hollerith
     sq: Herman Hollerith
     sr: Херман Холерит
-    sr-ec: Херман Холерит
-    sr-el: Herman Holerit
+    sr_ec: Херман Холерит
+    sr_el: Herman Holerit
     sv: Herman Hollerith
     sw: Herman Hollerith
     tl: Herman Hollerith
@@ -134,12 +134,12 @@ dv_has_:
     wuu: 赫尔曼·何乐礼
     yue: 靴文何拿域夫
     zh: 赫爾曼·何樂禮
-    zh-cn: 赫尔曼·霍利里思
-    zh-hans: 赫尔曼·霍利里思
-    zh-hant: 赫爾曼·何樂禮
-    zh-hk: 赫爾曼·何樂禮
-    zh-sg: 赫尔曼·何乐礼
-    zh-tw: 赫爾曼·何樂禮
+    zh_cn: 赫尔曼·霍利里思
+    zh_hans: 赫尔曼·霍利里思
+    zh_hant: 赫爾曼·何樂禮
+    zh_hk: 赫爾曼·何樂禮
+    zh_sg: 赫尔曼·何乐礼
+    zh_tw: 赫爾曼·何樂禮
 ---
 # [[Hollerith,Herman]] 
 

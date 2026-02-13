@@ -87,7 +87,7 @@ dv_has_:
     ast: Arte conceptual
     az: konseptualizm
     be: канцэптуальнае мастацтва
-    be-tarask: канцэптуальнае мастацтва
+    be_tarask: канцэптуальнае мастацтва
     bg: концептуално изкуство
     bs: konceptualna umjetnost
     ca: art conceptual
@@ -137,8 +137,8 @@ dv_has_:
     sk: Konceptuálne umenie
     sl: konceptualna umetnost
     sr: концептуална уметност
-    sr-ec: концептуална уметност
-    sr-el: konceptualna umetnost
+    sr_ec: концептуална уметност
+    sr_el: konceptualna umetnost
     sv: konceptkonst
     th: ศิลปะเชิงแนวคิด
     tr: kavramsal sanat
@@ -146,12 +146,12 @@ dv_has_:
     vi: nghệ thuật ý niệm
     yue: 概念藝術
     zh: 概念藝術
-    zh-cn: 概念艺术
-    zh-hans: 概念艺术
-    zh-hant: 概念藝術
-    zh-hk: 概念藝術
-    zh-sg: 概念艺术
-    zh-tw: 觀念藝術
+    zh_cn: 概念艺术
+    zh_hans: 概念艺术
+    zh_hant: 概念藝術
+    zh_hk: 概念藝術
+    zh_sg: 概念艺术
+    zh_tw: 觀念藝術
 ---
 # [[Conceptual_Art]] 
 

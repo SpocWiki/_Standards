@@ -7,7 +7,7 @@ dv_has_:
     ast: Mitoloxía de Mesopotamia
     az: Qədim Mesopotamiya dini
     be: Месапатамская міфалогія
-    be-tarask: мэсапатамская міталёгія
+    be_tarask: мэсапатамская міталёгія
     bg: Шумеро-акадска митология
     bjn: Mitologi Mésopotamia
     bs: Mesopotamska mitologija
@@ -44,7 +44,7 @@ dv_has_:
     nn: Mesopotamisk mytologi
     pl: Religia Mezopotamii
     pt: Mitologia mesopotâmica
-    pt-br: Mitologia mesopotâmica
+    pt_br: Mitologia mesopotâmica
     ro: Mitologia mesopotamiană
     ru: месопотамская мифология
     sh: Mezopotamska mitologija
@@ -58,8 +58,8 @@ dv_has_:
     uk: Месопотамська міфологія
     vi: Thần thoại Lưỡng Hà
     zh: 美索不达米亚神话
-    zh-hans: 美索不达米亚神话
-    zh-hant: 美索不達米亞神話
+    zh_hans: 美索不达米亚神话
+    zh_hant: 美索不達米亞神話
 aliases:
 - Mesopotaamia mütoloogia
 - mesopotamia ki sabhayata

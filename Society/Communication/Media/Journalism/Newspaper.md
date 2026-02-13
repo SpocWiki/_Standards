@@ -295,7 +295,7 @@ dv_has_:
     ba: гәзит
     bar: Zeidung
     be: газета
-    be-tarask: газэта
+    be_tarask: газэта
     bg: вестник
     bho: अखबार
     bn: সংবাদপত্র
@@ -304,27 +304,27 @@ dv_has_:
     bs: novine
     bxr: Һонин
     ca: periòdic
-    cbk-zam: periodico
+    cbk_zam: periodico
     cdo: bó̤-cāi
     ce: газета
     ceb: mantalaan-balita
     chy: hóo'xevávôxe'êstoo'o
     ckb: ڕۆژنامە
     crh: gazeta
-    crh-latn: gazeta
+    crh_latn: gazeta
     cs: noviny
     csb: gazéta
     cv: хаçат
     cy: papur newydd
     da: avis
     de: Zeitung
-    de-ch: Zeitung
+    de_ch: Zeitung
     diq: qezeta
     dsb: casnik
     el: εφημερίδα
     en: newspaper
-    en-ca: newspaper
-    en-gb: newspaper
+    en_ca: newspaper
+    en_gb: newspaper
     eo: gazeto
     es: periódico
     et: ajaleht
@@ -399,7 +399,7 @@ dv_has_:
     nan: sin-bûn-choá
     nb: avis
     nds: Daagblatt
-    nds-nl: krante
+    nds_nl: krante
     ne: समाचार पत्र
     new: बुखँपौ
     nl: krant
@@ -419,7 +419,7 @@ dv_has_:
     pnb: اخبار
     ps: ورځپاڼه
     pt: jornal
-    pt-br: jornal
+    pt_br: jornal
     qu: willay p'anqa
     ro: ziar
     rsk: Новина
@@ -443,8 +443,8 @@ dv_has_:
     sn: pepanhau
     sq: gazetë
     sr: новине
-    sr-ec: новине
-    sr-el: novine
+    sr_ec: новине
+    sr_el: novine
     st: Dikoranta
     su: koran
     sv: tidning
@@ -460,7 +460,7 @@ dv_has_:
     tok: lipu pi ijo sin
     tr: gazete
     tt: гәҗит
-    tt-cyrl: гәҗит
+    tt_cyrl: гәҗит
     tw: atesɛm krataa
     tyv: солун
     udm: газет
@@ -480,11 +480,11 @@ dv_has_:
     yue: 報紙
     za: bauqceij
     zh: 報紙
-    zh-cn: 报纸
-    zh-hans: 报纸
-    zh-hant: 報紙
-    zh-hk: 報紙
-    zh-tw: 報紙
+    zh_cn: 报纸
+    zh_hans: 报纸
+    zh_hant: 報紙
+    zh_hk: 報紙
+    zh_tw: 報紙
     zu: Iphephandaba
 ---
 # [[Newspaper]] 

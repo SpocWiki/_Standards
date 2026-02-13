@@ -111,7 +111,7 @@ dv_has_:
     az: Kiçik At
     ba: Бәләкәй Ат
     be: Малы Конь
-    be-tarask: Малы Конь
+    be_tarask: Малы Конь
     bg: Жребче
     bn: অশ্বতর মণ্ডল
     br: Ebeul

@@ -48,7 +48,7 @@ dv_has_:
     az: Brahmanizm
     bcl: Brëmëismo
     ca: bramanisme
-    cbk-zam: bramanismo
+    cbk_zam: bramanismo
     ceb: Brëmëismo
     cps: Brëmëismo
     cs: bráhmanismus
@@ -88,8 +88,8 @@ dv_has_:
     uz: Brahmanizm
     xmf: ბრაჰმანიზმი
     zh: 吠陀宗教
-    zh-cn: 吠陀婆罗门教
-    zh-hant: 吠陀婆羅門教
+    zh_cn: 吠陀婆罗门教
+    zh_hant: 吠陀婆羅門教
 ---
 # [[Brahmanism]] 
 

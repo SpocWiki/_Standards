@@ -170,7 +170,7 @@ dv_has_:
     ast: Arnold Schönberg
     az: Arnold Şönberg
     be: Арнольд Шонберг
-    be-tarask: Арнольд Шэнбэрг
+    be_tarask: Арнольд Шэнбэрг
     bg: Арнолд Шьонберг
     ca: Arnold Schönberg
     ceb: Arnold Schoenberg
@@ -180,12 +180,12 @@ dv_has_:
     da: Arnold Schönberg
     dag: Arnold Schoenberg
     de: Arnold Schönberg
-    de-ch: Arnold Schönberg
+    de_ch: Arnold Schönberg
     ee: Arnold Schönberg
     el: Άρνολντ Σένμπεργκ
     en: Arnold Schoenberg
-    en-ca: Arnold Schoenberg
-    en-gb: Arnold Schoenberg
+    en_ca: Arnold Schoenberg
+    en_gb: Arnold Schoenberg
     eo: Arnold Schönberg
     es: Arnold Schönberg
     et: Arnold Schönberg
@@ -226,7 +226,7 @@ dv_has_:
     pap: Arnold Schönberg
     pl: Arnold Schönberg
     pt: Arnold Schönberg
-    pt-br: Arnold Schönberg
+    pt_br: Arnold Schönberg
     ro: Arnold Schönberg
     ru: Арнольд Шёнберг
     sh: Arnold Schönberg
@@ -234,8 +234,8 @@ dv_has_:
     sl: Arnold Schönberg
     sq: Arnold Schoenberg
     sr: Арнолд Шенберг
-    sr-ec: Арнолд Шенберг
-    sr-el: Arnold Šenberg
+    sr_ec: Арнолд Шенберг
+    sr_el: Arnold Šenberg
     sv: Arnold Schönberg
     th: อาร์น็อลท์ เชินแบร์ค
     tl: Arnold Schoenberg
@@ -247,12 +247,12 @@ dv_has_:
     wuu: 阿诺尔德·勋伯格
     yue: 亞諾·荀白克
     zh: 阿诺德·勋伯格
-    zh-cn: 阿诺德·勋伯格
-    zh-hans: 阿诺德·勋伯格
-    zh-hant: 阿諾·荀白克
-    zh-hk: 亞諾·荀白克
-    zh-sg: 阿诺德·勋伯格
-    zh-tw: 阿諾·荀貝格
+    zh_cn: 阿诺德·勋伯格
+    zh_hans: 阿诺德·勋伯格
+    zh_hant: 阿諾·荀白克
+    zh_hk: 亞諾·荀白克
+    zh_sg: 阿诺德·勋伯格
+    zh_tw: 阿諾·荀貝格
 ---
 # [[Schönberg,Arnold]] 
 

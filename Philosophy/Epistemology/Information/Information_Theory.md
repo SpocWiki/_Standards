@@ -111,7 +111,7 @@ dv_has_:
     ba: мәғлүмәт теорияһы
     bar: Informationstheorie
     be: тэорыя інфармацыі
-    be-tarask: тэорыя інфармацыі
+    be_tarask: тэорыя інфармацыі
     bg: теория на информацията
     bn: তথ্য তত্ত্ব
     ca: teoria de la informació
@@ -143,11 +143,11 @@ dv_has_:
     ka: ინფორმაციის თეორია
     kaa: Informaciya teoriyası
     kk: ақпарат теориясы
-    kk-arab: اقپارات تەورىيياسى
+    kk_arab: اقپارات تەورىيياسى
     kk-cn: اقپارات تەورىيياسى
-    kk-cyrl: ақпарат теориясы
+    kk_cyrl: ақпарат теориясы
     kk-kz: ақпарат теориясы
-    kk-latn: aqparat teorïyası
+    kk_latn: aqparat teorïyası
     kk-tr: aqparat teorïyası
     ko: 정보 이론
     ky: Информациянын жалпы теориясы
@@ -167,7 +167,7 @@ dv_has_:
     pnb: نظریۂ اطلاعات
     ps: د معلوماتو نظریه
     pt: teoria da informação
-    pt-br: teoria da informação
+    pt_br: teoria da informação
     ro: teoria informației
     ru: теория информации
     sh: teorija informacije
@@ -175,8 +175,8 @@ dv_has_:
     sl: teorija informacij
     sq: Teoria e informacionit
     sr: теорија информације
-    sr-ec: теорија информације
-    sr-el: teorija informacije
+    sr_ec: теорија информације
+    sr_el: teorija informacije
     sv: informationsteori
     ta: தகவல் கோட்பாடு
     tg: назарияи иттилоот
@@ -192,12 +192,12 @@ dv_has_:
     wuu: 信息论
     yue: 訊息論
     zh: 信息论
-    zh-cn: 信息论
-    zh-hans: 信息论
-    zh-hant: 資訊理論
-    zh-hk: 資訊理論
-    zh-sg: 信息论
-    zh-tw: 資訊理論
+    zh_cn: 信息论
+    zh_hans: 信息论
+    zh_hant: 資訊理論
+    zh_hk: 資訊理論
+    zh_sg: 信息论
+    zh_tw: 資訊理論
     zu: Umchachiso wokwaziswa
 ---
 # [[Information_Theory]] 

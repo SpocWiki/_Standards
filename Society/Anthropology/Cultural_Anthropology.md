@@ -97,7 +97,7 @@ dv_has_:
     ba: Мәҙәни антропология
     ban: pangaweruh krama
     be: культурная антрапалогія
-    be-tarask: культурная антрапалёгія
+    be_tarask: культурная антрапалёгія
     bg: Културна антропология
     bjn: Antropologi budaya
     bn: সাংস্কৃতিক নৃবিজ্ঞান
@@ -110,8 +110,8 @@ dv_has_:
     de: Kulturanthropologie
     el: Πολιτισμική Ανθρωπολογία
     en: cultural anthropology
-    en-ca: Cultural anthropology
-    en-gb: cultural anthropology
+    en_ca: Cultural anthropology
+    en_gb: cultural anthropology
     eo: kultura antropologio
     es: antropología cultural
     et: kultuuriantropoloogia
@@ -152,7 +152,7 @@ dv_has_:
     pl: antropologia kulturowa
     ps: کلتوري انسان پوهنه
     pt: antropologia cultural
-    pt-br: Antropologia cultural
+    pt_br: Antropologia cultural
     ro: Antropologie culturală
     ru: культурная антропология
     rue: Културна і соціална антрополоґія
@@ -166,8 +166,8 @@ dv_has_:
     smn: kulttuurantropologia
     sms: kulttuurantropologia
     sr: културна антропологија
-    sr-ec: културна антропологија
-    sr-el: kulturna antropologija
+    sr_ec: културна антропологија
+    sr_el: kulturna antropologija
     sv: kulturantropologi
     ta: பண்பாட்டு மானிடவியல்
     tg: инсоншиносии фарҳангӣ

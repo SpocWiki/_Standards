@@ -118,7 +118,7 @@ dv_has_:
     ba: Аждаһа
     bar: Drach
     be: Дракон
-    be-tarask: Цмок
+    be_tarask: Цмок
     bg: Дракон
     bn: তক্ষক মণ্ডল
     bo: གནམ་འབྲུག་སྐར་ཚོམ་
@@ -134,7 +134,7 @@ dv_has_:
     diq: Ecderha
     el: Δράκων
     en: Draco
-    en-gb: Draco
+    en_gb: Draco
     eo: Drako
     es: Draco
     et: Lohe
@@ -205,8 +205,8 @@ dv_has_:
     wuu: 天龙座
     yue: 天龍座
     zh: 天龙座
-    zh-hans: 天龙座
-    zh-hant: 天龍座
+    zh_hans: 天龙座
+    zh_hant: 天龍座
 dv_is_:
   same_as:
   - '[[../../WikiData/WD~Draco,8675|WD~Draco,8675]]'

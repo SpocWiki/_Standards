@@ -265,7 +265,7 @@ dv_has_:
     ba: Бактериялар
     bcl: Bakterya
     be: бактэрыі
-    be-tarask: бактэрыі
+    be_tarask: бактэрыі
     bg: бактерии
     bho: बैक्टीरिया
     bn: ব্যাকটেরিয়া
@@ -286,8 +286,8 @@ dv_has_:
     dv: ބެކްޓީރިޔާ
     el: Βακτήριο
     en: bacteria
-    en-ca: Bacteria
-    en-gb: bacteria
+    en_ca: Bacteria
+    en_gb: bacteria
     eo: bakterioj
     es: bacteria
     et: bakterid
@@ -330,7 +330,7 @@ dv_has_:
     kaa: Bakteriya
     ki: Bacteria
     kk: Бактериялар
-    kk-cyrl: бактериялар
+    kk_cyrl: бактериялар
     kn: ಬ್ಯಾಕ್ಟೀರಿಯ
     ko: 세균
     ku: Bakterî
@@ -382,7 +382,7 @@ dv_has_:
     pnb: بیکٹیریا
     ps: باکټريا
     pt: bactéria
-    pt-br: Bactéria
+    pt_br: Bactéria
     qu: Añaki
     rmf: bakteeros
     ro: bacterie
@@ -417,7 +417,7 @@ dv_has_:
     tok: palisa lili
     tr: bakteri
     tt: бактерияләр
-    tt-cyrl: бактерияләр
+    tt_cyrl: бактерияләр
     udm: бактериос
     uk: бактерії
     ur: بیکٹیریا
@@ -436,14 +436,14 @@ dv_has_:
     yue: 細菌
     za: Sigin
     zh: 细菌
-    zh-cn: 细菌
-    zh-hans: 细菌
-    zh-hant: 细菌
-    zh-hk: 细菌
-    zh-mo: 细菌
+    zh_cn: 细菌
+    zh_hans: 细菌
+    zh_hant: 细菌
+    zh_hk: 细菌
+    zh_mo: 细菌
     zh-my: 细菌
-    zh-sg: 细菌
-    zh-tw: 细菌
+    zh_sg: 细菌
+    zh_tw: 细菌
     zu: Izinungwana
 ---
 # [[Bacteria]] 

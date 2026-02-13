@@ -133,7 +133,7 @@ dv_has_:
     ba: Тора
     bar: Tora
     be: Тора
-    be-tarask: Тора
+    be_tarask: Тора
     bew: Torat
     bg: Тора
     bn: তাওরাত
@@ -230,7 +230,7 @@ dv_has_:
     so: Towraad
     sq: Torah
     sr: Тора
-    sr-ec: Тора
+    sr_ec: Тора
     stq: Fieuw Bouke Mose
     sv: Torah
     sw: Torati

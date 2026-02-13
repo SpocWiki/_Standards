@@ -60,8 +60,8 @@ dv_has_:
     de: Hufeisenwürmer
     el: Φορωνίδια
     en: Phoronida
-    en-ca: Phoronid
-    en-gb: Phoronid
+    en_ca: Phoronid
+    en_gb: Phoronid
     eo: Foronidoj
     es: Phoronida
     et: Pärgussid
@@ -96,7 +96,7 @@ dv_has_:
     oc: Phoronida
     pl: Kryzelnice
     pt: Phoronida
-    pt-br: Phoronida
+    pt_br: Phoronida
     ro: Phoronida
     ru: форониды
     sk: Chytadlovité

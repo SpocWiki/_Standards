@@ -57,14 +57,14 @@ dv_has_:
   name_:
     ar: شركة أتاري
     arz: شركه اتارى
-    be-tarask: Atari, Inc.
+    be_tarask: Atari, Inc.
     ca: Atari, Inc.
     cs: Atari, Inc.
     de: Atari, Inc.
-    de-ch: Atari, Inc.
+    de_ch: Atari, Inc.
     en: Atari, Inc.
-    en-ca: Atari, Inc.
-    en-gb: Atari, Inc.
+    en_ca: Atari, Inc.
+    en_gb: Atari, Inc.
     es: Atari, Inc.
     fa: شرکت آتاری
     fi: Atari, Inc.
@@ -82,7 +82,7 @@ dv_has_:
     nb: Atari, Inc.
     nl: Atari, Inc.
     pt: Atari, Inc.
-    pt-br: Atari, Inc.
+    pt_br: Atari, Inc.
     ro: Atari, Inc.
     ru: Atari, Inc
     sl: Atari, Inc.

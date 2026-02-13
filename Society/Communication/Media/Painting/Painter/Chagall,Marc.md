@@ -314,7 +314,7 @@ dv_has_:
     ba: Шагал Марк Захарович
     bar: Marc Chagall
     be: Марк Шагал
-    be-tarask: Марк Шагал
+    be_tarask: Марк Шагал
     bg: Марк Шагал
     bn: মার্ক শাগাল
     br: Marc Chagall
@@ -326,11 +326,11 @@ dv_has_:
     da: Marc Chagall
     de: Marc Chagall
     de-at: Marc Chagall
-    de-ch: Marc Chagall
+    de_ch: Marc Chagall
     el: Μαρκ Σαγκάλ
     en: Marc Chagall
-    en-ca: Marc Chagall
-    en-gb: Marc Chagall
+    en_ca: Marc Chagall
+    en_gb: Marc Chagall
     eo: Marc Chagall
     es: Marc Chagall
     et: Marc Chagall
@@ -379,7 +379,7 @@ dv_has_:
     nap: Marc Chagall
     nb: Marc Chagall
     nds: Marc Chagall
-    nds-nl: Marc Chagall
+    nds_nl: Marc Chagall
     nl: Marc Chagall
     nn: Marc Chagall
     nrm: Marc Chagall
@@ -390,7 +390,7 @@ dv_has_:
     pms: Marc Chagall
     pnb: مارک شگال
     pt: Marc Chagall
-    pt-br: Marc Chagall
+    pt_br: Marc Chagall
     qu: Marc Chagall
     rm: Marc Chagall
     ro: Marc Chagall
@@ -404,8 +404,8 @@ dv_has_:
     sl: Marc Chagall
     sq: Marc Chagall
     sr: Марк Шагал
-    sr-ec: Марк Шагал
-    sr-el: Mark Šagal
+    sr_ec: Марк Шагал
+    sr_el: Mark Šagal
     sv: Marc Chagall
     sw: Marc Chagall
     th: มาร์ก ชากาล
@@ -423,12 +423,12 @@ dv_has_:
     yi: מארק שאגאל
     yue: 夏卡爾
     zh: 馬克·夏卡爾
-    zh-cn: 马克·夏卡尔
-    zh-hans: 马克·夏卡尔
-    zh-hant: 馬克·夏卡爾
-    zh-hk: 馬克·夏卡爾
-    zh-sg: 马克·夏卡尔
-    zh-tw: 馬克·夏卡爾
+    zh_cn: 马克·夏卡尔
+    zh_hans: 马克·夏卡尔
+    zh_hant: 馬克·夏卡爾
+    zh_hk: 馬克·夏卡爾
+    zh_sg: 马克·夏卡尔
+    zh_tw: 馬克·夏卡爾
     zu: Marc Chagall
 ---
 # [[Chagall,Marc]] 

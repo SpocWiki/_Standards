@@ -61,7 +61,7 @@ dv_has_:
     ar: حداثة أدبية
     ast: lliteratura modernista
     be: літаратура мадэрнізму
-    be-tarask: мадэрнісцкая літаратура
+    be_tarask: мадэрнісцкая літаратура
     bg: модернистична литература
     bn: সাহিত্যিক আধুনিকতা
     ca: modernisme anglosaxó
@@ -103,16 +103,16 @@ dv_has_:
     sl: moderna
     smj: ådåájggásasj girjálasjvuohta
     sr: савремена књижевност
-    sr-ec: савремена књижевност
-    sr-el: savremena književnost
+    sr_ec: савремена књижевност
+    sr_el: savremena književnost
     sv: modernism
     tr: edebî modernizm
     uk: модерністська література
     vi: văn học hiện đại
     zh: 现代主义文学
-    zh-hans: 现代主义文学
-    zh-hant: 現代主義文學
-    zh-hk: 現代主義文學
+    zh_hans: 现代主义文学
+    zh_hant: 現代主義文學
+    zh_hk: 現代主義文學
 ---
 # [[Modernist_Literature]] 
 

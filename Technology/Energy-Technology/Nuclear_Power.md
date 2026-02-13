@@ -183,7 +183,7 @@ dv_has_:
     azb: اتوم انرژیسی
     ba: ядро энергетикаһы
     be: ядзерная энергетыка
-    be-tarask: ядзерная энэргетыка
+    be_tarask: ядзерная энэргетыка
     bg: ядрена енергетика
     blk: နျူကလီးယားစွန်ꩻအာႏ
     bn: পারমাণবিক শক্তি
@@ -250,7 +250,7 @@ dv_has_:
     mn: цөмийн эрчим хүч
     mr: अणुऊर्जा
     ms: kuasa nuklear
-    ms-arab: کواس نوکليار
+    ms_arab: کواس نوکليار
     my: နျူကလီးယားစွမ်းအား
     nan: goân-chú-le̍k
     nb: kjerneenergi
@@ -307,14 +307,14 @@ dv_has_:
     yue: 核能
     zea: kernenergie
     zh: 核動力
-    zh-cn: 核动力
-    zh-hans: 核动力
-    zh-hant: 核子動力
-    zh-hk: 核動力
-    zh-mo: 核動力
+    zh_cn: 核动力
+    zh_hans: 核动力
+    zh_hant: 核子動力
+    zh_hk: 核動力
+    zh_mo: 核動力
     zh-my: 核动力
-    zh-sg: 核动力
-    zh-tw: 核子動力
+    zh_sg: 核动力
+    zh_tw: 核子動力
     zu: Amandla enuzi
 ---
 # [[Nuclear_Power]] 

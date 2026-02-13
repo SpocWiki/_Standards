@@ -86,7 +86,7 @@ dv_has_:
     ast: cóctel
     az: Kokteyl
     ban: Koktil
-    be-tarask: алькагольны кактэйль
+    be_tarask: алькагольны кактэйль
     bg: коктейл
     bs: Koktel
     ca: còctel
@@ -120,11 +120,11 @@ dv_has_:
     jv: Koktail
     ka: კოქტეილი
     kk: Коктейль
-    kk-arab: كوكتەيل
+    kk_arab: كوكتەيل
     kk-cn: كوكتەيل
-    kk-cyrl: Коктейль
+    kk_cyrl: Коктейль
     kk-kz: Коктейль
-    kk-latn: Kokteýlʹ
+    kk_latn: Kokteýlʹ
     kk-tr: Kokteýlʹ
     kl: cocktail
     kn: ಕಾಕ್ಟೇಲ್
@@ -152,8 +152,8 @@ dv_has_:
     sl: koktajl
     sq: koktell
     sr: коктел
-    sr-ec: Коктел
-    sr-el: Koktel
+    sr_ec: Коктел
+    sr_el: Koktel
     sv: cocktail
     ta: காக்டெய்ல்கள்
     th: ค็อกเทล
@@ -169,11 +169,11 @@ dv_has_:
     za: Laeuj Rienggaeq
     zh: 鸡尾酒
     zh-cn: 鸡尾酒
-    zh-hans: 鸡尾酒
-    zh-hant: 雞尾酒
-    zh-hk: 雞尾酒
-    zh-sg: 鸡尾酒
-    zh-tw: 雞尾酒
+    zh_hans: 鸡尾酒
+    zh_hant: 雞尾酒
+    zh_hk: 雞尾酒
+    zh_sg: 鸡尾酒
+    zh_tw: 雞尾酒
 ---
 # [[Cocktail]] 🍸 
 

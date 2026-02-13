@@ -107,7 +107,7 @@ dv_has_:
     bar: Pessach
     bcl: Paskuwa
     be: Песах
-    be-tarask: Пэсах
+    be_tarask: Пэсах
     bg: Пасха
     bn: পেসাখ
     br: Pesac'h
@@ -123,8 +123,8 @@ dv_has_:
     diq: Pesax
     el: Εβραϊκό Πάσχα
     en: Passover
-    en-ca: Passover
-    en-gb: Passover
+    en_ca: Passover
+    en_gb: Passover
     en-us: Passover
     eo: Pesaĥo
     es: Pésaj
@@ -168,7 +168,7 @@ dv_has_:
     pl: Pesach
     pnb: پیساخ
     pt: Pessach
-    pt-br: Pessach
+    pt_br: Pessach
     ro: Pesah
     ru: Песах
     sh: Pasha
@@ -176,8 +176,8 @@ dv_has_:
     sk: Pesach
     sl: pasha
     sr: Пасха
-    sr-ec: Пасха
-    sr-el: Pasha
+    sr_ec: Пасха
+    sr_el: Pasha
     sv: Pesach
     sw: Pasaka ya Kiyahudi
     ta: பாஸ்கா
@@ -195,12 +195,12 @@ dv_has_:
     yi: פסח
     yue: 逾越節
     zh: 逾越節
-    zh-cn: 逾越节
-    zh-hans: 逾越节
-    zh-hant: 逾越節
-    zh-hk: 逾越節
-    zh-sg: 逾越节
-    zh-tw: 逾越節
+    zh_cn: 逾越节
+    zh_hans: 逾越节
+    zh_hant: 逾越節
+    zh_hk: 逾越節
+    zh_sg: 逾越节
+    zh_tw: 逾越節
 ---
 # [[Passover]] 
 

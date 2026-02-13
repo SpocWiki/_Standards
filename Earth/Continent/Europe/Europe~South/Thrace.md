@@ -126,7 +126,7 @@ dv_has_:
     azb: تراکیا
     ba: Фракия
     be: Фракія
-    be-tarask: Тракія
+    be_tarask: Тракія
     bg: Тракия
     bn: থ্রেস
     br: Trakia
@@ -142,8 +142,8 @@ dv_has_:
     diq: Trakya
     el: Θράκη
     en: Thrace
-    en-ca: Thrace
-    en-gb: Thrace
+    en_ca: Thrace
+    en_gb: Thrace
     en-us: Thrace
     eo: Trakio
     es: Tracia
@@ -175,7 +175,7 @@ dv_has_:
     ko: 트라키아
     ko-kp: 트라키야
     ku: Trakya
-    ku-latn: Trakya
+    ku_latn: Trakya
     ky: Фракия
     la: Thracia
     lfn: Tracia
@@ -196,7 +196,7 @@ dv_has_:
     pl: Tracja
     pnt: Θράκη
     pt: Trácia
-    pt-br: Trácia
+    pt_br: Trácia
     ro: Tracia
     ru: Фракия
     sat: ᱛᱷᱨᱟᱥ

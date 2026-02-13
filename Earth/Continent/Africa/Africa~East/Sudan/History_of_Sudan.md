@@ -88,7 +88,7 @@ dv_has_:
     ar: تاريخ السودان
     ast: Historia de Sudán
     be: гісторыя Судана
-    be-tarask: гісторыя Судану
+    be_tarask: гісторыя Судану
     bg: История на Судан
     bn: সুদানের ইতিহাস
     ca: història del Sudan

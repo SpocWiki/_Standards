@@ -76,7 +76,7 @@ dv_has_:
     ar: أسرة الربائب
     ast: familia ensamblada
     az: tam ögey qohumluq
-    be-tarask: зводная сям’я
+    be_tarask: зводная сям’я
     bn: সৎপরিবার
     br: lezverc'h
     ca: família recomposada
@@ -119,7 +119,7 @@ dv_has_:
     th: ครอบครัวเลี้ยง
     tr: üvey aile
     tt: үги кыз
-    tt-cyrl: үги кыз
+    tt_cyrl: үги кыз
     uk: зведена сім'я
     ur: سوتیلا خاندان
     vec: fameja reconponesta
@@ -127,9 +127,9 @@ dv_has_:
     wa: ribasteye famile
     yue: 繼親
     zh: 繼親
-    zh-hans: 继亲
-    zh-hant: 繼親
-    zh-hk: 繼親
+    zh_hans: 继亲
+    zh_hant: 繼親
+    zh_hk: 繼親
 ---
 # [[Stepfamily]] 
 

@@ -127,7 +127,7 @@ dv_has_:
     az: Şarl Ermit
     azb: شارل هرمیت
     be: Шарль Эрміт
-    be-tarask: Шарль Эрміт
+    be_tarask: Шарль Эрміт
     bg: Шарл Ермит
     ca: Charles Hermite
     cs: Charles Hermite
@@ -164,15 +164,15 @@ dv_has_:
     pl: Charles Hermite
     pms: Charles Hermite
     pt: Charles Hermite
-    pt-br: Charles Hermite
+    pt_br: Charles Hermite
     ro: Charles Hermite
     ru: Шарль Эрмит
     sk: Charles Hermite
     sl: Charles Hermite
     sq: Charles Hermite
     sr: Шарл Ермит
-    sr-ec: Шарл Ермит
-    sr-el: Šarl Ermit
+    sr_ec: Шарл Ермит
+    sr_el: Šarl Ermit
     sv: Charles Hermite
     ta: ஹெர்மைட்
     th: ชาร์ล แอร์มิต
@@ -182,12 +182,12 @@ dv_has_:
     xmf: შარლ ერმიტი
     yue: 夏爾·埃爾米特
     zh: 夏爾·埃爾米特
-    zh-cn: 夏尔·埃尔米特
-    zh-hans: 夏尔·埃尔米特
-    zh-hant: 夏爾·埃爾米特
-    zh-hk: 夏爾·埃爾米特
-    zh-sg: 夏尔·埃尔米特
-    zh-tw: 夏爾·埃爾米特
+    zh_cn: 夏尔·埃尔米特
+    zh_hans: 夏尔·埃尔米特
+    zh_hant: 夏爾·埃爾米特
+    zh_hk: 夏爾·埃爾米特
+    zh_sg: 夏尔·埃尔米特
+    zh_tw: 夏爾·埃爾米特
 ---
 # [[Hermite,Charles]] 
 

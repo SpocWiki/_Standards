@@ -109,7 +109,7 @@ dv_has_:
     af: Eta Carinae
     ar: إيتا الجؤجؤ
     ast: Eta Carinae
-    be-tarask: Эта Кіля
+    be_tarask: Эта Кіля
     bg: Ета Кил
     bs: Eta Carinae
     ca: Eta de la Quilla
@@ -149,7 +149,7 @@ dv_has_:
     sk: Eta Carinae
     sl: Eta Gredlja
     sr: Ета Прамца
-    sr-ec: Ета Прамца
+    sr_ec: Ета Прамца
     sv: Eta Carinae
     th: ดาวอีตากระดูกงูเรือ
     tr: Eta Carinae

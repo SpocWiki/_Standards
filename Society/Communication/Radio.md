@@ -150,7 +150,7 @@ dv_has_:
     bar: Radio
     bcl: Radyo
     be: радыё
-    be-tarask: радыё
+    be_tarask: радыё
     bg: Радио
     bn: বেতার
     br: Skingomz
@@ -159,7 +159,7 @@ dv_has_:
     ckb: ڕادیۆ
     cr: ᑳᔭᒦᒪᑲᐦᒡ
     crh: Radio
-    crh-latn: Radio
+    crh_latn: Radio
     cs: radiokomunikace
     csb: Radio
     cv: Радио
@@ -210,7 +210,7 @@ dv_has_:
     kaa: Radio
     kbp: Nimasi fɛyɩ kaŋgalafu heyinau
     kk: Радио
-    kk-cyrl: радио
+    kk_cyrl: радио
     km: វិទ្យុ
     kn: ರೇಡಿಯೋ
     ko: 라디오
@@ -252,7 +252,7 @@ dv_has_:
     pnb: ریڈیو
     ps: راډيو
     pt: rádio
-    pt-br: rádio
+    pt_br: rádio
     qu: Ankichiy
     ro: radio
     roa-tara: Radio
@@ -270,8 +270,8 @@ dv_has_:
     sm: Letiō
     sq: Radio
     sr: радио
-    sr-ec: радио
-    sr-el: radio
+    sr_ec: радио
+    sr_el: radio
     stq: Radio
     su: Radio
     sv: radio
@@ -285,7 +285,7 @@ dv_has_:
     tly: Rədio
     tr: radyo
     tt: радио
-    tt-cyrl: радио
+    tt_cyrl: радио
     udm: радио
     uk: радіо
     ur: مشعہ
@@ -303,14 +303,14 @@ dv_has_:
     yi: ראדיא
     yue: 無綫電
     zh: 無線電
-    zh-cn: 无线电
-    zh-hans: 无线电
-    zh-hant: 無線電
-    zh-hk: 無線電
-    zh-mo: 無線電
+    zh_cn: 无线电
+    zh_hans: 无线电
+    zh_hant: 無線電
+    zh_hk: 無線電
+    zh_mo: 無線電
     zh-my: 无线电
-    zh-sg: 无线电
-    zh-tw: 無線電
+    zh_sg: 无线电
+    zh_tw: 無線電
     zu: Umsakazo
 ---
 ## #has_/text_of_/abstract 

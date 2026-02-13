@@ -218,7 +218,7 @@ dv_has_:
     ba: Оскар Уайльд
     bcl: Oscar Wilde
     be: Оскар Уайльд
-    be-tarask: Оскар Ўайлд
+    be_tarask: Оскар Ўайлд
     bg: Оскар Уайлд
     bjn: Oscar Wilde
     bn: অস্কার ওয়াইল্ড
@@ -226,7 +226,7 @@ dv_has_:
     br: Oscar Wilde
     bs: Oscar Wilde
     ca: Oscar Wilde
-    cbk-zam: Oscar Wilde
+    cbk_zam: Oscar Wilde
     ceb: Oscar Wilde
     ckb: ئۆسکار وایڵد
     crh: Oşcar Wilde
@@ -240,8 +240,8 @@ dv_has_:
     el: Όσκαρ Ουάιλντ
     eml: Oscar Wilde
     en: Oscar Wilde
-    en-ca: Oscar Wilde
-    en-gb: Oscar Wilde
+    en_ca: Oscar Wilde
+    en_gb: Oscar Wilde
     eo: Oscar Wilde
     es: Oscar Wilde
     et: Oscar Wilde
@@ -297,7 +297,7 @@ dv_has_:
     myv: Оскар Фингал О’Флаэрти Уиллс Уайльд
     nan: Oscar Wilde
     nb: Oscar Wilde
-    nds-nl: Oscar Wilde
+    nds_nl: Oscar Wilde
     nl: Oscar Wilde
     nn: Oscar Wilde
     oc: Oscar Wilde
@@ -309,7 +309,7 @@ dv_has_:
     pms: Oscar Wilde
     pnb: آسکر وائلڈ
     pt: Oscar Wilde
-    pt-br: Oscar Wilde
+    pt_br: Oscar Wilde
     qu: Oscar Wilde
     rm: Oscar Wilde
     ro: Oscar Wilde
@@ -345,7 +345,7 @@ dv_has_:
     xmf: ოსკარ უაილდი
     yue: Oscar Wilde
     zh: 奥斯卡·王尔德
-    zh-cn: 奧斯卡·王爾德
+    zh_cn: 奧斯卡·王爾德
 ---
 # [[Wilde,Oscar]] 
 

@@ -74,7 +74,7 @@ dv_has_:
     az: Evdikotlar
     bcl: Eudicots
     be: Eudicots
-    be-tarask: эўдыкоты
+    be_tarask: эўдыкоты
     bg: еудикоти
     bho: यूडिकॉट्स
     bn: সুদ্বিবীজপত্রী
@@ -122,7 +122,7 @@ dv_has_:
     oc: Eudicotiledonèas
     pl: Rosopsida
     pt: eudicotiledôneas
-    pt-br: eudicotiledôneas
+    pt_br: eudicotiledôneas
     qu: Kimsa khata sisayuq
     ro: Eudicote
     ru: эвдикоты
@@ -148,12 +148,12 @@ dv_has_:
     wuu: 真双子叶植物
     yue: 真孖葉植物
     zh: 真双子叶植物
-    zh-cn: 真双子叶植物
-    zh-hans: 真双子叶植物
-    zh-hant: 真雙子葉植物
-    zh-hk: 真雙子葉植物
-    zh-sg: 真双子叶植物
-    zh-tw: 真雙子葉植物
+    zh_cn: 真双子叶植物
+    zh_hans: 真双子叶植物
+    zh_hant: 真雙子葉植物
+    zh_hk: 真雙子葉植物
+    zh_sg: 真双子叶植物
+    zh_tw: 真雙子葉植物
 ---
 # [[Eudicots]]
 

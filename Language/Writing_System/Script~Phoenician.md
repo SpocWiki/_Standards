@@ -155,7 +155,7 @@ dv_has_:
     ba: Финикия яҙыуы
     bar: Phenizisches Alphabet
     be: фінікійскае пісьмо
-    be-tarask: фінікійскае пісьмо
+    be_tarask: фінікійскае пісьмо
     bg: Финикийска писменост
     bjn: Abjad Pinisia
     bn: ফিনিশীয় লিপি

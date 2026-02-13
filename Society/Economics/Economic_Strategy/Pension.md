@@ -6,7 +6,7 @@ dv_has_:
     ar: راتب التقاعد
     az: təqaüd
     be: пенсія
-    be-tarask: пэнсія
+    be_tarask: пэнсія
     bg: пенсия
     bn: অবসরভাতা
     ca: pensió
@@ -62,8 +62,8 @@ dv_has_:
     smn: iäláttâh
     sms: jeältõk
     sr: пензија
-    sr-ec: пензија
-    sr-el: penzija
+    sr_ec: пензија
+    sr_el: penzija
     sv: pension
     szl: Pynzyjo
     te: పింఛను
@@ -75,14 +75,14 @@ dv_has_:
     uz: Pensiyalar
     yue: 退休金
     zh: 退休金
-    zh-cn: 退休金
-    zh-hans: 退休金
-    zh-hant: 退休金
-    zh-hk: 退休金
-    zh-mo: 退休金
+    zh_cn: 退休金
+    zh_hans: 退休金
+    zh_hant: 退休金
+    zh_hk: 退休金
+    zh_mo: 退休金
     zh-my: 退休金
-    zh-sg: 退休金
-    zh-tw: 退休金
+    zh_sg: 退休金
+    zh_tw: 退休金
 aliases:
 - alderspensjon
 - ealáhat

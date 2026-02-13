@@ -38,7 +38,7 @@ dv_has_:
     da: 'The magical number seven plus or minus two: some limits on our capacity for processing information'
     de: Millersche Zahl
     en: Miller's law
-    en-gb: The Magical Number Seven, Plus or Minus Two
+    en_gb: The Magical Number Seven, Plus or Minus Two
     es: The Magical Number Seven, Plus or Minus Two
     eu: Zazpi zenbaki magikoa, gehi edo ken bi
     fa: عدد جادویی هفت، به علاوه یا منهای دو
@@ -57,9 +57,9 @@ dv_has_:
     vi: The Magical Number Seven, Plus or Minus Two
     yue: 神奇嘅數字：7±2
     zh: 神奇的数字：7±2
-    zh-hans: 神奇的数字：7±2
-    zh-hant: 神奇的數字：7±2
-    zh-hk: 神奇的數字：7±2
+    zh_hans: 神奇的数字：7±2
+    zh_hant: 神奇的數字：7±2
+    zh_hk: 神奇的數字：7±2
 ---
 # [[Magical_Number_Seven]] 
 

@@ -122,7 +122,7 @@ dv_has_:
     ast: Hiparco de Nicea
     az: Hipparkos
     be: Гіпарх
-    be-tarask: Гіпарх
+    be_tarask: Гіпарх
     bg: Хипарх
     bn: হিপারকাস
     ca: Hiparc de Nicea
@@ -132,8 +132,8 @@ dv_has_:
     de: Hipparchos
     el: Ίππαρχος ο Ρόδιος
     en: Hipparchus
-    en-ca: Hipparchus
-    en-gb: Hipparchus
+    en_ca: Hipparchus
+    en_gb: Hipparchus
     eo: Hiparko
     es: Hiparco de Nicea
     et: Hipparchos
@@ -173,7 +173,7 @@ dv_has_:
     pnb: ہپارخس
     ps: هېپارخوس
     pt: Hiparco
-    pt-br: Hiparco
+    pt_br: Hiparco
     ro: Hiparh
     ru: Гиппарх
     scn: Ipparcu
@@ -183,8 +183,8 @@ dv_has_:
     sl: Hiparh
     sq: Hipparchus
     sr: Хипарх са Родоса
-    sr-ec: Хипарх са Родоса
-    sr-el: Hiparh sa Rodosa
+    sr_ec: Хипарх са Родоса
+    sr_el: Hiparh sa Rodosa
     sv: Hipparchos
     sw: Hipparchos wa Nikaia
     ta: ஹிப்பார்க்கஸ்
@@ -201,12 +201,12 @@ dv_has_:
     xmf: ჰიპარქე
     yue: 喜帕恰斯
     zh: 依巴谷
-    zh-cn: 依巴谷
-    zh-hans: 依巴谷
-    zh-hant: 依巴谷
-    zh-hk: 喜帕恰斯
-    zh-sg: 喜帕恰斯
-    zh-tw: 喜帕恰斯
+    zh_cn: 依巴谷
+    zh_hans: 依巴谷
+    zh_hant: 依巴谷
+    zh_hk: 喜帕恰斯
+    zh_sg: 喜帕恰斯
+    zh_tw: 喜帕恰斯
 ---
 # [[Hipparchus]] 
 

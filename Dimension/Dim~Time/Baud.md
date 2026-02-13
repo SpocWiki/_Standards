@@ -47,7 +47,7 @@ dv_has_:
     ast: Baudiu
     ban: Baud (satuan)
     be: бод
-    be-tarask: бод
+    be_tarask: бод
     bg: Бод
     ca: baud
     cs: Baud
@@ -71,11 +71,11 @@ dv_has_:
     it: baud
     ja: ボー
     kk: Бод
-    kk-arab: بود
+    kk_arab: بود
     kk-cn: بود
-    kk-cyrl: Бод
+    kk_cyrl: Бод
     kk-kz: Бод
-    kk-latn: Bod
+    kk_latn: Bod
     kk-tr: Bod
     ko: 보
     ky: Бод
@@ -87,14 +87,14 @@ dv_has_:
     oc: Baud
     pl: Bod
     pt: baud
-    pt-br: baud
+    pt_br: baud
     ro: baud
     ru: бод
     sk: Baud
     sl: baud
     sr: Бод
-    sr-ec: Бод
-    sr-el: Bod
+    sr_ec: Бод
+    sr_el: Bod
     sv: baud
     ta: போட்டலகு
     th: บอด
@@ -103,12 +103,12 @@ dv_has_:
     uz: Bod (birlik)
     yue: 鮑率
     zh: 波特率
-    zh-cn: 波特率
-    zh-hans: 波特率
-    zh-hant: 波特率
-    zh-hk: 鮑率
-    zh-sg: 波特率
-    zh-tw: 鮑率
+    zh_cn: 波特率
+    zh_hans: 波特率
+    zh_hant: 波特率
+    zh_hk: 鮑率
+    zh_sg: 波特率
+    zh_tw: 鮑率
 ---
 # [[Baud]] 
 

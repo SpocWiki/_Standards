@@ -109,7 +109,7 @@ dv_has_:
     os: Хуымы мыст
     pl: Karczowniki
     pt: Arvicolinae
-    pt-br: Arvicolinae
+    pt_br: Arvicolinae
     ro: Arvicoline
     ru: Полёвковые
     sl: voluharice
@@ -129,11 +129,11 @@ dv_has_:
     yue: 田鼠
     za: Nounaz
     zh: 田鼠亚科
-    zh-cn: 田鼠亚科
-    zh-hans: 田鼠亚科
-    zh-hant: 田鼠亞科
-    zh-hk: 田鼠
-    zh-tw: 田鼠亞科
+    zh_cn: 田鼠亚科
+    zh_hans: 田鼠亚科
+    zh_hant: 田鼠亞科
+    zh_hk: 田鼠
+    zh_tw: 田鼠亞科
 ---
 # [[Arvicolinae]] 
 

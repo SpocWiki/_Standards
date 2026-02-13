@@ -114,7 +114,7 @@ dv_has_:
     az: Su elektroenergetikası
     bcl: hidroelektrisidad
     be: гідраэлектрычнасць
-    be-tarask: гідраэлектрычная энэргія
+    be_tarask: гідраэлектрычная энэргія
     bg: хидроенергетика
     bn: জলবিদ্যুৎ
     bs: hidroelektrična energija
@@ -125,8 +125,8 @@ dv_has_:
     de: Hydroelektrizität
     el: υδροηλεκτρική ενέργεια
     en: hydroelectricity
-    en-ca: hydroelectricity
-    en-gb: hydroelectricity
+    en_ca: hydroelectricity
+    en_gb: hydroelectricity
     eo: hidroelektro
     es: energía hidroeléctrica
     et: hüdroelektrienergia
@@ -205,9 +205,9 @@ dv_has_:
     yi: היידרא-קראפט
     yue: 水力發電
     zh: 水力發電
-    zh-hans: 水力发电
-    zh-hant: 水力發電
-    zh-tw: 水力發電
+    zh_hans: 水力发电
+    zh_hant: 水力發電
+    zh_tw: 水力發電
 ---
 # [[Hydroelectricity]] 
 

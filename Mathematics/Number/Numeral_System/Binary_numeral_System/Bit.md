@@ -85,7 +85,7 @@ dv_has_:
     az: bit
     azb: بیت
     be: біт
-    be-tarask: біт
+    be_tarask: біт
     bg: бит
     bn: বিট
     br: bit
@@ -96,11 +96,11 @@ dv_has_:
     cy: bit
     da: bit
     de: Bit
-    de-ch: Bit
+    de_ch: Bit
     el: δυαδικό ψηφίο
     en: bit
-    en-ca: bit
-    en-gb: bit
+    en_ca: bit
+    en_gb: bit
     eo: bito
     es: bit
     et: bitt
@@ -158,7 +158,7 @@ dv_has_:
     pnb: بٹ
     ps: بيټ
     pt: bit
-    pt-br: bit
+    pt_br: bit
     ro: bit
     ru: бит
     scn: bit
@@ -169,7 +169,7 @@ dv_has_:
     sl: bit
     sq: bit
     sr: бит
-    sr-ec: бит
+    sr_ec: бит
     sv: bit
     sw: biti
     ta: இருமம்
@@ -178,7 +178,7 @@ dv_has_:
     th: บิต
     tr: bit
     tt: бит
-    tt-cyrl: бит
+    tt_cyrl: бит
     uk: біт
     ur: تثم
     uz: Bit
@@ -188,9 +188,9 @@ dv_has_:
     yi: ביט
     yue: 位元
     zh: 位元
-    zh-cn: 比特
-    zh-hans: 比特
-    zh-tw: 位元
+    zh_cn: 比特
+    zh_hans: 比特
+    zh_tw: 位元
     zu: isincwana
 ---
 # [[Bit]] 

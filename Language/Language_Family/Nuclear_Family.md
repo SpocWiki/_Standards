@@ -74,7 +74,7 @@ dv_has_:
     af: gesin
     ar: أسرة نواة
     ast: Familia nuclear
-    be-tarask: ядзерная сям’я
+    be_tarask: ядзерная сям’я
     bho: एकल परिवार
     bn: অণু পরিবার
     ca: família nuclear
@@ -113,7 +113,7 @@ dv_has_:
     nl: gezin
     pl: Rodzina nuklearna
     pt: família nuclear
-    pt-br: família nuclear
+    pt_br: família nuclear
     ru: нуклеарная семья
     sk: nukleárna rodina
     sl: jedrna družina
@@ -129,9 +129,9 @@ dv_has_:
     wuu: 核心家庭
     yue: 核心家庭
     zh: 核心家庭
-    zh-hans: 核心家庭
-    zh-hant: 核心家庭
-    zh-hk: 核心家庭
+    zh_hans: 核心家庭
+    zh_hant: 核心家庭
+    zh_hk: 核心家庭
 ---
 # [[Nuclear_Family]] 
 

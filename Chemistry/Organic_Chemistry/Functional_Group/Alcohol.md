@@ -169,7 +169,7 @@ dv_has_:
     ba: спирт
     bcl: alkohol
     be: спірты
-    be-tarask: сьпірт
+    be_tarask: сьпірт
     bg: алкохол
     bho: अल्कोहल
     bn: অ্যালকোহল
@@ -183,11 +183,11 @@ dv_has_:
     da: alkohol
     dag: dam
     de: Alkohol
-    de-ch: Alkohole
+    de_ch: Alkohole
     el: αλκοόλες
     en: alcohols
-    en-ca: alcohol
-    en-gb: alcohol
+    en_ca: alcohol
+    en_gb: alcohol
     eo: alkoholo
     es: alcohol
     et: alkohol
@@ -264,7 +264,7 @@ dv_has_:
     pnb: الکحل
     ps: الکول
     pt: álcool
-    pt-br: álcool
+    pt_br: álcool
     qu: alkul
     ro: alcool
     ru: спирты
@@ -279,7 +279,7 @@ dv_has_:
     sl: alkohol
     sq: alkoholet
     sr: алкохол
-    sr-ec: алкохол
+    sr_ec: алкохол
     su: alkohol
     sv: alkoholer
     sw: alkoholi
@@ -302,14 +302,14 @@ dv_has_:
     yo: ọtí
     yue: 酒精
     zh: 醇
-    zh-cn: 醇
-    zh-hans: 醇
-    zh-hant: 醇
-    zh-hk: 醇
-    zh-mo: 醇
+    zh_cn: 醇
+    zh_hans: 醇
+    zh_hant: 醇
+    zh_hk: 醇
+    zh_mo: 醇
     zh-my: 醇
-    zh-sg: 醇
-    zh-tw: 醇
+    zh_sg: 醇
+    zh_tw: 醇
 dv_is_similar_to: '[[../Thiol]]'
 dv_has_formula_structural: R−OH
 dv_is_same_as:

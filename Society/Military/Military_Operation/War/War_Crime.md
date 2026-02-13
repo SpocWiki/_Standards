@@ -139,7 +139,7 @@ dv_has_:
     az: müharibə cinayəti
     azb: ساواش جینایتی
     be: ваеннае злачынства
-    be-tarask: ваеннае злачынства
+    be_tarask: ваеннае злачынства
     bg: военно престъпление
     bn: যুদ্ধাপরাধ
     br: torfed brezel
@@ -179,15 +179,15 @@ dv_has_:
     ja: 戦争犯罪
     ka: სამხედრო დანაშაული
     kk: Әскери қылмыскерлер
-    kk-arab: اسكەرىي قىلمىسكەرلەر
+    kk_arab: اسكەرىي قىلمىسكەرلەر
     kk-cn: اسكەرىي قىلمىسكەرلەر
-    kk-cyrl: Әскери қылмыскерлер
+    kk_cyrl: Әскери қылмыскерлер
     kk-kz: Әскери қылмыскерлер
-    kk-latn: Äskerï qılmıskerler
+    kk_latn: Äskerï qılmıskerler
     kk-tr: Äskerï qılmıskerler
     ko: 전쟁범죄
     ku: tawana şer
-    ku-latn: tawana şer
+    ku_latn: tawana şer
     ky: согуш кылмышы
     la: belli scelus
     lb: Krichsverbriechen
@@ -197,7 +197,7 @@ dv_has_:
     mk: Воено злосторство
     ml: യുദ്ധക്കുറ്റം
     ms: jenayah perang
-    ms-arab: جنايه ڤرڠ
+    ms_arab: جنايه ڤرڠ
     my: စစ်ရာဇဝတ်မှု
     nb: krigsforbrytelse
     nl: oorlogsmisdrijf
@@ -217,8 +217,8 @@ dv_has_:
     smn: suátirikos
     sq: Krimet e luftës
     sr: ратни злочин
-    sr-ec: Ратни злочини
-    sr-el: Ratni zločini
+    sr_ec: Ратни злочини
+    sr_el: Ratni zločini
     sv: krigsbrott
     syl: ꠎꠋꠉꠖꠥꠡꠤ
     szl: zbrodnia wojynnŏ
@@ -233,12 +233,12 @@ dv_has_:
     yi: מלחמה פאַרברעכן
     yue: 戰爭罪
     zh: 戰爭罪
-    zh-cn: 战争罪
-    zh-hans: 战争罪
-    zh-hant: 戰爭罪
-    zh-hk: 戰爭罪
-    zh-sg: 战争罪
-    zh-tw: 戰爭罪
+    zh_cn: 战争罪
+    zh_hans: 战争罪
+    zh_hant: 戰爭罪
+    zh_hk: 戰爭罪
+    zh_sg: 战争罪
+    zh_tw: 戰爭罪
 ---
 # [[War_Crime]] 
 

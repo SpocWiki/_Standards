@@ -80,7 +80,7 @@ dv_has_:
     arz: حرب خنادق
     ast: guerra de trincheres
     be: акоп
-    be-tarask: пазыцыйная вайна
+    be_tarask: пазыцыйная вайна
     bg: Окопна война
     br: Brezel ar fozioù-difenn
     ca: guerra de trinxeres
@@ -138,12 +138,12 @@ dv_has_:
     vi: chiến tranh giao thông hào
     yue: 塹壕戰
     zh: 堑壕战
-    zh-cn: 堑壕战
-    zh-hans: 堑壕战
-    zh-hant: 塹壕戰
-    zh-hk: 塹壕戰
-    zh-sg: 堑壕战
-    zh-tw: 塹壕戰
+    zh_cn: 堑壕战
+    zh_hans: 堑壕战
+    zh_hant: 塹壕戰
+    zh_hk: 塹壕戰
+    zh_sg: 堑壕战
+    zh_tw: 塹壕戰
 ---
 # [[Trench_warfare]] 
 

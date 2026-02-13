@@ -84,7 +84,7 @@ dv_has_:
     ast: Agroquímica
     az: aqrokimya
     be: аграхімія
-    be-tarask: аграхімія
+    be_tarask: аграхімія
     bg: Агрохимия
     bn: কৃষি রসায়ন
     ca: química agrícola
@@ -136,7 +136,7 @@ dv_has_:
     xmf: აგროქიმია
     yue: 農業化學
     zh: 農業化學
-    zh-tw: 農業化學
+    zh_tw: 農業化學
 ---
 # [[chemic~Agriculture]] 
 

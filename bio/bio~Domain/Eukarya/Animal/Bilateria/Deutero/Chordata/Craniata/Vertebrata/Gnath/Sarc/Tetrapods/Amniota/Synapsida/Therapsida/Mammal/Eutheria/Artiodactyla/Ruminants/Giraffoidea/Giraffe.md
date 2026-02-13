@@ -311,7 +311,7 @@ dv_has_:
     azb: زرافه
     ba: Жираф
     be: паўночны жыраф
-    be-tarask: паўночны жырафа
+    be_tarask: паўночны жырафа
     bg: северен жираф
     bm: Ntilen
     bn: উত্তর আফ্রিকান জিরাফ
@@ -330,13 +330,13 @@ dv_has_:
     cy: Jiráff
     da: nordlig giraf
     de: Giraffa camelopardalis
-    de-ch: Nördliche Giraffe
+    de_ch: Nördliche Giraffe
     din: Miir
     diq: Zırafa
     el: Βόρεια καμηλοπάρδαλη
     en: giraffe
-    en-ca: giraffe
-    en-gb: giraffe
+    en_ca: giraffe
+    en_gb: giraffe
     en-us: giraffe
     eo: Norda ĝirafo
     es: Giraffa camelopardalis
@@ -410,7 +410,7 @@ dv_has_:
     pnb: زرافہ
     ps: زرافه
     pt: Girafa do norte
-    pt-br: Girafa
+    pt_br: Girafa
     qu: Hirapha
     ro: Giraffa camelopardalis
     ru: жираф
@@ -462,9 +462,9 @@ dv_has_:
     yue: 努比亞長頸鹿
     zgh: ⴰⵎⴷⵖ
     zh: 努比亚长颈鹿
-    zh-cn: 努比亚长颈鹿
-    zh-hans: 努比亚长颈鹿
-    zh-tw: 努比亞長頸鹿
+    zh_cn: 努比亚长颈鹿
+    zh_hans: 努比亚长颈鹿
+    zh_tw: 努比亞長頸鹿
     zu: Indlulamithi
 ---
 # [[Giraffe]]

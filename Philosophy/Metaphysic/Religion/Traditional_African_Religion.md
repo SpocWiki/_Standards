@@ -70,7 +70,7 @@ dv_has_:
     ar: الديانات الأفريقية التقليدية
     arz: الديانات الافريقيه التقليديه
     ast: Relixones tradicionales africanes
-    be-tarask: традыцыйныя афрыканскія рэлігіі
+    be_tarask: традыцыйныя афрыканскія рэлігіі
     ca: religions africanes tradicionals
     cs: Tradiční africká náboženství
     cy: crefydd draddodiadol Affrica
@@ -78,8 +78,8 @@ dv_has_:
     de: Afrikanische Religionen
     el: Παραδοσιακές αφρικανικές θρησκείες
     en: traditional African religion
-    en-ca: traditional African religion
-    en-gb: traditional African religion
+    en_ca: traditional African religion
+    en_gb: traditional African religion
     eo: Afrikaj religioj
     es: Religiones tradicionales africanas
     eu: Afrikako erlijio tradizionalak
@@ -118,9 +118,9 @@ dv_has_:
     uk: Африканські традиційні релігії
     ur: west africa religious tradition
     zh: 傳統非洲宗教
-    zh-cn: 非洲传统宗教
-    zh-hans: 非洲传统信仰
-    zh-hant: 非洲傳統宗教
+    zh_cn: 非洲传统宗教
+    zh_hans: 非洲传统信仰
+    zh_hant: 非洲傳統宗教
 ---
 # [[Traditional_African_Religion]] 
 

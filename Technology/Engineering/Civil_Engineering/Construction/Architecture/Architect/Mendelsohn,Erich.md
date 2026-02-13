@@ -90,7 +90,7 @@ dv_has_:
     ast: Erich Mendelsohn
     azb: اریک مندلسون
     ba: Эрих Мендельсон
-    be-tarask: Эрых Мэндэльсан
+    be_tarask: Эрых Мэндэльсан
     bg: Ерих Менделсон
     ca: Erich Mendelsohn
     cs: Erich Mendelsohn
@@ -124,23 +124,23 @@ dv_has_:
     oc: Erich Mendelsohn
     pl: Erich Mendelsohn
     pt: Erich Mendelsohn
-    pt-br: Erich Mendelsohn
+    pt_br: Erich Mendelsohn
     ru: Эрих Мендельсон
     sc: Erich Mendelsohn
     sk: Erich Mendelsohn
     sl: Erich Mendelsohn
     sq: Erich Mendelsohn
     sr: Ерих Менделсон
-    sr-ec: Ерих Менделсон
+    sr_ec: Ерих Менделсон
     sv: Erich Mendelsohn
     uk: Еріх Мендельсон
     vi: Erich Mendelsohn
     war: Erich Mendelsohn
     yue: 埃瑞許・孟德爾松
     zh: 埃里克·门德尔松
-    zh-cn: 埃里希·门德尔松
-    zh-hans: 埃里希·门德尔松
-    zh-hant: 埃瑞許・孟德爾松
+    zh_cn: 埃里希·门德尔松
+    zh_hans: 埃里希·门德尔松
+    zh_hant: 埃瑞許・孟德爾松
 ---
 # [[Mendelsohn,Erich]] 
 

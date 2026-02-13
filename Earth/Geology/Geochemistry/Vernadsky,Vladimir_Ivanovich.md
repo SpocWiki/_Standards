@@ -205,7 +205,7 @@ dv_has_:
     az: Vladimir Vernadski
     ba: Вернадский Владимир Иванович
     be: Уладзімір Іванавіч Вярнадскі
-    be-tarask: Уладзімер Вярнадзкі
+    be_tarask: Уладзімер Вярнадзкі
     bg: Владимир Вернадски
     bn: ভ্লাদিমির ভার্নাডস্কি
     ca: Vladímir Vernadski
@@ -215,8 +215,8 @@ dv_has_:
     de: Wladimir Iwanowitsch Wernadski
     el: Βλαντίμιρ Βερνάντσκι
     en: Vladimir Vernadsky
-    en-ca: Vladimir Ivanovich Vernadsky
-    en-gb: Vladimir Ivanovich Vernadsky
+    en_ca: Vladimir Ivanovich Vernadsky
+    en_gb: Vladimir Ivanovich Vernadsky
     eo: Vladimir Vernadskij
     es: Vladímir Ivanovich Vernadski
     et: Vladimir Vernadski
@@ -236,11 +236,11 @@ dv_has_:
     ja: ウラジミール・ベルナドスキー
     ka: ვლადიმერ ვერნადსკი
     kk: Владимир Иванович Вернадский
-    kk-arab: ۆلادىيمىير ىيۆانوۆىيتش ۆەرنادسكىيي
+    kk_arab: ۆلادىيمىير ىيۆانوۆىيتش ۆەرنادسكىيي
     kk-cn: ۆلادىيمىير ىيۆانوۆىيتش ۆەرنادسكىيي
-    kk-cyrl: Владимир Иванович Вернадский
+    kk_cyrl: Владимир Иванович Вернадский
     kk-kz: Владимир Иванович Вернадский
-    kk-latn: Vladïmïr Ïvanovïç Vernadskïý
+    kk_latn: Vladïmïr Ïvanovïç Vernadskïý
     kk-tr: Vladïmïr Ïvanovïç Vernadskïý
     ko: 블라디미르 베르나츠키
     ky: Вернадский, Владимир Иванович
@@ -256,7 +256,7 @@ dv_has_:
     os: Владимир Вернадский
     pl: Władimir Iwanowicz Wiernadski
     pt: Vladimir Vernadsky
-    pt-br: Vladimir Vernadsky
+    pt_br: Vladimir Vernadsky
     ro: Volodîmîr Vernadskîi
     ru: Владимир Иванович Вернадский
     sah: Вернадскай Владимир Иванович
@@ -264,8 +264,8 @@ dv_has_:
     sl: Vladimir Vernadski
     sq: Vladimir Ivanovich Vernadsky
     sr: Владимир Вернадски
-    sr-ec: Владимир Вернадски
-    sr-el: Vladimir Vernadski
+    sr_ec: Владимир Вернадски
+    sr_el: Vladimir Vernadski
     sv: Vladimir Vernadskij
     sw: Vladimir Vernadsky
     ta: வெர்னாட்ஸ்கி
@@ -277,9 +277,9 @@ dv_has_:
     vi: Vladimir Vernadsky
     yue: 弗拉基米爾維爾納茨基
     zh: 弗拉基米尔·伊万诺维奇·韦尔纳茨基
-    zh-cn: 弗拉基米尔·韦尔纳茨基
-    zh-hans: 弗拉基米尔·韦尔纳茨基
-    zh-hant: 弗拉基米爾·韋爾納茨基
+    zh_cn: 弗拉基米尔·韦尔纳茨基
+    zh_hans: 弗拉基米尔·韦尔纳茨基
+    zh_hant: 弗拉基米爾·韋爾納茨基
 ---
 # [[Vernadsky,Vladimir_Ivanovich]] 
 

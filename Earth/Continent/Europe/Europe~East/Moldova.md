@@ -67,7 +67,7 @@ dv_has_:
     ab: Молдова
     ace: Moldova
     ady: Молдавие
-    aeb-arab: مولداڥيا
+    aeb_arab: مولداڥيا
     af: Moldowa
     am: ሞልዶቫ
     ami: Moldova
@@ -90,7 +90,7 @@ dv_has_:
     bar: Moldàwien
     bcl: Moldoba
     be: Малдова
-    be-tarask: Малдова
+    be_tarask: Малдова
     bew: Moldawi
     bg: Молдова
     bho: मोल्डोवा
@@ -103,7 +103,7 @@ dv_has_:
     bs: Moldavija
     bxr: Молдав
     ca: Moldàvia
-    cbk-zam: Moldavia
+    cbk_zam: Moldavia
     cdo: Moldova
     ce: Молдави
     ceb: Moldova
@@ -111,7 +111,7 @@ dv_has_:
     ckb: مۆلدۆڤا
     co: Moldavia
     crh: Moldova
-    crh-latn: Moldova
+    crh_latn: Moldova
     crh-ro: Moldova
     cs: Moldavsko
     csb: Mòłdawskô
@@ -122,7 +122,7 @@ dv_has_:
     dag: Moldavia
     de: Moldau
     de-at: Republik Moldau
-    de-ch: Republik Moldova
+    de_ch: Republik Moldova
     diq: Moldova
     dsb: Moldawska
     dty: मोल्दोभा
@@ -131,8 +131,8 @@ dv_has_:
     el: Μολδαβία
     eml: Muldàvi
     en: Moldova
-    en-ca: Moldova
-    en-gb: Moldova
+    en_ca: Moldova
+    en_gb: Moldova
     en-us: Republica Moldova
     eo: Moldavio
     es: Moldavia
@@ -158,7 +158,7 @@ dv_has_:
     gn: Moyndávia
     gom: मोल्दोव्हा
     gom-deva: मोल्दोव्हा
-    gom-latn: Moldova
+    gom_latn: Moldova
     got: "\U0001033C\U0001033F\U0001033B\U00010333\U00010330\U0001033F\U0001033E\U00010330"
     gpe: Moldavia
     gsw: Moldawie
@@ -225,7 +225,7 @@ dv_has_:
     lzh: 摩爾多瓦
     mad: Moldavia
     mai: मोल्डोवा
-    map-bms: Moldova
+    map_bms: Moldova
     mdf: Молдова
     mg: Môldavia
     mhr: Молдова
@@ -239,7 +239,7 @@ dv_has_:
     mr: मोल्दोव्हा
     mrj: Молдави
     ms: Moldova
-    ms-arab: مولدوۏا
+    ms_arab: مولدوۏا
     mt: Moldova
     mwl: Moldábia
     my: မော်လ်ဒိုဗာနိုင်ငံ
@@ -250,7 +250,7 @@ dv_has_:
     nan: Moldova
     nb: Moldova
     nds: Moldawien
-    nds-nl: Moldavië
+    nds_nl: Moldavië
     ne: मोल्दोवा
     new: मोल्दोवा
     nl: Moldavië
@@ -276,7 +276,7 @@ dv_has_:
     pnt: Μολδαβία
     ps: مولدووا
     pt: Moldávia
-    pt-br: Moldávia
+    pt_br: Moldávia
     qu: Mulduwa
     rm: Moldavia
     rmy: Moldova
@@ -308,8 +308,8 @@ dv_has_:
     so: Moldofa
     sq: Molldavi
     sr: Молдавија
-    sr-ec: Молдавија
-    sr-el: Moldavija
+    sr_ec: Молдавија
+    sr_el: Moldavija
     srn: Moldavikondre
     ss: IMolidiva
     st: Moldova
@@ -363,10 +363,10 @@ dv_has_:
     zea: Moldâvië
     zgh: ⵎⵓⵍⴹⵓⴼⴰ
     zh: 摩爾多瓦
-    zh-cn: 摩尔多瓦
-    zh-hans: 摩尔多瓦
-    zh-hant: 摩爾多瓦
-    zh-tw: 摩爾多瓦
+    zh_cn: 摩尔多瓦
+    zh_hans: 摩尔多瓦
+    zh_hant: 摩爾多瓦
+    zh_tw: 摩爾多瓦
     zu: IMoldova
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Moldova

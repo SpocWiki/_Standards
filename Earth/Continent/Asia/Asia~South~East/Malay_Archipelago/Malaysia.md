@@ -65,7 +65,7 @@ dv_has_:
     ab: Малаизиа
     ace: Malaysia
     ady: Малайзие
-    aeb-arab: ماليزيا
+    aeb_arab: ماليزيا
     af: Maleisië
     am: ማሌዢያ
     ami: Malaysia
@@ -88,7 +88,7 @@ dv_has_:
     bcl: Malasya
     bdr: Malaysia
     be: Малайзія
-    be-tarask: Малайзія
+    be_tarask: Малайзія
     bew: Malésia
     bg: Малайзия
     bgn: مالیزیا
@@ -107,7 +107,7 @@ dv_has_:
     bug: ᨆᨒᨕᨗᨔᨗᨕ
     bxr: Малайз
     ca: Malàisia
-    cbk-zam: Malasia
+    cbk_zam: Malasia
     cdo: Mā-lài-să̤-ā
     ce: Малайзи
     ceb: Malaysia
@@ -116,7 +116,7 @@ dv_has_:
     ckb: مالیزیا
     co: Malaysia
     crh: Malayziya
-    crh-latn: Malayziya
+    crh_latn: Malayziya
     cs: Malajsie
     csb: Malezjô
     cv: Малайзи
@@ -125,7 +125,7 @@ dv_has_:
     dag: Malaysia
     de: Malaysia
     de-at: Malaysia
-    de-ch: Malaysia
+    de_ch: Malaysia
     diq: Malêzya
     dsb: Malayzija
     dtp: Malaysia
@@ -134,8 +134,8 @@ dv_has_:
     dz: མ་ལེ་ཤི་ཡ་
     el: Μαλαισία
     en: Malaysia
-    en-ca: Malaysia
-    en-gb: Malaysia
+    en_ca: Malaysia
+    en_gb: Malaysia
     en-us: Malaysia
     eo: Malajzio
     es: Malasia
@@ -161,7 +161,7 @@ dv_has_:
     gn: Malásia
     gom: मलेशिया
     gom-deva: मलेशिया
-    gom-latn: Malaysia
+    gom_latn: Malaysia
     gor: Malaysia
     got: "\U0001033C\U00010330\U0001033B\U00010330\U00010339\U00010343\U00010339\U00010330"
     gpe: Malaysia
@@ -231,7 +231,7 @@ dv_has_:
     mad: Malaysia
     mag: मलेसिया
     mai: मलेसिया
-    map-bms: Malaysia
+    map_bms: Malaysia
     mdf: Малайзия
     mg: Malezia
     mhr: Малайзий
@@ -244,7 +244,7 @@ dv_has_:
     mos: Malaysia
     mr: मलेशिया
     ms: Malaysia
-    ms-arab: مليسيا
+    ms_arab: مليسيا
     mt: Malasja
     mwl: Malásia
     my: မလေးရှားနိုင်ငံ
@@ -280,7 +280,7 @@ dv_has_:
     pnb: ملائشیا
     ps: مالېزيا
     pt: Malásia
-    pt-br: Malásia
+    pt_br: Malásia
     pwn: Malaysia
     qu: Malasya
     rki: မလေးရှားနိုင်ငံ
@@ -312,8 +312,8 @@ dv_has_:
     so: Malaysiya
     sq: Malajzia
     sr: Малезија
-    sr-ec: Малезија
-    sr-el: Malezija
+    sr_ec: Малезија
+    sr_el: Malezija
     srn: Maleysikondre
     ss: IMaleshiya
     su: Malaysia
@@ -365,12 +365,12 @@ dv_has_:
     zea: Maleisië
     zgh: ⵎⴰⵍⵉⵣⵢⴰ
     zh: 馬來西亞
-    zh-cn: 马来西亚
-    zh-hans: 马来西亚
-    zh-hant: 馬來西亞
-    zh-hk: 馬來西亞
+    zh_cn: 马来西亚
+    zh_hans: 马来西亚
+    zh_hant: 馬來西亞
+    zh_hk: 馬來西亞
     zh-my: 马来西亚
-    zh-tw: 馬來西亞
+    zh_tw: 馬來西亞
     zu: IMalaysia
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Malaysia

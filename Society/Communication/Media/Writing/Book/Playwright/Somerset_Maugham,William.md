@@ -134,7 +134,7 @@ dv_has_:
     azb: سامرست موآم
     ba: Сомерсет Моэм
     be: Уільям Сомерсет Моэм
-    be-tarask: Ўільям Сомэрсэт Моэм
+    be_tarask: Ўільям Сомэрсэт Моэм
     bg: Съмърсет Моъм
     bn: উইলিয়াম সমারসেট মম্
     bs: William Somerset Maugham
@@ -189,7 +189,7 @@ dv_has_:
     pa: ਸਮਰਸੈੱਟ ਮਾਮ
     pl: William Somerset Maugham
     pt: W. Somerset Maugham
-    pt-br: W. Somerset Maugham
+    pt_br: W. Somerset Maugham
     ro: William Somerset Maugham
     ru: Уильям Сомерсет Моэм
     sco: W. Somerset Maugham
@@ -198,8 +198,8 @@ dv_has_:
     sl: William Somerset Maugham
     sq: William Somerset Maugham
     sr: Самерсет Мом
-    sr-ec: Самерсет Мом
-    sr-el: Samerset Mom
+    sr_ec: Самерсет Мом
+    sr_el: Samerset Mom
     sv: W. Somerset Maugham
     ta: வில்லியம் சோமர்செட் மாம்
     te: విలియమ్ సోమర్ సెట్ మామ్
@@ -213,12 +213,12 @@ dv_has_:
     xmf: უილიამ სომერსეტ მოემი
     yue: Somerset Maugham
     zh: 威廉·萨默塞特·毛姆
-    zh-cn: 威廉·萨默塞特·毛姆
-    zh-hans: 威廉·萨默塞特·毛姆
-    zh-hant: 威廉·薩默塞特·毛姆
-    zh-hk: 威廉·薩默塞特·毛姆
-    zh-sg: 威廉·萨默塞特·毛姆
-    zh-tw: 威廉·薩默塞特·毛姆
+    zh_cn: 威廉·萨默塞特·毛姆
+    zh_hans: 威廉·萨默塞特·毛姆
+    zh_hant: 威廉·薩默塞特·毛姆
+    zh_hk: 威廉·薩默塞特·毛姆
+    zh_sg: 威廉·萨默塞特·毛姆
+    zh_tw: 威廉·薩默塞特·毛姆
 ---
 # [[Somerset_Maugham,William]] 
 

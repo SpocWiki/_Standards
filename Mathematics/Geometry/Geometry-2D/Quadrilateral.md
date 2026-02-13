@@ -131,7 +131,7 @@ dv_has_:
     ba: дүртмөйөш
     bcl: kwadrilatero
     be: чатырохвугольнік
-    be-tarask: чатырохкутнік
+    be_tarask: чатырохкутнік
     bg: четириъгълник
     bn: চতুর্ভুজ
     br: pevarc'horneg
@@ -201,7 +201,7 @@ dv_has_:
     pnb: چوکور
     ps: څلورڅنډی
     pt: quadrilátero
-    pt-br: quadrilátero
+    pt_br: quadrilátero
     qu: tawak'uchu
     ro: patrulater
     ru: четырёхугольник
@@ -214,7 +214,7 @@ dv_has_:
     sl: štirikotnik
     sn: gonyoina
     sr: четвороугао
-    sr-el: cetvorougao
+    sr_el: cetvorougao
     sv: fyrhörning
     sw: pembenne
     szl: sztyrokōnt
@@ -225,7 +225,7 @@ dv_has_:
     tok: sijelo supa pi sama leko
     tr: dörtgen
     tt: дүртпочмак
-    tt-cyrl: дүртпочмак
+    tt_cyrl: дүртпочмак
     ug: تۆت تەرەپلىك
     uk: чотирикутник
     uz: toʻrtburchak

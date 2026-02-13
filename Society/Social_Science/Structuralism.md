@@ -76,17 +76,17 @@ dv_has_:
     az: strukturalizm
     azb: ياپيسالچيليق
     be: структуралізм
-    be-tarask: структуралізм
+    be_tarask: структуралізм
     bg: Структурализъм
     ca: estructuralisme
     cs: strukturalismus
     da: Strukturalisme
     de: Strukturalismus
-    de-ch: Strukturalismus
+    de_ch: Strukturalismus
     el: Δομισμός
     en: structuralism
-    en-ca: Structuralism
-    en-gb: structuralism
+    en_ca: Structuralism
+    en_gb: structuralism
     eo: strukturismo
     es: estructuralismo
     et: strukturalism
@@ -107,11 +107,11 @@ dv_has_:
     ja: 構造主義
     ka: სტრუქტურალიზმი
     kk: Структурализм
-    kk-arab: سترۋكتۋرالىيزم
+    kk_arab: سترۋكتۋرالىيزم
     kk-cn: سترۋكتۋرالىيزم
-    kk-cyrl: Структурализм
+    kk_cyrl: Структурализм
     kk-kz: Структурализм
-    kk-latn: Strwktwralïzm
+    kk_latn: Strwktwralïzm
     kk-tr: Strwktwralïzm
     kn: ರಚನಾಕೌಶಲ್ಯ
     ko: 구조주의
@@ -130,7 +130,7 @@ dv_has_:
     pms: Struturalism
     ps: رغښتوالی
     pt: estruturalismo
-    pt-br: estruturalismo
+    pt_br: estruturalismo
     ro: structuralism
     ru: структурализм
     sco: structuralism
@@ -155,12 +155,12 @@ dv_has_:
     wuu: 结构主义
     yue: 結構主義
     zh: 結構主義
-    zh-cn: 结构主义
-    zh-hans: 结构主义
-    zh-hant: 結構主義
-    zh-hk: 結構主義
-    zh-sg: 结构主义
-    zh-tw: 結構主義
+    zh_cn: 结构主义
+    zh_hans: 结构主义
+    zh_hant: 結構主義
+    zh_hk: 結構主義
+    zh_sg: 结构主义
+    zh_tw: 結構主義
 ---
 # [[Structuralism]] 
 

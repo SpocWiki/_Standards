@@ -104,7 +104,7 @@ dv_has_:
     ast: Nebulosa planetaria
     az: planetar dumanlıq
     be: планетарная туманнасць
-    be-tarask: плянэтарная туманнасьць
+    be_tarask: плянэтарная туманнасьць
     bg: Планетарна мъглявина
     bn: গ্রহ নীহারিকা
     bs: Planetarna maglina
@@ -117,8 +117,8 @@ dv_has_:
     diq: Nebulay geyrenıkane
     el: Πλανητικό νεφέλωμα
     en: planetary nebula
-    en-ca: Planetary nebula
-    en-gb: planetary nebula
+    en_ca: Planetary nebula
+    en_gb: planetary nebula
     eo: planeduma nebulozo
     es: nebulosa planetaria
     et: Planetaarudu
@@ -153,7 +153,7 @@ dv_has_:
     oc: Nebulòsa planetària
     pl: mgławica planetarna
     pt: nebulosa planetária
-    pt-br: nebulosa planetária
+    pt_br: nebulosa planetária
     ro: nebuloasă planetară
     ru: планетарная туманность
     scn: nibbulusa planitaria
@@ -162,8 +162,8 @@ dv_has_:
     sk: Planetárna hmlovina
     sl: planetarna meglica
     sr: планетарна маглина
-    sr-ec: планетарна маглина
-    sr-el: planetarna maglina
+    sr_ec: планетарна маглина
+    sr_el: planetarna maglina
     sv: planetarisk nebulosa
     te: ప్లానెటరీ నెబ్యులా
     th: เนบิวลาดาวเคราะห์

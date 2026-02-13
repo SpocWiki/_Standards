@@ -66,7 +66,7 @@ dv_has_:
     ar: بارض
     ast: meristemo
     az: meristemlər
-    be-tarask: мэрыстэма
+    be_tarask: мэрыстэма
     bg: образувателна тъкан
     bn: ভাজক কলা
     bs: meristem
@@ -96,7 +96,7 @@ dv_has_:
     kk: түзуші ұлпа
     ko: 분열조직
     ku: şaneya merîstemî
-    ku-latn: şaneya merîstemî
+    ku_latn: şaneya merîstemî
     ky: меристема
     la: meristema
     lt: meristema
@@ -114,8 +114,8 @@ dv_has_:
     sco: meristem
     sl: meristem
     sr: творна ткива
-    sr-ec: творна ткива
-    sr-el: тvorna tkiva
+    sr_ec: творна ткива
+    sr_el: тvorna tkiva
     su: meristem
     sv: meristem
     ta: பிரியிழையம்
@@ -127,12 +127,12 @@ dv_has_:
     wuu: 分生组织
     yue: 分生組織
     zh: 分生组织
-    zh-cn: 分生组织
-    zh-hans: 分生组织
-    zh-hant: 分生組織
-    zh-hk: 分生組織
-    zh-sg: 分生组织
-    zh-tw: 分生組織
+    zh_cn: 分生组织
+    zh_hans: 分生组织
+    zh_hant: 分生組織
+    zh_hk: 分生組織
+    zh_sg: 分生组织
+    zh_tw: 分生組織
 ---
 # [[Meristem]] 
 

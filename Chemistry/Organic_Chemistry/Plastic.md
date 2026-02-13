@@ -170,7 +170,7 @@ dv_has_:
     ban: Plastik
     bar: Kunststoff
     be: пластмаса
-    be-tarask: плястмаса
+    be_tarask: плястмаса
     bg: Пластмаса
     bho: प्लास्टिक
     bjn: Panyu
@@ -188,12 +188,12 @@ dv_has_:
     da: plast
     dag: gbambila
     de: Kunststoff
-    de-ch: Kunststoff
+    de_ch: Kunststoff
     el: Πλαστικό
     eml: Matèri plàstichi
     en: plastic
-    en-ca: plastic
-    en-gb: plastic
+    en_ca: plastic
+    en_gb: plastic
     eo: plasto
     es: plástico
     et: plast
@@ -236,7 +236,7 @@ dv_has_:
     ko: 플라스틱
     ks: پلاسٹک
     ku: plastîk
-    ku-latn: plastîk
+    ku_latn: plastîk
     kv: Пластмасса
     kw: Plastek
     ky: Пластмасса
@@ -276,7 +276,7 @@ dv_has_:
     pms: Plàstica
     pnb: پلاسٹک
     pt: plástico
-    pt-br: plástico
+    pt_br: plástico
     qu: Llirpu
     ro: plastic
     ru: пластмасса
@@ -295,8 +295,8 @@ dv_has_:
     so: Bac
     sq: Plastika
     sr: пластика
-    sr-ec: пластика
-    sr-el: plastika
+    sr_ec: пластика
+    sr_el: plastika
     su: Plastik
     sv: plast
     sw: Plastiki
@@ -324,7 +324,7 @@ dv_has_:
     yi: פלאסטיק
     yue: 塑膠
     zh: 塑料
-    zh-hans: 塑料
+    zh_hans: 塑料
     zu: Ucwazi
 ---
 # [[Plastic]] 

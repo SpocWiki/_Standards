@@ -161,7 +161,7 @@ dv_has_:
     ba: Скандинавия
     bar: Skandinavien
     be: Скандынавія
-    be-tarask: Скандынавія
+    be_tarask: Скандынавія
     bg: Скандинавия
     bn: স্ক্যান্ডিনেভিয়া
     br: Skandinavia
@@ -174,13 +174,13 @@ dv_has_:
     cy: Llychlyn
     da: Skandinavien
     de: Skandinavien
-    de-ch: Skandinavien
+    de_ch: Skandinavien
     diq: İskandinavya
     dsb: Skandinawiska
     el: Σκανδιναβία
     en: Scandinavia
-    en-ca: Scandinavia
-    en-gb: Scandinavia
+    en_ca: Scandinavia
+    en_gb: Scandinavia
     en-us: Scandinavia
     eo: Skandinavio
     es: Escandinavia
@@ -248,7 +248,7 @@ dv_has_:
     nan: Skandinavia
     nb: Skandinavia
     nds: Skandinavien
-    nds-nl: Skandinavie
+    nds_nl: Skandinavie
     nl: Scandinavië
     nn: Skandinavia
     nrm: Escaundinavie
@@ -259,7 +259,7 @@ dv_has_:
     pl: Skandynawia
     pnb: سکینڈینیویا
     pt: Escandinávia
-    pt-br: Escandinávia
+    pt_br: Escandinávia
     rm: Scandinavia
     ro: Scandinavia
     ru: Скандинавия
@@ -275,7 +275,7 @@ dv_has_:
     so: Skandinafiyen
     sq: Skandinavia
     sr: Скандинавија
-    sr-ec: Скандинавија
+    sr_ec: Скандинавија
     stq: Skandinavien
     sv: Skandinavien
     sw: Skandinavia
@@ -286,8 +286,8 @@ dv_has_:
     tr: İskandinavya
     tt: Скандинавия
     ug: شىمالىي ياۋروپا
-    ug-arab: شىمالىي ياۋروپا
-    ug-latn: Shimaliy Yawropa
+    ug_arab: شىمالىي ياۋروپا
+    ug_latn: Shimaliy Yawropa
     uk: Скандинавія
     ur: اسکینڈینیویا
     uz: Skandinaviya
@@ -302,9 +302,9 @@ dv_has_:
     yi: סקאנדינאוויע
     yue: 斯堪的納維亞
     zh: 斯堪的纳维亚
-    zh-cn: 斯堪的纳维亚
-    zh-hans: 斯堪的纳维亚
-    zh-hant: 斯堪的纳维亚
+    zh_cn: 斯堪的纳维亚
+    zh_hans: 斯堪的纳维亚
+    zh_hant: 斯堪的纳维亚
 ---
 # [[Scandinavia]] 
 

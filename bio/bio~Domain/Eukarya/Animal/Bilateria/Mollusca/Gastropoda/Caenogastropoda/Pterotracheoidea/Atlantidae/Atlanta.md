@@ -58,14 +58,14 @@ dv_has_:
     azb: آتلانتا
     ba: Атланта
     be: Атланта
-    be-tarask: Атланта
+    be_tarask: Атланта
     bg: Атланта
     bi: Atlanta
     bm: Atlanta
     bn: আটলান্টা
     bo: ཨ་ཊི་ལཱན་ཊཱ།
     ca: Atlanta
-    cbk-zam: Atlanta
+    cbk_zam: Atlanta
     cdo: Atlanta
     ce: Атланта
     ceb: Atlanta
@@ -116,7 +116,7 @@ dv_has_:
     kab: Atlanta
     ki: Atlanta
     kk: Атланта
-    kk-cyrl: Атланта
+    kk_cyrl: Атланта
     kl: Atlanta
     kn: ಅಟ್ಲಾಂಟಾ
     ko: 애틀랜타
@@ -170,7 +170,7 @@ dv_has_:
     pms: Atlanta
     pnb: اٹلانٹا
     pt: Atlanta
-    pt-br: Atlanta
+    pt_br: Atlanta
     ro: Atlanta
     ru: Атланта
     rue: Атланта
@@ -182,7 +182,7 @@ dv_has_:
     si: ඇට්ලන්ටාව
     sk: Atlanta
     sr: Атланта
-    sr-ec: Атланта
+    sr_ec: Атланта
     srn: Atlanta
     sv: Atlanta
     sw: Atlanta
@@ -190,7 +190,7 @@ dv_has_:
     ta: அட்லான்டா
     te: అట్లాంటా
     tg: Атланта
-    tg-cyrl: Атланта
+    tg_cyrl: Атланта
     th: แอตแลนตา
     tok: ma tomo Alana
     tr: Atlanta
@@ -213,11 +213,11 @@ dv_has_:
     yue: 亞特蘭大
     zgh: ⴰⵜⵍⴰⵏⵜⴰ
     zh: 亚特兰大
-    zh-cn: 亚特兰大
-    zh-hans: 亚特兰大
-    zh-hant: 亞特蘭大
-    zh-hk: 亞特蘭大
-    zh-tw: 亞特蘭大
+    zh_cn: 亚特兰大
+    zh_hans: 亚特兰大
+    zh_hant: 亞特蘭大
+    zh_hk: 亞特蘭大
+    zh_tw: 亞特蘭大
 ---
 # [[Atlanta]] 
 

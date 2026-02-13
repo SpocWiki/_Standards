@@ -143,7 +143,7 @@ dv_has_:
     bbc: ombak
     bcl: asadol
     be: матыка
-    be-tarask: капаніца
+    be_tarask: капаніца
     bg: мотика
     br: trañch
     ca: aixadell
@@ -154,14 +154,14 @@ dv_has_:
     da: hakke
     dag: kuli
     de: Hacke
-    de-ch: Hacke
+    de_ch: Hacke
     dsb: mótyja
     ee: agblenu
     el: τσάπα
     eml: sapa
     en: hoe
-    en-ca: hoe
-    en-gb: hoe
+    en_ca: hoe
+    en_gb: hoe
     eo: rastro
     es: azada
     et: kõblas
@@ -220,7 +220,7 @@ dv_has_:
     pnb: کسیا
     pnt: γριζομάκελον
     pt: enxada
-    pt-br: enxada
+    pt_br: enxada
     qu: allana
     ro: sapă
     ru: мотыга
@@ -236,8 +236,8 @@ dv_has_:
     sn: badza
     sq: shati
     sr: мотика
-    sr-ec: мотика
-    sr-el: motika
+    sr_ec: мотика
+    sr_el: motika
     su: pacul
     sv: hacka
     sw: jembe
@@ -253,12 +253,12 @@ dv_has_:
     wuu: 锄头
     yue: 鋤頭
     zh: 锄头
-    zh-cn: 锄头
-    zh-hans: 锄头
-    zh-hant: 鋤頭
-    zh-hk: 鋤頭
-    zh-sg: 锄头
-    zh-tw: 鋤頭
+    zh_cn: 锄头
+    zh_hans: 锄头
+    zh_hant: 鋤頭
+    zh_hk: 鋤頭
+    zh_sg: 锄头
+    zh_tw: 鋤頭
 ---
 # [[Hoe]] 
 

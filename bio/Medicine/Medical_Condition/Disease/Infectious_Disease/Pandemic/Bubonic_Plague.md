@@ -105,7 +105,7 @@ dv_has_:
     az: Bubon taunu
     azb: بوبونیک طاعونو
     be: бубонная чума
-    be-tarask: бубонная чума
+    be_tarask: бубонная чума
     bg: бубонна чума
     bn: বিউবনিক প্লেগ
     bo: རིམས་ནག་
@@ -152,7 +152,7 @@ dv_has_:
     nv: Dlóóʼ binaalniih
     or: ବୁବୋନିକ୍ ପ୍ଲେଗ୍
     pt: peste bubónica
-    pt-br: peste bubônica
+    pt_br: peste bubônica
     ro: ciumă bubonică
     ru: бубонная чума
     scn: Pesti
@@ -172,12 +172,12 @@ dv_has_:
     vi: dịch hạch
     yue: 淋巴腺鼠疫
     zh: 腺鼠疫
-    zh-cn: 腺鼠疫
-    zh-hans: 腺鼠疫
-    zh-hant: 腺鼠疫
-    zh-hk: 腺鼠疫
-    zh-sg: 腺鼠疫
-    zh-tw: 腺鼠疫
+    zh_cn: 腺鼠疫
+    zh_hans: 腺鼠疫
+    zh_hant: 腺鼠疫
+    zh_hk: 腺鼠疫
+    zh_sg: 腺鼠疫
+    zh_tw: 腺鼠疫
 ---
 # [[Bubonic_Plague]] 
 

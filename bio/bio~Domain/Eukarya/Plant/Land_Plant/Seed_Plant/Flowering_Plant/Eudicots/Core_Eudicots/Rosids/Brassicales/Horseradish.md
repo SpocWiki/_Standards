@@ -173,7 +173,7 @@ dv_has_:
     ba: Керән
     bar: Kren
     be: Хрэн звычайны
-    be-tarask: хрэн звычайны
+    be_tarask: хрэн звычайны
     bg: хрян
     bn: সজিনা
     br: riforz
@@ -259,8 +259,8 @@ dv_has_:
     yi: כריין
     yue: 辣根
     zh: 辣根
-    zh-cn: 马萝卜
-    zh-tw: 馬蘿蔔
+    zh_cn: 马萝卜
+    zh_tw: 馬蘿蔔
 ---
 # [[Horseradish]] 
 

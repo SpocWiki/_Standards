@@ -114,7 +114,7 @@ dv_has_:
     az: Sadə efirlər
     bcl: Eter
     be: Простыя эфіры
-    be-tarask: этэр
+    be_tarask: этэр
     bg: Етер
     bn: ইথার
     bs: Eter
@@ -148,11 +148,11 @@ dv_has_:
     ja: エーテル
     ka: ეთერი
     kk: Жай эфирлер
-    kk-arab: جاي ەفىيرلەر
+    kk_arab: جاي ەفىيرلەر
     kk-cn: جاي ەفىيرلەر
-    kk-cyrl: Жай эфирлер
+    kk_cyrl: Жай эфирлер
     kk-kz: Жай эфирлер
-    kk-latn: Jaý éfïrler
+    kk_latn: Jaý éfïrler
     kk-tr: Jaý éfïrler
     kn: ಈಥರ್ಗಳು
     ko: 에터
@@ -174,7 +174,7 @@ dv_has_:
     pnb: ایتھر
     ps: ايتر
     pt: éter
-    pt-br: éter
+    pt_br: éter
     ro: Eter
     ru: простые эфиры
     sh: Etar
@@ -182,8 +182,8 @@ dv_has_:
     sl: eter
     sq: Eteri
     sr: етар
-    sr-ec: Етар
-    sr-el: Etar
+    sr_ec: Етар
+    sr_el: Etar
     sv: etrar
     ta: ஈதர்
     te: ఈథరు
@@ -198,12 +198,12 @@ dv_has_:
     wuu: 醚
     yue: 醚
     zh: 醚
-    zh-cn: 醚
-    zh-hans: 醚
-    zh-hant: 醚
-    zh-hk: 醚
-    zh-sg: 醚
-    zh-tw: 醚
+    zh_cn: 醚
+    zh_hans: 醚
+    zh_hant: 醚
+    zh_hk: 醚
+    zh_sg: 醚
+    zh_tw: 醚
 ---
 # [[Ether]] 
 

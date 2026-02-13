@@ -69,7 +69,7 @@ dv_has_:
     ar: ليبيزان
     ast: Lipizzano
     az: Lipizan atı
-    be-tarask: конь ліпіцанскі
+    be_tarask: конь ліпіцанскі
     bs: Lipicaner
     ca: Cavall lipizzà
     cs: Lipicán
@@ -105,8 +105,8 @@ dv_has_:
     sk: Lipican
     sl: Lipicanec
     sr: Липицанери
-    sr-ec: Липицанери
-    sr-el: Lipicaneri
+    sr_ec: Липицанери
+    sr_el: Lipicaneri
     sv: Lipizzaner
     tl: Lipisano
     tr: Lipizzan

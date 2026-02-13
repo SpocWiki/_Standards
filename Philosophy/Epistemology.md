@@ -146,7 +146,7 @@ dv_has_:
     ban: teori kaweruhan
     bar: Epistemologie
     be: эпістэмалогія
-    be-tarask: эпістэмалёгія
+    be_tarask: эпістэмалёгія
     bg: епистемология
     bn: জ্ঞানতত্ত্ব
     br: epistemologiezh
@@ -164,8 +164,8 @@ dv_has_:
     dtp: Epistemologi
     el: γνωσιολογία
     en: epistemology
-    en-ca: epistemology
-    en-gb: epistemology
+    en_ca: epistemology
+    en_gb: epistemology
     en-us: epistemology
     eo: epistemologio
     es: epistemología
@@ -244,7 +244,7 @@ dv_has_:
     pnb: ایپسٹیمولوجی
     ps: پوهنپوهنه
     pt: epistemologia
-    pt-br: epistemologia
+    pt_br: epistemologia
     ro: epistemologie
     ru: эпистемология
     rue: епістемолоґія
@@ -285,10 +285,10 @@ dv_has_:
     yue: 知識論
     zgh: ⵜⴰⵥⵕⵓⵙⵙⵏⴰ
     zh: 知识论
-    zh-cn: 知识论
-    zh-hant: 知識論
-    zh-hk: 知識論
-    zh-tw: 知識論
+    zh_cn: 知识论
+    zh_hant: 知識論
+    zh_hk: 知識論
+    zh_tw: 知識論
     zu: Umchazalwazi
 ---
 # [[Epistemology]] 

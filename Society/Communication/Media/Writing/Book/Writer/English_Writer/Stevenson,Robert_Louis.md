@@ -160,7 +160,7 @@ dv_has_:
     azb: رابرت لویی استیونسن
     bcl: Robert Louis Stevenson
     be: Роберт Льюіс Стывенсан
-    be-tarask: Робэрт Льюіс Стывэнсан
+    be_tarask: Робэрт Льюіс Стывэнсан
     bg: Робърт Луис Стивънсън
     bn: রবার্ট লুইস স্টিভেন্সন
     br: Robert Louis Stevenson
@@ -172,11 +172,11 @@ dv_has_:
     da: Robert Louis Stevenson
     de: Robert Louis Stevenson
     de-at: Robert Louis Stevenson
-    de-ch: Robert Louis Stevenson
+    de_ch: Robert Louis Stevenson
     el: Ρόμπερτ Λούις Στίβενσον
     en: Robert Louis Stevenson
-    en-ca: Robert Louis Stevenson
-    en-gb: Robert Louis Stevenson
+    en_ca: Robert Louis Stevenson
+    en_gb: Robert Louis Stevenson
     eo: Robert Louis Stevenson
     es: Robert Louis Stevenson
     et: Robert Louis Stevenson
@@ -233,7 +233,7 @@ dv_has_:
     pl: Robert Louis Stevenson
     pms: Robert Louis Stevenson
     pt: Robert Louis Stevenson
-    pt-br: Robert Louis Stevenson
+    pt_br: Robert Louis Stevenson
     qu: Robert Louis Stevenson
     ro: Robert Louis Stevenson
     ru: Роберт Льюис Стивенсон
@@ -261,7 +261,7 @@ dv_has_:
     xmf: რობერთ ლუის სთივენსონი
     yue: 羅拔路易史提芬生
     zh: 罗伯特·路易斯·史蒂文森
-    zh-hant: 羅伯特·路易斯·史蒂文森
+    zh_hant: 羅伯特·路易斯·史蒂文森
 ---
 # [[Stevenson,Robert_Louis]] 
 

@@ -121,7 +121,7 @@ dv_has_:
     ar: دواجن
     ast: ave de corral
     ba: йорт ҡоштары
-    be-tarask: свойскія птушкі
+    be_tarask: свойскія птушкі
     bg: домашна птица
     bn: পোল্ট্রি
     bs: domaća perad
@@ -159,11 +159,11 @@ dv_has_:
     ka: მეფრინველეობა
     kab: Iwuzaṭ
     kk: ұй құстары
-    kk-arab: قۇس شارۋاشىلىعى
+    kk_arab: قۇس شارۋاشىلىعى
     kk-cn: قۇس شارۋاشىلىعى
-    kk-cyrl: Құс шаруашылығы
+    kk_cyrl: Құс шаруашылығы
     kk-kz: Құс шаруашылығы
-    kk-latn: qus şarwaşılığı
+    kk_latn: qus şarwaşılığı
     kk-tr: qus şarwaşılığı
     ko: 집새
     la: Aves cohortales
@@ -195,8 +195,8 @@ dv_has_:
     sl: perutnina
     sq: pulakët
     sr: живина
-    sr-ec: живина
-    sr-el: Živina
+    sr_ec: живина
+    sr_el: Živina
     sv: fjäderfä
     ta: கோழியின வளர்ப்புப் பறவைகள்
     th: สัตว์ปีกบ้าน
@@ -204,7 +204,7 @@ dv_has_:
     tl: poltri
     tr: kümes hayvanları
     tt: кошчылык
-    tt-cyrl: кошчылык
+    tt_cyrl: кошчылык
     uk: свійські птахи
     uz: Parrandachilik
     vi: gia cầm
@@ -214,12 +214,12 @@ dv_has_:
     yi: עופות
     yue: 鷄鴨
     zh: 家禽
-    zh-cn: 家禽
-    zh-hans: 家禽
-    zh-hant: 家禽
-    zh-hk: 家禽
-    zh-sg: 家禽
-    zh-tw: 家禽
+    zh_cn: 家禽
+    zh_hans: 家禽
+    zh_hant: 家禽
+    zh_hk: 家禽
+    zh_sg: 家禽
+    zh_tw: 家禽
 ---
 # [[Poultry]] 
 

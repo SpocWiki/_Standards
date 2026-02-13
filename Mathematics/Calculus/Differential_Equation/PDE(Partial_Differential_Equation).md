@@ -74,7 +74,7 @@ dv_has_:
     ast: ecuación en derivaes parciales
     az: qismən diferensial tənlik
     be: дыферэнцыяльнае ўраўненне ў частковых вытворных
-    be-tarask: дыфэрэнцыйнае раўнаньне ў часных вытворных
+    be_tarask: дыфэрэнцыйнае раўнаньне ў часных вытворных
     bg: частно диференциално уравнение
     bn: আংশিক ব্যবকলনীয় সমীকরণ
     bs: krive drugog reda
@@ -111,7 +111,7 @@ dv_has_:
     nl: partiële differentiaalvergelijking
     pl: równanie różniczkowe cząstkowe
     pt: equação diferencial parcial
-    pt-br: equação diferencial parcial
+    pt_br: equação diferencial parcial
     ro: ecuație cu derivate parțiale
     ru: дифференциальное уравнение в частных производных
     sco: pairtial differential equation
@@ -120,8 +120,8 @@ dv_has_:
     sl: parcialna diferencialna enačba
     sq: ekuacionet diferenciale të pjesshme
     sr: парцијална диференцијална једначина
-    sr-ec: парцијална диференцијална једначина
-    sr-el: parcijalna diferencijalna jednačina
+    sr_ec: парцијална диференцијална једначина
+    sr_el: parcijalna diferencijalna jednačina
     sv: partiell differentialekvation
     th: สมการเชิงอนุพันธ์ย่อย
     tl: ekwasyong parsiyal diperensiyal
@@ -131,12 +131,12 @@ dv_has_:
     vi: phương trình vi phân riêng phần
     yue: 偏微分方程
     zh: 偏微分方程
-    zh-cn: 偏微分方程
-    zh-hans: 偏微分方程
-    zh-hant: 偏微分方程
-    zh-hk: 偏微分方程
-    zh-sg: 偏微分方程
-    zh-tw: 偏微分方程
+    zh_cn: 偏微分方程
+    zh_hans: 偏微分方程
+    zh_hant: 偏微分方程
+    zh_hk: 偏微分方程
+    zh_sg: 偏微分方程
+    zh_tw: 偏微分方程
 ---
 # [[PDE(Partial_Differential_Equation)]] 
 

@@ -45,7 +45,7 @@ dv_has_:
     it: lettera di corsa
     ja: 私掠免許
     ko: 사략면장
-    nds-nl: kaperbreef
+    nds_nl: kaperbreef
     nl: kaperbrief
     pl: list kaperski
     pnb: سرکاری ڈاکو
@@ -58,9 +58,9 @@ dv_has_:
     uk: Каперське свідоцтво
     ur: سرکاری ڈاکو
     zh: 私掠許可證
-    zh-hans: 私掠许可证
-    zh-hant: 私掠許可證
-    zh-hk: 私掠許可證
+    zh_hans: 私掠许可证
+    zh_hant: 私掠許可證
+    zh_hk: 私掠許可證
 ---
 # [[Letter_of_Marque]] 
 

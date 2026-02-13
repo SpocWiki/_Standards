@@ -132,7 +132,7 @@ dv_has_:
     bar: Inflazion
     bcl: Implasyon
     be: інфляцыя
-    be-tarask: інфляцыя
+    be_tarask: інфляцыя
     bg: инфлация
     bho: इन्फ्लेशन
     bn: মুদ্রাস্ফীতি
@@ -199,13 +199,13 @@ dv_has_:
     mn: Инфляци
     mr: चलनवाढ
     ms: inflasi
-    ms-arab: اينفلاسي
+    ms_arab: اينفلاسي
     mt: inflazzjoni
     my: ငွေကြေးဖောင်းပွခြင်း
     nan: thong-hòe phòng-tiòng
     nb: inflasjon
     nds: Inflatschoon
-    nds-nl: inflatie
+    nds_nl: inflatie
     ne: मुद्रा स्फिती
     nl: inflatie
     nn: inflasjon
@@ -230,8 +230,8 @@ dv_has_:
     sms: inflaatio
     sq: inflacioni
     sr: инфлација
-    sr-ec: инфлација
-    sr-el: inflacija
+    sr_ec: инфлација
+    sr_el: inflacija
     su: Inflasi
     sv: inflation
     ta: பணவீக்கம்

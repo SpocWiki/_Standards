@@ -95,7 +95,7 @@ dv_has_:
     az: Vitruvi
     ba: Витрувий
     be: Вітрувій
-    be-tarask: Вітрувіюс
+    be_tarask: Вітрувіюс
     bg: Витрувий
     br: Vitruvius
     bs: Vitruvije
@@ -147,7 +147,7 @@ dv_has_:
     oc: Vitruvi
     pl: Witruwiusz
     pt: Vitrúvio
-    pt-br: Vitrúvio
+    pt_br: Vitrúvio
     ro: Vitruviu
     ru: Марк Витрувий Поллион
     scn: Vitruviu

@@ -81,7 +81,7 @@ dv_has_:
     arz: جويمى دوفاى
     ast: Guillaume Dufay
     be: Гіём Дзюфаі
-    be-tarask: Гіём Дзюфай
+    be_tarask: Гіём Дзюфай
     bg: Гийом Дюфе
     br: Guillaume Dufay
     ca: Guillaume Dufay
@@ -90,7 +90,7 @@ dv_has_:
     da: Guillaume Dufay
     de: Guillaume Dufay
     de-at: Guillaume Dufay
-    de-ch: Guillaume Dufay
+    de_ch: Guillaume Dufay
     el: Γκιγιώμ Ντυφαί
     en: Guillaume Dufay
     eo: Guillaume Dufay
@@ -125,7 +125,7 @@ dv_has_:
     pl: Guillaume Dufay
     pms: Guillaume Dufay
     pt: Guillaume Dufay
-    pt-br: Guillaume Dufay
+    pt_br: Guillaume Dufay
     ro: Guillaume Dufay
     ru: Гийом Дюфаи
     sc: Guillaume Dufay
@@ -136,8 +136,8 @@ dv_has_:
     sl: Guillaume Dufay
     sq: Guillaume Dufay
     sr: Гијом Дифе
-    sr-ec: Гијом Дифе
-    sr-el: Gijom Dife
+    sr_ec: Гијом Дифе
+    sr_el: Gijom Dife
     sv: Guillaume Dufay
     tr: Guillaume Dufay
     uk: Ґійом Дюфаї
@@ -146,12 +146,12 @@ dv_has_:
     wuu: 纪尧姆·迪费
     yue: 紀堯姆·迪費
     zh: 纪尧姆·迪费
-    zh-cn: 纪尧姆·迪费
-    zh-hans: 纪尧姆·迪费
-    zh-hant: 紀堯姆·迪費
-    zh-hk: 紀堯姆·迪費
-    zh-sg: 纪尧姆·迪费
-    zh-tw: 紀堯姆·迪費
+    zh_cn: 纪尧姆·迪费
+    zh_hans: 纪尧姆·迪费
+    zh_hant: 紀堯姆·迪費
+    zh_hk: 紀堯姆·迪費
+    zh_sg: 纪尧姆·迪费
+    zh_tw: 紀堯姆·迪費
 ---
 # [[Guillaume_Dufay]] 
 

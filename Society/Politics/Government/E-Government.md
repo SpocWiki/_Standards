@@ -70,7 +70,7 @@ dv_has_:
     ar: حكومة إلكترونية
     ast: gobiernu electrónicu
     az: elektron dövlət
-    be-tarask: электронны ўрад
+    be_tarask: электронны ўрад
     bg: електронно правителство
     bn: ই-গভর্নমেন্ট
     ca: govern electrònic
@@ -106,19 +106,19 @@ dv_has_:
     pa: ਈ-ਗੌਰਮਿੰਟ
     pl: E-government
     pt: governo eletrónico
-    pt-br: governo digital
+    pt_br: governo digital
     ro: guvernare electronică
     ru: электронное правительство
     si: ඉ-රාඡ්ය
     sl: e-vlada
     sq: Qeverisja elektronike
     sr: Е-Влада
-    sr-ec: Е-Влада
-    sr-el: E-Vlada
+    sr_ec: Е-Влада
+    sr_el: E-Vlada
     sv: e-förvaltning
     ta: இணைய அரசு
     tg: lавлати электронӣ
-    tg-latn: davlati elektronī
+    tg_latn: davlati elektronī
     th: รัฐบาลอิเล็กทรอนิกส์
     tr: e-Devlet
     uk: електронний уряд
@@ -126,12 +126,12 @@ dv_has_:
     uz: elektron hukumat
     vi: chính phủ điện tử
     zh: 电子政务
-    zh-cn: 电子政务
-    zh-hans: 电子政务
-    zh-hant: 电子政务
-    zh-hk: 电子政务
-    zh-sg: 电子政务
-    zh-tw: 电子政务
+    zh_cn: 电子政务
+    zh_hans: 电子政务
+    zh_hant: 电子政务
+    zh_hk: 电子政务
+    zh_sg: 电子政务
+    zh_tw: 电子政务
 ---
 # [[E-Government]] 
 

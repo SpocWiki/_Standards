@@ -155,7 +155,7 @@ dv_has_:
     azb: کیچیک آیی
     ba: Бәләкәй Һүмес
     be: Малая Мядзведзіца
-    be-tarask: Малая Мядзьведзіха
+    be_tarask: Малая Мядзьведзіха
     bg: Малка мечка
     bn: লঘু সপ্তর্ষি মণ্ডল
     br: Karr-kamm Bihan
@@ -238,7 +238,7 @@ dv_has_:
     sl: Mali medved
     sq: Arusha e Vogël
     sr: Мали медвед
-    sr-ec: Мали медвед
+    sr_ec: Мали медвед
     sv: Lilla björnen
     sw: Dubu Mdogo
     ta: சிறுகரடி
@@ -258,7 +258,7 @@ dv_has_:
     wuu: 小熊座
     yue: 小熊座
     zh: 小熊座
-    zh-tw: 小熊座
+    zh_tw: 小熊座
 dv_is_:
   same_as:
   - '[[../../WikiData/WD~Ursa_Minor,10478|WD~Ursa_Minor,10478]]'

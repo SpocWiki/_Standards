@@ -93,7 +93,7 @@ dv_has_:
     az: Aksiom
     ba: аксиома
     be: аксіёма
-    be-tarask: аксіёма
+    be_tarask: аксіёма
     bg: Аксиома
     bn: স্বতঃসিদ্ধ
     br: Aksiom
@@ -153,7 +153,7 @@ dv_has_:
     ml: സ്വയംസിദ്ധപ്രമാണം
     mn: Аксиом
     ms: aksiom
-    ms-arab: اکسيوم
+    ms_arab: اکسيوم
     my: မှတ်ရည်ချက်
     nan: Kong-siat
     nb: aksiom
@@ -168,7 +168,7 @@ dv_has_:
     pms: Assiòma
     pnb: منیا پرمنیا
     pt: axioma
-    pt-br: axioma
+    pt_br: axioma
     ro: axiomă
     ru: аксиома
     rue: Аксіома
@@ -180,8 +180,8 @@ dv_has_:
     sl: aksiom
     sq: Aksioma
     sr: Аксиома
-    sr-ec: аксиома
-    sr-el: aksioma
+    sr_ec: аксиома
+    sr_el: aksioma
     su: Aksioma
     sv: axiom
     ta: மெய்கோள்
@@ -201,7 +201,7 @@ dv_has_:
     yi: אקסיאם
     yue: 公理
     zh: 公理
-    zh-cn: 公理
+    zh_cn: 公理
 ---
 # [[Axiom]] 
 

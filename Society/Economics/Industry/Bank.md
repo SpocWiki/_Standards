@@ -15,7 +15,7 @@ dv_has_:
     azb: بانک
     ba: банк
     be: банк
-    be-tarask: банк
+    be_tarask: банк
     bew: Bang
     bg: Банка
     bn: ব্যাংক
@@ -34,8 +34,8 @@ dv_has_:
     diq: Bank
     el: τράπεζα
     en: bank
-    en-ca: bank
-    en-gb: bank
+    en_ca: bank
+    en_gb: bank
     en-us: Bank
     eo: banko
     es: banco
@@ -99,7 +99,7 @@ dv_has_:
     mn: Банк
     mr: बँक
     ms: bank
-    ms-arab: بڠک
+    ms_arab: بڠک
     my: ဘဏ်
     nan: Gîn-hâng
     nb: bank
@@ -120,7 +120,7 @@ dv_has_:
     pnb: بینک
     ps: بانک
     pt: banco
-    pt-br: Banco
+    pt_br: Banco
     qu: Qullqi wasi
     rm: Banca
     ro: bancă
@@ -146,8 +146,8 @@ dv_has_:
     so: Banki
     sq: bankë
     sr: банка
-    sr-ec: банка
-    sr-el: banka
+    sr_ec: банка
+    sr_el: banka
     su: Bank
     sv: bank
     sw: Benki
@@ -160,7 +160,7 @@ dv_has_:
     to: Pangikē
     tr: banka
     tt: банк
-    tt-cyrl: банк
+    tt_cyrl: банк
     tw: Sikakorabea
     uk: банк
     ur: بنک
@@ -173,14 +173,14 @@ dv_has_:
     yue: 銀行
     za: Yinzhangz
     zh: 銀行
-    zh-cn: 银行
-    zh-hans: 银行
-    zh-hant: 銀行
-    zh-hk: 銀行
-    zh-mo: 銀行
+    zh_cn: 银行
+    zh_hans: 银行
+    zh_hant: 銀行
+    zh_hk: 銀行
+    zh_mo: 銀行
     zh-my: 银行
-    zh-sg: 银行
-    zh-tw: 銀行
+    zh_sg: 银行
+    zh_tw: 銀行
 aliases:
 - Argentaria
 - a̱lisaaikurum

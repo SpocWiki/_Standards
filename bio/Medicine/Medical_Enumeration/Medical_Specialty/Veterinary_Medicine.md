@@ -130,7 +130,7 @@ dv_has_:
     az: baytarlıq
     ba: Ветеринария
     be: ветэрынарыя
-    be-tarask: вэтэрынарыя
+    be_tarask: вэтэрынарыя
     bg: Ветеринарна медицина
     bn: প্রাণি চিকিৎসাবিজ্ঞান
     br: medisinerezh al loened
@@ -168,11 +168,11 @@ dv_has_:
     ja: 獣医学
     ka: ვეტერინარია
     kk: Ветеринария
-    kk-arab: ۆەتەرىينارىييا
+    kk_arab: ۆەتەرىينارىييا
     kk-cn: ۆەتەرىينارىييا
-    kk-cyrl: Ветеринария
+    kk_cyrl: Ветеринария
     kk-kz: Ветеринария
-    kk-latn: Veterïnarïya
+    kk_latn: Veterïnarïya
     kk-tr: Veterïnarïya
     ko: 수의학
     ky: Ветеринария
@@ -204,12 +204,12 @@ dv_has_:
     sms: jieʹllitaalkâstiõđ
     sq: Veterinaria
     sr: ветерина
-    sr-ec: ветерина
-    sr-el: veterina
+    sr_ec: ветерина
+    sr_el: veterina
     sv: veterinärmedicin
     ta: விலங்கு மருத்துவம்
     tg: Ветеринария
-    tg-latn: Veterinarija
+    tg_latn: Veterinarija
     tok: misikeke soweli
     tr: veteriner hekimliği
     tt: ветеринария
@@ -224,12 +224,12 @@ dv_has_:
     wuu: 兽医学
     yue: 獸醫科
     zh: 兽医学
-    zh-cn: 兽医学
-    zh-hans: 兽医学
-    zh-hant: 獸醫學
-    zh-hk: 獸醫學
-    zh-sg: 兽医学
-    zh-tw: 獸醫學
+    zh_cn: 兽医学
+    zh_hans: 兽医学
+    zh_hant: 獸醫學
+    zh_hk: 獸醫學
+    zh_sg: 兽医学
+    zh_tw: 獸醫學
 ---
 # [[Veterinary_Medicine]] 
 

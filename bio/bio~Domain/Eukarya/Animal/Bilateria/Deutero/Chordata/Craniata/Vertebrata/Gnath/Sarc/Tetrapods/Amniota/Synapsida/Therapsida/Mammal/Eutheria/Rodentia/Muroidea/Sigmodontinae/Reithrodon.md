@@ -43,7 +43,7 @@ dv_has_:
     oc: Reithrodon
     pl: Bruzdówka
     pt: Reithrodon
-    pt-br: Reithrodon
+    pt_br: Reithrodon
     ro: Reithrodon
     ru: Reithrodon
     sq: Reithrodon
@@ -54,11 +54,11 @@ dv_has_:
     vo: Reithrodon
     war: Reithrodon
     zh: 沟齿沙鼠属
-    zh-cn: 沟齿沙鼠属
-    zh-hans: 沟齿沙鼠属
-    zh-hant: 溝齒沙鼠屬
-    zh-hk: 溝齒沙鼠屬
-    zh-tw: 溝齒沙鼠屬
+    zh_cn: 沟齿沙鼠属
+    zh_hans: 沟齿沙鼠属
+    zh_hant: 溝齒沙鼠屬
+    zh_hk: 溝齒沙鼠屬
+    zh_tw: 溝齒沙鼠屬
 ---
 # [[Reithrodon]]
 

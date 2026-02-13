@@ -72,7 +72,7 @@ dv_has_:
     azb: پولجوقلولار
     bar: Squamata
     be: лускаватыя
-    be-tarask: лускаватыя
+    be_tarask: лускаватыя
     bg: люспести
     br: Squamata
     bs: Squamata
@@ -85,11 +85,11 @@ dv_has_:
     da: slanger og øgler
     de: Schuppenkriechtiere
     de-at: Squamata
-    de-ch: Schuppenkriechtiere
+    de_ch: Schuppenkriechtiere
     el: Φολιδωτά
     en: Squamata
-    en-ca: Squamata
-    en-gb: Squamata
+    en_ca: Squamata
+    en_gb: Squamata
     eo: Skvamuloj
     es: Squamata
     et: Soomuselised
@@ -123,11 +123,11 @@ dv_has_:
     kab: Timeskebrin
     kg: Squamata
     kk: Қабыршақтылар
-    kk-arab: قابىرشاقتىلار
+    kk_arab: قابىرشاقتىلار
     kk-cn: قابىرشاقتىلار
-    kk-cyrl: Қабыршақтылар
+    kk_cyrl: Қабыршақтылар
     kk-kz: Қабыршақтылар
-    kk-latn: Qabırşaqtılar
+    kk_latn: Qabırşaqtılar
     kk-tr: Qabırşaqtılar
     ko: 뱀목
     ku: Pelikdar
@@ -149,7 +149,7 @@ dv_has_:
     nap: Squamata
     nb: skjellreptiler
     nds: Squamata
-    nds-nl: Squamata
+    nds_nl: Squamata
     nl: schubreptielen
     nn: skjelkrypdyr
     nrm: Squamata
@@ -161,7 +161,7 @@ dv_has_:
     pms: Squamata
     pnb: چانے کرلے
     pt: Escamados
-    pt-br: Escamados
+    pt_br: Escamados
     rm: Squamata
     ro: Squamata
     ru: чешуйчатые
@@ -172,8 +172,8 @@ dv_has_:
     sl: luskarji
     sq: Squamata
     sr: Squamata
-    sr-ec: Squamata
-    sr-el: Squamata
+    sr_ec: Squamata
+    sr_el: Squamata
     su: Squamata
     sv: Fjällbärande kräldjur
     sw: Squamata
@@ -194,12 +194,12 @@ dv_has_:
     yue: 有鱗目
     zea: Squamata
     zh: 有鱗目
-    zh-cn: 有鳞目
-    zh-hans: 有鳞目
-    zh-hant: 有鱗目
-    zh-hk: 有鱗目
-    zh-sg: 有鳞目
-    zh-tw: 有鱗目
+    zh_cn: 有鳞目
+    zh_hans: 有鳞目
+    zh_hant: 有鱗目
+    zh_hk: 有鱗目
+    zh_sg: 有鳞目
+    zh_tw: 有鱗目
     zu: Squamata
 ---
 # [[Squamata]]

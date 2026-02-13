@@ -106,7 +106,7 @@ dv_has_:
     azb: باب فاسی
     bar: Bob Fosse
     be: Боб Фос
-    be-tarask: Боб Фос
+    be_tarask: Боб Фос
     bg: Боб Фос
     bm: Bob Fosse
     bn: বব ফসে
@@ -120,11 +120,11 @@ dv_has_:
     dag: Bob Fosse
     de: Bob Fosse
     de-at: Bob Fosse
-    de-ch: Bob Fosse
+    de_ch: Bob Fosse
     el: Μπομπ Φόσι
     en: Bob Fosse
-    en-ca: Bob Fosse
-    en-gb: Bob Fosse
+    en_ca: Bob Fosse
+    en_gb: Bob Fosse
     en-us: Bob Fosse
     eo: Bob Fosse
     es: Bob Fosse
@@ -170,7 +170,7 @@ dv_has_:
     nap: Bob Fosse
     nb: Bob Fosse
     nds: Bob Fosse
-    nds-nl: Bob Fosse
+    nds_nl: Bob Fosse
     nl: Bob Fosse
     nn: Bob Fosse
     nrm: Bob Fosse
@@ -182,7 +182,7 @@ dv_has_:
     pms: Bob Fosse
     prg: Bob Fosse
     pt: Bob Fosse
-    pt-br: Bob Fosse
+    pt_br: Bob Fosse
     rgn: Bob Fosse
     rm: Bob Fosse
     ro: Bob Fosse
@@ -195,8 +195,8 @@ dv_has_:
     sl: Bob Fosse
     sq: Bob Fosse
     sr: Боб Фоси
-    sr-ec: Боб Фоси
-    sr-el: Bob Fosi
+    sr_ec: Боб Фоси
+    sr_el: Bob Fosi
     sv: Bob Fosse
     sw: Bob Fosse
     ta: பாப் ஃபாஸ்
@@ -215,10 +215,10 @@ dv_has_:
     yo: Bob Fosse
     yue: 卜科西
     zh: 鲍勃·福斯
-    zh-cn: 鲍勃·福斯
-    zh-hk: 卜科西
+    zh_cn: 鲍勃·福斯
+    zh_hk: 卜科西
     zh-my: 卜·科西
-    zh-sg: 卜·科西
+    zh_sg: 卜·科西
     zu: Bob Fosse
 ---
 # [[Fosse,Bob]] 

@@ -52,7 +52,7 @@ dv_has_:
     ar: روليت
     ast: ruleta
     bar: Roulette
-    be-tarask: рулетка
+    be_tarask: рулетка
     bew: Rolèt
     bg: рулетка
     ca: ruleta
@@ -60,12 +60,12 @@ dv_has_:
     cs: ruleta
     da: roulette
     de: Roulette
-    de-ch: Roulette
+    de_ch: Roulette
     el: ρουλέτα
     eml: roulette
     en: roulette
-    en-ca: roulette
-    en-gb: roulette
+    en_ca: roulette
+    en_gb: roulette
     eo: ruleto
     es: ruleta
     et: rulett
@@ -93,14 +93,14 @@ dv_has_:
     nn: rulett
     pl: ruletka
     pt: roleta
-    pt-br: roleta
+    pt_br: roleta
     ro: ruletă
     ru: рулетка
     sk: ruleta
     sl: ruleta
     sr: рулет
-    sr-ec: рулет
-    sr-el: rulet
+    sr_ec: рулет
+    sr_el: rulet
     sv: roulette
     th: รูเล็ตต์
     tr: rulet
@@ -109,12 +109,12 @@ dv_has_:
     wuu: 轮盘
     yue: 輪盤
     zh: 輪盤
-    zh-cn: 轮盘
-    zh-hans: 轮盘
-    zh-hant: 輪盤
-    zh-hk: 輪盤
-    zh-sg: 轮盘
-    zh-tw: 輪盤
+    zh_cn: 轮盘
+    zh_hans: 轮盘
+    zh_hant: 輪盤
+    zh_hk: 輪盤
+    zh_sg: 轮盘
+    zh_tw: 輪盤
     zu: bhonasi ye-roulette
 ---
 # [[Roulette]] 

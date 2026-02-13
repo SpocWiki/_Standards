@@ -93,7 +93,7 @@ dv_has_:
     ast: Suétanu
     bar: Käia
     be: падвал
-    be-tarask: падвал
+    be_tarask: падвал
     bg: Изба
     bn: বেসমেন্ট
     ca: soterrani
@@ -153,16 +153,16 @@ dv_has_:
     sl: klet
     sq: Bodrumi
     sr: подрум
-    sr-ec: подрум
-    sr-el: podrum
+    sr_ec: подрум
+    sr_el: podrum
     sv: källare
     szl: pywnica
     tg: подвал
     tl: Silong
     tr: bodrum
     tt: идән асты
-    tt-cyrl: идән асты
-    tt-latn: idän astı
+    tt_cyrl: идән асты
+    tt_latn: idän astı
     uk: підвал
     ur: سرداب
     vep: karzinžir
@@ -170,12 +170,12 @@ dv_has_:
     vo: Keller
     yue: 地庫
     zh: 地下室
-    zh-cn: 地下室
-    zh-hans: 地下室
-    zh-hant: 地下室
-    zh-hk: 地下室
-    zh-sg: 地下室
-    zh-tw: 地下室
+    zh_cn: 地下室
+    zh_hans: 地下室
+    zh_hant: 地下室
+    zh_hk: 地下室
+    zh_sg: 地下室
+    zh_tw: 地下室
 ---
 # [[Basement]] 
 

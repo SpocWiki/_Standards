@@ -173,8 +173,8 @@ Archive_of_Our_Own_tag: Penises
 Unicode_character: "\U000130B8"
 dv_has_:
   name_:
-    aeb-arab: زب
-    aeb-latn: zabb
+    aeb_arab: زب
+    aeb_latn: zabb
     af: penis
     an: Pene
     ar: قضيب
@@ -192,7 +192,7 @@ dv_has_:
     bar: Zipfe
     bcl: Putoy
     be: пеніс
-    be-tarask: чэлес
+    be_tarask: чэлес
     bew: Jakar
     bg: пенис
     bho: लाँड़
@@ -214,13 +214,13 @@ dv_has_:
     da: penis
     dag: Yoli
     de: Penis
-    de-ch: Penis
+    de_ch: Penis
     diq: Penis
     dv: ފިރިހެން ހަށި
     el: πέος
     en: penis
-    en-ca: Penis
-    en-gb: penis
+    en_ca: Penis
+    en_gb: penis
     eo: peniso
     es: pene
     et: Suguti
@@ -288,7 +288,7 @@ dv_has_:
     nan: Im-keng
     nb: penis
     nds: Pint
-    nds-nl: hoantje
+    nds_nl: hoantje
     ne: लिङ्ग
     nl: penis
     nn: penis
@@ -301,7 +301,7 @@ dv_has_:
     pnt: ψωλή
     ps: غيڼ
     pt: pénis
-    pt-br: pênis
+    pt_br: pênis
     pwn: qalici
     qu: Ullu
     rki: လိင်တံ
@@ -359,14 +359,14 @@ dv_has_:
     za: Viz
     zgh: ⴰⴳⵍⴰⵢ
     zh: 陰莖
-    zh-cn: 阴茎
-    zh-hans: 阴茎
-    zh-hant: 陰莖
-    zh-hk: 陰莖
-    zh-mo: 陰莖
+    zh_cn: 阴茎
+    zh_hans: 阴茎
+    zh_hant: 陰莖
+    zh_hk: 陰莖
+    zh_mo: 陰莖
     zh-my: 阴茎
-    zh-sg: 阴茎
-    zh-tw: 陰莖
+    zh_sg: 阴茎
+    zh_tw: 陰莖
     zu: Umthondo
 ---
 # [[Penis]] 

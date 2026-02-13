@@ -159,7 +159,7 @@ dv_has_:
     ba: физик химия
     bcl: kimikang pisikal
     be: фізічная хімія
-    be-tarask: фізычная хімія
+    be_tarask: фізычная хімія
     bg: физикохимия
     bn: ভৌত রসায়ন
     bs: fizikalna hemija
@@ -214,7 +214,7 @@ dv_has_:
     ml: ഭൗതികരസതന്ത്രം
     mn: Физикийн хими
     ms: kimia fizik
-    ms-arab: کيميا فيزيک
+    ms_arab: کيميا فيزيک
     my: ရူပဓာတုဗေဒ
     nan: bu̍t-lí hòa-ha̍k
     nb: fysikalsk kjemi
@@ -228,7 +228,7 @@ dv_has_:
     pms: Chimica fìsica
     pnb: فیزیکل کیمسٹری
     pt: físico-química
-    pt-br: físico-química
+    pt_br: físico-química
     rki: ရူပဓာတုဗေဒ
     ro: chimie fizică
     ru: физическая химия
@@ -267,9 +267,9 @@ dv_has_:
     yi: פיזיקאלישע כעמיע
     yue: 物理化學
     zh: 物理化学
-    zh-cn: 物理化学
-    zh-hans: 物理化学
-    zh-hant: 物理化學
+    zh_cn: 物理化学
+    zh_hans: 物理化学
+    zh_hant: 物理化學
 ---
 # [[Physical_Chemistry]] 
 

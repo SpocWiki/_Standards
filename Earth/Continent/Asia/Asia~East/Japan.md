@@ -190,7 +190,7 @@ dv_has_:
     ace: Jeupun
     acm: اليابان
     ady: Японие
-    aeb-arab: اليابان
+    aeb_arab: اليابان
     af: Japan
     aln: Japan
     alt: Япония
@@ -219,7 +219,7 @@ dv_has_:
     bcl: Hapon
     bdr: Gipun
     be: Японія
-    be-tarask: Японія
+    be_tarask: Японія
     bew: Jepang
     bg: Япония
     bgn: جاپان
@@ -239,7 +239,7 @@ dv_has_:
     bug-bugi: ᨊᨗᨖᨚ
     bxr: Япон Улас
     ca: Japó
-    cbk-zam: Japón
+    cbk_zam: Japón
     cdo: Nĭk-buōng
     ce: Япон
     ceb: Hapon
@@ -250,7 +250,7 @@ dv_has_:
     co: Giappone
     cr: ᔭᐊᐸᐊᐣ
     crh: Japon
-    crh-latn: Yaponiya
+    crh_latn: Yaponiya
     cs: Japonsko
     csb: Japòńskô
     cu: Ꙗпѡнїꙗ
@@ -260,7 +260,7 @@ dv_has_:
     dag: Japan
     de: Japan
     de-at: Japan
-    de-ch: Japan
+    de_ch: Japan
     din: Japan
     diq: Japonya
     dsb: Japańska
@@ -272,8 +272,8 @@ dv_has_:
     el: Ιαπωνία
     eml: Giapòṅ
     en: Japan
-    en-ca: Japan
-    en-gb: Japan
+    en_ca: Japan
+    en_gb: Japan
     en-us: Japan
     eo: Japanio
     es: Japón
@@ -300,7 +300,7 @@ dv_has_:
     gn: Hapõ
     gom: ಜಪಾನ್
     gom-deva: जपान
-    gom-latn: Japan
+    gom_latn: Japan
     gor: Japangi
     got: "\U0001033E\U00010330\U00010340\U00010330\U0001033D"
     gpe: Japan
@@ -361,7 +361,7 @@ dv_has_:
     ks: جاپان
     ksh: Japan
     ku: Japon
-    ku-latn: Japon
+    ku_latn: Japon
     kv: Япония
     kw: Nihon
     ky: Жапония
@@ -385,7 +385,7 @@ dv_has_:
     lzh: 日本
     mad: Jeppang
     mai: जापान
-    map-bms: Jepang
+    map_bms: Jepang
     mdf: Японмастор
     mg: Japana
     mh: Japan
@@ -403,7 +403,7 @@ dv_has_:
     mr: जपान
     mrj: Япони
     ms: Jepun
-    ms-arab: جڤون
+    ms_arab: جڤون
     mt: Ġappun
     mwl: Japon
     my: ဂျပန်နိုင်ငံ
@@ -415,7 +415,7 @@ dv_has_:
     nap: Giappone
     nb: Japan
     nds: Japan
-    nds-nl: Japan
+    nds_nl: Japan
     ne: जापान
     new: जापान
     nia: Nifo
@@ -449,7 +449,7 @@ dv_has_:
     pnt: Ιαπωνία
     ps: جاپان
     pt: Japão
-    pt-br: Japão
+    pt_br: Japão
     pwn: Dripun
     qu: Nihun
     rki: ဂျပန်ဘုရင့်နိုင်ငံတော်
@@ -487,8 +487,8 @@ dv_has_:
     so: Jabaan
     sq: Japonia
     sr: Јапан
-    sr-ec: Јапан
-    sr-el: Japan
+    sr_ec: Јапан
+    sr_el: Japan
     srn: Japan
     ss: IJaphani
     st: Japane
@@ -506,7 +506,7 @@ dv_has_:
     te: జపాన్
     tet: Japaun
     tg: Ҷопон
-    tg-cyrl: Ҷопон
+    tg_cyrl: Ҷопон
     th: ประเทศญี่ปุ่น
     ti: ጃፓን
     tig: ጃፓን
@@ -521,8 +521,8 @@ dv_has_:
     trv: Japan
     ts: Japani
     tt: Япония
-    tt-cyrl: Япония
-    tt-latn: Yaponiä
+    tt_cyrl: Япония
+    tt_latn: Yaponiä
     tum: Japan
     tw: Yapan
     ty: Tāpōnē
@@ -554,14 +554,14 @@ dv_has_:
     zea: Japan
     zgh: ⵏⵉⴱⵓⵏ
     zh: 日本
-    zh-cn: 日本
-    zh-hans: 日本
-    zh-hant: 日本
-    zh-hk: 日本
-    zh-mo: 日本
+    zh_cn: 日本
+    zh_hans: 日本
+    zh_hant: 日本
+    zh_hk: 日本
+    zh_mo: 日本
     zh-my: 日本
-    zh-sg: 日本
-    zh-tw: 日本
+    zh_sg: 日本
+    zh_tw: 日本
     zu: IJaphani
   telephone_:
     Prefix_:

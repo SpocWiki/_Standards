@@ -99,7 +99,7 @@ dv_has_:
     az: monosaxarid
     azb: مونوساکارید
     be: монацукрыды
-    be-tarask: монацукрыды
+    be_tarask: монацукрыды
     bg: монозахарид
     bn: মনোস্যাকারাইড
     bs: monosaharidi
@@ -131,11 +131,11 @@ dv_has_:
     it: monosaccaridi
     ja: 単糖
     kk: моносахаридтер
-    kk-arab: مونوساحارىيدتەر
+    kk_arab: مونوساحارىيدتەر
     kk-cn: مونوساحارىيدتەر
-    kk-cyrl: моносахаридтер
+    kk_cyrl: моносахаридтер
     kk-kz: моносахаридтер
-    kk-latn: monosaxarïdter
+    kk_latn: monosaxarïdter
     kk-tr: monosaxarïdter
     ko: 단당류
     ku: monosakkarîd
@@ -163,8 +163,8 @@ dv_has_:
     sms: monosakkariid
     sq: monosakaridet
     sr: моносахарид
-    sr-ec: моносахарид
-    sr-el: monosaharid
+    sr_ec: моносахарид
+    sr_el: monosaharid
     su: monosakarida
     sv: monosackarid
     ta: ஒற்றைச்சர்க்கரை
@@ -177,12 +177,12 @@ dv_has_:
     wuu: 单糖
     yue: 單醣
     zh: 單醣
-    zh-cn: 单糖
-    zh-hans: 单糖
-    zh-hant: 單醣
-    zh-hk: 單醣
-    zh-sg: 单糖
-    zh-tw: 單醣
+    zh_cn: 单糖
+    zh_hans: 单糖
+    zh_hant: 單醣
+    zh_hk: 單醣
+    zh_sg: 单糖
+    zh_tw: 單醣
     zu: Ama-monosaccharides
 ---
 # [[Monosaccharide]] 

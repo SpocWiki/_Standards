@@ -15,11 +15,11 @@ dv_has_:
     da: Marcel Reich-Ranicki
     dag: Marcel Reich-Ranicki
     de: Marcel Reich-Ranicki
-    de-ch: Marcel Reich-Ranicki
+    de_ch: Marcel Reich-Ranicki
     el: Μαρσέλ Ράιχ-Ρανίτσκι
     en: Marcel Reich-Ranicki
-    en-ca: Marcel Reich-Ranicki
-    en-gb: Marcel Reich-Ranicki
+    en_ca: Marcel Reich-Ranicki
+    en_gb: Marcel Reich-Ranicki
     eo: Marcel Reich-Ranicki
     es: Marcel Reich-Ranicki
     et: Marcel Reich-Ranicki
@@ -49,7 +49,7 @@ dv_has_:
     oc: Marcel Reich-Ranicki
     pl: Marcel Reich-Ranicki
     pt: Marcel Reich-Ranicki
-    pt-br: Marcel Reich-Ranicki
+    pt_br: Marcel Reich-Ranicki
     ro: Marcel Reich-Ranicki
     ru: Марсель Райх-Раницкий
     sco: Marcel Reich-Ranicki
@@ -60,8 +60,8 @@ dv_has_:
     uk: Марсель Райх-Раніцкі
     vi: Marcel Reich-Ranicki
     zh: 馬塞爾·萊希·拉尼奇
-    zh-hans: 马塞尔·莱希-拉尼基
-    zh-hant: 馬塞爾·萊希-拉尼基
+    zh_hans: 马塞尔·莱希-拉尼基
+    zh_hant: 馬塞爾·萊希-拉尼基
 aliases:
 - Marcel Reich-Ranicki
 - Marcellus Reich-Ranicki

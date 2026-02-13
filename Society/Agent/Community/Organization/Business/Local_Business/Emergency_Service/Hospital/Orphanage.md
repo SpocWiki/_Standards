@@ -88,7 +88,7 @@ dv_has_:
     ast: Orfanatu
     az: uşaq evi
     ba: балалар йорттары
-    be-tarask: сіроцкі дом
+    be_tarask: сіроцкі дом
     bn: এতিমখানা
     ca: orfenat
     cs: sirotčinec
@@ -115,11 +115,11 @@ dv_has_:
     it: orfanotrofio
     ja: 孤児院
     kk: балалар үйі
-    kk-arab: بالالار ٴۇيى
+    kk_arab: بالالار ٴۇيى
     kk-cn: بالالار ٴۇيى
-    kk-cyrl: Балалар Үйі
+    kk_cyrl: Балалар Үйі
     kk-kz: Балалар Үйі
-    kk-latn: Balalar Üýi
+    kk_latn: Balalar Üýi
     kk-tr: Balalar Üýi
     ko: 고아원
     ku: Sêwîxane
@@ -135,7 +135,7 @@ dv_has_:
     pa: ਯਤੀਮਖ਼ਾਨਾ
     pl: dom dziecka
     pt: orfanato
-    pt-br: orfanato
+    pt_br: orfanato
     ro: orfelinat
     ru: сиротский приют
     sh: sirotište
@@ -153,12 +153,12 @@ dv_has_:
     vi: Trại trẻ mồ côi
     yue: 孤兒院
     zh: 孤兒院
-    zh-cn: 孤儿院
-    zh-hans: 孤儿院
-    zh-hant: 孤兒院
-    zh-hk: 孤兒院
-    zh-sg: 孤儿院
-    zh-tw: 孤兒院
+    zh_cn: 孤儿院
+    zh_hans: 孤儿院
+    zh_hant: 孤兒院
+    zh_hk: 孤兒院
+    zh_sg: 孤儿院
+    zh_tw: 孤兒院
 ---
 # [[Orphanage]] 
 

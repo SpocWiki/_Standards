@@ -112,7 +112,7 @@ dv_has_:
     arz: جون بارى (ملحن)
     ast: John Barry
     azb: جان بری
-    be-tarask: Джон Бары
+    be_tarask: Джон Бары
     bg: Джон Бари
     bn: জন ব্যারি
     ca: John Barry
@@ -153,7 +153,7 @@ dv_has_:
     pap: John Barry
     pl: John Barry
     pt: John Barry
-    pt-br: John Barry
+    pt_br: John Barry
     ro: John Barry
     ru: Джон Барри
     sh: John Barry
@@ -171,12 +171,12 @@ dv_has_:
     war: John Barry
     yue: 約翰·巴瑞
     zh: 约翰·巴瑞
-    zh-cn: 约翰·巴瑞
-    zh-hans: 约翰·巴瑞
-    zh-hant: 約翰·巴瑞
-    zh-hk: 約翰·巴瑞
-    zh-sg: 约翰·巴瑞
-    zh-tw: 約翰·巴瑞
+    zh_cn: 约翰·巴瑞
+    zh_hans: 约翰·巴瑞
+    zh_hant: 約翰·巴瑞
+    zh_hk: 約翰·巴瑞
+    zh_sg: 约翰·巴瑞
+    zh_tw: 約翰·巴瑞
 ---
 # [[Barry,John(composer)]] 
 

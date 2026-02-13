@@ -88,7 +88,7 @@ dv_has_:
     af: Omgewingschemie
     ar: كيمياء بيئية
     ast: Química ambiental
-    be-tarask: хімія навакольнага асяродзьдзя
+    be_tarask: хімія навакольнага асяродзьдзя
     bg: Химия на околната среда
     bn: পরিবেশ রসায়ন
     ca: química ambiental
@@ -120,7 +120,7 @@ dv_has_:
     ml: പാരിസ്ഥിതികരസതന്ത്രം
     mn: Хүрээлэн буй орчны хими
     ms: kimia alam sekitar
-    ms-arab: کيميا عالم سکيتر
+    ms_arab: کيميا عالم سکيتر
     nb: miljøkjemi
     nl: milieuchemie
     pl: chemia środowiska
@@ -147,12 +147,12 @@ dv_has_:
     war: Kimika pankalibongan
     yue: 環境化學
     zh: 环境化学
-    zh-cn: 环境化学
-    zh-hans: 环境化学
-    zh-hant: 環境化學
-    zh-hk: 環境化學
-    zh-sg: 环境化学
-    zh-tw: 環境化學
+    zh_cn: 环境化学
+    zh_hans: 环境化学
+    zh_hant: 環境化學
+    zh_hk: 環境化學
+    zh_sg: 环境化学
+    zh_tw: 環境化學
 ---
 # [[Environmental_Chemistry]] 
 

@@ -84,7 +84,7 @@ dv_has_:
     az: elastiklik modulu
     bar: elastizitätsmodui
     be: модулі пругкасці
-    be-tarask: модуль пругкасьці
+    be_tarask: модуль пругкасьці
     bg: модул на еластичност
     bn: স্থিতিস্থাপক গুণাঙ্ক
     bs: modul elastičnosti
@@ -95,8 +95,8 @@ dv_has_:
     da: E-modul
     de: Elastizitätsmodul
     en: elastic modulus
-    en-ca: elastic modulus
-    en-gb: elastic modulus
+    en_ca: elastic modulus
+    en_gb: elastic modulus
     eo: modulo de elasteco
     es: módulo elástico
     et: elastsusmoodul
@@ -129,7 +129,7 @@ dv_has_:
     sk: modul pružnosti
     sl: prožnostni modul
     sr: modul elastičnosti
-    sr-ec: модуо еластичности
+    sr_ec: модуо еластичности
     sv: elasticitetsmodul
     tr: elastisite modülü
     uk: модулі пружності

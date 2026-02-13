@@ -60,7 +60,7 @@ dv_has_:
     ar: كونشرتو
     az: konsert
     ba: Концерт
-    be-tarask: канцэрт
+    be_tarask: канцэрт
     bg: Концерт
     ca: concert
     ckb: کنچێرتۆ

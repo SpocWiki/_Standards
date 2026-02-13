@@ -103,7 +103,7 @@ dv_has_:
     ast: Lliteratura n'alemán
     az: Alman ədəbiyyatı
     be: нямецкая літаратура
-    be-tarask: нямецкая літаратура
+    be_tarask: нямецкая літаратура
     bg: Немска поезия
     bjn: Sastra babahasa Jerman
     bn: জার্মান ভাষার সাহিত্য
@@ -134,11 +134,11 @@ dv_has_:
     ja: ドイツ文学
     ka: გერმანული ლიტერატურა
     kk: Неміс әдебиеті
-    kk-arab: نەمىس ادەبىييەتى
+    kk_arab: نەمىس ادەبىييەتى
     kk-cn: نەمىس ادەبىييەتى
-    kk-cyrl: Неміс әдебиеті
+    kk_cyrl: Неміс әдебиеті
     kk-kz: Неміс әдебиеті
-    kk-latn: Nemis ädebïyeti
+    kk_latn: Nemis ädebïyeti
     kk-tr: Nemis ädebïyeti
     kn: ಜರ್ಮನ್ ಸಾಹಿತ್ಯ
     ko: 독일 문학
@@ -160,8 +160,8 @@ dv_has_:
     sk: Nemecká literatúra
     sl: nemška literatura
     sr: Немачка књижевност
-    sr-ec: Немачка књижевност
-    sr-el: Nemačka književnost
+    sr_ec: Немачка књижевност
+    sr_el: Nemačka književnost
     sv: Tyskspråkig litteratur
     tk: Nemes edebiýaty
     tl: Panitikang Aleman
@@ -174,12 +174,12 @@ dv_has_:
     wuu: 德语文学
     yue: 德文文學
     zh: 德语文学
-    zh-cn: 德语文学
-    zh-hans: 德语文学
-    zh-hant: 德語文學
-    zh-hk: 德語文學
-    zh-sg: 德语文学
-    zh-tw: 德語文學
+    zh_cn: 德语文学
+    zh_hans: 德语文学
+    zh_hant: 德語文學
+    zh_hk: 德語文學
+    zh_sg: 德语文学
+    zh_tw: 德語文學
 ---
 # [[German_Literature]] 
 

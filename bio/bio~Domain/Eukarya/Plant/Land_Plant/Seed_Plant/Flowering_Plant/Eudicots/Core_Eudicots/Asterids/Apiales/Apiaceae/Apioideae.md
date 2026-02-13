@@ -35,7 +35,7 @@ dv_has_:
     arz: خيماوات
     ast: Apioideae
     az: Kərəvizkimilər
-    be-tarask: Apioideae
+    be_tarask: Apioideae
     bg: Apioideae
     br: Apioideae
     ca: Apiòidia
@@ -72,7 +72,7 @@ dv_has_:
     oc: Apioideae
     pl: Apioideae
     pt: Apioideae
-    pt-br: Apioideae
+    pt_br: Apioideae
     rm: Apioideae
     ro: Apioideae
     ru: сельдерейные
@@ -81,14 +81,14 @@ dv_has_:
     sq: Apioideae
     sv: Apioideae
     tt: силдиричәләр
-    tt-cyrl: силдиричәләр
+    tt_cyrl: силдиричәләр
     uk: Селерові
     vi: Apioideae
     vo: Apioideae
     war: Apioideae
     zh: 芹亚科
-    zh-cn: 芹亚科
-    zh-hans: 芹亚科
+    zh_cn: 芹亚科
+    zh_hans: 芹亚科
 ---
 # [[Apioideae]] 
 

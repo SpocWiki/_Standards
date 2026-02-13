@@ -86,7 +86,7 @@ dv_has_:
     az: Vulkan
     ba: Вулкан
     be: Вулкан
-    be-tarask: Вулькан
+    be_tarask: Вулькан
     bg: Вулкан
     br: Vulkan
     bs: Vulkan
@@ -96,11 +96,11 @@ dv_has_:
     cy: Fwlcan
     da: Vulkan
     de: Vulcanus
-    de-ch: Vulcanus
+    de_ch: Vulcanus
     el: Βούλκαν
     en: Vulcan
-    en-ca: Vulcan
-    en-gb: Vulcan
+    en_ca: Vulcan
+    en_gb: Vulcan
     eo: Vulkano
     es: Vulcano
     et: Vulcanus
@@ -125,7 +125,7 @@ dv_has_:
     ko: 불카누스
     ks: وُلکَن
     ku: Vulkan
-    ku-latn: Vulkan
+    ku_latn: Vulkan
     la: Vulcanus
     lb: Vulcanus
     lmo: Volcan
@@ -145,7 +145,7 @@ dv_has_:
     os: Вулкан
     pl: Wulkan
     pt: Vulcano
-    pt-br: Vulcano
+    pt_br: Vulcano
     ro: Vulcan
     ru: Вулкан
     sco: Vulcan
@@ -153,7 +153,7 @@ dv_has_:
     sk: Vulkán
     sl: Vulkan
     sr: Вулкан
-    sr-ec: Вулкан
+    sr_ec: Вулкан
     sv: Vulcanus
     ta: வல்கன்
     tg: Вулкон
@@ -166,7 +166,7 @@ dv_has_:
     xmf: ვულკანუსი
     yue: 霍努坎
     zh: 武尔坎努斯
-    zh-hant: 兀兒肯
+    zh_hant: 兀兒肯
 ---
 # [[Vulcan]] 
 

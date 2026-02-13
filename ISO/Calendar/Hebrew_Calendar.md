@@ -115,7 +115,7 @@ dv_has_:
     azb: عبری تقویمی
     ba: Йәһүд календары
     be: Яўрэйскі каляндар
-    be-tarask: гэбрайскі каляндар
+    be_tarask: гэбрайскі каляндар
     bg: Еврейски календар
     bn: হিব্রু বর্ষপঞ্জী
     br: Deiziadur hebraek
@@ -131,8 +131,8 @@ dv_has_:
     diq: Teqwimo İbranki
     el: Εβραϊκό ημερολόγιο
     en: Hebrew calendar
-    en-ca: Hebrew calendar
-    en-gb: Hebrew calendar
+    en_ca: Hebrew calendar
+    en_gb: Hebrew calendar
     eo: hebrea kalendaro
     es: calendario hebreo
     et: Juudi kalender
@@ -181,7 +181,7 @@ dv_has_:
     pl: kalendarz żydowski
     pnb: عبرانی کیلنڈر
     pt: calendário judaico
-    pt-br: Calendário judaico
+    pt_br: Calendário judaico
     ro: calendarul ebraic
     ru: еврейский календарь
     sh: Hebrejski kalendar
@@ -189,7 +189,7 @@ dv_has_:
     sk: Hebrejský kalendár
     sl: hebrejski koledar
     sr: Јеврејски календар
-    sr-ec: Јеврејски календар
+    sr_ec: Јеврејски календар
     su: Kalénder Yahudi
     sv: Judiska kalendern
     sw: Kalenda ya Kiyahudi
@@ -207,7 +207,7 @@ dv_has_:
     yi: יידישער לוח
     yue: 猶太曆
     zh: 希伯來曆
-    zh-tw: 希伯來曆
+    zh_tw: 希伯來曆
 ---
 # [[Hebrew_Calendar]] 
 

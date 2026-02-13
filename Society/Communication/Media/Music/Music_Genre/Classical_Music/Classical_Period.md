@@ -81,7 +81,7 @@ dv_has_:
     arz: الفتره الكلاسيكيه
     ast: Música del Clasicismu
     be: музыка класіцызму
-    be-tarask: музыка клясыцызму
+    be_tarask: музыка клясыцызму
     bg: Класицизъм
     bs: Klasična muzika
     ca: classicisme musical
@@ -122,13 +122,13 @@ dv_has_:
     pl: klasycyzm w muzyce
     ps: د کلاسیکي دورې موسیقي
     pt: período clássico
-    pt-br: período clássico
+    pt_br: período clássico
     ru: музыка эпохи классицизма
     sh: Klasicizam
     sk: Hudobný klasicizmus
     sl: glasbeni klasicizem
     sr: Класицизам (музика)
-    sr-ec: Класицизам (музика)
+    sr_ec: Класицизам (музика)
     tg: мусиқии давраи классик
     th: ดนตรีสมัยคลาสสิก
     uk: музика епохи класицизму

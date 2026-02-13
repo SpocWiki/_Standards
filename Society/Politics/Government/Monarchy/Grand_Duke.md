@@ -73,14 +73,14 @@ dv_has_:
     ar: دوق أكبر
     arz: دوق اكبر
     be: вялікі герцаг
-    be-tarask: вялікі князь
+    be_tarask: вялікі князь
     bg: Велик херцог
     ca: gran duc
     ckb: داچی مەزن
     cs: velkovévoda
     da: Storhertug
     de: Großherzog
-    de-ch: Grossherzog
+    de_ch: Grossherzog
     el: Μέγας δούκας
     en: grand duke
     eo: grandduko
@@ -118,8 +118,8 @@ dv_has_:
     smn: stuorrâherttua
     sq: Duka i madh
     sr: велики војвода
-    sr-ec: Велики војвода
-    sr-el: Veliki vojvoda
+    sr_ec: Велики војвода
+    sr_el: Veliki vojvoda
     sv: storhertig
     th: แกรนด์ดยุก
     tr: grandük
@@ -127,12 +127,12 @@ dv_has_:
     ur: دوک بزرگ
     vi: đại công tước
     zh: 大公
-    zh-cn: 大公
-    zh-hans: 大公
-    zh-hant: 大公
-    zh-hk: 大公
-    zh-sg: 大公
-    zh-tw: 大公
+    zh_cn: 大公
+    zh_hans: 大公
+    zh_hant: 大公
+    zh_hk: 大公
+    zh_sg: 大公
+    zh_tw: 大公
 ---
 # [[Grand_Duke]] 
 

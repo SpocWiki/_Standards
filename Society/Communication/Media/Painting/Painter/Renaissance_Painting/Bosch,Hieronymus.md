@@ -205,7 +205,7 @@ dv_has_:
     ba: Иероним Босх
     ban: Hieronymus Bosch
     be: Іеранім Босх
-    be-tarask: Геранімус Босх
+    be_tarask: Геранімус Босх
     bg: Йеронимус Бош
     br: Hieronymus Bosch
     bs: Hieronymus Bosch
@@ -217,8 +217,8 @@ dv_has_:
     el: Ιερώνυμος Μπος
     eml: Hieronymus Bosch
     en: Hieronymus Bosch
-    en-ca: Hieronymus Bosch
-    en-gb: Hieronymus Bosch
+    en_ca: Hieronymus Bosch
+    en_gb: Hieronymus Bosch
     eo: Hieronymus Bosch
     es: Jerónimo Bosch
     et: Hieronymus Bosch
@@ -263,7 +263,7 @@ dv_has_:
     pms: Hieronymus Bosch
     pnb: ہیرونیمُس بوش
     pt: Hieronymus Bosch
-    pt-br: Hieronymus Bosch
+    pt_br: Hieronymus Bosch
     qu: Hieronymus Bosch
     ro: Hieronymus Bosch
     ru: Иероним Босх
@@ -273,15 +273,15 @@ dv_has_:
     sl: Hieronymus Bosch
     sq: Hieronymus Bosch
     sr: Хијероним Бош
-    sr-ec: Хијероним Бош
-    sr-el: Hijeronim Boš
+    sr_ec: Хијероним Бош
+    sr_el: Hijeronim Boš
     stq: Jheronimus van Aken
     sv: Hieronymus Bosch
     sw: Hieronymus Bosch
     szy: Ye-low-ni-mi-s.pow-si
     ta: இரானிமசு போசு
     tg: Ҳиеронимус Бош
-    tg-latn: Hieronimus Boş
+    tg_latn: Hieronimus Boş
     th: ฮีเยโรนีมึส โบส
     tr: Hieronymus Bosch
     uk: Ієронімус Босх
@@ -292,12 +292,12 @@ dv_has_:
     xmf: ჰიერონიმუს ბოსხი
     yue: 波希
     zh: 耶罗尼米斯·博斯
-    zh-cn: 耶罗尼米斯·博斯
-    zh-hans: 耶罗尼米斯·博斯
-    zh-hant: 耶羅尼米斯·博斯
-    zh-hk: 耶羅尼米斯·博斯
-    zh-sg: 耶罗尼米斯·博斯
-    zh-tw: 耶羅尼米斯·波希
+    zh_cn: 耶罗尼米斯·博斯
+    zh_hans: 耶罗尼米斯·博斯
+    zh_hant: 耶羅尼米斯·博斯
+    zh_hk: 耶羅尼米斯·博斯
+    zh_sg: 耶罗尼米斯·博斯
+    zh_tw: 耶羅尼米斯·波希
 ---
 # [[Bosch,Hieronymus]] 
 

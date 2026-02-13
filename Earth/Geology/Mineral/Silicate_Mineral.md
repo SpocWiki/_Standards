@@ -95,7 +95,7 @@ dv_has_:
     ast: Silicatu
     az: Silikatlar
     be: сілікаты
-    be-tarask: сылікаты
+    be_tarask: сылікаты
     bg: Силикати
     bs: Silikat
     ca: minerals silicats
@@ -103,10 +103,10 @@ dv_has_:
     cy: silicad
     da: silikat
     de: Silicate
-    de-ch: Silicate
+    de_ch: Silicate
     en: silicate mineral
-    en-ca: Silicate minerals
-    en-gb: silicate mineral
+    en_ca: Silicate minerals
+    en_gb: silicate mineral
     eo: silikata minerala klaso
     es: silicato
     et: silikaadid
@@ -143,7 +143,7 @@ dv_has_:
     pl: krzemiany
     ps: سیلیکاټ منرالونه
     pt: minerais da classe dos silicatos
-    pt-br: Silicato
+    pt_br: Silicato
     ro: silicați
     ru: силикаты
     sco: silicate mineral
@@ -151,8 +151,8 @@ dv_has_:
     sk: kremičitan
     sl: silikatni mineral
     sr: силикат
-    sr-ec: силикат
-    sr-el: silikat
+    sr_ec: силикат
+    sr_el: silikat
     sv: silikatmineral
     sw: Madini silikati
     ta: சிலிக்கேட்
@@ -165,12 +165,12 @@ dv_has_:
     xh: Silicate
     yue: 矽酸鹽礦物
     zh: 矽酸鹽
-    zh-cn: 硅酸盐
-    zh-hans: 硅酸盐
-    zh-hant: 矽酸鹽
-    zh-hk: 矽酸鹽
-    zh-sg: 硅酸盐
-    zh-tw: 矽酸鹽
+    zh_cn: 硅酸盐
+    zh_hans: 硅酸盐
+    zh_hant: 矽酸鹽
+    zh_hk: 矽酸鹽
+    zh_sg: 硅酸盐
+    zh_tw: 矽酸鹽
 ---
 # [[Silicate_Mineral]] 
 

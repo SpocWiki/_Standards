@@ -93,7 +93,7 @@ dv_has_:
     ast: Celos
     az: Qısqanclıq
     be: Рэўнасць
-    be-tarask: рэўнасьць
+    be_tarask: рэўнасьць
     bg: Ревност
     br: Gwarizi
     bs: Ljubomora
@@ -151,8 +151,8 @@ dv_has_:
     sl: zavist
     sq: Xhelozia
     sr: љубомора
-    sr-ec: љубомора
-    sr-el: ljubomora
+    sr_ec: љубомора
+    sr_el: ljubomora
     sv: Svartsjuka
     sw: Wivu
     ta: பொறாமை

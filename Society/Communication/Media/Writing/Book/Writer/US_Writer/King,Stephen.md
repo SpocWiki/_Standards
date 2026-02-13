@@ -250,7 +250,7 @@ dv_has_:
     azb: استیون کینق
     ba: Стивен Кинг
     be: Стывен Кінг
-    be-tarask: Стывэн Кінг
+    be_tarask: Стывэн Кінг
     bg: Стивън Кинг
     bho: स्टीफेन किंग
     bn: স্টিভেন কিং
@@ -290,26 +290,26 @@ dv_has_:
     ne: स्टीफन किङ
     pa: ਸਟੀਫਨ ਕਿੰਗ
     pnb: سٹیفن کنگ
-    pt-br: Stephen King
+    pt_br: Stephen King
     ru: Стивен Кинг
     shi: Stifn king
     sk: Stephen King
     sr: Stiven King
-    sr-ec: Стивен Кинг
+    sr_ec: Стивен Кинг
     ta: ஸ்டீபன் கிங்
     te: స్టీఫెన్ కింగ్
     th: สตีเฟน คิง
     tt: Стивен Киң
-    tt-cyrl: Стивен Киң
+    tt_cyrl: Стивен Киң
     uk: Стівен Кінг
     ur: اسٹیون کنگ
     wuu: 斯蒂芬·金
     yue: 史提芬京
     zh: 斯蒂芬·金
-    zh-cn: 斯蒂芬·金
-    zh-hans: 斯蒂芬·金
-    zh-hant: 斯蒂芬·金
-    zh-hk: 史提芬·京
+    zh_cn: 斯蒂芬·金
+    zh_hans: 斯蒂芬·金
+    zh_hant: 斯蒂芬·金
+    zh_hk: 史提芬·京
     zh-my: 史蒂芬·金
 ---
 # [[King,Stephen]] 

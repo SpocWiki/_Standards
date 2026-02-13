@@ -79,7 +79,7 @@ dv_has_:
     ast: Síndrome
     az: Sindrom
     be: сіндром
-    be-tarask: сындром
+    be_tarask: сындром
     bg: Синдром
     bn: সংলক্ষণ
     bo: ཕྱོགས་འདུས་ནད་
@@ -113,14 +113,14 @@ dv_has_:
     ka: სინდრომი
     kab: Timsedfert
     kk: Синдром
-    kk-arab: سىيندروم
+    kk_arab: سىيندروم
     kk-cn: سىيندروم
-    kk-cyrl: Синдром
+    kk_cyrl: Синдром
     kk-kz: Синдром
-    kk-latn: Sïndrom
+    kk_latn: Sïndrom
     kk-tr: Sïndrom
     ko: 증후군
-    ku-latn: sendrom
+    ku_latn: sendrom
     la: syndroma
     lt: Sindromas
     lv: sindroms
@@ -148,8 +148,8 @@ dv_has_:
     sms: syndroom
     sq: sindromë
     sr: синдром
-    sr-ec: синдром
-    sr-el: sindrom
+    sr_ec: синдром
+    sr_el: sindrom
     sv: syndrom
     th: กลุ่มอาการ
     tr: sendrom
@@ -163,14 +163,14 @@ dv_has_:
     wuu: 综合征
     yue: 綜合症
     zh: 症候群
-    zh-cn: 综合征
-    zh-hans: 综合征
-    zh-hant: 症候群
-    zh-hk: 綜合症
-    zh-mo: 綜合症
+    zh_cn: 综合征
+    zh_hans: 综合征
+    zh_hant: 症候群
+    zh_hk: 綜合症
+    zh_mo: 綜合症
     zh-my: 综合症
-    zh-sg: 综合症
-    zh-tw: 症候群
+    zh_sg: 综合症
+    zh_tw: 症候群
 ---
 # [[Syndrome]] 
 

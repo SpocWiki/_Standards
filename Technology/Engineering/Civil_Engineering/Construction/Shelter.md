@@ -85,7 +85,7 @@ dv_has_:
     ast: refuxu
     atj: akawactehon
     az: sığınacaq
-    be-tarask: сховішча
+    be_tarask: сховішча
     bg: заслон
     ca: refugi
     ce: дӀахьуллойла
@@ -95,8 +95,8 @@ dv_has_:
     de: Unterstand
     diq: serte
     en: shelter
-    en-ca: shelter
-    en-gb: shelter
+    en_ca: shelter
+    en_gb: shelter
     eo: ŝirmejo
     es: refugio
     eu: babes
@@ -125,7 +125,7 @@ dv_has_:
     oc: abric
     pl: schron
     pt: abrigo
-    pt-br: abrigo
+    pt_br: abrigo
     ru: укрытие
     sh: utočište
     sl: zaklonišče
@@ -137,15 +137,15 @@ dv_has_:
     tg: сарпаноҳ
     tr: sığınak
     tt: ышык урын
-    tt-cyrl: ышык урын
+    tt_cyrl: ышык урын
     udm: ватскон инты
     uk: укриття
     uz: Shelter (building)
     yo: ààbò
     zh: 簡易居所
-    zh-cn: 避难所
-    zh-hans: 避难所
-    zh-hant: 避難所
+    zh_cn: 避难所
+    zh_hans: 避难所
+    zh_hant: 避難所
 ---
 # [[Shelter]] 
 

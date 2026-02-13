@@ -119,7 +119,7 @@ dv_has_:
     ast: Monzón
     az: Musson
     be: Мусон
-    be-tarask: мусон
+    be_tarask: мусон
     bg: Мусон
     bho: मानसून
     bn: মৌসুমি বায়ু
@@ -135,7 +135,7 @@ dv_has_:
     dty: मनसुन
     el: Μουσώνας
     en: monsoon
-    en-gb: monsoon
+    en_gb: monsoon
     eo: musono
     es: monzón
     et: Mussoon
@@ -181,7 +181,7 @@ dv_has_:
     mnw: မုဟ်သုန်
     mr: मोसमी पाऊस
     ms: monsun
-    ms-arab: مونسون
+    ms_arab: مونسون
     my: မုတ်သုန်
     nb: monsun
     ne: मनसुन
@@ -193,7 +193,7 @@ dv_has_:
     pl: Monsun
     pnb: مون سون
     pt: monção
-    pt-br: monção
+    pt_br: monção
     ro: muson
     ru: Муссон
     sa: rainy season
@@ -222,7 +222,7 @@ dv_has_:
     xmf: მუსონეფი
     yue: 季候風
     zh: 季风
-    zh-hant: 季風
+    zh_hant: 季風
 ---
 # [[Monsoon]] 
 

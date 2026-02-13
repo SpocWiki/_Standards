@@ -193,7 +193,7 @@ dv_has_:
     az: saat
     ba: сәғәт
     be: гадзіна
-    be-tarask: гадзіна
+    be_tarask: гадзіна
     bew: Jem
     bg: h
     bho: घंटा
@@ -218,7 +218,7 @@ dv_has_:
     el: ώρα
     eml: Ōra
     en: hour
-    en-gb: hour
+    en_gb: hour
     eo: horo
     es: hora
     et: tund
@@ -281,7 +281,7 @@ dv_has_:
     mnw: နာဍဳ
     mr: तास
     ms: jam
-    ms-arab: جم
+    ms_arab: جم
     mt: siegħa
     my: နာရီ
     nan: Tiám-cheng
@@ -301,7 +301,7 @@ dv_has_:
     pms: ora
     pnb: گھنٹا
     pt: hora
-    pt-br: hora
+    pt_br: hora
     qu: Ura
     ro: oră
     rsk: Годзина
@@ -323,7 +323,7 @@ dv_has_:
     so: saac
     sq: ora
     sr: сат
-    sr-ec: сат
+    sr_ec: сат
     stq: Uure
     su: jam
     sv: timme
@@ -336,7 +336,7 @@ dv_has_:
     tok: tenpo Awa
     tr: saat
     tt: сәгать
-    tt-cyrl: сәгать
+    tt_cyrl: сәгать
     ug: سائەت
     uk: година
     ur: گھنٹہ
@@ -351,10 +351,10 @@ dv_has_:
     yue: 鐘頭
     za: cungdaeuz
     zh: 小时
-    zh-cn: 小时
-    zh-hans: 小时
-    zh-hant: 小時
-    zh-hk: 小時
+    zh_cn: 小时
+    zh_hans: 小时
+    zh_hant: 小時
+    zh_hk: 小時
 ---
 # [[Unit~Hour]] 
 

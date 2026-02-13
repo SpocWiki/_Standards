@@ -422,7 +422,7 @@ dv_is_:
 dv_has_:
   name_:
     ace: Suriname
-    aeb-arab: سورينام
+    aeb_arab: سورينام
     af: Suriname
     am: ሱሪናም
     ami: Suriname
@@ -442,7 +442,7 @@ dv_has_:
     bar: Suriname
     bcl: Surinam
     be: Сурынам
-    be-tarask: Сурынам
+    be_tarask: Сурынам
     bew: Suriname
     bg: Суринам
     bho: सूरीनाम
@@ -454,7 +454,7 @@ dv_has_:
     bs: Surinam
     bxr: Суринам
     ca: Surinam
-    cbk-zam: Surinam
+    cbk_zam: Surinam
     cdo: Suriname
     ce: Суринам
     ceb: Surinam
@@ -462,7 +462,7 @@ dv_has_:
     ckb: سورینام
     co: Suriname
     crh: Surinam
-    crh-latn: Surinam
+    crh_latn: Surinam
     cs: Surinam
     cv: Суринам
     cy: Swrinam
@@ -470,7 +470,7 @@ dv_has_:
     dag: Suriname
     de: Suriname
     de-at: Suriname
-    de-ch: Suriname
+    de_ch: Suriname
     diq: Surinam
     dsb: Surinam
     dty: सुरिनाम
@@ -478,8 +478,8 @@ dv_has_:
     ee: Suriname
     el: Σουρινάμ
     en: Suriname
-    en-ca: Suriname
-    en-gb: Suriname
+    en_ca: Suriname
+    en_gb: Suriname
     en-us: Suriname
     eo: Surinamo
     es: Surinam
@@ -502,7 +502,7 @@ dv_has_:
     gn: Surinam
     gom: सूरीनाम
     gom-deva: सूरीनाम
-    gom-latn: Suriname
+    gom_latn: Suriname
     got: "\U00010343\U0001033F\U00010342\U00010339\U0001033D\U00010330\U0001033C\U00010330"
     gpe: Suriname
     gsw: Suriname
@@ -560,7 +560,7 @@ dv_has_:
     lzh: 蘇利南
     mad: Suriname
     mai: सूरीनाम
-    map-bms: Suriname
+    map_bms: Suriname
     mdf: Суринам
     mg: Sorinama
     mhr: Суринам
@@ -580,7 +580,7 @@ dv_has_:
     nan: Suriname
     nb: Surinam
     nds: Surinam
-    nds-nl: Suriname
+    nds_nl: Suriname
     ne: सुरिनाम
     new: सुरिनाम
     nl: Suriname
@@ -603,7 +603,7 @@ dv_has_:
     pnb: سورینام
     ps: سورينام
     pt: Suriname
-    pt-br: Suriname
+    pt_br: Suriname
     qu: Surinam
     qug: flavio
     rki: ဆူရာနမ်သမ္မတနိုင်ငံ
@@ -632,8 +632,8 @@ dv_has_:
     so: Surinam
     sq: Surinami
     sr: Суринам
-    sr-ec: Суринам
-    sr-el: Surinam
+    sr_ec: Суринам
+    sr_el: Surinam
     srn: Sranankondre
     stq: Suriname
     su: Suriname
@@ -681,14 +681,14 @@ dv_has_:
     za: Suriname
     zea: Surinaome
     zh: 蘇利南
-    zh-cn: 苏里南
-    zh-hans: 苏里南
-    zh-hant: 蘇利南
-    zh-hk: 蘇里南
-    zh-mo: 蘇里南
+    zh_cn: 苏里南
+    zh_hans: 苏里南
+    zh_hant: 蘇利南
+    zh_hk: 蘇里南
+    zh_mo: 蘇里南
     zh-my: 苏里南
-    zh-sg: 苏里南
-    zh-tw: 蘇利南
+    zh_sg: 苏里南
+    zh_tw: 蘇利南
     zu: i-Suriname
   url_for_:
     code_repository: https://github.com/SpocWiki/America-Suriname

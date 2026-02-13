@@ -64,7 +64,7 @@ dv_has_:
   name_:
     ab: Лиуксембург
     ace: Luksèmburg
-    aeb-arab: لوكسمبورڨ
+    aeb_arab: لوكسمبورڨ
     af: Luxemburg
     am: ሉክሰምበርግ
     ami: Luxembourg
@@ -88,7 +88,7 @@ dv_has_:
     bar: Luxmbuag
     bcl: Luhemburgo
     be: Люксембург
-    be-tarask: Люксэмбург
+    be_tarask: Люксэмбург
     bew: Leksembereh
     bg: Люксембург
     bgn: لوکزامبورگ
@@ -102,7 +102,7 @@ dv_has_:
     bs: Luksemburg
     bxr: Люксембург
     ca: Luxemburg
-    cbk-zam: Luxemburgo
+    cbk_zam: Luxemburgo
     cdo: Luxembourg
     ce: Люксембург
     ceb: Lugsemburg
@@ -110,7 +110,7 @@ dv_has_:
     ckb: لۆکسمبۆرگ
     co: Lussemburgu
     crh: Lüksemburg
-    crh-latn: Lüksemburg
+    crh_latn: Lüksemburg
     cs: Lucembursko
     csb: Luksembùrskô
     cu: Люѯємбоургъ
@@ -120,7 +120,7 @@ dv_has_:
     dag: Luxembourg
     de: Luxemburg
     de-at: Luxemburg
-    de-ch: Luxemburg
+    de_ch: Luxemburg
     diq: Luksemburg
     dsb: Luxemburgska
     dty: लक्जेम्बर्ग
@@ -129,8 +129,8 @@ dv_has_:
     el: Λουξεμβούργο
     eml: Lussembûrgh
     en: Luxembourg
-    en-ca: Luxembourg
-    en-gb: Luxembourg
+    en_ca: Luxembourg
+    en_gb: Luxembourg
     en-us: Luxembourg
     eo: Luksemburgo
     es: Luxemburgo
@@ -155,7 +155,7 @@ dv_has_:
     gn: Luxemburgo
     gom: लक्संबॉर्ग
     gom-deva: लक्संबॉर्ग
-    gom-latn: Luxembourg
+    gom_latn: Luxembourg
     got: "\U0001033B\U00010334\U00010339\U00010344\U00010339\U0001033B\U00010330\U00010331\U00010330\U0001033F\U00010342\U00010332\U00010343"
     gpe: Luxembourg
     gsw: Luxeburi
@@ -196,7 +196,7 @@ dv_has_:
     kg: Luxembourg
     kge: Luxemburg
     kk: Люксембург
-    kk-cyrl: Люксембург
+    kk_cyrl: Люксембург
     kl: Luxembourg
     km: លុចហ្សំប៊ួរ
     kn: ಲಕ್ಸೆಂಬರ್ಗ್
@@ -229,7 +229,7 @@ dv_has_:
     lv: Luksemburga
     lzh: 盧森堡
     mad: Luxemburg
-    map-bms: Luksemburg
+    map_bms: Luksemburg
     mdf: Люксэмбург
     mg: Loksemborga
     mhr: Люксембург
@@ -252,7 +252,7 @@ dv_has_:
     nap: Lussemburgo
     nb: Luxembourg
     nds: Luxemborg
-    nds-nl: Luxemburg
+    nds_nl: Luxemburg
     ne: लक्जेम्बर्ग
     new: लक्जेम्बर्ग
     nl: Luxemburg
@@ -280,7 +280,7 @@ dv_has_:
     pnt: Λουξεμβούργο
     ps: لوګزامبورګ
     pt: Luxemburgo
-    pt-br: Luxemburgo
+    pt_br: Luxemburgo
     qu: Luksimbur
     rm: Luxemburg
     rmy: Luksemburgo
@@ -314,8 +314,8 @@ dv_has_:
     so: Luksemburg
     sq: Luksemburgu
     sr: Луксембург
-    sr-ec: Луксембург
-    sr-el: Luksemburg
+    sr_ec: Луксембург
+    sr_el: Luksemburg
     srn: Luksemburgkondre
     ss: Lusembogu
     stq: Luxembuurich
@@ -329,7 +329,7 @@ dv_has_:
     te: లక్సెంబర్గ్
     tet: Luxemburgu
     tg: Люксембург
-    tg-cyrl: Люксембург
+    tg_cyrl: Люксембург
     th: ประเทศลักเซมเบิร์ก
     tk: Lýuksemburg
     tl: Luxembourg
@@ -367,14 +367,14 @@ dv_has_:
     za: Luzswnhbauj
     zea: Luxemburg
     zh: 卢森堡
-    zh-cn: 卢森堡
-    zh-hans: 卢森堡
-    zh-hant: 盧森堡
-    zh-hk: 盧森堡
-    zh-mo: 盧森堡
+    zh_cn: 卢森堡
+    zh_hans: 卢森堡
+    zh_hant: 盧森堡
+    zh_hk: 盧森堡
+    zh_mo: 盧森堡
     zh-my: 卢森堡
-    zh-sg: 卢森堡
-    zh-tw: 盧森堡
+    zh_sg: 卢森堡
+    zh_tw: 盧森堡
     zu: i-Luxembourg
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Luxembourg

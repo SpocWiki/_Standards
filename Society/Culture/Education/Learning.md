@@ -193,7 +193,7 @@ dv_has_:
     az: öyrənmə
     ba: өйрәтеү
     be: навучанне
-    be-tarask: навучаньне
+    be_tarask: навучаньне
     bg: учене
     bn: শিক্ষা গ্রহণ
     bs: učenje
@@ -206,7 +206,7 @@ dv_has_:
     de: Lernen
     el: μάθηση
     en: learning
-    en-gb: learning
+    en_gb: learning
     eo: lerno
     es: aprendizaje
     et: õppimine
@@ -245,7 +245,7 @@ dv_has_:
     mk: учење
     mn: сурах
     ms: pembelajaran
-    ms-arab: ڤمبلاجرن
+    ms_arab: ڤمبلاجرن
     my: လေ့လာသင်ယူမှု
     nan: ha̍k-si̍p
     nb: læring
@@ -257,7 +257,7 @@ dv_has_:
     pl: uczenie się
     ps: زده کړه
     pt: aprendizagem
-    pt-br: aprendizagem
+    pt_br: aprendizagem
     qu: yachaqay
     ro: învățare
     ru: научение
@@ -274,8 +274,8 @@ dv_has_:
     sn: kudzidza
     sq: të nxënit
     sr: учење
-    sr-ec: учење
-    sr-el: učenje
+    sr_ec: учење
+    sr_el: učenje
     st: ho ithuta
     su: diajar
     sv: lärande
@@ -286,7 +286,7 @@ dv_has_:
     tl: pagkatuto
     tr: öğrenme
     tt: белем алу
-    tt-cyrl: белем алу
+    tt_cyrl: белем алу
     uk: навчення
     ur: تعلم
     uz: oʻrganish
@@ -300,12 +300,12 @@ dv_has_:
     yue: 學習
     za: hagsib
     zh: 学习
-    zh-cn: 学习
-    zh-hans: 学习
-    zh-hant: 學習
-    zh-hk: 學習
-    zh-sg: 学习
-    zh-tw: 學習
+    zh_cn: 学习
+    zh_hans: 学习
+    zh_hant: 學習
+    zh_hk: 學習
+    zh_sg: 学习
+    zh_tw: 學習
     zu: ukufunda
 ---
 # [[Learning]] 

@@ -48,9 +48,9 @@ dv_has_:
     te: రేఖాగణిత బీజగణితం
     th: พีชคณิตทางเรขาคณิต
     zh: 幾何代數
-    zh-cn: 几何代数
-    zh-hans: 几何代数
-    zh-hant: 幾何代數
+    zh_cn: 几何代数
+    zh_hans: 几何代数
+    zh_hant: 幾何代數
 ---
 # [[Geometric_Algebra]] 
 

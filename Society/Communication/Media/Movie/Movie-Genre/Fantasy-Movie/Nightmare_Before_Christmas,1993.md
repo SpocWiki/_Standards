@@ -17,8 +17,8 @@ dv_has_:
     de: Nightmare Before Christmas
     el: Χριστουγεννιάτικος Εφιάλτης
     en: The Nightmare Before Christmas
-    en-ca: The Nightmare Before Christmas
-    en-gb: The Nightmare Before Christmas
+    en_ca: The Nightmare Before Christmas
+    en_gb: The Nightmare Before Christmas
     eo: The Nightmare Before Christmas
     es: The Nightmare Before Christmas
     eu: The Nightmare Before Christmas
@@ -47,7 +47,7 @@ dv_has_:
     nn: The Nightmare Before Christmas
     pl: Miasteczko Halloween
     pt: O Estranho Mundo de Jack
-    pt-br: O Estranho Mundo de Jack
+    pt_br: O Estranho Mundo de Jack
     ro: Coșmar înainte de Crăciun
     ru: Кошмар перед Рождеством
     sc: The Nightmare Before Christmas
@@ -64,12 +64,12 @@ dv_has_:
     vi: The Nightmare Before Christmas
     vo: The Nightmare Before Christmas
     zh: 怪誕城之夜
-    zh-cn: 怪诞城之夜
-    zh-hans: 怪诞城之夜
-    zh-hant: 聖誕夜驚魂
-    zh-hk: 怪誕城之夜
-    zh-sg: 精灵闹圣诞
-    zh-tw: 聖誕夜驚魂
+    zh_cn: 怪诞城之夜
+    zh_hans: 怪诞城之夜
+    zh_hant: 聖誕夜驚魂
+    zh_hk: 怪誕城之夜
+    zh_sg: 精灵闹圣诞
+    zh_tw: 聖誕夜驚魂
 aliases:
 - Coșmar înainte de Crăciun
 - Et førjulsmareritt

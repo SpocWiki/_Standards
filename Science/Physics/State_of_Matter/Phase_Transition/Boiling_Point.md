@@ -135,7 +135,7 @@ dv_has_:
     ba: ҡайнау температураһы
     bcl: punto kan pagkalagakaga
     be: тэмпература кіпення
-    be-tarask: тэмпэратура кіпеньня
+    be_tarask: тэмпэратура кіпеньня
     bg: температура на кипене
     bn: স্ফুটনাঙ্ক
     bs: tačka ključanja
@@ -200,7 +200,7 @@ dv_has_:
     pnb: ابلن نمبر
     ps: يشناټکی
     pt: ponto de ebulição
-    pt-br: ponto de ebulição
+    pt_br: ponto de ebulição
     qu: wapsichana iñu
     ro: punct de fierbere
     ru: температура кипения

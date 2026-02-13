@@ -95,7 +95,7 @@ dv_has_:
     oc: Anthocerotophyta
     pl: glewiki
     pt: Anthocerotophyta
-    pt-br: Anthocerotophyta
+    pt_br: Anthocerotophyta
     ro: Anthocerotophyta
     ru: антоцеротовидные
     sh: Anthocerotophyta
@@ -112,12 +112,12 @@ dv_has_:
     war: Anthocerotophyta
     yue: 角苔門
     zh: 角苔门
-    zh-cn: 角苔纲
-    zh-hans: 角苔纲
-    zh-hant: 角苔門
-    zh-hk: 角苔綱
-    zh-sg: 角苔纲
-    zh-tw: 角苔門
+    zh_cn: 角苔纲
+    zh_hans: 角苔纲
+    zh_hant: 角苔門
+    zh_hk: 角苔綱
+    zh_sg: 角苔纲
+    zh_tw: 角苔門
 ---
 # [[Hornwort]]
 

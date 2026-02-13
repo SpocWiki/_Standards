@@ -139,7 +139,7 @@ dv_has_:
     azb: اوروشلوق
     ba: ризыҡланыу әҙәбе
     be: пост
-    be-tarask: пост
+    be_tarask: пост
     bg: Пост
     bn: উপবাস
     br: yun
@@ -147,7 +147,7 @@ dv_has_:
     ca: dejuni
     ckb: ڕۆژوو
     crh: Oraza
-    crh-latn: Oraza
+    crh_latn: Oraza
     cs: půst
     csb: pòst
     cv: Тип тытни
@@ -170,7 +170,7 @@ dv_has_:
     gl: Xaxún
     gom: Upas
     gom-deva: उपास
-    gom-latn: Upas
+    gom_latn: Upas
     gor: Puasa
     gpe: fasting
     grc: νηστεία
@@ -207,7 +207,7 @@ dv_has_:
     ml: ഉപവാസം
     mr: उपवास
     ms: puasa
-    ms-arab: ڤواسا
+    ms_arab: ڤواسا
     mzn: روجه
     nb: faste
     ne: उपवास

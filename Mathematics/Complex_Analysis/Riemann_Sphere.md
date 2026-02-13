@@ -53,7 +53,7 @@ dv_has_:
     ar: كرة ريمان
     ast: Esfera de Riemann
     ba: Риман сфераһы
-    be-tarask: Рыманава сфэра
+    be_tarask: Рыманава сфэра
     bn: রেইম্যানীয় গোলক
     ca: esfera de Riemann
     cs: Riemannova sféra
@@ -87,9 +87,9 @@ dv_has_:
     uk: сфера Рімана
     yue: 黎曼球面
     zh: 黎曼球面
-    zh-hans: 黎曼球面
-    zh-hant: 黎曼球面
-    zh-hk: 黎曼球面
+    zh_hans: 黎曼球面
+    zh_hant: 黎曼球面
+    zh_hk: 黎曼球面
 ---
 # [[Riemann_Sphere]] 
 

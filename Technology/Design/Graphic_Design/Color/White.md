@@ -223,7 +223,7 @@ Wolfram_Language_entity_code:
 OpenStreetMap_tag_or_key: Tag:colour=white
 dv_has_:
   name_:
-    aeb-arab: أبيض
+    aeb_arab: أبيض
     af: wit
     ak: fitaa
     am: ነጭ
@@ -246,7 +246,7 @@ dv_has_:
     ban: petak
     bcl: puti
     be: белы колер
-    be-tarask: белы колер
+    be_tarask: белы колер
     bg: бяло
     bjn: Putih
     bn: সাদা
@@ -267,14 +267,14 @@ dv_has_:
     cy: gwyn
     da: hvid
     de: Weiß
-    de-ch: Weiss
+    de_ch: Weiss
     diq: sıpe
     dsb: běłosć
     dty: सेतो
     el: λευκό
     en: white
-    en-ca: white
-    en-gb: white
+    en_ca: white
+    en_gb: white
     eo: blanko
     es: blanco
     et: valge
@@ -353,7 +353,7 @@ dv_has_:
     mni: ꯑꯉꯧꯕ
     mr: पांढरा
     ms: putih
-    ms-arab: ڤوتيه
+    ms_arab: ڤوتيه
     mt: abjad
     mwl: branco
     my: အဖြူရောင်
@@ -384,7 +384,7 @@ dv_has_:
     pl: biały
     pnb: چٹا
     pt: branco
-    pt-br: branco
+    pt_br: branco
     pwn: vuteqiteqilj
     qu: yuraq
     ro: alb
@@ -407,8 +407,8 @@ dv_has_:
     so: cad
     sq: ngjyra e bardhë
     sr: бела
-    sr-ec: бела
-    sr-el: bela
+    sr_ec: бела
+    sr_el: bela
     su: bodas
     sv: vit
     sw: rangi nyeupe
@@ -425,7 +425,7 @@ dv_has_:
     tr: beyaz
     ts: basa
     tt: ак
-    tt-cyrl: ак
+    tt_cyrl: ак
     ty: ’uo’uo
     udm: тöдьы
     uk: білий
@@ -443,14 +443,14 @@ dv_has_:
     yue: 白
     za: hau
     zh: 白色
-    zh-cn: 白色
-    zh-hans: 白色
-    zh-hant: 白色
-    zh-hk: 白色
-    zh-mo: 白色
+    zh_cn: 白色
+    zh_hans: 白色
+    zh_hant: 白色
+    zh_hk: 白色
+    zh_mo: 白色
     zh-my: 白色
-    zh-sg: 白色
-    zh-tw: 白色
+    zh_sg: 白色
+    zh_tw: 白色
     zu: Emhlophe
 ---
 # [[White]] 

@@ -132,7 +132,7 @@ dv_has_:
     azb: قئورق کانتور
     bar: Georg Cantor
     be: Георг Кантар
-    be-tarask: Георг Кантар
+    be_tarask: Георг Кантар
     bg: Георг Кантор
     bn: গেয়র্গ কান্টর
     br: Georg Cantor
@@ -147,7 +147,7 @@ dv_has_:
     da: Georg Cantor
     de: Georg Cantor
     de-at: Georg Cantor
-    de-ch: Georg Cantor
+    de_ch: Georg Cantor
     diq: Georg Cantor
     dsb: Georg Cantor
     ee: Georg Cantor
@@ -155,8 +155,8 @@ dv_has_:
     el: Γκέοργκ Κάντορ
     eml: Georg Cantor
     en: Georg Cantor
-    en-ca: Georg Cantor
-    en-gb: Georg Cantor
+    en_ca: Georg Cantor
+    en_gb: Georg Cantor
     eo: Georg Cantor
     es: Georg Cantor
     et: Georg Cantor
@@ -212,7 +212,7 @@ dv_has_:
     lt: Georg Cantor
     lv: Georgs Kantors
     lzh: 康托爾
-    map-bms: Georg Cantor
+    map_bms: Georg Cantor
     mg: Georg Cantor
     min: Georg Cantor
     mk: Георг Кантор
@@ -225,7 +225,7 @@ dv_has_:
     nap: Georg Cantor
     nb: Georg Cantor
     nds: Georg Cantor
-    nds-nl: Georg Cantor
+    nds_nl: Georg Cantor
     ne: जर्ज क्यान्टर
     nl: Georg Cantor
     nn: Georg Cantor
@@ -244,7 +244,7 @@ dv_has_:
     pnb: جورج کنٹور
     ps: جورج کانټور
     pt: Georg Cantor
-    pt-br: Georg Cantor
+    pt_br: Georg Cantor
     rm: Georg Cantor
     rmy: Georg Cantor
     ro: Georg Cantor
@@ -265,8 +265,8 @@ dv_has_:
     sli: Georg Cantor
     sq: Georg Cantor
     sr: Георг Кантор
-    sr-ec: Георг Кантор
-    sr-el: Georg Cantor
+    sr_ec: Георг Кантор
+    sr_el: Georg Cantor
     stq: Georg Cantor
     su: Georg Cantor
     sv: Georg Cantor
@@ -297,7 +297,7 @@ dv_has_:
     yue: 康托爾
     zea: Georg Cantor
     zh: 格奥尔格·康托尔
-    zh-hans: 格奥尔格·康托尔
+    zh_hans: 格奥尔格·康托尔
     zu: Georg Cantor
 ---
 # [[Cantor,Georg]] 

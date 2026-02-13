@@ -150,7 +150,7 @@ dv_has_:
     azb: جان وین
     ba: Джон Уэйн
     be: Джон Уэйн
-    be-tarask: Джон Ўэйн
+    be_tarask: Джон Ўэйн
     bg: Джон Уейн
     bi: John Wayne
     bjn: John Wayne
@@ -206,7 +206,7 @@ dv_has_:
     lmo: John Wayne
     lt: John Wayne
     lv: Džons Veins
-    map-bms: John Wayne
+    map_bms: John Wayne
     mg: John Wayne
     min: John Wayne
     mk: Џон Вејн
@@ -227,7 +227,7 @@ dv_has_:
     pl: John Wayne
     pms: John Wayne
     pt: John Wayne
-    pt-br: John Wayne
+    pt_br: John Wayne
     qu: John Wayne
     ro: John Wayne
     ru: Джон Уэйн
@@ -255,9 +255,9 @@ dv_has_:
     yo: John Wayne
     yue: 尊榮
     zh: 约翰·韦恩
-    zh-hans: 约翰·韦恩
-    zh-hant: 約翰·韋恩
-    zh-hk: 尊·榮
+    zh_hans: 约翰·韦恩
+    zh_hant: 約翰·韋恩
+    zh_hk: 尊·榮
 ---
 # [[Wayne,John]] 
 

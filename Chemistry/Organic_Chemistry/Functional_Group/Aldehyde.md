@@ -133,7 +133,7 @@ dv_has_:
     azb: آلدهید
     bcl: Aldehido
     be: альдэгіды
-    be-tarask: альдэгіды
+    be_tarask: альдэгіды
     bg: Алдехид
     bn: অ্যালডিহাইড
     bo: ཨལ་ཌི་ཧ་ཡི་ཌི།
@@ -166,11 +166,11 @@ dv_has_:
     ja: アルデヒド
     ka: ალდეჰიდი
     kk: Альдегидтер
-    kk-arab: الدەگىيدتەر
+    kk_arab: الدەگىيدتەر
     kk-cn: الدەگىيدتەر
-    kk-cyrl: Альдегидтер
+    kk_cyrl: Альдегидтер
     kk-kz: Альдегидтер
-    kk-latn: Alʹdegïdter
+    kk_latn: Alʹdegïdter
     kk-tr: Alʹdegïdter
     kn: ಆಲ್ಡಿಹೈಡುಗಳು
     ko: 알데하이드
@@ -201,14 +201,14 @@ dv_has_:
     sms: aldehyyd
     sq: aldehidet
     sr: алдехид
-    sr-ec: Алдехид
-    sr-el: Aldehid
+    sr_ec: Алдехид
+    sr_el: Aldehid
     su: Aldehida
     sv: aldehyd
     ta: அல்டிகைடு
     te: ఆల్డిహైడు
     tg: Алдегид
-    tg-latn: Aldegid
+    tg_latn: Aldegid
     th: แอลดีไฮด์
     tr: Aldehitler
     tt: Альдегидлар
@@ -220,12 +220,12 @@ dv_has_:
     wuu: 醛
     yue: 醛
     zh: 醛
-    zh-cn: 醛
-    zh-hans: 醛
-    zh-hant: 醛
-    zh-hk: 醛
-    zh-sg: 醛
-    zh-tw: 醛
+    zh_cn: 醛
+    zh_hans: 醛
+    zh_hant: 醛
+    zh_hk: 醛
+    zh_sg: 醛
+    zh_tw: 醛
 ---
 # [[Aldehyde]] 
 

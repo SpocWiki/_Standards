@@ -202,7 +202,7 @@ dv_has_:
     azb: آیبریا
     ba: Пиреней ярымутрауы
     be: Пірэнейскі паўвостраў
-    be-tarask: Пірэнэйскі паўвостраў
+    be_tarask: Пірэнэйскі паўвостраў
     bg: Пиренейски полуостров
     bn: ইবেরীয় উপদ্বীপ
     br: Ledenez iberek
@@ -218,12 +218,12 @@ dv_has_:
     cy: Penrhyn Iberia
     da: Den Iberiske Halvø
     de: Iberische Halbinsel
-    de-ch: Iberische Halbinsel
+    de_ch: Iberische Halbinsel
     dsb: Pyrenejska połkupa
     el: Ιβηρική Χερσόνησος
     en: Iberian Peninsula
-    en-ca: Iberian Peninsula
-    en-gb: Iberian Peninsula
+    en_ca: Iberian Peninsula
+    en_gb: Iberian Peninsula
     eo: Iberio
     es: península ibérica
     et: Pürenee poolsaar
@@ -286,7 +286,7 @@ dv_has_:
     mzn: ایبری
     nan: Iberia Poàn-tó
     nb: Den iberiske halvøy
-    nds-nl: Iberisk skyreiland
+    nds_nl: Iberisk skyreiland
     ne: इबेरियन प्रायद्वीप
     nl: Iberisch Schiereiland
     nn: Pyrenéhalvøya
@@ -300,7 +300,7 @@ dv_has_:
     pnt: Ιβηρικόν Χερσόνησος
     ps: د ایبریا شبه الجزیره
     pt: Península Ibérica
-    pt-br: Península Ibérica
+    pt_br: Península Ibérica
     ro: Peninsula iberică
     ru: Пиренейский полуостров
     sc: Penìsula Ibèrica
@@ -314,7 +314,7 @@ dv_has_:
     sl: Iberski polotok
     sq: Gadishulli Pirinej
     sr: Пиринејско полуострво
-    sr-ec: Пиринејско полуострво
+    sr_ec: Пиринејско полуострво
     sv: Iberiska halvön
     sw: Rasi ya Iberia
     ta: ஐபீரிய மூவலந்தீவு

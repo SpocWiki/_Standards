@@ -92,7 +92,7 @@ dv_has_:
     ba: Фауст (трагедия)
     bar: Faust I
     be: Фаўст
-    be-tarask: Фаўст
+    be_tarask: Фаўст
     bg: Фауст
     bn: ফাউস্ট
     bs: Faust
@@ -137,7 +137,7 @@ dv_has_:
     pa: ਫਾਉਸਟ
     pl: Faust
     pt: Fausto
-    pt-br: Fausto
+    pt_br: Fausto
     ro: Faust
     ru: Фауст
     sh: Faust
@@ -154,8 +154,8 @@ dv_has_:
     yi: פֿױסט
     yue: 浮士德
     zh: 浮士德
-    zh-hant: 浮士德
-    zh-tw: 浮士德
+    zh_hant: 浮士德
+    zh_tw: 浮士德
 ---
 # [[Faust(Goethe)]] 
 

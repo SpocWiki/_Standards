@@ -82,7 +82,7 @@ dv_has_:
     ast: Lutita bituminosa
     az: Yanar şist
     be: гаручыя сланцы
-    be-tarask: гаручы лупняк
+    be_tarask: гаручы лупняк
     bg: Битуминозни шисти
     bxr: Шатадаг занар
     ca: pissarra bituminosa
@@ -90,7 +90,7 @@ dv_has_:
     da: Olieskifer
     de: Ölschiefer
     en: oil shale
-    en-gb: oil shale
+    en_gb: oil shale
     eo: naftoardezo
     es: lutita bituminosa
     et: põlevkivi
@@ -138,12 +138,12 @@ dv_has_:
     vi: Đá phiến dầu
     yue: 油頁岩
     zh: 油頁岩
-    zh-cn: 油页岩
-    zh-hans: 油页岩
-    zh-hant: 油頁岩
-    zh-hk: 油頁岩
-    zh-sg: 油页岩
-    zh-tw: 油頁岩
+    zh_cn: 油页岩
+    zh_hans: 油页岩
+    zh_hant: 油頁岩
+    zh_hk: 油頁岩
+    zh_sg: 油页岩
+    zh_tw: 油頁岩
 ---
 # [[Oil_Shale]] 
 

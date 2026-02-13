@@ -306,7 +306,7 @@ dv_has_:
     bar: Goid
     bcl: bulawan
     be: золата
-    be-tarask: золата
+    be_tarask: золата
     bg: злато
     bho: सोना
     bjn: amas
@@ -316,7 +316,7 @@ dv_has_:
     bs: zlato
     bxr: алтан
     ca: or
-    cbk-zam: oro
+    cbk_zam: oro
     cdo: gĭng
     ceb: bulawan
     ch: oru
@@ -334,7 +334,7 @@ dv_has_:
     da: guld
     dag: salima
     de: Gold
-    de-ch: Gold
+    de_ch: Gold
     dga: salma
     diq: zern
     dtp: amas
@@ -439,7 +439,7 @@ dv_has_:
     mr: सोने
     mrj: шӧртньӹ
     ms: emas
-    ms-arab: امس
+    ms_arab: امس
     mt: deheb
     mul: Au
     mwl: ouro
@@ -449,7 +449,7 @@ dv_has_:
     nan: kim
     nb: gull
     nds: Gold
-    nds-nl: gold
+    nds_nl: gold
     ne: सुन
     new: लुं
     nl: goud
@@ -472,7 +472,7 @@ dv_has_:
     pnb: سونا
     ps: سور زر
     pt: ouro
-    pt-br: ouro
+    pt_br: ouro
     qu: quri
     rm: aur
     ro: aur
@@ -511,7 +511,7 @@ dv_has_:
     tcy: ಬಂಗರ್
     te: బంగారం
     tg: зар
-    tg-cyrl: тилло
+    tg_cyrl: тилло
     th: ทองคำ
     tl: ginto
     tok: ijo lili nanpa 79
@@ -541,14 +541,14 @@ dv_has_:
     za: gim
     zgh: ⵓⵔⵖ
     zh: 金
-    zh-cn: 金
-    zh-hans: 金
-    zh-hant: 金
-    zh-hk: 金
-    zh-mo: 金
+    zh_cn: 金
+    zh_hans: 金
+    zh_hant: 金
+    zh_hk: 金
+    zh_mo: 金
     zh-my: 金
-    zh-sg: 金
-    zh-tw: 金
+    zh_sg: 金
+    zh_tw: 金
     zu: igolide
   number_of_:
     period: 6

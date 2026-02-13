@@ -80,18 +80,18 @@ dv_has_:
     ast: Toba volcánica
     az: tuf
     be: вулканічны туф
-    be-tarask: вульканiчны туф
+    be_tarask: вульканiчны туф
     bg: вулканична туфа
     ca: tuf
     cs: tuf
     cy: twff
     da: Tuf
     de: Tuff
-    de-ch: Tuff
+    de_ch: Tuff
     el: Τόφφος
     en: tuff
-    en-ca: tuff
-    en-gb: tuff
+    en_ca: tuff
+    en_gb: tuff
     eo: tofo
     es: toba volcánica
     et: Tuff
@@ -123,14 +123,14 @@ dv_has_:
     mk: туф
     ml: ടഫ്
     nb: tuff
-    nds-nl: tufsteen
+    nds_nl: tufsteen
     nl: tufsteen
     nn: tuff
     oc: Tuf volcanic
     os: вулканы туф
     pl: tuf wulkaniczny
     pt: tufo
-    pt-br: Tufo
+    pt_br: Tufo
     ro: Tuf
     ru: вулканический туф
     sco: tuff
@@ -138,8 +138,8 @@ dv_has_:
     sk: tuf
     sl: tuf
     sr: туф
-    sr-ec: туф
-    sr-el: Tuf
+    sr_ec: туф
+    sr_el: Tuf
     sv: tuff
     tr: tüf
     tt: янартау туфы
@@ -148,9 +148,9 @@ dv_has_:
     wa: Tawe
     yue: 凝灰岩
     zh: 凝灰岩
-    zh-hans: 凝灰岩
-    zh-hant: 凝灰岩
-    zh-hk: 凝灰岩
+    zh_hans: 凝灰岩
+    zh_hant: 凝灰岩
+    zh_hk: 凝灰岩
 ---
 # [[Tuff]] 
 

@@ -119,7 +119,7 @@ dv_has_:
     arz: قنفذ
     ast: Erinaceinae
     be: Сапраўдныя вожыкі
-    be-tarask: вожык
+    be_tarask: вожык
     bg: таралежи
     bn: কাঁটাচুয়া
     bo: རྒང་།
@@ -132,11 +132,11 @@ dv_has_:
     cy: Draenog
     da: pindsvin
     de: Stacheligel
-    de-ch: Stacheligel
+    de_ch: Stacheligel
     el: Σκαντζόχοιρος
     en: hedgehog
-    en-ca: Hedgehog
-    en-gb: hedgehog
+    en_ca: Hedgehog
+    en_gb: hedgehog
     eo: erinaco
     es: erizos
     eu: triku
@@ -186,7 +186,7 @@ dv_has_:
     pnb: کنڈیلا چوآ
     pnt: ασηρόχαντος
     pt: Erinaceinae
-    pt-br: Erinaceinae
+    pt_br: Erinaceinae
     rmy: Hotchi
     ro: Erinaceinae
     ru: настоящие ежи
@@ -216,9 +216,9 @@ dv_has_:
     yi: שטעכלער
     yue: 刺蝟
     zh: 猬亚科
-    zh-cn: 猬亚科
-    zh-hans: 刺猬
-    zh-tw: 猬亞科
+    zh_cn: 猬亚科
+    zh_hans: 刺猬
+    zh_tw: 猬亞科
 ---
 # [[Hedgehog]] 
 

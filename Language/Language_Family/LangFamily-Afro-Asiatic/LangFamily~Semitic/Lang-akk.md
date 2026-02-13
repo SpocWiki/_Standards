@@ -152,7 +152,7 @@ dv_has_:
     ba: аккад теле
     bar: Akkadisch
     be: акадская мова
-    be-tarask: акадзкая мова
+    be_tarask: акадзкая мова
     bg: Акадски език
     bn: আক্কাদীয় ভাষা
     br: akkadeg
@@ -167,7 +167,7 @@ dv_has_:
     diq: Akadki
     el: Ακκαδική γλώσσα
     en: Akkadian
-    en-gb: Akkadian
+    en_gb: Akkadian
     eo: akada lingvo
     es: acadio
     et: akadi keel
@@ -194,7 +194,7 @@ dv_has_:
     kn: ಅಕ್ಕೇಡಿಯನ್ ಭಾಷೆ
     ko: 아카드어
     ku: zimanê akadî
-    ku-latn: zimanê akadî
+    ku_latn: zimanê akadî
     ky: Аккад тили
     la: lingua Accadica
     lfn: acad
@@ -246,8 +246,8 @@ dv_has_:
     yo: Akadianu
     yue: 阿卡德文
     zh: 阿卡德語
-    zh-hans: 阿卡德语
-    zh-hant: 阿卡德語
+    zh_hans: 阿卡德语
+    zh_hant: 阿卡德語
 ---
 # [[Lang-akk]] 
 

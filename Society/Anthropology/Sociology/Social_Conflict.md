@@ -58,7 +58,7 @@ dv_has_:
   name_:
     ar: صراع اجتماعي
     ast: conflictu social
-    be-tarask: сацыяльны канфлікт
+    be_tarask: сацыяльны канфлікт
     ca: conflicte social
     ckb: ململانێی کۆمەڵایەتی
     da: social konflikt
@@ -89,18 +89,18 @@ dv_has_:
     sk: sociálny konflikt
     sl: družbeni konflikt
     sr: друштвени конфликт
-    sr-ec: социјални конфликти
-    sr-el: socijalni konflikti
+    sr_ec: социјални конфликти
+    sr_el: socijalni konflikti
     sv: social konflikt
     tr: sosyal çatışma
     tt: социаль низаг
     uk: соціальний конфлікт
     uz: Sotsial mojaro
-    uz-cyrl: Сотсиал можаро
+    uz_cyrl: Сотсиал можаро
     vi: xung đột xã hội
     zh: 社會衝突
-    zh-hant: 社會衝突
-    zh-tw: 社會衝突
+    zh_hant: 社會衝突
+    zh_tw: 社會衝突
 ---
 # [[Social_Conflict]] 
 

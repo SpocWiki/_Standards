@@ -144,7 +144,7 @@ dv_has_:
     azb: دوداقایاقلیلار
     ban: Lelipan
     be: губаногія
-    be-tarask: губаногія
+    be_tarask: губаногія
     bg: стоножки
     bjn: Halilipan
     bn: বিছে
@@ -157,7 +157,7 @@ dv_has_:
     cs: stonožky
     da: Skolopender
     de: Hundertfüßer
-    de-ch: Hundertfüsser
+    de_ch: Hundertfüsser
     dtp: Tangkalamai
     el: Σαρανταποδαρούσα
     en: centipede
@@ -249,8 +249,8 @@ dv_has_:
     yue: 百足
     za: Sipndangj
     zh: 蜈蚣
-    zh-hans: 蜈蚣
-    zh-hant: 蜈蚣
+    zh_hans: 蜈蚣
+    zh_hant: 蜈蚣
 ---
 # [[Centipede]] 
 

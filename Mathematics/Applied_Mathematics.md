@@ -127,7 +127,7 @@ dv_has_:
     azb: اویغولامالی ریاضیات
     ba: ғәмәли математика
     be: прыкладная матэматыка
-    be-tarask: прыкладная матэматыка
+    be_tarask: прыкладная матэматыка
     bg: приложна математика
     bn: ফলিত গণিত
     bs: primijenjena matematika
@@ -139,8 +139,8 @@ dv_has_:
     de: angewandte Mathematik
     el: εφαρμοσμένα μαθηματικά
     en: applied mathematics
-    en-ca: applied mathematics
-    en-gb: applied mathematics
+    en_ca: applied mathematics
+    en_gb: applied mathematics
     eo: aplika matematiko
     es: matemáticas aplicadas
     et: rakendusmatemaatika
@@ -174,7 +174,7 @@ dv_has_:
     ml: പ്രയോഗ ഗണിതം
     mn: хэрэглээний математик
     ms: matematik gunaan
-    ms-arab: ماتماتيک ݢوناءن
+    ms_arab: ماتماتيک ݢوناءن
     my: အသုံးချသင်္ချာ
     nan: èng-iōng sò͘-ha̍k
     nb: anvendt matematikk
@@ -183,7 +183,7 @@ dv_has_:
     nov: aplikat matematike
     pl: matematyka stosowana
     pt: matemática aplicada
-    pt-br: matemática aplicada
+    pt_br: matemática aplicada
     rki: အသုံးချသင်္ချာ
     ro: matematică aplicată
     ru: прикладная математика
@@ -198,7 +198,7 @@ dv_has_:
     sms: suåvldeei matematikk
     sq: matematika aplikative
     sr: примењена математика
-    sr-ec: примењена математика
+    sr_ec: примењена математика
     su: matematik terapan
     sv: tillämpad matematik
     ta: பயன்பாட்டுக் கணிதம்
@@ -214,14 +214,14 @@ dv_has_:
     wuu: 应用数学
     yue: 應用數學
     zh: 应用数学
-    zh-cn: 应用数学
-    zh-hans: 应用数学
-    zh-hant: 應用數學
-    zh-hk: 應用數學
-    zh-mo: 應用數學
+    zh_cn: 应用数学
+    zh_hans: 应用数学
+    zh_hant: 應用數學
+    zh_hk: 應用數學
+    zh_mo: 應用數學
     zh-my: 应用数学
-    zh-sg: 应用数学
-    zh-tw: 應用數學
+    zh_sg: 应用数学
+    zh_tw: 應用數學
 ---
 # [[Applied_Mathematics]] 
 

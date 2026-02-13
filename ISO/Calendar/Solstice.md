@@ -130,7 +130,7 @@ dv_has_:
     ba: ҡояш торошо
     bar: Sunnwend
     be: сонцастаянне
-    be-tarask: сонцастаяньне
+    be_tarask: сонцастаяньне
     bg: Слънцестоене
     bn: অয়নান্ত
     bs: Solsticij
@@ -140,13 +140,13 @@ dv_has_:
     cy: Heuldro
     da: Solhverv
     de: Sonnenwende
-    de-ch: Sonnenwende
+    de_ch: Sonnenwende
     diq: Rocgeyr
     el: Ηλιοστάσιο
     eml: Sulstìsi
     en: solstice
-    en-ca: Solstice
-    en-gb: solstice
+    en_ca: Solstice
+    en_gb: solstice
     eo: solstico
     es: solsticio
     et: Päikeseseisak
@@ -175,8 +175,8 @@ dv_has_:
     kab: Amlulli anafuk
     ko: 지점
     ku: Rojveger
-    ku-arab: رۆژڤەگەر
-    ku-latn: Rojveger
+    ku_arab: رۆژڤەگەر
+    ku_latn: Rojveger
     la: Solstitium
     lb: Sonnewend
     lt: saulėgrįža
@@ -187,7 +187,7 @@ dv_has_:
     ml: അയനാന്തങ്ങൾ
     ms: Solstis
     nb: solverv
-    nds-nl: zunnewende
+    nds_nl: zunnewende
     nl: zonnewende
     nn: solkverv
     oc: Solstici
@@ -195,7 +195,7 @@ dv_has_:
     pa: ਆਇਨੰਤ
     pl: przesilenie
     pt: solstício
-    pt-br: Solstício
+    pt_br: Solstício
     ro: Solstițiu
     ru: солнцестояние
     rue: Сонцестояня
@@ -208,8 +208,8 @@ dv_has_:
     sn: Zuvaragodza
     sq: Solstiku
     sr: Solsticij
-    sr-ec: Солстициј
-    sr-el: Solsticij
+    sr_ec: Солстициј
+    sr_el: Solsticij
     sv: Solstånd
     sw: Solistasi
     ta: கதிர்த்திருப்பம்
@@ -226,12 +226,12 @@ dv_has_:
     wuu: 至點
     yue: 至日
     zh: 至點
-    zh-cn: 至点
-    zh-hans: 至点
-    zh-hant: 至點
-    zh-hk: 至點
-    zh-sg: 至点
-    zh-tw: 至點
+    zh_cn: 至点
+    zh_hans: 至点
+    zh_hant: 至點
+    zh_hk: 至點
+    zh_sg: 至点
+    zh_tw: 至點
 ---
 # [[Solstice]] 
 

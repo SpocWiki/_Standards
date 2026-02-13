@@ -172,7 +172,7 @@ dv_has_:
     ban: éncéh
     bcl: likido
     be: вадкасць
-    be-tarask: вадкасьць
+    be_tarask: вадкасьць
     bg: течност
     bn: তরল
     bs: tekućine
@@ -247,7 +247,7 @@ dv_has_:
     mni: ꯃꯍꯤ
     mr: द्रव
     ms: cecair
-    ms-arab: چچاءير
+    ms_arab: چچاءير
     my: အရည်
     nan: e̍k-thé
     nb: væske
@@ -266,7 +266,7 @@ dv_has_:
     pnb: پانی سار
     ps: مايع
     pt: líquido
-    pt-br: líquido
+    pt_br: líquido
     qu: puriqlla
     ro: lichid
     ru: жидкость
@@ -296,7 +296,7 @@ dv_has_:
     tl: likido
     tr: sıvı
     tt: сыеклык
-    tt-latn: sıyıqlıq
+    tt_latn: sıyıqlıq
     udm: кизерлык
     uk: рідина
     ur: مائع
@@ -314,11 +314,11 @@ dv_has_:
     yo: olómi
     yue: 液體
     zh: 液体
-    zh-cn: 液体
-    zh-hans: 液体
-    zh-hant: 液體
-    zh-hk: 液體
-    zh-tw: 液體
+    zh_cn: 液体
+    zh_hans: 液体
+    zh_hant: 液體
+    zh_hk: 液體
+    zh_tw: 液體
     zu: uketshezi
 ---
 # [[Liquid]] 

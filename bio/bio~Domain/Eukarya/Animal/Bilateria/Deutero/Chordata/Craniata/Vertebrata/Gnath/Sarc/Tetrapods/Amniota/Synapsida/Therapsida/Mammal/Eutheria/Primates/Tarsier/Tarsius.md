@@ -68,7 +68,7 @@ dv_has_:
     avk: Pincol (Tarsius)
     az: Uzuntopuq
     be: даўгапяты
-    be-tarask: доўгапятка
+    be_tarask: доўгапятка
     bg: дългопети
     bs: Avetnjaci
     ca: Tarser
@@ -78,8 +78,8 @@ dv_has_:
     de: Sulawesi-Koboldmakis
     el: Τάρσιος
     en: Tarsius
-    en-ca: Tarsius
-    en-gb: Tarsius
+    en_ca: Tarsius
+    en_gb: Tarsius
     eo: Tarsius
     es: Tarsius
     eu: Tarsius
@@ -118,13 +118,13 @@ dv_has_:
     pl: Wyrak
     pnb: ٹارسیر
     pt: Tarsius
-    pt-br: Tarsius
+    pt_br: Tarsius
     ro: Tarsius
     ru: Tarsius
     sh: Tarsius
     sq: Tarsius
     sr: Тарзијери
-    sr-ec: Тарзијери
+    sr_ec: Тарзијери
     sv: Spökdjur
     th: ทาร์เซียร์
     tr: cadı makigiller
@@ -134,9 +134,9 @@ dv_has_:
     war: Tarsius
     yue: 眼鏡猴屬
     zh: 眼镜猴属
-    zh-cn: 眼鏡猴属
-    zh-hans: 眼镜猴属
-    zh-tw: 眼鏡猴屬
+    zh_cn: 眼鏡猴属
+    zh_hans: 眼镜猴属
+    zh_tw: 眼鏡猴屬
 ---
 # [[Tarsius]] 
 

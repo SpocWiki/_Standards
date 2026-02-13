@@ -263,7 +263,7 @@ dv_has_:
     azb: اسکیزوفرنی
     ba: шизофрения
     be: шызафрэнія
-    be-tarask: шызафрэнія
+    be_tarask: шызафрэнія
     bg: шизофрения
     bn: ভগ্নমনস্কতা
     bs: shizofrenija
@@ -322,7 +322,7 @@ dv_has_:
     mn: шизофрения
     mr: छिन्नमनस्कता
     ms: skizofrenia
-    ms-arab: سکيزوفرينيا
+    ms_arab: سکيزوفرينيا
     mt: skizofrenija
     my: စိတ်ကစဉ့်ကလျားရောဂါ
     mzn: اسکیزوفرنی
@@ -337,7 +337,7 @@ dv_has_:
     pl: schizofrenia
     ps: سکیزفرینیا
     pt: esquizofrenia
-    pt-br: esquizofrenia
+    pt_br: esquizofrenia
     qu: waq'akay
     rn: kwamana ubwoba wicura abansi n’ibikugirira nabi
     ro: schizofrenie
@@ -354,7 +354,7 @@ dv_has_:
     so: iskiitsofiriiniya
     sq: skizofrenia
     sr: схизофренија
-    sr-ec: схизофренија
+    sr_ec: схизофренија
     su: Skizofrénia
     sv: schizofreni
     sw: skizofrenia
@@ -378,12 +378,12 @@ dv_has_:
     yo: rudurudu ti ọpọlọ
     yue: 精神分裂
     zh: 精神分裂症
-    zh-cn: 精神分裂症
-    zh-hans: 精神分裂症
-    zh-hant: 思覺失調症
-    zh-hk: 精神分裂症
-    zh-sg: 精神分裂症
-    zh-tw: 思覺失調症
+    zh_cn: 精神分裂症
+    zh_hans: 精神分裂症
+    zh_hant: 思覺失調症
+    zh_hk: 精神分裂症
+    zh_sg: 精神分裂症
+    zh_tw: 思覺失調症
     zu: bayasangana
 ---
 # [[Schizophrenia]] 

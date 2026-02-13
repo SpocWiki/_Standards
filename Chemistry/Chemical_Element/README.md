@@ -36,7 +36,7 @@ dv_has_:
     ban: Datu kimia
     bcl: Elementong kimikal
     be: хімічны элемент
-    be-tarask: хімічны элемэнт
+    be_tarask: хімічны элемэнт
     bg: Химичен елемент
     bho: रासायनिक तत्व
     bi: Elemen blong Kemistri
@@ -50,18 +50,18 @@ dv_has_:
     ceb: Elemento
     ckb: توخمی کیمیایی
     crh: himiyaviy element
-    crh-latn: Himiyaviy element
+    crh_latn: Himiyaviy element
     cs: chemický prvek
     cv: Хими элеменчĕсем
     cy: elfen gemegol
     da: grundstof
     de: chemisches Element
-    de-ch: chemisches Element
+    de_ch: chemisches Element
     diq: elementê kimyewi
     el: χημικό στοιχείο
     en: chemical element
-    en-ca: Chemical element
-    en-gb: chemical element
+    en_ca: Chemical element
+    en_gb: chemical element
     en-us: chemical element
     eo: ĥemia elemento
     es: elemento químico
@@ -134,7 +134,7 @@ dv_has_:
     mn: Химийн элемент
     mr: मूलद्रव्य
     ms: unsur kimia
-    ms-arab: عنصور کيميا
+    ms_arab: عنصور کيميا
     mt: element kimiku
     my: ဒြပ်စင်
     nan: Hoà-ha̍k goân-sò͘
@@ -159,7 +159,7 @@ dv_has_:
     pnb: کیمیائی عنصر
     ps: کيمياوي توکی
     pt: elemento químico
-    pt-br: elemento químico
+    pt_br: elemento químico
     qu: Qallawa
     rki: ဒြပ်စင်
     ro: element chimic
@@ -188,7 +188,7 @@ dv_has_:
     so: Curiye kimiko
     sq: element kimik
     sr: хемијски елемент
-    sr-ec: хемијски елемент
+    sr_ec: хемијски елемент
     stq: Element
     su: Unsur kimia
     sv: grundämne
@@ -201,7 +201,7 @@ dv_has_:
     tok: kule insa pi wan lili awen
     tr: kimyasal element
     tt: химик элемент
-    tt-cyrl: химик элемент
+    tt_cyrl: химик элемент
     tyv: Химиктиг элемент
     udm: хими ёзнэт
     uk: хімічний елемент
@@ -224,14 +224,14 @@ dv_has_:
     za: vaqyoz yienzsoq
     zgh: ⴰⴼⵔⴷⵉⵙ ⴰⴽⵔⵓⵔⴰⵏ
     zh: 化學元素
-    zh-cn: 化学元素
-    zh-hans: 化学元素
-    zh-hant: 化學元素
-    zh-hk: 化學元素
-    zh-mo: 化學元素
+    zh_cn: 化学元素
+    zh_hans: 化学元素
+    zh_hant: 化學元素
+    zh_hk: 化學元素
+    zh_mo: 化學元素
     zh-my: 化学元素
-    zh-sg: 化学元素
-    zh-tw: 化學元素
+    zh_sg: 化学元素
+    zh_tw: 化學元素
     zu: Ama-elementhi
 aliases:
 - Aferdis akruran

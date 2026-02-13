@@ -147,7 +147,7 @@ dv_has_:
     ban: Aljabar
     bcl: alhebra
     be: алгебра
-    be-tarask: альгебра
+    be_tarask: альгебра
     bg: алгебра
     bho: बीजगणित
     bn: বীজগণিত
@@ -170,8 +170,8 @@ dv_has_:
     el: άλγεβρα
     eml: algebra
     en: algebra
-    en-ca: algebra
-    en-gb: algebra
+    en_ca: algebra
+    en_gb: algebra
     eo: algebro
     es: álgebra
     et: algebra
@@ -247,7 +247,7 @@ dv_has_:
     mn: Алгебр
     mr: बीजगणित
     ms: ilmu bertempel
-    ms-arab: علمو برتيمڤيل
+    ms_arab: علمو برتيمڤيل
     mt: alġebra
     mwl: álgebra
     my: အက္ခရာသင်္ချာ
@@ -269,7 +269,7 @@ dv_has_:
     pnb: الجبرا
     ps: الجبر
     pt: álgebra
-    pt-br: álgebra
+    pt_br: álgebra
     qu: qillqanancha kamay
     rki: အက္ခရာသင်္ချာ
     ro: algebră
@@ -323,8 +323,8 @@ dv_has_:
     yo: áljẹ́brà
     yue: 代數學
     zh: 代數
-    zh-hans: 代数
-    zh-hant: 代數
+    zh_hans: 代数
+    zh_hant: 代數
 ---
 # [[Algebra]] 
 

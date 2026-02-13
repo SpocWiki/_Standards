@@ -46,24 +46,24 @@ dv_has_:
     oc: Thelodonti
     pl: Telodonty
     pt: Thelodonti
-    pt-br: Thelodonti
+    pt_br: Thelodonti
     ro: Thelodonti
     ru: Thelodonti
     sk: Thelodonti
     sq: Thelodonti
     sr: Целолепида
-    sr-ec: Целолепида
-    sr-el: Celolepida
+    sr_ec: Целолепида
+    sr_el: Celolepida
     sv: Thelodonter
     uk: Thelodonti
     vi: Thelodonti
     vo: Thelodonti
     war: Thelodonti
     zh: 花鳞鱼纲
-    zh-cn: 花鳞鱼纲
-    zh-hans: 花鳞鱼纲
-    zh-hant: 花鱗魚綱
-    zh-tw: 花鱗魚綱
+    zh_cn: 花鳞鱼纲
+    zh_hans: 花鳞鱼纲
+    zh_hant: 花鱗魚綱
+    zh_tw: 花鱗魚綱
 ---
 # [[Thelodonti]] 
 

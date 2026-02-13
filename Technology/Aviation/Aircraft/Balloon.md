@@ -95,7 +95,7 @@ dv_has_:
     as: গৰম বতাহৰ বেলুন
     ast: globu aerostáticu
     be: паветраны шар
-    be-tarask: паветраны балён
+    be_tarask: паветраны балён
     bew: pelembungan terbang
     bg: въздушен балон
     bn: বেলুন
@@ -105,11 +105,11 @@ dv_has_:
     cy: balŵn
     da: ballon
     de: Ballon
-    de-ch: Ballon
+    de_ch: Ballon
     el: αερόστατο
     en: balloon
-    en-ca: balloon
-    en-gb: balloon
+    en_ca: balloon
+    en_gb: balloon
     eo: balono
     es: globo aerostático
     et: aerostaat
@@ -132,11 +132,11 @@ dv_has_:
     ja: 気球
     ka: მონგოლფიერი
     kk: аэростат
-    kk-arab: اەروستات
+    kk_arab: اەروستات
     kk-cn: اەروستات
-    kk-cyrl: аэростат
+    kk_cyrl: аэростат
     kk-kz: аэростат
-    kk-latn: aérostat
+    kk_latn: aérostat
     kk-tr: aérostat
     ko: 기구
     krc: аэростат
@@ -152,7 +152,7 @@ dv_has_:
     pa: ਗੁਬਾਰਾ
     pl: balon
     pt: balão
-    pt-br: balão
+    pt_br: balão
     ro: balon
     ru: воздушный шар
     sh: balon
@@ -172,12 +172,12 @@ dv_has_:
     yi: באלאן
     yue: 氣球
     zh: 航空气球
-    zh-cn: 气球
-    zh-hans: 气球
-    zh-hant: 氣球
-    zh-hk: 氣球
-    zh-sg: 气球
-    zh-tw: 氣球
+    zh_cn: 气球
+    zh_hans: 气球
+    zh_hant: 氣球
+    zh_hk: 氣球
+    zh_sg: 气球
+    zh_tw: 氣球
 ---
 # [[Balloon]] 
 

@@ -104,7 +104,7 @@ dv_has_:
     az: Akvarel
     ba: Акварель
     be: акварэль
-    be-tarask: акварэль
+    be_tarask: акварэль
     bg: Акварел
     bn: জলরঙ
     br: dourliverezh
@@ -115,12 +115,12 @@ dv_has_:
     cy: dyfrlliw
     da: akvarel
     de: Aquarellieren
-    de-ch: Aquarell
+    de_ch: Aquarell
     el: Υδατογραφία
     eml: Aquerêl
     en: watercolor
-    en-ca: watercolour
-    en-gb: watercolour
+    en_ca: watercolour
+    en_gb: watercolour
     eo: akvarelo
     es: acuarela
     et: akvarell
@@ -163,7 +163,7 @@ dv_has_:
     oc: Aquarella
     pl: akwarela
     pt: aguarela
-    pt-br: aquarela
+    pt_br: aquarela
     ro: acuarelă
     ru: акварель
     scn: acquarellu
@@ -173,7 +173,7 @@ dv_has_:
     sl: akvarel
     sq: akuareli
     sr: акварел
-    sr-ec: Акварел
+    sr_ec: Акварел
     stq: Aquarellfaawe
     sv: akvarell
     ta: நீர்வர்ணம்
@@ -191,14 +191,14 @@ dv_has_:
     wuu: 水彩画
     yue: 水彩
     zh: 水彩画
-    zh-cn: 水彩画
-    zh-hans: 水彩画
-    zh-hant: 水彩畫
-    zh-hk: 水彩畫
-    zh-mo: 水彩畫
+    zh_cn: 水彩画
+    zh_hans: 水彩画
+    zh_hant: 水彩畫
+    zh_hk: 水彩畫
+    zh_mo: 水彩畫
     zh-my: 水彩画
-    zh-sg: 水彩画
-    zh-tw: 水彩畫
+    zh_sg: 水彩画
+    zh_tw: 水彩畫
 ---
 # [[Watercolor]] 
 

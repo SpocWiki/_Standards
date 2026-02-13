@@ -61,14 +61,14 @@ dv_has_:
     arz: تقويم مصرى
     az: Qədim Misir təqvimi
     ba: Боронғо Мысыр календары
-    be-tarask: эгіпецкі каляндар
+    be_tarask: эгіпецкі каляндар
     bg: Египетски календар
     ca: calendari egipci
     cs: Egyptský kalendář
     de: Ägyptischer Kalender
     en: Egyptian calendar
-    en-ca: Egyptian calendar
-    en-gb: Egyptian calendar
+    en_ca: Egyptian calendar
+    en_gb: Egyptian calendar
     eo: egipta kalendaro
     es: calendario egipcio
     eu: Egiptoar egutegi
@@ -93,7 +93,7 @@ dv_has_:
     nl: Egyptische kalender
     pl: kalendarz egipski
     pt: Calendário egípcio
-    pt-br: Calendário egípcio
+    pt_br: Calendário egípcio
     ro: calendarul egiptean
     ru: древнеегипетский календарь
     sh: Egipatski kalendar
@@ -107,7 +107,7 @@ dv_has_:
     wuu: 古埃及历法
     yue: 古埃及曆
     zh: 埃及历法
-    zh-tw: 埃及曆法
+    zh_tw: 埃及曆法
 ---
 # [[Egyptian_Calendar]] 
 

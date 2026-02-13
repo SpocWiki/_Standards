@@ -146,7 +146,7 @@ dv_has_:
     ban: padet
     bcl: solido
     be: цвёрдае цела
-    be-tarask: цьвёрдае цела
+    be_tarask: цьвёрдае цела
     bg: твърдо тяло
     bn: কঠিন পদার্থ
     bs: čvrsto stanje
@@ -217,7 +217,7 @@ dv_has_:
     mn: хатуу
     mni: ꯃꯄꯪ
     ms: pepejal
-    ms-arab: ڤڤجل
+    ms_arab: ڤڤجل
     my: အစိုင်အခဲ
     nan: Kò͘-thé
     nb: faststoff
@@ -236,7 +236,7 @@ dv_has_:
     pnb: ٹھوس
     ps: جامد
     pt: sólido
-    pt-br: sólido
+    pt_br: sólido
     qu: sinchiyasqa
     ro: solid
     ru: твёрдое тело
@@ -262,7 +262,7 @@ dv_has_:
     tok: kiwen
     tr: katı
     tt: каты җисем
-    tt-cyrl: каты җисем
+    tt_cyrl: каты җисем
     udm: чурыт вылтыр
     uk: тверде тіло
     ur: ٹھوس
@@ -277,9 +277,9 @@ dv_has_:
     yi: סאלידער קערפער
     yue: 固體
     zh: 固体
-    zh-hans: 固体
-    zh-hant: 固體
-    zh-hk: 固體
+    zh_hans: 固体
+    zh_hant: 固體
+    zh_hk: 固體
     zu: isinqumela
 ---
 # [[Solid]] 

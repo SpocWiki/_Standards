@@ -526,7 +526,7 @@ dv_has_:
     ban: Uni Soviet
     bar: Sowjetunion
     be: СССР
-    be-tarask: Саюз Савецкіх Сацыялістычных Рэспублік
+    be_tarask: Саюз Савецкіх Сацыялістычных Рэспублік
     bg: СССР
     bho: सोवियत यूनियन
     bn: সোভিয়েত ইউনিয়ন
@@ -543,7 +543,7 @@ dv_has_:
     ckb: یەکێتیی سۆڤیەت
     co: Unione Suvietica
     crh: Şuralar Sotsialist Cumhuriyetleri Birligi
-    crh-latn: Şuralar Sotsialistik Cumhuriyetleri Birligi
+    crh_latn: Şuralar Sotsialistik Cumhuriyetleri Birligi
     cs: Sovětský svaz
     csb: Związk Socjalisticznëch Sowiecczich Repùblików
     cu: Съвѣтьскъ Социалистичьскъ Димократїи Съвѫꙁъ
@@ -552,15 +552,15 @@ dv_has_:
     da: Sovjetunionen
     dag: Soviet Union
     de: Sowjetunion
-    de-ch: Sowjetunion
+    de_ch: Sowjetunion
     diq: Yewiya Sowyeti
     dsb: Sowjetski zwězk
     dtp: Koisaan Soviet
     dv: ސޯވިއެޓް އިއްތިހާދު
     el: Ένωση Σοβιετικών Σοσιαλιστικών Δημοκρατιών
     en: Soviet Union
-    en-ca: Soviet Union
-    en-gb: Soviet Union
+    en_ca: Soviet Union
+    en_gb: Soviet Union
     eo: Soveta Unio
     es: Unión Soviética
     et: Nõukogude Sotsialistlike Vabariikide Liit
@@ -657,7 +657,7 @@ dv_has_:
     mo: Униуня Совиетикэ
     mr: सोव्हियेत संघ
     ms: Kesatuan Soviet
-    ms-arab: کساتوان سوۏيئيت
+    ms_arab: کساتوان سوۏيئيت
     mt: Unjoni Sovjetika
     mwl: Ounion Sobiética
     my: ဆိုဗီယက်ပြည်ထောင်စု သမ္မတနိုင်ငံ
@@ -667,7 +667,7 @@ dv_has_:
     nap: Aunione Sovieteca
     nb: Sovjetunionen
     nds: Sowjetunion
-    nds-nl: Sovjet-Unie
+    nds_nl: Sovjet-Unie
     ne: सोवियत संघ
     nl: Sovjet-Unie
     nn: Sovjetunionen
@@ -688,7 +688,7 @@ dv_has_:
     pnb: سویت یونین
     ps: شوروي اتحاد
     pt: União Soviética
-    pt-br: União Soviética
+    pt_br: União Soviética
     qu: Susyalista Suwit Republikakunap Huñun
     rm: Uniun sovietica
     ro: Uniunea Sovietică
@@ -715,8 +715,8 @@ dv_has_:
     so: Midowga Sofiyet
     sq: Bashkimi Sovjetik
     sr: Савез Совјетских Социјалистичких Република
-    sr-ec: Савез Совјетских Социјалистичких Република
-    sr-el: Savez Sovjetskih Socijalističkih Republika
+    sr_ec: Савез Совјетских Социјалистичких Република
+    sr_el: Savez Sovjetskih Socijalističkih Republika
     stq: Sowjetunion
     su: Uni Soviét
     sv: Sovjetunionen
@@ -725,20 +725,20 @@ dv_has_:
     ta: சோவியத் ஒன்றியம்
     te: సోవియట్ యూనియన్
     tg: Иттиҳоди Шӯравӣ
-    tg-cyrl: Иттиҳоди Шӯравӣ
+    tg_cyrl: Иттиҳоди Шӯравӣ
     th: สหภาพโซเวียต
     tl: Unyong Sobyet
     tly: Sovet Ibemon
     tok: ma Sesesele
     tr: Sovyet Sosyalist Cumhuriyetler Birliği
     tt: ССРБ
-    tt-cyrl: Совет Социалистик Җөмһүриятләр Берлеге
-    tt-latn: Sovet Sosialist Cömhüriätlär Berlege
+    tt_cyrl: Совет Социалистик Җөмһүриятләр Берлеге
+    tt_latn: Sovet Sosialist Cömhüriätlär Berlege
     tyv: ССРЭ
     udm: Советской Социалистической Республикаослэн Союззы
     ug: سوۋېت ئىتتىپاقى
-    ug-arab: سوۋېت ئىتتىپاقى
-    ug-latn: Sowét Ittipaqi
+    ug_arab: سوۋېت ئىتتىپاقى
+    ug_latn: Sowét Ittipaqi
     uk: Союз Радянських Соціалістичних Республік
     ur: سوویت اتحاد
     uz: Sovet Sotsialistlik Respublikalari Ittifoqi
@@ -760,14 +760,14 @@ dv_has_:
     za: Suhlienz
     zea: Sovjet-Unie
     zh: 蘇聯
-    zh-cn: 苏联
-    zh-hans: 苏联
-    zh-hant: 蘇聯
-    zh-hk: 蘇聯
-    zh-mo: 蘇聯
+    zh_cn: 苏联
+    zh_hans: 苏联
+    zh_hant: 蘇聯
+    zh_hk: 蘇聯
+    zh_mo: 蘇聯
     zh-my: 苏联
-    zh-sg: 苏联
-    zh-tw: 蘇聯
+    zh_sg: 苏联
+    zh_tw: 蘇聯
 ---
 # [[Soviet_Union]] 
 

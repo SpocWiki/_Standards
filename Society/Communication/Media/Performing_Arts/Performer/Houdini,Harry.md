@@ -112,7 +112,7 @@ dv_has_:
     az: Harri Hudini
     ba: Гарри Гудини
     be: Гары Гудзіні
-    be-tarask: Гары Гудыні
+    be_tarask: Гары Гудыні
     bg: Хари Худини
     bn: হ্যারি হুডিনি
     bs: Harry Houdini
@@ -168,7 +168,7 @@ dv_has_:
     pap: Harry Houdini
     pl: Harry Houdini
     pt: Harry Houdini
-    pt-br: Harry Houdini
+    pt_br: Harry Houdini
     ro: Harry Houdini
     ru: Гарри Гудини
     sah: Гудини Гарри
@@ -179,8 +179,8 @@ dv_has_:
     sl: Harry Houdini
     sq: Harry Houdini
     sr: Хари Худини
-    sr-ec: Хари Худини
-    sr-el: Hari Hudini
+    sr_ec: Хари Худини
+    sr_el: Hari Hudini
     sv: Harry Houdini
     sw: Harry Houdini
     szl: Harry Houdini
@@ -195,12 +195,12 @@ dv_has_:
     yo: Harry Houdini
     yue: 哈利胡迪尼
     zh: 哈利·胡迪尼
-    zh-cn: 哈利·胡迪尼
-    zh-hans: 哈利·胡迪尼
-    zh-hant: 哈利·胡迪尼
-    zh-hk: 哈利·胡迪尼
-    zh-sg: 哈利·胡迪尼
-    zh-tw: 哈利·胡迪尼
+    zh_cn: 哈利·胡迪尼
+    zh_hans: 哈利·胡迪尼
+    zh_hant: 哈利·胡迪尼
+    zh_hk: 哈利·胡迪尼
+    zh_sg: 哈利·胡迪尼
+    zh_tw: 哈利·胡迪尼
 ---
 # [[Houdini,Harry]] 
 

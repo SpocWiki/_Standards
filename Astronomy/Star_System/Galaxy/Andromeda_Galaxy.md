@@ -125,7 +125,7 @@ dv_has_:
     azb: آندرومدا قالاکسی
     ba: Андромеда галактикаһы
     be: Аб'ект Месье M31
-    be-tarask: Галяктыка Андрамэды
+    be_tarask: Галяктыка Андрамэды
     bg: Андромеда
     bho: एंड्रोमिडा
     bn: অ্যানড্রোমিডা ছায়াপথ
@@ -140,12 +140,12 @@ dv_has_:
     cy: Galaeth Andromeda
     da: Andromedagalaksen
     de: Andromedagalaxie
-    de-ch: Andromedagalaxie
+    de_ch: Andromedagalaxie
     diq: NGC 224
     el: Γαλαξίας της Ανδρομέδας
     en: Andromeda Galaxy
-    en-ca: Andromeda Galaxy
-    en-gb: Andromeda
+    en_ca: Andromeda Galaxy
+    en_gb: Andromeda
     eo: Andromeda galaksio
     es: galaxia de Andrómeda
     et: Andromeeda galaktika
@@ -198,7 +198,7 @@ dv_has_:
     pnb: اینڈرومیڈا
     ps: اندرومېدا کهکشان
     pt: Andrómeda
-    pt-br: Galáxia de Andrômeda
+    pt_br: Galáxia de Andrômeda
     ro: Andromeda
     ru: Галактика Андромеды
     sah: Андромеда галактика
@@ -230,7 +230,7 @@ dv_has_:
     yo: Gáláksì Andromẹ́dà
     yue: 仙女座星系
     zh: 仙女座星系
-    zh-hans: 仙女座星系
+    zh_hans: 仙女座星系
 ---
 # [[Andromeda_Galaxy]] 
 

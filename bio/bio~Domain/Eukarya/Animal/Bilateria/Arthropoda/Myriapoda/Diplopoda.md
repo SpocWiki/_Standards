@@ -111,7 +111,7 @@ dv_has_:
     az: İkicütayaqlılar
     bcl: Alimbabayod
     be: Двухпарнаногія
-    be-tarask: двухпарнаногія
+    be_tarask: двухпарнаногія
     bew: Leluwé
     bg: диплоподи
     bjn: Halimandan
@@ -122,7 +122,7 @@ dv_has_:
     da: tusindben
     dag: Binakpaa
     de: Doppelfüßer
-    de-ch: Doppelfüsser
+    de_ch: Doppelfüsser
     din: Acir
     dtp: Lontugi
     el: Διπλόποδα
@@ -173,7 +173,7 @@ dv_has_:
     oc: Diplopoda
     pl: dwuparce
     pt: Diplópode
-    pt-br: Diplopoda
+    pt_br: Diplopoda
     qu: Iskaynintinchaki
     ro: Diplopoda
     ru: двупарноногие
@@ -199,12 +199,12 @@ dv_has_:
     wuu: 倍足纲
     yue: 千足蟲
     zh: 倍足纲
-    zh-cn: 倍足纲
-    zh-hans: 倍足纲
-    zh-hant: 馬陸
-    zh-hk: 馬陸
-    zh-sg: 马陆
-    zh-tw: 倍足綱
+    zh_cn: 倍足纲
+    zh_hans: 倍足纲
+    zh_hant: 馬陸
+    zh_hk: 馬陸
+    zh_sg: 马陆
+    zh_tw: 倍足綱
 ---
 # [[Diplopoda]] 
 

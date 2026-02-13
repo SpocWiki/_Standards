@@ -46,7 +46,7 @@ dv_has_:
     oc: Sauropsides
     pl: Zauropsydy
     pt: Sauropsida
-    pt-br: Sauropsida
+    pt_br: Sauropsida
     ro: Sauropsida
     ru: завропсиды
     scn: Sauropsida
@@ -61,12 +61,12 @@ dv_has_:
     vo: Sauropsida
     war: Sauropsida
     zh: 蜥形纲
-    zh-cn: 蜥形纲
-    zh-hans: 蜥形纲
-    zh-hant: 蜥形綱
-    zh-hk: 蜥形綱
-    zh-sg: 蜥形纲
-    zh-tw: 蜥形綱
+    zh_cn: 蜥形纲
+    zh_hans: 蜥形纲
+    zh_hant: 蜥形綱
+    zh_hk: 蜥形綱
+    zh_sg: 蜥形纲
+    zh_tw: 蜥形綱
 aliases:
 - hüllőszerűek
 - Sauropsida

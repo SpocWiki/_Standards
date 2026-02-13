@@ -162,7 +162,7 @@ dv_has_:
     ba: сағыштырмалыҡ теорияһы
     ban: rélativitas umum
     be: тэорыя адноснасці
-    be-tarask: тэорыя рэлятыўнасьці
+    be_tarask: тэорыя рэлятыўнасьці
     bg: теория на относителността
     bho: सापेक्षता के सिद्धांत
     bn: আপেক্ষিকতা তত্ত্ব
@@ -239,7 +239,7 @@ dv_has_:
     pa: ਸਾਪੇਖਤਾ ਸਿਧਾਂਤ
     pl: teoria względności
     pt: teoria da relatividade
-    pt-br: teoria da relatividade
+    pt_br: teoria da relatividade
     qu: pachapi tiyaq chimpaykuna
     rm: teoria da la relativitad
     ro: teoria relativității
@@ -256,8 +256,8 @@ dv_has_:
     smn: koskâvuođâlâšvuotâteoria
     sq: relativiteti
     sr: теорија релативности
-    sr-ec: теорија релативности
-    sr-el: teorija relativnosti
+    sr_ec: теорија релативности
+    sr_el: teorija relativnosti
     stq: Relativitätstheorie
     sv: relativitetsteori
     sw: nadharia ya uhusianifu
@@ -279,9 +279,9 @@ dv_has_:
     yue: 相對論
     zgh: ⵜⵉⵥⵕⵉ ⵏ ⵜⵎⵎⴰⵙⵖⵜ
     zh: 相對論
-    zh-cn: 相对论
-    zh-hans: 相对论
-    zh-hant: 相對論
+    zh_cn: 相对论
+    zh_hans: 相对论
+    zh_hant: 相對論
     zu: Umchachiso wokucakathana
 ---
 # [[Theory_of_Relativity]] 

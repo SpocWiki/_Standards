@@ -48,8 +48,8 @@ dv_has_:
     de: Gena Rowlands
     el: Τζένα Ρόουλαντς
     en: Gena Rowlands
-    en-ca: Gena Rowlands
-    en-gb: Gena Rowlands
+    en_ca: Gena Rowlands
+    en_gb: Gena Rowlands
     eo: Gena Rowlands
     es: Gena Rowlands
     et: Gena Rowlands
@@ -88,7 +88,7 @@ dv_has_:
     pl: Gena Rowlands
     pnb: جینا رولینڈز
     pt: Gena Rowlands
-    pt-br: Gena Rowlands
+    pt_br: Gena Rowlands
     ro: Gena Rowlands
     ru: Джина Роулендс
     sh: Gena Rowlands
@@ -96,8 +96,8 @@ dv_has_:
     sl: Gena Rowlands
     sq: Gena Rowlands
     sr: Џина Роуландс
-    sr-ec: Џина Роуландс
-    sr-el: Džina Roulands
+    sr_ec: Џина Роуландс
+    sr_el: Džina Roulands
     sv: Gena Rowlands
     tk: Gena Rowlands
     tl: Gena Rowlands
@@ -111,10 +111,10 @@ dv_has_:
     yo: Gena Rowlands
     yue: 珍娜羅蘭絲
     zh: 吉娜·羅蘭茲
-    zh-hk: 珍娜·羅蘭絲
+    zh_hk: 珍娜·羅蘭絲
     zh-my: 珍娜·罗兰丝
-    zh-sg: 珍娜·罗兰丝
-    zh-tw: 珍娜·羅蘭
+    zh_sg: 珍娜·罗兰丝
+    zh_tw: 珍娜·羅蘭
 ---
 #has_/time_/started ::  1930-06-19  
 #has_/time_/stopped :: 2024-08-14 

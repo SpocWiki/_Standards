@@ -92,7 +92,7 @@ dv_has_:
     as: কিংবদন্তিমূলক জীৱ
     bcl: Alamat na linalang
     be: міфічная істота
-    be-tarask: міталягічная істота
+    be_tarask: міталягічная істота
     bg: митично същество
     bn: কাল্পনিক জীব
     ca: criatura mitològica
@@ -134,7 +134,7 @@ dv_has_:
     mk: митско суштество
     mni: ꯂꯩ ꯍꯥꯢꯅ ꯊꯥꯖꯅꯕ ꯊꯋꯥꯢ ꯄꯥꯟꯕ
     ms: makhluk mitos
-    ms-arab: مخلوق ميتوس
+    ms_arab: مخلوق ميتوس
     nb: fabelvesen
     nl: mythisch wezen
     nn: fabeldyr
@@ -144,8 +144,8 @@ dv_has_:
     sl: mitološko bitje
     sq: Krijesa legjendare
     sr: бајковито створење
-    sr-ec: бајковито створење
-    sr-el: bajkovito stvorenje
+    sr_ec: бајковито створење
+    sr_el: bajkovito stvorenje
     sv: sagodjur
     tly: mifologijə vyčud
     tr: efsanevi varlık
@@ -154,9 +154,9 @@ dv_has_:
     vi: sinh vật huyền thoại
     yue: 傳說生物
     zh: 奇幻生物
-    zh-cn: 传说中的生物
-    zh-hans: 传说中的生物
-    zh-hant: 傳說中的生物
+    zh_cn: 传说中的生物
+    zh_hans: 传说中的生物
+    zh_hant: 傳說中的生物
 ---
 # [[Mythical_Creature]] 
 

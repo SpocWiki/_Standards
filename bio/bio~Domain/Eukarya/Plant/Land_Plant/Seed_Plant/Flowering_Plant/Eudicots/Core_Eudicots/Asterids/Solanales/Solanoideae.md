@@ -41,10 +41,10 @@ dv_has_:
     da: Solanoideae
     de: Solanoideae
     de-at: Solanoideae
-    de-ch: Solanoideae
+    de_ch: Solanoideae
     en: Solanoideae
-    en-ca: Solanoideae
-    en-gb: Solanoideae
+    en_ca: Solanoideae
+    en_gb: Solanoideae
     eo: Solanoideae
     es: Solanoideae
     et: Solanoideae
@@ -84,7 +84,7 @@ dv_has_:
     nap: Solanoideae
     nb: Solanoideae
     nds: Solanoideae
-    nds-nl: Solanoideae
+    nds_nl: Solanoideae
     nl: Solanoideae
     nn: Solanoideae
     nrm: Solanoideae
@@ -93,7 +93,7 @@ dv_has_:
     pl: Solanoideae
     pms: Solanoideae
     pt: Solanoideae
-    pt-br: Solanoideae
+    pt_br: Solanoideae
     rm: Solanoideae
     ro: Solanoideae
     ru: паслёновые
@@ -103,7 +103,7 @@ dv_has_:
     sk: Solanoideae
     sl: Solanoideae
     sq: Solanoideae
-    sr-el: Solanoideae
+    sr_el: Solanoideae
     sv: Solanoideae
     sw: Solanoideae
     uk: Solanoideae
@@ -115,9 +115,9 @@ dv_has_:
     war: Solanoideae
     wo: Solanoideae
     zh: 茄亚科
-    zh-cn: 茄亚科
-    zh-hant: 茄亞科
-    zh-tw: 茄亞科
+    zh_cn: 茄亚科
+    zh_hant: 茄亞科
+    zh_tw: 茄亞科
     zu: Solanoideae
 ---
 # [[Solanoideae]] 

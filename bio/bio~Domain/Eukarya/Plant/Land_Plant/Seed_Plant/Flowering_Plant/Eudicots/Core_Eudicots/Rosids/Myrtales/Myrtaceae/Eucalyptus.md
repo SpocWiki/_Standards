@@ -120,7 +120,7 @@ NBN_System_Key: NHMSYS0000458614
 dv_has_:
   name_:
     ab: Аевкалипт
-    aeb-arab: كلتوس
+    aeb_arab: كلتوس
     af: Eucalyptus
     am: ባህር ዛፍ
     an: Eucalyptus
@@ -129,7 +129,7 @@ dv_has_:
     ast: Eucalyptus
     az: Evkalipt
     be: Эўкаліпт
-    be-tarask: эўкаліпт
+    be_tarask: эўкаліпт
     bg: евкалипт
     bn: ইউক্যালিপটাস
     bs: Eukaliptus
@@ -199,7 +199,7 @@ dv_has_:
     pnb: یوکلپٹس
     ps: يوکليپتوس (لاچي ونه)
     pt: Eucalipto
-    pt-br: Eucalyptus
+    pt_br: Eucalyptus
     qu: Kalistu
     ro: eucalipt
     ru: Эвкалипт
@@ -230,9 +230,9 @@ dv_has_:
     wuu: 桉树
     yue: 尤加利
     zh: 桉属
-    zh-cn: 桉属
-    zh-hans: 桉属
-    zh-tw: 桉屬
+    zh_cn: 桉属
+    zh_hans: 桉属
+    zh_tw: 桉屬
 ---
 # [[Eucalyptus]] 
 

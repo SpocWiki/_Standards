@@ -141,7 +141,7 @@ dv_has_:
     ba: милләт
     bar: Nation
     be: нацыя
-    be-tarask: нацыя
+    be_tarask: нацыя
     bg: нация
     bho: नेशन
     bn: জাতি
@@ -224,7 +224,7 @@ dv_has_:
     pnt: μιλέτ
     ps: ولس
     pt: nação
-    pt-br: nação
+    pt_br: nação
     qu: marka
     rmy: sel
     ro: națiune
@@ -251,8 +251,8 @@ dv_has_:
     th: ชาติ
     tr: millet
     tt: милләт
-    tt-cyrl: милләт
-    tt-latn: millät
+    tt_cyrl: милләт
+    tt_latn: millät
     udm: йӧскалык
     ug: ئۇلۇس
     uk: нація
@@ -265,8 +265,8 @@ dv_has_:
     yo: ìbínibí
     yue: 民族
     zh: 國民
-    zh-cn: 国族
-    zh-hant: 國民
+    zh_cn: 国族
+    zh_hant: 國民
 ---
 # [[Nation]] 
 

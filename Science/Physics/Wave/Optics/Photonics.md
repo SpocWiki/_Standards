@@ -57,7 +57,7 @@ dv_has_:
     ar: فوتونيات
     ast: fotónica
     az: Fotonika
-    be-tarask: фатоніка
+    be_tarask: фатоніка
     bg: фотоника
     bn: ফোটোনিক্স
     ca: fotònica
@@ -89,7 +89,7 @@ dv_has_:
     pap: fotonica
     pl: fotonika
     pt: fotónica
-    pt-br: fotônica
+    pt_br: fotônica
     ru: фотоника
     sl: fotonika
     sr: фотоника
@@ -105,8 +105,8 @@ dv_has_:
     vi: quang tử học
     yue: 光子學
     zh: 光子学
-    zh-hans: 光子学
-    zh-hant: 光子學
+    zh_hans: 光子学
+    zh_hant: 光子學
 ---
 # [[Photonics]] 
 

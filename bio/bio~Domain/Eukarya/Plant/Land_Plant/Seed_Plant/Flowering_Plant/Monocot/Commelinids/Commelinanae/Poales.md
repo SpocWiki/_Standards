@@ -62,7 +62,7 @@ dv_has_:
     az: Qırtıcçiçəklilər
     ba: Ҡыяҡлылар
     be: Метлюжкакветныя
-    be-tarask: метлюжкакветныя
+    be_tarask: метлюжкакветныя
     bg: житноцветни
     bn: পোয়েলিস
     bs: Poales
@@ -72,11 +72,11 @@ dv_has_:
     cs: lipnicotvaré
     da: Græs-ordenen
     de: Süßgrasartige
-    de-ch: Süssgrasartige
+    de_ch: Süssgrasartige
     el: Ποώδη
     en: Poales
-    en-ca: Poales
-    en-gb: Poales
+    en_ca: Poales
+    en_gb: Poales
     eo: Poaloj
     es: Poales
     et: Kõrreliselaadsed
@@ -118,7 +118,7 @@ dv_has_:
     os: Æфсирдидинонтæ
     pl: wiechlinowce
     pt: Poales
-    pt-br: Poales
+    pt_br: Poales
     ro: Poales
     ru: злакоцветные
     sco: Poales
@@ -138,8 +138,8 @@ dv_has_:
     wuu: 禾本目
     yue: 禾本目
     zh: 禾本目
-    zh-cn: 禾本目
-    zh-tw: 禾本目
+    zh_cn: 禾本目
+    zh_tw: 禾本目
 ---
 # [[Poales]] 
 

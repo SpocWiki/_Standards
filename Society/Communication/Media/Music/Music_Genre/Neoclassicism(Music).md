@@ -43,7 +43,7 @@ dv_has_:
   name_:
     ar: موسيقى كلاسيكية حديثة
     ast: Neoclasicismu musical del sieglu XX
-    be-tarask: нэаклясыцызм
+    be_tarask: нэаклясыцызм
     bg: Неокласицизъм
     ca: neoclassicisme musical del segle XX
     cs: neoklasicismus
@@ -51,7 +51,7 @@ dv_has_:
     de: Neoklassizismus
     el: Νεοκλασικισμός
     en: neoclassicism
-    en-gb: neoclassicism
+    en_gb: neoclassicism
     eo: Novklasikismo
     es: Neoclasicismo musical del siglo XX
     eu: Musika neoklasiko

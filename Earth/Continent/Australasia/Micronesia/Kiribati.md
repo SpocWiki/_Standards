@@ -413,7 +413,7 @@ dv_has_:
   name_:
     ab: Кирибати
     ace: Kiribati
-    aeb-arab: كيريباتي
+    aeb_arab: كيريباتي
     af: Kiribati
     am: ኪሪባስ
     ami: Kiribati
@@ -431,7 +431,7 @@ dv_has_:
     ban: Kiribati
     bcl: Kiribati
     be: Кірыбаці
-    be-tarask: Кірыбаці
+    be_tarask: Кірыбаці
     bew: Kiribati
     bg: Кирибати
     bho: किरिबाती
@@ -444,7 +444,7 @@ dv_has_:
     bs: Kiribati
     bxr: Кирибати
     ca: Kiribati
-    cbk-zam: Kiribati
+    cbk_zam: Kiribati
     cdo: Kiribati
     ce: Кирибати
     ceb: Kiribati
@@ -453,7 +453,7 @@ dv_has_:
     ckb: کیریباس
     co: Kiribati
     crh: Kiribati
-    crh-latn: Kiribati
+    crh_latn: Kiribati
     cs: Kiribati
     cu: Кирибати
     cv: Кирибати
@@ -462,7 +462,7 @@ dv_has_:
     dag: Kiribati
     de: Kiribati
     de-at: Kiribati
-    de-ch: Kiribati
+    de_ch: Kiribati
     diq: Kiribati
     dsb: Kiribati
     dty: किरिवाटी
@@ -470,8 +470,8 @@ dv_has_:
     dz: ཀི་རི་བྷ་ཊི། (Kiribati)
     el: Κιριμπάτι
     en: Kiribati
-    en-ca: Kiribati
-    en-gb: Kiribati
+    en_ca: Kiribati
+    en_gb: Kiribati
     en-us: Kiribati
     eo: Kiribato
     es: Kiribati
@@ -495,7 +495,7 @@ dv_has_:
     gn: Kiriváti
     gom: किरिबाटी
     gom-deva: किरिबाटी
-    gom-latn: Kiribati
+    gom_latn: Kiribati
     gpe: Kiribati
     gsw: Kiribati
     gu: કિરીબાટી
@@ -525,7 +525,7 @@ dv_has_:
     kaa: Kiribati
     kge: Kiribati
     kk: Кирибати
-    kk-cyrl: Кирибати
+    kk_cyrl: Кирибати
     kn: ಕಿರಿಬಾಟಿ
     ko: 키리바시
     krc: Кирибати
@@ -544,7 +544,7 @@ dv_has_:
     lt: Kiribatis
     lv: Kiribati
     lzh: 吉里巴斯
-    map-bms: Kiribati
+    map_bms: Kiribati
     mg: Kiribasy
     mhr: Кирибати
     mi: Kiripāti
@@ -584,7 +584,7 @@ dv_has_:
     pnb: کیریباتی
     ps: کيريباتي
     pt: Quiribáti
-    pt-br: Quiribáti
+    pt_br: Quiribáti
     qu: Kiribati
     rmy: Kiribati
     ro: Kiribati
@@ -611,8 +611,8 @@ dv_has_:
     so: Kiribati
     sq: Kiribati
     sr: Кирибати
-    sr-ec: Кирибати
-    sr-el: Kiribati
+    sr_ec: Кирибати
+    sr_el: Kiribati
     su: Kiribati
     sv: Kiribati
     sw: Kiribati
@@ -620,7 +620,7 @@ dv_has_:
     ta: கிரிபட்டி
     te: కిరిబాతి
     tg: Ҷумҳурии Кирибатӣ
-    tg-cyrl: Ҷумҳурии Кирибатӣ
+    tg_cyrl: Ҷумҳурии Кирибатӣ
     th: ประเทศคิริบาส
     tk: Kiribati
     tl: Kiribati
@@ -650,13 +650,13 @@ dv_has_:
     za: Kiribati
     zea: Kiribati
     zh: 吉里巴斯
-    zh-cn: 基里巴斯
-    zh-hans: 基里巴斯
-    zh-hant: 吉里巴斯
-    zh-hk: 基里巴斯
-    zh-mo: 基里巴斯
-    zh-sg: 基里巴斯
-    zh-tw: 吉里巴斯
+    zh_cn: 基里巴斯
+    zh_hans: 基里巴斯
+    zh_hant: 吉里巴斯
+    zh_hk: 基里巴斯
+    zh_mo: 基里巴斯
+    zh_sg: 基里巴斯
+    zh_tw: 吉里巴斯
     zu: i-Kiribati
 ---
 # [[Kiribati]] 

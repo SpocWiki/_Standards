@@ -64,17 +64,17 @@ dv_has_:
     ar: المذهب الطبيعي
     az: Naturalizm (fəlsəfə)
     azb: ناتورالیسم
-    be-tarask: натуралізм
+    be_tarask: натуралізм
     bn: স্বাভাবিকতা
     ca: naturalisme
     cs: naturalismus
     cy: naturiolaeth
     da: naturalisme
     de: Naturalismus
-    de-ch: Naturalismus
+    de_ch: Naturalismus
     en: naturalism
-    en-ca: naturalism
-    en-gb: naturalism
+    en_ca: naturalism
+    en_gb: naturalism
     eo: naturalismo
     es: naturalismo
     et: naturalism
@@ -111,7 +111,7 @@ dv_has_:
     pl: naturalizm
     pms: Naturalism (filosofìa)
     pt: naturalismo
-    pt-br: naturalismo
+    pt_br: naturalismo
     ru: натурализм
     se: naturalisma
     sh: naturalizam
@@ -123,7 +123,7 @@ dv_has_:
     sms: naturalismm
     sq: natyralizmi në filozofi
     sr: натурализам
-    sr-ec: натурализам
+    sr_ec: натурализам
     sv: naturalism
     ta: இயற்கையியல்
     tg: Табиатгароӣ (фалсафа)

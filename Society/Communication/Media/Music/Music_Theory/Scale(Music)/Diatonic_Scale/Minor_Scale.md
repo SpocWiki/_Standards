@@ -32,11 +32,11 @@ dv_has_:
     jv: Tangga nada minor
     ka: მინორი
     kk: Минор
-    kk-arab: مىينور
+    kk_arab: مىينور
     kk-cn: مىينور
-    kk-cyrl: Минор
+    kk_cyrl: Минор
     kk-kz: Минор
-    kk-latn: Mïnor
+    kk_latn: Mïnor
     kk-tr: Mïnor
     ko: 단음계
     ky: Минор
@@ -54,8 +54,8 @@ dv_has_:
     sl: molova lestvica
     sms: mollceäkkõk
     sr: Мол
-    sr-ec: Мол
-    sr-el: Mol
+    sr_ec: Мол
+    sr_el: Mol
     sv: Moll
     th: บันไดเสียงไมเนอร์
     tr: Minör Gam
@@ -64,12 +64,12 @@ dv_has_:
     wuu: 小调
     yue: 小調
     zh: 小调
-    zh-cn: 小调
-    zh-hans: 小调
-    zh-hant: 小調
-    zh-hk: 小調
-    zh-sg: 小调
-    zh-tw: 小調
+    zh_cn: 小调
+    zh_hans: 小调
+    zh_hant: 小調
+    zh_hk: 小調
+    zh_sg: 小调
+    zh_tw: 小調
 aliases:
 - escala menor
 - gama minor

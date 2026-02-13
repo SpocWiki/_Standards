@@ -82,7 +82,7 @@ dv_has_:
     az: Sünbülqıran
     ba: Йомрандар
     be: Суслікі
-    be-tarask: суслак
+    be_tarask: суслак
     bg: лалугери
     br: Souslik
     bxr: Зумбаhаа
@@ -93,8 +93,8 @@ dv_has_:
     de: Ziesel
     el: Σπερμόφιλος
     en: Spermophilus
-    en-ca: Spermophilus
-    en-gb: Spermophilus
+    en_ca: Spermophilus
+    en_gb: Spermophilus
     eo: Zizelo
     es: Spermophilus
     et: Suslik
@@ -127,7 +127,7 @@ dv_has_:
     oc: Spermophilus
     pl: Suseł
     pt: Spermophilus
-    pt-br: Spermophilus
+    pt_br: Spermophilus
     ro: Spermophilus
     ru: Суслики
     sah: Дьабарааскылар уустара
@@ -146,9 +146,9 @@ dv_has_:
     xmf: წვინორი
     yue: 黃鼠屬
     zh: 美洲黄鼠属
-    zh-cn: 美洲黄鼠属
-    zh-hans: 美洲黄鼠属
-    zh-tw: 美洲黃鼠屬
+    zh_cn: 美洲黄鼠属
+    zh_hans: 美洲黄鼠属
+    zh_tw: 美洲黃鼠屬
 ---
 # [[Spermophilus]] 
 

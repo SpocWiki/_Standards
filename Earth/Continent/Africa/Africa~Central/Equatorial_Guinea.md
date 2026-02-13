@@ -2,7 +2,7 @@
 dv_has_:
   name_:
     ab: Екваториалтә Гвинеиа
-    aeb-arab: غينيا الاستوائية
+    aeb_arab: غينيا الاستوائية
     af: Ekwatoriaal-Guinee
     am: ኢኳቶሪያል ጊኔ
     ami: Equatorial guinea
@@ -22,7 +22,7 @@ dv_has_:
     bar: Equatorialguinea
     bcl: Guineyang Ekwatoryal
     be: Экватарыяльная Гвінея
-    be-tarask: Экватарыяльная Гвінэя
+    be_tarask: Экватарыяльная Гвінэя
     bew: Ginéa Katulistiwa
     bg: Екваториална Гвинея
     bgn: استوایین گینه
@@ -37,14 +37,14 @@ dv_has_:
     bs: Ekvatorska Gvineja
     bxr: Экваторын Гвиней
     ca: Guinea Equatorial
-    cbk-zam: Guinea Ecuatorial
+    cbk_zam: Guinea Ecuatorial
     cdo: Chiáh-dô̤ Guinea
     ce: Экваторан Гвиней
     ceb: Gineang Ekwatoryal
     ckb: گینێی ئیستوایی
     co: Guinea Equatoriale
     crh: Ekvatorial Gvineya
-    crh-latn: Ekvatorial Gvineya
+    crh_latn: Ekvatorial Gvineya
     cs: Rovníková Guinea
     cv: Экваториаллă Гвиней
     cy: Guinea Gyhydeddol
@@ -59,8 +59,8 @@ dv_has_:
     ee: Gini Ekwatoria
     el: Ισημερινή Γουινέα
     en: Equatorial Guinea
-    en-ca: Equatorial Guinea
-    en-gb: Equatorial Guinea
+    en_ca: Equatorial Guinea
+    en_gb: Equatorial Guinea
     eo: Ekvatora Gvineo
     es: Guinea Ecuatorial
     et: Ekvatoriaal-Guinea
@@ -140,7 +140,7 @@ dv_has_:
     lt: Pusiaujo Gvinėja
     lv: Ekvatoriālā Gvineja
     lzh: 赤道幾內亞
-    map-bms: Guinea Khatulistiwa
+    map_bms: Guinea Khatulistiwa
     mdf: Экваториянь Гвинэя
     mg: Ginea Ekoatorialy
     mhr: Экваторийысе Гвиней
@@ -162,7 +162,7 @@ dv_has_:
     nan: Chhiah-tō Guinea
     nb: Ekvatorial-Guinea
     nds: Äquatoriaal-Guinea
-    nds-nl: Ekwatoriaal Guinea
+    nds_nl: Ekwatoriaal Guinea
     ne: इक्वेटोरियल गिनी
     new: इक्वेटोरियल गिनी
     nl: Equatoriaal-Guinea
@@ -184,7 +184,7 @@ dv_has_:
     pnb: استوائی گنی
     ps: استوايي ګينه
     pt: Guiné Equatorial
-    pt-br: Guiné Equatorial
+    pt_br: Guiné Equatorial
     qu: Chawpipacha Khiniya
     rmy: Ekuatorialni Guineya
     ro: Guineea Ecuatorială
@@ -213,8 +213,8 @@ dv_has_:
     so: Equatorial Guinea
     sq: Guinea Ekuatoriale
     sr: Екваторијална Гвинеја
-    sr-ec: Екваторијална Гвинеја
-    sr-el: Ekvatorijalna Gvineja
+    sr_ec: Екваторијална Гвинеја
+    sr_el: Ekvatorijalna Gvineja
     st: Equatorial Guinea
     stq: Äquatorioal Guinea
     su: Guinéa Khatulistiwa
@@ -259,13 +259,13 @@ dv_has_:
     zea: Equatoriaol Hunea
     zgh: ⴳⵉⵏⵢⴰ ⵜⴰⵎⵙⵙⴳⴷⵓⵜ
     zh: 赤道几内亚
-    zh-cn: 赤道几内亚
-    zh-hans: 赤道几内亚
-    zh-hant: 赤道幾內亞
-    zh-hk: 赤道畿內亞
-    zh-mo: 赤道幾內亞
-    zh-sg: 赤道几内亚
-    zh-tw: 赤道幾內亞
+    zh_cn: 赤道几内亚
+    zh_hans: 赤道几内亚
+    zh_hant: 赤道幾內亞
+    zh_hk: 赤道畿內亞
+    zh_mo: 赤道幾內亞
+    zh_sg: 赤道几内亚
+    zh_tw: 赤道幾內亞
     zu: IGini Enkabazwe
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Equatorial_Guinea

@@ -80,14 +80,14 @@ Commons_gallery: Desk
 Commons_category: Desks
 dv_has_:
   name_:
-    aeb-arab: طاولة بيرو
-    aeb-latn: 6àwlat birou
+    aeb_arab: طاولة بيرو
+    aeb_latn: 6àwlat birou
     af: Lessenaar
     ar: مكتب
     arz: مكتب
     ast: Escritoriu
     az: Masa
-    be-tarask: бюро
+    be_tarask: бюро
     bg: Бюро
     bn: ডেস্ক
     br: burev
@@ -96,9 +96,9 @@ dv_has_:
     cs: kancelářský stůl
     da: skrivebord
     de: Schreibtisch
-    de-ch: Schreibtisch
+    de_ch: Schreibtisch
     en: desk
-    en-gb: desk
+    en_gb: desk
     eo: Skribotablo
     es: escritorio
     et: kirjutuslaud
@@ -127,7 +127,7 @@ dv_has_:
     nn: Skrivebord
     pl: Biurko
     pt: escrivaninha
-    pt-br: Escrivaninha
+    pt_br: Escrivaninha
     ro: birou
     ru: бюро
     scn: Scrivanìa
@@ -151,9 +151,9 @@ dv_has_:
     wuu: 书桌
     yue: 寫字檯
     zh: 書桌
-    zh-hans: 书桌
-    zh-hant: 書桌
-    zh-hk: 書桌
+    zh_hans: 书桌
+    zh_hant: 書桌
+    zh_hk: 書桌
 ---
 # [[Desk]] 
 

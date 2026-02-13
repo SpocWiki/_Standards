@@ -101,7 +101,7 @@ dv_has_:
     az: Persey
     ba: Персей
     be: Персей
-    be-tarask: Пэрсэй
+    be_tarask: Пэрсэй
     bg: Персей
     bn: পরশু মণ্ডল
     bo: དྲང་སྲོང་དཔའ་བོའི་སྐར་ཚོམ་
@@ -173,7 +173,7 @@ dv_has_:
     sk: Perzeus
     sl: Perzej
     sr: Персеј
-    sr-ec: Персеј
+    sr_ec: Персеј
     sv: Perseus
     sw: Farisi
     ta: பெர்சியஸ் (விண்மீன் குழாம்)

@@ -84,7 +84,7 @@ dv_has_:
     avk: vesnoleem ke Pteropodidae yasa
     az: İriqanadlar
     ban: Pteropodidae
-    be-tarask: Крыланавыя
+    be_tarask: Крыланавыя
     bg: Плодоядни прилепи
     bjn: Kaluang
     br: Pteropodidae
@@ -137,15 +137,15 @@ dv_has_:
     pl: Rudawkowate
     pnb: وڈیاں چمگادڑاں
     pt: Pteropodidae
-    pt-br: Pteropodidae
+    pt_br: Pteropodidae
     ro: Megachiroptere
     ru: Крылановые
     sh: Velešišmiši
     sl: leteče lisice
     sq: Pteropodidae
     sr: Велики љиљци
-    sr-ec: Велики љиљци
-    sr-el: Veliki ljiljci
+    sr_ec: Велики љиљци
+    sr_el: Veliki ljiljci
     stq: Pteropodidae
     sv: Flygvalpar
     sw: Popo-matunda
@@ -159,12 +159,12 @@ dv_has_:
     wuu: 狐蝠科
     yue: 狐蝠科
     zh: 狐蝠科
-    zh-cn: 狐蝠科
-    zh-hans: 狐蝠科
-    zh-hant: 狐蝠科
-    zh-hk: 狐蝠科
-    zh-sg: 狐蝠科
-    zh-tw: 狐蝠科
+    zh_cn: 狐蝠科
+    zh_hans: 狐蝠科
+    zh_hant: 狐蝠科
+    zh_hk: 狐蝠科
+    zh_sg: 狐蝠科
+    zh_tw: 狐蝠科
 ---
 # [[Pteropodidae]] 
 

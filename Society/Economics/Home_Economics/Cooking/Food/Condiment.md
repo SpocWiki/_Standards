@@ -9,7 +9,7 @@ dv_has_:
     ast: alliñu
     az: Çeşni
     be: смакавыя дабаўкі
-    be-tarask: смакавы дадатак
+    be_tarask: смакавы дадатак
     br: Temz-boued
     bs: dodaci jelu
     ca: condiment
@@ -61,13 +61,13 @@ dv_has_:
     th: เครื่องปรุงรส
     tr: Çeşni
     tt: тәмләткечләр
-    tt-cyrl: тәмләткечләр
+    tt_cyrl: тәмләткечләр
     uk: смакова добавка
     vi: phụ gia
     wuu: 调味料
     yue: 調味料
     zh: 调味料
-    zh-hans: 调味料
+    zh_hans: 调味料
 aliases:
 - Affètement (mangier)
 - alliñu

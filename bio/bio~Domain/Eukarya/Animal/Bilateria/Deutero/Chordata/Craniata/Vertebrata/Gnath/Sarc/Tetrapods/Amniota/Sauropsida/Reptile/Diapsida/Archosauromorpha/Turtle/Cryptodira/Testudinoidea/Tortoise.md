@@ -134,7 +134,7 @@ dv_has_:
     ast: Testudinidae
     az: Quru tısbağaları
     be: сухапутныя чарапахі
-    be-tarask: сухапутныя чарапахі
+    be_tarask: сухапутныя чарапахі
     bg: Сухоземни костенурки
     bi: Totel
     bn: কচ্ছপ
@@ -207,7 +207,7 @@ dv_has_:
     pl: żółwie lądowe
     pnb: کچھو کما
     pt: Testudinidae
-    pt-br: Testudinidae
+    pt_br: Testudinidae
     ro: Testudinidae
     ru: сухопутные черепахи
     sa: कूर्मः
@@ -239,10 +239,10 @@ dv_has_:
     yo: Ìjàpá
     yue: 陸龜
     zh: 陸龜科
-    zh-cn: 陆龟科
-    zh-hans: 陆龟科
-    zh-hant: 陸龜科
-    zh-tw: 陸龜科
+    zh_cn: 陆龟科
+    zh_hans: 陆龟科
+    zh_hant: 陸龜科
+    zh_tw: 陸龜科
 ---
 # [[Tortoise]] 
 

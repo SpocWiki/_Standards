@@ -7,7 +7,7 @@ dv_has_:
     az: Advanced Micro Devices
     ban: Advanced Micro Devices
     be: Advanced Micro Devices
-    be-tarask: Advanced Micro Devices
+    be_tarask: Advanced Micro Devices
     bg: Advanced Micro Devices
     bn: অ্যাডভান্সড মাইক্রো ডিভাইসেস
     bs: Advanced Micro Devices
@@ -15,11 +15,11 @@ dv_has_:
     cs: Advanced Micro Devices
     da: Advanced Micro Devices
     de: AMD
-    de-ch: Advanced Micro Devices
+    de_ch: Advanced Micro Devices
     el: Advanced Micro Devices
     en: AMD
-    en-ca: Advanced Micro Devices
-    en-gb: Advanced Micro Devices
+    en_ca: Advanced Micro Devices
+    en_gb: Advanced Micro Devices
     eo: AMD
     es: AMD
     et: Advanced Micro Devices
@@ -58,7 +58,7 @@ dv_has_:
     or: ଆଡ଼ଭାନ୍ସଡ ମାଇକ୍ରୋ ଡିଭାଇସେସ
     pl: AMD
     pt: Advanced Micro Devices
-    pt-br: AMD
+    pt_br: AMD
     qu: AMD
     ro: AMD
     ru: Advanced Micro Devices
@@ -69,14 +69,14 @@ dv_has_:
     sl: Advanced Micro Devices
     sq: AMD
     sr: Адвенсд мајкро дивајсес
-    sr-ec: Advanced Micro Devices
-    sr-el: Advanced Micro Devices
+    sr_ec: Advanced Micro Devices
+    sr_el: Advanced Micro Devices
     sv: Advanced Micro Devices
     ta: அட்வான்ஸ்டு மைக்ரோ டிவைசஸ்
     th: เอเอ็มดี
     tr: Advanced Micro Devices
     tt: Advanced Micro Devices
-    tt-cyrl: Advanced Micro Devices
+    tt_cyrl: Advanced Micro Devices
     uk: Advanced Micro Devices
     ur: اے ایم ڈی
     uz: AMD
@@ -85,14 +85,14 @@ dv_has_:
     wuu: 超微半导体
     yue: Advanced Micro Devices
     zh: 超威半导体
-    zh-cn: 超威半导体
-    zh-hans: 超威半导体
-    zh-hant: 超微半導體
-    zh-hk: 超微半導體
-    zh-mo: 超微半導體
+    zh_cn: 超威半导体
+    zh_hans: 超威半导体
+    zh_hant: 超微半導體
+    zh_hk: 超微半導體
+    zh_mo: 超微半導體
     zh-my: 超威半导体
-    zh-sg: 超威半导体
-    zh-tw: 超微半導體
+    zh_sg: 超威半导体
+    zh_tw: 超微半導體
 aliases:
 - Advanced Micro Devices
 - AMD

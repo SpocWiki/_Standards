@@ -88,7 +88,7 @@ dv_has_:
     ar: شاردة هابطة
     az: kation
     be: катыён
-    be-tarask: катыён
+    be_tarask: катыён
     bg: катион
     bn: ক্যাটায়ন
     bs: kation
@@ -132,7 +132,7 @@ dv_has_:
     lv: katjons
     mk: катјон
     ms: kation
-    ms-arab: کاتيون
+    ms_arab: کاتيون
     nb: kation
     nds: Kation
     nl: kation
@@ -142,7 +142,7 @@ dv_has_:
     os: катион
     pl: kation
     pt: catião
-    pt-br: cátion
+    pt_br: cátion
     qu: katiyun
     ro: cation
     ru: катион
@@ -159,15 +159,15 @@ dv_has_:
     ta: நேரயனி
     tr: katyon
     tt: катион
-    tt-cyrl: катион
+    tt_cyrl: катион
     udm: катион
     uk: катіон
     uz: kation
     vep: kation
     vi: cation
     zh: 阳离子
-    zh-hans: 阳离子
-    zh-hant: 陽離子
+    zh_hans: 阳离子
+    zh_hant: 陽離子
 ---
 # [[Cation]] 
 

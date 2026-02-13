@@ -62,7 +62,7 @@ dv_has_:
     ar: المعاشرة دون زواج
     ast: Concubinato
     be: канкубінат
-    be-tarask: канкубінат
+    be_tarask: канкубінат
     bn: উপপত্নী প্রথা
     br: Serc'h
     ca: concubinat
@@ -101,7 +101,7 @@ dv_has_:
     pnb: داشتہ
     ps: د صيغه توب ژوند
     pt: concubinato
-    pt-br: concubinato
+    pt_br: concubinato
     ro: concubinaj
     ru: конкубинат
     sh: Konkubinat
@@ -109,8 +109,8 @@ dv_has_:
     sn: Varongo
     sq: Konkubinati
     sr: Конкубинат
-    sr-ec: Конкубинат
-    sr-el: Konkubinat
+    sr_ec: Конкубинат
+    sr_el: Konkubinat
     sv: Konkubinat
     sw: Usuria
     th: การอยู่กินด้วยกันโดยไม่ได้สมรส
@@ -120,12 +120,12 @@ dv_has_:
     yi: פילגש
     yue: 妾制
     zh: 妾
-    zh-cn: 妾
-    zh-hans: 妾
-    zh-hant: 妾
-    zh-hk: 妾
-    zh-sg: 妾
-    zh-tw: 妾
+    zh_cn: 妾
+    zh_hans: 妾
+    zh_hant: 妾
+    zh_hk: 妾
+    zh_sg: 妾
+    zh_tw: 妾
 ---
 # [[Concubinage]] 
 

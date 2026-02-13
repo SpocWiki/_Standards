@@ -353,7 +353,7 @@ dv_has_:
   name_:
     ab: Амза
     ady: Мазэ
-    aeb-arab: القمر
+    aeb_arab: القمر
     af: Maan
     alt: Ай
     am: ጨረቃ
@@ -380,7 +380,7 @@ dv_has_:
     bar: Mond
     bcl: Bulan (astronomiya)
     be: Месяц
-    be-tarask: Месяц
+    be_tarask: Месяц
     bew: Bulan
     bg: Луна
     bho: चंद्रमा
@@ -396,7 +396,7 @@ dv_has_:
     bug: ᨕᨘᨒᨛ
     bxr: Һара
     ca: Lluna
-    cbk-zam: Luna
+    cbk_zam: Luna
     cdo: Nguŏk-giù
     ce: Бутт
     ceb: Bulan
@@ -406,7 +406,7 @@ dv_has_:
     ckb: مانگ
     co: Luna
     crh: Ay
-    crh-latn: Ay
+    crh_latn: Ay
     cs: Měsíc
     csb: Miesądz
     cu: Мѣсѧць
@@ -426,8 +426,8 @@ dv_has_:
     el: Σελήνη
     eml: Lónna
     en: Moon
-    en-ca: Moon
-    en-gb: Moon
+    en_ca: Moon
+    en_gb: Moon
     eo: Luno
     es: Luna
     et: Kuu
@@ -528,7 +528,7 @@ dv_has_:
     lzh: 月
     mad: Bulân
     mag: चन्द्रमा
-    map-bms: Wulan (satelit)
+    map_bms: Wulan (satelit)
     mdf: Ков
     mg: Volana
     mi: ahoroa
@@ -541,7 +541,7 @@ dv_has_:
     mnw: ဂိတု
     mr: चंद्र
     ms: bulan
-    ms-arab: بولن
+    ms_arab: بولن
     mt: Qamar
     mwl: Luna
     my: လ
@@ -553,7 +553,7 @@ dv_has_:
     nap: Luna
     nb: månen
     nds: Maan
-    nds-nl: Maone
+    nds_nl: Maone
     ne: चन्द्रमा
     new: तिमिला
     nl: Maan
@@ -580,7 +580,7 @@ dv_has_:
     pnt: Φέγγος
     ps: سپوږمۍ
     pt: Lua
-    pt-br: Lua
+    pt_br: Lua
     pwn: qiljas
     qu: Killa
     rki: လ
@@ -615,7 +615,7 @@ dv_has_:
     so: Bil
     sq: Hëna
     sr: Месец
-    sr-ec: Месец
+    sr_ec: Месец
     srn: Mun (son)
     stq: Moune
     su: Bulan
@@ -641,7 +641,7 @@ dv_has_:
     trv: Idass
     ts: N'weti
     tt: Ай
-    tt-cyrl: Ай
+    tt_cyrl: Ай
     tw: Ɔbosome
     tyv: Ай
     udm: Толэзь
@@ -666,11 +666,11 @@ dv_has_:
     zea: Maen
     zgh: ⵜⴰⵢⵢⵓⵔⵜ
     zh: 月球
-    zh-cn: 月球
-    zh-hans: 月球
-    zh-hant: 月球
-    zh-hk: 月球
-    zh-tw: 月球
+    zh_cn: 月球
+    zh_hans: 月球
+    zh_hant: 月球
+    zh_hk: 月球
+    zh_tw: 月球
     zu: Inyanga
 ---
 # [[Moon]] 

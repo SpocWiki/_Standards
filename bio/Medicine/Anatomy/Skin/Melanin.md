@@ -65,7 +65,7 @@ dv_has_:
     ast: Melanina
     az: Melanin
     bcl: Melanina
-    be-tarask: мэлянін
+    be_tarask: мэлянін
     bg: Меланин
     bn: মেলানিন
     bs: Melanin
@@ -74,11 +74,11 @@ dv_has_:
     cs: melanin
     da: Melanin
     de: Melanine
-    de-ch: Melanine
+    de_ch: Melanine
     el: Μελανίνη
     en: melanin
-    en-ca: melanin
-    en-gb: melanin
+    en_ca: melanin
+    en_gb: melanin
     eo: melanino
     es: melanina
     es-419: melanina
@@ -113,7 +113,7 @@ dv_has_:
     om: Melanin
     pl: melaniny
     pt: melanina
-    pt-br: Melanina
+    pt_br: Melanina
     ro: melanină
     ru: меланины
     se: melaniidna
@@ -124,7 +124,7 @@ dv_has_:
     sms: melaniin
     sq: Melanina
     sr: меланин
-    sr-ec: меланин
+    sr_ec: меланин
     sv: melaniner
     sw: Melanini
     ta: மெலானின்
@@ -137,12 +137,12 @@ dv_has_:
     wuu: 黑色素
     yue: 黑色素
     zh: 黑色素
-    zh-cn: 黑色素
-    zh-hans: 黑色素
-    zh-hant: 黑色素
-    zh-hk: 黑色素
-    zh-sg: 黑色素
-    zh-tw: 黑色素
+    zh_cn: 黑色素
+    zh_hans: 黑色素
+    zh_hant: 黑色素
+    zh_hk: 黑色素
+    zh_sg: 黑色素
+    zh_tw: 黑色素
 ---
 # [[Melanin]] 
 

@@ -48,7 +48,7 @@ dv_has_:
     oc: Tabanoidea
     pl: Tabanoidea
     pt: Tabanoidea
-    pt-br: Tabanoidea
+    pt_br: Tabanoidea
     ro: Tabanoidea
     ru: Tabanoidea
     sq: Tabanoidea

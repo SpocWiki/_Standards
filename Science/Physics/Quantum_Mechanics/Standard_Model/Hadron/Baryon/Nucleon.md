@@ -83,7 +83,7 @@ dv_has_:
     ar: نوية
     az: nuklon
     be: нуклон
-    be-tarask: нуклён
+    be_tarask: нуклён
     bg: Нуклеон
     bn: নিউক্লিয়ন
     br: Nukleon
@@ -118,17 +118,17 @@ dv_has_:
     ja: 核子
     ka: ნუკლონი
     kk: Нуклон
-    kk-arab: نۋكلون
+    kk_arab: نۋكلون
     kk-cn: نۋكلون
-    kk-cyrl: Нуклон
+    kk_cyrl: Нуклон
     kk-kz: Нуклон
-    kk-latn: Nwklon
+    kk_latn: Nwklon
     kk-tr: Nwklon
     ko: 핵자
     ks: مٕرؠل
     ku: Nokleon
-    ku-arab: نۆکلەۆن
-    ku-latn: Nokleon
+    ku_arab: نۆکلەۆن
+    ku_latn: Nokleon
     ky: нуклон
     lfn: nucleon
     li: Nucleon
@@ -165,14 +165,14 @@ dv_has_:
     sms: nukleoon
     sq: nukleon
     sr: нуклеон
-    sr-ec: Нуклеон
-    sr-el: Nukleon
+    sr_ec: Нуклеон
+    sr_el: Nukleon
     sv: nukleon
     ta: அணுக்கருனி
     th: นิวคลีออน
     tr: nükleon
     tt: нуклон
-    tt-cyrl: нуклон
+    tt_cyrl: нуклон
     uk: нуклон
     ur: نیوکلیون
     uz: nuklonlar
@@ -183,12 +183,12 @@ dv_has_:
     wuu: 核子
     yi: נוקלעאן
     zh: 核子
-    zh-cn: 核子
-    zh-hans: 核子
-    zh-hant: 核子
-    zh-hk: 核子
-    zh-sg: 核子
-    zh-tw: 核子
+    zh_cn: 核子
+    zh_hans: 核子
+    zh_hant: 核子
+    zh_hk: 核子
+    zh_sg: 核子
+    zh_tw: 核子
 ---
 # [[Nucleon]] 
 

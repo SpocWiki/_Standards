@@ -163,7 +163,7 @@ dv_has_:
     azb: فردریش اینگلس
     ba: Фридрих Энгельс
     be: Фрыдрых Энгельс
-    be-tarask: Фрыдрых Энгельс
+    be_tarask: Фрыдрых Энгельс
     bg: Фридрих Енгелс
     bho: फ्रेडरिक एंगेल्स
     bn: ফ্রিডরিখ এঙ্গেলস
@@ -249,7 +249,7 @@ dv_has_:
     pnb: فریڈرش اینگلز
     ps: فردریش انګلس
     pt: Friedrich Engels
-    pt-br: Friedrich Engels
+    pt_br: Friedrich Engels
     qu: Friedrich Engels
     rki: ဖရစ်ဒရစ် အန်းဂဲ
     rm: Friedrich Engels
@@ -263,7 +263,7 @@ dv_has_:
     sl: Friedrich Engels
     sq: Friedrich Engels
     sr: Фридрих Енгелс
-    sr-ec: Фридрих Енгелс
+    sr_ec: Фридрих Енгелс
     st: Friedrich Engels
     sv: Friedrich Engels
     ta: பிரெட்ரிக் எங்கெல்சு
@@ -290,9 +290,9 @@ dv_has_:
     yo: Friedrich Engels
     yue: 恩格斯
     zh: 弗里德里希·恩格斯
-    zh-hans: 弗里德里希·恩格斯
-    zh-hant: 弗里德里希·恩格斯
-    zh-tw: 弗里德里希·恩格斯
+    zh_hans: 弗里德里希·恩格斯
+    zh_hant: 弗里德里希·恩格斯
+    zh_tw: 弗里德里希·恩格斯
 ---
 # [[Engels,Friedrich]] 
 

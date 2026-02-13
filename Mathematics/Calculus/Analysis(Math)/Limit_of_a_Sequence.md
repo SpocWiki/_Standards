@@ -62,7 +62,7 @@ dv_has_:
     ast: Llende d'una socesión
     ba: Эҙмә-эҙлелектең сикләмәһе
     be: ліміт паслядоўнасці
-    be-tarask: ліміт пасьлядоўнасьці
+    be_tarask: ліміт пасьлядоўнасьці
     bg: Граница на редица
     bn: ক্রম সীমা
     bs: Granična vrijednost niza
@@ -105,9 +105,9 @@ dv_has_:
     vi: Giới hạn của một dãy
     yue: 數列極限
     zh: 數列極限
-    zh-hans: 极限
-    zh-hant: 極限
-    zh-hk: 極限
+    zh_hans: 极限
+    zh_hant: 極限
+    zh_hk: 極限
 ---
 # [[Limit_of_a_Sequence]] 
 

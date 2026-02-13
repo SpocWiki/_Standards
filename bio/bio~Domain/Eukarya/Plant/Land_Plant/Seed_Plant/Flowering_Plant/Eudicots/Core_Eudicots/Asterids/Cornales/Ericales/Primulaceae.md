@@ -125,7 +125,7 @@ dv_has_:
     ast: Primulaceae
     az: Novruzçiçəyikimilər
     be: першакветныя
-    be-tarask: Ключыкавыя
+    be_tarask: Ключыкавыя
     bg: игликови
     bo: ཤང་དྲིལ།
     bs: Primulaceae
@@ -175,7 +175,7 @@ dv_has_:
     pl: pierwiosnkowate
     pnb: موہری ٹبر
     pt: Primulaceae
-    pt-br: Primulaceae
+    pt_br: Primulaceae
     ro: Primulaceae
     ru: первоцветные
     sco: Primulaceae
@@ -197,12 +197,12 @@ dv_has_:
     wuu: 报春花科
     yue: 報春花科
     zh: 报春花科
-    zh-cn: 报春花科
-    zh-hans: 报春花科
-    zh-hant: 報春花科
-    zh-hk: 報春花科
-    zh-sg: 报春花科
-    zh-tw: 報春花科
+    zh_cn: 报春花科
+    zh_hans: 报春花科
+    zh_hant: 報春花科
+    zh_hk: 報春花科
+    zh_sg: 报春花科
+    zh_tw: 報春花科
 ---
 # [[Primulaceae]] 
 

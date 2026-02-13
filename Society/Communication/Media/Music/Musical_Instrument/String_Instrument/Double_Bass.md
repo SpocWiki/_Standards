@@ -89,7 +89,7 @@ dv_has_:
     ast: Contrabaxu
     az: kontrabas
     be: кантрабас
-    be-tarask: кантрабас
+    be_tarask: кантрабас
     bg: контрабас
     bs: Kontrabas
     ca: contrabaix
@@ -100,7 +100,7 @@ dv_has_:
     de: Kontrabass
     el: κοντραμπάσο
     en: double bass
-    en-gb: double bass
+    en_gb: double bass
     eo: kontrabaso
     es: contrabajo
     et: kontrabass
@@ -151,7 +151,7 @@ dv_has_:
     sl: kontrabas
     sq: Kontrabasi
     sr: контрабас
-    sr-ec: Контрабас
+    sr_ec: Контрабас
     stq: Kontrabass
     sv: kontrabas
     tg: контрабас
@@ -167,8 +167,8 @@ dv_has_:
     yi: קאנטראבאס
     yue: 低音提琴
     zh: 低音提琴
-    zh-hant: 低音提琴
-    zh-tw: 低音提琴
+    zh_hant: 低音提琴
+    zh_tw: 低音提琴
 ---
 # [[Double_Bass]] 
 

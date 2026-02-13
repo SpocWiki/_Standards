@@ -58,7 +58,7 @@ dv_has_:
     ar: توزيع طبيعي متعدد المتغيرات
     ast: Distribución normal multivariante
     be: Многавымернае нармальнае размеркаванне
-    be-tarask: шматвымернае нармальнае разьмеркаваньне
+    be_tarask: шматвымернае нармальнае разьмеркаваньне
     ca: distribució normal multivariant
     da: multivariat normalfordeling
     de: mehrdimensionale Normalverteilung
@@ -87,10 +87,10 @@ dv_has_:
     vi: Phân phối chuẩn nhiều chiều
     yue: 多變數常態分佈
     zh: 多变量正态分布
-    zh-hans: 多变量正态分布
-    zh-hant: 多變量正態分布
-    zh-hk: 多變量常態分佈
-    zh-tw: 多變數常態分佈
+    zh_hans: 多变量正态分布
+    zh_hant: 多變量正態分布
+    zh_hk: 多變量常態分佈
+    zh_tw: 多變數常態分佈
 ---
 # [[Multivariate_normal_Distribution]] 
 

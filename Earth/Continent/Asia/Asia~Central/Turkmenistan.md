@@ -66,7 +66,7 @@ dv_has_:
     ab: Туркменисҭан
     ace: Turkmènistan
     ady: Туркменистан
-    aeb-arab: تركمانستان
+    aeb_arab: تركمانستان
     af: Turkmenistan
     am: ቱርክመኒስታን
     ami: Turkmenistan
@@ -89,7 +89,7 @@ dv_has_:
     bar: Tuakmenien
     bcl: Turkmenistan
     be: Туркменістан
-    be-tarask: Туркмэністан
+    be_tarask: Туркмэністан
     bew: Turkmènistan
     bg: Туркменистан
     bgn: ترکمنستان
@@ -104,14 +104,14 @@ dv_has_:
     bug: Turkmenistan
     bxr: Туркменистан
     ca: Turkmenistan
-    cbk-zam: Turkmenistan
+    cbk_zam: Turkmenistan
     cdo: Turkmenistan
     ce: Туркмени
     ceb: Turkmenistan
     ckb: تورکمانستان
     co: Turkmenistan
     crh: Türkmenistan
-    crh-latn: Türkmenistan
+    crh_latn: Türkmenistan
     crh-ro: Túrkmenístan
     cs: Turkmenistán
     csb: Turkmenistan
@@ -121,7 +121,7 @@ dv_has_:
     dag: TM
     de: Turkmenistan
     de-at: Turkmenistan
-    de-ch: Turkmenistan
+    de_ch: Turkmenistan
     diq: Tırkmenıstan
     dsb: Turkmeńska
     dtp: Turkmenistan
@@ -130,8 +130,8 @@ dv_has_:
     ee: Turkmenistan
     el: Τουρκμενιστάν
     en: Turkmenistan
-    en-ca: Turkmenistan
-    en-gb: Turkmenistan
+    en_ca: Turkmenistan
+    en_gb: Turkmenistan
     eo: Turkmenio
     es: Turkmenistán
     et: Türkmenistan
@@ -154,7 +154,7 @@ dv_has_:
     gn: Tuykomenitã
     gom: तुर्कमेनिस्तान
     gom-deva: तुर्कमेनिस्तान
-    gom-latn: Turkmenistan
+    gom_latn: Turkmenistan
     gpe: Turkmenistan
     gsw: Turkmenistan
     gu: તુર્કમેનિસ્તાન
@@ -238,7 +238,7 @@ dv_has_:
     nan: Turkmenistan
     nb: Turkmenistan
     nds: Turkmenistan
-    nds-nl: Turkmenistan
+    nds_nl: Turkmenistan
     ne: तुर्कमेनिस्तान
     new: तर्कमेनिस्तान
     nl: Turkmenistan
@@ -262,7 +262,7 @@ dv_has_:
     pnt: Τουρκμενιστάν
     ps: ترکمنستان
     pt: Turquemenistão
-    pt-br: Turquemenistão
+    pt_br: Turquemenistão
     qu: Turkminsuyu
     rmy: Turkmenistan
     ro: Turkmenistan
@@ -292,8 +292,8 @@ dv_has_:
     so: Turkmenistan
     sq: Turkmenia
     sr: Туркменистан
-    sr-ec: Туркменистан
-    sr-el: Turkmenistan
+    sr_ec: Туркменистан
+    sr_el: Turkmenistan
     ss: IThumekhi
     su: Turkménistan
     sv: Turkmenistan
@@ -338,14 +338,14 @@ dv_has_:
     zea: Toerkmenistan
     zgh: ⵜⵓⵔⴽⵎⴰⵏⵉⵙⵜⴰⵏ
     zh: 土庫曼
-    zh-cn: 土库曼斯坦
-    zh-hans: 土库曼斯坦
-    zh-hant: 土庫曼
-    zh-hk: 土庫曼
-    zh-mo: 土庫曼斯坦
+    zh_cn: 土库曼斯坦
+    zh_hans: 土库曼斯坦
+    zh_hant: 土庫曼
+    zh_hk: 土庫曼
+    zh_mo: 土庫曼斯坦
     zh-my: 土库曼斯坦
-    zh-sg: 土库曼斯坦
-    zh-tw: 土庫曼
+    zh_sg: 土库曼斯坦
+    zh_tw: 土庫曼
     zu: i-Turkmenistan
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Turkmenistan

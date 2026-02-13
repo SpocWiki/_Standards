@@ -31,7 +31,7 @@ dv_has_:
     nl: Ninotchka
     pl: Ninoczka
     pt: Ninotchka
-    pt-br: Ninotchka
+    pt_br: Ninotchka
     ru: Ниночка
     sh: Ninotchka
     sl: Ninočka
@@ -41,11 +41,11 @@ dv_has_:
     uk: Ніночка
     yue: 蘇俄艷使
     zh: 妮娜琦珈
-    zh-hant: 妮娜琦珈
-    zh-hk: 蘇俄艷使
+    zh_hant: 妮娜琦珈
+    zh_hk: 蘇俄艷使
     zh-my: 钦差艳史
-    zh-sg: 钦差艳史
-    zh-tw: 妮娜琦珈
+    zh_sg: 钦差艳史
+    zh_tw: 妮娜琦珈
 aliases:
 - Filem Ninotchka
 - Ninocska

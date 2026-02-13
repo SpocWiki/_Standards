@@ -86,7 +86,7 @@ dv_has_:
     ba: Аҡрын йөрөүсөләр
     bcl: Tardigrada
     be: ціхаходкі
-    be-tarask: Ціхаходкі
+    be_tarask: Ціхаходкі
     bg: бавноходки
     bn: টারডিগ্রেড
     br: Tardigrada
@@ -144,7 +144,7 @@ dv_has_:
     mul: Tardigrada
     nb: Bjørnedyr
     nds: Tardigrada
-    nds-nl: Tardigrada
+    nds_nl: Tardigrada
     nl: beerdiertjes
     nn: Bjørnedyr
     nv: Tsįdláádkááʼ naatʼiʼí
@@ -155,7 +155,7 @@ dv_has_:
     pnb: پانی رچھ
     ps: د اوبو یږه
     pt: Tardigrada
-    pt-br: Tardigrada
+    pt_br: Tardigrada
     qu: Lat'uthatki
     ro: Tardigrada
     ru: тихоходки
@@ -185,8 +185,8 @@ dv_has_:
     wuu: 缓步动物门
     yue: 水熊蟲
     zh: 缓步动物门
-    zh-cn: 缓步动物门
-    zh-hans: 缓步动物门
+    zh_cn: 缓步动物门
+    zh_hans: 缓步动物门
 ---
 # [[Tardigrade]] 
 

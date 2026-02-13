@@ -90,7 +90,7 @@ dv_has_:
     ast: Historia del Islam
     az: islam tarixi
     ba: Ислам тарихы
-    be-tarask: гісторыя ісламу
+    be_tarask: гісторыя ісламу
     bn: ইসলামের ইতিহাস
     br: istor an islam
     bs: Historija islama
@@ -154,8 +154,8 @@ dv_has_:
     th: ประวัติศาสนาอิสลาม
     tr: İslam tarihi
     tt: ислам тарихы
-    tt-cyrl: ислам тарихы
-    tt-latn: islam tarixı
+    tt_cyrl: ислам тарихы
+    tt_latn: islam tarixı
     uk: історія ісламу
     ur: تاریخ اسلام
     uz: Islom tarixi
@@ -164,9 +164,9 @@ dv_has_:
     xmf: ისლამიშ ისტორია
     yue: 伊斯蘭敎史
     zh: 伊斯兰教历史
-    zh-hans: 伊斯兰教历史
-    zh-hant: 伊斯蘭教歷史
-    zh-hk: 伊斯蘭教歷史
+    zh_hans: 伊斯兰教历史
+    zh_hant: 伊斯蘭教歷史
+    zh_hk: 伊斯蘭教歷史
 ---
 # [[History_of_Islam]] 
 

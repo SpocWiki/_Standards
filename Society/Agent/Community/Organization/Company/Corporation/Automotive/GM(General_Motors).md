@@ -170,7 +170,7 @@ dv_has_:
     az: General Motors
     azb: جنرال موتورز
     be: General Motors
-    be-tarask: General Motors
+    be_tarask: General Motors
     bg: Дженеръл Мотърс
     bn: জেনারেল মোটর্স
     bs: General Motors
@@ -182,8 +182,8 @@ dv_has_:
     diq: General Motors
     el: General Motors
     en: General Motors
-    en-ca: General Motors
-    en-gb: General Motors
+    en_ca: General Motors
+    en_gb: General Motors
     eo: General Motors
     es: General Motors
     et: General Motors
@@ -227,7 +227,7 @@ dv_has_:
     pnb: جنرل موٹرز
     ps: جنرال موټرونه
     pt: General Motors
-    pt-br: General Motors
+    pt_br: General Motors
     ro: General Motors
     sah: General Motors
     sc: General Motors
@@ -237,8 +237,8 @@ dv_has_:
     sl: General Motors
     sq: General Motors
     sr: Џенерал моторс
-    sr-ec: Џенерал моторс
-    sr-el: Dženeral motors
+    sr_ec: Џенерал моторс
+    sr_el: Dženeral motors
     sv: General Motors
     tg: Ҷенерал Моторс
     th: เจเนรัลมอเตอร์
@@ -252,7 +252,7 @@ dv_has_:
     yi: GM
     yue: 通用汽車
     zh: 通用汽车公司
-    zh-cn: 通用汽车
+    zh_cn: 通用汽车
 ---
 # [[GM(General_Motors)]] 
 

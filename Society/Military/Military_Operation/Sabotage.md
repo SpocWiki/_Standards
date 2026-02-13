@@ -102,7 +102,7 @@ dv_has_:
     ast: sabotaxe
     az: Sabotaj
     be: Сабатаж
-    be-tarask: сабатаж
+    be_tarask: сабатаж
     bg: Саботаж
     bn: নাশকতা
     br: Sabotaj
@@ -133,11 +133,11 @@ dv_has_:
     ja: 破壊活動
     ka: დივერსია
     kk: саботаж
-    kk-arab: سابوتاج
+    kk_arab: سابوتاج
     kk-cn: سابوتاج
-    kk-cyrl: Саботаж
+    kk_cyrl: Саботаж
     kk-kz: Саботаж
-    kk-latn: sabotaj
+    kk_latn: sabotaj
     kk-tr: Sabotaj
     kn: ವಿಧ್ವಂಸಕ
     ko: 사보타주
@@ -170,11 +170,11 @@ dv_has_:
     yi: סאבאטאזש
     yue: 搞破壞
     zh: 毀壞
-    zh-cn: 毁坏
-    zh-hans: 破坏活动
-    zh-hant: 破坏行動
-    zh-hk: 毀壞
-    zh-tw: 毀壞
+    zh_cn: 毁坏
+    zh_hans: 破坏活动
+    zh_hant: 破坏行動
+    zh_hk: 毀壞
+    zh_tw: 毀壞
 ---
 # [[Sabotage]] 
 

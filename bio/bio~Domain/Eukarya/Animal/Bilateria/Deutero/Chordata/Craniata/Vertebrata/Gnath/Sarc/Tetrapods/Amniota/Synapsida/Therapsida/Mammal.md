@@ -263,7 +263,7 @@ dv_has_:
     bar: Spofiecha
     bcl: Mamalya
     be: сысуны
-    be-tarask: сысуны
+    be_tarask: сысуны
     bg: бозайници
     bho: मैमल
     bn: স্তন্যপায়ী
@@ -290,8 +290,8 @@ dv_has_:
     ee: Lãdziviwo
     el: θηλαστικό
     en: mammal
-    en-ca: mammal
-    en-gb: mammal
+    en_ca: mammal
+    en_gb: mammal
     eo: mamuloj
     es: mamíferos
     et: imetajad
@@ -387,7 +387,7 @@ dv_has_:
     nap: Mammifere
     nb: pattedyr
     nds: Söögdeerten
-    nds-nl: zoogdeers
+    nds_nl: zoogdeers
     ne: स्तनधारी प्राणी
     new: दुरुप्वः दुपिं
     nl: zoogdieren
@@ -408,7 +408,7 @@ dv_has_:
     pnb: تھݨ دار
     ps: تی لرونکی
     pt: mamíferos
-    pt-br: mamíferos
+    pt_br: mamíferos
     qu: Ñuñuq
     rm: Mammals
     ro: mamifer
@@ -449,7 +449,7 @@ dv_has_:
     tpi: Mamel
     tr: memeliler
     tt: имезүчеләр
-    tt-cyrl: имезүчеләр
+    tt_cyrl: имезүчеләр
     tyv: Сүт чемиштиг амытаннар
     udm: нонӥсьёс
     uk: ссавці
@@ -473,14 +473,14 @@ dv_has_:
     zea: Zoogdieren
     zgh: ⵜⵉⵎⵙⵓⵟⴰⴹ
     zh: 哺乳動物
-    zh-cn: 哺乳动物
-    zh-hans: 哺乳动物
-    zh-hant: 哺乳動物
-    zh-hk: 哺乳動物
-    zh-mo: 哺乳动物
+    zh_cn: 哺乳动物
+    zh_hans: 哺乳动物
+    zh_hant: 哺乳動物
+    zh_hk: 哺乳動物
+    zh_mo: 哺乳动物
     zh-my: 哺乳动物
-    zh-sg: 哺乳动物
-    zh-tw: 哺乳動物
+    zh_sg: 哺乳动物
+    zh_tw: 哺乳動物
     zu: IsiNcelisi
 ---
 # [[Mammal]]

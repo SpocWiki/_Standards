@@ -105,7 +105,7 @@ dv_has_:
     arz: موت سقراط
     ast: La muerte de Sócrates
     az: Sokratın ölümü
-    be-tarask: Сьмерць Сакрата
+    be_tarask: Сьмерць Сакрата
     bg: Смъртта на Сократ
     bjn: Kematian Socrates
     bn: সক্রেটিসের মৃত্যু
@@ -142,7 +142,7 @@ dv_has_:
     ru: Смерть Сократа
     sl: Sokratova smrt
     sr: Сократова смрт
-    sr-ec: Сократова смрт
+    sr_ec: Сократова смрт
     sv: Sokrates död
     ta: சாக்கிரட்டீசுவின் மரணம்
     tr: Sokrates'in Ölümü

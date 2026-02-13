@@ -82,7 +82,7 @@ dv_has_:
     ast: media
     azb: اورتالیق
     be: сярэдняе значэнне
-    be-tarask: сярэдняе значэньне
+    be_tarask: сярэдняе значэньне
     bn: সমক
     bs: srednja vrijednost
     ca: mitjana
@@ -130,7 +130,7 @@ dv_has_:
     pl: średnia
     ps: رسنۍ
     pt: média
-    pt-br: média
+    pt_br: média
     ro: medie
     ru: среднее значение
     se: gaskaárvu
@@ -151,9 +151,9 @@ dv_has_:
     vi: số bình quân
     yue: 平均數
     zh: 平均数
-    zh-hans: 平均数
-    zh-hant: 平均數
-    zh-hk: 平均數
+    zh_hans: 平均数
+    zh_hant: 平均數
+    zh_hk: 平均數
 ---
 # [[Mean]] 
 

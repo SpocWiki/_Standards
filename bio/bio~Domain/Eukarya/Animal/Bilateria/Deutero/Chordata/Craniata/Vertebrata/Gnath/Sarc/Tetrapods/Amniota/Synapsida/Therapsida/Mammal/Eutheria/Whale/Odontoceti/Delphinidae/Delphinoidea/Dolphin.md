@@ -153,7 +153,7 @@ dv_has_:
     ban: Lumba-lumba
     bcl: Lumod
     be: дэльфіны
-    be-tarask: дэльфіны
+    be_tarask: дэльфіны
     bew: Lumba-lumba
     bg: делфинови
     bho: सूँस
@@ -174,8 +174,8 @@ dv_has_:
     de: Delfin
     el: Δελφίνι
     en: dolphin
-    en-ca: Dolphin
-    en-gb: dolphin
+    en_ca: Dolphin
+    en_gb: dolphin
     en-us: Dolphins
     eo: delfeno
     es: delfín
@@ -232,7 +232,7 @@ dv_has_:
     nan: Hái-ti
     nap: Ferone
     nb: delfiner
-    nds-nl: dolfienen
+    nds_nl: dolfienen
     ne: डल्फिन
     new: सोँस
     nl: dolfijn
@@ -244,7 +244,7 @@ dv_has_:
     pl: delfin
     pnb: ڈولفن
     pt: golfinho
-    pt-br: Golfinho
+    pt_br: Golfinho
     qu: Delphin
     ro: Delfin
     ru: дельфин
@@ -283,10 +283,10 @@ dv_has_:
     yo: Ẹja abániṣeré
     yue: 海豚
     zh: 海豚
-    zh-hans: 海豚
-    zh-hant: 海豚
-    zh-hk: 海豚
-    zh-tw: 海豚
+    zh_hans: 海豚
+    zh_hant: 海豚
+    zh_hk: 海豚
+    zh_tw: 海豚
 ---
 # [[Dolphin]] 🐬 
 

@@ -5,7 +5,7 @@ dv_has_:
     ar: الكتابة العلمية
     az: elmi stil
     be: навуковы стыль
-    be-tarask: навуковы стыль
+    be_tarask: навуковы стыль
     ca: text científic
     de: wissenschaftliches Schreiben und Veröffentlichen
     en: scientific style

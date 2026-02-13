@@ -51,7 +51,7 @@ dv_has_:
     ast: Blackjack
     bar: Blackjack
     be: Блэкджэк
-    be-tarask: Блэкджэк
+    be_tarask: Блэкджэк
     bg: Блекджек
     bs: Blackjack
     ca: blackjack
@@ -107,12 +107,12 @@ dv_has_:
     wuu: 廿一点
     yue: 廿一點
     zh: 廿一點
-    zh-cn: 二十一点
-    zh-hans: 廿一点
-    zh-hant: 廿一點
-    zh-hk: 廿一點
-    zh-sg: 二十一点
-    zh-tw: 廿一點
+    zh_cn: 二十一点
+    zh_hans: 廿一点
+    zh_hant: 廿一點
+    zh_hk: 廿一點
+    zh_sg: 二十一点
+    zh_tw: 廿一點
 ---
 # [[Blackjack]] 
 

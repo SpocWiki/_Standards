@@ -127,7 +127,7 @@ dv_has_:
     az: Tim Börton
     ban: Tim Burton
     be: Цім Бёртан
-    be-tarask: Тым Бэртан
+    be_tarask: Тым Бэртан
     bg: Тим Бъртън
     bn: টিম বার্টন
     br: Tim Burton
@@ -139,11 +139,11 @@ dv_has_:
     cy: Tim Burton
     da: Tim Burton
     de: Tim Burton
-    de-ch: Tim Burton
+    de_ch: Tim Burton
     el: Τιμ Μπάρτον
     en: Tim Burton
-    en-ca: Tim Burton
-    en-gb: Tim Burton
+    en_ca: Tim Burton
+    en_gb: Tim Burton
     eo: Tim Burton
     es: Tim Burton
     et: Tim Burton
@@ -189,7 +189,7 @@ dv_has_:
     pap: Tim Burton
     pl: Tim Burton
     pt: Tim Burton
-    pt-br: Tim Burton
+    pt_br: Tim Burton
     ro: Tim Burton
     ru: Тим Бёртон
     sc: Tim Burton
@@ -206,7 +206,7 @@ dv_has_:
     th: ทิม เบอร์ตัน
     tr: Tim Burton
     tt: Тим Бөртон
-    tt-cyrl: Тим Бөртон
+    tt_cyrl: Тим Бөртон
     uk: Тім Бертон
     ur: ٹم برٹن
     uz: Tim Burton
@@ -218,12 +218,12 @@ dv_has_:
     yo: Tim Burton
     yue: 添布頓
     zh: 蒂姆·伯顿
-    zh-cn: 蒂姆·伯顿
-    zh-hans: 蒂姆·伯顿
-    zh-hant: 提姆·波頓
-    zh-hk: 添·布頓
+    zh_cn: 蒂姆·伯顿
+    zh_hans: 蒂姆·伯顿
+    zh_hant: 提姆·波頓
+    zh_hk: 添·布頓
     zh-my: 添·布顿
-    zh-sg: 提姆·波顿
+    zh_sg: 提姆·波顿
 ---
 # [[Burton,Tim]]
 

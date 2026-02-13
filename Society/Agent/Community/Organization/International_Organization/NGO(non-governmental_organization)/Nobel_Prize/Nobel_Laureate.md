@@ -85,8 +85,8 @@ dv_has_:
     dty: नोबेल पुरस्कार विजेताहरूको सूची
     el: Κατάλογος βραβευμένων με Νόμπελ
     en: list of Nobel laureates
-    en-ca: List of Nobel laureates
-    en-gb: list of Nobel laureates
+    en_ca: List of Nobel laureates
+    en_gb: list of Nobel laureates
     es: ganadores del Premio Nobel
     fa: فهرست برندگان جایزه نوبل
     fi: luettelo Nobel-palkinnon saajista
@@ -116,7 +116,7 @@ dv_has_:
     pnb: نوبل انعام جتن والیاں دی لسٹ
     ps: د نوبل جایزې ګټونکو نوملړ
     pt: laureados com o Nobel
-    pt-br: Laureados com o Nobel
+    pt_br: Laureados com o Nobel
     ro: lista laureaților Premiului Nobel
     ru: Нобелевские премии по году вручения
     sa: नोबल पुरस्कार-विजेतानां सूची
@@ -137,12 +137,12 @@ dv_has_:
     vi: danh sách người đoạt giải Nobel
     yo: Àkójọ àwọn ẹlẹ́bùn Nobel
     zh: 諾貝爾獎得主列表
-    zh-cn: 诺贝尔奖得主列表
-    zh-hans: 诺贝尔奖得主列表
-    zh-hant: 諾貝爾獎得主列表
-    zh-hk: 諾貝爾獎得主列表
-    zh-sg: 诺贝尔奖得主列表
-    zh-tw: 諾貝爾獎得主列表
+    zh_cn: 诺贝尔奖得主列表
+    zh_hans: 诺贝尔奖得主列表
+    zh_hant: 諾貝爾獎得主列表
+    zh_hk: 諾貝爾獎得主列表
+    zh_sg: 诺贝尔奖得主列表
+    zh_tw: 諾貝爾獎得主列表
 ---
 ## #has_/text_of_/abstract 
 

@@ -134,7 +134,7 @@ dv_has_:
     ba: күңел асыу
     bcl: Alingan
     be: забава
-    be-tarask: забава
+    be_tarask: забава
     bg: Развлечение
     bho: मनोरंजन
     bm: Tulon
@@ -149,8 +149,8 @@ dv_has_:
     de: Unterhaltung
     el: ψυχαγωγία
     en: entertainment
-    en-ca: Entertainment
-    en-gb: entertainment
+    en_ca: Entertainment
+    en_gb: entertainment
     eo: amuzo
     es: entretenimiento
     et: meelelahutus
@@ -181,11 +181,11 @@ dv_has_:
     jv: Hiburan
     kaa: Oyın-zawıq
     kk: Бейғам тынығу
-    kk-arab: بەيعام تىنىعۋ
+    kk_arab: بەيعام تىنىعۋ
     kk-cn: بەيعام تىنىعۋ
-    kk-cyrl: Бейғам тынығу
+    kk_cyrl: Бейғам тынығу
     kk-kz: Бейғам тынығу
-    kk-latn: Beýğam tınığw
+    kk_latn: Beýğam tınığw
     kk-tr: Beýğam tınığw
     kn: ಮನೋರಂಜನೆ
     ko: 엔터테인먼트
@@ -201,7 +201,7 @@ dv_has_:
     ml: വിനോദം
     mr: मनोरंजन
     ms: hiburan
-    ms-arab: هيبورن
+    ms_arab: هيبورن
     nb: underholdning
     ne: मनोरंजन
     new: न्ह्यइपुसा
@@ -213,7 +213,7 @@ dv_has_:
     pl: rozrywka
     ps: وختتېری
     pt: entretenimento
-    pt-br: entretenimento
+    pt_br: entretenimento
     ro: divertisment
     ru: развлечение
     rw: Wikipediya:Umucungarubuga
@@ -229,8 +229,8 @@ dv_has_:
     so: Madaadalo
     sq: Argëtimi
     sr: забава
-    sr-ec: забава
-    sr-el: zabava
+    sr_ec: забава
+    sr_el: zabava
     sv: underhållning
     sw: Burudani
     ta: மகிழ்கலை
@@ -240,7 +240,7 @@ dv_has_:
     tok: musi
     tr: eğlence
     tt: күңел ачу
-    tt-cyrl: күңел ачу
+    tt_cyrl: күңел ачу
     uk: розвага
     ur: تفریح
     vi: giải trí
@@ -253,12 +253,12 @@ dv_has_:
     yue: 娛樂
     za: Guh'angq
     zh: 娛樂
-    zh-cn: 娱乐
-    zh-hans: 娱乐
-    zh-hant: 娛樂
-    zh-hk: 娛樂
-    zh-sg: 娱乐
-    zh-tw: 娛樂
+    zh_cn: 娱乐
+    zh_hans: 娱乐
+    zh_hant: 娛樂
+    zh_hk: 娛樂
+    zh_sg: 娱乐
+    zh_tw: 娛樂
 ---
 # [[Entertainment]] 
 

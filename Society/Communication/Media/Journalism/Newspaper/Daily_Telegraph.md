@@ -48,12 +48,12 @@ dv_has_:
     uz: Deyli telegraf
     wuu: 每日电讯报
     zh: 每日电讯报
-    zh-cn: 每日电讯报
-    zh-hans: 每日电讯报
-    zh-hant: 每日電訊報
-    zh-hk: 每日電訊報
-    zh-sg: 每日电讯报
-    zh-tw: 每日電訊報
+    zh_cn: 每日电讯报
+    zh_hans: 每日电讯报
+    zh_hant: 每日電訊報
+    zh_hk: 每日電訊報
+    zh_sg: 每日电讯报
+    zh_tw: 每日電訊報
 ---
 ## #has_/text_of_/abstract 
 

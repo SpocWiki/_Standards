@@ -48,9 +48,9 @@ dv_has_:
     vi: Phyllocarida
     war: Phyllocarida
     zh: 叶虾亚纲
-    zh-cn: 叶虾亚纲
-    zh-hans: 叶虾亚纲
-    zh-tw: 葉蝦亞綱
+    zh_cn: 叶虾亚纲
+    zh_hans: 叶虾亚纲
+    zh_tw: 葉蝦亞綱
 ---
 ## [[Phyllocarida]] 
 

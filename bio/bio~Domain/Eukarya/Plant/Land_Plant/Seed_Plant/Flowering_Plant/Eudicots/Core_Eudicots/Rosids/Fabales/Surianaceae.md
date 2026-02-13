@@ -58,13 +58,13 @@ dv_has_:
     oc: Surianaceae
     pl: Zabłędowate
     pt: Surianaceae
-    pt-br: Surianaceae
+    pt_br: Surianaceae
     ro: Surianaceae
     ru: Суриановые
     sq: Surianaceae
     sr: Surianaceae
-    sr-ec: Surianaceae
-    sr-el: Surianaceae
+    sr_ec: Surianaceae
+    sr_el: Surianaceae
     sv: Surianaceae
     tr: Surianaceae
     uk: Surianaceae
@@ -72,12 +72,12 @@ dv_has_:
     vo: Surianaceae
     war: Surianaceae
     zh: 海人树科
-    zh-cn: 海人树科
-    zh-hans: 海人树科
-    zh-hant: 海人樹科
-    zh-hk: 海人樹科
-    zh-sg: 海人树科
-    zh-tw: 海人樹科
+    zh_cn: 海人树科
+    zh_hans: 海人树科
+    zh_hant: 海人樹科
+    zh_hk: 海人樹科
+    zh_sg: 海人树科
+    zh_tw: 海人樹科
 ---
 # [[Surianaceae]] 
 

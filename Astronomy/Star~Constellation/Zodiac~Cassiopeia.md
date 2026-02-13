@@ -101,7 +101,7 @@ dv_has_:
     az: Kassiopeya
     ba: Кассиопея
     be: Касіяпея
-    be-tarask: Касіяпэя
+    be_tarask: Касіяпэя
     bg: Касиопея
     bn: কাশ্যপেয় মণ্ডল
     bo: དྲང་སྲོང་བཙུན་མོའི་སྐར་ཚོམ་
@@ -172,7 +172,7 @@ dv_has_:
     sl: Kasiopeja
     sq: Kasiopea
     sr: Касиопеја
-    sr-ec: Касиопеја
+    sr_ec: Касиопеја
     sv: Cassiopeja
     sw: Mke wa Kurusi
     ta: ஆசந்தி

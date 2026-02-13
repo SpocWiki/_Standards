@@ -43,7 +43,7 @@ dv_has_:
     arz: سوزان انتونى
     ast: Susan B. Anthony
     bcl: Susan B. Anthony
-    be-tarask: Сьюзэн Энтані
+    be_tarask: Сьюзэн Энтані
     bg: Сюзан Б. Антъни
     ca: Susan B. Anthony
     ckb: سووزان ئەنتۆنی
@@ -91,7 +91,7 @@ dv_has_:
     pl: Susan B. Anthony
     ps: سوزن انتوني
     pt: Susan B. Anthony
-    pt-br: Susan B. Anthony
+    pt_br: Susan B. Anthony
     ro: Susan B. Anthony
     ru: Сьюзен Энтони
     sco: Susan B. Anthony
@@ -100,8 +100,8 @@ dv_has_:
     sl: Susan B. Anthony
     sq: Susan B. Anthony
     sr: Сузан Б. Ентони
-    sr-ec: Сузан Б. Ентони
-    sr-el: Suzan B. Entoni
+    sr_ec: Сузан Б. Ентони
+    sr_el: Suzan B. Entoni
     sv: Susan B. Anthony
     sw: Susan B.Anthony
     ta: சூசன் ப்ரவுன் அந்தோனி
@@ -115,12 +115,12 @@ dv_has_:
     wuu: 苏珊·安东尼
     yue: 蘇珊·安東尼
     zh: 苏珊·安东尼
-    zh-cn: 苏珊·安东尼
-    zh-hans: 苏珊·安东尼
-    zh-hant: 蘇珊·安東尼
-    zh-hk: 蘇珊·安東尼
-    zh-sg: 苏珊·安东尼
-    zh-tw: 蘇珊·安東尼
+    zh_cn: 苏珊·安东尼
+    zh_hans: 苏珊·安东尼
+    zh_hant: 蘇珊·安東尼
+    zh_hk: 蘇珊·安東尼
+    zh_sg: 苏珊·安东尼
+    zh_tw: 蘇珊·安東尼
 ---
 # [[Anthony,Susan_B]] 
 

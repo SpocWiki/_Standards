@@ -83,7 +83,7 @@ dv_has_:
     ast: Dictadura del proletariáu
     az: Proletariat diktaturası
     be: дыктатура пралетарыята
-    be-tarask: дыктатура пралетарыяту
+    be_tarask: дыктатура пралетарыяту
     bg: Диктатура на пролетариата
     br: Diktatouriezh ar broleteriezh
     ca: Dictadura del proletariat
@@ -133,27 +133,27 @@ dv_has_:
     sl: diktatura proletariata
     sq: Diktatura e proletariatit
     sr: диктатура пролетаријата
-    sr-ec: диктатура пролетаријата
-    sr-el: Diktatura proletarijata
+    sr_ec: диктатура пролетаријата
+    sr_el: Diktatura proletarijata
     sv: Proletariatets diktatur
     ta: தொழிலாளர் சர்வதிகாரம்
     tg: Диктатураи пролетариат
     tl: paghaharì ng proletaryado
     tr: Proletarya diktatörlüğü
     tt: пырлитарият диктатурысы
-    tt-latn: pırlitariät diktaturısı
+    tt_latn: pırlitariät diktaturısı
     uk: диктатура пролетаріату
     vec: ditadura del prołetarià
     vi: nền chuyên chính vô sản
     xmf: პროლეტარიატიშ დიქტატურა
     yue: 無產階級專政
     zh: 无产阶级专政
-    zh-cn: 无产阶级专政
-    zh-hans: 无产阶级专政
-    zh-hant: 無產階級專政
-    zh-hk: 無產階級專政
-    zh-sg: 无产阶级专政
-    zh-tw: 無產階級專政
+    zh_cn: 无产阶级专政
+    zh_hans: 无产阶级专政
+    zh_hant: 無產階級專政
+    zh_hk: 無產階級專政
+    zh_sg: 无产阶级专政
+    zh_tw: 無產階級專政
 ---
 # [[Dictatorship_of_the_Proletariat]] 
 

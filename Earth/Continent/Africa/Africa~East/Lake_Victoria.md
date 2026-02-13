@@ -220,7 +220,7 @@ dv_has_:
     bar: Viktoriasee
     bcl: Danaw Victoria
     be: Возера Вікторыя
-    be-tarask: Вікторыя
+    be_tarask: Вікторыя
     bg: Виктория
     bho: विक्टोरिया झील
     bn: ভিক্টোরিয়া হ্রদ
@@ -237,13 +237,13 @@ dv_has_:
     cy: Llyn Victoria
     da: Victoriasøen
     de: Victoriasee
-    de-ch: Victoriasee
+    de_ch: Victoriasee
     diq: Golê Victoria
     dsb: Viktoriaski jazor
     el: Βικτόρια
     en: Lake Victoria
-    en-ca: Lake Victoria
-    en-gb: Lake Victoria
+    en_ca: Lake Victoria
+    en_gb: Lake Victoria
     en-us: Lake Victoria
     eo: Viktoria lago
     es: Victoria
@@ -317,7 +317,7 @@ dv_has_:
     pms: Lagh Vitòria
     pnb: جھیل وکٹوریہ
     pt: Lago Vitória
-    pt-br: Lago Vitória
+    pt_br: Lago Vitória
     qu: Ñansa qucha
     ro: Lacul Victoria
     roa-tara: Laghe Vittorie
@@ -358,7 +358,7 @@ dv_has_:
     yi: וויקטאריע אזערע
     yue: 維多利亞湖
     zh: 維多利亞湖
-    zh-hk: 維多利亞湖
+    zh_hk: 維多利亞湖
 ---
 # [[Lake_Victoria]] 
 

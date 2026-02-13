@@ -132,7 +132,7 @@ dv_has_:
     or: ମୂଷାକାନୀ
     pl: Wilec
     pt: Ipomoea
-    pt-br: Ipomoea
+    pt_br: Ipomoea
     pwn: calivudu
     ro: Ipomoea
     ru: ипомея
@@ -150,12 +150,12 @@ dv_has_:
     vo: Ipomoea
     war: Ipomoea
     zh: 番薯属
-    zh-cn: 番薯属
-    zh-hans: 番薯属
-    zh-hant: 番薯屬
-    zh-hk: 番薯屬
-    zh-sg: 番薯属
-    zh-tw: 番薯屬
+    zh_cn: 番薯属
+    zh_hans: 番薯属
+    zh_hant: 番薯屬
+    zh_hk: 番薯屬
+    zh_sg: 番薯属
+    zh_tw: 番薯屬
 ---
 # [[Ipomoea]] 
 

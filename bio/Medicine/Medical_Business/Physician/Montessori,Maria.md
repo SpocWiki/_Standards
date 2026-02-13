@@ -111,7 +111,7 @@ dv_has_:
     ba: Мария Монтессори
     bcl: Maria Montessori
     be: Марыя Мантэсоры
-    be-tarask: Марыя Мантэсоры
+    be_tarask: Марыя Мантэсоры
     bg: Мария Монтесори
     bn: মারিয়া মন্টেসরি
     bs: Maria Montessori
@@ -174,7 +174,7 @@ dv_has_:
     pl: Maria Montessori
     pms: Maria Montessori
     pt: Maria Montessori
-    pt-br: Maria Montessori
+    pt_br: Maria Montessori
     ro: Maria Montessori
     ru: Мария Монтессори
     sah: Мария Монтессори
@@ -187,8 +187,8 @@ dv_has_:
     sl: Maria Montessori
     sq: Maria Montessori
     sr: Марија Монтесори
-    sr-ec: Марија Монтесори
-    sr-el: Marija Montesori
+    sr_ec: Марија Монтесори
+    sr_el: Marija Montesori
     sv: Maria Montessori
     sw: Maria Montessori
     ta: மரியா மாண்ட்டிசோரி
@@ -204,12 +204,12 @@ dv_has_:
     xmf: მარია მონტესორი
     yue: 蒙特梭利
     zh: 瑪麗亞·蒙特梭利
-    zh-cn: 玛丽亚·蒙台梭利
-    zh-hans: 玛丽亚·蒙台梭利
-    zh-hant: 瑪麗亞·蒙特梭利
-    zh-hk: 瑪麗亞·蒙特梭利
-    zh-sg: 玛丽亚·蒙台梭利
-    zh-tw: 瑪麗亞·蒙特梭利
+    zh_cn: 玛丽亚·蒙台梭利
+    zh_hans: 玛丽亚·蒙台梭利
+    zh_hant: 瑪麗亞·蒙特梭利
+    zh_hk: 瑪麗亞·蒙特梭利
+    zh_sg: 玛丽亚·蒙台梭利
+    zh_tw: 瑪麗亞·蒙特梭利
 ---
 # [[Montessori,Maria]] 
 

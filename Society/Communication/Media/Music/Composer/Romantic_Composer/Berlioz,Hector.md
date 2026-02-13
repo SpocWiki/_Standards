@@ -160,7 +160,7 @@ dv_has_:
     azb: هکتور برلیوز
     ba: Һектор Берлиоз
     be: Гектар Берліёз
-    be-tarask: Гектар Бэрліёз
+    be_tarask: Гектар Бэрліёз
     bg: Ектор Берлиоз
     br: Louis Hector Berlioz
     bs: Hector Berlioz
@@ -174,12 +174,12 @@ dv_has_:
     cy: Hector Berlioz
     da: Hector Berlioz
     de: Hector Berlioz
-    de-ch: Hector Berlioz
+    de_ch: Hector Berlioz
     diq: Hector Berlioz
     el: Εκτόρ Μπερλιόζ
     en: Hector Berlioz
-    en-ca: Hector Berlioz
-    en-gb: Hector Berlioz
+    en_ca: Hector Berlioz
+    en_gb: Hector Berlioz
     eo: Louis Hector Berlioz
     es: Hector Berlioz
     et: Hector Berlioz
@@ -239,7 +239,7 @@ dv_has_:
     pms: Hector Berlioz
     pnb: ہیکٹر برلیوز
     pt: Hector Berlioz
-    pt-br: Hector Berlioz
+    pt_br: Hector Berlioz
     qu: Hector Berlioz
     ro: Hector Berlioz
     ru: Гектор Берлиоз
@@ -268,14 +268,14 @@ dv_has_:
     yi: העקטאר בערליאז
     yue: 白遼士
     zh: 埃克托·柏辽兹
-    zh-cn: 埃克托·柏辽兹
-    zh-hans: 埃克托·柏辽兹
-    zh-hant: 艾克托·白遼士
-    zh-hk: 赫多·白遼士
-    zh-mo: 埃克托·柏辽兹
+    zh_cn: 埃克托·柏辽兹
+    zh_hans: 埃克托·柏辽兹
+    zh_hant: 艾克托·白遼士
+    zh_hk: 赫多·白遼士
+    zh_mo: 埃克托·柏辽兹
     zh-my: 埃克托·柏辽兹
-    zh-sg: 埃克托·柏辽兹
-    zh-tw: 艾克托·白遼士
+    zh_sg: 埃克托·柏辽兹
+    zh_tw: 艾克托·白遼士
 ---
 # [[Berlioz,Hector]] 
 

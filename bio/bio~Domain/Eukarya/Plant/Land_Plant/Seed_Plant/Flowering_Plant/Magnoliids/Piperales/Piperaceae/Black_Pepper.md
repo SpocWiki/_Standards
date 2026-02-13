@@ -174,8 +174,8 @@ UMLS_CUI: C0453397
 EPPO_Code: PIPNI
 dv_has_:
   name_:
-    aeb-arab: فلفل أكحل
-    aeb-latn: felfel ak7al
+    aeb_arab: فلفل أكحل
+    aeb_latn: felfel ak7al
     af: peper
     am: ቁንደ በርበሬ
     an: Piper nigrum
@@ -187,7 +187,7 @@ dv_has_:
     bar: pfefa
     bcl: paminta
     be: перац чорны
-    be-tarask: перац чорны
+    be_tarask: перац чорны
     bg: черен пипер
     bho: काली मरिच
     bjn: sahang
@@ -205,8 +205,8 @@ dv_has_:
     dv: އަސޭމިރުސް
     el: πέπερι το μέλαν
     en: Piper nigrum
-    en-ca: Black pepper
-    en-gb: black pepper plant
+    en_ca: Black pepper
+    en_gb: black pepper plant
     eo: piprarbusto
     es: Piper nigrum
     et: pipar
@@ -280,7 +280,7 @@ dv_has_:
     pnb: کالی مرچ
     ps: تور مرچ
     pt: pimenta-preta
-    pt-br: Pimenta-preta
+    pt_br: Pimenta-preta
     qu: yana piminta
     ro: piper negru
     ru: перец чёрный
@@ -304,7 +304,7 @@ dv_has_:
     tl: paminta
     tr: Piper nigrum
     tt: кара борыч
-    tt-cyrl: кара борыч
+    tt_cyrl: кара борыч
     ug: قارامۇچ
     uk: перець чорний
     ur: کالی مرچ
@@ -319,10 +319,10 @@ dv_has_:
     yi: שווארצער פעפער
     yue: 胡椒
     zh: 胡椒
-    zh-cn: 胡椒
-    zh-hans: 胡椒
-    zh-hant: 胡椒
-    zh-tw: 胡椒
+    zh_cn: 胡椒
+    zh_hans: 胡椒
+    zh_hant: 胡椒
+    zh_tw: 胡椒
 ---
 # [[Black_Pepper]] 
 

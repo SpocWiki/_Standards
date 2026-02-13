@@ -885,7 +885,7 @@ dv_has_:
     ab: Бразилиа
     ace: Brasil
     ady: Бразилие
-    aeb-arab: البرازيل
+    aeb_arab: البرازيل
     af: Brasilië
     am: ብራዚል
     ami: Brazil
@@ -910,7 +910,7 @@ dv_has_:
     bbc: Brasil
     bcl: Brasil
     be: Бразілія
-    be-tarask: Бразылія
+    be_tarask: Бразылія
     bew: Brasil
     bg: Бразилия
     bgn: برازیل
@@ -926,7 +926,7 @@ dv_has_:
     btm: Brasil
     bxr: Бразил
     ca: Brasil
-    cbk-zam: Brasil
+    cbk_zam: Brasil
     cdo: Brazil
     ce: Бразили
     ceb: Brasil
@@ -936,7 +936,7 @@ dv_has_:
     ckb: بەڕازیل
     co: Brasile
     crh: Brazil
-    crh-latn: Brazil
+    crh_latn: Brazil
     cs: Brazílie
     csb: Brazylskô
     cu: Браꙁїлїꙗ
@@ -945,7 +945,7 @@ dv_has_:
     da: Brasilien
     dag: Brazil
     de: Brasilien
-    de-ch: Brasilien
+    de_ch: Brasilien
     diq: Brezilya
     dsb: Brazilska
     dtp: Brazil
@@ -956,8 +956,8 @@ dv_has_:
     el: Βραζιλία
     eml: Brasil
     en: Brazil
-    en-ca: Brazil
-    en-gb: Brazil
+    en_ca: Brazil
+    en_gb: Brazil
     en-us: Brazil
     eo: Brazilo
     es: Brasil
@@ -986,7 +986,7 @@ dv_has_:
     gn: Pindoráma
     gom: ब्राझील
     gom-deva: ब्राझील
-    gom-latn: Brazil
+    gom_latn: Brazil
     gor: Brasil
     got: "\U00010331\U00010342\U00010330\U00010336\U00010339\U0001033B"
     gpe: Brazil
@@ -1042,7 +1042,7 @@ dv_has_:
     krc: Бразилия
     ks: برٛازیٖل
     ku: Brezîl
-    ku-latn: Brezîl
+    ku_latn: Brezîl
     kv: Бразилия
     kw: Brasil
     ky: Бразилия
@@ -1064,7 +1064,7 @@ dv_has_:
     lv: Brazīlija
     lzh: 巴西
     mai: ब्राजिल
-    map-bms: Brasil
+    map_bms: Brasil
     mdf: Бразилия
     mg: Brazila
     mhr: Бразилий
@@ -1078,7 +1078,7 @@ dv_has_:
     mr: ब्राझील
     mrj: Бразили
     ms: Brazil
-    ms-arab: برازيل
+    ms_arab: برازيل
     mt: Brażil
     mwl: Brasil
     my: ဘရာဇီးနိုင်ငံ
@@ -1090,7 +1090,7 @@ dv_has_:
     nap: Brasile
     nb: Brasil
     nds: Brasilien
-    nds-nl: Brazilië
+    nds_nl: Brazilië
     ne: ब्राजिल
     new: ब्राजिल
     nl: Brazilië
@@ -1120,7 +1120,7 @@ dv_has_:
     pnb: برازیل
     ps: برازیل
     pt: Brasil
-    pt-br: Brasil
+    pt_br: Brasil
     qu: Brasil
     rm: Brasilia
     rmy: Brazil
@@ -1155,8 +1155,8 @@ dv_has_:
     so: Barasiil
     sq: Brazili
     sr: Бразил
-    sr-ec: Бразил
-    sr-el: Brazil
+    sr_ec: Бразил
+    sr_el: Brazil
     srn: Brasilkondre
     ss: IBhurazili
     st: Brazil
@@ -1214,14 +1214,14 @@ dv_has_:
     zea: Brezilië
     zgh: ⴱⵕⴰⵣⵉⵍ
     zh: 巴西
-    zh-cn: 巴西
-    zh-hans: 巴西
-    zh-hant: 巴西
-    zh-hk: 巴西
-    zh-mo: 巴西
+    zh_cn: 巴西
+    zh_hans: 巴西
+    zh_hant: 巴西
+    zh_hk: 巴西
+    zh_mo: 巴西
     zh-my: 巴西
-    zh-sg: 巴西
-    zh-tw: 巴西
+    zh_sg: 巴西
+    zh_tw: 巴西
     zu: IBrazili
   telephone_:
     Prefix_:

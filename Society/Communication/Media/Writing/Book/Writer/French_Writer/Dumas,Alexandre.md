@@ -177,7 +177,7 @@ dv_has_:
     azb: الکساندر دوما
     ba: Александр Дюма
     be: Аляксандр Дзюма
-    be-tarask: Аляксандар Дзюма
+    be_tarask: Аляксандар Дзюма
     bg: Александър Дюма-баща
     bjn: Alexandre Dumas
     bn: আলেক্সঁদ্র দ্যুমা
@@ -192,12 +192,12 @@ dv_has_:
     cy: Alexandre Dumas
     da: Alexandre Dumas, den ældre
     de: Alexandre Dumas der Ältere
-    de-ch: Alexandre Dumas der Ältere
+    de_ch: Alexandre Dumas der Ältere
     diq: Alexandre Dumas d.ä.
     el: Αλέξανδρος Δουμάς
     en: Alexandre Dumas
-    en-ca: Alexandre Dumas
-    en-gb: Alexandre Dumas
+    en_ca: Alexandre Dumas
+    en_gb: Alexandre Dumas
     eo: Alexandre Dumas
     es: Alexandre Dumas
     et: Alexandre Dumas vanem
@@ -258,7 +258,7 @@ dv_has_:
     pms: Alexandre Dumas
     pnb: الیگزنڈر ڈوما
     pt: Alexandre Dumas
-    pt-br: Alexandre Dumas, pai
+    pt_br: Alexandre Dumas, pai
     qu: Alexandre Dumas
     ro: Alexandre Dumas
     ru: Александр Дюма

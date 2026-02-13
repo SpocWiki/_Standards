@@ -278,7 +278,7 @@ dv_has_:
     bar: Marie Curie
     bcl: Marie Curie
     be: Марыя Кюры
-    be-tarask: Марыя Складоўская-Кюры
+    be_tarask: Марыя Складоўская-Кюры
     bew: Mariah Kiri-Sklodowska
     bg: Мария Кюри
     bho: मैरी क्यूरी
@@ -293,7 +293,7 @@ dv_has_:
     ceb: Marie Curie
     ckb: ماری کووری
     crh: Mari Sklodovska-Küri
-    crh-latn: Mari Sklodovska-Küri
+    crh_latn: Mari Sklodovska-Küri
     cs: Marie Curie-Skłodowská
     csb: Maria Skłodowska-Curie
     cv: Кюри Мария
@@ -305,8 +305,8 @@ dv_has_:
     dty: मेरी क्युरी
     el: Μαρία Κιουρί
     en: Marie Curie
-    en-ca: Marie Curie
-    en-gb: Marie Curie
+    en_ca: Marie Curie
+    en_gb: Marie Curie
     en-us: Marie Curie
     eo: Marie Curie
     es: Marie Curie
@@ -379,7 +379,7 @@ dv_has_:
     lzh: 瑪麗居禮
     mad: Marie Curie
     mai: मारिया क्युरी
-    map-bms: Marie Curie
+    map_bms: Marie Curie
     mg: Marie Curie
     min: Marie Curie
     mk: Марија Склодовска - Кири
@@ -397,7 +397,7 @@ dv_has_:
     nan: Marie Curie
     nb: Marie Curie
     nds: Marie Curie
-    nds-nl: Marie Curie
+    nds_nl: Marie Curie
     ne: मारिया क्युरी
     new: मेरी क्युरी
     nl: Marie Curie
@@ -473,10 +473,10 @@ dv_has_:
     yue: 居里夫人
     zea: Marie Curie
     zh: 玛丽·居里
-    zh-cn: 玛丽·居里
-    zh-hans: 玛丽·居里
-    zh-hant: 瑪麗·居里
-    zh-tw: 瑪麗·居禮
+    zh_cn: 玛丽·居里
+    zh_hans: 玛丽·居里
+    zh_hant: 瑪麗·居里
+    zh_tw: 瑪麗·居禮
 ---
 # [[Curie,Marie]] 
 

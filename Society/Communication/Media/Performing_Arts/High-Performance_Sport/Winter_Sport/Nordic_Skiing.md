@@ -68,7 +68,7 @@ dv_has_:
   name_:
     ar: التزحلف الشمالي
     ast: esquí nórdicu
-    be-tarask: клясычнае катаньне на лыжах
+    be_tarask: клясычнае катаньне на лыжах
     bg: ски северни дисциплини
     bs: nordijsko skijanje
     ca: esquí nòrdic
@@ -109,15 +109,15 @@ dv_has_:
     sl: nordijsko smučanje
     sq: Skijimi nordik
     sr: нордијско скијање
-    sr-ec: нордијско скијање
-    sr-el: nordijsko skijanje
+    sr_ec: нордијско скијање
+    sr_el: nordijsko skijanje
     sv: nordisk skidsport
     tr: Kuzey disiplini
     uk: Нордичне катання на лижах
     yue: 北歐滑雪
     zh: 北歐式滑雪
-    zh-hans: 北欧滑雪
-    zh-hant: 北歐滑雪
+    zh_hans: 北欧滑雪
+    zh_hant: 北歐滑雪
 ---
 # [[Nordic_Skiing]] 
 

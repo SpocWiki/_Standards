@@ -111,7 +111,7 @@ dv_has_:
     ay: jawq'a
     bcl: paghabon
     be: рабунак
-    be-tarask: рабунак
+    be_tarask: рабунак
     bg: грабеж
     bn: ডাকাতি
     ca: robatori
@@ -122,11 +122,11 @@ dv_has_:
     cy: ysbeiliad
     da: røveri
     de: Raub
-    de-ch: Raub
+    de_ch: Raub
     el: ληστεία
     en: robbery
-    en-ca: robbery
-    en-gb: robbery
+    en_ca: robbery
+    en_gb: robbery
     eo: rabo
     es: robo
     et: rööv
@@ -150,7 +150,7 @@ dv_has_:
     kn: ಡಕಾಯಿತಿ
     ko: 강도
     ku: dizî
-    ku-latn: dizî
+    ku_latn: dizî
     la: rapina
     lt: plėšimas
     mk: грабеж
@@ -173,7 +173,7 @@ dv_has_:
     sv: rån
     te: దోపిడీ
     tg: дуздӣ
-    tg-cyrl: ғоратгарӣ
+    tg_cyrl: ғоратгарӣ
     th: โจรกรรม
     tr: soygun
     uk: грабіж
@@ -183,9 +183,9 @@ dv_has_:
     wuu: 抢劫
     yue: 打劫
     zh: 抢劫
-    zh-hans: 抢劫
-    zh-hant: 搶劫
-    zh-tw: 搶劫
+    zh_hans: 抢劫
+    zh_hant: 搶劫
+    zh_tw: 搶劫
 ---
 # [[Robbery]] 
 

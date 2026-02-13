@@ -187,7 +187,7 @@ dv_has_:
     ba: физик
     bar: Physika
     be: фізік
-    be-tarask: фізык
+    be_tarask: фізык
     bg: физик
     bn: পদার্থবিজ্ঞানী
     bs: fizičar
@@ -195,19 +195,19 @@ dv_has_:
     cdo: Ŭk-lī-hŏk-gă
     ckb: فیزیکزان
     crh: fizikacı
-    crh-latn: fizikacı
+    crh_latn: fizikacı
     cs: fyzik
     cy: ffisegydd
     da: fysiker
     de: Physiker
     de-at: Physiker
-    de-ch: Physiker
+    de_ch: Physiker
     diq: fiziker
     dsb: fyzikaŕ
     el: φυσικός
     en: physicist
-    en-ca: physicist
-    en-gb: physicist
+    en_ca: physicist
+    en_gb: physicist
     en-us: physicist
     eo: fizikisto
     es: físico
@@ -246,7 +246,7 @@ dv_has_:
     ko: 물리학자
     ks: طِبیات دان
     ku: fizîknas
-    ku-latn: fizîknas
+    ku_latn: fizîknas
     kw: fisegydh
     la: physicus
     lb: Physiker
@@ -256,13 +256,13 @@ dv_has_:
     lmo: fisegh
     lt: fizikas
     lv: fiziķis
-    map-bms: Fisikawan
+    map_bms: Fisikawan
     mdf: физиксь
     mg: mpahay fizika
     mk: физичар
     mr: भौतिकशास्त्रज्ञ
     ms: ahli fizik
-    ms-arab: اهلي فيزيک
+    ms_arab: اهلي فيزيک
     mt: fiżiku
     nb: fysiker
     nds: Physiker
@@ -279,7 +279,7 @@ dv_has_:
     pnb: طبیعیات دان
     ps: فزيک پوه
     pt: físico
-    pt-br: físico
+    pt_br: físico
     ro: fizician
     ru: физик
     rue: фізік
@@ -293,8 +293,8 @@ dv_has_:
     smn: fysikkár
     sq: fizikan
     sr: физичар
-    sr-ec: Физичар
-    sr-el: Fizičar
+    sr_ec: Физичар
+    sr_el: Fizičar
     sv: fysiker
     szl: fizyk
     ta: இயற்பியலாளர்
@@ -316,12 +316,12 @@ dv_has_:
     yue: 物理學家
     zgh: ⴰⵎⵙⵏⴳⴰⵎⴰ
     zh: 物理学家
-    zh-cn: 物理学家
-    zh-hans: 物理学家
-    zh-hant: 物理學家
-    zh-hk: 物理學家
-    zh-sg: 物理学家
-    zh-tw: 物理學家
+    zh_cn: 物理学家
+    zh_hans: 物理学家
+    zh_hant: 物理學家
+    zh_hk: 物理學家
+    zh_sg: 物理学家
+    zh_tw: 物理學家
     zu: Umfundindalo
 ---
 # [[Physicist]] 

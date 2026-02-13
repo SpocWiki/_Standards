@@ -241,7 +241,7 @@ Unicode_character: "\U0001F9E0"
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Garuna%2C%20erosle.webm
 dv_has_:
   name_:
-    aeb-arab: مخّ
+    aeb_arab: مخّ
     af: brein
     am: አንጎል
     an: cerebro
@@ -262,7 +262,7 @@ dv_has_:
     ban: utek
     bcl: hutok
     be: галаўны мозг
-    be-tarask: галаўны мозаг
+    be_tarask: галаўны мозаг
     bew: otak
     bg: главен мозък
     bho: दिमाग
@@ -284,15 +284,15 @@ dv_has_:
     da: hjerne
     dag: zuɣupuri
     de: Gehirn
-    de-ch: Gehirn
+    de_ch: Gehirn
     diq: mezg
     dsb: mórzgi
     dv: ސިކުނޑި
     el: εγκέφαλος
     eml: zarvèl
     en: brain
-    en-ca: brain
-    en-gb: brain
+    en_ca: brain
+    en_gb: brain
     eo: cerbo
     es: cerebro
     et: peaaju
@@ -376,7 +376,7 @@ dv_has_:
     nan: náu
     nb: hjerne
     nds: Bregen
-    nds-nl: harsens
+    nds_nl: harsens
     ne: मस्तिष्क
     new: न्ह्येपु
     nl: hersenen
@@ -395,7 +395,7 @@ dv_has_:
     pnt: αχούλ
     ps: ماغزه
     pt: cérebro
-    pt-br: encéfalo
+    pt_br: encéfalo
     qu: ñutqu
     ro: creier
     ru: головной мозг
@@ -435,7 +435,7 @@ dv_has_:
     tok: insa lawa
     tr: beyin
     tt: баш мие
-    tt-cyrl: баш мие
+    tt_cyrl: баш мие
     udm: йырвиым
     ug: مېڭە
     uk: головний мозок
@@ -454,9 +454,9 @@ dv_has_:
     za: uk
     zgh: ⴰⵍⵍⵅⴼ
     zh: 脑
-    zh-hans: 脑
-    zh-hant: 腦
-    zh-tw: 腦
+    zh_hans: 脑
+    zh_hant: 腦
+    zh_tw: 腦
     zu: ubuchopho
 ---
 # [[Brain]] 🧠 

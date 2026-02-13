@@ -49,10 +49,10 @@ dv_has_:
     vi: Không phải lúc chết
     yue: 007：生死有時
     zh: 007：生死交戰
-    zh-hant: 007：生死交戰
-    zh-hk: 007：生死有時
-    zh-sg: 生死交战
-    zh-tw: 007：生死交戰
+    zh_hant: 007：生死交戰
+    zh_hk: 007：生死有時
+    zh_sg: 生死交战
+    zh_tw: 007：生死交戰
 aliases:
 - 007 No Time to Die
 - 007 ノー・タイム・トゥ・ダイ

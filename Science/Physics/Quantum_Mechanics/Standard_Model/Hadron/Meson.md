@@ -82,7 +82,7 @@ dv_has_:
     ast: mesón
     azb: مزون
     be: мезон
-    be-tarask: мэзон
+    be_tarask: мэзон
     bg: мезон
     bn: মেসন
     bs: mezon
@@ -115,11 +115,11 @@ dv_has_:
     ja: 中間子
     ka: მეზონი
     kk: Мезон
-    kk-arab: مەزون
+    kk_arab: مەزون
     kk-cn: مەزون
-    kk-cyrl: мезон
+    kk_cyrl: мезон
     kk-kz: мезон
-    kk-latn: mezon
+    kk_latn: mezon
     kk-tr: mezon
     kn: ಮೆಸಾನ್
     ko: 중간자
@@ -142,7 +142,7 @@ dv_has_:
     pl: mezony
     pnb: میزون
     pt: mesão
-    pt-br: méson
+    pt_br: méson
     ro: mezon
     ru: мезон
     scn: misoni
@@ -154,8 +154,8 @@ dv_has_:
     smn: meesoon
     sms: mesoon
     sr: мезон
-    sr-ec: мезон
-    sr-el: mezon
+    sr_ec: мезон
+    sr_el: mezon
     sv: meson
     ta: மேசான்
     th: มีซอน
@@ -168,12 +168,12 @@ dv_has_:
     wuu: 介子
     yue: 介子
     zh: 介子
-    zh-cn: 介子
-    zh-hans: 介子
-    zh-hant: 介子
-    zh-hk: 介子
-    zh-sg: 介子
-    zh-tw: 介子
+    zh_cn: 介子
+    zh_hans: 介子
+    zh_hant: 介子
+    zh_hk: 介子
+    zh_sg: 介子
+    zh_tw: 介子
 ---
 # [[Meson]] 
 

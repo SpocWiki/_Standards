@@ -109,7 +109,7 @@ dv_has_:
     ast: Kumquat
     az: Kinkan
     azb: کینکان
-    be-tarask: кумкват
+    be_tarask: кумкват
     bg: кумкуат
     ca: Kumquat
     ceb: Kumkuwat
@@ -161,7 +161,7 @@ dv_has_:
     os: Кумкват
     pl: Kumkwat
     pt: Cunquate
-    pt-br: Quincã
+    pt_br: Quincã
     ro: Kumquat
     ru: Кумкват
     sh: Kumkvat
@@ -169,7 +169,7 @@ dv_has_:
     sl: kumkvat
     sq: Kumkvat
     sr: Кумкват
-    sr-ec: Кумкват
+    sr_ec: Кумкват
     sv: kumquat
     th: ส้มจี๊ด
     tl: Kumquat
@@ -182,10 +182,10 @@ dv_has_:
     wuu: 金柑
     yue: 金桔
     zh: 金橘
-    zh-cn: 金橘
-    zh-hans: 金桔
-    zh-hant: 金橘
-    zh-tw: 金橘
+    zh_cn: 金橘
+    zh_hans: 金桔
+    zh_hant: 金橘
+    zh_tw: 金橘
 ---
 # [[Kumquat]] 
 

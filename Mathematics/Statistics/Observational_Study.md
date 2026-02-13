@@ -41,7 +41,7 @@ dv_has_:
   name_:
     ar: دراسة بالملاحظة
     ast: Estudiu observacional
-    be-tarask: абсэрвацыйны мэтад
+    be_tarask: абсэрвацыйны мэтад
     ca: observació d'estudi
     cs: observační studie
     da: observationsstudie
@@ -74,7 +74,7 @@ dv_has_:
     vec: stùdio de oservasion
     yue: 觀察研究
     zh: 观察性研究
-    zh-hant: zhongwen
+    zh_hant: zhongwen
 ---
 # [[Observational_Study]] 
 

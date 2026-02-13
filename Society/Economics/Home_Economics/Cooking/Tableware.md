@@ -100,7 +100,7 @@ dv_has_:
     arz: اوانى الاكل
     az: qab-qacaq
     be: посуд
-    be-tarask: пасудзіна
+    be_tarask: пасудзіна
     bho: बरतन
     ca: vaixella
     ce: пхьегӏаш
@@ -128,9 +128,9 @@ dv_has_:
     it: stoviglia
     ja: テーブルウェア
     kk: ыдыс-аяқ
-    kk-arab: ىدىس-اياق
-    kk-cyrl: ыдыс-аяқ
-    kk-latn: idıs-ayaq
+    kk_arab: ىدىس-اياق
+    kk_cyrl: ыдыс-аяқ
+    kk_latn: idıs-ayaq
     ko: 식기
     la: escaria
     lt: indas
@@ -144,7 +144,7 @@ dv_has_:
     oc: vaissèla
     pl: zastawa stołowa
     pt: aparelho de mesa
-    pt-br: aparelho de mesa
+    pt_br: aparelho de mesa
     ro: veselă
     rsk: Прибор за єдзенє
     ru: посуда
@@ -158,9 +158,9 @@ dv_has_:
     yi: געשיר
     yue: 食具
     zh: 餐具
-    zh-hans: 餐具
-    zh-hant: 餐具
-    zh-hk: 餐具
+    zh_hans: 餐具
+    zh_hant: 餐具
+    zh_hk: 餐具
 ---
 # [[Tableware]] 
 

@@ -91,7 +91,7 @@ dv_has_:
     ba: Тейлор рәте
     bar: Taylorreihe
     be: рад Тэйлара
-    be-tarask: Тэйларавы шэраг
+    be_tarask: Тэйларавы шэраг
     bg: Ред на Тейлър
     bn: টেলর ধারা
     bs: Taylorov red
@@ -122,11 +122,11 @@ dv_has_:
     it: serie di Taylor
     ja: テイラー級数
     kk: Тейлор қатары
-    kk-arab: تەيلور قاتارى
+    kk_arab: تەيلور قاتارى
     kk-cn: تەيلور قاتارى
-    kk-cyrl: Тейлор қатары
+    kk_cyrl: Тейлор қатары
     kk-kz: Тейлор қатары
-    kk-latn: Teýlor qatarı
+    kk_latn: Teýlor qatarı
     kk-tr: Teýlor qatarı
     ko: 테일러 급수
     lt: Teiloro eilutė
@@ -139,7 +139,7 @@ dv_has_:
     pl: szereg Taylora
     pms: Serie ëd Taylor
     pt: série de Taylor
-    pt-br: série de Taylor
+    pt_br: série de Taylor
     ro: Serie Taylor
     ru: ряд Тейлора
     sh: Tejlorov polinom
@@ -149,7 +149,7 @@ dv_has_:
     sn: taylor series
     sq: Seritë e Tejlorit
     sr: Тејлоров полином
-    sr-ec: Тејлоров полином
+    sr_ec: Тејлоров полином
     sv: Taylorserie
     ta: டெய்லர் தொடர்
     tg: Қатори Тейлор
@@ -162,12 +162,12 @@ dv_has_:
     wuu: 泰勒级数
     yue: 泰勒級數
     zh: 泰勒级数
-    zh-cn: 泰勒级数
-    zh-hans: 泰勒级数
-    zh-hant: 泰勒級數
-    zh-hk: 泰勒級數
-    zh-sg: 泰勒级数
-    zh-tw: 泰勒級數
+    zh_cn: 泰勒级数
+    zh_hans: 泰勒级数
+    zh_hant: 泰勒級數
+    zh_hk: 泰勒級數
+    zh_sg: 泰勒级数
+    zh_tw: 泰勒級數
 ---
 # [[Taylor_Series]] 
 

@@ -161,7 +161,7 @@ dv_has_:
     azb: کرت وانهقت
     bcl: Kurt Vonnegut
     be: Курт Вонегут
-    be-tarask: Курт Вонэгут
+    be_tarask: Курт Вонэгут
     bg: Кърт Вонегът
     bn: কুর্ট ভনেগাট
     br: Kurt Vonnegut
@@ -172,11 +172,11 @@ dv_has_:
     cy: Kurt Vonnegut
     da: Kurt Vonnegut
     de: Kurt Vonnegut
-    de-ch: Kurt Vonnegut
+    de_ch: Kurt Vonnegut
     el: Κουρτ Βόνεγκατ
     en: Kurt Vonnegut
-    en-ca: Kurt Vonnegut
-    en-gb: Kurt Vonnegut
+    en_ca: Kurt Vonnegut
+    en_gb: Kurt Vonnegut
     eo: Kurt Vonnegut
     es: Kurt Vonnegut
     et: Kurt Vonnegut
@@ -225,7 +225,7 @@ dv_has_:
     pms: Kurt Vonnegut
     ps: کرټ وانېګټ
     pt: Kurt Vonnegut
-    pt-br: Kurt Vonnegut
+    pt_br: Kurt Vonnegut
     ro: Kurt Vonnegut
     ru: Курт Воннегут
     sc: Kurt Vonnegut
@@ -250,14 +250,14 @@ dv_has_:
     yo: Kurt Vonnegut
     yue: 馮內果
     zh: 小庫爾特·馮內古特
-    zh-cn: 库尔特·冯内古特
-    zh-hans: 库尔特·冯内古特
-    zh-hant: 库尔特·冯内古特
-    zh-hk: 库尔特·冯内古特
-    zh-mo: 库尔特·冯内古特
+    zh_cn: 库尔特·冯内古特
+    zh_hans: 库尔特·冯内古特
+    zh_hant: 库尔特·冯内古特
+    zh_hk: 库尔特·冯内古特
+    zh_mo: 库尔特·冯内古特
     zh-my: 库尔特·冯内古特
-    zh-sg: 库尔特·冯内古特
-    zh-tw: 库尔特·冯内古特
+    zh_sg: 库尔特·冯内古特
+    zh_tw: 库尔特·冯内古特
 ---
 # [[Vonnegut,Kurt]] 
 

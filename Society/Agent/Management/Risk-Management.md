@@ -115,7 +115,7 @@ dv_has_:
     az: risk idarəsi
     ban: Pangelolaan resiko
     be: кіраванне рызыкамі
-    be-tarask: кіраваньне рызыкамі
+    be_tarask: кіраваньне рызыкамі
     bg: Управление на риска
     bn: ঝুঁকি ব্যবস্থাপনা
     bs: upravljanje rizikom.
@@ -144,11 +144,11 @@ dv_has_:
     it: gestione del rischio
     ja: リスクマネジメント
     kk: Тәуекел менеджменті
-    kk-arab: تاۋەكەل مەنەدجمەنتى
+    kk_arab: تاۋەكەل مەنەدجمەنتى
     kk-cn: تاۋەكەل مەنەدجمەنتى
-    kk-cyrl: Тәуекел менеджменті
+    kk_cyrl: Тәуекел менеджменті
     kk-kz: Тәуекел менеджменті
-    kk-latn: Täwekel menedjmenti
+    kk_latn: Täwekel menedjmenti
     kk-tr: Täwekel menedjmenti
     kn: ಅಪಾಯ ನಿರ್ವಹಣೆ
     ko: 위험관리
@@ -158,7 +158,7 @@ dv_has_:
     min: Manajemen resiko
     mk: управување со ризици
     ms: pengurusan risiko
-    ms-arab: ڤڠوروسن ريسيکو
+    ms_arab: ڤڠوروسن ريسيکو
     nb: risikostyring
     ne: जोखिम व्यवस्थापन
     nl: risicomanagement
@@ -172,8 +172,8 @@ dv_has_:
     sk: menežment rizika
     sl: obvladovanje tveganj
     sr: управљање ризиком
-    sr-ec: управљање ризиком
-    sr-el: upravljanje rizikom
+    sr_ec: управљање ризиком
+    sr_el: upravljanje rizikom
     sv: riskhantering
     ta: இடர் மேலாண்மை
     te: అపాయ నిర్వహణ
@@ -185,12 +185,12 @@ dv_has_:
     vi: quản lý rủi ro
     yue: 風險管理
     zh: 风险管理
-    zh-cn: 风险管理
-    zh-hans: 风险管理
-    zh-hant: 風險管理
-    zh-hk: 風險管理
-    zh-sg: 风险管理
-    zh-tw: 風險管理
+    zh_cn: 风险管理
+    zh_hans: 风险管理
+    zh_hant: 風險管理
+    zh_hk: 風險管理
+    zh_sg: 风险管理
+    zh_tw: 風險管理
 ---
 # [[Risk-Management]] 
 

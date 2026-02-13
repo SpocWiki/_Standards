@@ -66,7 +66,7 @@ dv_has_:
     ab: Узбекисҭан
     ace: Uzbèkistan
     ady: Узбекистан
-    aeb-arab: أوزباكستان
+    aeb_arab: أوزباكستان
     af: Oesbekistan
     am: ኡዝቤኪስታን
     ami: Uzbekistan
@@ -89,7 +89,7 @@ dv_has_:
     bar: Usbekistan
     bcl: Usbekistan
     be: Узбекістан
-    be-tarask: Узбэкістан
+    be_tarask: Узбэкістан
     bew: Usbèkistan
     bg: Узбекистан
     bgn: ازبکستان
@@ -104,7 +104,7 @@ dv_has_:
     bug: Uzbekistan
     bxr: Узбекистан
     ca: Uzbekistan
-    cbk-zam: Uzbekistán
+    cbk_zam: Uzbekistán
     cdo: Uzbekistan
     ce: Узбекистан
     ceb: Uzbekistan
@@ -113,7 +113,7 @@ dv_has_:
     ckb: ئۆزبەکستان
     co: Uzbechistanu
     crh: Özbekistan
-    crh-latn: Özbekistan
+    crh_latn: Özbekistan
     crh-ro: Ózbekístan
     cs: Uzbekistán
     csb: Ùzbekistan
@@ -124,7 +124,7 @@ dv_has_:
     dag: Uzbekistan
     de: Usbekistan
     de-at: Usbekistan
-    de-ch: Usbekistan
+    de_ch: Usbekistan
     diq: Ozbekıstan
     dsb: Usbekistan
     dtp: Uzbekistan
@@ -134,8 +134,8 @@ dv_has_:
     ee: Uzbekistan
     el: Ουζμπεκιστάν
     en: Uzbekistan
-    en-ca: Uzbekistan
-    en-gb: Uzbekistan
+    en_ca: Uzbekistan
+    en_gb: Uzbekistan
     en-us: Uzbekistan
     eo: Uzbekio
     es: Uzbekistán
@@ -158,7 +158,7 @@ dv_has_:
     gn: Uvekitã
     gom: उझबेकिस्तान
     gom-deva: उझबेकिस्तान
-    gom-latn: Uzbekistan
+    gom_latn: Uzbekistan
     gpe: Uzbekistan
     gsw: Usbekistan
     gu: ઉઝબેકિસ્તાન
@@ -266,7 +266,7 @@ dv_has_:
     pnb: ازبکستان
     ps: اوزبکستان
     pt: Usbequistão
-    pt-br: Uzbequistão
+    pt_br: Uzbequistão
     qu: Usbiksuyu
     rmy: Uzbekistan
     ro: Uzbekistan
@@ -296,8 +296,8 @@ dv_has_:
     so: Usbekistan
     sq: Uzbekistani
     sr: Узбекистан
-    sr-ec: Узбекистан
-    sr-el: Uzbekistan
+    sr_ec: Узбекистан
+    sr_el: Uzbekistan
     ss: IZubekhi
     su: Uzbékistan
     sv: Uzbekistan
@@ -309,7 +309,7 @@ dv_has_:
     te: ఉజ్బెకిస్తాన్
     tet: Uzbekistaun
     tg: Ӯзбекистон
-    tg-cyrl: Ӯзбекистон
+    tg_cyrl: Ӯзбекистон
     th: ประเทศอุซเบกิสถาน
     tk: Özbegistan
     tl: Uzbekistan
@@ -319,7 +319,7 @@ dv_has_:
     tr: Özbekistan
     trv: Uzbekistan
     tt: Үзбәкстан
-    tt-cyrl: Үзбәкстан
+    tt_cyrl: Үзбәкстан
     tum: Uzbekistan
     tyv: Узбекистан
     udm: Узбекистан
@@ -345,14 +345,14 @@ dv_has_:
     zea: Oezbekistan
     zgh: ⵓⵣⴱⴰⴽⵉⵙⵜⴰⵏ
     zh: 乌兹别克斯坦
-    zh-cn: 乌兹别克斯坦
-    zh-hans: 乌兹别克斯坦
-    zh-hant: 烏茲別克斯坦
-    zh-hk: 烏茲別克
-    zh-mo: 烏茲別克
+    zh_cn: 乌兹别克斯坦
+    zh_hans: 乌兹别克斯坦
+    zh_hant: 烏茲別克斯坦
+    zh_hk: 烏茲別克
+    zh_mo: 烏茲別克
     zh-my: 乌兹别克斯坦
-    zh-sg: 乌兹别克斯坦
-    zh-tw: 烏茲別克
+    zh_sg: 乌兹别克斯坦
+    zh_tw: 烏茲別克
     zu: i-Uzbekistan
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Uzbekistan

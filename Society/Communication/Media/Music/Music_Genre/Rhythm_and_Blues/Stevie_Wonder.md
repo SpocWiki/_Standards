@@ -163,7 +163,7 @@ dv_has_:
     az: Stiv Vonder
     azb: استیوی واندر
     be: Сціві Уандэр
-    be-tarask: Стыві Ўандэр
+    be_tarask: Стыві Ўандэр
     bg: Стиви Уондър
     bi: Stevie Wonder
     br: Stevie Wonder
@@ -176,14 +176,14 @@ dv_has_:
     cy: Stevie Wonder
     da: Stevie Wonder
     de: Stevie Wonder
-    de-ch: Stevie Wonder
+    de_ch: Stevie Wonder
     diq: Stevie Wonder
     dsb: Stevie Wonder
     el: Στίβι Γουόντερ
     eml: Stevie Wonder
     en: Stevie Wonder
-    en-ca: Stevie Wonder
-    en-gb: Stevie Wonder
+    en_ca: Stevie Wonder
+    en_gb: Stevie Wonder
     eo: Stevie Wonder
     es: Stevie Wonder
     et: Stevie Wonder
@@ -249,7 +249,7 @@ dv_has_:
     nap: Stevie Wonder
     nb: Stevie Wonder
     nds: Stevie Wonder
-    nds-nl: Stevie Wonder
+    nds_nl: Stevie Wonder
     ne: स्टेभी वन्डर
     niu: Stevie Wonder
     nl: Stevie Wonder
@@ -266,7 +266,7 @@ dv_has_:
     pl: Stevie Wonder
     pms: Stevie Wonder
     pt: Stevie Wonder
-    pt-br: Stevie Wonder
+    pt_br: Stevie Wonder
     qu: Stevie Wonder
     rm: Stevie Wonder
     ro: Stevie Wonder
@@ -305,12 +305,12 @@ dv_has_:
     yue: 史提夫溫達
     zea: Stevie Wonder
     zh: 史提夫·汪达
-    zh-cn: 史提夫·汪达
-    zh-hans: 史提夫·汪达
-    zh-hant: 史提夫·汪达
+    zh_cn: 史提夫·汪达
+    zh_hans: 史提夫·汪达
+    zh_hant: 史提夫·汪达
     zh-my: 史提夫·温达
-    zh-sg: 史提夫·旺达
-    zh-tw: 史提夫·汪達
+    zh_sg: 史提夫·旺达
+    zh_tw: 史提夫·汪達
 ---
 # [[Stevie_Wonder]] 
 

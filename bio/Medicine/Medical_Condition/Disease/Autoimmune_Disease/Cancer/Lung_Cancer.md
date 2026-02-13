@@ -201,7 +201,7 @@ dv_has_:
     azb: آغجییر سرطانی
     ba: үпкә рагы
     be: рак лёгкіх
-    be-tarask: рак лёгкіх
+    be_tarask: рак лёгкіх
     bg: рак на белия дроб
     bn: ফুসফুসের ক্যান্সার
     br: krign-bev ar skevent
@@ -250,7 +250,7 @@ dv_has_:
     kn: ಶ್ವಾಸಕೋಶದ ಕ್ಯಾನ್ಸರ್
     ko: 폐암
     ku: şêrpenceya pişikê
-    ku-latn: şêrpenceya pişikê
+    ku_latn: şêrpenceya pişikê
     la: cancer pulmonum
     lb: Longekriibs
     lfn: canser pulmonal
@@ -276,7 +276,7 @@ dv_has_:
     pl: rak płuca
     ps: د سږو سرطان
     pt: cancro do pulmão
-    pt-br: câncer de pulmão
+    pt_br: câncer de pulmão
     qu: surq'an phiru unquy
     rki: အဆုတ်ကင်ဆာ
     ro: cancer pulmonar
@@ -313,11 +313,11 @@ dv_has_:
     yue: 肺癌
     za: aizcwng bwt
     zh: 肺癌
-    zh-cn: 肺癌
-    zh-hans: 肺癌
-    zh-hant: 肺癌
-    zh-hk: 肺癌
-    zh-tw: 肺癌
+    zh_cn: 肺癌
+    zh_hans: 肺癌
+    zh_hant: 肺癌
+    zh_hk: 肺癌
+    zh_tw: 肺癌
 ---
 # [[Lung_Cancer]] 
 

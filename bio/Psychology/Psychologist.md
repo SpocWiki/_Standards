@@ -93,7 +93,7 @@ dv_has_:
     ba: психолог
     bcl: Sikologo
     be: псіхолаг
-    be-tarask: псыхоляг
+    be_tarask: псыхоляг
     bg: психолог
     bn: মনোবিজ্ঞানী
     bo: སེམས་ཁམས་རིག་པ་བ།
@@ -107,7 +107,7 @@ dv_has_:
     de: Psychologe
     el: ψυχολόγος
     en: psychologist
-    en-gb: psychologist
+    en_gb: psychologist
     en-us: psychologist
     eo: psikologo
     es: psicólogo
@@ -156,7 +156,7 @@ dv_has_:
     mk: психолог
     ml: മനഃശാസ്ത്രജ്ഞൻ
     ms: ahli psikologi
-    ms-arab: اهلي ڤسيکولوݢي
+    ms_arab: اهلي ڤسيکولوݢي
     mt: psikologu
     nb: psykolog
     nds: Psycholoog
@@ -168,7 +168,7 @@ dv_has_:
     pl: psycholog
     ps: ارواپوه
     pt: psicólogo
-    pt-br: psicólogo
+    pt_br: psicólogo
     ro: psiholog
     ru: психолог
     sah: психолог
@@ -181,19 +181,19 @@ dv_has_:
     sms: psykoloog
     sq: psikolog
     sr: психолог
-    sr-ec: психолог
-    sr-el: psiholog
+    sr_ec: психолог
+    sr_el: psiholog
     su: Psikolog
     sv: psykolog
     ta: உளவியலாளர்
     te: మనస్తత్వవేత్త
     tg: равоншинос
-    tg-latn: Ravonşinos
+    tg_latn: Ravonşinos
     th: นักจิตวิทยา
     tl: sikologo
     tr: psikolog
     tt: психолог
-    tt-cyrl: психолог
+    tt_cyrl: психолог
     uk: психолог
     ur: ماہر نفسیات
     uz: Psixolog
@@ -204,12 +204,12 @@ dv_has_:
     yi: פסיכאלאג
     yue: 心理學家
     zh: 心理學家
-    zh-cn: 心理学家
-    zh-hans: 心理学家
-    zh-hant: 心理學家
-    zh-hk: 心理學家
-    zh-sg: 心理学家
-    zh-tw: 心理學家
+    zh_cn: 心理学家
+    zh_hans: 心理学家
+    zh_hant: 心理學家
+    zh_hk: 心理學家
+    zh_sg: 心理学家
+    zh_tw: 心理學家
 ---
 ## #has_/text_of_/abstract 
 

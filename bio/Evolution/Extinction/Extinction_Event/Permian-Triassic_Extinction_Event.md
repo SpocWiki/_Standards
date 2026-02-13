@@ -72,14 +72,14 @@ dv_has_:
     an: Extinción masiva d'o Permico-Triasico
     ar: انقراض البرمي-الثلاثي
     ast: Estinción masiva del Pérmico-Triásicu
-    be-tarask: пэрмска-трыясічнае выміраньне
+    be_tarask: пэрмска-трыясічнае выміраньне
     bg: Масово измиране Перм-Триас
     ca: extinció permiana
     cs: Permské vymírání
     da: Perm–Trias udslettelsen
     de: Perm-Trias-Grenze
     en: Permian-Triassic mass extinction
-    en-gb: Permian–Triassic extinction event
+    en_gb: Permian–Triassic extinction event
     eo: Permi-triasa amasa formorto
     es: Extinción masiva del Pérmico-Triásico
     eu: Permo-Triasiar iraungipen masiboa
@@ -124,12 +124,12 @@ dv_has_:
     vi: Sự kiện tuyệt chủng kỷ Permi-kỷ Trias
     yue: 二疊紀-三疊紀滅絕事件
     zh: 二叠纪－三叠纪灭绝事件
-    zh-cn: 二叠纪－三叠纪灭绝事件
-    zh-hans: 二叠纪－三叠纪灭绝事件
-    zh-hant: 二疊紀－三疊紀滅絕事件
-    zh-hk: 二疊紀－三疊紀滅絕事件
-    zh-sg: 二叠纪－三叠纪灭绝事件
-    zh-tw: 二疊紀－三疊紀滅絕事件
+    zh_cn: 二叠纪－三叠纪灭绝事件
+    zh_hans: 二叠纪－三叠纪灭绝事件
+    zh_hant: 二疊紀－三疊紀滅絕事件
+    zh_hk: 二疊紀－三疊紀滅絕事件
+    zh_sg: 二叠纪－三叠纪灭绝事件
+    zh_tw: 二疊紀－三疊紀滅絕事件
 ---
 # [[Permian-Triassic_Extinction_Event]] 
 

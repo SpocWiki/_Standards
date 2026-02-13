@@ -201,7 +201,7 @@ dv_has_:
     az: Üzüklərin hökmdarı
     azb: اوزوکلر اربابی
     be: Валадар Пярсцёнкаў
-    be-tarask: Уладар Пярсьцёнкаў
+    be_tarask: Уладар Пярсьцёнкаў
     bg: Властелинът на пръстените
     bn: দ্য লর্ড অব দ্য রিংস
     br: Aotrou ar Gwalennoù
@@ -212,12 +212,12 @@ dv_has_:
     cy: The Lord of the Rings
     da: Ringenes Herre
     de: Der Herr der Ringe
-    de-ch: Der Herr der Ringe
+    de_ch: Der Herr der Ringe
     diq: Lordê Gıştaneyi
     el: Ο Άρχοντας των Δαχτυλιδιών
     en: The Lord of the Rings
-    en-ca: The Lord of the Rings
-    en-gb: The Lord of the Rings
+    en_ca: The Lord of the Rings
+    en_gb: The Lord of the Rings
     en-us: The Lord of the Rings
     eo: La Mastro de l’ Ringoj
     es: El Señor de los Anillos
@@ -284,7 +284,7 @@ dv_has_:
     pl: Władca Pierścieni
     pnb: لارڈ آف دا رنگز
     pt: O Senhor dos Anéis
-    pt-br: O Senhor dos Anéis
+    pt_br: O Senhor dos Anéis
     qu: Siwikunap Apun
     ro: Stăpânul inelelor
     ru: Властелин колец
@@ -314,11 +314,11 @@ dv_has_:
     yi: דער האר פון די פינגערלעך
     yue: 魔戒
     zh: 魔戒
-    zh-hans: 魔戒
-    zh-hant: 魔戒
+    zh_hans: 魔戒
+    zh_hant: 魔戒
     zh-my: 魔戒
-    zh-sg: 魔戒
-    zh-tw: 魔戒
+    zh_sg: 魔戒
+    zh_tw: 魔戒
 ---
 # [[Lord_of_the_Rings]]
 

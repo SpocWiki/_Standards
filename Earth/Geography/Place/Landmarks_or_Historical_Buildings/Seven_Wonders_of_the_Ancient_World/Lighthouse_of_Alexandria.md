@@ -163,7 +163,7 @@ dv_has_:
     azb: ایسکندریه فانوسو
     ba: Искәндәриә маяғы
     be: Александрыйскі маяк
-    be-tarask: Александрыйскі маяк
+    be_tarask: Александрыйскі маяк
     bg: Александрийски фар
     bn: আলেকজান্দ্রিয়ার বাতিঘর
     bs: Svjetionik u Aleksandriji
@@ -175,12 +175,12 @@ dv_has_:
     cy: Pharos Alecsandria
     da: Fyrtårnet på Faros ved Alexandria
     de: Pharos von Alexandria
-    de-ch: Pharos von Alexandria
+    de_ch: Pharos von Alexandria
     dv: އެލެގްސެންޑްރިޔާގެ ލައިޓް ހައުސް
     el: Φάρος της Αλεξάνδρειας
     en: Lighthouse of Alexandria
-    en-ca: Lighthouse of Alexandria
-    en-gb: Lighthouse of Alexandria
+    en_ca: Lighthouse of Alexandria
+    en_gb: Lighthouse of Alexandria
     eo: Lumturo de Aleksandrio
     es: Faro de Alejandría
     et: Pharose tuletorn
@@ -224,7 +224,7 @@ dv_has_:
     pl: Latarnia morska na Faros
     pnb: سکندریہ دا لائیٹ ہاؤس
     pt: Farol de Alexandria
-    pt-br: Farol de Alexandria
+    pt_br: Farol de Alexandria
     qu: Aleksandriya pharu
     ro: Farul din Alexandria
     ru: Александрийский маяк
@@ -235,7 +235,7 @@ dv_has_:
     sl: aleksandrijski svetilnik
     sq: Fari i Aleksandrisë
     sr: Светионик у Александрији
-    sr-ec: Светионик у Александрији
+    sr_ec: Светионик у Александрији
     sv: Fyrtornet på Faros
     sw: Pharos ya Aleksandria
     ta: அலெக்சாந்திரியாவின் கலங்கரை விளக்கம்

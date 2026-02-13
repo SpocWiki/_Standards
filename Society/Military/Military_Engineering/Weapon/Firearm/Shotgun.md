@@ -102,7 +102,7 @@ dv_has_:
     atj: Paskisikan
     az: qırma tüfəng
     be: стрэльба
-    be-tarask: стрэльба
+    be_tarask: стрэльба
     bew: Bedil pulungan
     bg: ловджийска пушка
     bn: শটগান
@@ -115,7 +115,7 @@ dv_has_:
     da: haglgevær
     de: Flinte
     en: shotgun
-    en-ca: Shotgun
+    en_ca: Shotgun
     eo: kartoĉa fusilo
     es: escopeta
     et: Pumppüss
@@ -138,9 +138,9 @@ dv_has_:
     ja: 散弾銃
     ka: დამბაჩა
     kk: Мылтық
-    kk-arab: مىلتىق
-    kk-cyrl: Мылтық
-    kk-latn: Mıltıq
+    kk_arab: مىلتىق
+    kk_cyrl: Мылтық
+    kk_latn: Mıltıq
     ko: 산탄총
     ks: شوٹ گَن
     la: Sclopetum
@@ -156,7 +156,7 @@ dv_has_:
     os: Топп
     pl: strzelba
     pt: caçadeira
-    pt-br: escopeta
+    pt_br: escopeta
     ro: pușcă de vânătoare
     ru: ружьё
     sah: Саа
@@ -167,8 +167,8 @@ dv_has_:
     sl: šibrenica
     sq: Pushka e gjahut
     sr: сачмарица
-    sr-ec: сачмарица
-    sr-el: sačmarica
+    sr_ec: сачмарица
+    sr_el: sačmarica
     sv: hagelgevär
     ta: வேட்டைத்துப்பாக்கி
     tg: милтиқ
@@ -182,10 +182,10 @@ dv_has_:
     xal: Бу
     yue: 霰彈槍
     zh: 霰彈槍
-    zh-cn: 霰弹枪
-    zh-hans: 霰弹枪
-    zh-hant: 霰彈槍
-    zh-hk: 霰彈槍
+    zh_cn: 霰弹枪
+    zh_hans: 霰弹枪
+    zh_hant: 霰彈槍
+    zh_hk: 霰彈槍
 ---
 # [[Shotgun]] 
 

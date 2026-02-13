@@ -59,7 +59,7 @@ Commons_category: Basis point
 unit_symbol: ‱
 dv_has_:
   name_:
-    be-tarask: базісны пункт
+    be_tarask: базісны пункт
     bg: базова точка
     ca: punt bàsic
     cs: bazický bod
@@ -78,9 +78,9 @@ dv_has_:
     ja: ベーシスポイント
     kaa: bazis punkti
     kk: базистік пункт
-    kk-arab: بازىيستىك پۋنكت
-    kk-cyrl: базистік пункт
-    kk-latn: bazïstik pwnkt
+    kk_arab: بازىيستىك پۋنكت
+    kk_cyrl: базистік пункт
+    kk_latn: bazïstik pwnkt
     ko: 만분율
     nb: basispunkt
     nl: basispunt
@@ -95,10 +95,10 @@ dv_has_:
     tr: baz puan
     uk: базисний пункт
     zh: 萬分率
-    zh-hans: 基点
-    zh-hant: 萬分率
-    zh-hk: 萬分率
-    zh-tw: 基本點
+    zh_hans: 基点
+    zh_hant: 萬分率
+    zh_hk: 萬分率
+    zh_tw: 基本點
 ---
 # [[Basis_Point]] 
 

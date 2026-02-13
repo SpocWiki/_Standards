@@ -163,7 +163,7 @@ dv_has_:
     azb: پیشیکلر
     ban: Felidae
     be: каціныя
-    be-tarask: каціныя
+    be_tarask: каціныя
     bg: коткови
     bn: মার্জার
     br: Kazheged
@@ -254,7 +254,7 @@ dv_has_:
     pnb: بلی ٹبر
     ps: د پیشوګانو کورنۍ
     pt: felídeos
-    pt-br: felídeos
+    pt_br: felídeos
     ro: Felide
     ru: кошачьи
     sah: Куоскатыҥылар кэргэннэрэ
@@ -279,7 +279,7 @@ dv_has_:
     tly: kytyjnə
     tr: Kedigiller
     tt: мәчелеләр
-    tt-cyrl: мәчелеләр
+    tt_cyrl: мәчелеләр
     ug: مۈشۈك ئائىلىسى
     uk: котові
     ur: خاندان گربہ
@@ -295,10 +295,10 @@ dv_has_:
     yi: פעלידאע
     yue: 貓科
     zh: 猫科
-    zh-cn: 猫科
-    zh-hans: 猫科
-    zh-hant: 貓科
-    zh-tw: 貓科
+    zh_cn: 猫科
+    zh_hans: 猫科
+    zh_hant: 貓科
+    zh_tw: 貓科
     zu: Felidae
 ---
 # [[Felidae]] 

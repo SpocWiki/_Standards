@@ -80,7 +80,7 @@ dv_has_:
     ast: Yerbicida
     az: Herbisidlər
     be: Гербіцыды
-    be-tarask: гербіцыд
+    be_tarask: гербіцыд
     bg: Хербицид
     bs: Herbicid
     ca: herbicida
@@ -89,8 +89,8 @@ dv_has_:
     de: Herbizid
     el: Ζιζανιοκτόνο
     en: herbicide
-    en-ca: Herbicide
-    en-gb: Herbicide
+    en_ca: Herbicide
+    en_gb: Herbicide
     eo: herbicido
     es: herbicida
     et: Herbitsiid
@@ -111,11 +111,11 @@ dv_has_:
     ja: 除草剤
     ka: ჰერბიციდები
     kk: Гербицидтер
-    kk-arab: گەربىيتسىيدتەر
+    kk_arab: گەربىيتسىيدتەر
     kk-cn: گەربىيتسىيدتەر
-    kk-cyrl: Гербицидтер
+    kk_cyrl: Гербицидтер
     kk-kz: Гербицидтер
-    kk-latn: Gerbïcïdter
+    kk_latn: Gerbïcïdter
     kk-tr: Gerbïcïdter
     ko: 제초제
     ky: Гербицид
@@ -136,7 +136,7 @@ dv_has_:
     pl: herbicyd
     ps: واښه وژونکي
     pt: herbicida
-    pt-br: herbicida
+    pt_br: herbicida
     rki: ပေါင်းပင်သတ်ဆီး
     ro: Erbicid
     ru: гербицид
@@ -146,8 +146,8 @@ dv_has_:
     sl: herbicid
     sq: Herbicidet
     sr: хербицид
-    sr-ec: хербицид
-    sr-el: herbicid
+    sr_ec: хербицид
+    sr_el: herbicid
     su: Hérbisida
     sv: herbicid
     ta: களைக்கொல்லி
@@ -163,12 +163,12 @@ dv_has_:
     wuu: 除草剂
     yue: 除草劑
     zh: 除草剂
-    zh-cn: 除草剂
-    zh-hans: 除草剂
-    zh-hant: 除草劑
-    zh-hk: 除草劑
-    zh-sg: 除草剂
-    zh-tw: 除草劑
+    zh_cn: 除草剂
+    zh_hans: 除草剂
+    zh_hant: 除草劑
+    zh_hk: 除草劑
+    zh_sg: 除草剂
+    zh_tw: 除草劑
 ---
 # [[Herbicide]] 
 

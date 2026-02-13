@@ -127,7 +127,7 @@ dv_has_:
     az: Qavrayış
     azb: ایدراک
     be: успрыманне
-    be-tarask: успрыняцьце
+    be_tarask: успрыняцьце
     bg: Възприятие
     bn: প্রত্যক্ষণ
     bs: Percepcija
@@ -140,7 +140,7 @@ dv_has_:
     de: Wahrnehmung
     el: Αντίληψη
     en: perception
-    en-gb: perception
+    en_gb: perception
     eo: percepto
     es: percepción
     et: Taju
@@ -171,7 +171,7 @@ dv_has_:
     lv: uztvere
     mk: восприемање
     ms: tanggapan
-    ms-arab: تڠݢڤن
+    ms_arab: تڠݢڤن
     my: ခံစားသိရှိ
     mzn: بنمارش
     nb: persepsjon
@@ -197,16 +197,16 @@ dv_has_:
     sl: zaznavanje
     sq: perceptim
     sr: опажање
-    sr-ec: опажање
-    sr-el: opažanje
+    sr_ec: опажање
+    sr_el: opažanje
     sv: perception
     ta: உள்ளுணர்தல்
     tg: Идрок
-    tg-latn: Idrok
+    tg_latn: Idrok
     th: การรับรู้
     tr: Algı
     tt: хисләрне тою
-    tt-cyrl: хисләрне тою
+    tt_cyrl: хисләрне тою
     uk: сприйняття
     ur: آگاہی
     uz: Inʼikos
@@ -215,9 +215,9 @@ dv_has_:
     wuu: 感知
     yue: 感知
     zh: 知觉
-    zh-cn: 知觉
-    zh-hant: 知覺
-    zh-tw: 知覺
+    zh_cn: 知觉
+    zh_hant: 知覺
+    zh_tw: 知覺
     zu: Intshwayo
 ---
 # [[Perception]] 

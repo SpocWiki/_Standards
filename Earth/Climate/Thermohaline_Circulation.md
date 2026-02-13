@@ -83,7 +83,7 @@ dv_has_:
     ar: دورة حرارية ملحية
     ast: Circulación termohalina
     be: тэрмахалінная цыркуляцыя
-    be-tarask: тэрмагалінная цыркуляцыя
+    be_tarask: тэрмагалінная цыркуляцыя
     ca: circulació termohalina
     cs: termohalinní výměník
     da: Den termohaline cirkulation
@@ -123,8 +123,8 @@ dv_has_:
     sh: Termohalinska pokretna traka
     sl: termohalinska cirkulacija
     sr: Термохалинска покретна трака
-    sr-ec: Термохалинска покретна трака
-    sr-el: Termohalinska pokretna traka
+    sr_ec: Термохалинска покретна трака
+    sr_el: Termohalinska pokretna traka
     sv: termohalin cirkulation
     tr: Termohalin Döngü
     uk: термохалінна циркуляція
@@ -132,12 +132,12 @@ dv_has_:
     wuu: 温盐环流
     yue: 深海洋流
     zh: 溫鹽環流
-    zh-cn: 温盐环流
-    zh-hans: 温盐环流
-    zh-hant: 溫鹽環流
-    zh-hk: 溫鹽環流
-    zh-sg: 温盐环流
-    zh-tw: 溫鹽環流
+    zh_cn: 温盐环流
+    zh_hans: 温盐环流
+    zh_hant: 溫鹽環流
+    zh_hk: 溫鹽環流
+    zh_sg: 温盐环流
+    zh_tw: 溫鹽環流
 ---
 # [[Thermohaline_Circulation]] 
 

@@ -30,16 +30,16 @@ dv_has_:
     pt: distribuição de renda
     ru: распределение доходов
     sr: расподела прихода
-    sr-ec: расподела прихода
-    sr-el: raspodela prihoda
+    sr_ec: расподела прихода
+    sr_el: raspodela prihoda
     sv: Lönespridning
     th: การกระจายรายได้
     tr: Gelir dağılımı
     vi: Phân phối thu nhập
     zh: 收入分配
-    zh-hans: 收入分配
-    zh-hant: 收入分配
-    zh-hk: 收入分配
+    zh_hans: 收入分配
+    zh_hant: 收入分配
+    zh_hk: 收入分配
 aliases:
 - distribució de la renda
 - Distribución de la renta

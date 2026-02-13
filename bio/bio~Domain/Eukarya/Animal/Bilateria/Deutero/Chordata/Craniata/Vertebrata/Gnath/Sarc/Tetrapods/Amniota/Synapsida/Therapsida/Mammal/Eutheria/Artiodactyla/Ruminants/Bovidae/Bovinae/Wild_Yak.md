@@ -120,7 +120,7 @@ dv_has_:
     av: Як
     az: Yak
     be: Як
-    be-tarask: як звычайны
+    be_tarask: як звычайны
     bg: див як
     bn: yak
     bo: གཡག
@@ -131,12 +131,12 @@ dv_has_:
     cy: Yak
     da: yakokse
     de: Yak
-    de-ch: Yak
+    de_ch: Yak
     diq: Naxırê Tibeti
     el: Βους ο βουβός
     en: Bos mutus
-    en-ca: Yak
-    en-gb: yak
+    en_ca: Yak
+    en_gb: yak
     eo: Gruntbovo
     es: Bos mutus
     et: Jakk
@@ -188,7 +188,7 @@ dv_has_:
     pl: jak zwyczajny
     pnb: یاک
     pt: Iaque
-    pt-br: Iaque
+    pt_br: Iaque
     ro: Iac
     ru: Як
     sah: Як
@@ -215,9 +215,9 @@ dv_has_:
     wuu: 野牦牛
     yue: 野氂牛
     zh: 野牦牛
-    zh-cn: 野牦牛
-    zh-hans: 牦牛
-    zh-tw: 野牦牛
+    zh_cn: 野牦牛
+    zh_hans: 牦牛
+    zh_tw: 野牦牛
 ---
 # [[Wild_Yak]] 
 

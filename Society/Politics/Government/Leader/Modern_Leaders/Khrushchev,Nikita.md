@@ -225,7 +225,7 @@ dv_has_:
     ban: Nikita Khrushchev
     bcl: Nikita Khrushchev
     be: Мікіта Сяргеевіч Хрушчоў
-    be-tarask: Мікіта Хрушчоў
+    be_tarask: Мікіта Хрушчоў
     bg: Никита Хрушчов
     bn: নিকিতা খ্রুশ্চেভ
     br: Nikita C'hrouchtchov
@@ -310,7 +310,7 @@ dv_has_:
     pnb: نکیتا خروشیف
     ps: نيکيتا خروشچيف
     pt: Nikita Khrushchov
-    pt-br: Nikita Khrushchov
+    pt_br: Nikita Khrushchov
     qu: Nikita Kruschev
     ro: Nikita Hrușciov
     ru: Никита Сергеевич Хрущёв
@@ -345,11 +345,11 @@ dv_has_:
     yo: Nikita Khrushchev
     yue: 赫魯曉夫
     zh: 尼基塔·赫鲁晓夫
-    zh-cn: 尼基塔·赫鲁晓夫
-    zh-hans: 尼基塔·赫鲁晓夫
-    zh-hant: 尼基塔·赫魯雪夫
-    zh-hk: 尼基塔·赫魯雪夫
-    zh-tw: 尼基塔·赫魯雪夫
+    zh_cn: 尼基塔·赫鲁晓夫
+    zh_hans: 尼基塔·赫鲁晓夫
+    zh_hant: 尼基塔·赫魯雪夫
+    zh_hk: 尼基塔·赫魯雪夫
+    zh_tw: 尼基塔·赫魯雪夫
 ---
 # [[Khrushchev,Nikita]] 
 

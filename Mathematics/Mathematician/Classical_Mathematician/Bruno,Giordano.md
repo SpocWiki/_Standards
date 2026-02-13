@@ -156,7 +156,7 @@ dv_has_:
     azb: جوردانو برونو
     ba: Джордано Бруно
     be: Джардана Бруна
-    be-tarask: Джардана Бруна
+    be_tarask: Джардана Бруна
     bg: Джордано Бруно
     bn: জর্দানো ব্রুনো
     br: Giordano Bruno
@@ -228,7 +228,7 @@ dv_has_:
     pl: Giordano Bruno
     ps: ګيورډانو برونو
     pt: Giordano Bruno
-    pt-br: Giordano Bruno
+    pt_br: Giordano Bruno
     ro: Giordano Bruno
     ru: Джордано Бруно
     sah: Джордано Бруно
@@ -261,7 +261,7 @@ dv_has_:
     yo: Giordano Bruno
     yue: 布魯諾
     zh: 焦爾達諾·布魯諾
-    zh-hk: 佐丹奴·布魯諾
+    zh_hk: 佐丹奴·布魯諾
 ---
 # [[Bruno,Giordano]] 
 

@@ -84,7 +84,7 @@ dv_has_:
     af: stervorming
     ar: ولادة النجوم
     ast: formación estelar
-    be-tarask: зоркаўтварэньне
+    be_tarask: зоркаўтварэньне
     bg: звездообразуване
     bn: তারা গঠন
     bs: formiranje zvijezda
@@ -94,8 +94,8 @@ dv_has_:
     de: Sternentstehung
     el: σχηματισμός αστέρων
     en: star formation
-    en-ca: star formation
-    en-gb: star formation
+    en_ca: star formation
+    en_gb: star formation
     eo: stelformado
     es: formación estelar
     et: täheteke
@@ -124,7 +124,7 @@ dv_has_:
     pl: powstawanie gwiazd
     pnb: تارا بنن دا عمل
     pt: formação estelar
-    pt-br: formação estelar
+    pt_br: formação estelar
     ro: apariția stelelor
     ru: формирование звезды
     sk: vznik hviezdy

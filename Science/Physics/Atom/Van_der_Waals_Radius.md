@@ -57,7 +57,7 @@ dv_has_:
     an: Radio de van der Waals
     ar: نصف قطر فان دير فالس
     ast: Radiu de van der Waals
-    be-tarask: радыюс ван дэр Ваальса
+    be_tarask: радыюс ван дэр Ваальса
     bg: Радиус на Ван дер Ваалс
     bn: ভ্যান ডার ওয়ালস ব্যাসার্ধ
     bs: Van der Waalsov radijus
@@ -66,8 +66,8 @@ dv_has_:
     da: Van der Waals-radius
     de: Van-der-Waals-Radius
     en: van der Waals radius
-    en-ca: Van der Waals radius
-    en-gb: Van der Waals radius
+    en_ca: Van der Waals radius
+    en_gb: Van der Waals radius
     eo: radiuso de van der Waals
     es: Radio de Van der Waals
     eu: Van der Waalsen erradio
@@ -89,7 +89,7 @@ dv_has_:
     oc: Rai de van der Waals
     pl: promień van der Waalsa
     pt: Raio de Van der Waals
-    pt-br: Raio de Van der Waals
+    pt_br: Raio de Van der Waals
     ro: Rază van der Waals
     ru: Радиус Ван-дер-Ваальса
     sa: वान् देर् वाल्स् त्रिजीवा
@@ -99,7 +99,7 @@ dv_has_:
     sl: Van der Waalsov polmer
     smn: Van der Waals suonjâr
     sr: Ван дер Валсов радијус
-    sr-ec: Ван дер Валсов радијус
+    sr_ec: Ван дер Валсов радијус
     sv: Van der Waalsradie
     ta: வாண்டெர்வால்சு ஆரம்
     th: รัศมีวานเดอร์วาลส์

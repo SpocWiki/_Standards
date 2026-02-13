@@ -75,7 +75,7 @@ dv_has_:
     az: Playboy
     azb: پلئیبوی
     be: Playboy
-    be-tarask: Playboy
+    be_tarask: Playboy
     bg: Плейбой
     bn: প্লেবয়
     br: Playboy
@@ -125,7 +125,7 @@ dv_has_:
     nl: Playboy
     pl: Playboy
     pt: Playboy
-    pt-br: Playboy
+    pt_br: Playboy
     ro: Playboy
     ru: Playboy
     sh: Playboy
@@ -133,8 +133,8 @@ dv_has_:
     sl: Playboy
     so: Playboy
     sr: Плејбој
-    sr-ec: Плејбој
-    sr-el: Plejboj
+    sr_ec: Плејбој
+    sr_el: Plejboj
     sv: Playboy
     sw: Playboy
     ta: பிளேபோய்
@@ -149,12 +149,12 @@ dv_has_:
     xmf: ფლეიბოი
     yue: Playboy雜誌
     zh: 花花公子
-    zh-cn: 花花公子
-    zh-hans: 花花公子
-    zh-hant: 花花公子
-    zh-hk: 花花公子
-    zh-sg: 花花公子
-    zh-tw: 花花公子
+    zh_cn: 花花公子
+    zh_hans: 花花公子
+    zh_hant: 花花公子
+    zh_hk: 花花公子
+    zh_sg: 花花公子
+    zh_tw: 花花公子
 ---
 # [[Playboy(Magazine)]] 
 

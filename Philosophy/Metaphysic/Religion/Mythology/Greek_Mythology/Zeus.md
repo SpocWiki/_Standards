@@ -393,7 +393,7 @@ dv_has_:
     ban: Zéus
     bar: Zeus
     be: Зеўс
-    be-tarask: Зэўс
+    be_tarask: Зэўс
     bg: Зевс
     bho: ज़िअस
     bn: জিউস
@@ -447,7 +447,7 @@ dv_has_:
     ko: 제우스
     ks: زیٛوٗس
     ku: Zeus
-    ku-latn: Zeus
+    ku_latn: Zeus
     ky: Зевс
     la: Zeus
     lb: Zeus
@@ -516,9 +516,9 @@ dv_has_:
     yo: Zeus
     yue: 宙斯
     zh: 宙斯
-    zh-hant: 宙斯
-    zh-hk: 宙斯
-    zh-tw: 宙斯
+    zh_hant: 宙斯
+    zh_hk: 宙斯
+    zh_tw: 宙斯
 ---
 # [[Zeus]] 
 

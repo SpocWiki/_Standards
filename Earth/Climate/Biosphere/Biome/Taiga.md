@@ -91,7 +91,7 @@ dv_has_:
     ast: Taiga
     az: Tayqa
     be: тайга
-    be-tarask: тайга
+    be_tarask: тайга
     bg: Тайга
     bn: তৈগা
     bs: Tajga
@@ -104,8 +104,8 @@ dv_has_:
     de: Borealer Nadelwald
     el: Τάιγκα
     en: taiga
-    en-ca: boreal forest
-    en-gb: taiga
+    en_ca: boreal forest
+    en_gb: taiga
     eo: Tajgo
     es: taiga
     et: Taiga

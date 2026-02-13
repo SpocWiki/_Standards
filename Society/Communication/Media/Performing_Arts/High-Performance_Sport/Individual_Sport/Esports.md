@@ -89,7 +89,7 @@ dv_has_:
     ast: deportes electrónicos
     az: Kiberidman
     be: кіберспорт
-    be-tarask: кібэрспорт
+    be_tarask: кібэрспорт
     bg: Киберспорт
     bn: ইস্পোর্টস
     br: esportoù
@@ -100,8 +100,8 @@ dv_has_:
     da: E-sport
     de: E-Sport
     en: esports
-    en-ca: Electronic sports
-    en-gb: esports
+    en_ca: Electronic sports
+    en_gb: esports
     eo: elektronika sporto
     es: deporte electrónico
     et: elektrooniline sport
@@ -131,12 +131,12 @@ dv_has_:
     ms: sukan-e
     my: အီလက်ထရွန်းနစ် အားကစား
     nb: e-sport
-    nds-nl: Esport
+    nds_nl: Esport
     nl: elektronische sport
     nn: e-sport
     pl: sport elektroniczny
     pt: desporto eletrónico
-    pt-br: esporte eletrônico
+    pt_br: esporte eletrônico
     ro: esports
     ru: киберспорт
     se: e-valáštallan
@@ -158,12 +158,12 @@ dv_has_:
     wuu: 电子竞技
     yue: 電子競技
     zh: 电子竞技
-    zh-cn: 电子竞技
-    zh-hans: 电子竞技
-    zh-hant: 電子競技
-    zh-hk: 電子競技
-    zh-sg: 电子竞技
-    zh-tw: 電子競技
+    zh_cn: 电子竞技
+    zh_hans: 电子竞技
+    zh_hant: 電子競技
+    zh_hk: 電子競技
+    zh_sg: 电子竞技
+    zh_tw: 電子競技
 ---
 # [[Esports]] 
 

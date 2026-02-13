@@ -193,7 +193,7 @@ dv_has_:
     ban: Alan Turing
     bcl: Alan Turing
     be: Алан Матысан Цьюрынг
-    be-tarask: Алан Т’юрынг
+    be_tarask: Алан Т’юрынг
     bg: Алън Тюринг
     bho: एलन ट्यूरिंग
     bn: অ্যালান টুরিং
@@ -211,13 +211,13 @@ dv_has_:
     cy: Alan Turing
     da: Alan Turing
     de: Alan Turing
-    de-ch: Alan Turing
+    de_ch: Alan Turing
     diq: Alan Turing
     ee: Alan Turing ye nye esia
     el: Άλαν Τούρινγκ
     en: Alan Turing
-    en-ca: Alan Turing
-    en-gb: Alan Turing
+    en_ca: Alan Turing
+    en_gb: Alan Turing
     eo: Alan Turing
     es: Alan Turing
     et: Alan Turing
@@ -305,7 +305,7 @@ dv_has_:
     pnb: الان ٹورنگ
     ps: آلن ټورینګ
     pt: Alan Turing
-    pt-br: Alan Turing
+    pt_br: Alan Turing
     ro: Alan Turing
     ru: Алан Тьюринг
     rue: Алан Тюрінґ
@@ -322,7 +322,7 @@ dv_has_:
     sl: Alan Turing
     sq: Alan Turing
     sr: Алан Тјуринг
-    sr-ec: Алан Тјуринг
+    sr_ec: Алан Тјуринг
     sv: Alan Turing
     sw: Alan Turing
     ta: அலன் டூரிங்
@@ -346,11 +346,11 @@ dv_has_:
     yo: Alan Turing
     yue: 圖靈
     zh: 艾倫·圖靈
-    zh-cn: 艾伦·图灵
-    zh-hans: 艾伦·图灵
-    zh-hant: 艾倫·圖靈
-    zh-hk: 艾倫圖靈
-    zh-tw: 艾倫·圖靈
+    zh_cn: 艾伦·图灵
+    zh_hans: 艾伦·图灵
+    zh_hant: 艾倫·圖靈
+    zh_hk: 艾倫圖靈
+    zh_tw: 艾倫·圖靈
 ---
 # [[Turing,Alan]] 
 

@@ -60,12 +60,12 @@ dv_has_:
     uk: Діетиленгліколь
     yue: 二甘醇
     zh: 二甘醇
-    zh-cn: 二甘醇
-    zh-hans: 二甘醇
-    zh-hant: 二甘醇
-    zh-hk: 二甘醇
-    zh-sg: 二甘醇
-    zh-tw: 二甘醇
+    zh_cn: 二甘醇
+    zh_hans: 二甘醇
+    zh_hant: 二甘醇
+    zh_hk: 二甘醇
+    zh_sg: 二甘醇
+    zh_tw: 二甘醇
   time: 1985-06-01T00:00:00.000+02:00
 dv_is_:
   same_as:

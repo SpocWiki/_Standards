@@ -88,7 +88,7 @@ dv_has_:
     cs: magnetická indukce
     cv: магнитла индукци
     de: magnetische Flussdichte
-    de-ch: magnetische Flussdichte
+    de_ch: magnetische Flussdichte
     en: magnetic flux density
     eo: magneta fluksdenso
     es: inducción magnética
@@ -116,7 +116,7 @@ dv_has_:
     nn: magnetisk flukstettleik
     pl: indukcja magnetyczna
     pt: densidade do fluxo magnético
-    pt-br: densidade do fluxo magnético
+    pt_br: densidade do fluxo magnético
     ro: inducție magnetică
     ru: магнитная индукция
     sk: magnetická indukcia
@@ -128,7 +128,7 @@ dv_has_:
     uz: magnit induksiya
     wuu: 磁感应强度
     zh: 磁感应强度
-    zh-hant: 磁感應強度
+    zh_hant: 磁感應強度
 ---
 # [[Dim~Magnetic_Flux_Density_B]] 
 

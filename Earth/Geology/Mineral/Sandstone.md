@@ -142,7 +142,7 @@ dv_has_:
     ba: ҡомташ
     bar: Sandstoa
     be: пясчанік
-    be-tarask: пяшчанік
+    be_tarask: пяшчанік
     bg: Пясъчник
     bn: বেলেপাথর
     ca: gres
@@ -155,8 +155,8 @@ dv_has_:
     de: Sandstein
     el: ψαμμίτης
     en: sandstone
-    en-ca: sandstone
-    en-gb: sandstone
+    en_ca: sandstone
+    en_gb: sandstone
     eo: grejso
     es: arenisca
     et: liivakivi
@@ -204,7 +204,7 @@ dv_has_:
     pl: piaskowiec
     pnb: ریتلا پتھر
     pt: arenito
-    pt-br: arenito
+    pt_br: arenito
     ro: Gresie
     ru: песчаник
     se: sáttogeađgi
@@ -214,8 +214,8 @@ dv_has_:
     sl: peščenjak
     smn: čunoikeđgi
     sr: пешчар
-    sr-ec: пешчар
-    sr-el: peščar
+    sr_ec: пешчар
+    sr_el: peščar
     sv: sandsten
     sw: Jiwe mchanga
     ta: மணற்கல்
@@ -232,10 +232,10 @@ dv_has_:
     wuu: 砂岩
     yue: 砂岩
     zh: 砂岩
-    zh-cn: 沙岩
-    zh-hans: 沙岩
-    zh-hant: 砂岩
-    zh-tw: 砂岩
+    zh_cn: 沙岩
+    zh_hans: 沙岩
+    zh_hant: 砂岩
+    zh_tw: 砂岩
 ---
 # [[Sandstone]] 
 

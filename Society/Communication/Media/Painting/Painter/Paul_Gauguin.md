@@ -357,7 +357,7 @@ dv_has_:
     ba: Поль Гоген
     ban: Paul Gauguin
     be: Поль Гаген
-    be-tarask: Поль Гаген
+    be_tarask: Поль Гаген
     bg: Пол Гоген
     bn: পল গোগাঁ
     bo: པོལ.ཀའོ་ཀེང་།
@@ -418,7 +418,7 @@ dv_has_:
     nan: Paul Gauguin
     nb: Paul Gauguin
     nds: Paul Gauguin
-    nds-nl: Paul Gauguin
+    nds_nl: Paul Gauguin
     ne: पल गोगे
     nl: Paul Gauguin
     nn: Paul Gauguin
@@ -431,7 +431,7 @@ dv_has_:
     pms: Paul Gauguin
     pnb: پال گاؤگوئن
     pt: Paul Gauguin
-    pt-br: Paul Gauguin
+    pt_br: Paul Gauguin
     qu: Paul Gauguin
     ro: Paul Gauguin
     ru: Поль Гоген
@@ -443,7 +443,7 @@ dv_has_:
     sl: Paul Gauguin
     sq: Paul Gaugin
     sr: Пол Гоген
-    sr-ec: Пол Гоген
+    sr_ec: Пол Гоген
     stq: Paul Gauguin
     sv: Paul Gauguin
     tg: Пол Гоген

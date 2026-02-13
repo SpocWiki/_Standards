@@ -50,7 +50,7 @@ dv_has_:
     ast: Archosauria
     az: Arxozavrlar
     be: архазаўры
-    be-tarask: архазаўр
+    be_tarask: архазаўр
     bg: архозаври
     br: Archosauria
     ca: arcosaures
@@ -79,11 +79,11 @@ dv_has_:
     ja: 主竜類
     ka: არქოზავრები
     kk: Архозаврлар
-    kk-arab: ارحوزاۆرلار
+    kk_arab: ارحوزاۆرلار
     kk-cn: ارحوزاۆرلار
-    kk-cyrl: Архозаврлар
+    kk_cyrl: Архозаврлар
     kk-kz: Архозаврлар
-    kk-latn: Arxozavrlar
+    kk_latn: Arxozavrlar
     kk-tr: Arxozavrlar
     ko: 조룡류
     ky: Архозавралар
@@ -108,8 +108,8 @@ dv_has_:
     sl: Archosauria
     sq: Archosauria
     sr: Archosauria
-    sr-ec: Арцхосауриа
-    sr-el: Archosauria
+    sr_ec: Арцхосауриа
+    sr_el: Archosauria
     sv: Härskarödlor
     th: อาร์โคซอร์
     tl: Archosauria
@@ -120,12 +120,12 @@ dv_has_:
     war: Arkosauro
     wuu: 主龙类
     zh: 主龙类
-    zh-cn: 主龙类
-    zh-hans: 主龙类
-    zh-hant: 主龍類
-    zh-hk: 主龍類
-    zh-sg: 主龙类
-    zh-tw: 主龍類
+    zh_cn: 主龙类
+    zh_hans: 主龙类
+    zh_hant: 主龍類
+    zh_hk: 主龍類
+    zh_sg: 主龙类
+    zh_tw: 主龍類
 ---
 # [[Archosauria]] 
 

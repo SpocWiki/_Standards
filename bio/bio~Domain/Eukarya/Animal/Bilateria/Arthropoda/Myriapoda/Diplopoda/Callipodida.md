@@ -33,7 +33,7 @@ dv_has_:
     oc: Callipodida
     pl: Callipodida
     pt: Callipodida
-    pt-br: Callipodida
+    pt_br: Callipodida
     ro: Callipodida
     ru: Callipodida
     sq: Callipodida
@@ -44,9 +44,9 @@ dv_has_:
     vo: Callipodida
     war: Callipodida
     zh: 美肢马陆目
-    zh-cn: 美肢马陆目
-    zh-hans: 美肢马陆目
-    zh-tw: 狹馬陸目
+    zh_cn: 美肢马陆目
+    zh_hans: 美肢马陆目
+    zh_tw: 狹馬陸目
 ---
 # [[Callipodida]] 
 

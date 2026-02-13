@@ -48,9 +48,9 @@ dv_has_:
     vi: Glomerida
     war: Glomerida
     zh: 球马陆目
-    zh-cn: 球马陆目
-    zh-hans: 球马陆目
-    zh-tw: 球馬陆目
+    zh_cn: 球马陆目
+    zh_hans: 球马陆目
+    zh_tw: 球馬陆目
 ---
 # [[Glomerida]] 
 

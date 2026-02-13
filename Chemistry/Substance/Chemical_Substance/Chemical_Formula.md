@@ -128,7 +128,7 @@ dv_has_:
     ast: fórmula química
     az: kimyəvi formul
     be: хімічная формула
-    be-tarask: хімічная формула
+    be_tarask: хімічная формула
     bg: химична формула
     blk: ဓာတုဗေဒ ဖော်မျူလာ
     bn: রাসায়নিক সংকেত
@@ -144,8 +144,8 @@ dv_has_:
     de: chemische Formel
     el: χημικός τύπος
     en: chemical formula
-    en-ca: chemical formula
-    en-gb: chemical formula
+    en_ca: chemical formula
+    en_gb: chemical formula
     eo: ĥemia formulo
     es: fórmula química
     et: keemiline valem
@@ -188,7 +188,7 @@ dv_has_:
     mn: Химийн томьёо
     mr: रासायनिक सूत्र
     ms: formula kimia
-    ms-arab: فورمولا کيميا
+    ms_arab: فورمولا کيميا
     my: ဓာတုဗေဒ ဖော်မျူလာ
     nan: hòa-ha̍k-sek
     nb: kjemisk formel
@@ -201,7 +201,7 @@ dv_has_:
     pl: wzór chemiczny
     pnb: کیمیائی فارمولا
     pt: fórmula química
-    pt-br: fórmula molecular
+    pt_br: fórmula molecular
     ro: formulă chimică
     ru: химическая формула
     sah: химия формулата
@@ -213,7 +213,7 @@ dv_has_:
     sl: kemijska formula
     sq: Formula kimike
     sr: хемијска формула
-    sr-ec: хемијска формула
+    sr_ec: хемијска формула
     stq: chemiske Formel
     sv: kemisk formel
     ta: மூலக்கூறு வாய்பாடு
@@ -231,8 +231,8 @@ dv_has_:
     wuu: 化学式
     yue: 化學式
     zh: 化学式
-    zh-hans: 化学式
-    zh-hant: 化學式
+    zh_hans: 化学式
+    zh_hant: 化學式
 ---
 # [[Chemical_Formula]] 
 

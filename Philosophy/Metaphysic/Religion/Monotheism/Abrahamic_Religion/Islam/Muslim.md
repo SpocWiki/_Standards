@@ -218,7 +218,7 @@ dv_has_:
     ba: Мосолмандар
     bcl: Muslim
     be: мусульмане
-    be-tarask: мусульмане
+    be_tarask: мусульмане
     bg: Мюсюлманин
     bn: মুসলিম
     bo: ཡེ་ཟི་ལམ་ཆོས་ལུགས།
@@ -275,7 +275,7 @@ dv_has_:
     ko: 무슬림
     ks: مُسلمان
     ku: misilman
-    ku-latn: misilman
+    ku_latn: misilman
     ky: Мусулман
     la: Musulmanus
     lb: Moslem
@@ -326,7 +326,7 @@ dv_has_:
     so: Muslim
     sq: Myslimani
     sr: муслимани
-    sr-ec: Муслимани
+    sr_ec: Муслимани
     sv: muslim
     sw: Mwislamu
     syl: ꠝꠥꠍꠟꠝꠣꠘ
@@ -340,7 +340,7 @@ dv_has_:
     tl: Muslim
     tr: Müslüman
     tt: Мөселман
-    tt-cyrl: Мөселман
+    tt_cyrl: Мөселман
     tw: Nkramoni
     ug: مۇسۇلمان
     uk: мусульмани
@@ -355,7 +355,7 @@ dv_has_:
     yue: 伊斯蘭教徒
     zgh: ⴰⵎⵓⵙⵍⵎ
     zh: 穆斯林
-    zh-hant: 穆斯林
+    zh_hant: 穆斯林
     zu: Amasulumane
 ---
 # [[Muslim]] 

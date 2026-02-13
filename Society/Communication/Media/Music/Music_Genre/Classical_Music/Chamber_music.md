@@ -100,7 +100,7 @@ dv_has_:
     az: kamera musiqisi
     ba: камера музыкаһы
     be: камерная музыка
-    be-tarask: камэрная музыка
+    be_tarask: камэрная музыка
     bg: Камерна музика
     bn: কামরা সঙ্গীত (পাশ্চাত্য ধ্রুপদী)
     ca: música de cambra
@@ -111,11 +111,11 @@ dv_has_:
     cy: cerddoriaeth siambr
     da: kammermusik
     de: Kammermusik
-    de-ch: Kammermusik
+    de_ch: Kammermusik
     el: μουσική δωματίου
     en: chamber music
-    en-ca: Chamber music
-    en-gb: chamber music
+    en_ca: Chamber music
+    en_gb: chamber music
     eo: ĉambra muziko
     es: música de cámara
     et: kammermuusika
@@ -154,7 +154,7 @@ dv_has_:
     os: камерон музыкæ
     pl: muzyka kameralna
     pt: música de câmara
-    pt-br: Música de câmara
+    pt_br: Música de câmara
     rmf: duitujako musikes
     ro: muzică de cameră
     ru: камерная музыка
@@ -166,10 +166,10 @@ dv_has_:
     sl: komorna glasba
     smn: káámmármuusik
     sr: камерна музика
-    sr-ec: камерна музика
+    sr_ec: камерна музика
     sv: kammarmusik
     tg: Мусиқии камеравӣ
-    tg-latn: Musiqiji kameravī
+    tg_latn: Musiqiji kameravī
     th: ดนตรีเชมเบอร์
     tl: Tugtuging pangkamara
     tr: oda müziği
@@ -180,12 +180,12 @@ dv_has_:
     wuu: 室内乐
     yue: 室樂
     zh: 室内乐
-    zh-cn: 室内乐
-    zh-hans: 室内乐
-    zh-hant: 室內樂
-    zh-hk: 室內樂
-    zh-sg: 室内乐
-    zh-tw: 室內樂
+    zh_cn: 室内乐
+    zh_hans: 室内乐
+    zh_hant: 室內樂
+    zh_hk: 室內樂
+    zh_sg: 室内乐
+    zh_tw: 室內樂
 ---
 # [[Chamber_music]] 
 

@@ -105,7 +105,7 @@ dv_has_:
     ast: educación primaria
     az: ibtidai təhsil
     ba: Башланғыс белем
-    be-tarask: пачатковая адукацыя
+    be_tarask: пачатковая адукацыя
     bg: основно образование
     bn: প্রাথমিক শিক্ষা
     ca: educació primària
@@ -151,7 +151,7 @@ dv_has_:
     pa: ਮੁੱਢਲੀ ਸਿੱਖਿਆ
     pl: wykształcenie podstawowe
     pt: ensino primário
-    pt-br: educação primária
+    pt_br: educação primária
     ro: școală primară
     ru: начальное образование
     se: vuođđoskuvla
@@ -161,8 +161,8 @@ dv_has_:
     sms: vuâđđškooul
     sq: arsim fillor
     sr: основно образовање
-    sr-ec: основно образовање
-    sr-el: osnovno obrazovanje
+    sr_ec: основно образовање
+    sr_el: osnovno obrazovanje
     sv: primärutbildning
     ta: தொடக்கக் கல்வி
     te: ప్రాథమిక విద్య
@@ -170,7 +170,7 @@ dv_has_:
     tl: Edukasyong elementarya
     tr: İlköğretim
     tt: башлангыч белем
-    tt-cyrl: башлангыч белем
+    tt_cyrl: башлангыч белем
     uk: початкова освіта
     ur: ابتدائی تعلیم
     uz: boshlangʻich taʼlim
@@ -179,14 +179,14 @@ dv_has_:
     wuu: 初等教育
     yue: 小學教育
     zh: 小學教育
-    zh-cn: 小学教育
-    zh-hans: 小学教育
-    zh-hant: 小學教育
-    zh-hk: 小學教育
-    zh-mo: 小學教育
+    zh_cn: 小学教育
+    zh_hans: 小学教育
+    zh_hant: 小學教育
+    zh_hk: 小學教育
+    zh_mo: 小學教育
     zh-my: 小学教育
-    zh-sg: 小学教育
-    zh-tw: 小學教育
+    zh_sg: 小学教育
+    zh_tw: 小學教育
 ---
 # [[Primary_Education]] 
 

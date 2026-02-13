@@ -89,7 +89,7 @@ dv_has_:
     azb: یونقانادلار
     ba: тиреғанаттар
     be: Шэрстакрылы
-    be-tarask: Шэрстакрылавыя
+    be_tarask: Шэрстакрылавыя
     bg: кожокрили
     br: Kolougo
     ca: Lèmur volador
@@ -100,8 +100,8 @@ dv_has_:
     de: Riesengleiter
     el: Δερμόπτερα
     en: Dermoptera
-    en-ca: colugo
-    en-gb: colugo
+    en_ca: colugo
+    en_gb: colugo
     eo: dermoptero
     es: Dermoptera
     et: karustiivalised
@@ -146,7 +146,7 @@ dv_has_:
     oc: Dermoptera
     pl: Skóroskrzydłe
     pt: Dermoptera
-    pt-br: Colugos
+    pt_br: Colugos
     ro: Dermoptera
     ru: шерстокрылы
     sh: Dermoptera
@@ -167,12 +167,12 @@ dv_has_:
     wuu: 皮翼目
     yue: 皮翼目
     zh: 皮翼目
-    zh-cn: 皮翼目
-    zh-hans: 皮翼目
-    zh-hant: 皮翼目
-    zh-hk: 皮翼目
-    zh-sg: 皮翼目
-    zh-tw: 皮翼目
+    zh_cn: 皮翼目
+    zh_hans: 皮翼目
+    zh_hant: 皮翼目
+    zh_hk: 皮翼目
+    zh_sg: 皮翼目
+    zh_tw: 皮翼目
 ---
 # Dermoptera
 

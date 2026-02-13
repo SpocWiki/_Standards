@@ -339,7 +339,7 @@ dv_has_:
     bar: Latein
     bcl: Tataramon na Latin
     be: лацінская мова
-    be-tarask: лацінская мова
+    be_tarask: лацінская мова
     bg: латински език
     bho: लैटिन
     bm: Latin
@@ -351,7 +351,7 @@ dv_has_:
     btm: Saro Latin
     bxr: Латин хэлэн
     ca: llatí
-    cbk-zam: Lengua Latin
+    cbk_zam: Lengua Latin
     cdo: Lá-dĭng-ngṳ̄
     ce: Латинан мотт
     ceb: Linatin
@@ -359,7 +359,7 @@ dv_has_:
     ckb: زمانی لاتینی
     co: latinu
     crh: Latin tili
-    crh-latn: Latin tili
+    crh_latn: Latin tili
     crh-ro: látinğe
     cs: latina
     csb: łacëzna
@@ -374,8 +374,8 @@ dv_has_:
     el: Λατινικά
     eml: Latèin
     en: Latin
-    en-ca: Latin
-    en-gb: Latin
+    en_ca: Latin
+    en_gb: Latin
     eo: latina lingvo
     es: latín
     et: ladina keel
@@ -442,7 +442,7 @@ dv_has_:
     ks: لٲطِن زَبان
     ksh: Latting
     ku: zimanê latînî
-    ku-latn: zimanê latînî
+    ku_latn: zimanê latînî
     kv: Латин кыв
     kw: Latin
     ky: Латын тили
@@ -475,7 +475,7 @@ dv_has_:
     mr: लॅटिन भाषा
     mrj: Латин йӹлмӹ
     ms: bahasa Latin
-    ms-arab: بهاس لاتين
+    ms_arab: بهاس لاتين
     mt: Latin
     mwl: Lhéngua lhatina
     my: လက်တင်ဘာသာစကား
@@ -487,7 +487,7 @@ dv_has_:
     nap: Lengua latina
     nb: latin
     nds: Latiensche Spraak
-    nds-nl: Latien
+    nds_nl: Latien
     ne: ल्याटिन
     new: ल्याटिन भाषा
     nl: Latijn
@@ -511,7 +511,7 @@ dv_has_:
     pnb: لاطینی
     ps: لاتيني ژبه
     pt: latim
-    pt-br: latim
+    pt_br: latim
     qu: Latin simi
     rm: Latin
     ro: limba latină
@@ -555,7 +555,7 @@ dv_has_:
     tpi: Tok Latin
     tr: Latince
     tt: латин теле
-    tt-cyrl: латин теле
+    tt_cyrl: латин теле
     tyv: Латин дыл
     udm: латин кыл
     ug: لاتىن تىلى
@@ -580,11 +580,11 @@ dv_has_:
     zea: Latijn
     zgh: ⵜⵓⵜⵍⴰⵢⵜ ⵜⴰⵍⴰⵜⵉⵏⵜ
     zh: 拉丁語
-    zh-cn: 拉丁语
-    zh-hans: 拉丁语
-    zh-hant: 拉丁語
-    zh-hk: 拉丁語
-    zh-tw: 拉丁語
+    zh_cn: 拉丁语
+    zh_hans: 拉丁语
+    zh_hant: 拉丁語
+    zh_hk: 拉丁語
+    zh_tw: 拉丁語
     zu: ILatin
 ---
 # [[Lang-Latin]]

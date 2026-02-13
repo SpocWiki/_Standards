@@ -19,7 +19,7 @@ dv_has_:
     ab: Австриа
     ace: Austria
     ady: Аустрие
-    aeb-arab: النمسا
+    aeb_arab: النمسا
     af: Oostenryk
     am: ኦስትሪያ
     ami: Austria
@@ -43,7 +43,7 @@ dv_has_:
     bar: Östareich
     bcl: Austriya
     be: Аўстрыя
-    be-tarask: Аўстрыя
+    be_tarask: Аўстрыя
     bew: Ostenrèk
     bg: Австрия
     bgn: اتریش
@@ -58,7 +58,7 @@ dv_has_:
     bug: Austria
     bxr: Австри
     ca: Àustria
-    cbk-zam: Austria
+    cbk_zam: Austria
     cdo: Ó̤-dê-lé
     ce: Австри
     ceb: Awstriya
@@ -68,7 +68,7 @@ dv_has_:
     ckb: نەمسا
     co: Austria
     crh: Avstriya
-    crh-latn: Avstriya
+    crh_latn: Avstriya
     cs: Rakousko
     csb: Aùstrëjackô
     cu: Аѵстрїꙗ
@@ -78,7 +78,7 @@ dv_has_:
     dag: Austria
     de: Österreich
     de-at: Österreich
-    de-ch: Österreich
+    de_ch: Österreich
     diq: Awıstırya
     dsb: Awstriska
     dty: अष्ट्रिया
@@ -88,8 +88,8 @@ dv_has_:
     el: Αυστρία
     eml: Àustria
     en: Austria
-    en-ca: Austria
-    en-gb: Austria
+    en_ca: Austria
+    en_gb: Austria
     en-us: Austria
     eo: Aŭstrio
     es: Austria
@@ -115,7 +115,7 @@ dv_has_:
     gn: Áuteria
     gom: ऑस्ट्रिया
     gom-deva: ऑस्ट्रिया
-    gom-latn: Austria
+    gom_latn: Austria
     got: "\U00010330\U0001033F\U00010343\U00010344\U00010342\U00010330\U00010342\U00010334\U00010339\U0001033A\U00010339"
     gpe: Austria
     grc: Αὐστρία
@@ -193,7 +193,7 @@ dv_has_:
     lzh: 奧地利
     mad: Austria
     mai: ऑस्ट्रिया
-    map-bms: Austria
+    map_bms: Austria
     mdf: Австрия
     mg: Aotrisy
     mhr: Австрий
@@ -219,7 +219,7 @@ dv_has_:
     nap: Austria
     nb: Østerrike
     nds: Öösterriek
-    nds-nl: Oostnriek
+    nds_nl: Oostnriek
     ne: अस्ट्रिया
     new: अष्ट्रिया
     nl: Oostenrijk
@@ -250,7 +250,7 @@ dv_has_:
     pnt: Αυστρία
     ps: اتريش
     pt: Áustria
-    pt-br: Áustria
+    pt_br: Áustria
     qu: Awstiriya
     rm: Austria
     rmy: Austriya
@@ -285,8 +285,8 @@ dv_has_:
     so: Austriya
     sq: Austria
     sr: Аустрија
-    sr-ec: Аустрија
-    sr-el: Austrija
+    sr_ec: Аустрија
+    sr_el: Austrija
     srn: Ostriyakondre
     ss: IYosithiya
     st: Austria
@@ -340,14 +340,14 @@ dv_has_:
     zea: Oesteriek
     zgh: ⵓⵜⵔⵉⵛ
     zh: 奧地利
-    zh-cn: 奥地利
-    zh-hans: 奥地利
-    zh-hant: 奧地利
-    zh-hk: 奧地利
-    zh-mo: 奧地利
+    zh_cn: 奥地利
+    zh_hans: 奥地利
+    zh_hant: 奧地利
+    zh_hk: 奧地利
+    zh_mo: 奧地利
     zh-my: 奥地利
-    zh-sg: 奥地利
-    zh-tw: 奧地利
+    zh_sg: 奥地利
+    zh_tw: 奧地利
     zu: I-Ostriya
   sound_of_:
     anthem: '[[../../../../../_public/xLarge.public/National-Anthem/Anthem-Austria.mp3|Anthem-Austria.mp3]]'

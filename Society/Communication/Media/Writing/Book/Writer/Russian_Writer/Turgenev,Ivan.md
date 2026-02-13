@@ -209,7 +209,7 @@ dv_has_:
     azb: ایوان تورقنیف
     ba: Тургенев Иван Сергеевич
     be: Іван Сяргеевіч Тургенеў
-    be-tarask: Іван Тургенеў
+    be_tarask: Іван Тургенеў
     bg: Иван Тургенев
     bn: ইভান তুর্গেনেভ
     br: Ivan Tourgeniev
@@ -225,7 +225,7 @@ dv_has_:
     diq: Ivan Turgenjev
     el: Ιβάν Τουργκένιεφ
     en: Ivan Turgenev
-    en-gb: Ivan Turgenev
+    en_gb: Ivan Turgenev
     eo: Ivan Turgenev
     es: Iván Turguénev
     et: Ivan Turgenev
@@ -274,7 +274,7 @@ dv_has_:
     pl: Iwan Turgieniew
     pnb: ایوان ترگنیف
     pt: Ivan Turgueniev
-    pt-br: Ivan Turgueniev
+    pt_br: Ivan Turgueniev
     ro: Ivan Turgheniev
     ru: Иван Сергеевич Тургенев
     rue: Иван Тургенев
@@ -284,7 +284,7 @@ dv_has_:
     sl: Ivan Sergejevič Turgenjev
     sq: Ivan Sergejeviç Turgenjev
     sr: Иван Тургењев
-    sr-ec: Иван Тургењев
+    sr_ec: Иван Тургењев
     sv: Ivan Turgenjev
     ta: இவான் துர்கனேவ்
     te: ఇవాన్ తుర్గేనెవ్

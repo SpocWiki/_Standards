@@ -46,7 +46,7 @@ dv_has_:
   name_:
     ar: اتصال عبر الأقمار الصناعية
     be: Спадарожнікавая сувязь
-    be-tarask: спадарожнікавая сувязь
+    be_tarask: спадарожнікавая сувязь
     ca: comunicacions per satèl·lit
     cs: satelitní komunikace
     da: satellitkommunikation
@@ -65,7 +65,7 @@ dv_has_:
     ja: 衛星通信
     mk: сателитска комуникација
     ms: komunikasi satelit
-    ms-arab: کومونيکاسي ساتليت
+    ms_arab: کومونيکاسي ساتليت
     nb: satellittkommunikasjon
     ru: спутниковая связь
     se: satellihttagulahallan

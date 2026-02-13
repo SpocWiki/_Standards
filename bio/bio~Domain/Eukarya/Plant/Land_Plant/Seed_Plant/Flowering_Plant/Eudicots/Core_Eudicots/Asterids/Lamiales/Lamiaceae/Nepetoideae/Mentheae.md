@@ -33,10 +33,10 @@ dv_has_:
     da: Mentheae
     de: Mentheae
     de-at: Mentheae
-    de-ch: Mentheae
+    de_ch: Mentheae
     en: Mentheae
-    en-ca: Mentheae
-    en-gb: Mentheae
+    en_ca: Mentheae
+    en_gb: Mentheae
     eo: Mentheae
     es: Mentheae
     et: Mentheae
@@ -71,7 +71,7 @@ dv_has_:
     nap: Mentheae
     nb: Mentheae
     nds: Mentheae
-    nds-nl: Mentheae
+    nds_nl: Mentheae
     nl: Mentheae
     nn: Mentheae
     nrm: Mentheae
@@ -81,7 +81,7 @@ dv_has_:
     pl: Mentheae
     pms: Mentheae
     pt: Mentheae
-    pt-br: Mentheae
+    pt_br: Mentheae
     rm: Mentheae
     ro: Mentheae
     ru: Мятные
@@ -102,8 +102,8 @@ dv_has_:
     war: Mentheae
     wo: Mentheae
     zh: 薄荷族
-    zh-cn: 薄荷族
-    zh-hans: 薄荷族
+    zh_cn: 薄荷族
+    zh_hans: 薄荷族
     zu: Mentheae
 ---
 # [[Mentheae]] 

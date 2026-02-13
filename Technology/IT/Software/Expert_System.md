@@ -85,7 +85,7 @@ dv_has_:
     ar: نظم خبيرة
     ast: Sistema espertu
     az: ekspert sistemlər
-    be-tarask: экспэртная сыстэма
+    be_tarask: экспэртная сыстэма
     bg: Експертна система
     bs: Ekspertni sistemi
     ca: Sistema expert
@@ -111,11 +111,11 @@ dv_has_:
     it: sistema esperto
     ja: エキスパートシステム
     kk: Сараптау жүйесі
-    kk-arab: ساراپتاۋ جۇيەسى
+    kk_arab: ساراپتاۋ جۇيەسى
     kk-cn: ساراپتاۋ جۇيەسى
-    kk-cyrl: Сараптау жүйесі
+    kk_cyrl: Сараптау жүйесі
     kk-kz: Сараптау жүйесі
-    kk-latn: Saraptaw jüýesi
+    kk_latn: Saraptaw jüýesi
     kk-tr: Saraptaw jüýesi
     ko: 전문가 시스템
     lb: Expertesystem
@@ -137,8 +137,8 @@ dv_has_:
     sk: Expertný systém
     sl: ekspertni sistem
     sr: експертски систем
-    sr-ec: Експертски системи
-    sr-el: Ekspertski sistemi
+    sr_ec: Експертски системи
+    sr_el: Ekspertski sistemi
     sv: expertsystem
     th: ระบบผู้เชี่ยวชาญ
     tr: uzman sistem
@@ -146,12 +146,12 @@ dv_has_:
     vi: hệ chuyên gia
     yue: 專家系統
     zh: 专家系统
-    zh-cn: 专家系统
-    zh-hans: 专家系统
-    zh-hant: 專家系統
-    zh-hk: 專家系統
-    zh-sg: 专家系统
-    zh-tw: 專家系統
+    zh_cn: 专家系统
+    zh_hans: 专家系统
+    zh_hant: 專家系統
+    zh_hk: 專家系統
+    zh_sg: 专家系统
+    zh_tw: 專家系統
 ---
 # [[Expert_System]] 
 

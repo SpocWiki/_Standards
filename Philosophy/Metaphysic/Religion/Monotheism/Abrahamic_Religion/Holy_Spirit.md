@@ -137,7 +137,7 @@ dv_has_:
     az: Müqəddəs Ruh
     bcl: Espiritu Santo
     be: Святы Дух
-    be-tarask: Сьвяты Дух
+    be_tarask: Сьвяты Дух
     bg: Свети Дух
     bn: পবিত্র আত্মা
     bpy: এসপিরিটো সান্টো
@@ -196,11 +196,11 @@ dv_has_:
     ml: പരിശുദ്ധാത്മാവ്
     mr: पवित्र आत्मा
     ms: Roh Kudus
-    ms-arab: روح قدوس
+    ms_arab: روح قدوس
     mt: Spirtu s-Santu
     mzn: اسپیریتو سانتو (ریو گراند دو نورته)
     nb: Den Hellige Ånd
-    nds-nl: Heilige Geest
+    nds_nl: Heilige Geest
     nl: Heilige Geest
     nn: Den heilage ande
     nr: Umoya Ocwengileko
@@ -208,7 +208,7 @@ dv_has_:
     pl: Duch Święty
     pnb: روح القدس (مسیحیت)
     pt: Espírito Santo
-    pt-br: Espírito Santo
+    pt_br: Espírito Santo
     qu: Ch'uya Ispiritu
     rm: Sontg Spiert
     ro: Duhul Sfânt
@@ -225,7 +225,7 @@ dv_has_:
     sn: Mweya Mutsvene
     sq: Shpirti i Shenjtë
     sr: Свети дух
-    sr-ec: Свети дух
+    sr_ec: Свети дух
     sv: Den Helige Ande
     sw: Roho Mtakatifu
     ta: தூய ஆவி
@@ -248,9 +248,9 @@ dv_has_:
     yue: 聖靈
     zea: Heilige Geêst
     zh: 聖靈
-    zh-cn: 圣灵
-    zh-hans: 圣灵
-    zh-hant: 聖靈
+    zh_cn: 圣灵
+    zh_hans: 圣灵
+    zh_hant: 聖靈
     zu: Umoya ongcwele
 ---
 # [[Holy_Spirit]] 

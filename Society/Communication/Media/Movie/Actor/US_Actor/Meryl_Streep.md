@@ -164,7 +164,7 @@ dv_has_:
     ba: Мерил Стрип
     bar: Meryl Streep
     be: Мэрыл Стрып
-    be-tarask: Мэрыл Стрып
+    be_tarask: Мэрыл Стрып
     bg: Мерил Стрийп
     bi: Meryl Streep
     bm: Meryl Streep
@@ -180,12 +180,12 @@ dv_has_:
     da: Meryl Streep
     de: Meryl Streep
     de-at: Meryl Streep
-    de-ch: Meryl Streep
+    de_ch: Meryl Streep
     el: Μέριλ Στριπ
     eml: Meryl Streep
     en: Meryl Streep
-    en-ca: Meryl Streep
-    en-gb: Meryl Streep
+    en_ca: Meryl Streep
+    en_gb: Meryl Streep
     eo: Meryl Streep
     es: Meryl Streep
     et: Meryl Streep
@@ -252,7 +252,7 @@ dv_has_:
     nap: Meryl Streep
     nb: Meryl Streep
     nds: Meryl Streep
-    nds-nl: Meryl Streep
+    nds_nl: Meryl Streep
     ne: मेराइल स्ट्रिप
     nl: Meryl Streep
     nn: Meryl Streep
@@ -267,7 +267,7 @@ dv_has_:
     pnb: میرل اسٹریپ
     prg: Meryl Streep
     pt: Meryl Streep
-    pt-br: Meryl Streep
+    pt_br: Meryl Streep
     qu: Meryl Streep
     rgn: Meryl Streep
     rm: Meryl Streep
@@ -289,8 +289,8 @@ dv_has_:
     sms: Meryl Streep
     sq: Meryl Streep
     sr: Мерил Стрип
-    sr-ec: Мерил Стрип
-    sr-el: Meryl Streep
+    sr_ec: Мерил Стрип
+    sr_el: Meryl Streep
     sv: Meryl Streep
     sw: Meryl Streep
     ta: மெரில் ஸ்ட்ரீப்
@@ -316,13 +316,13 @@ dv_has_:
     yo: Meryl Streep
     yue: 梅麗史翠普
     zh: 梅麗·史翠普
-    zh-cn: 梅丽尔·斯特里普
-    zh-hans: 梅丽尔·斯特里普
-    zh-hant: 梅麗·史翠普
-    zh-hk: 梅麗史翠普
+    zh_cn: 梅丽尔·斯特里普
+    zh_hans: 梅丽尔·斯特里普
+    zh_hant: 梅麗·史翠普
+    zh_hk: 梅麗史翠普
     zh-my: 梅莉·史翠普
-    zh-sg: 梅莉·史翠普
-    zh-tw: 梅莉·史翠普
+    zh_sg: 梅莉·史翠普
+    zh_tw: 梅莉·史翠普
     zu: Meryl Streep
 ---
 # [[Meryl_Streep]] 

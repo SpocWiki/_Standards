@@ -209,7 +209,7 @@ dv_has_:
     ba: Ғәрәп алфавиты
     bar: arabischs Oiphabet
     be: арабскі алфавіт
-    be-tarask: арабскі альфабэт
+    be_tarask: арабскі альфабэт
     bg: Арабска азбука
     bjn: Abjad Arap
     bn: আরবি বর্ণমালা
@@ -231,8 +231,8 @@ dv_has_:
     diq: Alfabey Erebki
     el: αραβικό αλφάβητο
     en: Arabic alphabet
-    en-ca: Arabic alphabet
-    en-gb: Arabic alphabet
+    en_ca: Arabic alphabet
+    en_gb: Arabic alphabet
     eo: araba alfabeto
     es: alfabeto árabe
     et: Araabia kiri
@@ -276,7 +276,7 @@ dv_has_:
     krc: Араб алфавит
     ks: عَربی اَچھَر
     ku: alfabeya erebî
-    ku-latn: alfabeya erebî
+    ku_latn: alfabeya erebî
     kw: Lytherennek arabek
     ky: Араб жазуусу
     la: abecedarium Arabicum
@@ -296,7 +296,7 @@ dv_has_:
     mni: ꯑꯥꯔꯕꯤ ꯂꯣꯟꯒꯤ ꯃꯌꯦꯛ
     mr: अरबी वर्णमाला
     ms: abjad Arab
-    ms-arab: ابجد عرب
+    ms_arab: ابجد عرب
     mzn: عربی الفبا
     nan: A-la-pek jī-bó
     nb: det arabiske alfabetet
@@ -312,7 +312,7 @@ dv_has_:
     pnb: عربی الفابٹ
     ps: عربي الفبا
     pt: alfabeto árabe
-    pt-br: alfabeto árabe
+    pt_br: alfabeto árabe
     qu: Arabya siq'i llumpa
     ro: alfabetul arab
     roa-tara: Alfabbète àrabe
@@ -332,7 +332,7 @@ dv_has_:
     sw: Herufi za Kiarabu
     ta: அறபு எழுத்துமுறை
     tg: алифбои арабӣ
-    tg-cyrl: Алифбои арабӣ
+    tg_cyrl: Алифбои арабӣ
     th: ชุดตัวอักษรอาหรับ
     ti: ዓረብኛ ፊደል
     tk: Arap elipbiýi
@@ -340,8 +340,8 @@ dv_has_:
     tok: nasin sitelen Alapi
     tr: Arap alfabesi
     tt: гарәп әлифбасы
-    tt-cyrl: гарәп әлифбасы
-    tt-latn: ğäräp älifbäsı
+    tt_cyrl: гарәп әлифбасы
+    tt_latn: ğäräp älifbäsı
     tyv: Араб алфавит
     udm: араб алфавит
     ug: ئەرەب ئەلىفبەسى
@@ -357,14 +357,14 @@ dv_has_:
     yi: אראבישער אלפאבעט
     yue: 阿拉伯字字母
     zh: 阿拉伯字母
-    zh-cn: 阿拉伯字母
-    zh-hans: 阿拉伯字母
-    zh-hant: 阿拉伯字母
-    zh-hk: 阿拉伯字母
-    zh-mo: 阿拉伯字母
+    zh_cn: 阿拉伯字母
+    zh_hans: 阿拉伯字母
+    zh_hant: 阿拉伯字母
+    zh_hk: 阿拉伯字母
+    zh_mo: 阿拉伯字母
     zh-my: 阿拉伯字母
-    zh-sg: 阿拉伯字母
-    zh-tw: 阿拉伯字母
+    zh_sg: 阿拉伯字母
+    zh_tw: 阿拉伯字母
 ---
 ## #has_/text_of_/abstract 
 

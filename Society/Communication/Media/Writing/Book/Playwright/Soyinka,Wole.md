@@ -140,7 +140,7 @@ dv_has_:
     az: Vole Şoyinka
     azb: وله سوینکا
     be: Воле Шайінка
-    be-tarask: Воле Шайінка
+    be_tarask: Воле Шайінка
     bg: Уоле Шоинка
     bn: ওলে সোয়েনকা
     br: Wole Soyinka
@@ -152,8 +152,8 @@ dv_has_:
     de: Wole Soyinka
     el: Ουόλε Σογίνκα
     en: Wole Soyinka
-    en-ca: Wole Soyinka
-    en-gb: Wole Soyinka
+    en_ca: Wole Soyinka
+    en_gb: Wole Soyinka
     en-us: Wole Soyinka
     eo: Wole Soyinka
     es: Wole Soyinka
@@ -210,7 +210,7 @@ dv_has_:
     pl: Wole Soyinka
     pnb: وول سوینکا
     pt: Wole Soyinka
-    pt-br: Wole Soyinka
+    pt_br: Wole Soyinka
     ro: Wole Soyinka
     ru: Воле Шойинка
     sco: Wole Soyinka
@@ -234,8 +234,8 @@ dv_has_:
     yo: Wole Soyinka
     yue: 索因卡
     zh: 沃莱·索因卡
-    zh-cn: 沃莱·索因卡
-    zh-hans: 沃莱·索因卡
+    zh_cn: 沃莱·索因卡
+    zh_hans: 沃莱·索因卡
 ---
 # [[Soyinka,Wole]] 
 

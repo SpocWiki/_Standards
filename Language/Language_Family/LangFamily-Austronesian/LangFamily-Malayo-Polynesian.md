@@ -65,8 +65,8 @@ dv_has_:
     sh: Malajsko-polinezijski jezici
     sl: malajopolinezijski jeziki
     sr: малајско-полинезијски језици
-    sr-ec: малајско-полинезијски језици
-    sr-el: malajsko-polinezijski jezici
+    sr_ec: малајско-полинезијски језици
+    sr_el: malajsko-polinezijski jezici
     sv: Malajo-polynesiska språk
     ta: மலாய-பொலினீசிய மொழிகள்
     th: กลุ่มภาษามลายู-พอลินีเชีย
@@ -80,12 +80,12 @@ dv_has_:
     wuu: 马来-波利尼西亚语族
     yue: 馬來-波利尼西亞語族
     zh: 马来－波利尼西亚语族
-    zh-cn: 马来-波利尼西亚语族
-    zh-hans: 马来-波利尼西亚语族
-    zh-hant: 馬來-玻里尼西亞語族
-    zh-hk: 馬來-波利尼西亞語族
-    zh-sg: 马来-波利尼西亚语族
-    zh-tw: 馬來-玻里尼西亞語族
+    zh_cn: 马来-波利尼西亚语族
+    zh_hans: 马来-波利尼西亚语族
+    zh_hant: 馬來-玻里尼西亞語族
+    zh_hk: 馬來-波利尼西亞語族
+    zh_sg: 马来-波利尼西亚语族
+    zh_tw: 馬來-玻里尼西亞語族
 aliases:
 - Bahasa-bahasa Melayu-Polinesia
 - Deng amanung Malayu-polinesyu

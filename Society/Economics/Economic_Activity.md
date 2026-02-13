@@ -82,7 +82,7 @@ dv_has_:
     az: iqtisadi fəaliyyət
     ba: иҡтисади эшмәкәрлек
     be: эканамічная дзейнасць
-    be-tarask: эканамічная дзейнасьць
+    be_tarask: эканамічная дзейнасьць
     bn: অর্থনৈতিক কর্মকাণ্ড
     br: rann ekonomikel
     bs: ekonomska aktivnost
@@ -117,7 +117,7 @@ dv_has_:
     lv: saimnieciskā darbība
     mk: стопанска дејност
     ms: kegiatan ekonomi
-    ms-arab: کݢياتن ايکونومي
+    ms_arab: کݢياتن ايکونومي
     nan: seng-lí
     nb: forretningsaktivitet
     ne: आर्थिक क्रियाकलाप
@@ -132,21 +132,21 @@ dv_has_:
     sl: gospodarska dejavnost
     sq: aktivitet ekonomik
     sr: привредна делатност
-    sr-ec: привредна делатност
+    sr_ec: привредна делатност
     sv: affärsverksamhet
     tg: куниши иқтисодӣ
     th: กิจกรรมทางเศรษฐกิจ
     tr: ekonomik faaliyet
     tt: икътисади эшмәкәрлек
-    tt-cyrl: икътисади эшмәкәрлек
+    tt_cyrl: икътисади эшмәкәрлек
     uk: господарська діяльність
     vec: atività econòmega
     vi: hoạt động kinh tế
     yue: 經濟活動
     zh: 經濟活動
-    zh-cn: 经济活动
-    zh-hans: 经济活动
-    zh-hant: 經濟活動
+    zh_cn: 经济活动
+    zh_hans: 经济活动
+    zh_hant: 經濟活動
 ---
 # [[Economic_Activity]] 
 

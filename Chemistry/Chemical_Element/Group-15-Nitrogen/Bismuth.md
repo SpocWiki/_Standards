@@ -156,7 +156,7 @@ dv_has_:
     ban: Bismuth
     bcl: Bismuto
     be: Вісмут
-    be-tarask: бісмут
+    be_tarask: бісмут
     bg: бисмут
     bho: बिस्मथ
     bn: বিসমাথ
@@ -173,11 +173,11 @@ dv_has_:
     cy: bismwth
     da: bismuth
     de: Bismut
-    de-ch: Bismut
+    de_ch: Bismut
     el: βισμούθιο
     en: bismuth
-    en-ca: bismuth
-    en-gb: bismuth
+    en_ca: bismuth
+    en_gb: bismuth
     eo: bismuto
     es: bismuto
     et: Vismut
@@ -259,7 +259,7 @@ dv_has_:
     pnb: بسمتھ
     ps: بېسموت
     pt: bismuto
-    pt-br: bismuto
+    pt_br: bismuto
     qu: Wismutu
     ro: bismut
     ru: висмут
@@ -299,11 +299,11 @@ dv_has_:
     yo: Bismuth
     yue: 鉍
     zh: 鉍
-    zh-cn: 铋
-    zh-hans: 铋
-    zh-hant: 鉍
-    zh-hk: 鉍
-    zh-tw: 鉍
+    zh_cn: 铋
+    zh_hans: 铋
+    zh_hant: 鉍
+    zh_hk: 鉍
+    zh_tw: 鉍
     zu: IBima
   number_of_:
     period: 6

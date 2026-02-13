@@ -126,7 +126,7 @@ dv_has_:
     azb: تیفوس
     ba: Сабыртмалы тиф
     be: тыф
-    be-tarask: тыф
+    be_tarask: тыф
     bg: Тиф
     bn: টাইফাস জ্বর
     br: Tifuz
@@ -170,14 +170,14 @@ dv_has_:
     ka: ტიფი
     kab: Tifus
     kk: Бөрітпе сүзек
-    kk-arab: بورىتپە سۇزەك
+    kk_arab: بورىتپە سۇزەك
     kk-cn: بورىتپە سۇزەك
-    kk-cyrl: Бөрітпе сүзек
+    kk_cyrl: Бөрітпе сүзек
     kk-kz: Бөрітпе сүзек
-    kk-latn: Böritpe süzek
+    kk_latn: Böritpe süzek
     kk-tr: Böritpe süzek
     ko: 발진티푸스
-    ku-latn: tîfûs
+    ku_latn: tîfûs
     la: Typhus
     lb: Typhus
     lt: vidurių šiltinė
@@ -195,7 +195,7 @@ dv_has_:
     pl: tyfus
     ps: وچکۍ تبه
     pt: tifo
-    pt-br: Typhus group
+    pt_br: Typhus group
     ro: tifos
     ru: сыпной тиф
     sgs: Šiltėnė
@@ -203,8 +203,8 @@ dv_has_:
     sl: tifus
     sq: tifus
     sr: тифус
-    sr-ec: тифус
-    sr-el: tifus
+    sr_ec: тифус
+    sr_el: tifus
     su: tipes
     sv: fläcktyfus
     ta: டைஃபஸ்
@@ -223,12 +223,12 @@ dv_has_:
     xmf: ტიფა
     yue: 斑疹傷寒
     zh: 斑疹傷寒
-    zh-cn: 斑疹伤寒
-    zh-hans: 斑疹伤寒
-    zh-hant: 斑疹傷寒
-    zh-hk: 斑疹傷寒
-    zh-sg: 斑疹伤寒
-    zh-tw: 斑疹傷寒
+    zh_cn: 斑疹伤寒
+    zh_hans: 斑疹伤寒
+    zh_hant: 斑疹傷寒
+    zh_hk: 斑疹傷寒
+    zh_sg: 斑疹伤寒
+    zh_tw: 斑疹傷寒
 ---
 # [[Typhus]] 
 

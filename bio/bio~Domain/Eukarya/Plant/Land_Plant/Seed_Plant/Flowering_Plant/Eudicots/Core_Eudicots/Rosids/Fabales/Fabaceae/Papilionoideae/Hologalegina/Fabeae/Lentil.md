@@ -91,7 +91,7 @@ aliases:
 has_id_wikidata: Q131226
 dv_has_:
   name_:
-    aeb-arab: عدس
+    aeb_arab: عدس
     am: ምስ'ር
     an: Lens culinaris
     ar: عدس
@@ -143,17 +143,17 @@ dv_has_:
     ja: レンズマメ
     jv: Lentil
     kk: Азықтық жасымық
-    kk-arab: ازىقتىق جاسىمىق
+    kk_arab: ازىقتىق جاسىمىق
     kk-cn: ازىقتىق جاسىمىق
-    kk-cyrl: Азықтық жасымық
+    kk_cyrl: Азықтық жасымық
     kk-kz: Азықтық жасымық
-    kk-latn: Azıqtıq jasımıq
+    kk_latn: Azıqtıq jasımıq
     kk-tr: Azıqtıq jasımıq
     kn: ಮಸೂರ ಅವರೆ
     ko: 렌즈콩
     ku: Nîsk
-    ku-arab: نیسک
-    ku-latn: Nîsk
+    ku_arab: نیسک
+    ku_latn: Nîsk
     la: Lens culinaris
     lb: Lëns
     lt: Valgomasis lęšis
@@ -176,7 +176,7 @@ dv_has_:
     pl: soczewica jadalna
     pnb: مسور
     pt: lentilhas
-    pt-br: Lens culinaris
+    pt_br: Lens culinaris
     qu: Lantrihas
     ro: Linte
     ru: чечевица пищевая
@@ -189,8 +189,8 @@ dv_has_:
     so: Misir
     sq: Thjerrëza
     sr: сочиво
-    sr-ec: Сочиво
-    sr-el: Sočivo
+    sr_ec: Сочиво
+    sr_el: Sočivo
     sv: lins
     sw: Mdengu
     ta: மைசூர்ப் பருப்பு
@@ -210,12 +210,12 @@ dv_has_:
     yi: לינזן
     yue: 蘭度豆
     zh: 小扁豆
-    zh-cn: 小扁豆
-    zh-hans: 小扁豆
-    zh-hant: 小扁豆
-    zh-hk: 小扁豆
-    zh-sg: 小扁豆
-    zh-tw: 小扁豆
+    zh_cn: 小扁豆
+    zh_hans: 小扁豆
+    zh_hant: 小扁豆
+    zh_hk: 小扁豆
+    zh_sg: 小扁豆
+    zh_tw: 小扁豆
 ---
 ## #has_/text_of_/abstract 
 

@@ -110,7 +110,7 @@ dv_has_:
     azb: قلوریا سوانسون
     ba: Глория Свенсон
     be: Глорыя Свенсан
-    be-tarask: Глорыя Сўонсан
+    be_tarask: Глорыя Сўонсан
     bg: Глория Суонсън
     bi: Gloria Swanson
     bn: গ্লোরিয়া সোয়ানসন
@@ -120,11 +120,11 @@ dv_has_:
     cy: Gloria Swanson
     da: Gloria Swanson
     de: Gloria Swanson
-    de-ch: Gloria Swanson
+    de_ch: Gloria Swanson
     el: Γκλόρια Σουάνσον
     en: Gloria Swanson
-    en-ca: Gloria Swanson
-    en-gb: Gloria Swanson
+    en_ca: Gloria Swanson
+    en_gb: Gloria Swanson
     eo: Gloria Swanson
     es: Gloria Swanson
     eu: Gloria Swanson
@@ -169,7 +169,7 @@ dv_has_:
     pap: Gloria Swanson
     pl: Gloria Swanson
     pt: Gloria Swanson
-    pt-br: Gloria Swanson
+    pt_br: Gloria Swanson
     qu: Gloria Swanson
     ro: Gloria Swanson
     ru: Глория Свенсон
@@ -180,8 +180,8 @@ dv_has_:
     sl: Gloria Swanson
     sq: Gloria Swanson
     sr: Глорија Свансон
-    sr-ec: Глорија Свансон
-    sr-el: Glorija Svanson
+    sr_ec: Глорија Свансон
+    sr_el: Glorija Svanson
     sv: Gloria Swanson
     sw: Gloria Swanson
     ta: நடிகர்,
@@ -197,13 +197,13 @@ dv_has_:
     yo: Gloria Swanson
     yue: 歌利亞史允臣
     zh: 格洛麗亞·斯旺森
-    zh-cn: 格洛丽亚·斯旺森
-    zh-hans: 格洛丽亚·斯旺森
-    zh-hant: 葛洛莉亞·史璜生
-    zh-hk: 歌利亞·史允臣
+    zh_cn: 格洛丽亚·斯旺森
+    zh_hans: 格洛丽亚·斯旺森
+    zh_hant: 葛洛莉亞·史璜生
+    zh_hk: 歌利亞·史允臣
     zh-my: 哥罗利亚·史璜生
-    zh-sg: 哥罗利亚·史璜生
-    zh-tw: 葛洛莉亞·史璜生
+    zh_sg: 哥罗利亚·史璜生
+    zh_tw: 葛洛莉亞·史璜生
 ---
 # [[Gloria_Swanson]] 
 

@@ -202,7 +202,7 @@ dv_has_:
     bar: Alfred Hitchcock
     bcl: Alfred Hitchcock
     be: Альфрэд Хічкок
-    be-tarask: Альфрэд Гічкок
+    be_tarask: Альфрэд Гічкок
     bew: Alfred Hitchcock
     bg: Алфред Хичкок
     bho: अल्फ्रेड हिचकॉक
@@ -227,8 +227,8 @@ dv_has_:
     el: Άλφρεντ Χίτσκοκ
     eml: Alfred Hitchcock
     en: Alfred Hitchcock
-    en-ca: Alfred Hitchcock
-    en-gb: Alfred Hitchcock
+    en_ca: Alfred Hitchcock
+    en_gb: Alfred Hitchcock
     eo: Alfred Hitchcock
     es: Alfred Hitchcock
     et: Alfred Hitchcock
@@ -301,7 +301,7 @@ dv_has_:
     pms: Alfred Hitchcock
     pnb: ایلفریڈ ہچکاک
     pt: Alfred Hitchcock
-    pt-br: Alfred Hitchcock
+    pt_br: Alfred Hitchcock
     qu: Alfred Hitchcock
     ro: Alfred Hitchcock
     ru: Альфред Хичкок
@@ -325,7 +325,7 @@ dv_has_:
     tl: Alfred Hitchcock
     tr: Alfred Hitchcock
     tt: Алфред Һичкок
-    tt-cyrl: Алфред Һичкок
+    tt_cyrl: Алфред Һичкок
     tyv: Хичкок, Альфред
     uk: Альфред Гічкок
     ur: الفریڈ ہچکاک
@@ -341,12 +341,12 @@ dv_has_:
     yo: Alfred Hitchcock
     yue: 希治閣
     zh: 阿尔弗雷德·希区柯克
-    zh-cn: 阿尔弗雷德·希区柯克
-    zh-hans: 阿尔弗雷德·希区柯克
-    zh-hk: 亞弗列·希治閣
+    zh_cn: 阿尔弗雷德·希区柯克
+    zh_hans: 阿尔弗雷德·希区柯克
+    zh_hk: 亞弗列·希治閣
     zh-my: 希治阁
-    zh-sg: 希治阁
-    zh-tw: 亞佛烈德·希區考克
+    zh_sg: 希治阁
+    zh_tw: 亞佛烈德·希區考克
 ---
 # [[Hitchcock,Alfred]] 
 

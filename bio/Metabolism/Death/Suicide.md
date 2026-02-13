@@ -223,7 +223,7 @@ dv_has_:
     bar: Freidoud
     bcl: paghugot
     be: самагубства
-    be-tarask: самагубства
+    be_tarask: самагубства
     bg: самоубийство
     bm: Yɛrɛfaga
     bn: আত্মহত্যা
@@ -314,7 +314,7 @@ dv_has_:
     nan: chū-sat
     nb: selvmord
     nds: Sülvstmoord
-    nds-nl: Zölfmoord
+    nds_nl: Zölfmoord
     ne: आत्महत्या
     new: आत्महत्या
     nl: zelfdoding
@@ -332,7 +332,7 @@ dv_has_:
     pnb: خودکشی
     ps: ځان وژنه
     pt: suicídio
-    pt-br: suicídio
+    pt_br: suicídio
     qu: sipikuy
     rn: kwiyahura
     ro: sinucidere
@@ -354,7 +354,7 @@ dv_has_:
     so: naftirka isdilka
     sq: vetëvrasja
     sr: самоубиство
-    sr-ec: самоубиство
+    sr_ec: самоубиство
     su: nelasan maneh
     sv: självmord
     sw: Jiua
@@ -383,14 +383,14 @@ dv_has_:
     yue: 自殺
     za: gaggaj
     zh: 自殺
-    zh-cn: 自杀
-    zh-hans: 自杀
-    zh-hant: 自殺
-    zh-hk: 自殺
-    zh-mo: 自殺
+    zh_cn: 自杀
+    zh_hans: 自杀
+    zh_hant: 自殺
+    zh_hk: 自殺
+    zh_mo: 自殺
     zh-my: 自杀
-    zh-sg: 自杀
-    zh-tw: 自殺
+    zh_sg: 自杀
+    zh_tw: 自殺
 ---
 # [[Suicide]] 
 

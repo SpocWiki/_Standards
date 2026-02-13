@@ -126,12 +126,12 @@ dv_has_:
     vi: Hệ thống Bretton Woods
     wa: Sistinme Burtonbwès po les manoyes
     zh: 布雷顿森林体系
-    zh-cn: 布雷顿森林协定
-    zh-hans: 布雷顿森林协定
-    zh-hant: 布雷頓森林協定
-    zh-hk: 布雷頓森林協定
-    zh-sg: 布雷顿森林协定
-    zh-tw: 布雷頓森林協定
+    zh_cn: 布雷顿森林协定
+    zh_hans: 布雷顿森林协定
+    zh_hant: 布雷頓森林協定
+    zh_hk: 布雷頓森林協定
+    zh_sg: 布雷顿森林协定
+    zh_tw: 布雷頓森林協定
 ---
 #has_/time_/started ::  1944-07-01 
 #has_/time_/stopped ::  1976-01-07  

@@ -96,7 +96,7 @@ dv_has_:
     ban: Lyndon B. Johnson
     bcl: Lyndon B. Johnson
     be: Ліндан Бэйнс Джонсан
-    be-tarask: Ліндан Бэйнз Джонсан
+    be_tarask: Ліндан Бэйнз Джонсан
     bg: Линдън Джонсън
     bi: Lyndon B. Johnson
     bn: লিন্ডন বি. জনসন
@@ -115,14 +115,14 @@ dv_has_:
     da: Lyndon B. Johnson
     dag: Lyndon B. Johnson
     de: Lyndon B. Johnson
-    de-ch: Lyndon B. Johnson
+    de_ch: Lyndon B. Johnson
     diq: Lyndon B. Johnson
     dv: ލިންޑަން ބެއިންސް ޖޯންސަން
     el: Λίντον Τζόνσον
     eml: Lyndon B. Johnson
     en: Lyndon B. Johnson
-    en-ca: Lyndon B. Johnson
-    en-gb: Lyndon B. Johnson
+    en_ca: Lyndon B. Johnson
+    en_gb: Lyndon B. Johnson
     eo: Lyndon B. Johnson
     es: Lyndon B. Johnson
     et: Lyndon B. Johnson
@@ -201,7 +201,7 @@ dv_has_:
     pnb: لنڈن بی جانسن
     ps: لینډن بینس جانسن
     pt: Lyndon B. Johnson
-    pt-br: Lyndon Johnson
+    pt_br: Lyndon Johnson
     qu: Lyndon Johnson
     rm: Lyndon B. Johnson
     rmf: Lyndon B. Johnson
@@ -247,10 +247,10 @@ dv_has_:
     yue: 林登約翰遜
     zea: Lyndon B. Johnson
     zh: 林登·約翰遜
-    zh-cn: 林登·约翰逊
-    zh-hans: 林登·约翰逊
-    zh-hant: 林登·約翰遜
-    zh-tw: 林登·詹森
+    zh_cn: 林登·约翰逊
+    zh_hans: 林登·约翰逊
+    zh_hant: 林登·約翰遜
+    zh_tw: 林登·詹森
     zu: Lyndon B. Johnson
   time_:
     started: 1908-08-27T00:00:00.000+01:00

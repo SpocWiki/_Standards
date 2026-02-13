@@ -102,7 +102,7 @@ dv_has_:
     ast: Elementos del grupu 4
     az: Dövri sistemin 4-cü qrupu
     ban: Datu golongan 4
-    be-tarask: падгрупа тытану
+    be_tarask: падгрупа тытану
     bg: Група 4 на периодичната система
     bn: চতুর্থ শ্রেণীর মৌল
     bs: 4. grupa hemijskih elemenata
@@ -153,8 +153,8 @@ dv_has_:
     so: Guruubka 4
     sq: Grupi i katërt i elementeve kimike
     sr: 4. група хемијских елемената
-    sr-ec: 4. група хемијских елемената
-    sr-el: 4. grupa hemijskih elemenata
+    sr_ec: 4. група хемијских елемената
+    sr_el: 4. grupa hemijskih elemenata
     sv: grupp 4
     ta: நெடுங்குழு 4 தனிமங்கள்
     te: గ్రూప్ 4 మూలకం
@@ -165,12 +165,12 @@ dv_has_:
     wuu: 4族元素
     yue: 4族元素
     zh: 4族元素
-    zh-cn: 4族元素
-    zh-hans: 4族元素
-    zh-hant: 4族元素
-    zh-hk: 4族元素
-    zh-sg: 4族元素
-    zh-tw: 4族元素
+    zh_cn: 4族元素
+    zh_hans: 4族元素
+    zh_hant: 4族元素
+    zh_hk: 4族元素
+    zh_sg: 4族元素
+    zh_tw: 4族元素
 ---
 # [[Group-04-Titanium]] 
 

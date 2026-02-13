@@ -66,7 +66,7 @@ dv_has_:
   name_:
     ar: دوامة قطبية
     ast: Vórtice polar
-    be-tarask: цыркумпалярная віхура
+    be_tarask: цыркумпалярная віхура
     bg: Полярен вихър
     bho: पोलर वोर्टेक्स
     ca: vòrtex polar
@@ -106,9 +106,9 @@ dv_has_:
     wuu: 极地涡旋
     yue: 極地渦旋
     zh: 极地涡旋
-    zh-hans: 极地涡旋
-    zh-hant: 極地渦旋
-    zh-hk: 極地渦旋
+    zh_hans: 极地涡旋
+    zh_hant: 極地渦旋
+    zh_hk: 極地渦旋
 ---
 # [[Polar_Vortex]] 
 

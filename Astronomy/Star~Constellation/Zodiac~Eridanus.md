@@ -100,7 +100,7 @@ dv_has_:
     az: Eridan
     ba: Эридан
     be: Эрыдан
-    be-tarask: Эрыдан
+    be_tarask: Эрыдан
     bg: Еридан
     bn: যামী মণ্ডল
     br: Eridan
@@ -175,7 +175,7 @@ dv_has_:
     th: กลุ่มดาวแม่น้ำ
     tr: Eridanus
     tt: Эридан йолдызлыгы
-    tt-cyrl: Эридан
+    tt_cyrl: Эридан
     udm: Эридан
     uk: Ерідан
     ur: نہر

@@ -241,7 +241,7 @@ dv_has_:
     bar: Handy
     bcl: mobile phone
     be: мабільны тэлефон
-    be-tarask: мабільны тэлефон
+    be_tarask: мабільны тэлефон
     bew: pesawat
     bg: мобилен телефон
     bho: मोबाइल फोन
@@ -262,15 +262,15 @@ dv_has_:
     cy: ffôn symudol
     da: mobiltelefon
     de: Mobiltelefon
-    de-ch: Mobiltelefon
+    de_ch: Mobiltelefon
     dga: moobale foŋ
     din: ariiŋwël
     dsb: mobilny telefon
     dtp: tolipaun
     el: κινητό τηλέφωνο
     en: mobile phone
-    en-ca: cell phone
-    en-gb: mobile phone
+    en_ca: cell phone
+    en_gb: mobile phone
     en-us: cell phone
     eo: poŝtelefono
     es: teléfono móvil
@@ -359,7 +359,7 @@ dv_has_:
     pnb: موبائل فون
     ps: ګرځنده غږلېږدی
     pt: telemóvel
-    pt-br: telefone celular
+    pt_br: telefone celular
     qu: ankichiy karu rimay
     rmf: džepnos
     rn: telephone
@@ -379,7 +379,7 @@ dv_has_:
     so: mobile
     sq: telefon celular
     sr: мобилни телефон
-    sr-ec: мобилни телефон
+    sr_ec: мобилни телефон
     su: telepon keupeul
     sv: mobiltelefon
     sw: simu za mikononi
@@ -408,14 +408,14 @@ dv_has_:
     yue: 手機
     za: soujgih
     zh: 移動電話
-    zh-cn: 手机
-    zh-hans: 移动电话
-    zh-hant: 行動電話
-    zh-hk: 流動電話
-    zh-mo: 流動電話
+    zh_cn: 手机
+    zh_hans: 移动电话
+    zh_hant: 行動電話
+    zh_hk: 流動電話
+    zh_mo: 流動電話
     zh-my: 随身电话
-    zh-sg: 随身电话
-    zh-tw: 行動電話
+    zh_sg: 随身电话
+    zh_tw: 行動電話
     zu: umakhalekhukhwini
 ---
 # [[Mobile_Phone]] 

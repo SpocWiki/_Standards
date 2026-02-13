@@ -126,7 +126,7 @@ dv_has_:
     az: Jak Adamar
     azb: ژاک آدامار
     be: Жак Саламон Адамар
-    be-tarask: Жак Адамар
+    be_tarask: Жак Адамар
     bg: Жак Адамар
     bn: জাক আদামার
     bs: Jacques Hadamard
@@ -136,7 +136,7 @@ dv_has_:
     de: Jacques Hadamard
     el: Ζακ Ανταμάρ
     en: Jacques Hadamard
-    en-gb: Jacques Hadamard
+    en_gb: Jacques Hadamard
     eo: Jacques Hadamard
     es: Jacques Hadamard
     eu: Jacques Hadamard
@@ -154,11 +154,11 @@ dv_has_:
     ja: ジャック・アダマール
     ka: ჟაკ ადამარი
     kk: Жак Адамар
-    kk-arab: جاك ادامار
+    kk_arab: جاك ادامار
     kk-cn: جاك ادامار
-    kk-cyrl: Жак Адамар
+    kk_cyrl: Жак Адамар
     kk-kz: Жак Адамар
-    kk-latn: Jak Adamar
+    kk_latn: Jak Adamar
     kk-tr: Jak Adamar
     ko: 자크 아다마르
     la: Iacobus Hadamard
@@ -171,15 +171,15 @@ dv_has_:
     pl: Jacques Salomon Hadamard
     pms: Jacques Salomon Hadamard
     pt: Jacques Hadamard
-    pt-br: Jacques Hadamard
+    pt_br: Jacques Hadamard
     ro: Jacques Hadamard
     ru: Жак Адамар
     sk: Jacques Hadamard
     sl: Jacques Salomon Hadamard
     sq: Jacques Hadamard
     sr: Жак Адамар
-    sr-ec: Жак Адамар
-    sr-el: Žak Adamar
+    sr_ec: Жак Адамар
+    sr_el: Žak Adamar
     sv: Jacques Hadamard
     tg: Жак Адамар
     tr: Jacques Hadamard
@@ -188,12 +188,12 @@ dv_has_:
     vi: Jacques Hadamard
     yue: 雅克·阿達馬
     zh: 雅克·阿达马
-    zh-cn: 雅克·阿达马
-    zh-hans: 雅克·阿达马
-    zh-hant: 雅克·阿達馬
-    zh-hk: 雅克·阿達馬
-    zh-sg: 雅克·阿达马
-    zh-tw: 雅克·阿達馬
+    zh_cn: 雅克·阿达马
+    zh_hans: 雅克·阿达马
+    zh_hant: 雅克·阿達馬
+    zh_hk: 雅克·阿達馬
+    zh_sg: 雅克·阿达马
+    zh_tw: 雅克·阿達馬
 ---
 # [[Hadamard,Jacques]] 
 

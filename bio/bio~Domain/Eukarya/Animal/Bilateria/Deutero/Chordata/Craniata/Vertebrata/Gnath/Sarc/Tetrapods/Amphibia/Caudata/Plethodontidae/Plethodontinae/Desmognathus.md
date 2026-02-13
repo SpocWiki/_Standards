@@ -38,7 +38,7 @@ dv_has_:
     oc: Desmognathus
     pl: Desmognathus
     pt: Desmognathus
-    pt-br: Desmognathus
+    pt_br: Desmognathus
     ro: Desmognathus
     ru: Тёмные саламандры
     sq: Desmognathus
@@ -49,9 +49,9 @@ dv_has_:
     vo: Desmognathus
     war: Desmognathus
     zh: 脊口螈属
-    zh-cn: 脊口螈属
-    zh-hans: 脊口螈属
-    zh-tw: 脊口螈屬
+    zh_cn: 脊口螈属
+    zh_hans: 脊口螈属
+    zh_tw: 脊口螈屬
 ---
 # [[Desmognathus]] 
 

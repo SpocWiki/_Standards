@@ -196,7 +196,7 @@ dv_has_:
     az: tif qızdırması
     azb: تیفود
     be: брушны тыф
-    be-tarask: брушны тыф
+    be_tarask: брушны тыф
     bg: Коремен тиф
     bn: টাইফয়েড জ্বর
     br: Terzhienn-domm
@@ -211,8 +211,8 @@ dv_has_:
     din: Juän abuɔr
     el: τυφοειδής πυρετός
     en: typhoid fever
-    en-ca: Typhoid fever
-    en-gb: typhoid fever
+    en_ca: Typhoid fever
+    en_gb: typhoid fever
     eo: tifoida febro
     es: fiebre tifoidea
     et: kõhutüüfus
@@ -270,7 +270,7 @@ dv_has_:
     pl: dur brzuszny
     pnb: ٹائیفائیڈ
     pt: febre tifoide
-    pt-br: febre tifoide
+    pt_br: febre tifoide
     ro: febră tifoidă
     ru: брюшной тиф
     sd: مدي جو تپ
@@ -279,8 +279,8 @@ dv_has_:
     sk: Brušný týfus
     sl: trebušni tifus
     sr: трбушни тифус
-    sr-ec: трбушни тифус
-    sr-el: trbušni tifus
+    sr_ec: трбушни тифус
+    sr_el: trbušni tifus
     sv: tyfoidfeber
     sw: Homa ya matumbo
     ta: குடற்காய்ச்சல்

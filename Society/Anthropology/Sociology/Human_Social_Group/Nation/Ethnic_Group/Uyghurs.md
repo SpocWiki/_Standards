@@ -136,7 +136,7 @@ dv_has_:
     ba: Уйғырҙар
     bcl: Uyghur
     be: Уйгуры
-    be-tarask: Уйгуры
+    be_tarask: Уйгуры
     bg: Уйгури
     bho: वीगर
     bn: উইঘুর জাতি
@@ -152,11 +152,11 @@ dv_has_:
     cy: Uighur
     da: uighur
     de: Uiguren
-    de-ch: Uiguren
+    de_ch: Uiguren
     el: Ουιγούροι
     en: Uyghurs
-    en-ca: Uyghurs
-    en-gb: Uyghurs
+    en_ca: Uyghurs
+    en_gb: Uyghurs
     eo: ujguroj
     es: uigures
     et: Uiguurid
@@ -213,7 +213,7 @@ dv_has_:
     pnb: ایغور
     ps: ويغور
     pt: Uigures
-    pt-br: Uigures
+    pt_br: Uigures
     qu: Uyq'ur runa
     ro: Uiguri
     ru: уйгуры
@@ -226,7 +226,7 @@ dv_has_:
     sl: Ujguri
     sq: Ujgurët
     sr: Ујгури
-    sr-ec: Ујгури
+    sr_ec: Ујгури
     sv: Uigurer
     ta: உய்குர் மக்கள்
     tg: Ӯйғӯрҳо

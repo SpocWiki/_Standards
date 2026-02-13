@@ -91,7 +91,7 @@ dv_has_:
     ar: جريان الموائع
     ast: dinámica de fluyíos
     az: hidroaerodinamika
-    be-tarask: гідрааэрадынаміка
+    be_tarask: гідрааэрадынаміка
     bn: প্রবাহী গতিবিজ্ঞান
     bs: dinamika fluida
     ca: dinàmica de fluids
@@ -121,7 +121,7 @@ dv_has_:
     ja: 流体動力学
     ka: ჰიდროდინამიკა
     kk: гидроаэродинамика
-    kk-arab: گىيدرواەرودىينامىيكا
+    kk_arab: گىيدرواەرودىينامىيكا
     kk-cn: گىيدرواەرودىينامىيكا
     ko: 유체동역학
     lt: hidrodinamika
@@ -145,7 +145,7 @@ dv_has_:
     so: qulqul
     sq: fluidodinamika
     sr: динамика флуида
-    sr-ec: динамика флуида
+    sr_ec: динамика флуида
     sv: fluidmekanik
     ta: பாய்ம இயக்கவியல்
     th: พลศาสตร์ของไหล
@@ -159,12 +159,12 @@ dv_has_:
     wuu: 流体动力学
     yue: 流體動力學
     zh: 流體動力學
-    zh-cn: 流体动力学
-    zh-hans: 流体动力学
-    zh-hant: 流體動力學
-    zh-hk: 流體動力學
-    zh-sg: 流体动力学
-    zh-tw: 流體動力學
+    zh_cn: 流体动力学
+    zh_hans: 流体动力学
+    zh_hant: 流體動力學
+    zh_hk: 流體動力學
+    zh_sg: 流体动力学
+    zh_tw: 流體動力學
 ---
 # [[Fluid_Dynamics]] 
 

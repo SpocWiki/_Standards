@@ -4,7 +4,7 @@ dv_has_:
   name_:
     ar: خطأ معياري
     ast: error estándar
-    be-tarask: стандартная памылка
+    be_tarask: стандартная памылка
     bn: মান ত্রুটি
     ca: error estàndard
     cs: Standardní chyba
@@ -41,9 +41,9 @@ dv_has_:
     uk: Стандартна похибка
     yue: 標準誤差
     zh: 标准误
-    zh-hans: 标准误
-    zh-hant: 標準誤
-    zh-hk: 標準誤
+    zh_hans: 标准误
+    zh_hant: 標準誤
+    zh_hk: 標準誤
 aliases:
 - Błąd standardowy
 - eroare standard

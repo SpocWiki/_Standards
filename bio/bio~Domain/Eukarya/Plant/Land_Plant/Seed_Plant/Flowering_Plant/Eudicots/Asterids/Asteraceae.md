@@ -120,7 +120,7 @@ dv_has_:
     ba: Астралар
     bar: Asteraceae
     be: астравыя
-    be-tarask: астравыя
+    be_tarask: астравыя
     bg: сложноцветни
     br: Asteraceae
     bs: Asteraceae
@@ -133,12 +133,12 @@ dv_has_:
     da: kurvblomst-familien
     de: Korbblütler
     de-at: Asteraceae
-    de-ch: Asteraceae
+    de_ch: Asteraceae
     dsb: Kóšowe kwětarje
     el: Σύνθετα
     en: Asteraceae
-    en-ca: Asteraceae
-    en-gb: Asteraceae
+    en_ca: Asteraceae
+    en_gb: Asteraceae
     eo: Asteracoj
     es: Asteraceae
     et: korvõielised
@@ -197,7 +197,7 @@ dv_has_:
     nap: Asteraceae
     nb: kurvplantefamilien
     nds: Asteraceae
-    nds-nl: composietenfemilie
+    nds_nl: composietenfemilie
     nl: composietenfamilie
     nn: korgplantefamilien
     nrm: Asteraceae
@@ -210,7 +210,7 @@ dv_has_:
     pnb: تارہ پھل
     ps: د تریز بوټي
     pt: Asteraceae
-    pt-br: Asteraceae
+    pt_br: Asteraceae
     qu: Ch'antasqa tuktuyuq rikch'aq ayllu
     rm: Asteraceae
     ro: Asteraceae
@@ -248,9 +248,9 @@ dv_has_:
     wuu: 菊科
     yue: 菊科
     zh: 菊科
-    zh-cn: 菊科
-    zh-hans: 菊科
-    zh-tw: 菊科
+    zh_cn: 菊科
+    zh_hans: 菊科
+    zh_tw: 菊科
     zu: Asteraceae
 ---
 # [[Asteraceae]] 

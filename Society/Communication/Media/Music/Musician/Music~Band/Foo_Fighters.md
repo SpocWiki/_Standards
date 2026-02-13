@@ -23,7 +23,7 @@ dv_has_:
     ast: Foo Fighters
     azb: فو فایترز
     be: Foo Fighters
-    be-tarask: Foo Fighters
+    be_tarask: Foo Fighters
     bg: Фу Файтърс
     bs: Foo Fighters
     ca: Foo Fighters
@@ -31,12 +31,12 @@ dv_has_:
     cy: Foo Fighters
     da: Foo Fighters
     de: Foo Fighters
-    de-ch: Foo Fighters
+    de_ch: Foo Fighters
     el: Foo Fighters
     eml: Foo Fighters
     en: Foo Fighters
-    en-ca: Foo Fighters
-    en-gb: Foo Fighters
+    en_ca: Foo Fighters
+    en_gb: Foo Fighters
     eo: Foo Fighters
     es: Foo Fighters
     et: Foo Fighters
@@ -74,7 +74,7 @@ dv_has_:
     pl: Foo Fighters
     pms: Foo Fighters
     pt: Foo Fighters
-    pt-br: Foo Fighters
+    pt_br: Foo Fighters
     ro: Foo Fighters
     ru: Foo Fighters
     scn: Foo Fighters
@@ -83,8 +83,8 @@ dv_has_:
     sk: Foo Fighters
     sl: Foo Fighters
     sr: Фу фајтерс
-    sr-ec: Фу фајтерс
-    sr-el: Фу фајтерс
+    sr_ec: Фу фајтерс
+    sr_el: Фу фајтерс
     su: Foo Fighters
     sv: Foo Fighters
     th: ฟูไฟเตอร์ส
@@ -94,11 +94,11 @@ dv_has_:
     vi: Foo Fighters
     wuu: 喷火战机乐队
     zh: 噴火戰機樂隊
-    zh-cn: 喷火战机乐队
-    zh-hans: 喷火战机乐队
-    zh-hant: 噴火戰機樂團
-    zh-hk: 噴火戰機樂團
-    zh-tw: 幽浮一族樂團
+    zh_cn: 喷火战机乐队
+    zh_hans: 喷火战机乐队
+    zh_hant: 噴火戰機樂團
+    zh_hk: 噴火戰機樂團
+    zh_tw: 幽浮一族樂團
 ---
 ## #has_/text_of_/abstract 
 

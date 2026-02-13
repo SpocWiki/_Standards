@@ -86,7 +86,7 @@ dv_has_:
     az: Аşşurbаnipаlın kitabxanası
     ba: Ашшурбанипал китапханаһы
     be: Бібліятэка Ашурбаніпала
-    be-tarask: Ашурбаніпальская бібліятэка
+    be_tarask: Ашурбаніпальская бібліятэка
     bg: Библиотека на Ашурбанипал
     ca: Biblioteca d'Assurbanipal
     ckb: کتێبخانەی ئاشووربانیپاڵ
@@ -123,7 +123,7 @@ dv_has_:
     sk: Aššurbanipalova knižnica
     sl: Asurbanipalova knjižnica
     sr: Асурбанипалова библиотека
-    sr-ec: Асурбанипалова библиотека
+    sr_ec: Асурбанипалова библиотека
     sv: Ashurbanipals bibliotek
     tl: Aklatan ni Ashurbanipal
     tr: Asurbanipal Kütüphanesi
@@ -133,7 +133,7 @@ dv_has_:
     wuu: 亚述巴尼拔图书馆
     yue: 亞述巴尼拔圖書館
     zh: 亞述巴尼拔圖書館
-    zh-hant: 亞述巴尼拔圖書館
+    zh_hant: 亞述巴尼拔圖書館
 ---
 # [[Library_of_Ashurbanipal]] 
 

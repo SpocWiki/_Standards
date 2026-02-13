@@ -7,7 +7,7 @@ dv_has_:
     ast: coñá
     az: konyak
     be: каньяк
-    be-tarask: каньяк
+    be_tarask: каньяк
     bg: коняк
     br: kognag
     ca: conyac
@@ -18,11 +18,11 @@ dv_has_:
     cy: Cognac
     da: cognac
     de: Cognac
-    de-ch: Cognac
+    de_ch: Cognac
     el: κονιάκ
     en: cognac
-    en-ca: Cognac
-    en-gb: Cognac
+    en_ca: Cognac
+    en_gb: Cognac
     eo: konjako
     es: coñac
     et: konjak
@@ -60,7 +60,7 @@ dv_has_:
     os: коньяк
     pl: Koniak
     pt: cognac
-    pt-br: conhaque
+    pt_br: conhaque
     ro: coniac
     ru: коньяк
     se: konjáhkka
@@ -88,8 +88,8 @@ dv_has_:
     yue: 干邑
     zh: 干邑
     zh-cn: 干邑白蘭地
-    zh-hans: 干邑白兰地
-    zh-hant: 干邑白蘭地
+    zh_hans: 干邑白兰地
+    zh_hant: 干邑白蘭地
 aliases:
 - cognac
 - coinnagh

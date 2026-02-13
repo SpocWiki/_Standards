@@ -104,7 +104,7 @@ dv_has_:
     ba: Абу Нувас
     bar: Abu Nuwas
     be: Абу Нувас
-    be-tarask: Абу Нувас
+    be_tarask: Абу Нувас
     bew: Abu Nawas
     bg: Абу Нувас
     bi: Abu Nuwas
@@ -126,8 +126,8 @@ dv_has_:
     diq: Ebu Nuvas
     el: Αμπού Νουβάς
     en: Abu Nuwas
-    en-ca: Abu Nuwas
-    en-gb: Abu Nuwas
+    en_ca: Abu Nuwas
+    en_gb: Abu Nuwas
     en-us: Abu Nuwas
     eo: Abu Nuvas
     es: Abu Nuwas
@@ -205,7 +205,7 @@ dv_has_:
     pnb: ابونواس
     ps: ابو نواس
     pt: Abu Nuwas
-    pt-br: Abu Nuwas
+    pt_br: Abu Nuwas
     ro: Abu Nuwas
     roa-tara: Abu Nuwas
     ru: Абу Нувас
@@ -220,7 +220,7 @@ dv_has_:
     sl: Abu Nuvas
     sq: Abu Nuvas
     sr: Абу Нувас
-    sr-ec: Абу Нувас
+    sr_ec: Абу Нувас
     sv: Abu Nuwas
     sw: Abu Nuwas
     syl: ꠀꠛꠥ ꠘꠥꠀꠍ

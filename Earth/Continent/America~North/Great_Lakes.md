@@ -203,7 +203,7 @@ dv_has_:
     ba: Бөйөк күлдәр
     bar: Grousse Seen
     be: Вялікія азёры
-    be-tarask: Вялікія азёры
+    be_tarask: Вялікія азёры
     bg: Големите езера
     bho: ग्रेट लेक्स
     bn: বৃহৎ হ্রদসমূহ
@@ -220,12 +220,12 @@ dv_has_:
     cy: Y Llynnoedd Mawr
     da: Store søer
     de: Große Seen
-    de-ch: Grosse Seen
+    de_ch: Grosse Seen
     el: Μεγάλες Λίμνες
     eml: Lèg grand
     en: Great Lakes
-    en-ca: Great Lakes
-    en-gb: Great Lakes
+    en_ca: Great Lakes
+    en_gb: Great Lakes
     eo: Grandaj Lagoj
     es: Grandes Lagos
     et: Suur järvistu
@@ -296,7 +296,7 @@ dv_has_:
     pms: Ij Grand Lagh
     pnb: وڈیاں جھیلاں
     pt: Grandes Lagos da América do Norte
-    pt-br: Grandes Lagos da América do Norte
+    pt_br: Grandes Lagos da América do Norte
     ro: Marile Lacuri
     roa-tara: Granne Laghe
     ru: Великие озёра

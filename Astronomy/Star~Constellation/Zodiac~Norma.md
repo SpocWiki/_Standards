@@ -99,7 +99,7 @@ dv_has_:
     az: Günyə
     ba: Мөйөшлөк
     be: Навугольнік
-    be-tarask: Навугольнік
+    be_tarask: Навугольнік
     bg: Ъгломер
     bn: মানদণ্ড মণ্ডল
     br: Skouer
@@ -111,7 +111,7 @@ dv_has_:
     cy: Norma
     da: Vinkelmåleren
     de: Winkelmaß
-    de-ch: Winkelmass
+    de_ch: Winkelmass
     diq: Cetwel
     el: Γνώμων
     en: Norma

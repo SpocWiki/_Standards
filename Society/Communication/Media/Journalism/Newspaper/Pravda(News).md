@@ -94,7 +94,7 @@ dv_has_:
     az: Pravda
     ba: Правда
     be: Праўда
-    be-tarask: Праўда
+    be_tarask: Праўда
     bg: Правда
     bn: প্রাভদা
     br: Pravda
@@ -125,11 +125,11 @@ dv_has_:
     ja: プラウダ
     ka: პრავდა
     kk: Правда
-    kk-arab: پراۆدا
+    kk_arab: پراۆدا
     kk-cn: پراۆدا
-    kk-cyrl: Правда
+    kk_cyrl: Правда
     kk-kz: Правда
-    kk-latn: Pravda
+    kk_latn: Pravda
     kk-tr: Pravda
     ko: 프라우다
     ku: Pravda
@@ -165,12 +165,12 @@ dv_has_:
     yi: פראוודא
     yue: 真理報
     zh: 真理报
-    zh-cn: 真理报
-    zh-hans: 真理报
-    zh-hant: 真理報
-    zh-hk: 真理報
-    zh-sg: 真理报
-    zh-tw: 真理報
+    zh_cn: 真理报
+    zh_hans: 真理报
+    zh_hant: 真理報
+    zh_hk: 真理報
+    zh_sg: 真理报
+    zh_tw: 真理報
 ---
 # [[Pravda(News)]] 
 

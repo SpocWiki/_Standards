@@ -9,7 +9,7 @@ dv_has_:
     az: Şanxay Əməkdaşlıq Təşkilatı
     ba: Шанхай хеҙмәттәшлек ойошмаһы
     be: Шанхайская арганізацыя супрацоўніцтва
-    be-tarask: Шанхайская арганізацыя супрацы
+    be_tarask: Шанхайская арганізацыя супрацы
     bg: Шанхайска организация за сътрудичество
     bn: সাংহাই সহযোগিতা সংস্থা
     bs: Šangajska organizacija za saradnju
@@ -21,8 +21,8 @@ dv_has_:
     de: Shanghaier Organisation für Zusammenarbeit
     el: Οργανισμός Συνεργασίας της Σαγκάης
     en: Shanghai Cooperation Organisation
-    en-ca: Shanghai Cooperation Organisation
-    en-gb: Shanghai Cooperation Organisation
+    en_ca: Shanghai Cooperation Organisation
+    en_gb: Shanghai Cooperation Organisation
     eo: Ŝanhaja Kunlabora Organizo
     es: Organización de Cooperación de Shanghái
     et: Shanghai Koostööorganisatsioon
@@ -45,9 +45,9 @@ dv_has_:
     ja: 上海協力機構
     ka: შანხაის თანამშრომლობის ორგანიზაცია
     kk: Шанхай Ынтымақтастық Ұйымы
-    kk-arab: شانحاي ىنتىماقتاستىق ۇيىمى
-    kk-cyrl: Шанхай Ынтымақтастық Ұйымы
-    kk-latn: Şanxaý Intımaqtastıq Uýımı
+    kk_arab: شانحاي ىنتىماقتاستىق ۇيىمى
+    kk_cyrl: Шанхай Ынтымақтастық Ұйымы
+    kk_latn: Şanxaý Intımaqtastıq Uýımı
     km: អង្គការសហប្រតិបត្តិការសៀងហៃ
     ko: 상하이 협력 기구
     ko-kp: 상해협조기구
@@ -70,7 +70,7 @@ dv_has_:
     pnb: شنگھائی تعاون تنظیم
     ps: شانګهای د همکاريو سازمان
     pt: Organização para Cooperação de Xangai
-    pt-br: Organização para Cooperação de Xangai
+    pt_br: Organização para Cooperação de Xangai
     ro: Organizația pentru Cooperare de la Shanghai
     ru: Шанхайская организация сотрудничества
     sd: شنگهائي تعاون تنظيم
@@ -79,12 +79,12 @@ dv_has_:
     sk: Šanghajská organizácia spolupráce
     sl: Organizacija šanghajskega sodelovanja
     sr: Шангајска организација за сарадњу
-    sr-ec: Шангајска организација за сарадњу
-    sr-el: Šangajska organizacija za saradnju
+    sr_ec: Шангајска организација за сарадњу
+    sr_el: Šangajska organizacija za saradnju
     sv: Shanghai Co-operation Organisation
     ta: ஷாங்காய் ஒத்துழைப்பு அமைப்பு
     tg: Созмони ҳамкории Шанхай
-    tg-latn: Sozmoni hamkoriji Şanxaj
+    tg_latn: Sozmoni hamkoriji Şanxaj
     th: องค์การความร่วมมือเซี่ยงไฮ้
     tk: Şanhaÿ Hyzmatdaşlyk Guramasy
     tr: Şanghay İşbirliği Örgütü
@@ -99,14 +99,14 @@ dv_has_:
     xmf: შანხაიშ წოროხანდაშ ორგანიზაცია
     yue: 上海合作組織
     zh: 上海合作组织
-    zh-cn: 上海合作组织
-    zh-hans: 上海合作组织
-    zh-hant: 上海合作組織
-    zh-hk: 上海合作組織
-    zh-mo: 上海合作組織
+    zh_cn: 上海合作组织
+    zh_hans: 上海合作组织
+    zh_hant: 上海合作組織
+    zh_hk: 上海合作組織
+    zh_mo: 上海合作組織
     zh-my: 上海合作组织
-    zh-sg: 上海合作组织
-    zh-tw: 上海合作組織
+    zh_sg: 上海合作组织
+    zh_tw: 上海合作組織
 aliases:
 - Organisasi Kerjasama Shanghai
 - Organisation de cooperation de Shanghai

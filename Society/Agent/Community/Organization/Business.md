@@ -189,7 +189,7 @@ dv_has_:
     ba: бизнес
     bcl: Negosyo
     be: бізнес
-    be-tarask: бізнэс
+    be_tarask: бізнэс
     bg: бизнес
     bho: व्यापार
     bn: ব্যবসা
@@ -206,8 +206,8 @@ dv_has_:
     diq: cayê kari
     el: επιχείρηση
     en: business
-    en-ca: business
-    en-gb: business
+    en_ca: business
+    en_gb: business
     en-us: business
     eo: entrepreno
     es: negocio
@@ -266,7 +266,7 @@ dv_has_:
     mni: ꯂꯂꯣꯟ ꯏꯇꯤꯛ
     mr: व्यवसाय
     ms: perniagaan
-    ms-arab: ڤرنياݢاءن
+    ms_arab: ڤرنياݢاءن
     mt: negozju
     mwl: negócio
     my: စီးပွားရေး
@@ -288,7 +288,7 @@ dv_has_:
     pnb: کاروبار
     ps: سوداگري
     pt: empresa
-    pt-br: negócio
+    pt_br: negócio
     qu: wakina
     ro: afacere
     ru: бизнес
@@ -312,8 +312,8 @@ dv_has_:
     so: ganacsi
     sq: biznes
     sr: бизнис
-    sr-ec: предузеће
-    sr-el: preduzeće
+    sr_ec: предузеће
+    sr_el: preduzeće
     st: mosebetsi
     su: Bisnis
     sv: företag
@@ -321,7 +321,7 @@ dv_has_:
     ta: வணிக நிறுவனம்
     te: వాణిజ్యశాస్త్రం
     tg: ширкати тиҷорӣ
-    tg-cyrl: ташкилоти тиҷоратӣ
+    tg_cyrl: ташкилоти тиҷоратӣ
     th: องค์กรธุรกิจ
     tk: telekeçilik
     tl: negosyo
@@ -329,7 +329,7 @@ dv_has_:
     tr: işletme
     ts: mabindzu
     tt: бизнес
-    tt-cyrl: бизнес
+    tt_cyrl: бизнес
     udm: ужбергатон
     uk: бізнес
     ur: کاروباری ادارہ
@@ -343,11 +343,11 @@ dv_has_:
     yue: 商業
     za: giyez
     zh: 企業
-    zh-cn: 企业
-    zh-hans: 企业
-    zh-hant: 企業
-    zh-hk: 企業
-    zh-tw: 商號
+    zh_cn: 企业
+    zh_hans: 企业
+    zh_hant: 企業
+    zh_hk: 企業
+    zh_tw: 商號
     zu: umhwebo
 ---
 # [[Business]] 

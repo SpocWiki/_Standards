@@ -40,7 +40,7 @@ dv_has_:
     oc: Cercidoideae
     pl: Cercidoideae
     pt: Cercidoideae
-    pt-br: Cercidoideae
+    pt_br: Cercidoideae
     ro: Cercidoideae
     ru: Cercidoideae
     sk: Cercidoideae
@@ -51,8 +51,8 @@ dv_has_:
     vo: Cercidoideae
     war: Cercidoideae
     zh: 紫荊亞科
-    zh-hans: 紫荆亚科
-    zh-hant: 紫荊亞科
+    zh_hans: 紫荆亚科
+    zh_hant: 紫荊亞科
 ---
 # [[Cercideae]] 
 

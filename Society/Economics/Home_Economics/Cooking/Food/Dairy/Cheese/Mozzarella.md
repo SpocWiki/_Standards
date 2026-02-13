@@ -82,7 +82,7 @@ dv_has_:
     ast: mozzarella
     az: Mozzarella
     be: мацарэла
-    be-tarask: мацарэльля
+    be_tarask: мацарэльля
     bg: моцарела
     bn: মোজ্জারেল্লা
     bo: མོ་ཟ་རེལ་ལ།
@@ -96,8 +96,8 @@ dv_has_:
     de: Mozzarella
     el: Μοτσαρέλα
     en: mozzarella
-    en-ca: mozzarella
-    en-gb: mozzarella
+    en_ca: mozzarella
+    en_gb: mozzarella
     eo: mocarelo
     es: mozzarella
     et: mozzarella
@@ -171,9 +171,9 @@ dv_has_:
     yue: 水牛芝士
     zh: 莫薩里拉乾酪
     zh-cn: 莫扎里拉奶酪
-    zh-hans: 莫扎里拉奶酪
-    zh-hant: 莫札瑞拉起司
-    zh-hk: 莫薩里拉芝士
+    zh_hans: 莫扎里拉奶酪
+    zh_hant: 莫札瑞拉起司
+    zh_hk: 莫薩里拉芝士
 ---
 # [[Mozzarella]]
 

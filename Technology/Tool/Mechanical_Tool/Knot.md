@@ -173,7 +173,7 @@ aliases:
 ---
 # [[Knot]] 
 
- is_similar_to = `$= dv.current().__is_similar_to` 
+ is_similar_to = `= this.dv_is_similar_to` 
 #is_/same_as :: [[WD~Knot,527395]] 
 
 ## #has_/text_of_/abstract 

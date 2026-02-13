@@ -111,7 +111,7 @@ dv_has_:
     az: B.B. Kinq
     azb: بی.بی. کینق
     be: Бі Бі Кінг
-    be-tarask: Бі Бі Кінг
+    be_tarask: Бі Бі Кінг
     bg: Би Би Кинг
     br: B.B. King
     bs: B.B. King
@@ -153,7 +153,7 @@ dv_has_:
     sco: B.B. King
     sh: B. B. King
     sr: Б.Б. Кинг
-    sr-ec: Би-Би Кинг
+    sr_ec: Би-Би Кинг
     su: B. B. King
     sv: B.B. King
     sw: B.B. King
@@ -167,12 +167,12 @@ dv_has_:
     yo: B.B. King
     yue: B. B. 京
     zh: B·B·金
-    zh-cn: B·B·金
-    zh-hans: B·B·金
-    zh-hant: 比·比·金
-    zh-hk: B·B·金
-    zh-sg: B·B·金
-    zh-tw: 比·比·金
+    zh_cn: B·B·金
+    zh_hans: B·B·金
+    zh_hant: 比·比·金
+    zh_hk: B·B·金
+    zh_sg: B·B·金
+    zh_tw: 比·比·金
 ---
 # [[B.B.King]] 
 

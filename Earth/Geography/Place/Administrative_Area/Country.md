@@ -344,7 +344,7 @@ dv_is_a: '[[Country]]'
 dv_has_:
   name_:
     ab: Аҳәынҭқарра
-    aeb-arab: بلاد
+    aeb_arab: بلاد
     af: land
     agq: inaʼ
     ak: Ɔman
@@ -364,7 +364,7 @@ dv_has_:
     ba: Ил
     bcl: Banwa
     be: краіна
-    be-tarask: краіна
+    be_tarask: краіна
     bg: страна
     bho: देश
     bi: Kaontri
@@ -394,8 +394,8 @@ dv_has_:
     dz: འཛམ་གླིང་རྒྱལ་ཁབ་དག་གི་མིང་རྫོང་དབྱིན་རྒྱ་གསུམ་ཤན་བསྦྱར
     el: χώρα
     en: country
-    en-ca: country
-    en-gb: country
+    en_ca: country
+    en_gb: country
     en-us: country
     eo: lando
     es: país
@@ -458,7 +458,7 @@ dv_has_:
     ko: 나라
     ks: مُلُک
     ku: welat
-    ku-latn: welat
+    ku_latn: welat
     kw: gwlas
     ky: Өлкө
     la: pagus
@@ -486,7 +486,7 @@ dv_has_:
     mnw: ရးနိဂီု
     mr: देश
     ms: negara
-    ms-arab: نݢارا
+    ms_arab: نݢارا
     mt: pajjiż
     mwl: Paíç
     my: တိုင်းပြည်
@@ -517,7 +517,7 @@ dv_has_:
     pnb: دیس
     ps: هېواد
     pt: país
-    pt-br: país
+    pt_br: país
     qu: suyu
     rgn: paès
     rmf: them
@@ -546,7 +546,7 @@ dv_has_:
     so: Wadan
     sq: shtet
     sr: земља
-    sr-ec: држава
+    sr_ec: држава
     srn: Kondre
     st: naha
     su: Nagri
@@ -558,7 +558,7 @@ dv_has_:
     tay: qalang (Koka)
     te: దేశం
     tg: кишвар
-    tg-cyrl: кишвар
+    tg_cyrl: кишвар
     th: ประเทศ
     ti: ሃገር
     tl: Bansa
@@ -567,8 +567,8 @@ dv_has_:
     tr: ülke
     trv: Alang
     tt: ил
-    tt-cyrl: ил
-    tt-latn: il
+    tt_cyrl: ил
+    tt_latn: il
     tum: Charu (Boma panji malo)
     udm: шаер
     ug: دۆلەت
@@ -589,14 +589,14 @@ dv_has_:
     za: Guekgya
     zgh: ⵜⴰⵎⴰⵣⵉⵔⵜ
     zh: 地理、地域意义上的国家、地区
-    zh-cn: 地理、地域意义上的国家、地区
-    zh-hans: 地理、地域意义上的国家、地区
-    zh-hant: 地理、地域意義上的國家、地區
-    zh-hk: 地理、地域意義上的國家、地區
-    zh-mo: 地理、地域意義上的國家、地區
+    zh_cn: 地理、地域意义上的国家、地区
+    zh_hans: 地理、地域意义上的国家、地区
+    zh_hant: 地理、地域意義上的國家、地區
+    zh_hk: 地理、地域意義上的國家、地區
+    zh_mo: 地理、地域意義上的國家、地區
     zh-my: 地理、地域意义上的国家、地区
-    zh-sg: 地理、地域意义上的国家、地区
-    zh-tw: 地理、地域意義上的國家、地區
+    zh_sg: 地理、地域意义上的国家、地区
+    zh_tw: 地理、地域意義上的國家、地區
   parent_class: '[[../AdministrativeArea]]'
   properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'
 dv_is_:

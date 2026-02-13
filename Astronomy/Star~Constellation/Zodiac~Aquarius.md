@@ -144,7 +144,7 @@ dv_has_:
     bbc: Morhumba
     bcl: Aquarius (konstelasyon)
     be: Вадаліў
-    be-tarask: Вадаліў
+    be_tarask: Вадаліў
     bg: Водолей
     bn: কুম্ভ
     bo: རྗམ་པའི་སྐར་ཚོམ་
@@ -157,12 +157,12 @@ dv_has_:
     cy: Aquarius
     da: Vandmanden
     de: Wassermann
-    de-ch: Wassermann
+    de_ch: Wassermann
     diq: Deryawan
     el: Υδροχόος
     en: Aquarius
-    en-ca: Aquarius
-    en-gb: Aquarius
+    en_ca: Aquarius
+    en_gb: Aquarius
     eo: Akvisto
     es: Acuario
     et: Veevalaja
@@ -215,7 +215,7 @@ dv_has_:
     pcd: Pucheu
     pl: Gwiazdozbiór Wodnika
     pt: Aquarius
-    pt-br: Aquarius
+    pt_br: Aquarius
     qu: Mikikiray
     ro: Vărsătorul
     ru: Водолей
@@ -241,7 +241,7 @@ dv_has_:
     wuu: 宝瓶座
     yue: 寶瓶座
     zh: 寶瓶座
-    zh-cn: 水瓶座
+    zh_cn: 水瓶座
 dv_is_:
   same_as:
   - '[[../../WikiData/WD~Aquarius,10576|WD~Aquarius,10576]]'

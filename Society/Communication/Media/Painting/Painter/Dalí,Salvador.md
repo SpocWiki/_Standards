@@ -306,7 +306,7 @@ dv_has_:
     bar: Salvador Dalí
     bcl: Salvador Dali
     be: Сальвадор Далі
-    be-tarask: Сальвадор Далі
+    be_tarask: Сальвадор Далі
     bg: Салвадор Дали
     bho: सल्वाडोर डाली
     bi: Salvador Dalí
@@ -323,7 +323,7 @@ dv_has_:
     ckb: سالڤادۆر دالی
     co: Salvador Dalí
     crh: Salvador Dali
-    crh-latn: Salvador Dali
+    crh_latn: Salvador Dali
     cs: Salvador Dalí
     cv: Сальвадор Дали
     cy: Salvador Dalí
@@ -333,8 +333,8 @@ dv_has_:
     diq: Salvador Dalí
     el: Σαλβαδόρ Νταλί
     en: Salvador Dalí
-    en-ca: Salvador Dalí
-    en-gb: Salvador Dalí
+    en_ca: Salvador Dalí
+    en_gb: Salvador Dalí
     eo: Salvador Dalí
     es: Salvador Dalí
     et: Salvador Dalí
@@ -423,7 +423,7 @@ dv_has_:
     nap: Salvador Dalí
     nb: Salvador Dalí
     nds: Salvador Dalí
-    nds-nl: Salvador Dalí
+    nds_nl: Salvador Dalí
     ne: सेल्भादोर दाली
     new: साल्भाडोर् डाली
     nl: Salvador Dalí
@@ -443,7 +443,7 @@ dv_has_:
     pnb: سیلوادور ڈالی
     ps: سلواډور دالي
     pt: Salvador Dalí
-    pt-br: Salvador Dalí
+    pt_br: Salvador Dalí
     qu: Salvador Dalí
     rm: Salvador Dalí
     rmf: Salvador Dalí
@@ -471,7 +471,7 @@ dv_has_:
     so: Salvador Dalí
     sq: Salvador Dalí
     sr: Салвадор Дали
-    sr-ec: Салвадор Дали
+    sr_ec: Салвадор Дали
     srn: Salvador Dalí
     stq: Salvador Dalí
     su: Salvador Dalí
@@ -507,7 +507,7 @@ dv_has_:
     yue: 達利
     za: Salvador Dalí
     zh: 萨尔瓦多·达利
-    zh-hk: 沙華多·達利
+    zh_hk: 沙華多·達利
     zu: Salvador Dalí
 ---
 # [[Dalí,Salvador]] 

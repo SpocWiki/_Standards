@@ -49,7 +49,7 @@ dv_has_:
     az: Gerenuk
     ban: Gerenuk
     be: Герэнук
-    be-tarask: Герэнук
+    be_tarask: Герэнук
     bg: геренук
     br: Gazelenn-jirafenn
     ca: antílop girafa
@@ -96,8 +96,8 @@ dv_has_:
     so: Garanuug
     sq: Litocranius walleri
     sr: Litocranius walleri
-    sr-ec: Litocranius walleri
-    sr-el: Litocranius walleri
+    sr_ec: Litocranius walleri
+    sr_el: Litocranius walleri
     sv: Giraffgasell
     ta: சிவிங்கி மான்
     th: เกรินุก
@@ -108,12 +108,12 @@ dv_has_:
     vi: Litocranius walleri
     war: Litocranius walleri
     zh: 长颈羚
-    zh-cn: 长颈羚
-    zh-hans: 长颈羚
-    zh-hant: 長頸羚
-    zh-hk: 長頸羚
-    zh-sg: 长颈羚
-    zh-tw: 長頸羚
+    zh_cn: 长颈羚
+    zh_hans: 长颈羚
+    zh_hant: 長頸羚
+    zh_hk: 長頸羚
+    zh_sg: 长颈羚
+    zh_tw: 長頸羚
 ---
 # [[Gerenuk]] 
 ![[Gerenuk/gerenuk.jpg]] 

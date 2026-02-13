@@ -3,7 +3,7 @@ has_id_wikidata: Q30251139
 dv_has_:
   name_:
     be: Пратакол моўнага сервера
-    be-tarask: Пратакол моўнага сэрвэру
+    be_tarask: Пратакол моўнага сэрвэру
     de: Language Server Protocol
     en: Language Server Protocol
     ja: Language Server Protocol

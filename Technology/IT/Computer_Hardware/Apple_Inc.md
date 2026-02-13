@@ -489,7 +489,7 @@ dv_has_:
     azb: اپل شیرکتی
     ban: Apple inc
     be: Apple
-    be-tarask: Эпл
+    be_tarask: Эпл
     bg: Епъл
     bho: एप्पल इंक.
     blk: Apple Inc.
@@ -545,7 +545,7 @@ dv_has_:
     ml: ആപ്പിൾ ഇൻകോർപ്പറേറ്റഡ്
     mos: Apple Inc.
     mr: ॲपल
-    ms-arab: ايڤل
+    ms_arab: ايڤل
     mul: Apple Inc.
     my: အက်ပဲ
     mzn: اپل
@@ -573,7 +573,7 @@ dv_has_:
     so: APPLE INC
     sq: Apple Inc.
     sr: Епл
-    sr-el: Epl
+    sr_el: Epl
     su: Apple Inc.
     sv: Apple Inc.
     sw: Apple Inc.
@@ -586,11 +586,11 @@ dv_has_:
     tl: Apple Inc.
     tok: kulupu Apo
     tt: Apple Inc.
-    tt-cyrl: Apple Inc.
+    tt_cyrl: Apple Inc.
     tyv: Apple Inc.
     ug: ئالما شىركىتى
-    ug-arab: ئالما شىركىتى
-    ug-latn: Alma shirkiti
+    ug_arab: ئالما شىركىتى
+    ug_latn: Alma shirkiti
     ur: ایپل متشرک
     uz: Apple Inc.
     war: Apple Inc.
@@ -600,14 +600,14 @@ dv_has_:
     yo: Apple Inc.
     yue: 蘋果公司
     zh: 蘋果公司
-    zh-cn: 苹果公司
-    zh-hans: 苹果公司
-    zh-hant: 蘋果公司
-    zh-hk: 蘋果公司
-    zh-mo: 蘋果公司
+    zh_cn: 苹果公司
+    zh_hans: 苹果公司
+    zh_hant: 蘋果公司
+    zh_hk: 蘋果公司
+    zh_mo: 蘋果公司
     zh-my: 苹果公司
-    zh-sg: 苹果公司
-    zh-tw: 蘋果公司
+    zh_sg: 苹果公司
+    zh_tw: 蘋果公司
     zu: Apple Inc.
 ---
 # [[Apple_Inc]] 

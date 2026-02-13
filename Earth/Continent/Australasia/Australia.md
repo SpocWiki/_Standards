@@ -1138,7 +1138,7 @@ dv_has_:
     ab: Австралиа
     ace: Australia
     ady: Аустралие
-    aeb-arab: أستراليا
+    aeb_arab: أستراليا
     af: Australië
     alt: Австралия
     am: አውስትራልያ
@@ -1164,7 +1164,7 @@ dv_has_:
     bbc: Australia
     bcl: Australya
     be: Аўстралія
-    be-tarask: Аўстралія
+    be_tarask: Аўстралія
     bew: Ostrali
     bg: Австралия
     bgn: استرالیا
@@ -1183,7 +1183,7 @@ dv_has_:
     bug: ᨕᨚᨔᨛᨑᨒᨗ
     bxr: Австрали
     ca: Austràlia
-    cbk-zam: Australia
+    cbk_zam: Australia
     cdo: Ó̤-ciŭ
     ce: Австрали
     ceb: Awstralya
@@ -1194,7 +1194,7 @@ dv_has_:
     co: Australia
     cr: ᐊᐢᑕᐊᐃᐧᐊ
     crh: Avstraliya
-    crh-latn: Avstraliya
+    crh_latn: Avstraliya
     cs: Austrálie
     csb: Aùstralëjô
     cu: Аѵстралїꙗ
@@ -1204,7 +1204,7 @@ dv_has_:
     dag: Australia
     de: Australien
     de-at: Australien
-    de-ch: Australien
+    de_ch: Australien
     din: Australia
     diq: Australya
     dsb: Awstralska
@@ -1216,8 +1216,8 @@ dv_has_:
     el: Αυστραλία
     eml: Austràglia
     en: Australia
-    en-ca: Australia
-    en-gb: Australia
+    en_ca: Australia
+    en_gb: Australia
     en-us: Australia
     eo: Aŭstralio
     es: Australia
@@ -1245,7 +1245,7 @@ dv_has_:
     gn: Autaralia
     gom: ಆಸ್ಟ್ರೇಲಿಯ
     gom-deva: ऑस्ट्रेलिया
-    gom-latn: Australia
+    gom_latn: Australia
     gor: Australia
     got: "\U00010330\U0001033F\U00010343\U00010344\U00010342\U00010330\U0001033B\U0001033E\U00010349\U00010343"
     gpe: Australia
@@ -1325,7 +1325,7 @@ dv_has_:
     lzh: 澳大利亞
     mad: Australia
     mai: अस्ट्रेलिया
-    map-bms: Australia
+    map_bms: Australia
     mdf: Австралия
     mg: Aostralia
     mhr: Австралий
@@ -1339,7 +1339,7 @@ dv_has_:
     mr: ऑस्ट्रेलिया
     mrj: Австрали
     ms: Australia
-    ms-arab: اوستراليا
+    ms_arab: اوستراليا
     mt: Awstralja
     mwl: Oustrália
     my: ဩစတြေးလျနိုင်ငံ
@@ -1351,7 +1351,7 @@ dv_has_:
     nap: Australia
     nb: Australia
     nds: Australien
-    nds-nl: Australië
+    nds_nl: Australië
     ne: अस्ट्रेलिया
     new: अस्त्रेलिया
     nia: Australia
@@ -1383,7 +1383,7 @@ dv_has_:
     pnt: Αυστραλία
     ps: آسټراليا
     pt: Austrália
-    pt-br: Austrália
+    pt_br: Austrália
     qu: Awstraliya
     rm: Australia
     rmy: Australiya
@@ -1420,8 +1420,8 @@ dv_has_:
     so: Australia
     sq: Australia
     sr: Аустралија
-    sr-ec: Аустралија
-    sr-el: Australija
+    sr_ec: Аустралија
+    sr_el: Australija
     srn: Australiyankondre
     ss: I-Ositreliya
     st: Australia
@@ -1480,14 +1480,14 @@ dv_has_:
     zea: Australië
     zgh: ⵓⵙⵜⵔⴰⵍⵢⴰ
     zh: 澳大利亚
-    zh-cn: 澳大利亚
-    zh-hans: 澳大利亚
-    zh-hant: 澳大利亞
-    zh-hk: 澳洲
-    zh-mo: 澳洲
+    zh_cn: 澳大利亚
+    zh_hans: 澳大利亚
+    zh_hant: 澳大利亞
+    zh_hk: 澳洲
+    zh_mo: 澳洲
     zh-my: 澳大利亚
-    zh-sg: 澳大利亚
-    zh-tw: 澳洲
+    zh_sg: 澳大利亚
+    zh_tw: 澳洲
     zu: I-Ostreliya
   telephone_:
     Prefix_:

@@ -100,7 +100,7 @@ dv_has_:
     ast: poliedru
     avk: Jonlent
     ba: күпҡыр
-    be-tarask: шматграньнік
+    be_tarask: шматграньнік
     bg: многостен
     bn: বহুতলক
     bs: poliedar
@@ -112,11 +112,11 @@ dv_has_:
     cy: polyhedron
     da: polyeder
     de: Polyeder
-    de-ch: Polyeder
+    de_ch: Polyeder
     el: πολύεδρο
     en: polyhedron
-    en-ca: polyhedron
-    en-gb: polyhedron
+    en_ca: polyhedron
+    en_gb: polyhedron
     eo: pluredro
     es: poliedro
     et: hulktahukas
@@ -155,7 +155,7 @@ dv_has_:
     pl: wielościan
     pms: poliedr
     pt: poliedro
-    pt-br: poliedro
+    pt_br: poliedro
     qu: achka t'asla
     ro: poliedru
     ru: многогранник
@@ -166,8 +166,8 @@ dv_has_:
     sl: polieder
     sn: nheyozhinji
     sr: полиедар
-    sr-ec: полиедар
-    sr-el: poliedar
+    sr_ec: полиедар
+    sr_el: poliedar
     sv: polyeder
     ta: பன்முகத்திண்மம்
     tg: бисёррӯя
@@ -175,18 +175,18 @@ dv_has_:
     tok: sijelo tomo sinpin
     tr: çokyüzlü
     tt: күпкырлык
-    tt-cyrl: күпкырлык
+    tt_cyrl: күпкырлык
     uk: багатогранник
     vi: đa diện
     wuu: 多面体
     yue: 多面體
     zh: 多面体
-    zh-cn: 多面体
-    zh-hans: 多面体
-    zh-hant: 多面體
-    zh-hk: 多面體
-    zh-sg: 多面体
-    zh-tw: 多面體
+    zh_cn: 多面体
+    zh_hans: 多面体
+    zh_hant: 多面體
+    zh_hk: 多面體
+    zh_sg: 多面体
+    zh_tw: 多面體
 ---
 # [[Polyhedron]] 
 

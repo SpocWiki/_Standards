@@ -128,7 +128,7 @@ dv_has_:
     ba: Эттәр
     ban: Canidae
     be: сабачыя
-    be-tarask: сабачыя
+    be_tarask: сабачыя
     bg: кучеви
     br: Kieged
     bs: Canidae
@@ -209,7 +209,7 @@ dv_has_:
     pl: psowate
     pnb: کتے
     pt: Canídeos
-    pt-br: canídeos
+    pt_br: canídeos
     ro: Canide
     ru: псовые
     rue: Псовы
@@ -242,9 +242,9 @@ dv_has_:
     xmf: ჯოღორიშობურეფი
     yue: 犬科
     zh: 犬科
-    zh-cn: 犬科
-    zh-hans: 犬科
-    zh-tw: 犬科
+    zh_cn: 犬科
+    zh_hans: 犬科
+    zh_tw: 犬科
     zu: Canidae
 ---
 # [[Canidae]] 

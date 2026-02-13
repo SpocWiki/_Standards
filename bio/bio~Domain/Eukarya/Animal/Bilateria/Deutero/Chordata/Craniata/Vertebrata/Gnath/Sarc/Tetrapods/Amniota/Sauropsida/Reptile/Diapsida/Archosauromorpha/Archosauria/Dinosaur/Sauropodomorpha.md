@@ -76,7 +76,7 @@ dv_has_:
     oc: Sauropodomorpha
     pl: Zauropodomorfy
     pt: Sauropodomorfos
-    pt-br: sauropodomorpha
+    pt_br: sauropodomorpha
     ro: Sauropodomorpha
     ru: завроподоморфы
     sco: Sauropodomorpha
@@ -94,12 +94,12 @@ dv_has_:
     war: Sauropodomorpha
     yue: 蜥腳形亞目
     zh: 蜥腳形亞目
-    zh-cn: 蜥脚形亚目
-    zh-hans: 蜥脚形亚目
-    zh-hant: 蜥腳形亞目
-    zh-hk: 蜥腳形亞目
-    zh-sg: 蜥脚形亚目
-    zh-tw: 蜥腳形亞目
+    zh_cn: 蜥脚形亚目
+    zh_hans: 蜥脚形亚目
+    zh_hant: 蜥腳形亞目
+    zh_hk: 蜥腳形亞目
+    zh_sg: 蜥脚形亚目
+    zh_tw: 蜥腳形亞目
 ---
 # [[Sauropodomorpha]] 
 

@@ -33,7 +33,7 @@ dv_has_:
     oc: Antelientomon
     pl: Antelientomon
     pt: Antelientomon
-    pt-br: Antelientomon
+    pt_br: Antelientomon
     ro: Antelientomon
     ru: Antelientomon
     sq: Antelientomon
@@ -44,8 +44,8 @@ dv_has_:
     war: Antelientomon
     yo: Antelientomon
     zh: 旭蚖属
-    zh-cn: 旭蚖属
-    zh-tw: 旭蚖属
+    zh_cn: 旭蚖属
+    zh_tw: 旭蚖属
 ---
 # [[Antelientomon]]
 

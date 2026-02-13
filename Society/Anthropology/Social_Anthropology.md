@@ -7,7 +7,7 @@ dv_has_:
     az: sosial antropologiya
     ba: социаль антропология
     be: сацыяльная антрапалогія
-    be-tarask: сацыяльная антрапалёгія
+    be_tarask: сацыяльная антрапалёгія
     bg: Социална антропология
     bn: সামাজিক নৃবিজ্ঞান
     bs: Socijalna antropologija
@@ -57,8 +57,8 @@ dv_has_:
     smn: sosiaalantropologia
     sms: sosiaalantropologia
     sr: социјална антропологија
-    sr-ec: социјална антропологија
-    sr-el: socijalna antropologija
+    sr_ec: социјална антропологија
+    sr_el: socijalna antropologija
     sv: socialantropologi
     ta: சமூக மானிடவியல்
     th: มานุษยวิทยาสังคม

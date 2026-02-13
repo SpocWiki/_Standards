@@ -106,8 +106,8 @@ dv_has_:
     sl: nakup Louisiane
     so: Louisiana Purchase
     sr: Куповина Луизијане
-    sr-ec: Куповина Луизијане
-    sr-el: Kupovina Luizijane
+    sr_ec: Куповина Луизијане
+    sr_el: Kupovina Luizijane
     sv: Louisianaköpet
     ta: லூசியானா வாங்கல்
     th: การซื้อดินแดนหลุยส์เซียนา
@@ -121,12 +121,12 @@ dv_has_:
     wuu: 路易斯安那购地
     yue: 路易斯安那購地
     zh: 路易斯安那購地
-    zh-cn: 路易斯安那購地
-    zh-hans: 路易斯安那購地
-    zh-hant: 路易斯安那購地
-    zh-hk: 路易斯安那購地
-    zh-sg: 路易斯安那購地
-    zh-tw: 路易斯安那購地
+    zh_cn: 路易斯安那購地
+    zh_hans: 路易斯安那購地
+    zh_hant: 路易斯安那購地
+    zh_hk: 路易斯安那購地
+    zh_sg: 路易斯安那購地
+    zh_tw: 路易斯安那購地
   time_:
     started: 1803-06-01T00:00:00.000+00:53
 dv_is_:

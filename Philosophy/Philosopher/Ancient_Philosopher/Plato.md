@@ -273,7 +273,7 @@ dv_has_:
     bar: Platon
     bcl: Platón
     be: Платон
-    be-tarask: Плятон
+    be_tarask: Плятон
     bew: Platon
     bg: Платон
     bho: प्लेटो
@@ -299,15 +299,15 @@ dv_has_:
     da: Platon
     de: Platon
     de-at: Platon
-    de-ch: Platon
+    de_ch: Platon
     diq: Eflatun
     dsb: Platon
     dty: प्लेटो
     el: Πλάτων
     eml: Platån
     en: Plato
-    en-ca: Plato
-    en-gb: Plato
+    en_ca: Plato
+    en_gb: Plato
     en-us: Plato
     eo: Platono
     es: Platón
@@ -385,7 +385,7 @@ dv_has_:
     lzh: 柏拉圖
     mad: Plato
     mai: प्लेटो
-    map-bms: Plato
+    map_bms: Plato
     mg: Plato
     min: Plato
     mk: Платон
@@ -393,7 +393,7 @@ dv_has_:
     mn: Платон
     mr: प्लेटो
     ms: Aflatun
-    ms-arab: افلاطون
+    ms_arab: افلاطون
     mt: Platun
     mul: Πλάτων
     mwl: Platon
@@ -404,7 +404,7 @@ dv_has_:
     nan: Platon
     nb: Platon
     nds: Platon
-    nds-nl: Plato
+    nds_nl: Plato
     ne: प्लेटो
     new: प्लेतो
     nia: Plato
@@ -484,14 +484,14 @@ dv_has_:
     zea: Plato
     zgh: ⴰⴼⵍⴰⵟⵓⵏ
     zh: 柏拉图
-    zh-cn: 柏拉图
-    zh-hans: 柏拉图
-    zh-hant: 柏拉圖
-    zh-hk: 柏拉圖
-    zh-mo: 柏拉圖
+    zh_cn: 柏拉图
+    zh_hans: 柏拉图
+    zh_hant: 柏拉圖
+    zh_hk: 柏拉圖
+    zh_mo: 柏拉圖
     zh-my: 柏拉图
-    zh-sg: 柏拉图
-    zh-tw: 柏拉圖
+    zh_sg: 柏拉图
+    zh_tw: 柏拉圖
 ---
 # [[Plato]] 
 

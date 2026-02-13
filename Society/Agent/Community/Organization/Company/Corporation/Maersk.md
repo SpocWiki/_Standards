@@ -96,7 +96,7 @@ dv_has_:
     ast: A.P. Møller-Mærsk
     azb: مرسک
     be: Maersk
-    be-tarask: Маерск
+    be_tarask: Маерск
     bg: Маерск
     ca: Maersk
     cs: Maersk
@@ -145,13 +145,13 @@ dv_has_:
     yi: מערסק
     yue: 馬士基
     zh: 马士基
-    zh-cn: 马士基
-    zh-hans: 马士基
-    zh-hant: 馬士基
-    zh-hk: 馬士基
-    zh-mo: 馬士基
-    zh-sg: 马士基
-    zh-tw: 快桅
+    zh_cn: 马士基
+    zh_hans: 马士基
+    zh_hant: 馬士基
+    zh_hk: 馬士基
+    zh_mo: 馬士基
+    zh_sg: 马士基
+    zh_tw: 快桅
 ---
 # [[Maersk]] 
 

@@ -88,20 +88,20 @@ dv_has_:
     ast: Marchantiophyta
     az: Marchantiophyta
     be: пячоначныя імхі
-    be-tarask: пячоначнікі
+    be_tarask: пячоначнікі
     bg: Чернодробни мъхове
     bjn: Lumut hati
     ca: Marcantiofití
     ceb: Marchantiophyta
     crh: сiger otları
-    crh-latn: Ciger otları
+    crh_latn: Ciger otları
     cs: játrovky
     cy: llysiau'r afu
     da: Levermosser
     de: Lebermoose
     en: liverwort
-    en-ca: Marchantiophyta
-    en-gb: liverwort
+    en_ca: Marchantiophyta
+    en_gb: liverwort
     eo: Hepatikoj
     es: Marchantiophyta
     et: Helviksammaltaimed
@@ -142,7 +142,7 @@ dv_has_:
     oc: Marchantiophyta
     pl: wątrobowce
     pt: hepáticas
-    pt-br: Marchantiophyta
+    pt_br: Marchantiophyta
     ro: Marchantiophyta
     ru: печёночные мхи
     sk: pečeňovky
@@ -160,12 +160,12 @@ dv_has_:
     wuu: 地钱门
     yue: 地錢門
     zh: 地钱门
-    zh-cn: 地钱门
-    zh-hans: 地钱门
-    zh-hant: 地錢門
-    zh-hk: 苔綱
-    zh-sg: 苔纲
-    zh-tw: 地錢門
+    zh_cn: 地钱门
+    zh_hans: 地钱门
+    zh_hant: 地錢門
+    zh_hk: 苔綱
+    zh_sg: 苔纲
+    zh_tw: 地錢門
 ---
 # [[Liverwort]] 
 

@@ -149,7 +149,7 @@ dv_has_:
     az: Tomas Edvard Lourens
     azb: توماس ادوارد لورنس
     be: Томас Эдвард Лоўрэнс
-    be-tarask: Томас Эдўард Лоўрэнс
+    be_tarask: Томас Эдўард Лоўрэнс
     bg: Томас Лорънс
     bn: টমাস এডওয়ার্ড লরেন্স
     br: Thomas Edward Lawrence
@@ -160,11 +160,11 @@ dv_has_:
     cy: T. E. Lawrence
     da: T.E. Lawrence
     de: T. E. Lawrence
-    de-ch: T. E. Lawrence
+    de_ch: T. E. Lawrence
     el: Τόμας Έντουαρντ Λόρενς
     en: T. E. Lawrence
-    en-ca: T. E. Lawrence
-    en-gb: T. E. Lawrence
+    en_ca: T. E. Lawrence
+    en_gb: T. E. Lawrence
     eo: Thomas Edward Lawrence
     es: Thomas Edward Lawrence
     eu: T. E. Lawrence
@@ -209,7 +209,7 @@ dv_has_:
     pnb: ٹی ای لارنس
     ps: توماس اېډورډ لارېنس
     pt: T. E. Lawrence
-    pt-br: T. E. Lawrence
+    pt_br: T. E. Lawrence
     ro: T. E. Lawrence
     ru: Томас Эдвард Лоуренс
     sco: T. E. Lawrence
@@ -232,12 +232,12 @@ dv_has_:
     wuu: 托马斯·爱德华·劳伦斯
     yue: 湯馬斯勞倫斯
     zh: 托马斯·爱德华·劳伦斯
-    zh-cn: 托马斯·爱德华·劳伦斯
-    zh-hans: 托马斯·爱德华·劳伦斯
-    zh-hant: 托馬斯·愛德華·勞倫斯
-    zh-hk: 湯瑪斯·愛德華·勞倫斯
-    zh-sg: 托马斯·爱德华·劳伦斯
-    zh-tw: 湯瑪斯·愛德華·勞倫斯
+    zh_cn: 托马斯·爱德华·劳伦斯
+    zh_hans: 托马斯·爱德华·劳伦斯
+    zh_hant: 托馬斯·愛德華·勞倫斯
+    zh_hk: 湯瑪斯·愛德華·勞倫斯
+    zh_sg: 托马斯·爱德华·劳伦斯
+    zh_tw: 湯瑪斯·愛德華·勞倫斯
 ---
 # [[Lawrence,T._E.]] 
 

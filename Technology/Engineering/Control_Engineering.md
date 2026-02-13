@@ -75,7 +75,7 @@ dv_has_:
     ar: هندسة التحكم
     ast: Inxeniería de control
     be: тэорыя аўтаматычнага кіравання
-    be-tarask: аўтаматыка
+    be_tarask: аўтаматыка
     bg: Автоматичен контрол
     bs: automatika
     ca: Enginyeria de control
@@ -101,7 +101,7 @@ dv_has_:
     lt: automatinio valdymo teorija
     mn: Хяналт тохируулгын инженер
     ms: kejuruteraan kawalan
-    ms-arab: کجوروتراءن کاولن
+    ms_arab: کجوروتراءن کاولن
     nan: Khòng-chè kang-têng
     nb: reguleringsteknikk
     nl: regeltechniek
@@ -125,7 +125,7 @@ dv_has_:
     war: Inhenyeriya hin kontrol
     yue: 控制工程
     zh: 控制工程
-    zh-hans: 控制工程
+    zh_hans: 控制工程
 ---
 # [[Control_Engineering]] 
 

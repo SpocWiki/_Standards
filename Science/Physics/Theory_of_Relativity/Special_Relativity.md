@@ -144,7 +144,7 @@ dv_has_:
     ban: Rélativitas khusus
     bar: Spezieje Relativitetstheorie
     be: спецыяльная тэорыя адноснасці
-    be-tarask: спэцыяльная тэорыя адноснасьці
+    be_tarask: спэцыяльная тэорыя адноснасьці
     bg: Специална теория на относителността
     bho: बिशेस सापेक्षता
     bn: বিশেষ আপেক্ষিকতা
@@ -162,8 +162,8 @@ dv_has_:
     diq: Teoriya Relativita Xısusi
     el: ειδική σχετικότητα
     en: special relativity
-    en-ca: Special relativity
-    en-gb: Special relativity
+    en_ca: Special relativity
+    en_gb: Special relativity
     eo: speciala teorio de relativeco
     es: relatividad especial
     et: erirelatiivsusteooria
@@ -217,7 +217,7 @@ dv_has_:
     pnb: سپیشل ریلیٹیوٹی
     ps: ځانګړی نسبيت
     pt: relatividade restrita
-    pt-br: relatividade especial
+    pt_br: relatividade especial
     ro: teoria relativității restrânse
     ru: специальная теория относительности
     scn: Tiurìa di la rilativitati spiciali
@@ -230,8 +230,8 @@ dv_has_:
     sl: posebna teorija relativnosti
     sq: teoria speciale e relativitetit
     sr: специјална теорија релативности
-    sr-ec: специјална теорија релативности
-    sr-el: specijalna teorija relativnosti
+    sr_ec: специјална теорија релативности
+    sr_el: specijalna teorija relativnosti
     su: Teori Relativitas Khusus
     sv: speciella relativitetsteorin
     sw: Uhusianifu maalumu
@@ -254,9 +254,9 @@ dv_has_:
     yue: 狹義相對論
     zgh: ⵜⵉⵎⵎⴰⵙⵖⵜ ⵜⵉⵎⵥⵍⵉⵜ
     zh: 狹義相對論
-    zh-cn: 狭义相对论
-    zh-hans: 狭义相对论
-    zh-hant: 狹義相對論
+    zh_cn: 狭义相对论
+    zh_hans: 狭义相对论
+    zh_hant: 狹義相對論
 ---
 # [[Special_Relativity]]
 

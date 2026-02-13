@@ -51,13 +51,13 @@ dv_has_:
     ar: حزمة
     ast: fexe
     be: пучок
-    be-tarask: пучок
+    be_tarask: пучок
     ca: feix
     de: Garbe
     el: δεμάτιο
     en: sheaf
-    en-ca: sheaf
-    en-gb: sheaf
+    en_ca: sheaf
+    en_gb: sheaf
     eo: garbo
     es: haz
     eu: sorta
@@ -78,21 +78,21 @@ dv_has_:
     nn: knippe
     pl: snop
     pt: feixe
-    pt-br: feixe
+    pt_br: feixe
     ro: fascicul
     ru: пучок
     sl: snop
     sr: snop
-    sr-ec: сноп
-    sr-el: snop
+    sr_ec: сноп
+    sr_el: snop
     sv: kärve
     tr: deste
     uk: пучок
     vi: bó
     yue: 層
     zh: 层 (数学)
-    zh-hans: 层
-    zh-hant: 層
+    zh_hans: 层
+    zh_hant: 層
 ---
 # [[Sheaf(Math)]] 
 

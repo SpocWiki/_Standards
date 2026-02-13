@@ -282,7 +282,7 @@ video:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Wann%20wachsen%20B%C3%A4ume%3F.webm
 dv_has_:
   name_:
-    aeb-arab: شجرة
+    aeb_arab: شجرة
     af: boom
     agq: fɨkaʼ
     am: ዛፍ
@@ -305,7 +305,7 @@ dv_has_:
     bar: Bam
     bcl: Poon
     be: дрэва
-    be-tarask: дрэва
+    be_tarask: дрэва
     bew: Puun
     bg: дърво
     bho: पेड़
@@ -339,7 +339,7 @@ dv_has_:
     el: δέντρο
     eml: élber
     en: tree
-    en-ca: tree
+    en_ca: tree
     eo: arbo
     es: árbol
     et: puu
@@ -431,7 +431,7 @@ dv_has_:
     mni: ꯎ ꯄꯥꯝꯕꯤ
     mr: झाड
     ms: pokok
-    ms-arab: ڤوکوق
+    ms_arab: ڤوکوق
     mt: siġra
     mwl: arble
     my: သစ်ပင်
@@ -441,7 +441,7 @@ dv_has_:
     nan: chhiū
     nb: tre
     nds: Boom
-    nds-nl: boom
+    nds_nl: boom
     ne: रूख
     new: सिमा
     nl: boom
@@ -462,7 +462,7 @@ dv_has_:
     pnb: رکھ
     ps: ونه
     pt: árvore
-    pt-br: árvore
+    pt_br: árvore
     pwn: kasiw
     qu: sach'a
     rm: planta
@@ -515,7 +515,7 @@ dv_has_:
     tpi: diwai
     tr: ağaç
     tt: агач
-    tt-cyrl: агач
+    tt_cyrl: агач
     tw: dua
     udm: писпу
     uk: дерево
@@ -538,14 +538,14 @@ dv_has_:
     za: faex
     zgh: ⵜⴰⴷⴷⴰⴳⵜ
     zh: 树
-    zh-cn: 树
-    zh-hans: 树
-    zh-hant: 樹
-    zh-hk: 樹
-    zh-mo: 樹
+    zh_cn: 树
+    zh_hans: 树
+    zh_hant: 樹
+    zh_hk: 樹
+    zh_mo: 樹
     zh-my: 树
-    zh-sg: 树
-    zh-tw: 樹
+    zh_sg: 树
+    zh_tw: 樹
     zu: isihlahla
 ---
 # [[Tree]]  

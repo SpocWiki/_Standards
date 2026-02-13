@@ -108,7 +108,7 @@ dv_has_:
     arz: اسفين
     ast: cuña
     ba: Шына
-    be-tarask: клін
+    be_tarask: клін
     bg: клин
     br: Genn
     bs: klin
@@ -173,8 +173,8 @@ dv_has_:
     sl: zagozda
     sn: chidzayo
     sr: клин
-    sr-ec: клин
-    sr-el: klin
+    sr_ec: клин
+    sr_el: klin
     sv: kil
     sw: kabari
     ta: ஆப்பு
@@ -189,12 +189,12 @@ dv_has_:
     wuu: 楔子
     yue: 楔
     zh: 楔子
-    zh-cn: 楔子
-    zh-hans: 楔子
-    zh-hant: 楔子
-    zh-hk: 楔子
-    zh-sg: 楔子
-    zh-tw: 楔子
+    zh_cn: 楔子
+    zh_hans: 楔子
+    zh_hant: 楔子
+    zh_hk: 楔子
+    zh_sg: 楔子
+    zh_tw: 楔子
 ---
 # [[Wedge]] 
 

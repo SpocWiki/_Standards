@@ -67,7 +67,7 @@ dv_has_:
     arz: سو سونج
     ast: Su Song
     ba: Су Сун
-    be-tarask: Су Сун
+    be_tarask: Су Сун
     bn: সু সং
     ca: Su Song
     cs: Su Sung
@@ -97,7 +97,7 @@ dv_has_:
     oc: Su Song
     pl: Su Song
     pt: Su Song
-    pt-br: Su Song
+    pt_br: Su Song
     ro: Su Song
     ru: Су Сун
     sc: Su Song
@@ -111,9 +111,9 @@ dv_has_:
     vi: Tô Tụng
     yue: 蘇頌
     zh: 苏颂
-    zh-hans: 苏颂
-    zh-hant: 蘇頌
-    zh-hk: 蘇頌
+    zh_hans: 苏颂
+    zh_hant: 蘇頌
+    zh_hk: 蘇頌
 ---
 # [[Su_Song]] 
 

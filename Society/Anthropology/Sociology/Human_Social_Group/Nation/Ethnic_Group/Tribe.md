@@ -106,7 +106,7 @@ dv_has_:
     ba: ҡәбилә
     bcl: tribo
     be: племя
-    be-tarask: племя
+    be_tarask: племя
     bg: племе
     bho: जनजाति
     bn: উপজাতি
@@ -152,7 +152,7 @@ dv_has_:
     kn: ಬುಡಕಟ್ಟು
     ko: 부족
     ku: hoz
-    ku-latn: hoz
+    ku_latn: hoz
     kw: trib
     la: gens
     li: Sjtam
@@ -172,7 +172,7 @@ dv_has_:
     pa: ਕਬੀਲਾ
     pl: plemię
     pt: tribo
-    pt-br: tribo
+    pt_br: tribo
     pwn: qinaljan
     qu: Runa tama
     ro: trib
@@ -188,8 +188,8 @@ dv_has_:
     so: qabiil
     sq: fisi
     sr: племе
-    sr-ec: племе
-    sr-el: pleme
+    sr_ec: племе
+    sr_el: pleme
     sv: stam
     sw: kabila
     ta: பழங்குடிகள்
@@ -200,7 +200,7 @@ dv_has_:
     tly: Tojfə
     tr: kabile
     tt: кабилә
-    tt-cyrl: кабилә
+    tt_cyrl: кабилә
     uk: плем'я
     ur: قبیلہ
     uz: qabila
@@ -210,12 +210,12 @@ dv_has_:
     yi: שבט
     yue: 部族
     zh: 部落
-    zh-cn: 部落
-    zh-hans: 部落
-    zh-hant: 部落
-    zh-hk: 部落
-    zh-sg: 部落
-    zh-tw: 部落
+    zh_cn: 部落
+    zh_hans: 部落
+    zh_hant: 部落
+    zh_hk: 部落
+    zh_sg: 部落
+    zh_tw: 部落
 ---
 # [[Tribe]] 
 

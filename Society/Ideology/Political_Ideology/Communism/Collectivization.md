@@ -40,7 +40,7 @@ Commons_category: Collectivization
 dv_has_:
   name_:
     ar: عملية زراعة جماعية
-    be-tarask: калектывізацыя
+    be_tarask: калектывізацыя
     bg: Колективизация
     ca: col·lectivització
     cs: kolektivizace

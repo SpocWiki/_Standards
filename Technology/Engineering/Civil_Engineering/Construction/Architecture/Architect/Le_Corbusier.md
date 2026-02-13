@@ -246,7 +246,7 @@ dv_has_:
     bar: Le Corbusier
     bcl: Le Corbusier
     be: Ле Карбюзье
-    be-tarask: Лё Карбюзье
+    be_tarask: Лё Карбюзье
     bew: Le Corbusier
     bg: Льо Корбюзие
     bi: Le Corbusier
@@ -265,13 +265,13 @@ dv_has_:
     cy: Le Corbusier
     da: Le Corbusier
     de: Le Corbusier
-    de-ch: Le Corbusier
+    de_ch: Le Corbusier
     diq: Le Corbusier
     dsb: Le Corbusier
     el: Λε Κορμπυζιέ
     en: Le Corbusier
-    en-ca: Le Corbusier
-    en-gb: Le Corbusier
+    en_ca: Le Corbusier
+    en_gb: Le Corbusier
     eo: Le Corbusier
     es: Le Corbusier
     et: Le Corbusier
@@ -359,7 +359,7 @@ dv_has_:
     pnb: ل کاربسے
     ps: لو کوربوزیه
     pt: Le Corbusier
-    pt-br: Le Corbusier
+    pt_br: Le Corbusier
     qu: Le Corbusier
     rm: Le Corbusier
     ro: Le Corbusier

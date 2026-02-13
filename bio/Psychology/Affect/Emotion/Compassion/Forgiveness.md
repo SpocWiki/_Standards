@@ -79,7 +79,7 @@ dv_has_:
     ar: غفران
     ast: Perdón
     az: Bağışlanma
-    be-tarask: дараваньне
+    be_tarask: дараваньне
     bg: Прошка
     bn: ক্ষমা
     br: Pardon
@@ -90,8 +90,8 @@ dv_has_:
     de: Vergebung
     el: Συγχώρεση
     en: forgiveness
-    en-ca: Forgiveness
-    en-gb: forgiveness
+    en_ca: Forgiveness
+    en_gb: forgiveness
     eo: pardono
     es: perdón
     et: Andestus
@@ -122,7 +122,7 @@ dv_has_:
     pl: przebaczenie
     pnb: معافی
     pt: perdão
-    pt-br: Perdão
+    pt_br: Perdão
     ro: Iertare
     ru: Прощение
     scn: Pirdunu
@@ -141,8 +141,8 @@ dv_has_:
     vi: Tha thứ
     yue: 原諒
     zh: 寬恕
-    zh-hant: 寬恕
-    zh-tw: 寬恕
+    zh_hant: 寬恕
+    zh_tw: 寬恕
 ---
 # [[Forgiveness]] 
 

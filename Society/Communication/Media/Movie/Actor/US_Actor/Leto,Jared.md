@@ -11,7 +11,7 @@ dv_has_:
     azb: جرد لتو
     bar: Jared Leto
     be: Джарэд Лета
-    be-tarask: Джарэд Лета
+    be_tarask: Джарэд Лета
     bg: Джаред Лето
     bn: জ্যারেড লেটো
     br: Jared Leto
@@ -25,13 +25,13 @@ dv_has_:
     dag: Jared Leto
     de: Jared Leto
     de-at: Jared Leto
-    de-ch: Jared Leto
+    de_ch: Jared Leto
     diq: Jared Leto
     el: Τζάρεντ Λέτο
     eml: Jared Leto
     en: Jared Leto
-    en-ca: Jared Leto
-    en-gb: Jared Leto
+    en_ca: Jared Leto
+    en_gb: Jared Leto
     eo: Jared Leto
     es: Jared Leto
     et: Jared Leto
@@ -82,7 +82,7 @@ dv_has_:
     nap: Jared Leto
     nb: Jared Leto
     nds: Jared Leto
-    nds-nl: Jared Leto
+    nds_nl: Jared Leto
     nl: Jared Leto
     nn: Jared Leto
     no: Jared Leto
@@ -93,7 +93,7 @@ dv_has_:
     pl: Jared Leto
     pms: Jared Leto
     pt: Jared Leto
-    pt-br: Jared Leto
+    pt_br: Jared Leto
     rm: Jared Leto
     ro: Jared Leto
     ru: Джаред Лето
@@ -105,8 +105,8 @@ dv_has_:
     sl: Jared Leto
     sq: Jared Leto
     sr: Џаред Лето
-    sr-ec: Џаред Лето
-    sr-el: Džared Leto
+    sr_ec: Џаред Лето
+    sr_el: Džared Leto
     sv: Jared Leto
     sw: Jared Leto
     ta: ஜாரெட் லெடோ
@@ -126,9 +126,9 @@ dv_has_:
     yo: Jared Leto
     yue: 謝拉力圖
     zh: 杰瑞德·莱托
-    zh-hans: 杰瑞德·莱托
-    zh-hant: 傑瑞德·萊托
-    zh-hk: 謝勒力圖
+    zh_hans: 杰瑞德·莱托
+    zh_hant: 傑瑞德·萊托
+    zh_hk: 謝勒力圖
     zu: Jared Leto
 aliases:
 - Cared Leto

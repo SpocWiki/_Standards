@@ -159,7 +159,7 @@ dv_has_:
     az: Nissan
     azb: نیسان
     be: Nissan
-    be-tarask: Nissan Motors
+    be_tarask: Nissan Motors
     bg: Нисан Мотър Къмпани
     bn: নিসান মোটর কর্পোরেশন
     br: Nissan
@@ -172,8 +172,8 @@ dv_has_:
     diq: Nissan
     el: Nissan
     en: Nissan
-    en-ca: Nissan Motor Company
-    en-gb: Nissan Motor Company
+    en_ca: Nissan Motor Company
+    en_gb: Nissan Motor Company
     eo: Nissan
     es: Nissan
     et: Nissan
@@ -241,11 +241,11 @@ dv_has_:
     yue: 日產汽車
     za: Nditcanj
     zh: 日產汽車
-    zh-cn: 日产汽车
-    zh-hans: 日产汽车
-    zh-hant: 日產汽車
-    zh-hk: 日產汽車
-    zh-tw: 日產汽車
+    zh_cn: 日产汽车
+    zh_hans: 日产汽车
+    zh_hant: 日產汽車
+    zh_hk: 日產汽車
+    zh_tw: 日產汽車
 ---
 # [[Nissan_Motor]] 
 

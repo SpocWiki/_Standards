@@ -90,7 +90,7 @@ dv_has_:
     ast: Henry George
     az: Henri Corc
     azb: هنری جرج
-    be-tarask: Гэнры Джордж
+    be_tarask: Гэнры Джордж
     bg: Хенри Джордж
     br: Henry George
     bs: Henry George
@@ -100,11 +100,11 @@ dv_has_:
     cy: Henry George
     da: Henry George
     de: Henry George
-    de-ch: Henry George
+    de_ch: Henry George
     el: Χένρι Τζορτζ
     en: Henry George
-    en-ca: Henry George
-    en-gb: Henry George
+    en_ca: Henry George
+    en_gb: Henry George
     eo: Henry George
     es: Henry George
     et: Henry George
@@ -136,7 +136,7 @@ dv_has_:
     mul: Henry George
     nb: Henry George
     nds: Henry George
-    nds-nl: Henry George
+    nds_nl: Henry George
     nl: Henry George
     nn: Henry George
     pap: Henry George
@@ -144,7 +144,7 @@ dv_has_:
     pms: Henry George
     ps: هنري جورج
     pt: Henry George
-    pt-br: Henry George
+    pt_br: Henry George
     ro: Henry George
     ru: Генри Джордж
     sk: Henry George
@@ -160,12 +160,12 @@ dv_has_:
     wa: Henry George
     yo: Henry George
     zh: 亨利·乔治
-    zh-cn: 亨利·乔治
-    zh-hans: 亨利·乔治
-    zh-hant: 亨利·喬治
-    zh-hk: 亨利·喬治
-    zh-sg: 亨利·乔治
-    zh-tw: 亨利·喬治
+    zh_cn: 亨利·乔治
+    zh_hans: 亨利·乔治
+    zh_hant: 亨利·喬治
+    zh_hk: 亨利·喬治
+    zh_sg: 亨利·乔治
+    zh_tw: 亨利·喬治
 ---
 # [[George,Henry]] 
 

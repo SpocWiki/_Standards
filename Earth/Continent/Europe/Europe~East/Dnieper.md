@@ -281,7 +281,7 @@ dv_has_:
     ba: Днепр
     ban: Tukad Dnieper
     be: Дняпро
-    be-tarask: Дняпро
+    be_tarask: Дняпро
     bg: Днепър
     bho: नीपर नदी
     bn: নিপার নদী
@@ -291,7 +291,7 @@ dv_has_:
     ceb: Dnieper
     ckb: دنیێپێر
     crh: Özü özeni
-    crh-latn: Özü özeni
+    crh_latn: Özü özeni
     cs: Dněpr
     cu: Дънѣпръ
     cv: Тăнăвар
@@ -391,9 +391,9 @@ dv_has_:
     yi: דניעפער
     yue: 聶伯河
     zh: 第聂伯河
-    zh-cn: 第聂伯河
-    zh-hans: 第聂伯河
-    zh-hant: 第聂伯河
+    zh_cn: 第聂伯河
+    zh_hans: 第聂伯河
+    zh_hant: 第聂伯河
 ---
 # [[Dnieper]] 
 

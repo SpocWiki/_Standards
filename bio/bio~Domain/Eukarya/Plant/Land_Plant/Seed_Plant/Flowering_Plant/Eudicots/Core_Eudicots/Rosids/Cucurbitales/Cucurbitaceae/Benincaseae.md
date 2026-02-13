@@ -40,7 +40,7 @@ dv_has_:
     oc: Benincaseae
     pl: Benincaseae
     pt: Benincaseae
-    pt-br: Benincaseae
+    pt_br: Benincaseae
     ro: Benincaseae
     ru: Benincaseae
     sq: Benincaseae
@@ -50,8 +50,8 @@ dv_has_:
     vo: Benincaseae
     war: Benincaseae
     zh: 冬瓜族
-    zh-cn: 冬瓜族
-    zh-hans: 冬瓜族
+    zh_cn: 冬瓜族
+    zh_hans: 冬瓜族
 ---
 # [[Benincaseae]] 
 

@@ -51,7 +51,7 @@ dv_has_:
     bar: Sapindales
     bcl: Sapindales
     be: Sapindales
-    be-tarask: сапіндакветныя
+    be_tarask: сапіндакветныя
     bg: сапиндоцветни
     bho: सैपिंडेलीज़
     br: Sapindales
@@ -64,11 +64,11 @@ dv_has_:
     da: Sæbetræ-ordenen
     de: Seifenbaumartige
     de-at: Seifenbaumartige
-    de-ch: Sapindales
+    de_ch: Sapindales
     el: Σαπινδώδη
     en: Sapindales
-    en-ca: Sapindales
-    en-gb: Sapindales
+    en_ca: Sapindales
+    en_gb: Sapindales
     eo: Sapindaloj
     es: Sapindales
     et: Seebipuulaadsed
@@ -116,7 +116,7 @@ dv_has_:
     nap: Sapindales
     nb: lønneordenen
     nds: Sapindales
-    nds-nl: Sapindales
+    nds_nl: Sapindales
     nl: Sapindales
     nn: Sapindales
     nrm: Sapindales
@@ -126,7 +126,7 @@ dv_has_:
     pl: mydleńcowce
     pms: Sapindales
     pt: Sapindales
-    pt-br: Sapindales
+    pt_br: Sapindales
     rm: Sapindales
     ro: Sapindales
     ru: сапиндоцветные
@@ -157,8 +157,8 @@ dv_has_:
     wuu: 无患子目
     yue: 無患子目
     zh: 无患子目
-    zh-cn: 无患子目
-    zh-hans: 无患子目
+    zh_cn: 无患子目
+    zh_hans: 无患子目
     zu: Sapindales
 ---
 # [[Sapindales]] 

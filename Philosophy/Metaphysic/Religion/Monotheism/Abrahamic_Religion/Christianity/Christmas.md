@@ -308,7 +308,7 @@ dv_has_:
     bbc: Natal
     bcl: Pasko
     be: Нараджэнне Хрыстова
-    be-tarask: Божае Нараджэньне
+    be_tarask: Божае Нараджэньне
     bew: Natal
     bg: Рождество Христово
     bho: क्रिसमस
@@ -321,7 +321,7 @@ dv_has_:
     bs: Božić
     bxr: Зул Һарын Баяр
     ca: Nadal
-    cbk-zam: Pascua
+    cbk_zam: Pascua
     cdo: Séng-dáng-cáik
     ce: Ӏийса пайхамар вина де
     ceb: Pasko
@@ -336,15 +336,15 @@ dv_has_:
     cy: Nadolig
     da: jul
     de: Weihnachten
-    de-ch: Weihnachten
+    de_ch: Weihnachten
     din: Krïthmath
     diq: Gağand
     dtp: Krismas
     el: Χριστούγεννα
     eml: Nadêl
     en: Christmas
-    en-ca: Christmas
-    en-gb: Christmas
+    en_ca: Christmas
+    en_gb: Christmas
     eo: Kristnasko
     es: Navidad
     et: jõulud
@@ -445,7 +445,7 @@ dv_has_:
     nap: Natale
     nb: jul
     nds: Wiehnachten
-    nds-nl: Kìrsttied
+    nds_nl: Kìrsttied
     ne: क्रिसमस
     nia: Fanunu Fandru
     nl: Kerstmis
@@ -467,7 +467,7 @@ dv_has_:
     pnb: کرسمس
     ps: کریسمس
     pt: Natal
-    pt-br: Natal
+    pt_br: Natal
     pwn: kulisimas
     qu: Nawidad
     rm: Nadel
@@ -498,7 +498,7 @@ dv_has_:
     sms: rosttov
     sq: Krishtlindja
     sr: Божић
-    sr-ec: Божић
+    sr_ec: Божић
     stq: Wienoachten
     sv: jul
     sw: Krismasi
@@ -516,7 +516,7 @@ dv_has_:
     tr: Noel
     ts: Khisimusi
     tt: Раштуа
-    tt-cyrl: Раштуа
+    tt_cyrl: Раштуа
     tw: Bronya
     tyv: Иисус Христостуң төрүттүнген хүнү
     uk: Різдво Христове
@@ -538,14 +538,14 @@ dv_has_:
     za: Ciet Swngdan
     zea: Kers
     zh: 聖誕節
-    zh-cn: 圣诞节
-    zh-hans: 圣诞节
-    zh-hant: 聖誕節
-    zh-hk: 聖誕節
-    zh-mo: 聖誕節
+    zh_cn: 圣诞节
+    zh_hans: 圣诞节
+    zh_hant: 聖誕節
+    zh_hk: 聖誕節
+    zh_mo: 聖誕節
     zh-my: 圣诞节
-    zh-sg: 圣诞节
-    zh-tw: 聖誕節
+    zh_sg: 圣诞节
+    zh_tw: 聖誕節
     zu: UKhisimusi
 ---
 # [[Christmas]] 

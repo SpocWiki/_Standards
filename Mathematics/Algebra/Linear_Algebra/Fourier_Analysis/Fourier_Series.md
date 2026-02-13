@@ -104,7 +104,7 @@ dv_has_:
     az: Furye sıraları
     ba: Фурье рәте
     be: рад Фур'е
-    be-tarask: шэраг Фур’е
+    be_tarask: шэраг Фур’е
     bg: ред на Фурие
     bn: ফুরিয়ার ধারা
     bs: Fourierov red
@@ -133,11 +133,11 @@ dv_has_:
     it: serie di Fourier
     ja: フーリエ級数
     kk: Фурье қатары
-    kk-arab: فۋريە قاتارى
+    kk_arab: فۋريە قاتارى
     kk-cn: فۋريە قاتارى
-    kk-cyrl: Фурье қатары
+    kk_cyrl: Фурье қатары
     kk-kz: Фурье қатары
-    kk-latn: Fwrʹye qatarı
+    kk_latn: Fwrʹye qatarı
     kk-tr: Fwrʹye qatarı
     kn: ಫೋರ್ಯೇ ಶ್ರೇಣಿಗಳು
     ko: 푸리에 급수
@@ -161,8 +161,8 @@ dv_has_:
     sl: Fourierova vrsta
     sq: seritë e Furierit
     sr: Фуријеов ред
-    sr-ec: Фуријеов ред
-    sr-el: Furijeov red
+    sr_ec: Фуријеов ред
+    sr_el: Furijeov red
     su: dérét Fourier
     sv: Fourierserie
     th: อนุกรมฟูรีเย
@@ -174,12 +174,12 @@ dv_has_:
     wuu: 傅里叶级数
     yue: 傅利葉級數
     zh: 傅里叶级数
-    zh-cn: 傅里叶级数
-    zh-hans: 傅里叶级数
-    zh-hant: 傅立葉級數
-    zh-hk: 傅利葉級數
-    zh-sg: 傅里叶级数
-    zh-tw: 傅立葉級數
+    zh_cn: 傅里叶级数
+    zh_hans: 傅里叶级数
+    zh_hant: 傅立葉級數
+    zh_hk: 傅利葉級數
+    zh_sg: 傅里叶级数
+    zh_tw: 傅立葉級數
 ---
 # [[Fourier_Series]] 
 

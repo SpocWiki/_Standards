@@ -502,7 +502,7 @@ dv_has_:
   name_:
     ace: Paraguay
     ady: Парагуай
-    aeb-arab: پاراڨواي
+    aeb_arab: پاراڨواي
     af: Paraguay
     am: ፓራጓይ
     ami: Paraguay
@@ -524,7 +524,7 @@ dv_has_:
     bbc: Paraguay
     bcl: Paraguay
     be: Парагвай
-    be-tarask: Парагвай
+    be_tarask: Парагвай
     bew: Paragué
     bg: Парагвай
     bho: पराग्वे
@@ -536,7 +536,7 @@ dv_has_:
     bs: Paragvaj
     bxr: Парагвай
     ca: Paraguai
-    cbk-zam: Paraguay
+    cbk_zam: Paraguay
     cdo: Paraguay
     ce: Парагвай
     ceb: Paraguay
@@ -544,7 +544,7 @@ dv_has_:
     ckb: پاراگوای
     co: Paraguay
     crh: Paragvay
-    crh-latn: Paragvay
+    crh_latn: Paragvay
     cs: Paraguay
     csb: Paragwaj
     cv: Парагвай
@@ -553,7 +553,7 @@ dv_has_:
     dag: Paraguay
     de: Paraguay
     de-at: Paraguay
-    de-ch: Paraguay
+    de_ch: Paraguay
     diq: Paraguay
     dsb: Paraguay
     dty: पाराग्वे
@@ -562,8 +562,8 @@ dv_has_:
     ee: Paraguay
     el: Παραγουάη
     en: Paraguay
-    en-ca: Paraguay
-    en-gb: Paraguay
+    en_ca: Paraguay
+    en_gb: Paraguay
     eo: Paragvajo
     es: Paraguay
     et: Paraguay
@@ -587,7 +587,7 @@ dv_has_:
     gn: Paraguái
     gom: पराग्वे
     gom-deva: पराग्वे
-    gom-latn: Paraguay
+    gom_latn: Paraguay
     got: "\U00010346\U00010330\U0001033F\U00010342\U00010330\U00010337\U00010345\U00010330"
     gpe: Paraguay
     gsw: Paraguay
@@ -652,7 +652,7 @@ dv_has_:
     lzh: 巴拉圭
     mad: Paraguay
     mai: पाराग्वे
-    map-bms: Paraguay
+    map_bms: Paraguay
     mdf: Парагвай
     mg: Paragoay
     mhr: Парагвай
@@ -675,7 +675,7 @@ dv_has_:
     nap: Paraguay
     nb: Paraguay
     nds: Paraguay
-    nds-nl: Paraguay
+    nds_nl: Paraguay
     ne: पाराग्वे
     new: पाराग्वे
     nl: Paraguay
@@ -700,7 +700,7 @@ dv_has_:
     pnb: پیراگوئے
     ps: پاراګوای
     pt: Paraguai
-    pt-br: Paraguai
+    pt_br: Paraguai
     qu: Parawayi
     rki: ပါရာဂွေး သမ္မတနိုင်ငံ
     rm: Paraguay
@@ -731,8 +731,8 @@ dv_has_:
     so: Paraguay
     sq: Paraguaji
     sr: Парагвај
-    sr-ec: Парагвај
-    sr-el: Paragvaj
+    sr_ec: Парагвај
+    sr_el: Paragvaj
     stq: Paraguay
     su: Paraguay
     sv: Paraguay
@@ -781,11 +781,11 @@ dv_has_:
     za: Bahlahgveih
     zea: Paraguay
     zh: 巴拉圭
-    zh-cn: 巴拉圭
-    zh-hans: 巴拉圭
-    zh-hant: 巴拉圭
-    zh-hk: 巴拉圭
-    zh-tw: 巴拉圭
+    zh_cn: 巴拉圭
+    zh_hans: 巴拉圭
+    zh_hant: 巴拉圭
+    zh_hk: 巴拉圭
+    zh_tw: 巴拉圭
     zu: i-Paraguay
   url_for_:
     code_repository: https://github.com/SpocWiki/America-Paraguay

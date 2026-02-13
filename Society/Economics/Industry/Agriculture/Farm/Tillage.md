@@ -106,7 +106,7 @@ dv_has_:
     ar: حراثة
     ba: Һөрөү
     be: аранне
-    be-tarask: ворыва
+    be_tarask: ворыва
     bg: оран
     bn: আবাদ
     br: labour-douar
@@ -154,7 +154,7 @@ dv_has_:
     pl: orka
     pnb: واہی
     pt: lavoura
-    pt-br: lavoura
+    pt_br: lavoura
     qu: yapuy
     ru: обработка земли
     sh: ratarstvo
@@ -162,8 +162,8 @@ dv_has_:
     sl: brananje
     sq: lavërtaria
     sr: ратарство
-    sr-ec: ратарство
-    sr-el: ratarstvo
+    sr_ec: ратарство
+    sr_el: ratarstvo
     sv: jordbearbetning
     ta: உழவு
     te: tillage
@@ -177,8 +177,8 @@ dv_has_:
     yi: אקערן
     yue: 耕
     zh: 耕作
-    zh-hans: 林地的场地准备
-    zh-hant: 林地的場地準備
+    zh_hans: 林地的场地准备
+    zh_hant: 林地的場地準備
 ---
 # [[Tillage]] 
 

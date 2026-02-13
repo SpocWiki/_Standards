@@ -151,7 +151,7 @@ dv_has_:
     bar: Geoffrey Chaucer
     bcl: Geoffrey Chaucer
     be: Джэфры Чосер
-    be-tarask: Джэфры Чосэр
+    be_tarask: Джэфры Чосэр
     bg: Джефри Чосър
     bho: ज्यॉफ्री चॉसर
     bi: Geoffrey Chaucer
@@ -169,12 +169,12 @@ dv_has_:
     cy: Geoffrey Chaucer
     da: Geoffrey Chaucer
     de: Geoffrey Chaucer
-    de-ch: Geoffrey Chaucer
+    de_ch: Geoffrey Chaucer
     diq: Geoffrey Chaucer
     el: Τζόφρι Σώσερ
     en: Geoffrey Chaucer
-    en-ca: Geoffrey Chaucer
-    en-gb: Geoffrey Chaucer
+    en_ca: Geoffrey Chaucer
+    en_gb: Geoffrey Chaucer
     eo: Geoffrey Chaucer
     es: Geoffrey Chaucer
     et: Geoffrey Chaucer
@@ -247,7 +247,7 @@ dv_has_:
     pms: Geoffrey Chaucer
     pnb: جیفری چاؤسر
     pt: Geoffrey Chaucer
-    pt-br: Geoffrey Chaucer
+    pt_br: Geoffrey Chaucer
     qu: Geoffrey Chaucer
     ro: Geoffrey Chaucer
     ru: Джеффри Чосер
@@ -285,8 +285,8 @@ dv_has_:
     yi: דזשעפרי טשאסער
     yue: 喬叟
     zh: 杰弗里·乔叟
-    zh-hant: 傑弗里·喬叟
-    zh-tw: 傑弗里·喬叟
+    zh_hant: 傑弗里·喬叟
+    zh_tw: 傑弗里·喬叟
 ---
 # [[Chaucer,Geoffrey]] 
 

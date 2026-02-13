@@ -137,7 +137,7 @@ dv_has_:
     azb: ارنست لارنس
     ban: Ernest Lawrence
     be: Эрнест Арланда Лоўрэнс
-    be-tarask: Эрнэст Арлянда Ляўрэнс
+    be_tarask: Эрнэст Арлянда Ляўрэнс
     bg: Ърнест Лорънс
     bn: আর্নেস্ট লরেন্স
     bs: Ernest Lawrence
@@ -176,8 +176,8 @@ dv_has_:
     kk: Эрнест Орландо Лоуренс
     ko: 어니스트 로런스
     ku: Ernest Lawrence
-    ku-arab: ئەرنەست لاورەنجە
-    ku-latn: Ernest Lawrence
+    ku_arab: ئەرنەست لاورەنجە
+    ku_latn: Ernest Lawrence
     la: Ernestus Lawrence
     lt: Ernest Lawrence
     lv: Ernests Lorenss
@@ -202,7 +202,7 @@ dv_has_:
     pnb: ارنسٹ لارنس
     ps: ارنست لورنس
     pt: Ernest Lawrence
-    pt-br: Ernest Lawrence
+    pt_br: Ernest Lawrence
     ro: Ernest Lawrence
     ru: Эрнест Орландо Лоуренс
     sa: अर्नेस्ट लारेन्स
@@ -212,8 +212,8 @@ dv_has_:
     sl: Ernest Orlando Lawrence
     sq: Ernest Lawrence
     sr: Ернест Лоренц
-    sr-ec: Ернест Лоренц
-    sr-el: Ernest Lorenc
+    sr_ec: Ернест Лоренц
+    sr_el: Ernest Lorenc
     sv: Ernest Lawrence
     sw: Ernest Orlando Lawrence
     ta: எர்னஸ்ட் லாரன்சு
@@ -231,12 +231,12 @@ dv_has_:
     yo: Ernest Lawrence
     yue: 喧尼斯羅倫斯
     zh: 欧内斯特·劳伦斯
-    zh-cn: 欧内斯特·劳伦斯
-    zh-hans: 欧内斯特·劳伦斯
-    zh-hant: 歐內斯特·勞倫斯
-    zh-hk: 奧尼斯特·羅倫斯
-    zh-sg: 欧内斯特·劳伦斯
-    zh-tw: 歐內斯特·勞倫斯
+    zh_cn: 欧内斯特·劳伦斯
+    zh_hans: 欧内斯特·劳伦斯
+    zh_hant: 歐內斯特·勞倫斯
+    zh_hk: 奧尼斯特·羅倫斯
+    zh_sg: 欧内斯特·劳伦斯
+    zh_tw: 歐內斯特·勞倫斯
 ---
 # [[Lawrence,Ernest]] 
 

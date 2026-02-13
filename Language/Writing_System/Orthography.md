@@ -118,7 +118,7 @@ dv_has_:
     bar: Orthographie
     bcl: ortograpiya
     be: арфаграфія
-    be-tarask: правапіс
+    be_tarask: правапіс
     bg: правопис
     bho: ऑर्थोग्राफी
     bn: লিখনবিধি
@@ -176,13 +176,13 @@ dv_has_:
     mhr: чынвозыш
     mk: правопис
     ms: ortografi
-    ms-arab: اورتوݢرافي
+    ms_arab: اورتوݢرافي
     mt: ortografija
     nah: huiquipedia:yequihcuilōtl
     nan: chiàⁿ-jī-hoat
     nb: rettskriving
     nds: Schrievwies
-    nds-nl: schriefwieze
+    nds_nl: schriefwieze
     nl: orthografie
     oc: ortografia
     pa: ਇਮਲਾ
@@ -208,7 +208,7 @@ dv_has_:
     sms: ǩeʹrjjtemvueʹǩǩ
     sq: ortografia
     sr: правопис
-    sr-ec: правопис
+    sr_ec: правопис
     su: ortografi
     sv: ortografi
     sw: tahajia
@@ -228,9 +228,9 @@ dv_has_:
     yi: אָרטאָגראַפֿיע
     yue: 正字法
     zh: 正寫法
-    zh-hans: 正写法
-    zh-hant: 正寫法
-    zh-tw: 正寫法
+    zh_hans: 正写法
+    zh_hant: 正寫法
+    zh_tw: 正寫法
 ---
 # [[Orthography]] 
 

@@ -107,7 +107,7 @@ dv_has_:
     ast: azafrán
     az: زافران
     ban: Pacah
-    be-tarask: шафран
+    be_tarask: шафран
     bew: Separang
     bg: шафран
     bho: केसर
@@ -148,7 +148,7 @@ dv_has_:
     ko: 사프란
     ks: کۄنٛگ
     ku: zeferan
-    ku-latn: zeferan
+    ku_latn: zeferan
     la: Safranum
     lad: Alsafran
     lb: Safran

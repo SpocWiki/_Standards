@@ -216,7 +216,7 @@ dv_has_:
     bar: Mustafa Kemal Atatürk
     bcl: Mustafa Kemal Atatürk
     be: Мустафа Кемаль Атацюрк
-    be-tarask: Мустафа Кемаль Ататурк
+    be_tarask: Мустафа Кемаль Ататурк
     bew: Mustapa Kamal Basah
     bg: Мустафа Кемал Ататюрк
     bjn: Mustafa Kemal Atatürk
@@ -231,18 +231,18 @@ dv_has_:
     ckb: مستەفا کەمال ئەتاتورک
     co: Mustafa Kemal Atatürk
     crh: Mustafa Kemal Atatürk
-    crh-latn: Mustafa Kemal Atatürk
+    crh_latn: Mustafa Kemal Atatürk
     cs: Mustafa Kemal Atatürk
     cv: Ататюрк Мустафа Кемаль
     cy: Mustafa Kemal Atatürk
     da: Mustafa Kemal Atatürk
     de: Mustafa Kemal Atatürk
-    de-ch: Mustafa Kemal Atatürk
+    de_ch: Mustafa Kemal Atatürk
     diq: Mustafa Kemal Atatürk
     el: Μουσταφά Κεμάλ Ατατούρκ
     en: Mustafa Kemal Atatürk
-    en-ca: Mustafa Kemal Atatürk
-    en-gb: Mustafa Kemal Atatürk
+    en_ca: Mustafa Kemal Atatürk
+    en_gb: Mustafa Kemal Atatürk
     en-us: Mustafa Kemal Atatürk
     eo: Mustafa Kemal Atatürk
     es: Mustafa Kemal Atatürk
@@ -297,7 +297,7 @@ dv_has_:
     krc: Мустафа Кемаль Ататюрк
     ksh: Mustafa Kemal Atatürk
     ku: Mustafa Kemal Atatürk
-    ku-latn: Mustafa Kemal Atatürk
+    ku_latn: Mustafa Kemal Atatürk
     kw: Mustafa Kemal Atatürk
     ky: Ататүрк Мустафа Кемаль
     la: Mustapha Kemal Atatürk
@@ -328,7 +328,7 @@ dv_has_:
     nap: Mustafa Kemal Atatürk
     nb: Mustafa Kemal Atatürk
     nds: Mustafa Kemal Atatürk
-    nds-nl: Mustafa Kemal Atatürk
+    nds_nl: Mustafa Kemal Atatürk
     ne: कमाल अतातुर्क
     new: केमेल अतातुर्क
     nl: Mustafa Kemal Atatürk
@@ -349,7 +349,7 @@ dv_has_:
     pnb: مصطفا کمال اتاترک
     ps: مصطفی کمال اتاتورک
     pt: Mustafa Kemal Atatürk
-    pt-br: Mustafa Kemal Atatürk
+    pt_br: Mustafa Kemal Atatürk
     qu: Mustafa Kemal Atatürk
     rm: Mustafa Kemal Atatürk
     ro: Mustafa Kemal Atatürk
@@ -375,8 +375,8 @@ dv_has_:
     so: Mustafa Kemal Atatürk
     sq: Mustafa Kemal Atatürk
     sr: Мустафа Кемал Ататурк
-    sr-ec: Мустафа Кемал Ататурк
-    sr-el: Mustafa Kemal Ataturk
+    sr_ec: Мустафа Кемал Ататурк
+    sr_el: Mustafa Kemal Ataturk
     stq: Mustafa Kemal Atatürk
     su: Mustafa Kemal Atatürk
     sv: Mustafa Kemal Atatürk
@@ -396,8 +396,8 @@ dv_has_:
     tum: Mustafa Kemal Atatürk
     udm: Мустафа Кемаль Ататюрк
     ug: مۇستاپا كامال ئاتاتۈرك
-    ug-arab: مۇستاپا كامال ئاتاتۈرك
-    ug-latn: Mustafa Kemal Atatürk
+    ug_arab: مۇستاپا كامال ئاتاتۈرك
+    ug_latn: Mustafa Kemal Atatürk
     uk: Мустафа Кемаль Ататюрк
     ur: مصطفٰی کمال اتاترک
     uz: Mustafa Kemal Atatürk
@@ -418,9 +418,9 @@ dv_has_:
     yue: 穆斯塔法·凱末爾·阿塔土克
     zea: Mustafa Kemal Atatürk
     zh: 穆斯塔法·凯末尔·阿塔图尔克
-    zh-cn: 穆斯塔法·凯末尔·阿塔图尔克
-    zh-hans: 穆斯塔法·凯末尔·阿塔图尔克
-    zh-hant: 穆斯塔法·凱末爾·阿塔土克
+    zh_cn: 穆斯塔法·凯末尔·阿塔图尔克
+    zh_hans: 穆斯塔法·凯末尔·阿塔图尔克
+    zh_hant: 穆斯塔法·凱末爾·阿塔土克
 ---
 # [[Atatürk,Mustafa_Kemal]] 
 

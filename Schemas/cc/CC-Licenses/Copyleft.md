@@ -7,18 +7,18 @@ dv_has_:
     ast: Copyleft
     az: Kopileft
     be: свабоднае аўтарскае права
-    be-tarask: вольнае аўтарскае права
+    be_tarask: вольнае аўтарскае права
     bg: Copyleft
     bn: কপিলেফট
     ca: Copyleft
     cs: copyleft
     da: copyleft
     de: Copyleft
-    de-ch: Copyleft
+    de_ch: Copyleft
     el: Copyleft
     en: copyleft
-    en-ca: copyleft
-    en-gb: copyleft
+    en_ca: copyleft
+    en_gb: copyleft
     eo: kopilaso
     es: copyleft
     et: Copyleft
@@ -54,7 +54,7 @@ dv_has_:
     nn: copyleft
     pl: copyleft
     pt: copyleft
-    pt-br: Copyleft
+    pt_br: Copyleft
     ro: copyleft
     ru: копилефт
     sh: Copyleft
@@ -62,8 +62,8 @@ dv_has_:
     sl: copyleft
     sq: Moodzee
     sr: Kopileft
-    sr-ec: Копилефт
-    sr-el: Kopileft
+    sr_ec: Копилефт
+    sr_el: Kopileft
     sv: copyleft
     ta: அளிப்புரிமை
     te: కాపీ లెఫ్ట్
@@ -73,14 +73,14 @@ dv_has_:
     vi: Copyleft
     wuu: Copyleft
     zh: Copyleft
-    zh-cn: Copyleft
-    zh-hans: Copyleft
-    zh-hant: Copyleft
-    zh-hk: Copyleft
-    zh-mo: Copyleft
+    zh_cn: Copyleft
+    zh_hans: Copyleft
+    zh_hant: Copyleft
+    zh_hk: Copyleft
+    zh_mo: Copyleft
     zh-my: Copyleft
-    zh-sg: Copyleft
-    zh-tw: Copyleft
+    zh_sg: Copyleft
+    zh_tw: Copyleft
 aliases:
 - Copyleft
 - Höfundarrangur

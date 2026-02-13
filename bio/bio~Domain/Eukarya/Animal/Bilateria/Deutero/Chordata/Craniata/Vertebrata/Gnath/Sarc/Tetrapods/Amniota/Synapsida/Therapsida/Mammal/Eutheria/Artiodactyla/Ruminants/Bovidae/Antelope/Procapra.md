@@ -60,7 +60,7 @@ dv_has_:
     oc: Procapra
     pl: Procapra
     pt: Procapra
-    pt-br: Procapra
+    pt_br: Procapra
     ro: Procapra
     ru: Дзерены
     sq: Procapra
@@ -70,8 +70,8 @@ dv_has_:
     vo: Procapra
     war: Procapra
     zh: 原羚属
-    zh-cn: 原羚属
-    zh-tw: 原羚屬
+    zh_cn: 原羚属
+    zh_tw: 原羚屬
 ---
 # [[Procapra]] 
 

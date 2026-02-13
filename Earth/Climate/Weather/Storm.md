@@ -149,7 +149,7 @@ dv_has_:
     azb: طوفان
     ba: Дауыл
     be: бура
-    be-tarask: бура
+    be_tarask: бура
     bg: Буря
     bn: ঝড়
     br: korventenn
@@ -167,8 +167,8 @@ dv_has_:
     ee: ahom
     el: Θύελλα
     en: storm
-    en-ca: Storm
-    en-gb: storm
+    en_ca: Storm
+    en_gb: storm
     eo: ŝtormo
     es: tormenta
     et: torm
@@ -222,7 +222,7 @@ dv_has_:
     pnb: نھیری
     ps: توپان
     pt: tempestade
-    pt-br: Tempestade
+    pt_br: Tempestade
     ro: furtună
     ru: буря
     sah: Силлиэ
@@ -243,7 +243,7 @@ dv_has_:
     tk: tupan
     tr: fırtına
     tt: давыл
-    tt-cyrl: давыл
+    tt_cyrl: давыл
     tw: asorɔkye
     udm: сильтӧл
     uk: буря
@@ -257,9 +257,9 @@ dv_has_:
     yo: Ìjì
     yue: 風暴
     zh: 风暴
-    zh-hans: 风暴
-    zh-hant: 風暴
-    zh-tw: 風暴
+    zh_hans: 风暴
+    zh_hant: 風暴
+    zh_tw: 風暴
 ---
 # [[Storm]] 
 

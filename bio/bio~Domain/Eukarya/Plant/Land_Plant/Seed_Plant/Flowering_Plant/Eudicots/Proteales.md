@@ -49,11 +49,11 @@ dv_has_:
     da: Protea-ordenen
     de: Silberbaumartige
     de-at: Proteales
-    de-ch: Proteales
+    de_ch: Proteales
     el: πρωτεώδη
     en: Proteales
-    en-ca: Proteales
-    en-gb: Proteales
+    en_ca: Proteales
+    en_gb: Proteales
     eo: Protealoj
     es: Proteales
     et: Prootealaadsed
@@ -96,7 +96,7 @@ dv_has_:
     nap: Proteales
     nb: Proteales
     nds: Proteales
-    nds-nl: Proteales
+    nds_nl: Proteales
     nl: Proteales
     nn: Proteales
     nrm: Proteales
@@ -107,7 +107,7 @@ dv_has_:
     pms: Proteales
     pnb: راچیورگے
     pt: Proteales
-    pt-br: Proteales
+    pt_br: Proteales
     rm: Proteales
     ro: Proteales
     ru: протеецветные
@@ -131,9 +131,9 @@ dv_has_:
     wo: Proteales
     yue: 山龍眼目
     zh: 山龙眼目
-    zh-cn: 山龙眼目
-    zh-hans: 山龙眼目
-    zh-hant: 山龍眼目
+    zh_cn: 山龙眼目
+    zh_hans: 山龙眼目
+    zh_hant: 山龍眼目
     zu: Proteales
 ---
 ## Phylogeny 

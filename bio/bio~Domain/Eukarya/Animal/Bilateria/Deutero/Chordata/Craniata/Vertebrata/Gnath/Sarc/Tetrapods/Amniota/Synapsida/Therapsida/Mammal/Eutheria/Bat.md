@@ -197,7 +197,7 @@ dv_has_:
     azb: یاراسا
     ban: Lelawah
     be: рукакрылыя
-    be-tarask: рукакрылыя
+    be_tarask: рукакрылыя
     bg: прилепи
     bn: বাদুড়
     br: Askell-groc'hen
@@ -223,7 +223,7 @@ dv_has_:
     el: Νυχτερίδα
     eml: Papastrèl
     en: Chiroptera
-    en-gb: bat
+    en_gb: bat
     eo: Kiropteroj
     es: Chiroptera
     et: Käsitiivalised
@@ -270,7 +270,7 @@ dv_has_:
     ko: 박쥐
     koi: Кушборддэз
     ks: راتہٕ کرٛیٖل
-    ks-arab: راتہٕ کرٛیٖل
+    ks_arab: راتہٕ کرٛیٖل
     ku: Perçemk
     kw: Askel groghen
     ky: Жарганаттар
@@ -303,7 +303,7 @@ dv_has_:
     nap: Scherpíngeche
     nb: flaggermus
     nds: Fladdermuus
-    nds-nl: vleadermuse
+    nds_nl: vleadermuse
     ne: चमेरो
     new: चिकंलापा
     nia: Bögi
@@ -323,7 +323,7 @@ dv_has_:
     pms: Ratavolòira
     pnb: چمگادڑ
     pt: morcego
-    pt-br: Chiroptera
+    pt_br: Chiroptera
     qu: Masu
     rn: Agahungarema
     ro: Chiroptere
@@ -379,10 +379,10 @@ dv_has_:
     za: Vumzvauz
     zea: Vleermuzen
     zh: 翼手目
-    zh-cn: 翼手目
-    zh-hans: 翼手目
-    zh-hant: 翼手目
-    zh-tw: 翼手目
+    zh_cn: 翼手目
+    zh_hans: 翼手目
+    zh_hant: 翼手目
+    zh_tw: 翼手目
     zu: ilulwane
 ---
 # [[Bat]]

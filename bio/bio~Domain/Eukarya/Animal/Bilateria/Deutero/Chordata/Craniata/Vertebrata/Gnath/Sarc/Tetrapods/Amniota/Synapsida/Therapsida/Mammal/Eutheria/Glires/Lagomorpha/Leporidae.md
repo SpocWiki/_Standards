@@ -118,7 +118,7 @@ dv_has_:
     ba: Ҡуяндар
     bar: Hosn
     be: зайцавыя
-    be-tarask: трусы
+    be_tarask: трусы
     bg: зайцови
     blk: ကွယ်သာႏ
     br: Leporidae
@@ -128,7 +128,7 @@ dv_has_:
     ceb: Leporidae
     chy: Vohkoohe
     crh: Qoyan
-    crh-latn: Qoyan
+    crh_latn: Qoyan
     cs: zajícovití
     cv: Мулкач
     da: Harer
@@ -192,7 +192,7 @@ dv_has_:
     os: тæрхъусонтæ
     pl: zającowate
     pt: Leporidae
-    pt-br: Leporidae
+    pt_br: Leporidae
     ro: Iepure
     ru: зайцевые
     sah: Куобахтыҥылар кэргэннэрэ
@@ -225,9 +225,9 @@ dv_has_:
     xmf: ყურდგელიშობურეფი
     yue: 兔科
     zh: 兔科
-    zh-cn: 兔科
-    zh-hans: 兔科
-    zh-tw: 兔科
+    zh_cn: 兔科
+    zh_hans: 兔科
+    zh_tw: 兔科
 ---
 # [[Leporidae]] 
 

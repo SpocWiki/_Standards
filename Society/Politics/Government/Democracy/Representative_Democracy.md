@@ -126,7 +126,7 @@ dv_has_:
     az: nümayəndəli demokratiya
     azb: نومایندهلی دموکراسی
     be: прадстаўнічая дэмакратыя
-    be-tarask: прадстаўнічая дэмакратыя
+    be_tarask: прадстаўнічая дэмакратыя
     bg: Представителна демокрация
     bs: predstavnička demokracija
     ca: democràcia representativa
@@ -137,7 +137,7 @@ dv_has_:
     de: repräsentative Demokratie
     el: αντιπροσωπευτική δημοκρατία
     en: representative democracy
-    en-gb: representative democracy
+    en_gb: representative democracy
     eo: nerekta demokratio
     es: democracia representativa
     et: esindusdemokraatia
@@ -163,12 +163,12 @@ dv_has_:
     ja: 間接民主主義
     ka: წარმომადგენლობითი დემოკრატია
     kk: өкілдік демократия
-    kk-latn: ökildik demokratïya
+    kk_latn: ökildik demokratïya
     ko: 간접 민주제
     krc: Келечилик демократия
     ks: نمائندہ جمہوٗریتھ
     ku: demokrasiya nûnerî
-    ku-latn: demokrasiya nûnerî
+    ku_latn: demokrasiya nûnerî
     ky: өкүлчүлүктүү демократия
     la: democratia repraesentativa
     lb: representativ Demokratie
@@ -188,7 +188,7 @@ dv_has_:
     pap-aw: democracia representativo
     pl: demokracja pośrednia
     pt: democracia representativa
-    pt-br: democracia representativa
+    pt_br: democracia representativa
     ro: democrație reprezentativă
     ru: представительная демократия
     sd: پارلياماني جمھوريت
@@ -199,8 +199,8 @@ dv_has_:
     smn: ovdâsteijeevâš demokratia
     sms: representatiivlaž demokratia
     sr: представничка демократија
-    sr-ec: представничка демократија
-    sr-el: predstavnička demokratija
+    sr_ec: представничка демократија
+    sr_el: predstavnička demokratija
     sv: representativ demokrati
     ta: சார்பாண்மை மக்களாட்சி
     te: ప్రాతినిధ్య ప్రజాస్వామ్యం
@@ -217,12 +217,12 @@ dv_has_:
     yo: Òṣèlú aṣojú
     yue: 代議政制
     zh: 代議民主制
-    zh-cn: 代议民主制
-    zh-hans: 代议民主制
-    zh-hant: 代議民主制
-    zh-hk: 代議民主制
-    zh-sg: 代议民主制
-    zh-tw: 代議民主制
+    zh_cn: 代议民主制
+    zh_hans: 代议民主制
+    zh_hant: 代議民主制
+    zh_hk: 代議民主制
+    zh_sg: 代议民主制
+    zh_tw: 代議民主制
 ---
 # [[Representative_Democracy]] 
 

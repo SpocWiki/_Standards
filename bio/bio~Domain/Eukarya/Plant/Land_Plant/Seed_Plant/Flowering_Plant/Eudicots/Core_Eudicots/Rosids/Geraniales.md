@@ -42,7 +42,7 @@ dv_has_:
     ast: Geraniales
     az: Ətirşahçiçəklilər
     be: Геранекветныя
-    be-tarask: Геранекветныя
+    be_tarask: Геранекветныя
     bg: здравецоцветни
     bs: Geraniales
     ca: Geranials
@@ -51,11 +51,11 @@ dv_has_:
     cs: kakostotvaré
     da: storkenæb-ordenen
     de: Storchschnabelartige
-    de-ch: Storchschnabelartige
+    de_ch: Storchschnabelartige
     el: Γερανιώδη
     en: Geraniales
-    en-ca: Geraniales
-    en-gb: Geraniales
+    en_ca: Geraniales
+    en_gb: Geraniales
     eo: Geranialoj
     es: Geraniales
     eu: Geraniales
@@ -88,7 +88,7 @@ dv_has_:
     oc: Geraniales
     pl: bodziszkowce
     pt: Geraniales
-    pt-br: Geraniales
+    pt_br: Geraniales
     ro: Geraniales
     ru: гераниецветные
     sco: Geraniales
@@ -104,8 +104,8 @@ dv_has_:
     vo: Geraniales
     war: Geraniales
     zh: 牻牛儿苗目
-    zh-cn: 牻牛儿苗目
-    zh-hans: 牻牛儿苗目
+    zh_cn: 牻牛儿苗目
+    zh_hans: 牻牛儿苗目
 ---
 # [[Geraniales]] 
 

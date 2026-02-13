@@ -163,7 +163,7 @@ dv_has_:
     ba: Жозеф Фурье
     bcl: Joseph Fourier
     be: Жан Батыст Жазеф Фур'е
-    be-tarask: Жан Батыст Жазэф Фур’е
+    be_tarask: Жан Батыст Жазэф Фур’е
     bg: Жозеф Фурие
     bn: জোসেফ ফুরিয়ে
     br: Joseph Fourier
@@ -180,8 +180,8 @@ dv_has_:
     diq: Jean-Baptiste Joseph Fourier
     el: Ζοζέφ Φουριέ
     en: Joseph Fourier
-    en-ca: Joseph Fourier
-    en-gb: Joseph Fourier
+    en_ca: Joseph Fourier
+    en_gb: Joseph Fourier
     eo: Jean Baptiste Joseph Fourier
     es: Jean-Baptiste Joseph Fourier
     et: Joseph Fourier
@@ -243,7 +243,7 @@ dv_has_:
     pms: Joseph Fourier
     pnb: جوزف فوریہ
     pt: Jean-Baptiste Joseph Fourier
-    pt-br: Jean-Baptiste Joseph Fourier
+    pt_br: Jean-Baptiste Joseph Fourier
     qu: Joseph Fourier
     ro: Joseph Fourier
     ru: Жан-Батист Жозеф Фурье

@@ -112,7 +112,7 @@ dv_has_:
     az: Ruhanilər
     ba: Руханиҙар
     be: духавенства
-    be-tarask: духавенства
+    be_tarask: духавенства
     bg: Духовенство
     ca: clergat
     ce: динан стаг
@@ -121,11 +121,11 @@ dv_has_:
     cy: clerigwr
     da: Gejstlighed
     de: Klerus
-    de-ch: Klerus
+    de_ch: Klerus
     el: κλήρος
     en: clergy
-    en-ca: Clergy
-    en-gb: clergy
+    en_ca: Clergy
+    en_gb: clergy
     eo: klerikaro
     es: clero
     et: Kleerus
@@ -162,7 +162,7 @@ dv_has_:
     pam: kleru
     pl: duchowieństwo
     pt: clero
-    pt-br: Clero
+    pt_br: Clero
     ro: cler
     ru: духовенство
     rue: клер
@@ -173,8 +173,8 @@ dv_has_:
     sl: kler
     sq: klerik
     sr: клер
-    sr-ec: клер
-    sr-el: Kler
+    sr_ec: клер
+    sr_el: Kler
     sv: prästerskap
     sw: Kleri
     tg: рӯҳонӣ
@@ -189,12 +189,12 @@ dv_has_:
     wuu: 圣职人
     yue: 神職人員
     zh: 圣职者
-    zh-cn: 圣职者
-    zh-hans: 圣职者
-    zh-hant: 聖職者
-    zh-hk: 聖職者
-    zh-sg: 圣职者
-    zh-tw: 聖職者
+    zh_cn: 圣职者
+    zh_hans: 圣职者
+    zh_hant: 聖職者
+    zh_hk: 聖職者
+    zh_sg: 圣职者
+    zh_tw: 聖職者
 ---
 # [[Clergy]] 
 

@@ -42,7 +42,7 @@ dv_has_:
     ast: Oxalidales
     az: Turşəngçiçəklilər
     bcl: Oxalidales
-    be-tarask: Oxalidales
+    be_tarask: Oxalidales
     bg: Oxalidales
     bs: Oxalidales
     ca: Oxalidals
@@ -53,8 +53,8 @@ dv_has_:
     de: Sauerkleeartige
     el: Οξαλιδώδη
     en: Oxalidales
-    en-ca: Oxalidales
-    en-gb: Oxalidales
+    en_ca: Oxalidales
+    en_gb: Oxalidales
     eo: Oksalidaloj
     es: Oxalidales
     et: Jänesekapsalaadsed
@@ -91,7 +91,7 @@ dv_has_:
     oc: Oxalidales
     pl: Szczawikowce
     pt: Oxalidales
-    pt-br: Oxalidales
+    pt_br: Oxalidales
     ro: Oxalidales
     ru: Кисличноцветные
     sco: Oxalidales
@@ -105,10 +105,10 @@ dv_has_:
     vo: Oxalidales
     war: Oxalidales
     zh: 酢浆草目
-    zh-cn: 酢浆草目
-    zh-hans: 酢浆草目
-    zh-hant: 酢浆草目
-    zh-tw: 酢浆草目
+    zh_cn: 酢浆草目
+    zh_hans: 酢浆草目
+    zh_hant: 酢浆草目
+    zh_tw: 酢浆草目
 ---
 # [[Oxalidales]] 
 ![Albany pitcher plant, Cephalotus follicularis](Oxalidales/Cephalotus_follicularis.jpg)) ![Flower of the lantern tree, Crinodendron hookeranum](Oxalidales/Crinodendron_hookeranum.jpg) 

@@ -114,7 +114,7 @@ dv_has_:
     ba: Фил
     bbc: Gaja
     be: слановыя
-    be-tarask: слановыя
+    be_tarask: слановыя
     bg: слонове
     bn: হস্তী গোত্র
     br: Elephantidae
@@ -128,13 +128,13 @@ dv_has_:
     cv: Пил йышшисем
     da: Elefant
     de: Elefanten
-    de-ch: Elephantidae
+    de_ch: Elephantidae
     dga: wɔɔ
     el: Ελεφαντίδες
     eml: Elefànt
     en: Elephantidae
-    en-ca: Elephantidae
-    en-gb: Elephantidae
+    en_ca: Elephantidae
+    en_gb: Elephantidae
     eo: Elefanto
     es: Elephantidae
     et: Elevant
@@ -181,7 +181,7 @@ dv_has_:
     pl: słoniowate
     pms: Elefant
     pt: Elefante
-    pt-br: Elefante
+    pt_br: Elefante
     qu: Hiliphanti
     ro: Elephantidae
     ru: слоновые
@@ -209,9 +209,9 @@ dv_has_:
     xmf: მუნჭყვიშობურეფი
     yue: 象
     zh: 象科
-    zh-cn: 象科
-    zh-hans: 象科
-    zh-tw: 象科
+    zh_cn: 象科
+    zh_hans: 象科
+    zh_tw: 象科
 ---
 # [[Elephantidae]] 
 

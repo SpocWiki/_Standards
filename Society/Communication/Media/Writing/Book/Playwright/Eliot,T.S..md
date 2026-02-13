@@ -229,7 +229,7 @@ dv_has_:
     az: Tomas Eliot
     azb: تی. اس. الیوت
     be: Томас Стэрнз Эліят
-    be-tarask: Томас Стэрнз Эліёт
+    be_tarask: Томас Стэрнз Эліёт
     bg: Томас Стърнз Елиът
     bn: টি এস এলিয়ট
     br: Thomas Stearns Eliot
@@ -241,12 +241,12 @@ dv_has_:
     da: T.S. Eliot
     dag: T. S. Eliot
     de: T. S. Eliot
-    de-ch: T. S. Eliot
+    de_ch: T. S. Eliot
     diq: T. S. Eliot
     el: Τόμας Στερνς Έλιοτ
     en: T. S. Eliot
-    en-ca: T. S. Eliot
-    en-gb: T. S. Eliot
+    en_ca: T. S. Eliot
+    en_gb: T. S. Eliot
     eo: T. S. Eliot
     es: T. S. Eliot
     et: T. S. Eliot
@@ -309,7 +309,7 @@ dv_has_:
     pnb: ٹی ایس ایلیٹ
     ps: ټي.ايس. ايليټ
     pt: T. S. Eliot
-    pt-br: T. S. Eliot
+    pt_br: T. S. Eliot
     ro: T.S. Eliot
     ru: Т. С. Элиот
     sa: टी. एस. एलियट
@@ -338,8 +338,8 @@ dv_has_:
     yo: T. S. Eliot
     yue: 艾略特
     zh: T·S·艾略特
-    zh-hans: T·S·艾略特
-    zh-hant: T·S·艾略特
+    zh_hans: T·S·艾略特
+    zh_hant: T·S·艾略特
 ---
 # [[Eliot,T.S.]] 
 

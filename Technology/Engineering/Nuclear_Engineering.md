@@ -62,7 +62,7 @@ dv_has_:
     ar: هندسة نووية
     ast: Inxeniería nuclear
     bcl: Inhinyeriyang nukleyar
-    be-tarask: ядзерная інжынэрыя
+    be_tarask: ядзерная інжынэрыя
     bg: Ядрено инженерство
     bn: নিউক্লিয়ার প্রকৌশল
     ca: enginyeria nuclear

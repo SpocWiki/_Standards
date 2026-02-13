@@ -270,7 +270,7 @@ dv_has_:
     ban: Segara Barak
     bcl: Dagat Pula
     be: Чырвонае мора
-    be-tarask: Чырвонае мора
+    be_tarask: Чырвонае мора
     bg: Червено море
     bho: लाल सागर
     bjn: Laut Habang
@@ -289,14 +289,14 @@ dv_has_:
     cy: Y Môr Coch
     da: Røde Hav
     de: Rotes Meer
-    de-ch: Rotes Meer
+    de_ch: Rotes Meer
     diq: Deryayo Sur
     dsb: Cerwjene mórjo
     dv: ރަތްކަނޑު
     el: Ερυθρά Θάλασσα
     en: Red Sea
-    en-ca: Red Sea
-    en-gb: Red Sea
+    en_ca: Red Sea
+    en_gb: Red Sea
     en-us: Red Sea
     eo: Ruĝa Maro
     es: mar Rojo
@@ -393,7 +393,7 @@ dv_has_:
     pnb: لال سمندر
     ps: سور سمندر
     pt: Mar Vermelho
-    pt-br: Mar Vermelho
+    pt_br: Mar Vermelho
     rm: Mar Cotschna
     ro: Marea Roșie
     ru: Красное море
@@ -403,7 +403,7 @@ dv_has_:
     sd: ڳاڙهو سمنڊ
     se: Ruksesmearra
     sh: Crveno more
-    sh-cyrl: Црвено море
+    sh_cyrl: Црвено море
     si: රතු මුහුද
     sk: Červené more
     sl: Rdeče morje
@@ -413,8 +413,8 @@ dv_has_:
     so: Badacas
     sq: Deti i Kuq
     sr: Црвено море
-    sr-ec: Црвено море
-    sr-el: Crveno more
+    sr_ec: Црвено море
+    sr_el: Crveno more
     st: Red Sea
     su: Laut Beureum
     sv: Röda havet
@@ -446,10 +446,10 @@ dv_has_:
     yue: 紅海
     zgh: ⵉⵍⵍ ⴰⵣⴳⴳⵯⴰⵖ
     zh: 红海
-    zh-cn: 红海
-    zh-hans: 红海
-    zh-hant: 紅海
-    zh-tw: 紅海
+    zh_cn: 红海
+    zh_hans: 红海
+    zh_hant: 紅海
+    zh_tw: 紅海
 ---
 # [[Red_Sea]] 
 

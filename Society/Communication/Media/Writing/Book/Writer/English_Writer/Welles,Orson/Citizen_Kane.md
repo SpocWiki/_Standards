@@ -179,7 +179,7 @@ dv_has_:
     az: Vətəndaş Keyn
     azb: وطنداش کانه
     be: Грамадзянін Кейн
-    be-tarask: Грамадзянін Кейн
+    be_tarask: Грамадзянін Кейн
     bg: Гражданинът Кейн
     bn: সিটিজেন কেইন
     bs: Građanin Kane
@@ -222,7 +222,7 @@ dv_has_:
     oc: Citizen Kane
     pl: Obywatel Kane
     pt: Citizen Kane - O Mundo a seus Pés
-    pt-br: Cidadão Kane
+    pt_br: Cidadão Kane
     qu: Llaqtayuq Kane
     ro: Cetățeanul Kane
     ru: Гражданин Кейн
@@ -245,13 +245,13 @@ dv_has_:
     wuu: 公民凯恩
     yue: 大國民
     zh: 大國民
-    zh-cn: 公民凯恩
-    zh-hans: 公民凯恩
-    zh-hant: 大國民
-    zh-hk: 大國民
+    zh_cn: 公民凯恩
+    zh_hans: 公民凯恩
+    zh_hant: 大國民
+    zh_hk: 大國民
     zh-my: 大国民
-    zh-sg: 大国民
-    zh-tw: 大國民
+    zh_sg: 大国民
+    zh_tw: 大國民
 ---
 # [[Citizen_Kane]] 
 

@@ -102,7 +102,7 @@ dv_has_:
     ba: Сапфир
     bcl: Sapiro
     be: Сапфір
-    be-tarask: сапфір
+    be_tarask: сапфір
     bg: Сапфир
     bjn: Nilam
     bs: Safir
@@ -141,11 +141,11 @@ dv_has_:
     kbp: Safiiri
     kge: Safir
     kk: Сапфир
-    kk-arab: ساپفىير
+    kk_arab: ساپفىير
     kk-cn: ساپفىير
-    kk-cyrl: Сапфир
+    kk_cyrl: Сапфир
     kk-kz: Сапфир
-    kk-latn: Sapfïr
+    kk_latn: Sapfïr
     kk-tr: Sapfïr
     km: និលរ័ត្ន
     kn: ನೀಲಮಣಿ
@@ -168,7 +168,7 @@ dv_has_:
     pnb: نیلا یاقوت
     ps: شين یاقوت
     pt: safira
-    pt-br: safira
+    pt_br: safira
     rki: နီလာ
     ro: safir
     ru: сапфир
@@ -182,8 +182,8 @@ dv_has_:
     sl: safir
     sq: Safiri
     sr: сафир
-    sr-ec: Сафир
-    sr-el: Safir
+    sr_ec: Сафир
+    sr_el: Safir
     sv: safir
     ta: நீலம்
     te: నీలమణి
@@ -200,12 +200,12 @@ dv_has_:
     wuu: 蓝宝石
     yue: 藍寶石
     zh: 蓝宝石
-    zh-cn: 蓝宝石
-    zh-hans: 蓝宝石
-    zh-hant: 藍寶石
-    zh-hk: 藍寶石
-    zh-sg: 蓝宝石
-    zh-tw: 藍寶石
+    zh_cn: 蓝宝石
+    zh_hans: 蓝宝石
+    zh_hant: 藍寶石
+    zh_hk: 藍寶石
+    zh_sg: 蓝宝石
+    zh_tw: 藍寶石
 dv_is_:
   same_as:
   - '[[../../../../WikiData/WD~Sapphire,127583|WD~Sapphire,127583]]'

@@ -40,8 +40,8 @@ dv_has_:
     uk: Steely Dan
     vi: Steely Dan
     zh: 史提利丹
-    zh-hans: 钢铁浮标
-    zh-hant: 鋼鐵浮標
+    zh_hans: 钢铁浮标
+    zh_hant: 鋼鐵浮標
 aliases:
 - Steely Dan
 - Стийли Дан

@@ -112,7 +112,7 @@ dv_has_:
     pl: Portulakowate
     pnb: پوٹولاکا ٹبر
     pt: Portulacaceae
-    pt-br: Portulacaceae
+    pt_br: Portulacaceae
     ro: Portulacaceae
     ru: Портулаковые
     sk: portulakovité
@@ -128,8 +128,8 @@ dv_has_:
     vo: Portulacaceae
     war: Portulacaceae
     zh: 马齿苋科
-    zh-cn: 马齿苋科
-    zh-tw: 馬齒莧科
+    zh_cn: 马齿苋科
+    zh_tw: 馬齒莧科
 ---
 # [[Portulacaceae]] 
 

@@ -103,7 +103,7 @@ dv_has_:
     arz: تالكوت بارسونز
     ast: Talcott Parsons
     azb: تالکوت پارسونز
-    be-tarask: Талкат Парсанз
+    be_tarask: Талкат Парсанз
     bg: Толкът Парсънс
     ca: Talcott Parsons
     cs: Talcott Parsons
@@ -147,7 +147,7 @@ dv_has_:
     pl: Talcott Parsons
     ps: ټالکوټ پارسونز
     pt: Talcott Parsons
-    pt-br: Talcott Parsons
+    pt_br: Talcott Parsons
     ru: Толкотт Парсонс
     sco: Talcott Parsons
     sk: Talcott Parsons
@@ -162,12 +162,12 @@ dv_has_:
     war: Talcott Parsons
     yue: 達葛·帕森斯
     zh: 塔尔科特·帕森斯
-    zh-cn: 塔尔科特·帕森斯
-    zh-hans: 塔尔科特·帕森斯
-    zh-hant: 塔爾科特·帕森斯
-    zh-hk: 達葛·帕森斯
-    zh-sg: 塔尔科特·帕森斯
-    zh-tw: 塔爾科特·帕森斯
+    zh_cn: 塔尔科特·帕森斯
+    zh_hans: 塔尔科特·帕森斯
+    zh_hant: 塔爾科特·帕森斯
+    zh_hk: 達葛·帕森斯
+    zh_sg: 塔尔科特·帕森斯
+    zh_tw: 塔爾科特·帕森斯
 ---
 # [[Parsons,Talcott]] 
 

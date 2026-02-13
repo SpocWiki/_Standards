@@ -373,11 +373,11 @@ dv_has_:
     bag: sɔ́ndí
     ban: Redité
     bas: ngwa noi
-    bbc-latn: Ari Minggu
+    bbc_latn: Ari Minggu
     bbj: dzə̂dzə
     bcl: Domingo
     be: нядзеля
-    be-tarask: нядзеля
+    be_tarask: нядзеля
     bew: Minggu (ari)
     bg: Неделя
     bho: अतवार
@@ -393,7 +393,7 @@ dv_has_:
     bxr: Гарагай нэгэн
     byv: le'fitə̀
     ca: diumenge
-    cbk-zam: Domingo
+    cbk_zam: Domingo
     cdo: Lā̤-bái-nĭk
     ce: КӀиран
     ceb: Dominggo
@@ -419,8 +419,8 @@ dv_has_:
     el: Κυριακή
     eml: dumènica
     en: Sunday
-    en-ca: Sunday
-    en-gb: Sunday
+    en_ca: Sunday
+    en_gb: Sunday
     eo: dimanĉo
     es: domingo
     et: pühapäev
@@ -451,7 +451,7 @@ dv_has_:
     gn: Arateĩ
     gom: Aitar
     gom-deva: आयतार
-    gom-latn: Aitar
+    gom_latn: Aitar
     got: "\U00010343\U0001033F\U0001033D\U0001033D\U00010349\U0001033D\U00010343 \U00010333\U00010330\U00010332\U00010343"
     gpe: Sunday
     grc: Κυριακή
@@ -530,7 +530,7 @@ dv_has_:
     mos: Sunday
     mr: रविवार
     ms: Ahad
-    ms-arab: احد
+    ms_arab: احد
     mua: com'yakke
     mwl: Demingo
     my: တနင်္ဂနွေ
@@ -542,7 +542,7 @@ dv_has_:
     nap: dummeneca
     nb: søndag
     nds: Sünndag
-    nds-nl: zundag
+    nds_nl: zundag
     ne: आइतबार
     new: आइतबाः
     nl: zondag
@@ -568,7 +568,7 @@ dv_has_:
     pnt: Κερεκήν
     ps: يونۍ
     pt: domingo
-    pt-br: domingo
+    pt_br: domingo
     qu: Intichaw
     rmf: eftato diives
     ro: duminică
@@ -600,7 +600,7 @@ dv_has_:
     so: Axad
     sq: e dielë
     sr: недеља
-    sr-ec: недеља
+    sr_ec: недеља
     st: Sontaha
     su: Minggu
     sv: söndag
@@ -612,7 +612,7 @@ dv_has_:
     tcy: ಐತಾರೊ
     te: ఆదివారం
     tg: якшанбе
-    tg-latn: yakşanbe
+    tg_latn: yakşanbe
     th: วันอาทิตย์
     ti: ሰንበት
     tk: Ýekşenbe
@@ -653,10 +653,10 @@ dv_has_:
     za: ngoenzsinghgiz
     zgh: ⴰⵙⴰⵎⴰⵙ
     zh: 星期日
-    zh-hans: 星期日
-    zh-hant: 星期日
-    zh-hk: 星期日
-    zh-tw: 星期天
+    zh_hans: 星期日
+    zh_hant: 星期日
+    zh_hk: 星期日
+    zh_tw: 星期天
 ---
 # [[Sunday]] 
 

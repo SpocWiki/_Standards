@@ -108,8 +108,8 @@ dv_has_:
     el: Γκόρντον Ράμσεϊ
     eml: Gordon Ramsay
     en: Gordon Ramsay
-    en-ca: Gordon Ramsay
-    en-gb: Gordon Ramsay
+    en_ca: Gordon Ramsay
+    en_gb: Gordon Ramsay
     en-us: Gordon Ramsay
     eo: Gordon Ramsay
     es: Gordon Ramsay
@@ -155,7 +155,7 @@ dv_has_:
     oc: Gordon Ramsay
     pl: Gordon Ramsay
     pt: Gordon Ramsay
-    pt-br: Gordon Ramsay
+    pt_br: Gordon Ramsay
     rm: Gordon Ramsay
     ro: Gordon Ramsay
     ru: Гордон Рамзи
@@ -178,9 +178,9 @@ dv_has_:
     wa: Gordon Ramsay
     yue: 哥頓藍斯
     zh: 戈登·拉姆齊
-    zh-hans: 戈登·拉姆齐
-    zh-hant: 戈登·拉姆齊
-    zh-hk: 哥頓·霖士
+    zh_hans: 戈登·拉姆齐
+    zh_hant: 戈登·拉姆齊
+    zh_hk: 哥頓·霖士
     zu: Gordon Ramsay
 ---
 # [[Ramsay,Gordon]] 

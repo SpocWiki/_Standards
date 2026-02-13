@@ -111,7 +111,7 @@ dv_has_:
     az: Cənub Üçbucağı
     ba: Көньяҡ Өсмөйөш
     be: Паўднёвы Трыкутнік
-    be-tarask: Паўднёвы Трыкутнік
+    be_tarask: Паўднёвы Трыкутнік
     bg: Южен триъгълник
     bn: দক্ষিণ ত্রিকোণ মণ্ডল
     br: Tric'horn ar Su
@@ -123,12 +123,12 @@ dv_has_:
     cy: Triangulum Australe
     da: Sydlige Trekant
     de: Südliches Dreieck
-    de-ch: Südliches Dreieck
+    de_ch: Südliches Dreieck
     diq: Hirêkışta Veroci
     el: Τρίγωνον Νότιον
     en: Triangulum Australe
-    en-ca: Triangulum Australe
-    en-gb: Triangulum Australe
+    en_ca: Triangulum Australe
+    en_gb: Triangulum Australe
     eo: Suda Triangulo
     es: Triangulum Australe
     et: Lõunakolmnurk
@@ -169,7 +169,7 @@ dv_has_:
     nn: Det sørlege triangelet
     pl: Trójkąt Południowy
     pt: Triangulum Australe
-    pt-br: Triangulum Australe
+    pt_br: Triangulum Australe
     ro: Triunghiul Austral
     ru: Южный Треугольник
     sah: Соҕуруу Үс Муннук

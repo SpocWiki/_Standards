@@ -76,7 +76,7 @@ dv_has_:
     af: Faraday se wet
     ar: قانون فاراداي
     ast: llei de Faraday
-    be-tarask: закон электрамагнітнай індукцыі Фарадэя
+    be_tarask: закон электрамагнітнай індукцыі Фарадэя
     bg: закон на Фарадей
     bn: ফ্যারাডের আবেশ সূত্র
     ca: llei de Faraday
@@ -103,7 +103,7 @@ dv_has_:
     ja: ファラデーの電磁誘導の法則
     ka: ფარადეის ინდუქციის კანონი
     ko: 패러데이 전자기 유도 법칙
-    ku-latn: welat
+    ku_latn: welat
     mag: फैराडेके विद्युच्चुम्बकीय प्रेरणके नियम
     mk: Фарадеев закон за индукција
     ml: വൈദ്യുതകാന്തികപ്രേരണം
@@ -122,8 +122,8 @@ dv_has_:
     sl: Indukcijski zakon
     sq: Ligji i Faradeit
     sr: Фарадејев закон електромагнетске индукције
-    sr-ec: Фарадејев закон електромагнетске индукције
-    sr-el: Faradejev zakon elektromagnetske indukcije
+    sr_ec: Фарадејев закон електромагнетске индукције
+    sr_el: Faradejev zakon elektromagnetske indukcije
     sv: Faradays lag
     tcy: ಪ್ಯಾರಡೇನ ನಿಯಮೊಲು
     te: ఫారడే ప్రేరణ నియమం
@@ -136,12 +136,12 @@ dv_has_:
     vi: Định luật cảm ứng Faraday
     yue: 法拉第電磁感應定律
     zh: 法拉第电磁感应定律
-    zh-cn: 法拉第电磁感应定律
-    zh-hans: 法拉第电磁感应定律
-    zh-hant: 法拉第電磁感應定律
-    zh-hk: 法拉第電磁感應定律
-    zh-sg: 法拉第电磁感应定律
-    zh-tw: 法拉第電磁感應定律
+    zh_cn: 法拉第电磁感应定律
+    zh_hans: 法拉第电磁感应定律
+    zh_hant: 法拉第電磁感應定律
+    zh_hk: 法拉第電磁感應定律
+    zh_sg: 法拉第电磁感应定律
+    zh_tw: 法拉第電磁感應定律
 ---
 # [[Faraday's_law_of_induction]] 
 

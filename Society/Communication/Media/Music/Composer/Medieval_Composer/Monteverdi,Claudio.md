@@ -110,7 +110,7 @@ dv_has_:
     az: Klaudio Monteverdi
     ba: Клаудио Монтеверди
     be: Клаўдзіа Мантэвердзі
-    be-tarask: Кляўдыё Мантэвэрдзі
+    be_tarask: Кляўдыё Мантэвэрдзі
     bg: Клаудио Монтеверди
     bn: ক্লাউদিও মোন্তেভের্দি
     bs: Claudio Monteverdi
@@ -119,11 +119,11 @@ dv_has_:
     cy: Claudio Monteverdi
     da: Claudio Monteverdi
     de: Claudio Monteverdi
-    de-ch: Claudio Monteverdi
+    de_ch: Claudio Monteverdi
     el: Κλαούντιο Μοντεβέρντι
     en: Claudio Monteverdi
-    en-ca: Claudio Monteverdi
-    en-gb: Claudio Monteverdi
+    en_ca: Claudio Monteverdi
+    en_gb: Claudio Monteverdi
     eo: Claudio Monteverdi
     es: Claudio Monteverdi
     et: Claudio Monteverdi
@@ -167,7 +167,7 @@ dv_has_:
     pam: Claudio Monteverdi
     pl: Claudio Monteverdi
     pt: Claudio Monteverdi
-    pt-br: Claudio Monteverdi
+    pt_br: Claudio Monteverdi
     ro: Claudio Monteverdi
     ru: Клаудио Монтеверди
     sco: Claudio Monteverdi

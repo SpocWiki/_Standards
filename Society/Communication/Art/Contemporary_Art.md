@@ -91,7 +91,7 @@ dv_has_:
     ast: arte contemporáneo
     az: müasir incəsənət
     be: сучаснае мастацтва
-    be-tarask: сучаснае мастацтва
+    be_tarask: сучаснае мастацтва
     bg: съвременно изкуство
     bn: সমকালীন শিল্পকলা
     ca: art contemporani
@@ -103,7 +103,7 @@ dv_has_:
     diq: Hunero aktuel
     el: σύγχρονη τέχνη
     en: contemporary art
-    en-gb: contemporary art
+    en_gb: contemporary art
     en-us: contemporary art
     eo: nuntempa arto
     es: arte contemporáneo
@@ -141,7 +141,7 @@ dv_has_:
     pl: sztuka współczesna
     ps: هممهاله هنر
     pt: arte contemporânea
-    pt-br: arte contemporânea
+    pt_br: arte contemporânea
     ro: Artă contemporană
     ru: современное искусство
     se: dáládáidda
@@ -160,8 +160,8 @@ dv_has_:
     vi: nghệ thuật đương đại
     yue: 當代藝術
     zh: 當代藝術
-    zh-hant: 當代藝術
-    zh-hk: 當代藝術
+    zh_hant: 當代藝術
+    zh_hk: 當代藝術
 ---
 # [[Contemporary_Art]] 
 

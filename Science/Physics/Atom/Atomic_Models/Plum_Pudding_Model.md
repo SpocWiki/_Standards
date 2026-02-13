@@ -65,7 +65,7 @@ dv_has_:
     ast: Modelu atómicu de Thomson
     az: Tomson atom modeli
     be: Мадэль атама Томсана
-    be-tarask: мадэль атама Томсана
+    be_tarask: мадэль атама Томсана
     bn: থমসন পরমাণু মডেল
     ca: Model atòmic de Thomson
     cs: Thomsonův model atomu
@@ -112,12 +112,12 @@ dv_has_:
     vi: Mô hình mứt mận
     wuu: 梅子布丁模型
     zh: 梅子布丁模型
-    zh-cn: 梅子布丁模型
-    zh-hans: 梅子布丁模型
-    zh-hant: 梅子布丁模型
-    zh-hk: 梅子布丁模型
-    zh-sg: 梅子布丁模型
-    zh-tw: 梅子布丁模型
+    zh_cn: 梅子布丁模型
+    zh_hans: 梅子布丁模型
+    zh_hant: 梅子布丁模型
+    zh_hk: 梅子布丁模型
+    zh_sg: 梅子布丁模型
+    zh_tw: 梅子布丁模型
 ---
 # [[Plum_Pudding_Model]] 
 

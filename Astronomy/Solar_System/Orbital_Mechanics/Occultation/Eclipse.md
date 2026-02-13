@@ -153,7 +153,7 @@ dv_has_:
     ba: күк есемдәре тотолоу
     bcl: kulop
     be: зацьменне
-    be-tarask: зацьменьне
+    be_tarask: зацьменьне
     bew: Kapangan
     bg: затъмнение
     bho: गरहन
@@ -162,7 +162,7 @@ dv_has_:
     bn: গ্রহণ
     br: fallaenn
     ca: eclipsi
-    cbk-zam: Eclipse
+    cbk_zam: Eclipse
     ckb: گیران
     cs: zatmění
     cy: eclips
@@ -193,11 +193,11 @@ dv_has_:
     jam: iklips
     jv: grahana
     kk: тұтылу
-    kk-arab: تۇتىلۋ
+    kk_arab: تۇتىلۋ
     kk-cn: تۇتىلۋ
-    kk-cyrl: тұтылу
+    kk_cyrl: тұтылу
     kk-kz: тұтылу
-    kk-latn: tutılw
+    kk_latn: tutılw
     kk-tr: tutılw
     kn: ಗ್ರಹಣ
     ko: 식
@@ -214,7 +214,7 @@ dv_has_:
     mnw: ဂြးစပ်
     mr: ग्रहण
     ms: gerhana
-    ms-arab: ݢرهان
+    ms_arab: ݢرهان
     mt: eklissi
     my: နေကြတ်ခြင်း နှင့် လကြတ်ခြင်း
     nap: aggrisse
@@ -227,7 +227,7 @@ dv_has_:
     pa: ਗ੍ਰਹਿਣ
     pl: zaćmienie
     pt: eclipse
-    pt-br: eclipse
+    pt_br: eclipse
     rki: eclipse
     ro: eclipsă
     ru: затмение
@@ -242,8 +242,8 @@ dv_has_:
     sms: pårrjummuš
     sq: eklipsi
     sr: помрачење
-    sr-ec: помрачење
-    sr-el: pomračenje
+    sr_ec: помрачење
+    sr_el: pomračenje
     su: samagaha
     sv: eklips
     ta: கிரகணம்
@@ -263,12 +263,12 @@ dv_has_:
     wuu: 食 (天文现象)
     yue: 食 (天文現象)
     zh: 食
-    zh-cn: 食
-    zh-hans: 食
-    zh-hant: 食
-    zh-hk: 食
-    zh-sg: 食
-    zh-tw: 食
+    zh_cn: 食
+    zh_hans: 食
+    zh_hant: 食
+    zh_hk: 食
+    zh_sg: 食
+    zh_tw: 食
 ---
 # [[Eclipse]] 
 

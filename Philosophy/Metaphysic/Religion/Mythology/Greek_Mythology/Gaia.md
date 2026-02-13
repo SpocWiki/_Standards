@@ -181,7 +181,7 @@ dv_has_:
     ba: Гея
     bar: Gaia
     be: Гея
-    be-tarask: Гея
+    be_tarask: Гея
     bg: Гея
     bn: গাইয়া
     br: Gaia
@@ -219,7 +219,7 @@ dv_has_:
     kk: Гея
     ko: 가이아
     ku: Gaîa
-    ku-latn: Gea
+    ku_latn: Gea
     la: Gaea
     lb: Gaia
     lt: Gaja
@@ -243,8 +243,8 @@ dv_has_:
     sk: Gaia
     sl: Gaja
     sr: Геја
-    sr-ec: Геја
-    sr-el: Geja
+    sr_ec: Геја
+    sr_el: Geja
     sv: Gaia
     ta: ஜியா
     tg: Гея
@@ -260,12 +260,12 @@ dv_has_:
     wuu: 盖亚
     yue: 蓋亞
     zh: 盖亚
-    zh-cn: 盖亚
-    zh-hans: 盖亚
-    zh-hant: 蓋亞
-    zh-hk: 蓋亞
-    zh-sg: 盖亚
-    zh-tw: 蓋亞
+    zh_cn: 盖亚
+    zh_hans: 盖亚
+    zh_hant: 蓋亞
+    zh_hk: 蓋亞
+    zh_sg: 盖亚
+    zh_tw: 蓋亞
 ---
 # [[Gaia]] 
 

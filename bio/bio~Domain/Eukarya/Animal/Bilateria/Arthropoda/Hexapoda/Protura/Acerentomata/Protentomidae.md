@@ -34,7 +34,7 @@ dv_has_:
     oc: Protentomidae
     pl: Protentomidae
     pt: Protentomidae
-    pt-br: Protentomidae
+    pt_br: Protentomidae
     ro: Protentomidae
     ru: Protentomidae
     sq: Protentomidae
@@ -47,8 +47,8 @@ dv_has_:
     war: Protentomidae
     yo: Protentomidae
     zh: 始蚖科
-    zh-cn: 始蚖科
-    zh-tw: 始蚖科
+    zh_cn: 始蚖科
+    zh_tw: 始蚖科
 ---
 # [[Protentomidae]] 
 

@@ -229,7 +229,7 @@ dv_has_:
     bar: Fleisch
     bcl: carne
     be: мяса
-    be-tarask: мяса
+    be_tarask: мяса
     bg: месо
     bn: মাংস
     bo: ཤ
@@ -243,7 +243,7 @@ dv_has_:
     ckb: گۆشت
     co: carne
     crh: et
-    crh-latn: et
+    crh_latn: et
     cs: maso
     cu: мѧсо
     cv: Аш-какай
@@ -251,14 +251,14 @@ dv_has_:
     da: kød
     dag: nimdi
     de: Fleisch
-    de-ch: Fleisch
+    de_ch: Fleisch
     diq: goşt
     dsb: měso
     el: κρέας
     eml: chèrna
     en: meat
-    en-ca: meat
-    en-gb: meat
+    en_ca: meat
+    en_gb: meat
     eo: viando
     es: carne
     et: liha
@@ -318,7 +318,7 @@ dv_has_:
     krc: эт
     ks: ماز
     ku: goşt
-    ku-latn: goşt
+    ku_latn: goşt
     kus: Ni'im
     kw: kig
     ky: Эт
@@ -343,7 +343,7 @@ dv_has_:
     mn: мах
     mnc: ᠶᠠᠯᡳ
     ms: daging
-    ms-arab: داݢيڠ
+    ms_arab: داݢيڠ
     mt: laħam
     my: အသား
     myv: сывель
@@ -369,7 +369,7 @@ dv_has_:
     pnb: گوشت
     ps: غوښه
     pt: carne
-    pt-br: carne
+    pt_br: carne
     qu: aycha
     rm: charn
     rn: inyama
@@ -399,8 +399,8 @@ dv_has_:
     so: hilib
     sq: mish
     sr: месо
-    sr-ec: месо
-    sr-el: meso
+    sr_ec: месо
+    sr_el: meso
     srn: meti
     ss: inyama
     st: nama
@@ -419,7 +419,7 @@ dv_has_:
     tpi: mit
     tr: et
     tt: ит
-    tt-cyrl: ит
+    tt_cyrl: ит
     tum: nyama
     tyv: эът
     udm: сӥль
@@ -443,8 +443,8 @@ dv_has_:
     yue: 肉食
     zgh: ⴰⴽⵙⵓⵎ
     zh: 肉类食物
-    zh-hans: 肉品
-    zh-hant: 肉品
+    zh_hans: 肉品
+    zh_hant: 肉品
     zu: inyama
 ---
 # [[Meat]] 

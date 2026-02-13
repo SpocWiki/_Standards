@@ -179,7 +179,7 @@ dv_has_:
     az: Dominikan ordeni
     azb: دومينيکنلر
     be: дамініканцы
-    be-tarask: ордэн дамініканаў
+    be_tarask: ордэн дамініканаў
     bg: Доминикански орден
     br: Urzh ar vreudeur prezegerien
     bs: Dominikanci
@@ -215,7 +215,7 @@ dv_has_:
     kbp: Dominique paɣtʊ ɛyaa
     ko: 도미니코 수도회
     ku: Domînîkan
-    ku-latn: Domînîkan
+    ku_latn: Domînîkan
     la: Ordo Praedicatorum
     lb: Dominikaner
     li: Dominicaan
@@ -241,8 +241,8 @@ dv_has_:
     sk: Rehoľa kazateľov
     sl: dominikanci
     sr: Доминикански ред
-    sr-ec: Доминикански ред
-    sr-el: Dominikanski red
+    sr_ec: Доминикански ред
+    sr_el: Dominikanski red
     sv: Dominikanorden
     sw: Wadominiko
     ta: தொமினிக்கன் சபை
@@ -254,12 +254,12 @@ dv_has_:
     vls: Dominicoann
     wuu: 道明會
     zh: 道明會
-    zh-cn: 道明会
-    zh-hans: 道明会
-    zh-hant: 道明會
-    zh-hk: 道明會
-    zh-sg: 道明会
-    zh-tw: 道明會
+    zh_cn: 道明会
+    zh_hans: 道明会
+    zh_hant: 道明會
+    zh_hk: 道明會
+    zh_sg: 道明会
+    zh_tw: 道明會
 ---
 #is_/same_as :: [[_Standards/WikiData/WD~Dominican_Order,131479]] 
 

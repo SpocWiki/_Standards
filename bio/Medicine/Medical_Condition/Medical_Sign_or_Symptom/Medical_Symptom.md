@@ -132,7 +132,7 @@ dv_has_:
     ast: Síntoma
     az: simptom
     be: сімптом
-    be-tarask: сымптом
+    be_tarask: сымптом
     bg: Симптом
     bn: উপসর্গ
     bs: Simptom
@@ -168,11 +168,11 @@ dv_has_:
     kaa: belgileri
     kab: Asken
     kk: симптом
-    kk-arab: سىيمپتوم
+    kk_arab: سىيمپتوم
     kk-cn: سىيمپتوم
-    kk-cyrl: Симптом
+    kk_cyrl: Симптом
     kk-kz: Симптом
-    kk-latn: sïmptom
+    kk_latn: sïmptom
     kk-tr: Sïmptom
     ko: 증상
     ks: علامَتھ
@@ -184,14 +184,14 @@ dv_has_:
     mhr: черын палыже
     mk: симптом
     ms: gejala
-    ms-arab: ݢجالا
+    ms_arab: ݢجالا
     nb: symptom
     nl: symptoom
     nn: symptom
     oc: simptòma
     pl: objaw kliniczny
     pt: sintoma
-    pt-br: sintoma
+    pt_br: sintoma
     ro: simptom
     ru: симптом
     rue: Симптом
@@ -205,18 +205,18 @@ dv_has_:
     sms: symptom
     sq: Simptoma
     sr: симптом
-    sr-ec: симптом
-    sr-el: simptom
+    sr_ec: симптом
+    sr_el: simptom
     sv: symtom
     sw: Dalili
     ta: நோய் உணர்குறி
     te: రోగ లక్షణం
     tg: нишонаҳои беморӣ
-    tg-latn: nişonahoi ʙemorī
+    tg_latn: nişonahoi ʙemorī
     th: อาการ
     tr: belirti
     tt: симптом
-    tt-cyrl: симптом
+    tt_cyrl: симптом
     uk: симптом
     ur: علامت
     vec: sìntomo
@@ -226,12 +226,12 @@ dv_has_:
     yi: סימפטאם
     yue: 徵狀
     zh: 症狀
-    zh-cn: 症状
-    zh-hans: 症状
-    zh-hant: 症狀
-    zh-hk: 症狀
-    zh-sg: 症状
-    zh-tw: 症狀
+    zh_cn: 症状
+    zh_hans: 症状
+    zh_hant: 症狀
+    zh_hk: 症狀
+    zh_sg: 症状
+    zh_tw: 症狀
 ---
 # [[Medical_Symptom]] 
 

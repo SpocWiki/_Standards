@@ -204,7 +204,7 @@ dv_has_:
     bbc: Komite Olimpiade Internasional
     bcl: Internasyunal na Olimpikong Komite
     be: Міжнародны алімпійскі камітэт
-    be-tarask: Міжнародны алімпійскі камітэт
+    be_tarask: Міжнародны алімпійскі камітэт
     bg: Международен олимпийски комитет
     bjn: Majalis Ulimpiada Antarabangsa
     bn: আন্তর্জাতিক অলিম্পিক কমিটি
@@ -219,8 +219,8 @@ dv_has_:
     de: Internationales Olympisches Komitee
     el: Διεθνής Ολυμπιακή Επιτροπή
     en: International Olympic Committee
-    en-ca: International Olympic Committee
-    en-gb: International Olympic Committee
+    en_ca: International Olympic Committee
+    en_gb: International Olympic Committee
     en-us: International Olympic Committee
     eo: Internacia Olimpika Komitato
     es: Comité Olímpico Internacional
@@ -257,14 +257,14 @@ dv_has_:
     lv: Starptautiskā Olimpiskā komiteja
     lzh: 國際奧委會
     mai: अन्तर्राष्ट्रिय ओलम्पिक समिति
-    map-bms: IOC
+    map_bms: IOC
     min: Komite Olimpiade Internasional
     mk: Меѓународен олимписки комитет
     ml: അന്താരാഷ്ട്ര ഒളിമ്പിക് കമ്മിറ്റി
     mn: Олон Улсын Олимпийн Хороо
     mr: आंतरराष्ट्रीय ऑलिंपिक समिती
     ms: Jawatankuasa Olimpik Antarabangsa
-    ms-arab: جاوتنکواس اوليمڤيک انتارابڠسا
+    ms_arab: جاوتنکواس اوليمڤيک انتارابڠسا
     mt: Kumitat Olimpiku Internazzjonali
     mul: International Olympic Committee
     my: အပြည်ပြည်ဆိုင်ရာ အိုလံပစ်ကော်မတီ
@@ -277,7 +277,7 @@ dv_has_:
     pap: Comite Olimpico Internacional
     pl: Międzynarodowy Komitet Olimpijski
     pt: Comité Olímpico Internacional
-    pt-br: Comitê Olímpico Internacional
+    pt_br: Comitê Olímpico Internacional
     ro: Comitetul Olimpic Internațional
     ru: Международный олимпийский комитет
     sah: Аан дойду Олимпия хамытыата
@@ -290,7 +290,7 @@ dv_has_:
     sms: Meeraikõskksaž olympiakomitea
     sq: Komiteti Olimpik Ndërkombëtar
     sr: Међународни олимпијски комитет
-    sr-ec: Међународни олимпијски комитет
+    sr_ec: Међународни олимпијски комитет
     sv: Internationella olympiska kommittén
     sw: Kamati ya Kimataifa ya Olimpiki
     ta: பன்னாட்டு ஒலிம்பிக் குழு
@@ -310,14 +310,14 @@ dv_has_:
     yo: Ìgbìmọ̀ Òlímpíkì Akáríayé
     yue: 國際奧林匹克委員會
     zh: 国际奥林匹克委员会
-    zh-cn: 国际奥林匹克委员会
-    zh-hans: 国际奥林匹克委员会
-    zh-hant: 國際奧林匹克委員會
-    zh-hk: 國際奧林匹克委員會
-    zh-mo: 國際奧林匹克委員會
+    zh_cn: 国际奥林匹克委员会
+    zh_hans: 国际奥林匹克委员会
+    zh_hant: 國際奧林匹克委員會
+    zh_hk: 國際奧林匹克委員會
+    zh_mo: 國際奧林匹克委員會
     zh-my: 国际奥林匹克委员会
-    zh-sg: 国际奥林匹克委员会
-    zh-tw: 國際奧林匹克委員會
+    zh_sg: 国际奥林匹克委员会
+    zh_tw: 國際奧林匹克委員會
 ---
 # [[IOC(International_Olympic_Committee)]] 
 

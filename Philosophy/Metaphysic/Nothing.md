@@ -101,7 +101,7 @@ dv_has_:
     ast: Nada
     az: heçlik
     be: нічога
-    be-tarask: нішто
+    be_tarask: нішто
     bg: Нищо
     bs: Nada
     ca: no-res
@@ -151,7 +151,7 @@ dv_has_:
     pl: niebyt
     pms: Gnente
     pt: nada
-    pt-br: nasa
+    pt_br: nasa
     ro: nimic
     ru: ничто
     sh: Nebiće
@@ -161,15 +161,15 @@ dv_has_:
     so: Waxba
     sq: asgjë
     sr: ништа
-    sr-ec: ништа
+    sr_ec: ништа
     sv: ingenting
     sw: Utovu wa vyote
-    tg-cyrl: ҳеч
+    tg_cyrl: ҳеч
     th: ไม่มีสิ่งใด
     tok: ala
     tr: hiçlik
     tt: һични
-    tt-cyrl: һични
+    tt_cyrl: һични
     uk: небуття
     ur: کچھ نہیں
     uz: Hech narsa
@@ -179,12 +179,12 @@ dv_has_:
     yo: kòsóhun
     yue: 無
     zh: 無
-    zh-cn: 无
-    zh-hans: 无
-    zh-hant: 無
-    zh-hk: 無
-    zh-sg: 无
-    zh-tw: 無
+    zh_cn: 无
+    zh_hans: 无
+    zh_hant: 無
+    zh_hk: 無
+    zh_sg: 无
+    zh_tw: 無
 ---
 # [[Nothing]] 
 

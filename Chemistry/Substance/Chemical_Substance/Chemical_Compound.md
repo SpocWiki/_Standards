@@ -243,7 +243,7 @@ dv_has_:
     ba: химик ҡушылмалар
     bcl: kompuwesto
     be: хімічнае злучэнне
-    be-tarask: хімічнае злучэньне
+    be_tarask: хімічнае злучэньне
     bg: химично съединение
     blk: ဒြပ်ခြွဉ်း
     bn: রাসায়নিক যৌগ
@@ -259,12 +259,12 @@ dv_has_:
     cy: cyfansoddyn cemegol
     da: kemisk forbindelse
     de: chemische Verbindung
-    de-ch: chemische Verbindung
+    de_ch: chemische Verbindung
     dsb: chemiska wězba
     el: χημική ένωση
     en: chemical compound
-    en-ca: chemical compound
-    en-gb: chemical compound
+    en_ca: chemical compound
+    en_gb: chemical compound
     eo: ĥemia kombinaĵo
     es: compuesto químico
     et: keemiline ühend
@@ -322,7 +322,7 @@ dv_has_:
     mn: химийн холбоо
     mr: संयुगे
     ms: sebatian kimia
-    ms-arab: سباتين کيميا
+    ms_arab: سباتين کيميا
     my: ဒြပ်ပေါင်း
     nan: hoà-ha̍p-bu̍t
     nb: kjemisk forbindelse
@@ -340,7 +340,7 @@ dv_has_:
     pnb: کیمیائی مرکب
     ps: کیمیاوي مرکب
     pt: composto químico
-    pt-br: composto químico
+    pt_br: composto químico
     qu: t'inkisqa
     rki: ဒြပ်ပေါင်း
     ro: compus chimic
@@ -371,7 +371,7 @@ dv_has_:
     tl: kompuwesto
     tr: kimyasal bileşik
     tt: химик кушылма
-    tt-cyrl: катлаулы матдәләр
+    tt_cyrl: катлаулы матдәләр
     tyv: химиктиг каттыжыышкын
     udm: хими герӟос
     uk: хімічна сполука
@@ -389,13 +389,13 @@ dv_has_:
     yue: 化合物
     za: vaqhozvuz
     zh: 化合物
-    zh-cn: 化合物
-    zh-hans: 化合物
-    zh-hant: 化合物
-    zh-hk: 化合物
-    zh-mo: 化合物
-    zh-sg: 化合物
-    zh-tw: 化合物
+    zh_cn: 化合物
+    zh_hans: 化合物
+    zh_hant: 化合物
+    zh_hk: 化合物
+    zh_mo: 化合物
+    zh_sg: 化合物
+    zh_tw: 化合物
     zu: umxube
 ---
 # [[Chemical_Compound]] 

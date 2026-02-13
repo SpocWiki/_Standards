@@ -84,7 +84,7 @@ dv_has_:
     az: yaşlanma
     ba: кеше йәше
     bcl: paggurang
-    be-tarask: старэньне чалавека
+    be_tarask: старэньне чалавека
     bg: стареене
     bn: জরাগ্রস্ততা
     bs: starenje
@@ -95,7 +95,7 @@ dv_has_:
     de: Altern
     el: γήρανση
     en: ageing
-    en-gb: ageing
+    en_gb: ageing
     en-us: aging
     eo: maljuniĝo
     es: envejecimiento
@@ -122,7 +122,7 @@ dv_has_:
     kn: ವೃದ್ದಾಪ್ಯ
     ko: 노화
     ku: pîrbûn
-    ku-latn: temenê mirovekî
+    ku_latn: temenê mirovekî
     ky: картаюу
     lb: Al ginn
     lt: senėjimas
@@ -147,8 +147,8 @@ dv_has_:
     so: gaboow
     sq: plakja
     sr: биолошко старење
-    sr-ec: биолошко старење
-    sr-el: biološko starenje
+    sr_ec: биолошко старење
+    sr_el: biološko starenje
     sv: åldrande
     sw: umri
     ta: முதுமையடைதல்
@@ -166,12 +166,12 @@ dv_has_:
     yo: ìdarúgbó
     yue: 老化
     zh: 老化
-    zh-cn: 老化
-    zh-hans: 老化
-    zh-hant: 老化
-    zh-hk: 老化
-    zh-sg: 老化
-    zh-tw: 老化
+    zh_cn: 老化
+    zh_hans: 老化
+    zh_hant: 老化
+    zh_hk: 老化
+    zh_sg: 老化
+    zh_tw: 老化
 ---
 # [[Ageing]] 
 

@@ -37,7 +37,7 @@ dv_has_:
     oc: Phyllodocida
     pl: Phyllodocida
     pt: Phyllodocida
-    pt-br: Phyllodocida
+    pt_br: Phyllodocida
     ro: Phyllodocida
     ru: Phyllodocida
     sl: Phyllodocida
@@ -49,9 +49,9 @@ dv_has_:
     vo: Phyllodocida
     war: Phyllodocida
     zh: 叶须虫目
-    zh-cn: 叶须虫目
-    zh-hans: 叶须虫目
-    zh-tw: 葉鬚蟲目
+    zh_cn: 叶须虫目
+    zh_hans: 叶须虫目
+    zh_tw: 葉鬚蟲目
 ---
 # [[Phyllodocida]] 
 

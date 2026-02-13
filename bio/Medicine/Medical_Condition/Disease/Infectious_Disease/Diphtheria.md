@@ -157,7 +157,7 @@ dv_has_:
     azb: دیفتری
     ba: Дифтерия
     be: дыфтэрыя
-    be-tarask: дыфтэрыя
+    be_tarask: дыфтэрыя
     bg: Дифтерия
     bn: ডিপথেরিয়া
     ca: diftèria
@@ -166,12 +166,12 @@ dv_has_:
     cy: difftheria
     da: difteri
     de: Diphtherie
-    de-ch: Diphtherie
+    de_ch: Diphtherie
     dv: ކަރުފޮޅު
     el: διφθερίτιδα
     en: diphtheria
-    en-ca: Diphtheria
-    en-gb: Diphtheria
+    en_ca: Diphtheria
+    en_gb: Diphtheria
     eo: difterio
     es: difteria
     et: Difteeria
@@ -199,18 +199,18 @@ dv_has_:
     ka: დიფთერია
     kab: Taɣiṭṭ
     kk: Дифтерия
-    kk-arab: دىيفتەرىييا
+    kk_arab: دىيفتەرىييا
     kk-cn: دىيفتەرىييا
-    kk-cyrl: Дифтерия
+    kk_cyrl: Дифтерия
     kk-kz: Дифтерия
-    kk-latn: Dïfterïya
+    kk_latn: Dïfterïya
     kk-tr: Dïfterïya
     kn: ಗಂಟಲಮಾರಿ
     ko: 디프테리아
     ks: ۂٹؠ وِسُر
     ku: Dîfterî
-    ku-arab: دیفتەری
-    ku-latn: Dîfterî
+    ku_arab: دیفتەری
+    ku_latn: Dîfterî
     ky: Кептөөр
     la: diphtheria
     lt: Difterija
@@ -231,7 +231,7 @@ dv_has_:
     pnb: خناق
     pnt: γουλάσ'
     pt: difteria
-    pt-br: Difteria
+    pt_br: Difteria
     ro: difterie
     ru: дифтерия
     sat: ᱰᱤᱯᱛᱷᱤᱨᱤᱭᱟ
@@ -239,8 +239,8 @@ dv_has_:
     sl: davica
     sq: Difteria
     sr: дифтерија
-    sr-ec: дифтерија
-    sr-el: difterija
+    sr_ec: дифтерија
+    sr_el: difterija
     su: Diptéri
     sv: difteri
     te: డిఫ్తీరియా
@@ -260,12 +260,12 @@ dv_has_:
     yue: 白喉
     za: Bingh Conghhozhau
     zh: 白喉
-    zh-cn: 白喉
-    zh-hans: 白喉
-    zh-hant: 白喉
-    zh-hk: 白喉
-    zh-sg: 白喉
-    zh-tw: 白喉
+    zh_cn: 白喉
+    zh_hans: 白喉
+    zh_hant: 白喉
+    zh_hk: 白喉
+    zh_sg: 白喉
+    zh_tw: 白喉
 ---
 # [[Diphtheria]] 
 

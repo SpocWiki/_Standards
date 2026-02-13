@@ -66,7 +66,7 @@ dv_has_:
     as: ন'বেল বঁটা বিজয়ী
     az: İqtisadiyyat üzrə Nobel mükafatı laureatlarının siyahısı
     be: Спіс лаўрэатаў прэміі па эканоміцы імя Альфрэда Нобеля
-    be-tarask: сьпіс ляўрэатаў Нобэлеўскай прэміі ў галіне эканомікі
+    be_tarask: сьпіс ляўрэатаў Нобэлеўскай прэміі ў галіне эканомікі
     bn: অর্থনীতিতে নোবেল স্মারক পুরস্কার বিজয়ীদের তালিকা
     bs: Spisak dobitnika Nobelove nagrade za ekonomiju
     ca: llista de guardonats amb el Premi Nobel d'Economia
@@ -113,9 +113,9 @@ dv_has_:
     vi: Danh sách người đoạt giải Nobel Kinh tế
     xmf: ნობელიშ პრემიაშ ლაურეატეფი ეკონომიკას
     zh: 諾貝爾經濟學獎得主列表
-    zh-hans: 诺贝尔经济学奖得主列表
-    zh-hant: 諾貝爾經濟學獎得主列表
-    zh-hk: 諾貝爾經濟學獎得主列表
+    zh_hans: 诺贝尔经济学奖得主列表
+    zh_hant: 諾貝爾經濟學獎得主列表
+    zh_hk: 諾貝爾經濟學獎得主列表
 ---
 ## #has_/text_of_/abstract 
 

@@ -32,7 +32,7 @@ dv_has_:
     oc: Afrauropodidae
     pl: Afrauropodidae
     pt: Afrauropodidae
-    pt-br: Afrauropodidae
+    pt_br: Afrauropodidae
     ro: Afrauropodidae
     ru: Afrauropodidae
     sq: Afrauropodidae
@@ -41,8 +41,8 @@ dv_has_:
     vo: Afrauropodidae
     war: Afrauropodidae
     zh: 阿富烛䗃科
-    zh-cn: 阿富烛䗃科
-    zh-tw: 阿富燭䗃科
+    zh_cn: 阿富烛䗃科
+    zh_tw: 阿富燭䗃科
 ---
 ## [[Afrauropodidae]] 
 

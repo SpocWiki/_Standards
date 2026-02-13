@@ -139,7 +139,7 @@ dv_has_:
     ast: Bernardo Bertolucci
     az: Bernardo Bertaluççi
     be: Бернарда Берталучы
-    be-tarask: Бэрнарда Бэрталюччы
+    be_tarask: Бэрнарда Бэрталюччы
     bg: Бернардо Бертолучи
     bho: बर्नारडो बर्टोलूची
     bn: বেরনার্দো বেরতোলুচ্চি
@@ -149,13 +149,13 @@ dv_has_:
     cy: Bernardo Bertolucci
     da: Bernardo Bertolucci
     de: Bernardo Bertolucci
-    de-ch: Bernardo Bertolucci
+    de_ch: Bernardo Bertolucci
     diq: Bernardo Bertolucci
     el: Μπερνάρντο Μπερτολούτσι
     eml: Bernardo Bertolucci
     en: Bernardo Bertolucci
-    en-ca: Bernardo Bertolucci
-    en-gb: Bernardo Bertolucci
+    en_ca: Bernardo Bertolucci
+    en_gb: Bernardo Bertolucci
     eo: Bernardo Bertolucci
     es: Bernardo Bertolucci
     et: Bernardo Bertolucci
@@ -199,7 +199,7 @@ dv_has_:
     pl: Bernardo Bertolucci
     pms: Bernardo Bertolucci
     pt: Bernardo Bertolucci
-    pt-br: Bernardo Bertolucci
+    pt_br: Bernardo Bertolucci
     qu: Bernardo Bertolucci
     ro: Bernardo Bertolucci
     ru: Бернардо Бертолуччи
@@ -209,7 +209,7 @@ dv_has_:
     sl: Bernardo Bertolucci
     sq: Bernardo Bertolucci
     sr: Бернардо Бертолучи
-    sr-ec: Бернардо Бертолучи
+    sr_ec: Бернардо Бертолучи
     sv: Bernardo Bertolucci
     ta: பெர்னார்டோ பெர்டோலூசி
     te: బెర్నార్డో బెర్టోలుచి
@@ -222,9 +222,9 @@ dv_has_:
     xmf: ბერნარდო ბერტოლუჩი
     yue: 貝托洛奇
     zh: 貝納多·貝托魯奇
-    zh-hk: 貝托洛奇
+    zh_hk: 貝托洛奇
     zh-my: 贝尔纳多·贝托鲁奇
-    zh-sg: 贝尔纳多·贝托鲁奇
+    zh_sg: 贝尔纳多·贝托鲁奇
 ---
 # [[Bertolucci,Bernardo]] 
 

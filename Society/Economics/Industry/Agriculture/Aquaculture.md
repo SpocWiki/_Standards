@@ -68,11 +68,11 @@ dv_has_:
     cs: akvakultura
     da: akvakultur
     de: Aquakultur
-    de-ch: Aquakultur
+    de_ch: Aquakultur
     el: υδατοκαλλιέργεια
     en: aquaculture
-    en-ca: Aquaculture
-    en-gb: aquaculture
+    en_ca: Aquaculture
+    en_gb: aquaculture
     eo: akvokulturo
     es: acuicultura
     et: akvakultuur
@@ -104,7 +104,7 @@ dv_has_:
     pl: akwakultura
     pnb: ایکوآ کلچر
     pt: aquacultura
-    pt-br: Aquacultura
+    pt_br: Aquacultura
     ro: Acvacultură
     ru: аквакультура
     sat: ᱫᱟᱜ ᱯᱟᱞᱟᱣ
@@ -128,12 +128,12 @@ dv_has_:
     xmf: აკვაკულტურა
     yue: 養殖漁業
     zh: 水產養殖
-    zh-cn: 水产养殖
-    zh-hans: 水产养殖
-    zh-hant: 水產養殖
-    zh-hk: 水產養殖
-    zh-sg: 水产养殖
-    zh-tw: 水產養殖
+    zh_cn: 水产养殖
+    zh_hans: 水产养殖
+    zh_hant: 水產養殖
+    zh_hk: 水產養殖
+    zh_sg: 水产养殖
+    zh_tw: 水產養殖
 ---
 # [[Aquaculture]] 
 

@@ -73,7 +73,7 @@ dv_has_:
   name_:
     ar: واجب
     be: абавязак
-    be-tarask: абавязак
+    be_tarask: абавязак
     br: dever
     ca: deure
     cs: povinnost
@@ -101,9 +101,9 @@ dv_has_:
     ja: 義務
     kaa: minnet
     kk: Борыш сезімі
-    kk-arab: ٴۋاجىپ
-    kk-cyrl: Уәжіп
-    kk-latn: Wäjip
+    kk_arab: ٴۋاجىپ
+    kk_cyrl: Уәжіп
+    kk_latn: Wäjip
     kn: ಕರ್ತವ್ಯ
     ko: 의무
     ky: Важиб
@@ -126,8 +126,8 @@ dv_has_:
     sl: dolžnost
     sq: Detyra
     sr: дужност
-    sr-ec: дужност
-    sr-el: dužnost
+    sr_ec: дужност
+    sr_el: dužnost
     sv: plikt
     sw: Wajibu
     ta: கடமை
@@ -135,7 +135,7 @@ dv_has_:
     tg: вазифа
     th: หน้าที่
     tt: бурыч
-    tt-cyrl: бурыч
+    tt_cyrl: бурыч
     uk: обов’язок
     ur: واجب
     uz: Burch
@@ -143,7 +143,7 @@ dv_has_:
     wuu: 義務
     yue: 義務
     zh: 義務
-    zh-hant: 義務
+    zh_hant: 義務
 ---
 # [[Duty]] 
 

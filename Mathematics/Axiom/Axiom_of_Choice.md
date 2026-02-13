@@ -173,7 +173,7 @@ dv_has_:
     ast: axoma d'eleición
     az: Sermelo aksiomu
     ba: Һайлау аксиомаһы
-    be-tarask: аксіёма выбару
+    be_tarask: аксіёма выбару
     bn: নির্বাচনের স্বতঃসিদ্ধ
     ca: axioma de l'elecció
     cs: Axiom výběru

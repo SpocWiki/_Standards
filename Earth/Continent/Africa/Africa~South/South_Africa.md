@@ -771,7 +771,7 @@ dv_has_:
     ab: Аладатәи Африка
     ace: Afrika Seulatan
     ady: Къыблэ Африкэ Республикэ
-    aeb-arab: جنوب إفريقيا
+    aeb_arab: جنوب إفريقيا
     af: Suid-Afrika
     am: ደቡብ አፍሪካ
     ami: South africa
@@ -793,7 +793,7 @@ dv_has_:
     bbc: Aprika Dangsina
     bcl: Sur na Aprika
     be: Паўднёва-Афрыканская Рэспубліка
-    be-tarask: Паўднёва-Афрыканская Рэспубліка
+    be_tarask: Паўднёва-Афрыканская Рэспубліка
     bew: Aprika Kidul
     bg: ЮАР
     bgn: آپریکایی جنوبی
@@ -810,7 +810,7 @@ dv_has_:
     btm: Afrika Selatan
     bxr: Урда Африкын Улас
     ca: Sud-àfrica
-    cbk-zam: Sudafrica
+    cbk_zam: Sudafrica
     cdo: Nàng-hĭ
     ce: Къилба-Африкин Республика
     ceb: Habagatang Aprika
@@ -819,7 +819,7 @@ dv_has_:
     ckb: ئەفریقای باشوور
     co: Sudafrica
     crh: Cenübiy Afrika
-    crh-latn: Cenübiy Afrika
+    crh_latn: Cenübiy Afrika
     cs: Jihoafrická republika
     csb: Pôłniowô Afrika
     cv: Кăнтăр Африка Республики
@@ -828,7 +828,7 @@ dv_has_:
     dag: South Africa
     de: Südafrika
     de-at: Südafrika
-    de-ch: Südafrika
+    de_ch: Südafrika
     din: Paankɔc Paguöt Apirïka
     diq: Afrikaya Veroci
     dsb: Pódpołdnjowa Afrika
@@ -940,7 +940,7 @@ dv_has_:
     lv: Dienvidāfrika
     lzh: 南非
     mai: दक्षिण अफ्रिका
-    map-bms: Afrika Selatan
+    map_bms: Afrika Selatan
     mdf: Лямбеширень Африконь Республикась
     mg: Afrika Atsimo
     mhr: Кечывалвел Африка
@@ -952,7 +952,7 @@ dv_has_:
     mni: ꯈꯥ ꯑꯐ꯭ꯔꯤꯀꯥ
     mr: दक्षिण आफ्रिका
     ms: Afrika Selatan
-    ms-arab: افريکا سلاتن
+    ms_arab: افريکا سلاتن
     mt: Afrika t'Isfel
     mwl: África de l Sul
     my: တောင်အာဖရိကနိုင်ငံ
@@ -963,7 +963,7 @@ dv_has_:
     nan: Lâm-hui-kok
     nb: Sør-Afrika
     nds: Süüdafrika
-    nds-nl: Zuud-Afrika
+    nds_nl: Zuud-Afrika
     ne: दक्षिण अफ्रिका
     new: दक्षिण अफ्रिका
     nl: Zuid-Afrika
@@ -993,7 +993,7 @@ dv_has_:
     pnb: جنوبی افریقا
     ps: سوېلي افريقا
     pt: África do Sul
-    pt-br: África do Sul
+    pt_br: África do Sul
     qu: Urin Aphrika
     rm: Africa dal Sid
     rmy: South Africa
@@ -1027,8 +1027,8 @@ dv_has_:
     so: Koonfur Afrika
     sq: Republika Jugafrikane
     sr: Јужноафричка Република
-    sr-ec: Јужноафричка Република
-    sr-el: Južnoafrička Republika
+    sr_ec: Јужноафричка Република
+    sr_el: Južnoafrička Republika
     ss: IRiphabhulikhi yeNingizimu Afrika
     st: Afrika Borwa
     stq: Suud-Afrikoa
@@ -1085,14 +1085,14 @@ dv_has_:
     zea: Zuud-Afrika
     zgh: ⵜⴰⴼⵔⵉⵇⵜ ⵏ ⵡⵏⵥⵓⵍ
     zh: 南非
-    zh-cn: 南非
-    zh-hans: 南非
-    zh-hant: 南非
-    zh-hk: 南非
-    zh-mo: 南非
+    zh_cn: 南非
+    zh_hans: 南非
+    zh_hant: 南非
+    zh_hk: 南非
+    zh_mo: 南非
     zh-my: 南非
-    zh-sg: 南非
-    zh-tw: 南非
+    zh_sg: 南非
+    zh_tw: 南非
     zu: IRiphabliki yaseNingizimu Afrika
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-South_Africa

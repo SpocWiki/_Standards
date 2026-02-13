@@ -192,7 +192,7 @@ dv_has_:
     azb: گیلاس
     ba: Сейә
     be: чарэшня
-    be-tarask: вішня
+    be_tarask: вішня
     bg: череша
     bho: चेरी
     bn: চেরি
@@ -215,8 +215,8 @@ dv_has_:
     el: Κεράσι
     eml: Sirësa
     en: cherry
-    en-ca: Cherry
-    en-gb: cherry
+    en_ca: Cherry
+    en_gb: cherry
     eo: ĉerizo
     es: cereza
     et: kirss
@@ -299,7 +299,7 @@ dv_has_:
     pl: czereśnie
     pnb: شاہ دانہ
     pt: cereja
-    pt-br: cereja
+    pt_br: cereja
     qu: Rinda
     ro: cireașă
     roa-tara: cerase
@@ -327,7 +327,7 @@ dv_has_:
     tl: Seresa
     tr: kiraz
     tt: чия
-    tt-cyrl: чия
+    tt_cyrl: чия
     ug: گىلاس
     uk: вишня
     ur: آلو بالو
@@ -341,11 +341,11 @@ dv_has_:
     yue: 車厘子
     zgh: ⴰⵔⴷⵍⵉⵎ
     zh: 樱
-    zh-cn: 樱桃
-    zh-hans: 樱桃
-    zh-hant: 櫻桃
-    zh-hk: 車厘子
-    zh-mo: 車厘子
+    zh_cn: 樱桃
+    zh_hans: 樱桃
+    zh_hant: 櫻桃
+    zh_hk: 車厘子
+    zh_mo: 車厘子
 ---
 # [[Cherry]] 🍒 
 

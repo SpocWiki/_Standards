@@ -72,7 +72,7 @@ dv_has_:
     ar: ثقب أسود نجمي
     ast: Furacu negru estelar
     az: Ulduz qara dəlikləri
-    be-tarask: чорная дзірка зорнай масы
+    be_tarask: чорная дзірка зорнай масы
     br: Toull du steredenn
     ca: forat negre estel·lar
     cs: Hvězdná černá díra
@@ -98,14 +98,14 @@ dv_has_:
     oc: Trauc negre estellar
     pl: gwiazdowa czarna dziura
     pt: Buraco negro estelar
-    pt-br: Buraco negro estelar
+    pt_br: Buraco negro estelar
     ro: Gaură neagră stelară
     ru: чёрная дыра звёздной массы
     sh: Zvezdana crna rupa
     sl: Zvezdna črna luknja
     sr: звездана црна рупа
-    sr-ec: звездана црна рупа
-    sr-el: zvezdana crna rupa
+    sr_ec: звездана црна рупа
+    sr_el: zvezdana crna rupa
     sv: stellärt svart hål
     szl: Gwiŏzdowŏ czŏrnŏ dziura
     th: หลุมดำของดาวฤกษ์
@@ -114,9 +114,9 @@ dv_has_:
     vi: Lỗ đen sao
     yue: 恆星黑洞
     zh: 恆星黑洞
-    zh-hans: 恒星黑洞
-    zh-hant: 恆星黑洞
-    zh-hk: 恆星黑洞
+    zh_hans: 恒星黑洞
+    zh_hant: 恆星黑洞
+    zh_hk: 恆星黑洞
 ---
 # [[Stellar_black_Hole]] 
 

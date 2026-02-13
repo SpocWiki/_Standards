@@ -103,7 +103,7 @@ dv_has_:
     ast: Al Capone
     az: Al Kaponi
     be: Аль Капонэ
-    be-tarask: Аль Капонэ
+    be_tarask: Аль Капонэ
     bg: Ал Капоне
     bn: আল কাপোনে
     br: Al Capone
@@ -157,7 +157,7 @@ dv_has_:
     oc: Al Capone
     pms: Al Capone
     pt: Al Capone
-    pt-br: Al Capone
+    pt_br: Al Capone
     rmy: Al Kapòn
     ro: Al Capone
     ru: Аль Капоне
@@ -182,7 +182,7 @@ dv_has_:
     yo: Al Capone
     yue: 卡彭
     zh: 阿尔·卡彭
-    zh-hant: 阿爾·卡彭
+    zh_hant: 阿爾·卡彭
 ---
 # [[Al_Capone]] 
 

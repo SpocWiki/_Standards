@@ -144,7 +144,7 @@ dv_has_:
     ban: Liga Champions UEFA
     bar: UEFA Champions League
     be: Ліга чэмпіёнаў УЕФА
-    be-tarask: Ліга чэмпіёнаў УЭФА
+    be_tarask: Ліга чэмпіёнаў УЭФА
     bg: Шампионска лига на УЕФА
     bn: উয়েফা চ্যাম্পিয়নস লিগ
     br: Kevre Kampioned an UEFA
@@ -157,12 +157,12 @@ dv_has_:
     cy: Cynghrair y Pencampwyr UEFA
     da: UEFA Champions League
     de: Champions League
-    de-ch: UEFA Champions League
+    de_ch: UEFA Champions League
     diq: Kupaya Şampiyoniya Ligê UEFA
     el: ΟΥΕΦΑ Τσάμπιονς Λιγκ
     en: UEFA Champions League
-    en-ca: UEFA Champions League
-    en-gb: UEFA Champions League
+    en_ca: UEFA Champions League
+    en_gb: UEFA Champions League
     en-us: UEFA Champions League
     eo: Ligo de Ĉampionoj de UEFA
     es: Liga de Campeones de la UEFA
@@ -215,7 +215,7 @@ dv_has_:
     mzn: اروپا چمپیوز لیگ
     nap: UEFA Champions League
     nb: Mesterligaen i fotball for menn
-    nds-nl: UEFA Champions League
+    nds_nl: UEFA Champions League
     ne: च्याम्पियन्स लिग
     nl: UEFA Champions League
     nn: Champions League
@@ -224,7 +224,7 @@ dv_has_:
     pl: Liga Mistrzów UEFA
     ps: یوفا چمپیونز لیګ
     pt: Liga dos Campeões da UEFA
-    pt-br: Liga dos Campeões da UEFA
+    pt_br: Liga dos Campeões da UEFA
     ro: Liga Campionilor UEFA
     ru: Лига чемпионов УЕФА
     rue: Майстровска Ліґа УЕФА
@@ -235,8 +235,8 @@ dv_has_:
     sl: Liga prvakov UEFA
     sq: UEFA Liga e Kampionëve
     sr: УЕФА Лига шампиона
-    sr-ec: УЕФА Лига шампиона
-    sr-el: UEFA Liga šampiona
+    sr_ec: УЕФА Лига шампиона
+    sr_el: UEFA Liga šampiona
     sv: Uefa Champions League
     sw: Ligi la Mabingwa Ulaya
     szl: UEFA Champions League
@@ -250,7 +250,7 @@ dv_has_:
     uk: Ліга чемпіонів УЄФА
     ur: یوئیفا چیمپئنز لیگ
     uz: UEFA Chempionlar Ligasi
-    uz-cyrl: UEFA Chempionlar Ligasi
+    uz_cyrl: UEFA Chempionlar Ligasi
     vec: UEFA Champions League
     vi: UEFA Champions League
     wuu: 欧洲杯足球赛
@@ -258,10 +258,10 @@ dv_has_:
     xmf: უეფა-შ ჩემპიონეფიშ ლიგა
     yue: 歐洲聯賽冠軍盃
     zh: 歐洲冠軍聯賽
-    zh-cn: 欧洲冠军联赛
-    zh-hans: 欧洲冠军联赛
-    zh-hant: 歐洲冠軍聯賽
-    zh-tw: 歐洲冠軍聯賽
+    zh_cn: 欧洲冠军联赛
+    zh_hans: 欧洲冠军联赛
+    zh_hant: 歐洲冠軍聯賽
+    zh_tw: 歐洲冠軍聯賽
 ---
 # [[UEFA_Champions_League]] 
 

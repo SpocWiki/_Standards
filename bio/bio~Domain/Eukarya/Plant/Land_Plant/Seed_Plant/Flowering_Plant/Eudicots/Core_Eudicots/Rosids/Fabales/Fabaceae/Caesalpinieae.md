@@ -73,7 +73,7 @@ dv_has_:
     oc: Caesalpinioideae
     pl: Brezylkowe
     pt: Caesalpinioideae
-    pt-br: Caesalpinioideae
+    pt_br: Caesalpinioideae
     qu: Tara yura urin rikch'aq ayllu
     ro: Caesalpinioideae
     ru: цезальпиниевые
@@ -86,12 +86,12 @@ dv_has_:
     vo: Caesalpinioideae
     war: Caesalpinioideae
     zh: 蘇木亞科
-    zh-cn: 苏木亚科
-    zh-hans: 苏木亚科
-    zh-hant: 蘇木亞科
-    zh-hk: 蘇木亞科
-    zh-sg: 苏木亚科
-    zh-tw: 蘇木亞科
+    zh_cn: 苏木亚科
+    zh_hans: 苏木亚科
+    zh_hant: 蘇木亞科
+    zh_hk: 蘇木亞科
+    zh_sg: 苏木亚科
+    zh_tw: 蘇木亞科
 ---
 # [[Caesalpinieae]] s.l. & s.s., Cassieae sensu stricto, Mimosoideae 
 

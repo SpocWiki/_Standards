@@ -73,7 +73,7 @@ dv_has_:
     ast: Alta teunoloxía
     az: Yüksək texnologiya
     ba: Юғары технологиялар
-    be-tarask: высокая тэхналёгія
+    be_tarask: высокая тэхналёгія
     bg: Високи технологии
     bn: উচ্চ প্রযুক্তি
     ca: Alta tecnologia
@@ -101,11 +101,11 @@ dv_has_:
     it: alta tecnologia
     ja: ハイテク
     kk: High tech
-    kk-arab: High tech
+    kk_arab: High tech
     kk-cn: High tech
-    kk-cyrl: Һігһ тецһ
+    kk_cyrl: Һігһ тецһ
     kk-kz: Һігһ тецһ
-    kk-latn: High tech
+    kk_latn: High tech
     kk-tr: High tech
     ko: 하이 테크
     ku: Teknolojiya bilind
@@ -130,8 +130,8 @@ dv_has_:
     sl: vrhunska tehnologija
     sq: Teknologjia e lartë
     sr: висока технологија
-    sr-ec: висока технологија
-    sr-el: visoka tehnologija
+    sr_ec: висока технологија
+    sr_el: visoka tehnologija
     sv: högteknologi
     ta: உயர் தொழில் நுட்பம்
     th: เทคโนโลยีขั้นสูง
@@ -144,12 +144,12 @@ dv_has_:
     vi: Công nghệ cao
     yue: 高科技
     zh: 高科技
-    zh-cn: 高科技
-    zh-hans: 高科技
-    zh-hant: 高科技
-    zh-hk: 高科技
-    zh-sg: 高科技
-    zh-tw: 高科技
+    zh_cn: 高科技
+    zh_hans: 高科技
+    zh_hant: 高科技
+    zh_hk: 高科技
+    zh_sg: 高科技
+    zh_tw: 高科技
 ---
 # [[High_Tech]] 
 

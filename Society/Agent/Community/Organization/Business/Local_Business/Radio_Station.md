@@ -137,7 +137,7 @@ dv_has_:
     as: অনাতাঁৰ কেন্দ্ৰ
     ast: radio
     be: радыёстанцыя
-    be-tarask: радыёстанцыя
+    be_tarask: радыёстанцыя
     bg: радиостанция
     bn: বেতার কেন্দ্র
     br: savlec'h skingomz
@@ -182,7 +182,7 @@ dv_has_:
     ms: stesen penyiaran radio
     nb: radiostasjon
     nds: Radiosenner
-    nds-nl: radiozender
+    nds_nl: radiozender
     nl: radiostation
     nn: radiostasjon
     oc: ràdio
@@ -190,7 +190,7 @@ dv_has_:
     pdc: Raedio-Staeschen
     pl: stacja radiowa
     pt: estação de rádio
-    pt-br: estação de rádio
+    pt_br: estação de rádio
     ro: post de radio
     ru: вещательная радиостанция
     sco: radio station
@@ -200,8 +200,8 @@ dv_has_:
     sma: radiostasjovne
     smn: radiosajattâh
     sr: радио-станица
-    sr-ec: радио станица
-    sr-el: radio stanica
+    sr_ec: радио станица
+    sr_el: radio stanica
     sv: radiostation
     ta: வானொலி நிலையம்
     te: రేడియో స్టేషన్
@@ -210,21 +210,21 @@ dv_has_:
     tl: himpilan ng radyo
     tr: radyo istasyonu
     tt: радио станциясе
-    tt-cyrl: радио станциясе
+    tt_cyrl: радио станциясе
     uk: радіомовна станція
     ur: ریڈیو اسٹیشن
     vec: stasion aradiofonega
     vi: đài phát thanh
     yue: 電台
     zh: 電台
-    zh-cn: 电台
-    zh-hans: 电台
-    zh-hant: 電台
-    zh-hk: 電台
-    zh-mo: 電台
+    zh_cn: 电台
+    zh_hans: 电台
+    zh_hant: 電台
+    zh_hk: 電台
+    zh_mo: 電台
     zh-my: 电台
-    zh-sg: 电台
-    zh-tw: 電台
+    zh_sg: 电台
+    zh_tw: 電台
 ---
 # [[Radio_Station]] 
 

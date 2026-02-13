@@ -159,7 +159,7 @@ dv_has_:
     ba: Тәмәке
     ban: Temako
     be: Тытунь
-    be-tarask: тытунь
+    be_tarask: тытунь
     bg: Тютюн
     bho: तमाकू
     bjn: timbaku
@@ -177,8 +177,8 @@ dv_has_:
     el: Καπνός
     eml: Tabâch
     en: tobacco
-    en-ca: Tobacco
-    en-gb: tobacco
+    en_ca: Tobacco
+    en_gb: tobacco
     eo: tabako
     es: tabaco
     et: Tubakas
@@ -233,7 +233,7 @@ dv_has_:
     mn: Тамхи
     mr: तंबाखू
     ms: tembakau
-    ms-arab: تيمبكاو
+    ms_arab: تيمبكاو
     mwl: Tabaco
     my: ဆေးလိပ်
     nah: Piciyetl
@@ -256,7 +256,7 @@ dv_has_:
     pnb: تماکھو
     ps: تمباکو
     pt: tabaco
-    pt-br: Tabaco
+    pt_br: Tabaco
     ro: Tutun
     ru: табак
     rup: Tutumi
@@ -272,7 +272,7 @@ dv_has_:
     so: Buuri
     sq: Duhani
     sr: дуван
-    sr-ec: дуван
+    sr_ec: дуван
     su: Bako
     sv: tobak
     sw: Mtumbako
@@ -284,7 +284,7 @@ dv_has_:
     tl: tabako
     tr: Tütün
     tt: тәмәке
-    tt-cyrl: тәмәке
+    tt_cyrl: тәмәке
     udm: тамак
     uk: тютюн
     ur: تمباکو
@@ -299,8 +299,8 @@ dv_has_:
     yue: 煙草
     za: Go'ien
     zh: 菸葉
-    zh-hant: 菸葉
-    zh-tw: 菸葉
+    zh_hant: 菸葉
+    zh_tw: 菸葉
     zu: Ugwayi
 ---
 # [[Tobacco]] 

@@ -42,7 +42,7 @@ dv_has_:
     br: Al Jarreau
     bs: Al Jarreau
     ca: Al Jarreau
-    cbk-zam: Al Jarreau
+    cbk_zam: Al Jarreau
     cdo: Al Jarreau
     ceb: Al Jarreau
     ch: Al Jarreau
@@ -51,14 +51,14 @@ dv_has_:
     ckb: ئال جرۆ
     co: Al Jarreau
     cr: Al Jarreau
-    crh-latn: Al Jarreau
+    crh_latn: Al Jarreau
     cs: Al Jarreau
     csb: Al Jarreau
     cy: Al Jarreau
     da: Al Jarreau
     de: Al Jarreau
     de-at: Al Jarreau
-    de-ch: Al Jarreau
+    de_ch: Al Jarreau
     diq: Al Jarreau
     dsb: Al Jarreau
     dtp: Al Jarreau
@@ -66,8 +66,8 @@ dv_has_:
     egl: Al Jarreau
     eml: Al Jarreau
     en: Al Jarreau
-    en-ca: Al Jarreau
-    en-gb: Al Jarreau
+    en_ca: Al Jarreau
+    en_gb: Al Jarreau
     eo: Al Jarreau
     es: Al Jarreau
     et: Al Jarreau
@@ -94,7 +94,7 @@ dv_has_:
     ha: Al Jarreau
     hak: Al Jarreau
     he: אל ג'ארו
-    hif-latn: Al Jarreau
+    hif_latn: Al Jarreau
     hil: Al Jarreau
     ho: Al Jarreau
     hr: Al Jarreau
@@ -108,7 +108,7 @@ dv_has_:
     ie: Al Jarreau
     ig: Al Jarreau
     ik: Al Jarreau
-    ike-latn: Al Jarreau
+    ike_latn: Al Jarreau
     ilo: Al Jarreau
     io: Al Jarreau
     is: Al Jarreau
@@ -136,7 +136,7 @@ dv_has_:
     nap: Al Jarreau
     nb: Al Jarreau
     nds: Al Jarreau
-    nds-nl: Al Jarreau
+    nds_nl: Al Jarreau
     nl: Al Jarreau
     nn: Al Jarreau
     nrm: Al Jarreau
@@ -146,7 +146,7 @@ dv_has_:
     pl: Al Jarreau
     pms: Al Jarreau
     pt: Al Jarreau
-    pt-br: Al Jarreau
+    pt_br: Al Jarreau
     qu: Al Jarreau
     rm: Al Jarreau
     ro: Al Jarreau
@@ -160,7 +160,7 @@ dv_has_:
     sn: Al Jarreau
     sq: Al Jarreau
     sr: Ал Џаро
-    sr-el: Al Jarreau
+    sr_el: Al Jarreau
     su: Al Jarreau
     sv: Al Jarreau
     sw: Al Jarreau

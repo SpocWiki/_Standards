@@ -31,7 +31,7 @@ dv_has_:
     oc: Millotauropus
     pl: Millotauropus
     pt: Millotauropus
-    pt-br: Millotauropus
+    pt_br: Millotauropus
     ro: Millotauropus
     ru: Millotauropus
     sq: Millotauropus

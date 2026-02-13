@@ -153,7 +153,7 @@ dv_has_:
     bar: Soziale Medien
     bcl: Social media
     be: сацыяльныя медыя
-    be-tarask: сацыяльныя мэдыі
+    be_tarask: сацыяльныя мэдыі
     bew: Wasilah silaturahmi
     bg: Социална медия
     bho: सोशल मीडिया
@@ -168,11 +168,11 @@ dv_has_:
     cy: cyfryngau cymdeithasol
     da: socialt medie
     de: Soziale Medien
-    de-ch: Social Media
+    de_ch: Social Media
     el: μέσα κοινωνικής δικτύωσης
     en: social media
-    en-ca: social media
-    en-gb: social media
+    en_ca: social media
+    en_gb: social media
     eo: socia komunikilo
     es: medios sociales
     et: sotsiaalmeedia
@@ -211,7 +211,7 @@ dv_has_:
     ml: social media
     mr: समाज माध्यमे
     ms: media sosial
-    ms-arab: ميديا سوسيال
+    ms_arab: ميديا سوسيال
     mt: xandir soċjali
     nb: sosiale medier
     ne: सामाजिक सञ्जाल
@@ -226,7 +226,7 @@ dv_has_:
     pnb: سوشل میڈیا
     ps: ټولنيزې رسنۍ
     pt: média social
-    pt-br: Mídias sociais
+    pt_br: Mídias sociais
     qu: Tinkuna llika
     rki: ဆိုရှယ်မီဒီယာ
     ro: social media
@@ -241,7 +241,7 @@ dv_has_:
     smn: sosiaallâš media
     sms: sosiaalʼlaž media
     sr: друштвени медији
-    sr-ec: друштвени медији
+    sr_ec: друштвени медији
     su: média sosial
     sv: sociala medier
     ta: சமூக ஊடகம்
@@ -260,10 +260,10 @@ dv_has_:
     wuu: 社交媒体
     yue: 社交媒體
     zh: 社交媒體
-    zh-cn: 社交媒体
-    zh-hans: 社交媒体
-    zh-hant: 社群媒體
-    zh-tw: 社群媒體
+    zh_cn: 社交媒体
+    zh_hans: 社交媒体
+    zh_hant: 社群媒體
+    zh_tw: 社群媒體
     zu: Izinkundla zokuxhumana
 ---
 # [[Social_Media]] 

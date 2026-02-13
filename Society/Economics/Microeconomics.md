@@ -114,7 +114,7 @@ dv_has_:
     az: Mikroiqtisadiyyat
     azb: میکروایکونومی
     be: мікраэканоміка
-    be-tarask: мікраэканоміка
+    be_tarask: мікраэканоміка
     bg: Микроикономика
     bn: ব্যষ্টিক অর্থনীতি
     bo: ཕྲ་མཐོང་དཔལ་འབྱོར།
@@ -129,8 +129,8 @@ dv_has_:
     diq: Mikroekonomiye
     el: Μικροοικονομία
     en: microeconomics
-    en-ca: microeconomics
-    en-gb: microeconomics
+    en_ca: microeconomics
+    en_gb: microeconomics
     eo: mikroekonomiko
     es: microeconomía
     et: Mikroökonoomika
@@ -190,7 +190,7 @@ dv_has_:
     sl: mikroekonomija
     sq: Mikroekonomia
     sr: микроекономија
-    sr-ec: микроекономија
+    sr_ec: микроекономија
     su: Ékonomi Mikro
     sv: mikroekonomi
     ta: குறும்பொருளியல்
@@ -209,9 +209,9 @@ dv_has_:
     wuu: 微观经济学
     yue: 微觀經濟學
     zh: 微觀經濟學
-    zh-hans: 微观经济学
-    zh-hant: 個體經濟學
-    zh-tw: 個體經濟學
+    zh_hans: 微观经济学
+    zh_hant: 個體經濟學
+    zh_tw: 個體經濟學
 ---
 # [[Microeconomics]] 
 

@@ -122,7 +122,7 @@ dv_has_:
     az: Sarqas dənizi
     ba: Саргасс диңгеҙе
     be: Саргасава мора
-    be-tarask: Саргасава мора
+    be_tarask: Саргасава мора
     bg: Саргасово море
     bn: শৈবাল সাগর
     bs: Sargaško more
@@ -162,8 +162,8 @@ dv_has_:
     ko: 사르가소해
     krc: Саргасс тенгиз
     ku: Deryaya Sargasso
-    ku-arab: دەریایا سارگاسسۆ
-    ku-latn: Deryaya Sargasso
+    ku_arab: دەریایا سارگاسسۆ
+    ku_latn: Deryaya Sargasso
     la: Mare Sargassum
     lt: Sargaso jūra
     lv: Sargasu jūra
@@ -187,7 +187,7 @@ dv_has_:
     sk: Sargasové more
     sl: Sargaško morje
     sr: Саргашко море
-    sr-ec: Саргашко море
+    sr_ec: Саргашко море
     sv: Sargassohavet
     sw: Bahari ya Sargasso
     ta: சர்காசோக் கடல்
@@ -205,12 +205,12 @@ dv_has_:
     xmf: სარგასოშ ზუღა
     yue: 馬尾藻海
     zh: 马尾藻海
-    zh-cn: 马尾藻海
-    zh-hans: 马尾藻海
-    zh-hant: 馬尾藻海
-    zh-hk: 馬尾藻海
-    zh-sg: 马尾藻海
-    zh-tw: 馬尾藻海
+    zh_cn: 马尾藻海
+    zh_hans: 马尾藻海
+    zh_hant: 馬尾藻海
+    zh_hk: 馬尾藻海
+    zh_sg: 马尾藻海
+    zh_tw: 馬尾藻海
 ---
 # [[Sargasso_Sea]] 
 

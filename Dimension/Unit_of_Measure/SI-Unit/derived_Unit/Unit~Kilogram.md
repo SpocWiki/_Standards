@@ -171,7 +171,7 @@ dv_has_:
     ban: Kilogram
     bcl: Kilogramo
     be: кілаграм
-    be-tarask: кіляграм
+    be_tarask: кіляграм
     bg: kg
     bho: किलोग्राम
     bn: কিলোগ্রাম
@@ -191,7 +191,7 @@ dv_has_:
     de: Kilogramm
     el: χιλιόγραμμο
     en: kilogram
-    en-gb: kilogram
+    en_gb: kilogram
     en-us: kilogram
     eo: kilogramo
     es: kilogramo
@@ -258,7 +258,7 @@ dv_has_:
     mn: килограмм
     mr: किलोग्रॅम
     ms: kilogram
-    ms-arab: کيلوݢرم
+    ms_arab: کيلوݢرم
     mt: kilogramm
     my: ကီလိုဂရမ်
     nan: Kong-kin
@@ -279,7 +279,7 @@ dv_has_:
     pnb: کلوگرام
     ps: کيلوګرامه
     pt: quilograma
-    pt-br: quilograma
+    pt_br: quilograma
     qu: kilugramu
     rm: kg
     ro: kilogram
@@ -299,8 +299,8 @@ dv_has_:
     so: kiilogaraam
     sq: kilogrami
     sr: килограм
-    sr-ec: килограм
-    sr-el: kilogram
+    sr_ec: килограм
+    sr_el: kilogram
     su: kilogram
     sv: kilogram
     sw: kilogramu
@@ -308,13 +308,13 @@ dv_has_:
     ta: கிலோகிராம்
     te: కిలోగ్రాము
     tg: килограмм
-    tg-cyrl: килограмм
+    tg_cyrl: килограмм
     th: กิโลกรัม
     tl: kilogramo
     tr: kilogram
     ts: khilogiramu
     tt: килограмм
-    tt-cyrl: килограмм
+    tt_cyrl: килограмм
     udm: килограмм
     uk: кілограм
     ur: کلو گرام
@@ -331,14 +331,14 @@ dv_has_:
     yue: 千克
     za: Goenggaen
     zh: 千克
-    zh-cn: 千克
-    zh-hans: 千克
-    zh-hant: 公斤
-    zh-hk: 公斤
-    zh-mo: 公斤
+    zh_cn: 千克
+    zh_hans: 千克
+    zh_hant: 公斤
+    zh_hk: 公斤
+    zh_mo: 公斤
     zh-my: 千克
-    zh-sg: 千克
-    zh-tw: 公斤
+    zh_sg: 千克
+    zh_tw: 公斤
 ---
 # [[Unit~Kilogram]] 
 

@@ -59,7 +59,7 @@ dv_has_:
   name_:
     ar: حالة مثارة
     ast: Estáu escitáu
-    be-tarask: стан узбуджэньня
+    be_tarask: стан узбуджэньня
     bg: Възбудено състояние на атома
     bn: উত্তেজিত দশা
     ca: estat excitat
@@ -69,8 +69,8 @@ dv_has_:
     de: angeregter Zustand
     el: Διεγερμένη κατάσταση
     en: excited state
-    en-ca: Excited state
-    en-gb: Excited state
+    en_ca: Excited state
+    en_gb: Excited state
     eo: ekscitita stato
     es: estado excitado
     et: Ergastatud olek
@@ -95,7 +95,7 @@ dv_has_:
     nn: eksitasjon
     pl: Stan wzbudzony
     pt: estado excitado
-    pt-br: Estado excitado
+    pt_br: Estado excitado
     ro: stare excitată
     ru: возбуждение
     sk: Excitácia
@@ -108,12 +108,12 @@ dv_has_:
     vi: Trạng thái kích thích
     yue: 激發態
     zh: 激发态
-    zh-cn: 激发态
-    zh-hans: 激发态
-    zh-hant: 激發態
-    zh-hk: 激發態
-    zh-sg: 激发态
-    zh-tw: 激發態
+    zh_cn: 激发态
+    zh_hans: 激发态
+    zh_hant: 激發態
+    zh_hk: 激發態
+    zh_sg: 激发态
+    zh_tw: 激發態
 ---
 # [[Excited_State]] 
 

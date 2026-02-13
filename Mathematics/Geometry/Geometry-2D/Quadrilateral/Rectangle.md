@@ -152,7 +152,7 @@ dv_has_:
     ba: тура дүртмөйөш
     bcl: rektangulo
     be: прамавугольнік
-    be-tarask: прастакутнік
+    be_tarask: прастакутнік
     bg: правоъгълник
     bho: चारखाना
     bn: আয়তক্ষেত্র
@@ -169,13 +169,13 @@ dv_has_:
     cy: petryal
     da: rektangel
     de: Rechteck
-    de-ch: Rechteck
+    de_ch: Rechteck
     dsb: pšawokut
     el: ορθογώνιο παραλληλόγραμμο
     eml: retàngol
     en: rectangle
-    en-ca: rectangle
-    en-gb: rectangle
+    en_ca: rectangle
+    en_gb: rectangle
     eo: ortangulo
     es: rectángulo
     et: ristkülik
@@ -235,7 +235,7 @@ dv_has_:
     pms: retàngol
     pnb: مستطیل
     pt: retângulo
-    pt-br: retângulo
+    pt_br: retângulo
     qu: wask'a
     ro: dreptunghi
     ru: прямоугольник
@@ -261,7 +261,7 @@ dv_has_:
     tok: leko supa
     tr: dikdörtgen
     tt: турыпочмаклык
-    tt-cyrl: турыпочмаклык
+    tt_cyrl: турыпочмаклык
     uk: прямокутник
     ur: مستطیل
     uz: toʻgʻri toʻrtburchak
@@ -274,8 +274,8 @@ dv_has_:
     yue: 長方形
     zgh: ⵓⵏⵣⵉⵖ
     zh: 矩形
-    zh-hans: 矩形
-    zh-hant: 矩形
+    zh_hans: 矩形
+    zh_hant: 矩形
 ---
 # [[Rectangle]] 
 

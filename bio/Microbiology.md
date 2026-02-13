@@ -135,7 +135,7 @@ dv_has_:
     ba: микробиология
     bcl: mikrobiyolohiya
     be: мікрабіялогія
-    be-tarask: мікрабіялёгія
+    be_tarask: мікрабіялёгія
     bg: микробиология
     bn: অণুজীববিজ্ঞান
     br: mikrobevoniezh
@@ -149,8 +149,8 @@ dv_has_:
     de: Mikrobiologie
     el: μικροβιολογία
     en: microbiology
-    en-ca: microbiology
-    en-gb: microbiology
+    en_ca: microbiology
+    en_gb: microbiology
     eo: mikrobiologio
     es: microbiología
     et: mikrobioloogia
@@ -181,7 +181,7 @@ dv_has_:
     kn: ಸೂಕ್ಷ್ಮ ಜೀವ ವಿಜ್ಞಾನ
     ko: 미생물학
     ku: Hûrjînewernasî
-    ku-latn: mîkrobiyolojî
+    ku_latn: mîkrobiyolojî
     ky: микробиология
     la: microbiologia
     lb: Mikrobiologie
@@ -213,7 +213,7 @@ dv_has_:
     pnb: مائکروبیالوجی
     ps: مایکرو بیولوژي
     pt: microbiologia
-    pt-br: microbiologia
+    pt_br: microbiologia
     qu: ch'iñi kawsay yachay
     rki: အဏုဇီဝဗေဒ
     ro: microbiologie
@@ -253,10 +253,10 @@ dv_has_:
     yi: מיקראביאלאגיע
     yue: 微生物學
     zh: 微生物学
-    zh-cn: 微生物学
-    zh-hans: 微生物学
-    zh-hant: 微生物學
-    zh-tw: 微生物學
+    zh_cn: 微生物学
+    zh_hans: 微生物学
+    zh_hant: 微生物學
+    zh_tw: 微生物學
 ---
 # [[Microbiology]] 
 

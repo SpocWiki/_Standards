@@ -113,7 +113,7 @@ dv_has_:
     ast: Psicoloxía social
     az: Sosial psixologiya
     be: сацыяльная псіхалогія
-    be-tarask: сацыяльная псыхалёгія
+    be_tarask: сацыяльная псыхалёгія
     bg: социална психология
     bho: सामाजिक मनोबिज्ञान
     bs: Socijalna psihologija
@@ -151,23 +151,23 @@ dv_has_:
     kaa: Social psixologiya
     kbp: Samaɣ tɛ maɣzɩm kpɛlɛkʊʊ tʊmɩyɛ
     kk: Әлеуметтік психология
-    kk-arab: الەۋمەتتىك پسىيحولوگىييا
+    kk_arab: الەۋمەتتىك پسىيحولوگىييا
     kk-cn: الەۋمەتتىك پسىيحولوگىييا
-    kk-cyrl: Әлеуметтік психология
+    kk_cyrl: Әлеуметтік психология
     kk-kz: Әлеуметтік психология
-    kk-latn: Älewmettik psïxologïya
+    kk_latn: Älewmettik psïxologïya
     kk-tr: Älewmettik psïxologïya
     ko: 사회심리학
     ku: Derûnnasiya komî
-    ku-arab: دەروونناسیا کۆمی
-    ku-latn: Derûnnasiya komî
+    ku_arab: دەروونناسیا کۆمی
+    ku_latn: Derûnnasiya komî
     la: Psychologia socialis
     lt: socialinė psichologija
     lv: sociālā psiholoģija
     mad: Psikologi Sosial
     mk: социјална психологија
     ms: psikologi sosial
-    ms-arab: ڤسيکولوݢي سوسيال
+    ms_arab: ڤسيکولوݢي سوسيال
     nb: sosialpsykologi
     nl: sociale psychologie
     pa: ਸਮਾਜਕ ਮਨੋਵਿਗਿਆਨ
@@ -188,8 +188,8 @@ dv_has_:
     sms: sosiaalpsykologia
     sq: Psikologjia sociale
     sr: социјална психологија
-    sr-ec: социјална психологија
-    sr-el: Socijalna psihologija
+    sr_ec: социјална психологија
+    sr_el: Socijalna psihologija
     sv: socialpsykologi
     ta: சமூக உளவியல்
     th: จิตวิทยาสังคม
@@ -203,12 +203,12 @@ dv_has_:
     wuu: 社会心理学
     yue: 社會心理學
     zh: 社會心理學
-    zh-cn: 社会心理学
-    zh-hans: 社会心理学
-    zh-hant: 社會心理學
-    zh-hk: 社會心理學
-    zh-sg: 社会心理学
-    zh-tw: 社會心理學
+    zh_cn: 社会心理学
+    zh_hans: 社会心理学
+    zh_hant: 社會心理學
+    zh_hk: 社會心理學
+    zh_sg: 社会心理学
+    zh_tw: 社會心理學
 ---
 # [[Social_Psychology]]  
 

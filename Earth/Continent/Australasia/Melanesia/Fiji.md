@@ -466,7 +466,7 @@ dv_has_:
   name_:
     ab: Фиџьи
     ace: Fiji
-    aeb-arab: فيجي
+    aeb_arab: فيجي
     af: Fidji
     am: ፊጂ
     ami: Fiji
@@ -485,7 +485,7 @@ dv_has_:
     ban: Fiji
     bcl: Fiji
     be: Фіджы
-    be-tarask: Фіджы
+    be_tarask: Фіджы
     bew: Piji
     bg: Фиджи
     bho: फिजी
@@ -497,7 +497,7 @@ dv_has_:
     bs: Fidži
     bxr: Фиджи
     ca: Fiji
-    cbk-zam: Fiji
+    cbk_zam: Fiji
     cdo: Fiji
     ce: Фиджи
     ceb: Fiji
@@ -506,7 +506,7 @@ dv_has_:
     ckb: فیجی
     co: Figi
     crh: Fici
-    crh-latn: Fici
+    crh_latn: Fici
     cs: Fidži
     csb: Fidżi
     cv: Фиджи
@@ -515,7 +515,7 @@ dv_has_:
     dag: Fiji
     de: Fidschi
     de-at: Fidschi
-    de-ch: Fidschi
+    de_ch: Fidschi
     diq: Fici
     dsb: Fidži
     dtp: Fiji
@@ -523,8 +523,8 @@ dv_has_:
     dv: ފިޖީ
     el: Φίτζι
     en: Fiji
-    en-ca: Fiji
-    en-gb: Fiji
+    en_ca: Fiji
+    en_gb: Fiji
     en-us: Fiji
     eo: Fiĝioj
     es: Fiyi
@@ -548,7 +548,7 @@ dv_has_:
     gn: Fíji
     gom: फिजी
     gom-deva: फिजी
-    gom-latn: Fiji
+    gom_latn: Fiji
     got: "\U00010346\U00010339\U00010333\U0001033E\U00010339"
     gpe: Fiji
     gsw: Fidschi
@@ -604,7 +604,7 @@ dv_has_:
     lzh: 斐濟
     mag: फिजी
     mai: फिजी
-    map-bms: Fiji
+    map_bms: Fiji
     mg: Fiji
     mhr: Фиджи
     mi: Whītī
@@ -616,7 +616,7 @@ dv_has_:
     mr: फिजी
     mrj: Фиджи
     ms: Fiji
-    ms-arab: فيجي
+    ms_arab: فيجي
     mt: Fiġi
     my: ဖီဂျီနိုင်ငံ
     mzn: فیجی
@@ -645,7 +645,7 @@ dv_has_:
     pnb: فجی
     ps: فيجي
     pt: Fiji
-    pt-br: Fiji
+    pt_br: Fiji
     qu: Phiyi
     rmy: Fiji
     ro: Fiji
@@ -674,8 +674,8 @@ dv_has_:
     so: Fiji
     sq: Fixhi
     sr: Фиџи
-    sr-ec: Фиџи
-    sr-el: Fidži
+    sr_ec: Фиџи
+    sr_el: Fidži
     su: Fiji
     sv: Fiji
     sw: Fiji
@@ -717,13 +717,13 @@ dv_has_:
     za: Fiji
     zea: Fiji
     zh: 斐濟
-    zh-cn: 斐济
-    zh-hans: 斐济
-    zh-hant: 斐濟
-    zh-hk: 斐濟
-    zh-mo: 斐濟
-    zh-sg: 斐济
-    zh-tw: 斐濟
+    zh_cn: 斐济
+    zh_hans: 斐济
+    zh_hant: 斐濟
+    zh_hk: 斐濟
+    zh_mo: 斐濟
+    zh_sg: 斐济
+    zh_tw: 斐濟
     zu: IFiji
 ---
 # [[Fiji]] 

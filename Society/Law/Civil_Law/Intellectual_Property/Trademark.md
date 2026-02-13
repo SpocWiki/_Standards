@@ -134,7 +134,7 @@ dv_has_:
     ast: marca rexistrada
     az: əmtəə nişanı
     be: таварны знак
-    be-tarask: таварны знак
+    be_tarask: таварны знак
     bew: mèrèk dagang
     bg: търговска марка
     bn: বাণিজ্যিক মার্কা
@@ -147,7 +147,7 @@ dv_has_:
     de: Markenzeichen
     el: εμπορικό σήμα
     en: trademark
-    en-gb: trademark
+    en_gb: trademark
     eo: registrita marko
     es: marca registrada
     et: kaubamärk
@@ -173,7 +173,7 @@ dv_has_:
     kaa: tovar belgisi
     kea: marka kumersial
     kk: тауар таңбасы
-    kk-latn: tawar tañbası
+    kk_latn: tawar tañbası
     kn: ಟ್ರೇಡ್ ಮಾರ್ಕ್
     ko: 상표
     ky: товардык белги
@@ -193,7 +193,7 @@ dv_has_:
     pl: znak towarowy
     pnb: تجارتی مارک
     pt: marca comercial
-    pt-br: marca registrada
+    pt_br: marca registrada
     ro: marcă înregistrată
     ru: товарный знак
     rue: Торговый знак
@@ -205,8 +205,8 @@ dv_has_:
     sl: tržna znamka
     sq: marka tregtare
     sr: жиг
-    sr-ec: жиг
-    sr-el: žig
+    sr_ec: жиг
+    sr_el: žig
     sv: varumärke
     sw: alama biashara
     ta: வணிகச் சின்னம்
@@ -224,12 +224,12 @@ dv_has_:
     wuu: 商标
     yue: 嘜頭
     zh: 商标
-    zh-cn: 商标
-    zh-hans: 商标
-    zh-hant: 商標
-    zh-hk: 商標
-    zh-sg: 商标
-    zh-tw: 商標
+    zh_cn: 商标
+    zh_hans: 商标
+    zh_hant: 商標
+    zh_hk: 商標
+    zh_sg: 商标
+    zh_tw: 商標
 ---
 # [[Trademark]] 
 

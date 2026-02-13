@@ -7,7 +7,7 @@ dv_has_:
     ast: Torpedu
     az: Torpedo
     be: тарпеда
-    be-tarask: Тарпэда
+    be_tarask: Тарпэда
     bg: Торпедо
     bn: টর্পেডো
     br: torpilhenn
@@ -42,11 +42,11 @@ dv_has_:
     ja: 魚雷
     ka: ტორპედო
     kk: Торпеда
-    kk-arab: تورپەدا
+    kk_arab: تورپەدا
     kk-cn: تورپەدا
-    kk-cyrl: Торпеда
+    kk_cyrl: Торпеда
     kk-kz: Торпеда
-    kk-latn: Torpeda
+    kk_latn: Torpeda
     kk-tr: Torpeda
     km: មីសុីលក្រោមទឹក(ត័រពី)
     kn: ಟಾರ್ಪೀಡೊ
@@ -57,7 +57,7 @@ dv_has_:
     min: Torpedo
     ml: ടോർപിഡോ
     ms: torpedo
-    ms-arab: تورڤيدو
+    ms_arab: تورڤيدو
     nan: Hî-lûi
     nb: torpedo
     nl: torpedo
@@ -76,8 +76,8 @@ dv_has_:
     sl: torpedo
     sq: Siluri
     sr: торпедо
-    sr-ec: торпедо
-    sr-el: torpedo
+    sr_ec: торпедо
+    sr_el: torpedo
     sv: torped
     sw: Topido
     ta: நீர்மூழ்கிக் குண்டு
@@ -89,12 +89,12 @@ dv_has_:
     wuu: 鱼雷
     yue: 魚雷
     zh: 魚雷
-    zh-cn: 鱼雷
-    zh-hans: 鱼雷
-    zh-hant: 魚雷
-    zh-hk: 魚雷
-    zh-sg: 鱼雷
-    zh-tw: 魚雷
+    zh_cn: 鱼雷
+    zh_hans: 鱼雷
+    zh_hant: 魚雷
+    zh_hk: 魚雷
+    zh_sg: 鱼雷
+    zh_tw: 魚雷
 aliases:
 - Hî-lûi
 - Ngư lôi

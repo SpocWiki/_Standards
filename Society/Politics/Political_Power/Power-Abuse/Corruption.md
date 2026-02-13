@@ -114,7 +114,7 @@ IPTC_NewsCode: mediatopic/20000093
 dv_has_:
   name_:
     ab: акоррупциа
-    aeb-arab: فساد
+    aeb_arab: فساد
     af: korrupsie
     ar: فساد
     arz: فساد سياسى
@@ -123,7 +123,7 @@ dv_has_:
     azb: فساد
     ban: Korupsi
     be: карупцыя
-    be-tarask: карупцыя
+    be_tarask: карупцыя
     bg: корупция
     bn: দুর্নীতি
     br: goubrenerezh
@@ -138,8 +138,8 @@ dv_has_:
     dz: ངན་ལྷད།
     el: διαφθορά
     en: corruption
-    en-ca: corruption
-    en-gb: corruption
+    en_ca: corruption
+    en_gb: corruption
     eo: korupto
     es: corrupción
     et: korruptsioon
@@ -171,7 +171,7 @@ dv_has_:
     kn: ಬ್ರಷ್ಟಾಚಾರ
     ko: 정치 부패
     ku: gendelî
-    ku-latn: gendelî
+    ku_latn: gendelî
     ky: коррупция
     la: corruptio
     lb: Korruptioun
@@ -194,7 +194,7 @@ dv_has_:
     pl: korupcja
     ps: فساد
     pt: corrupção
-    pt-br: corrupção
+    pt_br: corrupção
     ro: corupție
     ru: коррупция
     sa: भ्रष्टाचारः
@@ -212,7 +212,7 @@ dv_has_:
     so: musuqmaasaq
     sq: korrupsion
     sr: корупција
-    sr-ec: корупција
+    sr_ec: корупција
     su: basilat
     sv: korruption
     sw: ufisadi
@@ -235,14 +235,14 @@ dv_has_:
     yo: ìwàìbàjẹ́
     yue: 貪污
     zh: 貪污
-    zh-cn: 腐败
-    zh-hans: 贪污
-    zh-hant: 貪污
-    zh-hk: 貪污
-    zh-mo: 貪污
+    zh_cn: 腐败
+    zh_hans: 贪污
+    zh_hant: 貪污
+    zh_hk: 貪污
+    zh_mo: 貪污
     zh-my: 贪污
-    zh-sg: 贪污
-    zh-tw: 貪污
+    zh_sg: 贪污
+    zh_tw: 貪污
 ---
 # [[Corruption]] 
 

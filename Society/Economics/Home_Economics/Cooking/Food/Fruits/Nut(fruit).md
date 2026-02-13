@@ -170,7 +170,7 @@ dv_has_:
     ba: сәтләүек
     bar: Nuss
     be: арэхі
-    be-tarask: арэхі
+    be_tarask: арэхі
     bg: орех
     bn: বাদাম
     br: kraoñ
@@ -186,13 +186,13 @@ dv_has_:
     cy: cneuen
     da: nød
     de: Nussfrucht
-    de-ch: Nussfrucht
+    de_ch: Nussfrucht
     diq: dendıkci
     dsb: wórjechowy płod
     el: κάρυο
     en: nut
-    en-ca: nut
-    en-gb: nut
+    en_ca: nut
+    en_gb: nut
     eo: nukso
     es: nuez
     et: pähkel
@@ -259,7 +259,7 @@ dv_has_:
     pl: orzech
     pnb: گری
     pt: noz
-    pt-br: noz
+    pt_br: noz
     ro: fructe cu coajă lignificată
     roa-tara: noce
     ru: орех
@@ -283,7 +283,7 @@ dv_has_:
     tl: mani
     tr: kuru yemiş
     tt: чикләвек
-    tt-cyrl: чикләвек
+    tt_cyrl: чикләвек
     udm: мульы
     uk: горіх
     ur: مغز
@@ -297,8 +297,8 @@ dv_has_:
     yue: 硬果
     zh: 坚果
     zh-cn: 坚果
-    zh-hans: 坚果
-    zh-hant: 堅果
+    zh_hans: 坚果
+    zh_hant: 堅果
 ---
 # [[Nut(fruit)]] 
 

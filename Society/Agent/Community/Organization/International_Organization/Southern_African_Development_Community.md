@@ -91,7 +91,7 @@ dv_has_:
     az: Cənubi Afrika İnkişaf Birliyi
     ba: Көньяҡ Африка үҫеше берләшмәһе
     be: Садружнасць Развіцця краін Паўднёвай Афрыкі
-    be-tarask: Супольнасьць разьвіцьця Поўдню Афрыкі
+    be_tarask: Супольнасьць разьвіцьця Поўдню Афрыкі
     bg: Общност за развитие на държавите от Южна Африка
     ca: Comunitat de Desenvolupament de l'Àfrica Meridional
     cs: Jihoafrické rozvojové společenství
@@ -142,14 +142,14 @@ dv_has_:
     vec: Comunità de Desviłupo de l'Àfrica Meridionałe
     vi: Cộng đồng Phát triển Nam Phi
     zh: 南部非洲发展共同体
-    zh-cn: 南部非洲发展共同体
-    zh-hans: 南部非洲发展共同体
-    zh-hant: 南部非洲發展共同體
-    zh-hk: 南部非洲發展共同體
-    zh-mo: 南部非洲發展共同體
+    zh_cn: 南部非洲发展共同体
+    zh_hans: 南部非洲发展共同体
+    zh_hant: 南部非洲發展共同體
+    zh_hk: 南部非洲發展共同體
+    zh_mo: 南部非洲發展共同體
     zh-my: 南部非洲发展共同体
-    zh-sg: 南部非洲发展共同体
-    zh-tw: 南部非洲發展共同體
+    zh_sg: 南部非洲发展共同体
+    zh_tw: 南部非洲發展共同體
 ---
 # [[Southern_African_Development_Community]] 
 

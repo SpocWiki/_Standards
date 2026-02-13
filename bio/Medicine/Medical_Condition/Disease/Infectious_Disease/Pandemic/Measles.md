@@ -194,8 +194,8 @@ Commons_category: Measles
 Commons_gallery: Measles
 dv_has_:
   name_:
-    aeb-arab: حصبة
-    aeb-latn: 7ecba
+    aeb_arab: حصبة
+    aeb_latn: 7ecba
     af: Masels
     an: Sarrampión
     ar: حصبة
@@ -209,7 +209,7 @@ dv_has_:
     azb: قیزیلجا
     ba: Ҡыҙылса
     be: адзёр
-    be-tarask: адзёр
+    be_tarask: адзёр
     bg: дребна шарка
     bho: खसरा रोग
     bjn: Karumut
@@ -230,7 +230,7 @@ dv_has_:
     el: ιλαρά
     eml: Fèrs
     en: measles
-    en-gb: measles
+    en_gb: measles
     eo: morbilo
     es: Sarampión
     et: leetrid
@@ -272,7 +272,7 @@ dv_has_:
     ln: Kintúntú
     lt: Tymai
     lv: Masalas
-    map-bms: Gabagen
+    map_bms: Gabagen
     mi: mītera
     mk: Мали сипаници
     ml: അഞ്ചാംപനി

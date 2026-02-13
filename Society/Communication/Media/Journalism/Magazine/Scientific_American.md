@@ -88,7 +88,7 @@ dv_has_:
     ar: مجلة العلوم الأمريكية
     ast: Scientific American
     az: Scientific American
-    be-tarask: Scientific American
+    be_tarask: Scientific American
     bg: Scientific American
     bn: সাইন্টিফিক আমেরিকান
     ca: Scientific American
@@ -141,7 +141,7 @@ dv_has_:
     wuu: 科學美國人
     yue: 科學人
     zh: 科学美国人
-    zh-cn: 科学美国人
+    zh_cn: 科学美国人
 ---
 # [[Scientific_American]] 
 

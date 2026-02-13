@@ -108,7 +108,7 @@ dv_has_:
     azb: انسلادوس
     ba: Энцелад
     be: Энцэлад, спадарожнік Сатурна
-    be-tarask: Энцэляд
+    be_tarask: Энцэляд
     bg: Енцелад
     bs: Enkelad
     ca: Encèlad
@@ -170,7 +170,7 @@ dv_has_:
     pl: Enceladus
     pnb: انسلادوس
     pt: Encélado
-    pt-br: Encélado
+    pt_br: Encélado
     ro: Enceladus
     ru: Энцелад
     scn: Encèladu
@@ -195,11 +195,11 @@ dv_has_:
     wuu: 土卫二
     yue: 土衞二
     zh: 土衛二
-    zh-cn: 土卫二
-    zh-hans: 土卫二
-    zh-hant: 土衛二
-    zh-hk: 土衛二
-    zh-tw: 土衛二
+    zh_cn: 土卫二
+    zh_hans: 土卫二
+    zh_hant: 土衛二
+    zh_hk: 土衛二
+    zh_tw: 土衛二
 ---
 # [[Enceladus(Moon)]] 
 

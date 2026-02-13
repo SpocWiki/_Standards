@@ -148,7 +148,7 @@ dv_has_:
     bar: Kuinwossastoffe
     bcl: hidrokarburo
     be: вуглевадароды
-    be-tarask: вуглевадарод
+    be_tarask: вуглевадарод
     bg: въглеводород
     bn: হাইড্রোকার্বন
     br: Hidrokarbon
@@ -213,7 +213,7 @@ dv_has_:
     pl: węglowodór
     pnb: ہائیڈروکاربن
     pt: hidrocarboneto
-    pt-br: hidrocarboneto
+    pt_br: hidrocarboneto
     ro: hidrocarbură
     ru: углеводороды
     rue: гидрокарбоны
@@ -244,14 +244,14 @@ dv_has_:
     wuu: 烃
     yue: 烴
     zh: 烴
-    zh-cn: 烃
-    zh-hans: 烃
-    zh-hant: 烴
-    zh-hk: 烴
-    zh-mo: 烴
+    zh_cn: 烃
+    zh_hans: 烃
+    zh_hant: 烴
+    zh_hk: 烴
+    zh_mo: 烴
     zh-my: 烃
-    zh-sg: 烃
-    zh-tw: 烴
+    zh_sg: 烃
+    zh_tw: 烴
 ---
 # [[Hydrocarbon]] 
 

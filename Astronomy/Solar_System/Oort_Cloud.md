@@ -134,7 +134,7 @@ dv_has_:
     az: Oort buludu
     bar: Oortsche Woikn
     be: Воблака Оарта
-    be-tarask: Воблака Аорта
+    be_tarask: Воблака Аорта
     bg: Облак на Оорт
     bn: উর্ট মেঘ
     br: Koumoulennad Oort
@@ -180,7 +180,7 @@ dv_has_:
     lmo: Nigol de Oort
     lt: Orto kometoidų debesis
     lv: Orta mākonis
-    map-bms: Awan Oort
+    map_bms: Awan Oort
     mk: Ортов Облак
     ml: ഒർട്ട് മേഘം
     mr: ऊर्टचा मेघ
@@ -223,9 +223,9 @@ dv_has_:
     xmf: ოორტაშ მუნაფა
     yue: 歐特星雲
     zh: 奥尔特云
-    zh-cn: 奥尔特云
-    zh-hans: 奥尔特云
-    zh-hant: 奧爾特雲
+    zh_cn: 奥尔特云
+    zh_hans: 奥尔特云
+    zh_hant: 奧爾特雲
 ---
 # [[Oort_Cloud]] 
 

@@ -139,14 +139,14 @@ dv_has_:
     bar: Peter O'Toole
     bcl: Peter O'Toole
     be: Пітэр О’Тул
-    be-tarask: Пітэр О’Тул
+    be_tarask: Пітэр О’Тул
     bg: Питър О'Тул
     bm: Peter O'Toole
     bn: পিটার ওটুল
     br: Peter O'Toole
     bs: Peter O'Toole
     ca: Peter O'Toole
-    cbk-zam: Peter O'Toole
+    cbk_zam: Peter O'Toole
     co: Peter O'Toole
     cs: Peter O'Toole
     cy: Peter O'Toole
@@ -154,13 +154,13 @@ dv_has_:
     dag: Peter O'Toole
     de: Peter O’Toole
     de-at: Peter O'Toole
-    de-ch: Peter O’Toole
+    de_ch: Peter O’Toole
     dsb: Peter O'Toole
     ee: Peter O'Toole
     el: Πίτερ Ο' Τουλ
     en: Peter O'Toole
-    en-ca: Peter O'Toole
-    en-gb: Peter O'Toole
+    en_ca: Peter O'Toole
+    en_gb: Peter O'Toole
     eo: Peter O’Toole
     es: Peter O'Toole
     et: Peter O'Toole
@@ -217,7 +217,7 @@ dv_has_:
     nap: Peter O'Toole
     nb: Peter O'Toole
     nds: Peter O’Toole
-    nds-nl: Peter O'Toole
+    nds_nl: Peter O'Toole
     nl: Peter O'Toole
     nn: Peter O'Toole
     nov: Peter O'Toole
@@ -233,7 +233,7 @@ dv_has_:
     pnb: پیٹر اوٹول
     prg: Peter O'Toole
     pt: Peter O'Toole
-    pt-br: Peter O'Toole
+    pt_br: Peter O'Toole
     qu: Peter O'Toole
     rgn: Peter O'Toole
     rm: Peter O'Toole
@@ -247,7 +247,7 @@ dv_has_:
     sl: Peter O'Toole
     sq: Peter O'Toole
     sr: Питер О'Тул
-    sr-el: Peter O'Toole
+    sr_el: Peter O'Toole
     su: Peter O'Toole
     sv: Peter O'Toole
     sw: Peter O'Toole
@@ -271,8 +271,8 @@ dv_has_:
     yo: Peter O'Toole
     yue: 彼得奧圖
     zh: 彼得·奧圖
-    zh-hant: 彼得·奧圖
-    zh-sg: 彼得·奥图
+    zh_hant: 彼得·奧圖
+    zh_sg: 彼得·奥图
     zu: Peter O'Toole
 ---
 # [[O'Toole,Peter]] 

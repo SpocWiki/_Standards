@@ -68,7 +68,7 @@ dv_has_:
     ar: غرفة سحابية
     ast: cámara de borrina
     be: Камера Вільсана
-    be-tarask: камэра Ўілсана
+    be_tarask: камэра Ўілсана
     bg: Камера на Уилсън
     ca: cambra de boira
     cs: Wilsonova mlžná komora
@@ -76,8 +76,8 @@ dv_has_:
     de: Nebelkammer
     el: θάλαμος νέφωσης
     en: cloud chamber
-    en-ca: Cloud chamber
-    en-gb: Cloud chamber
+    en_ca: Cloud chamber
+    en_gb: Cloud chamber
     eo: nebulkamero
     es: cámara de Wilson
     et: Wilsoni kamber
@@ -106,7 +106,7 @@ dv_has_:
     nl: nevelvat
     pl: komora Wilsona
     pt: câmara de wilson
-    pt-br: Câmara de Wilson
+    pt_br: Câmara de Wilson
     ro: Cameră cu ceață
     ru: камера Вильсона
     sh: Maglena komora
@@ -120,12 +120,12 @@ dv_has_:
     uz: Vilson kamerasi
     yue: 雲室
     zh: 云室
-    zh-cn: 云室
-    zh-hans: 云室
-    zh-hant: 雲室
-    zh-hk: 雲室
-    zh-sg: 云室
-    zh-tw: 雲室
+    zh_cn: 云室
+    zh_hans: 云室
+    zh_hant: 雲室
+    zh_hk: 雲室
+    zh_sg: 云室
+    zh_tw: 雲室
 ---
 # [[Cloud_Chamber]] 
 

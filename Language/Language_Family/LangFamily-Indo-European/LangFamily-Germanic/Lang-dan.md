@@ -283,7 +283,7 @@ dv_has_:
   name_:
     ab: Адат бызшәа
     ace: Bahsa Dènmark
-    aeb-arab: الدنماركي
+    aeb_arab: الدنماركي
     af: Deens
     am: ዳንኛ
     an: Idioma danés
@@ -299,7 +299,7 @@ dv_has_:
     ba: Дат теле
     ban: Basa Dénmark
     be: дацкая мова
-    be-tarask: дацкая мова
+    be_tarask: дацкая мова
     bg: датски език
     bn: ডেনীয় ভাষা
     br: daneg
@@ -311,21 +311,21 @@ dv_has_:
     ckb: زمانی دانمارکی
     co: danese
     crh: Dan tili
-    crh-latn: Dan tili
+    crh_latn: Dan tili
     cs: dánština
     cv: Дан чĕлхи
     cy: Daneg
     da: dansk
     de: Dänisch
     de-at: Dänisch
-    de-ch: Dänisch
+    de_ch: Dänisch
     diq: Danki
     dsb: Dańšćina
     el: Δανικά
     eml: Danéś
     en: Danish
-    en-ca: Danish
-    en-gb: Danish
+    en_ca: Danish
+    en_gb: Danish
     eo: dana lingvo
     es: danés
     et: taani keel
@@ -378,7 +378,7 @@ dv_has_:
     krc: Дат тил
     ks: ڈینِش زَبان
     ku: danîmarkî
-    ku-latn: danîmarkî
+    ku_latn: danîmarkî
     kv: Данск кыв
     kw: Danek
     ky: Дания тили
@@ -410,7 +410,7 @@ dv_has_:
     nan: Tan-be̍h-gí
     nb: dansk
     nds: Däänsch
-    nds-nl: Däänsk
+    nds_nl: Däänsk
     nl: Deens
     nn: dansk
     nov: danum
@@ -427,7 +427,7 @@ dv_has_:
     pnb: ڈینش
     ps: ډېنمارکي ژبه
     pt: dinamarquês
-    pt-br: dinamarquês
+    pt_br: dinamarquês
     qu: Dan simi
     ro: limba daneză
     ru: датский язык
@@ -452,7 +452,7 @@ dv_has_:
     sms: danskk-ǩiõll
     sq: danisht
     sr: дански
-    sr-ec: дански
+    sr_ec: дански
     stq: Deensk
     sv: danska
     sw: Kidenmark
@@ -465,7 +465,7 @@ dv_has_:
     tpi: Tok Denmak
     tr: Danca
     tt: дания теле
-    tt-cyrl: дания теле
+    tt_cyrl: дания теле
     udm: Дани кыл
     ug: دانىش تىلى
     uk: данська мова
@@ -485,14 +485,14 @@ dv_has_:
     yue: 丹麥文
     zea: Deêns
     zh: 丹麦语
-    zh-cn: 丹麦语
-    zh-hans: 丹麦语
-    zh-hant: 丹麥語
-    zh-hk: 丹麥語
-    zh-mo: 丹麥語
+    zh_cn: 丹麦语
+    zh_hans: 丹麦语
+    zh_hant: 丹麥語
+    zh_hk: 丹麥語
+    zh_mo: 丹麥語
     zh-my: 丹麦语
-    zh-sg: 丹麦语
-    zh-tw: 丹麥語
+    zh_sg: 丹麦语
+    zh_tw: 丹麥語
     zu: isi-Danish
 ---
 # [[Lang-dan]] 

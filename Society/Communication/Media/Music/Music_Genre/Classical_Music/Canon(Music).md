@@ -45,18 +45,18 @@ Krugosvet_article: kultura_i_obrazovanie/muzyka/KANON.html
 dv_has_:
   name_:
     ar: كانن
-    be-tarask: канон
+    be_tarask: канон
     bg: канон
     ca: cànon
     cs: kánon
     cy: canon
     da: kanon
     de: Kanon
-    de-ch: Kanon
+    de_ch: Kanon
     el: κανόνας
     en: canon
-    en-ca: canon
-    en-gb: canon
+    en_ca: canon
+    en_gb: canon
     eo: kanono
     es: canon
     et: kaanon
@@ -84,7 +84,7 @@ dv_has_:
     nn: kanon i musikk
     pl: kanon
     pt: cânone
-    pt-br: cânone
+    pt_br: cânone
     ro: canon
     ru: канон
     sk: kánon

@@ -164,7 +164,7 @@ dv_has_:
     az: Bukminster Fuller
     azb: باکمینستر فولر
     be: Рычард Бакмінстэр Фулер
-    be-tarask: Рычард Бакмінстэр Фулер
+    be_tarask: Рычард Бакмінстэр Фулер
     bg: Бъкминстър Фулър
     bn: বাকমিন্স্টার ফুলার
     bs: Buckminster Fuller
@@ -218,7 +218,7 @@ dv_has_:
     pl: Buckminster Fuller
     ps: باکمېنسټر فولر
     pt: Buckminster Fuller
-    pt-br: Buckminster Fuller
+    pt_br: Buckminster Fuller
     ro: Buckminster Fuller
     ru: Ричард Бакминстер Фуллер
     sa: बकमिन्स्टर फुलर
@@ -228,8 +228,8 @@ dv_has_:
     sl: Buckminster Fuller
     sq: Buckminister Fuller
     sr: Бакминстер Фулер
-    sr-ec: Бакминстер Фулер
-    sr-el: Bakminster Fuler
+    sr_ec: Бакминстер Фулер
+    sr_el: Bakminster Fuler
     sv: Buckminster Fuller
     ta: பக்மினிசிட்டர் ஃபுல்லர்
     th: บักมินสเตอร์ ฟุลเลอร์
@@ -242,12 +242,12 @@ dv_has_:
     wuu: 巴克敏斯特·福乐
     yue: 畢緬士打·富拿
     zh: 巴克敏斯特·富勒
-    zh-cn: 巴克敏斯特·福乐
-    zh-hans: 巴克敏斯特·福乐
-    zh-hant: 巴克敏斯特·富勒
-    zh-hk: 畢敏斯特·富拿
-    zh-sg: 巴克敏斯特·福乐
-    zh-tw: 巴克敏斯特·富勒
+    zh_cn: 巴克敏斯特·福乐
+    zh_hans: 巴克敏斯特·福乐
+    zh_hant: 巴克敏斯特·富勒
+    zh_hk: 畢敏斯特·富拿
+    zh_sg: 巴克敏斯特·福乐
+    zh_tw: 巴克敏斯特·富勒
 ---
 # [[Fuller,Buckminster]] 
 

@@ -161,7 +161,7 @@ dv_has_:
     azb: ارینتی
     bar: Legierung
     be: сплаў
-    be-tarask: стопак
+    be_tarask: стопак
     bg: Сплав
     bn: সংকর ধাতু
     bo: བསྲེས་ལྕགས།
@@ -174,11 +174,11 @@ dv_has_:
     cy: aloi
     da: legering
     de: Legierung
-    de-ch: Legierung
+    de_ch: Legierung
     el: κράμα
     en: alloy
-    en-ca: alloy
-    en-gb: alloy
+    en_ca: alloy
+    en_gb: alloy
     en-us: alloy
     eo: alojo
     es: aleación
@@ -248,7 +248,7 @@ dv_has_:
     pnb: بھرت
     ps: الياژ
     pt: liga metálica
-    pt-br: liga metálica
+    pt_br: liga metálica
     ro: aliaj
     ru: сплав
     rup: Pacfoni
@@ -262,8 +262,8 @@ dv_has_:
     so: Jaandi
     sq: Legurat
     sr: легура
-    sr-ec: легура
-    sr-el: legura
+    sr_ec: легура
+    sr_el: legura
     sv: legering
     sw: Aloi
     ta: கலப்புலோகம்
@@ -273,7 +273,7 @@ dv_has_:
     tl: Balahak
     tr: Alaşım
     tt: эретмә
-    tt-cyrl: эретмә
+    tt_cyrl: эретмә
     udm: ӵыжтос
     uk: сплави
     ur: بھرت
@@ -287,14 +287,14 @@ dv_has_:
     yi: געשמעלץ
     yue: 合金
     zh: 合金
-    zh-cn: 合金
-    zh-hans: 合金
-    zh-hant: 合金
-    zh-hk: 合金
-    zh-mo: 合金
+    zh_cn: 合金
+    zh_hans: 合金
+    zh_hant: 合金
+    zh_hk: 合金
+    zh_mo: 合金
     zh-my: 合金
-    zh-sg: 合金
-    zh-tw: 合金
+    zh_sg: 合金
+    zh_tw: 合金
     zu: isiqungo
 ---
 # [[Alloy]] 

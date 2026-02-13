@@ -86,7 +86,7 @@ dv_has_:
     ast: Petrobras
     az: Petrobras
     azb: پتروبراس
-    be-tarask: Пэтрабраз
+    be_tarask: Пэтрабраз
     bg: Петробрас
     ca: Petrobras
     cs: Petrobras
@@ -117,7 +117,7 @@ dv_has_:
     nn: Petrobras
     pl: Petrobras
     pt: Petrobras
-    pt-br: Petrobras
+    pt_br: Petrobras
     ro: Petrobras
     ru: Petrobras
     sk: Petrobras
@@ -134,12 +134,12 @@ dv_has_:
     wuu: 巴西石油
     yue: 巴西石油
     zh: 巴西石油
-    zh-cn: 巴西石油
-    zh-hans: 巴西石油
-    zh-hant: 巴西石油
-    zh-hk: 巴西石油
-    zh-sg: 巴西石油
-    zh-tw: 巴西石油
+    zh_cn: 巴西石油
+    zh_hans: 巴西石油
+    zh_hant: 巴西石油
+    zh_hk: 巴西石油
+    zh_sg: 巴西石油
+    zh_tw: 巴西石油
 ---
 # [[Petrobras]] 
 

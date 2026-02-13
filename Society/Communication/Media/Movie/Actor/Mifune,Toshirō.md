@@ -134,7 +134,7 @@ dv_has_:
     az: Tosiro Mifune
     ba: Тосиро Мифунэ
     be: Тасіра Міфунэ
-    be-tarask: Тасіра Міфунэ
+    be_tarask: Тасіра Міфунэ
     bg: Тоширо Мифуне
     bi: Toshirō Mifune
     bjn: Toshirō Mifune
@@ -153,8 +153,8 @@ dv_has_:
     dsb: Toshiro Mifune
     el: Τοσίρο Μιφούνε
     en: Toshirō Mifune
-    en-ca: Toshirō Mifune
-    en-gb: Toshirō Mifune
+    en_ca: Toshirō Mifune
+    en_gb: Toshirō Mifune
     eo: Mifune Toshiro
     es: Toshirō Mifune
     et: Toshirō Mifune
@@ -197,7 +197,7 @@ dv_has_:
     lt: Toširas Mifunė
     lv: Toširo Mifune
     lzh: 三船敏郎
-    map-bms: Toshirō Mifune
+    map_bms: Toshirō Mifune
     mg: Toshiro Mifune
     min: Toshirō Mifune
     mk: Тоширо Мифуне
@@ -209,7 +209,7 @@ dv_has_:
     nan: Mifune Toshirô
     nb: Toshiro Mifune
     nds: Toshirō Mifune
-    nds-nl: Toshiro Mifune
+    nds_nl: Toshiro Mifune
     new: तोशिरो मिफुने
     nl: Toshiro Mifune
     nn: Toshiro Mifune
@@ -219,7 +219,7 @@ dv_has_:
     pl: Toshirō Mifune
     pnb: توشيرو ميفوني
     pt: Toshiro Mifune
-    pt-br: Toshiro Mifune
+    pt_br: Toshiro Mifune
     qu: Toshiro Mifune
     ro: Toshirō Mifune
     ru: Тосиро Мифунэ
@@ -256,7 +256,7 @@ dv_has_:
     yo: Toshiro Mifune
     yue: 三船敏郎
     zh: 三船敏郎
-    zh-hant: 三船敏郎
+    zh_hant: 三船敏郎
     zu: Toshirō Mifune
 ---
 # [[Mifune,Toshirō]] 

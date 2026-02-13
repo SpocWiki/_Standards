@@ -79,7 +79,7 @@ dv_has_:
     azb: بومئرانق
     ba: Бумеранг
     be: Бумеранг
-    be-tarask: бумэранг
+    be_tarask: бумэранг
     bg: Бумеранг
     bn: বুমেরাং
     bs: Bumerang
@@ -139,8 +139,8 @@ dv_has_:
     sms: bumeraŋŋ
     so: Dabjin
     sr: бумеранг
-    sr-ec: бумеранг
-    sr-el: bumerang
+    sr_ec: бумеранг
+    sr_el: bumerang
     sv: Bumerang
     te: బూమరాంగ్
     tg: Бумеранг
@@ -155,12 +155,12 @@ dv_has_:
     wuu: 葡蛮郎
     yue: 回力標
     zh: 回力镖
-    zh-cn: 飞去来器
-    zh-hans: 飞去来器
-    zh-hant: 回力棒
-    zh-hk: 回力棒
-    zh-sg: 回力棒
-    zh-tw: 回力棒
+    zh_cn: 飞去来器
+    zh_hans: 飞去来器
+    zh_hant: 回力棒
+    zh_hk: 回力棒
+    zh_sg: 回力棒
+    zh_tw: 回力棒
 ---
 # [[Boomerang]] 
 

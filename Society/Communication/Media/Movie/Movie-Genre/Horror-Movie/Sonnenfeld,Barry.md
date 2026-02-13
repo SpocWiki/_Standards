@@ -31,7 +31,7 @@ dv_has_:
     ast: Barry Sonnenfeld
     az: Barri Zonnenfeld
     be: Бары Зоненфельд
-    be-tarask: Бары Сонэнфэлд
+    be_tarask: Бары Сонэнфэлд
     bg: Бари Зоненфелд
     bs: Barry Sonnenfeld
     ca: Barry Sonnenfeld
@@ -67,7 +67,7 @@ dv_has_:
     pap: Barry Sonnenfeld
     pl: Barry Sonnenfeld
     pt: Barry Sonnenfeld
-    pt-br: Barry Sonnenfeld
+    pt_br: Barry Sonnenfeld
     ro: Barry Sonnenfeld
     ru: Барри Зонненфельд
     sco: Barry Sonnenfeld
@@ -79,12 +79,12 @@ dv_has_:
     uk: Баррі Зонненфельд
     yo: Barry Sonnenfeld
     zh: 巴里·索南菲尔德
-    zh-cn: 巴里·索南菲尔德
-    zh-hans: 巴里·索南菲尔德
-    zh-hant: 巴里·索南菲爾德
-    zh-hk: 巴利·辛連菲
-    zh-sg: 巴里·索南菲尔德
-    zh-tw: 巴里·索南菲爾德
+    zh_cn: 巴里·索南菲尔德
+    zh_hans: 巴里·索南菲尔德
+    zh_hant: 巴里·索南菲爾德
+    zh_hk: 巴利·辛連菲
+    zh_sg: 巴里·索南菲尔德
+    zh_tw: 巴里·索南菲爾德
 ---
 #has_/time_/started :: 1953-04-01 
 Age: `$=Math.round((new Date() - dv.current().has_time_started)/365.2425/24/60/60/1000)`

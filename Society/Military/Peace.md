@@ -195,7 +195,7 @@ dv_has_:
     ba: Тыныслыҡ
     bcl: Katoninongan
     be: мір
-    be-tarask: мір
+    be_tarask: мір
     bg: Мир
     bn: শান্তি
     bo: ཞི་བདེ།
@@ -223,8 +223,8 @@ dv_has_:
     dsb: měr
     el: ειρήνη
     en: peace
-    en-ca: Peace
-    en-gb: peace
+    en_ca: Peace
+    en_gb: peace
     eo: paco
     es: paz
     et: rahu
@@ -340,8 +340,8 @@ dv_has_:
     so: Nabad
     sq: Paqja
     sr: мир
-    sr-ec: мир
-    sr-el: mir
+    sr_ec: мир
+    sr_el: mir
     sv: fred
     sw: amani
     ta: அமைதி
@@ -352,7 +352,7 @@ dv_has_:
     tok: utala ala
     tr: barış
     tt: тынычлык
-    tt-cyrl: тынычлык
+    tt_cyrl: тынычлык
     ty: Pau
     udm: тупаса улон
     uk: мир
@@ -371,14 +371,14 @@ dv_has_:
     yue: 和平 (關係)
     za: hozbingz
     zh: 和平
-    zh-cn: 和平
-    zh-hans: 和平
-    zh-hant: 和平
-    zh-hk: 和平
-    zh-mo: 和平
+    zh_cn: 和平
+    zh_hans: 和平
+    zh_hant: 和平
+    zh_hk: 和平
+    zh_mo: 和平
     zh-my: 和平
-    zh-sg: 和平
-    zh-tw: 和平
+    zh_sg: 和平
+    zh_tw: 和平
 ---
 # [[Peace]] 
 

@@ -96,7 +96,7 @@ dv_has_:
     az: Şirniyyat
     ba: ҡамыр аштары
     be: выпечка
-    be-tarask: выпечка
+    be_tarask: выпечка
     bg: тестено изделие
     bn: সেঁকা ময়দার সুখাদ্য
     br: gwastell
@@ -107,11 +107,11 @@ dv_has_:
     cy: crwst
     da: bagværk
     de: Gebäck
-    de-ch: Gebäck
+    de_ch: Gebäck
     el: αρτοσκεύασμα
     en: pastry
-    en-ca: Pastry
-    en-gb: pastry
+    en_ca: Pastry
+    en_gb: pastry
     eo: bakaĵo
     es: repostería
     et: Küpsetis
@@ -146,7 +146,7 @@ dv_has_:
     ml: പേസ്ട്രി
     mr: पेस्ट्री
     ms: pastri
-    ms-arab: ڤستري
+    ms_arab: ڤستري
     mzn: شرنی
     nb: bakverk
     nl: gebak
@@ -162,8 +162,8 @@ dv_has_:
     sk: pečivo
     sl: pecivo
     sr: пециво
-    sr-ec: пециво
-    sr-el: pecivo
+    sr_ec: пециво
+    sr_el: pecivo
     sv: bakverk
     th: แป้งพาย
     tl: Pastelerya
@@ -177,11 +177,11 @@ dv_has_:
     yue: 西餅
     zh: 糕点
     zh-cn: 糕点
-    zh-hans: 糕点
-    zh-hant: 糕點
-    zh-hk: 糕點
-    zh-sg: 糕点
-    zh-tw: 糕點
+    zh_hans: 糕点
+    zh_hant: 糕點
+    zh_hk: 糕點
+    zh_sg: 糕点
+    zh_tw: 糕點
 ---
 # [[Pastry]] 
 

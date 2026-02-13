@@ -118,7 +118,7 @@ dv_has_:
     ar: طريق شنت ياقب
     ast: El Camín de Santiago
     be: Шлях Святога Якава
-    be-tarask: Шлях Сьвятога Якуба
+    be_tarask: Шлях Сьвятога Якуба
     bg: Път към Сантяго
     br: Hent Sant Jakez
     ca: Camí de Sant Jaume
@@ -129,7 +129,7 @@ dv_has_:
     de: Jakobsweg
     el: Διαδρομή Αγίου Ιακώβου της Κομποστέλα
     en: Way of Saint James
-    en-gb: Way of Saint James
+    en_gb: Way of Saint James
     eo: Jakoba Vojo
     es: Camino de Santiago
     eu: Donejakue bidea
@@ -168,7 +168,7 @@ dv_has_:
     pl: Droga św. Jakuba
     pnb: سینٹ جیمس دا رستہ
     pt: Caminhos de Santiago
-    pt-br: Caminhos de Santiago
+    pt_br: Caminhos de Santiago
     ro: Drumul Sfântului Iacob
     ru: Путь Святого Иакова
     sh: Put Svetog Jakova
@@ -186,7 +186,7 @@ dv_has_:
     wuu: 圣雅各之路
     yue: 聖地亞哥朝聖之路
     zh: 聖雅各之路
-    zh-hant: 聖雅各之路
+    zh_hant: 聖雅各之路
 ---
 # [[Way_of_Saint_James]] 
 

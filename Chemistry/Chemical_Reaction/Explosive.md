@@ -167,7 +167,7 @@ dv_has_:
     azb: پارتلاییجی مادهلر
     ba: Шартлаусы матдәләр
     be: выбуховае рэчыва
-    be-tarask: выбуховае рэчыва
+    be_tarask: выбуховае рэчыва
     bg: Взривно вещество
     bn: বিস্ফোরক
     br: Danvez-tarzh
@@ -209,7 +209,7 @@ dv_has_:
     jam: Expluosiv matiirial
     ka: ფეთქებადი ნივთიერება
     kk: жарылғыш заттар
-    kk-latn: jarılğış zattar
+    kk_latn: jarılğış zattar
     ko: 폭발물
     kw: devnydh tardhans
     ky: жарылуучу зат
@@ -245,8 +245,8 @@ dv_has_:
     sl: razstrelivo
     sq: Eksplozivi
     sr: експлозив
-    sr-ec: експлозив
-    sr-el: eksploziv
+    sr_ec: експлозив
+    sr_el: eksploziv
     sv: sprängämne
     sw: Kilipukaji
     ta: வெடிபொருள்
@@ -254,7 +254,7 @@ dv_has_:
     tl: Pampasabog
     tr: patlayıcı madde
     tt: шартлаучан матдә
-    tt-cyrl: шартлаучан матдә
+    tt_cyrl: шартлаучан матдә
     udm: пуштӥсь тырметъёс
     uk: вибухова речовина
     ur: دھماکا خیز مواد

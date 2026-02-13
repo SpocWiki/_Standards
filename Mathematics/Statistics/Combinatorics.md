@@ -83,7 +83,7 @@ dv_has_:
     ast: Combinatoria
     az: kombinatorika
     be: камбінаторыка
-    be-tarask: камбінаторыка
+    be_tarask: камбінаторыка
     bg: Комбинаторика
     bn: গুচ্ছ-বিন্যাসতত্ত্ব
     bs: Kombinatorika
@@ -136,7 +136,7 @@ dv_has_:
     nn: kombinatorikk
     pl: kombinatoryka
     pt: combinatória
-    pt-br: combinatória
+    pt_br: combinatória
     ro: combinatorică
     ru: комбинаторика
     sah: Комбинаторика

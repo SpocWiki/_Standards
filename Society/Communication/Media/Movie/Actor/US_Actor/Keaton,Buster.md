@@ -145,7 +145,7 @@ dv_has_:
     azb: باستر کیتون
     ba: Бастер Китон
     be: Бастэр Кітан
-    be-tarask: Бастэр Кітан
+    be_tarask: Бастэр Кітан
     bg: Бъстър Кийтън
     bi: Buster Keaton
     bn: বাস্টার কিটন
@@ -205,7 +205,7 @@ dv_has_:
     pl: Buster Keaton
     pms: Buster Keaton
     pt: Buster Keaton
-    pt-br: Buster Keaton
+    pt_br: Buster Keaton
     ro: Buster Keaton
     ru: Бастер Китон
     scn: Buster Keaton
@@ -229,8 +229,8 @@ dv_has_:
     yo: Buster Keaton
     yue: 巴士達基頓
     zh: 巴斯特·基頓
-    zh-hant: 巴斯特·基頓
-    zh-hk: 伯士達傑頓
+    zh_hant: 巴斯特·基頓
+    zh_hk: 伯士達傑頓
 ---
 # [[Keaton,Buster]] 
 

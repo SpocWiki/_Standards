@@ -90,7 +90,7 @@ dv_has_:
     avk: Vorbumol
     az: kələz
     be: пангаліны
-    be-tarask: лускавец
+    be_tarask: лускавец
     bg: азиатски панголини
     bo: ན་གི།
     br: pangolin
@@ -151,7 +151,7 @@ dv_has_:
     oc: Pangolin
     pl: łuskowiec
     pt: Manis
-    pt-br: Manis
+    pt_br: Manis
     ro: Manis
     ru: ящеры
     sco: Manis
@@ -176,8 +176,8 @@ dv_has_:
     yue: 鱗甲目
     za: linh
     zh: 穿山甲属
-    zh-cn: 穿山甲属
-    zh-tw: 穿山甲屬
+    zh_cn: 穿山甲属
+    zh_tw: 穿山甲屬
 ---
 # [[Manis]] 
 

@@ -142,7 +142,7 @@ dv_has_:
     ba: Лантаноидтар
     ban: Lanthanida
     be: Лантаноіды
-    be-tarask: лянтаніды
+    be_tarask: лянтаніды
     bg: лантаноид
     bho: लैंथेनाइड
     bn: ল্যান্থানাইড
@@ -159,8 +159,8 @@ dv_has_:
     de: Lanthanoide
     el: λανθανίδες
     en: lanthanide
-    en-ca: Lanthanide
-    en-gb: lanthanide
+    en_ca: Lanthanide
+    en_gb: lanthanide
     eo: lantanido
     es: lantánido
     et: Lantanoidid
@@ -243,9 +243,9 @@ dv_has_:
     wuu: 镧系元素
     yue: 鑭系元素
     zh: 镧系元素
-    zh-cn: 镧系元素
-    zh-hans: 镧系元素
-    zh-hant: 镧系元素
+    zh_cn: 镧系元素
+    zh_hans: 镧系元素
+    zh_hant: 镧系元素
 ---
 # [[Lanthanide]] 
 

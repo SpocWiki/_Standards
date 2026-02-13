@@ -145,7 +145,7 @@ dv_has_:
     az: çoxluq
     ba: күмәклек
     be: мноства
-    be-tarask: мноства
+    be_tarask: мноства
     bg: множество
     bn: সেট
     br: hollad
@@ -159,8 +159,8 @@ dv_has_:
     de: Menge
     el: σύνολο
     en: set
-    en-ca: set
-    en-gb: set
+    en_ca: set
+    en_gb: set
     en-us: set
     eo: aro
     es: conjunto
@@ -197,7 +197,7 @@ dv_has_:
     kn: ಗಣ
     ko: 집합
     ku: kom
-    ku-latn: kom
+    ku_latn: kom
     la: copia
     lmo: cungjuunt
     ln: elɔngɔ́tɛ̂ lisangá
@@ -209,7 +209,7 @@ dv_has_:
     ml: ഗണം
     mn: олонлог
     ms: set
-    ms-arab: سيت
+    ms_arab: سيت
     my: အစု
     myv: вейссаевкс
     nan: chi̍p-ha̍p
@@ -223,7 +223,7 @@ dv_has_:
     pl: zbiór
     pms: ansem
     pt: conjunto
-    pt-br: conjunto
+    pt_br: conjunto
     qu: tantachisqa
     ro: mulțime
     ru: множество
@@ -238,20 +238,20 @@ dv_has_:
     so: urur
     sq: bashkësi
     sr: скуп
-    sr-ec: скуп
-    sr-el: skup
+    sr_ec: скуп
+    sr_el: skup
     sv: mängd
     szl: mynga
     ta: கணம்
     te: సమితులు
     tg: бисёрӣ
-    tg-cyrl: маҷмуа
+    tg_cyrl: маҷмуа
     th: เซต
     tl: hanay
     tok: kulupu (sona nanpa)
     tr: küme
     tt: күплек
-    tt-cyrl: күплек
+    tt_cyrl: күплек
     uk: множина
     ur: طاقم
     uz: toʻplam
@@ -265,10 +265,10 @@ dv_has_:
     yi: סכום
     yue: 集合
     zh: 集合
-    zh-hans: 集合
-    zh-hant: 集合
-    zh-hk: 集合
-    zh-tw: 集合
+    zh_hans: 集合
+    zh_hant: 集合
+    zh_hk: 集合
+    zh_tw: 集合
 ---
 # [[Set(Math)]] 
 

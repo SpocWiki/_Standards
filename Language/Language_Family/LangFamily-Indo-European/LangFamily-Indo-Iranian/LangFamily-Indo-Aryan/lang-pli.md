@@ -135,7 +135,7 @@ dv_has_:
     ba: Пали теле
     ban: Basa Pali
     be: Палі
-    be-tarask: палі
+    be_tarask: палі
     bg: Пали
     bho: पालि भासा
     bn: পালি ভাষা
@@ -151,8 +151,8 @@ dv_has_:
     de: Pali
     el: Πάλι
     en: Pali
-    en-ca: Pali
-    en-gb: Pali
+    en_ca: Pali
+    en_gb: Pali
     eo: palia lingvo
     es: pali
     et: paali keel
@@ -209,7 +209,7 @@ dv_has_:
     pnb: پالی
     ps: پالي ژبه
     pt: páli
-    pt-br: pálico
+    pt_br: pálico
     ro: Limba pali
     ru: пали
     sa: पालिभाषा
@@ -222,8 +222,8 @@ dv_has_:
     sl: pali
     so: Pali
     sr: пали
-    sr-ec: пали
-    sr-el: pali
+    sr_ec: пали
+    sr_el: pali
     sv: pali
     sw: Kipali
     syl: ꠙꠟꠤ
@@ -235,7 +235,7 @@ dv_has_:
     tok: toki Pali
     tr: Pali
     tt: пали теле
-    tt-cyrl: пали теле
+    tt_cyrl: пали теле
     uk: Палі
     ur: پالی
     uz: Pali

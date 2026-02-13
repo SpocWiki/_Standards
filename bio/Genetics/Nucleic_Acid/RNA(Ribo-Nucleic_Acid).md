@@ -138,7 +138,7 @@ dv_has_:
     ba: Рибонуклеин кислотаһы
     ban: Asam ribonukleat
     be: Рыбануклеінавыя кіслоты
-    be-tarask: рыбануклійная кісьля
+    be_tarask: рыбануклійная кісьля
     bg: РНК
     bn: আরএনএ
     br: Trenkenn ribonukleek
@@ -208,8 +208,8 @@ dv_has_:
     sl: ribonukleinska kislina
     sq: acid ribonukleik
     sr: рибонуклеинска киселина
-    sr-ec: рибонуклеинска киселина
-    sr-el: ribonukleinska kiselina
+    sr_ec: рибонуклеинска киселина
+    sr_el: ribonukleinska kiselina
     sv: ribonukleinsyra
     ta: ரைபோ கருவமிலம்
     te: రైబో కేంద్రక ఆమ్లం

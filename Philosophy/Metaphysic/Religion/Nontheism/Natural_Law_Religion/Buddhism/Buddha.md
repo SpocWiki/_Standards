@@ -244,7 +244,7 @@ dv_has_:
     ban: Siddhartha Gautama
     bcl: Siddhartha Gautama
     be: Гаўтама Буда
-    be-tarask: Гаўтама Буда
+    be_tarask: Гаўтама Буда
     bew: Pangèran Sidarta Gotama
     bg: Сидхарта Гаутама Буда
     bho: गौतम बुद्ध
@@ -258,7 +258,7 @@ dv_has_:
     btm: Siddharta Gautama
     bxr: Будда Шакьямуни
     ca: Siddharta Gautama
-    cbk-zam: Gautama Buda
+    cbk_zam: Gautama Buda
     cdo: Sék-gă-mò-nà̤
     ce: Будда Шакьямуни
     ceb: Siddhattha Gotama
@@ -270,14 +270,14 @@ dv_has_:
     cy: Siddhartha Gautama
     da: Siddharta Gautama
     de: Siddhartha Gautama
-    de-ch: Siddhartha Gautama
+    de_ch: Siddhartha Gautama
     dsb: Siddhartha Gautama
     dty: गौतम बुद्ध
     dz: ཤཱ་ཀྱ་ཐུབ་པ
     el: Σιντάρτα Γκαουτάμα
     en: The Buddha
-    en-ca: Gautama Buddha
-    en-gb: Gautama Buddha
+    en_ca: Gautama Buddha
+    en_gb: Gautama Buddha
     en-us: The Buddha
     eo: Budho Gotamo
     es: Buda Gautama
@@ -352,7 +352,7 @@ dv_has_:
     lv: Sidhārta Gautama
     lzh: 釋迦牟尼
     mai: गौतम बुद्ध
-    map-bms: Siddhartha Gautama
+    map_bms: Siddhartha Gautama
     mg: Siddhartha Gautama
     min: Siddhartha Gautama
     mk: Гаутама Буда
@@ -385,7 +385,7 @@ dv_has_:
     pnb: مہاتما بدھ
     ps: گوتاما بودا
     pt: Siddhartha Gautama
-    pt-br: Siddhartha Gautama
+    pt_br: Siddhartha Gautama
     qu: Siddhārtha Gautama
     ro: Gautama Siddhartha
     ru: Будда Шакьямуни
@@ -449,14 +449,14 @@ dv_has_:
     za: Swzgyahmouzniz
     zea: Gautama Boeddha
     zh: 释迦牟尼佛
-    zh-cn: 释迦牟尼
-    zh-hans: 释迦牟尼
-    zh-hant: 释迦牟尼
-    zh-hk: 释迦牟尼
-    zh-mo: 释迦牟尼
+    zh_cn: 释迦牟尼
+    zh_hans: 释迦牟尼
+    zh_hant: 释迦牟尼
+    zh_hk: 释迦牟尼
+    zh_mo: 释迦牟尼
     zh-my: 释迦牟尼
-    zh-sg: 释迦牟尼
-    zh-tw: 釋迦牟尼
+    zh_sg: 释迦牟尼
+    zh_tw: 釋迦牟尼
     zu: Siddharta Gautama
 ---
 # [[Buddha]] 

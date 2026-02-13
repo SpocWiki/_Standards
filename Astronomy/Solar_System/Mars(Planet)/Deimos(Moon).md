@@ -94,7 +94,7 @@ dv_has_:
     azb: دیموس
     ba: Деймос
     be: Дэймас
-    be-tarask: Дэймас
+    be_tarask: Дэймас
     bg: Деймос
     bn: ডিমোস
     br: Deimos (loarenn)
@@ -163,7 +163,7 @@ dv_has_:
     pl: Deimos
     pnb: دیموس
     pt: Deimos
-    pt-br: Deimos
+    pt_br: Deimos
     rm: Deimos
     ro: Deimos
     ru: Деймос

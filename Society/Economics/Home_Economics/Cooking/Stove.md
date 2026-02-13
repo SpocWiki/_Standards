@@ -96,7 +96,7 @@ dv_has_:
     ar: موقد
     az: Ocaq
     be: грубка
-    be-tarask: груба
+    be_tarask: груба
     bg: Печка (горивна)
     bn: উনুন
     ca: estufa
@@ -106,8 +106,8 @@ dv_has_:
     de: Ofen
     el: Σόμπα
     en: stove
-    en-ca: Stove
-    en-gb: stove
+    en_ca: Stove
+    en_gb: stove
     eo: stovo
     es: estufa
     et: ahi
@@ -134,8 +134,8 @@ dv_has_:
     ki: Thagirĩ
     ko: 난로
     ku: Sobe
-    ku-arab: سۆبە
-    ku-latn: Sobe
+    ku_arab: سۆبە
+    ku_latn: Sobe
     la: Furnulus
     lb: Uewen
     lmo: Stuva
@@ -146,14 +146,14 @@ dv_has_:
     ml: സ്റ്റൌ
     mzn: کله
     nan: Chàu-thâu
-    nds-nl: stove
+    nds_nl: stove
     ne: चुल्हो
     nl: kachel
     oc: Fornet
     pl: piec
     pnb: چُلھا
     pt: fogão
-    pt-br: fogão
+    pt_br: fogão
     ro: sobă
     ru: домашняя печь
     sk: kachle
@@ -161,8 +161,8 @@ dv_has_:
     sn: Chitofu
     sq: Sobë
     sr: штедњак
-    sr-ec: штедњак
-    sr-el: Rešo
+    sr_ec: штедњак
+    sr_el: Rešo
     su: Kompor
     sv: kamin
     szl: Kachlok
@@ -170,7 +170,7 @@ dv_has_:
     ti: እቶን
     tr: soba
     tt: йорт миче
-    tt-cyrl: йорт миче
+    tt_cyrl: йорт миче
     uk: груба
     vec: Stua
     vi: bếp lò
@@ -178,7 +178,7 @@ dv_has_:
     wuu: 灶头
     yue: 爐
     zh: 烘箱
-    zh-hant: 灶
+    zh_hant: 灶
 ---
 # [[Stove]] 
 

@@ -91,7 +91,7 @@ dv_has_:
     az: Batmazlıq
     azb: باتمازلیق
     be: плывучасць
-    be-tarask: плывучасьць
+    be_tarask: плывучасьць
     bg: Плаваемост
     bn: প্লবতা
     bs: potisak
@@ -159,8 +159,8 @@ dv_has_:
     wuu: 浮力
     yue: 浮力
     zh: 浮力
-    zh-hans: 浮力
-    zh-hant: 浮力
+    zh_hans: 浮力
+    zh_hant: 浮力
 ---
 # [[Buoyancy]] 
 

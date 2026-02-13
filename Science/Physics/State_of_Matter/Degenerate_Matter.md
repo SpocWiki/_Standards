@@ -57,7 +57,7 @@ dv_has_:
     ar: مادة متحللة
     ast: materia dexenerada
     be: выраджаны газ
-    be-tarask: выраджаны газ
+    be_tarask: выраджаны газ
     bg: изродена материя
     bn: অবক্ষয়িত পদার্থ
     ca: matèria degenerada
@@ -65,11 +65,11 @@ dv_has_:
     cv: юхăннă газ
     da: degenereret stof
     de: entartete Materie
-    de-ch: entartete Materie
+    de_ch: entartete Materie
     el: εκφυλισμένη ύλη
     en: degenerate matter
-    en-ca: degenerate matter
-    en-gb: degenerate matter
+    en_ca: degenerate matter
+    en_gb: degenerate matter
     eo: degenereca materio
     es: materia degenerada
     eu: materia endekatu
@@ -91,7 +91,7 @@ dv_has_:
     oc: Matèria degenerada
     pl: materia zdegenerowana
     pt: matéria degenerada
-    pt-br: matéria degenerada
+    pt_br: matéria degenerada
     ro: Materie degenerată
     ru: вырожденный газ
     sk: degenerovaný plyn

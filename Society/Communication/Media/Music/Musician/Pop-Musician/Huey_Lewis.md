@@ -6,7 +6,7 @@ dv_has_:
     arz: هيوى لويس
     ast: Huey Lewis
     azb: هوی لویس
-    be-tarask: Г’юі Льюіс
+    be_tarask: Г’юі Льюіс
     ca: Huey Lewis
     ckb: ھوی لویس
     cs: Huey Lewis
@@ -36,7 +36,7 @@ dv_has_:
     pap: Huey Lewis
     pl: Huey Lewis
     pt: Huey Lewis
-    pt-br: Huey Lewis
+    pt_br: Huey Lewis
     ru: Хьюи Льюис
     sk: Huey Lewis
     sl: Huey Lewis

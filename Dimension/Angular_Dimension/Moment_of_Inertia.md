@@ -107,7 +107,7 @@ dv_has_:
     ast: momentu d'inercia
     bar: Trägheitsmaument
     be: момант інерцыі
-    be-tarask: момант інэрцыі
+    be_tarask: момант інэрцыі
     bg: масов инерционен момент
     bn: জড়তার ভ্রামক
     bs: moment inercije
@@ -141,11 +141,11 @@ dv_has_:
     ja: 慣性モーメント
     ka: ინერციის მომენტი
     kk: инерция моменті
-    kk-arab: ىينەرتسىييا مومەنتى
+    kk_arab: ىينەرتسىييا مومەنتى
     kk-cn: ىينەرتسىييا مومەنتى
-    kk-cyrl: инерция моменті
+    kk_cyrl: инерция моменті
     kk-kz: инерция моменті
-    kk-latn: ïnercïya momenti
+    kk_latn: ïnercïya momenti
     kk-tr: Ïnercïya momenti
     ko: 관성 모멘트
     lt: inercijos momentas
@@ -167,8 +167,8 @@ dv_has_:
     sl: vztrajnostni moment
     sq: momenti i inercisë
     sr: момент инерције
-    sr-ec: момент инерције
-    sr-el: moment inercije
+    sr_ec: момент инерције
+    sr_el: moment inercije
     sv: tröghetsmoment
     ta: நிலைமத் திருப்புத்திறன்
     tg: моменти инерсия
@@ -182,12 +182,12 @@ dv_has_:
     wuu: 转动惯量
     yue: 慣性矩
     zh: 轉動慣量
-    zh-cn: 转动惯量
-    zh-hans: 转动惯量
-    zh-hant: 轉動慣量
-    zh-hk: 轉動慣量
-    zh-sg: 转动惯量
-    zh-tw: 轉動慣量
+    zh_cn: 转动惯量
+    zh_hans: 转动惯量
+    zh_hant: 轉動慣量
+    zh_hk: 轉動慣量
+    zh_sg: 转动惯量
+    zh_tw: 轉動慣量
 ---
 # [[Moment_of_Inertia]] 
 

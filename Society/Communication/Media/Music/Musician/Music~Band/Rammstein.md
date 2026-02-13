@@ -11,7 +11,7 @@ dv_has_:
     ban: Rammstein
     bar: Rammstein
     be: Rammstein
-    be-tarask: Rammstein
+    be_tarask: Rammstein
     bg: Рамщайн
     bi: Rammstein
     bn: রামেস্টেইন
@@ -24,7 +24,7 @@ dv_has_:
     de: Rammstein
     el: Rammstein
     en: Rammstein
-    en-gb: Rammstein
+    en_gb: Rammstein
     eo: Rammstein
     es: Rammstein
     et: Rammstein
@@ -95,7 +95,7 @@ dv_has_:
     yi: ראמשטיין
     yue: 雷姆斯汀
     zh: 德国战车
-    zh-cn: 德国战车
+    zh_cn: 德国战车
 aliases:
 - kulupu Lamusitan
 - Rammstein

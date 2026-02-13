@@ -125,7 +125,7 @@ dv_has_:
     ary: فولكسڤاكن
     arz: فولكس فاجن
     azb: فولکسواقن
-    be-tarask: Фольксваген
+    be_tarask: Фольксваген
     bg: Фолксваген
     bn: ফোক্সওয়াগেন
     ckb: فۆلکسڤاگن
@@ -152,8 +152,8 @@ dv_has_:
     pt: Volkswagen
     si: ෆෝක්ස්වෑගන්
     sr: Фолксваген
-    sr-ec: Фолксваген
-    sr-el: Folksvagen
+    sr_ec: Фолксваген
+    sr_el: Folksvagen
     ta: வோல்க்ஸ்வேகன்
     te: వోక్స్ వాగన్
     th: โฟล์กสวาเกน
@@ -165,14 +165,14 @@ dv_has_:
     yue: 福士汽車
     zea: Volkswaegen
     zh: 大众汽车
-    zh-cn: 大众汽车
-    zh-hans: 大众汽车
-    zh-hant: 大众汽车
-    zh-hk: 大众汽车
-    zh-mo: 大众汽车
+    zh_cn: 大众汽车
+    zh_hans: 大众汽车
+    zh_hant: 大众汽车
+    zh_hk: 大众汽车
+    zh_mo: 大众汽车
     zh-my: 大众汽车
-    zh-sg: 大众汽车
-    zh-tw: 福斯汽車
+    zh_sg: 大众汽车
+    zh_tw: 福斯汽車
 ---
 # [[VW(Volkswagen)]] 
 

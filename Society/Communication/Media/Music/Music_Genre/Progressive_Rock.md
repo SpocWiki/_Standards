@@ -76,7 +76,7 @@ dv_has_:
     az: proqressiv rok
     ba: прогрессив рок
     be: прагрэсіўны рок
-    be-tarask: прагрэсіўны рок
+    be_tarask: прагрэсіўны рок
     bg: прогресив рок
     bn: প্রোগ্রেসিভ রক
     bs: Progresivni rock
@@ -87,11 +87,11 @@ dv_has_:
     cy: roc blaengar
     da: progressiv rock
     de: Progressive Rock
-    de-ch: Progressive Rock
+    de_ch: Progressive Rock
     el: Progressive Rock
     en: progressive rock
-    en-ca: Progressive rock
-    en-gb: progressive rock
+    en_ca: Progressive rock
+    en_gb: progressive rock
     eo: progresiva roko
     es: rock progresivo
     et: progressiivne rokk
@@ -126,7 +126,7 @@ dv_has_:
     os: прогрессивон рок
     pl: rock progresywny
     pt: rock progressivo
-    pt-br: rock progressivo
+    pt_br: rock progressivo
     ro: rock progresiv
     ru: прогрессивный рок
     scn: Rock prugrissivu
@@ -146,9 +146,9 @@ dv_has_:
     vi: rock cấp tiến
     wuu: 前卫摇滚
     zh: 前衛搖滾
-    zh-cn: 交响摇滚
-    zh-hans: 交响摇滚
-    zh-hant: 交響搖滾
+    zh_cn: 交响摇滚
+    zh_hans: 交响摇滚
+    zh_hant: 交響搖滾
 ---
 # [[Progressive_Rock]] 
 

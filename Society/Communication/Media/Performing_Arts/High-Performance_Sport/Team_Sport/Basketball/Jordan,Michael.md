@@ -218,7 +218,7 @@ dv_has_:
     bar: Michael Jordan
     bcl: Michael Jordan
     be: Майкл Джордан
-    be-tarask: Майкл Джордан
+    be_tarask: Майкл Джордан
     bg: Майкъл Джордан
     bn: মাইকেল জর্ডান
     br: Michael Jordan
@@ -232,7 +232,7 @@ dv_has_:
     da: Michael Jordan
     de: Michael Jordan
     de-at: Michael Jordan
-    de-ch: Michael Jordan
+    de_ch: Michael Jordan
     diq: Michael Jordan
     dsb: Michael Jordan
     ee: Michael Jordan
@@ -240,8 +240,8 @@ dv_has_:
     el: Μάικλ Τζόρνταν
     eml: Michael Jordan
     en: Michael Jordan
-    en-ca: Michael Jordan
-    en-gb: Michael Jordan
+    en_ca: Michael Jordan
+    en_gb: Michael Jordan
     eo: Michael Jordan
     es: Michael Jordan
     et: Michael Jordan
@@ -298,7 +298,7 @@ dv_has_:
     lrc: مایکل جوردٱن
     lt: Michael Jordan
     lv: Maikls Džordans
-    map-bms: Michael Jordan
+    map_bms: Michael Jordan
     mg: Michael Jordan
     min: Michael Jordan
     mk: Мајкл Џордан
@@ -312,7 +312,7 @@ dv_has_:
     nap: Michael Jordan
     nb: Michael Jordan
     nds: Michael Jordan
-    nds-nl: Michael Jordan
+    nds_nl: Michael Jordan
     nl: Michael Jordan
     nn: Michael Jordan
     oc: Michael Jordan
@@ -327,7 +327,7 @@ dv_has_:
     pl: Michael Jordan
     pms: Michael Jordan
     pt: Michael Jordan
-    pt-br: Michael Jordan
+    pt_br: Michael Jordan
     qu: Michael Jordan
     rm: Michael Jordan
     ro: Michael Jordan
@@ -372,9 +372,9 @@ dv_has_:
     yue: 米高佐敦
     zea: Michael Jordan
     zh: 迈克尔·乔丹
-    zh-hant: 邁克爾·喬丹
-    zh-hk: 米高·佐敦
-    zh-tw: 麥可·喬丹
+    zh_hant: 邁克爾·喬丹
+    zh_hk: 米高·佐敦
+    zh_tw: 麥可·喬丹
     zu: Michael Jordan
 ---
 # [[Jordan,Michael]] 

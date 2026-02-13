@@ -225,7 +225,7 @@ dv_has_:
     ba: Кит һымаҡтар
     ban: Cetacea
     be: кітападобныя
-    be-tarask: кітападобныя
+    be_tarask: кітападобныя
     bg: китоподобни
     bho: सीटेशिया
     bn: তিমি বর্গ
@@ -247,8 +247,8 @@ dv_has_:
     diq: Balina
     el: Κητώδη
     en: Cetacea
-    en-ca: Cetacea
-    en-gb: Cetacea
+    en_ca: Cetacea
+    en_gb: Cetacea
     eo: Cetacoj
     es: cetáceos
     et: Vaalalised
@@ -329,7 +329,7 @@ dv_has_:
     pnb: سیٹیشیا
     ps: نهنګ
     pt: Cetáceos
-    pt-br: cetáceos
+    pt_br: cetáceos
     qu: Wallina
     ro: Cetacea
     ru: китообразные
@@ -373,10 +373,10 @@ dv_has_:
     za: Ginghyiz
     zea: Walvisachtihen
     zh: 鲸下目
-    zh-cn: 鲸下目
-    zh-hans: 鲸下目
-    zh-hant: 鯨下目
-    zh-tw: 鯨下目
+    zh_cn: 鲸下目
+    zh_hans: 鲸下目
+    zh_hant: 鯨下目
+    zh_tw: 鯨下目
 ---
 # [[Whale]] 
 

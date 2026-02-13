@@ -158,7 +158,7 @@ dv_has_:
     ba: Цивилизация
     bcl: Sibilisasyon
     be: цывілізацыя
-    be-tarask: цывілізацыя
+    be_tarask: цывілізацыя
     bg: Цивилизация
     bho: सभ्यता
     bn: সভ্যতা
@@ -178,8 +178,8 @@ dv_has_:
     diq: Sivilizasyon
     el: Πολιτισμός
     en: civilization
-    en-ca: civilisation
-    en-gb: civilisation
+    en_ca: civilisation
+    en_gb: civilisation
     eo: civilizacio
     es: civilización
     et: tsivilisatsioon
@@ -227,7 +227,7 @@ dv_has_:
     ko: 문명
     krc: Цивилизация
     ku: şaristanî
-    ku-latn: şaristanî
+    ku_latn: şaristanî
     kw: Hwarheans
     ky: цивилизация
     la: Civilizatio
@@ -267,7 +267,7 @@ dv_has_:
     pnb: تہذیب
     ps: تمدن
     pt: civilização
-    pt-br: civilização
+    pt_br: civilização
     qu: Hawaykawsay
     ro: civilizație
     ru: цивилизация
@@ -290,7 +290,7 @@ dv_has_:
     so: Ilbaximo
     sq: Qytetërimi
     sr: цивилизација
-    sr-ec: цивилизација
+    sr_ec: цивилизација
     sv: civilisation
     sw: Ustaarabu
     ta: நாகரிகம்
@@ -318,14 +318,14 @@ dv_has_:
     yue: 文明
     za: Vwnzmingz
     zh: 文明
-    zh-cn: 文明
-    zh-hans: 文明
-    zh-hant: 文明
-    zh-hk: 文明
-    zh-mo: 文明
+    zh_cn: 文明
+    zh_hans: 文明
+    zh_hant: 文明
+    zh_hk: 文明
+    zh_mo: 文明
     zh-my: 文明
-    zh-sg: 文明
-    zh-tw: 文明
+    zh_sg: 文明
+    zh_tw: 文明
 ---
 # [[Civilization]] 
 

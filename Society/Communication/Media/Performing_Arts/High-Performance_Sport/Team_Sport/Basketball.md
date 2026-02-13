@@ -217,7 +217,7 @@ dv_has_:
     bar: Basketboi
     bcl: Basketbol
     be: баскетбол
-    be-tarask: баскетбол
+    be_tarask: баскетбол
     bew: Bola keranjang
     bg: Баскетбол
     bjn: Baskét
@@ -240,13 +240,13 @@ dv_has_:
     cy: Pêl-fasged
     da: basketball
     de: Basketball
-    de-ch: Basketball
+    de_ch: Basketball
     din: Dökthiɔ̈l
     diq: Basketbol
     el: καλαθοσφαίριση
     en: basketball
-    en-ca: Basketball
-    en-gb: basketball
+    en_ca: Basketball
+    en_gb: basketball
     en-us: basketball
     eo: korbopilkado
     es: baloncesto
@@ -348,7 +348,7 @@ dv_has_:
     pnb: باسکٹ بال
     ps: باسکټبال
     pt: basquetebol
-    pt-br: basquetebol
+    pt_br: basquetebol
     qu: Isanka rump'u
     rm: Ballabasket
     ro: baschet
@@ -376,7 +376,7 @@ dv_has_:
     so: Kubadda Koleyga
     sq: Basketbolli
     sr: кошарка
-    sr-ec: кошарка
+    sr_ec: кошарка
     su: Bola Basket
     sv: basket
     sw: Mpira wa kikapu
@@ -412,11 +412,11 @@ dv_has_:
     yue: 籃球
     za: Lanzgiuz
     zh: 篮球
-    zh-cn: 篮球
-    zh-hans: 篮球
-    zh-hant: 籃球
-    zh-hk: 籃球
-    zh-tw: 籃球
+    zh_cn: 篮球
+    zh_hans: 篮球
+    zh_hant: 籃球
+    zh_hk: 籃球
+    zh_tw: 籃球
 ---
 # [[Basketball]] 🏀 
 

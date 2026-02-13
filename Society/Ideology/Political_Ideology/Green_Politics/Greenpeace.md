@@ -122,7 +122,7 @@ dv_has_:
     ar: منظمة السلام الأخضر
     ba: Гринпис
     be: Грынпіс
-    be-tarask: Грынпіс
+    be_tarask: Грынпіс
     bg: Грийнпийс
     bn: গ্রিনপিস
     ce: Гринпис
@@ -146,7 +146,7 @@ dv_has_:
     rw: Amahoro Masa
     sah: Гринпис
     sr: Гринпис
-    sr-ec: Гринпис
+    sr_ec: Гринпис
     sw: amani ya kijani
     ta: கிரீன்பீஸ்
     th: กรีนพีซ
@@ -158,8 +158,8 @@ dv_has_:
     wuu: 绿色和平
     yue: 綠色和平
     zh: 绿色和平
-    zh-hant: 綠色和平
-    zh-hk: 綠色和平
+    zh_hant: 綠色和平
+    zh_hk: 綠色和平
 ---
 # [[Greenpeace]] 
 

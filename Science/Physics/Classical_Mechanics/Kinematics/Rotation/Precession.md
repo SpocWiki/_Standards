@@ -65,7 +65,7 @@ dv_has_:
     ast: Precesión
     az: Pressesiya
     be: прэцэсія
-    be-tarask: прэцэсiя
+    be_tarask: прэцэсiя
     bg: Прецесия
     ca: precessió
     cs: precese
@@ -95,11 +95,11 @@ dv_has_:
     ja: 歳差
     ka: პრეცესია
     kk: Прецессия және нутация
-    kk-arab: پرەتسەسسىييا جانە نۋتاتسىييا
+    kk_arab: پرەتسەسسىييا جانە نۋتاتسىييا
     kk-cn: پرەتسەسسىييا جانە نۋتاتسىييا
-    kk-cyrl: Прецессия және нутация
+    kk_cyrl: Прецессия және нутация
     kk-kz: Прецессия және нутация
-    kk-latn: Precessïya jäne nwtacïya
+    kk_latn: Precessïya jäne nwtacïya
     kk-tr: Precessïya jäne nwtacïya
     ko: 세차 운동
     ky: Прецессия
@@ -132,12 +132,12 @@ dv_has_:
     wuu: 进动
     xmf: პრეცესია
     zh: 進動
-    zh-cn: 进动
-    zh-hans: 进动
-    zh-hant: 進動
-    zh-hk: 進動
-    zh-sg: 进动
-    zh-tw: 進動
+    zh_cn: 进动
+    zh_hans: 进动
+    zh_hant: 進動
+    zh_hk: 進動
+    zh_sg: 进动
+    zh_tw: 進動
 ---
 # [[Precession]] 
 

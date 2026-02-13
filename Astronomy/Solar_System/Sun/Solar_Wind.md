@@ -27,7 +27,7 @@ dv_has_:
     ast: vientu solar
     az: Günəş küləyi
     be: сонечны вецер
-    be-tarask: сонечны вецер
+    be_tarask: сонечны вецер
     bg: слънчев вятър
     bho: सौर हवा
     br: avel-heol
@@ -97,7 +97,7 @@ dv_has_:
     sms: peiʹvvpiõgg
     sq: Era diellore
     sr: сунчев ветар
-    sr-ec: сунчев ветар
+    sr_ec: сунчев ветар
     sv: solvind
     sw: Upepo wa jua
     ta: சூரியக் காற்று
@@ -112,7 +112,7 @@ dv_has_:
     wuu: 太阳风
     yue: 太陽風
     zh: 太阳风
-    zh-tw: 太陽風
+    zh_tw: 太陽風
 aliases:
 - aire solar
 - Angin matahari

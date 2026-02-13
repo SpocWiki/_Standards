@@ -83,7 +83,7 @@ dv_has_:
     ast: hipocresía
     ban: Mapi-mapi sujati
     bcl: ipokresiya
-    be-tarask: крывадушнасьць
+    be_tarask: крывадушнасьць
     bg: лицемерие
     bn: কপটতা
     bs: Licemjerje
@@ -93,11 +93,11 @@ dv_has_:
     cv: Икĕпитленӳ
     da: hykleri
     de: Heuchelei
-    de-ch: Heuchelei
+    de_ch: Heuchelei
     el: υποκρισία
     en: hypocrisy
-    en-ca: hypocrisy
-    en-gb: hypocrisy
+    en_ca: hypocrisy
+    en_gb: hypocrisy
     eo: hipokriteco
     es: hipocresía
     et: silmakirjalikkus
@@ -135,7 +135,7 @@ dv_has_:
     pam: ipokresía
     pl: hipokryzja
     pt: hipocrisia
-    pt-br: hipocrisia
+    pt_br: hipocrisia
     ro: ipocrizie
     ru: лицемерие
     sah: Сэттэ сирэй
@@ -144,8 +144,8 @@ dv_has_:
     sl: hinavstvo
     sq: hipokrizia
     sr: хипокризија
-    sr-ec: хипокризија
-    sr-el: hipokrizija
+    sr_ec: хипокризија
+    sr_el: hipokrizija
     sv: hycklare
     sw: unafiki
     ta: பாசாங்குத்தனம்
@@ -158,12 +158,12 @@ dv_has_:
     yi: היפאקריטיע
     yue: 偽君子
     zh: 偽君子
-    zh-cn: 伪君子
-    zh-hans: 伪君子
-    zh-hant: 偽君子
-    zh-hk: 偽君子
-    zh-sg: 伪君子
-    zh-tw: 偽君子
+    zh_cn: 伪君子
+    zh_hans: 伪君子
+    zh_hant: 偽君子
+    zh_hk: 偽君子
+    zh_sg: 伪君子
+    zh_tw: 偽君子
 ---
 # [[Hypocrisy]] 
 

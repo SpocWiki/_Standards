@@ -124,7 +124,7 @@ dv_has_:
     ast: Roger Waters
     azb: راجر واترز
     bar: Roger Waters
-    be-tarask: Роджэр Ўотэрз
+    be_tarask: Роджэр Ўотэрз
     bg: Роджър Уотърс
     bn: রজার ওয়াটার্স
     br: Roger Waters
@@ -137,11 +137,11 @@ dv_has_:
     dag: Roger Waters
     de: Roger Waters
     de-at: Roger Waters
-    de-ch: Roger Waters
+    de_ch: Roger Waters
     el: Ρότζερ Γουώτερς
     en: Roger Waters
-    en-ca: Roger Waters
-    en-gb: Roger Waters
+    en_ca: Roger Waters
+    en_gb: Roger Waters
     eo: Roger Waters
     es: Roger Waters
     et: Roger Waters
@@ -188,7 +188,7 @@ dv_has_:
     nap: Roger Waters
     nb: Roger Waters
     nds: Roger Waters
-    nds-nl: Roger Waters
+    nds_nl: Roger Waters
     nl: Roger Waters
     nn: Roger Waters
     nrm: Roger Waters
@@ -200,7 +200,7 @@ dv_has_:
     pms: Roger Waters
     pnb: راجر واٹرز
     pt: Roger Waters
-    pt-br: Roger Waters
+    pt_br: Roger Waters
     qu: Roger Waters
     rm: Roger Waters
     ro: Roger Waters
@@ -213,8 +213,8 @@ dv_has_:
     sl: Roger Waters
     sq: Roger Waters
     sr: Роџер Вотерс
-    sr-ec: Роџер Вотерс
-    sr-el: Rodžer Voters
+    sr_ec: Роџер Вотерс
+    sr_el: Rodžer Voters
     sv: Roger Waters
     sw: Roger Waters
     th: โรเจอร์ วอเทอส์
@@ -231,7 +231,7 @@ dv_has_:
     yo: Roger Waters
     yue: 羅渣禾特斯
     zh: 罗杰·沃特斯
-    zh-hant: 羅傑·沃特斯
+    zh_hant: 羅傑·沃特斯
     zu: Roger Waters
 ---
 # [[Waters,Roger]] 

@@ -86,7 +86,7 @@ dv_has_:
     ban: Tuatara
     bcl: Tuatara
     be: Гатэрыя
-    be-tarask: гатэрыя
+    be_tarask: гатэрыя
     bg: хатерии
     bn: স্ফেনডন পান্কটাম
     br: Tuatara
@@ -97,8 +97,8 @@ dv_has_:
     de: Brückenechsen
     el: Sphenodon
     en: tuatara
-    en-ca: Tuatara
-    en-gb: Tuatara
+    en_ca: Tuatara
+    en_gb: Tuatara
     eo: Tuataro
     es: Sphenodon
     et: Tuataara
@@ -142,7 +142,7 @@ dv_has_:
     oc: Tuatara
     pl: Hatteria
     pt: tuatara
-    pt-br: Tuatara
+    pt_br: Tuatara
     ro: Tuatara
     ru: гаттерии
     sco: tuatara
@@ -161,8 +161,8 @@ dv_has_:
     war: Sphenodon
     yue: 刺背鱷蜥
     zh: 楔齿蜥属
-    zh-cn: 楔齿蜥属
-    zh-tw: 楔齒蜥屬
+    zh_cn: 楔齿蜥属
+    zh_tw: 楔齒蜥屬
 ---
 # [[Tuatara]] 
 

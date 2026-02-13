@@ -117,7 +117,7 @@ dv_has_:
     arz: سمن نباتى
     ast: Margarina
     be: Маргарын
-    be-tarask: маргарын
+    be_tarask: маргарын
     bg: Маргарин
     bjn: Margarin
     bn: মার্জারিন
@@ -174,8 +174,8 @@ dv_has_:
     sl: margarina
     sq: Margarina
     sr: маргарин
-    sr-ec: маргарин
-    sr-el: margarin
+    sr_ec: маргарин
+    sr_el: margarin
     sv: margarin
     sw: Marjarini
     tg: Маргарин

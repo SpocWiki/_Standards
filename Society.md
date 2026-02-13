@@ -222,7 +222,7 @@ dv_has_:
     bar: Gsööschoft
     bcl: Sosyedad
     be: грамадства
-    be-tarask: грамадзтва
+    be_tarask: грамадзтва
     bew: Masarakat
     bg: Общество
     bho: समाज
@@ -325,7 +325,7 @@ dv_has_:
     mni: ꯈꯨꯅꯥꯏ
     mnw: ဂကောံမၞိဟ်
     ms: masyarakat
-    ms-arab: مشارکت
+    ms_arab: مشارکت
     mwl: Sociadade
     myv: Ломаютко
     nan: Siā-hoē
@@ -347,7 +347,7 @@ dv_has_:
     pnb: سماج
     ps: ټولنه
     pt: sociedade
-    pt-br: sociedade
+    pt_br: sociedade
     qu: Waki
     ro: societate
     ru: общество
@@ -385,7 +385,7 @@ dv_has_:
     tr: toplum
     ts: Nhlangano wa vanhu
     tt: җәмгыять
-    tt-cyrl: җәмгыять
+    tt_cyrl: җәмгыять
     tyv: Ниитилел
     udm: мер
     uk: суспільство
@@ -405,14 +405,14 @@ dv_has_:
     za: Sevei
     zgh: ⴰⵎⵓⵏ
     zh: 社会
-    zh-cn: 社会
-    zh-hans: 社会
-    zh-hant: 社会
-    zh-hk: 社會
-    zh-mo: 社会
+    zh_cn: 社会
+    zh_hans: 社会
+    zh_hant: 社会
+    zh_hk: 社會
+    zh_mo: 社会
     zh-my: 社会
-    zh-sg: 社会
-    zh-tw: 社會
+    zh_sg: 社会
+    zh_tw: 社會
 ---
 # [[Society]] 
 

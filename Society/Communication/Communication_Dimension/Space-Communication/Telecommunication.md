@@ -157,7 +157,7 @@ dv_has_:
     az: Telekommunikasiya
     bcl: Telekomunikasyon
     be: электрасувязь
-    be-tarask: сувязь
+    be_tarask: сувязь
     bg: Телекомуникация
     blk: ထာꩻဆှိုပ်စပ်ꩻ
     bn: টেলিযোগাযোগ
@@ -222,7 +222,7 @@ dv_has_:
     mk: телекомуникации
     ml: വിദൂരാശയവിനിമയം
     ms: telekomunikasi
-    ms-arab: تيليکومونيکاسي
+    ms_arab: تيليکومونيکاسي
     mwl: Telecomunicaçon
     my: ဆက်သွယ်ရေးစနစ်
     nan: Tiān-sìn
@@ -238,7 +238,7 @@ dv_has_:
     pnb: ٹیلی مواصلات
     ps: مخابرات
     pt: telecomunicação
-    pt-br: telecomunicação
+    pt_br: telecomunicação
     qu: Karuwillanakuna
     rm: Istorgia da la telecommunicaziun
     ro: telecomunicații
@@ -257,7 +257,7 @@ dv_has_:
     so: Isgaarsiinta
     sq: Telekomunikacioni
     sr: телекомуникације
-    sr-ec: Телекомуникације
+    sr_ec: Телекомуникације
     su: Telekomunikasi
     sv: telekommunikation
     sw: Mawasilianoanga
@@ -281,11 +281,11 @@ dv_has_:
     yo: Ìbánisọ̀rọ̀-ọ̀ọ́kán
     yue: 電訊
     zh: 电信
-    zh-cn: 电信
-    zh-hans: 电信
-    zh-hant: 電信
-    zh-hk: 電訊
-    zh-tw: 電信
+    zh_cn: 电信
+    zh_hans: 电信
+    zh_hant: 電信
+    zh_hk: 電訊
+    zh_tw: 電信
     zu: Ezokuxhumakude
 ---
 # [[Telecommunication]] 

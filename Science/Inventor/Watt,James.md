@@ -169,7 +169,7 @@ dv_has_:
     ba: Джеймс Уатт
     ban: James Watt
     be: Джэймс Ват
-    be-tarask: Джэймз Ўат
+    be_tarask: Джэймз Ўат
     bg: Джеймс Уат
     bn: জেমস ওয়াট
     br: James Watt
@@ -185,12 +185,12 @@ dv_has_:
     cy: James Watt
     da: James Watt
     de: James Watt
-    de-ch: James Watt
+    de_ch: James Watt
     diq: James Watt
     el: Τζέιμς Βατ
     en: James Watt
-    en-ca: James Watt
-    en-gb: James Watt
+    en_ca: James Watt
+    en_gb: James Watt
     eo: James Watt
     es: James Watt
     et: James Watt
@@ -249,7 +249,7 @@ dv_has_:
     nan: James Watt
     nb: James Watt
     nds: James Watt
-    nds-nl: James Watt
+    nds_nl: James Watt
     ne: जेम्स वाट
     nl: James Watt
     nn: James Watt
@@ -262,7 +262,7 @@ dv_has_:
     pnb: جیمز واٹ
     ps: جېمز واټ
     pt: James Watt
-    pt-br: James Watt
+    pt_br: James Watt
     qu: James Watt
     qug: James Watt
     ro: James Watt
@@ -303,7 +303,7 @@ dv_has_:
     yue: 瓦特
     za: James Watt
     zh: 詹姆斯·瓦特
-    zh-hk: 占士·瓦特
+    zh_hk: 占士·瓦特
 ---
 # [[Watt,James]] 
 

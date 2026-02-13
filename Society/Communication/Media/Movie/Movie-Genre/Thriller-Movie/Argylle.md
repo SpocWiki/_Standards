@@ -38,9 +38,9 @@ dv_has_:
     vi: 'Argylle: Siêu điệp viên'
     yue: 特工亞皆老
     zh: 機密特務：阿蓋爾
-    zh-hk: 特工亞皆老
-    zh-sg: 机密特务：阿盖尔
-    zh-tw: 機密特務：阿蓋爾
+    zh_hk: 特工亞皆老
+    zh_sg: 机密特务：阿盖尔
+    zh_tw: 機密特務：阿蓋爾
 aliases:
 - Argailas
 - Argylle

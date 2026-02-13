@@ -149,7 +149,7 @@ dv_has_:
     ba: Малай архипелагы
     bcl: Kaislahan na Malay
     be: Малайскі архіпелаг
-    be-tarask: Малайскі архіпэляг
+    be_tarask: Малайскі архіпэляг
     bg: Малайски архипелаг
     bn: মালয় দ্বীপপুঞ্জ
     bs: Malajski arhipelag
@@ -188,8 +188,8 @@ dv_has_:
     km: ប្រជុំកោះម៉ាឡេ
     ko: 말레이 제도
     ku: Arxîpela Malay
-    ku-arab: ئارخیپەلا مالای
-    ku-latn: Arxîpela Malay
+    ku_arab: ئارخیپەلا مالای
+    ku_latn: Arxîpela Malay
     ky: Малайя архипелагы
     la: Archipelagus Malaicus
     lb: Malayseschen Archipel
@@ -213,8 +213,8 @@ dv_has_:
     sk: Malajské súostrovie
     sl: Malajsko otočje
     sr: Малајски архипелаг
-    sr-ec: Малајски архипелаг
-    sr-el: Malajski arhipelag
+    sr_ec: Малајски архипелаг
+    sr_el: Malajski arhipelag
     stq: Indonesisken Archipel
     sv: Malajiska arkipelagen
     sw: Funguvisiwa la Malay
@@ -232,12 +232,12 @@ dv_has_:
     wuu: 馬來群島
     yue: 馬來群島
     zh: 马来群岛
-    zh-cn: 马来群岛
-    zh-hans: 马来群岛
-    zh-hant: 馬來群島
-    zh-hk: 馬來群島
-    zh-sg: 马来群岛
-    zh-tw: 馬來群島
+    zh_cn: 马来群岛
+    zh_hans: 马来群岛
+    zh_hant: 馬來群島
+    zh_hk: 馬來群島
+    zh_sg: 马来群岛
+    zh_tw: 馬來群島
 ---
 # [[Malay_Archipelago]] 
 

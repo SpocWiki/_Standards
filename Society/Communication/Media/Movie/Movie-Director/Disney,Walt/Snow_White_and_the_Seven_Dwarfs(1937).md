@@ -353,7 +353,7 @@ dv_has_:
     ban: Snow White and the Seven Dwarfs
     bcl: Snow White and the Seven Dwarfs
     be: Беласнежка і сямёра гномаў
-    be-tarask: Беласьнежка і сем гномаў
+    be_tarask: Беласьнежка і сем гномаў
     bg: Снежанка и седемте джуджета
     bn: স্নো হোয়াইট অ্যান্ড দ্য সেভেন ডোয়ার্ফস
     bo: ༄༅།། གངས་དཀར་སྲས་མོ།
@@ -376,8 +376,8 @@ dv_has_:
     el: Η Χιονάτη και οι επτά νάνοι
     eml: Biancaneve e i sette nani
     en: Snow White and the Seven Dwarfs
-    en-ca: Snow White and the Seven Dwarfs
-    en-gb: Snow White and the Seven Dwarfs
+    en_ca: Snow White and the Seven Dwarfs
+    en_gb: Snow White and the Seven Dwarfs
     en-us: Snow White and the Seven Dwarfs
     eo: Snow White and the Seven Dwarfs
     es: Snow White and the Seven Dwarfs
@@ -466,7 +466,7 @@ dv_has_:
     pnt: Η Χιονάρα και οι Εφτά Κοντοπόιδες (ταινία, 1937)
     ps: واوره سپینه او اوه بوني
     pt: Branca de Neve e os Sete Anões
-    pt-br: Branca de Neve e os Sete Anões
+    pt_br: Branca de Neve e os Sete Anões
     qu: Rit'i Yuraqchawan Qanchisnintin Ch'itiwan
     ro: Albă ca Zăpada și cei șapte pitici
     rsk: Шнїгочка и седем патульки (рисовани филм зоз 1937)
@@ -484,8 +484,8 @@ dv_has_:
     so: Snow White and the Seven Dwarfs
     sq: Borëbardha dhe Shtatë Xhuxhat
     sr: Снежана и седам патуљака
-    sr-ec: Снежана и седам патуљака
-    sr-el: Snežana i sedam patuljaka
+    sr_ec: Снежана и седам патуљака
+    sr_el: Snežana i sedam patuljaka
     st: Snow White and the Seven Dwarfs
     su: Snow White and the Seven Dwarfs
     sv: Snövit och de sju dvärgarna
@@ -513,12 +513,12 @@ dv_has_:
     yo: Snow White and the Seven Dwarfs
     yue: 雪姑七友
     zh: 白雪公主
-    zh-cn: 白雪公主和七个小矮人
-    zh-hans: 白雪公主
-    zh-hant: 白雪公主
-    zh-hk: 雪姑七友
-    zh-sg: 白雪公主
-    zh-tw: 白雪公主
+    zh_cn: 白雪公主和七个小矮人
+    zh_hans: 白雪公主
+    zh_hant: 白雪公主
+    zh_hk: 雪姑七友
+    zh_sg: 白雪公主
+    zh_tw: 白雪公主
     zu: Snow White and the Seven Dwarfs
 ---
 # [[Snow_White_and_the_Seven_Dwarfs(1937)]] 

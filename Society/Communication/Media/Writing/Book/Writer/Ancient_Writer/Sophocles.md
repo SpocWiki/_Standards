@@ -160,7 +160,7 @@ dv_has_:
     ba: Софокл
     bar: Sophokles
     be: Сафокл
-    be-tarask: Сафокл
+    be_tarask: Сафокл
     bg: Софокъл
     bho: सोफोक्लीज
     bi: Sophocles
@@ -181,8 +181,8 @@ dv_has_:
     diq: Sofokles
     el: Σοφοκλής
     en: Sophocles
-    en-ca: Sophocles
-    en-gb: Sophocles
+    en_ca: Sophocles
+    en_gb: Sophocles
     eo: Sofoklo
     es: Sófocles
     et: Sophokles
@@ -228,7 +228,7 @@ dv_has_:
     ko-kp: 쏘포클레스
     ks: سوفوکلیس
     ku: Sofoklês
-    ku-latn: Sofoklês
+    ku_latn: Sofoklês
     kw: Sophocles
     ky: Софокл
     la: Sophocles
@@ -265,7 +265,7 @@ dv_has_:
     pms: Sòfocle
     pnb: سوفوکلیز
     pt: Sófocles
-    pt-br: Sófocles
+    pt_br: Sófocles
     qu: Sophoklís
     ro: Sofocle
     roa-tara: Sofocle

@@ -97,7 +97,7 @@ dv_has_:
     ast: Robótica
     az: Robototexnika
     be: робататэхніка
-    be-tarask: рабататэхніка
+    be_tarask: рабататэхніка
     bg: Роботика
     bn: রোবটিক্স
     bs: robotika
@@ -107,12 +107,12 @@ dv_has_:
     cv: Робот техники
     da: robotik
     de: Robotik
-    de-ch: Robotik
+    de_ch: Robotik
     diq: Robotik
     el: Ρομποτική
     en: robotics
-    en-ca: Robotics
-    en-gb: robotics
+    en_ca: Robotics
+    en_gb: robotics
     eo: robotiko
     es: robótica
     et: robootika
@@ -139,7 +139,7 @@ dv_has_:
     kaa: Robototexnika
     ki: Thoome wa Gwangi
     kk: Робототехника
-    kk-cyrl: робототехника
+    kk_cyrl: робототехника
     kn: ಯಂತ್ರಮಾನವಶಾಸ್ತ್ರ
     ko: 로봇공학
     la: Robotica
@@ -150,7 +150,7 @@ dv_has_:
     mk: роботика
     ml: റോബോട്ടിക്സ്
     ms: robotik
-    ms-arab: روبوتيک
+    ms_arab: روبوتيک
     mt: robotika
     nb: robotikk
     nl: robotica
@@ -161,7 +161,7 @@ dv_has_:
     pl: robotyka
     ps: روباټیک
     pt: robótica
-    pt-br: robótica
+    pt_br: robótica
     qu: Antapunqu kamay
     ro: robotică
     ru: робототехника
@@ -175,8 +175,8 @@ dv_has_:
     sms: robotikk
     sq: robotikë
     sr: роботика
-    sr-ec: роботика
-    sr-el: robotika
+    sr_ec: роботика
+    sr_el: robotika
     sv: robotik
     ta: தானியங்கியல்
     te: రోబోటిక్స్
@@ -193,9 +193,9 @@ dv_has_:
     wuu: 机器人学
     yue: 機械人學
     zh: 機器人學
-    zh-cn: 机器人学
-    zh-hant: 機器人學
-    zh-tw: 機器人學
+    zh_cn: 机器人学
+    zh_hant: 機器人學
+    zh_tw: 機器人學
     zu: EzobuThununu
 ---
 # [[Robotics]] 

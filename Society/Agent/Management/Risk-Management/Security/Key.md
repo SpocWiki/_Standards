@@ -130,7 +130,7 @@ dv_has_:
     atj: Cehikan
     ba: Асҡыс
     be: Ключ
-    be-tarask: ключ
+    be_tarask: ключ
     bg: Ключ
     br: alc'hwez
     ca: clau
@@ -143,8 +143,8 @@ dv_has_:
     de: Schlüssel
     el: κλειδί
     en: key
-    en-ca: key
-    en-gb: key
+    en_ca: key
+    en_gb: key
     eo: ŝlosilo
     es: llave
     et: Võti
@@ -202,7 +202,7 @@ dv_has_:
     pnb: چابی
     pnt: ανοιγάρ'
     pt: chave
-    pt-br: chave
+    pt_br: chave
     qu: Llawi
     rn: Urupfunguruzo
     ro: cheie
@@ -215,15 +215,15 @@ dv_has_:
     sk: Kľúč
     sl: ključ
     sr: кључ
-    sr-ec: Кључ
-    sr-el: Ključ
+    sr_ec: Кључ
+    sr_el: Ključ
     su: Sosi
     sv: nyckel
     sw: Ufunguo
     ta: சாவி
     te: తాళము
     tg: Калид
-    tg-latn: Kalid
+    tg_latn: Kalid
     th: ลูกกุญแจ
     tl: susi
     tr: anahtar
@@ -238,12 +238,12 @@ dv_has_:
     za: yaekseiz
     zgh: ⵜⴰⵙⴰⵔⵓⵜ
     zh: 鑰匙
-    zh-cn: 钥匙
-    zh-hans: 钥匙
-    zh-hant: 鑰匙
-    zh-hk: 鑰匙
-    zh-sg: 钥匙
-    zh-tw: 鑰匙
+    zh_cn: 钥匙
+    zh_hans: 钥匙
+    zh_hant: 鑰匙
+    zh_hk: 鑰匙
+    zh_sg: 钥匙
+    zh_tw: 鑰匙
 ---
 # [[Key]] 🗝 
 

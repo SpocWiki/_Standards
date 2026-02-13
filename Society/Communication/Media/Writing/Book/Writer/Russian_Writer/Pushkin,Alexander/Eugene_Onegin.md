@@ -87,17 +87,17 @@ dv_has_:
     az: Yevgeni Onegin
     ba: Евгений Онегин
     be: Яўген Анегін
-    be-tarask: Яўген Анегін
+    be_tarask: Яўген Анегін
     bg: Евгений Онегин
     ca: Eugeni Oneguin
     cs: Evžen Oněgin
     da: Eugen Onegin
     de: Eugen Onegin
-    de-ch: Eugen Onegin
+    de_ch: Eugen Onegin
     el: Ευγένιος Ονέγκιν
     en: Eugene Onegin
-    en-ca: Eugene Onegin
-    en-gb: Eugene Onegin
+    en_ca: Eugene Onegin
+    en_gb: Eugene Onegin
     eo: Eŭgeno Onegin
     es: Eugenio Oneguin
     et: Jevgeni Onegin
@@ -127,7 +127,7 @@ dv_has_:
     pa: ਯੇਵਗੇਨੀ ਓਨੇਗਿਨ
     pl: Eugeniusz Oniegin
     pt: Eugene Onegin
-    pt-br: Eugene Onegin
+    pt_br: Eugene Onegin
     ro: Evgheni Oneghin
     ru: Евгений Онегин
     scn: Eugeniu Onegin
@@ -145,7 +145,7 @@ dv_has_:
     vi: Yevgeny Onegin
     war: Eugene Onegin
     zh: 叶甫盖尼·奥涅金
-    zh-cn: 叶甫盖尼·奥涅金
+    zh_cn: 叶甫盖尼·奥涅金
 ---
 # [[Eugene_Onegin]] 
 

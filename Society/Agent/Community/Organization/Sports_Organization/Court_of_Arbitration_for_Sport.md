@@ -73,7 +73,7 @@ dv_has_:
     az: İdman arbitraj məhkəməsi
     ba: Спорт арбитраж суды
     be: Спартыўны арбітражны суд
-    be-tarask: Спартовы арбітражны суд
+    be_tarask: Спартовы арбітражны суд
     ca: Tribunal d'Arbitratge de l'Esport
     cs: Mezinárodní sportovní arbitráž
     da: Sportens Voldgiftsret
@@ -99,7 +99,7 @@ dv_has_:
     nn: Den internasjonale skilsdomsretten for sport
     pl: Sportowy Sąd Arbitrażowy
     pt: Tribunal Arbitral do Desporto
-    pt-br: Tribunal Arbitral do Esporte
+    pt_br: Tribunal Arbitral do Esporte
     ro: Tribunalul internațional sportiv de arbitraj
     ru: Спортивный арбитражный суд
     sk: Medzinárodný športový súd
@@ -111,10 +111,10 @@ dv_has_:
     uk: Спортивний арбітражний суд
     vi: Tòa án Trọng tài Thể thao
     zh: 国际体育仲裁法庭
-    zh-hans: 国际体育仲裁法庭
-    zh-hant: 國際體育仲裁法庭
-    zh-hk: 國際體育仲裁院
-    zh-tw: 國際體育仲裁法庭
+    zh_hans: 国际体育仲裁法庭
+    zh_hant: 國際體育仲裁法庭
+    zh_hk: 國際體育仲裁院
+    zh_tw: 國際體育仲裁法庭
 ---
 # [[Court_of_Arbitration_for_Sport]] 
 

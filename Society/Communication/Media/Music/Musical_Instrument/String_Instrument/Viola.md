@@ -9,7 +9,7 @@ dv_has_:
     ast: viola
     az: alt
     be: альт
-    be-tarask: альт
+    be_tarask: альт
     bg: виола
     bs: viola
     ca: viola
@@ -21,7 +21,7 @@ dv_has_:
     de: Bratsche
     el: βιόλα
     en: viola
-    en-gb: viola
+    en_gb: viola
     eo: aldviolono
     es: viola
     et: vioola
@@ -69,21 +69,21 @@ dv_has_:
     oc: violon alto
     pl: altówka
     pt: viola
-    pt-br: viola
+    pt_br: viola
     qu: wiyula
     ro: violă
     ru: альт
     se: áltofijuvla
     sh: viola
-    sh-cyrl: виола
+    sh_cyrl: виола
     sk: viola
     sl: viola
     smn: alttovivlu
     sms: alttoviulu
     sq: viola
     sr: виола
-    sr-ec: виола
-    sr-el: viola
+    sr_ec: виола
+    sr_el: viola
     stq: Viola
     sv: viola
     ta: வியோலம்
@@ -101,9 +101,9 @@ dv_has_:
     yi: וויאלע
     yue: 中提琴
     zh: 中提琴
-    zh-hans: 中提琴
-    zh-hant: 中提琴
-    zh-tw: 中提琴
+    zh_hans: 中提琴
+    zh_hant: 中提琴
+    zh_tw: 中提琴
 aliases:
 - ailt
 - al't

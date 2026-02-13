@@ -122,7 +122,7 @@ dv_has_:
     ba: Һиндостани
     ban: Basa Hindustani
     be: хіндустані
-    be-tarask: гіндустані
+    be_tarask: гіндустані
     bg: Хиндустани
     bho: हिंदुस्तानी भाषा
     bn: হিন্দুস্তানি ভাষা
@@ -140,8 +140,8 @@ dv_has_:
     diq: Zıwanê Hinduski
     el: Ινδουστανική γλώσσα
     en: Hindustani
-    en-ca: Hindustani
-    en-gb: Hindustani
+    en_ca: Hindustani
+    en_gb: Hindustani
     eo: Hindustana lingvo
     es: indostánico
     et: hindustani keel
@@ -204,7 +204,7 @@ dv_has_:
     pnb: ہندستانی
     ps: هندوستاني ژبه
     pt: Língua hindustâni
-    pt-br: Língua hindustâni
+    pt_br: Língua hindustâni
     qu: Hindustani
     rki: အူရဒူဘာသာ
     ro: Limba hindustană
@@ -222,8 +222,8 @@ dv_has_:
     sms: hindustaanǩiõll
     sq: Gjuha hindustani
     sr: хинди-урду
-    sr-ec: хинди-урду
-    sr-el: hindi-urdu
+    sr_ec: хинди-урду
+    sr_el: hindi-urdu
     sv: hindustani
     sw: Kihindustani
     ta: இந்துசுத்தானி மொழி
@@ -235,8 +235,8 @@ dv_has_:
     tok: toki Intusan
     tr: Hindustânî
     tt: һиндстани
-    tt-cyrl: һиндстани
-    tt-latn: hindstani
+    tt_cyrl: һиндстани
+    tt_latn: hindstani
     udm: инди кылъёс
     uk: гіндустані
     ur: ہندوستانی

@@ -90,7 +90,7 @@ dv_has_:
     az: Körlinq
     ba: кёрлинг
     be: кёрлінг
-    be-tarask: кэрлінг
+    be_tarask: кэрлінг
     bg: Кърлинг
     bs: Karling
     ca: cúrling
@@ -98,12 +98,12 @@ dv_has_:
     cy: Cwrlo
     da: curling
     de: Curling
-    de-ch: Curling
+    de_ch: Curling
     diq: Korling
     el: κέρλινγκ
     en: curling
-    en-ca: curling
-    en-gb: curling
+    en_ca: curling
+    en_gb: curling
     en-us: curling
     eo: glitŝtonludo
     es: curling
@@ -146,7 +146,7 @@ dv_has_:
     pl: Curling
     pms: Curling
     pt: curling
-    pt-br: Curling
+    pt_br: Curling
     rm: Curlar
     ro: Curling
     ru: кёрлинг
@@ -159,7 +159,7 @@ dv_has_:
     sl: curling
     sq: Karlingu
     sr: керлинг
-    sr-ec: карлинг
+    sr_ec: карлинг
     sv: curling
     ta: சுருள்வு
     tg: Сангсуронӣ
@@ -174,9 +174,9 @@ dv_has_:
     wuu: 冰壶
     yue: 冰壺
     zh: 冰壺
-    zh-cn: 冰壶
-    zh-hans: 冰壶
-    zh-hant: 冰壺
+    zh_cn: 冰壶
+    zh_hans: 冰壶
+    zh_hant: 冰壺
 ---
 # [[Curling]] 
 

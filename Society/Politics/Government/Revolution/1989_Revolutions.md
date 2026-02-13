@@ -82,7 +82,7 @@ dv_has_:
     ast: Revoluciones de 1989
     ba: 1989 йылғы революциялар
     be: Восень народаў
-    be-tarask: Восень народаў
+    be_tarask: Восень народаў
     bg: Революции от 1989 г.
     bs: Pad komunizma
     ca: Revolucions de 1989
@@ -140,12 +140,12 @@ dv_has_:
     wuu: 东欧剧变
     yue: 東歐劇變
     zh: 东欧剧变
-    zh-cn: 东欧剧变
-    zh-hans: 东欧剧变
-    zh-hant: 東歐劇變
-    zh-hk: 東歐劇變
-    zh-sg: 东欧剧变
-    zh-tw: 東歐劇變
+    zh_cn: 东欧剧变
+    zh_hans: 东欧剧变
+    zh_hant: 東歐劇變
+    zh_hk: 東歐劇變
+    zh_sg: 东欧剧变
+    zh_tw: 東歐劇變
 ---
 # [[1989_Revolutions]] 
 

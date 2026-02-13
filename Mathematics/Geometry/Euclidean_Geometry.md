@@ -116,7 +116,7 @@ dv_has_:
     ba: Евклид геометрияһы
     bcl: Euclidean geometry
     be: Эўклідава геаметрыя
-    be-tarask: Эўклідава геамэтрыя
+    be_tarask: Эўклідава геамэтрыя
     bg: Евклидова геометрия
     bn: ইউক্লিডীয় জ্যামিতি
     ca: geometria euclidiana
@@ -155,7 +155,7 @@ dv_has_:
     kn: ಯುಕ್ಲಿಡ್ 'ನ ಜ್ಯಾಮಿತಿ
     ko: 유클리드 기하학
     ku: geometriya iqlîdî
-    ku-latn: geometriya iqlîdî
+    ku_latn: geometriya iqlîdî
     ky: Евклид геометриясы
     la: geometria Euclidea
     lfn: jeometria euclidal
@@ -175,7 +175,7 @@ dv_has_:
     pl: geometria euklidesowa
     pms: Geometrìa euclidéa
     pt: geometria euclidiana
-    pt-br: geometria euclidiana
+    pt_br: geometria euclidiana
     ro: geometrie euclidiană
     ru: евклидова геометрия
     rue: Евклидовска геометрия
@@ -188,8 +188,8 @@ dv_has_:
     smn: euklidisâš geometria
     sq: Gjeometria Euklidiane
     sr: Еуклидова геометрија
-    sr-ec: Еуклидова геометрија
-    sr-el: Euklidova geometrija
+    sr_ec: Еуклидова геометрија
+    sr_el: Euklidova geometrija
     sv: euklidisk geometri
     ta: யூக்ளீட் வடிவியல்
     tg: Ҳандасаи уқлидусӣ
@@ -203,12 +203,12 @@ dv_has_:
     yue: 歐幾里得幾何
     zgh: ⵜⴰⵏⵣⴳⴳⵉⵜ ⵜⵓⴽⵍⵉⴷⵜ
     zh: 歐幾里得幾何
-    zh-cn: 欧几里得几何
-    zh-hans: 欧几里得几何
-    zh-hant: 歐幾里得幾何
-    zh-hk: 歐幾里得幾何
-    zh-sg: 欧几里得几何
-    zh-tw: 歐幾里得幾何
+    zh_cn: 欧几里得几何
+    zh_hans: 欧几里得几何
+    zh_hant: 歐幾里得幾何
+    zh_hk: 歐幾里得幾何
+    zh_sg: 欧几里得几何
+    zh_tw: 歐幾里得幾何
 ---
 # [[Euclidean_Geometry]] 
 

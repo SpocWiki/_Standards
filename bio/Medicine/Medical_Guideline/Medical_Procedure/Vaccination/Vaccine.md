@@ -164,7 +164,7 @@ dv_has_:
     ba: вакцина
     bcl: bakuna
     be: вакцына
-    be-tarask: вакцына
+    be_tarask: вакцына
     bg: ваксина
     bho: टीका
     bn: টিকা
@@ -182,8 +182,8 @@ dv_has_:
     de: Impfstoff
     el: εμβόλιο
     en: vaccine
-    en-ca: vaccine
-    en-gb: vaccine
+    en_ca: vaccine
+    en_gb: vaccine
     eo: vakcino
     es: vacuna
     et: vaktsiin
@@ -215,18 +215,18 @@ dv_has_:
     ka: ვაქცინა
     kab: tigezt
     kk: поливакцина
-    kk-arab: پولىيۆاكتسىينا
+    kk_arab: پولىيۆاكتسىينا
     kk-cn: پولىيۆاكتسىينا
-    kk-cyrl: вакцина
+    kk_cyrl: вакцина
     kk-kz: поливакцина
-    kk-latn: vakcïna
+    kk_latn: vakcïna
     kk-tr: polïvakcïna
     km: វ៉ាក់សាំង
     kn: ಲಸಿಕೆ
     ko: 백신
     ko-kp: 왁찐
     ku: kutan
-    ku-latn: vaksîn
+    ku_latn: vaksîn
     ky: вакцина
     la: vaccina
     lmo: vacin
@@ -241,7 +241,7 @@ dv_has_:
     mn: бакцин
     mr: लस
     ms: vaksin
-    ms-arab: ۏکسين
+    ms_arab: ۏکسين
     nan: e̍k-biâu
     nb: vaksine
     nds: Impstoff
@@ -257,7 +257,7 @@ dv_has_:
     pnb: ویکسین
     ps: واکسين
     pt: vacina
-    pt-br: vacina
+    pt_br: vacina
     ro: vaccin
     ru: вакцина
     rue: вакцина
@@ -277,8 +277,8 @@ dv_has_:
     sn: ne mbatemba
     sq: vaksina
     sr: вакцина
-    sr-ec: вакцина
-    sr-el: vakcina
+    sr_ec: вакцина
+    sr_el: vakcina
     su: vaksin
     sv: vaccin
     sw: chanjo
@@ -303,12 +303,12 @@ dv_has_:
     yi: וואקצין
     yue: 疫苗
     zh: 疫苗
-    zh-cn: 疫苗
-    zh-hans: 疫苗
-    zh-hant: 疫苗
-    zh-hk: 疫苗
-    zh-sg: 疫苗
-    zh-tw: 疫苗
+    zh_cn: 疫苗
+    zh_hans: 疫苗
+    zh_hant: 疫苗
+    zh_hk: 疫苗
+    zh_sg: 疫苗
+    zh_tw: 疫苗
     zu: Ikhambi lokugoma
 ---
 # [[Vaccine]]  

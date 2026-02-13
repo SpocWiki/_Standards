@@ -160,7 +160,7 @@ dv_has_:
     ba: гуманитар фәндәр
     bar: Geisteswissnschåft
     be: гуманітарныя навукі
-    be-tarask: гуманітарныя навукі
+    be_tarask: гуманітарныя навукі
     bg: хуманитарни науки
     bn: মানববিদ্যা
     br: skiantoù an den
@@ -174,11 +174,11 @@ dv_has_:
     da: humaniora
     de: Humanities
     de-at: Humanities
-    de-ch: Humanities
+    de_ch: Humanities
     el: ανθρωπιστικές επιστήμες
     en: humanities
-    en-ca: humanities
-    en-gb: humanities
+    en_ca: humanities
+    en_gb: humanities
     eo: homa scienco
     es: humanidades
     et: humanitaarteadused
@@ -218,7 +218,7 @@ dv_has_:
     ml: ഹ്യുമാനിറ്റീസ്
     mr: मानव्यविद्या
     ms: kemanusiaan
-    ms-arab: کماءنسياءن
+    ms_arab: کماءنسياءن
     mt: studji umanistiċi
     nan: jîn-bûn-ha̍k
     nb: humaniora
@@ -249,19 +249,19 @@ dv_has_:
     sms: humaniistlaž tiõđ
     sq: shkencë humane
     sr: хуманистичке науке
-    sr-ec: хуманистичке науке
-    sr-el: humanističke nauke
+    sr_ec: хуманистичке науке
+    sr_el: humanističke nauke
     sv: humaniora
     tcy: ಮಾನವಿಕ ಶಾಸ್ತ್ರ
     te: మానవీయ శాస్త్రాలు
     tg: фанҳои гуманитарӣ
-    tg-cyrl: илмҳои гуманитарӣ
+    tg_cyrl: илмҳои гуманитарӣ
     th: มนุษยศาสตร์
     tl: humanidades
     tly: humanitar elmon
     tr: beşeri bilimler
     tt: гуманитар фәннәр
-    tt-cyrl: һуманитар фәннәр
+    tt_cyrl: һуманитар фәннәр
     uk: гуманітарні науки
     ur: انسانیات
     uz: gumanitar fanlar
@@ -272,14 +272,14 @@ dv_has_:
     yue: 人文學
     za: yinzvwnz yozgoh
     zh: 人文學科
-    zh-cn: 人文学科
-    zh-hans: 人文学科
-    zh-hant: 人文學科
-    zh-hk: 人文學科
-    zh-mo: 人文學科
+    zh_cn: 人文学科
+    zh_hans: 人文学科
+    zh_hant: 人文學科
+    zh_hk: 人文學科
+    zh_mo: 人文學科
     zh-my: 人文学科
-    zh-sg: 人文学科
-    zh-tw: 人文學科
+    zh_sg: 人文学科
+    zh_tw: 人文學科
     zu: Ezoluntu
 ---
 # [[Humanities]] 

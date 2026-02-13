@@ -150,7 +150,7 @@ dv_has_:
     ban: widyalaksana mogbog
     bcl: Seudosiyensya
     be: псеўданавука
-    be-tarask: псэўданавука
+    be_tarask: псэўданавука
     bew: Èlmu bodong
     bg: Лъженаука
     bho: सूडोसाइंस
@@ -164,7 +164,7 @@ dv_has_:
     de: Pseudowissenschaft
     el: ψευδοεπιστήμη
     en: pseudoscience
-    en-gb: pseudoscience
+    en_gb: pseudoscience
     eo: pseŭdoscienco
     es: pseudociencia
     et: pseudoteadus
@@ -211,7 +211,7 @@ dv_has_:
     pl: pseudonauka
     pms: Pseudo-siensa
     pt: pseudociência
-    pt-br: pseudociência
+    pt_br: pseudociência
     qu: Yanqa hamut'ay
     ro: pseudoștiință
     ru: псевдонаука
@@ -225,8 +225,8 @@ dv_has_:
     sms: pseudotiõđ
     sq: Pseudoshkenca
     sr: псеудонаука
-    sr-ec: Псеудонаука
-    sr-el: Pseudonauka
+    sr_ec: Псеудонаука
+    sr_el: Pseudonauka
     sv: pseudovetenskap
     sw: Sayansi bandia
     szl: Pseudonauka
@@ -236,8 +236,8 @@ dv_has_:
     tl: Pseudoscience
     tr: sözdebilim
     tt: псевдофән
-    tt-cyrl: псевдо-фән
-    tt-latn: psewdo-fän
+    tt_cyrl: псевдо-фән
+    tt_latn: psewdo-fän
     uk: псевдонаука
     ur: کاذب سائنس
     uz: Soxta fan
@@ -245,9 +245,9 @@ dv_has_:
     wuu: 伪科学
     yue: 假科學
     zh: 伪科学
-    zh-hans: 伪科学
-    zh-hant: 偽科學
-    zh-hk: 偽科學
+    zh_hans: 伪科学
+    zh_hant: 偽科學
+    zh_hk: 偽科學
 ---
 # [[Pseudoscience]] 
 

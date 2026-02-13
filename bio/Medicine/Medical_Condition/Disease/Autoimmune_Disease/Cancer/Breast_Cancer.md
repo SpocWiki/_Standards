@@ -247,7 +247,7 @@ dv_has_:
     az: süd vəzi xərçəngi
     azb: دؤش سرطانی
     be: рак малочнай залозы
-    be-tarask: рак малочнай залозы
+    be_tarask: рак малочнай залозы
     bg: Рак на гърдата
     bn: স্তন ক্যান্সার
     br: Krign-bev ar vronn
@@ -260,12 +260,12 @@ dv_has_:
     dag: biɛha dɔro
     de: Brustkrebs
     de-at: Brustkrebs
-    de-ch: Brustkrebs
+    de_ch: Brustkrebs
     diq: Qanserê çıçey
     el: καρκίνος του μαστού
     en: breast cancer
-    en-ca: Breast cancer
-    en-gb: breast cancer
+    en_ca: Breast cancer
+    en_gb: breast cancer
     eo: mama kancero
     es: cáncer de mama
     et: rinnavähk
@@ -321,7 +321,7 @@ dv_has_:
     pl: rak sutka
     ps: د سينې سرطان
     pt: cancro da mama
-    pt-br: câncer de mama
+    pt_br: câncer de mama
     rki: ရင်သားကင်ဆာ
     ro: cancer mamar
     ru: рак молочной железы
@@ -339,8 +339,8 @@ dv_has_:
     sms: râʹddpoorrikõpp
     sq: Kanceri i gjirit
     sr: рак дојке
-    sr-ec: Рак дојке
-    sr-el: Rak dojke
+    sr_ec: Рак дојке
+    sr_el: Rak dojke
     sv: bröstcancer
     ta: மார்பகப் புற்றுநோய்
     tcy: ಮಿರೆ ಕ್ಯಾನ್ಸರ್
@@ -362,12 +362,12 @@ dv_has_:
     yue: 乳癌
     za: Aizcwng Cij
     zh: 乳癌
-    zh-cn: 乳腺癌
-    zh-hans: 乳腺癌
-    zh-hant: 乳癌
-    zh-hk: 乳癌
-    zh-sg: 乳腺癌
-    zh-tw: 乳癌
+    zh_cn: 乳腺癌
+    zh_hans: 乳腺癌
+    zh_hant: 乳癌
+    zh_hk: 乳癌
+    zh_sg: 乳腺癌
+    zh_tw: 乳癌
 ---
 # [[Breast_Cancer]] 
 

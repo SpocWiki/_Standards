@@ -108,7 +108,7 @@ dv_has_:
     pap: Rick Rubin
     pl: Rick Rubin
     pt: Rick Rubin
-    pt-br: Rick Rubin
+    pt_br: Rick Rubin
     ro: Rick Rubin
     ru: Рик Рубин
     sk: Rick Rubin
@@ -121,9 +121,9 @@ dv_has_:
     uz: Rubin, Rik
     vi: Rick Rubin
     zh: 瑞克·魯賓
-    zh-cn: 里克·鲁宾
-    zh-hans: 里克·罗宾
-    zh-hant: 里克·魯賓
+    zh_cn: 里克·鲁宾
+    zh_hans: 里克·罗宾
+    zh_hant: 里克·魯賓
 ---
 # [[Rubin,Rick]] 
 

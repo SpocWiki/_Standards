@@ -102,7 +102,7 @@ dv_has_:
     arz: تيرى جيليام
     ast: Terry Gilliam
     be: Тэры Гіліям
-    be-tarask: Тэры Гіліям
+    be_tarask: Тэры Гіліям
     bg: Тери Гилиъм
     br: Terry Gilliam
     bs: Terry Gilliam
@@ -114,8 +114,8 @@ dv_has_:
     de: Terry Gilliam
     el: Τέρι Γκίλιαμ
     en: Terry Gilliam
-    en-ca: Terry Gilliam
-    en-gb: Terry Gilliam
+    en_ca: Terry Gilliam
+    en_gb: Terry Gilliam
     eo: Terry Gilliam
     es: Terry Gilliam
     eu: Terry Gilliam
@@ -155,7 +155,7 @@ dv_has_:
     pap: Terry Gilliam
     pl: Terry Gilliam
     pt: Terry Gilliam
-    pt-br: Terry Gilliam
+    pt_br: Terry Gilliam
     ro: Terry Gilliam
     ru: Терри Гиллиам
     sco: Terry Gilliam
@@ -164,7 +164,7 @@ dv_has_:
     sl: Terry Gilliam
     sq: Terry Gilliam
     sr: Тери Гилијам
-    sr-ec: Тери Гилијам
+    sr_ec: Тери Гилијам
     sv: Terry Gilliam
     ta: டெர்ரி கிலியம்
     te: టెర్రీ గిలియమ్
@@ -180,9 +180,9 @@ dv_has_:
     yo: Terry Gilliam
     yue: 泰利基咸
     zh: 特里·吉列姆
-    zh-cn: 特里·吉列姆
-    zh-hans: 特里·吉列姆
-    zh-sg: 泰利·基廉
+    zh_cn: 特里·吉列姆
+    zh_hans: 特里·吉列姆
+    zh_sg: 泰利·基廉
 ---
 # [[Gilliam,Terry]] 
 

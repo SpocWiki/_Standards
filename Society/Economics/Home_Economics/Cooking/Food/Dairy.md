@@ -91,7 +91,7 @@ dv_has_:
     af: melkery
     ar: اللبانة
     ast: Llechería
-    be-tarask: малочная гаспадарка
+    be_tarask: малочная гаспадарка
     bew: Guji
     bg: мандра
     br: Laezhti
@@ -153,7 +153,7 @@ dv_has_:
     yue: 奶農
     zh: 乳業公司
     zh-cn: 乳业
-    zh-hans: 乳业
+    zh_hans: 乳业
 ---
 ## #has_/text_of_/abstract 
 

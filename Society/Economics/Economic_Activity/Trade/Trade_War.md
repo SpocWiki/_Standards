@@ -60,7 +60,7 @@ dv_has_:
     ar: حرب تجارية
     ast: guerra comercial
     az: Ticarət müharibəsi
-    be-tarask: гандлёвая вайна
+    be_tarask: гандлёвая вайна
     bg: търговска война
     bn: বাণিজ্য যুদ্ধ
     ca: guerra comercial

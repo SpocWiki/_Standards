@@ -154,7 +154,7 @@ dv_has_:
     bbc: Pangaronghoman
     bcl: Imprenta
     be: друк
-    be-tarask: друк
+    be_tarask: друк
     bg: Печат
     bn: মুদ্রণ
     br: moullañ
@@ -170,8 +170,8 @@ dv_has_:
     de: Buchdruck
     el: τυπογραφία
     en: printing
-    en-ca: printing
-    en-gb: printing
+    en_ca: printing
+    en_gb: printing
     eo: presarto
     es: impresión
     et: Trükikunst
@@ -219,7 +219,7 @@ dv_has_:
     nan: Ìn-soat
     nb: trykking
     nds: Bookdruck
-    nds-nl: Bookdrukkunst
+    nds_nl: Bookdrukkunst
     new: ध्वायेज्या
     nl: boekdrukkunst
     nn: trykking
@@ -231,7 +231,7 @@ dv_has_:
     pnb: چھپائی
     ps: چاپ
     pt: impressão
-    pt-br: impressão
+    pt_br: impressão
     qu: Liwru ch'ipachina
     ro: tipărire
     ru: печатание
@@ -246,7 +246,7 @@ dv_has_:
     sn: Kutsikisa
     sq: Shtypi
     sr: штампарство
-    sr-ec: штампарство
+    sr_ec: штампарство
     sv: tryckteknik
     sw: Uchapaji
     ta: அச்சிடல்
@@ -256,7 +256,7 @@ dv_has_:
     tok: sitelen sama
     tr: matbaacılık
     tt: матбагачылык
-    tt-cyrl: матбагачылык
+    tt_cyrl: матбагачылык
     udm: печатлан
     uk: друкарство
     ur: طباعت
@@ -269,9 +269,9 @@ dv_has_:
     yue: 印刷
     za: Yaenq
     zh: 印刷
-    zh-cn: 印刷
-    zh-hans: 印刷
-    zh-hant: 印刷
+    zh_cn: 印刷
+    zh_hans: 印刷
+    zh_hant: 印刷
 ---
 # [[Printing]] 
 

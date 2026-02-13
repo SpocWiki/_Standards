@@ -8,7 +8,7 @@ dv_has_:
     az: Kitç
     bar: Kitsch
     be: Кіч
-    be-tarask: кіч
+    be_tarask: кіч
     bg: Кич
     br: Kitsch
     ca: Kitsch
@@ -16,11 +16,11 @@ dv_has_:
     da: Kitsch
     de: Kitsch
     de-at: Kitsch
-    de-ch: Kitsch
+    de_ch: Kitsch
     el: Κιτς
     en: kitsch
-    en-ca: kitsch
-    en-gb: kitsch
+    en_ca: kitsch
+    en_gb: kitsch
     en-us: kitsch
     eo: Kiĉo
     es: kitsch
@@ -52,7 +52,7 @@ dv_has_:
     nn: Kitsch
     pl: Kicz
     pt: kitsch
-    pt-br: kitsch
+    pt_br: kitsch
     ro: Kitsch
     ru: Китч
     sh: Kič
@@ -60,8 +60,8 @@ dv_has_:
     sl: kič
     sq: Kiçi
     sr: Кич
-    sr-ec: кич
-    sr-el: kič
+    sr_ec: кич
+    sr_el: kič
     su: Kitsch
     sv: kitsch
     tr: Kitsch
@@ -69,12 +69,12 @@ dv_has_:
     vi: Kitsch
     yue: 拙劣作品
     zh: 媚俗
-    zh-cn: 媚俗
-    zh-hans: 媚俗
-    zh-hant: 媚俗
-    zh-hk: 媚俗
-    zh-sg: 媚俗
-    zh-tw: 媚俗
+    zh_cn: 媚俗
+    zh_hans: 媚俗
+    zh_hant: 媚俗
+    zh_hk: 媚俗
+    zh_sg: 媚俗
+    zh_tw: 媚俗
 aliases:
 - giccs
 - Gýč

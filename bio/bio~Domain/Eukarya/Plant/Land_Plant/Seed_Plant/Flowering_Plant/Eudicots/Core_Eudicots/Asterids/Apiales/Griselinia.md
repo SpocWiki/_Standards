@@ -27,8 +27,8 @@ dv_has_:
     cy: Griselinia
     de: Griselinia
     en: Griselinia
-    en-ca: Griselinia
-    en-gb: Griselinia
+    en_ca: Griselinia
+    en_gb: Griselinia
     eo: Griselinia
     es: Griselinia
     eu: Griselinia
@@ -51,7 +51,7 @@ dv_has_:
     oc: Griselinia
     pl: Griseliniaceae
     pt: Griselinia
-    pt-br: Griselinia
+    pt_br: Griselinia
     ro: Griselinia
     ru: Гризелиния
     sq: Griselinia
@@ -61,12 +61,12 @@ dv_has_:
     vo: Griselinia
     war: Griselinia
     zh: 南茱萸属
-    zh-cn: 夷茱萸科
-    zh-hans: 夷茱萸科
-    zh-hant: 夷茱萸科
-    zh-hk: 夷茱萸科
-    zh-sg: 夷茱萸科
-    zh-tw: 夷茱萸科
+    zh_cn: 夷茱萸科
+    zh_hans: 夷茱萸科
+    zh_hant: 夷茱萸科
+    zh_hk: 夷茱萸科
+    zh_sg: 夷茱萸科
+    zh_tw: 夷茱萸科
 ---
 # [[Griselinia]] 
 

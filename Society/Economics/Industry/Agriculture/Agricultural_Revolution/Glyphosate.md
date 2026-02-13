@@ -38,7 +38,7 @@ dv_has_:
     ar: غليفوسات
     ast: Glifosato
     azb: قلیفسات
-    be-tarask: гліфасат
+    be_tarask: гліфасат
     bg: Глифозат
     bs: Glifosat
     ca: glifosat
@@ -47,8 +47,8 @@ dv_has_:
     de: Glyphosat
     el: Γλυφοσάτη
     en: glyphosate
-    en-ca: Glyphosate
-    en-gb: Glyphosate
+    en_ca: Glyphosate
+    en_gb: Glyphosate
     eo: glifozato
     es: Glifosato
     et: Glüfosaat
@@ -73,7 +73,7 @@ dv_has_:
     oc: Glifosat
     pl: glifosat
     pt: glifosato
-    pt-br: Glifosato
+    pt_br: Glifosato
     ro: Glifosat
     ru: глифосат
     sh: Glifosat
@@ -89,12 +89,12 @@ dv_has_:
     vi: Glyphosat
     wa: Glifozate
     zh: 草甘膦
-    zh-cn: 草甘膦
-    zh-hans: 草甘膦
-    zh-hant: 草甘膦
-    zh-hk: 草甘膦
-    zh-sg: 草甘膦
-    zh-tw: 草甘膦
+    zh_cn: 草甘膦
+    zh_hans: 草甘膦
+    zh_hant: 草甘膦
+    zh_hk: 草甘膦
+    zh_sg: 草甘膦
+    zh_tw: 草甘膦
 ---
 ## Detergents as a Source of  Glyphosate 
 

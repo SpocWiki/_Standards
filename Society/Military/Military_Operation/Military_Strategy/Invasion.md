@@ -75,7 +75,7 @@ dv_has_:
     ar: غزو
     ast: Invasión
     bcl: Pagsakyada
-    be-tarask: уварваньне
+    be_tarask: уварваньне
     bg: Нашествие
     br: aloubadeg
     bs: invazija
@@ -139,12 +139,12 @@ dv_has_:
     xmf: მინოკათუა
     yue: 侵略
     zh: 入侵
-    zh-cn: 入侵
-    zh-hans: 入侵
-    zh-hant: 入侵
-    zh-hk: 入侵
-    zh-sg: 入侵
-    zh-tw: 入侵
+    zh_cn: 入侵
+    zh_hans: 入侵
+    zh_hant: 入侵
+    zh_hk: 入侵
+    zh_sg: 入侵
+    zh_tw: 入侵
 ---
 # [[Invasion]] 
 

@@ -331,7 +331,7 @@ dv_has_:
     ba: Леонардо да Винчи
     bcl: Leonardo Da Vinci
     be: Леанарда да Вінчы
-    be-tarask: Леанарда да Вінчы
+    be_tarask: Леанарда да Вінчы
     bg: Леонардо да Винчи
     bho: लियोनार्डो डा विंची
     bn: লিওনার্দো দা ভিঞ্চি
@@ -341,7 +341,7 @@ dv_has_:
     ckb: لیۆناردۆ دا ڤینچی
     co: Leunardu da Vinci
     crh: Leonardo da Vinçi
-    crh-latn: Leonardo da Vinçi
+    crh_latn: Leonardo da Vinçi
     cs: Leonardo da Vinci
     cv: Леонардо да Винчи
     de: Leonardo da Vinci
@@ -418,8 +418,8 @@ dv_has_:
     sk: Leonardo da Vinci
     sq: Leonardo da Vinçi
     sr: Леонардо да Винчи
-    sr-ec: Леонардо да Винчи
-    sr-el: Leonardo da Vinči
+    sr_ec: Леонардо да Винчи
+    sr_el: Leonardo da Vinči
     sv: Leonardo da Vinci
     szy: Li-aow-na-tow.Ta-wen-si
     ta: லியொனார்டோ டா வின்சி
@@ -446,14 +446,14 @@ dv_has_:
     yue: 達文西
     zgh: ⵍⵢⵓⵏⴰⵕⴹⵓ ⴷⴰ ⴼⵉⵏⵜⵛⵉ
     zh: 列奥纳多·达·芬奇
-    zh-cn: 列奥纳多·达·芬奇
-    zh-hans: 列奥纳多·达·芬奇
-    zh-hant: 李奧納多·達文西
-    zh-hk: 李安納度·達文西
-    zh-mo: 李安納度·達文西
+    zh_cn: 列奥纳多·达·芬奇
+    zh_hans: 列奥纳多·达·芬奇
+    zh_hant: 李奧納多·達文西
+    zh_hk: 李安納度·達文西
+    zh_mo: 李安納度·達文西
     zh-my: 列奥纳多·达·芬奇
-    zh-sg: 列奥纳多·达·芬奇
-    zh-tw: 李奧納多·達文西
+    zh_sg: 列奥纳多·达·芬奇
+    zh_tw: 李奧納多·達文西
 ---
 # [[Vinci,Leonardo_da]] 
 

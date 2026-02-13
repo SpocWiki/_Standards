@@ -191,7 +191,7 @@ dv_has_:
     ban: Ulysses S. Grant
     bcl: Ulysses S. Grant
     be: Уліс Сімсан Грант
-    be-tarask: Уліс Сымсан Грант
+    be_tarask: Уліс Сымсан Грант
     bg: Юлисис Грант
     bi: Ulysses S. Grant
     bn: ইউলিসিস এস. গ্রান্ট
@@ -208,14 +208,14 @@ dv_has_:
     cy: Ulysses S. Grant
     da: Ulysses S. Grant
     de: Ulysses S. Grant
-    de-ch: Ulysses S. Grant
+    de_ch: Ulysses S. Grant
     diq: Ulysses S. Grant
     dsb: Ulysses S. Grant
     dv: ޔުލިސެސް ސ. ގްރަންޓް
     el: Οδυσσεύς Γκραντ
     en: Ulysses S. Grant
-    en-ca: Ulysses S. Grant
-    en-gb: Ulysses S. Grant
+    en_ca: Ulysses S. Grant
+    en_gb: Ulysses S. Grant
     eo: Ulysses S. Grant
     es: Ulysses S. Grant
     et: Ulysses S. Grant
@@ -291,7 +291,7 @@ dv_has_:
     pnb: اولیسس ایس گرانٹ
     ps: یولیسیز سایمن ګرانټ
     pt: Ulysses S. Grant
-    pt-br: Ulysses S. Grant
+    pt_br: Ulysses S. Grant
     rm: Ulysses S. Grant
     rmf: Ulysses S. Grant
     ro: Ulysses S. Grant

@@ -84,7 +84,7 @@ dv_has_:
     ast: Acorazáu
     az: Linkor
     be: Лінкор
-    be-tarask: лінкар
+    be_tarask: лінкар
     bg: линеен кораб
     bn: ব্যাটেলশিপ
     bs: Bojni brod
@@ -94,10 +94,10 @@ dv_has_:
     cy: llong ryfel
     da: slagskib
     de: Schlachtschiff
-    de-ch: Schlachtschiff
+    de_ch: Schlachtschiff
     el: Θωρηκτό
     en: battleship
-    en-ca: battleship
+    en_ca: battleship
     eo: batalŝipo
     es: acorazado
     et: Lahingulaev
@@ -132,7 +132,7 @@ dv_has_:
     pl: pancernik
     pms: Corassà
     pt: couraçado
-    pt-br: encouraçado
+    pt_br: encouraçado
     ro: Cuirasat
     ru: линейный корабль
     sat: ᱞᱟ.ᱲᱦᱟ.ᱭ ᱡᱟᱦᱟᱡᱽ
@@ -142,8 +142,8 @@ dv_has_:
     sk: Bojová loď
     sl: bojna ladja
     sr: бојни брод
-    sr-ec: бојни брод
-    sr-el: bojni brod
+    sr_ec: бојни брод
+    sr_el: bojni brod
     sv: slagskepp
     th: เรือประจัญบาน
     tr: Zırhlı
@@ -152,12 +152,12 @@ dv_has_:
     wuu: 战列舰
     yue: 戰列艦
     zh: 戰艦
-    zh-cn: 战列舰
-    zh-hans: 战列舰
-    zh-hant: 戰艦
-    zh-hk: 戰艦
-    zh-sg: 战列舰
-    zh-tw: 戰艦
+    zh_cn: 战列舰
+    zh_hans: 战列舰
+    zh_hant: 戰艦
+    zh_hk: 戰艦
+    zh_sg: 战列舰
+    zh_tw: 戰艦
 ---
 # [[Battleship]] 
 

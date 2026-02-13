@@ -74,7 +74,7 @@ dv_has_:
     ar: حركة أبدية
     ast: Móvil perpetuu
     az: Daimi mühərrik
-    be-tarask: вечны рухавік
+    be_tarask: вечны рухавік
     bg: Вечен двигател
     ca: moviment perpetu
     cv: Перпетуум мобиле

@@ -160,7 +160,7 @@ dv_has_:
     azb: هنریک سینکیهویچ
     ba: Генрик Сенкевич
     be: Генрык Сянкевіч
-    be-tarask: Генрык Сянкевіч
+    be_tarask: Генрык Сянкевіч
     bg: Хенрик Сенкевич
     bn: হেনরিক শেঙ্ক্যেভিচ
     br: Henryk Sienkiewicz
@@ -176,8 +176,8 @@ dv_has_:
     ee: Henryk Sienkiewicz
     el: Χένρικ Σιενκιέβιτς
     en: Henryk Sienkiewicz
-    en-ca: Henryk Sienkiewicz
-    en-gb: Henryk Sienkiewicz
+    en_ca: Henryk Sienkiewicz
+    en_gb: Henryk Sienkiewicz
     en-us: Henryk Sienkiewicz
     eo: Henryk Sienkiewicz
     es: Henryk Sienkiewicz
@@ -229,7 +229,7 @@ dv_has_:
     pnb: ہینرک سائنکائیوکز
     ps: هېنريک سېنکېويچ
     pt: Henryk Sienkiewicz
-    pt-br: Henryk Sienkiewicz
+    pt_br: Henryk Sienkiewicz
     qu: Henryk Sienkiewicz
     ro: Henryk Sienkiewicz
     ru: Генрик Сенкевич

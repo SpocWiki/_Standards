@@ -177,7 +177,7 @@ dv_has_:
     ban: HIV
     bcl: HIV
     be: Вірус імунадэфіцыту чалавека
-    be-tarask: ВІЧ
+    be_tarask: ВІЧ
     bg: ХИВ
     bn: এইচআইভি
     bs: HIV
@@ -192,7 +192,7 @@ dv_has_:
     diq: HIV
     el: Ιός ανθρώπινης ανοσοανεπάρκειας
     en: HIV
-    en-gb: HIV
+    en_gb: HIV
     en-us: HIV
     eo: HIV
     es: virus de la inmunodeficiencia humana
@@ -252,7 +252,7 @@ dv_has_:
     pl: wirus zespołu nabytego braku odporności
     ps: اېچ آی وي
     pt: vírus da imunodeficiência humana
-    pt-br: vírus da imunodeficiência humana
+    pt_br: vírus da imunodeficiência humana
     ro: HIV
     ru: вирус иммунодефицита человека
     rw: Virusi itera SIDA/SIDA
@@ -264,8 +264,8 @@ dv_has_:
     sl: HIV
     sq: HIV
     sr: ХИВ
-    sr-ec: ХИВ
-    sr-el: HIV
+    sr_ec: ХИВ
+    sr_el: HIV
     su: HIV
     sv: Hiv
     sw: Virusi vya UKIMWI
@@ -286,7 +286,7 @@ dv_has_:
     yo: Èràn àìtóagbóguntàrùn ènìyàn
     yue: HIV
     zh: 人類免疫缺陷病毒
-    zh-cn: 人体免疫缺陷病毒
+    zh_cn: 人体免疫缺陷病毒
 ---
 # [[HIV]] 
 

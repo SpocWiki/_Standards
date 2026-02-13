@@ -55,7 +55,7 @@ dv_has_:
     ar: نظام لاخطي
     ast: sistema non llinial
     be: нелінейная дынаміка
-    be-tarask: нелінейная дынаміка
+    be_tarask: нелінейная дынаміка
     bn: অরৈখিকতা
     bs: Nelinearni sistem
     ca: sistema no-lineal
@@ -87,7 +87,7 @@ dv_has_:
     nn: Ikkje-lineært system
     pl: układ nieliniowy
     pt: sistema dinâmico não linear
-    pt-br: sistema não linear
+    pt_br: sistema não linear
     ro: sistem de ecuații neliniare
     ru: нелинейная динамика
     sh: Nelinearni sistem
@@ -99,9 +99,9 @@ dv_has_:
     wuu: 非线性系统
     yue: 非線性系統
     zh: 非線性
-    zh-hans: 非线性
-    zh-hant: 非線性
-    zh-hk: 非線性
+    zh_hans: 非线性
+    zh_hant: 非線性
+    zh_hk: 非線性
 ---
 # [[Nonlinear_System]] 
 

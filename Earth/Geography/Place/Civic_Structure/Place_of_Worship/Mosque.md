@@ -211,7 +211,7 @@ dv_has_:
     ba: мәсет
     bcl: Moske
     be: мячэць
-    be-tarask: мячэт
+    be_tarask: мячэт
     bew: Mesigit
     bg: джамия
     bho: महजिद
@@ -280,7 +280,7 @@ dv_has_:
     ks: مسجِد
     ksh: Moschee
     ku: mizgeft
-    ku-latn: mizgeft
+    ku_latn: mizgeft
     kw: mosk
     ky: Мечит
     la: Meschita
@@ -294,7 +294,7 @@ dv_has_:
     lv: mošeja
     lzh: 清真寺
     mai: मस्जिद
-    map-bms: Mesjid
+    map_bms: Mesjid
     mg: Môskea
     min: musajik
     mk: џамија
@@ -305,7 +305,7 @@ dv_has_:
     mr: मशीद
     mrj: Мечеть
     ms: masjid
-    ms-arab: مسجد
+    ms_arab: مسجد
     mt: moskea
     my: ဗလီ
     mzn: مچت
@@ -359,8 +359,8 @@ dv_has_:
     tl: moske
     tr: cami
     tt: мәчет
-    tt-cyrl: мәчет
-    tt-latn: mäçet
+    tt_cyrl: мәчет
+    tt_latn: mäçet
     tw: nkramodan
     udm: Мечеть
     ug: جامى
@@ -377,9 +377,9 @@ dv_has_:
     yo: Mọ́ṣálásí
     yue: 清真寺
     zh: 清真寺
-    zh-cn: 清真寺
-    zh-hans: 清真寺
-    zh-hant: 清真寺
+    zh_cn: 清真寺
+    zh_hans: 清真寺
+    zh_hant: 清真寺
   parent_class: '[[../PlaceOfWorship]]'
   properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'
 dv_is_:

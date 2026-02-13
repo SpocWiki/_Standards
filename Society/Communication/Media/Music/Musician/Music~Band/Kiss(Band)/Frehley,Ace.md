@@ -23,7 +23,7 @@ dv_has_:
     arz: اس فريهلى
     ast: Ace Frehley
     bar: Ace Frehley
-    be-tarask: Эйс Фрэйлі
+    be_tarask: Эйс Фрэйлі
     bg: Ейс Фрели
     ca: Ace Frehley
     cs: Ace Frehley
@@ -57,7 +57,7 @@ dv_has_:
     nup: Ace Frehley
     pl: Ace Frehley
     pt: Ace Frehley
-    pt-br: Ace Frehley
+    pt_br: Ace Frehley
     ru: Эйс Фрейли
     sat: ᱮᱥ ᱯᱷᱨᱮᱦᱞᱤ
     sh: Ace Frehley

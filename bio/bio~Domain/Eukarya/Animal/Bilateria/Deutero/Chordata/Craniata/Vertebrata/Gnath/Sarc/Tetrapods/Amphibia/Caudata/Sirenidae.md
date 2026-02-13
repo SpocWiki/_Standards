@@ -71,7 +71,7 @@ dv_has_:
     oc: Sirenidae
     pl: Syrenowate
     pt: Sirenidae
-    pt-br: Sirenidae
+    pt_br: Sirenidae
     ro: Sirenidae
     ru: сиреновые
     sq: Sirenidae
@@ -83,9 +83,9 @@ dv_has_:
     vo: Sirenidae
     war: Sirenidae
     zh: 鰻螈亞目
-    zh-cn: 鳗螈科
-    zh-hans: 鳗螈科
-    zh-hant: 鰻螈科
+    zh_cn: 鳗螈科
+    zh_hans: 鳗螈科
+    zh_hant: 鰻螈科
 ---
 # Sirenidae
 

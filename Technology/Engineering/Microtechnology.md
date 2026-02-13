@@ -44,7 +44,7 @@ Commons_category: Microtechnology
 dv_has_:
   name_:
     ar: تقانة ميكروية
-    be-tarask: мікратэхналёгія
+    be_tarask: мікратэхналёгія
     bg: Микротехнология
     bn: মাইক্রোপ্রযুক্তি
     bs: Mikrotehnika
@@ -52,8 +52,8 @@ dv_has_:
     cs: mikrotechnologie
     de: Mikrotechnik
     en: microtechnology
-    en-ca: Microtechnology
-    en-gb: microtechnology
+    en_ca: Microtechnology
+    en_gb: microtechnology
     eo: mikroteknologio
     es: Microtecnología
     et: Mikrotehnoloogia
@@ -71,7 +71,7 @@ dv_has_:
     ms: Mikroteknologi
     pms: Microtecnologìa
     pt: microtecnologia
-    pt-br: Microtecnologia
+    pt_br: Microtecnologia
     ru: Микротехнология
     sq: Mikroteknologjia
     sr: Mikrotehnologija

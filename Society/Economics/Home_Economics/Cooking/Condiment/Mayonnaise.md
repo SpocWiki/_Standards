@@ -105,7 +105,7 @@ dv_has_:
     az: mayonez
     ba: майонез
     be: маянэз
-    be-tarask: маянэз
+    be_tarask: маянэз
     bg: майонеза
     bn: মেয়োনিজ
     br: maionez
@@ -117,11 +117,11 @@ dv_has_:
     cy: mayonnaise
     da: mayonnaise
     de: Mayonnaise
-    de-ch: Mayonnaise
+    de_ch: Mayonnaise
     el: μαγιονέζα
     en: mayonnaise
-    en-ca: mayonnaise
-    en-gb: mayonnaise
+    en_ca: mayonnaise
+    en_gb: mayonnaise
     en-us: mayonnaise
     eo: majonezo
     es: mayonesa
@@ -149,11 +149,11 @@ dv_has_:
     jv: mayonès
     ka: მაიონეზი
     kk: майонез
-    kk-arab: مايونەز
+    kk_arab: مايونەز
     kk-cn: مايونەز
-    kk-cyrl: майонез
+    kk_cyrl: майонез
     kk-kz: майонез
-    kk-latn: maýonez
+    kk_latn: maýonez
     kk-tr: maýonez
     kn: ಮೇಯನೇಸ್
     ko: 마요네즈
@@ -178,7 +178,7 @@ dv_has_:
     pa: ਮਾਇਓਨੇਜ਼
     pl: sos majonezowy
     pt: maionese
-    pt-br: maionese
+    pt_br: maionese
     ro: maioneză
     ru: майонез
     sco: mayonnaise
@@ -190,13 +190,13 @@ dv_has_:
     sms: majoneeʹs
     sq: majonezi
     sr: мајонез
-    sr-ec: мајонез
-    sr-el: majonez
+    sr_ec: мајонез
+    sr_el: majonez
     sv: majonnäs
     szl: Majōnez
     ta: மயோனெய்சு
     tg: майонез
-    tg-latn: majonez
+    tg_latn: majonez
     th: มายองเนส
     tl: mayonnaise
     tn: mayonnaise
@@ -211,14 +211,14 @@ dv_has_:
     xh: mayonnaise
     yue: 蛋黃醬
     zh: 蛋黃醬
-    zh-cn: 蛋黄酱
-    zh-hans: 蛋黄酱
-    zh-hant: 美乃滋
-    zh-hk: 沙律醬
-    zh-mo: 沙律醬
+    zh_cn: 蛋黄酱
+    zh_hans: 蛋黄酱
+    zh_hant: 美乃滋
+    zh_hk: 沙律醬
+    zh_mo: 沙律醬
     zh-my: 蛋黄酱
-    zh-sg: 蛋黄酱
-    zh-tw: 美乃滋
+    zh_sg: 蛋黄酱
+    zh_tw: 美乃滋
     zu: mayonezi
 ---
 # [[Mayonnaise]] 

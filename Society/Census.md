@@ -151,7 +151,7 @@ dv_has_:
     azb: نۆفوس ساییمی
     ba: халыҡ иҫәбен алыу
     be: перапіс насельніцтва
-    be-tarask: перапіс насельніцтва
+    be_tarask: перапіс насельніцтва
     bg: преброяване на населението
     bho: जनगणना
     bn: জনশুমারি
@@ -168,8 +168,8 @@ dv_has_:
     diq: Amarê nıfuse
     el: απογραφή
     en: census
-    en-ca: census
-    en-gb: census
+    en_ca: census
+    en_gb: census
     en-us: census
     eo: censo
     es: censo
@@ -216,7 +216,7 @@ dv_has_:
     mn: Хүн амын тооллого судалгаа
     mr: जनगणना
     ms: banci
-    ms-arab: بانچي
+    ms_arab: بانچي
     my: သန်းခေါင်စာရင်း
     mzn: سرشماری
     nan: Phó͘-cha
@@ -235,7 +235,7 @@ dv_has_:
     pnb: لوک گݨݨ
     ps: سرشمېرنه
     pt: censo demográfico
-    pt-br: censo demográfico
+    pt_br: censo demográfico
     qu: Runa yupay
     ro: recensământ
     ru: перепись населения
@@ -256,19 +256,19 @@ dv_has_:
     sn: Kuverengwa kweVanhu
     sq: Census
     sr: попис становништва
-    sr-ec: попис становништва
+    sr_ec: попис становништва
     su: Sénsus
     sv: folkräkning
     sw: Sensa
     ta: மக்கள் தொகைக் கணக்கெடுப்பு
     te: జనాభా గణన
     tg: Барӯйхатгирии аҳолӣ
-    tg-cyrl: барӯйхатгирии аҳолӣ
+    tg_cyrl: барӯйхатгирии аҳолӣ
     th: สำมะโน
     tl: Senso
     tr: nüfus sayımı
     tt: җанисәп
-    tt-cyrl: җанисәп
+    tt_cyrl: җанисәп
     uk: перепис населення
     ur: مردم شماری
     vec: censimento
@@ -279,14 +279,14 @@ dv_has_:
     yi: צענזוס
     yue: 人口普查
     zh: 人口普查
-    zh-cn: 人口普查
-    zh-hans: 人口普查
-    zh-hant: 人口普查
-    zh-hk: 人口普查
-    zh-mo: 人口普查
+    zh_cn: 人口普查
+    zh_hans: 人口普查
+    zh_hant: 人口普查
+    zh_hk: 人口普查
+    zh_mo: 人口普查
     zh-my: 人口普查
-    zh-sg: 人口普查
-    zh-tw: 人口普查
+    zh_sg: 人口普查
+    zh_tw: 人口普查
 ---
 # [[Census]] 
 

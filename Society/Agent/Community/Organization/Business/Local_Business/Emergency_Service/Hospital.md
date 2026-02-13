@@ -176,7 +176,7 @@ title: is_a_hospital Class
 type: Type
 dv_has_:
   name_:
-    aeb-arab: سبيطار
+    aeb_arab: سبيطار
     af: hospitaal
     ami: paisingan
     an: hespital
@@ -194,7 +194,7 @@ dv_has_:
     ban: rumah sakit
     bcl: ospital
     be: бальніца
-    be-tarask: лякарня
+    be_tarask: лякарня
     bg: болница
     bho: अस्पताल
     bn: হাসপাতাল
@@ -214,14 +214,14 @@ dv_has_:
     da: hospital
     dag: ashibiti
     de: Krankenhaus
-    de-ch: Spital
+    de_ch: Spital
     dga: asibiti
     dsb: chórownja
     dtp: lamin pongusapan
     el: νοσοκομείο
     en: hospital
-    en-ca: hospital
-    en-gb: hospital
+    en_ca: hospital
+    en_gb: hospital
     en-us: Hospital
     eo: malsanulejo
     es: hospital
@@ -286,7 +286,7 @@ dv_has_:
     ml: ആശുപത്രി
     mr: हॉस्पिटल
     ms: hospital
-    ms-arab: هوسڤيتل
+    ms_arab: هوسڤيتل
     mt: sptar
     mul: Hospital
     my: ဆေးရုံ
@@ -309,7 +309,7 @@ dv_has_:
     pnb: ہسپتاݪ
     ps: روغتون
     pt: hospital
-    pt-br: hospital
+    pt_br: hospital
     qu: unquna wasi
     rmf: dukadengo huusa
     rmy: naslingro'kher
@@ -335,7 +335,7 @@ dv_has_:
     so: isbitaal
     sq: spital
     sr: болница
-    sr-el: bolnica
+    sr_el: bolnica
     sv: sjukhus
     sw: hospitali
     szl: Lazaryt
@@ -365,9 +365,9 @@ dv_has_:
     yo: ilé ìwòsàn
     yue: 醫院
     zh: 醫院
-    zh-hans: 医院
-    zh-hant: 醫院
-    zh-tw: 醫院
+    zh_hans: 医院
+    zh_hant: 醫院
+    zh_tw: 醫院
 ---
 # [[Hospital]] 
 

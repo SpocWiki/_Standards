@@ -46,7 +46,7 @@ dv_has_:
     ast: Björn Borg
     ay: Björn Borg
     be: Б'ёрн Борг
-    be-tarask: Б’ёрн Борг
+    be_tarask: Б’ёрн Борг
     bg: Бьорн Борг
     bn: বিয়োর্ন বোরি
     bs: Björn Borg
@@ -55,11 +55,11 @@ dv_has_:
     cv: Бьорн Борг
     da: Björn Borg
     de: Björn Borg
-    de-ch: Björn Borg
+    de_ch: Björn Borg
     el: Μπγιορν Μποργκ
     en: Björn Borg
-    en-ca: Björn Borg
-    en-gb: Björn Borg
+    en_ca: Björn Borg
+    en_gb: Björn Borg
     eo: Björn Borg
     es: Björn Borg
     et: Björn Borg
@@ -97,7 +97,7 @@ dv_has_:
     pa: ਬਿਯੋਰਨ ਬੋਗ
     pl: Björn Borg
     pt: Björn Borg
-    pt-br: Björn Borg
+    pt_br: Björn Borg
     qu: Björn Borg
     rm: Björn Borg
     ro: Björn Borg
@@ -109,8 +109,8 @@ dv_has_:
     sl: Björn Borg
     sq: Björn Borg
     sr: Бјерн Борг
-    sr-ec: Бјерн Борг
-    sr-el: Bjern Borg
+    sr_ec: Бјерн Борг
+    sr_el: Bjern Borg
     sv: Björn Borg
     ta: பியார்ன் போர்டி
     te: జాన్ బోర్గ్
@@ -125,12 +125,12 @@ dv_has_:
     yo: Björn Borg
     yue: 波格
     zh: 比约恩·博里
-    zh-cn: 比约恩·博里
-    zh-hans: 比约恩·博里
-    zh-hant: 比約恩·博里
-    zh-hk: 比約·波格
-    zh-sg: 比约恩·博格
-    zh-tw: 比約恩·博格
+    zh_cn: 比约恩·博里
+    zh_hans: 比约恩·博里
+    zh_hant: 比約恩·博里
+    zh_hk: 比約·波格
+    zh_sg: 比约恩·博格
+    zh_tw: 比約恩·博格
 ---
 #has_/time_/started :: 1956-06-06
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)`

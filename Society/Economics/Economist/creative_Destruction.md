@@ -36,7 +36,7 @@ dv_has_:
     uk: творче руйнування
     vi: Hủy diệt sáng tạo
     zh: 创造性破坏
-    zh-hans: Creative destruction
+    zh_hans: Creative destruction
 aliases:
 - creatieve destructie
 - Creative destruction

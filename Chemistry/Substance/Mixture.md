@@ -124,7 +124,7 @@ dv_has_:
     ast: amiestu
     az: Məhlulun qatılığının ifadə üsulları
     be: сумесь
-    be-tarask: сумесь
+    be_tarask: сумесь
     bg: Смес
     bn: মিশ্র পদার্থ
     bs: smjesa
@@ -136,7 +136,7 @@ dv_has_:
     de: Gemisch
     el: μίγμα
     en: mixture
-    en-gb: mixture
+    en_gb: mixture
     eo: miksaĵo
     es: mezcla
     et: segu
@@ -166,7 +166,7 @@ dv_has_:
     kn: ಮಿಶ್ರಣ
     ko: 혼합물
     ks: اۆڑٕرن
-    ku-latn: têkil
+    ku_latn: têkil
     kw: kemyskans
     ky: Аралашма
     la: mixtura
@@ -189,7 +189,7 @@ dv_has_:
     pl: mieszanina
     pnb: آمیزہ
     pt: mistura
-    pt-br: mistura
+    pt_br: mistura
     qu: Chaqrusqa
     ro: amestec
     ru: смесь
@@ -201,8 +201,8 @@ dv_has_:
     sl: zmes
     sq: Përzierja
     sr: смеша
-    sr-ec: Смеше
-    sr-el: Smeše
+    sr_ec: Смеше
+    sr_el: Smeše
     sv: blandning
     ta: கலவை (வேதியியல்)
     tg: омехта
@@ -210,7 +210,7 @@ dv_has_:
     tl: Halo
     tr: karışım
     tt: катнашма
-    tt-cyrl: катнашма
+    tt_cyrl: катнашма
     uk: суміш
     ur: آمیزہ
     vec: mistura
@@ -219,12 +219,12 @@ dv_has_:
     xh: Umxube
     yue: 混合物
     zh: 混合物
-    zh-cn: 混合物
-    zh-hans: 混合物
-    zh-hant: 混合物
-    zh-hk: 混合物
-    zh-sg: 混合物
-    zh-tw: 混合物
+    zh_cn: 混合物
+    zh_hans: 混合物
+    zh_hant: 混合物
+    zh_hk: 混合物
+    zh_sg: 混合物
+    zh_tw: 混合物
 ---
 # [[Mixture]] 
 

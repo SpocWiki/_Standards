@@ -135,7 +135,7 @@ dv_has_:
     ban: hamburger
     bcl: hamburger
     be: гамбургер
-    be-tarask: гамбургер
+    be_tarask: гамбургер
     bew: Berger
     bg: хамбургер
     bn: হ্যামবার্গার
@@ -147,11 +147,11 @@ dv_has_:
     cy: hambyrgyr
     da: burger
     de: Burger
-    de-ch: Hamburger
+    de_ch: Hamburger
     el: χάμπουργκερ
     en: hamburger
-    en-ca: hamburger
-    en-gb: hamburger
+    en_ca: hamburger
+    en_gb: hamburger
     eo: hamburgero
     es: hamburguesa
     et: hamburger
@@ -218,7 +218,7 @@ dv_has_:
     pl: hamburger
     pnb: برگر
     pt: hambúrguer
-    pt-br: hambúrguer
+    pt_br: hambúrguer
     ro: hamburger
     roa-tara: amburgher
     ru: гамбургер
@@ -251,13 +251,13 @@ dv_has_:
     yue: 漢堡包
     zh: 漢堡
     zh-cn: 汉堡
-    zh-hans: 汉堡
-    zh-hant: 漢堡
-    zh-hk: 漢堡包
-    zh-mo: 漢堡包
+    zh_hans: 汉堡
+    zh_hant: 漢堡
+    zh_hk: 漢堡包
+    zh_mo: 漢堡包
     zh-my: 汉堡
-    zh-sg: 汉堡
-    zh-tw: 漢堡
+    zh_sg: 汉堡
+    zh_tw: 漢堡
 ---
 # [[Hamburger]] 
 

@@ -32,7 +32,7 @@ dv_has_:
     oc: Ameloctopus
     pl: Ameloctopus
     pt: Ameloctopus
-    pt-br: Ameloctopus
+    pt_br: Ameloctopus
     ro: Ameloctopus
     ru: Ameloctopus
     sq: Ameloctopus
@@ -41,8 +41,8 @@ dv_has_:
     vo: Ameloctopus
     war: Ameloctopus
     zh: 無墨蛸屬
-    zh-cn: 无墨蛸属
-    zh-hans: 无墨蛸属
+    zh_cn: 无墨蛸属
+    zh_hans: 无墨蛸属
 ---
 ## Phylogeny 
 

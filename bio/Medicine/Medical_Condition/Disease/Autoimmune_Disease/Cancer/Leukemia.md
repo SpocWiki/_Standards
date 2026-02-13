@@ -165,7 +165,7 @@ dv_has_:
     az: leykoz
     azb: قان سرطانی
     be: лейкоз
-    be-tarask: леўкемія
+    be_tarask: леўкемія
     bg: левкемия
     bn: লিউকেমিয়া
     bs: leukemija
@@ -179,7 +179,7 @@ dv_has_:
     dv: ލޭގެ ކެންސަރު
     el: λευχαιμία
     en: leukemia
-    en-gb: leukaemia
+    en_gb: leukaemia
     eo: leŭkemio
     es: leucemia
     et: leukeemia
@@ -224,7 +224,7 @@ dv_has_:
     mk: леукемија
     ml: രക്താർബുദം
     ms: leukemia
-    ms-arab: ليوکيميا
+    ms_arab: ليوکيميا
     myv: верьорма
     nb: leukemi
     nds: Leukämie
@@ -237,7 +237,7 @@ dv_has_:
     pl: białaczka
     ps: ليوکېمي
     pt: leucemia
-    pt-br: leucemia
+    pt_br: leucemia
     rki: သွီးကင်ဆာ
     ro: leucemie
     ru: лейкоз
@@ -254,7 +254,7 @@ dv_has_:
     smn: leukemia
     sq: leukoza
     sr: леукемија
-    sr-ec: леукемија
+    sr_ec: леукемија
     su: leukemia
     sv: leukemi
     sw: lukemia
@@ -277,10 +277,10 @@ dv_has_:
     yue: 血癌
     za: binghlwedhau
     zh: 白血病
-    zh-cn: 白血病
-    zh-hans: 白血病
-    zh-hant: 白血病
-    zh-tw: 白血病
+    zh_cn: 白血病
+    zh_hans: 白血病
+    zh_hant: 白血病
+    zh_tw: 白血病
 ---
 # [[Leukemia]] 
 

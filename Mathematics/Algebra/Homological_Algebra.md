@@ -47,7 +47,7 @@ dv_has_:
   name_:
     ar: جبر تماثلي
     ast: Álxebra homológica
-    be-tarask: гамалягічная альгебра
+    be_tarask: гамалягічная альгебра
     ca: àlgebra homològica
     cs: homologická algebra
     cv: Гомологилле алгебра
@@ -55,8 +55,8 @@ dv_has_:
     de: homologische Algebra
     el: Ομολογική Άλγεβρα
     en: homological algebra
-    en-ca: Homological algebra
-    en-gb: homological algebra
+    en_ca: Homological algebra
+    en_gb: homological algebra
     eo: homologia algebro
     es: álgebra homológica
     eu: aljebra homologiko
@@ -77,7 +77,7 @@ dv_has_:
     nn: homologisk algebra
     pl: algebra homologiczna
     pt: álgebra homológica
-    pt-br: álgebra homológica
+    pt_br: álgebra homológica
     ro: algebră omologică
     ru: гомологическая алгебра
     se: homologalaš algebra

@@ -91,7 +91,7 @@ dv_has_:
     ast: Investigación d'operaciones
     az: əməliyyat araşdırması
     be: даследаванне аперацый
-    be-tarask: дасьледаваньне апэрацыяў
+    be_tarask: дасьледаваньне апэрацыяў
     bg: Изследване на операции
     bn: পরিক্রিয়াদি গবেষণাবিদ্যা
     ca: investigació operativa
@@ -121,13 +121,13 @@ dv_has_:
     mk: оперативно истражување
     ml: ഓപ്പറേഷൻസ് ഗവേഷണം
     ms: penyelidikan pengendalian
-    ms-arab: ڤڽليديقن ڤڠندالين
+    ms_arab: ڤڽليديقن ڤڠندالين
     nb: operasjonsanalyse
     nl: operationeel onderzoek
     nn: Operasjonsanalyse
     pl: badania operacyjne
     pt: investigação operacional
-    pt-br: pesquisa operacional
+    pt_br: pesquisa operacional
     ro: cercetare operațională
     ru: исследование операций
     sh: Operaciona istraživanja
@@ -135,8 +135,8 @@ dv_has_:
     sl: raziskovanje operacij
     sq: Kërkimet operacionale
     sr: Операциона истраживања
-    sr-ec: Операциона истраживања
-    sr-el: Operaciona istraživanja
+    sr_ec: Операциона истраживања
+    sr_el: Operaciona istraživanja
     sv: operationsanalys
     ta: செய்பணி ஆய்வியல்
     th: การวิจัยดำเนินการ
@@ -148,12 +148,12 @@ dv_has_:
     wuu: 运筹学
     yue: 運籌學
     zh: 運籌學
-    zh-cn: 运筹学
-    zh-hans: 运筹学
-    zh-hant: 運籌學
-    zh-hk: 運籌學
-    zh-sg: 运筹学
-    zh-tw: 運籌學
+    zh_cn: 运筹学
+    zh_hans: 运筹学
+    zh_hant: 運籌學
+    zh_hk: 運籌學
+    zh_sg: 运筹学
+    zh_tw: 運籌學
 ---
 # [[Operations_Research]] 
 

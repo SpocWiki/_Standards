@@ -64,7 +64,7 @@ dv_has_:
     ar: ديسيبل
     ast: decibeliu
     az: desibel
-    be-tarask: дэцыбэл
+    be_tarask: дэцыбэл
     bg: децибел
     bn: ডেসিবেল
     bo: དེ་སྦེལ།
@@ -75,8 +75,8 @@ dv_has_:
     de: Dezibel
     el: ντεσιμπέλ
     en: decibel
-    en-ca: decibel
-    en-gb: decibel
+    en_ca: decibel
+    en_gb: decibel
     eo: decibelo
     es: decibel
     et: detsibell
@@ -113,7 +113,7 @@ dv_has_:
     pl: decybel
     pnb: ڈیسیبل
     pt: decibel
-    pt-br: decibel
+    pt_br: decibel
     ro: decibel
     ru: децибел
     sh: decibel

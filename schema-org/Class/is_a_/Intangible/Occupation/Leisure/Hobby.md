@@ -109,7 +109,7 @@ dv_has_:
     ast: afición
     az: hobbi
     be: хобі
-    be-tarask: хобі
+    be_tarask: хобі
     bg: хоби
     bn: শখ
     br: dudi
@@ -120,11 +120,11 @@ dv_has_:
     cy: difyrwaith
     da: hobby
     de: Hobby
-    de-ch: Hobby
+    de_ch: Hobby
     el: χόμπι
     en: hobby
-    en-ca: hobby
-    en-gb: hobby
+    en_ca: hobby
+    en_gb: hobby
     en-us: hobby
     eo: ŝatokupo
     es: afición
@@ -157,7 +157,7 @@ dv_has_:
     kaa: hobbi
     ko: 취미
     ku: hobî
-    ku-latn: hobî
+    ku_latn: hobî
     la: avocamentum
     lb: Hobby
     lt: pomėgis
@@ -165,7 +165,7 @@ dv_has_:
     lv: vaļasprieks
     mk: хоби
     ms: hobi
-    ms-arab: هوبي
+    ms_arab: هوبي
     my: ဝါသနာ
     nan: Hèng-chhù
     nb: hobby
@@ -189,19 +189,19 @@ dv_has_:
     so: balwad
     sq: hobi
     sr: хоби
-    sr-ec: хоби
-    sr-el: hobi
+    sr_ec: хоби
+    sr_el: hobi
     sv: hobby
     ta: பொழுதுபோக்குகளின் பட்டியல்
     te: అభిరుచి
     tg: Хобби
-    tg-cyrl: шавқ
+    tg_cyrl: шавқ
     th: งานอดิเรก
     tl: hilig
     tly: Hobbi
     tr: hobi
     tt: һобби
-    tt-cyrl: һобби
+    tt_cyrl: һобби
     uk: хобі
     ur: مشغلہ
     uz: xobbi
@@ -212,8 +212,8 @@ dv_has_:
     wuu: 兴趣
     yue: 嗜好
     zh: 爱好
-    zh-hans: 爱好
-    zh-hant: 愛好
+    zh_hans: 爱好
+    zh_hant: 愛好
 ---
 # [[Hobby]] 
 

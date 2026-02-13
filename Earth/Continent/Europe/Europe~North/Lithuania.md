@@ -65,7 +65,7 @@ dv_has_:
     ab: Литва
     ace: Lithuania
     ady: Литуание
-    aeb-arab: ليتوانيا
+    aeb_arab: ليتوانيا
     af: Litaue
     am: ሊትዌኒያ
     ami: Lithuania
@@ -89,7 +89,7 @@ dv_has_:
     bar: Litaun
     bcl: Lituanya
     be: Літва
-    be-tarask: Летува
+    be_tarask: Летува
     bew: Litowen
     bg: Литва
     bgn: لیتوانیا
@@ -102,7 +102,7 @@ dv_has_:
     bs: Litvanija
     bxr: Литва
     ca: Lituània
-    cbk-zam: Lituania
+    cbk_zam: Lituania
     cdo: Lithuania
     ce: Литва
     ceb: Litwanya
@@ -112,7 +112,7 @@ dv_has_:
     ckb: لیتوانیا
     co: Lituania
     crh: Litvaniya
-    crh-latn: Litvaniya
+    crh_latn: Litvaniya
     cs: Litva
     csb: Lëtewskô
     cu: Литъва
@@ -122,7 +122,7 @@ dv_has_:
     dag: Lithuania
     de: Litauen
     de-at: Litauen
-    de-ch: Litauen
+    de_ch: Litauen
     diq: Litwanya
     dsb: Litawska
     dty: लिथुआनिया
@@ -132,8 +132,8 @@ dv_has_:
     el: Λιθουανία
     eml: Lituàgna
     en: Lithuania
-    en-ca: Lithuania
-    en-gb: Lithuania
+    en_ca: Lithuania
+    en_gb: Lithuania
     eo: Litovio
     es: Lituania
     et: Leedu
@@ -158,7 +158,7 @@ dv_has_:
     gn: Lituaña
     gom: लिथुआनिया
     gom-deva: लिथुआनिया
-    gom-latn: Lithuania
+    gom_latn: Lithuania
     got: "\U0001033B\U00010339\U00010344\U00010345\U00010330\U0001033D\U0001033E\U00010330"
     gpe: Lituania
     gsw: Litaue
@@ -227,7 +227,7 @@ dv_has_:
     lv: Lietuva
     lzh: 立陶宛
     mad: Lithuania
-    map-bms: Lituania
+    map_bms: Lituania
     mdf: Литва
     mg: Litoania
     mhr: Литва
@@ -252,7 +252,7 @@ dv_has_:
     nap: Lituania
     nb: Litauen
     nds: Litauen
-    nds-nl: Litouwen
+    nds_nl: Litouwen
     ne: लिथुआनिया
     new: लिथुआनिया
     nl: Litouwen
@@ -281,7 +281,7 @@ dv_has_:
     prg: Laītawa
     ps: ليتوانيا
     pt: Lituânia
-    pt-br: Lituânia
+    pt_br: Lituânia
     qu: Lituwa
     rm: Lituania
     rmy: Lituaniya
@@ -317,8 +317,8 @@ dv_has_:
     so: Lithuaniya
     sq: Lituania
     sr: Литванија
-    sr-ec: Литванија
-    sr-el: Litvanija
+    sr_ec: Литванија
+    sr_el: Litvanija
     srn: Lituwaniyakondre
     ss: Lithuwani
     st: Lituania
@@ -372,14 +372,14 @@ dv_has_:
     zea: Litouwen
     zgh: ⵍⵉⵜⵡⴰⵏⵢⴰ
     zh: 立陶宛
-    zh-cn: 立陶宛
-    zh-hans: 立陶宛
-    zh-hant: 立陶宛
-    zh-hk: 立陶宛
-    zh-mo: 立陶宛
+    zh_cn: 立陶宛
+    zh_hans: 立陶宛
+    zh_hant: 立陶宛
+    zh_hk: 立陶宛
+    zh_mo: 立陶宛
     zh-my: 立陶宛
-    zh-sg: 立陶宛
-    zh-tw: 立陶宛
+    zh_sg: 立陶宛
+    zh_tw: 立陶宛
     zu: ILithuwaniya
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Lithuania

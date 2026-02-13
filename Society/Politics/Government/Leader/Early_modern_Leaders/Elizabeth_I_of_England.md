@@ -226,7 +226,7 @@ dv_has_:
     azb: بیرینجی الیزابت
     ba: Елизавета I
     be: Лізавета I
-    be-tarask: Лізавета I
+    be_tarask: Лізавета I
     bew: Élisabèt I deri Inggris
     bg: Елизабет I
     bn: প্রথম এলিজাবেথ
@@ -334,7 +334,7 @@ dv_has_:
     pnb: الزبتھ I
     ps: لومړۍ الیزابېت
     pt: Isabel I de Inglaterra
-    pt-br: Isabel I de Inglaterra
+    pt_br: Isabel I de Inglaterra
     qu: Elisabeth I
     ro: Elisabeta I a Angliei
     ru: Елизавета I
@@ -374,7 +374,7 @@ dv_has_:
     yue: 伊利沙伯一世
     za: Elizabeth I
     zh: 伊丽莎白一世
-    zh-cn: 伊丽莎白一世
+    zh_cn: 伊丽莎白一世
 ---
 #has_/time_/started ::  1533-09-07 
 #has_/time_/stopped ::  1603-03-24  

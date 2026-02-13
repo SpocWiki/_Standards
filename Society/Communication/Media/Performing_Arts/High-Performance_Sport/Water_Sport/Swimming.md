@@ -158,7 +158,7 @@ dv_has_:
     bbc: Marlange
     bcl: Paglangoy
     be: плаванне
-    be-tarask: плаваньне
+    be_tarask: плаваньне
     bg: плуване
     bjn: Bakunyung
     bn: সাঁতার
@@ -219,7 +219,7 @@ dv_has_:
     lmo: nudà
     lt: plaukimas
     lv: peldēšana
-    map-bms: Renang
+    map_bms: Renang
     mk: човечко пливање
     ml: നീന്തൽ
     ms: Renang
@@ -240,7 +240,7 @@ dv_has_:
     pms: Nové
     ps: لامبو
     pt: natação
-    pt-br: natação
+    pt_br: natação
     qu: Wayt'ay
     rm: nataziun
     ro: înot
@@ -278,7 +278,7 @@ dv_has_:
     yi: שווימען
     yue: 游水
     zh: 人類游泳
-    zh-hans: 游泳
+    zh_hans: 游泳
 ---
 # [[Swimming]] 🏊 
 

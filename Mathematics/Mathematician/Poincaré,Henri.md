@@ -200,7 +200,7 @@ dv_has_:
     azb: آنری پوانکاره
     bar: Henri Poincaré
     be: Анры Пуанкарэ
-    be-tarask: Анры Пуанкарэ
+    be_tarask: Анры Пуанкарэ
     bg: Анри Поанкаре
     bm: Henri Poincaré
     bn: অঁরি পোয়াঁকারে
@@ -214,12 +214,12 @@ dv_has_:
     cy: Henri Poincaré
     da: Henri Poincaré
     de-at: Henri Poincaré
-    de-ch: Henri Poincaré
+    de_ch: Henri Poincaré
     ee: Henri Poincaré
     el: Ανρί Πουανκαρέ
     en: Henri Poincaré
-    en-ca: Henri Poincaré
-    en-gb: Henri Poincaré
+    en_ca: Henri Poincaré
+    en_gb: Henri Poincaré
     eo: Henri Poincaré
     et: Henri Poincaré
     eu: Henri Poincaré
@@ -278,7 +278,7 @@ dv_has_:
     nap: Henri Poincaré
     nb: Henri Poincaré
     nds: Henri Poincaré
-    nds-nl: Henri Poincaré
+    nds_nl: Henri Poincaré
     nl: Henri Poincaré
     nn: Henri Poincaré
     nrm: Henri Poincaré
@@ -291,7 +291,7 @@ dv_has_:
     prg: Henri Poincaré
     ps: هينري پواينکری
     pt: Henri Poincaré
-    pt-br: Henri Poincaré
+    pt_br: Henri Poincaré
     qu: Henri Poincaré
     rgn: Henri Poincaré
     rm: Henri Poincaré
@@ -306,7 +306,7 @@ dv_has_:
     sl: Henri Poincaré
     sq: Henri Poincare
     sr: Анри Поенкаре
-    sr-el: Henri Poincaré
+    sr_el: Henri Poincaré
     sw: Henri Poincaré
     th: อ็องรี ปวงกาเร
     tl: Henri Poincaré

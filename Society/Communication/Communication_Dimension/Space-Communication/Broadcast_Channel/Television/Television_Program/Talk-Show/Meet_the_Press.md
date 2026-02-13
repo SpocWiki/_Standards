@@ -67,7 +67,7 @@ dv_has_:
   name_:
     ar: قابل الصحافة
     ast: Meet the Press
-    be-tarask: Meet the Press
+    be_tarask: Meet the Press
     ca: Meet the Press
     cs: Meet the Press
     da: Meet the Press
@@ -97,9 +97,9 @@ dv_has_:
     tr: Meet the Press
     uk: Meet the Press
     zh: 與媒體見面
-    zh-hans: 与媒体见面
-    zh-hant: 與媒體見面
-    zh-hk: 與媒體見面
+    zh_hans: 与媒体见面
+    zh_hant: 與媒體見面
+    zh_hk: 與媒體見面
 ---
 # [[Meet_the_Press]] 
 

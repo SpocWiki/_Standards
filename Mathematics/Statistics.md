@@ -180,7 +180,7 @@ dv_has_:
     ba: статистика
     bcl: Estadistika
     be: статыстыка
-    be-tarask: статыстыка
+    be_tarask: статыстыка
     bew: Statistik
     bg: Статистика
     bi: Statistikis
@@ -188,7 +188,7 @@ dv_has_:
     br: Stadegouriezh
     bs: Statistika
     ca: estadística
-    cbk-zam: Estadistica
+    cbk_zam: Estadistica
     ckb: ئامار
     co: Statistica
     crh: isaiyat
@@ -201,8 +201,8 @@ dv_has_:
     dv: ތަފާސް ހިސާބު
     el: στατιστική
     en: statistics
-    en-ca: Statistics
-    en-gb: statistics
+    en_ca: Statistics
+    en_gb: statistics
     eo: statistiko
     es: estadística
     et: statistika
@@ -271,7 +271,7 @@ dv_has_:
     ml: സ്ഥിതിവിവരക്കണക്കുകൾ
     mr: संख्याशास्त्र
     ms: perangkaan
-    ms-arab: ڤراڠکاءن
+    ms_arab: ڤراڠکاءن
     mwl: Statística
     my: စာရင်းအင်း ပညာ
     nan: Thóng-kè-ha̍k
@@ -292,7 +292,7 @@ dv_has_:
     pnb: سٹیٹ
     ps: سرشمیرنه
     pt: estatística
-    pt-br: estatística
+    pt_br: estatística
     qu: Khipukamay
     rki: စာရင်းအင်း ပညာ
     ro: statistică
@@ -314,8 +314,8 @@ dv_has_:
     sms: statistikk
     sq: statistika
     sr: статистика
-    sr-ec: статистика
-    sr-el: statistika
+    sr_ec: статистика
+    sr_el: statistika
     stq: Statistik
     su: Statistik
     sv: statistik
@@ -330,7 +330,7 @@ dv_has_:
     tl: estadistika
     tr: istatistik
     tt: статистика
-    tt-cyrl: статистика
+    tt_cyrl: статистика
     udm: статистика
     uk: статистика
     ur: احصاء
@@ -347,14 +347,14 @@ dv_has_:
     yue: 統計學
     zgh: ⵜⴰⵙⵏⵎⴽⵜⴰ
     zh: 統計學
-    zh-cn: 统计学
-    zh-hans: 统计学
-    zh-hant: 統計學
-    zh-hk: 統計學
-    zh-mo: 統計學
+    zh_cn: 统计学
+    zh_hans: 统计学
+    zh_hant: 統計學
+    zh_hk: 統計學
+    zh_mo: 統計學
     zh-my: 统计学
-    zh-sg: 统计学
-    zh-tw: 統計學
+    zh_sg: 统计学
+    zh_tw: 統計學
     zu: Izibalomininingo
 ---
 # [[Statistics]] 

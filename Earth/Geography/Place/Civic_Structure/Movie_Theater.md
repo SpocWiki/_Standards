@@ -141,8 +141,8 @@ Commons_category: Cinemas
 OpenStreetMap_tag: amenity=cinema
 dv_has_:
   name_:
-    aeb-arab: صالة سينما
-    aeb-latn: càlet sinema
+    aeb_arab: صالة سينما
+    aeb_latn: càlet sinema
     af: Bioskoop
     am: ሲኒማ
     an: Sala de cine
@@ -153,7 +153,7 @@ dv_has_:
     azb: سینما
     ba: кинотеатр
     be: кінатэатр
-    be-tarask: кінатэатар
+    be_tarask: кінатэатар
     bew: Bioskop
     bg: Киносалон
     bm: Sinima
@@ -170,8 +170,8 @@ dv_has_:
     diq: Sinema
     el: κινηματογράφος
     en: movie theater
-    en-ca: movie theater
-    en-gb: cinema
+    en_ca: movie theater
+    en_gb: cinema
     en-us: movie theater
     eo: kinejo
     es: cine
@@ -223,7 +223,7 @@ dv_has_:
     pl: kino
     ps: سينما
     pt: sala de cinema
-    pt-br: sala de cinema
+    pt_br: sala de cinema
     ro: cinematograf
     ru: кинотеатр
     rue: кінотеатр
@@ -239,8 +239,8 @@ dv_has_:
     sn: Sinema
     sq: Kino
     sr: биоскоп
-    sr-ec: биоскоп
-    sr-el: bioskop
+    sr_ec: биоскоп
+    sr_el: bioskop
     su: bioskop
     sv: biograf
     sw: Jumba la Sinema
@@ -265,11 +265,11 @@ dv_has_:
     yo: ilé fíìmù
     yue: 戲院
     zh: 電影院
-    zh-cn: 电影院
-    zh-hans: 电影院
-    zh-hant: 電影院
-    zh-sg: 电影院
-    zh-tw: 電影院
+    zh_cn: 电影院
+    zh_hans: 电影院
+    zh_hant: 電影院
+    zh_sg: 电影院
+    zh_tw: 電影院
     zu: Ibhayisikobho
   parent_class: '[[../CivicStructure, EntertainmentBusiness]]'
   properties: '[ actionableFeedbackPolicy, additionalProperty, additionalType, address, aggregateRating, alternateName, alumni, amenityFeature, areaServed, award, awards, branchCode, branchOf, brand, contactPoint, contactPoints, containedIn, containedInPlace, containsPlace, correctionsPolicy, currenciesAccepted, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasCredential, hasDriveThroughService, hasMap, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isAccessibleForFree, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, latitude, legalName, leiCode, location, logo, longitude, mainEntityOfPage, makesOffer, map, maps, maximumAttendeeCapacity, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, openingHours, openingHoursSpecification, ownershipFundingInfo, owns, parentOrganization, paymentAccepted, photo, photos, potentialAction, priceRange, publicAccess, publishingPrinciples, review, reviews, sameAs, screenCount, seeks, serviceArea, slogan, smokingAllowed, specialOpeningHoursSpecification, sponsor, subOrganization, subjectOf, taxID, telephone, tourBookingPage, unnamedSourcesPolicy, url, vatID ]'

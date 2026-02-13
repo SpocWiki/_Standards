@@ -204,7 +204,7 @@ dv_has_:
     bar: Bill Gates
     bcl: Bill Gates
     be: Біл Гейтс
-    be-tarask: Біл Гейтс
+    be_tarask: Біл Гейтс
     bg: Бил Гейтс
     bi: Bill Gates
     bjn: Bill Gates
@@ -220,7 +220,7 @@ dv_has_:
     cy: Bill Gates
     da: Bill Gates
     de: Bill Gates
-    de-ch: Bill Gates
+    de_ch: Bill Gates
     diq: Bill Gates
     dsb: Bill Gates
     dty: बिल गेट्स
@@ -228,8 +228,8 @@ dv_has_:
     el: Μπιλ Γκέιτς
     eml: Bill Gates
     en: Bill Gates
-    en-ca: Bill Gates
-    en-gb: Bill Gates
+    en_ca: Bill Gates
+    en_gb: Bill Gates
     eo: Bill Gates
     es: Bill Gates
     et: Bill Gates
@@ -290,7 +290,7 @@ dv_has_:
     lt: Bill Gates
     lv: Bills Geitss
     mai: बिल गेट्स
-    map-bms: Bill Gates
+    map_bms: Bill Gates
     mg: Bill Gates
     min: Bill Gates
     mk: Бил Гејтс
@@ -323,7 +323,7 @@ dv_has_:
     pnb: بل گیٹس
     ps: بیل ګیټ
     pt: Bill Gates
-    pt-br: Bill Gates
+    pt_br: Bill Gates
     qu: Bill Gates
     rm: Bill Gates
     ro: Bill Gates
@@ -376,11 +376,11 @@ dv_has_:
     yue: 比爾蓋茨
     zgh: ⴱⵉⵍ ⴳⵉⵜⵙ
     zh: 比尔·盖茨
-    zh-cn: 比尔·盖茨
-    zh-hans: 比尔·盖茨
-    zh-hant: 比爾·蓋茨
-    zh-hk: 比爾蓋茨
-    zh-tw: 比爾·蓋茨
+    zh_cn: 比尔·盖茨
+    zh_hans: 比尔·盖茨
+    zh_hant: 比爾·蓋茨
+    zh_hk: 比爾蓋茨
+    zh_tw: 比爾·蓋茨
 ---
 # [[Gates,Bill]] 
 

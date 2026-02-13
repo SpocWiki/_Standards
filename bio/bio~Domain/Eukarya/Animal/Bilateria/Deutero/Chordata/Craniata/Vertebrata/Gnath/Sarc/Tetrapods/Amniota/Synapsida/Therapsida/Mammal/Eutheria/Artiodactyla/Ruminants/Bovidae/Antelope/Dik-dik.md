@@ -83,7 +83,7 @@ dv_has_:
     pl: Madoqua
     pnb: ڈک-ڈک
     pt: Madoqua
-    pt-br: Madoqua
+    pt_br: Madoqua
     ro: Madoqua
     ru: дикдики
     sco: dik-dik
@@ -99,12 +99,12 @@ dv_has_:
     vo: Madoqua
     war: Madoqua
     zh: 犬羚属
-    zh-cn: 犬羚属
-    zh-hans: 犬羚属
-    zh-hant: 犬羚屬
-    zh-hk: 犬羚屬
-    zh-sg: 犬羚属
-    zh-tw: 犬羚屬
+    zh_cn: 犬羚属
+    zh_hans: 犬羚属
+    zh_hant: 犬羚屬
+    zh_hk: 犬羚屬
+    zh_sg: 犬羚属
+    zh_tw: 犬羚屬
 ---
 # [[Dik-dik]]
 

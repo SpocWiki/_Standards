@@ -54,17 +54,17 @@ dv_has_:
     arz: تقويم يابانى
     azb: ژاپون تقویمی
     ba: Япон календары
-    be-tarask: японскі каляндар
+    be_tarask: японскі каляндар
     bg: Японски календар
     br: Deiziadur japanek
     ca: Calendari japonès
     cs: Japonský kalendář
     de: japanischer Kalender
-    de-ch: Japanische Zeitrechnung
+    de_ch: Japanische Zeitrechnung
     el: Ιαπωνικό ημερολόγιο
     en: Japanese calendar
-    en-ca: Japanese calendar
-    en-gb: Japanese calendar
+    en_ca: Japanese calendar
+    en_gb: Japanese calendar
     eo: japana kalendaro
     es: calendario japonés
     eu: Japoniar egutegia
@@ -82,12 +82,12 @@ dv_has_:
     mk: Јапонски календар
     ms: Kalendar Jepun
     pl: Kalendarz japoński
-    pt-br: calendário japonês
+    pt_br: calendário japonês
     ru: японский календарь
     sh: Japanski kalendar
     sl: japonski koledar
     sr: Јапански календар
-    sr-el: Japanski kalendar
+    sr_el: Japanski kalendar
     su: Kalénder Jepang
     th: ปฏิทินญี่ปุ่น
     tr: Japon takvimi
@@ -96,7 +96,7 @@ dv_has_:
     xmf: იაპონური კალენდარი
     yue: 日本曆
     zh: 和曆
-    zh-tw: 日本曆法
+    zh_tw: 日本曆法
 ---
 # [[Japanese_Calendar]] 
 

@@ -200,7 +200,7 @@ dv_has_:
     ban: Antropologi
     bcl: Antropolohiya
     be: антрапалогія
-    be-tarask: антрапалёгія
+    be_tarask: антрапалёгія
     bew: Èlmu manusia
     bg: антропология
     bho: मनुष्य विज्ञान
@@ -221,13 +221,13 @@ dv_has_:
     cy: anthropoleg
     da: antropologi
     de: Anthropologie
-    de-ch: Anthropologie
+    de_ch: Anthropologie
     din: Piöcemanhraan
     diq: antropolociye
     el: ανθρωπολογία
     en: anthropology
-    en-ca: anthropology
-    en-gb: anthropology
+    en_ca: anthropology
+    en_gb: anthropology
     eo: antropologio
     es: antropología
     et: antropoloogia
@@ -302,13 +302,13 @@ dv_has_:
     mn: Хүн судлал
     mr: मानववंशशास्त्र
     ms: antropologi
-    ms-arab: انتروڤولوݢي
+    ms_arab: انتروڤولوݢي
     mt: antropoloġija
     mwl: antropologie
     my: မနုဿဗေဒ
     nan: Jîn-lūi-ha̍k
     nb: antropologi
-    nds-nl: antropologie
+    nds_nl: antropologie
     ne: मानवशास्त्र
     new: एन्थ्रोपोलोजी
     nia: Antropologi
@@ -329,7 +329,7 @@ dv_has_:
     pnb: بشریات
     ps: وګړپوهنه
     pt: antropologia
-    pt-br: antropologia
+    pt_br: antropologia
     ro: antropologie
     ru: антропология
     rue: антрополоґія
@@ -355,8 +355,8 @@ dv_has_:
     so: anthroboloji
     sq: antropologjia
     sr: антропологија
-    sr-ec: антропологија
-    sr-el: antropologija
+    sr_ec: антропологија
+    sr_el: antropologija
     su: antropologi
     sv: antropologi
     sw: anthropolojia
@@ -384,11 +384,11 @@ dv_has_:
     zea: antropolohie
     zgh: ⵜⴰⵙⵏⴼⴳⴰⵏⵜ
     zh: 人类学
-    zh-cn: 人类学
-    zh-hans: 人类学
-    zh-hant: 人類學
-    zh-hk: 人類學
-    zh-tw: 人類學
+    zh_cn: 人类学
+    zh_hans: 人类学
+    zh_hant: 人類學
+    zh_hk: 人類學
+    zh_tw: 人類學
     zu: Umchazabuntu
 ---
 # [[Anthropology]] 

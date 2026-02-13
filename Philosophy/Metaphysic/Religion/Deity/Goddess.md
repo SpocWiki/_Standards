@@ -10,7 +10,7 @@ dv_has_:
     bar: Geddinnen
     bcl: Diyosa (Goddess)
     be: багіня
-    be-tarask: багіня
+    be_tarask: багіня
     bg: Богиня
     bn: দেবী
     br: Doueez
@@ -22,12 +22,12 @@ dv_has_:
     cy: duwies
     da: gudinde
     de: Göttin
-    de-ch: Göttin
+    de_ch: Göttin
     dsb: bogowka
     el: θεά
     en: goddess
-    en-ca: Goddess
-    en-gb: goddess
+    en_ca: Goddess
+    en_gb: goddess
     eo: diino
     es: diosa
     et: Jumalanna
@@ -59,7 +59,7 @@ dv_has_:
     ko: 여신
     ko-kp: 녀신
     ku: xwedabanû
-    ku-latn: xwedawend
+    ku_latn: xwedawend
     la: dea
     lb: Gëttin
     lfn: Diva
@@ -83,7 +83,7 @@ dv_has_:
     nrm: Déêsse
     pl: bogini
     pt: deusa
-    pt-br: Deusa
+    pt_br: Deusa
     ru: богиня
     scn: dia
     sco: goddess
@@ -93,14 +93,14 @@ dv_has_:
     sl: boginja
     sq: Perëndesha
     sr: богиња
-    sr-ec: богиња
-    sr-el: boginja
+    sr_ec: богиња
+    sr_el: boginja
     sv: gudinna
     ta: இறைவி
     th: เทวี
     tr: tanrıça
     tt: алиһә
-    tt-cyrl: алиһә
+    tt_cyrl: алиһә
     uk: богиня
     ur: دیوی
     vi: nữ thần
@@ -109,12 +109,12 @@ dv_has_:
     wuu: 女神
     yue: 女神
     zh: 女神
-    zh-cn: 女神
-    zh-hans: 女神
-    zh-hant: 女神
-    zh-hk: 女神
-    zh-sg: 女神
-    zh-tw: 女神
+    zh_cn: 女神
+    zh_hans: 女神
+    zh_hant: 女神
+    zh_hk: 女神
+    zh_sg: 女神
+    zh_tw: 女神
 aliases:
 - Andriamanibavy
 - bandia

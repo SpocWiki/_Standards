@@ -762,7 +762,7 @@ dv_has_:
     bar: Pazifik
     bcl: Kadagatan Pacifico
     be: Ціхі акіян
-    be-tarask: Ціхі акіян
+    be_tarask: Ціхі акіян
     bew: Laotan Anteng
     bg: Тихи океан
     bho: प्रशांत महासागर
@@ -775,14 +775,14 @@ dv_has_:
     bs: Tihi okean
     bxr: Номгон тэнгис
     ca: oceà Pacífic
-    cbk-zam: Oceano Pacifico
+    cbk_zam: Oceano Pacifico
     cdo: Tái-bìng-iòng
     ce: Тийна Ӏапказ
     ceb: Kadagatang Pasipiko
     chr: ᏭᏕᎵᎬ ᎠᎺᏉ
     ckb: ئۆقیانووسی ئارام
     crh: Tınç okean
-    crh-latn: Tınç okean
+    crh_latn: Tınç okean
     cs: Tichý oceán
     cv: Лăпкă океан
     cy: Y Cefnfor Tawel
@@ -796,8 +796,8 @@ dv_has_:
     el: Ειρηνικός Ωκεανός
     eml: Ucéan Pasìfic
     en: Pacific Ocean
-    en-ca: Pacific Ocean
-    en-gb: Pacific Ocean
+    en_ca: Pacific Ocean
+    en_gb: Pacific Ocean
     en-us: Pacific Ocean
     eo: Pacifiko
     es: Océano Pacífico
@@ -885,7 +885,7 @@ dv_has_:
     lzh: 太平洋
     mag: प्रशान्तमहासागर
     mai: प्रशान्त महासागर
-    map-bms: Samudra Pasifik
+    map_bms: Samudra Pasifik
     mdf: Сетьме оцюведь
     mg: Ranomasimbe Pasifika
     mhr: Тыныс тептеҥыз
@@ -898,7 +898,7 @@ dv_has_:
     mr: प्रशांत महासागर
     mrj: Шӹпӓн океан
     ms: Lautan Pasifik
-    ms-arab: لاءوتن ڤاسيفيک
+    ms_arab: لاءوتن ڤاسيفيک
     mt: Oċean Paċifiku
     mwl: Ouceano Pacífico
     my: ပစိဖိတ် သမုဒ္ဒရာ
@@ -910,7 +910,7 @@ dv_has_:
     nap: Oceano Pacifeco
     nb: Stillehavet
     nds: Pazifische Ozean
-    nds-nl: Grote Oceaan
+    nds_nl: Grote Oceaan
     ne: प्रशान्त महासागर
     new: प्रशान्त महासागर
     nl: Grote Oceaan
@@ -933,7 +933,7 @@ dv_has_:
     pnb: بحرالکاہل
     ps: غلی سمندر
     pt: Oceano Pacífico
-    pt-br: Oceano Pacífico
+    pt_br: Oceano Pacífico
     qu: Pasiphiku mama qucha
     rm: Ocean pacific
     ro: Oceanul Pacific
@@ -962,7 +962,7 @@ dv_has_:
     so: Badweynta Baasifik
     sq: Oqeani Paqësor
     sr: Тихи океан
-    sr-ec: Тихи океан
+    sr_ec: Тихи океан
     stq: Pazifiske Ozean
     su: Samudra Pasifik
     sv: Stilla havet
@@ -981,7 +981,7 @@ dv_has_:
     tpi: Solwara Pasifik
     tr: Büyük Okyanus
     tt: Тын океан
-    tt-cyrl: Тын океан
+    tt_cyrl: Тын океан
     ty: Moana Pātitifā
     tyv: Оожум океан
     udm: Чус океан
@@ -1004,14 +1004,14 @@ dv_has_:
     za: Daibingzyangz
     zea: Hroôte Oceaon
     zh: 太平洋
-    zh-cn: 太平洋
-    zh-hans: 太平洋
-    zh-hant: 太平洋
-    zh-hk: 太平洋
-    zh-mo: 太平洋
+    zh_cn: 太平洋
+    zh_hans: 太平洋
+    zh_hant: 太平洋
+    zh_hk: 太平洋
+    zh_mo: 太平洋
     zh-my: 太平洋
-    zh-sg: 太平洋
-    zh-tw: 太平洋
+    zh_sg: 太平洋
+    zh_tw: 太平洋
 ---
 # [[Ocean~Pacific]] 
 

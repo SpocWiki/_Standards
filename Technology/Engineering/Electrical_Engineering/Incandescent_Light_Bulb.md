@@ -154,7 +154,7 @@ dv_has_:
     az: elektrik lampası
     bcl: Bumbilya
     be: лямпа напальвання
-    be-tarask: лямпа напальваньня
+    be_tarask: лямпа напальваньня
     bg: Лампа с нажежаема жичка
     bho: बिजली बत्ती
     bn: ইনক্যান্ডিসেন্ট আলোক বাতি
@@ -230,8 +230,8 @@ dv_has_:
     sn: bhoni
     sq: poçi
     sr: сијалица
-    sr-ec: инкандесцентна сијалица
-    sr-el: sijalica
+    sr_ec: инкандесцентна сијалица
+    sr_el: sijalica
     sv: glödlampa
     sw: balbu
     szl: Byrna
@@ -250,8 +250,8 @@ dv_has_:
     wuu: 白炽灯
     yue: 電燈膽
     zh: 白熾燈泡
-    zh-hant: 白熾燈
-    zh-tw: 白熾燈
+    zh_hant: 白熾燈
+    zh_tw: 白熾燈
 ---
 # [[Incandescent_Light_Bulb]] 💡 
 

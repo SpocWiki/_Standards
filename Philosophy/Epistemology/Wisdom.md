@@ -141,7 +141,7 @@ dv_has_:
     ba: хикмәт
     ban: Pradnyan
     bcl: kadunongan
-    be-tarask: мудрасьць
+    be_tarask: мудрасьць
     bg: мъдрост
     bn: প্রজ্ঞা
     bs: mudrost
@@ -154,8 +154,8 @@ dv_has_:
     de: Weisheit
     el: σοφία
     en: wisdom
-    en-ca: wisdom
-    en-gb: wisdom
+    en_ca: wisdom
+    en_gb: wisdom
     en-us: wisdom
     eo: saĝo
     es: sabiduría
@@ -208,7 +208,7 @@ dv_has_:
     pl: mądrość
     pms: saviëssa
     pt: sabedoria
-    pt-br: sabedoria
+    pt_br: sabedoria
     ro: înțelepciune
     ru: мудрость
     rue: мудрость
@@ -226,7 +226,7 @@ dv_has_:
     so: xikmad
     sq: mençuria
     sr: мудрост
-    sr-ec: мудрост
+    sr_ec: мудрост
     sv: visdom
     sw: hekima
     ta: ஞானம்
@@ -243,9 +243,9 @@ dv_has_:
     yi: קלוגשאפט
     yue: 智慧
     zh: 智慧
-    zh-cn: 智慧
-    zh-hans: 智慧
-    zh-hant: 智慧
+    zh_cn: 智慧
+    zh_hans: 智慧
+    zh_hant: 智慧
     zu: inhlakanipho
 ---
 # [[Wisdom]] 

@@ -201,7 +201,7 @@ dv_has_:
     ba: венерик ауырыуҙар
     bcl: Helang na naipapasa sa pagkitoan
     be: Венерычныя захворванні
-    be-tarask: Вэнэрычныя хваробы
+    be_tarask: Вэнэрычныя хваробы
     bg: болести, предавани по полов път
     bn: যৌনবাহিত রোগ
     br: poreoù tapet dre zarempredoù rev
@@ -299,8 +299,8 @@ dv_has_:
     sn: Siki
     sq: Infeksionet seksualisht të transmetueshme
     sr: сексуално преносива болест
-    sr-ec: сексуално преносива болест
-    sr-el: seksualno prenosiva bolest
+    sr_ec: сексуално преносива болест
+    sr_el: seksualno prenosiva bolest
     sv: sexuellt överförbar infektion
     sw: maradhi ya zinaa
     ta: பால்வினை நோய்கள்
@@ -323,7 +323,7 @@ dv_has_:
     yue: 性病
     za: binghvaliux
     zh: 性傳播疾病
-    zh-hant: 性傳播疾病
+    zh_hant: 性傳播疾病
 ---
 # [[STI(Sexually_transmitted_Infection)]] 
 

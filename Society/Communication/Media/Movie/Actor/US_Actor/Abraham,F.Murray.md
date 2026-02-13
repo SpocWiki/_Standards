@@ -46,7 +46,7 @@ dv_has_:
     az: F. Mürrey Abraham
     azb: اف. موری آبراهام
     be: Фарыд Мюрэй Абрахам
-    be-tarask: Фарыд Мюрэй Абрагам
+    be_tarask: Фарыд Мюрэй Абрагам
     bg: Ф. Мъри Ейбръхам
     bn: এফ. মারি আব্রাহাম
     ca: F. Murray Abraham
@@ -55,11 +55,11 @@ dv_has_:
     cy: F. Murray Abraham
     da: F. Murray Abraham
     de: F. Murray Abraham
-    de-ch: F. Murray Abraham
+    de_ch: F. Murray Abraham
     el: Φ. Μάρεϊ Έιμπραχαμ
     en: F. Murray Abraham
-    en-ca: F. Murray Abraham
-    en-gb: F. Murray Abraham
+    en_ca: F. Murray Abraham
+    en_gb: F. Murray Abraham
     es: F. Murray Abraham
     eu: F. Murray Abraham
     fa: فهرید موری آبراهام
@@ -88,7 +88,7 @@ dv_has_:
     pa: ਐੱਫ. ਮੁਰੇ ਅਬ੍ਰਾਹਮ
     pl: F. Murray Abraham
     pt: F. Murray Abraham
-    pt-br: F. Murray Abraham
+    pt_br: F. Murray Abraham
     ro: F. Murray Abraham
     ru: Ф. Мюррей Абрахам
     sco: F. Murray Abraham
@@ -97,8 +97,8 @@ dv_has_:
     sl: Fahrid Murray Abraham
     sq: F. Murray Abraham
     sr: Ф. Мари Абрахам
-    sr-ec: Ф. Мари Абрахам
-    sr-el: F. Mari Abraham
+    sr_ec: Ф. Мари Абрахам
+    sr_el: F. Mari Abraham
     sv: F. Murray Abraham
     tay: F. Murray Abraham
     th: เอฟ. เมอร์รีย์ เอบราฮัม
@@ -112,12 +112,12 @@ dv_has_:
     yo: F. Murray Abraham
     yue: 梅利阿伯拉罕
     zh: F·莫瑞·亞伯拉罕
-    zh-cn: F·莫瑞·亚伯拉罕
-    zh-hans: F·莫瑞·亚伯拉罕
-    zh-hant: F·莫瑞·亞伯拉罕
-    zh-hk: F·梅利·阿伯拉罕
-    zh-sg: F·莫瑞·亚伯拉罕
-    zh-tw: F·莫瑞·亞伯拉罕
+    zh_cn: F·莫瑞·亚伯拉罕
+    zh_hans: F·莫瑞·亚伯拉罕
+    zh_hant: F·莫瑞·亞伯拉罕
+    zh_hk: F·梅利·阿伯拉罕
+    zh_sg: F·莫瑞·亚伯拉罕
+    zh_tw: F·莫瑞·亞伯拉罕
 ---
 #has_/time_/started :: 1939-10-24  
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

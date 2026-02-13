@@ -105,7 +105,7 @@ dv_has_:
     az: Orta-Okean silsiləsi
     ban: Munduk tengah samudra
     be: Сярэдзінна-акіянічны хрыбет
-    be-tarask: акіянічны сьцяг
+    be_tarask: акіянічны сьцяг
     bg: Средноокеански хребет
     bn: মধ্য-মহাসাগর শৈলশিরা
     bs: Srednjeokeanski grebeni
@@ -113,11 +113,11 @@ dv_has_:
     cs: středooceánský hřbet
     da: Oceanryg
     de: Mittelozeanischer Rücken
-    de-ch: Mittelozeanischer Rücken
+    de_ch: Mittelozeanischer Rücken
     el: Μεσοωκεάνια ράχη
     en: mid-ocean ridge
-    en-ca: mid-ocean ridge
-    en-gb: mid-ocean ridge
+    en_ca: mid-ocean ridge
+    en_gb: mid-ocean ridge
     eo: Mezoceana dorso
     es: dorsal centro-oceánica
     et: Ookeani keskahelik
@@ -154,15 +154,15 @@ dv_has_:
     pl: grzbiet śródoceaniczny
     pnb: ادھ سمندری وٹ
     pt: dorsal oceânica
-    pt-br: Dorsal oceânica
+    pt_br: Dorsal oceânica
     ro: dorsală oceanică
     ru: Срединно-океанический хребет
     sh: Srednjeoceanski hrbat
     sk: Stredooceánsky chrbát
     sl: srednjeoceanski hrbet
     sr: Средњоокеански гребен
-    sr-ec: Средњоокеански гребен
-    sr-el: Srednjookeanski greben
+    sr_ec: Средњоокеански гребен
+    sr_el: Srednjookeanski greben
     sv: mittoceanisk rygg
     sw: Mgongo kati wa bahari
     ta: நடுக்கடல் முகடு
@@ -175,13 +175,13 @@ dv_has_:
     wuu: 中洋脊
     yue: 中洋脊
     zh: 洋中脊
-    zh-cn: 中洋脊
-    zh-hans: 洋中脊
-    zh-hant: 中洋脊
-    zh-hk: 中洋脊
+    zh_cn: 中洋脊
+    zh_hans: 洋中脊
+    zh_hant: 中洋脊
+    zh_hk: 中洋脊
     zh-my: 中洋脊
-    zh-sg: 中洋脊
-    zh-tw: 中洋脊
+    zh_sg: 中洋脊
+    zh_tw: 中洋脊
 ---
 # [[Mid-Ocean_Ridge]] 
 

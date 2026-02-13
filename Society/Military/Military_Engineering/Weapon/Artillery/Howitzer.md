@@ -6,7 +6,7 @@ dv_has_:
     ast: Obús
     az: Haubitsa
     be: Гаўбіца
-    be-tarask: гаўбіца
+    be_tarask: гаўбіца
     bg: Гаубица
     ca: canó obús
     ckb: ھاوتزەر
@@ -48,7 +48,7 @@ dv_has_:
     pl: haubica
     pms: Obusié
     pt: obus
-    pt-br: obus
+    pt_br: obus
     ro: Obuzier
     ru: гаубица
     sh: Haubica
@@ -56,8 +56,8 @@ dv_has_:
     sl: havbica
     sq: Obusi
     sr: хаубица
-    sr-ec: хаубица
-    sr-el: haubica
+    sr_ec: хаубица
+    sr_el: haubica
     sv: haubits
     ta: தெறோச்சி
     tg: Гаубитса
@@ -69,12 +69,12 @@ dv_has_:
     wuu: 榴弹炮
     yue: 榴彈炮
     zh: 榴弹炮
-    zh-cn: 榴弹炮
-    zh-hans: 榴弹炮
-    zh-hant: 榴彈炮
-    zh-hk: 榴彈炮
-    zh-sg: 榴弹炮
-    zh-tw: 榴彈炮
+    zh_cn: 榴弹炮
+    zh_hans: 榴弹炮
+    zh_hant: 榴彈炮
+    zh_hk: 榴彈炮
+    zh_sg: 榴弹炮
+    zh_tw: 榴彈炮
     zu: Isingquphuza
 aliases:
 - canó obús

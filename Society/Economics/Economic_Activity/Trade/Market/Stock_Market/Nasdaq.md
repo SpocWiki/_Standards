@@ -74,7 +74,7 @@ dv_has_:
     ba: Nasdaq
     bar: NASDAQ
     be: NASDAQ
-    be-tarask: NASDAQ
+    be_tarask: NASDAQ
     bg: NASDAQ
     bn: ন্যাসড্যাক
     bs: NASDAQ
@@ -85,12 +85,12 @@ dv_has_:
     cy: NASDAQ
     da: NASDAQ
     de: NASDAQ
-    de-ch: NASDAQ
+    de_ch: NASDAQ
     diq: NASDAQ
     el: NASDAQ
     en: Nasdaq
-    en-ca: NASDAQ
-    en-gb: NASDAQ
+    en_ca: NASDAQ
+    en_gb: NASDAQ
     eo: NASDAQ
     es: NASDAQ
     et: NASDAQ
@@ -137,7 +137,7 @@ dv_has_:
     pl: NASDAQ
     ps: نزډاک
     pt: NASDAQ
-    pt-br: NASDAQ
+    pt_br: NASDAQ
     ro: Nasdaq
     ru: Nasdaq
     sah: NASDAQ
@@ -147,7 +147,7 @@ dv_has_:
     sk: NASDAQ
     sl: NASDAQ
     sr: Насдак
-    sr-ec: Nasdaq
+    sr_ec: Nasdaq
     su: NASDAQ
     sv: NASDAQ
     ta: நாஸ்டாக்
@@ -158,7 +158,7 @@ dv_has_:
     tl: NASDAQ
     tr: NASDAQ
     tt: NASDAQ
-    tt-cyrl: NASDAQ
+    tt_cyrl: NASDAQ
     ug: ناسداك
     uk: Nasdaq
     ur: نیزڈیک
@@ -169,11 +169,11 @@ dv_has_:
     xmf: NASDAQ
     yue: 納斯達克
     zh: 纳斯达克
-    zh-cn: 纳斯达克
-    zh-hans: 纳斯达克
-    zh-hant: 納斯達克
-    zh-hk: 納斯達克
-    zh-tw: 那斯達克
+    zh_cn: 纳斯达克
+    zh_hans: 纳斯达克
+    zh_hant: 納斯達克
+    zh_hk: 納斯達克
+    zh_tw: 那斯達克
 ---
 # [[Nasdaq]] 
 

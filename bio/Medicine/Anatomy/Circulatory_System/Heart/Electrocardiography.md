@@ -93,7 +93,7 @@ dv_has_:
     ast: Electrocardiograma
     az: elektrokardioqrafiya
     be: электракардыяграфія
-    be-tarask: электракардыяграфія
+    be_tarask: электракардыяграфія
     bg: Електрокардиограма
     bn: ইলেকট্রোকার্ডিওগ্রাফি
     bo: སྙིང་གློག་རླབས་རིས་
@@ -104,11 +104,11 @@ dv_has_:
     cy: Electrocardiogram
     da: elektrokardiografi
     de: Elektrokardiogramm
-    de-ch: Elektrokardiogramm
+    de_ch: Elektrokardiogramm
     el: Ηλεκτροκαρδιογράφημα
     en: electrocardiography
-    en-ca: Electrocardiography
-    en-gb: electrocardiography
+    en_ca: Electrocardiography
+    en_gb: electrocardiography
     eo: elektrokardiografio
     es: Electrocardiograma
     et: elektrokardiogramm
@@ -151,7 +151,7 @@ dv_has_:
     pl: elektrokardiografia
     ps: زړه ګراف
     pt: eletrocardiograma
-    pt-br: eletrocardiograma
+    pt_br: eletrocardiograma
     ro: electrocardiogramă
     ru: электрокардиография
     sah: Электрокардиограмма
@@ -175,14 +175,14 @@ dv_has_:
     wuu: 心电图
     yue: 心電圖
     zh: 心电图
-    zh-cn: 心电图
-    zh-hans: 心电图
-    zh-hant: 心電圖
-    zh-hk: 心電圖
-    zh-mo: 心電圖
+    zh_cn: 心电图
+    zh_hans: 心电图
+    zh_hant: 心電圖
+    zh_hk: 心電圖
+    zh_mo: 心電圖
     zh-my: 心电图
-    zh-sg: 心电图
-    zh-tw: 心電圖
+    zh_sg: 心电图
+    zh_tw: 心電圖
 ---
 # [[Electrocardiography]] 
 

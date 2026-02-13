@@ -149,7 +149,7 @@ dv_has_:
     ban: kaluwarga
     bar: Famij
     be: сямейства
-    be-tarask: сямейства
+    be_tarask: сямейства
     bg: семейство
     bho: परिवार
     bn: পরিবার
@@ -170,8 +170,8 @@ dv_has_:
     dsb: swójźba
     el: οικογένεια
     en: family
-    en-ca: family
-    en-gb: family
+    en_ca: family
+    en_gb: family
     eo: familio
     es: familia
     et: sugukond
@@ -210,7 +210,7 @@ dv_has_:
     ko: 과
     ks: خاندان
     ku: famîle
-    ku-latn: xêzan
+    ku_latn: xêzan
     ky: тукум
     la: familia
     lb: Famill
@@ -239,7 +239,7 @@ dv_has_:
     pms: famija
     pnb: ٹبر
     pt: família
-    pt-br: família
+    pt_br: família
     qu: rikch'aq ayllu
     ro: familie
     ru: семейство
@@ -267,8 +267,8 @@ dv_has_:
     tly: xyjzon
     tr: familya
     tt: гаилә
-    tt-cyrl: гаилә
-    tt-latn: ğäilä
+    tt_cyrl: гаилә
+    tt_latn: ğäilä
     udm: семейство
     uk: родина
     ur: خاندان
@@ -286,11 +286,11 @@ dv_has_:
     zea: femielje
     zgh: ⵜⴰⵡⵊⴰ
     zh: 科
-    zh-cn: 科
-    zh-hans: 科
-    zh-hant: 科
-    zh-hk: 科
-    zh-tw: 科
+    zh_cn: 科
+    zh_hans: 科
+    zh_hant: 科
+    zh_hk: 科
+    zh_tw: 科
     zu: umndeni
 ---
 # [[bio~Family]] 

@@ -126,7 +126,7 @@ dv_has_:
     az: genealogiya
     ba: генеология
     be: генеалогія
-    be-tarask: генэалёгія
+    be_tarask: генэалёгія
     bg: генеалогия
     bn: কুলজীশাস্ত্র
     br: lignezouriezh
@@ -141,11 +141,11 @@ dv_has_:
     cy: hel achau
     da: slægtsforskning
     de: Genealogie
-    de-ch: Genealogie
+    de_ch: Genealogie
     dv: ނަސަބުގެ ޢިލްމު
     el: γενεαλογία
     en: genealogy
-    en-gb: genealogy
+    en_gb: genealogy
     eo: genealogio
     es: genealogía
     et: genealoogia
@@ -179,7 +179,7 @@ dv_has_:
     mk: родословие
     ml: വംശാവലിപഠനം
     ms: genealogi
-    ms-arab: ݢينيالوݢي
+    ms_arab: ݢينيالوݢي
     nan: hē-phó͘-ha̍k
     nb: slektsforskning
     ne: वंश वृक्ष
@@ -195,7 +195,7 @@ dv_has_:
     pl: genealogia
     ps: نوغپوهنه
     pt: genealogia
-    pt-br: genealogia
+    pt_br: genealogia
     ro: genealogie
     ru: генеалогия
     scn: catanannu
@@ -207,7 +207,7 @@ dv_has_:
     so: Dirtiris
     sq: gjenealogjia
     sr: генеалогија
-    sr-ec: генеалогија
+    sr_ec: генеалогија
     su: genealogi
     sv: genealogi
     tg: таборшиносӣ
@@ -226,8 +226,8 @@ dv_has_:
     yi: ייחוס
     yue: 系譜學
     zh: 系譜學
-    zh-hant: 系譜學
-    zh-tw: 系譜學
+    zh_hant: 系譜學
+    zh_tw: 系譜學
 ---
 # [[Genealogy]] 
 

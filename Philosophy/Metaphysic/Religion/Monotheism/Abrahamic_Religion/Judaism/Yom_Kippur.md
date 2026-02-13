@@ -76,7 +76,7 @@ dv_has_:
     ast: Yom Kippur
     az: Yom-Küpür
     be: Ём-Кіпур
-    be-tarask: Ём Кіпур
+    be_tarask: Ём Кіпур
     bg: Йом Кипур
     bn: ইয়ম কিপুর
     br: Yom Kippour
@@ -86,12 +86,12 @@ dv_has_:
     cs: Jom kipur
     da: Yom Kippur
     de: Jom Kippur
-    de-ch: Jom Kippur
+    de_ch: Jom Kippur
     diq: Yom Kippur
     el: Γιομ Κίπουρ
     en: Yom Kippur
-    en-ca: Yom Kippur
-    en-gb: Yom Kippur
+    en_ca: Yom Kippur
+    en_gb: Yom Kippur
     eo: Jom Kippur
     es: Yom Kipur
     et: Yom Kippur
@@ -133,7 +133,7 @@ dv_has_:
     pl: Jom Kipur
     pnb: یوم کپور
     pt: Yom Kipur
-    pt-br: Yom Kipur
+    pt_br: Yom Kipur
     ro: Iom Kipur
     ru: Йом-Киппур
     sd: يوم ڪپور
@@ -141,8 +141,8 @@ dv_has_:
     sk: Jom kipur
     sl: jom kipur
     sr: Јом кипур
-    sr-ec: Јом кипур
-    sr-el: Jom kipur
+    sr_ec: Јом кипур
+    sr_el: Jom kipur
     sv: Jom kippur
     sw: Yom Kippur
     ta: யோம் கிப்பூர்
@@ -157,12 +157,12 @@ dv_has_:
     yi: יום כיפור
     yue: 贖罪日
     zh: 贖罪日
-    zh-cn: 赎罪日
-    zh-hans: 赎罪日
-    zh-hant: 贖罪日
-    zh-hk: 贖罪日
-    zh-sg: 赎罪日
-    zh-tw: 贖罪日
+    zh_cn: 赎罪日
+    zh_hans: 赎罪日
+    zh_hant: 贖罪日
+    zh_hk: 贖罪日
+    zh_sg: 赎罪日
+    zh_tw: 贖罪日
 ---
 # [[Yom_Kippur]] 
 

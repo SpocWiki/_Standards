@@ -114,12 +114,12 @@ dv_has_:
     da: Roger Meddows-Taylor
     dag: Roger Taylor
     de: Roger Taylor
-    de-ch: Roger Meddows-Taylor
+    de_ch: Roger Meddows-Taylor
     el: Ρότζερ Τέιλορ
     eml: Roger Taylor
     en: Roger Taylor
-    en-ca: Roger Meddows Taylor
-    en-gb: Roger Meddows Taylor
+    en_ca: Roger Meddows Taylor
+    en_gb: Roger Meddows Taylor
     es: Roger Taylor
     et: Roger Meddows Taylor
     eu: Roger Taylor
@@ -152,7 +152,7 @@ dv_has_:
     pl: Roger Taylor
     pms: Roger Taylor
     pt: Roger Meddows-Taylor
-    pt-br: Roger Meddows-Taylor
+    pt_br: Roger Meddows-Taylor
     ro: Roger Meddows-Taylor
     ru: Роджер Тейлор
     scn: Roger Meddows-Taylor

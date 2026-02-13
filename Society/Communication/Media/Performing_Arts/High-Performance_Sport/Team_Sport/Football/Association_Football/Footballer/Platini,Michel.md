@@ -112,7 +112,7 @@ dv_has_:
     ba: Мишель Платини
     ban: Michel Platini
     be: Мішэль Плаціні
-    be-tarask: Мішэль Плятыні
+    be_tarask: Мішэль Плятыні
     bg: Мишел Платини
     bn: মিশেল প্লাতিনি
     br: Michel Platini
@@ -124,12 +124,12 @@ dv_has_:
     da: Michel Platini
     dag: Michel Platini
     de: Michel Platini
-    de-ch: Michel Platini
+    de_ch: Michel Platini
     dv: މިޝޭލް ޕްލެޓިނީ
     el: Μισέλ Πλατινί
     en: Michel Platini
-    en-ca: Michel Platini
-    en-gb: Michel Platini
+    en_ca: Michel Platini
+    en_gb: Michel Platini
     eo: Michel Platini
     es: Michel Platini
     et: Michel Platini
@@ -180,7 +180,7 @@ dv_has_:
     pap: Michel Platini
     pl: Michel Platini
     pt: Michel Platini
-    pt-br: Michel Platini
+    pt_br: Michel Platini
     qu: Michel Platini
     ro: Michel Platini
     ru: Мишель Платини
@@ -206,10 +206,10 @@ dv_has_:
     yo: Michel Platini
     yue: 柏天尼
     zh: 米歇尔·普拉蒂尼
-    zh-cn: 米歇尔·普拉蒂尼
-    zh-hans: 米歇尔·普拉蒂尼
-    zh-hant: 米歇尔·普拉蒂尼
-    zh-hk: 米高·柏天尼
+    zh_cn: 米歇尔·普拉蒂尼
+    zh_hans: 米歇尔·普拉蒂尼
+    zh_hant: 米歇尔·普拉蒂尼
+    zh_hk: 米高·柏天尼
 ---
 # [[Platini,Michel]] 
 

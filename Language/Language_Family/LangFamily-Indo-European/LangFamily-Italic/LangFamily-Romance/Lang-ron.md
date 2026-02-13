@@ -186,7 +186,7 @@ has_id_wikidata: Q7913
 dv_has_:
   name_:
     ab: арумын бызшәа
-    aeb-arab: الروماني
+    aeb_arab: الروماني
     af: Roemeens
     am: ሩማንኛ
     an: idioma rumán
@@ -202,7 +202,7 @@ dv_has_:
     ba: Румын теле
     bcl: Rumano
     be: румынская мова
-    be-tarask: румынская мова
+    be_tarask: румынская мова
     bg: румънски език
     bn: রোমানীয় ভাষা
     br: roumaneg
@@ -214,7 +214,7 @@ dv_has_:
     ckb: زمانی ڕۆمانیایی
     co: lingua rumena
     crh: Romen tili
-    crh-latn: Roman tili
+    crh_latn: Roman tili
     crh-ro: romenşe
     cs: rumunština
     csb: rumùńsczi jãzëk
@@ -223,14 +223,14 @@ dv_has_:
     cy: Rwmaneg
     da: rumænsk
     de: Rumänisch
-    de-ch: Rumänisch
+    de_ch: Rumänisch
     diq: Rumenki
     dsb: Rumunšćina
     el: Ρουμανικά
     eml: Rumên
     en: Romanian
-    en-ca: Romanian
-    en-gb: Romanian
+    en_ca: Romanian
+    en_gb: Romanian
     eo: rumana lingvo
     es: rumano
     et: rumeenia keel
@@ -284,7 +284,7 @@ dv_has_:
     krc: Румын тил
     ks: رومٲنوی زَبان
     ku: zimanê rûmenî
-    ku-latn: zimanê rûmenî
+    ku_latn: zimanê rûmenî
     kv: Румын кыв
     kw: Roumanek
     ky: Румын тили
@@ -308,7 +308,7 @@ dv_has_:
     mo: Лимба ромынэ
     mr: रोमेनियन भाषा
     ms: bahasa Romania
-    ms-arab: بهاس رومانيا
+    ms_arab: بهاس رومانيا
     mt: Rumen
     myv: Румынэнь кель
     mzn: رومانیایی
@@ -334,7 +334,7 @@ dv_has_:
     pnb: رومانییائی
     ps: رومانيايي ژبه
     pt: língua romena
-    pt-br: língua romena
+    pt_br: língua romena
     qu: Rumanya simi
     rm: lingua rumena
     rmy: Rumunikani chhib
@@ -358,7 +358,7 @@ dv_has_:
     so: Af-Romani
     sq: rumanisht
     sr: румунски
-    sr-ec: румунски
+    sr_ec: румунски
     sv: rumänska
     sw: Kiromania
     szl: Růmůńsko godka
@@ -371,7 +371,7 @@ dv_has_:
     tpi: Tok Romenia
     tr: Rumence
     tt: румын теле
-    tt-cyrl: румын теле
+    tt_cyrl: румын теле
     udm: Румын кыл
     ug: رۇمىنىيە تىلى
     uk: румунська мова
@@ -390,9 +390,9 @@ dv_has_:
     yo: èdè Romaníà
     yue: 羅馬尼亞文
     zh: 羅馬尼亞語
-    zh-cn: 罗马尼亚语
-    zh-hant: 羅馬尼亞語
-    zh-tw: 羅馬尼亞語
+    zh_cn: 罗马尼亚语
+    zh_hant: 羅馬尼亞語
+    zh_tw: 羅馬尼亞語
     zu: isi-Romanian
 ---
 # [[Lang-ron]] 

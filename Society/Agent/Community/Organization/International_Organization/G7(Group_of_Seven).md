@@ -84,7 +84,7 @@ dv_has_:
     az: Böyük yeddilik
     ba: Ҙур ете
     be: Вялікая сямёрка
-    be-tarask: Група сямі
+    be_tarask: Група сямі
     bg: Г-7
     bn: জি-৭
     bs: G7
@@ -95,8 +95,8 @@ dv_has_:
     da: G7
     de: G7
     en: G7
-    en-ca: Group of Seven
-    en-gb: Group of Seven
+    en_ca: Group of Seven
+    en_gb: Group of Seven
     eo: G7
     es: G-7
     et: G7
@@ -137,7 +137,7 @@ dv_has_:
     pl: G7
     ps: د اوو ډله
     pt: G7
-    pt-br: G7
+    pt_br: G7
     ro: G7
     roa-tara: G7
     ru: Большая семёрка
@@ -148,8 +148,8 @@ dv_has_:
     so: G7
     sq: Grupi 7
     sr: G7
-    sr-ec: Г7
-    sr-el: G7
+    sr_ec: Г7
+    sr_el: G7
     sv: G7
     sw: G7
     ta: ஜி-7
@@ -165,14 +165,14 @@ dv_has_:
     wuu: 七国集团
     yue: 七大工業國組織
     zh: 七大工業國組織
-    zh-cn: 七国集团
-    zh-hans: 七国集团
-    zh-hant: 七大工業國組織
-    zh-hk: 七大工業國組織
-    zh-mo: 七大工業國組織
+    zh_cn: 七国集团
+    zh_hans: 七国集团
+    zh_hant: 七大工業國組織
+    zh_hk: 七大工業國組織
+    zh_mo: 七大工業國組織
     zh-my: 七国集团
-    zh-sg: 七国集团
-    zh-tw: 七大工業國組織
+    zh_sg: 七国集团
+    zh_tw: 七大工業國組織
 ---
 # [[G7(Group_of_Seven)]] 
 

@@ -112,8 +112,8 @@ dv_has_:
     dv: ވިޓަމިން ޑީ
     el: βιταμίνη D
     en: vitamin D
-    en-ca: vitamin D
-    en-gb: vitamin D
+    en_ca: vitamin D
+    en_gb: vitamin D
     eo: vitamino D
     es: vitamina D
     et: D-vitamiin
@@ -159,7 +159,7 @@ dv_has_:
     pl: witamina D
     ps: وېټامين ډي
     pt: vitamina D
-    pt-br: vitamina D
+    pt_br: vitamina D
     ro: vitamina D
     ru: витамин D
     sd: وٽامن ڊي
@@ -172,8 +172,8 @@ dv_has_:
     sms: D-vitamiin
     sq: vitamina D
     sr: витамин Д
-    sr-ec: витамин Д
-    sr-el: vitamin D
+    sr_ec: витамин Д
+    sr_el: vitamin D
     su: vitamin D
     sv: vitamin D
     sw: Vitamini D
@@ -194,12 +194,12 @@ dv_has_:
     yi: וויטאמין D
     yue: 維他命D
     zh: 维生素D
-    zh-cn: 维生素D
-    zh-hans: 维生素D
-    zh-hant: 維生素D
-    zh-hk: 維生素D
-    zh-sg: 维生素D
-    zh-tw: 維生素D
+    zh_cn: 维生素D
+    zh_hans: 维生素D
+    zh_hant: 維生素D
+    zh_hk: 維生素D
+    zh_sg: 维生素D
+    zh_tw: 維生素D
 ---
 # [[Vitamin_D]] 
 

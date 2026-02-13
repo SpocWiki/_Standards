@@ -82,7 +82,7 @@ dv_has_:
     ar: ديناميكا لونية كمية
     ast: cromodinámica cuántica
     be: квантавая хромадынаміка
-    be-tarask: квантавая хромадынаміка
+    be_tarask: квантавая хромадынаміка
     bg: Квантова хромодинамика
     bn: কোয়ান্টাম ক্রোমোডাইনামিক্স
     bs: kvantna hromodinamika
@@ -91,11 +91,11 @@ dv_has_:
     cy: cromodynameg cwantwm
     da: kvantekromodynamik
     de: Quantenchromodynamik
-    de-ch: Quantenchromodynamik
+    de_ch: Quantenchromodynamik
     el: κβαντική χρωμοδυναμική
     en: quantum chromodynamics
-    en-ca: quantum chromodynamics
-    en-gb: quantum chromodynamics
+    en_ca: quantum chromodynamics
+    en_gb: quantum chromodynamics
     eo: kvantuma kolordinamiko
     es: cromodinámica cuántica
     et: Kvantkromodünaamika
@@ -127,7 +127,7 @@ dv_has_:
     pa: ਕੁਆਂਟਮ ਕ੍ਰੋਮੋਡਾਇਨਾਮਿਕਸ
     pl: chromodynamika kwantowa
     pt: cromodinâmica quântica
-    pt-br: cromodinâmica quântica
+    pt_br: cromodinâmica quântica
     ro: cromodinamică cuantică
     ru: Квантовая хромодинамика
     sk: kvantová chromodynamika
@@ -141,12 +141,12 @@ dv_has_:
     vi: thuyết sắc động lực học lượng tử
     yue: 量子色動力學
     zh: 量子色動力學
-    zh-cn: 量子色动力学
-    zh-hans: 量子色动力学
-    zh-hant: 量子色動力學
-    zh-hk: 量子色動力學
-    zh-sg: 量子色动力学
-    zh-tw: 量子色動力學
+    zh_cn: 量子色动力学
+    zh_hans: 量子色动力学
+    zh_hant: 量子色動力學
+    zh_hk: 量子色動力學
+    zh_sg: 量子色动力学
+    zh_tw: 量子色動力學
 ---
 # [[QCD(Quantum_Chromodynamics)]] 
 

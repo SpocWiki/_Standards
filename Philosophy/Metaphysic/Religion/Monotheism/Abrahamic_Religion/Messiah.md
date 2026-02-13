@@ -97,7 +97,7 @@ dv_has_:
     ast: Mesíes
     az: Məsih
     be: Месія
-    be-tarask: мэсія
+    be_tarask: мэсія
     bg: Месия
     bn: মশীহ
     bpy: মেসসইয়াস
@@ -108,12 +108,12 @@ dv_has_:
     cy: Meseia
     da: Messias
     de: Messias
-    de-ch: Messias
+    de_ch: Messias
     diq: Mesih
     el: Μεσσίας
     en: Messiah
-    en-ca: Messiah
-    en-gb: Messiah
+    en_ca: Messiah
+    en_gb: Messiah
     eo: Mesio
     es: Mesías
     et: Messias
@@ -161,7 +161,7 @@ dv_has_:
     pa: ਮਸੀਹਾ
     pl: Pomazaniec
     pt: Messias
-    pt-br: Messias
+    pt_br: Messias
     ro: Mesia
     ru: мессия
     sh: Mesija
@@ -187,8 +187,8 @@ dv_has_:
     yi: משיח
     yue: 默西亞
     zh: 彌賽亞
-    zh-cn: 弥赛亚
-    zh-hans: 弥赛亚
+    zh_cn: 弥赛亚
+    zh_hans: 弥赛亚
 ---
 # [[Messiah]] 
 

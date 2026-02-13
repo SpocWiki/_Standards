@@ -108,7 +108,7 @@ dv_has_:
     az: Adaptasiya
     bas: lìádɓɛ̀
     be: адаптацыя
-    be-tarask: адаптацыя
+    be_tarask: адаптацыя
     bg: Адаптация
     bn: অভিযোজন
     bo: བསྟུན་འགྱུར།
@@ -147,9 +147,9 @@ dv_has_:
     ka: სოციალური ადაპტაცია
     kab: Assezgi
     kk: Адаптация
-    kk-arab: اداپتاتسىييا
-    kk-cyrl: Адаптация
-    kk-latn: Adaptacïya
+    kk_arab: اداپتاتسىييا
+    kk_cyrl: Адаптация
+    kk_latn: Adaptacïya
     ko: 적응
     ky: Адаптация
     la: Adaptatio
@@ -179,13 +179,13 @@ dv_has_:
     sl: prilagoditev
     sq: Adaptimi
     sr: прилагођавање
-    sr-ec: Адаптација
-    sr-el: Adaptacija
+    sr_ec: Адаптација
+    sr_el: Adaptacija
     su: Adaptasi
     sv: anpassning
     ta: இசைவாக்கம்
     tg: Адаптатсия
-    tg-latn: Adaptatsija
+    tg_latn: Adaptatsija
     th: การปรับตัว
     tl: Pag-aangkop
     tr: adaptasyon
@@ -198,9 +198,9 @@ dv_has_:
     ybb: Leyiŋ ajʉʼ
     yue: 適應
     zh: 適應
-    zh-hans: 适应
-    zh-hant: 適應
-    zh-hk: 適應
+    zh_hans: 适应
+    zh_hant: 適應
+    zh_hk: 適應
 ---
 # [[Adaptation]] 
 

@@ -4,18 +4,18 @@ dv_has_:
   name_:
     ar: طاردة
     ast: Centrifugadora
-    be-tarask: цэнтрыфуга
+    be_tarask: цэнтрыфуга
     bg: Центрофуга
     ca: centrifugadora
     ckb: سەنتەرفیووج
     cs: odstředivka
     da: centrifuge
     de: Zentrifuge
-    de-ch: Zentrifuge
+    de_ch: Zentrifuge
     el: φυγοκεντρωτής
     en: centrifuge
-    en-ca: Centrifuge
-    en-gb: centrifuge
+    en_ca: Centrifuge
+    en_gb: centrifuge
     eo: centrifugilo
     es: centrifugadora
     et: Tsentrifuug
@@ -51,8 +51,8 @@ dv_has_:
     sk: centrifugálny
     sl: centrifuga
     sr: центрифуга
-    sr-ec: центрифуга
-    sr-el: centrifuga
+    sr_ec: центрифуга
+    sr_el: centrifuga
     sv: centrifug
     ta: மைய விலக்கு சுழற்சிக் கருவி
     te: అపకేంద్ర యంత్రం
@@ -63,14 +63,14 @@ dv_has_:
     vi: máy ly tâm
     yue: 離心機
     zh: 離心機
-    zh-cn: 离心机
-    zh-hans: 离心机
-    zh-hant: 離心機
-    zh-hk: 離心機
-    zh-mo: 離心機
+    zh_cn: 离心机
+    zh_hans: 离心机
+    zh_hant: 離心機
+    zh_hk: 離心機
+    zh_mo: 離心機
     zh-my: 离心机
-    zh-sg: 离心机
-    zh-tw: 離心機
+    zh_sg: 离心机
+    zh_tw: 離心機
 aliases:
 - centrifug
 - centrifuga

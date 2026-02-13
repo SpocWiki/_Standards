@@ -143,7 +143,7 @@ dv_has_:
     ba: Ерек
     bar: Elan
     be: Вольха
-    be-tarask: вольха
+    be_tarask: вольха
     bg: елша
     br: Gwern
     bs: Alnus
@@ -205,7 +205,7 @@ dv_has_:
     nah: Īlītl
     nb: oreslekten
     nds: Ellernbööm
-    nds-nl: elze
+    nds_nl: elze
     nl: els
     nn: or
     oc: Vèrnhe
@@ -213,7 +213,7 @@ dv_has_:
     pl: olsza
     pnb: الڈر
     pt: Alnus
-    pt-br: Alnus
+    pt_br: Alnus
     qu: Ramran
     ro: Arin
     ru: Ольха
@@ -243,9 +243,9 @@ dv_has_:
     wuu: 桤木属
     yue: 赤楊屬
     zh: 桤木属
-    zh-cn: 桤木属
-    zh-hans: 桤木属
-    zh-tw: 桤木屬
+    zh_cn: 桤木属
+    zh_hans: 桤木属
+    zh_tw: 桤木屬
 ---
 # [[Alnus]] 
 

@@ -20,7 +20,7 @@ dv_has_:
   name_:
     ar: تيرانوصورونيات
     ast: Tyrannosaurinae
-    be-tarask: тыраназаўрыны
+    be_tarask: тыраназаўрыны
     bg: Tyrannosaurinae
     ceb: Tyrannosaurinae
     cs: Tyrannosaurinae
@@ -48,9 +48,9 @@ dv_has_:
     vi: Tyrannosaurinae
     war: Tyrannosaurinae
     zh: 暴龙亚科
-    zh-cn: 暴龙亚科
-    zh-hans: 暴龙亚科
-    zh-tw: 暴龍亞科
+    zh_cn: 暴龙亚科
+    zh_hans: 暴龙亚科
+    zh_tw: 暴龍亞科
 ---
 # [[Tyrannosaurinae]] 
 

@@ -40,7 +40,7 @@ dv_has_:
     oc: Bacillales
     pl: Bacillales
     pt: Bacillales
-    pt-br: Bacillales
+    pt_br: Bacillales
     ro: Bacillales
     ru: Bacillales
     sco: Bacillales

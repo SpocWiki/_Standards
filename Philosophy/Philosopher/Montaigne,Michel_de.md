@@ -149,7 +149,7 @@ dv_has_:
     ast: Michel de Montaigne
     az: Mişel de Monten
     be: Мішэль дэ Мантэнь
-    be-tarask: Мішэль дэ Мантэнь
+    be_tarask: Мішэль дэ Мантэнь
     bg: Мишел дьо Монтен
     bn: মিশেল দ্য মন্টেইন
     br: Michel de Montaigne
@@ -161,12 +161,12 @@ dv_has_:
     cy: Miquèu Eiquèm de Montanha
     da: Michel de Montaigne
     de: Michel de Montaigne
-    de-ch: Michel de Montaigne
+    de_ch: Michel de Montaigne
     diq: Michel de Montaigne
     el: Μισέλ ντε Μονταίν
     en: Michel de Montaigne
-    en-ca: Michel de Montaigne
-    en-gb: Michel de Montaigne
+    en_ca: Michel de Montaigne
+    en_gb: Michel de Montaigne
     eo: Michel de Montaigne
     es: Michel de Montaigne
     et: Michel de Montaigne
@@ -217,7 +217,7 @@ dv_has_:
     pnb: مائیکل ڈی مونتین
     ps: ميشل ډي مونټني
     pt: Michel de Montaigne
-    pt-br: Michel de Montaigne
+    pt_br: Michel de Montaigne
     ro: Michel de Montaigne
     ru: Мишель де Монтень
     sc: Michel de Montaigne
@@ -240,7 +240,7 @@ dv_has_:
     yue: 蒙田
     zh: 米歇爾·德·蒙田
     zh-hans: 米歇尔·德·蒙田
-    zh-hant: 米歇爾·德·蒙田
+    zh_hant: 米歇爾·德·蒙田
 ---
 # [[Montaigne,Michel_de]] 
 

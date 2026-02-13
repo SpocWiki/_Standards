@@ -101,7 +101,7 @@ dv_has_:
     az: armaturlanmış beton
     ba: Тимербетон
     be: жалезабетон
-    be-tarask: жалезабэтон
+    be_tarask: жалезабэтон
     bg: Стоманобетон
     bn: রিইনফোর্সড কংক্রিট
     br: beton houarnet
@@ -111,11 +111,11 @@ dv_has_:
     cy: Concrit cyfnerthedig
     da: jernbeton
     de: Stahlbeton
-    de-ch: Stahlbeton
+    de_ch: Stahlbeton
     el: οπλισμένο σκυρόδεμα
     en: reinforced concrete
-    en-ca: Reinforced concrete
-    en-gb: reinforced concrete
+    en_ca: Reinforced concrete
+    en_gb: reinforced concrete
     eo: Ŝtalbetono
     es: hormigón armado
     et: Raudbetoon
@@ -136,11 +136,11 @@ dv_has_:
     ja: 鉄筋コンクリート
     jv: Beton mawa balung
     kk: темірбетон
-    kk-arab: بەتونداۋ
+    kk_arab: بەتونداۋ
     kk-cn: بەتونداۋ
-    kk-cyrl: Бетондау
+    kk_cyrl: Бетондау
     kk-kz: Бетондау
-    kk-latn: Betondaw
+    kk_latn: Betondaw
     kk-tr: Betondaw
     ko: 철근 콘크리트
     ky: Болот-бетон
@@ -159,7 +159,7 @@ dv_has_:
     nl: gewapend beton
     pl: żelbet
     pt: betão armado
-    pt-br: concreto armado
+    pt_br: concreto armado
     ro: Beton armat
     ru: железобетон
     sd: آر سي سي
@@ -167,8 +167,8 @@ dv_has_:
     sk: železobetón
     sl: armirani beton
     sr: Армирани бетон
-    sr-ec: Армирани бетон
-    sr-el: Armirani beton
+    sr_ec: Армирани бетон
+    sr_el: Armirani beton
     sv: armerad betong
     ta: வலுவூட்டப்பட்ட காங்கிறீற்று
     th: คอนกรีตเสริมแรง
@@ -183,12 +183,12 @@ dv_has_:
     wuu: 钢筋混凝土
     yue: 鋼筋混凝土
     zh: 钢筋混凝土
-    zh-cn: 钢筋混凝土
-    zh-hans: 钢筋混凝土
-    zh-hant: 鋼筋混凝土
-    zh-hk: 鋼筋混凝土
-    zh-sg: 钢筋混凝土
-    zh-tw: 鋼筋混凝土
+    zh_cn: 钢筋混凝土
+    zh_hans: 钢筋混凝土
+    zh_hant: 鋼筋混凝土
+    zh_hk: 鋼筋混凝土
+    zh_sg: 钢筋混凝土
+    zh_tw: 鋼筋混凝土
 ---
 # [[Reinforced_Concrete]] 
 

@@ -21,16 +21,16 @@ dv_has_:
     arz: ريك ويكمان
     ast: Rick Wakeman
     azb: ریک ویکمن
-    be-tarask: Рык Ўэйкман
+    be_tarask: Рык Ўэйкман
     ca: Rick Wakeman
     cs: Rick Wakeman
     da: Rick Wakeman
     de: Rick Wakeman
-    de-ch: Rick Wakeman
+    de_ch: Rick Wakeman
     el: Ρικ Γουέικμαν
     en: Rick Wakeman
-    en-ca: Rick Wakeman
-    en-gb: Rick Wakeman
+    en_ca: Rick Wakeman
+    en_gb: Rick Wakeman
     eo: Rick Wakeman
     es: Rick Wakeman
     fa: ریک ویکمن
@@ -50,7 +50,7 @@ dv_has_:
     nn: Rick Wakeman
     pl: Rick Wakeman
     pt: Rick Wakeman
-    pt-br: Rick Wakeman
+    pt_br: Rick Wakeman
     ro: Rick Wakeman
     ru: Рик Уэйкман
     sh: Rick Wakeman

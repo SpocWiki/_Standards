@@ -72,7 +72,7 @@ dv_has_:
   name_:
     ar: مضخم عملياتي
     ast: amplificador operacional
-    be-tarask: апэрацыйны ўзмацняльнік
+    be_tarask: апэрацыйны ўзмацняльнік
     bg: операционен осилвател
     bn: সক্রিয় বিবর্ধক
     bug: op-amp
@@ -80,10 +80,10 @@ dv_has_:
     cs: operační zesilovač
     da: operationsforstærker
     de: Operationsverstärker
-    de-ch: Operationsverstärker
+    de_ch: Operationsverstärker
     en: operational amplifier
-    en-ca: operational amplifier
-    en-gb: operational amplifier
+    en_ca: operational amplifier
+    en_gb: operational amplifier
     eo: operacia amplifilo
     es: amplificador operacional
     et: operatsioonvõimendi
@@ -100,11 +100,11 @@ dv_has_:
     it: amplificatore operazionale
     ja: オペアンプ
     kk: операциялық күшейткіш
-    kk-arab: وپەراتسىييالىق كۇشەيتكىش
+    kk_arab: وپەراتسىييالىق كۇشەيتكىش
     kk-cn: وپەراتسىييالىق كۇشەيتكىش
-    kk-cyrl: операциялық күшейткіш
+    kk_cyrl: операциялық күшейткіш
     kk-kz: операциялық күшейткіш
-    kk-latn: operacïyalıq küşeýtkiş
+    kk_latn: operacïyalıq küşeýtkiş
     kk-tr: operacïyalıq küşeýtkiş
     ko: 연산 증폭기
     la: ampflificator operationalis
@@ -119,7 +119,7 @@ dv_has_:
     pl: wzmacniacz operacyjny
     pms: Amplificator operassional
     pt: amplificador operacional
-    pt-br: amplificador operacional
+    pt_br: amplificador operacional
     ro: amplificator operațional
     ru: операционный усилитель
     sh: operacioni pojačavač
@@ -127,8 +127,8 @@ dv_has_:
     sl: operacijski ojačevalnik
     sq: amplifikatorët operacional
     sr: operacioni pojačavač
-    sr-ec: операциони појачавач
-    sr-el: operacioni pojačavač
+    sr_ec: операциони појачавач
+    sr_el: operacioni pojačavač
     sv: operationsförstärkare
     ta: செயல்படு பெருக்கி
     te: ఆపరేషనల్ ఆమ్ప్లిఫయర్
@@ -139,12 +139,12 @@ dv_has_:
     vi: mạch khuếch đại thuật toán
     yue: 運算放大器
     zh: 運算放大器
-    zh-cn: 运算放大器
-    zh-hans: 运算放大器
-    zh-hant: 運算放大器
-    zh-hk: 運算放大器
-    zh-sg: 运算放大器
-    zh-tw: 運算放大器
+    zh_cn: 运算放大器
+    zh_hans: 运算放大器
+    zh_hant: 運算放大器
+    zh_hk: 運算放大器
+    zh_sg: 运算放大器
+    zh_tw: 運算放大器
 ---
 # [[Operational_Amplifier]] 
 

@@ -83,17 +83,17 @@ dv_has_:
   name_:
     ar: مجموعة مجرات
     be: Група галактык
-    be-tarask: галяктычная група
+    be_tarask: галяктычная група
     bn: ছায়াপথের গোষ্ঠী
     ca: grup de galàxies
     cs: skupina galaxií
     cy: grŵp o alaethau
     de: Galaxiengruppe
-    de-ch: Galaxiengruppe
+    de_ch: Galaxiengruppe
     el: Ομάδα γαλαξιών
     en: galaxy group
-    en-ca: Galaxy group
-    en-gb: galaxy group
+    en_ca: Galaxy group
+    en_gb: galaxy group
     eo: grupo de galaksioj
     es: grupo de galaxias
     et: galaktikarühm
@@ -115,7 +115,7 @@ dv_has_:
     lt: Galaktikų grupė
     mk: галактичка група
     ms: kumpulan galaksi
-    ms-arab: کومڤولن ݢالکسي
+    ms_arab: کومڤولن ݢالکسي
     my: ဂလက်ဆီ အုပ်စု
     nan: Gîn-hô-kûn
     nb: galaksegruppe

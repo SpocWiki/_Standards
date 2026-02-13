@@ -100,11 +100,11 @@ dv_has_:
     ja: くる病
     ka: რაქიტი
     kk: Рахит
-    kk-arab: راحىيت
+    kk_arab: راحىيت
     kk-cn: راحىيت
-    kk-cyrl: Рахит
+    kk_cyrl: Рахит
     kk-kz: Рахит
-    kk-latn: Raxït
+    kk_latn: Raxït
     kk-tr: Raxït
     kn: ರಿಕೆಟ್ಸ್
     ko: 구루병
@@ -127,8 +127,8 @@ dv_has_:
     sk: Rachitída
     sl: rahitis
     sr: рахитис
-    sr-ec: рахитис
-    sr-el: rahitis
+    sr_ec: рахитис
+    sr_el: rahitis
     sv: rakit
     sw: Matege
     ta: என்புருக்கி நோய்
@@ -142,12 +142,12 @@ dv_has_:
     wuu: 佝偻病
     yue: 佝僂病
     zh: 佝僂病
-    zh-cn: 佝偻病
-    zh-hans: 佝偻病
-    zh-hant: 佝僂病
-    zh-hk: 佝僂病
-    zh-sg: 佝偻病
-    zh-tw: 佝僂病
+    zh_cn: 佝偻病
+    zh_hans: 佝偻病
+    zh_hant: 佝僂病
+    zh_hk: 佝僂病
+    zh_sg: 佝偻病
+    zh_tw: 佝僂病
 ---
 ## #has_/text_of_/abstract 
 

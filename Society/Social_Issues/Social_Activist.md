@@ -8,7 +8,7 @@ dv_has_:
     az: aktivizm
     bcl: Aktibismo
     be: актывізм
-    be-tarask: актывізм
+    be_tarask: актывізм
     bg: Активизъм
     bn: সক্রিয়তাবাদ
     br: Stourmerezh
@@ -19,11 +19,11 @@ dv_has_:
     da: aktivisme
     de: Aktivismus
     de-at: Aktivismus
-    de-ch: Aktivismus
+    de_ch: Aktivismus
     el: ακτιβισμός
     en: activism
-    en-ca: Activism
-    en-gb: activism
+    en_ca: Activism
+    en_gb: activism
     eo: aktivismo
     es: activismo
     et: aktivism
@@ -51,7 +51,7 @@ dv_has_:
     ja: 積極行動主義
     ko: 활동주의
     ku: aktîvîzm
-    ku-latn: aktîvîzm
+    ku_latn: aktîvîzm
     ky: Активизм
     la: activismus
     lb: Aktivismus
@@ -60,7 +60,7 @@ dv_has_:
     lv: aktīvisms
     mk: активизам
     ms: aktivisme
-    ms-arab: اکتيۏيسمى
+    ms_arab: اکتيۏيسمى
     my: တက်ကြွထက်သန်သူများ
     nan: Hêng-tōng Chú-gī
     nan-hani: 行動主義
@@ -75,7 +75,7 @@ dv_has_:
     pap-aw: activismo
     pl: aktywizm
     pt: Ativismo
-    pt-br: Ativismo
+    pt_br: Ativismo
     rmy: Aktivismo
     ro: activism
     ru: гражданский активизм
@@ -91,8 +91,8 @@ dv_has_:
     sn: Hushingairi
     sq: aktivizëm
     sr: активизам
-    sr-ec: активизам
-    sr-el: aktivizam
+    sr_ec: активизам
+    sr_el: aktivizam
     sv: aktivism
     sw: Harakati
     ta: செயற்பாட்டியம்
@@ -106,10 +106,10 @@ dv_has_:
     vi: hoạt động xã hội
     yue: 倡議行動
     zh: 行动主义
-    zh-cn: 行动主义
-    zh-hans: 行动主义
-    zh-hant: 行動主義
-    zh-tw: 行動主義
+    zh_cn: 行动主义
+    zh_hans: 行动主义
+    zh_hant: 行動主義
+    zh_tw: 行動主義
 aliases:
 - activism
 - activisme

@@ -81,7 +81,7 @@ dv_has_:
     ast: superfluidez
     az: ifrat axıcılıq
     be: звышцякучасць
-    be-tarask: звышплыннасьць
+    be_tarask: звышплыннасьць
     bg: свръхфлуидност
     bho: अती तरलता
     bn: অতিতারল্য
@@ -93,8 +93,8 @@ dv_has_:
     da: superfluiditet
     de: Suprafluidität
     en: superfluidity
-    en-ca: superfluidity
-    en-gb: superfluidity
+    en_ca: superfluidity
+    en_gb: superfluidity
     eo: superfluideco
     es: superfluidez
     et: ülivoolavus
@@ -114,11 +114,11 @@ dv_has_:
     it: superfluidità
     ja: 超流動
     kk: асқын аққыштық
-    kk-arab: اسقىن اققىشتىق
+    kk_arab: اسقىن اققىشتىق
     kk-cn: اسقىن اققىشتىق
-    kk-cyrl: асқын аққыштық
+    kk_cyrl: асқын аққыштық
     kk-kz: асқын аққыштық
-    kk-latn: asqın aqqıştıq
+    kk_latn: asqın aqqıştıq
     kk-tr: asqın aqqıştıq
     kn: ಸೂಪರ್ ಫ್ಲೂಯಿಡಿಟಿ
     ko: 초유체
@@ -135,7 +135,7 @@ dv_has_:
     nn: superfluiditet
     pl: nadciekłość
     pt: superfluidez
-    pt-br: superfluidez
+    pt_br: superfluidez
     ro: superfluid
     ru: сверхтекучесть
     scn: supirfluidu
@@ -144,8 +144,8 @@ dv_has_:
     sl: supertekočnost
     sq: Superrrjedhshmëria
     sr: суперфлуиди
-    sr-ec: суперфлуиди
-    sr-el: superfluidi
+    sr_ec: суперфлуиди
+    sr_el: superfluidi
     sv: suprafluiditet
     ta: மீப்பாய்மத்தன்மை
     th: ของไหลยวดยิ่ง
@@ -155,12 +155,12 @@ dv_has_:
     wuu: 超流体
     yue: 超流體
     zh: 超流体
-    zh-cn: 超流体
-    zh-hans: 超流体
-    zh-hant: 超流體
-    zh-hk: 超流體
-    zh-sg: 超流体
-    zh-tw: 超流體
+    zh_cn: 超流体
+    zh_hans: 超流体
+    zh_hant: 超流體
+    zh_hk: 超流體
+    zh_sg: 超流体
+    zh_tw: 超流體
 ---
 # [[Superfluidity]] 
 

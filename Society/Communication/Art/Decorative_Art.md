@@ -78,7 +78,7 @@ dv_has_:
     ast: Artes decoratives
     az: dekorativ incəsənət
     be: дэкаратыўнае мастацтва
-    be-tarask: дэкаратыўнае мастацтва
+    be_tarask: дэкаратыўнае мастацтва
     bg: Декоративно изкуство
     ca: art decoratiu
     cs: dekorativní umění
@@ -122,7 +122,7 @@ dv_has_:
     sw: Pambo
     tr: Dekorativ sanat
     tt: декоратив-гамәли сәнгать
-    tt-cyrl: декоратив-гамәли сәнгать
+    tt_cyrl: декоратив-гамәли сәнгать
     uk: декоративне мистецтво
     ur: سجاوٹی فنون
     vec: arte decorative
@@ -130,10 +130,10 @@ dv_has_:
     xmf: დეკორატიული ხელუანობა
     yue: 裝飾藝術
     zh: 裝飾藝術
-    zh-cn: 装饰艺术
-    zh-hans: 装饰艺术
-    zh-hant: 裝飾藝術
-    zh-hk: 裝飾藝術
+    zh_cn: 装饰艺术
+    zh_hans: 装饰艺术
+    zh_hant: 裝飾藝術
+    zh_hk: 裝飾藝術
 ---
 # [[Decorative_Art]] 
 

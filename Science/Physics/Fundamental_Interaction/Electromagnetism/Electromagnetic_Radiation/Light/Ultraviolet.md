@@ -156,7 +156,7 @@ dv_has_:
     ba: ультрафиолет нурланыш
     ban: Radiasi ultratangi
     be: ультрафіялетавае выпраменьванне
-    be-tarask: ультрафіялетавае выпраменьваньне
+    be_tarask: ультрафіялетавае выпраменьваньне
     bg: ултравиолетово излъчване
     bn: অতিবেগুনী
     br: uslimestra
@@ -171,8 +171,8 @@ dv_has_:
     de: Ultraviolettstrahlung
     el: Υπεριώδης ακτινοβολία
     en: ultraviolet radiation
-    en-ca: ultraviolet
-    en-gb: ultraviolet
+    en_ca: ultraviolet
+    en_gb: ultraviolet
     eo: ultraviola radiado
     es: radiación ultravioleta
     et: ultraviolettkiirgus
@@ -202,12 +202,12 @@ dv_has_:
     jv: ultraviolet
     ka: ულტრაიისფერი გამოსხივება
     kk: ультракүлгін сәуле, сәулемен емдеу
-    kk-cyrl: ультракүлгін сәулелену
+    kk_cyrl: ультракүлгін сәулелену
     kn: ಅತಿನೇರಳೆ ವಿಕಿರಣ
     ko: 자외선
     ks: تاپٕچ زٕژ
     ksh: Shwatzleesh
-    ku-latn: tîroja serbinefşî
+    ku_latn: tîroja serbinefşî
     ky: ультракызгылт көк нуру
     la: radiatio ultraviolacea
     li: Ultraviolet
@@ -234,7 +234,7 @@ dv_has_:
     pnb: اتلیجامنی
     pnt: Υπεριώδης ακτινοβολία
     pt: radiação ultravioleta
-    pt-br: radiação ultravioleta
+    pt_br: radiação ultravioleta
     qu: Anchak'uyu
     rki: ခရမ်းလွန်ရောင်ခြည်
     ro: raze ultraviolete
@@ -249,7 +249,7 @@ dv_has_:
     smn: ultravioletsuonjârdem
     sq: rrezet ultravioletë
     sr: ултраљубичасто зрачење
-    sr-ec: ултраљубичасто зрачење
+    sr_ec: ултраљубичасто зрачење
     su: ultraviolét
     sv: ultraviolett strålning
     sw: urujuanimno
@@ -274,9 +274,9 @@ dv_has_:
     yi: אולטראוויאלעט
     yue: 紫外線
     zh: 紫外線
-    zh-hans: 紫外线
-    zh-hant: 紫外線
-    zh-hk: 紫外線
+    zh_hans: 紫外线
+    zh_hant: 紫外線
+    zh_hk: 紫外線
     zu: Uzukhwithi
 ---
 # [[Ultraviolet]] 

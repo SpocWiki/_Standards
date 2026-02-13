@@ -62,7 +62,7 @@ dv_has_:
     as: কেচিঅ’পিয়া (এণ্ড্ৰমেডাৰ মাতৃ)
     ast: Casiopea
     be: Касіяпея
-    be-tarask: Касіяпэя
+    be_tarask: Касіяпэя
     bg: Касиопея
     br: Kassiopeia
     bs: Kasiopeja
@@ -91,7 +91,7 @@ dv_has_:
     ka: კასიოპეა
     ko: 카시오페이아
     ku: Kasiopeia
-    ku-latn: Kasiopeia
+    ku_latn: Kasiopeia
     lt: Kasiopėja
     mk: Касиопеја (митологија)
     nb: Kassiopeia
@@ -105,8 +105,8 @@ dv_has_:
     sh: Kasiopeja
     sk: Kassiopeia
     sr: Касиопеја
-    sr-ec: Касиопеја
-    sr-el: Kasiopeja
+    sr_ec: Касиопеја
+    sr_el: Kasiopeja
     sv: Kassiopeia
     th: แคสซิโอเปีย
     tr: Kassiopeia

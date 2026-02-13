@@ -89,7 +89,7 @@ dv_has_:
     af: diëet aanvulling
     ar: مكمل غذائي
     ast: Suplementu dietéticu
-    be-tarask: біялягічна актыўны дадатак
+    be_tarask: біялягічна актыўны дадатак
     bn: খাদ্য পরিপূরক
     bs: Prehrambeni suplement
     ca: complement dietètic
@@ -134,8 +134,8 @@ dv_has_:
     smj: biebbmoduodde
     smn: laseraavâdaamnâs
     sr: дијететски суплемент
-    sr-ec: Дијететски суплементи
-    sr-el: Dijetetski suplementi
+    sr_ec: Дијететски суплементи
+    sr_el: Dijetetski suplementi
     sv: kosttillskott
     ta: உணவுக் குறைநிரப்பி
     th: อาหารเสริม
@@ -145,9 +145,9 @@ dv_has_:
     yue: 保健品
     zh: 膳食补充剂
     zh-cn: 膳食补充剂
-    zh-hans: 膳食补充剂
-    zh-hant: 膳食補充劑
-    zh-hk: 膳食補充劑
+    zh_hans: 膳食补充剂
+    zh_hant: 膳食補充劑
+    zh_hk: 膳食補充劑
 ---
 # [[Dietary_Supplement]] 
 

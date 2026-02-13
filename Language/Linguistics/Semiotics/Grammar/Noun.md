@@ -195,7 +195,7 @@ dv_has_:
     bar: Substantiv
     bcl: pangngaran
     be: назоўнік
-    be-tarask: назоўнік
+    be_tarask: назоўнік
     bg: съществително име
     bho: संज्ञा
     bkh: ngɔn ɓasú mbú
@@ -213,13 +213,13 @@ dv_has_:
     da: navneord
     dag: bachinamda
     de: Substantiv
-    de-ch: Substantiv
+    de_ch: Substantiv
     dsb: wěcownik
     dtp: boros ngaran
     el: ουσιαστικό
     en: noun
-    en-ca: noun
-    en-gb: noun
+    en_ca: noun
+    en_gb: noun
     eo: substantivo
     es: sustantivo
     et: nimisõna
@@ -270,7 +270,7 @@ dv_has_:
     krj: pangngaran
     ks: ناوُت
     ku: navdêr
-    ku-latn: navdêr
+    ku_latn: navdêr
     kw: hanow
     ky: зат атооч
     la: nomen substantivum
@@ -290,7 +290,7 @@ dv_has_:
     mn: нэр үг
     mr: नाम
     ms: kata nama
-    ms-arab: کات نام
+    ms_arab: کات نام
     mt: nom
     my: နာမ်(သဒ္ဒါ)
     myv: улемксвал
@@ -341,7 +341,7 @@ dv_has_:
     tcy: ನಾಮಪದ
     te: నామవాచకం
     tg: исм
-    tg-cyrl: исм
+    tg_cyrl: исм
     th: คำนาม
     tl: pangngalan
     tly: i̇sim
@@ -365,11 +365,11 @@ dv_has_:
     yue: 名詞
     zgh: ⵉⵙⵎ
     zh: 名詞
-    zh-cn: 名词
-    zh-hans: 名词
-    zh-hant: 名詞
-    zh-hk: 名詞
-    zh-tw: 名詞
+    zh_cn: 名词
+    zh_hans: 名词
+    zh_hant: 名詞
+    zh_hk: 名詞
+    zh_tw: 名詞
     zu: ibizo
 ---
 # [[Noun]] 

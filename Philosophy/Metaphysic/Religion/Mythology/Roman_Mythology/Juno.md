@@ -119,7 +119,7 @@ dv_has_:
     az: Yunona
     ba: Юнона
     be: Юнона
-    be-tarask: Юнона
+    be_tarask: Юнона
     bg: Юнона
     bn: ইউনো
     bo: ཀྲུའུ་ནུའོ།
@@ -158,7 +158,7 @@ dv_has_:
     ka: იუნონა
     ko: 유노
     ku: Juno
-    ku-latn: Juno
+    ku_latn: Juno
     la: Iuno
     lb: Juno
     lij: Giunon
@@ -188,15 +188,15 @@ dv_has_:
     sk: Juno
     sl: Junona
     sr: Јунона
-    sr-ec: Јунона
-    sr-el: Junona
+    sr_ec: Јунона
+    sr_el: Junona
     sv: Juno
     ta: ஜூனோ
     th: จูโน
     tok: jan sewi Juno
     tr: Juno
     tt: Юнона
-    tt-cyrl: Юнона
+    tt_cyrl: Юнона
     uk: Юнона
     ur: جونو
     uz: Yunona
@@ -205,12 +205,12 @@ dv_has_:
     wuu: 朱诺
     yue: 尤諾
     zh: 朱諾
-    zh-cn: 朱诺
-    zh-hans: 朱诺
-    zh-hant: 朱諾
-    zh-hk: 朱諾
-    zh-sg: 朱诺
-    zh-tw: 朱諾
+    zh_cn: 朱诺
+    zh_hans: 朱诺
+    zh_hant: 朱諾
+    zh_hk: 朱諾
+    zh_sg: 朱诺
+    zh_tw: 朱諾
 ---
 # [[Juno]] 
 

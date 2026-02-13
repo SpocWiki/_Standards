@@ -63,14 +63,14 @@ dv_has_:
   name_:
     ar: لب خارجي
     ast: nucleu esternu
-    be-tarask: зьнешняе ядро Зямлі
+    be_tarask: зьнешняе ядро Зямлі
     ca: nucli extern
     de: äußerer Erdkern
-    de-ch: äusserer Erdkern
+    de_ch: äusserer Erdkern
     el: εξωτερικό τμήμα του πυρήνα της Γης
     en: outer core
-    en-ca: Outer core
-    en-gb: outer core
+    en_ca: Outer core
+    en_gb: outer core
     eo: Ekstera kerno de la Tero
     es: núcleo externo
     et: Välistuum
@@ -94,7 +94,7 @@ dv_has_:
     pl: jądro zewnętrzne
     pnb: بارلی گڑک
     pt: núcleo externo
-    pt-br: Núcleo externo
+    pt_br: Núcleo externo
     ru: внешнее ядро Земли
     sco: ooter core
     sl: zunanje jedro
@@ -106,9 +106,9 @@ dv_has_:
     vi: Lõi ngoài
     yue: 外核
     zh: 外核
-    zh-hans: 外核
-    zh-hant: 外核
-    zh-hk: 外核
+    zh_hans: 外核
+    zh_hant: 外核
+    zh_hk: 外核
 ---
 # [[Outer_Core]] 
 

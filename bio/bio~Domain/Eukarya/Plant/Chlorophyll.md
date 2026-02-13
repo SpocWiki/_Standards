@@ -121,7 +121,7 @@ dv_has_:
     az: Xlorofil
     ba: Хлорофилл
     be: Хларафіл
-    be-tarask: хлярафіл
+    be_tarask: хлярафіл
     bg: Хлорофил
     bn: ক্লোরোফিল
     bs: Hlorofil
@@ -194,8 +194,8 @@ dv_has_:
     sms: lõsttruõnâs
     sq: klorofili
     sr: хлорофил
-    sr-ec: хлорофил
-    sr-el: hlorofil
+    sr_ec: хлорофил
+    sr_el: hlorofil
     su: kloropil
     sv: klorofyll
     sw: klorofili

@@ -100,7 +100,7 @@ dv_has_:
     az: W3C
     ba: W3C
     be: Кансорцыум Сусветнага павуціння
-    be-tarask: Кансорцыюм Сусьветнага павуціньня
+    be_tarask: Кансорцыюм Сусьветнага павуціньня
     bg: World Wide Web Consortium
     bn: ওয়ার্ল্ড ওয়াইড ওয়েব কনসোর্টিয়াম
     br: World Wide Web Consortium
@@ -112,8 +112,8 @@ dv_has_:
     de: World Wide Web Consortium
     el: World Wide Web Consortium
     en: World Wide Web Consortium
-    en-ca: World Wide Web Consortium
-    en-gb: World Wide Web Consortium
+    en_ca: World Wide Web Consortium
+    en_gb: World Wide Web Consortium
     eo: Konsorcio de la Tut-Tera Teksaĵo
     es: World Wide Web Consortium
     et: World Wide Web Consortium
@@ -155,7 +155,7 @@ dv_has_:
     pl: World Wide Web Consortium
     pms: W3C
     pt: W3C
-    pt-br: World Wide Web Consortium
+    pt_br: World Wide Web Consortium
     ro: World Wide Web Consortium
     ru: Консорциум Всемирной паутины
     sh: World Wide Web Consortium
@@ -168,16 +168,16 @@ dv_has_:
     th: เวิลด์ไวด์เว็บคอนซอร์เทียม
     tr: Dünya Çapında Ağ Birliği
     tt: Бөтендөнья пәрәвезе Консорциумы
-    tt-cyrl: Бөтендөнья пәрәвезе Консорциумы
+    tt_cyrl: Бөтендөнья пәрәвезе Консорциумы
     uk: W3C
     vi: W3C
     wuu: 万维网联盟
     yue: 萬維網聯盟
     zh: 萬維網聯盟
-    zh-cn: 万维网联盟
-    zh-hans: 万维网联盟
-    zh-hant: 全球資訊網聯盟
-    zh-tw: 萬維網聯盟
+    zh_cn: 万维网联盟
+    zh_hans: 万维网联盟
+    zh_hant: 全球資訊網聯盟
+    zh_tw: 萬維網聯盟
 ---
 # [[W3C(World_Wide_Web_Consortium)]] 
 

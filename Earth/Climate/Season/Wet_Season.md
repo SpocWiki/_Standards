@@ -120,7 +120,7 @@ dv_has_:
     ban: Sabeh (masan)
     bcl: Tag-uran
     be: Сезон дажджоў
-    be-tarask: Сэзон дажджоў
+    be_tarask: Сэзон дажджоў
     bg: Дъждовен сезон
     bho: बरसात
     bm: Samiya
@@ -130,12 +130,12 @@ dv_has_:
     cv: Çумăр сезонĕ
     da: regntid
     de: Regenzeit
-    de-ch: Regenzeit
+    de_ch: Regenzeit
     dsb: Dešćowy cas
     dty: वर्षा ऋतु
     en: wet season
-    en-ca: Wet season
-    en-gb: wet season
+    en_ca: Wet season
+    en_gb: wet season
     eo: pluvsezono
     es: estación lluviosa
     eu: Urtaro hezea
@@ -177,7 +177,7 @@ dv_has_:
     pl: pora deszczowa
     pnb: برسات
     pt: estação das chuvas
-    pt-br: Estação das chuvas
+    pt_br: Estação das chuvas
     qu: Paray mit'a
     rn: Urushana
     ro: sezon umed

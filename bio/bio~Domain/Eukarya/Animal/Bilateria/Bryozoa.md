@@ -114,7 +114,7 @@ dv_has_:
     oc: Ectoprocta
     pl: Mszywioły
     pt: Ectoprocta
-    pt-br: Bryozoa
+    pt_br: Bryozoa
     ro: Bryozoa
     ru: мшанки
     sco: Bryozoa
@@ -124,8 +124,8 @@ dv_has_:
     sl: mahovnjaki
     sq: Bryozoa
     sr: морске маховине
-    sr-ec: Морске маховине
-    sr-el: Morske mahovine
+    sr_ec: Морске маховине
+    sr_el: Morske mahovine
     sv: mossdjur
     sw: Kinyama-kigoga
     th: ไบรโอซัว
@@ -139,12 +139,12 @@ dv_has_:
     wuu: 外肛动物门
     yue: 苔蘚動物
     zh: 外肛动物门
-    zh-cn: 外肛动物门
-    zh-hans: 外肛动物门
-    zh-hant: 外肛動物門
-    zh-hk: 外肛動物門
-    zh-sg: 外肛动物门
-    zh-tw: 外肛動物門
+    zh_cn: 外肛动物门
+    zh_hans: 外肛动物门
+    zh_hant: 外肛動物門
+    zh_hk: 外肛動物門
+    zh_sg: 外肛动物门
+    zh_tw: 外肛動物門
 ---
 # [[Bryozoa]]
 

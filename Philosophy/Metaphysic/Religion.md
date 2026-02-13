@@ -284,7 +284,7 @@ dv_has_:
     bbc: Ugamo
     bcl: relihiyon
     be: рэлігія
-    be-tarask: рэлігія
+    be_tarask: рэлігія
     bg: религия
     bi: Rilijin
     bjn: agama
@@ -312,15 +312,15 @@ dv_has_:
     cy: crefydd
     da: religion
     de: Religion
-    de-ch: Religion
+    de_ch: Religion
     dga: Ŋmempuori (Ghana)
     diq: din
     dtp: Agama
     dty: धर्म
     el: θρησκεία
     en: religion
-    en-ca: religion
-    en-gb: religion
+    en_ca: religion
+    en_gb: religion
     eo: religio
     es: religión
     et: religioon
@@ -385,7 +385,7 @@ dv_has_:
     ko: 종교
     ks: مَزہَب
     ku: dîn
-    ku-latn: dîn
+    ku_latn: dîn
     kw: kryjyans
     ky: дин
     la: religio
@@ -405,7 +405,7 @@ dv_has_:
     lv: reliģija
     lzh: 宗教
     mad: aghâma
-    map-bms: agama
+    map_bms: agama
     mg: fivavahana
     mhr: юмынйӱла
     min: agamo
@@ -416,7 +416,7 @@ dv_has_:
     mnw: ဘာသာ
     mr: धर्म
     ms: agama
-    ms-arab: اݢام
+    ms_arab: اݢام
     mt: reliġjon
     mwl: religion
     my: ဘာသာတရား
@@ -427,7 +427,7 @@ dv_has_:
     nap: religgione
     nb: religion
     nds: Religion
-    nds-nl: geleuf
+    nds_nl: geleuf
     ne: धर्म
     new: धर्म
     nl: religie
@@ -452,7 +452,7 @@ dv_has_:
     pnb: مت
     ps: مذهب
     pt: religião
-    pt-br: religião
+    pt_br: religião
     qu: iñiy
     rm: religiun
     rmy: Religia
@@ -500,8 +500,8 @@ dv_has_:
     tr: din
     ts: vukhongeri
     tt: дин
-    tt-cyrl: дин
-    tt-latn: din
+    tt_cyrl: дин
+    tt_latn: din
     tw: Ɔsom
     udm: религия
     ug: ئىسلام
@@ -524,14 +524,14 @@ dv_has_:
     zea: religie
     zgh: ⴰⵙⴳⴷ
     zh: 宗教
-    zh-cn: 宗教
-    zh-hans: 宗教
-    zh-hant: 宗教
-    zh-hk: 宗教
-    zh-mo: 宗教
+    zh_cn: 宗教
+    zh_hans: 宗教
+    zh_hant: 宗教
+    zh_hk: 宗教
+    zh_mo: 宗教
     zh-my: 宗教
-    zh-sg: 宗教
-    zh-tw: 宗教
+    zh_sg: 宗教
+    zh_tw: 宗教
     zu: Inkolo
 ---
 # [[Religion]] 

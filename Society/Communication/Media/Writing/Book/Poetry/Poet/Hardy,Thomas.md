@@ -117,7 +117,7 @@ dv_has_:
     az: Tomas Hardi
     azb: توماس هاردی
     be: Томас Хардзі
-    be-tarask: Томас Гардзі
+    be_tarask: Томас Гардзі
     bg: Томас Харди
     bho: थॉमस हार्डी
     bn: টমাস হার্ডি
@@ -129,11 +129,11 @@ dv_has_:
     cy: Thomas Hardy
     da: Thomas Hardy
     de: Thomas Hardy
-    de-ch: Thomas Hardy
+    de_ch: Thomas Hardy
     el: Τόμας Χάρντι
     en: Thomas Hardy
-    en-ca: Thomas Hardy
-    en-gb: Thomas Hardy
+    en_ca: Thomas Hardy
+    en_gb: Thomas Hardy
     eo: Thomas Hardy
     es: Thomas Hardy
     et: Thomas Hardy
@@ -182,7 +182,7 @@ dv_has_:
     pnb: تھامس ہارڈی
     ps: توماس هارډي
     pt: Thomas Hardy
-    pt-br: Thomas Hardy
+    pt_br: Thomas Hardy
     ro: Thomas Hardy
     ru: Томас Харди
     sco: Thomas Hardy
@@ -190,8 +190,8 @@ dv_has_:
     sl: Thomas Hardy
     sq: Thomas Hardy
     sr: Томас Харди
-    sr-ec: Томас Харди
-    sr-el: Tomas Hardi
+    sr_ec: Томас Харди
+    sr_el: Tomas Hardi
     sv: Thomas Hardy
     ta: தாமஸ் ஹார்டி
     te: థామస్ హార్డీ
@@ -209,12 +209,12 @@ dv_has_:
     yo: Thomas Hardy
     yue: 湯瑪士哈代
     zh: 托马斯·哈代
-    zh-cn: 托马斯·哈代
-    zh-hans: 托马斯·哈代
-    zh-hant: 托馬斯·哈代
-    zh-hk: 湯瑪斯·哈代
-    zh-sg: 托马斯·哈代
-    zh-tw: 湯瑪斯·哈代
+    zh_cn: 托马斯·哈代
+    zh_hans: 托马斯·哈代
+    zh_hant: 托馬斯·哈代
+    zh_hk: 湯瑪斯·哈代
+    zh_sg: 托马斯·哈代
+    zh_tw: 湯瑪斯·哈代
 ---
 # [[Hardy,Thomas]] 
 

@@ -99,7 +99,7 @@ dv_has_:
     ast: Jean Paul Getty
     az: Pol Qetti
     be: Пол Геці
-    be-tarask: Пол Геці
+    be_tarask: Пол Геці
     bg: Жан Пол Гети
     bn: জে. পল গেটি
     ca: Jean Paul Getty
@@ -137,7 +137,7 @@ dv_has_:
     pa: ਜੇ. ਪਾਲ ਗੈੱਟੀ
     pl: Jean Paul Getty
     pt: Jean Paul Getty
-    pt-br: Jean Paul Getty
+    pt_br: Jean Paul Getty
     ro: Jean Paul Getty
     ru: Пол Гетти
     sco: J. Paul Getty
@@ -153,9 +153,9 @@ dv_has_:
     war: J. Paul Getty
     yue: 桑·保羅·吉地
     zh: 保羅·蓋蒂
-    zh-cn: J·保罗·盖蒂
-    zh-hant: J·保羅·蓋蒂
-    zh-hk: 桑·保羅·吉地
+    zh_cn: J·保罗·盖蒂
+    zh_hant: J·保羅·蓋蒂
+    zh_hk: 桑·保羅·吉地
 ---
 # [[Getty,J._Paul]] 
 

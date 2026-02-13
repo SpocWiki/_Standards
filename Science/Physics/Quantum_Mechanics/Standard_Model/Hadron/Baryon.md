@@ -73,7 +73,7 @@ dv_has_:
     ast: barión
     az: Barion
     be: барыён
-    be-tarask: барыён
+    be_tarask: барыён
     bg: барион
     bn: ব্যারিয়ন
     bs: barion
@@ -108,16 +108,16 @@ dv_has_:
     ja: バリオン
     ka: ბარიონები
     kk: барион
-    kk-arab: بارىيون
+    kk_arab: بارىيون
     kk-cn: بارىيون
-    kk-cyrl: барион
+    kk_cyrl: барион
     kk-kz: барион
-    kk-latn: barïon
+    kk_latn: barïon
     kk-tr: barïon
     ko: 중입자
     ku: baryon
-    ku-arab: باریۆن
-    ku-latn: baryon
+    ku_arab: باریۆن
+    ku_latn: baryon
     ky: барион
     la: baryon
     lfn: barion
@@ -138,7 +138,7 @@ dv_has_:
     pl: bariony
     pnb: بیریون
     pt: barião
-    pt-br: bárion
+    pt_br: bárion
     ro: barion
     rsk: Баритон
     ru: барион
@@ -150,8 +150,8 @@ dv_has_:
     sl: barion
     sms: baryoon
     sr: барион
-    sr-ec: барион
-    sr-el: barion
+    sr_ec: барион
+    sr_el: barion
     sv: baryon
     ta: பேரியான்
     tg: барион
@@ -166,12 +166,12 @@ dv_has_:
     wuu: 重子
     yue: 重子
     zh: 重子
-    zh-cn: 重子
-    zh-hans: 重子
-    zh-hant: 重子
-    zh-hk: 重子
-    zh-sg: 重子
-    zh-tw: 重子
+    zh_cn: 重子
+    zh_hans: 重子
+    zh_hant: 重子
+    zh_hk: 重子
+    zh_sg: 重子
+    zh_tw: 重子
     zu: inkindisi
 ---
 # [[Baryon]] 

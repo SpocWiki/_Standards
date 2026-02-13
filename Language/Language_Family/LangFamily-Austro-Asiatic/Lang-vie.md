@@ -238,7 +238,7 @@ Glottolog_code: viet1252
 dv_has_:
   name_:
     ace: Bahsa Viètnam
-    aeb-arab: الڥياتنامية
+    aeb_arab: الڥياتنامية
     af: Viëtnamees
     am: ቬትናምኛ
     anp: वियतनामी भाषा
@@ -251,7 +251,7 @@ dv_has_:
     ban: Basa Viétnam
     bcl: Tataramon na Bietnamita
     be: в'етнамская мова
-    be-tarask: віетнамская мова
+    be_tarask: віетнамская мова
     bew: basa Piètnam
     bg: Виетнамски език
     bn: ভিয়েতনামী ভাষা
@@ -268,12 +268,12 @@ dv_has_:
     cy: Fietnameg
     da: vietnamesisk
     de: Vietnamesisch
-    de-ch: Vietnamesisch
+    de_ch: Vietnamesisch
     diq: Vietnamki
     el: Βιετναμικά
     en: Vietnamese
-    en-ca: Vietnamese
-    en-gb: Vietnamese
+    en_ca: Vietnamese
+    en_gb: Vietnamese
     en-us: Vietnamese
     eo: vjetnama lingvo
     es: vietnamita
@@ -339,7 +339,7 @@ dv_has_:
     mni: ꯚꯤꯌꯦꯠꯅꯥꯃꯤꯁ ꯂꯣꯟ
     mr: व्हियेतनामी भाषा
     ms: bahasa Vietnam
-    ms-arab: بهاس ۏيئيتنم
+    ms_arab: بهاس ۏيئيتنم
     mt: Vjetnamiż
     my: ဗီယက်နမ်ဘာသာစကား
     mzn: ویتنامی
@@ -359,7 +359,7 @@ dv_has_:
     pnb: ویتنامی
     ps: ويتنامي ژبه
     pt: vietnamita
-    pt-br: Língua vietnamita
+    pt_br: Língua vietnamita
     qu: Witnam simi
     rki: ဗီယက်နမ် ဘာသာစကား
     ro: limba vietnameză
@@ -383,7 +383,7 @@ dv_has_:
     sn: Chivhiyetinamu
     sq: Gjuha vietnameze
     sr: вијетнамски
-    sr-ec: вијетнамски
+    sr_ec: вијетнамски
     su: Basa Viétnam
     sv: vietnamesiska
     sw: Kivietnam
@@ -392,7 +392,7 @@ dv_has_:
     ta: வியட்நாமிய மொழி
     te: వియత్నామీస్ భాష
     tg: забони вйетнамӣ
-    tg-cyrl: забони виетнамӣ
+    tg_cyrl: забони виетнамӣ
     th: ภาษาเวียดนาม
     tl: Wikang Biyetnames
     tly: Vjetnami zyvon
@@ -416,10 +416,10 @@ dv_has_:
     yue: 越南文
     za: Vah Yiednamz
     zh: 越南语
-    zh-cn: 越南语
-    zh-hant: 越南語
-    zh-hk: 越南語
-    zh-tw: 越南語
+    zh_cn: 越南语
+    zh_hant: 越南語
+    zh_hk: 越南語
+    zh_tw: 越南語
     zu: isi-Vietnamese
 ---
 # [[Lang-vie]] 

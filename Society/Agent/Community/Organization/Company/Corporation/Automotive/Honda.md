@@ -142,7 +142,7 @@ dv_has_:
     az: Honda
     azb: هوندا
     be: Honda
-    be-tarask: Honda
+    be_tarask: Honda
     bew: Honda
     bg: Хонда
     bn: হোন্ডা
@@ -153,12 +153,12 @@ dv_has_:
     cs: Honda
     da: Honda
     de: Honda
-    de-ch: Honda
+    de_ch: Honda
     diq: Honda
     el: Honda
     en: Honda
-    en-ca: Honda
-    en-gb: Honda
+    en_ca: Honda
+    en_gb: Honda
     en-us: Honda
     eo: Honda
     es: Honda
@@ -211,7 +211,7 @@ dv_has_:
     pms: Honda
     pnb: ہنڈا
     pt: Honda
-    pt-br: Honda
+    pt_br: Honda
     ro: Honda
     ru: Honda
     sah: Honda
@@ -240,9 +240,9 @@ dv_has_:
     yi: האָנדאַ
     yue: 本田汽車
     zh: 本田技研工业
-    zh-cn: 本田技研工业
-    zh-hans: 本田技研工业
-    zh-hant: 本田技研工業
+    zh_cn: 本田技研工业
+    zh_hans: 本田技研工业
+    zh_hant: 本田技研工業
 ---
 # [[Honda]] 
 

@@ -103,7 +103,7 @@ dv_has_:
     ban: Berang-berang
     bcl: Beaver
     be: бабры
-    be-tarask: бабёр
+    be_tarask: бабёр
     bg: бобри
     bn: বীভার
     br: Avank
@@ -207,8 +207,8 @@ dv_has_:
     yo: Eku ti odò
     yue: 河狸
     zh: 河狸属
-    zh-cn: 河狸属
-    zh-tw: 河貍屬
+    zh_cn: 河狸属
+    zh_tw: 河貍屬
     zu: Ibhiva
 ---
 # [[Beaver]] 

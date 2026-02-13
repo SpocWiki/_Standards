@@ -136,7 +136,7 @@ dv_has_:
     ba: Коперниций
     ban: Kopernikium
     be: Каперніцый
-    be-tarask: Капэрніц
+    be_tarask: Капэрніц
     bg: коперниций
     bho: कॉपरनीशियम
     bn: কোপার্নিসিয়াম
@@ -154,8 +154,8 @@ dv_has_:
     de: Copernicium
     el: κοπερνίκιο
     en: copernicium
-    en-ca: copernicium
-    en-gb: copernicium
+    en_ca: copernicium
+    en_gb: copernicium
     eo: koperniciumo
     es: copernicio
     et: koperniitsium
@@ -224,7 +224,7 @@ dv_has_:
     pnb: کاپرنسیم
     ps: کاپرنېسيوم
     pt: copernício
-    pt-br: copernício
+    pt_br: copernício
     qu: Kopernisyu
     ro: coperniciu
     ru: коперниций
@@ -238,7 +238,7 @@ dv_has_:
     so: Kobernishiyaam
     sq: coperniciumi
     sr: коперницијум
-    sr-ec: Коперницијум
+    sr_ec: Коперницијум
     stq: Copernicium
     sv: copernicium
     sw: ununbi
@@ -262,14 +262,14 @@ dv_has_:
     yo: Kopernisiomu
     yue: 鎶
     zh: 鎶
-    zh-cn: 鿔
-    zh-hans: 鿔
-    zh-hant: 鎶
-    zh-hk: 鎶
-    zh-mo: 鎶
+    zh_cn: 鿔
+    zh_hans: 鿔
+    zh_hant: 鎶
+    zh_hk: 鎶
+    zh_mo: 鎶
     zh-my: 鿔
-    zh-sg: 鿔
-    zh-tw: 鎶
+    zh_sg: 鿔
+    zh_tw: 鎶
     zu: IChusinimbi
 ---
 # [[Copernicium]] 

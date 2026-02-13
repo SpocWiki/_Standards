@@ -209,7 +209,7 @@ dv_has_:
     ban: Silikon
     bcl: Silikon
     be: крэмній
-    be-tarask: крэмні
+    be_tarask: крэмні
     bg: силиций
     bho: सिलिकॉन
     blk: သီလီကွန်
@@ -228,12 +228,12 @@ dv_has_:
     cy: silicon
     da: silicium
     de: Silicium
-    de-ch: Silicium
+    de_ch: Silicium
     dv: ސިލިކަން
     el: πυρίτιο
     en: silicon
-    en-ca: Silicon
-    en-gb: silicon
+    en_ca: Silicon
+    en_gb: silicon
     eo: silicio
     es: silicio
     et: räni
@@ -301,7 +301,7 @@ dv_has_:
     mr: सिलिकॉन
     mrj: Кремний
     ms: silikon
-    ms-arab: سيليکون
+    ms_arab: سيليکون
     mt: silikon
     mul: Si
     my: ဆီလီကွန်
@@ -327,7 +327,7 @@ dv_has_:
     pnb: سلیکان
     ps: سليکان
     pt: silício
-    pt-br: silício
+    pt_br: silício
     qu: Ullayayaq
     ro: siliciu
     ru: кремний
@@ -377,14 +377,14 @@ dv_has_:
     yue: 矽
     za: Gveih
     zh: 硅
-    zh-cn: 硅
-    zh-hans: 硅
-    zh-hant: 矽
-    zh-hk: 矽
-    zh-mo: 矽
+    zh_cn: 硅
+    zh_hans: 硅
+    zh_hant: 矽
+    zh_hk: 矽
+    zh_mo: 矽
     zh-my: 硅
-    zh-sg: 矽
-    zh-tw: 矽
+    zh_sg: 矽
+    zh_tw: 矽
     zu: ISiphemba
   number_of_:
     period: 3

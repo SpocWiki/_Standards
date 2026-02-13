@@ -42,7 +42,7 @@ dv_has_:
     ar: يورجوس لانثيموس
     arz: يورجوس لانثيموس
     be: Ёргас Ланцімас
-    be-tarask: Ёргас Лянтымас
+    be_tarask: Ёргас Лянтымас
     bg: Йоргос Лантимос
     bn: ইয়োর্গোস ল্যান্থিমোস
     ca: Iorgos Lànthimos
@@ -79,7 +79,7 @@ dv_has_:
     pap: Yorgos Lanthimos
     pl: Jorgos Lantimos
     pt: Yorgos Lanthimos
-    pt-br: Yorgos Lanthimos
+    pt_br: Yorgos Lanthimos
     ro: Yorgos Lanthimos
     ru: Йоргос Лантимос
     sl: Giorgos Lanthimos
@@ -90,12 +90,12 @@ dv_has_:
     uk: Йоргос Лантімос
     ur: یورگوس لینتھیموس
     zh: 尤格·藍西莫
-    zh-cn: 约戈斯·兰西莫斯
-    zh-hans: 约戈斯·兰西莫斯
-    zh-hant: 尤格・藍西莫
+    zh_cn: 约戈斯·兰西莫斯
+    zh_hans: 约戈斯·兰西莫斯
+    zh_hant: 尤格・藍西莫
     zh-my: 尤格·蓝西莫
-    zh-sg: 欧格斯·兰斯莫斯
-    zh-tw: 尤格·藍西莫
+    zh_sg: 欧格斯·兰斯莫斯
+    zh_tw: 尤格·藍西莫
 ---
 ## #has_/text_of_/abstract 
 

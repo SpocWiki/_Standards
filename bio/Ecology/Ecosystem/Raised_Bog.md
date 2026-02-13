@@ -63,7 +63,7 @@ dv_has_:
     af: Verhewe moeras
     ar: مغيض
     be: вярховае балота
-    be-tarask: імшара
+    be_tarask: імшара
     bg: Торфено блато
     ca: Torbera alta
     cs: vrchoviště
@@ -90,7 +90,7 @@ dv_has_:
     lv: tīrelis
     mk: издигнато тресетиште
     nb: myrhei
-    nds-nl: vene
+    nds_nl: vene
     nl: hoogveen
     nn: nedbørsmyr
     pl: torfowisko wysokie

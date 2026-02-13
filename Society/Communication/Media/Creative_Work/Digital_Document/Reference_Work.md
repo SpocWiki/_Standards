@@ -108,7 +108,7 @@ dv_has_:
     ast: obra de referencia
     ba: белешмә
     be: даведнік
-    be-tarask: даведнік
+    be_tarask: даведнік
     bg: справочник
     bn: আকর গ্রন্থ
     bo: ཡོ་བྱད་དཔེ་ཆ།
@@ -123,8 +123,8 @@ dv_has_:
     de: Nachschlagewerk
     el: έργο αναφοράς
     en: reference work
-    en-ca: Reference work
-    en-gb: reference work
+    en_ca: Reference work
+    en_gb: reference work
     eo: referencverko
     es: obra de referencia
     et: teatmeteos
@@ -158,7 +158,7 @@ dv_has_:
     oc: òbra de referencia
     pl: praca referencyjna
     pt: obra de referência
-    pt-br: obra de referência
+    pt_br: obra de referência
     ro: lucrare de referință
     ru: справочник
     sco: reference wirk
@@ -169,15 +169,15 @@ dv_has_:
     sms: ooccâmǩeʹrjj
     sq: vepër referimi
     sr: референтно дело
-    sr-ec: референтни рад
+    sr_ec: референтни рад
     sv: referenslitteratur
     tg: маълумотнома
     th: งานอ้างอิง
     tl: sangguniang gawa
     tr: kaynak kitap
     tt: белешмәлек
-    tt-cyrl: белешмәлек
-    tt-latn: beleşmäleq
+    tt_cyrl: белешмәлек
+    tt_latn: beleşmäleq
     tum: Chilwero cha kubekerapo
     uk: довідник
     ur: حوالہ جاتی مواد
@@ -185,11 +185,11 @@ dv_has_:
     vi: tài liệu tham khảo
     yo: iṣẹ́ ìtọ́kasí
     zh: 工具书
-    zh-cn: 工具书
-    zh-hans: 工具书
-    zh-hant: 工具書
-    zh-hk: 工具書
-    zh-tw: 工具書
+    zh_cn: 工具书
+    zh_hans: 工具书
+    zh_hant: 工具書
+    zh_hk: 工具書
+    zh_tw: 工具書
     zu: Izibhalo zamaphatho
 ---
 # [[Reference_Work]] 

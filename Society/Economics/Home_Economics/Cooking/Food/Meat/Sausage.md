@@ -150,7 +150,7 @@ dv_has_:
     ba: Колбаса
     bar: Wuascht
     be: каўбаса
-    be-tarask: кілбаса
+    be_tarask: кілбаса
     bg: Наденица
     br: silzig
     bs: kobasica
@@ -161,12 +161,12 @@ dv_has_:
     cy: selsig
     da: pølse
     de: Wurst
-    de-ch: Wurst
+    de_ch: Wurst
     el: Λουκάνικο
     eml: Salsìsa
     en: sausage
-    en-ca: Sausage
-    en-gb: sausage
+    en_ca: Sausage
+    en_gb: sausage
     en-us: sausage
     eo: kolbaso
     es: salchicha
@@ -197,8 +197,8 @@ dv_has_:
     ko-kp: 꼴바싸
     ksh: Woosch
     ku: sosîs
-    ku-arab: سۆسیس
-    ku-latn: sosîs
+    ku_arab: سۆسیس
+    ku_latn: sosîs
     ky: Колбаса
     la: Farcimen
     lb: Wurscht
@@ -239,8 +239,8 @@ dv_has_:
     sms: määʹrf
     sq: Salçiçja
     sr: кобасица
-    sr-ec: кобасица
-    sr-el: kobasica
+    sr_ec: кобасица
+    sr_el: kobasica
     su: Sosis
     sv: korv
     sw: Soseji
@@ -260,11 +260,11 @@ dv_has_:
     yue: 腸
     zh: 肉腸
     zh-cn: 肉肠
-    zh-hans: 香肠
-    zh-hant: 香腸
-    zh-hk: 香腸
-    zh-sg: 香肠
-    zh-tw: 香腸
+    zh_hans: 香肠
+    zh_hant: 香腸
+    zh_hk: 香腸
+    zh_sg: 香肠
+    zh_tw: 香腸
     zu: Isoseji
 ---
 # [[Sausage]] 

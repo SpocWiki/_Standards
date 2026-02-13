@@ -171,7 +171,7 @@ dv_has_:
     ba: журналистика
     bar: Journalismus
     be: журналістыка
-    be-tarask: журналістыка
+    be_tarask: журналістыка
     bew: kepemberitaan
     bg: журналистика
     bho: पत्रकारिता
@@ -188,13 +188,13 @@ dv_has_:
     cy: newyddiaduraeth
     da: journalistik
     de: Journalismus
-    de-ch: Journalismus
+    de_ch: Journalismus
     diq: xeber
     dv: ނޫސްވެރިން
     el: δημοσιογραφία
     en: journalism
-    en-ca: Journalism
-    en-gb: journalism
+    en_ca: Journalism
+    en_gb: journalism
     eo: ĵurnalismo
     es: periodismo
     et: ajakirjandus
@@ -253,12 +253,12 @@ dv_has_:
     mn: зүйл
     mr: वृत्तपत्रविद्या
     ms: kewartawanan
-    ms-arab: کورتاونن
+    ms_arab: کورتاونن
     mt: ġurnaliżmu
     my: သတင်းစာပညာ
     nan: sin-bûn kang-khòe
     nb: journalistikk
-    nds-nl: journalistiek
+    nds_nl: journalistiek
     ne: पत्रकारिता
     new: पत्रकारिता
     nl: journalistiek
@@ -271,7 +271,7 @@ dv_has_:
     pnb: صحافت
     ps: خبريالي
     pt: jornalismo
-    pt-br: jornalismo
+    pt_br: jornalismo
     qu: willay kamayuq
     ro: jurnalism
     ru: журналистика
@@ -316,9 +316,9 @@ dv_has_:
     yo: Journalism
     yue: 新聞學
     zh: 新闻学
-    zh-cn: 新闻学
-    zh-hant: 新聞學
-    zh-tw: 新聞學
+    zh_cn: 新闻学
+    zh_hant: 新聞學
+    zh_tw: 新聞學
 ---
 # [[Journalism]] 
 

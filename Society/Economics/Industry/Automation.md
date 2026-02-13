@@ -117,7 +117,7 @@ dv_has_:
     ast: Automatización industrial
     az: Avtomatlaşdırma
     be: аўтаматызацыя
-    be-tarask: аўтаматызацыя
+    be_tarask: аўтаматызацыя
     bg: Автоматизация
     bn: স্বয়ংক্রিয়তা
     bs: automatizacija
@@ -147,11 +147,11 @@ dv_has_:
     it: automazione
     ja: オートメーション
     kk: Автоматтандыру
-    kk-arab: اۆتوماتتاندىرۋ
+    kk_arab: اۆتوماتتاندىرۋ
     kk-cn: اۆتوماتتاندىرۋ
-    kk-cyrl: Автоматтандыру
+    kk_cyrl: Автоматтандыру
     kk-kz: Автоматтандыру
-    kk-latn: Avtomattandırw
+    kk_latn: Avtomattandırw
     kk-tr: Avtomattandırw
     ko: 자동화
     ky: Автоматон
@@ -170,7 +170,7 @@ dv_has_:
     nn: automasjon
     pl: automatyzacja
     pt: automação
-    pt-br: automação
+    pt_br: automação
     ro: Automatizare
     ru: автоматизация
     rue: Автоматизація
@@ -180,8 +180,8 @@ dv_has_:
     sl: avtomatizacija
     sq: Automatizimi
     sr: аутоматизација
-    sr-ec: Аутоматизација
-    sr-el: Automatizacija
+    sr_ec: Аутоматизација
+    sr_el: Automatizacija
     sv: automation
     sw: Automation
     ta: தன்னியக்கம்
@@ -196,12 +196,12 @@ dv_has_:
     wuu: 自动化技术
     yue: 自動化技術
     zh: 自动化
-    zh-cn: 自动化技术
-    zh-hans: 自动化
-    zh-hant: 自動化
-    zh-hk: 自動化技術
-    zh-sg: 自动化技术
-    zh-tw: 自動化技術
+    zh_cn: 自动化技术
+    zh_hans: 自动化
+    zh_hant: 自動化
+    zh_hk: 自動化技術
+    zh_sg: 自动化技术
+    zh_tw: 自動化技術
     zu: Inhleleleko
 ---
 # [[Automation]] 

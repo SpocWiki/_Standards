@@ -79,7 +79,7 @@ dv_has_:
   name_:
     af: Warm kol (geologie)
     ar: نقطة ساخنة
-    be-tarask: гарачы пункт
+    be_tarask: гарачы пункт
     bg: Гореща точка
     ca: punt calent
     cs: horká skvrna
@@ -121,8 +121,8 @@ dv_has_:
     sk: horúca škvrna
     sl: vroča točka
     sr: Врућа тачка
-    sr-ec: Врућа тачка
-    sr-el: Vruća tačka
+    sr_ec: Врућа тачка
+    sr_el: Vruća tačka
     sv: hetfläck
     th: จุดร้อน
     tr: Sıcak nokta
@@ -130,12 +130,12 @@ dv_has_:
     vi: Điểm nóng
     yue: 熱點 (地質學)
     zh: 熱點
-    zh-cn: 热点
-    zh-hans: 热点
-    zh-hant: 熱點
-    zh-hk: 熱點
-    zh-sg: 热点
-    zh-tw: 熱點
+    zh_cn: 热点
+    zh_hans: 热点
+    zh_hant: 熱點
+    zh_hk: 熱點
+    zh_sg: 热点
+    zh_tw: 熱點
 ---
 # [[Hotspot(Geology)]] 
 

@@ -43,9 +43,9 @@ dv_has_:
     vi: Polyxenida
     war: Polyxenida
     zh: 多毛马陆目
-    zh-cn: 多毛马陆目
-    zh-hans: 多毛马陆目
-    zh-tw: 毛馬陸目
+    zh_cn: 多毛马陆目
+    zh_hans: 多毛马陆目
+    zh_tw: 毛馬陸目
 ---
 ## [[Penicillata]] 
 

@@ -152,7 +152,7 @@ dv_has_:
     azb: ایلتیهاب
     bcl: hubag
     be: запаленне
-    be-tarask: запаленьне
+    be_tarask: запаленьне
     bg: възпаление
     bn: প্রদাহ
     bs: upala
@@ -211,7 +211,7 @@ dv_has_:
     pl: zapalenie
     ps: تسپود
     pt: inflamação
-    pt-br: inflamação
+    pt_br: inflamação
     ro: inflamație
     ru: воспаление
     sco: inflammation
@@ -222,8 +222,8 @@ dv_has_:
     sl: vnetje
     sq: Inflamacioni
     sr: запаљење
-    sr-ec: запаљење
-    sr-el: zapaljenje
+    sr_ec: запаљење
+    sr_el: zapaljenje
     sv: inflammation
     ta: அழற்சி
     tg: газак
@@ -242,12 +242,12 @@ dv_has_:
     yi: אנצינדונג
     yue: 發炎
     zh: 炎症
-    zh-cn: 炎症
-    zh-hans: 炎症
-    zh-hant: 炎症
-    zh-hk: 炎症
-    zh-sg: 炎症
-    zh-tw: 炎症
+    zh_cn: 炎症
+    zh_hans: 炎症
+    zh_hant: 炎症
+    zh_hk: 炎症
+    zh_sg: 炎症
+    zh_tw: 炎症
     zu: Ukuvongoza
 ---
 # [[Inflammation]] 

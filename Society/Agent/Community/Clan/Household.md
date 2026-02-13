@@ -86,7 +86,7 @@ dv_has_:
   name_:
     ar: مجموعة في نفس المنزل
     bar: Priwathaushoit
-    be-tarask: хатняя гаспадарка
+    be_tarask: хатняя гаспадарка
     bg: Домакинство
     ca: nucli familiar
     ckb: یەکەی نیشتەجێبوون
@@ -141,15 +141,15 @@ dv_has_:
     th: ครัวเรือน
     tr: hanehalkı
     tt: йорт хуҗалыгы
-    tt-cyrl: йорт хуҗалыгы
+    tt_cyrl: йорт хуҗалыгы
     uk: домашнє господарство
     uz: Xonadon xoʻjaligi
     vi: hộ gia đình
     wuu: 户
     yue: 住戶
     zh: 戶
-    zh-hant: 戶
-    zh-tw: 戶
+    zh_hant: 戶
+    zh_tw: 戶
 ---
 # [[Household]] 
 

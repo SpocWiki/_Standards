@@ -104,7 +104,7 @@ dv_has_:
     ar: كلمة السر
     ast: Contraseña
     az: Parol
-    be-tarask: пароль
+    be_tarask: пароль
     bg: парола
     bn: পাসওয়ার্ড
     ca: contrasenya
@@ -139,11 +139,11 @@ dv_has_:
     ja: パスワード
     ki: Muuma
     kk: Пароль
-    kk-arab: پارول
+    kk_arab: پارول
     kk-cn: پارول
-    kk-cyrl: Пароль
+    kk_cyrl: Пароль
     kk-kz: Пароль
-    kk-latn: Parolʹ
+    kk_latn: Parolʹ
     kk-tr: Parolʹ
     ko: 비밀번호
     ky: Пароль
@@ -158,7 +158,7 @@ dv_has_:
     ml: രഹസ്യവാക്ക്
     mr: परवलीचा शब्द
     ms: kata laluan
-    ms-arab: کات لالوان
+    ms_arab: کات لالوان
     my: စကားဝှက်
     nb: passord
     nl: wachtwoord
@@ -170,25 +170,25 @@ dv_has_:
     pms: Password
     pnb: پاس ورڈ
     pt: palavra-passe
-    pt-br: senha
+    pt_br: senha
     ro: parolă
     ru: пароль
     scn: palora d'òrdini
     sh: Lozinka
     sl: geslo
     sr: Лозинка
-    sr-ec: лозинка
-    sr-el: lozinka
+    sr_ec: лозинка
+    sr_el: lozinka
     sv: lösenord
     sw: Nywila
     ta: கடவுச் சொல்
     te: రహస్య సంకేత పదం
     tg: гузарвожа
-    tg-latn: Kalimai ubur
+    tg_latn: Kalimai ubur
     th: รหัสผ่าน
     tr: Parola
     tt: серсүз
-    tt-cyrl: серсүз
+    tt_cyrl: серсүз
     uk: пароль
     ur: پارلفظ
     uz: Parol
@@ -197,12 +197,12 @@ dv_has_:
     yi: װאָרטצײכן
     yue: 密碼
     zh: 密碼
-    zh-cn: 密码
-    zh-hans: 密码
-    zh-hant: 密碼
-    zh-hk: 密碼
-    zh-sg: 密码
-    zh-tw: 密碼
+    zh_cn: 密码
+    zh_hans: 密码
+    zh_hant: 密碼
+    zh_hk: 密碼
+    zh_sg: 密码
+    zh_tw: 密碼
 ---
 # [[Password]] 
 

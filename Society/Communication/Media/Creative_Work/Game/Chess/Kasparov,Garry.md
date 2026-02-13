@@ -154,7 +154,7 @@ dv_has_:
     az: Harri Kasparov
     ba: Каспаров Гарри Кимович
     be: Гары Кімавіч Каспараў
-    be-tarask: Гары Каспараў
+    be_tarask: Гары Каспараў
     bg: Гари Каспаров
     bn: গ্যারি কাসপারভ
     br: Garry Kasparov
@@ -165,12 +165,12 @@ dv_has_:
     cy: Garry Kasparov
     da: Garri Kasparov
     de: Garri Kimowitsch Kasparow
-    de-ch: Garri Kimowitsch Kasparow
+    de_ch: Garri Kimowitsch Kasparow
     diq: Garry Kasparov
     el: Γκάρι Κασπάροφ
     en: Garry Kasparov
-    en-ca: Garry Kasparov
-    en-gb: Garry Kasparov
+    en_ca: Garry Kasparov
+    en_gb: Garry Kasparov
     eo: Garri Kasparov
     es: Garri Kaspárov
     et: Garri Kasparov
@@ -221,7 +221,7 @@ dv_has_:
     pnb: گیری کیسپاروف
     ps: ګاري کاسپاروف
     pt: Garry Kasparov
-    pt-br: Garry Kasparov
+    pt_br: Garry Kasparov
     qu: Garry Kasparov
     ro: Gari Kasparov
     ru: Гарри Каспаров
@@ -249,7 +249,7 @@ dv_has_:
     wuu: 加里·基莫维奇·卡斯帕罗夫
     yue: 卡斯帕洛夫
     zh: 加里·基莫维奇·卡斯帕罗夫
-    zh-hant: 加里·卡斯帕羅夫
+    zh_hant: 加里·卡斯帕羅夫
 ---
 # [[Kasparov,Garry]] 
 

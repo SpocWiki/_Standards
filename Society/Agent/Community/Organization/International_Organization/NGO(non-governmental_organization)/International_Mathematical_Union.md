@@ -75,7 +75,7 @@ dv_has_:
     ar: الاتحاد الدولي للرياضيات
     ast: Xunión Matemática Internacional
     be: Міжнародны матэматычны саюз
-    be-tarask: Міжнародны матэматычны зьвяз
+    be_tarask: Міжнародны матэматычны зьвяз
     bg: Международен математически съюз
     ca: Unió Matemàtica Internacional
     cs: Mezinárodní matematická unie
@@ -83,7 +83,7 @@ dv_has_:
     de: Internationale Mathematische Union
     el: Διεθνή Μαθηματική Ένωση
     en: International Mathematical Union
-    en-gb: International Mathematical Union
+    en_gb: International Mathematical Union
     eo: Internacia Matematika Unio
     es: Unión Matemática Internacional
     eu: Nazioarteko Matematika Batasuna
@@ -119,9 +119,9 @@ dv_has_:
     vi: Hội liên hiệp Toán học quốc tế
     wuu: 国际数学联盟
     zh: 国际数学联盟
-    zh-hans: 国际数学联盟
-    zh-hant: 國際數學聯盟
-    zh-hk: 國際數學聯盟
+    zh_hans: 国际数学联盟
+    zh_hant: 國際數學聯盟
+    zh_hk: 國際數學聯盟
 ---
 # [[International_Mathematical_Union]] 
 

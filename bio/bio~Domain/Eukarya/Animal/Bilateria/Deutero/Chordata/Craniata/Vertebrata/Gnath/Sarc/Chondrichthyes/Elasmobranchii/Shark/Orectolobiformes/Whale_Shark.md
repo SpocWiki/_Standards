@@ -132,7 +132,7 @@ dv_has_:
     ban: Kakia paus
     bcl: Butanding
     be: Кітовая акула
-    be-tarask: Кітовая акула
+    be_tarask: Кітовая акула
     bg: китова акула
     bn: তিমি হাঙ্গর
     bo: ཅིང་ཧྲ།
@@ -147,8 +147,8 @@ dv_has_:
     dv: ފެހުރިހި
     el: Φαλαινοκαρχαρίας
     en: whale shark
-    en-ca: whale shark
-    en-gb: whale shark
+    en_ca: whale shark
+    en_gb: whale shark
     eo: Rhincodon typus
     es: Rhincodon typus
     et: vaalhai
@@ -190,7 +190,7 @@ dv_has_:
     nan: Gōng-á-soa
     nb: hvalhai
     nds: Waalhai
-    nds-nl: Rhincodon typus
+    nds_nl: Rhincodon typus
     nl: walvishaai
     nn: kvalhai
     nv: Łóóʼntsxaaí łikizhígíí
@@ -226,10 +226,10 @@ dv_has_:
     wuu: 鲸鲨
     yue: 鯨鯊
     zh: 鯨鯊
-    zh-cn: 鲸鲨
-    zh-hans: 鲸鲨
-    zh-hant: 鯨鯊
-    zh-tw: 鯨鯊
+    zh_cn: 鲸鲨
+    zh_hans: 鲸鲨
+    zh_hant: 鯨鯊
+    zh_tw: 鯨鯊
 ---
 # [[Whale_Shark]] 
 

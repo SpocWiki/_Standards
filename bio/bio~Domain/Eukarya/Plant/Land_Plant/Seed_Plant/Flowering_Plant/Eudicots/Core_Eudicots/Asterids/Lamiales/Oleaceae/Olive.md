@@ -181,8 +181,8 @@ UNII: 769297N5OK
 UNSPSC_Code: 10161501
 dv_has_:
   name_:
-    aeb-arab: زيتون
-    aeb-latn: zitouna
+    aeb_arab: زيتون
+    aeb_latn: zitouna
     af: Olea europaea
     am: ወይራ
     an: Olea europaea
@@ -195,7 +195,7 @@ dv_has_:
     azb: آوروپا زئیتونو
     bcl: Olibo
     be: Масліна еўрапейская
-    be-tarask: аліва эўрапейская
+    be_tarask: аліва эўрапейская
     bg: Европейска маслина
     bjn: Zaitun
     bn: জয়তুন
@@ -214,7 +214,7 @@ dv_has_:
     dv: ޒައިތޫނި
     el: ελιά
     en: Olea europaea
-    en-ca: Olive
+    en_ca: Olive
     eo: Olivarbo
     es: Olivo
     et: Harilik õlipuu
@@ -286,7 +286,7 @@ dv_has_:
     pnb: زیتون
     ps: ښوون
     pt: Oliveira
-    pt-br: Oliveira
+    pt_br: Oliveira
     qu: Uliw
     ro: Măslin
     ru: Олива европейская
@@ -313,7 +313,7 @@ dv_has_:
     tl: Olibo
     tr: Zeytin
     tt: зәйтүн
-    tt-cyrl: зәйтүн
+    tt_cyrl: зәйтүн
     ug: Zeytun
     uk: маслина європейська
     ur: زیتون
@@ -331,9 +331,9 @@ dv_has_:
     za: Makmbi
     zgh: ⵜⴰⵣⵉⵜⵓⵏⵜ
     zh: 油橄榄
-    zh-cn: 油橄榄
-    zh-hant: 油橄欖
-    zh-tw: 油橄欖
+    zh_cn: 油橄榄
+    zh_hant: 油橄欖
+    zh_tw: 油橄欖
 ---
 # [[Olive]] 
 

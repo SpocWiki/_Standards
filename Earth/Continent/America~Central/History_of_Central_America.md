@@ -63,7 +63,7 @@ dv_has_:
     ar: تاريخ أمريكا الوسطى
     ast: Historia de Centroamérica
     ba: Үҙәк Америка тарихы
-    be-tarask: гісторыя Цэнтральнай Амэрыкі
+    be_tarask: гісторыя Цэнтральнай Амэрыкі
     ca: Història de l'Amèrica Central
     cs: Dějiny Střední Ameriky
     de: Geschichte Mittelamerikas

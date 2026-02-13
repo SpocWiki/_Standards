@@ -33,7 +33,7 @@ dv_has_:
     oc: Listriodontinae
     pl: Listriodontinae
     pt: Listriodontinae
-    pt-br: Listriodontinae
+    pt_br: Listriodontinae
     ro: Listriodontinae
     ru: Listriodontinae
     sq: Listriodontinae

@@ -148,7 +148,7 @@ dv_has_:
     ba: генетика
     ban: Genetika
     be: генетыка
-    be-tarask: генэтыка
+    be_tarask: генэтыка
     bg: Генетика
     bn: বংশাণুবিজ্ঞান
     br: Genetik
@@ -165,8 +165,8 @@ dv_has_:
     diq: Cênetik
     el: γενετική
     en: genetics
-    en-ca: Genetics
-    en-gb: genetics
+    en_ca: Genetics
+    en_gb: genetics
     eo: genetiko
     es: genética
     et: geneetika
@@ -206,7 +206,7 @@ dv_has_:
     kn: ತಳಿವಿಜ್ಞಾನ
     ko: 유전학
     ku: genetîk
-    ku-latn: bomawezanî
+    ku_latn: bomawezanî
     ky: Генетика
     la: Genetica
     lb: Geneetik
@@ -225,7 +225,7 @@ dv_has_:
     ml: ജനിതകശാസ്ത്രം
     mn: Генетик
     ms: genetik
-    ms-arab: ݢينيتيک
+    ms_arab: ݢينيتيک
     mt: ġenetika
     my: ဂျင်နက်တစ်ပညာ
     nan: Ûi-thoân-ha̍k
@@ -243,7 +243,7 @@ dv_has_:
     pnb: جینیٹکس
     ps: جنتیک
     pt: genética
-    pt-br: genética
+    pt_br: genética
     qu: Hinitika
     ro: genetică
     ru: генетика
@@ -265,7 +265,7 @@ dv_has_:
     so: Aqoonta dirtiris
     sq: Gjenetika
     sr: генетика
-    sr-ec: генетика
+    sr_ec: генетика
     su: Genetika
     sv: genetik
     sw: Jenitikia
@@ -289,8 +289,8 @@ dv_has_:
     yo: Ìṣiṣẹ́àbínimọ́
     yue: 遺傳學
     zh: 遗传学
-    zh-hant: 遺傳學
-    zh-tw: 遺傳學
+    zh_hant: 遺傳學
+    zh_tw: 遺傳學
 ---
 # [[Genetics]] 
 

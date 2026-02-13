@@ -67,13 +67,13 @@ dv_has_:
     ar: طريق تجارية
     az: Ticarət yolu
     be: гандлёвы шлях
-    be-tarask: гандлёвы шлях
+    be_tarask: гандлёвы шлях
     bn: বাণিজ্য পথ
     ca: ruta comercial
     ce: Йохк-эцаран некъаш
     cs: obchodní cesta
     de: Handelsstraße
-    de-ch: Handelsstrasse
+    de_ch: Handelsstrasse
     dv: ވިޔަފާރި މަގު
     el: εμπορική οδός
     en: trade route
@@ -118,9 +118,9 @@ dv_has_:
     uk: торговий шлях
     yue: 貿易路線
     zh: 貿易路線
-    zh-cn: 贸易路线
-    zh-hans: 贸易航线
-    zh-hant: 貿易航線
+    zh_cn: 贸易路线
+    zh_hans: 贸易航线
+    zh_hant: 貿易航線
 ---
 # [[Trade_Route]] 
 

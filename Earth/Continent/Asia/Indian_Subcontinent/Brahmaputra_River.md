@@ -158,7 +158,7 @@ dv_has_:
     ban: Tukad Brahmaputra
     bcl: Brahmaputra
     be: Рака Брахмапутра
-    be-tarask: Брахмапутра
+    be_tarask: Брахмапутра
     bg: Брахмапутра
     bho: ब्रह्मपुत्र
     bn: ব্রহ্মপুত্র নদ
@@ -254,7 +254,7 @@ dv_has_:
     xmf: ბრაჰმაპუტრა
     yue: 布拉馬普特拉河
     zh: 布拉马普特拉河
-    zh-hans: 布拉马普特拉河
+    zh_hans: 布拉马普特拉河
 ---
 # [[Brahmaputra_River]] 
 

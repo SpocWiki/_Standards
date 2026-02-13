@@ -154,7 +154,7 @@ dv_has_:
     az: Pentikost bayramı
     bcl: Pentekostes
     be: Пяцідзесятніца
-    be-tarask: Дзень Сьвятога Духа
+    be_tarask: Дзень Сьвятога Духа
     bg: Петдесетница
     bn: পঞ্চাশত্তমী রবিবার
     br: Pantekost
@@ -167,8 +167,8 @@ dv_has_:
     de: Pfingsten
     el: Πεντηκοστή
     en: Pentecost
-    en-ca: Pentecost
-    en-gb: Pentecost
+    en_ca: Pentecost
+    en_gb: Pentecost
     eo: Pentekosto
     es: Pentecostés
     et: Nelipüha
@@ -223,7 +223,7 @@ dv_has_:
     nap: Pasca rusata
     nb: pinse
     nds: Pingsten
-    nds-nl: Pinkster
+    nds_nl: Pinkster
     nl: Pinksteren
     nn: pinse
     olo: Stroičan Päivy
@@ -233,7 +233,7 @@ dv_has_:
     pl: Zesłanie Ducha Świętego
     pnb: پنتکست
     pt: Pentecostes
-    pt-br: Pentecostes
+    pt_br: Pentecostes
     qu: Pintikustis
     rm: Tschuncaisma
     ro: Rusalii

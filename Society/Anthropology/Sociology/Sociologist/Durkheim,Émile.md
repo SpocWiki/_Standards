@@ -137,7 +137,7 @@ dv_has_:
     az: Emil Durkhaym
     azb: امیل دورکیم
     be: Эміль Дзюркгейм
-    be-tarask: Эміль Дзюркем
+    be_tarask: Эміль Дзюркем
     bg: Емил Дюркем
     bjn: Emile Durkheim
     bn: এমিল দ্যুর্কেম
@@ -149,11 +149,11 @@ dv_has_:
     cy: Émile Durkheim
     da: Émile Durkheim
     de: Émile Durkheim
-    de-ch: Émile Durkheim
+    de_ch: Émile Durkheim
     el: Εμίλ Ντιρκέμ
     en: Émile Durkheim
-    en-ca: Émile Durkheim
-    en-gb: Émile Durkheim
+    en_ca: Émile Durkheim
+    en_gb: Émile Durkheim
     en-us: Émile Durkheim
     eo: Émile Durkheim
     es: Émile Durkheim
@@ -210,7 +210,7 @@ dv_has_:
     pms: Émile Durkheim
     ps: اميل دورخيم
     pt: Émile Durkheim
-    pt-br: Émile Durkheim
+    pt_br: Émile Durkheim
     ro: Émile Durkheim
     ru: Эмиль Дюркгейм
     sa: ईमिली डर्खीम
@@ -222,8 +222,8 @@ dv_has_:
     sl: Émile Durkheim
     sq: Emil Dyrkhemi
     sr: Емил Диркем
-    sr-ec: Емил Диркем
-    sr-el: Emil Dirkem
+    sr_ec: Емил Диркем
+    sr_el: Emil Dirkem
     sv: Émile Durkheim
     sw: Émile Durkheim
     ta: எமில் டேர்க்கேம்
@@ -243,8 +243,8 @@ dv_has_:
     yue: 涂爾幹
     zgh: ⵉⵎⵉⵍ ⴷⵓⵔⴽⴰⵢⵎ
     zh: 埃米尔·涂尔干
-    zh-hant: 艾彌爾·涂爾幹
-    zh-tw: 艾彌爾·涂爾幹
+    zh_hant: 艾彌爾·涂爾幹
+    zh_tw: 艾彌爾·涂爾幹
 ---
 # [[Durkheim,Émile]] 
 

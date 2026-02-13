@@ -64,7 +64,7 @@ dv_has_:
     arz: لكس
     ast: lux
     be: люкс
-    be-tarask: люкс
+    be_tarask: люкс
     bg: лукс
     bn: লাক্স (একক)
     bo: ལ་ཁི་སི།
@@ -97,11 +97,11 @@ dv_has_:
     ja: ルクス
     ka: ლუქსი
     kk: люкс
-    kk-arab: ليۋكس
+    kk_arab: ليۋكس
     kk-cn: ليۋكس
-    kk-cyrl: люкс
+    kk_cyrl: люкс
     kk-kz: Люкс
-    kk-latn: lyuks
+    kk_latn: lyuks
     kk-tr: lyuks
     ko: 럭스
     ky: люкс
@@ -125,26 +125,26 @@ dv_has_:
     sl: luks
     smn: luksi
     sr: лукс
-    sr-ec: лукс
-    sr-el: luks
+    sr_ec: лукс
+    sr_el: luks
     sv: lux
     ta: லக்சு
     th: ลักซ์
     tr: lüks
     tt: лүкс
-    tt-cyrl: лүкс
+    tt_cyrl: лүкс
     uk: люкс
     uz: lyuks
     vi: lux
     wuu: 勒克斯
     yue: 勒克斯
     zh: 勒克斯
-    zh-cn: 勒克斯
-    zh-hans: 勒克斯
-    zh-hant: 勒克斯
-    zh-hk: 勒克斯
-    zh-sg: 勒克斯
-    zh-tw: 勒克斯
+    zh_cn: 勒克斯
+    zh_hans: 勒克斯
+    zh_hant: 勒克斯
+    zh_hk: 勒克斯
+    zh_sg: 勒克斯
+    zh_tw: 勒克斯
 ---
 # [[Unit~Lux]] 
 

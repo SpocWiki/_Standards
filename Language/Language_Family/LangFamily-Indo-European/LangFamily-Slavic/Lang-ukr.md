@@ -325,7 +325,7 @@ Dewey_Decimal_Classification: 491.79
 dv_has_:
   name_:
     ab: Украин бызшәа
-    aeb-arab: الأوكراني
+    aeb_arab: الأوكراني
     af: Oekraïens
     am: ዩክሬንኛ
     an: Idioma ucrainés
@@ -343,7 +343,7 @@ dv_has_:
     ba: украин теле
     bar: Ukrainisch
     be: украінская мова
-    be-tarask: украінская мова
+    be_tarask: украінская мова
     bg: украински език
     bho: यूक्रेनियाई भाषा
     bi: Toktok Yukren
@@ -359,7 +359,7 @@ dv_has_:
     ckb: زمانی ئوکراینی
     co: ucrainu
     crh: Ukrain tili
-    crh-latn: Ukrain tili
+    crh_latn: Ukrain tili
     cs: ukrajinština
     csb: Ùkrajińsczi jãzëk
     cu: Оукраиньскъ ѩꙁꙑкъ
@@ -367,13 +367,13 @@ dv_has_:
     cy: Wcreineg
     da: ukrainsk
     de: Ukrainisch
-    de-ch: Ukrainisch
+    de_ch: Ukrainisch
     diq: Ukraynki
     dsb: Ukrainska rěc
     el: Ουκρανικά
     en: Ukrainian
-    en-ca: Ukrainian
-    en-gb: Ukrainian
+    en_ca: Ukrainian
+    en_gb: Ukrainian
     eo: ukraina lingvo
     es: ucraniano
     et: ukraina keel
@@ -422,7 +422,7 @@ dv_has_:
     krc: Украин тил
     ks: یوٗکرینی زَبان
     ku: zimanê ûkraynî
-    ku-latn: zimanê ûkraynî
+    ku_latn: zimanê ûkraynî
     kv: Украин кыв
     kw: Ukraynek
     ky: украин тили
@@ -468,7 +468,7 @@ dv_has_:
     pnb: یوکرینی
     ps: اوکرايني ژبه
     pt: ucraniano
-    pt-br: língua ucraniana
+    pt_br: língua ucraniana
     pwn: kai nua ukelan
     qu: Ukranya simi
     ro: limba ucraineană
@@ -491,7 +491,7 @@ dv_has_:
     sms: ukrainaǩiõll
     sq: Gjuha ukrainase
     sr: украјински језик
-    sr-ec: украјински
+    sr_ec: украјински
     su: basa Ukraina
     sv: ukrainska
     sw: Kiukraine
@@ -510,7 +510,7 @@ dv_has_:
     tpi: Tok Yukren
     tr: Ukraynaca
     tt: украин теле
-    tt-cyrl: украин теле
+    tt_cyrl: украин теле
     tw: Ukrainian
     tyv: Украин дыл
     udm: Украин кыл
@@ -533,11 +533,11 @@ dv_has_:
     za: Vah Vuhgwzlanz
     zea: Oekraïens
     zh: 乌克兰语
-    zh-cn: 乌克兰语
-    zh-hans: 乌克兰语
-    zh-hant: 烏克蘭語
-    zh-hk: 烏克蘭語
-    zh-tw: 烏克蘭語
+    zh_cn: 乌克兰语
+    zh_hans: 乌克兰语
+    zh_hant: 烏克蘭語
+    zh_hk: 烏克蘭語
+    zh_tw: 烏克蘭語
     zu: isi-Ukrainian
 ---
 # [[Lang-ukr]] 

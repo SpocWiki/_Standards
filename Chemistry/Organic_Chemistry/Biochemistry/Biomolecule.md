@@ -91,7 +91,7 @@ dv_has_:
     ast: biomolécula
     az: biomolekullar
     be: біямалекула
-    be-tarask: біямалекула
+    be_tarask: біямалекула
     bg: биомолекула
     bho: जीवकण
     bn: জীবজ অণু
@@ -103,8 +103,8 @@ dv_has_:
     de: Biomolekül
     el: βιομόριο
     en: biomolecule
-    en-ca: biomolecule
-    en-gb: biomolecule
+    en_ca: biomolecule
+    en_gb: biomolecule
     eo: biomolekulo
     es: biomolécula
     et: biomolekul
@@ -137,13 +137,13 @@ dv_has_:
     ml: ജൈവതന്മാത്ര
     mn: биомолекул
     ms: biomolekul
-    ms-arab: بيوموليکول
+    ms_arab: بيوموليکول
     nb: biomolekyl
     nl: biomolecuul
     nn: biomolekyl
     pl: biomolekuła
     pt: biomolécula
-    pt-br: biomolécula
+    pt_br: biomolécula
     ro: biomoleculă
     ru: биомолекула
     se: biomolekyla
@@ -154,8 +154,8 @@ dv_has_:
     sms: biomolekyyl
     so: biomolikule
     sr: биомолекул
-    sr-ec: биомолекул
-    sr-el: biomolekul
+    sr_ec: биомолекул
+    sr_el: biomolekul
     su: biomolekul
     sv: biomolekyl
     ta: உயிர்மூலக்கூறு
@@ -169,12 +169,12 @@ dv_has_:
     yi: ביאמאלעקול
     yue: 生物分子
     zh: 生物分子
-    zh-cn: 生物分子
-    zh-hans: 生物分子
-    zh-hant: 生物分子
-    zh-hk: 生物分子
-    zh-sg: 生物分子
-    zh-tw: 生物分子
+    zh_cn: 生物分子
+    zh_hans: 生物分子
+    zh_hant: 生物分子
+    zh_hk: 生物分子
+    zh_sg: 生物分子
+    zh_tw: 生物分子
 ---
 # [[Biomolecule]] 
 

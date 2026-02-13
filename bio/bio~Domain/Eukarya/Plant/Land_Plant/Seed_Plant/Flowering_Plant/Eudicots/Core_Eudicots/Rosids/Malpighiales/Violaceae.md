@@ -110,7 +110,7 @@ dv_has_:
     az: Bənövşəkimilər
     azb: بنؤوش کیمیلر
     be: фіялкавыя
-    be-tarask: Фіялкавыя
+    be_tarask: Фіялкавыя
     bg: теменугови
     bs: Violaceae
     ca: violàcies
@@ -146,8 +146,8 @@ dv_has_:
     kk: Шегіргүл тұқымдасы
     ko: 제비꽃과
     ku: Famîleya binefşan
-    ku-arab: فامیلەیا بنەفشان
-    ku-latn: Famîleya binefşan
+    ku_arab: فامیلەیا بنەفشان
+    ku_latn: Famîleya binefşan
     la: Violaceae
     lmo: Violaceae
     lt: Našlaitiniai
@@ -161,7 +161,7 @@ dv_has_:
     oc: Violaceae
     pl: Fiołkowate
     pt: Violaceae
-    pt-br: Violaceae
+    pt_br: Violaceae
     ro: Violaceae
     ru: фиалковые
     sco: Violaceae
@@ -179,12 +179,12 @@ dv_has_:
     war: Violaceae
     yue: 堇菜科
     zh: 堇菜科
-    zh-cn: 堇菜科
-    zh-hans: 堇菜科
-    zh-hant: 堇菜科
-    zh-hk: 堇菜科
-    zh-sg: 堇菜科
-    zh-tw: 堇菜科
+    zh_cn: 堇菜科
+    zh_hans: 堇菜科
+    zh_hant: 堇菜科
+    zh_hk: 堇菜科
+    zh_sg: 堇菜科
+    zh_tw: 堇菜科
 ---
 # [[Violaceae]] 
 

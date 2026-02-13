@@ -95,7 +95,7 @@ dv_has_:
     ast: maldición
     az: bəddua
     be: праклён
-    be-tarask: праклён
+    be_tarask: праклён
     bg: проклятие
     br: mallozh
     ca: maledicció
@@ -166,12 +166,12 @@ dv_has_:
     vi: Lời nguyền
     yue: 詛咒
     zh: 詛咒
-    zh-cn: 诅咒
-    zh-hans: 诅咒
-    zh-hant: 詛咒
-    zh-hk: 詛咒
-    zh-sg: 诅咒
-    zh-tw: 詛咒
+    zh_cn: 诅咒
+    zh_hans: 诅咒
+    zh_hant: 詛咒
+    zh_hk: 詛咒
+    zh_sg: 诅咒
+    zh_tw: 詛咒
 ---
 # [[Curse]] 
 

@@ -98,7 +98,7 @@ dv_has_:
     ar: مقياس رسم
     az: Miqyas
     be: маштаб
-    be-tarask: маштаб
+    be_tarask: маштаб
     bg: Мащаб
     bho: पैमाना (नक्शा)
     bn: স্কেল (মানচিত্র)
@@ -108,7 +108,7 @@ dv_has_:
     cs: měřítko mapy
     da: målestok
     de: Maßstab
-    de-ch: Massstab
+    de_ch: Massstab
     el: Κλίμακα χάρτη
     en: scale
     eo: mapa skalo
@@ -149,8 +149,8 @@ dv_has_:
     smn: mittokaava
     sms: mettkääʹvv
     sr: размера
-    sr-ec: Размера
-    sr-el: Razmera
+    sr_ec: Размера
+    sr_el: Razmera
     sv: skala
     sw: Skeli
     ta: அளவுவிகிதம்

@@ -162,7 +162,7 @@ dv_has_:
     bar: Kestn
     bcl: Kastanyas
     be: Каштан
-    be-tarask: каштан
+    be_tarask: каштан
     bg: кестен
     bo: ཨ་འབྲུམ།
     bs: Kesten
@@ -205,11 +205,11 @@ dv_has_:
     ka: წაბლი
     kab: Adernen
     kk: Талшын
-    kk-arab: تالشىن
+    kk_arab: تالشىن
     kk-cn: تالشىن
-    kk-cyrl: Талшын
+    kk_cyrl: Талшын
     kk-kz: Талшын
-    kk-latn: Talşın
+    kk_latn: Talşın
     kk-tr: Talşın
     kn: ಚೆಸ್ನಟ್ ಮರ
     ko: 밤나무속
@@ -237,7 +237,7 @@ dv_has_:
     pl: kasztan
     pnb: شاہ بلوط
     pt: Castanea
-    pt-br: Castanea
+    pt_br: Castanea
     qu: Chincha kastaña
     ro: Castanea
     ru: каштан
@@ -249,8 +249,8 @@ dv_has_:
     sl: pravi kostanj
     sq: Castanea
     sr: Кестен
-    sr-ec: Кестен
-    sr-el: Kesten
+    sr_ec: Кестен
+    sr_el: Kesten
     sv: Kastanjesläktet
     sw: Mwaramoni
     ta: செசுநட்
@@ -272,12 +272,12 @@ dv_has_:
     xmf: ჭუბური
     yue: 栗屬
     zh: 栗属
-    zh-cn: 板栗属
-    zh-hans: 栗
-    zh-hant: 栗
-    zh-hk: 栗
-    zh-sg: 栗
-    zh-tw: 板栗屬
+    zh_cn: 板栗属
+    zh_hans: 栗
+    zh_hant: 栗
+    zh_hk: 栗
+    zh_sg: 栗
+    zh_tw: 板栗屬
 ---
 # [[Castanea]] 
 

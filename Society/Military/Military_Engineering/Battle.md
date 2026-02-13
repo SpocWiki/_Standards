@@ -119,7 +119,7 @@ dv_has_:
     az: döyüş
     ba: алыш
     be: бітва
-    be-tarask: бітва
+    be_tarask: бітва
     bg: битка
     bn: যুদ্ধ
     br: emgann
@@ -166,7 +166,7 @@ dv_has_:
     kn: ಕದನ
     ko: 전투
     ku: şer û pêkdan
-    ku-latn: şer û pêkdan
+    ku_latn: şer û pêkdan
     la: proelium
     lb: Schluecht
     li: Veldjslaag
@@ -201,8 +201,8 @@ dv_has_:
     sl: bitka
     sq: betejë
     sr: битка
-    sr-ec: битка
-    sr-el: Bitka
+    sr_ec: битка
+    sr_el: Bitka
     sv: slag
     szl: bitwa
     ta: சமர்
@@ -217,12 +217,12 @@ dv_has_:
     yi: שלאכט
     yue: 戰役
     zh: 戰役
-    zh-cn: 战役
-    zh-hans: 战役
-    zh-hant: 戰役
-    zh-hk: 戰役
-    zh-sg: 战役
-    zh-tw: 戰役
+    zh_cn: 战役
+    zh_hans: 战役
+    zh_hant: 戰役
+    zh_hk: 戰役
+    zh_sg: 战役
+    zh_tw: 戰役
 ---
 # [[Battle]] 
 

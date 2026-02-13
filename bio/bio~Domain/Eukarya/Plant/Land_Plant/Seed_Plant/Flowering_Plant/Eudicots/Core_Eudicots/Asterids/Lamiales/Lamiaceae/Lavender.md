@@ -93,7 +93,7 @@ dv_has_:
     azb: لاوانتا
     bcl: Lavender
     be: Лаванда
-    be-tarask: лявэнда
+    be_tarask: лявэнда
     bg: лавандула
     bn: ল্যাভেন্ডার
     bo: དྲི་ཞིམ་ཅན།
@@ -110,7 +110,7 @@ dv_has_:
     diq: Kırê luwer
     el: Λεβάντα
     en: Lavandula
-    en-gb: lavender
+    en_gb: lavender
     eo: Lavendo
     es: Lavandula
     et: Lavendel
@@ -137,11 +137,11 @@ dv_has_:
     jv: Lavender
     ka: ლავანდი
     kk: Лаванда
-    kk-arab: لاۆاندا
+    kk_arab: لاۆاندا
     kk-cn: لاۆاندا
-    kk-cyrl: Лаванда
+    kk_cyrl: Лаванда
     kk-kz: Лаванда
-    kk-latn: Lavanda
+    kk_latn: Lavanda
     kk-tr: Lavanda
     ko: 라벤더속
     la: Lavandula
@@ -162,7 +162,7 @@ dv_has_:
     os: Уæрæхсыф
     pl: Lawenda
     pt: Lavanda
-    pt-br: lavanda
+    pt_br: lavanda
     rmy: Lavender
     ro: Lavandula
     ru: лаванда
@@ -191,12 +191,12 @@ dv_has_:
     wuu: 薰衣草
     yue: 薰衣草
     zh: 薰衣草属
-    zh-cn: 薰衣草属
-    zh-hans: 薰衣草属
-    zh-hant: 薰衣草
-    zh-hk: 薰衣草
-    zh-sg: 薰衣草
-    zh-tw: 薰衣草屬
+    zh_cn: 薰衣草属
+    zh_hans: 薰衣草属
+    zh_hant: 薰衣草
+    zh_hk: 薰衣草
+    zh_sg: 薰衣草
+    zh_tw: 薰衣草屬
 ---
 # [[Lavender]] 
 

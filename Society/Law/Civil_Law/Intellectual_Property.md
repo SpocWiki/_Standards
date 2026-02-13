@@ -136,7 +136,7 @@ dv_has_:
     bar: Geischtigs Eigentum
     bcl: Pagrogaring na intelektwal
     be: інтэлектуальная ўласнасць
-    be-tarask: інтэлектуальная ўласнасьць
+    be_tarask: інтэлектуальная ўласнасьць
     bg: Интелектуална собственост
     bn: মেধা সম্পদ
     bs: Intelektualno vlasništvo
@@ -147,8 +147,8 @@ dv_has_:
     de: geistiges Eigentum
     el: Διανοητική ιδιοκτησία
     en: intellectual property
-    en-ca: intellectual property
-    en-gb: intellectual property
+    en_ca: intellectual property
+    en_gb: intellectual property
     eo: intelekta propraĵo
     es: propiedad intelectual
     et: intellektuaalne omand
@@ -174,11 +174,11 @@ dv_has_:
     jv: Budiarta
     ka: ინტელექტუალური საკუთრება
     kk: Зияткерлік меншік
-    kk-arab: زىيياتكەرلىك مەنشىك
+    kk_arab: زىيياتكەرلىك مەنشىك
     kk-cn: زىيياتكەرلىك مەنشىك
-    kk-cyrl: Зияткерлік меншік
+    kk_cyrl: Зияткерлік меншік
     kk-kz: Зияткерлік меншік
-    kk-latn: Zïyatkerlik menşik
+    kk_latn: Zïyatkerlik menşik
     kk-tr: Zïyatkerlik menşik
     km: កម្មសិទ្ធិបញ្ញា
     ko: 지식 재산권
@@ -189,7 +189,7 @@ dv_has_:
     ml: ബൗദ്ധികസ്വത്തവകാശം
     mn: Оюуны өмч
     ms: harta intelektual
-    ms-arab: هرتا اينتليک
+    ms_arab: هرتا اينتليک
     nan: Tì-sek châi-sán-koân
     nb: immaterialrett
     ne: बौद्धिक सम्पत्ति
@@ -212,7 +212,7 @@ dv_has_:
     sms: immateriaalvuõiggâdvuõtt
     sq: pronë intelektuale
     sr: интелектуална својина
-    sr-ec: интелектуална својина
+    sr_ec: интелектуална својина
     sv: immaterialrätt
     ta: அறிவுசார் சொத்துரிமை
     tg: Моликияти фикрӣ
@@ -227,12 +227,12 @@ dv_has_:
     wuu: 知识产权
     yue: 知識產權
     zh: 知识产权
-    zh-cn: 知识产权
-    zh-hans: 知识产权
-    zh-hant: 智慧財產權
-    zh-hk: 知識產權
-    zh-sg: 知识产权
-    zh-tw: 智慧財產權
+    zh_cn: 知识产权
+    zh_hans: 知识产权
+    zh_hant: 智慧財產權
+    zh_hk: 知識產權
+    zh_sg: 知识产权
+    zh_tw: 智慧財產權
 ---
 # [[Intellectual_Property]] 
 

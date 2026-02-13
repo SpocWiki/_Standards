@@ -132,7 +132,7 @@ dv_has_:
     az: Edvard Cenner
     azb: ادوارد جنر
     be: Эдуард Джэнер
-    be-tarask: Эдўард Джэнэр
+    be_tarask: Эдўард Джэнэр
     bg: Едуард Дженер
     bn: এডওয়ার্ড জেনার
     bs: Edward Jenner
@@ -195,7 +195,7 @@ dv_has_:
     pl: Edward Jenner
     ps: اډوارډ جېنر
     pt: Edward Jenner
-    pt-br: Edward Jenner
+    pt_br: Edward Jenner
     qu: Edward Jenner
     ro: Edward Jenner
     ru: Эдвард Дженнер
@@ -208,7 +208,7 @@ dv_has_:
     sl: Edward Jenner
     sq: Edward Jenner
     sr: Едвард Џенер
-    sr-ec: Едвард Џенер
+    sr_ec: Едвард Џенер
     sv: Edward Jenner
     szy: Ay-de-hua.Cen-na愛德華·詹納
     ta: எட்வர்ட் ஜென்னர்
@@ -226,7 +226,7 @@ dv_has_:
     xmf: ედუარდ ჯენერი
     yue: 詹納
     zh: 愛德華·詹納
-    zh-hans: 爱德华·琴纳
+    zh_hans: 爱德华·琴纳
 ---
 # [[Jenner,Edward]] 
 

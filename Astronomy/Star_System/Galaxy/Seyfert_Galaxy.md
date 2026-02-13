@@ -81,15 +81,15 @@ dv_has_:
     ar: مجرة زايفرت
     ast: Galaxa Seyfert
     az: Seyfert qalaktikası
-    be-tarask: галяктыка Сэйфэрта
+    be_tarask: галяктыка Сэйфэрта
     ca: galàxia de Seyfert
     cs: Seyfertova galaxie
     cy: Galaeth Seyfert
     de: Seyfertgalaxie
     el: Γαλαξίας Σίφερτ
     en: Seyfert galaxy
-    en-ca: Seyfert galaxy
-    en-gb: Seyfert galaxy
+    en_ca: Seyfert galaxy
+    en_gb: Seyfert galaxy
     eo: galaksio de Seyfert
     es: Galaxia Seyfert
     eu: Seyfert galaxia
@@ -118,7 +118,7 @@ dv_has_:
     oc: Galaxia de Seyfert
     pl: galaktyka Seyferta
     pt: Galáxia Seyfert
-    pt-br: Galáxia Seyfert
+    pt_br: Galáxia Seyfert
     ro: galaxie Seyfert
     ru: сейфертовская галактика
     sk: Seyfertova galaxia
@@ -131,12 +131,12 @@ dv_has_:
     wuu: 赛弗特星系
     yue: 西佛星系
     zh: 西佛星系
-    zh-cn: 西佛星系
-    zh-hans: 西佛星系
-    zh-hant: 西佛星系
-    zh-hk: 西佛星系
-    zh-sg: 西佛星系
-    zh-tw: 西佛星系
+    zh_cn: 西佛星系
+    zh_hans: 西佛星系
+    zh_hant: 西佛星系
+    zh_hk: 西佛星系
+    zh_sg: 西佛星系
+    zh_tw: 西佛星系
 ---
 # [[Seyfert_Galaxy]] 
 

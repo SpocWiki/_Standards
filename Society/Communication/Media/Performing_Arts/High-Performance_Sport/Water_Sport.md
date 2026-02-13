@@ -134,16 +134,16 @@ dv_has_:
     lv: ūdens sports
     mk: воден спорт
     ms: sukan air
-    ms-arab: سوکن اءير
+    ms_arab: سوکن اءير
     nb: vannsport
     nds: Watersport
-    nds-nl: waetersport
+    nds_nl: waetersport
     nl: watersport
     pap: deporte akuátiko
     pap-aw: deporte acuatico
     pl: sport wodny
     pt: desporto aquático
-    pt-br: esporte aquático
+    pt_br: esporte aquático
     ro: sporturi nautice
     ru: водный спорт
     scn: sport di acqua
@@ -162,11 +162,11 @@ dv_has_:
     ur: آبی کھیل
     vi: thể thao dưới nước
     zh: 水類運動
-    zh-cn: 水类运动
-    zh-hans: 水类运动
-    zh-hant: 水類運動
-    zh-hk: 水類運動
-    zh-tw: 水類運動
+    zh_cn: 水类运动
+    zh_hans: 水类运动
+    zh_hant: 水類運動
+    zh_hk: 水類運動
+    zh_tw: 水類運動
 ---
 ## #has_/text_of_/abstract 
 

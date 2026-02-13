@@ -72,7 +72,7 @@ dv_has_:
     az: Pitekantrop
     ba: Питекантроп
     be: Пітэкантрап
-    be-tarask: пітэкантрап
+    be_tarask: пітэкантрап
     bg: Homo erectus erectus
     ca: Home de Java
     ceb: Homo erectus erectus
@@ -100,11 +100,11 @@ dv_has_:
     jv: Manungsa Jawa
     ka: პითეკანთროპი
     kk: Питекантроп
-    kk-arab: پىيتەكانتروپ
+    kk_arab: پىيتەكانتروپ
     kk-cn: پىيتەكانتروپ
-    kk-cyrl: Питекантроп
+    kk_cyrl: Питекантроп
     kk-kz: Питекантроп
-    kk-latn: Pïtekantrop
+    kk_latn: Pïtekantrop
     kk-tr: Pïtekantrop
     kn: ಜಾವ ಮಾನವ
     ko: 자바 원인
@@ -126,8 +126,8 @@ dv_has_:
     sl: Javanski človek
     sq: Homo erectus erectus
     sr: Јавански човек
-    sr-ec: Јавански човек
-    sr-el: Javanski čovek
+    sr_ec: Јавански човек
+    sr_el: Javanski čovek
     su: Manusa Jawa
     ta: சாவக மனிதன்
     th: มนุษย์ชวา
@@ -142,12 +142,12 @@ dv_has_:
     wuu: 爪哇猿人
     yue: 爪哇猿人
     zh: 爪哇猿人
-    zh-cn: 爪哇猿人
-    zh-hans: 爪哇猿人
-    zh-hant: 爪哇猿人
-    zh-hk: 爪哇猿人
-    zh-sg: 爪哇猿人
-    zh-tw: 爪哇猿人
+    zh_cn: 爪哇猿人
+    zh_hans: 爪哇猿人
+    zh_hant: 爪哇猿人
+    zh_hk: 爪哇猿人
+    zh_sg: 爪哇猿人
+    zh_tw: 爪哇猿人
 ---
 # [[Java_Man]] 
 

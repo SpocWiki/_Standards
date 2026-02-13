@@ -120,7 +120,7 @@ dv_has_:
     azb: پینک فلوید
     bar: Pink Floyd
     be: Pink Floyd
-    be-tarask: Pink Floyd
+    be_tarask: Pink Floyd
     bg: Пинк Флойд
     bn: পিংক ফ্লয়েড
     br: Pink Floyd
@@ -133,12 +133,12 @@ dv_has_:
     da: Pink Floyd
     de: Pink Floyd
     de-at: Pink Floyd
-    de-ch: Pink Floyd
+    de_ch: Pink Floyd
     el: Pink Floyd
     eml: Pink Floyd
     en: Pink Floyd
-    en-ca: Pink Floyd
-    en-gb: Pink Floyd
+    en_ca: Pink Floyd
+    en_gb: Pink Floyd
     en-us: Pink Floyd
     eo: Pink Floyd
     es: Pink Floyd
@@ -204,7 +204,7 @@ dv_has_:
     nap: Pink Floyd
     nb: Pink Floyd
     nds: Pink Floyd
-    nds-nl: Pink Floyd
+    nds_nl: Pink Floyd
     nl: Pink Floyd
     nn: Pink Floyd
     nrm: Pink Floyd
@@ -216,7 +216,7 @@ dv_has_:
     pms: Pink Floyd
     pnb: پنک فلویڈ
     pt: Pink Floyd
-    pt-br: Pink Floyd
+    pt_br: Pink Floyd
     qu: Pink Floyd
     rm: Pink Floyd
     rmf: Pink Floyd
@@ -237,8 +237,8 @@ dv_has_:
     sms: Pink Floyd
     sq: Pink Floyd
     sr: Пинк флојд
-    sr-ec: Пинк флојд
-    sr-el: Pink flojd
+    sr_ec: Пинк флојд
+    sr_el: Pink flojd
     sv: Pink Floyd
     sw: Pink Floyd
     szl: Pink Floyd
@@ -264,9 +264,9 @@ dv_has_:
     yi: פינק פלויד
     yue: 粉紅弗洛伊德
     zh: 平克·弗洛伊德
-    zh-hans: 平克·弗洛伊德
-    zh-hant: 平克·佛洛伊德
-    zh-tw: 平克·佛洛伊德
+    zh_hans: 平克·弗洛伊德
+    zh_hant: 平克·佛洛伊德
+    zh_tw: 平克·佛洛伊德
     zu: Pink Floyd
 ---
 # [[Pink_Floyd]] 

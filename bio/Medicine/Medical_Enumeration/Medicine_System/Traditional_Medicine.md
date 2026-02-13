@@ -92,7 +92,7 @@ dv_has_:
     ast: Medicina tradicional
     az: xalq təbabəti
     be: народная медыцына
-    be-tarask: народная мэдыцына
+    be_tarask: народная мэдыцына
     bg: Традиционна медицина
     bn: ঐতিহ্যবাহী চিকিৎসাবিজ্ঞান
     bs: Tradicijska medicina
@@ -158,9 +158,9 @@ dv_has_:
     yo: Ìṣègùn ìbílẹ̀
     yue: 傳統醫學
     zh: 传统医学
-    zh-hans: 传统医学
-    zh-hant: 傳統醫學
-    zh-hk: 傳統醫學
+    zh_hans: 传统医学
+    zh_hant: 傳統醫學
+    zh_hk: 傳統醫學
 ---
 # [[Traditional_Medicine]] 
 

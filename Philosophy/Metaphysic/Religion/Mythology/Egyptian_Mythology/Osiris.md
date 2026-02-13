@@ -99,7 +99,7 @@ dv_has_:
     ast: Osiris
     az: Osiris
     be: Асірыс
-    be-tarask: Асырыс
+    be_tarask: Асырыс
     bg: Озирис
     bn: ওসাইরিস
     bo: ཨུ་སའེ་ལི་སི།

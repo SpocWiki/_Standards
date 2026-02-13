@@ -41,11 +41,11 @@ dv_has_:
     da: Peter Shaffer
     de: Peter Shaffer
     de-at: Peter Shaffer
-    de-ch: Peter Shaffer
+    de_ch: Peter Shaffer
     el: Πήτερ Σάφερ
     en: Peter Shaffer
-    en-ca: Peter Shaffer
-    en-gb: Peter Shaffer
+    en_ca: Peter Shaffer
+    en_gb: Peter Shaffer
     eo: Peter Shaffer
     es: Peter Shaffer
     et: Peter Shaffer
@@ -85,7 +85,7 @@ dv_has_:
     nap: Peter Shaffer
     nb: Peter Shaffer
     nds: Peter Shaffer
-    nds-nl: Peter Shaffer
+    nds_nl: Peter Shaffer
     nl: Peter Shaffer
     nn: Peter Shaffer
     nrm: Peter Shaffer
@@ -97,7 +97,7 @@ dv_has_:
     pms: Peter Shaffer
     prg: Peter Shaffer
     pt: Peter Shaffer
-    pt-br: Peter Shaffer
+    pt_br: Peter Shaffer
     rgn: Peter Shaffer
     rm: Peter Shaffer
     ro: Peter Shaffer
@@ -109,7 +109,7 @@ dv_has_:
     sl: Peter Shaffer
     sq: Peter Shaffer
     sr: Питер Шафер
-    sr-el: Peter Shaffer
+    sr_el: Peter Shaffer
     sv: Peter Shaffer
     sw: Peter Shaffer
     tr: Peter Shaffer
@@ -122,12 +122,12 @@ dv_has_:
     wa: Peter Shaffer
     wo: Peter Shaffer
     zh: 彼得·謝弗
-    zh-cn: 彼得·谢弗
-    zh-hans: 彼得·谢弗
-    zh-hant: 彼得·謝弗
-    zh-hk: 彼得·謝弗
-    zh-sg: 彼得·谢弗
-    zh-tw: 彼得·謝弗
+    zh_cn: 彼得·谢弗
+    zh_hans: 彼得·谢弗
+    zh_hant: 彼得·謝弗
+    zh_hk: 彼得·謝弗
+    zh_sg: 彼得·谢弗
+    zh_tw: 彼得·謝弗
     zu: Peter Shaffer
 ---
 # [[Shaffer,Peter]] 

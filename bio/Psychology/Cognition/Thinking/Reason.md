@@ -107,7 +107,7 @@ dv_has_:
     azb: عقل
     ba: аң
     bdr: Akal
-    be-tarask: глузд
+    be_tarask: глузд
     bg: разум
     bn: বিচারবুদ্ধি
     br: Poell
@@ -123,8 +123,8 @@ dv_has_:
     de: Vernunft
     el: λογική
     en: reason
-    en-ca: reason
-    en-gb: reason
+    en_ca: reason
+    en_gb: reason
     eo: racio
     es: razón
     et: mõistus
@@ -173,7 +173,7 @@ dv_has_:
     pms: Rason
     ps: دلیل
     pt: razão
-    pt-br: razão
+    pt_br: razão
     qu: humu
     ro: rațiune
     ru: разум
@@ -187,8 +187,8 @@ dv_has_:
     so: macquul
     sq: arsyeja
     sr: разум
-    sr-ec: разум
-    sr-el: razum
+    sr_ec: разум
+    sr_el: razum
     sv: förnuft
     ta: காரணம்
     tg: шуур
@@ -196,7 +196,7 @@ dv_has_:
     tk: Baza
     tr: akıl
     tt: акыл
-    tt-cyrl: акыл
+    tt_cyrl: акыл
     uk: розум
     ur: حکمت (دماغ)
     uz: Aql
@@ -206,12 +206,12 @@ dv_has_:
     yi: סברה
     yue: 理性
     zh: 理智
-    zh-cn: 理智
-    zh-hans: 理智
-    zh-hant: 理智
-    zh-hk: 理智
-    zh-sg: 理智
-    zh-tw: 理智
+    zh_cn: 理智
+    zh_hans: 理智
+    zh_hant: 理智
+    zh_hk: 理智
+    zh_sg: 理智
+    zh_tw: 理智
 ---
 # [[Reason]] 
 

@@ -174,7 +174,7 @@ dv_has_:
     bar: gsang
     bdr: Belagu
     be: спеў
-    be-tarask: сьпеў
+    be_tarask: сьпеў
     bg: пеене
     bho: गायकी
     bn: গাওয়া
@@ -191,12 +191,12 @@ dv_has_:
     da: sang
     dag: yili
     de: Gesang
-    de-ch: Gesang
+    de_ch: Gesang
     diq: dêrvan
     el: άσμα
     en: singing
-    en-ca: singing
-    en-gb: singing
+    en_ca: singing
+    en_gb: singing
     eo: kantado
     es: canto
     et: laulmine
@@ -252,7 +252,7 @@ dv_has_:
     mzn: خونش
     nan: chhiùⁿ-koa
     nb: sang
-    nds-nl: zangkeunst
+    nds_nl: zangkeunst
     ne: गाउनु
     new: गायक
     nl: zangkunst
@@ -267,7 +267,7 @@ dv_has_:
     pl: śpiew
     pnb: گلوکاری
     pt: canto
-    pt-br: canto
+    pt_br: canto
     qu: taki
     rmf: džambiba
     ro: cântare
@@ -301,11 +301,11 @@ dv_has_:
     yo: orin kíkọ
     yue: 唱
     zh: 歌唱
-    zh-cn: 歌唱
-    zh-hans: 歌唱
-    zh-hant: 歌唱
-    zh-hk: 歌唱
-    zh-tw: 歌唱
+    zh_cn: 歌唱
+    zh_hans: 歌唱
+    zh_hant: 歌唱
+    zh_hk: 歌唱
+    zh_tw: 歌唱
 ---
 # [[Singing]] 
 

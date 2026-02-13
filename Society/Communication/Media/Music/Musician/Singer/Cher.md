@@ -164,7 +164,7 @@ dv_has_:
     azb: شر
     bcl: Cher
     be: Шэр
-    be-tarask: Шэр
+    be_tarask: Шэр
     bg: Шер
     bn: শের
     br: Cher
@@ -179,8 +179,8 @@ dv_has_:
     el: Σερ
     eml: Cher
     en: Cher
-    en-ca: Cher
-    en-gb: Cher
+    en_ca: Cher
+    en_gb: Cher
     en-us: Cher
     eo: Cher
     es: Cher
@@ -237,7 +237,7 @@ dv_has_:
     pl: Cher
     pnb: شیر
     pt: Cher
-    pt-br: Cher
+    pt_br: Cher
     rmy: Cher
     ro: Cher
     ru: Шер
@@ -267,8 +267,8 @@ dv_has_:
     yo: Cher
     yue: 雪兒
     zh: 雪兒
-    zh-hans: 雪儿
-    zh-hant: 雪兒
+    zh_hans: 雪儿
+    zh_hant: 雪兒
 ---
 # [[Cher]] 
 

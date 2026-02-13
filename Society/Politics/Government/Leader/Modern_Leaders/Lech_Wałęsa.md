@@ -156,7 +156,7 @@ dv_has_:
     ba: Лех Валэнса
     bcl: Lech Walesa
     be: Лех Валенса
-    be-tarask: Лех Валэнса
+    be_tarask: Лех Валэнса
     bg: Лех Валенса
     bho: लेक वलेंसा
     bn: লেখ ওয়ালেন্সা
@@ -175,13 +175,13 @@ dv_has_:
     cy: Lech Wałęsa
     da: Lech Wałęsa
     de: Lech Wałęsa
-    de-ch: Lech Wałęsa
+    de_ch: Lech Wałęsa
     diq: Lech Wałesa
     ee: Lech Wałęsa
     el: Λεχ Βαλέσα
     eml: Lech Walesa
-    en-ca: Lech Walesa
-    en-gb: Lech Walesa
+    en_ca: Lech Walesa
+    en_gb: Lech Walesa
     eo: Lech Wałęsa
     es: Lech Wałęsa
     et: Lech Wałęsa
@@ -245,7 +245,7 @@ dv_has_:
     nan: Lech Wałęsa
     nb: Lech Wałęsa
     nds: Lech Wałęsa
-    nds-nl: Lech Wałęsa
+    nds_nl: Lech Wałęsa
     ne: लेक वालेसा
     new: लेक वालेसा
     nl: Lech Wałęsa
@@ -303,9 +303,9 @@ dv_has_:
     yue: 華里沙
     za: Lech Wałęsa
     zh: 萊赫·瓦文薩
-    zh-cn: 莱赫·瓦文萨
-    zh-hans: 莱赫·瓦文萨
-    zh-hant: 莱赫·瓦文萨
+    zh_cn: 莱赫·瓦文萨
+    zh_hans: 莱赫·瓦文萨
+    zh_hant: 莱赫·瓦文萨
 ---
 # [[Lech_Wałęsa]] 
 

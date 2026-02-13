@@ -73,17 +73,17 @@ dv_has_:
     ast: Defensa antiaérea
     az: Hava hücumundan müdafiə
     be: супрацьпаветраная абарона
-    be-tarask: супрацьпаветраная абарона
+    be_tarask: супрацьпаветраная абарона
     bg: Зенитно оръдие
     ca: defensa antiaèria
     ckb: بەرگریی ھەوایی
     cs: protivzdušná obrana
     da: luftforsvar
     de: Flugabwehr
-    de-ch: Flugabwehr
+    de_ch: Flugabwehr
     en: air defense
-    en-ca: Anti-aircraft warfare
-    en-gb: anti-aircraft warfare
+    en_ca: Anti-aircraft warfare
+    en_gb: anti-aircraft warfare
     eo: aerdefendo
     es: defensa antiaérea
     et: Õhutõrje
@@ -116,14 +116,14 @@ dv_has_:
     oc: Lucha antiaeriana
     pl: Obrona przeciwlotnicza
     pt: defesa antiaérea
-    pt-br: Defesa antiaérea
+    pt_br: Defesa antiaérea
     ro: Apărare antiaeriană
     ru: противовоздушная оборона
     sk: Protivzdušná obrana
     sl: zračna obramba
     sr: противваздухопловна одбрана
-    sr-ec: противваздухопловна одбрана
-    sr-el: Protivvazduhoplovna odbrana
+    sr_ec: противваздухопловна одбрана
+    sr_el: Protivvazduhoplovna odbrana
     sv: luftvärn
     ta: வானூர்தி எதிர்ப்புப் போர்
     th: การสงครามต่อสู้อากาศยาน
@@ -133,9 +133,9 @@ dv_has_:
     vi: Vũ khí phòng không
     yue: 防空武器
     zh: 防空战
-    zh-hans: 防空战
-    zh-hant: 防空戰
-    zh-hk: 防空戰
+    zh_hans: 防空战
+    zh_hant: 防空戰
+    zh_hk: 防空戰
 ---
 # [[Air_defense]] 
 

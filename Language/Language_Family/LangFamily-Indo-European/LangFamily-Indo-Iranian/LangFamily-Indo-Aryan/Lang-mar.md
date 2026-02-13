@@ -164,7 +164,7 @@ Commons_category: Marathi language
 GOST_7_75_97_code: мар 440
 dv_has_:
   name_:
-    aeb-arab: المراثي
+    aeb_arab: المراثي
     af: marathi
     anp: मराठी भाषा
     ar: المراثية
@@ -177,7 +177,7 @@ dv_has_:
     ba: Маратһи теле
     bcl: Marati
     be: Маратхі, мова
-    be-tarask: маратгі
+    be_tarask: маратгі
     bg: маратхийски език
     bho: मराठी
     bn: মারাঠি ভাষা
@@ -190,14 +190,14 @@ dv_has_:
     cy: Maratheg
     da: marathi
     de: Marathi
-    de-ch: Marathi
+    de_ch: Marathi
     diq: Meratki
     dty: मराठी भाषा
     dv: މަރާޓީ
     el: Μαράτι
     en: Marathi
-    en-ca: Marathi
-    en-gb: Marathi
+    en_ca: Marathi
+    en_gb: Marathi
     eo: marata lingvo
     es: maratí
     et: marathi keel
@@ -209,7 +209,7 @@ dv_has_:
     ga: an Mharaitis
     gl: Lingua marathi
     gom: मराठी
-    gom-latn: मराठी
+    gom_latn: मराठी
     gu: મરાઠી ભાષા
     gv: Marathish
     ha: Marati
@@ -244,7 +244,7 @@ dv_has_:
     lt: maračių kalba
     lv: marathu valoda
     mai: मराठी भाषा
-    map-bms: Basa Marathi
+    map_bms: Basa Marathi
     mg: Fiteny Marathi
     mk: маратски јазик
     ml: മറാഠി
@@ -270,7 +270,7 @@ dv_has_:
     pnb: مرہٹی
     ps: مراټي ژبه
     pt: marata
-    pt-br: Língua marata
+    pt_br: Língua marata
     qu: Marathi simi
     ro: limba marathi
     ru: маратхи
@@ -285,7 +285,7 @@ dv_has_:
     sl: maratščina
     sq: Gjuha marathi
     sr: маратхи језик
-    sr-ec: маратхи језик
+    sr_ec: маратхи језик
     sv: marathi
     sw: Kimarathi
     ta: மராத்தி
@@ -311,10 +311,10 @@ dv_has_:
     yi: מאראטהי
     yue: 馬拉提文
     zh: 马拉提语
-    zh-cn: 马拉提语
-    zh-hans: 马拉提语
-    zh-hant: 馬拉提語
-    zh-tw: 馬拉提語
+    zh_cn: 马拉提语
+    zh_hans: 马拉提语
+    zh_hant: 馬拉提語
+    zh_tw: 馬拉提語
     zu: isi-Marathi
 ---
 # [[Lang-mar]] 

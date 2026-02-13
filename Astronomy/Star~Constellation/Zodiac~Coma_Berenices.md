@@ -122,7 +122,7 @@ dv_has_:
     az: Veronikanın Saçları
     ba: Вероника сәс
     be: Валасы Веранікі
-    be-tarask: Валасы Бэрэнікі
+    be_tarask: Валасы Бэрэнікі
     bg: Косите на Вероника
     bn: কোমা বারেনিসিসের মণ্ডল
     bo: བཙུན་མོའི་དབུ་སྐྲའི་སྐར་ཚོམ་
@@ -207,8 +207,8 @@ dv_has_:
     wuu: 后发座
     yue: 后髮座
     zh: 后发座
-    zh-hans: 后发座
-    zh-hant: 后髮座
+    zh_hans: 后发座
+    zh_hant: 后髮座
 dv_is_:
   same_as:
   - '[[../../WikiData/WD~Coma_Berenices,9285|WD~Coma_Berenices,9285]]'

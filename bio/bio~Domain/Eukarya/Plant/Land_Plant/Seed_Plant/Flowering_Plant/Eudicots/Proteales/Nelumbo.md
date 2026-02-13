@@ -75,7 +75,7 @@ dv_has_:
     ba: Лотос
     bcl: Padma (Nelumbo)
     be: лотас
-    be-tarask: лотас
+    be_tarask: лотас
     bg: лотос
     bs: Nelumbo
     ca: Nelumbo
@@ -129,7 +129,7 @@ dv_has_:
     os: Лотос
     pl: lotos
     pt: Nelumbo
-    pt-br: Nelumbo
+    pt_br: Nelumbo
     ro: Nelumbo
     ru: Лотос
     scn: Lotu
@@ -138,8 +138,8 @@ dv_has_:
     sl: Lotos
     sq: Nelumbo
     sr: Лотос
-    sr-ec: Лотос
-    sr-el: Lotos
+    sr_ec: Лотос
+    sr_el: Lotos
     sty: nilūfār
     sv: Lotussläktet
     tcy: ತಾಮರೆ
@@ -154,12 +154,12 @@ dv_has_:
     war: Nelumbo
     yue: 蓮屬
     zh: 莲属
-    zh-cn: 莲属
-    zh-hans: 莲属
-    zh-hant: 蓮屬
-    zh-hk: 蓮屬
-    zh-sg: 莲属
-    zh-tw: 蓮屬
+    zh_cn: 莲属
+    zh_hans: 莲属
+    zh_hant: 蓮屬
+    zh_hk: 蓮屬
+    zh_sg: 莲属
+    zh_tw: 蓮屬
 ---
 # [[Nelumbo]] 
 

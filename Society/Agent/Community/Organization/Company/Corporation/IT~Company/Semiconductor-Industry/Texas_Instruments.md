@@ -6,18 +6,18 @@ dv_has_:
     ar: تكساس إنسترومنتس
     az: Texas Instruments
     azb: تکزاس اینسترومنتس
-    be-tarask: Texas Instruments
+    be_tarask: Texas Instruments
     bg: Texas Instruments
     bn: টেক্সাস ইনসট্রুমেন্টস
     ca: Texas Instruments
     cs: Texas Instruments
     da: Texas Instruments
     de: Texas Instruments
-    de-ch: Texas Instruments
+    de_ch: Texas Instruments
     el: Texas Instruments
     en: Texas Instruments
-    en-ca: Texas Instruments
-    en-gb: Texas Instruments
+    en_ca: Texas Instruments
+    en_gb: Texas Instruments
     eo: Texas Instruments
     es: Texas Instruments
     et: Texas Instruments
@@ -46,7 +46,7 @@ dv_has_:
     nl: Texas Instruments
     pl: Texas Instruments
     pt: Texas Instruments
-    pt-br: Texas Instruments
+    pt_br: Texas Instruments
     ro: Texas Instruments
     ru: Texas Instruments
     sah: Texas Instruments
@@ -54,8 +54,8 @@ dv_has_:
     sk: Texas Instruments
     sl: Texas Instruments
     sr: Тексас инструментс
-    sr-ec: Тексас инструментс
-    sr-el: Teksas instruments
+    sr_ec: Тексас инструментс
+    sr_el: Teksas instruments
     sv: Texas Instruments
     sw: Texas Instruments
     tr: Texas Instruments
@@ -64,12 +64,12 @@ dv_has_:
     vi: Texas Instruments
     wuu: 德州仪器
     zh: 德州仪器
-    zh-cn: 德州仪器
-    zh-hans: 德州仪器
-    zh-hant: 德州儀器
-    zh-hk: 德州儀器
-    zh-sg: 德州仪器
-    zh-tw: 德州儀器
+    zh_cn: 德州仪器
+    zh_hans: 德州仪器
+    zh_hant: 德州儀器
+    zh_hk: 德州儀器
+    zh_sg: 德州仪器
+    zh_tw: 德州儀器
 aliases:
 - Teksas instruments
 - Texas Instruments

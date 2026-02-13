@@ -38,8 +38,8 @@ dv_has_:
     ru: арпеджио
     sl: arpeggio
     sr: Арпеђато
-    sr-ec: Арпеђато
-    sr-el: Arpeđato
+    sr_ec: Арпеђато
+    sr_el: Arpeđato
     sv: Arpeggio
     tg: Арпеҷио
     tr: Arpej
@@ -47,9 +47,9 @@ dv_has_:
     uz: Arpejio
     yue: 琶音
     zh: 琶音
-    zh-hans: 琶音
-    zh-hant: 琶音
-    zh-hk: 琶音
+    zh_hans: 琶音
+    zh_hant: 琶音
+    zh_hk: 琶音
 aliases:
 - Arpedžo
 - arpeggio

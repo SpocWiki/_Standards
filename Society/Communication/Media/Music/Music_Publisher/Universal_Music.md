@@ -157,7 +157,7 @@ dv_has_:
     azb: یونیورسال موزیک قروپ
     bcl: Unibersal na Grupo nin Musika
     be: Universal Music Group
-    be-tarask: Universal Music Group
+    be_tarask: Universal Music Group
     bg: Юнивърсъл Мюзик Груп
     bho: यूनिवर्सल म्यूज़िक ग्रुप
     bn: ইউনিভার্সাল মিউজিক গ্রুপ
@@ -169,7 +169,7 @@ dv_has_:
     de: Universal Music Group
     el: Universal Music Group
     en: Universal Music Group
-    en-gb: Universal Music Group
+    en_gb: Universal Music Group
     eo: Universal Music Group
     es: Universal Music Group
     es-419: Universal Music Group
@@ -230,7 +230,7 @@ dv_has_:
     sr: Universal Music Group
     sv: Universal Music Group
     tg: Universal Music Group
-    tg-cyrl: Universal Music Group
+    tg_cyrl: Universal Music Group
     th: ยูนิเวอร์ซัลมิวสิคกรุ๊ป
     tr: Universal Music Group
     uk: Universal Music Group
@@ -239,11 +239,11 @@ dv_has_:
     wuu: 环球唱片
     yue: 環球唱片
     zh: 環球唱片
-    zh-cn: 环球唱片
-    zh-hans: 环球唱片
-    zh-hant: 環球唱片
-    zh-hk: 環球唱片
-    zh-tw: 環球唱片
+    zh_cn: 环球唱片
+    zh_hans: 环球唱片
+    zh_hant: 環球唱片
+    zh_hk: 環球唱片
+    zh_tw: 環球唱片
 ---
 # [[Universal_Music]] 
 

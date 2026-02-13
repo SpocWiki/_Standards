@@ -90,7 +90,7 @@ dv_has_:
     ar: رابطة فلزية
     ast: Enllaz metálicu
     az: Metal rabitəsi
-    be-tarask: мэталічная сувязь
+    be_tarask: мэталічная сувязь
     bg: Метална връзка
     bn: ধাতব বন্ধন
     bs: Metalna veza
@@ -140,8 +140,8 @@ dv_has_:
     sl: kovinska vez
     sq: Lidhja metalike
     sr: Метална веза
-    sr-ec: метална веза
-    sr-el: metalna veza
+    sr_ec: метална веза
+    sr_el: metalna veza
     sv: Metallbindning
     sw: Muungo metali
     ta: மாழைப் பிணைப்பு
@@ -153,12 +153,12 @@ dv_has_:
     wuu: 金属键
     yue: 金屬鍵
     zh: 金属键
-    zh-cn: 金属键
-    zh-hans: 金属键
-    zh-hant: 金屬鍵
-    zh-hk: 金屬鍵
-    zh-sg: 金属键
-    zh-tw: 金屬鍵
+    zh_cn: 金属键
+    zh_hans: 金属键
+    zh_hant: 金屬鍵
+    zh_hk: 金屬鍵
+    zh_sg: 金属键
+    zh_tw: 金屬鍵
 ---
 # [[Metallic_Bond]] 
 

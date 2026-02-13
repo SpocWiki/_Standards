@@ -4,7 +4,7 @@ dv_has_:
   name_:
     ar: اختبار-تي للطالب
     ast: Prueba t de Student
-    be-tarask: T-крытэр Ст’юдэнта
+    be_tarask: T-крытэр Ст’юдэнта
     bho: स्टूडेंट्स टी-टेस्ट
     ca: Prova t de Student
     cs: t-test
@@ -34,7 +34,7 @@ dv_has_:
     nl: t-toets
     pl: Test t Studenta
     pt: Teste t de Student
-    pt-br: Teste t
+    pt_br: Teste t
     ro: Testul Student
     ru: T-критерий Стьюдента
     sr: Studentov t-test
@@ -45,12 +45,12 @@ dv_has_:
     uk: T-критерій Стьюдента
     yue: 學生 t 測試
     zh: 學生t檢驗
-    zh-cn: 学生t检验
-    zh-hans: 学生t检验
-    zh-hant: 學生t檢驗
-    zh-hk: 學生t檢驗
-    zh-sg: 学生t检验
-    zh-tw: 學生t檢驗
+    zh_cn: 学生t检验
+    zh_hans: 学生t检验
+    zh_hant: 學生t檢驗
+    zh_hk: 學生t檢驗
+    zh_sg: 学生t检验
+    zh_tw: 學生t檢驗
 aliases:
 - Jaribio T la Mwanafunzi
 - Prova t de Student

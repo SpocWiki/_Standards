@@ -10,7 +10,7 @@ dv_has_:
     az: Tayqer Vuds
     bar: Tiger Woods
     be: Тайгер Вудс
-    be-tarask: Тайгер Ўудс
+    be_tarask: Тайгер Ўудс
     bg: Тайгър Уудс
     bn: টাইগার উডস
     ca: Tiger Woods
@@ -21,12 +21,12 @@ dv_has_:
     da: Tiger Woods
     de: Tiger Woods
     de-at: Tiger Woods
-    de-ch: Tiger Woods
+    de_ch: Tiger Woods
     diq: Tiger Woods
     el: Τάιγκερ Γουντς
     en: Tiger Woods
-    en-ca: Tiger Woods
-    en-gb: Tiger Woods
+    en_ca: Tiger Woods
+    en_gb: Tiger Woods
     en-us: Tiger Woods
     eo: Tiger Woods
     es: Tiger Woods
@@ -77,7 +77,7 @@ dv_has_:
     pl: Tiger Woods
     pnb: ٹائیگر ووڈز
     pt: Tiger Woods
-    pt-br: Tiger Woods
+    pt_br: Tiger Woods
     ro: Tiger Woods
     ru: Тайгер Вудс
     sgs: Tiger Woods
@@ -101,8 +101,8 @@ dv_has_:
     yo: Tiger Woods
     yue: 老虎活士
     zh: 泰格·伍兹
-    zh-hant: 老虎伍茲
-    zh-tw: 老虎伍茲
+    zh_hant: 老虎伍茲
+    zh_tw: 老虎伍茲
 aliases:
 - Taigers Vudss
 - Tayqer Vuds

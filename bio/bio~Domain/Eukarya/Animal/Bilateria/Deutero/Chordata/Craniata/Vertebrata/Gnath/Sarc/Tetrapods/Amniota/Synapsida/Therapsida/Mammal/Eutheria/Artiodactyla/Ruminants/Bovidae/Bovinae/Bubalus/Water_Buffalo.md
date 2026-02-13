@@ -206,7 +206,7 @@ dv_has_:
     bbc: Horbo
     bcl: Karabaw
     bdr: Kerabau
-    be-tarask: бык бавал
+    be_tarask: бык бавал
     bew: Kebo
     bg: домашен бивол
     bho: भँइस
@@ -223,14 +223,14 @@ dv_has_:
     da: Vandbøffel
     de: Wasserbüffel
     de-at: Bubalus bubalis
-    de-ch: Bubalus bubalis
+    de_ch: Bubalus bubalis
     dga: kõɔŋ dobaa
     diq: Camusê Asya
     dty: भैसो
     el: νεροβούβαλος
     en: water buffalo
-    en-ca: Water buffalo
-    en-gb: water buffalo
+    en_ca: Water buffalo
+    en_gb: water buffalo
     en-us: water buffalo
     eo: Akvobubalo
     es: bubalus bubalis
@@ -284,7 +284,7 @@ dv_has_:
     ml: പോത്ത്
     mr: म्हैस
     ms: kerbau
-    ms-arab: کرباو
+    ms_arab: کرباو
     mul: Bubalus bubalis
     my: ကျွဲ
     mzn: گومش
@@ -292,7 +292,7 @@ dv_has_:
     nap: Vufero
     nb: tam vannbøffel
     nds: Bubalus bubalis
-    nds-nl: Bubalus bubalis
+    nds_nl: Bubalus bubalis
     ne: भैँसी
     new: मेय्
     nia: Öröbao
@@ -309,7 +309,7 @@ dv_has_:
     pms: Bubalus bubalis
     pnb: مجھ
     pt: búfalo-asiático
-    pt-br: búfalo-asiático
+    pt_br: búfalo-asiático
     pwn: sakimkim
     rki: ကျွဲ
     rm: Bubalus bubalis
@@ -329,7 +329,7 @@ dv_has_:
     sl: vodni bivol
     sq: Buallica
     sr: водени биво
-    sr-ec: водени биво
+    sr_ec: водени биво
     su: Munding
     sv: Vattenbuffel
     sw: Nyati-maji
@@ -354,9 +354,9 @@ dv_has_:
     yue: 水牛
     za: Vaiz
     zh: 水牛
-    zh-cn: 水牛
-    zh-hans: 水牛
-    zh-tw: 水牛
+    zh_cn: 水牛
+    zh_hans: 水牛
+    zh_tw: 水牛
     zu: Bubalus bubalis
 ---
 # [[Water_Buffalo]] 🐃 

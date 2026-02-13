@@ -96,7 +96,7 @@ dv_has_:
     ar: حسد
     ast: envidia
     az: paxıllıq
-    be-tarask: зайздрасьць
+    be_tarask: зайздрасьць
     bg: Завист
     bo: མིག་སེར།
     br: c'hoantegezh
@@ -177,8 +177,8 @@ dv_has_:
     yi: קנאה
     yue: 羡慕
     zh: 羨慕
-    zh-hant: 羨慕
-    zh-tw: 羨慕
+    zh_hant: 羨慕
+    zh_tw: 羨慕
 ---
 # [[Envy]] 
 

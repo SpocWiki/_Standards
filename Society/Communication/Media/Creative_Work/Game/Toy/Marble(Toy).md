@@ -100,7 +100,7 @@ dv_has_:
     ast: banzón
     az: mazı
     bcl: dyolin
-    be-tarask: марбл
+    be_tarask: марбл
     bg: игра на топчета
     bjn: kalékér
     bn: মার্বেল (খেলনা)
@@ -133,8 +133,8 @@ dv_has_:
     kn: ಗೋಲಿ
     ko: 구슬
     ku: xar
-    ku-arab: خار
-    ku-latn: xar
+    ku_arab: خار
+    ku_latn: xar
     lb: Jickespill
     li: Meisje
     min: kalereng
@@ -149,14 +149,14 @@ dv_has_:
     pcd: ju d'mabe
     pl: marmurki
     pt: berlinde
-    pt-br: bolinha de gude
+    pt_br: bolinha de gude
     ru: марбл
     sh: kliker
     si: ජිල් බෝල
     sl: frnikola
     sr: kliker
-    sr-ec: кликер
-    sr-el: kliker
+    sr_ec: кликер
+    sr_el: kliker
     su: kaléci
     sv: spelkula
     sw: Gololi
@@ -169,12 +169,12 @@ dv_has_:
     yue: 波子
     zea: murpel
     zh: 彈珠
-    zh-cn: 弹珠
-    zh-hans: 弹珠
-    zh-hant: 彈珠
-    zh-hk: 彈珠
-    zh-sg: 弹珠
-    zh-tw: 彈珠
+    zh_cn: 弹珠
+    zh_hans: 弹珠
+    zh_hant: 彈珠
+    zh_hk: 彈珠
+    zh_sg: 弹珠
+    zh_tw: 彈珠
 ---
 # [[Marble(Toy)]] 
 

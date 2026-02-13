@@ -201,7 +201,7 @@ dv_has_:
     azb: سلین دیون
     bcl: Celine Dion
     be: Селін Дыён
-    be-tarask: Сэлін Дыён
+    be_tarask: Сэлін Дыён
     bg: Селин Дион
     bi: Céline Dion
     bjn: Celine Dion
@@ -217,7 +217,7 @@ dv_has_:
     cy: Céline Dion
     da: Céline Dion
     de: Céline Dion
-    de-ch: Céline Dion
+    de_ch: Céline Dion
     diq: Celine Dion
     dsb: Céline Dion
     dtp: Celine Dion
@@ -225,8 +225,8 @@ dv_has_:
     el: Σελίν Ντιόν
     eml: Céline Dion
     en: Céline Dion
-    en-ca: Céline Dion
-    en-gb: Céline Dion
+    en_ca: Céline Dion
+    en_gb: Céline Dion
     en-us: Céline Dion
     eo: Céline Dion
     es: Céline Dion
@@ -306,7 +306,7 @@ dv_has_:
     pl: Céline Dion
     pms: Céline Dion
     pt: Céline Dion
-    pt-br: Céline Dion
+    pt_br: Céline Dion
     qu: Céline Dion
     ro: Céline Dion
     ru: Селин Дион
@@ -343,11 +343,11 @@ dv_has_:
     yue: 絲蓮·迪安
     zea: Céline Dion
     zh: 席琳·狄翁
-    zh-hans: 席琳·迪翁
-    zh-hant: 席琳·狄翁
+    zh_hans: 席琳·迪翁
+    zh_hant: 席琳·狄翁
     zh-my: 莎蓮·迪安
-    zh-sg: 塞利娜·迪翁
-    zh-tw: 席琳·狄翁
+    zh_sg: 塞利娜·迪翁
+    zh_tw: 席琳·狄翁
     zu: Celine Dion
 ---
 # [[Dion,Céline]] 

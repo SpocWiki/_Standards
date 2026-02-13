@@ -78,7 +78,7 @@ dv_has_:
     ast: Meritocracia
     az: Meritokratiya
     ban: panglaksanayang saking kaprigelan
-    be-tarask: мэрытакратыя
+    be_tarask: мэрытакратыя
     bg: Меритокрация
     bn: মেধাতন্ত্র
     ca: meritocràcia
@@ -109,11 +109,11 @@ dv_has_:
     ja: メリトクラシー
     ka: მერიტოკრატია
     kk: Меритократия
-    kk-arab: مەرىيتوكراتىييا
+    kk_arab: مەرىيتوكراتىييا
     kk-cn: مەرىيتوكراتىييا
-    kk-cyrl: Меритократия
+    kk_cyrl: Меритократия
     kk-kz: Меритократия
-    kk-latn: Merïtokratïya
+    kk_latn: Merïtokratïya
     kk-tr: Merïtokratïya
     ko: 능력주의
     ky: Меритократия
@@ -143,8 +143,8 @@ dv_has_:
     sms: meritokratia
     sq: Meritokracia
     sr: меритократија
-    sr-ec: Меритократија
-    sr-el: Meritokratija
+    sr_ec: Меритократија
+    sr_el: Meritokratija
     sv: meritokrati
     ta: தகுதி அடிப்படை
     tg: Шоистасолорӣ
@@ -159,12 +159,12 @@ dv_has_:
     xmf: მერიტოკრატია
     yue: 唯才主義
     zh: 精英政治
-    zh-cn: 精英政治
-    zh-hans: 精英政治
-    zh-hant: 精英政治
-    zh-hk: 精英政治
-    zh-sg: 精英政治
-    zh-tw: 菁英政治
+    zh_cn: 精英政治
+    zh_hans: 精英政治
+    zh_hant: 精英政治
+    zh_hk: 精英政治
+    zh_sg: 精英政治
+    zh_tw: 菁英政治
 ---
 # [[Meritocracy]] 
 

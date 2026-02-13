@@ -101,7 +101,7 @@ dv_has_:
     az: yaddasaxlama qurğusu
     azb: دیتا ساخلانماسی
     be: запамінальная прылада
-    be-tarask: запамінальная прылада
+    be_tarask: запамінальная прылада
     bg: запаметяващо устройство
     bn: উপাত্ত সংরক্ষণাগার যন্ত্র
     bs: uređaji za pohranjivanje podataka
@@ -131,11 +131,11 @@ dv_has_:
     it: supporto di memoria
     ja: 記録媒体
     kk: арқау
-    kk-arab: ارقاۋ
+    kk_arab: ارقاۋ
     kk-cn: ارقاۋ
-    kk-cyrl: арқау
+    kk_cyrl: арқау
     kk-kz: арқау
-    kk-latn: arqaw
+    kk_latn: arqaw
     kk-tr: arqaw
     ko: 데이터 스토리지
     la: coacervatio datorum
@@ -143,13 +143,13 @@ dv_has_:
     mhr: ТШЯ
     mk: носач на податоци
     ms: bahantara rakam
-    ms-arab: باهنتارا راقم
+    ms_arab: باهنتارا راقم
     nb: lagringsmedium
     nl: gegevensdrager
     nn: lagringsmedium
     pl: nośnik danych
     pt: dispositivo de armazenamento
-    pt-br: dispositivo de armazenamento
+    pt_br: dispositivo de armazenamento
     ro: dispozitiv de memorare date
     ru: запоминающее устройство
     sco: data storage device
@@ -159,11 +159,11 @@ dv_has_:
     sr: уређај за складиштење података
     sv: lagringsmedium
     tg: дастгоҳи хотиравӣ
-    tg-cyrl: дастгоҳи хотиравӣ
-    tg-latn: dastgohi xotiravī
+    tg_cyrl: дастгоҳи хотиравӣ
+    tg_latn: dastgohi xotiravī
     tr: veri depolama ortamı
     tt: яздыручы җайланма
-    tt-latn: âzdyručy ğajlanma
+    tt_latn: âzdyručy ğajlanma
     uk: носій інформації
     uz: xotira qurilmasi
     vi: lưu trữ dữ liệu
@@ -171,12 +171,12 @@ dv_has_:
     yo: ohun àkábá fún dátà
     yue: 資料儲存
     zh: 儲存裝置
-    zh-cn: 存储设备
-    zh-hans: 存储设备
-    zh-hant: 儲存裝置
-    zh-hk: 儲存裝置
-    zh-sg: 存储设备
-    zh-tw: 儲存裝置
+    zh_cn: 存储设备
+    zh_hans: 存储设备
+    zh_hant: 儲存裝置
+    zh_hk: 儲存裝置
+    zh_sg: 存储设备
+    zh_tw: 儲存裝置
 ---
 # [[Data_Storage]] 
 

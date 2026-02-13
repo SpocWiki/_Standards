@@ -286,7 +286,7 @@ dv_has_:
     bcl: layas na baboy
     bdr: Bakas
     be: дзік
-    be-tarask: дзік
+    be_tarask: дзік
     bg: дива свиня
     bn: দেশি বুনো শুয়োর
     bo: ཕག་རྒོད།
@@ -375,7 +375,7 @@ dv_has_:
     nan: Soaⁿ-ti
     nb: villsvin
     nds: Wildswien
-    nds-nl: Sus scrofa
+    nds_nl: Sus scrofa
     ne: बँदेल
     nl: Wild zwijn
     nn: Villsvin
@@ -386,7 +386,7 @@ dv_has_:
     pms: Sus scrofa
     pnb: جنگلی سور
     pt: javali
-    pt-br: javali
+    pt_br: javali
     rm: Portg selvadi
     ro: mistreț
     ru: кабан
@@ -417,7 +417,7 @@ dv_has_:
     tr: Bayağı yaban domuzu
     trv: Bowyak
     tt: кабан дуңгызы
-    tt-cyrl: кабан дуңгызы
+    tt_cyrl: кабан дуңгызы
     udm: Кырпарсь
     ug: ياۋا توڭگۇز
     uk: свиня дика
@@ -435,10 +435,10 @@ dv_has_:
     yue: 野豬
     zea: Wild zwien
     zh: 野豬
-    zh-cn: 野猪
-    zh-hans: 野猪
-    zh-hant: 野豬
-    zh-tw: 野豬
+    zh_cn: 野猪
+    zh_hans: 野猪
+    zh_hant: 野豬
+    zh_tw: 野豬
 ---
 # [[Wild_Boar]] 🐗 
 

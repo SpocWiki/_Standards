@@ -69,7 +69,7 @@ dv_has_:
     ast: determinismu
     az: determinizm
     be: дэтэрмінізм
-    be-tarask: дэтэрмінізм
+    be_tarask: дэтэрмінізм
     bg: детерминизъм
     bho: डिटरमिनिज्म
     ca: determinisme
@@ -99,11 +99,11 @@ dv_has_:
     jv: determinisme
     ka: დეტერმინიზმი
     kk: детерминизм және индетерминизм
-    kk-arab: دەتەرمىينىيزم جانە ىيندەتەرمىينىيزم
+    kk_arab: دەتەرمىينىيزم جانە ىيندەتەرمىينىيزم
     kk-cn: دەتەرمىينىيزم جانە ىيندەتەرمىينىيزم
-    kk-cyrl: детерминизм және индетерминизм
+    kk_cyrl: детерминизм және индетерминизм
     kk-kz: детерминизм және индетерминизм
-    kk-latn: determïnïzm jäne ïndetermïnïzm
+    kk_latn: determïnïzm jäne ïndetermïnïzm
     kk-tr: determïnïzm jäne ïndetermïnïzm
     ko: 결정론
     ky: детерминизм
@@ -114,7 +114,7 @@ dv_has_:
     ml: നിയതിവാദം
     ms: determinisme
     nb: determinisme
-    nds-nl: determinisme
+    nds_nl: determinisme
     nl: determinisme
     nn: determinisme
     pam: Determinismu
@@ -134,8 +134,8 @@ dv_has_:
     sms: determinismm
     sq: determinizmi
     sr: детерминизам
-    sr-ec: детерминизам
-    sr-el: determinizam
+    sr_ec: детерминизам
+    sr_el: determinizam
     sv: determinism
     ta: நியதிக் கொள்கை
     te: డిటర్మినిజం
@@ -151,12 +151,12 @@ dv_has_:
     wuu: 决定论
     yue: 決定論
     zh: 決定論
-    zh-cn: 决定论
-    zh-hans: 决定论
-    zh-hant: 決定論
-    zh-hk: 決定論
-    zh-sg: 决定论
-    zh-tw: 決定論
+    zh_cn: 决定论
+    zh_hans: 决定论
+    zh_hant: 決定論
+    zh_hk: 決定論
+    zh_sg: 决定论
+    zh_tw: 決定論
 ---
 # [[Determinism]] 
 

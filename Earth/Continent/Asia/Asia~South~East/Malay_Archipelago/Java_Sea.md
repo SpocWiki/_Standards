@@ -159,7 +159,7 @@ dv_has_:
     ba: Ява диңгеҙе
     ban: Segara Jawa
     be: Яванскае мора
-    be-tarask: Яванскае мора
+    be_tarask: Яванскае мора
     bew: Laot Jawa
     bg: Яванско море
     bn: জাভা সাগর
@@ -171,11 +171,11 @@ dv_has_:
     cy: Y Môr Java
     da: Javahavet
     de: Javasee
-    de-ch: Javasee
+    de_ch: Javasee
     el: Θάλασσα της Ιάβας
     en: Java Sea
-    en-ca: Java Sea
-    en-gb: Java Sea
+    en_ca: Java Sea
+    en_gb: Java Sea
     eo: Java Maro
     es: mar de Java
     et: Jaava meri
@@ -218,7 +218,7 @@ dv_has_:
     ml: ജാവാ കടൽ
     mr: जावा समुद्र
     ms: Laut Jawa
-    ms-arab: لاءوت جاوا
+    ms_arab: لاءوت جاوا
     mzn: جاوه دریا
     nan: Jawa Hái
     nb: Javasjøen
@@ -231,7 +231,7 @@ dv_has_:
     pl: Morze Jawajskie
     pnb: جاوا سمندر
     pt: Mar de Java
-    pt-br: Mar de Java
+    pt_br: Mar de Java
     ro: Marea Java
     ru: Яванское море
     sah: Ява байҕала
@@ -259,14 +259,14 @@ dv_has_:
     xmf: იავაშ ზუღა
     yue: 爪哇海
     zh: 爪哇海
-    zh-cn: 爪哇海
-    zh-hans: 爪哇海
-    zh-hant: 爪哇海
-    zh-hk: 爪哇海
-    zh-mo: 爪哇海
+    zh_cn: 爪哇海
+    zh_hans: 爪哇海
+    zh_hant: 爪哇海
+    zh_hk: 爪哇海
+    zh_mo: 爪哇海
     zh-my: 爪哇海
-    zh-sg: 爪哇海
-    zh-tw: 爪哇海
+    zh_sg: 爪哇海
+    zh_tw: 爪哇海
 ---
 # [[Java_Sea]] 
 

@@ -158,7 +158,7 @@ dv_has_:
     bar: Roger Federer
     bcl: Roger Federer
     be: Роджэр Федэрэр
-    be-tarask: Роджэр Фэдэрэр
+    be_tarask: Роджэр Фэдэрэр
     bg: Роджър Федерер
     bn: রজার ফেদেরার
     br: Roger Federer
@@ -174,14 +174,14 @@ dv_has_:
     da: Roger Federer
     de: Roger Federer
     de-at: Roger Federer
-    de-ch: Roger Federer
+    de_ch: Roger Federer
     diq: Roger Federer
     dsb: Roger Federer
     el: Ρότζερ Φέντερερ
     eml: Roger Federer
     en: Roger Federer
-    en-ca: Roger Federer
-    en-gb: Roger Federer
+    en_ca: Roger Federer
+    en_gb: Roger Federer
     eo: Roger Federer
     es: Roger Federer
     et: Roger Federer
@@ -227,7 +227,7 @@ dv_has_:
     ks: روجَر فیڈَرَر
     ksh: Roger Federer
     ku: Roger Federer
-    ku-latn: Roger Federer
+    ku_latn: Roger Federer
     ky: Роджер Федерер
     la: Rogerius Federer
     lb: Roger Federer
@@ -252,7 +252,7 @@ dv_has_:
     nap: Roger Federer
     nb: Roger Federer
     nds: Roger Federer
-    nds-nl: Roger Federer
+    nds_nl: Roger Federer
     ne: रोजर फेडरर
     nl: Roger Federer
     nn: Roger Federer
@@ -267,7 +267,7 @@ dv_has_:
     pms: Roger Federer
     ps: روجر فدرر
     pt: Roger Federer
-    pt-br: Roger Federer
+    pt_br: Roger Federer
     qu: Roger Federer
     rm: Roger Federer
     rmf: Roger Federer
@@ -290,7 +290,7 @@ dv_has_:
     sms: Roger Federer
     sq: Roger Federer
     sr: Роџер Федерер
-    sr-el: Roger Federer
+    sr_el: Roger Federer
     sv: Roger Federer
     sw: Roger Federer
     ta: ரொஜர் பெடரர்
@@ -316,10 +316,10 @@ dv_has_:
     yue: 費達拿
     zgh: ⵔⵓⵊⵉⵔ ⴼⵉⴷⵉⵔⵉⵔ
     zh: 罗杰·费德勒
-    zh-cn: 罗杰·费德勒
-    zh-hans: 罗杰·费德勒
-    zh-hant: 羅傑·費德勒
-    zh-hk: 羅渣·費達拿
+    zh_cn: 罗杰·费德勒
+    zh_hans: 罗杰·费德勒
+    zh_hant: 羅傑·費德勒
+    zh_hk: 羅渣·費達拿
     zu: Roger Federer
 ---
 # [[Federer,Roger]] 

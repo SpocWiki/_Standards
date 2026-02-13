@@ -88,7 +88,7 @@ dv_has_:
     az: mürəkkəb funksiya
     ba: функциялар композицияһы
     be: кампазіцыя функцый
-    be-tarask: кампазыцыя функцыяў
+    be_tarask: кампазыцыя функцыяў
     bg: композиция на функции
     bs: kompozicija funkcija
     ca: composició funcional
@@ -127,7 +127,7 @@ dv_has_:
     sk: skladanie funkcií
     sl: kompozitum funkcij
     sr: сложена функција
-    sr-ec: сложена функција
+    sr_ec: сложена функција
     sv: sammansatt funktion
     ta: சார்புகளின் தொகுப்பு
     th: ฟังก์ชันประกอบ
@@ -137,12 +137,12 @@ dv_has_:
     vi: Hàm hợp
     yue: 複合函數
     zh: 复合函数
-    zh-cn: 复合函数
-    zh-hans: 复合函数
-    zh-hant: 複合函數
-    zh-hk: 複合函數
-    zh-sg: 复合函数
-    zh-tw: 複合函數
+    zh_cn: 复合函数
+    zh_hans: 复合函数
+    zh_hant: 複合函數
+    zh_hk: 複合函數
+    zh_sg: 复合函数
+    zh_tw: 複合函數
 ---
 # [[Function_Composition]] 
 

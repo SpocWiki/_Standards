@@ -54,7 +54,7 @@ dissolved_abolished_or_demolished_date: 2002-01-01T00:00:00Z
 dv_has_:
   name_:
     ar: مجلة اللكمة
-    be-tarask: Punch
+    be_tarask: Punch
     bs: Punch
     ca: Punch
     cs: Punch

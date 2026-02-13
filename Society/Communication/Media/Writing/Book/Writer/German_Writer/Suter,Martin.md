@@ -12,7 +12,7 @@ dv_has_:
     da: Martin Suter
     de: Martin Suter
     en: Martin Suter
-    en-gb: Martin Suter
+    en_gb: Martin Suter
     eo: Martin Suter
     es: Martin Suter
     et: Martin Suter
@@ -36,7 +36,7 @@ dv_has_:
     oc: Martin Suter
     pl: Martin Suter
     pt: Martin Suter
-    pt-br: Martin Suter
+    pt_br: Martin Suter
     rm: Martin Suter
     ro: Martin Suter
     ru: Мартин Сутер
@@ -45,7 +45,7 @@ dv_has_:
     sv: Martin Suter
     uk: Мартін Зутер
     zh: 马丁·苏特
-    zh-hant: 馬汀‧蘇特
+    zh_hant: 馬汀‧蘇特
 aliases:
 - Martin Suter
 - Martinus Suter

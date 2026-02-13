@@ -118,7 +118,7 @@ dv_has_:
     ast: instrumentu de vientu
     az: nəfəsli musiqi aləti
     be: духавы музычны інструмент
-    be-tarask: духавы музычны інструмэнт
+    be_tarask: духавы музычны інструмэнт
     bg: духов инструмент
     bn: শুষিরযন্ত্র
     bs: Puhački instrumenti
@@ -172,7 +172,7 @@ dv_has_:
     pcd: Instrumint à vint
     pl: instrumenty dęte
     pt: instrumento de sopro
-    pt-br: instrumento de sopro
+    pt_br: instrumento de sopro
     qu: Phukuna waqachina
     rmf: phordibosko baȟiba
     ro: instrument de suflat
@@ -187,12 +187,12 @@ dv_has_:
     sms: pååssamsååitanj
     sq: Aerofonia
     sr: дувачки инструмент
-    sr-ec: дувачки инструмент
-    sr-el: duvački instrument
+    sr_ec: дувачки инструмент
+    sr_el: duvački instrument
     sv: blåsinstrument
     ta: காற்று இசைக்கருவி
     tg: Созҳои нафасӣ
-    tg-latn: Musiqiji nafasī
+    tg_latn: Musiqiji nafasī
     tr: nefesli çalgılar
     uk: духові музичні інструменти
     uz: Puflama musiqa cholgʻulari
@@ -202,12 +202,12 @@ dv_has_:
     yi: בלאז אינסטרומענטן
     yue: 管樂器
     zh: 管樂器
-    zh-cn: 管乐器
-    zh-hans: 管乐器
-    zh-hant: 管樂器
-    zh-hk: 管樂器
-    zh-sg: 管乐器
-    zh-tw: 管樂器
+    zh_cn: 管乐器
+    zh_hans: 管乐器
+    zh_hant: 管樂器
+    zh_hk: 管樂器
+    zh_sg: 管乐器
+    zh_tw: 管樂器
 ---
 # [[Wind_Instrument]] 
 

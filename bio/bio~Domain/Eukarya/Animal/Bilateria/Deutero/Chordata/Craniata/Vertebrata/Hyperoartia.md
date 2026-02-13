@@ -69,7 +69,7 @@ dv_has_:
     ast: Petromyzontiformes
     az: İlanbalığıkimilər
     be: Міногі
-    be-tarask: Міногі
+    be_tarask: Міногі
     bg: миногоподобни
     br: Lamprez
     ca: Llamprea
@@ -126,8 +126,8 @@ dv_has_:
     sl: piškurji
     sq: Petromyzontiformes
     sr: змијуљице
-    sr-ec: змијуљице
-    sr-el: zmijuljice
+    sr_ec: змијуљице
+    sr_el: zmijuljice
     sv: Nejonögon
     sw: Mkunga Mfyonzaji
     te: లాంప్రే
@@ -141,9 +141,9 @@ dv_has_:
     war: Lampetra
     yue: 八目鰻目
     zh: 七鰓鰻目
-    zh-cn: 七鳃鳗目
-    zh-hans: 七鳃鳗目
-    zh-tw: 七鰓鰻目
+    zh_cn: 七鳃鳗目
+    zh_hans: 七鳃鳗目
+    zh_tw: 七鰓鰻目
 ---
 # [[Hyperoartia]]
 

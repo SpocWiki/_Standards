@@ -181,7 +181,7 @@ dv_has_:
     azb: اوشاق سالما
     ba: аборт
     be: аборт
-    be-tarask: аборт
+    be_tarask: аборт
     bg: аборт
     bjn: abursi
     bn: গর্ভপাত
@@ -205,7 +205,7 @@ dv_has_:
     el: άμβλωση
     eml: abåurd
     en: abortion
-    en-gb: abortion
+    en_gb: abortion
     eo: aborto
     es: aborto
     et: abort
@@ -253,7 +253,7 @@ dv_has_:
     knc: Suro fita
     ko: 인공임신중절
     ku: zarokjiberbirin
-    ku-latn: jiberbirin
+    ku_latn: jiberbirin
     ky: аборт
     la: Abortus
     lb: Ofdreiwung
@@ -274,7 +274,7 @@ dv_has_:
     nan: jîn-kang liû-sán
     nb: abort
     nds: Swangerschopsafbröök
-    nds-nl: abortus
+    nds_nl: abortus
     ne: गर्भपतन
     new: गर्भपतन
     nl: abortus
@@ -307,7 +307,7 @@ dv_has_:
     so: Uurdil
     sq: abort
     sr: побачај
-    sr-ec: побачај
+    sr_ec: побачај
     st: ho ntsha mpa ho entsweng ka maikemisetso
     sv: abort
     sw: utoaji mimba
@@ -320,7 +320,7 @@ dv_has_:
     tl: pagpapalaglag
     tr: kürtaj
     tt: аборт
-    tt-cyrl: аборт
+    tt_cyrl: аборт
     tw: nyinsɛn a wɔhyɛ da yi
     udm: аборт
     uk: аборт
@@ -334,11 +334,11 @@ dv_has_:
     yo: Ìṣẹ́yún
     yue: 落仔
     zh: 人工流产
-    zh-cn: 人工流产
-    zh-hans: 人工流产
-    zh-hant: 人工流產
-    zh-hk: 人工流產
-    zh-tw: 人工流產
+    zh_cn: 人工流产
+    zh_hans: 人工流产
+    zh_hant: 人工流產
+    zh_hk: 人工流產
+    zh_tw: 人工流產
 ---
 # [[Abortion]] 
 

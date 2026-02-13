@@ -115,7 +115,7 @@ dv_has_:
     ba: Фаренгейт градусы
     bcl: Fahrenheit
     be: градус Фарэнгейта
-    be-tarask: градус Фарэнгайта
+    be_tarask: градус Фарэнгайта
     bg: градус Фаренхайт
     bn: ফারেনহাইট
     br: Derez Fahrenheit
@@ -128,8 +128,8 @@ dv_has_:
     de: Grad Fahrenheit
     el: κλίμακα Φαρενάιτ
     en: degree Fahrenheit
-    en-ca: Fahrenheit
-    en-gb: Fahrenheit
+    en_ca: Fahrenheit
+    en_gb: Fahrenheit
     eo: grado farenhejta
     es: grado Fahrenheit
     et: Fahrenheiti skaala
@@ -183,7 +183,7 @@ dv_has_:
     pl: stopień Fahrenheita
     pnb: فارن ہائٹ
     pt: grau Fahrenheit
-    pt-br: grau(s) Fahrenheit
+    pt_br: grau(s) Fahrenheit
     ro: grad Fahrenheit
     ru: градус Фаренгейта
     scn: Gradu Fahrenheit
@@ -193,7 +193,7 @@ dv_has_:
     sl: stopinja Fahrenheita
     so: Faaranhaayt
     sr: фаренхајт
-    sr-ec: фаренхајт
+    sr_ec: фаренхајт
     sv: grad Fahrenheit
     sw: Fahrenheit
     ta: பாரன்ஃகைட்

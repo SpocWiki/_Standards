@@ -264,7 +264,7 @@ Commons_category: Heart (organ)
 dv_has_:
   name_:
     ab: агәы
-    aeb-arab: قلب
+    aeb_arab: قلب
     af: hart
     am: ልብ
     an: corazón
@@ -289,7 +289,7 @@ dv_has_:
     bcl: puso
     bdr: Jantung
     be: сэрца
-    be-tarask: сэрца
+    be_tarask: сэрца
     bew: Jantung
     bg: сърце
     bho: दिल
@@ -302,7 +302,7 @@ dv_has_:
     btm: Jantung
     bxr: зүрхэн
     ca: cor
-    cbk-zam: corazon
+    cbk_zam: corazon
     cdo: sĭng-câung
     ce: Дог
     ceb: kasingkasing
@@ -311,7 +311,7 @@ dv_has_:
     ckb: دڵ
     co: core
     cr: ᒥᑌᐦ
-    crh-latn: yürek
+    crh_latn: yürek
     cs: srdce
     csb: serce
     cu: срьдьцє
@@ -320,7 +320,7 @@ dv_has_:
     da: hjerte
     dag: suhu
     de: Herz
-    de-ch: Herz
+    de_ch: Herz
     diq: qelb
     dsb: wutšoba
     dv: ހިތް
@@ -329,8 +329,8 @@ dv_has_:
     el: καρδιά
     eml: côr
     en: heart
-    en-ca: heart
-    en-gb: heart
+    en_ca: heart
+    en_gb: heart
     en-us: heart
     eo: koro
     es: corazón
@@ -397,7 +397,7 @@ dv_has_:
     ko-kp: 심장
     ks: دِل
     ku: dil
-    ku-latn: dil
+    ku_latn: dil
     kv: сьӧлӧм
     kw: kolon
     ky: жүрөк
@@ -416,7 +416,7 @@ dv_has_:
     lv: sirds
     lzh: 心臟
     mad: Jhântong
-    map-bms: jantung
+    map_bms: jantung
     mcn: mùkúlnà
     mdf: седи
     mg: fo
@@ -431,7 +431,7 @@ dv_has_:
     mr: हृदय
     mrj: йӓнг
     ms: jantung
-    ms-arab: جنتوڠ
+    ms_arab: جنتوڠ
     mt: qalb
     mwl: coraçon
     my: နှလုံး
@@ -463,7 +463,7 @@ dv_has_:
     prg: seyr
     ps: زړه
     pt: coração
-    pt-br: coração
+    pt_br: coração
     qu: sonqo
     rki: နှလုံး
     rm: cor
@@ -505,7 +505,7 @@ dv_has_:
     te: గుండె
     tet: fuan
     tg: дил
-    tg-latn: dil
+    tg_latn: dil
     th: หัวใจ
     ti: ልቢ
     tk: kalp
@@ -513,7 +513,7 @@ dv_has_:
     tr: kalp
     trv: Hengac
     tt: йөрәк
-    tt-cyrl: йөрәк
+    tt_cyrl: йөрәк
     tw: akoma
     tyv: чүрек
     tzm: ⵓⵍ
@@ -542,10 +542,10 @@ dv_has_:
     za: Simdaeuz
     zgh: ⵓⵍ
     zh: 心脏
-    zh-cn: 心脏
-    zh-hans: 心脏
-    zh-hant: 心臟
-    zh-tw: 心臟
+    zh_cn: 心脏
+    zh_hans: 心脏
+    zh_hant: 心臟
+    zh_tw: 心臟
     zu: inhliziyo
 ---
 # [[Heart]] 🫀 

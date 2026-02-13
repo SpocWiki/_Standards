@@ -173,7 +173,7 @@ dv_has_:
     bar: Atom
     bcl: Atomo
     be: атам
-    be-tarask: атам
+    be_tarask: атам
     bg: Атом
     bho: परमाणु
     blk: အဲစ်တမ်
@@ -183,7 +183,7 @@ dv_has_:
     bug: Atong
     bxr: Атом
     ca: àtom
-    cbk-zam: Átomo
+    cbk_zam: Átomo
     cdo: Nguòng-cṳ̄
     ce: Atam
     ceb: Atom
@@ -197,15 +197,15 @@ dv_has_:
     cy: atom
     da: atom
     de: Atom
-    de-ch: Atom
+    de_ch: Atom
     diq: Atom
     dsb: Atom
     dtp: atom
     el: άτομο
     eml: Àtum
     en: atom
-    en-ca: Atom
-    en-gb: atom
+    en_ca: Atom
+    en_gb: atom
     eo: atomo
     es: átomo
     et: aatom
@@ -281,7 +281,7 @@ dv_has_:
     mad: Atom
     mag: परमाणु
     mai: परमाणु
-    map-bms: Atom
+    map_bms: Atom
     mdf: Атомсь
     mg: Atôma
     mhr: атом
@@ -320,7 +320,7 @@ dv_has_:
     pnb: ایٹم
     ps: اټوم
     pt: átomo
-    pt-br: Átomo
+    pt_br: Átomo
     qu: Iñuku
     ro: atom
     ru: атом
@@ -346,8 +346,8 @@ dv_has_:
     so: Atom
     sq: Atomi
     sr: атом
-    sr-ec: атом
-    sr-el: atom
+    sr_ec: атом
+    sr_el: atom
     srn: Atomi
     stq: Atom
     su: Atom
@@ -364,7 +364,7 @@ dv_has_:
     tr: atom
     ts: Athomu
     tt: атом
-    tt-cyrl: атом
+    tt_cyrl: атом
     tum: Vimenyu
     tyv: Атом
     udm: атом

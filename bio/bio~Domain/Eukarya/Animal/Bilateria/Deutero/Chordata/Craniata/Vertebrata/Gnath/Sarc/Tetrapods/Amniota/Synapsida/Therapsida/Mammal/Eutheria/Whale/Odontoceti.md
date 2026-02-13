@@ -67,7 +67,7 @@ dv_has_:
     az: Dişli balinalar
     ban: Paus magigi
     be: зубатыя кіты
-    be-tarask: зубатыя кіты
+    be_tarask: зубатыя кіты
     bg: Зъбати китове
     bn: দাঁতযুক্ত তিমি
     br: Morvil dantek
@@ -118,7 +118,7 @@ dv_has_:
     oc: Odontoceti
     pl: zębowce
     pt: Odontoceti
-    pt-br: Odontoceti
+    pt_br: Odontoceti
     ro: Odontoceti
     ru: зубатые киты
     sco: tuithed whaul
@@ -139,14 +139,14 @@ dv_has_:
     wuu: 齿鲸
     yue: 齒鯨小目
     zh: 齒鯨小目
-    zh-cn: 齿鲸小目
-    zh-hans: 齿鲸小目
-    zh-hant: 齒鯨小目
-    zh-hk: 齒鯨小目
-    zh-mo: 齒鯨小目
+    zh_cn: 齿鲸小目
+    zh_hans: 齿鲸小目
+    zh_hant: 齒鯨小目
+    zh_hk: 齒鯨小目
+    zh_mo: 齒鯨小目
     zh-my: 齿鲸小目
-    zh-sg: 齿鲸小目
-    zh-tw: 齒鯨小目
+    zh_sg: 齿鲸小目
+    zh_tw: 齒鯨小目
 ---
 # [[Odontoceti]]
 

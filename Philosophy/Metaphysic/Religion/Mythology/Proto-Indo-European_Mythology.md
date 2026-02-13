@@ -27,7 +27,7 @@ dv_has_:
     lv: indoeiropiešu mitoloģija
     nan: Goân-chó͘ Ìn-Au chong-kàu
     nb: Urindoeuropeisk religion
-    nds-nl: Indo-Europese rilligie
+    nds_nl: Indo-Europese rilligie
     nl: Indo-Europese religie
     pt: Religião protoindo-europeia
     ro: Religia proto-indo-europeană
@@ -38,8 +38,8 @@ dv_has_:
     tr: Hint-Avrupa dini
     uk: Праіндоєвропейська релігія
     zh: 原始印歐宗教
-    zh-hans: 原始印欧神话
-    zh-hant: 原始印歐神話
+    zh_hans: 原始印欧神话
+    zh_hant: 原始印歐神話
 aliases:
 - Agama Proto-India-Eropa
 - erlijio protoindoeuroparra

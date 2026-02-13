@@ -107,7 +107,7 @@ dv_has_:
     azb: اسپنسر تریسی
     ba: Спенсер Трейси
     be: Спенсер Трэйсі
-    be-tarask: Спэнсэр Трэйсі
+    be_tarask: Спэнсэр Трэйсі
     bg: Спенсър Трейси
     bi: Spencer Tracy
     bn: স্পেন্সার ট্রেসি
@@ -120,7 +120,7 @@ dv_has_:
     de: Spencer Tracy
     el: Σπένσερ Τρέισι
     en: Spencer Tracy
-    en-gb: Spencer Tracy
+    en_gb: Spencer Tracy
     en-us: Spencer Tracy
     eo: Spencer Tracy
     es: Spencer Tracy
@@ -164,7 +164,7 @@ dv_has_:
     pap: Spencer Tracy
     pl: Spencer Tracy
     pt: Spencer Tracy
-    pt-br: Spencer Tracy
+    pt_br: Spencer Tracy
     qu: Spencer Tracy
     ro: Spencer Tracy
     ru: Спенсер Трейси
@@ -190,9 +190,9 @@ dv_has_:
     yo: Spencer Tracy
     yue: 史賓沙德利西
     zh: 史賓塞·屈賽
-    zh-cn: 斯潘塞·特雷西
-    zh-sg: 史宾塞·屈赛
-    zh-tw: 史賓塞·屈賽
+    zh_cn: 斯潘塞·特雷西
+    zh_sg: 史宾塞·屈赛
+    zh_tw: 史賓塞·屈賽
 ---
 # [[Tracy,Spencer]] 
 

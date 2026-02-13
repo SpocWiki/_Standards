@@ -36,7 +36,7 @@ dv_has_:
     oc: Aeglidae
     pl: Aeglidae
     pt: Aeglidae
-    pt-br: Aeglidae
+    pt_br: Aeglidae
     ro: Aeglidae
     ru: Aeglidae
     sq: Aeglidae
@@ -46,9 +46,9 @@ dv_has_:
     vo: Aeglidae
     war: Aeglidae
     zh: 辉虾科
-    zh-cn: 辉虾科
-    zh-hans: 辉虾科
-    zh-tw: 輝蝦科
+    zh_cn: 辉虾科
+    zh_hans: 辉虾科
+    zh_tw: 輝蝦科
 ---
 ## Phylogeny 
 

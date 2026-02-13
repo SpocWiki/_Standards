@@ -192,7 +192,7 @@ dv_has_:
     bar: Sokrates
     bcl: Socrates
     be: Сакрат
-    be-tarask: Сакрат
+    be_tarask: Сакрат
     bew: Sokrat
     bg: Сократ
     bho: सुकरात
@@ -203,7 +203,7 @@ dv_has_:
     btm: Socrates
     bxr: Сократ
     ca: Sòcrates
-    cbk-zam: Sócrates
+    cbk_zam: Sócrates
     cdo: Sŭ-gáh-lăk-dā̤
     ce: Сократ
     ceb: Sócrates
@@ -217,14 +217,14 @@ dv_has_:
     cy: Socrates
     da: Sokrates
     de: Sokrates
-    de-ch: Sokrates
+    de_ch: Sokrates
     diq: Sokrates
     dty: सुकरात
     el: Σωκράτης
     eml: Sócret
     en: Socrates
-    en-ca: Socrates
-    en-gb: Socrates
+    en_ca: Socrates
+    en_gb: Socrates
     en-us: Socrates
     eo: Sokrato
     es: Sócrates
@@ -281,7 +281,7 @@ dv_has_:
     ko: 소크라테스
     ksh: Sokrates
     ku: Sokratês
-    ku-latn: Sokratês
+    ku_latn: Sokratês
     kw: Socrates
     ky: Сократ
     la: Socrates
@@ -298,7 +298,7 @@ dv_has_:
     lzh: 蘇格拉底
     mad: Sokrates
     mai: सुकरात
-    map-bms: Socrates
+    map_bms: Socrates
     mg: Socrates
     min: Socrates
     mk: Сократ
@@ -317,7 +317,7 @@ dv_has_:
     nan: Sokrates
     nb: Sokrates
     nds: Sokrates
-    nds-nl: Sokrates
+    nds_nl: Sokrates
     ne: सुकरात
     new: सोक्रेतिज
     nl: Socrates
@@ -370,7 +370,7 @@ dv_has_:
     tpi: Socrates
     tr: Sokrates
     tt: Сократ
-    tt-cyrl: Сократ
+    tt_cyrl: Сократ
     tum: Socrates
     uk: Сократ
     ur: سقراط
@@ -391,14 +391,14 @@ dv_has_:
     zea: Socrates
     zgh: ⵙⵓⵇⵕⴰⵟ
     zh: 苏格拉底
-    zh-cn: 苏格拉底
+    zh_cn: 苏格拉底
     zh-hans: 苏格拉底
-    zh-hant: 蘇格拉底
-    zh-hk: 蘇格拉底
-    zh-mo: 蘇格拉底
+    zh_hant: 蘇格拉底
+    zh_hk: 蘇格拉底
+    zh_mo: 蘇格拉底
     zh-my: 苏格拉底
-    zh-sg: 苏格拉底
-    zh-tw: 蘇格拉底
+    zh_sg: 苏格拉底
+    zh_tw: 蘇格拉底
 ---
 # [[Socrates]]
 

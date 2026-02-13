@@ -106,7 +106,7 @@ dv_has_:
     az: Qızıl balıq
     ba: Алтын Балыҡ
     be: Залатая Рыба
-    be-tarask: Залатая Рыба
+    be_tarask: Залатая Рыба
     bg: Златна рибка
     bn: সুবর্ণাশ্রম মণ্ডল
     br: Aouredenn
@@ -121,8 +121,8 @@ dv_has_:
     diq: Qılincmase
     el: Δοράς
     en: Dorado
-    en-ca: Dorado
-    en-gb: Dorado
+    en_ca: Dorado
+    en_gb: Dorado
     eo: Orfiŝo
     es: Dorado
     et: Kuldkala
@@ -171,7 +171,7 @@ dv_has_:
     sk: Mečiar
     sl: Dorado
     sr: Златна риба
-    sr-ec: златна риба
+    sr_ec: златна риба
     sv: Svärdfisken
     sw: Panji
     th: กลุ่มดาวปลากระโทงแทง
@@ -188,9 +188,9 @@ dv_has_:
     wuu: 剑鱼座
     yue: 劍魚座
     zh: 劍魚座
-    zh-cn: 劍魚座
-    zh-hans: 劍魚座
-    zh-hant: 劍魚座
+    zh_cn: 劍魚座
+    zh_hans: 劍魚座
+    zh_hant: 劍魚座
 dv_is_:
   same_as:
   - '[[_Standards/WikiData/WD~Dorado,8837]]'

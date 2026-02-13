@@ -108,7 +108,7 @@ dv_has_:
     az: Trumen Kapote
     azb: ترومن کاپوتی
     be: Трумэн Капотэ
-    be-tarask: Труман Капоці
+    be_tarask: Труман Капоці
     bg: Труман Капоти
     bn: ট্রুম্যান ক্যাপোটি
     bs: Truman Capote
@@ -120,8 +120,8 @@ dv_has_:
     de: Truman Capote
     el: Τρούμαν Καπότε
     en: Truman Capote
-    en-ca: Truman Capote
-    en-gb: Truman Capote
+    en_ca: Truman Capote
+    en_gb: Truman Capote
     eo: Truman Capote
     es: Truman Capote
     et: Truman Capote
@@ -165,7 +165,7 @@ dv_has_:
     pap: Truman Capote
     pl: Truman Capote
     pt: Truman Capote
-    pt-br: Truman Capote
+    pt_br: Truman Capote
     qu: Truman Capote
     ro: Truman Capote
     ru: Трумен Капоте
@@ -176,8 +176,8 @@ dv_has_:
     sl: Truman Capote
     sq: Truman Capote
     sr: Труман Капоте
-    sr-ec: Труман Капоте
-    sr-el: Truman Kapote
+    sr_ec: Труман Капоте
+    sr_el: Truman Kapote
     sv: Truman Capote
     th: ทรูแมน คาโพตี
     tr: Truman Capote
@@ -189,12 +189,12 @@ dv_has_:
     yo: Truman Capote
     yue: 楚門·卡波提
     zh: 杜鲁门·卡波特
-    zh-cn: 杜鲁门·卡波特
-    zh-hans: 杜鲁门·卡波特
-    zh-hant: 楚門·柯波帝
-    zh-hk: 楚門·卡波提
-    zh-sg: 杜鲁门·卡波特
-    zh-tw: 楚門·卡波提
+    zh_cn: 杜鲁门·卡波特
+    zh_hans: 杜鲁门·卡波特
+    zh_hant: 楚門·柯波帝
+    zh_hk: 楚門·卡波提
+    zh_sg: 杜鲁门·卡波特
+    zh_tw: 楚門·卡波提
 ---
 # [[Capote,Truman]] 
 

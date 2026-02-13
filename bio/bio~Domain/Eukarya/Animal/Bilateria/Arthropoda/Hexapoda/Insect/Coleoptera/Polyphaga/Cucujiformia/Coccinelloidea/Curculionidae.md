@@ -93,7 +93,7 @@ dv_has_:
     bar: Curculionidae
     bcl: Ulalo
     be: слонікі
-    be-tarask: слонікі
+    be_tarask: слонікі
     bg: хоботникови
     bn: প্রকৃত শুঁড়পোকা
     br: Curculionidae
@@ -105,11 +105,11 @@ dv_has_:
     da: snudebille
     de: Rüsselkäfer
     de-at: Curculionidae
-    de-ch: Rüsselkäfer
+    de_ch: Rüsselkäfer
     el: Κουρκουλιονίδες
     en: Curculionidae
-    en-ca: Curculionidae
-    en-gb: Curculionidae
+    en_ca: Curculionidae
+    en_gb: Curculionidae
     en-us: Curculionidae
     eo: Kurkuliedoj
     es: Curculionidae
@@ -157,7 +157,7 @@ dv_has_:
     nap: Curculionidae
     nb: snutebiller
     nds: Snutenkävers
-    nds-nl: Curculionidae
+    nds_nl: Curculionidae
     nl: snuitkevers
     nn: snutebiller
     nrm: Curculionidae
@@ -169,7 +169,7 @@ dv_has_:
     pl: ryjkowcowate
     pms: Curculionidae
     pt: Curculionidae
-    pt-br: Curculionidae
+    pt_br: Curculionidae
     qu: Sinqa suntu
     rm: Curculionidae
     ro: Curculionide
@@ -196,9 +196,9 @@ dv_has_:
     wuu: 象鼻虫科
     yue: 象鼻蟲科
     zh: 象甲科
-    zh-cn: 象甲科
-    zh-hans: 象甲科
-    zh-tw: 象鼻蟲科
+    zh_cn: 象甲科
+    zh_hans: 象甲科
+    zh_tw: 象鼻蟲科
     zu: Curculionidae
 ---
 # [[Curculionidae]] 

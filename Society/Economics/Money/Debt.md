@@ -107,7 +107,7 @@ dv_has_:
     arc: ܝܙܦܬܐ
     ast: delda
     az: Borc
-    be-tarask: доўг
+    be_tarask: доўг
     bg: дълг
     br: Dle
     bs: Dug
@@ -168,7 +168,7 @@ dv_has_:
     pam: King Utang Ku Keka
     pl: dług
     pt: débito
-    pt-br: débito
+    pt_br: débito
     ro: datorie
     ru: долг
     sa: ऋणम्
@@ -200,9 +200,9 @@ dv_has_:
     wuu: 债务
     yue: 債
     zh: 债务
-    zh-hans: 债务
-    zh-hant: 債務
-    zh-hk: 債務
+    zh_hans: 债务
+    zh_hant: 債務
+    zh_hk: 債務
 ---
 # [[Debt]] 
 

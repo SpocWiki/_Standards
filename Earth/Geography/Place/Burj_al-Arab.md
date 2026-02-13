@@ -100,7 +100,7 @@ dv_has_:
     az: Bürc əl-ərəb
     ba: Бурдж-әл-Ғәрәп
     be: Бурдж аль-Араб
-    be-tarask: Бурдж аль-Араб
+    be_tarask: Бурдж аль-Араб
     bg: Бурдж ал-Араб
     bn: বুর্জ আল আরব
     bs: Burj Al Arab

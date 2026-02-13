@@ -651,7 +651,7 @@ dv_has_:
     bar: Eadn
     bcl: Kinaban
     be: Зямля
-    be-tarask: Зямля
+    be_tarask: Зямля
     bew: Bumi
     bg: Земя
     bho: पृथ्वी
@@ -668,7 +668,7 @@ dv_has_:
     bug: ᨒᨗᨊᨚ
     bxr: Дэлхэй
     ca: Terra
-    cbk-zam: Tierra
+    cbk_zam: Tierra
     cdo: Dê-giù
     ce: Дуьне
     ceb: Kalibotan
@@ -678,7 +678,7 @@ dv_has_:
     co: Terra
     cr: ᒫᒪᐃᐧ ᐅᑳᐄᐧᒫᐤ
     crh: Dünya
-    crh-latn: Dünya
+    crh_latn: Dünya
     crh-ro: dúniya
     cs: Země
     csb: Zemia
@@ -689,7 +689,7 @@ dv_has_:
     dag: Dunya
     de: Erde
     de-at: Erde
-    de-ch: Erde
+    de_ch: Erde
     dga: Andonɛɛ
     din: Piny nhom
     diq: Dınya
@@ -702,8 +702,8 @@ dv_has_:
     el: Γη
     eml: Tèra
     en: Earth
-    en-ca: Earth
-    en-gb: Earth
+    en_ca: Earth
+    en_gb: Earth
     en-us: Earth
     eo: Tero
     es: Tierra
@@ -779,7 +779,7 @@ dv_has_:
     kge: Bumi
     ki: Thi
     kk: Жер
-    kk-cyrl: Жер
+    kk_cyrl: Жер
     kl: Nunarsuaq
     km: ផែនដី
     kn: ಭೂಮಿ
@@ -816,7 +816,7 @@ dv_has_:
     mad: Bhumè
     mag: पृथिवी
     mai: पृथ्वी
-    map-bms: Bumi
+    map_bms: Bumi
     mdf: Мода
     mg: Tany
     mhr: Мланде
@@ -830,7 +830,7 @@ dv_has_:
     mr: पृथ्वी
     mrj: Мӱлӓндӹ
     ms: Bumi
-    ms-arab: بومي
+    ms_arab: بومي
     mt: Id-Dinja
     mwl: Tierra
     my: ကမ္ဘာဂြိုဟ်
@@ -842,7 +842,7 @@ dv_has_:
     nap: Terra
     nb: jorda
     nds: Eer
-    nds-nl: Eerde
+    nds_nl: Eerde
     ne: पृथ्वी
     new: पृथ्वी
     nia: Dadanö
@@ -876,7 +876,7 @@ dv_has_:
     pnt: Γη
     ps: ځمکه
     pt: Terra
-    pt-br: Terra
+    pt_br: Terra
     qu: Tiqsimuyu
     rm: Terra
     rmy: Phuv
@@ -913,8 +913,8 @@ dv_has_:
     so: Dhulka
     sq: Tokë
     sr: Земља
-    sr-ec: Земља
-    sr-el: Zemlja
+    sr_ec: Земља
+    sr_el: Zemlja
     srn: Grontapu
     ss: Úmhlâba
     st: Lefatshe
@@ -931,7 +931,7 @@ dv_has_:
     te: భూమి
     tet: Rai
     tg: замин
-    tg-cyrl: Замин
+    tg_cyrl: Замин
     th: โลก
     ti: መሬት
     tk: Ýer
@@ -944,8 +944,8 @@ dv_has_:
     tr: Dünya
     ts: Misava
     tt: Җир
-    tt-cyrl: Җир
-    tt-latn: Cir
+    tt_cyrl: Җир
+    tt_latn: Cir
     tum: Charu cha pasi
     tw: Asaase
     tyv: Чер
@@ -975,14 +975,14 @@ dv_has_:
     zea: Aerde
     zgh: ⴰⴽⴰⵍ
     zh: 地球
-    zh-cn: 地球
-    zh-hans: 地球
-    zh-hant: 地球
-    zh-hk: 地球
-    zh-mo: 地球
+    zh_cn: 地球
+    zh_hans: 地球
+    zh_hant: 地球
+    zh_hk: 地球
+    zh_mo: 地球
     zh-my: 地球
-    zh-sg: 地球
-    zh-tw: 地球
+    zh_sg: 地球
+    zh_tw: 地球
     zu: Umhlaba
 ---
 # [[Earth]] 🌎 

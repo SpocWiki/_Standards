@@ -113,7 +113,7 @@ dv_has_:
     az: Fidi
     ba: Фидий
     be: Фідый
-    be-tarask: Фідыяс
+    be_tarask: Фідыяс
     bg: Фидий
     br: Fidias
     bs: Fidija
@@ -123,8 +123,8 @@ dv_has_:
     de: Phidias
     el: Φειδίας
     en: Phidias
-    en-ca: Phidias
-    en-gb: Phidias
+    en_ca: Phidias
+    en_gb: Phidias
     eo: Fidio
     es: Fidias
     et: Pheidias
@@ -149,15 +149,15 @@ dv_has_:
     ja: ペイディアス
     ka: ფიდიასი
     kk: Фидий
-    kk-arab: فىيدىيي
+    kk_arab: فىيدىيي
     kk-cn: فىيدىيي
-    kk-cyrl: Фидий
+    kk_cyrl: Фидий
     kk-kz: Фидий
-    kk-latn: Fïdïý
+    kk_latn: Fïdïý
     kk-tr: Fïdïý
     ko: 페이디아스
     ku: Fîdîas
-    ku-latn: Fîdîas
+    ku_latn: Fîdîas
     ky: Фидий
     la: Phidias
     lb: Phidias
@@ -171,7 +171,7 @@ dv_has_:
     oc: Fidias
     pl: Fidiasz
     pt: Fídias
-    pt-br: Fídias
+    pt_br: Fídias
     ro: Phidias
     ru: Фидий
     scn: Fidia
@@ -181,8 +181,8 @@ dv_has_:
     sl: Fidij
     sq: Fidia
     sr: Фидија
-    sr-ec: Фидија
-    sr-el: Fidija
+    sr_ec: Фидија
+    sr_el: Fidija
     sv: Fidias
     ta: பீடியசு
     tl: Pidias
@@ -194,12 +194,12 @@ dv_has_:
     wuu: 菲狄亚斯
     yue: 菲迪亞斯
     zh: 菲迪亞斯
-    zh-cn: 菲狄亚斯
-    zh-hans: 菲狄亚斯
-    zh-hant: 菲迪亞斯
-    zh-hk: 菲迪亞斯
-    zh-sg: 菲狄亚斯
-    zh-tw: 菲迪亞斯
+    zh_cn: 菲狄亚斯
+    zh_hans: 菲狄亚斯
+    zh_hant: 菲迪亞斯
+    zh_hk: 菲迪亞斯
+    zh_sg: 菲狄亚斯
+    zh_tw: 菲迪亞斯
 ---
 # [[Phidias]] 
 

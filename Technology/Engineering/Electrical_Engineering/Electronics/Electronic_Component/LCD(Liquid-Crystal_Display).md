@@ -86,7 +86,7 @@ dv_has_:
     ar: شاشة العرض البلورة السائلة
     ast: Pantalla de cristal líquidu
     be: ВК панэль
-    be-tarask: вадкакрышталічны дысплэй
+    be_tarask: вадкакрышталічны дысплэй
     bg: Дисплей с течни кристали
     bn: তরল স্ফটিক ছবির পর্দা
     br: Skramm strinkennoù liñvel
@@ -97,8 +97,8 @@ dv_has_:
     de: Flüssigkristallanzeige
     el: οθόνη υγρών κρυστάλλων
     en: liquid-crystal display
-    en-ca: Liquid crystal display
-    en-gb: liquid crystal display
+    en_ca: Liquid crystal display
+    en_gb: liquid crystal display
     eo: likvokristala ekrano
     es: pantalla de cristal líquido
     et: Vedelkristallkuvar
@@ -138,8 +138,8 @@ dv_has_:
     sk: Displej s kvapalnými kryštálmi
     sl: zaslon LCD
     sr: ЛЦД монитор
-    sr-ec: ЛЦД монитор
-    sr-el: LCD monitor
+    sr_ec: ЛЦД монитор
+    sr_el: LCD monitor
     sw: Uonyesho wa fuwelemaji
     ta: திரவப் படிகக் காட்சி
     te: లిక్విడ్ క్రిస్టల్ డిస్ప్లే

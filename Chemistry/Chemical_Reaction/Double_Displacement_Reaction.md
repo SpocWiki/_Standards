@@ -71,7 +71,7 @@ dv_has_:
   name_:
     ar: تفاعل تبادل
     ba: Алмашыу реакцияһы
-    be-tarask: мэтатэзіс
+    be_tarask: мэтатэзіс
     ca: reacció de metàtesi
     ckb: کارلێکی میتاتێزی خوێ
     cs: podvojná záměna
@@ -79,8 +79,8 @@ dv_has_:
     de: Salzmetathese
     el: Αντιδράσεις διπλής αντικατάστασης
     en: double displacement reaction
-    en-ca: Salt metathesis reaction
-    en-gb: Salt metathesis reaction
+    en_ca: Salt metathesis reaction
+    en_gb: Salt metathesis reaction
     eo: metatezo
     es: Reacción de metátesis
     eu: Metatesi-erreakzio
@@ -102,7 +102,7 @@ dv_has_:
     nn: metatesereaksjon
     pl: metateza
     pt: Reação de dupla troca
-    pt-br: Reação de dupla troca
+    pt_br: Reação de dupla troca
     ro: reacție de metateză
     ru: метатезис
     sl: reakcija dvojne zamenjave

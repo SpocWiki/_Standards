@@ -52,7 +52,7 @@ dv_has_:
   name_:
     ar: ويلسون غراتباتش
     ast: Wilson Greatbatch
-    be-tarask: Ўілсан Грэйтбатч
+    be_tarask: Ўілсан Грэйтбатч
     bg: Уилсън Грейтбач
     ca: Wilson Greatbatch
     cs: Wilson Greatbatch
@@ -60,8 +60,8 @@ dv_has_:
     da: Wilson Greatbatch
     de: Wilson Greatbatch
     en: Wilson Greatbatch
-    en-ca: Wilson Greatbatch
-    en-gb: Wilson Greatbatch
+    en_ca: Wilson Greatbatch
+    en_gb: Wilson Greatbatch
     es: Wilson Greatbatch
     eu: Wilson Greatbatch
     fa: ویلسون بزرگ
@@ -79,7 +79,7 @@ dv_has_:
     nl: Wilson Greatbatch
     pl: Wilson Greatbatch
     pt: Wilson Greatbatch
-    pt-br: Wilson Greatbatch
+    pt_br: Wilson Greatbatch
     ru: Уилсон Грэйтбатч
     sl: Wilson Greatbatch
     sq: Wilson Greatbatch

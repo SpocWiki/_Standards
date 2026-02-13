@@ -129,14 +129,14 @@ Wolfram_Language_entity_code: Entity["FoodType", "Leek"]
 UNII: RCU76P419D
 dv_has_:
   name_:
-    aeb-arab: كرّاث
+    aeb_arab: كرّاث
     af: Prei
     an: porro
     ar: كراث
     arz: كراث
     ast: Allium ampeloprasum var. porrum
     be: цыбуля парэй
-    be-tarask: цыбуля-парэй
+    be_tarask: цыбуля-парэй
     bg: праз
     bn: পলাণ্ডু
     bo: ཀེའུ་ཙོང་།
@@ -150,7 +150,7 @@ dv_has_:
     de: Lauch
     el: Πράσο
     en: leek
-    en-gb: leek
+    en_gb: leek
     en-us: leek
     eo: poreo
     es: puerro
@@ -206,7 +206,7 @@ dv_has_:
     pl: por
     pnb: ہرا پیاز
     pt: alho-porro
-    pt-br: Alho poró
+    pt_br: Alho poró
     ro: praz
     ru: лук-порей
     rw: Igitunguru
@@ -221,8 +221,8 @@ dv_has_:
     so: Yuruqcadde
     sq: presh
     sr: Празилук
-    sr-ec: празилук
-    sr-el: praziluk
+    sr_ec: празилук
+    sr_el: praziluk
     sv: purjolök
     ta: லீக்ஸ்
     tg: Гандано
@@ -240,8 +240,8 @@ dv_has_:
     yi: פארע-ציבעלע
     yue: 京蔥
     zh: 韭葱
-    zh-cn: 韭蔥
-    zh-tw: 韭蔥
+    zh_cn: 韭蔥
+    zh_tw: 韭蔥
 ---
 # [[Leek]] 
 

@@ -128,7 +128,7 @@ dv_has_:
     ast: Kang Youwei
     az: Kan Yuvey
     ba: Кан Ювэй
-    be-tarask: Кан Ювэй
+    be_tarask: Кан Ювэй
     ca: Kang Youwei
     cs: Kchang Jou-wej
     da: Kang Youwei
@@ -158,7 +158,7 @@ dv_has_:
     nn: Kang Youwei
     pl: Kang Youwei
     pt: Kang Youwei
-    pt-br: Kang Youwei
+    pt_br: Kang Youwei
     ru: Кан Ювэй
     sk: Kchang Jou-wej
     sl: Kang Youwei
@@ -174,14 +174,14 @@ dv_has_:
     wuu: 康有为
     yue: 康有爲
     zh: 康有為
-    zh-cn: 康有为
+    zh_cn: 康有为
     zh-hans: 康有为
-    zh-hant: 康有為
-    zh-hk: 康有為
-    zh-mo: 康有為
+    zh_hant: 康有為
+    zh_hk: 康有為
+    zh_mo: 康有為
     zh-my: 康有为
-    zh-sg: 康有为
-    zh-tw: 康有為
+    zh_sg: 康有为
+    zh_tw: 康有為
 ---
 # [[Kang,Youwei]] 
 

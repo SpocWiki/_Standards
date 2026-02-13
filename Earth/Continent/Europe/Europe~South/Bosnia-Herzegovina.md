@@ -3,7 +3,7 @@ dv_has_:
   name_:
     ab: Босниеи Герцеговинеи
     ace: Bosnia Hèrzègovina
-    aeb-arab: البوسنة والهرسك
+    aeb_arab: البوسنة والهرسك
     af: Bosnië-Herzegowina
     am: ቦስኒያና ሄርጸጎቪና
     ami: Bosnia and herzegovina
@@ -28,7 +28,7 @@ dv_has_:
     bar: Bosnien-Herzegowina
     bcl: Bosnya asin Hersegobina
     be: Боснія і Герцагавіна
-    be-tarask: Босьнія і Герцагавіна
+    be_tarask: Босьнія і Герцагавіна
     bew: Bosni èn Hèrségowina
     bg: Босна и Херцеговина
     bgn: بوسنیا و هیرزگوینا
@@ -41,7 +41,7 @@ dv_has_:
     bs: Bosna i Hercegovina
     bxr: Босни ба Херцеговина
     ca: Bòsnia i Hercegovina
-    cbk-zam: Bosnia y Hercegovina
+    cbk_zam: Bosnia y Hercegovina
     cdo: Bosnia gâe̤ng Herzegovina
     ce: Босни а Герцеговина
     ceb: Bosnyag Ersegobina
@@ -49,7 +49,7 @@ dv_has_:
     ckb: بۆسنیا و ھەرزەگۆڤینا
     co: Bosnia è Erzegovina
     crh: Bosna ve Hersek
-    crh-latn: Bosna ve Hersek
+    crh_latn: Bosna ve Hersek
     cs: Bosna a Hercegovina
     csb: Bòsnijô ë Hercegòwina
     cu: Босна
@@ -59,7 +59,7 @@ dv_has_:
     dag: Bosnia and Herzegovina
     de: Bosnien und Herzegowina
     de-at: Bosnien und Herzegowina
-    de-ch: Bosnien und Herzegowina
+    de_ch: Bosnien und Herzegowina
     diq: Bosna-Hersek
     dsb: Bosniska-Hercegowinska
     dty: बोस्निया र हर्जगोभिना
@@ -68,8 +68,8 @@ dv_has_:
     el: Βοσνία και Ερζεγοβίνη
     eml: Bòśgna-Erśegòvina
     en: Bosnia and Herzegovina
-    en-ca: Bosnia and Herzegovina
-    en-gb: Bosnia and Herzegovina
+    en_ca: Bosnia and Herzegovina
+    en_gb: Bosnia and Herzegovina
     eo: Bosnio kaj Hercegovino
     es: Bosnia y Herzegovina
     et: Bosnia ja Hertsegoviina
@@ -94,7 +94,7 @@ dv_has_:
     gn: Vonia ha Hesegovina
     gom: बॉस्निया आणि हर्झगोव्हिना
     gom-deva: बॉस्निया आणि हर्झगोव्हिना
-    gom-latn: Bosnia ani Herzegovina
+    gom_latn: Bosnia ani Herzegovina
     got: "\U00010331\U00010330\U0001033F\U00010343\U0001033D\U0001033E\U00010330 & \U00010337\U00010330\U00010342\U0001033E\U00010330\U00010344\U0001033F\U00010332\U00010349\U00010331\U00010339\U0001033D\U00010330"
     gpe: Bosnia and Herzegovina
     gsw: Bosnie-Herzegowina
@@ -142,7 +142,7 @@ dv_has_:
     krc: Босния бла Герцеговина
     ksh: Boßnije-Häzzejovina
     ku: Bosniya û Herzegovîna
-    ku-latn: Bosniya û Herzegovîna
+    ku_latn: Bosniya û Herzegovîna
     kv: Босния да Герцеговина
     kw: Bosni–Hercegovina
     ky: Босния жана Герцеговина
@@ -167,7 +167,7 @@ dv_has_:
     lzh: 波士尼亞赫塞哥維納
     mad: Bosnia Herzegovina
     mai: बोस्निया आ हर्जगोभिना
-    map-bms: Bosnia-Herzegovina
+    map_bms: Bosnia-Herzegovina
     mdf: Босния ди Херцеговина
     mg: Bosnia sy Herzegovina
     mhr: Босний да Герцеговина
@@ -190,7 +190,7 @@ dv_has_:
     nap: Bosnia-Erzegovina
     nb: Bosnia-Hercegovina
     nds: Bosnien-Herzegowina
-    nds-nl: Bosnië-Herzegovina
+    nds_nl: Bosnië-Herzegovina
     ne: बोस्निया र हर्जगोभिना
     new: बोस्निया व हर्जगोविना
     nl: Bosnië en Herzegovina
@@ -217,7 +217,7 @@ dv_has_:
     pnt: Βοσνία και Ερζεγοβίνη
     ps: بوسنيا او هيرزيګووينا
     pt: Bósnia e Herzegovina
-    pt-br: Bósnia e Herzegovina
+    pt_br: Bósnia e Herzegovina
     qu: Busna-Hirsiquwina
     rm: Bosnia-Erzegovina
     rmy: Bosniya thai Hercegovina
@@ -250,8 +250,8 @@ dv_has_:
     so: Bosniya
     sq: Bosnja dhe Hercegovina
     sr: Босна и Херцеговина
-    sr-ec: Босна и Херцеговина
-    sr-el: Bosna i Hercegovina
+    sr_ec: Босна и Херцеговина
+    sr_el: Bosna i Hercegovina
     srn: Bosnikondre
     ss: IBhosinya ne Hezegovi
     st: Bosnia ya Herzegowina
@@ -277,7 +277,7 @@ dv_has_:
     trv: Bosnia and herzegovina
     ts: Bosnia and Herzegovina
     tt: Босния һәм Герцеговина
-    tt-cyrl: Босния һәм Герцеговина
+    tt_cyrl: Босния һәм Герцеговина
     tum: Bosnia na Herzegovina
     tw: Bosnia and Herzegovina
     ty: Pōtinia-Heretōvina
@@ -305,11 +305,11 @@ dv_has_:
     zea: Bosnië-Hercegovina
     zgh: ⴱⵓⵙⵏⴰ ⴷ ⵀⵉⵔⵙⵉⴽ
     zh: 波斯尼亚和黑塞哥维那
-    zh-cn: 波斯尼亚和黑塞哥维那
-    zh-hans: 波斯尼亚和黑塞哥维那
-    zh-hant: 波士尼亞與赫塞哥維納
-    zh-hk: 波斯尼亞和黑塞哥維那
-    zh-tw: 波士尼亞與赫塞哥維納
+    zh_cn: 波斯尼亚和黑塞哥维那
+    zh_hans: 波斯尼亚和黑塞哥维那
+    zh_hant: 波士尼亞與赫塞哥維納
+    zh_hk: 波斯尼亞和黑塞哥維那
+    zh_tw: 波士尼亞與赫塞哥維納
     zu: IBhosniya neHerzegovina
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Bosnia_and_Herzegovina

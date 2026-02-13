@@ -6,7 +6,7 @@ dv_has_:
     ast: Transmission Control Protocol
     az: TCP protokolu
     be: TCP
-    be-tarask: TCP
+    be_tarask: TCP
     bg: TCP
     bn: ট্রান্সমিশন কন্ট্রোল প্রোটোকল
     br: Transmission Control Protocol
@@ -15,11 +15,11 @@ dv_has_:
     cs: Transmission Control Protocol
     da: TCP
     de: Transmission Control Protocol
-    de-ch: Transmission Control Protocol
+    de_ch: Transmission Control Protocol
     el: Transmission Control Protocol
     en: Transmission Control Protocol
-    en-ca: Transmission Control Protocol
-    en-gb: Transmission Control Protocol
+    en_ca: Transmission Control Protocol
+    en_gb: Transmission Control Protocol
     eo: TCP
     es: Transmission Control Protocol
     et: Edastusohje protokoll
@@ -58,7 +58,7 @@ dv_has_:
     pl: protokół sterowania transmisją
     pms: Protocòl ëd contròl ëd la trasmission
     pt: Transmission Control Protocol
-    pt-br: Transmission Control Protocol
+    pt_br: Transmission Control Protocol
     ro: Transmission Control Protocol
     ru: TCP
     sco: Transmission Control Protocol
@@ -67,7 +67,7 @@ dv_has_:
     sl: Transmission Control Protocol
     sq: Transmission Control Protocol
     sr: Transmission Control Protocol
-    sr-ec: Transmission Control Protocol
+    sr_ec: Transmission Control Protocol
     sv: Transmission Control Protocol
     sw: Itifaki ya Kidhibiti Peleshi
     ta: பரப்புகை கட்டுப்பாடு நெறிமுறை
@@ -75,7 +75,7 @@ dv_has_:
     tl: TCP
     tr: TCP
     tt: TCP
-    tt-cyrl: TCP
+    tt_cyrl: TCP
     uk: TCP
     ur: تضبیط ترسیل دستور
     uz: TCP
@@ -84,9 +84,9 @@ dv_has_:
     yo: Transmission Control Protocol
     yue: 傳輸控制協議
     zh: 传输控制协议
-    zh-cn: 传输控制协议
-    zh-hans: 传输控制协议
-    zh-hant: 傳輸控制協定
+    zh_cn: 传输控制协议
+    zh_hans: 传输控制协议
+    zh_hant: 傳輸控制協定
     zu: IGumelo lokulawula ukufufukisa
 aliases:
 - Edastusohje protokoll

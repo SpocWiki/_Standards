@@ -123,7 +123,7 @@ dv_has_:
     az: kafedral
     bcl: Katedral
     be: сабор
-    be-tarask: катэдра
+    be_tarask: катэдра
     bg: Катедрала
     bho: कैथेड्रल
     bn: ক্যাথেড্রাল
@@ -137,8 +137,8 @@ dv_has_:
     diq: Katedral
     el: καθεδρικός ναός
     en: cathedral
-    en-ca: cathedral
-    en-gb: cathedral
+    en_ca: cathedral
+    en_gb: cathedral
     eo: katedralo
     es: catedral
     et: katedraal
@@ -193,7 +193,7 @@ dv_has_:
     pcd: Catédrale
     pl: katedra
     pt: catedral
-    pt-br: catedral
+    pt_br: catedral
     qu: Kathidral
     rmf: dömmako khangari
     ro: catedrală
@@ -213,7 +213,7 @@ dv_has_:
     sms: duõmmceerkav
     sq: Katedralja
     sr: саборна црква
-    sr-ec: саборна црква
+    sr_ec: саборна црква
     sv: katedral
     sw: Kanisa kuu
     ta: கத்தீட்ரல்
@@ -231,8 +231,8 @@ dv_has_:
     yi: קאטעדראלע
     yue: 主教座堂
     zh: 主教座堂
-    zh-hans: 主教座堂
-    zh-hant: 主教座堂
+    zh_hans: 主教座堂
+    zh_hant: 主教座堂
 ---
 # [[Cathedral]] 
 

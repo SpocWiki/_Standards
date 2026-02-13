@@ -53,7 +53,7 @@ dv_has_:
     oc: Atlantogenata
     pl: Atlantogenata
     pt: Atlantogenata
-    pt-br: Atlantogenata
+    pt_br: Atlantogenata
     ro: Atlantogenata
     ru: Atlantogenata
     sl: Atlantogenata
@@ -66,11 +66,11 @@ dv_has_:
     vo: Atlantogenata
     war: Atlantogenata
     zh: 大西洋獸類
-    zh-cn: 大西洋兽类
-    zh-hans: 大西洋兽类
-    zh-hant: 大西洋獸類
-    zh-hk: 大西洋獸類
-    zh-tw: 大西洋獸類
+    zh_cn: 大西洋兽类
+    zh_hans: 大西洋兽类
+    zh_hant: 大西洋獸類
+    zh_hk: 大西洋獸類
+    zh_tw: 大西洋獸類
 ---
 # [[Atlantogenata]] 
 

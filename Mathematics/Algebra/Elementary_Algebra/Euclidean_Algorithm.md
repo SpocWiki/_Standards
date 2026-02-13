@@ -68,7 +68,7 @@ dv_has_:
     az: Evklid alqoritmi
     ba: Евклид алгоритмы
     be: Алгарытм Еўкліда
-    be-tarask: Эўклідавы альгарытм
+    be_tarask: Эўклідавы альгарытм
     bg: Алгоритъм на Евклид
     bn: ইউক্লিডীয় এলগরিদম
     ca: algorisme d'Euclides
@@ -108,7 +108,7 @@ dv_has_:
     pl: algorytm Euklidesa
     pms: Algoritm d'Euclid
     pt: algoritmo de Euclides
-    pt-br: algoritmo de Euclides
+    pt_br: algoritmo de Euclides
     ro: algoritmul lui Euclid
     ru: алгоритм Евклида
     sco: Euclidean algorithm
@@ -116,8 +116,8 @@ dv_has_:
     sk: Euklidov algoritmus
     sl: Evklidov algoritem
     sr: Еуклидов алгоритам
-    sr-ec: Еуклидов алгоритам
-    sr-el: Euklidov algoritam
+    sr_ec: Еуклидов алгоритам
+    sr_el: Euklidov algoritam
     sv: Euklides algoritm
     ta: யூக்ளிடிய படிமுறைத்தீர்வு
     th: ขั้นตอนวิธีแบบยุคลิด
@@ -127,12 +127,12 @@ dv_has_:
     wuu: 辗转相除法
     yue: 輾轉相除法
     zh: 輾轉相除法
-    zh-cn: 辗转相除法
-    zh-hans: 辗转相除法
-    zh-hant: 輾轉相除法
-    zh-hk: 輾轉相除法
-    zh-sg: 辗转相除法
-    zh-tw: 輾轉相除法
+    zh_cn: 辗转相除法
+    zh_hans: 辗转相除法
+    zh_hant: 輾轉相除法
+    zh_hk: 輾轉相除法
+    zh_sg: 辗转相除法
+    zh_tw: 輾轉相除法
 ---
 # [[Euclidean_Algorithm]] 
 

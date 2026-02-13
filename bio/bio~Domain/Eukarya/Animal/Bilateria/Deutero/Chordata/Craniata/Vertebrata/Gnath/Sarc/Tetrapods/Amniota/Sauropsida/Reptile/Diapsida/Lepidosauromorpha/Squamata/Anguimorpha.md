@@ -45,7 +45,7 @@ dv_has_:
     oc: Anguimorpha
     pl: Autarchoglossa
     pt: Anguimorpha
-    pt-br: Anguimorpha
+    pt_br: Anguimorpha
     ro: Anguimorpha
     ru: Веретеницеобразные
     sco: Anguimorpha
@@ -59,11 +59,11 @@ dv_has_:
     vo: Anguimorpha
     war: Anguimorpha
     zh: 蛇蜥亚目
-    zh-cn: 蛇蜥亚目
-    zh-hans: 蛇蜥亚目
-    zh-hant: 蛇蜥下目
-    zh-hk: 蛇蜥下目
-    zh-tw: 蛇蜥亞目
+    zh_cn: 蛇蜥亚目
+    zh_hans: 蛇蜥亚目
+    zh_hant: 蛇蜥下目
+    zh_hk: 蛇蜥下目
+    zh_tw: 蛇蜥亞目
 aliases:
 - Anguimorfos
 - Anguimorpha

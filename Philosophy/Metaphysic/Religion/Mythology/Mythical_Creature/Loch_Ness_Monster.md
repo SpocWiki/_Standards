@@ -88,7 +88,7 @@ dv_has_:
     ban: Rakasa Loch Ness
     bar: Ungeheia vo Loch Ness
     bcl: Loch Ness Monster
-    be-tarask: Лохнэская пачвара
+    be_tarask: Лохнэская пачвара
     bg: Неси
     bn: লক নেস দানব
     br: Euzhvil al Loch Nis
@@ -96,11 +96,11 @@ dv_has_:
     cs: Lochnesská nestvůra
     da: Loch Ness-uhyret
     de: Ungeheuer von Loch Ness
-    de-ch: Ungeheuer von Loch Ness
+    de_ch: Ungeheuer von Loch Ness
     el: Τέρας του Λοχ Νες
     en: Loch Ness Monster
-    en-ca: Loch Ness Monster
-    en-gb: Loch Ness Monster
+    en_ca: Loch Ness Monster
+    en_gb: Loch Ness Monster
     eo: Monstro de Loch Ness
     es: Monstruo del lago Ness
     et: Nessie
@@ -134,7 +134,7 @@ dv_has_:
     oc: Monstre del lac Ness
     pl: Potwór z Loch Ness
     pt: Monstro do lago Ness
-    pt-br: Monstro do lago Ness
+    pt_br: Monstro do lago Ness
     ro: Monstrul din Loch Ness
     ru: Лох-несское чудовище
     sco: Nessie
@@ -155,7 +155,7 @@ dv_has_:
     wuu: 尼斯湖水怪
     yue: 尼斯湖水怪
     zh: 尼斯湖水怪
-    zh-tw: 尼斯湖水怪
+    zh_tw: 尼斯湖水怪
 ---
 # [[Loch_Ness_Monster]] 
 

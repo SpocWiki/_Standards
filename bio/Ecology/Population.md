@@ -106,7 +106,7 @@ dv_has_:
     ba: популяция
     bcl: populasyon
     be: папуляцыя
-    be-tarask: папуляцыя
+    be_tarask: папуляцыя
     bg: популация
     bn: জীবগোষ্ঠী
     bs: populacija
@@ -143,7 +143,7 @@ dv_has_:
     kaa: xalıq sanı
     kk: популяция
     ko: 개체군
-    ku-latn: komeleya zîndeyî
+    ku_latn: komeleya zîndeyî
     ky: популяция
     li: Populatie
     lt: populiacija
@@ -151,7 +151,7 @@ dv_has_:
     mk: populacija
     ml: ജനസംഖ്യ
     ms: populasi
-    ms-arab: ڤوڤولاسي
+    ms_arab: ڤوڤولاسي
     nan: kò-thé-kûn
     nb: populasjon
     ne: जनसङख्या
@@ -192,7 +192,7 @@ dv_has_:
     xmf: პოპულაცია
     yue: 種群
     zh: 种群
-    zh-hant: 種群
+    zh_hant: 種群
 ---
 # [[Population]] 
 

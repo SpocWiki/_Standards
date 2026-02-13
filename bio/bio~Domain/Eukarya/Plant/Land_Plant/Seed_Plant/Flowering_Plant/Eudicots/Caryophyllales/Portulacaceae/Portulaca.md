@@ -124,8 +124,8 @@ dv_has_:
     kk: Қараот
     ko: 쇠비름속
     ku: Pirpîrîn
-    ku-arab: پرپیرین
-    ku-latn: Pirpîrîn
+    ku_arab: پرپیرین
+    ku_latn: Pirpîrîn
     la: Portulaca
     ml: പത്ത്മണി ചെടി
     mul: Portulaca
@@ -133,14 +133,14 @@ dv_has_:
     oc: Portulaca
     pl: Portulaka
     pt: Portulaca
-    pt-br: Portulaca
+    pt_br: Portulaca
     ro: Portulaca
     ru: портулак
     sk: portulaka
     sq: Portulaca
     sr: Portulaca
-    sr-ec: Portulaca
-    sr-el: Portulaca
+    sr_ec: Portulaca
+    sr_el: Portulaca
     sv: Portlaker
     tl: Kulasiman
     tr: Portulaca
@@ -150,12 +150,12 @@ dv_has_:
     war: Portulaca
     xmf: ვაღურია
     zh: 马齿苋属
-    zh-cn: 马齿苋属
-    zh-hans: 马齿苋属
-    zh-hant: 馬齒莧屬
-    zh-hk: 馬齒莧屬
-    zh-sg: 马齿苋属
-    zh-tw: 馬齒莧屬
+    zh_cn: 马齿苋属
+    zh_hans: 马齿苋属
+    zh_hant: 馬齒莧屬
+    zh_hk: 馬齒莧屬
+    zh_sg: 马齿苋属
+    zh_tw: 馬齒莧屬
 ---
 # [[Portulaca]] 
 

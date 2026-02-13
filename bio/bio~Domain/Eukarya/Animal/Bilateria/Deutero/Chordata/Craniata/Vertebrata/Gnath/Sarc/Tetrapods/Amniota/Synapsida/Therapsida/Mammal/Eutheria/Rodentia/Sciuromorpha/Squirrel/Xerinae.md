@@ -41,11 +41,11 @@ dv_has_:
     ceb: Xerinae
     cs: Xerinae
     de: Erdhörnchen
-    de-ch: Erdhörnchen
+    de_ch: Erdhörnchen
     el: Ξερινές
     en: Xerinae
-    en-ca: Xerinae
-    en-gb: Xerinae
+    en_ca: Xerinae
+    en_gb: Xerinae
     eo: Xerinae
     es: Xerinae
     eu: Xerinae
@@ -73,7 +73,7 @@ dv_has_:
     oc: Xerinae
     pl: afrowiórki
     pt: Xerinae
-    pt-br: Xerinae
+    pt_br: Xerinae
     ro: Xerinae
     ru: Xerinae
     sl: Xerinae
@@ -84,9 +84,9 @@ dv_has_:
     vo: Xerinae
     war: Xerinae
     zh: 非洲地松鼠亞科
-    zh-cn: 非洲地松鼠亚科
-    zh-hant: 非洲地松鼠亞科
-    zh-tw: 非洲地松鼠亞科
+    zh_cn: 非洲地松鼠亚科
+    zh_hant: 非洲地松鼠亞科
+    zh_tw: 非洲地松鼠亞科
 ---
 # [[Xerinae]] 
 

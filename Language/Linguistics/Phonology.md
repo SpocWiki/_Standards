@@ -116,7 +116,7 @@ dv_has_:
     ban: fonologi
     bcl: ponolohiya
     be: фаналогія
-    be-tarask: фаналёгія
+    be_tarask: фаналёгія
     bew: èlmu bunyi
     bg: фонология
     bn: ধ্বনিতত্ত্ব
@@ -131,12 +131,12 @@ dv_has_:
     cy: ffonoleg
     da: fonologi
     de: Phonologie
-    de-ch: Phonologie
+    de_ch: Phonologie
     diq: vengşınasiye
     el: φωνολογία
     en: phonology
-    en-ca: phonology
-    en-gb: phonology
+    en_ca: phonology
+    en_gb: phonology
     eo: fonologio
     es: fonología
     et: fonoloogia
@@ -187,7 +187,7 @@ dv_has_:
     mk: фонологија
     mr: उच्चारशास्त्र
     ms: fonologi
-    ms-arab: فونولوݢي
+    ms_arab: فونولوݢي
     mt: fonoloġija
     my: ဝါစဿရဗေဒ
     nb: fonologi
@@ -202,7 +202,7 @@ dv_has_:
     pnb: صوتیات
     ps: غږپوهنه
     pt: fonologia
-    pt-br: fonologia
+    pt_br: fonologia
     rm: fonologia
     ro: fonologie
     ru: фонология
@@ -242,10 +242,10 @@ dv_has_:
     yue: 聲韻學
     zgh: ⵜⴰⵙⵏⵎⵙⵍⵉⵜ
     zh: 音系學
-    zh-cn: 音系学
-    zh-hans: 音系学
-    zh-hant: 音系學
-    zh-tw: 音系學
+    zh_cn: 音系学
+    zh_hans: 音系学
+    zh_hant: 音系學
+    zh_tw: 音系學
 ---
 # [[Phonology]] 
 

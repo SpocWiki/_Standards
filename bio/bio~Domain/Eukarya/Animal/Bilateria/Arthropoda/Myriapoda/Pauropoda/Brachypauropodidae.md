@@ -31,7 +31,7 @@ dv_has_:
     oc: Brachypauropodidae
     pl: Brachypauropodidae
     pt: Brachypauropodidae
-    pt-br: Brachypauropodidae
+    pt_br: Brachypauropodidae
     ro: Brachypauropodidae
     ru: Brachypauropodidae
     sq: Brachypauropodidae
@@ -42,8 +42,8 @@ dv_has_:
     vo: Brachypauropodidae
     war: Brachypauropodidae
     zh: 短䗃科
-    zh-cn: 短䗃科
-    zh-tw: 短䗃科
+    zh_cn: 短䗃科
+    zh_tw: 短䗃科
 ---
 # [[Brachypauropodidae]] 
 

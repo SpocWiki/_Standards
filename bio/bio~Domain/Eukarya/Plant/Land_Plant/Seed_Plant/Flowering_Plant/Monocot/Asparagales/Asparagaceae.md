@@ -128,7 +128,7 @@ dv_has_:
     az: Qulançarkimilər
     bar: Asparagaceae
     be: Спаржавыя
-    be-tarask: спаржавыя
+    be_tarask: спаржавыя
     bg: Зайчесянкови
     br: Asparagaceae
     bs: Asparagaceae
@@ -140,11 +140,11 @@ dv_has_:
     da: asparges-familien
     de: Spargelgewächse
     de-at: Asparagaceae
-    de-ch: Asparagaceae
+    de_ch: Asparagaceae
     el: Ασπαραγοειδή
     en: Asparagaceae
-    en-ca: Asparagaceae
-    en-gb: Asparagaceae
+    en_ca: Asparagaceae
+    en_gb: Asparagaceae
     eo: Asparagacoj
     es: Asparagaceae
     et: Asparilised
@@ -179,8 +179,8 @@ dv_has_:
     kk: Қасқыржемдер тұқымдасы
     ko: 비짜루과
     ku: Famîleya çavmarkan
-    ku-arab: فامیلەیا چاڤمارکان
-    ku-latn: Famîleya çavmarkan
+    ku_arab: فامیلەیا چاڤمارکان
+    ku_latn: Famîleya çavmarkan
     la: Asparagaceae
     lb: Asparagaceae
     li: Asparagaceae
@@ -197,7 +197,7 @@ dv_has_:
     nap: Asparagaceae
     nb: Aspargesfamilien
     nds: Asparagaceae
-    nds-nl: Asparagaceae
+    nds_nl: Asparagaceae
     nl: Aspergefamilie
     nn: aspargesfamilien
     nrm: Asparagaceae
@@ -208,7 +208,7 @@ dv_has_:
     pl: szparagowate
     pms: Asparagaceae
     pt: Asparagaceae
-    pt-br: Asparagaceae
+    pt_br: Asparagaceae
     qu: Isparaw yura rikch'aq ayllu
     rm: Asparagaceae
     ro: Asparagaceae
@@ -240,12 +240,12 @@ dv_has_:
     yue: 天門冬科
     za: Gohdenhmwnzdungh
     zh: 天门冬科
-    zh-cn: 天门冬科
-    zh-hans: 天门冬科
-    zh-hant: 天門冬科
-    zh-hk: 天門冬科
-    zh-sg: 天门冬科
-    zh-tw: 天門冬科
+    zh_cn: 天门冬科
+    zh_hans: 天门冬科
+    zh_hant: 天門冬科
+    zh_hk: 天門冬科
+    zh_sg: 天门冬科
+    zh_tw: 天門冬科
     zu: Asparagaceae
 ---
 # [[Asparagaceae]] 

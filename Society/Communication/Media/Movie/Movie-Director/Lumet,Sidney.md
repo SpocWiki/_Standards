@@ -115,7 +115,7 @@ dv_has_:
     ast: Sidney Lumet
     azb: سیدنی لومت
     be: Сідні Люмет
-    be-tarask: Сыдні Лумэт
+    be_tarask: Сыдні Лумэт
     bg: Сидни Лумет
     bn: সিডনি লুমেট
     bs: Sidney Lumet
@@ -127,8 +127,8 @@ dv_has_:
     el: Σίντνεϊ Λουμέτ
     eml: Sidney Lumet
     en: Sidney Lumet
-    en-ca: Sidney Lumet
-    en-gb: Sidney Lumet
+    en_ca: Sidney Lumet
+    en_gb: Sidney Lumet
     eo: Sidney Lumet
     es: Sidney Lumet
     et: Sidney Lumet
@@ -166,7 +166,7 @@ dv_has_:
     pap: Sidney Lumet
     pl: Sidney Lumet
     pt: Sidney Lumet
-    pt-br: Sidney Lumet
+    pt_br: Sidney Lumet
     ro: Sidney Lumet
     ru: Сидни Люмет
     sco: Sidney Lumet
@@ -181,7 +181,7 @@ dv_has_:
     th: ซิดนีย์ ลูเมต
     tr: Sidney Lumet
     tt: Сидни Лүмет
-    tt-cyrl: Сидни Лүмет
+    tt_cyrl: Сидни Лүмет
     uk: Сідні Люмет
     ur: سڈنی لومیٹ
     vi: Sidney Lumet
@@ -190,12 +190,12 @@ dv_has_:
     xmf: სიდნი ლუმეტი
     yue: 薛尼·盧密
     zh: 薛尼·盧梅
-    zh-cn: 希德尼·鲁迈特
-    zh-hant: 薛尼·盧梅
-    zh-hk: 薛尼·盧密
+    zh_cn: 希德尼·鲁迈特
+    zh_hant: 薛尼·盧梅
+    zh_hk: 薛尼·盧密
     zh-my: 薛尼·卢密
-    zh-sg: 薛尼·卢密
-    zh-tw: 薛尼·盧梅
+    zh_sg: 薛尼·卢密
+    zh_tw: 薛尼·盧梅
 ---
 # [[Lumet,Sidney]] 
 

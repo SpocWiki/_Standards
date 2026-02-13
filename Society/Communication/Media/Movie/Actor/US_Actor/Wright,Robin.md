@@ -45,7 +45,7 @@ dv_has_:
     az: Robin Rayt
     azb: رابین رایت
     be: Робін Райт
-    be-tarask: Робін Райт
+    be_tarask: Робін Райт
     bg: Робин Райт
     bn: রবিন রাইট
     br: Robin Wright
@@ -55,11 +55,11 @@ dv_has_:
     cy: Robin Wright Penn
     da: Robin Wright Penn
     de: Robin Wright
-    de-ch: Robin Wright
+    de_ch: Robin Wright
     el: Ρόμπιν Ράιτ
     en: Robin Wright
-    en-ca: Robin Wright
-    en-gb: Robin Wright
+    en_ca: Robin Wright
+    en_gb: Robin Wright
     en-us: Robin Wright
     eo: Robin Wright Penn
     es: Robin Wright
@@ -94,7 +94,7 @@ dv_has_:
     pap: Robin Wright
     pl: Robin Wright
     pt: Robin Wright Penn
-    pt-br: Robin Wright Penn
+    pt_br: Robin Wright Penn
     ro: Robin Wright
     ru: Робин Райт
     sco: Robin Wright
@@ -104,8 +104,8 @@ dv_has_:
     sl: Robin Wright
     sq: Robin Wright
     sr: Робин Рајт
-    sr-ec: Робин Рајт
-    sr-el: Robin Rajt
+    sr_ec: Робин Рајт
+    sr_el: Robin Rajt
     sv: Robin Wright
     sw: Robin Wright
     ta: ராபின் ரைட்
@@ -120,13 +120,13 @@ dv_has_:
     yo: Robin Wright
     yue: 羅冰活麗
     zh: 罗宾·赖特
-    zh-cn: 罗宾·赖特
-    zh-hans: 罗宾·赖特
-    zh-hant: 羅蘋·萊特
-    zh-hk: 羅冰·活麗
+    zh_cn: 罗宾·赖特
+    zh_hans: 罗宾·赖特
+    zh_hant: 羅蘋·萊特
+    zh_hk: 羅冰·活麗
     zh-my: 罗萍·韦特
-    zh-sg: 罗宾·莱特
-    zh-tw: 羅蘋·萊特·潘
+    zh_sg: 罗宾·莱特
+    zh_tw: 羅蘋·萊特·潘
 ---
 #has_/time_/started :: 1966-04-08 
 

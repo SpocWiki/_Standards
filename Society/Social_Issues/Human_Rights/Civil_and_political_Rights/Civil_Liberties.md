@@ -83,7 +83,7 @@ dv_has_:
     ar: حريات مدنية
     arz: حريات مدنيه
     azb: مدنی اؤزگورلوک
-    be-tarask: грамадзянскія свабоды
+    be_tarask: грамадзянскія свабоды
     bg: Граждански свободи
     bn: ব্যক্তিস্বাধীনতা
     ca: llibertats civils
@@ -135,7 +135,7 @@ dv_has_:
     sl: državljanske svoboščine
     sq: Liritë civile
     sr: грађанске слободе
-    sr-ec: грађанске слободе
+    sr_ec: грађанске слободе
     sv: medborgerliga friheter
     tg: Ҳуқуқу озодиҳои шахсӣ
     tl: Kalayaang sibil
@@ -145,14 +145,14 @@ dv_has_:
     vi: tự do dân sự
     yue: 公民自由
     zh: 公民自由
-    zh-cn: 公民自由
-    zh-hans: 公民自由
-    zh-hant: 公民自由
-    zh-hk: 公民自由
-    zh-mo: 公民自由
+    zh_cn: 公民自由
+    zh_hans: 公民自由
+    zh_hant: 公民自由
+    zh_hk: 公民自由
+    zh_mo: 公民自由
     zh-my: 公民自由
-    zh-sg: 公民自由
-    zh-tw: 公民自由
+    zh_sg: 公民自由
+    zh_tw: 公民自由
 ---
 # [[Civil_Liberties]] 
 

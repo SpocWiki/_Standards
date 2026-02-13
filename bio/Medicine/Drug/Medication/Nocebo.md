@@ -40,10 +40,10 @@ dv_has_:
     cs: Nocebo
     da: nocebo-effekten
     de: Nocebo-Effekt
-    de-ch: Nocebo-Effekt
+    de_ch: Nocebo-Effekt
     en: nocebo
-    en-ca: Nocebo
-    en-gb: nocebo
+    en_ca: Nocebo
+    en_gb: nocebo
     eo: malplacebo
     es: Efecto nocebo
     et: Notseebo
@@ -65,7 +65,7 @@ dv_has_:
     nn: Noceboeffekt
     pl: nocebo
     pt: nocebo
-    pt-br: Nocebo
+    pt_br: Nocebo
     ru: ноцебо
     sl: učinek noceba
     sq: Nocebo

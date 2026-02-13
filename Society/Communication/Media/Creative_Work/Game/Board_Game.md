@@ -138,7 +138,7 @@ dv_has_:
     ast: xuegu de tableru
     az: stolüstü oyun
     be: настольная гульня
-    be-tarask: гульня на дошцы
+    be_tarask: гульня на дошцы
     bg: Игра на дъска
     bjn: Pamainan papan
     bn: ছকের খেলা
@@ -153,7 +153,7 @@ dv_has_:
     de: Brettspiel
     el: επιτραπέζιο παιχνίδι
     en: board game
-    en-gb: Board game
+    en_gb: Board game
     eo: tabulludo
     es: Juego de mesa
     et: lauamäng
@@ -204,7 +204,7 @@ dv_has_:
     pl: gra planszowa
     ps: دړ لوبه
     pt: jogo de tabuleiro
-    pt-br: jogo de tabuleiro
+    pt_br: jogo de tabuleiro
     ro: joc de societate
     ru: настольная игра с полем
     scn: jocu di tàvulu
@@ -216,15 +216,15 @@ dv_has_:
     smn: lyevdispellâ
     sms: luʹvddspeâll
     sr: игра на табли
-    sr-ec: игра на табли
-    sr-el: igra na tabli
+    sr_ec: игра на табли
+    sr_el: igra na tabli
     sv: brädspel
     ta: பலகை விளையாட்டு
     th: เกมกระดาน
     tl: board game
     tr: masa oyunu
     tt: махсус тактадагы уен
-    tt-cyrl: махсус тактадагы уен
+    tt_cyrl: махсус тактадагы уен
     uk: гра на спеціальній дошці
     ur: بورڈ گیم
     vec: Xugo da toła
@@ -233,12 +233,12 @@ dv_has_:
     wuu: 图版游戏
     yue: 圖板遊戲
     zh: 圖版遊戲
-    zh-cn: 图版游戏
-    zh-hans: 图版游戏
-    zh-hant: 圖版遊戲
-    zh-hk: 圖版遊戲
-    zh-sg: 图版游戏
-    zh-tw: 圖版遊戲
+    zh_cn: 图版游戏
+    zh_hans: 图版游戏
+    zh_hant: 圖版遊戲
+    zh_hk: 圖版遊戲
+    zh_sg: 图版游戏
+    zh_tw: 圖版遊戲
 ---
 # [[Board_Game]] 
 

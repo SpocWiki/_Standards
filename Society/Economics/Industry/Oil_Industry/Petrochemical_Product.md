@@ -57,15 +57,15 @@ Commons_category: Petrochemicals
 dv_has_:
   name_:
     ar: بتروكيمياويات
-    be-tarask: нафтахімічны прадукт
+    be_tarask: нафтахімічны прадукт
     bn: পেট্রোরাসায়নিক
     ca: producte petroquímic
     da: petrokemisk
     de: petrochemisches Produkt
     el: Πετροχημικά
     en: petrochemical product
-    en-ca: petrochemical
-    en-gb: petrochemical
+    en_ca: petrochemical
+    en_gb: petrochemical
     eo: petrokemiaĵo
     es: productos petroquímicos
     eu: produktu petrokimiko
@@ -101,8 +101,8 @@ dv_has_:
     vi: dầu hóa chất
     yue: 石化產品
     zh: 石化產物
-    zh-cn: 石化产品
-    zh-hant: 石化產品
+    zh_cn: 石化产品
+    zh_hant: 石化產品
 ---
 # [[Petrochemical_Product]]  
 

@@ -151,7 +151,7 @@ dv_has_:
     ban: Hangeul
     bcl: Hangul
     be: хангыль
-    be-tarask: хангыль
+    be_tarask: хангыль
     bg: Хангъл
     bjn: Hangul
     bn: হান্গেউল
@@ -173,8 +173,8 @@ dv_has_:
     dsb: Korejańske pismo
     el: χανγκούλ
     en: Hangul
-    en-ca: Hangul
-    en-gb: Hangul
+    en_ca: Hangul
+    en_gb: Hangul
     eo: korea alfabeto
     es: hangul
     et: korea kiri
@@ -240,7 +240,7 @@ dv_has_:
     pnb: ہنگول
     ps: کوریایي ژبه
     pt: Hangul
-    pt-br: Hangul
+    pt_br: Hangul
     pwn: hangul
     ro: hangul
     ru: хангыль
@@ -268,7 +268,7 @@ dv_has_:
     tpi: Hangul
     tr: Hangıl
     tt: һангыл
-    tt-cyrl: һангыл
+    tt_cyrl: һангыл
     tyv: Хангыль
     uk: хангиль
     ur: ہنگل رسمِ خط
@@ -281,14 +281,14 @@ dv_has_:
     yi: האנגול
     yue: 諺文
     zh: 諺文
-    zh-cn: 谚文
-    zh-hans: 諺文
-    zh-hant: 諺文
-    zh-hk: 諺文
-    zh-mo: 諺文
+    zh_cn: 谚文
+    zh_hans: 諺文
+    zh_hant: 諺文
+    zh_hk: 諺文
+    zh_mo: 諺文
     zh-my: 諺文
-    zh-sg: 諺文
-    zh-tw: 諺文
+    zh_sg: 諺文
+    zh_tw: 諺文
 ---
 # [[Script~Hang]] 
 

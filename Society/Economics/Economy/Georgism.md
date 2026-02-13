@@ -76,7 +76,7 @@ dv_has_:
     nn: georgisme
     pl: georgizm
     pt: georgismo
-    pt-br: georgismo
+    pt_br: georgismo
     ro: georgism
     ru: Джорджизм
     sk: georgizmus

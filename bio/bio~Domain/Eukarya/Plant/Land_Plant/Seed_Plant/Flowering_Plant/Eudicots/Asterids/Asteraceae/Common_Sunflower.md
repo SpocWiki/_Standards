@@ -251,7 +251,7 @@ taxon_name: Helianthus annuus
 NBN_System_Key: NBNSYS0000037346
 dv_has_:
   name_:
-    aeb-arab: عبّيدة الشّمس
+    aeb_arab: عبّيدة الشّمس
     am: የፈረንጅ ሱፍ
     an: Helianthus annuus
     ang: Sōlate
@@ -264,7 +264,7 @@ dv_has_:
     ban: Bunga matahari
     bdr: Bungo motoelau
     be: сланечнік аднагадовы
-    be-tarask: сланечнік звычайны
+    be_tarask: сланечнік звычайны
     bg: слънчоглед
     bn: সূর্যমুখী
     bo: ཉི་མ་མེ་ཏོག
@@ -279,7 +279,7 @@ dv_has_:
     cy: Blodyn yr haul
     da: almindelig solsikke
     de: Sonnenblume
-    de-ch: Sonnenblume
+    de_ch: Sonnenblume
     diq: Vılaroci
     dsb: Słyńca
     dtp: bungadau
@@ -287,8 +287,8 @@ dv_has_:
     el: ηλίανθος
     eml: Mirasōl
     en: common sunflower
-    en-ca: sunflower
-    en-gb: sunflower
+    en_ca: sunflower
+    en_gb: sunflower
     en-us: common sunflower
     eo: Sunfloro
     es: girasol
@@ -344,7 +344,7 @@ dv_has_:
     mzn: سمشکه
     nah: Chīmalxōchitl
     nb: solsikke
-    nds-nl: zunnebloeme
+    nds_nl: zunnebloeme
     ne: सूर्यमुखी फूल
     nl: zonnebloem
     nn: solsikke
@@ -357,7 +357,7 @@ dv_has_:
     pnb: سورج مکھی
     ps: لمرګلی
     pt: girassol
-    pt-br: Girassol
+    pt_br: Girassol
     qu: Inti wayta
     ro: Floarea soarelui
     ru: подсолнечник однолетний
@@ -391,7 +391,7 @@ dv_has_:
     tl: Helianthus annuus
     tr: ayçiçeği
     tt: берьеллык көнбагыш
-    tt-cyrl: берьеллык көнбагыш
+    tt_cyrl: берьеллык көнбагыш
     tyv: Тарымал тоорук
     ug: ئاپتاپپەرەس
     uk: соняшник
@@ -403,9 +403,9 @@ dv_has_:
     wuu: 向日葵
     yue: 向日葵
     zh: 向日葵
-    zh-cn: 向日葵
-    zh-hant: 向日葵
-    zh-tw: 向日葵
+    zh_cn: 向日葵
+    zh_hant: 向日葵
+    zh_tw: 向日葵
 ---
 # [[Common_Sunflower]] 🌻 
 

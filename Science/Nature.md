@@ -175,7 +175,7 @@ dv_has_:
     ba: тәбиғәт
     bar: Natua
     be: прырода
-    be-tarask: прырода
+    be_tarask: прырода
     bg: природа
     bho: प्रकृति
     bn: প্রকৃতি
@@ -198,8 +198,8 @@ dv_has_:
     dsb: pśiroda
     el: φύση
     en: nature
-    en-ca: Nature
-    en-gb: nature
+    en_ca: Nature
+    en_gb: nature
     eo: naturo
     es: naturaleza
     et: loodus
@@ -272,7 +272,7 @@ dv_has_:
     mn: байгаль
     mr: निसर्ग
     ms: alam semula jadi
-    ms-arab: عالم سمولا جادي
+    ms_arab: عالم سمولا جادي
     mt: natura
     mwl: natureza
     my: သဘာဝ
@@ -300,7 +300,7 @@ dv_has_:
     pnb: قدرت
     ps: طبيعت
     pt: natureza
-    pt-br: natureza
+    pt_br: natureza
     qu: sallqa pacha
     rm: Natira
     ro: natură
@@ -333,7 +333,7 @@ dv_has_:
     ta: இயற்கை
     te: ప్రకృతి
     tg: табиат
-    tg-cyrl: табиат
+    tg_cyrl: табиат
     th: ธรรมชาติ
     tk: Tebigat
     tl: kalikasan
@@ -342,8 +342,8 @@ dv_has_:
     tr: doğa
     ts: ntumbuluko
     tt: табигать
-    tt-cyrl: табигать
-    tt-latn: tabiğät
+    tt_cyrl: табигать
+    tt_latn: tabiğät
     udm: инкуазь
     uk: природа
     ur: فطرت
@@ -362,14 +362,14 @@ dv_has_:
     yue: 自然
     za: mbwnnamh
     zh: 自然
-    zh-cn: 自然
-    zh-hans: 自然
-    zh-hant: 自然
-    zh-hk: 自然
-    zh-mo: 自然
+    zh_cn: 自然
+    zh_hans: 自然
+    zh_hant: 自然
+    zh_hk: 自然
+    zh_mo: 自然
     zh-my: 自然
-    zh-sg: 自然
-    zh-tw: 自然
+    zh_sg: 自然
+    zh_tw: 自然
     zu: imvelo
 ---
 # [[Nature]] 

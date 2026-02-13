@@ -145,7 +145,7 @@ dv_has_:
     ast: Wim Wenders
     az: Vim Venders
     be: Вім Вендэрс
-    be-tarask: Вім Вэндэрс
+    be_tarask: Вім Вэндэрс
     bg: Вим Вендерс
     bn: ভিম ভেন্ডার্স
     bs: Wim Wenders
@@ -154,12 +154,12 @@ dv_has_:
     da: Wim Wenders
     dag: Wim Wenders
     de: Wim Wenders
-    de-ch: Wim Wenders
+    de_ch: Wim Wenders
     dsb: Wim Wenders
     el: Βιμ Βέντερς
     en: Wim Wenders
-    en-ca: Wim Wenders
-    en-gb: Wim Wenders
+    en_ca: Wim Wenders
+    en_gb: Wim Wenders
     eo: Wim Wenders
     es: Wim Wenders
     et: Wim Wenders
@@ -195,7 +195,7 @@ dv_has_:
     pa: ਵਿਮ ਵੈਂਡਰਜ਼
     pl: Wim Wenders
     pt: Wim Wenders
-    pt-br: Wim Wenders
+    pt_br: Wim Wenders
     ro: Wim Wenders
     ru: Вим Вендерс
     sc: Wim Wenders
@@ -213,11 +213,11 @@ dv_has_:
     wuu: 维姆·文德斯
     yue: 雲溫達斯
     zh: 文·溫德斯
-    zh-hant: 文·溫德斯
-    zh-hk: 雲·溫達斯
+    zh_hant: 文·溫德斯
+    zh_hk: 雲·溫達斯
     zh-my: 文·温德斯
-    zh-sg: 文·温德斯
-    zh-tw: 文·溫德斯
+    zh_sg: 文·温德斯
+    zh_tw: 文·溫德斯
 ---
 # [[Wenders,Wim]] 
 

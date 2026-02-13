@@ -131,7 +131,7 @@ dv_has_:
     ast: Corriente marina
     az: dəniz cərəyanı
     be: марскія цячэнні
-    be-tarask: марская плынь
+    be_tarask: марская плынь
     bg: Океанско течение
     bho: महासागरीय धारा
     bn: মহাসাগরীয় স্রোত
@@ -165,11 +165,11 @@ dv_has_:
     ja: 海流
     ka: ზღვის დინებები
     kk: Мұхит және теңіз ағыстары
-    kk-arab: مۇحىيت جانە تەڭىز اعىستارى
+    kk_arab: مۇحىيت جانە تەڭىز اعىستارى
     kk-cn: مۇحىيت جانە تەڭىز اعىستارى
-    kk-cyrl: Мұхит және теңіз ағыстары
+    kk_cyrl: Мұхит және теңіз ағыстары
     kk-kz: Мұхит және теңіз ағыстары
-    kk-latn: Muxït jäne teñiz ağıstarı
+    kk_latn: Muxït jäne teñiz ağıstarı
     kk-tr: Muxït jäne teñiz ağıstarı
     km: ខ្សែទឹកមហាសមុទ្រ
     ko: 해류
@@ -191,7 +191,7 @@ dv_has_:
     pa: ਸਮੁੰਦਰੀ ਰੌਆਂ
     pl: prąd morski
     pt: corrente oceânica
-    pt-br: corrente marinha
+    pt_br: corrente marinha
     ro: curent marin
     ru: морское течение
     se: mearrarávdnji
@@ -202,8 +202,8 @@ dv_has_:
     sms: miârrveʹrdd
     sq: Rrymat detare
     sr: Морска струја
-    sr-ec: Морска струја
-    sr-el: Morska struja
+    sr_ec: Морска струја
+    sr_el: Morska struja
     sv: havsström
     sw: Mkondo wa bahari
     ta: பெருங்கடல் நீரோட்டம்
@@ -217,12 +217,12 @@ dv_has_:
     wuu: 洋流
     yue: 洋流
     zh: 洋流
-    zh-cn: 洋流
-    zh-hans: 洋流
-    zh-hant: 洋流
-    zh-hk: 洋流
-    zh-sg: 洋流
-    zh-tw: 洋流
+    zh_cn: 洋流
+    zh_hans: 洋流
+    zh_hant: 洋流
+    zh_hk: 洋流
+    zh_sg: 洋流
+    zh_tw: 洋流
 ---
 # [[Ocean_Current]] 
 

@@ -63,15 +63,15 @@ dv_has_:
   name_:
     ar: خضاب حيوي
     ast: Pigmentos en seres vivos
-    be-tarask: фарбнік
+    be_tarask: фарбнік
     bn: জৈব পিগমেন্ট
     bs: Biološki pigment
     ca: pigment biològic
     cs: biologický pigment
     de: Pigment (Biologie)
     en: biological pigment
-    en-ca: Biological pigment
-    en-gb: Biological pigment
+    en_ca: Biological pigment
+    en_gb: Biological pigment
     eo: biologia pigmento
     es: pigmento biológico
     et: Pigment (bioloogia)
@@ -99,7 +99,7 @@ dv_has_:
     nn: biologisk pigment
     pl: pigment biologiczny
     pt: biocromo
-    pt-br: Biocromo
+    pt_br: Biocromo
     ru: биологические пигменты
     sah: Пигмент
     sl: biološki pigment
@@ -112,9 +112,9 @@ dv_has_:
     vi: Sắc tố sinh học
     yue: 生物色素
     zh: 生物色素
-    zh-hans: 生物色素
-    zh-hant: 生物色素
-    zh-hk: 生物色素
+    zh_hans: 生物色素
+    zh_hant: 生物色素
+    zh_hk: 生物色素
 ---
 # [[Biological_Pigment]] 
 

@@ -78,7 +78,7 @@ dv_has_:
     pl: Iguania
     pnb: ایگوانیا
     pt: Iguania
-    pt-br: Iguania
+    pt_br: Iguania
     ro: Iguania
     ru: игуанообразные
     sk: Leguány
@@ -92,9 +92,9 @@ dv_has_:
     vo: Iguania
     war: Iguania
     zh: 端生齿鬣蜥亚目
-    zh-cn: 端生齿鬣蜥亚目
-    zh-hans: 端生齿鬣蜥亚目
-    zh-tw: 鬣蜥亞目
+    zh_cn: 端生齿鬣蜥亚目
+    zh_hans: 端生齿鬣蜥亚目
+    zh_tw: 鬣蜥亞目
 ---
 # [[Iguania]] 
 

@@ -178,7 +178,7 @@ dv_has_:
     bar: Rafael Nadal
     bcl: Rafael Nadal
     be: Рафаэль Надаль
-    be-tarask: Рафаэль Надаль
+    be_tarask: Рафаэль Надаль
     bg: Рафаел Надал
     bn: রাফায়েল নাদাল
     br: Rafael Nadal
@@ -194,14 +194,14 @@ dv_has_:
     cy: Rafael Nadal
     da: Rafael Nadal
     de: Rafael Nadal
-    de-ch: Rafael Nadal
+    de_ch: Rafael Nadal
     diq: Rafael Nadal
     dsb: Rafael Nadal
     el: Ραφαέλ Ναδάλ
     eml: Rafael Nadal
     en: Rafael Nadal
-    en-ca: Rafael Nadal
-    en-gb: Rafael Nadal
+    en_ca: Rafael Nadal
+    en_gb: Rafael Nadal
     eo: Rafael Nadal
     es: Rafael Nadal
     et: Rafael Nadal
@@ -283,7 +283,7 @@ dv_has_:
     pnb: رافیل ندال
     ps: Rafael Nadal
     pt: Rafael Nadal
-    pt-br: Rafael Nadal
+    pt_br: Rafael Nadal
     qu: Rafael Nadal
     rm: Rafael Nadal
     rmf: Rafael Nadal
@@ -333,10 +333,10 @@ dv_has_:
     yo: Rafael Nadal
     yue: 拿度
     zh: 拉斐尔·纳达尔
-    zh-hans: 拉斐尔·纳达尔
-    zh-hant: 拉斐爾·納達爾
-    zh-hk: 拉斐·拿度
-    zh-tw: 拉斐爾·納達爾
+    zh_hans: 拉斐尔·纳达尔
+    zh_hant: 拉斐爾·納達爾
+    zh_hk: 拉斐·拿度
+    zh_tw: 拉斐爾·納達爾
 ---
 # [[Nadal,Rafael]] 
 

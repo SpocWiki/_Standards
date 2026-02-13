@@ -229,7 +229,7 @@ dv_has_:
     ban: Potasium
     bcl: Potasyo
     be: Калій
-    be-tarask: каль
+    be_tarask: каль
     bg: калий
     bho: पोटैशियम
     blk: ပိုတဲတ်သီယမ်
@@ -248,12 +248,12 @@ dv_has_:
     cy: potasiwm
     da: kalium
     de: Kalium
-    de-ch: Kalium
+    de_ch: Kalium
     dv: ޕޮޓޭސިއަމް
     el: κάλιο
     en: potassium
-    en-ca: Potassium
-    en-gb: potassium
+    en_ca: Potassium
+    en_gb: potassium
     eo: kalio
     es: potasio
     et: kaalium
@@ -324,7 +324,7 @@ dv_has_:
     mr: पलाश
     mrj: Калий
     ms: kalium
-    ms-arab: کاليوم
+    ms_arab: کاليوم
     mt: potassju
     mul: K
     my: ပိုတက်ဆီယမ်
@@ -350,7 +350,7 @@ dv_has_:
     pnb: پوٹاشیم
     ps: پوتاشیم
     pt: potássio
-    pt-br: potássio
+    pt_br: potássio
     qu: Kalyu
     ro: potasiu
     ru: калий
@@ -380,7 +380,7 @@ dv_has_:
     tok: ijo lili nanpa 19
     tr: potasyum
     tt: калий
-    tt-cyrl: калий
+    tt_cyrl: калий
     ug: كالىي
     uk: калій
     ur: اُشنانصر
@@ -398,11 +398,11 @@ dv_has_:
     yue: 鉀
     za: Gyaz
     zh: 鉀
-    zh-cn: 钾
-    zh-hans: 钾
-    zh-hant: 鉀
-    zh-hk: 鉀
-    zh-tw: 鉀
+    zh_cn: 钾
+    zh_hans: 钾
+    zh_hant: 鉀
+    zh_hk: 鉀
+    zh_tw: 鉀
     zu: Potassium nitrate
   number_of_:
     period: 4

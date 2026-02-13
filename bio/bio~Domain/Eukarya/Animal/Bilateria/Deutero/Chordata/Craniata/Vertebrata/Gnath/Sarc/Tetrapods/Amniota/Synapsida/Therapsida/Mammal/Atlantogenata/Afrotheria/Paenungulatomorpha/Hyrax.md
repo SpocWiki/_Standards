@@ -47,7 +47,7 @@ dv_has_:
     arz: وبريات
     ast: Procaviidae
     avk: nokoleem
-    be-tarask: Даманы
+    be_tarask: Даманы
     bg: даманови
     ca: Procàvids
     ceb: Procaviidae
@@ -80,7 +80,7 @@ dv_has_:
     oc: Procaviidae
     pl: góralkowate
     pt: Procaviidae
-    pt-br: Procaviidae
+    pt_br: Procaviidae
     ro: Procaviidae
     ru: дамановые
     sk: Procaviidae
@@ -91,8 +91,8 @@ dv_has_:
     vo: Procaviidae
     war: Procaviidae
     zh: 蹄兔科
-    zh-cn: 蹄兔科
-    zh-tw: 蹄兔科
+    zh_cn: 蹄兔科
+    zh_tw: 蹄兔科
 ---
 # [[Hyrax]] 
 

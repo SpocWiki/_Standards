@@ -270,7 +270,7 @@ dv_has_:
     az: Joan Miro
     ba: Жоан Миро
     be: Жуан Міро
-    be-tarask: Жаан Міро
+    be_tarask: Жаан Міро
     bg: Жоан Миро
     bn: জোয়ান মিরো
     br: Joan Miró
@@ -282,11 +282,11 @@ dv_has_:
     da: Joan Miró
     dag: Joan Miró
     de: Joan Miró
-    de-ch: Joan Miró
+    de_ch: Joan Miró
     el: Ζουάν Μιρό
     en: Joan Miró
-    en-ca: Joan Miró
-    en-gb: Joan Miró
+    en_ca: Joan Miró
+    en_gb: Joan Miró
     eo: Joan Miró
     es: Joan Miró
     et: Joan Miró
@@ -316,7 +316,7 @@ dv_has_:
     kl: Joan Miró
     ko: 호안 미로
     ku: Joan Miró
-    ku-latn: Joan Miró
+    ku_latn: Joan Miró
     la: Ioannes Miró
     lad: Miro
     lb: Joan Miró
@@ -337,7 +337,7 @@ dv_has_:
     pms: Joan Miró
     pnb: یوان مائرو
     pt: Joan Miró
-    pt-br: Joan Miró
+    pt_br: Joan Miró
     qu: Joan Miró
     rm: Joan Miró
     rmf: Joan Miró
@@ -356,8 +356,8 @@ dv_has_:
     sms: Joan Miró
     sq: Joan Miró
     sr: Ђоан Миро
-    sr-ec: Жуан Миро
-    sr-el: Đoan Miro
+    sr_ec: Жуан Миро
+    sr_el: Đoan Miro
     sv: Joan Miró
     sw: Joan Miró
     th: ฌูอัน มิโร
@@ -370,12 +370,12 @@ dv_has_:
     yo: Joan Miró
     yue: 米羅
     zh: 胡安·米羅
-    zh-cn: 胡安·米罗
-    zh-hans: 胡安·米罗
-    zh-hant: 胡安·米羅
-    zh-hk: 胡安·米羅
-    zh-sg: 胡安·米罗
-    zh-tw: 胡安·米羅
+    zh_cn: 胡安·米罗
+    zh_hans: 胡安·米罗
+    zh_hant: 胡安·米羅
+    zh_hk: 胡安·米羅
+    zh_sg: 胡安·米罗
+    zh_tw: 胡安·米羅
     zu: Joan Miró
 ---
 # [[Miró,Joan]] 

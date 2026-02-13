@@ -24,7 +24,7 @@ dv_has_:
     ab: Бельгиа
     ace: Bèlgia
     ady: Белгие
-    aeb-arab: بلجيكيا
+    aeb_arab: بلجيكيا
     af: België
     am: ቤልጅግ
     ami: Belguim
@@ -49,7 +49,7 @@ dv_has_:
     bar: Bäigien
     bcl: Belhika
     be: Бельгія
-    be-tarask: Бэльгія
+    be_tarask: Бэльгія
     bew: Bèlgi
     bg: Белгия
     bgn: بلجیم
@@ -65,7 +65,7 @@ dv_has_:
     bug: ᨅᨙᨒᨛᨁᨗᨐ
     bxr: Бельги
     ca: Bèlgica
-    cbk-zam: Bélgica
+    cbk_zam: Bélgica
     cdo: Bī-lé-sì
     ce: Бельги
     ceb: Belhika
@@ -74,7 +74,7 @@ dv_has_:
     ckb: بەلجیکا
     co: Belgiu
     crh: Belçika
-    crh-latn: Belçika
+    crh_latn: Belçika
     cs: Belgie
     csb: Belgijskô
     cu: Бєлгїѥ
@@ -84,7 +84,7 @@ dv_has_:
     dag: Belgium
     de: Belgien
     de-at: Belgien
-    de-ch: Belgien
+    de_ch: Belgien
     diq: Belçıka
     dsb: Belgiska
     dtp: Belgium
@@ -95,8 +95,8 @@ dv_has_:
     el: Βέλγιο
     eml: Bélgi
     en: Belgium
-    en-ca: Belgium
-    en-gb: Belgium
+    en_ca: Belgium
+    en_gb: Belgium
     en-us: Belgium
     eo: Belgio
     es: Bélgica
@@ -121,7 +121,7 @@ dv_has_:
     gn: Véyhika
     gom: बेल्जियम
     gom-deva: बेल्जियम
-    gom-latn: Belgium
+    gom_latn: Belgium
     gor: Belgia
     got: "\U00010331\U00010330\U00010339\U0001033B\U00010332\U00010330\U0001033B\U00010330\U0001033D\U00010333"
     gpe: Belgium
@@ -199,7 +199,7 @@ dv_has_:
     lzh: 比利時
     mad: Belgia
     mai: बेल्जियम
-    map-bms: Belgia
+    map_bms: Belgia
     mdf: Бэльгия
     mg: Belzika
     mhr: Бельгий
@@ -223,7 +223,7 @@ dv_has_:
     nap: Belge
     nb: Belgia
     nds: Belgien
-    nds-nl: België
+    nds_nl: België
     ne: बेल्जियम
     new: बेल्जियम
     nl: België
@@ -254,7 +254,7 @@ dv_has_:
     pnt: Βέλγιον
     ps: بېلجيم
     pt: Bélgica
-    pt-br: Bélgica
+    pt_br: Bélgica
     qu: Bilhika
     rm: Belgia
     rmc: Belgija
@@ -291,8 +291,8 @@ dv_has_:
     so: Beljim
     sq: Belgjika
     sr: Белгија
-    sr-ec: Белгија
-    sr-el: Belgija
+    sr_ec: Белгија
+    sr_el: Belgija
     srn: Belgikondre
     ss: IBhelijiyamu
     stq: Belgien
@@ -345,14 +345,14 @@ dv_has_:
     zea: Belhië
     zgh: ⴱⵍⵊⵉⴽⴰ
     zh: 比利時
-    zh-cn: 比利时
-    zh-hans: 比利时
-    zh-hant: 比利時
-    zh-hk: 比利時
-    zh-mo: 比利時
+    zh_cn: 比利时
+    zh_hans: 比利时
+    zh_hant: 比利時
+    zh_hk: 比利時
+    zh_mo: 比利時
     zh-my: 比利时
-    zh-sg: 比利时
-    zh-tw: 比利時
+    zh_sg: 比利时
+    zh_tw: 比利時
     zu: i-Belgium
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Belgium

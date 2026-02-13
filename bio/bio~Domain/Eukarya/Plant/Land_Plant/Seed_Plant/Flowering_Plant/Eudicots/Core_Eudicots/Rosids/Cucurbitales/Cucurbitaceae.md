@@ -105,7 +105,7 @@ dv_has_:
     az: Balqabaqkimilər
     bcl: Cucurbitaceae
     be: Гарбузовыя
-    be-tarask: Гарбузовыя
+    be_tarask: Гарбузовыя
     bg: тиквови
     bn: কিউকুয়াবিটাশা
     bs: Cucurbitaceae
@@ -117,8 +117,8 @@ dv_has_:
     de: Kürbisgewächse
     el: Κολοκυνθοειδή
     en: Cucurbitaceae
-    en-ca: Cucurbitaceae
-    en-gb: Cucurbitaceae
+    en_ca: Cucurbitaceae
+    en_gb: Cucurbitaceae
     eo: Kukurbacoj
     es: Cucurbitaceae
     et: Kõrvitsalised
@@ -166,7 +166,7 @@ dv_has_:
     pl: dyniowate
     pnb: کدو ٹبر
     pt: Cucurbitaceae
-    pt-br: Cucurbitaceae
+    pt_br: Cucurbitaceae
     qu: Sapallu yura rikch'aq ayllu
     ro: Cucurbitaceae
     ru: тыквенные
@@ -195,10 +195,10 @@ dv_has_:
     xmf: კოპეშიაშობურეფი
     yue: 葫蘆科
     zh: 葫芦科
-    zh-cn: 葫芦科
-    zh-hans: 葫芦科
-    zh-hant: 葫蘆科
-    zh-tw: 葫蘆科
+    zh_cn: 葫芦科
+    zh_hans: 葫芦科
+    zh_hant: 葫蘆科
+    zh_tw: 葫蘆科
 ---
 # [[Cucurbitaceae]] 
 

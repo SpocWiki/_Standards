@@ -132,7 +132,7 @@ dv_has_:
     az: Sionizm
     bcl: Siyonismo
     be: сіянізм
-    be-tarask: сіянізм
+    be_tarask: сіянізм
     bg: Ционизъм
     bn: জায়নবাদ
     br: Sionouriezh
@@ -148,7 +148,7 @@ dv_has_:
     diq: Siyonizm
     el: Σιωνισμός
     en: Zionism
-    en-gb: Zionism
+    en_gb: Zionism
     en-us: Zionism
     eo: cionismo
     es: sionismo
@@ -210,7 +210,7 @@ dv_has_:
     pnb: صیہونیت
     ps: سهيونېزم
     pt: sionismo
-    pt-br: Sionismo
+    pt_br: Sionismo
     ro: sionism
     ru: сионизм
     sah: Сионизм
@@ -222,8 +222,8 @@ dv_has_:
     sl: sionizem
     sq: Cionizmi
     sr: ционизам
-    sr-ec: ционизам
-    sr-el: cionizam
+    sr_ec: ционизам
+    sr_el: cionizam
     sv: sionism
     ta: சீயோனிசம்
     th: ขบวนการไซออนิสต์

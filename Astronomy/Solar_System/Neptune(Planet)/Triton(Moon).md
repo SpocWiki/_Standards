@@ -112,7 +112,7 @@ dv_has_:
     azb: تریتون
     ba: Тритон
     be: Трытон, спадарожнік Нептуна
-    be-tarask: Трытон
+    be_tarask: Трытон
     bg: Тритон
     bn: ট্রাইটন
     br: Triton
@@ -177,7 +177,7 @@ dv_has_:
     pl: Tryton
     ps: ټریټون (سپوږمۍ)
     pt: Tritão
-    pt-br: Tritão
+    pt_br: Tritão
     ro: Triton
     ru: Тритон
     scn: Trituni
@@ -187,7 +187,7 @@ dv_has_:
     sl: Triton
     sq: Tritoni
     sr: Тритон
-    sr-ec: Тритон
+    sr_ec: Тритон
     sv: Triton
     ta: டிரைட்டன்
     th: ไทรทัน

@@ -142,7 +142,7 @@ dv_has_:
     az: Hiqqs bozonu
     ba: Һиггс бозоны
     be: Базон Хігса
-    be-tarask: базон Гігса
+    be_tarask: базон Гігса
     bg: Хигс бозон
     bn: হিগস বোসন
     br: Boson Higgs
@@ -153,11 +153,11 @@ dv_has_:
     cv: Хиггс бозонĕ
     da: Higgs-partikel
     de: Higgs-Boson
-    de-ch: Higgs-Boson
+    de_ch: Higgs-Boson
     el: σωματίδιο Χιγκς
     en: Higgs boson
-    en-ca: Higgs boson
-    en-gb: Higgs boson
+    en_ca: Higgs boson
+    en_gb: Higgs boson
     eo: bosono de Higgs
     es: bosón de Higgs
     et: Higgsi boson
@@ -205,7 +205,7 @@ dv_has_:
     pnb: ہگز بوسن
     ps: هیگزبوسون
     pt: bosão de Higgs
-    pt-br: bóson de Higgs
+    pt_br: bóson de Higgs
     ro: bosonul Higgs
     ru: бозон Хиггса
     sa: देवकणः
@@ -220,8 +220,8 @@ dv_has_:
     sms: Higgs-bosoon
     sq: Bozoni i Higgsit
     sr: Хигсов бозон
-    sr-ec: Хигсов бозон
-    sr-el: Higsov bozon
+    sr_ec: Хигсов бозон
+    sr_el: Higsov bozon
     sv: Higgsboson
     ta: ஹிக்ஸ் போசான்
     te: హిగ్గ్స్ బోసన్

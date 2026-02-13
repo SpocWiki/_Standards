@@ -84,7 +84,7 @@ dv_has_:
     arz: برنارد مادوف
     ast: Bernard Madoff
     az: Bernard Medoff
-    be-tarask: Бэрнард Мэйдаф
+    be_tarask: Бэрнард Мэйдаф
     bg: Бърнард Мейдоф
     br: Bernard Madoff
     ca: Bernard Madoff
@@ -94,8 +94,8 @@ dv_has_:
     de: Bernard L. Madoff
     el: Μπέρνι Μάντοφ
     en: Bernard Madoff
-    en-ca: Bernard Madoff
-    en-gb: Bernard Madoff
+    en_ca: Bernard Madoff
+    en_gb: Bernard Madoff
     eo: Bernard Madoff
     es: Bernard Madoff
     eu: Bernard L. Madoff
@@ -123,7 +123,7 @@ dv_has_:
     pl: Bernard Madoff
     pnb: برنارڈ میڈاف
     pt: Bernard Madoff
-    pt-br: Bernard Madoff
+    pt_br: Bernard Madoff
     ro: Bernard Madoff
     ru: Бернард Мейдофф
     scn: Bernard Madoff
@@ -138,7 +138,7 @@ dv_has_:
     yi: בערנארד מעדאף
     yue: 馬多夫
     zh: 伯納·馬多夫
-    zh-hant: 伯納·馬多夫
+    zh_hant: 伯納·馬多夫
 ---
 # [[Bernard_Madoff]] 
 

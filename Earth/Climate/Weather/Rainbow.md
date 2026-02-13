@@ -263,7 +263,7 @@ dv_has_:
     bcl: hablondawani
     bdr: beruntung
     be: вясёлка
-    be-tarask: вясёлка
+    be_tarask: вясёлка
     bew: bianglala
     bg: дъга
     bjn: téja
@@ -277,7 +277,7 @@ dv_has_:
     chr: ᎤᏅᏉᎳᏛ
     ckb: پەلکەزێڕینە
     crh: kökquşağı
-    crh-latn: tüs
+    crh_latn: tüs
     cs: duha
     cv: асамат кĕперĕ
     cy: enfys
@@ -288,7 +288,7 @@ dv_has_:
     dtp: buluntung
     el: ουράνιο τόξο
     en: rainbow
-    en-gb: rainbow
+    en_gb: rainbow
     en-us: rainbow
     eo: ĉielarko
     es: arco iris
@@ -339,7 +339,7 @@ dv_has_:
     koi: енӧшка
     ko-kp: 색동다리
     ks: سۄنٛزَل
-    ks-arab: رام رام بٔدرِٛن بوٗنؠ
+    ks_arab: رام رام بٔدرِٛن بوٗنؠ
     ks-deva: राम राम ब॑द्रि बून्य
     ku: keskesor
     kv: ӧшкамӧшка
@@ -366,7 +366,7 @@ dv_has_:
     mr: इंद्रधनुष्य
     mrj: шанавӹл
     ms: pelangi
-    ms-arab: ڤلاڠي
+    ms_arab: ڤلاڠي
     mt: qawsalla
     my: သက်တံ
     myv: пиземечирьке
@@ -416,7 +416,7 @@ dv_has_:
     so: Qaansa Roobaad
     sq: ylberi
     sr: дуга
-    sr-ec: дуга
+    sr_ec: дуга
     stq: Rienbooge
     su: kuwung-kuwung
     sv: regnbåge
@@ -450,11 +450,11 @@ dv_has_:
     yue: 虹
     za: saihoengz
     zh: 彩虹
-    zh-cn: 彩虹
-    zh-hans: 彩虹
-    zh-hant: 彩虹
-    zh-hk: 彩虹
-    zh-tw: 彩虹
+    zh_cn: 彩虹
+    zh_hans: 彩虹
+    zh_hant: 彩虹
+    zh_hk: 彩虹
+    zh_tw: 彩虹
 ---
 # [[Rainbow]] 🌈 
 

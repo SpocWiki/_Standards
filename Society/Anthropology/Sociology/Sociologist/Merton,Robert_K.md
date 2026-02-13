@@ -102,7 +102,7 @@ dv_has_:
     arz: روبرت كيه ميرتون
     ast: Robert King Merton
     az: Robert Kinq Merton
-    be-tarask: Робэрт Кінг Мэртан
+    be_tarask: Робэрт Кінг Мэртан
     bn: রবার্ট কিং মের্টন
     ca: Robert King Merton
     cs: Robert K. Merton
@@ -129,11 +129,11 @@ dv_has_:
     it: Robert K. Merton
     ja: ロバート・キング・マートン
     kk: Мертон Роберт Кинг
-    kk-arab: مەرتون روبەرت كىينگ
+    kk_arab: مەرتون روبەرت كىينگ
     kk-cn: مەرتون روبەرت كىينگ
-    kk-cyrl: Мертон Роберт Кинг
+    kk_cyrl: Мертон Роберт Кинг
     kk-kz: Мертон Роберт Кинг
-    kk-latn: Merton Robert Kïng
+    kk_latn: Merton Robert Kïng
     kk-tr: Merton Robert Kïng
     ko: 로버트 K. 머턴
     mg: Robert King Merton
@@ -146,7 +146,7 @@ dv_has_:
     pa: ਰਾਬਰਟ ਕੇ. ਮੋਰਟਨ
     pl: Robert K. Merton
     pt: Robert Merton
-    pt-br: Robert Merton
+    pt_br: Robert Merton
     ru: Роберт Кинг Мертон
     sk: Robert King Merton
     sl: Robert K. Merton
@@ -158,12 +158,12 @@ dv_has_:
     vi: Robert K. Merton
     yue: 羅伯特·金·莫頓
     zh: 罗伯特·金·莫顿
-    zh-cn: 罗伯特·金·莫顿
-    zh-hans: 罗伯特·金·莫顿
-    zh-hant: 羅伯特·金·莫頓
-    zh-hk: 羅伯特·金·莫頓
-    zh-sg: 罗伯特·金·莫顿
-    zh-tw: 羅伯特·金·莫頓
+    zh_cn: 罗伯特·金·莫顿
+    zh_hans: 罗伯特·金·莫顿
+    zh_hant: 羅伯特·金·莫頓
+    zh_hk: 羅伯特·金·莫頓
+    zh_sg: 罗伯特·金·莫顿
+    zh_tw: 羅伯特·金·莫頓
 ---
 # [[Merton,Robert_K]] 
 

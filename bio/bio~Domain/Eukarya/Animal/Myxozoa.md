@@ -68,7 +68,7 @@ dv_has_:
     oc: Myxozoa
     pl: Myksosporidiowce
     pt: Myxozoa
-    pt-br: Myxozoa
+    pt_br: Myxozoa
     ro: Myxozoa
     ru: Myxozoa
     sk: Výtrusníky
@@ -82,12 +82,12 @@ dv_has_:
     vo: Myxozoa
     war: Myxozoa
     zh: 黏體動物
-    zh-cn: 黏体动物
-    zh-hans: 黏体动物
-    zh-hant: 黏體動物
-    zh-hk: 黏體動物
-    zh-sg: 黏体动物
-    zh-tw: 黏體動物
+    zh_cn: 黏体动物
+    zh_hans: 黏体动物
+    zh_hant: 黏體動物
+    zh_hk: 黏體動物
+    zh_sg: 黏体动物
+    zh_tw: 黏體動物
 ---
 # [[Myxozoa]] 
 

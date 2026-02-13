@@ -68,7 +68,7 @@ dv_has_:
     ast: Brachiopoda
     az: Çiyinayaqlılar
     be: плечаногія
-    be-tarask: плечаногія
+    be_tarask: плечаногія
     bg: раменоноги
     bs: Brachiopoda
     ca: Braquiòpode
@@ -77,11 +77,11 @@ dv_has_:
     cy: Braciopod
     da: armfødder
     de: Armfüßer
-    de-ch: Armfüsser
+    de_ch: Armfüsser
     el: Βραχιόποδα
     en: Brachiopoda
-    en-ca: Brachiopod
-    en-gb: Brachiopod
+    en_ca: Brachiopod
+    en_gb: Brachiopod
     eo: Brakiopodoj
     es: Brachiopoda
     et: Käsijalgsed
@@ -107,11 +107,11 @@ dv_has_:
     ja: 腕足動物
     ka: მხარფეხიანები
     kk: Брахиоподтар
-    kk-arab: براحىيوپودتار
+    kk_arab: براحىيوپودتار
     kk-cn: براحىيوپودتار
-    kk-cyrl: Брахиоподтар
+    kk_cyrl: Брахиоподтар
     kk-kz: Брахиоподтар
-    kk-latn: Braxïopodtar
+    kk_latn: Braxïopodtar
     kk-tr: Braxïopodtar
     ko: 완족동물
     ky: Омуроо буттуулар
@@ -126,7 +126,7 @@ dv_has_:
     oc: Brachiopoda
     pl: ramienionogi
     pt: Brachiopoda
-    pt-br: Brachiopoda
+    pt_br: Brachiopoda
     ro: Brachiopoda
     ru: плеченогие
     sco: Brachiopod
@@ -135,8 +135,8 @@ dv_has_:
     sl: ramenonožci
     sq: Brachiopoda
     sr: Шкољке светиљке
-    sr-ec: Шкољке светиљке
-    sr-el: Školjke svetiljke
+    sr_ec: Шкољке светиљке
+    sr_el: Školjke svetiljke
     sv: armfotingar
     sw: Kombe-kikonyo
     th: แบรคิโอพอด
@@ -150,12 +150,12 @@ dv_has_:
     war: Brachiopoda
     wuu: 腕足动物门
     zh: 腕足动物门
-    zh-cn: 腕足动物门
-    zh-hans: 腕足动物门
-    zh-hant: 腕足動物門
-    zh-hk: 腕足動物門
-    zh-sg: 腕足动物门
-    zh-tw: 腕足動物門
+    zh_cn: 腕足动物门
+    zh_hans: 腕足动物门
+    zh_hant: 腕足動物門
+    zh_hk: 腕足動物門
+    zh_sg: 腕足动物门
+    zh_tw: 腕足動物門
 ---
 # [[Brachiopoda]]
 

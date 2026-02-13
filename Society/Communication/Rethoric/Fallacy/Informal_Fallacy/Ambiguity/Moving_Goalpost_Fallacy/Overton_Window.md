@@ -48,7 +48,7 @@ dv_has_:
     as: অভাৰট'ন খিৰিকী
     az: Overton pəncərəsi
     be: Акно Овертана
-    be-tarask: Акно Овэртана
+    be_tarask: Акно Овэртана
     bg: Прозорец на Овъртън
     ca: Finestra d'Overton
     cs: Overtonovo okno
@@ -76,7 +76,7 @@ dv_has_:
     oc: finèstra d'Overton
     pl: Okno Overtona
     pt: janela de Overton
-    pt-br: janela de Overton
+    pt_br: janela de Overton
     ro: Fereastra Overtoniană
     ru: Окно Овертона
     sh: Overtonov prozor

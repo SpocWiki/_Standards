@@ -94,7 +94,7 @@ dv_has_:
     ast: Motor térmicu
     az: İstilik mühərriki
     be: цеплавы рухавік
-    be-tarask: цеплавы рухавік
+    be_tarask: цеплавы рухавік
     bg: Топлинен двигател
     bn: তাপ ইঞ্জিন
     ca: màquina tèrmica
@@ -124,11 +124,11 @@ dv_has_:
     it: macchina termica
     ja: 熱機関
     kk: Жылулық қозғалтқыш
-    kk-arab: جىلۋلىق قوزعالتقىش
+    kk_arab: جىلۋلىق قوزعالتقىش
     kk-cn: جىلۋلىق قوزعالتقىش
-    kk-cyrl: Жылулық қозғалтқыш
+    kk_cyrl: Жылулық қозғалтқыш
     kk-kz: Жылулық қозғалтқыш
-    kk-latn: Jılwlıq qozğaltqış
+    kk_latn: Jılwlıq qozğaltqış
     kk-tr: Jılwlıq qozğaltqış
     kn: ಉಷ್ಣ ಇಂಜಿನ್
     ko: 열기관
@@ -155,8 +155,8 @@ dv_has_:
     sk: Tepelný stroj
     sl: toplotni stroj
     sr: топлотни мотор
-    sr-ec: топлотни мотор
-    sr-el: toplotni motor
+    sr_ec: топлотни мотор
+    sr_el: toplotni motor
     sv: värmemaskin
     ta: வெப்ப எந்திரம்
     te: ఉష్ణ యంత్రం
@@ -169,12 +169,12 @@ dv_has_:
     wuu: 热机
     yue: 熱引擎
     zh: 热机
-    zh-cn: 热机
-    zh-hans: 热机
-    zh-hant: 熱機
-    zh-hk: 熱機
-    zh-sg: 热机
-    zh-tw: 熱機
+    zh_cn: 热机
+    zh_hans: 热机
+    zh_hant: 熱機
+    zh_hk: 熱機
+    zh_sg: 热机
+    zh_tw: 熱機
 ---
 # [[Heat_Engine]] 
 

@@ -139,7 +139,7 @@ dv_has_:
     ast: enllaz químicu
     az: kimyəvi rabitə
     be: хімічная сувязь
-    be-tarask: хімічная сувязь
+    be_tarask: хімічная сувязь
     bg: Химична връзка
     bn: রাসায়নিক বন্ধন
     bs: hemijska veza
@@ -209,7 +209,7 @@ dv_has_:
     pa: ਰਸਾਇਣਕ ਜੋੜ
     pl: wiązanie chemiczne
     pt: ligação química
-    pt-br: ligação química
+    pt_br: ligação química
     ro: legătură chimică
     ru: химическая связь
     sd: ائٽمن جو بانڊ
@@ -223,7 +223,7 @@ dv_has_:
     sms: kemiaalʼlaž čõõnâs
     sq: lidhja kimike
     sr: хемијска веза
-    sr-ec: хемијска веза
+    sr_ec: хемијска веза
     su: beungkeut kimia
     sv: kemisk bindning
     sw: muungo kemia
@@ -244,8 +244,8 @@ dv_has_:
     yo: Ìsopọ̀ kẹ́míkà
     yue: 化學鍵
     zh: 化学键
-    zh-cn: 化学键
-    zh-hk: 化學鍵
+    zh_cn: 化学键
+    zh_hk: 化學鍵
     zu: Umnqalo wevanga
 ---
 # [[Chemical_Bond]] 

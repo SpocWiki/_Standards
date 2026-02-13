@@ -96,7 +96,7 @@ dv_has_:
     ar: كول بورتر
     arz: كول بورتر
     ast: Cole Porter
-    be-tarask: Коўл Портэр
+    be_tarask: Коўл Портэр
     br: Cole Porter
     ca: Cole Porter
     co: Cole Porter
@@ -104,11 +104,11 @@ dv_has_:
     cy: Cole Porter
     da: Cole Porter
     de: Cole Porter
-    de-ch: Cole Porter
+    de_ch: Cole Porter
     el: Κόουλ Πόρτερ
     en: Cole Porter
-    en-ca: Cole Porter
-    en-gb: Cole Porter
+    en_ca: Cole Porter
+    en_gb: Cole Porter
     eo: Cole Porter
     es: Cole Porter
     et: Cole Porter
@@ -142,7 +142,7 @@ dv_has_:
     pap: Cole Porter
     pl: Cole Porter
     pt: Cole Porter
-    pt-br: Cole Porter
+    pt_br: Cole Porter
     ro: Cole Porter
     ru: Коул Портер
     se: Cole Porter

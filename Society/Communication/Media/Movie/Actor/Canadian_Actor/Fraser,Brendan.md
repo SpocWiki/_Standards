@@ -48,7 +48,7 @@ dv_has_:
     azb: برندن فریزر
     bcl: Brendan Fraser
     be: Брэндан Фрэйзер
-    be-tarask: Брэндан Фрэйзэр
+    be_tarask: Брэндан Фрэйзэр
     bg: Брендън Фрейзър
     bn: ব্রেন্ডান ফ্রেজার
     ca: Brendan Fraser
@@ -62,8 +62,8 @@ dv_has_:
     el: Μπρένταν Φρέιζερ
     eml: Brendan Fraser
     en: Brendan Fraser
-    en-ca: Brendan Fraser
-    en-gb: Brendan Fraser
+    en_ca: Brendan Fraser
+    en_gb: Brendan Fraser
     eo: Brendan Fraser
     es: Brendan Fraser
     et: Brendan Fraser
@@ -102,7 +102,7 @@ dv_has_:
     oc: Brendan Fraser
     pl: Brendan Fraser
     pt: Brendan Fraser
-    pt-br: Brendan Fraser
+    pt_br: Brendan Fraser
     ro: Brendan Fraser
     ru: Брендан Фрэйзер
     sco: Brendan Fraser
@@ -126,13 +126,13 @@ dv_has_:
     xmf: ბრენდან ფრეიზერი
     yue: 班頓費沙
     zh: 布蘭登·費雪
-    zh-cn: 布兰登·弗雷泽
-    zh-hans: 布兰登·弗雷泽
-    zh-hant: 布蘭登·費雪
-    zh-hk: 班頓·費沙
+    zh_cn: 布兰登·弗雷泽
+    zh_hans: 布兰登·弗雷泽
+    zh_hant: 布蘭登·費雪
+    zh_hk: 班頓·費沙
     zh-my: 布兰登·费雪
-    zh-sg: 布兰登·费雪
-    zh-tw: 布蘭登·費雪
+    zh_sg: 布兰登·费雪
+    zh_tw: 布蘭登·費雪
 ---
 #has_/time_/started :: 1968-12-03 
 

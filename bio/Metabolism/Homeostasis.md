@@ -84,7 +84,7 @@ dv_has_:
     ast: Homeostasis
     az: Homeostaz
     be: гамеастаз
-    be-tarask: гамэастаз
+    be_tarask: гамэастаз
     bg: Хомеостаза
     bn: হোমিওস্ট্যাটিস
     bs: Homeostaza
@@ -97,8 +97,8 @@ dv_has_:
     de: Homöostase
     el: ομοιόσταση
     en: homeostasis
-    en-ca: homeostasis
-    en-gb: homeostasis
+    en_ca: homeostasis
+    en_gb: homeostasis
     en-us: homeostasis
     eo: homeostato
     es: homeostasis
@@ -124,15 +124,15 @@ dv_has_:
     jv: Homeostasis
     ka: ჰომეოსტაზი
     kk: Гомеостаз
-    kk-arab: گومەوستاز
+    kk_arab: گومەوستاز
     kk-cn: گومەوستاز
-    kk-cyrl: Гомеостаз
+    kk_cyrl: Гомеостаз
     kk-kz: Гомеостаз
-    kk-latn: Gomeostaz
+    kk_latn: Gomeostaz
     kk-tr: Gomeostaz
     ko: 항상성
     ku: hevsengiya navekî
-    ku-latn: hevsengiya navekî
+    ku_latn: hevsengiya navekî
     ky: Гомеостаз
     la: homoeostasis
     lfn: Omeostase
@@ -140,7 +140,7 @@ dv_has_:
     lv: homeostāze
     mk: Хомеостаза
     ms: homeostasis
-    ms-arab: هوميوستاسيس
+    ms_arab: هوميوستاسيس
     nb: homeostase
     nds: Homöostase
     nl: homeostase
@@ -149,7 +149,7 @@ dv_has_:
     pl: homeostaza
     ps: هوموسټاسس (توازن)
     pt: homeostase
-    pt-br: Homeostase
+    pt_br: Homeostase
     ro: Homeostazie
     ru: гомеостаз
     sco: homeostasis
@@ -159,8 +159,8 @@ dv_has_:
     sl: homeostaza
     sq: homeostazë
     sr: Хомеостаза
-    sr-ec: хомеостаза
-    sr-el: homeostaza
+    sr_ec: хомеостаза
+    sr_el: homeostaza
     sv: homeostas
     ta: ஒருசீர்த்திடநிலை
     th: ภาวะธำรงดุล
@@ -175,12 +175,12 @@ dv_has_:
     wuu: 稳态
     yue: 體内平衡
     zh: 稳态
-    zh-cn: 稳态
-    zh-hans: 稳态
-    zh-hant: 穩態
-    zh-hk: 穩態
-    zh-sg: 稳态
-    zh-tw: 穩態
+    zh_cn: 稳态
+    zh_hans: 稳态
+    zh_hant: 穩態
+    zh_hk: 穩態
+    zh_sg: 稳态
+    zh_tw: 穩態
 ---
 # [[Homeostasis]] 
 

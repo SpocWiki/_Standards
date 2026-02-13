@@ -86,7 +86,7 @@ dv_has_:
     az: Xitin
     ba: Хитин
     be: хіцін
-    be-tarask: хітын
+    be_tarask: хітын
     bg: хитин
     bn: কাইটিন
     bs: hitin
@@ -121,11 +121,11 @@ dv_has_:
     jv: kitin
     ka: ქიტინი
     kk: хитин
-    kk-arab: حىيتىين
+    kk_arab: حىيتىين
     kk-cn: حىيتىين
-    kk-cyrl: хитин
+    kk_cyrl: хитин
     kk-kz: хитин
-    kk-latn: xïtïn
+    kk_latn: xïtïn
     kk-tr: xïtïn
     kn: ಕೈಟಿನ್
     ko: 키틴
@@ -146,8 +146,8 @@ dv_has_:
     sk: chitín
     sl: hitin
     sr: хитин
-    sr-ec: хитин
-    sr-el: hitin
+    sr_ec: хитин
+    sr_el: hitin
     su: kitin
     sv: kitin
     sw: khitini
@@ -161,12 +161,12 @@ dv_has_:
     wuu: 甲壳素
     yue: 甲殼素
     zh: 甲殼素
-    zh-cn: 甲壳素
-    zh-hans: 甲壳素
-    zh-hant: 甲殼素
-    zh-hk: 甲殼素
-    zh-sg: 甲壳素
-    zh-tw: 甲殼素
+    zh_cn: 甲壳素
+    zh_hans: 甲壳素
+    zh_hant: 甲殼素
+    zh_hk: 甲殼素
+    zh_sg: 甲壳素
+    zh_tw: 甲殼素
 ---
 # [[Chitin]] 
 

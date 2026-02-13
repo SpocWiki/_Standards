@@ -123,7 +123,7 @@ dv_has_:
     az: Sütun
     bcl: Harigi
     be: калона
-    be-tarask: калёна
+    be_tarask: калёна
     bg: Колона
     bho: थम
     bn: স্তম্ভ
@@ -137,8 +137,8 @@ dv_has_:
     de: Säule
     el: κίονας
     en: column
-    en-ca: Column
-    en-gb: column
+    en_ca: Column
+    en_gb: column
     eo: kolono
     es: columna
     et: Sammas
@@ -183,7 +183,7 @@ dv_has_:
     pl: kolumna
     pnb: تھملا
     pt: coluna
-    pt-br: coluna
+    pt_br: coluna
     qu: Tunu
     ro: coloană
     ru: колонна
@@ -197,7 +197,7 @@ dv_has_:
     sn: Mbiru
     sq: Kolona (arkitekturë)
     sr: стуб
-    sr-ec: стуб
+    sr_ec: стуб
     su: kolom
     sv: kolonn
     sw: Nguzo
@@ -215,8 +215,8 @@ dv_has_:
     wuu: 柱
     yue: 柱
     zh: 柱
-    zh-hans: 柱
-    zh-hant: 柱
+    zh_hans: 柱
+    zh_hant: 柱
 ---
 # [[Column(Structure)]] 
 

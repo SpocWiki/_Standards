@@ -83,7 +83,7 @@ dv_has_:
     ast: economía planiada
     az: planlı iqtisadiyyat
     be: Планавая эканоміка
-    be-tarask: плянавая эканоміка
+    be_tarask: плянавая эканоміка
     bg: планова икономика
     ca: economia planificada
     cs: plánovaná ekonomika
@@ -92,8 +92,8 @@ dv_has_:
     de: Planwirtschaft
     el: Σχεδιασμένη οικονομία
     en: planned economy
-    en-ca: Planned economy
-    en-gb: Planned economy
+    en_ca: Planned economy
+    en_gb: Planned economy
     en-us: planned economy
     eo: planita ekonomio
     es: economía planificada
@@ -114,11 +114,11 @@ dv_has_:
     ja: 計画経済
     ka: გეგმიური ეკონომიკა
     kk: Жоспарлы экономика
-    kk-arab: جوسپارلى ەكونومىيكا
+    kk_arab: جوسپارلى ەكونومىيكا
     kk-cn: جوسپارلى ەكونومىيكا
-    kk-cyrl: Жоспарлы экономика
+    kk_cyrl: Жоспарлы экономика
     kk-kz: Жоспарлы экономика
-    kk-latn: Josparlı ékonomïka
+    kk_latn: Josparlı ékonomïka
     kk-tr: Josparlı ékonomïka
     ko: 계획 경제
     la: Oeconomia systematica
@@ -133,7 +133,7 @@ dv_has_:
     pl: gospodarka planowa
     ps: رهبري شوی ( ارشادي ) اقتصاد
     pt: economia planificada
-    pt-br: Economia planificada
+    pt_br: Economia planificada
     ro: economie planificată
     ru: плановое хозяйство
     sh: Planska ekonomija
@@ -153,12 +153,12 @@ dv_has_:
     xmf: გეგმიური ეკონომიკა
     yue: 計劃經濟
     zh: 計劃經濟
-    zh-cn: 计划经济
-    zh-hans: 计划经济
-    zh-hant: 計劃經濟
-    zh-hk: 計劃經濟
-    zh-sg: 计划经济
-    zh-tw: 計劃經濟
+    zh_cn: 计划经济
+    zh_hans: 计划经济
+    zh_hant: 計劃經濟
+    zh_hk: 計劃經濟
+    zh_sg: 计划经济
+    zh_tw: 計劃經濟
 ---
 # [[Planned_Economy]] 
 

@@ -179,7 +179,7 @@ dv_has_:
     ba: Джузеппе Верди
     bar: Giuseppe Verdi
     be: Джузэпэ Вердзі
-    be-tarask: Джузэпэ Вэрдзі
+    be_tarask: Джузэпэ Вэрдзі
     bg: Джузепе Верди
     bho: ज्यूसेप्पी वेर्दी
     bi: Giuseppe Verdi
@@ -189,7 +189,7 @@ dv_has_:
     btm: Giuseppe Verdi
     bxr: Жузеппе Верди
     ca: Giuseppe Verdi
-    cbk-zam: Giuseppe Verdi
+    cbk_zam: Giuseppe Verdi
     ce: Верди, Джузеппе
     ceb: Giuseppe Verdi
     ch: Giuseppe Verdi
@@ -202,14 +202,14 @@ dv_has_:
     da: Giuseppe Verdi
     de: Giuseppe Verdi
     de-at: Giuseppe Verdi
-    de-ch: Giuseppe Verdi
+    de_ch: Giuseppe Verdi
     diq: Giuseppe Verdi
     egl: Giuseppe Verdi
     el: Τζουζέπε Βέρντι
     eml: Giuseppe Verdi
     en: Giuseppe Verdi
-    en-ca: Giuseppe Verdi
-    en-gb: Giuseppe Verdi
+    en_ca: Giuseppe Verdi
+    en_gb: Giuseppe Verdi
     eo: Giuseppe Verdi
     es: Giuseppe Verdi
     et: Giuseppe Verdi
@@ -273,7 +273,7 @@ dv_has_:
     nap: Giuseppe Verdi
     nb: Giuseppe Verdi
     nds: Giuseppe Verdi
-    nds-nl: Giuseppe Verdi
+    nds_nl: Giuseppe Verdi
     new: ज्युसेपे फोर्टुनिनो फ्रान्सेस्को भर्डी
     nl: Giuseppe Verdi
     nn: Giuseppe Verdi
@@ -289,7 +289,7 @@ dv_has_:
     pms: Giuseppe Verdi
     pnb: جوزف وردی
     pt: Giuseppe Verdi
-    pt-br: Giuseppe Verdi
+    pt_br: Giuseppe Verdi
     qu: Giuseppe Verdi
     rm: Giuseppe Verdi
     ro: Giuseppe Verdi
@@ -306,7 +306,7 @@ dv_has_:
     sl: Giuseppe Verdi
     sq: Giuseppe Verdi
     sr: Ђузепе Верди
-    sr-el: Giuseppe Verdi
+    sr_el: Giuseppe Verdi
     stq: Giuseppe Verdi
     sv: Giuseppe Verdi
     sw: Giuseppe Verdi
@@ -335,8 +335,8 @@ dv_has_:
     yo: Giuseppe Verdi
     yue: 威爾第
     zh: 朱塞佩·威尔第
-    zh-hk: 朱斯卑·威爾第
-    zh-tw: 朱塞佩·威爾第
+    zh_hk: 朱斯卑·威爾第
+    zh_tw: 朱塞佩·威爾第
     zu: Giuseppe Verdi
 ---
 # [[Verdi,Giuseppe]] 

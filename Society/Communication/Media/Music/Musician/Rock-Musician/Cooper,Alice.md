@@ -121,7 +121,7 @@ dv_has_:
     ast: Alice Cooper
     azb: الیس کوپر
     be: Эліс Купер
-    be-tarask: Эліс Купэр
+    be_tarask: Эліс Купэр
     bg: Алис Купър
     br: Alice Cooper
     bs: Alice Cooper
@@ -130,12 +130,12 @@ dv_has_:
     cs: Alice Cooper
     da: Alice Cooper
     de: Alice Cooper
-    de-ch: Alice Cooper
+    de_ch: Alice Cooper
     el: Άλις Κούπερ
     eml: Alice Cooper
     en: Alice Cooper
-    en-ca: Alice Cooper
-    en-gb: Alice Cooper
+    en_ca: Alice Cooper
+    en_gb: Alice Cooper
     eo: Alice Cooper
     es: Alice Cooper
     et: Alice Cooper
@@ -176,7 +176,7 @@ dv_has_:
     pap: Alice Cooper
     pl: Alice Cooper
     pt: Alice Cooper
-    pt-br: Alice Cooper
+    pt_br: Alice Cooper
     rmf: Alice Cooper
     ro: Alice Cooper
     ru: Элис Купер
@@ -207,9 +207,9 @@ dv_has_:
     yo: Alice Cooper
     yue: 艾力斯·庫珀
     zh: 埃利斯·库珀
-    zh-cn: 艾力斯·库珀
-    zh-hans: 艾力斯·库珀
-    zh-hant: 艾力斯·庫珀
+    zh_cn: 艾力斯·库珀
+    zh_hans: 艾力斯·库珀
+    zh_hant: 艾力斯·庫珀
 ---
 # [[Cooper,Alice]] 
 

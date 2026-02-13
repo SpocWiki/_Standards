@@ -118,7 +118,7 @@ dv_has_:
     ba: Мәжүсилек
     bar: Heidntum
     be: язычніцтва
-    be-tarask: паганства
+    be_tarask: паганства
     bew: Wasaniah
     bg: Езичество
     bn: পৌত্তলিকতাবাদ
@@ -136,7 +136,7 @@ dv_has_:
     diq: Paganizm
     el: Παγανισμός
     en: paganism
-    en-gb: paganism
+    en_gb: paganism
     eo: paganismo
     es: paganismo
     et: Paganlus
@@ -164,7 +164,7 @@ dv_has_:
     kk: Пұтқа табынушылық
     ko: 이교
     ku: paganî
-    ku-latn: paganî
+    ku_latn: paganî
     la: Paganismus
     lfn: Paganisme
     li: Heidendóm
@@ -195,7 +195,7 @@ dv_has_:
     sl: staroverstvo
     sq: Paganizmi
     sr: паганизам
-    sr-ec: паганизам
+    sr_ec: паганизам
     stq: Heedendum
     sv: hedendom
     sw: Upagani

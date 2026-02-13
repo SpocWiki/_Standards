@@ -79,7 +79,7 @@ dv_has_:
     ast: Paralax
     az: Parallaks
     be: паралакс
-    be-tarask: Паралякса
+    be_tarask: Паралякса
     bg: Паралакс
     bjn: Paralaks
     bn: লম্বন
@@ -113,14 +113,14 @@ dv_has_:
     ja: 視差
     ka: paralaqsi
     kk: Жылдық параллакс
-    kk-arab: جىلدىق پاراللاكس
+    kk_arab: جىلدىق پاراللاكس
     kk-cn: جىلدىق پاراللاكس
-    kk-cyrl: Жылдық параллакс
+    kk_cyrl: Жылдық параллакс
     kk-kz: Жылдық параллакс
-    kk-latn: Jıldıq parallaks
+    kk_latn: Jıldıq parallaks
     kk-tr: Jıldıq parallaks
     ko: 시차
-    ku-latn: paralaks
+    ku_latn: paralaks
     ky: Параллакс
     lb: Parallax
     lt: paralaksas
@@ -141,14 +141,14 @@ dv_has_:
     sk: Paralaxa
     sl: paralaksa
     sr: паралакса
-    sr-ec: Паралакса
-    sr-el: Paralaksa
+    sr_ec: Паралакса
+    sr_el: Paralaksa
     stq: Parallaxe
     sv: parallax
     sw: Paralaksi
     ta: பார்வை இடவழு
     tg: Параллакс
-    tg-latn: Parallaks
+    tg_latn: Parallaks
     th: พารัลแลกซ์
     tl: Paralaks
     tr: ıraklık açısı
@@ -160,12 +160,12 @@ dv_has_:
     wuu: 视差
     yue: 視差
     zh: 视差
-    zh-cn: 视差
-    zh-hans: 视差
-    zh-hant: 視差
-    zh-hk: 視差
-    zh-sg: 视差
-    zh-tw: 視差
+    zh_cn: 视差
+    zh_hans: 视差
+    zh_hant: 視差
+    zh_hk: 視差
+    zh_sg: 视差
+    zh_tw: 視差
 ---
 # [[Parallax]] 
 

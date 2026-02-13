@@ -148,7 +148,7 @@ dv_has_:
     ast: David Hume
     az: Devid Yum
     be: Дэвід Юм
-    be-tarask: Дэйвід Г’юм
+    be_tarask: Дэйвід Г’юм
     bg: Дейвид Хюм
     bn: ডেভিড হিউম
     br: David Hume
@@ -159,13 +159,13 @@ dv_has_:
     cy: David Hume
     da: David Hume
     de: David Hume
-    de-ch: David Hume
+    de_ch: David Hume
     diq: David Hume
     ee: David Hume
     el: Ντέιβιντ Χιουμ
     en: David Hume
-    en-ca: David Hume
-    en-gb: David Hume
+    en_ca: David Hume
+    en_gb: David Hume
     eo: David Hume
     es: David Hume
     es-419: David Hume
@@ -228,7 +228,7 @@ dv_has_:
     pnb: ڈیوڈ ہیوم
     ps: ډيويډ هيوم
     pt: David Hume
-    pt-br: David Hume
+    pt_br: David Hume
     qu: David Hume
     ro: David Hume
     ru: Дэвид Юм

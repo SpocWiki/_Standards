@@ -264,7 +264,7 @@ dv_has_:
     ban: rasa
     bcl: asugi
     be: ртуць
-    be-tarask: ртуць
+    be_tarask: ртуць
     bg: живак
     bho: पारा
     bn: পারদ
@@ -285,8 +285,8 @@ dv_has_:
     el: υδράργυρος
     eml: Mercùri
     en: mercury
-    en-ca: Mercury
-    en-gb: mercury
+    en_ca: Mercury
+    en_gb: mercury
     eo: hidrargo
     es: mercurio
     et: elavhõbe
@@ -383,7 +383,7 @@ dv_has_:
     pnb: پارہ
     ps: پاره
     pt: mercúrio
-    pt-br: mercúrio
+    pt_br: mercúrio
     qu: yaku qullqi
     ro: mercur
     ru: ртуть
@@ -417,7 +417,7 @@ dv_has_:
     tok: ijo lili nanpa 80
     tr: cıva
     tt: Терекөмеш
-    tt-cyrl: терекөмеш
+    tt_cyrl: терекөмеш
     udm: ртуть
     ug: مېركۇرىي(element)
     uk: ртуть
@@ -436,11 +436,11 @@ dv_has_:
     yue: 水銀
     za: Raemxngaenz
     zh: 汞
-    zh-cn: 汞
-    zh-hans: 汞
-    zh-hant: 汞
-    zh-hk: 汞
-    zh-tw: 汞
+    zh_cn: 汞
+    zh_hans: 汞
+    zh_hant: 汞
+    zh_hk: 汞
+    zh_tw: 汞
     zu: Isigidi (inhlwa)
   number_of_:
     period: 6

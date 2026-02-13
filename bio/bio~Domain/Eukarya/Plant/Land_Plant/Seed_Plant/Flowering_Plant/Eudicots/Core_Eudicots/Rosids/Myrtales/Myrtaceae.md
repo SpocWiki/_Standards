@@ -105,7 +105,7 @@ dv_has_:
     az: Mərsinkimilər
     bcl: Myrtaceae
     be: Міртавыя
-    be-tarask: міртавыя
+    be_tarask: міртавыя
     bg: миртови
     bs: Myrtaceae
     ca: mirtàcies
@@ -146,8 +146,8 @@ dv_has_:
     ko: 도금양과
     koi: Мирт котыр
     ku: Famîleya mîrtasiyan
-    ku-arab: فامیلەیا میرتاسیان
-    ku-latn: Famîleya mîrtasiyan
+    ku_arab: فامیلەیا میرتاسیان
+    ku_latn: Famîleya mîrtasiyan
     kv: Мирт котыр
     la: Myrtaceae
     lt: Mirtiniai
@@ -164,7 +164,7 @@ dv_has_:
     pl: mirtowate
     pnb: میندی ٹبر
     pt: Myrtaceae
-    pt-br: Myrtaceae
+    pt_br: Myrtaceae
     qu: Sawintu yura rikch'aq ayllu
     ro: Myrtaceae
     ru: Миртовые
@@ -188,12 +188,12 @@ dv_has_:
     wuu: 桃金娘科
     yue: 桃金娘科
     zh: 桃金娘科
-    zh-cn: 桃金娘科
-    zh-hans: 桃金娘科
-    zh-hant: 桃金孃科
-    zh-hk: 桃金孃科
-    zh-sg: 桃金娘科
-    zh-tw: 桃金孃科
+    zh_cn: 桃金娘科
+    zh_hans: 桃金娘科
+    zh_hant: 桃金孃科
+    zh_hk: 桃金孃科
+    zh_sg: 桃金娘科
+    zh_tw: 桃金孃科
 ---
 # [[Myrtaceae]] 
 

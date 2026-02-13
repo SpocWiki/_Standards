@@ -71,7 +71,7 @@ dv_has_:
     ast: comunidá virtual
     az: virtual cəmiyyət
     be: віртуальная супольнасць
-    be-tarask: віртуальная супольнасьць
+    be_tarask: віртуальная супольнасьць
     bg: виртуална общност
     br: kumuniezh enlinenn
     bs: virtualna zajednica
@@ -115,7 +115,7 @@ dv_has_:
     sl: navidezna skupnost
     smn: virtuaalsiärvádâh
     sr: виртуелна заједница
-    sr-ec: виртуелна заједница
+    sr_ec: виртуелна заједница
     sv: virtuell gemenskap
     tg: ҷомеъаи маҷозӣ
     th: ชุมชนเสมือน
@@ -125,12 +125,12 @@ dv_has_:
     uz: virtual hamjamiyat
     vi: cộng đồng ảo
     zh: 虛擬社群
-    zh-cn: 虚拟社区
-    zh-hans: 虚拟社群
-    zh-hant: 虛擬社群
-    zh-hk: 虛擬社群
-    zh-sg: 虚拟社区
-    zh-tw: 虛擬社群
+    zh_cn: 虚拟社区
+    zh_hans: 虚拟社群
+    zh_hant: 虛擬社群
+    zh_hk: 虛擬社群
+    zh_sg: 虚拟社区
+    zh_tw: 虛擬社群
 ---
 # [[Virtual_Community]] 
 

@@ -66,7 +66,7 @@ dv_has_:
     ar: مشط
     ast: retobatu
     be: Барана
-    be-tarask: барана
+    be_tarask: барана
     bg: Брана
     bho: हेंगा
     br: Freuz
@@ -107,8 +107,8 @@ dv_has_:
     rsk: Дерляча
     ru: борона
     sr: Дрљача
-    sr-ec: Дрљача
-    sr-el: Drljača
+    sr_ec: Дрљача
+    sr_el: Drljača
     su: Garu
     sv: harv
     tr: Diskaro
@@ -118,12 +118,12 @@ dv_has_:
     wa: îpe
     yue: 耖
     zh: 耖
-    zh-cn: 耖
-    zh-hans: 耖
-    zh-hant: 耖
-    zh-hk: 耖
-    zh-sg: 耖
-    zh-tw: 耖
+    zh_cn: 耖
+    zh_hans: 耖
+    zh_hant: 耖
+    zh_hk: 耖
+    zh_sg: 耖
+    zh_tw: 耖
 ---
 # [[Harrow(Tool)]] 
 

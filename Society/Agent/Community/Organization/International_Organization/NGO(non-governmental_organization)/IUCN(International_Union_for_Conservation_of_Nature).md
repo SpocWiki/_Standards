@@ -199,7 +199,7 @@ dv_has_:
     ban: Uni Internasional antuk Konservasi Alam
     bcl: International Union for Conservation of Nature
     be: Міжнародны саюз аховы прыроды
-    be-tarask: Міжнародны зьвяз аховы прыроды
+    be_tarask: Міжнародны зьвяз аховы прыроды
     bg: Международен съюз за защита на природата
     bho: अंतर्राष्ट्रीय प्रकृति संरक्षण संघ
     bn: প্রকৃতি সংরক্ষণের জন্য আন্তর্জাতিক ইউনিয়ন
@@ -214,8 +214,8 @@ dv_has_:
     de: IUCN
     el: Διεθνής Ένωση Προστασίας της Φύσης
     en: International Union for Conservation of Nature
-    en-ca: International Union for Conservation of Nature
-    en-gb: International Union for Conservation of Nature
+    en_ca: International Union for Conservation of Nature
+    en_gb: International Union for Conservation of Nature
     eo: Internacia Unio por la Konservo de Naturo
     es: Unión Internacional para la Conservación de la Naturaleza
     et: Rahvusvaheline Looduskaitseliit
@@ -255,7 +255,7 @@ dv_has_:
     mn: Олон улсын байгаль хамгаалах холбоо
     mr: वर्ल्ड काँझर्वेशन युनियन
     ms: Kesatuan Pemuliharaan Alam Sekitar Antarabangsa
-    ms-arab: کساتوان ڤموليهاراءن عالم سکيتر انتارابڠسا
+    ms_arab: کساتوان ڤموليهاراءن عالم سکيتر انتارابڠسا
     mt: IUCN
     mul: International Union for the Protection of Nature
     my: နိုင်ငံတကာ သဘာဝထိန်းသိမ်းစောင့်ရှောက်ရေး အသင်း
@@ -272,7 +272,7 @@ dv_has_:
     pl: International Union for Conservation of Nature
     pnb: قدرت دے تحفظ لئی قومانتری اتحاد
     pt: União Internacional para a Conservação da Natureza e dos Recursos Naturais
-    pt-br: União Internacional para a Conservação da Natureza e dos Recursos Naturais
+    pt_br: União Internacional para a Conservação da Natureza e dos Recursos Naturais
     qu: Mamallaqtapura Huñu Sallqa Pachata Sallqapi Kaqkunata Amachanapaq
     rm: Uniun internaziunala per il mantegniment da la natira e da sias resursas
     ro: International Union for Conservation of Nature

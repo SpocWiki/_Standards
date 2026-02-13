@@ -104,7 +104,7 @@ dv_has_:
     bar: Nephropidae
     bcl: banagan
     be: Амары
-    be-tarask: амары
+    be_tarask: амары
     bg: омари
     bn: গলদা
     br: Nephropidae
@@ -116,11 +116,11 @@ dv_has_:
     da: Nephropidae
     de: Hummerartige
     de-at: Nephropidae
-    de-ch: Nephropidae
+    de_ch: Nephropidae
     el: Αστακός
     en: Nephropidae
-    en-ca: Nephropidae
-    en-gb: Nephropidae
+    en_ca: Nephropidae
+    en_gb: Nephropidae
     eo: Omaro
     es: langosta
     et: homaar
@@ -178,7 +178,7 @@ dv_has_:
     nap: Nephropidae
     nb: hummere
     nds: Nephropidae
-    nds-nl: Nephropidae
+    nds_nl: Nephropidae
     ne: झिङ्गे माछा
     nl: zeekreeften
     nn: hummarfamilien
@@ -192,7 +192,7 @@ dv_has_:
     pms: Nephropidae
     ps: كركند
     pt: lavagante
-    pt-br: Nephropidae
+    pt_br: Nephropidae
     rm: Nephropidae
     ro: homar
     ru: омары
@@ -225,9 +225,9 @@ dv_has_:
     yo: alákàṣa
     yue: 海螯蝦科
     zh: 海螯蝦科
-    zh-cn: 海螯虾科
-    zh-hans: 海螯虾科
-    zh-tw: 海螯蝦科
+    zh_cn: 海螯虾科
+    zh_hans: 海螯虾科
+    zh_tw: 海螯蝦科
     zu: Nephropidae
 ---
 # [[Lobster]] 

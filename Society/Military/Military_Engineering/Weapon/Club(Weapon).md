@@ -99,7 +99,7 @@ dv_has_:
     ar: هراوة
     ast: xlava
     az: dəyənək
-    be-tarask: кіюга
+    be_tarask: кіюга
     bg: бойна тояга
     br: bataraz
     bs: palija
@@ -155,7 +155,7 @@ dv_has_:
     sl: kij
     sq: shkopi (armë)
     sr: батина
-    sr-ec: батина
+    sr_ec: батина
     su: kohkol
     sv: knölpåk
     tg: гурз
@@ -164,12 +164,12 @@ dv_has_:
     vi: dùi cui
     yue: 棍
     zh: 棍棒
-    zh-cn: 棍棒
-    zh-hans: 棍棒
-    zh-hant: 棍棒
-    zh-hk: 棍棒
-    zh-sg: 棍棒
-    zh-tw: 棍棒
+    zh_cn: 棍棒
+    zh_hans: 棍棒
+    zh_hant: 棍棒
+    zh_hk: 棍棒
+    zh_sg: 棍棒
+    zh_tw: 棍棒
 ---
 # [[Club(Weapon)]] 
 

@@ -60,7 +60,7 @@ Commons_category: Intimate relationships
 dv_has_:
   name_:
     ar: علاقة حميمة
-    be-tarask: інтымныя стасункі
+    be_tarask: інтымныя стасункі
     bn: অন্তরঙ্গ সম্পর্ক
     ca: relació íntima
     cs: milostný vztah
@@ -113,9 +113,9 @@ dv_has_:
     yi: אינטימיטעט
     yue: 親密關係
     zh: 親密關係
-    zh-cn: 亲密关系
-    zh-hans: 亲密关系
-    zh-hant: 親密關係
+    zh_cn: 亲密关系
+    zh_hans: 亲密关系
+    zh_hant: 親密關係
 ---
 # [[Intimate_Relationship]] 
 

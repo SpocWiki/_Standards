@@ -89,7 +89,7 @@ dv_has_:
     az: xəncər
     azb: خنجر
     be: кінжал
-    be-tarask: кінжал
+    be_tarask: кінжал
     bg: кама
     bn: ছোরা
     br: gougleze
@@ -142,7 +142,7 @@ dv_has_:
     pl: sztylet
     pms: Pugnal
     pt: punhal
-    pt-br: punhal
+    pt_br: punhal
     ro: pumnal
     ru: кинжал
     sh: bodež
@@ -162,12 +162,12 @@ dv_has_:
     wuu: 匕首
     yue: 匕首
     zh: 匕首
-    zh-cn: 匕首
-    zh-hans: 匕首
-    zh-hant: 匕首
-    zh-hk: 匕首
-    zh-sg: 匕首
-    zh-tw: 匕首
+    zh_cn: 匕首
+    zh_hans: 匕首
+    zh_hant: 匕首
+    zh_hk: 匕首
+    zh_sg: 匕首
+    zh_tw: 匕首
 ---
 # [[Dagger]] 🗡 
 

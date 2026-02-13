@@ -86,17 +86,17 @@ dv_has_:
     azb: جوزف استفان
     ba: Йозеф Стефан
     be: Іозеф Стэфан
-    be-tarask: Ёзэф Штэфан
+    be_tarask: Ёзэф Штэфан
     bg: Йозеф Стефан
     ca: Josef Stefan
     cs: Jožef Stefan
     da: Joseph Stefan
     de: Josef Stefan
-    de-ch: Josef Stefan
+    de_ch: Josef Stefan
     el: Γιόζεφ Στέφαν
     en: Josef Stefan
-    en-ca: Joseph Stefan
-    en-gb: Joseph Stefan
+    en_ca: Joseph Stefan
+    en_gb: Joseph Stefan
     eo: Jožef Stefan
     es: Josef Stefan
     eu: Jožef Stefan
@@ -130,7 +130,7 @@ dv_has_:
     pl: Josef Stefan
     pms: Jožef Stefan
     pt: Joseph Stefan
-    pt-br: Joseph Stefan
+    pt_br: Joseph Stefan
     ro: Joseph Stefan
     ru: Йозеф Стефан
     sh: Jožef Stefan

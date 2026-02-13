@@ -180,7 +180,7 @@ dv_has_:
     azb: مایکل فارادی
     ba: Майкл Фарадей
     be: Майкл Фарадэй
-    be-tarask: Майкл Фарадэй
+    be_tarask: Майкл Фарадэй
     bg: Майкъл Фарадей
     bn: মাইকেল ফ্যারাডে
     br: Michael Faraday
@@ -199,8 +199,8 @@ dv_has_:
     dty: माइकल फराडे
     el: Μάικλ Φάραντεϊ
     en: Michael Faraday
-    en-ca: Michael Faraday
-    en-gb: Michael Faraday
+    en_ca: Michael Faraday
+    en_gb: Michael Faraday
     eo: Michael Faraday
     es: Michael Faraday
     et: Michael Faraday
@@ -300,7 +300,7 @@ dv_has_:
     so: Michael Faraday
     sq: Michael Faraday
     sr: Мајкл Фарадеј
-    sr-ec: Мајкл Фарадеј
+    sr_ec: Мајкл Фарадеј
     su: Michael Faraday
     sv: Michael Faraday
     sw: Michael Faraday
@@ -327,7 +327,7 @@ dv_has_:
     yue: 法拉第
     zea: Michael Faraday
     zh: 麥可·法拉第
-    zh-hk: 米高·法拉第
+    zh_hk: 米高·法拉第
 ---
 # [[Faraday,Michael]] 
 

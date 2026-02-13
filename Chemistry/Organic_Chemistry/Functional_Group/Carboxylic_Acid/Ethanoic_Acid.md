@@ -148,7 +148,7 @@ dv_has_:
     ban: Asam asétat
     bcl: Asidong asetiko
     be: воцатная кіслата
-    be-tarask: воцатная кісьля
+    be_tarask: воцатная кісьля
     bg: оцетна киселина
     bn: অ্যাসিটিক অ্যাসিড
     bo: ཨེ་སི་ཊིག་སྐྱུར་རྫས།

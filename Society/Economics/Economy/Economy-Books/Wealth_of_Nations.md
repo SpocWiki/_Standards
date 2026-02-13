@@ -94,11 +94,11 @@ dv_has_:
     cs: Pojednání o podstatě a původu bohatství národů
     da: The Wealth of Nations
     de: Der Wohlstand der Nationen
-    de-ch: Der Wohlstand der Nationen
+    de_ch: Der Wohlstand der Nationen
     el: Ο Πλούτος των Εθνών
     en: The Wealth of Nations
-    en-ca: The Wealth of Nations
-    en-gb: The Wealth of Nations
+    en_ca: The Wealth of Nations
+    en_gb: The Wealth of Nations
     eo: La Riĉo de Nacioj
     es: La riqueza de las naciones
     et: Uurimus riikide rikkuse iseloomust ja põhjustest
@@ -135,7 +135,7 @@ dv_has_:
     pl: Badania nad naturą i przyczynami bogactwa narodów
     pnb: دی ویلتھ آف نیشنز
     pt: A Riqueza das Nações
-    pt-br: A Riqueza das Nações
+    pt_br: A Riqueza das Nações
     ro: Avuția națiunilor
     ru: Исследование о природе и причинах богатства народов
     sq: Pasuria e kombeve
@@ -152,12 +152,12 @@ dv_has_:
     wuu: 国富论
     yue: 原富
     zh: 國富論
-    zh-cn: 国富论
-    zh-hans: 国富论
-    zh-hant: 國富論
-    zh-hk: 國富論
-    zh-sg: 国富论
-    zh-tw: 國富論
+    zh_cn: 国富论
+    zh_hans: 国富论
+    zh_hant: 國富論
+    zh_hk: 國富論
+    zh_sg: 国富论
+    zh_tw: 國富論
 ---
 # [[Wealth_of_Nations]] 
 

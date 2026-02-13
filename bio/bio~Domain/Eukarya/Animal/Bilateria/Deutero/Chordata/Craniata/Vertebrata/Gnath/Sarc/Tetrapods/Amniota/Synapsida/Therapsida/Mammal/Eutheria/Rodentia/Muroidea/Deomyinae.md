@@ -43,7 +43,7 @@ dv_has_:
     oc: Deomyinae
     pl: sztywniaki
     pt: Deomyinae
-    pt-br: deomyinae
+    pt_br: deomyinae
     ro: Deomyinae
     ru: Деомииновые
     sq: Deomyinae
@@ -54,10 +54,10 @@ dv_has_:
     vo: Deomyinae
     war: Deomyinae
     zh: 刚果攀鼠亚科
-    zh-cn: 刚果攀鼠亚科
-    zh-hans: 刚果攀鼠亚科
-    zh-hant: 剛果攀鼠亞科
-    zh-tw: 剛果攀鼠亞科
+    zh_cn: 刚果攀鼠亚科
+    zh_hans: 刚果攀鼠亚科
+    zh_hant: 剛果攀鼠亞科
+    zh_tw: 剛果攀鼠亞科
 ---
 # [[Deomyinae]] 
 

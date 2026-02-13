@@ -89,7 +89,7 @@ dv_has_:
     ar: عازل
     ast: aislamientu llétricu
     az: izolyator
-    be-tarask: ізалятар
+    be_tarask: ізалятар
     bg: изолатор
     bn: অন্তরক
     bs: izolator
@@ -123,11 +123,11 @@ dv_has_:
     it: isolante elettrico
     ja: 絶縁体
     kk: оқшаулатқыш
-    kk-arab: وقشاۋلاتقىش
+    kk_arab: وقشاۋلاتقىش
     kk-cn: وقشاۋلاتقىش
-    kk-cyrl: оқшаулатқыш
+    kk_cyrl: оқшаулатқыш
     kk-kz: оқшаулатқыш
-    kk-latn: oqşawlatqış
+    kk_latn: oqşawlatqış
     kk-tr: oqşawlatqış
     kn: ಅವಾಹಕ
     ko: 절연체
@@ -158,8 +158,8 @@ dv_has_:
     sl: izolator
     sn: rutsuwa rwemagetsi
     sr: електрични изолатор
-    sr-ec: електрични изолатор
-    sr-el: električni izolator
+    sr_ec: електрични изолатор
+    sr_el: električni izolator
     sv: isolator
     ta: மின்காப்பான்
     te: విద్యుత్ వ్యాప్తి నిరోధం
@@ -173,12 +173,12 @@ dv_has_:
     wuu: 绝缘体
     yue: 絕緣體
     zh: 絕緣體
-    zh-cn: 绝缘体
-    zh-hans: 绝缘体
-    zh-hant: 絕緣體
-    zh-hk: 絕緣體
-    zh-sg: 绝缘体
-    zh-tw: 絕緣體
+    zh_cn: 绝缘体
+    zh_hans: 绝缘体
+    zh_hant: 絕緣體
+    zh_hk: 絕緣體
+    zh_sg: 绝缘体
+    zh_tw: 絕緣體
 ---
 # [[Insulator]] 
 

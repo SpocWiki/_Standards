@@ -123,7 +123,7 @@ dv_has_:
     th: ทีเอสเอ็มซี
     tr: TSMC
     tt: TSMC
-    tt-cyrl: TSMC
+    tt_cyrl: TSMC
     ug: تەيۋەن يېرىم ئۆتكۈزگۈچ ياساش شىركىتى چەكلىك شىركىتى
     uk: TSMC
     vec: TSMC
@@ -131,12 +131,12 @@ dv_has_:
     wuu: 台湾积体电路制造
     yue: 台積電
     zh: 台灣積體電路製造公司
-    zh-cn: 台积电
-    zh-hans: 台湾积体电路制造公司
-    zh-hant: 台灣積體電路製造公司
-    zh-hk: 台灣積體電路製造公司
+    zh_cn: 台积电
+    zh_hans: 台湾积体电路制造公司
+    zh_hant: 台灣積體電路製造公司
+    zh_hk: 台灣積體電路製造公司
     zh-my: 台湾积体电路制造公司
-    zh-tw: 台灣積體電路製造公司
+    zh_tw: 台灣積體電路製造公司
 ---
 # [[TSMC(Taiwan_Semiconductor)]] Manufacturing Company 
 

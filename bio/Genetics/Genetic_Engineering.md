@@ -120,7 +120,7 @@ dv_has_:
     az: Genetik mühəndisliyi
     ba: Генетик инженерия
     be: генетычная інжынерыя
-    be-tarask: генэтычная інжынэрыя
+    be_tarask: генэтычная інжынэрыя
     bg: Генно инженерство
     bn: বংশাণু প্রকৌশল
     br: Teknologiezh c'henetek
@@ -130,11 +130,11 @@ dv_has_:
     cs: genetické inženýrství
     da: Gensplejsning
     de: Gentechnik
-    de-ch: Gentechnik
+    de_ch: Gentechnik
     el: Γενετική μηχανική
     en: genetic engineering
-    en-ca: Genetic engineering
-    en-gb: genetic engineering
+    en_ca: Genetic engineering
+    en_gb: genetic engineering
     eo: gentekniko
     es: ingeniería genética
     et: geenitehnoloogia
@@ -162,17 +162,17 @@ dv_has_:
     jam: Jinetik injinierin
     ka: გენური ინჟინერია
     kk: Генетика инженерлігі
-    kk-arab: گەنەتىيكا ىينجەنەرلىگى
+    kk_arab: گەنەتىيكا ىينجەنەرلىگى
     kk-cn: گەنەتىيكا ىينجەنەرلىگى
-    kk-cyrl: Генетика инженерлігі
+    kk_cyrl: Генетика инженерлігі
     kk-kz: Генетика инженерлігі
-    kk-latn: Genetïka ïnjenerligi
+    kk_latn: Genetïka ïnjenerligi
     kk-tr: Genetïka ïnjenerligi
     kn: ತಳೀಯ ಎಂಜಿನಿಯರಿಂಗ್
     ko: 유전공학
     ku: Endazyariya bûmayîk
-    ku-arab: ئەندازیاریا بووماییک
-    ku-latn: Endazyariya bûmayîk
+    ku_arab: ئەندازیاریا بووماییک
+    ku_latn: Endazyariya bûmayîk
     ky: Генетика инженериясы
     la: Technologia genetica
     lb: Gentechnik
@@ -193,7 +193,7 @@ dv_has_:
     pms: Engignerìa genética
     ps: د جنتیک انجنیري
     pt: engenharia genética
-    pt-br: Engenharia genética
+    pt_br: Engenharia genética
     ro: inginerie genetică
     ru: генетическая инженерия
     scn: Ncignirìa ginètica
@@ -204,8 +204,8 @@ dv_has_:
     sl: genetsko inženirstvo
     sq: Inxhinieria gjenetike
     sr: Генетички инжењеринг
-    sr-ec: Генетички инжењеринг
-    sr-el: Genetički inženjering
+    sr_ec: Генетички инжењеринг
+    sr_el: Genetički inženjering
     su: Rékayasa genetik
     sv: genteknik
     ta: மரபணுப் பொறியியல்
@@ -222,12 +222,12 @@ dv_has_:
     wuu: 基因工程
     yue: 基因工程
     zh: 基因工程
-    zh-cn: 基因工程
-    zh-hans: 基因工程
-    zh-hant: 基因工程
-    zh-hk: 基因工程
-    zh-sg: 基因工程
-    zh-tw: 基因工程
+    zh_cn: 基因工程
+    zh_hans: 基因工程
+    zh_hant: 基因工程
+    zh_hk: 基因工程
+    zh_sg: 基因工程
+    zh_tw: 基因工程
     zu: UmNgcikisho wezifuzisi
 ---
 # [[Genetic_Engineering]] 

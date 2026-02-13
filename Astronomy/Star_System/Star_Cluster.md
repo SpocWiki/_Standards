@@ -126,7 +126,7 @@ dv_has_:
     ast: cúmulu estelar
     az: ulduz topaları
     be: зорнае скопішча
-    be-tarask: зорная скупнасьць
+    be_tarask: зорная скупнасьць
     bg: звезден куп
     bn: তারা গুচ্ছ
     bs: zvjezdano jato
@@ -140,8 +140,8 @@ dv_has_:
     diq: kumey esteran
     el: αστρικό σμήνος
     en: star cluster
-    en-ca: star cluster
-    en-gb: star cluster
+    en_ca: star cluster
+    en_gb: star cluster
     eo: stelamaso
     es: cúmulo estelar
     et: täheparv
@@ -184,7 +184,7 @@ dv_has_:
     pms: baron
     pnb: تارہ گچھا
     pt: aglomerado estelar
-    pt-br: aglomerado estelar
+    pt_br: aglomerado estelar
     ro: roi stelar
     ru: звёздное скопление
     scn: ammassu stiddari
@@ -195,8 +195,8 @@ dv_has_:
     smn: täsnijuávkku
     sms: täʹsnnjoukk
     sr: звездано јато
-    sr-ec: звездано јато
-    sr-el: zvezdano jato
+    sr_ec: звездано јато
+    sr_el: zvezdano jato
     sv: stjärnhop
     sw: fungunyota
     ta: விண்மீன் கொத்துகள்
@@ -213,12 +213,12 @@ dv_has_:
     xmf: მურიცხეფიშ გვართა
     yue: 星團
     zh: 星团
-    zh-cn: 星团
-    zh-hans: 星团
-    zh-hant: 星團
-    zh-hk: 星團
-    zh-sg: 星团
-    zh-tw: 星團
+    zh_cn: 星团
+    zh_hans: 星团
+    zh_hant: 星團
+    zh_hk: 星團
+    zh_sg: 星团
+    zh_tw: 星團
 ---
 # [[Star_Cluster]] 
 

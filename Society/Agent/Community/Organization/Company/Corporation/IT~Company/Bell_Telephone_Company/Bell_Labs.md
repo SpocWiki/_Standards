@@ -4,7 +4,7 @@ dv_has_:
   name_:
     ar: مختبرات بل
     az: Bell Labs
-    be-tarask: Bell Labs
+    be_tarask: Bell Labs
     bg: Лаборатории Бел
     bn: বেল ল্যাবরেটরিজ
     bs: Bell Labs
@@ -66,12 +66,12 @@ dv_has_:
     xmf: ბელიშ ლაბორატორია
     yue: 貝爾實驗室
     zh: 貝爾實驗室
-    zh-cn: 贝尔实验室
-    zh-hans: 贝尔实验室
-    zh-hant: 貝爾實驗室
-    zh-hk: 貝爾實驗室
-    zh-sg: 贝尔实验室
-    zh-tw: 貝爾實驗室
+    zh_cn: 贝尔实验室
+    zh_hans: 贝尔实验室
+    zh_hant: 貝爾實驗室
+    zh_hk: 貝爾實驗室
+    zh_sg: 贝尔实验室
+    zh_tw: 貝爾實驗室
 aliases:
 - Bell Laboratories
 - Bell laboratoriyasi

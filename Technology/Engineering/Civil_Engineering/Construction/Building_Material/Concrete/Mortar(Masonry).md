@@ -80,7 +80,7 @@ dv_has_:
     ar: ملاط
     ary: مرطوب
     bar: Maitl
-    be-tarask: рошчына
+    be_tarask: рошчына
     bg: Хоросан
     bs: Malter
     ca: morter
@@ -134,8 +134,8 @@ dv_has_:
     sk: Malta
     sl: malta
     sr: Malter
-    sr-ec: Малтер
-    sr-el: Malter
+    sr_ec: Малтер
+    sr_el: Malter
     sv: murbruk
     szl: Malta
     te: మాలు
@@ -146,12 +146,12 @@ dv_has_:
     wuu: 砂浆
     yue: 砂漿
     zh: 砂漿
-    zh-cn: 砂浆
-    zh-hans: 砂浆
-    zh-hant: 砂漿
-    zh-hk: 砂漿
-    zh-sg: 砂浆
-    zh-tw: 砂漿
+    zh_cn: 砂浆
+    zh_hans: 砂浆
+    zh_hant: 砂漿
+    zh_hk: 砂漿
+    zh_sg: 砂浆
+    zh_tw: 砂漿
 ---
 # [[Mortar(Masonry)]] 
 

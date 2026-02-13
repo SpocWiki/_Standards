@@ -136,7 +136,7 @@ dv_has_:
     azb: ناتانیل هاوثورن
     ba: Натаниэль Готорн
     be: Натаніэль Готарн
-    be-tarask: Натаніель Готарн
+    be_tarask: Натаніель Готарн
     bg: Натаниел Хоторн
     bn: ন্যাথানিয়েল হথর্ন
     br: Nathaniel Hawthorne
@@ -147,11 +147,11 @@ dv_has_:
     cy: Nathaniel Hawthorne
     da: Nathaniel Hawthorne
     de: Nathaniel Hawthorne
-    de-ch: Nathaniel Hawthorne
+    de_ch: Nathaniel Hawthorne
     el: Ναθάνιελ Χόθορν
     en: Nathaniel Hawthorne
-    en-ca: Nathaniel Hawthorne
-    en-gb: Nathaniel Hawthorne
+    en_ca: Nathaniel Hawthorne
+    en_gb: Nathaniel Hawthorne
     eo: Nathaniel Hawthorne
     es: Nathaniel Hawthorne
     et: Nathaniel Hawthorne
@@ -190,7 +190,7 @@ dv_has_:
     nan: Nathaniel Hawthorne
     nb: Nathaniel Hawthorne
     nds: Nathaniel Hawthorne
-    nds-nl: Nathaniel Hawthorne
+    nds_nl: Nathaniel Hawthorne
     ne: नाथानिएल हवथोर्न
     new: न्याथानील ह:थोर्न
     nl: Nathaniel Hawthorne
@@ -203,7 +203,7 @@ dv_has_:
     pms: Nathaniel Hawthorne
     pnb: نتھانیل ہاتھورن
     pt: Nathaniel Hawthorne
-    pt-br: Nathaniel Hawthorne
+    pt_br: Nathaniel Hawthorne
     ro: Nathaniel Hawthorne
     ru: Натаниэль Готорн
     sco: Nathaniel Hawthorne

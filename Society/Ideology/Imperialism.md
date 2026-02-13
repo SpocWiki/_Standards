@@ -115,7 +115,7 @@ dv_has_:
     ba: Империализм
     bar: Imperialismus
     be: імперыялізм
-    be-tarask: імпэрыялізм
+    be_tarask: імпэрыялізм
     bg: империализъм
     bn: সাম্রাজ্যবাদ
     br: Impalaerouriezh
@@ -133,8 +133,8 @@ dv_has_:
     diq: İmperyalizm
     el: ιμπεριαλισμός
     en: imperialism
-    en-ca: Imperialism
-    en-gb: Imperialism
+    en_ca: Imperialism
+    en_gb: Imperialism
     eo: imperiismo
     es: imperialismo
     et: imperialism
@@ -201,7 +201,7 @@ dv_has_:
     pnb: امپیریلزم
     ps: امپریالیزم
     pt: imperialismo
-    pt-br: Imperialismo
+    pt_br: Imperialismo
     rm: Imperialissem
     ro: imperialism
     ru: империализм
@@ -246,14 +246,14 @@ dv_has_:
     yue: 帝國主義
     za: digoz cujyi
     zh: 帝國主義
-    zh-cn: 帝国主义
-    zh-hans: 帝国主义
-    zh-hant: 帝國主義
-    zh-hk: 帝国主义
-    zh-mo: 帝国主义
+    zh_cn: 帝国主义
+    zh_hans: 帝国主义
+    zh_hant: 帝國主義
+    zh_hk: 帝国主义
+    zh_mo: 帝国主义
     zh-my: 帝国主义
-    zh-sg: 帝国主义
-    zh-tw: 帝國主義
+    zh_sg: 帝国主义
+    zh_tw: 帝國主義
     zu: Ububhozomeli
 ---
 # [[Imperialism]] 

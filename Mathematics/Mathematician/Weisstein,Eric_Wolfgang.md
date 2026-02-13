@@ -4,7 +4,7 @@ dv_has_:
   name_:
     ar: إيريك ويستاين
     arz: ايريك ويستاين
-    be-tarask: Эрык Вайсштайн
+    be_tarask: Эрык Вайсштайн
     bn: এরিক ডব্লিউ. ওয়াইস্টাইন
     ca: Eric Weisstein
     cs: Eric W. Weisstein
@@ -34,7 +34,7 @@ dv_has_:
     nn: Eric W. Weisstein
     pl: Eric W. Weisstein
     pt: Eric W. Weisstein
-    pt-br: Eric W. Weisstein
+    pt_br: Eric W. Weisstein
     ro: Eric W. Weisstein
     ru: Эрик Вайсштайн
     sl: Eric Wolfgang Weisstein
@@ -45,12 +45,12 @@ dv_has_:
     tr: Eric W. Weisstein
     vi: Eric W. Weisstein
     zh: 埃里克·韦斯坦因
-    zh-cn: 埃里克·韦斯坦因
-    zh-hans: 埃里克·韦斯坦因
-    zh-hant: 埃里克·韋斯坦因
-    zh-hk: 埃里克·韋斯坦因
-    zh-sg: 埃里克·韦斯坦因
-    zh-tw: 埃里克·韋斯坦因
+    zh_cn: 埃里克·韦斯坦因
+    zh_hans: 埃里克·韦斯坦因
+    zh_hant: 埃里克·韋斯坦因
+    zh_hk: 埃里克·韋斯坦因
+    zh_sg: 埃里克·韦斯坦因
+    zh_tw: 埃里克·韋斯坦因
 aliases:
 - Eric W. Weisstein
 - Eric Weisstein

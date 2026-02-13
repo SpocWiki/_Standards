@@ -80,16 +80,16 @@ dv_has_:
     af: middelklas
     ar: طبقة وسطى
     ast: clas media
-    be-tarask: сярэдняя кляса
+    be_tarask: сярэдняя кляса
     bn: মধ্যবিত্ত
     ca: classe mitjana
     cs: střední třída
     da: middelklasse
     de: Mittelschicht
-    de-ch: Schicht
+    de_ch: Schicht
     en: middle class
-    en-ca: Middle class
-    en-gb: middle class
+    en_ca: Middle class
+    en_gb: middle class
     eo: meza klaso
     es: clase media
     et: Keskklass
@@ -112,11 +112,11 @@ dv_has_:
     it: ceto medio
     ja: 中流階級
     kk: Жаңа орта тап
-    kk-arab: جاڭا ورتا تاپ
+    kk_arab: جاڭا ورتا تاپ
     kk-cn: جاڭا ورتا تاپ
-    kk-cyrl: Жаңа орта тап
+    kk_cyrl: Жаңа орта тап
     kk-kz: Жаңа орта тап
-    kk-latn: Jaña orta tap
+    kk_latn: Jaña orta tap
     kk-tr: Jaña orta tap
     ko: 중산층
     ku: Çîna navîn
@@ -128,7 +128,7 @@ dv_has_:
     nn: Middelklasse
     pl: Klasa średnia
     pt: classe média
-    pt-br: Classe média
+    pt_br: Classe média
     ro: clasă de mijloc
     ru: средний класс
     rue: Середный клас
@@ -139,8 +139,8 @@ dv_has_:
     so: Maalqabeen
     sq: Klasa e mesme
     sr: средња класа
-    sr-ec: средња класа
-    sr-el: srednja klasa
+    sr_ec: средња класа
+    sr_el: srednja klasa
     sv: medelklass
     sw: Tabaka la kati
     ta: நடுத்தர வர்க்கம்
@@ -152,12 +152,12 @@ dv_has_:
     vi: Tầng lớp trung lưu
     yue: 中產階層
     zh: 中產階級
-    zh-cn: 中产阶级
-    zh-hans: 中产阶级
-    zh-hant: 中產階級
-    zh-hk: 中產階級
-    zh-sg: 中产阶级
-    zh-tw: 中產階級
+    zh_cn: 中产阶级
+    zh_hans: 中产阶级
+    zh_hant: 中產階級
+    zh_hk: 中產階級
+    zh_sg: 中产阶级
+    zh_tw: 中產階級
 ---
 # [[Middle_Class]] 
 

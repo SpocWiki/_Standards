@@ -117,7 +117,7 @@ dv_has_:
     azb: جنیس جاپلین
     bar: Janis Joplin
     be: Джэніс Джоплін
-    be-tarask: Джэніс Джоплін
+    be_tarask: Джэніс Джоплін
     bg: Джанис Джоплин
     br: Janis Joplin
     bs: Janis Joplin
@@ -125,10 +125,10 @@ dv_has_:
     cs: Janis Joplinová
     cy: Janis Joplin
     de: Janis Joplin
-    de-ch: Janis Joplin
+    de_ch: Janis Joplin
     el: Τζάνις Τζόπλιν
-    en-ca: Janis Joplin
-    en-gb: Janis Joplin
+    en_ca: Janis Joplin
+    en_gb: Janis Joplin
     eo: Janis Joplin
     es: Janis Joplin
     et: Janis Joplin
@@ -169,7 +169,7 @@ dv_has_:
     mzn: جانیس جاپلین
     nb: Janis Joplin
     nds: Janis Joplin
-    nds-nl: Janis Joplin
+    nds_nl: Janis Joplin
     nl: Janis Joplin
     nn: Janis Joplin
     oc: Janis Joplin
@@ -178,7 +178,7 @@ dv_has_:
     pms: Janis Joplin
     pnb: جینس جوپلن
     pt: Janis Joplin
-    pt-br: Janis Joplin
+    pt_br: Janis Joplin
     ro: Janis Joplin
     ru: Дженис Джоплин
     sc: Janis Joplin
@@ -189,7 +189,7 @@ dv_has_:
     sl: Janis Joplin
     sq: Janis Joplin
     sr: Џенис Џоплин
-    sr-ec: Џенис Џоплин
+    sr_ec: Џенис Џоплин
     sv: Janis Joplin
     te: జెనిస్ జొప్లిన్
     th: แจนิส จอปลิน

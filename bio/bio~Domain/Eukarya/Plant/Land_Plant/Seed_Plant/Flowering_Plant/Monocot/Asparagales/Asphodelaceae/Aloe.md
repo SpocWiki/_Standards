@@ -139,7 +139,7 @@ dv_has_:
     az: Əzvay
     ba: Алой гөлө
     be: алоэ
-    be-tarask: альяс
+    be_tarask: альяс
     bg: алое
     bs: Aloe
     ca: àloe
@@ -184,17 +184,17 @@ dv_has_:
     ka: ალოე
     kab: Acibar
     kk: Алоэ
-    kk-arab: الوە
+    kk_arab: الوە
     kk-cn: الوە
-    kk-cyrl: Алоэ
+    kk_cyrl: Алоэ
     kk-kz: Алоэ
-    kk-latn: Aloé
+    kk_latn: Aloé
     kk-tr: Aloé
     kn: ಲೋಳೆ ಸರ
     ko: 알로에
     ku: Talîjarî
-    ku-arab: تالیژاری
-    ku-latn: Talîjarî
+    ku_arab: تالیژاری
+    ku_latn: Talîjarî
     kw: aloes
     ky: Алоэ
     la: Aloe
@@ -218,7 +218,7 @@ dv_has_:
     pl: aloes
     pnb: گندل
     pt: Aloe
-    pt-br: Aloe
+    pt_br: Aloe
     ro: Aloe
     ru: алоэ
     ryu: るぐゎい
@@ -229,8 +229,8 @@ dv_has_:
     sn: Gavakava
     sq: Aloe
     sr: алоја
-    sr-ec: Алоја
-    sr-el: Aloja
+    sr_ec: Алоја
+    sr_el: Aloja
     sv: Aloesläktet
     sw: Mshubiri
     ta: கற்றாழை
@@ -251,12 +251,12 @@ dv_has_:
     yue: 蘆薈
     za: Goyouzcoeng
     zh: 芦荟属
-    zh-cn: 芦荟属
-    zh-hans: 芦荟属
-    zh-hant: 蘆薈屬
-    zh-hk: 蘆薈屬
-    zh-sg: 芦荟属
-    zh-tw: 蘆薈屬
+    zh_cn: 芦荟属
+    zh_hans: 芦荟属
+    zh_hant: 蘆薈屬
+    zh_hk: 蘆薈屬
+    zh_sg: 芦荟属
+    zh_tw: 蘆薈屬
 ---
 # [[Aloe]] 
 

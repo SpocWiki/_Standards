@@ -256,7 +256,7 @@ dv_has_:
     azb: جی. آر. آر. تالکین
     ba: Джон Рональд Руэл Толкин
     be: Джон Рональд Руэл Толкін
-    be-tarask: Джон Рональд Руэл Толкін
+    be_tarask: Джон Рональд Руэл Толкін
     bg: Джон Роналд Руел Толкин
     bn: জে. আর. আর. টলকিন
     br: John Ronald Reuel Tolkien
@@ -272,12 +272,12 @@ dv_has_:
     da: J.R.R. Tolkien
     de: J. R. R. Tolkien
     de-at: J.R.R. Tolkien
-    de-ch: J. R. R. Tolkien
+    de_ch: J. R. R. Tolkien
     diq: J. R. R. Tolkien
     dsb: J. R. R. Tolkien
     el: Τζ. Ρ. Ρ. Τόλκιν
     en: J. R. R. Tolkien
-    en-gb: J. R. R. Tolkien
+    en_gb: J. R. R. Tolkien
     eo: John Ronald Reuel Tolkien
     es: J. R. R. Tolkien
     et: J. R. R. Tolkien
@@ -354,7 +354,7 @@ dv_has_:
     nan: J. R. R. Tolkien
     nb: J.R.R. Tolkien
     nds: J. R. R. Tolkien
-    nds-nl: J.R.R. Tolkien
+    nds_nl: J.R.R. Tolkien
     ne: जेआरआर टोल्केएन
     new: जे आर आर टोल्किएन
     nl: J.R.R. Tolkien
@@ -369,7 +369,7 @@ dv_has_:
     pnb: جان رونالڈ روئل ٹولکین
     ps: جان رونالډ ریوېل ټولکین
     pt: J. R. R. Tolkien
-    pt-br: J. R. R. Tolkien
+    pt_br: J. R. R. Tolkien
     qu: John Ronald Reuel Tolkien
     rmf: J. R. R. Tolkien
     ro: J. R. R. Tolkien
@@ -417,9 +417,9 @@ dv_has_:
     yo: J. R. R. Tolkien
     yue: 托爾金
     zh: 約翰·羅納德·魯埃爾·托爾金
-    zh-hans: J·R·R·托尔金
-    zh-hant: J·R·R·托尔金
-    zh-hk: J·R·R·吐堅
+    zh_hans: J·R·R·托尔金
+    zh_hant: J·R·R·托尔金
+    zh_hk: J·R·R·吐堅
 ---
 # [[Tolkien,J.R.R]]
 

@@ -123,7 +123,7 @@ dv_has_:
     ast: clonación
     az: klonlaşdırma
     ba: клонлаштырыу
-    be-tarask: клянаваньне
+    be_tarask: клянаваньне
     bg: клониране
     blk: ပွုံႏဗွိုန်မျိုꩻပွာꩻ
     bn: অনুকৃতি উৎপাদন
@@ -170,7 +170,7 @@ dv_has_:
     mk: клонирање
     ml: ക്ലോണിംഗ്
     ms: pengklonan
-    ms-arab: ڤڠکلونن
+    ms_arab: ڤڠکلونن
     my: ပုံတူမျိုးပွားခြင်း
     nan: cloning
     nb: kloning
@@ -189,8 +189,8 @@ dv_has_:
     sl: kloniranje
     sq: klonimi
     sr: клонирање
-    sr-ec: клонирање
-    sr-el: kloniranje
+    sr_ec: клонирање
+    sr_el: kloniranje
     su: kloning
     sv: kloning
     sw: kloni
@@ -201,7 +201,7 @@ dv_has_:
     tl: cloning
     tr: klonlama
     tt: клонлау
-    tt-cyrl: клонлау
+    tt_cyrl: клонлау
     ug: كىلون تېخنىكىسى
     uk: клонування
     ur: تنسیل
@@ -210,12 +210,12 @@ dv_has_:
     wuu: 克隆
     yue: 基因複製
     zh: 克隆
-    zh-cn: 克隆
-    zh-hans: 克隆
-    zh-hant: 複製
-    zh-hk: 選殖
-    zh-sg: 克隆
-    zh-tw: 選殖
+    zh_cn: 克隆
+    zh_hans: 克隆
+    zh_hant: 複製
+    zh_hk: 選殖
+    zh_sg: 克隆
+    zh_tw: 選殖
 ---
 # [[Cloning]] 
 

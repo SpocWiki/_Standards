@@ -5,7 +5,7 @@ dv_has_:
     ar: محرك ستيرلينغ
     az: Stirlinq mühərriki
     be: Рухавік Стырлінга
-    be-tarask: Рухавік Стырлінга
+    be_tarask: Рухавік Стырлінга
     bg: Двигател на Стърлинг
     br: Keflusker Stirling
     bs: Stirlingov motor
@@ -49,8 +49,8 @@ dv_has_:
     sl: Stirlingov motor
     sq: Motori Stirling
     sr: Стирлингов мотор
-    sr-ec: Стирлингов мотор
-    sr-el: Stirlingov motor
+    sr_ec: Стирлингов мотор
+    sr_el: Stirlingov motor
     sv: Stirlingmotor
     te: స్టిర్లింగ్ యంత్రం
     th: เครื่องยนต์สเตอร์ลิง
@@ -59,12 +59,12 @@ dv_has_:
     vi: Động cơ Stirling
     yue: 史特林發動機
     zh: 斯特林发动机
-    zh-cn: 斯特林发动机
-    zh-hans: 斯特林发动机
-    zh-hant: 史特林發動機
-    zh-hk: 史特林發動機
-    zh-sg: 斯特林发动机
-    zh-tw: 史特林發動機
+    zh_cn: 斯特林发动机
+    zh_hans: 斯特林发动机
+    zh_hant: 史特林發動機
+    zh_hk: 史特林發動機
+    zh_sg: 斯特林发动机
+    zh_tw: 史特林發動機
 aliases:
 - Enjin Stirling
 - Keflusker Stirling

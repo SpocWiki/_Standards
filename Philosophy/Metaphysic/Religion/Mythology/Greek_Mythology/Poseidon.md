@@ -349,7 +349,7 @@ dv_has_:
     bar: Poseidon
     bcl: Poseidon (King of the sea)
     be: Пасейдон
-    be-tarask: Пасэйдон
+    be_tarask: Пасэйдон
     bg: Посейдон
     bn: পসেইডন
     br: Poseidon
@@ -394,7 +394,7 @@ dv_has_:
     kk: Посейдон
     ko: 포세이돈
     ku: Posîdon
-    ku-latn: Posîdon
+    ku_latn: Posîdon
     la: Posidon
     lb: Poseidon
     lt: Poseidonas
@@ -447,10 +447,10 @@ dv_has_:
     wuu: 波塞冬
     yue: 波塞冬
     zh: 波塞冬
-    zh-cn: 波塞冬
-    zh-hans: 波塞冬
-    zh-hant: 波塞冬
-    zh-tw: 波塞頓
+    zh_cn: 波塞冬
+    zh_hans: 波塞冬
+    zh_hant: 波塞冬
+    zh_tw: 波塞頓
 ---
 # [[Poseidon]] 
 

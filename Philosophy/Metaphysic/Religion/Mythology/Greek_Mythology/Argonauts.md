@@ -90,7 +90,7 @@ dv_has_:
     az: Arqonavtlar
     ba: Аргонавтар
     be: Арганаўты
-    be-tarask: арганаўты
+    be_tarask: арганаўты
     bg: Аргонавти
     br: Argonaoted
     ca: Argonautes
@@ -100,8 +100,8 @@ dv_has_:
     de: Argonautensage
     el: Αργοναύτες
     en: Argonauts
-    en-ca: Argonauts
-    en-gb: Argonauts
+    en_ca: Argonauts
+    en_gb: Argonauts
     eo: Argonaŭtoj
     es: Argonautas
     et: Argonaudid
@@ -121,11 +121,11 @@ dv_has_:
     ja: アルゴナウタイ
     ka: არგონავტები
     kk: Аргонавтар
-    kk-arab: ارگوناۆتار
+    kk_arab: ارگوناۆتار
     kk-cn: ارگوناۆتار
-    kk-cyrl: Аргонавтар
+    kk_cyrl: Аргонавтар
     kk-kz: Аргонавтар
-    kk-latn: Argonavtar
+    kk_latn: Argonavtar
     kk-tr: Argonavtar
     ko: 아르고나우타이
     la: Argonautae
@@ -142,7 +142,7 @@ dv_has_:
     pa: ਅਰਗੋਨੌਟਸ
     pl: Argonauci
     pt: Argonautas
-    pt-br: Argonautas
+    pt_br: Argonautas
     ro: Argonauți
     ru: Аргонавты
     scn: Argunàuti
@@ -151,8 +151,8 @@ dv_has_:
     sl: argonavti
     sq: Argonautët
     sr: Аргонаути
-    sr-ec: Аргонаути
-    sr-el: Argonauti
+    sr_ec: Аргонаути
+    sr_el: Argonauti
     sv: Argonaut
     ta: ஆர்கனாட்டுக்கள்
     tl: Argonota
@@ -165,12 +165,12 @@ dv_has_:
     wuu: 阿耳戈船英雄
     yue: 阿爾哥英雄
     zh: 阿爾戈英雄
-    zh-cn: 阿耳戈船英雄
-    zh-hans: 阿耳戈船英雄
-    zh-hant: 阿爾戈英雄
-    zh-hk: 阿爾戈英雄
-    zh-sg: 阿耳戈船英雄
-    zh-tw: 阿爾戈英雄
+    zh_cn: 阿耳戈船英雄
+    zh_hans: 阿耳戈船英雄
+    zh_hant: 阿爾戈英雄
+    zh_hk: 阿爾戈英雄
+    zh_sg: 阿耳戈船英雄
+    zh_tw: 阿爾戈英雄
 ---
 # [[Argonauts]] 
 

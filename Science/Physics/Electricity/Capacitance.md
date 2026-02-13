@@ -112,7 +112,7 @@ dv_has_:
     ast: capacidá llétrica
     az: elektrik tutumu
     bar: elektrische Kapazität
-    be-tarask: электрычная ёмістасьць
+    be_tarask: электрычная ёмістасьць
     bg: електрически капацитет
     bn: ধারকত্ব
     bs: električni kapacitet
@@ -145,11 +145,11 @@ dv_has_:
     ja: 静電容量
     ka: ელექტროტევადობა
     kk: электрсыйымдылық
-    kk-arab: ەلەكترسىيىمدىلىق
+    kk_arab: ەلەكترسىيىمدىلىق
     kk-cn: ەلەكترسىيىمدىلىق
-    kk-cyrl: электрсыйымдылық
+    kk_cyrl: электрсыйымдылық
     kk-kz: электрсыйымдылық
-    kk-latn: élektrsıýımdılıq
+    kk_latn: élektrsıýımdılıq
     kk-tr: élektrsıýımdılıq
     ko: 전기 용량
     lt: elektrinė talpa
@@ -179,8 +179,8 @@ dv_has_:
     smn: kapasitans
     sms: kapasitanss
     sr: електрични капацитет
-    sr-ec: електрични капацитет
-    sr-el: električni kapacitet
+    sr_ec: електрични капацитет
+    sr_el: električni kapacitet
     sv: kapacitans
     ta: மின்தேக்கம்
     tg: гунҷоиши электрӣ
@@ -194,12 +194,12 @@ dv_has_:
     wuu: 电容
     yue: 電容
     zh: 電容
-    zh-cn: 电容
-    zh-hans: 电容
-    zh-hant: 電容
-    zh-hk: 電容
-    zh-sg: 电容
-    zh-tw: 電容
+    zh_cn: 电容
+    zh_hans: 电容
+    zh_hant: 電容
+    zh_hk: 電容
+    zh_sg: 电容
+    zh_tw: 電容
 ---
 # [[Capacitance]] 
 

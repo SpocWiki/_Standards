@@ -209,7 +209,7 @@ dv_has_:
     az: Elton Con
     azb: التون جان
     be: Элтан Джон
-    be-tarask: Элтан Джон
+    be_tarask: Элтан Джон
     bg: Елтън Джон
     bi: Elton John
     bn: এলটন জন
@@ -218,11 +218,11 @@ dv_has_:
     cy: Elton John
     dag: Elton John
     de: Elton John
-    de-ch: Elton John
+    de_ch: Elton John
     el: Έλτον Τζον
     en: Elton John
-    en-ca: Elton John
-    en-gb: Elton John
+    en_ca: Elton John
+    en_gb: Elton John
     eo: Elton John
     es: Elton John
     et: Elton John
@@ -277,7 +277,7 @@ dv_has_:
     pa: ਐਲਟਨ ਜਾਨ
     pam: Elton John
     pt: Elton John
-    pt-br: Elton John
+    pt_br: Elton John
     qu: Elton John
     rmf: Elton John
     ro: Elton John
@@ -312,9 +312,9 @@ dv_has_:
     xmf: ელთონ ჯონი
     yue: 艾頓莊
     zh: 艾爾頓·強
-    zh-hk: 艾頓·莊
+    zh_hk: 艾頓·莊
     zh-my: 艾顿·庄
-    zh-sg: 艾登·约翰
+    zh_sg: 艾登·约翰
 ---
 # [[John,Elton]] 
 

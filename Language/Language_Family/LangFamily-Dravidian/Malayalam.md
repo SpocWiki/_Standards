@@ -161,7 +161,7 @@ dv_has_:
     az: Malayalam
     azb: مالایالم دیلی
     be: малаяльская мова
-    be-tarask: малаяльская мова
+    be_tarask: малаяльская мова
     bg: Малаялам
     bho: मलयालम
     bjn: Bahasa Malayalam
@@ -180,8 +180,8 @@ dv_has_:
     dv: މަލަޔާޅަމް
     el: Μαλαγιαλάμ
     en: Malayalam
-    en-ca: Malayalam
-    en-gb: Malayalam
+    en_ca: Malayalam
+    en_gb: Malayalam
     eo: malajala lingvo
     es: malabar
     et: Malajalami keel
@@ -228,12 +228,12 @@ dv_has_:
     mni: ꯃꯂꯥꯌꯥꯂꯝ ꯂꯣꯟ
     mr: मलयाळम
     ms: Bahasa Malayalam
-    ms-arab: بهاس مالايالم
+    ms_arab: بهاس مالايالم
     mzn: مالایالم
     nan: Malayalam-gí
     nb: malayalam
     nds: Malayalam
-    nds-nl: Malayalam
+    nds_nl: Malayalam
     ne: मलयालम
     new: मलयालम भाषा
     nl: Malayalam
@@ -250,7 +250,7 @@ dv_has_:
     pnb: ملیالم
     ps: مليالم
     pt: língua malaiala
-    pt-br: língua malaiala
+    pt_br: língua malaiala
     qu: Malayalam simi
     ro: limba malayalam
     ru: малаялам
@@ -266,7 +266,7 @@ dv_has_:
     sms: malajalaamǩiõll
     sq: Gjuha malajalame
     sr: Малајалам
-    sr-ec: Малајалам
+    sr_ec: Малајалам
     sv: malayalam
     sw: Kimalayalam
     szl: Malajalamskŏ gŏdka
@@ -291,8 +291,8 @@ dv_has_:
     yi: מאַלאַיאַלאַם
     yue: 馬拉也林文
     zh: 马拉雅拉姆语
-    zh-cn: 马拉雅拉姆语
-    zh-hant: 馬拉雅拉姆語
+    zh_cn: 马拉雅拉姆语
+    zh_hant: 馬拉雅拉姆語
     zu: isi-Malayalam
 ---
 # [[Malayalam]] 

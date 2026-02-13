@@ -73,7 +73,7 @@ dv_has_:
     ast: Asociación de Clubes Europeos
     az: Avropa Klublar Assosiasiyası
     be: Асацыяцыя еўрапейскіх клубаў
-    be-tarask: Асацыяцыя эўрапейскіх клюбаў
+    be_tarask: Асацыяцыя эўрапейскіх клюбаў
     bg: Асоциация на европейските клубове
     bn: ইউরোপিয়ান ক্লাব অ্যাসোসিয়েশন
     bs: Asocijacija evropskih klubova
@@ -81,11 +81,11 @@ dv_has_:
     cs: Evropská klubová asociace
     da: European Club Association
     de: European Club Association
-    de-ch: European Club Association
+    de_ch: European Club Association
     el: Ομοσπονδία Ευρωπαϊκών Συλλόγων
     en: European Football Clubs
-    en-ca: European Club Association
-    en-gb: European Club Association
+    en_ca: European Club Association
+    en_gb: European Club Association
     es: Asociación de Clubes Europeos
     eu: Europako Kluben Elkartea
     fa: اتحادیه باشگاههای فوتبال اروپا
@@ -103,7 +103,7 @@ dv_has_:
     nl: European Club Association
     pl: Europejskie Stowarzyszenie Klubów
     pt: Associação de Clubes Europeus
-    pt-br: Associação de Clubes Europeus
+    pt_br: Associação de Clubes Europeus
     ro: Asociația Cluburilor Europene
     ru: Ассоциация европейских клубов
     sr: Asocijacija evropskih klubova
@@ -112,9 +112,9 @@ dv_has_:
     uk: Асоціація європейських клубів
     vi: Hiệp hội các Câu lạc bộ Châu Âu
     zh: 歐洲足球會協會
-    zh-hans: 欧洲足球会协会
-    zh-hant: 歐洲足球會協會
-    zh-hk: 歐洲足球會協會
+    zh_hans: 欧洲足球会协会
+    zh_hant: 歐洲足球會協會
+    zh_hk: 歐洲足球會協會
 ---
 # [[European_Club_Association]] 
 

@@ -97,7 +97,7 @@ dv_has_:
     avk: Fuzoldunol (Proboscidea)
     az: Xortumlular
     be: Хобатныя
-    be-tarask: хобатныя
+    be_tarask: хобатныя
     bg: хоботни
     bn: শুড়ধারী
     br: Proboscidea
@@ -110,8 +110,8 @@ dv_has_:
     de: Rüsseltiere
     el: Προβοσκειδοειδή
     en: Proboscidea
-    en-ca: Proboscidea
-    en-gb: Proboscidea
+    en_ca: Proboscidea
+    en_gb: Proboscidea
     eo: Rostruloj
     es: Proboscidea
     et: Proboscidea
@@ -158,7 +158,7 @@ dv_has_:
     mul: Proboscidea
     nb: Snabeldyr
     nds: Proboscidea
-    nds-nl: Proboscidea
+    nds_nl: Proboscidea
     nl: slurfdieren
     nn: Snabeldyr
     nov: Proboscidea
@@ -166,7 +166,7 @@ dv_has_:
     pl: trąbowce
     pms: Proboscidea
     pt: Proboscidea
-    pt-br: Proboscidea
+    pt_br: Proboscidea
     ro: Proboscidieni
     ru: хоботные
     sah: тумсуктаахтар
@@ -192,9 +192,9 @@ dv_has_:
     wuu: 长鼻目
     yue: 長鼻目
     zh: 长鼻目
-    zh-cn: 长鼻目
-    zh-hans: 长鼻目
-    zh-tw: 長鼻目
+    zh_cn: 长鼻目
+    zh_hans: 长鼻目
+    zh_tw: 長鼻目
 ---
 # [[Proboscidea]] 
 

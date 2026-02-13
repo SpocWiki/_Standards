@@ -127,7 +127,7 @@ dv_has_:
     ast: trabayador domésticu
     az: ev işçisi
     be: слуга
-    be-tarask: прыслуга
+    be_tarask: прыслуга
     bg: прислуга
     bn: চাকর
     ca: treballador domèstic
@@ -139,8 +139,8 @@ dv_has_:
     el: οικιακός εργαζόμενος
     eml: Badànt
     en: domestic worker
-    en-ca: Domestic worker
-    en-gb: domestic worker
+    en_ca: Domestic worker
+    en_gb: domestic worker
     eo: servisto
     es: trabajador doméstico
     et: koduabiline
@@ -172,7 +172,7 @@ dv_has_:
     nl: huishoudelijke hulp
     pl: służący
     pt: empregado doméstico
-    pt-br: doméstico
+    pt_br: doméstico
     ru: прислуга
     sah: Чаҕар
     scn: Criatu
@@ -191,14 +191,14 @@ dv_has_:
     vi: người giúp việc
     yue: 工人
     zh: 家庭傭工
-    zh-cn: 僕人
-    zh-hans: 仆人
-    zh-hant: 家務工
-    zh-hk: 僕人
-    zh-mo: 僕人
+    zh_cn: 僕人
+    zh_hans: 仆人
+    zh_hant: 家務工
+    zh_hk: 僕人
+    zh_mo: 僕人
     zh-my: 仆人
-    zh-sg: 仆人
-    zh-tw: 僕人
+    zh_sg: 仆人
+    zh_tw: 僕人
 ---
 # [[Domestic_Worker]] 
 

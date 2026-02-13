@@ -235,7 +235,7 @@ dv_has_:
     bar: Rabindranath Tagore
     bcl: Rabindranath Tagore
     be: Рабіндранат Тагор
-    be-tarask: Рабіндранат Тагор
+    be_tarask: Рабіндранат Тагор
     bg: Рабиндранат Тагор
     bho: रबीन्द्रनाथ ठाकुर
     bi: Rabindranath Tagore
@@ -257,13 +257,13 @@ dv_has_:
     cy: Rabindranath Tagore
     da: Rabindranath Tagore
     de: Rabindranath Tagore
-    de-ch: Rabindranath Tagore
+    de_ch: Rabindranath Tagore
     dty: रवीन्द्रनाथ ठाकुर
     dv: ރަބިންދްރަނާތު ޓޭގޯރ
     el: Ραμπιντρανάθ Ταγκόρ
     en: Rabindranath Tagore
-    en-ca: Rabindranath Tagore
-    en-gb: Rabindranath Tagore
+    en_ca: Rabindranath Tagore
+    en_gb: Rabindranath Tagore
     eo: Rabindranath Tagore
     es: Rabindranath Tagore
     et: Rabindranath Tagore
@@ -347,7 +347,7 @@ dv_has_:
     pnb: رابندرناتھ ٹیگور
     ps: رابندرانات ټاگور
     pt: Rabindranath Tagore
-    pt-br: Rabindranath Tagore
+    pt_br: Rabindranath Tagore
     qu: Rabindranath Tagore
     rmf: Rabindranath Tagore
     ro: Rabindranath Tagore
@@ -401,9 +401,9 @@ dv_has_:
     yue: 泰戈爾
     za: Daiqgwzwj
     zh: 罗宾德拉纳特·泰戈尔
-    zh-cn: 罗宾德拉纳特·泰戈尔
-    zh-hans: 罗宾德拉纳特·泰戈尔
-    zh-hant: 羅賓德拉納特·泰戈爾
+    zh_cn: 罗宾德拉纳特·泰戈尔
+    zh_hans: 罗宾德拉纳特·泰戈尔
+    zh_hant: 羅賓德拉納特·泰戈爾
 ---
 # [[Tagore,Rabindranath]] 
 

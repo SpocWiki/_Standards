@@ -131,7 +131,7 @@ dv_has_:
     azb: جوانلیق
     bcl: hoben
     be: моладзь
-    be-tarask: моладзь
+    be_tarask: моладзь
     bg: Младост
     bn: তারুণ্য
     br: yaouankiz
@@ -177,7 +177,7 @@ dv_has_:
     ko: 청년
     ko-kp: 청년
     ku: ciwantî
-    ku-arab: كةنج
+    ku_arab: كةنج
     ky: Жаштар
     la: Iuventus
     lt: jaunystė
@@ -211,8 +211,8 @@ dv_has_:
     sms: nuõrrpodd
     sq: Rinia (moshë)
     sr: омладина
-    sr-ec: Омладина
-    sr-el: Omladina
+    sr_ec: Омладина
+    sr_el: Omladina
     sv: ungdom
     sw: Ujana
     szl: modziyż
@@ -231,12 +231,12 @@ dv_has_:
     yue: "\U000210C1"
     za: bouxcoz
     zh: 青年
-    zh-cn: 青年
-    zh-hans: 青年
-    zh-hant: 青年
-    zh-hk: 青年
-    zh-sg: 青年
-    zh-tw: 青年
+    zh_cn: 青年
+    zh_hans: 青年
+    zh_hant: 青年
+    zh_hk: 青年
+    zh_sg: 青年
+    zh_tw: 青年
     zu: ubusha
 ---
 # [[Youth]] 

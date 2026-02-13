@@ -32,7 +32,7 @@ dv_has_:
     ast: Conodonta
     az: Konodontalar
     be: Канадонты
-    be-tarask: Канадонты
+    be_tarask: Канадонты
     bg: Conodonta
     bs: Conodonta
     ca: Conodont
@@ -76,8 +76,8 @@ dv_has_:
     vi: Conodonta
     war: Conodonta
     zh: 牙形石纲
-    zh-cn: 牙形石纲
-    zh-hans: 牙形石纲
+    zh_cn: 牙形石纲
+    zh_hans: 牙形石纲
 ---
 # [[Euconodonta]]
 

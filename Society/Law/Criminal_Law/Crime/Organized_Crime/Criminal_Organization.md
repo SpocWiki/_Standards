@@ -63,7 +63,7 @@ dv_has_:
     ar: منظمة إجرامية
     arz: منظمه اجراميه
     be: злачынная арганізацыя
-    be-tarask: злачынная арганізацыя
+    be_tarask: злачынная арганізацыя
     bn: অপরাধী সংগঠন
     br: aozadur torfederezh
     ca: organització criminal
@@ -73,7 +73,7 @@ dv_has_:
     de: kriminelle Vereinigung
     el: εγκληματική οργάνωση
     en: criminal organization
-    en-gb: criminal organisation
+    en_gb: criminal organisation
     eo: porkrima organizaĵo
     es: organización criminal
     et: Kuritegelik ühendus
@@ -89,11 +89,11 @@ dv_has_:
     ja: 犯罪組織
     kk: Қылмыстық қауымдастық (қылмыстық ұйым) құру
     ku: rêxistina tawankar
-    ku-latn: rêxistina tawankar
+    ku_latn: rêxistina tawankar
     la: organizatio criminalis
     mk: криминална организација
     ms: organisasi jenayah
-    ms-arab: اورݢانيساسي جنايه
+    ms_arab: اورݢانيساسي جنايه
     nb: kriminell organisasjon
     nl: criminele organisatie
     pl: organizacja przestępcza
@@ -108,7 +108,7 @@ dv_has_:
     ur: مجرم تنظیم
     vi: tổ chức tội phạm
     zh: 犯罪組織
-    zh-hant: 犯罪組織
+    zh_hant: 犯罪組織
 ---
 # [[Criminal_Organization]] 
 

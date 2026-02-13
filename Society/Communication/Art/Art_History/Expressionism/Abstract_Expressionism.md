@@ -81,7 +81,7 @@ dv_has_:
     arz: التعبيريه التجريديه
     az: abstrakt ekspressionizm
     be: абстрактны экспрэсіянізм
-    be-tarask: абстрактны экспрэсіянізм
+    be_tarask: абстрактны экспрэсіянізм
     bg: Абстрактен експресионизъм
     bn: বিমূর্ত অভিব্যাক্তি বাদ
     bs: Apstraktni ekspresionizam
@@ -90,11 +90,11 @@ dv_has_:
     cy: Mynegiadaeth Haniaethol
     da: Abstrakt ekspressionisme
     de: abstrakter Expressionismus
-    de-ch: Abstrakter Expressionismus
+    de_ch: Abstrakter Expressionismus
     el: Αφηρημένος Εξπρεσιονισμός
     en: abstract expressionism
-    en-ca: Abstract expressionism
-    en-gb: abstract expressionism
+    en_ca: Abstract expressionism
+    en_gb: abstract expressionism
     eo: abstrakta ekspresionismo
     es: expresionismo abstracto
     et: abstraktne ekspressionism
@@ -115,11 +115,11 @@ dv_has_:
     ja: 抽象表現主義
     ka: აბსტრაქტული ექსპრესიონიზმი
     kk: абстрактілі экспрессионизм
-    kk-arab: ابستراكتىلى ەكسپرەسسىيونىيزم
+    kk_arab: ابستراكتىلى ەكسپرەسسىيونىيزم
     kk-cn: ابستراكتىلى ەكسپرەسسىيونىيزم
-    kk-cyrl: Абстрактілі экспрессионизм
+    kk_cyrl: Абстрактілі экспрессионизм
     kk-kz: Абстрактілі экспрессионизм
-    kk-latn: Abstraktili ékspressïonïzm
+    kk_latn: Abstraktili ékspressïonïzm
     kk-tr: Abstraktili ékspressïonïzm
     ko: 추상표현주의
     kw: Menegesydhieth Tybel
@@ -135,7 +135,7 @@ dv_has_:
     pa: ਅਮੂਰਤ ਅਭਿਅੰਜਨਾਵਾਦ
     pl: Ekspresjonizm abstrakcyjny
     pt: expressionismo abstrato
-    pt-br: Expressionismo abstrato
+    pt_br: Expressionismo abstrato
     ro: expresionism abstract
     ru: абстрактный экспрессионизм
     rue: Абстрактный експресионизм
@@ -148,8 +148,8 @@ dv_has_:
     sms: abstraaktlaž ekspressionismm
     sq: Ekspresionizmi Abstrakt
     sr: апстрактни експресионизам
-    sr-ec: апстрактни експресионизам
-    sr-el: apstraktni ekspresionizam
+    sr_ec: апстрактни експресионизам
+    sr_el: apstraktni ekspresionizam
     sv: abstrakt expressionism
     ta: பண்பியல் வெளிப்பாட்டியம்
     th: ลัทธิสำแดงพลังอารมณ์แนวนามธรรม
@@ -160,12 +160,12 @@ dv_has_:
     wuu: 抽象表现主义
     yue: 抽象表現主義
     zh: 抽象表現主義
-    zh-cn: 抽象表现主义
-    zh-hans: 抽象表现主义
-    zh-hant: 抽象表現主義
-    zh-hk: 抽象表現主義
-    zh-sg: 抽象表现主义
-    zh-tw: 抽象表現主義
+    zh_cn: 抽象表现主义
+    zh_hans: 抽象表现主义
+    zh_hant: 抽象表現主義
+    zh_hk: 抽象表現主義
+    zh_sg: 抽象表现主义
+    zh_tw: 抽象表現主義
 ---
 # [[Abstract_Expressionism]] 
 

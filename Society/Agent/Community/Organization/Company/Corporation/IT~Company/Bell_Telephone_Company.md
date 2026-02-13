@@ -29,9 +29,9 @@ dv_has_:
     sl: Bell System
     sv: Bell System
     zh: 貝爾系統
-    zh-cn: 贝尔系统
-    zh-hans: 贝尔系统
-    zh-hant: 美國貝爾公司
+    zh_cn: 贝尔系统
+    zh_hans: 贝尔系统
+    zh_hant: 美國貝爾公司
 ---
 # [[Bell_Telephone_Company]] 
 

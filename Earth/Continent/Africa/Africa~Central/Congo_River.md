@@ -241,7 +241,7 @@ dv_has_:
     bar: Kongo
     bcl: Salog Kongo
     be: Конга
-    be-tarask: Конга
+    be_tarask: Конга
     bg: Конго
     bho: कांगो नदी
     bn: কঙ্গো নদী
@@ -263,8 +263,8 @@ dv_has_:
     dsb: Kongo
     el: Κονγκό
     en: Congo
-    en-ca: Congo River
-    en-gb: Congo
+    en_ca: Congo River
+    en_gb: Congo
     en-us: Congo
     eo: Rivero Kongo
     es: Congo
@@ -330,7 +330,7 @@ dv_has_:
     nan: Congo Hô
     nb: Kongo
     nds: Kongo (Stroom)
-    nds-nl: Kongo
+    nds_nl: Kongo
     ne: कङ्गो नदी
     new: कङ्गो खुसि
     nl: Kongo
@@ -344,7 +344,7 @@ dv_has_:
     pnb: کانگو دریا
     ps: کانګو سیند
     pt: Congo
-    pt-br: Rio Congo
+    pt_br: Rio Congo
     qu: Kungu mayu
     ro: Congo
     roa-tara: Congo, jume
@@ -362,8 +362,8 @@ dv_has_:
     sms: Kongojokk
     sq: Lumi Kongo
     sr: Конго
-    sr-ec: Конго
-    sr-el: Kongo
+    sr_ec: Конго
+    sr_el: Kongo
     sv: Kongofloden
     sw: Mto wa Kongo
     ta: காங்கோ ஆறு
@@ -391,9 +391,9 @@ dv_has_:
     za: Dah Ganghgoj
     zea: Konho (rivier)
     zh: 刚果河
-    zh-cn: 刚果河
-    zh-hans: 刚果河
-    zh-hant: 剛果河
+    zh_cn: 刚果河
+    zh_hans: 刚果河
+    zh_hant: 剛果河
 ---
 # [[Congo_River]] 
 

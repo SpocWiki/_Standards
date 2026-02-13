@@ -50,7 +50,7 @@ dv_has_:
     bar: Donald Sutherland
     bcl: Donald Sutherland
     be: Дональд Сазерленд
-    be-tarask: Дональд Сазэрлэнд
+    be_tarask: Дональд Сазэрлэнд
     bg: Доналд Съдърланд
     bn: ডোনাল্ড সাদারল্যান্ড
     br: Donald Sutherland
@@ -63,15 +63,15 @@ dv_has_:
     da: Donald Sutherland
     de: Donald Sutherland
     de-at: Donald Sutherland
-    de-ch: Donald Sutherland
+    de_ch: Donald Sutherland
     dsb: Donald Sutherland
     ee: Donald Sutherland
     egl: Donald Sutherland
     el: Ντόναλντ Σάδερλαντ
     eml: Donald Sutherland
     en: Donald Sutherland
-    en-ca: Donald Sutherland
-    en-gb: Donald Sutherland
+    en_ca: Donald Sutherland
+    en_gb: Donald Sutherland
     eo: Donald Sutherland
     es: Donald Sutherland
     et: Donald Sutherland
@@ -127,7 +127,7 @@ dv_has_:
     li: Donald Sutherland
     lt: Donald Sutherland
     lv: Donalds Saterlends
-    map-bms: Donald Sutherland
+    map_bms: Donald Sutherland
     mk: Доналд Сатерленд
     mn: Дональд Сазерленд
     mr: डॉनल्ड सदरलँड
@@ -137,7 +137,7 @@ dv_has_:
     nap: Donald Sutherland
     nb: Donald Sutherland
     nds: Donald Sutherland
-    nds-nl: Donald Sutherland
+    nds_nl: Donald Sutherland
     nl: Donald Sutherland
     nn: Donald Sutherland
     nov: Donald Sutherland
@@ -154,7 +154,7 @@ dv_has_:
     pl: Donald Sutherland
     pms: Donald Sutherland
     pt: Donald Sutherland
-    pt-br: Donald Sutherland
+    pt_br: Donald Sutherland
     qu: Donald Sutherland
     ro: Donald Sutherland
     roa-tara: Donald Sutherland
@@ -172,8 +172,8 @@ dv_has_:
     sl: Donald Sutherland
     sq: Donald Sutherland
     sr: Доналд Садерланд
-    sr-ec: Доналд Садерланд
-    sr-el: Donald Saderland
+    sr_ec: Доналд Садерланд
+    sr_el: Donald Saderland
     srn: Donald Sutherland
     srq: Donald Sutherland
     ss: Donald Sutherland
@@ -212,13 +212,13 @@ dv_has_:
     yue: 當奴修打蘭
     zea: Donald Sutherland
     zh: 唐纳德·萨瑟兰
-    zh-cn: 唐纳德·萨瑟兰
-    zh-hans: 唐纳德·萨瑟兰
-    zh-hant: 唐納·蘇德蘭
-    zh-hk: 當奴·修打蘭
+    zh_cn: 唐纳德·萨瑟兰
+    zh_hans: 唐纳德·萨瑟兰
+    zh_hant: 唐納·蘇德蘭
+    zh_hk: 當奴·修打蘭
     zh-my: 当奴·修打兰
-    zh-sg: 唐纳·苏德兰
-    zh-tw: 唐納·蘇德蘭
+    zh_sg: 唐纳·苏德兰
+    zh_tw: 唐納·蘇德蘭
     zu: Donald Sutherland
 ---
 #has_/time_/started :: 1935-07-17

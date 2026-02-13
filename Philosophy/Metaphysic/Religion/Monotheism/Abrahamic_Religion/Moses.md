@@ -273,7 +273,7 @@ dv_has_:
     ba: Моисей
     bar: Moses
     be: Майсей
-    be-tarask: Майсей
+    be_tarask: Майсей
     bew: Musa
     bg: Моисей
     bn: মোশি
@@ -293,13 +293,13 @@ dv_has_:
     cy: Moses
     da: Moses
     de: Mose
-    de-ch: Mose
+    de_ch: Mose
     diq: Musa
     dsb: Mojzas
     el: Μωυσής
     en: Moses
-    en-ca: Moses
-    en-gb: Moses
+    en_ca: Moses
+    en_gb: Moses
     en-us: Moses
     eo: Moseo
     es: Moisés
@@ -392,7 +392,7 @@ dv_has_:
     pnb: موسى
     ps: موسی
     pt: Moisés
-    pt-br: Moisés
+    pt_br: Moisés
     qu: Moshe
     rki: မောရှေ
     rm: Moses
@@ -436,14 +436,14 @@ dv_has_:
     yue: 摩西
     zgh: ⵎⵓⵙⴰ
     zh: 摩西
-    zh-cn: 摩西
-    zh-hans: 摩西
-    zh-hant: 摩西
-    zh-hk: 摩西
-    zh-mo: 摩西
+    zh_cn: 摩西
+    zh_hans: 摩西
+    zh_hant: 摩西
+    zh_hk: 摩西
+    zh_mo: 摩西
     zh-my: 摩西
-    zh-sg: 摩西
-    zh-tw: 摩西
+    zh_sg: 摩西
+    zh_tw: 摩西
 ---
 # [[Moses]] 
 

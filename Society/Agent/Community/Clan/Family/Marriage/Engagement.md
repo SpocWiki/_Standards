@@ -106,7 +106,7 @@ dv_has_:
     ast: Esponsales
     az: Nişan mərasimi
     be: заручыны
-    be-tarask: заручыны
+    be_tarask: заручыны
     bg: Годеж
     br: Danvez-pried
     ca: esposalles
@@ -158,7 +158,7 @@ dv_has_:
     pnb: منگݨی
     ps: کوژدن
     pt: noivado
-    pt-br: noivado
+    pt_br: noivado
     ro: logodnă
     ru: обручение
     scn: Zitu
@@ -185,12 +185,12 @@ dv_has_:
     vi: Đính hôn
     yue: 訂婚
     zh: 訂婚
-    zh-cn: 订婚
-    zh-hans: 订婚
-    zh-hant: 訂婚
-    zh-hk: 訂婚
-    zh-sg: 订婚
-    zh-tw: 訂婚
+    zh_cn: 订婚
+    zh_hans: 订婚
+    zh_hant: 訂婚
+    zh_hk: 訂婚
+    zh_sg: 订婚
+    zh_tw: 訂婚
 ---
 # [[Engagement]] 
 

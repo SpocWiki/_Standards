@@ -54,7 +54,7 @@ disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,237664
 dv_has_:
   name_:
     ar: نعومة دالة
-    be-tarask: гладкая функцыя
+    be_tarask: гладкая функцыя
     ca: Suavitat d'una funció
     cs: hladká funkce
     de: glatte Funktion
@@ -72,9 +72,9 @@ dv_has_:
     it: funzione liscia
     ja: 滑らかな関数
     kk: Сыптығыр функция
-    kk-arab: سىپتىعىر فۋنكتسىييا
-    kk-cyrl: Сыптығыр функция
-    kk-latn: Sıptığır fwnkcïya
+    kk_arab: سىپتىعىر فۋنكتسىييا
+    kk_cyrl: Сыптығыр функция
+    kk_latn: Sıptığır fwnkcïya
     ko: 매끄러운 함수
     ko-kp: 미끈한 함수
     la: functio glabra
@@ -83,7 +83,7 @@ dv_has_:
     nl: gladde functie
     pl: funkcja gładka
     pt: função suave
-    pt-br: função suave
+    pt_br: função suave
     ro: funcție netedă
     ru: бесконечно гладкая функция
     sl: gladka funkcija
@@ -91,10 +91,10 @@ dv_has_:
     tr: Düzgünlük
     uk: Гладенька функція
     zh: 光滑函数
-    zh-hans: 光滑函数
-    zh-hant: 光滑函數
-    zh-hk: 光滑函數
-    zh-tw: 光滑函数
+    zh_hans: 光滑函数
+    zh_hant: 光滑函數
+    zh_hk: 光滑函數
+    zh_tw: 光滑函数
 ---
 # [[smooth_Function]] 
 

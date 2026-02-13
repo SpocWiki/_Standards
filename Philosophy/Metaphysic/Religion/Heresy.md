@@ -113,7 +113,7 @@ dv_has_:
     az: Bidət
     ba: Мөртәтлек
     be: ерась
-    be-tarask: ерась
+    be_tarask: ерась
     bg: Ерес
     bn: ধর্মদ্রোহিতা
     bs: Hereza
@@ -149,11 +149,11 @@ dv_has_:
     it: eresia
     ja: 異端
     kk: Ересьтер
-    kk-arab: ەرەستەر
+    kk_arab: ەرەستەر
     kk-cn: ەرەستەر
-    kk-cyrl: Ересьтер
+    kk_cyrl: Ересьтер
     kk-kz: Ересьтер
-    kk-latn: Eresʹter
+    kk_latn: Eresʹter
     kk-tr: Eresʹter
     ko: 이단
     la: haeresis
@@ -184,8 +184,8 @@ dv_has_:
     sl: herezija
     sq: Herezia
     sr: јерес
-    sr-ec: Јерес
-    sr-el: Jeres
+    sr_ec: Јерес
+    sr_el: Jeres
     sv: kätteri
     sw: Uzushi wa kidini
     ta: திரிபுக் கொள்கை
@@ -200,12 +200,12 @@ dv_has_:
     wuu: 异端
     yue: 異端
     zh: 異端
-    zh-cn: 异端
-    zh-hans: 异端
-    zh-hant: 異端
-    zh-hk: 異端
-    zh-sg: 异端
-    zh-tw: 異端
+    zh_cn: 异端
+    zh_hans: 异端
+    zh_hant: 異端
+    zh_hk: 異端
+    zh_sg: 异端
+    zh_tw: 異端
 ---
 # [[Heresy]] 
 

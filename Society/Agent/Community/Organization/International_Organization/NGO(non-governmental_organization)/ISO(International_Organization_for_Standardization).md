@@ -214,7 +214,7 @@ dv_has_:
     av: Халкъалдагьоркьосеб роценалъул гӀуцӀцӀи
     az: Beynəlxalq standartlaşdırma təşkilatı
     ba: Халыҡ-ара стандартлаштырыу ойошмаһы
-    be-tarask: Міжнародная арганізацыя па стандартызацыі
+    be_tarask: Міжнародная арганізацыя па стандартызацыі
     bg: Международна организация по стандартизация
     bho: अंतर्राष्ट्रीय मानकीकरण संस्था
     bn: আন্তর্জাতিক মান সংস্থা
@@ -285,8 +285,8 @@ dv_has_:
     sl: Mednarodna organizacija za standardizacijo
     sq: Organizata Ndërkombëtare për Standardizim
     sr: Међународна организација за стандардизацију
-    sr-ec: Међународна организација за стандардизацију
-    sr-el: Međunarodna organizacija za standardizaciju
+    sr_ec: Међународна организација за стандардизацију
+    sr_el: Međunarodna organizacija za standardizaciju
     sv: Internationella standardiseringsorganisationen
     sw: Shirika la Kimataifa la Usanifishaji
     syl: ꠀꠁꠄꠌꠅ
@@ -295,7 +295,7 @@ dv_has_:
     tl: Organisasyong Pandaigdig para sa Pagsasapamantayan
     tok: kulupu ISO
     tt: Халыкара Стандартлау Оешмасы
-    tt-cyrl: Халыкара Стандартлау Оешмасы
+    tt_cyrl: Халыкара Стандартлау Оешмасы
     uk: Міжнародна організація зі стандартизації
     ur: بین الاقوامی تنظیم برائے معیاریت
     uz: Xalqaro Standartlashtirish Tashkiloti
@@ -307,14 +307,14 @@ dv_has_:
     yo: Àgbájọ Káríayé fún Ìṣọ̀págun
     yue: 國際標準化組織
     zh: 國際標準化組織
-    zh-cn: 国际标准化组织
-    zh-hans: 国际标准化组织
-    zh-hant: 國際標準化組織
-    zh-hk: 國際標準化組織
-    zh-mo: 國際標準化組織
+    zh_cn: 国际标准化组织
+    zh_hans: 国际标准化组织
+    zh_hant: 國際標準化組織
+    zh_hk: 國際標準化組織
+    zh_mo: 國際標準化組織
     zh-my: 国际标准化组织
-    zh-sg: 国际标准化组织
-    zh-tw: 國際標準化組織
+    zh_sg: 国际标准化组织
+    zh_tw: 國際標準化組織
 ---
 # [[ISO(International_Organization_for_Standardization)]] 
 

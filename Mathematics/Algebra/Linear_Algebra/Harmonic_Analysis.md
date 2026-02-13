@@ -7,7 +7,7 @@ dv_has_:
     az: Harmonik analiz
     ba: гармоник анализ
     be: гарманічны аналіз
-    be-tarask: гарманічны аналіз
+    be_tarask: гарманічны аналіз
     bg: хармоничен анализ
     ca: anàlisi harmònica
     cs: harmonická analýza
@@ -41,14 +41,14 @@ dv_has_:
     nn: harmonisk analyse
     pl: analiza harmoniczna
     pt: análise harmónica
-    pt-br: análise harmônica
+    pt_br: análise harmônica
     ro: analiză armonică
     ru: гармонический анализ
     sl: harmonična analiza
     sq: analiza harmonike
     sr: хармонијска анализа
-    sr-ec: хармонијска анализа
-    sr-el: harmonijska analiza
+    sr_ec: хармонијска анализа
+    sr_el: harmonijska analiza
     sv: harmonisk analys
     tr: harmonik analizi
     uk: гармонічний аналіз
@@ -56,8 +56,8 @@ dv_has_:
     wuu: 调和分析
     yue: 諧波分析
     zh: 調和分析
-    zh-hans: 调和分析
-    zh-hant: 調和分析
+    zh_hans: 调和分析
+    zh_hant: 調和分析
 aliases:
 - analisi armonica
 - analisi armonika

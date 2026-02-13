@@ -61,7 +61,7 @@ dv_has_:
     avk: Xusoldunol (Dasyuromorphia)
     az: Yırtıcı kisəlilər
     azb: ییرتیجی کیسهلیلر
-    be-tarask: поліпратоданты
+    be_tarask: поліпратоданты
     bg: Хищни торбести
     br: Dasyuromorphia
     ca: dasiüromorfs
@@ -71,8 +71,8 @@ dv_has_:
     de: Raubbeutlerartige
     el: Δασυουρόμορφα
     en: Dasyuromorphia
-    en-ca: Dasyuromorphia
-    en-gb: Dasyuromorphia
+    en_ca: Dasyuromorphia
+    en_gb: Dasyuromorphia
     eo: Dasiuro
     es: Dasyuromorphia
     eu: Dasyuromorphia
@@ -106,7 +106,7 @@ dv_has_:
     oc: Dasyuromorphia
     pl: Niełazokształtne
     pt: Dasyuromorphia
-    pt-br: Dasyuromorphia
+    pt_br: Dasyuromorphia
     ro: Dasyuromorphia
     ru: Хищные сумчатые
     sco: Dasyuromorphia
@@ -124,12 +124,12 @@ dv_has_:
     yue: 袋鼬目
     zea: Roofbudelbeêsten
     zh: 袋鼬目
-    zh-cn: 袋鼬目
-    zh-hans: 袋鼬目
-    zh-hant: 袋鼬目
-    zh-hk: 袋鼬目
-    zh-sg: 袋鼬目
-    zh-tw: 袋鼬目
+    zh_cn: 袋鼬目
+    zh_hans: 袋鼬目
+    zh_hant: 袋鼬目
+    zh_hk: 袋鼬目
+    zh_sg: 袋鼬目
+    zh_tw: 袋鼬目
 ---
 # [[Dasyuromorphia]]
 

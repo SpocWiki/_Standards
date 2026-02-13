@@ -88,7 +88,7 @@ dv_has_:
     ar: زراعة في الماء
     az: hidroponika
     be: Гідрапоніка
-    be-tarask: гідрапоніка
+    be_tarask: гідрапоніка
     bg: Хидропоника
     bho: हाइड्रोपोनिक खेती
     ca: Hidroponia
@@ -119,11 +119,11 @@ dv_has_:
     jv: Hidroponik
     ka: ჰიდროპონიკა
     kk: гидропоника
-    kk-arab: گىيدروپونىيكا
+    kk_arab: گىيدروپونىيكا
     kk-cn: گىيدروپونىيكا
-    kk-cyrl: Гидропоника
+    kk_cyrl: Гидропоника
     kk-kz: Гидропоника
-    kk-latn: gïdroponïka
+    kk_latn: gïdroponïka
     kk-tr: Gïdroponïka
     kn: ಹೈಡ್ರೋಪೋನಿಕ್ಸ್
     ko: 양액재배
@@ -149,7 +149,7 @@ dv_has_:
     sl: hidroponika
     so: Haydaroboniig
     sr: Хидропонија
-    sr-ec: хидропонија
+    sr_ec: хидропонија
     su: Hidroponik
     sv: hydrokultur
     ta: நீரியல் வளர்ப்பு
@@ -161,12 +161,12 @@ dv_has_:
     vi: thủy canh
     yue: 無土栽培
     zh: 水耕栽培
-    zh-cn: 水耕栽培
-    zh-hans: 水耕栽培
-    zh-hant: 水耕栽培
-    zh-hk: 水耕栽培
-    zh-sg: 水耕栽培
-    zh-tw: 水耕栽培
+    zh_cn: 水耕栽培
+    zh_hans: 水耕栽培
+    zh_hant: 水耕栽培
+    zh_hk: 水耕栽培
+    zh_sg: 水耕栽培
+    zh_tw: 水耕栽培
 ---
 # [[Hydroponics]] 
 

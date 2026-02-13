@@ -82,8 +82,8 @@ dv_has_:
     de: Moai
     el: Μοάι
     en: moai
-    en-ca: Moai
-    en-gb: moai
+    en_ca: Moai
+    en_gb: moai
     eo: Moai
     es: moái
     et: Moaid
@@ -143,9 +143,9 @@ dv_has_:
     wuu: 摩艾石像
     yue: 復活節島石像
     zh: 摩艾石像
-    zh-cn: 摩艾石像
-    zh-hans: 摩艾石像
-    zh-hant: 摩艾石像
+    zh_cn: 摩艾石像
+    zh_hans: 摩艾石像
+    zh_hant: 摩艾石像
 ---
 # [[Moai]] 🗿 
 

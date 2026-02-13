@@ -67,7 +67,7 @@ dv_has_:
     az: Dişsiz məməlilər
     azb: دیشسیز ممهلیلر
     be: непаўназубыя
-    be-tarask: ляніўцападобныя
+    be_tarask: ляніўцападобныя
     bg: Pilosa
     br: Pilosa
     ca: pilós
@@ -75,11 +75,11 @@ dv_has_:
     cs: Pilosa
     da: myresluger
     de: Zahnarme
-    de-ch: Zahnarme
+    de_ch: Zahnarme
     el: Βραδυποδόμορφα
     en: Pilosa
-    en-ca: Pilosa
-    en-gb: Pilosa
+    en_ca: Pilosa
+    en_gb: Pilosa
     eo: Pilosa
     es: Pilosa
     et: Napihambulised
@@ -114,7 +114,7 @@ dv_has_:
     oc: Pilosa
     pl: włochacze
     pt: Pilosa
-    pt-br: Pilosa
+    pt_br: Pilosa
     ro: Pilosa
     ru: неполнозубые
     sh: Krezubice
@@ -134,9 +134,9 @@ dv_has_:
     war: Pilosa
     wuu: 披毛目
     zh: 披毛目
-    zh-cn: 披毛目
-    zh-hans: 披毛目
-    zh-tw: 披毛目
+    zh_cn: 披毛目
+    zh_hans: 披毛目
+    zh_tw: 披毛目
 ---
 # [[Pilosa]] 
 

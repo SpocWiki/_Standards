@@ -9,7 +9,7 @@ dv_has_:
     az: Roger Penrose
     azb: راجر پنروز
     be: Роджэр Пенроўз
-    be-tarask: Роджэр Пэнроўз
+    be_tarask: Роджэр Пэнроўз
     bg: Роджър Пенроуз
     bn: রজার পেনরোজ
     bs: Roger Penrose
@@ -67,14 +67,14 @@ dv_has_:
     pnb: راجر پینریز
     ps: روډ جکسن (د وبايي ناروغيو متخصص)
     pt: Roger Penrose
-    pt-br: Roger Penrose
+    pt_br: Roger Penrose
     ro: Roger Penrose
     ru: Роджер Пенроуз
     sk: Roger Penrose
     sl: Roger Penrose
     sq: Roger Penrose
     sr: Роџер Пенроуз
-    sr-ec: Роџер Пенроуз
+    sr_ec: Роџер Пенроуз
     sv: Roger Penrose
     ta: உரோசர் பென்ரோசு
     tr: Roger Penrose
@@ -85,12 +85,12 @@ dv_has_:
     yo: Roger Penrose
     yue: 羅渣彭羅斯
     zh: 羅傑·潘洛斯
-    zh-cn: 罗杰·彭罗斯
-    zh-hans: 罗杰·彭罗斯
-    zh-hant: 羅傑·潘洛斯
-    zh-hk: 羅傑·潘洛斯
-    zh-sg: 罗杰·彭罗斯
-    zh-tw: 羅傑·潘洛斯
+    zh_cn: 罗杰·彭罗斯
+    zh_hans: 罗杰·彭罗斯
+    zh_hant: 羅傑·潘洛斯
+    zh_hk: 羅傑·潘洛斯
+    zh_sg: 罗杰·彭罗斯
+    zh_tw: 羅傑·潘洛斯
 aliases:
 - Rodžers Penrouzs
 - Roger Penrose

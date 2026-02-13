@@ -164,7 +164,7 @@ dv_has_:
     azb: پابلو نرودا
     ba: Пабло Неруда
     be: Пабла Неруда
-    be-tarask: Паблё Нэруда
+    be_tarask: Паблё Нэруда
     bg: Пабло Неруда
     bho: पाब्लो नेरुदा
     bjn: Pablo Neruda
@@ -179,13 +179,13 @@ dv_has_:
     cy: Pablo Neruda
     da: Pablo Neruda
     de: Pablo Neruda
-    de-ch: Pablo Neruda
+    de_ch: Pablo Neruda
     diq: Neruda
     dsb: Pablo Neruda
     el: Πάμπλο Νερούδα
     en: Pablo Neruda
-    en-ca: Pablo Neruda
-    en-gb: Pablo Neruda
+    en_ca: Pablo Neruda
+    en_gb: Pablo Neruda
     eo: Pablo Neruda
     es: Pablo Neruda
     et: Pablo Neruda
@@ -254,7 +254,7 @@ dv_has_:
     pnb: پیبلو نیرودا
     ps: پابلو نرودا
     pt: Pablo Neruda
-    pt-br: Pablo Neruda
+    pt_br: Pablo Neruda
     qu: Pablo Neruda
     ro: Pablo Neruda
     ru: Пабло Неруда
@@ -286,8 +286,8 @@ dv_has_:
     yo: Pablo Neruda
     yue: 聶魯達
     zh: 巴勃罗·聂鲁达
-    zh-cn: 巴勃罗·聂鲁达
-    zh-hans: 巴勃罗·聂鲁达
+    zh_cn: 巴勃罗·聂鲁达
+    zh_hans: 巴勃罗·聂鲁达
 ---
 # [[Neruda,Pablo]] 
 

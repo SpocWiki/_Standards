@@ -69,7 +69,7 @@ dv_has_:
     ar: طريقة الاثنتي عشرة نغمة
     ast: dodecafonismu
     az: dodekafoniya
-    be-tarask: дадэкафонія
+    be_tarask: дадэкафонія
     bg: додекафония
     ca: dodecafonisme
     cs: dodekafonie
@@ -109,8 +109,8 @@ dv_has_:
     sk: dodekafonická hudba
     sl: dodekafonija
     sr: додекафонија
-    sr-ec: додекафонија
-    sr-el: dodekafonija
+    sr_ec: додекафонија
+    sr_el: dodekafonija
     sv: tolvtonsmusik
     tr: on ikili
     uk: додекафонія
@@ -118,12 +118,12 @@ dv_has_:
     vi: nhạc 12 tông
     yue: 十二音列技法
     zh: 十二音技法
-    zh-cn: 十二音技法
-    zh-hans: 十二音技法
-    zh-hant: 十二音技法
-    zh-hk: 十二音技法
-    zh-sg: 十二音技法
-    zh-tw: 十二音技法
+    zh_cn: 十二音技法
+    zh_hans: 十二音技法
+    zh_hant: 十二音技法
+    zh_hk: 十二音技法
+    zh_sg: 十二音技法
+    zh_tw: 十二音技法
 ---
 # [[Twelve-tone_Technique]] 
 

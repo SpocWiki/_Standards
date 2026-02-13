@@ -43,7 +43,7 @@ dv_has_:
     ar: موسيقى تعبيرية
     az: Musiqidə eskresionizm
     be: экспрэсіянізм
-    be-tarask: экспрэсіянізм
+    be_tarask: экспрэсіянізм
     ca: Expressionisme musical
     cs: Expresionismus
     de: Expressionismus

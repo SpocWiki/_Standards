@@ -86,7 +86,7 @@ dv_has_:
     ast: NBC
     az: NBC
     be: NBC
-    be-tarask: NBC
+    be_tarask: NBC
     bg: Ен Би Си
     bn: এনবিসি
     br: NBC
@@ -98,11 +98,11 @@ dv_has_:
     cy: NBC
     da: NBC
     de: National Broadcasting Company
-    de-ch: National Broadcasting Company
+    de_ch: National Broadcasting Company
     el: NBC
     en: NBC
-    en-ca: NBC
-    en-gb: NBC
+    en_ca: NBC
+    en_gb: NBC
     eo: National Broadcasting Company
     es: NBC
     et: NBC
@@ -153,7 +153,7 @@ dv_has_:
     oc: NBC
     pl: NBC
     pt: National Broadcasting Company
-    pt-br: NBC
+    pt_br: NBC
     ro: NBC
     ru: NBC
     sah: NBC
@@ -173,7 +173,7 @@ dv_has_:
     tl: NBC
     tr: NBC
     tt: NBC
-    tt-cyrl: NBC
+    tt_cyrl: NBC
     uk: NBC
     ur: این بی سی
     uz: NBC
@@ -183,7 +183,7 @@ dv_has_:
     xmf: National Broadcasting Company
     yue: NBC
     zh: 全國廣播公司
-    zh-hant: 全國廣播公司
+    zh_hant: 全國廣播公司
 ---
 # [[NBC(National_Broadcasting_Company)]]
 

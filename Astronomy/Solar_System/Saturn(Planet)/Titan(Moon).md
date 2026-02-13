@@ -117,7 +117,7 @@ dv_has_:
     azb: تایتان
     ba: Титан
     be: Тытан
-    be-tarask: Тытан
+    be_tarask: Тытан
     bg: Титан
     bho: टाइटन
     bn: টাইটান
@@ -133,12 +133,12 @@ dv_has_:
     da: Titan
     de: Titan
     de-at: Titan
-    de-ch: Titan
+    de_ch: Titan
     el: Τιτάνας
     eml: Titàṅ
     en: Titan
-    en-ca: Titan
-    en-gb: Titan
+    en_ca: Titan
+    en_gb: Titan
     eo: Titano
     es: Titán
     et: Titan
@@ -195,7 +195,7 @@ dv_has_:
     pl: Tytan
     pnb: ٹائیٹان
     pt: Titã
-    pt-br: Titã
+    pt_br: Titã
     ro: Titan
     ru: Титан
     rue: Титан
@@ -209,7 +209,7 @@ dv_has_:
     sl: Titan
     sq: Titani
     sr: Титан
-    sr-ec: Титан
+    sr_ec: Титан
     sv: Titan
     sw: Titan
     ta: டைட்டன்
@@ -229,9 +229,9 @@ dv_has_:
     wuu: 土卫六
     yue: 土衞六
     zh: 土卫六
-    zh-cn: 土卫六
-    zh-hans: 土卫六
-    zh-hant: 土衛六
+    zh_cn: 土卫六
+    zh_hans: 土卫六
+    zh_hant: 土衛六
 ---
 # [[Titan(Moon)]] 
 

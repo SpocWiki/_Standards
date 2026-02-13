@@ -305,7 +305,7 @@ dv_has_:
     ab: Абҵарамза
     acm: تشرين الثاني
     ady: ШэкӀогъу
-    aeb-arab: نوڥمبر
+    aeb_arab: نوڥمبر
     af: November
     agq: Ndzɔŋ è Chwaʼu kaa wo
     alt: Кӱчӱрген ай
@@ -333,11 +333,11 @@ dv_has_:
     bar: Novemba
     bas: maye ma sep
     bax: mùt Novembre
-    bbc-latn: Sipaha Uwalu
+    bbc_latn: Sipaha Uwalu
     bbj: fə̂nàm
     bcl: Nobyembre
     be: лістапад
-    be-tarask: лістапад
+    be_tarask: лістапад
     bew: Nopèmber
     bg: Ноември
     bho: नवंबर
@@ -353,7 +353,7 @@ dv_has_:
     bxr: 11 һар
     byv: nsônα̌ndɔ
     ca: novembre
-    cbk-zam: Noviembre
+    cbk_zam: Noviembre
     cdo: 11 nguŏk
     ce: Эрх бутт
     ceb: Nobiyembre
@@ -362,7 +362,7 @@ dv_has_:
     ckb: تشرینی دووەم
     co: Nuvembre
     crh: Noyabr
-    crh-latn: Noyabr
+    crh_latn: Noyabr
     cs: listopad
     csb: Lëstopadnik
     cv: Чӳк
@@ -379,8 +379,8 @@ dv_has_:
     el: Νοέμβριος
     eml: Novèmber
     en: November
-    en-ca: November
-    en-gb: November
+    en_ca: November
+    en_gb: November
     en-us: November
     eo: novembro
     es: noviembre
@@ -461,7 +461,7 @@ dv_has_:
     ks: ماگھ
     ksh: Novämmber
     ku: çiriya paşîn
-    ku-latn: çiriya paşîn
+    ku_latn: çiriya paşîn
     kv: Вӧльгым тӧлысь
     kw: Mis Du
     ky: ноябрь
@@ -483,7 +483,7 @@ dv_has_:
     lv: novembris
     lzh: 建子
     mai: नवम्बर
-    map-bms: November
+    map_bms: November
     mcp: ”ŋwíí akǝ ntɛk di bɔ́k"
     mdf: сюнерьков
     mg: Novambra
@@ -498,7 +498,7 @@ dv_has_:
     mr: नोव्हेंबर महिना
     mrj: Ноябрь
     ms: November
-    ms-arab: نوۏيمبر
+    ms_arab: نوۏيمبر
     mt: Novembru
     mua: fĩi gwahlle
     mwl: Nobembre
@@ -510,7 +510,7 @@ dv_has_:
     nap: Nuvembre
     nb: november
     nds: November
-    nds-nl: november
+    nds_nl: november
     ne: नोभेम्बर
     new: नोभेम्बर
     nl: november
@@ -538,7 +538,7 @@ dv_has_:
     pnt: Αεργίτες
     ps: نومبر
     pt: novembro
-    pt-br: novembro
+    pt_br: novembro
     qu: Aya marq'ay killa
     ro: noiembrie
     roa-tara: Novèmmre
@@ -568,7 +568,7 @@ dv_has_:
     so: Nofeembar
     sq: Nëntori
     sr: новембар
-    sr-ec: новембар
+    sr_ec: новембар
     ss: Lídvúba
     su: Nopémber
     sv: november
@@ -623,14 +623,14 @@ dv_has_:
     zea: November
     zgh: ⵏⵓⵡⴰⵏⴱⵉⵔ
     zh: 11月
-    zh-cn: 11月
-    zh-hans: 11月
-    zh-hant: 11月
-    zh-hk: 11月
-    zh-mo: 11月
+    zh_cn: 11月
+    zh_hans: 11月
+    zh_hant: 11月
+    zh_hk: 11月
+    zh_mo: 11月
     zh-my: 11月
-    zh-sg: 11月
-    zh-tw: 11月
+    zh_sg: 11月
+    zh_tw: 11月
     zu: ULwezi
 ---
 # [[November]]

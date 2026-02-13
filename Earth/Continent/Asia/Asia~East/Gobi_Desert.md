@@ -142,7 +142,7 @@ dv_has_:
     ba: Гоби
     bbc: Parhorsihan Gobi
     be: Пустыня Гобі
-    be-tarask: Гобі
+    be_tarask: Гобі
     bg: Гоби
     bn: গোবি মরুভূমি
     br: Gobi
@@ -158,8 +158,8 @@ dv_has_:
     diq: Gobi
     el: Γκόμπι
     en: Gobi Desert
-    en-ca: Gobi Desert
-    en-gb: Gobi Desert
+    en_ca: Gobi Desert
+    en_gb: Gobi Desert
     eo: Gobio
     es: Desierto de Gobi
     et: Gobi
@@ -214,7 +214,7 @@ dv_has_:
     pl: Gobi
     pnb: صحرائے گوبی
     pt: Deserto de Gobi
-    pt-br: Deserto de Gobi
+    pt_br: Deserto de Gobi
     qu: Gobi
     ro: Deșertul Gobi
     ru: Гоби
@@ -248,8 +248,8 @@ dv_has_:
     xmf: გობიშ ტიოზი
     yue: 戈壁沙漠
     zh: 戈壁
-    zh-hans: 戈壁
-    zh-hant: 戈壁
+    zh_hans: 戈壁
+    zh_hant: 戈壁
 ---
 # [[Gobi_Desert]] 
 

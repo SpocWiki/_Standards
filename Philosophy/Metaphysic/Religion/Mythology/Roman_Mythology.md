@@ -99,7 +99,7 @@ dv_has_:
     ast: mitoloxía romana
     az: Qədim Roma mifologiyası
     be: Рымская міфалогія
-    be-tarask: рымская міталёгія
+    be_tarask: рымская міталёгія
     bg: Римска митология
     bn: রোমান পুরাণ
     br: Gwengelouriezh Roman
@@ -140,7 +140,7 @@ dv_has_:
     ka: რომაული მითოლოგია
     ko: 로마 신화
     ku: mîtolojiya romayî
-    ku-latn: mîtolojiya romayî
+    ku_latn: mîtolojiya romayî
     la: Mythologia Romana
     lb: Réimesch Mythologie
     lfn: mitolojia roman antica
@@ -163,8 +163,8 @@ dv_has_:
     sl: rimska mitologija
     sq: Mitologjia romake
     sr: римска митологија
-    sr-ec: Римска религија
-    sr-el: Rimska religija
+    sr_ec: Римска религија
+    sr_el: Rimska religija
     sv: Romersk mytologi
     sw: Mitholojia ya Kirumi
     szy: nu Lou-ma a micidekay a kungku
@@ -180,12 +180,12 @@ dv_has_:
     wuu: 罗马神话
     yue: 羅馬神話
     zh: 羅馬神話
-    zh-cn: 罗马神话
-    zh-hans: 罗马神话
-    zh-hant: 羅馬神話
-    zh-hk: 羅馬神話
-    zh-sg: 罗马神话
-    zh-tw: 羅馬神話
+    zh_cn: 罗马神话
+    zh_hans: 罗马神话
+    zh_hant: 羅馬神話
+    zh_hk: 羅馬神話
+    zh_sg: 罗马神话
+    zh_tw: 羅馬神話
 ---
 # [[Roman_Mythology]] 
 

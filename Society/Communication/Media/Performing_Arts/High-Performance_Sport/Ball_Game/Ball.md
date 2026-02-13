@@ -145,7 +145,7 @@ dv_has_:
     bcl: bola
     bdr: Bul
     be: мяч
-    be-tarask: мяч
+    be_tarask: мяч
     bg: Топка
     bho: गेना
     bjn: Bal
@@ -222,7 +222,7 @@ dv_has_:
     pa: ਖਿੱਦੋ
     pl: piłka
     pt: bola
-    pt-br: bola
+    pt_br: bola
     pwn: mali
     qu: Piluta
     rn: umupira
@@ -242,8 +242,8 @@ dv_has_:
     sms: päll
     sq: Lojërat me top
     sr: лопта
-    sr-ec: Лопта
-    sr-el: Lopta
+    sr_ec: Лопта
+    sr_el: Lopta
     sv: boll
     sw: Mpira
     szl: Bala
@@ -256,7 +256,7 @@ dv_has_:
     tok: sike
     tr: top
     tt: туп
-    tt-cyrl: туп
+    tt_cyrl: туп
     uk: м'яч
     ur: گیند
     uz: Toʻp

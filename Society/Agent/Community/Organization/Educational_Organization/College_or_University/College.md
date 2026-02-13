@@ -112,7 +112,7 @@ dv_has_:
     az: kollec
     bcl: Kolehiyo
     be: каледж
-    be-tarask: коледж
+    be_tarask: коледж
     bg: Колеж
     blk: ကောလေက်
     bn: মহাবিদ্যালয়
@@ -125,8 +125,8 @@ dv_has_:
     de: College
     el: κολέγιο
     en: college
-    en-ca: college
-    en-gb: college
+    en_ca: college
+    en_gb: college
     eo: kolegio
     es: college
     et: Kolledž
@@ -149,11 +149,11 @@ dv_has_:
     ja: カレッジ
     ka: კოლეჯი
     kk: Колледж
-    kk-arab: كوللەدج
+    kk_arab: كوللەدج
     kk-cn: كوللەدج
-    kk-cyrl: Колледж
+    kk_cyrl: Колледж
     kk-kz: Колледж
-    kk-latn: Kolledj
+    kk_latn: Kolledj
     kk-tr: Kolledj
     kn: ಕಾಲೇಜು
     ko: 단과대학
@@ -181,7 +181,7 @@ dv_has_:
     pl: college
     pnb: کالج
     pt: colégio
-    pt-br: colégio
+    pt_br: colégio
     ro: colegiu
     ru: колледж
     rue: Коледж
@@ -193,8 +193,8 @@ dv_has_:
     sl: kolidž
     sq: Kolegji
     sr: колеџ
-    sr-ec: колеџ
-    sr-el: koledž
+    sr_ec: колеџ
+    sr_el: koledž
     sv: college
     sw: Chuo
     ta: கல்லூரி
@@ -205,7 +205,7 @@ dv_has_:
     tok: tomo sona suli
     tr: kolej
     tt: көллият
-    tt-cyrl: көллият
+    tt_cyrl: көллият
     uk: коледж
     ur: کالج
     uz: Kollej
@@ -216,9 +216,9 @@ dv_has_:
     yi: קאלעדזש
     yue: 院校
     zh: 学院
-    zh-hans: 学院
-    zh-hant: 學院
-    zh-tw: 學院
+    zh_hans: 学院
+    zh_hant: 學院
+    zh_tw: 學院
 ---
 # [[College]]  
 

@@ -56,13 +56,13 @@ dv_has_:
     ast: funk
     az: fank
     be: фанк
-    be-tarask: фанк
+    be_tarask: фанк
     bg: фънк
     br: Funk
     ca: funk
     ckb: فەنک
     crh: Fank
-    crh-latn: Fank
+    crh_latn: Fank
     cs: funk
     cy: ffwnc
     da: funk
@@ -108,13 +108,13 @@ dv_has_:
     nah: Funk
     nan: Funk
     nb: funk
-    nds-nl: funk
+    nds_nl: funk
     nl: funk
     nn: funk
     pa: ਫ਼ੰਕ
     pl: funk
     pt: funk
-    pt-br: funk
+    pt_br: funk
     ro: funk
     ru: фанк
     sco: funk
@@ -125,8 +125,8 @@ dv_has_:
     smn: funkmuusik
     sms: funkmusikk
     sr: фанк
-    sr-ec: фанк
-    sr-el: fank
+    sr_ec: фанк
+    sr_el: fank
     sv: funk
     ta: வன்கு இசை
     th: ฟังก์
@@ -138,12 +138,12 @@ dv_has_:
     wuu: 放克
     yue: Funk
     zh: 放克
-    zh-cn: 放克
-    zh-hans: 放克
-    zh-hant: 放克
-    zh-hk: 放克
-    zh-sg: 放克
-    zh-tw: 放克
+    zh_cn: 放克
+    zh_hans: 放克
+    zh_hant: 放克
+    zh_hk: 放克
+    zh_sg: 放克
+    zh_tw: 放克
 ---
 # [[Funk_Music]] 
 

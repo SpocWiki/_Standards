@@ -178,7 +178,7 @@ dv_has_:
     az: Müqəddəs Georgi
     azb: سنت جرج، آلاسکا
     be: Георгій Перамоганосец
-    be-tarask: Сьвяты Юры
+    be_tarask: Сьвяты Юры
     bg: Георги Победоносец
     bpy: সাও জোর্গে
     br: Jord a Lydda
@@ -190,7 +190,7 @@ dv_has_:
     de: Georg
     el: Άγιος Γεώργιος
     en: Saint George
-    en-gb: Saint George
+    en_gb: Saint George
     eo: Sankta Georgo
     es: San Jorge
     et: Püha Jüri
@@ -238,7 +238,7 @@ dv_has_:
     pl: Święty Jerzy
     pnt: Χιντιρελές
     pt: São Jorge
-    pt-br: São Jorge
+    pt_br: São Jorge
     ro: Sfântul Gheorghe
     ru: Георгий Победоносец
     scn: San Giorgiu
@@ -265,11 +265,11 @@ dv_has_:
     xmf: წიმინდე გერგი
     yue: 聖佐治
     zh: 圣乔治
-    zh-cn: 圣乔治
-    zh-hans: 圣乔治
-    zh-hant: 聖喬治
-    zh-hk: 聖佐治
-    zh-tw: 聖喬治
+    zh_cn: 圣乔治
+    zh_hans: 圣乔治
+    zh_hant: 聖喬治
+    zh_hk: 聖佐治
+    zh_tw: 聖喬治
 ---
 # [[Saint_George]] 
 

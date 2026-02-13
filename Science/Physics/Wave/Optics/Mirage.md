@@ -92,7 +92,7 @@ dv_has_:
     az: ilğım
     azb: سراب
     be: міраж
-    be-tarask: міраж
+    be_tarask: міраж
     bg: мираж
     bn: মরীচিকা
     ca: miratge
@@ -127,11 +127,11 @@ dv_has_:
     ja: 蜃気楼
     ka: მირაჟი
     kk: сағым
-    kk-arab: ساعىم
+    kk_arab: ساعىم
     kk-cn: ساعىم
-    kk-cyrl: сағым
+    kk_cyrl: сағым
     kk-kz: сағым
-    kk-latn: sağım
+    kk_latn: sağım
     kk-tr: sağım
     ko: 신기루
     ky: мираж
@@ -169,12 +169,12 @@ dv_has_:
     xmf: მირაჟი
     yue: 海市蜃樓
     zh: 海市滾楼
-    zh-cn: 海市蜃楼
-    zh-hans: 海市蜃楼
-    zh-hant: 海市蜃樓
-    zh-hk: 海市蜃樓
-    zh-sg: 海市蜃楼
-    zh-tw: 海市蜃樓
+    zh_cn: 海市蜃楼
+    zh_hans: 海市蜃楼
+    zh_hant: 海市蜃樓
+    zh_hk: 海市蜃樓
+    zh_sg: 海市蜃楼
+    zh_tw: 海市蜃樓
 ---
 # [[Mirage]] 
 

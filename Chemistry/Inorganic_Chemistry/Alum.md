@@ -118,7 +118,7 @@ dv_has_:
     ast: Allume
     az: Alum
     azb: زر
-    be-tarask: алюн
+    be_tarask: алюн
     bg: Стипца
     bn: ফটকিরি
     ca: alum
@@ -148,11 +148,11 @@ dv_has_:
     it: allume
     ja: ミョウバン
     kk: Ашудастар
-    kk-arab: اشۋداستار
+    kk_arab: اشۋداستار
     kk-cn: اشۋداستار
-    kk-cyrl: Ашудастар
+    kk_cyrl: Ашудастар
     kk-kz: Ашудастар
-    kk-latn: Aşwdastar
+    kk_latn: Aşwdastar
     kk-tr: Aşwdastar
     kn: ಪಟಿಕ
     ko: 백반
@@ -195,12 +195,12 @@ dv_has_:
     wuu: 矾
     yue: 礬
     zh: 矾
-    zh-cn: 矾
-    zh-hans: 矾
-    zh-hant: 礬
-    zh-hk: 礬
-    zh-sg: 矾
-    zh-tw: 礬
+    zh_cn: 矾
+    zh_hans: 矾
+    zh_hant: 礬
+    zh_hk: 礬
+    zh_sg: 矾
+    zh_tw: 礬
 ---
 # [[Alum]] 
 

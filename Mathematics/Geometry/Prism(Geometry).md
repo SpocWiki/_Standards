@@ -62,7 +62,7 @@ dv_has_:
     az: prizma
     ba: призма
     be: прызма
-    be-tarask: прызма
+    be_tarask: прызма
     bg: призма
     bn: প্রিজম
     bs: prizma
@@ -114,7 +114,7 @@ dv_has_:
     sn: zhumwi
     sq: prizmi
     sr: призма
-    sr-el: prizma
+    sr_el: prizma
     su: prisma
     sv: prisma
     ta: நாள்மீன் பட்டகம்
@@ -129,12 +129,12 @@ dv_has_:
     wuu: 棱柱
     yue: 棱柱
     zh: 棱柱
-    zh-cn: 棱柱
-    zh-hans: 棱柱
-    zh-hant: 稜柱
-    zh-hk: 稜柱
-    zh-sg: 棱柱
-    zh-tw: 稜柱
+    zh_cn: 棱柱
+    zh_hans: 棱柱
+    zh_hant: 稜柱
+    zh_hk: 稜柱
+    zh_sg: 棱柱
+    zh_tw: 稜柱
 ---
 # [[Prism(Geometry)]] 
 

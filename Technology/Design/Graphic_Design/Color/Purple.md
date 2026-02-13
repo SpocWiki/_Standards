@@ -136,7 +136,7 @@ dv_has_:
     az: al-qırmızı
     ban: tangi
     be: пурпурны колер
-    be-tarask: пурпурны колер
+    be_tarask: пурпурны колер
     bg: пурпур
     bn: রক্তবেগুনী
     bo: སྨུག་པོའི།
@@ -152,13 +152,13 @@ dv_has_:
     cy: porffor
     da: lilla
     de: Purpur
-    de-ch: Purpur
+    de_ch: Purpur
     diq: mor
     dsb: purpur
     el: μωβ
     en: purple
-    en-ca: purple
-    en-gb: purple
+    en_ca: purple
+    en_gb: purple
     eo: purpurkoloro
     es: púrpura
     et: purpur
@@ -198,12 +198,12 @@ dv_has_:
     lt: purpurinė
     lv: purpurkrāsa
     lzh: 紫
-    map-bms: ungu
+    map_bms: ungu
     mi: waiporoporo
     mk: пурпурна боја
     mnc: ᡧᡠᡧᡠ
     ms: ungu
-    ms-arab: اوڠو
+    ms_arab: اوڠو
     my: ခရမ်းရင့်ရောင်
     nah: camiltic
     nan: chí-sek
@@ -223,7 +223,7 @@ dv_has_:
     pl: barwa purpurowa
     pnb: جامنی
     pt: púrpura
-    pt-br: púrpura
+    pt_br: púrpura
     qu: kulli
     ro: purpură
     ru: пурпурный
@@ -245,7 +245,7 @@ dv_has_:
     tok: laso loje
     tr: mor
     tt: куе кызыл
-    tt-cyrl: куе кызыл
+    tt_cyrl: куе кызыл
     ug: بىنەپشە رەڭ
     uk: пурпуровий
     ur: بنفشی
@@ -255,8 +255,8 @@ dv_has_:
     yue: 紫
     za: saekaeuj
     zh: 紫色
-    zh-hans: 紫色
-    zh-hant: 紫色
+    zh_hans: 紫色
+    zh_hant: 紫色
     zu: Okunsomi
 ---
 # [[Purple]] 

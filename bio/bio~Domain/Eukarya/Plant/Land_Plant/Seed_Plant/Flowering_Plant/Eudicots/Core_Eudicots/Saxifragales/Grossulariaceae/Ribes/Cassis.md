@@ -216,7 +216,7 @@ dv_has_:
     azb: قارا قاراغات
     ba: Ҡарағат
     be: Парэчкі чорныя
-    be-tarask: парэчкі чорныя
+    be_tarask: парэчкі чорныя
     bg: касис
     bn: ব্ল্যাককারেন্ট
     bo: སིལ་ཏོག་ཅིག་གི་མིང་།
@@ -259,11 +259,11 @@ dv_has_:
     jv: Anggur ireng
     ka: შავი მოცხარი
     kk: Қарлыған
-    kk-arab: قارلىعان
+    kk_arab: قارلىعان
     kk-cn: قارلىعان
-    kk-cyrl: Қарлыған
+    kk_cyrl: Қарлыған
     kk-kz: Қарлыған
-    kk-latn: Qarlığan
+    kk_latn: Qarlığan
     kk-tr: Qarlığan
     ko: 블랙커런트
     ky: Кара карагат
@@ -286,7 +286,7 @@ dv_has_:
     pl: porzeczka czarna
     pms: Ribes nigrum
     pt: Cassis
-    pt-br: Ribes nigrum
+    pt_br: Ribes nigrum
     qu: Yananara
     ro: Coacăz negru
     ru: Смородина чёрная
@@ -310,12 +310,12 @@ dv_has_:
     wuu: 黑加仑
     yue: 黑加侖子
     zh: 黑加仑
-    zh-cn: 黑加仑
-    zh-hans: 黑加仑
-    zh-hant: 黑加侖
-    zh-hk: 黑加侖
-    zh-sg: 黑加仑
-    zh-tw: 黑加侖
+    zh_cn: 黑加仑
+    zh_hans: 黑加仑
+    zh_hant: 黑加侖
+    zh_hk: 黑加侖
+    zh_sg: 黑加仑
+    zh_tw: 黑加侖
 ---
 # [[Cassis]] 
 

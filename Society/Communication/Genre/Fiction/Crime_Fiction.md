@@ -71,7 +71,7 @@ dv_has_:
     ast: xéneru policiacu
     az: cinayət janrı
     be: крымінальны жанр
-    be-tarask: крымінальны жанр
+    be_tarask: крымінальны жанр
     bg: Криминална литература
     bn: অপরাধ কল্পকাহিনী
     bs: Kriminalistički žanr
@@ -81,11 +81,11 @@ dv_has_:
     cy: ffuglen drosedd
     da: krimi
     de: Krimi
-    de-ch: Krimi
+    de_ch: Krimi
     el: αστυνομική μυθοπλασία
     en: crime fiction
-    en-ca: Crime fiction
-    en-gb: Crime fiction
+    en_ca: Crime fiction
+    en_gb: Crime fiction
     eo: krimfikcio
     es: género policíaco
     eu: polizia genero
@@ -133,8 +133,8 @@ dv_has_:
     vi: truyện trinh thám
     yue: 犯罪故仔
     zh: 犯罪作品
-    zh-hans: 犯罪作品
-    zh-hant: 虛構犯罪
+    zh_hans: 犯罪作品
+    zh_hant: 虛構犯罪
 ---
 # [[Crime_Fiction]] 
 

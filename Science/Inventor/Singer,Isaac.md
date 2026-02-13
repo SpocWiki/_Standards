@@ -77,7 +77,7 @@ dv_has_:
     az: Ayzek Zinger
     ba: Исаак Зингер
     be: Айзек Зінгер
-    be-tarask: Айзэк Зынгер
+    be_tarask: Айзэк Зынгер
     bg: Айзък Сингер
     ca: Isaac Singer
     cs: Isaac Merritt Singer
@@ -113,7 +113,7 @@ dv_has_:
     nn: Isaac Singer
     pl: Isaac Merritt Singer
     pt: Isaac Singer
-    pt-br: Isaac Singer
+    pt_br: Isaac Singer
     ro: Isaac Merrit Singer
     ru: Айзек Зингер
     sh: Isaac Singer
@@ -121,8 +121,8 @@ dv_has_:
     sl: Isaac Singer
     sq: Isaac Singer
     sr: Ајзак Мерит Сингер
-    sr-ec: Ајзак Мерит Сингер
-    sr-el: Ajzak Merit Singer
+    sr_ec: Ајзак Мерит Сингер
+    sr_el: Ajzak Merit Singer
     sv: Isaac Merrit Singer
     te: ఐజాక్ మెరిట్ సింగర్
     th: ไอแซก ซิงเกอร์

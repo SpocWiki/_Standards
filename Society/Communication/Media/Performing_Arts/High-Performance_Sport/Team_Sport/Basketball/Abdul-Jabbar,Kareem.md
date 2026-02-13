@@ -145,7 +145,7 @@ dv_has_:
     ba: Кәрим Абдул-Джаббар
     bcl: Kaeerem Abdul-Jabbar
     be: Карым Абдул-Джабар
-    be-tarask: Карым Абдул-Джабар
+    be_tarask: Карым Абдул-Джабар
     bg: Карийм Абдул-Джабар
     bn: করিম আব্দুল জব্বার
     bs: Kareem Abdul-Jabbar
@@ -180,11 +180,11 @@ dv_has_:
     jv: Karéém Abdul-Jabbar
     ka: კარიმ აბდულ-ჯაბარი
     kk: Абдул-Джаббар Карим
-    kk-arab: ابدۋل-دجاببار كارىيم
+    kk_arab: ابدۋل-دجاببار كارىيم
     kk-cn: ابدۋل-دجاببار كارىيم
-    kk-cyrl: Абдул-Джаббар Карим
+    kk_cyrl: Абдул-Джаббар Карим
     kk-kz: Абдул-Джаббар Карим
-    kk-latn: Abdwl-Djabbar Karïm
+    kk_latn: Abdwl-Djabbar Karïm
     kk-tr: Abdwl-Djabbar Karïm
     ko: 카림 압둘 자바
     ky: Абдул-Жаббар
@@ -203,7 +203,7 @@ dv_has_:
     pap: Kareem Abdul-Jabbar
     pl: Kareem Abdul-Jabbar
     pt: Kareem Abdul-Jabbar
-    pt-br: Kareem Abdul-Jabbar
+    pt_br: Kareem Abdul-Jabbar
     qu: Kareem Abdul-Jabbar
     ro: Kareem Abdul-Jabbar
     ru: Карим Абдул-Джаббар
@@ -212,8 +212,8 @@ dv_has_:
     sl: Kareem Abdul-Jabbar
     sq: Kareem Abdul-Jabbar
     sr: Карим Абдул-Џабар
-    sr-ec: Карим Абдул-Џабар
-    sr-el: Karim Abdul-Džabar
+    sr_ec: Карим Абдул-Џабар
+    sr_el: Karim Abdul-Džabar
     sv: Kareem Abdul-Jabbar
     sw: Kareem Abdul-Jabbar
     szy: Kareem Abdul-Jabbar
@@ -231,12 +231,12 @@ dv_has_:
     yo: Kareem Abdul-Jabbar
     yue: 渣巴
     zh: 卡里姆·阿卜杜勒·贾巴尔
-    zh-cn: 卡里姆·阿卜杜勒·贾巴尔
-    zh-hans: 卡里姆·阿卜杜勒·贾巴尔
-    zh-hant: 卡里姆·阿卜杜勒·賈巴爾
-    zh-hk: 卡里姆·阿杜·渣巴
-    zh-sg: 卡里姆·阿卜杜勒·贾巴尔
-    zh-tw: 卡里姆·阿布都·賈霸
+    zh_cn: 卡里姆·阿卜杜勒·贾巴尔
+    zh_hans: 卡里姆·阿卜杜勒·贾巴尔
+    zh_hant: 卡里姆·阿卜杜勒·賈巴爾
+    zh_hk: 卡里姆·阿杜·渣巴
+    zh_sg: 卡里姆·阿卜杜勒·贾巴尔
+    zh_tw: 卡里姆·阿布都·賈霸
 ---
 # [[Abdul-Jabbar,Kareem]] 
 

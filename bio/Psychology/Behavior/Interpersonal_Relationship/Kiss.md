@@ -2,14 +2,14 @@
 has_id_wikidata: Q7307
 dv_has_:
   name_:
-    aeb-arab: بوسة
+    aeb_arab: بوسة
     af: soen
     ar: قُبْلَة
     ast: besu
     az: öpüş
     bcl: hadok
     be: пацалунак
-    be-tarask: пацалунак
+    be_tarask: пацалунак
     bg: целувка
     bn: চুম্বন
     bo: ཁ་སྐྱེལ་པ།
@@ -96,8 +96,8 @@ dv_has_:
     sn: kutsvoda
     sq: Puthja
     sr: пољубац
-    sr-ec: пољубац
-    sr-el: poljubac
+    sr_ec: пољубац
+    sr_el: poljubac
     sv: kyss
     ta: முத்தம்
     te: ముద్దు

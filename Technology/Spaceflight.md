@@ -133,7 +133,7 @@ dv_has_:
     az: kosmik tədqiqat
     azb: اوزای آراشدیرمالاری
     be: даследаванне космасу
-    be-tarask: касьмічнае дасьледаваньне
+    be_tarask: касьмічнае дасьледаваньне
     bg: космонавтика
     blk: ထိုမ်ႏထောင်ထွား အာႏကာႏသ
     bn: মহাকাশ অনুসন্ধান
@@ -169,11 +169,11 @@ dv_has_:
     jam: spies explorieshan
     jv: lelana akasa
     kk: ғарыштану
-    kk-arab: عارىشتانۋ
+    kk_arab: عارىشتانۋ
     kk-cn: عارىشتانۋ
-    kk-cyrl: ғарыштану
+    kk_cyrl: ғарыштану
     kk-kz: ғарыштану
-    kk-latn: ğarıştanw
+    kk_latn: ğarıştanw
     kk-tr: ğarıştanw
     ko: 우주 탐사
     ky: космонавтика
@@ -205,12 +205,12 @@ dv_has_:
     sk: prieskum vesmíru
     sl: raziskovanje vesolja
     sr: истраживање свемира
-    sr-ec: истраживање свемира
-    sr-el: istraživanje svemira
+    sr_ec: истраживање свемира
+    sr_el: istraživanje svemira
     sv: utforskning av rymden
     ta: விண்வெளிப் பயணம்
     tg: кайҳоннавардӣ
-    tg-latn: kajhonnavardī
+    tg_latn: kajhonnavardī
     th: การสำรวจอวกาศ
     tl: panggagalugad sa kalawakan
     tr: uzay araştırmaları
@@ -225,12 +225,12 @@ dv_has_:
     wuu: 太空探索
     yue: 太空探索
     zh: 太空探索
-    zh-cn: 太空探索
-    zh-hans: 太空探索
-    zh-hant: 太空探索
-    zh-hk: 太空探索
-    zh-sg: 太空探索
-    zh-tw: 太空探索
+    zh_cn: 太空探索
+    zh_hans: 太空探索
+    zh_hant: 太空探索
+    zh_hk: 太空探索
+    zh_sg: 太空探索
+    zh_tw: 太空探索
 ---
 # [[Spaceflight]]  
 

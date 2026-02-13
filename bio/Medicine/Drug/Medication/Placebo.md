@@ -63,7 +63,7 @@ dv_has_:
     ast: sustancia placebo
     az: Plasebo effekti
     ba: Плацебо
-    be-tarask: пляцэба
+    be_tarask: пляцэба
     bg: Плацебо
     bn: ছলৌষধ
     bs: Placebo
@@ -71,11 +71,11 @@ dv_has_:
     cs: placebo
     da: placebo
     de: Placebo
-    de-ch: Placebo
+    de_ch: Placebo
     el: εικονικό φάρμακο
     en: placebo
-    en-ca: Placebo
-    en-gb: placebo
+    en_ca: Placebo
+    en_gb: placebo
     eo: placebo
     es: sustancia placebo
     et: Platseebo
@@ -111,7 +111,7 @@ dv_has_:
     olo: Placebo
     pl: Placebo
     pt: placebo
-    pt-br: Placebo
+    pt_br: Placebo
     ro: Placebo
     ru: плацебо
     sh: Placebo efekat
@@ -119,8 +119,8 @@ dv_has_:
     sl: placebo
     sq: Placebo
     sr: Плацебо ефекат
-    sr-ec: Плацебо
-    sr-el: Placebo
+    sr_ec: Плацебо
+    sr_el: Placebo
     sv: placebo
     ta: மருந்துப்போலி
     th: ยาหลอก
@@ -133,12 +133,12 @@ dv_has_:
     yi: פלאצעבא
     yue: 安慰劑
     zh: 安慰劑
-    zh-cn: 安慰剂
-    zh-hans: 安慰剂
-    zh-hant: 安慰劑
-    zh-hk: 安慰劑
-    zh-sg: 安慰剂
-    zh-tw: 安慰劑
+    zh_cn: 安慰剂
+    zh_hans: 安慰剂
+    zh_hant: 安慰劑
+    zh_hk: 安慰劑
+    zh_sg: 安慰剂
+    zh_tw: 安慰劑
 ---
 # [[Placebo]] 
 

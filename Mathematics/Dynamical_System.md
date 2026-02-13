@@ -84,7 +84,7 @@ dv_has_:
     ar: نظام تحريكي
     ast: sistema dinámicu
     be: дынамічная сістэма
-    be-tarask: дынамічная сыстэма
+    be_tarask: дынамічная сыстэма
     bg: динамична система
     bn: গতীয় সিস্টেম
     ca: sistema dinàmic
@@ -93,8 +93,8 @@ dv_has_:
     de: dynamisches System
     el: δυναμικό σύστημα
     en: dynamical system
-    en-ca: dynamical system
-    en-gb: dynamical system
+    en_ca: dynamical system
+    en_gb: dynamical system
     eo: dinamika sistemo
     es: sistema dinámico
     et: dünaamiline süsteem
@@ -117,7 +117,7 @@ dv_has_:
     lv: dinamiska sistēma
     mk: динамичен систем
     ms: sistem dinamik
-    ms-arab: سيستم ديناميک
+    ms_arab: سيستم ديناميک
     mt: sistema dinamika
     my: ပြောင်းလဲလှုပ်ရှားစနစ်
     nb: dynamisk system
@@ -125,7 +125,7 @@ dv_has_:
     nn: dynamisk system
     pl: układ dynamiczny
     pt: sistema dinâmico
-    pt-br: sistema dinâmico
+    pt_br: sistema dinâmico
     ro: sistem dinamic
     ru: динамическая система
     scn: sistema dinamicu
@@ -146,9 +146,9 @@ dv_has_:
     wuu: 动力系统
     yue: 動態系統
     zh: 动力系统
-    zh-hans: 动力系统
-    zh-hant: 動力系統
-    zh-hk: 動力系統
+    zh_hans: 动力系统
+    zh_hant: 動力系統
+    zh_hk: 動力系統
 ---
 # [[Dynamical_System]] 
 

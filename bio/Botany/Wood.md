@@ -224,7 +224,7 @@ dv_has_:
     bar: Hoiz
     bcl: kahoy
     be: драўніна
-    be-tarask: драўніна
+    be_tarask: драўніна
     bg: дървесина
     bho: लकड़ी
     bn: কাঠ
@@ -242,14 +242,14 @@ dv_has_:
     cy: pren
     da: træ
     de: Holz
-    de-ch: Holz
+    de_ch: Holz
     diq: textci
     dsb: drjewo
     el: ξύλο
     eml: lègn
     en: wood
-    en-ca: wood
-    en-gb: wood
+    en_ca: wood
+    en_gb: wood
     en-us: wood
     eo: ligno
     es: madera
@@ -317,7 +317,7 @@ dv_has_:
     ml: തടി
     mr: लाकूड
     ms: kayu
-    ms-arab: کايو
+    ms_arab: کايو
     mt: injam
     my: သစ်သား
     myv: чувто
@@ -327,7 +327,7 @@ dv_has_:
     nap: lignammo
     nb: treverk
     nds: Holt
-    nds-nl: holt
+    nds_nl: holt
     ne: काठ
     new: सिं
     nl: hout
@@ -342,7 +342,7 @@ dv_has_:
     pnb: لکڑی
     ps: لرګی
     pt: madeira
-    pt-br: madeira
+    pt_br: madeira
     qu: qiru
     ro: lemn
     ru: древесина
@@ -360,7 +360,7 @@ dv_has_:
     so: alwaax
     sq: dru
     sr: дрво
-    sr-ec: дрво
+    sr_ec: дрво
     su: kai
     sv: trä
     sw: ubao
@@ -374,7 +374,7 @@ dv_has_:
     tok: kiwen kasi
     tr: tahta
     tt: үзагач
-    tt-cyrl: үзагач
+    tt_cyrl: үзагач
     tw: ntabo
     udm: пу
     uk: деревина
@@ -392,13 +392,13 @@ dv_has_:
     yi: האלץ
     yue: 木
     zh: 木材
-    zh-cn: 木材
-    zh-hans: 木材
-    zh-hant: 木材
-    zh-hk: 木材
-    zh-mo: 木材
-    zh-sg: 木材
-    zh-tw: 木材
+    zh_cn: 木材
+    zh_hans: 木材
+    zh_hant: 木材
+    zh_hk: 木材
+    zh_mo: 木材
+    zh_sg: 木材
+    zh_tw: 木材
     zu: ukhuni
 ---
 # [[Wood]] 🪵 

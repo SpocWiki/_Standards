@@ -171,7 +171,7 @@ dv_has_:
     azb: دیرناق
     bcl: Kuko
     be: Пазногаць
-    be-tarask: пазногаць
+    be_tarask: пазногаць
     bew: Kuku
     bg: Нокът
     bn: নখ
@@ -222,11 +222,11 @@ dv_has_:
     kab: Iccer
     kcg: A̱ga̱fwuo
     kk: тырнақ
-    kk-latn: tırnaq
+    kk_latn: tırnaq
     kn: ಉಗುರು
     ko: 손발톱
     ku: Neynok
-    ku-latn: nînok
+    ku_latn: nînok
     kv: Гыж
     ky: тырмак
     la: unguis
@@ -274,7 +274,7 @@ dv_has_:
     so: Cinjo
     sq: Thoi (anatomi)
     sr: нокат
-    sr-ec: нокат
+    sr_ec: нокат
     su: Kuku
     sv: nagel
     szy: kanus
@@ -298,10 +298,10 @@ dv_has_:
     yo: Èkánná
     yue: 指甲
     zh: 指甲
-    zh-cn: 侧甲褶
-    zh-hans: 指甲
-    zh-hant: 指甲
-    zh-tw: 指甲
+    zh_cn: 侧甲褶
+    zh_hans: 指甲
+    zh_hant: 指甲
+    zh_tw: 指甲
 ---
 # [[Nail]] 
 

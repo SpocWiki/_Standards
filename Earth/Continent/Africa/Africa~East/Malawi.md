@@ -450,7 +450,7 @@ dv_has_:
   name_:
     ab: Малави
     ace: Malawi
-    aeb-arab: مالاوي
+    aeb_arab: مالاوي
     af: Malawi
     am: ማላዊ
     ami: Malawi
@@ -470,7 +470,7 @@ dv_has_:
     bar: Malawi
     bcl: Malawi
     be: Малаві
-    be-tarask: Малаві
+    be_tarask: Малаві
     bew: Malawi
     bg: Малави
     bho: मलावी
@@ -484,7 +484,7 @@ dv_has_:
     bs: Malavi
     bxr: Малави
     ca: Malawi
-    cbk-zam: Malawi
+    cbk_zam: Malawi
     cdo: Malawi
     ce: Малави
     ceb: Malawi
@@ -492,7 +492,7 @@ dv_has_:
     ckb: مالاوی
     co: Malaui
     crh: Malavi
-    crh-latn: Malavi
+    crh_latn: Malavi
     cs: Malawi
     cv: Малави
     cy: Malawi
@@ -500,7 +500,7 @@ dv_has_:
     dag: Malawi
     de: Malawi
     de-at: Malawi
-    de-ch: Malawi
+    de_ch: Malawi
     diq: Malawi
     dsb: Malawi
     dty: मलावी
@@ -508,8 +508,8 @@ dv_has_:
     ee: Malawi
     el: Μαλάουι
     en: Malawi
-    en-ca: Malawi
-    en-gb: Malawi
+    en_ca: Malawi
+    en_gb: Malawi
     eo: Malavio
     es: Malaui
     et: Malawi
@@ -606,7 +606,7 @@ dv_has_:
     nan: Malawi
     nb: Malawi
     nds: Malawi
-    nds-nl: Malawi
+    nds_nl: Malawi
     ne: मलावी
     new: मलावी
     nl: Malawi
@@ -631,7 +631,7 @@ dv_has_:
     pnb: ملاوی
     ps: مالاوي
     pt: Malawi
-    pt-br: Malawi
+    pt_br: Malawi
     qu: Malawi
     rmy: Malawi
     ro: Malawi
@@ -658,8 +658,8 @@ dv_has_:
     so: Malaawi
     sq: Malavi
     sr: Малави
-    sr-ec: Малави
-    sr-el: Malavi
+    sr_ec: Малави
+    sr_el: Malavi
     ss: IMalawi
     st: Malawi
     stq: Malawi
@@ -708,12 +708,12 @@ dv_has_:
     zea: Malawi
     zgh: ⵎⴰⵍⴰⵡⵉ
     zh: 馬拉威
-    zh-cn: 马拉维
-    zh-hans: 马拉维
-    zh-hant: 馬拉威
-    zh-hk: 馬拉維
-    zh-sg: 马拉维
-    zh-tw: 馬拉威
+    zh_cn: 马拉维
+    zh_hans: 马拉维
+    zh_hant: 馬拉威
+    zh_hk: 馬拉維
+    zh_sg: 马拉维
+    zh_tw: 馬拉威
     zu: IMalawi
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Malawi

@@ -94,7 +94,7 @@ dv_has_:
     az: Krossvord
     ba: Кроссворд
     be: Красворд
-    be-tarask: Красворд
+    be_tarask: Красворд
     bg: Кръстословица
     bn: শব্দছক
     br: Gerioù-kroaz
@@ -108,8 +108,8 @@ dv_has_:
     de: Kreuzworträtsel
     el: Σταυρόλεξο
     en: crossword
-    en-ca: Crossword
-    en-gb: crossword
+    en_ca: Crossword
+    en_gb: crossword
     eo: krucvortenigmo
     es: crucigrama
     et: Ristsõnad
@@ -144,7 +144,7 @@ dv_has_:
     nn: kryssord
     pl: Krzyżówka
     pt: palavras cruzadas
-    pt-br: Palavras cruzadas
+    pt_br: Palavras cruzadas
     ro: cuvinte încrucișate
     ru: Кроссворд
     sh: Križaljka
@@ -152,8 +152,8 @@ dv_has_:
     sl: križanka
     sq: Fjalëkryqi
     sr: укрштене речи
-    sr-ec: укрштене речи
-    sr-el: ukrštene reči
+    sr_ec: укрштене речи
+    sr_el: ukrštene reči
     su: Tarucing cakra
     sv: korsord
     ta: குறுக்கெழுத்துப் புதிர்
@@ -164,7 +164,7 @@ dv_has_:
     wuu: 填字游戏
     yue: 填字遊戲
     zh: 填字遊戲
-    zh-hk: 填字遊戲
+    zh_hk: 填字遊戲
 ---
 # [[Crossword]] 
 

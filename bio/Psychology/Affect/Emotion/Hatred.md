@@ -120,7 +120,7 @@ dv_has_:
     az: Nifrət
     bcl: Pagka-ongis
     be: Нянавісць
-    be-tarask: нянавісьць
+    be_tarask: нянавісьць
     bg: Омраза
     bn: ঘৃণা
     bo: སྡང་སེམས།
@@ -131,13 +131,13 @@ dv_has_:
     cy: casineb
     da: had
     de: Hass
-    de-ch: Hass
+    de_ch: Hass
     dsb: gramstwo
     el: μίσος
     eml: Òdi
     en: hatred
-    en-ca: Hatred
-    en-gb: hatred
+    en_ca: Hatred
+    en_gb: hatred
     eo: malamo
     es: odio
     et: vihkamine
@@ -158,7 +158,7 @@ dv_has_:
     hy: Ատելություն
     id: Kebencian
     ike-cans: ᐆᒥᓱᑦᑐᖅ
-    ike-latn: uumisuttuq
+    ike_latn: uumisuttuq
     io: odio
     is: hatur
     it: odio
@@ -169,7 +169,7 @@ dv_has_:
     kn: ಹಗೆತನ
     ko: 증오
     ku: nefret
-    ku-latn: nefret
+    ku_latn: nefret
     la: Odium
     lt: neapykanta
     lv: naids
@@ -187,7 +187,7 @@ dv_has_:
     pl: nienawiść
     ps: نفرت
     pt: ódio
-    pt-br: ódio
+    pt_br: ódio
     qu: Chiqniy
     ro: ură
     ru: ненависть
@@ -202,8 +202,8 @@ dv_has_:
     so: Nacayb
     sq: urrejtja
     sr: мржња
-    sr-ec: Мржња
-    sr-el: Mržnja
+    sr_ec: Мржња
+    sr_el: Mržnja
     sv: hat
     sw: Chuki
     ta: வெறுப்பு
@@ -220,12 +220,12 @@ dv_has_:
     yi: האס
     yue: 憎
     zh: 仇恨
-    zh-cn: 仇恨
-    zh-hans: 仇恨
-    zh-hant: 仇恨
-    zh-hk: 仇恨
-    zh-sg: 仇恨
-    zh-tw: 仇恨
+    zh_cn: 仇恨
+    zh_hans: 仇恨
+    zh_hant: 仇恨
+    zh_hk: 仇恨
+    zh_sg: 仇恨
+    zh_tw: 仇恨
 ---
 # [[Hatred]] 
 

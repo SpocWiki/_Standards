@@ -69,7 +69,7 @@ dv_has_:
     ast: astrodinámica
     az: Astrodinamika
     be: Астрадынаміка
-    be-tarask: астрадынаміка
+    be_tarask: астрадынаміка
     bg: Орбитална механика
     bn: জ্যোতির্গতিবিজ্ঞান
     br: Sternerzhoniezh
@@ -116,10 +116,10 @@ dv_has_:
     wuu: 航天动力学
     yue: 軌道動力學
     zh: 航天动力学
-    zh-hans: 航天动力学
-    zh-hant: 航天動力學
-    zh-hk: 航天動力學
-    zh-tw: 太空動力學
+    zh_hans: 航天动力学
+    zh_hant: 航天動力學
+    zh_hk: 航天動力學
+    zh_tw: 太空動力學
 ---
 # [[Orbital_Mechanics]] 
 

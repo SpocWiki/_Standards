@@ -43,7 +43,7 @@ dv_has_:
     oc: Galeaspida
     pl: Galeaspida
     pt: Galeaspida
-    pt-br: Galeaspida
+    pt_br: Galeaspida
     ro: Galeaspida
     ru: Galeaspida
     sk: Galeaspida
@@ -53,10 +53,10 @@ dv_has_:
     vo: Galeaspida
     war: Galeaspida
     zh: 盔甲鱼纲
-    zh-cn: 盔甲鱼纲
-    zh-hans: 盔甲鱼纲
-    zh-hant: 盔甲魚綱
-    zh-tw: 盔甲鱼綱
+    zh_cn: 盔甲鱼纲
+    zh_hans: 盔甲鱼纲
+    zh_hant: 盔甲魚綱
+    zh_tw: 盔甲鱼綱
 ---
 # [[Galeaspida]]
 

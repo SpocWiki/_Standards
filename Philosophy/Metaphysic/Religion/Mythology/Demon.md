@@ -117,7 +117,7 @@ dv_has_:
     az: Demon
     bcl: Demonyo
     be: дэман
-    be-tarask: дэман
+    be_tarask: дэман
     bg: Демон
     br: arc'houere
     bs: Demon
@@ -175,7 +175,7 @@ dv_has_:
     pl: demon
     ps: ډیمون (شیطان)
     pt: demónio
-    pt-br: demônio
+    pt_br: demônio
     ro: Demon
     ru: демон
     scn: Dimoniu
@@ -186,8 +186,8 @@ dv_has_:
     sl: demon
     sq: Demoni
     sr: демон
-    sr-ec: демон
-    sr-el: demon
+    sr_ec: демон
+    sr_el: demon
     sv: demon
     szl: Dymůn
     tg: Дев
@@ -203,12 +203,12 @@ dv_has_:
     xmf: დემონი
     yue: 邪靈
     zh: 邪靈
-    zh-cn: 邪灵
-    zh-hans: 邪灵
-    zh-hant: 邪靈
-    zh-hk: 邪靈
-    zh-sg: 邪灵
-    zh-tw: 邪靈
+    zh_cn: 邪灵
+    zh_hans: 邪灵
+    zh_hant: 邪靈
+    zh_hk: 邪靈
+    zh_sg: 邪灵
+    zh_tw: 邪靈
 ---
 # [[Demon]] 
 

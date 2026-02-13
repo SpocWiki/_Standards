@@ -85,7 +85,7 @@ dv_has_:
     az: Pluton
     ba: Плутон
     be: Плутон
-    be-tarask: Плютон
+    be_tarask: Плютон
     bg: Плутон
     br: Pluto
     bs: Pluton
@@ -141,7 +141,7 @@ dv_has_:
     os: Плутон
     pl: Pluton
     pt: Plutão
-    pt-br: Plutão
+    pt_br: Plutão
     ro: Pluton (mitologie)
     ru: Плутон
     scn: Plutoni
@@ -151,8 +151,8 @@ dv_has_:
     sl: Pluton
     sq: Plutoni
     sr: Плутон
-    sr-ec: Плутон
-    sr-el: Pluton
+    sr_ec: Плутон
+    sr_el: Pluton
     sv: Pluto
     ta: புளூட்டோ
     th: พลูโต
@@ -165,12 +165,12 @@ dv_has_:
     wuu: 普路托
     yue: 布魯圖
     zh: 普路托
-    zh-cn: 普路托
-    zh-hans: 普路托
-    zh-hant: 普路托
-    zh-hk: 普路托
-    zh-sg: 普路托
-    zh-tw: 普路托
+    zh_cn: 普路托
+    zh_hans: 普路托
+    zh_hant: 普路托
+    zh_hk: 普路托
+    zh_sg: 普路托
+    zh_tw: 普路托
 ---
 # [[Pluto(Mythology)]] 
 

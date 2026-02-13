@@ -155,7 +155,7 @@ dv_has_:
     bar: Massn
     bcl: Masa
     be: маса
-    be-tarask: маса
+    be_tarask: маса
     bew: Ombolan (èlmu tabèat)
     bg: маса
     bho: भार
@@ -173,11 +173,11 @@ dv_has_:
     cy: màs
     da: masse
     de: Masse
-    de-ch: Masse
+    de_ch: Masse
     el: μάζα
     en: mass
-    en-ca: Mass
-    en-gb: mass
+    en_ca: Mass
+    en_gb: mass
     eo: maso
     es: masa
     et: mass
@@ -248,7 +248,7 @@ dv_has_:
     mn: Масс
     mr: वस्तुमान
     ms: jisim
-    ms-arab: جيسيم
+    ms_arab: جيسيم
     mt: massa
     my: ဒြပ်ထု
     nan: Chit-liōng
@@ -267,7 +267,7 @@ dv_has_:
     pnb: کمیت
     ps: کتله
     pt: massa
-    pt-br: massa
+    pt_br: massa
     qu: Wisnu
     ro: masă
     rsk: Маса
@@ -303,7 +303,7 @@ dv_has_:
     tr: kütle
     ts: Vunyingi-swilo
     tt: масса
-    tt-cyrl: масса
+    tt_cyrl: масса
     udm: масса
     ug: ماسسا
     uk: маса
@@ -320,14 +320,14 @@ dv_has_:
     yo: Àkójọ
     yue: 質量
     zh: 質量
-    zh-cn: 质量
-    zh-hans: 质量
-    zh-hant: 質量
-    zh-hk: 質量
-    zh-mo: 質量
+    zh_cn: 质量
+    zh_hans: 质量
+    zh_hant: 質量
+    zh_hk: 質量
+    zh_mo: 質量
     zh-my: 质量
-    zh-sg: 质量
-    zh-tw: 質量
+    zh_sg: 质量
+    zh_tw: 質量
     zu: Isisindo
 ---
 # [[Mass]] 

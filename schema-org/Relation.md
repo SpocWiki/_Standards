@@ -108,7 +108,7 @@ dv_has_:
     ast: rellación
     ba: мөнәсәбәт
     be: дачыненне
-    be-tarask: стасунак
+    be_tarask: стасунак
     bg: Релация
     bn: অন্বয়
     br: darempred
@@ -143,7 +143,7 @@ dv_has_:
     lzh: 關係
     mk: однос
     ms: hubungan
-    ms-arab: هوبوڠن
+    ms_arab: هوبوڠن
     nb: relasjon
     nl: relatie
     nn: relasjon
@@ -151,15 +151,15 @@ dv_has_:
     pl: relacja
     pms: Relassion
     pt: relação
-    pt-br: relação
+    pt_br: relação
     ru: отношение
     sh: Relacija
     sk: relácia
     sl: relacija
     sq: relacion
     sr: релација
-    sr-ec: релација
-    sr-el: relacija
+    sr_ec: релација
+    sr_el: relacija
     sv: relation
     te: సంబంధం
     th: ความสัมพันธ์
@@ -169,12 +169,12 @@ dv_has_:
     vi: quan hệ
     yue: 關係
     zh: 关系
-    zh-cn: 关系
-    zh-hans: 关系
-    zh-hant: 關係
-    zh-hk: 關係
-    zh-sg: 关系
-    zh-tw: 關係
+    zh_cn: 关系
+    zh_hans: 关系
+    zh_hant: 關係
+    zh_hk: 關係
+    zh_sg: 关系
+    zh_tw: 關係
 ---
 # [[Relation]] 
 

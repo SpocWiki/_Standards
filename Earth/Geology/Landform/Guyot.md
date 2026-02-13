@@ -58,14 +58,14 @@ dv_has_:
   name_:
     ar: مائدة بحرية
     ast: Guyot
-    be-tarask: гаёт
+    be_tarask: гаёт
     ca: guyot
     cs: guyot
     de: Guyot
-    de-ch: Guyot
+    de_ch: Guyot
     en: guyot
-    en-ca: Guyot
-    en-gb: guyot
+    en_ca: Guyot
+    en_gb: guyot
     eo: Gujoto
     es: guyot
     et: Gaiot
@@ -87,7 +87,7 @@ dv_has_:
     oc: Guyot
     pl: Gujot
     pt: guyot
-    pt-br: Guyot
+    pt_br: Guyot
     ru: гайот
     sl: gujot
     sr: Gajot

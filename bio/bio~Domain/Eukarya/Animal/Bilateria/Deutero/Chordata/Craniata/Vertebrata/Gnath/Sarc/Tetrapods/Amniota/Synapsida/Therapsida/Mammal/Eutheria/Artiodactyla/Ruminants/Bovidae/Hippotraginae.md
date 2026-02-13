@@ -72,7 +72,7 @@ dv_has_:
     nl: Paardantilopen
     pl: Antylopowce
     pt: Hippotraginae
-    pt-br: Hippotraginae
+    pt_br: Hippotraginae
     ro: Hippotraginae
     ru: Саблерогие антилопы
     sl: grivaste antilope
@@ -84,11 +84,11 @@ dv_has_:
     vi: Hippotraginae
     war: Hippotraginae
     zh: 马羚亚科
-    zh-cn: 马羚亚科
-    zh-hans: 马羚亚科
-    zh-hant: 馬羚亞科
-    zh-hk: 馬羚亞科
-    zh-tw: 馬羚亞科
+    zh_cn: 马羚亚科
+    zh_hans: 马羚亚科
+    zh_hant: 馬羚亞科
+    zh_hk: 馬羚亞科
+    zh_tw: 馬羚亞科
 ---
 # [[Hippotraginae]] 
 

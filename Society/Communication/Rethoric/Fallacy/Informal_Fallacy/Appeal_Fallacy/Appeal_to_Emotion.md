@@ -37,7 +37,7 @@ instance_of: '[[_Standards/WikiData/WD~type_of_fallacy,130993199]]'
 dv_has_:
   name_:
     ar: توسل بالعاطفة
-    be-tarask: зварот да эмоцыяў
+    be_tarask: зварот да эмоцыяў
     bn: আবেগপ্রবণতার কুযুক্তি
     ca: Apel·lació a l'emoció
     de: Emotionsappell
@@ -65,9 +65,9 @@ dv_has_:
     uk: Звернення до емоцій
     vi: Ngụy biện lợi dụng cảm xúc
     zh: 訴諸情感
-    zh-hans: 诉诸情感
-    zh-hant: 訴諸情感
-    zh-hk: 訴諸情感
+    zh_hans: 诉诸情感
+    zh_hant: 訴諸情感
+    zh_hk: 訴諸情感
 ---
 # [[Appeal_to_Emotion]] 
 

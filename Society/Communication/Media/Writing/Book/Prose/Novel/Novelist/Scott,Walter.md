@@ -195,7 +195,7 @@ dv_has_:
     ba: Скотт Вальтер
     bar: Walter Scott
     be: Вальтэр Скот
-    be-tarask: Ўолтэр Скот
+    be_tarask: Ўолтэр Скот
     bg: Уолтър Скот
     bn: ওয়াল্টার স্কট
     br: Walter Scott
@@ -263,7 +263,7 @@ dv_has_:
     pnb: والٹر سکاٹ
     ps: والټر سکاټ
     pt: Walter Scott
-    pt-br: Walter Scott
+    pt_br: Walter Scott
     ro: Walter Scott
     ru: Вальтер Скотт
     rue: Валтер Скотт
@@ -291,7 +291,7 @@ dv_has_:
     xmf: უოლტერ სკოტი
     yue: 司各特
     zh: 沃尔特·司各特
-    zh-tw: 華特·史考特
+    zh_tw: 華特·史考特
 ---
 # [[Scott,Walter]] 
 

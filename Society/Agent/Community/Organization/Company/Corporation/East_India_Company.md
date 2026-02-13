@@ -159,7 +159,7 @@ dv_has_:
     az: Ost-Hind şirkəti
     azb: بریتانیانین دوغو هیندوستان شیرکتی
     be: Брытанская Ост-Індская кампанія
-    be-tarask: Брытанская Ост-Індзкая кампанія
+    be_tarask: Брытанская Ост-Індзкая кампанія
     bg: Британска източноиндийска компания
     bho: ईस्ट इंडिया कंपनी
     bn: ব্রিটিশ ইস্ট ইন্ডিয়া কোম্পানি
@@ -171,13 +171,13 @@ dv_has_:
     cy: Cwmni India'r Dwyrain
     da: Det britiske Ostindiske kompagni
     de: Britische Ostindien-Kompanie
-    de-ch: Britische Ostindien-Kompanie
+    de_ch: Britische Ostindien-Kompanie
     dty: इस्ट इण्डिया कम्पनी
     dv: ބްރިޓިޝް އީސްޓް އިންޑިޔާ ކޮންޕެނީ
     el: Αγγλική Εταιρεία Ανατολικών Ινδιών
     en: East India Company
-    en-ca: East India Company
-    en-gb: East India Company
+    en_ca: East India Company
+    en_gb: East India Company
     eo: Brita Orienthinda Kompanio
     es: Compañía Británica de las Indias Orientales
     et: Briti Ida-India Kompanii
@@ -225,7 +225,7 @@ dv_has_:
     pnb: ایسٹ انڈیا کمپنی
     ps: ختيځ هند کمپنۍ
     pt: Companhia Britânica das Índias Orientais
-    pt-br: Companhia Britânica das Índias Orientais
+    pt_br: Companhia Britânica das Índias Orientais
     ro: Compania Britanică a Indiilor de Est
     ru: Британская Ост-Индская компания
     sd: ايسٽ انڊيا ڪمپني

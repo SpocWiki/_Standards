@@ -44,7 +44,7 @@ dv_has_:
     az: Kirk Duqlas
     azb: کرک داقلاس
     be: Кірк Дуглас
-    be-tarask: Керк Дуглас
+    be_tarask: Керк Дуглас
     bg: Кърк Дъглас
     bn: কার্ক ডগলাস
     br: Kirk Douglas
@@ -57,11 +57,11 @@ dv_has_:
     cy: Kirk Douglas
     da: Kirk Douglas
     de: Kirk Douglas
-    de-ch: Kirk Douglas
+    de_ch: Kirk Douglas
     el: Κερκ Ντάγκλας
     en: Kirk Douglas
-    en-ca: Kirk Douglas
-    en-gb: Kirk Douglas
+    en_ca: Kirk Douglas
+    en_gb: Kirk Douglas
     eo: Kirk Douglas
     es: Kirk Douglas
     et: Kirk Douglas
@@ -110,7 +110,7 @@ dv_has_:
     pap: Kirk Douglas
     pl: Kirk Douglas
     pt: Kirk Douglas
-    pt-br: Kirk Douglas
+    pt_br: Kirk Douglas
     qu: Kirk Douglas
     rm: Kirk Douglas
     ro: Kirk Douglas
@@ -129,7 +129,7 @@ dv_has_:
     tl: Kirk Douglas
     tr: Kirk Douglas
     tt: Кирк Дуглас
-    tt-cyrl: Кирк Дуглас
+    tt_cyrl: Кирк Дуглас
     uk: Кірк Дуґлас
     ur: کرک ڈگلس
     uz: Kirk Douglas
@@ -140,9 +140,9 @@ dv_has_:
     xmf: კირკ დუგლასი
     yue: 卻德格拉斯
     zh: 柯克·道格拉斯
-    zh-hant: 卻德格拉斯
+    zh_hant: 卻德格拉斯
     zh-my: 寇克·道格拉斯
-    zh-sg: 寇克·道格拉斯
+    zh_sg: 寇克·道格拉斯
 ---
 #has_/time_/started :: 1916-12-09 
 #has_/time_/stopped :: 2020-02-05 

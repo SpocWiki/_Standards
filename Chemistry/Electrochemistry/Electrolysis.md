@@ -105,7 +105,7 @@ dv_has_:
     ast: Electrólisis
     az: Elektroliz
     be: Электроліз
-    be-tarask: электроліз
+    be_tarask: электроліз
     bg: Електролиза
     bn: তড়িৎ বিশ্লেষণ
     bs: Elektroliza

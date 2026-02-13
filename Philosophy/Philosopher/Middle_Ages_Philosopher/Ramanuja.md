@@ -65,7 +65,7 @@ dv_has_:
   name_:
     ar: رامنوغا
     as: ৰামানুজাচাৰ্য
-    be-tarask: Рамануджа
+    be_tarask: Рамануджа
     bg: Рамануджа
     bn: রামানুজ
     ca: Ramanuja
@@ -108,7 +108,7 @@ dv_has_:
     pi: रामानुज
     pl: Ramanudźa
     pt: Ramanuja
-    pt-br: Ramanuja
+    pt_br: Ramanuja
     ro: Ramanuja
     ru: Рамануджа
     sa: रामानुजाचार्यः

@@ -178,7 +178,7 @@ dv_has_:
     tl: Prokaryote
     tr: Prokaryot
     tt: төшсезләр
-    tt-cyrl: төшсезләр
+    tt_cyrl: төшсезләр
     uk: прокаріоти
     ur: بدائی المرکز
     uz: Prokariotlar
@@ -190,11 +190,11 @@ dv_has_:
     yo: Pròkáríọ́tì
     yue: 原核生物
     zh: 原核生物
-    zh-cn: 原核生物
-    zh-hans: 原核生物
-    zh-hant: 原核生物
-    zh-hk: 原核生物
-    zh-tw: 原核生物
+    zh_cn: 原核生物
+    zh_hans: 原核生物
+    zh_hant: 原核生物
+    zh_hk: 原核生物
+    zh_tw: 原核生物
     zu: INswelandeni
 ---
 This is a Super-[[../Taxon~Domain]]. 

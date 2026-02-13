@@ -257,7 +257,7 @@ time_of_earliest_written_record: -0400-01-01T00:00:00Z
 Dewey_Decimal_Classification: 494.811
 dv_has_:
   name_:
-    aeb-arab: التاميلي
+    aeb_arab: التاميلي
     af: Tamil
     am: ታሚልኛ
     an: Idioma tamil
@@ -275,7 +275,7 @@ dv_has_:
     bbc: Hata Tamil
     bcl: Tamil
     be: тамільская мова
-    be-tarask: тамільская мова
+    be_tarask: тамільская мова
     bg: Тамилски език
     bho: तमिल
     bjn: Bahasa Tamil
@@ -292,14 +292,14 @@ dv_has_:
     cy: Tamileg
     da: Tamil
     de: Tamil
-    de-ch: Tamil
+    de_ch: Tamil
     dtp: boros Tamil
     dty: तमिल भाषा
     dv: ތަމަޅަ
     el: Ταμιλικά
     en: Tamil
-    en-ca: Tamil
-    en-gb: Tamil
+    en_ca: Tamil
+    en_gb: Tamil
     en-us: Tamil
     eo: tamila lingvo
     es: tamil
@@ -365,7 +365,7 @@ dv_has_:
     mni: ꯇꯥꯃꯤꯜ ꯂꯣꯟ
     mr: तमिळ भाषा
     ms: bahasa Tamil
-    ms-arab: بهاس تاميل
+    ms_arab: بهاس تاميل
     mt: Tamil
     my: တမီးလ်ဘာသာစကား
     myv: Тамилэнь кель
@@ -373,7 +373,7 @@ dv_has_:
     nah: Tamillahtōlli
     nan: Tamil-gí
     nb: tamilsk
-    nds-nl: Tamil
+    nds_nl: Tamil
     ne: तमिल भाषा
     new: तमिल भाषा
     nl: Tamil
@@ -390,7 +390,7 @@ dv_has_:
     pnb: تامل
     ps: تاميلي ژبه
     pt: Língua tâmil
-    pt-br: língua tâmil
+    pt_br: língua tâmil
     qu: Tamil simi
     rmy: Tamilikani chhib
     ro: limba tamilă
@@ -423,7 +423,7 @@ dv_has_:
     tcy: ತಮಿಳ್ ಭಾಷೆ
     te: తమిళ భాష
     tg: Забони томилӣ
-    tg-cyrl: забони томилӣ
+    tg_cyrl: забони томилӣ
     th: ภาษาทมิฬ
     tl: Wikang Tamil
     tok: toki Tami
@@ -445,14 +445,14 @@ dv_has_:
     yo: Èdè Tàmil
     yue: 淡米爾文
     zh: 泰米爾語
-    zh-cn: 泰米尔语
-    zh-hans: 泰米尔语
-    zh-hant: 坦米爾語
-    zh-hk: 淡米爾語
-    zh-mo: 泰米爾語
+    zh_cn: 泰米尔语
+    zh_hans: 泰米尔语
+    zh_hant: 坦米爾語
+    zh_hk: 淡米爾語
+    zh_mo: 泰米爾語
     zh-my: 淡米尔语
-    zh-sg: 淡米尔语
-    zh-tw: 坦米爾語
+    zh_sg: 淡米尔语
+    zh_tw: 坦米爾語
     zu: isi-Tamil
 ---
 # [[Lang-tam]] 

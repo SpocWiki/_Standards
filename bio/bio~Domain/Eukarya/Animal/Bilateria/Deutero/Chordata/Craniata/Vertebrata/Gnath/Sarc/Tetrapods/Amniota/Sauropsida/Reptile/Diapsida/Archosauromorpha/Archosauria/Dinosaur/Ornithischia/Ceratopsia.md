@@ -35,11 +35,11 @@ dv_has_:
     cs: Ceratopsia
     de: Ceratopsia
     de-at: Ceratopsia
-    de-ch: Ceratopsia
+    de_ch: Ceratopsia
     el: Κερατόψια
     en: Ceratopsia
-    en-ca: Ceratopsia
-    en-gb: Ceratopsia
+    en_ca: Ceratopsia
+    en_gb: Ceratopsia
     eo: Ceratopoj
     es: Ceratopsia
     eu: Ceratopsia
@@ -79,12 +79,12 @@ dv_has_:
     vi: Khủng long sừng
     war: Ceratopsia
     zh: 角龍下目
-    zh-cn: 角龙下目
-    zh-hans: 角龙下目
-    zh-hant: 角龍下目
-    zh-hk: 角龍下目
-    zh-sg: 角龙下目
-    zh-tw: 角龍下目
+    zh_cn: 角龙下目
+    zh_hans: 角龙下目
+    zh_hant: 角龍下目
+    zh_hk: 角龍下目
+    zh_sg: 角龙下目
+    zh_tw: 角龍下目
 ---
 # [[Ceratopsia]] 
 

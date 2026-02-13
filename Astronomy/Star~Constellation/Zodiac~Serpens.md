@@ -118,7 +118,7 @@ dv_has_:
     az: İlan bürcü
     ba: Йылан
     be: Змяя
-    be-tarask: Зьмяя
+    be_tarask: Зьмяя
     bg: Змия
     bn: সর্প মণ্ডল
     bo: སྦྲུལ་ཆེན་སྐར་ཚོམ་
@@ -177,7 +177,7 @@ dv_has_:
     nn: Slangen
     pl: Gwiazdozbiór Węża
     pt: Serpens
-    pt-br: Serpente
+    pt_br: Serpente
     ro: Șarpele
     ru: Змея
     sah: Үөн

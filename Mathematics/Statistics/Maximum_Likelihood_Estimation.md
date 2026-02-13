@@ -71,7 +71,7 @@ dv_has_:
     ast: máxima verosimilitud
     az: maksimal mümkünlük
     be: метад максімальнай праўдападобнасці
-    be-tarask: мэтад максымальнай праўдападобнасьці
+    be_tarask: мэтад максымальнай праўдападобнасьці
     bg: метод на максималното правдоподобие
     ca: màxima versemblança
     cs: metoda maximální věrohodnosti
@@ -79,8 +79,8 @@ dv_has_:
     de: Maximum-Likelihood-Schätzung
     el: μέγιστη πιθανοφάνεια
     en: maximum likelihood estimation
-    en-ca: maximum likelihood
-    en-gb: maximum likelihood
+    en_ca: maximum likelihood
+    en_gb: maximum likelihood
     eo: stimado per maksimuma verosimilo
     es: estimación de máxima verosimilitud
     et: suurima tõepära meetod
@@ -102,7 +102,7 @@ dv_has_:
     nl: meest aannemelijke schatter
     nn: maksimal rimelegheitstimering
     pt: máxima verossimilhança
-    pt-br: máxima verossimilhança
+    pt_br: máxima verossimilhança
     ro: verosimilitate maximă
     ru: метод максимального правдоподобия
     sl: metoda največjega verjetja
@@ -116,11 +116,11 @@ dv_has_:
     vi: hợp lý cực đại
     yue: 最大似然估計
     zh: 最大似然估计
-    zh-cn: 最大似然估计
-    zh-hans: 最大似然估计
-    zh-hant: 最大似然估計
-    zh-hk: 最大似然估計
-    zh-tw: 最大概似估計
+    zh_cn: 最大似然估计
+    zh_hans: 最大似然估计
+    zh_hant: 最大似然估計
+    zh_hk: 最大似然估計
+    zh_tw: 最大概似估計
 ---
 # [[Maximum_Likelihood_Estimation]] 
 

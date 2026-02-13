@@ -133,7 +133,7 @@ dv_has_:
     ba: Торба
     bar: Trompetn
     be: труба
-    be-tarask: труба
+    be_tarask: труба
     bg: тромпет
     bn: তূর্য
     bo: འཁྱིལ་ཆུང་།
@@ -204,7 +204,7 @@ dv_has_:
     nan: Kó͘-chhoe
     nb: trompet
     nds: Trumpeet
-    nds-nl: trompet
+    nds_nl: trompet
     new: ट्रम्पेट
     nl: trompet
     nn: trompet
@@ -255,9 +255,9 @@ dv_has_:
     yi: טרומייט
     yue: 小號
     zh: 小號
-    zh-hans: 小号
-    zh-hant: 小號
-    zh-tw: 小號
+    zh_hans: 小号
+    zh_hant: 小號
+    zh_tw: 小號
     zu: Icilongo
 ---
 # [[Trumpet]] 🎺 

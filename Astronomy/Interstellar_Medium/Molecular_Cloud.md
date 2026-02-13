@@ -98,7 +98,7 @@ dv_has_:
     ast: nube molecular
     az: molekulyar bulud
     be: малекулярнае воблака
-    be-tarask: малекулярнае воблака
+    be_tarask: малекулярнае воблака
     bg: молекулярен облак
     bn: আণবিক মেঘ
     bs: molekularni oblak
@@ -107,11 +107,11 @@ dv_has_:
     cs: molekulární mračno
     cy: cwmwl molecwlaidd
     de: Molekülwolke
-    de-ch: Molekülwolke
+    de_ch: Molekülwolke
     el: μοριακό νέφος
     en: molecular cloud
-    en-ca: molecular cloud
-    en-gb: molecular cloud
+    en_ca: molecular cloud
+    en_gb: molecular cloud
     eo: molekula nubo
     es: nube molecular
     et: molekulipilv
@@ -143,7 +143,7 @@ dv_has_:
     pl: obłok molekularny
     pnb: مالیکولی بدل
     pt: nuvem molecular
-    pt-br: nuvem molecular
+    pt_br: nuvem molecular
     ro: nor molecular
     ru: молекулярное облако
     scn: nùvula muliculari
@@ -154,8 +154,8 @@ dv_has_:
     smn: molekyylpolvâ
     sms: molekyylpõlvv
     sr: молекуларни облак
-    sr-ec: молекуларни облак
-    sr-el: molekularni oblak
+    sr_ec: молекуларни облак
+    sr_el: molekularni oblak
     sv: molekylmoln
     th: เมฆโมเลกุล
     tr: moleküler bulut
@@ -165,12 +165,12 @@ dv_has_:
     xmf: მოლეკულური მუნაფა
     yue: 分子雲
     zh: 分子雲
-    zh-cn: 分子云
-    zh-hans: 分子云
-    zh-hant: 分子雲
-    zh-hk: 分子雲
-    zh-sg: 分子云
-    zh-tw: 分子雲
+    zh_cn: 分子云
+    zh_hans: 分子云
+    zh_hant: 分子雲
+    zh_hk: 分子雲
+    zh_sg: 分子云
+    zh_tw: 分子雲
 ---
 # [[Molecular_Cloud]] 
 

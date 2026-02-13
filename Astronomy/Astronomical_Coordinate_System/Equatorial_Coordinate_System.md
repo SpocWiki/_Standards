@@ -89,15 +89,15 @@ dv_has_:
     ar: نظام الإحداثيات الاستوائية
     ast: Coordenaes ecuatoriales
     be: Першая экватарыяльная сістэма каардынат
-    be-tarask: экватарыяльная сыстэма каардынатаў
+    be_tarask: экватарыяльная сыстэма каардынатаў
     bg: Екваториална координатна система
     ca: coordenades equatorials
     cs: rovníkové souřadnice
     de: äquatoriales Koordinatensystem
-    de-ch: Äquatoriales Koordinatensystem
+    de_ch: Äquatoriales Koordinatensystem
     en: equatorial coordinate system
-    en-ca: Equatorial coordinate system
-    en-gb: Equatorial coordinate system
+    en_ca: Equatorial coordinate system
+    en_gb: Equatorial coordinate system
     eo: ekvatora koordinatsistemo
     es: coordenadas ecuatoriales
     et: Ekvaatorilised koordinaadid
@@ -125,15 +125,15 @@ dv_has_:
     nn: Ekvatorsystemet
     pl: układ współrzędnych równikowych
     pt: sistema equatorial de coordenadas
-    pt-br: Sistema equatorial de coordenadas
+    pt_br: Sistema equatorial de coordenadas
     ro: sistem de coordonate ecuatoriale
     ru: экваториальная система координат
     sh: Nebeski ekvatorijalni koordinatni sistem
     sk: Rovníková sústava súradníc
     sl: ekvatorski koordinatni sistem
     sr: небески екваторијални координатни систем
-    sr-ec: Небески екваторијални координатни систем
-    sr-el: Nebeski ekvatorijalni koordinatni sistem
+    sr_ec: Небески екваторијални координатни систем
+    sr_el: Nebeski ekvatorijalni koordinatni sistem
     sv: Astronomiska koordinater
     te: భూమధ్యరేఖీయ నిర్దేశాంక వ్యవస్థ
     th: ระบบพิกัดศูนย์สูตร
@@ -145,12 +145,12 @@ dv_has_:
     vi: hệ tọa độ xích đạo
     yue: 赤道坐標系統
     zh: 赤道座標系統
-    zh-cn: 赤道座标系统
-    zh-hans: 赤道座标系统
-    zh-hant: 赤道座標系統
-    zh-hk: 赤道座標系統
-    zh-sg: 赤道座标系统
-    zh-tw: 赤道座標系統
+    zh_cn: 赤道座标系统
+    zh_hans: 赤道座标系统
+    zh_hant: 赤道座標系統
+    zh_hk: 赤道座標系統
+    zh_sg: 赤道座标系统
+    zh_tw: 赤道座標系統
 ---
 # [[Equatorial_Coordinate_System]] 
 

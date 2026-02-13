@@ -236,7 +236,7 @@ dv_has_:
     azb: تاسمان دنیزی
     ba: Тасман диңгеҙе
     be: Тасманава мора
-    be-tarask: Тасманава мора
+    be_tarask: Тасманава мора
     bg: Тасманово море
     bn: তাসমান সাগর
     br: Mor Tasman
@@ -325,8 +325,8 @@ dv_has_:
     yi: טאסמאן ים
     yue: 塔斯曼海
     zh: 塔斯曼海
-    zh-cn: 塔斯曼海
-    zh-hant: 塔斯曼海
+    zh_cn: 塔斯曼海
+    zh_hant: 塔斯曼海
 ---
 # [[Tasman_Sea]] 
 

@@ -162,7 +162,7 @@ dv_has_:
     ba: органик булмаған химия
     bcl: inorganikong kimika
     be: неарганічная хімія
-    be-tarask: неарганічная хімія
+    be_tarask: неарганічная хімія
     bg: неорганична химия
     bn: অজৈব রসায়ন
     bs: neorganska hemija
@@ -174,11 +174,11 @@ dv_has_:
     cy: cemeg anorganig
     da: uorganisk kemi
     de: anorganische Chemie
-    de-ch: anorganische Chemie
+    de_ch: anorganische Chemie
     el: ανόργανη χημεία
     en: inorganic chemistry
-    en-ca: inorganic chemistry
-    en-gb: inorganic chemistry
+    en_ca: inorganic chemistry
+    en_gb: inorganic chemistry
     eo: neorganika ĥemio
     es: química inorgánica
     et: anorgaaniline keemia
@@ -233,7 +233,7 @@ dv_has_:
     pms: chimica inorgànica
     pnb: انکاربن کیمسٹری
     pt: química inorgânica
-    pt-br: química inorgânica
+    pt_br: química inorgânica
     ro: chimie anorganică
     ru: неорганическая химия
     rue: неорганична хемия

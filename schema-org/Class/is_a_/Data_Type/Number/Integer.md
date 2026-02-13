@@ -187,7 +187,7 @@ dv_has_:
     ba: тулы һан
     bcl: integer
     be: цэлы лік
-    be-tarask: цэлы лік
+    be_tarask: цэлы лік
     bg: цяло число
     bn: পূর্ণ সংখ্যা
     br: kevan daveel
@@ -200,11 +200,11 @@ dv_has_:
     cy: cyfanrif
     da: heltal
     de: ganze Zahl
-    de-ch: Ganze Zahl
+    de_ch: Ganze Zahl
     el: ακέραιος αριθμός
     en: integer
-    en-ca: integer
-    en-gb: integer
+    en_ca: integer
+    en_gb: integer
     en-us: integer
     eo: entjero
     es: número entero
@@ -265,7 +265,7 @@ dv_has_:
     mn: бүхэл тоо
     mr: पूर्ण संख्या
     ms: integer
-    ms-arab: اينتيݢر
+    ms_arab: اينتيݢر
     mt: Integer
     mwl: númaro anteiro
     nan: chéng-sò͘
@@ -281,7 +281,7 @@ dv_has_:
     pms: nùmer antregh
     pnb: انٹیجر
     pt: número inteiro
-    pt-br: número inteiro
+    pt_br: número inteiro
     ro: număr întreg
     ru: целое число
     scn: nùmmuru rilativu
@@ -296,8 +296,8 @@ dv_has_:
     so: abyoone
     sq: numër i plotë
     sr: цео број
-    sr-ec: цео број
-    sr-el: ceo broj
+    sr_ec: цео број
+    sr_el: ceo broj
     sv: heltal
     sw: nambakamili
     szl: Cołkowito nůmera
@@ -322,14 +322,14 @@ dv_has_:
     yo: nọ́mbà odidi
     yue: 整數
     zh: 整數
-    zh-cn: 整数
-    zh-hans: 整数
-    zh-hant: 整數
-    zh-hk: 整數
-    zh-mo: 整數
+    zh_cn: 整数
+    zh_hans: 整数
+    zh_hant: 整數
+    zh_hk: 整數
+    zh_mo: 整數
     zh-my: 整数
-    zh-sg: 整数
-    zh-tw: 整數
+    zh_sg: 整数
+    zh_tw: 整數
   parent_class:
   - '[[../Number]]'
 dv_has_parent_class:

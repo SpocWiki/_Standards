@@ -93,7 +93,7 @@ dv_has_:
     az: Mavrlar
     ba: Маврҙар
     be: маўры
-    be-tarask: маўры
+    be_tarask: маўры
     bg: Маври
     bn: মুর উপজাতি
     bs: Mauri
@@ -105,11 +105,11 @@ dv_has_:
     cy: Mwriaid
     da: Maurer
     de: Mauren
-    de-ch: Mauren
+    de_ch: Mauren
     el: Μαυριτανοί
     en: Moors
-    en-ca: Moors
-    en-gb: Moors
+    en_ca: Moors
+    en_gb: Moors
     eo: Maŭroj
     es: moro
     et: Maurid
@@ -153,7 +153,7 @@ dv_has_:
     pnb: مور لوک
     ps: ماورن
     pt: Mouros
-    pt-br: Mouros
+    pt_br: Mouros
     ro: Mauri
     ru: мавры
     sh: Mauri
@@ -161,8 +161,8 @@ dv_has_:
     sk: Mauri
     sl: Mavri
     sr: Маври
-    sr-ec: Маври
-    sr-el: Mavri
+    sr_ec: Маври
+    sr_el: Mavri
     sv: Morer
     sw: Wamoor
     ta: மூர்ஸ்
@@ -180,12 +180,12 @@ dv_has_:
     xmf: მავრეფი
     yue: 摩爾人
     zh: 摩尔人
-    zh-cn: 摩尔人
-    zh-hans: 摩尔人
-    zh-hant: 摩爾人
-    zh-hk: 摩爾人
-    zh-sg: 摩尔人
-    zh-tw: 摩爾人
+    zh_cn: 摩尔人
+    zh_hans: 摩尔人
+    zh_hant: 摩爾人
+    zh_hk: 摩爾人
+    zh_sg: 摩尔人
+    zh_tw: 摩爾人
 ---
 # [[Moor]] 
 

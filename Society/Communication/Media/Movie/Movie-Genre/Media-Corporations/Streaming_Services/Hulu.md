@@ -14,8 +14,8 @@ dv_has_:
     de: Hulu
     el: Hulu
     en: Hulu
-    en-ca: Hulu
-    en-gb: Hulu
+    en_ca: Hulu
+    en_gb: Hulu
     es: Hulu
     eu: Hulu
     fa: هولو
@@ -42,7 +42,7 @@ dv_has_:
     nb: Hulu
     nl: Hulu
     pt: Hulu
-    pt-br: Hulu
+    pt_br: Hulu
     ro: Hulu
     sah: Hulu
     sl: Hulu
@@ -55,10 +55,10 @@ dv_has_:
     vec: Hulu
     vi: Hulu
     zh: Hulu
-    zh-cn: Hulu
-    zh-hans: Hulu
-    zh-hant: Hulu
-    zh-hk: Hulu
+    zh_cn: Hulu
+    zh_hans: Hulu
+    zh_hant: Hulu
+    zh_hk: Hulu
 aliases:
 - Hulu
 - Хулу

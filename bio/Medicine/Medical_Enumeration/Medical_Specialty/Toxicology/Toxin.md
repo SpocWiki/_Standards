@@ -72,7 +72,7 @@ dv_has_:
     ast: Toxina
     az: Toksin
     be: таксін
-    be-tarask: таксін
+    be_tarask: таксін
     bg: Токсин
     bn: প্রতিবিষ
     bo: དུག་རྒྱུ་
@@ -106,11 +106,11 @@ dv_has_:
     ka: ტოქსინები
     ki: Marathioni
     kk: Уыттар
-    kk-arab: ۋىتتار
+    kk_arab: ۋىتتار
     kk-cn: ۋىتتار
-    kk-cyrl: Уыттар
+    kk_cyrl: Уыттар
     kk-kz: Уыттар
-    kk-latn: Wıttar
+    kk_latn: Wıttar
     kk-tr: Wıttar
     ko: 독소
     ky: Токсиндер
@@ -128,7 +128,7 @@ dv_has_:
     pa: ਜ਼ਹਿਰੀਲਾ ਮਾਦਾ
     pl: toksyna
     pt: toxina
-    pt-br: toxina
+    pt_br: toxina
     ro: toxină
     ru: токсин
     se: toksiidna
@@ -144,7 +144,7 @@ dv_has_:
     tl: Toksin
     tr: toksin
     tt: токсин
-    tt-cyrl: токсин
+    tt_cyrl: токсин
     uk: токсин
     ur: سم
     vi: độc tố
@@ -152,12 +152,12 @@ dv_has_:
     wuu: 毒素
     yue: 毒素
     zh: 毒素
-    zh-cn: 毒素
-    zh-hans: 毒素
-    zh-hant: 毒素
-    zh-hk: 毒素
-    zh-sg: 毒素
-    zh-tw: 毒素
+    zh_cn: 毒素
+    zh_hans: 毒素
+    zh_hant: 毒素
+    zh_hk: 毒素
+    zh_sg: 毒素
+    zh_tw: 毒素
 ---
 # [[Toxin]] 
 

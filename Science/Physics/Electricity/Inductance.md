@@ -102,7 +102,7 @@ dv_has_:
     az: induktivlik
     bar: Induktivität
     be: індуктыўнасць
-    be-tarask: індуктыўнасьць
+    be_tarask: індуктыўнасьць
     bg: индуктивност
     bn: আবেশ গুণাঙ্ক
     bs: Induktivitet
@@ -158,8 +158,8 @@ dv_has_:
     sms: induktanss
     sq: Induktiviteti
     sr: самоиндукција
-    sr-ec: самоиндукција
-    sr-el: samoindukcija
+    sr_ec: самоиндукција
+    sr_el: samoindukcija
     sv: induktans
     ta: தூண்டம்
     tk: Induktiwlik
@@ -172,12 +172,12 @@ dv_has_:
     wuu: 电感
     yue: 電感
     zh: 电感
-    zh-cn: 电感
-    zh-hans: 电感
-    zh-hant: 電感
-    zh-hk: 電感
-    zh-sg: 电感
-    zh-tw: 電感
+    zh_cn: 电感
+    zh_hans: 电感
+    zh_hant: 電感
+    zh_hk: 電感
+    zh_sg: 电感
+    zh_tw: 電感
 ---
 # [[Inductance]] 
 

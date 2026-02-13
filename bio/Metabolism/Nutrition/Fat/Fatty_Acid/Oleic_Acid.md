@@ -707,7 +707,7 @@ dv_has_:
     az: Olein
     azb: اسید اولئیک
     be: Алеінавая кіслата
-    be-tarask: алеінавая кісьля
+    be_tarask: алеінавая кісьля
     bg: Олеинова киселина
     bn: ওলিইক অ্যাসিড
     ca: àcid oleic
@@ -715,11 +715,11 @@ dv_has_:
     da: Oliesyre
     dag: Oleic acid
     de: Ölsäure
-    de-ch: Ölsäure
+    de_ch: Ölsäure
     el: Ελαϊκό οξύ
     en: oleic acid
-    en-ca: Oleic acid
-    en-gb: Oleic acid
+    en_ca: Oleic acid
+    en_gb: Oleic acid
     eo: oleata acido
     es: Ácido oleico
     et: Oleiinhape
@@ -751,7 +751,7 @@ dv_has_:
     nl: oliezuur
     pl: kwas oleinowy
     pt: Ácido oleico
-    pt-br: Ácido oleico
+    pt_br: Ácido oleico
     ro: Acid oleic
     ru: олеиновая кислота
     sco: oleic acid
@@ -759,8 +759,8 @@ dv_has_:
     sk: Kyselina olejová
     sl: oleinska kislina
     sr: олеинска киселина
-    sr-ec: Олеинска киселина
-    sr-el: Oleinska kiselina
+    sr_ec: Олеинска киселина
+    sr_el: Oleinska kiselina
     sv: oljesyra
     te: ఒలిక్ ఆమ్లం
     th: กรดโอเลอิก
@@ -771,12 +771,12 @@ dv_has_:
     wuu: 油酸
     yue: 油酸
     zh: 油酸
-    zh-cn: 油酸
-    zh-hans: 油酸
-    zh-hant: 油酸
-    zh-hk: 油酸
-    zh-sg: 油酸
-    zh-tw: 油酸
+    zh_cn: 油酸
+    zh_hans: 油酸
+    zh_hant: 油酸
+    zh_hk: 油酸
+    zh_sg: 油酸
+    zh_tw: 油酸
 dv_is_:
   same_as:
   - '[[WD~Oleic_Acid,207688]]'
@@ -800,7 +800,7 @@ dv_is_same_as:
 ---
 # [[Oleic_Acid]] 
 
- has_formula_structural = `$= dv.current().__has_formula_structural` 
+ has_formula_structural = `= this.dv_has_formula_structural` 
 #is_/same_as :: [[WD~Oleic_Acid,207688]] 
 
 ## #has_/text_of_/abstract 

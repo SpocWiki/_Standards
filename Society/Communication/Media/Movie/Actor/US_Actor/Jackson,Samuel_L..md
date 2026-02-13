@@ -52,7 +52,7 @@ dv_has_:
     az: Semuel L. Cekson
     azb: ساموئل ال. جکسون
     be: Сэмюэл Л. Джэксан
-    be-tarask: Сэм’юэл Л. Джэксан
+    be_tarask: Сэм’юэл Л. Джэксан
     bg: Самюъл Джаксън
     bho: सैमुएल एल॰ जैक्शन
     bn: স্যামুয়েল এল. জ্যাকসন
@@ -65,8 +65,8 @@ dv_has_:
     de: Samuel L. Jackson
     el: Σάμιουελ Λ. Τζάκσον
     en: Samuel L. Jackson
-    en-ca: Samuel L. Jackson
-    en-gb: Samuel L. Jackson
+    en_ca: Samuel L. Jackson
+    en_gb: Samuel L. Jackson
     eo: Samuel L. Jackson
     es: Samuel L. Jackson
     et: Samuel L. Jackson
@@ -112,7 +112,7 @@ dv_has_:
     pl: Samuel L. Jackson
     pnb: سیموئیل ایل جیکسن
     pt: Samuel L. Jackson
-    pt-br: Samuel L. Jackson
+    pt_br: Samuel L. Jackson
     ro: Samuel L. Jackson
     ru: Сэмюэл Л. Джексон
     sco: Samuel L. Jackson
@@ -122,8 +122,8 @@ dv_has_:
     smn: Samuel L. Jackson
     sq: Samuel L. Jackson
     sr: Самјуел Л. Џексон
-    sr-ec: Самјуел Л. Џексон
-    sr-el: Samjuel L. Džekson
+    sr_ec: Самјуел Л. Џексон
+    sr_el: Samjuel L. Džekson
     su: Samuel L. Jackson
     sv: Samuel L. Jackson
     sw: Samuel L. Jackson
@@ -133,7 +133,7 @@ dv_has_:
     tpi: Samuel L. Jackson
     tr: Samuel L. Jackson
     tt: Сәмүэл Лерой Җәксон
-    tt-cyrl: Сәмүэл Лерой Җәксон
+    tt_cyrl: Сәмүэл Лерой Җәксон
     uk: Семюел Лірой Джексон
     ur: سیموئل ایل جیکسن
     uz: Samuel L. Jackson
@@ -144,12 +144,12 @@ dv_has_:
     yo: Samuel L. Jackson
     yue: 森姆積遜
     zh: 森姆·L·積遜
-    zh-cn: 塞缪尔·L·杰克逊
-    zh-hans: 塞缪尔·L·杰克逊
-    zh-hant: 山繆·L·傑克森
-    zh-hk: 森姆·L·積遜
-    zh-sg: 塞缪尔·L·杰克逊
-    zh-tw: 山繆·L·傑克森
+    zh_cn: 塞缪尔·L·杰克逊
+    zh_hans: 塞缪尔·L·杰克逊
+    zh_hant: 山繆·L·傑克森
+    zh_hk: 森姆·L·積遜
+    zh_sg: 塞缪尔·L·杰克逊
+    zh_tw: 山繆·L·傑克森
 ---
 # [[Jackson,Samuel_L.]] 
 

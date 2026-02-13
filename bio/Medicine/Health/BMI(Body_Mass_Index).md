@@ -259,7 +259,7 @@ dv_has_:
     az: Bədən kütləsinin göstərici
     bar: Keapa-Moss-Index
     be: Індэкс масы цела
-    be-tarask: індэкс масы цела
+    be_tarask: індэкс масы цела
     bg: Индекс на телесната маса
     bn: দেহের ভর সূচক
     bs: Indeks tjelesne mase
@@ -301,7 +301,7 @@ dv_has_:
     ml: ശരീരഭാരസൂചിക
     mr: बॉडी मास इंडेक्स
     ms: Index Jisim Badan
-    ms-arab: اينديکس جيسيم بادن
+    ms_arab: اينديکس جيسيم بادن
     nb: BMI
     nl: queteletindex
     nn: Kroppsmasseindeks
@@ -315,8 +315,8 @@ dv_has_:
     sk: Index telesnej hmotnosti
     sl: indeks telesne mase
     sr: индекс телесне масе
-    sr-ec: индекс телесне масе
-    sr-el: Indeks telesne mase
+    sr_ec: индекс телесне масе
+    sr_el: Indeks telesne mase
     sv: Body Mass Index
     szy: tadakidemu nu imelang
     ta: உடல் நிறை குறியீட்டெண்
@@ -328,12 +328,12 @@ dv_has_:
     wuu: 身高体重指数
     yue: BMI
     zh: 身高體重指數
-    zh-cn: 身高体重指数
-    zh-hans: 身高体重指数
-    zh-hant: 身高體重指數
-    zh-hk: 身高體重指數
-    zh-sg: 身高体重指数
-    zh-tw: 身高體重指數
+    zh_cn: 身高体重指数
+    zh_hans: 身高体重指数
+    zh_hant: 身高體重指數
+    zh_hk: 身高體重指數
+    zh_sg: 身高体重指数
+    zh_tw: 身高體重指數
 ---
 # [[BMI(Body_Mass_Index)]] 
 

@@ -214,7 +214,7 @@ dv_is_same_as:
 - '[[/_secret/Chemistry/Inorganic_Chemistry/Water/Ice.secret|Ice.secret]]'
 dv_has_:
   name_:
-    aeb-arab: تلج
+    aeb_arab: تلج
     af: ys
     am: በረዶ
     an: chelo
@@ -232,7 +232,7 @@ dv_has_:
     bcl: Yelo
     bdr: Ais
     be: лёд
-    be-tarask: лёд
+    be_tarask: лёд
     bew: Ès
     bg: лед
     bho: बरफ
@@ -249,15 +249,15 @@ dv_has_:
     cy: Iâ
     da: is
     de: Eis
-    de-ch: Eis
+    de_ch: Eis
     dga: sakuŋkube
     diq: cemed
     dty: बरफ
     el: πάγος
     eml: giàs
     en: ice
-    en-ca: Ice
-    en-gb: ice
+    en_ca: Ice
+    en_gb: ice
     eo: glacio
     es: hielo
     et: jää
@@ -325,7 +325,7 @@ dv_has_:
     nan: peng
     nb: is
     nds: Ies
-    nds-nl: ies
+    nds_nl: ies
     ne: बरफ
     nl: ijs
     nn: is
@@ -340,7 +340,7 @@ dv_has_:
     pnb: برف
     ps: يخ
     pt: gelo
-    pt-br: gelo
+    pt_br: gelo
     qu: chullunku
     ro: gheață
     rsk: Ляд
@@ -364,7 +364,7 @@ dv_has_:
     so: baraf
     sq: akulli
     sr: лед
-    sr-ec: лед
+    sr_ec: лед
     su: És
     sv: is
     sw: barafu
@@ -377,7 +377,7 @@ dv_has_:
     tl: yelo
     tr: buz
     tt: боз
-    tt-cyrl: боз
+    tt_cyrl: боз
     udm: йӧ
     uk: лід
     ur: برف
@@ -394,9 +394,9 @@ dv_has_:
     yue: 冰
     za: Naehang
     zh: 冰
-    zh-cn: 冰
-    zh-hk: 冰
-    zh-tw: 冰
+    zh_cn: 冰
+    zh_hk: 冰
+    zh_tw: 冰
     zu: Iqhwa
 ---
 # [[Ice]] 

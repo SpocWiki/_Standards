@@ -579,7 +579,7 @@ dv_has_:
     bbc: Jesus
     bcl: Hesukristo
     be: Ісус Хрыстос
-    be-tarask: Ісус Хрыстос
+    be_tarask: Ісус Хрыстос
     bew: Isa
     bg: Иисус Христос
     bho: ईसा मसीह
@@ -593,7 +593,7 @@ dv_has_:
     btm: Jesus
     bxr: Иисус Христос
     ca: Jesús de Natzaret
-    cbk-zam: Jesus
+    cbk_zam: Jesus
     cdo: Ià-sŭ
     ce: ӏиса
     ceb: Jesus
@@ -602,7 +602,7 @@ dv_has_:
     ckb: یەسووع
     co: Gesù
     crh: İsa
-    crh-latn: İsa
+    crh_latn: İsa
     cs: Ježíš Kristus
     csb: Jezës Christus
     cu: Їисъ Хрїстъ
@@ -611,7 +611,7 @@ dv_has_:
     da: Jesus
     dag: Issa
     de: Jesus Christus
-    de-ch: Jesus Christus
+    de_ch: Jesus Christus
     dga: Jesus
     din: Yecu Kritho
     diq: İsa
@@ -623,8 +623,8 @@ dv_has_:
     el: Ιησούς Χριστός
     eml: Gesü
     en: Jesus Christ
-    en-ca: Jesus
-    en-gb: Jesus
+    en_ca: Jesus
+    en_gb: Jesus
     en-us: Jesus
     eo: Jesuo Kristo
     es: Jesús de Nazaret
@@ -651,7 +651,7 @@ dv_has_:
     gn: Hesu Nasaregua
     gom: जेजू
     gom-deva: जेजू क्रिस्त
-    gom-latn: Jezu
+    gom_latn: Jezu
     got: "\U00010339\U00010334\U00010343\U0001033F\U00010343 \U00010347\U00010342\U00010339\U00010343\U00010344\U0001033F\U00010343/Iesus Xristus"
     grc: Ἰησοῦς Χριστός
     gsw: Jesus Christus
@@ -725,7 +725,7 @@ dv_has_:
     lv: Jēzus Kristus
     lzh: 耶穌
     mad: Yèsus
-    map-bms: Yesus Kristus
+    map_bms: Yesus Kristus
     mg: Jesoa
     mhr: Исус Христос
     mi: Ihu Karaiti
@@ -737,7 +737,7 @@ dv_has_:
     mnw: ယေသှု
     mr: येशू ख्रिस्त
     ms: Jesus
-    ms-arab: ييسوس
+    ms_arab: ييسوس
     mt: Ġesù
     mwl: Jasus
     my: ခရစ်တော်၊ ယေရှု
@@ -749,7 +749,7 @@ dv_has_:
     nap: Gèsù
     nb: Jesus Kristus
     nds: Jesus Christus
-    nds-nl: Jezus Christus
+    nds_nl: Jezus Christus
     ne: जिसस क्राइस्ट
     nia: Yesu
     nl: Jezus Christus
@@ -778,7 +778,7 @@ dv_has_:
     pnb: یسوع
     ps: عيسی
     pt: Jesus
-    pt-br: Jesus Cristo
+    pt_br: Jesus Cristo
     qu: Hisus
     rm: Jesus da Nazaret
     rmy: Yesu Kristo
@@ -810,7 +810,7 @@ dv_has_:
     so: Ciise
     sq: Jezusi
     sr: Исус Христос
-    sr-ec: Исус Христос
+    sr_ec: Исус Христос
     srn: Jesus Christus
     ss: Jesu
     stq: Jesus Kristus
@@ -832,7 +832,7 @@ dv_has_:
     tpi: Jisas
     tr: İsa
     tt: Гайсә Мәсих
-    tt-cyrl: Гайсә Мәсих
+    tt_cyrl: Гайсә Мәсих
     tum: Yesu Khristu
     tw: Yesu Kristo
     ty: Iesu Mesia
@@ -859,14 +859,14 @@ dv_has_:
     zea: Jezus
     zgh: ⵄⵉⵙⴰ
     zh: 耶稣
-    zh-cn: 耶稣
-    zh-hans: 耶稣
-    zh-hant: 耶穌
-    zh-hk: 耶穌
-    zh-mo: 耶穌
+    zh_cn: 耶稣
+    zh_hans: 耶稣
+    zh_hant: 耶穌
+    zh_hk: 耶穌
+    zh_mo: 耶穌
     zh-my: 耶稣
-    zh-sg: 耶稣
-    zh-tw: 耶穌
+    zh_sg: 耶稣
+    zh_tw: 耶穌
     zu: UJesu
 ---
 # [[Jesus]] 

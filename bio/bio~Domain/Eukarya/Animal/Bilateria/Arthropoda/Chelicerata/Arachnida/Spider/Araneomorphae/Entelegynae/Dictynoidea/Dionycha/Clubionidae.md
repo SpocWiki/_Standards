@@ -59,7 +59,7 @@ dv_has_:
     oc: Clubionidae
     pl: Clubionidae
     pt: Clubionidae
-    pt-br: Clubionidae
+    pt_br: Clubionidae
     ro: Păianjen sac
     ru: Clubionidae
     sq: Clubionidae
@@ -70,9 +70,9 @@ dv_has_:
     vo: Clubionidae
     war: Clubionidae
     zh: 袋蛛科
-    zh-cn: 袋蛛科
-    zh-hans: 袋蛛科
-    zh-tw: 袋蛛科
+    zh_cn: 袋蛛科
+    zh_hans: 袋蛛科
+    zh_tw: 袋蛛科
 ---
 # [[Clubionidae]] 
 

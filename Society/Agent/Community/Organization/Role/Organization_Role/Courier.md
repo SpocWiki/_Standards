@@ -85,7 +85,7 @@ dv_has_:
     ar: خدمات البريد السريع
     ast: mensaxeru
     az: kuryer
-    be-tarask: кур’ер
+    be_tarask: кур’ер
     bew: Loper
     bg: Куриер
     bn: কুরিয়ার সার্ভিস
@@ -125,23 +125,23 @@ dv_has_:
     nl: koerier
     pl: kurier
     pt: contínuo
-    pt-br: office-boy
+    pt_br: office-boy
     ro: curier
     ru: курьер
     sh: Kurir
     sl: kurir
     sr: курир
-    sr-ec: курир
-    sr-el: kurir
+    sr_ec: курир
+    sr_el: kurir
     sv: kurir
     ta: விரைதூதர் சேவை
     tr: kurye
     uk: кур'єр
     yue: 速遞
     zh: 速遞
-    zh-hans: 速递
-    zh-hant: 快遞
-    zh-hk: 速遞
+    zh_hans: 速递
+    zh_hant: 快遞
+    zh_hk: 速遞
 ---
 # [[Courier]] 
 

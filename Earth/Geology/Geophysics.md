@@ -126,7 +126,7 @@ dv_has_:
     az: Geofizika
     ba: геофизика
     be: геафізіка
-    be-tarask: геафізыка
+    be_tarask: геафізыка
     bg: Геофизика
     blk: ဘူမိရူပဗေဒ
     bn: ভূ-পদার্থবিজ্ঞান
@@ -185,7 +185,7 @@ dv_has_:
     pms: Geofìsica
     ps: جیو فزیک
     pt: geofísica
-    pt-br: geofísica
+    pt_br: geofísica
     rki: ဘူမိရူပဗေဒ
     ro: geofizică
     ru: геофизика
@@ -218,10 +218,10 @@ dv_has_:
     xmf: გეოფიზიკა
     yue: 地球物理學
     zh: 地球物理学
-    zh-cn: 地球物理学
-    zh-hans: 地球物理学
-    zh-hant: 地球物理學
-    zh-tw: 地球物理學
+    zh_cn: 地球物理学
+    zh_hans: 地球物理学
+    zh_hant: 地球物理學
+    zh_tw: 地球物理學
 ---
 # [[Geophysics]] 
 

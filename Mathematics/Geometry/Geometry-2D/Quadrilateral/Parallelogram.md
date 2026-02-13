@@ -102,7 +102,7 @@ dv_has_:
     ba: параллелограмм
     bcl: paralelogramo
     be: паралелаграм
-    be-tarask: паралелаграм
+    be_tarask: паралелаграм
     bg: успоредник
     bn: সামান্তরিক
     bo: མཉམ་འགྲོ་མཐའ་བཞི་བྱིསབད།
@@ -169,7 +169,7 @@ dv_has_:
     pms: paralelograma
     pnb: متوازی الاضلاع
     pt: paralelogramo
-    pt-br: paralelogramo
+    pt_br: paralelogramo
     ro: paralelogram
     ru: параллелограмм
     sah: параллелограмм
@@ -183,7 +183,7 @@ dv_has_:
     so: barbaroole
     sq: paralelogrami
     sr: паралелограм
-    sr-ec: паралелограм
+    sr_ec: паралелограм
     su: pasagi doyong
     sv: parallellogram
     ta: இணைகரம்
@@ -192,7 +192,7 @@ dv_has_:
     tl: paralelogram
     tr: paralelkenar
     tt: параллахер
-    tt-cyrl: параллелограм
+    tt_cyrl: параллелограм
     uk: паралелограм
     uz: parallelogramm
     vi: hình bình hành
@@ -203,9 +203,9 @@ dv_has_:
     yue: 平行四邊形
     zgh: ⴰⵎⵙⴷⵖⵉⴷⵉⵙ
     zh: 平行四邊形
-    zh-hans: 平行四边形
-    zh-hant: 平行四邊形
-    zh-hk: 平行四邊形
+    zh_hans: 平行四边形
+    zh_hant: 平行四邊形
+    zh_hk: 平行四邊形
 ---
 # [[Parallelogram]] 
 

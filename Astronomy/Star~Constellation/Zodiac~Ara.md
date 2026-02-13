@@ -108,7 +108,7 @@ dv_has_:
     az: Qurbangah
     ba: Ҡорбан салыу урыны
     be: Ахвярнік
-    be-tarask: Ахвярнік
+    be_tarask: Ахвярнік
     bg: Жертвеник
     bn: বেদী মণ্ডল
     br: Aoter
@@ -120,12 +120,12 @@ dv_has_:
     cy: Ara
     da: Alteret
     de: Altar
-    de-ch: Altar
+    de_ch: Altar
     diq: Qurbangah
     el: Βωμός
     en: Ara
-    en-ca: Ara
-    en-gb: Ara
+    en_ca: Ara
+    en_gb: Ara
     eo: Altaro
     es: Ara
     et: Altar
@@ -171,7 +171,7 @@ dv_has_:
     pl: Gwiazdozbiór Ołtarza
     pnb: era
     pt: Ara
-    pt-br: Ara
+    pt_br: Ara
     rki: အယ်ရာ
     ro: Altarul
     ru: Жертвенник
@@ -195,14 +195,14 @@ dv_has_:
     wuu: 天坛座
     yue: 天壇座
     zh: 天坛座
-    zh-cn: 天坛座
-    zh-hans: 天坛座
-    zh-hant: 天坛座
-    zh-hk: 天坛座
-    zh-mo: 天坛座
+    zh_cn: 天坛座
+    zh_hans: 天坛座
+    zh_hant: 天坛座
+    zh_hk: 天坛座
+    zh_mo: 天坛座
     zh-my: 天坛座
-    zh-sg: 天坛座
-    zh-tw: 天坛座
+    zh_sg: 天坛座
+    zh_tw: 天坛座
 dv_is_:
   same_as:
   - '[[../../WikiData/WD~Ara,9253|WD~Ara,9253]]'

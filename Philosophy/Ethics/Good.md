@@ -9,7 +9,7 @@ dv_has_:
     ba: Яҡшылыҡ, изгелек
     bcl: Marhay
     be: дабро
-    be-tarask: дабро
+    be_tarask: дабро
     bg: Добро
     bs: dobro
     ca: bé
@@ -68,7 +68,7 @@ dv_has_:
     sl: dobro
     sq: e mirë
     sr: добро
-    sr-ec: добро
+    sr_ec: добро
     sv: godhet
     sw: Wema
     te: మంచి మరియు చెడు
@@ -76,7 +76,7 @@ dv_has_:
     tok: pona
     tr: iyi
     tt: яхшылык
-    tt-cyrl: яхшылык
+    tt_cyrl: яхшылык
     uk: добро
     uz: Yaxshilik
     vi: thiện
@@ -84,8 +84,8 @@ dv_has_:
     yi: גוט
     yue: 善
     zh: 善
-    zh-hant: 善
-    zh-hk: 善
+    zh_hant: 善
+    zh_hk: 善
 aliases:
 - baik
 - bem

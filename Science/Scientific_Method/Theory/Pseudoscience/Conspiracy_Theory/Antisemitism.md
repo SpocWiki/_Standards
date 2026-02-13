@@ -142,7 +142,7 @@ dv_has_:
     ast: Antisemitismu
     az: Antisemitizm
     be: антысемітызм
-    be-tarask: антысэмітызм
+    be_tarask: антысэмітызм
     bg: Антисемитизъм
     bn: ইহুদি-বিদ্বেষ
     br: Enepyuzevegezh
@@ -227,7 +227,7 @@ dv_has_:
     sms: antisemitismm
     sq: Antisemitizmi
     sr: антисемитизам
-    sr-ec: антисемитизам
+    sr_ec: антисемитизам
     sv: antisemitism
     sw: Ubaguzi dhidi ya Wayahudi
     ta: யூத எதிர்ப்புக் கொள்கை
@@ -247,9 +247,9 @@ dv_has_:
     yi: אנטיסעמיטיזם
     yue: 反猶太主義
     zh: 反犹太主义
-    zh-hans: 反犹太主义
-    zh-hant: 反猶太主義
-    zh-tw: 反猶太主義
+    zh_hans: 反犹太主义
+    zh_hant: 反猶太主義
+    zh_tw: 反猶太主義
 ---
 # [[Antisemitism]] 
 

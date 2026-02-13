@@ -54,7 +54,7 @@ dv_has_:
     ast: Cyclostomata
     az: Dəyirmiağızlılar
     be: Кругларотыя
-    be-tarask: Кругларотыя
+    be_tarask: Кругларотыя
     bg: Кръглоустни
     bn: সাইক্লোস্টোমাটা
     bs: Kolouste
@@ -110,11 +110,11 @@ dv_has_:
     vi: Cá miệng tròn
     war: Cyclostomata
     zh: 圆口纲
-    zh-cn: 圆口纲
-    zh-hans: 圆口纲
-    zh-hant: 圓口綱
-    zh-hk: 圓口綱
-    zh-tw: 圓口綱
+    zh_cn: 圆口纲
+    zh_hans: 圆口纲
+    zh_hant: 圓口綱
+    zh_hk: 圓口綱
+    zh_tw: 圓口綱
 ---
 # [[Cyclostomi]] 
 

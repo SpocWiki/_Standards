@@ -136,7 +136,7 @@ dv_has_:
     azb: ادوین هابل
     ba: Эдвин Пауэлл Хаббл
     be: Эдвін Паўэл Хабл
-    be-tarask: Эдўін Габл
+    be_tarask: Эдўін Габл
     bg: Едуин Хъбъл
     bn: এডউইন হাবল
     bs: Edwin Hubble
@@ -199,7 +199,7 @@ dv_has_:
     pnb: ایڈون ہبل
     ps: اډون هبل
     pt: Edwin Powell Hubble
-    pt-br: Edwin Powell Hubble
+    pt_br: Edwin Powell Hubble
     ro: Edwin Hubble
     ru: Эдвин Пауэлл Хаббл
     rup: Edwin Hubble
@@ -216,7 +216,7 @@ dv_has_:
     sw: Edwin Hubble
     ta: எட்வின் ஹபிள்
     tg: Эдвин Ҳаббл
-    tg-latn: Edvin Habbl
+    tg_latn: Edvin Habbl
     th: เอ็ดวิน ฮับเบิล
     tl: Edwin Hubble
     tr: Edwin Hubble
@@ -231,7 +231,7 @@ dv_has_:
     yo: Edwin Hubble
     yue: 哈勃
     zh: 愛德文·哈勃
-    zh-hk: 艾雲·哈勃
+    zh_hk: 艾雲·哈勃
 ---
 # [[Hubble,Edwin]] 
 

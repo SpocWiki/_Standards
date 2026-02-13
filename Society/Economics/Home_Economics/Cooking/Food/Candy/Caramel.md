@@ -7,7 +7,7 @@ dv_has_:
     arz: كراميل
     ba: карамель
     be: карамель
-    be-tarask: карамэль
+    be_tarask: карамэль
     bew: gula ganting
     bg: карамел
     bn: ক্যারামেল
@@ -40,11 +40,11 @@ dv_has_:
     jv: karamèl
     ka: კარამელი
     kk: карамель
-    kk-arab: كارامەل
+    kk_arab: كارامەل
     kk-cn: كارامەل
-    kk-cyrl: карамель
+    kk_cyrl: карамель
     kk-kz: карамель
-    kk-latn: karamelʹ
+    kk_latn: karamelʹ
     kk-tr: karamelʹ
     kn: ಕ್ಯಾರಮೆಲ್
     ko: 캐러멜
@@ -82,11 +82,11 @@ dv_has_:
     yue: 焦糖
     zh: 焦糖
     zh-cn: 焦糖
-    zh-hans: 焦糖
-    zh-hant: 焦糖
-    zh-hk: 焦糖
-    zh-sg: 焦糖
-    zh-tw: 焦糖
+    zh_hans: 焦糖
+    zh_hant: 焦糖
+    zh_hk: 焦糖
+    zh_sg: 焦糖
+    zh_tw: 焦糖
 aliases:
 - caramal
 - caramel

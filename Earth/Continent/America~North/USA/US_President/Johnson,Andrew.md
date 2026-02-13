@@ -79,7 +79,7 @@ dv_has_:
     azb: اندرو جانسون
     bcl: Andrew Johnson
     be: Эндру Джонсан
-    be-tarask: Эндру Джонсан
+    be_tarask: Эндру Джонсан
     bg: Андрю Джонсън
     bi: Andrew Johnson
     bn: অ্যান্ড্রু জনসন
@@ -101,8 +101,8 @@ dv_has_:
     dv: އެންޑްރޫ ޖޯންސަން
     el: Άντριου Τζόνσον
     en: Andrew Johnson
-    en-ca: Andrew Johnson
-    en-gb: Andrew Johnson
+    en_ca: Andrew Johnson
+    en_gb: Andrew Johnson
     eo: Andrew Johnson
     es: Andrew Johnson
     et: Andrew Johnson
@@ -177,7 +177,7 @@ dv_has_:
     pnb: اینڈریو جانسن
     ps: اندرو جانسن
     pt: Andrew Johnson
-    pt-br: Andrew Johnson
+    pt_br: Andrew Johnson
     rm: Andrew Johnson
     rmf: Andrew Johnson
     ro: Andrew Johnson

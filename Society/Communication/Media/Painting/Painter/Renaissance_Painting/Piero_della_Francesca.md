@@ -158,7 +158,7 @@ dv_has_:
     ast: Piero della Francesca
     ba: Пьеро делла Франческа
     be: П'ера дэла Франчэска
-    be-tarask: П’ера дэльля Франчэска
+    be_tarask: П’ера дэльля Франчэска
     bg: Пиеро дела Франческа
     br: Piero della Francesca
     ca: Piero della Francesca
@@ -166,11 +166,11 @@ dv_has_:
     cy: Piero della Francesca
     da: Piero della Francesca
     de: Piero della Francesca
-    de-ch: Piero della Francesca
+    de_ch: Piero della Francesca
     el: Πιέρο ντέλλα Φραντσέσκα
     en: Piero della Francesca
-    en-ca: Piero della Francesca
-    en-gb: Piero della Francesca
+    en_ca: Piero della Francesca
+    en_gb: Piero della Francesca
     eo: Piero della Francesca
     es: Piero della Francesca
     et: Piero della Francesca
@@ -205,7 +205,7 @@ dv_has_:
     pl: Piero della Francesca
     pms: Piero della Francesca
     pt: Piero della Francesca
-    pt-br: Piero della Francesca
+    pt_br: Piero della Francesca
     ro: Piero della Francesca
     ru: Пьеро делла Франческа
     scn: Pieru della Francesca
@@ -215,7 +215,7 @@ dv_has_:
     sl: Piero della Francesca
     sq: Piero della Francesca
     sr: Пјеро дела Франческа
-    sr-ec: Пјеро дела Франческа
+    sr_ec: Пјеро дела Франческа
     sv: Piero della Francesca
     th: ปีเอโร เดลลา ฟรันเชสกา
     tl: Piero della Francesca
@@ -228,9 +228,9 @@ dv_has_:
     wuu: 皮耶罗·德拉·弗朗切斯卡
     yue: 弗朗切斯卡
     zh: 皮耶罗·德拉·弗朗切斯卡
-    zh-cn: 皮耶罗·德拉·弗朗西斯卡
-    zh-hans: 皮耶罗·德拉·弗朗西斯卡
-    zh-hant: 皮耶羅·德拉·弗朗西斯卡
+    zh_cn: 皮耶罗·德拉·弗朗西斯卡
+    zh_hans: 皮耶罗·德拉·弗朗西斯卡
+    zh_hant: 皮耶羅·德拉·弗朗西斯卡
 ---
 # [[Piero_della_Francesca]] 
 

@@ -574,7 +574,7 @@ dv_has_:
     bar: Peter Paul Rubens
     bcl: Peter Paul Rubens
     be: Пітэр Паўль Рубенс
-    be-tarask: Пітэр Паўль Рубэнс
+    be_tarask: Пітэр Паўль Рубэнс
     bg: Петер Паул Рубенс
     bi: Peter Paul Rubens
     bn: পিটার পল রুবেনস
@@ -593,8 +593,8 @@ dv_has_:
     de: Peter Paul Rubens
     el: Πέτερ Πάουλ Ρούμπενς
     en: Peter Paul Rubens
-    en-ca: Peter Paul Rubens
-    en-gb: Peter Paul Rubens
+    en_ca: Peter Paul Rubens
+    en_gb: Peter Paul Rubens
     eo: Petro Paŭlo Rubens
     es: Peter Paul Rubens
     et: Peter Paul Rubens
@@ -677,7 +677,7 @@ dv_has_:
     pms: Peter Paul Rubens
     pnb: پیٹر پال روبنز
     pt: Peter Paul Rubens
-    pt-br: Peter Paul Rubens
+    pt_br: Peter Paul Rubens
     qu: Peter Paul Rubens
     ro: Peter Paul Rubens
     ru: Питер Пауль Рубенс
@@ -696,7 +696,7 @@ dv_has_:
     sl: Peter Paul Rubens
     sq: Peter Paul Rubens
     sr: Петер Паул Рубенс
-    sr-ec: Петер Паул Рубенс
+    sr_ec: Петер Паул Рубенс
     stq: Peter Paul Rubens
     sv: Peter Paul Rubens
     sw: Peter Paul Rubens
@@ -722,9 +722,9 @@ dv_has_:
     yi: פעטער פאל רובענס
     yue: 魯本斯
     zh: 彼得·保羅·魯本斯
-    zh-cn: 彼得·保罗·鲁本斯
-    zh-hans: 彼得·保罗·鲁本斯
-    zh-hant: 彼得·保羅·魯本斯
+    zh_cn: 彼得·保罗·鲁本斯
+    zh_hans: 彼得·保罗·鲁本斯
+    zh_hant: 彼得·保羅·魯本斯
 ---
 # [[Rubens,Peter_Paul]] 
 

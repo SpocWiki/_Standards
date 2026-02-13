@@ -110,7 +110,7 @@ dv_has_:
     bar: Suschi
     bcl: Sushi
     be: сушы
-    be-tarask: сусі
+    be_tarask: сусі
     bg: суши
     bn: সুশি
     bo: ཧྲོའུ་སི།
@@ -169,11 +169,11 @@ dv_has_:
     mr: सुशी
     mrj: суши
     ms: susyi
-    ms-arab: سوشي
+    ms_arab: سوشي
     my: ဆူရှီ
     nan: sú-sih
     nb: sushi
-    nds-nl: soesie
+    nds_nl: soesie
     ne: सुसी
     nl: sushi
     nrm: suchîn
@@ -213,13 +213,13 @@ dv_has_:
     zgh: ⵙⵓⵛⵉ
     zh: 寿司
     zh-cn: 寿司
-    zh-hans: 寿司
-    zh-hant: 壽司
-    zh-hk: 壽司
-    zh-mo: 壽司
+    zh_hans: 寿司
+    zh_hant: 壽司
+    zh_hk: 壽司
+    zh_mo: 壽司
     zh-my: 寿司
-    zh-sg: 寿司
-    zh-tw: 壽司
+    zh_sg: 寿司
+    zh_tw: 壽司
     zu: Isushi
 ---
 # [[Sushi]] 

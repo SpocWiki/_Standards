@@ -108,7 +108,7 @@ dv_has_:
     ast: mariscu
     az: Dəniz məhsulları
     be: Морапрадукты
-    be-tarask: морапрадукт
+    be_tarask: морапрадукт
     bn: সামুদ্রিক খাবার
     ca: producte del mar
     cdo: Hāi-chiĕng
@@ -142,16 +142,16 @@ dv_has_:
     jv: Tetedhan Seganten
     ka: ზღვის პროდუქტები
     kk: Теңіз өнімдері
-    kk-arab: تەڭىز ونىمدەرى
+    kk_arab: تەڭىز ونىمدەرى
     kk-cn: تەڭىز ونىمدەرى
-    kk-cyrl: Теңіз өнімдері
+    kk_cyrl: Теңіз өнімдері
     kk-kz: Теңіз өнімдері
-    kk-latn: Teñiz önimderi
+    kk_latn: Teñiz önimderi
     kk-tr: Teñiz önimderi
     ko: 해산물
     ku: Xoardinî derya
-    ku-arab: خۆاردنی دەریا
-    ku-latn: Xoardinî derya
+    ku_arab: خۆاردنی دەریا
+    ku_latn: Xoardinî derya
     la: Conchylium
     lt: jūros gerybės
     lv: jūras veltes
@@ -173,8 +173,8 @@ dv_has_:
     sl: morska hrana
     sq: Ushqim deti
     sr: морски плодови
-    sr-ec: плодови мора
-    sr-el: plodovi mora
+    sr_ec: плодови мора
+    sr_el: plodovi mora
     st: Dijo
     sv: mat från havet
     ta: கடல் உணவு
@@ -189,12 +189,12 @@ dv_has_:
     za: Haijfeih
     zh: 海鮮
     zh-cn: 海鲜
-    zh-hans: 海鲜
-    zh-hant: 海鮮
-    zh-hk: 海鮮
+    zh_hans: 海鲜
+    zh_hant: 海鮮
+    zh_hk: 海鮮
     zh-my: 海鲜
-    zh-sg: 海鲜
-    zh-tw: 海鮮
+    zh_sg: 海鲜
+    zh_tw: 海鮮
 ---
 # [[Seafood]] 
 

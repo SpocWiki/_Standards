@@ -13,7 +13,7 @@ dv_has_:
     ban: meka
     bcl: salming
     be: люстра
-    be-tarask: люстра
+    be_tarask: люстра
     bew: kaca
     bg: огледало
     bjn: caramin
@@ -34,7 +34,7 @@ dv_has_:
     ee: ahuhoe
     el: κάτοπτρο
     en: mirror
-    en-gb: mirror
+    en_gb: mirror
     eo: spegulo
     es: espejo
     et: peegel
@@ -81,14 +81,14 @@ dv_has_:
     mnc: ᠪᡠᠯᡝᡴᡠ
     mr: आरसा
     ms: cermin
-    ms-arab: چرمين
+    ms_arab: چرمين
     mwl: speilho
     my: ကြည့်မှန်
     myv: чавачамо
     nah: tezcatl
     nan: kiàⁿ
     nb: speil
-    nds-nl: spegel
+    nds_nl: spegel
     ne: दर्पण
     new: न्ह्याकं
     nl: spiegel
@@ -102,7 +102,7 @@ dv_has_:
     pnb: شیشہ
     ps: هينداره
     pt: espelho
-    pt-br: espelho
+    pt_br: espelho
     qu: rirpu
     ro: oglindă
     ru: зеркало
@@ -123,8 +123,8 @@ dv_has_:
     sn: chiringiro
     sq: pasqyra
     sr: огледало
-    sr-ec: огледало
-    sr-el: ogledalo
+    sr_ec: огледало
+    sr_el: ogledalo
     su: kaca eunteung
     sv: spegel
     ta: ஆடி
@@ -150,9 +150,9 @@ dv_has_:
     yo: dígí
     yue: 鏡
     zh: 鏡
-    zh-hans: 镜
-    zh-hant: 鏡
-    zh-hk: 鏡
+    zh_hans: 镜
+    zh_hant: 鏡
+    zh_hk: 鏡
 aliases:
 - ahuhoe
 - ahwehwɛ

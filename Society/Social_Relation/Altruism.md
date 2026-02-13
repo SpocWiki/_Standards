@@ -85,7 +85,7 @@ dv_has_:
     az: Altruizm
     bcl: Altruismo
     be: альтруізм
-    be-tarask: альтруізм
+    be_tarask: альтруізм
     bg: алтруизъм
     bo: གཞན་ཕན་གྱི་བསམ་པ།
     bs: Altruizam
@@ -116,11 +116,11 @@ dv_has_:
     ja: 奉仕
     ka: ალტრუიზმი
     kk: альтруизм
-    kk-arab: الترۋىيزم
+    kk_arab: الترۋىيزم
     kk-cn: الترۋىيزم
-    kk-cyrl: альтруизм
+    kk_cyrl: альтруизм
     kk-kz: альтруизм
-    kk-latn: Alʹtrwïzm
+    kk_latn: Alʹtrwïzm
     kk-tr: Alʹtrwïzm
     kn: ಪರಹಿತ ಚಿಂತನೆ
     ko: 이타주의
@@ -140,7 +140,7 @@ dv_has_:
     oc: Altruisme
     pl: altruizm
     pt: altruísmo
-    pt-br: altruísmo
+    pt_br: altruísmo
     ro: altruism
     ru: альтруизм
     sa: परोपकारः
@@ -154,8 +154,8 @@ dv_has_:
     so: Samotaliye
     sq: Altruizmi
     sr: алтруизам
-    sr-ec: алтруизам
-    sr-el: altruizam
+    sr_ec: алтруизам
+    sr_el: altruizam
     sv: altruism
     ta: ஒப்புரவாண்மை
     tg: алтруизм
@@ -170,12 +170,12 @@ dv_has_:
     wuu: 利他主义
     yue: 利他主義
     zh: 利他主义
-    zh-cn: 利他主义
-    zh-hans: 利他主义
-    zh-hant: 利他主義
-    zh-hk: 利他主義
-    zh-sg: 利他主义
-    zh-tw: 利他主義
+    zh_cn: 利他主义
+    zh_hans: 利他主义
+    zh_hant: 利他主義
+    zh_hk: 利他主義
+    zh_sg: 利他主义
+    zh_tw: 利他主義
 ---
 # [[Altruism]] 
 

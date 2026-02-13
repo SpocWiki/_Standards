@@ -127,7 +127,7 @@ dv_has_:
     pl: Jurassic Park
     pnb: جراسک پارک
     pt: Parque Jurássico
-    pt-br: Jurassic Park - Parque dos Dinossauros
+    pt_br: Jurassic Park - Parque dos Dinossauros
     qu: Jurassic Park
     ro: Jurassic Park
     ru: Парк юрского периода
@@ -139,8 +139,8 @@ dv_has_:
     sl: Jurski park
     so: Jurassic Park
     sr: Парк из доба јуре
-    sr-ec: Парк из доба јуре
-    sr-el: Park iz doba jure
+    sr_ec: Парк из доба јуре
+    sr_el: Park iz doba jure
     sv: Jurassic Park
     ta: ஜுராசிக் பார்க்
     te: జురాసిక్ పార్క్
@@ -154,12 +154,12 @@ dv_has_:
     wuu: 侏罗纪公园
     yue: 侏羅紀公園
     zh: 侏儸紀公園
-    zh-cn: 侏罗纪公园
-    zh-hans: 侏罗纪公园
-    zh-hant: 侏羅紀公園
-    zh-hk: 侏羅紀公園
-    zh-sg: 侏罗纪公园
-    zh-tw: 侏羅紀公園
+    zh_cn: 侏罗纪公园
+    zh_hans: 侏罗纪公园
+    zh_hant: 侏羅紀公園
+    zh_hk: 侏羅紀公園
+    zh_sg: 侏罗纪公园
+    zh_tw: 侏羅紀公園
 ---
 # [[Jurassic_Park]] 
 

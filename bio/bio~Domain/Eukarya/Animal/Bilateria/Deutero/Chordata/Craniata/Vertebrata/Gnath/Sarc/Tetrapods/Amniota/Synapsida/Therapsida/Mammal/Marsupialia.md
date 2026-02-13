@@ -122,7 +122,7 @@ dv_has_:
     az: Kisəlilər
     ba: Муҡсалылар
     be: сумчатыя
-    be-tarask: сумчатыя
+    be_tarask: сумчатыя
     bg: торбести бозайници
     bn: থলেধারী
     br: Godelleg
@@ -210,7 +210,7 @@ dv_has_:
     tl: Marsupialia
     tr: Keseliler
     tt: букчалылар
-    tt-cyrl: букчалылар
+    tt_cyrl: букчалылар
     uk: сумчасті
     uz: Xaltalilar
     vi: Thú có túi
@@ -219,9 +219,9 @@ dv_has_:
     wuu: 有袋类
     yue: 有袋類
     zh: 有袋类
-    zh-cn: 有袋类
-    zh-hans: 有袋类
-    zh-tw: 有袋類
+    zh_cn: 有袋类
+    zh_hans: 有袋类
+    zh_tw: 有袋類
     zu: Marsupialia
 ---
 # [[Marsupialia]] 

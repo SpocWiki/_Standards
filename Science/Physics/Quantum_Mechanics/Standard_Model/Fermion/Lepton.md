@@ -75,7 +75,7 @@ dv_has_:
     az: lepton
     azb: لپتون
     be: лептон
-    be-tarask: лептон
+    be_tarask: лептон
     bg: лептон
     bs: lepton
     ca: leptó
@@ -83,11 +83,11 @@ dv_has_:
     cy: lepton
     da: lepton
     de: Lepton
-    de-ch: Lepton
+    de_ch: Lepton
     el: λεπτόνιο
     en: lepton
-    en-ca: lepton
-    en-gb: lepton
+    en_ca: lepton
+    en_gb: lepton
     eo: leptono
     es: leptón
     et: leptonid
@@ -136,7 +136,7 @@ dv_has_:
     pl: lepton
     pnb: لیپٹن
     pt: leptão
-    pt-br: lépton
+    pt_br: lépton
     rki: လက်ပတွန်
     ro: lepton
     ru: лептон
@@ -148,8 +148,8 @@ dv_has_:
     sl: lepton
     sms: leptoon
     sr: лептон
-    sr-ec: лептон
-    sr-el: lepton
+    sr_ec: лептон
+    sr_el: lepton
     sv: lepton
     ta: மென்மி
     th: เลปตอน

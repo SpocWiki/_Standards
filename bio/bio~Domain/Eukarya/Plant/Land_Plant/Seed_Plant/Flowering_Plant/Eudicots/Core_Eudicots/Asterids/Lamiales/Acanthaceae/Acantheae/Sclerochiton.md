@@ -33,7 +33,7 @@ dv_has_:
     oc: Sclerochiton
     pl: Sclerochiton
     pt: Sclerochiton
-    pt-br: Sclerochiton
+    pt_br: Sclerochiton
     ro: Sclerochiton
     ru: Sclerochiton
     sq: Sclerochiton
@@ -43,8 +43,8 @@ dv_has_:
     vo: Sclerochiton
     war: Sclerochiton
     zh: 蓝唇花属
-    zh-cn: 蓝唇花属
-    zh-hans: 蓝唇花属
+    zh_cn: 蓝唇花属
+    zh_hans: 蓝唇花属
 ---
 # [[Sclerochiton]] 
 

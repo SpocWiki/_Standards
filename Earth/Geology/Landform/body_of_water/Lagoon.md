@@ -103,7 +103,7 @@ dv_has_:
     ban: Laguna
     bar: Lagune
     be: Лагуна
-    be-tarask: лягуна
+    be_tarask: лягуна
     bg: Лагуна
     bn: উপহ্রদ
     bs: Laguna
@@ -113,11 +113,11 @@ dv_has_:
     cy: lagŵn
     da: lagune
     de: Lagune
-    de-ch: Lagune
+    de_ch: Lagune
     el: Λιμνοθάλασσα
     en: lagoon
-    en-ca: lagoon
-    en-gb: lagoon
+    en_ca: lagoon
+    en_gb: lagoon
     eo: laguno
     es: laguna costera
     et: laguun
@@ -170,7 +170,7 @@ dv_has_:
     pap: laguna
     pl: Laguna
     pt: laguna
-    pt-br: laguna
+    pt_br: laguna
     ro: Lagună
     ru: лагуна
     rue: Лагуна
@@ -184,8 +184,8 @@ dv_has_:
     sms: laguun
     sq: Laguna
     sr: лагуна
-    sr-ec: лагуна
-    sr-el: laguna
+    sr_ec: лагуна
+    sr_el: laguna
     sv: lagun
     sw: Wangwa
     ta: கடற் காயல்
@@ -204,12 +204,12 @@ dv_has_:
     xmf: ლაგუნა
     yue: 潟湖
     zh: 潟湖
-    zh-cn: 潟湖
-    zh-hans: 潟湖
-    zh-hant: 潟湖
-    zh-hk: 潟湖
-    zh-sg: 潟湖
-    zh-tw: 潟湖
+    zh_cn: 潟湖
+    zh_hans: 潟湖
+    zh_hant: 潟湖
+    zh_hk: 潟湖
+    zh_sg: 潟湖
+    zh_tw: 潟湖
 ---
 # [[Lagoon]] 
 

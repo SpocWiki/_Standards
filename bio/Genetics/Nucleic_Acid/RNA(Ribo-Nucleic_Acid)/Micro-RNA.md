@@ -3,7 +3,7 @@ has_id_wikidata: Q310899
 dv_has_:
   name_:
     ar: ميكرو حمض ريبي نووي
-    be-tarask: мікраРНК
+    be_tarask: мікраРНК
     bn: মাইক্রো-আরএনএ
     bs: Mikro RNK
     ca: MiRNA
@@ -45,12 +45,12 @@ dv_has_:
     tr: MikroRNA
     uk: мікроРНК
     zh: 微小RNA
-    zh-cn: 微核糖核酸
-    zh-hans: 微RNA
-    zh-hant: 微RNA
-    zh-hk: 微RNA
-    zh-sg: 微RNA
-    zh-tw: 微RNA
+    zh_cn: 微核糖核酸
+    zh_hans: 微RNA
+    zh_hant: 微RNA
+    zh_hk: 微RNA
+    zh_sg: 微RNA
+    zh_tw: 微RNA
 aliases:
 - miARN
 - micro ARN

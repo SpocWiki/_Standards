@@ -109,7 +109,7 @@ dv_has_:
     azb: فستفود
     ba: тиҙ туҡланыу
     be: фаст-фуд
-    be-tarask: фаст-фуд
+    be_tarask: фаст-фуд
     bew: makanan tinggal madang
     bg: бързо хранене
     bn: ঝটপট খাবার
@@ -164,11 +164,11 @@ dv_has_:
     mk: брза храна
     mr: झटपट खाऊ
     ms: makanan segera
-    ms-arab: ماکنن سݢرا
+    ms_arab: ماکنن سݢرا
     my: အမြန်ပြင် အစားအစာ
     nan: sok-si̍t
     nb: hurtigmat
-    nds-nl: gemakseten
+    nds_nl: gemakseten
     new: फास्ट फूड
     nl: fastfood
     nn: snøggmat
@@ -184,8 +184,8 @@ dv_has_:
     sl: hitra hrana
     sq: sofra e shpejtë
     sr: брза храна
-    sr-ec: брза храна
-    sr-el: brza hrana
+    sr_ec: брза храна
+    sr_el: brza hrana
     sv: snabbmat
     ta: துரித உணவு
     te: ఫాస్ట్ ఫుడ్
@@ -202,9 +202,9 @@ dv_has_:
     yi: פאסט פוד
     yue: 快餐
     zh: 快餐
-    zh-hans: 快餐
-    zh-hant: 速食
-    zh-tw: 速食
+    zh_hans: 快餐
+    zh_hant: 速食
+    zh_tw: 速食
 ---
 # [[Fast_Food]] 
 

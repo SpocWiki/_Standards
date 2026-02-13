@@ -10,7 +10,7 @@ dv_has_:
     avk: Robinson Crusoe (suterot)
     az: Robinzon Kruzo
     be: Рабінзон Круза
-    be-tarask: Рабінзон Круза
+    be_tarask: Рабінзон Круза
     bg: Робинзон Крузо
     bn: রবিনসন ক্রুসো
     br: Robinson Crusoe
@@ -22,7 +22,7 @@ dv_has_:
     de: Robinson Crusoe
     el: Ροβινσώνας Κρούσος
     en: Robinson Crusoe
-    en-gb: Robinson Crusoe
+    en_gb: Robinson Crusoe
     eo: Robinsono Kruso
     es: Robinson Crusoe
     et: Robinson Crusoe
@@ -44,13 +44,13 @@ dv_has_:
     ja: ロビンソン・クルーソー
     ka: რობინზონ კრუზო
     kk: Робинзон Крузо
-    kk-arab: روبىينزون كرۋزو
-    kk-cyrl: Робинзон Крузо
-    kk-latn: Robïnzon Krwzo
+    kk_arab: روبىينزون كرۋزو
+    kk_cyrl: Робинзон Крузо
+    kk_latn: Robïnzon Krwzo
     ko: 로빈슨 크루소
     ku: Robinson Crusoe
-    ku-arab: رۆبنسۆن جروسۆە
-    ku-latn: Robinson Crusoe
+    ku_arab: رۆبنسۆن جروسۆە
+    ku_latn: Robinson Crusoe
     kv: Небӧг Robinzon
     ky: Робинзон Крузо (роман)
     la: Robinson Crusoeus
@@ -81,12 +81,12 @@ dv_has_:
     sl: Robinson Crusoe
     sq: Robinson Kruzo
     sr: Робинзон Крусо
-    sr-ec: Робинзон Крусо
-    sr-el: Robinzon Kruso
+    sr_ec: Робинзон Крусо
+    sr_el: Robinzon Kruso
     sv: Robinson Crusoe
     ta: ராபின்சன் குரூசோ
     tg: Робинзон Крузо
-    tg-latn: Robinzon Kruzo
+    tg_latn: Robinzon Kruzo
     th: โรบินสัน ครูโซ
     tr: Robinson Crusoe
     uk: Робінзон Крузо
@@ -98,9 +98,9 @@ dv_has_:
     wuu: 鲁滨逊漂流记
     yue: 魯賓遜漂流記
     zh: 鲁滨逊漂流记
-    zh-hans: 鲁滨逊漂流记
-    zh-hant: 魯濱遜漂流記
-    zh-hk: 魯濱遜漂流記
+    zh_hans: 鲁滨逊漂流记
+    zh_hant: 魯濱遜漂流記
+    zh_hk: 魯濱遜漂流記
 aliases:
 - Lobino (búku)
 - Przypadki Robinsona Kruzoe

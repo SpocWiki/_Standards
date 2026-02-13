@@ -53,7 +53,7 @@ dv_has_:
     az: çalar
     ba: төҫ
     be: тон
-    be-tarask: тон
+    be_tarask: тон
     bg: цветови тон
     ca: tonalitat
     cs: odstín
@@ -61,8 +61,8 @@ dv_has_:
     de: Farbton
     el: Απόχρωση
     en: hue
-    en-ca: Hue
-    en-gb: hue
+    en_ca: Hue
+    en_gb: hue
     eo: koloronuanco
     es: tono
     et: Värvitoon
@@ -86,7 +86,7 @@ dv_has_:
     oc: Tinta
     pl: odcień
     pt: matiz
-    pt-br: Matiz
+    pt_br: Matiz
     ro: nuanță
     ru: тон
     sk: odtieň
@@ -99,12 +99,12 @@ dv_has_:
     wuu: 色相
     yue: 色相
     zh: 色相
-    zh-cn: 色相
-    zh-hans: 色相
-    zh-hant: 色相
-    zh-hk: 色相
-    zh-sg: 色相
-    zh-tw: 色相
+    zh_cn: 色相
+    zh_hans: 色相
+    zh_hant: 色相
+    zh_hk: 色相
+    zh_sg: 色相
+    zh_tw: 色相
 ---
 # [[Hue]] 
 

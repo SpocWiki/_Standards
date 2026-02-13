@@ -50,17 +50,17 @@ dv_has_:
     ru: Разнощитковые
     sq: Heterostraci
     sr: Хетеростраци
-    sr-ec: Хетеростраци
-    sr-el: Heterostraci
+    sr_ec: Хетеростраци
+    sr_el: Heterostraci
     sv: Pansarpirålar
     uk: Гетеростраки
     vec: Heterostraci
     vi: Cá vảy lạ
     war: Heterostraci
     zh: 异甲鱼亚纲
-    zh-cn: 异甲鱼亚纲
-    zh-hans: 异甲鱼亚纲
-    zh-hant: 異甲類
+    zh_cn: 异甲鱼亚纲
+    zh_hans: 异甲鱼亚纲
+    zh_hant: 異甲類
 ---
 # [[Heterostraci]]
 

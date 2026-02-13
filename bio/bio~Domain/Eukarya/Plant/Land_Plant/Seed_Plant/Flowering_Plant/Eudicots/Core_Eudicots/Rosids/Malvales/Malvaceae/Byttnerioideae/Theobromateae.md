@@ -41,7 +41,7 @@ dv_has_:
     oc: Theobromateae
     pl: Theobromateae
     pt: Theobromateae
-    pt-br: Theobromateae
+    pt_br: Theobromateae
     ro: Theobromateae
     ru: Theobromateae
     sl: Theobromateae
@@ -51,8 +51,8 @@ dv_has_:
     vo: Theobromateae
     war: Theobromateae
     zh: 可可族
-    zh-cn: 可可族
-    zh-hans: 可可族
+    zh_cn: 可可族
+    zh_hans: 可可族
 ---
 # [[Theobromateae]] 
 

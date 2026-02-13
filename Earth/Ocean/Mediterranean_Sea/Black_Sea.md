@@ -460,7 +460,7 @@ dv_has_:
     bar: Schwoaz Meer
     bcl: Dagat Itom
     be: Чорнае мора
-    be-tarask: Чорнае мора
+    be_tarask: Чорнае мора
     bg: Черно море
     bho: काला सागर
     bn: কৃষ্ণ সাগর
@@ -473,7 +473,7 @@ dv_has_:
     ckb: دەریای ڕەش
     co: Mari neru
     crh: Qara deñiz
-    crh-latn: Qara deñiz
+    crh_latn: Qara deñiz
     cs: Černé moře
     csb: Czôrné Mòrze
     cv: Хура тинĕс
@@ -481,14 +481,14 @@ dv_has_:
     da: Sortehavet
     dag: Black Sea
     de: Schwarzes Meer
-    de-ch: Schwarzes Meer
+    de_ch: Schwarzes Meer
     diq: Deryayo Siya
     dsb: Carne mórjo
     dty: काला सागर
     el: Μαύρη Θάλασσα
     en: Black Sea
-    en-ca: Black Sea
-    en-gb: Black Sea
+    en_ca: Black Sea
+    en_gb: Black Sea
     eo: Nigra Maro
     es: mar Negro
     et: Must meri
@@ -578,7 +578,7 @@ dv_has_:
     mr: काळा समुद्र
     mrj: Шим тангыж
     ms: Laut Hitam
-    ms-arab: لاءوت هيتم
+    ms_arab: لاءوت هيتم
     mt: Baħar l-Iswed
     mwl: Mar Negro
     my: ပင်လယ်နက်
@@ -587,7 +587,7 @@ dv_has_:
     nap: Mar Niro
     nb: Svartehavet
     nds: Swatte Meer
-    nds-nl: Zwatte Zee
+    nds_nl: Zwatte Zee
     ne: ब्लाक समुद्र
     new: कृष्ण सागर
     nl: Zwarte Zee
@@ -605,7 +605,7 @@ dv_has_:
     pnt: Μαύρον Θάλασσα
     ps: تور سمندر
     pt: Mar Negro
-    pt-br: mar Negro
+    pt_br: mar Negro
     qu: Yana hatun qucha
     rm: Mar Naira
     rmy: Kali Deryav
@@ -645,7 +645,7 @@ dv_has_:
     tr: Karadeniz
     ts: Lwandle ra Ntima
     tt: Кара диңгез
-    tt-cyrl: Кара диңгез
+    tt_cyrl: Кара диңгез
     udm: Сьӧд зарезь
     ug: قارا دېڭىز
     uk: Чорне море
@@ -667,10 +667,10 @@ dv_has_:
     yue: 黑海
     za: Haijhaek
     zh: 黑海
-    zh-cn: 黑海
-    zh-hans: 黑海
-    zh-hant: 黑海
-    zh-tw: 黑海
+    zh_cn: 黑海
+    zh_hans: 黑海
+    zh_hant: 黑海
+    zh_tw: 黑海
 ---
 # [[Black_Sea]] 
 

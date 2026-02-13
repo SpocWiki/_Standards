@@ -54,7 +54,7 @@ dv_has_:
     oc: Berberidopsidales
     pl: Berberidopsidales
     pt: Berberidopsidales
-    pt-br: Berberidopsidales
+    pt_br: Berberidopsidales
     ro: Berberidopsidales
     ru: Берберидопсисоцветные
     sq: Berberidopsidales

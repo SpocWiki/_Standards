@@ -64,11 +64,11 @@ dv_has_:
     da: Koantilope
     de: Nordafrikanische Kuhantilope
     de-at: Bubale
-    de-ch: Bubale
+    de_ch: Bubale
     din: Aluelweŋ
     en: hartebeest
-    en-ca: Bubale
-    en-gb: Bubale
+    en_ca: Bubale
+    en_gb: Bubale
     eo: Stepa alcelafo
     es: alcelaphus buselaphus
     et: Bubale
@@ -110,7 +110,7 @@ dv_has_:
     nap: Bubale
     nb: kuantilope
     nds: Bubale
-    nds-nl: Bubale
+    nds_nl: Bubale
     nl: Hartenbeest
     nn: Bubale
     nrm: Bubale
@@ -122,7 +122,7 @@ dv_has_:
     pms: Bubale
     pnb: ہارٹبیسٹ
     pt: búbalu
-    pt-br: Bubale
+    pt_br: Bubale
     rm: Bubale
     ro: Alcelaphus buselaphus
     ru: Конгони
@@ -135,8 +135,8 @@ dv_has_:
     sn: Chengu
     sq: Alcelaphus buselaphus
     sr: Alcelaphus buselaphus
-    sr-ec: Alcelaphus buselaphus
-    sr-el: Alcelaphus buselaphus
+    sr_ec: Alcelaphus buselaphus
+    sr_el: Alcelaphus buselaphus
     sv: Hartebeest
     sw: Bubale
     ta: ஹார்ட்பீஸ்ட்
@@ -149,11 +149,11 @@ dv_has_:
     war: Alcelaphus buselaphus
     wo: Bubale
     zh: 狷羚
-    zh-cn: 狷羚
-    zh-hans: 狷羚
-    zh-hant: 狷羚
-    zh-hk: 狷羚
-    zh-tw: 狷羚
+    zh_cn: 狷羚
+    zh_hans: 狷羚
+    zh_hant: 狷羚
+    zh_hk: 狷羚
+    zh_tw: 狷羚
     zu: Indluzele
 ---
 # Alcelaphus buselaphus 

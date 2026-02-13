@@ -57,8 +57,8 @@ dv_has_:
     de: Gravitationswaage
     el: Πείραμα του Κάβεντις
     en: Cavendish experiment
-    en-ca: Cavendish experiment
-    en-gb: Cavendish experiment
+    en_ca: Cavendish experiment
+    en_gb: Cavendish experiment
     eo: eksperimento de Cavendish
     es: experimento de Cavendish
     et: Cavendishi eksperiment
@@ -77,7 +77,7 @@ dv_has_:
     nb: Cavendish-eksperimentet
     pl: eksperyment Cavendisha
     pt: experiência de Cavendish
-    pt-br: Experiência de Cavendish
+    pt_br: Experiência de Cavendish
     ru: Эксперимент Кавендиша
     sh: Cavendishov pokus
     sr: Кевендишов оглед

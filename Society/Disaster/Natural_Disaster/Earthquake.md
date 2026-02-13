@@ -312,7 +312,7 @@ dv_has_:
     bar: Eadbebm
     bcl: Linog
     be: землетрасенне
-    be-tarask: землятрус
+    be_tarask: землятрус
     bew: Lindu
     bg: Земетресение
     bho: भुइंडोल
@@ -334,14 +334,14 @@ dv_has_:
     da: jordskælv
     dag: Tiŋgbandamli
     de: Erdbeben
-    de-ch: Erdbeben
+    de_ch: Erdbeben
     diq: Erdlerz
     dty: भूकम्प
     el: σεισμός
     eml: Taramòt
     en: earthquake
-    en-ca: Earthquake
-    en-gb: earthquake
+    en_ca: Earthquake
+    en_gb: earthquake
     eo: tertremo
     es: terremoto
     et: maavärin
@@ -411,7 +411,7 @@ dv_has_:
     lv: zemestrīce
     lzh: 地震
     mad: Lènḍhu
-    map-bms: Lindu
+    map_bms: Lindu
     mdf: Модань тарнамась
     mi: .
     mk: земјотрес
@@ -420,7 +420,7 @@ dv_has_:
     mnw: ကသဳတိ
     mr: भूकंप
     ms: gempa bumi
-    ms-arab: ݢمڤا بومي
+    ms_arab: ݢمڤا بومي
     mwl: Sismo
     my: ငလျင်လှုပ်ခြင်း
     mzn: زلزله
@@ -429,7 +429,7 @@ dv_has_:
     nap: Tarramut
     nb: jordskjelv
     nds: Eerdbeven
-    nds-nl: eerdbeven
+    nds_nl: eerdbeven
     ne: भुँइचालो
     new: भुखा
     nl: aardbeving
@@ -446,7 +446,7 @@ dv_has_:
     pnb: بھونچال
     ps: رېږدله
     pt: sismo
-    pt-br: sismo
+    pt_br: sismo
     qu: Pacha kuyuy
     rm: Terratrembel
     ro: cutremur
@@ -473,7 +473,7 @@ dv_has_:
     so: Dhulgariir
     sq: tërmet
     sr: земљотрес
-    sr-ec: земљотрес
+    sr_ec: земљотрес
     srn: Grontapubeyfi
     su: Lini
     sv: jordbävning
@@ -509,11 +509,11 @@ dv_has_:
     yue: 地震
     za: Deihdoengh
     zh: 地震
-    zh-cn: 地震
-    zh-hans: 地震
-    zh-hant: 地震
-    zh-hk: 地震
-    zh-tw: 地震
+    zh_cn: 地震
+    zh_hans: 地震
+    zh_hant: 地震
+    zh_hk: 地震
+    zh_tw: 地震
 ---
 # [[Earthquake]] 
 

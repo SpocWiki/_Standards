@@ -133,7 +133,7 @@ dv_has_:
     az: qələvi torpaq metalları
     ban: Logam alkali tanah
     be: шчолачназямельныя металы
-    be-tarask: лужназямельныя мэталы
+    be_tarask: лужназямельныя мэталы
     bg: алкалоземен метал
     bho: एल्कलाइन मटिया धातु
     bn: মৃৎক্ষার ধাতু
@@ -146,11 +146,11 @@ dv_has_:
     cy: metel daear alcalïaidd
     da: jordalkalimetal
     de: 2. Hauptgruppe des Periodensystems
-    de-ch: Erdalkalimetalle
+    de_ch: Erdalkalimetalle
     el: αλκαλικές γαίες
     en: alkaline earth metal
-    en-ca: alkaline earth metal
-    en-gb: alkaline earth metal
+    en_ca: alkaline earth metal
+    en_gb: alkaline earth metal
     eo: teralkala metalo
     es: alcalinotérreo
     et: leelismuldmetallid
@@ -209,7 +209,7 @@ dv_has_:
     pa: ਖ਼ਾਰੀ ਭੌਂ ਧਾਤ
     pl: berylowce
     pt: metal alcalinoterroso
-    pt-br: Metal alcalinoterroso
+    pt_br: Metal alcalinoterroso
     qu: allpa alkali q'illay
     ro: metal alcalino-pământos
     ru: щёлочноземельные металлы
@@ -241,9 +241,9 @@ dv_has_:
     yo: Mẹ́tàlì alkalínì ilẹ̀
     yue: 鹼土金屬
     zh: 碱土金属
-    zh-cn: 碱土金属
-    zh-hans: 碱土金属
-    zh-hant: 碱土金属
+    zh_cn: 碱土金属
+    zh_hans: 碱土金属
+    zh_hant: 碱土金属
 ---
 #chemic/Group 
 

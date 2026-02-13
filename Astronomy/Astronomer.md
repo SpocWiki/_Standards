@@ -176,7 +176,7 @@ dv_has_:
     az: astronom
     azb: آسترونومیچی
     be: астраном
-    be-tarask: астраном
+    be_tarask: астраном
     bg: астроном
     bho: खगोलशास्त्रज्ञ
     bn: জ্যোতির্বিজ্ঞানী
@@ -184,7 +184,7 @@ dv_has_:
     bs: astronom
     ca: astrònom
     ckb: ئەستێرەناس
-    crh-latn: astronomiyacı
+    crh_latn: astronomiyacı
     cs: astronom
     cu: ѕвѣздозьрьць
     cv: астроном
@@ -194,7 +194,7 @@ dv_has_:
     diq: asmênşınas
     el: αστρονόμος
     en: astronomer
-    en-gb: astronomer
+    en_gb: astronomer
     eo: astronomo
     es: astrónomo
     et: astronoom
@@ -233,7 +233,7 @@ dv_has_:
     ko: 천문학자
     ks: مٲہِرِ فلکیات
     ku: stêrnas
-    ku-latn: stêrnas
+    ku_latn: stêrnas
     kw: steronydh
     la: astronomus
     lb: Astronom
@@ -251,7 +251,7 @@ dv_has_:
     mni: ꯈꯦꯟꯆꯣꯡꯂꯣꯢ
     mr: खगोलशास्त्रज्ञ
     ms: ahli astronomi
-    ms-arab: اهلي استرونومي
+    ms_arab: اهلي استرونومي
     mt: astronomu
     my: နက္ခတ္တပညာရှင်
     nan: Thian-bûn-ha̍k-ka
@@ -266,7 +266,7 @@ dv_has_:
     pl: astronom
     pnb: تارہ گرو
     pt: astrónomo
-    pt-br: astrônomo
+    pt_br: astrônomo
     ro: astronom
     ru: астроном
     rue: астроном
@@ -284,8 +284,8 @@ dv_has_:
     so: xidigisyahan
     sq: astronom
     sr: астроном
-    sr-ec: астроном
-    sr-el: astronom
+    sr_ec: астроном
+    sr_el: astronom
     sv: astronom
     sw: wanaastronomia
     szl: astrōnōm
@@ -305,14 +305,14 @@ dv_has_:
     yi: אסטראנאם
     yue: 天文學家
     zh: 天文学家
-    zh-cn: 天文学家
-    zh-hans: 天文学家
-    zh-hant: 天文學家
-    zh-hk: 天文學家
-    zh-mo: 天文學家
+    zh_cn: 天文学家
+    zh_hans: 天文学家
+    zh_hant: 天文學家
+    zh_hk: 天文學家
+    zh_mo: 天文學家
     zh-my: 天文学家
-    zh-sg: 天文学家
-    zh-tw: 天文學家
+    zh_sg: 天文学家
+    zh_tw: 天文學家
 ---
 # [[Astronomer]] 
 

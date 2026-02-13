@@ -32,7 +32,7 @@ dv_has_:
     oc: Amphilinidae
     pl: Amphilinidea
     pt: Amphilinidae
-    pt-br: Amphilinidae
+    pt_br: Amphilinidae
     ro: Amphilinidae
     ru: Amphilinidae
     sq: Amphilinidae
@@ -42,8 +42,8 @@ dv_has_:
     vo: Amphilinidae
     war: Amphilinidae
     zh: 两线科
-    zh-cn: 两线科
-    zh-hans: 两线科
+    zh_cn: 两线科
+    zh_hans: 两线科
 ---
 ## Phylogeny 
 

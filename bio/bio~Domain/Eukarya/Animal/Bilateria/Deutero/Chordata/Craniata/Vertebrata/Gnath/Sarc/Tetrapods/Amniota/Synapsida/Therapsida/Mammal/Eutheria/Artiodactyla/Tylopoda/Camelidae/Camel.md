@@ -220,7 +220,7 @@ dv_has_:
     ban: Unta
     bcl: Kamelyo
     be: вярблюды
-    be-tarask: вярблюд
+    be_tarask: вярблюд
     bg: камили
     bi: Kamel
     bn: উট
@@ -248,8 +248,8 @@ dv_has_:
     diq: Deve
     el: καμήλα
     en: Camelus
-    en-ca: Camel
-    en-gb: camel
+    en_ca: Camel
+    en_gb: camel
     eo: kamelo
     es: Camelus
     et: Kaamel
@@ -347,7 +347,7 @@ dv_has_:
     pnb: اونٹھ
     ps: اوښ
     pt: Camelus
-    pt-br: Camelo
+    pt_br: Camelo
     qu: Kamillu
     rmy: Odari
     ro: Cămilă
@@ -382,10 +382,10 @@ dv_has_:
     tpi: Kamel
     tr: deve
     tt: дөя
-    tt-cyrl: дөя
+    tt_cyrl: дөя
     udm: дуэ
     ug: تۆگە
-    ug-latn: töge
+    ug_latn: töge
     uk: верблюд
     ur: اونٹ
     uz: Tuya
@@ -403,10 +403,10 @@ dv_has_:
     yo: Camelus
     yue: 駱駝
     zh: 骆驼属
-    zh-cn: 骆驼属
-    zh-hans: 骆驼属
-    zh-hant: 駱駝屬
-    zh-tw: 駱駝屬
+    zh_cn: 骆驼属
+    zh_hans: 骆驼属
+    zh_hant: 駱駝屬
+    zh_tw: 駱駝屬
 ---
 # [[Camel]] 
 

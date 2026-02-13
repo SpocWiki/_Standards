@@ -109,7 +109,7 @@ dv_has_:
     az: Marçello Mastroyanni
     ba: Марчелло Мастроянни
     be: Марчэла Мастраяні
-    be-tarask: Марчэльлё Мастраяньні
+    be_tarask: Марчэльлё Мастраяньні
     bg: Марчело Мастрояни
     bn: মারচেল্লো মাস্ত্রোইয়ান্নি
     br: Marcello Mastroianni
@@ -118,11 +118,11 @@ dv_has_:
     cs: Marcello Mastroianni
     da: Marcello Mastroianni
     de: Marcello Mastroianni
-    de-ch: Marcello Mastroianni
+    de_ch: Marcello Mastroianni
     el: Μαρτσέλο Μαστρογιάνι
     en: Marcello Mastroianni
-    en-ca: Marcello Mastroianni
-    en-gb: Marcello Mastroianni
+    en_ca: Marcello Mastroianni
+    en_gb: Marcello Mastroianni
     eo: Marcello Mastroianni
     es: Marcello Mastroianni
     et: Marcello Mastroianni
@@ -168,7 +168,7 @@ dv_has_:
     pap: Marcello Mastroianni
     pl: Marcello Mastroianni
     pt: Marcello Mastroianni
-    pt-br: Marcello Mastroianni
+    pt_br: Marcello Mastroianni
     qu: Marcello Mastroianni
     ro: Marcello Mastroianni
     ru: Марчелло Мастроянни
@@ -179,7 +179,7 @@ dv_has_:
     sl: Marcello Mastroianni
     sq: Marcello Mastroianni
     sr: Марчело Мастројани
-    sr-ec: Марчело Мастројани
+    sr_ec: Марчело Мастројани
     sv: Marcello Mastroianni
     tl: Marcello Mastroianni
     tr: Marcello Mastroianni
@@ -194,7 +194,7 @@ dv_has_:
     xmf: მარჩელო მასტროიანი
     yue: 馬斯杜安尼
     zh: 馬切洛·馬斯楚安尼
-    zh-hant: 馬切洛·馬斯楚安尼
+    zh_hant: 馬切洛·馬斯楚安尼
 ---
 # [[Mastroianni,Marcello]] 
 

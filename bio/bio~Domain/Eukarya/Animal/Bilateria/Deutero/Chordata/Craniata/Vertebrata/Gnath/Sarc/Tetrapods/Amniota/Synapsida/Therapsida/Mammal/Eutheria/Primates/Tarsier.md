@@ -95,7 +95,7 @@ dv_has_:
     avk: pincoleem
     az: uzuntopuqlar
     bcl: Tarsier
-    be-tarask: Доўгапяткавыя
+    be_tarask: Доўгапяткавыя
     bg: Дългопетови
     ca: tarsers
     ceb: Tarsiidae
@@ -150,9 +150,9 @@ dv_has_:
     vi: Tarsiidae
     war: magô
     zh: 眼鏡猴科
-    zh-cn: 眼镜猴科
-    zh-hans: 眼鏡猴科
-    zh-tw: 眼鏡猴科
+    zh_cn: 眼镜猴科
+    zh_hans: 眼鏡猴科
+    zh_tw: 眼鏡猴科
 ---
 # [[Tarsier]]
 

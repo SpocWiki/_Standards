@@ -154,7 +154,7 @@ dv_has_:
     az: varlıq
     ba: асыл
     be: сутнасць
-    be-tarask: сутнасьць
+    be_tarask: сутнасьць
     bew: Kejegregan
     bg: нещо
     bn: সত্তা
@@ -170,8 +170,8 @@ dv_has_:
     diq: Estey
     el: οντότητα
     en: entity
-    en-ca: entity
-    en-gb: entity
+    en_ca: entity
+    en_gb: entity
     en-us: entity
     eo: ento
     es: entidad
@@ -209,7 +209,7 @@ dv_has_:
     mk: сушност
     mo: Entitate
     ms: entiti
-    ms-arab: اينتيتي
+    ms_arab: اينتيتي
     mzn: موجود
     nb: entitet
     nds: Entität
@@ -219,7 +219,7 @@ dv_has_:
     oc: entitat
     pl: encja
     pt: ente
-    pt-br: ente
+    pt_br: ente
     ro: entitate
     ru: сущность
     scn: entità
@@ -230,18 +230,18 @@ dv_has_:
     sl: entiteta
     sq: entitet
     sr: ентитет
-    sr-ec: ентитет
-    sr-el: entitet
+    sr_ec: ентитет
+    sr_el: entitet
     sv: entitet
     sw: Kitu
     tg: мавҷудот
-    tg-cyrl: мавҷудот
+    tg_cyrl: мавҷудот
     th: สิ่ง
     tl: Entidad
     tok: ijo
     tr: varlık
     tt: зат
-    tt-cyrl: зат
+    tt_cyrl: зат
     uk: сутність
     ur: وجود
     vec: entità
@@ -250,14 +250,14 @@ dv_has_:
     yo: nkan
     yue: 實體
     zh: 實體
-    zh-cn: 实体
-    zh-hans: 实体
-    zh-hant: 實體
-    zh-hk: 實體
-    zh-mo: 實體
+    zh_cn: 实体
+    zh_hans: 实体
+    zh_hant: 實體
+    zh_hk: 實體
+    zh_mo: 實體
     zh-my: 实体
-    zh-sg: 实体
-    zh-tw: 實體
+    zh_sg: 实体
+    zh_tw: 實體
     zu: Umenzo
   properties:
   - '[[../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]'

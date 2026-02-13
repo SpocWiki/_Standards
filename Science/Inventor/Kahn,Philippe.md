@@ -41,7 +41,7 @@ dv_has_:
     ar: فيليب خان
     arz: فيليب خان
     ast: Philippe Kahn
-    be-tarask: Філіп Кан
+    be_tarask: Філіп Кан
     bg: Филип Кан
     ca: Philippe Kahn
     cs: Philippe Kahn
@@ -63,7 +63,7 @@ dv_has_:
     nl: Philippe Kahn
     nn: Philippe Kahn
     pt: Philippe Kahn
-    pt-br: Philippe Kahn
+    pt_br: Philippe Kahn
     ru: Филипп Кан
     sl: Philippe Kahn
     sq: Philippe Kahn

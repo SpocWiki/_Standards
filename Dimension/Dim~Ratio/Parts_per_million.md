@@ -54,7 +54,7 @@ dv_has_:
   name_:
     ar: جزء في المليون
     ast: partes per millón
-    be-tarask: мільёная частка
+    be_tarask: мільёная частка
     bs: parts per million
     ca: part per milió
     cs: parts per million
@@ -85,7 +85,7 @@ dv_has_:
     nn: ppm
     pl: część na milion
     pt: parte por milhão
-    pt-br: parte por milhão
+    pt_br: parte por milhão
     ro: ppm
     ru: миллионная доля
     sh: ppm
@@ -96,7 +96,7 @@ dv_has_:
     sw: parts per million
     tr: ppm
     tt: милүннән бер өлеше
-    tt-latn: milünnän ber öleşe
+    tt_latn: milünnän ber öleşe
     uk: мільйонна частка
     vi: ppm
     yue: 百萬分比

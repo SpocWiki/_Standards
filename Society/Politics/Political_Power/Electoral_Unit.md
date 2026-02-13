@@ -127,7 +127,7 @@ dv_has_:
     ast: circunscripción eleutoral
     az: Seçki dairəsi
     be: выбарчая акруга
-    be-tarask: выбарчая акруга
+    be_tarask: выбарчая акруга
     bg: Избирателен район
     bn: নির্বাচনী এলাকা
     br: pastell-vro
@@ -140,8 +140,8 @@ dv_has_:
     de: Wahlkreis
     el: εκλογική περιφέρεια
     en: electoral unit
-    en-ca: riding
-    en-gb: constituency
+    en_ca: riding
+    en_gb: constituency
     eo: elektodistrikto
     es: circunscripción electoral
     et: valimisringkond
@@ -167,11 +167,11 @@ dv_has_:
     it: circoscrizione elettorale
     ja: 選挙区
     kk: Сайлау округі
-    kk-arab: سايلاۋ وكرۋگى
+    kk_arab: سايلاۋ وكرۋگى
     kk-cn: سايلاۋ وكرۋگى
-    kk-cyrl: Сайлау округі
+    kk_cyrl: Сайлау округі
     kk-kz: Сайлау округі
-    kk-latn: Saýlaw okrwgi
+    kk_latn: Saýlaw okrwgi
     kk-tr: Saýlaw okrwgi
     ko: 선거구
     ky: Шайлоо округу
@@ -185,7 +185,7 @@ dv_has_:
     mn: Сонгуулийн тойрог
     mr: सांसदीय मतदारसंघ
     ms: kawasan pilihan raya
-    ms-arab: کاوسن ڤيليهن راي
+    ms_arab: کاوسن ڤيليهن راي
     nan: Sóan-khu
     nb: valgkrets
     ne: निर्वाचन क्षेत्र
@@ -207,8 +207,8 @@ dv_has_:
     smn: vaaljâpirrâdâh
     sms: vaalkruugg
     sr: изборна јединица
-    sr-ec: изборна јединица
-    sr-el: izborna jedinica
+    sr_ec: изборна јединица
+    sr_el: izborna jedinica
     sv: valkrets
     sw: Jimbo la uchaguizi
     ta: தேர்தல் தொகுதி
@@ -225,14 +225,14 @@ dv_has_:
     wuu: 选区
     yue: 選區
     zh: 選區
-    zh-cn: 选区
-    zh-hans: 选区
-    zh-hant: 選區
-    zh-hk: 選區
-    zh-mo: 選區
+    zh_cn: 选区
+    zh_hans: 选区
+    zh_hant: 選區
+    zh_hk: 選區
+    zh_mo: 選區
     zh-my: 选区
-    zh-sg: 选区
-    zh-tw: 選區
+    zh_sg: 选区
+    zh_tw: 選區
 ---
 # [[Electoral_Unit]] 
 

@@ -157,7 +157,7 @@ dv_has_:
     az: dəri
     bcl: Anit
     be: скура
-    be-tarask: скура
+    be_tarask: скура
     bg: кожа
     bn: পাকাচামড়া
     br: lêr
@@ -172,12 +172,12 @@ dv_has_:
     da: læder
     dag: gbɔŋ
     de: Leder
-    de-ch: Leder
+    de_ch: Leder
     diq: postevan
     el: ζωικό δέρμα
     en: leather
-    en-ca: leather
-    en-gb: leather
+    en_ca: leather
+    en_gb: leather
     eo: ledo
     es: cuero
     et: nahk
@@ -227,7 +227,7 @@ dv_has_:
     pl: skóra
     pnb: چمڑا
     pt: couro
-    pt-br: couro
+    pt_br: couro
     ro: piele
     ru: кожа
     scn: coriu
@@ -241,8 +241,8 @@ dv_has_:
     sn: dehwe
     sq: lëkurë
     sr: кожа
-    sr-ec: кожа
-    sr-el: koža
+    sr_ec: кожа
+    sr_el: koža
     sv: läder
     ta: தோல்சரக்கு நுட்பியல்
     tg: чарм
@@ -251,7 +251,7 @@ dv_has_:
     tl: katad
     tr: dericilik
     tt: күн
-    tt-cyrl: күн
+    tt_cyrl: күн
     uk: шкіра
     ur: چمڑہ
     uz: charm
@@ -261,8 +261,8 @@ dv_has_:
     yo: awọ
     yue: 真皮 (料)
     zh: 皮革
-    zh-hans: 皮革
-    zh-hant: 皮革
+    zh_hans: 皮革
+    zh_hant: 皮革
 ---
 # [[WD~Leather,286]] 
 

@@ -124,7 +124,7 @@ dv_has_:
     ba: каллиграфия
     bar: Kalligraphie
     be: каліграфія
-    be-tarask: каліграфія
+    be_tarask: каліграфія
     bg: калиграфия
     bn: চারুলিপি
     br: kaerskriverezh
@@ -215,8 +215,8 @@ dv_has_:
     sn: tararunako
     sq: kaligrafia
     sr: калиграфија
-    sr-ec: калиграфија
-    sr-el: kaligrafija
+    sr_ec: калиграфија
+    sr_el: kaligrafija
     su: kaligrafi
     sv: kalligrafi
     sw: kaligrafia
@@ -240,11 +240,11 @@ dv_has_:
     yi: קאליגראפיע
     yue: 書法
     zh: 書法
-    zh-cn: 书法
-    zh-hans: 书法
-    zh-hant: 書法
-    zh-hk: 書法
-    zh-tw: 書法
+    zh_cn: 书法
+    zh_hans: 书法
+    zh_hant: 書法
+    zh_hk: 書法
+    zh_tw: 書法
 ---
 # [[Calligraphy]] 
 

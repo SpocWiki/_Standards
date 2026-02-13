@@ -100,7 +100,7 @@ dv_has_:
     az: İki palatalı parlament
     ba: ике палаталы парламент
     be: Двухпалатны парламент
-    be-tarask: дзьвюхпалатны парлямэнт
+    be_tarask: дзьвюхпалатны парлямэнт
     bew: Sistim pangkèng dua
     bn: দ্বিকক্ষ আইনসভা
     bs: dvodomni sistem
@@ -113,7 +113,7 @@ dv_has_:
     diq: Dılet meclisın parlamento
     el: διθάλαμο κοινοβούλιο
     en: bicameral legislature
-    en-gb: bicameral legislature
+    en_gb: bicameral legislature
     en-us: bicameral legislature
     eo: duĉambra parlamento
     es: legislatura bicameral
@@ -133,11 +133,11 @@ dv_has_:
     ja: 両院制議会
     ka: ორპალატიანი სისტემა
     kk: Екі палаталы жүйе
-    kk-arab: ەكى پالاتالى جۇيە
+    kk_arab: ەكى پالاتالى جۇيە
     kk-cn: ەكى پالاتالى جۇيە
-    kk-cyrl: Екі палаталы жүйе
+    kk_cyrl: Екі палаталы жүйе
     kk-kz: Екі палаталы жүйе
-    kk-latn: Eki palatalı jüýe
+    kk_latn: Eki palatalı jüýe
     kk-tr: Eki palatalı jüýe
     kn: ದ್ವಿಪಕ್ಷೀಯ ಶಾಸಕಾಂಗ
     ko: 양원제
@@ -167,8 +167,8 @@ dv_has_:
     smn: kyevtkáámmársâš parlament
     sq: Dydhomësia
     sr: дводомно законодавство
-    sr-ec: дводомни систем
-    sr-el: dvodomno zakonodavno telo
+    sr_ec: дводомни систем
+    sr_el: dvodomno zakonodavno telo
     sv: tvåkammarparlament
     ta: ஈரவை
     te: ద్విసభలుండే శాసనసభ
@@ -182,14 +182,14 @@ dv_has_:
     xmf: ჟირპალატამი პარლამენტი
     yue: 兩院制議會
     zh: 兩院制議會
-    zh-cn: 两院制议会
-    zh-hans: 两院制议会
-    zh-hant: 兩院制議會
-    zh-hk: 兩院制議會
-    zh-mo: 兩院制議會
+    zh_cn: 两院制议会
+    zh_hans: 两院制议会
+    zh_hant: 兩院制議會
+    zh_hk: 兩院制議會
+    zh_mo: 兩院制議會
     zh-my: 两院制议会
-    zh-sg: 两院制议会
-    zh-tw: 兩院制議會
+    zh_sg: 两院制议会
+    zh_tw: 兩院制議會
 ---
 # [[Bicameral_Legislature]] 
 

@@ -83,7 +83,7 @@ dv_has_:
     ast: Glucólisis
     az: Qlikoliz
     be: гліколіз
-    be-tarask: гліколіз
+    be_tarask: гліколіз
     bg: Гликолиза
     bn: গ্লাইকোলাইসিস প্রক্রিয়া
     bs: Glikoliza
@@ -94,8 +94,8 @@ dv_has_:
     de: Glykolyse
     el: Γλυκόλυση
     en: glycolytic process
-    en-ca: Glycolysis
-    en-gb: Glycolysis
+    en_ca: Glycolysis
+    en_gb: Glycolysis
     eo: glukolizo
     es: glucólisis
     et: Glükolüüs
@@ -116,15 +116,15 @@ dv_has_:
     jv: Glikolisis
     ka: გლიკოლიზი
     kk: Гликолиз
-    kk-arab: گلىيكولىيز
+    kk_arab: گلىيكولىيز
     kk-cn: گلىيكولىيز
-    kk-cyrl: Гликолиз
+    kk_cyrl: Гликолиз
     kk-kz: Гликолиз
-    kk-latn: Glïkolïz
+    kk_latn: Glïkolïz
     kk-tr: Glïkolïz
     ko: 해당
     ku: glîkolîz
-    ku-latn: glîkolîz
+    ku_latn: glîkolîz
     ky: Гликолиз
     la: Glycolysis
     lb: Glykolys
@@ -141,15 +141,15 @@ dv_has_:
     pl: glikoliza
     ps: ګلايکوليسېز
     pt: glicólise
-    pt-br: Glicólise
+    pt_br: Glicólise
     ro: glicoliză
     ru: гликолиз
     sh: Glikoliza
     sk: Glykolýza
     sl: glikoliza
     sr: гликолиза
-    sr-ec: гликолиза
-    sr-el: glikoliza
+    sr_ec: гликолиза
+    sr_el: glikoliza
     su: Glikolisis
     sv: Glykolys
     ta: சர்க்கரைச் சிதைவு
@@ -163,12 +163,12 @@ dv_has_:
     wuu: 糖酵解
     yue: 葡萄醣解
     zh: 糖酵解
-    zh-cn: 糖酵解
-    zh-hans: 糖酵解
-    zh-hant: 糖酵解
-    zh-hk: 糖解作用
-    zh-sg: 糖酵解
-    zh-tw: 糖解作用
+    zh_cn: 糖酵解
+    zh_hans: 糖酵解
+    zh_hant: 糖酵解
+    zh_hk: 糖解作用
+    zh_sg: 糖酵解
+    zh_tw: 糖解作用
     zu: I-Glycolysis
 ---
 # [[Glycolysis]] 

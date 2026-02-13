@@ -81,7 +81,7 @@ dv_has_:
     an: Entalpía de vaporización
     ar: حرارة تبخر
     ast: Entalpía de vaporización
-    be-tarask: спэцыфічная цяплыня выпарэньня
+    be_tarask: спэцыфічная цяплыня выпарэньня
     bg: Специфична топлина на изпарение
     bn: বাষ্পীভবনের এনথালপি
     bs: Toplota isparavanja
@@ -112,9 +112,9 @@ dv_has_:
     jv: Kalor panguwaban
     ka: აორთქლების კუთრი სითბო
     kk: Булану жылуы
-    kk-arab: بۋلانۋ جىلۋى
-    kk-cyrl: Булану жылуы
-    kk-latn: Bwlanw jılwı
+    kk_arab: بۋلانۋ جىلۋى
+    kk_cyrl: Булану жылуы
+    kk_latn: Bwlanw jılwı
     ko: 기화열
     lt: Garavimo šiluma
     mk: топлина на испарување
@@ -125,7 +125,7 @@ dv_has_:
     oc: Entalpia de vaporizacion
     pl: ciepło parowania
     pt: entalpia de vaporização
-    pt-br: entalpia de vaporização
+    pt_br: entalpia de vaporização
     ro: entalpia de vaporizare
     ru: удельная теплота испарения
     sco: enthalpy o vapourisation
@@ -135,8 +135,8 @@ dv_has_:
     sl: izparilna toplota
     smn: lievlâlumliegâsvuotâ
     sr: Топлота испаравања
-    sr-ec: топлота испаравања
-    sr-el: toplota isparavanja
+    sr_ec: топлота испаравања
+    sr_el: toplota isparavanja
     sv: ångbildningsvärme
     ta: ஆவியாதல் உள்ளீட்டு வெப்பம்
     th: ความร้อนแฝงของการกลายเป็นไอ
@@ -148,9 +148,9 @@ dv_has_:
     vi: Nhiệt bay hơi
     wuu: 汽化热
     zh: 汽化热
-    zh-hans: 汽化热
-    zh-hant: 汽化熱
-    zh-hk: 汽化熱
+    zh_hans: 汽化热
+    zh_hant: 汽化熱
+    zh_hk: 汽化熱
 ---
 # [[Enthalpy_of_Vaporization]] 
 

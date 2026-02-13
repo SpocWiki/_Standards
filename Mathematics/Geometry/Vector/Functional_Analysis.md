@@ -80,7 +80,7 @@ dv_has_:
     ast: analís funcional
     ba: функциональ анализ
     be: функцыянальны аналіз
-    be-tarask: функцыянальны аналіз
+    be_tarask: функцыянальны аналіз
     bg: функционален анализ
     ca: anàlisi funcional
     ckb: شیکاریی فانکشنی
@@ -109,11 +109,11 @@ dv_has_:
     ja: 関数解析学
     ka: ფუნქციონალური ანალიზი
     kk: Функционалдық талдау
-    kk-arab: فۋنكتسىيونالدىق تالداۋ
+    kk_arab: فۋنكتسىيونالدىق تالداۋ
     kk-cn: فۋنكتسىيونالدىق تالداۋ
-    kk-cyrl: функционалдық талдау
+    kk_cyrl: функционалдық талдау
     kk-kz: функционалдық талдау
-    kk-latn: fwnkcïonaldıq taldaw
+    kk_latn: fwnkcïonaldıq taldaw
     kk-tr: fwnkcïonaldıq taldaw
     ko: 함수해석학
     la: analysis functionalis
@@ -127,7 +127,7 @@ dv_has_:
     pl: analiza funkcjonalna
     pms: anàlisi fonsional
     pt: análise funcional
-    pt-br: análise funcional
+    pt_br: análise funcional
     rki: ဖန်သျှင်ဆိုင်ရာ ခွဲခြမ်းစိတ်ဖြာသင်္ချာ
     ro: analiză funcțională
     ru: функциональный анализ
@@ -144,12 +144,12 @@ dv_has_:
     wuu: 泛函分析
     yue: 泛函分析
     zh: 泛函分析
-    zh-cn: 泛函分析
-    zh-hans: 泛函分析
-    zh-hant: 泛函分析
-    zh-hk: 泛函分析
-    zh-sg: 泛函分析
-    zh-tw: 泛函分析
+    zh_cn: 泛函分析
+    zh_hans: 泛函分析
+    zh_hant: 泛函分析
+    zh_hk: 泛函分析
+    zh_sg: 泛函分析
+    zh_tw: 泛函分析
 ---
 # [[Functional_Analysis]] 
 

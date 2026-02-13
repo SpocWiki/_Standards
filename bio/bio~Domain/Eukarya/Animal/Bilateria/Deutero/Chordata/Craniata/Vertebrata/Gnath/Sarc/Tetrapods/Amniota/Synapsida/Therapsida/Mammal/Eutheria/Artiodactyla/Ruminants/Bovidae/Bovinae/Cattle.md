@@ -298,8 +298,8 @@ video:
 dv_has_:
   name_:
     ace: Leumo
-    aeb-arab: بڨرة
-    aeb-latn: bagra
+    aeb_arab: بڨرة
+    aeb_latn: bagra
     af: bees
     am: ላም
     ami: Kolong
@@ -323,7 +323,7 @@ dv_has_:
     bcl: Baka
     bdr: Sapi'
     be: свойскі бык
-    be-tarask: свойскі бык
+    be_tarask: свойскі бык
     bew: sampi
     bg: домашно говедо
     bho: गाय
@@ -357,8 +357,8 @@ dv_has_:
     el: αγελάδα
     eml: Bà
     en: cattle
-    en-ca: Cattle
-    en-gb: cattle
+    en_ca: Cattle
+    en_gb: cattle
     eo: bovo
     es: Bos primigenius taurus
     et: veis
@@ -457,7 +457,7 @@ dv_has_:
     nan: Gû
     nb: storfe
     nds: Rindveeh
-    nds-nl: Bos taurus
+    nds_nl: Bos taurus
     ne: वस्तुभाउ
     new: सा
     nl: rund
@@ -478,7 +478,7 @@ dv_has_:
     pnt: αλμεγάδιν χτήνον
     ps: غوا
     pt: gado bovino
-    pt-br: gado bovino
+    pt_br: gado bovino
     pwn: gung
     qu: Waka
     ro: vacă
@@ -505,7 +505,7 @@ dv_has_:
     so: Lo
     sq: lopa
     sr: домаће говедо
-    sr-ec: домаће говедо
+    sr_ec: домаће говедо
     srn: Kawmeti
     stq: Ku
     su: Sapi
@@ -551,8 +551,8 @@ dv_has_:
     za: cwz
     zgh: ⵜⴰⴼⵓⵏⴰⵙⵜ
     zh: 牛
-    zh-hans: 牛
-    zh-hant: 牛
+    zh_hans: 牛
+    zh_hant: 牛
     zu: inkomazi
 ---
 # [[Cattle]] 🐮 

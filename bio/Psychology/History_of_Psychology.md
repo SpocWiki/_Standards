@@ -69,7 +69,7 @@ dv_has_:
   name_:
     ar: تاريخ علم النفس
     ast: Historia de la psicoloxía
-    be-tarask: гісторыя псыхалёгіі
+    be_tarask: гісторыя псыхалёгіі
     bg: История на психологията
     ca: història de la psicologia
     cs: Dějiny psychologie

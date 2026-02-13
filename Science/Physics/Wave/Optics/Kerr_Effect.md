@@ -53,7 +53,7 @@ dv_has_:
     ar: ظاهرة كير
     ast: Efeutu Kerr
     be: эфект Кера
-    be-tarask: эфэкт Кера
+    be_tarask: эфэкт Кера
     ca: efecte Kerr
     da: Kerr-effekt
     de: Kerr-Effekt
@@ -79,17 +79,17 @@ dv_has_:
     ru: эффект Керра
     sl: Kerrov pojav
     sr: Керов ефекат
-    sr-ec: Керов ефекат
-    sr-el: Kerov efekat
+    sr_ec: Керов ефекат
+    sr_el: Kerov efekat
     sv: Kerr-effekt
     uk: ефект Керра
     uz: Kerra effekti
     vi: Hiệu ứng Kerr
     wuu: 克尔效应
     zh: 克爾效应
-    zh-hans: 克尔效应
-    zh-hant: 克爾效應
-    zh-hk: 克爾效應
+    zh_hans: 克尔效应
+    zh_hant: 克爾效應
+    zh_hk: 克爾效應
 ---
 # [[Kerr_Effect]] 
 

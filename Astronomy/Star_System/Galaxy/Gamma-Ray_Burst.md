@@ -26,18 +26,18 @@ dv_has_:
     ast: biltu de rayos gamma
     az: Qamma şüa partlayışı
     be: гама-ўсплёск
-    be-tarask: гама-ўсплёск
+    be_tarask: гама-ўсплёск
     bg: гама експлозия
     bn: গামা-রশ্মি বিস্ফোরণ
     ca: esclat de raigs gamma
     cs: gama záblesk
     da: Gammaglimt
     de: Gammablitz
-    de-ch: Gammablitz
+    de_ch: Gammablitz
     el: Εκλάμψεις ακτίνων γ
     en: gamma-ray burst
-    en-ca: Gamma-ray burst
-    en-gb: gamma-ray burst
+    en_ca: Gamma-ray burst
+    en_gb: gamma-ray burst
     eo: gamo-radia ekbrilo
     es: brote de rayos gamma
     et: Gammasähvatus
@@ -69,7 +69,7 @@ dv_has_:
     pl: Rozbłysk gamma
     ps: د ګاما وړانګې چاودنه
     pt: erupção de raios gama
-    pt-br: erupção de raios gama
+    pt_br: erupção de raios gama
     ro: explozie de raze gama
     ru: гамма-всплеск
     scn: Lampu gamma
@@ -77,8 +77,8 @@ dv_has_:
     sl: Izbruh žarkov gama
     sq: Rrezatimi Gamma
     sr: гама прасак
-    sr-ec: гама прасак
-    sr-el: gama prasak
+    sr_ec: гама прасак
+    sr_el: gama prasak
     sv: gammablixt
     ta: காமா கதிர் வெடிப்பு
     th: แสงวาบรังสีแกมมา

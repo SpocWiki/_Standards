@@ -158,7 +158,7 @@ dv_has_:
     ban: Piala Gumi FIFA
     bar: Fuaßboi-Wejtmoastaschaft
     be: Чэмпіянат свету па футболе
-    be-tarask: Чэмпіянат сьвету па футболе
+    be_tarask: Чэмпіянат сьвету па футболе
     bew: Bèker Dunia FIFA
     bg: Световно първенство по футбол
     bho: फीफा बिस्वकप
@@ -176,12 +176,12 @@ dv_has_:
     cy: Cwpan y Byd Pêl-droed
     da: VM i fodbold
     de: Fußball-Weltmeisterschaft
-    de-ch: Fussball-Weltmeisterschaft
+    de_ch: Fussball-Weltmeisterschaft
     diq: Kupaya Dınya FIFA
     el: Παγκόσμιο Κύπελλο Ποδοσφαίρου
     en: FIFA World Cup
-    en-ca: FIFA World Cup
-    en-gb: FIFA World Cup
+    en_ca: FIFA World Cup
+    en_gb: FIFA World Cup
     en-us: FIFA World Cup
     eo: Futbala Mondpokalo
     es: Copa Mundial de Fútbol
@@ -257,7 +257,7 @@ dv_has_:
     pl: Mistrzostwa świata w piłce nożnej
     pnb: فیفا ورلڈ کپ
     pt: Campeonato do Mundo de Futebol da FIFA
-    pt-br: Copa do Mundo FIFA
+    pt_br: Copa do Mundo FIFA
     qu: Piluta Hayt'ay Pachantin Kupa
     ro: Campionatul Mondial de Fotbal
     ru: чемпионат мира по футболу
@@ -299,14 +299,14 @@ dv_has_:
     yue: FIFA世界盃
     zgh: ⴰⴽⵔⵡⴰⵙ ⵏ ⵓⵎⴰⴹⴰⵍ ⵏ ⵜⵛⴰⵎⵎⴰ ⵏ ⵓⴹⴰⵕ ⵏ ⴼⵉⴼⴰ
     zh: 国际足联世界杯
-    zh-cn: 国际足联世界杯
-    zh-hans: 国际足联世界杯
-    zh-hant: 國際足總世界盃
-    zh-hk: 國際足協世界盃
-    zh-mo: 國際足協世界盃
+    zh_cn: 国际足联世界杯
+    zh_hans: 国际足联世界杯
+    zh_hant: 國際足總世界盃
+    zh_hk: 國際足協世界盃
+    zh_mo: 國際足協世界盃
     zh-my: 国际足联世界杯
-    zh-sg: 国际足联世界杯
-    zh-tw: 國際足總世界盃
+    zh_sg: 国际足联世界杯
+    zh_tw: 國際足總世界盃
 ---
 ## #has_/text_of_/abstract 
 

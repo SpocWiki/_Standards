@@ -47,7 +47,7 @@ dv_has_:
     ast: Op-art
     az: op-art
     be: оп-арт
-    be-tarask: оп-арт
+    be_tarask: оп-арт
     bg: Оп арт
     bs: Op art
     ca: art òptic

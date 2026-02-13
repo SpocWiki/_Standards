@@ -231,7 +231,7 @@ dv_has_:
     ban: Puri Versailles
     bar: Schloss Versailles
     be: Версаль
-    be-tarask: Вэрсальскі палац
+    be_tarask: Вэрсальскі палац
     bg: Версайски дворец
     bn: ভার্সাই প্রাসাদ
     bo: ཝེ་ཧི་ས་ཡེ་ཕོ་བྲང་།
@@ -248,8 +248,8 @@ dv_has_:
     dz: ཝར་སའི་ཕོ་བྲང་
     el: Ανάκτορο των Βερσαλλιών
     en: Palace of Versailles
-    en-ca: Palace of Versailles
-    en-gb: Palace of Versailles
+    en_ca: Palace of Versailles
+    en_gb: Palace of Versailles
     eo: Kastelo de Versailles
     es: Palacio de Versalles
     et: Versailles' loss
@@ -301,7 +301,7 @@ dv_has_:
     pl: Pałac wersalski
     pnb: ورسائی
     pt: Palácio de Versalhes
-    pt-br: Palácio de Versalhes
+    pt_br: Palácio de Versalhes
     ro: Palatul Versailles
     ru: Версаль
     sco: Palace o Versailles
@@ -328,8 +328,8 @@ dv_has_:
     xmf: ვერსალიშ დოხორე
     yue: 凡爾賽宮
     zh: 凡尔赛宫
-    zh-hans: 凡尔赛宫
-    zh-tw: 凡爾賽宮
+    zh_hans: 凡尔赛宫
+    zh_tw: 凡爾賽宮
 ---
 # [[Palace_of_Versailles]] 
 

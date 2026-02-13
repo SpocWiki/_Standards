@@ -52,7 +52,7 @@ dv_has_:
     ast: Pseudotsuga
     az: Yalançı tsuqa
     be: Дугласія
-    be-tarask: дугласія
+    be_tarask: дугласія
     bg: Дугласка ела
     ca: Avet Douglas
     ceb: Pseudotsuga
@@ -96,13 +96,13 @@ dv_has_:
     pl: daglezja
     pnb: ڈگلس فر
     pt: Pseudotsuga
-    pt-br: Pseudotsuga
+    pt_br: Pseudotsuga
     ro: Pseudotsuga
     ru: Псевдотсуга
     sq: Pseudotsuga
     sr: Дуглазија
-    sr-ec: Дуглазија
-    sr-el: Duglazija
+    sr_ec: Дуглазија
+    sr_el: Duglazija
     sv: Douglasgranssläktet
     tr: Pseudotsuga
     uk: Псевдотсуга
@@ -111,12 +111,12 @@ dv_has_:
     vo: Pseudotsuga
     war: Pseudotsuga
     zh: 黄杉属
-    zh-cn: 黄杉属
-    zh-hans: 黄杉属
-    zh-hant: 黃杉屬
-    zh-hk: 黃杉屬
-    zh-sg: 黄杉属
-    zh-tw: 黃杉屬
+    zh_cn: 黄杉属
+    zh_hans: 黄杉属
+    zh_hant: 黃杉屬
+    zh_hk: 黃杉屬
+    zh_sg: 黄杉属
+    zh_tw: 黃杉屬
 ---
 # Pseudotsuga [Carrière 1867]
 

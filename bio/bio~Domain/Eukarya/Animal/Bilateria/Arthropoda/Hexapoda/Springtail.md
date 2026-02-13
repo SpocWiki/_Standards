@@ -78,7 +78,7 @@ dv_has_:
     ast: Collembola
     az: Ayaqquyruqlar
     be: нагахвосткі
-    be-tarask: нагахвосткі
+    be_tarask: нагахвосткі
     bg: вилоскачки
     ca: Col·lèmbols
     ceb: Collembola
@@ -87,8 +87,8 @@ dv_has_:
     de: Springschwänze
     el: Κολλέμβολα
     en: springtail
-    en-ca: Springtail
-    en-gb: Springtail
+    en_ca: Springtail
+    en_gb: Springtail
     en-us: Collembola
     eo: Vostsaltuloj
     es: Collembola
@@ -109,11 +109,11 @@ dv_has_:
     ja: トビムシ目
     ka: ბოლოფეხიანები
     kk: Аяққұйрықтылар
-    kk-arab: اياققۇيرىقتىلار
+    kk_arab: اياققۇيرىقتىلار
     kk-cn: اياققۇيرىقتىلار
-    kk-cyrl: Аяққұйрықтылар
+    kk_cyrl: Аяққұйрықтылар
     kk-kz: Аяққұйрықтылар
-    kk-latn: Ayaqquýrıqtılar
+    kk_latn: Ayaqquýrıqtılar
     kk-tr: Ayaqquýrıqtılar
     ko: 톡토기
     la: Collembola
@@ -127,7 +127,7 @@ dv_has_:
     pl: skoczogonki
     ps: سپرېنگي لکۍ لرونکې ژوې
     pt: Collembola
-    pt-br: Collembola
+    pt_br: Collembola
     ro: Colembole
     ru: коллемболы
     sk: Chvostoskoky
@@ -143,12 +143,12 @@ dv_has_:
     war: Collembola
     yue: 彈尾綱
     zh: 弹尾纲
-    zh-cn: 弹尾目
-    zh-hans: 弹尾纲
-    zh-hant: 彈尾綱
-    zh-hk: 彈尾目
-    zh-sg: 弹尾目
-    zh-tw: 彈尾目
+    zh_cn: 弹尾目
+    zh_hans: 弹尾纲
+    zh_hant: 彈尾綱
+    zh_hk: 彈尾目
+    zh_sg: 弹尾目
+    zh_tw: 彈尾目
 ---
 # [[Springtail]]
  

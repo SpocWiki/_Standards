@@ -113,7 +113,7 @@ dv_has_:
     azb: هارولد لوید
     ba: Гарольд Ллойд
     be: Гаральд Лойд
-    be-tarask: Гаральд Лойд
+    be_tarask: Гаральд Лойд
     bg: Харолд Лойд
     bi: Harold Lloyd
     ca: Harold Lloyd
@@ -121,11 +121,11 @@ dv_has_:
     cy: Harold Lloyd
     da: Harold Lloyd
     de: Harold Lloyd
-    de-ch: Harold Lloyd
+    de_ch: Harold Lloyd
     el: Χάρολντ Λόιντ
     en: Harold Lloyd
-    en-ca: Harold Lloyd
-    en-gb: Harold Lloyd
+    en_ca: Harold Lloyd
+    en_gb: Harold Lloyd
     eo: Harold Clayton Lloyd
     es: Harold Lloyd
     et: Harold Lloyd
@@ -166,7 +166,7 @@ dv_has_:
     pap: Harold Lloyd
     pl: Harold Lloyd
     pt: Harold Lloyd
-    pt-br: Harold Lloyd
+    pt_br: Harold Lloyd
     ro: Harold Lloyd
     ru: Гарольд Ллойд
     sd: ھارولڊ لايڊ
@@ -188,12 +188,12 @@ dv_has_:
     yo: Harold Lloyd
     yue: 夏勞哀
     zh: 哈洛·羅依德
-    zh-cn: 哈罗德·劳埃德
-    zh-hant: 哈洛·羅依德
-    zh-hk: 夏勞哀
+    zh_cn: 哈罗德·劳埃德
+    zh_hant: 哈洛·羅依德
+    zh_hk: 夏勞哀
     zh-my: 神经六
-    zh-sg: 神经六
-    zh-tw: 哈洛·羅依德
+    zh_sg: 神经六
+    zh_tw: 哈洛·羅依德
 ---
 # [[Lloyd,Harold]] 
 

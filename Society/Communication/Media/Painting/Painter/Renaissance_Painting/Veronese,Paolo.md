@@ -290,7 +290,7 @@ dv_has_:
     az: Paolo Veroneze
     ba: Паоло Веронезе
     be: Паала Веранезэ
-    be-tarask: Паолё Вэранэзэ
+    be_tarask: Паолё Вэранэзэ
     bg: Паоло Веронезе
     bo: ཕའོ་ལོ་ཝེ་རོ་ནེ་ཟེ།
     br: Paolo Veronese
@@ -300,11 +300,11 @@ dv_has_:
     cy: Paolo Veronese
     da: Paolo Veronese
     de: Paolo Veronese
-    de-ch: Paolo Veronese
+    de_ch: Paolo Veronese
     el: Πάολο Βερονέζε
     en: Paolo Veronese
-    en-ca: Paolo Veronese
-    en-gb: Paolo Veronese
+    en_ca: Paolo Veronese
+    en_gb: Paolo Veronese
     eo: Paolo Veronese
     es: Paolo Veronese
     et: Paolo Veronese
@@ -343,7 +343,7 @@ dv_has_:
     pa: ਪਾਓਲੋ ਵੈਰੋਨੀਜ਼ੇ
     pl: Paolo Veronese
     pt: Paolo Veronese
-    pt-br: Paolo Veronese
+    pt_br: Paolo Veronese
     ro: Paolo Veronese
     ru: Паоло Веронезе
     sc: Veronese
@@ -353,7 +353,7 @@ dv_has_:
     sl: Paolo Veronese
     sq: Paolo Veronese
     sr: Паоло Веронезе
-    sr-ec: Паоло Веронезе
+    sr_ec: Паоло Веронезе
     stq: Paolo Veronese
     sv: Paolo Veronese
     tg: Паоло Веронезе
@@ -367,7 +367,7 @@ dv_has_:
     wuu: 保罗·委罗内塞
     yue: 委羅內塞
     zh: 保罗·委罗内塞
-    zh-tw: 保羅·委羅內塞
+    zh_tw: 保羅·委羅內塞
 ---
 # [[Veronese,Paolo]] 
 

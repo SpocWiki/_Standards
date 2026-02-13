@@ -104,7 +104,7 @@ dv_has_:
     ba: Марафон
     bar: Marathon
     be: марафон
-    be-tarask: маратон
+    be_tarask: маратон
     bg: Маратон
     bn: ম্যারাথন
     bo: མ་ལ་སུང་རྒྱུགས་འགྲན།
@@ -118,11 +118,11 @@ dv_has_:
     cy: marathon
     da: maratonløb
     de: Marathonlauf
-    de-ch: Marathonlauf
+    de_ch: Marathonlauf
     el: Μαραθώνιος
     en: marathon
-    en-ca: Marathon
-    en-gb: marathon
+    en_ca: Marathon
+    en_gb: marathon
     eo: maratono
     es: maratón
     et: maraton
@@ -177,7 +177,7 @@ dv_has_:
     oc: marathon
     pl: bieg maratoński
     pt: maratona
-    pt-br: maratona
+    pt_br: maratona
     rm: Maraton
     ro: maraton
     ru: марафон
@@ -190,8 +190,8 @@ dv_has_:
     sl: maraton
     sq: maratonë
     sr: маратон
-    sr-ec: маратон
-    sr-el: maraton
+    sr_ec: маратон
+    sr_el: maraton
     sv: maraton
     sw: Mbio ya Marathon
     szl: Bjyg maratůński
@@ -211,11 +211,11 @@ dv_has_:
     yi: מאראטאן
     yue: 馬拉松
     zh: 马拉松
-    zh-cn: 马拉松
-    zh-hans: 马拉松
-    zh-hant: 馬拉松
-    zh-hk: 馬拉松
-    zh-tw: 馬拉松
+    zh_cn: 马拉松
+    zh_hans: 马拉松
+    zh_hant: 馬拉松
+    zh_hk: 馬拉松
+    zh_tw: 馬拉松
     zu: UMbhadulo
 ---
 # [[Marathon]] 

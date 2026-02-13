@@ -91,7 +91,7 @@ dv_has_:
     az: brizlər
     ba: Бриз
     be: Брыз
-    be-tarask: брыза
+    be_tarask: брыза
     bg: бриз
     bho: लैंड एंड सी ब्रीज़
     ca: embat
@@ -153,7 +153,7 @@ dv_has_:
     xmf: ბრიზი
     yue: 海風
     zh: 海陆风
-    zh-hant: 海陸風
+    zh_hant: 海陸風
 ---
 # [[Sea_Breeze]] 
 

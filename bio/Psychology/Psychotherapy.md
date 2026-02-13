@@ -114,7 +114,7 @@ dv_has_:
     ast: sicoterapia
     az: Psixoterapiya
     be: псіхатэрапія
-    be-tarask: псыхатэрапія
+    be_tarask: псыхатэрапія
     bg: Психотерапия
     bo: སེམས་ཁམས་བཅོས་ཐབས་
     bs: psihoterapija
@@ -126,8 +126,8 @@ dv_has_:
     de: Psychotherapie
     el: Ψυχοθεραπεία
     en: psychotherapy
-    en-ca: psychotherapy
-    en-gb: psychotherapy
+    en_ca: psychotherapy
+    en_gb: psychotherapy
     eo: psikoterapio
     es: psicoterapia
     et: psühhoteraapia
@@ -152,8 +152,8 @@ dv_has_:
     kk: Психотерапия
     ko: 심리치료
     ku: Psîkoterapî
-    ku-arab: پسیکۆتەراپی
-    ku-latn: Psîkoterapî
+    ku_arab: پسیکۆتەراپی
+    ku_latn: Psîkoterapî
     ky: Психотерапия
     la: psychotherapia
     lb: Psychotherapie
@@ -161,7 +161,7 @@ dv_has_:
     lv: psihoterapija
     mk: психотерапија
     ms: psikoterapi
-    ms-arab: ڤسيکوتيراڤي
+    ms_arab: ڤسيکوتيراڤي
     nb: psykoterapi
     nl: psychotherapie
     nn: psykoterapi
@@ -181,8 +181,8 @@ dv_has_:
     so: Maandabiib
     sq: psikoterapia
     sr: психотерапија
-    sr-ec: Психотерапија
-    sr-el: Psihoterapija
+    sr_ec: Психотерапија
+    sr_el: Psihoterapija
     su: Psikoterapi
     sv: psykoterapi
     ta: counselling
@@ -200,12 +200,12 @@ dv_has_:
     wuu: 心理治疗
     yue: 心理治療
     zh: 心理治療
-    zh-cn: 心理治疗
-    zh-hans: 心理治疗
-    zh-hant: 心理治療
-    zh-hk: 心理治療
-    zh-sg: 心理治疗
-    zh-tw: 心理治療
+    zh_cn: 心理治疗
+    zh_hans: 心理治疗
+    zh_hant: 心理治療
+    zh_hk: 心理治療
+    zh_sg: 心理治疗
+    zh_tw: 心理治療
 ---
 # [[Psychotherapy]] 
 

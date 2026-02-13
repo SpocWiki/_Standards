@@ -42,7 +42,7 @@ dv_has_:
     af: menslike betroubaarheid
     ar: موثوقية بشرية
     ast: Fiabilidá humana
-    be-tarask: чалавечы фактар
+    be_tarask: чалавечы фактар
     ca: fiabilitat humana
     de: Menschliche Verlässlichkeit
     en: human reliability
@@ -53,7 +53,7 @@ dv_has_:
     ja: 人間信頼性
     ko: 인간요인오류
     ms: kebolehpercayaan manusia
-    ms-arab: کبوليهڤرچاياءن ماءنسي
+    ms_arab: کبوليهڤرچاياءن ماءنسي
     nl: menselijke fout
     pl: Czynnik ludzki
     pms: Afidabilità uman-a

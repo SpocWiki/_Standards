@@ -92,7 +92,7 @@ dv_has_:
     ast: Coloide
     az: Kolloidlər
     be: калоідныя сістэмы
-    be-tarask: калёід
+    be_tarask: калёід
     bg: колоид
     bn: কলয়েড
     bs: Koloid
@@ -146,8 +146,8 @@ dv_has_:
     sk: Koloid (chémia)
     sl: koloid
     sr: колоид
-    sr-ec: колоид
-    sr-el: koloid
+    sr_ec: колоид
+    sr_el: koloid
     sv: kolloid
     ta: கூழ்மம்
     te: కొల్లాయిడ్
@@ -160,11 +160,11 @@ dv_has_:
     wuu: 胶体
     yue: 膠體
     zh: 膠體
-    zh-cn: 胶体
-    zh-hans: 胶体
-    zh-hk: 膠體
-    zh-sg: 胶体
-    zh-tw: 膠體
+    zh_cn: 胶体
+    zh_hans: 胶体
+    zh_hk: 膠體
+    zh_sg: 胶体
+    zh_tw: 膠體
 ---
 # [[Colloid]] 
 

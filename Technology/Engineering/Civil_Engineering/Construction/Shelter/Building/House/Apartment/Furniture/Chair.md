@@ -205,7 +205,7 @@ dv_has_:
     bcl: tukawan
     bdr: kerusi'
     be: крэсла
-    be-tarask: крэсла
+    be_tarask: крэсла
     bew: korsi
     bg: стол
     bho: कुर्सी
@@ -234,8 +234,8 @@ dv_has_:
     el: καρέκλα
     eml: scrâna
     en: chair
-    en-ca: chair
-    en-gb: chair
+    en_ca: chair
+    en_gb: chair
     eo: seĝo
     es: silla
     et: tool
@@ -288,13 +288,13 @@ dv_has_:
     mnc: ᠨᡳᡴᡝᡴᡠ ᠮᡠᠯᠠᠨ
     mr: खुर्ची
     ms: kerusi
-    ms-arab: کروسي
+    ms_arab: کروسي
     my: ထိုင်ခုံ
     nah: icpalli
     nan: Í-á
     nb: stol
     nds: Stohl
-    nds-nl: stool
+    nds_nl: stool
     ne: मेच
     nl: stoel
     nn: stol
@@ -307,7 +307,7 @@ dv_has_:
     pl: krzesło
     pnb: کرسی
     pt: cadeira
-    pt-br: cadeira
+    pt_br: cadeira
     qu: tiyana
     rn: intebe
     ro: scaun
@@ -330,8 +330,8 @@ dv_has_:
     so: kursi
     sq: karrige
     sr: столица
-    sr-ec: столица
-    sr-el: stolica
+    sr_ec: столица
+    sr_el: stolica
     su: korsi
     sv: stol
     sw: kiti
@@ -344,7 +344,7 @@ dv_has_:
     tn: setilo
     tr: sandalye
     tt: урындык
-    tt-cyrl: урындык
+    tt_cyrl: урындык
     tw: akonwa
     uk: стілець
     ur: کرسی
@@ -359,8 +359,8 @@ dv_has_:
     yue: 凳
     za: eij
     zh: 椅
-    zh-hans: 椅
-    zh-hant: 椅
+    zh_hans: 椅
+    zh_hant: 椅
 ---
 # [[Chair]] 🪑 
 

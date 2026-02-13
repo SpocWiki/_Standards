@@ -103,7 +103,7 @@ dv_has_:
     ast: saltu de llonxitú
     ba: Оҙонлоҡҡа һикереү
     be: скачок у даўжыню
-    be-tarask: скачок у даўжыню
+    be_tarask: скачок у даўжыню
     bg: Скок на дължина
     bn: দীর্ঘ লম্ফ
     bo: མགོམས་མཆོངས།
@@ -166,8 +166,8 @@ dv_has_:
     smn: kukkodâhnjuškim
     sms: kokklõsnjoikk
     sr: скок удаљ
-    sr-ec: скок удаљ
-    sr-el: skok udalj
+    sr_ec: скок удаљ
+    sr_el: skok udalj
     su: Luncat jauh
     sv: längdhopp
     ta: நீளம் தாண்டுதல்
@@ -180,12 +180,12 @@ dv_has_:
     wuu: 跳远
     yue: 跳遠
     zh: 跳遠
-    zh-cn: 跳远
-    zh-hans: 跳远
-    zh-hant: 跳遠
-    zh-hk: 跳遠
-    zh-sg: 跳远
-    zh-tw: 跳遠
+    zh_cn: 跳远
+    zh_hans: 跳远
+    zh_hant: 跳遠
+    zh_hk: 跳遠
+    zh_sg: 跳远
+    zh_tw: 跳遠
 ---
 # [[Long_Jump]] 
 

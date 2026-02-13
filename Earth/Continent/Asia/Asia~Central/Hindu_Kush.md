@@ -105,7 +105,7 @@ dv_has_:
     ba: Һиндукуш
     bcl: Hindu Kush
     be: Гіндукуш
-    be-tarask: Гіндукуш
+    be_tarask: Гіндукуш
     bg: Хиндукуш
     bn: হিন্দুকুশ পর্বতমালা
     br: Hindu Kush
@@ -176,8 +176,8 @@ dv_has_:
     sk: Hindúkuš
     sl: Hindukuš
     sr: Хиндукуш
-    sr-ec: Хиндукуш
-    sr-el: Hindukuš
+    sr_ec: Хиндукуш
+    sr_el: Hindukuš
     sv: Hindukush
     sw: Hindu Kush
     ta: இந்து குஃசு

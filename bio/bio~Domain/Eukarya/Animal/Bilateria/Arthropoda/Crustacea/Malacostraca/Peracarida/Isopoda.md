@@ -78,11 +78,11 @@ dv_has_:
     da: Isopode
     de: Asseln
     de-at: Isopoda
-    de-ch: Isopoda
+    de_ch: Isopoda
     el: Ισόποδα
     en: Isopoda
-    en-ca: Isopoda
-    en-gb: Isopoda
+    en_ca: Isopoda
+    en_gb: Isopoda
     eo: Izopodoj
     es: isopoda
     et: Kakandilised
@@ -131,7 +131,7 @@ dv_has_:
     nap: Isopoda
     nb: tanglus
     nds: Kellerswiene
-    nds-nl: Isopoda
+    nds_nl: Isopoda
     nl: pissebedden
     nn: Isopodar
     nrm: Isopoda
@@ -142,7 +142,7 @@ dv_has_:
     pl: równonogi
     pms: Isopoda
     pt: Isópodos
-    pt-br: Isopoda
+    pt_br: Isopoda
     rm: Isopoda
     ro: Izopode
     ru: равноногие
@@ -171,12 +171,12 @@ dv_has_:
     yi: איזאפאד
     zea: Zeuge
     zh: 等足目
-    zh-cn: 等足目
-    zh-hans: 等足目
-    zh-hant: 等足目
-    zh-hk: 等足目
-    zh-sg: 等足目
-    zh-tw: 等足目
+    zh_cn: 等足目
+    zh_hans: 等足目
+    zh_hant: 等足目
+    zh_hk: 等足目
+    zh_sg: 等足目
+    zh_tw: 等足目
     zu: Isopoda
 ---
 ## Phylogeny 

@@ -158,7 +158,7 @@ dv_has_:
     az: Xlorid turşusu
     azb: هیدروکولوریک اسید
     be: саляная кіслата
-    be-tarask: саляная кісьля
+    be_tarask: саляная кісьля
     bg: Солна киселина
     bn: হাইড্রোক্লোরিক অ্যাসিড
     bs: Hlorovodonična kiselina
@@ -171,7 +171,7 @@ dv_has_:
     de: Salzsäure
     el: υδροχλωρικό οξύ
     en: hydrochloric acid
-    en-gb: hydrochloric acid
+    en_gb: hydrochloric acid
     eo: klorida acido
     es: ácido clorhídrico
     et: Vesinikkloriidhape
@@ -219,7 +219,7 @@ dv_has_:
     pl: kwas solny
     pnb: ہائیڈروکلورک ایسڈ
     pt: ácido clorídrico
-    pt-br: ácido clorídrico
+    pt_br: ácido clorídrico
     ro: acid clorhidric
     ru: соляная кислота
     scn: Àcitu clurìdricu
@@ -243,10 +243,10 @@ dv_has_:
     wuu: 盐酸
     yue: 鹽酸
     zh: 盐酸
-    zh-cn: 盐酸
-    zh-hans: 盐酸
-    zh-hant: 鹽酸
-    zh-tw: 鹽酸
+    zh_cn: 盐酸
+    zh_hans: 盐酸
+    zh_hant: 鹽酸
+    zh_tw: 鹽酸
 ---
 # [[Hydrochloric_Acid]] 
 

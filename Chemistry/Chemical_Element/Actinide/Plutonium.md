@@ -145,7 +145,7 @@ dv_has_:
     ba: Плутоний
     ban: Plutonium
     be: плутоній
-    be-tarask: плютон
+    be_tarask: плютон
     bg: плутоний
     bho: प्लुटोनियम
     bjn: Plutonium
@@ -164,11 +164,11 @@ dv_has_:
     cy: Plwtoniwm
     da: plutonium
     de: Plutonium
-    de-ch: Plutonium
+    de_ch: Plutonium
     el: πλουτώνιο
     en: plutonium
-    en-ca: Plutonium
-    en-gb: plutonium
+    en_ca: Plutonium
+    en_gb: plutonium
     eo: plutonio
     es: plutonio
     et: plutoonium
@@ -248,7 +248,7 @@ dv_has_:
     pnb: پلوٹونیم
     ps: پلوتونيم
     pt: plutónio
-    pt-br: plutônio
+    pt_br: plutônio
     qu: Plutonyu
     ro: plutoniu
     ru: плутоний
@@ -290,14 +290,14 @@ dv_has_:
     yo: Plùtòníọ̀m
     yue: 鈈
     zh: 鈈
-    zh-cn: 钚
-    zh-hans: 钚
-    zh-hant: 鈽
-    zh-hk: 鈈
-    zh-mo: 鈈
+    zh_cn: 钚
+    zh_hans: 钚
+    zh_hant: 鈽
+    zh_hk: 鈈
+    zh_mo: 鈈
     zh-my: 钚
-    zh-sg: 钚
-    zh-tw: 鈽
+    zh_sg: 钚
+    zh_tw: 鈽
     zu: ImPulu
   number_of_:
     period: 7

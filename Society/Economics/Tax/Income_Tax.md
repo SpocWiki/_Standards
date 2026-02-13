@@ -98,7 +98,7 @@ dv_has_:
     az: Gəlir vergisi
     ba: килем һалымы
     be: падаходны падатак
-    be-tarask: Падатак на даход
+    be_tarask: Падатак на даход
     bg: Данък върху общия доход
     bn: আয়কর
     bs: Porez na dohodak
@@ -128,11 +128,11 @@ dv_has_:
     ja: 所得税
     ka: საშემოსავლო გადასახადი
     kk: Саяси ұстаным
-    kk-arab: ساياسىي ۇستانىم
+    kk_arab: ساياسىي ۇستانىم
     kk-cn: ساياسىي ۇستانىم
-    kk-cyrl: Саяси ұстаным
+    kk_cyrl: Саяси ұстаным
     kk-kz: Саяси ұстаным
-    kk-latn: Sayasï ustanım
+    kk_latn: Sayasï ustanım
     kk-tr: Sayasï ustanım
     km: ពន្ធលើប្រាក់ចំណូល
     kn: ಆದಾಯ ತೆರಿಗೆ
@@ -174,12 +174,12 @@ dv_has_:
     yi: איינקונפט שטייער
     yue: 入息稅
     zh: 所得稅
-    zh-cn: 所得税
-    zh-hans: 所得税
-    zh-hant: 所得稅
-    zh-hk: 入息稅
-    zh-sg: 所得税
-    zh-tw: 所得稅
+    zh_cn: 所得税
+    zh_hans: 所得税
+    zh_hant: 所得稅
+    zh_hk: 入息稅
+    zh_sg: 所得税
+    zh_tw: 所得稅
 ---
 # [[Income_Tax]] 
 

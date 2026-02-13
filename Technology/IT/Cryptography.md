@@ -138,7 +138,7 @@ dv_has_:
     ba: Криптография
     bar: Kryptographie
     be: крыптаграфія
-    be-tarask: крыптаграфія
+    be_tarask: крыптаграфія
     bg: Криптография
     bn: তথ্যগুপ্তিবিদ্যা
     bs: Kriptografija
@@ -148,12 +148,12 @@ dv_has_:
     cy: Cêl-ysgrifiaeth
     da: kryptografi
     de: Kryptographie
-    de-ch: Kryptographie
+    de_ch: Kryptographie
     diq: Kriptolociye
     el: κρυπτογραφία
     en: cryptography
-    en-ca: Cryptography
-    en-gb: cryptography
+    en_ca: Cryptography
+    en_gb: cryptography
     eo: kriptologio
     es: criptografía
     et: krüptograafia
@@ -207,7 +207,7 @@ dv_has_:
     pms: Criptografìa
     pnb: رمز نگاری
     pt: criptografia
-    pt-br: criptografia
+    pt_br: criptografia
     ro: criptografie
     ru: криптография
     scn: Crittugrafìa
@@ -219,7 +219,7 @@ dv_has_:
     sms: kryptografia
     sq: Kriptografia
     sr: криптографија
-    sr-ec: криптографија
+    sr_ec: криптографија
     sv: kryptografi
     sw: Ufichamishi
     syl: ꠇꠤꠙꠐꠞ ꠇꠣꠝ
@@ -241,9 +241,9 @@ dv_has_:
     yi: קריפטאגראפיע
     yue: 密碼學
     zh: 密码编码学
-    zh-cn: 密码学
-    zh-hans: 密码学
-    zh-hant: 密碼學
+    zh_cn: 密码学
+    zh_hans: 密码学
+    zh_hant: 密碼學
     zu: Umchazanyandla
 ---
 # [[Cryptography]] 

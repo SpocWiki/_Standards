@@ -64,7 +64,7 @@ dv_has_:
     ab: Черногориа
     ace: Monténègrô
     ady: Черногорие
-    aeb-arab: الجبل الأسود
+    aeb_arab: الجبل الأسود
     af: Montenegro
     am: ሞንቴኔግሮ
     ami: Montenegro
@@ -86,7 +86,7 @@ dv_has_:
     bar: Montenegro
     bcl: Montenegro
     be: Чарнагорыя
-    be-tarask: Чарнагорыя
+    be_tarask: Чарнагорыя
     bew: Gunung Item
     bg: Черна гора
     bho: मोंटीनीग्रो
@@ -99,7 +99,7 @@ dv_has_:
     bs: Crna Gora
     bxr: Монтенегро
     ca: Montenegro
-    cbk-zam: Montenegro
+    cbk_zam: Montenegro
     cdo: Montenegro
     ce: Ӏаьржаламанхойчоь
     ceb: Montenegro
@@ -107,7 +107,7 @@ dv_has_:
     ckb: مۆنتینیگرۆ
     co: Montenegru
     crh: Montenegro
-    crh-latn: Montenegro
+    crh_latn: Montenegro
     cs: Černá Hora
     csb: Czôrnogóra
     cu: Чрьна Гора
@@ -117,7 +117,7 @@ dv_has_:
     dag: Montenegro
     de: Montenegro
     de-at: Montenegro
-    de-ch: Montenegro
+    de_ch: Montenegro
     diq: Montenegro
     dsb: Carnogórska
     dty: मोन्टेनेग्रो
@@ -127,8 +127,8 @@ dv_has_:
     el: Μαυροβούνιο
     eml: Mòntnégar
     en: Montenegro
-    en-ca: Montenegro
-    en-gb: Montenegro
+    en_ca: Montenegro
+    en_gb: Montenegro
     eo: Montenegro
     es: Montenegro
     et: Montenegro
@@ -152,7 +152,7 @@ dv_has_:
     gn: Montenégyro
     gom: माँटेनिग्रो
     gom-deva: माँटेनिग्रो
-    gom-latn: Montenegro
+    gom_latn: Montenegro
     got: "\U00010343\U00010345\U00010330\U00010342\U00010344\U00010330\U00010331\U00010330\U00010339\U00010342\U00010332\U00010330\U0001033B\U00010330\U0001033D\U00010333"
     gpe: Montenegro
     gsw: Montenegro
@@ -216,7 +216,7 @@ dv_has_:
     lv: Melnkalne
     lzh: 蒙特內哥羅
     mad: Montenegro
-    map-bms: Montenegro
+    map_bms: Montenegro
     mdf: Равжа Панда
     mg: Montenegro
     mhr: Шемкурык Эл
@@ -240,7 +240,7 @@ dv_has_:
     nap: Montenegro
     nb: Montenegro
     nds: Montenegro
-    nds-nl: Montenegro
+    nds_nl: Montenegro
     ne: मोन्टेनेग्रो
     nl: Montenegro
     nn: Montenegro
@@ -264,7 +264,7 @@ dv_has_:
     pnt: Μαυροβούνιον
     ps: مانتېنېګرو
     pt: Montenegro
-    pt-br: Montenegro
+    pt_br: Montenegro
     qu: Yanaurqu
     rm: Montenegro
     rmy: Montenegro
@@ -282,7 +282,7 @@ dv_has_:
     se: Montenegro
     sgs: Joudkalnėjė
     sh: Crna Gora
-    sh-cyrl: Црна Гора
+    sh_cyrl: Црна Гора
     shn: မိူင်းမွၼ်ႇတေႇၼေးၵရူဝ်ႇ
     si: මොන්ටිනිග්රෝ
     sk: Čierna Hora
@@ -294,8 +294,8 @@ dv_has_:
     so: Montenegro
     sq: Mali i Zi
     sr: Црна Гора
-    sr-ec: Црна Гора
-    sr-el: Crna Gora
+    sr_ec: Црна Гора
+    sr_el: Crna Gora
     srn: Montenegrokondre
     ss: IMonthenekho
     stq: Montenegro
@@ -346,14 +346,14 @@ dv_has_:
     zea: Montenehro
     zgh: ⴰⴷⵔⴰⵔ ⴰⴱⵔⴽⴰⵏ
     zh: 蒙特內哥羅
-    zh-cn: 黑山
-    zh-hans: 黑山
-    zh-hant: 蒙特內哥羅
-    zh-hk: 黑山
-    zh-mo: 黑山
+    zh_cn: 黑山
+    zh_hans: 黑山
+    zh_hant: 蒙特內哥羅
+    zh_hk: 黑山
+    zh_mo: 黑山
     zh-my: 黑山
-    zh-sg: 黑山
-    zh-tw: 蒙特內哥羅
+    zh_sg: 黑山
+    zh_tw: 蒙特內哥羅
     zu: IMontenegro
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Montenegro

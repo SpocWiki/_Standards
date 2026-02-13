@@ -55,7 +55,7 @@ Stack_Exchange_tag: https://stackoverflow.com/tags/presentation-layer
 dv_has_:
   name_:
     ar: طبقة العرض
-    be-tarask: прадстаўнічы ўзровень
+    be_tarask: прадстаўнічы ўзровень
     bg: Представителен слой
     ca: capa de presentació
     cs: prezentační vrstva
@@ -63,8 +63,8 @@ dv_has_:
     de: Darstellungsschicht
     el: Επίπεδο παρουσίασης
     en: presentation layer
-    en-ca: presentation layer
-    en-gb: presentation layer
+    en_ca: presentation layer
+    en_gb: presentation layer
     eo: prezenta tavolo
     es: capa de presentación
     et: Esitluskiht
@@ -79,11 +79,11 @@ dv_has_:
     it: livello di presentazione
     ja: プレゼンテーション層
     kk: Көрсетімдік деңгей
-    kk-arab: كورسەتىمدىك دەڭگەي
+    kk_arab: كورسەتىمدىك دەڭگەي
     kk-cn: كورسەتىمدىك دەڭگەي
-    kk-cyrl: Көрсетімдік деңгей
+    kk_cyrl: Көрсетімдік деңгей
     kk-kz: Көрсетімдік деңгей
-    kk-latn: Körsetimdik deñgeý
+    kk_latn: Körsetimdik deñgeý
     kk-tr: Körsetimdik deñgeý
     ko: 표현 계층
     lmo: Nivell de presentazion
@@ -95,25 +95,25 @@ dv_has_:
     nn: presentasjonslaget
     pl: warstwa prezentacji
     pt: camada de apresentação
-    pt-br: camada de apresentação
+    pt_br: camada de apresentação
     ru: представительский уровень
     sh: sloj prezentacije
     sl: predstavitvena plast
     sr: слој презентације
-    sr-ec: Слој презентације
-    sr-el: sloj prezentacije
+    sr_ec: Слој презентације
+    sr_el: sloj prezentacije
     sv: presentationsskikt
     tr: sunum katmanı
     uk: рівень представлення
     vi: tầng trình diễn
     wuu: 表示层
     zh: 表示层
-    zh-cn: 表示层
-    zh-hans: 表示层
-    zh-hant: 表示層
-    zh-hk: 表示層
-    zh-sg: 表示层
-    zh-tw: 表示層
+    zh_cn: 表示层
+    zh_hans: 表示层
+    zh_hant: 表示層
+    zh_hk: 表示層
+    zh_sg: 表示层
+    zh_tw: 表示層
 ---
 # [[OSI~6-Presentation]] 
 

@@ -78,7 +78,7 @@ dv_has_:
     ast: Bomba de recímanu
     az: Kasset bombası
     be: касетны боепрыпас
-    be-tarask: касэтная бомба
+    be_tarask: касэтная бомба
     bg: Касетъчни боеприпаси
     bn: ক্লাস্টার বোমা
     ca: bomba de dispersió
@@ -106,11 +106,11 @@ dv_has_:
     ja: クラスター爆弾
     ka: კასეტური ჭურვი
     kk: Кассеталық оқ-дәрі
-    kk-arab: كاسسەتالىق وق-ٴدارى
+    kk_arab: كاسسەتالىق وق-ٴدارى
     kk-cn: كاسسەتالىق وق-ٴدارى
-    kk-cyrl: Кассеталық оқ-дәрі
+    kk_cyrl: Кассеталық оқ-дәрі
     kk-kz: Кассеталық оқ-дәрі
-    kk-latn: Kassetalıq oq-däri
+    kk_latn: Kassetalıq oq-däri
     kk-tr: Kassetalıq oq-däri
     ko: 집속탄
     lt: Kasetinis ginklas
@@ -129,8 +129,8 @@ dv_has_:
     sl: kasetno strelivo
     sq: Municioni thërrmues
     sr: касетна бомба
-    sr-ec: касетна бомба
-    sr-el: kasetna bomba
+    sr_ec: касетна бомба
+    sr_el: kasetna bomba
     sv: klusterammunition
     ta: கொத்துக் குண்டு
     te: క్లస్టర్ బాంబు
@@ -141,12 +141,12 @@ dv_has_:
     wa: Bombe-troke
     yue: 集束炸彈
     zh: 集束炸彈
-    zh-cn: 集束炸弹
-    zh-hans: 集束炸弹
-    zh-hant: 集束炸彈
-    zh-hk: 集束炸彈
-    zh-sg: 集束炸弹
-    zh-tw: 集束炸彈
+    zh_cn: 集束炸弹
+    zh_hans: 集束炸弹
+    zh_hant: 集束炸彈
+    zh_hk: 集束炸彈
+    zh_sg: 集束炸弹
+    zh_tw: 集束炸彈
 ---
 # [[Cluster_Munition]] 
 

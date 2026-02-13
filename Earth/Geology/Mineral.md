@@ -171,7 +171,7 @@ dv_has_:
     azb: معدن مادهسی
     ba: минерал
     be: мінерал
-    be-tarask: мінэрал
+    be_tarask: мінэрал
     bg: минерал
     bho: खनिज
     bn: খনিজ
@@ -186,11 +186,11 @@ dv_has_:
     cy: mwyn
     da: mineral
     de: Mineral
-    de-ch: Mineral
+    de_ch: Mineral
     el: ορυκτό
     en: mineral
-    en-ca: mineral
-    en-gb: mineral
+    en_ca: mineral
+    en_gb: mineral
     eo: mineralo
     es: mineral
     et: mineraal
@@ -265,7 +265,7 @@ dv_has_:
     pnb: کھݨج
     ps: منرال
     pt: mineral
-    pt-br: mineral
+    pt_br: mineral
     qu: qiqlla
     ro: mineral
     ru: минерал
@@ -290,8 +290,8 @@ dv_has_:
     so: macdan
     sq: mineral
     sr: минерал
-    sr-ec: минерал
-    sr-el: mineral
+    sr_ec: минерал
+    sr_el: mineral
     su: mineral
     sv: mineral
     sw: madini

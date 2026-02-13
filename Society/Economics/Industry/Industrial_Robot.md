@@ -57,7 +57,7 @@ dv_has_:
     ast: robó industrial
     az: sənaye robotu
     be: прамысловы робат
-    be-tarask: прамысловы робат
+    be_tarask: прамысловы робат
     bg: Индустриален робот
     bs: Industrijski robot
     ca: robot industrial

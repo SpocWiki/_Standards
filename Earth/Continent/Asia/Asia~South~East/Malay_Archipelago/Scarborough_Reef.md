@@ -133,10 +133,10 @@ dv_has_:
     vi: Bãi cạn Scarborough
     yue: 黃巖島
     zh: 黄岩岛
-    zh-cn: 黄岩岛
-    zh-hans: 黄岩岛
-    zh-hant: 黃巖島
-    zh-tw: 民主礁
+    zh_cn: 黄岩岛
+    zh_hans: 黄岩岛
+    zh_hant: 黃巖島
+    zh_tw: 民主礁
 ---
 # [[Scarborough_Reef]] 
 

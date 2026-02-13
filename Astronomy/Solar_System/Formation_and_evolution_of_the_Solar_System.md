@@ -81,7 +81,7 @@ dv_has_:
   name_:
     ar: تشكل وتطور المجموعة الشمسية
     ast: Formación y evolución del sistema solar
-    be-tarask: Паходжаньне Сонечнай сыстэмы
+    be_tarask: Паходжаньне Сонечнай сыстэмы
     bn: সৌরজগতের জন্ম ও বিবর্তন
     ca: Formació i evolució del sistema solar
     cs: vznik a vývoj Sluneční soustavy
@@ -89,8 +89,8 @@ dv_has_:
     de: Aufbau und Entstehung des Sonnensystems
     el: Σχηματισμός και εξέλιξη του Ηλιακού Συστήματος
     en: formation and evolution of the Solar System
-    en-ca: Formation and evolution of the Solar System
-    en-gb: formation and evolution of the Solar System
+    en_ca: Formation and evolution of the Solar System
+    en_gb: formation and evolution of the Solar System
     eo: formiĝo kaj evoluo de la Sunsistemo
     es: Formación y evolución del Sistema Solar
     et: Päikesesüsteemi teke ja areng
@@ -118,7 +118,7 @@ dv_has_:
     pl: Powstanie i ewolucja Układu Słonecznego
     ps: د لمریز نظام جوړښت او تکامل
     pt: formação e evolução do Sistema Solar
-    pt-br: Formação e evolução do Sistema Solar
+    pt_br: Formação e evolução do Sistema Solar
     ro: Geneza și evoluția sistemului solar
     ru: Формирование и эволюция Солнечной системы
     sh: Formiranje Sunčevog sistema
@@ -135,8 +135,8 @@ dv_has_:
     wuu: 太阳系个形成搭演化
     yue: 太陽系嘅形成同演化
     zh: 太阳系的形成与演化
-    zh-hans: 太阳系的形成与演化
-    zh-hant: 太陽系的形成與演化
+    zh_hans: 太阳系的形成与演化
+    zh_hant: 太陽系的形成與演化
 ---
 # [[Formation_and_evolution_of_the_Solar_System]] 
 

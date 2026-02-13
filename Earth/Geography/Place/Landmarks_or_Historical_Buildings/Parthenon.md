@@ -159,7 +159,7 @@ dv_has_:
     ba: Парфенон
     ban: Parthénon
     be: Парфенон
-    be-tarask: Партэнон
+    be_tarask: Партэнон
     bg: Партенон
     bho: पार्थेनन
     bn: পার্থানন
@@ -177,11 +177,11 @@ dv_has_:
     cy: Parthenon
     da: Parthenon
     de: Parthenon
-    de-ch: Parthenon
+    de_ch: Parthenon
     el: Παρθενώνας
     en: Parthenon
-    en-ca: Parthenon
-    en-gb: Parthenon
+    en_ca: Parthenon
+    en_gb: Parthenon
     eo: Partenono
     es: Partenón
     et: Parthenon
@@ -245,7 +245,7 @@ dv_has_:
     pnb: پارتھینن
     ps: پارتېنون
     pt: Partenon
-    pt-br: Partenon
+    pt_br: Partenon
     ro: Partenon
     ru: Парфенон
     rue: Парфенон
@@ -277,8 +277,8 @@ dv_has_:
     yi: פארטענאן
     yue: 巴特農神殿
     zh: 帕德嫩神廟
-    zh-cn: 帕特农神庙
-    zh-tw: 帕德嫩神廟
+    zh_cn: 帕特农神庙
+    zh_tw: 帕德嫩神廟
 ---
 # [[Parthenon]] 
 

@@ -110,7 +110,7 @@ dv_has_:
     azb: سیاسی فلسفه
     ba: Сәйәси фәлсәфә
     be: палітычная філасофія
-    be-tarask: палітычная філязофія
+    be_tarask: палітычная філязофія
     bg: Политическа философия
     bn: রাজনৈতিক দর্শন
     bs: Politička filozofija
@@ -157,7 +157,7 @@ dv_has_:
     mk: политичка филозофија
     mn: Улс төрийн гүн ухаан ах
     ms: falsafah politik
-    ms-arab: فلسفه ڤوليتيک
+    ms_arab: فلسفه ڤوليتيک
     nan: Chèng-tī tiat-ha̍k
     nb: politisk filosofi
     nl: politieke filosofie
@@ -182,8 +182,8 @@ dv_has_:
     sms: poliittlaž filosofia
     sq: filozofi politike
     sr: политичка филозофија
-    sr-ec: политичка филозофија
-    sr-el: politička filozofija
+    sr_ec: политичка филозофија
+    sr_el: politička filozofija
     sv: politisk filosofi
     ta: அரசியல் தத்துவம்
     te: పాలనా తత్త్వశాస్త్రం
@@ -200,14 +200,14 @@ dv_has_:
     wuu: 政治哲学
     yue: 政治哲學
     zh: 政治哲学
-    zh-cn: 政治哲学
-    zh-hans: 政治哲学
-    zh-hant: 政治哲學
-    zh-hk: 政治哲學
-    zh-mo: 政治哲學
+    zh_cn: 政治哲学
+    zh_hans: 政治哲学
+    zh_hant: 政治哲學
+    zh_hk: 政治哲學
+    zh_mo: 政治哲學
     zh-my: 政治哲学
-    zh-sg: 政治哲学
-    zh-tw: 政治哲學
+    zh_sg: 政治哲学
+    zh_tw: 政治哲學
 ---
 # [[Political_Philosophy]] 
 

@@ -82,7 +82,7 @@ dv_has_:
     az: Vektor analizi
     ba: Векторлы анализ
     be: вектарны аналіз
-    be-tarask: вэктарны аналіз
+    be_tarask: вэктарны аналіз
     bg: Векторен анализ
     bn: সদিক রাশির ক্যালকুলাস
     bs: Vektorska analiza
@@ -122,7 +122,7 @@ dv_has_:
     pa: ਵੈਕਟਰ ਕੈਲਕੁਲਸ
     pl: Analiza wektorowa
     pt: cálculo vetorial
-    pt-br: cálculo vetorial
+    pt_br: cálculo vetorial
     ro: Calcul vectorial
     ru: векторный анализ
     se: vektoranalysa
@@ -141,12 +141,12 @@ dv_has_:
     vi: Tích phân vectơ
     yue: 向量微積分
     zh: 向量分析
-    zh-cn: 向量分析
-    zh-hans: 向量分析
-    zh-hant: 向量分析
-    zh-hk: 向量分析
-    zh-sg: 向量分析
-    zh-tw: 向量分析
+    zh_cn: 向量分析
+    zh_hans: 向量分析
+    zh_hant: 向量分析
+    zh_hk: 向量分析
+    zh_sg: 向量分析
+    zh_tw: 向量分析
 ---
 # [[Vector_Calculus]]  
 

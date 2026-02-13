@@ -124,7 +124,7 @@ dv_has_:
     az: tapança
     ban: Péstol
     be: пісталет
-    be-tarask: пісталет
+    be_tarask: пісталет
     bg: Пистолет
     bjn: Pistul
     bn: পিস্তল
@@ -166,9 +166,9 @@ dv_has_:
     ka: დამბაჩა
     kaa: Tapansha
     kk: Пистолет
-    kk-arab: پىيستولەت
-    kk-cyrl: Пистолет
-    kk-latn: Pïstolet
+    kk_arab: پىيستولەت
+    kk_cyrl: Пистолет
+    kk_latn: Pïstolet
     kn: ಪಿಸ್ತೂಲು
     ko: 피스톨
     ks: پِسٹل
@@ -192,7 +192,7 @@ dv_has_:
     pnb: پستول
     pnt: πιστόφ'
     pt: pistola
-    pt-br: pistola
+    pt_br: pistola
     qu: Maki illapa
     ro: pistol
     ru: пистолет
@@ -206,8 +206,8 @@ dv_has_:
     sms: pistool
     sq: Koburja
     sr: пиштољ
-    sr-ec: пиштољ
-    sr-el: pištolj
+    sr_ec: пиштољ
+    sr_el: pištolj
     sv: pistol
     sw: Bastola
     ta: கைத்துப்பாக்கி
@@ -227,9 +227,9 @@ dv_has_:
     xal: Пистул
     yue: 單膛室手槍
     zh: 手枪
-    zh-hans: 手枪
-    zh-hant: 手槍
-    zh-hk: 手槍
+    zh_hans: 手枪
+    zh_hant: 手槍
+    zh_hk: 手槍
 ---
 # [[Pistol]] 🔫 
 

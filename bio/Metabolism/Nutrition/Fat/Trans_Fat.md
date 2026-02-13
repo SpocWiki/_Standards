@@ -68,7 +68,7 @@ dv_has_:
   name_:
     ar: دهن تقابلي
     az: Trans yağlar
-    be-tarask: транс-тлушч
+    be_tarask: транс-тлушч
     bg: Транс-мазнина
     ca: àcid gras trans
     cs: Trans tuky
@@ -110,8 +110,8 @@ dv_has_:
     sn: Mafutamhiri
     sq: Transyndyra
     sr: Trans mast
-    sr-ec: Транс маст
-    sr-el: Trans mast
+    sr_ec: Транс маст
+    sr_el: Trans mast
     sv: transfett
     ta: மாறுபக்க கொழுப்பு
     th: ไขมันทรานส์
@@ -122,12 +122,12 @@ dv_has_:
     vi: Chất béo chuyển hóa
     yue: 反式脂肪
     zh: 反式脂肪
-    zh-cn: 反式脂肪
-    zh-hans: 反式脂肪
-    zh-hant: 反式脂肪
-    zh-hk: 反式脂肪
-    zh-sg: 反式脂肪
-    zh-tw: 反式脂肪
+    zh_cn: 反式脂肪
+    zh_hans: 反式脂肪
+    zh_hant: 反式脂肪
+    zh_hk: 反式脂肪
+    zh_sg: 反式脂肪
+    zh_tw: 反式脂肪
 ---
 # [[Trans_Fat]] 
 

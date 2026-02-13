@@ -9,7 +9,7 @@ dv_has_:
     az: Reyhan
     azb: رئیحان
     ba: Райхан
-    be-tarask: базылік
+    be_tarask: базылік
     bg: Босилек
     ca: Ocimum
     ceb: Ocimum
@@ -44,11 +44,11 @@ dv_has_:
     ka: რეჰანი
     kab: Taɣensit
     kk: Базилик
-    kk-arab: بازىيلىيك
+    kk_arab: بازىيلىيك
     kk-cn: بازىيلىيك
-    kk-cyrl: Базилик
+    kk_cyrl: Базилик
     kk-kz: Базилик
-    kk-latn: Bazïlïk
+    kk_latn: Bazïlïk
     kk-tr: Bazïlïk
     ko: 바질속
     ky: Базилик
@@ -63,7 +63,7 @@ dv_has_:
     os: Реган
     pl: bazylia
     pt: Ocimum
-    pt-br: Ocimum
+    pt_br: Ocimum
     ro: Ocimum
     ru: базилик
     rup: Ocimum
@@ -83,12 +83,12 @@ dv_has_:
     war: Ocimum
     xmf: სამშურე
     zh: 罗勒属
-    zh-cn: 罗勒属
-    zh-hans: 罗勒属
-    zh-hant: 羅勒屬
-    zh-hk: 羅勒屬
-    zh-sg: 罗勒属
-    zh-tw: 羅勒屬
+    zh_cn: 罗勒属
+    zh_hans: 罗勒属
+    zh_hant: 羅勒屬
+    zh_hk: 羅勒屬
+    zh_sg: 罗勒属
+    zh_tw: 羅勒屬
 aliases:
 - Basiilik
 - Basiilikum (skööl)

@@ -82,7 +82,7 @@ dv_has_:
     ar: جهاز محمول باليد
     ast: dispositivu móvil
     az: mobil cihaz
-    be-tarask: мабільная прылада
+    be_tarask: мабільная прылада
     bg: мобилно устройство
     bho: मोबाइल यंत्र
     bn: মোবাইল ডিভাইস
@@ -93,11 +93,11 @@ dv_has_:
     cy: dyfais electronig symudol
     da: mobil enhed
     de: Mobilgerät
-    de-ch: Handheld
+    de_ch: Handheld
     el: κινητή συσκευή
     en: mobile device
-    en-ca: mobile device
-    en-gb: mobile device
+    en_ca: mobile device
+    en_gb: mobile device
     eo: poŝkomputilo
     es: dispositivo móvil
     et: pihuseade
@@ -126,7 +126,7 @@ dv_has_:
     nl: mobiel apparaat
     pl: urządzenie mobilne
     pt: dispositivo móvel
-    pt-br: dispositivo móvel
+    pt_br: dispositivo móvel
     ro: aparat mobil
     ru: мобильное устройство
     sk: mobilné zariadenie
@@ -145,9 +145,9 @@ dv_has_:
     xmf: მობილური მონწყილობა
     yue: 流動裝置
     zh: 移动设备
-    zh-hans: 移动设备
-    zh-hant: 行動裝置
-    zh-hk: 流動裝置
+    zh_hans: 移动设备
+    zh_hant: 行動裝置
+    zh_hk: 流動裝置
     zu: Isiklamo esiphathwayo
 ---
 # [[Mobile_Device]] 

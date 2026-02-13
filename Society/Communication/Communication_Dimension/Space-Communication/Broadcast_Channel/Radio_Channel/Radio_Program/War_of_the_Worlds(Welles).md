@@ -51,14 +51,14 @@ dv_has_:
   name_:
     ar: حرب العوالم
     az: Dünyaların müharibəsi
-    be-tarask: Вайна сусьветаў
+    be_tarask: Вайна сусьветаў
     ca: La Guerra dels Mons (ràdio)
     ckb: شەڕی جیھانەکان
     cs: Válka světů
     de: The War of the Worlds
     el: Ο Πόλεμος των Κόσμων
     en: The War of the Worlds
-    en-gb: The War of the Worlds
+    en_gb: The War of the Worlds
     eo: La Milito inter la Mondoj
     es: La guerra de los mundos
     eu: The War of the Worlds
@@ -86,8 +86,8 @@ dv_has_:
     tr: The War of the Worlds (1938 radyo draması)
     uk: Війна світів
     zh: 世界大戰
-    zh-cn: 世界大战 (广播剧)
-    zh-hant: 世界大戰 (廣播劇)
+    zh_cn: 世界大战 (广播剧)
+    zh_hant: 世界大戰 (廣播劇)
 ---
 # [[War_of_the_Worlds(Welles)]] 
 

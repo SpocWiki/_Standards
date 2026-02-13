@@ -117,7 +117,7 @@ dv_has_:
     azb: قریقوری پرلمان
     ba: Перельман Григорий Яковлевич
     be: Рыгор Якаўлевіч Перэльман
-    be-tarask: Рыгор Пэрэльман
+    be_tarask: Рыгор Пэрэльман
     bg: Григорий Перелман
     ca: Grigori Perelman
     cs: Grigorij Perelman
@@ -146,16 +146,16 @@ dv_has_:
     ja: グリゴリー・ペレルマン
     ka: გრიგორი პერელმანი
     kk: Григорий Перельман
-    kk-arab: گرىيگورىيي پەرەلمان
+    kk_arab: گرىيگورىيي پەرەلمان
     kk-cn: گرىيگورىيي پەرەلمان
-    kk-cyrl: Григорий Перельман
+    kk_cyrl: Григорий Перельман
     kk-kz: Григорий Перельман
-    kk-latn: Grïgorïý Perelʹman
+    kk_latn: Grïgorïý Perelʹman
     kk-tr: Grïgorïý Perelʹman
     ko: 그리고리 페렐만
     ku: Grîgorî Perelman
-    ku-arab: گریگۆری پەرەلمان
-    ku-latn: Grîgorî Perelman
+    ku_arab: گریگۆری پەرەلمان
+    ku_latn: Grîgorî Perelman
     ky: Перельман, Григорий Яковлевич
     la: Gregorius Perel'man
     lt: Grigorijus Perelmanas
@@ -172,7 +172,7 @@ dv_has_:
     pl: Grigorij Perelman
     pnb: گریگوری پیرلمین
     pt: Grigori Perelman
-    pt-br: Grigorij Jakovlevič Perel'man
+    pt_br: Grigorij Jakovlevič Perel'man
     ro: Grigori Perelman
     ru: Григорий Яковлевич Перельман
     scn: Grigori Perelman
@@ -192,12 +192,12 @@ dv_has_:
     wuu: 格里戈里·佩雷尔曼
     yue: 格裡戈里·佩雷爾曼
     zh: 格里戈里·佩雷尔曼
-    zh-cn: 格里戈里·佩雷尔曼
-    zh-hans: 格里戈里·佩雷尔曼
-    zh-hant: 格里戈里·佩雷爾曼
-    zh-hk: 格里戈里·佩雷爾曼
-    zh-sg: 格里戈里·佩雷尔曼
-    zh-tw: 格里戈里·佩雷爾曼
+    zh_cn: 格里戈里·佩雷尔曼
+    zh_hans: 格里戈里·佩雷尔曼
+    zh_hant: 格里戈里·佩雷爾曼
+    zh_hk: 格里戈里·佩雷爾曼
+    zh_sg: 格里戈里·佩雷尔曼
+    zh_tw: 格里戈里·佩雷爾曼
 ---
 # [[Perelman,Grigori]] 
 

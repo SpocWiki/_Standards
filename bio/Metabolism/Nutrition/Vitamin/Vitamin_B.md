@@ -69,7 +69,7 @@ dv_has_:
     ar: فيتامينات بي
     az: vitamin B
     be: вітаміны групы B
-    be-tarask: вітаміны групы Б
+    be_tarask: вітаміны групы Б
     bg: витамини от група B
     bn: ভিটামিন বি
     ca: vitamina B
@@ -79,8 +79,8 @@ dv_has_:
     de: Vitamin B
     dv: ވިޓަމިން ބީ
     en: vitamin B
-    en-ca: vitamin B
-    en-gb: vitamin B
+    en_ca: vitamin B
+    en_gb: vitamin B
     eo: vitamino B
     es: vitaminas del grupo B
     et: B-rühma vitamiinid
@@ -122,7 +122,7 @@ dv_has_:
     or: ଜୀବସାର ଖ
     pl: witamina B
     pt: complexo B
-    pt-br: complexo B
+    pt_br: complexo B
     ro: vitamina B
     ru: витамин группы B
     sh: vitamin B
@@ -130,8 +130,8 @@ dv_has_:
     sl: vitamin B
     sq: Vitamina B
     sr: витамин Б
-    sr-ec: витамин Б
-    sr-el: vitamin B
+    sr_ec: витамин Б
+    sr_el: vitamin B
     sv: B-vitamin
     ta: உயிர்ச்சத்து பி
     tr: B vitaminleri
@@ -142,12 +142,12 @@ dv_has_:
     vi: vitamin B
     wuu: 维生素B
     zh: 维生素B
-    zh-cn: 维生素B
-    zh-hans: 维生素B
-    zh-hant: 維生素B
-    zh-hk: 維生素B
-    zh-sg: 维生素B
-    zh-tw: 維生素B
+    zh_cn: 维生素B
+    zh_hans: 维生素B
+    zh_hant: 維生素B
+    zh_hk: 維生素B
+    zh_sg: 维生素B
+    zh_tw: 維生素B
 ---
 # [[Vitamin_B]] 
 

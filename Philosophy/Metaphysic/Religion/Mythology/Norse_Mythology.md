@@ -117,7 +117,7 @@ dv_has_:
     az: German-skandinav mifologiyası
     ba: Скандинав мифологияһы
     be: германа-скандынаўская міфалогія
-    be-tarask: скандынаўская міталёгія
+    be_tarask: скандынаўская міталёгія
     bg: Скандинавска митология
     bjn: Mitologi Nordik
     bn: নর্স পুরাণ
@@ -131,7 +131,7 @@ dv_has_:
     de: nordische Mythologie
     el: σκανδιναβική μυθολογία
     en: Norse mythology
-    en-ca: Norse mythology
+    en_ca: Norse mythology
     eo: nord-ĝermana mitologio
     es: mitología nórdica
     et: Skandinaavia mütoloogia
@@ -156,7 +156,7 @@ dv_has_:
     kk: Скандинавия мифологиясы
     ko: 북유럽 신화
     ku: mîtolojiya xelkê germanî yê skandînavî
-    ku-latn: mîtolojiya xelkê germanî yê skandînavî
+    ku_latn: mîtolojiya xelkê germanî yê skandînavî
     la: Religio Germanica
     lb: Nordesch Mythologie
     lfn: Mitolojia norsce antica
@@ -181,8 +181,8 @@ dv_has_:
     sl: nordijska mitologija
     sq: Mitologjia nordike
     sr: нордијска митологија
-    sr-ec: Нордијска митологија
-    sr-el: Nordijska mitologija
+    sr_ec: Нордијска митологија
+    sr_el: Nordijska mitologija
     sv: nordisk mytologi
     szy: nu Bei-ou a micidekay a kungku
     ta: நோர்சு தொன்மவியல்
@@ -197,12 +197,12 @@ dv_has_:
     yue: 北歐神話
     zgh: ⴰⵙⴳⴷ ⴰⵏⵓⵔⵙ
     zh: 北欧神话
-    zh-cn: 北欧神话
-    zh-hans: 北欧神话
-    zh-hant: 北歐神話
-    zh-hk: 北歐神話
-    zh-sg: 北欧神话
-    zh-tw: 北歐神話
+    zh_cn: 北欧神话
+    zh_hans: 北欧神话
+    zh_hant: 北歐神話
+    zh_hk: 北歐神話
+    zh_sg: 北欧神话
+    zh_tw: 北歐神話
 ---
 # [[Norse_Mythology]] 
 

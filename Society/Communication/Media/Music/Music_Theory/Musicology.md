@@ -112,7 +112,7 @@ dv_has_:
     avk: Lexopa
     az: musiqişünaslıq
     be: музыказнаўства
-    be-tarask: музыказнаўства
+    be_tarask: музыказнаўства
     bg: Музикология
     bm: Fɔlikankalan
     bo: གཞས་རིག་པ།
@@ -152,7 +152,7 @@ dv_has_:
     kk: Музыкатану
     ko: 음악학
     ku: muzîkolojî
-    ku-latn: muzîkolojî
+    ku_latn: muzîkolojî
     la: Musicologia
     lb: Musekswëssenschaft
     lfn: musicolojia
@@ -162,7 +162,7 @@ dv_has_:
     lv: muzikoloģija
     mk: музикологија
     ms: muzikologi
-    ms-arab: موزيکولوݢي
+    ms_arab: موزيکولوݢي
     my: ဂီတဗေဒ
     nb: musikkvitenskap
     nl: musicologie
@@ -182,13 +182,13 @@ dv_has_:
     sms: musikktiõđ
     sq: Muzikologjia
     sr: музикологија
-    sr-ec: Музикологија
-    sr-el: Muzikologija
+    sr_ec: Музикологија
+    sr_el: Muzikologija
     sv: musikvetenskap
     ta: இசையியல்
     te: సంగీత శాస్త్రం
     tg: мусиқишиносӣ
-    tg-latn: Musiqişinosī
+    tg_latn: Musiqişinosī
     th: ดนตรีวิทยา
     tl: Musikolohiya
     tr: müzik bilimi
@@ -202,12 +202,12 @@ dv_has_:
     yi: מוזיקאלאגיע
     yue: 音樂學
     zh: 音乐学
-    zh-cn: 音乐学
-    zh-hans: 音乐学
-    zh-hant: 音樂學
-    zh-hk: 音樂學
-    zh-sg: 音乐学
-    zh-tw: 音樂學
+    zh_cn: 音乐学
+    zh_hans: 音乐学
+    zh_hant: 音樂學
+    zh_hk: 音樂學
+    zh_sg: 音乐学
+    zh_tw: 音樂學
 ---
 # [[Musicology]] 
 

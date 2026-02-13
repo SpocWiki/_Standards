@@ -62,16 +62,16 @@ dv_has_:
     ar: قلب المدينة التجاري
     arz: وسط البلد
     ast: Distritu financieru
-    be-tarask: даўнтаўн
+    be_tarask: даўнтаўн
     bg: Център
     bn: শহরের কেন্দ্রস্থল
     ca: centre de negocis
     cs: Downtown
     de: Downtown
-    de-ch: Downtown
+    de_ch: Downtown
     en: downtown
-    en-ca: Downtown
-    en-gb: downtown
+    en_ca: Downtown
+    en_gb: downtown
     eo: urbocentro
     es: downtown
     eu: Hirigune
@@ -86,7 +86,7 @@ dv_has_:
     nl: downtown
     pl: centrum miasta
     pt: downtown
-    pt-br: downtown
+    pt_br: downtown
     ro: Centru civic
     ru: даунтаун
     sco: Downtown

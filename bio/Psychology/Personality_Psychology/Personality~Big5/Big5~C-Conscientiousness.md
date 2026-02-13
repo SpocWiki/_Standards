@@ -84,8 +84,8 @@ dv_has_:
     vi: Sự tận tâm
     yue: 盡責度
     zh: 尽责性
-    zh-hant: 盡責性
-    zh-tw: 盡責性
+    zh_hant: 盡責性
+    zh_tw: 盡責性
 ---
 # [[Big5~C-Conscientiousness]] 
 

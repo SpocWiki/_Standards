@@ -110,11 +110,11 @@ dv_has_:
     da: Malaysia Airlines Flight 17
     de: Malaysia-Airlines-Flug 17
     de-at: Malaysia-Airlines-Flug 17
-    de-ch: Malaysia-Airlines-Flug 17
+    de_ch: Malaysia-Airlines-Flug 17
     el: Πτήση MH17
     en: Malaysia Airlines Flight 17
-    en-ca: Malaysia Airlines Flight 17
-    en-gb: Malaysia Airlines Flight 17
+    en_ca: Malaysia Airlines Flight 17
+    en_gb: Malaysia Airlines Flight 17
     eo: Flugo 17 de Malaysia Airlines
     es: Vuelo 17 de Malaysia Airlines
     et: Malaysia Airlinesi lend 17
@@ -153,7 +153,7 @@ dv_has_:
     pl: lot 17 linii Malaysia Airlines
     pnb: ملائیشیا ایئرلائنز پرواز 17
     pt: Voo Malaysia Airlines 17
-    pt-br: Voo 17 da Malaysia Airlines
+    pt_br: Voo 17 da Malaysia Airlines
     ro: Zborul 17 al Malaysia Airlines
     ru: Рейс 17 Malaysia Airlines
     sah: Рейс 17 Malaysia Airlines
@@ -177,8 +177,8 @@ dv_has_:
     yue: 馬來西亞航空17號班機失事
     zea: Malaysia Airlines-vlucht 17
     zh: 马来西亚航空17号班机空难
-    zh-cn: 马来西亚航空17号班机空难
-    zh-hans: 马来西亚航空17号班机空难
+    zh_cn: 马来西亚航空17号班机空难
+    zh_hans: 马来西亚航空17号班机空难
 ---
 # [[2014-Shooting_of_Flight_MH17]] 
 

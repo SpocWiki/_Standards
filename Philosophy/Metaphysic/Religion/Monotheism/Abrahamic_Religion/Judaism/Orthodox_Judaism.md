@@ -75,7 +75,7 @@ dv_has_:
     ast: Xudaísmu ortodoxu
     az: Ortodoks yəhudilik
     be: Артадаксальны іўдаізм
-    be-tarask: артадаксальны юдаізм
+    be_tarask: артадаксальны юдаізм
     bg: ортодоксален юдаизъм
     br: Ortodoksiezh yuzev
     ca: judaisme ortodox
@@ -127,7 +127,7 @@ dv_has_:
     sk: Ortodoxný judaizmus
     sl: ortodoksno judovstvo
     sr: Ортодоксни јудаизам
-    sr-ec: Ортодоксни јудаизам
+    sr_ec: Ортодоксни јудаизам
     sv: ortodox judendom
     ta: மரபுவழி யூதம்
     tr: Ortodoks Yahudilik

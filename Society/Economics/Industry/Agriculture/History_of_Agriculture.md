@@ -80,7 +80,7 @@ dv_has_:
     ast: Historia de l'agricultura
     az: Kənd təsərrüfatı tarixi
     azb: اکینچیلیک تاریخی
-    be-tarask: гісторыя сельскай гаспадаркі
+    be_tarask: гісторыя сельскай гаспадаркі
     bn: কৃষিকাজের ইতিহাস
     ca: història de l'agricultura
     ckb: مێژووی وەرزێری
@@ -136,8 +136,8 @@ dv_has_:
     vi: Lịch sử nông nghiệp
     yue: 農業史
     zh: 农业史
-    zh-cn: 农业史
-    zh-hans: 农业史
+    zh_cn: 农业史
+    zh_hans: 农业史
 ---
 # [[History_of_Agriculture]] 
 

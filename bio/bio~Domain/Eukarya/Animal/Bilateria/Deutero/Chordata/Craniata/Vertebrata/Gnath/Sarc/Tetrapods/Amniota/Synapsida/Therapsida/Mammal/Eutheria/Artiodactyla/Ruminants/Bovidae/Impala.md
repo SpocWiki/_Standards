@@ -122,7 +122,7 @@ dv_has_:
     avk: putcudol
     az: İmpalalar
     ban: Impala
-    be-tarask: імпаля
+    be_tarask: імпаля
     bg: импала
     br: Impala
     ca: impala
@@ -133,8 +133,8 @@ dv_has_:
     de: Impala
     el: Ιμπάλα
     en: impala
-    en-ca: Impala
-    en-gb: Impala
+    en_ca: Impala
+    en_gb: Impala
     eo: Impalo
     es: Aepyceros melampus
     et: Impala
@@ -160,11 +160,11 @@ dv_has_:
     jv: Impala
     ka: იმპალა
     kk: Импала
-    kk-arab: ىيمپالا
+    kk_arab: ىيمپالا
     kk-cn: ىيمپالا
-    kk-cyrl: Импала
+    kk_cyrl: Импала
     kk-kz: Импала
-    kk-latn: Ïmpala
+    kk_latn: Ïmpala
     kk-tr: Ïmpala
     kn: ಇಂಪಾಲ
     ko: 임팔라
@@ -192,7 +192,7 @@ dv_has_:
     pl: impala zwyczajna
     pnb: امپالا
     pt: Impala
-    pt-br: Impala
+    pt_br: Impala
     ro: Impala
     ru: Импала
     rw: Impara
@@ -202,8 +202,8 @@ dv_has_:
     sn: Mhara
     sq: Aepyceros melampus
     sr: импала
-    sr-ec: Импала
-    sr-el: Impala
+    sr_ec: Импала
+    sr_el: Impala
     sv: Impala
     sw: Swala pala
     ta: ஆப்பிரிக்கச் சிறுமான்
@@ -219,12 +219,12 @@ dv_has_:
     wuu: 高角羚
     yue: 黑斑羚
     zh: 高角羚
-    zh-cn: 高角羚
-    zh-hans: 高角羚
-    zh-hant: 高角羚
-    zh-hk: 高角羚
-    zh-sg: 高角羚
-    zh-tw: 高角羚
+    zh_cn: 高角羚
+    zh_hans: 高角羚
+    zh_hant: 高角羚
+    zh_hk: 高角羚
+    zh_sg: 高角羚
+    zh_tw: 高角羚
 ---
 # [[Impala]] 
 

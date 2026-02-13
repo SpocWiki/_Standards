@@ -125,7 +125,7 @@ dv_has_:
     ban: Orangutan
     bcl: Orangutan
     be: Арангутаны
-    be-tarask: арангутан
+    be_tarask: арангутан
     bg: орангутани
     bjn: Uranghutan
     bn: বনমানুষ
@@ -231,8 +231,8 @@ dv_has_:
     xmf: ორანგუტანი
     yue: 紅毛猩猩
     zh: 猩猩屬
-    zh-cn: 猩猩属
-    zh-tw: 猩猩屬
+    zh_cn: 猩猩属
+    zh_tw: 猩猩屬
     zu: I-orengithengi
 ---
 # [[Orangutan]] 🦧 

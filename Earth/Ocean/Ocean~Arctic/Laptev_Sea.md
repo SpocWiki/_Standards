@@ -150,7 +150,7 @@ dv_has_:
     ba: Лаптевтар диңгеҙе
     bcl: Dagat Laptev
     be: Мора Лапцевых
-    be-tarask: Мора Лапцевых
+    be_tarask: Мора Лапцевых
     bg: Море Лаптеви
     bn: লাপ্তেভ সাগর
     br: Mor Laptev
@@ -164,8 +164,8 @@ dv_has_:
     de: Laptewsee
     el: Θάλασσα Λάπτεφ
     en: Laptev Sea
-    en-ca: Laptev Sea
-    en-gb: Laptev Sea
+    en_ca: Laptev Sea
+    en_gb: Laptev Sea
     eo: Lapteva Maro
     es: mar de Láptev
     et: Laptevite meri
@@ -215,7 +215,7 @@ dv_has_:
     pl: Morze Łaptiewów
     pnb: لیپٹف سمندر
     pt: Mar de Laptev
-    pt-br: Mar de Laptev
+    pt_br: Mar de Laptev
     ro: Marea Laptev
     ru: море Лаптевых
     sah: Лаптевтар байҕаллара
@@ -241,8 +241,8 @@ dv_has_:
     xmf: ლაპტევეფიშ ზუღა
     yue: 拉普捷夫海
     zh: 拉普捷夫海
-    zh-cn: 拉普捷夫海
-    zh-hant: 拉普提夫海
+    zh_cn: 拉普捷夫海
+    zh_hant: 拉普提夫海
 ---
 # [[Laptev_Sea]] 
 

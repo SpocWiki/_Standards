@@ -71,7 +71,7 @@ dv_has_:
     ast: estamentu
     ba: ҡатлам
     be: саслоўе
-    be-tarask: стан
+    be_tarask: стан
     bg: съсловие
     br: teir urzh ar gevredigezh
     ca: estament
@@ -79,11 +79,11 @@ dv_has_:
     cy: ystadau'r deyrnas
     da: stand
     de: Ständeordnung
-    de-ch: Ständeordnung
+    de_ch: Ständeordnung
     el: τάξεις
     en: estates of the realm
-    en-ca: estates of the realm
-    en-gb: estates of the realm
+    en_ca: estates of the realm
+    en_gb: estates of the realm
     eo: socia tavolo de Mezepoka Eŭropo
     es: estamento
     et: seisus
@@ -101,9 +101,9 @@ dv_has_:
     it: ceto sociale
     ja: 三身分
     kk: сословие
-    kk-arab: سوسلوۆىييە
-    kk-cyrl: сословие
-    kk-latn: soslovïye
+    kk_arab: سوسلوۆىييە
+    kk_cyrl: сословие
+    kk_latn: soslovïye
     ko: 중세 사회 계급
     la: status regni
     lb: Stand
@@ -114,7 +114,7 @@ dv_has_:
     oc: òrdre
     pl: stan
     pt: estamento
-    pt-br: estamento
+    pt_br: estamento
     ro: stare
     ru: сословие
     sk: stav
@@ -126,7 +126,7 @@ dv_has_:
     uk: суспільний стан
     yue: 國度層次
     zh: 王國議會
-    zh-hant: 王國議會
+    zh_hant: 王國議會
 ---
 # [[Estates_of_the_Realm]] 
 

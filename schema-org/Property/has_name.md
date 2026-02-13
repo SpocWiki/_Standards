@@ -223,7 +223,7 @@ dv_has_:
     bar: Nam
     bcl: Ngaran
     be: імя
-    be-tarask: імя
+    be_tarask: імя
     bew: Nama
     bg: име
     bho: नाँव
@@ -245,8 +245,8 @@ dv_has_:
     ee: Ŋkɔ
     el: ονομασία
     en: name
-    en-ca: name
-    en-gb: name
+    en_ca: name
+    en_gb: name
     en-us: name
     eo: nomo
     es: nombre
@@ -294,7 +294,7 @@ dv_has_:
     krj: ngaran
     ks: ناو
     ku: nav
-    ku-latn: nav
+    ku_latn: nav
     la: Nomen
     lb: Numm
     lfn: nom
@@ -307,7 +307,7 @@ dv_has_:
     mni: ꯃꯃꯤꯡ
     mr: नाव
     ms: nama
-    ms-arab: نام
+    ms_arab: نام
     my: အမည်
     myv: лем
     mzn: نوم
@@ -331,7 +331,7 @@ dv_has_:
     pnb: ناں
     ps: نوم
     pt: nome
-    pt-br: nome
+    pt_br: nome
     pwn: ngadan
     qu: Suti
     rmf: nau
@@ -354,7 +354,7 @@ dv_has_:
     sn: Zita
     sq: emri
     sr: име
-    sr-ec: име
+    sr_ec: име
     su: Ngaran
     sv: namn
     sw: jina
@@ -363,14 +363,14 @@ dv_has_:
     tay: lalu
     te: పేరు
     tg: ном
-    tg-cyrl: ном
+    tg_cyrl: ном
     th: ชื่อ
     tl: pangalan
     tok: nimi
     tr: ad
     tt: исем
-    tt-cyrl: исем
-    tt-latn: isem
+    tt_cyrl: исем
+    tt_latn: isem
     tw: Edin
     udm: ним
     uk: ім'я або назва
@@ -386,11 +386,11 @@ dv_has_:
     za: coh
     zea: naem
     zh: 名稱
-    zh-cn: 名字
-    zh-hans: 名字
-    zh-hant: 名稱
-    zh-hk: 名稱
-    zh-tw: 名稱
+    zh_cn: 名字
+    zh_hans: 名字
+    zh_hant: 名稱
+    zh_hk: 名稱
+    zh_tw: 名稱
   parent_:
     property: http://www.w3.org/2000/01/rdf-schema#label
   range: Text
@@ -450,6 +450,286 @@ has_range = `=this.dv_has_range`
 > for example, parents can give their child a name or a scientist can give an element a name.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Name) 
+
+## Multi-lingual Names 
+
+These Tags can be used to describe localized Names
+
+#has_/name_/ady
+#has_/name_/af
+#has_/name_/am
+#has_/name_/an
+#has_/name_/anp
+#has_/name_/ar
+#has_/name_/arc
+#has_/name_/ary
+#has_/name_/arz
+#has_/name_/as
+#has_/name_/ast
+#has_/name_/av
+#has_/name_/avk
+#has_/name_/awa
+#has_/name_/az
+#has_/name_/azb
+#has_/name_/ba
+#has_/name_/ban
+#has_/name_/bar
+#has_/name_/bcl
+#has_/name_/be
+#has_/name_/be_/tarask
+#has_/name_/bg
+#has_/name_/bho
+#has_/name_/bi
+#has_/name_/bjn
+#has_/name_/blk
+#has_/name_/bn
+#has_/name_/bo
+#has_/name_/br
+#has_/name_/bs
+#has_/name_/btm
+#has_/name_/bxr
+#has_/name_/ca
+#has_/name_/cbk
+#has_/name_/cbk_/zam
+#has_/name_/cdo
+#has_/name_/ce
+#has_/name_/ceb
+#has_/name_/chr
+#has_/name_/ckb
+#has_/name_/co
+#has_/name_/crh
+#has_/name_/cs
+#has_/name_/csb
+#has_/name_/cv
+#has_/name_/cy
+#has_/name_/da
+#has_/name_/de
+#has_/name_/de_/at
+#has_/name_/de_/de
+#has_/name_/de_/ch
+#has_/name_/din
+#has_/name_/diq
+#has_/name_/dsb
+#has_/name_/dtp
+#has_/name_/dv
+#has_/name_/el
+#has_/name_/eml
+#has_/name_/en
+#has_/name_/en_/ca
+#has_/name_/en_/gb
+#has_/name_/en_/us
+#has_/name_/eo
+#has_/name_/es
+#has_/name_/et
+#has_/name_/eu
+#has_/name_/ext
+#has_/name_/fa
+#has_/name_/fi
+#has_/name_/fj
+#has_/name_/fo
+#has_/name_/fr
+#has_/name_/frp
+#has_/name_/frr
+#has_/name_/fur
+#has_/name_/fy
+#has_/name_/ga
+#has_/name_/gan
+#has_/name_/gcr
+#has_/name_/gd
+#has_/name_/gl
+#has_/name_/glk
+#has_/name_/gn
+#has_/name_/gor
+#has_/name_/gpe
+#has_/name_/gsw
+#has_/name_/gu
+#has_/name_/guc
+#has_/name_/gv
+#has_/name_/ha
+#has_/name_/hak
+#has_/name_/haw
+#has_/name_/he
+#has_/name_/hi
+#has_/name_/hif
+#has_/name_/hr
+#has_/name_/hsb
+#has_/name_/ht
+#has_/name_/hu
+#has_/name_/hy
+#has_/name_/hyw
+#has_/name_/ia
+#has_/name_/iba
+#has_/name_/id
+#has_/name_/ie
+#has_/name_/ilo
+#has_/name_/inh
+#has_/name_/io
+#has_/name_/is
+#has_/name_/it
+#has_/name_/iu
+#has_/name_/ja
+#has_/name_/jam
+#has_/name_/jbo
+#has_/name_/jv
+#has_/name_/ka
+#has_/name_/kaa
+#has_/name_/kab
+#has_/name_/kbp
+#has_/name_/ki
+#has_/name_/kk
+#has_/name_/km
+#has_/name_/kn
+#has_/name_/knc
+#has_/name_/ko
+#has_/name_/ks
+#has_/name_/ku
+#has_/name_/kw
+#has_/name_/ky
+#has_/name_/la
+#has_/name_/lad
+#has_/name_/lb
+#has_/name_/lez
+#has_/name_/lfn
+#has_/name_/lg
+#has_/name_/li
+#has_/name_/lij
+#has_/name_/lld
+#has_/name_/lmo
+#has_/name_/ln
+#has_/name_/lo
+#has_/name_/lrc
+#has_/name_/lt
+#has_/name_/lv
+#has_/name_/lzh
+#has_/name_/mad
+#has_/name_/mag
+#has_/name_/mai
+#has_/name_/map_/bms
+#has_/name_/mdf
+#has_/name_/mg
+#has_/name_/mhr
+#has_/name_/mi
+#has_/name_/min
+#has_/name_/mk
+#has_/name_/ml
+#has_/name_/mn
+#has_/name_/mni
+#has_/name_/mr
+#has_/name_/ms
+#has_/name_/ms_/arab
+#has_/name_/mt
+#has_/name_/mwl
+#has_/name_/my
+#has_/name_/myv
+#has_/name_/mzn
+#has_/name_/nan
+#has_/name_/nb
+#has_/name_/nds
+#has_/name_/nds_/nl
+#has_/name_/ne
+#has_/name_/new
+#has_/name_/nl
+#has_/name_/nn
+#has_/name_/nov
+#has_/name_/nrm
+#has_/name_/nso
+#has_/name_/oc
+#has_/name_/om
+#has_/name_/or
+#has_/name_/os
+#has_/name_/pa
+#has_/name_/pap
+#has_/name_/pcd
+#has_/name_/pcm
+#has_/name_/pih
+#has_/name_/pl
+#has_/name_/pms
+#has_/name_/pnb
+#has_/name_/ps
+#has_/name_/pt
+#has_/name_/pt_/br
+#has_/name_/qu
+#has_/name_/rki
+#has_/name_/ro
+#has_/name_/ru
+#has_/name_/rue
+#has_/name_/rup
+#has_/name_/sa
+#has_/name_/sah
+#has_/name_/sc
+#has_/name_/scn
+#has_/name_/sco
+#has_/name_/sd
+#has_/name_/se
+#has_/name_/sgs
+#has_/name_/sh
+#has_/name_/shi
+#has_/name_/si
+#has_/name_/sk
+#has_/name_/skr
+#has_/name_/sl
+#has_/name_/sm
+#has_/name_/sma
+#has_/name_/smj
+#has_/name_/smn
+#has_/name_/sms
+#has_/name_/sn
+#has_/name_/so
+#has_/name_/sq
+#has_/name_/sr
+#has_/name_/ss
+#has_/name_/st
+#has_/name_/stq
+#has_/name_/su
+#has_/name_/sv
+#has_/name_/sw
+#has_/name_/szl
+#has_/name_/ta
+#has_/name_/tcy
+#has_/name_/te
+#has_/name_/tet
+#has_/name_/tg
+#has_/name_/th
+#has_/name_/tk
+#has_/name_/tl
+#has_/name_/tly
+#has_/name_/to
+#has_/name_/tok
+#has_/name_/tpi
+#has_/name_/tr
+#has_/name_/ts
+#has_/name_/tt
+#has_/name_/tum
+#has_/name_/udm
+#has_/name_/uk
+#has_/name_/ur
+#has_/name_/uz
+#has_/name_/vec
+#has_/name_/vep
+#has_/name_/vi
+#has_/name_/vo
+#has_/name_/vro
+#has_/name_/wa
+#has_/name_/war
+#has_/name_/wuu
+#has_/name_/xh
+#has_/name_/xmf
+#has_/name_/yi
+#has_/name_/yo
+#has_/name_/yue
+#has_/name_/za
+#has_/name_/zea
+#has_/name_/zgh
+#has_/name_/zh
+#has_/name_/zh_/cn
+#has_/name_/zh_/hans
+#has_/name_/zh_/hant
+#has_/name_/zh_/hk
+#has_/name_/zh_/mo
+#has_/name_/zh_/sg
+#has_/name_/zh_/tw
+#has_/name_/zu
+ 
 
 
 ## Confidential Links & Embeds: 

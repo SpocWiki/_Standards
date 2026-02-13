@@ -130,9 +130,9 @@ dv_has_:
     vi: Chữ A màu đỏ
     wuu: 红字
     zh: 红字
-    zh-hans: 红字
-    zh-hant: 紅字
-    zh-hk: 紅字
+    zh_hans: 红字
+    zh_hant: 紅字
+    zh_hk: 紅字
 ---
 # [[Scarlet_Letter]] 
 

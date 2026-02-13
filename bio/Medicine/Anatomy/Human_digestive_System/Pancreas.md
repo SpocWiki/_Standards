@@ -141,14 +141,14 @@ dv_has_:
     az: mədəaltı vəzi
     bcl: Lapay
     be: Падстраўнікавая залоза
-    be-tarask: падстраўнікавая залоза
+    be_tarask: падстраўнікавая залоза
     bg: Панкреас
     bn: অগ্ন্যাশয়
     bo: གཤེར་རྨེན་
     br: Ilgreiz
     bs: gušterača
     ca: pàncrees
-    cbk-zam: Pancreas
+    cbk_zam: Pancreas
     ckb: پەنکریاس
     cs: slinivka břišní
     cv: Хырăмлăх парĕ
@@ -158,8 +158,8 @@ dv_has_:
     dv: ޗިސްމޭ
     el: Πάγκρεας
     en: pancreas
-    en-ca: Pancreas
-    en-gb: pancreas
+    en_ca: Pancreas
+    en_gb: pancreas
     eo: pankreato
     es: páncreas
     et: kõhunääre
@@ -188,7 +188,7 @@ dv_has_:
     ka: პანკრეასი
     ki: Rwariũngũ
     kk: ұйқы безі
-    kk-latn: uyqı bezi
+    kk_latn: uyqı bezi
     kn: ಮೇದೋಜೀರಕಾಂಗ
     ko: 이자
     ks: لَبلَبہٕ
@@ -221,7 +221,7 @@ dv_has_:
     pnb: پینکریاز
     ps: پانکراس
     pt: pâncreas
-    pt-br: Pâncreas
+    pt_br: Pâncreas
     qu: Suyk'upin
     ro: pancreas
     ru: поджелудочная железа
@@ -239,7 +239,7 @@ dv_has_:
     so: Ganac
     sq: Pankreasi
     sr: Гуштерача
-    sr-ec: гуштерача
+    sr_ec: гуштерача
     su: Pankreas
     sv: bukspottkörtel
     sw: Kongosho
@@ -249,7 +249,7 @@ dv_has_:
     tl: Lapay
     tr: pankreas
     tt: ашказаны асты бизе
-    tt-latn: aškazany asty bize
+    tt_latn: aškazany asty bize
     udm: ӝушул нёред
     ug: پانكرېئاتىت
     uk: підшлункова залоза

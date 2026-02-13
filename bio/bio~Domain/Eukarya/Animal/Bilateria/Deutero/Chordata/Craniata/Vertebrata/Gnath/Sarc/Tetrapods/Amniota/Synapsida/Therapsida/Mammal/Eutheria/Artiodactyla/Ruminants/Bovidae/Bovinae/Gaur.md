@@ -92,7 +92,7 @@ dv_has_:
     avk: Dolavirol (Bos frontalis)
     az: Qaur
     be: Bibos gaurus
-    be-tarask: гаур
+    be_tarask: гаур
     bg: гаур
     bn: গৌর
     br: Gaur
@@ -127,11 +127,11 @@ dv_has_:
     ka: გაური
     kab: Agawer
     kk: Жабайы бұқа
-    kk-arab: جابايى بۇقا
+    kk_arab: جابايى بۇقا
     kk-cn: جابايى بۇقا
-    kk-cyrl: Жабайы бұқа
+    kk_cyrl: Жабайы бұқа
     kk-kz: Жабайы бұқа
-    kk-latn: Jabaýı buqa
+    kk_latn: Jabaýı buqa
     kk-tr: Jabaýı buqa
     kn: ಕಾಡುಕೋಣ
     ko: 인도들소
@@ -156,7 +156,7 @@ dv_has_:
     pl: Gaur indyjski
     pnb: گور
     pt: Gauro
-    pt-br: Bos gaurus
+    pt_br: Bos gaurus
     ro: Bos gaurus
     ru: Гаур
     sco: Gaur
@@ -164,8 +164,8 @@ dv_has_:
     sl: indijski bizon
     sq: Bos gaurus
     sr: гаур
-    sr-ec: Гаур
-    sr-el: Gaur
+    sr_ec: Гаур
+    sr_el: Gaur
     sv: gaur
     ta: கடமா
     th: กระทิง
@@ -181,12 +181,12 @@ dv_has_:
     wuu: 印度野牛
     yue: 印度野牛
     zh: 印度野牛
-    zh-cn: 印度野牛
-    zh-hans: 印度野牛
-    zh-hant: 印度野牛
-    zh-hk: 印度野牛
-    zh-sg: 印度野牛
-    zh-tw: 印度野牛
+    zh_cn: 印度野牛
+    zh_hans: 印度野牛
+    zh_hant: 印度野牛
+    zh_hk: 印度野牛
+    zh_sg: 印度野牛
+    zh_tw: 印度野牛
 ---
 # [[Gaur]] 
 

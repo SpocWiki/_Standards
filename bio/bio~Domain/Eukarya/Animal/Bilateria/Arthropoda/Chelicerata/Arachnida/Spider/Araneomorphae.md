@@ -77,7 +77,7 @@ dv_has_:
     oc: Araneomorphae
     pl: Araneomorphae
     pt: Araneomorphae
-    pt-br: Araneomorphae
+    pt_br: Araneomorphae
     ro: Araneomorphae
     ru: аранеоморфные пауки
     sco: Araneomorphae
@@ -92,10 +92,10 @@ dv_has_:
     vo: Araneomorphae
     war: Araneomorphae
     zh: 新蛛下目
-    zh-cn: 新蛛下目
-    zh-hans: 新蛛下目
-    zh-hant: 新蛛亞目
-    zh-tw: 新蛛下目
+    zh_cn: 新蛛下目
+    zh_hans: 新蛛下目
+    zh_hant: 新蛛亞目
+    zh_tw: 新蛛下目
 ---
 # [[Araneomorphae]] 
 ![ ](Araneomorphae/Dysdera_crocata.jpg) 

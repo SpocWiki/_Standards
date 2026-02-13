@@ -31,7 +31,7 @@ dv_has_:
     oc: Eurypauropodidae
     pl: Eurypauropodidae
     pt: Eurypauropodidae
-    pt-br: Eurypauropodidae
+    pt_br: Eurypauropodidae
     ro: Eurypauropodidae
     ru: Eurypauropodidae
     sq: Eurypauropodidae
@@ -42,9 +42,9 @@ dv_has_:
     vo: Eurypauropodidae
     war: Eurypauropodidae
     zh: 广少足科
-    zh-cn: 广少足科
-    zh-hans: 广少足科
-    zh-tw: 广少足科
+    zh_cn: 广少足科
+    zh_hans: 广少足科
+    zh_tw: 广少足科
 ---
 # [[Eurypauropodidae]] 
 

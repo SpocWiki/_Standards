@@ -123,7 +123,7 @@ dv_has_:
     ban: Macchu Picchu
     bcl: Machu Picchu
     be: Мачу-Пікчу
-    be-tarask: Мачу-Пікчу
+    be_tarask: Мачу-Пікчу
     bg: Мачу Пикчу
     bn: মাচু পিচু
     bo: མ་ཆོ་པེ་ཆོ།
@@ -135,13 +135,13 @@ dv_has_:
     cy: Machu Picchu
     da: Machu Picchu
     de: Machu Picchu
-    de-ch: Machu Picchu
+    de_ch: Machu Picchu
     diq: Machu Picchu
     dv: މާޗޫ ޕީކްޗޫ
     el: Μάτσου Πίτσου
     en: Machu Picchu
-    en-ca: Machu Picchu
-    en-gb: Machu Picchu
+    en_ca: Machu Picchu
+    en_gb: Machu Picchu
     en-us: Machu Picchu
     eo: Maĉupikĉuo
     es: Machu Picchu
@@ -194,7 +194,7 @@ dv_has_:
     nah: Machu Picchu
     nan: Machu Picchu
     nb: Machu Picchu
-    nds-nl: Machu Picchu
+    nds_nl: Machu Picchu
     ne: माचू पिचू
     nl: Machu Picchu
     nn: Machu Picchu
@@ -206,7 +206,7 @@ dv_has_:
     pnb: ماچو پچو
     ps: ماچو پيچو
     pt: Machu Picchu
-    pt-br: Machu Picchu
+    pt_br: Machu Picchu
     qu: Machu Pikchu
     rm: Machu Picchu
     ro: Machu Picchu
@@ -246,7 +246,7 @@ dv_has_:
     zea: Machu Picchu
     zgh: ⵎⴰⵜⵛⵓ ⴱⵉⵜⵛⵓ
     zh: 馬丘比丘
-    zh-hant: 馬丘比丘
+    zh_hant: 馬丘比丘
 ---
 # [[Machu_Picchu]] 
 

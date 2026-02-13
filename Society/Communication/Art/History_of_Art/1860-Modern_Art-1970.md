@@ -84,7 +84,7 @@ dv_has_:
     arz: فن حديث
     ast: Arte moderno
     be: мастацтва эпохі мадэрну
-    be-tarask: мадэрновае мастацтва
+    be_tarask: мадэрновае мастацтва
     bg: Модерно изкуство
     bn: আধুনিক শিল্পকলা
     br: arz modern
@@ -120,7 +120,7 @@ dv_has_:
     lv: modernā māksla
     mk: модерна уметност
     ms: seni moden
-    ms-arab: سني مودن
+    ms_arab: سني مودن
     mt: arti moderna
     mzn: مدرن آرت
     nb: moderne kunst
@@ -139,7 +139,7 @@ dv_has_:
     sl: moderna umetnost
     smn: tááláštaaiđâ
     sr: Модерна уметност
-    sr-ec: мордерна уметност
+    sr_ec: мордерна уметност
     sv: modern konst
     ta: புத்தியல் ஓவியம்
     te: ఆధునిక చిత్రకళ
@@ -150,8 +150,8 @@ dv_has_:
     wuu: 现代艺术
     yue: 現代藝術
     zh: 现代艺术
-    zh-hant: 現代藝術
-    zh-hk: 現代藝術
+    zh_hant: 現代藝術
+    zh_hk: 現代藝術
 ---
 # [[1860-Modern_Art-1970]] 
 

@@ -40,7 +40,7 @@ dv_has_:
     oc: Euscorpiidae
     pl: Euscorpiidae
     pt: Euscorpiidae
-    pt-br: Euscorpiidae
+    pt_br: Euscorpiidae
     ro: Euscorpiidae
     ru: Euscorpiidae
     sq: Euscorpiidae
@@ -50,9 +50,9 @@ dv_has_:
     vo: Euscorpiidae
     war: Euscorpiidae
     zh: 真蝎科
-    zh-cn: 真蝎科
-    zh-hans: 真蝎科
-    zh-tw: 真蠍科
+    zh_cn: 真蝎科
+    zh_hans: 真蝎科
+    zh_tw: 真蠍科
 ---
 # [[Euscorpiidae]] 
 

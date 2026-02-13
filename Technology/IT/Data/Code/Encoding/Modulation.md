@@ -80,7 +80,7 @@ dv_has_:
   name_:
     ar: تضمين
     be: мадуляцыя
-    be-tarask: мадуляцыя
+    be_tarask: мадуляцыя
     bg: Модулация
     bn: মড্যুলেশন
     ca: modulació
@@ -107,11 +107,11 @@ dv_has_:
     it: modulazione
     ja: 変調方式
     kk: Автомодуляция
-    kk-arab: اۆتومودۋلياتسىييا
+    kk_arab: اۆتومودۋلياتسىييا
     kk-cn: اۆتومودۋلياتسىييا
-    kk-cyrl: Автомодуляция
+    kk_cyrl: Автомодуляция
     kk-kz: Автомодуляция
-    kk-latn: Avtomodwlyacïya
+    kk_latn: Avtomodwlyacïya
     kk-tr: Avtomodwlyacïya
     ko: 변조
     ky: Модуляция
@@ -121,7 +121,7 @@ dv_has_:
     mk: Модулација
     ml: മോഡുലേഷൻ
     ms: suai tala
-    ms-arab: سواي تالا
+    ms_arab: سواي تالا
     my: မော်ဒျူလေးရှင်း
     nan: Piàn-tiāu (tiān-sìn)
     nb: modulasjon
@@ -141,8 +141,8 @@ dv_has_:
     smn: modulaatio
     sms: modulaatio
     sr: Модулација
-    sr-ec: модулација
-    sr-el: modulacija
+    sr_ec: модулација
+    sr_el: modulacija
     su: Modulasi
     sv: modulation
     ta: குறிப்பேற்றம்
@@ -155,12 +155,12 @@ dv_has_:
     wuu: 调制
     yue: 調制
     zh: 調變
-    zh-cn: 调制
-    zh-hans: 调制
-    zh-hant: 調變
-    zh-hk: 調變
-    zh-sg: 调制
-    zh-tw: 調變
+    zh_cn: 调制
+    zh_hans: 调制
+    zh_hant: 調變
+    zh_hk: 調變
+    zh_sg: 调制
+    zh_tw: 調變
 ---
 # [[Modulation]] 
 

@@ -170,7 +170,7 @@ dv_has_:
     ba: Нәҙек эсәк
     bcl: Sadit na bituka
     be: тонкі кішэчнік
-    be-tarask: тонкая кішка
+    be_tarask: тонкая кішка
     bg: Тънко черво
     bn: ক্ষুদ্রান্ত্র
     br: Bouzellenn voan
@@ -266,8 +266,8 @@ dv_has_:
     so: Mindhicirka yar
     sq: Zorrët e holla
     sr: танко црево
-    sr-ec: танко црево
-    sr-el: tanko crevo
+    sr_ec: танко црево
+    sr_el: tanko crevo
     sv: tunntarm
     sw: Utumbo mwembamba
     ta: சிறுகுடல்
@@ -289,9 +289,9 @@ dv_has_:
     yue: 小腸
     za: Saejlwg
     zh: 小肠
-    zh-hans: 小肠
-    zh-hant: 小腸
-    zh-tw: 小腸
+    zh_hans: 小肠
+    zh_hant: 小腸
+    zh_tw: 小腸
 ---
 # [[Small_Intestine]] 
 

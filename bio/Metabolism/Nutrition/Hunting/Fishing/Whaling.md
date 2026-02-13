@@ -85,7 +85,7 @@ dv_has_:
     ast: Caza de ballenes
     az: Balina ovu
     ba: Кит аулау кәсебе
-    be-tarask: паляваньне на кітоў
+    be_tarask: паляваньне на кітоў
     bg: Лов на китове
     bn: তিমি শিকার
     bs: Lov na kitove
@@ -95,11 +95,11 @@ dv_has_:
     cv: кит тытас ӗҫ
     da: Hvalfangst
     de: Walfang
-    de-ch: Walfang
+    de_ch: Walfang
     el: φαλαινοθηρία
     en: whaling
-    en-ca: Whaling
-    en-gb: whaling
+    en_ca: Whaling
+    en_gb: whaling
     en-us: whaling
     eo: balenkaptado
     es: caza de ballenas
@@ -134,7 +134,7 @@ dv_has_:
     pl: wielorybnictwo
     ps: نهنګ ښکار
     pt: baleação
-    pt-br: Baleação
+    pt_br: Baleação
     ro: vânătoare de balene
     ru: китобойный промысел
     se: fálesbivdu
@@ -142,7 +142,7 @@ dv_has_:
     sl: kitolov
     smn: välispivdo
     sr: Китолов
-    sr-ec: китолов
+    sr_ec: китолов
     sv: valfångst
     ta: திமிங்கில வேட்டை
     tr: balina avcılığı

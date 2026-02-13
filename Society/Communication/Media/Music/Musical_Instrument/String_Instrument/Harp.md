@@ -101,7 +101,7 @@ dv_has_:
     ast: arpa
     az: Arfa
     be: арфа
-    be-tarask: арфа
+    be_tarask: арфа
     bew: Arpa
     bg: арфа
     br: Telenn
@@ -192,7 +192,7 @@ dv_has_:
     xal: Ятх
     yue: 豎琴
     zh: 豎琴
-    zh-hant: 豎琴
+    zh_hant: 豎琴
 ---
 # [[Harp]] 🪉 
 

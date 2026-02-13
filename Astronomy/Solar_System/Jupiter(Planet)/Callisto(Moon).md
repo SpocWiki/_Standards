@@ -115,7 +115,7 @@ dv_has_:
     azb: کالیستو
     ba: Каллисто
     be: Каліста
-    be-tarask: Каліста
+    be_tarask: Каліста
     bg: Калисто
     bn: ক্যালিস্টো
     br: Kallisto
@@ -130,11 +130,11 @@ dv_has_:
     cy: Callisto
     da: Callisto
     de: Kallisto
-    de-ch: Kallisto
+    de_ch: Kallisto
     el: Καλλιστώ
     en: Callisto
-    en-ca: Callisto
-    en-gb: Callisto
+    en_ca: Callisto
+    en_gb: Callisto
     eo: Kalisto
     es: Calisto
     et: Callisto
@@ -184,7 +184,7 @@ dv_has_:
     pl: Kallisto
     pnb: کالسٹو
     pt: Calisto
-    pt-br: Calisto
+    pt_br: Calisto
     ro: Callisto
     ru: Каллисто
     scn: Callistu

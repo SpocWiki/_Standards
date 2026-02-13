@@ -122,7 +122,7 @@ dv_has_:
     az: geodeziya
     ba: геодезия
     be: геадэзія
-    be-tarask: геадэзія
+    be_tarask: геадэзія
     bg: геодезия
     bn: ভূগণিত
     bs: Geodezija
@@ -135,11 +135,11 @@ dv_has_:
     cy: Geodedd
     da: geodæsi
     de: Geodäsie
-    de-ch: Geodäsie
+    de_ch: Geodäsie
     el: γεωδαισία
     en: geodesy
-    en-ca: geodesy
-    en-gb: geodesy
+    en_ca: geodesy
+    en_gb: geodesy
     eo: geodezio
     es: geodesia
     et: geodeesia
@@ -161,11 +161,11 @@ dv_has_:
     jv: geodesi
     ka: გეოდეზია
     kk: геодезия
-    kk-arab: گەودەزىييا
+    kk_arab: گەودەزىييا
     kk-cn: گەودەزىييا
-    kk-cyrl: геодезия
+    kk_cyrl: геодезия
     kk-kz: геодезия
-    kk-latn: geodezïya
+    kk_latn: geodezïya
     kk-tr: geodezïya
     ko: 측지학
     ky: геодезия
@@ -186,7 +186,7 @@ dv_has_:
     pl: geodezja
     ps: ځمکسنجي
     pt: geodesia
-    pt-br: geodésia
+    pt_br: geodésia
     ro: geodezie
     ru: геодезия
     sc: geodesia
@@ -204,8 +204,8 @@ dv_has_:
     sn: jekanyika
     sq: gjeodezia
     sr: геодезија
-    sr-ec: геодезија
-    sr-el: geodezija
+    sr_ec: геодезија
+    sr_el: geodezija
     sv: geodesi
     sw: Jiodesia
     tg: заминсанҷӣ
@@ -224,12 +224,12 @@ dv_has_:
     yi: געאדעזיע
     yue: 測地學
     zh: 大地测量学
-    zh-cn: 大地测量学
-    zh-hans: 大地测量学
-    zh-hant: 大地測量學
-    zh-hk: 大地測量學
-    zh-sg: 大地测量学
-    zh-tw: 大地測量學
+    zh_cn: 大地测量学
+    zh_hans: 大地测量学
+    zh_hant: 大地測量學
+    zh_hk: 大地測量學
+    zh_sg: 大地测量学
+    zh_tw: 大地測量學
 ---
 # [[Geodesy]] 
 

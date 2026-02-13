@@ -35,7 +35,7 @@ dv_has_:
     ar: نظرية الحقول الفصلية
     ast: Teoría de cuerpos de clases
     be: тэорыя палей класаў
-    be-tarask: тэорыя палёў клясаў
+    be_tarask: тэорыя палёў клясаў
     ca: teoria de cossos de classes
     cs: teorie třídových těles
     de: Klassenkörpertheorie

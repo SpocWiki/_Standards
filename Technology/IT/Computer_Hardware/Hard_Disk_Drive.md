@@ -170,13 +170,13 @@ dv_has_:
     azb: ثابیت دیسک
     ba: Ҡаты диск
     be: Цвёрды дыск
-    be-tarask: Цьвёрды дыск
+    be_tarask: Цьвёрды дыск
     bg: Твърд диск
     bn: হার্ড ডিস্ক ড্রাইভ
     br: Pladenn galet
     bs: tvrdi disk
     ca: disc dur
-    cbk-zam: disco duro
+    cbk_zam: disco duro
     ceb: diskong gahi
     ckb: وەگەڕخەری دیسکی ڕەق
     crh: Qattı disk
@@ -188,8 +188,8 @@ dv_has_:
     diq: Hard disk
     el: Σκληρός δίσκος
     en: hard disk
-    en-ca: hard disk drive
-    en-gb: hard disk drive
+    en_ca: hard disk drive
+    en_gb: hard disk drive
     eo: diskaparato
     es: disco duro
     et: Kõvaketas
@@ -225,7 +225,7 @@ dv_has_:
     kn: ಹಾರ್ಡ್ ಡಿಸ್ಕ್ ಡ್ರೈವ್
     ko: 하드 디스크 드라이브
     ku: Hard dîsk
-    ku-latn: Hard dîsk
+    ku_latn: Hard dîsk
     kv: Зумыд диск
     ky: Катуу диск
     la: Discus fixus
@@ -275,8 +275,8 @@ dv_has_:
     so: Xusuusta moohaarka kasjilka
     sq: Hard disk
     sr: хард-диск
-    sr-ec: хард-диск
-    sr-el: hard-disk
+    sr_ec: хард-диск
+    sr_el: hard-disk
     su: Hardisk
     sv: hårddisk
     sw: Kiendeshi diski kuu
@@ -299,14 +299,14 @@ dv_has_:
     yi: האַרטער דיסק
     yue: 硬碟
     zh: 硬盘
-    zh-cn: 硬盘
-    zh-hans: 硬盘
-    zh-hant: 硬碟
-    zh-hk: 硬碟
-    zh-mo: 硬碟
+    zh_cn: 硬盘
+    zh_hans: 硬盘
+    zh_hant: 硬碟
+    zh_hk: 硬碟
+    zh_mo: 硬碟
     zh-my: 硬盘
-    zh-sg: 硬盘
-    zh-tw: 硬碟
+    zh_sg: 硬盘
+    zh_tw: 硬碟
 ---
 # [[Hard_Disk_Drive]] 🖴 
 

@@ -86,7 +86,7 @@ dv_has_:
     ast: Ritmu
     az: Ritm
     be: Рытм (музыка)
-    be-tarask: рытм
+    be_tarask: рытм
     bg: Ритъм
     bs: Ritam
     ca: ritme
@@ -122,8 +122,8 @@ dv_has_:
     kk: ырғақ
     ko: 리듬
     ku: Rîtm
-    ku-arab: ریتم
-    ku-latn: Rîtm
+    ku_arab: ریتم
+    ku_latn: Rîtm
     ky: ритм
     la: Rhythmus
     lij: Ritmo
@@ -151,7 +151,7 @@ dv_has_:
     sk: Rytmus
     sl: ritem
     sr: ритам
-    sr-ec: ритам
+    sr_ec: ритам
     sv: rytm
     te: లయ
     th: จังหวะ
@@ -166,12 +166,12 @@ dv_has_:
     xmf: რიტმი
     yue: 節奏
     zh: 节奏
-    zh-cn: 节奏
-    zh-hans: 节奏
-    zh-hant: 節奏
-    zh-hk: 節奏
-    zh-sg: 节奏
-    zh-tw: 節奏
+    zh_cn: 节奏
+    zh_hans: 节奏
+    zh_hant: 節奏
+    zh_hk: 節奏
+    zh_sg: 节奏
+    zh_tw: 節奏
 ---
 # [[Rhythm]] 
 

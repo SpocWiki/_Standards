@@ -37,7 +37,7 @@ dv_has_:
     nn: Chris Sarandon
     pl: Chris Sarandon
     pt: Chris Sarandon
-    pt-br: Chris Sarandon
+    pt_br: Chris Sarandon
     ru: Крис Сарандон
     sl: Chris Sarandon
     sq: Chris Sarandon
@@ -46,9 +46,9 @@ dv_has_:
     tl: Chris Sarandon
     tr: Chris Sarandon
     zh: 克里斯·薩蘭登
-    zh-cn: 克里斯·萨兰登
-    zh-hans: 克里斯·萨兰登
-    zh-hant: 克里斯·薩蘭登
+    zh_cn: 克里斯·萨兰登
+    zh_hans: 克里斯·萨兰登
+    zh_hant: 克里斯·薩蘭登
 aliases:
 - Chris Sarandon
 - Κρις Σαράντον

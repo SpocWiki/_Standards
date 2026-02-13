@@ -202,7 +202,7 @@ dv_has_:
     azb: ژان ژاک روسو
     ba: Жан-Жак Руссо
     be: Жан-Жак Русо
-    be-tarask: Жан-Жак Русо
+    be_tarask: Жан-Жак Русо
     bg: Жан-Жак Русо
     bn: জঁ-জাক রুসো
     bo: བཞང་བཞའ་ཀོ་ཝོའུ་སོ་
@@ -220,12 +220,12 @@ dv_has_:
     cy: Jean-Jacques Rousseau
     da: Jean-Jacques Rousseau
     de: Jean-Jacques Rousseau
-    de-ch: Jean-Jacques Rousseau
+    de_ch: Jean-Jacques Rousseau
     diq: Jean-Jacques Rousseau
     el: Ζαν Ζακ Ρουσσώ
     en: Jean-Jacques Rousseau
-    en-ca: Jean-Jacques Rousseau
-    en-gb: Jean-Jacques Rousseau
+    en_ca: Jean-Jacques Rousseau
+    en_gb: Jean-Jacques Rousseau
     en-us: Jean-Jacques Rousseau
     eo: Jean-Jacques Rousseau
     es: Jean-Jacques Rousseau
@@ -294,7 +294,7 @@ dv_has_:
     nan: Jean-Jacques Rousseau
     nb: Jean-Jacques Rousseau
     nds: Jean-Jacques Rousseau
-    nds-nl: Jean-Jacques Rousseau
+    nds_nl: Jean-Jacques Rousseau
     ne: जिन ज्याक्स रुसो
     nl: Jean-Jacques Rousseau
     nn: Jean-Jacques Rousseau
@@ -354,7 +354,7 @@ dv_has_:
     yue: 盧梭
     zgh: ⵊⴰⵏ ⵊⴰⴽ ⵔⵓⵙⵓ
     zh: 让-雅克·卢梭
-    zh-tw: 讓-雅克·盧梭
+    zh_tw: 讓-雅克·盧梭
 ---
 #has_/time_/started :: 1712-06-28 
 #has_/time_/stopped  :: 1778-07-02 

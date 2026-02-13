@@ -8,7 +8,7 @@ dv_has_:
     ast: Asphodelaceae
     az: Asfodelinakimilər
     be: Асфадэлавыя
-    be-tarask: Асфадэлявыя
+    be_tarask: Асфадэлявыя
     bg: асфоделови
     bs: Asphodelaceae
     ca: Asphodelaceae
@@ -48,7 +48,7 @@ dv_has_:
     oc: Asphodelaceae
     pl: Asphodelaceae
     pt: Asphodelaceae
-    pt-br: Asphodelaceae
+    pt_br: Asphodelaceae
     ro: Asphodelaceae
     ru: асфоделовые
     sh: Asphodelaceae
@@ -62,9 +62,9 @@ dv_has_:
     vo: Asphodelaceae
     war: Asphodelaceae
     zh: 阿福花科
-    zh-cn: 阿福花科
-    zh-hans: 阿福花科
-    zh-tw: 阿福花科
+    zh_cn: 阿福花科
+    zh_hans: 阿福花科
+    zh_tw: 阿福花科
 aliases:
 - Aalwynfamilie
 - Affodil-familien

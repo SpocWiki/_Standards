@@ -253,7 +253,7 @@ dv_has_:
     ban: Galiléo Galiléi
     bar: Galileo Galilei
     be: Галілеа Галілей
-    be-tarask: Галілео Галілей
+    be_tarask: Галілео Галілей
     bew: Galilèo Galilèi
     bg: Галилео Галилей
     bi: Galileo Galilei
@@ -339,7 +339,7 @@ dv_has_:
     pnb: گلیلیو گلیلی
     ps: ګاليليو ګاليلی
     pt: Galileu Galilei
-    pt-br: Galileu Galilei
+    pt_br: Galileu Galilei
     qu: Galileo Galilei
     rki: ဂယ်လီလီယို ဂယ်လီလဲအီ
     ro: Galileo Galilei
@@ -356,7 +356,7 @@ dv_has_:
     skr: گیلیلیو
     sl: Galileo Galilei
     sr: Галилео Галилеј
-    sr-ec: Галилео Галилеј
+    sr_ec: Галилео Галилеј
     sv: Galileo Galilei
     szy: Ciyalilu.ciyalilay
     ta: கலீலியோ கலிலி
@@ -382,7 +382,7 @@ dv_has_:
     zea: Galileo Galilei
     zgh: ⴳⴰⵍⵉⵍⵢⵓ ⴳⴰⵍⵉⵍⵉ
     zh: 伽利略·伽利莱
-    zh-hans: 伽利略·伽利莱
+    zh_hans: 伽利略·伽利莱
 ---
 # [[Galilei,Galileo]] 
 

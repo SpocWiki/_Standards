@@ -44,7 +44,7 @@ dv_has_:
     oc: Bacilli
     pl: Bacilli
     pt: Bacilli
-    pt-br: Bacilli
+    pt_br: Bacilli
     ro: Bacilli
     ru: бациллы
     sco: Bacilli
@@ -59,12 +59,12 @@ dv_has_:
     vo: Bacilli
     war: Bacilli
     zh: 芽孢桿菌綱
-    zh-cn: 芽孢杆菌纲
-    zh-hans: 芽孢杆菌纲
-    zh-hant: 芽孢桿菌綱
-    zh-hk: 芽孢桿菌綱
-    zh-sg: 芽孢杆菌纲
-    zh-tw: 芽孢桿菌綱
+    zh_cn: 芽孢杆菌纲
+    zh_hans: 芽孢杆菌纲
+    zh_hant: 芽孢桿菌綱
+    zh_hk: 芽孢桿菌綱
+    zh_sg: 芽孢杆菌纲
+    zh_tw: 芽孢桿菌綱
 aliases:
 - Bacil
 - Bacillen

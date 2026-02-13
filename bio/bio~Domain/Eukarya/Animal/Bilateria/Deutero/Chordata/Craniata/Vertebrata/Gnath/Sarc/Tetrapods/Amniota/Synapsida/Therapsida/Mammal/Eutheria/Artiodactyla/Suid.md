@@ -80,7 +80,7 @@ dv_has_:
     ba: Сусҡалар
     ban: Suidae
     be: свінні
-    be-tarask: сьвіньні
+    be_tarask: сьвіньні
     bg: свиневи
     br: Hoc'heged
     ca: súids
@@ -134,7 +134,7 @@ dv_has_:
     pl: Świniowate
     pnb: سور ٹبر
     pt: Suidae
-    pt-br: Suidae
+    pt_br: Suidae
     ro: Suide
     ru: свиные
     sah: Сибиинньэлэр кэргэннэрэ
@@ -144,8 +144,8 @@ dv_has_:
     sl: prašiči
     sq: Suidët
     sr: Суидае
-    sr-ec: Суидае
-    sr-el: Suidae
+    sr_ec: Суидае
+    sr_el: Suidae
     sv: Svindjur
     te: సూయిడే
     tl: Suidae
@@ -163,12 +163,12 @@ dv_has_:
     xal: Һаха
     yue: 豬科
     zh: 猪科
-    zh-cn: 猪科
-    zh-hans: 猪科
-    zh-hant: 豬科
-    zh-hk: 豬科
-    zh-sg: 猪科
-    zh-tw: 豬科
+    zh_cn: 猪科
+    zh_hans: 猪科
+    zh_hant: 豬科
+    zh_hk: 豬科
+    zh_sg: 猪科
+    zh_tw: 豬科
 ---
 # [[Suid]]
 

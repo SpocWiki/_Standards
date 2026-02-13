@@ -72,7 +72,7 @@ dv_has_:
     ast: teoría de la computación
     az: alqoritmlər nəzəriyyəsi
     be: тэорыя алгарытмаў
-    be-tarask: тэорыя альгарытмаў
+    be_tarask: тэорыя альгарытмаў
     bs: teorija računanja
     ca: teoria de la computació
     cs: teorie algoritmů
@@ -105,18 +105,18 @@ dv_has_:
     pl: teoria obliczeń
     ps: د محاسبې تیوري
     pt: teoria da computação
-    pt-br: teoria da computação
+    pt_br: teoria da computação
     ro: teoria calculabilității
     ru: теория алгоритмов
     sh: teorija računanja
     sk: teória algoritmov
     sl: teorija računanja
     sr: теорија израчунљивости
-    sr-ec: теорија израчунљивости
-    sr-el: teorija izračunljivosti
+    sr_ec: теорија израчунљивости
+    sr_el: teorija izračunljivosti
     sv: beräkningsteori
     tg: назарияи автоматҳо
-    tg-latn: nazarijai avtomatho
+    tg_latn: nazarijai avtomatho
     th: ทฤษฎีการคำนวณ
     tl: teoriya ng komputasyon
     tr: algoritmalar teorisi
@@ -125,9 +125,9 @@ dv_has_:
     vec: teoria de ła conputasion
     yue: 運算理論
     zh: 计算理论
-    zh-hans: 计算理论
-    zh-hant: 計算理論
-    zh-hk: 計算理論
+    zh_hans: 计算理论
+    zh_hant: 計算理論
+    zh_hk: 計算理論
 ---
 # [[Theory_of_Computation]] 
 

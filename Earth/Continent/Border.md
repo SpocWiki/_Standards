@@ -163,7 +163,7 @@ dv_has_:
     azb: دؤولت سرحدی
     ba: Дәүләт сиге
     be: мяжа
-    be-tarask: граніца
+    be_tarask: граніца
     bg: граница
     bn: সীমানা
     bpy: ফ্রোনটেইরা
@@ -207,11 +207,11 @@ dv_has_:
     ka: სახელმწიფო საზღვარი
     kaa: Ma'mleketlik shegara
     kk: Мемлекеттік шекара
-    kk-arab: مەملەكەتتىك شەكارا
+    kk_arab: مەملەكەتتىك شەكارا
     kk-cn: مەملەكەتتىك شەكارا
-    kk-cyrl: Мемлекеттік шекара
+    kk_cyrl: Мемлекеттік шекара
     kk-kz: Мемлекеттік шекара
-    kk-latn: Memlekettik şekara
+    kk_latn: Memlekettik şekara
     kk-tr: Memlekettik şekara
     kn: ಗಡಿ
     ko: 경계
@@ -239,7 +239,7 @@ dv_has_:
     pnb: سرحد
     ps: سرحد
     pt: fronteira
-    pt-br: contorno
+    pt_br: contorno
     qu: Saywa
     ro: graniță
     ru: граница географическая
@@ -259,8 +259,8 @@ dv_has_:
     sms: raajj
     sq: kufi
     sr: граница
-    sr-ec: граница
-    sr-el: granica
+    sr_ec: граница
+    sr_el: granica
     sv: gräns
     sw: Mpaka
     ta: எல்லைக்கோடு
@@ -268,7 +268,7 @@ dv_has_:
     th: เขตแดน
     tr: sınır
     tt: географик чик
-    tt-cyrl: географик чик
+    tt_cyrl: географик чик
     uk: кордон
     ur: سرحد
     uz: Davlat chegarasi
@@ -283,14 +283,14 @@ dv_has_:
     yo: ibodè
     yue: 邊界
     zh: 边界
-    zh-cn: 边界
-    zh-hans: 边界
-    zh-hant: 邊界
-    zh-hk: 邊界
-    zh-mo: 邊界
+    zh_cn: 边界
+    zh_hans: 边界
+    zh_hant: 邊界
+    zh_hk: 邊界
+    zh_mo: 邊界
     zh-my: 边界
-    zh-sg: 边界
-    zh-tw: 邊界
+    zh_sg: 边界
+    zh_tw: 邊界
 ---
 # [[Border]] 
 

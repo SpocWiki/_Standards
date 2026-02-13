@@ -179,7 +179,7 @@ dv_has_:
     ast: Sexismundu de Luxemburgu
     ba: Сигизмунд
     be: Жыгімонт I Люксембургскі
-    be-tarask: Жыгімонт Люксэмбурскі
+    be_tarask: Жыгімонт Люксэмбурскі
     bg: Сигизмунд Люксембургски
     bs: Sigismund, car Svetog rimskog carstva
     ca: Segimon I del Sacre Imperi Romanogermànic
@@ -189,8 +189,8 @@ dv_has_:
     de: Sigismund
     el: Σιγισμούνδος της Αγίας Ρωμαϊκής Αυτοκρατορίας
     en: Sigismund
-    en-ca: Sigismund
-    en-gb: Sigismund
+    en_ca: Sigismund
+    en_gb: Sigismund
     eo: Sigismondo de Luksemburgo
     es: Segismundo de Luxemburgo
     et: Sigismund
@@ -225,7 +225,7 @@ dv_has_:
     nn: Sigismund av Det tysk-romerske riket
     pl: Zygmunt Luksemburski
     pt: Sigismundo, Sacro Imperador Romano-Germânico
-    pt-br: Sigismundo, Sacro Imperador Romano-Germânico
+    pt_br: Sigismundo, Sacro Imperador Romano-Germânico
     ro: Sigismund de Luxemburg
     ru: Сигизмунд
     sco: Sigismund, Haly Roman Emperor

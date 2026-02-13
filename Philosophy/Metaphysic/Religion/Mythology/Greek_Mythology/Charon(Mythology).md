@@ -47,11 +47,11 @@ dv_has_:
     cy: Charon
     da: Charon
     de: Charon
-    de-ch: Charon
+    de_ch: Charon
     el: Χάρων
     en: Charon
-    en-ca: Charon
-    en-gb: Charon
+    en_ca: Charon
+    en_gb: Charon
     eo: Karono
     es: Caronte
     et: Charon
@@ -74,7 +74,7 @@ dv_has_:
     ka: ქარონი
     ko: 카론
     ku: Xaron
-    ku-latn: Xaron
+    ku_latn: Xaron
     la: Charon
     lb: Charon
     lij: Caronte
@@ -89,7 +89,7 @@ dv_has_:
     os: Харон
     pl: Charon
     pt: Caronte
-    pt-br: Caronte
+    pt_br: Caronte
     ro: Charon
     ru: Харон
     scn: Caronti
@@ -99,7 +99,7 @@ dv_has_:
     sl: Haron
     sq: Karon
     sr: Харон
-    sr-ec: Харон
+    sr_ec: Харон
     sv: Charon
     th: แครอน
     tr: Kharoon

@@ -167,7 +167,7 @@ dv_has_:
     pl: Kleszcze
     ps: خمندک
     pt: Ixodida
-    pt-br: Ixodida
+    pt_br: Ixodida
     qu: Amaku
     rn: Uruguha
     ro: Ixodida
@@ -196,8 +196,8 @@ dv_has_:
     wuu: 真蜱科
     yue: 蜱
     zh: 蜱目
-    zh-cn: 蜱目
-    zh-hans: 蜱目
+    zh_cn: 蜱目
+    zh_hans: 蜱目
 ---
 # [[Tick]] 
 

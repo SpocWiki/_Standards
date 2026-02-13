@@ -47,7 +47,7 @@ dv_has_:
     ar: هلام
     ast: Xel
     be: гель
-    be-tarask: гель
+    be_tarask: гель
     bg: Гел
     bs: Gel
     ca: gel
@@ -73,11 +73,11 @@ dv_has_:
     ja: ゲル
     jv: Jèl
     kk: Гель
-    kk-arab: گەل
+    kk_arab: گەل
     kk-cn: گەل
-    kk-cyrl: Гель
+    kk_cyrl: Гель
     kk-kz: Гель
-    kk-latn: Gelʹ
+    kk_latn: Gelʹ
     kk-tr: Gelʹ
     ko: 젤
     la: Gel
@@ -105,12 +105,12 @@ dv_has_:
     vi: Gel
     yue: 凝膠
     zh: 凝胶
-    zh-cn: 凝胶
-    zh-hans: 凝胶
-    zh-hant: 凝膠
-    zh-hk: 凝膠
-    zh-sg: 凝胶
-    zh-tw: 凝膠
+    zh_cn: 凝胶
+    zh_hans: 凝胶
+    zh_hant: 凝膠
+    zh_hk: 凝膠
+    zh_sg: 凝胶
+    zh_tw: 凝膠
 ---
 # [[Gel]] 
 

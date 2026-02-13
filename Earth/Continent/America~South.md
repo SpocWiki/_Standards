@@ -412,7 +412,7 @@ dv_has_:
     bar: Siidamerika
     bcl: Amerika nin Sur
     be: Паўднёвая Амерыка
-    be-tarask: Паўднёвая Амэрыка
+    be_tarask: Паўднёвая Амэрыка
     bg: Южна Америка
     bho: दक्खिन अमेरिका
     bi: Saot Amerika
@@ -434,7 +434,7 @@ dv_has_:
     ckb: ئەمریکای باشوور
     co: America meridiunale
     crh: Cenübiy Amerika
-    crh-latn: Cenübiy Amerika
+    crh_latn: Cenübiy Amerika
     cs: Jižní Amerika
     csb: Pôłniowô Amerika
     cu: Южьна Амєрїка
@@ -443,15 +443,15 @@ dv_has_:
     da: Sydamerika
     dag: South America
     de: Südamerika
-    de-ch: Südamerika
+    de_ch: Südamerika
     diq: Amerika Veroci
     dsb: Pódpołdnjowa Amerika
     dtp: Amerika Selatan
     dty: दक्षिण अमेरिका
     el: Νότια Αμερική
     en: South America
-    en-ca: South America
-    en-gb: South America
+    en_ca: South America
+    en_gb: South America
     eo: Sudameriko
     es: América del Sur
     es-419: Sudamérica
@@ -547,7 +547,7 @@ dv_has_:
     lzh: 南美洲
     mad: Amèrika Lao'
     mai: दक्षिण अमेरिका
-    map-bms: Amerika Selatan
+    map_bms: Amerika Selatan
     mg: Amerika Atsimo
     mhr: Кечывалвел Америка
     mi: Amerika ki te Tonga
@@ -568,7 +568,7 @@ dv_has_:
     nap: Suddamèreca
     nb: Sør-Amerika
     nds: Süüdamerika
-    nds-nl: Zuud-Amerika
+    nds_nl: Zuud-Amerika
     ne: दक्षिण अमेरिका
     new: दक्षिण अमेरिका
     nl: Zuid-Amerika
@@ -593,7 +593,7 @@ dv_has_:
     pnb: لما امریکا
     ps: سوېلي امريکا
     pt: América do Sul
-    pt-br: América do Sul
+    pt_br: América do Sul
     qu: Urin Awya Yala
     rm: America dal Sid
     rmy: Sudutni Amerika
@@ -649,8 +649,8 @@ dv_has_:
     tr: Güney Amerika
     ts: Amerikha ya le Dzongeni
     tt: Көньяк Америка
-    tt-cyrl: Көньяк Америка
-    tt-latn: Könyak Amerika
+    tt_cyrl: Көньяк Америка
+    tt_latn: Könyak Amerika
     tum: South America
     tw: South America
     udm: Лымшор Америка
@@ -677,14 +677,14 @@ dv_has_:
     zea: Zuud-Amerika
     zgh: ⵉⴼⴼⵓⵙ ⵏ ⴰⵎⵔⵉⴽⴰ
     zh: 南美洲
-    zh-cn: 南美洲
-    zh-hans: 南美洲
-    zh-hant: 南美洲
-    zh-hk: 南美洲
-    zh-mo: 南美洲
+    zh_cn: 南美洲
+    zh_hans: 南美洲
+    zh_hant: 南美洲
+    zh_hk: 南美洲
+    zh_mo: 南美洲
     zh-my: 南美洲
-    zh-sg: 南美洲
-    zh-tw: 南美洲
+    zh_sg: 南美洲
+    zh_tw: 南美洲
     zu: IMelika Eningizimu
 dv_is_same_as:
 - '[[../../WikiData/WD~South_America,18|WD~South_America,18]]'

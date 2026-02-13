@@ -61,10 +61,10 @@ dv_has_:
     cs: Peter Molyneux
     da: Peter Molyneux
     de: Peter Molyneux
-    de-ch: Peter Molyneux
+    de_ch: Peter Molyneux
     en: Peter Molyneux
-    en-ca: Peter Molyneux
-    en-gb: Peter Molyneux
+    en_ca: Peter Molyneux
+    en_gb: Peter Molyneux
     es: Peter Molyneux
     fi: Peter Molyneux
     fr: Peter Molyneux
@@ -83,7 +83,7 @@ dv_has_:
     nn: Peter Molyneux
     pl: Peter Molyneux
     pt: Peter Molyneux
-    pt-br: Peter Molyneux
+    pt_br: Peter Molyneux
     ru: Питер Молиньё
     sco: Peter Molyneux
     sk: Peter Molyneux
@@ -94,8 +94,8 @@ dv_has_:
     uk: Пітер Моліньє
     vi: Peter Molyneux
     zh: 彼得·莫利紐茲
-    zh-cn: 彼得·莫利纽克斯
-    zh-hant: 彼得·莫利紐克斯
+    zh_cn: 彼得·莫利纽克斯
+    zh_hant: 彼得·莫利紐克斯
 ---
 # [[Molyneux,Peter]] 
 

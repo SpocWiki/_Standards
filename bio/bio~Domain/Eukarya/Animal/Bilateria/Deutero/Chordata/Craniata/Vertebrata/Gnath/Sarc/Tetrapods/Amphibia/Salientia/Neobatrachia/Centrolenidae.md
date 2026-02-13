@@ -44,10 +44,10 @@ dv_has_:
     ceb: Centrolenidae
     cs: Rosněnkovití
     de: Glasfrösche
-    de-ch: Glasfrösche
+    de_ch: Glasfrösche
     en: Centrolenidae
-    en-ca: Glass frog
-    en-gb: Glass frog
+    en_ca: Glass frog
+    en_gb: Glass frog
     eo: Vitroranoj
     es: Centrolenidae
     eu: Centrolenidae
@@ -78,7 +78,7 @@ dv_has_:
     oc: Centrolenidae
     pl: Szklenicowate
     pt: Centrolenidae
-    pt-br: Centrolenidae
+    pt_br: Centrolenidae
     ro: Centrolenidae
     ru: Стеклянные лягушки
     sa: सेन्त्रोलेनिदए
@@ -94,8 +94,8 @@ dv_has_:
     vo: Centrolenidae
     war: Centrolenidae
     zh: 瞻星蛙科
-    zh-cn: 瞻星蛙科
-    zh-hans: 瞻星蛙科
+    zh_cn: 瞻星蛙科
+    zh_hans: 瞻星蛙科
 ---
 # [[Centrolenidae]]
 

@@ -96,7 +96,7 @@ dv_has_:
     azb: کلودت کولبرت
     ba: Клодетт Колбер
     be: Кладэт Кальбер
-    be-tarask: Клядэт Кальбэр
+    be_tarask: Клядэт Кальбэр
     bg: Клодет Колбер
     bi: Claudette Colbert
     bn: ক্লডেট কোলবার্ট
@@ -145,7 +145,7 @@ dv_has_:
     pa: ਕਲੌਦੈੱਤ ਕੋਲਬੈਰ
     pl: Claudette Colbert
     pt: Claudette Colbert
-    pt-br: Claudette Colbert
+    pt_br: Claudette Colbert
     ro: Claudette Colbert
     ru: Клодетт Колбер
     sh: Claudette Colbert
@@ -154,14 +154,14 @@ dv_has_:
     sl: Claudette Colbert
     sq: Claudette Colbert
     sr: Клодет Колбер
-    sr-ec: Клодет Колбер
-    sr-el: Klodet Kolber
+    sr_ec: Клодет Колбер
+    sr_el: Klodet Kolber
     sv: Claudette Colbert
     sw: Claudette Colbert
     ta: கிளாடெட் கோல்பெர்
     te: క్లాడెట్ కోల్బర్ట్
     tg: Клаудет Колберт
-    tg-latn: Klaudet Kolbert
+    tg_latn: Klaudet Kolbert
     th: โกลแด็ต กอลแบร์
     tr: Claudette Colbert
     tt: Клодетт Колбер
@@ -174,12 +174,12 @@ dv_has_:
     yo: Claudette Colbert
     yue: 歌羅德高露拔
     zh: 克劳黛·考尔白
-    zh-cn: 克劳黛·考尔白
-    zh-hans: 克劳黛·考尔白
-    zh-hant: 克勞黛·考爾白
-    zh-hk: 克勞黛·考爾白
-    zh-sg: 克劳黛·考尔白
-    zh-tw: 克勞黛·考爾白
+    zh_cn: 克劳黛·考尔白
+    zh_hans: 克劳黛·考尔白
+    zh_hant: 克勞黛·考爾白
+    zh_hk: 克勞黛·考爾白
+    zh_sg: 克劳黛·考尔白
+    zh_tw: 克勞黛·考爾白
 ---
 # [[Colbert,Claudette]] 
 

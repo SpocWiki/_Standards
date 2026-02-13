@@ -66,7 +66,7 @@ dv_has_:
     oc: Cichorioideae
     pl: Cichorioideae
     pt: Cichorioideae
-    pt-br: Cichorioideae
+    pt_br: Cichorioideae
     ro: Cichorioideae
     ru: цикориевые
     sl: Cichorioideae
@@ -78,12 +78,12 @@ dv_has_:
     vo: Cichorioideae
     war: Cichorioideae
     zh: 舌状花亚科
-    zh-cn: 舌状花亚科
-    zh-hans: 舌状花亚科
-    zh-hant: 舌狀花亞科
-    zh-hk: 舌狀花亞科
-    zh-sg: 舌状花亚科
-    zh-tw: 舌狀花亞科
+    zh_cn: 舌状花亚科
+    zh_hans: 舌状花亚科
+    zh_hant: 舌狀花亞科
+    zh_hk: 舌狀花亞科
+    zh_sg: 舌状花亚科
+    zh_tw: 舌狀花亞科
 ---
 # [[Cichorioideae]] 
 

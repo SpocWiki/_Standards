@@ -32,7 +32,7 @@ dv_has_:
     az: Norbert Viner
     azb: نوربرت وینر
     be: Норберт Вінер
-    be-tarask: Норбэрт Вінэр
+    be_tarask: Норбэрт Вінэр
     bg: Норберт Винер
     bn: নরবার্ট উইনার
     cs: Norbert Wiener
@@ -43,11 +43,11 @@ dv_has_:
     ja: ノーバート・ウィーナー
     ka: ნორბერტ ვინერი
     kk: Виенер Норберт
-    kk-arab: ۆىييەنەر نوربەرت
+    kk_arab: ۆىييەنەر نوربەرت
     kk-cn: ۆىييەنەر نوربەرت
-    kk-cyrl: Виенер Норберт
+    kk_cyrl: Виенер Норберт
     kk-kz: Виенер Норберт
-    kk-latn: Vïyener Norbert
+    kk_latn: Vïyener Norbert
     kk-tr: Vïyener Norbert
     ko: 노버트 위너
     ky: Винер
@@ -59,18 +59,18 @@ dv_has_:
     mul: Norbert Wiener
     ru: Норберт Винер
     sr: Норберт Винер
-    sr-ec: Норберт Винер
-    sr-el: Norbert Viner
+    sr_ec: Норберт Винер
+    sr_el: Norbert Viner
     tg: Норберт Винер
     uk: Норберт Вінер
     xmf: ნორბერტ ვინერი
     zh: 諾伯特·維納
-    zh-cn: 诺伯特·维纳
-    zh-hans: 诺伯特·维纳
-    zh-hant: 諾伯特·維納
-    zh-hk: 諾伯特·維納
-    zh-sg: 诺伯特·维纳
-    zh-tw: 諾伯特·維納
+    zh_cn: 诺伯特·维纳
+    zh_hans: 诺伯特·维纳
+    zh_hant: 諾伯特·維納
+    zh_hk: 諾伯特·維納
+    zh_sg: 诺伯特·维纳
+    zh_tw: 諾伯特·維納
 ---
 #has_/time_/started ::  1894-11-26 
 #has_/time_/stopped ::  1964-03-18 

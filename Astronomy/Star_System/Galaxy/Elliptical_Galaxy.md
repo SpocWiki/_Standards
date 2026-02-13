@@ -94,7 +94,7 @@ dv_has_:
     ar: مجرة إهليلجية
     ast: Galaxa elíptica
     be: Эліптычная галактыка
-    be-tarask: эліптычная галяктыка
+    be_tarask: эліптычная галяктыка
     bg: Елиптична галактика
     bs: eliptična galaksija
     ca: galàxia el·líptica
@@ -145,8 +145,8 @@ dv_has_:
     sk: Eliptická galaxia
     sl: eliptična galaksija
     sr: елиптична галаксија
-    sr-ec: елиптичка галаксија
-    sr-el: eliptička galaksija
+    sr_ec: елиптичка галаксија
+    sr_el: eliptička galaksija
     sv: elliptisk galax
     th: ดาราจักรรี
     tr: Eliptik galaksi
@@ -158,12 +158,12 @@ dv_has_:
     xmf: ელიპტიკური გალაქტიკა
     yue: 橢圓星系
     zh: 椭圆星系
-    zh-cn: 椭圆星系
-    zh-hans: 椭圆星系
-    zh-hant: 橢圓星系
-    zh-hk: 橢圓星系
-    zh-sg: 椭圆星系
-    zh-tw: 橢圓星系
+    zh_cn: 椭圆星系
+    zh_hans: 椭圆星系
+    zh_hant: 橢圓星系
+    zh_hk: 橢圓星系
+    zh_sg: 椭圆星系
+    zh_tw: 橢圓星系
     zu: Umthalakazi omakhophelana
 ---
 # [[Elliptical_Galaxy]] 

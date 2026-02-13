@@ -137,7 +137,7 @@ dv_has_:
     az: Lorenso Mediçi
     ba: Күркәм Лоренцо
     be: Ларэнца Медычы
-    be-tarask: Лярэнца Мэдычы
+    be_tarask: Лярэнца Мэдычы
     bg: Лоренцо де Медичи
     br: Lorenzo il Magnifico
     bs: Lorenzo de Medici
@@ -145,12 +145,12 @@ dv_has_:
     cs: Lorenzo I. Medicejský
     da: Lorenzo de' Medici
     de: Lorenzo de’ Medici
-    de-ch: Lorenzo il Magnifico
+    de_ch: Lorenzo il Magnifico
     ee: Lorenzo de' Medici
     el: Λαυρέντιος ο Μεγαλοπρεπής
     en: Lorenzo de' Medici
-    en-ca: Lorenzo de' Medici
-    en-gb: Lorenzo de' Medici
+    en_ca: Lorenzo de' Medici
+    en_gb: Lorenzo de' Medici
     en-us: Lorenzo de' Medici
     eo: Lorenzo de Mediĉo
     es: Lorenzo de Médici
@@ -187,7 +187,7 @@ dv_has_:
     pl: Wawrzyniec Wspaniały
     pms: Lorenzo de' Medici
     pt: Lourenço de Médici
-    pt-br: Lourenço de Médici
+    pt_br: Lourenço de Médici
     ro: Lorenzo de' Medici
     ru: Лоренцо Великолепный
     sc: Lorenzo de' Medici
@@ -198,8 +198,8 @@ dv_has_:
     sl: Lorenzo de' Medici Veličastni
     sq: Lorenzo de' Medici
     sr: Лоренцо Медичи
-    sr-ec: Лоренцо Медичи
-    sr-el: Lorenco Mediči
+    sr_ec: Лоренцо Медичи
+    sr_el: Lorenco Mediči
     sv: Lorenzo de' Medici
     sw: Lorenzo de' Medici
     th: โลเรนโซ เด เมดีชี
@@ -213,12 +213,12 @@ dv_has_:
     wuu: 洛伦佐·德·美第奇
     yue: 羅倫佐·德·麥地奇
     zh: 洛伦佐·德·美第奇
-    zh-cn: 洛伦佐·德·美第奇
-    zh-hans: 洛伦佐·德·美第奇
-    zh-hant: 洛倫佐·德·美第奇
-    zh-hk: 羅倫佐·德·麥地奇
-    zh-sg: 洛伦佐·德·美第奇
-    zh-tw: 羅倫佐·德·麥地奇
+    zh_cn: 洛伦佐·德·美第奇
+    zh_hans: 洛伦佐·德·美第奇
+    zh_hant: 洛倫佐·德·美第奇
+    zh_hk: 羅倫佐·德·麥地奇
+    zh_sg: 洛伦佐·德·美第奇
+    zh_tw: 羅倫佐·德·麥地奇
 ---
 # [[Medici,Lorenzo_de]] 
 

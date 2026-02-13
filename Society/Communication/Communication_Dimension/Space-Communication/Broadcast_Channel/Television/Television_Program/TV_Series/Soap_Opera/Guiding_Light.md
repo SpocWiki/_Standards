@@ -145,7 +145,7 @@ dv_has_:
     ar: غايدنغ لايت
     ast: Guiding Light
     az: Yol göstərən işıq
-    be-tarask: Накіравальнае сьвятло
+    be_tarask: Накіравальнае сьвятло
     ca: Guiding Light
     cs: U nás ve Springfieldu
     de: Springfield Story
@@ -174,9 +174,9 @@ dv_has_:
     vec: Guiding Light
     vi: Guiding Light (phim)
     zh: 指路明灯
-    zh-hans: 指路明灯
-    zh-hant: 指路明燈
-    zh-hk: 指路明燈
+    zh_hans: 指路明灯
+    zh_hant: 指路明燈
+    zh_hk: 指路明燈
 ---
 # [[Guiding_Light]] 
 

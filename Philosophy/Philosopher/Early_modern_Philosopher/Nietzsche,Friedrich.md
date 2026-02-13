@@ -275,7 +275,7 @@ dv_has_:
     ba: Фридрих Ницше
     bar: Friedrich Nietzsche
     be: Фрыдрых Вільгельм Ніцшэ
-    be-tarask: Фрыдрых Ніцшэ
+    be_tarask: Фрыдрых Ніцшэ
     bg: Фридрих Ницше
     bho: फ्रेडरिक नीत्शे
     bn: ফ্রিডরিখ নিচে
@@ -299,8 +299,8 @@ dv_has_:
     el: Φρειδερίκος Νίτσε
     eml: Friedrich Nietzsche
     en: Friedrich Nietzsche
-    en-ca: Friedrich Nietzsche
-    en-gb: Friedrich Nietzsche
+    en_ca: Friedrich Nietzsche
+    en_gb: Friedrich Nietzsche
     en-us: Friedrich Nietzsche
     eo: Friedrich Wilhelm Nietzsche
     es: Friedrich Nietzsche
@@ -344,7 +344,7 @@ dv_has_:
     kab: Friedrich Nietzsche
     kbp: Friedrich Nietzsche
     kk: Фридрих Ницше
-    kk-cyrl: Фридрих Ницше
+    kk_cyrl: Фридрих Ницше
     ko: 프리드리히 니체
     ku: Friedrich Wilhelm Nietzsche
     kw: Friedrich Nietzsche
@@ -374,7 +374,7 @@ dv_has_:
     nan: Friedrich Nietzsche
     nb: Friedrich Nietzsche
     nds: Friedrich Nietzsche
-    nds-nl: Friedrich Nietzsche
+    nds_nl: Friedrich Nietzsche
     ne: फ्रेडरिक नीत्शे
     new: फ्रेडरिक नित्से
     nl: Friedrich Nietzsche
@@ -442,7 +442,7 @@ dv_has_:
     zgh: ⴼⵔⵉⴷⵔⵉⴽ ⵏⵉⵜⵛⴰ
     zh: 弗里德里希·尼采
     zh-hans: 弗里德里希·尼采
-    zh-hk: 費德里希·尼采
+    zh_hk: 費德里希·尼采
 ---
 # [[Nietzsche,Friedrich]] 
 

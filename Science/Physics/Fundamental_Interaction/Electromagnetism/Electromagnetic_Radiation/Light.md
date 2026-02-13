@@ -234,7 +234,7 @@ dv_has_:
     bar: Liacht
     bcl: liwanag
     be: святло
-    be-tarask: сьвятло
+    be_tarask: сьвятло
     bg: светлина
     bn: আলো
     bo: འོད་རིག་པ་
@@ -252,14 +252,14 @@ dv_has_:
     da: lys
     dag: neesim
     de: Licht
-    de-ch: Licht
+    de_ch: Licht
     diq: zerq
     dtp: naau
     ee: akadi
     el: φως
     en: light
-    en-ca: light
-    en-gb: light
+    en_ca: light
+    en_gb: light
     eo: lumo
     es: luz
     et: valgus
@@ -278,7 +278,7 @@ dv_has_:
     gn: tesape
     gom: उजवाड
     gom-deva: उजवाड
-    gom-latn: uzvadd
+    gom_latn: uzvadd
     grc: φῶς
     gsw: Licht
     gu: પ્રકાશ
@@ -335,7 +335,7 @@ dv_has_:
     mnc: ᡝᠯᡩᡝᠨ
     mr: प्रकाश
     ms: cahaya
-    ms-arab: چهاي
+    ms_arab: چهاي
     mwl: luç
     my: အလင်း
     mzn: سو
@@ -344,7 +344,7 @@ dv_has_:
     nap: luce
     nb: lys
     nds: Licht
-    nds-nl: locht
+    nds_nl: locht
     ne: प्रकाश
     new: जः
     nl: licht
@@ -363,7 +363,7 @@ dv_has_:
     pms: lus
     pnb: چانݨ
     pt: luz
-    pt-br: luz
+    pt_br: luz
     qu: achkiy
     ro: lumină
     rsk: шветлосц
@@ -404,7 +404,7 @@ dv_has_:
     tr: ışık
     ts: rivoningo
     tt: яктылык
-    tt-cyrl: яктылык
+    tt_cyrl: яктылык
     tw: hann
     tyv: чырык
     udm: югыт
@@ -425,8 +425,8 @@ dv_has_:
     yue: 光
     za: rongh
     zh: 光
-    zh-hans: 光
-    zh-hant: 光
+    zh_hans: 光
+    zh_hant: 光
     zu: ukukhanya
 ---
 # [[Light]] 

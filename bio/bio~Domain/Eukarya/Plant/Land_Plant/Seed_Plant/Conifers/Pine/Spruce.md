@@ -124,7 +124,7 @@ dv_has_:
     ba: Шыршы
     bar: Feichtn
     be: елка
-    be-tarask: яліна
+    be_tarask: яліна
     bg: смърч
     bs: Smrča
     ca: Picea
@@ -193,7 +193,7 @@ dv_has_:
     os: Наз
     pl: Świerk
     pt: Picea
-    pt-br: Picea
+    pt_br: Picea
     ro: Picea
     ru: ель
     sah: Харыйа
@@ -204,7 +204,7 @@ dv_has_:
     sl: smreka
     sq: Picea
     sr: смрча
-    sr-ec: смрча
+    sr_ec: смрча
     stq: Kjuusdanne
     sv: Gransläktet
     th: สปรูซ
@@ -223,9 +223,9 @@ dv_has_:
     xmf: ნოჯი
     yue: 雲杉屬
     zh: 云杉属
-    zh-cn: 云杉属
-    zh-hans: 云杉属
-    zh-tw: 雲杉屬
+    zh_cn: 云杉属
+    zh_hans: 云杉属
+    zh_tw: 雲杉屬
 ---
 # [[Spruce]] 
 

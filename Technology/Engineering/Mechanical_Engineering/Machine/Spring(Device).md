@@ -104,7 +104,7 @@ dv_has_:
     az: Yaylar
     ba: Һиртмә
     be: спружына
-    be-tarask: спружына
+    be_tarask: спружына
     bg: Пружина
     bn: স্প্রিং (যন্ত্র)
     ca: molla
@@ -115,11 +115,11 @@ dv_has_:
     cy: sbring
     da: fjeder
     de: Feder
-    de-ch: Feder
+    de_ch: Feder
     el: Ελατήριο
     en: spring
-    en-ca: Spring
-    en-gb: spring
+    en_ca: Spring
+    en_gb: spring
     en-us: spring
     eo: risorto
     es: resorte
@@ -142,11 +142,11 @@ dv_has_:
     it: molla
     ja: ばね
     kk: Серіппе
-    kk-arab: سەرىپپە
+    kk_arab: سەرىپپە
     kk-cn: سەرىپپە
-    kk-cyrl: Серіппе
+    kk_cyrl: Серіппе
     kk-kz: Серіппе
-    kk-latn: Serippe
+    kk_latn: Serippe
     kk-tr: Serippe
     ko: 용수철
     ky: Пружина
@@ -168,15 +168,15 @@ dv_has_:
     os: цъæт
     pl: sprężyna
     pt: mola
-    pt-br: Mola
+    pt_br: Mola
     ro: arc
     ru: пружина
     sh: Opruga
     sk: pružina
     sl: vzmet
     sr: опруга
-    sr-ec: опруга
-    sr-el: opruga
+    sr_ec: опруга
+    sr_el: opruga
     sv: fjäder
     ta: சுருள்வில்
     tg: Симпечи чандир
@@ -192,12 +192,12 @@ dv_has_:
     yi: ספרונזשינע
     yue: 彈弓
     zh: 弹簧
-    zh-cn: 弹簧
-    zh-hans: 弹簧
-    zh-hant: 彈簧
-    zh-hk: 彈簧
-    zh-sg: 弹簧
-    zh-tw: 彈簧
+    zh_cn: 弹簧
+    zh_hans: 弹簧
+    zh_hant: 彈簧
+    zh_hk: 彈簧
+    zh_sg: 弹簧
+    zh_tw: 彈簧
 ---
 # [[Spring(Device)]] 
 

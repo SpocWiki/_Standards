@@ -178,7 +178,7 @@ dv_has_:
     azb: کازابلانکا
     bar: Casablanca
     be: Касабланка
-    be-tarask: Касаблянка
+    be_tarask: Касаблянка
     bg: Казабланка
     bn: কাসাব্লাঙ্কা
     br: Casablanca
@@ -192,7 +192,7 @@ dv_has_:
     de: Casablanca
     el: Καζαμπλάνκα
     en: Casablanca
-    en-gb: Casablanca
+    en_gb: Casablanca
     en-us: Casablanca
     eo: Casablanca
     es: Casablanca
@@ -244,7 +244,7 @@ dv_has_:
     pnb: کاسابلانکا
     ps: کازابلانکا
     pt: Casablanca
-    pt-br: Casablanca
+    pt_br: Casablanca
     qu: Casablanca
     rm: Casablanca
     ro: Casablanca
@@ -255,8 +255,8 @@ dv_has_:
     sl: Casablanca
     sq: Casablanca
     sr: Казабланка
-    sr-ec: Казабланка
-    sr-el: Kazablanka
+    sr_ec: Казабланка
+    sr_el: Kazablanka
     sv: Casablanca
     ta: காசாபிலங்கா
     te: కాసాబ్లాంకా
@@ -269,13 +269,13 @@ dv_has_:
     wuu: 卡萨布兰卡
     yue: 北非諜影
     zh: 北非谍影
-    zh-cn: 卡萨布兰卡
-    zh-hans: 卡萨布兰卡
-    zh-hant: 北非諜影
-    zh-hk: 北非諜影
+    zh_cn: 卡萨布兰卡
+    zh_hans: 卡萨布兰卡
+    zh_hant: 北非諜影
+    zh_hk: 北非諜影
     zh-my: 北非谍影
-    zh-sg: 北非谍影
-    zh-tw: 北非諜影
+    zh_sg: 北非谍影
+    zh_tw: 北非諜影
 ---
 # [[Casablanca(Film)]] 
 

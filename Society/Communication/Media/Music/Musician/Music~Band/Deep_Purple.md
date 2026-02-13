@@ -99,18 +99,18 @@ dv_has_:
     az: Deep Purple
     azb: دیپ پرپل
     be: Deep Purple
-    be-tarask: Deep Purple
+    be_tarask: Deep Purple
     bg: Дийп Пърпъл
     bs: Deep Purple
     ca: Deep Purple
     cs: Deep Purple
     da: Deep Purple
     de: Deep Purple
-    de-ch: Deep Purple
+    de_ch: Deep Purple
     el: Deep Purple
     en: Deep Purple
-    en-ca: Deep Purple
-    en-gb: Deep Purple
+    en_ca: Deep Purple
+    en_gb: Deep Purple
     eo: Deep Purple
     es: Deep Purple
     et: Deep Purple
@@ -154,7 +154,7 @@ dv_has_:
     pcd: Deep Purple
     pl: Deep Purple
     pt: Deep Purple
-    pt-br: Deep Purple
+    pt_br: Deep Purple
     qu: Deep Purple
     ro: Deep Purple
     ru: Deep Purple
@@ -165,8 +165,8 @@ dv_has_:
     sl: Deep Purple
     sq: Deep Purple
     sr: Дип перпл
-    sr-ec: Дип перпл
-    sr-el: Dip perpl
+    sr_ec: Дип перпл
+    sr_el: Dip perpl
     su: Deep Purple
     sv: Deep Purple
     szl: Deep Purple
@@ -184,12 +184,12 @@ dv_has_:
     xmf: Deep Purple
     yue: 深紫樂隊
     zh: 深紫
-    zh-cn: 深紫
-    zh-hans: 深紫
-    zh-hant: 深紫
-    zh-hk: 深紫
-    zh-sg: 深紫
-    zh-tw: 深紫
+    zh_cn: 深紫
+    zh_hans: 深紫
+    zh_hant: 深紫
+    zh_hk: 深紫
+    zh_sg: 深紫
+    zh_tw: 深紫
 ---
 # [[Deep_Purple]] 
 

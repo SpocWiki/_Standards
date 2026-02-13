@@ -205,7 +205,7 @@ dv_has_:
     ban: kauh
     bcl: Solnopan
     be: захад
-    be-tarask: захад
+    be_tarask: захад
     bew: Kulon
     bg: Запад
     bho: पश्चिम
@@ -229,14 +229,14 @@ dv_has_:
     dag: wulinluhili
     de: Westen
     de-at: Westen
-    de-ch: Westen
+    de_ch: Westen
     diq: Rocawan
     dtp: kotonobon
     el: δύση
     eml: Sîra
     en: west
-    en-ca: west
-    en-gb: west
+    en_ca: west
+    en_gb: west
     eo: okcidento
     es: oeste
     et: lääs
@@ -296,7 +296,7 @@ dv_has_:
     lt: vakarai
     lv: rietumi
     mai: पश्चिम
-    map-bms: Kulon
+    map_bms: Kulon
     mdf: Шинь мадома ширесь
     mg: Andrefana
     mhr: Касвел
@@ -306,7 +306,7 @@ dv_has_:
     mnc: ᠸᠠᡵᡤᡳ
     mr: पश्चिम दिशा
     ms: barat
-    ms-arab: بارت
+    ms_arab: بارت
     mt: punent
     my: အနောက်အရပ်
     myv: Чивалгома
@@ -331,7 +331,7 @@ dv_has_:
     pnb: لہندا
     ps: لوېديځ
     pt: oeste
-    pt-br: oeste
+    pt_br: oeste
     pwn: kaledep
     qu: Kunti
     ro: vest
@@ -352,7 +352,7 @@ dv_has_:
     so: Galbeed
     sq: Perëndimi
     sr: запад
-    sr-ec: Запад
+    sr_ec: Запад
     su: Kulon
     sv: väster
     sw: Magharibi
@@ -366,7 +366,7 @@ dv_has_:
     tok: pini suno
     tr: batı
     tt: көнбатыш
-    tt-cyrl: көнбатыш
+    tt_cyrl: көнбатыш
     udm: шундыпуксён
     ug: غەرب
     uk: захід
@@ -386,14 +386,14 @@ dv_has_:
     za: Baihsae
     zgh: ⴰⵜⴰⵔⴰⵎ
     zh: 西
-    zh-cn: 西
-    zh-hans: 西
-    zh-hant: 西
-    zh-hk: 西
-    zh-mo: 西
+    zh_cn: 西
+    zh_hans: 西
+    zh_hant: 西
+    zh_hk: 西
+    zh_mo: 西
     zh-my: 西
-    zh-sg: 西
-    zh-tw: 西
+    zh_sg: 西
+    zh_tw: 西
 dv_is_:
   same_as:
   - '[[/_Standards/Earth/2D-Directions/Direction~West|Direction~West]]'

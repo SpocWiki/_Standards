@@ -64,7 +64,7 @@ dv_has_:
     ar: ميكانيكا التربة
     ast: Mecánica de suelos
     be: земна механика
-    be-tarask: мэханіка грунтоў
+    be_tarask: мэханіка грунтоў
     bn: মৃত্তিকা বলবিদ্যা
     ca: Mecànica dels sòls
     cdo: Tū-iōng lĭk-hŏk
@@ -105,8 +105,8 @@ dv_has_:
     sh: Mehanika tla
     sl: mehanika tal
     sr: Механика тла
-    sr-ec: Механика тла
-    sr-el: Mehanika tla
+    sr_ec: Механика тла
+    sr_el: Mehanika tla
     su: Mékanika taneuh
     sv: jordmekanik
     tr: jeoteknik
@@ -114,12 +114,12 @@ dv_has_:
     uz: Gruntlar mexanikasi
     vi: Cơ học đất
     zh: 土力学
-    zh-cn: 土力学
-    zh-hans: 土力学
-    zh-hant: 土壤力學
-    zh-hk: 土力學
-    zh-sg: 土力学
-    zh-tw: 土力學
+    zh_cn: 土力学
+    zh_hans: 土力学
+    zh_hant: 土壤力學
+    zh_hk: 土力學
+    zh_sg: 土力学
+    zh_tw: 土力學
 ---
 # [[Soil_Mechanics]] 
 

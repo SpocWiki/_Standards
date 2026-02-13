@@ -85,7 +85,7 @@ dv_has_:
     as: শ্বেয়াৰ মাৰ্কেট
     az: Qiymətli kağızlar bazarı
     ba: Ҡыйбат ҡағыҙҙар баҙары'
-    be-tarask: фондавы рынак
+    be_tarask: фондавы рынак
     bg: фондов пазар
     bho: स्टॉक मार्केट
     bn: শেয়ার বাজার
@@ -96,8 +96,8 @@ dv_has_:
     de: Aktienmarkt
     el: χρηματιστηριακή αγορά
     en: stock market
-    en-ca: Stock market
-    en-gb: stock market
+    en_ca: Stock market
+    en_gb: stock market
     eo: akciomerkato
     es: mercado de valores
     eu: Baloreen merkatua
@@ -115,11 +115,11 @@ dv_has_:
     ja: 証券市場
     jv: pasar saham
     kk: Қор нарығы
-    kk-arab: قور نارىعى
+    kk_arab: قور نارىعى
     kk-cn: قور نارىعى
-    kk-cyrl: Қор нарығы
+    kk_cyrl: Қор нарығы
     kk-kz: Қор нарығы
-    kk-latn: Qor narığı
+    kk_latn: Qor narığı
     kk-tr: Qor narığı
     kn: sheru marukatte
     ko: 주식시장
@@ -134,7 +134,7 @@ dv_has_:
     pa: ਸਰਾਫ਼ਾ ਬਜ਼ਾਰ
     ps: د اسهامو بازار
     pt: mercado de ações
-    pt-br: Mercado de ações
+    pt_br: Mercado de ações
     qu: Qullqa qhatu
     ro: piață de acțiuni
     ru: рынок ценных бумаг
@@ -156,12 +156,12 @@ dv_has_:
     yi: סטאק מארקעט
     yue: 股市
     zh: 股市
-    zh-cn: 股市
-    zh-hans: 股市
-    zh-hant: 股市
-    zh-hk: 股市
-    zh-sg: 股市
-    zh-tw: 股市
+    zh_cn: 股市
+    zh_hans: 股市
+    zh_hant: 股市
+    zh_hk: 股市
+    zh_sg: 股市
+    zh_tw: 股市
 ---
 # [[Stock_Market]] 
 

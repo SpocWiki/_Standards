@@ -95,7 +95,7 @@ dv_has_:
     ast: psicoloxía clínica
     az: Klinik psixologiya
     be: клінічная псіхалогія
-    be-tarask: клінічная псыхалёгія
+    be_tarask: клінічная псыхалёгія
     bg: клинична психология
     bn: চিকিৎসা মনোবিজ্ঞান
     bs: Klinička psihologija
@@ -106,8 +106,8 @@ dv_has_:
     de: klinische Psychologie
     el: κλινική ψυχολογία
     en: clinical psychology
-    en-ca: Clinical psychology
-    en-gb: clinical psychology
+    en_ca: Clinical psychology
+    en_gb: clinical psychology
     eo: klinika psikologio
     es: psicología clínica
     et: kliiniline psühholoogia
@@ -134,7 +134,7 @@ dv_has_:
     lv: klīniskā psiholoģija
     mk: клиничка психологија
     ms: psikologi klinikal
-    ms-arab: ڤسيکولوݢي کلينيکل
+    ms_arab: ڤسيکولوݢي کلينيکل
     mzn: روانشناسون بالینی
     nb: klinisk psykologi
     nl: klinische psychologie
@@ -144,7 +144,7 @@ dv_has_:
     pl: psychologia kliniczna
     ps: کلينيکي ارواپوهنه
     pt: psicologia clínica
-    pt-br: Psicologia clínica
+    pt_br: Psicologia clínica
     ro: psihologie clinică
     ru: клиническая психология
     sa: मानसिकचिकित्सा
@@ -157,8 +157,8 @@ dv_has_:
     sms: kliinlaž psykologia
     sq: Psikologjia klinike
     sr: клиничка психологија
-    sr-ec: клиничка психологија
-    sr-el: klinička psihologija
+    sr_ec: клиничка психологија
+    sr_el: klinička psihologija
     sv: klinisk psykologi
     sw: saikolojia ya Kimatibabu
     ta: மருத்துவச் சிகிச்சை உளவியல்
@@ -172,12 +172,12 @@ dv_has_:
     yi: קלינישע פסיכאלאגיע
     yue: 臨床心理學
     zh: 臨床心理學
-    zh-cn: 临床心理学
-    zh-hans: 临床心理学
-    zh-hant: 臨床心理學
-    zh-hk: 臨床心理學
-    zh-sg: 临床心理学
-    zh-tw: 臨床心理學
+    zh_cn: 临床心理学
+    zh_hans: 临床心理学
+    zh_hant: 臨床心理學
+    zh_hk: 臨床心理學
+    zh_sg: 临床心理学
+    zh_tw: 臨床心理學
 ---
 # [[Clinical_Psychology]] 
 

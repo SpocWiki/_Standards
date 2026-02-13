@@ -129,7 +129,7 @@ dv_has_:
     azb: اوتوماتیک توفنگ
     ba: Пулемёт
     be: Кулямёт
-    be-tarask: кулямёт
+    be_tarask: кулямёт
     bew: Senjata brèdèt
     bg: Картечница
     bn: মেশিন গান

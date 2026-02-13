@@ -84,7 +84,7 @@ dv_has_:
     ar: أحجية
     ast: rompecabeces
     be: галаваломка
-    be-tarask: галаваломка
+    be_tarask: галаваломка
     bho: पजल
     bn: ধাঁধা
     bs: Enigmatika
@@ -129,7 +129,7 @@ dv_has_:
     nl: puzzel
     pl: łamigłówka
     pt: quebra-cabeças
-    pt-br: quebra-cabeça
+    pt_br: quebra-cabeça
     ro: Joc problemă
     ru: головоломка
     scn: Scassatesta
@@ -139,14 +139,14 @@ dv_has_:
     so: Hal-xeraale
     sq: enigmatikë
     sr: енигматика
-    sr-ec: енигматика
+    sr_ec: енигматика
     sv: pussel
     te: పజిల్
     th: ปริศนา
     tl: Palaisipan
     tr: yapboz
     tt: башваткыч
-    tt-cyrl: башваткыч
+    tt_cyrl: башваткыч
     uk: головоломка
     vi: Giải đố
     wuu: 智力游戏

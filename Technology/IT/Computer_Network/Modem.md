@@ -63,7 +63,7 @@ dv_has_:
     az: Modem
     azb: مودم
     be: Мадэм
-    be-tarask: Мадэм
+    be_tarask: Мадэм
     bg: Модем
     bn: মডেম
     bs: Modem
@@ -116,7 +116,7 @@ dv_has_:
     pa: ਮੋਡਮ
     pl: Modem
     pt: modem
-    pt-br: Modem
+    pt_br: Modem
     ro: Modem
     ru: модем
     sah: Модем

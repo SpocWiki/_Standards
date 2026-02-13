@@ -67,7 +67,7 @@ dv_has_:
   name_:
     ab: Уганда
     ace: Uganda
-    aeb-arab: أوغندا
+    aeb_arab: أوغندا
     af: Uganda
     am: ዩጋንዳ
     ami: Uganda
@@ -90,7 +90,7 @@ dv_has_:
     bar: Uganda
     bcl: Uganda
     be: Уганда
-    be-tarask: Уганда
+    be_tarask: Уганда
     bew: Uganda
     bg: Уганда
     bho: युगांडा
@@ -104,7 +104,7 @@ dv_has_:
     bs: Uganda
     bxr: Уганда
     ca: Uganda
-    cbk-zam: Uganda
+    cbk_zam: Uganda
     cdo: Uganda
     ce: Уганда
     ceb: Uganda
@@ -112,7 +112,7 @@ dv_has_:
     ckb: ئووگاندا
     co: Uganda
     crh: Uganda
-    crh-latn: Uganda
+    crh_latn: Uganda
     cs: Uganda
     cv: Уганда
     cy: Wganda
@@ -120,7 +120,7 @@ dv_has_:
     dag: Uganda
     de: Uganda
     de-at: Uganda
-    de-ch: Uganda
+    de_ch: Uganda
     din: Uganda
     diq: Uganda
     dsb: Uganda
@@ -130,8 +130,8 @@ dv_has_:
     ee: Uganda
     el: Ουγκάντα
     en: Uganda
-    en-ca: Uganda
-    en-gb: Uganda
+    en_ca: Uganda
+    en_gb: Uganda
     eo: Ugando
     es: Uganda
     et: Uganda
@@ -237,7 +237,7 @@ dv_has_:
     nan: Uganda
     nb: Uganda
     nds: Uganda
-    nds-nl: Uganda
+    nds_nl: Uganda
     ne: युगाण्डा
     new: युगान्दा
     nl: Oeganda
@@ -263,7 +263,7 @@ dv_has_:
     pnb: یوگنڈا
     ps: يوګاندا
     pt: Uganda
-    pt-br: Uganda
+    pt_br: Uganda
     qu: Uganda
     rm: Uganda
     rmy: Uganda
@@ -293,8 +293,8 @@ dv_has_:
     so: Yugandha
     sq: Uganda
     sr: Уганда
-    sr-ec: Уганда
-    sr-el: Uganda
+    sr_ec: Уганда
+    sr_el: Uganda
     ss: IBuganda
     st: Uganda
     stq: Uganda
@@ -341,14 +341,14 @@ dv_has_:
     za: Uganda
     zea: Oehanda
     zh: 烏干達
-    zh-cn: 乌干达
-    zh-hans: 乌干达
-    zh-hant: 烏干達
-    zh-hk: 烏干達
-    zh-mo: 乌干达
+    zh_cn: 乌干达
+    zh_hans: 乌干达
+    zh_hant: 烏干達
+    zh_hk: 烏干達
+    zh_mo: 乌干达
     zh-my: 乌干达
-    zh-sg: 乌干达
-    zh-tw: 烏干達
+    zh_sg: 乌干达
+    zh_tw: 烏干達
     zu: IYuganda
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Uganda

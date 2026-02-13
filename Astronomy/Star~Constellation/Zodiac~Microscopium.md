@@ -88,7 +88,7 @@ dv_has_:
     az: Mikroskop
     ba: Микроскоп
     be: Мікраскоп
-    be-tarask: Мікраскоп
+    be_tarask: Мікраскоп
     bg: Микроскоп
     bn: অণুবীক্ষণ মণ্ডল
     br: Mikroskop

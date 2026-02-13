@@ -5,7 +5,7 @@ dv_has_:
     ar: سوابق النظام الدولي للوحدات
     ary: مسبقة ميترية
     be: прыстаўкі СІ
-    be-tarask: прыстаўкі СІ
+    be_tarask: прыстаўкі СІ
     bg: Представки SI
     bn: মেট্রিক উপসর্গ
     br: Rakgerioù ar sistem unanennoù etrebroadel
@@ -49,14 +49,14 @@ dv_has_:
     lv: metriskais priedēklis
     mk: SI-претставка
     ms: awalan SI
-    ms-arab: اولن ايس. اءي.
+    ms_arab: اولن ايس. اءي.
     nb: SI-prefiks
     nl: SI-prefix
     nn: SI-prefiks
     oc: Prefixe dau Sistèma Internacionau
     pl: przedrostek SI
     pt: prefixo do SI
-    pt-br: prefixo do SI
+    pt_br: prefixo do SI
     ro: Prefix SI
     ru: приставки СИ
     rue: Префиксы SI
@@ -66,26 +66,26 @@ dv_has_:
     sl: SI-predpona
     sq: Parashtesat e Sistemit Ndërkombëtar
     sr: СИ префикси
-    sr-ec: СИ префикс
-    sr-el: SI prefiks
+    sr_ec: СИ префикс
+    sr_el: SI prefiks
     sv: SI-prefix
     szl: Przedrostek SI
     th: คำอุปสรรคเอสไอ
     tt: СИ алкушымчалары
-    tt-cyrl: СИ алкушымчалары
-    tt-latn: Sİ alquşımçaları
+    tt_cyrl: СИ алкушымчалары
+    tt_latn: Sİ alquşımçaları
     uk: префікси одиниць вимірювання
     ur: بین الاقوامی نظام اکائیاتی سابقہ جات
     vi: tiền tố SI
     wuu: 国际单位制词头
     yue: 萬國單位字頭
     zh: 国际单位制词头
-    zh-cn: 国际单位制词头
-    zh-hans: 国际单位制词头
-    zh-hant: 國際單位制詞頭
-    zh-hk: 國際單位制詞頭
-    zh-sg: 国际单位制词头
-    zh-tw: 國際單位制詞頭
+    zh_cn: 国际单位制词头
+    zh_hans: 国际单位制词头
+    zh_hant: 國際單位制詞頭
+    zh_hk: 國際單位制詞頭
+    zh_sg: 国际单位制词头
+    zh_tw: 國際單位制詞頭
 aliases:
 - Ater-ater SI
 - Awalan SI

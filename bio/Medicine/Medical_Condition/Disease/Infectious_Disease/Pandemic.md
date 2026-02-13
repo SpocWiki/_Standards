@@ -130,7 +130,7 @@ dv_has_:
     ban-bali: ᬕᬾᬭᬶᬂᬅᬕᬸᬂ
     bcl: pandemya
     be: пандэмія
-    be-tarask: пандэмія
+    be_tarask: пандэмія
     bg: пандемия
     bho: महामारी
     bn: বৈশ্বিক মহামারী
@@ -148,11 +148,11 @@ dv_has_:
     da: pandemi
     dag: alɔbo
     de: Pandemie
-    de-ch: Pandemie
+    de_ch: Pandemie
     el: πανδημία
     en: pandemic
-    en-ca: pandemic
-    en-gb: pandemic
+    en_ca: pandemic
+    en_gb: pandemic
     eo: pandemio
     es: pandemia
     et: pandeemia
@@ -226,7 +226,7 @@ dv_has_:
     pnb: وبا
     ps: وبا یا ټولنیونه
     pt: pandemia
-    pt-br: pandemia
+    pt_br: pandemia
     ro: pandemie
     ru: пандемия
     rue: пандемія
@@ -279,11 +279,11 @@ dv_has_:
     yue: 瘟疫
     za: binghraq
     zh: 瘟疫
-    zh-cn: 瘟疫
-    zh-hans: 瘟疫
-    zh-hant: 瘟疫
-    zh-hk: 瘟疫
-    zh-tw: 瘟疫
+    zh_cn: 瘟疫
+    zh_hans: 瘟疫
+    zh_hant: 瘟疫
+    zh_hk: 瘟疫
+    zh_tw: 瘟疫
     zu: Ubhubhane
 ---
 # [[Pandemic]] 

@@ -133,7 +133,7 @@ dv_has_:
     ba: Пруст Марсель
     bar: Marcel Proust
     be: Марсель Пруст
-    be-tarask: Марсэль Пруст
+    be_tarask: Марсэль Пруст
     bg: Марсел Пруст
     bi: Marcel Proust
     bm: Marcel Proust
@@ -153,12 +153,12 @@ dv_has_:
     da: Marcel Proust
     de: Marcel Proust
     de-at: Marcel Proust
-    de-ch: Marcel Proust
+    de_ch: Marcel Proust
     diq: Marcel Proust
     el: Μαρσέλ Προυστ
     en: Marcel Proust
-    en-ca: Marcel Proust
-    en-gb: Marcel Proust
+    en_ca: Marcel Proust
+    en_gb: Marcel Proust
     eo: Marcel Proust
     es: Marcel Proust
     et: Marcel Proust
@@ -227,7 +227,7 @@ dv_has_:
     nap: Marcel Proust
     nb: Marcel Proust
     nds: Marcel Proust
-    nds-nl: Marcel Proust
+    nds_nl: Marcel Proust
     ne: मार्सेल प्रुस्ट
     new: मार्सेल प्रोस्ट्
     nl: Marcel Proust
@@ -245,7 +245,7 @@ dv_has_:
     pnb: مارکل پروسٹ
     prg: Marcel Proust
     pt: Marcel Proust
-    pt-br: Marcel Proust
+    pt_br: Marcel Proust
     qu: Marcel Proust
     rgn: Marcel Proust
     rm: Marcel Proust
@@ -288,8 +288,8 @@ dv_has_:
     yo: Marcel Proust
     yue: 普魯斯特
     zh: 馬塞爾·普魯斯特
-    zh-cn: 马塞尔·普鲁斯特
-    zh-hans: 马塞尔·普鲁斯特
+    zh_cn: 马塞尔·普鲁斯特
+    zh_hans: 马塞尔·普鲁斯特
     zu: Marcel Proust
 ---
 # [[Proust,Marcel]] 

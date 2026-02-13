@@ -84,7 +84,7 @@ dv_has_:
     azb: بیت
     ba: байт
     be: байт
-    be-tarask: байт
+    be_tarask: байт
     bg: Байт
     bn: বাইট
     bs: Bajt
@@ -93,11 +93,11 @@ dv_has_:
     cs: bajt
     da: Byte
     de: Byte
-    de-ch: Byte
+    de_ch: Byte
     el: Byte
     en: byte
-    en-ca: Byte
-    en-gb: byte
+    en_ca: Byte
+    en_gb: byte
     eo: bajto
     es: byte
     et: bait
@@ -138,7 +138,7 @@ dv_has_:
     mk: Бајт
     ml: ബൈറ്റ്
     ms: bait
-    ms-arab: باءيت
+    ms_arab: باءيت
     my: ဘိုက်
     nan: Byte
     nb: byte
@@ -150,7 +150,7 @@ dv_has_:
     pnb: بائٹ
     ps: بايټ
     pt: byte
-    pt-br: Byte
+    pt_br: Byte
     ro: byte
     ru: байт
     scn: byte
@@ -168,7 +168,7 @@ dv_has_:
     th: ไบต์
     tr: bayt
     tt: байт
-    tt-cyrl: байт
+    tt_cyrl: байт
     udm: тямысо
     uk: байт
     ur: لکمہ
@@ -178,9 +178,9 @@ dv_has_:
     wuu: 字节
     yue: 字節
     zh: 字节
-    zh-cn: 字节
-    zh-hant: 位元組
-    zh-tw: 位元組
+    zh_cn: 字节
+    zh_hant: 位元組
+    zh_tw: 位元組
     zu: isincu
 ---
 # [[Byte]] 

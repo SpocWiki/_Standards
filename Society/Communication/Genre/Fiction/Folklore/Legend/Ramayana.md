@@ -122,7 +122,7 @@ dv_has_:
     ban: Ramayana
     bcl: Ramayana
     be: Рамаяна
-    be-tarask: Рамаяна
+    be_tarask: Рамаяна
     bg: Рамаяна
     bho: रामायण
     bn: রামায়ণ
@@ -141,7 +141,7 @@ dv_has_:
     dty: रामायण
     el: Ραμαγιάννα
     en: Ramayana
-    en-gb: Ramayana
+    en_gb: Ramayana
     en-us: Ramayana
     eo: Ramajano
     es: Ramayana
@@ -155,7 +155,7 @@ dv_has_:
     gl: Rāmāyaṇa
     gom: रामायण
     gom-deva: रामायण
-    gom-latn: Ramayana
+    gom_latn: Ramayana
     gu: રામાયણ
     he: ראמאיאנה
     hi: वाल्मीकि रामायण
@@ -184,7 +184,7 @@ dv_has_:
     lzh: 羅摩衍那
     mag: रामायण
     mai: रामायण
-    map-bms: Ramayana
+    map_bms: Ramayana
     mhr: Рамаяна
     mk: Рамајана
     ml: രാമായണം

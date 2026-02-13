@@ -110,7 +110,7 @@ dv_has_:
     az: Tozlanma
     ba: һеркәләнеү
     be: апыленне
-    be-tarask: апыленьне
+    be_tarask: апыленьне
     bg: Опрашване
     bn: পরাগায়ন
     bs: oprašivanje
@@ -144,7 +144,7 @@ dv_has_:
     kab: Afarer
     kk: Тозаңдану
     ko: 꽃가루받이
-    ku-latn: perîn
+    ku_latn: perîn
     kw: ponegyans
     ky: Чаңдашуу
     la: pollinatio
@@ -167,13 +167,13 @@ dv_has_:
     sh: Oprašivanje
     sl: opraševanje
     sr: Polinacija
-    sr-ec: Полинација
-    sr-el: Polinacija
+    sr_ec: Полинација
+    sr_el: Polinacija
     sv: pollinering
     ta: மகரந்தச் சேர்க்கை
     te: పరాగసంపర్కము
     tg: Гардолудшавӣ
-    tg-latn: Gardoludşavī
+    tg_latn: Gardoludşavī
     th: การถ่ายเรณู
     tl: Pambubulo
     tr: Tozlaşma
@@ -184,12 +184,12 @@ dv_has_:
     wuu: 传粉
     yue: 傳粉
     zh: 传粉
-    zh-cn: 传粉
-    zh-hans: 传粉
-    zh-hant: 傳粉
-    zh-hk: 傳粉
-    zh-sg: 传粉
-    zh-tw: 傳粉
+    zh_cn: 传粉
+    zh_hans: 传粉
+    zh_hant: 傳粉
+    zh_hk: 傳粉
+    zh_sg: 传粉
+    zh_tw: 傳粉
 ---
 # [[Pollination]] 
 

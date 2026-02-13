@@ -55,7 +55,7 @@ dv_has_:
   name_:
     ar: رافعة حبوب
     ba: Иген элеваторы
-    be-tarask: зерневы элеватар
+    be_tarask: зерневы элеватар
     ca: Elevador de gra
     de: Getreideheber
     en: grain elevator

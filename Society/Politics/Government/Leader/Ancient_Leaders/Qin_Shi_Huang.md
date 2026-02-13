@@ -157,7 +157,7 @@ dv_has_:
     ban: Qin Shi Huang
     bcl: Qin Shi Huang
     be: Цынь Шыхуан-дзі
-    be-tarask: Цынь Шыхуандзі
+    be_tarask: Цынь Шыхуандзі
     bg: Цин Шъхуан
     bi: Qin Shi Huang
     bm: Qin Shi Huang
@@ -168,7 +168,7 @@ dv_has_:
     btm: Qin Shi Huang
     bxr: Цинь Шихуанди
     ca: Qin Shi Huangdi
-    cbk-zam: Qin Shi Huang
+    cbk_zam: Qin Shi Huang
     cdo: Cìng Sṳ̄-huòng
     ce: Цинь Шихуанди
     ceb: Qin Shi Huang
@@ -186,8 +186,8 @@ dv_has_:
     el: Τσιν Σι Χουάνγκ
     eml: Ch'in Shih-huang
     en: Qin Shi Huang
-    en-ca: Qin Shi Huang
-    en-gb: Qin Shi Huang
+    en_ca: Qin Shi Huang
+    en_gb: Qin Shi Huang
     en-us: Qin Shi Huangdi
     eo: Qin Shihuangdi
     es: Qin Shi Huang
@@ -282,7 +282,7 @@ dv_has_:
     pnt: Τσιν Σι Χουάνγκ
     ps: چېن شي هوانګ
     pt: Qin Shihuang
-    pt-br: Qin Shihuang
+    pt_br: Qin Shihuang
     qu: Qin Shi Huang
     rki: ရှီဟွမ်တီ
     ro: Qin Shi Huangdi
@@ -308,7 +308,7 @@ dv_has_:
     szl: Qin Shi Huang
     ta: சின் ஷி ஹுவாங்
     tg: Тсин Шихуанди
-    tg-cyrl: Син Шихуанди
+    tg_cyrl: Син Шихуанди
     th: จิ๋นซีฮ่องเต้
     tl: Shih Huang Ti
     tr: Çin Şi Huang
@@ -331,14 +331,14 @@ dv_has_:
     yue: 嬴政
     za: Caenz Hij Vuengz
     zh: 秦始皇
-    zh-cn: 秦始皇
-    zh-hans: 秦始皇
-    zh-hant: 秦始皇
-    zh-hk: 秦始皇
-    zh-mo: 秦始皇
+    zh_cn: 秦始皇
+    zh_hans: 秦始皇
+    zh_hant: 秦始皇
+    zh_hk: 秦始皇
+    zh_mo: 秦始皇
     zh-my: 秦始皇
-    zh-sg: 秦始皇
-    zh-tw: 秦始皇
+    zh_sg: 秦始皇
+    zh_tw: 秦始皇
 ---
 ## #has_/text_of_/abstract 
 

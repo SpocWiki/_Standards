@@ -163,7 +163,7 @@ dv_has_:
     ban: Bhagawad Gita
     bcl: Bhagavad Gita
     be: Бхагавадгіта
-    be-tarask: Бгагавадгіта
+    be_tarask: Бгагавадгіта
     bew: Bagawadgita
     bg: Бхагавад гита
     bho: गीता
@@ -189,7 +189,7 @@ dv_has_:
     gl: Bhagavad Gita
     gom: Bhagavad Gita
     gom-deva: श्रीमद् भगवद् गीता
-    gom-latn: Bhagavad Gita
+    gom_latn: Bhagavad Gita
     gsw: Bhagavad Gita
     gu: ગીતા
     he: בהגווד גיטא

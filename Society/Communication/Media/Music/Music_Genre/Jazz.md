@@ -127,7 +127,7 @@ dv_has_:
     ba: Джаз
     bar: Jazz
     be: джаз
-    be-tarask: джаз
+    be_tarask: джаз
     bg: джаз
     bn: জ্যাজ
     br: jazz
@@ -139,12 +139,12 @@ dv_has_:
     cy: jazz
     da: jazz
     de: Jazz
-    de-ch: Jazz
+    de_ch: Jazz
     diq: Caz
     el: τζαζ
     en: jazz
-    en-ca: Jazz
-    en-gb: jazz
+    en_ca: Jazz
+    en_gb: jazz
     eo: ĵazo
     es: jazz
     et: džäss
@@ -188,7 +188,7 @@ dv_has_:
     kn: ಜಾಝ್ ಸಂಗೀತ
     ko: 재즈
     ku: caz
-    ku-latn: caz
+    ku_latn: caz
     kv: Джаз
     kw: Jazz
     ky: Жаз
@@ -201,14 +201,14 @@ dv_has_:
     ln: Jazz
     lt: džiazas
     lv: džezs
-    map-bms: Jazz
+    map_bms: Jazz
     min: jazz
     mk: џез
     ml: ജാസ്
     mn: Жааз хөгжим
     mrj: Джаз
     ms: jaz
-    ms-arab: جز
+    ms_arab: جز
     mt: jazz
     my: ဂျက်စ်ဂီတ
     mzn: جاز
@@ -216,7 +216,7 @@ dv_has_:
     nan: Jazz
     nb: jazz
     nds: Jazz
-    nds-nl: jazz
+    nds_nl: jazz
     new: ज्याज्
     nl: jazz
     nn: jazz
@@ -253,8 +253,8 @@ dv_has_:
     sms: jazzmusikk
     sq: xhaz
     sr: џез
-    sr-ec: џез
-    sr-el: džez
+    sr_ec: џез
+    sr_el: džez
     stq: Jazz
     su: Jazz
     sv: jazz
@@ -283,14 +283,14 @@ dv_has_:
     yo: Jazz
     yue: 爵士樂
     zh: 爵士乐
-    zh-cn: 爵士乐
-    zh-hans: 爵士乐
-    zh-hant: 爵士樂
-    zh-hk: 爵士樂
-    zh-mo: 爵士樂
+    zh_cn: 爵士乐
+    zh_hans: 爵士乐
+    zh_hant: 爵士樂
+    zh_hk: 爵士樂
+    zh_mo: 爵士樂
     zh-my: 爵士乐
-    zh-sg: 爵士乐
-    zh-tw: 爵士樂
+    zh_sg: 爵士乐
+    zh_tw: 爵士樂
 ---
 # [[Jazz]] 
 

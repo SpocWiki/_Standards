@@ -162,7 +162,7 @@ dv_has_:
     ast: Comunidá Económica d'Estaos del África Occidental
     az: Qərbi Afrika Dövlətlərinin İqtisadi Birliyi
     be: Эканамічная супольнасць краін Заходняй Афрыкі
-    be-tarask: Эканамічная супольнасьць краінаў Заходняй Афрыкі
+    be_tarask: Эканамічная супольнасьць краінаў Заходняй Афрыкі
     bg: Икономическа общност на западноафриканските държави
     bm: Afiriki tilebinyanfan jamanaw ka sɔrɔko jɛkulu
     bn: ইকোয়াস
@@ -200,11 +200,11 @@ dv_has_:
     ka: დასავლეთ აფრიკის ქვეყნების ეკონომიკური საზოგადოება
     kbp: Afrika Wɩsɩɖʋɖʋyɛ Ajɛyɛ Tɔsʋʋ Ŋgbɛyɛ
     kk: Батыс Африка елдерінің экономикалық қауымдастығы
-    kk-arab: باتىس افرىيكا ەلدەرىنىڭ ەكونومىيكالىق قاۋىمداستىعى
+    kk_arab: باتىس افرىيكا ەلدەرىنىڭ ەكونومىيكالىق قاۋىمداستىعى
     kk-cn: باتىس افرىيكا ەلدەرىنىڭ ەكونومىيكالىق قاۋىمداستىعى
-    kk-cyrl: Батыс Африка елдерінің экономикалық қауымдастығы
+    kk_cyrl: Батыс Африка елдерінің экономикалық қауымдастығы
     kk-kz: Батыс Африка елдерінің экономикалық қауымдастығы
-    kk-latn: Batıs Afrïka elderiniñ ékonomïkalıq qawımdastığı
+    kk_latn: Batıs Afrïka elderiniñ ékonomïkalıq qawımdastığı
     kk-tr: Batıs Afrïka elderiniñ ékonomïkalıq qawımdastığı
     ko: 서아프리카 국가 경제 공동체
     kus: Economic community of West Africa States (ECOWAS)
@@ -222,8 +222,8 @@ dv_has_:
     sl: Gospodarska skupnost zahodnoafriških držav
     so: Ecowas
     sr: Економска заједница држава западне Африке
-    sr-ec: Економска заједница држава западне Африке
-    sr-el: Ekonomska zajednica država zapadne Afrike
+    sr_ec: Економска заједница држава западне Африке
+    sr_el: Ekonomska zajednica država zapadne Afrike
     sv: ECOWAS
     sw: ECOWAS
     ta: மேற்காப்பிரிக்க நாடுகளின் பொருளாதார சமூகம்
@@ -238,12 +238,12 @@ dv_has_:
     yo: Àgbàjọ Tòkòwò àwọn Orílẹ̀-èdè Ìwọòrùn Áfríkà
     yue: 西非國家經濟共同體
     zh: 西非国家经济共同体
-    zh-cn: 西非国家经济共同体
-    zh-hans: 西非国家经济共同体
-    zh-hant: 西非國家經濟共同體
-    zh-hk: 西非國家經濟共同體
-    zh-sg: 西非国家经济共同体
-    zh-tw: 西非國家經濟共同體
+    zh_cn: 西非国家经济共同体
+    zh_hans: 西非国家经济共同体
+    zh_hant: 西非國家經濟共同體
+    zh_hk: 西非國家經濟共同體
+    zh_sg: 西非国家经济共同体
+    zh_tw: 西非國家經濟共同體
 ---
 # [[Economic_Community_of_West_African_States]] 
 

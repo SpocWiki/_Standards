@@ -86,7 +86,7 @@ dv_has_:
     ban: Arkeopteriks
     bar: Archäopteryx
     be: Праптушка
-    be-tarask: стараптах
+    be_tarask: стараптах
     bg: археоптерикси
     bn: আর্কিওপ্টেরিক্স
     br: Arkaeopteryks
@@ -123,11 +123,11 @@ dv_has_:
     jv: Archaeopteryx
     ka: არქეოპტერიქსი
     kk: Археоптерикс
-    kk-arab: ارحەوپتەرىيكس
+    kk_arab: ارحەوپتەرىيكس
     kk-cn: ارحەوپتەرىيكس
-    kk-cyrl: Археоптерикс
+    kk_cyrl: Археоптерикс
     kk-kz: Археоптерикс
-    kk-latn: Arxeopterïks
+    kk_latn: Arxeopterïks
     kk-tr: Arxeopterïks
     kn: ಆರ್ಕಿಯಾಪ್ಟೆರಿಕ್ಸ್
     ko: 시조새
@@ -160,7 +160,7 @@ dv_has_:
     sl: Praptič
     sq: Archaeopteryx
     sr: Археоптерикс
-    sr-ec: Археоптерикс
+    sr_ec: Археоптерикс
     su: Archaeopteryx
     sv: Archaeopteryx
     ta: ஆர்கியொட்ரிக்ஸ்
@@ -179,12 +179,12 @@ dv_has_:
     wuu: 始祖鸟
     yue: 始祖鳥
     zh: 始祖鸟
-    zh-cn: 始祖鸟
-    zh-hans: 始祖鸟
-    zh-hant: 始祖鳥
-    zh-hk: 始祖鳥
-    zh-sg: 始祖鸟
-    zh-tw: 始祖鳥
+    zh_cn: 始祖鸟
+    zh_hans: 始祖鸟
+    zh_hant: 始祖鳥
+    zh_hk: 始祖鳥
+    zh_sg: 始祖鸟
+    zh_tw: 始祖鳥
 ---
 # [[Archaeopteryx]] 
 

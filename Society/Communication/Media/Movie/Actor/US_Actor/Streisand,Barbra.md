@@ -172,7 +172,7 @@ dv_has_:
     az: Barbra Streyzand
     azb: باربارا استرایسند
     be: Барбра Стрэйзанд
-    be-tarask: Барбара Страйзанд
+    be_tarask: Барбара Страйзанд
     bg: Барбра Страйсънд
     bn: বারবারা স্ট্রাইস্যান্ড
     br: Barbra Streisand
@@ -183,11 +183,11 @@ dv_has_:
     cy: Barbra Streisand
     da: Barbra Streisand
     de: Barbra Streisand
-    de-ch: Barbra Streisand
+    de_ch: Barbra Streisand
     el: Μπάρμπρα Στρέιζαντ
     en: Barbra Streisand
-    en-ca: Barbra Streisand
-    en-gb: Barbra Streisand
+    en_ca: Barbra Streisand
+    en_gb: Barbra Streisand
     eo: Barbra Streisand
     es: Barbra Streisand
     et: Barbra Streisand
@@ -234,7 +234,7 @@ dv_has_:
     pap: Barbra Streisand
     pl: Barbra Streisand
     pt: Barbra Streisand
-    pt-br: Barbra Streisand
+    pt_br: Barbra Streisand
     qu: Barbra Streisand
     ro: Barbra Streisand
     ru: Барбра Стрейзанд
@@ -263,10 +263,10 @@ dv_has_:
     yo: Barbra Streisand
     yue: 芭芭拉史翠珊
     zh: 芭芭拉·瓊·史翠珊
-    zh-cn: 芭芭拉·琼·斯特赖桑德
+    zh_cn: 芭芭拉·琼·斯特赖桑德
     zh-my: 芭芭拉·史翠珊
-    zh-sg: 芭芭拉·史翠珊
-    zh-tw: 芭芭拉·瓊·史翠珊
+    zh_sg: 芭芭拉·史翠珊
+    zh_tw: 芭芭拉·瓊·史翠珊
 ---
 # [[Streisand,Barbra]] 
 

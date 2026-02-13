@@ -45,7 +45,7 @@ dv_has_:
     ar: لاألوهية
     arz: لاالوهيه
     ast: Non teísmu
-    be-tarask: нэтэізм
+    be_tarask: нэтэізм
     bg: Нетеизъм
     bn: অঈশ্বরবাদ
     ca: no teisme
@@ -53,8 +53,8 @@ dv_has_:
     da: Ureligiøs
     el: Μη θεϊσμός
     en: nontheism
-    en-ca: Nontheism
-    en-gb: Nontheism
+    en_ca: Nontheism
+    en_gb: Nontheism
     eo: neteismo
     es: no teísmo
     eu: Jainko eza
@@ -72,7 +72,7 @@ dv_has_:
     la: Nontheismus
     pl: nonteizm
     pt: não teísmo
-    pt-br: Não teísmo
+    pt_br: Não teísmo
     ru: нетеизм
     se: nonteisma
     sh: Nonteizam
@@ -81,16 +81,16 @@ dv_has_:
     sms: nonteismm
     sq: Joteizmi
     sr: Нонтеизам
-    sr-ec: Нонтеизам
-    sr-el: Nonteizam
+    sr_ec: Нонтеизам
+    sr_el: Nonteizam
     tr: Nonteizm
     uk: Нетеїзм
     uz: Nonteizm
     zh: 非有神论
-    zh-hans: 非有神论
-    zh-hant: 非有神論
-    zh-hk: 非有神論
-    zh-tw: 非有神論
+    zh_hans: 非有神论
+    zh_hant: 非有神論
+    zh_hk: 非有神論
+    zh_tw: 非有神論
 ---
 # [[Nontheism]] 
 

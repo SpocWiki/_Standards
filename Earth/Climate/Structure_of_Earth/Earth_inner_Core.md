@@ -85,7 +85,7 @@ dv_has_:
     ar: لب داخلي
     ast: nucleu internu
     az: Barisfer
-    be-tarask: нутранае ядро Зямлі
+    be_tarask: нутранае ядро Зямлі
     bg: Земно ядро
     ca: nucli intern
     de: innerer Erdkern
@@ -122,7 +122,7 @@ dv_has_:
     sl: notranje jedro
     sq: Bërthama e Tokës
     sr: унутрашње језгро Земље
-    sr-ec: унутрашње језгро Земље
+    sr_ec: унутрашње језгро Земље
     ta: உட் கருவம்
     tl: Panloob na kaibuturan ng Daigdig
     tly: Zəmini djlətonə nuvə
@@ -132,7 +132,7 @@ dv_has_:
     vi: Lõi trong
     yue: 內地核
     zh: 內地核
-    zh-hant: inner core
+    zh_hant: inner core
 ---
 # [[Earth's_inner_Core]] 
 

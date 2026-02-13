@@ -117,7 +117,7 @@ dv_has_:
     az: Bantu dilləri
     azb: بانتو دیللری
     be: банту
-    be-tarask: банту
+    be_tarask: банту
     bn: বান্টু ভাষাসমূহ
     br: yezhoù bantouek
     ca: llengües bantus
@@ -127,8 +127,8 @@ dv_has_:
     de: Bantusprachen
     el: Μπαντού γλώσσες
     en: Bantu
-    en-ca: Bantu languages
-    en-gb: Bantu
+    en_ca: Bantu languages
+    en_gb: Bantu
     eo: Bantua lingvaro
     es: lenguas bantúes
     et: bantu keeled
@@ -209,10 +209,10 @@ dv_has_:
     yo: Àwọn èdè Bàntú
     yue: 班圖語族
     zh: 班图语支
-    zh-cn: 班图语支
-    zh-hans: 班图语支
-    zh-hant: 班圖語支
-    zh-tw: 班圖語支
+    zh_cn: 班图语支
+    zh_hans: 班图语支
+    zh_hant: 班圖語支
+    zh_tw: 班圖語支
 ---
 # [[LangFamily~Bantu]] 
 

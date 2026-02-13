@@ -163,7 +163,7 @@ dv_has_:
     ban: Tukad Mékong
     bcl: Mekong
     be: Меконг
-    be-tarask: Мэконг
+    be_tarask: Мэконг
     bg: Меконг
     bho: मीकोंग नदी
     bn: মেকং নদী
@@ -272,9 +272,9 @@ dv_has_:
     yue: 湄公河
     za: Dahmeizgunghhoz
     zh: 湄公河
-    zh-hant: 湄公河
-    zh-hk: 湄公河
-    zh-tw: 湄公河
+    zh_hant: 湄公河
+    zh_hk: 湄公河
+    zh_tw: 湄公河
 ---
 # [[Mekong_River]] 
 

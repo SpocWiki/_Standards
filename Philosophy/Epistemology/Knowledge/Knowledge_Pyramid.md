@@ -47,9 +47,9 @@ dv_has_:
     uk: DIKW
     yue: DIKW體系
     zh: DIKW体系
-    zh-hans: DIKW体系
-    zh-hant: DIKW體系
-    zh-hk: DIKW體系
+    zh_hans: DIKW体系
+    zh_hant: DIKW體系
+    zh_hk: DIKW體系
 ---
 # [[Knowledge_Pyramid]] 
 

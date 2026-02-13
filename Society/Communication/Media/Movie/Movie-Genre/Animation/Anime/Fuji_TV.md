@@ -33,8 +33,8 @@ dv_has_:
     da: Fuji Television
     de: Fuji Television
     en: Fuji Television
-    en-ca: Fuji Television
-    en-gb: Fuji Television
+    en_ca: Fuji Television
+    en_gb: Fuji Television
     eo: Fuĵi-Televido
     es: Fuji Television
     eu: Fuji Television
@@ -74,10 +74,10 @@ dv_has_:
     wuu: 富士电视台
     yue: 富士電視台
     zh: 富士電視台
-    zh-cn: 富士电视台
-    zh-hans: 富士电视台
-    zh-hant: 富士電視台
-    zh-hk: 富士電視台
+    zh_cn: 富士电视台
+    zh_hans: 富士电视台
+    zh_hant: 富士電視台
+    zh_hk: 富士電視台
 ---
 > Fuji Television Network, Inc., also known as Fuji Television or **Fuji TV**, with the call sign JOCX-DTV, 
 > is a Japanese television station based in Odaiba, Minato, Tokyo, Japan. 

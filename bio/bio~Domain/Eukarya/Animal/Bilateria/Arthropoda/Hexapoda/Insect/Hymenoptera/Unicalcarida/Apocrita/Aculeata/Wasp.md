@@ -146,7 +146,7 @@ dv_has_:
     ba: Һағыҙаҡ
     ban: Tabuan
     be: восы
-    be-tarask: аса
+    be_tarask: аса
     bg: оси
     bjn: Tabuan
     bn: বোলতা
@@ -163,8 +163,8 @@ dv_has_:
     de: Wespen
     el: Σφήκα
     en: wasps
-    en-ca: wasp
-    en-gb: wasp
+    en_ca: wasp
+    en_gb: wasp
     eo: Vespo
     es: Avispa
     et: Herilased
@@ -192,7 +192,7 @@ dv_has_:
     kab: Arẓaẓ
     ko: 와습
     koi: Зі
-    ku-latn: mozqirtik
+    ku_latn: mozqirtik
     kv: Зі
     kw: goghi
     la: Vespa
@@ -224,7 +224,7 @@ dv_has_:
     pnb: تموڑی
     pnt: σκεπίδ'
     pt: vespa
-    pt-br: vespa
+    pt_br: vespa
     qu: Tankayllu
     ro: Viespi
     ru: осы

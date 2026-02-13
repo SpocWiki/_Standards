@@ -85,7 +85,7 @@ dv_has_:
     az: Səmti müəyyənetmə
     ba: Спорт ориентирлашыуы
     be: спартыўнае арыентаванне
-    be-tarask: спартовае арыентаваньне
+    be_tarask: спартовае арыентаваньне
     bg: Спортно ориентиране
     ca: cursa d'orientació
     cs: orientační sporty
@@ -93,7 +93,7 @@ dv_has_:
     de: Orientierungslauf
     el: Αγωνιστικός προσανατολισμός
     en: orienteering
-    en-gb: orienteering
+    en_gb: orienteering
     en-us: orienteering
     eo: orientiĝado
     es: orientación
@@ -132,7 +132,7 @@ dv_has_:
     sk: orientačný beh
     sl: orientacijski tek
     sr: оријентиринг
-    sr-ec: оријентиринг
+    sr_ec: оријентиринг
     sv: orientering
     tr: Oryantiring
     tt: Спорт ориентлашу
@@ -142,8 +142,8 @@ dv_has_:
     wuu: 野外定向
     yue: 定向
     zh: 定向运动
-    zh-hant: 定向運動
-    zh-tw: 定向運動
+    zh_hant: 定向運動
+    zh_tw: 定向運動
 ---
 # [[Orienteering]] 
 

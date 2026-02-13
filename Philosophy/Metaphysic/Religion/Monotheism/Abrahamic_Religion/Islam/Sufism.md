@@ -186,7 +186,7 @@ dv_has_:
     azb: صوفیلیک
     ba: суфыйлыҡ
     be: суфізм
-    be-tarask: суфізм
+    be_tarask: суфізм
     bg: Суфизъм
     bn: সুফিবাদ
     br: Soufiegezh
@@ -200,13 +200,13 @@ dv_has_:
     cy: Swffïaeth
     da: Sufisme
     de: Sufismus
-    de-ch: Sufismus
+    de_ch: Sufismus
     diq: Sufizm
     dv: ޞޫފީން
     el: Σουφισμός
     en: Sufism
-    en-ca: Sufism
-    en-gb: sufism
+    en_ca: Sufism
+    en_gb: sufism
     eo: sufiismo
     es: sufismo
     et: Sufism
@@ -223,7 +223,7 @@ dv_has_:
     ha: Sufiyya
     he: סופיות
     hi: सूफ़ीवाद
-    hif-latn: tasavvuf
+    hif_latn: tasavvuf
     hr: Sufizam
     hu: szúfizmus
     hy: սուֆիզմ
@@ -245,7 +245,7 @@ dv_has_:
     krj: Kasufihan
     ks: صوٗفیت
     ku: sofîtî
-    ku-latn: sofîtî
+    ku_latn: sofîtî
     ky: Суфизм "Сопучулук"
     la: sufismus
     lmo: Sufism
@@ -271,7 +271,7 @@ dv_has_:
     pnb: تصوف
     ps: تصوف
     pt: Sufismo
-    pt-br: Sufismo
+    pt_br: Sufismo
     ro: Sufism
     ru: суфизм
     rue: суфізм

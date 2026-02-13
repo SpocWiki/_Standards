@@ -114,7 +114,7 @@ dv_has_:
     ast: empréstamu
     az: istiqraz
     be: пазыка
-    be-tarask: пазыка
+    be_tarask: пазыка
     bg: заем
     bn: ঋণ
     ca: emprèstit
@@ -145,11 +145,11 @@ dv_has_:
     it: prestito
     ja: 融資
     kk: заем
-    kk-arab: زايەم
+    kk_arab: زايەم
     kk-cn: زايەم
-    kk-cyrl: заем
+    kk_cyrl: заем
     kk-kz: заем
-    kk-latn: zayem
+    kk_latn: zayem
     kk-tr: zayem
     kn: ಸಾಲ
     ko: 융자
@@ -184,8 +184,8 @@ dv_has_:
     sn: chikwereti
     sq: kredia
     sr: зајам
-    sr-ec: зајам
-    sr-el: zajam
+    sr_ec: зајам
+    sr_el: zajam
     sv: lån
     sw: mkopo
     ta: loan
@@ -202,12 +202,12 @@ dv_has_:
     yi: באָרג
     yue: 貸款
     zh: 借贷
-    zh-cn: 贷款
-    zh-hans: 贷款
-    zh-hant: 貸款
-    zh-hk: 貸款
-    zh-sg: 贷款
-    zh-tw: 貸款
+    zh_cn: 贷款
+    zh_hans: 贷款
+    zh_hant: 貸款
+    zh_hk: 貸款
+    zh_sg: 贷款
+    zh_tw: 貸款
 ---
 # [[Loan]] 
 

@@ -75,7 +75,7 @@ dv_has_:
     ast: electrostática
     az: elektrostatika
     be: электрастатыка
-    be-tarask: электрастатыка
+    be_tarask: электрастатыка
     bg: електростатика
     bn: ইলেকট্রনিক্সে হাতেখড়ি
     bs: elektrostatika
@@ -138,8 +138,8 @@ dv_has_:
     sl: elektrostatika
     sq: elektrostatika
     sr: електростатика
-    sr-ec: електростатика
-    sr-el: elektrostatika
+    sr_ec: електростатика
+    sr_el: elektrostatika
     su: éléktrostatika
     sv: elektrostatik
     ta: நிலைமின்னியல்
@@ -156,8 +156,8 @@ dv_has_:
     yi: עלעקטראסטאטיק
     yue: 靜電學
     zh: 靜電學
-    zh-hans: 静电学
-    zh-hant: 靜電學
+    zh_hans: 静电学
+    zh_hant: 靜電學
 ---
 # [[Electrostatics]] 
 

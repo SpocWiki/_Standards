@@ -16,7 +16,7 @@ dv_has_:
   name_:
     ab: Аҩадатәи Кореиа
     ace: Korèa Utara
-    aeb-arab: كوريا الشمالية
+    aeb_arab: كوريا الشمالية
     af: Noord-Korea
     am: ሰሜን ኮርያ
     ami: Korea, north
@@ -37,7 +37,7 @@ dv_has_:
     bbc: Korea Utara
     bcl: Korea nin Norte
     be: Паўночная Карэя
-    be-tarask: Карэйская Народна-Дэмакратычная Рэспубліка
+    be_tarask: Карэйская Народна-Дэмакратычная Рэспубліка
     bew: Koréa Lor
     bg: Северна Корея
     bho: उत्तर कोरिया
@@ -54,14 +54,14 @@ dv_has_:
     bug: ᨀᨚᨑᨙᨐ ᨑᨗᨐᨓ
     bxr: Хойд Солонгос
     ca: Corea del Nord
-    cbk-zam: Corea del Norte
+    cbk_zam: Corea del Norte
     cdo: Dièu-siēng Mìng-ciō-ciō-ngiê Ìng-mìng Gê̤ṳng-huò-guók
     ce: Корейн Халкъан-Демократически Республика
     ceb: Amihanang Korea
     ckb: کۆریای باکوور
     co: Corea di u Nordu
     crh: Şimaliy Koreya
-    crh-latn: Şimaliy Koreya
+    crh_latn: Şimaliy Koreya
     crh-ro: Sîrtbetí-Kore
     cs: Severní Korea
     csb: Kòrejańskô Lëdowò-Demokratnô Repùblika
@@ -72,7 +72,7 @@ dv_has_:
     dag: North Korea
     de: Nordkorea
     de-at: Nordkorea
-    de-ch: Nordkorea
+    de_ch: Nordkorea
     diq: Korya Zımey
     dsb: Pódpołnocna Koreja
     dtp: Korea Koibutan
@@ -82,8 +82,8 @@ dv_has_:
     ee: North Korea
     el: Βόρεια Κορέα
     en: North Korea
-    en-ca: North Korea
-    en-gb: North Korea
+    en_ca: North Korea
+    en_gb: North Korea
     en-us: North Korea
     eo: Nord-Koreio
     es: Corea del Norte
@@ -199,7 +199,7 @@ dv_has_:
     nap: Corea d''o Nord
     nb: Nord-Korea
     nds: Noordkorea
-    nds-nl: Noord-Korea
+    nds_nl: Noord-Korea
     ne: उत्तर कोरिया
     new: उत्तर कोरिया
     nia: Korea Yöu
@@ -222,7 +222,7 @@ dv_has_:
     pnb: شمالی کوریا
     ps: شمالي کوريا
     pt: Coreia do Norte
-    pt-br: Coreia do Norte
+    pt_br: Coreia do Norte
     qu: Chusun Runakapaq Runallaqta Republika
     rmy: Nordutni Koreya
     ro: Coreea de Nord
@@ -251,8 +251,8 @@ dv_has_:
     so: Waqooyiga Kuuriya
     sq: Koreja e Veriut
     sr: Северна Кореја
-    sr-ec: Северна Кореја
-    sr-el: Severna Koreja
+    sr_ec: Северна Кореја
+    sr_el: Severna Koreja
     srn: Ondroben-Korea
     ss: IKhoriya leseNyakatfo
     su: Koréa Kalér
@@ -306,14 +306,14 @@ dv_has_:
     zea: Noôrd-Korea
     zgh: ⴽⵓⵔⵢⴰ ⵜⴰⴳⴰⴼⴰⵏⵜ
     zh: 朝鮮民主主義人民共和國
-    zh-cn: 朝鲜民主主义人民共和国
-    zh-hans: 朝鲜民主主义人民共和国
-    zh-hant: 朝鮮民主主義人民共和國
-    zh-hk: 朝鮮民主主義人民共和國
-    zh-mo: 朝鮮民主主義人民共和國
+    zh_cn: 朝鲜民主主义人民共和国
+    zh_hans: 朝鲜民主主义人民共和国
+    zh_hant: 朝鮮民主主義人民共和國
+    zh_hk: 朝鮮民主主義人民共和國
+    zh_mo: 朝鮮民主主義人民共和國
     zh-my: 朝鲜民主主义人民共和国
-    zh-sg: 朝鲜民主主义人民共和国
-    zh-tw: 朝鮮民主主義人民共和國
+    zh_sg: 朝鲜民主主义人民共和国
+    zh_tw: 朝鮮民主主義人民共和國
     zu: i-North Korea
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Korea~North

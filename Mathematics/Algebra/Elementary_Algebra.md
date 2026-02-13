@@ -78,7 +78,7 @@ dv_has_:
     ast: álxebra elemental
     ba: элементар алгебра
     be: элементарная алгебра
-    be-tarask: элемэнтарная альгебра
+    be_tarask: элемэнтарная альгебра
     bg: елементарна алгебра
     bn: প্রাথমিক বীজগণিত
     bs: elementarna algebra
@@ -90,8 +90,8 @@ dv_has_:
     de: Elementare Algebra
     el: στοιχειώδης άλγεβρα
     en: elementary algebra
-    en-ca: elementary algebra
-    en-gb: elementary algebra
+    en_ca: elementary algebra
+    en_gb: elementary algebra
     eo: baza algebro
     es: álgebra elemental
     et: elementaaralgebra
@@ -123,14 +123,14 @@ dv_has_:
     pl: elementarna algebra
     pnb: ابتدائی الجبرا
     pt: álgebra elementar
-    pt-br: álgebra elementar
+    pt_br: álgebra elementar
     ro: algebră elementară
     ru: элементарная алгебра
     si: මූලික වීජ ගණිතය
     sl: elementarna algebra
     sr: елементарна алгебра
-    sr-ec: елементарна алгебра
-    sr-el: elementarna algebra
+    sr_ec: елементарна алгебра
+    sr_el: elementarna algebra
     sv: elementär algebra
     ta: அடிப்படை இயற்கணிதம்
     tl: elementaryong alhebra
@@ -144,12 +144,12 @@ dv_has_:
     yi: עלעמענטארע אלגעברע
     yue: 基本代數
     zh: 初等代數
-    zh-cn: 初等代数
-    zh-hans: 初等代数
-    zh-hant: 初等代數
-    zh-hk: 初等代數
-    zh-sg: 初等代数
-    zh-tw: 初等代數
+    zh_cn: 初等代数
+    zh_hans: 初等代数
+    zh_hant: 初等代數
+    zh_hk: 初等代數
+    zh_sg: 初等代数
+    zh_tw: 初等代數
 ---
 # [[Elementary_Algebra]] 
 

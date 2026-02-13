@@ -83,7 +83,7 @@ dv_has_:
     ar: عملية تصادفية
     ast: procesu estocásticu
     be: выпадковы працэс
-    be-tarask: выпадковы працэс
+    be_tarask: выпадковы працэс
     bg: Случаен процес
     bn: দৈব প্রক্রিয়া
     ca: procés estocàstic
@@ -119,7 +119,7 @@ dv_has_:
     nn: stokastisk prosess
     pl: Proces stochastyczny
     pt: processo estocástico
-    pt-br: processo estocástico
+    pt_br: processo estocástico
     ro: proces stohastic
     ru: случайный процесс
     sk: Stochastický proces

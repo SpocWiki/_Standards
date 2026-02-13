@@ -133,7 +133,7 @@ dv_has_:
     az: fiziki kəmiyyət
     ba: физик дәүмәл
     be: фізічныя велічыні
-    be-tarask: фізычная велічыня
+    be_tarask: фізычная велічыня
     bg: физична величина
     bn: ভৌত রাশি
     bs: mjerna veličina
@@ -143,11 +143,11 @@ dv_has_:
     cy: maint corfforol
     da: fysisk størrelse
     de: physikalische Größe
-    de-ch: physikalische Grösse
+    de_ch: physikalische Grösse
     el: φυσικό μέγεθος
     en: physical quantity
-    en-ca: physical quantity
-    en-gb: physical quantity
+    en_ca: physical quantity
+    en_gb: physical quantity
     eo: fizika grando
     es: magnitud física
     et: füüsikaline suurus
@@ -174,8 +174,8 @@ dv_has_:
     ka: ფიზიკური სიდიდე
     kaa: fizikalıq shama
     kk: физикалық шама
-    kk-arab: فىيزىيكالىق شاما
-    kk-latn: fïzïkalıq şama
+    kk_arab: فىيزىيكالىق شاما
+    kk_latn: fïzïkalıq şama
     ko: 물리량
     ks: مادی میقدار
     kw: myns fysegel
@@ -188,7 +188,7 @@ dv_has_:
     ml: ഭൗതിക അളവ്
     mr: भौतिक राशी
     ms: kuantiti fizikal
-    ms-arab: کوانتيتي فيزيکل
+    ms_arab: کوانتيتي فيزيکل
     nb: fysisk størrelse
     nds: Physikaalsch Grött
     nl: natuurkundige grootheid
@@ -198,7 +198,7 @@ dv_has_:
     pl: wielkość fizyczna
     pms: grandëssa fìsica
     pt: grandeza física
-    pt-br: grandeza física
+    pt_br: grandeza física
     qu: chhikan kay
     ro: mărime fizică
     ru: физическая величина
@@ -216,7 +216,7 @@ dv_has_:
     sms: šorrõk
     sq: sasi fizike
     sr: физичка величина
-    sr-el: fizička veličina
+    sr_el: fizička veličina
     sv: fysikalisk storhet
     ta: இயற்பியல் பண்பளவுகள்
     te: భౌతిక విలువ
@@ -233,14 +233,14 @@ dv_has_:
     yi: פיזישער גרייס
     yue: 物理量
     zh: 物理量
-    zh-cn: 物理量
-    zh-hans: 物理量
-    zh-hant: 物理量
-    zh-hk: 物理量
-    zh-mo: 物理量
+    zh_cn: 物理量
+    zh_hans: 物理量
+    zh_hant: 物理量
+    zh_hk: 物理量
+    zh_mo: 物理量
     zh-my: 物理量
-    zh-sg: 物理量
-    zh-tw: 物理量
+    zh_sg: 物理量
+    zh_tw: 物理量
 ---
 # [[Physical_Quantity]] 
 

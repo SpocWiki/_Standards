@@ -117,7 +117,7 @@ dv_has_:
     azb: خرارد توفت
     bar: Gerardus 't Hooft
     be: Герард ’т Хоафт
-    be-tarask: Герард ’т Гоофт
+    be_tarask: Герард ’т Гоофт
     bg: Герардус 'т Хоофт
     bn: গেরার্টেট হোফ্ট
     br: Gerardus 't Hooft
@@ -128,10 +128,10 @@ dv_has_:
     da: Gerard 't Hooft
     de: Gerard 't Hooft
     de-at: Gerardus 't Hooft
-    de-ch: Gerardus 't Hooft
+    de_ch: Gerardus 't Hooft
     en: Gerard 't Hooft
-    en-ca: Gerardus 't Hooft
-    en-gb: Gerardus 't Hooft
+    en_ca: Gerardus 't Hooft
+    en_gb: Gerardus 't Hooft
     eo: Gerardus 't Hooft
     es: Gerard 't Hooft
     et: Gerardus 't Hooft
@@ -164,8 +164,8 @@ dv_has_:
     kk: Герард’т Хоофт
     ko: 헤라르트 엇호프트
     ku: Gerardus 't Hooft
-    ku-arab: گەراردوس 'ت حۆۆفت
-    ku-latn: Gerardus 't Hooft
+    ku_arab: گەراردوس 'ت حۆۆفت
+    ku_latn: Gerardus 't Hooft
     la: Gerardus 't Hooft
     lb: Gerardus 't Hooft
     li: Gerardus 't Hooft
@@ -181,7 +181,7 @@ dv_has_:
     nap: Gerardus 't Hooft
     nb: Gerard 't Hooft
     nds: Gerardus 't Hooft
-    nds-nl: Gerardus 't Hooft
+    nds_nl: Gerardus 't Hooft
     new: गेरार्डस 'टी हूफ्ट
     nl: Gerard 't Hooft
     nn: Gerard 't Hooft
@@ -193,7 +193,7 @@ dv_has_:
     pms: Gerardus 't Hooft
     pnb: گیرارڈسٹ ہوفٹ
     pt: Gerardus 't Hooft
-    pt-br: Gerardus 't Hooft
+    pt_br: Gerardus 't Hooft
     rm: Gerardus 't Hooft
     ro: Gerard 't Hooft
     ru: Герард ’т Хоофт
@@ -207,7 +207,7 @@ dv_has_:
     sl: Gerardus 't Hooft
     sq: Gerard 't Hooft
     sr: Герард 'т Хофт
-    sr-el: Gerardus 't Hooft
+    sr_el: Gerardus 't Hooft
     srn: Gerard 't Hooft
     sv: Gerard 't Hooft
     sw: Gerardus 't Hooft
@@ -226,12 +226,12 @@ dv_has_:
     yo: Gerard 't Hooft
     yue: 傑拉德·特·胡夫特
     zh: 杰拉德·特·胡夫特
-    zh-cn: 杰拉德·特·胡夫特
-    zh-hans: 杰拉德·特·胡夫特
-    zh-hant: 傑拉德·特·胡夫特
-    zh-hk: 傑拉德·特·胡夫特
-    zh-sg: 杰拉德·特·胡夫特
-    zh-tw: 傑拉德·特·胡夫特
+    zh_cn: 杰拉德·特·胡夫特
+    zh_hans: 杰拉德·特·胡夫特
+    zh_hant: 傑拉德·特·胡夫特
+    zh_hk: 傑拉德·特·胡夫特
+    zh_sg: 杰拉德·特·胡夫特
+    zh_tw: 傑拉德·特·胡夫特
     zu: Gerardus 't Hooft
 ---
 # [[Hooft,Gerard_'t]] 

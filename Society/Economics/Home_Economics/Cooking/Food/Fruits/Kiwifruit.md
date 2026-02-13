@@ -101,7 +101,7 @@ dv_has_:
     az: Kivi
     azb: کیوی
     be: Ківі, садавіна
-    be-tarask: ківі
+    be_tarask: ківі
     bg: киви
     bi: Kiwe
     bn: কিউই ফল
@@ -116,8 +116,8 @@ dv_has_:
     de: Kiwifrucht
     el: ακτινίδιο
     en: kiwifruit
-    en-ca: Kiwifruit
-    en-gb: kiwi fruit
+    en_ca: Kiwifruit
+    en_gb: kiwi fruit
     eo: kivifrukto
     es: kiwi
     et: kiivi
@@ -168,7 +168,7 @@ dv_has_:
     pnb: کیوی
     ps: A New Etymological Vocabulary of Pashto
     pt: Quiuí
-    pt-br: Quiuí
+    pt_br: Quiuí
     ro: Kiwi
     ru: киви
     sah: Киви (ас)
@@ -194,9 +194,9 @@ dv_has_:
     yue: 奇異果
     zh: 猕猴桃
     zh-cn: 猕猴桃
-    zh-hans: 猕猴桃
-    zh-hant: 奇異果
-    zh-tw: 奇異果
+    zh_hans: 猕猴桃
+    zh_hant: 奇異果
+    zh_tw: 奇異果
     zu: Kiwifruit
 ---
 # [[Kiwifruit]] 🥝 

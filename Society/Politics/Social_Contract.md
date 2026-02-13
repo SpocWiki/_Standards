@@ -80,7 +80,7 @@ dv_has_:
     ast: Contratu social
     az: İctimai müqavilə
     be: тэорыя грамадскага дагавора
-    be-tarask: грамадзкая дамова
+    be_tarask: грамадзкая дамова
     bg: Обществен договор
     bn: সামাজিক চুক্তি তত্ত্ব
     ca: contracte social
@@ -91,8 +91,8 @@ dv_has_:
     de: Sozialvertrag
     el: κοινωνικό συμβόλαιο
     en: social contract
-    en-ca: Social contract
-    en-gb: social contract
+    en_ca: Social contract
+    en_gb: social contract
     eo: socia kontrakto
     es: contrato social
     et: Ühiskondlik leping
@@ -126,14 +126,14 @@ dv_has_:
     pl: umowa społeczna
     ps: ټولنیز تړوند
     pt: contrato social
-    pt-br: contrato social
+    pt_br: contrato social
     ro: contract social
     ru: общественный договор
     sh: Društveni ugovor
     sk: Spoločenská zmluva (štát)
     sl: socialna pogodba
     sr: друштвени уговор
-    sr-ec: друштвени уговор
+    sr_ec: друштвени уговор
     sv: samhällskontrakt
     ta: சமுதாய ஒப்பந்தம்
     th: สัญญาประชาคม

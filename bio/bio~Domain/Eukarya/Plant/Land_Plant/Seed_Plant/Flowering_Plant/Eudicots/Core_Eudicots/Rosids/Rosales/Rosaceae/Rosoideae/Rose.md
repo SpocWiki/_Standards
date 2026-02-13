@@ -195,7 +195,7 @@ dv_has_:
     azb: ایتبورنو
     ban: Mawa
     be: Ружа
-    be-tarask: ружа
+    be_tarask: ружа
     bew: Ros
     bg: роза
     bho: गुलाब
@@ -279,7 +279,7 @@ dv_has_:
     mr: गुलाब
     mrj: Лӧчкӓванды
     ms: mawar
-    ms-arab: ماور
+    ms_arab: ماور
     mul: Rosa
     my: နှင်းဆီ
     myv: Овтоумарь
@@ -298,7 +298,7 @@ dv_has_:
     pl: róża
     pnb: گلاب
     pt: Rosa
-    pt-br: Rosa
+    pt_br: Rosa
     qu: Waysallpu
     ro: Trandafir
     ru: шиповник
@@ -322,7 +322,7 @@ dv_has_:
     sn: Rhozi
     sq: Rosa
     sr: ружа
-    sr-ec: ружа
+    sr_ec: ружа
     su: eros
     sv: rossläktet
     sw: Mwaridi
@@ -339,7 +339,7 @@ dv_has_:
     to: Lose
     tr: gül
     tt: гөлҗимеш
-    tt-cyrl: гөлҗимеш
+    tt_cyrl: гөлҗимеш
     tyv: Ыт-кады
     uk: шипшина
     ur: گلاب
@@ -354,10 +354,10 @@ dv_has_:
     yi: רויז
     yue: 玫瑰
     zh: 蔷薇属
-    zh-cn: 蔷薇属
-    zh-hans: 蔷薇属
-    zh-hant: 薔薇屬
-    zh-tw: 薔薇屬
+    zh_cn: 蔷薇属
+    zh_hans: 蔷薇属
+    zh_hant: 薔薇屬
+    zh_tw: 薔薇屬
 ---
 # [[Rose]] 
 

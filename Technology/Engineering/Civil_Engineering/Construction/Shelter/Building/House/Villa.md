@@ -59,7 +59,7 @@ dv_has_:
   name_:
     ar: فيلا
     be: віла
-    be-tarask: віля
+    be_tarask: віля
     bg: Вила
     br: Villas
     ca: vil·la
@@ -68,11 +68,11 @@ dv_has_:
     cy: fila
     da: villa
     de: Villa
-    de-ch: Villa
+    de_ch: Villa
     el: έπαυλη
     en: villa
-    en-ca: Villa
-    en-gb: villa
+    en_ca: Villa
+    en_gb: villa
     eo: vilao
     es: villa
     et: villa
@@ -107,21 +107,21 @@ dv_has_:
     my: ဗီလာ
     nan: Pia̍t-chong
     nb: villa
-    nds-nl: laandhoes
+    nds_nl: laandhoes
     nl: villa
     nn: villa
     oc: villa
     pl: willa
     pt: villa
-    pt-br: Villa
+    pt_br: Villa
     ro: vilă
     ru: вилла
     sh: vila
     sl: vila
     sq: Vila (shtëpi)
     sr: вила
-    sr-ec: вила
-    sr-el: vila
+    sr_ec: вила
+    sr_el: vila
     sv: villa
     szy: u bi’su (別墅）hananay a ni aenengan
     tg: Вилла
@@ -136,8 +136,8 @@ dv_has_:
     wuu: 别墅
     yue: 別墅
     zh: 别墅
-    zh-cn: 别墅
-    zh-hans: 别墅
+    zh_cn: 别墅
+    zh_hans: 别墅
 ---
 # [[Villa]] 
 

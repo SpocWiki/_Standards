@@ -258,7 +258,7 @@ dv_has_:
     ba: Отто фон Бисмарк
     bar: Otto von Bismarck
     be: Ота фон Бісмарк
-    be-tarask: Ота фон Бісмарк
+    be_tarask: Ота фон Бісмарк
     bew: Otto von Bismarck
     bg: Ото фон Бисмарк
     bn: অটো ফন বিসমার্ক
@@ -276,13 +276,13 @@ dv_has_:
     cy: Otto von Bismarck
     da: Otto von Bismarck
     de: Otto von Bismarck
-    de-ch: Otto von Bismarck
+    de_ch: Otto von Bismarck
     diq: Otto von Bismarck
     dsb: Otto von Bismarck
     el: Ότο φον Μπίσμαρκ
     en: Otto von Bismarck
-    en-ca: Otto von Bismarck
-    en-gb: Otto von Bismarck
+    en_ca: Otto von Bismarck
+    en_gb: Otto von Bismarck
     en-us: Otto von Bismarck
     eo: Otto von Bismarck
     es: Otto von Bismarck
@@ -368,7 +368,7 @@ dv_has_:
     pnb: بسمارک
     ps: اوتو فون بیسمارک
     pt: Otto von Bismarck
-    pt-br: Otto von Bismarck
+    pt_br: Otto von Bismarck
     qu: Otto von Bismarck
     ro: Otto von Bismarck
     ru: Отто фон Бисмарк

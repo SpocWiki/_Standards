@@ -54,7 +54,7 @@ dv_has_:
     ast: Guerra híbrida
     az: Hibrid müharibəsi
     be: Гібрыдная вайна
-    be-tarask: гібрыдная вайна
+    be_tarask: гібрыдная вайна
     bg: хибридна война
     bs: Hibridni rat
     ca: guerra híbrida
@@ -63,8 +63,8 @@ dv_has_:
     de: Hybridkrieg
     el: Υβριδικός πόλεμος
     en: hybrid warfare
-    en-ca: hybrid warfare
-    en-gb: hybrid warfare
+    en_ca: hybrid warfare
+    en_gb: hybrid warfare
     es: Guerra híbrida
     et: Hübriidsõda
     eu: gerra hibrido

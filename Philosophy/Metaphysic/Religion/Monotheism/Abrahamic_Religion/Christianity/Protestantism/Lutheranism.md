@@ -145,14 +145,14 @@ dv_has_:
     ba: Лютерандар
     bbc: Huria Lutheran
     be: лютэранства
-    be-tarask: лютэранства
+    be_tarask: лютэранства
     bg: лутеранство
     br: Luteriegezh
     bs: luteranizam
     ca: luteranisme
     ce: Лютераналла
     crh: lüteranlıq
-    crh-latn: lüteranlıq
+    crh_latn: lüteranlıq
     cs: luteránství
     csb: Lëtërstwò
     cy: yr Eglwys Lutheraidd
@@ -161,7 +161,7 @@ dv_has_:
     diq: Lutheranizm
     el: Λουθηρανισμός
     en: Lutheranism
-    en-gb: Lutheranism
+    en_gb: Lutheranism
     en-us: Lutheranism
     eo: luteranismo
     es: luteranismo
@@ -238,8 +238,8 @@ dv_has_:
     sl: luteranstvo
     sq: Luteranizmi
     sr: лутеранизам
-    sr-ec: Лутеранизам
-    sr-el: Luteranizam
+    sr_ec: Лутеранизам
+    sr_el: Luteranizam
     sv: lutherdom
     sw: Walutheri
     szl: luteranizm
@@ -261,9 +261,9 @@ dv_has_:
     yue: 路德會
     zea: Lutheranisme
     zh: 信義宗
-    zh-hans: 路德教会
-    zh-hant: 路德教會
-    zh-tw: 路德教派
+    zh_hans: 路德教会
+    zh_hant: 路德教會
+    zh_tw: 路德教派
 ---
 # [[Lutheranism]] 
 

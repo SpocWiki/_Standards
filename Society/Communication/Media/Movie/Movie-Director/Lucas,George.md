@@ -146,7 +146,7 @@ dv_has_:
     az: Corc Lukas
     azb: جرج لوکاس
     be: Джордж Лукас
-    be-tarask: Джордж Лукас
+    be_tarask: Джордж Лукас
     bg: Джордж Лукас
     bn: জর্জ লুকাস
     br: George Lucas
@@ -157,11 +157,11 @@ dv_has_:
     cy: George Lucas
     da: George Lucas
     de: George Lucas
-    de-ch: George Lucas
+    de_ch: George Lucas
     el: Τζορτζ Λούκας
     en: George Lucas
-    en-ca: George Lucas
-    en-gb: George Lucas
+    en_ca: George Lucas
+    en_gb: George Lucas
     eo: George Lucas
     es: George Lucas
     et: George Lucas
@@ -218,7 +218,7 @@ dv_has_:
     pl: George Lucas
     pms: George Lucas
     pt: George Lucas
-    pt-br: George Lucas
+    pt_br: George Lucas
     qu: George Lucas
     ro: George Lucas
     ru: Джордж Лукас
@@ -243,7 +243,7 @@ dv_has_:
     tok: jan So Luka
     tr: George Lucas
     tt: Җорҗ Лукас
-    tt-cyrl: Җорҗ Лукас
+    tt_cyrl: Җорҗ Лукас
     uk: Джордж Лукас
     uz: George Lucas
     vi: George Lucas
@@ -255,10 +255,10 @@ dv_has_:
     yo: George Lucas
     yue: 佐治魯卡斯
     zh: 乔治·卢卡斯
-    zh-cn: 乔治·卢卡斯
-    zh-hans: 乔治·卢卡斯
-    zh-hant: 喬治·盧卡斯
-    zh-hk: 佐治·盧卡斯
+    zh_cn: 乔治·卢卡斯
+    zh_hans: 乔治·卢卡斯
+    zh_hant: 喬治·盧卡斯
+    zh_hk: 佐治·盧卡斯
 ---
 # [[Lucas,George]] 
 

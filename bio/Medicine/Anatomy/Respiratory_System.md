@@ -162,7 +162,7 @@ dv_has_:
     ba: Һулыш алыу системаһы
     bcl: Sistemang respiratoryo
     be: дыхальная сістэма
-    be-tarask: дыхальная сыстэма
+    be_tarask: дыхальная сыстэма
     bg: Дихателна система
     bn: শ্বসনতন্ত্র
     bo: དབུགས་ལམ་མ་ལག་
@@ -174,12 +174,12 @@ dv_has_:
     cy: system resbiradu
     da: åndedrætssystem
     de: Atemwege
-    de-ch: Atemtrakt
+    de_ch: Atemtrakt
     dv: ނޭވާލާ ނިޒާމް
     el: αναπνευστικό σύστημα
     en: respiratory system
-    en-ca: Respiratory system
-    en-gb: respiratory system
+    en_ca: Respiratory system
+    en_gb: respiratory system
     eo: spira sistemo
     es: aparato respiratorio
     es-419: el sistema respiratorio
@@ -208,12 +208,12 @@ dv_has_:
     jv: Sistem ambegan
     kab: Anagraw amesgunef
     kk: дем алу жүйесі
-    kk-latn: dem alw jüyesi
+    kk_latn: dem alw jüyesi
     kn: ಉಸಿರಾಟದ ವ್ಯವಸ್ಥೆ
     knc: Respiratory system
     ko: 호흡 계통
     ku: Koendama henaseyê
-    ku-latn: koendama henaseyê
+    ku_latn: koendama henaseyê
     ky: дем алуу системасы
     la: Systema respiratorium
     lb: Ootmungsapparat beim Mënsch
@@ -225,7 +225,7 @@ dv_has_:
     mk: дишен систем
     ml: ശ്വസനേന്ദ്രിയവ്യൂഹം
     ms: sistem pernafasan
-    ms-arab: سيستم ڤرنفسن
+    ms_arab: سيستم ڤرنفسن
     nan: Ho͘-khip hē-thóng
     nb: åndedrettssystem
     nds: Atensysteem
@@ -242,7 +242,7 @@ dv_has_:
     pnb: ساہ لین پربندھ
     ps: ساييز غونډال
     pt: sistema respiratório
-    pt-br: Sistema respiratório
+    pt_br: Sistema respiratório
     qu: Samana yawri
     ro: sistem respirator
     ru: дыхательная система
@@ -277,10 +277,10 @@ dv_has_:
     yi: אטעם-סיסטעם
     yue: 呼吸系統
     zh: 呼吸系統
-    zh-cn: 呼吸系统
-    zh-hans: 呼吸系统
-    zh-hant: 呼吸系統
-    zh-hk: 呼吸系統
+    zh_cn: 呼吸系统
+    zh_hans: 呼吸系统
+    zh_hant: 呼吸系統
+    zh_hk: 呼吸系統
 ---
 # [[Respiratory_System]] 
 

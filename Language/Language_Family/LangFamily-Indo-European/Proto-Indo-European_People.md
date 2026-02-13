@@ -78,14 +78,14 @@ dv_has_:
     az: Proto-hind-avropa xalqı
     ba: Боронғо һинд-европа халҡы
     be: праіндаеўрапейцы
-    be-tarask: праіндаэўрапейцы
+    be_tarask: праіндаэўрапейцы
     bjn: Proto-Indo-Eropa
     ca: protoindoeuropeus
     de: Proto-Indoeuropäer
     el: πρωτοϊνδοευρωπαίοι
     en: Proto-Indo-Europeans
-    en-ca: Proto-Indo-Europeans
-    en-gb: Proto-Indo-Europeans
+    en_ca: Proto-Indo-Europeans
+    en_gb: Proto-Indo-Europeans
     eo: prahindeŭropa popolo
     es: pueblo protoindoeuropeo
     eu: Proto-indoeuropar
@@ -116,15 +116,15 @@ dv_has_:
     oc: Protoindoeuropèus
     pnb: ابتدائی ہند یورپی لوک
     pt: protoindo-europeus
-    pt-br: proto-indo-europeus
+    pt_br: proto-indo-europeus
     ro: proto-indo-europeni
     ru: праиндоевропейцы
     sh: Proto-Indoevropljani
     si: ප්රාග්-ඉන්දු-යුරෝපීය ජනයා
     sl: Praindoevropejci
     sr: Праиндоевропљани
-    sr-ec: Протоиндоевропљани
-    sr-el: Protoindoevropljani
+    sr_ec: Протоиндоевропљани
+    sr_el: Protoindoevropljani
     sv: urindoeuropéer
     ta: ஆதி இந்தோ ஐரோப்பிய மக்கள்
     tr: Proto-Hint-Avrupalılar
@@ -133,7 +133,7 @@ dv_has_:
     vi: người Ấn-Âu nguyên thủy
     yue: 原始印歐人
     zh: 原始印欧人
-    zh-hant: 原始印歐人
+    zh_hant: 原始印歐人
 ---
 # [[Proto-Indo-European_People]] 
 

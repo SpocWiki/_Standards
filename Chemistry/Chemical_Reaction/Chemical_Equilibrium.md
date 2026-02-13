@@ -104,7 +104,7 @@ dv_has_:
     ast: Equilibriu químicu
     az: Kimyəvi tarazlıq
     be: хімічная раўнавага
-    be-tarask: хімічная раўнавага
+    be_tarask: хімічная раўнавага
     bg: Химично равновесие
     bn: রাসায়নিক সাম্যাবস্থা
     bs: Hemijska ravnoteža
@@ -148,7 +148,7 @@ dv_has_:
     nn: kjemisk likevekt
     pl: równowaga reakcji chemicznych
     pt: equilíbrio químico
-    pt-br: equilíbrio químico
+    pt_br: equilíbrio químico
     qu: Chaqllisinchi nankay
     ro: echilibru chimic
     ru: химическое равновесие
@@ -159,8 +159,8 @@ dv_has_:
     sms: kemiaalʼlaž tääʹssteädd
     sq: Ekuilibri kimik
     sr: хемијска равнотежа
-    sr-ec: Хемијска равнотежа
-    sr-el: Hemijska ravnoteža
+    sr_ec: Хемијска равнотежа
+    sr_el: Hemijska ravnoteža
     sv: kemisk jämvikt
     ta: வேதியியற் சமநிலை
     th: สมดุลเคมี
@@ -173,12 +173,12 @@ dv_has_:
     wuu: 化学平衡
     yue: 化學平衡
     zh: 化学平衡
-    zh-cn: 化学平衡
-    zh-hans: 化学平衡
-    zh-hant: 化學平衡
-    zh-hk: 化學平衡
-    zh-sg: 化学平衡
-    zh-tw: 化學平衡
+    zh_cn: 化学平衡
+    zh_hans: 化学平衡
+    zh_hant: 化學平衡
+    zh_hk: 化學平衡
+    zh_sg: 化学平衡
+    zh_tw: 化學平衡
 ---
 # [[Chemical_Equilibrium]] 
 

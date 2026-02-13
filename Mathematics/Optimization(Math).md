@@ -84,7 +84,7 @@ dv_has_:
     az: Optimallaşdırma
     ba: оптималләштереү
     be: аптымізацыя
-    be-tarask: аптымізацыя
+    be_tarask: аптымізацыя
     bg: Оптимиране
     bn: গাণিতিক অনুকূলকরণ
     ca: optimització matemàtica
@@ -94,7 +94,7 @@ dv_has_:
     de: Optimierung
     el: Βελτιστοποίηση
     en: mathematical optimization
-    en-gb: mathematical optimisation
+    en_gb: mathematical optimisation
     eo: optimumigo
     es: optimización
     eu: Hoberenatze
@@ -114,11 +114,11 @@ dv_has_:
     it: ottimizzazione
     ja: 数理最適化
     kk: Математикалық оптимизация
-    kk-arab: ماتەماتىيكالىق وپتىيمىيزاتسىييا
+    kk_arab: ماتەماتىيكالىق وپتىيمىيزاتسىييا
     kk-cn: ماتەماتىيكالىق وپتىيمىيزاتسىييا
-    kk-cyrl: Математикалық оптимизация
+    kk_cyrl: Математикалық оптимизация
     kk-kz: Математикалық оптимизация
-    kk-latn: Matematïkalıq optïmïzacïya
+    kk_latn: Matematïkalıq optïmïzacïya
     kk-tr: Matematïkalıq optïmïzacïya
     ko: 수학적 최적화
     ko-kp: 최량화방법
@@ -131,7 +131,7 @@ dv_has_:
     nn: matematisk optimering
     pl: optymalizacja
     pt: otimização
-    pt-br: otimização
+    pt_br: otimização
     ro: Optimizare
     ru: оптимизация
     se: matematihkalaš optimeren
@@ -139,8 +139,8 @@ dv_has_:
     sl: matematična optimizacija
     sq: thjeshtëzim matematikor
     sr: oптимизација
-    sr-ec: Оптимизација
-    sr-el: Optimizacija
+    sr_ec: Оптимизација
+    sr_el: Optimizacija
     su: Optimisasi
     sv: optimeringslära
     th: การหาค่าเหมาะที่สุด
@@ -153,12 +153,12 @@ dv_has_:
     vi: tối ưu hóa toán học
     yue: 最佳化
     zh: 最优化
-    zh-cn: 最优化
-    zh-hans: 最优化
-    zh-hant: 最佳化
-    zh-hk: 最佳化
-    zh-sg: 最优化
-    zh-tw: 最佳化
+    zh_cn: 最优化
+    zh_hans: 最优化
+    zh_hant: 最佳化
+    zh_hk: 最佳化
+    zh_sg: 最优化
+    zh_tw: 最佳化
 ---
 # [[Optimization(Math)]] 
 

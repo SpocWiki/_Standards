@@ -4,7 +4,7 @@ dv_has_:
   name_:
     ar: سلبية الغرام
     be: грамадмоўныя бактэрыі
-    be-tarask: грам-нэгатыўная
+    be_tarask: грам-нэгатыўная
     bn: গ্রাম-নেগেটিভ ব্যাকটেরিয়া
     br: Gram-nann
     bs: Gram-negativna bakterija
@@ -59,9 +59,9 @@ dv_has_:
     uk: грам-негативні бактерії
     vi: Vi khuẩn Gram âm
     zh: 革兰氏阴性菌
-    zh-hans: 革兰氏阴性菌
-    zh-hant: 革蘭氏陰性菌
-    zh-hk: 革蘭氏陰性菌
+    zh_hans: 革兰氏阴性菌
+    zh_hant: 革蘭氏陰性菌
+    zh_hk: 革蘭氏陰性菌
 aliases:
 - Baakteeriyaa Giraam negativii(Hi'eentaa)
 - Bacteria Gram-negativa

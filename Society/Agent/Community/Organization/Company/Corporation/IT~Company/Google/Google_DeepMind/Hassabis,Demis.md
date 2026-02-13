@@ -117,7 +117,7 @@ dv_has_:
     as: ডেমিছ হাছাবিছ
     ast: Demis Hassabis
     be: Дэміс Хасабіс
-    be-tarask: Дэміс Гасабіс
+    be_tarask: Дэміс Гасабіс
     bg: Демис Хасабис
     bn: ডেমিস হাসাবিস
     ca: Demis Hassabis
@@ -127,8 +127,8 @@ dv_has_:
     de: Demis Hassabis
     el: Ντέμης Χασάμπης
     en: Demis Hassabis
-    en-ca: Demis Hassabis
-    en-gb: Demis Hassabis
+    en_ca: Demis Hassabis
+    en_gb: Demis Hassabis
     eo: Demis Hassabis
     es: Demis Hassabis
     eu: Demis Hassabis
@@ -154,7 +154,7 @@ dv_has_:
     pl: Demis Hassabis
     pnb: ڈیمس ہاسابیس
     pt: Demis Hassabis
-    pt-br: Demis Hassabis
+    pt_br: Demis Hassabis
     ro: Demis Hassabis
     ru: Демис Хассабис
     sk: Demis Hassabis
@@ -168,7 +168,7 @@ dv_has_:
     uk: Деміс Гассабіс
     ur: ڈیمس ہاسابیس
     zh: 杰米斯·哈萨比斯
-    zh-tw: 德米斯·哈薩比斯
+    zh_tw: 德米斯·哈薩比斯
 ---
 # [[Hassabis,Demis]] 
 

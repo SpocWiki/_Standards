@@ -237,7 +237,7 @@ dv_has_:
     ba: Бензол
     bcl: Benzene
     be: бензол
-    be-tarask: бэнзол
+    be_tarask: бэнзол
     bg: Бензен
     bn: বেনজিন
     bs: Benzen
@@ -249,8 +249,8 @@ dv_has_:
     de: Benzol
     el: βενζόλιο
     en: benzene
-    en-ca: Benzene
-    en-gb: benzene
+    en_ca: Benzene
+    en_gb: benzene
     eo: benzeno
     es: benceno
     et: Benseen
@@ -296,7 +296,7 @@ dv_has_:
     pl: benzen
     pnb: بینزین
     pt: benzeno
-    pt-br: benzeno
+    pt_br: benzeno
     ro: benzen
     ru: бензол
     sco: benzene
@@ -324,9 +324,9 @@ dv_has_:
     wuu: 苯
     yue: 苯
     zh: 苯
-    zh-cn: 苯
-    zh-hans: 苯
-    zh-hant: 苯
+    zh_cn: 苯
+    zh_hans: 苯
+    zh_hant: 苯
 dv_is_:
   same_as:
   - '[[../../../../WikiData/WD~Benzene,2270|WD~Benzene,2270]]'

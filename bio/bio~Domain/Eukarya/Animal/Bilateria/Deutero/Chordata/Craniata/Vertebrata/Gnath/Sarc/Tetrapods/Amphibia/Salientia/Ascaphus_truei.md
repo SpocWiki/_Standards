@@ -34,8 +34,8 @@ dv_has_:
     cv: Хӳреллӗ шапасем
     de: Schwanzfrösche
     en: tailed frog
-    en-ca: Tailed frog
-    en-gb: tailed frog
+    en_ca: Tailed frog
+    en_gb: tailed frog
     eo: Askafedoj
     es: Ascaphus
     eu: Ascaphus
@@ -56,7 +56,7 @@ dv_has_:
     nv: Chʼał bitseeʼ hólóní
     pl: Ascaphus
     pt: Ascaphidae
-    pt-br: Ascaphus
+    pt_br: Ascaphus
     ro: Ascaphus
     ru: Хвостатые лягушки
     sq: Ascaphus
@@ -67,8 +67,8 @@ dv_has_:
     vi: Ascaphus
     war: Ascaphus
     zh: 尾蟾属
-    zh-cn: 尾蟾属
-    zh-hans: 尾蟾属
+    zh_cn: 尾蟾属
+    zh_hans: 尾蟾属
 ---
 # [[Ascaphus truei]]
 

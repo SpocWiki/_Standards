@@ -82,7 +82,7 @@ dv_has_:
     ar: بنية بلورية
     ast: Estructura cristalina
     azb: کریستال قورولوشو
-    be-tarask: крышталічная структура
+    be_tarask: крышталічная структура
     bg: Кристална структура
     bn: কেলাসাকার গঠন
     bs: Kristalna struktura
@@ -121,7 +121,7 @@ dv_has_:
     ml: ക്രിസ്റ്റൽ ഘടന
     mn: Болрын бүтэц
     ms: struktur hablur
-    ms-arab: ستروکتور هبلور
+    ms_arab: ستروکتور هبلور
     nb: krystallstruktur
     nl: kristalstructuur
     nn: krystallstruktur
@@ -136,8 +136,8 @@ dv_has_:
     sl: kristalna struktura
     sq: strukturë kristalore
     sr: кристална структура
-    sr-ec: кристална структура
-    sr-el: kristalna struktura
+    sr_ec: кристална структура
+    sr_el: kristalna struktura
     sv: kristallstruktur
     ta: படிக அமைப்பு
     th: โครงสร้างผลึก
@@ -151,9 +151,9 @@ dv_has_:
     wuu: 晶体结构
     yue: 晶體結構
     zh: 晶体结构
-    zh-hans: 晶体结构
-    zh-hant: 晶體結構
-    zh-hk: 晶體結構
+    zh_hans: 晶体结构
+    zh_hant: 晶體結構
+    zh_hk: 晶體結構
 ---
 # [[Crystal_Structure]] 
 

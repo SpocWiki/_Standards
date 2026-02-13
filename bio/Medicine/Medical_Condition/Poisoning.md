@@ -90,7 +90,7 @@ dv_has_:
     ba: ағыулану
     ban: kéna cetik
     be: атручванне
-    be-tarask: атручваньне
+    be_tarask: атручваньне
     bn: বিষক্রিয়া
     br: ampoezonet
     bs: trovanje
@@ -99,7 +99,7 @@ dv_has_:
     cy: gwenwyniad
     da: forgiftning
     de: Vergiftung
-    de-ch: Vergiftung
+    de_ch: Vergiftung
     el: δηλητηρίαση
     en: poisoning
     eo: venenado
@@ -126,7 +126,7 @@ dv_has_:
     lv: indēšana
     mk: труење
     ms: keracunan
-    ms-arab: کراچونن
+    ms_arab: کراچونن
     mt: avvelenament
     nb: forgiftning
     nl: vergiftiging
@@ -138,8 +138,8 @@ dv_has_:
     ru: отравление
     sl: zastrupitev
     sr: тровање
-    sr-ec: тровање
-    sr-el: trovanje
+    sr_ec: тровање
+    sr_el: trovanje
     sv: förgiftning
     tt: агулану
     uk: інтоксикація
@@ -149,9 +149,9 @@ dv_has_:
     vo: venenam
     yi: פארגיפטונג
     zh: 中毒
-    zh-hans: 中毒
-    zh-hant: 中毒
-    zh-tw: 中毒
+    zh_hans: 中毒
+    zh_hant: 中毒
+    zh_tw: 中毒
 ---
 # [[Poisoning]] 
 

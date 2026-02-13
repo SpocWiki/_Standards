@@ -57,14 +57,14 @@ dv_is_same_as:
 dv_has_:
   name_:
     ar: بوليول
-    be-tarask: шмататамны сьпірт
+    be_tarask: шмататамны сьпірт
     ca: polialcohol
     cs: polyol
     de: Polyole
-    de-ch: Polyole
+    de_ch: Polyole
     en: polyol
-    en-ca: Polyol
-    en-gb: polyol
+    en_ca: Polyol
+    en_gb: polyol
     eo: poliolo
     es: polialcohol
     eu: Poliol
@@ -96,12 +96,12 @@ dv_has_:
     uk: багатоатомні спирти
     vi: Polyol
     zh: 多元醇
-    zh-cn: 多元醇
-    zh-hans: 多元醇
-    zh-hant: 多元醇
-    zh-hk: 多元醇
-    zh-sg: 多元醇
-    zh-tw: 多元醇
+    zh_cn: 多元醇
+    zh_hans: 多元醇
+    zh_hant: 多元醇
+    zh_hk: 多元醇
+    zh_sg: 多元醇
+    zh_tw: 多元醇
 ---
 # [[Polyol]] 
 

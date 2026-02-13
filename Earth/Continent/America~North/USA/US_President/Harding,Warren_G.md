@@ -83,7 +83,7 @@ dv_has_:
     ban: Warren G. Harding
     bcl: Warren G. Harding
     be: Уорэн Гардзінг
-    be-tarask: Ўорэн Г. Гардынг
+    be_tarask: Ўорэн Г. Гардынг
     bg: Уорън Хардинг
     bi: Warren G. Harding
     bn: ওয়ারেন জি. হার্ডিং
@@ -105,8 +105,8 @@ dv_has_:
     dv: ވަރެން ގަމާލީލް ހާރޑިންގ
     el: Ουόρεν Χάρντινγκ
     en: Warren G. Harding
-    en-ca: Warren G. Harding
-    en-gb: Warren G. Harding
+    en_ca: Warren G. Harding
+    en_gb: Warren G. Harding
     eo: Warren G. Harding
     es: Warren G. Harding
     et: Warren Harding
@@ -174,7 +174,7 @@ dv_has_:
     pnb: وارن جی ہارڈنگ
     ps: وارن ګامالیل هارډینګ
     pt: Warren G. Harding
-    pt-br: Warren G. Harding
+    pt_br: Warren G. Harding
     qu: Warren Harding
     rm: Warren G. Harding
     rmf: Warren G. Harding
@@ -215,7 +215,7 @@ dv_has_:
     yo: Warren G. Harding
     yue: 哈定
     zh: 沃伦·加梅利尔·哈定
-    zh-hans: 沃伦·加梅利尔·哈定
+    zh_hans: 沃伦·加梅利尔·哈定
   time_:
     started: 1865-11-02T00:00:00.000+00:53
     stopped: 1923-08-02T00:00:00.000+01:00

@@ -57,7 +57,7 @@ dv_has_:
     ast: iglú
     az: iqlu
     be: іглу
-    be-tarask: іглу
+    be_tarask: іглу
     bg: иглу
     bn: ইগলু
     ca: iglú
@@ -86,7 +86,7 @@ dv_has_:
     ia: iglu
     id: rumah igloo
     ike-cans: ᐃᒡᓗ
-    ike-latn: iglu
+    ike_latn: iglu
     is: snjóhús
     it: iglù
     iu: ᐃᒡᓗ
@@ -118,8 +118,8 @@ dv_has_:
     sk: iglu
     sl: iglu
     sr: игло
-    sr-ec: игло
-    sr-el: iglo
+    sr_ec: игло
+    sr_el: iglo
     su: igloo
     sv: igloo
     ta: பனிக் கட்டிக் குடில்
@@ -132,12 +132,12 @@ dv_has_:
     wuu: 冰屋
     yue: 雪屋
     zh: 冰屋
-    zh-cn: 冰屋
-    zh-hans: 冰屋
-    zh-hant: 冰屋
-    zh-hk: 冰屋
-    zh-sg: 冰屋
-    zh-tw: 冰屋
+    zh_cn: 冰屋
+    zh_hans: 冰屋
+    zh_hant: 冰屋
+    zh_hk: 冰屋
+    zh_sg: 冰屋
+    zh_tw: 冰屋
 ---
 # [[Igloo]] 
 

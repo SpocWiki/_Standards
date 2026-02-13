@@ -131,7 +131,7 @@ dv_has_:
     ba: Хижаб
     bcl: Hijab
     be: Хіджаб
-    be-tarask: Хіджаб
+    be_tarask: Хіджаб
     bg: Хиджаб
     bho: हिजाब
     bn: হিজাব
@@ -168,11 +168,11 @@ dv_has_:
     jv: Hijab
     kge: Hijab
     kk: Хиджаб
-    kk-arab: حىيدجاب
+    kk_arab: حىيدجاب
     kk-cn: حىيدجاب
-    kk-cyrl: Хиджаб
+    kk_cyrl: Хиджаб
     kk-kz: Хиджаб
-    kk-latn: Xïdjab
+    kk_latn: Xïdjab
     kk-tr: Xïdjab
     km: ហ៊ីជាប
     ko: 히잡
@@ -200,8 +200,8 @@ dv_has_:
     so: Xijaab
     sq: Hixhabi
     sr: хиџаб
-    sr-ec: хиџаб
-    sr-el: hidžab
+    sr_ec: хиџаб
+    sr_el: hidžab
     sv: hijab
     sw: Hijabu
     ta: ஹிஜாப்
@@ -219,12 +219,12 @@ dv_has_:
     xmf: ჰიჯაბი
     yue: 穆斯林頭巾
     zh: 希贾布
-    zh-cn: 希贾布
-    zh-hans: 希贾布
-    zh-hant: 希賈布
-    zh-hk: 希賈布
-    zh-sg: 希贾布
-    zh-tw: 希賈布
+    zh_cn: 希贾布
+    zh_hans: 希贾布
+    zh_hant: 希賈布
+    zh_hk: 希賈布
+    zh_sg: 希贾布
+    zh_tw: 希賈布
 ---
 # [[Hijab]] 
 

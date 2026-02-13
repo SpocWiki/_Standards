@@ -33,7 +33,7 @@ dv_has_:
     oc: Amycini
     pl: Amycini
     pt: Amycini
-    pt-br: Amycini
+    pt_br: Amycini
     ro: Amycini
     ru: Amycini
     sq: Amycini

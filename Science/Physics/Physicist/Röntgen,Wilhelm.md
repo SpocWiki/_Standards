@@ -209,7 +209,7 @@ dv_has_:
     bar: Wilhelm Conrad Röntgen
     bcl: Wilhelm Roentgen
     be: Вільгельм Конрад Рэнтген
-    be-tarask: Вільгельм Конрад Рэнтген
+    be_tarask: Вільгельм Конрад Рэнтген
     bg: Вилхелм Рьонтген
     bn: ভিলহেল্ম কনরাড রন্টগেন
     br: Wilhelm Röntgen
@@ -222,11 +222,11 @@ dv_has_:
     cy: Wilhelm Conrad Röntgen
     da: Wilhelm Conrad Röntgen
     de: Wilhelm Conrad Röntgen
-    de-ch: Wilhelm Conrad Röntgen
+    de_ch: Wilhelm Conrad Röntgen
     el: Βίλχελμ Κόνραντ Ρέντγκεν
     en: Wilhelm Röntgen
-    en-ca: Wilhelm Röntgen
-    en-gb: Wilhelm Röntgen
+    en_ca: Wilhelm Röntgen
+    en_gb: Wilhelm Röntgen
     eo: Wilhelm Conrad Röntgen
     es: Wilhelm Röntgen
     et: Wilhelm Conrad Röntgen
@@ -302,7 +302,7 @@ dv_has_:
     pnb: ولہیلم رونٹیگن
     ps: ویلهلم رونټګن
     pt: Wilhelm Conrad Röntgen
-    pt-br: Wilhelm Conrad Röntgen
+    pt_br: Wilhelm Conrad Röntgen
     qu: Wilhelm Conrad Röntgen
     rm: Wilhelm Röntgen
     ro: Wilhelm Conrad Röntgen
@@ -322,7 +322,7 @@ dv_has_:
     sl: Wilhelm Conrad Röntgen
     sq: Wilhelm Röntgen
     sr: Вилхелм Конрад Рендген
-    sr-ec: Вилхелм Рендген
+    sr_ec: Вилхелм Рендген
     su: Wilhelm Conrad Röntgen
     sv: Wilhelm Röntgen
     sw: Wilhelm Conrad Röntgen
@@ -343,7 +343,7 @@ dv_has_:
     yo: Wilhelm Röntgen
     yue: 倫琴
     zh: 威廉·康拉德·伦琴
-    zh-hant: 威廉·倫琴
+    zh_hant: 威廉·倫琴
 ---
 # [[Röntgen,Wilhelm]] 
 

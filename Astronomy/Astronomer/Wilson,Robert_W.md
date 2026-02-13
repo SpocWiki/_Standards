@@ -105,7 +105,7 @@ dv_has_:
     az: Robert Vudro Vilson
     azb: رابرت وودرو ویلسون
     be: Роберт Вудра Вільсан
-    be-tarask: Робэрт Ўудра Ўілсан
+    be_tarask: Робэрт Ўудра Ўілсан
     bg: Робърт Удроу Уилсън
     bn: রবার্ট উড্রো উইলসন
     bs: Robert Woodrow Wilson
@@ -116,8 +116,8 @@ dv_has_:
     de: Robert Woodrow Wilson
     el: Ρόμπερτ Γουίλσον
     en: Robert Wilson
-    en-ca: Robert Woodrow Wilson
-    en-gb: Robert Woodrow Wilson
+    en_ca: Robert Woodrow Wilson
+    en_gb: Robert Woodrow Wilson
     eo: Robert Woodrow Wilson
     es: Robert Woodrow Wilson
     et: Robert Woodrow Wilson
@@ -162,7 +162,7 @@ dv_has_:
     pl: Robert Woodrow Wilson
     pnb: رابرٹ وڈرو ولسن
     pt: Robert Woodrow Wilson
-    pt-br: Robert Woodrow Wilson
+    pt_br: Robert Woodrow Wilson
     ro: Robert Wilson
     ru: Роберт Вудро Вильсон
     sa: रोबर्ट वूड्रो विल्सन
@@ -190,12 +190,12 @@ dv_has_:
     yo: Robert Woodrow Wilson
     yue: 羅伯特·威爾遜
     zh: 罗伯特·威尔逊
-    zh-cn: 罗伯特·威尔逊
-    zh-hans: 罗伯特·威尔逊
-    zh-hant: 羅伯特·威爾遜
-    zh-hk: 羅伯特·威爾遜
-    zh-sg: 罗伯特·威尔逊
-    zh-tw: 羅伯特·威爾遜
+    zh_cn: 罗伯特·威尔逊
+    zh_hans: 罗伯特·威尔逊
+    zh_hant: 羅伯特·威爾遜
+    zh_hk: 羅伯特·威爾遜
+    zh_sg: 罗伯特·威尔逊
+    zh_tw: 羅伯特·威爾遜
 ---
 # [[Wilson,Robert_W]]
 

@@ -131,7 +131,7 @@ dv_has_:
     azb: اینقرید برقمن
     ba: Ингрид Бергман
     be: Інгрыд Бергман
-    be-tarask: Інгрыд Бэргман
+    be_tarask: Інгрыд Бэргман
     bg: Ингрид Бергман
     bn: ইংরিদ বারিমান
     br: Ingrid Bergman
@@ -147,7 +147,7 @@ dv_has_:
     el: Ίνγκριντ Μπέργκμαν
     eml: Ingrid Bergman
     en: Ingrid Bergman
-    en-gb: Ingrid Bergman
+    en_gb: Ingrid Bergman
     eo: Ingrid Bergman
     es: Ingrid Bergman
     et: Ingrid Bergman
@@ -198,7 +198,7 @@ dv_has_:
     pms: Ingrid Bergman
     pnb: انگرڈ برگمین
     pt: Ingrid Bergman
-    pt-br: Ingrid Bergman
+    pt_br: Ingrid Bergman
     qu: Ingrid Bergman
     ro: Ingrid Bergman
     ru: Ингрид Бергман
@@ -226,8 +226,8 @@ dv_has_:
     yo: Ingrid Bergman
     yue: 英格烈褒曼
     zh: 英格丽·褒曼
-    zh-hk: 英格烈·褒曼
-    zh-sg: 英格丽·褒曼
+    zh_hk: 英格烈·褒曼
+    zh_sg: 英格丽·褒曼
 ---
 # [[Bergman,Ingrid]] 
 

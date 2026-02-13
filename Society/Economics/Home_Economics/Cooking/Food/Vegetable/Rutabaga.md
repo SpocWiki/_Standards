@@ -134,7 +134,7 @@ dv_has_:
     arz: لفت سويدى
     ast: Brassica napobrassica
     be: бручка
-    be-tarask: бручка
+    be_tarask: бручка
     bg: брюква
     br: Irvin-saoz
     ca: colinap
@@ -147,8 +147,8 @@ dv_has_:
     de: Steckrübe
     el: γουλί
     en: Brassica napus subsp. rapifera
-    en-ca: turnip
-    en-gb: swede
+    en_ca: turnip
+    en_gb: swede
     eo: Napo
     es: Brassica napobrassica
     et: kaalikas
@@ -173,8 +173,8 @@ dv_has_:
     kk: Асханалық тарна
     ko: 루타바가
     ku: Şêlim
-    ku-arab: شێلم
-    ku-latn: Şêlim
+    ku_arab: شێلم
+    ku_latn: Şêlim
     kv: Галанка
     la: Brassica napus subsp. rapifera
     lb: Äerdkolrab
@@ -192,7 +192,7 @@ dv_has_:
     pcd: Chounavioe
     pl: brukiew
     pt: Rutabaga
-    pt-br: nabo
+    pt_br: nabo
     rmf: paalengiero
     ro: Brassica napus subsp. rapifera
     ru: брюква
@@ -217,12 +217,12 @@ dv_has_:
     wuu: 芜菁甘蓝
     yue: 瑞典大頭菜
     zh: 蕪菁甘藍
-    zh-cn: 芜菁甘蓝
-    zh-hans: 芜菁甘蓝
-    zh-hant: 蕪菁甘藍
-    zh-hk: 蕪菁甘藍
-    zh-sg: 芜菁甘蓝
-    zh-tw: 蕪菁甘藍
+    zh_cn: 芜菁甘蓝
+    zh_hans: 芜菁甘蓝
+    zh_hant: 蕪菁甘藍
+    zh_hk: 蕪菁甘藍
+    zh_sg: 芜菁甘蓝
+    zh_tw: 蕪菁甘藍
 ---
 # [[Rutabaga]]  
 

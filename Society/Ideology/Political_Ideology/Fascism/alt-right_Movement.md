@@ -34,7 +34,7 @@ has_id_wikidata: Q23018230
 dv_has_:
   name_:
     ar: اليمين البديل
-    be-tarask: альтэрнатыўная правіца
+    be_tarask: альтэрнатыўная правіца
     ca: dreta alternativa
     cs: Alt-right
     da: alt-right
@@ -79,8 +79,8 @@ dv_has_:
     vi: Alt-right
     wuu: 另類右派
     zh: 另类右派
-    zh-hans: 另类右派
-    zh-hant: 另類右派
+    zh_hans: 另类右派
+    zh_hant: 另類右派
 ---
 ## #has_/text_of_/abstract 
 

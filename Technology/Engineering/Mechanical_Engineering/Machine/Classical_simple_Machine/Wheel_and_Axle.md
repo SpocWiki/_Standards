@@ -65,7 +65,7 @@ dv_has_:
     am: ሽክርክርና ዘንግ
     an: Rueda y eixe
     ar: دولاب وجزع
-    be-tarask: віхар
+    be_tarask: віхар
     bg: Колело и ос
     bs: Točak i osovina
     ca: torn de corró

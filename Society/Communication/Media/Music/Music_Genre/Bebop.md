@@ -38,7 +38,7 @@ dv_has_:
     ast: Bebop
     az: Bibop
     be: бібоп
-    be-tarask: бібоп
+    be_tarask: бібоп
     bg: бибоп
     ca: bebop
     cs: bebop
@@ -66,7 +66,7 @@ dv_has_:
     ka: ბიბოპი
     ko: 비밥
     ku: bebop
-    ku-latn: bebop
+    ku_latn: bebop
     la: Bebop
     li: Bebop
     lt: Bibopas
@@ -85,8 +85,8 @@ dv_has_:
     sk: Bebop
     sl: bebop
     sr: би-бап
-    sr-ec: Би-бап
-    sr-el: Bi-bap
+    sr_ec: Би-бап
+    sr_el: Bi-bap
     sv: Bebop
     th: บีบอป
     tr: bebop
@@ -94,12 +94,12 @@ dv_has_:
     vi: Bebop
     yue: 博普爵士樂
     zh: 咆勃爵士樂
-    zh-cn: 咆勃爵士乐
-    zh-hans: 咆勃爵士乐
-    zh-hant: 咆勃爵士樂
-    zh-hk: 咆勃爵士樂
-    zh-sg: 咆勃爵士乐
-    zh-tw: 咆勃爵士樂
+    zh_cn: 咆勃爵士乐
+    zh_hans: 咆勃爵士乐
+    zh_hant: 咆勃爵士樂
+    zh_hk: 咆勃爵士樂
+    zh_sg: 咆勃爵士乐
+    zh_tw: 咆勃爵士樂
 ---
 # [[Bebop]] 
 

@@ -63,7 +63,7 @@ dv_has_:
     af: kanovaart
     ar: ركوب الكنو
     ba: каноэла ишеү
-    be-tarask: веславаньне на каноэ
+    be_tarask: веславаньне на каноэ
     ca: canotatge
     cs: kanoistika
     de: Kanusport
@@ -103,7 +103,7 @@ dv_has_:
     wuu: 皮划艇
     yue: 扒獨木舟
     zh: 皮划艇
-    zh-hant: 輕艇
+    zh_hant: 輕艇
 ---
 # [[Canoeing]] 
 

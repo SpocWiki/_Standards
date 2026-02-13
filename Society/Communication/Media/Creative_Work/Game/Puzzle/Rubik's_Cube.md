@@ -127,7 +127,7 @@ dv_has_:
     ba: Рубик шаҡмағы
     bcl: Kubo ni Rubik
     be: Кубік Рубіка
-    be-tarask: Кубік Рубіка
+    be_tarask: Кубік Рубіка
     bg: Куб на Рубик
     bho: रूबिक्स क्यूब
     bn: রুবিক’স কিউব
@@ -138,11 +138,11 @@ dv_has_:
     cy: Ciwb Rubik
     da: Rubiks terning
     de: Zauberwürfel
-    de-ch: Zauberwürfel
+    de_ch: Zauberwürfel
     el: Κύβος του Ρούμπικ
     en: Rubik's Cube
-    en-ca: Rubik's Cube
-    en-gb: Rubik's Cube
+    en_ca: Rubik's Cube
+    en_gb: Rubik's Cube
     eo: Kubo de Rubik
     es: Cubo de Rubik
     et: Rubiku kuubik
@@ -187,7 +187,7 @@ dv_has_:
     pl: Kostka Rubika
     pnb: روبک دی کیوب
     pt: cubo de Rubik
-    pt-br: Cubo de Rubik
+    pt_br: Cubo de Rubik
     ro: Cubul Rubik
     ru: кубик Рубика
     rue: Рубікова коцка
@@ -220,9 +220,9 @@ dv_has_:
     yi: רוביקס קוב
     yue: 扭計骰
     zh: 魔方
-    zh-cn: 魔方
-    zh-hk: 扭計骰
-    zh-tw: 魔術方塊
+    zh_cn: 魔方
+    zh_hk: 扭計骰
+    zh_tw: 魔術方塊
 ---
 # [[Rubik's_Cube]] 
 

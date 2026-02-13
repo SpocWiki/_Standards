@@ -34,7 +34,7 @@ dv_has_:
   name_:
     ar: ذا تونايت شو
     ast: The Tonight Show
-    be-tarask: The Tonight Show
+    be_tarask: The Tonight Show
     ca: The Tonight Show
     cs: The Tonight Show
     da: The Tonight Show

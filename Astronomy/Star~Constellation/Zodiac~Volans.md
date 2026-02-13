@@ -111,7 +111,7 @@ dv_has_:
     az: Uçan Balıq
     ba: Елбәҙәк Балыҡ
     be: Лятучая Рыба
-    be-tarask: Лятучая Рыба
+    be_tarask: Лятучая Рыба
     bg: Летяща риба
     bn: পতত্রীমীন মণ্ডল
     br: Pesk-nij

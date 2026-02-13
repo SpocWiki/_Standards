@@ -186,7 +186,7 @@ dv_has_:
     diq: Qubbet-us-Sehra
     el: Θόλος του Βράχου
     en: Dome of the Rock
-    en-gb: Dome of the Rock
+    en_gb: Dome of the Rock
     eo: Kupolo de la Roko
     es: Cúpula de la Roca
     eu: Arrokaren Kupula
@@ -207,11 +207,11 @@ dv_has_:
     kab: Takerbust n weẓru
     kbp: Kaaɣ keɣye
     kk: Жартастағы Күмбез
-    kk-arab: جارتاستاعى كۇمبەز
+    kk_arab: جارتاستاعى كۇمبەز
     kk-cn: جارتاستاعى كۇمبەز
-    kk-cyrl: Жартастағы Күмбез
+    kk_cyrl: Жартастағы Күмбез
     kk-kz: Жартастағы Күмбез
-    kk-latn: Jartastağı Kümbez
+    kk_latn: Jartastağı Kümbez
     kk-tr: Jartastağı Kümbez
     km: ដូម អូហ្វើរ រ៉ុក
     ko: 바위의 돔
@@ -250,7 +250,7 @@ dv_has_:
     ta: பாறைக் குவிமாடம்
     te: బైతుల్-ముఖద్దస్
     tg: Қуббат ас-Сахра
-    tg-latn: Qubbat as-Saxra
+    tg_latn: Qubbat as-Saxra
     th: โดมแห่งศิลา
     tl: Simboryo ng Bato
     tr: Kubbetü's-Sahre
@@ -264,12 +264,12 @@ dv_has_:
     wuu: 圆顶回庙
     yue: 圓頂清真寺
     zh: 圆顶清真寺
-    zh-cn: 圆顶清真寺
-    zh-hans: 圆顶清真寺
-    zh-hant: 圓頂清真寺
-    zh-hk: 圓頂清真寺
-    zh-sg: 圆顶清真寺
-    zh-tw: 圓頂清真寺
+    zh_cn: 圆顶清真寺
+    zh_hans: 圆顶清真寺
+    zh_hant: 圓頂清真寺
+    zh_hk: 圓頂清真寺
+    zh_sg: 圆顶清真寺
+    zh_tw: 圓頂清真寺
 ---
 # [[Dome_of_the_Rock]] 
 

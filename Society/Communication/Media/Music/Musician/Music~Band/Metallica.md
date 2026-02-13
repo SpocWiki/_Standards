@@ -101,7 +101,7 @@ dv_has_:
     ban: Metallica
     bar: Metallica
     be: Metallica
-    be-tarask: Metallica
+    be_tarask: Metallica
     bg: Металика
     bn: মেটালিকা
     br: Metallica
@@ -113,14 +113,14 @@ dv_has_:
     cy: Metallica
     da: Metallica
     de: Metallica
-    de-ch: Metallica
+    de_ch: Metallica
     diq: Metallica
     dv: މެޓަލިކާ
     el: Metallica
     eml: Metallica
     en: Metallica
-    en-ca: Metallica
-    en-gb: Metallica
+    en_ca: Metallica
+    en_gb: Metallica
     en-us: Metallica
     eo: Metallica
     es: Metallica
@@ -184,7 +184,7 @@ dv_has_:
     pms: Metallica
     pnb: مٹالیکا
     pt: Metallica
-    pt-br: Metallica
+    pt_br: Metallica
     qu: Metallica
     ro: Metallica
     ru: Metallica
@@ -196,7 +196,7 @@ dv_has_:
     sl: Metallica
     sq: Metallica
     sr: Металика
-    sr-ec: Металика
+    sr_ec: Металика
     sv: Metallica
     szl: Metallica
     ta: மெட்டாலிகா
@@ -216,8 +216,8 @@ dv_has_:
     xmf: მეთალიქა
     yue: 金屬樂隊
     zh: 金属乐队
-    zh-hant: 金屬製品合唱團
-    zh-tw: 金屬製品合唱團
+    zh_hant: 金屬製品合唱團
+    zh_tw: 金屬製品合唱團
 ---
 # [[Metallica]] 
 

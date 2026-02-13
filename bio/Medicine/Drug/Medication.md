@@ -211,7 +211,7 @@ dv_has_:
     bcl: Bulong
     bdr: Toos
     be: лекі
-    be-tarask: мэдыкамэнт
+    be_tarask: мэдыкамэнт
     bg: Лекарство
     bho: दवाई
     bn: ঔষধ
@@ -232,8 +232,8 @@ dv_has_:
     dty: चिकित्सा
     el: φάρμακο
     en: medication
-    en-ca: Pharmaceutical drug
-    en-gb: pharmaceutical drug
+    en_ca: Pharmaceutical drug
+    en_gb: pharmaceutical drug
     eo: kuracilo
     es: medicamento
     et: ravim
@@ -314,7 +314,7 @@ dv_has_:
     pnb: کیمیائی دوائی
     ps: درمل
     pt: medicamento
-    pt-br: medicamento
+    pt_br: medicamento
     qu: Hampi
     rmf: dramb
     ro: medicament
@@ -342,11 +342,11 @@ dv_has_:
     szy: sapaiyu
     ta: மருந்து
     tg: Даво
-    tg-cyrl: Дору
+    tg_cyrl: Дору
     th: ยา
     tr: ilaç
     tt: дару
-    tt-cyrl: дару
+    tt_cyrl: дару
     tw: aduro
     udm: эмъюм
     uk: лікарський засіб
@@ -362,8 +362,8 @@ dv_has_:
     yi: מעדיקאמענט
     yue: 藥療
     zh: 医疗药物
-    zh-hans: 医疗药物
-    zh-hant: 醫療藥物
+    zh_hans: 医疗药物
+    zh_hant: 醫療藥物
 ---
 # [[Medication]] 
 

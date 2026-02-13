@@ -32,7 +32,7 @@ dv_has_:
     oc: Ursoidea
     pl: Ursoidea
     pt: Ursoidea
-    pt-br: Ursoidea
+    pt_br: Ursoidea
     ro: Ursoidea
     ru: Ursoidea
     sco: Ursoidea
@@ -42,8 +42,8 @@ dv_has_:
     vo: Ursoidea
     war: Ursoidea
     zh: 熊总科
-    zh-cn: 熊总科
-    zh-hans: 熊总科
+    zh_cn: 熊总科
+    zh_hans: 熊总科
 aliases:
 - Beardieren
 - Ursoidea

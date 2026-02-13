@@ -73,7 +73,7 @@ dv_has_:
     ar: حجيرة هادلي
     ast: Célula de Hadley
     be: Цыркуляцыя атмасферы
-    be-tarask: ячка Гадлі
+    be_tarask: ячка Гадлі
     bn: বায়ুপ্রবাহ
     ca: cèl·lula de Hadley
     cs: Hadleyova buňka

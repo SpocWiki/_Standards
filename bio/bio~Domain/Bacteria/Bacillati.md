@@ -25,7 +25,7 @@ dv_has_:
     oc: Bacillati
     pl: Bacillati
     pt: Bacillati
-    pt-br: Bacillati
+    pt_br: Bacillati
     ru: Bacillati
     sl: Bacillati
     sv: Bacillati

@@ -203,7 +203,7 @@ dv_has_:
     ba: электр
     bcl: elektrisidad
     be: электрычнасць
-    be-tarask: электрычнасьць
+    be_tarask: электрычнасьць
     bg: Електричество
     bho: बिजली
     bjn: lestrék
@@ -301,7 +301,7 @@ dv_has_:
     mnc: ᡨᠠᠯᡴᡳᠶᠠᠨ
     mr: वीज
     ms: elektrik
-    ms-arab: ايليکتريک
+    ms_arab: ايليکتريک
     mt: elettriku
     mwl: eilatricidade
     my: လျှပ်စစ်
@@ -327,7 +327,7 @@ dv_has_:
     pnb: بجلی
     ps: برېښنا
     pt: eletricidade
-    pt-br: eletricidade
+    pt_br: eletricidade
     qu: pinchikilla
     rm: Electricitad
     ro: electricitate
@@ -365,7 +365,7 @@ dv_has_:
     tr: elektrik
     ts: gezi
     tt: электр
-    tt-cyrl: электр
+    tt_cyrl: электр
     tw: Ɛlɛktrisiti
     udm: электро
     ug: ئېلېكتر
@@ -383,14 +383,14 @@ dv_has_:
     yo: ìtanná
     yue: 電
     zh: 電
-    zh-cn: 电
-    zh-hans: 电
-    zh-hant: 電
-    zh-hk: 電
-    zh-mo: 電
+    zh_cn: 电
+    zh_hans: 电
+    zh_hant: 電
+    zh_hk: 電
+    zh_mo: 電
     zh-my: 电
-    zh-sg: 电
-    zh-tw: 電
+    zh_sg: 电
+    zh_tw: 電
     zu: ugesi
 ---
 # [[Electricity]] 

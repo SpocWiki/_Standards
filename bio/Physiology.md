@@ -177,7 +177,7 @@ dv_has_:
     az: Keçua dilləri
     bar: Quechua
     be: кечуанскія мовы
-    be-tarask: кечуа
+    be_tarask: кечуа
     bg: Кечуа
     bn: কেচুয়া ভাষাসমূহ
     br: kechuaeg
@@ -193,8 +193,8 @@ dv_has_:
     diq: Quechua
     el: κέτσουα γλώσσες
     en: Quechua
-    en-ca: Quechua
-    en-gb: Quechua
+    en_ca: Quechua
+    en_gb: Quechua
     eo: keĉua lingvaro
     es: lenguas quechuas
     et: ketšua keel
@@ -262,7 +262,7 @@ dv_has_:
     pnb: کیوچوا
     ps: کيچوا ژبه
     pt: quíchua
-    pt-br: quíchua
+    pt_br: quíchua
     qu: Qhichwa
     rm: quechua
     ro: limbi quechua
@@ -297,10 +297,10 @@ dv_has_:
     xmf: კეჩუა
     yue: 奇楚華文
     zh: 克丘亞語
-    zh-cn: 克丘亚语
-    zh-hans: 克丘亚语
-    zh-hant: 奇楚瓦語
-    zh-hk: 奇楚瓦語
+    zh_cn: 克丘亚语
+    zh_hans: 克丘亚语
+    zh_hant: 奇楚瓦語
+    zh_hk: 奇楚瓦語
     zu: isi-Quechua
 ---
 # [[Physiology]] 

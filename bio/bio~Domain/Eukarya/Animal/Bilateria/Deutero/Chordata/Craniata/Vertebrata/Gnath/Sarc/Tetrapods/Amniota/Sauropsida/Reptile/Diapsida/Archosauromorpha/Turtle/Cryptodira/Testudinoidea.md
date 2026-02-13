@@ -63,7 +63,7 @@ dv_has_:
     pl: Testudinoidea
     ps: کيشپ کاسه
     pt: Testudinoidea
-    pt-br: Testudinoidea
+    pt_br: Testudinoidea
     ro: Testudinoidea
     ru: Наземные черепахи
     sl: Testudinoidea
@@ -74,11 +74,11 @@ dv_has_:
     vo: Testudinoidea
     war: Testudinoidea
     zh: 陆龟总科
-    zh-cn: 陆龟总科
-    zh-hans: 陆龟总科
-    zh-hant: 陸龜總科
-    zh-hk: 陸龜總科
-    zh-tw: 陸龜總科
+    zh_cn: 陆龟总科
+    zh_hans: 陆龟总科
+    zh_hant: 陸龜總科
+    zh_hk: 陸龜總科
+    zh_tw: 陸龜總科
 ---
 # [[Testudinoidea]] 
 

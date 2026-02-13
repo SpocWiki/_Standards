@@ -54,12 +54,12 @@ dv_has_:
     am: ፀረ-ኤችአይቪ መዳኒቶች
     ar: تدابير علاج الإيدز
     ast: Antirretroviral
-    be-tarask: высокаактыўная антырэтравірусная тэрапія
+    be_tarask: высокаактыўная антырэтравірусная тэрапія
     bn: এইচআইভি/এইডস ব্যবস্থাপনা
     ca: antiretroviral
     de: Antiretrovirale Therapie
     en: antiretroviral therapy for HIV/AIDS
-    en-gb: management of HIV/AIDS
+    en_gb: management of HIV/AIDS
     eo: kontraŭretrovirusa terapio por HIV/aidoso
     es: antirretroviral
     et: Antiretroviirusravi
@@ -90,9 +90,9 @@ dv_has_:
     vi: Kiểm soát HIV/AIDS
     yue: 愛滋病管理
     zh: 抗反轉錄病毒藥物
-    zh-hans: 抗逆转录病毒药物
-    zh-hant: 抗反轉錄病毒藥物
-    zh-hk: 抗反轉錄病毒藥物
+    zh_hans: 抗逆转录病毒药物
+    zh_hant: 抗反轉錄病毒藥物
+    zh_hk: 抗反轉錄病毒藥物
 ---
 # [[Antiretroviral_therapy_for_HIV_AIDS]] 
 

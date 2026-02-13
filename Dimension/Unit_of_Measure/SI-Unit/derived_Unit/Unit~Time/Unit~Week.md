@@ -244,7 +244,7 @@ Commons_category: Weeks
 Gujarati_Vishwakosh_entry: અઠવાડિયું
 dv_has_:
   name_:
-    aeb-arab: جمعة
+    aeb_arab: جمعة
     af: week
     am: ሳምንት
     an: semana
@@ -261,7 +261,7 @@ dv_has_:
     azb: هفته
     ba: аҙна
     be: тыдзень
-    be-tarask: тыдзень
+    be_tarask: тыдзень
     bg: седмица
     bho: सप्ताह
     bn: সপ্তাহ
@@ -291,7 +291,7 @@ dv_has_:
     el: εβδομάδα
     eml: smàna
     en: week
-    en-gb: week
+    en_gb: week
     en-us: week
     eo: semajno
     es: semana
@@ -348,7 +348,7 @@ dv_has_:
     kg: mposo
     kge: Minggu
     kk: апта
-    kk-latn: apta
+    kk_latn: apta
     kn: ವಾರ
     ko: 주
     krc: ыйыкъ
@@ -386,7 +386,7 @@ dv_has_:
     nan: lé-pài
     nb: uke
     nds: Week
-    nds-nl: weke
+    nds_nl: weke
     ne: हप्ता
     new: वाः
     nl: week
@@ -406,7 +406,7 @@ dv_has_:
     pnb: ستوارا
     ps: اوونۍ
     pt: semana
-    pt-br: semana(s)
+    pt_br: semana(s)
     qu: simana
     rmf: kurko
     ro: săptămână
@@ -436,7 +436,7 @@ dv_has_:
     so: todobaad
     sq: java
     sr: седмица
-    sr-ec: седмица
+    sr_ec: седмица
     stq: Wiek
     sv: vecka
     sw: juma
@@ -446,8 +446,8 @@ dv_has_:
     tcy: ವಾರೊ
     te: వారం
     tg: ҳафта
-    tg-cyrl: ҳафта
-    tg-latn: hafta
+    tg_cyrl: ҳафта
+    tg_latn: hafta
     th: สัปดาห์
     tk: hepde
     tl: linggo
@@ -456,8 +456,8 @@ dv_has_:
     tpi: wik
     tr: hafta
     tt: атна
-    tt-cyrl: атна
-    tt-latn: atna
+    tt_cyrl: атна
+    tt_latn: atna
     tyv: чедилик
     udm: арня
     ug: ھەپتە
@@ -481,14 +481,14 @@ dv_has_:
     zea: weke
     zgh: ⵉⵎⴰⵍⴰⵙⵙ
     zh: 星期
-    zh-cn: 星期
-    zh-hans: 星期
-    zh-hant: 星期
-    zh-hk: 星期
-    zh-mo: 星期
+    zh_cn: 星期
+    zh_hans: 星期
+    zh_hant: 星期
+    zh_hk: 星期
+    zh_mo: 星期
     zh-my: 星期
-    zh-sg: 星期
-    zh-tw: 星期
+    zh_sg: 星期
+    zh_tw: 星期
 ---
 # [[Unit~Week]] 
 

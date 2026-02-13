@@ -164,7 +164,7 @@ dv_has_:
     ast: Querosenu
     az: Ağ nöyüd
     be: газа
-    be-tarask: газа
+    be_tarask: газа
     bg: Керосин
     bjn: Minyak gas
     bn: কেরোসিন
@@ -175,11 +175,11 @@ dv_has_:
     cv: Краççын
     da: Petroleum
     de: Petroleum
-    de-ch: Petroleum
+    de_ch: Petroleum
     el: Κηροζίνη
     en: kerosene
-    en-ca: Kerosene
-    en-gb: kerosene
+    en_ca: Kerosene
+    en_gb: kerosene
     eo: keroseno
     es: queroseno
     et: Petrooleum
@@ -230,7 +230,7 @@ dv_has_:
     pl: nafta
     pnb: مٹی دا تیل
     pt: querosene
-    pt-br: Querosene
+    pt_br: Querosene
     qu: Kirusini
     ro: Petrol lampant
     ru: керосин
@@ -258,10 +258,10 @@ dv_has_:
     yo: Kẹrosínì
     yue: 火水
     zh: 煤油
-    zh-cn: 煤油
-    zh-hans: 煤油
-    zh-hant: 煤油
-    zh-tw: 煤油
+    zh_cn: 煤油
+    zh_hans: 煤油
+    zh_hant: 煤油
+    zh_tw: 煤油
 ---
 # [[Kerosene]] 
 

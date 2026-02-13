@@ -102,7 +102,7 @@ dv_has_:
     azb: بیلیارد
     ba: Бильярд
     be: більярд
-    be-tarask: більярд
+    be_tarask: більярд
     bew: Bola sodok
     bg: Билярд
     bjn: Bal suduk
@@ -116,11 +116,11 @@ dv_has_:
     cy: Biliards
     da: billard
     de: Billard
-    de-ch: Billard
+    de_ch: Billard
     el: μπιλιάρδο
     en: cue sports
-    en-ca: Cue sports
-    en-gb: cue sports
+    en_ca: Cue sports
+    en_gb: cue sports
     eo: bilardo
     es: billar
     et: piljard
@@ -160,7 +160,7 @@ dv_has_:
     mr: बिलियर्ड्स
     nan: Chhn̂g-kiû
     nb: biljard
-    nds-nl: biljärtn
+    nds_nl: biljärtn
     nl: biljart
     pl: bilard
     pt: bilhar
@@ -178,8 +178,8 @@ dv_has_:
     sms: biljardd
     sq: Bilardo
     sr: билијар
-    sr-ec: билијар
-    sr-el: bilijar
+    sr_ec: билијар
+    sr_el: bilijar
     su: Biliar
     sv: biljard
     tg: Билярд
@@ -196,12 +196,12 @@ dv_has_:
     xmf: ბილიარდი
     yue: 桌球
     zh: 撞球
-    zh-cn: 台球
-    zh-hans: 台球
-    zh-hant: 撞球
-    zh-hk: 桌球
-    zh-sg: 桌球
-    zh-tw: 撞球
+    zh_cn: 台球
+    zh_hans: 台球
+    zh_hant: 撞球
+    zh_hk: 桌球
+    zh_sg: 桌球
+    zh_tw: 撞球
 ---
 # [[Cue_Sports]] 
 

@@ -254,8 +254,8 @@ dv_has_:
     de: Glycerin
     el: Γλυκερίνη
     en: glycerol
-    en-ca: glycerol
-    en-gb: glycerol
+    en_ca: glycerol
+    en_gb: glycerol
     eo: glicerolo
     es: glicerol
     et: glütserool
@@ -316,10 +316,10 @@ dv_has_:
     wuu: 甘油
     yue: 甘油
     zh: 甘油
-    zh-cn: 甘油
-    zh-hk: 甘油
-    zh-sg: 甘油
-    zh-tw: 甘油
+    zh_cn: 甘油
+    zh_hk: 甘油
+    zh_sg: 甘油
+    zh_tw: 甘油
 dv_is_same_as:
 - '[[wd Glycerol]]'
 - '[[/_Standards/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol/Glycerol|Glycerol]]'

@@ -79,7 +79,7 @@ dv_has_:
     ar: مايك والاس
     arz: مايك والاس (صحفى)
     ast: Mike Wallace
-    be-tarask: Майк Ўолес
+    be_tarask: Майк Ўолес
     bn: মাইক ওয়ালেস
     ca: Mike Wallace
     ckb: مایک واڵاس
@@ -112,7 +112,7 @@ dv_has_:
     pap: Mike Wallace
     pl: Mike Wallace
     pt: Mike Wallace
-    pt-br: Mike Wallace
+    pt_br: Mike Wallace
     ru: Майк Уоллес
     sh: Mike Wallace
     sl: Mike Wallace
@@ -126,12 +126,12 @@ dv_has_:
     yo: Mike Wallace
     yue: 邁克·華萊士
     zh: 迈克·华莱士
-    zh-cn: 迈克·华莱士
-    zh-hans: 迈克·华莱士
-    zh-hant: 邁克·華萊士
-    zh-hk: 邁克·華萊士
-    zh-sg: 迈克·华莱士
-    zh-tw: 邁克·華萊士
+    zh_cn: 迈克·华莱士
+    zh_hans: 迈克·华莱士
+    zh_hant: 邁克·華萊士
+    zh_hk: 邁克·華萊士
+    zh_sg: 迈克·华莱士
+    zh_tw: 邁克·華萊士
 ---
 # [[Wallace,Mike]] 
 

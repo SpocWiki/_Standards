@@ -93,7 +93,7 @@ dv_has_:
     bar: Blog
     bcl: bitakora
     be: блог
-    be-tarask: блог
+    be_tarask: блог
     bg: Блог
     bho: ब्लॉग
     bn: ব্লগ
@@ -107,12 +107,12 @@ dv_has_:
     cy: blog
     da: blog
     de: Blog
-    de-ch: Blog
+    de_ch: Blog
     dtp: Bolog
     el: ιστολόγιο
     en: blog
-    en-ca: blog
-    en-gb: blog
+    en_ca: blog
+    en_gb: blog
     eo: blogo
     es: blog
     et: ajaveeb
@@ -181,7 +181,7 @@ dv_has_:
     pam: bitákora
     pl: blog
     pt: blogue
-    pt-br: blog
+    pt_br: blog
     ro: blog
     ru: блог
     scn: Blog
@@ -196,7 +196,7 @@ dv_has_:
     so: Buluug (teknooloji)
     sq: Ditari Blog
     sr: блог
-    sr-ec: блог
+    sr_ec: блог
     st: Blog
     su: Blog
     sv: blogg
@@ -210,7 +210,7 @@ dv_has_:
     tl: Blog
     tr: Blog
     tt: блог
-    tt-cyrl: блог
+    tt_cyrl: блог
     udm: чурали
     uk: блог
     ur: بلاگ
@@ -224,12 +224,12 @@ dv_has_:
     yi: בלאג
     yue: 網誌
     zh: 網誌
-    zh-cn: 博客
-    zh-hans: 博客
-    zh-hant: 部落格
-    zh-hk: 網誌
+    zh_cn: 博客
+    zh_hans: 博客
+    zh_hant: 部落格
+    zh_hk: 網誌
     zh-my: 部落格
-    zh-tw: 部落格
+    zh_tw: 部落格
 ---
 # [[Blog]]
 

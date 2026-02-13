@@ -138,7 +138,7 @@ dv_has_:
     azb: یومرو قۇردلار
     ba: Нематодалар
     be: круглыя чэрві
-    be-tarask: круглыя чарвякі
+    be_tarask: круглыя чарвякі
     bg: кръгли червеи
     bn: সুতাকৃমি
     br: Nematoda
@@ -154,8 +154,8 @@ dv_has_:
     de: Fadenwürmer
     el: νηματώδη
     en: Nematoda
-    en-ca: Nematode
-    en-gb: Nematode
+    en_ca: Nematode
+    en_gb: Nematode
     eo: Nematodoj
     es: Nematoda
     et: Ümarussid
@@ -217,7 +217,7 @@ dv_has_:
     pl: nicienie
     pms: Nematòd
     pt: Nematoda
-    pt-br: Nematoda
+    pt_br: Nematoda
     qu: Q'aytu kuru
     rm: Nematoda
     ro: Nematoda
@@ -250,9 +250,9 @@ dv_has_:
     yi: רונדע ווערעם
     yue: 綫蟲動物
     zh: 线虫动物门
-    zh-cn: 线虫动物门
-    zh-hans: 线虫动物门
-    zh-tw: 線蟲動物門
+    zh_cn: 线虫动物门
+    zh_hans: 线虫动物门
+    zh_tw: 線蟲動物門
 ---
 # [[Nematoda]]
 

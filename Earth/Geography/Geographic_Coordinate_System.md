@@ -229,7 +229,7 @@ dv_has_:
     bar: geografische Koordinatn
     bcl: Sistema nin pangheograpikong koordinasyon
     be: геаграфічныя каардынаты
-    be-tarask: геаграфічныя каардынаты
+    be_tarask: геаграфічныя каардынаты
     bg: Географски координати
     bho: भूगोलीय निर्देशांक सिस्टम
     blk: ဟံႏပထဝီႏ ကိုဩဒိနိတ်စနိစ်
@@ -247,14 +247,14 @@ dv_has_:
     cy: System gyfesur ddaearyddol
     da: Geografiske koordinater
     de: geographische Koordinaten
-    de-ch: Geographische Koordinaten
+    de_ch: Geographische Koordinaten
     dsb: Geografiske koordinaty
     dtp: Geographic coordinate system
     dty: भौगोलिक निर्देशाङ्क प्रणाली
     el: γεωγραφικές συντεταγμένες
     en: geographic coordinate system
-    en-ca: Geographic coordinate system
-    en-gb: geographic coordinate system
+    en_ca: Geographic coordinate system
+    en_gb: geographic coordinate system
     eo: geografia koordinatsistemo
     es: coordenadas geográficas
     et: Geograafilised koordinaadid
@@ -312,7 +312,7 @@ dv_has_:
     mad: Sistem koordinat gèografis
     mag: भूगोलीय निर्देशाङ्क प्रणाली
     mai: भौगोलिक निर्देशाङ्क प्रणाली
-    map-bms: Sistem koordinat geografi
+    map_bms: Sistem koordinat geografi
     mg: Fangitra ara-jeografia
     mhr: Географик координат-влак
     min: Sistem koordinat geografik
@@ -328,7 +328,7 @@ dv_has_:
     nap: Sëštém d'u cördënazjôn gjögrafëxë
     nb: geografiske koordinater
     nds: Geograafsche Laag
-    nds-nl: geografische koördinaoten
+    nds_nl: geografische koördinaoten
     ne: भौगोलिक निर्देशांक प्रणाली
     new: भौगोलिक कोअर्दिनेत व्यवस्था
     nl: geografische coördinaten
@@ -344,7 +344,7 @@ dv_has_:
     pnb: جغرافیائی کوآرڈینیٹ سسٹم
     ps: جغرافي کوراډينېټونو سيستم
     pt: coordenadas geográficas
-    pt-br: coordenadas geográficas
+    pt_br: coordenadas geográficas
     qu: Tinkurachina siwi
     rki: ပထဝီဝင် မြေပုံညွှန်းစနစ်
     ro: coordonate geografice
@@ -365,7 +365,7 @@ dv_has_:
     so: Isuduwe Habka Juqraafiga
     sq: Koordinatat gjeografike
     sr: географска координата
-    sr-ec: географска координата
+    sr_ec: географска координата
     su: Sistim koordinat géografi
     sv: geografiskt koordinatsystem
     sw: Anwani ya kijiografia
@@ -396,10 +396,10 @@ dv_has_:
     yo: Sístẹ́mù ajọfọ̀nàkò jẹ́ọ́gráfì
     yue: 地理座標系統
     zh: 地理坐标系
-    zh-hans: 地理坐标系
-    zh-hant: 地理座標系
-    zh-hk: 經緯
-    zh-tw: 經緯
+    zh_hans: 地理坐标系
+    zh_hant: 地理座標系
+    zh_hk: 經緯
+    zh_tw: 經緯
 ---
 # [[Geographic_Coordinate_System]] 
 

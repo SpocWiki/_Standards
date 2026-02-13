@@ -181,7 +181,7 @@ dv_has_:
     bar: Logik
     bcl: lohika
     be: логіка
-    be-tarask: лёгіка
+    be_tarask: лёгіка
     bew: Mantèk
     bg: логика
     bn: যুক্তি
@@ -190,7 +190,7 @@ dv_has_:
     btm: Logika
     bxr: ушар ухаан
     ca: lògica
-    cbk-zam: logica
+    cbk_zam: logica
     ce: логика
     ckb: لۆژیک
     co: logica
@@ -202,8 +202,8 @@ dv_has_:
     de: Logik
     el: λογική
     en: logic
-    en-ca: logic
-    en-gb: logic
+    en_ca: logic
+    en_gb: logic
     eo: logiko
     es: lógica
     et: loogika
@@ -273,7 +273,7 @@ dv_has_:
     mn: логик
     mr: तर्कशास्त्र
     ms: logik
-    ms-arab: لوݢيک
+    ms_arab: لوݢيک
     mwl: lógica
     my: ယုတ္တိဗေဒ
     mzn: منطق
@@ -295,7 +295,7 @@ dv_has_:
     pnb: منطق
     ps: سولپوهنه
     pt: lógica
-    pt-br: lógica
+    pt_br: lógica
     qu: umachasqa kutichina
     ro: logică
     ru: логика
@@ -317,8 +317,8 @@ dv_has_:
     so: maangal
     sq: logjikë
     sr: логика
-    sr-ec: логика
-    sr-el: logika
+    sr_ec: логика
+    sr_el: logika
     su: logika
     sv: logik
     sw: mantiki
@@ -333,7 +333,7 @@ dv_has_:
     tpi: lajik
     tr: mantık
     tt: мантыйк
-    tt-cyrl: мантыйк
+    tt_cyrl: мантыйк
     tyv: билиглел
     udm: логика
     uk: логіка
@@ -353,14 +353,14 @@ dv_has_:
     yue: 邏輯學
     zgh: ⵜⴰⵎⵥⵍⴰ
     zh: 邏輯學
-    zh-cn: 逻辑学
-    zh-hans: 逻辑学
-    zh-hant: 理則學
-    zh-hk: 邏輯學
-    zh-mo: 邏輯學
+    zh_cn: 逻辑学
+    zh_hans: 逻辑学
+    zh_hant: 理則學
+    zh_hk: 邏輯學
+    zh_mo: 邏輯學
     zh-my: 逻辑学
-    zh-sg: 逻辑学
-    zh-tw: 理則學
+    zh_sg: 逻辑学
+    zh_tw: 理則學
 ---
 # [[Logic]] 
 

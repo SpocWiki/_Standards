@@ -133,7 +133,7 @@ dv_has_:
     ast: Los hermanos Karamazov
     az: Karamazov Qardaşları
     ba: Ағалы-энеле Карамазовтар
-    be-tarask: Браты Карамазавы
+    be_tarask: Браты Карамазавы
     bg: Братя Карамазови
     bs: Braća Karamazovi
     ca: Els germans Karamàzov
@@ -141,11 +141,11 @@ dv_has_:
     cs: Bratři Karamazovi
     da: Brødrene Karamazov
     de: Die Brüder Karamasow
-    de-ch: Die Brüder Karamasow
+    de_ch: Die Brüder Karamasow
     el: Αδελφοί Καραμάζοφ
     en: The Brothers Karamazov
-    en-ca: The Brothers Karamazov
-    en-gb: The Brothers Karamazov
+    en_ca: The Brothers Karamazov
+    en_gb: The Brothers Karamazov
     eo: La fratoj Karamazov
     es: Los hermanos Karamazov
     eu: Karamazov anaiak
@@ -183,7 +183,7 @@ dv_has_:
     pl: Bracia Karamazow
     pnb: کرامازوف بھائی
     pt: Os Irmãos Karamazov
-    pt-br: Os Irmãos Karamazov
+    pt_br: Os Irmãos Karamazov
     ro: Frații Karamazov
     ru: Братья Карамазовы
     sco: The Brithers Karamazov
@@ -192,8 +192,8 @@ dv_has_:
     sl: Bratje Karamazovi
     sq: Vëllezërit Karamazov
     sr: Браћа Карамазови
-    sr-ec: Браћа Карамазови
-    sr-el: Braća Karamazovi
+    sr_ec: Браћа Карамазови
+    sr_el: Braća Karamazovi
     sv: Bröderna Karamazov
     tk: Doganlar Karamazowlar
     tr: Karamazov Kardeşler
@@ -206,12 +206,12 @@ dv_has_:
     xmf: ჯიმალეფი კარამაზოვეფი
     yue: 卡拉馬佐夫兄弟
     zh: 卡拉馬佐夫兄弟
-    zh-cn: 卡拉马佐夫兄弟
-    zh-hans: 卡拉马佐夫兄弟
-    zh-hant: 卡拉馬助夫兄弟們
-    zh-hk: 卡拉馬助夫兄弟們
-    zh-sg: 卡拉马佐夫兄弟
-    zh-tw: 卡拉馬助夫兄弟們
+    zh_cn: 卡拉马佐夫兄弟
+    zh_hans: 卡拉马佐夫兄弟
+    zh_hant: 卡拉馬助夫兄弟們
+    zh_hk: 卡拉馬助夫兄弟們
+    zh_sg: 卡拉马佐夫兄弟
+    zh_tw: 卡拉馬助夫兄弟們
 ---
 # [[Brothers_Karamazov]] 
 

@@ -58,7 +58,7 @@ dv_has_:
     dag: Dale Carnegie
     de: Dale Carnegie
     en: Dale Carnegie
-    en-ca: Dale Carnegie
+    en_ca: Dale Carnegie
     eo: Dale Carnegie
     es: Dale Carnegie
     et: Dale Carnegie
@@ -97,7 +97,7 @@ dv_has_:
     pms: Dale Carnegie
     ps: ډېل کارنېګي
     pt: Dale Carnegie
-    pt-br: Dale Carnegie
+    pt_br: Dale Carnegie
     ro: Dale Carnegie
     ru: Дейл Карнеги
     sc: Dale Carnegie
@@ -121,12 +121,12 @@ dv_has_:
     xmf: დეილ კარნეგი
     yi: דעיל קארנעגי
     zh: 戴尔·卡耐基
-    zh-cn: 戴尔·卡耐基
-    zh-hans: 戴尔·卡耐基
-    zh-hant: 戴爾·卡內基
-    zh-hk: 戴爾·卡內基
-    zh-sg: 戴尔·卡耐基
-    zh-tw: 戴爾·卡內基
+    zh_cn: 戴尔·卡耐基
+    zh_hans: 戴尔·卡耐基
+    zh_hant: 戴爾·卡內基
+    zh_hk: 戴爾·卡內基
+    zh_sg: 戴尔·卡耐基
+    zh_tw: 戴爾·卡內基
 ---
 # [[Carnegie,Dale]] 
 

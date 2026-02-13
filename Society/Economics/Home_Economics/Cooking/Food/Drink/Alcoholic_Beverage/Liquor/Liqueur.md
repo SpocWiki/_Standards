@@ -82,7 +82,7 @@ dv_has_:
     ba: Ликёр
     bar: Likea
     be: Лікёр
-    be-tarask: лікёр
+    be_tarask: лікёр
     bg: Ликьор
     bs: Liker
     ca: licor
@@ -115,11 +115,11 @@ dv_has_:
     jv: Liqueur
     ka: ლიქიორი
     kk: Ликёр
-    kk-arab: لىيكيور
+    kk_arab: لىيكيور
     kk-cn: لىيكيور
-    kk-cyrl: Ликёр
+    kk_cyrl: Ликёр
     kk-kz: Ликёр
-    kk-latn: Lïkyor
+    kk_latn: Lïkyor
     kk-tr: Lïkyor
     kn: ಮದ್ಯ
     ko: 리큐어
@@ -143,8 +143,8 @@ dv_has_:
     sk: likér
     sl: liker
     sr: ликер
-    sr-ec: Ликер
-    sr-el: Liker
+    sr_ec: Ликер
+    sr_el: Liker
     sv: likör
     tg: Ликёр
     tr: likör
@@ -157,11 +157,11 @@ dv_has_:
     yue: 甜酒
     zh: 利口酒
     zh-cn: 利口酒
-    zh-hans: 利口酒
-    zh-hant: 利口酒
-    zh-hk: 力嬌酒
-    zh-sg: 利口酒
-    zh-tw: 利口酒
+    zh_hans: 利口酒
+    zh_hant: 利口酒
+    zh_hk: 力嬌酒
+    zh_sg: 利口酒
+    zh_tw: 利口酒
 ---
 # [[Liqueur]] 
 

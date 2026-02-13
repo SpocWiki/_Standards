@@ -99,7 +99,7 @@ dv_has_:
     oc: Cryptodira
     pl: żółwie skrytoszyjne
     pt: Cryptodira
-    pt-br: Cryptodira
+    pt_br: Cryptodira
     ro: Cryptodira
     ru: скрытошейные черепахи
     sl: Cryptodira
@@ -114,11 +114,11 @@ dv_has_:
     vo: Cryptodira
     war: Cryptodira
     zh: 曲颈龟亚目
-    zh-cn: 曲颈龟亚目
-    zh-hans: 曲颈龟亚目
-    zh-hant: 曲頸龜亞目
-    zh-hk: 曲頸龜亞目
-    zh-tw: 曲頸龜亞目
+    zh_cn: 曲颈龟亚目
+    zh_hans: 曲颈龟亚目
+    zh_hant: 曲頸龜亞目
+    zh_hk: 曲頸龜亞目
+    zh_tw: 曲頸龜亞目
 ---
 # [[Cryptodira]] 
 

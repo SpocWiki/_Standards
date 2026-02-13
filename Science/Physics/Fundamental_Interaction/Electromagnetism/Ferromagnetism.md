@@ -79,7 +79,7 @@ dv_has_:
     ast: Ferromagnetismu
     az: Ferromaqnetizm
     be: Ферамагнетыкі
-    be-tarask: фэрамагнэтызм
+    be_tarask: фэрамагнэтызм
     bg: Феромагнетизъм
     bn: ফেরোচৌম্বক পদার্থ
     ca: ferromagnetisme
@@ -107,15 +107,15 @@ dv_has_:
     it: ferromagnetismo
     ja: 強磁性
     kk: Әлсіз ферромагнетизм
-    kk-arab: ٴالسىز فەرروماگنەتىيزم
+    kk_arab: ٴالسىز فەرروماگنەتىيزم
     kk-cn: ٴالسىز فەرروماگنەتىيزم
-    kk-cyrl: Әлсіз ферромагнетизм
+    kk_cyrl: Әлсіз ферромагнетизм
     kk-kz: Әлсіз ферромагнетизм
-    kk-latn: Älsiz ferromagnetïzm
+    kk_latn: Älsiz ferromagnetïzm
     kk-tr: Älsiz ferromagnetïzm
     ko: 강자성
     ku: Ferromanyetîk
-    ku-latn: Ferromanyetîk
+    ku_latn: Ferromanyetîk
     ky: Ферромагнетизм
     la: Ferromagnetismus
     mk: феромегнетизам
@@ -138,8 +138,8 @@ dv_has_:
     smn: ferromagnetism
     sms: ferromagnetismm
     sr: феромагнетизам
-    sr-ec: феромагнетизам
-    sr-el: Feromagnetizam
+    sr_ec: феромагнетизам
+    sr_el: Feromagnetizam
     sv: ferromagnetism
     ta: பெர்ரோ காந்தவியல்
     tr: Ferromıknatıslık
@@ -150,12 +150,12 @@ dv_has_:
     wuu: 铁磁性
     yue: 鐵磁性
     zh: 铁磁性
-    zh-cn: 铁磁性
-    zh-hans: 铁磁性
-    zh-hant: 鐵磁性
-    zh-hk: 鐵磁性
-    zh-sg: 铁磁性
-    zh-tw: 鐵磁性
+    zh_cn: 铁磁性
+    zh_hans: 铁磁性
+    zh_hant: 鐵磁性
+    zh_hk: 鐵磁性
+    zh_sg: 铁磁性
+    zh_tw: 鐵磁性
 ---
 # [[Ferromagnetism]] 🧲 
 

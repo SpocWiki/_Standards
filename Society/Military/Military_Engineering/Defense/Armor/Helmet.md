@@ -108,7 +108,7 @@ dv_has_:
     az: Dəbilqə
     bcl: Helmet
     be: каска
-    be-tarask: каска
+    be_tarask: каска
     bg: Каска
     bn: হেলমেট
     br: Tokarn
@@ -118,7 +118,7 @@ dv_has_:
     de: Helm
     el: περικεφαλαία
     en: helmet
-    en-gb: helmet
+    en_gb: helmet
     en-us: helmet
     eo: kasko
     es: casco
@@ -166,7 +166,7 @@ dv_has_:
     pms: Casch
     pnb: ہیلمٹ
     pt: capacete
-    pt-br: capacete
+    pt_br: capacete
     qu: Amachana chuku
     ro: cască
     ru: каска
@@ -182,8 +182,8 @@ dv_has_:
     sms: kõrrkeäʹpper
     sq: Helmeta
     sr: шлем
-    sr-ec: шлем
-    sr-el: šlem
+    sr_ec: шлем
+    sr_el: šlem
     su: Hélem
     sv: hjälm
     sw: Helmeti
@@ -200,12 +200,12 @@ dv_has_:
     xmf: ანჩხაბერი
     yue: 頭盔
     zh: 盔
-    zh-cn: 盔
-    zh-hans: 盔
-    zh-hant: 盔
-    zh-hk: 盔
-    zh-sg: 盔
-    zh-tw: 盔
+    zh_cn: 盔
+    zh_hans: 盔
+    zh_hant: 盔
+    zh_hk: 盔
+    zh_sg: 盔
+    zh_tw: 盔
 ---
 # [[Helmet]] 
 

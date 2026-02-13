@@ -150,7 +150,7 @@ dv_has_:
     azb: یاغ
     bbc: Miak
     be: алей
-    be-tarask: алей
+    be_tarask: алей
     bg: масло
     bn: তেল
     br: Eoul
@@ -164,14 +164,14 @@ dv_has_:
     da: olie
     dag: Kpam
     de: Öle
-    de-ch: Öle
+    de_ch: Öle
     din: Miök
     dz: མར༌ཁུ
     el: λάδι
     eml: Òli
     en: oil
-    en-ca: oil
-    en-gb: oil
+    en_ca: oil
+    en_gb: oil
     en-us: oil
     eo: oleo
     es: aceite
@@ -231,7 +231,7 @@ dv_has_:
     mzn: راغون
     nan: Iû
     nb: olje
-    nds-nl: öllie
+    nds_nl: öllie
     ne: तेल
     new: चिकं
     nl: olie
@@ -244,7 +244,7 @@ dv_has_:
     pnb: تیل
     ps: تېل يا غوړ
     pt: óleo
-    pt-br: óleo
+    pt_br: óleo
     ro: ulei
     ru: масло
     sa: तैलम्
@@ -262,8 +262,8 @@ dv_has_:
     sms: oljj
     so: Saliid
     sr: уље
-    sr-ec: уље
-    sr-el: ulje
+    sr_ec: уље
+    sr_el: ulje
     su: Minyak
     sv: olja
     sw: Mafuta
@@ -274,7 +274,7 @@ dv_has_:
     tok: telo ko
     tr: yağ
     tt: май
-    tt-cyrl: май
+    tt_cyrl: май
     uk: олива
     ur: تیل
     uz: Moy
@@ -289,8 +289,8 @@ dv_has_:
     yue: 油
     zgh: ⴰⵣⴰⵜⵉⵎ
     zh: 油
-    zh-hans: 油
-    zh-hant: 油
+    zh_hans: 油
+    zh_hant: 油
     zu: Amafutha
 ---
 # [[Oil]] 

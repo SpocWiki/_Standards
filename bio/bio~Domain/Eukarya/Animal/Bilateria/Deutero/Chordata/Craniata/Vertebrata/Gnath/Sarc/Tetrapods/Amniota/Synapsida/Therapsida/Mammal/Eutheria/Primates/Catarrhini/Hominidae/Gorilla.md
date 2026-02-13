@@ -119,7 +119,7 @@ dv_has_:
     az: qorilla
     ba: Гориллалар
     be: гарыла
-    be-tarask: гарыла
+    be_tarask: гарыла
     bew: Wa'aung
     bg: горили
     bn: গরিলা
@@ -210,7 +210,7 @@ dv_has_:
     pl: goryl
     pnb: گوریلا
     pt: Gorila
-    pt-br: Gorilla
+    pt_br: Gorilla
     qu: Gurila
     ro: Gorilă
     ru: гориллы
@@ -248,9 +248,9 @@ dv_has_:
     yi: גארילע
     yue: 大猩猩
     zh: 大猩猩属
-    zh-cn: 大猩猩属
-    zh-hans: 大猩猩属
-    zh-tw: 大猩猩屬
+    zh_cn: 大猩猩属
+    zh_hans: 大猩猩属
+    zh_tw: 大猩猩屬
     zu: Igorila
 ---
 # [[Gorilla]] 

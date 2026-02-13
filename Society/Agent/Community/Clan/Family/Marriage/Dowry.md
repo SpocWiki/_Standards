@@ -104,7 +104,7 @@ dv_has_:
     az: Cehiz
     ba: Бирнә
     be: пасаг
-    be-tarask: пасаг
+    be_tarask: пасаг
     bg: Зестра
     bn: যৌতুক
     br: Argouroù
@@ -175,8 +175,8 @@ dv_has_:
     sl: dota
     so: Lacagta Meherka
     sr: Мираз
-    sr-ec: мираз
-    sr-el: miraz
+    sr_ec: мираз
+    sr_el: miraz
     sv: Hemgift
     sw: Mahari
     ta: வரதட்சணை

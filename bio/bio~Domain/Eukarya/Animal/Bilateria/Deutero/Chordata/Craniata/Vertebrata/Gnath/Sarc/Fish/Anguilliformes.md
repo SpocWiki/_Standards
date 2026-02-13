@@ -139,7 +139,7 @@ dv_has_:
     azb: ایلان بالیغی کیمیلر
     ban: Julit
     be: Вугрападобныя
-    be-tarask: вугорападобныя
+    be_tarask: вугорападобныя
     bg: змиоркоподобни
     ca: Anguil·liforme
     cdo: Muàng-ngṳ̀
@@ -206,7 +206,7 @@ dv_has_:
     os: Калмгæсагонтæ
     pl: węgorzokształtne
     pt: Anguilliformes
-    pt-br: Anguilliformes
+    pt_br: Anguilliformes
     ro: Anguilliformes
     ru: угреобразные
     sco: Anguilliformes
@@ -215,8 +215,8 @@ dv_has_:
     sl: jegulje
     sq: Ngjala
     sr: Anguilliformes
-    sr-ec: Anguilliformes
-    sr-el: Anguilliformes
+    sr_ec: Anguilliformes
+    sr_el: Anguilliformes
     su: Lubang
     sv: ålartade fiskar
     sw: Mkunga (samaki)
@@ -236,12 +236,12 @@ dv_has_:
     xh: Umlenga
     yue: 鱔
     zh: 鳗鲡目
-    zh-cn: 鰻鱺目
-    zh-hans: 鳗鲡目
-    zh-hant: 鰻
-    zh-hk: 鰻
-    zh-sg: 鳗
-    zh-tw: 鰻鱺目
+    zh_cn: 鰻鱺目
+    zh_hans: 鳗鲡目
+    zh_hant: 鰻
+    zh_hk: 鰻
+    zh_sg: 鳗
+    zh_tw: 鰻鱺目
     zu: Umbokwane
 ---
 # [[Anguilliformes]] 

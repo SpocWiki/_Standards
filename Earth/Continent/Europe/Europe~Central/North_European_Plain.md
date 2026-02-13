@@ -114,7 +114,7 @@ dv_has_:
     ast: Enllanada nordeuropea
     ba: Урта Европа тигеҙлеге
     be: Сярэднееўрапейская раўніна
-    be-tarask: Сярэднеэўрапейская раўніна
+    be_tarask: Сярэднеэўрапейская раўніна
     bg: Средноевропейска равнина
     ca: Plana del Nord d'Europa
     cs: Středoevropská nížina
@@ -144,7 +144,7 @@ dv_has_:
     mk: Средноевропска Низина
     ml: ഉത്തര യൂറോപ്യൻ സമതലം
     nb: Det nordeuropeiske lavlandet
-    nds-nl: Noord-Europese Leeglaand
+    nds_nl: Noord-Europese Leeglaand
     nl: Noord-Europese Laagvlakte
     nn: Det nordeuropeiske låglandet
     oc: Plan d'Euròpa dau Nòrd

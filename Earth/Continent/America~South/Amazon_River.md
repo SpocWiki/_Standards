@@ -259,7 +259,7 @@ dv_has_:
     bar: Amazonas
     bcl: Salog Amazon
     be: Амазонка
-    be-tarask: Амазонка
+    be_tarask: Амазонка
     bg: Амазонка
     bho: अमेजन नदी
     bn: আমাজন নদী
@@ -273,19 +273,19 @@ dv_has_:
     ceb: Amazon River
     ckb: ئەمازۆن
     crh: Amazon özeni
-    crh-latn: Amazon özeni
+    crh_latn: Amazon özeni
     cs: Amazonka
     cv: Амазонка
     cy: Afon Amazonas
     da: Amazonfloden
     de: Amazonas
-    de-ch: Amazonas
+    de_ch: Amazonas
     diq: Roê Amazoni
     dty: अमेजन नदी
     el: Αμαζόνιος
     en: Amazon
-    en-ca: Amazon River
-    en-gb: Amazon
+    en_ca: Amazon River
+    en_gb: Amazon
     eo: Amazono
     es: Amazonas
     et: Amazonas
@@ -373,7 +373,7 @@ dv_has_:
     nan: Amazonas Hô
     nb: Amazonas
     nds: Amazonas
-    nds-nl: Amazone (revier)
+    nds_nl: Amazone (revier)
     ne: अमेजन नदी
     new: अमेजन खुसि
     nl: Amazone
@@ -389,7 +389,7 @@ dv_has_:
     pnb: دریائے ایمیزون
     ps: امازون
     pt: rio Amazonas
-    pt-br: rio Amazonas
+    pt_br: rio Amazonas
     qu: Amarumayu
     rm: Amazonas
     ro: Amazon
@@ -410,7 +410,7 @@ dv_has_:
     sl: Amazonka
     sq: Amazoni
     sr: Амазон
-    sr-ec: Амазон
+    sr_ec: Амазон
     stq: Amazonas
     su: Walungan Amazon
     sv: Amazonfloden
@@ -443,8 +443,8 @@ dv_has_:
     yue: 亞馬遜河
     za: Dah Yamajsenhoz
     zh: 亚马孙河
-    zh-cn: 亚马逊河
-    zh-hant: 亞馬孫河
+    zh_cn: 亚马逊河
+    zh_hant: 亞馬孫河
 ---
 ## #has_/text_of_/abstract 
 

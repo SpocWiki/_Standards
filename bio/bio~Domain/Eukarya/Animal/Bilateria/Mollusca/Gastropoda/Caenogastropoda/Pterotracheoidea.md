@@ -34,7 +34,7 @@ dv_has_:
     oc: Pterotracheoidea
     pl: Pterotracheoidea
     pt: Pterotracheoidea
-    pt-br: Pterotracheoidea
+    pt_br: Pterotracheoidea
     ro: Pterotracheoidea
     ru: Pterotracheoidea
     sq: Pterotracheoidea
@@ -43,8 +43,8 @@ dv_has_:
     vo: Pterotracheoidea
     war: Pterotracheoidea
     zh: 翼管螺總科
-    zh-cn: 翼管螺总科
-    zh-tw: 翼管螺總科
+    zh_cn: 翼管螺总科
+    zh_tw: 翼管螺總科
 ---
 ## [[Pterotracheoidea]] 
 

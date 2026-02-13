@@ -51,7 +51,7 @@ dv_has_:
   name_:
     ar: علم اجتماع العائلة
     az: Ailə sosiologiyası
-    be-tarask: сацыялёгія сям’і
+    be_tarask: сацыялёгія сям’і
     ca: sociologia de la família
     cs: sociologie rodiny
     cy: cymdeithaseg y teulu
@@ -81,7 +81,7 @@ dv_has_:
     ru: социология семьи
     sl: sociologija družine
     sr: социологија породице
-    sr-ec: социологија породице
+    sr_ec: социологија породице
     sv: familjesociologi
     tr: aile sosyolojisi
     tt: гаилә социологиясе
@@ -91,9 +91,9 @@ dv_has_:
     vi: Xã hội học gia đình
     yue: 家庭社會學
     zh: 家庭社会学
-    zh-cn: 家庭社会学
-    zh-hans: 家庭社会学
-    zh-hant: 家庭社會學
+    zh_cn: 家庭社会学
+    zh_hans: 家庭社会学
+    zh_hant: 家庭社會學
 ---
 # [[Sociology_of_the_Family]] 
 

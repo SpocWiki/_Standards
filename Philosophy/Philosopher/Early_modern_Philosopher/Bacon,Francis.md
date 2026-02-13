@@ -204,7 +204,7 @@ dv_has_:
     ay: Francis Bacon
     az: Frensis Bekon
     be: Фрэнсіс Бэкан
-    be-tarask: Фрэнсіс Бэкан
+    be_tarask: Фрэнсіс Бэкан
     bg: Френсис Бейкън
     bn: ফ্রান্সিস বেকন
     bo: ཧྥ་རན་སི་ཨི་སི་བྷེ་ཀན།
@@ -218,12 +218,12 @@ dv_has_:
     cy: Francis Bacon
     da: Francis Bacon
     de: Francis Bacon
-    de-ch: Francis Bacon
+    de_ch: Francis Bacon
     diq: Francis Bacon
     el: Σερ Φράνσις Μπέικον
     en: Francis Bacon
-    en-ca: Francis Bacon
-    en-gb: Francis Bacon
+    en_ca: Francis Bacon
+    en_gb: Francis Bacon
     eo: Francis Bacon
     es: Francis Bacon
     et: Francis Bacon
@@ -285,7 +285,7 @@ dv_has_:
     pnb: فرانسس بیکن
     ps: فرانسېس بیکن
     pt: Francis Bacon
-    pt-br: Francis Bacon
+    pt_br: Francis Bacon
     qu: Francis Bacon
     rki: ဖဖို့စစ်ဘေကွန်(Francis Bacon)
     ro: Francis Bacon
@@ -299,7 +299,7 @@ dv_has_:
     sl: Francis Bacon
     sq: Francis Bacon
     sr: Франсис Бејкон
-    sr-ec: Франсис Бејкон
+    sr_ec: Франсис Бејкон
     sv: Francis Bacon
     sw: Fransis Bacon
     szy: Fa-lan-si-se.pei-ken
@@ -322,9 +322,9 @@ dv_has_:
     yo: Francis Bacon
     yue: 培根
     zh: 弗朗西斯·培根
-    zh-cn: 弗朗西斯·培根
+    zh_cn: 弗朗西斯·培根
     zh-hans: 弗朗西斯·培根
-    zh-tw: 法蘭西斯 培根
+    zh_tw: 法蘭西斯 培根
 ---
 # [[Bacon,Francis]] 
 

@@ -94,7 +94,7 @@ dv_has_:
     ast: ilustración
     az: İllüstrasiya
     be: ілюстрацыя
-    be-tarask: ілюстрацыя
+    be_tarask: ілюстрацыя
     bg: илюстрация
     bn: চিত্রালংকরণ
     bs: ilustracija
@@ -151,7 +151,7 @@ dv_has_:
     os: иллюстраци
     pl: ilustracja
     pt: ilustração
-    pt-br: ilustração
+    pt_br: ilustração
     ro: ilustrație
     ru: иллюстрация
     sh: ilustracija
@@ -161,8 +161,8 @@ dv_has_:
     sma: illustrasjovne
     sq: ilustrimi
     sr: илустрација
-    sr-ec: илустрација
-    sr-el: ilustracija
+    sr_ec: илустрација
+    sr_el: ilustracija
     sv: illustration
     te: చిత్రణ
     tg: тасвирсозӣ
@@ -175,12 +175,12 @@ dv_has_:
     wuu: 插画
     yue: 插圖
     zh: 插畫
-    zh-cn: 插画
-    zh-hans: 插画
-    zh-hant: 插畫
-    zh-hk: 插畫
-    zh-sg: 插画
-    zh-tw: 插畫
+    zh_cn: 插画
+    zh_hans: 插画
+    zh_hant: 插畫
+    zh_hk: 插畫
+    zh_sg: 插画
+    zh_tw: 插畫
 ---
 # [[Illustration]] 
 

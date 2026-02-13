@@ -90,7 +90,7 @@ dv_has_:
     ar: بلازما كوارك-غلوونية
     ast: Plasma de quarks-gluones
     be: Кварк-глюонная плазма
-    be-tarask: кварк-глюённая плязма
+    be_tarask: кварк-глюённая плязма
     bg: Кварк-глуонна плазма
     bn: কোয়ার্ক-গ্লুয়ন প্লাজমা
     ca: Plasma de quarks-gluons
@@ -135,10 +135,10 @@ dv_has_:
     uk: Кварк-глюонна плазма
     ur: قوارک- گلوؤن پلازمہ
     zh: 夸克-膠子電漿
-    zh-hans: 夸克-胶子等离子体
-    zh-hant: 夸克-膠子電漿
-    zh-hk: 夸克-膠子等離子體
-    zh-tw: 夸克-膠子電漿
+    zh_hans: 夸克-胶子等离子体
+    zh_hant: 夸克-膠子電漿
+    zh_hk: 夸克-膠子等離子體
+    zh_tw: 夸克-膠子電漿
 ---
 # [[Quark–Gluon_Plasma]] 
 

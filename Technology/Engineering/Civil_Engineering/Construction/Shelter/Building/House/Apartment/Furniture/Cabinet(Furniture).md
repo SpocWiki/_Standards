@@ -71,7 +71,7 @@ dv_has_:
     ar: خزانة
     ast: armariu
     be: шафа
-    be-tarask: шафа
+    be_tarask: шафа
     bg: шкаф
     ca: cabinet
     cdo: gôi
@@ -95,7 +95,7 @@ dv_has_:
     it: stipo
     ja: キャビネット
     kk: шкаф
-    kk-latn: şkaf
+    kk_latn: şkaf
     kn: ಅಲಮಾರು
     ko: 장
     ksh: Schaaf
@@ -106,12 +106,12 @@ dv_has_:
     nap: stipone
     nb: kabinettskap
     nds: Schapp
-    nds-nl: kaste
+    nds_nl: kaste
     nl: kabinet
     nn: skåp
     pl: kabinet
     pt: gabinete
-    pt-br: gabinete
+    pt_br: gabinete
     rn: akabati
     ru: шкаф
     sk: skriňový nábytok
@@ -127,9 +127,9 @@ dv_has_:
     wuu: 柜
     yue: 櫃
     zh: 櫃
-    zh-hans: 柜
-    zh-hant: 櫃
-    zh-hk: 櫃
+    zh_hans: 柜
+    zh_hant: 櫃
+    zh_hk: 櫃
 ---
 # [[Cabinet(Furniture)]] 
 

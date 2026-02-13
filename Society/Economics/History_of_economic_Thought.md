@@ -68,17 +68,17 @@ dv_has_:
     arz: تاريخ الفكر الاقتصادى
     ast: Historia del pensamientu económicu
     az: İqtisadi təlimlər tarixi
-    be-tarask: гісторыя эканамічнай думкі
+    be_tarask: гісторыя эканамічнай думкі
     bg: История на икономическата мисъл
     ca: història del pensament econòmic
     cs: Dějiny ekonomického myšlení
     da: økonomisk teorihistorie
     de: Ökonomische Theoriengeschichte
-    de-ch: Ökonomische Theoriengeschichte
+    de_ch: Ökonomische Theoriengeschichte
     el: ιστορία της οικονομικής σκέψης
     en: history of economic thought
-    en-ca: history of economic thought
-    en-gb: history of economic thought
+    en_ca: history of economic thought
+    en_gb: history of economic thought
     eo: historio de ekonomikaj ideologioj
     es: historia del pensamiento económico
     et: Majandusteaduse ajalugu

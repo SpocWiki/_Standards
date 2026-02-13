@@ -153,7 +153,7 @@ dv_has_:
     azb: الکتریکلی یوک
     bar: elektrische Lodung
     be: электрычны зарад
-    be-tarask: электрычны зарад
+    be_tarask: электрычны зарад
     bg: електрически заряд
     bho: बिद्यूतभार
     bn: বৈদ্যুতিক আধান
@@ -166,11 +166,11 @@ dv_has_:
     cy: gwefr drydanol
     da: elektrisk ladning
     de: elektrische Ladung
-    de-ch: elektrische Ladung
+    de_ch: elektrische Ladung
     el: ηλεκτρικό φορτίο
     en: electric charge
-    en-ca: electric charge
-    en-gb: electric charge
+    en_ca: electric charge
+    en_gb: electric charge
     eo: elektra ŝargo
     es: carga eléctrica
     et: elektrilaeng
@@ -231,7 +231,7 @@ dv_has_:
     pms: caria eletrostàtica
     pnb: برقی چارج
     pt: carga elétrica
-    pt-br: carga elétrica
+    pt_br: carga elétrica
     qu: pinchikilla chaqna
     ro: sarcină electrică
     ru: электрический заряд
@@ -245,7 +245,7 @@ dv_has_:
     so: saldanab
     sq: ngarkesa elektrike
     sr: наелектрисање
-    sr-ec: наелектрисање
+    sr_ec: наелектрисање
     stq: Leedenge
     su: muatan listrik
     sv: elektrisk laddning
@@ -271,9 +271,9 @@ dv_has_:
     yo: àdìjọ ìtanná
     yue: 電荷
     zh: 電荷
-    zh-cn: 电荷
-    zh-hans: 电荷
-    zh-hant: 電荷
+    zh_cn: 电荷
+    zh_hans: 电荷
+    zh_hant: 電荷
     zu: Umlelesa
 ---
 # [[Charge,electric]]  

@@ -226,7 +226,7 @@ dv_is_a: '[[City]]'
 dv_has_:
   name_:
     ab: ақалақь
-    aeb-arab: مدينة
+    aeb_arab: مدينة
     af: stad
     aig: siti
     ak: Kuro Keseɛ
@@ -250,7 +250,7 @@ dv_has_:
     bar: Großståd
     bcl: syudad
     be: горад
-    be-tarask: горад
+    be_tarask: горад
     bg: град
     bho: "\U000110A2\U0001108F\U000110A9"
     bjn: kuta
@@ -260,7 +260,7 @@ dv_has_:
     bs: grad
     bxr: хото
     ca: ciutat
-    cbk-zam: ciudad
+    cbk_zam: ciudad
     cdo: Siàng-chê
     ce: ГӀала
     ceb: dakbayan
@@ -268,7 +268,7 @@ dv_has_:
     chr: ᎦᏚᎲᎢ
     ckb: شار
     crh: şeer
-    crh-latn: şeer
+    crh_latn: şeer
     cs: město
     csb: miasto
     cu: градъ
@@ -277,7 +277,7 @@ dv_has_:
     da: by
     dag: tiŋgbaŋ karili
     de: Stadt
-    de-ch: Stadt
+    de_ch: Stadt
     diq: Suke
     dsb: město
     dty: शहर
@@ -348,7 +348,7 @@ dv_has_:
     kbd: къалэ
     ki: Cĩtĩ
     kk: қала
-    kk-cyrl: қала
+    kk_cyrl: қала
     km: ទីក្រុង
     kn: ನಗರ
     ko: 도시
@@ -387,7 +387,7 @@ dv_has_:
     mni: ꯃꯌꯣꯜꯂꯝꯂꯦꯟ
     mr: शहर
     ms: bandar
-    ms-arab: باندر راي
+    ms_arab: باندر راي
     mt: belt
     mwl: cidade
     my: မြို့
@@ -399,7 +399,7 @@ dv_has_:
     nap: cità
     nb: by
     nds: Stadt
-    nds-nl: stad
+    nds_nl: stad
     ne: सहर
     new: नगर
     nl: stad
@@ -423,7 +423,7 @@ dv_has_:
     pnt: Πόλη
     ps: ښار
     pt: cidade
-    pt-br: cidade
+    pt_br: cidade
     qu: llaqta
     rgn: zitê
     rmy: foro
@@ -451,7 +451,7 @@ dv_has_:
     so: magaalo
     sq: qytet
     sr: град
-    sr-ec: град
+    sr_ec: град
     su: kota
     sv: stad
     sw: jiji
@@ -460,7 +460,7 @@ dv_has_:
     ta: மாநகரம்
     te: నగరం
     tg: шаҳр
-    tg-cyrl: шаҳр
+    tg_cyrl: шаҳр
     th: นคร
     ti: ከተማ
     tig: መዲነት
@@ -470,8 +470,8 @@ dv_has_:
     tr: şehir
     ts: doroba
     tt: шәһәр
-    tt-cyrl: шәһәр
-    tt-latn: şähär
+    tt_cyrl: шәһәр
+    tt_latn: şähär
     udm: кар
     uk: місто
     ur: شہر
@@ -492,11 +492,11 @@ dv_has_:
     yue: 城市
     zea: stad
     zh: 城市
-    zh-cn: 城市
-    zh-hans: 城市
-    zh-hant: 城市
-    zh-hk: 城市
-    zh-tw: 城市
+    zh_cn: 城市
+    zh_hans: 城市
+    zh_hant: 城市
+    zh_hk: 城市
+    zh_tw: 城市
     zu: Isidlavela
   parent_class: '[[../AdministrativeArea]]'
   properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'

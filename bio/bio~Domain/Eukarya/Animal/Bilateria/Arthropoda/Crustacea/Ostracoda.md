@@ -98,7 +98,7 @@ dv_has_:
     pl: małżoraczki
     ps: صدف ډوله ژوي
     pt: Ostracoda
-    pt-br: Ostracoda
+    pt_br: Ostracoda
     ro: Ostracode
     ru: Ракушковые
     sl: Dvoklopniki
@@ -111,12 +111,12 @@ dv_has_:
     vo: Ostracoda
     war: Ostracoda
     zh: 介形纲
-    zh-cn: 介形纲
-    zh-hans: 介形纲
-    zh-hant: 介形蟲
-    zh-hk: 介形蟲
-    zh-sg: 介形虫
-    zh-tw: 介形綱
+    zh_cn: 介形纲
+    zh_hans: 介形纲
+    zh_hant: 介形蟲
+    zh_hk: 介形蟲
+    zh_sg: 介形虫
+    zh_tw: 介形綱
 ---
 # [[Ostracoda]] 
 

@@ -173,7 +173,7 @@ dv_has_:
     bas: lìùndùl
     bcl: polusyon
     be: забруджванне
-    be-tarask: забруджваньне
+    be_tarask: забруджваньне
     bg: замърсяване
     bho: प्रदूषण
     bn: দূষণ
@@ -186,12 +186,12 @@ dv_has_:
     da: forurening
     dag: pollution
     de: Umweltverschmutzung
-    de-ch: Umweltverschmutzung
+    de_ch: Umweltverschmutzung
     dv: dhevehi
     el: ρύπανση
     en: pollution
-    en-ca: pollution
-    en-gb: pollution
+    en_ca: pollution
+    en_gb: pollution
     eo: poluo
     es: contaminación
     et: saastamine
@@ -253,7 +253,7 @@ dv_has_:
     pl: zanieczyszczanie środowiska
     ps: ککړتیا
     pt: poluição
-    pt-br: poluição
+    pt_br: poluição
     qu: Sallqa waqlliy
     ro: Poluare
     ru: загрязнение
@@ -288,8 +288,8 @@ dv_has_:
     ybb: tepɔŋ atswhi a Ndo esi tsāʼ
     yue: 污染
     zh: 污染
-    zh-hant: 污染
-    zh-tw: 污染
+    zh_hant: 污染
+    zh_tw: 污染
     zu: UmNukubalo
 ---
 # [[Pollution]] 

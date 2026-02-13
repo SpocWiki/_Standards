@@ -104,7 +104,7 @@ dv_has_:
     ba: Милли олимпия комитеты
     bcl: Nasyunal na Olimpikong Komite
     be: Нацыянальны алімпійскі камітэт
-    be-tarask: Нацыянальны алімпійскі камітэт
+    be_tarask: Нацыянальны алімпійскі камітэт
     bn: জাতীয় অলিম্পিক কমিটি
     ca: Comitè Olímpic Nacional
     ckb: لیژنەی ئۆڵۆمپی نەتەوەیی
@@ -133,11 +133,11 @@ dv_has_:
     ja: 国内オリンピック委員会
     ka: ეროვნული ოლიმპიური კომიტეტი
     kk: Ұлттық Олимпиада комитеттері
-    kk-arab: ۇلتتىق ولىيمپىيادا كومىيتەتتەرى
+    kk_arab: ۇلتتىق ولىيمپىيادا كومىيتەتتەرى
     kk-cn: ۇلتتىق ولىيمپىيادا كومىيتەتتەرى
-    kk-cyrl: Ұлттық Олимпиада комитеттері
+    kk_cyrl: Ұлттық Олимпиада комитеттері
     kk-kz: Ұлттық Олимпиада комитеттері
-    kk-latn: Ulttıq Olïmpïada komïtetteri
+    kk_latn: Ulttıq Olïmpïada komïtetteri
     kk-tr: Ulttıq Olïmpïada komïtetteri
     km: គណកម្មាធិការអូឡាំពិកជាតិ
     ko: 국가 올림픽 위원회
@@ -162,8 +162,8 @@ dv_has_:
     smn: aalmuglâš olympiakomitea
     sms: naroodlaž olympiakomitea
     sr: Национални олимпијски комитет
-    sr-ec: Национални олимпијски комитет
-    sr-el: Nacionalni olimpijski komitet
+    sr_ec: Национални олимпијски комитет
+    sr_el: Nacionalni olimpijski komitet
     sv: nationell olympisk kommitté
     ta: தேசிய ஒலிம்பிக் குழு
     th: คณะกรรมการโอลิมปิกแห่งชาติ
@@ -176,12 +176,12 @@ dv_has_:
     wuu: 国家奥林匹克委员会
     yue: 國家奧林匹克委員會
     zh: 國家奧林匹克委員會
-    zh-cn: 国家或地区奥林匹克委员会
-    zh-hans: 国家或地区奥林匹克委员会
-    zh-hant: 國家奧林匹克委員會
-    zh-hk: 國家奧林匹克委員會
-    zh-sg: 国家奥林匹克委员会
-    zh-tw: 國家奧林匹克委員會
+    zh_cn: 国家或地区奥林匹克委员会
+    zh_hans: 国家或地区奥林匹克委员会
+    zh_hant: 國家奧林匹克委員會
+    zh_hk: 國家奧林匹克委員會
+    zh_sg: 国家奥林匹克委员会
+    zh_tw: 國家奧林匹克委員會
 ---
 # [[National_Olympic_Committee]] 
 

@@ -154,7 +154,7 @@ dv_has_:
     azb: چین-تبت دیللری
     bcl: Mga tataramon na Sino-Tibetano
     be: сіна-тыбецкія мовы
-    be-tarask: сына-тыбэцкія мовы
+    be_tarask: сына-тыбэцкія мовы
     bg: Сино-тибетско езиково семейство
     bn: চীনা-তিব্বতি ভাষাসমূহ
     bo: རྒྱ་བོད་སྐད་ཁོངས་
@@ -261,14 +261,14 @@ dv_has_:
     za: Vahhaeh Gun-Cang
     zea: Sino-Tibetaonse taelen
     zh: 汉藏语系
-    zh-cn: 汉藏语系
-    zh-hans: 汉藏语系
-    zh-hant: 漢藏語系
-    zh-hk: 漢藏語系
-    zh-mo: 漢藏語系
+    zh_cn: 汉藏语系
+    zh_hans: 汉藏语系
+    zh_hant: 漢藏語系
+    zh_hk: 漢藏語系
+    zh_mo: 漢藏語系
     zh-my: 汉藏语系
-    zh-sg: 汉藏语系
-    zh-tw: 漢藏語系
+    zh_sg: 汉藏语系
+    zh_tw: 漢藏語系
 ---
 # [[LangFamily-Sino-Tibetan]] 
 

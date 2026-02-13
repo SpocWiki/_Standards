@@ -34,7 +34,7 @@ dv_is_:
 dv_has_:
   name_:
     ace: Taywan
-    aeb-arab: تايوان
+    aeb_arab: تايوان
     af: Republiek van China
     alt: Тайвань
     am: የቻይና ሪፐብሊክ
@@ -54,7 +54,7 @@ dv_has_:
     bar: Republik China
     bcl: Taiwan
     be: Тайвань
-    be-tarask: Рэспубліка Кітай
+    be_tarask: Рэспубліка Кітай
     bew: Taiwan
     bg: Република Китай
     bgn: تایوان
@@ -69,7 +69,7 @@ dv_has_:
     bug: ᨈᨕᨗᨓᨕᨊ
     bxr: Бүгэдэ Найрамдаха Хитад Улас
     ca: Taiwan
-    cbk-zam: Taiwán
+    cbk_zam: Taiwán
     cdo: Dṳ̆ng-huà Mìng-guók
     ce: Тайвань
     ceb: Republika sa Tsina
@@ -78,7 +78,7 @@ dv_has_:
     ckb: تایوان
     co: Taiwan
     crh: Çin Cumhuriyeti
-    crh-latn: Çin Cumhuriyeti
+    crh_latn: Çin Cumhuriyeti
     cs: Tchaj-wan
     csb: Tajwan
     cv: Тайвань
@@ -87,7 +87,7 @@ dv_has_:
     dag: Taiwan
     de: Republik China
     de-at: Republik China
-    de-ch: Republik China
+    de_ch: Republik China
     din: Taïwan
     diq: Cumhuriyetê Çini
     dsb: Republika Chinskeje
@@ -98,8 +98,8 @@ dv_has_:
     ee: Taiwan
     el: Ταϊβάν
     en: Taiwan
-    en-ca: Taiwan
-    en-gb: Taiwan
+    en_ca: Taiwan
+    en_gb: Taiwan
     en-us: Taiwan
     eo: Tajvano
     es: República de China
@@ -124,7 +124,7 @@ dv_has_:
     gn: Taiuã
     gom: तैवान
     gom-deva: तैवान
-    gom-latn: Taiwan
+    gom_latn: Taiwan
     got: "\U00010344\U00010330\U00010339̈\U00010345\U00010330"
     gpe: Taiwan
     gsw: Republik China
@@ -162,8 +162,8 @@ dv_has_:
     kcg: Taiwan
     kge: Taiwan
     kk: Тайуан
-    kk-cyrl: Тайуан
-    kk-latn: Taiuan
+    kk_cyrl: Тайуан
+    kk_latn: Taiuan
     kl: Taiwan
     km: តៃវ៉ាន់
     kn: ಚೀನಿ ಗಣರಾಜ್ಯ
@@ -190,7 +190,7 @@ dv_has_:
     mad: Taiwan
     mag: ताइवान
     mai: ताइवान
-    map-bms: Taiwan
+    map_bms: Taiwan
     mg: Taiwan
     mhr: Тайван
     mi: Taiwana
@@ -201,7 +201,7 @@ dv_has_:
     mni: ꯇꯥꯏꯋꯥꯟ
     mr: चीनचे प्रजासत्ताक
     ms: Taiwan
-    ms-arab: تايوان
+    ms_arab: تايوان
     mt: Tajwan
     my: တရုတ်သမ္မတနိုင်ငံ
     myv: Китайень Республикась
@@ -237,7 +237,7 @@ dv_has_:
     pnb: تائیوان
     ps: تايوان
     pt: Taiwan
-    pt-br: Taiwan
+    pt_br: Taiwan
     pwn: Taiwan
     qu: Chunwa Republika
     rmy: Taiwan
@@ -268,7 +268,7 @@ dv_has_:
     so: Taywan
     sq: Republika e Kinës
     sr: Република Кина
-    sr-ec: Република Кина
+    sr_ec: Република Кина
     ss: IThayiwani
     stq: Republik China
     su: Républik Tiongkok
@@ -293,7 +293,7 @@ dv_has_:
     tr: Tayvan
     trv: Taiwan
     tt: Кытай Җөмһүрияте
-    tt-cyrl: Кытай Җөмһүрияте
+    tt_cyrl: Кытай Җөмһүрияте
     udm: Тайвань
     ug: تەيۋەن
     uk: Республіка Китай
@@ -318,14 +318,14 @@ dv_has_:
     za: Cunghvaz Minzgoz
     zea: Taiwan
     zh: 中華民國
-    zh-cn: 中华民国
-    zh-hans: 中华民国
-    zh-hant: 中華民國
-    zh-hk: 中華民國
-    zh-mo: 中華民國
+    zh_cn: 中华民国
+    zh_hans: 中华民国
+    zh_hant: 中華民國
+    zh_hk: 中華民國
+    zh_mo: 中華民國
     zh-my: 中华民国
-    zh-sg: 中华民国
-    zh-tw: 中華民國
+    zh_sg: 中华民国
+    zh_tw: 中華民國
     zu: i-Taiwan
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Taiwan

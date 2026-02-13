@@ -109,7 +109,7 @@ dv_has_:
     az: Kalvinizm
     ba: кальвинизм
     be: кальвінізм
-    be-tarask: кальвінізм
+    be_tarask: кальвінізм
     bg: Калвинизъм
     bn: সংস্কারকৃত খ্রিস্টধর্ম
     br: Kalvinouriezh
@@ -120,12 +120,12 @@ dv_has_:
     cy: Calfiniaeth
     da: calvinisme
     de: Calvinismus
-    de-ch: Calvinismus
+    de_ch: Calvinismus
     diq: Kalvinizm
     el: Καλβινισμός
     en: Reformed Christianity
-    en-ca: Calvinism
-    en-gb: Calvinism
+    en_ca: Calvinism
+    en_gb: Calvinism
     eo: kalvinismo
     es: calvinismo
     et: kalvinism
@@ -152,11 +152,11 @@ dv_has_:
     ja: カルヴァン主義
     ka: კალვინიზმი
     kk: Кальвинизм
-    kk-arab: كالۆىينىيزم
+    kk_arab: كالۆىينىيزم
     kk-cn: كالۆىينىيزم
-    kk-cyrl: Кальвинизм
+    kk_cyrl: Кальвинизм
     kk-kz: Кальвинизм
-    kk-latn: Kalʹvïnïzm
+    kk_latn: Kalʹvïnïzm
     kk-tr: Kalʹvïnïzm
     ko: 칼뱅주의
     ku: Kalvînîtî
@@ -182,7 +182,7 @@ dv_has_:
     pl: kalwinizm
     pnb: کالوینیت
     pt: calvinismo
-    pt-br: Calvinismo
+    pt_br: Calvinismo
     ro: calvinism
     ru: кальвинизм
     rue: Калвинизм
@@ -195,8 +195,8 @@ dv_has_:
     sms: kalvinismm
     sq: Kalvinizmi
     sr: калвинизам
-    sr-ec: Калвинизам
-    sr-el: Kalvinizam
+    sr_ec: Калвинизам
+    sr_el: Kalvinizam
     sv: reformert kristendom
     sw: Wakalvini
     ta: கால்வினிசம்
@@ -212,12 +212,12 @@ dv_has_:
     yue: 加爾文主義
     zea: Calvinisme
     zh: 加爾文主義
-    zh-cn: 加尔文主义
-    zh-hans: 加尔文主义
-    zh-hant: 喀爾文主義
-    zh-hk: 喀爾文主義
-    zh-sg: 加尔文主义
-    zh-tw: 喀爾文主義
+    zh_cn: 加尔文主义
+    zh_hans: 加尔文主义
+    zh_hant: 喀爾文主義
+    zh_hk: 喀爾文主義
+    zh_sg: 加尔文主义
+    zh_tw: 喀爾文主義
 ---
 # [[Calvinism]]  
 

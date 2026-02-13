@@ -113,7 +113,7 @@ dv_has_:
     ast: John Cleese
     azb: جان کلیز
     be: Джон Кліз
-    be-tarask: Джон Кліз
+    be_tarask: Джон Кліз
     bg: Джон Клийз
     bs: John Cleese
     ca: John Cleese
@@ -164,7 +164,7 @@ dv_has_:
     pl: John Cleese
     ps: جان کلیز
     pt: John Cleese
-    pt-br: John Cleese
+    pt_br: John Cleese
     ro: John Cleese
     ru: Джон Клиз
     sco: John Cleese
@@ -188,10 +188,10 @@ dv_has_:
     xmf: ჯონ კლიზი
     yue: 尊·基利斯
     zh: 约翰·克里斯
-    zh-cn: 约翰·克里斯
-    zh-hans: 约翰·克里斯
-    zh-hant: 約翰·克里斯
-    zh-hk: 尊·基利斯
+    zh_cn: 约翰·克里斯
+    zh_hans: 约翰·克里斯
+    zh_hant: 約翰·克里斯
+    zh_hk: 尊·基利斯
 ---
 # [[Cleese,John]] 
 

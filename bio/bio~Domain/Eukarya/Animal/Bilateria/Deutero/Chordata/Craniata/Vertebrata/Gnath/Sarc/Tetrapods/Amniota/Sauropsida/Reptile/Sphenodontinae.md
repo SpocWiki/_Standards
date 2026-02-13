@@ -34,7 +34,7 @@ dv_has_:
     oc: Sphenodontinae
     pl: Sphenodontinae
     pt: Sphenodontinae
-    pt-br: Sphenodontinae
+    pt_br: Sphenodontinae
     ro: Sphenodontinae
     ru: Sphenodontinae
     sq: Sphenodontinae

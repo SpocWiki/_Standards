@@ -158,7 +158,7 @@ dv_has_:
     az: Qreqor Yohan Mendel
     azb: قرقور مندل
     be: Грэгар Іаган Мендэль
-    be-tarask: Грэгар Мэндэль
+    be_tarask: Грэгар Мэндэль
     bg: Грегор Мендел
     bn: গ্রেগর ইয়োহান মেন্ডেল
     br: Gregor Mendel
@@ -173,8 +173,8 @@ dv_has_:
     de: Gregor Mendel
     el: Γκρέγκορ Μέντελ
     en: Gregor Mendel
-    en-ca: Gregor Mendel
-    en-gb: Gregor Mendel
+    en_ca: Gregor Mendel
+    en_gb: Gregor Mendel
     eo: Johann Gregor Mendel
     es: Gregor Mendel
     et: Gregor Mendel
@@ -232,7 +232,7 @@ dv_has_:
     pnb: گریگر مینڈل
     ps: ګرېګور منډېل
     pt: Gregor Mendel
-    pt-br: Gregor Mendel
+    pt_br: Gregor Mendel
     qu: Gregor Mendel
     ro: Gregor Mendel
     ru: Грегор Иоганн Мендель

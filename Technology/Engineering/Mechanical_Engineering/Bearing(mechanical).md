@@ -94,7 +94,7 @@ dv_has_:
     az: yastıq
     bar: Loga
     be: падшыпнік
-    be-tarask: падшыпнік
+    be_tarask: падшыпнік
     bg: лагер
     bs: ležaj
     ca: coixinet
@@ -104,7 +104,7 @@ dv_has_:
     de: Lager
     el: Ρουλεμάν
     en: bearing
-    en-gb: bearing
+    en_gb: bearing
     en-us: bearing
     eo: lagro
     es: cojinete
@@ -142,14 +142,14 @@ dv_has_:
     pl: łożysko
     pms: Cussinet (mecànica)
     pt: rolamento
-    pt-br: rolamento
+    pt_br: rolamento
     ro: cuzinet
     ru: подшипник
     sh: ležaj
     sk: ložisko
     sl: ležaj
     sr: лежај
-    sr-ec: лежај
+    sr_ec: лежај
     sv: lager
     te: బేరింగ్
     th: ตลับลูกปืน
@@ -162,8 +162,8 @@ dv_has_:
     wuu: 轴承
     yue: 啤令
     zh: 轴承
-    zh-hans: 轴承
-    zh-hant: 軸承
+    zh_hans: 轴承
+    zh_hant: 軸承
 ---
 # [[Bearing(mechanical)]] 
 

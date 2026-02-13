@@ -66,7 +66,7 @@ dv_has_:
     oc: Marc Forster
     pl: Marc Forster
     pt: Marc Forster
-    pt-br: Marc Forster
+    pt_br: Marc Forster
     rm: Marc Forster
     ru: Марк Форстер
     sl: Marc Forster
@@ -79,7 +79,7 @@ dv_has_:
     ur: مارک فورسٹر
     yue: 麥科士打
     zh: 馬克·福斯特
-    zh-hk: 馬克·科士打
+    zh_hk: 馬克·科士打
 ---
 ## #has_/text_of_/abstract 
 

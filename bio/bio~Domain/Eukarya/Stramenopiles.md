@@ -78,8 +78,8 @@ dv_has_:
     sl: rumenkaste alge
     sq: Stramenopiles
     sr: Heterokonta
-    sr-ec: Heterokonta
-    sr-el: Heterokonta
+    sr_ec: Heterokonta
+    sr_el: Heterokonta
     sv: Stramenopiler
     tl: Heterokont
     tr: Stramenopile
@@ -87,12 +87,12 @@ dv_has_:
     vi: Heterokont
     war: Stramenopiles
     zh: 不等鞭毛總門
-    zh-cn: 不等鞭毛总门
-    zh-hans: 不等鞭毛类
-    zh-hant: 不等鞭毛類
-    zh-hk: 不等鞭毛類
-    zh-sg: 不等鞭毛类
-    zh-tw: 不等鞭毛類
+    zh_cn: 不等鞭毛总门
+    zh_hans: 不等鞭毛类
+    zh_hant: 不等鞭毛類
+    zh_hk: 不等鞭毛類
+    zh_sg: 不等鞭毛类
+    zh_tw: 不等鞭毛類
 ---
 # [[Stramenopiles]] 
 

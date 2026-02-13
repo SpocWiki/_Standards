@@ -13,8 +13,8 @@ dv_has_:
     ca: Methanobacteriota
     de: Methanobacteriota
     en: Methanobacteriota
-    en-ca: Methanobacteriota
-    en-gb: Methanobacteriota
+    en_ca: Methanobacteriota
+    en_gb: Methanobacteriota
     eo: Methanobacteriota
     es: Methanobacteriota
     eu: Methanobacteriota
@@ -35,7 +35,7 @@ dv_has_:
     oc: Methanobacteriota
     pl: Methanobacteriota
     pt: Methanobacteriota
-    pt-br: Methanobacteriota
+    pt_br: Methanobacteriota
     ru: Methanobacteriota
     vo: Methanobacteriota
 ---

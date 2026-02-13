@@ -299,8 +299,8 @@ water_footprint:
 Wolfram_Language_entity_code: Entity["FoodType", "Apple"]
 dv_has_:
   name_:
-    aeb-arab: كعبة تفّاح
-    aeb-latn: toffè7
+    aeb_arab: كعبة تفّاح
+    aeb_latn: toffè7
     af: appel
     am: ፖም
     an: mazana
@@ -322,7 +322,7 @@ dv_has_:
     bcl: mansana
     bdr: Ipol
     be: яблык
-    be-tarask: яблык
+    be_tarask: яблык
     bg: ябълка
     bho: सेव
     bi: apol
@@ -348,7 +348,7 @@ dv_has_:
     da: æble
     de: Apfel
     de-at: Apfel
-    de-ch: Apfel
+    de_ch: Apfel
     dga: appol
     diq: saye
     dsb: jabłuko
@@ -356,8 +356,8 @@ dv_has_:
     el: μήλο
     eml: pàm
     en: apple
-    en-ca: apple
-    en-gb: apple
+    en_ca: apple
+    en_gb: apple
     eo: pomo
     es: manzana
     et: õun
@@ -424,7 +424,7 @@ dv_has_:
     ks: ژوٗنٛٹھ
     ksh: Appel
     ku: sêv
-    ku-latn: sêv
+    ku_latn: sêv
     kw: aval
     ky: алма
     la: malum
@@ -442,7 +442,7 @@ dv_has_:
     lv: ābols
     lzh: 柰
     mai: सेब
-    map-bms: apel
+    map_bms: apel
     mdf: мар
     mg: paoma
     mhr: олма
@@ -454,7 +454,7 @@ dv_has_:
     mni: ꯁꯦꯝ
     mr: सफरचंद
     ms: epal
-    ms-arab: ايڤل
+    ms_arab: ايڤل
     mt: tuffieħa
     mwl: maçana
     my: ပန်းသီး
@@ -465,7 +465,7 @@ dv_has_:
     nap: milo
     nb: eple
     nds: Appel
-    nds-nl: appel
+    nds_nl: appel
     ne: स्याउ
     new: स्याउ
     nl: appel
@@ -489,7 +489,7 @@ dv_has_:
     pnb: سیب
     ps: مڼه
     pt: maçã
-    pt-br: maçã
+    pt_br: maçã
     qu: mansana
     rmy: phabaj
     ro: măr
@@ -536,8 +536,8 @@ dv_has_:
     tn: apole
     tr: elma
     tt: алма
-    tt-cyrl: алма
-    tt-latn: alma
+    tt_cyrl: алма
+    tt_latn: alma
     tyv: яблоко
     tzm: ⵜⴰⴷⴼⴼⵓⵢⵜ
     udm: улмо
@@ -564,13 +564,13 @@ dv_has_:
     za: makbinzgoj
     zh: 苹果
     zh-cn: 苹果
-    zh-hans: 苹果
-    zh-hant: 蘋果
-    zh-hk: 蘋果
-    zh-mo: 蘋果
+    zh_hans: 苹果
+    zh_hant: 蘋果
+    zh_hk: 蘋果
+    zh_mo: 蘋果
     zh-my: 苹果
-    zh-sg: 苹果
-    zh-tw: 蘋果
+    zh_sg: 苹果
+    zh_tw: 蘋果
     zu: ihhabhula
 ---
 # [[Apple]] 🍎 

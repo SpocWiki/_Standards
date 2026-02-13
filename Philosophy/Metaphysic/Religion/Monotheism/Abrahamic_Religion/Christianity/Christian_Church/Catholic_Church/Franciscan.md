@@ -77,7 +77,7 @@ dv_has_:
     ast: Orde Franciscana
     azb: فرانسيسکنلر
     be: францысканцы
-    be-tarask: францішкане
+    be_tarask: францішкане
     bg: Францискански орден
     br: Urzh ar Vreudeur minor
     bs: Franjevci
@@ -86,11 +86,11 @@ dv_has_:
     cy: Urdd Sant Ffransis
     da: Franciskanerordenen
     de: Franziskanische Orden
-    de-ch: Franziskanische Orden
+    de_ch: Franziskanische Orden
     el: τάγμα των Φραγκισκανών
     en: Franciscans
-    en-ca: Franciscan
-    en-gb: Franciscan
+    en_ca: Franciscan
+    en_gb: Franciscan
     eo: Franciskanoj
     es: Orden Franciscana
     et: Frantsisklased
@@ -123,7 +123,7 @@ dv_has_:
     oc: Òrdre franciscan
     pl: franciszkanie
     pt: Ordem dos Frades Menores
-    pt-br: Ordem dos Frades Menores
+    pt_br: Ordem dos Frades Menores
     ro: Ordinele franciscane
     ru: Францисканцы
     sh: Franjevci
@@ -131,8 +131,8 @@ dv_has_:
     sl: frančiškani
     sq: Françeskanët
     sr: Фрањевци
-    sr-ec: Фрањевци
-    sr-el: Franjevci
+    sr_ec: Фрањевци
+    sr_el: Franjevci
     su: Fransiskan
     sv: Franciskanorden
     sw: Wafransisko
@@ -145,12 +145,12 @@ dv_has_:
     vi: Dòng Phan Sinh
     wuu: 方济各会
     zh: 方濟各會
-    zh-cn: 方济各会
-    zh-hans: 方济各会
-    zh-hant: 方濟各會
-    zh-hk: 方濟各會
-    zh-sg: 方济各会
-    zh-tw: 方濟各會
+    zh_cn: 方济各会
+    zh_hans: 方济各会
+    zh_hant: 方濟各會
+    zh_hk: 方濟各會
+    zh_sg: 方济各会
+    zh_tw: 方濟各會
 ---
 # [[Franciscan]] 
 

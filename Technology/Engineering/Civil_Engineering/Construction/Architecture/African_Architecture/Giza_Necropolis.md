@@ -112,7 +112,7 @@ dv_has_:
     ast: Necrópolis de Guiza
     ba: Гиза некрополе
     be: Некропаль Гізы
-    be-tarask: Нэкропаль у Гізе
+    be_tarask: Нэкропаль у Гізе
     bg: Некропол в Гиза
     bn: গিজা পিরামিড চত্বর
     br: Nekropol Gizah
@@ -123,12 +123,12 @@ dv_has_:
     cy: Necropolis Giza
     da: Giza Nekropolis
     de: Nekropole von Gizeh
-    de-ch: Nekropole von Gizeh
+    de_ch: Nekropole von Gizeh
     dty: गिजाको पिरामिड परिसर
     el: Νεκρόπολη της Γκίζα
     en: Giza Necropolis
-    en-ca: Giza Necropolis
-    en-gb: Giza Necropolis
+    en_ca: Giza Necropolis
+    en_gb: Giza Necropolis
     eo: Nekropolo de Gizo
     es: Necrópolis de Guiza
     eu: Gizako nekropolia
@@ -171,7 +171,7 @@ dv_has_:
     pap: Nekropolis di Giza
     pl: Nekropolia w Gizie
     pt: Necrópole de Gizé
-    pt-br: Necrópole de Gizé
+    pt_br: Necrópole de Gizé
     ro: Necropola Giza
     ru: Некрополь Гизы
     sco: Giza pyramid complex

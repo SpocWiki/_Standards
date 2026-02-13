@@ -110,7 +110,7 @@ dv_has_:
     ba: Нострадамус
     bcl: Nostradamus
     be: Настрадамус
-    be-tarask: Настрадамус
+    be_tarask: Настрадамус
     bg: Нострадамус
     bn: নসট্রাদামুস
     br: Nostradamus
@@ -121,12 +121,12 @@ dv_has_:
     cy: Nostradamus
     da: Nostradamus
     de: Nostradamus
-    de-ch: Nostradamus
+    de_ch: Nostradamus
     diq: Nostradamus
     el: Νοστράδαμος
     en: Nostradamus
-    en-ca: Nostradamus
-    en-gb: Nostradamus
+    en_ca: Nostradamus
+    en_gb: Nostradamus
     eo: Nostradamus
     es: Nostradamus
     et: Nostradamus
@@ -169,7 +169,7 @@ dv_has_:
     my: နော်စတာဒါမတ်စ်
     mzn: نوسترآداموس
     nb: Nostradamus
-    nds-nl: Michel de Nostredame
+    nds_nl: Michel de Nostredame
     ne: नास्त्रेदमस
     nl: Nostradamus
     nn: Nostradamus
@@ -182,7 +182,7 @@ dv_has_:
     pms: Michel de Nostredame
     pnb: نوسٹرا ڈیمس
     pt: Nostradamus
-    pt-br: Nostradamus
+    pt_br: Nostradamus
     ro: Nostradamus
     ru: Нострадамус
     rue: Нострадамус

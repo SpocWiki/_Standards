@@ -59,7 +59,7 @@ dv_has_:
     ar: حالة إنباتية مستديمة
     ast: Estáu vexetativu
     be: Вегетатыўны стан
-    be-tarask: вэгетатыўны стан
+    be_tarask: вэгетатыўны стан
     ca: estat vegetatiu
     cs: apalický syndrom
     de: Apallisches Syndrom

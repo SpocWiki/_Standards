@@ -66,7 +66,7 @@ dv_has_:
     azb: توخارلار
     ba: Тоһарҙар
     be: Тахары
-    be-tarask: Тахары
+    be_tarask: Тахары
     bg: Тохари
     bn: টোকারীয় জাতি
     ca: tocaris
@@ -92,11 +92,11 @@ dv_has_:
     ja: トハラ人
     ka: ტოხარები
     kk: Тохалар
-    kk-arab: توحالار
+    kk_arab: توحالار
     kk-cn: توحالار
-    kk-cyrl: Тохалар
+    kk_cyrl: Тохалар
     kk-kz: Тохалар
-    kk-latn: Toxalar
+    kk_latn: Toxalar
     kk-tr: Toxalar
     ko: 토하리인
     ky: Тохарлар
@@ -125,12 +125,12 @@ dv_has_:
     vi: Người Tochari
     yue: 吐火羅人
     zh: 吐火罗人
-    zh-cn: 吐火罗
-    zh-hans: 吐火罗
-    zh-hant: 吐火羅
-    zh-hk: 吐火羅
-    zh-sg: 吐火罗
-    zh-tw: 吐火羅
+    zh_cn: 吐火罗
+    zh_hans: 吐火罗
+    zh_hant: 吐火羅
+    zh_hk: 吐火羅
+    zh_sg: 吐火罗
+    zh_tw: 吐火羅
 ---
 # [[Tocharians]] 
 

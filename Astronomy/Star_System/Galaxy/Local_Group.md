@@ -183,7 +183,7 @@ dv_has_:
     ar: المجموعة المحلية
     ast: Grupu Llocal
     be: Мясцовая група
-    be-tarask: Мясцовая група
+    be_tarask: Мясцовая група
     bg: Местна група
     bn: স্থানীয় গ্রুপ
     br: Strollad Lec'hel
@@ -195,8 +195,8 @@ dv_has_:
     de: Lokale Gruppe
     el: Τοπική ομάδα γαλαξιών
     en: Local Group
-    en-ca: Local Group
-    en-gb: Local Group
+    en_ca: Local Group
+    en_gb: Local Group
     eo: Loka Grupo
     es: Grupo Local
     et: Kohalik Galaktikarühm
@@ -240,7 +240,7 @@ dv_has_:
     pms: Partìa local
     pnb: مقامی گروہ
     pt: Grupo Local
-    pt-br: Grupo Local
+    pt_br: Grupo Local
     ro: Grupul Local
     ru: Местная группа
     scn: Gruppu Lucali
@@ -250,8 +250,8 @@ dv_has_:
     sl: Krajevna skupina
     sq: Galaktikat Lokale
     sr: локална група галаксија
-    sr-ec: локална група галаксија
-    sr-el: lokalna grupa galaksija
+    sr_ec: локална група галаксија
+    sr_el: lokalna grupa galaksija
     sv: Lokala galaxhopen
     ta: உட் குழு
     th: กลุ่มท้องถิ่น
@@ -265,9 +265,9 @@ dv_has_:
     wuu: 本星系群
     yue: 本星系群
     zh: 本星系群
-    zh-cn: 本星系群
-    zh-hans: 本星系群
-    zh-hant: 本星系群
+    zh_cn: 本星系群
+    zh_hans: 本星系群
+    zh_hant: 本星系群
 ---
 # [[Local_Group]] 
 

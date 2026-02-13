@@ -197,7 +197,7 @@ dv_has_:
     bar: Energie
     bcl: enerhiya
     be: энергія
-    be-tarask: энэргія
+    be_tarask: энэргія
     bg: енергия
     bho: ऊर्जा
     bn: শক্তি
@@ -216,8 +216,8 @@ dv_has_:
     dtp: tinori
     el: ενέργεια
     en: energy
-    en-ca: energy
-    en-gb: energy
+    en_ca: energy
+    en_gb: energy
     eo: energio
     es: energía
     et: energia
@@ -293,7 +293,7 @@ dv_has_:
     mn: энерги
     mr: ऊर्जा
     ms: tenaga
-    ms-arab: تناݢ
+    ms_arab: تناݢ
     mt: enerġija
     mwl: einergie
     my: စွမ်းအင်
@@ -317,7 +317,7 @@ dv_has_:
     pnb: جان
     ps: انرژي
     pt: energia
-    pt-br: energia
+    pt_br: energia
     qu: micha
     rm: energia
     ro: energie
@@ -376,9 +376,9 @@ dv_has_:
     yue: 能量
     zgh: ⵜⴰⵥⴹⴰⵕⵜ
     zh: 能量
-    zh-cn: 能量
-    zh-hans: 能量
-    zh-hant: 能量
+    zh_cn: 能量
+    zh_hans: 能量
+    zh_hant: 能量
     zu: amandla
 ---
 # [[Energy]] 

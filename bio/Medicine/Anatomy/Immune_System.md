@@ -135,7 +135,7 @@ dv_has_:
     azb: باغیشیقلیق سیستمی
     ba: иммунлыҡ системаһы
     be: імунная сістэма
-    be-tarask: імунная сыстэма
+    be_tarask: імунная сыстэма
     bg: имунна система
     bho: इम्यून सिस्टम
     bjn: sistim imun
@@ -151,8 +151,8 @@ dv_has_:
     de: Immunsystem
     el: ανοσοποιητικό σύστημα
     en: immune system
-    en-ca: immune system
-    en-gb: immune system
+    en_ca: immune system
+    en_gb: immune system
     eo: imuna sistemo
     es: sistema inmunitario
     et: immuunsüsteem
@@ -216,7 +216,7 @@ dv_has_:
     pnb: بچاؤ پربندھ
     ps: مدافعتي نظام
     pt: sistema imunitário
-    pt-br: sistema imunitário
+    pt_br: sistema imunitário
     qu: unquy hark'ay
     ro: sistemul imunitar
     ru: иммунная система
@@ -231,7 +231,7 @@ dv_has_:
     sms: immuunriâžldõk
     sq: sistemi i imunitetit
     sr: имунски систем
-    sr-ec: имунски систем
+    sr_ec: имунски систем
     su: imunisasi
     sv: immunförsvar
     sw: mfumo wa kingamaradhi
@@ -253,9 +253,9 @@ dv_has_:
     yi: אימיון סיסטעם
     yue: 免疫系統
     zh: 免疫系统
-    zh-cn: 免疫系统
-    zh-hans: 免疫系统
-    zh-hant: 免疫系统
+    zh_cn: 免疫系统
+    zh_hans: 免疫系统
+    zh_hant: 免疫系统
 ---
 # [[Immune_System]] 
 

@@ -127,7 +127,7 @@ dv_has_:
     az: Termonüvə reaksiyası
     azb: فوزیون
     be: Тэрмаядзерная рэакцыя
-    be-tarask: тэрмаядзерная рэакцыя
+    be_tarask: тэрмаядзерная рэакцыя
     bg: термоядрен синтез
     blk: နျူးကလီးယား ခြွဉ်းဗူႏဝင်ꩻ
     bn: কেন্দ্রীণ সংযোজন
@@ -222,8 +222,8 @@ dv_has_:
     wuu: 核聚变
     yue: 原子核融合
     zh: 核聚变
-    zh-hans: 核聚变
-    zh-tw: 核融合
+    zh_hans: 核聚变
+    zh_tw: 核融合
     zu: Ukuxubana kwenuzi
 ---
 # [[Nuclear_Fusion]] 

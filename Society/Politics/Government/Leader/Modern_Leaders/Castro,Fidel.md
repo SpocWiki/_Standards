@@ -203,7 +203,7 @@ dv_has_:
     bar: Fidel Castro
     bcl: Fidel Castro
     be: Фідэль Кастра
-    be-tarask: Фідэль Кастра
+    be_tarask: Фідэль Кастра
     bg: Фидел Кастро
     bn: ফিদেল কাস্ত্রো
     br: Fidel Castro
@@ -221,8 +221,8 @@ dv_has_:
     dv: ފިޑެލް ކާސްޓްރޯ
     el: Φιντέλ Κάστρο
     en: Fidel Castro
-    en-ca: Fidel Castro
-    en-gb: Fidel Castro
+    en_ca: Fidel Castro
+    en_gb: Fidel Castro
     eo: Fidel Castro
     es: Fidel Castro
     et: Fidel Castro
@@ -302,7 +302,7 @@ dv_has_:
     pnb: فڈل کاسٹرو
     ps: فیډل کاسټرو
     pt: Fidel Castro
-    pt-br: Fidel Castro
+    pt_br: Fidel Castro
     qu: Fidel Castro
     ro: Fidel Castro
     ru: Фидель Кастро
@@ -319,8 +319,8 @@ dv_has_:
     so: Fidel Castaro
     sq: Fidel Castro
     sr: Фидел Кастро
-    sr-ec: Фидел Кастро
-    sr-el: Fidel Kastro
+    sr_ec: Фидел Кастро
+    sr_el: Fidel Kastro
     stq: Fidel Castro
     su: Fidel Castro
     sv: Fidel Castro
@@ -350,9 +350,9 @@ dv_has_:
     yue: 卡斯特羅
     zea: Fidel Castro
     zh: 菲德尔·卡斯特罗
-    zh-hant: 菲德爾·卡斯特羅
-    zh-hk: 菲德爾·卡斯特羅
-    zh-tw: 菲德爾·卡斯楚
+    zh_hant: 菲德爾·卡斯特羅
+    zh_hk: 菲德爾·卡斯特羅
+    zh_tw: 菲德爾·卡斯楚
 ---
 # [[Castro,Fidel]] 
 

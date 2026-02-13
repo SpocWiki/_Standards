@@ -64,7 +64,7 @@ dv_has_:
     ace: Oman
     acm: سلطنة عمان
     ady: Оман
-    aeb-arab: سلطنة عمان
+    aeb_arab: سلطنة عمان
     af: Oman
     am: ኦማን
     ami: Oman
@@ -87,7 +87,7 @@ dv_has_:
     bar: Oman
     bcl: Oman
     be: Аман
-    be-tarask: Аман
+    be_tarask: Аман
     bew: Oman
     bg: Оман
     bho: ओमान
@@ -101,14 +101,14 @@ dv_has_:
     bug: Oman
     bxr: Оман
     ca: Oman
-    cbk-zam: Oman
+    cbk_zam: Oman
     cdo: Oman
     ce: Оман
     ceb: Oman
     ckb: عومان
     co: Oman
     crh: Oman
-    crh-latn: Oman
+    crh_latn: Oman
     crh-ro: Uman
     cs: Omán
     csb: Òman
@@ -118,7 +118,7 @@ dv_has_:
     dag: Oman
     de: Oman
     de-at: Oman
-    de-ch: Oman
+    de_ch: Oman
     diq: Uman
     dsb: Oman
     dtp: Oman
@@ -126,8 +126,8 @@ dv_has_:
     dv: ޢުމާން
     el: Ομάν
     en: Oman
-    en-ca: Oman
-    en-gb: Oman
+    en_ca: Oman
+    en_gb: Oman
     en-us: Oman
     eo: Omano
     es: Omán
@@ -151,7 +151,7 @@ dv_has_:
     gn: Omã
     gom: ओमान
     gom-deva: ओमान
-    gom-latn: Oman
+    gom_latn: Oman
     gpe: Oman
     gsw: Oman
     gu: ઓમાન
@@ -255,7 +255,7 @@ dv_has_:
     pnb: عمان
     ps: عمان
     pt: Omã
-    pt-br: Omã
+    pt_br: Omã
     qu: Uman
     rmy: Oman
     ro: Oman
@@ -284,8 +284,8 @@ dv_has_:
     so: Cumaan
     sq: Omani
     sr: Оман
-    sr-ec: Оман
-    sr-el: Oman
+    sr_ec: Оман
+    sr_el: Oman
     ss: IMani
     su: Oman
     sv: Oman
@@ -333,12 +333,12 @@ dv_has_:
     zea: Omaan
     zgh: ⵄⵓⵎⴰⵏ
     zh: 阿曼
-    zh-cn: 阿曼
-    zh-hans: 阿曼
-    zh-hant: 阿曼
-    zh-hk: 阿曼
+    zh_cn: 阿曼
+    zh_hans: 阿曼
+    zh_hant: 阿曼
+    zh_hk: 阿曼
     zh-my: 阿曼
-    zh-tw: 阿曼
+    zh_tw: 阿曼
     zu: i-Oman
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Oman

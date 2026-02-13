@@ -52,7 +52,7 @@ dv_has_:
     ast: Zingiberales
     az: Zəncəfilçiçəklilər
     be: Імбіракветныя
-    be-tarask: Імбіракветныя
+    be_tarask: Імбіракветныя
     bg: джинджифилоцветни
     bs: Zingiberales
     ca: Zingiberals
@@ -61,10 +61,10 @@ dv_has_:
     cs: zázvorníkotvaré
     da: Ingefær-ordenen
     de: Ingwerartige
-    de-ch: Ingwerartige
+    de_ch: Ingwerartige
     en: Zingiberales
-    en-ca: Zingiberales
-    en-gb: Zingiberales
+    en_ca: Zingiberales
+    en_gb: Zingiberales
     eo: Zingibraloj
     es: Zingiberales
     et: Ingverilaadsed
@@ -90,8 +90,8 @@ dv_has_:
     ko: 생강목
     koi: Имбирь чукӧр
     ku: Koma zencefîlan
-    ku-arab: کۆما زەنجەفیلان
-    ku-latn: Koma zencefîlan
+    ku_arab: کۆما زەنجەفیلان
+    ku_latn: Koma zencefîlan
     kv: Имбирь чукӧр
     la: Zingiberales
     lt: Imbieriečiai
@@ -107,7 +107,7 @@ dv_has_:
     pl: Imbirowce
     pnb: ادرکورگے
     pt: Zingiberales
-    pt-br: Zingiberales
+    pt_br: Zingiberales
     ro: Zingiberales
     ru: Имбирецветные
     sco: Zingiberales
@@ -117,8 +117,8 @@ dv_has_:
     sl: ingverjevci
     sq: Zingiberales
     sr: Zingiberales
-    sr-ec: Zingiberales
-    sr-el: Zingiberales
+    sr_ec: Zingiberales
+    sr_el: Zingiberales
     su: Zingiberales
     sv: Ingefärsordningen
     te: జింజిబరేలిస్
@@ -131,12 +131,12 @@ dv_has_:
     wuu: 姜目
     yue: 薑目
     zh: 姜目
-    zh-cn: 姜目
-    zh-hans: 姜目
-    zh-hant: 薑目
-    zh-hk: 薑目
-    zh-sg: 姜目
-    zh-tw: 薑目
+    zh_cn: 姜目
+    zh_hans: 姜目
+    zh_hant: 薑目
+    zh_hk: 薑目
+    zh_sg: 姜目
+    zh_tw: 薑目
 ---
 # [[Zingiberales]]
 

@@ -89,7 +89,7 @@ dv_has_:
     ast: Reacción de sustitución
     az: Əvəzetmə reaksiyası
     ba: Алмаштырыу реакциялары
-    be-tarask: рэакцыя замяшчэньня
+    be_tarask: рэакцыя замяшчэньня
     bn: প্রতিস্থাপন বিক্রিয়া
     ca: reacció de substitució
     ckb: کاردانەوەی گۆڕینەوە
@@ -126,8 +126,8 @@ dv_has_:
     sl: substitucijska reakcija
     sq: Reaksioni i zëvendësimit
     sr: Supstitucija
-    sr-ec: Супституција
-    sr-el: Supstitucija
+    sr_ec: Супституција
+    sr_el: Supstitucija
     sv: Substitutionsreaktion
     ta: பதிலீட்டு வினை
     th: ปฏิกิริยาการแทนที่
@@ -138,9 +138,9 @@ dv_has_:
     vi: Phản ứng thế
     yue: 取代反應
     zh: 取代反应
-    zh-hans: 取代反应
-    zh-hant: 取代反應
-    zh-hk: 取代反應
+    zh_hans: 取代反应
+    zh_hant: 取代反應
+    zh_hk: 取代反應
 ---
 # [[Substitution_Reaction]] 
 

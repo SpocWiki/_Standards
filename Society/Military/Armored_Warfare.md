@@ -74,7 +74,7 @@ dv_has_:
     az: tank qoşunları
     ba: танк ғәскәрҙәре
     be: танкавыя войскі
-    be-tarask: танкавае войска
+    be_tarask: танкавае войска
     bg: Танкови войски
     br: brezel hobregonet
     ca: guerra mecanitzada
@@ -84,7 +84,7 @@ dv_has_:
     de: Panzertruppe
     el: τεθωρακισμένα
     en: armored warfare
-    en-gb: armoured warfare
+    en_gb: armoured warfare
     es: guerra acorazada
     et: Soomusvägi
     eu: Gerra korazatu
@@ -99,9 +99,9 @@ dv_has_:
     it: guerra corazzata
     ja: 機甲戦
     kk: Сауытты танк әскерлері
-    kk-arab: ساۋىتتى تانك اسكەرلەرى
-    kk-cyrl: Сауытты танк әскерлері
-    kk-latn: Sawıttı tank äskerleri
+    kk_arab: ساۋىتتى تانك اسكەرلەرى
+    kk_cyrl: Сауытты танк әскерлері
+    kk_latn: Sawıttı tank äskerleri
     ko: 기갑전
     ky: танк аскерлери
     mk: оклопно војување
@@ -118,16 +118,16 @@ dv_has_:
     sl: oklepno vojskovanje
     sq: Lufta e blinduar
     sr: oклопни рат
-    sr-ec: oклопни рат
-    sr-el: oklopni rat
+    sr_ec: oклопни рат
+    sr_el: oklopni rat
     sv: Pansartrupper
     tr: Tank savaşı
     uk: танкові війська
     uz: Tank qoʻshinlari
     vi: Chiến tranh cơ giới
     zh: 裝甲戰
-    zh-hans: 坦克战
-    zh-hant: 坦克戰
+    zh_hans: 坦克战
+    zh_hant: 坦克戰
 ---
 # [[Armored_Warfare]] 
 

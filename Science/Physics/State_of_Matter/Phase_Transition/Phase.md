@@ -84,7 +84,7 @@ dv_has_:
     ar: طور
     as: দশা
     be: тэрмадынамічная фаза
-    be-tarask: тэрмадынамічная фаза
+    be_tarask: тэрмадынамічная фаза
     bg: Фаза
     bho: फेज
     bn: দশা
@@ -116,11 +116,11 @@ dv_has_:
     it: fase
     ja: 相
     kk: Термодинамикалық фаза
-    kk-arab: تەرمودىينامىيكالىق فازا
+    kk_arab: تەرمودىينامىيكالىق فازا
     kk-cn: تەرمودىينامىيكالىق فازا
-    kk-cyrl: Термодинамикалық фаза
+    kk_cyrl: Термодинамикалық фаза
     kk-kz: Термодинамикалық фаза
-    kk-latn: Termodïnamïkalıq faza
+    kk_latn: Termodïnamïkalıq faza
     kk-tr: Termodïnamïkalıq faza
     kn: ದ್ರವ್ಯ ಹಂತಗಳು
     ko: 상
@@ -129,7 +129,7 @@ dv_has_:
     lzh: 相
     mk: фаза
     ms: fasa
-    ms-arab: فاسا
+    ms_arab: فاسا
     nan: Siòng
     nb: fase
     nds: Phaas
@@ -147,8 +147,8 @@ dv_has_:
     sk: Fáza
     sl: faza snovi
     sr: Фаза
-    sr-ec: Фаза
-    sr-el: Faza
+    sr_ec: Фаза
+    sr_el: Faza
     sv: fas
     ta: நிலை
     th: เจลดูดน้ำ
@@ -163,12 +163,12 @@ dv_has_:
     wuu: 相
     yue: 相 (物理)
     zh: 相
-    zh-cn: 相
-    zh-hans: 相
-    zh-hant: 相
-    zh-hk: 相
-    zh-sg: 相
-    zh-tw: 相
+    zh_cn: 相
+    zh_hans: 相
+    zh_hant: 相
+    zh_hk: 相
+    zh_sg: 相
+    zh_tw: 相
 ---
 # [[Phase]] 
 

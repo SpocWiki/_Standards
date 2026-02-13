@@ -98,7 +98,7 @@ dv_has_:
     az: sikloplar
     ba: циклоптар
     bcl: Cyclopes
-    be-tarask: цыклёп
+    be_tarask: цыклёп
     bg: циклоп
     bn: কাইক্লোপ্স
     br: kiklop
@@ -155,13 +155,13 @@ dv_has_:
     sl: kiklop
     sq: ciklopë
     sr: киклоп
-    sr-ec: киклопи
-    sr-el: kiklopi
+    sr_ec: киклопи
+    sr_el: kiklopi
     sv: cykloper
     sw: siklopsi
     ta: சைக்கிளோப்சு
     tg: сиклопҳо
-    tg-latn: siklopho
+    tg_latn: siklopho
     th: ไซคลอปส์
     tr: kiklop
     uk: кіклопи
@@ -172,12 +172,12 @@ dv_has_:
     wuu: 独眼巨人
     yue: 獨眼巨人
     zh: 独眼巨人
-    zh-cn: 独眼巨人
-    zh-hans: 独眼巨人
-    zh-hant: 獨眼巨人
-    zh-hk: 獨眼巨人
-    zh-sg: 独眼巨人
-    zh-tw: 獨眼巨人
+    zh_cn: 独眼巨人
+    zh_hans: 独眼巨人
+    zh_hant: 獨眼巨人
+    zh_hk: 獨眼巨人
+    zh_sg: 独眼巨人
+    zh_tw: 獨眼巨人
     zu: isayiklopsi
 ---
 # [[Cyclops]] 

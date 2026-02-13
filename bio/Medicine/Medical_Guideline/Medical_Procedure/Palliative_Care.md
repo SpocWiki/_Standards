@@ -88,7 +88,7 @@ dv_has_:
   name_:
     ar: رعاية ملطفة
     be: паліятыўная дапамога
-    be-tarask: паліятыўная дапамога
+    be_tarask: паліятыўная дапамога
     bg: палиативни грижи
     bn: প্রশমনমূলক সেবা
     ca: cura pal·liativa
@@ -142,10 +142,10 @@ dv_has_:
     wa: Aprestaedje medicå al moirt
     yue: 紓緩治療
     zh: 姑息疗法
-    zh-hant: 緩和療護
-    zh-hk: 紓緩治療
-    zh-sg: 慈怀疗护
-    zh-tw: 緩和療護
+    zh_hant: 緩和療護
+    zh_hk: 紓緩治療
+    zh_sg: 慈怀疗护
+    zh_tw: 緩和療護
 ---
 # [[Palliative_Care]] 
 

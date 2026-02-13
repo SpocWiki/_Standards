@@ -146,7 +146,7 @@ dv_has_:
     ban: Radium
     bcl: Radyo (elemento)
     be: Радый
-    be-tarask: Рад
+    be_tarask: Рад
     bg: радий
     bho: रेडियम
     bn: রেডিয়াম
@@ -249,7 +249,7 @@ dv_has_:
     pnb: ریڈیئم
     ps: راډيوم
     pt: rádio
-    pt-br: rádio
+    pt_br: rádio
     qu: Radyu q'illay
     ro: radiu
     ru: радий
@@ -265,7 +265,7 @@ dv_has_:
     so: Raadhiyaam
     sq: Radiumi
     sr: радијум
-    sr-ec: Радијум
+    sr_ec: Радијум
     stq: Radium
     sv: radium
     sw: Radi
@@ -290,14 +290,14 @@ dv_has_:
     yo: Radiomu
     yue: 鐳
     zh: 鐳
-    zh-cn: 镭
-    zh-hans: 镭
-    zh-hant: 鐳
-    zh-hk: 鐳
-    zh-mo: 鐳
+    zh_cn: 镭
+    zh_hans: 镭
+    zh_hant: 鐳
+    zh_hk: 鐳
+    zh_mo: 鐳
     zh-my: 镭
-    zh-sg: 镭
-    zh-tw: 鐳
+    zh_sg: 镭
+    zh_tw: 鐳
     zu: UmSebembi
   number_of_:
     period: 7

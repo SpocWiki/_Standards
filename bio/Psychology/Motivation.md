@@ -99,7 +99,7 @@ dv_has_:
     ast: Motivación
     az: Motivasiya
     be: матывацыя
-    be-tarask: матывацыя
+    be_tarask: матывацыя
     bg: мотивация
     bn: প্রেরণা
     br: Abeg
@@ -175,10 +175,10 @@ dv_has_:
     wuu: 动机
     yue: 動機
     zh: 动机
-    zh-cn: 动机
-    zh-hant: 動機
-    zh-hk: 動機
-    zh-tw: 動機
+    zh_cn: 动机
+    zh_hant: 動機
+    zh_hk: 動機
+    zh_tw: 動機
 ---
 # [[Motivation]] 
 

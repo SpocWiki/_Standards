@@ -85,7 +85,7 @@ dv_has_:
     ba: сноуборд
     bar: Snouboaden
     be: снаўбордынг
-    be-tarask: сноўбордынг
+    be_tarask: сноўбордынг
     bg: сноубординг
     bn: স্নোবোর্ডিং
     br: snowboard
@@ -96,7 +96,7 @@ dv_has_:
     de: Snowboarden
     el: χιονοσανίδα
     en: snowboarding
-    en-gb: snowboarding
+    en_gb: snowboarding
     eo: neĝtabulado
     es: snowboarding
     et: lumelauasõit
@@ -143,8 +143,8 @@ dv_has_:
     smn: muotâluávdástem
     sq: snoubordingu
     sr: сноубординг
-    sr-ec: сноубординг
-    sr-el: snoubording
+    sr_ec: сноубординг
+    sr_el: snoubording
     sv: snowboard
     tly: snoubording
     tr: snowboarding
@@ -155,12 +155,12 @@ dv_has_:
     vi: trượt ván trên tuyết
     yue: 單板滑雪
     zh: 單板滑雪
-    zh-cn: 单板滑雪
-    zh-hans: 单板滑雪
-    zh-hant: 單板滑雪
-    zh-hk: 單板滑雪
-    zh-sg: 单板滑雪
-    zh-tw: 單板滑雪
+    zh_cn: 单板滑雪
+    zh_hans: 单板滑雪
+    zh_hant: 單板滑雪
+    zh_hk: 單板滑雪
+    zh_sg: 单板滑雪
+    zh_tw: 單板滑雪
 ---
 # [[Snowboarding]] 
 

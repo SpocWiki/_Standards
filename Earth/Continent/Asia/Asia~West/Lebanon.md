@@ -65,7 +65,7 @@ dv_has_:
     ab: Ливан
     ace: Lebanon
     ady: Ливан
-    aeb-arab: لبنان
+    aeb_arab: لبنان
     af: Libanon
     am: ሊባኖስ
     ami: Lebanon
@@ -88,7 +88,7 @@ dv_has_:
     bbc: Libanon
     bcl: Lebanon
     be: Ліван
-    be-tarask: Лібан
+    be_tarask: Лібан
     bew: Lèbanon
     bg: Ливан
     bgn: لبنان
@@ -104,7 +104,7 @@ dv_has_:
     bug: ᨒᨙᨅᨊᨚ
     bxr: Ливан
     ca: Líban
-    cbk-zam: Líbano
+    cbk_zam: Líbano
     cdo: Lé-bă-nâung
     ce: Ливан
     ceb: Lebanon
@@ -112,7 +112,7 @@ dv_has_:
     ckb: لوبنان
     co: Libanu
     crh: Lübnan
-    crh-latn: Lübnan
+    crh_latn: Lübnan
     cs: Libanon
     csb: Liban
     cv: Ливан
@@ -121,7 +121,7 @@ dv_has_:
     dag: Lebanon
     de: Libanon
     de-at: Libanon
-    de-ch: Libanon
+    de_ch: Libanon
     diq: Lubnan
     dsb: Libanon
     dtp: Lubnan
@@ -130,8 +130,8 @@ dv_has_:
     dz: ལེ་བཱ་ནཱོན་
     el: Λίβανος
     en: Lebanon
-    en-ca: Lebanon
-    en-gb: Lebanon
+    en_ca: Lebanon
+    en_gb: Lebanon
     en-us: Lebanon
     eo: Libano
     es: Líbano
@@ -155,7 +155,7 @@ dv_has_:
     gn: Lívano
     gom: लेबनॉन
     gom-deva: लेबनॉन
-    gom-latn: Lebanon
+    gom_latn: Lebanon
     gor: Lebanon
     gpe: Lebanon
     grc: Λίβανος
@@ -204,7 +204,7 @@ dv_has_:
     ks: لؠبنان
     ksh: Lebannon
     ku: Libnan
-    ku-latn: Libnan
+    ku_latn: Libnan
     kv: Ливан
     kw: Lebnon
     ky: Ливан
@@ -236,7 +236,7 @@ dv_has_:
     mni: ꯂꯦꯕꯥꯅꯣꯟ
     mr: लेबेनॉन
     ms: Lubnan
-    ms-arab: لبنان
+    ms_arab: لبنان
     mt: Libanu
     mwl: Líbano
     my: လက်ဘနွန်နိုင်ငံ
@@ -271,7 +271,7 @@ dv_has_:
     pnt: Λίβανος
     ps: لېبنان
     pt: Líbano
-    pt-br: Líbano
+    pt_br: Líbano
     qu: Libanu
     rmy: Lebnaniya
     ro: Liban
@@ -299,8 +299,8 @@ dv_has_:
     so: Lubnaan
     sq: Libani
     sr: Либан
-    sr-ec: Либан
-    sr-el: Liban
+    sr_ec: Либан
+    sr_el: Liban
     srn: Libanon
     ss: ILibhanoni
     stq: Libanon
@@ -315,8 +315,8 @@ dv_has_:
     te: లెబనాన్
     tet: Líbanu
     tg: Лубнон
-    tg-cyrl: Лубнон
-    tg-latn: Lubnon
+    tg_cyrl: Лубнон
+    tg_latn: Lubnon
     th: ประเทศเลบานอน
     tk: Liwan
     tl: Lebanon
@@ -328,7 +328,7 @@ dv_has_:
     trv: Lebanon
     ts: Lebanon
     tt: Ливан
-    tt-cyrl: Лөбнан
+    tt_cyrl: Лөбнан
     tum: Lebanon
     tw: Lebanon
     udm: Ливан
@@ -355,12 +355,12 @@ dv_has_:
     zea: Libanon
     zgh: ⵍⵓⴱⵏⴰⵏ
     zh: 黎巴嫩
-    zh-cn: 黎巴嫩
-    zh-hans: 黎巴嫩
-    zh-hant: 黎巴嫩
-    zh-hk: 黎巴嫩
+    zh_cn: 黎巴嫩
+    zh_hans: 黎巴嫩
+    zh_hant: 黎巴嫩
+    zh_hk: 黎巴嫩
     zh-my: 黎巴嫩
-    zh-tw: 黎巴嫩
+    zh_tw: 黎巴嫩
     zu: i-Lebanon
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Lebanon

@@ -132,7 +132,7 @@ dv_has_:
     ast: Inxeniería del software
     az: proqram təminatı mühəndisliyi
     be: інжынерыя праграмнага забеспячэння
-    be-tarask: праграмны інжынірынг
+    be_tarask: праграмны інжынірынг
     bg: софтуерно инженерство
     bho: सॉफ्टवेयर इंजीनियरिंग
     bn: সফটওয়্যার প্রকৌশল
@@ -143,11 +143,11 @@ dv_has_:
     cy: peirianneg meddalwedd
     da: software engineering
     de: Softwaretechnik
-    de-ch: Softwaretechnik
+    de_ch: Softwaretechnik
     el: μηχανική λογισμικού
     en: software engineering
-    en-ca: software engineering
-    en-gb: software engineering
+    en_ca: software engineering
+    en_gb: software engineering
     eo: programara inĝenierarto
     es: ingeniería de software
     eu: software-ingeniaritza
@@ -183,7 +183,7 @@ dv_has_:
     ml: സോഫ്റ്റ്വെയർ എഞ്ചിനീയറിങ്
     mn: програм хангамжийн инженерчлэл
     ms: kejuruteraan perisian
-    ms-arab: کجوروتراءن ڤرايسين
+    ms_arab: کجوروتراءن ڤرايسين
     mwl: angenharie de software
     nb: programvareutvikling
     nl: software engineering
@@ -193,7 +193,7 @@ dv_has_:
     pms: engignerìa dël software
     ps: د سافټوير انجنیري
     pt: engenharia de software
-    pt-br: engenharia de software
+    pt_br: engenharia de software
     qu: llamp'ukaq k'illikachay
     ro: inginerie software
     ru: инженерия программного обеспечения
@@ -206,7 +206,7 @@ dv_has_:
     smn: tiätturohjelmpyevtittem
     sq: inxhinieria softuerike
     sr: инжењеринг софтвера
-    sr-ec: инжењеринг софтвера
+    sr_ec: инжењеринг софтвера
     su: rékayasa software
     sv: programvaruutveckling
     sw: Uundaji bidhaa pepe za tarakilishi
@@ -225,8 +225,8 @@ dv_has_:
     yi: ווייכווארג אינזשעניריע
     yue: 軟件工程
     zh: 软件工程
-    zh-hans: 软件工程
-    zh-hant: 軟體工程
+    zh_hans: 软件工程
+    zh_hant: 軟體工程
 ---
 # [[Software_Engineering]] 
 

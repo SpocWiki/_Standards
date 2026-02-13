@@ -48,7 +48,7 @@ dv_has_:
     sk: Wienov zákon
     sr: Винова апроксимација
     zh: 維恩近似
-    zh-hant: 維恩近似
+    zh_hant: 維恩近似
 ---
 # [[Wien’s_Law]] 
 

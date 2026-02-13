@@ -91,7 +91,7 @@ dv_has_:
     ar: أرض عشبية
     ast: yerbazal
     be: травяністая супольнасць
-    be-tarask: мурог
+    be_tarask: мурог
     bn: তৃণভূমি
     bo: སྤང་།
     bs: travnjak
@@ -102,7 +102,7 @@ dv_has_:
     da: græsslette
     de: Grasland
     en: grassland
-    en-gb: grassland
+    en_gb: grassland
     eo: gresejo
     es: herbazal
     et: rohtla
@@ -139,7 +139,7 @@ dv_has_:
     pl: formacje trawiaste
     pnb: گھاہ دا میدان
     pt: pradaria
-    pt-br: pradaria
+    pt_br: pradaria
     qu: Inkill
     ru: травянистые сообщества
     sh: travnjak
@@ -147,7 +147,7 @@ dv_has_:
     si: තණබිම්
     sl: travišče
     sr: травњак
-    sr-ec: травњак
+    sr_ec: травњак
     sv: gräsmarker
     ta: புல்வெளி
     th: ทุ่งหญ้า
@@ -159,7 +159,7 @@ dv_has_:
     yue: 草原
     za: ndoengrum
     zh: 草原
-    zh-hant: 草原
+    zh_hant: 草原
 ---
 # [[Grassland]] 
 

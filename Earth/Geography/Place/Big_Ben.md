@@ -122,7 +122,7 @@ dv_has_:
     az: Biq Ben
     bcl: Big Ben
     be: Біг-Бен
-    be-tarask: Біг-Бэн
+    be_tarask: Біг-Бэн
     bew: Jem Inggris
     bg: Биг Бен
     bn: বিগ বেন
@@ -136,11 +136,11 @@ dv_has_:
     cy: Big Ben
     da: Big Ben
     de: Big Ben
-    de-ch: Big Ben
+    de_ch: Big Ben
     el: Μπιγκ Μπεν
     en: Big Ben
-    en-ca: Big Ben
-    en-gb: Big Ben
+    en_ca: Big Ben
+    en_gb: Big Ben
     eo: Big Ben
     es: Big Ben
     et: Big Ben
@@ -186,7 +186,7 @@ dv_has_:
     pl: Big Ben
     pnb: بگ بن
     pt: Big Ben
-    pt-br: Big Ben
+    pt_br: Big Ben
     ro: Big Ben
     ru: Биг-Бен
     sco: Big Ben
@@ -211,9 +211,9 @@ dv_has_:
     wuu: 大本钟
     yue: 大笨鐘
     zh: 大本钟
-    zh-hans: 大本钟
+    zh_hans: 大本钟
     zh-my: 大笨钟
-    zh-sg: 大笨钟
+    zh_sg: 大笨钟
 ---
 # [[Big_Ben]] 
 

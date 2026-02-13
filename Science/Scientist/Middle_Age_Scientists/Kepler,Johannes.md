@@ -217,7 +217,7 @@ dv_has_:
     azb: یوهانس کپلر
     ba: Йоһанн Кеплер
     be: Ёган Кеплер
-    be-tarask: Ёган Кеплер
+    be_tarask: Ёган Кеплер
     bg: Йохан Кеплер
     bi: Johannes Kepler
     bn: ইয়োহানেস কেপলার
@@ -237,8 +237,8 @@ dv_has_:
     de: Johannes Kepler
     el: Γιοχάνες Κέπλερ
     en: Johannes Kepler
-    en-ca: Johannes Kepler
-    en-gb: Johannes Kepler
+    en_ca: Johannes Kepler
+    en_gb: Johannes Kepler
     eo: Johano Keplero
     es: Johannes Kepler
     et: Johannes Kepler
@@ -315,7 +315,7 @@ dv_has_:
     pnb: یوہانس کپلر
     ps: یوهانس کپلر
     pt: Johannes Kepler
-    pt-br: Johannes Kepler
+    pt_br: Johannes Kepler
     qu: Johannes Kepler
     ro: Johannes Kepler
     rsk: Йоган Кеплер
@@ -360,10 +360,10 @@ dv_has_:
     yue: 開普勒
     zea: Johannes Kepler
     zh: 約翰內斯·開普勒
-    zh-cn: 约翰内斯·开普勒
-    zh-hans: 约翰内斯·开普勒
-    zh-hant: 約翰內斯·開普勒
-    zh-tw: 約翰內斯·開普勒
+    zh_cn: 约翰内斯·开普勒
+    zh_hans: 约翰内斯·开普勒
+    zh_hant: 約翰內斯·開普勒
+    zh_tw: 約翰內斯·開普勒
 ---
 # [[Kepler,Johannes]] 
 

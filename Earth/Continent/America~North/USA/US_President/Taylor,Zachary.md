@@ -83,7 +83,7 @@ dv_has_:
     ban: Zachary Taylor
     bcl: Zachary Taylor
     be: Закары Тэйлар
-    be-tarask: Захары Тэйлар
+    be_tarask: Захары Тэйлар
     bg: Закари Тейлър
     bi: Zachary Taylor
     bn: জ্যাকারি টেইলার
@@ -104,8 +104,8 @@ dv_has_:
     dv: ޒަކަރީ ޓޭއިލޯރ
     el: Ζαχαρίας Τέιλορ
     en: Zachary Taylor
-    en-ca: Zachary Taylor
-    en-gb: Zachary Taylor
+    en_ca: Zachary Taylor
+    en_gb: Zachary Taylor
     eo: Zachary Taylor
     es: Zachary Taylor
     et: Zachary Taylor
@@ -177,7 +177,7 @@ dv_has_:
     pnb: زچاری ٹیلر
     ps: زاکاري ټایلر
     pt: Zachary Taylor
-    pt-br: Zachary Taylor
+    pt_br: Zachary Taylor
     qu: Zachary Taylor
     rm: Zachary Taylor
     rmf: Zachary Taylor

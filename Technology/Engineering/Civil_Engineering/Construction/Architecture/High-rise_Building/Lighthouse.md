@@ -182,7 +182,7 @@ dv_has_:
     ban: Mercusuar
     bcl: Parola
     be: маяк
-    be-tarask: маяк
+    be_tarask: маяк
     bg: морски фар
     bn: বাতিঘর
     br: tour-tan
@@ -196,11 +196,11 @@ dv_has_:
     cy: goleudy
     da: fyr
     de: Leuchtturm
-    de-ch: Leuchtturm
+    de_ch: Leuchtturm
     el: φάρος
     en: lighthouse
-    en-ca: lighthouse
-    en-gb: lighthouse
+    en_ca: lighthouse
+    en_gb: lighthouse
     eo: lumturo
     es: faro
     et: tuletorn
@@ -281,7 +281,7 @@ dv_has_:
     sms: miârrčuõvvi
     sq: fanar
     sr: светионик
-    sr-ec: светионик
+    sr_ec: светионик
     stq: Ljuchttouden
     sv: fyr
     sw: Mnara wa taa
@@ -302,13 +302,13 @@ dv_has_:
     yue: 燈塔
     za: Daengdap
     zh: 灯塔
-    zh-cn: 灯塔
-    zh-hans: 灯塔
-    zh-hant: 燈塔
-    zh-hk: 燈塔
-    zh-mo: 燈塔
-    zh-sg: 灯塔
-    zh-tw: 燈塔
+    zh_cn: 灯塔
+    zh_hans: 灯塔
+    zh_hant: 燈塔
+    zh_hk: 燈塔
+    zh_mo: 燈塔
+    zh_sg: 灯塔
+    zh_tw: 燈塔
 ---
 # [[Lighthouse]] 
 

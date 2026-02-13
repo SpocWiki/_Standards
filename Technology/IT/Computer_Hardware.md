@@ -136,7 +136,7 @@ dv_has_:
     az: aparat təchizatı
     azb: بیلگیسایار دونانیمی
     be: апаратнае забеспячэнне
-    be-tarask: апаратнае забесьпячэньне
+    be_tarask: апаратнае забесьпячэньне
     bg: компютърен хардуер
     bn: কম্পিউটার হার্ডওয়্যার
     br: periant
@@ -148,11 +148,11 @@ dv_has_:
     cy: caledwedd
     da: hardware
     de: Hardware
-    de-ch: Hardware
+    de_ch: Hardware
     el: υλικό υπολογιστών
     en: computer hardware
-    en-ca: personal computer hardware
-    en-gb: personal computer hardware
+    en_ca: personal computer hardware
+    en_gb: personal computer hardware
     eo: aparataro
     es: hardware
     et: riistvara
@@ -217,7 +217,7 @@ dv_has_:
     pl: sprzęt komputerowy
     ps: د کمپیوټر سختغالی
     pt: hardware de computador
-    pt-br: hardware de computador
+    pt_br: hardware de computador
     qu: sinchi kaq
     ro: hardware
     ru: аппаратное обеспечение
@@ -251,14 +251,14 @@ dv_has_:
     yi: הארטווארג
     yue: 硬件
     zh: 硬件
-    zh-cn: 硬件
-    zh-hans: 硬件
-    zh-hant: 硬體
-    zh-hk: 硬件
-    zh-mo: 硬件
+    zh_cn: 硬件
+    zh_hans: 硬件
+    zh_hant: 硬體
+    zh_hk: 硬件
+    zh_mo: 硬件
     zh-my: 硬件
-    zh-sg: 硬件
-    zh-tw: 硬體
+    zh_sg: 硬件
+    zh_tw: 硬體
 ---
 ## #has_/text_of_/abstract 
 

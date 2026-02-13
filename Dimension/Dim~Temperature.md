@@ -143,7 +143,7 @@ dv_has_:
     bar: Temperatua
     bcl: temperatura
     be: тэмпература
-    be-tarask: тэмпэратура
+    be_tarask: тэмпэратура
     bg: температура
     bho: तापमान
     bn: তাপমাত্রা
@@ -162,8 +162,8 @@ dv_has_:
     de: Temperatur
     el: θερμοκρασία
     en: temperature
-    en-ca: temperature
-    en-gb: temperature
+    en_ca: temperature
+    en_gb: temperature
     eo: temperaturo
     es: temperatura
     et: temperatuur
@@ -228,13 +228,13 @@ dv_has_:
     mn: температур
     mr: तापमान
     ms: suhu
-    ms-arab: سوهو
+    ms_arab: سوهو
     mt: temperatura
     my: အပူချိန်
     nan: un-tō͘
     nb: temperatur
     nds: Temperatur
-    nds-nl: temperetuur
+    nds_nl: temperetuur
     ne: तापक्रम
     nl: temperatuur
     nn: temperatur
@@ -247,7 +247,7 @@ dv_has_:
     pnb: ٹمپریچر
     ps: د تودوخې درجه
     pt: temperatura
-    pt-br: temperatura
+    pt_br: temperatura
     qu: q'uñi kay
     rki: အပူချိန်
     ro: temperatură
@@ -299,14 +299,14 @@ dv_has_:
     yue: 溫度
     za: dohraeuj
     zh: 溫度
-    zh-cn: 温度
-    zh-hans: 温度
-    zh-hant: 溫度
-    zh-hk: 溫度
-    zh-mo: 溫度
+    zh_cn: 温度
+    zh_hans: 温度
+    zh_hant: 溫度
+    zh_hk: 溫度
+    zh_mo: 溫度
     zh-my: 温度
-    zh-sg: 温度
-    zh-tw: 溫度
+    zh_sg: 温度
+    zh_tw: 溫度
 ---
 # [[Dim~Temperature]]  
 

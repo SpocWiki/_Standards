@@ -87,7 +87,7 @@ dv_has_:
     ar: توليد الكهرباء
     ast: xeneración d'enerxía llétrico
     az: elektrik istehsalı
-    be-tarask: генэрацыя электраэнэргіі
+    be_tarask: генэрацыя электраэнэргіі
     bg: Производство на електроенергия
     bn: বিদ্যুৎ শক্তি উৎপাদন
     ca: generació d'electricitat
@@ -129,7 +129,7 @@ dv_has_:
     pms: Produssion d'energìa elétrica
     pnb: بجلی تیاری
     pt: geração de eletricidade
-    pt-br: geração de eletricidade
+    pt_br: geração de eletricidade
     ro: Generarea electricității
     ru: производство электроэнергии
     se: šleađgabuvttadeapmi
@@ -154,12 +154,12 @@ dv_has_:
     wuu: 发电
     yue: 發電
     zh: 發電
-    zh-cn: 发电
-    zh-hans: 发电
-    zh-hant: 發電
-    zh-hk: 發電
-    zh-sg: 发电
-    zh-tw: 發電
+    zh_cn: 发电
+    zh_hans: 发电
+    zh_hant: 發電
+    zh_hk: 發電
+    zh_sg: 发电
+    zh_tw: 發電
 ---
 # [[Electricity_Generation]] 
 

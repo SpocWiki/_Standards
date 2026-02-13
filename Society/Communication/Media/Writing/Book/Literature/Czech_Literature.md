@@ -71,7 +71,7 @@ dv_has_:
     ast: Lliteratura en checu
     bar: Tschechische Litratua
     be: чэшская літаратура
-    be-tarask: чэская літаратура
+    be_tarask: чэская літаратура
     bg: Чешка литература
     ca: literatura txeca
     cs: česká literatura
@@ -112,8 +112,8 @@ dv_has_:
     uk: Чеська література
     yue: 捷克文文學
     zh: 捷克文学
-    zh-cn: 捷克文学
-    zh-hant: 捷克文學
+    zh_cn: 捷克文学
+    zh_hant: 捷克文學
 ---
 # [[Czech_Literature]] 
 

@@ -94,7 +94,7 @@ dv_has_:
     az: Hugenotlar
     bar: Hugenotten
     be: Гугеноты
-    be-tarask: Гугеноты
+    be_tarask: Гугеноты
     bg: Хугеноти
     br: Hugunoded
     ca: Hugonot
@@ -149,7 +149,7 @@ dv_has_:
     pl: Hugenoci
     pnb: ہیوجیناٹ
     pt: Huguenote
-    pt-br: Huguenote
+    pt_br: Huguenote
     ro: Hughenot
     ru: Гугеноты
     sah: Гугеноттар
@@ -158,8 +158,8 @@ dv_has_:
     sl: hugenoti
     sq: Hygenotët
     sr: Хугеноти
-    sr-ec: Хугеноти
-    sr-el: Hugenoti
+    sr_ec: Хугеноти
+    sr_el: Hugenoti
     stq: Hugenotten
     sv: Hugenotter
     tg: Ҳугенотҳо
@@ -175,12 +175,12 @@ dv_has_:
     wuu: 胡格诺派
     yue: 預格諾派
     zh: 雨格诺派
-    zh-cn: 雨格诺派
-    zh-hans: 雨格诺派
-    zh-hant: 休京諾派
-    zh-hk: 胡格諾派
-    zh-sg: 雨格诺派
-    zh-tw: 休京諾派
+    zh_cn: 雨格诺派
+    zh_hans: 雨格诺派
+    zh_hant: 休京諾派
+    zh_hk: 胡格諾派
+    zh_sg: 雨格诺派
+    zh_tw: 休京諾派
 ---
 # [[Huguenots]] 
 

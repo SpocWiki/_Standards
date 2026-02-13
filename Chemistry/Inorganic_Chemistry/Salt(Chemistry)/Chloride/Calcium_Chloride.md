@@ -131,7 +131,7 @@ dv_has_:
     azb: کولورید کلسیوم
     ba: кальций хлориды
     be: хларыд кальцыю
-    be-tarask: хлярыд кальцу
+    be_tarask: хлярыд кальцу
     bg: калциев хлорид
     bn: ক্যালসিয়াম ক্লোরাইড
     ca: clorur de calci
@@ -177,8 +177,8 @@ dv_has_:
     sk: chlorid vápenatý
     sl: kalcijev klorid
     sr: калцијум хлорид
-    sr-ec: калцијум хлорид
-    sr-el: kalcijum hlorid
+    sr_ec: калцијум хлорид
+    sr_el: kalcijum hlorid
     sv: kalciumklorid
     ta: கல்சியம் குளோரைட்டு
     te: కాల్షియం క్లోరైడ్
@@ -189,12 +189,12 @@ dv_has_:
     wuu: 氯化钙
     yue: 氯化鈣
     zh: 氯化鈣
-    zh-cn: 氯化钙
-    zh-hans: 氯化钙
-    zh-hant: 氯化鈣
-    zh-hk: 氯化鈣
-    zh-sg: 氯化钙
-    zh-tw: 氯化鈣
+    zh_cn: 氯化钙
+    zh_hans: 氯化钙
+    zh_hant: 氯化鈣
+    zh_hk: 氯化鈣
+    zh_sg: 氯化钙
+    zh_tw: 氯化鈣
 dv_is_:
   same_as:
   - '[[../../../../WikiData/WD~Calcium_chloride,208451|WD~Calcium_chloride,208451]]'

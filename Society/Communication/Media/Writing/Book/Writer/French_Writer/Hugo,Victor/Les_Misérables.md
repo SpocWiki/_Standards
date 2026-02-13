@@ -140,7 +140,7 @@ dv_has_:
     ast: Los miserables
     az: Səfillər
     azb: یازیق لار
-    be-tarask: Адрынутыя
+    be_tarask: Адрынутыя
     bg: Клетниците
     bn: লা মিজারেবল
     bs: Jadnici
@@ -149,12 +149,12 @@ dv_has_:
     cy: Les Misérables
     da: Les Misérables
     de: Die Elenden
-    de-ch: Die Elenden
+    de_ch: Die Elenden
     diq: Les Misérables
     el: Οι Άθλιοι
     en: Les Misérables
-    en-ca: Les Misérables
-    en-gb: Les Misérables
+    en_ca: Les Misérables
+    en_gb: Les Misérables
     en-us: Les Misérables
     eo: La Mizeruloj
     es: Los miserables
@@ -196,7 +196,7 @@ dv_has_:
     pa: ਦੁਖੀਏ
     pl: Nędznicy
     pt: Os Miseráveis
-    pt-br: Os Miseráveis
+    pt_br: Os Miseráveis
     ro: Mizerabilii
     ru: Отверженные
     sco: Les Misérables
@@ -205,8 +205,8 @@ dv_has_:
     sl: Nesrečniki
     sq: Të mjerët
     sr: Јадници
-    sr-ec: Јадници
-    sr-el: Jadnici
+    sr_ec: Јадници
+    sr_el: Jadnici
     sv: Samhällets olycksbarn
     th: เลมีเซราบล์
     tl: Les Misérables
@@ -218,12 +218,12 @@ dv_has_:
     yi: די מיזעראבלער
     yue: 孤星淚
     zh: 悲惨世界
-    zh-cn: 悲惨世界
-    zh-hans: 悲惨世界
-    zh-hant: 悲慘世界
-    zh-hk: 孤星淚
-    zh-sg: 悲惨世界
-    zh-tw: 悲慘世界
+    zh_cn: 悲惨世界
+    zh_hans: 悲惨世界
+    zh_hant: 悲慘世界
+    zh_hk: 孤星淚
+    zh_sg: 悲惨世界
+    zh_tw: 悲慘世界
 ---
 # [[Les_Misérables]] 
 

@@ -90,7 +90,7 @@ dv_has_:
     as: পাঠ্যক্ৰম
     az: Kurikulum
     ban: widya wuwus
-    be-tarask: навучальны плян
+    be_tarask: навучальны плян
     bs: Kurikulum
     ca: currículum educatiu
     cs: kurikulum
@@ -122,13 +122,13 @@ dv_has_:
     mk: наставен план
     mn: Сургалтын хөтөлбөр
     ms: kurikulum
-    ms-arab: کوريکولوم
+    ms_arab: کوريکولوم
     nb: læreplan
     ne: पाठ्यक्रम
     nl: curriculum
     pl: program nauczania
     pt: currículo
-    pt-br: currículo
+    pt_br: currículo
     ro: curriculum
     ru: учебный план
     sh: Kurikulum
@@ -137,8 +137,8 @@ dv_has_:
     sl: kurikul
     sq: Kurrikuli
     sr: план учења
-    sr-ec: курикулум
-    sr-el: kurikulum
+    sr_ec: курикулум
+    sr_el: kurikulum
     su: Kurikulum
     sv: läroplan
     sw: Mtaala
@@ -148,7 +148,7 @@ dv_has_:
     th: หลักสูตร
     tr: müfredat
     tt: уку планы
-    tt-cyrl: уку планы
+    tt_cyrl: уку планы
     uk: курикулум
     uz: Oʻquv dasturi
     vi: chương trình học
@@ -156,12 +156,12 @@ dv_has_:
     wuu: 课程
     yue: 課程
     zh: 課程
-    zh-cn: 课程
-    zh-hans: 课程
-    zh-hant: 課程
-    zh-hk: 課程
-    zh-sg: 课程
-    zh-tw: 課程
+    zh_cn: 课程
+    zh_hans: 课程
+    zh_hant: 課程
+    zh_hk: 課程
+    zh_sg: 课程
+    zh_tw: 課程
 ---
 # [[Curriculum]] 
 

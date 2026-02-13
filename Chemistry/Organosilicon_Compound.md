@@ -73,14 +73,14 @@ dv_has_:
     ar: سيليكون عضوي
     ast: compuestu de organosilicio
     az: silisiumlu üzvi birləşmələr
-    be-tarask: сыліцыарганічнае злучэньне
+    be_tarask: сыліцыарганічнае злучэньне
     ca: organosilícic
     cs: organokřemíkové sloučeniny
     de: Siliciumorganische Verbindungen
     el: οργανικές ενώσεις με πυρίτιο
     en: organosilicon compound
-    en-ca: organosilicon chemistry
-    en-gb: organosilicon chemistry
+    en_ca: organosilicon chemistry
+    en_gb: organosilicon chemistry
     eo: organiksilicia kombinaĵo
     es: compuesto de organosilicio
     eu: konposatu organosiliziko
@@ -97,7 +97,7 @@ dv_has_:
     nn: organisk silisiumsambinding
     pl: związek krzemoorganiczny
     pt: organossilício
-    pt-br: organossilício
+    pt_br: organossilício
     ro: compus organosilicic
     ru: кремнийорганические соединения
     sr: organosilicijumska jedinjenja
@@ -107,12 +107,12 @@ dv_has_:
     uk: кремнійорганічні сполуки
     yue: 有機矽化學
     zh: 有机硅化学
-    zh-cn: 有机硅化学
-    zh-hans: 有机硅化学
-    zh-hant: 有機硅化學
-    zh-hk: 有機硅化學
-    zh-sg: 有机硅化学
-    zh-tw: 有機矽化學
+    zh_cn: 有机硅化学
+    zh_hans: 有机硅化学
+    zh_hant: 有機硅化學
+    zh_hk: 有機硅化學
+    zh_sg: 有机硅化学
+    zh_tw: 有機矽化學
 ---
 # [[Organosilicon_Compound]] 
 

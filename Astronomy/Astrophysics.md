@@ -144,12 +144,12 @@ dv_has_:
     ast: astrofísica
     az: astrofizika
     be: астрафізіка
-    be-tarask: астрафізыка
+    be_tarask: астрафізыка
     bg: астрофизика
     bn: জ্যোতিঃপদার্থবিজ্ঞান
     bs: astrofizika
     ca: astrofísica
-    cbk-zam: astrofisica
+    cbk_zam: astrofisica
     cdo: tiĕng-ùng ŭk-lī-hŏk
     ckb: ستێرفیزیک
     cs: astrofyzika
@@ -160,8 +160,8 @@ dv_has_:
     diq: fizikê asmêni
     el: αστροφυσική
     en: astrophysics
-    en-ca: astrophysics
-    en-gb: astrophysics
+    en_ca: astrophysics
+    en_gb: astrophysics
     eo: astrofiziko
     es: astrofísica
     et: astrofüüsika
@@ -197,13 +197,13 @@ dv_has_:
     lij: astrofixica
     lt: astrofizika
     lv: astrofizika
-    map-bms: astrofisika
+    map_bms: astrofisika
     mk: астрофизика
     ml: ഖഗോള ഭൗതികം
     mn: астрофизик
     mr: खगोलभौतिकी
     ms: astrofizik
-    ms-arab: استروفيذيک
+    ms_arab: استروفيذيک
     mt: astrofiżika
     my: နက္ခတ္တရူပဗေဒ
     nb: astrofysikk
@@ -216,7 +216,7 @@ dv_has_:
     pnb: تارہ فزکس
     ps: د ستورو فزيک
     pt: astrofísica
-    pt-br: astrofísica
+    pt_br: astrofísica
     ro: astrofizică
     ru: астрофизика
     scn: astrofìsica
@@ -231,14 +231,14 @@ dv_has_:
     sms: astrofysikk
     sq: astrofizika
     sr: астрофизика
-    sr-ec: астрофизика
+    sr_ec: астрофизика
     stq: Astrophysik
     su: astrofisika
     sv: astrofysik
     ta: வானியற்பியல்
     te: ఖగోళ భౌతిక శాస్త్రం
     tg: ахтарфизик
-    tg-cyrl: астрофизика
+    tg_cyrl: астрофизика
     th: ฟิสิกส์ดาราศาสตร์
     tk: astrofizika
     tl: astropisika
@@ -255,8 +255,8 @@ dv_has_:
     yue: 天體物理學
     zgh: ⵜⴰⵙⵏⴳⴰⵎⵉⵜⵔⵉⵜ
     zh: 天体物理学
-    zh-hant: 天體物理學
-    zh-hk: 天體物理學
+    zh_hant: 天體物理學
+    zh_hk: 天體物理學
 ---
 # [[Astrophysics]] 
 

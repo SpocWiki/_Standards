@@ -58,7 +58,7 @@ dv_has_:
     ar: مسرع دوراني تزامني
     ast: Sincrotrón
     be: Сінхратрон
-    be-tarask: сынхратрон
+    be_tarask: сынхратрон
     bg: Синхротрон
     ca: sincrotró
     cs: synchrotron
@@ -66,8 +66,8 @@ dv_has_:
     de: Synchrotron
     el: Σύγχροτρο
     en: synchrotron
-    en-ca: Synchrotron
-    en-gb: synchrotron
+    en_ca: Synchrotron
+    en_gb: synchrotron
     eo: sinkrotrono
     es: sincrotrón
     et: Sünkrotron
@@ -94,7 +94,7 @@ dv_has_:
     nn: synkrotron
     pl: Synchrotron
     pt: síncrotron
-    pt-br: Síncrotron
+    pt_br: Síncrotron
     ro: synchrotron
     ru: Синхротрон
     rue: Сінхротрон
@@ -108,9 +108,9 @@ dv_has_:
     uz: Sinxrotron
     yue: 同步加速器
     zh: 同步加速器
-    zh-hans: 同步加速器
-    zh-hant: 同步加速器
-    zh-hk: 同步加速器
+    zh_hans: 同步加速器
+    zh_hant: 同步加速器
+    zh_hk: 同步加速器
 ---
 # [[Synchrotron]] 
 

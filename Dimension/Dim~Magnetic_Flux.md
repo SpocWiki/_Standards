@@ -8,7 +8,7 @@ dv_has_:
     az: Maqnit seli
     bar: Magnetischa Fluss
     be: магнітны паток
-    be-tarask: магнітны струмень
+    be_tarask: магнітны струмень
     bg: Магнитен поток
     bn: চৌম্বক ফ্লাক্স
     bs: Magnetni tok
@@ -40,7 +40,7 @@ dv_has_:
     it: flusso magnetico
     ja: 磁束
     ka: მაგნიტური ნაკადი
-    kk-arab: فليۋكسمەتر
+    kk_arab: فليۋكسمەتر
     kk-cn: فليۋكسمەتر
     kn: ಕಾಂತ ಮಂಡಲ
     ko: 자기 선속
@@ -64,8 +64,8 @@ dv_has_:
     sl: magnetni pretok
     sq: Fluksi magnetik
     sr: густина магнетског флукса
-    sr-ec: густина магнетског флукса
-    sr-el: gustina magnetskog fluksa
+    sr_ec: густина магнетског флукса
+    sr_el: gustina magnetskog fluksa
     sv: magnetiskt flöde
     ta: காந்தப்பாயம்
     te: అయస్కాంత అభివాహం
@@ -79,10 +79,10 @@ dv_has_:
     wuu: 磁通量
     yue: 磁通量
     zh: 磁通量
-    zh-cn: 磁通量
-    zh-hans: 磁通量
-    zh-hant: 磁通量
-    zh-hk: 磁通量
+    zh_cn: 磁通量
+    zh_hans: 磁通量
+    zh_hant: 磁通量
+    zh_hk: 磁通量
 aliases:
 - flosc maighnéadach
 - flujo magnético

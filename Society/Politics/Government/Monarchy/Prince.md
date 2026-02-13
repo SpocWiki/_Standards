@@ -131,7 +131,7 @@ dv_has_:
     az: şahzadə
     ba: принц
     be: прынц
-    be-tarask: прынц
+    be_tarask: прынц
     bg: принц
     bn: রাজপুত্র
     br: priñs
@@ -178,7 +178,7 @@ dv_has_:
     lv: princis
     mk: принц
     ms: putera
-    ms-arab: ڤوترا
+    ms_arab: ڤوترا
     nan: thâu-lâng
     nb: prins
     ne: राजकुमार
@@ -221,8 +221,8 @@ dv_has_:
     yi: פרינץ
     yue: 親王
     zh: 王爵
-    zh-hans: 王爵
-    zh-hant: 王爵
+    zh_hans: 王爵
+    zh_hant: 王爵
 ---
 # [[Prince]] 🤴 
 

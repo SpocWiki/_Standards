@@ -97,7 +97,7 @@ dv_has_:
     az: simanın nağılı
     azb: سیمبیوز
     be: сімбіёз
-    be-tarask: сымбіёз
+    be_tarask: сымбіёз
     bg: симбиоза
     bs: simbioza
     ca: simbiosi
@@ -133,11 +133,11 @@ dv_has_:
     ka: სიმბიოზი
     kab: Tamsetlelt (tasnudert)
     kk: селбесу
-    kk-arab: سەلبەسۋ
+    kk_arab: سەلبەسۋ
     kk-cn: سەلبەسۋ
-    kk-cyrl: селбесу
+    kk_cyrl: селбесу
     kk-kz: селбесу
-    kk-latn: selbesw
+    kk_latn: selbesw
     kk-tr: selbesw
     kn: ಸಹಜೀವನ
     ko: 공생
@@ -173,8 +173,8 @@ dv_has_:
     sms: symbioos
     sq: Simbioza
     sr: симбиоза
-    sr-ec: симбиоза
-    sr-el: simbioza
+    sr_ec: симбиоза
+    sr_el: simbioza
     sv: symbios
     ta: ஒன்றிய வாழ்வு
     th: ภาวะอยู่ร่วมกัน
@@ -191,12 +191,12 @@ dv_has_:
     xmf: სიმბიოზი
     yue: 共生
     zh: 共生
-    zh-cn: 共生
-    zh-hans: 共生
-    zh-hant: 共生
-    zh-hk: 共生
-    zh-sg: 共生
-    zh-tw: 共生
+    zh_cn: 共生
+    zh_hans: 共生
+    zh_hant: 共生
+    zh_hk: 共生
+    zh_sg: 共生
+    zh_tw: 共生
 ---
 # [[Symbiosis]] 
 

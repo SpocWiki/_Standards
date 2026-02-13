@@ -224,7 +224,7 @@ dv_has_:
     ba: Индеецтар
     bar: Indiana
     be: індзейцы
-    be-tarask: індзейцы
+    be_tarask: індзейцы
     bg: Индианци
     bn: আমেরিকার আদিবাসী
     br: Amerindianed
@@ -291,7 +291,7 @@ dv_has_:
     nap: Native mericane
     nb: amerikanske urfolk
     nds: Indianer
-    nds-nl: inheemse Amerikanen
+    nds_nl: inheemse Amerikanen
     nia: Penduduk Asli Amerika
     nl: indianen
     nn: amerikanske urfolk
@@ -302,14 +302,14 @@ dv_has_:
     pl: Indianie
     pnb: لال ہندی
     pt: indígena nativo americano
-    pt-br: indígena nativo americano
+    pt_br: indígena nativo americano
     ro: Amerindieni
     ru: индейцы
     rue: Индиане
     sco: Native Americans
     sgs: Indienā
     sh: Indijanci
-    sh-cyrl: Индијанци
+    sh_cyrl: Индијанци
     sk: Indiáni
     sl: ameriški staroselci
     so: Maraykanka assalkoodii
@@ -341,7 +341,7 @@ dv_has_:
     xmf: ინდიარეფი
     yue: 美洲原住民
     zh: 美洲原住民
-    zh-hant: 美洲原住民
+    zh_hant: 美洲原住民
 ---
 # [[Indigenous_Americans]] 
 

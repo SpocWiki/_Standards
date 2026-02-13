@@ -71,7 +71,7 @@ dv_has_:
     ast: Hidrostática
     az: hidrostatika
     be: гідрастатыка
-    be-tarask: гідрастатыка
+    be_tarask: гідрастатыка
     bg: Хидростатика
     bn: উদস্থিতিবিজ্ঞান
     bs: Statika fluida
@@ -102,11 +102,11 @@ dv_has_:
     ja: 流体静力学
     jv: Hidrostatika
     kk: Гидростатика
-    kk-arab: گىيدروستاتىيكا
+    kk_arab: گىيدروستاتىيكا
     kk-cn: گىيدروستاتىيكا
-    kk-cyrl: Гидростатика
+    kk_cyrl: Гидростатика
     kk-kz: Гидростатика
-    kk-latn: Gïdrostatïka
+    kk_latn: Gïdrostatïka
     kk-tr: Gïdrostatïka
     km: អ៊ីដ្រូស្តាទិច
     ko: 유체 정역학
@@ -128,8 +128,8 @@ dv_has_:
     sk: Hydrostatika
     sl: hidrostatika
     sr: статика флуида
-    sr-ec: Статика флуида
-    sr-el: Statika fluida
+    sr_ec: Статика флуида
+    sr_el: Statika fluida
     sv: hydrostatik
     ta: பாய்ம நிலையியல்
     th: สถิตยศาสตร์ของไหล
@@ -141,12 +141,12 @@ dv_has_:
     wuu: 流体静力学
     yue: 流體靜力學
     zh: 流体静力学
-    zh-cn: 流体静力学
-    zh-hans: 流体静力学
-    zh-hant: 流體靜力學
-    zh-hk: 流體靜力學
-    zh-sg: 流体静力学
-    zh-tw: 流體靜力學
+    zh_cn: 流体静力学
+    zh_hans: 流体静力学
+    zh_hant: 流體靜力學
+    zh_hk: 流體靜力學
+    zh_sg: 流体静力学
+    zh_tw: 流體靜力學
 ---
 # [[Hydrostatics]] 
 

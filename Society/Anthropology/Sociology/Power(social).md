@@ -125,7 +125,7 @@ dv_has_:
     ar: نفوذ
     az: güc
     be: улада
-    be-tarask: улада
+    be_tarask: улада
     bg: власт
     bn: ক্ষমতা (সামাজিক ও রাজনৈতিক)
     br: galloud
@@ -139,11 +139,11 @@ dv_has_:
     cy: grym
     da: magt
     de: Macht
-    de-ch: Macht
+    de_ch: Macht
     el: δύναμη
     en: power
-    en-ca: power
-    en-gb: power
+    en_ca: power
+    en_gb: power
     eo: potenco (sociologio)
     es: poder
     et: võim
@@ -179,7 +179,7 @@ dv_has_:
     ml: ശക്തി
     mnc: ᡨᠣᠣᠰᡝ
     ms: kuasa
-    ms-arab: کواس
+    ms_arab: کواس
     myv: кирдивий
     nan: khoân-le̍k
     nb: makt
@@ -190,7 +190,7 @@ dv_has_:
     pl: władza
     ps: ځواک
     pt: poder
-    pt-br: poder
+    pt_br: poder
     qu: atiyniyuq kay
     ro: putere
     ru: власть
@@ -201,7 +201,7 @@ dv_has_:
     sl: moč
     sq: pushteti
     sr: моћ
-    sr-ec: моћ
+    sr_ec: моћ
     sv: makt
     sw: uwezo
     tg: қудрат
@@ -209,7 +209,7 @@ dv_has_:
     tl: kapangyarihan
     tr: kuvvet
     tt: хакимият
-    tt-cyrl: хакимият
+    tt_cyrl: хакимият
     uk: влада
     uz: hokimiyat
     vec: podere
@@ -219,14 +219,14 @@ dv_has_:
     yo: agbára
     yue: 權力
     zh: 權力
-    zh-cn: 权力
-    zh-hans: 权力
-    zh-hant: 權力
-    zh-hk: 權力
-    zh-mo: 權力
+    zh_cn: 权力
+    zh_hans: 权力
+    zh_hant: 權力
+    zh_hk: 權力
+    zh_mo: 權力
     zh-my: 权力
-    zh-sg: 权力
-    zh-tw: 權力
+    zh_sg: 权力
+    zh_tw: 權力
     zu: amandla
 ---
 # [[Power(social)]] 

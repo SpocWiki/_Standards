@@ -77,7 +77,7 @@ dv_has_:
     ast: música de la Edá Media
     az: Orta əsr musiqisi
     be: сярэдневяковая музыка
-    be-tarask: музыка Сярэднявечча
+    be_tarask: музыка Сярэднявечча
     bg: Средновековна музика
     ca: música medieval
     cs: středověká hudba

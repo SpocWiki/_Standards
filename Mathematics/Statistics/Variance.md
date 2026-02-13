@@ -82,7 +82,7 @@ dv_has_:
     ast: Varianza
     az: Dispersiya
     be: дысперсія выпадковай велічыні
-    be-tarask: дыспэрсія выпадковай велічыні
+    be_tarask: дыспэрсія выпадковай велічыні
     bg: Дисперсия
     bn: ভেদাঙ্ক
     ca: variància
@@ -135,8 +135,8 @@ dv_has_:
     sms: varianss
     sq: Varianca
     sr: варијанса
-    sr-ec: Варијанса
-    sr-el: Varijansa
+    sr_ec: Варијанса
+    sr_el: Varijansa
     su: Varian
     sv: varians
     sw: Muachano
@@ -149,12 +149,12 @@ dv_has_:
     wuu: 方差
     yue: 變異數
     zh: 方差
-    zh-cn: 方差
-    zh-hans: 方差
-    zh-hant: 變異數
-    zh-hk: 方差
-    zh-sg: 方差
-    zh-tw: 變異數
+    zh_cn: 方差
+    zh_hans: 方差
+    zh_hant: 變異數
+    zh_hk: 方差
+    zh_sg: 方差
+    zh_tw: 變異數
 ---
 # [[Variance]]
 

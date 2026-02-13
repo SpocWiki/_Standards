@@ -140,7 +140,7 @@ dv_has_:
     az: Sergey Brin
     ban: Sergey Brin
     be: Сяргей Міхайлавіч Брын
-    be-tarask: Сяргей Брын
+    be_tarask: Сяргей Брын
     bg: Сергей Брин
     bn: সের্গেই ব্রিন
     ca: Serguei Brin
@@ -150,11 +150,11 @@ dv_has_:
     cy: Sergey Brin
     da: Sergej Brin
     de: Sergey Brin
-    de-ch: Sergey Brin
+    de_ch: Sergey Brin
     el: Σεργκέι Μπριν
     en: Sergey Brin
-    en-ca: Sergey Brin
-    en-gb: Sergey Brin
+    en_ca: Sergey Brin
+    en_gb: Sergey Brin
     eo: Sergey Brin
     es: Serguéi Brin
     et: Sergei Brin
@@ -177,11 +177,11 @@ dv_has_:
     jv: Sergey Brin
     ka: სერგეი ბრინი
     kk: Сергей Брин
-    kk-arab: سەرگەي برىين
+    kk_arab: سەرگەي برىين
     kk-cn: سەرگەي برىين
-    kk-cyrl: Сергей Брин
+    kk_cyrl: Сергей Брин
     kk-kz: Сергей Брин
-    kk-latn: Sergeý Brïn
+    kk_latn: Sergeý Brïn
     kk-tr: Sergeý Brïn
     kn: ಸೆರ್ಗೆ ಬ್ರಿನ್
     ko: 세르게이 브린
@@ -205,7 +205,7 @@ dv_has_:
     pa: ਸਰਗੇ ਬ੍ਰਿਨ
     pl: Sergey Brin
     pt: Sergey Brin
-    pt-br: Sergey Brin
+    pt_br: Sergey Brin
     qu: Sergey Brin
     ro: Sergey Brin
     ru: Сергей Брин
@@ -217,8 +217,8 @@ dv_has_:
     sl: Sergey Brin
     sq: Sergey Brin
     sr: Сергеј Брин
-    sr-ec: Сергеј Брин
-    sr-el: Sergej Brin
+    sr_ec: Сергеј Брин
+    sr_el: Sergej Brin
     sv: Sergey Brin
     sw: Sergey Brin
     ta: சேர்ஜி பிரின்
@@ -236,12 +236,12 @@ dv_has_:
     wuu: 谢尔盖·布林
     yue: 些奇布林
     zh: 谢尔盖·布林
-    zh-cn: 谢尔盖·布林
-    zh-hans: 谢尔盖·布林
-    zh-hant: 謝爾蓋·布林
-    zh-hk: 些奇·布連
-    zh-sg: 谢尔盖·布林
-    zh-tw: 謝爾蓋·布林
+    zh_cn: 谢尔盖·布林
+    zh_hans: 谢尔盖·布林
+    zh_hant: 謝爾蓋·布林
+    zh_hk: 些奇·布連
+    zh_sg: 谢尔盖·布林
+    zh_tw: 謝爾蓋·布林
 ---
 # [[Brin,Sergey]] 
 

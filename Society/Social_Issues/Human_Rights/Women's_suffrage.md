@@ -113,7 +113,7 @@ dv_has_:
     ast: sufraxu femenín
     az: Qadınlara seçki hüququnun verilməsi
     be: жаночае выбарчае права
-    be-tarask: жаночае выбарчае права
+    be_tarask: жаночае выбарчае права
     bg: Избирателно право на жените
     bn: নারীর ভোটাধিকার
     ca: sufragi femení
@@ -194,7 +194,7 @@ dv_has_:
     wuu: 女性参政权
     yue: 女性參政權
     zh: 女性參政權
-    zh-cn: 女性参政权
+    zh_cn: 女性参政权
 ---
 # [[Women's_suffrage]] 
 

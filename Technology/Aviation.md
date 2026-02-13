@@ -150,7 +150,7 @@ dv_has_:
     azb: هاواچیلیق
     ba: Авиация
     be: авіяцыя
-    be-tarask: авіяцыя
+    be_tarask: авіяцыя
     bg: Авиация
     bho: एविएशन
     bn: বিমান চালনা
@@ -206,7 +206,7 @@ dv_has_:
     mk: воздухопловство
     mn: Агаарын тээвэр
     ms: penerbangan
-    ms-arab: ڤنربڠن
+    ms_arab: ڤنربڠن
     mt: avjazzjoni
     myv: Менелев ливтямо
     nan: Hâng-khong
@@ -232,14 +232,14 @@ dv_has_:
     so: Duuliyanimo
     sq: Aeronautika
     sr: ваздухопловство
-    sr-ec: ваздухопловство
-    sr-el: vazduhoplovstvo
+    sr_ec: ваздухопловство
+    sr_el: vazduhoplovstvo
     su: Ngapung
     sv: luftfart
     ta: பறப்பியல்
     te: విమానయానం
     tg: авиатсия
-    tg-cyrl: ҳавонавардӣ
+    tg_cyrl: ҳавонавардӣ
     th: การเดินอากาศ
     tk: Awiasiýa
     tl: Abyasyon
@@ -255,14 +255,14 @@ dv_has_:
     yi: אוויאציע
     yue: 航空
     zh: 航空
-    zh-cn: 航空
-    zh-hans: 航空
-    zh-hant: 航空
-    zh-hk: 航空
-    zh-mo: 航空
+    zh_cn: 航空
+    zh_hans: 航空
+    zh_hant: 航空
+    zh_hk: 航空
+    zh_mo: 航空
     zh-my: 航空
-    zh-sg: 航空
-    zh-tw: 航空
+    zh_sg: 航空
+    zh_tw: 航空
 ---
 # [[Aviation]] 
 

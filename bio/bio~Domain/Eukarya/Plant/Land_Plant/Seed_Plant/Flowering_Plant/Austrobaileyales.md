@@ -33,8 +33,8 @@ dv_has_:
     da: Austrobaileyales
     de: Austrobaileyales
     en: Austrobaileyales
-    en-ca: Austrobaileyales
-    en-gb: Austrobaileyales
+    en_ca: Austrobaileyales
+    en_gb: Austrobaileyales
     eo: Aŭstrobailejaloj
     es: Austrobaileyales
     et: Tähtaniisipuulaadsed
@@ -65,7 +65,7 @@ dv_has_:
     oc: Austrobaileyales
     pl: Austrobaileyales
     pt: Austrobaileyales
-    pt-br: Austrobaileyales
+    pt_br: Austrobaileyales
     ro: Austrobaileyales
     ru: Австробэйлиецветные
     sh: Austrobaileyales
@@ -80,9 +80,9 @@ dv_has_:
     vo: Austrobaileyales
     war: Austrobaileyales
     zh: 木兰藤目
-    zh-cn: 木兰藤目
-    zh-hans: 木兰藤目
-    zh-hant: 木兰藤目
+    zh_cn: 木兰藤目
+    zh_hans: 木兰藤目
+    zh_hant: 木兰藤目
 ---
 # [[Austrobaileyales]] 
 

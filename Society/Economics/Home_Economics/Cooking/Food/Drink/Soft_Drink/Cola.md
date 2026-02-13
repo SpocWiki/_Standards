@@ -55,7 +55,7 @@ dv_has_:
     az: Kola
     ba: кола
     be: Кола
-    be-tarask: кола
+    be_tarask: кола
     bg: кола
     bn: কোলা
     ca: beguda de cola
@@ -102,7 +102,7 @@ dv_has_:
     ms: Jenama Kola
     nan: Cola
     nb: cola
-    nds-nl: cola
+    nds_nl: cola
     new: कोला
     nl: cola
     nn: cola
@@ -136,13 +136,13 @@ dv_has_:
     za: Gojloz
     zh: 可乐
     zh-cn: 可乐
-    zh-hans: 可乐
-    zh-hant: 可樂
-    zh-hk: 可樂
-    zh-mo: 可樂
+    zh_hans: 可乐
+    zh_hant: 可樂
+    zh_hk: 可樂
+    zh_mo: 可樂
     zh-my: 可乐
-    zh-sg: 可乐
-    zh-tw: 可樂
+    zh_sg: 可乐
+    zh_tw: 可樂
 ---
 # [[Cola]] 
 

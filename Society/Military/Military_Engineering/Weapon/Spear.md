@@ -9,7 +9,7 @@ dv_has_:
     az: Nizə
     ba: Һөңгө
     be: Дзіда
-    be-tarask: дзіда
+    be_tarask: дзіда
     bg: Копие
     bn: বর্শা
     bs: Koplje
@@ -84,7 +84,7 @@ dv_has_:
     pms: Lansa
     pnb: برچھا
     pt: lança
-    pt-br: lança
+    pt_br: lança
     qu: Chuki
     ro: suliță
     ru: копьё
@@ -118,9 +118,9 @@ dv_has_:
     yue: 矛
     zgh: ⴰⵣⴰⴳⴰⵢ
     zh: 槍
-    zh-cn: 枪
-    zh-hans: 枪
-    zh-hant: 槍
+    zh_cn: 枪
+    zh_hans: 枪
+    zh_hant: 槍
 aliases:
 - Bangkaw
 - Chuki

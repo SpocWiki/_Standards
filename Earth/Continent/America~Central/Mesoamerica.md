@@ -107,7 +107,7 @@ dv_has_:
     ba: Мезоамерика
     bar: Mesoamerika
     be: Месаамерыка
-    be-tarask: Мэзаамэрыка
+    be_tarask: Мэзаамэрыка
     bg: Мезоамерика
     bn: মেসোআমেরিকা
     ca: Mesoamèrica
@@ -115,12 +115,12 @@ dv_has_:
     cs: Mezoamerika
     da: Mesoamerika
     de: Mesoamerika
-    de-ch: Mesoamerika
+    de_ch: Mesoamerika
     diq: Mezoamerika
     el: Μέση Αμερική
     en: Mesoamerica
-    en-ca: Mesoamerica
-    en-gb: Mesoamerica
+    en_ca: Mesoamerica
+    en_gb: Mesoamerica
     eo: Mezameriko
     es: Mesoamérica
     et: Mesoameerika
@@ -165,7 +165,7 @@ dv_has_:
     pl: Mezoameryka
     ps: ميسو امريکا
     pt: Mesoamérica
-    pt-br: Mesoamérica
+    pt_br: Mesoamérica
     ro: Mesoamerica
     ru: Мезоамерика
     sco: Mesoamericae
@@ -178,7 +178,7 @@ dv_has_:
     sms: Mesoamerikk
     sq: Mezoamerika
     sr: Мезоамерика
-    sr-ec: Мезоамерика
+    sr_ec: Мезоамерика
     sv: Mesoamerika
     szl: Mezoameryka
     ta: இடையமெரிக்கப் பண்பாட்டுப் பகுதி
@@ -195,7 +195,7 @@ dv_has_:
     xmf: მესოამერიკა
     yue: 美索美洲
     zh: 中部美洲
-    zh-cn: 美索亚美利加
+    zh_cn: 美索亚美利加
 ---
 # [[Mesoamerica]] 
 

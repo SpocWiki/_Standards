@@ -136,7 +136,7 @@ dv_has_:
     ast: Bancu Européu d'Inversiones
     az: Avropa İnvestisiya Bankı
     be: Еўрапейскі інвестыцыйны банк
-    be-tarask: Эўрапейскі інвэстыцыйны банк
+    be_tarask: Эўрапейскі інвэстыцыйны банк
     bg: Европейска инвестиционна банка
     ca: Banc Europeu d'Inversions
     cs: Evropská investiční banka
@@ -182,8 +182,8 @@ dv_has_:
     sk: Európska investičná banka
     sl: Evropska investicijska banka
     sr: Европска инвестициона банка
-    sr-ec: Европска инвестициона банка
-    sr-el: Evropska investiciona banka
+    sr_ec: Европска инвестициона банка
+    sr_el: Evropska investiciona banka
     sv: Europeiska investeringsbanken
     th: ธนาคารเพื่อการลงทุนแห่งยุโรป
     tr: Avrupa Yatırım Bankası
@@ -192,12 +192,12 @@ dv_has_:
     vi: Ngân hàng Đầu tư Châu Âu
     yue: 歐洲投資銀行
     zh: 欧洲投资银行
-    zh-cn: 欧洲投资银行
-    zh-hans: 欧洲投资银行
-    zh-hant: 歐洲投資銀行
-    zh-hk: 歐洲投資銀行
-    zh-sg: 欧洲投资银行
-    zh-tw: 歐洲投資銀行
+    zh_cn: 欧洲投资银行
+    zh_hans: 欧洲投资银行
+    zh_hant: 歐洲投資銀行
+    zh_hk: 歐洲投資銀行
+    zh_sg: 欧洲投资银行
+    zh_tw: 歐洲投資銀行
 ---
 # [[European_Investment_Bank]] 
 

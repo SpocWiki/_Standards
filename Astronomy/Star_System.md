@@ -103,7 +103,7 @@ dv_has_:
     ar: نظام نجمي
     ast: Sistema estelar
     be: зорная сістэма
-    be-tarask: зорная сыстэма
+    be_tarask: зорная сыстэма
     bg: звездна система
     bs: zvjezdani sistem
     ca: sistema d'estrelles
@@ -154,8 +154,8 @@ dv_has_:
     sl: zvezdni sistem
     sq: sistemi yjor
     sr: звездани систем
-    sr-ec: звездани систем
-    sr-el: zvezdani sistem
+    sr_ec: звездани систем
+    sr_el: zvezdani sistem
     sv: stjärnsystem
     th: ระบบดาว
     tok: kulupu pi mun seli
@@ -167,9 +167,9 @@ dv_has_:
     wuu: 恒星系统
     yue: 恆星系統
     zh: 恆星系統
-    zh-cn: 恒星系统
-    zh-hk: 恆星系統
-    zh-tw: 恆星系統
+    zh_cn: 恒星系统
+    zh_hk: 恆星系統
+    zh_tw: 恆星系統
 ---
 # [[Star_System]] 
 

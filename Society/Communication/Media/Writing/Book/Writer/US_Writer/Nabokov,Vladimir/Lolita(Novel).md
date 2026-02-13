@@ -223,7 +223,7 @@ dv_has_:
     az: Lolita
     azb: لولیتا
     be: Лаліта
-    be-tarask: Лаліта
+    be_tarask: Лаліта
     bg: Лолита
     bho: लोलिता
     bn: ললিতা
@@ -235,8 +235,8 @@ dv_has_:
     de: Lolita
     el: Λολίτα
     en: Lolita
-    en-ca: Lolita
-    en-gb: Lolita
+    en_ca: Lolita
+    en_gb: Lolita
     eo: Lolita
     es: Lolita
     et: Lolita
@@ -274,7 +274,7 @@ dv_has_:
     pl: Lolita
     pnb: لولِتا
     pt: Lolita
-    pt-br: Lolita
+    pt_br: Lolita
     ro: Lolita
     ru: Лолита
     sa: लोलिता
@@ -294,8 +294,8 @@ dv_has_:
     xmf: ლოლიტა (რომანი)
     yue: 羅列他
     zh: 洛丽塔
-    zh-hant: 蘿莉塔
-    zh-tw: 蘿莉塔
+    zh_hant: 蘿莉塔
+    zh_tw: 蘿莉塔
 ---
 # [[Lolita(Novel)]] 
 

@@ -90,7 +90,7 @@ dv_has_:
     az: Parmesan pendiri
     ba: пармезан
     be: пармезан
-    be-tarask: пармэзан
+    be_tarask: пармэзан
     bg: Пармезан
     br: Parmigiano Reggiano
     ca: formatge parmesà
@@ -103,8 +103,8 @@ dv_has_:
     el: Παρμεζάνα
     eml: Grâna
     en: Parmesan
-    en-ca: Parmigiano-Reggiano
-    en-gb: Parmigiano-Reggiano
+    en_ca: Parmigiano-Reggiano
+    en_gb: Parmigiano-Reggiano
     eo: parmezano
     es: queso parmesano
     et: parma juust
@@ -135,7 +135,7 @@ dv_has_:
     nl: Parmezaanse kaas
     pl: parmezan
     pt: Parmesão
-    pt-br: Parmesão
+    pt_br: Parmesão
     ro: Parmezan
     ru: пармезан
     sh: Parmiđano ređano
@@ -143,8 +143,8 @@ dv_has_:
     sl: parmezan
     smn: Parmigiano Reggiano
     sr: пармезан
-    sr-ec: пармезан
-    sr-el: parmezan
+    sr_ec: пармезан
+    sr_el: parmezan
     sv: parmesan
     th: ปาร์มีจาโนเรจจาโน
     tl: Parmigiano-Reggiano
@@ -157,11 +157,11 @@ dv_has_:
     yue: 巴馬臣芝士
     zh: 帕馬森乾酪
     zh-cn: 帕马森干酪
-    zh-hans: 帕马森干酪
-    zh-hant: 帕馬森乾酪
-    zh-hk: 巴馬臣芝士
-    zh-sg: 帕马森干酪
-    zh-tw: 帕馬森起司
+    zh_hans: 帕马森干酪
+    zh_hant: 帕馬森乾酪
+    zh_hk: 巴馬臣芝士
+    zh_sg: 帕马森干酪
+    zh_tw: 帕馬森起司
 ---
 # [[Parmesan_Cheese]] 
 

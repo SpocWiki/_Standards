@@ -85,7 +85,7 @@ dv_has_:
     nn: Sony Music
     pl: Sony Music
     pt: Sony Music
-    pt-br: Sony Music
+    pt_br: Sony Music
     rmf: Sony Music
     ro: Sony Music
     ru: Sony Music
@@ -109,12 +109,12 @@ dv_has_:
     vi: Sony Music
     wuu: 索尼音樂
     zh: 索尼音樂
-    zh-cn: 索尼音樂
-    zh-hans: Sony Music
-    zh-hant: Sony Music
-    zh-hk: Sony Music
-    zh-sg: Sony Music
-    zh-tw: Sony Music
+    zh_cn: 索尼音樂
+    zh_hans: Sony Music
+    zh_hant: Sony Music
+    zh_hk: Sony Music
+    zh_sg: Sony Music
+    zh_tw: Sony Music
 ---
 # [[Sony_Music]] 
 

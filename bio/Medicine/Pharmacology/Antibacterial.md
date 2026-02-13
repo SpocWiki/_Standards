@@ -132,7 +132,7 @@ dv_has_:
     ba: Антибиотиктар
     ban: Antibiotik
     be: антыбіётык
-    be-tarask: антыбіётык
+    be_tarask: антыбіётык
     bg: Антибиотик
     bho: एंटीबायोटिक
     bn: অ্যান্টিবায়োটিক
@@ -257,7 +257,7 @@ dv_has_:
     yue: 抗生素
     za: Gangsengsoq
     zh: 抗菌药
-    zh-hk: 抗生素
+    zh_hk: 抗生素
     zu: Ama-antibiotic
 ---
 ## #has_/text_of_/abstract 

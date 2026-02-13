@@ -149,7 +149,7 @@ dv_has_:
     az: Amazon yağış meşələri
     azb: آمازون یاغیش مشهلری
     be: Дажджавыя лясы Амазоніі
-    be-tarask: дажджавы лес Амазоніі
+    be_tarask: дажджавы лес Амазоніі
     bg: Амазонска джунгла
     bho: अमेजन जंगल
     bn: আমাজন অরণ্য
@@ -218,7 +218,7 @@ dv_has_:
     pnb: ایمیزون برساتی جنگل
     ps: امازون باراني ځنګل
     pt: Floresta amazônica
-    pt-br: Amazônia
+    pt_br: Amazônia
     qu: Amarumayu sach'a-sach'a suyu
     ro: Pădurea Amazoniană
     ru: Дождевые леса Амазонии
@@ -230,8 +230,8 @@ dv_has_:
     sl: amazonski deževni gozd
     sq: amazone
     sr: Амазонија
-    sr-ec: Амазонија
-    sr-el: Amazonija
+    sr_ec: Амазонија
+    sr_el: Amazonija
     sv: Amazonas regnskog
     sw: Msitu wa Amazon
     szy: Ya-ma-sun-yi-lin
@@ -248,12 +248,12 @@ dv_has_:
     wuu: 亚马逊雨林
     yue: 亞馬遜雨林
     zh: 亞馬遜雨林
-    zh-cn: 亚马孙雨林
-    zh-hans: 亚马孙雨林
-    zh-hant: 亞馬遜雨林
-    zh-hk: 亞馬遜雨林
-    zh-sg: 亚马孙雨林
-    zh-tw: 亞馬遜雨林
+    zh_cn: 亚马孙雨林
+    zh_hans: 亚马孙雨林
+    zh_hant: 亞馬遜雨林
+    zh_hk: 亞馬遜雨林
+    zh_sg: 亚马孙雨林
+    zh_tw: 亞馬遜雨林
 ---
 # [[Amazon_Rainforest]] 
 

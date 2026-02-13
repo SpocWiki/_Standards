@@ -115,7 +115,7 @@ dv_has_:
     ba: Йенни Линд
     bar: Jenny Lind
     be: Ені Лінд
-    be-tarask: Ені Лінд
+    be_tarask: Ені Лінд
     bg: Йени Линд
     br: Jenny Lind
     ca: Jenny Lind
@@ -126,13 +126,13 @@ dv_has_:
     da: Jenny Lind
     de: Jenny Lind
     de-at: Jenny Lind
-    de-ch: Jenny Lind
+    de_ch: Jenny Lind
     diq: Jenny Lind
     ee: Jenny Lind
     el: Jenny Lind
     en: Jenny Lind
-    en-ca: Jenny Lind
-    en-gb: Jenny Lind
+    en_ca: Jenny Lind
+    en_gb: Jenny Lind
     eo: Jenny Lind
     es: Jenny Lind
     et: Jenny Lind
@@ -173,7 +173,7 @@ dv_has_:
     nap: Jenny Lind
     nb: Jenny Lind
     nds: Jenny Lind
-    nds-nl: Jenny Lind
+    nds_nl: Jenny Lind
     nl: Jenny Lind
     nn: Jenny Lind
     nrm: Jenny Lind
@@ -185,7 +185,7 @@ dv_has_:
     pl: Jenny Lind
     pms: Jenny Lind
     pt: Jenny Lind
-    pt-br: Jenny Lind
+    pt_br: Jenny Lind
     rm: Jenny Lind
     ro: Jenny Lind
     ru: Женни Линд
@@ -196,7 +196,7 @@ dv_has_:
     sl: Jenny Lind
     sq: Jenny Lind
     sr: Jeni Lind
-    sr-el: Jenny Lind
+    sr_el: Jenny Lind
     sv: Jenny Lind
     sw: Jenny Lind
     th: เจนนี ลินด์
@@ -213,12 +213,12 @@ dv_has_:
     wuu: 珍妮·林德
     yue: 珍妮蓮特
     zh: 珍妮·林德
-    zh-cn: 珍妮·林德
-    zh-hans: 珍妮·林德
-    zh-hant: 珍妮·林德
-    zh-hk: 珍妮·林德
-    zh-sg: 珍妮·林德
-    zh-tw: 珍妮·林德
+    zh_cn: 珍妮·林德
+    zh_hans: 珍妮·林德
+    zh_hant: 珍妮·林德
+    zh_hk: 珍妮·林德
+    zh_sg: 珍妮·林德
+    zh_tw: 珍妮·林德
     zu: Jenny Lind
 ---
 # [[Lind,Jenny]] 

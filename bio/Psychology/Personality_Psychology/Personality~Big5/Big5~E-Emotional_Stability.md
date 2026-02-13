@@ -69,9 +69,9 @@ dv_has_:
     ru: Хладнокровие
     tr: metanet
     zh: 内心宁静
-    zh-cn: 宁静
-    zh-hans: 宁静
-    zh-hant: 寧靜
+    zh_cn: 宁静
+    zh_hans: 宁静
+    zh_hant: 寧靜
 ---
 # [[Big5~E-Emotional_Stability]] 
 

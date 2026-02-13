@@ -149,7 +149,7 @@ dv_has_:
     bar: Franz Beckenbauer
     bcl: Franz Beckenbauer
     be: Франц Бэкенбаўэр
-    be-tarask: Франц Бэкенбаўэр
+    be_tarask: Франц Бэкенбаўэр
     bg: Франц Бекенбауер
     bi: Franz Beckenbauer
     bjn: Franz Beckenbauer
@@ -158,7 +158,7 @@ dv_has_:
     br: Franz Beckenbauer
     bs: Franz Beckenbauer
     ca: Franz Anton Beckenbauer
-    cbk-zam: Franz Beckenbauer
+    cbk_zam: Franz Beckenbauer
     cdo: Franz Beckenbauer
     ceb: Franz Beckenbauer
     ch: Franz Beckenbauer
@@ -167,14 +167,14 @@ dv_has_:
     ckb: فرانتس بێکنباوەر
     co: Franz Beckenbauer
     cr: Franz Beckenbauer
-    crh-latn: Franz Beckenbauer
+    crh_latn: Franz Beckenbauer
     cs: Franz Beckenbauer
     csb: Franz Beckenbauer
     cy: Franz Beckenbauer
     da: Franz Beckenbauer
     de: Franz Beckenbauer
     de-at: Franz Beckenbauer
-    de-ch: Franz Beckenbauer
+    de_ch: Franz Beckenbauer
     diq: Franz Beckenbauer
     dsb: Franz Beckenbauer
     dtp: Franz Beckenbauer
@@ -183,8 +183,8 @@ dv_has_:
     el: Φραντς Μπεκενμπάουερ
     eml: Franz Beckenbauer
     en: Franz Beckenbauer
-    en-ca: Franz Beckenbauer
-    en-gb: Franz Beckenbauer
+    en_ca: Franz Beckenbauer
+    en_gb: Franz Beckenbauer
     eo: Franz Beckenbauer
     es: Franz Beckenbauer
     et: Franz Beckenbauer
@@ -213,7 +213,7 @@ dv_has_:
     ha: Franz Beckenbauer
     hak: Franz Beckenbauer
     he: פרנץ בקנבאואר
-    hif-latn: Franz Beckenbauer
+    hif_latn: Franz Beckenbauer
     hil: Franz Beckenbauer
     ho: Franz Beckenbauer
     hr: Franz Beckenbauer
@@ -228,7 +228,7 @@ dv_has_:
     ie: Franz Beckenbauer
     ig: Franz Beckenbauer
     ik: Franz Beckenbauer
-    ike-latn: Franz Beckenbauer
+    ike_latn: Franz Beckenbauer
     ilo: Franz Beckenbauer
     io: Franz Beckenbauer
     is: Franz Beckenbauer
@@ -245,11 +245,11 @@ dv_has_:
     kg: Franz Beckenbauer
     ki: Franz Beckenbauer
     kk: Франц Беккенбауэр
-    kk-latn: Franz Beckenbauer
+    kk_latn: Franz Beckenbauer
     kk-tr: Franz Beckenbauer
     ko: 프란츠 베켄바워
     ksh: Franz Beckenbauer
-    ku-latn: Franz Beckenbauer
+    ku_latn: Franz Beckenbauer
     kw: Franz Beckenbauer
     la: Franciscus Beckenbauer
     lad: Franz Beckenbauer
@@ -279,7 +279,7 @@ dv_has_:
     nap: Franz Beckenbauer
     nb: Franz Beckenbauer
     nds: Franz Beckenbauer
-    nds-nl: Franz Beckenbauer
+    nds_nl: Franz Beckenbauer
     niu: Franz Beckenbauer
     nl: Franz Beckenbauer
     nn: Franz Beckenbauer
@@ -295,7 +295,7 @@ dv_has_:
     pl: Franz Beckenbauer
     pms: Franz Beckenbauer
     pt: Franz Beckenbauer
-    pt-br: Franz Beckenbauer
+    pt_br: Franz Beckenbauer
     qu: Franz Beckenbauer
     rm: Franz Beckenbauer
     ro: Franz Beckenbauer
@@ -315,7 +315,7 @@ dv_has_:
     sn: Franz Beckenbauer
     sq: Franz Beckenbauer
     sr: Франц Бекенбауер
-    sr-el: Franz Beckenbauer
+    sr_el: Franz Beckenbauer
     stq: Franz Beckenbauer
     su: Franz Beckenbauer
     sv: Franz Beckenbauer
@@ -342,9 +342,9 @@ dv_has_:
     yue: 碧根鮑華
     zea: Franz Beckenbauer
     zh: 弗朗茨·贝肯鲍尔
-    zh-cn: 弗朗茨·贝肯鲍尔
-    zh-hans: 弗朗茨·贝肯鲍尔
-    zh-tw: 法蘭茲·貝肯鮑爾
+    zh_cn: 弗朗茨·贝肯鲍尔
+    zh_hans: 弗朗茨·贝肯鲍尔
+    zh_tw: 法蘭茲·貝肯鮑爾
     zu: Franz Beckenbauer
 ---
 # [[Beckenbauer,Franz]] 

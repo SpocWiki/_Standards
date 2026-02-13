@@ -86,7 +86,7 @@ dv_has_:
     ast: Transición de fase
     az: faza keçidləri
     be: фазавы пераход
-    be-tarask: фазавы пераход
+    be_tarask: фазавы пераход
     bg: фазов преход
     bn: দশান্তর
     bs: fazni prelaz
@@ -117,11 +117,11 @@ dv_has_:
     it: transizione di fase
     ja: 相転移
     kk: фазалық өту
-    kk-arab: فازالىق ٴوتۋ
+    kk_arab: فازالىق ٴوتۋ
     kk-cn: فازالىق ٴوتۋ
-    kk-cyrl: фазалық өту
+    kk_cyrl: фазалық өту
     kk-kz: фазалық өту
-    kk-latn: fazalıq ötw
+    kk_latn: fazalıq ötw
     kk-tr: fazalıq ötw
     ko: 상전이
     lt: būsenos kitimas
@@ -148,8 +148,8 @@ dv_has_:
     sn: chirambo
     sq: Cikli shëndrrimit të gjendjeve aggregate
     sr: фазна трансформација
-    sr-ec: фазна трансформација
-    sr-el: fazna transformacija
+    sr_ec: фазна трансформација
+    sr_el: fazna transformacija
     sv: fasövergång
     ta: நிலை மாற்றம்
     tr: hal değişimi
@@ -159,12 +159,12 @@ dv_has_:
     wuu: 相变
     yue: 相變
     zh: 相變
-    zh-cn: 相变
-    zh-hans: 相变
-    zh-hant: 相變
-    zh-hk: 相變
-    zh-sg: 相变
-    zh-tw: 相變
+    zh_cn: 相变
+    zh_hans: 相变
+    zh_hant: 相變
+    zh_hk: 相變
+    zh_sg: 相变
+    zh_tw: 相變
 ---
 # [[Phase_Transition]] 
 

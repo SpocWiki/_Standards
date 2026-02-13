@@ -186,7 +186,7 @@ UMLS_CUI: C0022646
 Krugosvet_article_archived_: nauka_i_tehnika/biologiya/POCHKI.html
 dv_has_:
   name_:
-    aeb-arab: كلوة
+    aeb_arab: كلوة
     af: nier
     am: ኩላሊት
     an: rinyón
@@ -201,7 +201,7 @@ dv_has_:
     ban: Ginjal
     bcl: bato
     be: нырка
-    be-tarask: нырка
+    be_tarask: нырка
     bew: ginjel
     bg: бъбрек
     blk: ပွိုင်းဝွို့တောမ်ႏကျောက်ကပ်
@@ -211,7 +211,7 @@ dv_has_:
     bs: bubreg
     btm: ginjal
     ca: ronyó
-    cbk-zam: riñón
+    cbk_zam: riñón
     ckb: گورچیلە
     cr: ᒥᑎᐦᑎᐦᑯᐢ
     cs: ledvina
@@ -224,8 +224,8 @@ dv_has_:
     dv: ގުރުދާ
     el: νεφρός
     en: kidney
-    en-ca: kidney
-    en-gb: kidney
+    en_ca: kidney
+    en_gb: kidney
     eo: reno
     es: riñón
     et: neerud
@@ -264,7 +264,7 @@ dv_has_:
     ko: 콩팥
     ks: بۄکؤٹ
     ku: gurçik
-    ku-latn: gurçik
+    ku_latn: gurçik
     ky: бөйрөк
     la: ren
     lb: Nier
@@ -308,7 +308,7 @@ dv_has_:
     pnb: گردہ
     ps: پښتورګی
     pt: rim
-    pt-br: rim
+    pt_br: rim
     qu: wasa ruru
     rki: ကျောက်ကပ်
     ro: rinichi
@@ -333,7 +333,7 @@ dv_has_:
     sn: itsvo
     sq: veshka
     sr: бубрег
-    sr-ec: бубрег
+    sr_ec: бубрег
     st: diphio
     su: ginjal
     sv: njure
@@ -345,7 +345,7 @@ dv_has_:
     tl: bato
     tr: böbrek
     tt: бөер
-    tt-cyrl: бөер
+    tt_cyrl: бөер
     tyv: бүүрек
     udm: пекля
     ug: بۆرەك
@@ -366,9 +366,9 @@ dv_has_:
     yue: 腎
     za: iucij
     zh: 腎
-    zh-hans: 肾
-    zh-hant: 腎
-    zh-tw: 腎
+    zh_hans: 肾
+    zh_hant: 腎
+    zh_tw: 腎
     zu: izinso
 ---
 # [[Kidney]] 

@@ -127,7 +127,7 @@ dv_has_:
     ba: изгелек
     bcl: bansay
     be: цнота
-    be-tarask: цнота
+    be_tarask: цнота
     bg: добродетел
     bn: সদ্গুণ
     bo: ཀུན་སྤྱོད་བཟང་པོ།
@@ -144,8 +144,8 @@ dv_has_:
     dsb: pócnosć
     el: αρετή
     en: virtue
-    en-ca: virtue
-    en-gb: virtue
+    en_ca: virtue
+    en_gb: virtue
     eo: virto
     es: Virtud
     et: voorus
@@ -191,7 +191,7 @@ dv_has_:
     pl: cnota
     pms: Virtù
     pt: virtude
-    pt-br: virtude
+    pt_br: virtude
     ro: virtute
     ru: добродетель
     sa: गुणः
@@ -203,8 +203,8 @@ dv_has_:
     sl: vrlina
     sq: virtyt
     sr: врлина
-    sr-ec: врлина
-    sr-el: vrlina
+    sr_ec: врлина
+    sr_el: vrlina
     sv: dygd
     sw: adili
     ta: நல்லொழுக்கம்
@@ -212,7 +212,7 @@ dv_has_:
     th: คุณธรรม
     tr: erdem
     tt: игелек
-    tt-cyrl: игелек
+    tt_cyrl: игелек
     uk: чеснота
     ur: نیکی
     uz: fazilat
@@ -222,12 +222,12 @@ dv_has_:
     yi: מעלות
     yue: 美德
     zh: 美德
-    zh-cn: 美德
-    zh-hans: 美德
-    zh-hant: 美德
-    zh-hk: 美德
-    zh-sg: 美德
-    zh-tw: 美德
+    zh_cn: 美德
+    zh_hans: 美德
+    zh_hant: 美德
+    zh_hk: 美德
+    zh_sg: 美德
+    zh_tw: 美德
 ---
 # [[Virtue]] 
 

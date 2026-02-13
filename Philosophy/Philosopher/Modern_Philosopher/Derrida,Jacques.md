@@ -155,7 +155,7 @@ dv_has_:
     az: Jak Derrida
     bar: Jacques Derrida
     be: Жак Дэрыда
-    be-tarask: Жак Дэрыда
+    be_tarask: Жак Дэрыда
     bg: Жак Дерида
     bm: Jacques Derrida
     bn: জাক দেরিদা
@@ -168,12 +168,12 @@ dv_has_:
     da: Jacques Derrida
     de: Jacques Derrida
     de-at: Jacques Derrida
-    de-ch: Jacques Derrida
+    de_ch: Jacques Derrida
     ee: Jacques Derrida
     el: Ζακ Ντεριντά
     en: Jacques Derrida
-    en-ca: Jacques Derrida
-    en-gb: Jacques Derrida
+    en_ca: Jacques Derrida
+    en_gb: Jacques Derrida
     eo: Jacques Derrida
     es: Jacques Derrida
     et: Jacques Derrida
@@ -208,11 +208,11 @@ dv_has_:
     kab: Jacques Derrida
     kg: Jacques Derrida
     kk: Жак Деррида
-    kk-arab: جاك دەررىيدا
+    kk_arab: جاك دەررىيدا
     kk-cn: جاك دەررىيدا
-    kk-cyrl: Жак Деррида
+    kk_cyrl: Жак Деррида
     kk-kz: Жак Деррида
-    kk-latn: Jak Derrïda
+    kk_latn: Jak Derrïda
     kk-tr: Jak Derrïda
     kl: Jacques Derrida
     ko: 자크 데리다
@@ -233,7 +233,7 @@ dv_has_:
     nap: Jacques Derrida
     nb: Jacques Derrida
     nds: Jacques Derrida
-    nds-nl: Jacques Derrida
+    nds_nl: Jacques Derrida
     new: ज्याक डेरिडा
     nl: Jacques Derrida
     nn: Jacques Derrida
@@ -248,7 +248,7 @@ dv_has_:
     prg: Jacques Derrida
     ps: ژاک ديرېډا
     pt: Jacques Derrida
-    pt-br: Jacques Derrida
+    pt_br: Jacques Derrida
     qu: Jacques Derrida
     rgn: Jacques Derrida
     rm: Jacques Derrida
@@ -262,8 +262,8 @@ dv_has_:
     sl: Jacques Derrida
     sq: Jacques Derrida
     sr: Жак Дерида
-    sr-ec: Жак Дерида
-    sr-el: Jacques Derrida
+    sr_ec: Жак Дерида
+    sr_el: Jacques Derrida
     sv: Jacques Derrida
     sw: Jacques Derrida
     ta: ஜாக்கஸ் தெரிதா
@@ -282,12 +282,12 @@ dv_has_:
     xmf: ჟაკ დერიდა
     yue: 德希達
     zh: 雅克·德里达
-    zh-cn: 雅克·德里达
+    zh_cn: 雅克·德里达
     zh-hans: 雅克·德里达
-    zh-hant: 雅克·德里達
-    zh-hk: 雅克·德里達
-    zh-sg: 雅克·德里达
-    zh-tw: 雅克·德希達
+    zh_hant: 雅克·德里達
+    zh_hk: 雅克·德里達
+    zh_sg: 雅克·德里达
+    zh_tw: 雅克·德希達
     zu: Jacques Derrida
 ---
 # [[Derrida,Jacques]] 

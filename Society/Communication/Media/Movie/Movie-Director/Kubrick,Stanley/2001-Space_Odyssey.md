@@ -229,7 +229,7 @@ dv_has_:
     ast: '2001: A Space Odyssey'
     az: '2001: A Space Odyssey'
     be: Касмічная адысея 2001 года
-    be-tarask: '2001: Касьмічная адысэя'
+    be_tarask: '2001: Касьмічная адысэя'
     bg: '2001: Космическа одисея'
     bn: '২০০১: আ স্পেস অডিসি'
     br: 2001, A Space Odyssey
@@ -240,11 +240,11 @@ dv_has_:
     cy: '2001: A Space Odyssey'
     da: Rumrejsen år 2001
     de: '2001: Odyssee im Weltraum'
-    de-ch: '2001: Odyssee im Weltraum'
+    de_ch: '2001: Odyssee im Weltraum'
     el: '2001: Η Οδύσσεια του Διαστήματος'
     en: '2001: A Space Odyssey'
-    en-ca: '2001: A Space Odyssey'
-    en-gb: '2001: A Space Odyssey'
+    en_ca: '2001: A Space Odyssey'
+    en_gb: '2001: A Space Odyssey'
     en-us: '2001: A Space Odyssey'
     eo: '2001: A Space Odyssey'
     es: '2001: A Space Odyssey'
@@ -283,7 +283,7 @@ dv_has_:
     pa: '2001 : ਖਲਾਅ ਵਿਚ ਇੱਕ ਖੋਜ'
     pl: '2001: Odyseja kosmiczna'
     pt: '2001: Odisseia no Espaço'
-    pt-br: '2001: A Space Odyssey'
+    pt_br: '2001: A Space Odyssey'
     qu: '2001: A Space Odyssey'
     ro: '2001: O odisee spațială'
     ru: Космическая одиссея 2001 года
@@ -292,8 +292,8 @@ dv_has_:
     sk: '2001: Vesmírna odysea'
     sl: '2001: Vesoljska odiseja'
     sr: '2001: Одисеја у свемиру'
-    sr-ec: '2001: Одисеја у свемиру'
-    sr-el: '2001: Odiseja u svemiru'
+    sr_ec: '2001: Одисеја у свемиру'
+    sr_el: '2001: Odiseja u svemiru'
     sv: År 2001 – Ett rymdäventyr
     ta: '2001: ஏ ஸ்பேஸ் ஒடிசி (திரைப்படம்)'
     te: 2001 ఎ స్పేస్ ఒడిస్సీ
@@ -308,12 +308,12 @@ dv_has_:
     wuu: 2001太空漫游 (电影)
     yue: 2001太空漫遊
     zh: 2001太空漫遊
-    zh-cn: 2001太空漫游
-    zh-hans: 2001太空漫游
-    zh-hant: 2001太空漫遊
-    zh-hk: 2001太空漫遊
-    zh-sg: 2001太空漫游
-    zh-tw: 2001太空漫遊
+    zh_cn: 2001太空漫游
+    zh_hans: 2001太空漫游
+    zh_hant: 2001太空漫遊
+    zh_hk: 2001太空漫遊
+    zh_sg: 2001太空漫游
+    zh_tw: 2001太空漫遊
     zu: '2001: A Space Odyssey'
 ---
 # [[2001-Space_Odyssey]] 

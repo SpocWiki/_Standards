@@ -228,7 +228,7 @@ Wolfram_Language_entity_code:
 - Entity["Color", {"WolframLanguage", "Yellow"}]
 dv_has_:
   name_:
-    aeb-arab: أصفر
+    aeb_arab: أصفر
     af: geel
     am: ቢጫ
     an: Amariello
@@ -247,7 +247,7 @@ dv_has_:
     ban: Jenar
     bcl: Giyaw (kolor)
     be: жоўты колер
-    be-tarask: жоўты колер
+    be_tarask: жоўты колер
     bg: жълто
     bn: হলুদ
     bo: སེར་པོ།
@@ -274,8 +274,8 @@ dv_has_:
     dua: njabi
     el: κίτρινο
     en: yellow
-    en-ca: yellow
-    en-gb: yellow
+    en_ca: yellow
+    en_gb: yellow
     en-us: yellow
     eo: flavo
     es: amarillo
@@ -330,7 +330,7 @@ dv_has_:
     ks: لیۆدُر
     ksh: Jääl
     ku: zer
-    ku-latn: zer
+    ku_latn: zer
     kw: melyn
     la: Gilvus
     lad: Amariyo
@@ -345,7 +345,7 @@ dv_has_:
     lv: dzeltenā krāsa
     lzh: 黃
     mag: पीयर
-    map-bms: Kuning
+    map_bms: Kuning
     mdf: Тюжя
     mk: жолта
     ml: മഞ്ഞ
@@ -353,7 +353,7 @@ dv_has_:
     mni: ꯍꯪꯒꯥꯝꯄꯥꯟ
     mr: पिवळा
     ms: kuning
-    ms-arab: کونيڠ
+    ms_arab: کونيڠ
     mt: isfar
     my: အဝါရောင်
     myv: ожо
@@ -386,7 +386,7 @@ dv_has_:
     pnb: پیلا
     ps: زېړ
     pt: amarelo
-    pt-br: amarelo
+    pt_br: amarelo
     pwn: quljangaljangas
     qu: Q'illu
     ro: galben
@@ -415,8 +415,8 @@ dv_has_:
     so: Jaale
     sq: Ngjyra e verdhë
     sr: жута
-    sr-ec: жута
-    sr-el: žuta
+    sr_ec: жута
+    sr_el: žuta
     stq: Jeel
     su: Konéng
     sv: gul
@@ -434,7 +434,7 @@ dv_has_:
     tr: sarı
     ts: Xitshopana
     tt: сары
-    tt-cyrl: сары
+    tt_cyrl: сары
     tw: akokɔsradeɛ
     ty: re’are’a
     udm: ӵуж
@@ -456,14 +456,14 @@ dv_has_:
     yue: 黃
     za: Saekhenj
     zh: 黃色
-    zh-cn: 黄色
-    zh-hans: 黄色
-    zh-hant: 黃色
-    zh-hk: 黃色
-    zh-mo: 黃色
+    zh_cn: 黄色
+    zh_hans: 黄色
+    zh_hant: 黃色
+    zh_hk: 黃色
+    zh_mo: 黃色
     zh-my: 黄色
-    zh-sg: 黄色
-    zh-tw: 黃色
+    zh_sg: 黄色
+    zh_tw: 黃色
     zu: OPhuzi
 ---
 # [[Yellow]] 

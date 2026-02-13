@@ -17,7 +17,7 @@ dv_has_:
     bar: FIFA
     bcl: Internasyunal na Federasyon kan Asosasyon nin Futbol
     be: ФІФА
-    be-tarask: ФІФА
+    be_tarask: ФІФА
     bew: Serèkat Bola Tendang Antérobangsa
     bg: ФИФА
     bho: फीफा
@@ -34,14 +34,14 @@ dv_has_:
     cy: Ffederasiwn Rhyngwladol y Cymdeithasau Pêl-droed
     da: FIFA
     de: FIFA
-    de-ch: FIFA
+    de_ch: FIFA
     din: Fifa
     diq: FIFA
     dty: फिफा
     el: FIFA
     en: FIFA
-    en-ca: FIFA
-    en-gb: FIFA
+    en_ca: FIFA
+    en_gb: FIFA
     en-us: FIFA
     eo: FIFA
     es: FIFA
@@ -97,7 +97,7 @@ dv_has_:
     mn: ФИФА
     mr: फिफा
     ms: FIFA
-    ms-arab: فيفا
+    ms_arab: فيفا
     mt: FIFA
     mul: Fédération Internationale de Football Association
     my: ဖီဖာ
@@ -118,7 +118,7 @@ dv_has_:
     pnb: فیفا
     ps: فيفا
     pt: FIFA
-    pt-br: FIFA
+    pt_br: FIFA
     rm: FIFA
     ro: Fédération Internationale de Football Association
     ru: ФИФА
@@ -136,7 +136,7 @@ dv_has_:
     so: FIFA
     sq: FIFA
     sr: ФИФА
-    sr-ec: ФИФА
+    sr_ec: ФИФА
     su: FIFA
     sv: Fifa
     sw: FIFA
@@ -162,14 +162,14 @@ dv_has_:
     yue: 國際足球協會
     zgh: ⵜⴰⵎⵓⵏⵜ ⵜⴰⴳⵔⴰⵖⵍⴰⵏⵜ ⵏ ⵜⵛⴰⵎⵎⴰ ⵏ ⵓⴹⴰⵕ
     zh: 国际足球联合会
-    zh-cn: 国际足球联合会
-    zh-hans: 国际足球联合会
-    zh-hant: 國際足球總會
-    zh-hk: 國際足球協會
-    zh-mo: 國際足球協會
+    zh_cn: 国际足球联合会
+    zh_hans: 国际足球联合会
+    zh_hant: 國際足球總會
+    zh_hk: 國際足球協會
+    zh_mo: 國際足球協會
     zh-my: 国际足球联合会
-    zh-sg: 国际足球联合会
-    zh-tw: 國際足球總會
+    zh_sg: 国际足球联合会
+    zh_tw: 國際足球總會
 aliases:
 - Alþjóðaknattspyrnusambandið
 - Federasion Internasionałe de Bałon

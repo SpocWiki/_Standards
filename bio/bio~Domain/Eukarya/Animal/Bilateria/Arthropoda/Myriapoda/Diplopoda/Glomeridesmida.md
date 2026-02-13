@@ -37,7 +37,7 @@ dv_has_:
     oc: Glomeridesmida
     pl: Glomeridesmida
     pt: Glomeridesmida
-    pt-br: Glomeridesmida
+    pt_br: Glomeridesmida
     ro: Glomeridesmida
     ru: Glomeridesmida
     sq: Glomeridesmida
@@ -47,9 +47,9 @@ dv_has_:
     vo: Glomeridesmida
     war: Glomeridesmida
     zh: 球带马陆目
-    zh-cn: 球带马陆目
-    zh-hans: 球带马陆目
-    zh-tw: 扁形馬陸目
+    zh_cn: 球带马陆目
+    zh_hans: 球带马陆目
+    zh_tw: 扁形馬陸目
 ---
 # [[Glomeridesmus]]
 

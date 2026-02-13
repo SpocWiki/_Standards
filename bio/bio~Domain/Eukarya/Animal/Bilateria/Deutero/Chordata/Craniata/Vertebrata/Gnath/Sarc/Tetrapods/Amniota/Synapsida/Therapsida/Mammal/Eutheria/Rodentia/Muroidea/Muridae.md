@@ -116,7 +116,7 @@ dv_has_:
     ba: Сысҡандар
     ban: Bikul
     be: Мышыныя
-    be-tarask: мышы
+    be_tarask: мышы
     bew: Tikus
     bg: мишкови
     bs: Muridae
@@ -186,7 +186,7 @@ dv_has_:
     os: мыст
     pl: myszowate
     pt: Muridae
-    pt-br: Muridae
+    pt_br: Muridae
     qu: Chupasapa ukucha
     ro: Muridae
     ru: мышиные
@@ -214,9 +214,9 @@ dv_has_:
     xmf: ჭუკიშობურეფი
     yue: 鼠科
     zh: 鼠科
-    zh-cn: 鼠科
-    zh-hans: 鼠科
-    zh-tw: 鼠科
+    zh_cn: 鼠科
+    zh_hans: 鼠科
+    zh_tw: 鼠科
 ---
 # [[Muridae]] 
 

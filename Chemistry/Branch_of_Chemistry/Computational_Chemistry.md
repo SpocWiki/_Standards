@@ -88,7 +88,7 @@ dv_has_:
   name_:
     ar: كيمياء حاسوبية
     ast: Química computacional
-    be-tarask: вылічальная хімія
+    be_tarask: вылічальная хімія
     bg: Изчислителна химия
     bn: পরিগণনামূলক রসায়ন
     ca: química computacional

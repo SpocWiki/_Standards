@@ -145,7 +145,7 @@ dv_has_:
     az: Buqələmunkimilər
     bdr: belilik
     be: хамелеоны
-    be-tarask: хамэлеон
+    be_tarask: хамэлеон
     bg: хамелеонови
     bho: बिसखोपड़ा
     bjn: anguy
@@ -209,7 +209,7 @@ dv_has_:
     ln: Longónya
     lt: Chameleonai
     lv: Hameleoni
-    map-bms: Londok
+    map_bms: Londok
     mg: tarôndro
     mk: Камелеон
     ml: ഓന്ത്
@@ -229,7 +229,7 @@ dv_has_:
     pl: kameleonowate
     pnb: گرگٹ
     pt: Camaleão
-    pt-br: Chamaeleonidae
+    pt_br: Chamaeleonidae
     ro: Cameleon
     ru: хамелеоны
     rw: Uruwumvu
@@ -262,9 +262,9 @@ dv_has_:
     wuu: 变色龙
     yue: 變色龍
     zh: 避役科
-    zh-cn: 避役科
-    zh-hans: 避役科
-    zh-tw: 避役科
+    zh_cn: 避役科
+    zh_hans: 避役科
+    zh_tw: 避役科
 ---
 # [[Chamaeleon]] 
 

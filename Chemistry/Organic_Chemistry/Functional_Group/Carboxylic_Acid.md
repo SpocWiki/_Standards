@@ -210,7 +210,7 @@ dv_has_:
     azb: کربوکسیلیک اسید
     bcl: asidong karboksiliko
     be: карбонавая кіслота
-    be-tarask: карбонавая кісьля
+    be_tarask: карбонавая кісьля
     bg: карбоксилна киселина
     bn: কার্বক্সিলিক অ্যাসিড
     bs: karboksilne kiseline
@@ -244,11 +244,11 @@ dv_has_:
     ja: カルボン酸
     kab: azeffar akaṛbuksilin
     kk: карбон қышқылдары
-    kk-arab: كاربون قىشقىلدارى
+    kk_arab: كاربون قىشقىلدارى
     kk-cn: كاربون قىشقىلدارى
-    kk-cyrl: карбон қышқылдары
+    kk_cyrl: карбон қышқылдары
     kk-kz: карбон қышқылдары
-    kk-latn: karbon qışqıldarı
+    kk_latn: karbon qışqıldarı
     kk-tr: karbon qışqıldarı
     ko: 카복실산
     ky: карбон кислоталары
@@ -276,8 +276,8 @@ dv_has_:
     smn: karboksyylsuvrâ
     sq: derivatet karboksilike
     sr: карбоксилна киселина
-    sr-ec: карбоксилна киселина
-    sr-el: karboksilna kiselina
+    sr_ec: карбоксилна киселина
+    sr_el: karboksilna kiselina
     su: asam karboksilat
     sv: karboxylsyra
     ta: காபொட்சிலிக் அமிலம்
@@ -293,12 +293,12 @@ dv_has_:
     wuu: 羧酸
     yue: 羧酸
     zh: 羧酸
-    zh-cn: 羧酸
-    zh-hans: 羧酸
-    zh-hant: 羧酸
-    zh-hk: 羧酸
-    zh-sg: 羧酸
-    zh-tw: 羧酸
+    zh_cn: 羧酸
+    zh_hans: 羧酸
+    zh_hant: 羧酸
+    zh_hk: 羧酸
+    zh_sg: 羧酸
+    zh_tw: 羧酸
 dv_is_:
   same_as:
   - '[[../../../WikiData/WD~Carboxylic_acid,134856]]'

@@ -126,19 +126,19 @@ dv_has_:
     az: salmonellyozlar
     ba: Сальмонеллёз
     be: сальманелёз
-    be-tarask: сальманэлёз
+    be_tarask: сальманэлёз
     bg: Салмонелоза
     bn: সালমোনেলোসিস
     ca: salmonel·losi
     cs: salmonelóza
     da: Salmonellose
     de: Salmonellose
-    de-ch: Salmonellose
+    de_ch: Salmonellose
     dv: ކާނާ ވިހަވުން
     el: σαλμονέλωση
     en: salmonellosis
-    en-ca: Salmonellosis
-    en-gb: Salmonellosis
+    en_ca: Salmonellosis
+    en_gb: Salmonellosis
     eo: salmonelozo
     es: salmonelosis
     et: Salmonelloos
@@ -156,11 +156,11 @@ dv_has_:
     it: salmonellosi
     ja: サルモネラ症
     kk: Сальмонеллез
-    kk-arab: سالمونەللەز
+    kk_arab: سالمونەللەز
     kk-cn: سالمونەللەز
-    kk-cyrl: Сальмонеллез
+    kk_cyrl: Сальмонеллез
     kk-kz: Сальмонеллез
-    kk-latn: Salʹmonellez
+    kk_latn: Salʹmonellez
     kk-tr: Salʹmonellez
     ko: 살모넬라증
     ky: Сальмонеллез
@@ -172,7 +172,7 @@ dv_has_:
     or: ସାଲମୋନେଲୋସିସ
     pl: Salmonelloza
     pt: salmonelose
-    pt-br: Salmonelose
+    pt_br: Salmonelose
     ro: Salmoneloză
     ru: сальмонеллёз
     sah: Сальмонеллёз

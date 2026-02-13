@@ -137,7 +137,7 @@ dv_has_:
     azb: کؤک
     bar: Etymologie
     be: этымалогія
-    be-tarask: этымалёгія
+    be_tarask: этымалёгія
     bg: етимология
     bho: शब्दइतिहास
     bn: ব্যুৎপত্তি
@@ -151,12 +151,12 @@ dv_has_:
     cy: geirdarddiad
     da: etymologi
     de: Etymologie
-    de-ch: Etymologie
+    de_ch: Etymologie
     diq: etîmolojî
     el: ετυμολογία
     en: etymology science
-    en-ca: etymology
-    en-gb: etymology
+    en_ca: etymology
+    en_gb: etymology
     eo: etimologio
     es: etimología
     et: etümoloogia
@@ -209,7 +209,7 @@ dv_has_:
     ml: എറ്റിമോളജി
     mr: व्युत्पत्तिशास्त्र
     ms: etimologi
-    ms-arab: ايتيمولوݢي
+    ms_arab: ايتيمولوݢي
     mt: etimoloġija
     my: စကားဇာစ်မြစ်ပညာရပ်
     nan: gí-goân-ha̍k
@@ -227,7 +227,7 @@ dv_has_:
     pnb: اشتقاقیات
     ps: آرپوهنه
     pt: etimologia
-    pt-br: etimologia
+    pt_br: etimologia
     qu: rimapaqarinan yachay
     ro: etimologie
     ru: этимология
@@ -272,7 +272,7 @@ dv_has_:
     yue: 語源學
     zgh: ⵜⴰⵙⵏⴰⵣⵖⵓⵔⵜ
     zh: 语源学
-    zh-hans: 词源学
+    zh_hans: 词源学
 ---
 # [[Etymology]] 
 

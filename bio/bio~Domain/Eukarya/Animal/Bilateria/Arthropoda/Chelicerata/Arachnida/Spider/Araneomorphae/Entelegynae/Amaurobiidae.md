@@ -53,7 +53,7 @@ dv_has_:
     oc: Amaurobiidae
     pl: Amaurobiidae
     pt: Amaurobiidae
-    pt-br: Amaurobiidae
+    pt_br: Amaurobiidae
     ro: Amaurobiidae
     ru: пауки-амауробииды
     sk: Cedivkovité
@@ -65,9 +65,9 @@ dv_has_:
     vo: Amaurobiidae
     war: Amaurobiidae
     zh: 暗蛛科
-    zh-cn: 暗蛛科
-    zh-hans: 暗蛛科
-    zh-tw: 暗蛛科
+    zh_cn: 暗蛛科
+    zh_hans: 暗蛛科
+    zh_tw: 暗蛛科
 ---
 # [[Amaurobiidae]] 
 ![ ](Amaurobiidae/Amaurobius_ferox-8001.jpg) 

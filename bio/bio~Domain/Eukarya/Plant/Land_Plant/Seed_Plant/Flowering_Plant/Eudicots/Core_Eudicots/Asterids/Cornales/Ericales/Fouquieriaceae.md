@@ -55,7 +55,7 @@ dv_has_:
     oc: Fouquieria
     pl: Okotijo
     pt: Fouquieria
-    pt-br: Fouquieria
+    pt_br: Fouquieria
     ro: Fouquieria
     ru: Фукьерия
     sq: Fouquieria
@@ -67,12 +67,12 @@ dv_has_:
     war: Fouquieria
     yue: 福桂花科
     zh: 福桂树属
-    zh-cn: 福桂树属
-    zh-hans: 福桂树属
-    zh-hant: 福桂花科
-    zh-hk: 福桂花科
-    zh-sg: 福桂花科
-    zh-tw: 福桂花科
+    zh_cn: 福桂树属
+    zh_hans: 福桂树属
+    zh_hant: 福桂花科
+    zh_hk: 福桂花科
+    zh_sg: 福桂花科
+    zh_tw: 福桂花科
 ---
 # [[Fouquieriaceae]] 
 

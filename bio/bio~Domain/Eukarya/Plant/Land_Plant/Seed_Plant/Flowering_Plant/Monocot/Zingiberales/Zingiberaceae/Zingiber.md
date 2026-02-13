@@ -73,7 +73,7 @@ dv_has_:
     az: Zəncəfil
     azb: زنجفیل
     be: Імбір
-    be-tarask: імбір
+    be_tarask: імбір
     bg: джинджифил
     ca: Zingiber
     ce: Ӏамбар
@@ -104,7 +104,7 @@ dv_has_:
     ka: koja
     kbp: Wɩsɩ kɔyɛ
     kk: Жанжабіл
-    kk-cyrl: Імбір
+    kk_cyrl: Імбір
     ko: 생강속
     koi: Имбирь
     kv: Имбирь
@@ -121,7 +121,7 @@ dv_has_:
     os: Имбирь (зайæгой)
     pl: imbir
     pt: Zingiber
-    pt-br: Zingiber
+    pt_br: Zingiber
     ro: Zingiber
     ru: Имбирь
     sk: Ďumbier
@@ -137,9 +137,9 @@ dv_has_:
     wa: Djindjipe
     war: Zingiber
     zh: 姜属
-    zh-cn: 姜属
-    zh-hans: 姜属
-    zh-tw: 薑屬
+    zh_cn: 姜属
+    zh_hans: 姜属
+    zh_tw: 薑屬
 ---
 # [[Zingiber]] 
 

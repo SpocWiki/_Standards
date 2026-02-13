@@ -99,7 +99,7 @@ dv_has_:
     arz: اجيبوى
     bar: Ojibwe
     be: Аджыбвэ
-    be-tarask: аджыбвэі
+    be_tarask: аджыбвэі
     bg: Оджибуей
     bn: ওজিবুয়ে
     ca: Chippewa
@@ -107,10 +107,10 @@ dv_has_:
     cs: Odžibvejové
     da: Ojibwa
     de: Anishinabe
-    de-ch: Anishinabe
+    de_ch: Anishinabe
     en: Ojibwe
-    en-ca: Ojibwe
-    en-gb: Ojibwe
+    en_ca: Ojibwe
+    en_gb: Ojibwe
     eo: Oĝibvoj
     es: ojibwa
     eu: Ojibwa
@@ -137,7 +137,7 @@ dv_has_:
     pl: Odżibwejowie
     pnb: اوجیبوے
     pt: Ojíbuas
-    pt-br: Ojíbuas
+    pt_br: Ojíbuas
     ro: Ojibwe
     ru: Оджибве
     sl: Chippewa
@@ -151,9 +151,9 @@ dv_has_:
     vi: Ojibwe
     yue: Ojibwe
     zh: 奥吉布瓦人
-    zh-cn: 奥吉布瓦人
-    zh-hans: 奥吉布瓦人
-    zh-hant: 奧吉布瓦人
+    zh_cn: 奥吉布瓦人
+    zh_hans: 奥吉布瓦人
+    zh_hant: 奧吉布瓦人
 ---
 # [[Ojibwe]] 
 

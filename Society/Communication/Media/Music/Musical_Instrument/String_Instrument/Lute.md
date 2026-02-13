@@ -86,7 +86,7 @@ dv_has_:
     ast: llaúd
     az: Lyutnya
     be: лютня
-    be-tarask: лютня
+    be_tarask: лютня
     bg: Лютня
     ca: llaüt
     cs: loutna
@@ -120,7 +120,7 @@ dv_has_:
     kk: Лютня
     ko: 류트
     ku: ûd
-    ku-latn: ûd
+    ku_latn: ûd
     la: Testudo
     lij: Lœüdo
     lmo: Liütt
@@ -142,8 +142,8 @@ dv_has_:
     sk: lutna
     sl: lutnja
     sr: лаута
-    sr-ec: лаута
-    sr-el: lauta
+    sr_ec: лаута
+    sr_el: lauta
     sv: luta
     te: లూట్ (వీణ)
     th: ลูต
@@ -155,12 +155,12 @@ dv_has_:
     wuu: 鲁特琴
     yue: 詩琴
     zh: 魯特琴
-    zh-cn: 鲁特琴
-    zh-hans: 鲁特琴
-    zh-hant: 魯特琴
-    zh-hk: 魯特琴
-    zh-sg: 鲁特琴
-    zh-tw: 魯特琴
+    zh_cn: 鲁特琴
+    zh_hans: 鲁特琴
+    zh_hant: 魯特琴
+    zh_hk: 魯特琴
+    zh_sg: 鲁特琴
+    zh_tw: 魯特琴
 ---
 # [[Lute]] 
 

@@ -31,8 +31,8 @@ dv_has_:
     da: Qian Xuesen
     de: Qian Xuesen
     en: Qian Xuesen
-    en-ca: Qian Xuesen
-    en-gb: Qian Xuesen
+    en_ca: Qian Xuesen
+    en_gb: Qian Xuesen
     es: Qian Xuesen
     et: Qian Xuesen
     eu: Qian Xuesen
@@ -60,7 +60,7 @@ dv_has_:
     nn: Qian Xueshen
     pl: Qian Xuesen
     pt: Qian Xuesen
-    pt-br: Qian Xuesen
+    pt_br: Qian Xuesen
     ru: Цянь Сюэсэнь
     sah: Цянь Сюэсэнь
     sq: Qian Xuesen
@@ -69,12 +69,12 @@ dv_has_:
     vi: Tiền Học Sâm
     yue: 錢學森
     zh: 钱学森
-    zh-cn: 钱学森
-    zh-hans: 钱学森
-    zh-hant: 錢學森
-    zh-hk: 錢學森
-    zh-sg: 钱学森
-    zh-tw: 錢學森
+    zh_cn: 钱学森
+    zh_hans: 钱学森
+    zh_hant: 錢學森
+    zh_hk: 錢學森
+    zh_sg: 钱学森
+    zh_tw: 錢學森
   time_:
     started: 1911-12-11T00:00:00.000+01:00
     stopped: 2009-10-31T00:00:00.000+01:00

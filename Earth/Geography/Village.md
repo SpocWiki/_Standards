@@ -248,7 +248,7 @@ dv_is_same_as:
 dv_has_:
   name_:
     ady: къуаджэ
-    aeb-arab: دشرة
+    aeb_arab: دشرة
     af: dorp
     ak: Akuraase
     an: Lugar
@@ -266,7 +266,7 @@ dv_has_:
     bar: Dorf
     bbc: Huta
     be: сяло
-    be-tarask: сяло
+    be_tarask: сяло
     bg: село
     bho: गाँव
     bjn: Disa
@@ -289,13 +289,13 @@ dv_has_:
     da: landsby
     dag: tiŋkpaŋa
     de: Dorf
-    de-ch: Dorf
+    de_ch: Dorf
     diq: Dewe
     dsb: wjas
     el: χωριό
     eml: Burghêda
     en: village
-    en-gb: village
+    en_gb: village
     en-us: village
     eo: vilaĝo
     es: pueblo
@@ -349,7 +349,7 @@ dv_has_:
     ks: گام
     ksh: Dörp
     ku: gund
-    ku-latn: gund
+    ku_latn: gund
     kv: грезд
     kw: gwig
     ky: айыл
@@ -367,7 +367,7 @@ dv_has_:
     lzh: 村莊
     mad: Disah
     mag: गाँओ
-    map-bms: Desa
+    map_bms: Desa
     mcn: wúrùna
     mdf: веле
     mhr: ял
@@ -377,7 +377,7 @@ dv_has_:
     mni: ꯈꯨꯡꯒꯪ
     mr: गाव
     ms: kampung
-    ms-arab: کامڤوڠ
+    ms_arab: کامڤوڠ
     mt: villaġġ
     my: ရွာ
     myv: веле
@@ -386,7 +386,7 @@ dv_has_:
     nan: Chng-thâu
     nb: landsby
     nds: Dörp
-    nds-nl: darp
+    nds_nl: darp
     ne: गाउँ
     new: गां
     nl: dorp
@@ -403,7 +403,7 @@ dv_has_:
     pnb: پنڈ
     ps: کلی
     pt: aldeia
-    pt-br: aldeia
+    pt_br: aldeia
     qu: Uchuy llaqta
     rmf: gau
     rmy: gav
@@ -430,7 +430,7 @@ dv_has_:
     so: Tuulo
     sq: fshat
     sr: село
-    sr-ec: Село
+    sr_ec: Село
     su: Désa
     sv: samhälle
     sw: Kijiji
@@ -438,13 +438,13 @@ dv_has_:
     ta: கிராமம்
     te: గ్రామం
     tg: деҳа
-    tg-cyrl: русто
+    tg_cyrl: русто
     th: หมู่บ้าน
     tl: Nayon
     tr: köy
     tt: aвыл
-    tt-cyrl: aвыл
-    tt-latn: awıl
+    tt_cyrl: aвыл
+    tt_latn: awıl
     tum: Chikaya
     tyv: Көдээ суур
     udm: черкогурт
@@ -465,14 +465,14 @@ dv_has_:
     zea: Durp
     zgh: ⴰⵙⵓⵏ
     zh: 村
-    zh-cn: 村
-    zh-hans: 村
-    zh-hant: 村
-    zh-hk: 村
-    zh-mo: 村
+    zh_cn: 村
+    zh_hans: 村
+    zh_hant: 村
+    zh_hk: 村
+    zh_mo: 村
     zh-my: 村
-    zh-sg: 村
-    zh-tw: 村
+    zh_sg: 村
+    zh_tw: 村
     zu: Idolobha
 ---
 # [[Village]] 

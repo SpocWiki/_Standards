@@ -80,18 +80,18 @@ dv_has_:
     ar: الاتحاد الاقتصادي والنقدي للاتحاد الأوروبي
     ast: Unión Económica y Monetaria de la Unión Europea
     be: Эканамічны і валютны саюз Еўрапейскага Саюза
-    be-tarask: эканамічны і валютны зьвяз Эўрапейскага Зьвязу
+    be_tarask: эканамічны і валютны зьвяз Эўрапейскага Зьвязу
     bg: Икономически и паричен съюз на Европейския съюз
     bs: Evropska monetarna unija
     ca: Unió monetària i econòmica
     cs: Evropská měnová unie
     da: ØMU
     de: Europäische Wirtschafts- und Währungsunion
-    de-ch: Europäische Wirtschafts- und Währungsunion
+    de_ch: Europäische Wirtschafts- und Währungsunion
     el: Οικονομική και Νομισματική Ένωση
     en: Economic and Monetary Union of the European Union
-    en-ca: Economic and Monetary Union of the European Union
-    en-gb: Economic and Monetary Union of the European Union
+    en_ca: Economic and Monetary Union of the European Union
+    en_gb: Economic and Monetary Union of the European Union
     eo: Ekonomia kaj Mona Unio de Eŭropa Unio
     es: Unión Económica y Monetaria de la Unión Europea
     et: Euroopa Liidu majandus- ja rahaliit
@@ -129,12 +129,12 @@ dv_has_:
     uk: Економічний і монетарний союз Європейського Союзу
     vec: Union econòmega e monedària de l'Union eoropea
     zh: 歐洲聯盟經濟暨貨幣聯盟
-    zh-cn: 欧洲联盟经济暨货币联盟
-    zh-hans: 欧洲联盟经济暨货币联盟
-    zh-hant: 歐洲聯盟經濟暨貨幣聯盟
-    zh-hk: 歐洲聯盟經濟暨貨幣聯盟
-    zh-sg: 欧洲联盟经济暨货币联盟
-    zh-tw: 歐洲聯盟經濟暨貨幣聯盟
+    zh_cn: 欧洲联盟经济暨货币联盟
+    zh_hans: 欧洲联盟经济暨货币联盟
+    zh_hant: 歐洲聯盟經濟暨貨幣聯盟
+    zh_hk: 歐洲聯盟經濟暨貨幣聯盟
+    zh_sg: 欧洲联盟经济暨货币联盟
+    zh_tw: 歐洲聯盟經濟暨貨幣聯盟
 ---
 # [[Economic_and_Monetary_Union_of_the_European_Union]] 
 

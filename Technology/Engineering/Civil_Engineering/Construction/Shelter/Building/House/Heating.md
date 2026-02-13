@@ -54,7 +54,7 @@ dv_has_:
     ar: تسخين
     ba: йылытыу
     be: нагрэў
-    be-tarask: награваньне
+    be_tarask: награваньне
     bn: উষ্ণায়ন
     ca: escalfament
     cs: ohřívání
@@ -82,10 +82,10 @@ dv_has_:
     sr: загревање
     sv: uppvärmning
     tt: җылыну
-    tt-cyrl: җылыну
+    tt_cyrl: җылыну
     uk: підігрів
     zh: 加热
-    zh-hans: 加热
+    zh_hans: 加热
 ---
 # [[Heating]] 
 

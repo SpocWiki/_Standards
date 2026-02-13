@@ -358,7 +358,7 @@ dv_has_:
     bar: Gschwindigkeit
     bcl: Belosidad
     be: скорасць
-    be-tarask: хуткасьць
+    be_tarask: хуткасьць
     bg: Скорост
     bho: वेग
     bn: গতিবেগ
@@ -375,11 +375,11 @@ dv_has_:
     cy: cyflymder
     da: hastighed
     de: Geschwindigkeitsvektor
-    de-ch: Geschwindigkeit
+    de_ch: Geschwindigkeit
     el: ταχύτητα
     en: velocity
-    en-ca: Velocity
-    en-gb: velocity
+    en_ca: Velocity
+    en_gb: velocity
     eo: vektora rapido
     es: velocidad
     et: kiirus
@@ -433,7 +433,7 @@ dv_has_:
     mn: Хурд
     mr: वेग
     ms: halaju
-    ms-arab: هالاجو
+    ms_arab: هالاجو
     my: အလျင်
     myv: Молевкс
     nan: Sok-tō͘
@@ -449,7 +449,7 @@ dv_has_:
     pms: Andi
     pnb: ولاسٹی
     pt: velocidade
-    pt-br: velocidade
+    pt_br: velocidade
     qu: Utqa kay
     rki: အလျင်
     ro: viteză
@@ -467,7 +467,7 @@ dv_has_:
     sn: Muchacha
     sq: shpejtësia
     sr: брзина
-    sr-ec: брзина
+    sr_ec: брзина
     sv: hastighet
     sw: Kasimwelekeo
     ta: திசைவேகம்
@@ -477,7 +477,7 @@ dv_has_:
     tl: belosidad
     tr: hız
     tt: тизлек
-    tt-cyrl: тизлек
+    tt_cyrl: тизлек
     udm: ӝоглык
     uk: швидкість
     ur: سمتار

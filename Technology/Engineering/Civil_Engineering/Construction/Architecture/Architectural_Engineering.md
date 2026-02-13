@@ -82,13 +82,13 @@ dv_has_:
     ar: هندسة معمارية
     ast: inxeniería de la edificación
     be: архітэктурная інжынерыя
-    be-tarask: архітэктурная інжынэрыя
+    be_tarask: архітэктурная інжынэрыя
     bn: স্থাপত্য প্রকৌশল
     ca: enginyeria de la construcció
     de: Bauwesen
     en: architectural engineering
-    en-ca: architectural engineering
-    en-gb: architectural engineering
+    en_ca: architectural engineering
+    en_gb: architectural engineering
     eo: arkitektura inĝenerio
     es: ingeniería de la edificación
     eu: Arkitektura ingeniaritza
@@ -117,8 +117,8 @@ dv_has_:
     se: huksenteknihkka
     sl: gradbena industrija
     sr: архитектонско инжењерство
-    sr-ec: високоградња
-    sr-el: visokogradnja
+    sr_ec: високоградња
+    sr_el: visokogradnja
     stq: Baukunde
     sv: byggnadsplanering
     ta: கட்டகக்கவின் பொறியியல்
@@ -131,10 +131,10 @@ dv_has_:
     war: Inhenyerya nga arkitektural
     yue: 建築工程學
     zh: 建筑工程
-    zh-cn: 建设业
-    zh-hans: 建筑工程
-    zh-hant: 建設業
-    zh-hk: 建築工程
+    zh_cn: 建设业
+    zh_hans: 建筑工程
+    zh_hant: 建設業
+    zh_hk: 建築工程
 ---
 # [[Architectural_Engineering]] 
 

@@ -79,7 +79,7 @@ dv_has_:
     ar: اللوز
     ast: Prunus amygdalus
     az: Adi badam
-    be-tarask: мігдалы звычайныя
+    be_tarask: мігдалы звычайныя
     bg: Prunus amygdalus
     ca: ametller
     ceb: Prunus amygdalus
@@ -116,7 +116,7 @@ dv_has_:
     oc: Prunus amygdalus
     pl: Prunus amygdalus
     pt: Prunus amygdalus
-    pt-br: Prunus amygdalus
+    pt_br: Prunus amygdalus
     ro: Prunus amygdalus
     ru: Миндаль обыкновенный
     sl: Prunus amygdalus
@@ -130,9 +130,9 @@ dv_has_:
     vo: Prunus amygdalus
     war: Prunus amygdalus
     zh: 扁桃
-    zh-cn: 扁桃
-    zh-hans: 扁桃
-    zh-tw: 扁桃
+    zh_cn: 扁桃
+    zh_hans: 扁桃
+    zh_tw: 扁桃
 ---
 # [[Almond]] 
 

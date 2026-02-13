@@ -86,7 +86,7 @@ dv_has_:
     az: ombudsman
     bcl: Ombudsman
     be: омбудсман
-    be-tarask: омбудсман
+    be_tarask: омбудсман
     bg: Омбудсман
     bn: ন্যায়পাল
     ca: síndic de greuges
@@ -96,8 +96,8 @@ dv_has_:
     de: Ombudsmann
     el: Συνήγορος του Πολίτη
     en: ombudsman
-    en-ca: Ombudsman
-    en-gb: ombudsman
+    en_ca: Ombudsman
+    en_gb: ombudsman
     en-us: ombudsperson
     eo: ombudsmano
     es: defensor del pueblo
@@ -118,11 +118,11 @@ dv_has_:
     ja: オンブズマン
     kaa: Ombudsman
     kk: Омбудсмен
-    kk-arab: ومبۋدسمەن
+    kk_arab: ومبۋدسمەن
     kk-cn: ومبۋدسمەن
-    kk-cyrl: Омбудсмен
+    kk_cyrl: Омбудсмен
     kk-kz: Омбудсмен
-    kk-latn: Ombwdsmen
+    kk_latn: Ombwdsmen
     kk-tr: Ombwdsmen
     ko: 옴부즈만
     ky: Омбудсмен
@@ -141,7 +141,7 @@ dv_has_:
     pap-aw: ombudsman
     pl: ombudsman
     pt: ouvidor
-    pt-br: Ombudsman
+    pt_br: Ombudsman
     ro: ombudsman
     ru: омбудсмен
     se: áittardeaddji
@@ -153,8 +153,8 @@ dv_has_:
     sms: äʹššooumaž
     sq: Avokati i Popullit
     sr: омбудсман
-    sr-ec: омбудсман
-    sr-el: ombudsman
+    sr_ec: омбудсман
+    sr_el: ombudsman
     sv: ombudsman
     ta: குறைகேள் அதிகாரி
     tg: Додовар
@@ -168,12 +168,12 @@ dv_has_:
     wuu: 申诉专员
     yue: 申訴專員
     zh: 申訴專員
-    zh-cn: 申诉专员
-    zh-hans: 申诉专员
-    zh-hant: 申訴專員
-    zh-hk: 申訴專員
-    zh-sg: 申诉专员
-    zh-tw: 申訴專員
+    zh_cn: 申诉专员
+    zh_hans: 申诉专员
+    zh_hant: 申訴專員
+    zh_hk: 申訴專員
+    zh_sg: 申诉专员
+    zh_tw: 申訴專員
 ---
 # [[Ombudsman]] 
 

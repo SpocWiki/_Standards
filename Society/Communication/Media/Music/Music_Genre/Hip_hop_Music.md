@@ -123,7 +123,7 @@ dv_has_:
     ba: Хип-хоп
     bar: Hip Hop
     be: хіп-хоп
-    be-tarask: гіп-гоп
+    be_tarask: гіп-гоп
     bg: хип-хоп
     bn: হিপ হপ সঙ্গীত
     br: Hip hop
@@ -137,7 +137,7 @@ dv_has_:
     de: Hip-Hop
     el: χιπ χοπ
     en: hip-hop
-    en-gb: hip hop
+    en_gb: hip hop
     eo: hiphopo
     es: hip-hop
     et: hiphop
@@ -177,7 +177,7 @@ dv_has_:
     kn: ಹಿಪ್ ಹಾಪ್ ಸಂಗೀತ
     ko: 힙합 음악
     ku: muzîka hîp-hop
-    ku-latn: muzîka hîp-hop
+    ku_latn: muzîka hîp-hop
     kw: hipp-hopp
     la: Musica hiphop
     lb: Hip-Hop
@@ -193,7 +193,7 @@ dv_has_:
     nan: Hip hop
     nb: hiphop
     nds: Hip-Hop
-    nds-nl: hiphop
+    nds_nl: hiphop
     nl: hiphop
     nn: hiphop
     oc: Hip-hop
@@ -204,7 +204,7 @@ dv_has_:
     pl: hip-hop
     pnb: ہپ ہاپ موسیقی
     pt: hip hop
-    pt-br: Hip hop
+    pt_br: Hip hop
     rmy: Hip hop
     ro: hip-hop
     ru: хип-хоп
@@ -233,7 +233,7 @@ dv_has_:
     tok: kalama musi Ipope
     tr: hip-hop müziği
     tt: һип-һоп
-    tt-cyrl: һип-һоп
+    tt_cyrl: һип-һоп
     udm: хип-хоп
     uk: гіпгоп
     ur: ہپ ہاپ موسیقی
@@ -248,7 +248,7 @@ dv_has_:
     yo: Orin hip hop
     yue: Hip hop
     zh: 嘻哈音樂
-    zh-hant: 嘻哈音樂
+    zh_hant: 嘻哈音樂
 ---
 # [[Hip_hop_Music]] 
 

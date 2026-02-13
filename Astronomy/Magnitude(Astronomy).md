@@ -78,7 +78,7 @@ dv_has_:
     ast: magnitú
     ba: Йондоҙ дәүмәле
     be: зорная велічыня
-    be-tarask: зорная велічыня
+    be_tarask: зорная велічыня
     bg: звездна величина
     bs: magnituda
     ca: magnitud
@@ -89,8 +89,8 @@ dv_has_:
     de: Magnitude
     el: μέγεθος
     en: magnitude
-    en-ca: magnitude
-    en-gb: magnitude
+    en_ca: magnitude
+    en_gb: magnitude
     es: magnitud
     eu: magnitude
     fa: قدر
@@ -117,7 +117,7 @@ dv_has_:
     oc: magnitud
     pl: wielkość gwiazdowa
     pt: magnitude
-    pt-br: magnitude
+    pt_br: magnitude
     ro: magnitudine
     ru: звёздная величина
     sh: magnituda

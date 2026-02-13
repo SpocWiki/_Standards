@@ -16,7 +16,7 @@ dv_has_:
     ab: Чехиа
     ace: Rèpublik Cèkô
     ady: Чехие
-    aeb-arab: تشيكيا
+    aeb_arab: تشيكيا
     af: Tsjeggië
     am: ቼክ ሪፐብሊክ
     ami: Czechia
@@ -42,7 +42,7 @@ dv_has_:
     bar: Tschechische Republik
     bcl: Tsekang Republika
     be: Чэхія
-    be-tarask: Чэхія
+    be_tarask: Чэхія
     bew: Cèki
     bg: Чехия
     bgn: جمهوری چیک
@@ -55,7 +55,7 @@ dv_has_:
     bs: Češka
     bxr: Чех
     ca: Txèquia
-    cbk-zam: Chequia
+    cbk_zam: Chequia
     cdo: Ciék-káik
     ce: Чехи
     ceb: Tsekya
@@ -65,7 +65,7 @@ dv_has_:
     ckb: کۆماری چیک
     co: Cechia
     crh: Çehiya
-    crh-latn: Çehiya
+    crh_latn: Çehiya
     cs: Česko
     csb: Czeskô Repùblika
     cu: Чєшьско
@@ -75,7 +75,7 @@ dv_has_:
     dag: Czech Republic
     de: Tschechien
     de-at: Tschechien
-    de-ch: Tschechien
+    de_ch: Tschechien
     diq: Çekya
     dsb: Česka
     dty: चेक गणतन्त्र
@@ -85,8 +85,8 @@ dv_has_:
     el: Τσεχία
     eml: Repùblica Céca
     en: Czech Republic
-    en-ca: Czech Republic
-    en-gb: Czech Republic
+    en_ca: Czech Republic
+    en_gb: Czech Republic
     en-us: Czech Republic
     eo: Ĉeĥio
     es: República Checa
@@ -182,7 +182,7 @@ dv_has_:
     lv: Čehija
     lzh: 捷克
     mad: Ceko
-    map-bms: Ceko
+    map_bms: Ceko
     mdf: Чехмастор
     mg: Tsekia
     mhr: Чехий
@@ -206,7 +206,7 @@ dv_has_:
     nap: Repubbreca Ceca
     nb: Tsjekkia
     nds: Tschechien
-    nds-nl: Tsjechie
+    nds_nl: Tsjechie
     ne: चेक गणतन्त्र
     new: चेक गणतन्त्र
     nl: Tsjechië
@@ -236,7 +236,7 @@ dv_has_:
     pnt: Τσεχία
     ps: چېک جمهوريت
     pt: Chéquia
-    pt-br: Tchéquia
+    pt_br: Tchéquia
     qu: Chiksuyu
     rki: ချက်သမ္မတနိုင်ငံ
     rm: Tschechia
@@ -270,8 +270,8 @@ dv_has_:
     so: Jamhuuriyadda Tashik
     sq: Republika Çeke
     sr: Чешка
-    sr-ec: Чешка
-    sr-el: Češka
+    sr_ec: Чешка
+    sr_el: Češka
     srn: Tsjekikondre
     ss: Shekhi
     st: Czechia
@@ -324,11 +324,11 @@ dv_has_:
     zea: Tsjehhië
     zgh: ⵜⴰⴳⴷⵓⴷⴰ ⵏ ⵜⵛⵉⴽ
     zh: 捷克
-    zh-cn: 捷克
-    zh-hans: 捷克
-    zh-hant: 捷克
-    zh-hk: 捷克
-    zh-tw: 捷克
+    zh_cn: 捷克
+    zh_hans: 捷克
+    zh_hant: 捷克
+    zh_hk: 捷克
+    zh_tw: 捷克
     zu: ITsheki
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Czech_Republic

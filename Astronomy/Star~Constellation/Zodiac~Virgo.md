@@ -139,7 +139,7 @@ dv_has_:
     bbc: Hania
     bcl: Virgo (konstelasyon)
     be: Дзева
-    be-tarask: Дзева
+    be_tarask: Дзева
     bg: Дева
     bn: কন্যা
     bo: བུ་མོའི་སྐར་ཚོམ་

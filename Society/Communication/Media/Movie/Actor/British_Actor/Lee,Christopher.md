@@ -47,13 +47,13 @@ dv_has_:
     bar: Christopher Lee
     bcl: Christopher Lee
     be: Крістафер Лі
-    be-tarask: Крыстафэр Лі
+    be_tarask: Крыстафэр Лі
     bg: Кристофър Лий
     bjn: Christopher Lee
     bn: ক্রিস্টোফার লী
     br: Christopher Lee
     ca: Christopher Lee
-    cbk-zam: Christopher Lee
+    cbk_zam: Christopher Lee
     ckb: کریستۆفەر لی
     co: Christopher Lee
     cs: Christopher Lee
@@ -62,13 +62,13 @@ dv_has_:
     dag: Christopher Lee
     de: Christopher Lee
     de-at: Christopher Lee
-    de-ch: Christopher Lee
+    de_ch: Christopher Lee
     diq: Christopher Lee
     dsb: Christopher Lee
     el: Κρίστοφερ Λι
     en: Christopher Lee
-    en-ca: Christopher Lee
-    en-gb: Christopher Lee
+    en_ca: Christopher Lee
+    en_gb: Christopher Lee
     eo: Christopher Lee
     es: Christopher Lee
     et: Christopher Lee
@@ -125,7 +125,7 @@ dv_has_:
     nap: Christopher Lee
     nb: Christopher Lee
     nds: Christopher Lee
-    nds-nl: Christopher Lee
+    nds_nl: Christopher Lee
     nl: Christopher Lee
     nn: Christopher Lee
     nov: Christopher Lee
@@ -139,7 +139,7 @@ dv_has_:
     pms: Christopher Lee
     ps: کریسټوفر لي
     pt: Christopher Lee
-    pt-br: Christopher Lee
+    pt_br: Christopher Lee
     qu: Christopher Lee
     rm: Christopher Lee
     ro: Christopher Lee
@@ -153,8 +153,8 @@ dv_has_:
     sl: Christopher Lee
     sq: Christopher Lee
     sr: Кристофер Ли
-    sr-ec: Кристофер Ли
-    sr-el: Kristofer Li
+    sr_ec: Кристофер Ли
+    sr_el: Kristofer Li
     su: Christopher Lee
     sv: Christopher Lee
     sw: Christopher Lee
@@ -163,7 +163,7 @@ dv_has_:
     tpi: Christopher Lee
     tr: Christopher Lee
     tt: Кристофер Ли
-    tt-cyrl: Кристофер Ли
+    tt_cyrl: Кристофер Ли
     uk: Крістофер Лі
     ur: کرسٹوفر لی
     uz: Christopher Lee
@@ -179,12 +179,12 @@ dv_has_:
     yo: Christopher Lee
     yue: 古列斯托化·李
     zh: 克里斯多福·李
-    zh-cn: 克里斯托弗·李
-    zh-hans: 克里斯托弗·李
-    zh-hant: 克里斯多福·李
-    zh-hk: 基斯杜化·李
+    zh_cn: 克里斯托弗·李
+    zh_hans: 克里斯托弗·李
+    zh_hant: 克里斯多福·李
+    zh_hk: 基斯杜化·李
     zh-my: 克里斯多福·李
-    zh-tw: 克里斯多福·李
+    zh_tw: 克里斯多福·李
     zu: Christopher Lee
 ---
 # [[Lee,Christopher]] 

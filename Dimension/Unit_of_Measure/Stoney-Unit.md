@@ -8,7 +8,7 @@ dv_has_:
     la: Unitates Stoneyanae
     ru: Стоуниевские единицы
     zh: 史東納單位制
-    zh-hant: 史東納單位制
+    zh_hant: 史東納單位制
 aliases:
 - Stoney units
 - Unitates Stoneyanae

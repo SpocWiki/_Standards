@@ -58,7 +58,7 @@ dv_has_:
     af: Commedia dell'arte
     ar: ملهاة مرتجلة
     ast: Comedia del arte
-    be-tarask: камэдыя дэль артэ
+    be_tarask: камэдыя дэль артэ
     bg: Комедия дел арте
     bo: ཀོ་མེ་དི་ཡ་དེལ་ཨར་ཏེ།
     ca: Commedia dell'arte
@@ -104,16 +104,16 @@ dv_has_:
     sk: Commedia dell’Arte
     sl: commedia dell'arte
     sr: комедија дел арте
-    sr-ec: комедија дел арте
-    sr-el: komedija del arte
+    sr_ec: комедија дел арте
+    sr_el: komedija del arte
     sv: commedia dell'arte
     tr: commedia dell'arte
     uk: Комедія дель арте
     vi: Commedia dell'arte
     yue: 意大利即興喜劇
     zh: 義大利即興喜劇
-    zh-hant: 義大利即興喜劇
-    zh-tw: 義大利即興喜劇
+    zh_hant: 義大利即興喜劇
+    zh_tw: 義大利即興喜劇
 ---
 # [[Commedia_dell'arte]] 
 

@@ -170,7 +170,7 @@ dv_has_:
     bar: Schauspuia
     bcl: aktor
     be: акцёр
-    be-tarask: актор
+    be_tarask: актор
     bew: tukang lakon
     bg: актьор
     bho: एक्टर
@@ -184,7 +184,7 @@ dv_has_:
     chr: ᎠᏛᏁᎵᏍᎩ
     ckb: ئەکتەر
     crh: aktör
-    crh-latn: aktör
+    crh_latn: aktör
     cs: herec
     cv: актёр
     cy: actor
@@ -192,13 +192,13 @@ dv_has_:
     dag: kpɛrikpɛrita
     de: Schauspieler
     de-at: Schauspieler
-    de-ch: Schauspieler
+    de_ch: Schauspieler
     diq: kayker
     dty: अभिनेता
     el: ηθοποιός
     en: actor
-    en-ca: actor
-    en-gb: actor
+    en_ca: actor
+    en_gb: actor
     en-us: actor
     eo: aktoro
     es: actor
@@ -255,7 +255,7 @@ dv_has_:
     ks: اَداکار
     ksh: Schauspeller
     ku: lîstikvan
-    ku-latn: lîstikvan
+    ku_latn: lîstikvan
     kw: gwarier
     ky: актер
     la: actor
@@ -268,7 +268,7 @@ dv_has_:
     lv: aktieris
     lzh: 優伶
     mai: अभिनेता
-    map-bms: aktor
+    map_bms: aktor
     mdf: налхкись
     mg: mpilalao
     mhr: актёр
@@ -280,7 +280,7 @@ dv_has_:
     mni: ꯃꯃꯤꯔꯣꯏ
     mr: अभिनेता
     ms: pelakon
-    ms-arab: ڤلاکون
+    ms_arab: ڤلاکون
     mt: attur
     mwl: ator
     my: သရုပ်ဆောင်
@@ -290,7 +290,7 @@ dv_has_:
     nan-hant: 演員
     nb: skuespiller
     nds: Schauspeler
-    nds-nl: akteur
+    nds_nl: akteur
     ne: अभिनेता
     nl: acteur
     nn: skodespelar
@@ -306,7 +306,7 @@ dv_has_:
     pnb: اداکار
     ps: لوبگر
     pt: ator
-    pt-br: ator
+    pt_br: ator
     qu: aranway pukllaq
     ro: actor
     ru: актёр
@@ -333,8 +333,8 @@ dv_has_:
     so: jilaa
     sq: aktor
     sr: глумац
-    sr-ec: глумац
-    sr-el: glumac
+    sr_ec: глумац
+    sr_el: glumac
     su: aktor
     sv: skådespelare
     sw: mwigizaji
@@ -343,13 +343,13 @@ dv_has_:
     tcy: ನಲಿಕೆದಾಯೆ
     te: నటులు
     tg: ҳунарпеша
-    tg-cyrl: ҳунарманд
+    tg_cyrl: ҳунарманд
     th: นักแสดง
     tl: artista
     tly: aktjor
     tr: oyuncu
     tt: актёр
-    tt-cyrl: актёр
+    tt_cyrl: актёр
     tw: ɔyɛfoɔ
     uk: актор
     ur: اداکار
@@ -368,14 +368,14 @@ dv_has_:
     za: canghheiq
     zgh: ⴰⵙⵎⴷⴰⵢ
     zh: 演員
-    zh-cn: 演员
-    zh-hans: 演员
-    zh-hant: 演員
-    zh-hk: 演員
-    zh-mo: 演員
+    zh_cn: 演员
+    zh_hans: 演员
+    zh_hant: 演員
+    zh_hk: 演員
+    zh_mo: 演員
     zh-my: 演员
-    zh-sg: 演员
-    zh-tw: 演員
+    zh_sg: 演员
+    zh_tw: 演員
     zu: umlingisi
 ---
 # [[Actor]] 

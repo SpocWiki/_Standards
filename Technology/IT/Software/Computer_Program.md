@@ -156,7 +156,7 @@ dv_has_:
     az: kompyuter proqramları
     ba: компьютер программаһы
     be: камп'ютарная праграма
-    be-tarask: праграма
+    be_tarask: праграма
     bg: Компютърна програма
     bho: कंप्यूटर प्रोग्राम
     blk: ကွန်ပျူတာပရိုဂရမ်
@@ -176,7 +176,7 @@ dv_has_:
     de: Computerprogramm
     el: πρόγραμμα υπολογιστή
     en: computer program
-    en-gb: computer program
+    en_gb: computer program
     eo: komputila programo
     es: programa informático
     et: arvutiprogramm
@@ -224,7 +224,7 @@ dv_has_:
     ml: കമ്പ്യൂട്ടർ പ്രോഗ്രാം
     mn: Компьютерийн програм
     ms: atur cara komputer
-    ms-arab: اتور چارا کومڤوتر
+    ms_arab: اتور چارا کومڤوتر
     mwl: Porgrama de cumputador
     my: Computer program
     nan: Tiān-náu thêng-sek
@@ -241,7 +241,7 @@ dv_has_:
     pms: Programa për computer
     pnb: کمپیوٹر پروگرام
     pt: programa de computador
-    pt-br: programa de computador
+    pt_br: programa de computador
     qu: Wakichi
     rki: ကွန်ပျူတာပရိုဂရမ်
     ro: program de calculator
@@ -268,7 +268,7 @@ dv_has_:
     tl: Pagpoprograma ng kompyuter
     tr: bilgisayar programı
     tt: компьютер програмы
-    tt-cyrl: компьютер програмы
+    tt_cyrl: компьютер програмы
     tum: Vilayizgo vya mrangura
     uk: комп'ютерна програма
     ur: کمپیوٹر پروگرام
@@ -285,11 +285,11 @@ dv_has_:
     yue: 電腦程式
     zgh: ⴰⵀⵉⵍ ⴰⵙⵏⵎⴰⵍⴰⵢ
     zh: 计算机程序
-    zh-cn: 计算机程序
-    zh-hans: 计算机程序
-    zh-hant: 電腦程式
-    zh-hk: 電腦程式
-    zh-tw: 電腦程式
+    zh_cn: 计算机程序
+    zh_hans: 计算机程序
+    zh_hant: 電腦程式
+    zh_hk: 電腦程式
+    zh_tw: 電腦程式
     zu: inhleleliso yesiCikizi
 ---
 # [[Computer_Program]] 

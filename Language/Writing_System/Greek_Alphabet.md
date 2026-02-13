@@ -221,7 +221,7 @@ dv_has_:
     ban: Aksara Yunani
     bar: griachischs Oiphabet
     be: грэчаскі алфавіт
-    be-tarask: грэцкі альфабэт
+    be_tarask: грэцкі альфабэт
     bg: Гръцка азбука
     bn: গ্রিক লিপি
     bo: ཀེ་རི་སིའི་དབྱངས་གསལ་རེའུ་མིག
@@ -242,8 +242,8 @@ dv_has_:
     diq: Alfabey Yunanki
     el: ελληνικό αλφάβητο
     en: Greek alphabet
-    en-ca: Greek alphabet
-    en-gb: Greek alphabet
+    en_ca: Greek alphabet
+    en_gb: Greek alphabet
     eo: greka alfabeto
     es: alfabeto griego
     et: kreeka tähestik
@@ -316,7 +316,7 @@ dv_has_:
     nan: Hi-lia̍p-jī
     nb: det greske alfabetet
     nds: Greeksch Alphabet
-    nds-nl: Griekse alfabet
+    nds_nl: Griekse alfabet
     ne: युनानी वर्णमाला
     nl: Grieks alfabet
     nn: det greske alfabetet
@@ -332,7 +332,7 @@ dv_has_:
     pnb: یونانی اکرے
     ps: يوناني ابېڅې
     pt: alfabeto grego
-    pt-br: alfabeto grego
+    pt_br: alfabeto grego
     qu: Grigu siq'i llumpa
     ro: alfabetul grec
     ru: греческий алфавит
@@ -349,7 +349,7 @@ dv_has_:
     so: Giriiga Alifbeetada
     sq: Alfabeti grek
     sr: грчко писмо
-    sr-ec: грчко писмо
+    sr_ec: грчко писмо
     sv: grekiska alfabetet
     sw: Alfabeti ya Kigiriki
     ta: கிரேக்க எழுத்துக்கள்
@@ -361,7 +361,7 @@ dv_has_:
     tok: sitelen Elina
     tr: Yunan alfabesi
     tt: юнан әлифбасы
-    tt-cyrl: юнан әлифбасы
+    tt_cyrl: юнан әлифбасы
     udm: грек алфавит
     uk: грецька абетка
     ur: یونانی حروف تہجی
@@ -377,14 +377,14 @@ dv_has_:
     yi: גריכישער אלפאבעט
     yue: 希臘字母
     zh: 希臘字母
-    zh-cn: 希腊字母
-    zh-hans: 希腊字母
-    zh-hant: 希腊字母
-    zh-hk: 希臘字母
-    zh-mo: 希腊字母
+    zh_cn: 希腊字母
+    zh_hans: 希腊字母
+    zh_hant: 希腊字母
+    zh_hk: 希臘字母
+    zh_mo: 希腊字母
     zh-my: 希腊字母
-    zh-sg: 希腊字母
-    zh-tw: 希臘字母
+    zh_sg: 希腊字母
+    zh_tw: 希臘字母
 ---
 # [[Greek_Alphabet]] 
 

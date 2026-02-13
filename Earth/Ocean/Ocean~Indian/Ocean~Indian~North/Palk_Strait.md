@@ -119,7 +119,7 @@ dv_has_:
     az: Polk boğazı
     ba: Полк боғаҙы
     be: Полкскі праліў
-    be-tarask: Полкаўская пратока
+    be_tarask: Полкаўская пратока
     bg: Полкски проток
     bho: पाक जलजोड़
     bn: পক প্রণালী
@@ -130,7 +130,7 @@ dv_has_:
     cs: Palkův průliv
     da: Palkstrædet
     de: Palkstraße
-    de-ch: Palkstrasse
+    de_ch: Palkstrasse
     el: Πορθμός του Παλκ
     en: Palk Strait
     eo: Palka Markolo
@@ -187,12 +187,12 @@ dv_has_:
     xmf: პოლკიშ საროტი
     yue: 保克海峽
     zh: 保克海峡
-    zh-cn: 保克海峡
-    zh-hans: 保克海峡
-    zh-hant: 保克海峽
-    zh-hk: 保克海峽
-    zh-sg: 保克海峡
-    zh-tw: 保克海峽
+    zh_cn: 保克海峡
+    zh_hans: 保克海峡
+    zh_hant: 保克海峽
+    zh_hk: 保克海峽
+    zh_sg: 保克海峡
+    zh_tw: 保克海峽
 ---
 # [[Palk_Strait]] 
 

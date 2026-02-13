@@ -81,7 +81,7 @@ dv_has_:
     ast: teorema fundamental del cálculu
     ba: Ньютон-Лейбниц теоремаһы
     be: формула Ньютана — Лейбніца
-    be-tarask: формула Ньютана—Ляйбніца
+    be_tarask: формула Ньютана—Ляйбніца
     bg: фундаментална теорема на анализа
     bn: ক্যালকুলাসের মৌলিক উপপাদ্য
     ca: Teorema fonamental del càlcul
@@ -121,7 +121,7 @@ dv_has_:
     nl: hoofdstelling van de integraalrekening
     pl: podstawowe twierdzenie rachunku całkowego
     pt: teorema fundamental do cálculo
-    pt-br: teorema fundamental do cálculo
+    pt_br: teorema fundamental do cálculo
     ro: teorema fundamentală a calculului integral
     ru: теорема Ньютона — Лейбница
     sk: základná veta diferenciálneho a integrálneho počtu

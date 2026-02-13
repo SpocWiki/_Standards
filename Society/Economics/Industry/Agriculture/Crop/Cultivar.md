@@ -62,7 +62,7 @@ dv_has_:
     ast: Cultivar
     ba: Сорт
     be: сорт
-    be-tarask: гатунак
+    be_tarask: гатунак
     bg: Сорт
     bho: किसिम (खेती आ बागबानी)
     bs: kultivar
@@ -73,8 +73,8 @@ dv_has_:
     de: Cultivar
     el: ποικιλία φυτού
     en: cultivar
-    en-ca: cultivar
-    en-gb: cultivar
+    en_ca: cultivar
+    en_gb: cultivar
     eo: kulturvario
     es: cultivar
     et: sort
@@ -134,7 +134,7 @@ dv_has_:
     vi: giống cây trồng
     yue: 栽培品種
     zh: 栽培品种
-    zh-hant: 栽培品種
+    zh_hant: 栽培品種
 ---
 # [[Cultivar]] 
 

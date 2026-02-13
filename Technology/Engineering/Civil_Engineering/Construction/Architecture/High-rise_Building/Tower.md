@@ -160,7 +160,7 @@ dv_has_:
     ba: Башня
     bar: Tuam
     be: вежа
-    be-tarask: вежа
+    be_tarask: вежа
     bg: Кула
     bjn: Pagungan
     bn: সুউচ্চ স্থাপনা
@@ -180,8 +180,8 @@ dv_has_:
     de: Turm
     el: πύργος
     en: tower
-    en-ca: tower
-    en-gb: tower
+    en_ca: tower
+    en_gb: tower
     eo: turo
     es: torre
     et: torn
@@ -221,7 +221,7 @@ dv_has_:
     kk: Мұнара
     ko: 탑
     ku: birc
-    ku-latn: birc
+    ku_latn: birc
     kw: Tour
     ky: Мунара
     la: turris
@@ -255,7 +255,7 @@ dv_has_:
     pms: Tor
     pnb: برج
     pt: torre
-    pt-br: torre
+    pt_br: torre
     qu: Turri
     ro: turn
     ru: башня
@@ -282,8 +282,8 @@ dv_has_:
     tok: tomo sewi linja
     tr: kule
     tt: манара
-    tt-cyrl: манара
-    tt-latn: manara
+    tt_cyrl: манара
+    tt_latn: manara
     udm: кабаз
     ug: مۇنار
     uk: вежа
@@ -300,14 +300,14 @@ dv_has_:
     yi: טורעם
     yue: 西洋塔
     zh: 塔式建築
-    zh-cn: 塔式建筑
-    zh-hans: 塔式建筑
-    zh-hant: 塔式建築
-    zh-hk: 塔式建築
-    zh-mo: 塔式建築
+    zh_cn: 塔式建筑
+    zh_hans: 塔式建筑
+    zh_hant: 塔式建築
+    zh_hk: 塔式建築
+    zh_mo: 塔式建築
     zh-my: 塔式建筑
-    zh-sg: 塔式建筑
-    zh-tw: 塔式建築
+    zh_sg: 塔式建筑
+    zh_tw: 塔式建築
 ---
 # [[Tower]] 
 

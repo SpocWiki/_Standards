@@ -32,11 +32,11 @@ dv_has_:
     cy: Pauline Kael
     da: Pauline Kael
     de: Pauline Kael
-    de-ch: Pauline Kael
+    de_ch: Pauline Kael
     el: Πωλίν Κάελ
     en: Pauline Kael
-    en-ca: Pauline Kael
-    en-gb: Pauline Kael
+    en_ca: Pauline Kael
+    en_gb: Pauline Kael
     es: Pauline Kael
     fa: پالین کیل
     fi: Pauline Kael
@@ -61,7 +61,7 @@ dv_has_:
     pap: Pauline Kael
     pl: Pauline Kael
     pt: Pauline Kael
-    pt-br: Pauline Kael
+    pt_br: Pauline Kael
     ro: Pauline Kael
     ru: Полин Кейл
     sh: Pauline Kael
@@ -71,9 +71,9 @@ dv_has_:
     sv: Pauline Kael
     uk: Полін Кел
     zh: 保利娜·基尔
-    zh-cn: 保利娜·基尔
-    zh-hans: 保利娜·基尔
-    zh-hant: 保琳·凱爾
+    zh_cn: 保利娜·基尔
+    zh_hans: 保利娜·基尔
+    zh_hant: 保琳·凱爾
 ---
 #has_/time_/started :: 1919-06-19 
 #has_/time_/stopped :: 2001-09-03 

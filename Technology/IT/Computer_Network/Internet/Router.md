@@ -87,7 +87,7 @@ dv_has_:
     ast: Router
     az: Marşrutlaşdırıcı
     be: Маршрутызатар
-    be-tarask: маршрутызатар
+    be_tarask: маршрутызатар
     bg: Маршрутизатор
     bn: রাউটার
     bo: མདོ་འགྱེད་འཕྲུལ་ཆས།
@@ -174,9 +174,9 @@ dv_has_:
     yi: רוטירער
     yue: 路由器
     zh: 路由器
-    zh-hans: 路由器
-    zh-hant: 路由器
-    zh-tw: 路由器
+    zh_hans: 路由器
+    zh_hant: 路由器
+    zh_tw: 路由器
 ---
 # [[Router]] 
 

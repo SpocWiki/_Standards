@@ -21,14 +21,14 @@ dv_has_:
     pt: Formalismo de Backus-Naur Estendido
     ru: Расширенная форма Бэкуса — Наура
     sr: Проширена Бакус–Наурова форма
-    sr-ec: Проширена Бекус-Наурова форма
-    sr-el: Proširena Bekus-Naurova forma
+    sr_ec: Проширена Бекус-Наурова форма
+    sr_el: Proširena Bekus-Naurova forma
     tr: EBNF Genişletilmiş Backus-Naur formu
     uk: Розширена нотація Бекуса-Наура
     zh: 扩展巴科斯范式
-    zh-hans: 扩展巴科斯范式
-    zh-hant: 擴展巴科斯範式
-    zh-hk: 擴展巴科斯範式
+    zh_hans: 扩展巴科斯范式
+    zh_hant: 擴展巴科斯範式
+    zh_hk: 擴展巴科斯範式
 aliases:
 - BNF extendido
 - EBNF

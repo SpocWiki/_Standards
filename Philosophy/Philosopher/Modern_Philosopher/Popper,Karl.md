@@ -206,7 +206,7 @@ dv_has_:
     azb: کارل پوپر
     bcl: Karl Popper
     be: Карл Попер
-    be-tarask: Карл Попэр
+    be_tarask: Карл Попэр
     bg: Карл Попър
     bn: কার্ল পপার
     bs: Karl Popper
@@ -269,7 +269,7 @@ dv_has_:
     pms: Karl Popper
     ps: کارل پاپر
     pt: Karl Popper
-    pt-br: Karl Popper
+    pt_br: Karl Popper
     ro: Karl Popper
     ru: Карл Поппер
     rue: Карл Поппер
@@ -298,8 +298,8 @@ dv_has_:
     zea: Karl Popper
     zh: 卡尔·波普尔
     zh-hans: 卡尔·波普尔
-    zh-hk: 卡路·波柏
-    zh-tw: 卡爾·波普爾
+    zh_hk: 卡路·波柏
+    zh_tw: 卡爾·波普爾
 ---
 # [[Popper,Karl]] 
 

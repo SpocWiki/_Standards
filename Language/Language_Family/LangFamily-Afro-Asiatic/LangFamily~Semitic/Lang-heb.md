@@ -268,7 +268,7 @@ dv_has_:
   name_:
     ab: Иврит
     ady: Джуртыбзэ
-    aeb-arab: اليهودي
+    aeb_arab: اليهودي
     af: Hebreeus
     am: ዕብራይስጥ
     an: Idioma hebreu
@@ -288,7 +288,7 @@ dv_has_:
     bar: Hebräisch
     bcl: Hebreo
     be: іўрыт
-    be-tarask: іўрыт
+    be_tarask: іўрыт
     bg: иврит
     bjn: Bahasa Ibrani
     bn: হিব্রু ভাষা
@@ -303,7 +303,7 @@ dv_has_:
     ckb: زمانی عیبری
     co: ebraicu
     crh: İbrani tili
-    crh-latn: İbrani tili
+    crh_latn: İbrani tili
     cs: hebrejština
     csb: Hebrejsczi jãzëk
     cu: Єврєискъ ѩꙁꙑкъ
@@ -311,14 +311,14 @@ dv_has_:
     cy: Hebraeg
     da: hebraisk
     de: Hebräisch
-    de-ch: Hebräisch
+    de_ch: Hebräisch
     diq: İbranki
     dsb: Hebrejšćina
     el: Εβραϊκά
     eml: Ebràic
     en: Hebrew
-    en-ca: Hebrew
-    en-gb: Hebrew
+    en_ca: Hebrew
+    en_gb: Hebrew
     eo: hebrea lingvo
     es: hebreo
     et: heebrea keel
@@ -385,7 +385,7 @@ dv_has_:
     ks: عبرأنؠ زبان
     ksh: Hebräisch
     ku: zimanê îbranî
-    ku-latn: zimanê îbranî
+    ku_latn: zimanê îbranî
     kv: Иврит
     kw: Ebrow
     ky: Жөөт тили
@@ -414,7 +414,7 @@ dv_has_:
     mni: ꯍꯦꯕ꯭ꯔꯤꯎ
     mr: हिब्रू भाषा
     ms: bahasa Ibrani
-    ms-arab: بهاس عبراني
+    ms_arab: بهاس عبراني
     mt: Ebrajk
     my: ဟီဘရူးဘာသာ
     myv: Иврит
@@ -422,7 +422,7 @@ dv_has_:
     nan: Hi-pek-lâi-gí
     nb: hebraisk
     nds: Hebrääsche Spraak
-    nds-nl: Hibbrais
+    nds_nl: Hibbrais
     ne: हिब्रु भाषा
     new: हिब्रू भाषा
     nl: Hebreeuws
@@ -439,7 +439,7 @@ dv_has_:
     pnb: عبرانی
     ps: عبراني ژبه
     pt: hebraico
-    pt-br: hebraico
+    pt_br: hebraico
     pwn: hiniberayan
     qu: Iwriyu simi
     rki: ဟေဗြဲဘာသာစကား
@@ -479,7 +479,7 @@ dv_has_:
     tok: toki Iwisi
     tr: İbranice
     tt: яһүд теле
-    tt-cyrl: яһүд теле
+    tt_cyrl: яһүд теле
     udm: еврей кыл
     ug: ئىبرانى تىلى
     uk: іврит
@@ -499,11 +499,11 @@ dv_has_:
     zea: Hebreêuws
     zgh: ⵜⵓⵜⵍⴰⵢⵜ ⵜⴰⵄⵉⴱⵔⵉⵜ
     zh: 希伯来语
-    zh-cn: 希伯来语
-    zh-hans: 希伯来语
-    zh-hant: 希伯來語
-    zh-hk: 希伯來語
-    zh-tw: 希伯來語
+    zh_cn: 希伯来语
+    zh_hans: 希伯来语
+    zh_hant: 希伯來語
+    zh_hk: 希伯來語
+    zh_tw: 希伯來語
     zu: IsiHebheru
 ---
 # [[Lang-heb]] 

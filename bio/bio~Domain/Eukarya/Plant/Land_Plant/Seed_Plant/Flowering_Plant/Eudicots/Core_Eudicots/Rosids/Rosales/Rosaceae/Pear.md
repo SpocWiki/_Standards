@@ -128,7 +128,7 @@ aliases:
 has_id_wikidata: Q434
 dv_has_:
   name_:
-    aeb-arab: أنجاص
+    aeb_arab: أنجاص
     af: Peer
     am: ሸክኒት
     an: Pyrus
@@ -145,7 +145,7 @@ dv_has_:
     ba: Груша
     bar: Biana
     be: груша
-    be-tarask: груша
+    be_tarask: груша
     bg: круша
     bho: नाशपाती
     bn: নাশপাতি
@@ -245,7 +245,7 @@ dv_has_:
     pnt: απίδιν
     ps: ناک
     pt: pera
-    pt-br: Pyrus
+    pt_br: Pyrus
     qu: Pira
     ro: Pyrus
     rsk: Грушкa
@@ -272,7 +272,7 @@ dv_has_:
     tly: Hülə
     tr: Armut
     tt: армут
-    tt-cyrl: армут
+    tt_cyrl: армут
     tyv: Груша
     ug: ئامۇت
     uk: груша
@@ -291,14 +291,14 @@ dv_has_:
     yue: 梨屬
     za: Makleiz
     zh: 梨属
-    zh-cn: 梨属
-    zh-hans: 梨属
-    zh-hant: 梨
-    zh-hk: 梨
-    zh-mo: 梨
+    zh_cn: 梨属
+    zh_hans: 梨属
+    zh_hant: 梨
+    zh_hk: 梨
+    zh_mo: 梨
     zh-my: 梨
-    zh-sg: 梨
-    zh-tw: 梨屬
+    zh_sg: 梨
+    zh_tw: 梨屬
 ---
 # [[Pear]] 
 

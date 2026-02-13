@@ -89,7 +89,7 @@ dv_has_:
     az: mol
     bcl: mole
     be: моль
-    be-tarask: моль
+    be_tarask: моль
     bg: мол
     bn: মোল
     bo: མོལ།
@@ -161,7 +161,7 @@ dv_has_:
     pms: mòle
     pnb: مول
     pt: mol
-    pt-br: mol
+    pt_br: mol
     ro: mol
     ru: моль
     rue: мол
@@ -175,8 +175,8 @@ dv_has_:
     so: mole
     sq: moli
     sr: мол
-    sr-ec: мол
-    sr-el: mol
+    sr_ec: мол
+    sr_el: mol
     sv: mol
     ta: மோல்
     te: మోల్
@@ -196,14 +196,14 @@ dv_has_:
     yue: 摩爾
     zgh: ⴰⵎⵓⵍ (ⵜⴰⵢⵓⵏⵜ)
     zh: 摩尔
-    zh-cn: 摩尔
-    zh-hans: 摩尔
-    zh-hant: 莫耳
-    zh-hk: 摩爾
-    zh-mo: 摩爾
+    zh_cn: 摩尔
+    zh_hans: 摩尔
+    zh_hant: 莫耳
+    zh_hk: 摩爾
+    zh_mo: 摩爾
     zh-my: 摩尔
-    zh-sg: 摩尔
-    zh-tw: 莫耳
+    zh_sg: 摩尔
+    zh_tw: 莫耳
 ---
 # [[Unit~Mole]] 
 

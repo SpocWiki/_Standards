@@ -134,7 +134,7 @@ dv_has_:
     az: Yakob Bernulli
     azb: یاکوب برنولی
     be: Якаб Бернулі
-    be-tarask: Якаб Бэрнульлі
+    be_tarask: Якаб Бэрнульлі
     bg: Якоб Бернули
     bs: Jacob Bernoulli
     ca: Jakob Bernoulli
@@ -183,7 +183,7 @@ dv_has_:
     pms: Jakob Bernoulli
     ps: یاکوب برنولي
     pt: Jakob Bernoulli
-    pt-br: Jakob Bernoulli
+    pt_br: Jakob Bernoulli
     rm: Jacob Bernoulli
     ro: Jakob Bernoulli
     ru: Якоб Бернулли
@@ -195,8 +195,8 @@ dv_has_:
     sl: Jacob Bernoulli
     sq: Jacob Bernoulli
     sr: Јакоб Бернули
-    sr-ec: Јакоб Бернули
-    sr-el: Jakob Bernuli
+    sr_ec: Јакоб Бернули
+    sr_el: Jakob Bernuli
     sv: Jakob Bernoulli
     ta: ஜேக்கப் பெர்னெளலி
     tr: Jakob Bernoulli
@@ -209,12 +209,12 @@ dv_has_:
     yo: Jacob Bernoulli
     yue: 雅各布·白努利
     zh: 雅各布·伯努利
-    zh-cn: 雅各布·伯努利
-    zh-hans: 雅各布·伯努利
-    zh-hant: 雅各布·白努利
-    zh-hk: 雅各布·白努利
-    zh-sg: 雅各布·伯努利
-    zh-tw: 雅各布·白努利
+    zh_cn: 雅各布·伯努利
+    zh_hans: 雅各布·伯努利
+    zh_hant: 雅各布·白努利
+    zh_hk: 雅各布·白努利
+    zh_sg: 雅各布·伯努利
+    zh_tw: 雅各布·白努利
 ---
 # [[Bernoulli,Jacob]] 
 

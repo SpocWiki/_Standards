@@ -188,7 +188,7 @@ dv_has_:
     az: bacı-qardaş
     bcl: tugang
     be: сіблінгі
-    be-tarask: сыблінг
+    be_tarask: сыблінг
     bg: братя и сестри
     bn: ভাইবোন
     br: breur pe c'hoar
@@ -202,8 +202,8 @@ dv_has_:
     de: Bruder oder Schwester
     el: αδελφός/-η
     en: sibling
-    en-ca: sibling
-    en-gb: sibling
+    en_ca: sibling
+    en_gb: sibling
     eo: gefrato
     es: hermano o hermana
     et: õved
@@ -261,7 +261,7 @@ dv_has_:
     pnt: καρτάσ'
     ps: خور او ورور
     pt: irmãos
-    pt-br: irmão
+    pt_br: irmão
     ro: frăție de sânge
     ru: сиблинг
     sat: ᱵᱚᱭᱦᱟ ᱟᱨᱵᱟᱝ ᱢᱤᱥᱨᱟ
@@ -284,7 +284,7 @@ dv_has_:
     tok: jan pi mama sama
     tr: kardeş
     tt: кардәш
-    tt-cyrl: кардәш
+    tt_cyrl: кардәш
     tw: anuanom
     uk: суродженці
     ur: بہن-بھائی
@@ -297,14 +297,14 @@ dv_has_:
     yo: ègbón àti àbúrò
     yue: 兄弟姊妹
     zh: 兄弟姊妹
-    zh-cn: 兄弟姐妹
-    zh-hans: 兄弟姐妹
-    zh-hant: 兄弟姊妹
-    zh-hk: 兄弟姐妹
-    zh-mo: 兄弟姐妹
+    zh_cn: 兄弟姐妹
+    zh_hans: 兄弟姐妹
+    zh_hant: 兄弟姊妹
+    zh_hk: 兄弟姐妹
+    zh_mo: 兄弟姐妹
     zh-my: 兄弟姐妹
-    zh-sg: 兄弟姐妹
-    zh-tw: 兄弟姊妹
+    zh_sg: 兄弟姐妹
+    zh_tw: 兄弟姊妹
 ---
 # [[Sibling]] 
 

@@ -134,7 +134,7 @@ dv_has_:
     ast: Ovariu
     az: Yumurtalıq
     bcl: Obaryo
-    be-tarask: яечнік
+    be_tarask: яечнік
     bg: Яйчник
     bn: ডিম্বাশয়
     br: Vigell
@@ -148,8 +148,8 @@ dv_has_:
     dv: ބިސްރަވަ
     el: Ωοθήκη
     en: ovary
-    en-ca: Ovary
-    en-gb: ovary
+    en_ca: Ovary
+    en_gb: ovary
     eo: ovario
     es: ovario
     et: munasari
@@ -179,7 +179,7 @@ dv_has_:
     ko: 난소
     ks: ٹھوٗلہٕ دٲنؠ
     ku: hêkdank
-    ku-latn: hêkdank
+    ku_latn: hêkdank
     la: Ovarium
     lfn: ovario
     lt: Kiaušidė
@@ -203,7 +203,7 @@ dv_has_:
     pl: jajnik
     pnb: آنڈاتھیلی
     pt: ovário
-    pt-br: Ovário
+    pt_br: Ovário
     qu: Runtuchana
     ro: ovar
     ru: яичники
@@ -218,7 +218,7 @@ dv_has_:
     sn: Makandiro
     sq: Vezorja
     sr: јајници
-    sr-ec: Јајник
+    sr_ec: Јајник
     sv: äggstock
     ta: சூலகம்
     te: అండాశయము

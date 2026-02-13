@@ -40,10 +40,10 @@ dv_has_:
     da: Leptinotarsa decemlineata
     de: Leptinotarsa
     de-at: Leptinotarsa decemlineata
-    de-ch: Leptinotarsa decemlineata
+    de_ch: Leptinotarsa decemlineata
     en: Leptinotarsa
-    en-ca: Leptinotarsa decemlineata
-    en-gb: Leptinotarsa decemlineata
+    en_ca: Leptinotarsa decemlineata
+    en_gb: Leptinotarsa decemlineata
     eo: Leptinotarsa
     es: Leptinotarsa
     et: Leptinotarsa decemlineata
@@ -77,7 +77,7 @@ dv_has_:
     nap: Leptinotarsa decemlineata
     nb: Leptinotarsa
     nds: Leptinotarsa decemlineata
-    nds-nl: Leptinotarsa decemlineata
+    nds_nl: Leptinotarsa decemlineata
     nl: Leptinotarsa
     nn: Leptinotarsa decemlineata
     nrm: Leptinotarsa decemlineata
@@ -87,7 +87,7 @@ dv_has_:
     pl: Leptinotarsa decemlineata
     pms: Leptinotarsa decemlineata
     pt: Leptinotarsa decemlineata
-    pt-br: Leptinotarsa decemlineata
+    pt_br: Leptinotarsa decemlineata
     rm: Leptinotarsa decemlineata
     ro: Leptinotarsa decemlineata
     ru: Leptinotarsa

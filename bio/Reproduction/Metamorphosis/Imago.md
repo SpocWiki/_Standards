@@ -43,7 +43,7 @@ dv_has_:
     ar: يافعة
     ast: Imago (zoología)
     be: Імага
-    be-tarask: Імага
+    be_tarask: Імага
     bg: Имаго
     bn: ইমেগো
     ca: imago
@@ -91,8 +91,8 @@ dv_has_:
     sk: Imágo
     sl: imago
     sr: Имаго
-    sr-ec: Имаго
-    sr-el: Imago
+    sr_ec: Имаго
+    sr_el: Imago
     sv: Imago
     ta: முதிர்நிலை
     tr: İmago
@@ -101,12 +101,12 @@ dv_has_:
     vi: Thành trùng
     yue: 成蟲
     zh: 成蟲
-    zh-cn: 成虫
-    zh-hans: 成虫
-    zh-hant: 成蟲
-    zh-hk: 成蟲
-    zh-sg: 成虫
-    zh-tw: 成蟲
+    zh_cn: 成虫
+    zh_hans: 成虫
+    zh_hant: 成蟲
+    zh_hk: 成蟲
+    zh_sg: 成虫
+    zh_tw: 成蟲
 ---
 # [[Imago]] 
 

@@ -121,7 +121,7 @@ dv_has_:
     azb: پانتر
     ban: Panthera
     be: пантэры
-    be-tarask: пантэры
+    be_tarask: пантэры
     bg: пантери
     bn: প্যানথেরা
     br: Panthera
@@ -134,7 +134,7 @@ dv_has_:
     cy: Panthera
     da: Panthera
     de: Eigentliche Großkatzen
-    de-ch: Eigentliche Grosskatzen
+    de_ch: Eigentliche Grosskatzen
     el: Πάνθηρας
     en: Panthera
     eo: panteroj
@@ -167,11 +167,11 @@ dv_has_:
     ka: პანთერა
     kab: Aɣilas (tawsit)
     kk: Пантералар
-    kk-arab: پانتەرالار
+    kk_arab: پانتەرالار
     kk-cn: پانتەرالار
-    kk-cyrl: Пантералар
+    kk_cyrl: Пантералар
     kk-kz: Пантералар
-    kk-latn: Panteralar
+    kk_latn: Panteralar
     kk-tr: Panteralar
     ko: 표범속
     ku: Panthera
@@ -192,7 +192,7 @@ dv_has_:
     nan: Pà-sio̍k
     nb: brølekatter
     nds: Egentliche Grootkatten
-    nds-nl: Panthera
+    nds_nl: Panthera
     ne: चितुवा
     nl: Panthera
     nn: store kattedyr
@@ -204,7 +204,7 @@ dv_has_:
     pms: Panthera
     pnb: شینہ
     pt: Panthera
-    pt-br: Panthera
+    pt_br: Panthera
     ro: Panthera
     ru: пантеры
     sah: Бөдөҥ куоскалар уустара
@@ -236,12 +236,12 @@ dv_has_:
     xmf: პანთერა
     yue: 豹屬
     zh: 豹属
-    zh-cn: 豹属
-    zh-hans: 豹属
-    zh-hant: 豹屬
-    zh-hk: 豹屬
-    zh-sg: 豹属
-    zh-tw: 豹屬
+    zh_cn: 豹属
+    zh_hans: 豹属
+    zh_hant: 豹屬
+    zh_hk: 豹屬
+    zh_sg: 豹属
+    zh_tw: 豹屬
 ---
 # [[Panthera]] 
 

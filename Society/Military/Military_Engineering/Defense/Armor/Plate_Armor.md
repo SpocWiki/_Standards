@@ -59,14 +59,14 @@ dv_has_:
   name_:
     ar: درع صفيحية
     ast: Armadura de plaques d'aceru
-    be-tarask: латы
+    be_tarask: латы
     br: Houarnwisk-pladek
     ca: arnès
     cs: plátová zbroj
     da: Pladerustning
     de: Plattenpanzer
     en: plate armour
-    en-gb: plate armour
+    en_gb: plate armour
     eo: ŝtala korpa kiraso
     es: armadura de placas de acero
     eu: Plakazko armadura

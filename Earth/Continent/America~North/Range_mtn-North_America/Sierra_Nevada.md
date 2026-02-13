@@ -104,7 +104,7 @@ dv_has_:
     az: Syerra-Nevada (ABŞ)
     ba: Сьерра-Невада (АҠШ)
     be: Сьера-Невада
-    be-tarask: Сьера Нэвада
+    be_tarask: Сьера Нэвада
     bg: Сиера Невада
     bn: সিয়েরা নেভাদা
     br: Sierra Nevada
@@ -175,7 +175,7 @@ dv_has_:
     wuu: 内华达山脉 (美国)
     yue: 內華達山脈
     zh: 內華達山脈
-    zh-hant: 內華達山脈 (美國)
+    zh_hant: 內華達山脈 (美國)
 ---
 # [[Sierra_Nevada]] 
 

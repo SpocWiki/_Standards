@@ -157,7 +157,7 @@ dv_has_:
     ban: Bison Amerika
     bar: Amerikanischa Bison
     be: Амерыканскі бізон
-    be-tarask: Амэрыканскі бізон
+    be_tarask: Амэрыканскі бізон
     bg: бизон
     br: Bizon Amerika
     ca: bisó americà
@@ -170,8 +170,8 @@ dv_has_:
     diq: Bizonê Amerika
     el: αμερικανικός βίσονας
     en: American bison
-    en-ca: American bison
-    en-gb: American bison
+    en_ca: American bison
+    en_gb: American bison
     en-us: American bison
     eo: Amerika bizono
     es: Bison bison
@@ -224,7 +224,7 @@ dv_has_:
     pl: bizon amerykański
     pnb: امریکی بائسن
     pt: Bisão-americano
-    pt-br: Bisão-americano
+    pt_br: Bisão-americano
     qu: Awya Yala Bisunti
     ro: Bizon american
     ru: американский бизон
@@ -252,8 +252,8 @@ dv_has_:
     yue: 美洲野牛
     za: Vaizcwx meijcouh
     zh: 北美野牛
-    zh-cn: 北美野牛
-    zh-hans: 北美野牛
+    zh_cn: 北美野牛
+    zh_hans: 北美野牛
 ---
 # [[Bison]] 
 

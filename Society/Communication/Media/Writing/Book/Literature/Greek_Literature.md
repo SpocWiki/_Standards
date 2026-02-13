@@ -77,7 +77,7 @@ dv_has_:
     ar: أدب اليونان
     as: গ্ৰীক সাহিত্য
     ast: Lliteratura griega
-    be-tarask: грэцкая літаратура
+    be_tarask: грэцкая літаратура
     bg: Гръцка литература
     bn: গ্রিক সাহিত্য
     bs: Grčka književnost
@@ -107,9 +107,9 @@ dv_has_:
     ja: ギリシア文学
     jam: Griik lichicha
     kk: Грек әдебиеті
-    kk-arab: گرەك ادەبىييەتى
-    kk-cyrl: Грек әдебиеті
-    kk-latn: Grek ädebïyeti
+    kk_arab: گرەك ادەبىييەتى
+    kk_cyrl: Грек әдебиеті
+    kk_latn: Grek ädebïyeti
     ko: 그리스 문학
     la: Litterae Graecae
     li: Griekse literatuur
@@ -140,9 +140,9 @@ dv_has_:
     vi: văn học Hy Lạp
     yue: 希臘文文學
     zh: 希腊文学
-    zh-hans: 希腊文学
-    zh-hant: 希臘文學
-    zh-hk: 希臘文學
+    zh_hans: 希腊文学
+    zh_hant: 希臘文學
+    zh_hk: 希臘文學
 ---
 # [[Greek_Literature]] 
 

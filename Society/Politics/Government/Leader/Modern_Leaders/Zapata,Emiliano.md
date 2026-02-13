@@ -134,7 +134,7 @@ dv_has_:
     pl: Emiliano Zapata
     ps: امیلیانو زاپاتا
     pt: Emiliano Zapata
-    pt-br: Emiliano Zapata
+    pt_br: Emiliano Zapata
     qu: Emiliano Zapata
     ro: Emiliano Zapata
     ru: Эмилиано Сапата

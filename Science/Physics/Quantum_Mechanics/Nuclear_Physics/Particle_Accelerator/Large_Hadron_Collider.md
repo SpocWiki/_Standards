@@ -138,7 +138,7 @@ dv_has_:
     az: Böyük adron sürətləndiricisi
     ban: Tabrakan Hadron Ageng
     be: Вялікі адронны калайдар
-    be-tarask: Вялікі гадронны калайдэр
+    be_tarask: Вялікі гадронны калайдэр
     bg: Голям адронен ускорител
     bn: বৃহৎ হ্যাড্রন সংঘর্ষক
     bs: Veliki hadronski sudarač
@@ -198,7 +198,7 @@ dv_has_:
     pnb: لارج ہیڈرون کولائیڈر
     ps: دهاډرونو ستر تعجیل کوونکي ماشین
     pt: Grande Colisor de Hadrões
-    pt-br: Grande Colisor de Hádrons
+    pt_br: Grande Colisor de Hádrons
     rki: ဟတ်ဒရွန် တိုက်စက်
     ro: Large Hadron Collider
     ru: Большой адронный коллайдер
@@ -210,8 +210,8 @@ dv_has_:
     sl: Veliki hadronski trkalnik
     sq: Përplasësi i Madh i Hadroneve
     sr: Велики хадронски сударач
-    sr-ec: Велики хадронски сударач
-    sr-el: Veliki hadronski sudarač
+    sr_ec: Велики хадронски сударач
+    sr_el: Veliki hadronski sudarač
     sv: Large Hadron Collider
     ta: பெரிய ஆட்ரான் மோதுவி
     th: เครื่องชนอนุภาคแฮดรอนขนาดใหญ่
@@ -226,8 +226,8 @@ dv_has_:
     yo: Ẹ̀rọ Ìmúsáré Hádrónì Gbàngbà
     yue: 大強子對撞機
     zh: 大型強子對撞機
-    zh-hans: 大型强子对撞机
-    zh-hant: 大型強子對撞機
+    zh_hans: 大型强子对撞机
+    zh_hant: 大型強子對撞機
 ---
 # [[Large_Hadron_Collider]] 
 

@@ -74,7 +74,7 @@ dv_has_:
     af: slotmasjien
     ar: آلة شقبية
     ast: máquina tragaperres
-    be-tarask: слот-машына
+    be_tarask: слот-машына
     bg: ротативка
     ca: màquina escurabutxaques
     cs: hrací automat
@@ -82,7 +82,7 @@ dv_has_:
     de: einarmiger Bandit
     el: Κουλοχέρης
     en: slot machine
-    en-gb: slot machine
+    en_gb: slot machine
     en-us: slot games
     eo: enĵetmaŝino
     es: máquina tragaperras
@@ -107,7 +107,7 @@ dv_has_:
     nn: Speleautomat
     pl: jednoręki bandyta
     pt: slot machine
-    pt-br: caça-níquel, caça-níqueis
+    pt_br: caça-níquel, caça-níqueis
     ro: Slot machine
     ru: слот-машина
     sh: Slot mašina
@@ -121,7 +121,7 @@ dv_has_:
     war: Slot machine
     yue: 老虎機
     zh: 角子機
-    zh-tw: 吃角子老虎
+    zh_tw: 吃角子老虎
 ---
 # [[Slot_Machine]] 🎰 
 

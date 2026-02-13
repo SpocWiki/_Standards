@@ -80,7 +80,7 @@ dv_has_:
     ar: عملية كيميائية
     as: ৰাসায়নিক প্ৰক্ৰিয়া
     be: хімічны працэс
-    be-tarask: хімічны працэс
+    be_tarask: хімічны працэс
     bs: Hemijski proces
     ca: procés químic
     cs: chemický proces
@@ -109,7 +109,7 @@ dv_has_:
     lv: ķīmiskais process
     mk: хемиски процес
     ms: proses kimia
-    ms-arab: ڤروسيس کيميا
+    ms_arab: ڤروسيس کيميا
     nb: kjemisk prosess
     nl: chemisch proces
     nn: kjemisk prosess
@@ -130,8 +130,8 @@ dv_has_:
     uk: хімічний процес
     vec: proceso chìmego
     zh: 化学过程
-    zh-hant: 化學過程
-    zh-tw: 化學過程
+    zh_hant: 化學過程
+    zh_tw: 化學過程
 ---
 # [[Chemical_Process]] 
 

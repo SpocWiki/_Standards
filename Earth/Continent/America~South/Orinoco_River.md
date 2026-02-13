@@ -137,7 +137,7 @@ dv_has_:
     azb: اورینوکو چایی
     ba: Ориноко
     be: Арынока
-    be-tarask: Арынока
+    be_tarask: Арынока
     bg: Ориноко
     bho: ओरिनिको नदी
     bn: অরিনোকো নদী
@@ -214,8 +214,8 @@ dv_has_:
     sl: Orinoko
     sq: Orinoko
     sr: Ориноко
-    sr-ec: Ориноко
-    sr-el: Orinoko
+    sr_ec: Ориноко
+    sr_el: Orinoko
     stq: Orinoko
     sv: Orinoco
     sw: Orinoco
@@ -232,12 +232,12 @@ dv_has_:
     xmf: ორინოკო
     yue: 奧里諾高河
     zh: 奥里诺科河
-    zh-cn: 奥里诺科河
-    zh-hans: 奥里诺科河
-    zh-hant: 奧里諾科河
-    zh-hk: 奧里諾科河
-    zh-sg: 奥里诺科河
-    zh-tw: 奧里諾科河
+    zh_cn: 奥里诺科河
+    zh_hans: 奥里诺科河
+    zh_hant: 奧里諾科河
+    zh_hk: 奧里諾科河
+    zh_sg: 奥里诺科河
+    zh_tw: 奧里諾科河
 ---
 # [[Orinoco_River]] 
 

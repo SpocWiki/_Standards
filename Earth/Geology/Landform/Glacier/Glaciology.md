@@ -114,7 +114,7 @@ dv_has_:
     ast: glacioloxía
     az: Qlyasiologiya
     be: гляцыялогія
-    be-tarask: гляцыялёгія
+    be_tarask: гляцыялёгія
     bg: Глациология
     bho: ग्लेशियर बिज्ञान
     bn: হিমবিদ্যা
@@ -126,11 +126,11 @@ dv_has_:
     cy: Rhewlifeg
     da: glaciologi
     de: Glaziologie
-    de-ch: Glaziologie
+    de_ch: Glaziologie
     el: παγετολογία
     en: glaciology
-    en-ca: Glaciology
-    en-gb: glaciology
+    en_ca: Glaciology
+    en_gb: glaciology
     eo: glaciologio
     es: glaciología
     et: glatsioloogia
@@ -172,7 +172,7 @@ dv_has_:
     pa: ਗਲੇਸ਼ੀਅਰ ਵਿਗਿਆਨ
     pl: glacjologia
     pt: glaciologia
-    pt-br: Glaciologia
+    pt_br: Glaciologia
     ro: Glaciologie
     ru: гляциология
     sco: glaciology
@@ -187,8 +187,8 @@ dv_has_:
     sms: glasiologia
     sq: Glaciologjia
     sr: глациологија
-    sr-ec: глациологија
-    sr-el: glaciologija
+    sr_ec: глациологија
+    sr_el: glaciologija
     sv: glaciologi
     tg: Пиряхшиносӣ
     th: วิทยาธารน้ำแข็ง

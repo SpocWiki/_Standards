@@ -98,7 +98,7 @@ dv_has_:
     ang: blæcberige
     ar: عليق أسود
     bar: Mur
-    be-tarask: ажына
+    be_tarask: ажына
     bg: къпина
     bn: ব্ল্যাকবেরি
     br: mouar
@@ -131,7 +131,7 @@ dv_has_:
     kn: ಬ್ಲ್ಯಾಕ್ಬೆರಿ
     ko: 블랙베리
     ku: tûreşk
-    ku-latn: tûdirik
+    ku_latn: tûdirik
     la: Rubus (fructus)
     lt: gervuogė
     lv: kazene

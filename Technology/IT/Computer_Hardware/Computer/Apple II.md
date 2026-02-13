@@ -5,7 +5,7 @@ dv_has_:
     af: Apple II-reeks
     ar: آبل 2
     arz: آپل 2
-    be-tarask: сямейства Apple II
+    be_tarask: сямейства Apple II
     bg: Apple II
     bn: অ্যাপল ২
     bs: Apple II
@@ -15,8 +15,8 @@ dv_has_:
     de: Apple-II-Serie
     el: Apple II
     en: Apple II series
-    en-ca: Apple II series
-    en-gb: Apple II series
+    en_ca: Apple II series
+    en_gb: Apple II series
     eo: Apple II
     es: Apple II
     et: Apple II
@@ -42,7 +42,7 @@ dv_has_:
     pl: Apple II
     pnb: ایپل II
     pt: Série Apple II
-    pt-br: Apple II
+    pt_br: Apple II
     ro: seria Apple II
     ru: Apple II
     sh: Apple II
@@ -50,18 +50,18 @@ dv_has_:
     sk: Apple II
     sl: serija Apple II
     sr: Apple II
-    sr-ec: Apple II
-    sr-el: Apple II
+    sr_ec: Apple II
+    sr_el: Apple II
     sv: Apple II
     uk: Apple II
     wuu: Apple II
     zh: 蘋果II
-    zh-cn: Apple II
-    zh-hans: Apple II
-    zh-hant: Apple II
-    zh-hk: Apple II
-    zh-sg: Apple II
-    zh-tw: Apple II
+    zh_cn: Apple II
+    zh_hans: Apple II
+    zh_hant: Apple II
+    zh_hk: Apple II
+    zh_sg: Apple II
+    zh_tw: Apple II
 aliases:
 - Apple II
 - Apple II series

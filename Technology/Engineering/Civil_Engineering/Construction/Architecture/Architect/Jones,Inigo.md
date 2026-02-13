@@ -93,7 +93,7 @@ dv_has_:
     arz: انيجو جونز
     ast: Íñigo Jones
     be: Ініга Джонс
-    be-tarask: Ініга Джонз
+    be_tarask: Ініга Джонз
     bg: Иниго Джоунс
     ca: Inigo Jones
     cs: Inigo Jones
@@ -133,14 +133,14 @@ dv_has_:
     pl: Inigo Jones
     pms: Inigo Jones
     pt: Inigo Jones
-    pt-br: Inigo Jones
+    pt_br: Inigo Jones
     ru: Иниго Джонс
     sco: Inigo Jones
     sh: Inigo Jones
     sl: Inigo Jones
     sq: Inigo Jones
     sr: Иниго Џоунс
-    sr-ec: Иниго Џоунс
+    sr_ec: Иниго Џоунс
     sv: Inigo Jones
     th: อินิโก โจนส์
     tl: Inigo Jones
@@ -150,9 +150,9 @@ dv_has_:
     yi: איניגא דזשאנס
     yue: 伊尼高鍾斯
     zh: 伊尼戈.瓊斯
-    zh-cn: 伊尼戈·琼斯
-    zh-hans: 伊尼戈·琼斯
-    zh-hant: 伊尼戈.瓊斯
+    zh_cn: 伊尼戈·琼斯
+    zh_hans: 伊尼戈·琼斯
+    zh_hant: 伊尼戈.瓊斯
 ---
 # [[Jones,Inigo]] 
 

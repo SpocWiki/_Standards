@@ -124,7 +124,7 @@ dv_has_:
     ba: вакуум
     bar: Vakuum
     be: вакуум
-    be-tarask: вакуўм
+    be_tarask: вакуўм
     bg: вакуум
     bn: শূন্যস্থান
     bs: vakuum
@@ -229,7 +229,7 @@ dv_has_:
     tl: basyo
     tr: vakum
     tt: вакуум
-    tt-cyrl: вакуум
+    tt_cyrl: вакуум
     tyv: вакуум
     udm: омыртэм инты
     ug: ۋاكۇئۇم

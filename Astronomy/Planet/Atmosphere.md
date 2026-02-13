@@ -34,7 +34,7 @@ dv_has_:
     ba: атмосфера
     bcl: atmospera
     be: атмасфера
-    be-tarask: атмасфэра
+    be_tarask: атмасфэра
     bg: атмосфера
     bho: वायुमंडल (सामान्य)
     bn: বায়ুমণ্ডল
@@ -51,11 +51,11 @@ dv_has_:
     cy: atmosffer
     da: atmosfære
     de: Atmosphäre
-    de-ch: Atmosphäre
+    de_ch: Atmosphäre
     el: ατμόσφαιρα
     en: atmosphere
-    en-ca: atmosphere
-    en-gb: atmosphere
+    en_ca: atmosphere
+    en_gb: atmosphere
     eo: atmosfero
     es: atmósfera
     et: planeedi atmosfäär
@@ -105,7 +105,7 @@ dv_has_:
     lmo: atmusfera
     lt: atmosfera
     lv: atmosfēra
-    map-bms: Atmosfer
+    map_bms: Atmosfer
     mg: soson-drivotra
     mi: kōhauhau
     min: atmosfir
@@ -115,7 +115,7 @@ dv_has_:
     mnc: ᠰᡠᡴᡩᡠᠨ
     mr: वातावरण
     ms: atmosfera
-    ms-arab: اتموسفيرا
+    ms_arab: اتموسفيرا
     mt: atmosfera
     my: လေထု
     nan: tāi-khì-khoan
@@ -133,7 +133,7 @@ dv_has_:
     pnb: کرۂ ہوا
     ps: اتموسفیر
     pt: atmosfera
-    pt-br: atmosfera
+    pt_br: atmosfera
     ro: atmosferă
     ru: атмосфера
     sa: वायुमण्डलम्
@@ -152,8 +152,8 @@ dv_has_:
     sn: gute romweya
     sq: atmosfera
     sr: атмосфера
-    sr-ec: атмосфера
-    sr-el: atmosfera
+    sr_ec: атмосфера
+    sr_el: atmosfera
     stq: Atmosphäre
     sv: atmosfär
     sw: angahewa
@@ -181,14 +181,14 @@ dv_has_:
     yo: ojúọ̀run
     yue: 大氣層
     zh: 大氣層
-    zh-cn: 大气层
-    zh-hans: 大气层
-    zh-hant: 大氣層
-    zh-hk: 大氣層
-    zh-mo: 大氣層
+    zh_cn: 大气层
+    zh_hans: 大气层
+    zh_hant: 大氣層
+    zh_hk: 大氣層
+    zh_mo: 大氣層
     zh-my: 大气层
-    zh-sg: 大气层
-    zh-tw: 大氣層
+    zh_sg: 大气层
+    zh_tw: 大氣層
     zu: umoyambulunga
 aliases:
 - aAtmosfèr térès

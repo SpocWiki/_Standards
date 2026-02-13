@@ -97,7 +97,7 @@ dv_has_:
     az: dünya musiqisi
     ba: Этник музыка
     be: нацыянальная музыка
-    be-tarask: этнічная музыка
+    be_tarask: этнічная музыка
     bg: уърлд мюзик
     bn: বিশ্বসঙ্গীত
     br: World music
@@ -133,7 +133,7 @@ dv_has_:
     ja: ワールド音楽
     ko: 월드 뮤직
     ku: muzîka cîhanê
-    ku-latn: muzîka cîhanê
+    ku_latn: muzîka cîhanê
     lb: Weltmusek
     lt: pasaulio etninė muzika
     lv: pasaules mūzika
@@ -160,8 +160,8 @@ dv_has_:
     smn: maailmmuusik
     sms: maaiʹlm-musikk
     sr: етно музика
-    sr-ec: етно музика
-    sr-el: etno muzika
+    sr_ec: етно музика
+    sr_el: etno muzika
     stq: Waareldmusik
     sv: världsmusik
     ta: உலக இசை
@@ -172,12 +172,12 @@ dv_has_:
     vi: nhạc thế giới
     yue: 世界音樂
     zh: 世界音乐
-    zh-cn: 世界音乐
-    zh-hans: 世界音乐
-    zh-hant: 世界音樂
-    zh-hk: 世界音樂
-    zh-sg: 世界音乐
-    zh-tw: 世界音樂
+    zh_cn: 世界音乐
+    zh_hans: 世界音乐
+    zh_hant: 世界音樂
+    zh_hk: 世界音樂
+    zh_sg: 世界音乐
+    zh_tw: 世界音樂
 ---
 # [[World_Music]] 
 

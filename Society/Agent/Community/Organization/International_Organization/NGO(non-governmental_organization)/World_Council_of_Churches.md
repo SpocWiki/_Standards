@@ -142,17 +142,17 @@ dv_has_:
     arz: اتحاد الكنايس
     ast: Conseyu Mundial d'Ilesies
     be: Сусветны савет цэркваў
-    be-tarask: Сусьветная рада цэркваў
+    be_tarask: Сусьветная рада цэркваў
     ca: Consell Mundial d'Esglésies
     cs: Světová rada církví
     cy: Cyngor Eglwysi'r Byd
     da: Kirkernes Verdensråd
     de: Ökumenischer Rat der Kirchen
-    de-ch: Ökumenischer Rat der Kirchen
+    de_ch: Ökumenischer Rat der Kirchen
     el: Παγκόσμιο Συμβούλιο Εκκλησιών
     en: World Council of Churches
-    en-ca: World Council of Churches
-    en-gb: World Council of Churches
+    en_ca: World Council of Churches
+    en_gb: World Council of Churches
     eo: Monda Konsilio de Eklezioj
     es: Consejo Mundial de Iglesias
     et: Kirikute Maailmanõukogu
@@ -182,7 +182,7 @@ dv_has_:
     nn: Kyrkjeverdsrådet
     pl: Światowa Rada Kościołów
     pt: Conselho Mundial de Igrejas
-    pt-br: Conselho Mundial de Igrejas
+    pt_br: Conselho Mundial de Igrejas
     ro: Consiliul Mondial al Bisericilor
     ru: Всемирный совет церквей
     sco: Warld Cooncil o Kirks

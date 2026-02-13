@@ -102,7 +102,7 @@ dv_has_:
     ar: شكلة
     ast: diacríticu
     bar: diakritisches Zoachn
-    be-tarask: дыякрытык
+    be_tarask: дыякрытык
     bg: диакритичен знак
     br: sinoù diakritek
     ca: diacrític
@@ -166,8 +166,8 @@ dv_has_:
     sk: diakritické znamienko
     sl: diakritično znamenje
     sr: дијакритик
-    sr-ec: дијакритик
-    sr-el: dijakritik
+    sr_ec: дијакритик
+    sr_el: dijakritik
     sv: diakritiskt tecken
     th: เครื่องหมายเสริมสัทอักษร
     tl: tuldik
@@ -181,12 +181,12 @@ dv_has_:
     wuu: 附加符号
     yue: 變音符號
     zh: 附加符号
-    zh-cn: 附加符号
-    zh-hans: 附加符号
-    zh-hant: 附加符號
-    zh-hk: 附加符號
-    zh-sg: 附加符号
-    zh-tw: 附加符號
+    zh_cn: 附加符号
+    zh_hans: 附加符号
+    zh_hant: 附加符號
+    zh_hk: 附加符號
+    zh_sg: 附加符号
+    zh_tw: 附加符號
 ---
 # [[Diacritic]] 
 

@@ -96,7 +96,7 @@ dv_has_:
     ast: deporte de pelota
     ba: туп уйындары
     be: гульня з мячом
-    be-tarask: гульня зь мячом
+    be_tarask: гульня зь мячом
     bg: Игра с топка
     br: c'hoari pellenn
     bs: igra loptom
@@ -107,8 +107,8 @@ dv_has_:
     de: Ball- und Kugelsportart
     el: παιχνίδια μπάλας
     en: ball game
-    en-ca: ball game
-    en-gb: ball game
+    en_ca: ball game
+    en_gb: ball game
     eo: pilkosporto
     es: deporte de pelota
     et: pallimäng
@@ -158,11 +158,11 @@ dv_has_:
     sv: bollsport
     ta: பந்து விளையாட்டுக்கள்
     tg: Бози бо тӯб
-    tg-cyrl: бози бо тӯб
+    tg_cyrl: бози бо тӯб
     tok: musi sike
     tr: top oyunu
     tt: туплы уен
-    tt-cyrl: туплы уен
+    tt_cyrl: туплы уен
     uk: гра з м’ячем
     ur: بال والا کھیل
     vec: spor co bała
@@ -170,11 +170,11 @@ dv_has_:
     vro: Pallimäng
     yue: 打波
     zh: 球類運動
-    zh-cn: 球类运动
-    zh-hans: 球类运动
-    zh-hant: 球類運動
-    zh-hk: 球類運動
-    zh-tw: 球類運動
+    zh_cn: 球类运动
+    zh_hans: 球类运动
+    zh_hant: 球類運動
+    zh_hk: 球類運動
+    zh_tw: 球類運動
 ---
 # [[Ball_Game]] 
 

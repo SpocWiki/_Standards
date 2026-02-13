@@ -150,7 +150,7 @@ dv_has_:
     az: Aktinoidlər
     ban: Aktinida
     be: Актыноіды
-    be-tarask: актыніды
+    be_tarask: актыніды
     bg: актиноид
     bn: অ্যাক্টিনাইড
     bo: ཨེག་རྒྱུད།
@@ -246,8 +246,8 @@ dv_has_:
     yo: Áktínídì
     yue: 錒系元素
     zh: 錒系元素
-    zh-hant: 錒系元素
-    zh-tw: 錒系元素
+    zh_hant: 錒系元素
+    zh_tw: 錒系元素
 ---
 # [[Actinide]] 
 

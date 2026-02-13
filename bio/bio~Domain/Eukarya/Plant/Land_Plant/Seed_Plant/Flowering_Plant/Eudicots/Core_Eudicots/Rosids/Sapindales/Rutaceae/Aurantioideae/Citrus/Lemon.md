@@ -218,8 +218,8 @@ GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=10732
 Common_Procurement_Vocabulary_code: 03222210-8
 dv_has_:
   name_:
-    aeb-arab: قارص
-    aeb-latn: lima 9àrca
+    aeb_arab: قارص
+    aeb_latn: lima 9àrca
     af: Suurlemoen
     am: ሎሚ
     an: Limón
@@ -235,7 +235,7 @@ dv_has_:
     ba: лимон
     bar: Limauni
     be: лімон
-    be-tarask: лімон
+    be_tarask: лімон
     bg: лимон
     bi: Lemon
     bm: lemuruba
@@ -266,7 +266,7 @@ dv_has_:
     el: λεμόνι
     eml: Limòṅ
     en: Citrus × limon
-    en-gb: lemon
+    en_gb: lemon
     eo: citronujo
     es: limonero
     et: harilik sidrunipuu
@@ -348,7 +348,7 @@ dv_has_:
     nah: Limacuahuitl
     nan: Lê-bóng
     nb: sitrontre
-    nds-nl: zitroun
+    nds_nl: zitroun
     ne: कागती
     nl: citroen
     nn: sitron
@@ -365,7 +365,7 @@ dv_has_:
     pnb: نمبو
     ps: ليمو
     pt: limão
-    pt-br: Citrus ×limon
+    pt_br: Citrus ×limon
     qu: Puquy k'allku
     rm: citrona
     rmy: Limun
@@ -428,10 +428,10 @@ dv_has_:
     yi: לימענע
     yue: 檸檬
     zh: 柠檬
-    zh-cn: 柠檬
-    zh-hans: 柠檬
-    zh-hant: 檸檬
-    zh-tw: 檸檬
+    zh_cn: 柠檬
+    zh_hans: 柠檬
+    zh_hant: 檸檬
+    zh_tw: 檸檬
 ---
 # [[Lemon]]  🍋 
 

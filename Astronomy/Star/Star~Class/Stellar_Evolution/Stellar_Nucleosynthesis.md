@@ -66,7 +66,7 @@ dv_has_:
   name_:
     ar: تفاعلات الانصهار النجمي
     ast: Nucleosíntesis estelar
-    be-tarask: зорны нуклеосынтэз
+    be_tarask: зорны нуклеосынтэз
     bg: Космологичен нуклеосинтез
     bn: নাক্ষত্রিক নিউক্লিওসংশ্লেষণ
     bs: Zvjezdana nukleosinteza
@@ -109,9 +109,9 @@ dv_has_:
     vi: Tổng hợp hạt nhân sao
     yue: 恆星核合成
     zh: 恆星核合成
-    zh-hans: 恒星核合成
-    zh-hant: 恆星核合成
-    zh-hk: 恆星核合成
+    zh_hans: 恒星核合成
+    zh_hant: 恆星核合成
+    zh_hk: 恆星核合成
 ---
 # [[Stellar_Nucleosynthesis]] 
 

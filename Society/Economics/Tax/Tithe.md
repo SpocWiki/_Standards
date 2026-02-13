@@ -92,7 +92,7 @@ dv_has_:
     ast: Diezmu
     az: Dəhsiyyə
     ba: Дисәтинә
-    be-tarask: дзесяціна
+    be_tarask: дзесяціна
     bg: Десятък
     br: Deog
     ca: delme
@@ -152,8 +152,8 @@ dv_has_:
     wa: Déme
     yue: 什一奉獻
     zh: 十一奉獻
-    zh-hant: 十一奉獻
-    zh-hk: 十一奉獻
+    zh_hant: 十一奉獻
+    zh_hk: 十一奉獻
 ---
 # [[Tithe]] 
 

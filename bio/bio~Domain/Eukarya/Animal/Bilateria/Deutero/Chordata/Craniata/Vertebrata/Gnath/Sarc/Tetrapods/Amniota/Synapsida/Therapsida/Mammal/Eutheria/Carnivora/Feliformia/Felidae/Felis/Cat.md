@@ -207,7 +207,7 @@ dv_has_:
     oc: Felis catus
     pl: Felis catus
     pt: Felis catus
-    pt-br: Felis catus
+    pt_br: Felis catus
     ru: Felis catus
     sl: Felis catus
     sv: Felis catus
@@ -218,9 +218,9 @@ dv_has_:
     vec: Gato
     vo: Felis catus
     zh: Felis catus
-    zh-cn: Felis catus
-    zh-hant: Felis catus
-    zh-tw: 家貓
+    zh_cn: Felis catus
+    zh_hant: Felis catus
+    zh_tw: 家貓
 ---
 # [[Cat]] 🐱 
 

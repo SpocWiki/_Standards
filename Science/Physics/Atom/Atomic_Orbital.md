@@ -85,7 +85,7 @@ dv_has_:
     ast: Orbital
     az: Atom orbitalı
     be: Атамная арбіталь
-    be-tarask: атамная арбіталь
+    be_tarask: атамная арбіталь
     bg: Атомна орбитала
     bn: পারমাণবিক কক্ষক
     bs: Atomska orbitala
@@ -95,11 +95,11 @@ dv_has_:
     cy: Orbital atomig
     da: Atomorbital
     de: Orbital
-    de-ch: Orbital
+    de_ch: Orbital
     el: Ατομικό τροχιακό
     en: atomic orbital
-    en-ca: Atomic orbital
-    en-gb: atomic orbital
+    en_ca: Atomic orbital
+    en_gb: atomic orbital
     eo: atoma orbitfunkcio
     es: orbital atómico
     et: aatomorbitaal
@@ -141,7 +141,7 @@ dv_has_:
     pnb: ایٹمی مدار
     ps: اتومي مدار
     pt: orbital atómico
-    pt-br: orbital atômico
+    pt_br: orbital atômico
     ro: Orbital atomic
     ru: атомная орбиталь
     sh: Atomska orbitala

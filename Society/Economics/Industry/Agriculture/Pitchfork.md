@@ -85,7 +85,7 @@ dv_has_:
     ar: مذراة
     ast: Forca (preséu)
     be: Вілы
-    be-tarask: вілы
+    be_tarask: вілы
     bg: Вила (инструмент)
     bn: পিচফর্ক
     br: Forc'h
@@ -127,7 +127,7 @@ dv_has_:
     ms: Garu
     nb: høygaffel
     nds: Fork
-    nds-nl: grepe
+    nds_nl: grepe
     nl: mestvork
     nn: høygaffel
     oc: Forca
@@ -136,7 +136,7 @@ dv_has_:
     pnt: λιγμετέρ'
     ps: خاښۍ
     pt: forquilha
-    pt-br: forcado
+    pt_br: forcado
     ro: furcă
     ru: вилы
     rup: Furcâ

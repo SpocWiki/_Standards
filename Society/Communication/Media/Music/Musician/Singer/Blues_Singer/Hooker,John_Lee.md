@@ -87,7 +87,7 @@ dv_has_:
     azb: جان لی هوکر
     bar: John Lee Hooker
     be: Джон Лі Хукер
-    be-tarask: Джон Лі Гукер
+    be_tarask: Джон Лі Гукер
     bg: Джон Лий Хукър
     br: John Lee Hooker
     ca: John Lee Hooker
@@ -130,7 +130,7 @@ dv_has_:
     pap: John Lee Hooker
     pl: John Lee Hooker
     pt: John Lee Hooker
-    pt-br: John Lee Hooker
+    pt_br: John Lee Hooker
     ru: Джон Ли Хукер
     sh: John Lee Hooker
     sl: John Lee Hooker
@@ -143,8 +143,8 @@ dv_has_:
     war: John Lee Hooker
     yue: 約翰·李·霍克
     zh: 约翰·李·胡克
-    zh-cn: 约翰·李·霍克
-    zh-hant: 約翰·李·霍克
+    zh_cn: 约翰·李·霍克
+    zh_hant: 約翰·李·霍克
 ---
 # [[Hooker,John_Lee]] 
 

@@ -102,7 +102,7 @@ dv_has_:
     ast: rathaus
     az: Ratuşa
     be: Ратуша
-    be-tarask: ратуша
+    be_tarask: ратуша
     br: rathaus
     ca: rathaus
     cs: radnice
@@ -134,9 +134,9 @@ dv_has_:
     ja: 市庁舎
     ka: რატუშა
     kk: ратуша
-    kk-arab: راتۋشا
-    kk-cyrl: ратуша
-    kk-latn: ratwşa
+    kk_arab: راتۋشا
+    kk_cyrl: ратуша
+    kk_latn: ratwşa
     ko: 지방 관청
     ky: ратуша
     la: buleuterium
@@ -152,7 +152,7 @@ dv_has_:
     os: ратушæ
     pl: rathaus
     pt: rathaus
-    pt-br: rathaus
+    pt_br: rathaus
     ro: rathaus
     ru: ратуша
     rue: радниця
@@ -177,9 +177,9 @@ dv_has_:
     wuu: 地方政府大楼
     xmf: რატუშა
     zh: 地方政府大樓
-    zh-hans: 地方政府大楼
-    zh-hant: 地方政府大樓
-    zh-hk: 地方政府大樓
+    zh_hans: 地方政府大楼
+    zh_hant: 地方政府大樓
+    zh_hk: 地方政府大樓
 ---
 # [[Town_Hall]] 
 

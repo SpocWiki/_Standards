@@ -90,7 +90,7 @@ dv_has_:
     ast: Mitoloxía exipcia
     az: Misir mifologiyası
     be: міфалогія Старажытнага Егіпта
-    be-tarask: старажытнаэгіпецкая міталёгія
+    be_tarask: старажытнаэгіпецкая міталёгія
     bg: Египетска митология
     bn: মিশরীয় পুরাণ
     bs: Egipatska mitologija

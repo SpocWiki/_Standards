@@ -86,7 +86,7 @@ dv_has_:
     ast: National Football League
     az: Milli Futbol Liqası
     be: Нацыянальная футбольная ліга
-    be-tarask: Нацыянальная футбольная ліга
+    be_tarask: Нацыянальная футбольная ліга
     bg: Национална футболна лига
     bn: ন্যাশনাল ফুটবল লিগ
     bs: NFL
@@ -159,8 +159,8 @@ dv_has_:
     wuu: 国家橄榄球联盟
     yue: 國家美式足球聯盟
     zh: 全国橄榄球联盟
-    zh-cn: 全国橄榄球联盟
-    zh-hans: 全国橄榄球联盟
+    zh_cn: 全国橄榄球联盟
+    zh_hans: 全国橄榄球联盟
 ---
 # [[NFL(National_Football_League)]] 
 

@@ -337,7 +337,7 @@ dv_has_:
     ba: иҡтисад
     bcl: ekonomika
     be: эканоміка
-    be-tarask: эканоміка
+    be_tarask: эканоміка
     bg: икономика
     bho: अर्थशास्त्र
     bjn: Ikunumi
@@ -360,13 +360,13 @@ dv_has_:
     cy: economeg
     da: økonomisk videnskab
     de: Wirtschaftswissenschaft
-    de-ch: Wirtschaftswissenschaft
+    de_ch: Wirtschaftswissenschaft
     din: piöcmääcëkäŋ
     diq: İqtısad
     el: οικονομικά
     en: economics
-    en-ca: economics
-    en-gb: economics
+    en_ca: economics
+    en_gb: economics
     eo: ekonomiko
     es: ciencia económica
     et: majandusteadus
@@ -439,7 +439,7 @@ dv_has_:
     lzh: 計學
     mad: Èlmo èkonomi
     mai: अर्थशास्त्र
-    map-bms: ekonomi
+    map_bms: ekonomi
     mdf: экономикась
     mg: toe-karena
     mi: mātauranga ōhanga
@@ -448,14 +448,14 @@ dv_has_:
     mn: эдийн засаг
     mr: अर्थशास्त्र
     ms: ekonomi
-    ms-arab: علمو ايکونومي
+    ms_arab: علمو ايکونومي
     mt: ekonomija
     mwl: eiquenomie
     my: ဘောဂဗေဒ
     nan: keng-chè-ha̍k
     nb: samfunnsøkonomi
     nds: Weerdschopswetenschop
-    nds-nl: ekonomie
+    nds_nl: ekonomie
     ne: अर्थशास्त्र
     new: अर्थशास्त्र
     nl: economische wetenschappen
@@ -475,7 +475,7 @@ dv_has_:
     pnb: اکنامکس
     ps: وټپوهنه
     pt: ciência economia
-    pt-br: economia
+    pt_br: economia
     qu: musiku
     ro: economie
     rsk: привреда
@@ -502,8 +502,8 @@ dv_has_:
     so: dhaqaale
     sq: ekonomi
     sr: економија
-    sr-ec: економија
-    sr-el: ekonomija
+    sr_ec: економија
+    sr_el: ekonomija
     stq: Wirtskaft
     su: ékonomi
     sv: nationalekonomi
@@ -519,7 +519,7 @@ dv_has_:
     tr: iktisat
     ts: tidyondzo ta ikhonomi
     tt: икътисад
-    tt-cyrl: икътисад
+    tt_cyrl: икътисад
     udm: экономика
     ug: ئىقتىسادشۇناسلىق
     uk: економіка
@@ -541,14 +541,14 @@ dv_has_:
     za: ginghciyoz
     zea: economie
     zh: 经济学
-    zh-cn: 经济学
-    zh-hans: 经济学
-    zh-hant: 經濟學
-    zh-hk: 經濟學
-    zh-mo: 經濟學
+    zh_cn: 经济学
+    zh_hans: 经济学
+    zh_hant: 經濟學
+    zh_hk: 經濟學
+    zh_mo: 經濟學
     zh-my: 经济学
-    zh-sg: 经济学
-    zh-tw: 經濟學
+    zh_sg: 经济学
+    zh_tw: 經濟學
     zu: ezomnotho
 ---
 # [[Economics]] 

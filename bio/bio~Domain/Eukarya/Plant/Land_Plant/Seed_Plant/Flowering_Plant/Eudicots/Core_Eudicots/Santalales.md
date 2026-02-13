@@ -45,7 +45,7 @@ dv_has_:
     ast: Santalales
     az: Səndəlçiçəklilər
     be: Santalales
-    be-tarask: санталакветныя
+    be_tarask: санталакветныя
     bg: санталоцветни
     bs: Santalales
     ca: Santalals
@@ -56,8 +56,8 @@ dv_has_:
     de: Sandelholzartige
     el: Σανδαλιώδη
     en: Santalales
-    en-ca: Santalales
-    en-gb: Santalales
+    en_ca: Santalales
+    en_gb: Santalales
     eo: Santalaloj
     es: Santalales
     et: Linalehikulaadsed
@@ -94,7 +94,7 @@ dv_has_:
     oc: Santalales
     pl: Sandałowce
     pt: Santalales
-    pt-br: Santalales
+    pt_br: Santalales
     ro: Santalales
     ru: санталоцветные
     sk: santalotvaré
@@ -107,9 +107,9 @@ dv_has_:
     vo: Santalales
     war: Santalales
     zh: 檀香目
-    zh-cn: 檀香目
-    zh-hans: 檀香目
-    zh-hant: 檀香目
+    zh_cn: 檀香目
+    zh_hans: 檀香目
+    zh_hant: 檀香目
 ---
 ## Phylogeny 
 

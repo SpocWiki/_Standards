@@ -15,7 +15,7 @@ dv_has_:
     ban: Siung welang
     bcl: Kanggaru
     be: кенгуру
-    be-tarask: кенгуру
+    be_tarask: кенгуру
     bg: кенгуру
     bi: Kangaru
     bn: ক্যাংগারু
@@ -122,7 +122,7 @@ dv_has_:
     so: Kangaroo
     sq: Kanguri
     sr: кенгур
-    sr-ec: кенгур
+    sr_ec: кенгур
     srn: kanguru
     su: Kangguru
     sv: känguru
@@ -155,7 +155,7 @@ dv_has_:
     yue: 袋鼠
     za: Daesuj
     zh: 袋鼠
-    zh-hant: 袋鼠
+    zh_hant: 袋鼠
     zu: IKhangaru
 aliases:
 - Bikpela magani

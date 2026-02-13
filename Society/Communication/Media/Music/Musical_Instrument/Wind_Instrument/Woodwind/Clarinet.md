@@ -106,7 +106,7 @@ dv_has_:
     az: klarnet
     bar: Glarinettn
     be: кларнет
-    be-tarask: клярнэт
+    be_tarask: клярнэт
     bg: кларинет
     bn: ক্ল্যারিওনেট
     bs: Klarinet
@@ -119,8 +119,8 @@ dv_has_:
     diq: Qırnata
     el: κλαρινέτο
     en: clarinet
-    en-ca: Clarinet
-    en-gb: clarinet
+    en_ca: Clarinet
+    en_gb: clarinet
     eo: klarneto
     es: clarinete
     et: klarnet
@@ -165,7 +165,7 @@ dv_has_:
     nan: O͘-ta̍t-á
     nb: klarinett
     nds: Klarinette
-    nds-nl: klarinet
+    nds_nl: klarinet
     nl: klarinet
     nn: klarinett
     oc: Clarinet
@@ -173,7 +173,7 @@ dv_has_:
     pcd: Clérinète
     pl: klarnet
     pt: clarinete
-    pt-br: clarinete
+    pt_br: clarinete
     qu: Qipa pinkuyllu
     ro: clarinet
     rsk: Кларинет
@@ -190,8 +190,8 @@ dv_has_:
     sms: klarineʹtt
     sq: klarineta
     sr: кларинет
-    sr-ec: кларинет
-    sr-el: klarinet
+    sr_ec: кларинет
+    sr_el: klarinet
     stq: Klarinätte
     su: Saruni
     sv: klarinett
@@ -207,10 +207,10 @@ dv_has_:
     yi: קלארינעט
     yue: 單簧管
     zh: 單簧管
-    zh-hans: 单簧管
-    zh-hant: 單簧管
-    zh-hk: 單簧管
-    zh-tw: 單簧管
+    zh_hans: 单簧管
+    zh_hant: 單簧管
+    zh_hk: 單簧管
+    zh_tw: 單簧管
 ---
 # [[Clarinet]] 
 

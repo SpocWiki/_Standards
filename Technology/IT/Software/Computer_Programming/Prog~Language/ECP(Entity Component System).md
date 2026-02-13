@@ -14,8 +14,8 @@ dv_has_:
     pt: Entity-component-system
     uk: Entity Component System
     zh: 实体-组件-系统
-    zh-hans: 实体-组件-系统
-    zh-hant: 實體-元件-系統
+    zh_hans: 实体-组件-系统
+    zh_hant: 實體-元件-系統
 aliases:
 - Entidad-componente-sistema
 - entitet–komponent–system

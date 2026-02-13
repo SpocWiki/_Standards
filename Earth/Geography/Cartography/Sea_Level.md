@@ -139,7 +139,7 @@ dv_has_:
     azb: دنیز سویهسی
     ba: Диңгеҙ кимәле
     be: узровень мора
-    be-tarask: узровень мора
+    be_tarask: узровень мора
     bg: Морско равнище
     bho: समुद्र तल
     bn: সমুদ্র সমতল
@@ -183,8 +183,8 @@ dv_has_:
     kk: Абсоліоттік биіктік
     ko: 해수면
     ku: asta deryayê
-    ku-arab: ئاستا دەریایێ
-    ku-latn: asta deryayê
+    ku_arab: ئاستا دەریایێ
+    ku_latn: asta deryayê
     ky: Деңиз деңгээли
     la: Maris aequor
     li: Zieëniveau
@@ -193,7 +193,7 @@ dv_has_:
     lt: jūros lygis
     lv: jūras līmenis
     lzh: 海平面
-    map-bms: Nang dhuwur laut
+    map_bms: Nang dhuwur laut
     mg: Haavon'ny ranomasina
     mk: морско ниво
     ml: സമുദ്രനിരപ്പ്
@@ -231,7 +231,7 @@ dv_has_:
     th: ระดับน้ำทะเล
     tr: deniz seviyesi
     tt: диңгез дәрәҗәсе
-    tt-cyrl: диңгез дәрәҗәсе
+    tt_cyrl: диңгез дәрәҗәсе
     uk: рівень моря
     ur: سطح سمندر
     uz: Dengiz sathi
@@ -244,12 +244,12 @@ dv_has_:
     yue: 海平面
     zea: Zeêniveau
     zh: 海平面
-    zh-cn: 海平面
-    zh-hans: 海平面
-    zh-hant: 海平面
-    zh-hk: 海平面
-    zh-sg: 海平面
-    zh-tw: 海平面
+    zh_cn: 海平面
+    zh_hans: 海平面
+    zh_hant: 海平面
+    zh_hk: 海平面
+    zh_sg: 海平面
+    zh_tw: 海平面
 ---
 # [[Sea_Level]] 
 

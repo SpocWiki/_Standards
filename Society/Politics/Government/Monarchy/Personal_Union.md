@@ -75,7 +75,7 @@ dv_has_:
     ast: xunión personal
     az: şəxsi uniya
     be: асабістая унія
-    be-tarask: асабістая унія
+    be_tarask: асабістая унія
     bg: Лична уния
     bs: Personalna unija
     ca: unió personal
@@ -83,11 +83,11 @@ dv_has_:
     cy: Undeb personol
     da: Personalunion
     de: Personalunion
-    de-ch: Personalunion
+    de_ch: Personalunion
     el: προσωπική ένωση
     en: personal union
-    en-ca: Personal union
-    en-gb: Personal union
+    en_ca: Personal union
+    en_gb: Personal union
     eo: persona unio
     es: unión personal
     et: personaalunioon
@@ -120,7 +120,7 @@ dv_has_:
     oc: Union personala
     pl: unia personalna
     pt: união pessoal
-    pt-br: União pessoal
+    pt_br: União pessoal
     ro: Uniune personală
     ru: личная уния
     se: gonagaslihttu
@@ -129,8 +129,8 @@ dv_has_:
     sl: personalna unija
     sq: Bashkimi personal
     sr: лична унија
-    sr-ec: Персонална унија
-    sr-el: Personalna unija
+    sr_ec: Персонална унија
+    sr_el: Personalna unija
     sv: personalunion
     sw: Maungano ya kifalme
     ta: விரும்பிய ஒன்றிணைப்பு
@@ -142,12 +142,12 @@ dv_has_:
     wuu: 共主邦联
     yue: 共主邦聯
     zh: 共主邦聯
-    zh-cn: 共主邦联
-    zh-hans: 共主邦联
-    zh-hant: 共主邦聯
-    zh-hk: 共主邦聯
-    zh-sg: 共主邦联
-    zh-tw: 共主邦聯
+    zh_cn: 共主邦联
+    zh_hans: 共主邦联
+    zh_hant: 共主邦聯
+    zh_hk: 共主邦聯
+    zh_sg: 共主邦联
+    zh_tw: 共主邦聯
 ---
 # [[Personal_Union]] 
 

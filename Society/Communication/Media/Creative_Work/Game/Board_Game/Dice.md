@@ -125,7 +125,7 @@ dv_has_:
     az: Zər
     ban: cematu
     be: Ігральная косць
-    be-tarask: гульнявы кубік
+    be_tarask: гульнявы кубік
     bg: зар
     bn: পাশা খেলা
     br: diñs
@@ -139,7 +139,7 @@ dv_has_:
     de: Spielwürfel
     el: ζάρι
     en: dice
-    en-gb: dice
+    en_gb: dice
     eo: ĵetpluredro
     es: dado
     et: täring
@@ -169,7 +169,7 @@ dv_has_:
     lzh: 骰子
     mr: फासे
     ms: dadu
-    ms-arab: دادو
+    ms_arab: دادو
     nan: tâu-á
     nb: spillterning
     nds: Wörpel
@@ -178,7 +178,7 @@ dv_has_:
     oc: dat
     pl: kość do gry
     pt: dado
-    pt-br: dado
+    pt_br: dado
     qu: wayrukuna
     ro: zar
     ru: игральная кость
@@ -207,7 +207,7 @@ dv_has_:
     yue: 骰仔
     za: Lwgsaek
     zh: 骰子
-    zh-hans: 骰子
+    zh_hans: 骰子
 ---
 # [[Dice]] 🎲 
 

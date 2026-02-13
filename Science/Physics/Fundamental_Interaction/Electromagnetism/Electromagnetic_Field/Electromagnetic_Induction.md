@@ -105,7 +105,7 @@ dv_has_:
     ast: inducción lletromagnético
     az: Elektromaqnit induksiyası
     be: электрамагнітная індукцыя
-    be-tarask: электрамагнітная індукцыя
+    be_tarask: электрамагнітная індукцыя
     bg: Електромагнитна индукция
     bn: তড়িচ্চুম্বকীয় আবেশ
     br: Red induktet
@@ -168,7 +168,7 @@ dv_has_:
     smn: šleđgâmagneetlâš induktio
     sq: Induksioni elektromagnetik
     sr: електромагнетна индукција
-    sr-ec: електромагнетна индукција
+    sr_ec: електромагнетна индукција
     sv: elektromagnetisk induktion
     ta: மின்காந்தத் தூண்டல்
     tl: Induksiyong elektromagnetiko
@@ -181,7 +181,7 @@ dv_has_:
     wuu: 电磁感应
     yue: 電磁感應
     zh: 电磁感应
-    zh-hans: 电磁感应
+    zh_hans: 电磁感应
 ---
 # [[Electromagnetic_Induction]] 
 

@@ -65,7 +65,7 @@ dv_has_:
     ar: طبقة ربط البيانات
     az: Kanal səviyyəsinin layihələndirilməsi
     be: канальны ўзровень
-    be-tarask: канальны ўзровень
+    be_tarask: канальны ўзровень
     bg: Канален слой
     ca: capa d'enllaç de dades
     cs: linková vrstva
@@ -104,20 +104,20 @@ dv_has_:
     sl: plast podatkovne povezave
     sq: Data Link Layer
     sr: слој везе
-    sr-ec: Слој везе
-    sr-el: Sloj veze
+    sr_ec: Слој везе
+    sr_el: Sloj veze
     sv: datalänkskikt
     tr: Veri bağlantısı katmanı
     uk: канальний рівень
     vi: Tầng liên kết dữ liệu
     wuu: 数据链路层
     zh: 数据链路层
-    zh-cn: 数据链路层
-    zh-hans: 数据链路层
-    zh-hant: 資料連結層
-    zh-hk: 資料連結層
-    zh-sg: 数据链路层
-    zh-tw: 資料連結層
+    zh_cn: 数据链路层
+    zh_hans: 数据链路层
+    zh_hant: 資料連結層
+    zh_hk: 資料連結層
+    zh_sg: 数据链路层
+    zh_tw: 資料連結層
 ---
 # [[OSI~2-Data_Link]] 
 

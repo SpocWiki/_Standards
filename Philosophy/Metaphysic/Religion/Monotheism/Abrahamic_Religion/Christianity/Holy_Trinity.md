@@ -190,7 +190,7 @@ dv_has_:
     az: Üç üqnum
     bcl: Trinidad (Kristiyanismo)
     be: Троіца
-    be-tarask: Троіца
+    be_tarask: Троіца
     bg: Света Троица
     bn: ত্রিত্ব
     br: Trinded kristen
@@ -253,11 +253,11 @@ dv_has_:
     mo: Trinitarianism
     mr: ट्रिनिटी
     ms: Tritunggal
-    ms-arab: تريتوڠݢل
+    ms_arab: تريتوڠݢل
     mt: It-Trinità Mqaddsa
     nan: Sam-it
     nb: Den hellige treenighet
-    nds-nl: drijainhaid
+    nds_nl: drijainhaid
     nl: drie-eenheid
     nn: treeininga
     oc: Trinitat
@@ -265,7 +265,7 @@ dv_has_:
     pl: Trójca Święta
     pnb: تثلیت
     pt: Trindade
-    pt-br: Trindade
+    pt_br: Trindade
     qu: Kimsantin Dyus
     rm: Trinitad
     rmy: Treime
@@ -281,7 +281,7 @@ dv_has_:
     sms: Pââʹss Koummõhttsažvuõtt
     sq: Trinia
     sr: Света Тројство
-    sr-ec: Света Тројица
+    sr_ec: Света Тројица
     sv: treenighetsläran
     sw: Utatu
     ta: திரித்துவம்
@@ -304,8 +304,8 @@ dv_has_:
     yue: 三位一體
     zea: Drie-eenheid
     zh: 三位一體
-    zh-hans: 三位一体
-    zh-hant: 三位一體
+    zh_hans: 三位一体
+    zh_hant: 三位一體
     zu: Ziqu zinthathu
 ---
 # [[Holy_Trinity]] 

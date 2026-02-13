@@ -155,7 +155,7 @@ dv_has_:
     bar: konstruiate Sproch
     bcl: Tinugdas na tataramon
     be: штучная мова
-    be-tarask: штучная мова
+    be_tarask: штучная мова
     bew: Basa bikinan
     bg: изкуствен език
     bn: নির্মিত ভাষা
@@ -169,7 +169,7 @@ dv_has_:
     de: konstruierte Sprache
     el: τεχνητή γλώσσα
     en: constructed language
-    en-gb: constructed language
+    en_gb: constructed language
     eo: konstruita lingvo
     es: lengua construida
     et: tehiskeel
@@ -192,7 +192,7 @@ dv_has_:
     ig: constructed language
     io: konstruktita linguo
     is: tilbúið tungumál
-    isv-latn: umětny jezyk
+    isv_latn: umětny jezyk
     it: lingua artificiale
     ja: 人工言語
     jbo: lo runbau
@@ -203,7 +203,7 @@ dv_has_:
     kn: ಕೃತಕ ಭಾಷೆಗಳು
     ko: 인공어
     ku: zimanê çêkirî
-    ku-latn: zimanê çêkirî
+    ku_latn: zimanê çêkirî
     kv: лӧсьӧдӧм кыв
     ky: жасалма тилдер
     la: lingua artificiosa
@@ -218,7 +218,7 @@ dv_has_:
     mn: зохиомол хэл
     mr: कृत्रिम भाषा
     ms: bahasa buatan
-    ms-arab: بهاس بيناءن
+    ms_arab: بهاس بيناءن
     mzn: زوون بساتهبیی
     na: edorer it eman
     nan: jîn-chō gí-giân
@@ -248,7 +248,7 @@ dv_has_:
     sn: mutauro wekuumba
     sq: gjuha artificiale
     sr: изграђен језик
-    sr-ec: изграђен језик
+    sr_ec: изграђен језик
     stq: stilkene Sproake
     sv: konstruerat språk
     sw: lugha ya kuundwa
@@ -260,7 +260,7 @@ dv_has_:
     tok: toki sin
     tr: yapay dil
     tt: ясалма тел
-    tt-cyrl: ясалма тел
+    tt_cyrl: ясалма тел
     udm: лэсьтэм кыл
     ug: سۈنئىي تىل
     uk: штучна мова
@@ -272,10 +272,10 @@ dv_has_:
     wuu: 人工语言
     yue: 人造語言
     zh: 人工語言
-    zh-hans: 人工语言
-    zh-hant: 人工語言
-    zh-hk: 人工語言
-    zh-tw: 人工語言
+    zh_hans: 人工语言
+    zh_hant: 人工語言
+    zh_hk: 人工語言
+    zh_tw: 人工語言
 ---
 # [[Constructed_Language]] 
 

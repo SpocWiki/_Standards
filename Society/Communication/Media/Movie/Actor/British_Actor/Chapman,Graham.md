@@ -39,8 +39,8 @@ dv_has_:
     de: Graham Chapman
     el: Γκρέιχαμ Τσάπμαν
     en: Graham Chapman
-    en-ca: Graham Chapman
-    en-gb: Graham Chapman
+    en_ca: Graham Chapman
+    en_gb: Graham Chapman
     eo: Graham Chapman
     es: Graham Chapman
     eu: Graham Chapman
@@ -69,7 +69,7 @@ dv_has_:
     oc: Graham Chapman
     pl: Graham Chapman
     pt: Graham Chapman
-    pt-br: Graham Chapman
+    pt_br: Graham Chapman
     ro: Graham Chapman
     ru: Грэм Чепмен
     sco: Graham Chapman

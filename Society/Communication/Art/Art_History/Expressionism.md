@@ -96,7 +96,7 @@ dv_has_:
     avk: Lingeropafa muxareva
     az: ekspressionizm
     be: экспрэсіянізм
-    be-tarask: экспрэсіянізм
+    be_tarask: экспрэсіянізм
     bg: експресионизъм
     bjn: Ekspresionisme
     bn: বহির্মুদ্রাবাদ
@@ -149,7 +149,7 @@ dv_has_:
     mt: espressjoniżmu
     mzn: اکسپرسیونیسم
     nb: ekspresjonisme
-    nds-nl: ekspressionisme
+    nds_nl: ekspressionisme
     nl: expressionisme
     nn: ekspresjonisme
     oc: Expressionisme
@@ -170,8 +170,8 @@ dv_has_:
     sms: ekspressionismm
     sq: ekspresionizmi
     sr: експресионизам
-    sr-ec: експресионизам
-    sr-el: ekspresionizam
+    sr_ec: експресионизам
+    sr_el: ekspresionizam
     stq: Expressionismus
     sv: expressionism
     tg: ҳаяҷоннамоӣ

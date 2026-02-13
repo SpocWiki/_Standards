@@ -110,7 +110,7 @@ dv_has_:
     ba: Фунафути
     ban: Funafuti
     be: Атол Фунафуці
-    be-tarask: Фунафуці
+    be_tarask: Фунафуці
     bg: Фунафути
     bn: ফুনাফুটি
     bo: ཕུ་ན་ཕུ་ཊི།

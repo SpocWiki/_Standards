@@ -184,7 +184,7 @@ dv_has_:
     az: Milli Xokkey Liqası
     ba: Милли хоккей лигаһы
     be: Нацыянальная хакейная ліга
-    be-tarask: Нацыянальная хакейная ліга
+    be_tarask: Нацыянальная хакейная ліга
     bg: Национална хокейна лига
     ca: NHL
     eo: NHL
@@ -225,7 +225,7 @@ dv_has_:
     wuu: 国家冰球联盟
     yue: 國家冰球聯盟
     zh: 國家冰球聯盟
-    zh-hant: 國家冰球聯盟
+    zh_hant: 國家冰球聯盟
 ---
 # [[NHL(National_Hockey_League)]] 
 

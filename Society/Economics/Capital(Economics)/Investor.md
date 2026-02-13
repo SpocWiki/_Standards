@@ -99,7 +99,7 @@ dv_has_:
     azb: یاتیریمجی
     ba: инвестор
     be: інвестар
-    be-tarask: інвэстар
+    be_tarask: інвэстар
     bew: Cukong
     bn: বিনিয়োগকারী
     bs: investitor
@@ -144,7 +144,7 @@ dv_has_:
     mk: вложувач
     ml: നിക്ഷേപകൻ
     ms: pelabur
-    ms-arab: ڤلابور
+    ms_arab: ڤلابور
     mt: investitur
     nan: Tâu-chu-chiá
     nb: investor
@@ -154,14 +154,14 @@ dv_has_:
     pa: ਨਿਵੇਸ਼ਕ
     pl: inwestor
     pt: investidor
-    pt-br: investidor
+    pt_br: investidor
     ro: investitor
     ru: инвестор
     sco: investor
     sl: investitor
     sr: инвеститор
-    sr-ec: инвеститор
-    sr-el: investitor
+    sr_ec: инвеститор
+    sr_el: investitor
     sv: investerare
     ta: முதலீட்டாளர்
     tg: сармоягузор
@@ -175,8 +175,8 @@ dv_has_:
     yi: אינוועסטירער
     yue: 投資者
     zh: 投資者
-    zh-hant: 投資者
-    zh-tw: 投資者
+    zh_hant: 投資者
+    zh_tw: 投資者
 ---
 # [[Investor]] 
 

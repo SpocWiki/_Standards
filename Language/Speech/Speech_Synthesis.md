@@ -87,18 +87,18 @@ dv_has_:
     af: Spraaksintese
     ar: تصنيع صوتي
     ast: Síntesis de fala
-    be-tarask: сынтэз маўленьня
+    be_tarask: сынтэз маўленьня
     bg: Речеви синтез
     bn: বাক সংশ্লেষণ
     ca: síntesi de veu
     cs: syntéza řeči
     da: talesyntese
     de: Sprachsynthese
-    de-ch: Sprachsynthese
+    de_ch: Sprachsynthese
     el: Σύνθεση ομιλίας
     en: speech synthesis
-    en-ca: Speech synthesis
-    en-gb: speech synthesis
+    en_ca: Speech synthesis
+    en_gb: speech synthesis
     eo: parolsintezo
     es: síntesis de habla
     et: kõnesüntesaator
@@ -131,7 +131,7 @@ dv_has_:
     pl: synteza mowy
     ps: وینا ته د متن اړول
     pt: síntese de voz
-    pt-br: Síntese de voz
+    pt_br: Síntese de voz
     ro: sinteza vorbirii
     ru: синтез речи
     se: hállansyntesa
@@ -153,7 +153,7 @@ dv_has_:
     wa: Sinteze di pårlaedje
     yue: 語音合成
     zh: 语音合成
-    zh-hant: 語音合成
+    zh_hant: 語音合成
 ---
 # [[Speech_Synthesis]] 
 

@@ -37,11 +37,11 @@ dv_has_:
     da: Anomura
     de: Mittelkrebse
     de-at: Anomura
-    de-ch: Anomura
+    de_ch: Anomura
     el: Anomura
     en: Anomura
-    en-ca: Anomura
-    en-gb: Anomura
+    en_ca: Anomura
+    en_gb: Anomura
     eo: Anomura
     es: Anomura
     et: Anomura
@@ -78,7 +78,7 @@ dv_has_:
     nap: Anomura
     nb: Anomura
     nds: Anomura
-    nds-nl: Anomura
+    nds_nl: Anomura
     nl: Anomura
     nn: anomurar
     nrm: Anomura
@@ -88,7 +88,7 @@ dv_has_:
     pl: Miękkoodwłokowce
     pms: Anomura
     pt: Anomura
-    pt-br: Anomura
+    pt_br: Anomura
     rm: Anomura
     ro: Anomura
     ru: неполнохвостые
@@ -110,9 +110,9 @@ dv_has_:
     war: Anomura
     wo: Anomura
     zh: 異尾下目
-    zh-cn: 异尾下目
-    zh-hans: 异尾下目
-    zh-tw: 異尾下目
+    zh_cn: 异尾下目
+    zh_hans: 异尾下目
+    zh_tw: 異尾下目
     zu: Anomura
 ---
 # [[Anomura]] 

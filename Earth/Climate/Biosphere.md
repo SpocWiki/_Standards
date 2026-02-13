@@ -125,7 +125,7 @@ dv_has_:
     ba: биосфера
     bas: lìɓòŋol li ŋkɔ̀ŋ
     be: біясфера
-    be-tarask: біясфэра
+    be_tarask: біясфэра
     bg: биосфера
     bho: बायोस्फियर
     bn: জীবমণ্ডল
@@ -138,11 +138,11 @@ dv_has_:
     cy: biosffer
     da: biosfære
     de: Biosphäre
-    de-ch: Biosphäre
+    de_ch: Biosphäre
     el: βιόσφαιρα
     en: biosphere
-    en-ca: Biosphere
-    en-gb: biosphere
+    en_ca: Biosphere
+    en_gb: biosphere
     eo: biosfero
     es: biosfera
     et: biosfäär
@@ -175,13 +175,13 @@ dv_has_:
     lb: Biosphär
     lt: biosfera
     lv: biosfēra
-    map-bms: biosfer
+    map_bms: biosfer
     mdf: биосферась
     mk: биосфера
     ml: ജൈവമണ്ഡലം
     mn: шим мандал
     ms: biosfera
-    ms-arab: بيوسفيرا
+    ms_arab: بيوسفيرا
     nb: biosfære
     nl: biosfeer
     nn: Biosfære
@@ -193,7 +193,7 @@ dv_has_:
     pnb: بائیوسفیئر
     ps: بایوسفیر
     pt: biosfera
-    pt-br: biosfera
+    pt_br: biosfera
     qu: kawsay pacha
     ro: biosferă
     ru: биосфера
@@ -229,14 +229,14 @@ dv_has_:
     xmf: ბიოსფერო
     yue: 生物圈
     zh: 生物圈
-    zh-cn: 生物圈
-    zh-hans: 生物圈
-    zh-hant: 生物圈
-    zh-hk: 生物圈
-    zh-mo: 生物圈
+    zh_cn: 生物圈
+    zh_hans: 生物圈
+    zh_hant: 生物圈
+    zh_hk: 生物圈
+    zh_mo: 生物圈
     zh-my: 生物圈
-    zh-sg: 生物圈
-    zh-tw: 生物圈
+    zh_sg: 生物圈
+    zh_tw: 生物圈
 ---
 # [[Biosphere]] 
 

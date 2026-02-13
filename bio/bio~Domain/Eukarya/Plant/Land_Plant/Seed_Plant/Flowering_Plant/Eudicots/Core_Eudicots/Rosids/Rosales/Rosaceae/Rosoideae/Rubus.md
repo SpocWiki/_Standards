@@ -96,7 +96,7 @@ dv_has_:
     az: Moruq
     azb: بوی تیکان
     be: Маліна
-    be-tarask: Маліна
+    be_tarask: Маліна
     bg: къпина
     bs: Rubus
     ca: Rubus
@@ -105,12 +105,12 @@ dv_has_:
     cv: Хӑмла ҫырли
     da: brombær
     de: Rubus
-    de-ch: Rubus
+    de_ch: Rubus
     diq: Dırıke
     el: Βατομουριά
     en: Rubus
-    en-ca: Rubus
-    en-gb: Rubus
+    en_ca: Rubus
+    en_gb: Rubus
     eo: Rubuso
     es: Rubus
     et: Murakas
@@ -139,7 +139,7 @@ dv_has_:
     km: ប្លេកប៊ឺរី
     ko: 산딸기속
     ku: Dirişk
-    ku-latn: dirişk
+    ku_latn: dirişk
     la: Rubus
     li: Brieëme
     lt: Gervuogė
@@ -148,14 +148,14 @@ dv_has_:
     mul: Rubus
     mzn: تمش
     nb: bjørnebærslekta
-    nds-nl: brummel
+    nds_nl: brummel
     nl: Rubus
     nn: bjørnebærslekta
     oc: Rome
     os: Мæнæргъы
     pl: jeżyna
     pt: Rubus
-    pt-br: Rubus
+    pt_br: Rubus
     qu: Khari-khari
     ro: Rubus
     ru: рубус
@@ -179,14 +179,14 @@ dv_has_:
     wuu: 悬钩子属
     yue: 懸鉤子屬
     zh: 悬钩子属
-    zh-cn: 悬钩子属
-    zh-hans: 悬钩子属
-    zh-hant: 懸鉤子屬
-    zh-hk: 懸鉤子屬
-    zh-mo: 懸鉤子屬
+    zh_cn: 悬钩子属
+    zh_hans: 悬钩子属
+    zh_hant: 懸鉤子屬
+    zh_hk: 懸鉤子屬
+    zh_mo: 懸鉤子屬
     zh-my: 悬钩子属
-    zh-sg: 悬钩子属
-    zh-tw: 懸鉤子屬
+    zh_sg: 悬钩子属
+    zh_tw: 懸鉤子屬
 ---
 # [[Rubus]] 
 

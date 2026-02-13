@@ -122,7 +122,7 @@ dv_has_:
     azb: ایستعمار
     ba: колониализм
     be: каланіялізм
-    be-tarask: каляніялізм
+    be_tarask: каляніялізм
     bg: колониализъм
     bn: উপনিবেশবাদ
     br: trevadennouriezh
@@ -140,8 +140,8 @@ dv_has_:
     diq: koloniyalizm
     el: αποικιοκρατία
     en: colonialism
-    en-ca: Colonialism
-    en-gb: colonialism
+    en_ca: Colonialism
+    en_gb: colonialism
     en-us: colonialism
     eo: koloniismo
     es: colonialismo
@@ -201,7 +201,7 @@ dv_has_:
     nan: si̍t-bîn-chú-gī
     nb: kolonialisme
     nds: Kolonialismus
-    nds-nl: kolonialisme
+    nds_nl: kolonialisme
     ne: उपनिवेश
     new: देय् च्यलेगु
     nl: kolonialisme
@@ -215,7 +215,7 @@ dv_has_:
     pnb: نو آبادیاتی نظام
     ps: استعمار
     pt: colonialismo
-    pt-br: colonialismo
+    pt_br: colonialismo
     rm: colonialissem
     ro: colonialism
     ru: колониализм
@@ -238,7 +238,7 @@ dv_has_:
     so: gumeysiga
     sq: kolonializëm
     sr: колонијализам
-    sr-ec: колонијализам
+    sr_ec: колонијализам
     ss: Kubusa ngemakholonisi
     stq: kolonioalismus
     sv: kolonialism
@@ -263,14 +263,14 @@ dv_has_:
     yue: 殖民主義
     za: cigminzcujyi
     zh: 殖民主义
-    zh-cn: 殖民主义
-    zh-hans: 殖民主义
-    zh-hant: 殖民主義
-    zh-hk: 殖民主義
-    zh-mo: 殖民主義
+    zh_cn: 殖民主义
+    zh_hans: 殖民主义
+    zh_hant: 殖民主義
+    zh_hk: 殖民主義
+    zh_mo: 殖民主義
     zh-my: 殖民主义
-    zh-sg: 殖民主义
-    zh-tw: 殖民主義
+    zh_sg: 殖民主义
+    zh_tw: 殖民主義
     zu: UbuQoneli
 ---
 # [[Colonialism]] 

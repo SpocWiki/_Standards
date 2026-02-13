@@ -144,7 +144,7 @@ dv_has_:
     azb: میلوش فورمن
     ba: Милош Форман
     be: Мілаш Форман
-    be-tarask: Мілаш Форман
+    be_tarask: Мілаш Форман
     bg: Милош Форман
     bn: মিলশ ফরমান
     bs: Miloš Forman
@@ -156,8 +156,8 @@ dv_has_:
     de: Miloš Forman
     el: Μίλος Φόρμαν
     en: Miloš Forman
-    en-ca: Miloš Forman
-    en-gb: Miloš Forman
+    en_ca: Miloš Forman
+    en_gb: Miloš Forman
     eo: Miloš Forman
     es: Miloš Forman
     et: Miloš Forman
@@ -198,7 +198,7 @@ dv_has_:
     pap: Miloš Forman
     pl: Miloš Forman
     pt: Miloš Forman
-    pt-br: Miloš Forman
+    pt_br: Miloš Forman
     qu: Miloš Forman
     ro: Miloš Forman
     ru: Милош Форман
@@ -222,8 +222,8 @@ dv_has_:
     yo: Miloš Forman
     yue: 米路士·科曼
     zh: 米洛斯·福曼
-    zh-hant: 米洛斯·福曼
-    zh-sg: 米洛斯·福曼
+    zh_hant: 米洛斯·福曼
+    zh_sg: 米洛斯·福曼
 ---
 # [[Forman,Miloš]] 
 

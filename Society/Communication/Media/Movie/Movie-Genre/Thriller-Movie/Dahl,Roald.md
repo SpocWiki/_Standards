@@ -146,7 +146,7 @@ dv_has_:
     az: Roald Dal
     azb: رولد دال
     be: Роальд Даль
-    be-tarask: Роалд Дал
+    be_tarask: Роалд Дал
     bg: Роалд Дал
     bn: রুয়াল দাল
     ckb: ڕۆڵد داھڵ
@@ -185,9 +185,9 @@ dv_has_:
     xmf: როალდ დალი
     yue: 路德·打
     zh: 羅爾德·達爾
-    zh-hant: 羅爾德·達爾
-    zh-hk: 羅德·達爾
-    zh-tw: 羅德·達爾
+    zh_hant: 羅爾德·達爾
+    zh_hk: 羅德·達爾
+    zh_tw: 羅德·達爾
 ---
 # [[Dahl,Roald]] 
 

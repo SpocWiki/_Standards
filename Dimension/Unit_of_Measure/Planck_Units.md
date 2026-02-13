@@ -84,7 +84,7 @@ dv_has_:
     arz: وحدات بلانك
     ast: unidaes de Planck
     be: планкаўскія адзінкі
-    be-tarask: плянкаўскія адзінкі
+    be_tarask: плянкаўскія адзінкі
     bg: единици на Планк
     bs: prirodne jedinice
     ca: unitats de Planck
@@ -126,8 +126,8 @@ dv_has_:
     sk: Planckove jednotky
     sl: Planckov sistem enot
     sr: природна јединица
-    sr-ec: Природне јединице
-    sr-el: Prirodne jedinice
+    sr_ec: Природне јединице
+    sr_el: Prirodne jedinice
     sv: Planckenheter
     tr: Planck birimleri
     tt: Plank berämlekläre

@@ -113,7 +113,7 @@ dv_has_:
     az: çöl şpatları
     ba: Ҡыр шпаты
     be: Палявыя шпаты
-    be-tarask: палявік
+    be_tarask: палявік
     bg: Фелдшпат
     bho: फेल्सपार
     bn: ফেল্ডস্পার
@@ -147,11 +147,11 @@ dv_has_:
     ja: 長石
     ka: მინდვრის შპატები
     kk: Дала шпаттары
-    kk-arab: دالا شپاتتارى
+    kk_arab: دالا شپاتتارى
     kk-cn: دالا شپاتتارى
-    kk-cyrl: Дала шпаттары
+    kk_cyrl: Дала шпаттары
     kk-kz: Дала шпаттары
-    kk-latn: Dala şpattarı
+    kk_latn: Dala şpattarı
     kk-tr: Dala şpattarı
     ko: 장석
     kw: gwrysven
@@ -174,7 +174,7 @@ dv_has_:
     pnb: فیلسپار
     ps: فېلډسپار
     pt: feldspato
-    pt-br: feldspato
+    pt_br: feldspato
     ro: feldspat
     ru: полевые шпаты
     se: feltspáhta
@@ -184,8 +184,8 @@ dv_has_:
     smn: eennâmlaigos
     sms: skluudd
     sr: фелдспат
-    sr-ec: Фелдспат
-    sr-el: Feldspat
+    sr_ec: Фелдспат
+    sr_el: Feldspat
     sv: fältspat
     ta: ஃபெல்ட்ஸ்பார்
     th: เฟลด์สปาร์
@@ -197,12 +197,12 @@ dv_has_:
     wuu: 长石
     yue: 長石
     zh: 长石
-    zh-cn: 长石
-    zh-hans: 长石
-    zh-hant: 長石
-    zh-hk: 長石
-    zh-sg: 长石
-    zh-tw: 長石
+    zh_cn: 长石
+    zh_hans: 长石
+    zh_hant: 長石
+    zh_hk: 長石
+    zh_sg: 长石
+    zh_tw: 長石
 ---
 # [[Feldspar]] 
 

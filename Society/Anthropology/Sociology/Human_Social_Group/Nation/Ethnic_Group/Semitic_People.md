@@ -91,7 +91,7 @@ dv_has_:
     az: Samilər
     ba: Семиттар
     be: семіты
-    be-tarask: сэміты
+    be_tarask: сэміты
     bg: Семити
     bn: সেমিটিক
     bs: Semitski
@@ -143,7 +143,7 @@ dv_has_:
     pl: ludy semickie
     pnb: سامی قوم
     pt: semitas
-    pt-br: semitas
+    pt_br: semitas
     ro: Semiți
     ru: семиты
     rue: Семиты
@@ -164,7 +164,7 @@ dv_has_:
     xmf: სემიტეფი
     yue: 閃米人
     zh: 閃米特人
-    zh-hant: 閃米特人
+    zh_hant: 閃米特人
 ---
 # [[Semitic_People]] 
 

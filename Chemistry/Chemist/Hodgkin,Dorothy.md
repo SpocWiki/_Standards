@@ -180,7 +180,7 @@ dv_has_:
     azb: دوروتی هاجکین
     ba: Дороти Ходжкин
     be: Дораці Кроўфут-Ходжкін
-    be-tarask: Дораці Годжкін
+    be_tarask: Дораці Годжкін
     bg: Дороти Кроуфут Ходжкин
     bn: ডরোথি মেরি হজকিন
     bs: Dorothy Hodgkin
@@ -193,8 +193,8 @@ dv_has_:
     dtp: Dorothy Hodgkin
     el: Ντόροθι Χότζκιν
     en: Dorothy Hodgkin
-    en-ca: Dorothy Hodgkin
-    en-gb: Dorothy Hodgkin
+    en_ca: Dorothy Hodgkin
+    en_gb: Dorothy Hodgkin
     eo: Dorothy Hodgkin
     es: Dorothy Hodgkin
     et: Dorothy Crowfoot Hodgkin
@@ -244,7 +244,7 @@ dv_has_:
     pnb: ڈورتھی ہوجکن
     ps: ډوروټي هاجکین
     pt: Dorothy Crowfoot Hodgkin
-    pt-br: Dorothy Crowfoot Hodgkin
+    pt_br: Dorothy Crowfoot Hodgkin
     ro: Dorothy Crowfoot Hodgkin
     ru: Дороти Ходжкин
     sa: डारोति क्रोफट् हाज्किन्
@@ -253,7 +253,7 @@ dv_has_:
     sl: Dorothy Crowfoot Hodgkin
     sq: Dorothy Crowfoot Hodgkin
     sr: Дороти Кроуфут Хоџкин
-    sr-ec: Дороти Кроуфут Хоџкин
+    sr_ec: Дороти Кроуфут Хоџкин
     sv: Dorothy Crowfoot Hodgkin
     sw: Dorothy Hodgkin
     ta: டோரதி ஓட்ச்கின்

@@ -55,7 +55,7 @@ dv_has_:
     az: Denzel Vaşinqton
     azb: دنزل واشینقتن
     be: Дэнзел Вашынгтон
-    be-tarask: Дэнзэл Вашынгтон
+    be_tarask: Дэнзэл Вашынгтон
     bg: Дензъл Уошингтън
     bn: ডেনজেল ওয়াশিংটন
     br: Denzel Washington
@@ -67,12 +67,12 @@ dv_has_:
     cy: Denzel Washington
     da: Denzel Washington
     de: Denzel Washington
-    de-ch: Denzel Washington
+    de_ch: Denzel Washington
     el: Ντένζελ Ουάσινγκτον
     eml: Denzel Washington
     en: Denzel Washington
-    en-ca: Denzel Washington
-    en-gb: Denzel Washington
+    en_ca: Denzel Washington
+    en_gb: Denzel Washington
     eo: Denzel Washington
     es: Denzel Washington
     et: Denzel Washington
@@ -128,7 +128,7 @@ dv_has_:
     pl: Denzel Washington
     pms: Denzel Washington
     pt: Denzel Washington
-    pt-br: Denzel Washington
+    pt_br: Denzel Washington
     qu: Denzel Washington
     ro: Denzel Washington
     ru: Дензел Вашингтон
@@ -159,13 +159,13 @@ dv_has_:
     yo: Denzel Washington
     yue: 丹素華盛頓
     zh: 丹泽尔·华盛顿
-    zh-cn: 丹泽尔·华盛顿
-    zh-hans: 丹泽尔·华盛顿
-    zh-hant: 丹佐·華盛頓
-    zh-hk: 丹素·華盛頓
+    zh_cn: 丹泽尔·华盛顿
+    zh_hans: 丹泽尔·华盛顿
+    zh_hant: 丹佐·華盛頓
+    zh_hk: 丹素·華盛頓
     zh-my: 丹素·华盛顿
-    zh-sg: 丹佐·华盛顿
-    zh-tw: 丹佐·華盛頓
+    zh_sg: 丹佐·华盛顿
+    zh_tw: 丹佐·華盛頓
 ---
 # [[Washington,Denzel]] 
 

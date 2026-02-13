@@ -95,7 +95,7 @@ dv_has_:
     ast: desobediencia civil
     ban: Tan satinut ring sipil
     be: грамадзянскае непадпарадкаванне
-    be-tarask: грамадзянскае непадпарадкаваньне
+    be_tarask: грамадзянскае непадпарадкаваньне
     bg: Гражданско неподчинение
     bn: আইন অমান্য
     ca: desobediència civil
@@ -104,11 +104,11 @@ dv_has_:
     cy: Anufudd-dod sifil
     da: Civil ulydighed
     de: ziviler Ungehorsam
-    de-ch: Ziviler Ungehorsam
+    de_ch: Ziviler Ungehorsam
     el: πολιτική ανυπακοή
     en: civil disobedience
-    en-ca: Civil disobedience
-    en-gb: civil disobedience
+    en_ca: Civil disobedience
+    en_gb: civil disobedience
     eo: civila malobeo
     es: desobediencia civil
     et: Kodanikuallumatus
@@ -144,7 +144,7 @@ dv_has_:
     pl: obywatelskie nieposłuszeństwo
     ps: مدني نافرماني
     pt: desobediência civil
-    pt-br: Desobediência civil
+    pt_br: Desobediência civil
     ro: Nesupunere civică
     ru: гражданское неповиновение
     sd: سول نافرماني
@@ -153,7 +153,7 @@ dv_has_:
     sl: državljanska nepokorščina
     sq: Mosbindja civile
     sr: грађанска непослушност
-    sr-ec: грађанска непослушност
+    sr_ec: грађанска непослушност
     sv: civil olydnad
     ta: சட்ட மறுப்பு
     te: శాసనోల్లంఘన

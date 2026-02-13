@@ -73,7 +73,7 @@ dv_has_:
     pl: Giuseppe Peano
     pms: Giuseppe Peano
     pt: Giuseppe Peano
-    pt-br: Giuseppe Peano
+    pt_br: Giuseppe Peano
     ro: Giuseppe Peano
     ru: Джузеппе Пеано
     scn: Giuseppi Peanu
@@ -82,8 +82,8 @@ dv_has_:
     sl: Giuseppe Peano
     sq: Giuseppe Peano
     sr: Ђузепе Пеано
-    sr-ec: Ђузепе Пеано
-    sr-el: Đuzepe Peano
+    sr_ec: Ђузепе Пеано
+    sr_el: Đuzepe Peano
     sv: Giuseppe Peano
     tr: Giuseppe Peano
     uk: Джузеппе Пеано
@@ -91,12 +91,12 @@ dv_has_:
     xmf: ჯუზეპე პეანო
     yue: Giuseppe Peano
     zh: 朱塞佩·皮亞諾
-    zh-cn: 朱塞佩·皮亚诺
-    zh-hans: 朱塞佩·皮亚诺
-    zh-hant: 朱塞佩·皮亞諾
-    zh-hk: 朱塞佩·皮亞諾
-    zh-sg: 朱塞佩·皮亚诺
-    zh-tw: 朱塞佩·皮亞諾
+    zh_cn: 朱塞佩·皮亚诺
+    zh_hans: 朱塞佩·皮亚诺
+    zh_hant: 朱塞佩·皮亞諾
+    zh_hk: 朱塞佩·皮亞諾
+    zh_sg: 朱塞佩·皮亚诺
+    zh_tw: 朱塞佩·皮亞諾
 ---
 #has_/time_/started :: 1858-08-27 
 #has_/time_/stopped :: 1932-04-20 

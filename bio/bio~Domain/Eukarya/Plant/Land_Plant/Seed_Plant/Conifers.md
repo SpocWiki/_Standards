@@ -94,7 +94,7 @@ dv_has_:
     az: İynəyarpaqlılar (şöbə)
     ban: Pinophyta
     be: хвойныя
-    be-tarask: хвойныя
+    be_tarask: хвойныя
     bg: Иглолистни
     bs: Četinari
     ca: Pinòpsida
@@ -104,8 +104,8 @@ dv_has_:
     de: Pinophyta
     el: Κωνοφόρα
     en: conifer
-    en-ca: Pinophyta
-    en-gb: Pinophyta
+    en_ca: Pinophyta
+    en_gb: Pinophyta
     eo: Pinofitoj
     es: Pinidae
     et: okaspuud
@@ -135,11 +135,11 @@ dv_has_:
     ka: წიწვოვნები
     kab: Tizumbiyin
     kk: Қылқан жапырақтылар
-    kk-arab: قىلقان جاپىراقتىلار
+    kk_arab: قىلقان جاپىراقتىلار
     kk-cn: قىلقان جاپىراقتىلار
-    kk-cyrl: Қылқан жапырақтылар
+    kk_cyrl: Қылқан жапырақтылар
     kk-kz: Қылқан жапырақтылар
-    kk-latn: Qılqan japıraqtılar
+    kk_latn: Qılqan japıraqtılar
     kk-tr: Qılqan japıraqtılar
     ko: 구과식물
     la: Pinophyta
@@ -166,7 +166,7 @@ dv_has_:
     pms: Conìfera
     pnb: کھنگرے
     pt: Conífera
-    pt-br: Pinophyta
+    pt_br: Pinophyta
     qu: Akwayuq
     ro: Pinophyta
     ru: хвойные
@@ -181,8 +181,8 @@ dv_has_:
     sms: kuäʹccevmuõr
     sq: Pinophyta
     sr: четинари
-    sr-ec: Четинари
-    sr-el: Četinari
+    sr_ec: Четинари
+    sr_el: Četinari
     sv: barrväxter
     tg: Махрутиён
     th: พิโนฟิตา
@@ -198,12 +198,12 @@ dv_has_:
     wuu: 松柏门
     yue: 松柏門
     zh: 松柏門
-    zh-cn: 松柏门
-    zh-hans: 松柏门
-    zh-hant: 松柏門
-    zh-hk: 松柏門
-    zh-sg: 松柏门
-    zh-tw: 松柏門
+    zh_cn: 松柏门
+    zh_hans: 松柏门
+    zh_hant: 松柏門
+    zh_hk: 松柏門
+    zh_sg: 松柏门
+    zh_tw: 松柏門
 ---
 # [[Conifers]] 
 

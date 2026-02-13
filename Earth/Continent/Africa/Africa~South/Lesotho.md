@@ -450,7 +450,7 @@ dv_has_:
   name_:
     ab: Лесото
     ace: Lesotho
-    aeb-arab: ليسوتو
+    aeb_arab: ليسوتو
     af: Lesotho
     am: ሌሶቶ
     ami: Lesotho
@@ -470,7 +470,7 @@ dv_has_:
     bar: Lesotho
     bcl: Lesoto
     be: Лесота
-    be-tarask: Лесота
+    be_tarask: Лесота
     bew: Lésoto
     bg: Лесото
     bho: लिसोथो
@@ -484,14 +484,14 @@ dv_has_:
     bs: Lesoto
     bxr: Лесото
     ca: Lesotho
-    cbk-zam: Lesotho
+    cbk_zam: Lesotho
     cdo: Lesotho
     ce: Лесото
     ceb: Lesotho
     ckb: لیسۆتۆ
     co: Lezotu
     crh: Lesoto
-    crh-latn: Lesoto
+    crh_latn: Lesoto
     cs: Lesotho
     cv: Лесото
     cy: Lesotho
@@ -499,7 +499,7 @@ dv_has_:
     dag: Lesotho
     de: Lesotho
     de-at: Lesotho
-    de-ch: Lesotho
+    de_ch: Lesotho
     diq: Lesotho
     dsb: Lesotho
     dty: लेसोथो
@@ -507,8 +507,8 @@ dv_has_:
     ee: Lesotho
     el: Λεσότο
     en: Lesotho
-    en-ca: Lesotho
-    en-gb: Lesotho
+    en_ca: Lesotho
+    en_gb: Lesotho
     en-us: Lesotho
     eo: Lesoto
     es: Lesoto
@@ -603,7 +603,7 @@ dv_has_:
     nan: Lesotho
     nb: Lesotho
     nds: Lesotho
-    nds-nl: Lesoto
+    nds_nl: Lesoto
     ne: लेसोथो
     new: लेसोथो
     nl: Lesotho
@@ -629,7 +629,7 @@ dv_has_:
     pnb: لیسوتھو
     ps: لېسوتو
     pt: Lesoto
-    pt-br: Lesoto
+    pt_br: Lesoto
     qu: Suthusuyu
     rmy: Lesotho
     ro: Lesotho
@@ -656,8 +656,8 @@ dv_has_:
     so: Lesotho
     sq: Lesoto
     sr: Лесото
-    sr-ec: Лесото
-    sr-el: Lesoto
+    sr_ec: Лесото
+    sr_el: Lesoto
     ss: ÉLusûtfu
     st: Lesotho
     stq: Lesoto
@@ -706,14 +706,14 @@ dv_has_:
     zea: Lesotho
     zgh: ⵍⵉⵙⵓⵟⵓ
     zh: 莱索托
-    zh-cn: 莱索托
-    zh-hans: 莱索托
-    zh-hant: 賴索托
-    zh-hk: 萊索托
-    zh-mo: 莱索托
+    zh_cn: 莱索托
+    zh_hans: 莱索托
+    zh_hant: 賴索托
+    zh_hk: 萊索托
+    zh_mo: 莱索托
     zh-my: 莱索托
-    zh-sg: 莱索托
-    zh-tw: 賴索托
+    zh_sg: 莱索托
+    zh_tw: 賴索托
     zu: OSotho
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Lesotho

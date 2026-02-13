@@ -31,7 +31,7 @@ dv_has_:
     af: Diapsida
     ar: ثنائيات الأقواس
     ast: Diapsida
-    be-tarask: Diapsida
+    be_tarask: Diapsida
     bg: диапсиди
     bn: ডায়াপসিড
     ca: diàpsids
@@ -82,12 +82,12 @@ dv_has_:
     war: Diapsida
     wuu: 双孔亚纲
     zh: 雙孔亞綱
-    zh-cn: 双孔亚纲
-    zh-hans: 双孔亚纲
-    zh-hant: 雙孔亞綱
-    zh-hk: 雙孔亞綱
-    zh-sg: 双孔亚纲
-    zh-tw: 雙孔亞綱
+    zh_cn: 双孔亚纲
+    zh_hans: 双孔亚纲
+    zh_hant: 雙孔亞綱
+    zh_hk: 雙孔亞綱
+    zh_sg: 双孔亚纲
+    zh_tw: 雙孔亞綱
 ---
 # [[Diapsida]] 
 

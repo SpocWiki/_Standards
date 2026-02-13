@@ -183,7 +183,7 @@ dv_has_:
     ban: Gallium
     bcl: Galyo (elemento)
     be: Галій
-    be-tarask: галь
+    be_tarask: галь
     bg: галий
     bho: गैलियम
     blk: ကဲလီယမ်
@@ -204,7 +204,7 @@ dv_has_:
     el: γάλλιο
     eml: Gâli
     en: gallium
-    en-gb: gallium
+    en_gb: gallium
     eo: galiumo
     es: galio
     et: gallium
@@ -284,7 +284,7 @@ dv_has_:
     pnb: گیلیم
     ps: گاليوم
     pt: gálio
-    pt-br: gálio
+    pt_br: gálio
     qu: Galyu
     ro: galiu
     ru: галлий
@@ -301,7 +301,7 @@ dv_has_:
     so: Gaaliyaam
     sq: Galiumi
     sr: галијум
-    sr-ec: Галијум
+    sr_ec: Галијум
     stq: Gallium
     su: Galium
     sv: gallium
@@ -327,11 +327,11 @@ dv_has_:
     yo: Gallium
     yue: 鎵
     zh: 鎵
-    zh-cn: 镓
-    zh-hans: 镓
-    zh-hant: 鎵
-    zh-hk: 鎵
-    zh-tw: 鎵
+    zh_cn: 镓
+    zh_hans: 镓
+    zh_hant: 鎵
+    zh_hk: 鎵
+    zh_tw: 鎵
     zu: UmGambana
   number_of_:
     period: 4

@@ -84,7 +84,7 @@ dv_has_:
     az: fasad
     ban: Rupa Jaba Wangunan
     be: фасад
-    be-tarask: фасад
+    be_tarask: фасад
     bg: Фасада
     ca: façana
     cs: fasáda
@@ -93,7 +93,7 @@ dv_has_:
     de: Fassade
     el: πρόσοψη
     en: façade
-    en-gb: façade
+    en_gb: façade
     eo: fasado
     es: fachada
     et: Fassaad
@@ -113,11 +113,11 @@ dv_has_:
     it: facciata
     ja: ファサード
     kk: фасад
-    kk-arab: فاساد
+    kk_arab: فاساد
     kk-cn: فاساد
-    kk-cyrl: Фасад
+    kk_cyrl: Фасад
     kk-kz: Фасад
-    kk-latn: fasad
+    kk_latn: fasad
     kk-tr: Fasad
     ko: 파사드
     kw: talenep
@@ -129,14 +129,14 @@ dv_has_:
     ms: fakad
     nan: siù-bīn
     nb: fasade
-    nds-nl: Gèvel
+    nds_nl: Gèvel
     nl: gevel
     nn: Fasade
     oc: façada
     pap: hefel
     pl: fasada
     pt: fachada
-    pt-br: fachada
+    pt_br: fachada
     ro: Fațadă
     ru: фасад
     sah: Фасад
@@ -145,27 +145,27 @@ dv_has_:
     sk: fasáda
     sl: fasada
     sr: фасада
-    sr-ec: фасада
-    sr-el: fasada
+    sr_ec: фасада
+    sr_el: fasada
     sv: fasad
     tg: фасад
     th: ด้านหน้าอาคาร
     tr: cephe
     tt: фасад
-    tt-cyrl: фасад
-    tt-latn: fasad
+    tt_cyrl: фасад
+    tt_latn: fasad
     uk: фасад
     vec: faciada
     vi: mặt tiền
     wuu: 立面
     yue: 正立面
     zh: 立面
-    zh-cn: 立面
-    zh-hans: 立面
-    zh-hant: 立面
-    zh-hk: 立面
-    zh-sg: 立面
-    zh-tw: 立面
+    zh_cn: 立面
+    zh_hans: 立面
+    zh_hant: 立面
+    zh_hk: 立面
+    zh_sg: 立面
+    zh_tw: 立面
 ---
 # [[Façade]] 
 

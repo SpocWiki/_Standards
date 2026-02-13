@@ -155,7 +155,7 @@ dv_has_:
     bar: Natuakatastrophn
     bdr: Masap laat
     be: стыхійнае бедства
-    be-tarask: стыхійнае бедзтва
+    be_tarask: стыхійнае бедзтва
     bg: Природно бедствие
     bn: প্রাকৃতিক দুর্যোগ
     br: gwallzarvoud naturel
@@ -167,11 +167,11 @@ dv_has_:
     cy: trychineb naturiol
     da: naturkatastrofe
     de: Naturkatastrophe
-    de-ch: Naturkatastrophe
+    de_ch: Naturkatastrophe
     el: φυσική καταστροφή
     en: natural disaster
-    en-ca: natural disaster
-    en-gb: natural disaster
+    en_ca: natural disaster
+    en_gb: natural disaster
     eo: naturkatastrofo
     es: desastre natural
     et: loodusõnnetus
@@ -205,7 +205,7 @@ dv_has_:
     kn: ನೈಸರ್ಗಿಕ ವಿಕೋಪ
     ko: 자연재해
     ku: karesata xwezayî
-    ku-latn: karesata xwezayî
+    ku_latn: karesata xwezayî
     ky: Табият кырсыктары
     la: calamitas naturalis
     lb: Naturkatastroph
@@ -213,14 +213,14 @@ dv_has_:
     lmo: Disaster natural
     lt: stichinė nelaimė
     lv: dabas katastrofa
-    map-bms: bencana alam
+    map_bms: bencana alam
     mi: Aituā (Taiao)
     mk: Природна катастрофа
     ml: പ്രകൃതിക്ഷോഭം
     mn: Байгалийн гамшиг
     mr: नैसर्गिक संकट
     ms: bencana alam
-    ms-arab: بنچان عالم
+    ms_arab: بنچان عالم
     my: သဘာဝဘေးအန္တရာယ်
     myv: Колакст
     nan: Chū-jiân chai-hāi
@@ -236,7 +236,7 @@ dv_has_:
     pnb: قدرتی تباہی
     ps: طبيعي ناورين
     pt: desastre natural
-    pt-br: desastre natural
+    pt_br: desastre natural
     ro: dezastru natural
     ru: стихийное бедствие
     sa: प्राकृतिकी आपद्
@@ -255,7 +255,7 @@ dv_has_:
     sms: luâđkatastroof
     sq: fatkeqësi natyrore
     sr: природна катастрофа
-    sr-ec: природна катастрофа
+    sr_ec: природна катастрофа
     sv: naturkatastrof
     sw: Maafa asilia
     ta: இயற்கைப் பேரழிவு
@@ -276,9 +276,9 @@ dv_has_:
     yi: נאטירלעכע קאטאסטראפע
     yue: 天災
     zh: 自然灾害
-    zh-hans: 自然灾害
-    zh-hant: 自然災害
-    zh-tw: 自然災害
+    zh_hans: 自然灾害
+    zh_hant: 自然災害
+    zh_tw: 自然災害
 ---
 # [[Disaster]] 
 

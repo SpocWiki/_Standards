@@ -99,7 +99,7 @@ dv_has_:
     ast: Innovación
     az: İnnovasiya
     be: інавацыя
-    be-tarask: інавацыя
+    be_tarask: інавацыя
     bg: Иновация
     bn: নবীকরণ
     bs: Inovacija
@@ -109,7 +109,7 @@ dv_has_:
     de: Innovation
     el: καινοτομία
     en: innovation
-    en-gb: innovation
+    en_gb: innovation
     eo: novigo
     es: innovación
     et: innovatsioon
@@ -134,11 +134,11 @@ dv_has_:
     ka: ინოვაცია
     kaa: Innovaciya
     kk: Инновация
-    kk-arab: ىيننوۆاتسىييا
+    kk_arab: ىيننوۆاتسىييا
     kk-cn: ىيننوۆاتسىييا
-    kk-cyrl: Инновация
+    kk_cyrl: Инновация
     kk-kz: Инновация
-    kk-latn: Ïnnovacïya
+    kk_latn: Ïnnovacïya
     kk-tr: Ïnnovacïya
     ko: 혁신
     ky: Инновация
@@ -157,7 +157,7 @@ dv_has_:
     pms: Inovassion
     ps: نوښت
     pt: inovação
-    pt-br: inovação
+    pt_br: inovação
     ro: inovație
     ru: инновация
     se: innovašuvdna
@@ -169,8 +169,8 @@ dv_has_:
     so: Halabuurnimo
     sq: Inovacioni
     sr: иновација
-    sr-ec: иновација
-    sr-el: Inovacija
+    sr_ec: иновација
+    sr_el: Inovacija
     sv: innovation
     ta: புத்தாக்கம்
     te: ఆవిష్కరణ
@@ -186,12 +186,12 @@ dv_has_:
     wuu: 创新
     yue: 創新
     zh: 創新
-    zh-cn: 创新
-    zh-hans: 创新
-    zh-hant: 創新
-    zh-hk: 創新
-    zh-sg: 创新
-    zh-tw: 創新
+    zh_cn: 创新
+    zh_hans: 创新
+    zh_hant: 創新
+    zh_hk: 創新
+    zh_sg: 创新
+    zh_tw: 創新
     zu: UCandululo
 ---
 # [[Innovation]] 

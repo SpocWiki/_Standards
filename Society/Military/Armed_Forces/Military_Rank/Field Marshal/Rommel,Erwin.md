@@ -140,7 +140,7 @@ dv_has_:
     ast: Erwin Rommel
     az: Ervin Rommel
     be: Эрвін Ромель
-    be-tarask: Эрвін Ромэль
+    be_tarask: Эрвін Ромэль
     bg: Ервин Ромел
     bn: এর্ভিন রমেল
     br: Erwin Rommel
@@ -203,7 +203,7 @@ dv_has_:
     pl: Erwin Rommel
     pnb: جنرل رومیل
     pt: Erwin Rommel
-    pt-br: Erwin Rommel
+    pt_br: Erwin Rommel
     ro: Erwin Rommel
     ru: Эрвин Роммель
     sco: Erwin Rommel
@@ -212,8 +212,8 @@ dv_has_:
     sl: Erwin Rommel
     sq: Erwin Rommel
     sr: Ервин Ромел
-    sr-ec: Ервин Ромел
-    sr-el: Ervin Romel
+    sr_ec: Ервин Ромел
+    sr_el: Ervin Romel
     sv: Erwin Rommel
     ta: இர்வின் ரோமெல்
     th: แอร์วีน ร็อมเมิล
@@ -228,11 +228,11 @@ dv_has_:
     yi: ערווין ראמעל
     yue: 隆美爾
     zh: 埃尔温·隆美尔
-    zh-cn: 埃尔温·隆美尔
-    zh-hans: 埃尔温·隆美尔
-    zh-hant: 埃爾溫·隆美爾
-    zh-hk: 埃爾溫·隆美爾
-    zh-tw: 埃爾溫·隆美爾
+    zh_cn: 埃尔温·隆美尔
+    zh_hans: 埃尔温·隆美尔
+    zh_hant: 埃爾溫·隆美爾
+    zh_hk: 埃爾溫·隆美爾
+    zh_tw: 埃爾溫·隆美爾
 ---
 # [[Rommel,Erwin]] 
 

@@ -128,7 +128,7 @@ dv_has_:
     az: Rekreasiya
     ba: ял
     be: адпачынак
-    be-tarask: адпачынак
+    be_tarask: адпачынак
     bg: Отдих
     bn: অবসর বিনোদন
     br: dudi
@@ -170,11 +170,11 @@ dv_has_:
     jam: Rikrieshan
     kaa: dem alıs
     kk: Демалу
-    kk-arab: دەمالۋ
+    kk_arab: دەمالۋ
     kk-cn: دەمالۋ
-    kk-cyrl: Демалу
+    kk_cyrl: Демалу
     kk-kz: Демалу
-    kk-latn: Demalw
+    kk_latn: Demalw
     kk-tr: Demalw
     ko: 레크리에이션
     ky: Эс алуу
@@ -183,7 +183,7 @@ dv_has_:
     mi: Tākaro
     mk: рекреација
     ms: rekreasi
-    ms-arab: ريکرياسي
+    ms_arab: ريکرياسي
     nb: rekreasjon
     new: न्ह्याइपुकेगु
     nl: recreatie
@@ -195,7 +195,7 @@ dv_has_:
     pap: recreacion
     pl: rekreacja
     pt: lazer
-    pt-br: recreação
+    pt_br: recreação
     ro: recreere
     ru: отдых
     rw: KWIDAGADURA
@@ -205,17 +205,17 @@ dv_has_:
     sl: rekreacija
     sq: argëtim
     sr: рекреација
-    sr-ec: рекреација
-    sr-el: rekreacija
+    sr_ec: рекреација
+    sr_el: rekreacija
     sv: rekreation
     tg: Кайфият
-    tg-latn: Kajfijat
+    tg_latn: Kajfijat
     th: นันทนาการ
     tl: Rekreasyon
     tr: rekreasyon
     tt: ял
-    tt-cyrl: ял
-    tt-latn: yal
+    tt_cyrl: ял
+    tt_latn: yal
     udm: шутэтсконуж
     uk: рекреація
     uz: Dam olish
@@ -225,11 +225,11 @@ dv_has_:
     wuu: 休闲活动
     yue: 消閒
     zh: 休閒
-    zh-cn: 休闲
-    zh-hans: 休闲
-    zh-hant: 休閒
-    zh-hk: 休閒
-    zh-tw: 休閒
+    zh_cn: 休闲
+    zh_hans: 休闲
+    zh_hant: 休閒
+    zh_hk: 休閒
+    zh_tw: 休閒
 ---
 # [[Recreation]] 
 

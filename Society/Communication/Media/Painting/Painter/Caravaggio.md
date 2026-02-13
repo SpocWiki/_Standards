@@ -205,7 +205,7 @@ dv_has_:
     az: Karavacco
     ba: Микеланджело Караваджо
     be: Караваджа
-    be-tarask: Караваджа
+    be_tarask: Караваджа
     bg: Микеланджело да Караваджо
     bn: কারাভাজ্জো
     bo: ཨིལ་ཁས་ར་ཝ་ཇིའོ།
@@ -218,11 +218,11 @@ dv_has_:
     cy: Caravaggio
     da: Michelangelo di Caravaggio
     de: Michelangelo Merisi da Caravaggio
-    de-ch: Michelangelo Merisi da Caravaggio
+    de_ch: Michelangelo Merisi da Caravaggio
     el: Καραβάτζο
     en: Caravaggio
-    en-ca: Caravaggio
-    en-gb: Caravaggio
+    en_ca: Caravaggio
+    en_gb: Caravaggio
     eo: Michelangelo Merisi da Caravaggio
     es: Caravaggio
     et: Michelangelo Caravaggio
@@ -274,7 +274,7 @@ dv_has_:
     pl: Caravaggio
     pms: Caravaggio
     pt: Caravaggio
-    pt-br: Caravaggio
+    pt_br: Caravaggio
     qu: Caravaggio
     ro: Caravaggio
     ru: Караваджо
@@ -285,7 +285,7 @@ dv_has_:
     sl: Caravaggio
     sq: Karavaxho
     sr: Каравађо
-    sr-ec: Каравађо
+    sr_ec: Каравађо
     sv: Caravaggio
     sw: Caravaggio
     ta: கரவாஜியோ
@@ -302,9 +302,9 @@ dv_has_:
     xmf: კარავაჯო
     yue: 卡拉華佐
     zh: 卡拉瓦乔
-    zh-cn: 卡拉瓦乔
-    zh-hk: 卡拉華治奧
-    zh-tw: 卡拉瓦喬
+    zh_cn: 卡拉瓦乔
+    zh_hk: 卡拉華治奧
+    zh_tw: 卡拉瓦喬
 ---
 # [[Caravaggio]] 
 

@@ -150,7 +150,7 @@ dv_has_:
     bar: Ada Lovelace
     bcl: Ada Lovelace
     be: Ада Лаўлейс
-    be-tarask: Ада Лаўлэйс
+    be_tarask: Ада Лаўлэйс
     bg: Ада Лъвлейс
     bjn: Ada Lovelace
     bn: অ্যাডা লাভলেস
@@ -167,11 +167,11 @@ dv_has_:
     dag: Ada Lovelace
     de: Ada Lovelace
     de-at: Ada Lovelace
-    de-ch: Ada Lovelace
+    de_ch: Ada Lovelace
     el: Άντα Λάβλεϊς
     en: Ada Lovelace
-    en-ca: Ada Lovelace
-    en-gb: Ada Lovelace
+    en_ca: Ada Lovelace
+    en_gb: Ada Lovelace
     en-us: Ada Lovelace
     eo: Ada Lovelace
     es: Ada Lovelace
@@ -222,7 +222,7 @@ dv_has_:
     lt: Ada Lovelace
     lv: Ada Lavleisa
     mai: एडा लभलेस
-    map-bms: Ada Lovelace
+    map_bms: Ada Lovelace
     mg: Ada Lovelace
     min: Ada Lovelace
     mk: Ада Лавлејс
@@ -235,7 +235,7 @@ dv_has_:
     nap: Ada Lovelace
     nb: Ada Lovelace
     nds: Ada Lovelace
-    nds-nl: Ada Lovelace
+    nds_nl: Ada Lovelace
     ne: एडा लभलेस
     nl: Ada Lovelace
     nn: Ada Byron Lovelace
@@ -250,7 +250,7 @@ dv_has_:
     pms: Ada Byron King
     ps: ادا لولېس
     pt: Ada Lovelace
-    pt-br: Ada Lovelace
+    pt_br: Ada Lovelace
     rm: Ada Lovelace
     ro: Ada Lovelace
     ru: Ада Лавлейс
@@ -266,7 +266,7 @@ dv_has_:
     sl: Ada Lovelace
     sq: Ada Lovelace
     sr: Ејда Кинг Лавлејс
-    sr-el: Ada Lovelace
+    sr_el: Ada Lovelace
     su: Ada Lovelace
     sv: Ada Lovelace
     sw: Ada Lovelace
@@ -292,8 +292,8 @@ dv_has_:
     yo: Ada Lovelace
     yue: 勒芙蕾絲
     zh: 愛達·勒芙蕾絲
-    zh-hans: 爱达·勒芙蕾丝
-    zh-hant: 愛達·勒芙蕾絲
+    zh_hans: 爱达·勒芙蕾丝
+    zh_hant: 愛達·勒芙蕾絲
     zu: Ada Lovelace
 ---
 # [[Lovelace,Ada]] 

@@ -87,7 +87,7 @@ dv_has_:
     ast: Cayida llibre
     az: Sərbəst düşmə
     be: Вольнае падзенне
-    be-tarask: вольнае падзеньне
+    be_tarask: вольнае падзеньне
     bg: Свободно падане
     bs: Slobodni pad
     ca: caiguda lliure
@@ -118,11 +118,11 @@ dv_has_:
     it: caduta libera
     ja: 自由落下
     kk: Дененің еркін түсуі
-    kk-arab: دەنەنىڭ ەركىن ٴتۇسۋى
+    kk_arab: دەنەنىڭ ەركىن ٴتۇسۋى
     kk-cn: دەنەنىڭ ەركىن ٴتۇسۋى
-    kk-cyrl: Дененің еркін түсуі
+    kk_cyrl: Дененің еркін түсуі
     kk-kz: Дененің еркін түсуі
-    kk-latn: Deneniñ erkin tüswi
+    kk_latn: Deneniñ erkin tüswi
     kk-tr: Deneniñ erkin tüswi
     ko: 자유 낙하
     lt: Laisvasis kritimas
@@ -154,12 +154,12 @@ dv_has_:
     wuu: 自由落体
     yue: 自由下墜
     zh: 自由落體
-    zh-cn: 自由落体
-    zh-hans: 自由落体
-    zh-hant: 自由落體
-    zh-hk: 自由落體
-    zh-sg: 自由落体
-    zh-tw: 自由落體
+    zh_cn: 自由落体
+    zh_hans: 自由落体
+    zh_hant: 自由落體
+    zh_hk: 自由落體
+    zh_sg: 自由落体
+    zh_tw: 自由落體
 ---
 # [[Free_Fall]] 
 

@@ -224,7 +224,7 @@ dv_has_:
     ba: Париждағы Нотр-Дам соборы
     ban: Notre Dame de Paris
     be: Сабор Парыжскай Божай Маці
-    be-tarask: Катэдра Парыскай Божай Маці
+    be_tarask: Катэдра Парыскай Божай Маці
     bg: Света Богородица
     bn: নোত্র্ দাম দ্য পারি
     br: Iliz-veur Notre-Dame
@@ -237,11 +237,11 @@ dv_has_:
     cy: Notre-Dame de Paris
     da: Notre Dame
     de: Notre-Dame de Paris
-    de-ch: Kathedrale Notre-Dame de Paris
+    de_ch: Kathedrale Notre-Dame de Paris
     el: Καθεδρικός Ναός της Παναγίας των Παρισίων
     en: Notre-Dame de Paris
-    en-ca: Notre-Dame de Paris
-    en-gb: Notre-Dame de Paris
+    en_ca: Notre-Dame de Paris
+    en_gb: Notre-Dame de Paris
     eo: Katedralo Nia Sinjorino de Parizo
     es: Notre-Dame de París
     et: Notre-Dame
@@ -289,7 +289,7 @@ dv_has_:
     mt: Notre-Dame de Paris
     nan: Pa-lí Notre-Dame Tāi-sèng-tông
     nb: Notre-Dame de Paris
-    nds-nl: Notre-Dame van Paries
+    nds_nl: Notre-Dame van Paries
     ne: नोत्रे दामे दे पारिस
     nl: Notre-Dame van Parijs
     nn: Notre-Dame de Paris
@@ -301,7 +301,7 @@ dv_has_:
     pms: Catedral ëd Notre-Dame
     pnb: نوٹرڈیم ڈی پیرس
     pt: Notre-Dame de Paris
-    pt-br: Catedral de Notre-Dame de Paris
+    pt_br: Catedral de Notre-Dame de Paris
     ro: Notre-Dame de Paris
     ru: Собор Парижской Богоматери
     sah: Таҥара ийэтин Париижтааҕы собуора
@@ -333,10 +333,10 @@ dv_has_:
     yue: 巴黎聖母院
     zea: Notre Dame
     zh: 巴黎聖母院
-    zh-cn: 巴黎聖母院
-    zh-hans: 巴黎圣母院
-    zh-hant: 巴黎聖母院
-    zh-tw: 巴黎聖母院
+    zh_cn: 巴黎聖母院
+    zh_hans: 巴黎圣母院
+    zh_hant: 巴黎聖母院
+    zh_tw: 巴黎聖母院
 ---
 # [[Notre-Dame_de_Paris]] 
 

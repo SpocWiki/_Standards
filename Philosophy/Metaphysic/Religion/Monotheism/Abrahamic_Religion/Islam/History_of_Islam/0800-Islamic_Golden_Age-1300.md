@@ -104,7 +104,7 @@ dv_has_:
     ba: Исламдың алтын быуаты
     bcl: Bulawan na Panahon Islamiko
     be: Залаты век ісламу
-    be-tarask: Залаты век ісламу
+    be_tarask: Залаты век ісламу
     bg: Ислямски златен век
     bn: ইসলামি স্বর্ণযুগ
     bs: Zlatno doba islama
@@ -117,8 +117,8 @@ dv_has_:
     de: Blütezeit des Islam
     el: Χρυσή Εποχή του Ισλάμ
     en: Islamic Golden Age
-    en-ca: Islamic Golden Age
-    en-gb: Islamic Golden Age
+    en_ca: Islamic Golden Age
+    en_gb: Islamic Golden Age
     eo: Islama Orepoko
     es: Edad de Oro del islam
     et: Islami kuldajastu
@@ -161,7 +161,7 @@ dv_has_:
     pnb: اسلامی سنہری دور
     ps: زرینه اسلامي دوره
     pt: Idade de ouro islâmica
-    pt-br: Idade de ouro islâmica
+    pt_br: Idade de ouro islâmica
     ro: Epoca de aur a islamului
     ru: Золотой век ислама
     sco: Islamic Gowden Age
@@ -184,7 +184,7 @@ dv_has_:
     wuu: 伊斯兰黄金时代
     yue: 伊斯蘭黃金時代
     zh: 伊斯蘭黃金時代
-    zh-hant: 伊斯蘭黃金時代
+    zh_hant: 伊斯蘭黃金時代
 ---
 # [[0800-Islamic_Golden_Age-1300]] 
 

@@ -179,7 +179,7 @@ dv_has_:
     ban: Pesawat udara nirawak
     bcl: Drone
     be: беспілотны лятальны апарат
-    be-tarask: бесьпілётнік
+    be_tarask: бесьпілётнік
     bg: Дрон
     blk: ဒရုန်း
     bn: মনুষ্যবিহীন আকাশযান
@@ -191,10 +191,10 @@ dv_has_:
     cy: Drôn
     da: drone
     de: unbemanntes Luftfahrzeug
-    de-ch: Unbemanntes Luftfahrzeug
+    de_ch: Unbemanntes Luftfahrzeug
     el: μη επανδρωμένο αερόχημα
     en: unmanned aerial vehicle
-    en-ca: Unmanned aerial vehicle
+    en_ca: Unmanned aerial vehicle
     en-us: unmanned aerial vehicle
     eo: senpilota aviadilo
     es: vehículo aéreo no tripulado
@@ -252,7 +252,7 @@ dv_has_:
     pnb: ڈرون جعاز
     ps: بې پيلوټه الوتکه
     pt: veículo aéreo não tripulado
-    pt-br: Veículo aéreo não tripulado
+    pt_br: Veículo aéreo não tripulado
     qu: Mana phawachiqiyuq apa
     ro: aeronavă fără pilot
     ru: беспилотный летательный аппарат
@@ -268,18 +268,18 @@ dv_has_:
     smj: lidde
     sq: mjet ajror pa pilot
     sr: беспилотна летелица
-    sr-ec: беспилотна летелица
-    sr-el: bespilotna letelica
+    sr_ec: беспилотна летелица
+    sr_el: bespilotna letelica
     sv: obemannad luftfarkost
     sw: Ndeiru
     ta: ஆளில்லாத வானூர்தி
     te: మానవరహిత వైమానిక వాహనం
     tg: Паҳпод
-    tg-cyrl: паҳпод
+    tg_cyrl: паҳпод
     th: อากาศยานไร้คนขับ
     tr: insansız hava aracı
     tt: пилотсыз очу аппараты
-    tt-cyrl: пилотсыз очу аппараты
+    tt_cyrl: пилотсыз очу аппараты
     ug: ئادەمسىز ئۇچقۇ
     uk: безпілотний літальний апарат
     ur: ڈرون (بغیر پائلٹ کی فضائی گاڑی)
@@ -288,11 +288,11 @@ dv_has_:
     wuu: 无人航空载具
     yue: 無人飛機
     zh: 無人航空載具
-    zh-cn: 无人驾驶飞行器
-    zh-hans: 无人航空载具
-    zh-hant: 無人航空載具
-    zh-hk: 無人航空載具
-    zh-tw: 無人航空載具
+    zh_cn: 无人驾驶飞行器
+    zh_hans: 无人航空载具
+    zh_hant: 無人航空載具
+    zh_hk: 無人航空載具
+    zh_tw: 無人航空載具
     zu: INdiza eswelumuntu
 ---
 # [[Unmanned_aerial_Vehicle]] 

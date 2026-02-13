@@ -37,7 +37,7 @@ dv_has_:
     bar: Arabische Hoibinsl
     bcl: Arabong Peninsula
     be: Аравійскі паўвостраў
-    be-tarask: Арабійскі паўвостраў
+    be_tarask: Арабійскі паўвостраў
     bg: Арабски полуостров
     bn: আরব উপদ্বীপ
     br: Arabia
@@ -51,12 +51,12 @@ dv_has_:
     cy: Arabia
     da: Arabiske Halvø
     de: Arabische Halbinsel
-    de-ch: Arabische Halbinsel
+    de_ch: Arabische Halbinsel
     dsb: Arabiska połkupa
     el: Αραβία
     en: Arabian Peninsula
-    en-ca: Arabian Peninsula
-    en-gb: Arabian Peninsula
+    en_ca: Arabian Peninsula
+    en_gb: Arabian Peninsula
     eo: Arabio
     es: Arabia
     et: Araabia
@@ -96,7 +96,7 @@ dv_has_:
     ko: 아라비아반도
     ks: عرب پَرلانٛکھ
     ku: Nîvgirava Erebistanê
-    ku-latn: Nîvgirava Erebistanê
+    ku_latn: Nîvgirava Erebistanê
     kw: Arabi
     ky: Араб жарым аралы
     la: Arabia
@@ -132,7 +132,7 @@ dv_has_:
     pnb: جزیرہ نما عرب
     ps: د عربستان ټاپووزمه
     pt: Arábia
-    pt-br: Península Arábica
+    pt_br: Península Arábica
     qu: Arapsuyu Yaqa wat'a
     ro: Peninsula Arabică
     ru: Аравийский полуостров
@@ -170,8 +170,8 @@ dv_has_:
     yi: אראבישער האלבאינדזל
     yue: 阿剌伯半島
     zh: 阿拉伯半岛
-    zh-hant: 阿拉伯半島
-    zh-tw: 阿拉伯半島
+    zh_hant: 阿拉伯半島
+    zh_tw: 阿拉伯半島
 aliases:
 - A-la-pek
 - An Araib

@@ -69,10 +69,10 @@ dv_has_:
     uk: Чоловік на ім'я Отто
     yue: 隱閉中年
     zh: 超難搞先生
-    zh-hant: 超難搞先生
-    zh-hk: 隱閉中年
-    zh-sg: 超难搞先生
-    zh-tw: 超難搞先生
+    zh_hant: 超難搞先生
+    zh_hk: 隱閉中年
+    zh_sg: 超难搞先生
+    zh_tw: 超難搞先生
 ---
 ## #has_/text_of_/abstract 
 

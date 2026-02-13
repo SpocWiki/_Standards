@@ -191,7 +191,7 @@ UNII: BRO5T4GIXN
 dv_has_:
   name_:
     ab: Ауҭраҵыҵындра
-    aeb-arab: فراز
+    aeb_arab: فراز
     an: Fraga
     ar: فراولة
     arz: فراوله Farawla
@@ -202,7 +202,7 @@ dv_has_:
     ba: Ер еләге
     bcl: Strawberry
     be: Суніцы садовыя
-    be-tarask: суніцы садовыя
+    be_tarask: суніцы садовыя
     bg: ананасова ягода
     bjn: Satrubiri
     bn: স্ট্রবেরি
@@ -220,12 +220,12 @@ dv_has_:
     cy: Mefus
     da: jordbær
     de: Gartenerdbeere
-    de-ch: Gartenerdbeere
+    de_ch: Gartenerdbeere
     dsb: Zagrodna słynica
     el: Φράουλα
     en: strawberry
-    en-ca: Strawberry
-    en-gb: strawberry plant
+    en_ca: Strawberry
+    en_gb: strawberry plant
     eo: Fragaria ×ananassa
     es: Fragaria × ananassa
     et: aedmaasikas
@@ -293,7 +293,7 @@ dv_has_:
     pnb: سٹرابیری
     ps: ځمکني توت
     pt: Morango
-    pt-br: Morango
+    pt_br: Morango
     ro: căpșună
     roa-tara: fragole
     ru: Земляника садовая
@@ -330,11 +330,11 @@ dv_has_:
     za: Godumh
     zgh: ⵜⵉⵣⵡⵍⵜ
     zh: 草莓
-    zh-cn: 草莓
-    zh-hans: 草莓
-    zh-hant: 草莓
-    zh-hk: 士多啤梨
-    zh-tw: 草莓
+    zh_cn: 草莓
+    zh_hans: 草莓
+    zh_hant: 草莓
+    zh_hk: 士多啤梨
+    zh_tw: 草莓
     zu: Isitrobheli
 ---
 # [[Strawberry]] 

@@ -95,7 +95,7 @@ dv_has_:
     az: alternativ rok
     ba: альтернатив рок
     be: альтэрнатыўны рок
-    be-tarask: альтэрнатыўны рок
+    be_tarask: альтэрнатыўны рок
     bg: алтернативен рок
     bn: অল্টারনেটিভ রক
     br: rock dazeilat
@@ -107,11 +107,11 @@ dv_has_:
     cy: roc amgen
     da: alternativ rock
     de: Alternative Rock
-    de-ch: Alternative Rock
+    de_ch: Alternative Rock
     el: εναλλακτική ροκ
     en: alternative rock
-    en-ca: alternative rock
-    en-gb: alternative rock
+    en_ca: alternative rock
+    en_gb: alternative rock
     en-us: alternative rock
     eo: alternativa rokmuziko
     es: rock alternativo
@@ -137,7 +137,7 @@ dv_has_:
     kk: Альтернативті рок
     ko: 얼터너티브 록
     ku: muzîka rock a alternatîv
-    ku-latn: muzîka rock a alternatîv
+    ku_latn: muzîka rock a alternatîv
     la: rock alternativus
     lb: Alternative Rock
     lt: alternatyvus rokas
@@ -158,7 +158,7 @@ dv_has_:
     os: альтернативон рок
     pl: rock alternatywny
     pt: rock alternativo
-    pt-br: rock alternativo
+    pt_br: rock alternativo
     ro: rock alternativ
     ru: альтернативный рок
     sc: rock alternativu
@@ -175,7 +175,7 @@ dv_has_:
     tl: Alternative rock
     tr: alternatif rock
     tt: альтернатив рок
-    tt-cyrl: альтернатив рок
+    tt_cyrl: альтернатив рок
     uk: альтернативний рок
     uz: Alternative rock
     vec: rock alternativo
@@ -183,8 +183,8 @@ dv_has_:
     wuu: 另类摇滚
     yue: 另類搖滾
     zh: 另类摇滚
-    zh-hant: 另類搖滾
-    zh-tw: 另類搖滾
+    zh_hant: 另類搖滾
+    zh_tw: 另類搖滾
 ---
 # [[Alternative_Rock]] 
 

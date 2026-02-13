@@ -124,7 +124,7 @@ dv_has_:
     azb: الکترونیک موسیقی
     ba: Электрон музыка
     be: электронная музыка
-    be-tarask: электронная музыка
+    be_tarask: электронная музыка
     bg: електронна музика
     bn: ইলেকট্রনিক সঙ্গীত
     br: sonerezh elektronek
@@ -136,11 +136,11 @@ dv_has_:
     cy: cerddoriaeth electronig
     da: elektronisk musik
     de: elektronische Musik
-    de-ch: elektronische Musik
+    de_ch: elektronische Musik
     el: ηλεκτρονική μουσική
     en: electronic music
-    en-ca: electronic music
-    en-gb: electronic music
+    en_ca: electronic music
+    en_gb: electronic music
     eo: elektronika muziko
     es: música electrónica
     et: elektrooniline muusika
@@ -181,7 +181,7 @@ dv_has_:
     ml: ഇലക്ട്രോണിക് സംഗീതം
     mn: Цахилгаан хөгжим
     ms: muzik elektronik
-    ms-arab: موزيک ايليکترونيک
+    ms_arab: موزيک ايليکترونيک
     my: Electronic music
     mzn: الکترونیک موسیقی
     nan: Tiān-chú im-ga̍k
@@ -196,7 +196,7 @@ dv_has_:
     pms: Mùsica eletrònica
     pnb: الیکٹرونک موسیقی
     pt: música eletrônica
-    pt-br: música eletrônica
+    pt_br: música eletrônica
     ro: muzică electronică
     ru: электронная музыка
     rue: Електронічна музика
@@ -229,7 +229,7 @@ dv_has_:
     yi: עלעקטראנישע מוזיק
     yue: 電子音樂
     zh: 電子音樂
-    zh-hant: 電子音樂
+    zh_hant: 電子音樂
     zu: Umculo Wohlobo Lwe-Eletronic
 ---
 # [[Electronic_Music]] 

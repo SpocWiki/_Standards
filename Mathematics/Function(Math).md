@@ -181,7 +181,7 @@ dv_has_:
     ba: функция
     bar: Funktion
     be: функцыя
-    be-tarask: функцыя
+    be_tarask: функцыя
     bg: функция
     bho: फंक्शन
     bn: ফাংশন
@@ -197,8 +197,8 @@ dv_has_:
     diq: fonksiyon
     el: συνάρτηση
     en: function
-    en-ca: function
-    en-gb: function
+    en_ca: function
+    en_gb: function
     eo: funkcio
     es: función
     et: funktsioon
@@ -253,7 +253,7 @@ dv_has_:
     mn: функц
     mr: फल
     ms: fungsi
-    ms-arab: فوڠسي
+    ms_arab: فوڠسي
     mt: funzjoni
     my: ဖန်ရှင်
     nan: koan-sò͘
@@ -269,7 +269,7 @@ dv_has_:
     pms: fonsion
     pnb: فنکشن
     pt: função
-    pt-br: função
+    pt_br: função
     qu: kinraysuyu
     ro: funcție
     ru: математическая функция
@@ -287,7 +287,7 @@ dv_has_:
     so: shaqada
     sq: funksioni
     sr: функција
-    sr-ec: функција
+    sr_ec: функција
     su: fungsi
     sv: funktion
     sw: namba tegemezi
@@ -315,9 +315,9 @@ dv_has_:
     yue: 函數
     zgh: ⵜⴰⵙⵖⵏⵜ (ⵜⵓⵙⵏⴰⴽⵜ)
     zh: 函数
-    zh-cn: 函数
-    zh-hans: 函数
-    zh-hant: 函數
+    zh_cn: 函数
+    zh_hans: 函数
+    zh_hant: 函數
 ---
 # [[Function(Math)]] 
 

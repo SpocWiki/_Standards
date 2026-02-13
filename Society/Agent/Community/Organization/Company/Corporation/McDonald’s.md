@@ -257,7 +257,7 @@ dv_has_:
     azb: مکدونالدز
     bcl: Mc Donald's
     be: McDonald’s
-    be-tarask: McDonald’s
+    be_tarask: McDonald’s
     bew: Mèkdi
     bg: Макдоналдс
     bn: ম্যাকডোনাল্ড’স
@@ -272,8 +272,8 @@ dv_has_:
     de: McDonald’s
     el: McDonald's
     en: McDonald's
-    en-ca: McDonald's
-    en-gb: McDonald's
+    en_ca: McDonald's
+    en_gb: McDonald's
     eo: McDonald's
     es: McDonald's
     et: McDonald's
@@ -327,7 +327,7 @@ dv_has_:
     ml: മക്ഡൊണാൾഡ്സ്
     mr: मॅक्डॉनल्ड्ज
     ms: McDonald's
-    ms-arab: ميک دونلدس
+    ms_arab: ميک دونلدس
     mul: McDonald's
     my: မက်ဒေါ်နယ်
     nan: Bē-tâng-lô
@@ -342,7 +342,7 @@ dv_has_:
     pnb: میکڈونلڈز
     ps: مکډونالډز
     pt: McDonald's
-    pt-br: McDonald's
+    pt_br: McDonald's
     rm: McDonald's
     ro: McDonald's
     ru: McDonald’s
@@ -379,12 +379,12 @@ dv_has_:
     yi: מאקדאנעלדס
     yue: 麥當勞
     zh: 麦当劳
-    zh-cn: 麦当劳
-    zh-hans: 麦当劳
-    zh-hant: 麥當勞
-    zh-hk: 麥當勞
-    zh-sg: 麦当劳
-    zh-tw: 麥當勞
+    zh_cn: 麦当劳
+    zh_hans: 麦当劳
+    zh_hant: 麥當勞
+    zh_hk: 麥當勞
+    zh_sg: 麦当劳
+    zh_tw: 麥當勞
     zu: McDonald's
 ---
 # [[McDonald’s]] 

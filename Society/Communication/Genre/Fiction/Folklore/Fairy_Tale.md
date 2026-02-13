@@ -147,7 +147,7 @@ dv_has_:
     az: nağıl
     ba: Әкиәт
     be: казка
-    be-tarask: казка
+    be_tarask: казка
     bg: вълшебна приказка
     bn: রূপকথা
     br: marvailh
@@ -206,7 +206,7 @@ dv_has_:
     lmo: cunt de fade
     lt: pasaka
     lv: pasaka
-    map-bms: Dongeng
+    map_bms: Dongeng
     mg: Angano
     mk: Бајка
     ml: യക്ഷിക്കഥ
@@ -240,8 +240,8 @@ dv_has_:
     sl: pravljica
     sq: përralla
     sr: бајка
-    sr-ec: бајка
-    sr-el: bajka
+    sr_ec: бајка
+    sr_el: bajka
     su: Dongéng
     sv: saga
     ta: விசித்திரக் கதைகள்
@@ -261,7 +261,7 @@ dv_has_:
     xmf: არიკი
     yue: 童話
     zh: 童話
-    zh-hant: 童話
+    zh_hant: 童話
     zu: ubuciko bomlomo
 ---
 # [[Fairy_Tale]] 

@@ -74,7 +74,7 @@ dv_has_:
     oc: Bryopsida
     pl: prątniki
     pt: Bryopsida
-    pt-br: Bryopsida
+    pt_br: Bryopsida
     ro: Bryopsida
     ru: листостебельные мхи
     sl: Bryopsida
@@ -89,9 +89,9 @@ dv_has_:
     war: Bryopsida
     yue: 蘚綱
     zh: 真藓纲
-    zh-cn: 真藓纲
-    zh-hans: 真藓纲
-    zh-tw: 真蘚綱
+    zh_cn: 真藓纲
+    zh_hans: 真藓纲
+    zh_tw: 真蘚綱
 ---
 # [[Bryopsida]]
 

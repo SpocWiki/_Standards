@@ -93,7 +93,7 @@ dv_has_:
     ar: ذا نيو يوركر
     ast: The New Yorker
     az: The New Yorker
-    be-tarask: The New Yorker
+    be_tarask: The New Yorker
     bg: Ню Йоркър
     bn: দ্য নিউ ইয়র্কার
     ca: The New Yorker
@@ -104,7 +104,7 @@ dv_has_:
     de: The New Yorker
     el: The New Yorker
     en: The New Yorker
-    en-gb: The New Yorker
+    en_gb: The New Yorker
     eo: The New Yorker
     es: The New Yorker
     et: The New Yorker
@@ -146,12 +146,12 @@ dv_has_:
     yi: דער ניו יארקער
     yue: 紐約客
     zh: 紐約客
-    zh-cn: 纽约客
-    zh-hans: 纽约客
-    zh-hant: 紐約客
-    zh-hk: 紐約客
-    zh-sg: 纽约客
-    zh-tw: 紐約客
+    zh_cn: 纽约客
+    zh_hans: 纽约客
+    zh_hant: 紐約客
+    zh_hk: 紐約客
+    zh_sg: 纽约客
+    zh_tw: 紐約客
 ---
 # [[New_Yorker]] 
 

@@ -52,7 +52,7 @@ dv_has_:
     ar: موقد كهربائي
     ast: cocina llétrica
     be: электрычная пліта
-    be-tarask: электрычная пліта
+    be_tarask: электрычная пліта
     bg: Електрическа печка
     ca: cuina elèctrica
     da: elkomfur
@@ -83,7 +83,7 @@ dv_has_:
     war: Dikuryente nga tuonan
     yue: 電爐
     zh: 電爐
-    zh-hans: 电炉
+    zh_hans: 电炉
 ---
 # [[Electric_Stove]] 
 

@@ -63,8 +63,8 @@ dv_has_:
     vi: Họ Cóc bà mụ
     war: Alytidae
     zh: 盘舌蟾科
-    zh-cn: 盤舌蟾科
-    zh-hans: 盘舌蟾科
+    zh_cn: 盤舌蟾科
+    zh_hans: 盘舌蟾科
 ---
 # [[Discoglossidae]]
 

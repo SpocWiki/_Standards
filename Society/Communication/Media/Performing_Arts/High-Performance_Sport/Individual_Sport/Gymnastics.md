@@ -139,7 +139,7 @@ dv_has_:
     azb: ژیمناستیک
     ba: Гимнастика
     be: гімнастыка
-    be-tarask: гімнастыка
+    be_tarask: гімнастыка
     bg: Гимнастика
     bn: জিমন্যাস্টিকস
     bs: Gimnastika
@@ -204,7 +204,7 @@ dv_has_:
     pl: gimnastyka
     pnb: جمناسٹک
     pt: ginástica
-    pt-br: ginástica
+    pt_br: ginástica
     ro: gimnastică
     ru: гимнастика
     sa: दाक्षम्
@@ -222,8 +222,8 @@ dv_has_:
     sms: liikkummuš
     sq: Gjimnastika
     sr: гимнастика
-    sr-ec: гимнастика
-    sr-el: gimnastika
+    sr_ec: гимнастика
+    sr_el: gimnastika
     sv: gymnastik
     sw: Jimnastiki
     szl: gimnastyka
@@ -242,11 +242,11 @@ dv_has_:
     wuu: 体操
     yue: 體操
     zh: 体操
-    zh-cn: 体操
-    zh-hans: 体操
-    zh-hant: 體操
-    zh-hk: 體操
-    zh-tw: 體操
+    zh_cn: 体操
+    zh_hans: 体操
+    zh_hant: 體操
+    zh_hk: 體操
+    zh_tw: 體操
 ---
 # [[Gymnastics]] 
 

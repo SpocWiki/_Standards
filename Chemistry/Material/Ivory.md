@@ -122,7 +122,7 @@ dv_has_:
     ast: marfil
     bcl: gading
     be: слановая косць
-    be-tarask: слановая косьць
+    be_tarask: слановая косьць
     bg: слонова кост
     bn: করিদন্ত
     br: olifant
@@ -179,7 +179,7 @@ dv_has_:
     pl: cios
     pnb: آئیوری
     pt: marfim
-    pt-br: marfim
+    pt_br: marfim
     ro: fildeș
     ru: слоновая кость
     scn: avoriu

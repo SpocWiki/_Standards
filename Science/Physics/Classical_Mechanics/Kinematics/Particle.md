@@ -98,7 +98,7 @@ dv_has_:
     az: zərrəcik
     bar: Aitzal
     be: часціца
-    be-tarask: часьцінка
+    be_tarask: часьцінка
     bg: частица
     bs: čestica
     ca: partícula
@@ -110,8 +110,8 @@ dv_has_:
     de: Teilchen
     el: σωματίδιο
     en: particle
-    en-ca: particle
-    en-gb: particle
+    en_ca: particle
+    en_gb: particle
     eo: partiklo
     es: partícula
     et: osake
@@ -142,7 +142,7 @@ dv_has_:
     mag: कण
     mk: честичка
     ms: zarah
-    ms-arab: ذره
+    ms_arab: ذره
     mt: partiċella
     my: အမှုန်
     nb: partikkel
@@ -152,7 +152,7 @@ dv_has_:
     pa: ਕਣ
     pl: cząstka
     pt: partícula
-    pt-br: partícula
+    pt_br: partícula
     ro: particulă
     ru: частица
     rue: частиця
@@ -166,8 +166,8 @@ dv_has_:
     sn: kabanzu
     sq: grimca
     sr: честица
-    sr-ec: честица
-    sr-el: čestica
+    sr_ec: честица
+    sr_el: čestica
     sv: partikel
     ta: துகள்
     tg: зарра
@@ -183,14 +183,14 @@ dv_has_:
     vro: putin
     yue: 粒子
     zh: 粒子
-    zh-cn: 粒子
-    zh-hans: 粒子
-    zh-hant: 粒子
-    zh-hk: 粒子
-    zh-mo: 粒子
+    zh_cn: 粒子
+    zh_hans: 粒子
+    zh_hant: 粒子
+    zh_hk: 粒子
+    zh_mo: 粒子
     zh-my: 粒子
-    zh-sg: 粒子
-    zh-tw: 粒子
+    zh_sg: 粒子
+    zh_tw: 粒子
 ---
 # [[Particle]] 
 

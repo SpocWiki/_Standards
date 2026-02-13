@@ -129,7 +129,7 @@ dv_has_:
     ba: Самарий
     ban: Samarium
     be: Самарый
-    be-tarask: самар
+    be_tarask: самар
     bg: самарий
     bho: समेरियम
     bn: সামেরিয়াম
@@ -147,7 +147,7 @@ dv_has_:
     de: Samarium
     el: σαμάριο
     en: samarium
-    en-gb: samarium
+    en_gb: samarium
     eo: samario
     es: samario
     et: Samaarium
@@ -223,7 +223,7 @@ dv_has_:
     pnb: ساماریم
     ps: ساماريوم
     pt: samário
-    pt-br: samário
+    pt_br: samário
     qu: Samaryu
     ro: samariu
     ru: самарий
@@ -238,7 +238,7 @@ dv_has_:
     sl: samarij
     sq: Samariumi
     sr: самаријум
-    sr-ec: Самаријум
+    sr_ec: Самаријум
     stq: Samarium
     sv: samarium
     sw: Samari
@@ -261,8 +261,8 @@ dv_has_:
     yo: Samarium
     yue: 釤
     zh: 钐
-    zh-hant: 釤
-    zh-tw: 釤
+    zh_hant: 釤
+    zh_tw: 釤
     zu: UmSambi
   number_of_:
     period: 6

@@ -100,7 +100,7 @@ dv_has_:
     bar: Sphinx
     bcl: Sphinx
     be: Сфінкс
-    be-tarask: Сьфінкс
+    be_tarask: Сьфінкс
     bg: Сфинкс
     bn: স্ফিংক্স
     br: Sfins
@@ -115,8 +115,8 @@ dv_has_:
     de: Sphinx
     el: Σφίγγα
     en: sphinx
-    en-ca: Sphinx
-    en-gb: Sphinx
+    en_ca: Sphinx
+    en_gb: Sphinx
     eo: Sfinkso
     es: esfinge
     et: Sphinx
@@ -138,16 +138,16 @@ dv_has_:
     ja: スフィンクス
     ka: სფინქსი
     kk: Сфинкс
-    kk-arab: سفىينكس
+    kk_arab: سفىينكس
     kk-cn: سفىينكس
-    kk-cyrl: Сфинкс
+    kk_cyrl: Сфинкс
     kk-kz: Сфинкс
-    kk-latn: Sfïnks
+    kk_latn: Sfïnks
     kk-tr: Sfïnks
     kn: ಸ್ಫಿಂಕ್ಸ್
     ko: 스핑크스
     ku: Sfînks
-    ku-latn: Sfînks
+    ku_latn: Sfînks
     ky: Сфинкс
     la: Sphinx
     lad: Sfenks
@@ -171,7 +171,7 @@ dv_has_:
     pl: sfinks
     pnb: ابو الہول
     pt: esfinge
-    pt-br: Esfinge
+    pt_br: Esfinge
     ro: Sfinx
     ru: Сфинкс
     sc: sphinx
@@ -182,8 +182,8 @@ dv_has_:
     sl: Sfinga
     sq: sfinksi
     sr: Сфинга
-    sr-ec: Сфинга
-    sr-el: Sfinga
+    sr_ec: Сфинга
+    sr_el: Sfinga
     sv: Sfinx
     sw: Sfinksi
     ta: இசுபிங்சு
@@ -200,12 +200,12 @@ dv_has_:
     yi: ספינקס
     yue: 斯芬克司
     zh: 斯芬克斯
-    zh-cn: 斯芬克斯
-    zh-hans: 斯芬克斯
-    zh-hant: 斯芬克斯
-    zh-hk: 斯芬克斯
-    zh-sg: 斯芬克斯
-    zh-tw: 斯芬克斯
+    zh_cn: 斯芬克斯
+    zh_hans: 斯芬克斯
+    zh_hant: 斯芬克斯
+    zh_hk: 斯芬克斯
+    zh_sg: 斯芬克斯
+    zh_tw: 斯芬克斯
 ---
 # [[Sphinx]] 
 

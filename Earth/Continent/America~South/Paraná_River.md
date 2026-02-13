@@ -188,7 +188,7 @@ dv_has_:
     azb: پارانا چایی
     ba: Парана
     be: Парана
-    be-tarask: Парана
+    be_tarask: Парана
     bg: Парана
     bho: पराना नदी
     br: Paraná
@@ -226,11 +226,11 @@ dv_has_:
     ja: パラナ川
     ka: პარანა
     kk: Парана
-    kk-arab: پارانا
+    kk_arab: پارانا
     kk-cn: پارانا
-    kk-cyrl: Парана
+    kk_cyrl: Парана
     kk-kz: Парана
-    kk-latn: Parana
+    kk_latn: Parana
     kk-tr: Parana
     ko: 파라나강
     la: Parana flumen
@@ -262,8 +262,8 @@ dv_has_:
     sk: Paraná
     sl: Parana
     sr: Парана
-    sr-ec: Парана
-    sr-el: Parana
+    sr_ec: Парана
+    sr_el: Parana
     sv: Paranáfloden
     sw: Parana
     ta: பரனா ஆறு
@@ -280,12 +280,12 @@ dv_has_:
     xmf: პარანა
     yue: 巴拉那河
     zh: 巴拉那河
-    zh-cn: 巴拉那河
-    zh-hans: 巴拉那河
-    zh-hant: 巴拉那河
-    zh-hk: 巴拉那河
-    zh-sg: 巴拉那河
-    zh-tw: 巴拉那河
+    zh_cn: 巴拉那河
+    zh_hans: 巴拉那河
+    zh_hant: 巴拉那河
+    zh_hk: 巴拉那河
+    zh_sg: 巴拉那河
+    zh_tw: 巴拉那河
 ---
 # [[Paraná_River]] 
 

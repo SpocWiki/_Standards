@@ -187,7 +187,7 @@ dv_has_:
     bar: Ganges
     bcl: Ganges
     be: Ганг
-    be-tarask: Ганг
+    be_tarask: Ганг
     bg: Ганг
     bho: गंगा
     bn: গঙ্গা নদী
@@ -207,13 +207,13 @@ dv_has_:
     cy: Afon Ganga
     da: Ganges
     de: Ganges
-    de-ch: Ganges
+    de_ch: Ganges
     diq: Royê Ganji
     dv: ގަންގާ ކޯރު
     el: Γάγγης
     en: Ganges
-    en-ca: Ganges
-    en-gb: Ganges
+    en_ca: Ganges
+    en_gb: Ganges
     eo: Gango
     es: río Ganges
     et: Ganges
@@ -298,7 +298,7 @@ dv_has_:
     pnb: دریاۓ گنگا
     ps: ګنګا سيند
     pt: Rio Ganges
-    pt-br: Rio Ganges
+    pt_br: Rio Ganges
     ro: Gange
     roa-tara: Gange
     ru: Ганг
@@ -344,7 +344,7 @@ dv_has_:
     yi: גאנגעס
     yue: 恆河
     zh: 恒河
-    zh-hant: 恆河
+    zh_hant: 恆河
 ---
 # [[Ganges]] 
 

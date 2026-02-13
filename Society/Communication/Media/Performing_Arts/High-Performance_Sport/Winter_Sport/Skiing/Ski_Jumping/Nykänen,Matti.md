@@ -80,17 +80,17 @@ dv_has_:
     arz: ماتى نوكانن
     ast: Matti Nykänen
     be: Маці Нюкянен
-    be-tarask: Маці Нюкянэн
+    be_tarask: Маці Нюкянэн
     bs: Matti Nykänen
     ca: Matti Nykänen
     cs: Matti Nykänen
     da: Matti Nykänen
     de: Matti Nykänen
-    de-ch: Matti Nykänen
+    de_ch: Matti Nykänen
     el: Μάτι Νίκανεν
     en: Matti Nykänen
-    en-ca: Matti Nykänen
-    en-gb: Matti Nykänen
+    en_ca: Matti Nykänen
+    en_gb: Matti Nykänen
     eo: Matti Nykänen
     es: Matti Nykänen
     et: Matti Nykänen
@@ -121,7 +121,7 @@ dv_has_:
     oc: Matti Nykänen
     pl: Matti Nykänen
     pt: Matti Nykänen
-    pt-br: Matti Nykänen
+    pt_br: Matti Nykänen
     rmf: Matti Nykänen
     ro: Matti Nykänen
     ru: Матти Нюкянен
@@ -144,7 +144,7 @@ dv_has_:
     vi: Matti Nykänen
     vo: Matti Nykänen
     zh: 馬蒂·尼凱寧
-    zh-hant: 馬蒂·尼凱寧
+    zh_hant: 馬蒂·尼凱寧
 ---
 # [[Nykänen,Matti]] 
 

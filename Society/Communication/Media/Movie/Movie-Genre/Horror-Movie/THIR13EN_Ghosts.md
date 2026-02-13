@@ -30,7 +30,7 @@ dv_has_:
     uk: Тринадцять привидів
     vi: Thirteen Ghosts
     zh: 13猛鬼
-    zh-sg: 13猛鬼
+    zh_sg: 13猛鬼
 aliases:
 - 13 fantasmas
 - 13 fantasmes

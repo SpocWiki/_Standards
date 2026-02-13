@@ -166,7 +166,7 @@ dv_has_:
     bar: Koordiniade Wäidzeid
     bcl: Pankinábang Batayan kan Oras
     be: Сусветны каардынаваны час
-    be-tarask: Сусьветны каардынаваны час
+    be_tarask: Сусьветны каардынаваны час
     bg: Координирано универсално време
     bho: कोऑर्डिनेटेड यूनिवर्सल टाइम
     bjn: Waktu Universal Takoordinasi
@@ -181,7 +181,7 @@ dv_has_:
     cy: UTC
     da: UTC
     de: koordinierte Weltzeit
-    de-ch: Koordinierte Weltzeit
+    de_ch: Koordinierte Weltzeit
     diq: UTC
     dsb: Koordiněrowany swětowy cas
     dv: ޔޫ.ޓީ.ސީ.
@@ -252,7 +252,7 @@ dv_has_:
     nah: Tlatēcpānalli cemānāhuaccāhuitl
     nan: UTC
     nb: UTC
-    nds-nl: UTC
+    nds_nl: UTC
     ne: समन्वित विश्व समय
     nl: UTC
     nn: UTC
@@ -265,7 +265,7 @@ dv_has_:
     pnb: متناسق عالمی وقت
     ps: همغږی نړیوال وخت
     pt: Tempo Universal Coordenado
-    pt-br: Tempo Universal Coordenado
+    pt_br: Tempo Universal Coordenado
     ro: Ora universală coordonată
     ru: всемирное координированное время
     sa: समन्वितसार्वत्रिकसमयः
@@ -284,7 +284,7 @@ dv_has_:
     so: Isuduwaha Waqtiga Caalamiga
     sq: Coordinated Universal Time
     sr: Coordinated Universal Time
-    sr-ec: Coordinated Universal Time
+    sr_ec: Coordinated Universal Time
     stq: UTC
     su: UTC
     sv: koordinerad universell tid
@@ -311,9 +311,9 @@ dv_has_:
     yue: 國際標準時間
     zgh: ⴰⴽⵓⴷ ⴰⵎⴰⴹⵍⴰⵏ ⴰⵎⵣⴷⴰⵢ
     zh: 协调世界时
-    zh-hans: 协调世界时
-    zh-hk: 協調世界時
-    zh-tw: 世界協調時間
+    zh_hans: 协调世界时
+    zh_hk: 協調世界時
+    zh_tw: 世界協調時間
     zu: Coordinated Universal Time
 ---
 # [[UTC(Coordinated_Universal_Time)]] 

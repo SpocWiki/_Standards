@@ -140,7 +140,7 @@ dv_has_:
     az: gil
     ba: балсыҡ
     be: гліна
-    be-tarask: гліна
+    be_tarask: гліна
     bew: lempung
     bg: глина
     bjn: tanah liat
@@ -153,12 +153,12 @@ dv_has_:
     cv: тăм
     da: ler
     de: Ton
-    de-ch: Ton
+    de_ch: Ton
     dsb: glina
     el: άργιλος
     en: clay
-    en-ca: clay
-    en-gb: clay
+    en_ca: clay
+    en_gb: clay
     eo: argilo
     es: arcilla
     et: savi
@@ -218,7 +218,7 @@ dv_has_:
     pl: glina
     pnb: چکݨی مٹی
     pt: argila
-    pt-br: argila
+    pt_br: argila
     qu: ch'aqu
     rki: ရွိ့စီး
     ro: argilă
@@ -236,8 +236,8 @@ dv_has_:
     so: dhoobo
     sq: deltina
     sr: глина
-    sr-ec: глина
-    sr-el: glina
+    sr_ec: глина
+    sr_el: glina
     ss: lubumba
     sv: lera
     sw: udongo kinamo

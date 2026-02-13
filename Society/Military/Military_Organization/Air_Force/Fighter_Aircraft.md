@@ -117,7 +117,7 @@ dv_has_:
     ast: Avión de caza
     az: Qırıcı
     be: знішчальнік
-    be-tarask: самалёт-зьнішчальнік
+    be_tarask: самалёт-зьнішчальнік
     bg: Изтребител
     blk: တွိုက်ꩻမို့ꩻယာဥ်
     bn: যুদ্ধ বিমান
@@ -127,10 +127,10 @@ dv_has_:
     cs: stíhací letoun
     da: jagerfly
     de: Jagdflugzeug
-    de-ch: Kampfflugzeug
+    de_ch: Kampfflugzeug
     el: Μαχητικό αεροσκάφος
     en: fighter aircraft
-    en-ca: fighter
+    en_ca: fighter
     eo: ĉasaviadilo
     es: avión de caza
     et: Hävituslennuk
@@ -180,7 +180,7 @@ dv_has_:
     pnb: لڑاکا جہاز
     ps: هوايي ځواک
     pt: caça
-    pt-br: Caça
+    pt_br: Caça
     ro: avion de vânătoare
     ru: истребитель
     scn: Caccia
@@ -192,8 +192,8 @@ dv_has_:
     smn: suátikirdee
     sq: avion luftarak
     sr: ловачки авион
-    sr-ec: ловачки авион
-    sr-el: lovački avion
+    sr_ec: ловачки авион
+    sr_el: lovački avion
     sv: jaktflygplan
     ta: சண்டை வானூர்தி
     th: เครื่องบินขับไล่
@@ -208,12 +208,12 @@ dv_has_:
     xmf: მაჭყვიდალი
     yue: 戰鬥機
     zh: 战斗机
-    zh-cn: 战斗机
-    zh-hans: 战斗机
-    zh-hant: 戰鬥機
-    zh-hk: 戰鬥機
-    zh-sg: 战斗机
-    zh-tw: 戰鬥機
+    zh_cn: 战斗机
+    zh_hans: 战斗机
+    zh_hant: 戰鬥機
+    zh_hk: 戰鬥機
+    zh_sg: 战斗机
+    zh_tw: 戰鬥機
 ---
 # [[Fighter_Aircraft]] 
 

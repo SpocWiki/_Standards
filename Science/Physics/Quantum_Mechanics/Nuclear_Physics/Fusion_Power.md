@@ -78,7 +78,7 @@ dv_has_:
     ar: توليد الطاقة بالاندماج
     az: Termonüvə reaksiyası
     be: кіраваны тэрмаядзерны сінтэз
-    be-tarask: тэрмаядзерная энэргія
+    be_tarask: тэрмаядзерная энэргія
     bg: Термоядрена енергия
     bn: তাপ-নিউক্লীয় বিক্রিয়ক
     bs: Fuzijska energija
@@ -129,9 +129,9 @@ dv_has_:
     war: Kusog Fusyon
     yue: 聚變能
     zh: 聚变能
-    zh-cn: 聚变反应堆
-    zh-hans: 聚变反应堆
-    zh-hant: 聚變反應堆
+    zh_cn: 聚变反应堆
+    zh_hans: 聚变反应堆
+    zh_hant: 聚變反應堆
 ---
 # [[Fusion_Power]] 
 

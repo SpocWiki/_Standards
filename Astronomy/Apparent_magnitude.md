@@ -130,7 +130,7 @@ dv_has_:
     ast: magnitú aparente
     az: görünmə böyüklüyü
     be: зорная велічыня
-    be-tarask: бачная зорная велічыня
+    be_tarask: бачная зорная велічыня
     bg: видима звездна величина
     bn: আপাত মান
     bs: prividna magnituda
@@ -140,8 +140,8 @@ dv_has_:
     de: scheinbare Helligkeit
     el: φαινόμενο μέγεθος
     en: apparent magnitude
-    en-ca: apparent magnitude
-    en-gb: apparent magnitude
+    en_ca: apparent magnitude
+    en_gb: apparent magnitude
     eo: ŝajna magnitudo
     es: magnitud aparente
     et: tähesuurus
@@ -183,7 +183,7 @@ dv_has_:
     pa: ਸਾਪੇਖ ਕਾਂਤੀਮਾਨ
     pl: obserwowana wielkość gwiazdowa
     pt: magnitude aparente
-    pt-br: magnitude aparente
+    pt_br: magnitude aparente
     ro: magnitudine aparentă
     ru: видимая звёздная величина
     scn: magnitùdini apparenti
@@ -193,8 +193,8 @@ dv_has_:
     sk: zdanlivá hviezdna veľkosť
     sl: navidezni sij
     sr: привидна звездана величина
-    sr-ec: привидна звездана величина
-    sr-el: prividna zvezdana veličina
+    sr_ec: привидна звездана величина
+    sr_el: prividna zvezdana veličina
     sv: skenbar magnitud
     sw: mwangaza unaoonekana
     ta: தோற்ற ஒளிப்பொலிவெண்
@@ -210,12 +210,12 @@ dv_has_:
     wuu: 视星等
     yue: 視星等
     zh: 視星等
-    zh-cn: 星等
-    zh-hans: 视星等
-    zh-hant: 星等
-    zh-hk: 視星等
-    zh-sg: 星等
-    zh-tw: 星等
+    zh_cn: 星等
+    zh_hans: 视星等
+    zh_hant: 星等
+    zh_hk: 視星等
+    zh_sg: 星等
+    zh_tw: 星等
 ---
 # [[Apparent_magnitude]] 
 

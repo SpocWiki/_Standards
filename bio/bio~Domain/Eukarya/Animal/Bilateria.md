@@ -63,7 +63,7 @@ dv_has_:
     ba: Bilateria
     bar: Bilateria
     be: двухбакова-сіметрычныя
-    be-tarask: білятэральныя
+    be_tarask: білятэральныя
     bg: двустранно симетрични
     bn: দ্বিপার্শ্বভ্রুণক
     br: Bilateria
@@ -77,11 +77,11 @@ dv_has_:
     da: Bilateria
     de: Bilateria
     de-at: Bilateria
-    de-ch: Bilateria
+    de_ch: Bilateria
     el: αμφίπλευρα
     en: Bilateria
-    en-ca: Bilateria
-    en-gb: Bilateria
+    en_ca: Bilateria
+    en_gb: Bilateria
     eo: duflankulo
     es: Bilateria
     et: Kahekülgsed
@@ -129,7 +129,7 @@ dv_has_:
     nap: Bilateria
     nb: bilaterier
     nds: Tweesiedendeerter
-    nds-nl: Bilateria
+    nds_nl: Bilateria
     nl: Bilateria
     nn: bilaterale dyr
     nov: Bilateria
@@ -141,7 +141,7 @@ dv_has_:
     pl: zwierzęta dwubocznie symetryczne
     pms: Bilateria
     pt: Bilateria
-    pt-br: Bilateria
+    pt_br: Bilateria
     rm: Bilateria
     ro: Bilateria
     ru: двусторонне-симметричные
@@ -159,8 +159,8 @@ dv_has_:
     tl: Bilateria
     tr: Bilateria
     tt: икеяксимметриялеләр
-    tt-cyrl: икеяксимметриялеләр
-    tt-latn: ikeyäksimmetriälelär
+    tt_cyrl: икеяксимметриялеләр
+    tt_latn: ikeyäksimmetriälelär
     uk: двобічно-симетричні
     vec: Bilateria
     vi: động vật đối xứng hai bên
@@ -172,9 +172,9 @@ dv_has_:
     wuu: 两侧对称动物
     yue: 兩側對稱動物
     zh: 两侧对称动物亚界
-    zh-cn: 两侧对称动物亚界
-    zh-hans: 两侧对称动物亚界
-    zh-tw: 兩側對稱動物亞界
+    zh_cn: 两侧对称动物亚界
+    zh_hans: 两侧对称动物亚界
+    zh_tw: 兩側對稱動物亞界
     zu: Bilateria
 ---
 # [[Bilateria]] 

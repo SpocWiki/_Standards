@@ -315,7 +315,7 @@ dv_has_:
     ab: Рашәарамза
     acm: حزيران
     ady: Мэкъуогъу
-    aeb-arab: جوان
+    aeb_arab: جوان
     af: Junie
     agq: Ndzɔŋ zə̀ Nzùghòo
     alt: Кичӱ изӱ ай
@@ -345,11 +345,11 @@ dv_has_:
     bas: hionde
     bax: mùt Juin
     bbc: Sipaha tolu
-    bbc-latn: Sipaha Tolu
+    bbc_latn: Sipaha Tolu
     bbj: dzûʼ bvù
     bcl: Hunyo
     be: чэрвень
-    be-tarask: чэрвень
+    be_tarask: чэрвень
     bew: Juni
     bg: Юни
     bho: जून
@@ -366,7 +366,7 @@ dv_has_:
     bxr: 6 һар
     byv: ŋwâgnkun
     ca: juny
-    cbk-zam: Junio
+    cbk_zam: Junio
     cdo: 6 nguŏk
     ce: Мангал бутт
     ceb: Hunyo
@@ -375,7 +375,7 @@ dv_has_:
     ckb: حوزەیران
     co: Ghjugnu
     crh: İyün
-    crh-latn: İyün
+    crh_latn: İyün
     cs: červen
     csb: Czerwińc
     cv: Çĕртме
@@ -392,8 +392,8 @@ dv_has_:
     el: Ιούνιος
     eml: Zógn
     en: June
-    en-ca: June
-    en-gb: June
+    en_ca: June
+    en_gb: June
     en-us: June
     eo: junio
     es: junio
@@ -473,7 +473,7 @@ dv_has_:
     ks: بٲدٕر
     ksh: Juuni
     ku: hezîran
-    ku-latn: hezîran
+    ku_latn: hezîran
     kv: Лӧддза-номъя тӧлысь
     kw: Mis Metheven
     ky: Июнь
@@ -495,7 +495,7 @@ dv_has_:
     lv: jūnijs
     lzh: 建未
     mai: जुन
-    map-bms: Juni
+    map_bms: Juni
     mcp: ”ŋwíí akǝ táafɔk"
     mdf: лямбеков
     mg: Jiona
@@ -510,7 +510,7 @@ dv_has_:
     mr: जून महिना
     mrj: Июнь
     ms: Jun
-    ms-arab: جون
+    ms_arab: جون
     mt: Ġunju
     mua: maməŋgwãafahbii
     mwl: Júnio
@@ -523,7 +523,7 @@ dv_has_:
     nap: Giùgno
     nb: juni
     nds: Juni
-    nds-nl: juni
+    nds_nl: juni
     ne: जुन
     new: जुन
     nl: juni
@@ -551,7 +551,7 @@ dv_has_:
     pnt: Κερασινός
     ps: جون
     pt: junho
-    pt-br: junho
+    pt_br: junho
     qu: Inti raymi killa
     ro: iunie
     roa-tara: sciugne
@@ -581,7 +581,7 @@ dv_has_:
     so: Juun
     sq: Qershori
     sr: Јун
-    sr-ec: Јун
+    sr_ec: Јун
     ss: ÍNhlaba
     su: Juni
     sv: juni
@@ -636,14 +636,14 @@ dv_has_:
     zea: Juni
     zgh: ⵢⵓⵏⵢⵓ
     zh: 6月
-    zh-cn: 6月
-    zh-hans: 6月
-    zh-hant: 6月
-    zh-hk: 6月
-    zh-mo: 6月
+    zh_cn: 6月
+    zh_hans: 6月
+    zh_hant: 6月
+    zh_hk: 6月
+    zh_mo: 6月
     zh-my: 6月
-    zh-sg: 6月
-    zh-tw: 6月
+    zh_sg: 6月
+    zh_tw: 6月
     zu: UNhlangulana (uJuni)
 ---
 # [[June]]

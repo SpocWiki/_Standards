@@ -150,14 +150,14 @@ dv_has_:
     bar: Stonehenge
     bcl: Stonehenge
     be: Стоўнхендж
-    be-tarask: Стоўнгэндж
+    be_tarask: Стоўнгэндж
     bg: Стоунхендж
     bho: स्टोनहेंज
     bn: স্টোনহেঞ্জ
     br: Stonehenge
     bs: Stonehenge
     ca: Stonehenge
-    cbk-zam: Stonehenge
+    cbk_zam: Stonehenge
     ceb: Stonehenge
     chr: ᏅᏯ ᏙᏗᎦᏙᎬ
     ckb: ستۆنھێنج
@@ -166,12 +166,12 @@ dv_has_:
     cy: Côr y Cewri
     da: Stonehenge
     de: Stonehenge
-    de-ch: Stonehenge
+    de_ch: Stonehenge
     dv: ސްޓޯންހެންޖް
     el: Στόουνχεντζ
     en: Stonehenge
-    en-ca: Stonehenge
-    en-gb: Stonehenge
+    en_ca: Stonehenge
+    en_gb: Stonehenge
     eo: Stonehenge
     es: Stonehenge
     et: Stonehenge
@@ -220,7 +220,7 @@ dv_has_:
     my: စတုန်းဟင်းချ်
     nan: Stonehenge
     nb: Stonehenge
-    nds-nl: Stonehenge
+    nds_nl: Stonehenge
     ne: स्टोनहेज
     nl: Stonehenge
     nn: Stonehenge
@@ -232,7 +232,7 @@ dv_has_:
     pnb: سٹونہنج
     ps: سټونهېنج
     pt: Stonehenge
-    pt-br: Stonehenge
+    pt_br: Stonehenge
     ro: Stonehenge
     ru: Стоунхендж
     scn: Stonehenge
@@ -243,8 +243,8 @@ dv_has_:
     smn: Stonehenge
     sq: Stonehenge
     sr: Стоунхенџ
-    sr-ec: Стоунхенџ
-    sr-el: Stounhendž
+    sr_ec: Стоунхенџ
+    sr_el: Stounhendž
     sv: Stonehenge
     ta: ஸ்டோன் ஹெஞ்ச்
     te: స్టోన్హెంజ్
@@ -261,7 +261,7 @@ dv_has_:
     wuu: 巨石阵
     yue: 巨石陣
     zh: 巨石阵
-    zh-hans: 巨石阵
+    zh_hans: 巨石阵
 ---
 # [[Stonehenge]] 
 

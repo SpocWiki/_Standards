@@ -54,7 +54,7 @@ dv_has_:
     arz: الغد لا يموت
     ast: Tomorrow Never Dies
     azb: صاباح هئچ اؤلمز
-    be-tarask: Заўтра не памрэ ніколі
+    be_tarask: Заўтра не памрэ ніколі
     bg: Винаги ще има утре
     bn: টুমোরো নেভার ডাইস
     ca: El demà no mor mai
@@ -64,8 +64,8 @@ dv_has_:
     de: James Bond 007 – Der Morgen stirbt nie
     el: Το Αύριο Ποτέ δεν Πεθαίνει
     en: Tomorrow Never Dies
-    en-ca: Tomorrow Never Dies
-    en-gb: Tomorrow Never Dies
+    en_ca: Tomorrow Never Dies
+    en_gb: Tomorrow Never Dies
     es: El mañana nunca muere
     et: 007 ja igavene homne
     eu: Tomorrow Never Dies
@@ -99,14 +99,14 @@ dv_has_:
     nn: Tomorrow Never Dies
     pl: Jutro nie umiera nigdy
     pt: 007 - O Amanhã nunca Morre
-    pt-br: 007 - O Amanhã nunca Morre
+    pt_br: 007 - O Amanhã nunca Morre
     ro: 007 și imperiul zilei de mâine
     ru: Завтра не умрёт никогда
     sh: Tomorrow Never Dies
     sk: 'James Bond: Zajtrajšok nikdy nezomiera'
     sr: Сутра не умире никад
-    sr-ec: Сутра не умире никад
-    sr-el: Sutra ne umire nikad
+    sr_ec: Сутра не умире никад
+    sr_el: Sutra ne umire nikad
     sv: Tomorrow Never Dies
     th: 007 พยัคฆ์ร้ายไม่มีวันตาย
     tr: Yarın Asla Ölmez
@@ -116,12 +116,12 @@ dv_has_:
     xmf: ჭუმენერი დღა დღას ვაღურუ
     yue: 新鐵金剛之明日帝國
     zh: 新鐵金剛之明日帝國
-    zh-cn: 明日帝国
-    zh-hans: 明日帝国
-    zh-hant: 明日帝國
-    zh-hk: 新鐵金剛之明日帝國
-    zh-sg: 明日帝国
-    zh-tw: 明日帝國
+    zh_cn: 明日帝国
+    zh_hans: 明日帝国
+    zh_hant: 明日帝國
+    zh_hk: 新鐵金剛之明日帝國
+    zh_sg: 明日帝国
+    zh_tw: 明日帝國
 ---
 ## #has_/text_of_/abstract 
 

@@ -183,7 +183,7 @@ dv_has_:
     az: Süzənək
     ban: enceh nanah
     be: ганарэя
-    be-tarask: ганарэя
+    be_tarask: ганарэя
     bg: Гонорея
     bn: গনোরিয়া
     ca: gonorrea
@@ -195,13 +195,13 @@ dv_has_:
     da: gonorré
     dag: Kpaɣipiɛliga
     de: Gonorrhoe
-    de-ch: Gonorrhoe
+    de_ch: Gonorrhoe
     din: Biyuu
     dv: ކިހުނުވުން
     el: γονόρροια
     en: gonorrhea
-    en-ca: Gonorrhea
-    en-gb: gonorrhea
+    en_ca: Gonorrhea
+    en_gb: gonorrhea
     eo: gonoreo
     es: gonorrea
     et: Gonorröa
@@ -228,11 +228,11 @@ dv_has_:
     jv: Gonore
     ka: გონორეა
     kk: Соз
-    kk-arab: سوز
+    kk_arab: سوز
     kk-cn: سوز
-    kk-cyrl: Соз
+    kk_cyrl: Соз
     kk-kz: Соз
-    kk-latn: Soz
+    kk_latn: Soz
     kk-tr: Soz
     kn: ಗೊನೊರಿಯಾ
     ko: 임질
@@ -257,7 +257,7 @@ dv_has_:
     pl: rzeżączka
     ps: سوزاک
     pt: gonorreia
-    pt-br: Gonorreia
+    pt_br: Gonorreia
     ro: gonoreea
     ru: гонорея
     sah: Бүлтүрэй
@@ -268,8 +268,8 @@ dv_has_:
     smn: Tippur
     sn: Chizonono
     sr: гонореја
-    sr-ec: гонореја
-    sr-el: gonoreja
+    sr_ec: гонореја
+    sr_el: gonoreja
     su: Gonore
     sv: gonorré
     sw: Kisonono
@@ -291,12 +291,12 @@ dv_has_:
     yue: 淋病
     za: Nyouhin
     zh: 淋病
-    zh-cn: 淋病
-    zh-hans: 淋病
-    zh-hant: 淋病
-    zh-hk: 淋病
-    zh-sg: 淋病
-    zh-tw: 淋病
+    zh_cn: 淋病
+    zh_hans: 淋病
+    zh_hant: 淋病
+    zh_hk: 淋病
+    zh_sg: 淋病
+    zh_tw: 淋病
 ---
 # [[Gonorrhea]] 
 

@@ -134,7 +134,7 @@ dv_has_:
     az: Con Dyui
     azb: جان دیویی
     be: Джон Дзьюі
-    be-tarask: Джон Д’юі
+    be_tarask: Джон Д’юі
     bg: Джон Дюи
     bn: জন ডুয়ি
     br: John Dewey
@@ -173,11 +173,11 @@ dv_has_:
     jv: John Dewey
     ka: ჯონ დიუი
     kk: Джон Дьюи
-    kk-arab: دجون ديۋىي
+    kk_arab: دجون ديۋىي
     kk-cn: دجون ديۋىي
-    kk-cyrl: Джон Дьюи
+    kk_cyrl: Джон Дьюи
     kk-kz: Джон Дьюи
-    kk-latn: Djon Dʹyuï
+    kk_latn: Djon Dʹyuï
     kk-tr: Djon Dʹyuï
     kn: ಜಾನ್ ಡೀವಿ
     ko: 존 듀이
@@ -196,7 +196,7 @@ dv_has_:
     nan: John Dewey
     nb: John Dewey
     nds: John Dewey
-    nds-nl: John Dewey
+    nds_nl: John Dewey
     new: जोन ड्युवे
     nl: John Dewey
     nn: John Dewey
@@ -206,7 +206,7 @@ dv_has_:
     pms: John Dewey
     ps: جان ډېوي
     pt: John Dewey
-    pt-br: John Dewey
+    pt_br: John Dewey
     ro: John Dewey
     ru: Джон Дьюи
     sco: John Dewey
@@ -215,8 +215,8 @@ dv_has_:
     sl: John Dewey
     sq: John Dewey
     sr: Џон Дјуи
-    sr-ec: Џон Дјуи
-    sr-el: Džon Djui
+    sr_ec: Џон Дјуи
+    sr_el: Džon Djui
     sv: John Dewey
     sw: John Dewey
     ta: ஜான் டெவே
@@ -234,12 +234,12 @@ dv_has_:
     yo: John Dewey
     yue: 杜威
     zh: 约翰·杜威
-    zh-cn: 约翰·杜威
+    zh_cn: 约翰·杜威
     zh-hans: 约翰·杜威
-    zh-hant: 約翰·杜威
-    zh-hk: 約翰·杜威
-    zh-sg: 约翰·杜威
-    zh-tw: 約翰·杜威
+    zh_hant: 約翰·杜威
+    zh_hk: 約翰·杜威
+    zh_sg: 约翰·杜威
+    zh_tw: 約翰·杜威
 ---
 # [[Dewey,John]] 
 

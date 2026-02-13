@@ -153,7 +153,7 @@ dv_has_:
     atj: maticowe iriniw
     az: cərrah
     be: хірург
-    be-tarask: хірург
+    be_tarask: хірург
     bg: хирург
     bn: শল্যচিকিৎসক
     br: surjian
@@ -198,7 +198,7 @@ dv_has_:
     kk: Хирург
     ko: 외과의
     ku: nişterger
-    ku-latn: nişterger
+    ku_latn: nişterger
     kw: leuvvedhek
     ky: Хирург
     la: Chirurgus
@@ -239,8 +239,8 @@ dv_has_:
     so: Dhakhtar qaliin
     sq: kirurg
     sr: хирург
-    sr-ec: хирург
-    sr-el: hirurg
+    sr_ec: хирург
+    sr_el: hirurg
     sv: kirurg
     sw: Mpasuaji
     ta: அறுவைச் சிகிச்சை நிபுணர்
@@ -258,9 +258,9 @@ dv_has_:
     yi: כירורג
     yue: 外科醫生
     zh: 外科医生
-    zh-hant: 外科醫生
-    zh-hk: 外科醫生
-    zh-tw: 外科醫生
+    zh_hant: 外科醫生
+    zh_hk: 外科醫生
+    zh_tw: 外科醫生
 ---
 # [[Surgeon]] 
 

@@ -55,7 +55,7 @@ dv_has_:
     pl: Tullio Levi-Civita
     pms: Tullio Levi-Civita
     pt: Tullio Levi-Civita
-    pt-br: Tullio Levi-Civita
+    pt_br: Tullio Levi-Civita
     ro: Tullio Levi-Civita
     ru: Туллио Леви-Чивита
     sk: Tullio Levi-Civita

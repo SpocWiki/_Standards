@@ -160,7 +160,7 @@ dv_has_:
     arz: صوت الموسيقى
     ast: The Sound of Music
     az: Musiqi sədaları
-    be-tarask: Гукі музыкі
+    be_tarask: Гукі музыкі
     bg: Звукът на музиката
     bn: দ্য সাউন্ড অব মিউজিক
     bs: Moje pjesme, moji snovi
@@ -204,7 +204,7 @@ dv_has_:
     nn: Sound of Music
     pl: Dźwięki muzyki
     pt: Música no Coração
-    pt-br: A Noviça Rebelde
+    pt_br: A Noviça Rebelde
     ro: Sunetul muzicii
     ru: Звуки музыки
     sh: The Sound of Music
@@ -222,10 +222,10 @@ dv_has_:
     wuu: 音乐之声 (电影)
     yue: 仙樂飄飄處處聞
     zh: 音樂之聲
-    zh-cn: 音乐之声
-    zh-hant: 真善美
-    zh-hk: 仙樂飄飄處處聞
-    zh-tw: 真善美
+    zh_cn: 音乐之声
+    zh_hant: 真善美
+    zh_hk: 仙樂飄飄處處聞
+    zh_tw: 真善美
 ---
 # [[Sound_of_Music(Film)]] 
 

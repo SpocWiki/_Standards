@@ -59,7 +59,7 @@ dv_has_:
     avk: megenoleem
     az: Zolaqlı balinalar
     ban: Balaenopteridae
-    be-tarask: Паскавацікавыя
+    be_tarask: Паскавацікавыя
     bg: Ивичести китове
     br: Balaenopteridae
     ca: Rorqual
@@ -105,7 +105,7 @@ dv_has_:
     oc: Balaenopteridae
     pl: płetwalowate
     pt: Balaenopteridae
-    pt-br: Balaenopteridae
+    pt_br: Balaenopteridae
     ro: Balaenopteridae
     ru: полосатиковые
     sh: Brazdeni kitovi
@@ -124,12 +124,12 @@ dv_has_:
     war: Balaenopteridae
     wuu: 须鲸科
     zh: 鬚鯨科
-    zh-cn: 须鲸科
-    zh-hans: 须鲸科
-    zh-hant: 鬚鯨科
-    zh-hk: 鬚鯨科
-    zh-sg: 须鲸科
-    zh-tw: 鬚鯨科
+    zh_cn: 须鲸科
+    zh_hans: 须鲸科
+    zh_hant: 鬚鯨科
+    zh_hk: 鬚鯨科
+    zh_sg: 须鲸科
+    zh_tw: 鬚鯨科
 ---
 # [[Balaenopteridae]]
 

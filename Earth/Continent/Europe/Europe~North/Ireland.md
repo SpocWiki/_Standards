@@ -581,7 +581,7 @@ dv_has_:
     ab: Ирландиа
     ace: Irlandia
     ady: Ирландие
-    aeb-arab: جمهورية إيرلندا
+    aeb_arab: جمهورية إيرلندا
     af: Republiek van Ierland
     am: አየርላንድ ሪፑብሊክ
     an: Irlanda
@@ -603,7 +603,7 @@ dv_has_:
     bbc: Republik Irlandia
     bcl: Irlandya
     be: Ірландыя
-    be-tarask: Ірляндыя
+    be_tarask: Ірляндыя
     bew: Irlan
     bg: Ирландия
     bgn: ایرلند ئی جمهوریت
@@ -618,7 +618,7 @@ dv_has_:
     bug: ᨕᨗᨑᨛᨒ
     bxr: Ирланд
     ca: Irlanda
-    cbk-zam: Irlanda
+    cbk_zam: Irlanda
     cdo: Ái-ī-làng
     ce: Ирланди
     ceb: Irlanda
@@ -628,7 +628,7 @@ dv_has_:
     ckb: کۆماری ئیرلەندا
     co: Irlanda
     crh: İrlandiya
-    crh-latn: İrlandiya
+    crh_latn: İrlandiya
     cs: Irsko
     csb: Irlandiô
     cu: Єирь
@@ -638,7 +638,7 @@ dv_has_:
     dag: Ireland
     de: Irland
     de-at: Irland
-    de-ch: Irland
+    de_ch: Irland
     diq: İrlanda
     dsb: Irska
     dty: गणतन्त्र आयरल्यान्ड
@@ -648,8 +648,8 @@ dv_has_:
     el: Ιρλανδία
     eml: Irlànda
     en: Ireland
-    en-ca: Ireland
-    en-gb: Ireland
+    en_ca: Ireland
+    en_gb: Ireland
     en-us: Ireland
     eo: Irlando
     es: Irlanda
@@ -677,7 +677,7 @@ dv_has_:
     gn: Ilandia
     gom: आयर्लंड गणराज्य
     gom-deva: आयर्लंड गणराज्य
-    gom-latn: Ireland
+    gom_latn: Ireland
     got: "\U00010334\U00010339\U00010342\U00010330\U0001033B\U00010330\U0001033D\U00010333"
     gpe: Ireland
     gsw: Irland
@@ -717,7 +717,7 @@ dv_has_:
     kea: Irlanda
     kge: Irlandia
     kk: Ирландия
-    kk-cyrl: Ирландия
+    kk_cyrl: Ирландия
     kl: Irlandi
     km: សាធារណរដ្ឋអៀរឡង់
     kn: ಐರ್ಲೆಂಡ್ ಗಣರಾಜ್ಯ
@@ -750,7 +750,7 @@ dv_has_:
     lv: Īrija
     lzh: 愛爾蘭共和國
     mad: Republik Irlandia
-    map-bms: Republic of Ireland
+    map_bms: Republic of Ireland
     mdf: Ирландмастор
     mg: Irlanda
     mhr: Ирландий
@@ -762,7 +762,7 @@ dv_has_:
     mr: आयर्लंडचे प्रजासत्ताक
     mrj: Ирланди
     ms: Ireland
-    ms-arab: اءيلند
+    ms_arab: اءيلند
     mt: Irlanda
     mwl: Eirlanda
     my: အိုင်ယာလန်သမ္မတနိုင်ငံ
@@ -774,7 +774,7 @@ dv_has_:
     nap: Irlanna
     nb: Irland
     nds: Irland
-    nds-nl: Ierlaand
+    nds_nl: Ierlaand
     ne: गणतन्त्र आयरल्यान्ड
     new: गणतन्त्र आयरल्यान्द
     nl: Ierland
@@ -801,7 +801,7 @@ dv_has_:
     pnt: Ιρλανδία
     ps: ايرلينډ جمهوريت
     pt: República da Irlanda
-    pt-br: República da Irlanda
+    pt_br: República da Irlanda
     qu: Irhallp'a
     rm: Republica da l'Irlanda
     rmy: Republika Irland
@@ -835,8 +835,8 @@ dv_has_:
     so: Ireland
     sq: Republika e Irlandës
     sr: Република Ирска
-    sr-ec: Република Ирска
-    sr-el: Republika Irska
+    sr_ec: Република Ирска
+    sr_el: Republika Irska
     srn: Irikondre
     ss: IYalendi
     stq: Irlound
@@ -849,7 +849,7 @@ dv_has_:
     te: రిపబ్లిక్ ఆఫ్ ఐర్లాండ్
     tet: Irlanda
     tg: Ҷумҳурии Ирландия
-    tg-cyrl: Ҷумҳурии Ирландия
+    tg_cyrl: Ҷумҳурии Ирландия
     th: ประเทศไอร์แลนด์
     tk: Irlandiýa
     tl: Irlanda
@@ -883,14 +883,14 @@ dv_has_:
     za: Aiwjlanz Gunghozgoz
     zea: Ierland
     zh: 愛爾蘭共和國
-    zh-cn: 爱尔兰
-    zh-hans: 爱尔兰
-    zh-hant: 愛爾蘭
-    zh-hk: 愛爾蘭
-    zh-mo: 愛爾蘭共和國
+    zh_cn: 爱尔兰
+    zh_hans: 爱尔兰
+    zh_hant: 愛爾蘭
+    zh_hk: 愛爾蘭
+    zh_mo: 愛爾蘭共和國
     zh-my: 爱尔兰共和国
-    zh-sg: 爱尔兰共和国
-    zh-tw: 愛爾蘭
+    zh_sg: 爱尔兰共和国
+    zh_tw: 愛爾蘭
     zu: I-Ayilendi
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Ireland

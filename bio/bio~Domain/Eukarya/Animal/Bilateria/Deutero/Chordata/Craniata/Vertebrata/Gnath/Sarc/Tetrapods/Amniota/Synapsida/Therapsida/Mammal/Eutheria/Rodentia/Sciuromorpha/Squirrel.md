@@ -186,7 +186,7 @@ dv_has_:
     bcl: ardilya
     bdr: Basing
     be: вавёркавыя
-    be-tarask: вавёркавыя
+    be_tarask: вавёркавыя
     bg: катерицови
     bn: কাঠবিড়ালী
     bo: ནགས་བྱི།
@@ -269,7 +269,7 @@ dv_has_:
     mzn: عاروسک
     nan: Phòng-chhí
     nb: ekornfamilien
-    nds-nl: kateker
+    nds_nl: kateker
     ne: लोखर्के
     new: थ्वाच्चा
     nl: eekhoorns
@@ -286,7 +286,7 @@ dv_has_:
     pl: wiewiórkowate
     pnb: گالھڑ
     pt: esquilo
-    pt-br: esquilo
+    pt_br: esquilo
     qu: Antharu
     ro: Sciuridă
     ru: беличьи
@@ -327,10 +327,10 @@ dv_has_:
     yue: 松鼠
     za: Noucoengz
     zh: 松鼠科
-    zh-cn: 松鼠科
-    zh-hans: 松鼠科
-    zh-hant: 松鼠
-    zh-tw: 松鼠科
+    zh_cn: 松鼠科
+    zh_hans: 松鼠科
+    zh_hant: 松鼠
+    zh_tw: 松鼠科
     zu: Intshindane
 ---
 # [[Squirrel]] 🐿 

@@ -299,7 +299,7 @@ dv_has_:
     ab: Мшаԥымза
     abr: Oforisuo
     ady: Мэлылъфэгъу
-    aeb-arab: أڥريل
+    aeb_arab: أڥريل
     af: April
     agq: Ndzɔŋ è Tǎa è ùfʉ̄ghā
     alt: Кандык ай
@@ -328,11 +328,11 @@ dv_has_:
     bas: matob
     bax: mùt Avril
     bbc: Sipaha sada
-    bbc-latn: Sipaha Sada
+    bbc_latn: Sipaha Sada
     bbj: dzə̂biyɛ́
     bcl: Abril
     be: красавік
-    be-tarask: красавік
+    be_tarask: красавік
     bew: April
     bg: Април
     bho: अप्रैल
@@ -349,7 +349,7 @@ dv_has_:
     bxr: 4 һар
     byv: ntàŋmbwə
     ca: abril
-    cbk-zam: Abril
+    cbk_zam: Abril
     cdo: 4 nguŏk
     ce: Тушоли бутт
     ceb: Abril
@@ -358,7 +358,7 @@ dv_has_:
     ckb: نیسان
     co: Aprile
     crh: Aprel
-    crh-latn: Aprel
+    crh_latn: Aprel
     cs: duben
     csb: łżëkwiat
     cv: Ака уйăхĕ
@@ -366,7 +366,7 @@ dv_has_:
     da: april
     dag: April
     de: April
-    de-ch: April
+    de_ch: April
     diq: Nisane
     dsb: apryl
     dtp: Ngiop
@@ -376,8 +376,8 @@ dv_has_:
     el: Απρίλιος
     eml: Avrîl
     en: April
-    en-ca: April
-    en-gb: April
+    en_ca: April
+    en_gb: April
     en-us: April
     eo: aprilo
     es: abril
@@ -456,7 +456,7 @@ dv_has_:
     ks: ہار
     ksh: Apprill
     ku: nîsan
-    ku-latn: nîsan
+    ku_latn: nîsan
     kv: Кос му тӧлысь
     kw: Mis Ebrel
     ky: Апрель
@@ -478,7 +478,7 @@ dv_has_:
     lv: aprīlis
     lzh: 建巳
     mai: अप्रैल
-    map-bms: April
+    map_bms: April
     mcp: ”ŋwíí akǝ nin"
     mdf: шудиков
     mg: Aprily
@@ -493,7 +493,7 @@ dv_has_:
     mr: एप्रिल महिना
     mrj: Апрель
     ms: April
-    ms-arab: اڤريل
+    ms_arab: اڤريل
     mt: April
     mua: fĩi marfoo
     mwl: Abril
@@ -505,7 +505,7 @@ dv_has_:
     nap: Abbrile
     nb: april
     nds: April
-    nds-nl: april
+    nds_nl: april
     ne: अप्रिल
     new: अप्रिल
     nl: april
@@ -533,7 +533,7 @@ dv_has_:
     pnt: Απρίλτς
     ps: اپرېل
     pt: abril
-    pt-br: abril
+    pt_br: abril
     qu: Ayriway killa
     ro: aprilie
     roa-tara: Abbrìle
@@ -563,7 +563,7 @@ dv_has_:
     so: Abriil
     sq: Prilli
     sr: Април
-    sr-ec: Април
+    sr_ec: Април
     ss: Mábasa
     su: April
     sv: april
@@ -616,14 +616,14 @@ dv_has_:
     zea: April
     zgh: ⵉⴱⵔⵉⵔ
     zh: 4月
-    zh-cn: 4月
-    zh-hans: 4月
-    zh-hant: 4月
-    zh-hk: 4月
-    zh-mo: 4月
+    zh_cn: 4月
+    zh_hans: 4月
+    zh_hant: 4月
+    zh_hk: 4月
+    zh_mo: 4月
     zh-my: 4月
-    zh-sg: 4月
-    zh-tw: 4月
+    zh_sg: 4月
+    zh_tw: 4月
     zu: UMbasa (u-Ephreli)
 ---
 # [[April]]

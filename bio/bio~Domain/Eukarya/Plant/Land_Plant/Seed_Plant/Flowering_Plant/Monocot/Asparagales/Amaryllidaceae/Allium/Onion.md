@@ -172,8 +172,8 @@ aliases:
 has_id_wikidata: Q23485
 dv_has_:
   name_:
-    aeb-arab: بصل
-    aeb-latn: bcal
+    aeb_arab: بصل
+    aeb_latn: bcal
     af: Ui
     ak: Gyeene
     am: ሽንኩርት
@@ -193,7 +193,7 @@ dv_has_:
     bcl: Sibulyas
     bdr: Bawang
     be: цыбуля рэпчатая
-    be-tarask: рэпчатая цыбуля
+    be_tarask: рэпчатая цыбуля
     bg: кромид лук
     bho: पियाज
     bjn: Bawang Bombay
@@ -216,8 +216,8 @@ dv_has_:
     el: κρεμμύδι
     eml: Sivóla
     en: Allium cepa
-    en-ca: onion
-    en-gb: onion
+    en_ca: onion
+    en_gb: onion
     en-us: Allium cepa
     eo: cepo
     es: Allium cepa
@@ -271,7 +271,7 @@ dv_has_:
     ks: گَنڈٕ
     ksh: Öllich
     ku: pîvaz
-    ku-latn: pîvaz
+    ku_latn: pîvaz
     kus: Gabʋ
     ky: Пияз
     la: Allium cepa
@@ -304,7 +304,7 @@ dv_has_:
     nah: Xōnacatl
     nan: chhang-thâu
     nb: vanlig løk
-    nds-nl: uui
+    nds_nl: uui
     ne: प्याज
     nl: ui
     nn: lauk
@@ -319,7 +319,7 @@ dv_has_:
     pnb: گنڈھا
     ps: پياز
     pt: cebola
-    pt-br: Cebola
+    pt_br: Cebola
     qu: Siwilla
     rn: Ibitunguru
     ro: ceapă
@@ -345,7 +345,7 @@ dv_has_:
     so: basal
     sq: qepa
     sr: црни лук
-    sr-ec: Црни лук
+    sr_ec: Црни лук
     su: bawang bombay
     sv: lök
     sw: kitunguu
@@ -362,7 +362,7 @@ dv_has_:
     tr: soğan
     tum: Hanyezi
     ug: پىياز
-    ug-latn: piyaz
+    ug_latn: piyaz
     uk: цибуля ріпчаста
     ur: پیاز
     uz: Piyoz
@@ -380,10 +380,10 @@ dv_has_:
     yue: 洋蔥
     zea: juun
     zh: 洋蔥
-    zh-cn: 洋葱
-    zh-hans: 洋蔥
-    zh-hant: 洋蔥
-    zh-tw: 洋蔥
+    zh_cn: 洋葱
+    zh_hans: 洋蔥
+    zh_hant: 洋蔥
+    zh_tw: 洋蔥
     zu: Uanyanisi
 ---
 # [[Onion]] 

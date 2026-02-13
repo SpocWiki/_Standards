@@ -138,7 +138,7 @@ dv_has_:
     azb: هالتر
     ba: Ауыр атлетика
     be: цяжкая атлетыка
-    be-tarask: цяжкая атлетыка
+    be_tarask: цяжкая атлетыка
     bg: вдигане на тежести
     bjn: Angkat wasi
     bn: ভারোত্তোলন
@@ -206,8 +206,8 @@ dv_has_:
     sm: Avega mamava
     smn: tiädduluptim
     sr: дизање тегова
-    sr-ec: дизање тегова
-    sr-el: dizanje tegova
+    sr_ec: дизање тегова
+    sr_el: dizanje tegova
     sv: tyngdlyftning
     sw: Kunyanyua vyuma
     szl: dźwiganie wŏg
@@ -227,11 +227,11 @@ dv_has_:
     wuu: 举重
     yue: 奧運舉重
     zh: 举重
-    zh-cn: 举重
-    zh-hans: 举重
-    zh-hant: 舉重
-    zh-hk: 舉重
-    zh-tw: 舉重
+    zh_cn: 举重
+    zh_hans: 举重
+    zh_hant: 舉重
+    zh_hk: 舉重
+    zh_tw: 舉重
 ---
 # [[Weightlifting]] 🏋  
 

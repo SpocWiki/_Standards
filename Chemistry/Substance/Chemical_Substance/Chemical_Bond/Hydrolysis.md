@@ -26,7 +26,7 @@ dv_has_:
     az: Duzların hidrolizi
     ba: Гидролиз
     be: гідроліз
-    be-tarask: гідроліз
+    be_tarask: гідроліз
     bg: Хидролиза
     bn: আর্দ্র বিশ্লেষণ
     bs: Hidroliza
@@ -38,8 +38,8 @@ dv_has_:
     de: Hydrolyse
     el: υδρόλυση
     en: hydrolysis
-    en-ca: Hydrolysis
-    en-gb: hydrolysis
+    en_ca: Hydrolysis
+    en_gb: hydrolysis
     eo: hidrolizo
     es: hidrólisis
     et: hüdrolüüs
@@ -61,11 +61,11 @@ dv_has_:
     ja: 加水分解
     ka: ჰიდროლიზი
     kk: Гидролиз
-    kk-arab: گىيدرولىيز
+    kk_arab: گىيدرولىيز
     kk-cn: گىيدرولىيز
-    kk-cyrl: Гидролиз
+    kk_cyrl: Гидролиз
     kk-kz: Гидролиз
-    kk-latn: Gïdrolïz
+    kk_latn: Gïdrolïz
     kk-tr: Gïdrolïz
     kn: ಜಲವಿಚ್ಛೇದನೆ
     ko: 가수분해
@@ -85,7 +85,7 @@ dv_has_:
     oc: Idrolisi
     pl: hydroliza
     pt: hidrólise
-    pt-br: hidrólise
+    pt_br: hidrólise
     ro: hidroliză
     ru: гидролиз
     sa: हैड्रोलिसिस्
@@ -98,8 +98,8 @@ dv_has_:
     sms: hydrolyys
     sq: Hidrolizë
     sr: хидролиза
-    sr-ec: Хидролиза
-    sr-el: Hidroliza
+    sr_ec: Хидролиза
+    sr_el: Hidroliza
     su: Hidrolisis
     sv: hydrolys
     ta: நீராற்பகுத்தல்
@@ -115,12 +115,12 @@ dv_has_:
     wuu: 水解
     yue: 水解
     zh: 水解
-    zh-cn: 水解
-    zh-hans: 水解
-    zh-hant: 水解
-    zh-hk: 水解
-    zh-sg: 水解
-    zh-tw: 水解
+    zh_cn: 水解
+    zh_hans: 水解
+    zh_hant: 水解
+    zh_hk: 水解
+    zh_sg: 水解
+    zh_tw: 水解
 aliases:
 - Duzların hidrolizi
 - Gidroliz

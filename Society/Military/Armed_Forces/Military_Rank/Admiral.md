@@ -92,7 +92,7 @@ dv_has_:
     az: admiral
     azb: آدمیرال
     be: адмірал
-    be-tarask: адмірал
+    be_tarask: адмірал
     bg: адмирал
     bn: অ্যাডমিরাল
     br: amiral
@@ -167,8 +167,8 @@ dv_has_:
     sms: amiraal
     sq: Admirali
     sr: адмирал
-    sr-ec: Адмирал
-    sr-el: Admiral
+    sr_ec: Адмирал
+    sr_el: Admiral
     sv: amiral
     sw: Admirali
     tg: Дарёсолор
@@ -184,12 +184,12 @@ dv_has_:
     yi: אדמיראל
     yue: 海軍上將
     zh: 海軍上將
-    zh-cn: 海军上将
-    zh-hans: 海军上将
-    zh-hant: 海軍上將
-    zh-hk: 海軍上將
-    zh-sg: 海军上将
-    zh-tw: 海軍上將
+    zh_cn: 海军上将
+    zh_hans: 海军上将
+    zh_hant: 海軍上將
+    zh_hk: 海軍上將
+    zh_sg: 海军上将
+    zh_tw: 海軍上將
 ---
 # [[Admiral]] 
 

@@ -43,7 +43,7 @@ dv_has_:
     oc: Deferribacteraceae
     pl: Deferribacteraceae
     pt: Deferribacteraceae
-    pt-br: Deferribacteraceae
+    pt_br: Deferribacteraceae
     ro: Deferribacteraceae
     ru: Deferribacteraceae
     sq: Deferribacteraceae
@@ -54,9 +54,9 @@ dv_has_:
     vo: Deferribacteraceae
     war: Deferribacteraceae
     zh: 脫鐵桿菌門
-    zh-hans: 脱铁杆菌门
-    zh-hant: 脫鐵桿菌門
-    zh-hk: 脫鐵桿菌門
+    zh_hans: 脱铁杆菌门
+    zh_hant: 脫鐵桿菌門
+    zh_hk: 脫鐵桿菌門
 ---
 # [[Deferribacteres]] 
 

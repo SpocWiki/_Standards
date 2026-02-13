@@ -49,7 +49,7 @@ dv_has_:
     oc: Ericoideae
     pl: Ericoideae
     pt: Ericoideae
-    pt-br: Ericoideae
+    pt_br: Ericoideae
     ro: Ericoideae
     ru: эриковые
     sl: Ericoideae
@@ -59,7 +59,7 @@ dv_has_:
     vo: Ericoideae
     war: Ericoideae
     zh: 杜鹃花亚科
-    zh-cn: 杜鹃花亚科
+    zh_cn: 杜鹃花亚科
 ---
 # [[Ericoideae]] 
 

@@ -175,7 +175,7 @@ Commons_category: Spoons
 dv_has_:
   name_:
     acm: خاشوگة
-    aeb-arab: مغرفة
+    aeb_arab: مغرفة
     af: lepel
     ak: atri
     an: cullara
@@ -191,7 +191,7 @@ dv_has_:
     bcl: kutsara
     bdr: Saan
     be: лыжка
-    be-tarask: лыжка
+    be_tarask: лыжка
     bew: tési
     bg: лъжица
     bjn: susudu
@@ -209,7 +209,7 @@ dv_has_:
     da: ske
     dag: dirigu
     de: Löffel
-    de-ch: Löffel
+    de_ch: Löffel
     diq: kewçıke
     ee: gatsi
     el: κουτάλι
@@ -277,12 +277,12 @@ dv_has_:
     mr: चमचा
     mrj: савала
     ms: sudu
-    ms-arab: سودو
+    ms_arab: سودو
     my: ဇွန်း
     myv: пенч
     nan: Thng-sî
     nb: skje
-    nds-nl: leppel
+    nds_nl: leppel
     ne: चम्चा
     nl: lepel
     nn: skei
@@ -291,7 +291,7 @@ dv_has_:
     pl: łyżka
     pnb: چمچا
     pt: colher
-    pt-br: colher
+    pt_br: colher
     qu: kuchara
     rn: ikiyiko
     ro: lingură
@@ -335,8 +335,8 @@ dv_has_:
     yue: 匙羹
     za: beuzgeng
     zh: 匙
-    zh-hans: 匙
-    zh-hant: 匙
+    zh_hans: 匙
+    zh_hant: 匙
 ---
 # [[Spoon]] 🥄 
 

@@ -77,7 +77,7 @@ dv_has_:
     ast: Utilitarismu
     az: Utilitarizm
     be: Утылітарызм
-    be-tarask: утылітарызм
+    be_tarask: утылітарызм
     bg: Утилитаризъм
     bn: উপযোগবাদ
     ca: utilitarisme
@@ -85,12 +85,12 @@ dv_has_:
     cy: Defnyddiolaeth
     da: utilitarisme
     de: Utilitarismus
-    de-ch: Utilitarismus
+    de_ch: Utilitarismus
     ee: Viɖe ƒe nukpɔsusu
     el: ωφελιμισμός
     en: utilitarianism
-    en-ca: Utilitarianism
-    en-gb: utilitarianism
+    en_ca: Utilitarianism
+    en_gb: utilitarianism
     eo: utilismo
     es: utilitarismo
     et: utilitarism
@@ -115,11 +115,11 @@ dv_has_:
     jv: Utilitarianisme
     ka: უტილიტარიზმი
     kk: Утилитаризм
-    kk-arab: ۋتىيلىيتارىيزم
+    kk_arab: ۋتىيلىيتارىيزم
     kk-cn: ۋتىيلىيتارىيزم
-    kk-cyrl: Утилитаризм
+    kk_cyrl: Утилитаризм
     kk-kz: Утилитаризм
-    kk-latn: Wtïlïtarïzm
+    kk_latn: Wtïlïtarïzm
     kk-tr: Wtïlïtarïzm
     kn: ಉಪಯುಕ್ತತಾವಾದ
     ko: 공리주의
@@ -141,15 +141,15 @@ dv_has_:
     pms: Utilitarism
     ps: د ګټې اصالت
     pt: utilitarismo
-    pt-br: Utilitarismo
+    pt_br: Utilitarismo
     ro: utilitarism
     ru: утилитаризм
     sh: Utilitarizam
     sk: utilitarizmus
     sl: utilitarizem
     sr: утилитаризам
-    sr-ec: Утилитаризам
-    sr-el: Utilitarizam
+    sr_ec: Утилитаризам
+    sr_el: Utilitarizam
     sv: utilitarism
     ta: பயனெறிமுறைக் கோட்பாடு
     th: ประโยชน์นิยม
@@ -163,12 +163,12 @@ dv_has_:
     wuu: 功利主义
     yue: 功用主義
     zh: 功利主义
-    zh-cn: 功利主义
-    zh-hans: 功利主义
-    zh-hant: 功利主義
-    zh-hk: 功利主義
-    zh-sg: 功利主义
-    zh-tw: 功利主義
+    zh_cn: 功利主义
+    zh_hans: 功利主义
+    zh_hant: 功利主義
+    zh_hk: 功利主義
+    zh_sg: 功利主义
+    zh_tw: 功利主義
 ---
 # [[Utilitarianism]] 
 

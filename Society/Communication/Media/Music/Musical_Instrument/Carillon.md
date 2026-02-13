@@ -73,7 +73,7 @@ dv_has_:
   name_:
     ar: مصلصلة
     ast: carillón
-    be-tarask: карыльён
+    be_tarask: карыльён
     bg: карийон
     bn: সুরেলা ঘণ্টাস্তবক
     ca: carilló
@@ -82,7 +82,7 @@ dv_has_:
     de: Carillon
     el: καριγιόν
     en: carillon
-    en-gb: carillon
+    en_gb: carillon
     eo: kariljono
     es: carillón
     et: kariljon

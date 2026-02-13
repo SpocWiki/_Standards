@@ -299,7 +299,7 @@ dv_has_:
     bar: Kroft
     bcl: puwersa
     be: сіла
-    be-tarask: сіла
+    be_tarask: сіла
     bg: сила
     bho: बर
     blk: အာႏ
@@ -315,11 +315,11 @@ dv_has_:
     cy: grym
     da: kraft
     de: Kraft
-    de-ch: Kraft
+    de_ch: Kraft
     el: δύναμη
     en: force
-    en-ca: force
-    en-gb: force
+    en_ca: force
+    en_gb: force
     eo: forto
     es: fuerza
     et: jõud
@@ -404,7 +404,7 @@ dv_has_:
     pms: fòrsa
     pnb: زور
     pt: força
-    pt-br: força
+    pt_br: força
     qu: Kallpa
     rki: အား
     ro: forță
@@ -438,7 +438,7 @@ dv_has_:
     tl: lakas
     tr: kuvvet
     tt: көч
-    tt-cyrl: көч
+    tt_cyrl: көч
     tyv: күш
     udm: кужым
     uk: сила
@@ -454,14 +454,14 @@ dv_has_:
     yo: ipá
     yue: 力
     zh: 力
-    zh-cn: 力
-    zh-hans: 力
-    zh-hant: 力
-    zh-hk: 力
-    zh-mo: 力
+    zh_cn: 力
+    zh_hans: 力
+    zh_hant: 力
+    zh_hk: 力
+    zh_mo: 力
     zh-my: 力
-    zh-sg: 力
-    zh-tw: 力
+    zh_sg: 力
+    zh_tw: 力
     zu: IsiPhoqi
 ---
 # [[Force]] 

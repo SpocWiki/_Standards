@@ -78,7 +78,7 @@ dv_has_:
     az: Qraf
     ba: граф
     be: граф
-    be-tarask: граф
+    be_tarask: граф
     bg: граф
     ca: Graf
     cs: hrabě
@@ -136,7 +136,7 @@ dv_has_:
     vi: graf
     yue: 伯爵
     zh: 伯爵
-    zh-hant: 伯爵
+    zh_hant: 伯爵
 ---
 # [[Count]] 
 

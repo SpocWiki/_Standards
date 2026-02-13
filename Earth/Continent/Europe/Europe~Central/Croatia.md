@@ -4,7 +4,7 @@ dv_has_:
     ab: Хорватиа
     ace: Kroasia
     ady: Хорватие
-    aeb-arab: كرواتيا
+    aeb_arab: كرواتيا
     af: Kroasië
     am: ክሮኤሽያ
     ami: Croatia
@@ -28,7 +28,7 @@ dv_has_:
     bar: Krowozien
     bcl: Kroasya
     be: Харватыя
-    be-tarask: Харватыя
+    be_tarask: Харватыя
     bew: Kroasi
     bg: Хърватия
     bho: क्रोशिया
@@ -41,7 +41,7 @@ dv_has_:
     bs: Hrvatska
     bxr: Хорват
     ca: Croàcia
-    cbk-zam: Croacia
+    cbk_zam: Croacia
     cdo: Croatia
     ce: Хорвати
     ceb: Krowasya
@@ -51,7 +51,7 @@ dv_has_:
     ckb: کرواتیا
     co: Croazia
     crh: Hırvatistan
-    crh-latn: Hırvatistan
+    crh_latn: Hırvatistan
     cs: Chorvatsko
     csb: Chòrwackô
     cu: Хръватьска
@@ -61,7 +61,7 @@ dv_has_:
     dag: Croatia
     de: Kroatien
     de-at: Kroatien
-    de-ch: Kroatien
+    de_ch: Kroatien
     diq: Xırvatıstan
     dsb: Chorwatska
     dty: क्रोएसिया
@@ -71,8 +71,8 @@ dv_has_:
     el: Κροατία
     eml: Cruàsia
     en: Croatia
-    en-ca: Croatia
-    en-gb: Croatia
+    en_ca: Croatia
+    en_gb: Croatia
     en-us: Croatia
     eo: Kroatio
     es: Croacia
@@ -99,7 +99,7 @@ dv_has_:
     gn: Kyoasia
     gom: क्रोएशिया
     gom-deva: क्रोएशिया
-    gom-latn: Croatia
+    gom_latn: Croatia
     got: "\U0001033A\U00010342\U0001033F\U00010345\U00010330\U00010344\U00010343\U0001033E\U00010330"
     gpe: Croatia
     gsw: Kroatie
@@ -171,7 +171,7 @@ dv_has_:
     lzh: 克羅埃西亞
     mad: Kroasia
     mai: क्रोशिया
-    map-bms: Kroasia
+    map_bms: Kroasia
     mdf: Хорватия
     mg: Krôasia
     mhr: Хорватий
@@ -195,7 +195,7 @@ dv_has_:
     nap: Croazia
     nb: Kroatia
     nds: Kroatien
-    nds-nl: Kroasië
+    nds_nl: Kroasië
     ne: क्रोएसिया
     new: क्रोएसिया
     nl: Kroatië
@@ -222,7 +222,7 @@ dv_has_:
     pnt: Κροατία
     ps: کرواسيا
     pt: Croácia
-    pt-br: Croácia
+    pt_br: Croácia
     qu: Hurwatsuyu
     rm: Croazia
     rmy: Kroatiya
@@ -256,8 +256,8 @@ dv_has_:
     so: Kroatia
     sq: Kroacia
     sr: Хрватска
-    sr-ec: Хрватска
-    sr-el: Hrvatska
+    sr_ec: Хрватска
+    sr_el: Hrvatska
     srn: Krvatkondre
     ss: IKhuroshiya
     st: Kroatia
@@ -311,14 +311,14 @@ dv_has_:
     zea: Kroaotië
     zgh: ⴽⵕⵡⴰⵜⵢⴰ
     zh: 克羅地亞
-    zh-cn: 克罗地亚
-    zh-hans: 克罗地亚
-    zh-hant: 克羅地亞
-    zh-hk: 克羅地亞
-    zh-mo: 克羅地亞
+    zh_cn: 克罗地亚
+    zh_hans: 克罗地亚
+    zh_hant: 克羅地亞
+    zh_hk: 克羅地亞
+    zh_mo: 克羅地亞
     zh-my: 克罗地亚
-    zh-sg: 克罗地亚
-    zh-tw: 克羅埃西亞
+    zh_sg: 克罗地亚
+    zh_tw: 克羅埃西亞
     zu: IKrowati
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Croatia

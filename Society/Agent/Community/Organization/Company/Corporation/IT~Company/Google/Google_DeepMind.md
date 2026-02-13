@@ -69,7 +69,7 @@ dv_has_:
     azb: دیپمایند
     ban: Manah Sané Dalem
     be: Google DeepMind
-    be-tarask: Глыбокі розум Гугла
+    be_tarask: Глыбокі розум Гугла
     bn: গুগল ডিপমাইন্ড
     ca: Google DeepMind
     ckb: دیپمایند
@@ -115,9 +115,9 @@ dv_has_:
     vi: DeepMind
     yue: DeepMind
     zh: Google DeepMind
-    zh-hans: DeepMind
-    zh-hant: DeepMind
-    zh-tw: Google DeepMind
+    zh_hans: DeepMind
+    zh_hant: DeepMind
+    zh_tw: Google DeepMind
 ---
 # [[Google_DeepMind]] 
 

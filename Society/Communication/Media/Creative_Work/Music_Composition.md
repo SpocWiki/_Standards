@@ -181,7 +181,7 @@ dv_has_:
     az: musiqi əsəri
     ba: музыкаль әҫәр/композиция
     be: музычны твор/кампазіцыя
-    be-tarask: музычны твор/кампазыцыя
+    be_tarask: музычны твор/кампазыцыя
     bg: музикална композиция
     bn: সুরারোপ/সুর সৃষ্টি
     br: sonaozadur
@@ -211,12 +211,12 @@ dv_has_:
     kcg: ta̱m/tak ti̱tak bubwom
     ko: 음악 작품/작곡
     ku: beste/berhema muzîkî
-    ku-latn: beste/berhema muzîkî
+    ku_latn: beste/berhema muzîkî
     la: compositio musica
     lb: musikalescht Wierk / Kompositioun
     mk: музичко дело/композиција
     ms: karya/gubahan muzik
-    ms-arab: کاريا/ݢوبهن موزيک
+    ms_arab: کاريا/ݢوبهن موزيک
     nb: musikkverk/komposisjon
     nl: muzikaal werk/compositie
     nn: musikalsk komposisjon
@@ -224,7 +224,7 @@ dv_has_:
     pap: obra musikal/komposishon
     pl: utwór muzyczny/kompozycja
     pt: composição musical
-    pt-br: obra ou composição musical
+    pt_br: obra ou composição musical
     ru: музыкальное произведение/композиция
     sl: glasbena kompozicija
     sr: музичка композиција
@@ -239,10 +239,10 @@ dv_has_:
     xmf: მუსიკალური ნახანდი/კომპოზიცია
     yue: 音樂作品/樂曲
     zh: 音樂作品/樂曲
-    zh-cn: 音乐作品/乐曲
-    zh-hans: 音乐作品/乐曲
-    zh-hant: 音樂作品/樂曲
-    zh-tw: 音樂作品/樂曲
+    zh_cn: 音乐作品/乐曲
+    zh_hans: 音乐作品/乐曲
+    zh_hant: 音樂作品/樂曲
+    zh_tw: 音樂作品/樂曲
 ---
 # [[Music_Composition]] 
 

@@ -291,13 +291,13 @@ dv_has_:
     ban: Segara Cina Kelod
     bcl: Dagat Habagatang Tsina
     be: Паўднёва-Кітайскае мора
-    be-tarask: Паўднёва-Кітайскае мора
+    be_tarask: Паўднёва-Кітайскае мора
     bg: Южнокитайско море
     bn: দক্ষিণ চীন সাগর
     br: Mor Su Sina
     bs: Južno kinesko more
     ca: mar de la Xina Meridional
-    cbk-zam: Mar de China
+    cbk_zam: Mar de China
     cdo: Nàng Dṳ̆ng-guók Hāi
     ceb: West Philippine Sea
     cs: Jihočínské moře
@@ -305,14 +305,14 @@ dv_has_:
     cy: Môr De Tsieina
     da: Sydkinesiske Hav
     de: Südchinesisches Meer
-    de-ch: Südchinesisches Meer
+    de_ch: Südchinesisches Meer
     diq: Deryay Çinê Veroci
     dsb: Pódpołdnjowochinske mórjo
     dtp: Laut China Selatan
     el: Θάλασσα της Νότιας Κίνας
     en: South China Sea
-    en-ca: South China Sea
-    en-gb: South China Sea
+    en_ca: South China Sea
+    en_gb: South China Sea
     eo: Sudĉina maro
     es: mar de China Meridional
     et: Lõuna-Hiina meri
@@ -359,7 +359,7 @@ dv_has_:
     lv: Dienvidķīnas jūra
     lzh: 南海
     mag: दक्खिनी चीनसागर
-    map-bms: Laut Cina Selatan
+    map_bms: Laut Cina Selatan
     mhr: Кечывалвел Китай теҥыз
     mi: Moana Haina-ki-te-Tonga
     mk: Јужнокинеско Море
@@ -367,7 +367,7 @@ dv_has_:
     mn: Өмнөд Хятадын тэнгис
     mr: दक्षिण चीन समुद्र
     ms: Laut China Selatan
-    ms-arab: لاءوت چينا سلاتن
+    ms_arab: لاءوت چينا سلاتن
     my: တောင်တရုတ်ပင်လယ်
     mzn: چین جنوبی دریا
     nan: Lâm Tiong-kok Hái
@@ -386,7 +386,7 @@ dv_has_:
     pms: Mar Cinèis Meridional
     pnb: بحیرہ جنوبی چین
     pt: Mar da China Meridional
-    pt-br: Mar da China Meridional
+    pt_br: Mar da China Meridional
     ro: Marea Chinei de Sud
     ru: Южно-Китайское море
     sd: ڏکڻ چين سمنڊ
@@ -420,14 +420,14 @@ dv_has_:
     yue: 南中國海
     za: Nanz Cunghgozhaij
     zh: 南海
-    zh-cn: 南海
-    zh-hans: 南海
-    zh-hant: 南海
-    zh-hk: 南海
-    zh-mo: 南海
+    zh_cn: 南海
+    zh_hans: 南海
+    zh_hant: 南海
+    zh_hk: 南海
+    zh_mo: 南海
     zh-my: 南中国海
-    zh-sg: 南中国海
-    zh-tw: 南海
+    zh_sg: 南中国海
+    zh_tw: 南海
 ---
 # [[South_China_Sea]] 
 

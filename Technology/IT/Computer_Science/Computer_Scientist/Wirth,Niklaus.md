@@ -112,7 +112,7 @@ dv_has_:
     az: Niklaus Virt
     azb: نیکلاوس ویرت
     be: Ніклаўс Вірт
-    be-tarask: Нікляўс Вірт
+    be_tarask: Нікляўс Вірт
     bg: Никлаус Вирт
     bn: নিকলাউস ভির্ট
     br: Niklaus Wirth
@@ -122,7 +122,7 @@ dv_has_:
     da: Niklaus Wirth
     de: Niklaus Wirth
     en: Niklaus Wirth
-    en-gb: Niklaus Wirth
+    en_gb: Niklaus Wirth
     eo: Niklaus Wirth
     es: Niklaus Wirth
     et: Niklaus Wirth
@@ -152,7 +152,7 @@ dv_has_:
     pa: ਨਿਕਲੌਸ ਵਿਰਥ
     pl: Niklaus Wirth
     pt: Niklaus Wirth
-    pt-br: Niklaus Wirth
+    pt_br: Niklaus Wirth
     rm: Niklaus Wirth
     ro: Niklaus Wirth
     ru: Никлаус Вирт
@@ -161,8 +161,8 @@ dv_has_:
     sl: Niklaus Wirth
     sq: Niklaus Wirth
     sr: Никлаус Вирт
-    sr-ec: Никлаус Вирт
-    sr-el: Niklaus Virt
+    sr_ec: Никлаус Вирт
+    sr_el: Niklaus Virt
     sv: Niklaus Wirth
     tg: Никлаус Вирт
     tr: Niklaus Wirth
@@ -171,12 +171,12 @@ dv_has_:
     war: Niklaus Wirth
     yue: 尼克勞斯·維爾特
     zh: 尼克劳斯·维尔特
-    zh-cn: 尼克劳斯·维尔特
-    zh-hans: 尼克劳斯·维尔特
-    zh-hant: 尼克勞斯·維爾特
-    zh-hk: 尼克勞斯·維爾特
-    zh-sg: 尼克劳斯·维尔特
-    zh-tw: 尼克勞斯·維爾特
+    zh_cn: 尼克劳斯·维尔特
+    zh_hans: 尼克劳斯·维尔特
+    zh_hant: 尼克勞斯·維爾特
+    zh_hk: 尼克勞斯·維爾特
+    zh_sg: 尼克劳斯·维尔特
+    zh_tw: 尼克勞斯·維爾特
 ---
 # [[Wirth,Niklaus]] 
 

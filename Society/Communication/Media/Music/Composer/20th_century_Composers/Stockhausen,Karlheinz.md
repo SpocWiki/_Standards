@@ -27,7 +27,7 @@ dv_has_:
     ar: كارلهاينز شتوكهاوزن
     arz: كارلهاينز شتوكهاوزن
     ast: Karlheinz Stockhausen
-    be-tarask: Карлгайнц Штокгаўзэн
+    be_tarask: Карлгайнц Штокгаўзэн
     bg: Карлхайнц Щокхаузен
     br: Karlheinz Stockhausen
     bs: Karlheinz Stockhausen
@@ -76,7 +76,7 @@ dv_has_:
     pl: Karlheinz Stockhausen
     pms: Karlheinz Stockhausen
     pt: Karlheinz Stockhausen
-    pt-br: Karlheinz Stockhausen
+    pt_br: Karlheinz Stockhausen
     ro: Karlheinz Stockhausen
     ru: Карлхайнц Штокхаузен
     sk: Karlheinz Stockhausen
@@ -90,12 +90,12 @@ dv_has_:
     uk: Карлгайнц Штокгаузен
     vi: Karlheinz Stockhausen
     zh: 卡尔海因茨·施托克豪森
-    zh-cn: 卡尔海因茨·施托克豪森
-    zh-hans: 卡尔海因茨·施托克豪森
-    zh-hant: 卡爾海因茲·史托克豪森
-    zh-hk: 卡爾海因茲·史托克豪森
-    zh-sg: 卡尔海因茨·施托克豪森
-    zh-tw: 卡爾海因茲·史托克豪森
+    zh_cn: 卡尔海因茨·施托克豪森
+    zh_hans: 卡尔海因茨·施托克豪森
+    zh_hant: 卡爾海因茲·史托克豪森
+    zh_hk: 卡爾海因茲·史托克豪森
+    zh_sg: 卡尔海因茨·施托克豪森
+    zh_tw: 卡爾海因茲·史托克豪森
 ---
 # [[Stockhausen,Karlheinz]] 
 

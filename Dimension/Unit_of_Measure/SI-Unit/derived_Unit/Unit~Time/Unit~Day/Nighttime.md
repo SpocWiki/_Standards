@@ -208,7 +208,7 @@ dv_has_:
     ba: төн
     bcl: banggi
     be: ноч
-    be-tarask: ноч
+    be_tarask: ноч
     bg: нощ
     bho: रात
     bjn: malam
@@ -233,8 +233,8 @@ dv_has_:
     el: νύχτα
     eml: nôt
     en: night
-    en-ca: night
-    en-gb: night
+    en_ca: night
+    en_gb: night
     eo: nokto
     es: noche
     et: öö
@@ -344,7 +344,7 @@ dv_has_:
     so: habeen
     sq: nata
     sr: ноћ
-    sr-ec: ноћ
+    sr_ec: ноћ
     su: peuting
     sv: natt
     sw: usiku
@@ -353,13 +353,13 @@ dv_has_:
     tcy: ರಾತ್ರೆ
     te: రాత్రి
     tg: шаб
-    tg-latn: şab
+    tg_latn: şab
     th: กลางคืน
     tl: gabi
     tok: tenpo pimeja
     tr: gece
     tt: төн
-    tt-cyrl: төн
+    tt_cyrl: төн
     tw: anadwo
     udm: уй
     ug: كېچە
@@ -377,10 +377,10 @@ dv_has_:
     yue: 夜晚
     za: gyanghaemh
     zh: 夜
-    zh-cn: 夜
-    zh-hans: 夜
-    zh-hant: 夜
-    zh-tw: 晚上
+    zh_cn: 夜
+    zh_hans: 夜
+    zh_hant: 夜
+    zh_tw: 晚上
 ---
 # [[Nighttime]] 
 

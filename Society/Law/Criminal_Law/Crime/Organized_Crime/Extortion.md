@@ -81,18 +81,18 @@ dv_has_:
     ar: انتزاع
     ast: Estorsión
     be: Вымагальніцтва
-    be-tarask: вымаганьне
+    be_tarask: вымаганьне
     bn: চাঁদাবাজি
     ca: extorsió
     cs: vydírání
     da: afpresning
     dag: Faa
     de: Erpressung
-    de-ch: Erpressung
+    de_ch: Erpressung
     el: εκβιασμός
     en: extortion
-    en-ca: Extortion
-    en-gb: extortion
+    en_ca: Extortion
+    en_gb: extortion
     eo: ĉantaĝo
     es: extorsión
     et: Väljapressimine
@@ -119,7 +119,7 @@ dv_has_:
     nl: afpersing
     pl: wymuszenie rozbójnicze
     pt: extorsão
-    pt-br: extorsão
+    pt_br: extorsão
     ro: extorcare
     ru: вымогательство
     sd: ڀتا خوري
@@ -132,9 +132,9 @@ dv_has_:
     uk: вимагання
     ur: بھتہ خوری
     zh: 勒索
-    zh-cn: 勒索
-    zh-hans: 勒索
-    zh-hant: 勒索
+    zh_cn: 勒索
+    zh_hans: 勒索
+    zh_hant: 勒索
 ---
 # [[Extortion]] 
 

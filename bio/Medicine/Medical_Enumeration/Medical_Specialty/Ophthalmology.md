@@ -114,7 +114,7 @@ dv_has_:
     azb: گؤز دوکتورلوگو
     ba: офтальмология
     be: афтальмалогія
-    be-tarask: афтальмалёгія
+    be_tarask: афтальмалёгія
     bg: Офталмология
     bn: চক্ষুচিকিৎসাবিজ্ঞান
     bs: Oftalmologija
@@ -159,7 +159,7 @@ dv_has_:
     ml: നേത്രവിജ്ഞാനം
     mr: नेत्रशल्यचिकित्सा
     ms: oftalmologi
-    ms-arab: ڤراوبتن مات
+    ms_arab: ڤراوبتن مات
     nb: oftalmologi
     nl: oogheelkunde
     nn: oftalmologi
@@ -183,8 +183,8 @@ dv_has_:
     sms: oftalmologia
     sq: Oftalmologjia
     sr: офталмологија
-    sr-ec: офталмологија
-    sr-el: oftalmologija
+    sr_ec: офталмологија
+    sr_el: oftalmologija
     su: Oftalmologi
     sv: oftalmologi
     ta: கண் மருத்துவம்
@@ -205,12 +205,12 @@ dv_has_:
     yi: אפטאלמאלאגיע
     yue: 眼科
     zh: 眼科学
-    zh-cn: 眼科学
-    zh-hans: 眼科学
-    zh-hant: 眼科學
-    zh-hk: 眼科學
-    zh-sg: 眼科学
-    zh-tw: 眼科學
+    zh_cn: 眼科学
+    zh_hans: 眼科学
+    zh_hant: 眼科學
+    zh_hk: 眼科學
+    zh_sg: 眼科学
+    zh_tw: 眼科學
 ---
 # [[Ophthalmology]] 
 

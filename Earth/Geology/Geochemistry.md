@@ -111,7 +111,7 @@ dv_has_:
     ba: Геохимия
     bcl: Heokimika
     be: геахімія
-    be-tarask: геахімія
+    be_tarask: геахімія
     bg: Геохимия
     bn: ভূ-রসায়ন
     br: Douargimiezh
@@ -145,11 +145,11 @@ dv_has_:
     jv: Géokimia
     ka: გეოქიმია
     kk: Геохимия
-    kk-arab: گەوحىيمىييا
+    kk_arab: گەوحىيمىييا
     kk-cn: گەوحىيمىييا
-    kk-cyrl: Геохимия
+    kk_cyrl: Геохимия
     kk-kz: Геохимия
-    kk-latn: Geoxïmïya
+    kk_latn: Geoxïmïya
     kk-tr: Geoxïmïya
     ko: 지화학
     ky: Геохимия
@@ -180,8 +180,8 @@ dv_has_:
     sms: geokemia
     sq: Gjeokimia
     sr: геохемија
-    sr-ec: геохемија
-    sr-el: geohemija
+    sr_ec: геохемија
+    sr_el: geohemija
     sv: geokemi
     ta: புவி வேதியியல்
     tg: Заминшимӣ
@@ -197,12 +197,12 @@ dv_has_:
     wuu: 地球化学
     yue: 地球化學
     zh: 地球化学
-    zh-cn: 地球化学
-    zh-hans: 地球化学
-    zh-hant: 地球化學
-    zh-hk: 地球化學
-    zh-sg: 地球化学
-    zh-tw: 地球化學
+    zh_cn: 地球化学
+    zh_hans: 地球化学
+    zh_hant: 地球化學
+    zh_hk: 地球化學
+    zh_sg: 地球化学
+    zh_tw: 地球化學
 ---
 # [[Geochemistry]] 
 

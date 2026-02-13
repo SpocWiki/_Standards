@@ -79,7 +79,7 @@ dv_has_:
     ast: Ducáu
     az: hersoqluq
     be: герцагства
-    be-tarask: герцарства
+    be_tarask: герцарства
     bg: Херцогство
     bs: Vojvodstvo
     ca: ducat
@@ -88,12 +88,12 @@ dv_has_:
     cy: dugiaeth
     da: hertugdømme
     de: Herzogtum
-    de-ch: Herzogtum
+    de_ch: Herzogtum
     dsb: Wójwodstwo
     el: δουκάτο
     en: duchy
-    en-ca: Duchy
-    en-gb: duchy
+    en_ca: Duchy
+    en_gb: duchy
     eo: duklando
     es: ducado
     et: Hertsogkond
@@ -125,21 +125,21 @@ dv_has_:
     nan: Kong-chiok-kok
     nb: hertugdømme
     nds: Hertogdom
-    nds-nl: hartogdom
+    nds_nl: hartogdom
     nl: hertogdom
     nn: hertugdøme
     oc: Ducat
     os: герцогад
     pl: księstwo
     pt: ducado
-    pt-br: Ducado
+    pt_br: Ducado
     ro: ducat
     ru: герцогство
     sh: Vojvodstvo
     sl: vojvodina
     sr: војводство
-    sr-ec: војводство
-    sr-el: vojvodstvo
+    sr_ec: војводство
+    sr_el: vojvodstvo
     sv: hertigdöme
     szl: ksiynstwo
     tg: дукнишин
@@ -154,12 +154,12 @@ dv_has_:
     wuu: 公国
     yue: 公國
     zh: 公國
-    zh-cn: 公国
-    zh-hans: 公国
-    zh-hant: 公國
-    zh-hk: 公國
-    zh-sg: 公国
-    zh-tw: 公國
+    zh_cn: 公国
+    zh_hans: 公国
+    zh_hant: 公國
+    zh_hk: 公國
+    zh_sg: 公国
+    zh_tw: 公國
 ---
 # [[Duchy]] 
 

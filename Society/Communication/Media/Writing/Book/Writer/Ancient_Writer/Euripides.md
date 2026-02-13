@@ -145,7 +145,7 @@ dv_has_:
     az: Evripid
     ba: Еврипид
     be: Эўрыпід
-    be-tarask: Эўрыпід
+    be_tarask: Эўрыпід
     bg: Еврипид
     bn: ইউরিপিদেস
     br: Euripides
@@ -157,12 +157,12 @@ dv_has_:
     cy: Ewripides
     da: Euripides
     de: Euripides
-    de-ch: Euripides
+    de_ch: Euripides
     diq: Euripides
     el: Ευριπίδης
     en: Euripides
-    en-ca: Euripides
-    en-gb: Euripides
+    en_ca: Euripides
+    en_gb: Euripides
     eo: Eŭripido
     es: Eurípides
     et: Euripides
@@ -195,7 +195,7 @@ dv_has_:
     kk: Еврипид
     ko: 에우리피데스
     ku: Eurîpîdês
-    ku-latn: Eurîpîdês
+    ku_latn: Eurîpîdês
     ky: Еврипид
     la: Euripides
     lfn: Euripide
@@ -217,7 +217,7 @@ dv_has_:
     pl: Eurypides
     pnb: یوریپڈیز
     pt: Eurípides
-    pt-br: Eurípides
+    pt_br: Eurípides
     ro: Euripide
     ru: Еврипид
     sa: युरिपिडीस

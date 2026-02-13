@@ -34,13 +34,13 @@ dv_has_:
   name_:
     am: ተቀጥላ
     ar: هدال
-    be-tarask: амяла
+    be_tarask: амяла
     bn: পরগাছা
     cy: uchelwydd
     de: Mistel
     en: mistletoe
-    en-ca: mistletoe
-    en-gb: mistletoe
+    en_ca: mistletoe
+    en_gb: mistletoe
     eo: visko
     es: muérdago
     eu: mihura
@@ -57,7 +57,7 @@ dv_has_:
     ms: benalu
     my: ကျီးပေါင်း
     pt: visco
-    pt-br: erva-de-passarinho
+    pt_br: erva-de-passarinho
     ru: омела белая
     sl: omela
     sv: Mistel

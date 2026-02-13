@@ -74,7 +74,7 @@ dv_has_:
     arz: غيدقاوات
     ast: Hydrophiinae
     be: Марскія змеі
-    be-tarask: марскія зьмеі
+    be_tarask: марскія зьмеі
     bg: морски змии
     bn: সামুদ্রিক সাপ
     ca: Hidrofí
@@ -119,7 +119,7 @@ dv_has_:
     pa: ਸਮੁੰਦਰੀ ਸੱਪ
     pl: węże morskie
     pt: Hydrophiidae
-    pt-br: hydrophiidae
+    pt_br: hydrophiidae
     ro: Hydrophiinae
     ru: морские змеи
     sa: होत्राभिः
@@ -138,12 +138,12 @@ dv_has_:
     yue: 海蛇亞科
     za: Ngwzhaij
     zh: 海蛇亞科
-    zh-cn: 海蛇亚科
-    zh-hans: 海蛇亚科
-    zh-hant: 海蛇亞科
-    zh-hk: 海蛇亞科
-    zh-sg: 海蛇亚科
-    zh-tw: 海蛇亞科
+    zh_cn: 海蛇亚科
+    zh_hans: 海蛇亚科
+    zh_hant: 海蛇亞科
+    zh_hk: 海蛇亞科
+    zh_sg: 海蛇亚科
+    zh_tw: 海蛇亞科
 ---
 # [[Sea Snake]]
 

@@ -60,14 +60,14 @@ dv_has_:
     ast: reproducción vexetal
     az: bitkilərin çoxalması
     ba: үҫемлектәрҙең үрсеүе
-    be-tarask: размнажэньне расьлінаў
+    be_tarask: размнажэньне расьлінаў
     bn: উদ্ভিদ প্রজনন
     ca: reproducció vegetal
     cy: atgenhedlu planhigion
     de: Fortpflanzung von Pflanzen
     en: plant reproduction
-    en-ca: plant reproduction
-    en-gb: plant reproduction
+    en_ca: plant reproduction
+    en_gb: plant reproduction
     eo: vegetala reproduktado
     es: reproducción vegetal
     eu: landareen ugalketa
@@ -86,7 +86,7 @@ dv_has_:
     ky: өсүмдүкдүн көбөйүү жолдору
     mk: размножување на растенијата
     ms: pembiakan tumbuhan
-    ms-arab: ڤمبياقن تومبوهن
+    ms_arab: ڤمبياقن تومبوهن
     nl: geslachtelijke voortplanting bij Embryophyta
     nn: planteformeiring
     pl: rozmnażanie roślin

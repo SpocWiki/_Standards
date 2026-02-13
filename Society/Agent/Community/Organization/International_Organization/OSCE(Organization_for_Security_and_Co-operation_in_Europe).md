@@ -198,7 +198,7 @@ dv_has_:
     ba: Иҡтисад үсеш һәм бәйләнеш ойошмаһы
     bar: OECD
     be: Арганізацыя эканамічнага супрацоўніцтва і развіцця
-    be-tarask: Арганізацыя эканамічнага супрацоўніцтва і разьвіцьця
+    be_tarask: Арганізацыя эканамічнага супрацоўніцтва і разьвіцьця
     bg: Организация за икономическо сътрудничество и развитие
     bn: অর্থনৈতিক সহযোগিতা ও উন্নয়ন সংস্থা
     br: Aozadur evit ar C'henober hag an Diorren Ekonomikel
@@ -207,12 +207,12 @@ dv_has_:
     cs: Organizace pro hospodářskou spolupráci a rozvoj
     da: OECD
     de: Organisation für wirtschaftliche Zusammenarbeit und Entwicklung
-    de-ch: Organisation für wirtschaftliche Zusammenarbeit und Entwicklung
+    de_ch: Organisation für wirtschaftliche Zusammenarbeit und Entwicklung
     diq: OECD
     el: Οργανισμός Οικονομικής Συνεργασίας και Ανάπτυξης
     en: Organization for Economic Cooperation and Development
-    en-ca: Organisation for Economic Co-operation and Development
-    en-gb: Organisation for Economic Co-operation and Development
+    en_ca: Organisation for Economic Co-operation and Development
+    en_gb: Organisation for Economic Co-operation and Development
     eo: Organizaĵo pri Ekonomiaj Kunlaboro kaj Evoluigo
     es: Organización para la Cooperación y el Desarrollo Económico
     et: Majanduskoostöö ja Arengu Organisatsioon
@@ -259,7 +259,7 @@ dv_has_:
     pnb: انجمن اقتصادی تعاون و ترقی
     ps: د اقتصادي همکارۍ او پراختیا سازمان OECD
     pt: Organização para a Cooperação e Desenvolvimento Económico
-    pt-br: Organização para a Cooperação e Desenvolvimento Econômico
+    pt_br: Organização para a Cooperação e Desenvolvimento Econômico
     ro: Organizația pentru Cooperare și Dezvoltare Economică
     ru: Организация экономического сотрудничества и развития
     sc: Organizatzione pro sa Cooperatzione e s'Isvilupu Econòmicu
@@ -288,10 +288,10 @@ dv_has_:
     yi: ארגאניזאציע פאר עקאנאמישע קאאפעראציע און אנטוויקלונג
     yue: 經濟合作暨發展組織
     zh: 经济合作与发展组织
-    zh-cn: 经济合作与发展组织
-    zh-hans: 经济合作与发展组织
-    zh-hant: 經濟合作暨發展組織
-    zh-tw: 經濟合作暨發展組織
+    zh_cn: 经济合作与发展组织
+    zh_hans: 经济合作与发展组织
+    zh_hant: 經濟合作暨發展組織
+    zh_tw: 經濟合作暨發展組織
 ---
 # [[OSCE(Organization_for_Security_and_Co-operation_in_Europe)]] 
 

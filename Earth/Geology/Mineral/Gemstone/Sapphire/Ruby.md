@@ -136,7 +136,7 @@ dv_has_:
     az: rubin
     azb: روبی، آلاسکا
     be: рубін
-    be-tarask: рубін
+    be_tarask: рубін
     bg: рубин
     bjn: mirah delima
     bn: rubi
@@ -213,7 +213,7 @@ dv_has_:
     pnb: یاقوت
     ps: ياقوت
     pt: rubi
-    pt-br: rubi
+    pt_br: rubi
     qu: puka umiña
     ro: rubin
     ru: рубин
@@ -227,8 +227,8 @@ dv_has_:
     sl: rubin
     sq: Rubini
     sr: рубин
-    sr-ec: рубин
-    sr-el: rubin
+    sr_ec: рубин
+    sr_el: rubin
     sv: rubin
     ta: மாணிக்கம்
     te: కెంపు
@@ -245,9 +245,9 @@ dv_has_:
     yi: רובין
     yue: 紅寶石
     zh: 红宝石
-    zh-hans: 红宝石
-    zh-hant: 紅寶石
-    zh-tw: 紅寶石
+    zh_hans: 红宝石
+    zh_hant: 紅寶石
+    zh_tw: 紅寶石
 ---
 # [[Ruby]] 
 

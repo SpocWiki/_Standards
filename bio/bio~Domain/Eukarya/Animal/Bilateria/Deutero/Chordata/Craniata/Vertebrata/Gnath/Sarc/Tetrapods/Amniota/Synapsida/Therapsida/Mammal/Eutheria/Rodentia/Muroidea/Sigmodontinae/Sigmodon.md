@@ -56,7 +56,7 @@ dv_has_:
     oc: Sigmodon
     pl: Bawełniak
     pt: Sigmodon
-    pt-br: Sigmodon
+    pt_br: Sigmodon
     ro: Sigmodon
     ru: Хлопковые хомяки
     sq: Sigmodon
@@ -67,8 +67,8 @@ dv_has_:
     vo: Sigmodon
     war: Sigmodon
     zh: 棉鼠属
-    zh-cn: 棉鼠属
-    zh-tw: 棉鼠屬
+    zh_cn: 棉鼠属
+    zh_tw: 棉鼠屬
 ---
 # [[Sigmodon]]
 

@@ -227,7 +227,7 @@ dv_has_:
     azb: لینوس پاولینق
     ban: Linus Pauling
     be: Лайнус Карл Полінг
-    be-tarask: Лайнус Карл Полінг
+    be_tarask: Лайнус Карл Полінг
     bg: Лайнъс Полинг
     bn: লিনাস পাউলিং
     bs: Linus Pauling
@@ -239,12 +239,12 @@ dv_has_:
     dag: Linus Pauling
     de: Linus Pauling
     de-at: Linus Pauling
-    de-ch: Linus Pauling
+    de_ch: Linus Pauling
     ee: Linus Pauling
     el: Λάινους Πόλινγκ
     en: Linus Pauling
-    en-ca: Linus Pauling
-    en-gb: Linus Pauling
+    en_ca: Linus Pauling
+    en_gb: Linus Pauling
     eo: Linus Pauling
     es: Linus Pauling
     et: Linus Pauling
@@ -300,7 +300,7 @@ dv_has_:
     pnb: لینس پالنگ
     ps: لینوس پاولینګ
     pt: Linus Pauling
-    pt-br: Linus Pauling
+    pt_br: Linus Pauling
     qu: Linus Pauling
     ro: Linus Pauling
     ru: Лайнус Карл Полинг
@@ -333,9 +333,9 @@ dv_has_:
     yo: Linus Pauling
     yue: 鮑林
     zh: 萊納斯·鮑林
-    zh-cn: 萊納斯·鮑林
-    zh-hans: 萊納斯·鮑林
-    zh-hant: 萊納斯·鮑林
+    zh_cn: 萊納斯·鮑林
+    zh_hans: 萊納斯·鮑林
+    zh_hant: 萊納斯·鮑林
 ---
 # [[Linus_Pauling]] 
 

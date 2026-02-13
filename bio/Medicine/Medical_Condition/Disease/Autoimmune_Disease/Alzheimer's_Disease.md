@@ -311,7 +311,7 @@ dv_has_:
     azb: آلزایمر مریضلیگی
     ba: Альцгеймер ауырыуы
     be: Хвароба Альцгеймера
-    be-tarask: хвароба Альцгаймэра
+    be_tarask: хвароба Альцгаймэра
     bg: Болест на Алцхаймер
     bn: আলঝেইমার রোগ
     bo: ཨལ་རྫི་མར་གྱི་ནད།
@@ -327,11 +327,11 @@ dv_has_:
     cy: clefyd Alzheimer
     da: Alzheimers sygdom
     de: Alzheimer-Krankheit
-    de-ch: Alzheimer-Krankheit
+    de_ch: Alzheimer-Krankheit
     el: νόσος Αλτσχάιμερ
     en: Alzheimer's disease
-    en-ca: Alzheimer's disease
-    en-gb: Alzheimer's disease
+    en_ca: Alzheimer's disease
+    en_gb: Alzheimer's disease
     eo: Alzheimer-malsano
     es: enfermedad de Alzheimer
     et: Alzheimeri tõbi
@@ -401,7 +401,7 @@ dv_has_:
     pnb: الزایمر
     ps: الزایمر
     pt: doença de Alzheimer
-    pt-br: doença de Alzheimer
+    pt_br: doença de Alzheimer
     qu: Alzheimer unquy
     ro: boala Alzheimer
     ru: болезнь Альцгеймера
@@ -429,7 +429,7 @@ dv_has_:
     tl: Sakit na Alzheimer
     tr: Alzheimer hastalığı
     tt: Альцһеймер авыруы
-    tt-cyrl: Альцһеймер авыруы
+    tt_cyrl: Альцһеймер авыруы
     udm: Альцгеймер нимо висён
     ug: ئالتسخېيمېر كېسىلى
     uk: хвороба Альцгеймера
@@ -445,14 +445,14 @@ dv_has_:
     yi: אלצהיימערס קרענק
     yue: 腦退化
     zh: 阿尔茨海默病
-    zh-cn: 阿尔茨海默病
-    zh-hans: 阿尔茨海默病
-    zh-hant: 阿茲海默症
-    zh-hk: 阿氏痴呆症
-    zh-mo: 阿茲海默症
+    zh_cn: 阿尔茨海默病
+    zh_hans: 阿尔茨海默病
+    zh_hant: 阿茲海默症
+    zh_hk: 阿氏痴呆症
+    zh_mo: 阿茲海默症
     zh-my: 阿兹海默病
-    zh-sg: 阿尔茨海默病
-    zh-tw: 阿茲海默症
+    zh_sg: 阿尔茨海默病
+    zh_tw: 阿茲海默症
     zu: Isifo se-Alzheimer
 ---
 # [[Alzheimer’s_disease]]

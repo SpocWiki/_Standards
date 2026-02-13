@@ -79,7 +79,7 @@ dv_has_:
     ar: قبة حمم بركانية
     ast: domo de llava
     az: vulkanik günbəzlər
-    be-tarask: лявавы копул
+    be_tarask: лявавы копул
     bg: Лавов купол
     ca: dom de lava
     cs: sopečný dóm
@@ -124,8 +124,8 @@ dv_has_:
     xmf: ვულკანური გულბანდი
     yue: 熔岩圓頂
     zh: 火山穹丘
-    zh-hant: 火山穹丘
-    zh-tw: 火山穹丘
+    zh_hant: 火山穹丘
+    zh_tw: 火山穹丘
 ---
 # [[Lava_Dome]] 
 

@@ -43,7 +43,7 @@ dv_has_:
     oc: Quillajaceae
     pl: Mydłokrzewowate
     pt: Quillajaceae
-    pt-br: Quillajaceae
+    pt_br: Quillajaceae
     ro: Quillajaceae
     ru: Quillajaceae
     sq: Quillajaceae

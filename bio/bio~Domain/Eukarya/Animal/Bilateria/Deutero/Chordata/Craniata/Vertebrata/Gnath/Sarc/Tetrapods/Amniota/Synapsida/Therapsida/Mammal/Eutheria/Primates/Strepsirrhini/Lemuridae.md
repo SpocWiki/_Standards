@@ -56,7 +56,7 @@ dv_has_:
     avk: bancudoleem
     az: Lemurlar
     be: Лемуравыя
-    be-tarask: Лемуравыя
+    be_tarask: Лемуравыя
     bg: лемурови
     br: Lemuridae
     bs: Lemuridae
@@ -89,11 +89,11 @@ dv_has_:
     ja: キツネザル科
     ka: ლემურისებრნი
     kk: Лемурлар
-    kk-arab: لەمۋرلار
+    kk_arab: لەمۋرلار
     kk-cn: لەمۋرلار
-    kk-cyrl: Лемурлар
+    kk_cyrl: Лемурлар
     kk-kz: Лемурлар
-    kk-latn: Lemwrlar
+    kk_latn: Lemwrlar
     kk-tr: Lemwrlar
     ko: 여우원숭이과
     ky: Лемурлар
@@ -111,7 +111,7 @@ dv_has_:
     pl: Lemurowate
     pnb: عام لیمر
     pt: Lemuridae
-    pt-br: Lemuridae
+    pt_br: Lemuridae
     ro: Lemuridae
     ru: лемуровые
     scn: Lemuridae
@@ -128,12 +128,12 @@ dv_has_:
     vo: Lemuridae
     war: Lemuridae
     zh: 狐猴科
-    zh-cn: 狐猴科
-    zh-hans: 狐猴科
-    zh-hant: 狐猴
-    zh-hk: 狐猴
-    zh-sg: 狐猴
-    zh-tw: 狐猴科
+    zh_cn: 狐猴科
+    zh_hans: 狐猴科
+    zh_hant: 狐猴
+    zh_hk: 狐猴
+    zh_sg: 狐猴
+    zh_tw: 狐猴科
 ---
 # [[Lemuridae]] 
 

@@ -187,7 +187,7 @@ dv_has_:
     azb: ایوان پتروویچ پاولف
     ba: Павлов Иван Петрович
     be: Іван Пятровіч Паўлаў
-    be-tarask: Іван Паўлаў
+    be_tarask: Іван Паўлаў
     bg: Иван Павлов
     bn: ইভান পাভলভ
     br: Ivan Pavlov
@@ -251,7 +251,7 @@ dv_has_:
     pl: Iwan Pawłow
     pnb: آئیون پیٹرووچ پاولوف
     pt: Ivan Pavlov
-    pt-br: Ivan Pavlov
+    pt_br: Ivan Pavlov
     qu: Ivan Pavlov
     ro: Ivan Pavlov
     ru: Иван Петрович Павлов
@@ -263,7 +263,7 @@ dv_has_:
     sl: Ivan Petrovič Pavlov
     sq: Ivan Petroviç Pavlov
     sr: Иван Павлов
-    sr-ec: Иван Павлов
+    sr_ec: Иван Павлов
     sv: Ivan Pavlov
     sw: Ivan Pavlov
     ta: இவான் பாவ்லோவ்
@@ -283,7 +283,7 @@ dv_has_:
     yo: Ivan Pavlov
     yue: 巴甫洛夫
     zh: 伊万·彼得罗维奇·巴甫洛夫
-    zh-hans: 伊万·彼得罗维奇·巴甫洛夫
+    zh_hans: 伊万·彼得罗维奇·巴甫洛夫
 ---
 # [[Pavlov,Ivan]] 
 

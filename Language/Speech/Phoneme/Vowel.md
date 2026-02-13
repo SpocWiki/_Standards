@@ -142,7 +142,7 @@ dv_has_:
     bar: Vokal
     bcl: patanog
     be: галосныя
-    be-tarask: галосныя
+    be_tarask: галосныя
     bg: гласен звук
     bho: स्वर
     bn: স্বরধ্বনি
@@ -283,8 +283,8 @@ dv_has_:
     yi: וואקאל
     yue: 元音
     zh: 元音
-    zh-hant: 元音
-    zh-tw: 元音
+    zh_hant: 元音
+    zh_tw: 元音
 ---
 # [[Vowel]] 
 

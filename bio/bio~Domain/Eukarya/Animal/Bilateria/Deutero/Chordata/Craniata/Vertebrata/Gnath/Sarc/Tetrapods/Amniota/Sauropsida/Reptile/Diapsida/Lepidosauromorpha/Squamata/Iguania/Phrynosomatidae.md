@@ -65,7 +65,7 @@ dv_has_:
     pl: Frynosomowate
     pnb: کنڈیلے ایگوانے
     pt: Phrynosomatidae
-    pt-br: Phrynosomatidae
+    pt_br: Phrynosomatidae
     ro: Phrynosomatidae
     ru: Phrynosomatidae
     sq: Phrynosomatidae
@@ -77,8 +77,8 @@ dv_has_:
     vo: Phrynosomatidae
     war: Phrynosomatidae
     zh: 角蜥科
-    zh-cn: 角蜥科
-    zh-hans: 角蜥科
+    zh_cn: 角蜥科
+    zh_hans: 角蜥科
 ---
 # [[Phrynosomatidae]] 
 

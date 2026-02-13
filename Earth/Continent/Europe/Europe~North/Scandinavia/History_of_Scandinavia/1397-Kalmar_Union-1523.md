@@ -28,7 +28,7 @@ dv_has_:
     azb: کالمار بیرلیگی
     ba: Кальмар унияһы
     be: Кальмарская унія
-    be-tarask: Кальмарская унія
+    be_tarask: Кальмарская унія
     bg: Калмарска уния
     br: Unvaniezh Kalmar
     bs: Kalmarska unija
@@ -39,8 +39,8 @@ dv_has_:
     de: Kalmarer Union
     el: Ένωση του Κάλμαρ
     en: Kalmar Union
-    en-ca: Kalmar Union
-    en-gb: Kalmar Union
+    en_ca: Kalmar Union
+    en_gb: Kalmar Union
     eo: Unio de Kalmar
     es: Unión de Kalmar
     et: Kalmari unioon
@@ -67,7 +67,7 @@ dv_has_:
     ko: 칼마르 동맹
     krc: Кальмар уния
     ku: Yekîtiya Kalmarê
-    ku-latn: Yekîtiya Kalmarê
+    ku_latn: Yekîtiya Kalmarê
     la: Unio Calmariensis
     lt: Kalmaro unija
     lv: Kalmāras ūnija
@@ -82,7 +82,7 @@ dv_has_:
     pl: Unia kalmarska
     ps: کالمار ټولنه
     pt: União de Kalmar
-    pt-br: União de Kalmar
+    pt_br: União de Kalmar
     ro: Uniunea de la Kalmar
     ru: Кальмарская уния
     sco: Kalmar Union

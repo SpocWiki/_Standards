@@ -152,7 +152,7 @@ dv_has_:
     ban: Grita
     bcl: Kugita
     be: васьміногі
-    be-tarask: васьміногі
+    be_tarask: васьміногі
     bg: октоподи
     bi: Nawita
     bn: অক্টোপাস
@@ -169,7 +169,7 @@ dv_has_:
     de: Kraken
     el: χταπόδι
     en: Octopoda
-    en-gb: Octopoda
+    en_gb: Octopoda
     eo: Oktopieduloj
     es: Octopoda
     et: Kaheksahaarmelised
@@ -232,7 +232,7 @@ dv_has_:
     pa: ਆਕਟੋਪਸ
     pl: ośmiornice
     pt: Polvo
-    pt-br: Octopoda
+    pt_br: Octopoda
     qu: Pulpu
     ro: Octopoda
     ru: осьминоги
@@ -264,10 +264,10 @@ dv_has_:
     yo: ẹja ẹlẹsẹ mẹjọ
     yue: 八爪魚
     zh: 章魚目
-    zh-cn: 章魚目
-    zh-hans: 章鱼目
-    zh-hant: 章魚目
-    zh-hk: 章魚目
+    zh_cn: 章魚目
+    zh_hans: 章鱼目
+    zh_hant: 章魚目
+    zh_hk: 章魚目
 ---
 # [[Octopod]] 🐙 
 

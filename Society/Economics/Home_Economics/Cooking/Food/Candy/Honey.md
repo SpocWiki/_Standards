@@ -250,7 +250,7 @@ dv_has_:
     bar: Heng
     bcl: tangguli
     be: мёд
-    be-tarask: мёд
+    be_tarask: мёд
     bg: пчелен мед
     bho: मधु
     bn: মধু
@@ -264,7 +264,7 @@ dv_has_:
     ckb: ھەنگوین
     co: mele
     crh: bal
-    crh-latn: bal
+    crh_latn: bal
     cs: med
     cu: мєдъ
     cv: пыл
@@ -272,15 +272,15 @@ dv_has_:
     da: honning
     dag: shiri
     de: Honig
-    de-ch: Honig
+    de_ch: Honig
     diq: hıngımên
     dsb: mjod
     dv: މާމުއި
     ee: anyitsi
     el: μέλι
     en: honey
-    en-ca: honey
-    en-gb: honey
+    en_ca: honey
+    en_gb: honey
     eo: mielo
     es: miel
     et: mesi
@@ -358,7 +358,7 @@ dv_has_:
     lv: medus
     lzh: 蜂蜜
     mad: maddhu
-    map-bms: madu
+    map_bms: madu
     mcn: múl yùm
     mdf: медь
     mg: tantely
@@ -381,7 +381,7 @@ dv_has_:
     nap: mmiele
     nb: honning
     nds: Honnig
-    nds-nl: hoening
+    nds_nl: hoening
     ne: मह
     new: कस्ति
     nl: honing
@@ -401,7 +401,7 @@ dv_has_:
     pnb: ماکھی
     ps: گبين
     pt: mel
-    pt-br: mel
+    pt_br: mel
     qu: lachiwa misk'i
     rm: mel
     rn: ubuki
@@ -431,8 +431,8 @@ dv_has_:
     so: malab
     sq: mjalti
     sr: мед
-    sr-ec: мед
-    sr-el: med
+    sr_ec: мед
+    sr_el: med
     srn: oni
     st: cheso
     stq: Huunich
@@ -474,8 +474,8 @@ dv_has_:
     za: dangzrwi
     zh: 蜂蜜
     zh-cn: 蜂蜜
-    zh-hans: 蜂蜜
-    zh-hant: 蜂蜜
+    zh_hans: 蜂蜜
+    zh_hant: 蜂蜜
 ---
 # [[Honey]] 
 

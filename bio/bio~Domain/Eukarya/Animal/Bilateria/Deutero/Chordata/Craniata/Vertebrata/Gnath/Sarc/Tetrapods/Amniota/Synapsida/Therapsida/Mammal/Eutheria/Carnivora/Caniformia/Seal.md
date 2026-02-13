@@ -123,7 +123,7 @@ dv_has_:
     az: Pərayaqlılar
     ban: Pinnipedia
     be: ластаногія
-    be-tarask: ластаногія
+    be_tarask: ластаногія
     bew: Anjing laot
     bg: перконоги
     bn: সামুদ্রিক সীল
@@ -141,8 +141,8 @@ dv_has_:
     de: Robben
     el: φώκια
     en: Pinnipedia
-    en-ca: Pinniped
-    en-gb: pinniped
+    en_ca: Pinniped
+    en_gb: pinniped
     eo: Fokuloj
     es: Pinnipedia
     et: Loivalised
@@ -196,7 +196,7 @@ dv_has_:
     os: фыййагкъæхтæ
     pl: płetwonogie
     pt: Pinípedes
-    pt-br: Pinípedes
+    pt_br: Pinípedes
     qu: Asuka
     ro: Pinipede
     ru: ластоногие
@@ -225,10 +225,10 @@ dv_has_:
     wuu: 鳍足类
     yue: 鰭足目
     zh: 鰭足下目
-    zh-cn: 鳍足下目
-    zh-hans: 鳍足下目
-    zh-hant: 鰭足類
-    zh-tw: 鰭足下目
+    zh_cn: 鳍足下目
+    zh_hans: 鳍足下目
+    zh_hant: 鰭足類
+    zh_tw: 鰭足下目
     zu: Pinnipedia
 ---
 # [[Seal]] 

@@ -161,7 +161,7 @@ dv_has_:
     ast: Paul Samuelson
     az: Paul Samuelson
     be: Пол Энтані Самуэльсан
-    be-tarask: Пол Энтані Самуэлсан
+    be_tarask: Пол Энтані Самуэлсан
     bg: Пол Самюелсън
     bn: পল স্যামুয়েলসন
     bs: Paul A. Samuelson
@@ -171,11 +171,11 @@ dv_has_:
     da: Paul Samuelson
     dag: Paul Samuelson
     de: Paul A. Samuelson
-    de-ch: Paul A. Samuelson
+    de_ch: Paul A. Samuelson
     el: Πολ Σάμιουελσον
     en: Paul Samuelson
-    en-ca: Paul Samuelson
-    en-gb: Paul Samuelson
+    en_ca: Paul Samuelson
+    en_gb: Paul Samuelson
     en-us: Paul Samuelson
     eo: Paul Samuelson
     es: Paul Samuelson
@@ -223,7 +223,7 @@ dv_has_:
     pl: Paul Samuelson
     pnb: پال سیموئل سن
     pt: Paul Samuelson
-    pt-br: Paul Samuelson
+    pt_br: Paul Samuelson
     qu: Paul Samuelson
     ro: Paul Samuelson
     ru: Пол Энтони Самуэльсон
@@ -233,8 +233,8 @@ dv_has_:
     sl: Paul Samuelson
     sq: Paul A. Samuelson
     sr: Пол Самјуелсон
-    sr-ec: Пол Самјуелсон
-    sr-el: Pol Samjuelson
+    sr_ec: Пол Самјуелсон
+    sr_el: Pol Samjuelson
     sv: Paul Samuelson
     ta: பவுல் சாமுவேல்சன்
     th: Paul Samuelson
@@ -249,12 +249,12 @@ dv_has_:
     yo: Paul Samuelson
     yue: 森穆遜
     zh: 保羅·安東尼·薩繆爾森
-    zh-cn: 保罗·萨缪尔森
-    zh-hans: 保罗·萨缪尔森
-    zh-hant: 保羅·薩繆爾森
-    zh-hk: 保羅·森穆遜
-    zh-sg: 保罗·萨缪尔森
-    zh-tw: 保羅·薩繆森
+    zh_cn: 保罗·萨缪尔森
+    zh_hans: 保罗·萨缪尔森
+    zh_hant: 保羅·薩繆爾森
+    zh_hk: 保羅·森穆遜
+    zh_sg: 保罗·萨缪尔森
+    zh_tw: 保羅·薩繆森
 ---
 # [[Samuelson,Paul]] 
 

@@ -131,7 +131,7 @@ dv_has_:
     azb: بنیادی ذرهلر
     bar: Elementaraitzal
     be: фундаментальная часціца
-    be-tarask: элемэнтарная часьцінка
+    be_tarask: элемэнтарная часьцінка
     bg: елементарна частица
     bho: मौलिक कन
     bn: মৌলিক কণা
@@ -146,7 +146,7 @@ dv_has_:
     de: Elementarteilchen
     el: στοιχειώδες σωματίδιο
     en: elementary particle
-    en-ca: elementary particle
+    en_ca: elementary particle
     eo: elementa partiklo
     es: partícula elemental
     et: elementaarosakesed
@@ -211,8 +211,8 @@ dv_has_:
     sms: vuâđđpartikkel
     sq: grimca elementare
     sr: елементарна честица
-    sr-ec: елементарна честица
-    sr-el: elementarna čestica
+    sr_ec: елементарна честица
+    sr_el: elementarna čestica
     stq: Elementarpaat
     su: partikel éleménter
     sv: elementarpartikel

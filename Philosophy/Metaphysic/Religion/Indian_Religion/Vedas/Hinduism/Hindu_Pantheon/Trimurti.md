@@ -74,7 +74,7 @@ dv_has_:
     bar: Trimurti
     bcl: Trimurti
     be: Трымурці
-    be-tarask: трымурці
+    be_tarask: трымурці
     bg: Тримурти
     bho: त्रिमूर्ति
     bn: ত্রিমূর্তি
@@ -91,8 +91,8 @@ dv_has_:
     de: Trimurti
     el: Τριμούρτι
     en: Trimurti
-    en-ca: Trimurti
-    en-gb: Trimurti
+    en_ca: Trimurti
+    en_gb: Trimurti
     eo: Hindua diotriopo
     es: Trimurti
     et: Trimurti
@@ -151,7 +151,7 @@ dv_has_:
     pms: Trimurti
     pnb: تریمورتی
     pt: Trimúrti
-    pt-br: Trimúrti
+    pt_br: Trimúrti
     ro: Trimurti
     ru: тримурти
     rue: Трімурті
@@ -182,8 +182,8 @@ dv_has_:
     yi: טרימורטי
     yue: 三相神
     zh: 三相神
-    zh-hant: 三相神
-    zh-tw: 三相神
+    zh_hant: 三相神
+    zh_tw: 三相神
 ---
 # [[Trimurti]] 
 

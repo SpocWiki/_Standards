@@ -143,7 +143,7 @@ dv_has_:
     ba: Америго Веспуччи
     bar: Amerigo Vespucci
     be: Амерыга Веспучы
-    be-tarask: Амэрыга Вэспуччы
+    be_tarask: Амэрыга Вэспуччы
     bg: Америго Веспучи
     br: Amerigo Vespucci
     bs: Amerigo Vespucci
@@ -153,12 +153,12 @@ dv_has_:
     cy: Amerigo Vespucci
     da: Amerigo Vespucci
     de: Amerigo Vespucci
-    de-ch: Amerigo Vespucci
+    de_ch: Amerigo Vespucci
     diq: Amerigo Vespucci
     el: Αμέριγκο Βεσπούτσι
     en: Amerigo Vespucci
-    en-ca: Amerigo Vespucci
-    en-gb: Amerigo Vespucci
+    en_ca: Amerigo Vespucci
+    en_gb: Amerigo Vespucci
     eo: Amerigo Vespucci
     es: Amerigo Vespucio
     et: Amerigo Vespucci
@@ -215,7 +215,7 @@ dv_has_:
     pms: Amerigo Vespucci
     pnb: امریگو ویسپچی
     pt: Américo Vespúcio
-    pt-br: Américo Vespúcio
+    pt_br: Américo Vespúcio
     qu: Amerigo Vespucci
     ro: Amerigo Vespucci
     ru: Америго Веспуччи

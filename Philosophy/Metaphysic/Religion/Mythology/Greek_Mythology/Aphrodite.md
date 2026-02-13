@@ -166,7 +166,7 @@ dv_has_:
     bar: Aphrodite
     bcl: Aprhodite
     be: Афрадыта
-    be-tarask: Афрадыта
+    be_tarask: Афрадыта
     bg: Афродита
     bn: আফ্রোদিতি
     br: Afrodite
@@ -180,7 +180,7 @@ dv_has_:
     de: Aphrodite
     el: Αφροδίτη
     en: Aphrodite
-    en-gb: Aphrodite
+    en_gb: Aphrodite
     eo: Afrodito
     es: Afrodita
     et: Aphrodite
@@ -215,7 +215,7 @@ dv_has_:
     ko: 아프로디테
     ks: ایٚفروڈایٹ
     ku: Afrodîtê
-    ku-latn: Afrodîtê
+    ku_latn: Afrodîtê
     ky: Афродита
     la: Aphrodite
     lb: Aphrodite
@@ -254,7 +254,7 @@ dv_has_:
     sl: Afrodita
     sq: Afërdita
     sr: Афродита
-    sr-ec: Афродита
+    sr_ec: Афродита
     sv: Afrodite
     sw: Afrodita
     ta: அப்ரடைட்டி
@@ -273,10 +273,10 @@ dv_has_:
     wuu: 阿芙洛狄忒
     yue: 阿芙蘿迪蒂
     zh: 阿佛罗狄忒
-    zh-cn: 阿佛罗狄忒
-    zh-hans: 阿佛罗狄忒
-    zh-hk: 阿芙蘿迪蒂
-    zh-tw: 阿芙蘿黛蒂
+    zh_cn: 阿佛罗狄忒
+    zh_hans: 阿佛罗狄忒
+    zh_hk: 阿芙蘿迪蒂
+    zh_tw: 阿芙蘿黛蒂
 ---
 # [[Aphrodite]] 
 

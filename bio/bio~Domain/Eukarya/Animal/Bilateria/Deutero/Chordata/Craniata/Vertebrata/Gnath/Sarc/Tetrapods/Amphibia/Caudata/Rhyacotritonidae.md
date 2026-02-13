@@ -46,7 +46,7 @@ dv_has_:
     oc: Rhyacotriton
     pl: Rhyacotriton
     pt: Rhyacotriton
-    pt-br: Rhyacotriton
+    pt_br: Rhyacotriton
     ro: Rhyacotriton
     ru: Rhyacotriton
     sq: Rhyacotriton
@@ -56,10 +56,10 @@ dv_has_:
     vo: Rhyacotriton
     war: Rhyacotriton
     zh: 急流螈属
-    zh-cn: 急流螈属
-    zh-hans: 急流螈属
-    zh-hant: 急流螈
-    zh-hk: 急流螈
+    zh_cn: 急流螈属
+    zh_hans: 急流螈属
+    zh_hant: 急流螈
+    zh_hk: 急流螈
 ---
 # Rhyacotritonidae
 

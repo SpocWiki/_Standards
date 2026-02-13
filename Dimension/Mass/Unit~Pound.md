@@ -115,7 +115,7 @@ dv_has_:
     az: funt
     ba: фунт
     bar: Pfund
-    be-tarask: фунт
+    be_tarask: фунт
     bg: Фунт
     bn: পাউন্ড
     br: Lur
@@ -128,8 +128,8 @@ dv_has_:
     de: Pfund
     el: λίβρα
     en: pound
-    en-ca: pound
-    en-gb: pound
+    en_ca: pound
+    en_gb: pound
     eo: funto
     es: libra
     et: Nael
@@ -157,11 +157,11 @@ dv_has_:
     jam: Pong
     ka: გირვანქა
     kk: Фунт
-    kk-arab: فۋنت
+    kk_arab: فۋنت
     kk-cn: فۋنت
-    kk-cyrl: Фунт
+    kk_cyrl: Фунт
     kk-kz: Фунт
-    kk-latn: Fwnt
+    kk_latn: Fwnt
     kk-tr: Fwnt
     ko: 파운드
     ksh: Pongk
@@ -171,7 +171,7 @@ dv_has_:
     lv: mārciņa
     mk: фунта
     ms: paun
-    ms-arab: ڤاءون
+    ms_arab: ڤاءون
     nb: pund
     nds: Pund
     nl: pond
@@ -182,7 +182,7 @@ dv_has_:
     pms: Lira
     ps: پونډ
     pt: libra
-    pt-br: libra
+    pt_br: libra
     ro: livră
     ru: фунт
     sah: Муунта
@@ -192,13 +192,13 @@ dv_has_:
     sk: Libra
     sl: funt
     sr: фунта
-    sr-ec: Фунта
-    sr-el: Funta
+    sr_ec: Фунта
+    sr_el: Funta
     sv: skålpund
     sw: Ratili
     ta: பவுண்டு
     te: పౌండ్
-    tg-cyrl: фунт
+    tg_cyrl: фунт
     th: ปอนด์
     tr: pound
     tt: фунт
@@ -212,12 +212,12 @@ dv_has_:
     yi: פונט
     yue: 磅
     zh: 磅
-    zh-cn: 磅
-    zh-hans: 磅
-    zh-hant: 磅
-    zh-hk: 磅
-    zh-sg: 磅
-    zh-tw: 磅
+    zh_cn: 磅
+    zh_hans: 磅
+    zh_hant: 磅
+    zh_hk: 磅
+    zh_sg: 磅
+    zh_tw: 磅
 ---
 # [[Unit~Pound]] 
 

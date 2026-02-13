@@ -40,7 +40,7 @@ dv_has_:
     ar: ديكلوفيناك
     ast: Diclofenaco
     azb: دیکلوفناک
-    be-tarask: дыкляфэнак
+    be_tarask: дыкляфэнак
     bg: диклофенак
     bn: ডাইক্লোফেনাক
     bs: Diklofenak
@@ -82,7 +82,7 @@ dv_has_:
     pl: diklofenak
     ps: ديکلوفيناک
     pt: diclofenaco
-    pt-br: diclofenaco
+    pt_br: diclofenaco
     ro: Diclofenac
     ru: диклофенак
     sh: Diklofenak
@@ -91,8 +91,8 @@ dv_has_:
     sms: diklofenakk
     sq: Diklofenaku
     sr: диклофенак
-    sr-ec: Диклофенак
-    sr-el: Diklofenak
+    sr_ec: Диклофенак
+    sr_el: Diklofenak
     sv: diklofenak
     ta: டைக்ளோஃபீனாக்
     th: ไดโคลฟีแนค
@@ -101,12 +101,12 @@ dv_has_:
     ur: دیکلوفناک
     vi: diclofenac
     zh: 双氯芬酸钠
-    zh-cn: 双氯芬酸钠
-    zh-hans: 双氯芬酸钠
-    zh-hant: 雙氯芬酸鈉
-    zh-hk: 雙氯芬酸鈉
-    zh-sg: 双氯芬酸钠
-    zh-tw: 雙氯芬酸鈉
+    zh_cn: 双氯芬酸钠
+    zh_hans: 双氯芬酸钠
+    zh_hant: 雙氯芬酸鈉
+    zh_hk: 雙氯芬酸鈉
+    zh_sg: 双氯芬酸钠
+    zh_tw: 雙氯芬酸鈉
 ---
 ## #has_/text_of_/abstract 
 

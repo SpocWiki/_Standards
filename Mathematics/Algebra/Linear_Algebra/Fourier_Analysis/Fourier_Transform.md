@@ -102,7 +102,7 @@ dv_has_:
     az: Furye çevrilməsi
     bar: Fouriertransformation
     be: пераўтварэнне Фур'е
-    be-tarask: пераўтварэньне Фур’е
+    be_tarask: пераўтварэньне Фур’е
     bg: Преобразувание на Фурие
     bn: ফুরিয়ে রূপান্তর
     ca: transformada de Fourier
@@ -110,12 +110,12 @@ dv_has_:
     cy: trawsffurfiad Fourier
     da: fouriertransformation
     de: Fourier-Transformierte
-    de-ch: Fourier-Transformation
+    de_ch: Fourier-Transformation
     dtp: Ponimban Fourier
     el: Μετασχηματισμός Φουριέ
     en: Fourier transform
-    en-ca: Fourier transform
-    en-gb: Fourier transform
+    en_ca: Fourier transform
+    en_gb: Fourier transform
     eo: furiera transformo
     es: transformada de Fourier
     et: Fourier' teisendus
@@ -148,7 +148,7 @@ dv_has_:
     pa: ਫੋਰੀਅਰ ਪਰਿਵਰਤਨ
     pl: transformacja Fouriera
     pt: transformada de Fourier
-    pt-br: transformada de Fourier
+    pt_br: transformada de Fourier
     rki: ဖိုရီယာ ထရန်စဖောင်း
     ro: transformata Fourier
     ru: преобразование Фурье
@@ -167,8 +167,8 @@ dv_has_:
     wuu: 傅里叶变换
     yue: 傅立葉變換
     zh: 傅里叶变换
-    zh-cn: 傅里叶变换
-    zh-tw: 傅立葉轉換
+    zh_cn: 傅里叶变换
+    zh_tw: 傅立葉轉換
 ---
 # [[Fourier_Transform]] 
 

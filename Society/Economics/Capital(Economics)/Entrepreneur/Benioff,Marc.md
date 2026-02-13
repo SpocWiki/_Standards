@@ -40,7 +40,7 @@ dv_has_:
     sq: Marc Benioff
     sv: Marc Benioff
     zh: 馬爾克·貝尼奧夫
-    zh-hant: 馬爾克·貝尼奧夫
+    zh_hant: 馬爾克·貝尼奧夫
 ---
 # [[Benioff,Marc]] 
 

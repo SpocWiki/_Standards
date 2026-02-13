@@ -140,7 +140,7 @@ dv_has_:
     az: Stefan Banax
     azb: استفان باناخ
     be: Стэфан Банах
-    be-tarask: Стэфан Банах
+    be_tarask: Стэфан Банах
     bg: Стефан Банах
     bn: স্টেফান বানাখ
     ca: Stefan Banach
@@ -153,8 +153,8 @@ dv_has_:
     dsb: Stefan Banach
     el: Στέφαν Μπάναχ
     en: Stefan Banach
-    en-ca: Stefan Banach
-    en-gb: Stefan Banach
+    en_ca: Stefan Banach
+    en_gb: Stefan Banach
     eo: Stefan Banach
     es: Stefan Banach
     et: Stefan Banach
@@ -193,7 +193,7 @@ dv_has_:
     nn: Stefan Banach
     pms: Stefan Banach
     pt: Stefan Banach
-    pt-br: Stefan Banach
+    pt_br: Stefan Banach
     ro: Stefan Banach
     ru: Стефан Банах
     scn: Stefan Banach
@@ -211,12 +211,12 @@ dv_has_:
     xmf: სტეფან ბანახი
     yue: Stefan Banach
     zh: 斯特凡·巴拿赫
-    zh-cn: 斯特凡·巴拿赫
-    zh-hans: 斯特凡·巴拿赫
-    zh-hant: 斯特凡·巴拿赫
-    zh-hk: 斯特凡·巴拿赫
-    zh-sg: 斯特凡·巴拿赫
-    zh-tw: 斯特凡·巴拿赫
+    zh_cn: 斯特凡·巴拿赫
+    zh_hans: 斯特凡·巴拿赫
+    zh_hant: 斯特凡·巴拿赫
+    zh_hk: 斯特凡·巴拿赫
+    zh_sg: 斯特凡·巴拿赫
+    zh_tw: 斯特凡·巴拿赫
 ---
 # [[Banach,Stefan]] 
 

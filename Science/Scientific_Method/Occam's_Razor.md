@@ -106,7 +106,7 @@ dv_has_:
     ba: Оккам бәкеһе
     bar: Rasiamessa vom Ockham
     be: Брытва Окама
-    be-tarask: Лязо Окама
+    be_tarask: Лязо Окама
     bg: Бръснач на Окам
     bn: ওকামের খুর
     br: Aotenn Ockham
@@ -138,16 +138,16 @@ dv_has_:
     ja: オッカムの剃刀
     ka: ოკამის სამართებელი
     kk: Оккам ұстарасы
-    kk-arab: وككام ۇستاراسى
+    kk_arab: وككام ۇستاراسى
     kk-cn: وككام ۇستاراسى
-    kk-cyrl: Оккам ұстарасы
+    kk_cyrl: Оккам ұстарасы
     kk-kz: Оккам ұстарасы
-    kk-latn: Okkam ustarası
+    kk_latn: Okkam ustarası
     kk-tr: Okkam ustarası
     ko: 오컴의 면도날
     ku: Dûzana Ockhamê
-    ku-arab: دووزانائۆ جکهامێ
-    ku-latn: Dûzana Ockhamê
+    ku_arab: دووزانائۆ جکهامێ
+    ku_latn: Dûzana Ockhamê
     la: Novacula Occami
     lmo: Resoeuj de l'Occam
     lt: Okamo skustuvas
@@ -170,8 +170,8 @@ dv_has_:
     sk: Occamova britva
     sl: Ockhamova britev
     sr: Окамова бритва
-    sr-ec: Окамова бритва
-    sr-el: Okamova britva
+    sr_ec: Окамова бритва
+    sr_el: Okamova britva
     su: Péso Ockham
     sv: Ockhams rakkniv
     th: มีดโกนอ็อกคัม
@@ -182,12 +182,12 @@ dv_has_:
     wuu: 奥卡姆剃刀
     yue: 奧坎剃刀
     zh: 奥卡姆剃刀
-    zh-cn: 奥卡姆剃刀
-    zh-hans: 奥卡姆剃刀
-    zh-hant: 奧卡姆剃刀
-    zh-hk: 奧卡姆剃刀
-    zh-sg: 奥卡姆剃刀
-    zh-tw: 奧卡姆剃刀
+    zh_cn: 奥卡姆剃刀
+    zh_hans: 奥卡姆剃刀
+    zh_hant: 奧卡姆剃刀
+    zh_hk: 奧卡姆剃刀
+    zh_sg: 奥卡姆剃刀
+    zh_tw: 奧卡姆剃刀
 ---
 # [[Occam's_Razor]] 
 

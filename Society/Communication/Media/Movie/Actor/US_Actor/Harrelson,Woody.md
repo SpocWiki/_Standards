@@ -43,7 +43,7 @@ dv_has_:
     az: Vudi Harrelson
     azb: وودی هارلسون
     be: Вудзі Харэльсан
-    be-tarask: Ўудзі Гарэлсан
+    be_tarask: Ўудзі Гарэлсан
     bg: Уди Харелсън
     bn: উডি হ্যারেলসন
     br: Woody Harrelson
@@ -57,8 +57,8 @@ dv_has_:
     de: Woody Harrelson
     el: Γούντι Χάρελσον
     en: Woody Harrelson
-    en-ca: Woody Harrelson
-    en-gb: Woody Harrelson
+    en_ca: Woody Harrelson
+    en_gb: Woody Harrelson
     eo: Woody Harrelson
     es: Woody Harrelson
     et: Woody Harrelson
@@ -96,7 +96,7 @@ dv_has_:
     pl: Woody Harrelson
     pms: Woody Harrelson
     pt: Woody Harrelson
-    pt-br: Woody Harrelson
+    pt_br: Woody Harrelson
     ro: Woody Harrelson
     ru: Вуди Харрельсон
     sco: Woody Harrelson
@@ -105,8 +105,8 @@ dv_has_:
     sl: Woody Harrelson
     sq: Woody Harrelson
     sr: Вуди Харелсон
-    sr-ec: Вуди Харелсон
-    sr-el: Vudi Harelson
+    sr_ec: Вуди Харелсон
+    sr_el: Vudi Harelson
     su: Woody Harrelson
     sv: Woody Harrelson
     tg: Вуди Харрелсон
@@ -121,13 +121,13 @@ dv_has_:
     xmf: ვუდი ჰარელსონი
     yue: 活地夏里遜
     zh: 伍迪·哈里森
-    zh-cn: 伍迪·哈里森
-    zh-hans: 伍迪·哈里森
-    zh-hant: 伍迪·哈里森
-    zh-hk: 活地·夏里遜
+    zh_cn: 伍迪·哈里森
+    zh_hans: 伍迪·哈里森
+    zh_hant: 伍迪·哈里森
+    zh_hk: 活地·夏里遜
     zh-my: 伍迪·哈里逊
-    zh-sg: 伍迪·哈里森
-    zh-tw: 伍迪·哈里森
+    zh_sg: 伍迪·哈里森
+    zh_tw: 伍迪·哈里森
 ---
 #has_/time_/started :: 1961-07-23 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

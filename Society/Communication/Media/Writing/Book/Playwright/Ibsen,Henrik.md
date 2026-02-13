@@ -218,7 +218,7 @@ dv_has_:
     azb: هنریک ایبسن
     ba: Генрик Иоган Ибсен
     be: Генрык Ібсен
-    be-tarask: Генрык Ібсэн
+    be_tarask: Генрык Ібсэн
     bg: Хенрик Ибсен
     bn: হেনরিক ইবসেন
     br: Henrik Ibsen
@@ -295,7 +295,7 @@ dv_has_:
     pnb: ہینرک ابسن
     ps: هنرېک ايبسن
     pt: Henrik Ibsen
-    pt-br: Henrik Ibsen
+    pt_br: Henrik Ibsen
     qu: Henrik Ibsen
     ro: Henrik Ibsen
     ru: Генрик Ибсен
@@ -325,7 +325,7 @@ dv_has_:
     yi: הענריק איבסן
     yue: 易卜生
     zh: 亨里克·易卜生
-    zh-hans: 亨里克·易卜生
+    zh_hans: 亨里克·易卜生
 ---
 # [[Ibsen,Henrik]] 
 

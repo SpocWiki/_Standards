@@ -55,7 +55,7 @@ dv_has_:
   name_:
     af: Improvisasieteater
     ar: مسرح ارتجالي
-    be-tarask: тэатар імправізацыі
+    be_tarask: тэатар імправізацыі
     ca: improvisació teatral
     cs: divadelní improvizace
     cy: theatr byrfyfyr
@@ -93,9 +93,9 @@ dv_has_:
     wuu: 即兴剧场
     yue: 即興劇
     zh: 即興劇場
-    zh-cn: 即兴喜剧
-    zh-hans: 即兴喜剧
-    zh-hant: 即興喜劇
+    zh_cn: 即兴喜剧
+    zh_hans: 即兴喜剧
+    zh_hant: 即興喜劇
 ---
 # [[Improvisational_Theatre]] 
 

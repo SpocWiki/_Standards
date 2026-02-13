@@ -11,7 +11,7 @@ dv_has_:
     azb: موتورولا
     bar: Motorola
     be: Motorola
-    be-tarask: Motorola
+    be_tarask: Motorola
     bg: Моторола
     bn: মটোরোলা
     br: Motorola
@@ -25,11 +25,11 @@ dv_has_:
     da: Motorola
     de: Motorola
     de-at: Motorola
-    de-ch: Motorola
+    de_ch: Motorola
     el: Motorola
     en: Motorola
-    en-ca: Motorola
-    en-gb: Motorola
+    en_ca: Motorola
+    en_gb: Motorola
     en-us: Motorola
     eo: Motorola
     es: Motorola
@@ -59,11 +59,11 @@ dv_has_:
     jv: Motorola
     kg: Motorola
     kk: Motorola
-    kk-arab: Motorola
+    kk_arab: Motorola
     kk-cn: Motorola
-    kk-cyrl: Моторола
+    kk_cyrl: Моторола
     kk-kz: Моторола
-    kk-latn: Motorola
+    kk_latn: Motorola
     kk-tr: Motorola
     kn: ಮೊಟೊರೊಲ
     ko: 모토로라
@@ -85,7 +85,7 @@ dv_has_:
     nap: Motorola
     nb: Motorola
     nds: Motorola
-    nds-nl: Motorola
+    nds_nl: Motorola
     nl: Motorola
     nn: Motorola
     nrm: Motorola
@@ -96,7 +96,7 @@ dv_has_:
     pms: Motorola
     ps: موټرولا
     pt: Motorola
-    pt-br: Motorola
+    pt_br: Motorola
     qu: Motorola
     rm: Motorola
     ro: Motorola
@@ -110,8 +110,8 @@ dv_has_:
     sl: Motorola
     sq: Motorola
     sr: Моторола
-    sr-ec: Моторола
-    sr-el: Motorola
+    sr_ec: Моторола
+    sr_el: Motorola
     sv: Motorola
     sw: Motorola
     ta: மோட்டோரோலா
@@ -132,12 +132,12 @@ dv_has_:
     xmf: Motorola
     yue: 摩托羅拉
     zh: 摩托罗拉
-    zh-cn: 摩托罗拉
-    zh-hans: 摩托罗拉
-    zh-hant: 摩托羅拉
-    zh-hk: 摩托羅拉
-    zh-sg: 摩托罗拉
-    zh-tw: 摩托羅拉
+    zh_cn: 摩托罗拉
+    zh_hans: 摩托罗拉
+    zh_hant: 摩托羅拉
+    zh_hk: 摩托羅拉
+    zh_sg: 摩托罗拉
+    zh_tw: 摩托羅拉
     zu: Motorola
 aliases:
 - Motorola

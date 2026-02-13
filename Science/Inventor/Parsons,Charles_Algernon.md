@@ -105,7 +105,7 @@ dv_has_:
     arz: تشارلز الجرنون بارسونز
     ast: Charles Algernon Parsons
     azb: چارلز القرنون پارسونز
-    be-tarask: Чарлз Алджэрнан Парсанз
+    be_tarask: Чарлз Алджэрнан Парсанз
     bg: Чарлз Алджернън Парсънс
     bn: চার্লস এ পারসনস
     ca: Charles Algernon Parsons
@@ -113,8 +113,8 @@ dv_has_:
     da: Charles Algernon Parsons
     de: Charles Parsons
     en: Charles Algernon Parsons
-    en-ca: Charles Algernon Parsons
-    en-gb: Charles Algernon Parsons
+    en_ca: Charles Algernon Parsons
+    en_gb: Charles Algernon Parsons
     es: Charles Algernon Parsons
     eu: Charles Algernon Parsons
     fa: چارلز الگرنون پارسونز
@@ -138,7 +138,7 @@ dv_has_:
     nn: Charles Algernon Parsons
     pl: Charles Algernon Parsons
     pt: Charles Algernon Parsons
-    pt-br: Charles Algernon Parsons
+    pt_br: Charles Algernon Parsons
     ru: Чарлз Алджернон Парсонс
     sk: Charles Algernon Parsons
     sl: Charles Algernon Parsons
@@ -152,9 +152,9 @@ dv_has_:
     xmf: ჩარლზ ალჯერნონ პარსონსი
     yue: 查爾斯·阿爾傑農·帕森斯
     zh: 查爾斯·安格諾恩·帕森斯
-    zh-cn: 查尔斯·阿尔杰农·帕森斯
-    zh-hans: 查尔斯·帕森斯
-    zh-hant: 查爾斯·阿爾傑農·帕森斯
+    zh_cn: 查尔斯·阿尔杰农·帕森斯
+    zh_hans: 查尔斯·帕森斯
+    zh_hant: 查爾斯·阿爾傑農·帕森斯
 ---
 # [[Parsons,Charles_Algernon]] 
 

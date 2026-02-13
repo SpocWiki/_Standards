@@ -97,7 +97,7 @@ dv_has_:
     ba: Энәтирелеләр
     bar: Echinodermata
     be: ігласкурыя
-    be-tarask: іголкаваскурыя
+    be_tarask: іголкаваскурыя
     bg: иглокожи
     bn: একাইনোডার্মাটা
     br: Echinodermata
@@ -110,11 +110,11 @@ dv_has_:
     da: Pighuder
     de: Stachelhäuter
     de-at: Echinodermata
-    de-ch: Echinodermata
+    de_ch: Echinodermata
     el: Εχινόδερμα
     en: Echinodermata
-    en-ca: Echinoderm
-    en-gb: Echinoderm
+    en_ca: Echinoderm
+    en_gb: Echinoderm
     eo: Ekinodermo
     es: Echinodermata
     et: okasnahksed
@@ -170,7 +170,7 @@ dv_has_:
     nap: Echinodermata
     nb: pigghuder
     nds: Echinodermata
-    nds-nl: Echinodermata
+    nds_nl: Echinodermata
     nl: stekelhuidigen
     nn: pigghudingar
     nrm: Echinodermata
@@ -183,7 +183,7 @@ dv_has_:
     pms: Echinodermata
     pnb: کنڈیارے
     pt: Equinoderme
-    pt-br: Echinodermata
+    pt_br: Echinodermata
     qu: Kichka qarayuq
     rm: Echinodermata
     ro: Echinoderme
@@ -222,9 +222,9 @@ dv_has_:
     yue: 棘皮動物
     zea: Stekel'udegen
     zh: 棘皮动物门
-    zh-cn: 棘皮动物门
-    zh-hans: 棘皮动物门
-    zh-tw: 棘皮動物門
+    zh_cn: 棘皮动物门
+    zh_hans: 棘皮动物门
+    zh_tw: 棘皮動物門
     zu: Echinodermata
 ---
 # [[Echinodermata]]

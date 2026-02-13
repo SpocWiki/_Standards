@@ -199,7 +199,7 @@ water_footprint: 1827
 Wikidata_usage_instructions: focus on agriculture here, not on taxonomy
 dv_has_:
   name_:
-    aeb-arab: قمح
+    aeb_arab: قمح
     af: koring
     am: ስንዴ
     ami: Edid
@@ -219,7 +219,7 @@ dv_has_:
     bar: Woaz
     bcl: Trigo
     be: пшаніца
-    be-tarask: пшаніца
+    be_tarask: пшаніца
     bg: пшеница
     bho: गोहूँ
     bn: গম
@@ -244,8 +244,8 @@ dv_has_:
     dv: ގޮދަން
     el: σιτάρι
     en: wheat
-    en-ca: wheat
-    en-gb: wheat
+    en_ca: wheat
+    en_gb: wheat
     eo: tritiko
     es: trigo
     et: nisu
@@ -341,7 +341,7 @@ dv_has_:
     pnt: κοκίν
     ps: غنم
     pt: trigo
-    pt-br: trigo
+    pt_br: trigo
     rmy: Giv
     ro: Grâu
     ru: пшеница
@@ -376,7 +376,7 @@ dv_has_:
     tok: kasi pan
     tr: buğday
     tt: бодай
-    tt-cyrl: бодай
+    tt_cyrl: бодай
     tyv: Кызыл-тас
     udm: чабей
     ug: بۇغداي
@@ -394,13 +394,13 @@ dv_has_:
     yi: ווייץ
     yue: 小麥
     zh: 小麦
-    zh-cn: 小麦
-    zh-hans: 小麦
-    zh-hant: 小麥
-    zh-hk: 小麥
-    zh-mo: 小麥
-    zh-sg: 小麦
-    zh-tw: 小麥
+    zh_cn: 小麦
+    zh_hans: 小麦
+    zh_hant: 小麥
+    zh_hk: 小麥
+    zh_mo: 小麥
+    zh_sg: 小麦
+    zh_tw: 小麥
 ---
 # [[Wheat]] 
 

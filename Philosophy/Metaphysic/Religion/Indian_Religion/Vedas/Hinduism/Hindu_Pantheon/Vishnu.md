@@ -121,7 +121,7 @@ dv_has_:
     ban: Déwa Wisnu
     bcl: Vishnu
     be: Вішну
-    be-tarask: Вішну
+    be_tarask: Вішну
     bg: Вишну
     bho: विष्णु
     bjn: Batara Bisnu
@@ -141,8 +141,8 @@ dv_has_:
     dty: विष्णु
     el: Βισνού
     en: Vishnu
-    en-ca: Vishnu
-    en-gb: Vishnu
+    en_ca: Vishnu
+    en_gb: Vishnu
     eo: Viŝnuo
     es: Vishnu
     et: Višnu
@@ -206,7 +206,7 @@ dv_has_:
     pnb: وشنو
     ps: وشنو
     pt: Vixnu
-    pt-br: Vixnu
+    pt_br: Vixnu
     ro: Vishnu
     ru: Вишну
     sa: विष्णुः
@@ -219,7 +219,7 @@ dv_has_:
     sl: Višnu
     sq: Vishnu
     sr: Вишну
-    sr-ec: Вишну
+    sr_ec: Вишну
     sv: Vishnu
     ta: விஷ்ணு
     tcy: ವಿಷ್ಣು
@@ -241,9 +241,9 @@ dv_has_:
     xmf: ვიშნუ
     yue: 毗濕奴
     zh: 毗湿奴
-    zh-hant: 毗濕奴
-    zh-hk: 毗濕奴
-    zh-tw: 毗濕奴
+    zh_hant: 毗濕奴
+    zh_hk: 毗濕奴
+    zh_tw: 毗濕奴
 ---
 # [[Vishnu]] 
 

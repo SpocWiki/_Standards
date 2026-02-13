@@ -92,11 +92,11 @@ dv_has_:
     it: Scattering Raman
     ja: ラマン効果
     kk: Жарықтың комбинациялық шашырауы
-    kk-arab: جارىقتىڭ كومبىيناتسىييالىق شاشىراۋى
+    kk_arab: جارىقتىڭ كومبىيناتسىييالىق شاشىراۋى
     kk-cn: جارىقتىڭ كومبىيناتسىييالىق شاشىراۋى
-    kk-cyrl: Жарықтың комбинациялық шашырауы
+    kk_cyrl: Жарықтың комбинациялық шашырауы
     kk-kz: Жарықтың комбинациялық шашырауы
-    kk-latn: Jarıqtıñ kombïnacïyalıq şaşırawı
+    kk_latn: Jarıqtıñ kombïnacïyalıq şaşırawı
     kk-tr: Jarıqtıñ kombïnacïyalıq şaşırawı
     kn: ರಾಮನ್ ಪರಿಣಾಮ
     ko: 라만 산란
@@ -121,12 +121,12 @@ dv_has_:
     uk: Раманівське розсіяння
     vi: Tán xạ Raman
     zh: 拉曼效应
-    zh-cn: 拉曼效应
-    zh-hans: 拉曼效应
-    zh-hant: 拉曼效應
-    zh-hk: 拉曼效應
-    zh-sg: 拉曼效应
-    zh-tw: 拉曼效應
+    zh_cn: 拉曼效应
+    zh_hans: 拉曼效应
+    zh_hant: 拉曼效應
+    zh_hk: 拉曼效應
+    zh_sg: 拉曼效应
+    zh_tw: 拉曼效應
 ---
 # [[Raman_Scattering]] 
 

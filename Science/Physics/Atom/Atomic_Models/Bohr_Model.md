@@ -95,7 +95,7 @@ dv_has_:
     ast: Modelu atómicu de Bohr
     az: Bor modeli
     be: Бораўская мадэль атама
-    be-tarask: Бораўская мадэль атаму
+    be_tarask: Бораўская мадэль атаму
     bg: Модел на Бор
     bn: বোর মডেল
     bs: Bohrov model atoma
@@ -127,11 +127,11 @@ dv_has_:
     ja: ボーアの原子模型
     ka: ბორის მოდელი
     kk: Бор постулаттары
-    kk-arab: بور پوستۋلاتتارى
+    kk_arab: بور پوستۋلاتتارى
     kk-cn: بور پوستۋلاتتارى
-    kk-cyrl: Бор постулаттары
+    kk_cyrl: Бор постулаттары
     kk-kz: Бор постулаттары
-    kk-latn: Bor postwlattarı
+    kk_latn: Bor postwlattarı
     kk-tr: Bor postwlattarı
     ko: 보어 모형
     lt: Boro teorija
@@ -157,8 +157,8 @@ dv_has_:
     sk: Bohrov model atómu
     sl: Bohrov model atoma
     sr: Боров модел атома
-    sr-ec: Боров модел атома
-    sr-el: Borov model atoma
+    sr_ec: Боров модел атома
+    sr_el: Borov model atoma
     sv: Bohrs atommodell
     ta: போர் அணு மாதிரி
     te: బోర్ నమూనా
@@ -172,12 +172,12 @@ dv_has_:
     wuu: 玻尔模型
     yue: 玻爾模型
     zh: 玻尔模型
-    zh-cn: 玻尔模型
-    zh-hans: 玻尔模型
-    zh-hant: 玻爾模型
-    zh-hk: 玻爾模型
-    zh-sg: 玻尔模型
-    zh-tw: 波耳模型
+    zh_cn: 玻尔模型
+    zh_hans: 玻尔模型
+    zh_hant: 玻爾模型
+    zh_hk: 玻爾模型
+    zh_sg: 玻尔模型
+    zh_tw: 波耳模型
 ---
 # [[Bohr_Model]] 
 

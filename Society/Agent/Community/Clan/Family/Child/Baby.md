@@ -187,7 +187,7 @@ dv_has_:
     bar: Buzal
     bcl: Umboy
     be: немаўля
-    be-tarask: немаўля
+    be_tarask: немаўля
     bg: Бебе
     bn: বাচ্চা
     br: babig
@@ -206,8 +206,8 @@ dv_has_:
     diq: Pıt
     el: βρέφος
     en: infant
-    en-ca: infant
-    en-gb: infant
+    en_ca: infant
+    en_gb: infant
     eo: bebo
     es: bebé
     et: Imik
@@ -246,7 +246,7 @@ dv_has_:
     kn: ಶಿಶು
     ko: 아기
     ku: pitik
-    ku-latn: pitik
+    ku_latn: pitik
     kus: Bilia
     ky: Наристе балдар
     la: Infantulus
@@ -261,7 +261,7 @@ dv_has_:
     ml: ശിശു
     mr: बाळ
     ms: bayi
-    ms-arab: بايي
+    ms_arab: بايي
     my: ကလေး
     mzn: زلغ
     nah: Conētzintli
@@ -277,7 +277,7 @@ dv_has_:
     pl: niemowlę
     pnt: χάταλον
     pt: bebé
-    pt-br: bebê
+    pt_br: bebê
     qu: Pallpa
     ro: sugar
     ru: младенец
@@ -291,7 +291,7 @@ dv_has_:
     so: Ilmo
     sq: Foshnja
     sr: беба
-    sr-ec: беба
+    sr_ec: беба
     su: Orok
     sv: spädbarn
     szy: lutungay
@@ -313,14 +313,14 @@ dv_has_:
     yo: Ìkókó
     yue: "孲\U00024605子"
     zh: 嬰兒
-    zh-cn: 嬰兒
-    zh-hans: 嬰兒
-    zh-hant: 嬰兒
-    zh-hk: 嬰兒
-    zh-mo: 嬰兒
+    zh_cn: 嬰兒
+    zh_hans: 嬰兒
+    zh_hant: 嬰兒
+    zh_hk: 嬰兒
+    zh_mo: 嬰兒
     zh-my: 嬰兒
-    zh-sg: 嬰兒
-    zh-tw: 嬰兒
+    zh_sg: 嬰兒
+    zh_tw: 嬰兒
 ---
 # [[Baby]] 👶 
 

@@ -143,7 +143,7 @@ dv_has_:
     ba: нерв
     bcl: Nerbyos
     be: нерв
-    be-tarask: нэрва
+    be_tarask: нэрва
     bg: Нерв
     bn: স্নায়ু
     bs: Živac
@@ -153,12 +153,12 @@ dv_has_:
     cy: nerf
     da: nerve
     de: Nerv
-    de-ch: Nerv
+    de_ch: Nerv
     dv: ފަތިނާރު
     el: Νεύρο
     en: nerve
-    en-ca: Nerve
-    en-gb: nerve
+    en_ca: Nerve
+    en_gb: nerve
     eo: nervo
     es: nervio
     et: närv
@@ -189,7 +189,7 @@ dv_has_:
     kn: ನರ
     ko: 신경
     ku: demar
-    ku-latn: demar
+    ku_latn: demar
     kw: Nerven
     ky: Нервдер
     la: Nervus
@@ -219,7 +219,7 @@ dv_has_:
     pms: Nerv
     ps: رگ
     pt: nervo
-    pt-br: Nervo
+    pt_br: Nervo
     qu: Ankucha
     rki: အာရုံကြော
     ro: nerv

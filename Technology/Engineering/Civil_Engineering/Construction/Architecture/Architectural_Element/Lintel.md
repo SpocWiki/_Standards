@@ -68,11 +68,11 @@ dv_has_:
     ca: llinda
     cs: překlad
     de: Sturz
-    de-ch: Sturz
+    de_ch: Sturz
     el: υπέρθυρο
     en: lintel
-    en-ca: lintel
-    en-gb: lintel
+    en_ca: lintel
+    en_gb: lintel
     eo: lintelo
     es: dintel
     et: Sillus
@@ -97,7 +97,7 @@ dv_has_:
     nl: latei
     pl: nadproże
     pt: lintel
-    pt-br: Lintel
+    pt_br: Lintel
     qu: Punku kirma
     ru: притолока
     sk: Preklad
@@ -108,8 +108,8 @@ dv_has_:
     uk: надпоріжник
     yue: 門楣
     zh: 过梁
-    zh-cn: 柱梁结构
-    zh-hant: 柱樑結構
+    zh_cn: 柱梁结构
+    zh_hant: 柱樑結構
 ---
 # [[Lintel]] 
 

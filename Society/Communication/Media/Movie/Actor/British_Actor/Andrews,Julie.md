@@ -52,7 +52,7 @@ dv_has_:
     azb: جولی اندروز
     bar: Julie Andrews
     be: Джулі Эндрус
-    be-tarask: Джулі Эндрус
+    be_tarask: Джулі Эндрус
     bg: Джули Андрюс
     bm: Julie Andrews
     bn: জুলি অ্যান্ড্রুজ
@@ -66,12 +66,12 @@ dv_has_:
     da: Julie Andrews
     de: Julie Andrews
     de-at: Julie Andrews
-    de-ch: Julie Andrews
+    de_ch: Julie Andrews
     diq: Julie Andrews
     el: Τζούλι Άντριους
     en: Julie Andrews
-    en-ca: Julie Andrews
-    en-gb: Julie Andrews
+    en_ca: Julie Andrews
+    en_gb: Julie Andrews
     eo: Julie Andrews
     es: Julie Andrews
     et: Julie Andrews
@@ -124,7 +124,7 @@ dv_has_:
     nap: Julie Andrews
     nb: Julie Andrews
     nds: Julie Andrews
-    nds-nl: Julie Andrews
+    nds_nl: Julie Andrews
     ne: जूली एंड्रयूज
     nl: Julie Andrews
     nn: Julie Andrews
@@ -138,7 +138,7 @@ dv_has_:
     pnb: جولی اینڈریوز
     prg: Julie Andrews
     pt: Julie Andrews
-    pt-br: Julie Andrews
+    pt_br: Julie Andrews
     qu: Julie Andrews
     rgn: Julie Andrews
     rm: Julie Andrews
@@ -152,13 +152,13 @@ dv_has_:
     sl: Julie Andrews
     sq: Julie Andrews
     sr: Џули Ендруз
-    sr-ec: Џули Ендруз
-    sr-el: Džuli Endruz
+    sr_ec: Џули Ендруз
+    sr_el: Džuli Endruz
     sv: Julie Andrews
     sw: Julie Andrews
     ta: யூலி ஆண்ட்ரூசு
     tg: Ҷулие Андреус
-    tg-latn: Çulie Andreus
+    tg_latn: Çulie Andreus
     th: จูลี่ แอนดรูว์ส
     tl: Julie Andrews
     tr: Julie Andrews
@@ -178,13 +178,13 @@ dv_has_:
     yo: Julie Andrews
     yue: 茱莉安德絲
     zh: 茱莉·安德絲
-    zh-cn: 朱莉·安德鲁斯
-    zh-hans: 茱莉·安德丝
-    zh-hant: 茱莉·安德絲
-    zh-hk: 茱莉·安德絲
+    zh_cn: 朱莉·安德鲁斯
+    zh_hans: 茱莉·安德丝
+    zh_hant: 茱莉·安德絲
+    zh_hk: 茱莉·安德絲
     zh-my: 茱莉·安德鲁丝
-    zh-sg: 朱丽·安德鲁斯
-    zh-tw: 茱莉·安德魯絲
+    zh_sg: 朱丽·安德鲁斯
+    zh_tw: 茱莉·安德魯絲
     zu: Julie Andrews
 ---
 ## #has_/text_of_/abstract 

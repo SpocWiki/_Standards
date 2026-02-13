@@ -419,7 +419,7 @@ dv_has_:
     bar: Atlantischa Ozean
     bcl: Kadagatan Atlantiko
     be: Атлантычны акіян
-    be-tarask: Атлянтычны акіян
+    be_tarask: Атлянтычны акіян
     bew: Laotan Atlantik
     bg: Атлантически океан
     bho: अटलांटिक महासागर
@@ -440,21 +440,21 @@ dv_has_:
     ckb: ئۆقیانووسی ئەتلانتیک
     co: oceanu Atlanticu
     crh: Atlantik okeanı
-    crh-latn: Atlantik okean
+    crh_latn: Atlantik okean
     cs: Atlantský oceán
     cv: Атлантика океанĕ
     cy: Cefnfor yr Iwerydd
     da: Atlanterhavet
     de: Atlantischer Ozean
-    de-ch: Atlantischer Ozean
+    de_ch: Atlantischer Ozean
     diq: Okyanuso Atlantik
     dsb: Atlantiski ocean
     dty: आन्ध्र महासागर
     el: Ατλαντικός Ωκεανός
     eml: Ucéan Atlàntic
     en: Atlantic Ocean
-    en-ca: Atlantic Ocean
-    en-gb: Atlantic Ocean
+    en_ca: Atlantic Ocean
+    en_gb: Atlantic Ocean
     eo: Atlantiko
     es: Océano Atlántico
     et: Atlandi ookean
@@ -553,7 +553,7 @@ dv_has_:
     mr: अटलांटिक महासागर
     mrj: Атланти океан
     ms: Lautan Atlantik
-    ms-arab: لاءوتن اتلنتيک
+    ms_arab: لاءوتن اتلنتيک
     mt: Oċean Atlantiku
     mwl: Ouceano Atlántico
     my: အတ္တလန္တိတ်သမုဒ္ဒရာ
@@ -565,7 +565,7 @@ dv_has_:
     nap: Oceano Atlanteco
     nb: Atlanterhavet
     nds: Atlantik
-    nds-nl: Atlantische Ozeoan
+    nds_nl: Atlantische Ozeoan
     ne: एटलान्टिक महासागर
     new: एट्लान्टिक महासागर
     nl: Atlantische Oceaan
@@ -587,7 +587,7 @@ dv_has_:
     pnb: بحر اوقیانوس
     ps: اتلانتيک سمندر
     pt: Oceano Atlântico
-    pt-br: Oceano Atlântico
+    pt_br: Oceano Atlântico
     qu: Atlantiku mama qucha
     rm: Ocean Atlantic
     ro: Oceanul Atlantic
@@ -615,7 +615,7 @@ dv_has_:
     so: Badweynta Atlaantik
     sq: Oqeani Atlantik
     sr: Атлантски океан
-    sr-ec: Атлантски океан
+    sr_ec: Атлантски океан
     st: Atlantic Ocean
     stq: Atlantiske Ozean
     su: Samudra Atlantik
@@ -632,7 +632,7 @@ dv_has_:
     tpi: Solwara Atlantik
     tr: Atlas Okyanusu
     tt: Атлантик океан
-    tt-cyrl: Атлантик океан
+    tt_cyrl: Атлантик океан
     tyv: Атлант океан
     udm: Атлантической океан
     ug: ئاتلانتىك ئوكيان
@@ -657,14 +657,14 @@ dv_has_:
     zea: Atlantischen Oceaon
     zgh: ⴰⴳⴰⵔⴰⵡ ⴰⵟⵍⴰⵙⵉ
     zh: 大西洋
-    zh-cn: 大西洋
-    zh-hans: 大西洋
-    zh-hant: 大西洋
-    zh-hk: 大西洋
-    zh-mo: 大西洋
+    zh_cn: 大西洋
+    zh_hans: 大西洋
+    zh_hant: 大西洋
+    zh_hk: 大西洋
+    zh_mo: 大西洋
     zh-my: 大西洋
-    zh-sg: 大西洋
-    zh-tw: 大西洋
+    zh_sg: 大西洋
+    zh_tw: 大西洋
 ---
 # [[Ocean~Atlantic]] 
 

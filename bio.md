@@ -267,7 +267,7 @@ dv_has_:
     bbc: Biologi
     bcl: biyolohiya
     be: біялогія
-    be-tarask: біялёгія
+    be_tarask: біялёгія
     bew: Èlmu hayat
     bg: биология
     bho: जीवविज्ञान
@@ -282,7 +282,7 @@ dv_has_:
     bug: ᨅᨗᨐᨚᨒᨚᨁᨗ
     bxr: биологи
     ca: biologia
-    cbk-zam: Biologia
+    cbk_zam: Biologia
     cdo: sĕng-ŭk-hŏk
     ce: биологи
     ceb: biyolohiya
@@ -291,7 +291,7 @@ dv_has_:
     ckb: ژینناسی
     co: biologia
     crh: ayatiyat
-    crh-latn: ayatiyat
+    crh_latn: ayatiyat
     crh-ro: ómírbílímí
     cs: biologie
     csb: biologijô
@@ -305,8 +305,8 @@ dv_has_:
     dv: ދިރުމާބެހޭ އިލްމު
     el: βιολογία
     en: biology
-    en-ca: biology
-    en-gb: biology
+    en_ca: biology
+    en_gb: biology
     eo: biologio
     es: biología
     et: bioloogia
@@ -393,7 +393,7 @@ dv_has_:
     mad: biologi
     mag: जीवविज्ञान
     mai: जीवशास्त्र
-    map-bms: Biologi
+    map_bms: Biologi
     mg: biolojia
     mhr: биологий
     mi: pūtaiao koiora
@@ -404,7 +404,7 @@ dv_has_:
     mni: ꯊꯋꯥꯢꯄꯥꯟꯕ ꯅꯩꯅꯂꯣꯟ
     mr: जीवशास्त्र
     ms: kaji hayat
-    ms-arab: کاجي حيات
+    ms_arab: کاجي حيات
     mt: bijoloġija
     mwl: biologie
     my: ဇီဝဗေဒ
@@ -414,7 +414,7 @@ dv_has_:
     nap: biologgia
     nb: biologi
     nds: Biologie
-    nds-nl: biologie
+    nds_nl: biologie
     ne: जीवशास्त्र
     new: जीवशास्त्र
     nl: biologie
@@ -439,7 +439,7 @@ dv_has_:
     pnb: جیون پڑھت
     ps: ژونپوهنه
     pt: biologia
-    pt-br: biologia
+    pt_br: biologia
     qu: kawsay yachay
     rki: ဇီဝဗေဒ
     rm: biologia
@@ -471,7 +471,7 @@ dv_has_:
     so: bayoloji
     sq: biologji
     sr: биологија
-    sr-ec: биологија
+    sr_ec: биологија
     ss: Ibhayoloji
     st: baeloji
     stq: Biologie
@@ -484,7 +484,7 @@ dv_has_:
     te: జీవ శాస్త్రం
     tet: biolojia
     tg: зистшиносӣ
-    tg-cyrl: биология
+    tg_cyrl: биология
     th: ชีววิทยา
     ti: ባዮሎጂ
     tk: biologiýa
@@ -518,11 +518,11 @@ dv_has_:
     zea: biologie
     zgh: ⵜⴰⵙⵏⵓⴷⵔⵜ
     zh: 生物学
-    zh-cn: 生物学
-    zh-hans: 生物学
-    zh-hant: 生物學
-    zh-hk: 生物學
-    zh-tw: 生物學
+    zh_cn: 生物学
+    zh_hans: 生物学
+    zh_hant: 生物學
+    zh_hk: 生物學
+    zh_tw: 生物學
     zu: Ibhayoloji
 ---
 # [[bio]] 

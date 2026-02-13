@@ -107,7 +107,7 @@ dv_has_:
     az: İonlaşma
     bcl: Iyonisasyon
     be: iанізацыя
-    be-tarask: іянізацыя
+    be_tarask: іянізацыя
     bg: Йонизация
     bn: আয়নন
     bs: Ionizacija
@@ -162,8 +162,8 @@ dv_has_:
     sl: ionizacija
     sn: Nondekedzo
     sr: јонизација
-    sr-ec: Јонизација
-    sr-el: Jonizacija
+    sr_ec: Јонизација
+    sr_el: Jonizacija
     sv: jonisering
     ta: அயனாக்கம்
     te: అయనీకరణ
@@ -178,12 +178,12 @@ dv_has_:
     wuu: 电离
     yue: 電離
     zh: 电离
-    zh-cn: 电离
-    zh-hans: 电离
-    zh-hant: 電離
-    zh-hk: 電離
-    zh-sg: 电离
-    zh-tw: 電離
+    zh_cn: 电离
+    zh_hans: 电离
+    zh_hant: 電離
+    zh_hk: 電離
+    zh_sg: 电离
+    zh_tw: 電離
 ---
 # [[Ionization]] 
 

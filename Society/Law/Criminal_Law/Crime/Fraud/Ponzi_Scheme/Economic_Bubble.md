@@ -72,7 +72,7 @@ dv_has_:
     ar: فقاعة اقتصادية
     az: İqtisadi köpük
     be: спекулятыўная бурбалка
-    be-tarask: спэкулятыўная бурбалка
+    be_tarask: спэкулятыўная бурбалка
     bg: Икономически балон
     ca: bombolla econòmica
     cs: ekonomická bublina
@@ -121,12 +121,12 @@ dv_has_:
     vi: bong bóng kinh tế
     yue: 經濟泡沫
     zh: 泡沫经济
-    zh-cn: 泡沫经济
-    zh-hans: 泡沫经济
-    zh-hant: 泡沫經濟
-    zh-hk: 泡沫經濟
-    zh-sg: 泡沫经济
-    zh-tw: 泡沫經濟
+    zh_cn: 泡沫经济
+    zh_hans: 泡沫经济
+    zh_hant: 泡沫經濟
+    zh_hk: 泡沫經濟
+    zh_sg: 泡沫经济
+    zh_tw: 泡沫經濟
 ---
 # [[Economic_Bubble]] 
 

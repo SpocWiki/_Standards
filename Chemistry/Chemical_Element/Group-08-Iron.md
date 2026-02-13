@@ -84,7 +84,7 @@ dv_has_:
     ast: Elementos del grupu 8
     az: Dövri sistemin 8-ci qrupu
     ban: datu golongan 8
-    be-tarask: 8-я група
+    be_tarask: 8-я група
     bg: Група 8 на периодичната система
     bn: অষ্টম শ্রেণীর মৌল
     bs: 8. grupa hemijskih elemenata
@@ -131,25 +131,25 @@ dv_has_:
     so: Guruubka 8
     sq: Grupi i tetë i elementeve kimike
     sr: 8. група хемијских елемената
-    sr-ec: 8. група хемијских елемената
-    sr-el: 8. grupa hemijskih elemenata
+    sr_ec: 8. група хемијских елемената
+    sr_el: 8. grupa hemijskih elemenata
     sv: grupp 8
     ta: நெடுங்குழு 8 தனிமங்கள்
     te: గ్రూప్ 8 మూలకం
     th: ธาตุหมู่ 8
     tt: тимер астөркеме
-    tt-cyrl: тимер астөркеме
+    tt_cyrl: тимер астөркеме
     uk: родина заліза
     vi: nhóm nguyên tố 8
     wuu: 8族元素
     yue: 8族元素
     zh: 8族元素
-    zh-cn: 8族元素
-    zh-hans: 8族元素
-    zh-hant: 8族元素
-    zh-hk: 8族元素
-    zh-sg: 8族元素
-    zh-tw: 8族元素
+    zh_cn: 8族元素
+    zh_hans: 8族元素
+    zh_hant: 8族元素
+    zh_hk: 8族元素
+    zh_sg: 8族元素
+    zh_tw: 8族元素
 ---
 #chemic/Group 
 

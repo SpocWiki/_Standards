@@ -130,7 +130,7 @@ dv_has_:
     azb: کونراد لورنتس
     bar: Konrad Lorenz
     be: Конрад Лорэнц
-    be-tarask: Конрад Лёрэнц
+    be_tarask: Конрад Лёрэнц
     bg: Конрад Лоренц
     bn: কনরাড লরেঞ্জ
     bs: Konrad Lorenz
@@ -191,7 +191,7 @@ dv_has_:
     pl: Konrad Lorenz
     pnb: کونراڈ لورینز
     pt: Konrad Lorenz
-    pt-br: Konrad Lorenz
+    pt_br: Konrad Lorenz
     rm: Konrad Lorenz
     ro: Konrad Lorenz
     ru: Конрад Лоренц

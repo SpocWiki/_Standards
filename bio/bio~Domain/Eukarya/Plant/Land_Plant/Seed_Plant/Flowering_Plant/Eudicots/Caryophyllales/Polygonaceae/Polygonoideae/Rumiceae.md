@@ -40,7 +40,7 @@ dv_has_:
     oc: Rumiceae
     pl: Rumiceae
     pt: Rumiceae
-    pt-br: Rumiceae
+    pt_br: Rumiceae
     ro: Rumiceae
     ru: Rumiceae
     sl: Rumiceae

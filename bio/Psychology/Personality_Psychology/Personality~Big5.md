@@ -52,8 +52,8 @@ dv_has_:
     de: Big Five
     el: Μοντέλο των 5 παραγόντων
     en: Big Five personality traits
-    en-ca: Big Five personality traits
-    en-gb: Big Five personality traits
+    en_ca: Big Five personality traits
+    en_gb: Big Five personality traits
     eo: Kvin Grandaj Faktoroj de Personeco
     es: Modelo de los cinco grandes
     et: Suur viisik
@@ -76,7 +76,7 @@ dv_has_:
     nl: Big Five
     pl: Wielka piątka
     pt: Big Five
-    pt-br: Big Five
+    pt_br: Big Five
     ro: Big Five
     ru: Большая пятёрка
     sk: Big Five model

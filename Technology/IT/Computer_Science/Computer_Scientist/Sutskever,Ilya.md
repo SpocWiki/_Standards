@@ -53,7 +53,7 @@ dv_has_:
     pl: Ilya Sutskever
     ps: الیا سوتسکیور
     pt: Ilya Sutskever
-    pt-br: Ilya Sutskever
+    pt_br: Ilya Sutskever
     ru: Илья Ефимович Суцкевер
     sl: Ilya Sutskever
     sq: Ilya Sutskever
@@ -62,7 +62,7 @@ dv_has_:
     uk: Ілля Суцкевер
     uz: Ilya Sutskever
     zh: 伊爾亞·蘇茨克維
-    zh-hant: 伊爾亞·蘇茨克維
+    zh_hant: 伊爾亞·蘇茨克維
 ---
 # [[Sutskever,Ilya]] 
 

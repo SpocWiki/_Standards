@@ -668,7 +668,7 @@ dv_has_:
     ab: Зеландиа ҿыц
     ace: Seulandia Barô
     ady: Зеландие КIэрэ
-    aeb-arab: نيوزيلندا
+    aeb_arab: نيوزيلندا
     af: Nieu-Seeland
     am: ኒው ዚላንድ
     ami: New Zealand
@@ -691,7 +691,7 @@ dv_has_:
     bbc: Selandia Baru
     bcl: Nueva Zelanda
     be: Новая Зеландыя
-    be-tarask: Новая Зэляндыя
+    be_tarask: Новая Зэляндыя
     bew: Niu-Sélan
     bg: Нова Зеландия
     bho: न्यूजीलैंड
@@ -705,7 +705,7 @@ dv_has_:
     btm: Selandia Baru
     bxr: Шэнэ Зеланд
     ca: Nova Zelanda
-    cbk-zam: Nueva Zelanda
+    cbk_zam: Nueva Zelanda
     cdo: New Zealand
     ce: Керла Зеланди
     ceb: Bag·ong Selanda
@@ -716,7 +716,7 @@ dv_has_:
     co: Nova Zilanda
     cr: ᓂᐅ ᓯᐊᐧᐣ
     crh: Yañı Zelandiya
-    crh-latn: Yañı Zelandiya
+    crh_latn: Yañı Zelandiya
     cs: Nový Zéland
     csb: Nowô Zelandzkô
     cu: Новъ Ꙁєландъ
@@ -726,7 +726,7 @@ dv_has_:
     dag: New Zealand
     de: Neuseeland
     de-at: Neuseeland
-    de-ch: Neuseeland
+    de_ch: Neuseeland
     din: New Zealand
     diq: Zelandaya Newiye
     dsb: Nowoseelandska
@@ -738,8 +738,8 @@ dv_has_:
     el: Νέα Ζηλανδία
     eml: Śelànda Nóva
     en: New Zealand
-    en-ca: New Zealand
-    en-gb: New Zealand
+    en_ca: New Zealand
+    en_gb: New Zealand
     eo: Nov-Zelando
     es: Nueva Zelanda
     et: Uus-Meremaa
@@ -764,7 +764,7 @@ dv_has_:
     gn: Selánda Pyahu
     gom: न्यूझीलंड
     gom-deva: न्यूझीलंड
-    gom-latn: New Zealand
+    gom_latn: New Zealand
     got: "\U0001033D\U00010339\U0001033F\U0001033E\U00010330 \U00010343\U00010330\U00010339\U00010345\U00010330\U0001033B\U00010330\U0001033D\U00010333"
     gpe: New Zealand
     gsw: Neuseeland
@@ -842,7 +842,7 @@ dv_has_:
     mr: न्यू झीलँड
     mrj: У Зеланди
     ms: New Zealand
-    ms-arab: نيو زيلند
+    ms_arab: نيو زيلند
     mt: New Zealand
     mwl: Nuoba Zelándia
     my: နယူးဇီလန်နိုင်ငံ
@@ -854,7 +854,7 @@ dv_has_:
     nap: Nòva Zëlanna
     nb: New Zealand
     nds: Niegseeland
-    nds-nl: Ni'j-Zeelaand
+    nds_nl: Ni'j-Zeelaand
     ne: न्यु जिल्यान्ड
     new: न्यु जिल्यान्द
     nl: Nieuw-Zeeland
@@ -882,7 +882,7 @@ dv_has_:
     pnt: Νέα Ζηλανδία
     ps: نيوزيلينډ
     pt: Nova Zelândia
-    pt-br: Nova Zelândia
+    pt_br: Nova Zelândia
     qu: Musuq Silanda
     rm: Nova Zelanda
     rmy: Nevo Zealand
@@ -916,8 +916,8 @@ dv_has_:
     so: New Zealand
     sq: Zelanda e Re
     sr: Нови Зеланд
-    sr-ec: Нови Зеланд
-    sr-el: Novi Zeland
+    sr_ec: Нови Зеланд
+    sr_el: Novi Zeland
     stq: Näi-Seelound
     su: Selandia Anyar
     sv: Nya Zeeland
@@ -942,8 +942,8 @@ dv_has_:
     tr: Yeni Zelanda
     trv: New Zealand
     tt: Яңа Зеландия
-    tt-cyrl: Яңа Зеландия
-    tt-latn: Yaña Zelandiä
+    tt_cyrl: Яңа Зеландия
+    tt_latn: Yaña Zelandiä
     tum: New Zealand
     tw: New Zealand
     ty: Aotearoa
@@ -971,12 +971,12 @@ dv_has_:
     za: Saen Saelanz
     zea: Nieuw-Zeêland
     zh: 新西兰
-    zh-cn: 新西兰
-    zh-hans: 新西兰
-    zh-hant: 新西蘭
-    zh-hk: 新西蘭
-    zh-sg: 新西兰
-    zh-tw: 紐西蘭
+    zh_cn: 新西兰
+    zh_hans: 新西兰
+    zh_hant: 新西蘭
+    zh_hk: 新西蘭
+    zh_sg: 新西兰
+    zh_tw: 紐西蘭
     zu: INyuzilandi
   url_for_:
     code_repository: https://github.com/SpocWiki/Australia-New_Zealand

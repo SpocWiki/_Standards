@@ -92,14 +92,14 @@ dv_has_:
     pl: Świat to za mało
     pnb: دا ورلڈ از ناٹ اینف
     pt: The World Is Not Enough
-    pt-br: 007 - O Mundo Não é o Bastante
+    pt_br: 007 - O Mundo Não é o Bastante
     ro: Lumea nu e de ajuns
     ru: И целого мира мало
     sh: The World Is Not Enough
     sk: 'James Bond: Jeden svet nestačí'
     sr: Свет није довољан
-    sr-ec: Свет није довољан
-    sr-el: Svet nije dovoljan
+    sr_ec: Свет није довољан
+    sr_el: Svet nije dovoljan
     sv: Världen räcker inte till
     th: 007 พยัคฆ์ร้ายดับแผนครองโลก
     tr: Dünya Yetmez
@@ -110,12 +110,12 @@ dv_has_:
     xmf: მოსოფელით ვარე დასაბაღი
     yue: 新鐵金剛之黑日危機
     zh: 新鐵金剛之黑日危機
-    zh-cn: 黑日危机
-    zh-hans: 黑日危机
-    zh-hant: 新鐵金剛之黑日危機
-    zh-hk: 新鐵金剛之黑日危機
-    zh-sg: 007纵横天下
-    zh-tw: 縱橫天下
+    zh_cn: 黑日危机
+    zh_hans: 黑日危机
+    zh_hant: 新鐵金剛之黑日危機
+    zh_hk: 新鐵金剛之黑日危機
+    zh_sg: 007纵横天下
+    zh_tw: 縱橫天下
 ---
 ## #has_/text_of_/abstract 
 

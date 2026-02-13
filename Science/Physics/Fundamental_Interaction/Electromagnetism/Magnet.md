@@ -16,7 +16,7 @@ dv_has_:
     bar: Magnet
     bbc: Bosi Barani
     be: магніт
-    be-tarask: магніт
+    be_tarask: магніт
     bg: Магнит
     bn: চুম্বক
     bs: Magnet
@@ -68,7 +68,7 @@ dv_has_:
     ks: مؠقناطیٖس
     ksh: Mangneet
     ku: Kişanek
-    ku-latn: Kişanek
+    ku_latn: Kişanek
     ky: Магнит
     la: Magnes
     li: Magneet
@@ -121,8 +121,8 @@ dv_has_:
     sms: magneʹtt
     sq: Magneti
     sr: магнет
-    sr-ec: магнет
-    sr-el: magnet
+    sr_ec: магнет
+    sr_el: magnet
     su: Magnét
     sv: magnet
     sw: Sumaku

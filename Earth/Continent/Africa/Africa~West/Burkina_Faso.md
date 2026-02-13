@@ -483,7 +483,7 @@ dv_has_:
     ab: Буркина-Фасо
     ace: Burkina Faso
     ady: Буркина-Фасо
-    aeb-arab: بوركينا فاسو
+    aeb_arab: بوركينا فاسو
     af: Burkina Faso
     am: ቡርኪና ፋሶ
     ami: Burkina faso
@@ -505,7 +505,7 @@ dv_has_:
     bar: Burkina Faso
     bcl: Burkina Faso
     be: Буркіна-Фасо
-    be-tarask: Буркіна-Фасо
+    be_tarask: Буркіна-Фасо
     bew: Burkina Paso
     bg: Буркина Фасо
     bgn: بورکینا پاسو
@@ -520,7 +520,7 @@ dv_has_:
     bs: Burkina Faso
     bxr: Буркино-Фасо
     ca: Burkina Faso
-    cbk-zam: Burkina Faso
+    cbk_zam: Burkina Faso
     cdo: Burkina Faso
     ce: Буркина Фасо
     ceb: Burkina Faso
@@ -528,7 +528,7 @@ dv_has_:
     ckb: بورکینا فاسۆ
     co: Burkina Faso
     crh: Burkina Faso
-    crh-latn: Burkina Faso
+    crh_latn: Burkina Faso
     cs: Burkina Faso
     csb: Bùrkina Faso
     cv: Буркина Фасо
@@ -537,7 +537,7 @@ dv_has_:
     dag: Burkina Faso
     de: Burkina Faso
     de-at: Burkina Faso
-    de-ch: Burkina Faso
+    de_ch: Burkina Faso
     dga: Burkina Faso
     diq: Burkina Faso
     dsb: Burkina Faso
@@ -546,8 +546,8 @@ dv_has_:
     ee: Burkina Faso
     el: Μπουρκίνα Φάσο
     en: Burkina Faso
-    en-ca: Burkina Faso
-    en-gb: Burkina Faso
+    en_ca: Burkina Faso
+    en_gb: Burkina Faso
     en-us: Burkina Faso
     eo: Burkino
     es: Burkina Faso
@@ -632,7 +632,7 @@ dv_has_:
     lv: Burkinafaso
     lzh: 布基納法索
     mai: बुर्किना फासो
-    map-bms: Burkina Faso
+    map_bms: Burkina Faso
     mdf: Буркина-Фасо
     mg: Borkina Faso
     mhr: Буркина Фасо
@@ -655,7 +655,7 @@ dv_has_:
     nan: Burkina Faso
     nb: Burkina Faso
     nds: Burkina Faso
-    nds-nl: Burkina Faso
+    nds_nl: Burkina Faso
     ne: बुर्किना फासो
     new: बुर्किना फासो
     nl: Burkina Faso
@@ -679,7 +679,7 @@ dv_has_:
     pnb: برکینا فاسو
     ps: بورکينا فاسو
     pt: Burquina Fasso
-    pt-br: Burquina Fasso
+    pt_br: Burquina Fasso
     qu: Burkina Phasu
     rm: Burkina Faso
     rmy: Burkina Faso
@@ -712,8 +712,8 @@ dv_has_:
     so: Burkina Faso
     sq: Burkina Faso
     sr: Буркина Фасо
-    sr-ec: Буркина Фасо
-    sr-el: Burkina Faso
+    sr_ec: Буркина Фасо
+    sr_el: Burkina Faso
     ss: IBhukhina-Faso
     st: Burkina Faso
     stq: Burkina Faso
@@ -727,7 +727,7 @@ dv_has_:
     tay: Burkina faso
     te: బర్కీనా ఫాసో
     tg: Буркина-Фасо
-    tg-latn: Burkina-Faso
+    tg_latn: Burkina-Faso
     th: ประเทศบูร์กินาฟาโซ
     ti: ቡርኪና ፋሶ
     tk: Burkina Faso
@@ -764,14 +764,14 @@ dv_has_:
     zea: Burkina Faso
     zgh: ⴱⵓⵔⴽⵉⵏⴰ ⴼⴰⵙⵓ
     zh: 布吉納法索
-    zh-cn: 布基纳法索
-    zh-hans: 布基纳法索
-    zh-hant: 布吉納法索
-    zh-hk: 布基納法索
-    zh-mo: 布基納法索
+    zh_cn: 布基纳法索
+    zh_hans: 布基纳法索
+    zh_hant: 布吉納法索
+    zh_hk: 布基納法索
+    zh_mo: 布基納法索
     zh-my: 布基纳法索
-    zh-sg: 布基纳法索
-    zh-tw: 布吉納法索
+    zh_sg: 布基纳法索
+    zh_tw: 布吉納法索
     zu: IBukhina Faso
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Burkina_Faso

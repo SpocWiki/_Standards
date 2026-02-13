@@ -125,7 +125,7 @@ dv_has_:
     az: Fransua Trüffo
     azb: فرانسوا تروفو
     be: Франсуа Труфо
-    be-tarask: Франсуа Труфо
+    be_tarask: Франсуа Труфо
     bg: Франсоа Трюфо
     bn: ফ্রঁসোয়া ত্রুফো
     br: François Truffaut
@@ -137,8 +137,8 @@ dv_has_:
     de: François Truffaut
     el: Φρανσουά Τριφό
     en: François Truffaut
-    en-ca: François Truffaut
-    en-gb: François Truffaut
+    en_ca: François Truffaut
+    en_gb: François Truffaut
     eo: François Truffaut
     es: François Truffaut
     et: François Truffaut
@@ -185,7 +185,7 @@ dv_has_:
     pl: François Truffaut
     pms: François Truffaut
     pt: François Truffaut
-    pt-br: François Truffaut
+    pt_br: François Truffaut
     qu: François Truffaut
     ro: François Truffaut
     ru: Франсуа Трюффо
@@ -205,13 +205,13 @@ dv_has_:
     wuu: 弗朗索瓦·特吕弗
     yue: 杜魯福
     zh: 法蘭索瓦·杜魯福
-    zh-cn: 弗朗索瓦·特吕弗
-    zh-hans: 弗朗索瓦·特吕弗
-    zh-hant: 法蘭索瓦·杜魯福
-    zh-hk: 法蘭索瓦·杜魯福
+    zh_cn: 弗朗索瓦·特吕弗
+    zh_hans: 弗朗索瓦·特吕弗
+    zh_hant: 法蘭索瓦·杜魯福
+    zh_hk: 法蘭索瓦·杜魯福
     zh-my: 杜鲁福
-    zh-sg: 杜鲁福
-    zh-tw: 佛杭蘇瓦·楚浮
+    zh_sg: 杜鲁福
+    zh_tw: 佛杭蘇瓦·楚浮
 ---
 # [[Truffaut,François]] 
 

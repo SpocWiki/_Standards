@@ -16,8 +16,8 @@ dv_has_:
     cs: Chlorobiota
     de: Chlorobiota
     en: Green sulfur bacteria
-    en-ca: Green sulfur bacteria
-    en-gb: Green sulfur bacteria
+    en_ca: Green sulfur bacteria
+    en_gb: Green sulfur bacteria
     eo: Chlorobiota
     es: Chlorobiota
     eu: Chlorobiota
@@ -37,7 +37,7 @@ dv_has_:
     oc: Chlorobiota
     pl: Chlorobiota
     pt: Chlorobiota
-    pt-br: Chlorobiota
+    pt_br: Chlorobiota
     ro: Chlorobiota
     ru: Chlorobiota
     scn: Chlorobiota

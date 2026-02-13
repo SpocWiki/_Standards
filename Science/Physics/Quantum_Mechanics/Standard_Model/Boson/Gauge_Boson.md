@@ -75,7 +75,7 @@ dv_has_:
     ar: بوزون عياري
     ast: bosón de gauge
     be: калібровачны базон
-    be-tarask: калібравальны базон
+    be_tarask: калібравальны базон
     bg: калибровъчен бозон
     bn: গেজ বোসন
     bs: baždarni bozoni
@@ -114,7 +114,7 @@ dv_has_:
     nn: justerboson
     pl: bozon cechowania
     pt: bosão de gauge
-    pt-br: bóson de calibre
+    pt_br: bóson de calibre
     ro: boson gauge
     ru: калибровочный бозон
     scn: busoni di gauge
@@ -135,12 +135,12 @@ dv_has_:
     wuu: 规范玻色子
     yue: 規範玻色子
     zh: 规范玻色子
-    zh-cn: 规范玻色子
-    zh-hans: 规范玻色子
-    zh-hant: 規範玻色子
-    zh-hk: 規範玻色子
-    zh-sg: 规范玻色子
-    zh-tw: 規範玻色子
+    zh_cn: 规范玻色子
+    zh_hans: 规范玻色子
+    zh_hant: 規範玻色子
+    zh_hk: 規範玻色子
+    zh_sg: 规范玻色子
+    zh_tw: 規範玻色子
 ---
 # [[Gauge_Boson]] 
 

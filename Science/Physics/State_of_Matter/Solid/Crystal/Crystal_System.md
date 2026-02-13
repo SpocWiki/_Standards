@@ -66,17 +66,17 @@ dv_has_:
     ast: Sistema cristalín
     az: Kristalloqrafik sinqoniya
     be: сінгонія
-    be-tarask: крышталічная сыстэма
+    be_tarask: крышталічная сыстэма
     bg: Уикипедия:Инкубатор/Статии/Сингония
     bs: Kristalni sistem
     ca: sistema cristal·lí
     cs: krystalografická soustava
     de: Kristallsystem
-    de-ch: Kristallsystem
+    de_ch: Kristallsystem
     el: Κρυσταλλικό σύστημα
     en: crystal system
-    en-ca: Crystal system
-    en-gb: crystal system
+    en_ca: Crystal system
+    en_gb: crystal system
     eo: kristalsistemo
     es: sistema cristalino
     et: Süngoonia
@@ -91,9 +91,9 @@ dv_has_:
     ja: 結晶系
     ka: სინგონია
     kk: Сингония
-    kk-arab: سىينگونىييا
-    kk-cyrl: Сингония
-    kk-latn: Sïngonïya
+    kk_arab: سىينگونىييا
+    kk_cyrl: Сингония
+    kk_latn: Sïngonïya
     ko: 결정계
     ky: Сингония
     la: systema crystallinum
@@ -101,13 +101,13 @@ dv_has_:
     lv: singonija
     mk: кристален систем
     ms: sistem hablur
-    ms-arab: سيستم هبلور
+    ms_arab: سيستم هبلور
     nb: krystallsystem
     nl: kristalstelsel
     nn: krystallsystem
     pl: układ krystalograficzny
     pt: sistema cristalino
-    pt-br: Sistema cristalino
+    pt_br: Sistema cristalino
     ro: Sistem de cristalizare
     ru: кристаллическая система
     scn: sistema cristallinu
@@ -116,16 +116,16 @@ dv_has_:
     sk: Kryštálová sústava
     sl: kristalni sistem
     sr: кристална система
-    sr-ec: кристална система
-    sr-el: kristalna sistema
+    sr_ec: кристална система
+    sr_el: kristalna sistema
     tr: kristal yapı
     uk: сингонія
     vec: sistema cristałin
     vi: hệ tinh thể
     zh: 晶系
-    zh-hans: 晶系
-    zh-hant: 晶系
-    zh-hk: 晶系
+    zh_hans: 晶系
+    zh_hant: 晶系
+    zh_hk: 晶系
 ---
 # [[Crystal_System]] 
 

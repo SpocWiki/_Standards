@@ -162,7 +162,7 @@ dv_has_:
     ban: Tantalum
     bcl: Tantalo
     be: тантал
-    be-tarask: танталь
+    be_tarask: танталь
     bg: тантал
     bho: टैंटलम
     bn: ট্যানটালাম
@@ -238,7 +238,7 @@ dv_has_:
     mr: टांटालम
     mrj: Тантал
     ms: tantalum
-    ms-arab: تنتالوم
+    ms_arab: تنتالوم
     mt: tantalu
     my: တန္တလမ်
     myv: Тантал
@@ -260,7 +260,7 @@ dv_has_:
     pnb: ٹینٹالم
     ps: تانتاليوم
     pt: tântalo
-    pt-br: tântalo
+    pt_br: tântalo
     qu: Tantalyu
     ro: tantal
     ru: тантал
@@ -298,11 +298,11 @@ dv_has_:
     yo: Tantalum
     yue: 鉭
     zh: 鉭
-    zh-cn: 钽
-    zh-hans: 钽
-    zh-hant: 鉭
-    zh-hk: 鉭
-    zh-tw: 鉭
+    zh_cn: 钽
+    zh_hans: 钽
+    zh_hant: 鉭
+    zh_hk: 鉭
+    zh_tw: 鉭
     zu: UmThulumbi
   number_of_:
     period: 6

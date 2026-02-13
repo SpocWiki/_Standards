@@ -26,7 +26,7 @@ dv_has_:
     az: Ralf Bakşi
     bar: Ralph Bakshi
     be: Ральф Бакшы
-    be-tarask: Ральф Бакшы
+    be_tarask: Ральф Бакшы
     bg: Ралф Бакши
     ca: Ralph Bakshi
     ckb: ڕالف بەکشی
@@ -55,7 +55,7 @@ dv_has_:
     pap: Ralph Bakshi
     pl: Ralph Bakshi
     pt: Ralph Bakshi
-    pt-br: Ralph Bakshi
+    pt_br: Ralph Bakshi
     ro: Ralph Bakshi
     ru: Ральф Бакши
     sl: Ralph Bakshi
@@ -66,12 +66,12 @@ dv_has_:
     uk: Ральф Бакши
     yo: Ralph Bakshi
     zh: 拉爾夫·巴克希
-    zh-cn: 拉尔夫·巴克希
-    zh-hans: 拉尔夫·巴克希
-    zh-hant: 拉爾夫·巴克希
-    zh-hk: 拉爾夫·巴克希
-    zh-sg: 拉尔夫·巴克希
-    zh-tw: 拉爾夫·巴克希
+    zh_cn: 拉尔夫·巴克希
+    zh_hans: 拉尔夫·巴克希
+    zh_hant: 拉爾夫·巴克希
+    zh_hk: 拉爾夫·巴克希
+    zh_sg: 拉尔夫·巴克希
+    zh_tw: 拉爾夫·巴克希
 ---
 # [[Bakshi,Ralph]] 
 

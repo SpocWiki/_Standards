@@ -125,7 +125,7 @@ dv_has_:
     azb: چو هسی
     ba: Чжу Си
     be: Чжу Сі
-    be-tarask: Чжу Сі
+    be_tarask: Чжу Сі
     bg: Джу Си
     bi: Zhu Xi
     bn: ঝু শি
@@ -143,11 +143,11 @@ dv_has_:
     cy: Zhu Xi
     da: Zhu Xi
     de: Zhu Xi
-    de-ch: Zhu Xi
+    de_ch: Zhu Xi
     el: Τσου Σι
     en: Zhu Xi
-    en-ca: Zhu Xi
-    en-gb: Zhu Xi
+    en_ca: Zhu Xi
+    en_gb: Zhu Xi
     en-us: Zhu Xi
     eo: Zhu Xi
     es: Zhu Xi
@@ -206,7 +206,7 @@ dv_has_:
     pnb: یو زی
     ps: چو شي
     pt: Zhu Xi
-    pt-br: Zhu Xi
+    pt_br: Zhu Xi
     ro: Zhu Xi
     roa-tara: Zhu Xi
     ru: Чжу Си
@@ -236,7 +236,7 @@ dv_has_:
     za: Cu Heih
     zh: 朱熹
     zh-hans: 朱熹
-    zh-hant: 朱熹
+    zh_hant: 朱熹
 ---
 ## #has_/text_of_/abstract 
 

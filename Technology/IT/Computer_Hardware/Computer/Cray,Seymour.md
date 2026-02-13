@@ -66,7 +66,7 @@ dv_has_:
     ast: Seymour Cray
     az: Seymur Krey
     azb: سیمور کری
-    be-tarask: Сэймур Крэй
+    be_tarask: Сэймур Крэй
     br: Seymour Cray
     bs: Seymour Cray
     ca: Seymour Cray
@@ -75,8 +75,8 @@ dv_has_:
     da: Seymour R. Cray
     de: Seymour Cray
     en: Seymour Cray
-    en-ca: Seymour Cray
-    en-gb: Seymour Cray
+    en_ca: Seymour Cray
+    en_gb: Seymour Cray
     es: Seymour Cray
     eu: Seymour Cray
     fa: سیمور کری
@@ -102,13 +102,13 @@ dv_has_:
     oc: Seymour Cray
     pl: Seymour Cray
     pt: Seymour Cray
-    pt-br: Seymour Cray
+    pt_br: Seymour Cray
     ru: Сеймур Крэй
     sl: Seymour Cray
     sq: Seymour Cray
     sr: Симор Креј
-    sr-ec: Симор Креј
-    sr-el: Simor Krej
+    sr_ec: Симор Креј
+    sr_el: Simor Krej
     sv: Seymour Cray
     tr: Seymour Cray
     uk: Сеймур Крей

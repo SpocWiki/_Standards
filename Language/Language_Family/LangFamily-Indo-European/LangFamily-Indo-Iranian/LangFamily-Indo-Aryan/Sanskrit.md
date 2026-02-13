@@ -244,7 +244,7 @@ exact_match:
 dv_has_:
   name_:
     ab: Асанскрит бызшәа
-    aeb-arab: السنسكريتي
+    aeb_arab: السنسكريتي
     af: Sanskrit
     am: ሳንስክሪት
     an: Sanscrito
@@ -263,7 +263,7 @@ dv_has_:
     bar: Sanskrit
     bcl: Sanskrito
     be: санскрыт
-    be-tarask: санскрыт
+    be_tarask: санскрыт
     bg: Санскрит
     bho: संस्कृत
     bn: সংস্কৃত ভাষা
@@ -290,7 +290,7 @@ dv_has_:
     dv: ސަންސްކްރިއްތް
     el: Σανσκριτική γλώσσα
     en: Sanskrit
-    en-gb: Sanskrit
+    en_gb: Sanskrit
     en-us: Sanskrit
     eo: sanskrito
     es: sánscrito
@@ -414,8 +414,8 @@ dv_has_:
     sl: sanskrt
     sq: Sanskrit
     sr: санскрит
-    sr-ec: санскрит
-    sr-el: sanskrit
+    sr_ec: санскрит
+    sr_el: sanskrit
     su: Basa Sangsakerta
     sv: sanskrit
     sw: Kisanskrit
@@ -431,7 +431,7 @@ dv_has_:
     tok: toki Sankita
     tr: Sanskritçe
     tt: санскрит теле
-    tt-cyrl: санскрит
+    tt_cyrl: санскрит
     tyv: Санскрит дыл
     udm: санскрит кыл
     uk: санскрит
@@ -450,10 +450,10 @@ dv_has_:
     yue: 梵文
     za: Vahfan
     zh: 梵语
-    zh-cn: 梵语
-    zh-hans: 梵语
-    zh-hant: 梵語
-    zh-tw: 梵語
+    zh_cn: 梵语
+    zh_hans: 梵语
+    zh_hant: 梵語
+    zh_tw: 梵語
 ---
 # [[Sanskrit]] 
 

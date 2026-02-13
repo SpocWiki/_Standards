@@ -191,7 +191,7 @@ dv_has_:
     bar: Hoibinsl
     bcl: rawis
     be: паўвостраў
-    be-tarask: паўвостраў
+    be_tarask: паўвостраў
     bg: полуостров
     bho: प्रायदीप
     bn: উপদ্বীপ
@@ -269,7 +269,7 @@ dv_has_:
     mn: хойг
     mr: द्वीपकल्प
     ms: semenanjung
-    ms-arab: سمننجوڠ
+    ms_arab: سمننجوڠ
     mt: peniżola
     mwl: península
     my: ကျွန်းဆွယ်
@@ -278,7 +278,7 @@ dv_has_:
     nan: poàn-tó
     nb: halvøy
     nds: Halfeiland
-    nds-nl: skiereilaand
+    nds_nl: skiereilaand
     ne: प्रायद्वीप
     nl: schiereiland
     nn: halvøy
@@ -312,7 +312,7 @@ dv_has_:
     sms: njargg
     sq: gadishulli
     sr: полуострво
-    sr-ec: полуострво
+    sr_ec: полуострво
     su: иobojong
     sv: halvö
     sw: rasi
@@ -326,7 +326,7 @@ dv_has_:
     tok: ma palisa lon poka telo
     tr: yarımada
     tt: ярымутрау
-    tt-cyrl: ярымутрау
+    tt_cyrl: ярымутрау
     udm: мукож
     uk: півострів
     ur: جزیرہ نما
@@ -342,13 +342,13 @@ dv_has_:
     yue: 半島
     za: buenqdauj
     zh: 半岛
-    zh-cn: 半岛
-    zh-hans: 半岛
-    zh-hant: 半島
-    zh-hk: 半島
-    zh-mo: 半島
-    zh-sg: 半岛
-    zh-tw: 半島
+    zh_cn: 半岛
+    zh_hans: 半岛
+    zh_hant: 半島
+    zh_hk: 半島
+    zh_mo: 半島
+    zh_sg: 半岛
+    zh_tw: 半島
 ---
 # [[Peninsula]] 
 

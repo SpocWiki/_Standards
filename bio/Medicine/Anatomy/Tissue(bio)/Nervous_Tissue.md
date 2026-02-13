@@ -93,7 +93,7 @@ dv_has_:
     az: Sinir toxuması
     ba: Нервы туҡымаһы
     be: нервовая тканка
-    be-tarask: нэрвовая тканка
+    be_tarask: нэрвовая тканка
     bg: Нервна тъкан
     bn: স্নায়বিক কলা
     bs: Nervno tkivo
@@ -125,8 +125,8 @@ dv_has_:
     kn: ನರ ಅಂಗಾಂಶ
     ko: 신경 조직
     ku: demareşane
-    ku-arab: تەڤنەکا برکێ
-    ku-latn: demareşane
+    ku_arab: تەڤنەکا برکێ
+    ku_latn: demareşane
     ky: Нерв тканы
     la: Textus nervosus
     lb: Nerventissu
@@ -148,8 +148,8 @@ dv_has_:
     sk: Nervové tkanivo
     sl: živčno tkivo
     sr: нервно ткиво
-    sr-ec: Нервно ткиво
-    sr-el: Nervno tkivo
+    sr_ec: Нервно ткиво
+    sr_el: Nervno tkivo
     sv: Nervvävnad
     ta: நரம்பு திசு
     tg: бофтаҳои асаб
@@ -163,12 +163,12 @@ dv_has_:
     xmf: ნერვული რშვილი
     yue: 神經組織
     zh: 神經組織
-    zh-cn: 神经组织
-    zh-hans: 神经组织
-    zh-hant: 神經組織
-    zh-hk: 神經組織
-    zh-sg: 神经组织
-    zh-tw: 神經組織
+    zh_cn: 神经组织
+    zh_hans: 神经组织
+    zh_hant: 神經組織
+    zh_hk: 神經組織
+    zh_sg: 神经组织
+    zh_tw: 神經組織
 ---
 # [[Nervous_Tissue]] 
 

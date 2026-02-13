@@ -14,7 +14,7 @@ dv_has_:
     ab: Норвегиа
     ace: Norwègia
     ady: Норвегие
-    aeb-arab: النرويج
+    aeb_arab: النرويج
     af: Noorweë
     am: ኖርዌይ
     ami: Norway
@@ -40,7 +40,7 @@ dv_has_:
     bbc: Norwegia
     bcl: Norwey
     be: Нарвегія
-    be-tarask: Нарвэгія
+    be_tarask: Нарвэгія
     bew: Norwèhen
     bg: Норвегия
     bho: नार्वे
@@ -55,7 +55,7 @@ dv_has_:
     bug: ᨊᨚᨑᨘᨓᨙᨁᨗᨐ
     bxr: Норвеги
     ca: Noruega
-    cbk-zam: Noruega
+    cbk_zam: Noruega
     cdo: Nò̤-ŭi
     ce: Норвеги
     ceb: Norway
@@ -66,7 +66,7 @@ dv_has_:
     co: Nurvegia
     cr: Norway
     crh: Norvegiya
-    crh-latn: Norvegiya
+    crh_latn: Norvegiya
     cs: Norsko
     csb: Norweskô
     cu: Норєгъ
@@ -76,7 +76,7 @@ dv_has_:
     dag: Norway
     de: Norwegen
     de-at: Norwegen
-    de-ch: Norwegen
+    de_ch: Norwegen
     din: Nɔrwei
     diq: Norwec
     dsb: Norwegska
@@ -87,8 +87,8 @@ dv_has_:
     el: Νορβηγία
     eml: Nurvégia
     en: Norway
-    en-ca: Norway
-    en-gb: Norway
+    en_ca: Norway
+    en_gb: Norway
     en-us: Norway
     eo: Norvegio
     es: Noruega
@@ -116,7 +116,7 @@ dv_has_:
     gn: Noruega
     gom: नॉर्वे
     gom-deva: नॉर्वे
-    gom-latn: Norway
+    gom_latn: Norway
     gor: Norwegia
     got: "\U0001033D\U00010330\U0001033F\U00010342\U00010345\U00010339\U00010332\U00010343"
     gpe: Norway
@@ -195,7 +195,7 @@ dv_has_:
     lzh: 挪威
     mad: Norwegia
     mai: नार्वे
-    map-bms: Norwegia
+    map_bms: Norwegia
     mdf: Норвэгия
     mg: Norvezy
     mhr: Норвегий
@@ -209,7 +209,7 @@ dv_has_:
     mr: नॉर्वे
     mrj: Норвеги
     ms: Norway
-    ms-arab: نوروي
+    ms_arab: نوروي
     mt: Norveġja
     mwl: Noruega
     my: နော်ဝေနိုင်ငံ
@@ -221,7 +221,7 @@ dv_has_:
     nap: Norvegia
     nb: Norge
     nds: Norwegen
-    nds-nl: Noorwegen
+    nds_nl: Noorwegen
     ne: नर्वे
     new: नर्वे
     nl: Noorwegen
@@ -252,7 +252,7 @@ dv_has_:
     pnt: Νορβηγία
     ps: ناروې
     pt: Noruega
-    pt-br: Noruega
+    pt_br: Noruega
     qu: Nurwiga
     rm: Norvegia
     rmy: Norvejiya
@@ -291,8 +291,8 @@ dv_has_:
     so: Norway
     sq: Norvegjia
     sr: Норвешка
-    sr-ec: Норвешка
-    sr-el: Norveška
+    sr_ec: Норвешка
+    sr_el: Norveška
     srn: Norvegikondre
     ss: INoweyi
     st: Norge
@@ -352,14 +352,14 @@ dv_has_:
     zea: Noorwegen
     zgh: ⵏⵓⵔⵡⵉⵊ
     zh: 挪威
-    zh-cn: 挪威
-    zh-hans: 挪威
-    zh-hant: 挪威
-    zh-hk: 挪威
-    zh-mo: 挪威
+    zh_cn: 挪威
+    zh_hans: 挪威
+    zh_hant: 挪威
+    zh_hk: 挪威
+    zh_mo: 挪威
     zh-my: 挪威
-    zh-sg: 挪威
-    zh-tw: 挪威
+    zh_sg: 挪威
+    zh_tw: 挪威
     zu: INoki
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Norway

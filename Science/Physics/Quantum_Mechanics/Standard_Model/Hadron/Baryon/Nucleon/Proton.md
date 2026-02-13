@@ -235,7 +235,7 @@ dv_has_:
     azb: پروتون
     bcl: proton
     be: пратон
-    be-tarask: пратон
+    be_tarask: пратон
     bg: протон
     bn: প্রোটন
     br: proton
@@ -252,7 +252,7 @@ dv_has_:
     de: Proton
     el: πρωτόνιο
     en: proton
-    en-gb: proton
+    en_gb: proton
     eo: protono
     es: protón
     et: prooton
@@ -307,7 +307,7 @@ dv_has_:
     lzh: 質子
     mag: प्रोटोन
     mai: प्रोटोन
-    map-bms: Proton
+    map_bms: Proton
     mdf: протонць
     mg: prôtôna
     mhr: протон
@@ -316,7 +316,7 @@ dv_has_:
     mn: протон
     mr: प्रोटॉन
     ms: proton
-    ms-arab: ڤروتون
+    ms_arab: ڤروتون
     my: ပရိုတွန်
     nan: Iông-chú
     nb: proton
@@ -336,7 +336,7 @@ dv_has_:
     pnb: پروٹان
     ps: پروټون
     pt: protão
-    pt-br: próton
+    pt_br: próton
     qu: prutun
     ro: proton
     ru: протон
@@ -358,8 +358,8 @@ dv_has_:
     so: borotoon
     sq: protoni
     sr: протон
-    sr-ec: протон
-    sr-el: proton
+    sr_ec: протон
+    sr_el: proton
     stq: Proton
     su: proton
     sv: proton
@@ -372,7 +372,7 @@ dv_has_:
     tok: ijo lili awen pi wawa linja
     tr: proton
     tt: протон
-    tt-cyrl: протон
+    tt_cyrl: протон
     udm: протон
     ug: پروتون
     uk: протон
@@ -391,8 +391,8 @@ dv_has_:
     yo: prótónì
     yue: 質子
     zh: 質子
-    zh-hans: 质子
-    zh-hant: 質子
+    zh_hans: 质子
+    zh_hant: 質子
     zu: INelesi
 ---
 # [[Proton]] 

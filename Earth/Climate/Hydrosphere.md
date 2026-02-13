@@ -115,7 +115,7 @@ dv_has_:
     bas: Lìtegnɛ li màlep
     bcl: Hidrospera
     be: гідрасфера
-    be-tarask: гідрасфэра
+    be_tarask: гідрасфэра
     bg: Хидросфера
     bho: जलमण्डल
     bn: বারিমণ্ডল
@@ -127,8 +127,8 @@ dv_has_:
     de: Hydrosphäre
     el: Υδρόσφαιρα
     en: hydrosphere
-    en-ca: Hydrosphere
-    en-gb: hydrosphere
+    en_ca: Hydrosphere
+    en_gb: hydrosphere
     en-us: hydrosphere
     eo: hidrosfero
     es: hidrósfera
@@ -178,7 +178,7 @@ dv_has_:
     pl: hydrosfera
     ps: هايدروسفير
     pt: hidrosfera
-    pt-br: Hidrosfera
+    pt_br: Hidrosfera
     qu: Yaku pacha
     ro: hidrosferă
     ru: гидросфера
@@ -193,8 +193,8 @@ dv_has_:
     sms: hydrosfääʹr
     sq: Hidrosfera
     sr: хидросфера
-    sr-ec: хидросфера
-    sr-el: hidrosfera
+    sr_ec: хидросфера
+    sr_el: hidrosfera
     sv: hydrosfären
     ta: நீர்க்கோளம்
     tg: Гидросфера

@@ -6,7 +6,7 @@ dv_has_:
     ast: Conseyu Olímpicu d'Asia
     ba: Азия олимпия советы
     bcl: Olimpikong Konseho kan Asya
-    be-tarask: Алімпійская рада Азіі
+    be_tarask: Алімпійская рада Азіі
     bn: এশিয়া অলিম্পিক কাউন্সিল
     ca: Consell Olímpic d'Àsia
     cs: Asijská olympijská rada
@@ -27,9 +27,9 @@ dv_has_:
     jv: Déwan Olimpiade Asia
     ka: აზიის ოლიმპიური საბჭო
     kk: Азия Олимпиада кеңесі
-    kk-arab: ازىييا ولىيمپىيادا كەڭەسى
-    kk-cyrl: Азия Олимпиада кеңесі
-    kk-latn: Azïya Olïmpïada keñesi
+    kk_arab: ازىييا ولىيمپىيادا كەڭەسى
+    kk_cyrl: Азия Олимпиада кеңесі
+    kk_latn: Azïya Olïmpïada keñesi
     km: ក្រុមប្រឹក្សាអូឡាំពិកអាស៊ី
     ko: 아시아 올림픽 평의회
     lv: Āzijas Olimpiskā padome
@@ -58,9 +58,9 @@ dv_has_:
     wuu: 亚洲奥林匹克理事会
     yue: 亞洲奧林匹克理事會
     zh: 亚洲奥林匹克理事会
-    zh-hans: 亚洲奥林匹克理事会
-    zh-hant: 亞洲奧林匹克理事會
-    zh-hk: 亞洲奧林匹克理事會
+    zh_hans: 亚洲奥林匹克理事会
+    zh_hant: 亞洲奧林匹克理事會
+    zh_hk: 亞洲奧林匹克理事會
 aliases:
 - Asiako Kontseilu Olinpikoa
 - Asias olympiske råd

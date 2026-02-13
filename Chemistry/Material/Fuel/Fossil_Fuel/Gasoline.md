@@ -159,7 +159,7 @@ dv_has_:
     ba: Бензин
     bcl: Gasolina
     be: бензін
-    be-tarask: бэнзін
+    be_tarask: бэнзін
     bew: Bèngsin
     bg: Бензин
     bho: पेट्रोल
@@ -173,7 +173,7 @@ dv_has_:
     diq: Benzin
     el: βενζίνη
     en: gasoline
-    en-gb: petrol
+    en_gb: petrol
     en-us: gasoline
     eo: benzino
     es: gasolina
@@ -219,7 +219,7 @@ dv_has_:
     mk: бензин
     ml: പെട്രോൾ
     ms: petrol
-    ms-arab: ڤيترول
+    ms_arab: ڤيترول
     my: ဓာတ်ဆီ
     mzn: بینجین
     nan: Ga-só͘-lín
@@ -235,7 +235,7 @@ dv_has_:
     pnb: پٹرول
     ps: ګيسولين
     pt: gasolina
-    pt-br: gasolina
+    pt_br: gasolina
     ro: benzină
     ru: бензин
     sa: पेट्रोल्

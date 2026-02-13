@@ -135,7 +135,7 @@ dv_has_:
     az: Fransis Krik
     azb: فرانسیس کریک
     be: Фрэнсіс Гары Крык
-    be-tarask: Фрэнсіс Крык
+    be_tarask: Фрэнсіс Крык
     bg: Франсис Крик
     bn: ফ্রান্সিস ক্রিক
     bs: Francis Crick
@@ -194,7 +194,7 @@ dv_has_:
     pnb: فرینسس کرک
     ps: فرانسس کرېک
     pt: Francis Crick
-    pt-br: Francis Crick
+    pt_br: Francis Crick
     ro: Francis Crick
     ru: Фрэнсис Крик
     sa: फ्रान्सिस् एच् सि क्रिक्
@@ -203,8 +203,8 @@ dv_has_:
     sl: Francis Crick
     sq: Francis Crick
     sr: Франсис Крик
-    sr-ec: Франсис Крик
-    sr-el: Fransis Krik
+    sr_ec: Франсис Крик
+    sr_el: Fransis Krik
     sv: Francis Crick
     sw: Francis Crick
     ta: பிரான்சிஸ் கிரிக்
@@ -223,12 +223,12 @@ dv_has_:
     yo: Francis Crick
     yue: 法蘭西斯·卡里卡
     zh: 弗朗西斯·克里克
-    zh-cn: 弗朗西斯·克里克
-    zh-hans: 弗朗西斯·克里克
-    zh-hant: 法蘭西斯·克立克
-    zh-hk: 法蘭西斯·克歷
-    zh-sg: 弗朗西斯·克里克
-    zh-tw: 法蘭西斯·克立克
+    zh_cn: 弗朗西斯·克里克
+    zh_hans: 弗朗西斯·克里克
+    zh_hant: 法蘭西斯·克立克
+    zh_hk: 法蘭西斯·克歷
+    zh_sg: 弗朗西斯·克里克
+    zh_tw: 法蘭西斯·克立克
 ---
 # [[Crick,Francis]] 
 

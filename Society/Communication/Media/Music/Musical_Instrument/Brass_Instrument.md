@@ -102,7 +102,7 @@ dv_has_:
     arz: آلات نفخ نحاسيه
     ast: instrumentu de vientu metal
     be: медныя духавыя музычныя інструменты
-    be-tarask: медны духавы інструмэнт
+    be_tarask: медны духавы інструмэнт
     bg: духов инструмент
     ca: instrument de metall
     cs: žesťový nástroj
@@ -111,7 +111,7 @@ dv_has_:
     de: Blechblasinstrument
     el: χάλκινα πνευστά
     en: brass instrument
-    en-gb: brass instrument
+    en_gb: brass instrument
     eo: latuna blovinstrumento
     es: instrumento de viento-metal
     et: vaskpuhkpillid
@@ -154,8 +154,8 @@ dv_has_:
     smn: veškiposonjâs
     sms: veäʹšǩǩpååssanj
     sr: лимени дувачки инструмент
-    sr-ec: лимени дувачки инструменти
-    sr-el: limeni duvački instrumenti
+    sr_ec: лимени дувачки инструменти
+    sr_el: limeni duvački instrumenti
     sv: bleckblåsinstrument
     tg: созҳои нафасии мисин
     th: เครื่องเป่าทองเหลือง
@@ -167,12 +167,12 @@ dv_has_:
     wuu: 铜管乐器
     yue: 銅管樂器
     zh: 銅管樂器
-    zh-cn: 铜管乐器
-    zh-hans: 铜管乐器
-    zh-hant: 銅管樂器
-    zh-hk: 銅管樂器
-    zh-sg: 铜管乐器
-    zh-tw: 銅管樂器
+    zh_cn: 铜管乐器
+    zh_hans: 铜管乐器
+    zh_hant: 銅管樂器
+    zh_hk: 銅管樂器
+    zh_sg: 铜管乐器
+    zh_tw: 銅管樂器
 ---
 # [[Brass_Instrument]] 
 

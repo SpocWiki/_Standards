@@ -151,7 +151,7 @@ dv_has_:
     oc: Elaeis guineensis
     pl: Olejowiec gwinejski
     pt: Dendezeiro
-    pt-br: Elaeis guineensis
+    pt_br: Elaeis guineensis
     ro: Elaeis guineensis
     ru: Масличная пальма
     sh: Palma uljarica
@@ -168,12 +168,12 @@ dv_has_:
     war: Elaeis guineensis
     yue: 油椰子
     zh: 油棕
-    zh-cn: 油棕
-    zh-hans: 油棕
-    zh-hant: 油棕
-    zh-hk: 油棕
-    zh-sg: 油棕
-    zh-tw: 油椰子
+    zh_cn: 油棕
+    zh_hans: 油棕
+    zh_hant: 油棕
+    zh_hk: 油棕
+    zh_sg: 油棕
+    zh_tw: 油椰子
 ---
 # [[Oil_Palm]] 
 

@@ -138,7 +138,7 @@ dv_has_:
     ba: Кюрий
     ban: Curium
     be: Кюрый
-    be-tarask: Кюр
+    be_tarask: Кюр
     bg: кюрий
     bho: क्युरियम
     bn: কুরিয়াম
@@ -156,7 +156,7 @@ dv_has_:
     de: Curium
     el: κιούριο
     en: curium
-    en-gb: curium
+    en_gb: curium
     eo: kuriumo
     es: curio
     et: kuurium
@@ -230,7 +230,7 @@ dv_has_:
     pnb: کیوریم
     ps: کيوريوم
     pt: cúrio
-    pt-br: cúrio
+    pt_br: cúrio
     qu: Kuryu
     ro: curiu
     ru: кюрий
@@ -244,7 +244,7 @@ dv_has_:
     sl: kirij
     sq: curiumi
     sr: киријум
-    sr-ec: Киријум
+    sr_ec: Киријум
     stq: Curium
     sv: curium
     sw: curi
@@ -268,14 +268,14 @@ dv_has_:
     yo: Kùríọ̀m
     yue: 鋦
     zh: 锔
-    zh-cn: 锔
-    zh-hans: 锔
-    zh-hant: 鋦
-    zh-hk: 鋦
-    zh-mo: 鋦
+    zh_cn: 锔
+    zh_hans: 锔
+    zh_hant: 鋦
+    zh_hk: 鋦
+    zh_mo: 鋦
     zh-my: 锔
-    zh-sg: 锔
-    zh-tw: 鋦
+    zh_sg: 锔
+    zh_tw: 鋦
     zu: IChumumbi
   number_of_:
     period: 7

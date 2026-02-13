@@ -92,7 +92,7 @@ dv_has_:
     ban: Déwa Brahma
     bcl: Brahma
     be: Брахма
-    be-tarask: Брагма
+    be_tarask: Брагма
     bg: Брахма
     bho: ब्रह्मा
     bn: ব্রহ্মা
@@ -108,8 +108,8 @@ dv_has_:
     de: Brahma
     el: Βράχμα
     en: God Brahma
-    en-ca: Brahma
-    en-gb: Brahma
+    en_ca: Brahma
+    en_gb: Brahma
     eo: Brahmao
     es: Brahma
     et: Brahma
@@ -170,7 +170,7 @@ dv_has_:
     pnb: برہما
     ps: برهما
     pt: Brama
-    pt-br: Brama
+    pt_br: Brama
     ro: Brahma
     ru: Брахма
     sa: ब्रह्मा
@@ -183,7 +183,7 @@ dv_has_:
     sl: Brahma
     sq: Brahma
     sr: Брахма
-    sr-ec: Брахма
+    sr_ec: Брахма
     sv: Brahma
     ta: பிரம்மா
     tcy: ಬ್ರಹ್ಮ
@@ -203,8 +203,8 @@ dv_has_:
     xmf: ბრაჰმა
     yue: 梵天
     zh: 梵天
-    zh-hant: 梵天
-    zh-tw: 梵天
+    zh_hant: 梵天
+    zh_tw: 梵天
 ---
 # [[Brahma]] 
 

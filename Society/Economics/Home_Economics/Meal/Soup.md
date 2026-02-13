@@ -173,7 +173,7 @@ dv_has_:
     ba: һурпа
     bcl: sabaw
     be: суп
-    be-tarask: суп
+    be_tarask: суп
     bg: супа
     bn: স্যুপ
     br: soubenn
@@ -188,13 +188,13 @@ dv_has_:
     da: suppe
     dag: ʒiɛri
     de: Suppe
-    de-ch: Suppe
+    de_ch: Suppe
     dsb: pólewanka
     el: σούπα
     eml: mnèstra
     en: soup
-    en-ca: soup
-    en-gb: soup
+    en_ca: soup
+    en_gb: soup
     eo: supo
     es: sopa
     et: supp
@@ -262,7 +262,7 @@ dv_has_:
     nan: thng
     nb: suppe
     nds: Supp
-    nds-nl: soop
+    nds_nl: soop
     nl: soep
     nn: suppe
     nrm: souope
@@ -275,7 +275,7 @@ dv_has_:
     pnb: سوپ
     ps: ښوروا
     pt: sopa
-    pt-br: sopa
+    pt_br: sopa
     qu: chupi
     rmf: džummi
     rmy: zumi
@@ -329,9 +329,9 @@ dv_has_:
     yue: 湯
     za: dang
     zh: 湯
-    zh-cn: 汤
-    zh-hans: 汤
-    zh-hant: 湯
+    zh_cn: 汤
+    zh_hans: 汤
+    zh_hant: 湯
     zu: isobho
 ---
 # [[Soup]]

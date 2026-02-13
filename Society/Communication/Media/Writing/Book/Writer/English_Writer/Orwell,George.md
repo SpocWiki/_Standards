@@ -186,7 +186,7 @@ dv_has_:
     bar: George Orwell
     bcl: George Orwell
     be: Джордж Оруэл
-    be-tarask: Джордж Орўэл
+    be_tarask: Джордж Орўэл
     bg: Джордж Оруел
     bn: জর্জ অরওয়েল
     br: George Orwell
@@ -200,12 +200,12 @@ dv_has_:
     cy: George Orwell
     da: George Orwell
     de: George Orwell
-    de-ch: George Orwell
+    de_ch: George Orwell
     diq: George Orwell
     el: Τζορτζ Όργουελ
     en: George Orwell
-    en-ca: George Orwell
-    en-gb: George Orwell
+    en_ca: George Orwell
+    en_gb: George Orwell
     eo: George Orwell
     es: George Orwell
     et: George Orwell
@@ -285,7 +285,7 @@ dv_has_:
     pnb: جارج اورویل
     ps: جورج اوروېل
     pt: George Orwell
-    pt-br: George Orwell
+    pt_br: George Orwell
     qu: George Orwell
     ro: George Orwell
     ru: Джордж Оруэлл
@@ -327,11 +327,11 @@ dv_has_:
     yo: George Orwell
     yue: 佐治奧威爾
     zh: 乔治·奥威尔
-    zh-cn: 乔治·奥威尔
-    zh-hans: 乔治·奥威尔
-    zh-hant: 佐治‧奧威爾
-    zh-hk: 佐治·奧威爾
-    zh-tw: 喬治‧歐威爾
+    zh_cn: 乔治·奥威尔
+    zh_hans: 乔治·奥威尔
+    zh_hant: 佐治‧奧威爾
+    zh_hk: 佐治·奧威爾
+    zh_tw: 喬治‧歐威爾
 ---
 # [[Orwell,George]] 
 

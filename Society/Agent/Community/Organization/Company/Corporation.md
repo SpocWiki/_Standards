@@ -106,7 +106,7 @@ dv_has_:
     ba: Корпорация
     bcl: Korporasyon
     be: карпарацыя
-    be-tarask: карпарацыя
+    be_tarask: карпарацыя
     bg: Корпорация
     bm: Baarada
     bn: কর্পোরেশন
@@ -169,8 +169,8 @@ dv_has_:
     sl: korporacija
     sq: Korporata
     sr: корпорација
-    sr-ec: Корпорација
-    sr-el: Korporacija
+    sr_ec: Корпорација
+    sr_el: Korporacija
     sv: korporation
     ta: கூட்டு நிறுவனம்
     th: บรรษัท
@@ -186,14 +186,14 @@ dv_has_:
     yi: קארפאראציע
     yue: 公司組織
     zh: 法人團體
-    zh-cn: 法人团体
-    zh-hans: 法人团体
-    zh-hant: 法人團體
-    zh-hk: 法團
-    zh-mo: 法人團體
+    zh_cn: 法人团体
+    zh_hans: 法人团体
+    zh_hant: 法人團體
+    zh_hk: 法團
+    zh_mo: 法人團體
     zh-my: 法人团体
-    zh-sg: 法人团体
-    zh-tw: 法人團體
+    zh_sg: 法人团体
+    zh_tw: 法人團體
     zu: Umshumanqa
 ---
 # [[Corporation]] 

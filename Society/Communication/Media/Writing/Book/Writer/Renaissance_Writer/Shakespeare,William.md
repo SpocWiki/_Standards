@@ -279,7 +279,7 @@ dv_has_:
     azb: ویلیام شکسپیر
     ba: Уильям Шекспир
     be: Уільям Шэкспір
-    be-tarask: Ўільям Шэксьпір
+    be_tarask: Ўільям Шэксьпір
     bew: Wiliam Sèkspir
     bg: Уилям Шекспир
     bho: शेक्सपियर
@@ -334,7 +334,7 @@ dv_has_:
     mni: ꯋꯤꯜꯂꯤꯌꯝ ꯁꯦꯛꯁ꯭ꯄꯤꯌꯔ
     mr: विल्यम शेक्सपियर
     mrj: Уильям Шекспир
-    ms-arab: ويليام شيكسڤيار
+    ms_arab: ويليام شيكسڤيار
     mul: William Shakespeare
     my: ရှိတ်စပီးယား
     myv: Шекспир, Уильям
@@ -359,8 +359,8 @@ dv_has_:
     shn: သျဵၵ်ႉၸပီးယႃး
     si: විලියම් ෂේක්ස්පියර්
     sr: Вилијам Шекспир
-    sr-ec: Вилијам Шекспир
-    sr-el: Vilijam Šekspir
+    sr_ec: Вилијам Шекспир
+    sr_el: Vilijam Šekspir
     sv: William Shakespeare
     szy: Wuylan-Sasepiya
     ta: வில்லியம் சேக்சுபியர்
@@ -385,10 +385,10 @@ dv_has_:
     yi: וויליאם שייקספיר
     yue: 莎士比亞
     zh: 威廉·莎士比亚
-    zh-cn: 威廉·莎士比亚
-    zh-hans: 威廉·莎士比亚
-    zh-hant: 威廉·莎士比亞
-    zh-tw: 威廉·莎士比亞
+    zh_cn: 威廉·莎士比亚
+    zh_hans: 威廉·莎士比亚
+    zh_hant: 威廉·莎士比亞
+    zh_tw: 威廉·莎士比亞
 ---
 # [[Shakespeare,William]] 
 

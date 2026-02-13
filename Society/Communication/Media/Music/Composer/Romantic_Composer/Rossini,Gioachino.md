@@ -143,7 +143,7 @@ dv_has_:
     ba: Джоаккино Россини
     ban: Gioachino Rossini
     be: Джаакіна Расіні
-    be-tarask: Джаакіна Расіні
+    be_tarask: Джаакіна Расіні
     bg: Джоакино Росини
     bs: Gioacchino Rossini
     ca: Gioacchino Rossini
@@ -151,11 +151,11 @@ dv_has_:
     cy: Gioachino Rossini
     da: Gioacchino Rossini
     de: Gioachino Rossini
-    de-ch: Gioachino Rossini
+    de_ch: Gioachino Rossini
     el: Τζοακίνο Ροσσίνι
     en: Gioachino Rossini
-    en-ca: Gioacchino Rossini
-    en-gb: Gioacchino Rossini
+    en_ca: Gioacchino Rossini
+    en_gb: Gioacchino Rossini
     eo: Gioachino Rossini
     es: Gioachino Rossini
     et: Gioachino Rossini
@@ -207,7 +207,7 @@ dv_has_:
     pl: Gioachino Rossini
     pms: Gioachino Rossini
     pt: Gioachino Rossini
-    pt-br: Gioachino Rossini
+    pt_br: Gioachino Rossini
     qu: Gioacchino Rossini
     ro: Gioachino Rossini
     ru: Джоаккино Россини
@@ -228,8 +228,8 @@ dv_has_:
     yi: דזשיאאקינא ראסיני
     yue: 羅西尼
     zh: 焦阿基诺·罗西尼
-    zh-hant: 焦阿基諾·羅西尼
-    zh-tw: 喬亞奇諾·羅西尼
+    zh_hant: 焦阿基諾·羅西尼
+    zh_tw: 喬亞奇諾·羅西尼
 ---
 # [[Rossini,Gioachino]] 
 

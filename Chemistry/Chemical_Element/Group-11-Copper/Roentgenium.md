@@ -144,7 +144,7 @@ dv_has_:
     ba: Рентгений
     ban: Roéntgénium
     be: Рэнтгеній
-    be-tarask: Рэнтген
+    be_tarask: Рэнтген
     bg: рьонтгений
     bho: रंटगेनियम
     bn: রন্টজেনিয়াম
@@ -162,7 +162,7 @@ dv_has_:
     de: Roentgenium
     el: ρεντγκένιο
     en: roentgenium
-    en-gb: roentgenium
+    en_gb: roentgenium
     eo: rentgeniumo
     es: roentgenio
     et: Röntgeenium
@@ -232,7 +232,7 @@ dv_has_:
     pnb: رونٹجینیم
     ps: رونټگېنيوم
     pt: roentgénio
-    pt-br: roentgênio
+    pt_br: roentgênio
     qu: Roentgenyu
     ro: roentgeniu
     ru: рентгений
@@ -246,7 +246,7 @@ dv_has_:
     so: Roentgeniyaam
     sq: Roentgeniumi
     sr: рентгенијум
-    sr-ec: Рендгенијум
+    sr_ec: Рендгенијум
     stq: Roentgenium
     sv: röntgenium
     sw: Roentgeni
@@ -270,14 +270,14 @@ dv_has_:
     yo: Roentgenium
     yue: 錀
     zh: 錀
-    zh-cn: "\U0002CB2D"
-    zh-hans: "\U0002CB2D"
-    zh-hant: 錀
-    zh-hk: 錀
-    zh-mo: 錀
+    zh_cn: "\U0002CB2D"
+    zh_hans: "\U0002CB2D"
+    zh_hant: 錀
+    zh_hk: 錀
+    zh_mo: 錀
     zh-my: "\U0002CB2D"
-    zh-sg: "\U0002CB2D"
-    zh-tw: 錀
+    zh_sg: "\U0002CB2D"
+    zh_tw: 錀
     zu: ILugambi
 ---
 # [[Roentgenium]] 

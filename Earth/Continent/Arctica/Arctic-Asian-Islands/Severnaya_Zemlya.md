@@ -105,7 +105,7 @@ dv_has_:
     az: Şimal Torpağı
     ba: Төньяҡ Ер
     be: Паўночная Зямля
-    be-tarask: Паўночная Зямля
+    be_tarask: Паўночная Зямля
     bg: Северна земя
     ca: Terra del Nord
     ceb: Severnaya Zemlya
@@ -157,8 +157,8 @@ dv_has_:
     sk: Severná zem
     sl: Severna dežela
     sr: Северна Земља
-    sr-ec: Северна Земља
-    sr-el: Severna Zemlja
+    sr_ec: Северна Земља
+    sr_el: Severna Zemlja
     sv: Severnaja Zemlja
     sw: Severnaya Zemlya
     ta: செவர்னயா செம்ல்யா
@@ -172,12 +172,12 @@ dv_has_:
     wuu: 北地群岛
     yue: 北地群島
     zh: 北地群岛
-    zh-cn: 北地群岛
-    zh-hans: 北地群岛
-    zh-hant: 北地群島
-    zh-hk: 北地群島
-    zh-sg: 北地群岛
-    zh-tw: 北地群島
+    zh_cn: 北地群岛
+    zh_hans: 北地群岛
+    zh_hant: 北地群島
+    zh_hk: 北地群島
+    zh_sg: 北地群岛
+    zh_tw: 北地群島
 ---
 # [[Severnaya_Zemlya]] 
 

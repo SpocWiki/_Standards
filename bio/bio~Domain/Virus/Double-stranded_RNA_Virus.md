@@ -59,10 +59,10 @@ dv_has_:
     smn: Kyevtsáigusâš RNA-viruseh
     tr: Çift iplikçikli RNA virüsleri
     zh: 双链RNA病毒
-    zh-cn: 双链RNA病毒
-    zh-hans: 双链RNA病毒
-    zh-hant: 雙鏈RNA病毒
-    zh-tw: 雙股RNA病毒
+    zh_cn: 双链RNA病毒
+    zh_hans: 双链RNA病毒
+    zh_hant: 雙鏈RNA病毒
+    zh_tw: 雙股RNA病毒
 ---
 ## Phylogeny 
 

@@ -212,7 +212,7 @@ dv_has_:
     az: Depressiya
     azb: دیپرئسیو بوزوکلوگو
     be: дэпрэсія
-    be-tarask: дэпрэсія
+    be_tarask: дэпрэсія
     bg: Депресия
     bn: গুরুতর অবসাদজনিত ব্যাধি
     bs: Klinička depresija
@@ -223,12 +223,12 @@ dv_has_:
     cy: Iselder ysbryd
     da: depression
     de: Depression
-    de-ch: Depression
+    de_ch: Depression
     el: μείζων καταθλιπτική διαταραχή
     eml: Distùrub depresìṿ
     en: major depressive disorder
-    en-ca: Major depressive disorder
-    en-gb: major depressive disorder
+    en_ca: Major depressive disorder
+    en_gb: major depressive disorder
     eo: depresio
     es: trastorno depresivo mayor
     et: depressioon
@@ -275,7 +275,7 @@ dv_has_:
     mzn: اختلالات افسردگی
     nan: Iu-ut-chèng
     nb: depresjon
-    nds-nl: depressie
+    nds_nl: depressie
     ne: डिप्रेसन
     nl: depressieve stoornis
     nn: depressiv liding
@@ -285,7 +285,7 @@ dv_has_:
     pl: zaburzenia depresyjne
     ps: عمده افسردګي
     pt: depressão nervosa
-    pt-br: Depressão nervosa
+    pt_br: Depressão nervosa
     rm: Depressiun
     rn: Ikiyingiyingi
     ro: tulburare depresivă majoră
@@ -299,8 +299,8 @@ dv_has_:
     so: Niyadjabka
     sq: Ҫrregullimi depresiv madhor
     sr: клиничка депресија
-    sr-ec: клиничка депресија
-    sr-el: klinička depresija
+    sr_ec: клиничка депресија
+    sr_el: klinička depresija
     su: depresi
     sv: depression
     sw: Major Depressive Disorder
@@ -320,10 +320,10 @@ dv_has_:
     yi: קלינישע דעפרעסיע
     yue: 抑鬱症
     zh: 重性抑郁障碍
-    zh-cn: 重性抑郁障碍
-    zh-hans: 重性抑郁疾患
-    zh-hant: 嚴重憂鬱疾患
-    zh-tw: 嚴重憂鬱疾患
+    zh_cn: 重性抑郁障碍
+    zh_hans: 重性抑郁疾患
+    zh_hant: 嚴重憂鬱疾患
+    zh_tw: 嚴重憂鬱疾患
 ---
 # [[Major_depressive_Disorder]] 
 

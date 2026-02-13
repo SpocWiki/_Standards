@@ -341,7 +341,7 @@ dv_has_:
     ab: Ажьырныҳәамза
     abr: Ɔpɛpɔn
     ady: Щылэ
-    aeb-arab: جانفي
+    aeb_arab: جانفي
     af: Januarie
     agq: Ndzɔŋ è Nùm
     alt: Чаган ай
@@ -369,11 +369,11 @@ dv_has_:
     bar: Jenna
     bas: kondo≈Ñ
     bax: mùt Janvier
-    bbc-latn: Sipaha Sampulu
+    bbc_latn: Sipaha Sampulu
     bbj: ŋkə̂mmghě
     bcl: Enero
     be: студзень
-    be-tarask: студзень
+    be_tarask: студзень
     bew: Januari
     bg: Януари
     bho: जनवरी
@@ -390,7 +390,7 @@ dv_has_:
     bxr: 1 һар
     byv: mbwogngà
     ca: gener
-    cbk-zam: Enero
+    cbk_zam: Enero
     cdo: 1 nguŏk
     ce: Январь
     ceb: Enero
@@ -399,7 +399,7 @@ dv_has_:
     ckb: کانوونی دووەم
     co: ghjennaghju
     crh: Yanvar
-    crh-latn: Yanvar
+    crh_latn: Yanvar
     cs: leden
     csb: Stëcznik
     cv: Кăрлач уйăхĕ
@@ -408,7 +408,7 @@ dv_has_:
     dag: January
     de: Januar
     de-at: Jänner
-    de-ch: Januar
+    de_ch: Januar
     diq: Çele
     dsb: Wezymski
     dtp: Milatok
@@ -418,8 +418,8 @@ dv_has_:
     el: Ιανουάριος
     eml: Znêr
     en: January
-    en-ca: January
-    en-gb: January
+    en_ca: January
+    en_gb: January
     en-us: January
     eo: januaro
     es: enero
@@ -526,7 +526,7 @@ dv_has_:
     lv: janvāris
     lzh: 建寅
     mai: जनवरी
-    map-bms: Januari
+    map_bms: Januari
     mcp: ”ŋwíí a ntɔ́ntɔ"
     mdf: якшамков
     mg: Janoary
@@ -541,7 +541,7 @@ dv_has_:
     mr: जानेवारी महिना
     mrj: Январь
     ms: Januari
-    ms-arab: جانواري
+    ms_arab: جانواري
     mt: Jannar
     mua: fĩi loo
     mwl: Janeiro
@@ -553,7 +553,7 @@ dv_has_:
     nap: Jennaro
     nb: januar
     nds: Januar
-    nds-nl: jannewaori
+    nds_nl: jannewaori
     ne: जनवरी
     new: ज्यानुवरी
     nl: januari
@@ -580,7 +580,7 @@ dv_has_:
     pnt: Καλαντάρτς
     ps: جنوري
     pt: janeiro
-    pt-br: janeiro
+    pt_br: janeiro
     qu: Qhulla puquy killa
     ro: ianuarie
     roa-tara: Scennàre
@@ -615,7 +615,7 @@ dv_has_:
     so: Janaayo
     sq: Janari
     sr: јануар
-    sr-ec: Јануар
+    sr_ec: Јануар
     ss: Bhimbídvwane
     su: Januari
     sv: januari
@@ -639,7 +639,7 @@ dv_has_:
     tr: Ocak
     ts: Sunguti
     tt: гыйнвар
-    tt-cyrl: гыйнвар
+    tt_cyrl: гыйнвар
     tum: Janyuwale
     tvu: mayábɔ́á
     tw: Ɔpɛpɔn
@@ -676,14 +676,14 @@ dv_has_:
     zea: Jannewari
     zgh: ⵢⵏⵏⴰⵢⵔ
     zh: 1月
-    zh-cn: 1月
-    zh-hans: 1月
-    zh-hant: 1月
-    zh-hk: 1月
-    zh-mo: 1月
+    zh_cn: 1月
+    zh_hans: 1月
+    zh_hant: 1月
+    zh_hk: 1月
+    zh_mo: 1月
     zh-my: 1月
-    zh-sg: 1月
-    zh-tw: 1月
+    zh_sg: 1月
+    zh_tw: 1月
     zu: UJanuwari / uMasingana
 ---
 # [[January]]

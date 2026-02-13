@@ -56,7 +56,7 @@ dv_has_:
     ar: نظرية الترميز
     ast: Teoría de códigos
     be: тэорыя кадзіравання
-    be-tarask: тэорыя кадаваньня
+    be_tarask: тэорыя кадаваньня
     bg: Теория на кодирането
     bn: সংকেত তত্ত্ব
     ca: teoria de codis
@@ -84,7 +84,7 @@ dv_has_:
     nl: coderingstheorie
     nn: Kodeteori
     pt: teoria de códigos
-    pt-br: teoria de códigos
+    pt_br: teoria de códigos
     ro: teoria codificării
     ru: теория кодирования
     sl: teorija kodiranja
@@ -97,7 +97,7 @@ dv_has_:
     vi: Lý thuyết mã hóa
     yue: 編碼理論
     zh: 编码理论
-    zh-hant: 編碼理論
+    zh_hant: 編碼理論
 ---
 # [[Coding_theory]] 
 

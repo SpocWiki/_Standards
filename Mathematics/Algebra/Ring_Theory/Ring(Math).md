@@ -92,7 +92,7 @@ dv_has_:
     ar: حلقة
     ba: Ҡулса (математика)
     be: Колца, алгебра
-    be-tarask: колца
+    be_tarask: колца
     bg: Пръстен
     bs: Prsten
     ca: anell
@@ -142,7 +142,7 @@ dv_has_:
     pl: pierścień
     pms: Anel
     pt: anel
-    pt-br: anel
+    pt_br: anel
     ro: inel
     ru: кольцо с единицей
     scn: Aneddu
@@ -150,8 +150,8 @@ dv_has_:
     sk: Okruh
     sl: kolobar
     sr: алгебарски прстен
-    sr-ec: Алгебарски прстен
-    sr-el: algebarski prsten
+    sr_ec: Алгебарски прстен
+    sr_el: algebarski prsten
     sv: ring
     ta: வளையம்
     th: ริง
@@ -165,12 +165,12 @@ dv_has_:
     yi: רינג
     yue: 環
     zh: 环
-    zh-cn: 环
-    zh-hans: 环
-    zh-hant: 環
-    zh-hk: 環
-    zh-sg: 环
-    zh-tw: 環
+    zh_cn: 环
+    zh_hans: 环
+    zh_hant: 環
+    zh_hk: 環
+    zh_sg: 环
+    zh_tw: 環
 ---
 # [[Ring(Math)]] 
 

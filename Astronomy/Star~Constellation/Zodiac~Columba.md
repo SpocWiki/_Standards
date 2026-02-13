@@ -109,7 +109,7 @@ dv_has_:
     az: Göyərçin
     ba: Күгәрсен
     be: Голуб
-    be-tarask: Голуб
+    be_tarask: Голуб
     bg: Гълъб
     bn: কপোত মণ্ডল
     bo: ཕུག་རོན་སྐར་ཚོམ་

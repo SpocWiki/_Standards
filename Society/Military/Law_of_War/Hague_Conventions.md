@@ -80,7 +80,7 @@ dv_has_:
     vi: Các công ước Den Haag 1899 và 1907
     wuu: 海牙公约
     zh: 1899年及1907年海牙公约
-    zh-tw: 海牙公约
+    zh_tw: 海牙公约
 ---
 # [[Hague_Conventions]] 
 

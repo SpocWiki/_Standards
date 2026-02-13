@@ -123,7 +123,7 @@ dv_has_:
     az: Renzo Piano
     bar: Renzo Piano
     be: Рэнца Піяна
-    be-tarask: Рэнца Піяна
+    be_tarask: Рэнца Піяна
     bg: Ренцо Пиано
     br: Renzo Piano
     ca: Renzo Piano
@@ -135,11 +135,11 @@ dv_has_:
     dag: Renzo Piano
     de: Renzo Piano
     de-at: Renzo Piano
-    de-ch: Renzo Piano
+    de_ch: Renzo Piano
     el: Ρέντσο Πιάνο
     en: Renzo Piano
-    en-ca: Renzo Piano
-    en-gb: Renzo Piano
+    en_ca: Renzo Piano
+    en_gb: Renzo Piano
     en-us: Renzo Piano
     eo: Renzo Piano
     es: Renzo Piano
@@ -185,7 +185,7 @@ dv_has_:
     nap: Renzo Piano
     nb: Renzo Piano
     nds: Renzo Piano
-    nds-nl: Renzo Piano
+    nds_nl: Renzo Piano
     nl: Renzo Piano
     nn: Renzo Piano
     nrm: Renzo Piano
@@ -196,7 +196,7 @@ dv_has_:
     pl: Renzo Piano
     pms: Renzo Piano
     pt: Renzo Piano
-    pt-br: Renzo Piano
+    pt_br: Renzo Piano
     rm: Renzo Piano
     ro: Renzo Piano
     ru: Ренцо Пиано
@@ -207,8 +207,8 @@ dv_has_:
     sl: Renzo Piano
     sq: Renzo Piano
     sr: Ренцо Пјано
-    sr-ec: Ренцо Пјано
-    sr-el: Renco Pjano
+    sr_ec: Ренцо Пјано
+    sr_el: Renco Pjano
     sv: Renzo Piano
     sw: Renzo Piano
     ta: ரென்சோ பியானோ
@@ -228,12 +228,12 @@ dv_has_:
     yo: Renzo Piano
     yue: 倫素·比亞奴
     zh: 伦佐·皮亚诺
-    zh-cn: 伦佐·皮亚诺
-    zh-hans: 伦佐·皮亚诺
-    zh-hant: 倫佐·皮亞諾
-    zh-hk: 倫素·比亞奴
-    zh-sg: 伦佐·皮亚诺
-    zh-tw: 倫佐·皮亞諾
+    zh_cn: 伦佐·皮亚诺
+    zh_hans: 伦佐·皮亚诺
+    zh_hant: 倫佐·皮亞諾
+    zh_hk: 倫素·比亞奴
+    zh_sg: 伦佐·皮亚诺
+    zh_tw: 倫佐·皮亞諾
     zu: Renzo Piano
 ---
 # [[Piano,Renzo]] 

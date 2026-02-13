@@ -229,7 +229,7 @@ dv_has_:
     bax: nkun
     bbj: mkǒ
     be: фасоля звычайная
-    be-tarask: фасоля звычайная
+    be_tarask: фасоля звычайная
     bg: обикновен боб
     bkc: leka dipa a bɛlɛ
     bkh: kón
@@ -314,7 +314,7 @@ dv_has_:
     nah: Etl
     nap: Fasulo
     nb: Hagebønne
-    nds-nl: breekbonen
+    nds_nl: breekbonen
     ne: राजमा
     nl: gewone boon
     nla: tsáŋə́se
@@ -324,7 +324,7 @@ dv_has_:
     oc: mongeta
     pl: fasola zwykła
     pt: feijão
-    pt-br: Phaseolus vulgaris
+    pt_br: Phaseolus vulgaris
     qu: Purutu
     rn: Igiharage
     ro: Fasole
@@ -365,10 +365,10 @@ dv_has_:
     ybb: mekū
     yue: 四季豆
     zh: 菜豆
-    zh-cn: 菜豆
-    zh-hans: 菜豆
-    zh-hant: 四季豆
-    zh-tw: 四季豆
+    zh_cn: 菜豆
+    zh_hans: 菜豆
+    zh_hant: 四季豆
+    zh_tw: 四季豆
 ---
 # [[Phaseolus_vulgaris]] 
 

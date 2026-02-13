@@ -216,7 +216,7 @@ UMLS_CUI: C0325013
 dv_has_:
   name_:
     ady: баджэ
-    aeb-arab: ثعلب
+    aeb_arab: ثعلب
     af: Vos
     alt: Тÿлкÿ
     am: ቀበሮ
@@ -232,7 +232,7 @@ dv_has_:
     az: tülkü
     azb: تۆلکو
     ban: Mamah
-    be-tarask: ліс
+    be_tarask: ліс
     bg: лисица
     bn: খেঁকশিয়াল
     bo: ཝ་མོ།
@@ -256,8 +256,8 @@ dv_has_:
     diq: Luwe
     el: αλεπού
     en: fox
-    en-ca: Fox
-    en-gb: fox
+    en_ca: Fox
+    en_gb: fox
     eo: vulpo
     es: zorro
     eu: azeri
@@ -303,7 +303,7 @@ dv_has_:
     ko: 여우
     ks: پۄژھٕ لوو
     ku: rovî
-    ku-latn: rovî
+    ku_latn: rovî
     kw: Lowarn
     ky: Түлкү
     la: Vulpes
@@ -328,7 +328,7 @@ dv_has_:
     nan: Hô͘-lî
     nb: rev
     nds: Voss
-    nds-nl: vossen
+    nds_nl: vossen
     ne: फ्याउरो
     nl: vos
     pa: ਲੂੰਬੜੀ
@@ -338,7 +338,7 @@ dv_has_:
     pnb: لومڑ
     ps: ګيدړ
     pt: raposa
-    pt-br: raposa
+    pt_br: raposa
     qu: atuq
     ro: vulpe
     ru: лисица
@@ -357,7 +357,7 @@ dv_has_:
     so: Dacawo
     sq: Dhelpra
     sr: лисица
-    sr-ec: лисица
+    sr_ec: лисица
     sv: rävar
     szy: kuyu
     ta: நரி
@@ -378,8 +378,8 @@ dv_has_:
     yue: 狐狸
     za: nyaenma
     zh: 狐
-    zh-hans: 狐
-    zh-hant: 狐狸
+    zh_hans: 狐
+    zh_hant: 狐狸
 ---
 # [[Fox]] 🦊 
 

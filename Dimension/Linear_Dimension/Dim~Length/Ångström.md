@@ -69,7 +69,7 @@ dv_has_:
     ast: Ángstrom
     az: Anqstrem
     be: Ангстрэм
-    be-tarask: ангстрэм
+    be_tarask: ангстрэм
     bg: Ангстрьом
     bn: অ্যাংস্ট্রম একক
     br: Angström
@@ -150,14 +150,14 @@ dv_has_:
     xmf: ანგსტრემი
     yue: 埃格斯特朗
     zh: 埃格斯特朗
-    zh-cn: 埃格斯特朗
-    zh-hans: 埃格斯特朗
-    zh-hant: 埃格斯特朗
-    zh-hk: 埃格斯特朗
-    zh-mo: 埃格斯特朗
+    zh_cn: 埃格斯特朗
+    zh_hans: 埃格斯特朗
+    zh_hant: 埃格斯特朗
+    zh_hk: 埃格斯特朗
+    zh_mo: 埃格斯特朗
     zh-my: 埃格斯特朗
-    zh-sg: 埃格斯特朗
-    zh-tw: 埃格斯特朗
+    zh_sg: 埃格斯特朗
+    zh_tw: 埃格斯特朗
 ---
 # [[Ångström]] 
 

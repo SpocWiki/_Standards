@@ -71,7 +71,7 @@ dv_has_:
     ast: Doctrina
     az: Doktrina
     ban: Ajahan tatwa
-    be-tarask: дактрына
+    be_tarask: дактрына
     bg: Доктрина
     bn: মতবাদ
     bs: Doktrina
@@ -106,11 +106,11 @@ dv_has_:
     ja: ドクトリン
     ka: დოქტრინა
     kk: Әскери тұжырымдама
-    kk-arab: اسكەرىي تۇجىرىمداما
+    kk_arab: اسكەرىي تۇجىرىمداما
     kk-cn: اسكەرىي تۇجىرىمداما
-    kk-cyrl: Әскери тұжырымдама
+    kk_cyrl: Әскери тұжырымдама
     kk-kz: Әскери тұжырымдама
-    kk-latn: Äskerï tujırımdama
+    kk_latn: Äskerï tujırımdama
     kk-tr: Äskerï tujırımdama
     kn: ಸಿಧ್ಧಾಂತ
     ko: 독트린
@@ -122,7 +122,7 @@ dv_has_:
     mg: Foto-pampianarana
     mk: доктрина
     ms: doktrin
-    ms-arab: دوکترين
+    ms_arab: دوکترين
     nb: doktrine
     nl: doctrine
     nn: doktrine
@@ -140,8 +140,8 @@ dv_has_:
     sms: doktriin
     sq: Doktrina
     sr: доктрина
-    sr-ec: доктрина
-    sr-el: doktrina
+    sr_ec: доктрина
+    sr_el: doktrina
     sv: doktrin
     ta: கோட்பாடு
     tg: доктрина
@@ -158,7 +158,7 @@ dv_has_:
     wuu: Doctrina
     yue: 教義
     zh: Doctrina
-    zh-hant: Doctrina
+    zh_hant: Doctrina
     zu: Imfundiso
 ---
 # [[Doctrine]] 

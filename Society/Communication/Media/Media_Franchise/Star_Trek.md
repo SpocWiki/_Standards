@@ -94,7 +94,7 @@ dv_has_:
   name_:
     ar: ستار تريك
     be: Зорны шлях
-    be-tarask: Зорны шлях
+    be_tarask: Зорны шлях
     bg: Стар Трек
     bn: স্টার ট্রেক
     bs: Zvjezdane staze
@@ -133,14 +133,14 @@ dv_has_:
     yi: שטערן רייזע
     yue: 星空奇遇記
     zh: 星艦奇航記
-    zh-cn: 星际迷航
-    zh-hans: 星际旅行
-    zh-hant: 星艦奇航記
-    zh-hk: 星空奇遇記
-    zh-mo: 星空奇遇記
+    zh_cn: 星际迷航
+    zh_hans: 星际旅行
+    zh_hant: 星艦奇航記
+    zh_hk: 星空奇遇記
+    zh_mo: 星空奇遇記
     zh-my: 星际旅行
-    zh-sg: 星际旅行
-    zh-tw: 星艦迷航記
+    zh_sg: 星际旅行
+    zh_tw: 星艦迷航記
 ---
 # [[Star_Trek]] 
 

@@ -62,7 +62,7 @@ dv_has_:
   name_:
     ar: غرور
     az: Şöhrətpərəstlik
-    be-tarask: славалюбства
+    be_tarask: славалюбства
     bg: Суета
     bs: Taština
     ca: vanitat

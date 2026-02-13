@@ -168,22 +168,22 @@ dv_has_:
     az: teatr rejissoru
     ba: театр режиссёры
     be: тэатральны рэжысёр
-    be-tarask: тэатральны рэжысэр
+    be_tarask: тэатральны рэжысэр
     bg: театрален режисьор
     bn: নির্দেশক
     br: leurenner
     ca: director de teatre
     crh: teatr rejissörı
-    crh-latn: teatr rejissörı
+    crh_latn: teatr rejissörı
     cs: divadelní režisér
     cy: cyfarwyddwr theatr
     da: sceneinstruktør
     de: Bühnenregisseur
-    de-ch: Regisseur
+    de_ch: Regisseur
     el: θεατρικός σκηνοθέτης
     en: theatrical director
-    en-ca: theatre director
-    en-gb: theatre director
+    en_ca: theatre director
+    en_gb: theatre director
     en-us: theatrical director
     eo: teatra reĝisoro
     es: director de teatro
@@ -219,7 +219,7 @@ dv_has_:
     mk: театарски режисер
     mr: नाटक दिग्दर्शक
     ms: pengarah teater
-    ms-arab: ڤڠاره تياتر
+    ms_arab: ڤڠاره تياتر
     mt: reġista teatrali
     nb: sceneinstruktør
     nds: Theaterspeelbaas
@@ -229,7 +229,7 @@ dv_has_:
     pa: ਰੰਗ-ਮੰਚ ਨਿਰਦੇਸ਼ਕ
     pl: reżyser teatralny
     pt: encenador
-    pt-br: diretor teatral
+    pt_br: diretor teatral
     ro: regizor de teatru
     ru: театральный режиссёр
     sco: theatre director
@@ -240,8 +240,8 @@ dv_has_:
     smn: teatterstivrejeijee
     sq: Regjisor
     sr: позоришни режисер
-    sr-ec: позоришни режисер
-    sr-el: pozorišni režiser
+    sr_ec: позоришни режисер
+    sr_el: pozorišni režiser
     sv: teaterregissör
     ta: நாடக இயக்குநர்
     tg: коргардони театр
@@ -256,14 +256,14 @@ dv_has_:
     vo: teatirejidan
     yue: 戲劇導演
     zh: 戏剧导演
-    zh-cn: 戏剧导演
-    zh-hans: 戏剧导演
-    zh-hant: 戲劇導演
-    zh-hk: 戲劇導演
-    zh-mo: 戲劇導演
+    zh_cn: 戏剧导演
+    zh_hans: 戏剧导演
+    zh_hant: 戲劇導演
+    zh_hk: 戲劇導演
+    zh_mo: 戲劇導演
     zh-my: 戏剧导演
-    zh-sg: 戏剧导演
-    zh-tw: 戲劇導演
+    zh_sg: 戏剧导演
+    zh_tw: 戲劇導演
 ---
 # [[Theatrical_Director]] 
 

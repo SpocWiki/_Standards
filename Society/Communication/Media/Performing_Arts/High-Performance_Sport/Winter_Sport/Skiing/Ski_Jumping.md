@@ -95,7 +95,7 @@ dv_has_:
     ast: Saltu d'esquí
     ba: Трамплиндан саңғыла һикереү
     be: скачкі на лыжах з трампліна
-    be-tarask: скачкі на лыжах з трампліну
+    be_tarask: скачкі на лыжах з трампліну
     bg: ски скокове
     bs: skijaški skokovi
     ca: salt d'esquí
@@ -105,8 +105,8 @@ dv_has_:
     de: Skispringen
     el: Άλμα με σκι
     en: ski jumping
-    en-ca: Ski jumping
-    en-gb: ski jumping
+    en_ca: Ski jumping
+    en_gb: ski jumping
     en-us: ski jumping
     eo: skisaltado
     es: salto de esquí
@@ -143,7 +143,7 @@ dv_has_:
     olo: mägihyppy
     pl: skoki narciarskie
     pt: salto de esqui
-    pt-br: salto de esqui
+    pt_br: salto de esqui
     ro: Sărituri cu schiurile
     ru: прыжки на лыжах с трамплина
     sco: ski jumpin
@@ -168,11 +168,11 @@ dv_has_:
     wuu: 跳台滑雪
     yue: 跳臺滑雪
     zh: 跳台滑雪
-    zh-cn: 跳台滑雪
-    zh-hans: 跳台滑雪
-    zh-hant: 跳台滑雪
-    zh-hk: 跳台滑雪
-    zh-tw: 跳台滑雪
+    zh_cn: 跳台滑雪
+    zh_hans: 跳台滑雪
+    zh_hant: 跳台滑雪
+    zh_hk: 跳台滑雪
+    zh_tw: 跳台滑雪
 ---
 # [[Ski_Jumping]] 
 

@@ -120,7 +120,7 @@ dv_has_:
     ast: The Chronicles of Narnia
     az: Narniya xronikaları
     be: Хронікі Нарніі
-    be-tarask: Хронікі Нарніі
+    be_tarask: Хронікі Нарніі
     bg: Хрониките на Нарния
     bn: দ্য ক্রনিকলস্ অব নার্নিয়া
     bs: Narnijske hronike
@@ -130,8 +130,8 @@ dv_has_:
     de: Die Chroniken von Narnia-Heptalogie
     el: Τα χρονικά της Νάρνια
     en: The Chronicles of Narnia
-    en-ca: The Chronicles of Narnia
-    en-gb: The Chronicles of Narnia
+    en_ca: The Chronicles of Narnia
+    en_gb: The Chronicles of Narnia
     eo: Kronikoj de Narnio
     es: Las Crónicas de Narnia
     et: Narnia kroonikad
@@ -168,7 +168,7 @@ dv_has_:
     nn: Narnia
     pl: Opowieści z Narnii
     pt: As Crônicas de Nárnia
-    pt-br: As Crônicas de Nárnia
+    pt_br: As Crônicas de Nárnia
     qu: Narnia llaqtamanta wiñay willaykuykuna
     ro: Cronicile din Narnia
     ru: Хроники Нарнии
@@ -177,8 +177,8 @@ dv_has_:
     sl: Zgodbe iz Narnije
     sq: The Chronicles of Narnia
     sr: Letopisi Narnije
-    sr-ec: Летописи Нарније
-    sr-el: Letopisi Narnije
+    sr_ec: Летописи Нарније
+    sr_el: Letopisi Narnije
     sv: Berättelsen om Narnia
     ta: த குரோனிக்கல்ஸ் ஆஃப் நார்னியா
     te: ది క్రానికల్స్ ఆఫ్ నార్నియా
@@ -191,9 +191,9 @@ dv_has_:
     wuu: 纳尼亚传奇
     yue: 魔幻王國
     zh: 納尼亞傳奇
-    zh-hans: 纳尼亚传奇
-    zh-hant: 納尼亞傳奇
-    zh-hk: 魔幻王國
+    zh_hans: 纳尼亚传奇
+    zh_hant: 納尼亞傳奇
+    zh_hk: 魔幻王國
 ---
 # [[Chronicles_of_Narnia]] 
 

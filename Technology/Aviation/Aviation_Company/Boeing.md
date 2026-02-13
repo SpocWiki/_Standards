@@ -234,8 +234,8 @@ dv_has_:
     pa: ਬੋਇੰਗ
     pnb: بوئنگ
     sr: Боинг
-    sr-ec: Боинг
-    sr-el: Boing
+    sr_ec: Боинг
+    sr_el: Boing
     ta: போயிங்
     te: బోయింగ్
     th: โบอิง
@@ -247,14 +247,14 @@ dv_has_:
     yi: באואינג
     yue: 波音
     zh: 波音
-    zh-cn: 波音
-    zh-hans: 波音
-    zh-hant: 波音
-    zh-hk: 波音
-    zh-mo: 波音
+    zh_cn: 波音
+    zh_hans: 波音
+    zh_hant: 波音
+    zh_hk: 波音
+    zh_mo: 波音
     zh-my: 波音
-    zh-sg: 波音
-    zh-tw: 波音
+    zh_sg: 波音
+    zh_tw: 波音
 ---
 # [[Boeing]] 
 

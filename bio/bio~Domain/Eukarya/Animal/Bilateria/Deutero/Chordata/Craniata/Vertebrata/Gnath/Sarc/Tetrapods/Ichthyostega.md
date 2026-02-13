@@ -30,11 +30,11 @@ dv_has_:
     ceb: Ichthyostega
     cs: Ichthyostega
     de: Ichthyostega
-    de-ch: Ichthyostega
+    de_ch: Ichthyostega
     el: Ιχθυόστεγα
     en: Ichthyostega
-    en-ca: Ichthyostega
-    en-gb: Ichthyostega
+    en_ca: Ichthyostega
+    en_gb: Ichthyostega
     en-us: Ichthyostega
     es: Ichthyostega
     eu: Ichthyostega
@@ -61,7 +61,7 @@ dv_has_:
     oc: Ichthyostega
     pl: Ichtiostega
     pt: Ichthyostega
-    pt-br: Ichthyostega
+    pt_br: Ichthyostega
     ro: Ichthyostega
     ru: Ихтиостега
     sk: Ichthyostegidae
@@ -75,12 +75,12 @@ dv_has_:
     vi: Ichthyostega
     war: Ichthyostega
     zh: 鱼石螈属
-    zh-cn: 鱼石螈属
-    zh-hans: 鱼石螈属
-    zh-hant: 魚石螈屬
-    zh-hk: 魚石螈屬
-    zh-sg: 鱼石螈属
-    zh-tw: 魚石螈屬
+    zh_cn: 鱼石螈属
+    zh_hans: 鱼石螈属
+    zh_hant: 魚石螈屬
+    zh_hk: 魚石螈屬
+    zh_sg: 鱼石螈属
+    zh_tw: 魚石螈屬
 ---
 # [[Ichthyostega]]
 

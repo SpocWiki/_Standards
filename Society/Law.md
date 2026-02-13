@@ -241,7 +241,7 @@ dv_has_:
     bar: Recht
     bcl: Ley
     be: права
-    be-tarask: права
+    be_tarask: права
     bew: Wèt
     bg: право
     bho: कानून
@@ -266,12 +266,12 @@ dv_has_:
     cy: cyfraith
     da: jura
     de: Recht
-    de-ch: Recht
+    de_ch: Recht
     diq: Huqûq
     el: δίκαιο
     en: law
-    en-ca: Law
-    en-gb: law
+    en_ca: Law
+    en_gb: law
     eo: juro
     es: derecho
     et: õigus
@@ -325,7 +325,7 @@ dv_has_:
     ko: 법
     krc: Хакъ
     ku: dad
-    ku-latn: dad
+    ku_latn: dad
     kv: Инӧд
     kw: Lagha
     ky: Укук
@@ -343,7 +343,7 @@ dv_has_:
     mad: Hokom
     mag: विधि
     mai: कानून
-    map-bms: Hukum
+    map_bms: Hukum
     mg: Lalàna
     mi: Ture
     min: Hukum
@@ -352,7 +352,7 @@ dv_has_:
     mn: Хууль
     mr: कायदा
     ms: undang-undang
-    ms-arab: اوندڠ٢
+    ms_arab: اوندڠ٢
     mt: liġi
     mwl: Dreito
     my: ဥပဒေ
@@ -360,7 +360,7 @@ dv_has_:
     nan: Hoat-lu̍t
     nb: lov og rett
     nds: Juristeree
-    nds-nl: recht
+    nds_nl: recht
     ne: कानून
     nl: recht
     nn: lov og rett
@@ -375,7 +375,7 @@ dv_has_:
     pms: Lej
     pnb: قنون
     pt: direito
-    pt-br: direito
+    pt_br: direito
     qu: Chiqa
     ro: drept
     ru: закон
@@ -410,7 +410,7 @@ dv_has_:
     trv: Gaya
     ts: Nawu
     tt: хокук
-    tt-cyrl: хокук
+    tt_cyrl: хокук
     tw: Mmara
     udm: кат
     uk: право
@@ -430,14 +430,14 @@ dv_has_:
     zea: Recht
     zgh: ⴰⵙⵍⴳⵏ
     zh: 法律
-    zh-cn: 法律
-    zh-hans: 法律
-    zh-hant: 法律
-    zh-hk: 法律
-    zh-mo: 法律
+    zh_cn: 法律
+    zh_hans: 法律
+    zh_hant: 法律
+    zh_hk: 法律
+    zh_mo: 法律
     zh-my: 法律
-    zh-sg: 法律
-    zh-tw: 法律
+    zh_sg: 法律
+    zh_tw: 法律
     zu: Umthetho
 ---
 # [[Law]] 

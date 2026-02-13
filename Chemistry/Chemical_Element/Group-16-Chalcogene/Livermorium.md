@@ -123,7 +123,7 @@ dv_has_:
     az: Livermorium
     ban: Livermorium
     be: Ліверморый
-    be-tarask: Лівэрмор
+    be_tarask: Лівэрмор
     bg: ливерморий
     bho: लिवरमोरियम
     bn: লিভারমোরিয়াম
@@ -140,11 +140,11 @@ dv_has_:
     da: livermorium
     de: Livermorium
     de-at: Livermorium
-    de-ch: Livermorium
+    de_ch: Livermorium
     el: λιβερμόριο
     en: livermorium
-    en-ca: livermorium
-    en-gb: livermorium
+    en_ca: livermorium
+    en_gb: livermorium
     eo: livermoriumo
     es: livermorio
     et: livermoorium
@@ -213,7 +213,7 @@ dv_has_:
     pl: liwermor
     ps: ليورموريوم
     pt: livermório
-    pt-br: livermório
+    pt_br: livermório
     qu: Ununheksiyu
     ro: livermoriu
     ru: ливерморий
@@ -250,14 +250,14 @@ dv_has_:
     yo: Livermorium
     yue: 鉝
     zh: 鉝
-    zh-cn: "\U0002B7F7"
-    zh-hans: "\U0002B7F7"
-    zh-hant: 鉝
-    zh-hk: 鉝
-    zh-mo: 鉝
+    zh_cn: "\U0002B7F7"
+    zh_hans: "\U0002B7F7"
+    zh_hant: 鉝
+    zh_hk: 鉝
+    zh_mo: 鉝
     zh-my: "\U0002B7F7"
-    zh-sg: "\U0002B7F7"
-    zh-tw: 鉝
+    zh_sg: "\U0002B7F7"
+    zh_tw: 鉝
     zu: ILivambi
 ---
 # [[Livermorium]] 

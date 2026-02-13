@@ -423,7 +423,7 @@ dv_has_:
   name_:
     ab: Гвинеиа-Бисау
     ace: Guinea Bissau
-    aeb-arab: غينيا بيساو
+    aeb_arab: غينيا بيساو
     af: Guinee-Bissau
     am: ጊኔ-ቢሳው
     ami: Guinea-bissau
@@ -443,7 +443,7 @@ dv_has_:
     bar: Guinea-Bissau
     bcl: Guineya-Bisau
     be: Гвінея-Бісау
-    be-tarask: Гвінэя-Бісаў
+    be_tarask: Гвінэя-Бісаў
     bew: Giné-Biso
     bg: Гвинея-Бисау
     bgn: گوینی بیساو
@@ -458,14 +458,14 @@ dv_has_:
     bs: Gvineja-Bisau
     bxr: Гвиней-Бисау
     ca: Guinea Bissau
-    cbk-zam: Guinea-Bissau
+    cbk_zam: Guinea-Bissau
     cdo: Guinea-Bissau
     ce: Гвине-Бисау
     ceb: Guinea-Bissau
     ckb: گینێ بیساو
     co: Guinea-Bissau
     crh: Gvineya Bissau
-    crh-latn: Gvineya Bissau
+    crh_latn: Gvineya Bissau
     cs: Guinea-Bissau
     cv: Гвиней-Бисау
     cy: Gini Bisaw
@@ -473,7 +473,7 @@ dv_has_:
     dag: Guinea-Bissau
     de: Guinea-Bissau
     de-at: Guinea-Bissau
-    de-ch: Guinea-Bissau
+    de_ch: Guinea-Bissau
     diq: Gineya Bissaoy
     dsb: Guineja-Bissau
     dty: गिनीया बिसाउ
@@ -481,8 +481,8 @@ dv_has_:
     ee: Guinea-Bissau
     el: Γουινέα-Μπισσάου
     en: Guinea-Bissau
-    en-ca: Guinea-Bissau
-    en-gb: Guinea-Bissau
+    en_ca: Guinea-Bissau
+    en_gb: Guinea-Bissau
     eo: Gvineo-Bisaŭo
     es: Guinea-Bisáu
     et: Guinea-Bissau
@@ -558,7 +558,7 @@ dv_has_:
     lv: Gvineja-Bisava
     lzh: 幾內亞比紹
     mai: गिनी-बिसाउ
-    map-bms: Guinea-Bissau
+    map_bms: Guinea-Bissau
     mdf: Гвинэя-Бисау
     mg: Ginea-Bissau
     mhr: Гвиней-Бисау
@@ -580,7 +580,7 @@ dv_has_:
     nan: Guiné-Bissau
     nb: Guinea-Bissau
     nds: Guinea-Bissau
-    nds-nl: Guinea-Bissau
+    nds_nl: Guinea-Bissau
     ne: गिनी-बिसाउ
     new: गिनी बिसाउ
     nl: Guinee-Bissau
@@ -604,7 +604,7 @@ dv_has_:
     pnb: گنی بساؤ
     ps: ګيني بېساو
     pt: Guiné-Bissau
-    pt-br: Guiné-Bissau
+    pt_br: Guiné-Bissau
     qu: Khiniya-Wisaw
     rki: ဂင်းနီဗစ်ဆောသမ္မတနိုင်ငံ
     rmy: Guineya-Bissau
@@ -636,8 +636,8 @@ dv_has_:
     so: Guinea-Bissau
     sq: Guinea Bisau
     sr: Гвинеја Бисао
-    sr-ec: Гвинеја Бисао
-    sr-el: Gvineja Bisao
+    sr_ec: Гвинеја Бисао
+    sr_el: Gvineja Bisao
     ss: IGiniya-Bhasawu
     st: Guinea-Bissau
     stq: Guinea-Bissau
@@ -685,11 +685,11 @@ dv_has_:
     zea: Guinee-Bissau
     zgh: ⴳⵉⵏⵢⴰ ⴱⵉⵙⴰⵡ
     zh: 畿內亞比紹
-    zh-cn: 几内亚比绍
-    zh-hans: 几内亚比绍
-    zh-hant: 幾內亞比索
-    zh-hk: 畿內亞比紹
-    zh-tw: 幾內亞比索
+    zh_cn: 几内亚比绍
+    zh_hans: 几内亚比绍
+    zh_hant: 幾內亞比索
+    zh_hk: 畿內亞比紹
+    zh_tw: 幾內亞比索
     zu: IGini Bisawu
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Guinea-Bissau

@@ -136,7 +136,7 @@ dv_has_:
   name_:
     ab: Лихтенштеин
     ace: Liechtenstein
-    aeb-arab: ليختنشتاين
+    aeb_arab: ليختنشتاين
     af: Liechtenstein
     am: ሊክተንስታይን
     ami: Liechtenstein
@@ -158,7 +158,7 @@ dv_has_:
     bar: Liachtnstoa
     bcl: Liechtenstein
     be: Ліхтэнштэйн
-    be-tarask: Ліхтэнштайн
+    be_tarask: Ліхтэнштайн
     bew: Lihtenstèn
     bg: Лихтенщайн
     bho: लिक्टन्सटाइन
@@ -170,7 +170,7 @@ dv_has_:
     bs: Lihtenštajn
     bxr: Лихтенштейн
     ca: Liechtenstein
-    cbk-zam: Liechtenstein
+    cbk_zam: Liechtenstein
     cdo: Liechtenstein
     ce: Лихтенштейн
     ceb: Liechtenstein
@@ -178,7 +178,7 @@ dv_has_:
     ckb: لیختنشتاین
     co: Liechtenstein
     crh: Lihtenşteyn
-    crh-latn: Lihtenşteyn
+    crh_latn: Lihtenşteyn
     cs: Lichtenštejnsko
     csb: Liechtenstein
     cu: Лихтєнщаинъ
@@ -188,7 +188,7 @@ dv_has_:
     dag: Liechtenstein
     de: Liechtenstein
     de-at: Liechtenstein
-    de-ch: Liechtenstein
+    de_ch: Liechtenstein
     diq: Liechtenstein
     dsb: Liechtensteinska
     dty: लिश्टेनस्टाईन
@@ -197,8 +197,8 @@ dv_has_:
     el: Λίχτενσταϊν
     eml: Liechtenstein
     en: Liechtenstein
-    en-ca: Liechtenstein
-    en-gb: Liechtenstein
+    en_ca: Liechtenstein
+    en_gb: Liechtenstein
     en-us: Liechtenstein
     eo: Liĥtenŝtejno
     es: Liechtenstein
@@ -223,7 +223,7 @@ dv_has_:
     gn: Liechytenteĩ
     gom: लिंचेनस्टाइन
     gom-deva: लिंचेनस्टाइन
-    gom-latn: Liechtenstein
+    gom_latn: Liechtenstein
     got: "\U0001033B\U00010339\U0001033F\U00010337\U00010344\U00010330\U00010343\U00010344\U00010330\U00010339\U0001033D\U00010343"
     gpe: Liechtenstein
     gsw: Liachtaschta
@@ -289,7 +289,7 @@ dv_has_:
     lv: Lihtenšteina
     lzh: 列支敦士登
     mad: Liechtenstein
-    map-bms: Liechtenstein
+    map_bms: Liechtenstein
     mdf: Лихтэнштайн
     mg: Liechtenstein
     mhr: Лихтенштейн
@@ -311,7 +311,7 @@ dv_has_:
     nap: Liechtenstein
     nb: Liechtenstein
     nds: Liechtensteen
-    nds-nl: Liechtenstein
+    nds_nl: Liechtenstein
     ne: लिस्टेनटाइन
     new: लीश्टेनस्टाईन
     nl: Liechtenstein
@@ -340,7 +340,7 @@ dv_has_:
     pnt: Λιχτενστάιν
     ps: لیختن اشتاین
     pt: Liechtenstein
-    pt-br: Liechtenstein
+    pt_br: Liechtenstein
     qu: Liechtenstein
     rm: Liechtenstein
     rmy: Liechtenstein
@@ -369,8 +369,8 @@ dv_has_:
     so: Liechtenstein
     sq: Lihtenshtajni
     sr: Лихтенштајн
-    sr-ec: Лихтенштајн
-    sr-el: Lihtenštajn
+    sr_ec: Лихтенштајн
+    sr_el: Lihtenštajn
     srn: Liechtensteinkondre
     ss: ILeshestani
     stq: Liechtenstein
@@ -419,14 +419,14 @@ dv_has_:
     za: Liechtenstein
     zea: Liechenstein
     zh: 列支敦斯登
-    zh-cn: 列支敦士登
-    zh-hans: 列支敦士登
-    zh-hant: 列支敦斯登
-    zh-hk: 列支敦士登
-    zh-mo: 列支敦士登
+    zh_cn: 列支敦士登
+    zh_hans: 列支敦士登
+    zh_hant: 列支敦斯登
+    zh_hk: 列支敦士登
+    zh_mo: 列支敦士登
     zh-my: 列支敦士登
-    zh-sg: 列支敦士登
-    zh-tw: 列支敦斯登
+    zh_sg: 列支敦士登
+    zh_tw: 列支敦斯登
     zu: i-Liechtenstein
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Liechtenstein

@@ -164,7 +164,7 @@ dv_has_:
     az: bayram
     ba: байрам
     be: свята
-    be-tarask: сьвята
+    be_tarask: сьвята
     bg: празник
     bho: "\U00011093\U000110B3\U00011097\U000110B9\U00011097\U000110B2"
     bjn: Hari parai
@@ -174,19 +174,19 @@ dv_has_:
     ca: dia festiu
     ckb: ڕۆژی پشوو
     crh: bayram
-    crh-latn: bayram
+    crh_latn: bayram
     cs: svátek
     csb: swiãto
     cv: уяв
     cy: gŵyl
     da: helligdag
     de: Feiertag
-    de-ch: Feiertag
+    de_ch: Feiertag
     dsb: swěźeń
     el: γιορτή
     en: holiday
-    en-ca: holiday
-    en-gb: holiday
+    en_ca: holiday
+    en_gb: holiday
     eo: festa aŭ feria tago
     es: día festivo
     et: puhkepäev
@@ -252,7 +252,7 @@ dv_has_:
     pl: święto
     pnt: έξεργος
     pt: feriado
-    pt-br: feriado
+    pt_br: feriado
     ro: sărbătoare
     ru: праздник
     rue: Сято
@@ -267,8 +267,8 @@ dv_has_:
     sn: mhemberero
     sq: festa
     sr: празник
-    sr-ec: празник
-    sr-el: praznik
+    sr_ec: празник
+    sr_el: praznik
     sv: helgdag
     sw: sikukuu
     szl: Fajer
@@ -282,7 +282,7 @@ dv_has_:
     tr: bayram
     ts: Masiko yo tlangela
     tt: бәйрәм
-    tt-cyrl: бәйрәм
+    tt_cyrl: бәйрәм
     uk: свято
     ur: تعطیل
     uz: bayram
@@ -296,9 +296,9 @@ dv_has_:
     yue: 節慶
     za: gyajgeiz
     zh: 假日
-    zh-hans: 假日
-    zh-hant: 假日
-    zh-hk: 假日
+    zh_hans: 假日
+    zh_hant: 假日
+    zh_hk: 假日
     zu: Umvalo
 ---
 # [[Holiday]] 

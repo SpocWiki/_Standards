@@ -71,7 +71,7 @@ dv_has_:
     ast: carrera armamentista
     az: silahlanma yarışı
     be: гонка ўзбраенняў
-    be-tarask: гонка ўзбраеньняў
+    be_tarask: гонка ўзбраеньняў
     bg: надпревара във въоръжаването
     ca: cursa armamentista
     cs: závody ve zbrojení
@@ -95,11 +95,11 @@ dv_has_:
     it: corsa agli armamenti
     ja: 軍備拡張競争
     kk: қарулану жарысы
-    kk-arab: قارۋلانۋ جارىسى
+    kk_arab: قارۋلانۋ جارىسى
     kk-cn: قارۋلانۋ جارىسى
-    kk-cyrl: қарулану жарысы
+    kk_cyrl: қарулану жарысы
     kk-kz: қарулану жарысы
-    kk-latn: qarwlanw jarısı
+    kk_latn: qarwlanw jarısı
     kk-tr: qarwlanw jarısı
     ko: 군비 경쟁
     la: Certamen armorum
@@ -125,12 +125,12 @@ dv_has_:
     vi: chạy đua vũ trang
     yue: 軍備競賽
     zh: 军备竞赛
-    zh-cn: 军备竞赛
-    zh-hans: 军备竞赛
-    zh-hant: 軍備競賽
-    zh-hk: 軍備競賽
-    zh-sg: 军备竞赛
-    zh-tw: 軍備競賽
+    zh_cn: 军备竞赛
+    zh_hans: 军备竞赛
+    zh_hant: 軍備競賽
+    zh_hk: 軍備競賽
+    zh_sg: 军备竞赛
+    zh_tw: 軍備競賽
 ---
 # [[Arms_Race]] 
 

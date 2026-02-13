@@ -165,7 +165,7 @@ dv_has_:
     ba: Рамаҙан
     bcl: Ramadan
     be: Рамадан
-    be-tarask: рамадан
+    be_tarask: рамадан
     bew: Puasa (bulan)
     bg: Рамазан
     bho: रमजान
@@ -187,7 +187,7 @@ dv_has_:
     diq: Remezan
     el: Ραμαζάνι
     en: Ramadan
-    en-gb: Ramadan
+    en_gb: Ramadan
     eo: Ramadano
     es: Ramadán
     et: ramadaan
@@ -238,7 +238,7 @@ dv_has_:
     mn: Рамадан
     mr: रमजान
     ms: Ramadan
-    ms-arab: رمضان
+    ms_arab: رمضان
     mt: Ramadan
     mzn: مارمضون
     nan: Ramadan
@@ -254,7 +254,7 @@ dv_has_:
     pnb: رمضان
     ps: روژه
     pt: Ramadão
-    pt-br: Ramadã
+    pt_br: Ramadã
     ro: Ramadan
     ru: рамадан
     sa: रम्ज़ान्
@@ -301,7 +301,7 @@ dv_has_:
     yue: 齋戒月習俗
     zgh: ⵔⵎⴹⴰⵏ
     zh: 齋戒月
-    zh-cn: Ramadan
+    zh_cn: Ramadan
 ---
 # [[Ramadan]] 
 

@@ -160,7 +160,7 @@ dv_has_:
     az: Ümumdünya hörümçək toru
     azb: دونیا میقیاسیندا وب
     ba: Бөтә Донъя Селтәре
-    be-tarask: Сусьветнае павуціньне
+    be_tarask: Сусьветнае павуціньне
     bew: Jala Jembar Jagat
     bg: Уеб
     bho: वल्ड वाइड वेब
@@ -215,7 +215,7 @@ dv_has_:
     mni: ꯋꯥꯔꯗ ꯋꯥꯏꯗ ꯋꯦꯕ
     mr: वर्ल्ड वाईड वेब
     ms: Jaringan Sejagat
-    ms-arab: جاريڠن سجاڬت
+    ms_arab: جاريڠن سجاڬت
     mul: World Wide Web
     my: ဝက်ဘ်
     mzn: وب
@@ -240,8 +240,8 @@ dv_has_:
     sl: splet
     sq: Rrjeti gjithë botëror
     sr: веб
-    sr-ec: Веб
-    sr-el: Veb
+    sr_ec: Веб
+    sr_el: Veb
     sv: webben
     sw: Wavuti wa Walimwengu(World Wide Web)
     ta: உலகளாவிய வலை
@@ -249,8 +249,8 @@ dv_has_:
     tg: Веби ҷаҳонгустар
     th: เวิลด์ไวด์เว็บ
     tt: бөтендөнья пәрәвезе
-    tt-cyrl: Бөтендөнья пәрәвезе
-    tt-latn: Bötendönya päräweze
+    tt_cyrl: Бөтендөнья пәрәвезе
+    tt_latn: Bötendönya päräweze
     tum: Lutatavi wa Charu Chose (World Wide Web)
     tw: Wiase Nyinaa Wɛbsaet ( World Wide Web; WWW )
     udm: Дунневыл вотэс
@@ -264,11 +264,11 @@ dv_has_:
     xmf: მოსოფელიშ ბონდღი
     yue: 萬維網
     zh: 万维网
-    zh-cn: 万维网
-    zh-hans: 万维网
-    zh-hant: 全球資訊網
-    zh-hk: 萬維網
-    zh-tw: 全球資訊網
+    zh_cn: 万维网
+    zh_hans: 万维网
+    zh_hant: 全球資訊網
+    zh_hk: 萬維網
+    zh_tw: 全球資訊網
     zu: Isizindalwazi sokuxhumana somhlaba jikelele
 ---
 # [[World_Wide_Web]] 

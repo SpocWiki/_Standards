@@ -275,7 +275,7 @@ dv_has_:
     az: Tintoretto
     ba: Тинторетто
     be: Тынтарэта
-    be-tarask: Тынтарэта
+    be_tarask: Тынтарэта
     bg: Тинторето
     bo: ཏིན་ཏོ་རེ་ཏོ།
     br: Jacopo Tintoretto
@@ -325,7 +325,7 @@ dv_has_:
     pl: Jacopo Tintoretto
     pms: Tintoret
     pt: Tintoretto
-    pt-br: Tintoretto
+    pt_br: Tintoretto
     qu: Tintoretto
     ro: Tintoretto
     ru: Тинторетто
@@ -337,7 +337,7 @@ dv_has_:
     sl: Tintoretto
     sq: Jakobo Robusti Tintoretto
     sr: Тинторето
-    sr-ec: Тинторето
+    sr_ec: Тинторето
     stq: Jacopo Robusti
     sv: Tintoretto
     th: ตินโตเรตโต

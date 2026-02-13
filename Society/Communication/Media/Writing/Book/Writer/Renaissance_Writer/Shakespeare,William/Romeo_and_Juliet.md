@@ -12,14 +12,14 @@ dv_has_:
     ba: Ромео һәм Джульетта
     bcl: Romeo asin Julieta
     be: Рамэа і Джульета
-    be-tarask: Рамэо і Джульета
+    be_tarask: Рамэо і Джульета
     bg: Ромео и Жулиета
     bn: রোমিও অ্যান্ড জুলিয়েট
     bo: ༄༅།། རའོ་མེའུ་ཨོ་དང་ཇོའུ་ལིའུ་ཡ་ཐི།
     br: Romeo and Juliet
     bs: Romeo i Julija
     ca: Romeu i Julieta
-    cbk-zam: La obra de romeo y julieta
+    cbk_zam: La obra de romeo y julieta
     ckb: ڕۆمیۆ و جولیەت
     cs: Romeo a Julie
     cv: Ромеопа Джульетта
@@ -28,8 +28,8 @@ dv_has_:
     de: Romeo und Julia
     el: Ρωμαίος και Ιουλιέτα
     en: Romeo and Juliet
-    en-ca: Romeo and Juliet
-    en-gb: Romeo and Juliet
+    en_ca: Romeo and Juliet
+    en_gb: Romeo and Juliet
     eo: Romeo kaj Julieta
     es: Romeo y Julieta
     et: Romeo ja Julia
@@ -59,7 +59,7 @@ dv_has_:
     ko-kp: 로미오와 쥴리에트
     ksh: Romeo un Julia op Kölsch
     ku: Romeo û Juliet
-    ku-latn: Trajediya William Shakespeare
+    ku_latn: Trajediya William Shakespeare
     ky: Ромео жана Жулетта
     la: Romeo and Juliet
     lmo: Romee e Sgiulieta
@@ -83,7 +83,7 @@ dv_has_:
     pl: Romeo i Julia
     pnb: رومیو تےجولیٹ
     pt: Romeu e Julieta
-    pt-br: Romeu e Julieta
+    pt_br: Romeu e Julieta
     qu: Romeowan Juliet
     ro: Romeo și Julieta
     ru: Ромео и Джульетта
@@ -115,9 +115,9 @@ dv_has_:
     yue: 羅密歐與朱麗葉
     za: Loz Maedaeu caeuq Cuh Leihyieb
     zh: 羅密歐與朱麗葉
-    zh-hant: 羅密歐與茱麗葉
-    zh-hk: 羅密歐與茱麗葉
-    zh-tw: 羅密歐與茱麗葉
+    zh_hant: 羅密歐與茱麗葉
+    zh_hk: 羅密歐與茱麗葉
+    zh_tw: 羅密歐與茱麗葉
 aliases:
 - La obra de romeo y julieta
 - Loz Maedaeu caeuq Cuh Leihyieb

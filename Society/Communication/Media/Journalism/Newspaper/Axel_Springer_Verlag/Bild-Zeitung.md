@@ -19,7 +19,7 @@ dv_has_:
     ar: بيلد
     arz: بيلد
     az: Bild
-    be-tarask: Bild
+    be_tarask: Bild
     bg: Билд
     ca: Bild
     cs: Bild
@@ -59,12 +59,12 @@ dv_has_:
     tr: Bild-Zeitung
     uk: Bild
     zh: 图片报
-    zh-cn: 图片报
-    zh-hans: 图片报
-    zh-hant: 圖片報
-    zh-hk: 圖片報
-    zh-sg: 图片报
-    zh-tw: 圖片報
+    zh_cn: 图片报
+    zh_hans: 图片报
+    zh_hant: 圖片報
+    zh_hk: 圖片報
+    zh_sg: 图片报
+    zh_tw: 圖片報
 ---
 ## #has_/text_of_/abstract 
 

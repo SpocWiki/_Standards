@@ -103,7 +103,7 @@ dv_has_:
     ast: Tresferencia de calor
     az: İstilik mübadiləsi
     be: цеплаперадача
-    be-tarask: цеплаперадача
+    be_tarask: цеплаперадача
     bg: Топлообмен
     bn: তাপ সঞ্চালন
     ca: transmissió tèrmica
@@ -111,11 +111,11 @@ dv_has_:
     cv: Ăшăярăш
     da: Varmeoverførsel
     de: Wärmeübertragung
-    de-ch: Wärmeübertragung
+    de_ch: Wärmeübertragung
     el: μεταφορά θερμότητας
     en: heat transfer
-    en-ca: heat transfer
-    en-gb: heat transfer
+    en_ca: heat transfer
+    en_gb: heat transfer
     eo: varmotransdono
     es: transferencia de calor
     et: Soojusülekanne
@@ -137,11 +137,11 @@ dv_has_:
     it: trasmissione del calore
     ja: 伝熱
     kk: Жылу алмасу беті
-    kk-arab: جىلۋ الماسۋ بەتى
+    kk_arab: جىلۋ الماسۋ بەتى
     kk-cn: جىلۋ الماسۋ بەتى
-    kk-cyrl: Жылу алмасу беті
+    kk_cyrl: Жылу алмасу беті
     kk-kz: Жылу алмасу беті
-    kk-latn: Jılw almasw beti
+    kk_latn: Jılw almasw beti
     kk-tr: Jılw almasw beti
     kn: ಶಾಖ ವರ್ಗಾವಣೆ
     ko: 전열
@@ -159,7 +159,7 @@ dv_has_:
     oc: Calor
     pl: wymiana cieplna
     pt: propagação térmica
-    pt-br: Propagação térmica
+    pt_br: Propagação térmica
     ro: Transmiterea căldurii
     ru: теплопередача
     sh: Prenos toplote
@@ -168,27 +168,27 @@ dv_has_:
     sl: prevajanje toplote
     sq: Transferi i nxehtësisë
     sr: пренос топлоте
-    sr-ec: Пренос топлоте
-    sr-el: Prenos toplote
+    sr_ec: Пренос топлоте
+    sr_el: Prenos toplote
     sv: värmeöverföring
     ta: வெப்பப் பரிமாற்றம்
     th: การถ่ายเทความร้อน
     tl: Paglilipat-hatid ng init
     tr: Isı aktarımı
     tt: җылылык тапшыру
-    tt-cyrl: җылылык тапшыру
+    tt_cyrl: җылылык тапшыру
     uk: теплообмін
     ur: حرارت کی منتقلی
     vi: trao đổi nhiệt
     wuu: 传热
     yue: 傳熱
     zh: 熱傳
-    zh-cn: 传热
-    zh-hans: 传热
-    zh-hant: 傳熱
-    zh-hk: 傳熱
-    zh-sg: 传热
-    zh-tw: 傳熱
+    zh_cn: 传热
+    zh_hans: 传热
+    zh_hant: 傳熱
+    zh_hk: 傳熱
+    zh_sg: 传热
+    zh_tw: 傳熱
 ---
 # [[Heat_Transfer]] 
 

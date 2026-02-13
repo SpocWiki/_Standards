@@ -118,7 +118,7 @@ dv_has_:
     ast: motor de gueta
     bar: Suachmaschin
     be: пошукавая машына
-    be-tarask: пошукавая сыстэма
+    be_tarask: пошукавая сыстэма
     bg: Търсачка
     bjn: masin panggagai
     bn: অনুসন্ধান ইঞ্জিন
@@ -131,11 +131,11 @@ dv_has_:
     cy: peiriant chwilio rhyngrwyd
     da: søgemaskine
     de: Suchmaschine
-    de-ch: Suchmaschine
+    de_ch: Suchmaschine
     el: Μηχανή αναζήτησης
     en: search engine
-    en-ca: web search engine
-    en-gb: search engine
+    en_ca: web search engine
+    en_gb: search engine
     eo: serĉilo
     es: buscador
     et: otsingumootor
@@ -175,7 +175,7 @@ dv_has_:
     mn: хайлтын систем
     ms: enjin gelintar
     nb: søkemotor
-    nds-nl: söökmachine
+    nds_nl: söökmachine
     nl: zoekmachine
     nn: søkjemotor
     oc: motor de recèrca
@@ -184,7 +184,7 @@ dv_has_:
     pms: Motor d'arserca
     ps: انټرنټ لټوونکی ماشين
     pt: motor de busca
-    pt-br: mecanismo de busca
+    pt_br: mecanismo de busca
     ro: motor de căutare
     ru: поисковая машина
     scn: muturi di circata
@@ -205,7 +205,7 @@ dv_has_:
     th: เสิร์ชเอนจิน
     tr: arama motoru
     tt: эзләү системасы
-    tt-cyrl: эзләү систимы
+    tt_cyrl: эзләү систимы
     uk: пошукова система
     uz: Veb qidiruv tizimi
     vi: công cụ truy vấn dữ liệu
@@ -215,11 +215,11 @@ dv_has_:
     yi: זוכמאשין
     yue: 搜尋器
     zh: 搜索引擎
-    zh-cn: 搜索引擎
-    zh-hans: 搜索引擎
-    zh-hant: 搜尋引擎
-    zh-hk: 搜索引擎
-    zh-tw: 搜尋引擎
+    zh_cn: 搜索引擎
+    zh_hans: 搜索引擎
+    zh_hant: 搜尋引擎
+    zh_hk: 搜索引擎
+    zh_tw: 搜尋引擎
 ---
 # [[Search_Engine]] 
 

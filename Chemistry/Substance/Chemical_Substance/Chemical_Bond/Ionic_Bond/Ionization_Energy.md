@@ -26,7 +26,7 @@ dv_has_:
     ar: طاقة تأين
     ast: Enerxía d'ionización
     be: Энергія іянізацыі
-    be-tarask: энэргія іянізацыі
+    be_tarask: энэргія іянізацыі
     bg: Йонизационна енергия
     bn: আয়নীকরণ শক্তি
     bs: Energija ionizacije
@@ -38,7 +38,7 @@ dv_has_:
     de: Ionisierungsenergie
     el: Ενέργεια ιονισμού
     en: ionization energy
-    en-gb: ionisation energy
+    en_gb: ionisation energy
     eo: joniga energio
     es: energía de ionización
     et: Ionisatsioonienergia
@@ -81,8 +81,8 @@ dv_has_:
     sl: ionizacijska energija
     sq: Energjia e jonizuar
     sr: енергија јонизације
-    sr-ec: енергија јонизације
-    sr-el: Energija jonizacije
+    sr_ec: енергија јонизације
+    sr_el: Energija jonizacije
     sv: jonisationspotential
     ta: மின்மமாக்கும் ஆற்றல்
     th: พลังงานไอออไนเซชัน
@@ -96,9 +96,9 @@ dv_has_:
     wuu: 电离能
     yue: 電離能
     zh: 电离能
-    zh-hans: 电离能
-    zh-hant: 電離能
-    zh-hk: 電離能
+    zh_hans: 电离能
+    zh_hant: 電離能
+    zh_hk: 電離能
 aliases:
 - Baglanyşyk energiýasy
 - Egni ïoneiddiad

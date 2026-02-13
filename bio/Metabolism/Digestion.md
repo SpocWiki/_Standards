@@ -137,7 +137,7 @@ dv_has_:
     ast: dixestión
     ba: Аш һеңдереү
     be: страваванне
-    be-tarask: страваваньне
+    be_tarask: страваваньне
     bg: Храносмилане
     bn: পরিপাক
     bs: varenje
@@ -149,11 +149,11 @@ dv_has_:
     cy: Treulio bwyd
     da: fordøjelse
     de: Verdauung
-    de-ch: Verdauung
+    de_ch: Verdauung
     el: πέψη
     en: digestion
-    en-ca: Digestion
-    en-gb: digestion
+    en_ca: Digestion
+    en_gb: digestion
     eo: digestado
     es: digestión
     et: seedimine
@@ -218,7 +218,7 @@ dv_has_:
     pnb: ہاضمہ
     ps: هضم
     pt: digestão
-    pt-br: digestão
+    pt_br: digestão
     qu: Mikhuna ukhunchakuy
     ro: Digestie
     ru: пищеварение
@@ -244,7 +244,7 @@ dv_has_:
     tl: Pagtunaw ng pagkain
     tr: Sindirim
     tt: ашкайнату
-    tt-cyrl: ашкайнату
+    tt_cyrl: ашкайнату
     udm: сиён сылмытон
     uk: травлення
     ur: ہضم
@@ -257,9 +257,9 @@ dv_has_:
     yi: פארדייאונג
     yue: 消化
     zh: 消化作用
-    zh-cn: 消化作用
-    zh-hk: 消化作用
-    zh-tw: 消化作用
+    zh_cn: 消化作用
+    zh_hk: 消化作用
+    zh_tw: 消化作用
 ---
 # [[Digestion]] 
 

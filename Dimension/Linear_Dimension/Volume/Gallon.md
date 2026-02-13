@@ -64,7 +64,7 @@ dv_has_:
     ar: غالون
     ast: Galón
     be: галон
-    be-tarask: галён
+    be_tarask: галён
     bg: Галон
     bn: গ্যালন
     bs: Galon
@@ -76,7 +76,7 @@ dv_has_:
     de: Gallone
     el: γαλόνι
     en: gallon
-    en-gb: galon
+    en_gb: galon
     eo: galjono
     es: galón
     et: Gallon
@@ -130,12 +130,12 @@ dv_has_:
     wuu: 加仑
     yue: 加侖
     zh: 加仑
-    zh-cn: 加仑
-    zh-hans: 加仑
-    zh-hant: 加侖
-    zh-hk: 加侖
-    zh-sg: 加仑
-    zh-tw: 加侖
+    zh_cn: 加仑
+    zh_hans: 加仑
+    zh_hant: 加侖
+    zh_hk: 加侖
+    zh_sg: 加仑
+    zh_tw: 加侖
 ---
 # [[Gallon]] 
 

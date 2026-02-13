@@ -85,7 +85,7 @@ dv_has_:
     ba: Башһөйәклеләр
     bar: Gnathostomata
     be: Сківічнаротыя
-    be-tarask: сківіцаротыя
+    be_tarask: сківіцаротыя
     bg: челюстни
     br: Gnathostomata
     ca: gnatostomats
@@ -97,11 +97,11 @@ dv_has_:
     da: Gnathostomata
     de: Kiefermäuler
     de-at: Gnathostomata
-    de-ch: Kiefermäuler
+    de_ch: Kiefermäuler
     el: Γναθοστόματα
     en: Gnathostomata
-    en-ca: Gnathostomata
-    en-gb: Gnathostomata
+    en_ca: Gnathostomata
+    en_gb: Gnathostomata
     eo: Makzelulo
     es: Gnathostomata
     et: Gnathostomata
@@ -148,7 +148,7 @@ dv_has_:
     nap: Gnathostomata
     nb: kjevemunner
     nds: Gnathostomata
-    nds-nl: Gnathostomata
+    nds_nl: Gnathostomata
     nl: kaakdieren
     nn: kjevemunnar
     nrm: Gnathostomata
@@ -159,7 +159,7 @@ dv_has_:
     pl: żuchwowce
     pms: Gnathostomata
     pt: Gnathostomata
-    pt-br: Gnatostomados
+    pt_br: Gnatostomados
     rm: Gnathostomata
     ro: Gnathostomata
     ru: челюстноротые
@@ -188,10 +188,10 @@ dv_has_:
     wuu: 有颌类
     yue: 有頜動物
     zh: 有頜下門
-    zh-cn: 有颌下门
-    zh-hans: 有颌下门
-    zh-hant: 有頜類
-    zh-tw: 有頜下門
+    zh_cn: 有颌下门
+    zh_hans: 有颌下门
+    zh_hant: 有頜類
+    zh_tw: 有頜下門
     zu: Gnathostomata
 ---
 # Gnathostomata 

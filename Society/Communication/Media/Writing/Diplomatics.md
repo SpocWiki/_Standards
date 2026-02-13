@@ -58,13 +58,13 @@ dv_has_:
     az: Diplomatika
     ba: дипломатика
     be: Дыпламатыка
-    be-tarask: дыпляматыка
+    be_tarask: дыпляматыка
     ca: Diplomàtica
     cs: Diplomatika
     da: Diplomatik
     de: Diplomatik
     en: diplomatics
-    en-gb: diplomatic
+    en_gb: diplomatic
     en-us: diplomatics
     eo: Diplomatiko
     es: Diplomática
@@ -98,17 +98,17 @@ dv_has_:
     sl: diplomatika
     sq: Diplomatika
     sr: Дипломатика
-    sr-ec: Дипломатика
-    sr-el: Diplomatika
+    sr_ec: Дипломатика
+    sr_el: Diplomatika
     sv: diplomatik
     tr: belgebilim
     uk: Дипломатика
     vi: Văn thư học
     yue: 文獻學
     zh: 古代文献学
-    zh-cn: 古文献学
-    zh-hans: 古文献学
-    zh-hant: 古文獻學
+    zh_cn: 古文献学
+    zh_hans: 古文献学
+    zh_hant: 古文獻學
 ---
 # [[Diplomatics]] 
 

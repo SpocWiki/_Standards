@@ -47,7 +47,7 @@ dv_has_:
     ar: تعددية
     az: plüralizm
     azb: چوخچولوق
-    be-tarask: плюралізм
+    be_tarask: плюралізм
     bs: pluralizam
     ca: pluralisme
     cs: pluralismus

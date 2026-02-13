@@ -161,7 +161,7 @@ dv_has_:
     ba: Бөйөк Ебәк юлы
     bcl: Dalan nin Seda
     be: Вялікі шаўковы шлях
-    be-tarask: Вялікі шаўковы шлях
+    be_tarask: Вялікі шаўковы шлях
     bg: Път на коприната
     bn: রেশম পথ
     br: Hent ar Seiz
@@ -174,12 +174,12 @@ dv_has_:
     cy: Ffordd y Sidan
     da: Silkevejen
     de: Seidenstraße
-    de-ch: Seidenstrasse
+    de_ch: Seidenstrasse
     diq: Raya Bırsımi
     el: Δρόμος του μεταξιού
     en: Silk Road
-    en-ca: Silk Road
-    en-gb: Silk Road
+    en_ca: Silk Road
+    en_gb: Silk Road
     eo: Silka Vojo
     es: ruta de la seda
     et: Siiditee
@@ -241,7 +241,7 @@ dv_has_:
     pnb: شاہراہ ریشم
     ps: ورېښمو لار
     pt: Rota da Seda
-    pt-br: Rota da Seda
+    pt_br: Rota da Seda
     ro: Drumul Mătăsii
     ru: Великий шёлковый путь
     sco: Silk Road
@@ -264,8 +264,8 @@ dv_has_:
     tr: İpek Yolu
     tt: Böyek yefäk yulı
     ug: يىپەك يولى
-    ug-arab: يىپەك يولى
-    ug-latn: Yipek Yoli
+    ug_arab: يىپەك يولى
+    ug_latn: Yipek Yoli
     uk: Великий шовковий шлях
     ur: شاہراہ ریشم
     uz: Buyuk Ipak yoʻli
@@ -278,14 +278,14 @@ dv_has_:
     za: Roen Seicouz
     zgh: ⴰⴱⵔⵉⴷ ⵏ ⵓⵎⵟⵟⴰⵍⵙⵓ
     zh: 絲綢之路
-    zh-cn: 丝绸之路
-    zh-hans: 丝绸之路
-    zh-hant: 絲綢之路
-    zh-hk: 絲綢之路
-    zh-mo: 絲綢之路
+    zh_cn: 丝绸之路
+    zh_hans: 丝绸之路
+    zh_hant: 絲綢之路
+    zh_hk: 絲綢之路
+    zh_mo: 絲綢之路
     zh-my: 丝绸之路
-    zh-sg: 丝绸之路
-    zh-tw: 絲綢之路
+    zh_sg: 丝绸之路
+    zh_tw: 絲綢之路
 ---
 # [[Silk_Road]] 
 

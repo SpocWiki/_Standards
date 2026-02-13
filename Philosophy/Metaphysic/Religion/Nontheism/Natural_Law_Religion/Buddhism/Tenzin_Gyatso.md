@@ -225,7 +225,7 @@ dv_has_:
     ba: Далай-Лама XIV
     ban: Dalai Lama ka-14
     be: Далай-лама XIV
-    be-tarask: Далай-лама XIV
+    be_tarask: Далай-лама XIV
     bg: Тензин Гяцо
     bho: 14वाँ दलाई लामा
     bn: তেনজ়িন গিয়াৎসো
@@ -243,11 +243,11 @@ dv_has_:
     cy: Tenzin Gyatso, 14eg Dalai Lama
     da: Tenzin Gyatso
     de: Tenzin Gyatso
-    de-ch: Tendzin Gyatso
+    de_ch: Tendzin Gyatso
     el: Τεντζίν Γκιάτσο
     en: Tenzin Gyatso
-    en-ca: 14th Dalai Lama
-    en-gb: 14th Dalai Lama
+    en_ca: 14th Dalai Lama
+    en_gb: 14th Dalai Lama
     eo: Tenzin Gjatso
     es: Tenzin Gyatso
     et: Tenzin Gyatso
@@ -309,7 +309,7 @@ dv_has_:
     pl: Tenzin Gjaco
     pnb: دلائی لاما
     pt: XIV Dalai Lama
-    pt-br: Tenzin Gyatso
+    pt_br: Tenzin Gyatso
     ro: Tenzin Gyatso
     ru: Далай-лама XIV
     scn: Tenzin Gyatso
@@ -341,9 +341,9 @@ dv_has_:
     yue: 丹增嘉措
     za: Dalai Cibseiqseiq
     zh: 第十四世達賴喇嘛
-    zh-cn: 第十四世达赖喇嘛
-    zh-hans: 第十四世达赖喇嘛
-    zh-hant: 達賴喇嘛十四世
+    zh_cn: 第十四世达赖喇嘛
+    zh_hans: 第十四世达赖喇嘛
+    zh_hant: 達賴喇嘛十四世
 ---
 # [[Tenzin_Gyatso]] 
 

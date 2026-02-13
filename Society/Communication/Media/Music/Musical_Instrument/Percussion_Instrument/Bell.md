@@ -189,7 +189,7 @@ dv_has_:
     ban: Genta
     bar: Glockn
     be: Звон
-    be-tarask: звон
+    be_tarask: звон
     bg: Камбана
     br: kloc'h
     ca: campana
@@ -204,8 +204,8 @@ dv_has_:
     el: καμπάνα
     eml: Campàna
     en: bell
-    en-ca: Bell
-    en-gb: bell
+    en_ca: Bell
+    en_gb: bell
     eo: sonorilo
     es: campana
     et: kell
@@ -265,7 +265,7 @@ dv_has_:
     pa: ਘੰਟੀ
     pl: dzwon
     pt: sino
-    pt-br: sino
+    pt_br: sino
     qu: Kampana
     ro: clopot
     rsk: Дзвон
@@ -284,8 +284,8 @@ dv_has_:
     sn: Dare
     sq: kambanë
     sr: звоно
-    sr-ec: звоно
-    sr-el: Zvono
+    sr_ec: звоно
+    sr_el: Zvono
     su: Locéng
     sv: klocka
     sw: Kengele
@@ -296,7 +296,7 @@ dv_has_:
     tl: Kalembang
     tr: çan
     tt: чаң
-    tt-cyrl: чаң
+    tt_cyrl: чаң
     tw: dɔn
     uk: дзвін
     vec: Canpana
@@ -305,12 +305,12 @@ dv_has_:
     wuu: 钟 (敲击器)
     yue: 古鐘
     zh: 鐘
-    zh-cn: 铃
-    zh-hans: 铃
-    zh-hant: 鐘
-    zh-hk: 鈴
-    zh-sg: 铃
-    zh-tw: 鈴
+    zh_cn: 铃
+    zh_hans: 铃
+    zh_hant: 鐘
+    zh_hk: 鈴
+    zh_sg: 铃
+    zh_tw: 鈴
 ---
 # [[Bell]] 🔔 
 

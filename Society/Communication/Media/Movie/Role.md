@@ -7,7 +7,7 @@ dv_has_:
     as: ভূমিকা
     az: sosial rol
     be: сацыяльная роля
-    be-tarask: роля
+    be_tarask: роля
     bg: Социална роля
     bn: ভূমিকা
     ca: rol
@@ -48,13 +48,13 @@ dv_has_:
     mn: үүрэг
     mni: ꯊꯧꯗꯥꯡ
     ms: peranan
-    ms-arab: ڤرانن
+    ms_arab: ڤرانن
     nb: sosial rolle
     nl: sociale rol
     nn: sosial rolle
     pl: rola społeczna
     pt: papel social
-    pt-br: papel social
+    pt_br: papel social
     ro: rol social
     ru: социальная роль
     se: rolla
@@ -64,26 +64,26 @@ dv_has_:
     sms: rool
     sq: Roli
     sr: друштвена улога
-    sr-ec: Друштвена улога
-    sr-el: Društvena uloga
+    sr_ec: Друштвена улога
+    sr_el: Društvena uloga
     sv: roll
     tg: нақши ҷамъиятӣ
     th: หน้าที่
     tr: rol
     tt: социаль роль
-    tt-cyrl: социаль роль
+    tt_cyrl: социаль роль
     uk: соціальна роль
     ur: سماجی حیثیت
     vec: roło sociałe
     vi: vai trò xã hội
     yo: ipò
     zh: 社會角色
-    zh-cn: 社会角色
-    zh-hans: 社会角色
-    zh-hant: 社會角色
-    zh-hk: 社會角色
-    zh-sg: 社会角色
-    zh-tw: 社會角色
+    zh_cn: 社会角色
+    zh_hans: 社会角色
+    zh_hant: 社會角色
+    zh_hk: 社會角色
+    zh_sg: 社会角色
+    zh_tw: 社會角色
 aliases:
 - Društvena uloga
 - Gizarte rol

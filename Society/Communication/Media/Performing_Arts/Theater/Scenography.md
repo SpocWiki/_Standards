@@ -59,7 +59,7 @@ dv_has_:
     ast: Escenografía
     az: səhnəqrafiya
     be: сцэнаграфія
-    be-tarask: сцэнаграфія
+    be_tarask: сцэнаграфія
     bg: сценография
     ca: escenografia
     cs: scénografie
@@ -101,8 +101,8 @@ dv_has_:
     sma: scenografije
     smj: scenografija
     sr: сценографија
-    sr-ec: сценографија
-    sr-el: scenografija
+    sr_ec: сценографија
+    sr_el: scenografija
     sv: scenografi
     tl: scenography
     tr: skenografi
@@ -111,7 +111,7 @@ dv_has_:
     uz: Teatr dekoratsiyasi sanʼati
     vi: scenography
     zh: 場景設計
-    zh-hant: 佈景學
+    zh_hant: 佈景學
 ---
 # [[Scenography]] 
 

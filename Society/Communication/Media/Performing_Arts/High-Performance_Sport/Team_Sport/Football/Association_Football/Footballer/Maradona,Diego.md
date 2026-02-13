@@ -159,7 +159,7 @@ dv_has_:
     ba: Марадона Диего Армандо
     ban: Diego Maradona
     be: Дыега Марадона
-    be-tarask: Дыега Марадона
+    be_tarask: Дыега Марадона
     bg: Диего Марадона
     bn: দিয়েগো মারাদোনা
     bpy: দিয়েগো মারাদোনা
@@ -174,12 +174,12 @@ dv_has_:
     da: Diego Maradona
     de: Diego Maradona
     de-at: Diego Maradona
-    de-ch: Diego Maradona
+    de_ch: Diego Maradona
     diq: Maradona
     el: Ντιέγκο Μαραντόνα
     en: Diego Maradona
-    en-ca: Diego Maradona
-    en-gb: Diego Maradona
+    en_ca: Diego Maradona
+    en_gb: Diego Maradona
     eo: Diego Armando Maradona
     es: Diego Maradona
     es-419: Diego Maradona
@@ -247,7 +247,7 @@ dv_has_:
     nap: Diego Armando Maradona
     nb: Diego Maradona
     nds: Diego Maradona
-    nds-nl: Diego Maradona
+    nds_nl: Diego Maradona
     ne: डिएगो म्याराडोना
     nl: Diego Maradona
     nn: Diego Armando Maradona
@@ -258,7 +258,7 @@ dv_has_:
     pnb: ڈیاگو میراڈونا
     ps: ډياګو مارادونا
     pt: Diego Maradona
-    pt-br: Diego Maradona
+    pt_br: Diego Maradona
     qu: Diego Armando Maradona
     rmf: Diego Maradona
     ro: Diego Maradona
@@ -311,9 +311,9 @@ dv_has_:
     yo: Diego Maradona
     yue: 馬勒當拿
     zh: 迭戈·马拉多纳
-    zh-hans: 迭戈·马拉多纳
-    zh-hant: 迪亞哥·馬拉度納
-    zh-tw: 迪亞哥·馬拉度納
+    zh_hans: 迭戈·马拉多纳
+    zh_hant: 迪亞哥·馬拉度納
+    zh_tw: 迪亞哥·馬拉度納
 ---
 # [[Maradona,Diego]] 
 

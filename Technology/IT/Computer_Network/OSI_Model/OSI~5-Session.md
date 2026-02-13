@@ -84,20 +84,20 @@ dv_has_:
     sh: sloj sesije
     sl: sejna plast
     sr: слој сесије
-    sr-ec: Слој сесије
-    sr-el: sloj sesije
+    sr_ec: Слој сесије
+    sr_el: sloj sesije
     sv: sessionsskikt
     ta: அமர்வு அடுக்கு
     uk: сеансовий рівень
     vi: tầng phiên
     wuu: 会话层
     zh: 会话层
-    zh-cn: 会话层
-    zh-hans: 会话层
-    zh-hant: 會話層
-    zh-hk: 會話層
-    zh-sg: 会话层
-    zh-tw: 會話層
+    zh_cn: 会话层
+    zh_hans: 会话层
+    zh_hant: 會話層
+    zh_hk: 會話層
+    zh_sg: 会话层
+    zh_tw: 會話層
 ---
 # [[OSI~5-Session]] 
 

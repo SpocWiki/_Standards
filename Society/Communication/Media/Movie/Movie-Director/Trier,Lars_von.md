@@ -111,7 +111,7 @@ dv_has_:
     ast: Lars von Trier
     az: Lars Fon Trier
     be: Ларс фон Трыер
-    be-tarask: Лярс фон Трыер
+    be_tarask: Лярс фон Трыер
     bg: Ларс фон Триер
     bn: লারস ভন ট্রাইয়ার
     bs: Lars von Trier
@@ -161,7 +161,7 @@ dv_has_:
     pap: Lars von Trier
     pl: Lars von Trier
     pt: Lars von Trier
-    pt-br: Lars von Trier
+    pt_br: Lars von Trier
     ro: Lars von Trier
     ru: Ларс фон Триер
     sco: Lars von Trier
@@ -170,11 +170,11 @@ dv_has_:
     sl: Lars von Trier
     sq: Lars von Trier
     sr: Lars fon Trijer
-    sr-ec: Ларс фон Тријер
-    sr-el: Lars fon Trijer
+    sr_ec: Ларс фон Тријер
+    sr_el: Lars fon Trijer
     sv: Lars von Trier
     tg: Ларс вон Триер
-    tg-latn: Lars von Trier
+    tg_latn: Lars von Trier
     th: ลาร์ส ฟอน เทรียร์
     tr: Lars von Trier
     uk: Ларс фон Трієр
@@ -183,12 +183,12 @@ dv_has_:
     wuu: 拉斯·冯·提尔
     yue: 拉斯·馮·提爾
     zh: 拉斯·馮·提爾
-    zh-cn: 拉斯·冯·提尔
-    zh-hans: 拉斯·冯·提尔
-    zh-hant: 拉斯·馮·提爾
-    zh-hk: 拉斯·馮·提爾
-    zh-sg: 拉斯·冯·提尔
-    zh-tw: 拉斯·馮·提爾
+    zh_cn: 拉斯·冯·提尔
+    zh_hans: 拉斯·冯·提尔
+    zh_hant: 拉斯·馮·提爾
+    zh_hk: 拉斯·馮·提爾
+    zh_sg: 拉斯·冯·提尔
+    zh_tw: 拉斯·馮·提爾
 ---
 # [[Trier,Lars_von]] 
 

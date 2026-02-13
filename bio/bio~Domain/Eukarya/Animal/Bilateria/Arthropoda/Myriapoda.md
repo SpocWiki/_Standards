@@ -102,14 +102,14 @@ dv_has_:
     az: Çoxayaqlılar
     ba: Күбаяҡ
     be: мнаганожкі
-    be-tarask: мнаганожкі
+    be_tarask: мнаганожкі
     bg: многоножки
     ca: miriàpodes
     ceb: Myriapoda
     cs: stonožkovci
     cv: Нумай уралли
     de: Tausendfüßer
-    de-ch: Tausendfüsser
+    de_ch: Tausendfüsser
     el: Μυριάποδα
     en: Myriapoda
     eo: Miriapodo
@@ -166,7 +166,7 @@ dv_has_:
     pl: wije
     ps: سرسوبلې
     pt: Myriapoda
-    pt-br: Myriapoda
+    pt_br: Myriapoda
     qu: Waranqachaki
     rm: Millipes
     ro: Myriapoda
@@ -183,7 +183,7 @@ dv_has_:
     tl: Myriapoda
     tr: Çok bacaklılar
     tt: күбаяклар
-    tt-cyrl: күбаяклар
+    tt_cyrl: күбаяклар
     uk: багатоніжки
     uz: Myriapoda
     vec: Myriapoda
@@ -193,9 +193,9 @@ dv_has_:
     wuu: 多足类
     yue: 多足亞門
     zh: 多足亚门
-    zh-cn: 多足亚门
-    zh-hans: 多足亚门
-    zh-tw: 多足亞門
+    zh_cn: 多足亚门
+    zh_hans: 多足亚门
+    zh_tw: 多足亞門
 ---
 # [[Myriapoda]] 
 

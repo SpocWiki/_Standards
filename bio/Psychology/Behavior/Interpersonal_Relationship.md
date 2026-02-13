@@ -98,7 +98,7 @@ dv_has_:
     az: Münasibət
     bcl: Interpersonal na relasyon
     be: міжасобасныя адносіны
-    be-tarask: міжасобавыя стасункі
+    be_tarask: міжасобавыя стасункі
     bg: Междуличностни отношения
     bn: আন্তঃব্যক্তিক সম্পর্ক
     ca: relació personal
@@ -151,8 +151,8 @@ dv_has_:
     so: Aado
     sq: Marrëdhënia ndërpersonale
     sr: међуљудски однос
-    sr-ec: Међуљудски односи
-    sr-el: Međuljudski odnosi
+    sr_ec: Међуљудски односи
+    sr_el: Međuljudski odnosi
     sv: social relation
     sw: mahusiano baina ya watu
     ta: உறவு
@@ -169,14 +169,14 @@ dv_has_:
     wuu: 人际关系
     yue: 人際關係
     zh: 人際關係
-    zh-cn: 人际关系
-    zh-hans: 人际关系
-    zh-hant: 人際關係
-    zh-hk: 人際關係
-    zh-mo: 人際關係
+    zh_cn: 人际关系
+    zh_hans: 人际关系
+    zh_hant: 人際關係
+    zh_hk: 人際關係
+    zh_mo: 人際關係
     zh-my: 人际关系
-    zh-sg: 人际关系
-    zh-tw: 人際關係
+    zh_sg: 人际关系
+    zh_tw: 人際關係
 ---
 # [[Interpersonal_Relationship]] 
 

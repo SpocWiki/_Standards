@@ -98,7 +98,7 @@ dv_has_:
     ast: interés
     az: Maraq
     bar: Zins
-    be-tarask: пазыковы адсотак
+    be_tarask: пазыковы адсотак
     bew: Rènte
     bg: лихва
     bn: সুদ
@@ -158,8 +158,8 @@ dv_has_:
     sms: korgg
     sq: interesi
     sr: камата
-    sr-ec: камата
-    sr-el: kamata
+    sr_ec: камата
+    sr_el: kamata
     sv: ränta
     ta: வட்டி
     te: వడ్డీ
@@ -177,12 +177,12 @@ dv_has_:
     yue: 利息
     za: ngaenzleih
     zh: 利息
-    zh-cn: 利息
-    zh-hans: 利息
-    zh-hant: 利息
-    zh-hk: 利息
-    zh-sg: 利息
-    zh-tw: 利息
+    zh_cn: 利息
+    zh_hans: 利息
+    zh_hant: 利息
+    zh_hk: 利息
+    zh_sg: 利息
+    zh_tw: 利息
     zu: inzalo
 ---
 # [[Interest_Payment]] 

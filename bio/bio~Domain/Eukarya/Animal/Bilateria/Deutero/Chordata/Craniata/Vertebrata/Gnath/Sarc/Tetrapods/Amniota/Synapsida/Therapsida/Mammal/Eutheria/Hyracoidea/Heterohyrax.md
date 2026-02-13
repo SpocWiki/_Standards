@@ -76,8 +76,8 @@ dv_has_:
     vi: Heterohyrax brucei
     war: Heterohyrax brucei
     zh: 黄斑蹄兔
-    zh-cn: 黄斑蹄兔
-    zh-tw: 黃斑蹄兔
+    zh_cn: 黄斑蹄兔
+    zh_tw: 黃斑蹄兔
 ---
 # [[Heterohyrax]]
 

@@ -60,8 +60,8 @@ dv_has_:
     dv: ފެޓް
     el: ακόρεστα λιπαρά
     en: unsaturated fat
-    en-ca: unsaturated fat
-    en-gb: unsaturated fat
+    en_ca: unsaturated fat
+    en_gb: unsaturated fat
     eo: nesaturita graso
     es: grasas insaturadas
     eu: gantz-azido asegabe
@@ -82,13 +82,13 @@ dv_has_:
     om: Cooma mit-guttataa
     pl: tłuszcz nienasycony
     pt: gordura insaturada
-    pt-br: gordura insaturada
+    pt_br: gordura insaturada
     ru: ненасыщенный жир
     sh: nezasićena mast
     sl: nenasičena maščoba
     sr: nezasićena mast
-    sr-ec: незасићена маст
-    sr-el: nezasićena mast
+    sr_ec: незасићена маст
+    sr_el: nezasićena mast
     sv: omättat fett
     ta: நிறைவுறாக் கொழுப்பு
     th: ไขมันไม่อิ่มตัว
@@ -97,9 +97,9 @@ dv_has_:
     vec: grasi insàturi
     yue: 不飽和脂肪
     zh: 不飽和脂肪
-    zh-hans: 不饱和脂肪
-    zh-hant: 不飽和脂肪
-    zh-hk: 不飽和脂肪
+    zh_hans: 不饱和脂肪
+    zh_hant: 不飽和脂肪
+    zh_hk: 不飽和脂肪
 ---
 # [[Unsaturated_Fat]] 
 

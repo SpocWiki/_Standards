@@ -247,7 +247,7 @@ dv_has_:
     bar: lateinischs Oiphabet
     bcl: Iskriturang Latin
     be: лацінскае пісьмо
-    be-tarask: лацінскае пісьмо
+    be_tarask: лацінскае пісьмо
     bg: латиница
     bho: "\U000110AA\U000110B6\U00011097\U000110B1\U000110A2 \U000110AA\U000110B1\U0001108E\U000110B0\U00011086"
     bn: লাতিন লিপি
@@ -262,7 +262,7 @@ dv_has_:
     ckb: ئەلفوبێی لاتین
     co: Alfabetu latinu
     crh: Latin elifbesi
-    crh-latn: Latin elifbesi
+    crh_latn: Latin elifbesi
     crh-ro: látin yazîsî
     cs: latinka
     csb: Łacyńsczi alfabét
@@ -273,8 +273,8 @@ dv_has_:
     diq: Alfabey Latinki
     el: λατινική γραφή
     en: Latin script
-    en-ca: Latin script
-    en-gb: Latin script
+    en_ca: Latin script
+    en_gb: Latin script
     en-us: Latin script
     eo: latina alfabeto
     es: alfabeto latino
@@ -333,7 +333,7 @@ dv_has_:
     krc: Латин алфавит
     ks: لٲطِن لِکھٲرؠ نِظام
     ku: alfabeya latînî
-    ku-latn: alfabeya latînî
+    ku_latn: alfabeya latînî
     kw: Skrypt Latin
     ky: Латын алфавити
     la: abecedarium Latinum
@@ -349,7 +349,7 @@ dv_has_:
     lt: lotynų abėcėlė
     lv: latīņu raksts
     lzh: 拉丁字母
-    map-bms: Alfabet Latin
+    map_bms: Alfabet Latin
     mdf: латиницась
     mg: Tarehin-tsoratra latina
     mk: латиница
@@ -358,14 +358,14 @@ dv_has_:
     mni: ꯂꯦꯇꯤꯟ ꯃꯌꯦꯛ
     mr: लॅटिन वर्णमाला
     ms: tulisan Rumi
-    ms-arab: توليسن رومي
+    ms_arab: توليسن رومي
     my: လက်တင်ဘာသာအရေးအသား
     mzn: لاتین خط
     nah: Latinmachiyōtlahtōltecpantiliztli
     nan: Lô-má-jī
     nb: det latinske alfabetet
     nds: latiensch Alphabet
-    nds-nl: Latainse alfabet
+    nds_nl: Latainse alfabet
     ne: रोमन लिपि
     nl: Latijns alfabet
     nn: det latinske alfabetet
@@ -383,7 +383,7 @@ dv_has_:
     pnb: لاطینی لپی
     ps: لاتين ليکدود
     pt: alfabeto latino
-    pt-br: alfabeto latino
+    pt_br: alfabeto latino
     pwn: rumazi
     qu: Latin siq'i llumpa
     rmy: latinikano lekhipen
@@ -405,7 +405,7 @@ dv_has_:
     so: Farta laatiinka
     sq: alfabeti latin
     sr: латиница
-    sr-ec: латинично писмо
+    sr_ec: латинично писмо
     stq: Latiensk Alphabet
     su: Alfabét Latin
     sv: latinska alfabetet
@@ -414,7 +414,7 @@ dv_has_:
     szl: Łaćińske abecadło
     ta: இலத்தீன் எழுத்துகள்
     tg: алифбои лотинӣ
-    tg-cyrl: Алифбои лотинӣ
+    tg_cyrl: Алифбои лотинӣ
     th: อักษรละติน
     ti: እንግሊዝኛ ፊደል
     tl: alpabetong Latin
@@ -423,7 +423,7 @@ dv_has_:
     tpi: Latin alpabet
     tr: Latin alfabesi
     tt: латин язуы
-    tt-cyrl: латин язуы
+    tt_cyrl: латин язуы
     udm: латиница
     ug: لاتىن ئەلىڧبەسى
     uk: латинське письмо
@@ -443,14 +443,14 @@ dv_has_:
     yue: 拉丁文字
     zgh: ⴰⴳⵎⵎⴰⵢ ⴰⵍⴰⵜⵉⵏⵉ
     zh: 拉丁字母
-    zh-cn: 拉丁字母
-    zh-hans: 拉丁文字
-    zh-hant: 拉丁文字
-    zh-hk: 拉丁文字
-    zh-mo: 拉丁文字
+    zh_cn: 拉丁字母
+    zh_hans: 拉丁文字
+    zh_hant: 拉丁文字
+    zh_hk: 拉丁文字
+    zh_mo: 拉丁文字
     zh-my: 拉丁文字
-    zh-sg: 拉丁文字
-    zh-tw: 拉丁文字
+    zh_sg: 拉丁文字
+    zh_tw: 拉丁文字
 ---
 # [[Script~Latn]] 
 

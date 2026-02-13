@@ -87,7 +87,7 @@ dv_has_:
     ar: تشاؤم
     ast: Pesimismu
     az: Pessimizm
-    be-tarask: пэсымізм
+    be_tarask: пэсымізм
     bg: песимизъм
     bjn: Pesimisme
     bn: নৈরাশ্যবাদ
@@ -120,9 +120,9 @@ dv_has_:
     ja: 悲観主義
     ka: პესიმიზმი
     kk: Пессимизм
-    kk-arab: پەسسىيمىيزم
-    kk-cyrl: Пессимизм
-    kk-latn: Pessïmïzm
+    kk_arab: پەسسىيمىيزم
+    kk_cyrl: Пессимизм
+    kk_latn: Pessïmïzm
     kn: ನಿರಾಶಾವಾದ
     ko: 염세주의
     la: Pessimismus
@@ -153,8 +153,8 @@ dv_has_:
     so: Tabannimo
     sq: Pesimizmi
     sr: песимизам
-    sr-ec: песимизам
-    sr-el: pesimizam
+    sr_ec: песимизам
+    sr_el: pesimizam
     sv: pessimism
     ta: இழநம்பிக்கை
     tg: Бадбинӣ
@@ -168,9 +168,9 @@ dv_has_:
     xmf: პესიმიზმი
     yue: 悲觀主義
     zh: 悲观主义
-    zh-hans: 悲观主义
-    zh-hant: 悲觀主義
-    zh-hk: 悲觀主義
+    zh_hans: 悲观主义
+    zh_hant: 悲觀主義
+    zh_hk: 悲觀主義
 ---
 # [[Pessimism]] 
 

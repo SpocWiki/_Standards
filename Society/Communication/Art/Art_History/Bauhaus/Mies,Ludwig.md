@@ -173,7 +173,7 @@ dv_has_:
     ast: Ludwig Mies van der Rohe
     az: Lüdviq Mis Van der Roe
     be: Людвіг Міс ван дэр Роэ
-    be-tarask: Людвіг Міс ван дэр Раэ
+    be_tarask: Людвіг Міс ван дэр Раэ
     bg: Лудвиг Мис ван дер Рое
     br: Ludwig Mies van der Rohe
     bs: Ludwig Mies van der Rohe
@@ -186,8 +186,8 @@ dv_has_:
     de: Ludwig Mies van der Rohe
     el: Λούντβιχ Μις φαν ντερ Ρόε
     en: Ludwig Mies van der Rohe
-    en-ca: Ludwig Mies van der Rohe
-    en-gb: Ludwig Mies van der Rohe
+    en_ca: Ludwig Mies van der Rohe
+    en_gb: Ludwig Mies van der Rohe
     eo: Ludwig Mies van der Rohe
     es: Ludwig Mies van der Rohe
     et: Ludwig Mies van der Rohe
@@ -231,7 +231,7 @@ dv_has_:
     pms: Ludwig Mies van der Rohe
     pnb: لڈوگ مائیز فان ڈیر روہے
     pt: Ludwig Mies van der Rohe
-    pt-br: Ludwig Mies van der Rohe
+    pt_br: Ludwig Mies van der Rohe
     ro: Ludwig Mies van der Rohe
     ru: Людвиг Мис ван дер Рое
     sc: Ludwig Mies van der Rohe

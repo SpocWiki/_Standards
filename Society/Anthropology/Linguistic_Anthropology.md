@@ -68,15 +68,15 @@ dv_has_:
     ar: علم الإنسان اللغوي
     ast: antropoloxía llingüística
     az: linqvistik antropologiya
-    be-tarask: лінгвістычная антрапалёгія
+    be_tarask: лінгвістычная антрапалёгія
     bjn: antrolopologi linguistik
     ca: antropologia lingüística
     cs: lingvistická antropologie
     de: linguistische Anthropologie
     el: ανθρωπολογία της γλώσσας
     en: linguistic anthropology
-    en-ca: linguistic anthropology
-    en-gb: linguistic anthropology
+    en_ca: linguistic anthropology
+    en_gb: linguistic anthropology
     eo: lingvistika antropologio
     es: antropología lingüística
     eu: hizkuntza-antropologia
@@ -107,8 +107,8 @@ dv_has_:
     smn: kielâtieđâlâš antropologia
     sms: ǩiõlltiõđlaž antropologia
     sr: лингвистичка антропологија
-    sr-ec: лингвистичка антропологија
-    sr-el: lingvistička antropologija
+    sr_ec: лингвистичка антропологија
+    sr_el: lingvistička antropologija
     sv: lingvistisk antropologi
     ta: மொழியியல் மானிடவியல்
     tl: antropolohiyang lingguwistika
@@ -119,7 +119,7 @@ dv_has_:
     vi: Nhân học ngôn ngữ
     yue: 語言人類學
     zh: 語言人類學
-    zh-hans: 语言人类学
+    zh_hans: 语言人类学
 ---
 # [[Linguistic_Anthropology]] 
 

@@ -31,7 +31,7 @@ dv_has_:
     az: Dumanlıq
     ban: Nébula
     be: Туманнасць
-    be-tarask: туманнасьць
+    be_tarask: туманнасьць
     bg: Мъглявина
     bho: नेबुला
     bjn: Nebula
@@ -110,7 +110,7 @@ dv_has_:
     pl: mgławica
     pnb: بدلی
     pt: nebulosa
-    pt-br: nebulosa
+    pt_br: nebulosa
     ro: nebuloasă
     ru: туманность
     scn: nibbulusa
@@ -119,20 +119,20 @@ dv_has_:
     sk: Hmlovina
     sl: meglica
     sr: маглина
-    sr-ec: маглина
-    sr-el: maglina
+    sr_ec: маглина
+    sr_el: maglina
     su: Nébula
     sv: nebulosa
     sw: Nebula
     ta: நெபுலா
     tg: Туманот
-    tg-cyrl: туманот
+    tg_cyrl: туманот
     th: เนบิวลา
     ti: ኔቡላ
     tl: nebula
     tr: Bulutsu
     tt: томанлык
-    tt-cyrl: томанлык
+    tt_cyrl: томанлык
     tum: Nebula
     uk: галактична туманність
     ur: سحابیہ

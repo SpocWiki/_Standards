@@ -246,7 +246,7 @@ dv_has_:
     ban: Beruang kutub
     bcl: Osong polar
     be: Мядзведзь белы
-    be-tarask: мядзьведзь белы
+    be_tarask: мядзьведзь белы
     bg: бяла мечка
     bho: ध्रुवीय भालू
     bn: মেরু ভালুক
@@ -267,7 +267,7 @@ dv_has_:
     dsb: Běły mjadwjeź
     el: Πολική αρκούδα
     en: Ursus maritimus
-    en-gb: polar bear
+    en_gb: polar bear
     en-us: polar bear
     eo: blanka urso
     es: Ursus maritimus
@@ -343,7 +343,7 @@ dv_has_:
     pnb: برفانی رچھ
     ps: قطبي اېږ
     pt: urso-polar
-    pt-br: urso-polar
+    pt_br: urso-polar
     qu: Yuraq ukumari
     ro: Urs polar
     ru: белый медведь
@@ -375,8 +375,8 @@ dv_has_:
     tly: Sipijə hyrs
     tr: Kutup ayısı
     tt: ак аю
-    tt-cyrl: ак аю
-    tt-latn: aq ayu
+    tt_cyrl: ак аю
+    tt_latn: aq ayu
     udm: Тӧдьы гондыр
     ug: شىمالىي قۇتۇپ ئېيىقى
     uk: Ведмідь білий
@@ -390,9 +390,9 @@ dv_has_:
     yo: Òfàfà èérún yìnyín
     yue: 北極熊
     zh: 北極熊
-    zh-cn: 北极熊
-    zh-hans: 北极熊
-    zh-tw: 北極熊
+    zh_cn: 北极熊
+    zh_hans: 北极熊
+    zh_tw: 北極熊
 ---
 # [[Polar_Bear]] 🐻❄️ 
 

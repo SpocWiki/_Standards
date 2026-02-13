@@ -154,7 +154,7 @@ dv_has_:
     ba: Марлон Брандо
     bar: Marlon Brando
     be: Марлан Бранда
-    be-tarask: Марлон Брандо
+    be_tarask: Марлон Брандо
     bg: Марлон Брандо
     bi: Marlon Brando
     bm: Marlon Brando
@@ -172,12 +172,12 @@ dv_has_:
     da: Marlon Brando
     de: Marlon Brando
     de-at: Marlon Brando
-    de-ch: Marlon Brando
+    de_ch: Marlon Brando
     diq: Marlon Brando
     el: Μάρλον Μπράντο
     en: Marlon Brando
-    en-ca: Marlon Brando
-    en-gb: Marlon Brando
+    en_ca: Marlon Brando
+    en_gb: Marlon Brando
     eo: Marlon Brando
     es: Marlon Brando
     et: Marlon Brando
@@ -231,7 +231,7 @@ dv_has_:
     lt: Marlon Brando
     lv: Marlons Brando
     mai: मार्लन ब्राण्डो
-    map-bms: Marlon Brando
+    map_bms: Marlon Brando
     mg: Marlon Brando
     min: Marlon Brando
     mk: Марлон Брандо
@@ -246,7 +246,7 @@ dv_has_:
     nap: Marlon Brando
     nb: Marlon Brando
     nds: Marlon Brando
-    nds-nl: Marlon Brando
+    nds_nl: Marlon Brando
     new: म्यार्लन ब्रान्डो
     nl: Marlon Brando
     nn: Marlon Brando
@@ -263,7 +263,7 @@ dv_has_:
     prg: Marlon Brando
     ps: مارلون براندو
     pt: Marlon Brando
-    pt-br: Marlon Brando
+    pt_br: Marlon Brando
     qu: Marlon Brando
     rgn: Marlon Brando
     rm: Marlon Brando
@@ -281,7 +281,7 @@ dv_has_:
     sm: Marlon Brando
     sq: Marlon Brando
     sr: Марлон Брандо
-    sr-el: Marlon Brando
+    sr_el: Marlon Brando
     srn: Marlon Brando
     su: Marlon Brando
     sv: Marlon Brando
@@ -311,7 +311,7 @@ dv_has_:
     yo: Marlon Brando
     yue: 馬龍白蘭度
     zh: 马龙·白兰度
-    zh-hant: 馬龍·白蘭度
+    zh_hant: 馬龍·白蘭度
     zu: Marlon Brando
 ---
 # [[Brando,Marlon]] 

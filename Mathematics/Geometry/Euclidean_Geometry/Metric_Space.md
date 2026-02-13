@@ -84,7 +84,7 @@ dv_has_:
     ar: فضاء متري
     ast: Espaciu métricu
     be: метрычная прастора
-    be-tarask: мэтрычная прастора
+    be_tarask: мэтрычная прастора
     bg: Метрично пространство
     bs: metrički prostor
     ca: espai mètric
@@ -96,8 +96,8 @@ dv_has_:
     de: metrischer Raum
     el: Μετρικός χώρος
     en: metric space
-    en-ca: Metric space
-    en-gb: metric space
+    en_ca: Metric space
+    en_gb: metric space
     eo: metrika spaco
     es: espacio métrico
     et: Meetriline ruum
@@ -133,14 +133,14 @@ dv_has_:
     pl: przestrzeń metryczna
     pms: Spassi métrich
     pt: espaço métrico
-    pt-br: espaço métrico
+    pt_br: espaço métrico
     ro: spațiu metric
     ru: метрическое пространство
     sk: Metrický priestor
     sl: metrični prostor
     sr: метрички простор
-    sr-ec: метрички простор
-    sr-el: metrički prostor
+    sr_ec: метрички простор
+    sr_el: metrički prostor
     sv: Metriskt rum
     ta: மெட்ரிக் வெளி
     tr: Metrik uzay
@@ -152,12 +152,12 @@ dv_has_:
     wuu: 度量空间
     yue: 度量空間
     zh: 度量空间
-    zh-cn: 度量空间
-    zh-hans: 度量空间
-    zh-hant: 度量空間
-    zh-hk: 度量空間
-    zh-sg: 度量空间
-    zh-tw: 度量空間
+    zh_cn: 度量空间
+    zh_hans: 度量空间
+    zh_hant: 度量空間
+    zh_hk: 度量空間
+    zh_sg: 度量空间
+    zh_tw: 度量空間
 ---
 # [[Metric_Space]] 
 

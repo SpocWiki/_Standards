@@ -80,7 +80,7 @@ dv_has_:
     ast: Cyd Charisse
     azb: سید شریس
     ba: Сид Чарисс
-    be-tarask: Сыд Чарыс
+    be_tarask: Сыд Чарыс
     bg: Сид Чарис
     br: Cyd Charisse
     ca: Cyd Charisse
@@ -124,7 +124,7 @@ dv_has_:
     pcm: Cyd Charisse
     pl: Cyd Charisse
     pt: Cyd Charisse
-    pt-br: Cyd Charisse
+    pt_br: Cyd Charisse
     ru: Сид Чарисс
     sh: Cyd Charisse
     skr: سیڈ چاریس
@@ -142,10 +142,10 @@ dv_has_:
     yo: Cyd Charisse
     yue: 施瑞麗
     zh: 賽德·查里斯
-    zh-cn: 赛德·查里斯
-    zh-hk: 施瑞麗
+    zh_cn: 赛德·查里斯
+    zh_hk: 施瑞麗
     zh-my: 施·瑞丽
-    zh-sg: 施·瑞丽
+    zh_sg: 施·瑞丽
 ---
 # [[Cyd_Charisse]]
 

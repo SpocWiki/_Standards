@@ -106,7 +106,7 @@ dv_has_:
     az: Riyazi induksiya
     ba: Математик индукция
     be: матэматычная індукцыя
-    be-tarask: матэматычная індукцыя
+    be_tarask: матэматычная індукцыя
     bg: Математическа индукция
     bn: গাণিতিক আরোহ বিধি
     ca: demostració per inducció
@@ -150,7 +150,7 @@ dv_has_:
     nn: matematisk induksjon
     pl: indukcja matematyczna
     pt: indução matemática
-    pt-br: indução matemática
+    pt_br: indução matemática
     ro: inducție matematică
     rsk: Математична индукция
     ru: математическая индукция
@@ -163,8 +163,8 @@ dv_has_:
     sms: matemaattlaž induktio
     sq: Induksioni matematik
     sr: Математичка индукција
-    sr-ec: Математичка индукција
-    sr-el: Matematička indukcija
+    sr_ec: Математичка индукција
+    sr_el: Matematička indukcija
     sv: matematisk induktion
     ta: கணிதத் தொகுத்தறிதல்
     th: การอุปนัยเชิงคณิตศาสตร์
@@ -176,12 +176,12 @@ dv_has_:
     wuu: 数学归纳法
     yue: 數學歸納法
     zh: 数学归纳法
-    zh-cn: 数学归纳法
-    zh-hans: 数学归纳法
-    zh-hant: 數學歸納法
-    zh-hk: 數學歸納法
-    zh-sg: 数学归纳法
-    zh-tw: 數學歸納法
+    zh_cn: 数学归纳法
+    zh_hans: 数学归纳法
+    zh_hant: 數學歸納法
+    zh_hk: 數學歸納法
+    zh_sg: 数学归纳法
+    zh_tw: 數學歸納法
 ---
 # [[Induction_Proof]] 
 

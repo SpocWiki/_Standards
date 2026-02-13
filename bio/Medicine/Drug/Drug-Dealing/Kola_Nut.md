@@ -5,7 +5,7 @@ dv_has_:
     ak: Bese
     ar: جوزة الكولة
     arz: جوز كولا goz kola=kola nuts
-    be-tarask: кола
+    be_tarask: кола
     ca: Cola nitida
     da: Kola-slægten
     dag: Guli

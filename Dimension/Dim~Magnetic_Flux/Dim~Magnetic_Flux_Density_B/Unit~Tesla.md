@@ -62,7 +62,7 @@ dv_has_:
     ast: tesla
     az: Tesla
     be: тэсла
-    be-tarask: тэсла
+    be_tarask: тэсла
     bg: Тесла
     bn: টেসলা
     bo: ཐེ་སླ།
@@ -122,8 +122,8 @@ dv_has_:
     sl: tesla
     sq: Tesla
     sr: тесла
-    sr-ec: Тесла
-    sr-el: Tesla
+    sr_ec: Тесла
+    sr_el: Tesla
     sv: tesla
     ta: தெசுலா
     th: เทสลา
@@ -135,12 +135,12 @@ dv_has_:
     wuu: 特斯拉
     yue: 特斯拉
     zh: 特斯拉
-    zh-cn: 特斯拉
-    zh-hans: 特斯拉
-    zh-hant: 特斯拉
-    zh-hk: 忒斯拉
-    zh-sg: 特斯拉
-    zh-tw: 特斯拉
+    zh_cn: 特斯拉
+    zh_hans: 特斯拉
+    zh_hant: 特斯拉
+    zh_hk: 忒斯拉
+    zh_sg: 特斯拉
+    zh_tw: 特斯拉
 ---
 # [[Unit~Tesla]] 
 

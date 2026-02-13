@@ -91,7 +91,7 @@ dv_has_:
     ast: individualismu
     az: Fərdiyyətçilik
     be: індывідуалізм
-    be-tarask: індывідуалізм
+    be_tarask: індывідуалізм
     bew: Kenapsi-napsian
     bg: Индивидуализъм
     bn: ব্যক্তিস্বাতন্ত্র্যবাদ
@@ -124,11 +124,11 @@ dv_has_:
     ka: ინდივიდუალიზმი
     kaa: individualizm
     kk: Индивидуализм
-    kk-arab: ىيندىيۆىيدۋالىيزم
+    kk_arab: ىيندىيۆىيدۋالىيزم
     kk-cn: ىيندىيۆىيدۋالىيزم
-    kk-cyrl: Индивидуализм
+    kk_cyrl: Индивидуализм
     kk-kz: Индивидуализм
-    kk-latn: ïndïvïdwalïzm
+    kk_latn: ïndïvïdwalïzm
     kk-tr: ïndïvïdwalïzm
     ko: 개인주의
     ky: Индивидуализм
@@ -148,7 +148,7 @@ dv_has_:
     pl: indywidualizm
     ps: ځانګړواله
     pt: individualismo
-    pt-br: individualismo
+    pt_br: individualismo
     ro: individualism
     ru: индивидуализм
     se: individualisma
@@ -162,8 +162,8 @@ dv_has_:
     sms: individualismm
     sq: individualizmi
     sr: Индивидуализам
-    sr-ec: Индивидуализам
-    sr-el: Individualizam
+    sr_ec: Индивидуализам
+    sr_el: Individualizam
     sv: individualism
     sw: Ubinafsi
     ta: தனிமனிதத்துவம்
@@ -178,14 +178,14 @@ dv_has_:
     wuu: 个人主义
     yue: 個人主義
     zh: 个人主义
-    zh-cn: 个人主义
-    zh-hans: 个人主义
-    zh-hant: 個人主義
-    zh-hk: 個人主義
-    zh-mo: 個人主義
+    zh_cn: 个人主义
+    zh_hans: 个人主义
+    zh_hant: 個人主義
+    zh_hk: 個人主義
+    zh_mo: 個人主義
     zh-my: 个人主义
-    zh-sg: 个人主义
-    zh-tw: 個人主義
+    zh_sg: 个人主义
+    zh_tw: 個人主義
 ---
 # [[Individualism]] 
 

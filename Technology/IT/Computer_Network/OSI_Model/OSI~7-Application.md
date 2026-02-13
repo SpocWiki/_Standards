@@ -70,7 +70,7 @@ dv_has_:
     ar: طبقة التطبيق
     ast: capa d'aplicación
     az: application layer
-    be-tarask: дастасоўны ўзровень
+    be_tarask: дастасоўны ўзровень
     bg: Приложен слой
     ca: capa d'aplicació
     cs: aplikační vrstva
@@ -78,8 +78,8 @@ dv_has_:
     de: Applikationsschicht
     el: Επίπεδο εφαρμογών
     en: application layer
-    en-ca: application layer
-    en-gb: application layer
+    en_ca: application layer
+    en_gb: application layer
     eo: aplika tavolo
     es: capa de aplicación
     et: Rakenduskiht
@@ -94,11 +94,11 @@ dv_has_:
     it: livello di applicazione
     ja: アプリケーション層
     kk: Қолданбалы деңгей
-    kk-arab: قولدانبالى دەڭگەي
+    kk_arab: قولدانبالى دەڭگەي
     kk-cn: قولدانبالى دەڭگەي
-    kk-cyrl: Қолданбалы деңгей
+    kk_cyrl: Қолданбалы деңгей
     kk-kz: Қолданбалы деңгей
-    kk-latn: Qoldanbalı deñgeý
+    kk_latn: Qoldanbalı deñgeý
     kk-tr: Qoldanbalı deñgeý
     ko: 응용 계층
     lmo: Nivell de applicazion
@@ -107,13 +107,13 @@ dv_has_:
     ml: ആപ്ലിക്കേഷൻ ലെയർ
     mn: application layer
     ms: lapisan aplikasi
-    ms-arab: لاڤيسن اڤليکاسي
+    ms_arab: لاڤيسن اڤليکاسي
     nb: applikasjonslaget
     nl: toepassingslaag
     nn: applikasjonslaget
     pl: warstwa aplikacji
     pt: camada de aplicação
-    pt-br: camada de aplicação
+    pt_br: camada de aplicação
     ro: nivelul aplicație
     ru: прикладной уровень
     sh: Sloj aplikacije
@@ -121,8 +121,8 @@ dv_has_:
     sl: aplikacijska plast
     sq: shtresë e aplikacionit
     sr: слој апликације
-    sr-ec: Слој апликације
-    sr-el: Sloj aplikacije
+    sr_ec: Слој апликације
+    sr_el: Sloj aplikacije
     sv: applikationsskikt
     te: అప్లికేషన్ లేయర్
     th: ชั้นโปรแกรมประยุกต์
@@ -134,12 +134,12 @@ dv_has_:
     vi: tầng ứng dụng
     wuu: 应用层
     zh: 应用层
-    zh-cn: 应用层
-    zh-hans: 应用层
-    zh-hant: 應用層
-    zh-hk: 應用層
-    zh-sg: 应用层
-    zh-tw: 應用層
+    zh_cn: 应用层
+    zh_hans: 应用层
+    zh_hant: 應用層
+    zh_hk: 應用層
+    zh_sg: 应用层
+    zh_tw: 應用層
 ---
 # [[OSI~7-Application]] 
 

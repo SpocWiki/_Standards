@@ -135,7 +135,7 @@ dv_has_:
     az: dəri xərçəngi
     azb: دری سرطانی
     be: рак скуры
-    be-tarask: рак скуры
+    be_tarask: рак скуры
     bg: Рак на кожата
     bn: ত্বকের ক্যান্সার
     br: krign-bev ar c'hroc'hen.
@@ -148,8 +148,8 @@ dv_has_:
     dv: ހަމުގެ ކެންސަރު
     el: καρκίνος του δέρματος
     en: skin cancer
-    en-ca: Skin cancer
-    en-gb: skin cancer
+    en_ca: Skin cancer
+    en_gb: skin cancer
     eo: haŭta kancero
     es: cáncer de piel
     et: nahavähk
@@ -175,16 +175,16 @@ dv_has_:
     jv: Kanker Kulit
     ka: კანის კიბო
     kk: Тері рагы
-    kk-arab: تەرى راگى
+    kk_arab: تەرى راگى
     kk-cn: تەرى راگى
-    kk-cyrl: Тері рагы
+    kk_cyrl: Тері рагы
     kk-kz: Тері рагы
-    kk-latn: Teri ragı
+    kk_latn: Teri ragı
     kk-tr: Teri ragı
     kn: ಚರ್ಮ ಕ್ಯಾನ್ಸರ್
     ko: 피부암
     ku: şêrpenceya çermî
-    ku-latn: şêrpenceya çermî
+    ku_latn: şêrpenceya çermî
     la: cancer cutis
     lb: Hautkriibs
     lfn: Neoplasmas de pel
@@ -204,7 +204,7 @@ dv_has_:
     pa: ਚਮੜੀ ਦਾ ਕੈਂਸਰ
     pl: nowotwór złośliwy skóry
     pt: cancro da pele
-    pt-br: câncer de pele
+    pt_br: câncer de pele
     rki: အရီပြားကင်ဆာ
     ro: cancer de piele
     ru: рак кожи
@@ -228,12 +228,12 @@ dv_has_:
     yue: 皮膚癌
     za: Aizcwng Naeng
     zh: 皮膚癌
-    zh-cn: 皮肤癌
-    zh-hans: 皮肤癌
-    zh-hant: 皮膚癌
-    zh-hk: 皮膚癌
-    zh-sg: 皮肤癌
-    zh-tw: 皮膚癌
+    zh_cn: 皮肤癌
+    zh_hans: 皮肤癌
+    zh_hant: 皮膚癌
+    zh_hk: 皮膚癌
+    zh_sg: 皮肤癌
+    zh_tw: 皮膚癌
 ---
 # [[Skin_Cancer]] 
 

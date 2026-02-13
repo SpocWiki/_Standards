@@ -94,7 +94,7 @@ dv_has_:
     ban: plasma gas
     bcl: plasma
     be: плазма
-    be-tarask: плязма
+    be_tarask: плязма
     bg: плазма
     bn: প্লাজমা
     bs: plazma
@@ -109,13 +109,13 @@ dv_has_:
     cy: plasma
     da: plasma
     de: Plasma
-    de-ch: Plasma
+    de_ch: Plasma
     diq: plazma
     el: πλάσμα
     eml: plaśma
     en: plasma
-    en-ca: plasma
-    en-gb: plasma
+    en_ca: plasma
+    en_gb: plasma
     eo: plasmo
     es: plasma
     et: plasma
@@ -179,7 +179,7 @@ dv_has_:
     pnb: پلازمہ
     ps: پلازما (فزيک)
     pt: plasma
-    pt-br: plasma
+    pt_br: plasma
     ro: plasmă
     ru: плазма
     sah: плазма
@@ -194,7 +194,7 @@ dv_has_:
     sl: plazma
     sq: plazma
     sr: плазма
-    sr-el: plazma
+    sr_el: plazma
     sv: plasma
     sw: utegili
     ta: பிளாசுமா
@@ -203,7 +203,7 @@ dv_has_:
     tl: plasma
     tr: plazma
     tt: плазма
-    tt-latn: plazma
+    tt_latn: plazma
     udm: плазма
     ug: پلازما
     uk: плазма
@@ -218,8 +218,8 @@ dv_has_:
     yi: פלאזמע
     yue: 電漿
     zh: 等離子體
-    zh-hans: 等离子体
-    zh-hant: 等離子體
+    zh_hans: 等离子体
+    zh_hant: 等離子體
     zu: unyazani
 ---
 # [[Plasma]] 

@@ -299,7 +299,7 @@ dv_has_:
   name_:
     aa: can
     ab: ахш
-    aeb-arab: حليب
+    aeb_arab: حليب
     af: melk
     am: ወተት
     an: leit
@@ -323,7 +323,7 @@ dv_has_:
     bar: Muich
     bcl: gatas
     be: малако
-    be-tarask: малако
+    be_tarask: малако
     bew: laban
     bg: мляко
     bho: दूध
@@ -347,7 +347,7 @@ dv_has_:
     co: latti
     cr: ᒎᒎᔑᓈᐴ
     crh: süt
-    crh-latn: süt
+    crh_latn: süt
     cs: mléko
     csb: mlékò
     cu: млѣко
@@ -356,7 +356,7 @@ dv_has_:
     da: mælk
     dag: bihim
     de: Milch
-    de-ch: Milch
+    de_ch: Milch
     diq: şıt
     dsb: mloko
     dty: दूध
@@ -364,8 +364,8 @@ dv_has_:
     ee: notsi
     el: γάλα
     en: milk
-    en-ca: milk
-    en-gb: milk
+    en_ca: milk
+    en_gb: milk
     eo: lakto
     es: leche
     et: piim
@@ -452,7 +452,7 @@ dv_has_:
     lzz: ბჯა
     mad: susu
     mai: दूध
-    map-bms: susu
+    map_bms: susu
     mcn: mi᷆rtà
     mdf: лофца
     mg: ronono
@@ -466,7 +466,7 @@ dv_has_:
     mos: biisem
     mr: दूध
     ms: susu
-    ms-arab: سوسو
+    ms_arab: سوسو
     mt: ħalib
     mwl: lheite
     my: နို့
@@ -476,7 +476,7 @@ dv_has_:
     nan: leng
     nb: melk
     nds: Melk
-    nds-nl: melk
+    nds_nl: melk
     ne: दूध
     new: दुरु
     nl: melk
@@ -501,7 +501,7 @@ dv_has_:
     pnb: ددھ
     ps: شيدې
     pt: leite
-    pt-br: leite
+    pt_br: leite
     qu: lichi
     rgn: làt
     rm: latg
@@ -539,8 +539,8 @@ dv_has_:
     so: caano
     sq: qumështi
     sr: млеко
-    sr-ec: млеко
-    sr-el: mleko
+    sr_ec: млеко
+    sr_el: mleko
     srn: merki
     ss: lú-bîsi
     st: lebese
@@ -565,7 +565,7 @@ dv_has_:
     tpi: susu
     tr: süt
     tt: сөт
-    tt-cyrl: сөт
+    tt_cyrl: сөт
     ty: ha'ari
     tyv: сүт
     udm: йӧл
@@ -593,9 +593,9 @@ dv_has_:
     za: cij
     zgh: ⴰⴽⵯⴼⴰⵢ
     zh: 奶
-    zh-hans: 乳
-    zh-hant: 奶
-    zh-tw: 奶
+    zh_hans: 乳
+    zh_hant: 奶
+    zh_tw: 奶
     zu: ubisi
 ---
 # [[Milk]] 🥛 

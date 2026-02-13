@@ -107,7 +107,7 @@ dv_has_:
     az: Aminlər
     ba: аминдар
     be: аміны
-    be-tarask: аміны
+    be_tarask: аміны
     bg: амин
     bn: অ্যামিন
     bs: Amin
@@ -140,11 +140,11 @@ dv_has_:
     ja: アミン
     ka: ამინები
     kk: аминдер
-    kk-arab: امىيندەر
+    kk_arab: امىيندەر
     kk-cn: امىيندەر
-    kk-cyrl: аминдер
+    kk_cyrl: аминдер
     kk-kz: аминдер
-    kk-latn: Amïnder
+    kk_latn: Amïnder
     kk-tr: Amïnder
     kn: ಅಮೀನ್ಗಳು
     ko: 아민
@@ -170,8 +170,8 @@ dv_has_:
     sk: amín
     sl: amin
     sr: амин
-    sr-ec: амин
-    sr-el: amin
+    sr_ec: амин
+    sr_el: amin
     sv: amin
     ta: அமீன்
     tg: Аминҳо
@@ -185,12 +185,12 @@ dv_has_:
     wuu: 胺
     yue: 胺
     zh: 胺
-    zh-cn: 胺
-    zh-hans: 胺
-    zh-hant: 胺
-    zh-hk: 胺
-    zh-sg: 胺
-    zh-tw: 胺
+    zh_cn: 胺
+    zh_hans: 胺
+    zh_hant: 胺
+    zh_hk: 胺
+    zh_sg: 胺
+    zh_tw: 胺
 dv_is_same_as:
 - '[[../../../WikiData/WD~Amine,167198|WD~Amine,167198]]'
 - '[[/_Standards/Chemistry/Organic_Chemistry/Amine|Amine]]'

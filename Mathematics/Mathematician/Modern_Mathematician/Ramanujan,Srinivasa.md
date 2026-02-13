@@ -141,7 +141,7 @@ dv_has_:
     az: Srinivasa Ramanucan
     azb: سرینیواسا رامانوجان
     be: Срыніваса Рамануджан
-    be-tarask: Срыніваса Рамануджан
+    be_tarask: Срыніваса Рамануджан
     bg: Сриниваса Рамануджан
     bn: শ্রীনিবাস রামানুজন
     bpy: শ্রীনিবাস রামানুজন
@@ -153,8 +153,8 @@ dv_has_:
     de: S. Ramanujan
     el: Σρινιβάσα Ραμανούτζαν
     en: Srinivasa Ramanujan
-    en-ca: Srinivasa Ramanujan
-    en-gb: Srinivasa Ramanujan
+    en_ca: Srinivasa Ramanujan
+    en_gb: Srinivasa Ramanujan
     eo: Srinivasa Aiyangar Ramanujan
     es: Srinivasa Avdula Ramanujan
     et: Srinivasa Ramanujan
@@ -181,7 +181,7 @@ dv_has_:
     ja: シュリニヴァーサ・ラマヌジャン
     ka: სრინივასა რამანუჯანი
     kk: Сриниваса Раманужан Айенгор
-    kk-cyrl: Сриниваса Рамануджан Айенгор
+    kk_cyrl: Сриниваса Рамануджан Айенгор
     kn: ಶ್ರೀನಿವಾಸ ರಾಮಾನುಜನ್
     ko: 스리니바사 라마누잔
     la: Srinivasa Aiyangar Ramanujan
@@ -206,7 +206,7 @@ dv_has_:
     pnb: سرینواس رامانوجن
     ps: سیرینیواسا رامانوجن
     pt: Srinivasa Ramanujan
-    pt-br: Srinivasa Ramanujan
+    pt_br: Srinivasa Ramanujan
     ro: Srinivasa Ramanujan
     ru: Сриниваса Рамануджан Айенгор
     sa: श्रीनिवासरामानुजम्

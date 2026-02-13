@@ -148,7 +148,7 @@ dv_has_:
     ba: христиан сиркәүе
     bbc: Huria
     be: хрысціянская царква
-    be-tarask: хрысьціянская царква
+    be_tarask: хрысьціянская царква
     bew: Geréja
     bg: Църква
     bho: चर्च
@@ -163,12 +163,12 @@ dv_has_:
     da: Kirken
     de: Kirche
     de-at: Kirche
-    de-ch: Kirche
+    de_ch: Kirche
     el: Εκκλησία
     eml: Cèsa
     en: Christian Church
-    en-ca: Christian Church
-    en-gb: Christian Church
+    en_ca: Christian Church
+    en_gb: Christian Church
     eo: Eklezio
     es: iglesia cristiana
     et: Kirik (institutsioon)
@@ -200,7 +200,7 @@ dv_has_:
     kaa: Xristian shirkewi
     ko: 교회
     ku: dêr
-    ku-latn: dêr
+    ku_latn: dêr
     la: Ecclesia
     lij: Gexa
     lmo: Gesa
@@ -230,7 +230,7 @@ dv_has_:
     pnb: کلیسیا
     ps: کلیسا (عیسوي کلیسا)
     pt: Igreja
-    pt-br: Igreja
+    pt_br: Igreja
     pwn: kiukay
     qu: Kristiyanu inlisya
     ro: biserică
@@ -244,7 +244,7 @@ dv_has_:
     sk: cirkev
     sl: cerkev
     sr: црква
-    sr-ec: црква
+    sr_ec: црква
     sv: kristna kyrkan
     sw: Kanisa
     szy: kiwkay
@@ -261,11 +261,11 @@ dv_has_:
     wuu: 教会
     yue: 教會
     zh: 教會
-    zh-cn: 教会
-    zh-hans: 圣堂
-    zh-hant: 教會
-    zh-hk: 教會
-    zh-tw: 教會
+    zh_cn: 教会
+    zh_hans: 圣堂
+    zh_hant: 教會
+    zh_hk: 教會
+    zh_tw: 教會
     zu: Isonto
 ---
 # [[Christian_Church]] 

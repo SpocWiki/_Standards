@@ -187,7 +187,7 @@ dv_has_:
     az: Göbələk
     ban: Oong
     be: грыбы
-    be-tarask: плодавае цела
+    be_tarask: плодавае цела
     bg: гъба
     bi: sompiniong
     bjn: kulat
@@ -203,8 +203,8 @@ dv_has_:
     de: Fruchtkörper
     el: μανιτάρι
     en: mushroom
-    en-ca: mushroom
-    en-gb: mushroom
+    en_ca: mushroom
+    en_gb: mushroom
     eo: ĉapelfungo
     es: seta
     et: seen
@@ -240,7 +240,7 @@ dv_has_:
     ko: 버섯
     ks: ہیٚڑَر
     ku: kuvark
-    ku-latn: kuvark
+    ku_latn: kuvark
     ky: козу карын
     la: Fungus
     ln: likombó
@@ -262,7 +262,7 @@ dv_has_:
     nan: ko͘
     nb: hattsopp
     nds: Poggenstöhle
-    nds-nl: paddestool
+    nds_nl: paddestool
     ne: च्याउ
     nl: paddenstoel
     nn: fruktlekam
@@ -276,7 +276,7 @@ dv_has_:
     pnb: کھمبی
     pnt: κουκουβάκι
     pt: cogumelo
-    pt-br: cogumelo
+    pt_br: cogumelo
     qu: k'allampa puquy
     ro: ciupercă
     ru: гриб
@@ -297,7 +297,7 @@ dv_has_:
     so: boqoshaa
     sq: jëpurdhat
     sr: печурка
-    sr-ec: печурка
+    sr_ec: печурка
     su: fungi
     sv: fruktkropp
     sw: uyoga
@@ -324,8 +324,8 @@ dv_has_:
     yi: שוועמל
     yue: 菇
     zh: 蕈類
-    zh-hans: 蕈类
-    zh-hant: 蘑菇
+    zh_hans: 蕈类
+    zh_hant: 蘑菇
 ---
 # [[Mushroom]] 🍄 
 

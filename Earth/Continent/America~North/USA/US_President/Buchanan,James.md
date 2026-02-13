@@ -86,7 +86,7 @@ dv_has_:
     bar: James Buchanan
     bcl: James Buchanan
     be: Джэймс Бюкенен
-    be-tarask: Джэймз Б’юкэнэн
+    be_tarask: Джэймз Б’юкэнэн
     bg: Джеймс Бюканън
     bi: James Buchanan
     bn: জেমস বিউকানান
@@ -105,13 +105,13 @@ dv_has_:
     da: James Buchanan
     de: James Buchanan
     de-at: James Buchanan
-    de-ch: James Buchanan
+    de_ch: James Buchanan
     diq: James Buchanan
     dv: ޖޭމްސް ބުޗަނަން
     el: Τζέιμς Μπιουκάναν
     en: James Buchanan
-    en-ca: James Buchanan
-    en-gb: James Buchanan
+    en_ca: James Buchanan
+    en_gb: James Buchanan
     eo: James Buchanan
     es: James Buchanan
     et: James Buchanan
@@ -175,7 +175,7 @@ dv_has_:
     nap: James Buchanan
     nb: James Buchanan
     nds: James Buchanan
-    nds-nl: James Buchanan
+    nds_nl: James Buchanan
     ne: जेम्स बुकानान
     nl: James Buchanan
     nn: James Buchanan
@@ -191,7 +191,7 @@ dv_has_:
     pnb: جیمز بکانن
     ps: جېمز بوکانن
     pt: James Buchanan
-    pt-br: James Buchanan
+    pt_br: James Buchanan
     rm: James Buchanan
     rmf: James Buchanan
     ro: James Buchanan
@@ -214,7 +214,7 @@ dv_has_:
     sms: James Buchanan
     sq: James Buchanan
     sr: Џејмс Бјукенан
-    sr-el: James Buchanan
+    sr_el: James Buchanan
     sv: James Buchanan
     sw: James Buchanan
     ta: ஜேம்ஸ் புகேனன்

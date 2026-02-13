@@ -42,7 +42,7 @@ dv_has_:
   name_:
     ar: كلب الاسترداد
     ast: Perru cobrador
-    be-tarask: рэтрывэр
+    be_tarask: рэтрывэр
     ca: retriever
     cs: Retrívr
     cv: Ретриверсем
@@ -80,7 +80,7 @@ dv_has_:
     uk: Ретривер
     yue: 尋回狗
     zh: 寻回犬
-    zh-hant: 尋回犬
+    zh_hant: 尋回犬
 ---
 # [[Retriever]] 
 

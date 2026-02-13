@@ -22,7 +22,7 @@ instance_of: '[[_Standards/WikiData/WD~psychological_phenomenon,12047512]]'
 dv_has_:
   name_:
     ar: ترابط مؤلم
-    be-tarask: траўматычная прывязанасьць
+    be_tarask: траўматычная прывязанасьць
     cs: traumatické spojení
     da: traumebinding
     de: Traumabindung
@@ -31,7 +31,7 @@ dv_has_:
     fr: attachement traumatique
     ja: 外傷的絆
     ku: girêdayîna trawmatîk
-    ku-latn: girêdayîna trawmatîk
+    ku_latn: girêdayîna trawmatîk
     nl: traumaband
     pt: Ligação traumática
     ru: Травматическая связь

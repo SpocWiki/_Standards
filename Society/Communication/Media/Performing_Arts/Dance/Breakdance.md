@@ -74,7 +74,7 @@ dv_has_:
     arz: بريك دانس
     ast: Break dance
     be: Брэйк-данс
-    be-tarask: брэйк-данс
+    be_tarask: брэйк-данс
     bg: Брейк данс
     ca: breakdance
     ckb: سەمای برێک
@@ -133,8 +133,8 @@ dv_has_:
     smn: breikkam
     sms: breiʹkkjummuš
     sr: Брејкденс
-    sr-ec: Брејкденс
-    sr-el: Brejkdens
+    sr_ec: Брејкденс
+    sr_el: Brejkdens
     sv: breakdance
     sw: mabreka
     ta: தடை ஆட்டம்
@@ -150,12 +150,12 @@ dv_has_:
     wuu: 地板舞
     yue: 霹靂舞
     zh: 霹雳舞
-    zh-cn: 霹雳舞
-    zh-hans: 霹雳舞
-    zh-hant: 霹雳舞
-    zh-hk: 地板舞
-    zh-sg: 地板舞
-    zh-tw: 地板舞
+    zh_cn: 霹雳舞
+    zh_hans: 霹雳舞
+    zh_hant: 霹雳舞
+    zh_hk: 地板舞
+    zh_sg: 地板舞
+    zh_tw: 地板舞
 ---
 # [[Breakdance]] 
 

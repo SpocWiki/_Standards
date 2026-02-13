@@ -149,7 +149,7 @@ dv_has_:
     bar: Elektron
     bcl: elektron
     be: электрон
-    be-tarask: электрон
+    be_tarask: электрон
     bg: електрон
     bho: इलेक्ट्रॉन
     blk: အီလဲစ်ထရွန်
@@ -166,12 +166,12 @@ dv_has_:
     cy: electron
     da: elektron
     de: Elektron
-    de-ch: Elektron
+    de_ch: Elektron
     el: ηλεκτρόνιο
     eml: eletròun
     en: electron
-    en-ca: electron
-    en-gb: electron
+    en_ca: electron
+    en_gb: electron
     eo: elektrono
     es: electrón
     et: elektron
@@ -256,7 +256,7 @@ dv_has_:
     pnb: الیکٹران
     ps: اېلېکټرون
     pt: eletrão
-    pt-br: elétron
+    pt_br: elétron
     qu: Iliktrun
     rki: အီလက်ထရွန်
     ro: electron
@@ -284,8 +284,8 @@ dv_has_:
     so: elektaroon
     sq: elektroni
     sr: електрон
-    sr-ec: електрон
-    sr-el: elektron
+    sr_ec: електрон
+    sr_el: elektron
     stq: Elektron
     su: Éléktron
     sv: elektron
@@ -297,7 +297,7 @@ dv_has_:
     tok: wan insa pi wawa weka
     tr: elektron
     tt: электрон
-    tt-cyrl: электрон
+    tt_cyrl: электрон
     udm: электрон
     ug: ئېلېكترون
     uk: електрон

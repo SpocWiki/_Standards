@@ -48,7 +48,7 @@ dv_has_:
     arz: لا تقل ابدا مرة أخرى
     ast: Never Say Never Again
     azb: بیر داها هئچ واخت دئمه
-    be-tarask: Больш ніколі не кажы „ніколі“
+    be_tarask: Больш ніколі не кажы „ніколі“
     bg: Никога не казвай никога
     ca: Mai diguis mai més
     cs: Nikdy neříkej nikdy
@@ -97,8 +97,8 @@ dv_has_:
     ur: نیور سے نیور اگین
     vi: Never Say Never Again
     zh: 巡弋飛彈
-    zh-cn: 007外传之巡弋飞弹
-    zh-sg: 007杀出鲨鱼阵
+    zh_cn: 007外传之巡弋飞弹
+    zh_sg: 007杀出鲨鱼阵
 ---
 ## #has_/text_of_/abstract 
 

@@ -92,7 +92,7 @@ dv_has_:
     ast: francotirador
     az: snayper
     be: снайпер
-    be-tarask: снайпэр
+    be_tarask: снайпэр
     bg: Снайперист
     bn: স্নাইপার
     br: Sniper
@@ -104,7 +104,7 @@ dv_has_:
     de: Scharfschütze
     el: ελεύθερος σκοπευτής
     en: sniper
-    en-gb: sniper
+    en_gb: sniper
     eo: kaŝpafisto
     es: francotirador
     et: Snaiper
@@ -145,7 +145,7 @@ dv_has_:
     pa: ਨਿਸ਼ਾਨਚੀ
     pl: strzelec wyborowy
     pt: Atirador especial
-    pt-br: Atirador de elite
+    pt_br: Atirador de elite
     ro: lunetist
     ru: снайпер
     sh: Snajper
@@ -167,12 +167,12 @@ dv_has_:
     wuu: 狙击手
     yue: 狙擊手
     zh: 狙擊手
-    zh-cn: 狙击手
-    zh-hans: 狙击手
-    zh-hant: 狙擊手
-    zh-hk: 狙擊手
-    zh-sg: 狙击手
-    zh-tw: 狙擊手
+    zh_cn: 狙击手
+    zh_hans: 狙击手
+    zh_hant: 狙擊手
+    zh_hk: 狙擊手
+    zh_sg: 狙击手
+    zh_tw: 狙擊手
 ---
 # [[Sniper]] 
 

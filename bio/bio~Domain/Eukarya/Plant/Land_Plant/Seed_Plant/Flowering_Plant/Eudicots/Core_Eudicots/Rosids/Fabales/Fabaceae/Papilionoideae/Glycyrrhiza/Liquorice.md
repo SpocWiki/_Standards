@@ -165,7 +165,7 @@ CAS_Registry_Number: 84775-66-6
 EC_number: 935-465-7
 dv_has_:
   name_:
-    aeb-arab: عرب السوس
+    aeb_arab: عرب السوس
     af: Soethout
     an: Glycyrrhiza glabra
     ar: عرقسوس
@@ -177,7 +177,7 @@ dv_has_:
     ba: Татлы тамыр
     bar: Bärndreck
     bcl: Glycyrrhiza glabra
-    be-tarask: саладкакорань гладкі
+    be_tarask: саладкакорань гладкі
     bg: женско биле
     bn: যষ্টিমধু
     bo: ཤིང་མངར།
@@ -274,8 +274,8 @@ dv_has_:
     wuu: 光果甘草
     yue: 洋甘草
     zh: 光果甘草
-    zh-cn: 光果甘草
-    zh-hans: 光果甘草
+    zh_cn: 光果甘草
+    zh_hans: 光果甘草
 ---
 # [[Liquorice]] 
 

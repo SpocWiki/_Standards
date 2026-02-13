@@ -79,7 +79,7 @@ dv_has_:
     ast: Leontyne Price
     ba: Прайс Леонтина
     be: Леанціна Прайс
-    be-tarask: Леантына Прайс
+    be_tarask: Леантына Прайс
     bg: Леонтин Прайс
     ca: Leontyne Price
     cs: Leontyne Priceová
@@ -88,7 +88,7 @@ dv_has_:
     de: Leontyne Price
     el: Λεοντάιν Πράις
     en: Leontyne Price
-    en-gb: Leontyne Price
+    en_gb: Leontyne Price
     es: Leontyne Price
     et: Leontyne Price
     eu: Leontyne Price
@@ -114,7 +114,7 @@ dv_has_:
     pap: Leontyne Price
     pl: Leontyne Price
     pt: Leontyne Price
-    pt-br: Leontyne Price
+    pt_br: Leontyne Price
     ro: Leontyne Price
     ru: Леонтина Прайс
     sk: Leontyne Priceová
@@ -129,12 +129,12 @@ dv_has_:
     wuu: 李奥汀·普莱丝
     yue: 李奧汀普萊絲
     zh: 李奧汀·普萊絲
-    zh-cn: 李奥汀·普莱丝
-    zh-hans: 李奥汀·普莱丝
-    zh-hant: 李奧汀·普萊絲
-    zh-hk: 李奧汀·普萊絲
-    zh-sg: 李奥汀·普莱丝
-    zh-tw: 蕾昂婷·普萊絲
+    zh_cn: 李奥汀·普莱丝
+    zh_hans: 李奥汀·普莱丝
+    zh_hant: 李奧汀·普萊絲
+    zh_hk: 李奧汀·普萊絲
+    zh_sg: 李奥汀·普莱丝
+    zh_tw: 蕾昂婷·普萊絲
 ---
 # [[Leontyne_Price]] 
 

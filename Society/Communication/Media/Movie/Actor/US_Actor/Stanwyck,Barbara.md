@@ -105,7 +105,7 @@ dv_has_:
     azb: باربارا استانویک
     ba: Барбара Стэнвик
     be: Барбара Стэнвік
-    be-tarask: Барбара Стэнўік
+    be_tarask: Барбара Стэнўік
     bg: Барбара Стануик
     bi: Barbara Stanwyck
     bn: বারবারা স্ট্যানউইক
@@ -153,7 +153,7 @@ dv_has_:
     pa: ਬਾਰਬਰਾ ਸਟੈਨਵਿੱਕ
     pl: Barbara Stanwyck
     pt: Barbara Stanwyck
-    pt-br: Barbara Stanwyck
+    pt_br: Barbara Stanwyck
     qu: Barbara Stanwyck
     ro: Barbara Stanwyck
     ru: Барбара Стэнвик
@@ -176,11 +176,11 @@ dv_has_:
     wuu: 芭芭拉·斯坦威克
     yue: 芭芭拉史丹域
     zh: 芭芭拉·斯坦威克
-    zh-cn: 芭芭拉·斯坦威克
-    zh-hans: 芭芭拉·斯坦威克
-    zh-hant: 芭芭拉·史坦威
-    zh-sg: 芭芭拉·史丹域
-    zh-tw: 芭芭拉·史坦威
+    zh_cn: 芭芭拉·斯坦威克
+    zh_hans: 芭芭拉·斯坦威克
+    zh_hant: 芭芭拉·史坦威
+    zh_sg: 芭芭拉·史丹域
+    zh_tw: 芭芭拉·史坦威
 ---
 # [[Stanwyck,Barbara]] 
 

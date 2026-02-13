@@ -162,7 +162,7 @@ dv_has_:
     ba: Морзе алфавиты
     ban: Kode Morse
     be: азбука Морзэ
-    be-tarask: азбука Морзэ
+    be_tarask: азбука Морзэ
     bg: Морзова азбука
     bn: মোর্স কোড
     br: Lizherenneg Morse
@@ -227,7 +227,7 @@ dv_has_:
     pl: Kod Morse'a
     pnb: مورس کوڈ
     pt: código morse
-    pt-br: Código morse
+    pt_br: Código morse
     qu: Morse siq'i llumpa
     ro: codul Morse
     ru: азбука Морзе
@@ -240,8 +240,8 @@ dv_has_:
     sms: morsebukva
     sq: Kodi Morse
     sr: Морзеова азбука
-    sr-ec: Морзеов код
-    sr-el: Morzeov kod
+    sr_ec: Морзеов код
+    sr_el: Morzeov kod
     su: Sandi Morse
     sv: morsealfabetet
     sw: Alfabeti ya Morse
@@ -252,7 +252,7 @@ dv_has_:
     tl: Kodigong Morse
     tr: mors alfabesi
     tt: Морзе коды
-    tt-cyrl: Морзе коды
+    tt_cyrl: Морзе коды
     uk: азбука Морзе
     ur: مورس کوڈ
     vec: Codes Morse
@@ -263,14 +263,14 @@ dv_has_:
     yo: Àmìọ̀rọ̀ Morse
     yue: 摩斯碼
     zh: 莫尔斯电码
-    zh-cn: 摩尔斯电码
-    zh-hans: 摩尔斯电码
-    zh-hant: 摩爾斯電碼
-    zh-hk: 摩斯電碼
-    zh-mo: 摩爾斯電碼
+    zh_cn: 摩尔斯电码
+    zh_hans: 摩尔斯电码
+    zh_hant: 摩爾斯電碼
+    zh_hk: 摩斯電碼
+    zh_mo: 摩爾斯電碼
     zh-my: 摩尔斯电码
-    zh-sg: 摩尔斯电码
-    zh-tw: 摩爾斯電碼
+    zh_sg: 摩尔斯电码
+    zh_tw: 摩爾斯電碼
 ---
 # [[Morse_Code]] 
 

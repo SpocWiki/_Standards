@@ -25,9 +25,9 @@ dv_has_:
     uk: Думкозлочин
     ur: جرم سوچ
     zh: 犯罪思想
-    zh-hans: 犯罪思想
-    zh-hant: 犯罪思想
-    zh-hk: 犯罪思想
+    zh_hans: 犯罪思想
+    zh_hant: 犯罪思想
+    zh_hk: 犯罪思想
 aliases:
 - ajatusrikos
 - Crime de pensamento

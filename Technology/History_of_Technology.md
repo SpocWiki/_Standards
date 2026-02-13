@@ -90,7 +90,7 @@ dv_has_:
     ast: Historia de la teunoloxía
     az: Texnologiya tarixi
     ba: Технология тарихы
-    be-tarask: гісторыя тэхналёгіі
+    be_tarask: гісторыя тэхналёгіі
     bn: প্রযুক্তির ইতিহাস
     bs: Historija tehnologije
     ca: història de la tecnologia
@@ -153,12 +153,12 @@ dv_has_:
     yi: היסטאריע פון טעכנאלאגיע
     yue: 工藝史
     zh: 技术史
-    zh-cn: 技术史
-    zh-hans: 技术史
-    zh-hant: 技術史
-    zh-hk: 技術史
-    zh-sg: 技术史
-    zh-tw: 技術史
+    zh_cn: 技术史
+    zh_hans: 技术史
+    zh_hant: 技術史
+    zh_hk: 技術史
+    zh_sg: 技术史
+    zh_tw: 技術史
 ---
 # [[History_of_Technology]] 
 

@@ -161,7 +161,7 @@ dv_has_:
     bar: Iridium
     bcl: Iridyo
     be: Ірыдый
-    be-tarask: ірыд
+    be_tarask: ірыд
     bg: иридий
     bho: इरीडियम
     bn: ইরিডিয়াম
@@ -261,7 +261,7 @@ dv_has_:
     pnb: اریڈیم
     ps: ارېډيوم
     pt: irídio
-    pt-br: irídio
+    pt_br: irídio
     qu: Iridyu
     ro: iridiu
     ru: иридий
@@ -277,7 +277,7 @@ dv_has_:
     so: Iridiyaam
     sq: Iridiumi
     sr: иридијум
-    sr-ec: Иридијум
+    sr_ec: Иридијум
     stq: Iridium
     sv: iridium
     sw: Iridi
@@ -301,11 +301,11 @@ dv_has_:
     yo: Iridium
     yue: 銥
     zh: 銥
-    zh-cn: 铱
-    zh-hans: 铱
-    zh-hant: 銥
-    zh-hk: 銥
-    zh-tw: 銥
+    zh_cn: 铱
+    zh_hans: 铱
+    zh_hant: 銥
+    zh_hk: 銥
+    zh_tw: 銥
     zu: Imbidi
   number_of_:
     period: 6

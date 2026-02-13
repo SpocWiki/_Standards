@@ -82,7 +82,7 @@ dv_has_:
     ar: نظير مشع
     ast: isótopu radioactivu
     be: радыеактыўныя ізатопы
-    be-tarask: радыянуклід
+    be_tarask: радыянуклід
     bg: радиоактивни изотопи
     bn: রেডিওনিউক্লাইড
     ca: radioisòtop
@@ -117,8 +117,8 @@ dv_has_:
     kk: радиоизотоптар
     ko: 방사성 동위 원소
     ku: radyoîzotopa sîntêtî
-    ku-arab: رادیۆیزۆتۆپا سینتێتی
-    ku-latn: radyoîzotopa sîntêtî
+    ku_arab: رادیۆیزۆتۆپا سینتێتی
+    ku_latn: radyoîzotopa sîntêtî
     ky: радионуклид
     lt: radioizotopas
     mk: радиоизотоп
@@ -137,8 +137,8 @@ dv_has_:
     sl: radioaktivni izotop
     sq: izotopet radioaktive
     sr: радиоизотоп
-    sr-ec: радиоизотоп
-    sr-el: radioizotop
+    sr_ec: радиоизотоп
+    sr_el: radioizotop
     sv: radionuklid
     ta: கதிரியக்க ஓரிடத்தான்
     th: นิวไคลด์รังสี
@@ -151,12 +151,12 @@ dv_has_:
     wuu: 放射性同位素
     yue: 放射性同位素
     zh: 放射性同位素
-    zh-cn: 放射性同位素
-    zh-hans: 放射性同位素
-    zh-hant: 放射性同位素
-    zh-hk: 放射性同位素
-    zh-sg: 放射性同位素
-    zh-tw: 放射性同位素
+    zh_cn: 放射性同位素
+    zh_hans: 放射性同位素
+    zh_hant: 放射性同位素
+    zh_hk: 放射性同位素
+    zh_sg: 放射性同位素
+    zh_tw: 放射性同位素
 ---
 # [[Radionuclide]] 
 

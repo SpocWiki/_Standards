@@ -81,7 +81,7 @@ dv_has_:
     az: konservatoriya
     ba: консерватория
     be: кансерваторыя
-    be-tarask: кансэрваторыя
+    be_tarask: кансэрваторыя
     bg: консерватория
     bs: konzervatorijum
     ca: conservatori de música
@@ -91,7 +91,7 @@ dv_has_:
     de: Konservatorium
     el: ωδείο
     en: conservatory
-    en-gb: music school
+    en_gb: music school
     eo: konservatorio
     es: conservatorio
     et: konservatoorium
@@ -113,11 +113,11 @@ dv_has_:
     ja: 音楽学部
     ka: კონსერვატორია
     kk: консерватория
-    kk-arab: كونسەرۆاتورىييا
+    kk_arab: كونسەرۆاتورىييا
     kk-cn: كونسەرۆاتورىييا
-    kk-cyrl: консерватория
+    kk_cyrl: консерватория
     kk-kz: консерватория
-    kk-latn: konservatorïya
+    kk_latn: konservatorïya
     kk-tr: konservatorïya
     ko: 음악 학교
     ky: консерватория
@@ -128,11 +128,11 @@ dv_has_:
     lv: Konservatorija
     mk: музичко училиште
     nb: konservatorium
-    nds-nl: konservatorium
+    nds_nl: konservatorium
     nl: conservatorium
     pl: uczelnia muzyczna
     pt: conservatório
-    pt-br: conservatório
+    pt_br: conservatório
     ro: conservator
     ru: консерватория
     sco: college or varsity schuil o muisic
@@ -143,8 +143,8 @@ dv_has_:
     smn: muusikakatemia
     sms: musikkakatemia
     sr: конзерваторијум
-    sr-ec: конзерваторијум
-    sr-el: konzervatorijum
+    sr_ec: конзерваторијум
+    sr_el: konzervatorijum
     sv: musikhögskola
     tg: консерватория
     tr: konservatuvar
@@ -154,12 +154,12 @@ dv_has_:
     vi: nhạc viện
     yue: 音樂學系
     zh: 音樂學院
-    zh-cn: 音乐学院
-    zh-hans: 音乐学院
-    zh-hant: 音樂學院
-    zh-hk: 音樂學院
-    zh-sg: 音乐学院
-    zh-tw: 音樂學院
+    zh_cn: 音乐学院
+    zh_hans: 音乐学院
+    zh_hant: 音樂學院
+    zh_hk: 音樂學院
+    zh_sg: 音乐学院
+    zh_tw: 音樂學院
 ---
 # [[Conservatory]] 
 

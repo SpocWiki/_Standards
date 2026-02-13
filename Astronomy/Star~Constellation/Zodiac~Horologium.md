@@ -102,7 +102,7 @@ dv_has_:
     az: Saat
     ba: Сәғәт
     be: Гадзіннік
-    be-tarask: Гадзіньнік
+    be_tarask: Гадзіньнік
     bg: Часовник
     bn: ঘটিকা মণ্ডল
     br: Horolaj

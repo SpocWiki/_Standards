@@ -120,7 +120,7 @@ dv_has_:
     ast: Steffi Graf
     ba: Штеффи Граф
     be: Штэфі Граф
-    be-tarask: Штэфі Граф
+    be_tarask: Штэфі Граф
     bg: Щефи Граф
     bho: स्टेफी ग्राफ
     bn: স্টেফি গ্রাফ
@@ -132,8 +132,8 @@ dv_has_:
     de: Steffi Graf
     el: Στέφι Γκραφ
     en: Steffi Graf
-    en-ca: Steffi Graf
-    en-gb: Steffi Graf
+    en_ca: Steffi Graf
+    en_gb: Steffi Graf
     en-us: Steffi Graf
     eo: Steffi Graf
     es: Steffi Graf
@@ -177,7 +177,7 @@ dv_has_:
     nan: Steffi Graf
     nb: Steffi Graf
     nds: Steffi Graf
-    nds-nl: Steffi Graf
+    nds_nl: Steffi Graf
     nl: Steffi Graf
     nn: Steffi Graf
     oc: Steffi Graf
@@ -185,7 +185,7 @@ dv_has_:
     pl: Steffi Graf
     pms: Steffi Graf
     pt: Steffi Graf
-    pt-br: Steffi Graf
+    pt_br: Steffi Graf
     qu: Steffi Graf
     ro: Steffi Graf
     ru: Штеффи Граф
@@ -213,8 +213,8 @@ dv_has_:
     yo: Steffi Graf
     yue: 施特菲嘉芙
     zh: 施特菲·格拉夫
-    zh-cn: 施特菲·格拉夫
-    zh-tw: 史蒂菲·葛拉芙
+    zh_cn: 施特菲·格拉夫
+    zh_tw: 史蒂菲·葛拉芙
 ---
 # [[Graf,Steffi]] 
 

@@ -70,7 +70,7 @@ dv_has_:
     az: Tupolev
     azb: توپولف
     be: Тупалеў
-    be-tarask: Тупалеў
+    be_tarask: Тупалеў
     bg: КБ Туполев
     bs: Tupoljev
     ca: Túpolev
@@ -112,8 +112,8 @@ dv_has_:
     sk: Tupolev
     sl: Tupoljev
     sr: Тупољев
-    sr-ec: Тупољев
-    sr-el: Tupoljev
+    sr_ec: Тупољев
+    sr_el: Tupoljev
     sv: Tupolev
     th: ตูโปเลฟ
     tr: Tupolev
@@ -123,12 +123,12 @@ dv_has_:
     vi: Tupolev
     yue: 圖波列夫
     zh: 图波列夫公司
-    zh-cn: 图波列夫公司
-    zh-hans: 图波列夫公司
-    zh-hant: 圖波列夫公司
-    zh-hk: 圖波列夫公司
-    zh-sg: 图波列夫公司
-    zh-tw: 圖波列夫公司
+    zh_cn: 图波列夫公司
+    zh_hans: 图波列夫公司
+    zh_hant: 圖波列夫公司
+    zh_hk: 圖波列夫公司
+    zh_sg: 图波列夫公司
+    zh_tw: 圖波列夫公司
 ---
 # [[Tupolev]] 
 

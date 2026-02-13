@@ -8,7 +8,7 @@ dv_has_:
     ast: teísmu
     az: teizm
     be: тэізм
-    be-tarask: тэізм
+    be_tarask: тэізм
     bg: теизъм
     bn: আস্তিক্যবাদ
     ca: teisme
@@ -55,16 +55,16 @@ dv_has_:
     mg: teisma
     mk: теизам
     ms: teisme
-    ms-arab: تيئيسمى
+    ms_arab: تيئيسمى
     nan: Iú-sîn-lūn
     nb: teisme
-    nds-nl: teïsme
+    nds_nl: teïsme
     nl: theïsme
     os: теизм
     pap: teismo
     pl: teizm
     pt: teísmo
-    pt-br: teísmo
+    pt_br: teísmo
     ro: teism
     ru: теизм
     rue: теизм
@@ -78,8 +78,8 @@ dv_has_:
     sms: teismm
     sq: teizmi
     sr: теизам
-    sr-ec: теизам
-    sr-el: teizam
+    sr_ec: теизам
+    sr_el: teizam
     sv: teism
     ta: ஆத்திகம்
     te: ఆస్తికవాదం
@@ -97,14 +97,14 @@ dv_has_:
     yi: טעיזם
     yue: 有神論
     zh: 有神论
-    zh-cn: 有神论
-    zh-hans: 有神论
-    zh-hant: 有神論
-    zh-hk: 有神論
-    zh-mo: 有神論
+    zh_cn: 有神论
+    zh_hans: 有神论
+    zh_hant: 有神論
+    zh_hk: 有神論
+    zh_mo: 有神論
     zh-my: 有神论
-    zh-sg: 有神论
-    zh-tw: 有神論
+    zh_sg: 有神论
+    zh_tw: 有神論
 aliases:
 - chủ nghĩa hữu thần
 - diachas

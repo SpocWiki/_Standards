@@ -206,7 +206,7 @@ dv_has_:
     bar: Gschlechtsverkehr
     bcl: pagkikitoan
     be: палавы акт
-    be-tarask: плоцевы акт
+    be_tarask: плоцевы акт
     bg: секс
     bho: संभोग
     bn: যৌনসঙ্গম
@@ -226,12 +226,12 @@ dv_has_:
     da: samleje
     dag: tabi laɣimbu
     de: Geschlechtsverkehr
-    de-ch: Geschlechtsverkehr
+    de_ch: Geschlechtsverkehr
     diq: seks
     el: συνουσία
     en: sexual intercourse
-    en-ca: sexual intercourse
-    en-gb: sexual intercourse
+    en_ca: sexual intercourse
+    en_gb: sexual intercourse
     eo: amoro
     es: relación sexual
     et: suguühe
@@ -310,7 +310,7 @@ dv_has_:
     pl: stosunek płciowy
     ps: جنسي نږدېوالی
     pt: relação sexual humana
-    pt-br: relação sexual humana
+    pt_br: relação sexual humana
     qu: yuquy
     rmy: kurvia
     ro: act sexual
@@ -330,8 +330,8 @@ dv_has_:
     sn: kusvira
     sq: marrëdhënia seksuale
     sr: сексуални однос
-    sr-ec: сексуални однос
-    sr-el: seksualni odnos
+    sr_ec: сексуални однос
+    sr_el: seksualni odnos
     su: sanggama
     sv: samlag
     sw: tendo la ndoa
@@ -345,7 +345,7 @@ dv_has_:
     tok: unpa
     tr: cinsel ilişki
     tt: җенси якынлык
-    tt-cyrl: җенси якынлык
+    tt_cyrl: җенси якынлык
     tum: kumithira
     uk: статевий акт
     ur: جماع
@@ -357,9 +357,9 @@ dv_has_:
     yue: 性行為
     za: ej
     zh: 性交
-    zh-hans: 性交
-    zh-hant: 性交
-    zh-tw: 性交
+    zh_hans: 性交
+    zh_hant: 性交
+    zh_tw: 性交
     zu: ucansi
 ---
 # [[Sexual_Intercourse]] 

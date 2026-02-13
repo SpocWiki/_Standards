@@ -117,7 +117,7 @@ dv_has_:
     az: Antilop
     ban: Antelope
     be: Антылопы
-    be-tarask: антылёпа
+    be_tarask: антылёпа
     bg: антилопа
     bn: সারং
     br: Antilopenn
@@ -194,7 +194,7 @@ dv_has_:
     so: Deero
     sq: Antilopa
     sr: антилопа
-    sr-ec: антилопа
+    sr_ec: антилопа
     sv: antiloper
     ta: மறிமான்
     te: జింక

@@ -142,7 +142,7 @@ dv_has_:
     azb: هنری فورد
     ba: Генри Форд
     be: Генры Форд
-    be-tarask: Гэнры Форд
+    be_tarask: Гэнры Форд
     bg: Хенри Форд
     bn: হেনরি ফোর্ড
     br: Henry Ford
@@ -161,8 +161,8 @@ dv_has_:
     ee: Henry Ford
     el: Χένρυ Φορντ
     en: Henry Ford
-    en-ca: Henry Ford
-    en-gb: Henry Ford
+    en_ca: Henry Ford
+    en_gb: Henry Ford
     eo: Henry Ford
     es: Henry Ford
     et: Henry Ford
@@ -213,7 +213,7 @@ dv_has_:
     lt: Henry Ford
     lv: Henrijs Fords
     mai: हेनरी फोर्ड
-    map-bms: Henry Ford
+    map_bms: Henry Ford
     mg: Henry Ford
     mk: Хенри Форд
     ml: ഹെൻറി ഫോർഡ്

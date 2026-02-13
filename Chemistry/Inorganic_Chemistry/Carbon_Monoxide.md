@@ -207,7 +207,7 @@ dv_has_:
     azb: کربون مونوکسید
     ban: Karbon monoksida
     be: монааксід вугляроду
-    be-tarask: аксыд вугалю
+    be_tarask: аксыд вугалю
     bg: Въглероден оксид
     bho: कार्बन मोनोऑक्साइड
     bn: কার্বন মনোক্সাইড
@@ -220,11 +220,11 @@ dv_has_:
     cy: Carbon monocsid
     da: kulilte
     de: Kohlenstoffmonoxid
-    de-ch: Kohlenstoffmonoxid
+    de_ch: Kohlenstoffmonoxid
     el: μονοξείδιο του άνθρακα
     en: carbon monoxide
-    en-ca: Carbon monoxide
-    en-gb: carbon monoxide
+    en_ca: Carbon monoxide
+    en_gb: carbon monoxide
     eo: karbona monooksido
     es: monóxido de carbono
     et: vingugaas
@@ -279,7 +279,7 @@ dv_has_:
     pnb: کاربن مونو آکسائڈ
     ps: کاربن مونواکسايډ
     pt: monóxido de carbono
-    pt-br: Monóxido de carbono
+    pt_br: Monóxido de carbono
     rki: ကာဗွန်မိုအောက်ဆိုက်
     ro: Monoxid de carbon
     ru: угарный газ
@@ -312,8 +312,8 @@ dv_has_:
     wuu: 一氧化碳
     yue: 一氧化碳
     zh: 一氧化碳
-    zh-hans: 一氧化碳
-    zh-hant: 一氧化碳
+    zh_hans: 一氧化碳
+    zh_hant: 一氧化碳
 dv_is_:
   same_as:
   - '[[../../WikiData/WD~Carbon_monoxide,2025|WD~Carbon_monoxide,2025]]'

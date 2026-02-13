@@ -51,7 +51,7 @@ dv_has_:
     oc: Polygonales
     pl: rdestowce
     pt: Polygonales
-    pt-br: Polygonales
+    pt_br: Polygonales
     ro: Polygonales
     ru: Polygonales
     sl: dresnovci

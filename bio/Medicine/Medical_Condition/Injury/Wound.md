@@ -101,7 +101,7 @@ dv_has_:
     azb: یارا
     bcl: Lugad
     be: рана
-    be-tarask: рана
+    be_tarask: рана
     bg: Рана
     bs: Rana
     ca: ferida
@@ -177,8 +177,8 @@ dv_has_:
     sl: rana
     sq: Plaga
     sr: рана
-    sr-ec: Рана
-    sr-el: Rana
+    sr_ec: Рана
+    sr_el: Rana
     su: Raheut
     sv: sår
     sw: Majeraha
@@ -195,8 +195,8 @@ dv_has_:
     wuu: 伤口
     yue: 傷口
     zh: 傷口
-    zh-hant: 傷口
-    zh-tw: 傷口
+    zh_hant: 傷口
+    zh_tw: 傷口
 ---
 # [[Wound]] 
 

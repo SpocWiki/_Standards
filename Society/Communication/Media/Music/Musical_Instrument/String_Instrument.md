@@ -109,7 +109,7 @@ dv_has_:
     az: simli musiqi aləti
     bar: Saiteninstrument
     be: струнны музычны інструмент
-    be-tarask: струнныя музычныя інструмэнты
+    be_tarask: струнныя музычныя інструмэнты
     bg: струнен инструмент
     bn: ততযন্ত্র
     ca: instrument de corda
@@ -118,11 +118,11 @@ dv_has_:
     cy: offeryn tannau
     da: strengeinstrument
     de: Saiteninstrument
-    de-ch: Saiteninstrument
+    de_ch: Saiteninstrument
     el: έγχορδο όργανο
     en: string instrument
-    en-ca: string instrument
-    en-gb: string instrument
+    en_ca: string instrument
+    en_gb: string instrument
     eo: kordinstrumento
     es: instrumento de cuerda
     et: keelpillid
@@ -167,7 +167,7 @@ dv_has_:
     oc: Instrument de còrdas
     pl: instrument strunowy
     pt: instrumento de cordas
-    pt-br: Instrumento de cordas
+    pt_br: Instrumento de cordas
     qu: tiwlli waqachina
     ro: instrument cu coarde
     ru: струнный музыкальный инструмент
@@ -178,8 +178,8 @@ dv_has_:
     sl: strunsko glasbilo
     smn: sraŋgâčuojânâs
     sr: жичани инструмент
-    sr-ec: жичани инструмент
-    sr-el: žičani instrument
+    sr_ec: жичани инструмент
+    sr_el: žičani instrument
     sv: stränginstrument
     ta: நரம்புக் கருவி
     te: స్ట్రింగ్ వాయిద్యం
@@ -198,9 +198,9 @@ dv_has_:
     yi: סטרונע אינסטרומענטן
     yue: 弦樂器
     zh: 弦樂器
-    zh-hans: 弦乐器
-    zh-hant: 弦樂器
-    zh-hk: 弦樂器
+    zh_hans: 弦乐器
+    zh_hant: 弦樂器
+    zh_hk: 弦樂器
 ---
 # [[String_Instrument]] 
 

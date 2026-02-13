@@ -192,7 +192,7 @@ dv_has_:
     bar: Marlene Dietrich
     bcl: Marlene Dietrich
     be: Марлен Дзітрых
-    be-tarask: Марлен Дытрых
+    be_tarask: Марлен Дытрых
     bew: Marlene Dietrich
     bg: Марлене Дитрих
     bi: Marlene Dietrich
@@ -205,7 +205,7 @@ dv_has_:
     btm: Marlene Dietrich
     bxr: Дитрих, Марлен
     ca: Marlene Dietrich
-    cbk-zam: Marlene Dietrich
+    cbk_zam: Marlene Dietrich
     cdo: Marlene Dietrich
     ce: Дитрих, Марлен
     ceb: Marlene Dietrich
@@ -216,14 +216,14 @@ dv_has_:
     co: Marlene Dietrich
     cr: Marlene Dietrich
     crh: Marlen Ditrih
-    crh-latn: Marlene Dietrich
+    crh_latn: Marlene Dietrich
     cs: Marlene Dietrichová
     csb: Marlene Dietrich
     cy: Marlene Dietrich
     da: Marlene Dietrich
     de: Marlene Dietrich
     de-at: Marlene Dietrich
-    de-ch: Marlene Dietrich
+    de_ch: Marlene Dietrich
     diq: Marlene Dietrich
     dsb: Marlene Dietrich
     dtp: Marlene Dietrich
@@ -232,8 +232,8 @@ dv_has_:
     el: Μαρλέν Ντίτριχ
     eml: Marlene Dietrich
     en: Marlene Dietrich
-    en-ca: Marlene Dietrich
-    en-gb: Marlene Dietrich
+    en_ca: Marlene Dietrich
+    en_gb: Marlene Dietrich
     eo: Marlene Dietrich
     es: Marlene Dietrich
     et: Marlene Dietrich
@@ -265,7 +265,7 @@ dv_has_:
     he: מרלן דיטריך
     hi: मार्लेन डीट्रिक
     hif: Marlene Dietrich
-    hif-latn: Marlene Dietrich
+    hif_latn: Marlene Dietrich
     hil: Marlene Dietrich
     ho: Marlene Dietrich
     hr: Marlene Dietrich
@@ -279,7 +279,7 @@ dv_has_:
     ie: Marlene Dietrich
     ig: Marlene Dietrich
     ik: Marlene Dietrich
-    ike-latn: Marlene Dietrich
+    ike_latn: Marlene Dietrich
     ilo: Marlene Dietrich
     io: Marlene Dietrich
     is: Marlene Dietrich
@@ -331,7 +331,7 @@ dv_has_:
     nap: Marlene Dietrich
     nb: Marlene Dietrich
     nds: Marlene Dietrich
-    nds-nl: Marlene Dietrich
+    nds_nl: Marlene Dietrich
     ne: मार्लेना डिट्रिक
     new: मार्लीन डायट्रिच
     nl: Marlene Dietrich
@@ -349,7 +349,7 @@ dv_has_:
     pms: Marlene Dietrich
     pnb: مارلین ڈائٹرچ
     pt: Marlene Dietrich
-    pt-br: Marlene Dietrich
+    pt_br: Marlene Dietrich
     qu: Marlene Dietrich
     rm: Marlene Dietrich
     ro: Marlene Dietrich
@@ -369,8 +369,8 @@ dv_has_:
     sn: Marlene Dietrich
     sq: Marlene Dietrich
     sr: Марлен Дитрих
-    sr-ec: Марлен Дитрих
-    sr-el: Marlene Dietrich
+    sr_ec: Марлен Дитрих
+    sr_el: Marlene Dietrich
     srn: Marlene Dietrich
     su: Marlene Dietrich
     sv: Marlene Dietrich
@@ -402,14 +402,14 @@ dv_has_:
     yue: 瑪蓮德烈治
     zea: Marlene Dietrich
     zh: 瑪蓮·德烈治
-    zh-cn: 玛莲娜·迪特里茜
-    zh-hans: 玛莲娜·迪特里茜
-    zh-hant: 瑪蓮·德烈治
-    zh-hk: 瑪蓮·德烈治
-    zh-mo: 瑪蓮·德烈治
+    zh_cn: 玛莲娜·迪特里茜
+    zh_hans: 玛莲娜·迪特里茜
+    zh_hant: 瑪蓮·德烈治
+    zh_hk: 瑪蓮·德烈治
+    zh_mo: 瑪蓮·德烈治
     zh-my: 玛琳·黛德丽
-    zh-sg: 玛琳·黛德丽
-    zh-tw: 瑪琳·黛德麗
+    zh_sg: 玛琳·黛德丽
+    zh_tw: 瑪琳·黛德麗
     zu: Marlene Dietrich
 ---
 # [[Dietrich,Marlene]] 

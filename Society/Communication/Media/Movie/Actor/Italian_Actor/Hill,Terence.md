@@ -31,7 +31,7 @@ dv_has_:
     ast: Terence Hill
     az: Terence Hill
     be: Тэрэнс Хіл
-    be-tarask: Тэрэнс Гіл
+    be_tarask: Тэрэнс Гіл
     bg: Терънс Хил
     bs: Terence Hill
     ca: Terence Hill
@@ -41,8 +41,8 @@ dv_has_:
     de: Terence Hill
     el: Τέρενς Χιλ
     en: Terence Hill
-    en-ca: Terence Hill
-    en-gb: Terence Hill
+    en_ca: Terence Hill
+    en_gb: Terence Hill
     eo: Terence Hill
     es: Terence Hill
     et: Terence Hill
@@ -74,7 +74,7 @@ dv_has_:
     pap: Terence Hill
     pl: Terence Hill
     pt: Terence Hill
-    pt-br: Terence Hill
+    pt_br: Terence Hill
     qu: Terence Hill
     ro: Terence Hill
     ru: Теренс Хилл
@@ -94,8 +94,8 @@ dv_has_:
     vec: Terence Hill
     yo: Terence Hill
     zh: 泰倫斯·希路
-    zh-hans: 特伦斯·希尔
-    zh-hant: 泰倫斯希路
+    zh_hans: 特伦斯·希尔
+    zh_hant: 泰倫斯希路
 ---
 #has_/time_/started :: 1939-03-29 
 #has_/time_/stopped ::   

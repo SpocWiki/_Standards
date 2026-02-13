@@ -77,7 +77,7 @@ dv_has_:
     az: adron
     azb: هادرون
     be: адрон
-    be-tarask: гадрон
+    be_tarask: гадрон
     bg: адрон
     bn: হ্যাড্রন
     bs: hadron
@@ -88,11 +88,11 @@ dv_has_:
     cy: hadron
     da: hadron
     de: Hadron
-    de-ch: Hadron
+    de_ch: Hadron
     el: αδρόνιο
     en: hadron
-    en-ca: hadron
-    en-gb: hadron
+    en_ca: hadron
+    en_gb: hadron
     eo: hadrono
     es: hadrón
     et: hadronid
@@ -116,11 +116,11 @@ dv_has_:
     ja: ハドロン
     ka: ჰადრონები
     kk: адрон
-    kk-arab: ادرون
+    kk_arab: ادرون
     kk-cn: ادرون
-    kk-cyrl: адрон
+    kk_cyrl: адрон
     kk-kz: адрон
-    kk-latn: adron
+    kk_latn: adron
     kk-tr: adron
     ko: 강입자
     la: hadron
@@ -147,7 +147,7 @@ dv_has_:
     pnb: ہیڈرون
     ps: هاډرون
     pt: hadrão
-    pt-br: hádron
+    pt_br: hádron
     ro: Hadron
     ru: адрон
     scn: adroni
@@ -158,8 +158,8 @@ dv_has_:
     sl: hadron
     sms: hadroon
     sr: хадрон
-    sr-ec: хадрон
-    sr-el: hadron
+    sr_ec: хадрон
+    sr_el: hadron
     sv: hadron
     ta: வன்மி
     tg: Адронҳо
@@ -175,12 +175,12 @@ dv_has_:
     wuu: 强子
     yue: 強子
     zh: 強子
-    zh-cn: 强子
-    zh-hans: 强子
-    zh-hant: 強子
-    zh-hk: 強子
-    zh-sg: 强子
-    zh-tw: 強子
+    zh_cn: 强子
+    zh_hans: 强子
+    zh_hant: 強子
+    zh_hk: 強子
+    zh_sg: 强子
+    zh_tw: 強子
     zu: Isigqezema
 ---
 # [[Hadron]] 

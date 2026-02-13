@@ -59,7 +59,7 @@ dv_has_:
     azb: جانی دپ
     bar: Johnny Depp
     be: Джоні Дэп
-    be-tarask: Джоні Дэп
+    be_tarask: Джоні Дэп
     bew: Johnny Depp
     bg: Джони Деп
     bi: Johnny Depp
@@ -77,7 +77,7 @@ dv_has_:
     da: Johnny Depp
     dag: Johnny Depp
     de: Johnny Depp
-    de-ch: Johnny Depp
+    de_ch: Johnny Depp
     diq: Johnny Depp
     dsb: Johnny Depp
     dty: जोनी डेप
@@ -85,8 +85,8 @@ dv_has_:
     el: Τζόνι Ντεπ
     eml: Johnny Depp
     en: Johnny Depp
-    en-ca: Johnny Depp
-    en-gb: Johnny Depp
+    en_ca: Johnny Depp
+    en_gb: Johnny Depp
     eo: Johnny Depp
     es: Johnny Depp
     et: Johnny Depp
@@ -156,7 +156,7 @@ dv_has_:
     pl: Johnny Depp
     pms: Johnny Depp
     pt: Johnny Depp
-    pt-br: Johnny Depp
+    pt_br: Johnny Depp
     qu: Johnny Depp
     rm: Johnny Depp
     ro: Johnny Depp
@@ -172,7 +172,7 @@ dv_has_:
     so: Johnny Depp
     sq: Johnny Depp
     sr: Џони Деп
-    sr-ec: Џони Деп
+    sr_ec: Џони Деп
     su: Johnny Depp
     sv: Johnny Depp
     sw: Johnny Depp
@@ -198,12 +198,12 @@ dv_has_:
     yi: דזשאני דעפ
     yue: 尊尼特普
     zh: 強尼·戴普
-    zh-cn: 约翰尼·德普
-    zh-hans: 约翰尼·德普
-    zh-hant: 強尼·戴普
-    zh-hk: 尊尼特普
+    zh_cn: 约翰尼·德普
+    zh_hans: 约翰尼·德普
+    zh_hant: 強尼·戴普
+    zh_hk: 尊尼特普
     zh-my: 尊尼·特普
-    zh-tw: 強尼·戴普
+    zh_tw: 強尼·戴普
 ---
 #has_/time_/started :: 1963-07-09 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

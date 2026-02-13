@@ -121,7 +121,7 @@ dv_has_:
     ast: astrofísicu
     az: astrofizik
     be: астрафізік
-    be-tarask: астрафізык
+    be_tarask: астрафізык
     bg: астрофизик
     br: astrofizikour
     ca: astrofísic
@@ -130,10 +130,10 @@ dv_has_:
     da: astrofysiker
     de: Astrophysiker
     de-at: Astrophysiker
-    de-ch: Astrophysiker
+    de_ch: Astrophysiker
     el: αστροφυσικός
     en: astrophysicist
-    en-gb: astrophysicist
+    en_gb: astrophysicist
     eo: astrofizikisto
     es: astrofísico
     et: astrofüüsik
@@ -177,8 +177,8 @@ dv_has_:
     sl: astrofizik
     smn: astrofysikkár
     sr: астрофизичар
-    sr-ec: астрофизичар
-    sr-el: astrofizičar
+    sr_ec: астрофизичар
+    sr_el: astrofizičar
     sv: astrofysiker
     ta: வானியற்பியலாளர்
     tl: astropisiko
@@ -189,8 +189,8 @@ dv_has_:
     vec: astrofìzego
     yue: 天體物理學家
     zh: 天体物理学家
-    zh-cn: 天体物理学家
-    zh-hant: 天體物理學家
+    zh_cn: 天体物理学家
+    zh_hant: 天體物理學家
 ---
 # [[Astrophysicist]] 
 

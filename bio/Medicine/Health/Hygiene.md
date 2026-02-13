@@ -120,7 +120,7 @@ dv_has_:
     ast: Hixene
     az: Gigiyena
     be: гігіена
-    be-tarask: гігіена
+    be_tarask: гігіена
     bg: Хигиена
     bn: স্বাস্থ্যবিধি
     bs: Higiena
@@ -131,11 +131,11 @@ dv_has_:
     da: hygiejne
     dag: Sabta
     de: Hygiene
-    de-ch: Hygiene
+    de_ch: Hygiene
     el: υγειινή
     en: hygiene
-    en-ca: Hygiene
-    en-gb: hygiene
+    en_ca: Hygiene
+    en_gb: hygiene
     eo: higieno
     es: higiene
     et: Hügieen
@@ -168,11 +168,11 @@ dv_has_:
     kaa: gigiena
     kbp: Cɩɖɩcɩɖɩ wɛtʊ
     kk: Гигиена
-    kk-arab: گىيگىييەنا
+    kk_arab: گىيگىييەنا
     kk-cn: گىيگىييەنا
-    kk-cyrl: Гигиена
+    kk_cyrl: Гигиена
     kk-kz: Гигиена
-    kk-latn: Gïgïyena
+    kk_latn: Gïgïyena
     kk-tr: Gïgïyena
     kn: ಆರೋಗ್ಯಶಾಸ್ತ್ರ
     ko: 위생
@@ -192,7 +192,7 @@ dv_has_:
     pi: स्वास्थ्य विज्ञान
     pl: higiena
     pt: higiene
-    pt-br: higiene
+    pt_br: higiene
     qu: Llump'ay kamay
     ro: igienă
     ru: гигиена
@@ -206,19 +206,19 @@ dv_has_:
     sl: higiena
     sq: Higjiena
     sr: Хигијена
-    sr-ec: Хигијена
-    sr-el: Higijena
+    sr_ec: Хигијена
+    sr_el: Higijena
     ss: Kuhlanteka
     sv: hygien
     sw: Usafi wa kimwili
     ta: சுகாதாரம்
     tg: Гигиена
-    tg-latn: Gigiena
+    tg_latn: Gigiena
     th: สุขศาสตร์
     tl: Palalusugan
     tr: hijyen
     tt: гигиена
-    tt-cyrl: гигиена
+    tt_cyrl: гигиена
     tyv: Гигиена
     uk: гігієна
     ur: حفظان صحت
@@ -228,12 +228,12 @@ dv_has_:
     wuu: 卫生学
     yue: 衞生
     zh: 卫生学
-    zh-cn: 卫生学
-    zh-hans: 卫生
-    zh-hant: 衛生學
-    zh-hk: 衛生學
-    zh-sg: 卫生学
-    zh-tw: 衛生學
+    zh_cn: 卫生学
+    zh_hans: 卫生
+    zh_hant: 衛生學
+    zh_hk: 衛生學
+    zh_sg: 卫生学
+    zh_tw: 衛生學
 ---
 # [[Hygiene]] 
 

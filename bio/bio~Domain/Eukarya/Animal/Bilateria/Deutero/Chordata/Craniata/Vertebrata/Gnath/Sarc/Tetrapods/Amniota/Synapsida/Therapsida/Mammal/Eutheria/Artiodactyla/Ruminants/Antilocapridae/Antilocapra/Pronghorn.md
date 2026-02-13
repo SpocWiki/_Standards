@@ -123,7 +123,7 @@ dv_has_:
     avk: Kinzol (Antilocapra americana)
     az: Amerika haçabuynuzu
     ban: Pronghorn
-    be-tarask: віларог
+    be_tarask: віларог
     bg: вилорога антилопа
     br: Antilopenn Amerika
     ca: antílop americà
@@ -132,11 +132,11 @@ dv_has_:
     cs: vidloroh americký
     da: Gaffelbuk
     de: Gabelbock
-    de-ch: Gabelbock
+    de_ch: Gabelbock
     el: Αντιλοκάπρα
     en: pronghorn
-    en-ca: Pronghorn
-    en-gb: pronghorn
+    en_ca: Pronghorn
+    en_gb: pronghorn
     en-us: pronghorn
     eo: Antilokapro
     es: Antilocapra americana
@@ -160,11 +160,11 @@ dv_has_:
     ja: プロングホーン
     ka: რქაფიწალა ანტილოპა
     kk: Ашамүйізді киік
-    kk-arab: ٴاشامۇيىزدى كىيىك
+    kk_arab: ٴاشامۇيىزدى كىيىك
     kk-cn: ٴاشامۇيىزدى كىيىك
-    kk-cyrl: Ашамүйізді киік
+    kk_cyrl: Ашамүйізді киік
     kk-kz: Ашамүйізді киік
-    kk-latn: Aşamüýizdi kïik
+    kk_latn: Aşamüýizdi kïik
     kk-tr: Aşamüýizdi kïik
     ko: 가지뿔영양
     la: Antilocapra americana
@@ -179,7 +179,7 @@ dv_has_:
     oc: Antilocapra americana
     pl: widłoróg
     pt: Antilocapra
-    pt-br: Antilocapra
+    pt_br: Antilocapra
     ro: Antilocapra americana
     ru: Вилорог
     sh: Vitoroga antilopa
@@ -187,8 +187,8 @@ dv_has_:
     smn: syeriantiloop
     sq: Antilocapra americana
     sr: Рачворога антилопа
-    sr-ec: Рачворога антилопа
-    sr-el: Račvoroga antilopa
+    sr_ec: Рачворога антилопа
+    sr_el: Račvoroga antilopa
     sv: gaffelantilop
     ta: கவைமுள் கொம்பன்
     tr: Amerika antilobu
@@ -199,12 +199,12 @@ dv_has_:
     war: Antilocapra americana
     yue: 叉角羚
     zh: 叉角羚
-    zh-cn: 叉角羚
-    zh-hans: 叉角羚
-    zh-hant: 叉角羚
-    zh-hk: 叉角羚
-    zh-sg: 叉角羚
-    zh-tw: 叉角羚
+    zh_cn: 叉角羚
+    zh_hans: 叉角羚
+    zh_hant: 叉角羚
+    zh_hk: 叉角羚
+    zh_sg: 叉角羚
+    zh_tw: 叉角羚
 ---
 # [[Pronghorn]] 
 

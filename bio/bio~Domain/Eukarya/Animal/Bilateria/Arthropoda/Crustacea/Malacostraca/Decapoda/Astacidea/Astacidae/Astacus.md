@@ -33,11 +33,11 @@ dv_has_:
     da: Astacus
     de: Astacus
     de-at: Astacus
-    de-ch: Astacus
+    de_ch: Astacus
     el: Αστακός
     en: Astacus
-    en-ca: Astacus
-    en-gb: Astacus
+    en_ca: Astacus
+    en_gb: Astacus
     eo: Astacus
     es: Astacus
     et: Astacus
@@ -75,7 +75,7 @@ dv_has_:
     nap: Astacus
     nb: Astacus
     nds: Astacus
-    nds-nl: Astacus
+    nds_nl: Astacus
     nl: Astacus
     nn: Astacus
     nrm: Astacus
@@ -85,7 +85,7 @@ dv_has_:
     pl: Astacus
     pms: Astacus
     pt: Astacus
-    pt-br: Astacus
+    pt_br: Astacus
     rm: Astacus
     ro: Astacus
     ru: Astacus
@@ -107,9 +107,9 @@ dv_has_:
     war: Astacus
     wo: Astacus
     zh: 螯蝦屬
-    zh-cn: 螯虾属
-    zh-hans: 螯虾属
-    zh-hant: 阿斯塔克蝦科
+    zh_cn: 螯虾属
+    zh_hans: 螯虾属
+    zh_hant: 阿斯塔克蝦科
     zu: Astacus
 ---
 # [[Astacus]] 

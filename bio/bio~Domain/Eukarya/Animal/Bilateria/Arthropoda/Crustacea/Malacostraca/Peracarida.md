@@ -38,11 +38,11 @@ dv_has_:
     da: Peracarida
     de: Ranzenkrebse
     de-at: Peracarida
-    de-ch: Peracarida
+    de_ch: Peracarida
     el: Περακάριδα
     en: Peracarida
-    en-ca: Peracarida
-    en-gb: Peracarida
+    en_ca: Peracarida
+    en_gb: Peracarida
     eo: Peracarida
     es: Peracarida
     et: Peracarida
@@ -81,7 +81,7 @@ dv_has_:
     nap: Peracarida
     nb: Peracarida
     nds: Peracarida
-    nds-nl: Peracarida
+    nds_nl: Peracarida
     nl: Peracarida
     nn: Peracarida
     nrm: Peracarida
@@ -91,7 +91,7 @@ dv_has_:
     pl: torboraki
     pms: Peracarida
     pt: Peracarida
-    pt-br: Peracarida
+    pt_br: Peracarida
     rm: Peracarida
     ro: Peracarida
     ru: перакариды
@@ -114,9 +114,9 @@ dv_has_:
     war: Peracarida
     wo: Peracarida
     zh: 囊蝦總目
-    zh-cn: 囊虾总目
-    zh-hans: 囊虾总目
-    zh-tw: 囊蝦總目
+    zh_cn: 囊虾总目
+    zh_hans: 囊虾总目
+    zh_tw: 囊蝦總目
     zu: Peracarida
 ---
 # [[Peracarida]]  

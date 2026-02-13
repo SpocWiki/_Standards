@@ -102,7 +102,7 @@ dv_has_:
     ast: Embrión
     az: embrion
     be: эмбрыён
-    be-tarask: зародак
+    be_tarask: зародак
     bg: Ембрион
     bn: ভ্রূণ
     bs: Zametak
@@ -114,11 +114,11 @@ dv_has_:
     cy: embryo
     da: embryon
     de: Embryo
-    de-ch: Embryo
+    de_ch: Embryo
     el: Έμβρυο
     en: embryo
-    en-ca: embryo
-    en-gb: embryo
+    en_ca: embryo
+    en_gb: embryo
     eo: embrio
     es: embrión
     et: embrüo
@@ -172,7 +172,7 @@ dv_has_:
     pms: embrion
     ps: جنين
     pt: embrião
-    pt-br: embrião
+    pt_br: embrião
     ro: embrion
     ru: эмбрион
     sh: Zametak

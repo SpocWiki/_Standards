@@ -157,7 +157,7 @@ dv_has_:
     ba: фәнни ысул
     bcl: Siyentipikong paagi
     be: навуковы метад
-    be-tarask: навуковы мэтад
+    be_tarask: навуковы мэтад
     bg: научен метод
     bho: बैज्ञानिक बिधि
     bn: বৈজ্ঞানিক পদ্ধতি
@@ -215,7 +215,7 @@ dv_has_:
     mn: Шинжлэх ухааны арга
     mr: वैज्ञानिक पद्धती
     ms: kaedah saintifik
-    ms-arab: قاعده ساءينتيفيک
+    ms_arab: قاعده ساءينتيفيک
     mt: metodu xjentifiku
     my: သိပ္ပံနည်းကျ နည်းလမ်း
     nan: Kho-ha̍k-tek hong-hoat
@@ -232,7 +232,7 @@ dv_has_:
     pl: metoda badawcza
     ps: علمي مېتود
     pt: método científico
-    pt-br: método científico
+    pt_br: método científico
     ro: metodă științifică
     ru: научный метод
     rue: Научный метод
@@ -245,8 +245,8 @@ dv_has_:
     sl: znanstvena metoda
     sq: kërkimet shkencore
     sr: научни метод
-    sr-ec: научни метод
-    sr-el: naučni metod
+    sr_ec: научни метод
+    sr_el: naučni metod
     sv: vetenskaplig metod
     sw: Mbinu ya kisayansi
     ta: அறிவியல் அறிவு வழி
@@ -266,8 +266,8 @@ dv_has_:
     yo: àlàkalẹ̀ sáyẹ́nsì
     yue: 科學方法
     zh: 科学方法
-    zh-hant: 科學方法
-    zh-tw: 科學方法
+    zh_hant: 科學方法
+    zh_tw: 科學方法
     zu: Indlelasu yenzululwazi
 ---
 # [[Scientific_Method]] 

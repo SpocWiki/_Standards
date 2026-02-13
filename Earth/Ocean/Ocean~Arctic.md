@@ -314,7 +314,7 @@ dv_has_:
     bar: Arktischer Ozean
     bcl: Kadagatan Arktiko
     be: Паўночны Ледавіты акіян
-    be-tarask: Арктычны акіян
+    be_tarask: Арктычны акіян
     bew: Laotan Kutub Lor
     bg: Северен ледовит океан
     bho: आर्कटिक महासागर
@@ -332,7 +332,7 @@ dv_has_:
     ckb: ئۆقیانووسی بەستووی باکوور
     co: Mari Articu
     crh: Arktik okeanı
-    crh-latn: Arktik okean
+    crh_latn: Arktik okean
     cs: Severní ledový oceán
     cv: Çурçĕр Пăрлă океанĕ
     cy: Cefnfor yr Arctig
@@ -434,7 +434,7 @@ dv_has_:
     nan-hant: 北極洋
     nb: Polhavet
     nds: Arktische Ozean
-    nds-nl: Noordelike Ieszee
+    nds_nl: Noordelike Ieszee
     ne: आर्कटिक महासागर
     new: आर्टिक महासागर
     nl: Noordelijke IJszee
@@ -453,7 +453,7 @@ dv_has_:
     pnb: بحر منجمد شمالی
     ps: شمالي قطبي سمندر
     pt: Oceano Ártico
-    pt-br: Oceano Ártico
+    pt_br: Oceano Ártico
     qu: Artiku mama qucha
     rm: Ocean Arctic
     ro: Oceanul Arctic
@@ -516,8 +516,8 @@ dv_has_:
     yue: 北冰洋
     za: Baekbinghyangz
     zh: 北冰洋
-    zh-hant: 北極海
-    zh-tw: 北極海
+    zh_hant: 北極海
+    zh_tw: 北極海
 ---
 # [[Ocean~Arctic]] 
 

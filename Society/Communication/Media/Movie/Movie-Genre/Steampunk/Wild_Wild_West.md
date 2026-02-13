@@ -64,16 +64,16 @@ dv_has_:
     ru: Дикий, дикий Вест
     sh: Wild Wild West
     sr: Дивљи, дивљи запад
-    sr-ec: Дивљи, дивљи запад
-    sr-el: Divlji, divlji zapad
+    sr_ec: Дивљи, дивљи запад
+    sr_el: Divlji, divlji zapad
     sv: Wild Wild West
     tr: Vahşi Vahşi Batı
     uk: Дикий, дикий Вест
     zh: 飆風戰警
-    zh-cn: 飙风战警
-    zh-hans: 飙风战警
-    zh-hant: 飆風戰警
-    zh-sg: 惊险任务
+    zh_cn: 飙风战警
+    zh_hans: 飙风战警
+    zh_hant: 飆風戰警
+    zh_sg: 惊险任务
 ---
 ## #has_/text_of_/abstract 
 

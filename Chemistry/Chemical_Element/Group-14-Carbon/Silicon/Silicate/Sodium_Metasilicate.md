@@ -102,7 +102,7 @@ dv_has_:
     ar: سيليكات الصوديوم
     ast: Silicatu sódicu
     azb: سیلیکات سودیوم
-    be-tarask: мэтасылікат натру
+    be_tarask: мэтасылікат натру
     bg: Водно стъкло
     bs: Natrij-silikat
     ca: metasilicat de sodi
@@ -130,13 +130,13 @@ dv_has_:
     nl: natriumsilicaat
     pl: metakrzemian sodu
     pt: silicato de sódio
-    pt-br: metassilicato de sódio
+    pt_br: metassilicato de sódio
     ru: метасиликат натрия
     sh: Natrijum silikat
     sl: natrijev metasilikat
     sr: Natrijum silikat
-    sr-ec: Натријум силикат
-    sr-el: Natrijum silikat
+    sr_ec: Натријум силикат
+    sr_el: Natrijum silikat
     sv: natriumsilikat
     ta: சோடியம் சிலிக்கேட்டு
     tr: Sodyum silikat
@@ -146,12 +146,12 @@ dv_has_:
     war: Sodium silicate
     yue: 偏矽酸鈉
     zh: 硅酸鈉
-    zh-cn: 硅酸钠
-    zh-hans: 硅酸钠
-    zh-hant: 硅酸鈉
-    zh-hk: 硅酸鈉
-    zh-sg: 硅酸钠
-    zh-tw: 矽酸鈉
+    zh_cn: 硅酸钠
+    zh_hans: 硅酸钠
+    zh_hant: 硅酸鈉
+    zh_hk: 硅酸鈉
+    zh_sg: 硅酸钠
+    zh_tw: 矽酸鈉
 ---
 # [[Sodium_Metasilicate]] 
 

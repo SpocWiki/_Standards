@@ -112,7 +112,7 @@ dv_has_:
     az: giliz
     ba: патрон
     be: патрон
-    be-tarask: патрон
+    be_tarask: патрон
     bew: patron
     bg: патрон
     bn: কার্তুজ
@@ -123,10 +123,10 @@ dv_has_:
     cy: cetrisen
     da: patron
     de: Patrone
-    de-ch: Patrone
+    de_ch: Patrone
     el: φυσίγγιο
     en: cartridge
-    en-ca: cartridge
+    en_ca: cartridge
     en-us: cartridge
     eo: kartoĉo
     es: cartucho
@@ -163,7 +163,7 @@ dv_has_:
     pl: amunicja strzelecka
     pms: Cartucia (arme da feu)
     pt: cartucho
-    pt-br: cartucho
+    pt_br: cartucho
     ro: cartuș
     ru: патрон
     sah: ботуруон
@@ -172,8 +172,8 @@ dv_has_:
     sl: naboj
     sq: fishek
     sr: чаура
-    sr-ec: метак
-    sr-el: metak
+    sr_ec: метак
+    sr_el: metak
     sv: patron
     sw: ramia
     ta: வெடிபொதி
@@ -183,7 +183,7 @@ dv_has_:
     wuu: 子弹
     yue: 子彈
     zh: 子彈
-    zh-hans: 子弹
+    zh_hans: 子弹
 ---
 # [[Cartridge(Firearm)]] 
 

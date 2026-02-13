@@ -194,7 +194,7 @@ dv_has_:
     bar: Miguel de Cervantes
     bcl: Cervantes
     be: Мігель Сервантэс
-    be-tarask: Мігель Сэрвантэс
+    be_tarask: Мігель Сэрвантэс
     bew: Miguel de Cervantes Saavedra
     bg: Мигел де Сервантес
     bho: मीगुएल डि सेर्वानते
@@ -205,24 +205,24 @@ dv_has_:
     btm: Miguel de Cervantes
     bxr: Сервантес, Мигель де
     ca: Miguel de Cervantes Saavedra
-    cbk-zam: Miguel de Cervantes
+    cbk_zam: Miguel de Cervantes
     ce: Мигель де Сервантес
     ceb: Miguel de Cervantes Saavedra
     ckb: سێرڤانتێس
     co: Miguel de Cervantes
     crh: Migel de Servantes
-    crh-latn: Migel Servantes
+    crh_latn: Migel Servantes
     cs: Miguel de Cervantes y Saavedra
     cy: Miguel de Cervantes
     da: Miguel de Cervantes
     de: Miguel de Cervantes
     de-at: Miguel de Cervantes
-    de-ch: Miguel de Cervantes
+    de_ch: Miguel de Cervantes
     diq: Miguel Cervantes
     el: Μιγκέλ ντε Θερβάντες Σααβέδρα
     en: Miguel de Cervantes
-    en-ca: Miguel de Cervantes
-    en-gb: Miguel de Cervantes
+    en_ca: Miguel de Cervantes
+    en_gb: Miguel de Cervantes
     eo: Miguel de Cervantes
     es: Miguel de Cervantes
     et: Miguel de Cervantes
@@ -321,7 +321,7 @@ dv_has_:
     pnb: مائیگل ڈی سروانٹیز
     ps: ميڭيل دي سيرڤانطيس
     pt: Miguel de Cervantes
-    pt-br: Miguel de Cervantes
+    pt_br: Miguel de Cervantes
     qu: Miguel de Cervantes
     ro: Miguel de Cervantes
     ru: Мигель де Сервантес
@@ -370,9 +370,9 @@ dv_has_:
     yue: 塞萬提斯
     za: Cervantes
     zh: 米格尔·德·塞万提斯
-    zh-cn: 米格尔·德·塞万提斯
-    zh-hans: 米格尔·德·塞万提斯
-    zh-hant: 米格爾·德·塞萬提斯
+    zh_cn: 米格尔·德·塞万提斯
+    zh_hans: 米格尔·德·塞万提斯
+    zh_hant: 米格爾·德·塞萬提斯
 ---
 # [[Miguel_de_Cervantes]] 
 

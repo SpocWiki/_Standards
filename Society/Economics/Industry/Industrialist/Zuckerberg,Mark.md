@@ -169,7 +169,7 @@ dv_has_:
     bar: Mark Zuckerberg
     bcl: Mark Zuckerberg
     be: Марк Цукерберг
-    be-tarask: Марк Цукербэрг
+    be_tarask: Марк Цукербэрг
     bew: Mark Zuckerberg
     bg: Марк Зукърбърг
     bho: मार्क ज़करबर्ग
@@ -185,7 +185,7 @@ dv_has_:
     cy: Mark Zuckerberg
     da: Mark Zuckerberg
     de: Mark Zuckerberg
-    de-ch: Mark Zuckerberg
+    de_ch: Mark Zuckerberg
     diq: Mark Zuckerberg
     dsb: Mark Zuckerberg
     dty: मार्क जुकरबर्ग
@@ -274,7 +274,7 @@ dv_has_:
     pnb: مارک زکربرگ
     ps: مارک زوکربرگ
     pt: Mark Zuckerberg
-    pt-br: Mark Zuckerberg
+    pt_br: Mark Zuckerberg
     rki: မာ့ခ် ဇက်ကာဘာ့
     rm: Mark Zuckerberg
     rmy: Mark Zuckerberg
@@ -321,10 +321,10 @@ dv_has_:
     yo: Mark Zuckerberg
     yue: 朱克伯格
     zh: 马克·扎克伯格
-    zh-cn: 马克·扎克伯格
-    zh-hant: 馬克·祖克柏
-    zh-hk: 馬克·朱克伯格
-    zh-tw: 馬克·祖克柏
+    zh_cn: 马克·扎克伯格
+    zh_hant: 馬克·祖克柏
+    zh_hk: 馬克·朱克伯格
+    zh_tw: 馬克·祖克柏
 ---
 # [[Zuckerberg,Mark]] 
 

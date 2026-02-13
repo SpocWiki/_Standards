@@ -63,7 +63,7 @@ dv_has_:
     ast: Academicismu
     az: akademizm
     be: акадэмізм
-    be-tarask: акадэмізм
+    be_tarask: акадэмізм
     bg: Академично рисуване
     bn: শিক্ষায়তনিক শিল্পকর্ম
     br: Arz akademiek
@@ -74,11 +74,11 @@ dv_has_:
     cv: Академизм
     da: Akademisk kunst
     de: Akademische Kunst
-    de-ch: Akademische Kunst
+    de_ch: Akademische Kunst
     el: ακαδημαϊσμός
     en: academic art
-    en-ca: Academic art
-    en-gb: academic art
+    en_ca: Academic art
+    en_gb: academic art
     eo: Akademismo
     es: academicismo
     et: Akadeemiline kunst
@@ -106,15 +106,15 @@ dv_has_:
     nn: akademisk kunst
     pl: Akademizm
     pt: academicismo
-    pt-br: Academicismo
+    pt_br: Academicismo
     ro: academism
     ru: академизм
     sh: Akademizam
     sk: Akademizmus
     sl: akademska umetnost
     sr: академизам
-    sr-ec: академизам
-    sr-el: akademizam
+    sr_ec: академизам
+    sr_el: akademizam
     stq: Akademismus af Neoklassizismus
     sv: Akademisk konst
     tg: Академизм

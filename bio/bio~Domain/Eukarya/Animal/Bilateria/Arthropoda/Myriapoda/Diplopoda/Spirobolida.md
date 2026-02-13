@@ -38,7 +38,7 @@ dv_has_:
     oc: Spirobolida
     pl: Spirobolida
     pt: Spirobolida
-    pt-br: Spirobolida
+    pt_br: Spirobolida
     ro: Spirobolida
     ru: Spirobolida
     sl: Spirobolida
@@ -51,9 +51,9 @@ dv_has_:
     vo: Spirobolida
     war: Spirobolida
     zh: 环山蛩目
-    zh-cn: 环山蛩目
-    zh-hans: 环山蛩目
-    zh-tw: 山蛩目
+    zh_cn: 环山蛩目
+    zh_hans: 环山蛩目
+    zh_tw: 山蛩目
 ---
 # [[Spirobolida]] 
 

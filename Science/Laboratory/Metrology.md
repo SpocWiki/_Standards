@@ -90,7 +90,7 @@ dv_has_:
     az: metrologiya
     ba: Метрология
     be: метралогія
-    be-tarask: мэтралёгія
+    be_tarask: мэтралёгія
     bg: Метрология
     bn: পরিমাপবিজ্ঞান
     br: metrologiezh
@@ -101,11 +101,11 @@ dv_has_:
     cy: mesureg
     da: metrologi
     de: Metrologie
-    de-ch: Metrologie
+    de_ch: Metrologie
     el: μετρολογία
     en: metrology
-    en-ca: Metrology
-    en-gb: metrology
+    en_ca: Metrology
+    en_gb: metrology
     eo: mezurscienco
     es: metrología
     et: metroloogia
@@ -136,7 +136,7 @@ dv_has_:
     mk: Метрологија
     ml: മെട്രോളജി
     ms: metrologi
-    ms-arab: ميترولوݢي
+    ms_arab: ميترولوݢي
     mt: Metroloġija
     nb: metrologi
     ne: मेट्रोलोजी
@@ -148,7 +148,7 @@ dv_has_:
     pnb: پیمائشیات
     ps: ميټرولوژي
     pt: metrologia
-    pt-br: Metrologia
+    pt_br: Metrologia
     ro: metrologie
     ru: метрология
     sah: Метрология
@@ -171,7 +171,7 @@ dv_has_:
     tl: Metrolohiya
     tr: metroloji
     tt: метрология
-    tt-cyrl: үлчәүбелем
+    tt_cyrl: үлчәүбелем
     uk: метрологія
     ur: پیمائشیات
     uz: Metrologiya
@@ -182,9 +182,9 @@ dv_has_:
     wuu: 计量学
     yue: 計量學
     zh: 計量學
-    zh-cn: 计量学
-    zh-hans: 计量学
-    zh-hant: 計量學
+    zh_cn: 计量学
+    zh_hans: 计量学
+    zh_hant: 計量學
 ---
 # [[Metrology]] 
 

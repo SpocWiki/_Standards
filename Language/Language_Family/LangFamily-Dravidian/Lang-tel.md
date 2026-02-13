@@ -123,7 +123,7 @@ dv_has_:
     bbc: Hata Telugu
     bcl: Telugu
     be: тэлугу
-    be-tarask: тэлугу
+    be_tarask: тэлугу
     bg: телугу
     bho: तेलुगू
     bjn: Bahasa Telugu
@@ -139,13 +139,13 @@ dv_has_:
     cy: Telugu
     da: telugu
     de: Telugu
-    de-ch: Telugu
+    de_ch: Telugu
     dty: तेलुगु भाषा
     dv: ތެލުގޫ
     el: Τελούγκου
     en: Telugu
-    en-ca: Telugu
-    en-gb: Telugu
+    en_ca: Telugu
+    en_gb: Telugu
     eo: telugua lingvo
     es: télugu
     et: telugu keel
@@ -200,7 +200,7 @@ dv_has_:
     nah: Telugutlahtōlli
     nan: Telugu-gí
     nb: telugu
-    nds-nl: Telugu (taol)
+    nds_nl: Telugu (taol)
     ne: तेलगु भाषा
     new: तेलुगु
     nl: Telugu
@@ -216,7 +216,7 @@ dv_has_:
     pnb: تلگو
     ps: تېلوګو ژبه
     pt: telugu
-    pt-br: Língua telugu
+    pt_br: Língua telugu
     qu: Telugu simi
     ro: telugu
     ru: телугу
@@ -233,14 +233,14 @@ dv_has_:
     sms: teluguǩiõll
     sq: Gjuha telugu
     sr: телугу језик
-    sr-ec: телугу језик
+    sr_ec: телугу језик
     sv: telugu
     sw: Kitelugu
     ta: தெலுங்கு
     tcy: ತೆಲುಗು ಭಾಷೆ
     te: తెలుగు
     tg: телугу
-    tg-cyrl: забони телугу
+    tg_cyrl: забони телугу
     th: ภาษาเตลูกู
     tl: Wikang Telugu
     tok: toki Teluku
@@ -259,10 +259,10 @@ dv_has_:
     yi: טעלוגו
     yue: 泰盧固文
     zh: 泰卢固语
-    zh-cn: 泰卢固语
-    zh-hans: 泰卢固语
-    zh-hant: 泰盧固語
-    zh-tw: 泰盧固語
+    zh_cn: 泰卢固语
+    zh_hans: 泰卢固语
+    zh_hant: 泰盧固語
+    zh_tw: 泰盧固語
     zu: isi-Telugu
 ---
 # [[Lang-tel]] 

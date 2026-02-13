@@ -11,7 +11,7 @@ dv_has_:
     ast: Rei Arturu
     az: Kral Artur
     be: Кароль Артур
-    be-tarask: Кароль Артур
+    be_tarask: Кароль Артур
     bg: Артур
     bjn: Raja Arthur
     bn: রাজা আর্থার
@@ -27,7 +27,7 @@ dv_has_:
     de: Artus
     el: Βασιλιάς Αρθούρος
     en: King Arthur
-    en-gb: King Arthur
+    en_gb: King Arthur
     eo: Reĝo Arturo
     es: Rey Arturo
     et: Kuningas Arthur
@@ -107,8 +107,8 @@ dv_has_:
     wuu: 亞瑟王
     yue: 雅打王
     zh: 亚瑟王
-    zh-cn: 亞瑟王
-    zh-tw: 亞瑟王
+    zh_cn: 亞瑟王
+    zh_tw: 亞瑟王
 aliases:
 - Aring Arturo
 - Arthur

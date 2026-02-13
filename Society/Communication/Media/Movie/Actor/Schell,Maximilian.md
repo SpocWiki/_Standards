@@ -112,7 +112,7 @@ dv_has_:
     ba: Максимилиан Шелл
     bar: Maximilian Schell
     be: Максіміліян Шэл
-    be-tarask: Максімілян Шэль
+    be_tarask: Максімілян Шэль
     bg: Максимилиан Шел
     bn: ম্যাক্সিমিলিয়ান শেল
     br: Maximilian Schell
@@ -124,11 +124,11 @@ dv_has_:
     da: Maximilian Schell
     de: Maximilian Schell
     de-at: Maximilian Schell
-    de-ch: Maximilian Schell
+    de_ch: Maximilian Schell
     el: Μαξιμίλιαν Σελ
     en: Maximilian Schell
-    en-ca: Maximilian Schell
-    en-gb: Maximilian Schell
+    en_ca: Maximilian Schell
+    en_gb: Maximilian Schell
     eo: Maximilian Schell
     es: Maximilian Schell
     et: Maximilian Schell
@@ -172,7 +172,7 @@ dv_has_:
     nap: Maximilian Schell
     nb: Maximilian Schell
     nds: Maximilian Schell
-    nds-nl: Maximilian Schell
+    nds_nl: Maximilian Schell
     nl: Maximilian Schell
     nn: Maximilian Schell
     nrm: Maximilian Schell
@@ -182,7 +182,7 @@ dv_has_:
     pl: Maximilian Schell
     pms: Maximilian Schell
     pt: Maximilian Schell
-    pt-br: Maximilian Schell
+    pt_br: Maximilian Schell
     qu: Maximilian Schell
     rm: Maximilian Schell
     ro: Maximilian Schell
@@ -195,8 +195,8 @@ dv_has_:
     sl: Maximilian Schell
     sq: Maximilian Schell
     sr: Максимилијан Шел
-    sr-ec: Максимилијан Шел
-    sr-el: Maksimilijan Šel
+    sr_ec: Максимилијан Шел
+    sr_el: Maksimilijan Šel
     sv: Maximilian Schell
     sw: Maximilian Schell
     ta: மாக்சிமிலியன் ஷெல்
@@ -215,13 +215,13 @@ dv_has_:
     yo: Maximilian Schell
     yue: 麥斯米倫雪爾
     zh: 马克西米利安·谢尔
-    zh-cn: 马克西米利安·谢尔
-    zh-hans: 马克西米利安·谢尔
-    zh-hant: 麥斯美倫雪兒
-    zh-hk: 麥斯美倫·雪兒
+    zh_cn: 马克西米利安·谢尔
+    zh_hans: 马克西米利安·谢尔
+    zh_hant: 麥斯美倫雪兒
+    zh_hk: 麥斯美倫·雪兒
     zh-my: 麦斯米伦·雪尔
-    zh-sg: 麦斯米伦·雪尔
-    zh-tw: 麥斯米倫·雪爾
+    zh_sg: 麦斯米伦·雪尔
+    zh_tw: 麥斯米倫·雪爾
     zu: Maximilian Schell
 ---
 # [[Schell,Maximilian]] 

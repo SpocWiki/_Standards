@@ -17,7 +17,7 @@ dv_has_:
     nl: Everlong
     pl: Everlong
     pt: Everlong
-    pt-br: Everlong
+    pt_br: Everlong
     ru: Everlong
     sk: Everlong
     sr: Everlong

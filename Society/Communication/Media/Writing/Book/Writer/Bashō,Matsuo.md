@@ -165,7 +165,7 @@ dv_has_:
     bar: Matsuo Bashō
     bcl: Basho
     be: Мацуа Басё
-    be-tarask: Мацуо Басё
+    be_tarask: Мацуо Басё
     bew: Matsuo Bashō
     bg: Мацуо Башо
     bi: Matsuo Basho
@@ -177,7 +177,7 @@ dv_has_:
     btm: Bashō
     bxr: Мацуо Басё
     ca: Matsuo Bashō
-    cbk-zam: Matsuo Basho
+    cbk_zam: Matsuo Basho
     ce: Мацуо Басё
     ceb: Matsuo Bashō
     chr: ᎹᏧᎣ BᎠᏍᎰ
@@ -190,8 +190,8 @@ dv_has_:
     diq: Matsuo Basho
     el: Ματσούο Μπασό
     en: Matsuo Bashō
-    en-ca: Matsuo Bashō
-    en-gb: Matsuo Bashō
+    en_ca: Matsuo Bashō
+    en_gb: Matsuo Bashō
     eo: Matsuo Basho
     es: Matsuo Bashō
     et: Matsuo Bashō
@@ -248,7 +248,7 @@ dv_has_:
     lo: ມະສຶໂອະ ບະໂຊ
     lt: Macuo Bašio
     lv: Macuo Basjo
-    map-bms: Matsuo Basho
+    map_bms: Matsuo Basho
     mg: Matsuo Bashō
     mhr: Мацуо Басӧ
     min: Matsuo Bashō
@@ -324,8 +324,8 @@ dv_has_:
     yo: Matsuo Bashō
     yue: 松尾芭蕉
     zh: 松尾芭蕉
-    zh-hans: 松尾芭蕉
-    zh-hk: 松尾芭蕉
+    zh_hans: 松尾芭蕉
+    zh_hk: 松尾芭蕉
 ---
 ## #has_/text_of_/abstract 
 

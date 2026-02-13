@@ -172,7 +172,7 @@ dv_has_:
     ban: Indium
     bcl: Indyo (elemento)
     be: Індый
-    be-tarask: інд
+    be_tarask: інд
     bg: индий
     bho: इंडियम
     bn: ইন্ডিয়াম
@@ -190,8 +190,8 @@ dv_has_:
     de: Indium
     el: ίνδιο
     en: indium
-    en-ca: Indium
-    en-gb: indium
+    en_ca: Indium
+    en_gb: indium
     eo: indio
     es: indio
     et: indium
@@ -270,7 +270,7 @@ dv_has_:
     pnb: انڈیم
     ps: انډيوم
     pt: índio
-    pt-br: índio
+    pt_br: índio
     qu: Indyu
     ro: indiu
     ru: индий
@@ -288,7 +288,7 @@ dv_has_:
     sms: indium
     sq: Indiumi
     sr: индијум
-    sr-ec: Индијум
+    sr_ec: Индијум
     stq: Indium
     sv: indium
     sw: Indi
@@ -312,9 +312,9 @@ dv_has_:
     yo: Indium
     yue: 銦
     zh: 铟
-    zh-hans: 铟
-    zh-hant: 銦
-    zh-tw: 銦
+    zh_hans: 铟
+    zh_hant: 銦
+    zh_tw: 銦
     zu: INzulumbi
   number_of_:
     period: 5

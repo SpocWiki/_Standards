@@ -115,7 +115,7 @@ dv_has_:
     ast: Eric Schmidt
     az: Erik Emerson Şmidt
     be: Эрык Шміт
-    be-tarask: Эрык Шміт
+    be_tarask: Эрык Шміт
     bg: Ерик Шмид
     bn: এরিক স্মিডট
     ca: Eric Schmidt
@@ -124,10 +124,10 @@ dv_has_:
     da: Eric Schmidt
     dag: Eric Schmidt
     de: Eric Schmidt
-    de-ch: Eric Schmidt
+    de_ch: Eric Schmidt
     en: Eric Schmidt
-    en-ca: Eric Schmidt
-    en-gb: Eric Schmidt
+    en_ca: Eric Schmidt
+    en_gb: Eric Schmidt
     eo: Eric Schmidt
     es: Eric Schmidt
     eu: Eric Schmidt
@@ -156,7 +156,7 @@ dv_has_:
     oc: Eric Schmidt
     pl: Eric Schmidt
     pt: Eric Schmidt
-    pt-br: Eric Schmidt
+    pt_br: Eric Schmidt
     ru: Эрик Шмидт
     sco: Eric Schmidt
     sl: Eric Schmidt
@@ -171,12 +171,12 @@ dv_has_:
     uk: Ерік Шмідт
     vi: Eric Schmidt
     zh: 埃里克·施密特
-    zh-cn: 埃里克·施密特
-    zh-hans: 埃里克·施密特
-    zh-hant: 艾立克·施密特
-    zh-hk: 埃里克·施密特
-    zh-sg: 埃里克·施密特
-    zh-tw: 埃里克·施密特
+    zh_cn: 埃里克·施密特
+    zh_hans: 埃里克·施密特
+    zh_hant: 艾立克·施密特
+    zh_hk: 埃里克·施密特
+    zh_sg: 埃里克·施密特
+    zh_tw: 埃里克·施密特
 ---
 # [[Schmidt,Eric]] 
 

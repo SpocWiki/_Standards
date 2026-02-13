@@ -120,7 +120,7 @@ dv_has_:
     az: çovğun
     azb: کولک
     be: завіруха
-    be-tarask: завіруха
+    be_tarask: завіруха
     bg: виелица
     bho: ब्लिजार्ड
     bn: প্রবল তুষারঝড়
@@ -177,8 +177,8 @@ dv_has_:
     sl: blizzard
     sq: stuhi dëbore
     sr: мећава
-    sr-ec: мећава
-    sr-el: mećava
+    sr_ec: мећава
+    sr_el: mećava
     sv: snöstorm
     ta: பனிப்புயல்
     tr: kar fırtınası
@@ -190,12 +190,12 @@ dv_has_:
     xmf: ქარშხუფი
     yue: 暴雪
     zh: 雪暴
-    zh-cn: 雪暴
-    zh-hans: 雪暴
-    zh-hant: 雪暴
-    zh-hk: 雪暴
-    zh-sg: 雪暴
-    zh-tw: 雪暴
+    zh_cn: 雪暴
+    zh_hans: 雪暴
+    zh_hant: 雪暴
+    zh_hk: 雪暴
+    zh_sg: 雪暴
+    zh_tw: 雪暴
 ---
 # [[Blizzard]] 
 

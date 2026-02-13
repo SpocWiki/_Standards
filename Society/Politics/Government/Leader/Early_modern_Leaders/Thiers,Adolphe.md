@@ -136,19 +136,19 @@ dv_has_:
     ast: Adolphe Thiers
     az: Adolf Tyer
     be: Луі Адольф Цьер
-    be-tarask: Адольф Т’ер
+    be_tarask: Адольф Т’ер
     bg: Адолф Тиер
     br: Adolphe Thiers
     ca: Adolphe Thiers
     cs: Adolphe Thiers
     da: Adolphe Thiers
     de: Adolphe Thiers
-    de-ch: Adolphe Thiers
+    de_ch: Adolphe Thiers
     diq: Adolphe Thiers
     el: Αντόλφ Τιερ
     en: Adolphe Thiers
-    en-ca: Adolphe Thiers
-    en-gb: Adolphe Thiers
+    en_ca: Adolphe Thiers
+    en_gb: Adolphe Thiers
     eo: Adolphe Thiers
     es: Adolphe Thiers
     et: Adolphe Thiers
@@ -193,7 +193,7 @@ dv_has_:
     pl: Louis Adolphe Thiers
     ps: اډولف تیرس
     pt: Louis Adolphe Thiers
-    pt-br: Louis Adolphe Thiers
+    pt_br: Louis Adolphe Thiers
     qu: Adolphe Thiers
     ro: Adolphe Thiers
     ru: Адольф Тьер
@@ -202,7 +202,7 @@ dv_has_:
     sl: Adolphe Thiers
     sq: Adolphe Thiers
     sr: Луј Адолф Тјер
-    sr-ec: Луј Адолф Тјер
+    sr_ec: Луј Адолф Тјер
     sv: Adolphe Thiers
     th: อาดอลฟ์ ตีแยร์
     tr: Adolphe Thiers

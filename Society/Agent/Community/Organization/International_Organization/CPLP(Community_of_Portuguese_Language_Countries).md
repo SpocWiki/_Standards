@@ -113,17 +113,17 @@ dv_has_:
     ba: Португал телле илдәр берләшмәһе
     bar: Gmeinschaft vo de Portugiesischsprechadn Lända
     be: Садружнасць партугаламоўных краін
-    be-tarask: Садружнасьць партугаламоўных дзяржаваў
+    be_tarask: Садружнасьць партугаламоўных дзяржаваў
     bg: Общност на португалоезичните държави
     bs: Zajednica država portugalskog govornog područja
     ca: Comunitat de Països de Llengua Portuguesa
     cs: Společenství portugalsky mluvících zemí
     da: Sammenslutningen af portugisisksprogede lande
     de: Gemeinschaft der Portugiesischsprachigen Länder
-    de-ch: Gemeinschaft der Portugiesischsprachigen Länder
+    de_ch: Gemeinschaft der Portugiesischsprachigen Länder
     en: Community of Portuguese Language Countries
-    en-ca: Community of Portuguese Language Countries
-    en-gb: Community of Portuguese Language Countries
+    en_ca: Community of Portuguese Language Countries
+    en_gb: Community of Portuguese Language Countries
     eo: Komunumo de portugallingvaj landoj
     es: Comunidad de Países de Lengua Portuguesa
     et: Portugalikeelsete Riikide Ühendus
@@ -158,7 +158,7 @@ dv_has_:
     oc: Comununautat dels Païses de Lenga Portuguesa
     pl: Wspólnota Państw Portugalskojęzycznych
     pt: Comunidade dos Países de Língua Portuguesa
-    pt-br: Comunidade dos Países de Língua Portuguesa
+    pt_br: Comunidade dos Países de Língua Portuguesa
     ro: Comunitatea Țărilor de Limbă Portugheză
     ru: Содружество португалоязычных стран
     sh: Zajednica država portugalskog govornog područja
@@ -177,14 +177,14 @@ dv_has_:
     wuu: 葡萄牙语国家共同体
     yue: 葡萄牙文國家共同體
     zh: 葡萄牙语国家共同体
-    zh-cn: 葡萄牙语国家共同体
-    zh-hans: 葡萄牙语国家共同体
-    zh-hant: 葡萄牙語國家共同體
-    zh-hk: 葡萄牙語國家共同體
-    zh-mo: 葡萄牙語國家共同體
+    zh_cn: 葡萄牙语国家共同体
+    zh_hans: 葡萄牙语国家共同体
+    zh_hant: 葡萄牙語國家共同體
+    zh_hk: 葡萄牙語國家共同體
+    zh_mo: 葡萄牙語國家共同體
     zh-my: 葡萄牙语国家共同体
-    zh-sg: 葡萄牙语国家共同体
-    zh-tw: 葡萄牙語國家共同體
+    zh_sg: 葡萄牙语国家共同体
+    zh_tw: 葡萄牙語國家共同體
 ---
 # [[CPLP(Community_of_Portuguese_Language_Countries)]] 
 #is_/same_as :: [[../../../../../WikiData/WD~Community_of_Portuguese_Language_Countries,182500|WD~Community_of_Portuguese_Language_Countries,182500]]

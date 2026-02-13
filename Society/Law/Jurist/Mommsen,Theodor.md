@@ -197,7 +197,7 @@ dv_has_:
     az: Teodor Mommzen
     azb: تئودور مومسن
     be: Тэадор Момзен
-    be-tarask: Тэадор Момзэн
+    be_tarask: Тэадор Момзэн
     bg: Теодор Момзен
     bn: টেওডোর মম্জেন
     br: Christian Matthias Theodor Mommsen
@@ -268,7 +268,7 @@ dv_has_:
     pl: Theodor Mommsen
     pnb: تہیوڈر مومسن
     pt: Theodor Mommsen
-    pt-br: Theodor Mommsen
+    pt_br: Theodor Mommsen
     qu: Theodor Mommsen
     ro: Theodor Mommsen
     ru: Теодор Моммзен
@@ -278,7 +278,7 @@ dv_has_:
     sl: Theodor Mommsen
     sq: Theodor Mommsen
     sr: Теодор Момзен
-    sr-ec: Теодор Момзен
+    sr_ec: Теодор Момзен
     stq: Theodor Mommsen
     sv: Theodor Mommsen
     sw: Theodor Mommsen

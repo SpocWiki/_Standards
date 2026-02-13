@@ -227,7 +227,7 @@ dv_has_:
     bbc: Paskah
     bcl: Pasko nin Pagkabuhay
     be: Вялікдзень
-    be-tarask: Вялікдзень
+    be_tarask: Вялікдзень
     bg: Великден
     bho: ईस्टर
     bi: Ista
@@ -253,8 +253,8 @@ dv_has_:
     el: Πάσχα
     eml: Pasqua
     en: Easter
-    en-ca: Easter
-    en-gb: Easter
+    en_ca: Easter
+    en_gb: Easter
     eo: Pasko
     es: Pascua
     et: Ülestõusmispühad
@@ -331,7 +331,7 @@ dv_has_:
     nap: Pasca crestiana
     nb: påske
     nds: Oostern
-    nds-nl: Poaske
+    nds_nl: Poaske
     nia: Paska
     nl: Pasen
     nn: Påske
@@ -369,7 +369,7 @@ dv_has_:
     sn: Pasika
     sq: Pashkët
     sr: Ускрс
-    sr-ec: Ускрс
+    sr_ec: Ускрс
     sv: påsk
     sw: Pasaka
     szl: Wjelgonoc
@@ -395,10 +395,10 @@ dv_has_:
     yue: 復活節
     zea: Paese
     zh: 復活節
-    zh-cn: 復活節
-    zh-hans: 復活節
-    zh-hant: 復活節
-    zh-hk: 復活節
+    zh_cn: 復活節
+    zh_hans: 復活節
+    zh_hant: 復活節
+    zh_hk: 復活節
     zu: IPhasika
 ---
 # [[Easter]] 

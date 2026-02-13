@@ -10,7 +10,7 @@ dv_has_:
     az: Zanbaqkimilər
     azb: زانباق کیمیلر
     be: Лілейныя
-    be-tarask: Лілейныя
+    be_tarask: Лілейныя
     bg: кремови
     bn: লিলিয়াসি
     bs: Liliaceae
@@ -74,7 +74,7 @@ dv_has_:
     pl: liliowate
     pnb: للی ٹبر
     pt: Liliaceae
-    pt-br: Liliaceae
+    pt_br: Liliaceae
     qu: Liryu yura rikch'aq ayllu
     ro: Liliaceae
     ru: лилейные
@@ -101,9 +101,9 @@ dv_has_:
     wuu: 百合科
     yue: 百合科
     zh: 百合科
-    zh-cn: 百合科
-    zh-hans: 百合科
-    zh-tw: 百合科
+    zh_cn: 百合科
+    zh_hans: 百合科
+    zh_tw: 百合科
 aliases:
 - Alaw
 - Famîleya lîliyan

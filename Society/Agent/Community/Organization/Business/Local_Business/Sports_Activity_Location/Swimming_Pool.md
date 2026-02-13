@@ -152,7 +152,7 @@ dv_has_:
     ast: piscina
     az: hovuz
     be: плавальны басейн
-    be-tarask: плавальны басэйн
+    be_tarask: плавальны басэйн
     bg: плувен басейн
     bn: সুইমিং পুল
     br: poull-neuial
@@ -162,12 +162,12 @@ dv_has_:
     cy: pwll nofio
     da: svømmebassin
     de: Schwimmbecken
-    de-ch: Schwimmbecken
+    de_ch: Schwimmbecken
     diq: asnawge
     el: πισίνα
     en: swimming pool
-    en-ca: swimming pool
-    en-gb: swimming pool
+    en_ca: swimming pool
+    en_gb: swimming pool
     eo: banejo
     es: piscina
     et: ujumisbassein
@@ -205,7 +205,7 @@ dv_has_:
     nan: Iû-éng-tî
     nap: pescina
     nb: svømmebasseng
-    nds-nl: zwömbad
+    nds_nl: zwömbad
     ne: स्वीमिङ्ग पुल
     nl: zwembad
     nrm: bangnérêsse
@@ -214,7 +214,7 @@ dv_has_:
     pl: pływalnia
     pnb: تیرتال
     pt: piscina
-    pt-br: piscina
+    pt_br: piscina
     ro: tavan
     ru: плавательный бассейн
     rue: плаварня
@@ -244,11 +244,11 @@ dv_has_:
     yi: שווים באסיין
     yue: 游水池
     zh: 游泳池
-    zh-cn: 游泳池
-    zh-hans: 游泳池
-    zh-hant: 游泳池
-    zh-hk: 游泳池
-    zh-tw: 游泳池
+    zh_cn: 游泳池
+    zh_hans: 游泳池
+    zh_hant: 游泳池
+    zh_hk: 游泳池
+    zh_tw: 游泳池
 ---
 # [[Swimming_Pool]] 
 

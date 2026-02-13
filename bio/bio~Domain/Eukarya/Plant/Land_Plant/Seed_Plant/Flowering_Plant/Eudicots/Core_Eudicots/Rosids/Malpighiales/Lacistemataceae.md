@@ -47,14 +47,14 @@ dv_has_:
     oc: Lacistemataceae
     pl: Lacistemataceae
     pt: Lacistemaceae
-    pt-br: Lacistemataceae
+    pt_br: Lacistemataceae
     ro: Lacistemataceae
     ru: Лацистемовые
     sh: Lacistemataceae
     sq: Lacistemataceae
     sr: Lacistemataceae
-    sr-ec: Lacistemataceae
-    sr-el: Lacistemataceae
+    sr_ec: Lacistemataceae
+    sr_el: Lacistemataceae
     sv: Lacistemataceae
     tr: Lacistemataceae
     uk: Lacistemataceae
@@ -62,12 +62,12 @@ dv_has_:
     vo: Lacistemataceae
     war: Lacistemataceae
     zh: 裂药花科
-    zh-cn: 裂药花科
-    zh-hans: 裂药花科
-    zh-hant: 裂藥花科
-    zh-hk: 裂藥花科
-    zh-sg: 裂药花科
-    zh-tw: 裂藥花科
+    zh_cn: 裂药花科
+    zh_hans: 裂药花科
+    zh_hant: 裂藥花科
+    zh_hk: 裂藥花科
+    zh_sg: 裂药花科
+    zh_tw: 裂藥花科
 ---
 # [[Lacistemataceae]] 
 

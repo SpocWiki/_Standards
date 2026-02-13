@@ -29,7 +29,7 @@ dv_has_:
     oc: Dicotyles tajacu
     pl: Dicotyles tajacu
     pt: Dicotyles tajacu
-    pt-br: Dicotyles tajacu
+    pt_br: Dicotyles tajacu
     uk: Dicotyles tajacu
     vo: Dicotyles tajacu
 ---

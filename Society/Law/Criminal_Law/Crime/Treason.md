@@ -100,7 +100,7 @@ dv_has_:
     ast: traición
     az: Vətənə xəyanət
     be: дзяржаўная здрада
-    be-tarask: дзяржаўная здрада
+    be_tarask: дзяржаўная здрада
     bg: Държавна измяна
     bn: রাষ্ট্রদ্রোহিতা
     br: trubarderezh
@@ -137,7 +137,7 @@ dv_has_:
     kk: Мемлекетке опасыздық жасау
     ko: 반역죄
     ku: xayîntî
-    ku-latn: xayîntî
+    ku_latn: xayîntî
     la: prōditiō
     lb: Landesverrot
     lv: Valsts nodevība
@@ -167,12 +167,12 @@ dv_has_:
     yi: פארראט
     yue: 謀反
     zh: 叛國
-    zh-cn: 叛国
-    zh-hans: 叛国
-    zh-hant: 叛國
-    zh-hk: 叛國
-    zh-sg: 叛国
-    zh-tw: 叛國
+    zh_cn: 叛国
+    zh_hans: 叛国
+    zh_hant: 叛國
+    zh_hk: 叛國
+    zh_sg: 叛国
+    zh_tw: 叛國
 ---
 # [[Treason]] 
 

@@ -240,7 +240,7 @@ dv_has_:
     az: Sandro Botiçelli
     ba: Сандро Боттичелли
     be: Сандра Бацічэлі
-    be-tarask: Сандра Батычэльлі
+    be_tarask: Сандра Батычэльлі
     bg: Сандро Ботичели
     bn: সান্দ্রো বত্তিচেল্লি
     bo: སན་ཌོ་པའོ་ཊི་ཅེ་ལི།
@@ -307,7 +307,7 @@ dv_has_:
     pl: Sandro Botticelli
     pms: Sandro Botticelli
     pt: Sandro Botticelli
-    pt-br: Sandro Botticelli
+    pt_br: Sandro Botticelli
     qu: Sandro Botticelli
     ro: Sandro Botticelli
     ru: Сандро Боттичелли
@@ -319,7 +319,7 @@ dv_has_:
     sl: Sandro Botticelli
     sq: Sandro Botticelli
     sr: Сандро Ботичели
-    sr-ec: Сандро Ботичели
+    sr_ec: Сандро Ботичели
     srn: Sandro Botticelli
     stq: Sandro Botticelli
     sv: Sandro Botticelli
@@ -338,7 +338,7 @@ dv_has_:
     xmf: სანდრო ბოტიჩელი
     yue: 波提且利
     zh: 桑德罗·波提切利
-    zh-hant: 桑德羅·波提切利
+    zh_hant: 桑德羅·波提切利
 ---
 # [[Sandro_Botticelli]] 
 

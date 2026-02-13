@@ -110,7 +110,7 @@ dv_has_:
     azb: همیشه یاشیل سرو
     bcl: Sipres
     be: Кіпарыс
-    be-tarask: Кіпарыс
+    be_tarask: Кіпарыс
     bg: кипарис
     br: siprez
     ca: Cupressus
@@ -166,7 +166,7 @@ dv_has_:
     os: Саудар наз
     pl: cyprys
     pt: Cupressus
-    pt-br: Cupressus
+    pt_br: Cupressus
     qu: Sipris
     ro: Cupressus
     ru: Кипарис
@@ -177,8 +177,8 @@ dv_has_:
     sms: sypreeʹss
     sq: Cupressus
     sr: чемпрес
-    sr-ec: Чемпрес
-    sr-el: Čempres
+    sr_ec: Чемпрес
+    sr_el: Čempres
     stq: Zypressen
     sv: Cypress-släktet
     tg: Сарв
@@ -194,12 +194,12 @@ dv_has_:
     wuu: 柏木属
     yue: 柏木屬
     zh: 柏木属
-    zh-cn: 柏木属
-    zh-hans: 柏木属
-    zh-hant: 柏木屬
-    zh-hk: 柏木屬
-    zh-sg: 柏木属
-    zh-tw: 柏木屬
+    zh_cn: 柏木属
+    zh_hans: 柏木属
+    zh_hant: 柏木屬
+    zh_hk: 柏木屬
+    zh_sg: 柏木属
+    zh_tw: 柏木屬
 ---
 # [[Cypress]] 
 

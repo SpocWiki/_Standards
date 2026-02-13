@@ -97,7 +97,7 @@ dv_has_:
     ast: estáu del bientar
     az: Sosial dövlət
     azb: رفاه دؤولتی
-    be-tarask: дзяржава дабрабыту
+    be_tarask: дзяржава дабрабыту
     bg: Социална държава
     bn: কল্যাণ রাষ্ট্র
     ca: estat del benestar
@@ -108,8 +108,8 @@ dv_has_:
     de: Wohlfahrtsstaat
     el: κράτος πρόνοιας
     en: welfare state
-    en-ca: Welfare state
-    en-gb: welfare state
+    en_ca: Welfare state
+    en_gb: welfare state
     eo: sociala ŝtato
     es: Estado del bienestar
     et: heaoluriik
@@ -140,7 +140,7 @@ dv_has_:
     mk: социјална држава
     ml: ക്ഷേമരാഷ്ട്രം
     ms: negara kebajikan
-    ms-arab: نݢارا کباجيقن
+    ms_arab: نݢارا کباجيقن
     nb: velferdsstat
     nl: verzorgingsstaat
     nn: Velferdsstat
@@ -149,7 +149,7 @@ dv_has_:
     pl: państwo dobrobytu
     ps: خیریه دولت
     pt: estado de bem-estar social
-    pt-br: Estado de bem-estar social
+    pt_br: Estado de bem-estar social
     ro: statul bunăstării
     ru: государство всеобщего благосостояния
     scn: Bonu stari
@@ -173,12 +173,12 @@ dv_has_:
     wuu: 福利国家
     yue: 福利國
     zh: 福利國家
-    zh-cn: 福利国家
-    zh-hans: 福利国家
-    zh-hant: 福利國家
-    zh-hk: 福利國家
-    zh-sg: 福利国家
-    zh-tw: 福利國家
+    zh_cn: 福利国家
+    zh_hans: 福利国家
+    zh_hant: 福利國家
+    zh_hk: 福利國家
+    zh_sg: 福利国家
+    zh_tw: 福利國家
 ---
 # [[Welfare_State]] 
 

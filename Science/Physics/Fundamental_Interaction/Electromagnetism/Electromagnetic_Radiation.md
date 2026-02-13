@@ -154,7 +154,7 @@ dv_has_:
     ba: электромагнит нурланыш
     ban: radiasi elektromagnetik
     be: электрамагнітнае выпраменьванне
-    be-tarask: электрамагнітнае выпраменьваньне
+    be_tarask: электрамагнітнае выпраменьваньне
     bg: електромагнитно излъчване
     bho: इलेक्ट्रोमैग्नेटिक रेडिएशन
     bn: তড়িৎ-চৌম্বকীয় বিকিরণ
@@ -168,8 +168,8 @@ dv_has_:
     de: elektromagnetische Strahlung
     el: ηλεκτρομαγνητική ακτινοβολία
     en: electromagnetic radiation
-    en-ca: electromagnetic radiation
-    en-gb: electromagnetic radiation
+    en_ca: electromagnetic radiation
+    en_gb: electromagnetic radiation
     eo: elektromagneta radiado
     es: radiación electromagnética
     et: elektromagnetiline kiirgus
@@ -233,7 +233,7 @@ dv_has_:
     pnb: الیکٹرومیگنیٹک ریڈیئیشن
     ps: برېښنایي (الکترو) مقناطیسي وړانګې
     pt: radiação eletromagnética
-    pt-br: radiação eletromagnética
+    pt_br: radiação eletromagnética
     rki: လျှပ်စစ်သံလိုက်
     ro: radiație electromagnetică
     ru: электромагнитное излучение
@@ -271,9 +271,9 @@ dv_has_:
     yi: עלעקטראמאגנעטישע שטראלונג
     yue: 電磁輻射
     zh: 电磁辐射
-    zh-cn: 电磁波
-    zh-hant: 電磁波
-    zh-tw: 電磁波
+    zh_cn: 电磁波
+    zh_hant: 電磁波
+    zh_tw: 電磁波
     zu: IMiyonzi yeNzubawonga
 ---
 # [[Electromagnetic_Radiation]] 

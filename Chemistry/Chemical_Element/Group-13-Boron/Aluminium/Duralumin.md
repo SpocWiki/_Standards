@@ -81,7 +81,7 @@ dv_has_:
     ar: ديورالومين
     ast: Duraluminio
     be: Дзюралюміній
-    be-tarask: дуралюмін
+    be_tarask: дуралюмін
     bg: Дуралуминий
     bn: ডুরালুমিন
     ca: Duralumini
@@ -125,8 +125,8 @@ dv_has_:
     sk: Dural
     sl: Duraluminij
     sr: Дуралуминијум
-    sr-ec: Дуралуминијум
-    sr-el: Duraluminijum
+    sr_ec: Дуралуминијум
+    sr_el: Duraluminijum
     sv: Duraluminium
     ta: துராலுமின்
     tr: Duralümin
@@ -136,12 +136,12 @@ dv_has_:
     vi: Đura
     yue: 硬鋁
     zh: 杜拉鋁
-    zh-cn: 杜拉铝
-    zh-hans: 杜拉铝
-    zh-hant: 杜拉鋁
-    zh-hk: 杜拉鋁
-    zh-sg: 杜拉铝
-    zh-tw: 杜拉鋁
+    zh_cn: 杜拉铝
+    zh_hans: 杜拉铝
+    zh_hant: 杜拉鋁
+    zh_hk: 杜拉鋁
+    zh_sg: 杜拉铝
+    zh_tw: 杜拉鋁
 ---
 # [[Duralumin]] 
 

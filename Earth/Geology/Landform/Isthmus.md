@@ -120,7 +120,7 @@ dv_has_:
     az: Bərzəx
     bcl: Istmo
     be: Перашыек
-    be-tarask: пярэсмык
+    be_tarask: пярэсмык
     bg: Провлак
     bn: স্থলসন্ধি
     br: Strizh-douar
@@ -162,16 +162,16 @@ dv_has_:
     ka: ყელი
     kab: Azrugzir
     kk: Мойнақ
-    kk-arab: مويناق
+    kk_arab: مويناق
     kk-cn: مويناق
-    kk-cyrl: Мойнақ
+    kk_cyrl: Мойнақ
     kk-kz: Мойнақ
-    kk-latn: Moýnaq
+    kk_latn: Moýnaq
     kk-tr: Moýnaq
     ko: 지협
     ku: Berzax
-    ku-arab: بەرزاخ
-    ku-latn: Berzax
+    ku_arab: بەرزاخ
+    ku_latn: Berzax
     la: Isthmus
     lb: Isthmus
     li: Landingde
@@ -183,7 +183,7 @@ dv_has_:
     ml: ഇസ്തുമസ്
     mr: संयोगभूमी
     ms: tanah genting
-    ms-arab: تانه ݢنتيڠ
+    ms_arab: تانه ݢنتيڠ
     nb: eid
     nl: landengte
     nn: eid
@@ -200,8 +200,8 @@ dv_has_:
     sl: zemeljska ožina
     sq: Isthmus
     sr: земљоуз
-    sr-ec: земљоуз
-    sr-el: zemljouz
+    sr_ec: земљоуз
+    sr_el: zemljouz
     sv: näs
     sw: Isthmus
     ta: பூசந்தி
@@ -218,12 +218,12 @@ dv_has_:
     yi: איסטמאס
     yue: 地峽
     zh: 地峡
-    zh-cn: 地峡
-    zh-hans: 地峡
-    zh-hant: 地峽
-    zh-hk: 地峽
-    zh-sg: 地峡
-    zh-tw: 地峽
+    zh_cn: 地峡
+    zh_hans: 地峡
+    zh_hant: 地峽
+    zh_hk: 地峽
+    zh_sg: 地峡
+    zh_tw: 地峽
 ---
 # [[Isthmus]] 
 

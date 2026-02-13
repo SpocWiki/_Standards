@@ -9,7 +9,7 @@ dv_has_:
     avk: bukoleem
     az: Caviidae
     azb: کاویده
-    be-tarask: грызухавыя
+    be_tarask: грызухавыя
     bg: свинчета
     br: Caviidae
     ca: càvids
@@ -53,7 +53,7 @@ dv_has_:
     pl: kawiowate
     pnb: کاوی
     pt: Caviidae
-    pt-br: Caviidae
+    pt_br: Caviidae
     ro: Caviidae
     ru: свинковые
     sk: Morčatovité
@@ -61,8 +61,8 @@ dv_has_:
     sms: maarsuh
     sq: Caviidae
     sr: Caviidae
-    sr-ec: Цавиидае
-    sr-el: Caviidae
+    sr_ec: Цавиидае
+    sr_el: Caviidae
     sv: marsvin
     tr: Caviidae
     uk: кавієві
@@ -71,9 +71,9 @@ dv_has_:
     vo: Caviidae
     war: Caviidae
     zh: 豚鼠科
-    zh-cn: 豚鼠科
-    zh-hans: 豚鼠科
-    zh-tw: 豚鼠科
+    zh_cn: 豚鼠科
+    zh_hans: 豚鼠科
+    zh_tw: 豚鼠科
 aliases:
 - bukoleem
 - cavia-achtigen

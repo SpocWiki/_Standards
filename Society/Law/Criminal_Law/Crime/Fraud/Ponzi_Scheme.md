@@ -72,7 +72,7 @@ dv_has_:
     arz: مشروع پونزى
     az: Maliyyə piramidası
     be: фінансавая піраміда
-    be-tarask: фінансавая піраміда
+    be_tarask: фінансавая піраміда
     bg: Схема на Понци
     bn: পনজি স্কিম
     ca: esquema Ponzi
@@ -116,8 +116,8 @@ dv_has_:
     sl: Ponzijeva shema
     sq: Skema Ponzi
     sr: Понцијева шема
-    sr-ec: Понцијева шема
-    sr-el: Poncijeva šema
+    sr_ec: Понцијева шема
+    sr_el: Poncijeva šema
     sv: ponzibedrägeri
     ta: பொன்சி முறைமை
     tg: Пирамидаи молиявӣ
@@ -131,12 +131,12 @@ dv_has_:
     wuu: 老鼠会
     yue: 龐氏騙局
     zh: 龐氏騙局
-    zh-cn: 庞氏骗局
-    zh-hans: 庞氏骗局
-    zh-hant: 龐氏騙局
-    zh-hk: 龐氏騙局
-    zh-sg: 庞氏骗局
-    zh-tw: 龐氏騙局
+    zh_cn: 庞氏骗局
+    zh_hans: 庞氏骗局
+    zh_hant: 龐氏騙局
+    zh_hk: 龐氏騙局
+    zh_sg: 庞氏骗局
+    zh_tw: 龐氏騙局
 ---
 # [[Ponzi_Scheme]] 
 

@@ -148,7 +148,7 @@ dv_has_:
     ba: Церера
     bar: Ceres
     be: Карлікавая планета Цэрэра
-    be-tarask: Цэрэра
+    be_tarask: Цэрэра
     bg: Церера
     bho: सीरीस
     bjn: Ceres
@@ -170,8 +170,8 @@ dv_has_:
     el: Δήμητρα
     eml: Ceres
     en: Ceres
-    en-ca: Ceres
-    en-gb: Ceres
+    en_ca: Ceres
+    en_gb: Ceres
     eo: Cereso
     es: Ceres
     et: Ceres
@@ -238,7 +238,7 @@ dv_has_:
     pl: Ceres
     pnb: سیرس
     pt: Ceres
-    pt-br: Ceres
+    pt_br: Ceres
     qu: Siris
     rm: Ceres
     ro: Ceres
@@ -277,10 +277,10 @@ dv_has_:
     yi: צערעס
     yue: 穀神星
     zh: 穀神星
-    zh-cn: 谷神星
-    zh-hant: 穀神星
-    zh-hk: 穀神星
-    zh-tw: 穀神星
+    zh_cn: 谷神星
+    zh_hant: 穀神星
+    zh_hk: 穀神星
+    zh_tw: 穀神星
     zu: UNomadwala
 ---
 # [[Ceres(Asteroid)]] 

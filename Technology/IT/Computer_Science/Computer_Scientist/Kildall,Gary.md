@@ -54,7 +54,7 @@ dv_has_:
     ar: غاري كيلدال
     arz: جارى كيلدال
     ast: Gary Kildall
-    be-tarask: Гэры Кілдал
+    be_tarask: Гэры Кілдал
     ca: Gary Kildall
     cs: Gary Kildall
     cy: Gary Kildall
@@ -63,8 +63,8 @@ dv_has_:
     de: Gary Kildall
     el: Gary Kildall
     en: Gary Kildall
-    en-ca: Gary Kildall
-    en-gb: Gary Kildall
+    en_ca: Gary Kildall
+    en_gb: Gary Kildall
     es: Gary Kildall
     eu: Gary Kildall
     fa: گری کیلدال
@@ -87,7 +87,7 @@ dv_has_:
     oc: Gary Kildall
     pl: Gary Kildall
     pt: Gary Kildall
-    pt-br: Gary Kildall
+    pt_br: Gary Kildall
     ru: Гэри Килдалл
     sl: Gary Kildall
     sq: Gary Kildall
@@ -98,7 +98,7 @@ dv_has_:
     vi: Gary Kildall
     war: Gary Kildall
     zh: 蓋瑞·基爾多
-    zh-cn: 加里·基尔多尔
+    zh_cn: 加里·基尔多尔
 ---
 # [[Kildall,Gary]] 
 

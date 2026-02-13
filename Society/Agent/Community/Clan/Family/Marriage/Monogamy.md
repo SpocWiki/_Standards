@@ -76,7 +76,7 @@ dv_has_:
     ba: Моногамия
     bcl: Monogamy
     be: манагамія
-    be-tarask: манагамія
+    be_tarask: манагамія
     bg: Моногамия
     bn: একগামিতা
     ca: monogàmia
@@ -104,11 +104,11 @@ dv_has_:
     ja: 一夫一婦制
     ka: მონოგამია
     kk: Моногамия, бір некелік
-    kk-arab: مونوگامىييا، ٴبىر نەكەلىك
+    kk_arab: مونوگامىييا، ٴبىر نەكەلىك
     kk-cn: مونوگامىييا، ٴبىر نەكەلىك
-    kk-cyrl: Моногамия, бір некелік
+    kk_cyrl: Моногамия, бір некелік
     kk-kz: Моногамия, бір некелік
-    kk-latn: Monogamïya, bir nekelik
+    kk_latn: Monogamïya, bir nekelik
     kk-tr: Monogamïya, bir nekelik
     ko: 단혼
     ky: Моногамия
@@ -134,8 +134,8 @@ dv_has_:
     smn: monogamia
     sms: monogamia
     sr: моногамија
-    sr-ec: Моногамија
-    sr-el: Monogamija
+    sr_ec: Моногамија
+    sr_el: Monogamija
     sv: monogami
     ta: ஒருதுணை மணம்
     th: การมีคู่สมรสคนเดียว
@@ -148,12 +148,12 @@ dv_has_:
     wuu: 单配偶制
     yue: 單配偶制
     zh: 單配偶制
-    zh-cn: 单偶制
-    zh-hans: 一夫一妻制
-    zh-hant: 一夫一妻制
-    zh-hk: 一夫一妻制
-    zh-sg: 单配偶制
-    zh-tw: 一夫一妻制
+    zh_cn: 单偶制
+    zh_hans: 一夫一妻制
+    zh_hant: 一夫一妻制
+    zh_hk: 一夫一妻制
+    zh_sg: 单配偶制
+    zh_tw: 一夫一妻制
 ---
 # [[Monogamy]] 
 

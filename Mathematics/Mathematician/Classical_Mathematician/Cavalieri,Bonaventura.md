@@ -89,7 +89,7 @@ dv_has_:
     ast: Bonaventura Cavalieri
     az: Bonaventura Kavalyeri
     be: Банавентура Кавальеры
-    be-tarask: Банавэнтура Кавальеры
+    be_tarask: Банавэнтура Кавальеры
     bg: Бонавентура Кавалиери
     bn: বোনাভেনতুরা কাভালিয়েরি
     ca: Bonaventura Cavalieri
@@ -98,8 +98,8 @@ dv_has_:
     de: Bonaventura Cavalieri
     el: Μποναβεντούρα Καβαλιέρι
     en: Bonaventura Cavalieri
-    en-ca: Bonaventura Cavalieri
-    en-gb: Bonaventura Francesco Cavalieri
+    en_ca: Bonaventura Cavalieri
+    en_gb: Bonaventura Francesco Cavalieri
     es: Bonaventura Cavalieri
     et: Bonaventura Cavalieri
     eu: Bonaventura Cavalieri
@@ -128,7 +128,7 @@ dv_has_:
     pl: Bonaventura Cavalieri
     pms: Bonaventura Cavalieri
     pt: Bonaventura Cavalieri
-    pt-br: Bonaventura Cavalieri
+    pt_br: Bonaventura Cavalieri
     ro: Bonaventura Cavalieri
     ru: Бонавентура Кавальери
     sl: Bonaventura Francesco Cavalieri
@@ -142,12 +142,12 @@ dv_has_:
     vi: Bonaventura Cavalieri
     yue: 博納文圖拉·卡瓦列里
     zh: 博納文圖拉·卡瓦列里
-    zh-cn: 博纳文图拉·卡瓦列里
-    zh-hans: 博纳文图拉·卡瓦列里
-    zh-hant: 博納文圖拉·卡瓦列里
-    zh-hk: 博納文圖拉·卡瓦列里
-    zh-sg: 博纳文图拉·卡瓦列里
-    zh-tw: 博納文圖拉·卡瓦列里
+    zh_cn: 博纳文图拉·卡瓦列里
+    zh_hans: 博纳文图拉·卡瓦列里
+    zh_hant: 博納文圖拉·卡瓦列里
+    zh_hk: 博納文圖拉·卡瓦列里
+    zh_sg: 博纳文图拉·卡瓦列里
+    zh_tw: 博納文圖拉·卡瓦列里
 ---
 # [[Cavalieri,Bonaventura]] 
 

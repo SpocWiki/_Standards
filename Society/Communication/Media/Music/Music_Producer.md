@@ -124,7 +124,7 @@ dv_has_:
     az: musiqi prodüseri
     azb: آلبوم یاپیمجیسی
     be: музычны прадзюсар
-    be-tarask: музычны прадусар
+    be_tarask: музычны прадусар
     bg: Музикален продуцент
     bn: রেকর্ড প্রযোজক
     br: produer sonerien
@@ -133,18 +133,18 @@ dv_has_:
     ceb: tigpagula musika
     ckb: بەرھەمھێنی تۆمار
     co: pruduttore discugraficu
-    crh-latn: muzıka prodüseri
+    crh_latn: muzıka prodüseri
     cs: hudební producent
     cy: cynhyrchydd recordiau
     da: musikproducer
     de: Musikproduzent
     de-at: Musikproduzent
-    de-ch: Musikproduzent
+    de_ch: Musikproduzent
     diq: produktorê albumi
     el: μουσικός παραγωγός
     en: record producer
-    en-ca: record producer
-    en-gb: record producer
+    en_ca: record producer
+    en_gb: record producer
     en-us: record producer
     eo: muzikproduktisto
     es: productor discográfico
@@ -183,7 +183,7 @@ dv_has_:
     ko: 음악 프로듀서
     ks: رِکارڈ پروڈیوسَر
     ku: berhemhênerê muzîkê
-    ku-latn: berhemhênerê muzîkê
+    ku_latn: berhemhênerê muzîkê
     kw: askorrer plasennow
     la: productor musicae
     lb: Museksproduzent
@@ -205,7 +205,7 @@ dv_has_:
     pa: ਰਿਕਾਰਡ ਨਿਰਮਾਤਾ
     pl: producent muzyczny
     pt: produtor(a) musical
-    pt-br: produtor musical
+    pt_br: produtor musical
     ro: producător muzical
     ru: музыкальный продюсер
     sa: कलत्व उत्पादक
@@ -219,8 +219,8 @@ dv_has_:
     smn: pyevtitteijee
     sq: producenti i muzikës
     sr: музички продуцент
-    sr-ec: музички продуцент
-    sr-el: muzički producent
+    sr_ec: музички продуцент
+    sr_el: muzički producent
     sv: musikproducent
     sw: Mtayarishaji wa Muziki
     tg: таҳиякунандаи мусиқӣ
@@ -240,12 +240,12 @@ dv_has_:
     yo: olóòtú orin
     yue: 音樂製作人
     zh: 音樂製作人
-    zh-cn: 音乐制作人
-    zh-hans: 音乐制作人
-    zh-hant: 音樂製作人
-    zh-hk: 音樂製作人
-    zh-sg: 音乐制作人
-    zh-tw: 音樂製作人
+    zh_cn: 音乐制作人
+    zh_hans: 音乐制作人
+    zh_hant: 音樂製作人
+    zh_hk: 音樂製作人
+    zh_sg: 音乐制作人
+    zh_tw: 音樂製作人
     zu: Umkhiqizi wesiqoshwa
 ---
 ## #has_/text_of_/abstract 

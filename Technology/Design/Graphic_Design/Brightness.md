@@ -62,7 +62,7 @@ dv_has_:
   name_:
     af: helderheid
     ar: سطوع
-    be-tarask: яркасьць
+    be_tarask: яркасьць
     bg: Яркост
     ca: brillantor
     de: Helligkeit
@@ -105,12 +105,12 @@ dv_has_:
     yo: ìmọ́lẹ̀
     yue: 光度
     zh: 明度
-    zh-cn: 明度
-    zh-hans: 明度
-    zh-hant: 明度
-    zh-hk: 明度
-    zh-sg: 明度
-    zh-tw: 明度
+    zh_cn: 明度
+    zh_hans: 明度
+    zh_hant: 明度
+    zh_hk: 明度
+    zh_sg: 明度
+    zh_tw: 明度
 ---
 # [[Brightness]] 
 

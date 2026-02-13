@@ -108,7 +108,7 @@ dv_has_:
     ar: خشب منشور
     ast: Madera pa la construcción
     be: лесаматэрыялы
-    be-tarask: лясныя матэрыялы
+    be_tarask: лясныя матэрыялы
     bg: Дървен строителен материал
     br: Treust
     ca: fusta per a la construcció
@@ -117,10 +117,10 @@ dv_has_:
     da: tømmer
     dag: Dakuɣu
     de: Bauholz
-    de-ch: Bauholz
+    de_ch: Bauholz
     en: lumber
-    en-ca: Lumber
-    en-gb: timber
+    en_ca: Lumber
+    en_gb: timber
     en-us: timber
     eo: ĉarpentligno
     es: madera para la construccion

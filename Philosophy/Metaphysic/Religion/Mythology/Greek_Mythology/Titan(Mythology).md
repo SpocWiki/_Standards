@@ -108,7 +108,7 @@ dv_has_:
     azb: تیتانلار
     bar: Titan
     be: тытаны
-    be-tarask: Тытаны
+    be_tarask: Тытаны
     bg: Титани
     bn: তিতান
     br: Titaned
@@ -151,7 +151,7 @@ dv_has_:
     kk: Алыптар
     ko: 티탄
     ku: tîtan
-    ku-latn: tîtan
+    ku_latn: tîtan
     la: Titanes
     lb: Titanen
     li: Titaan (mythologie)
@@ -196,9 +196,9 @@ dv_has_:
     wuu: 提坦
     yue: 泰坦
     zh: 提坦
-    zh-hant: 泰坦
-    zh-hk: 泰坦
-    zh-tw: 泰坦
+    zh_hant: 泰坦
+    zh_hk: 泰坦
+    zh_tw: 泰坦
 ---
 # [[Titan(Mythology)]] 
 

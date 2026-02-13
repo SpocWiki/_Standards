@@ -86,7 +86,7 @@ dv_has_:
     pnb: ڈیان فوسی
     ps: ډاین فوسي
     pt: Dian Fossey
-    pt-br: Dian Fossey
+    pt_br: Dian Fossey
     ro: Dian Fossey
     ru: Дайан Фосси
     rw: Dian Fossey
@@ -106,8 +106,8 @@ dv_has_:
     vi: Dian Fossey
     wuu: 戴安·弗西
     zh: 戴安·弗西
-    zh-cn: 戴安·弗西
-    zh-hans: 戴安·弗西
+    zh_cn: 戴安·弗西
+    zh_hans: 戴安·弗西
 ---
 # [[Fossey,Dian]]
 

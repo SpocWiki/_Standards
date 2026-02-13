@@ -142,7 +142,7 @@ dv_has_:
     ban: Itterbium
     bcl: Iterbyo
     be: ітэрбій
-    be-tarask: Ітэрб
+    be_tarask: Ітэрб
     bg: итербий
     bho: यिट्टर्बियम
     bn: ইটারবিয়াম
@@ -233,7 +233,7 @@ dv_has_:
     pnb: یتربیم
     ps: ايتربيوم
     pt: itérbio
-    pt-br: itérbio
+    pt_br: itérbio
     qu: Iterbyu
     ro: yterbiu
     ru: иттербий
@@ -249,7 +249,7 @@ dv_has_:
     sl: Iterbij
     sq: Yterbiumi
     sr: итербијум
-    sr-ec: Итербијум
+    sr_ec: Итербијум
     stq: Ytterbium
     sv: ytterbium
     sw: Yterbi
@@ -272,11 +272,11 @@ dv_has_:
     yo: Ytterbium
     yue: 鐿
     zh: 鐿
-    zh-cn: 镱
-    zh-hans: 镱
-    zh-hant: 鐿
-    zh-hk: 鐿
-    zh-tw: 鐿
+    zh_cn: 镱
+    zh_hans: 镱
+    zh_hant: 鐿
+    zh_hk: 鐿
+    zh_tw: 鐿
     zu: UmYabambi
   number_of_:
     period: 6

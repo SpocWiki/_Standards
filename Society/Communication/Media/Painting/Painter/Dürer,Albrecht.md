@@ -389,7 +389,7 @@ dv_has_:
     ba: Дюрер Альбрехт
     bar: Albrecht Dürer
     be: Альбрэхт Дзюрэр
-    be-tarask: Альбрэхт Дурэр
+    be_tarask: Альбрэхт Дурэр
     bg: Албрехт Дюрер
     bi: Albrecht Dürer
     bn: আলব্রেখট ড্যুরার
@@ -398,7 +398,7 @@ dv_has_:
     btm: Albrecht Dürer
     bxr: Альбрехт Дюрер
     ca: Albrecht Dürer
-    cbk-zam: Albrecht Dürer
+    cbk_zam: Albrecht Dürer
     ce: Дюрер, Альбрехт
     ckb: ئەلبرێشت دویرەر
     crh: Albreht Dürer
@@ -411,8 +411,8 @@ dv_has_:
     el: Άλμπρεχτ Ντύρερ
     eml: Albrecht Dürer
     en: Albrecht Dürer
-    en-ca: Albrecht Dürer
-    en-gb: Albrecht Dürer
+    en_ca: Albrecht Dürer
+    en_gb: Albrecht Dürer
     eo: Albrecht Dürer
     es: Alberto Durero
     et: Albrecht Dürer
@@ -501,7 +501,7 @@ dv_has_:
     pms: Albrecht Dürer
     pnb: البرخت دیورر
     pt: Albrecht Dürer
-    pt-br: Albrecht Dürer
+    pt_br: Albrecht Dürer
     qu: Albrecht Dürer
     ro: Albrecht Dürer
     ru: Альбрехт Дюрер
@@ -516,7 +516,7 @@ dv_has_:
     sm: Albrecht Dürer
     sq: Albrecht Dürer
     sr: Албрехт Дирер
-    sr-ec: Албрехт Дирер
+    sr_ec: Албрехт Дирер
     srn: Albrecht Dürer
     stq: Albrecht Dürer
     sv: Albrecht Dürer
@@ -545,7 +545,7 @@ dv_has_:
     yue: 阿爾布雷希特·杜勒
     za: Albrecht Dürer
     zh: 阿尔布雷希特·丢勒
-    zh-tw: 阿布雷希特·杜勒
+    zh_tw: 阿布雷希特·杜勒
 ---
 # [[Dürer,Albrecht]]
 

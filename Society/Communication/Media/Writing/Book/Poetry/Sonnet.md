@@ -82,7 +82,7 @@ dv_has_:
     ba: сонет
     bar: sonett
     be: санет
-    be-tarask: санэт
+    be_tarask: санэт
     bg: сонет
     bn: চতুর্দশপদী
     br: sonedenn
@@ -154,7 +154,7 @@ dv_has_:
     sk: sonet
     sl: sonet
     sr: сонет
-    sr-ec: сонет
+    sr_ec: сонет
     su: Soneta
     sv: sonett
     ta: ஈரேழ்வரிப்பா

@@ -70,7 +70,7 @@ dv_has_:
     arz: سيمون و جرفنكل
     ast: Simon & Garfunkel
     azb: سایمون و قارفانکل
-    be-tarask: Сайман & Гарфанкел
+    be_tarask: Сайман & Гарфанкел
     bg: Саймън и Гарфънкъл
     bn: সাইমন এবং গারফাঙ্কেল
     ca: Simon and Garfunkel
@@ -134,11 +134,11 @@ dv_has_:
     wuu: 西蒙搭加芬克尔
     yue: 西門與嘉芬高
     zh: 西蒙與加芬克爾
-    zh-hans: 西蒙和加芬克尔
-    zh-hant: 賽門與葛芬柯
-    zh-hk: 西門與嘉芬高
-    zh-sg: 西门与加芬高
-    zh-tw: 賽門與葛芬柯
+    zh_hans: 西蒙和加芬克尔
+    zh_hant: 賽門與葛芬柯
+    zh_hk: 西門與嘉芬高
+    zh_sg: 西门与加芬高
+    zh_tw: 賽門與葛芬柯
 ---
 # [[Simon_&_Garfunkel]] 
 

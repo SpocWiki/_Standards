@@ -99,7 +99,7 @@ dv_has_:
     az: Sirk
     ba: цирк
     be: цырк
-    be-tarask: цырк
+    be_tarask: цырк
     bg: Цирк
     bn: সার্কাস
     br: Sirk
@@ -109,11 +109,11 @@ dv_has_:
     cy: syrcas
     da: cirkus
     de: Zirkus
-    de-ch: Zirkus
+    de_ch: Zirkus
     el: τσίρκο
     en: circus
-    en-ca: Circus
-    en-gb: circus
+    en_ca: Circus
+    en_gb: circus
     en-us: circus
     eo: cirko
     es: circo
@@ -150,7 +150,7 @@ dv_has_:
     ml: സർക്കസ്
     mn: Цирк
     ms: sarkas
-    ms-arab: سركس
+    ms_arab: سركس
     my: ဆပ်ကပ်ပွဲ
     nan: Sa-khà-suh
     nb: sirkus
@@ -161,7 +161,7 @@ dv_has_:
     pl: cyrk
     pnb: سرکس
     pt: circo
-    pt-br: Circo
+    pt_br: Circo
     ro: circ
     ru: цирковая труппа
     rue: Ціркус
@@ -173,8 +173,8 @@ dv_has_:
     smn: sirkus
     sms: sirkus
     sr: циркус
-    sr-ec: циркус
-    sr-el: cirkus
+    sr_ec: циркус
+    sr_el: cirkus
     sv: cirkus
     ta: வட்டரங்கு
     te: సర్కస్
@@ -193,9 +193,9 @@ dv_has_:
     yi: צירקוס
     yue: 馬戲團
     zh: 马戏团
-    zh-cn: 马戏团
-    zh-hk: 馬戲團
-    zh-tw: 馬戲團
+    zh_cn: 马戏团
+    zh_hk: 馬戲團
+    zh_tw: 馬戲團
 ---
 # [[Circus]] 🎪 
 

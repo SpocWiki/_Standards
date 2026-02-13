@@ -100,7 +100,7 @@ dv_has_:
     ast: ciclón
     az: siklon
     be: цыклон
-    be-tarask: цыклён
+    be_tarask: цыклён
     bg: циклон
     bho: चक्रवात
     bn: ঘূর্ণিঝড়
@@ -111,12 +111,12 @@ dv_has_:
     cy: seiclon
     da: cyklon
     de: Zyklon
-    de-ch: Zyklon
+    de_ch: Zyklon
     diq: siklon
     el: πεδίο χαμηλού βαρομετρικού
     en: cyclone
-    en-ca: cyclone
-    en-gb: cyclone
+    en_ca: cyclone
+    en_gb: cyclone
     eo: ciklono
     es: ciclón
     et: tsüklon
@@ -170,7 +170,7 @@ dv_has_:
     pl: cyklon
     pnb: سمندری طوفان
     pt: ciclone
-    pt-br: ciclone
+    pt_br: ciclone
     ro: ciclon
     ru: циклон
     sco: cyclone
@@ -198,14 +198,14 @@ dv_has_:
     xmf: ციკლონი
     yue: 氣旋
     zh: 气旋
-    zh-cn: 气旋
-    zh-hans: 气旋
-    zh-hant: 氣旋
-    zh-hk: 氣旋
-    zh-mo: 氣旋
+    zh_cn: 气旋
+    zh_hans: 气旋
+    zh_hant: 氣旋
+    zh_hk: 氣旋
+    zh_mo: 氣旋
     zh-my: 气旋
-    zh-sg: 气旋
-    zh-tw: 氣旋
+    zh_sg: 气旋
+    zh_tw: 氣旋
 ---
 # [[Cyclone]] 🌀 
 

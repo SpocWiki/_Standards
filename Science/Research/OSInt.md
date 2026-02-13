@@ -5,16 +5,16 @@ dv_has_:
     ar: استخبارات المصادر المفتوحة
     az: Açıq mənbə kəşfiyyatı
     be: разведка на аснове адкрытых крыніц
-    be-tarask: выведка з адкрытых крыніцаў
+    be_tarask: выведка з адкрытых крыніцаў
     bg: OSINT
     ca: intel·ligència de codi obert
     cs: zpravodajství z otevřených zdrojů
     da: open-source efterretning og undersøgelse
     de: open source intelligence
-    de-ch: Open Source Intelligence
+    de_ch: Open Source Intelligence
     en: open-source intelligence
-    en-ca: open-source intelligence
-    en-gb: open-source intelligence
+    en_ca: open-source intelligence
+    en_gb: open-source intelligence
     eo: spionado per malfermita fonto
     es: Inteligencia de fuentes abiertas
     et: avalikel allikatel põhinev luure
@@ -39,7 +39,7 @@ dv_has_:
     pl: biały wywiad
     ps: د استخباراتو پرانيستى سرچينه
     pt: OSINT
-    pt-br: OSINT
+    pt_br: OSINT
     ru: OSINT
     sl: obveščevalna dejavnost javnih virov
     sv: open source intelligence
@@ -49,9 +49,9 @@ dv_has_:
     uk: OSINT
     uz: Ochiq manbalarga koʻra qidiruv
     zh: 公开来源情报
-    zh-cn: 开放来源情报
-    zh-hant: 開放來源情報
-    zh-tw: 開放來源情報
+    zh_cn: 开放来源情报
+    zh_hant: 開放來源情報
+    zh_tw: 開放來源情報
 aliases:
 - avalikel allikatel põhinev luure
 - avointen lähteiden tiedustelu

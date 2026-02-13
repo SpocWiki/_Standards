@@ -340,7 +340,7 @@ dv_has_:
     bar: Remisch-katholische Kira
     bcl: Simbahan Katoliko
     be: Каталіцкая Царква
-    be-tarask: Каталіцкая царква
+    be_tarask: Каталіцкая царква
     bew: Gerèja Katolik
     bg: Католическа църква
     bn: ক্যাথলিক মণ্ডলী
@@ -350,13 +350,13 @@ dv_has_:
     btm: Gareja Katolik Roma
     bxr: Католик сүмэ
     ca: Església Catòlica
-    cbk-zam: Iglesia romano catolico
+    cbk_zam: Iglesia romano catolico
     cdo: Lò̤-mā-tiĕng-cuō-gáu
     ce: католикин килс
     ceb: Simbahang Katoliko
     ckb: کڵێسای کاتۆلیک
     crh: Katolik kilsesi
-    crh-latn: Katolik kilsesi
+    crh_latn: Katolik kilsesi
     cs: katolická církev
     csb: Katolëcczi Kòscół
     cy: yr Eglwys Gatholig Rufeinig
@@ -367,8 +367,8 @@ dv_has_:
     el: Καθολική Εκκλησία
     eml: Cèsa Catòlica
     en: Catholic Church
-    en-ca: Catholic Church
-    en-gb: Catholic Church
+    en_ca: Catholic Church
+    en_gb: Catholic Church
     eo: katolika eklezio
     es: Iglesia católica
     et: katoliku kirik
@@ -434,7 +434,7 @@ dv_has_:
     lt: Katalikų Bažnyčia
     lv: Romas Katoļu baznīca
     mai: रोमन क्याथोलिक चर्च
-    map-bms: Gereja Katolik Roma
+    map_bms: Gereja Katolik Roma
     mg: Fiangonana Katolika
     min: Gereja Katolik Roma
     mk: Римокатоличка црква
@@ -442,7 +442,7 @@ dv_has_:
     mn: Католик сүм
     mr: कॅथलिक चर्च
     ms: Gereja Roman Katolik
-    ms-arab: ݢريجا رومن کاتوليک
+    ms_arab: ݢريجا رومن کاتوليک
     mt: Knisja Kattolika
     mwl: Eigreija Católica
     my: ရိုမန်ကတ်သလစ်
@@ -452,7 +452,7 @@ dv_has_:
     nap: Chiesia cattoleca
     nb: Den romersk-katolske kirke
     nds: Röömsch-kathoolsche Kark
-    nds-nl: Rooms-Katholieke Karke
+    nds_nl: Rooms-Katholieke Karke
     ne: रोमन क्याथोलिक चर्च
     nl: Rooms-Katholieke Kerk
     nn: Den katolske kyrkja
@@ -469,7 +469,7 @@ dv_has_:
     pnb: کیتھولک چرچ
     ps: کاتولیکه کلیسا
     pt: Igreja Católica
-    pt-br: Igreja Católica
+    pt_br: Igreja Católica
     qu: Kathuliku Inlisya
     rm: Baselgia catolica romana
     rmy: Biserica Romano-Catolică
@@ -525,11 +525,11 @@ dv_has_:
     zea: Rooms-Katteliek
     zgh: ⵜⴰⵎⵥⵥⴰⵍⵓⵜ ⵜⴰⴽⴰⵜⵓⵍⵉⴽⵜ
     zh: 天主教會
-    zh-cn: 天主教会
-    zh-hans: 天主教会
-    zh-hant: 天主教會
-    zh-hk: 天主教會
-    zh-tw: 天主教會
+    zh_cn: 天主教会
+    zh_hans: 天主教会
+    zh_hant: 天主教會
+    zh_hk: 天主教會
+    zh_tw: 天主教會
 ---
 # [[Catholic_Church]] 
 

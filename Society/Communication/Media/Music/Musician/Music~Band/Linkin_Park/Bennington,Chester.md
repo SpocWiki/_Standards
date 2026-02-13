@@ -47,7 +47,7 @@ dv_has_:
     azb: چستر بنینقتون
     bar: Chester Bennington
     be: Чэстэр Бенінгтан
-    be-tarask: Чэстар Бэнінгтан
+    be_tarask: Чэстар Бэнінгтан
     bg: Честър Бенингтън
     bho: चेस्टर बेनिंगटन
     bn: চেস্টার বেনিংটন
@@ -61,14 +61,14 @@ dv_has_:
     da: Chester Bennington
     de: Chester Bennington
     de-at: Chester Bennington
-    de-ch: Chester Bennington
+    de_ch: Chester Bennington
     dty: चेस्टर बेनिङ्गटन
     egl: Chester Bennington
     el: Τσέστερ Μπένινγκτον
     eml: Chester Bennington
     en: Chester Bennington
-    en-ca: Chester Bennington
-    en-gb: Chester Bennington
+    en_ca: Chester Bennington
+    en_gb: Chester Bennington
     en-us: Chester Bennington
     eo: Chester Bennington
     es: Chester Bennington
@@ -123,7 +123,7 @@ dv_has_:
     nap: Chester Bennington
     nb: Chester Bennington
     nds: Chester Bennington
-    nds-nl: Chester Bennington
+    nds_nl: Chester Bennington
     ne: चेस्टर बेनिंगटन
     nl: Chester Bennington
     nn: Chester Bennington
@@ -136,7 +136,7 @@ dv_has_:
     pl: Chester Bennington
     pms: Chester Bennington
     pt: Chester Bennington
-    pt-br: Chester Bennington
+    pt_br: Chester Bennington
     rm: Chester Bennington
     ro: Chester Bennington
     ru: Честер Беннингтон
@@ -148,7 +148,7 @@ dv_has_:
     sl: Chester Bennington
     sq: Chester Bennington
     sr: Честер Бенингтон
-    sr-el: Chester Bennington
+    sr_el: Chester Bennington
     sv: Chester Bennington
     sw: Chester Bennington
     te: చెస్టర్ బెన్నింగ్టన్
@@ -168,8 +168,8 @@ dv_has_:
     yo: Chester Bennington
     yue: 車士打·班寧頓
     zh: 查斯特·班寧頓
-    zh-cn: 切斯特·本宁顿
-    zh-hk: 車士打·班寧頓
+    zh_cn: 切斯特·本宁顿
+    zh_hk: 車士打·班寧頓
     zu: Chester Bennington
 ---
 #is_/part_of :: [[../Linkin_Park]] 

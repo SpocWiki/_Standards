@@ -119,7 +119,7 @@ dv_has_:
     az: Enid Bliton
     azb: انید بلایتون
     bar: Enid Blyton
-    be-tarask: Інід Блайтан
+    be_tarask: Інід Блайтан
     bg: Инид Блайтън
     bn: এনিড ব্লাইটন
     br: Enid Blyton
@@ -130,10 +130,10 @@ dv_has_:
     cy: Enid Blyton
     de: Enid Blyton
     de-at: Enid Blyton
-    de-ch: Enid Blyton
+    de_ch: Enid Blyton
     el: Ένιντ Μπλάιτον
     en: Enid Blyton
-    en-gb: Enid Blyton
+    en_gb: Enid Blyton
     eo: Enid Blyton
     es: Enid Blyton
     et: Enid Blyton
@@ -180,7 +180,7 @@ dv_has_:
     pa: ਐਨਿਡ ਬਿਲਟਨ
     pms: Enid Blyton
     pt: Enid Blyton
-    pt-br: Enid Blyton
+    pt_br: Enid Blyton
     ro: Enid Blyton
     ru: Энид Мэри Блайтон
     sc: Enid Blyton
@@ -205,12 +205,12 @@ dv_has_:
     yi: איניד בלייטאן
     yue: 伊妮德布萊頓
     zh: 伊妮·布來敦
-    zh-cn: 伊妮·布来敦
-    zh-hans: 伊妮·布来敦
-    zh-hant: 伊妮·布來敦
-    zh-hk: 伊妮·布來敦
-    zh-sg: 伊妮·布来敦
-    zh-tw: 伊妮·布來敦
+    zh_cn: 伊妮·布来敦
+    zh_hans: 伊妮·布来敦
+    zh_hant: 伊妮·布來敦
+    zh_hk: 伊妮·布來敦
+    zh_sg: 伊妮·布来敦
+    zh_tw: 伊妮·布來敦
 ---
 # [[Blyton,Enid]] 
 

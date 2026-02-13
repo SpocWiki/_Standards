@@ -56,8 +56,8 @@ dv_has_:
     sk: The Police
     sl: The Police
     sr: The Police
-    sr-ec: Тхе Полице
-    sr-el: The Police
+    sr_ec: Тхе Полице
+    sr_el: The Police
     sv: The Police
     ta: த போலீஸ்
     th: เดอะโพลิซ
@@ -67,12 +67,12 @@ dv_has_:
     ur: دا پولیس
     vi: The Police
     zh: 警察乐队
-    zh-cn: 警察乐队
-    zh-hans: 警察乐队
-    zh-hant: 警察樂隊
-    zh-hk: 警察樂隊
-    zh-sg: 警察乐队
-    zh-tw: 警察樂隊
+    zh_cn: 警察乐队
+    zh_hans: 警察乐队
+    zh_hant: 警察樂隊
+    zh_hk: 警察樂隊
+    zh_sg: 警察乐队
+    zh_tw: 警察樂隊
 aliases:
 - The Police
 - Полис

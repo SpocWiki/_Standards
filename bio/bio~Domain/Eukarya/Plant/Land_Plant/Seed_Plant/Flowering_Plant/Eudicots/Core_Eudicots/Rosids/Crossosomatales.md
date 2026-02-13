@@ -32,8 +32,8 @@ dv_has_:
     de: Crossosomatales
     el: Κροσσοσωματώδη
     en: Crossosomatales
-    en-ca: Crossosomatales
-    en-gb: Crossosomatales
+    en_ca: Crossosomatales
+    en_gb: Crossosomatales
     eo: Krososomaloj
     es: Crossosomatales
     eu: Crossosomatales
@@ -60,7 +60,7 @@ dv_has_:
     oc: Crossosomatales
     pl: Crossosomatales
     pt: Crossosomatales
-    pt-br: Crossosomatales
+    pt_br: Crossosomatales
     ro: Crossosomatales
     ru: кроссосомоцветные
     sq: Crossosomatales
@@ -71,10 +71,10 @@ dv_has_:
     vo: Crossosomatales
     war: Crossosomatales
     zh: 缨子木目
-    zh-cn: 燧体木目
-    zh-hans: 燧体木目
-    zh-hant: 燧体木目
-    zh-tw: 燧體木目
+    zh_cn: 燧体木目
+    zh_hans: 燧体木目
+    zh_hant: 燧体木目
+    zh_tw: 燧體木目
 ---
 ## Phylogeny 
 

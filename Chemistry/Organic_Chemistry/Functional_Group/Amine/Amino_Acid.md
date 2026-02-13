@@ -174,7 +174,7 @@ dv_has_:
     ba: Аминокислоталар
     bcl: Asidong amino
     be: амінакіслоты
-    be-tarask: амінакісьлі
+    be_tarask: амінакісьлі
     bg: Аминокиселина
     bn: অ্যামিনো অ্যাসিড
     bs: aminokiselina
@@ -185,11 +185,11 @@ dv_has_:
     cy: asid amino
     da: aminosyre
     de: Aminosäuren
-    de-ch: Aminosäuren
+    de_ch: Aminosäuren
     el: αμινοξέα
     en: amino acid
-    en-ca: Amino acid
-    en-gb: amino acid
+    en_ca: Amino acid
+    en_gb: amino acid
     eo: aminoacido
     es: aminoácido
     et: aminohapped
@@ -224,7 +224,7 @@ dv_has_:
     ko: 아미노산
     ks: اَمَینو ایسِڈ
     ku: Asîda amînî
-    ku-latn: Asîda amînî
+    ku_latn: Asîda amînî
     kw: trenken amino
     ky: Амин кычкылдыктары
     la: acidum aminicum
@@ -242,7 +242,7 @@ dv_has_:
     mn: Амин хүчил
     mr: अमिनो आम्ल
     ms: asid amino
-    ms-arab: اسيد امينو
+    ms_arab: اسيد امينو
     my: အမိုင်နို အက်ဆစ်
     nan: An-ki-sng
     nb: aminosyre
@@ -257,7 +257,7 @@ dv_has_:
     pnb: امینو ایسڈ
     ps: امينو اسيد
     pt: aminoácido
-    pt-br: aminoácido
+    pt_br: aminoácido
     ro: aminoacid
     ru: аминокислота
     sco: amino acid
@@ -293,8 +293,8 @@ dv_has_:
     yue: 氨基酸
     za: anhgihsonh
     zh: 氨基酸
-    zh-hans: 氨基酸
-    zh-tw: 胺基酸
+    zh_hans: 氨基酸
+    zh_tw: 胺基酸
 dv_is_same_as:
 - '[[../../../../WikiData/WD~Amino_acid,8066|WD~Amino_acid,8066]]'
 - '[[/_Standards/Chemistry/Organic_Chemistry/Amine/Amino_Acid|Amino_Acid]]'

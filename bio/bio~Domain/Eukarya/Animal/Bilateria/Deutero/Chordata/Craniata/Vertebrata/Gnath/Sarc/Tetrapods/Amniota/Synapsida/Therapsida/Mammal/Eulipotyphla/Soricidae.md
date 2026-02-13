@@ -125,7 +125,7 @@ dv_has_:
     az: Yereşənlər
     ba: Ертишкестәр
     be: Землярыйкі
-    be-tarask: Зямлярыйкавыя
+    be_tarask: Зямлярыйкавыя
     bg: земеровкови
     bjn: Mariangin
     bn: শ্রু
@@ -139,7 +139,7 @@ dv_has_:
     ee: Atɔ
     el: μυγαλή
     en: Soricidae
-    en-gb: shrew
+    en_gb: shrew
     en-us: Soricidae
     eo: Soriko
     es: Soricidae
@@ -198,7 +198,7 @@ dv_has_:
     pl: Ryjówkowate
     pnb: چکوندر
     pt: Soricidae
-    pt-br: Soricidae
+    pt_br: Soricidae
     qu: K'awchisuyt'u
     rm: Misarogns
     ro: Soricidae
@@ -212,8 +212,8 @@ dv_has_:
     smn: viäđŋásiih
     sq: Soricidae
     sr: ровчица
-    sr-ec: ровчица
-    sr-el: rovčica
+    sr_ec: ровчица
+    sr_el: rovčica
     sv: näbbmöss
     sw: Kirukanjia
     ta: மூஞ்சூறு
@@ -230,9 +230,9 @@ dv_has_:
     wuu: 鼩鼱科
     yue: 鼩鼱
     zh: 鼩鼱科
-    zh-cn: 鼩鼱科
-    zh-hans: 鼩鼱科
-    zh-tw: 鼩鼱科
+    zh_cn: 鼩鼱科
+    zh_hans: 鼩鼱科
+    zh_tw: 鼩鼱科
     zu: Ungoso
 ---
 # [[Soricidae]] 

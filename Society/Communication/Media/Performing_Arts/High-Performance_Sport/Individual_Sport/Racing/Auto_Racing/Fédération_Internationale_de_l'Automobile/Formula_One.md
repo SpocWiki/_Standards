@@ -124,7 +124,7 @@ dv_has_:
     ban: Formula Siki
     bar: Formel 1
     be: Формула-1
-    be-tarask: Формула-1
+    be_tarask: Формула-1
     bg: Формула 1
     bn: ফর্মুলা ওয়ান
     br: Formulenn 1
@@ -136,12 +136,12 @@ dv_has_:
     da: Formel 1
     de: Formel 1
     de-at: Formel 1
-    de-ch: Formel 1
+    de_ch: Formel 1
     dv: ފަންވަތް:F1
     el: Φόρμουλα 1
     en: Formula One
-    en-ca: Formula One
-    en-gb: Formula One
+    en_ca: Formula One
+    en_gb: Formula One
     eo: Formulo 1
     es: Fórmula 1
     et: Vormel 1
@@ -192,14 +192,14 @@ dv_has_:
     pl: Formuła 1
     pnb: فارمولا ون
     pt: Fórmula 1
-    pt-br: Fórmula 1
+    pt_br: Fórmula 1
     rm: Furmla 1
     ru: Формула-1
     scn: Fòrmula 1
     sco: Formula Ane
     sq: Formula Një
     sr: Формула 1
-    sr-ec: Формула 1
+    sr_ec: Формула 1
     stq: Formel 1
     su: Formula Hiji
     sv: Formel 1

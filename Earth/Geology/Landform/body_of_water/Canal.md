@@ -154,7 +154,7 @@ dv_has_:
     azb: آرخ
     ba: һыу каналы
     be: канал
-    be-tarask: канал
+    be_tarask: канал
     bg: канал
     bho: नहर
     bjn: anjir
@@ -175,7 +175,7 @@ dv_has_:
     diq: erqci
     el: διώρυγα
     en: canal
-    en-gb: canal
+    en_gb: canal
     eo: kanalo
     es: canal
     et: kanal
@@ -231,7 +231,7 @@ dv_has_:
     nan: ūn-hô
     nb: kanal
     nds: Kanaal
-    nds-nl: knoal
+    nds_nl: knoal
     ne: नहर
     new: नहर
     nl: kanaal
@@ -244,7 +244,7 @@ dv_has_:
     pms: Canal
     pnb: نہر
     pt: canal
-    pt-br: canal
+    pt_br: canal
     rgn: canêl
     ro: canal
     ru: канал
@@ -266,7 +266,7 @@ dv_has_:
     ta: கால்வாய்
     te: కాలువ
     tg: оброҳа
-    tg-cyrl: шабака
+    tg_cyrl: шабака
     th: คลอง
     tr: kanal
     tt: kanal
@@ -283,9 +283,9 @@ dv_has_:
     yi: קאנאל
     yue: 運河
     zh: 運河
-    zh-hans: 运河
-    zh-hant: 運河
-    zh-tw: 運河
+    zh_hans: 运河
+    zh_hant: 運河
+    zh_tw: 運河
   parent_class: '[[../BodyOfWater]]'
   properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'
 dv_is_:

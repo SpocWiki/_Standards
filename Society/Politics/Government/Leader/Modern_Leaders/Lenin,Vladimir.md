@@ -298,7 +298,7 @@ dv_has_:
     bar: Lenin
     bcl: Vladimir Lenin
     be: Уладзімір Ільіч Ленін
-    be-tarask: Уладзімер Ленін
+    be_tarask: Уладзімер Ленін
     bew: Weladimir Lènin
     bg: Владимир Ленин
     bho: व्लादीमिर लेनिन
@@ -312,7 +312,7 @@ dv_has_:
     btm: Vladimir Lenin
     bxr: Владимир Ленин
     ca: Lenin
-    cbk-zam: Vladimir Lenin
+    cbk_zam: Vladimir Lenin
     cdo: Liĕk-nìng
     ce: Ленин, Владимир Ильич
     ceb: Vladimir Lenin
@@ -320,21 +320,21 @@ dv_has_:
     ckb: ڤلادیمیر لێنین
     co: Lenin
     crh: Vladimir Lenin
-    crh-latn: Vladimir Lenin
+    crh_latn: Vladimir Lenin
     cs: Vladimir Iljič Lenin
     cv: Ленин Владимир Ильич
     cy: Vladimir Lenin
     da: Vladimir Lenin
     de: Wladimir Iljitsch Lenin
-    de-ch: Wladimir Iljitsch Lenin
+    de_ch: Wladimir Iljitsch Lenin
     diq: Lenin
     dsb: Wladimir Iljič Lenin
     dty: लेनिन
     el: Βλαντίμιρ Ίλιτς Λένιν
     eml: Vladimir Il'ič Lenin
     en: Vladimir Lenin
-    en-ca: Vladimir Lenin
-    en-gb: Vladimir Lenin
+    en_ca: Vladimir Lenin
+    en_gb: Vladimir Lenin
     en-us: Vladimir Lenin
     eo: Vladimiro Lenino
     es: Lenin
@@ -444,7 +444,7 @@ dv_has_:
     pnt: Βλαντιμίρ Λένιν
     ps: ولادمير ايليچ لېنين
     pt: Vladimir Lenine
-    pt-br: Vladimir Lenin
+    pt_br: Vladimir Lenin
     qu: Lenin
     rm: Vladimir Iljitsch Lenin
     ro: Vladimir Lenin
@@ -482,7 +482,7 @@ dv_has_:
     tok: jan Lasimi Lenin
     tr: Vladimir Lenin
     tt: Владимир Ленин
-    tt-cyrl: Владимир Ленин
+    tt_cyrl: Владимир Ленин
     tyv: Ленин, Владимир Ильич
     udm: Ленин, Владимир Ильич
     ug: لېنىن
@@ -501,11 +501,11 @@ dv_has_:
     yue: 列寧
     za: Vladimir Lenin
     zh: 列宁
-    zh-cn: 列宁
-    zh-hans: 列宁
-    zh-hant: 佛拉迪米爾·伊里奇·列寧
-    zh-hk: 列寧
-    zh-tw: 列寧
+    zh_cn: 列宁
+    zh_hans: 列宁
+    zh_hant: 佛拉迪米爾·伊里奇·列寧
+    zh_hk: 列寧
+    zh_tw: 列寧
     zu: Vladimir Lenin
 ---
 # [[Lenin,Vladimir]] 

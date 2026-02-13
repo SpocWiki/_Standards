@@ -791,7 +791,7 @@ dv_has_:
     ace: Keurajeuën Inggréh
     acm: المملكة المتحدة
     ady: Британиешхо Пачъыхьыгъо
-    aeb-arab: المملكة الموحّدة
+    aeb_arab: المملكة الموحّدة
     af: Verenigde Koninkryk
     am: ዩናይትድ ኪንግደም
     ami: United kingdom
@@ -816,7 +816,7 @@ dv_has_:
     bbc: Britania Godang
     bcl: Reyno Unido
     be: Вялікабрытанія
-    be-tarask: Вялікабрытанія
+    be_tarask: Вялікабрытанія
     bew: Kerajaan Rempug
     bg: Обединено кралство Великобритания и Северна Ирландия
     bho: यूनाइटेड किंगडम
@@ -833,7 +833,7 @@ dv_has_:
     bug: United Kingdom
     bxr: Нэгэдэһэн хаанта улас
     ca: Regne Unit
-    cbk-zam: Reinos Unidos
+    cbk_zam: Reinos Unidos
     cdo: Ĭng-guók
     ce: Йоккха Британи
     ceb: Hiniusang Gingharian
@@ -843,7 +843,7 @@ dv_has_:
     ckb: شانشینی یەکگرتوو
     co: Regnu Unitu
     crh: Büyük Britaniya
-    crh-latn: Büyük Britaniya
+    crh_latn: Büyük Britaniya
     cs: Spojené království
     csb: Wiôlgô Britanijô
     cu: Вєлика Британїꙗ
@@ -853,7 +853,7 @@ dv_has_:
     dag: United Kingdom
     de: Vereinigtes Königreich
     de-at: Vereinigtes Königreich
-    de-ch: Vereinigtes Königreich
+    de_ch: Vereinigtes Königreich
     din: Amatnhom Mäcŋaknhom
     diq: Qraliya Yewbiyayiye
     dsb: Zjadnośone kralojstwo
@@ -865,8 +865,8 @@ dv_has_:
     el: Ηνωμένο Βασίλειο
     eml: Régn Unî
     en: United Kingdom
-    en-ca: United Kingdom
-    en-gb: United Kingdom
+    en_ca: United Kingdom
+    en_gb: United Kingdom
     en-us: United Kingdom
     eo: Unuiĝinta Reĝlando
     es: Reino Unido
@@ -893,7 +893,7 @@ dv_has_:
     gn: Tetã Joaju
     gom: युनायटेड किंगडम
     gom-deva: युनायटेड किंगडम
-    gom-latn: United Kingdom
+    gom_latn: United Kingdom
     gpe: United Kingdom
     grc: Ἡνωμένον Βασίλειον
     gsw: Grossbritannien und Nordirland
@@ -950,7 +950,7 @@ dv_has_:
     ks: یونایٹِڑ کِنگڈَم
     ksh: Jrußbritannie
     ku: Keyaniya Yekbûyî
-    ku-arab: کەیانیا یەکبوویی
+    ku_arab: کەیانیا یەکبوویی
     kv: Ыджыд Британия
     kw: Ruvaneth Unys
     ky: Улуу Британия
@@ -975,7 +975,7 @@ dv_has_:
     mad: Britania Raya
     mag: सञ्जुक्त राजतन्त्र
     mai: संयुक्त अधिराज्य
-    map-bms: Britania Raya
+    map_bms: Britania Raya
     mdf: Оцю Британия
     mg: Fanjakana Mitambatra
     mhr: Ушымо Королевстве
@@ -990,7 +990,7 @@ dv_has_:
     mr: युनायटेड किंग्डम
     mrj: Кого Британи
     ms: United Kingdom
-    ms-arab: يونايتيد کيڠدم
+    ms_arab: يونايتيد کيڠدم
     mt: Renju Unit
     mwl: Reino Ounido
     my: ယူနိုက်တက် ကင်းဒမ်း
@@ -1002,7 +1002,7 @@ dv_has_:
     nap: Gran Vretagna
     nb: Storbritannia
     nds: Vereenigt Königriek
-    nds-nl: Verienigd Keuninkriek
+    nds_nl: Verienigd Keuninkriek
     ne: संयुक्त अधिराज्य
     new: संयुक्त अधिराज्य
     nl: Verenigd Koninkrijk
@@ -1033,7 +1033,7 @@ dv_has_:
     pnt: Ηνωμένο Βασίλειο
     ps: برېتانيا
     pt: Reino Unido
-    pt-br: Reino Unido
+    pt_br: Reino Unido
     qu: Hukllachasqa Qhapaq Suyu
     rm: Reginavel Unì
     rmy: Phandlo Thagaripen
@@ -1054,7 +1054,7 @@ dv_has_:
     se: Ovttastuvvan gonagasriika
     sgs: Jongtėnė Karalīstė
     sh: Ujedinjeno Kraljevstvo
-    sh-cyrl: Уједињено Краљевство
+    sh_cyrl: Уједињено Краљевство
     shi: Briṭanya
     shn: မိူင်းဢင်းၵိတ်ႉ
     si: එක්සත් රාජධානිය
@@ -1069,8 +1069,8 @@ dv_has_:
     so: Midowga boqortooyada Britan
     sq: Britania e Madhe
     sr: Уједињено Краљевство
-    sr-ec: Уједињено Краљевство
-    sr-el: Ujedinjeno Kraljevstvo
+    sr_ec: Уједињено Краљевство
+    sr_el: Ujedinjeno Kraljevstvo
     srn: Ingriskondre
     ss: United Kingdom
     st: United Kingdom
@@ -1087,7 +1087,7 @@ dv_has_:
     te: యునైటెడ్ కింగ్డమ్
     tet: Reinu Naklibur
     tg: Бритониёи Кабир
-    tg-cyrl: Британияи Кабир
+    tg_cyrl: Британияи Кабир
     th: สหราชอาณาจักร
     tk: Birleşen Patyşalyk
     tl: United Kingdom
@@ -1100,8 +1100,8 @@ dv_has_:
     trv: United Kingdom
     ts: United Kingdom
     tt: Бөекбритания
-    tt-cyrl: Бөекбритания
-    tt-latn: Böyekbritaniä
+    tt_cyrl: Бөекбритания
+    tt_latn: Böyekbritaniä
     tum: Ufumu Ubanyi
     tw: United Kingdom
     ty: Paratāne
@@ -1130,14 +1130,14 @@ dv_has_:
     zea: Vereênigd Konienkriek
     zgh: ⵜⴰⴳⵍⴷⵉⵜ ⵉⵎⵓⵏⵏ
     zh: 英国
-    zh-cn: 英国
-    zh-hans: 英国
-    zh-hant: 英國
-    zh-hk: 英國
-    zh-mo: 英國
+    zh_cn: 英国
+    zh_hans: 英国
+    zh_hant: 英國
+    zh_hk: 英國
+    zh_mo: 英國
     zh-my: 英国
-    zh-sg: 英国
-    zh-tw: 英國
+    zh_sg: 英国
+    zh_tw: 英國
     zu: Umbuso Ohlangeneyo
   sound_of_:
     anthem: '[[../../../../../_public/xLarge.public/National-Anthem/Anthem-United-kingdom.mp3|Anthem-United-kingdom.mp3]]'

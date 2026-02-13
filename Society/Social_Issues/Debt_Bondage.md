@@ -77,7 +77,7 @@ dv_has_:
     nl: schuldslavernij
     pa: ਬੰਧੂਆ ਮਜ਼ਦੂਰੀ
     pt: escravidão por dívida
-    pt-br: escravidão por dívida
+    pt_br: escravidão por dívida
     ru: Кабала (зависимость)
     sl: dolžniško suženjstvo
     sv: skuldslaveri
@@ -87,9 +87,9 @@ dv_has_:
     ur: بندھوا مزدوری
     yo: Ìsìnrú gbèsè
     zh: 债役
-    zh-cn: 债役
-    zh-hans: 债役
-    zh-hant: 債務奴
+    zh_cn: 债役
+    zh_hans: 债役
+    zh_hant: 債務奴
 ---
 # [[Debt_Bondage]] 
 

@@ -23,7 +23,7 @@ dv_has_:
   name_:
     ar: نادي الضيافة
     ast: Hospitality Club
-    be-tarask: Клюб гасьціннасьці
+    be_tarask: Клюб гасьціннасьці
     ca: Hospitality Club
     cs: Hospitality Club
     de: Hospitality Club
@@ -47,8 +47,8 @@ dv_has_:
     ru: Hospitality Club
     sah: Hospitality Club
     sr: Hospitality Club
-    sr-ec: Хоспиталитy Цлуб
-    sr-el: Hospitality Club
+    sr_ec: Хоспиталитy Цлуб
+    sr_el: Hospitality Club
     sv: Hospitality Club
     tr: Hospitality Club
     uk: Hospitality Club

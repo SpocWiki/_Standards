@@ -105,18 +105,18 @@ dv_has_:
     ast: Coordenaes celestes
     az: Fəza koordinat sistemi
     be: сістэма нябесных каардынат
-    be-tarask: сыстэма нябесных каардынат
+    be_tarask: сыстэма нябесных каардынат
     bg: Небесна координатна система
     bs: Nebeski koordinatni sistem
     ca: coordenades astronòmiques
     ckb: سیستەمی پۆتانی ئاسمانی
     da: Koordinatsystem for himmelrummet
     de: astronomische Koordinatensysteme
-    de-ch: Astronomische Koordinatensysteme
+    de_ch: Astronomische Koordinatensysteme
     el: Ουράνιες συντεταγμένες
     en: astronomical coordinate system
-    en-ca: Celestial coordinate system
-    en-gb: Celestial coordinate system
+    en_ca: Celestial coordinate system
+    en_gb: Celestial coordinate system
     eo: ĉiela koordinataro
     es: coordenadas celestes
     et: Taevakoordinaatide süsteem
@@ -137,11 +137,11 @@ dv_has_:
     it: coordinate celesti
     ja: 天球座標系
     kk: Аспан координаттар жүйесі
-    kk-arab: اسپان كووردىيناتتار جۇيەسى
+    kk_arab: اسپان كووردىيناتتار جۇيەسى
     kk-cn: اسپان كووردىيناتتار جۇيەسى
-    kk-cyrl: Аспан координаттар жүйесі
+    kk_cyrl: Аспан координаттар жүйесі
     kk-kz: Аспан координаттар жүйесі
-    kk-latn: Aspan koordïnattar jüýesi
+    kk_latn: Aspan koordïnattar jüýesi
     kk-tr: Aspan koordïnattar jüýesi
     ko: 천구좌표계
     la: Systema coordinatarum caelestium
@@ -158,7 +158,7 @@ dv_has_:
     oc: Sistèma de coordenadas celèstas
     pl: układ współrzędnych astronomicznych
     pt: sistema de coordenadas celestes
-    pt-br: Sistema de coordenadas celestes
+    pt_br: Sistema de coordenadas celestes
     ro: sistem de coordonate astronomice
     ru: система небесных координат
     sco: celestial coordinate seestem
@@ -166,8 +166,8 @@ dv_has_:
     sk: Astronomické súradnicové systémy
     sl: nebesni koordinatni sistem
     sr: небески координатни системи
-    sr-ec: небески координатни системи
-    sr-el: nebeski koordinatni sistemi
+    sr_ec: небески координатни системи
+    sr_el: nebeski koordinatni sistemi
     sv: astronomiska koordinatsystem
     sw: Majiranukta ya anga
     th: ระบบพิกัดทรงกลมฟ้า
@@ -181,12 +181,12 @@ dv_has_:
     wuu: 天球坐标系统
     yue: 天球坐標系統
     zh: 天球坐标系统
-    zh-cn: 天球坐标系统
-    zh-hans: 天球坐标系统
-    zh-hant: 天球坐標系統
-    zh-hk: 天球坐標系統
-    zh-sg: 天球坐标系统
-    zh-tw: 天球坐標系統
+    zh_cn: 天球坐标系统
+    zh_hans: 天球坐标系统
+    zh_hant: 天球坐標系統
+    zh_hk: 天球坐標系統
+    zh_sg: 天球坐标系统
+    zh_tw: 天球坐標系統
 ---
 # [[Astronomical_Coordinate_System]] 
 

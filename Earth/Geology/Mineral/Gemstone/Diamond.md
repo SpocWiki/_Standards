@@ -199,7 +199,7 @@ dv_has_:
     ba: алмас
     bcl: diamante
     be: алмаз
-    be-tarask: алмаз
+    be_tarask: алмаз
     bg: диамант
     bjn: intan
     bn: হীরক
@@ -218,7 +218,7 @@ dv_has_:
     de: Diamant
     el: διαμάντι
     en: diamond
-    en-gb: diamond
+    en_gb: diamond
     eo: diamanto
     es: diamante
     et: teemant
@@ -256,7 +256,7 @@ dv_has_:
     ko: 다이아몬드
     ko-kp: 금강석
     ku: elmas
-    ku-latn: elmas
+    ku_latn: elmas
     kw: adamant
     ky: алмаз
     la: adamas
@@ -295,7 +295,7 @@ dv_has_:
     pnb: ہیرا
     ps: الماس
     pt: diamante
-    pt-br: diamante
+    pt_br: diamante
     qu: q'ispi umiña
     ro: diamant
     ru: алмаз
@@ -346,9 +346,9 @@ dv_has_:
     yue: 鑽石
     za: cuenqsig
     zh: 钻石
-    zh-hans: 钻石
-    zh-hant: 鑽石
-    zh-tw: 鑽石
+    zh_hans: 钻石
+    zh_hant: 鑽石
+    zh_tw: 鑽石
 ---
 # [[Diamond]] 💎 
 

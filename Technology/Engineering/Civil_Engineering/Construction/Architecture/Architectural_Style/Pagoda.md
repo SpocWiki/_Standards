@@ -72,7 +72,7 @@ dv_has_:
     ast: Pagoda
     az: Paqoda
     be: пагада
-    be-tarask: пагада
+    be_tarask: пагада
     bg: Пагода
     bn: প্যাগোডা
     br: pagodenn
@@ -140,8 +140,8 @@ dv_has_:
     sl: pagoda
     sq: Pagoda kineze
     sr: пагода
-    sr-ec: Пагода
-    sr-el: Pagoda
+    sr_ec: Пагода
+    sr_el: Pagoda
     sv: pagod
     ta: பகோடா
     th: ถะ
@@ -156,12 +156,12 @@ dv_has_:
     wuu: 汉塔
     yue: 塔
     zh: 塔
-    zh-cn: 塔
-    zh-hans: 塔
-    zh-hant: 塔
-    zh-hk: 塔
-    zh-sg: 塔
-    zh-tw: 塔
+    zh_cn: 塔
+    zh_hans: 塔
+    zh_hant: 塔
+    zh_hk: 塔
+    zh_sg: 塔
+    zh_tw: 塔
 ---
 # [[Pagoda]] 
 

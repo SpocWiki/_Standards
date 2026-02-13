@@ -80,7 +80,7 @@ dv_has_:
     ast: infracción de derechos d'autor
     az: müəllif hüquqlarının pozulması
     ba: авторлыҡ хоҡуғын боҙоу
-    be-tarask: парушэньне аўтарскіх правоў
+    be_tarask: парушэньне аўтарскіх правоў
     bn: মেধাস্বত্ব লঙ্ঘন
     ca: infracció de drets d'autor
     ckb: پێشێلکردنی مافی لەبەرگرتنەوە
@@ -88,11 +88,11 @@ dv_has_:
     cy: torri hawlfraint
     da: piratkopiering
     de: Urheberrechtsverletzung
-    de-ch: Urheberrechtsverletzung
+    de_ch: Urheberrechtsverletzung
     el: Παραβίαση πνευματικών δικαιωμάτων
     en: copyright infringement
-    en-ca: copyright infringement
-    en-gb: copyright infringement
+    en_ca: copyright infringement
+    en_gb: copyright infringement
     eo: malobservo de aŭtorrajtoj
     es: infracción de derechos de autor
     eu: egile eskubideen arau hauste
@@ -139,9 +139,9 @@ dv_has_:
     xh: ukwaphulwa kwelungelo lokushicilela
     yue: 版權侵害
     zh: 著作权侵权
-    zh-cn: 盗版
-    zh-hans: 版权侵害
-    zh-hant: 版權侵害
+    zh_cn: 盗版
+    zh_hans: 版权侵害
+    zh_hant: 版權侵害
 ---
 # [[Copyright_Infringement]] 
 

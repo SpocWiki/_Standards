@@ -106,7 +106,7 @@ dv_has_:
     az: Vaşaq
     ba: Һеләүһен
     be: Рысь
-    be-tarask: Рысь
+    be_tarask: Рысь
     bg: Рис
     bn: বনমার্জার মণ্ডল
     br: Liñs

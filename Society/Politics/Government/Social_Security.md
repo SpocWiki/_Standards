@@ -91,7 +91,7 @@ dv_has_:
     ar: ضمان اجتماعي
     ast: Seguridá social
     az: sosial müdafiə
-    be-tarask: сацыяльная абарона
+    be_tarask: сацыяльная абарона
     bg: обществено осигуряване
     bn: সামাজিক নিরাপত্তা
     ca: seguretat social
@@ -99,11 +99,11 @@ dv_has_:
     cy: nawdd cymdeithasol
     da: social ydelse
     de: soziale Sicherheit
-    de-ch: Sozialversicherung
+    de_ch: Sozialversicherung
     el: κοινωνική ασφάλεια
     en: social security
-    en-ca: social insurance
-    en-gb: social insurance
+    en_ca: social insurance
+    en_gb: social insurance
     eo: sociala sekureco
     es: seguridad social
     eu: gizarte segurantza
@@ -137,7 +137,7 @@ dv_has_:
     pa: ਸਮਾਜਿਕ ਸੁਰੱਖਿਆ
     pl: pomoc społeczna
     pt: seguridade social
-    pt-br: previdência social
+    pt_br: previdência social
     ro: securitate socială
     ru: социальная защита
     se: sosiáladorvu
@@ -147,8 +147,8 @@ dv_has_:
     smn: sosiaaltorvo
     sms: sosiaalstaan
     sr: социјална сигурност
-    sr-ec: социјална сигурност
-    sr-el: socijalna sigurnost
+    sr_ec: социјална сигурност
+    sr_el: socijalna sigurnost
     sv: social trygghet
     sw: mfuko wa jamii
     tr: sosyal güvenlik
@@ -159,10 +159,10 @@ dv_has_:
     vi: an sinh xã hội
     yi: סאָציאַלפֿאַרזיכערונג
     zh: 社会保障
-    zh-hans: 社会保障
-    zh-hant: 社會保障
-    zh-hk: 社會保障
-    zh-tw: 社會保障
+    zh_hans: 社会保障
+    zh_hant: 社會保障
+    zh_hk: 社會保障
+    zh_tw: 社會保障
 ---
 # [[Social_Security]] 
 

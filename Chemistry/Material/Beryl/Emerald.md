@@ -128,7 +128,7 @@ dv_has_:
     bar: Smarogt
     bcl: Esmeralda
     be: ізумруд
-    be-tarask: смарагд
+    be_tarask: смарагд
     bg: Смарагд
     bn: পান্না
     bpy: এসমেরআলডা
@@ -142,8 +142,8 @@ dv_has_:
     de: Smaragd
     el: σμαράγδι
     en: emerald
-    en-ca: Emerald
-    en-gb: emerald
+    en_ca: Emerald
+    en_gb: emerald
     eo: smeraldo
     es: esmeralda
     et: smaragd
@@ -198,7 +198,7 @@ dv_has_:
     pnb: زمرد
     ps: زمرد
     pt: esmeralda
-    pt-br: Esmeralda
+    pt_br: Esmeralda
     qu: Q'umir umiña
     rki: မြ
     ro: smarald
@@ -231,9 +231,9 @@ dv_has_:
     wuu: 吕宋绿
     yue: 呂宋綠
     zh: 祖母綠
-    zh-hans: 祖母绿
-    zh-hant: 祖母綠
-    zh-tw: 祖母綠
+    zh_hans: 祖母绿
+    zh_hant: 祖母綠
+    zh_tw: 祖母綠
 ---
 # [[Emerald]] 
 

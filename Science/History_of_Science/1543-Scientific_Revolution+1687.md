@@ -89,7 +89,7 @@ dv_has_:
     ar: ثورة علمية
     ast: Revolución científica
     az: Elmi inqilab
-    be-tarask: Навукова-тэхнічная рэвалюцыя
+    be_tarask: Навукова-тэхнічная рэвалюцыя
     bg: Научна революция
     bn: বৈজ্ঞানিক বিপ্লব
     bs: Naučna revolucija
@@ -150,7 +150,7 @@ dv_has_:
     sl: znanstvena revolucija
     sq: Revolucioni shkencor
     sr: Научна револуција
-    sr-ec: Научна револуција
+    sr_ec: Научна револуција
     sv: vetenskapliga revolutionen
     ta: அறிவியல் புரட்சி
     te: వైజ్ఞానిక విప్లవం
@@ -164,12 +164,12 @@ dv_has_:
     wuu: 科学革命
     yue: 科學革命
     zh: 科学革命
-    zh-cn: 科学革命
-    zh-hans: 科学革命
-    zh-hant: 科學革命
-    zh-hk: 科學革命
-    zh-sg: 科学革命
-    zh-tw: 科學革命
+    zh_cn: 科学革命
+    zh_hans: 科学革命
+    zh_hant: 科學革命
+    zh_hk: 科學革命
+    zh_sg: 科学革命
+    zh_tw: 科學革命
 ---
 # [[1543-Scientific_Revolution+1687]] 
 

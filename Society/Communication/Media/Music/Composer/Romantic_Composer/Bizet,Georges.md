@@ -118,7 +118,7 @@ dv_has_:
     ba: Жорж Бизе
     bar: Georges Bizet
     be: Жорж Бізэ
-    be-tarask: Жорж Бізэ
+    be_tarask: Жорж Бізэ
     bg: Жорж Бизе
     bm: Georges Bizet
     br: Georges Bizet
@@ -131,11 +131,11 @@ dv_has_:
     da: Georges Bizet
     de: Georges Bizet
     de-at: Georges Bizet
-    de-ch: Georges Bizet
+    de_ch: Georges Bizet
     el: Ζορζ Μπιζέ
     en: Georges Bizet
-    en-ca: Georges Bizet
-    en-gb: Georges Bizet
+    en_ca: Georges Bizet
+    en_gb: Georges Bizet
     eo: Georges Bizet
     es: Georges Bizet
     et: Georges Bizet
@@ -192,7 +192,7 @@ dv_has_:
     nap: Georges Bizet
     nb: Georges Bizet
     nds: Georges Bizet
-    nds-nl: Georges Bizet
+    nds_nl: Georges Bizet
     nl: Georges Bizet
     nn: Georges Bizet
     nrm: Georges Bizet
@@ -204,7 +204,7 @@ dv_has_:
     pms: Georges Bizet
     prg: Georges Bizet
     pt: Georges Bizet
-    pt-br: Georges Bizet
+    pt_br: Georges Bizet
     qu: Georges Bizet
     rgn: Georges Bizet
     rm: Georges Bizet
@@ -218,8 +218,8 @@ dv_has_:
     sl: Georges Bizet
     sq: Georges Bizet
     sr: Жорж Бизе
-    sr-ec: Жорж Бизе
-    sr-el: Georges Bizet
+    sr_ec: Жорж Бизе
+    sr_el: Georges Bizet
     sv: Georges Bizet
     sw: Georges Bizet
     tg: Жорж Бизе
@@ -240,11 +240,11 @@ dv_has_:
     yi: זשארזש ביזע
     yue: 比才
     zh: 乔治·比才
-    zh-cn: 乔治·比才
-    zh-hans: 乔治·比才
-    zh-hant: 喬治·比才
-    zh-hk: 佐治·比才
-    zh-tw: 喬治·比才
+    zh_cn: 乔治·比才
+    zh_hans: 乔治·比才
+    zh_hant: 喬治·比才
+    zh_hk: 佐治·比才
+    zh_tw: 喬治·比才
     zu: Georges Bizet
 ---
 # [[Bizet,Georges]] 

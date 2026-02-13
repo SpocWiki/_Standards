@@ -66,7 +66,7 @@ dv_has_:
     ab: Еиду Арабтә Емиратқәа
     ace: Uni Emirat Arab
     ady: Араб Эмират Зэхэтхэр
-    aeb-arab: الإمارات العربية المتحدة
+    aeb_arab: الإمارات العربية المتحدة
     af: Verenigde Arabiese Emirate
     am: የተባበሩት የዓረብ ኤምሬትስ
     ami: United arab emirates
@@ -89,7 +89,7 @@ dv_has_:
     bar: Vaeinigte Arabische Emirate
     bcl: Emiratong Arabe Unidos
     be: Аб’яднаныя Арабскія Эміраты
-    be-tarask: Аб’яднаныя Арабскія Эміраты
+    be_tarask: Аб’яднаныя Арабскія Эміраты
     bew: Imarat Arab Rempug
     bg: Обединени арабски емирства
     bgn: امارتی موتهیده ئه ربی
@@ -105,14 +105,14 @@ dv_has_:
     bug: Emiriyah Arab Bersatu
     bxr: Арабын Нэгдсэн Эмирт Улс
     ca: Emirats Àrabs Units
-    cbk-zam: Emiratos Unidos del Arabo
+    cbk_zam: Emiratos Unidos del Arabo
     cdo: Ā-lá-báik Lièng-hăk Dâi-gŭng-guók
     ce: Iаьрбийн Цхьаьнакхетта Эмираташ
     ceb: Hiniusang Emiratong Arabo
     ckb: میرنشینە یەکگرتووە عەرەبییەکان
     co: Emirati Àrabi Uniti
     crh: Birleşken Arap Emirlikleri
-    crh-latn: Birleşken Arap Emirlikleri
+    crh_latn: Birleşken Arap Emirlikleri
     cs: Spojené arabské emiráty
     csb: Zjednóné Arabsczie Emiratë
     cu: Ѥдьнѥнꙑ Аравьскꙑ Ємиратꙑ
@@ -122,7 +122,7 @@ dv_has_:
     dag: United Arab Emirates
     de: Vereinigte Arabische Emirate
     de-at: Vereinigte Arabische Emirate
-    de-ch: Vereinigte Arabische Emirate
+    de_ch: Vereinigte Arabische Emirate
     diq: Yewina Emiranê Erebi
     dsb: Zjadnośone Arabske Emiraty
     dtp: Emiriah Arab Miiso
@@ -131,8 +131,8 @@ dv_has_:
     dz: ཡུ་ནའི་ཊེཊ་ཨ་རབ་ཨེ་མི་རེཊསི་
     el: Ηνωμένα Αραβικά Εμιράτα
     en: United Arab Emirates
-    en-ca: United Arab Emirates
-    en-gb: United Arab Emirates
+    en_ca: United Arab Emirates
+    en_gb: United Arab Emirates
     en-us: United Arab Emirates
     eo: Unuiĝintaj Arabaj Emirlandoj
     es: Emiratos Árabes Unidos
@@ -247,7 +247,7 @@ dv_has_:
     nan: A-la-pek Liân-ha̍p Thâu-lâng-kok
     nb: De forente arabiske emirater
     nds: Vereenigte Araabsche Emiraten
-    nds-nl: Vereynigde Arabiske Emiraten
+    nds_nl: Vereynigde Arabiske Emiraten
     ne: संयुक्त अरब इमिरेट्स
     nl: Verenigde Arabische Emiraten
     nn: Dei sameinte arabiske emirata
@@ -269,7 +269,7 @@ dv_has_:
     pnb: متحدہ عرب امارات
     ps: متحده عرب امارات
     pt: Emirados Árabes Unidos
-    pt-br: Emirados Árabes Unidos
+    pt_br: Emirados Árabes Unidos
     qu: Hukllachasqa Arab Imiratukuna
     rmy: United Arab Emirates
     ro: Emiratele Arabe Unite
@@ -288,7 +288,7 @@ dv_has_:
     sgs: Jongtėnē Arabu Emīratā
     sh: Ujedinjeni Arapski Emirati
     shn: မိူင်းႁူမ်ႈတုမ် ၸဝ်ႈၾႃႉ ဢႃႇရၢပ်ႈ
-    shy-latn: Limarat Taɛrabin Yeddukklen
+    shy_latn: Limarat Taɛrabin Yeddukklen
     si: එක්සත් අරාබි එමීර් රාජ්යය
     sk: Spojené arabské emiráty
     skr: متحدہ عرب امارات
@@ -300,8 +300,8 @@ dv_has_:
     so: Imaaraatka Carabta
     sq: Emiratet e Bashkuara Arabe
     sr: Уједињени Арапски Емирати
-    sr-ec: Уједињени Арапски Емирати
-    sr-el: Ujedinjeni Arapski Emirati
+    sr_ec: Уједињени Арапски Емирати
+    sr_el: Ujedinjeni Arapski Emirati
     ss: Bunye bema-Arabhu
     stq: Fereende Arabiske Emiroate
     su: Uni Émirat Arab
@@ -347,11 +347,11 @@ dv_has_:
     za: Bouxdaeuzgoz Ahlazbwz Lienzhab
     zea: Vereênigde Araobische Emiraoten
     zh: 阿拉伯联合酋长国
-    zh-cn: 阿拉伯联合酋长国
-    zh-hans: 阿拉伯联合酋长国
-    zh-hant: 阿拉伯聯合大公國
+    zh_cn: 阿拉伯联合酋长国
+    zh_hans: 阿拉伯联合酋长国
+    zh_hant: 阿拉伯聯合大公國
     zh-my: 阿拉伯联合酋长国
-    zh-tw: 阿拉伯聯合大公國
+    zh_tw: 阿拉伯聯合大公國
     zu: i-United Arab Emirates
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-United_Arab_Emirates

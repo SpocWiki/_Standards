@@ -223,7 +223,7 @@ dv_has_:
     ba: Цицерон
     bcl: Cicero
     be: Марк Тулій Цыцэрон
-    be-tarask: Марк Туліюс Цыцэрон
+    be_tarask: Марк Туліюс Цыцэрон
     bg: Цицерон
     bn: সিসারো
     br: Cicero
@@ -238,12 +238,12 @@ dv_has_:
     cy: Cicero
     da: Marcus Tullius Cicero
     de: Marcus Tullius Cicero
-    de-ch: Marcus Tullius Cicero
+    de_ch: Marcus Tullius Cicero
     diq: Marcus Tullius Cicero
     el: Μάρκος Τύλλιος Κικέρων
     en: Cicero
-    en-ca: Cicero
-    en-gb: Cicero
+    en_ca: Cicero
+    en_gb: Cicero
     eo: Cicerono
     es: Cicerón
     et: Cicero
@@ -316,7 +316,7 @@ dv_has_:
     pnb: سائیسیرو
     ps: سيسرو
     pt: Cícero
-    pt-br: Cícero
+    pt_br: Cícero
     qu: Marcus Tullius Cicero
     ro: Cicero
     ru: Марк Туллий Цицерон
@@ -350,10 +350,10 @@ dv_has_:
     yo: Kísẹ́rò
     yue: 西塞羅
     zh: 西塞罗
-    zh-cn: 西塞罗
-    zh-hans: 西塞罗
-    zh-hant: 西塞羅
-    zh-hk: 西塞羅
+    zh_cn: 西塞罗
+    zh_hans: 西塞罗
+    zh_hant: 西塞羅
+    zh_hk: 西塞羅
 ---
 # [[Cicero]] 
 

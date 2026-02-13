@@ -64,7 +64,7 @@ dv_has_:
     arz: مقارنة الاديان
     ast: Relixón comparada
     be: параўнальнае рэлігіязнаўства
-    be-tarask: параўнальнае рэлігіязнаўства
+    be_tarask: параўнальнае рэлігіязнаўства
     bg: Сравнително религиознание
     bn: তুলনামূলক ধর্মতত্ত্ব
     bo: ཆོས་ལུགས་་གཤིབ་བསྡུ་རིག་པ།
@@ -112,10 +112,10 @@ dv_has_:
     uz: Qiyosiy dinshunoslik
     vec: rełijon conparada
     zh: 宗教比較
-    zh-cn: 比较宗教学
-    zh-hans: 宗教比较
-    zh-hant: 宗教比較
-    zh-hk: 宗教比較
+    zh_cn: 比较宗教学
+    zh_hans: 宗教比较
+    zh_hant: 宗教比較
+    zh_hk: 宗教比較
 ---
 # [[Comparative_Religion]] 
 

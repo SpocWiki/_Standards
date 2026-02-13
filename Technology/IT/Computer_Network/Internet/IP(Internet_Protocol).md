@@ -62,7 +62,7 @@ dv_has_:
     ast: familia de protocolos d'internet
     az: TCP/IP
     be: TCP/IP
-    be-tarask: TCP/IP
+    be_tarask: TCP/IP
     bg: TCP/IP
     bho: इंटरनेट प्रोटोकाल सूट
     bn: ইন্টারনেট প্রোটোকল সুইট
@@ -73,7 +73,7 @@ dv_has_:
     cs: TCP/IP
     da: Internetprotokol
     de: Internetprotokollfamilie
-    de-ch: Internetprotokollfamilie
+    de_ch: Internetprotokollfamilie
     el: TCP/IP
     en: Internet protocol suite
     eo: TCP-IP
@@ -128,7 +128,7 @@ dv_has_:
     th: ชุดโพรโทคอลอินเทอร์เน็ต
     tr: İnternet iletişim kuralları dizisi
     tt: TCP/IP
-    tt-cyrl: TCP/IP
+    tt_cyrl: TCP/IP
     uk: TCP/IP
     ur: حزمۂ جالبینی دستور
     uz: TCP/IP

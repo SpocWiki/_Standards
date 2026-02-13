@@ -117,7 +117,7 @@ dv_has_:
     az: Ququşu
     ba: Аҡҡош
     be: Лебедзь
-    be-tarask: Лебедзь
+    be_tarask: Лебедзь
     bg: лебед
     bn: বক মণ্ডল
     bo: ངང་དཀར་སྐར་ཚོམ་

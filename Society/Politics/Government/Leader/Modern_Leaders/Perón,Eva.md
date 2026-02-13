@@ -111,7 +111,7 @@ dv_has_:
     ay: Eva Perón
     az: Yeva Peron
     be: Эва Перон
-    be-tarask: Эва Пэрон
+    be_tarask: Эва Пэрон
     bg: Ева Перон
     bn: এভা পেরোন
     br: Eva Perón
@@ -171,7 +171,7 @@ dv_has_:
     pnb: ایوا پیرون
     ps: ايوا پيرون
     pt: Eva Perón
-    pt-br: Eva Perón
+    pt_br: Eva Perón
     qu: María Eva Duarte
     ro: Eva Perón
     ru: Эва Перон

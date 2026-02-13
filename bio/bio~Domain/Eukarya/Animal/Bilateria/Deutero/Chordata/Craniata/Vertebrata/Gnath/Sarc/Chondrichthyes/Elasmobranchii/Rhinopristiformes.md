@@ -55,7 +55,7 @@ dv_has_:
     oc: Rhinopristiformes
     pl: Rhinopristiformes
     pt: Rhinopristiformes
-    pt-br: Rhinopristiformes
+    pt_br: Rhinopristiformes
     ro: Rhinopristiformes
     ru: пилорылообразные
     sl: Rhinopristiformes
@@ -68,9 +68,9 @@ dv_has_:
     vo: Rhinopristiformes
     war: Rhinopristiformes
     zh: 犁头鳐目
-    zh-cn: 犁头鳐目
-    zh-hans: 犁头鳐目
-    zh-tw: 犁頭鰩目
+    zh_cn: 犁头鳐目
+    zh_hans: 犁头鳐目
+    zh_tw: 犁頭鰩目
 ---
 # [[Rhinopristiformes]] 
 

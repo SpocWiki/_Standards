@@ -152,7 +152,7 @@ dv_has_:
     ban: Rerajahan
     bcl: pagkurit
     be: малюнак
-    be-tarask: малюнак
+    be_tarask: малюнак
     bg: рисунка
     bn: অঙ্কন
     br: tresadenn
@@ -214,7 +214,7 @@ dv_has_:
     nap: disegno
     nb: tegning
     nds: Teeknung
-    nds-nl: tekenen
+    nds_nl: tekenen
     nl: tekening
     nn: teikning
     oc: dessenh
@@ -223,7 +223,7 @@ dv_has_:
     pl: rysunek
     ps: انځورګري
     pt: desenho
-    pt-br: desenho
+    pt_br: desenho
     qu: siq'iy
     ro: desen
     ru: рисунок
@@ -236,21 +236,21 @@ dv_has_:
     sn: kutara
     sq: vizatim
     sr: цртеж
-    sr-ec: цртеж
-    sr-el: crtež
+    sr_ec: цртеж
+    sr_el: crtež
     stq: Teekenge
     sv: teckning
     sw: uchoraji
     ta: வரைதல்
     te: రేఖాచిత్రం
     tg: расм
-    tg-latn: rasmkaşida
+    tg_latn: rasmkaşida
     th: การวาดเส้น
     tl: pagguhit
     tly: təsvirkardeə sənət
     tr: çizim
     tt: рәсем
-    tt-cyrl: рәсем
+    tt_cyrl: рәсем
     uk: малюнок
     vec: dezegno
     vi: bản vẽ
@@ -259,14 +259,14 @@ dv_has_:
     yi: צייכענען
     yue: 素描
     zh: 素描
-    zh-cn: 素描
-    zh-hans: 素描
-    zh-hant: 素描
-    zh-hk: 素描
-    zh-mo: 素描
+    zh_cn: 素描
+    zh_hans: 素描
+    zh_hant: 素描
+    zh_hk: 素描
+    zh_mo: 素描
     zh-my: 素描
-    zh-sg: 素描
-    zh-tw: 素描
+    zh_sg: 素描
+    zh_tw: 素描
 ---
 # [[Drawing]] 
 

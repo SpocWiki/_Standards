@@ -43,7 +43,7 @@ dv_has_:
     oc: Gerrardina
     pl: Gerrardina
     pt: Gerrardina
-    pt-br: Gerrardina
+    pt_br: Gerrardina
     ro: Gerrardina
     ru: Gerrardina
     sq: Gerrardina
@@ -53,8 +53,8 @@ dv_has_:
     vo: Gerrardina
     war: Gerrardina
     zh: 柳红莓属
-    zh-cn: 柳红莓属
-    zh-tw: 柳紅莓屬
+    zh_cn: 柳红莓属
+    zh_tw: 柳紅莓屬
 ---
 ## [[Gerrardinaceae]] 
 

@@ -51,7 +51,7 @@ dv_has_:
     oc: Zygnematales
     pl: Zrostnicowce
     pt: Zygnematales
-    pt-br: Zygnematales
+    pt_br: Zygnematales
     ro: Zygnematales
     ru: Зигнемовые
     sq: Zygnematales
@@ -62,11 +62,11 @@ dv_has_:
     war: Zygnematales
     yue: 雙星藻目
     zh: 双星藻目
-    zh-cn: 双星藻目
-    zh-hans: 双星藻目
-    zh-hant: 雙星藻目
-    zh-hk: 雙星藻目
-    zh-tw: 雙星藻目
+    zh_cn: 双星藻目
+    zh_hans: 双星藻目
+    zh_hant: 雙星藻目
+    zh_hk: 雙星藻目
+    zh_tw: 雙星藻目
 ---
 -   Spirogyra (Zygnemataceae)
 -   Penium (Peniaceae)

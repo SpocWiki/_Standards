@@ -92,7 +92,7 @@ dv_has_:
     azb: الکترون ولت
     bar: Elektronenvolt
     be: электронвольт
-    be-tarask: электронвольт
+    be_tarask: электронвольт
     bg: електронволт
     bn: ইলেকট্রন-ভোল্ট
     bo: གློག་རྡུལ་ཝོལ།
@@ -106,8 +106,8 @@ dv_has_:
     de: Elektronenvolt
     el: ηλεκτρονιοβόλτ
     en: electronvolt
-    en-ca: Electronvolt
-    en-gb: electronvolt
+    en_ca: Electronvolt
+    en_gb: electronvolt
     eo: elektronvolto
     es: electronvoltio
     et: elektronvolt
@@ -150,7 +150,7 @@ dv_has_:
     pms: eletronvòlt
     pnb: الیکٹرون وولٹ
     pt: eletrão-volt
-    pt-br: elétron-volt
+    pt_br: elétron-volt
     ro: electronvolt
     ru: электронвольт
     scn: elettronvolt
@@ -161,7 +161,7 @@ dv_has_:
     smn: elektronvolttâ
     sq: Elektronvolti
     sr: електронволт
-    sr-ec: електронволт
+    sr_ec: електронволт
     sv: elektronvolt
     ta: இலத்திரன்வோல்ட்
     th: อิเล็กตรอนโวลต์

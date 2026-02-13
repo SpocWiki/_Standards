@@ -115,7 +115,7 @@ dv_has_:
     ary: إشعاع
     az: Şüalanma
     be: выпраменьванне
-    be-tarask: выпраменьваньне
+    be_tarask: выпраменьваньне
     bg: Лъчение
     bn: বিকিরণ
     bs: zračenje
@@ -126,11 +126,11 @@ dv_has_:
     cy: ymbelydredd
     da: stråling
     de: Strahlung
-    de-ch: Strahlung
+    de_ch: Strahlung
     el: ακτινοβολία
     en: radiation
-    en-ca: Radiation
-    en-gb: radiation
+    en_ca: Radiation
+    en_gb: radiation
     eo: radiado
     es: radiación
     et: kiirgus
@@ -172,7 +172,7 @@ dv_has_:
     mn: Цацраг туяа
     mr: किरणोत्सर्ग
     ms: sinaran
-    ms-arab: سينرن
+    ms_arab: سينرن
     my: ရေဒီယို သတ္တိကြွခြင်း
     nb: stråling
     ne: विकिरण
@@ -185,7 +185,7 @@ dv_has_:
     pms: Radiassion
     ps: وړانګه اچونه
     pt: radiação
-    pt-br: Radiação
+    pt_br: Radiação
     qu: Illanchay
     ro: Radiație
     ru: излучение
@@ -208,7 +208,7 @@ dv_has_:
     tl: Radiyasyon
     tr: Radyasyon
     tt: нурланыш
-    tt-cyrl: нурланыш
+    tt_cyrl: нурланыш
     udm: тылси лэзён
     uk: випромінення
     ur: اشعاع

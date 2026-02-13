@@ -158,7 +158,7 @@ dv_has_:
     azb: ابوبکر
     ba: Әбү Бәкер
     be: Абу Бакр
-    be-tarask: Абу Бакр
+    be_tarask: Абу Бакр
     bg: Абу Бакр
     bjn: Abu Bakar
     bn: আবু বকর ইবনে কুহাফা
@@ -230,7 +230,7 @@ dv_has_:
     pnb: ابو بکر
     ps: ابوبکر
     pt: Abacar
-    pt-br: Abacar
+    pt_br: Abacar
     ro: Abu-Bekr
     ru: Абу Бакр
     sco: Abu Bakr

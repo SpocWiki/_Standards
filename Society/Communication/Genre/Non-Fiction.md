@@ -104,7 +104,7 @@ dv_has_:
     ast: non ficción
     az: Qeyri-bədii
     be: нон-фікшн
-    be-tarask: нявыдумка
+    be_tarask: нявыдумка
     bn: অকাল্পনিক রচনা
     ca: no-ficció
     ceb: di piksiyon
@@ -115,8 +115,8 @@ dv_has_:
     de: Sachtext
     el: μη μυθοπλασία
     en: non-fiction
-    en-ca: non-fiction
-    en-gb: non-fiction
+    en_ca: non-fiction
+    en_gb: non-fiction
     eo: nefikcio
     es: no ficción
     eu: ez-fikzio
@@ -140,7 +140,7 @@ dv_has_:
     kw: fethyel
     mk: стручна литература
     ms: bukan cereka
-    ms-arab: بوکن چريک
+    ms_arab: بوکن چريک
     mt: nonfizzjoni
     nan: hui-hi-kò͘-lūi
     nb: sakprosa
@@ -152,7 +152,7 @@ dv_has_:
     pl: utwór niefikcjonalny
     pnb: غیر افسانوی ادب
     pt: não ficção
-    pt-br: não ficção
+    pt_br: não ficção
     ru: нон-фикшен
     sco: non-feection
     sl: stvarna literatura
@@ -164,7 +164,7 @@ dv_has_:
     tl: di-kathang isip
     tr: kurgusal olmayan
     tt: нон-фикшен
-    tt-cyrl: нон-фикшн
+    tt_cyrl: нон-фикшн
     uk: нон-фікшн
     ur: غیر افسانوی ادب
     vec: no-finsion
@@ -172,14 +172,14 @@ dv_has_:
     wa: prôze nén racontrece
     yue: 非虛構故仔
     zh: 非虛構作品
-    zh-cn: 非虚构作品
-    zh-hans: 非虚构作品
-    zh-hant: 非虛構作品
-    zh-hk: 非虛構作品
-    zh-mo: 非虛構作品
+    zh_cn: 非虚构作品
+    zh_hans: 非虚构作品
+    zh_hant: 非虛構作品
+    zh_hk: 非虛構作品
+    zh_mo: 非虛構作品
     zh-my: 非虚构作品
-    zh-sg: 非虚构作品
-    zh-tw: 非虛構作品
+    zh_sg: 非虚构作品
+    zh_tw: 非虛構作品
 ---
 # [[Non-Fiction]] 
 

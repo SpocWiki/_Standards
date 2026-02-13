@@ -173,7 +173,7 @@ dv_has_:
     az: ilah
     ba: илаһилыҡ
     be: бажаство
-    be-tarask: боскасьць
+    be_tarask: боскасьць
     bg: божество
     bi: Deiti
     bn: দেবতা
@@ -228,7 +228,7 @@ dv_has_:
     kn: ದೇವರು
     ko: 신
     ku: xwedawend
-    ku-latn: xwedawend
+    ku_latn: xwedawend
     kw: duwses
     la: divinitas
     lad: dio
@@ -260,7 +260,7 @@ dv_has_:
     pap: dios
     pl: bóstwo
     pt: deidade
-    pt-br: divindade
+    pt_br: divindade
     qu: dyus kay
     ro: divinitate
     ru: божество
@@ -274,8 +274,8 @@ dv_has_:
     sn: munamatwi
     sq: hyji
     sr: божанство
-    sr-ec: божанство
-    sr-el: božanstvo
+    sr_ec: божанство
+    sr_el: božanstvo
     st: molimo
     sv: gudom
     sw: miungu
@@ -283,7 +283,7 @@ dv_has_:
     szy: di'tu, dietu
     ta: தெய்வம்
     te: దేవత
-    tg-cyrl: илоҳият
+    tg_cyrl: илоҳият
     th: เทวภาพ
     tl: pagkadiyos
     tok: sewi
@@ -300,12 +300,12 @@ dv_has_:
     yo: òrìṣà
     yue: 神祇
     zh: 神
-    zh-cn: 神祇
-    zh-hans: 神祇
-    zh-hant: 神
-    zh-hk: 神祇
-    zh-sg: 神祇
-    zh-tw: 神
+    zh_cn: 神祇
+    zh_hans: 神祇
+    zh_hant: 神
+    zh_hk: 神祇
+    zh_sg: 神祇
+    zh_tw: 神
 ---
 # [[Deity]] 
 

@@ -80,7 +80,7 @@ dv_has_:
   name_:
     ar: المبرهنة الأساسية في الحسابيات
     ast: Teorema fundamental de l'aritmética
-    be-tarask: асноўная тэарэма арытмэтыкі
+    be_tarask: асноўная тэарэма арытмэтыкі
     bg: Основна теорема на аритметиката
     bn: পাটিগণিতের মৌলিক উপপাদ্য
     ca: teorema fonamental de l'aritmètica
@@ -127,7 +127,7 @@ dv_has_:
     pl: podstawowe twierdzenie arytmetyki
     pms: Teorema fondamental dl'aritmética
     pt: teorema fundamental da aritmética
-    pt-br: teorema fundamental da aritmética
+    pt_br: teorema fundamental da aritmética
     ro: Teorema fundamentală a aritmeticii
     ru: основная теорема арифметики
     scn: Tiurèma funnamintàli di l'arittimètica

@@ -150,7 +150,7 @@ dv_has_:
     ba: айырылышыу
     bcl: Diborsyo
     be: развод
-    be-tarask: развод
+    be_tarask: развод
     bg: Развод
     bjn: Sarak
     bn: বিবাহবিচ্ছেদ
@@ -166,7 +166,7 @@ dv_has_:
     de: Scheidung
     el: διαζύγιο
     en: divorce
-    en-gb: divorce
+    en_gb: divorce
     eo: divorco
     es: divorcio
     et: abielulahutus
@@ -192,11 +192,11 @@ dv_has_:
     ja: 離婚
     ka: განქორწინება
     kk: ажырасу
-    kk-arab: اجىراسۋشىلىق
+    kk_arab: اجىراسۋشىلىق
     kk-cn: اجىراسۋشىلىق
-    kk-cyrl: Ажырасушылық
+    kk_cyrl: Ажырасушылық
     kk-kz: Ажырасушылық
-    kk-latn: Ajıraswşılıq
+    kk_latn: Ajıraswşılıq
     kk-tr: Ajıraswşılıq
     kn: ವಿಚ್ಛೇದನ
     ko: 이혼
@@ -243,8 +243,8 @@ dv_has_:
     smn: näimi-iäránem
     sq: Divorci
     sr: развод
-    sr-ec: развод
-    sr-el: razvod
+    sr_ec: развод
+    sr_el: razvod
     sv: skilsmässa
     sw: Talaka
     ta: திருமண முறிவு
@@ -254,7 +254,7 @@ dv_has_:
     tl: Diborsiyo
     tr: boşanma
     tt: аерылышу
-    tt-cyrl: аерылышу
+    tt_cyrl: аерылышу
     uk: розлучення
     ur: طلاق
     uz: Nikohni bekor qilish
@@ -265,14 +265,14 @@ dv_has_:
     yi: גט
     yue: 離婚
     zh: 离婚
-    zh-cn: 离婚
-    zh-hans: 离婚
-    zh-hant: 離婚
-    zh-hk: 離婚
-    zh-mo: 離婚
+    zh_cn: 离婚
+    zh_hans: 离婚
+    zh_hant: 離婚
+    zh_hk: 離婚
+    zh_mo: 離婚
     zh-my: 离婚
-    zh-sg: 离婚
-    zh-tw: 離婚
+    zh_sg: 离婚
+    zh_tw: 離婚
 ---
 # [[Divorce]] 
 

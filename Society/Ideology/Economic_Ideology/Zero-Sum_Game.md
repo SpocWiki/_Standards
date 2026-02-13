@@ -102,10 +102,10 @@ dv_has_:
     sk: hra s nulovým súčtom
     sl: igra z ničelno vsoto
     sr: игра са нултом сумом
-    sr-ec: Нулта сума
-    sr-el: Nulta suma
+    sr_ec: Нулта сума
+    sr_el: Nulta suma
     sv: nollsummespel
-    tg-cyrl: Бозии ҷамъи сифр
+    tg_cyrl: Бозии ҷамъи сифр
     th: เกมที่ต้องมีแพ้-ชนะ
     tr: sıfır toplamlı oyun
     uk: ігри антагоністичні
@@ -113,13 +113,13 @@ dv_has_:
     vi: trò chơi có tổng bằng không
     yue: 零和博弈
     zh: 零和博弈
-    zh-cn: 零和博弈
-    zh-hans: 零和博弈
-    zh-hant: 零和博弈
-    zh-hk: 零和博弈
+    zh_cn: 零和博弈
+    zh_hans: 零和博弈
+    zh_hant: 零和博弈
+    zh_hk: 零和博弈
     zh-my: 零和博弈
-    zh-sg: 零和博弈
-    zh-tw: 零和博弈
+    zh_sg: 零和博弈
+    zh_tw: 零和博弈
 ---
 # [[Zero-Sum_Game]] 
 

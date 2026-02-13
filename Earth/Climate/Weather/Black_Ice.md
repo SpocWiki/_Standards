@@ -86,7 +86,7 @@ dv_has_:
     ar: جليد أسود
     ast: xelu negro
     be: галалёдзіца
-    be-tarask: галалёд
+    be_tarask: галалёд
     bg: Поледица
     bn: কালো বরফ
     ca: Glaç negre
@@ -95,8 +95,8 @@ dv_has_:
     da: sort is
     de: Glatteis
     en: black ice
-    en-ca: Black ice
-    en-gb: black ice
+    en_ca: Black ice
+    en_gb: black ice
     eo: Glatglacio
     es: hielo negro
     eu: izotz beltz
@@ -117,21 +117,21 @@ dv_has_:
     mk: Поледица
     ml: ബ്ലാക്ക് ഐസ്
     nb: underkjølt regn
-    nds-nl: iesel
+    nds_nl: iesel
     nl: wintergladheid
     nn: underkjølt regn
     oc: Glaç negre
     pl: gołoledź
     pt: chuva congelada
-    pt-br: Chuva congelada
+    pt_br: Chuva congelada
     ro: Ploaie înghețată
     ru: гололедица
     sah: Килэҥ
     sgs: Plikšals
     sl: Poledica
     sr: Поледица
-    sr-ec: Поледица
-    sr-el: Poledica
+    sr_ec: Поледица
+    sr_el: Poledica
     sv: kärnis
     szl: Glata
     ta: கரும் பனி
@@ -141,12 +141,12 @@ dv_has_:
     vi: Băng đen
     yue: 黑冰
     zh: 冻雨
-    zh-cn: 冻雨
-    zh-hans: 黑冰
-    zh-hant: 凍雨
-    zh-hk: 凍雨
-    zh-sg: 冻雨
-    zh-tw: 凍雨
+    zh_cn: 冻雨
+    zh_hans: 黑冰
+    zh_hant: 凍雨
+    zh_hk: 凍雨
+    zh_sg: 冻雨
+    zh_tw: 凍雨
 ---
 # [[Black_Ice]] 
 

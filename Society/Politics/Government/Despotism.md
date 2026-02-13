@@ -74,7 +74,7 @@ dv_has_:
     az: Despotizm
     azb: دسپوتیزم
     be: Дэспатызм
-    be-tarask: дэспатызм
+    be_tarask: дэспатызм
     bg: Деспотизъм
     bn: যথেচ্ছাচারী স্বৈরতন্ত্র
     bxr: Деспотизм
@@ -104,11 +104,11 @@ dv_has_:
     ja: 独裁主義
     ka: დესპოტიზმი
     kk: Деспотизм
-    kk-arab: دەسپوتىيزم
+    kk_arab: دەسپوتىيزم
     kk-cn: دەسپوتىيزم
-    kk-cyrl: Деспотизм
+    kk_cyrl: Деспотизм
     kk-kz: Деспотизм
-    kk-latn: Despotïzm
+    kk_latn: Despotïzm
     kk-tr: Despotïzm
     ko: 전제주의
     ku: Despotîzm
@@ -131,8 +131,8 @@ dv_has_:
     sl: despotizem
     sq: despotism
     sr: Деспотизам
-    sr-ec: деспотизам
-    sr-el: despotizam
+    sr_ec: деспотизам
+    sr_el: despotizam
     sv: despotism
     ta: சா்வாதிகார ஆட்சி
     th: ระบบใช้อำนาจเด็ดขาด
@@ -143,12 +143,12 @@ dv_has_:
     xmf: დესპოტიზმი
     yue: 專制政體
     zh: 专制主义
-    zh-cn: 专制主义
-    zh-hans: 专制主义
-    zh-hant: 專制主義
-    zh-hk: 專制主義
-    zh-sg: 专制主义
-    zh-tw: 專制主義
+    zh_cn: 专制主义
+    zh_hans: 专制主义
+    zh_hant: 專制主義
+    zh_hk: 專制主義
+    zh_sg: 专制主义
+    zh_tw: 專制主義
 ---
 # [[Despotism]] 
 

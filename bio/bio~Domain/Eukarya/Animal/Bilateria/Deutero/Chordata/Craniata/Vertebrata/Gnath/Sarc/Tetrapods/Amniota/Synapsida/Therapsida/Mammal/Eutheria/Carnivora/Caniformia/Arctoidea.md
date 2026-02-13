@@ -37,7 +37,7 @@ dv_has_:
     oc: Arctoidea
     pl: Arctoidea
     pt: Arctoidea
-    pt-br: Arctoidea
+    pt_br: Arctoidea
     ro: Arctoidea
     ru: Arctoidea
     sco: Arctoidea
@@ -52,11 +52,11 @@ dv_has_:
     vo: Arctoidea
     war: Arctoidea
     zh: 熊型下目
-    zh-cn: 熊型下目
-    zh-hans: 熊型下目
-    zh-hant: 熊型總科
-    zh-hk: 熊型總科
-    zh-tw: 熊型下目
+    zh_cn: 熊型下目
+    zh_hans: 熊型下目
+    zh_hant: 熊型總科
+    zh_hk: 熊型總科
+    zh_tw: 熊型下目
 aliases:
 - Arctoidea
 - Arctoïdeus

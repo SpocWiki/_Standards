@@ -81,7 +81,7 @@ dv_has_:
     ast: oboe
     az: qoboy
     be: габой
-    be-tarask: габой
+    be_tarask: габой
     bg: обой
     br: oboell
     bs: oboa
@@ -151,8 +151,8 @@ dv_has_:
     sms: oboe
     sq: oboa
     sr: обоа
-    sr-ec: обоа
-    sr-el: oboa
+    sr_ec: обоа
+    sr_el: oboa
     stq: Oboe
     sv: oboe
     ta: ஓபோ
@@ -165,9 +165,9 @@ dv_has_:
     wuu: 双簧管
     yue: 雙簧管
     zh: 雙簧管
-    zh-hant: 雙簧管
-    zh-hk: 雙簧管
-    zh-tw: 雙簧管
+    zh_hant: 雙簧管
+    zh_hk: 雙簧管
+    zh_tw: 雙簧管
 ---
 # [[Oboe]] 
 

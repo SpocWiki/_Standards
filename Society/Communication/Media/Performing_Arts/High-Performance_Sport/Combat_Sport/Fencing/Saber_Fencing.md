@@ -45,7 +45,7 @@ dv_has_:
   name_:
     ar: مبارزة سلاح السيف
     ba: ҡылыс
-    be-tarask: спартовая шабля
+    be_tarask: спартовая шабля
     bg: Сабя
     ca: sabre
     de: Säbelfechten
@@ -79,11 +79,11 @@ dv_has_:
     xal: Селм
     yue: 佩劍
     zh: 軍刀
-    zh-cn: 佩剑
-    zh-hans: 军刀
-    zh-hant: 軍刀
-    zh-hk: 佩劍
-    zh-sg: 佩剑
+    zh_cn: 佩剑
+    zh_hans: 军刀
+    zh_hant: 軍刀
+    zh_hk: 佩劍
+    zh_sg: 佩剑
 ---
 # [[Saber_Fencing]] 
 

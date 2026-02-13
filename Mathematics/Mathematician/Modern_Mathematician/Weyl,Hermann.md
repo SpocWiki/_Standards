@@ -191,7 +191,7 @@ dv_has_:
     az: Herman Veyl
     azb: هرمان ویل
     be: Герман Вейль
-    be-tarask: Гэрман Вайль
+    be_tarask: Гэрман Вайль
     bg: Херман Вайл
     bn: হের্মান ভাইল
     bs: Hermann Weyl
@@ -203,8 +203,8 @@ dv_has_:
     de: Hermann Weyl
     el: Χέρμαν Βάυλ
     en: Hermann Weyl
-    en-ca: Hermann Weyl
-    en-gb: Hermann Weyl
+    en_ca: Hermann Weyl
+    en_gb: Hermann Weyl
     eo: Hermann Weyl
     es: Hermann Weyl
     et: Hermann Weyl
@@ -241,7 +241,7 @@ dv_has_:
     pl: Hermann Weyl
     pms: Hermann Weyl
     pt: Hermann Weyl
-    pt-br: Hermann Weyl
+    pt_br: Hermann Weyl
     rm: Hermann Weyl
     ru: Герман Вейль
     scn: Hermann Weyl
@@ -262,7 +262,7 @@ dv_has_:
     yi: הערמאן ווייל
     yue: 赫爾曼·外爾
     zh: 赫尔曼·外尔
-    zh-hant: 赫爾曼·外爾
+    zh_hant: 赫爾曼·外爾
 ---
 # [[Weyl,Hermann]] 
 

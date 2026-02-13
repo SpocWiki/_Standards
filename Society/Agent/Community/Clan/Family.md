@@ -274,7 +274,7 @@ dv_has_:
     bcl: pamilya
     bdr: keluarga
     be: сям’я
-    be-tarask: сям’я
+    be_tarask: сям’я
     bew: kuarga
     bg: семейство
     blk: လမ်းသားခြွဉ်း
@@ -298,15 +298,15 @@ dv_has_:
     dag: daŋ
     de: Familie
     de-at: Familie
-    de-ch: Familie
+    de_ch: Familie
     diq: keye
     dtp: paganakan
     dv: އާއިލާ
     el: οικογένεια
     eml: famìia
     en: family
-    en-ca: family
-    en-gb: family
+    en_ca: family
+    en_gb: family
     en-us: family
     eo: familio
     es: familia
@@ -370,7 +370,7 @@ dv_has_:
     ks: عَیال
     ksh: Famelisch
     ku: malbat
-    ku-latn: malbat
+    ku_latn: malbat
     kw: teylu
     ky: үй-бүлө
     la: familia
@@ -397,7 +397,7 @@ dv_has_:
     mnw: သ္ၚိကၟိန်
     mr: कुटुंब
     ms: keluarga
-    ms-arab: کلوارݢ
+    ms_arab: کلوارݢ
     mwl: familha
     my: မိသားစု
     myv: кудораське
@@ -405,7 +405,7 @@ dv_has_:
     nan: ka-cho̍k
     nb: familie
     nds: Familie
-    nds-nl: femilie
+    nds_nl: femilie
     ne: नातिनी
     nl: familie
     nn: familie
@@ -426,7 +426,7 @@ dv_has_:
     pnt: φαμελία
     ps: کورنۍ
     pt: família
-    pt-br: família
+    pt_br: família
     pwn: kinacemkeljan
     qu: ayllu
     rn: umuryango
@@ -450,7 +450,7 @@ dv_has_:
     so: qoys
     sq: familja
     sr: породица
-    sr-ec: породица
+    sr_ec: породица
     ss: umndeni
     su: kulawarga
     sv: släkt
@@ -468,8 +468,8 @@ dv_has_:
     tr: aile
     ts: ndyangu
     tt: гаилә
-    tt-cyrl: гаилә
-    tt-latn: ğäilä
+    tt_cyrl: гаилә
+    tt_latn: ğäilä
     tw: abusua
     udm: семья
     ug: ئائىلە
@@ -489,14 +489,14 @@ dv_has_:
     yo: ẹbí
     yue: 家
     zh: 家庭
-    zh-cn: 家庭
-    zh-hans: 家庭
-    zh-hant: 家庭
-    zh-hk: 家庭
-    zh-mo: 家庭
+    zh_cn: 家庭
+    zh_hans: 家庭
+    zh_hant: 家庭
+    zh_hk: 家庭
+    zh_mo: 家庭
     zh-my: 家庭
-    zh-sg: 家庭
-    zh-tw: 家庭
+    zh_sg: 家庭
+    zh_tw: 家庭
 ---
 # [[Family]] 👪 
 

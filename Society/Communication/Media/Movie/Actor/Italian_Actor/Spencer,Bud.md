@@ -32,7 +32,7 @@ dv_has_:
     az: Bad Spenser
     bar: Bud Spencer
     be: Бад Спенсер
-    be-tarask: Бад Спэнсэр
+    be_tarask: Бад Спэнсэр
     bg: Бъд Спенсър
     bm: Bud Spencer
     br: Bud Spencer
@@ -46,13 +46,13 @@ dv_has_:
     dag: Bud Spencer
     de: Bud Spencer
     de-at: Bud Spencer
-    de-ch: Bud Spencer
+    de_ch: Bud Spencer
     dsb: Bud Spencer
     el: Μπαντ Σπένσερ
     eml: Bud Spencer
     en: Bud Spencer
-    en-ca: Bud Spencer
-    en-gb: Bud Spencer
+    en_ca: Bud Spencer
+    en_gb: Bud Spencer
     eo: Bud Spencer
     es: Bud Spencer
     et: Bud Spencer
@@ -103,7 +103,7 @@ dv_has_:
     nap: Bud Spencer
     nb: Bud Spencer
     nds: Bud Spencer
-    nds-nl: Bud Spencer
+    nds_nl: Bud Spencer
     nl: Bud Spencer
     nn: Bud Spencer
     nrm: Bud Spencer
@@ -126,8 +126,8 @@ dv_has_:
     sl: Bud Spencer
     sq: Bud Spencer
     sr: Бад Спенсер
-    sr-ec: Бад Спенсер
-    sr-el: Bad Spenser
+    sr_ec: Бад Спенсер
+    sr_el: Bad Spenser
     sv: Bud Spencer
     sw: Bud Spencer
     th: บัด สเปนเซอร์
@@ -149,7 +149,7 @@ dv_has_:
     yo: Bud Spencer
     yue: 畢史賓沙
     zh: 布德·斯藩塞
-    zh-hant: 畢·史賓沙
+    zh_hant: 畢·史賓沙
     zu: Bud Spencer
 ---
 #has_/time_/started :: 1929-10-31  

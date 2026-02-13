@@ -207,14 +207,14 @@ dv_has_:
     bar: Robin Williams
     bcl: Robin Williams
     be: Робін Уільямс
-    be-tarask: Робін Ўільямз
+    be_tarask: Робін Ўільямз
     bg: Робин Уилямс
     bi: Robin Williams
     bn: রবিন উইলিয়ামস
     br: Robin Williams
     bs: Robin Williams
     ca: Robin Williams
-    cbk-zam: Robin Williams
+    cbk_zam: Robin Williams
     ceb: Robin Williams
     ckb: ڕۆبن ویلیامز
     co: Robin Williams
@@ -223,14 +223,14 @@ dv_has_:
     da: Robin Williams
     de: Robin Williams
     de-at: Robin Williams
-    de-ch: Robin Williams
+    de_ch: Robin Williams
     diq: Robin Williams
     dsb: Robin Williams
     el: Ρόμπιν Ουίλιαμς
     eml: Robin Williams
     en: Robin Williams
-    en-ca: Robin Williams
-    en-gb: Robin Williams
+    en_ca: Robin Williams
+    en_gb: Robin Williams
     eo: Robin Williams
     es: Robin Williams
     et: Robin Williams
@@ -286,7 +286,7 @@ dv_has_:
     lmo: Robin Williams
     lt: Robin Williams
     lv: Robins Viljamss
-    map-bms: Robin Williams
+    map_bms: Robin Williams
     mg: Robin Williams
     min: Robin Williams
     mk: Робин Вилијамс
@@ -303,7 +303,7 @@ dv_has_:
     nap: Robin Williams
     nb: Robin Williams
     nds: Robin Williams
-    nds-nl: Robin Williams
+    nds_nl: Robin Williams
     nl: Robin Williams
     nn: Robin Williams
     nrm: Robin Williams
@@ -316,7 +316,7 @@ dv_has_:
     pms: Robin Williams
     pnb: رابن ولیمز
     pt: Robin Williams
-    pt-br: Robin Williams
+    pt_br: Robin Williams
     qu: Robin Williams
     rm: Robin Williams
     rmy: Robin Williams
@@ -333,7 +333,7 @@ dv_has_:
     sl: Robin Williams
     sq: Robin Williams
     sr: Робин Вилијамс
-    sr-el: Robin Williams
+    sr_el: Robin Williams
     su: Robin Williams
     sv: Robin Williams
     sw: Robin Williams
@@ -346,7 +346,7 @@ dv_has_:
     tpi: Robin Williams
     tr: Robin Williams
     tt: Робин Уилиамс
-    tt-cyrl: Робин Уилиамс
+    tt_cyrl: Робин Уилиамс
     uk: Робін Вільямс
     ur: رابن ولیمز
     uz: Robin Williams
@@ -363,13 +363,13 @@ dv_has_:
     yo: Robin Williams
     yue: 羅賓威廉斯
     zh: 羅賓·威廉斯
-    zh-cn: 罗宾·威廉姆斯
-    zh-hans: 罗宾·威廉姆斯
-    zh-hant: 羅賓·威廉斯
-    zh-hk: 羅賓威廉斯
+    zh_cn: 罗宾·威廉姆斯
+    zh_hans: 罗宾·威廉姆斯
+    zh_hant: 羅賓·威廉斯
+    zh_hk: 羅賓威廉斯
     zh-my: 罗宾·威廉斯
-    zh-sg: 罗宾·威廉斯
-    zh-tw: 羅賓·威廉斯
+    zh_sg: 罗宾·威廉斯
+    zh_tw: 羅賓·威廉斯
     zu: Robin Williams
 ---
 # [[[Williams,Robin]]

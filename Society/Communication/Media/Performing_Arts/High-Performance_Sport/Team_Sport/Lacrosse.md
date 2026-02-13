@@ -76,7 +76,7 @@ dv_has_:
     ast: Lacrosse
     az: Lakros
     ba: Лакросс
-    be-tarask: лякрос
+    be_tarask: лякрос
     bg: Лакрос
     ca: lacrosse
     cs: lakros
@@ -127,8 +127,8 @@ dv_has_:
     sk: Lakros
     sl: lakros
     sr: лакрос
-    sr-ec: лакрос
-    sr-el: lakros
+    sr_ec: лакрос
+    sr_el: lakros
     sv: lacrosse
     sw: Lacrosse ya wanaume
     tg: Лакрос
@@ -140,12 +140,12 @@ dv_has_:
     vi: bóng vợt
     yue: 棍網球
     zh: 袋棍球
-    zh-cn: 棍网球
-    zh-hans: 棍网球
-    zh-hant: 袋棍球
-    zh-hk: 棍網球
-    zh-sg: 棍网球
-    zh-tw: 袋棍球
+    zh_cn: 棍网球
+    zh_hans: 棍网球
+    zh_hant: 袋棍球
+    zh_hk: 棍網球
+    zh_sg: 棍网球
+    zh_tw: 袋棍球
 ---
 # [[Lacrosse]] 
 

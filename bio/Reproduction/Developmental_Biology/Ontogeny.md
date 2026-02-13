@@ -65,7 +65,7 @@ dv_has_:
     ast: Ontogenia
     az: ontogenez
     be: антагенез
-    be-tarask: онтагенэз
+    be_tarask: онтагенэз
     bg: Онтогенеза
     bs: Ontogeneza
     ca: ontogènia
@@ -75,8 +75,8 @@ dv_has_:
     diq: Ontoceniye
     el: οντογένεση
     en: ontogeny
-    en-ca: Ontogeny
-    en-gb: Ontogeny
+    en_ca: Ontogeny
+    en_gb: Ontogeny
     eo: Individugenezo
     es: ontogenia
     et: ontogenees
@@ -95,24 +95,24 @@ dv_has_:
     ka: ონტოგენეზი
     kaa: Ontogenez
     kk: Онтогонез
-    kk-arab: ونتوگونەز
+    kk_arab: ونتوگونەز
     kk-cn: ونتوگونەز
-    kk-cyrl: Онтогонез
+    kk_cyrl: Онтогонез
     kk-kz: Онтогонез
-    kk-latn: Ontogonez
+    kk_latn: Ontogonez
     kk-tr: Ontogonez
     ky: Онтогенез
     lv: ontoģenēze
     mk: онтогенеза
     ms: ontogeni
-    ms-arab: اونتوݢيني
+    ms_arab: اونتوݢيني
     nb: ontogenese
     nds: Ontogenese
     nl: ontwikkelingsfysiologie
     nn: ontogeni
     pl: ontogeneza
     pt: ontogenia
-    pt-br: Ontogenia
+    pt_br: Ontogenia
     ru: онтогенез
     rue: Онтогенеза
     sc: Ontogènesi
@@ -120,8 +120,8 @@ dv_has_:
     sk: Ontogenéza
     sl: ontogenija
     sr: онтогенетско развиће
-    sr-ec: Онтогенетско развиће
-    sr-el: Ontogenetsko razviće
+    sr_ec: Онтогенетско развиће
+    sr_el: Ontogenetsko razviće
     sv: ontogeni
     tg: Онтогенез
     tr: ontojeni
@@ -131,12 +131,12 @@ dv_has_:
     vi: phát triển cá thể
     yue: 個體發生學
     zh: 個體發生學
-    zh-cn: 个体发生学
-    zh-hans: 个体发生学
-    zh-hant: 個體發生學
-    zh-hk: 個體發生學
-    zh-sg: 个体发生学
-    zh-tw: 個體發生學
+    zh_cn: 个体发生学
+    zh_hans: 个体发生学
+    zh_hant: 個體發生學
+    zh_hk: 個體發生學
+    zh_sg: 个体发生学
+    zh_tw: 個體發生學
 ---
 # [[Ontogeny]] 
 

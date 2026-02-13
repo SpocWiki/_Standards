@@ -133,7 +133,7 @@ dv_has_:
     az: Luis Bunyuel
     bar: Luis Buñuel
     be: Луіс Буньюэль
-    be-tarask: Люіс Бунюэль
+    be_tarask: Люіс Бунюэль
     bg: Луис Бунюел
     bn: লুইস বুনিউয়েল
     bs: Luis Buñuel
@@ -186,7 +186,7 @@ dv_has_:
     pap: Luis Buñuel
     pl: Luis Buñuel
     pt: Luis Buñuel
-    pt-br: Luis Buñuel
+    pt_br: Luis Buñuel
     qu: Luis Buñuel
     ro: Luis Buñuel
     ru: Луис Бунюэль
@@ -207,7 +207,7 @@ dv_has_:
     wuu: 路易斯·布努埃尔
     yue: 路易士·布紐爾
     zh: 路易斯·布努埃尔
-    zh-hant: 路易斯·布紐爾
+    zh_hant: 路易斯·布紐爾
     zh-my: 路易斯·布纽尔
 ---
 # [[Buñuel,Luis]] 

@@ -138,7 +138,7 @@ dv_has_:
     azb: کره
     ba: сфера
     be: сфера
-    be-tarask: сфэра
+    be_tarask: сфэра
     bg: сфера
     bho: गोला
     bn: গোলক
@@ -153,7 +153,7 @@ dv_has_:
     de: Kugel
     el: σφαίρα
     en: sphere
-    en-ca: sphere
+    en_ca: sphere
     eo: sfero
     es: esfera
     et: sfäär
@@ -198,7 +198,7 @@ dv_has_:
     ml: ഗോളം
     mn: бөмбөлөг
     ms: sfera
-    ms-arab: سفيرا
+    ms_arab: سفيرا
     my: စက်လုံး
     nan: kiû-bīn
     nb: kule
@@ -212,7 +212,7 @@ dv_has_:
     pl: sfera
     pms: sfera
     pt: esfera
-    pt-br: esfera
+    pt_br: esfera
     qu: lunq'u
     ro: sferă
     rsk: лабда
@@ -228,7 +228,7 @@ dv_has_:
     so: kubad
     sq: sferë
     sr: сфера
-    sr-ec: сфера
+    sr_ec: сфера
     su: buleudan
     sv: sfär
     sw: tufe
@@ -248,7 +248,7 @@ dv_has_:
     wuu: 球面
     yue: 球 (幾何)
     zh: 球面
-    zh-hant: 球面
+    zh_hant: 球面
 ---
 # [[Sphere]] 
 

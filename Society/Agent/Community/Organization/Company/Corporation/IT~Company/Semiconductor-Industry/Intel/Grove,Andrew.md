@@ -77,7 +77,7 @@ dv_has_:
     pap: Andrew Grove
     pl: Andrew Grove
     pt: Andrew Grove
-    pt-br: Andrew Grove
+    pt_br: Andrew Grove
     ro: Andrew S. Grove
     ru: Эндрю Гроув
     sl: Andrew Grove
@@ -87,12 +87,12 @@ dv_has_:
     tr: Andrew Grove
     uk: Ендрю Гроув
     zh: 安迪·葛洛夫
-    zh-cn: 安迪·葛洛夫
-    zh-hans: 安迪·葛洛夫
-    zh-hant: 安迪·葛洛夫
-    zh-hk: 安迪·葛洛夫
-    zh-sg: 安迪·葛洛夫
-    zh-tw: 安迪·葛洛夫
+    zh_cn: 安迪·葛洛夫
+    zh_hans: 安迪·葛洛夫
+    zh_hant: 安迪·葛洛夫
+    zh_hk: 安迪·葛洛夫
+    zh_sg: 安迪·葛洛夫
+    zh_tw: 安迪·葛洛夫
 ---
 #has_/time_/started :: 1936-09-02 
 #has_/time_/stopped  :: 2016-03-21 

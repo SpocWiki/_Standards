@@ -176,7 +176,7 @@ dv_has_:
     azb: ولادیمیر ویسوتسکی
     ba: Высоцкий Владимир Семёнович
     be: Уладзімір Сямёнавіч Высоцкі
-    be-tarask: Уладзімер Высоцкі
+    be_tarask: Уладзімер Высоцкі
     bg: Владимир Висоцки
     bjn: Vladimir Vysotsky
     br: Vladimir Vysotsky
@@ -190,11 +190,11 @@ dv_has_:
     cy: Vladimir Vysotsky
     da: Vladimir Vysotskij
     de: Wladimir Semjonowitsch Wyssozki
-    de-ch: Wladimir Semjonowitsch Wyssozki
+    de_ch: Wladimir Semjonowitsch Wyssozki
     el: Βλαντίμιρ Βισότσκι
     en: Vladimir Vysotsky
-    en-ca: Vladimir Vysotsky
-    en-gb: Vladimir Vysotsky
+    en_ca: Vladimir Vysotsky
+    en_gb: Vladimir Vysotsky
     eo: Vladimir Visockij
     es: Vladimir Vysotsky
     et: Vladimir Võssotski
@@ -231,7 +231,7 @@ dv_has_:
     lb: Wladimir Semjonowitsch Wyssozki
     lt: Vladimiras Vysockis
     lv: Vladimirs Visockis
-    map-bms: Vladimir Vysotsky
+    map_bms: Vladimir Vysotsky
     mdf: Олодимэр Высоцкий
     mg: Vladimir Vysotsky
     mhr: Высоцкий, Владимир Семёнович
@@ -252,7 +252,7 @@ dv_has_:
     pms: Vladimir Vysockij
     pnb: ولادیمیر وائسوٹسکی
     pt: Vladimir Vysotsky
-    pt-br: Vladimir Vysotsky
+    pt_br: Vladimir Vysotsky
     ro: Vladimir Vîsoțki
     ru: Владимир Высоцкий
     rue: Володимир Высоцькый

@@ -74,18 +74,18 @@ dv_has_:
     ar: تسجيل الصوت وإعادة إنتاجه
     ast: Grabación y reproducción de soníu
     be: гуказапіс
-    be-tarask: гуказапіс
+    be_tarask: гуказапіс
     bg: Звукозапис
     bn: শব্দ ধারণের প্রক্রিয়া
     ca: enregistrament i reproducció del so
     cs: zvukový záznam
     da: lydoptagelse
     de: Tonaufnahme
-    de-ch: Tontechnik
+    de_ch: Tontechnik
     el: Ηχογράφηση
     en: sound recording process
-    en-ca: sound recording and reproduction
-    en-gb: sound recording and reproduction
+    en_ca: sound recording and reproduction
+    en_gb: sound recording and reproduction
     eo: sonregistrado
     es: grabación de sonido
     et: Helisalvestus
@@ -111,26 +111,26 @@ dv_has_:
     nn: lydopptak
     pl: nagrywanie dźwięku
     pt: gravação e reprodução sonora
-    pt-br: processo de gravação sonora
+    pt_br: processo de gravação sonora
     ro: înregistrare sonoră
     ru: запись звука
     sh: Snimanje i reprodukcija zvuka
     sl: proces snemanja zvoka
     sr: звучни запис
-    sr-ec: звучни запис
-    sr-el: zvučni zapis
+    sr_ec: звучни запис
+    sr_el: zvučni zapis
     sv: ljudinspelning
     th: การบันทึกเสียง
     tr: Ses kaydı
     tt: тавыш яздыру
-    tt-cyrl: тавыш яздыру
+    tt_cyrl: тавыш яздыру
     uk: звукозапис
     ur: تسجیل و نوپیداوارِ صوت
     vec: rezistrasion del sóno
     war: Paghipos han mga tingog ngan pagpadamo
     yue: 錄音
     zh: 录音过程
-    zh-hant: 錄音
+    zh_hant: 錄音
 ---
 # [[Sound_Recording_Process]] 
 

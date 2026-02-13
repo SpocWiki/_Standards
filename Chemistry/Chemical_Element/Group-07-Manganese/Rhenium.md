@@ -152,7 +152,7 @@ dv_has_:
     ban: Rhénium
     bcl: Renyo
     be: рэній
-    be-tarask: Рэн
+    be_tarask: Рэн
     bg: рений
     bho: रेनियम
     bn: রিনিয়াম
@@ -246,7 +246,7 @@ dv_has_:
     pnb: رہینیم
     ps: رېنيوم
     pt: rénio
-    pt-br: rênio
+    pt_br: rênio
     qu: Renyu
     ro: reniu
     ru: рений
@@ -262,7 +262,7 @@ dv_has_:
     so: Reheniyaam
     sq: Rheniumi
     sr: ренијум
-    sr-ec: Ренијум
+    sr_ec: Ренијум
     stq: Renium
     sv: rhenium
     sw: Reni
@@ -287,8 +287,8 @@ dv_has_:
     yo: Rhenium
     yue: 錸
     zh: 铼
-    zh-hant: 錸
-    zh-tw: 錸
+    zh_hant: 錸
+    zh_tw: 錸
     zu: UMlenembi
   number_of_:
     period: 6

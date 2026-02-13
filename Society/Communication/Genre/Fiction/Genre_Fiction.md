@@ -52,13 +52,13 @@ dv_has_:
     ar: خيال النوع
     ast: lliteratura de xéneru
     ba: жанр әҙәбиәте
-    be-tarask: жанравая літаратура
+    be_tarask: жанравая літаратура
     ca: novel·la de gènere
     ckb: چەشنی خەیاڵ
     cs: žánrová literatura
     en: genre fiction
-    en-ca: genre fiction
-    en-gb: genre fiction
+    en_ca: genre fiction
+    en_gb: genre fiction
     es: literatura de género
     eu: generoko literatura
     fa: ادبیات عامهپسند
@@ -78,11 +78,11 @@ dv_has_:
     nl: genrefictie
     pa: ਵਿਧਾ ਗਲਪ
     pl: Literatura popularna
-    pt-br: gênero de ficção
+    pt_br: gênero de ficção
     ru: жанровая литература
     sl: žanrska književnost
     sr: жанровска фикција
-    sr-el: žanrovska fikcija
+    sr_el: žanrovska fikcija
     sv: genrelitteratur
     tr: kurgusal tarz
     uk: жанрова література
@@ -90,8 +90,8 @@ dv_has_:
     yi: ליטערארישע זשאנער
     yue: 大眾文學
     zh: 暢銷小說
-    zh-hant: 大眾文學
-    zh-tw: 大眾文學
+    zh_hant: 大眾文學
+    zh_tw: 大眾文學
 ---
 # [[Genre_Fiction]] 
 

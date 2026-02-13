@@ -267,7 +267,7 @@ dv_has_:
     az: Beynəlxalq Kosmik Stansiya
     ban: Stasiun Antariksa Internasional
     be: Міжнародная касмічная станцыя
-    be-tarask: Міжнародная касьмічная станцыя
+    be_tarask: Міжнародная касьмічная станцыя
     bg: Международна космическа станция
     bho: इंटरनेशनल स्पेस इस्टेशन
     bjn: Satasiun Luar Udara Antarabangsa
@@ -280,12 +280,12 @@ dv_has_:
     cy: Gorsaf Ofod Ryngwladol
     da: Den Internationale Rumstation
     de: Internationale Raumstation
-    de-ch: Internationale Raumstation
+    de_ch: Internationale Raumstation
     diq: İstasyonê Fezayiyo Enternasyonal
     el: Διεθνής Διαστημικός Σταθμός
     en: International Space Station
-    en-ca: International Space Station
-    en-gb: International Space Station
+    en_ca: International Space Station
+    en_gb: International Space Station
     eo: Internacia Kosmostacio
     es: Estación Espacial Internacional
     et: Rahvusvaheline kosmosejaam
@@ -343,7 +343,7 @@ dv_has_:
     pnb: بین الاقوامی خلائی سٹیشن
     ps: نړېوال تشيال تمځای
     pt: Estação Espacial Internacional
-    pt-br: Estação Espacial Internacional
+    pt_br: Estação Espacial Internacional
     rmy: Jegeya'Ator
     ro: Stația Spațială Internațională
     ru: Международная космическая станция
@@ -363,7 +363,7 @@ dv_has_:
     ta: அனைத்துலக விண்வெளி நிலையம்
     te: అంతర్జాతీయ అంతరిక్ష కేంద్రం
     tg: Истгоҳи байналмилалии кайҳонӣ
-    tg-latn: Istgohi baynalmilalii kayhonī
+    tg_latn: Istgohi baynalmilalii kayhonī
     th: สถานีอวกาศนานาชาติ
     tl: International Space Station
     tr: Uluslararası Uzay İstasyonu
@@ -381,14 +381,14 @@ dv_has_:
     yo: Ibùdó Òfurufú Akáríayé
     yue: 國際太空站
     zh: 国际空间站
-    zh-cn: 国际空间站
-    zh-hans: 国际空间站
-    zh-hant: 國際空間站
-    zh-hk: 國際太空站
-    zh-mo: 國際太空站
+    zh_cn: 国际空间站
+    zh_hans: 国际空间站
+    zh_hant: 國際空間站
+    zh_hk: 國際太空站
+    zh_mo: 國際太空站
     zh-my: 国际太空站
-    zh-sg: 国际空间站
-    zh-tw: 國際太空站
+    zh_sg: 国际空间站
+    zh_tw: 國際太空站
     zu: Isigculo Sasemkhathini Samazwe
 ---
 # [[ISS(International_Space_Station)]] 

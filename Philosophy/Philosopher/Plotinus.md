@@ -105,7 +105,7 @@ dv_has_:
     ast: Plotino
     az: Plotin
     be: Плацін
-    be-tarask: Плятын
+    be_tarask: Плятын
     bg: Плотин
     bn: প্লোতিনোস
     bo: ཕི་ལོ་ཋི་ནཱ་ཟི།
@@ -163,7 +163,7 @@ dv_has_:
     pl: Plotyn
     ps: پلوتين
     pt: Plotino
-    pt-br: Plotino
+    pt_br: Plotino
     qu: Pulutinu
     ro: Plotin
     ru: Плотин
@@ -172,8 +172,8 @@ dv_has_:
     sl: Plotin
     sq: Plotini
     sr: Плотин
-    sr-ec: Плотин
-    sr-el: Plotin
+    sr_ec: Плотин
+    sr_el: Plotin
     sv: Plotinos
     sw: Plotinus
     te: ప్లాటినస్
@@ -187,12 +187,12 @@ dv_has_:
     wuu: 普罗提诺
     yue: 柏羅丁
     zh: 普罗提诺
-    zh-cn: 普罗提诺
+    zh_cn: 普罗提诺
     zh-hans: 普罗提诺
-    zh-hant: 普羅提諾
-    zh-hk: 普羅提諾
-    zh-sg: 普罗提诺
-    zh-tw: 普羅提諾
+    zh_hant: 普羅提諾
+    zh_hk: 普羅提諾
+    zh_sg: 普罗提诺
+    zh_tw: 普羅提諾
 ---
 # [[Plotinus]] 
 

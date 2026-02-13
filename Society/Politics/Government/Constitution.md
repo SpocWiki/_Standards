@@ -204,7 +204,7 @@ dv_has_:
     azb: آنایاسا
     ba: конституция
     be: канстытуцыя
-    be-tarask: канстытуцыя
+    be_tarask: канстытуцыя
     bew: wèt dasar
     bg: конституция
     bho: संबिधान
@@ -226,13 +226,13 @@ dv_has_:
     da: forfatning
     dag: zalikpana
     de: Verfassung
-    de-ch: Verfassung
+    de_ch: Verfassung
     din: wɛ̈tmääc
     dv: ގާނޫނު އަސާސީ
     el: σύνταγμα
     en: constitution
-    en-ca: constitution
-    en-gb: constitution
+    en_ca: constitution
+    en_gb: constitution
     eo: konstitucio
     es: constitución
     et: põhiseadus
@@ -302,14 +302,14 @@ dv_has_:
     mni: ꯑꯁꯨꯞꯄ ꯆꯠꯅ-ꯀꯥꯡꯂꯣꯟ
     mr: संविधान
     ms: perlembagaan
-    ms-arab: ڤرلمباݢاءن
+    ms_arab: ڤرلمباݢاءن
     mt: kostituzzjoni
     mwl: custituiçon
     my: ဖွဲ့စည်းအုပ်ချုပ်ပုံအခြေခံဥပဒေ
     nan: hiàn-hoat
     nb: grunnlov
     nds: Verfaten
-    nds-nl: groendwet
+    nds_nl: groendwet
     ne: संविधान
     new: संविधान
     nl: grondwet
@@ -327,7 +327,7 @@ dv_has_:
     pnb: آئین
     ps: اساسي قانون
     pt: constituição
-    pt-br: constituição
+    pt_br: constituição
     qu: hatun kamachi
     rmf: botnosko laaga
     ro: constituție
@@ -381,14 +381,14 @@ dv_has_:
     za: fapguek
     zgh: ⴰⴷⵓⵙⵜⵓⵔ
     zh: 宪法
-    zh-cn: 宪法
-    zh-hans: 宪法
-    zh-hant: 憲法
-    zh-hk: 憲法
-    zh-mo: 憲法
+    zh_cn: 宪法
+    zh_hans: 宪法
+    zh_hant: 憲法
+    zh_hk: 憲法
+    zh_mo: 憲法
     zh-my: 宪法
-    zh-sg: 宪法
-    zh-tw: 憲法
+    zh_sg: 宪法
+    zh_tw: 憲法
     zu: womthethosisekelo
 ---
 # [[Constitution]] 

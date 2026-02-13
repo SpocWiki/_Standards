@@ -164,7 +164,7 @@ dv_has_:
     ban: Rhodium
     bcl: Rodyo
     be: Родый
-    be-tarask: род
+    be_tarask: род
     bg: родий
     bho: रोडियम
     bn: রোডিয়াম
@@ -259,7 +259,7 @@ dv_has_:
     pnb: روڈیم
     ps: روديوم
     pt: ródio
-    pt-br: ródio
+    pt_br: ródio
     qu: Rutyu
     ro: rodiu
     ru: родий
@@ -275,7 +275,7 @@ dv_has_:
     so: Roodhiyaam
     sq: Rhodiumi
     sr: родијум
-    sr-ec: Родијум
+    sr_ec: Родијум
     stq: Rhodium
     sv: rodium
     sw: Rodi
@@ -299,9 +299,9 @@ dv_has_:
     yo: Rhodium
     yue: 銠
     zh: 铑
-    zh-hans: 铑
-    zh-hant: 銠
-    zh-tw: 銠
+    zh_hans: 铑
+    zh_hant: 銠
+    zh_tw: 銠
     zu: ULundu
   number_of_:
     period: 5

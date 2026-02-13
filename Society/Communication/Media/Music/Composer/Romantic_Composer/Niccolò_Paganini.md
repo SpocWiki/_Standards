@@ -120,7 +120,7 @@ dv_has_:
     az: Nikkolo Paqanini
     ba: Никколо Паганини
     be: Нікола Паганіні
-    be-tarask: Нікалё Паганіні
+    be_tarask: Нікалё Паганіні
     bg: Николо Паганини
     bn: নিকোলো পাগানিনি
     bs: Niccolò Paganini
@@ -178,7 +178,7 @@ dv_has_:
     pl: Niccolò Paganini
     pms: Niccolò Paganini
     pt: Niccolò Paganini
-    pt-br: Niccolò Paganini
+    pt_br: Niccolò Paganini
     qu: Niccolò Paganini
     ro: Niccolò Paganini
     ru: Никколо Паганини
@@ -189,7 +189,7 @@ dv_has_:
     sl: Niccolò Paganini
     sq: Niccolò Paganini
     sr: Николо Паганини
-    sr-ec: Николо Паганини
+    sr_ec: Николо Паганини
     su: Niccolo Paganini
     sv: Niccolò Paganini
     ta: நிக்கோலோ பாகானீனி

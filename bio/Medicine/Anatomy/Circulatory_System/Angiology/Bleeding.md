@@ -119,7 +119,7 @@ dv_has_:
     ba: ҡан ағыу
     bcl: Pagdugo
     be: крывацёк
-    be-tarask: крывяцёк
+    be_tarask: крывяцёк
     bg: Кръвоизлив
     bn: রক্তক্ষরণ
     br: diwadañ
@@ -181,8 +181,8 @@ dv_has_:
     smn: vardem
     sms: võrrvâârdas
     sr: крварење
-    sr-ec: крварење
-    sr-el: krvarenje
+    sr_ec: крварење
+    sr_el: krvarenje
     sv: blödning
     ta: குருதிப்பெருக்கு
     te: రక్తస్రావం
@@ -198,12 +198,12 @@ dv_has_:
     yi: בלוטשטורץ
     yue: 出血
     zh: 出血
-    zh-cn: 出血
-    zh-hans: 出血
-    zh-hant: 出血
-    zh-hk: 出血
-    zh-sg: 出血
-    zh-tw: 出血
+    zh_cn: 出血
+    zh_hans: 出血
+    zh_hant: 出血
+    zh_hk: 出血
+    zh_sg: 出血
+    zh_tw: 出血
 ---
 # [[Bleeding]] 
 

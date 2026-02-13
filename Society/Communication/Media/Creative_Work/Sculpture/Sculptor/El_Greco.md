@@ -284,7 +284,7 @@ dv_has_:
     az: El Qreko
     ba: Эль Греко
     be: Эль Грэка
-    be-tarask: Эль Грэка
+    be_tarask: Эль Грэка
     bg: Ел Греко
     bho: एल ग्रीको
     bi: El Greco
@@ -298,11 +298,11 @@ dv_has_:
     da: El Greco
     dag: El Greco
     de: El Greco
-    de-ch: El Greco
+    de_ch: El Greco
     el: Δομήνικος Θεοτοκόπουλος
     en: El Greco
-    en-ca: El Greco
-    en-gb: El Greco
+    en_ca: El Greco
+    en_gb: El Greco
     eo: El Greco
     es: El Greco
     et: El Greco
@@ -352,7 +352,7 @@ dv_has_:
     nan: El Greco
     nb: el Greco
     nds: El Greco
-    nds-nl: El Greco
+    nds_nl: El Greco
     ne: एल ग्रेको
     nl: El Greco
     nn: El Greco
@@ -364,7 +364,7 @@ dv_has_:
     pms: El Greco
     pnb: ایل گریکو
     pt: El Greco
-    pt-br: El Greco
+    pt_br: El Greco
     qu: El Greco
     ro: El Greco
     ru: Эль Греко
@@ -375,8 +375,8 @@ dv_has_:
     so: El Greco
     sq: El Greco
     sr: Ел Греко
-    sr-ec: Ел Греко
-    sr-el: El Greko
+    sr_ec: Ел Греко
+    sr_el: El Greko
     stq: Domínikos Theotokópoulos
     sv: El Greco
     ta: எல் கிரெகோ
@@ -395,8 +395,8 @@ dv_has_:
     xmf: ელ გრეკო
     yue: 格雷哥
     zh: 埃尔·格列柯
-    zh-hans: 格雷考
-    zh-hant: 格雷考
+    zh_hans: 格雷考
+    zh_hant: 格雷考
 ---
 # [[El_Greco]] 
 

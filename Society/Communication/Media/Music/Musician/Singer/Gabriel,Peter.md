@@ -163,7 +163,7 @@ dv_has_:
     azb: پیتر قابریل
     bar: Bäda Gobril
     be: Пітэр Гэбрыел
-    be-tarask: Пітэр Гэбрыел
+    be_tarask: Пітэр Гэбрыел
     bg: Питър Гейбриъл
     ca: Peter Gabriel
     co: Peter Gabriel
@@ -172,13 +172,13 @@ dv_has_:
     da: Peter Gabriel
     dag: Peter Gabriel
     de: Peter Gabriel
-    de-ch: Peter Gabriel
+    de_ch: Peter Gabriel
     ee: Peter Gabriel
     el: Πίτερ Γκάμπριελ
     eml: Peter Gabriel
     en: Peter Gabriel
-    en-ca: Peter Gabriel
-    en-gb: Peter Gabriel
+    en_ca: Peter Gabriel
+    en_gb: Peter Gabriel
     en-us: Peter Gabriel
     eo: Peter Gabriel
     es: Peter Gabriel
@@ -219,7 +219,7 @@ dv_has_:
     pl: Peter Gabriel
     pms: Peter Gabriel
     pt: Peter Gabriel
-    pt-br: Peter Gabriel
+    pt_br: Peter Gabriel
     ro: Peter Gabriel
     ru: Питер Гэбриел
     sah: Петер Габриел
@@ -241,12 +241,12 @@ dv_has_:
     war: Peter Gabriel
     yue: 彼得·蓋布瑞爾
     zh: 彼得·蓋布瑞爾
-    zh-cn: 彼得·盖布瑞尔
-    zh-hans: 彼得·盖布瑞尔
-    zh-hant: 彼得·蓋布瑞爾
-    zh-hk: 彼得·蓋布瑞爾
-    zh-sg: 彼得·盖布瑞尔
-    zh-tw: 彼得·蓋布瑞爾
+    zh_cn: 彼得·盖布瑞尔
+    zh_hans: 彼得·盖布瑞尔
+    zh_hant: 彼得·蓋布瑞爾
+    zh_hk: 彼得·蓋布瑞爾
+    zh_sg: 彼得·盖布瑞尔
+    zh_tw: 彼得·蓋布瑞爾
 ---
 # [[Gabriel,Peter]] 
 

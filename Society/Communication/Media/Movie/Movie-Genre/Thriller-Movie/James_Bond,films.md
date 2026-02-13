@@ -10,7 +10,7 @@ dv_has_:
     azb: جیمز باند
     bcl: James Bond
     be: Джэймс Бонд
-    be-tarask: Джэймз Бонд
+    be_tarask: Джэймз Бонд
     bg: Джеймс Бонд
     bn: জেমস বন্ড
     br: James Bond
@@ -23,8 +23,8 @@ dv_has_:
     de: James Bond
     el: Τζέιμς Μποντ
     en: James Bond
-    en-ca: James Bond
-    en-gb: James Bond
+    en_ca: James Bond
+    en_gb: James Bond
     eo: James Bond
     es: James Bond
     et: James Bond
@@ -78,7 +78,7 @@ dv_has_:
     pl: James Bond
     pnb: جیمز بانڈ
     pt: James Bond
-    pt-br: James Bond
+    pt_br: James Bond
     ro: James Bond
     ru: Джеймс Бонд
     rue: Джеймс Бонд
@@ -91,7 +91,7 @@ dv_has_:
     smn: James Bond
     sq: James Bond
     sr: Џејмс Бонд
-    sr-ec: Џејмс Бонд
+    sr_ec: Џејмс Бонд
     su: James Bond
     sv: James Bond
     sw: James Bond
@@ -110,13 +110,13 @@ dv_has_:
     yi: דזשעימס באנד
     yue: 占士邦
     zh: 占士邦
-    zh-cn: 詹姆斯·邦德
-    zh-hans: 詹姆斯·邦德
-    zh-hant: 占士邦
-    zh-hk: 占士邦
+    zh_cn: 詹姆斯·邦德
+    zh_hans: 詹姆斯·邦德
+    zh_hant: 占士邦
+    zh_hk: 占士邦
     zh-my: 占士·邦
-    zh-sg: 占士·邦
-    zh-tw: 詹姆士·龐德
+    zh_sg: 占士·邦
+    zh_tw: 詹姆士·龐德
 aliases:
 - Bondi James
 - Ceyms Bond

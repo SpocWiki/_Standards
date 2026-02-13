@@ -101,7 +101,7 @@ dv_has_:
     bar: Nadia Comăneci
     bcl: Nadia Comăneci
     be: Надзя Каманэчы
-    be-tarask: Надзя Каманэчы
+    be_tarask: Надзя Каманэчы
     bg: Надя Команечи
     bm: Nadia Comăneci
     bn: নাদিয়া কোমেনিচি
@@ -113,11 +113,11 @@ dv_has_:
     da: Nadia Comăneci
     de: Nadia Comăneci
     de-at: Nadia Comăneci
-    de-ch: Nadia Comăneci
+    de_ch: Nadia Comăneci
     el: Νάντια Κομανέτσι
     en: Nadia Comăneci
-    en-ca: Nadia Comăneci
-    en-gb: Nadia Comăneci
+    en_ca: Nadia Comăneci
+    en_gb: Nadia Comăneci
     eo: Nadia Comăneci
     es: Nadia Comăneci
     et: Nadia Comăneci
@@ -169,7 +169,7 @@ dv_has_:
     nap: Nadia Comaneci
     nb: Nadia Comăneci
     nds: Nadia Comăneci
-    nds-nl: Nadia Comăneci
+    nds_nl: Nadia Comăneci
     nl: Nadia Comăneci
     nn: Nadia Comăneci
     nrm: Nadia Comăneci
@@ -181,7 +181,7 @@ dv_has_:
     pms: Nadia Comăneci
     prg: Nadia Comăneci
     pt: Nadia Comăneci
-    pt-br: Nadia Comăneci
+    pt_br: Nadia Comăneci
     qu: Nadia Comăneci
     rgn: Nadia Comăneci
     rm: Nadia Comăneci
@@ -195,7 +195,7 @@ dv_has_:
     sl: Nadia Comăneci
     sq: Nadia Comăneci
     sr: Нађа Команечи
-    sr-el: Nadia Comăneci
+    sr_el: Nadia Comăneci
     sv: Nadia Comăneci
     sw: Nadia Comăneci
     ta: நாடியா கொமனட்சி

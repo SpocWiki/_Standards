@@ -127,7 +127,7 @@ dv_has_:
     bbc: Mena
     bcl: Pisces (konstelasyon)
     be: Рыбы
-    be-tarask: Рыбы
+    be_tarask: Рыбы
     bg: Риби
     bn: মীন
     bo: ཉ་ཟུང་སྐར་ཚོམ་
@@ -142,12 +142,12 @@ dv_has_:
     cy: Pisces
     da: Fiskene
     de: Fische
-    de-ch: Fische
+    de_ch: Fische
     diq: Maseyan
     el: Ιχθύες
     en: Pisces
-    en-ca: Pisces
-    en-gb: Pisces
+    en_ca: Pisces
+    en_gb: Pisces
     eo: Fiŝoj
     es: Piscis
     et: Kalad
@@ -199,7 +199,7 @@ dv_has_:
     pl: Gwiazdozbiór Ryb
     pnb: حوت (مجمع النجوم)
     pt: Pisces
-    pt-br: Pisces
+    pt_br: Pisces
     ro: Peștii
     ru: Рыбы
     sah: Балыктар
@@ -224,7 +224,7 @@ dv_has_:
     wuu: 双鱼座
     yue: 雙魚座
     zh: 双鱼座
-    zh-hant: 雙魚座
+    zh_hant: 雙魚座
 dv_is_:
   same_as:
   - '[[../../WikiData/WD~Pisces,8679|WD~Pisces,8679]]'

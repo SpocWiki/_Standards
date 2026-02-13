@@ -81,7 +81,7 @@ dv_has_:
     az: Saxaroza
     azb: ساکاروز
     be: Цукроза
-    be-tarask: Цукроза
+    be_tarask: Цукроза
     bg: Захароза
     bn: সুক্রোজ
     bs: Saharoza
@@ -94,8 +94,8 @@ dv_has_:
     el: σακχαρόζη
     eml: Sùcar
     en: sucrose
-    en-ca: Sucrose
-    en-gb: sucrose
+    en_ca: Sucrose
+    en_gb: sucrose
     eo: saĥarozo
     es: sacarosa
     et: sahharoos
@@ -133,7 +133,7 @@ dv_has_:
     mk: сахароза
     ml: സുക്രോസ്
     ms: sukrosa
-    ms-arab: سوکروسا
+    ms_arab: سوکروسا
     my: ဆူးခြို့
     nan: Chià-thn̂g
     nb: rørsukker
@@ -143,7 +143,7 @@ dv_has_:
     pl: sacharoza
     pms: Sùcher
     pt: sacarose
-    pt-br: Sacarose
+    pt_br: Sacarose
     ro: Zaharoză
     ru: сахароза
     se: sakkarosa
@@ -167,8 +167,8 @@ dv_has_:
     yue: 蔗醣
     za: Dangzoij
     zh: 蔗糖
-    zh-hant: 蔗糖
-    zh-tw: 蔗糖
+    zh_hant: 蔗糖
+    zh_tw: 蔗糖
 ---
 #is_/instance_of :: [[../Disaccharide]]
 #has_/parts :: [[../Monosaccharide/Glucose]] 

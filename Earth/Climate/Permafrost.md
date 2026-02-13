@@ -117,7 +117,7 @@ dv_has_:
     ast: Permafrost
     az: Geokriologiya
     be: вечная мерзлата
-    be-tarask: вечная мярзьліна
+    be_tarask: вечная мярзьліна
     bg: Вечна замръзналост
     bho: पर्माफ्रॉस्ट
     bxr: Мүнхэ сэбдэг
@@ -152,11 +152,11 @@ dv_has_:
     ja: 永久凍土
     ka: მრავალწლოვანი მზრალობა
     kk: Мәңгі тоң
-    kk-arab: ماڭگى توڭ
+    kk_arab: ماڭگى توڭ
     kk-cn: ماڭگى توڭ
-    kk-cyrl: Мәңгі тоң
+    kk_cyrl: Мәңгі тоң
     kk-kz: Мәңгі тоң
-    kk-latn: Mäñgi toñ
+    kk_latn: Mäñgi toñ
     kk-tr: Mäñgi toñ
     ko: 영구동토
     ky: Көп жылдык тоң
@@ -184,8 +184,8 @@ dv_has_:
     sk: Permafrost
     sl: permafrost
     sr: Пермафрост
-    sr-ec: Пермафрост
-    sr-el: Permafrost
+    sr_ec: Пермафрост
+    sr_el: Permafrost
     sv: permafrost
     ta: நிலத்தடி உறைபனி
     th: ชั้นดินเยือกแข็งคงตัว
@@ -198,12 +198,12 @@ dv_has_:
     wuu: 永久冻土
     yue: 永久凍土
     zh: 永久冻土
-    zh-cn: 永久冻土
-    zh-hans: 永久冻土
-    zh-hant: 永久凍土
-    zh-hk: 永久凍土
-    zh-sg: 永久冻土
-    zh-tw: 永久凍土
+    zh_cn: 永久冻土
+    zh_hans: 永久冻土
+    zh_hant: 永久凍土
+    zh_hk: 永久凍土
+    zh_sg: 永久冻土
+    zh_tw: 永久凍土
 ---
 # [[Permafrost]] 
 

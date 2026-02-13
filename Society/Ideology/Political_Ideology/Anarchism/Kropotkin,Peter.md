@@ -160,7 +160,7 @@ dv_has_:
     az: Pyotr Kropotkin
     ba: Кропоткин Пётр Алексеевич
     be: Пётр Аляксеевіч Крапоткін
-    be-tarask: Пётар Крапоткін
+    be_tarask: Пётар Крапоткін
     bg: Пьотър Кропоткин
     bn: পিয়োতর ক্রাপোতকিন
     br: Pyotr Kropotkin
@@ -207,7 +207,7 @@ dv_has_:
     mul: Peter Kropotkin
     nan: Pёtr Alekseevič Kropotkin
     nb: Pjotr Kropotkin
-    nds-nl: Peter Kropotkin
+    nds_nl: Peter Kropotkin
     ne: प्योत्र क्रोपोत्किन
     nl: Peter Kropotkin
     nn: Pjotr Kropotkin
@@ -216,7 +216,7 @@ dv_has_:
     pl: Piotr Kropotkin
     ps: پیټر کروپوتکین
     pt: Piotr Kropotkin
-    pt-br: Piotr Kropotkin
+    pt_br: Piotr Kropotkin
     ro: Piotr Kropotkin
     ru: Пётр Алексеевич Кропоткин
     sco: Peter Kropotkin
@@ -225,8 +225,8 @@ dv_has_:
     sl: Peter Aleksejevič Kropotkin
     sq: Peter Kropotkin
     sr: Петар Кропоткин
-    sr-ec: Петар Кропоткин
-    sr-el: Petar Kropotkin
+    sr_ec: Петар Кропоткин
+    sr_el: Petar Kropotkin
     sv: Pjotr Kropotkin
     tl: Pyotr Kropotkin
     tr: Peter Kropotkin
@@ -237,8 +237,8 @@ dv_has_:
     yo: Peter Kropotkin
     yue: 克魯泡特金
     zh: 彼得·阿列克谢耶维奇·克鲁泡特金
-    zh-cn: 彼得·阿列克谢耶维奇·克鲁泡特金
-    zh-hant: 彼得·阿歷克塞維奇·克魯泡特金
+    zh_cn: 彼得·阿列克谢耶维奇·克鲁泡特金
+    zh_hant: 彼得·阿歷克塞維奇·克魯泡特金
 ---
 # [[Kropotkin,Peter]] 
 

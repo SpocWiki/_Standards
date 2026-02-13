@@ -195,7 +195,7 @@ dv_has_:
     bar: Gfui
     bcl: Emosyon
     be: эмоцыя
-    be-tarask: эмоцыя
+    be_tarask: эмоцыя
     bg: Емоция
     bho: भावना
     bn: আবেগ
@@ -215,13 +215,13 @@ dv_has_:
     cy: emosiwn
     da: følelse
     de: Emotion
-    de-ch: Emotion
+    de_ch: Emotion
     dsb: emocija
     el: συναίσθημα
     eml: Emosiòun
     en: emotion
-    en-ca: emotions
-    en-gb: emotion
+    en_ca: emotions
+    en_gb: emotion
     eo: emocio
     es: emoción
     et: emotsioon
@@ -277,7 +277,7 @@ dv_has_:
     ml: മനോവികാരം
     mn: Сэтгэл хөдлөл
     ms: emosi
-    ms-arab: ايموسي
+    ms_arab: ايموسي
     mwl: Eimoçon
     my: ခံစားချက်
     mzn: هیجان
@@ -298,7 +298,7 @@ dv_has_:
     pnb: جذبہ
     ps: احساس
     pt: emoção
-    pt-br: emoção
+    pt_br: emoção
     ro: emoție
     ru: эмоция
     rue: Емоція
@@ -317,8 +317,8 @@ dv_has_:
     so: Dareen
     sq: emocion
     sr: осећање
-    sr-ec: осећање
-    sr-el: osećanje
+    sr_ec: осећање
+    sr_el: osećanje
     sv: känsla
     sw: hisia
     ta: உணர்ச்சி
@@ -330,7 +330,7 @@ dv_has_:
     tr: duygu
     ts: Minthlaveko
     tt: хис
-    tt-cyrl: хис
+    tt_cyrl: хис
     udm: мылкыд
     uk: емоція
     ur: جذبہ
@@ -344,14 +344,14 @@ dv_has_:
     yue: 情感
     za: Gamjcingz
     zh: 情绪
-    zh-cn: 情绪
-    zh-hans: 情绪
-    zh-hant: 情緒
-    zh-hk: 情緒
-    zh-mo: 情绪
+    zh_cn: 情绪
+    zh_hans: 情绪
+    zh_hant: 情緒
+    zh_hk: 情緒
+    zh_mo: 情绪
     zh-my: 情绪
-    zh-sg: 情绪
-    zh-tw: 情緒
+    zh_sg: 情绪
+    zh_tw: 情緒
     zu: Umzwelo
 ---
 # [[Emotion]] 

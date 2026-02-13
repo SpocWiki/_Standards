@@ -139,7 +139,7 @@ dv_has_:
     az: Sarmaşıqkimilər
     azb: سارماشیق کیمیلر
     be: Бярозкавыя
-    be-tarask: Бярозкавыя
+    be_tarask: Бярозкавыя
     bg: поветицови
     bs: Convolvulaceae
     ca: convolvulàcies
@@ -188,14 +188,14 @@ dv_has_:
     mul: Convolvulaceae
     nan: Soân-hoe-kho
     nb: Vindelfamilien
-    nds-nl: wiendefemilie
+    nds_nl: wiendefemilie
     nl: windefamilie
     oc: Convolvulaceae
     os: Лывдзæгонтæ
     pl: Powojowate
     pnb: سجری سویر
     pt: Convolvulaceae
-    pt-br: Convolvulaceae
+    pt_br: Convolvulaceae
     ro: Convolvulaceae
     ru: вьюнковые
     sco: Convolvulaceae
@@ -218,12 +218,12 @@ dv_has_:
     xmf: ბადადიაშობურეფი
     yue: 旋花科
     zh: 旋花科
-    zh-cn: 旋花科
-    zh-hans: 旋花科
-    zh-hant: 旋花科
-    zh-hk: 旋花科
-    zh-sg: 旋花科
-    zh-tw: 旋花科
+    zh_cn: 旋花科
+    zh_hans: 旋花科
+    zh_hant: 旋花科
+    zh_hk: 旋花科
+    zh_sg: 旋花科
+    zh_tw: 旋花科
 ---
 # [[Convolvulaceae]] 
 

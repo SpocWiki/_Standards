@@ -107,7 +107,7 @@ dv_has_:
     az: Ceyms Dyuar
     azb: جیمز دیوئر
     be: Джэймс Дзьюар
-    be-tarask: Джэймз Д’юар
+    be_tarask: Джэймз Д’юар
     bg: Джеймс Дюар
     ca: James Dewar
     cs: James Dewar
@@ -143,7 +143,7 @@ dv_has_:
     pl: James Dewar
     pms: James Dewar
     pt: James Dewar
-    pt-br: James Dewar
+    pt_br: James Dewar
     ro: James Dewar
     ru: Джеймс Дьюар
     sco: James Dewar
@@ -159,12 +159,12 @@ dv_has_:
     war: James Dewar
     yue: 詹姆斯·杜瓦
     zh: 詹姆斯·杜瓦
-    zh-cn: 詹姆斯·杜瓦
-    zh-hans: 詹姆斯·杜瓦
-    zh-hant: 詹姆斯·杜瓦
-    zh-hk: 詹姆斯·杜瓦
-    zh-sg: 詹姆斯·杜瓦
-    zh-tw: 詹姆斯·杜瓦
+    zh_cn: 詹姆斯·杜瓦
+    zh_hans: 詹姆斯·杜瓦
+    zh_hant: 詹姆斯·杜瓦
+    zh_hk: 詹姆斯·杜瓦
+    zh_sg: 詹姆斯·杜瓦
+    zh_tw: 詹姆斯·杜瓦
 ---
 # [[Dewar,James]] 
 

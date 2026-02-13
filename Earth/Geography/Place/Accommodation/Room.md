@@ -188,8 +188,8 @@ dv_is_a_: '[[Room]]'
 dv_has_:
   child_class: '[ HotelRoom, MeetingRoom ]'
   name_:
-    aeb-arab: بيت
-    aeb-latn: bit
+    aeb_arab: بيت
+    aeb_latn: bit
     af: kamer
     ak: ɛdan
     an: cambra
@@ -203,7 +203,7 @@ dv_has_:
     ban: Rong
     bcl: Kwarto
     be: пакой
-    be-tarask: пакой
+    be_tarask: пакой
     bg: стая
     bn: কক্ষ
     br: Sal
@@ -223,8 +223,8 @@ dv_has_:
     dtp: linimput
     el: δωμάτιο
     en: room
-    en-ca: room
-    en-gb: room
+    en_ca: room
+    en_gb: room
     eo: ĉambro
     es: habitación
     et: tuba
@@ -266,7 +266,7 @@ dv_has_:
     mnc: ᠪᠣᠣ ᡤᡳᠶᠠᠯᠠᠨ
     mos: dogo
     ms: bilik
-    ms-arab: بيليق
+    ms_arab: بيليق
     mt: kamra
     my: အခန်း
     mzn: کادا
@@ -286,7 +286,7 @@ dv_has_:
     pnt: οτά
     ps: کوټه
     pt: sala
-    pt-br: cômodo
+    pt_br: cômodo
     qu: wasi ukhu
     ro: cameră
     ru: комната
@@ -307,8 +307,8 @@ dv_has_:
     so: qol
     sq: dhomë
     sr: просторија
-    sr-ec: просторија
-    sr-el: prostorija
+    sr_ec: просторија
+    sr_el: prostorija
     sv: rum
     sw: chumba
     szl: izba
@@ -320,8 +320,8 @@ dv_has_:
     tn: Room
     tr: oda
     tt: бүлмә
-    tt-cyrl: бүлмә
-    tt-latn: bülmä
+    tt_cyrl: бүлмә
+    tt_latn: bülmä
     uk: кімната
     ur: کمرہ
     vec: càmara
@@ -333,14 +333,14 @@ dv_has_:
     yo: ìyàrá
     yue: 房
     zh: 房間
-    zh-cn: 房间
-    zh-hans: 房间
-    zh-hant: 房間
-    zh-hk: 房間
-    zh-mo: 房間
+    zh_cn: 房间
+    zh_hans: 房间
+    zh_hant: 房間
+    zh_hk: 房間
+    zh_mo: 房間
     zh-my: 房间
-    zh-sg: 房间
-    zh-tw: 房間
+    zh_sg: 房间
+    zh_tw: 房間
     zu: ikamelo
   parent_class: '[[../Accommodation]]'
   properties: '[ accommodationCategory, accommodationFloorPlan, additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, floorLevel, floorSize, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, leaseLength, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, numberOfBathroomsTotal, numberOfBedrooms, numberOfFullBathrooms, numberOfPartialBathrooms, numberOfRooms, openingHoursSpecification, permittedUsage, petsAllowed, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url, yearBuilt ]'

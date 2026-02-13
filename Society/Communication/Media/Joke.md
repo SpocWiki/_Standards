@@ -11,7 +11,7 @@ dv_has_:
     bar: Witz
     bcl: Suba
     be: жарт
-    be-tarask: жарт
+    be_tarask: жарт
     bg: Виц
     bn: রসিকতা
     bo: བསྟན་བཤིག
@@ -21,11 +21,11 @@ dv_has_:
     cv: Месек
     da: vittighed
     de: Witz
-    de-ch: Witz
+    de_ch: Witz
     el: αστείο
     en: joke
-    en-ca: Joke
-    en-gb: joke
+    en_ca: Joke
+    en_gb: joke
     eo: ŝerco
     es: chiste
     et: Nali
@@ -64,7 +64,7 @@ dv_has_:
     pl: dowcip
     pnb: لطیفہ
     pt: piada
-    pt-br: Piada
+    pt_br: Piada
     qu: Asina
     ro: banc
     ru: шутка
@@ -78,8 +78,8 @@ dv_has_:
     so: Kaftan
     sq: Libra e Barcoletave
     sr: шала
-    sr-ec: Шала
-    sr-el: Šala
+    sr_ec: Шала
+    sr_el: Šala
     sv: skämt
     sw: Utani
     te: ఛలోక్తి
@@ -99,12 +99,12 @@ dv_has_:
     yi: וויץ
     yue: 笑話
     zh: joke
-    zh-cn: 笑话
-    zh-hans: 笑话
-    zh-hant: joke
-    zh-hk: 笑話
-    zh-sg: 笑话
-    zh-tw: 笑話
+    zh_cn: 笑话
+    zh_hans: 笑话
+    zh_hant: joke
+    zh_hk: 笑話
+    zh_sg: 笑话
+    zh_tw: 笑話
 aliases:
 - acudit
 - Anekdotas

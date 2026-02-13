@@ -66,18 +66,18 @@ dv_has_:
     ar: تنظيم سري
     az: gizli cəmiyyət
     be: тайнае таварыства
-    be-tarask: таемнае таварыства
+    be_tarask: таемнае таварыства
     bg: Тайно общество
     bn: গোপন সমাজ
     ca: societat secreta
     cs: tajná společnost
     cy: cymdeithas gyfrinachol
     de: Geheimbund
-    de-ch: Geheimbund
+    de_ch: Geheimbund
     el: μυστική εταιρεία
     en: secret society
-    en-ca: Secret society
-    en-gb: secret society
+    en_ca: Secret society
+    en_gb: secret society
     eo: sekreta societo
     es: sociedad secreta
     et: Salaühing
@@ -107,7 +107,7 @@ dv_has_:
     oc: Societat secrèta
     pl: tajny związek
     pt: sociedade secreta
-    pt-br: Sociedade secreta
+    pt_br: Sociedade secreta
     ro: societate secretă
     ru: тайное общество
     sh: Tajno društvo
@@ -115,8 +115,8 @@ dv_has_:
     sl: tajno združenje
     sq: Shoqëritë e fshehta
     sr: тајно друштво
-    sr-ec: Тајно друштво
-    sr-el: Tajno društvo
+    sr_ec: Тајно друштво
+    sr_el: Tajno društvo
     sv: hemligt sällskap
     ta: இரகசிய சமூகம்
     th: สมาคมลับ
@@ -125,12 +125,12 @@ dv_has_:
     vec: socetà segreta
     vi: tổ chức bí mật
     zh: 秘密結社
-    zh-cn: 秘密结社
-    zh-hans: 秘密结社
-    zh-hant: 秘密結社
-    zh-hk: 秘密結社
-    zh-sg: 秘密结社
-    zh-tw: 秘密結社
+    zh_cn: 秘密结社
+    zh_hans: 秘密结社
+    zh_hant: 秘密結社
+    zh_hk: 秘密結社
+    zh_sg: 秘密结社
+    zh_tw: 秘密結社
 ---
 # [[Secret_Society]] 
 

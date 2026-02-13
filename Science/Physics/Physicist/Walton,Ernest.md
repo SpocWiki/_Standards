@@ -100,7 +100,7 @@ dv_has_:
     ast: Ernest Walton
     azb: ارنست والتون
     be: Эрнест Томас Сінтан Уолтан
-    be-tarask: Эрнэст Ўолтан
+    be_tarask: Эрнэст Ўолтан
     bg: Ърнест Уолтън
     bn: আর্নেস্ট ওয়াল্টন
     ca: Ernest Walton
@@ -135,8 +135,8 @@ dv_has_:
     kn: ಎರ್ನೆಸ್ಟ್ ಥಾಮಸ್ ಸಿಂಟನ್ ವಾಲ್ಟನ್
     ko: 어니스트 월턴
     ku: Ernest Walton
-    ku-arab: ئەرنەست والتۆن
-    ku-latn: Ernest Walton
+    ku_arab: ئەرنەست والتۆن
+    ku_latn: Ernest Walton
     la: Ernestus T.S. Walton
     lv: Ernests Voltons
     mg: Ernest Walton
@@ -155,7 +155,7 @@ dv_has_:
     pl: Ernest Thomas Sinton Walton
     pnb: ارنسٹ والٹن
     pt: Ernest Walton
-    pt-br: Ernest Walton
+    pt_br: Ernest Walton
     ro: Ernest Walton
     ru: Эрнест Томас Синтон Уолтон
     sa: अर्नेस्ट टी एस वाल्टन
@@ -180,12 +180,12 @@ dv_has_:
     yo: Ernest Walton
     yue: 喧尼斯禾頓
     zh: 欧内斯特·沃尔顿
-    zh-cn: 欧内斯特·沃尔顿
-    zh-hans: 欧内斯特·沃尔顿
-    zh-hant: 歐內斯特·沃爾頓
-    zh-hk: 歐內斯特·沃爾頓
-    zh-sg: 欧内斯特·沃尔顿
-    zh-tw: 歐內斯特·沃爾頓
+    zh_cn: 欧内斯特·沃尔顿
+    zh_hans: 欧内斯特·沃尔顿
+    zh_hant: 歐內斯特·沃爾頓
+    zh_hk: 歐內斯特·沃爾頓
+    zh_sg: 欧内斯特·沃尔顿
+    zh_tw: 歐內斯特·沃爾頓
 ---
 # [[Walton,Ernest]] 
 

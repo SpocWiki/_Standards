@@ -194,7 +194,7 @@ dv_has_:
     ba: Вирустар
     bcl: Birus
     be: вірус
-    be-tarask: вірус
+    be_tarask: вірус
     bg: вируси
     bho: वायरस
     bn: ভাইরাস
@@ -219,7 +219,7 @@ dv_has_:
     dv: ވައިރަސް
     el: ιός
     en: virus
-    en-gb: virus
+    en_gb: virus
     eo: viruso
     es: virus
     et: viirused
@@ -271,7 +271,7 @@ dv_has_:
     ko-kp: 비루스
     krj: birus
     ku: vîrus
-    ku-latn: vîrus
+    ku_latn: vîrus
     kw: Virus
     ky: Вирустар
     la: Virus biologicum
@@ -296,7 +296,7 @@ dv_has_:
     mnw: ဝဳရုသ်
     mr: विषाणू
     ms: virus
-    ms-arab: ۏيروس
+    ms_arab: ۏيروس
     mt: vajrus
     my: ဗိုင်းရပ်စ်
     myv: Кезовкшт
@@ -304,7 +304,7 @@ dv_has_:
     nan: Pēⁿ-to̍k
     nb: virus
     nds: Virus
-    nds-nl: Virus
+    nds_nl: Virus
     ne: विषाणु
     new: भाइरस
     nl: virus
@@ -321,7 +321,7 @@ dv_has_:
     pnb: وائرس
     ps: ویروس
     pt: vírus
-    pt-br: vírus
+    pt_br: vírus
     qu: Añaw
     rki: ဗိုင်းရပ်စ်
     rn: Virus
@@ -349,7 +349,7 @@ dv_has_:
     so: Virus
     sq: virus
     sr: вирус
-    sr-ec: вирус
+    sr_ec: вирус
     su: Virus
     sv: virus
     sw: Virusi
@@ -363,7 +363,7 @@ dv_has_:
     tpi: Virus
     tr: virüs
     tt: вируслар
-    tt-cyrl: вируслар
+    tt_cyrl: вируслар
     tyv: Вирус
     udm: вирус
     ug: ۋىرۇس
@@ -381,14 +381,14 @@ dv_has_:
     yue: 病毒
     za: Binghdoeg
     zh: 病毒
-    zh-cn: 病毒
-    zh-hans: 病毒
-    zh-hant: 病毒
-    zh-hk: 病毒
-    zh-mo: 病毒
+    zh_cn: 病毒
+    zh_hans: 病毒
+    zh_hant: 病毒
+    zh_hk: 病毒
+    zh_mo: 病毒
     zh-my: 病毒
-    zh-sg: 病毒
-    zh-tw: 病毒
+    zh_sg: 病毒
+    zh_tw: 病毒
     zu: igciwane
 ---
 # [[Virus]] 

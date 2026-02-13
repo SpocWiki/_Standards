@@ -126,7 +126,7 @@ dv_has_:
     ast: visión
     bcl: panhiling
     be: зрок
-    be-tarask: зрок
+    be_tarask: зрок
     bg: Зрение
     bn: দৃষ্টিগত প্রত্যক্ষণ
     br: gweled
@@ -137,11 +137,11 @@ dv_has_:
     cy: golwg
     da: synssans
     de: visuelle Wahrnehmung
-    de-ch: Visuelle Wahrnehmung
+    de_ch: Visuelle Wahrnehmung
     el: Όραση
     en: visual perception
-    en-ca: visual perception
-    en-gb: visual perception
+    en_ca: visual perception
+    en_gb: visual perception
     eo: vidkapablo
     es: visión
     et: nägemine
@@ -167,7 +167,7 @@ dv_has_:
     kn: ದೃಶ್ಯ ಗ್ರಹಿಕೆ
     ko: 시각
     ku: têgihîştina bînînê
-    ku-latn: bînîn
+    ku_latn: bînîn
     ky: Көрүү сезими
     la: visus
     lt: rega
@@ -186,7 +186,7 @@ dv_has_:
     pnb: نظر
     ps: لید
     pt: percepção visual
-    pt-br: percepção visual
+    pt_br: percepção visual
     qu: Rikuy
     ro: văz
     ru: зрение
@@ -198,8 +198,8 @@ dv_has_:
     so: Arag
     sq: shikimi
     sr: чуло вида
-    sr-ec: чуло вида
-    sr-el: čulo vida
+    sr_ec: чуло вида
+    sr_el: čulo vida
     sv: synuppfattning
     te: చూపు
     tg: босира
@@ -208,7 +208,7 @@ dv_has_:
     tok: lukin
     tr: görsel algı
     tt: күрү
-    tt-cyrl: күрү
+    tt_cyrl: күрү
     uk: зір
     ur: بصری آگہی
     uz: Koʻrish
@@ -219,12 +219,12 @@ dv_has_:
     yi: זען
     yue: 視覺
     zh: 視覺
-    zh-cn: 视觉
-    zh-hans: 视知觉
-    zh-hant: 視覺
-    zh-hk: 視知覺
-    zh-sg: 视知觉
-    zh-tw: 視知覺
+    zh_cn: 视觉
+    zh_hans: 视知觉
+    zh_hant: 視覺
+    zh_hk: 視知覺
+    zh_sg: 视知觉
+    zh_tw: 視知覺
 ---
 # [[Visual_Perception]] 
 

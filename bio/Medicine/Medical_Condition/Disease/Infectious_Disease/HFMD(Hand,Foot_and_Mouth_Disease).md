@@ -87,13 +87,13 @@ dv_has_:
     ar: مرض اليد والقدم والفم
     ast: Fiebre aftoso humana
     azb: ال،آیاق و آغیز مریضلیگی
-    be-tarask: энтэравірусны вэзыкулярны стаматыт
+    be_tarask: энтэравірусны вэзыкулярны стаматыт
     bg: Ръка
     ca: febre aftosa humana
     cs: nemoc rukou, nohou a úst
     dag: Nuu, napɔŋ, n-ti pahi nangbaŋ doro
     de: Hand-Fuß-Mund-Krankheit
-    de-ch: Hand-Fuss-Mund-Krankheit
+    de_ch: Hand-Fuss-Mund-Krankheit
     dv: އަތާއި،ފައި، އަދި އަނގައިގެ ބަލި
     el: νόσος χεριών, ποδιών και στόματος
     en: hand, foot and mouth disease
@@ -141,9 +141,9 @@ dv_has_:
     vi: Bệnh tay, chân, miệng
     yue: 手足口病
     zh: 手足口病
-    zh-hans: 手足口病
-    zh-hant: 手足口病
-    zh-hk: 手足口病
+    zh_hans: 手足口病
+    zh_hant: 手足口病
+    zh_hk: 手足口病
 ---
 #is_/same_as :: [[WD~Hand,_foot_and_mouth_disease,652744]]
 

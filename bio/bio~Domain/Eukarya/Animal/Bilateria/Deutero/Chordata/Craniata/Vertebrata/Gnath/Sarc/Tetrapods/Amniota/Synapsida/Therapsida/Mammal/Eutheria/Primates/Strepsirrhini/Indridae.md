@@ -42,7 +42,7 @@ dv_has_:
     ast: Indridae
     avk: bancoleem
     az: İndrilər
-    be-tarask: Індрыевыя
+    be_tarask: Індрыевыя
     bg: индриеви
     br: Indriidae
     ca: Índrid
@@ -85,7 +85,7 @@ dv_has_:
     pl: Indrisowate
     pnb: اندری لیمر
     pt: Indridae
-    pt-br: Indriidae
+    pt_br: Indriidae
     ro: Indridae
     ru: Индриевые
     sh: Vunasti lemuri
@@ -98,9 +98,9 @@ dv_has_:
     vo: Indriidae
     war: Indridae
     zh: 大狐猴科
-    zh-cn: 大狐猴科
-    zh-hans: 大狐猴科
-    zh-tw: 大狐猴科
+    zh_cn: 大狐猴科
+    zh_hans: 大狐猴科
+    zh_tw: 大狐猴科
 ---
 # [[Indridae]] 
 ![Indri sitting in tree](Indridae/Indri_indri0037.jpg) 

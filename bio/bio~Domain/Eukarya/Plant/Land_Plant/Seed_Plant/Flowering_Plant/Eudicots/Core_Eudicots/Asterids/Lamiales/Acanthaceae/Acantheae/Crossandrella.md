@@ -31,7 +31,7 @@ dv_has_:
     oc: Crossandrella
     pl: Crossandrella
     pt: Crossandrella
-    pt-br: Crossandrella
+    pt_br: Crossandrella
     ro: Crossandrella
     ru: Crossandrella
     sq: Crossandrella

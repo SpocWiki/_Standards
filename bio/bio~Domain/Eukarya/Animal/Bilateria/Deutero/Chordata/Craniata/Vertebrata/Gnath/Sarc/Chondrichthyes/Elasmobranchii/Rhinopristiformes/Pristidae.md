@@ -83,7 +83,7 @@ dv_has_:
     arz: قوبعيات منشاريه
     ast: Pristidae
     azb: میشار بالیغی
-    be-tarask: Pristidae
+    be_tarask: Pristidae
     bg: Риби трион
     br: Pesk-heskenn
     ca: Peix serra
@@ -91,11 +91,11 @@ dv_has_:
     cs: pilounovití
     da: Savfisk
     de: Sägerochen
-    de-ch: Sägerochen
+    de_ch: Sägerochen
     el: Πριονόψαρο
     en: Pristidae
-    en-ca: Sawfish
-    en-gb: Sawfish
+    en_ca: Sawfish
+    en_gb: Sawfish
     eo: Segilorajo
     es: Pristiformes
     et: saagrailased
@@ -118,11 +118,11 @@ dv_has_:
     ja: ノコギリエイ科
     ka: ხერხთევზა
     kk: Ара-балықтар
-    kk-arab: ارا-بالىقتار
+    kk_arab: ارا-بالىقتار
     kk-cn: ارا-بالىقتار
-    kk-cyrl: Ара-балықтар
+    kk_cyrl: Ара-балықтар
     kk-kz: Ара-балықтар
-    kk-latn: Ara-balıqtar
+    kk_latn: Ara-balıqtar
     kk-tr: Ara-balıqtar
     kn: ಗರಗಸ ಮೀನು
     ko: 톱가오리
@@ -136,7 +136,7 @@ dv_has_:
     oc: Pristidae
     pl: Piłowate
     pt: Pristidae
-    pt-br: Pristidae
+    pt_br: Pristidae
     ro: Pristidae
     ru: пилорылые скаты
     skr: آرا مچھلی
@@ -156,12 +156,12 @@ dv_has_:
     war: Pristidae
     yue: 鋸鰩科
     zh: 锯鳐科
-    zh-cn: 锯鳐科
-    zh-hans: 锯鳐科
-    zh-hant: 鋸鰩科
-    zh-hk: 鋸鰩科
-    zh-sg: 锯鳐科
-    zh-tw: 鋸鰩科
+    zh_cn: 锯鳐科
+    zh_hans: 锯鳐科
+    zh_hant: 鋸鰩科
+    zh_hk: 鋸鰩科
+    zh_sg: 锯鳐科
+    zh_tw: 鋸鰩科
 ---
 # [[Pristidae]] 
 

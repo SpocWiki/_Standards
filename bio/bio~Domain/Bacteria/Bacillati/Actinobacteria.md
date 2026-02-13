@@ -20,8 +20,8 @@ dv_has_:
     cs: Aktinomycety
     de: Actinomycetota
     en: Actinomycetota
-    en-ca: Actinomycetota
-    en-gb: Actinomycetota
+    en_ca: Actinomycetota
+    en_gb: Actinomycetota
     eo: Actinomycetota
     es: Actinomycetota
     eu: Actinomycetota
@@ -42,7 +42,7 @@ dv_has_:
     oc: Actinomycetota
     pl: Actinomycetota
     pt: Actinomycetota
-    pt-br: Actinomycetota
+    pt_br: Actinomycetota
     ro: Actinomycetota
     ru: Actinomycetota
     sq: Actinomycetota
@@ -52,8 +52,8 @@ dv_has_:
     vo: Actinomycetota
     war: Actinomycetota
     zh: 放线菌门
-    zh-cn: 放线菌门
-    zh-tw: 放線菌門
+    zh_cn: 放线菌门
+    zh_tw: 放線菌門
 ---
 # [[Actinobacteria]] 
 

@@ -66,14 +66,14 @@ dv_has_:
     ar: تصميم عمراني
     ast: Diseñu urbanu
     be: горадабудаўнічае праектаванне
-    be-tarask: горадабудаўнічае праектаваньне
+    be_tarask: горадабудаўнічае праектаваньне
     bs: Urbani dizajn
     ca: disseny urbà
     cs: navrhování měst
     da: urban design
     de: Städtebau
     en: urban design
-    en-gb: urban design
+    en_gb: urban design
     eo: urboplanado
     es: diseño urbano
     eu: Hiri diseinu

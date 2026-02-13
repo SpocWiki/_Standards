@@ -107,7 +107,7 @@ dv_has_:
     ast: Parménides d'Elea
     az: Parmenid
     be: Парменід
-    be-tarask: Пармэнід
+    be_tarask: Пармэнід
     bg: Парменид
     bn: পার্মেনিদিস
     bo: ཕཱ་ར་མེ་ནེ་ཌི་ཟི།
@@ -167,7 +167,7 @@ dv_has_:
     pms: Parménid
     pnb: بارامانیاس
     pt: Parménides
-    pt-br: Parmênides
+    pt_br: Parmênides
     ro: Parmenide
     ru: Парменид
     sco: Parmenides
@@ -179,8 +179,8 @@ dv_has_:
     sl: Parmenid
     sq: Parmenidhi
     sr: Парменид
-    sr-ec: Парменид
-    sr-el: Parmenid
+    sr_ec: Парменид
+    sr_el: Parmenid
     sv: Parmenides från Elea
     th: พาร์เมนิดีส
     tr: Parmenides
@@ -195,12 +195,12 @@ dv_has_:
     xmf: პარმენიდე
     yue: 巴文尼迪
     zh: 巴门尼德
-    zh-cn: 巴门尼德
+    zh_cn: 巴门尼德
     zh-hans: 巴门尼德
-    zh-hant: 巴門尼德
-    zh-hk: 巴門尼德
-    zh-sg: 巴门尼德
-    zh-tw: 巴門尼德
+    zh_hant: 巴門尼德
+    zh_hk: 巴門尼德
+    zh_sg: 巴门尼德
+    zh_tw: 巴門尼德
 ---
 # [[Parmenides]] 
 

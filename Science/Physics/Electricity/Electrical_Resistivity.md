@@ -99,7 +99,7 @@ dv_has_:
     ar: مقاومية
     ast: resistividá
     be: Удзельнае электрычнае супраціўленне
-    be-tarask: спэцыфічны электрычны супор
+    be_tarask: спэцыфічны электрычны супор
     bg: Специфично електрическо съпротивление
     ca: resistivitat
     cs: rezistivita
@@ -139,7 +139,7 @@ dv_has_:
     pms: Arzistività
     pnb: برقی مزاحمت
     pt: resistividade elétrica
-    pt-br: resistividade elétrica
+    pt_br: resistividade elétrica
     ro: Rezistivitate electrică
     ru: удельное электрическое сопротивление
     sco: electrical resistivity an conductivity
@@ -148,7 +148,7 @@ dv_has_:
     sl: specifična upornost
     sn: Mbereki yemagetsi
     sr: Električna otpornost i provodnost
-    sr-ec: електрични отпор
+    sr_ec: електрични отпор
     sv: elektrisk resistivitet
     ta: மின்கடத்துதிறன் மற்றும் மின்தடைத்திறன்
     th: สภาพต้านทานและสภาพนำไฟฟ้า
@@ -161,12 +161,12 @@ dv_has_:
     wo: Dëgërluwiin
     wuu: 电阻率
     zh: 电阻率
-    zh-cn: 电阻率
-    zh-hans: 电阻率
-    zh-hant: 電阻率
-    zh-hk: 電阻率
-    zh-sg: 电阻率
-    zh-tw: 電阻率
+    zh_cn: 电阻率
+    zh_hans: 电阻率
+    zh_hant: 電阻率
+    zh_hk: 電阻率
+    zh_sg: 电阻率
+    zh_tw: 電阻率
 ---
 # [[Electrical_Resistivity]] 
 

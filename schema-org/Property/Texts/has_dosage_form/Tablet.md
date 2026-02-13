@@ -88,14 +88,14 @@ dv_has_:
     ar: مضغوط
     ast: comprimíu
     be: таблетка
-    be-tarask: таблетка
+    be_tarask: таблетка
     bn: ট্যাবলেট (ঔষধ)
     ca: comprimit
     cs: tableta
     da: tablet
     de: Tablette
     en: tablet
-    en-gb: tablet
+    en_gb: tablet
     eo: pilolo
     es: comprimido
     et: Tablett
@@ -136,8 +136,8 @@ dv_has_:
     sl: tableta
     sq: Tableta (farmaci)
     sr: Tableta
-    sr-ec: Таблета
-    sr-el: Tableta
+    sr_ec: Таблета
+    sr_el: Tableta
     sv: tablett
     ta: மாத்திரை
     te: మాత్ర
@@ -148,12 +148,12 @@ dv_has_:
     yi: טאבלעט
     yue: 藥丸
     zh: 片剂
-    zh-cn: 片剂
-    zh-hans: 片剂
-    zh-hant: 片劑
-    zh-hk: 片劑
-    zh-sg: 片剂
-    zh-tw: 片劑
+    zh_cn: 片剂
+    zh_hans: 片剂
+    zh_hant: 片劑
+    zh_hk: 片劑
+    zh_sg: 片剂
+    zh_tw: 片劑
 ---
 # [[Tablet]] 
 

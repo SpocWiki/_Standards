@@ -108,7 +108,7 @@ dv_has_:
     ast: Nubes de Magallanes
     az: NGC 292
     be: Магеланавы воблакі
-    be-tarask: Магеланавы Воблакі
+    be_tarask: Магеланавы Воблакі
     bg: Магеланови облаци
     ca: Núvols de Magalhães
     cs: Magellanovy oblaky
@@ -116,8 +116,8 @@ dv_has_:
     diq: NGC 292
     el: Νέφη του Μαγγελάνου
     en: Magellanic Clouds
-    en-ca: Magellanic Clouds
-    en-gb: Magellanic Clouds
+    en_ca: Magellanic Clouds
+    en_gb: Magellanic Clouds
     eo: Magelanaj Nuboj
     es: Nubes de Magallanes
     et: Magalhãesi Pilved
@@ -168,9 +168,9 @@ dv_has_:
     xmf: მაგელანური მუნაფეფი
     yue: 麥哲倫星雲
     zh: 麥哲倫雲
-    zh-cn: 麥哲倫雲
-    zh-hans: 麥哲倫雲
-    zh-hant: 麥哲倫雲
+    zh_cn: 麥哲倫雲
+    zh_hans: 麥哲倫雲
+    zh_hant: 麥哲倫雲
 ---
 # [[Magellanic_Clouds]] 
 

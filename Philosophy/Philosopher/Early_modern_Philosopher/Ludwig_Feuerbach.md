@@ -136,7 +136,7 @@ dv_has_:
     az: Lüdviq Andreas Feyerbax
     azb: لودویق فویرباخ
     be: Людвіг Андрэас Феербах
-    be-tarask: Людвіг Фэербах
+    be_tarask: Людвіг Фэербах
     bg: Лудвиг Фойербах
     bn: লুডভিগ ফয়ারবাখ
     bs: Ludwig Andreas Feuerbach
@@ -147,7 +147,7 @@ dv_has_:
     da: Ludwig Feuerbach
     de: Ludwig Feuerbach
     de-at: Ludwig Feuerbach
-    de-ch: Ludwig Feuerbach
+    de_ch: Ludwig Feuerbach
     el: Λούντβιχ Φόιερμπαχ
     en: Ludwig Feuerbach
     en-us: Ludwig Feuerbach
@@ -195,7 +195,7 @@ dv_has_:
     pl: Ludwig Feuerbach
     pms: Ludwig Feuerbach
     pt: Ludwig Feuerbach
-    pt-br: Ludwig Feuerbach
+    pt_br: Ludwig Feuerbach
     ro: Ludwig Feuerbach
     ru: Людвиг Андреас Фейербах
     rw: Ludwig Feuerbach
@@ -208,7 +208,7 @@ dv_has_:
     sl: Ludwig Feuerbach
     sq: Ludwig Feuerbach
     sr: Лудвиг Фојербах
-    sr-ec: Лудвиг Фојербах
+    sr_ec: Лудвиг Фојербах
     sv: Ludwig Feuerbach
     tr: Ludwig Feuerbach
     tt: Людвиг Фейербах
@@ -222,7 +222,7 @@ dv_has_:
     yi: לודוויג פייערבאך
     yue: 費爾巴哈
     zh: 路德维希·费尔巴哈
-    zh-cn: 路德维希·费尔巴哈
+    zh_cn: 路德维希·费尔巴哈
     zh-hans: 路德维希·费尔巴哈
 ---
 # [[Ludwig_Feuerbach]]

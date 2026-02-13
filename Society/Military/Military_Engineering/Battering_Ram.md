@@ -71,7 +71,7 @@ dv_has_:
     ast: Ariete
     az: Qoçbaşı
     be: Таран
-    be-tarask: таран
+    be_tarask: таран
     bg: Таран
     br: Tourterez
     ca: ariet
@@ -113,19 +113,19 @@ dv_has_:
     sk: Baranidlo
     sl: oblegovalni oven
     sr: ударни ован
-    sr-ec: ударни ован
-    sr-el: Udarni ovan
+    sr_ec: ударни ован
+    sr_el: Udarni ovan
     sv: murbräcka
     tr: Koçbaşı
     uk: Таран
     yue: 攻城鎚
     zh: 冲车
-    zh-cn: 冲车
-    zh-hans: 冲车
-    zh-hant: 衝車
-    zh-hk: 衝車
-    zh-sg: 冲车
-    zh-tw: 衝車
+    zh_cn: 冲车
+    zh_hans: 冲车
+    zh_hant: 衝車
+    zh_hk: 衝車
+    zh_sg: 冲车
+    zh_tw: 衝車
 ---
 # [[Battering_Ram]] 
 

@@ -104,7 +104,7 @@ dv_has_:
     bar: Ashoka
     bcl: Ësokë
     be: Ашока
-    be-tarask: Ашока
+    be_tarask: Ашока
     bew: Asoka
     bg: Ашока
     bho: अशोक
@@ -117,7 +117,7 @@ dv_has_:
     btm: Ashoka
     bxr: Ашока
     ca: Aixoca
-    cbk-zam: Asoka
+    cbk_zam: Asoka
     ce: Ашока
     ceb: Ësokë
     ckb: ئاشۆکا
@@ -131,8 +131,8 @@ dv_has_:
     de: Ashoka
     el: Ασόκα
     en: Ashoka
-    en-ca: Ashoka The Great
-    en-gb: Ashoka The Great
+    en_ca: Ashoka The Great
+    en_gb: Ashoka The Great
     en-us: Ashoka The Great
     eo: Aŝoko
     es: Aśoka
@@ -148,7 +148,7 @@ dv_has_:
     gn: Achóka
     gom: सम्राट अशोक
     gom-deva: सम्राट अशोक महान्
-    gom-latn: Ashoka
+    gom_latn: Ashoka
     gsw: Aschoka
     gu: અશોક
     ha: Ashoka
@@ -157,7 +157,7 @@ dv_has_:
     he: אשוקה
     hi: सम्राट अशोक महान
     hif: Ashoka the Great
-    hif-latn: Aśoka
+    hif_latn: Aśoka
     hil: Ësokë
     hr: Ašoka Veliki
     hu: Asóka
@@ -180,7 +180,7 @@ dv_has_:
     krj: Ësokë
     ks: اَشوک
     ku: Aşokayê Mezin
-    ku-latn: Aşokayê Mezin
+    ku_latn: Aşokayê Mezin
     kw: Ashoka
     la: Asokus
     lfn: Axoca
@@ -192,7 +192,7 @@ dv_has_:
     mad: Asoka
     mag: अशोक
     mai: सम्राट अशोक महान्
-    map-bms: Ashoka
+    map_bms: Ashoka
     mg: Ashoka
     ml: അശോകചക്രവർത്തി
     mn: Ашока хаан
@@ -268,8 +268,8 @@ dv_has_:
     yue: 阿育王
     za: Ayuzvuengz
     zh: 阿育王
-    zh-hant: 阿育王
-    zh-tw: 阿育王
+    zh_hant: 阿育王
+    zh_tw: 阿育王
     zu: U-Ashoka
 ---
 ## #has_/text_of_/abstract 

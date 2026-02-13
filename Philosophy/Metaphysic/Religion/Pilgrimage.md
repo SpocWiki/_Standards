@@ -116,7 +116,7 @@ dv_has_:
     ast: pelegrinación
     az: zəvvarlıq
     be: паломніцтва
-    be-tarask: пілігрымка
+    be_tarask: пілігрымка
     bg: Поклонничество
     bn: তীর্থযাত্রা
     br: Pirc'hirinded
@@ -167,7 +167,7 @@ dv_has_:
     mk: поклонение
     ml: തീർത്ഥാടനം
     ms: ziarah
-    ms-arab: زياره
+    ms_arab: زياره
     nb: pilegrimsreise
     ne: तीर्थयात्रा
     nl: bedevaart
@@ -184,8 +184,8 @@ dv_has_:
     sh: hodočašće
     sl: romanje
     sr: ходочашће
-    sr-ec: ходочашће
-    sr-el: hodočašće
+    sr_ec: ходочашће
+    sr_el: hodočašće
     sv: peregrination
     sw: Hija
     ta: Thalayathirai

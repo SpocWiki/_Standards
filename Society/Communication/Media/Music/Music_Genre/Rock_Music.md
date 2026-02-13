@@ -137,7 +137,7 @@ dv_has_:
     ba: Рок
     bar: Rockmusi
     be: рок-музыка
-    be-tarask: рок-музыка
+    be_tarask: рок-музыка
     bg: рок
     bn: রক সঙ্গীত
     bo: Rockརོལ་མོ་
@@ -153,7 +153,7 @@ dv_has_:
     de: Rockmusik
     el: ροκ
     en: rock music
-    en-gb: rock music
+    en_gb: rock music
     en-us: rock music
     eo: rok-muziko
     es: rock
@@ -215,7 +215,7 @@ dv_has_:
     nah: Rock
     nb: rock
     nds: Rock
-    nds-nl: rock
+    nds_nl: rock
     ne: रक संगीत
     new: रक संगीत
     nl: rock
@@ -231,7 +231,7 @@ dv_has_:
     pms: Mùsica rock
     pnb: روک موسیقی
     pt: rock
-    pt-br: rock
+    pt_br: rock
     qu: Rock
     ro: rock
     ru: рок-музыка
@@ -257,12 +257,12 @@ dv_has_:
     szl: Rok
     ta: ராக் இசை
     tg: рок
-    tg-cyrl: рок
+    tg_cyrl: рок
     th: ร็อก
     tl: Musikang rock
     tr: rock müziği
     tt: рок-музыка
-    tt-cyrl: рок-музыка
+    tt_cyrl: рок-музыка
     udm: рок-крезьгур
     uk: рок-музика
     ur: راک موسیقی
@@ -279,10 +279,10 @@ dv_has_:
     yi: ראק מוזיק
     yue: 搖滾樂
     zh: 摇滚乐
-    zh-cn: 摇滚乐
-    zh-hant: 搖滾樂
-    zh-hk: 搖滾樂
-    zh-tw: 搖滾樂
+    zh_cn: 摇滚乐
+    zh_hant: 搖滾樂
+    zh_hk: 搖滾樂
+    zh_tw: 搖滾樂
 ---
 # [[Rock_Music]] 
 

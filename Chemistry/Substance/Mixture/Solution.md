@@ -121,7 +121,7 @@ dv_has_:
     ast: disolución
     bcl: Solusyon (kimika)
     be: раствор
-    be-tarask: рашчына
+    be_tarask: рашчына
     bg: Разтвор
     bn: দ্রবণ
     bs: rastvor
@@ -132,11 +132,11 @@ dv_has_:
     cy: toddiad
     da: opløsning
     de: Lösung
-    de-ch: Lösung
+    de_ch: Lösung
     el: διάλυμα
     en: solution
-    en-ca: Solution
-    en-gb: solution
+    en_ca: Solution
+    en_gb: solution
     eo: solvaĵo
     es: disolución
     et: Lahus
@@ -181,7 +181,7 @@ dv_has_:
     pa: ਘੋਲ
     pl: roztwór
     pt: solução
-    pt-br: solução
+    pt_br: solução
     qu: Chullusqa
     ro: soluție
     ru: раствор
@@ -194,8 +194,8 @@ dv_has_:
     so: Millan
     sq: Tretësirat
     sr: раствор
-    sr-ec: раствор
-    sr-el: rastvor
+    sr_ec: раствор
+    sr_el: rastvor
     sv: lösning
     sw: Mmumunyo
     ta: கரைபொருள்
@@ -203,7 +203,7 @@ dv_has_:
     th: สารละลาย
     tr: Çözelti
     tt: эремә
-    tt-cyrl: эремә
+    tt_cyrl: эремә
     udm: сылмет
     uk: розчин
     ur: محلول

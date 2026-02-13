@@ -62,7 +62,7 @@ dv_has_:
     ast: Ericales
     az: Erikaçiçəklilər
     be: Верасакветныя
-    be-tarask: верасакветныя
+    be_tarask: верасакветныя
     bg: пиреноцветни
     bs: Ericales
     ca: Ericals
@@ -73,8 +73,8 @@ dv_has_:
     de: Heidekrautartige
     el: Ερεικώδη
     en: Ericales
-    en-ca: Ericales
-    en-gb: Ericales
+    en_ca: Ericales
+    en_gb: Ericales
     eo: Erikaloj
     es: Ericales
     et: Kanarbikulaadsed
@@ -102,7 +102,7 @@ dv_has_:
     jv: Ericales
     ko: 진달래목
     ku: Koma gezik, çay û çûxan
-    ku-latn: Ericales
+    ku_latn: Ericales
     la: Ericales
     lt: Erikiečiai
     lv: viršu rinda
@@ -116,7 +116,7 @@ dv_has_:
     oc: Ericales
     pl: wrzosowce
     pt: Ericales
-    pt-br: Ericales
+    pt_br: Ericales
     ro: Ericales
     ru: Верескоцветные
     sco: Ericales
@@ -137,10 +137,10 @@ dv_has_:
     wuu: 杜鹃花目
     yue: 杜鵑花目
     zh: 杜鹃花目
-    zh-cn: 杜鹃花目
-    zh-hans: 杜鹃花目
-    zh-hant: 杜鹃花目
-    zh-tw: 杜鹃花目
+    zh_cn: 杜鹃花目
+    zh_hans: 杜鹃花目
+    zh_hant: 杜鹃花目
+    zh_tw: 杜鹃花目
 ---
 # [[Ericales]] 
 

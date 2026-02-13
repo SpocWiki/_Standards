@@ -147,7 +147,7 @@ dv_has_:
     azb: مین ایل
     ba: мең йыллыҡ
     be: тысячагоддзе
-    be-tarask: тысячагодзьдзе
+    be_tarask: тысячагодзьдзе
     bg: хилядолетие
     bn: সহস্রাব্দ
     bs: milenij
@@ -161,7 +161,7 @@ dv_has_:
     el: χιλιετία
     eml: milèni
     en: millennium
-    en-gb: millennium
+    en_gb: millennium
     eo: jarmilo
     es: milenio
     et: aastatuhat
@@ -200,7 +200,7 @@ dv_has_:
     ks: ساس ؤری
     ksh: Joohrdusend
     ku: hezarsal
-    ku-latn: hezarsal
+    ku_latn: hezarsal
     la: millennium
     lb: Joerdausend
     li: millennium
@@ -229,7 +229,7 @@ dv_has_:
     pnb: ہزاریا
     ps: زريزه
     pt: milénio
-    pt-br: milênio
+    pt_br: milênio
     qu: waranqawata
     ro: mileniu
     rsk: милениюм
@@ -256,7 +256,7 @@ dv_has_:
     tl: milenyo
     tr: binyıl
     tt: меңьеллык
-    tt-latn: meñ'ellıq
+    tt_latn: meñ'ellıq
     ug: مىڭيىل
     uk: тисячоліття
     ur: ہزارہ
@@ -271,10 +271,10 @@ dv_has_:
     za: cien'geij
     zea: millennium
     zh: 千紀
-    zh-hans: 千纪
-    zh-hant: 千紀
-    zh-hk: 千禧
-    zh-tw: 千紀
+    zh_hans: 千纪
+    zh_hant: 千紀
+    zh_hk: 千禧
+    zh_tw: 千紀
 ---
 # [[Millennium]] 
 

@@ -190,7 +190,7 @@ dv_has_:
     bbc: Utara
     bcl: amihanan
     be: поўнач
-    be-tarask: поўнач
+    be_tarask: поўнач
     bew: Lor
     bg: север
     bjn: utara
@@ -215,15 +215,15 @@ dv_has_:
     dag: tudu
     de: Norden
     de-at: Norden
-    de-ch: Norden
+    de_ch: Norden
     diq: zıme
     dsb: pódpołnoc
     dtp: koibutan
     el: βορράς
     eml: nôt
     en: north
-    en-ca: north
-    en-gb: north
+    en_ca: north
+    en_gb: north
     eo: nordo
     es: norte
     et: põhi
@@ -284,7 +284,7 @@ dv_has_:
     lt: šiaurė
     lv: ziemeļi
     mai: उत्तर
-    map-bms: lor
+    map_bms: lor
     mdf: Кельме ширесь
     mg: 北
     mhr: йӱдвел
@@ -294,7 +294,7 @@ dv_has_:
     mnc: ᠠᠮᠠᡵᡤᡳ
     mr: उत्तर दिशा
     ms: utara
-    ms-arab: اوتارا
+    ms_arab: اوتارا
     mt: tramuntana
     my: မြောက်အရပ်
     myv: пелеве ёнкс
@@ -317,7 +317,7 @@ dv_has_:
     pl: północ
     pnb: اُبھا
     pt: norte
-    pt-br: norte
+    pt_br: norte
     pwn: viri
     qu: chincha
     ro: nord
@@ -330,7 +330,7 @@ dv_has_:
     sd: اتر
     sgs: šiaurė
     sh: sjever
-    sh-cyrl: сјевер
+    sh_cyrl: сјевер
     shi: Iẓẓlmḍ
     shn: ၽၢႆႇႁွင်ႇ
     si: උතුර
@@ -340,7 +340,7 @@ dv_has_:
     so: woqooyi
     sq: veriu
     sr: север
-    sr-ec: Север
+    sr_ec: Север
     su: kalér
     sv: norr
     sw: kaskazini
@@ -352,7 +352,7 @@ dv_has_:
     tl: Hilaga
     tr: kuzey
     tt: төньяк
-    tt-cyrl: төньяк
+    tt_cyrl: төньяк
     udm: уйпал
     ug: شىمال
     uk: північ
@@ -372,14 +372,14 @@ dv_has_:
     za: Baihbaek
     zgh: ⴰⴳⴰⴼⴰ
     zh: 北
-    zh-cn: 北
-    zh-hans: 北
-    zh-hant: 北
-    zh-hk: 北
-    zh-mo: 北
+    zh_cn: 北
+    zh_hans: 北
+    zh_hant: 北
+    zh_hk: 北
+    zh_mo: 北
     zh-my: 北
-    zh-sg: 北
-    zh-tw: 北
+    zh_sg: 北
+    zh_tw: 北
 dv_is_:
   same_as:
   - '[[../../WikiData/WD~North,659|WD~North,659]]'

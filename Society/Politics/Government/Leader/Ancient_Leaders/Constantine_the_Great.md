@@ -240,7 +240,7 @@ dv_has_:
     azb: کنستانتین
     ba: Бөйөк Константин I
     be: Канстанцін I Вялікі
-    be-tarask: Канстантын I Вялікі
+    be_tarask: Канстантын I Вялікі
     bew: Konstantin Agung
     bg: Константин I Велики
     bn: মহান কনস্টান্টিন
@@ -259,7 +259,7 @@ dv_has_:
     cy: Cystennin I
     da: Konstantin den Store
     de: Konstantin der Große
-    de-ch: Konstantin der Grosse
+    de_ch: Konstantin der Grosse
     diq: Constantinus I
     el: Μέγας Κωνσταντίνος
     en: Constantine the Great
@@ -330,7 +330,7 @@ dv_has_:
     pnb: قسطنطین I
     ps: لوی قسطنطین
     pt: Constantino
-    pt-br: Constantino
+    pt_br: Constantino
     qu: Constantinus I
     rki: မဟာကွန်စတန်တိုင်း
     ro: Constantin cel Mare
@@ -346,8 +346,8 @@ dv_has_:
     sl: Konstantin I. Veliki
     sq: Konstandini i Madh
     sr: Константин Велики
-    sr-ec: Константин Велики
-    sr-el: Konstantin Veliki
+    sr_ec: Константин Велики
+    sr_el: Konstantin Veliki
     sv: Konstantin den store
     sw: Konstantino Mkuu
     szy: Cinsetantintatin

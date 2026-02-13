@@ -274,7 +274,7 @@ dv_has_:
     ba: Людовик XIV
     bar: Ludwig XIV.
     be: Людовік XIV
-    be-tarask: Людовік XIV
+    be_tarask: Людовік XIV
     bg: Луи XIV
     bn: চতুর্দশ লুই
     br: Loeiz XIV
@@ -293,8 +293,8 @@ dv_has_:
     de: Ludwig XIV.
     el: Λουδοβίκος ΙΔ΄ της Γαλλίας
     en: Louis XIV of France
-    en-ca: Louis XIV of France
-    en-gb: Louis XIV of France
+    en_ca: Louis XIV of France
+    en_gb: Louis XIV of France
     en-us: Louis XIV of France
     eo: Ludoviko la 14-a
     es: Luis XIV
@@ -370,7 +370,7 @@ dv_has_:
     pnb: لوئی چودواں
     ps: څوارلسم لويي
     pt: Luís XIV de França
-    pt-br: Luís XIV de França
+    pt_br: Luís XIV de França
     qu: Louis XIV
     ro: Ludovic al XIV-lea al Franței
     ru: Людовик XIV

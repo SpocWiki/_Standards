@@ -104,7 +104,7 @@ dv_has_:
     ar: زلزال هايتي 2010
     ast: Terremotu d'Haití de 2010
     az: Haiti zəlzələsi
-    be-tarask: землятрус на Гаіці 2010 году
+    be_tarask: землятрус на Гаіці 2010 году
     bg: Земетресение в Хаити
     bs: Potres u Haitiju 2010.
     ca: terratrèmol d'Haití del 2010

@@ -82,7 +82,7 @@ dv_has_:
     ar: صناعة كيميائية
     ast: Industria químico
     be: хімічная прамысловасць
-    be-tarask: хімічная прамысловасьць
+    be_tarask: хімічная прамысловасьць
     bg: Химическа промишленост
     bn: রাসায়নিক শিল্প
     ca: indústria química
@@ -91,8 +91,8 @@ dv_has_:
     de: Chemische Industrie
     el: χημική βιομηχανία
     en: chemical industry
-    en-ca: Chemical industry
-    en-gb: chemical industry
+    en_ca: Chemical industry
+    en_gb: chemical industry
     eo: ĥemioindustrio
     es: industria química
     et: keemiatööstus
@@ -113,7 +113,7 @@ dv_has_:
     kk: Химия өнеркәсібі
     ko: 화학공업
     ku: pîşesaziya kîmyawî
-    ku-latn: pîşesaziya kîmyawî
+    ku_latn: pîşesaziya kîmyawî
     ky: Химиялык өнөр жайлар
     lt: chemijos pramonė
     lv: Ķīmiskā rūpniecība
@@ -127,7 +127,7 @@ dv_has_:
     oc: Industria quimica
     pl: przemysł chemiczny
     pt: indústria química
-    pt-br: Indústria química
+    pt_br: Indústria química
     ro: industria chimică
     ru: химическая промышленность
     sh: hemijska industrija
@@ -138,8 +138,8 @@ dv_has_:
     smn: kemiaráhtulâšvuotâ
     sq: Industria kimike
     sr: хемијска индустрија
-    sr-ec: Хемијска индустрија
-    sr-el: Hemijska industrija
+    sr_ec: Хемијска индустрија
+    sr_el: Hemijska industrija
     sv: kemisk industri
     ta: வேதித் தொழிற்துறை
     te: రసాయన పరిశ్రమ
@@ -152,12 +152,12 @@ dv_has_:
     war: Industriya hin kimikal
     yue: 化學工業
     zh: 化学工业
-    zh-cn: 化学工业
-    zh-hans: 化学工业
-    zh-hant: 化學工業
-    zh-hk: 化學工業
-    zh-sg: 化学工业
-    zh-tw: 化學工業
+    zh_cn: 化学工业
+    zh_hans: 化学工业
+    zh_hant: 化學工業
+    zh_hk: 化學工業
+    zh_sg: 化学工业
+    zh_tw: 化學工業
 ---
 # [[Chemical_Industry]] 
 

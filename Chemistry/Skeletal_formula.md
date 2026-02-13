@@ -76,9 +76,9 @@ dv_has_:
     sv: Förenklad strukturformel
     uk: скелетна формула
     zh: 键线式
-    zh-hans: 键线式
-    zh-hant: 鍵線式
-    zh-hk: 鍵線式
+    zh_hans: 键线式
+    zh_hant: 鍵線式
+    zh_hk: 鍵線式
 ---
 ## #has_/text_of_/abstract 
 

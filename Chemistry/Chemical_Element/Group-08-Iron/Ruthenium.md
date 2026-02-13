@@ -167,7 +167,7 @@ dv_has_:
     ban: Ruthénium
     bcl: Rutenyo
     be: Рутэній
-    be-tarask: Рутэн
+    be_tarask: Рутэн
     bg: рутений
     bho: रुथेनियम
     bn: রুথিনিয়াম
@@ -263,7 +263,7 @@ dv_has_:
     pnb: روتھینیم
     ps: روتېنيوم
     pt: ruténio
-    pt-br: rutênio
+    pt_br: rutênio
     qu: Ruthenyu
     ro: ruteniu
     ru: рутений
@@ -301,10 +301,10 @@ dv_has_:
     yo: Ruthenium
     yue: 釕
     zh: 釕
-    zh-hans: 钌
-    zh-hant: 釕
-    zh-hk: 釕
-    zh-tw: 釕
+    zh_hans: 钌
+    zh_hant: 釕
+    zh_hk: 釕
+    zh_tw: 釕
     zu: ISalanqwali
   number_of_:
     period: 5

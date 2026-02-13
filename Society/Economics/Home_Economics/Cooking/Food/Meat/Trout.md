@@ -111,7 +111,7 @@ dv_has_:
     ar: سلمون مرقط
     ast: Trucha
     az: Alabalıq
-    be-tarask: стронга
+    be_tarask: стронга
     bg: Пъстърва
     ca: truita
     ce: Бакъ чӀара
@@ -186,7 +186,7 @@ dv_has_:
     wuu: 鳟鱼
     yue: 鱒魚
     zh: 鱒魚
-    zh-tw: 鱒魚
+    zh_tw: 鱒魚
 ---
 # [[Trout]] 
 

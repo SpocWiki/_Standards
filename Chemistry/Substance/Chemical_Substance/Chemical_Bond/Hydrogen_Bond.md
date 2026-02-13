@@ -106,7 +106,7 @@ dv_has_:
     ast: fuercia per ponte d'hidróxenu
     az: Hidrogen rabitəsi
     be: вадародная сувязь
-    be-tarask: вадародная сувязь
+    be_tarask: вадародная сувязь
     bg: Водородна връзка
     bn: হাইড্রোজেন বন্ধন
     bs: Vodikova veza
@@ -117,8 +117,8 @@ dv_has_:
     de: Wasserstoffbrückenbindung
     el: Δεσμός υδρογόνου
     en: hydrogen bond
-    en-ca: Hydrogen bond
-    en-gb: Hydrogen bond
+    en_ca: Hydrogen bond
+    en_gb: Hydrogen bond
     eo: hidrogena ligo
     es: enlace de hidrógeno
     et: Vesinikside
@@ -154,7 +154,7 @@ dv_has_:
     pa: ਹਾਈਡਰੋਜਨ ਜੋੜ
     pl: wiązanie wodorowe
     pt: ligação de hidrogénio
-    pt-br: ligação de hidrogênio
+    pt_br: ligação de hidrogênio
     ro: legătură de hidrogen
     ru: Водородная связь
     ryu: 水素結合
@@ -163,8 +163,8 @@ dv_has_:
     sl: vodikova vez
     sq: Lidhja e Hidrogjenit
     sr: водонична веза
-    sr-ec: водонична веза
-    sr-el: vodonična veza
+    sr_ec: водонична веза
+    sr_el: vodonična veza
     sv: vätebindning
     ta: ஐதரசன் பிணைப்பு
     th: พันธะไฮโดรเจน
@@ -176,12 +176,12 @@ dv_has_:
     wuu: 氢键
     yue: 氫鍵
     zh: 氢键
-    zh-cn: 氢键
-    zh-hans: 氢键
-    zh-hant: 氫鍵
-    zh-hk: 氫鍵
-    zh-sg: 氢键
-    zh-tw: 氫鍵
+    zh_cn: 氢键
+    zh_hans: 氢键
+    zh_hant: 氫鍵
+    zh_hk: 氫鍵
+    zh_sg: 氢键
+    zh_tw: 氫鍵
 ---
 # [[Hydrogen_Bond]] 
 

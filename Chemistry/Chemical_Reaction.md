@@ -174,7 +174,7 @@ dv_has_:
     ba: химик реакция
     bcl: Reaksyong kimikal
     be: хімічная рэакцыя
-    be-tarask: хімічная рэакцыя
+    be_tarask: хімічная рэакцыя
     bg: химична реакция
     bn: রাসায়নিক বিক্রিয়া
     bs: hemijska reakcija
@@ -185,12 +185,12 @@ dv_has_:
     cy: adwaith cemegol
     da: kemisk reaktion
     de: chemische Reaktion
-    de-ch: chemische Reaktion
+    de_ch: chemische Reaktion
     diq: reaksiyono kimyasal
     el: Χημική αντίδραση
     en: chemical reaction
-    en-ca: chemical reaction
-    en-gb: chemical reaction
+    en_ca: chemical reaction
+    en_gb: chemical reaction
     eo: ĥemia reakcio
     es: reacción química
     et: keemiline reaktsioon
@@ -229,7 +229,7 @@ dv_has_:
     km: ប្រត្តិកម្មគីមី
     kn: ರಾಸಾಯನಿಕ ಕ್ರಿಯೆ
     ko: 화학 반응
-    ku-latn: karlêka kîmyayî
+    ku_latn: karlêka kîmyayî
     la: reactio chemica
     lb: cheemesch Reaktioun
     lmo: reaziun chimiga
@@ -244,7 +244,7 @@ dv_has_:
     mn: Химийн урвал
     mr: रासायनिक प्रतिक्रिया
     ms: tindak balas kimia
-    ms-arab: تيندق بالس کيميا
+    ms_arab: تيندق بالس کيميا
     mt: Reazzjoni kimika
     my: ဓာတုဓာတ်ပြုမှု
     nan: Hòa-ha̍k hoán-èng
@@ -259,7 +259,7 @@ dv_has_:
     pl: reakcja chemiczna
     pnb: کیمیائی تعامل
     pt: reação química
-    pt-br: reação química
+    pt_br: reação química
     qu: ruranakuy
     rki: ဓာတုဓာတ်ပြုမှု
     ro: reacție chimică
@@ -278,7 +278,7 @@ dv_has_:
     so: kimikal dibusocod
     sq: reaksioni kimik
     sr: хемијска реакција
-    sr-ec: хемијска реакција
+    sr_ec: хемијска реакција
     su: réaksi kimiawi
     sv: kemisk reaktion
     sw: Mmenyuko wa kikemia
@@ -305,14 +305,14 @@ dv_has_:
     yo: Ìdarapọ̀mọ́ra kẹ́míkà
     yue: 化學反應
     zh: 化學反應
-    zh-cn: 化学反应
-    zh-hans: 化学反应
-    zh-hant: 化學反應
-    zh-hk: 化學反應
-    zh-mo: 化學反應
+    zh_cn: 化学反应
+    zh_hans: 化学反应
+    zh_hant: 化學反應
+    zh_hk: 化學反應
+    zh_mo: 化學反應
     zh-my: 化学反应
-    zh-sg: 化学反应
-    zh-tw: 化學反應
+    zh_sg: 化学反应
+    zh_tw: 化學反應
     zu: Ukusabela kwevanga
 ---
 # [[Chemical_Reaction]] 

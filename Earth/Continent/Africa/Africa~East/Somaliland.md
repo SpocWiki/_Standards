@@ -136,7 +136,7 @@ dv_has_:
     azb: سومالیلند
     ba: Сомалиленд
     be: Самаліленд
-    be-tarask: Самалілэнд
+    be_tarask: Самалілэнд
     bew: Somalilan
     bg: Сомалиленд
     bn: সোমালিল্যান্ড
@@ -147,7 +147,7 @@ dv_has_:
     ce: Сомалиленд
     ckb: سۆماڵیلاند
     crh: Somaliland
-    crh-latn: Somaliland
+    crh_latn: Somaliland
     cs: Somaliland
     cv: Сомалиленд
     cy: Somaliland
@@ -282,10 +282,10 @@ dv_has_:
     yo: Sòmálílàndì
     yue: 索馬里蘭
     zh: 索马里兰
-    zh-hans: 索马里兰
-    zh-hant: 索馬利蘭
-    zh-hk: 索馬里蘭
-    zh-tw: 索馬利蘭
+    zh_hans: 索马里兰
+    zh_hant: 索馬利蘭
+    zh_hk: 索馬里蘭
+    zh_tw: 索馬利蘭
     zu: ISomaliland
 ---
 # Somaliland

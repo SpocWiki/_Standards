@@ -124,7 +124,7 @@ dv_has_:
     af: afvalbestuur
     ar: إدارة المخلفات
     ast: Xestión de borrafes
-    be-tarask: кіраваньне адкідамі
+    be_tarask: кіраваньне адкідамі
     bg: Управление на отпадъците
     bjn: Pengelolaan sampah
     bn: আবর্জনা ব্যবস্থাপনা
@@ -133,11 +133,11 @@ dv_has_:
     cy: rheoli gwastraff
     da: renovation
     de: Abfallentsorgung
-    de-ch: Abfallwirtschaft
+    de_ch: Abfallwirtschaft
     el: διαχείριση αποβλήτων
     en: waste management
-    en-ca: waste management
-    en-gb: waste management
+    en_ca: waste management
+    en_gb: waste management
     eo: rubmastrumado
     es: gestión de residuos
     et: Jäätmekäitlus
@@ -161,11 +161,11 @@ dv_has_:
     it: gestione dei rifiuti
     ja: 廃棄物処理
     kk: Өнеркәсіп қалдықтарын пайда асыру
-    kk-arab: ونەركاسىپ قالدىقتارىن پايدا اسىرۋ
+    kk_arab: ونەركاسىپ قالدىقتارىن پايدا اسىرۋ
     kk-cn: ونەركاسىپ قالدىقتارىن پايدا اسىرۋ
-    kk-cyrl: Өнеркәсіп қалдықтарын пайда асыру
+    kk_cyrl: Өнеркәсіп қалдықтарын пайда асыру
     kk-kz: Өнеркәсіп қалдықтарын пайда асыру
-    kk-latn: Önerkäsip qaldıqtarın paýda asırw
+    kk_latn: Önerkäsip qaldıqtarın paýda asırw
     kk-tr: Önerkäsip qaldıqtarın paýda asırw
     kn: ತ್ಯಾಜ್ಯ ನಿರ್ವಹಣೆ
     ko: 폐기물 관리
@@ -182,7 +182,7 @@ dv_has_:
     nn: renovasjon
     pl: gospodarka odpadami
     pt: gestão integrada de resíduos sólidos
-    pt-br: gestão de resíduos sólidos
+    pt_br: gestão de resíduos sólidos
     ro: gestionarea deșeurilor
     ru: система управления отходами
     sh: gospodarenje otpadom
@@ -204,12 +204,12 @@ dv_has_:
     yi: מיסט מאנאזשעריע
     yue: 廢物管理
     zh: 廢物管理
-    zh-cn: 废物管理
-    zh-hans: 污染物排放控制
-    zh-hant: 廢棄物管理
-    zh-hk: 污染物排放控制
-    zh-sg: 污染物排放控制
-    zh-tw: 廢物管理
+    zh_cn: 废物管理
+    zh_hans: 污染物排放控制
+    zh_hant: 廢棄物管理
+    zh_hk: 污染物排放控制
+    zh_sg: 污染物排放控制
+    zh_tw: 廢物管理
 ---
 # [[Waste_Management]] 
 

@@ -162,7 +162,7 @@ dv_has_:
     ba: Дөңгөр
     bar: Drumme
     be: барабан
-    be-tarask: барабан
+    be_tarask: барабан
     bg: барабан
     bn: ড্রাম
     bo: རྔ།
@@ -183,7 +183,7 @@ dv_has_:
     dga: Gaŋgaa
     el: τύμπανο
     en: drum
-    en-gb: drum
+    en_gb: drum
     eo: tamburo
     es: tambor
     et: trumm
@@ -262,7 +262,7 @@ dv_has_:
     pms: Tamborn
     pnb: ڈھول
     pt: tambor
-    pt-br: tambor
+    pt_br: tambor
     qu: Wankar
     ro: tobă
     ru: барабан
@@ -305,8 +305,8 @@ dv_has_:
     yue: 鼓
     zgh: ⴰⵏⴳⵏⴰⴳ
     zh: 鼓
-    zh-hans: 鼓
-    zh-hant: 鼓
+    zh_hans: 鼓
+    zh_hant: 鼓
     zu: Isigubhu
 ---
 # [[Drum]] 🥁 

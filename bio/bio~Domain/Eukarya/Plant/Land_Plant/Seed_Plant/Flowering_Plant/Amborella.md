@@ -57,7 +57,7 @@ dv_has_:
     kn: ಅಂಬೊರೆಲ್ಲಾ
     ko: 암보렐라
     ku: Amborella trichopoda
-    ku-latn: Amborella trichopoda
+    ku_latn: Amborella trichopoda
     la: Amborella trichopoda
     lb: Amborella trichopoda
     lmo: Amborella trichopoda
@@ -67,7 +67,7 @@ dv_has_:
     mul: Amborella trichopoda
     nb: Amborella trichopoda
     nds: Amborella trichopoda
-    nds-nl: Amborella trichopoda
+    nds_nl: Amborella trichopoda
     nl: Amborella trichopoda
     nn: Amborella trichopoda
     oc: Amborella trichopoda
@@ -75,7 +75,7 @@ dv_has_:
     pms: Amborella trichopoda
     pnb: امبوریلا
     pt: Amborella trichopoda
-    pt-br: Amborella trichopoda
+    pt_br: Amborella trichopoda
     ro: Amborella trichopoda
     ru: Амборелла волосистоножковая
     sk: Amborella trichopoda
@@ -91,10 +91,10 @@ dv_has_:
     wa: Amborella trichopoda
     war: Amborella trichopoda
     zh: 无油樟
-    zh-cn: 无油樟
-    zh-hans: 无油樟
-    zh-hant: 無油樟
-    zh-tw: 无油樟
+    zh_cn: 无油樟
+    zh_hans: 无油樟
+    zh_hant: 無油樟
+    zh_tw: 无油樟
 ---
 # [[Amborella]] 
 

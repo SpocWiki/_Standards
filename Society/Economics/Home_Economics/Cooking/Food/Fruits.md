@@ -173,7 +173,7 @@ OpenStreetMap_tag_or_key: Key:fruit
 Unicode_range: U+1F347-1F353
 dv_has_:
   name_:
-    aeb-arab: غلة
+    aeb_arab: غلة
     ak: aduaba
     an: fruita
     ann: mfut uti
@@ -184,7 +184,7 @@ dv_has_:
     az: meyvə
     bar: Obst
     be: фрукт
-    be-tarask: садавіна
+    be_tarask: садавіна
     bew: Buah
     bn: ফল
     bs: voće
@@ -204,7 +204,7 @@ dv_has_:
     el: φρούτα
     eml: frûta
     en: fruit
-    en-gb: fruit
+    en_gb: fruit
     eo: manĝebla frukto
     es: fruta
     et: puuvili
@@ -255,7 +255,7 @@ dv_has_:
     mnc: ᡨᡠᠪᡳᡥᡝ
     mrj: садывичӹ кушкышвлӓ
     ms: buah
-    ms-arab: بواه
+    ms_arab: بواه
     mt: frott
     my: သစ်သီးဝလံ
     mzn: دارمال
@@ -275,7 +275,7 @@ dv_has_:
     pnt: μεϊβέ
     ps: مېوه
     pt: fruta
-    pt-br: fruta
+    pt_br: fruta
     qu: wayu
     ro: fruct
     rsk: Овоц
@@ -294,8 +294,8 @@ dv_has_:
     sl: sadje
     sq: frut
     sr: воће
-    sr-ec: воће
-    sr-el: voće
+    sr_ec: воће
+    sr_el: voće
     sv: frukt
     syl: ꠚꠟ
     szl: ôwoc
@@ -305,7 +305,7 @@ dv_has_:
     tly: mivə
     tr: meyve
     tt: җимеш
-    tt-cyrl: җимеш
+    tt_cyrl: җимеш
     udm: емыш
     uk: фрукт
     ur: پھل
@@ -323,13 +323,13 @@ dv_has_:
     za: mak
     zh: 水果
     zh-cn: 水果
-    zh-hans: 水果
-    zh-hant: 水果
-    zh-hk: 水果
-    zh-mo: 水果
+    zh_hans: 水果
+    zh_hant: 水果
+    zh_hk: 水果
+    zh_mo: 水果
     zh-my: 水果
-    zh-sg: 水果
-    zh-tw: 水果
+    zh_sg: 水果
+    zh_tw: 水果
     zu: Isithelo
 ---
 # [[Fruits]] 

@@ -167,7 +167,7 @@ dv_has_:
     ba: Генрих Герман Роберт Кох
     ban: Robert Koch
     be: Роберт Кох
-    be-tarask: Робэрт Кох
+    be_tarask: Робэрт Кох
     bg: Роберт Кох
     bn: রোবের্ট কখ
     br: Robert Koch
@@ -184,7 +184,7 @@ dv_has_:
     diq: Robert Koch
     el: Ρόμπερτ Κοχ
     en: Robert Koch
-    en-gb: Robert Koch
+    en_gb: Robert Koch
     eo: Robert Koch
     es: Robert Koch
     et: Robert Koch
@@ -242,7 +242,7 @@ dv_has_:
     pnb: رابرٹ کوخ
     ps: روبرټ کوخ
     pt: Robert Koch
-    pt-br: Robert Koch
+    pt_br: Robert Koch
     qu: Robert Koch
     ro: Robert Koch
     ru: Роберт Кох
@@ -272,7 +272,7 @@ dv_has_:
     yo: Robert Koch
     yue: 羅伯柯霍
     zh: 罗伯特·科赫
-    zh-hans: 罗伯特·科赫
+    zh_hans: 罗伯特·科赫
 ---
 # [[Koch,Robert]] 
 

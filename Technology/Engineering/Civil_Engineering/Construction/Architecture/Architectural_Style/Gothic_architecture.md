@@ -126,7 +126,7 @@ dv_has_:
     az: qotika
     ba: готик архитектура
     be: гатычная архітэктура
-    be-tarask: гатычная архітэктура
+    be_tarask: гатычная архітэктура
     bg: Готическа архитектура
     bn: গথিক স্থাপত্য
     br: Arkitektouriezh c'hotek
@@ -204,12 +204,12 @@ dv_has_:
     wuu: 哥特式建筑
     yue: 哥德式建築
     zh: 哥特式建筑
-    zh-cn: 哥特式建筑
-    zh-hans: 哥特式建筑
-    zh-hant: 哥特式建築
-    zh-hk: 哥德式建築
-    zh-sg: 哥特式建筑
-    zh-tw: 哥德式建築
+    zh_cn: 哥特式建筑
+    zh_hans: 哥特式建筑
+    zh_hant: 哥特式建築
+    zh_hk: 哥德式建築
+    zh_sg: 哥特式建筑
+    zh_tw: 哥德式建築
 ---
 # [[Gothic_architecture]] 
 

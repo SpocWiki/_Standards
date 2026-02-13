@@ -61,7 +61,7 @@ dv_has_:
   name_:
     ar: زراعة حضرية
     ast: Agricultura urbana
-    be-tarask: гарадзкая сельская гаспадарка
+    be_tarask: гарадзкая сельская гаспадарка
     bg: Градско селско стопанство
     bn: শহুরে কৃষিকাজ
     ca: agricultura urbana
@@ -69,8 +69,8 @@ dv_has_:
     de: urbane Landwirtschaft
     el: αστική γεωργία
     en: urban agriculture
-    en-ca: Urban agriculture
-    en-gb: Urban agriculture
+    en_ca: Urban agriculture
+    en_gb: Urban agriculture
     es: agricultura urbana
     eu: Hiri-nekazaritza
     fa: کشاورزی شهری
@@ -90,7 +90,7 @@ dv_has_:
     nl: stadslandbouw
     pa: ਸ਼ਹਿਰੀ ਖੇਤੀਬਾੜੀ
     pt: agricultura urbana
-    pt-br: Agricultura urbana
+    pt_br: Agricultura urbana
     ro: agricultură urbană
     ru: Городское сельское хозяйство
     si: නාගරික කෘෂිකර්මාන්තය
@@ -104,7 +104,7 @@ dv_has_:
     vi: nông nghiệp đô thị
     yue: 都市農業
     zh: 城市农业
-    zh-cn: 城市农业
+    zh_cn: 城市农业
 ---
 # [[Urban_Agriculture]] 
 

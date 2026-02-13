@@ -76,17 +76,17 @@ dv_has_:
     sl: atlantska podkvasta rakovica
     sq: Limulus polyphemus
     sr: Limulus polyphemus
-    sr-ec: Limulus polyphemus
-    sr-el: Limulus polyphemus
+    sr_ec: Limulus polyphemus
+    sr_el: Limulus polyphemus
     sv: dolksvans
     th: แมงดาแอตแลนติก
     uk: Limulus polyphemus
     vi: Limulus polyphemus
     war: Limulus polyphemus
     zh: 美洲鱟
-    zh-hans: 美洲鲎
-    zh-hant: 美洲鱟
-    zh-hk: 美洲鱟
+    zh_hans: 美洲鲎
+    zh_hant: 美洲鱟
+    zh_hk: 美洲鱟
 ---
 ## Phylogeny 
 

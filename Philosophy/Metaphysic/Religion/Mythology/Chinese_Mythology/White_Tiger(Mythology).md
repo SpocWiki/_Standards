@@ -57,11 +57,11 @@ dv_has_:
   name_:
     ar: ببر أبيض
     ast: Byakko
-    be-tarask: бай-ху
+    be_tarask: бай-ху
     ca: Baihu
     cdo: Băh-hū
     de: Weißer Tiger
-    de-ch: Weisser Tiger
+    de_ch: Weisser Tiger
     en: White Tiger
     eo: Blanka Tigro de Okcidento
     es: Byakko
@@ -94,9 +94,9 @@ dv_has_:
     wuu: 白虎
     yue: 白虎
     zh: 白虎
-    zh-hans: 白虎
-    zh-hant: 白虎
-    zh-hk: 白虎
+    zh_hans: 白虎
+    zh_hant: 白虎
+    zh_hk: 白虎
 ---
 # [[White_Tiger(Mythology)]] 
 

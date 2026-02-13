@@ -203,7 +203,7 @@ dv_has_:
     azb: جوزام
     bcl: Daot
     be: Лепра
-    be-tarask: лепра
+    be_tarask: лепра
     bg: Проказа
     bn: কুষ্ঠ
     bo: མཛེ་ནད།
@@ -288,7 +288,7 @@ dv_has_:
     pl: trąd
     ps: جذام
     pt: lepra
-    pt-br: lepra
+    pt_br: lepra
     qu: Lliqti unquy
     ro: lepră
     ru: лепра
@@ -306,7 +306,7 @@ dv_has_:
     sn: Maperembudzi
     sq: Leproza
     sr: лепра
-    sr-ec: лепра
+    sr_ec: лепра
     srn: gwasi
     ss: Bulephelo
     st: Lepera
@@ -335,9 +335,9 @@ dv_has_:
     yue: 麻瘋
     za: binghmazfung
     zh: 麻风病
-    zh-cn: 麻风病
-    zh-hans: 麻风病
-    zh-hant: 麻風病
+    zh_cn: 麻风病
+    zh_hans: 麻风病
+    zh_hant: 麻風病
 ---
 # [[Leprosy]] 
 

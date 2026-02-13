@@ -469,7 +469,7 @@ dv_has_:
   name_:
     ab: Абадырбҕьы
     ace: Bileueng
-    aeb-arab: بليبشة
+    aeb_arab: بليبشة
     an: Portulaca oleracea
     ar: رجلة
     ary: أرغليم
@@ -477,7 +477,7 @@ dv_has_:
     ast: Portulaca oleracea
     az: Dirrik pərpərəni
     be: Партулак агародны
-    be-tarask: партулак агародны
+    be_tarask: партулак агародны
     bg: тученица
     bho: नोनीया साग
     bn: বড়ো নুনিয়া
@@ -521,8 +521,8 @@ dv_has_:
     ko: 쇠비름
     ks: نُنَر
     ku: Pirpar
-    ku-arab: پرپار
-    ku-latn: Pirpar
+    ku_arab: پرپار
+    ku_latn: Pirpar
     la: Portulaca
     lt: Paprastoji portulaka
     lv: dārza portulaka
@@ -546,7 +546,7 @@ dv_has_:
     pl: Portulaka pospolita
     pms: Portulaca oleracea
     pt: beldroegas
-    pt-br: Portulaca oleracea
+    pt_br: Portulaca oleracea
     ro: Portulacă
     ru: Портулак огородный
     sd: لوڻڪ
@@ -556,8 +556,8 @@ dv_has_:
     sl: navadni tolščak
     sq: Portulaca oleracea
     sr: Тушт
-    sr-ec: Тушт
-    sr-el: Tušt
+    sr_ec: Тушт
+    sr_el: Tušt
     sv: Portlak
     szy: nipaluma-sanglacay kuliya, sanglacay koliya
     ta: தரைக்கீரை
@@ -575,12 +575,12 @@ dv_has_:
     wuu: 马齿苋
     yue: 瓜子菜
     zh: 马齿苋
-    zh-cn: 马齿苋
-    zh-hans: 马齿苋
-    zh-hant: 馬齒莧
-    zh-hk: 馬齒莧
-    zh-sg: 马齿苋
-    zh-tw: 馬齒莧
+    zh_cn: 马齿苋
+    zh_hans: 马齿苋
+    zh_hant: 馬齒莧
+    zh_hk: 馬齒莧
+    zh_sg: 马齿苋
+    zh_tw: 馬齒莧
 ---
 # [[Portulaca_oleracea]] 
 

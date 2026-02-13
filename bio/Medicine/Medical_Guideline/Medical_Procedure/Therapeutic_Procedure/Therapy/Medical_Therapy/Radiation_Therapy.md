@@ -95,7 +95,7 @@ dv_has_:
     ast: Radioterapia
     az: radioterapiya
     be: прамянёвая тэрапія
-    be-tarask: радыятэрапія
+    be_tarask: радыятэрапія
     bg: лъчева терапия
     bn: বিকিরণ চিকিৎসা
     bo: འཕྲོ་འགྱེད་བཅོས་ཐབས་
@@ -130,11 +130,11 @@ dv_has_:
     ja: 放射線療法
     ka: სხივური თერაპია
     kk: Рентгенология
-    kk-arab: رەنتگەنولوگىييا
+    kk_arab: رەنتگەنولوگىييا
     kk-cn: رەنتگەنولوگىييا
-    kk-cyrl: Рентгенология
+    kk_cyrl: Рентгенология
     kk-kz: Рентгенология
-    kk-latn: Rentgenologïya
+    kk_latn: Rentgenologïya
     kk-tr: Rentgenologïya
     kn: ರೇಡಿಯೊ ಚಿಕಿತ್ಸೆ
     ko: 방사선종양학과
@@ -161,7 +161,7 @@ dv_has_:
     sk: Rádioterapia
     sl: radioterapija
     sr: радијациона терапија
-    sr-ec: pадиотерапија
+    sr_ec: pадиотерапија
     sv: strålbehandling
     ta: கதிர் மருத்துவம்
     te: రేడియోధార్మిక చికిత్స
@@ -175,12 +175,12 @@ dv_has_:
     wuu: 放射治疗
     yue: 電療
     zh: 放射治療
-    zh-cn: 放射治疗
-    zh-hans: 放射线疗法
-    zh-hant: 放射治療
-    zh-hk: 放射線療法
-    zh-sg: 放射线疗法
-    zh-tw: 放射線療法
+    zh_cn: 放射治疗
+    zh_hans: 放射线疗法
+    zh_hant: 放射治療
+    zh_hk: 放射線療法
+    zh_sg: 放射线疗法
+    zh_tw: 放射線療法
 ---
 # [[Radiation_Therapy]] 
 

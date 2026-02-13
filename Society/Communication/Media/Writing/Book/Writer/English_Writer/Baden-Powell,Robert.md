@@ -171,7 +171,7 @@ dv_has_:
     ast: Robert Baden-Powell
     az: Lord Baden-Powell
     be: Роберт Бадэн-Паўэл
-    be-tarask: Робэрт Бадэн-Паўэл
+    be_tarask: Робэрт Бадэн-Паўэл
     bg: Робърт Бейдън-Пауъл
     bn: রবার্ট ব্যাডেন পাওয়েল
     br: Robert Baden-Powell
@@ -182,8 +182,8 @@ dv_has_:
     de: Robert Baden-Powell
     el: Ρόμπερτ Μπέιντεν-Πάουελ
     en: Robert Baden-Powell, 1st Baron Baden-Powell
-    en-ca: Robert Baden-Powell, 1st Baron Baden-Powell
-    en-gb: Robert Baden-Powell, 1st Baron Baden-Powell
+    en_ca: Robert Baden-Powell, 1st Baron Baden-Powell
+    en_gb: Robert Baden-Powell, 1st Baron Baden-Powell
     eo: Robert Baden-Powell
     es: Robert Baden-Powell
     et: Robert Baden-Powell
@@ -228,7 +228,7 @@ dv_has_:
     pl: Robert Baden-Powell
     pnb: رابرٹ بیڈن پاول
     pt: Robert Baden-Powell
-    pt-br: Robert Baden-Powell
+    pt_br: Robert Baden-Powell
     ro: Robert Baden-Powell
     ru: Роберт Баден-Пауэлл
     sco: Robert Baden-Powell, 1st Baron Baden-Powell
@@ -253,8 +253,8 @@ dv_has_:
     wuu: 罗伯特·贝登堡
     yue: 貝登堡
     zh: 羅伯特·貝登堡
-    zh-hk: 羅拔·貝登堡
-    zh-tw: 羅伯特·貝登堡
+    zh_hk: 羅拔·貝登堡
+    zh_tw: 羅伯特·貝登堡
 ---
 # [[Baden-Powell,Robert]] 
 

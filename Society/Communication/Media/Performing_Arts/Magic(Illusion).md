@@ -96,7 +96,7 @@ dv_has_:
     as: যাদু বিদ্যা
     ast: Ilusionismu
     az: Hoqqabazlıq
-    be-tarask: ілюзіянізм
+    be_tarask: ілюзіянізм
     bg: Илюзионно изкуство
     bjn: Sunglap
     bn: জাদু
@@ -107,7 +107,7 @@ dv_has_:
     de: Zauberkunst
     el: μαγεία
     en: stage magic
-    en-gb: magic
+    en_gb: magic
     eo: iluziismo
     es: ilusionismo
     et: Mustkunst
@@ -152,8 +152,8 @@ dv_has_:
     sl: čarodejstvo
     sq: magjia
     sr: илузионизам
-    sr-ec: илузионизам
-    sr-el: iluzionizam
+    sr_ec: илузионизам
+    sr_el: iluzionizam
     su: Sulap
     sv: trolleri
     ta: மாய வித்தை

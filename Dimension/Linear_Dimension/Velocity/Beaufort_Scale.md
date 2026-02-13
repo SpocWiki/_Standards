@@ -87,7 +87,7 @@ dv_has_:
     ast: Escala de Beaufort
     az: Bofort şkalası
     be: шкала Бафорта
-    be-tarask: шкала Бофарта
+    be_tarask: шкала Бофарта
     bg: Скала на Бофорт
     br: Skeuliad Beaufort
     bs: Beaufortova skala
@@ -120,11 +120,11 @@ dv_has_:
     ja: ビューフォート風力階級
     ka: ბოფორტის სკალა
     kk: Бофорт шкаласы
-    kk-arab: بوفورت شكالاسى
+    kk_arab: بوفورت شكالاسى
     kk-cn: بوفورت شكالاسى
-    kk-cyrl: Бофорт шкаласы
+    kk_cyrl: Бофорт шкаласы
     kk-kz: Бофорт шкаласы
-    kk-latn: Bofort şkalası
+    kk_latn: Bofort şkalası
     kk-tr: Bofort şkalası
     ko: 보퍼트 척도
     ku: Penjeya Beaufortê
@@ -149,8 +149,8 @@ dv_has_:
     sl: Beaufortova lestvica
     smn: Beaufort-ciäkkádâh
     sr: Бофорова скала
-    sr-ec: Бофорова скала
-    sr-el: Boforova skala
+    sr_ec: Бофорова скала
+    sr_el: Boforova skala
     sv: Beaufortskalan
     sw: Kipimo cha Beaufort
     ta: போஃபார்ட்டு காற்றுவீச்சு அளவீடு
@@ -166,12 +166,12 @@ dv_has_:
     yue: 蒲福氏風級
     zea: Schaele van Beaufort
     zh: 蒲福風級
-    zh-cn: 蒲福风级
-    zh-hans: 蒲福风级
-    zh-hant: 蒲福風級
-    zh-hk: 蒲福風級
-    zh-sg: 蒲福风级
-    zh-tw: 蒲福風級
+    zh_cn: 蒲福风级
+    zh_hans: 蒲福风级
+    zh_hant: 蒲福風級
+    zh_hk: 蒲福風級
+    zh_sg: 蒲福风级
+    zh_tw: 蒲福風級
 ---
 # [[Beaufort_Scale]] 
 

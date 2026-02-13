@@ -129,7 +129,7 @@ dv_has_:
     ast: Grandes Llanures
     az: Böyük Düzənliklər
     be: Вялікія раўніны
-    be-tarask: Вялікія раўніны
+    be_tarask: Вялікія раўніны
     bg: Големи равнини
     bho: ग्रेट प्लेन्स
     bn: গ্রেট প্লেইনস
@@ -144,8 +144,8 @@ dv_has_:
     diq: Deştê Gırd
     el: Μεγάλες Πεδιάδες
     en: Great Plains
-    en-ca: Great Plains
-    en-gb: Great Plains
+    en_ca: Great Plains
+    en_gb: Great Plains
     eo: Nordamerikaj Grandaj Ebenaĵoj
     es: Grandes Llanuras
     et: Suur tasandik
@@ -186,7 +186,7 @@ dv_has_:
     pl: Wielkie Równiny
     pnb: عظیم میدان
     pt: Grandes Planícies
-    pt-br: Grandes Planícies
+    pt_br: Grandes Planícies
     ro: Marile Câmpii
     ru: Великие Равнины
     sah: Улуу сыhыылар

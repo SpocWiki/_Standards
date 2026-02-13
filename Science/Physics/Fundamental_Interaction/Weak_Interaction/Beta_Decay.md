@@ -90,7 +90,7 @@ dv_has_:
     ast: Emisión beta
     azb: بتا پوزولوشو
     be: бэта-распад
-    be-tarask: бэта-распад
+    be_tarask: бэта-распад
     bg: Бета разпад
     bn: বিটা ক্ষয়
     ca: desintegració β
@@ -120,11 +120,11 @@ dv_has_:
     ja: ベータ崩壊
     ka: ბეტა-დაშლა
     kk: Бета-ыдырау
-    kk-arab: بەتا-ىدىراۋ
+    kk_arab: بەتا-ىدىراۋ
     kk-cn: بەتا-ىدىراۋ
-    kk-cyrl: Бета-ыдырау
+    kk_cyrl: Бета-ыдырау
     kk-kz: Бета-ыдырау
-    kk-latn: Beta-ıdıraw
+    kk_latn: Beta-ıdıraw
     kk-tr: Beta-ıdıraw
     ko: 베타 붕괴
     ks: بیٹا ڈِکے
@@ -149,14 +149,14 @@ dv_has_:
     sl: razpad beta
     smn: beetapieđgânem
     sr: бета-распад
-    sr-ec: бета-распад
+    sr_ec: бета-распад
     sv: betasönderfall
     ta: பீட்டா சிதைவு
     tg: Бета-коҳиш
     th: การสลายให้อนุภาคบีตา
     tr: Beta çözünmesi
     tt: бета-таркалыш
-    tt-cyrl: бета-таркалыш
+    tt_cyrl: бета-таркалыш
     udm: бета-куашкан
     uk: бета-розпад
     ur: بیٹا تنزل
@@ -165,12 +165,12 @@ dv_has_:
     wuu: Β衰变
     yue: Beta 衰變
     zh: Β衰变
-    zh-cn: β衰变
-    zh-hans: β衰变
-    zh-hant: 貝他衰變
-    zh-hk: 貝他衰變
-    zh-sg: β衰变
-    zh-tw: 貝他衰變
+    zh_cn: β衰变
+    zh_hans: β衰变
+    zh_hant: 貝他衰變
+    zh_hk: 貝他衰變
+    zh_sg: β衰变
+    zh_tw: 貝他衰變
 ---
 # [[Beta_Decay]] 
 

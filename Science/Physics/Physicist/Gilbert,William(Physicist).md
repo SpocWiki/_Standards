@@ -96,7 +96,7 @@ dv_has_:
     ba: Уильям Гильберт
     bar: William Gilbert
     be: Уільям Гільберт
-    be-tarask: Ўільям Гілбэрт
+    be_tarask: Ўільям Гілбэрт
     bg: Уилям Гилбърт
     bm: William Gilbert
     bn: উইলিয়াম গিলবার্ট
@@ -109,12 +109,12 @@ dv_has_:
     da: William Gilbert
     de: William Gilbert
     de-at: William Gilbert
-    de-ch: William Gilbert
+    de_ch: William Gilbert
     ee: William Gilbert
     el: Γουίλιαμ Γκίλμπερτ
     en: William Gilbert
-    en-ca: William Gilbert
-    en-gb: William Gilbert
+    en_ca: William Gilbert
+    en_gb: William Gilbert
     eo: William Gilbert
     es: William Gilbert
     et: William Gilbert
@@ -162,7 +162,7 @@ dv_has_:
     nap: William Gilbert
     nb: William Gilbert
     nds: William Gilbert
-    nds-nl: William Gilbert
+    nds_nl: William Gilbert
     nl: William Gilbert
     nn: William Gilbert
     nrm: William Gilbert
@@ -174,7 +174,7 @@ dv_has_:
     pms: William Gilbert
     prg: William Gilbert
     pt: William Gilbert
-    pt-br: William Gilbert
+    pt_br: William Gilbert
     rgn: William Gilbert
     rm: William Gilbert
     ro: William Gilbert
@@ -187,8 +187,8 @@ dv_has_:
     sl: William Gilbert
     sq: William Gilbert
     sr: Вилијам Гилберт
-    sr-ec: Вилијам Гилберт
-    sr-el: Vilijam Gilbert
+    sr_ec: Вилијам Гилберт
+    sr_el: Vilijam Gilbert
     sv: William Gilbert
     sw: William Gilbert
     tg: Уилям Гилберт
@@ -207,12 +207,12 @@ dv_has_:
     wuu: 威廉·吉尔伯特
     yue: 威廉·吉爾伯特
     zh: 威廉·吉尔伯特
-    zh-cn: 威廉·吉尔伯特
-    zh-hans: 威廉·吉尔伯特
-    zh-hant: 威廉·吉爾伯特
-    zh-hk: 威廉·吉爾伯特
-    zh-sg: 威廉·吉尔伯特
-    zh-tw: 威廉·吉爾伯特
+    zh_cn: 威廉·吉尔伯特
+    zh_hans: 威廉·吉尔伯特
+    zh_hant: 威廉·吉爾伯特
+    zh_hk: 威廉·吉爾伯特
+    zh_sg: 威廉·吉尔伯特
+    zh_tw: 威廉·吉爾伯特
     zu: William Gilbert
 ---
 # [[Gilbert,William(Physicist)]] 

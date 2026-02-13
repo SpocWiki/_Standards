@@ -82,7 +82,7 @@ dv_has_:
     ast: ecuación diferencial ordinaria
     az: adi diferensial tənliklər
     ba: ғәҙәти дифференциаль тигеҙләмә
-    be-tarask: звычайнае дыфэрэнцыяльнае раўнаньне
+    be_tarask: звычайнае дыфэрэнцыяльнае раўнаньне
     bg: обикновено диференциално уравнение
     bn: সাধারণ ব্যবকলনীয় সমীকরণ
     ca: equació diferencial ordinària
@@ -133,12 +133,12 @@ dv_has_:
     vi: phương trình vi phân thường
     yue: 常微分方程
     zh: 常微分方程
-    zh-cn: 常微分方程
-    zh-hans: 常微分方程
-    zh-hant: 常微分方程
-    zh-hk: 常微分方程
-    zh-sg: 常微分方程
-    zh-tw: 常微分方程
+    zh_cn: 常微分方程
+    zh_hans: 常微分方程
+    zh_hant: 常微分方程
+    zh_hk: 常微分方程
+    zh_sg: 常微分方程
+    zh_tw: 常微分方程
 ---
 # [[Ordinary_Differential_Equation]] 
 

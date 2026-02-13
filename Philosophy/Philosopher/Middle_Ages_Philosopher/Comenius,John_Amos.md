@@ -162,7 +162,7 @@ dv_has_:
     az: Yan Komenski
     ba: Коменский Ян Амос
     be: Ян Амос Каменскі
-    be-tarask: Ян Амас Каменскі
+    be_tarask: Ян Амас Каменскі
     bg: Ян Амос Коменски
     bs: Comenius
     ca: Jan Amós Comenius
@@ -172,8 +172,8 @@ dv_has_:
     de: Johann Amos Comenius
     el: Ιωάννης Αμός Κομένιος
     en: John Amos Comenius
-    en-ca: John Amos Comenius
-    en-gb: John Amos Comenius
+    en_ca: John Amos Comenius
+    en_gb: John Amos Comenius
     eo: Johano Amoso Komenio
     es: Juan Amos Comenio
     et: Jan Amos Komenský
@@ -210,7 +210,7 @@ dv_has_:
     pl: Jan Ámos Komenský
     ps: یان آموس کمېنسکي
     pt: Comenius
-    pt-br: Comenius
+    pt_br: Comenius
     ro: Comenius
     ru: Ян Амос Коменский
     sco: John Amos Comenius
@@ -219,7 +219,7 @@ dv_has_:
     sl: Jan Amos Komensky
     sq: Jan Amos Komenski
     sr: Јан Амос Коменски
-    sr-ec: Јан Амос Коменски
+    sr_ec: Јан Амос Коменски
     sv: Johan Amos Comenius
     tr: Jan Amos Comenius
     uk: Ян Амос Коменський

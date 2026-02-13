@@ -120,7 +120,7 @@ dv_has_:
     az: Delta
     bar: Flussdelta
     be: Дэльта, рака
-    be-tarask: дэльта
+    be_tarask: дэльта
     bg: Делта
     bho: नदी डेल्टा
     bn: বদ্বীপ
@@ -199,8 +199,8 @@ dv_has_:
     sl: rečna delta
     sq: Delta lumore
     sr: речна делта
-    sr-ec: речна делта
-    sr-el: rečna delta
+    sr_ec: речна делта
+    sr_el: rečna delta
     sv: floddelta
     sw: Delta
     ta: ஆற்று முகத்துவாரம்
@@ -217,7 +217,7 @@ dv_has_:
     yi: דעלטע
     yue: 三角洲
     zh: 三角洲
-    zh-hant: 三角洲
+    zh_hant: 三角洲
 ---
 # [[River_Delta]] 
 

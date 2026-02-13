@@ -69,7 +69,7 @@ dv_has_:
     ar: الأسرة الموسعة
     ast: Familia estensa
     ba: Киңәйтелгән ғаилә
-    be-tarask: пашыраная сям’я
+    be_tarask: пашыраная сям’я
     bho: संजुक्त परिवार
     ca: família extensa
     cdo: Bùng-tàu
@@ -77,7 +77,7 @@ dv_has_:
     cy: Teulu estynedig
     da: Storfamilie
     de: Großfamilie
-    de-ch: Grossfamilie
+    de_ch: Grossfamilie
     en: extended family
     en-us: extended family
     eo: Etenda familio
@@ -106,7 +106,7 @@ dv_has_:
     or: ଯୌଥ ପରିବାର
     pl: Rodzina wielopokoleniowa
     pt: família extensa
-    pt-br: família extensa
+    pt_br: família extensa
     ru: Расширенная семья
     sl: razširjena družina
     sq: Familja e zgjeruar
@@ -122,7 +122,7 @@ dv_has_:
     wuu: 家族
     yue: 大家族
     zh: 家族
-    zh-hant: 家族
+    zh_hant: 家族
 ---
 # [[Extended_family]] 
 

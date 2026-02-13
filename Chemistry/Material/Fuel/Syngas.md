@@ -79,7 +79,7 @@ dv_has_:
     ar: غاز التصنيع
     ast: Gas de síntesis
     az: Sintez qaz
-    be-tarask: сынтэзаваны газ
+    be_tarask: сынтэзаваны газ
     ca: gas de síntesi
     cs: syntézní plyn
     da: Syntesegas
@@ -122,9 +122,9 @@ dv_has_:
     war: Syngas
     yue: 合成氣
     zh: 合成气
-    zh-hans: 合成气
-    zh-hant: 合成氣
-    zh-hk: 合成氣
+    zh_hans: 合成气
+    zh_hant: 合成氣
+    zh_hk: 合成氣
 ---
 # [[Syngas]] 
 

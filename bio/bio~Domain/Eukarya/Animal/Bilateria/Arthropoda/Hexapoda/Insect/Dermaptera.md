@@ -141,7 +141,7 @@ dv_has_:
     ba: Айырығойроҡтар
     bar: Oanschloifa
     be: скурыстакрылыя
-    be-tarask: скуракрылыя
+    be_tarask: скуракрылыя
     bg: кожестокрили
     ca: dermàpters
     ceb: Sipit
@@ -153,8 +153,8 @@ dv_has_:
     de: Ohrwürmer
     el: Δερμάπτερα
     en: Dermaptera
-    en-ca: Earwig
-    en-gb: earwig
+    en_ca: Earwig
+    en_gb: earwig
     eo: Forfikuloj
     es: Dermaptera
     et: Nahktiivalised
@@ -195,7 +195,7 @@ dv_has_:
     mul: Dermaptera
     nb: saksedyr
     nds: Ohrenkniepers
-    nds-nl: gaffeltaand
+    nds_nl: gaffeltaand
     nl: oorwormen
     nn: saksedyr
     nv: Jeeʼiigháhítsʼóóz
@@ -203,7 +203,7 @@ dv_has_:
     pa: ਈਅਰਵਿਗ
     pl: Skorki
     pt: Dermaptera
-    pt-br: Dermaptera
+    pt_br: Dermaptera
     ro: Urechelniță
     ru: кожистокрылые
     sco: Hornie-gollach
@@ -232,9 +232,9 @@ dv_has_:
     wuu: 蠼螋
     yue: 蠼螋
     zh: 革翅目
-    zh-cn: 革翅目
-    zh-hans: 革翅目
-    zh-tw: 革翅目
+    zh_cn: 革翅目
+    zh_hans: 革翅目
+    zh_tw: 革翅目
 ---
 # [[Dermaptera]] 
 

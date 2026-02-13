@@ -29,7 +29,7 @@ dv_has_:
     ba: Салуин
     ban: Tukad Salween
     be: Рака Салуін
-    be-tarask: Салуін
+    be_tarask: Салуін
     bg: Салуин
     bho: सालवीन नदी
     blk: ခြုံꩻခြောင်

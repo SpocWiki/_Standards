@@ -59,7 +59,7 @@ dv_has_:
     an: Enqüesta
     ar: استقصاء إحصائي
     ast: encuesta
-    be-tarask: мэтадалёгія апытаньня
+    be_tarask: мэтадалёгія апытаньня
     bn: জরিপ পদ্ধতিবিদ্যা
     ca: enquesta
     cs: průzkum veřejného mínění

@@ -26,7 +26,7 @@ dv_has_:
     an: Coleccionismo
     ar: تجميع
     be: калекцыянаванне
-    be-tarask: калекцыянаваньне
+    be_tarask: калекцыянаваньне
     bg: Колекционерство
     ca: col·leccionisme
     cs: sběratelství
@@ -73,7 +73,7 @@ dv_has_:
     sl: zbiranje
     sr: колекционарство
     sv: samlande
-    tg-cyrl: ҷамъкунӣ
+    tg_cyrl: ҷамъкунӣ
     tr: koleksiyonculuk
     uk: колекціонування
     vec: cołesionismo
@@ -81,12 +81,12 @@ dv_has_:
     wuu: 收藏
     yue: 收藏
     zh: 收藏
-    zh-cn: 收藏
-    zh-hans: 收藏
-    zh-hant: 收藏
-    zh-hk: 收藏
-    zh-sg: 收藏
-    zh-tw: 收藏
+    zh_cn: 收藏
+    zh_hans: 收藏
+    zh_hant: 收藏
+    zh_hk: 收藏
+    zh_sg: 收藏
+    zh_tw: 收藏
 aliases:
 - bailiú
 - Bildumazaletasun

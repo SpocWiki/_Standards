@@ -137,7 +137,7 @@ dv_has_:
     az: pilləkən
     ban: undag
     be: лесвіца
-    be-tarask: лесьвіца
+    be_tarask: лесьвіца
     bg: стълбище
     bn: সিঁড়ি
     br: diri
@@ -151,8 +151,8 @@ dv_has_:
     de-at: Stiege
     el: σκάλα
     en: stairs
-    en-ca: Stairs
-    en-gb: stairs
+    en_ca: Stairs
+    en_gb: stairs
     eo: ŝtuparo
     es: escalera
     et: trepp
@@ -207,7 +207,7 @@ dv_has_:
     pnb: پوڑی
     ps: زينې
     pt: escada
-    pt-br: escada
+    pt_br: escada
     qu: siqana pata-pata
     ro: scară
     ru: лестница
@@ -235,9 +235,9 @@ dv_has_:
     yi: טרעפּ
     yue: 樓梯
     zh: 楼梯
-    zh-hans: 楼梯
-    zh-hant: 樓梯
-    zh-tw: 樓梯
+    zh_hans: 楼梯
+    zh_hant: 樓梯
+    zh_tw: 樓梯
 ---
 # [[Stairs]] 
 

@@ -161,7 +161,7 @@ dv_has_:
     ba: Енәйәт
     bcl: Krimen
     be: злачынства
-    be-tarask: злачынства
+    be_tarask: злачынства
     bew: Kegajulan
     bg: престъпление
     bho: अपराध
@@ -178,8 +178,8 @@ dv_has_:
     de: Verbrechen
     el: έγκλημα
     en: crime
-    en-ca: Crime
-    en-gb: crime
+    en_ca: Crime
+    en_gb: crime
     eo: krimo
     es: crimen
     et: kuritegu
@@ -215,7 +215,7 @@ dv_has_:
     kn: ಅಪರಾಧ
     ko: 범죄
     ku: sûc
-    ku-latn: sûc
+    ku_latn: sûc
     ky: Кылмыш
     la: Scelus
     lb: Verbriechen
@@ -230,7 +230,7 @@ dv_has_:
     mnc: ᠸᡝᡳᠯᡝ
     mr: अपराध
     ms: jenayah
-    ms-arab: جنايه
+    ms_arab: جنايه
     mwl: Crime
     my: ရာဇဝတ်မှု
     nan: Hoān-chōe
@@ -247,7 +247,7 @@ dv_has_:
     pnb: جُرم
     ps: جرم
     pt: crime
-    pt-br: crime
+    pt_br: crime
     qu: Q'uma
     ro: crimă
     ru: преступление
@@ -271,7 +271,7 @@ dv_has_:
     tl: Krimen
     tr: suç
     tt: җинаять
-    tt-cyrl: җинаять
+    tt_cyrl: җинаять
     uk: злочин
     ur: جُرم
     uz: Jinoyat
@@ -282,14 +282,14 @@ dv_has_:
     yi: פארברעכן
     yue: 罪
     zh: 罪行
-    zh-cn: 罪行
-    zh-hans: 罪行
-    zh-hant: 罪行
-    zh-hk: 罪行
-    zh-mo: 罪行
+    zh_cn: 罪行
+    zh_hans: 罪行
+    zh_hant: 罪行
+    zh_hk: 罪行
+    zh_mo: 罪行
     zh-my: 罪行
-    zh-sg: 罪行
-    zh-tw: 罪行
+    zh_sg: 罪行
+    zh_tw: 罪行
 ---
 # [[Crime]]
 

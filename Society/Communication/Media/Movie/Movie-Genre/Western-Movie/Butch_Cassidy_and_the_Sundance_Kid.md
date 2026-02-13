@@ -53,11 +53,11 @@ dv_has_:
     cy: Butch Cassidy and the Sundance Kid
     da: Butch Cassidy og Sundance
     de: Zwei Banditen
-    de-ch: Zwei Banditen
+    de_ch: Zwei Banditen
     el: Οι Δύο Ληστές
     en: Butch Cassidy and the Sundance Kid
-    en-ca: Butch Cassidy and the Sundance Kid
-    en-gb: Butch Cassidy and the Sundance Kid
+    en_ca: Butch Cassidy and the Sundance Kid
+    en_gb: Butch Cassidy and the Sundance Kid
     eo: Butch Cassidy and the Sundance Kid
     es: Butch Cassidy and the Sundance Kid
     eu: Butch Cassidy and the Sundance Kid
@@ -80,7 +80,7 @@ dv_has_:
     pa: बुच कैसिडी और सनडांस किड
     pl: Butch Cassidy i Sundance Kid
     pt: Butch Cassidy and the Sundance Kid
-    pt-br: Butch Cassidy and the Sundance Kid
+    pt_br: Butch Cassidy and the Sundance Kid
     ro: Butch Cassidy și Sundance Kid
     ru: Бутч Кэссиди и Санденс Кид
     sh: Butch Cassidy i Sundance Kid
@@ -93,12 +93,12 @@ dv_has_:
     uk: Буч Кессіді і Санденс Кід (фільм)
     yue: 神槍手與智多星
     zh: 虎豹小霸王
-    zh-cn: 神枪手与智多星
-    zh-hans: 神枪手与智多星
-    zh-hant: 神槍手與智多星
-    zh-hk: 神槍手與智多星
-    zh-sg: 龙虎双寇
-    zh-tw: 虎豹小霸王
+    zh_cn: 神枪手与智多星
+    zh_hans: 神枪手与智多星
+    zh_hant: 神槍手與智多星
+    zh_hk: 神槍手與智多星
+    zh_sg: 龙虎双寇
+    zh_tw: 虎豹小霸王
 ---
 #has_/genre :: [ [[../../../../Genre/Fiction/Western(Genre)]], [[Buddy-Story]] ]
 

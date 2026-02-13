@@ -101,7 +101,7 @@ dv_has_:
     az: Durna
     ba: Торна
     be: Журавель
-    be-tarask: Журавель
+    be_tarask: Журавель
     bg: Жерав
     bn: সারস মণ্ডল
     br: Garan

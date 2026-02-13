@@ -197,7 +197,7 @@ dv_has_:
     ban: Jendelo
     bcl: Bintana
     be: акно
-    be-tarask: вакно
+    be_tarask: вакно
     bg: Прозорец
     bho: खिड़की
     bjn: Lalungkang
@@ -216,13 +216,13 @@ dv_has_:
     da: vindue
     dag: Takoro
     de: Fenster
-    de-ch: Fenster
+    de_ch: Fenster
     dsb: Wokno
     el: παράθυρο
     eml: Fnèstra
     en: window
-    en-ca: window
-    en-gb: window
+    en_ca: window
+    en_gb: window
     eo: fenestro
     es: ventana
     et: aken
@@ -280,7 +280,7 @@ dv_has_:
     nap: Fenesta
     nb: vindu
     nds: Finster
-    nds-nl: vienster
+    nds_nl: vienster
     ne: झ्याल
     new: झ्याः
     nl: venster
@@ -293,7 +293,7 @@ dv_has_:
     pnb: باری
     ps: کړکۍ
     pt: janela
-    pt-br: janela
+    pt_br: janela
     qu: Wintana
     ro: fereastră
     ru: окно
@@ -319,8 +319,8 @@ dv_has_:
     so: Dariishad
     sq: dritare
     sr: прозор
-    sr-ec: прозор
-    sr-el: prozor
+    sr_ec: прозор
+    sr_el: prozor
     su: jandéla
     sv: fönster
     sw: Dirisha
@@ -333,8 +333,8 @@ dv_has_:
     tl: Dungawan
     tr: pencere
     tt: тәрәзә
-    tt-cyrl: тәрәзә
-    tt-latn: täräzä
+    tt_cyrl: тәрәзә
+    tt_latn: täräzä
     uk: вікно
     ur: کھڑکی
     vec: fenestra
@@ -349,8 +349,8 @@ dv_has_:
     yue: 窗
     za: Conghcueng
     zh: 窗
-    zh-hans: 窗
-    zh-hant: 窗
+    zh_hans: 窗
+    zh_hant: 窗
 ---
 # [[Window]] 
 

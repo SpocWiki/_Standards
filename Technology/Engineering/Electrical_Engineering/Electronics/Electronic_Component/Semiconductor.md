@@ -131,7 +131,7 @@ dv_has_:
     ba: Ярым үткәргес
     bar: Hoibloata
     be: паўправаднік
-    be-tarask: паўправаднік
+    be_tarask: паўправаднік
     bg: Полупроводник
     bn: অর্ধপরিবাহী
     bs: Poluprovodnik
@@ -221,8 +221,8 @@ dv_has_:
     sl: polprevodnik
     sq: Gjysmëpërcjellësi
     sr: полупроводник
-    sr-ec: полупроводник
-    sr-el: poluprovodnik
+    sr_ec: полупроводник
+    sr_el: poluprovodnik
     stq: Hoolichlaitere
     sv: halvledare
     sw: Semikonda
@@ -245,9 +245,9 @@ dv_has_:
     yue: 半導體
     za: bandaujdij
     zh: 半導體
-    zh-hans: 半导体
-    zh-hant: 半導體
-    zh-tw: 半導體
+    zh_hans: 半导体
+    zh_hant: 半導體
+    zh_tw: 半導體
 ---
 # [[Semiconductor]] 
 

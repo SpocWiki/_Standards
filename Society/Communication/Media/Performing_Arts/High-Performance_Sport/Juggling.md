@@ -81,7 +81,7 @@ dv_has_:
     ast: Malabarismu
     az: Janqlyorluq
     be: жангліраванне
-    be-tarask: жангляваньне
+    be_tarask: жангляваньне
     bg: жонглиране
     ca: malabarisme
     cs: žonglování
@@ -90,7 +90,7 @@ dv_has_:
     de: Jonglieren
     el: Ζογκλερικά
     en: juggling
-    en-gb: juggling
+    en_gb: juggling
     eo: ĵonglado
     es: malabarismo
     et: Žongleerimine
@@ -131,12 +131,12 @@ dv_has_:
     yi: זשאנגלירן
     yue: 雜技
     zh: 雜耍
-    zh-cn: 杂技
-    zh-hans: 杂技
-    zh-hant: 雜技
-    zh-hk: 雜技
-    zh-sg: 杂技
-    zh-tw: 雜耍
+    zh_cn: 杂技
+    zh_hans: 杂技
+    zh_hant: 雜技
+    zh_hk: 雜技
+    zh_sg: 杂技
+    zh_tw: 雜耍
 ---
 # [[Juggling]] 
 

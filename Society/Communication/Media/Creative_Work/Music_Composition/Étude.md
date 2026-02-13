@@ -60,7 +60,7 @@ dv_has_:
   name_:
     ar: دراسة
     az: etüd
-    be-tarask: эцюд
+    be_tarask: эцюд
     bg: eтюд
     ca: estudi
     ckb: ئێتوود
@@ -97,8 +97,8 @@ dv_has_:
     sk: etuda
     sl: etuda
     sr: етида
-    sr-ec: етида
-    sr-el: etida
+    sr_ec: етида
+    sr_el: etida
     sv: etyd
     th: เอตู๊ด
     tr: etüd
@@ -106,12 +106,12 @@ dv_has_:
     vi: Khúc luyện
     yue: 練習曲
     zh: 練習曲
-    zh-cn: 练习曲
-    zh-hans: 练习曲
-    zh-hant: 練習曲
-    zh-hk: 練習曲
-    zh-sg: 练习曲
-    zh-tw: 練習曲
+    zh_cn: 练习曲
+    zh_hans: 练习曲
+    zh_hant: 練習曲
+    zh_hk: 練習曲
+    zh_sg: 练习曲
+    zh_tw: 練習曲
 ---
 # [[Étude]] 
 

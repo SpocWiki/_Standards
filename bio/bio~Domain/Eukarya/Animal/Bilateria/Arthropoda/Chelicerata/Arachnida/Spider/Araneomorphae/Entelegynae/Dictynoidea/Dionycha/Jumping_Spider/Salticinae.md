@@ -40,7 +40,7 @@ dv_has_:
     oc: Salticinae
     pl: Salticinae
     pt: Salticinae
-    pt-br: Salticinae
+    pt_br: Salticinae
     ro: Salticinae
     ru: Salticinae
     sl: Salticinae
@@ -50,8 +50,8 @@ dv_has_:
     vo: Salticinae
     war: Salticinae
     zh: 跳蛛亚科
-    zh-cn: 跳蛛亚科
-    zh-hans: 跳蛛亚科
+    zh_cn: 跳蛛亚科
+    zh_hans: 跳蛛亚科
 ---
 ## [[Salticinae]] 
 

@@ -100,7 +100,7 @@ dv_has_:
     ba: Синан
     bar: Mimar Sinan
     be: Сінан
-    be-tarask: Сынан
+    be_tarask: Сынан
     bg: Синан
     bi: Mimar Sinan
     bn: মিমার সিনান
@@ -120,8 +120,8 @@ dv_has_:
     diq: Mimar Sinan
     el: Μιμάρ Σινάν
     en: Mimar Sinan
-    en-ca: Mimar Sinan
-    en-gb: Mimar Sinan
+    en_ca: Mimar Sinan
+    en_gb: Mimar Sinan
     eo: Sinan
     es: Sinan
     et: Mimar Sinan
@@ -188,7 +188,7 @@ dv_has_:
     pms: Mimar Sinan
     pnb: معمار سنان پاشا
     pt: Sinan
-    pt-br: Sinan
+    pt_br: Sinan
     ro: Mimar Sinan
     roa-tara: Sinān
     ru: Синан

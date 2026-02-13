@@ -91,7 +91,7 @@ dv_has_:
     ast: Trespiración vexetal
     az: Transpirasiya
     be: Транспірацыя
-    be-tarask: трансьпірацыя
+    be_tarask: трансьпірацыя
     bg: Транспирация
     bn: প্রস্বেদন
     bs: Transpiracija
@@ -124,16 +124,16 @@ dv_has_:
     ka: ტრანსპირაცია
     kaa: Transpiraсiya
     kk: Транспирация
-    kk-arab: ترانسپىيراتسىييا
+    kk_arab: ترانسپىيراتسىييا
     kk-cn: ترانسپىيراتسىييا
-    kk-cyrl: Транспирация
+    kk_cyrl: Транспирация
     kk-kz: Транспирация
-    kk-latn: Transpïracïya
+    kk_latn: Transpïracïya
     kk-tr: Transpïracïya
     kn: ಬಾಷ್ಪೀಕರಣ
     ko: 증산
     ku: hilmîn
-    ku-latn: hilmîn
+    ku_latn: hilmîn
     kw: Treusanellans
     ky: Транспирация
     la: Transpiratio
@@ -161,8 +161,8 @@ dv_has_:
     sk: Transpirácia
     sl: transpiracija
     sr: транспирација
-    sr-ec: транспирација
-    sr-el: Transpiracija
+    sr_ec: транспирација
+    sr_el: Transpiracija
     sv: Transpiration
     ta: ஆவியுயிர்ப்பு
     te: ట్రాన్స్పిరేషన్(బాష్పోత్సేకం)
@@ -174,12 +174,12 @@ dv_has_:
     wuu: 蒸腾作用
     yue: 蒸騰
     zh: 蒸腾作用
-    zh-cn: 蒸腾作用
-    zh-hans: 蒸腾作用
-    zh-hant: 蒸騰作用
-    zh-hk: 蒸散作用
-    zh-sg: 蒸腾作用
-    zh-tw: 蒸散作用
+    zh_cn: 蒸腾作用
+    zh_hans: 蒸腾作用
+    zh_hant: 蒸騰作用
+    zh_hk: 蒸散作用
+    zh_sg: 蒸腾作用
+    zh_tw: 蒸散作用
 ---
 # [[Transpiration]]  
 

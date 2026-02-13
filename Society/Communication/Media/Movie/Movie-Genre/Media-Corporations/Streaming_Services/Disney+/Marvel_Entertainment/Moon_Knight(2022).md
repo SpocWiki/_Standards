@@ -4,7 +4,7 @@ dv_has_:
   name_:
     ar: فارس القمر
     az: Ay cəngavəri
-    be-tarask: Месяцовы рыцар
+    be_tarask: Месяцовы рыцар
     bg: Лунния рицар (сериал)
     bn: মুন নাইট
     ca: Moon Knight
@@ -28,7 +28,7 @@ dv_has_:
     sv: Moon Knight
     tr: Moon Knight
     tt: Ай алпары
-    tt-cyrl: Ай алпары
+    tt_cyrl: Ай алпары
     uk: Місячний лицар
     uz: Oy ritsari
     zh: 月光騎士

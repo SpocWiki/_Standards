@@ -104,7 +104,7 @@ dv_has_:
     ast: diagrama de fas
     az: faza diaqramı
     be: фазавая дыяграма
-    be-tarask: фазавая дыяграма
+    be_tarask: фазавая дыяграма
     bg: фазова диаграма
     bn: দশাচিত্র
     bs: fazni dijagram
@@ -130,11 +130,11 @@ dv_has_:
     it: diagramma di fase
     ja: 相図
     kk: диаграмма күйі
-    kk-arab: دىياگرامما كۇيى
+    kk_arab: دىياگرامما كۇيى
     kk-cn: دىياگرامما كۇيى
-    kk-cyrl: диаграмма күйі
+    kk_cyrl: диаграмма күйі
     kk-kz: диаграмма күйі
-    kk-latn: dïagramma küýi
+    kk_latn: dïagramma küýi
     kk-tr: dïagramma küýi
     ko: 상평형 그림
     lv: fāzu stāvokļa diagramma
@@ -151,8 +151,8 @@ dv_has_:
     sk: fázový diagram
     sl: fazni diagram
     sr: фазни дијаграм
-    sr-ec: фазни дијаграм
-    sr-el: fazni dijagram
+    sr_ec: фазни дијаграм
+    sr_el: fazni dijagram
     sv: fasdiagram
     tr: faz diyagramı
     uk: фазова діаграма
@@ -160,12 +160,12 @@ dv_has_:
     vi: biểu đồ pha
     yue: 相圖
     zh: 相图
-    zh-cn: 相图
-    zh-hans: 相图
-    zh-hant: 相圖
-    zh-hk: 相圖
-    zh-sg: 相图
-    zh-tw: 相圖
+    zh_cn: 相图
+    zh_hans: 相图
+    zh_hant: 相圖
+    zh_hk: 相圖
+    zh_sg: 相图
+    zh_tw: 相圖
 ---
 # [[Phase_Diagram]] 
 

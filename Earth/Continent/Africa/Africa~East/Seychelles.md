@@ -514,7 +514,7 @@ dv_is_:
 dv_has_:
   name_:
     ab: Сеишелтәи Адгьылбжьахақәа
-    aeb-arab: سيشال
+    aeb_arab: سيشال
     af: Seychelle
     am: ሲሸልስ
     an: Seychelles
@@ -533,7 +533,7 @@ dv_has_:
     bar: Seychelln
     bcl: Seytsilyes
     be: Сейшэльскія Астравы
-    be-tarask: Сэйшэлы
+    be_tarask: Сэйшэлы
     bew: Sésèl
     bg: Сейшели
     bho: सेशेल्स
@@ -547,7 +547,7 @@ dv_has_:
     bs: Sejšeli
     bxr: Сейшелийн арлууд
     ca: Seychelles
-    cbk-zam: Seychelles
+    cbk_zam: Seychelles
     cdo: Seychelles
     ce: Сейшелан гlайреш
     ceb: Seychelles
@@ -555,7 +555,7 @@ dv_has_:
     co: Sexelles
     cr: Repiblik Sesel
     crh: Seyşeller
-    crh-latn: Seyşeller
+    crh_latn: Seyşeller
     cs: Seychely
     cv: Сейшел утравĕсем
     cy: Seychelles
@@ -563,7 +563,7 @@ dv_has_:
     dag: Seychelles
     de: Seychellen
     de-at: Seychellen
-    de-ch: Seychellen
+    de_ch: Seychellen
     diq: Seyşeli
     dsb: Seychelle
     dty: सेसेल्स
@@ -571,8 +571,8 @@ dv_has_:
     ee: Seychelles
     el: Σεϋχέλλες
     en: Seychelles
-    en-ca: Seychelles
-    en-gb: Seychelles
+    en_ca: Seychelles
+    en_gb: Seychelles
     eo: Sejŝeloj
     es: Seychelles
     et: Seišellid
@@ -662,7 +662,7 @@ dv_has_:
     mr: सेशेल्स
     mrj: Сейшелвлӓ
     ms: Seychelles
-    ms-arab: سيچيلس
+    ms_arab: سيچيلس
     mt: Seychelles
     my: ဆေးရှဲနိုင်ငံ
     mzn: سیشل
@@ -671,7 +671,7 @@ dv_has_:
     nan: Seychelles
     nb: Seychellene
     nds: Seychellen
-    nds-nl: Seychellen
+    nds_nl: Seychellen
     ne: सेसेल्स
     new: सिशेल्स
     nl: Seychellen
@@ -692,7 +692,7 @@ dv_has_:
     pnb: سشلز
     ps: سيشل
     pt: Seychelles
-    pt-br: Seicheles
+    pt_br: Seicheles
     qu: Sichillakuna
     rki: ဆီးရှဲ သမ္မတနိုင်ငံ
     rm: Seychellas
@@ -721,8 +721,8 @@ dv_has_:
     so: Seyshelles
     sq: Sejshellet
     sr: Сејшели
-    sr-ec: Сејшели
-    sr-el: Sejšeli
+    sr_ec: Сејшели
+    sr_el: Sejšeli
     ss: ISeyishelesi
     st: Seychelles
     stq: Seychelle
@@ -765,13 +765,13 @@ dv_has_:
     zea: Seychell'n
     zgh: ⵙⵉⵛⵍ
     zh: 塞舌尔
-    zh-cn: 塞舌尔
-    zh-hans: 塞舌尔
-    zh-hant: 塞席爾
-    zh-hk: 塞舌爾
-    zh-mo: 塞舌爾
-    zh-sg: 塞舌尔
-    zh-tw: 塞席爾
+    zh_cn: 塞舌尔
+    zh_hans: 塞舌尔
+    zh_hant: 塞席爾
+    zh_hk: 塞舌爾
+    zh_mo: 塞舌爾
+    zh_sg: 塞舌尔
+    zh_tw: 塞席爾
     zu: IsiSeyisheli
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Reunion

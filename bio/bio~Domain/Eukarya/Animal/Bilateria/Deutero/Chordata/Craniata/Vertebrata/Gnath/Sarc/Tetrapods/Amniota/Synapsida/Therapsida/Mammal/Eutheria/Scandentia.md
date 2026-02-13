@@ -88,7 +88,7 @@ dv_has_:
     ban: Semal
     bar: Scandentia
     be: тупаепадобныя
-    be-tarask: вавёрачнікі
+    be_tarask: вавёрачнікі
     bg: тупайоподобни
     bjn: Tupai
     br: Scandentia
@@ -101,10 +101,10 @@ dv_has_:
     da: Træspidsmus
     de: Spitzhörnchen
     de-at: Scandentia
-    de-ch: Scandentia
+    de_ch: Scandentia
     en: Scandentia
-    en-ca: Scandentia
-    en-gb: Scandentia
+    en_ca: Scandentia
+    en_gb: Scandentia
     eo: Tupajuloj
     es: Scandentia
     et: Scandentia
@@ -150,7 +150,7 @@ dv_has_:
     nap: Scandentia
     nb: Trespissmus
     nds: Scandentia
-    nds-nl: Scandentia
+    nds_nl: Scandentia
     nl: Toepaja's
     nn: Scandentia
     nov: Scandentia
@@ -162,7 +162,7 @@ dv_has_:
     pl: Wiewióreczniki
     pms: Scandentia
     pt: Scandentia
-    pt-br: Scandentia
+    pt_br: Scandentia
     rm: Scandentia
     ro: Scandentia
     ru: тупайи
@@ -189,12 +189,12 @@ dv_has_:
     wuu: 树鼩目
     yue: 樹鼩
     zh: 树鼩目
-    zh-cn: 树鼩目
-    zh-hans: 攀兽目
-    zh-hant: 攀獸目
-    zh-hk: 攀獸目
-    zh-sg: 攀兽目
-    zh-tw: 攀獸目
+    zh_cn: 树鼩目
+    zh_hans: 攀兽目
+    zh_hant: 攀獸目
+    zh_hk: 攀獸目
+    zh_sg: 攀兽目
+    zh_tw: 攀獸目
     zu: Scandentia
 ---
 # [[Scandentia]] 

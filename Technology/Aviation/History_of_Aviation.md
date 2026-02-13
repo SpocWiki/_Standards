@@ -63,7 +63,7 @@ dv_has_:
     ar: تاريخ الطيران
     ast: historia de l'aviación
     be: гісторыя авіяцыі
-    be-tarask: гісторыя авіяцыі
+    be_tarask: гісторыя авіяцыі
     bn: বিমানচালনার ইতিহাস
     ca: història de l'aviació
     cs: historie letectví
@@ -107,8 +107,8 @@ dv_has_:
     yi: היסטאריע פון אוויאציע
     yue: 飛行史
     zh: 航空史
-    zh-hant: 航空史
-    zh-tw: 航空史
+    zh_hant: 航空史
+    zh_tw: 航空史
 ---
 # [[History_of_Aviation]] 
 

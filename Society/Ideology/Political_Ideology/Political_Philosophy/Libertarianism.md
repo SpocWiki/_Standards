@@ -99,7 +99,7 @@ dv_has_:
     az: libertarianizm
     bar: Libertarismus
     be: лібертарыянства
-    be-tarask: лібэртарыянства
+    be_tarask: лібэртарыянства
     bg: Либертарианство
     ca: llibertarisme
     ckb: ئازادیخوازی
@@ -107,12 +107,12 @@ dv_has_:
     cy: Rhyddewyllysiaeth
     da: Libertarianisme
     de: Libertarismus
-    de-ch: Libertarismus
+    de_ch: Libertarismus
     diq: Liberteryenizm
     el: Ελευθερισμός
     en: libertarianism
-    en-ca: Libertarianism
-    en-gb: libertarianism
+    en_ca: Libertarianism
+    en_gb: libertarianism
     eo: libertarianismo
     es: libertarismo
     et: Libertarism
@@ -137,11 +137,11 @@ dv_has_:
     ja: リバタリアニズム
     ka: ლიბერტარიანიზმი
     kk: Либертаризм
-    kk-arab: لىيبەرتارىيزم
+    kk_arab: لىيبەرتارىيزم
     kk-cn: لىيبەرتارىيزم
-    kk-cyrl: Либертаризм
+    kk_cyrl: Либертаризм
     kk-kz: Либертаризм
-    kk-latn: Lïbertarïzm
+    kk_latn: Lïbertarïzm
     kk-tr: Lïbertarïzm
     ko: 자유지상주의
     ku: Lîbertarîzm
@@ -156,7 +156,7 @@ dv_has_:
     mzn: لیبرترینیسم
     nan: Chu-iû-chì-siōng-lūn
     nb: libertarianisme
-    nds-nl: libertarisme
+    nds_nl: libertarisme
     nl: libertarisme
     oc: Libertarianisme
     os: либертаризм
@@ -164,7 +164,7 @@ dv_has_:
     pl: libertarianizm
     ps: آزادي پالنه
     pt: libertarianismo
-    pt-br: libertarismo
+    pt_br: libertarismo
     ro: libertarianism
     ru: либертарианство
     sc: libertarismu
@@ -177,8 +177,8 @@ dv_has_:
     sms: libertarismm
     sq: Libertarianizmi
     sr: либертаријанизам
-    sr-ec: Либертаријанизам
-    sr-el: Libertarijanizam
+    sr_ec: Либертаријанизам
+    sr_el: Libertarijanizam
     sv: libertarianism
     ta: சுதந்திரவாதம்
     tg: Либертаризм
@@ -194,12 +194,12 @@ dv_has_:
     wuu: 自由意志主義
     yue: 自由意志主義
     zh: 自由意志主義
-    zh-cn: 自由意志主义
-    zh-hans: 自由意志主义
-    zh-hant: 自由意志主義
-    zh-hk: 自由意志主義
-    zh-sg: 自由意志主义
-    zh-tw: 自由意志主義
+    zh_cn: 自由意志主义
+    zh_hans: 自由意志主义
+    zh_hant: 自由意志主義
+    zh_hk: 自由意志主義
+    zh_sg: 自由意志主义
+    zh_tw: 自由意志主義
 ---
 # [[Libertarianism]] 
 

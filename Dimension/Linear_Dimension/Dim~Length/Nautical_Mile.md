@@ -121,7 +121,7 @@ dv_has_:
     azb: دنیز میلی
     bar: Seemein
     be: Марская міля
-    be-tarask: марская міля
+    be_tarask: марская міля
     bg: морска миля
     bn: নটিক্যাল মাইল
     bo: མཚོ་ལེ།
@@ -157,11 +157,11 @@ dv_has_:
     ja: 海里
     ka: საზღვაო მილი
     kk: теңіз милясы
-    kk-arab: تەڭىز مىيلياسى
+    kk_arab: تەڭىز مىيلياسى
     kk-cn: تەڭىز مىيلياسى
-    kk-cyrl: теңіз милясы
+    kk_cyrl: теңіз милясы
     kk-kz: теңіз милясы
-    kk-latn: teñiz mïlyası
+    kk_latn: teñiz mïlyası
     kk-tr: teñiz mïlyası
     ko: 해리
     lt: jūrmylė
@@ -169,7 +169,7 @@ dv_has_:
     mk: морска милја
     ml: നോട്ടിക്കൽ മൈൽ
     ms: batu nautika
-    ms-arab: باتو ناءوتيکا
+    ms_arab: باتو ناءوتيکا
     nb: nautisk mil
     nl: zeemijl
     nn: nautisk mil
@@ -179,7 +179,7 @@ dv_has_:
     pl: mila morska
     pnb: سمندری میل
     pt: milha náutica
-    pt-br: milha náutica
+    pt_br: milha náutica
     ro: milă marină
     ru: морская миля
     scn: migghiu nauticu
@@ -189,8 +189,8 @@ dv_has_:
     sl: navtična milja
     so: Mayl-badeed
     sr: наутичка миља
-    sr-ec: наутичка миља
-    sr-el: nautička milja
+    sr_ec: наутичка миља
+    sr_el: nautička milja
     sv: nautisk mil
     ta: கடல் மைல்
     th: ไมล์ทะเล
@@ -204,14 +204,14 @@ dv_has_:
     wuu: 海里
     yue: 海哩
     zh: 海里
-    zh-cn: 海里
-    zh-hans: 海里
-    zh-hant: 海浬
-    zh-hk: 海里
-    zh-mo: 海里
+    zh_cn: 海里
+    zh_hans: 海里
+    zh_hant: 海浬
+    zh_hk: 海里
+    zh_mo: 海里
     zh-my: 海里
-    zh-sg: 海里
-    zh-tw: 海浬
+    zh_sg: 海里
+    zh_tw: 海浬
 ---
 # [[Nautical_Mile]] 
 

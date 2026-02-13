@@ -79,7 +79,7 @@ dv_has_:
     ban: Bison Eropa
     bar: Wisent
     be: Зубр еўрапейскі
-    be-tarask: зубар
+    be_tarask: зубар
     bg: зубър
     br: Bizon Europa
     bs: Evropski bizon
@@ -92,8 +92,8 @@ dv_has_:
     diq: Bizonê Ewropa
     el: ευρωπαϊκός βίσονας
     en: Bison bonasus
-    en-ca: Bison bonasus
-    en-gb: Bison bonasus
+    en_ca: Bison bonasus
+    en_gb: Bison bonasus
     eo: Eŭropa bizono
     es: Bison bonasus
     et: euroopa piison
@@ -132,7 +132,7 @@ dv_has_:
     ms: Bison Eropah
     mul: Bison bonasus
     nb: visent
-    nds-nl: wisent
+    nds_nl: wisent
     nl: wisent
     nn: visent
     nv: Béésh Bichʼahníí Bikéyahdę́ę́ʼ ayání
@@ -141,7 +141,7 @@ dv_has_:
     pl: żubr europejski
     pnb: یورپی بائسن
     pt: Bisonte-europeu
-    pt-br: Bisonte-europeu
+    pt_br: Bisonte-europeu
     ro: Zimbru
     ru: Зубp
     sco: Bison bonasus
@@ -152,7 +152,7 @@ dv_has_:
     smn: viiseent
     sq: Bison bonasus
     sr: европски бизон
-    sr-ec: Европски бизон
+    sr_ec: Европски бизон
     sv: visent
     ta: ஐரோப்பிய காட்டெருமை
     tg: Зубр
@@ -169,8 +169,8 @@ dv_has_:
     wuu: 欧洲野牛
     yue: 歐洲野牛
     zh: 欧洲野牛
-    zh-cn: 欧洲野牛
-    zh-tw: 歐洲野牛
+    zh_cn: 欧洲野牛
+    zh_tw: 歐洲野牛
 ---
 # [[Wisent]] 
 

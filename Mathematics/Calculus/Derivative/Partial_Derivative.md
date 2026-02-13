@@ -75,18 +75,18 @@ dv_has_:
     az: xüsusi törəmə
     ba: Айырым сығарылма
     be: Частковая вытворная
-    be-tarask: часная вытворная
+    be_tarask: часная вытворная
     bg: Частна производна
     ca: derivada parcial
     ckb: بەشە گرتە
     cs: Parciální derivace
     cv: Харпăр тăхăм
     de: partielle Ableitung
-    de-ch: Partielle Ableitung
+    de_ch: Partielle Ableitung
     el: Μερική παράγωγος
     en: partial derivative
-    en-ca: Partial derivative
-    en-gb: Partial derivative
+    en_ca: Partial derivative
+    en_gb: Partial derivative
     eo: parta derivaĵo
     es: derivada parcial
     et: Osatuletis
@@ -103,11 +103,11 @@ dv_has_:
     it: derivata parziale
     ja: 偏微分
     kk: Дербес туынды
-    kk-arab: دەربەس تۋىندى
+    kk_arab: دەربەس تۋىندى
     kk-cn: دەربەس تۋىندى
-    kk-cyrl: Дербес туынды
+    kk_cyrl: Дербес туынды
     kk-kz: Дербес туынды
-    kk-latn: Derbes twındı
+    kk_latn: Derbes twındı
     kk-tr: Derbes twındı
     ko: 편미분
     ky: Айрым туунду
@@ -119,14 +119,14 @@ dv_has_:
     nn: Partiellderivert
     pl: pochodna cząstkowa
     pt: derivada parcial
-    pt-br: Derivada parcial
+    pt_br: Derivada parcial
     ro: Derivată parțială
     ru: частная производная
     sk: Parciálna derivácia
     sl: parcialni odvod
     sq: Derivati pjesor
     sr: Парцијални извод
-    sr-ec: Парцијални извод
+    sr_ec: Парцијални извод
     sv: Partiell derivata
     ta: பகுதி வகைக்கெழு
     tl: Parsiyal na deribatibo
@@ -135,12 +135,12 @@ dv_has_:
     vi: Đạo hàm riêng
     yue: 偏導數
     zh: 偏导数
-    zh-cn: 偏导数
-    zh-hans: 偏导数
-    zh-hant: 偏導數
-    zh-hk: 偏導數
-    zh-sg: 偏导数
-    zh-tw: 偏導數
+    zh_cn: 偏导数
+    zh_hans: 偏导数
+    zh_hant: 偏導數
+    zh_hk: 偏導數
+    zh_sg: 偏导数
+    zh_tw: 偏導數
 ---
 # [[Partial_Derivative]] 
 

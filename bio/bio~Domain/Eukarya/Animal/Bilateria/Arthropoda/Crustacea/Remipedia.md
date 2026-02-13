@@ -66,7 +66,7 @@ dv_has_:
     oc: Remipedia
     pl: Łopatonogi
     pt: Remipedia
-    pt-br: Remipedia
+    pt_br: Remipedia
     ro: Remipedia
     ru: Ремипедии
     sl: Remipedia
@@ -79,8 +79,8 @@ dv_has_:
     vo: Remipedia
     war: Remipedia
     zh: 槳足綱
-    zh-cn: 桨足纲
-    zh-tw: 槳足綱
+    zh_cn: 桨足纲
+    zh_tw: 槳足綱
 ---
 # [[Remipedia]] 
 ![ ](Remipedia/Speleonectes_ondinae.gif) 

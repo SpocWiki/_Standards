@@ -173,8 +173,8 @@ dv_is_same_as:
 - '[[/_secret/Earth/Geology/Landform/Valley.secret|Valley.secret]]'
 dv_has_:
   name_:
-    aeb-arab: واد
-    aeb-latn: wèd
+    aeb_arab: واد
+    aeb_latn: wèd
     af: vallei
     an: val
     ann: iteke
@@ -186,7 +186,7 @@ dv_has_:
     bbc: rura
     bcl: kababan
     be: даліна
-    be-tarask: даліна
+    be_tarask: даліна
     bew: lebak
     bg: долина
     bho: घाटी
@@ -203,11 +203,11 @@ dv_has_:
     cy: dyffryn
     da: dal
     de: Tal
-    de-ch: Tal
+    de_ch: Tal
     el: κοιλάδα
     en: valley
-    en-ca: valley
-    en-gb: valley
+    en_ca: valley
+    en_gb: valley
     eo: valo
     es: valle
     et: org
@@ -247,7 +247,7 @@ dv_has_:
     ko: 골짜기
     ks: وٲدی
     ku: newal
-    ku-latn: newal
+    ku_latn: newal
     kw: nans
     ky: өрөөн
     la: vallis
@@ -265,12 +265,12 @@ dv_has_:
     mnc: ᡥᠣᠯᠣ
     mr: दरी
     ms: lembah
-    ms-arab: لمبه
+    ms_arab: لمبه
     my: လျှို
     nan: soaⁿ-kok
     nb: dal
     nds: Daal
-    nds-nl: dal
+    nds_nl: dal
     ne: उपत्यका
     new: स्वनिगः
     nl: dal
@@ -284,7 +284,7 @@ dv_has_:
     pnb: وادی
     ps: دره
     pt: vale
-    pt-br: vale
+    pt_br: vale
     qu: qhichwa
     ro: vale
     ru: долина
@@ -302,8 +302,8 @@ dv_has_:
     so: doox
     sq: luginë
     sr: долина
-    sr-ec: долина
-    sr-el: dolina
+    sr_ec: долина
+    sr_el: dolina
     sv: dal
     sw: bonde
     szy: dihep
@@ -315,7 +315,7 @@ dv_has_:
     tok: anpa nena
     tr: vadi
     tt: үзән
-    tt-cyrl: үзән
+    tt_cyrl: үзән
     udm: нёжал
     uk: долина
     ur: وادی
@@ -329,10 +329,10 @@ dv_has_:
     yi: טאל
     yue: 山谷
     zh: 谷地
-    zh-cn: 谷地
-    zh-hans: 谷地
-    zh-hant: 谷地
-    zh-tw: 谷地
+    zh_cn: 谷地
+    zh_hans: 谷地
+    zh_hant: 谷地
+    zh_tw: 谷地
 ---
 # [[Valley]] 
 

@@ -130,7 +130,7 @@ dv_has_:
     azb: ویلیام وایلر
     bar: William Wyler
     be: Уільям Уайлер
-    be-tarask: Ўільям Ўайлер
+    be_tarask: Ўільям Ўайлер
     bg: Уилям Уайлър
     bn: উইলিয়াম ওয়াইলার
     bs: William Wyler
@@ -144,8 +144,8 @@ dv_has_:
     dsb: William Wyler
     el: Γουίλιαμ Γουάιλερ
     en: William Wyler
-    en-ca: William Wyler
-    en-gb: William Wyler
+    en_ca: William Wyler
+    en_gb: William Wyler
     eo: William Wyler
     es: William Wyler
     et: William Wyler
@@ -191,7 +191,7 @@ dv_has_:
     nah: William Wyler
     nb: William Wyler
     nds: William Wyler
-    nds-nl: William Wyler
+    nds_nl: William Wyler
     nl: William Wyler
     nn: William Wyler
     nrm: William Wyler
@@ -205,7 +205,7 @@ dv_has_:
     pl: William Wyler
     pms: William Wyler
     pt: William Wyler
-    pt-br: William Wyler
+    pt_br: William Wyler
     qu: William Wyler
     rm: William Wyler
     ro: William Wyler
@@ -237,11 +237,11 @@ dv_has_:
     yue: 威廉韋勒
     zea: William Wyler
     zh: 威廉·惠勒
-    zh-hans: 威廉·惠勒
-    zh-hant: 威廉·惠勒
+    zh_hans: 威廉·惠勒
+    zh_hant: 威廉·惠勒
     zh-my: 威廉·惠勒
-    zh-sg: 威廉·惠勒
-    zh-tw: 威廉·惠勒
+    zh_sg: 威廉·惠勒
+    zh_tw: 威廉·惠勒
 ---
 # [[Wyler,William]] 
 

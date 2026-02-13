@@ -138,23 +138,23 @@ dv_has_:
     az: naşir
     ba: нәшерсе
     be: выдавец
-    be-tarask: выдавец
+    be_tarask: выдавец
     bg: издател
     bn: প্রকাশক
     ca: editor
     co: editore
-    crh-latn: neşirci
+    crh_latn: neşirci
     cs: vydavatel
     cy: cyhoeddwr
     da: forlægger
     de: Verleger
     de-at: Verleger
-    de-ch: Verleger
+    de_ch: Verleger
     diq: Vılakerdoğ
     el: εκδότης
     en: publisher
-    en-ca: publisher
-    en-gb: publisher
+    en_ca: publisher
+    en_gb: publisher
     en-us: publisher
     eo: eldonisto
     es: editor
@@ -182,7 +182,7 @@ dv_has_:
     ka: გამომცემელი
     kaa: baspashı
     ko: 출판인
-    ku-latn: weşanger
+    ku_latn: weşanger
     kw: dyller
     la: editor
     lb: Editeur
@@ -194,7 +194,7 @@ dv_has_:
     mk: издавач
     mr: प्रकाशक
     ms: penerbit
-    ms-arab: ڤنربيت
+    ms_arab: ڤنربيت
     mt: pubblikatur
     nb: forlegger
     nds: Utgever
@@ -204,7 +204,7 @@ dv_has_:
     os: рауадзæг
     pl: wydawca
     pt: editor
-    pt-br: editor
+    pt_br: editor
     ro: editor
     ru: издатель
     rue: выдаватель
@@ -213,15 +213,15 @@ dv_has_:
     smn: kuástideijee
     sq: botues
     sr: издавач
-    sr-ec: издавач
-    sr-el: izdavač
+    sr_ec: издавач
+    sr_el: izdavač
     sv: förläggare
     te: ప్రచురణకర్త
     tg: ношир
     tl: pabliser
     tr: yayımcı
     tt: нәшир
-    tt-cyrl: нәшир
+    tt_cyrl: нәшир
     uk: видавець
     ur: ناشر
     vec: editor
@@ -230,14 +230,14 @@ dv_has_:
     wa: eplaideu
     xmf: გიშმაშქუმალარი
     zh: 出版商
-    zh-cn: 出版人
-    zh-hans: 出版商
-    zh-hant: 出版商
-    zh-hk: 出版商
-    zh-mo: 出版商
+    zh_cn: 出版人
+    zh_hans: 出版商
+    zh_hant: 出版商
+    zh_hk: 出版商
+    zh_mo: 出版商
     zh-my: 出版商
-    zh-sg: 出版商
-    zh-tw: 出版商
+    zh_sg: 出版商
+    zh_tw: 出版商
 ---
 # [[Publisher]] 
 

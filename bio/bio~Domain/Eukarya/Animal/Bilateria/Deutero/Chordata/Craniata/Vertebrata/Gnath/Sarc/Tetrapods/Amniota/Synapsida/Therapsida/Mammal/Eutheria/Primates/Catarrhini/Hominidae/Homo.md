@@ -55,7 +55,7 @@ dv_has_:
     avk: ayoleem
     az: İnsan
     be: чалавек
-    be-tarask: чалавек
+    be_tarask: чалавек
     bg: хора
     bn: হোমো
     br: Homo
@@ -70,8 +70,8 @@ dv_has_:
     diq: Homo
     el: Homo
     en: Homo
-    en-ca: Homo
-    en-gb: Homo
+    en_ca: Homo
+    en_gb: Homo
     eo: Homo
     es: Homo
     et: Inimene
@@ -95,7 +95,7 @@ dv_has_:
     id: Homo
     ie: Homo
     ike-cans: ᐃᓄᒃ
-    ike-latn: inuk
+    ike_latn: inuk
     io: Homo
     is: Frummaður
     it: Homo
@@ -122,7 +122,7 @@ dv_has_:
     pnb: مانس
     ps: هومو
     pt: Homo
-    pt-br: Homo
+    pt_br: Homo
     ro: Homo
     ru: люди
     rue: Чоловік
@@ -153,12 +153,12 @@ dv_has_:
     yo: Homo
     yue: 人屬
     zh: 人屬
-    zh-cn: 人属
-    zh-hans: 人属
-    zh-hant: 人屬
-    zh-hk: 人屬
-    zh-sg: 人属
-    zh-tw: 人屬
+    zh_cn: 人属
+    zh_hans: 人属
+    zh_hant: 人屬
+    zh_hk: 人屬
+    zh_sg: 人属
+    zh_tw: 人屬
 ---
 # [[Homo]] 
 

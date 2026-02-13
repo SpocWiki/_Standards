@@ -158,7 +158,7 @@ dv_has_:
     azb: جیمی هندریکس
     bar: Jimi Hendrix
     be: Джымі Хендрыкс
-    be-tarask: Джымі Гэндрыкс
+    be_tarask: Джымі Гэндрыкс
     bg: Джими Хендрикс
     bi: Jimi Hendrix
     bn: জিমি হেন্ডরিক্স
@@ -175,8 +175,8 @@ dv_has_:
     el: Τζίμι Χέντριξ
     eml: Jimi Hendrix
     en: Jimi Hendrix
-    en-ca: Jimi Hendrix
-    en-gb: Jimi Hendrix
+    en_ca: Jimi Hendrix
+    en_gb: Jimi Hendrix
     eo: Jimi Hendrix
     es: Jimi Hendrix
     et: Jimi Hendrix
@@ -233,7 +233,7 @@ dv_has_:
     pl: Jimi Hendrix
     pms: Jimi Hendrix
     pt: Jimi Hendrix
-    pt-br: Jimi Hendrix
+    pt_br: Jimi Hendrix
     qu: Jimi Hendrix
     ro: Jimi Hendrix
     ru: Джими Хендрикс
@@ -263,9 +263,9 @@ dv_has_:
     yue: 占美漢迪士
     zea: Jimi Hendrix
     zh: 吉米·亨德里克斯
-    zh-hans: 吉米·亨德里克斯
-    zh-hant: 吉米·亨德里克斯
-    zh-tw: 吉米·罕醉克斯
+    zh_hans: 吉米·亨德里克斯
+    zh_hant: 吉米·亨德里克斯
+    zh_tw: 吉米·罕醉克斯
 ---
 # [[Hendrix,Jimi]] 
 

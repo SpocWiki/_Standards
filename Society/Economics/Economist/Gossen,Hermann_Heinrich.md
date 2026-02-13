@@ -50,7 +50,7 @@ dv_has_:
     arz: هيرمان هاينريش جوسين
     ast: Hermann Heinrich Gossen
     az: German Henrix Qossen
-    be-tarask: Гэрман Гайнрых Госэн
+    be_tarask: Гэрман Гайнрых Госэн
     bg: Херман Хайнрих Госен
     ca: Heinrich Gossen
     ce: Госсен, Герман Генрих
@@ -78,7 +78,7 @@ dv_has_:
     nn: Hermann Heinrich Gossen
     pl: Hermann Heinrich Gossen
     pt: Hermann Heinrich Gossen
-    pt-br: Hermann Heinrich Gossen
+    pt_br: Hermann Heinrich Gossen
     ru: Герман Генрих Госсен
     sl: Hermann Heinrich Gossen
     sq: Hermann Heinrich Gossen

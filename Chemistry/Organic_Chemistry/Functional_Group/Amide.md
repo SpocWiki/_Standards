@@ -79,7 +79,7 @@ dv_has_:
     ar: أميد
     ast: Amida
     be: Аміды
-    be-tarask: амід
+    be_tarask: амід
     bg: Амид
     bs: Amid
     ca: amida
@@ -127,8 +127,8 @@ dv_has_:
     sk: Karboxamid
     sl: amid
     sr: Amid
-    sr-ec: Амид
-    sr-el: Amid
+    sr_ec: Амид
+    sr_el: Amid
     sv: Amid
     ta: அமைட்டு
     th: เอไมด์
@@ -141,12 +141,12 @@ dv_has_:
     war: Amide
     yue: 酰胺
     zh: 酰胺
-    zh-cn: 酰胺
-    zh-hans: 酰胺
-    zh-hant: 醯胺
-    zh-hk: 醯胺
-    zh-sg: 酰胺
-    zh-tw: 醯胺
+    zh_cn: 酰胺
+    zh_hans: 酰胺
+    zh_hant: 醯胺
+    zh_hk: 醯胺
+    zh_sg: 酰胺
+    zh_tw: 醯胺
 dv_is_same_as: '[[WD~Amide,188777]]'
 dv_has_formula_structural: R−C(=O)−NR′R″
 ---

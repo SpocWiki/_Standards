@@ -145,7 +145,7 @@ dv_has_:
     ba: Йәйәнән атыу
     bbc: Panahan
     be: стральба з лука
-    be-tarask: стральба з лука
+    be_tarask: стральба з лука
     bg: Стрелба с лък
     bjn: Panahan
     bn: ধনুর্বিদ্যা
@@ -156,12 +156,12 @@ dv_has_:
     cy: Saethyddiaeth
     da: bueskydning
     de: Bogenschießen
-    de-ch: Bogenschiessen
+    de_ch: Bogenschiessen
     dsb: stśělanje z pšužynu
     el: Τοξοβολία
     en: archery
-    en-ca: Archery
-    en-gb: archery
+    en_ca: Archery
+    en_gb: archery
     eo: arkpafado
     es: tiro con arco
     et: vibusport
@@ -210,7 +210,7 @@ dv_has_:
     pl: łucznictwo
     pnb: تیر اندازی
     pt: tiro com arco
-    pt-br: Tiro com arco
+    pt_br: Tiro com arco
     qu: Wach'iq
     ro: tir cu arcul
     ru: стрельба из лука
@@ -226,8 +226,8 @@ dv_has_:
     smn: tävgipääččim
     sq: Gjuajtja me hark
     sr: стреличарство
-    sr-ec: стреличарство
-    sr-el: streličarstvo
+    sr_ec: стреличарство
+    sr_el: streličarstvo
     su: Papanahan
     sv: bågskytte
     ta: வில்வித்தை
@@ -247,12 +247,12 @@ dv_has_:
     wuu: 射箭
     yue: 射箭
     zh: 射箭
-    zh-cn: 射箭
-    zh-hans: 射箭
-    zh-hant: 射箭
-    zh-hk: 射箭
-    zh-sg: 射箭
-    zh-tw: 射箭
+    zh_cn: 射箭
+    zh_hans: 射箭
+    zh_hant: 射箭
+    zh_hk: 射箭
+    zh_sg: 射箭
+    zh_tw: 射箭
 ---
 # [[Archery]] 
 

@@ -132,7 +132,7 @@ dv_has_:
     ast: Desenvolvimientu sostenible
     az: dayanıqlı inkişaf
     be: устойлівае развіццё
-    be-tarask: устойлівае разьвіцьцё
+    be_tarask: устойлівае разьвіцьцё
     bg: Устойчиво развитие
     bho: सस्टेनेबल डेवलपमेंट
     bn: টেকসই উন্নয়ন
@@ -145,11 +145,11 @@ dv_has_:
     cy: Datblygu cynaliadwy
     da: bæredygtig udvikling
     de: nachhaltige Entwicklung
-    de-ch: Nachhaltige Entwicklung
+    de_ch: Nachhaltige Entwicklung
     el: αειφόρος ανάπτυξη
     en: sustainable development
-    en-ca: sustainable development
-    en-gb: sustainable development
+    en_ca: sustainable development
+    en_gb: sustainable development
     eo: daŭrigebla disvolviĝo
     es: desarrollo sostenible
     et: jätkusuutlik areng
@@ -177,11 +177,11 @@ dv_has_:
     ja: 持続可能な開発
     ka: მდგრადი განვითარება
     kk: орнықты даму
-    kk-arab: ورنىقتى دامۋ
+    kk_arab: ورنىقتى دامۋ
     kk-cn: ورنىقتى دامۋ
-    kk-cyrl: Орнықты даму
+    kk_cyrl: Орнықты даму
     kk-kz: Орнықты даму
-    kk-latn: Ornıqtı damw
+    kk_latn: Ornıqtı damw
     kk-tr: Ornıqtı damw
     ko: 지속 가능한 발전
     la: devolutio durabilis
@@ -205,7 +205,7 @@ dv_has_:
     pl: zrównoważony rozwój
     ps: تلپاتې وده
     pt: desenvolvimento sustentável
-    pt-br: Desenvolvimento sustentável
+    pt_br: Desenvolvimento sustentável
     qu: Hat'alliykuq kururay
     ro: dezvoltare durabilă
     ru: устойчивое развитие
@@ -219,8 +219,8 @@ dv_has_:
     sms: ǩeâllʼjeei ouddnummuš
     sq: Zhvillimi i qëndrueshëm
     sr: одрживи развој
-    sr-ec: Одрживи развој
-    sr-el: Održivi razvoj
+    sr_ec: Одрживи развој
+    sr_el: Održivi razvoj
     sv: hållbar utveckling
     sw: maendeleo endelevu
     ta: நிலைத்த மேம்பாடு
@@ -240,12 +240,12 @@ dv_has_:
     ybb: Lekwɛ́t alāʼ zi anāŋ naŋa
     yue: 永續發展
     zh: 可持续发展
-    zh-cn: 可持续发展
-    zh-hans: 可持续发展
-    zh-hant: 可持續發展
-    zh-hk: 可持續發展
-    zh-sg: 可持续发展
-    zh-tw: 永續發展
+    zh_cn: 可持续发展
+    zh_hans: 可持续发展
+    zh_hant: 可持續發展
+    zh_hk: 可持續發展
+    zh_sg: 可持续发展
+    zh_tw: 永續發展
 ---
 # [[Sustainable_Development]] 
 

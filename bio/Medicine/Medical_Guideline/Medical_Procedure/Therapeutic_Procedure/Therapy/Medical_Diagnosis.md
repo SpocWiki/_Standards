@@ -93,7 +93,7 @@ dv_has_:
     ar: تشخيص
     ban: Tatenger médis
     be: Дыягназ
-    be-tarask: дыягназ
+    be_tarask: дыягназ
     bg: медицинска диагноза
     bn: রোগ নির্ণয়
     br: diagnostig
@@ -105,11 +105,11 @@ dv_has_:
     da: diagnose
     dag: Diagnosis
     de: Diagnose
-    de-ch: Diagnose
+    de_ch: Diagnose
     el: διάγνωση
     en: medical diagnosis
-    en-ca: medical diagnosis
-    en-gb: medical diagnosis
+    en_ca: medical diagnosis
+    en_gb: medical diagnosis
     eo: medicina diagnozo
     es: Diagnosis
     et: diagnoos
@@ -180,12 +180,12 @@ dv_has_:
     xh: isiphumo sokuxilonga
     yue: 睇症
     zh: 诊断
-    zh-cn: 诊断
-    zh-hans: 诊断
-    zh-hant: 診斷
-    zh-hk: 診斷
-    zh-sg: 诊断
-    zh-tw: 診斷
+    zh_cn: 诊断
+    zh_hans: 诊断
+    zh_hant: 診斷
+    zh_hk: 診斷
+    zh_sg: 诊断
+    zh_tw: 診斷
     zu: ukuhlolwa kwesifo
 ---
 # [[Medical_Diagnosis]] 

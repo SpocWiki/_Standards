@@ -170,7 +170,7 @@ dv_has_:
     bar: Palladium
     bcl: Paladyo
     be: Паладый
-    be-tarask: Паляд
+    be_tarask: Паляд
     bg: паладий
     bho: पैलेडियम
     bn: প্যালেডিয়াম
@@ -270,7 +270,7 @@ dv_has_:
     pnb: پالاڈیم
     ps: پلاديوم
     pt: paládio
-    pt-br: paládio
+    pt_br: paládio
     qu: Paladyu
     ro: paladiu
     ru: палладий
@@ -310,9 +310,9 @@ dv_has_:
     yue: 鈀
     za: baj
     zh: 钯
-    zh-hans: 钯
-    zh-hant: 鈀
-    zh-tw: 鈀
+    zh_hans: 钯
+    zh_hant: 鈀
+    zh_tw: 鈀
     zu: ImPanda
   number_of_:
     period: 5

@@ -178,7 +178,7 @@ dv_has_:
     ast: Pléyades
     az: NGC 1432
     be: Аб'ект Месье M45
-    be-tarask: Плеяды
+    be_tarask: Плеяды
     bg: Плеяди
     bn: কৃত্তিকাপুঞ্জ
     br: Pleiades
@@ -193,12 +193,12 @@ dv_has_:
     da: Plejaderne
     dag: Gbiŋgbiŋ
     de: Plejaden
-    de-ch: Plejaden
+    de_ch: Plejaden
     diq: Messier 45
     el: Πλειάδες
     en: Pleiades
-    en-ca: Pleiades
-    en-gb: Pleiades
+    en_ca: Pleiades
+    en_gb: Pleiades
     eo: Plejadoj
     es: Pléyades
     et: Plejaadid
@@ -222,7 +222,7 @@ dv_has_:
     it: Pleiadi
     ja: プレアデス星団
     kk: Үркер
-    kk-cyrl: Үркер
+    kk_cyrl: Үркер
     ko: 플레이아데스 성단
     ks: کرٛژھ
     ku: Komika Sêwiyan
@@ -255,7 +255,7 @@ dv_has_:
     pms: Pléjad
     pnb: ثریا
     pt: Plêiades
-    pt-br: Plêiades
+    pt_br: Plêiades
     qu: Unquy quyllurkuna
     ro: Pleiadele
     ru: Плеяды

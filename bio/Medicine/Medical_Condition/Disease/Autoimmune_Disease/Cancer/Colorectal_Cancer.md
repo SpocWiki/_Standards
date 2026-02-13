@@ -199,7 +199,7 @@ dv_has_:
     az: kolorektal xərçəng
     azb: یوغون باغیرساق سرطانی
     be: рак тоўстай кішкі
-    be-tarask: рак тоўстай кішкі
+    be_tarask: рак тоўстай кішкі
     bg: Рак на дебелото черво
     bn: মলাশয়ের ক্যান্সার
     bs: Rak debelog crijeva
@@ -211,7 +211,7 @@ dv_has_:
     dv: ގޮހޮރުގެ ކެންސަރު
     el: καρκίνος εντέρου
     en: colorectal cancer
-    en-gb: bowel cancer
+    en_gb: bowel cancer
     eo: kojlorektuma kancero
     es: cáncer colorrectal
     et: jämesoolevähk
@@ -236,7 +236,7 @@ dv_has_:
     ja: 大腸癌
     ka: კოლორექტალური კიბო
     ko: 대장암
-    ku-latn: penceşêra tortorîkê
+    ku_latn: penceşêra tortorîkê
     la: Cancer colorectalis
     lb: Déckdaarmkriibs
     lmo: cancher del colon-ret
@@ -258,7 +258,7 @@ dv_has_:
     pa: ਕੋਲਨ ਕੈਂਸਰ
     pl: rak jelita grubego
     pt: cancro colorretal
-    pt-br: câncer colorretal
+    pt_br: câncer colorretal
     ro: cancer de colon
     ru: колоректальный рак
     sh: Rak debelog creva
@@ -282,12 +282,12 @@ dv_has_:
     yi: קישקע קענסער
     yue: 結腸癌
     zh: 大腸癌
-    zh-cn: 大肠癌
-    zh-hans: 大肠癌
-    zh-hant: 大腸癌
-    zh-hk: 大腸癌
-    zh-sg: 大肠癌
-    zh-tw: 大腸癌
+    zh_cn: 大肠癌
+    zh_hans: 大肠癌
+    zh_hant: 大腸癌
+    zh_hk: 大腸癌
+    zh_sg: 大肠癌
+    zh_tw: 大腸癌
     zu: umdlavuza obala
 ---
 # [[Colorectal_Cancer]] 

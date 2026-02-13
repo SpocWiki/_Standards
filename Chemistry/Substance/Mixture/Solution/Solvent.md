@@ -124,7 +124,7 @@ dv_has_:
     ar: مذيب
     ast: Disolvente
     be: растваральнік
-    be-tarask: распушчальнік
+    be_tarask: распушчальнік
     bg: Разтворител
     bn: দ্রবণ
     bs: rastvarač
@@ -133,11 +133,11 @@ dv_has_:
     cy: toddydd
     da: opløsningsmiddel
     de: Lösungsmittel
-    de-ch: Lösungsmittel
+    de_ch: Lösungsmittel
     el: διαλύτης
     en: solvent
-    en-ca: Solvent
-    en-gb: solvent
+    en_ca: Solvent
+    en_gb: solvent
     eo: solvanto
     es: disolvente
     et: Lahusti
@@ -178,7 +178,7 @@ dv_has_:
     oc: Solvent
     pl: rozpuszczalnik
     pt: solvente
-    pt-br: solvente
+    pt_br: solvente
     qu: Chullusqa
     ro: solvent
     ru: растворитель

@@ -369,7 +369,7 @@ dv_has_:
     bcl: salog
     bdr: Suang
     be: рака
-    be-tarask: рака
+    be_tarask: рака
     bew: kali
     bg: река
     bho: नदी
@@ -391,7 +391,7 @@ dv_has_:
     co: fiume
     cr: ᓰᐲ
     crh: özen
-    crh-latn: özen
+    crh_latn: özen
     cs: řeka
     csb: rzéka
     cu: рѣка
@@ -401,7 +401,7 @@ dv_has_:
     dag: kulibɔŋ
     de: Fluss
     de-at: Fluss
-    de-ch: Fluss
+    de_ch: Fluss
     diq: ro
     dsb: rěka
     dtp: bawang
@@ -409,8 +409,8 @@ dv_has_:
     el: ποταμός
     eml: fiòmm
     en: river
-    en-ca: river
-    en-gb: river
+    en_ca: river
+    en_gb: river
     en-us: river
     eo: rivero
     es: río
@@ -511,7 +511,7 @@ dv_has_:
     mos: kʋɩlga
     mr: नदी
     ms: sungai
-    ms-arab: سوڠاي
+    ms_arab: سوڠاي
     mwl: riu
     my: မြစ်
     myv: лей
@@ -522,7 +522,7 @@ dv_has_:
     nap: sciummo
     nb: elv
     nds: Stroom
-    nds-nl: revier
+    nds_nl: revier
     ne: नदी
     new: आऱु
     nl: rivier
@@ -547,7 +547,7 @@ dv_has_:
     pnt: ορμίν
     ps: سيند
     pt: rio
-    pt-br: rio
+    pt_br: rio
     pwn: pana
     qu: mayu
     rki: မြစ်
@@ -583,8 +583,8 @@ dv_has_:
     so: webiyada
     sq: lum
     sr: река
-    sr-ec: река
-    sr-el: rekа
+    sr_ec: река
+    sr_el: rekа
     ss: Umfula
     stq: Äi
     su: walungan
@@ -598,7 +598,7 @@ dv_has_:
     tdd: ᥛᥥ ᥘᥛᥳ
     te: నది
     tg: рӯд
-    tg-cyrl: дарё
+    tg_cyrl: дарё
     th: แม่น้ำ
     tk: derýa
     tl: ilog
@@ -606,8 +606,8 @@ dv_has_:
     tok: telo linja
     tr: nehir
     tt: елга
-    tt-cyrl: елга
-    tt-latn: yılğa
+    tt_cyrl: елга
+    tt_latn: yılğa
     tw: asubɔntene
     udm: шур
     uk: річка
@@ -629,14 +629,14 @@ dv_has_:
     za: dah
     zea: rivier
     zh: 河流
-    zh-cn: 河流
-    zh-hans: 河流
-    zh-hant: 河流
-    zh-hk: 河流
-    zh-mo: 河流
+    zh_cn: 河流
+    zh_hans: 河流
+    zh_hant: 河流
+    zh_hk: 河流
+    zh_mo: 河流
     zh-my: 河流
-    zh-sg: 河流
-    zh-tw: 河流
+    zh_sg: 河流
+    zh_tw: 河流
     zu: umfula
   parent_class: '[[../BodyOfWater]]'
   properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'

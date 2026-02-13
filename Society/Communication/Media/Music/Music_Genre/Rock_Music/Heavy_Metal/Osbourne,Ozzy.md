@@ -168,7 +168,7 @@ dv_has_:
     azb: ازی ازبورن
     bar: Ozzy Osbourne
     be: Озі Осбарн
-    be-tarask: Озі Осбарн
+    be_tarask: Озі Осбарн
     bg: Ози Озбърн
     bm: Ozzy Osbourne
     bn: অজি অসবর্ন
@@ -182,12 +182,12 @@ dv_has_:
     dag: Ozzy Osbourne
     de: Ozzy Osbourne
     de-at: Ozzy Osbourne
-    de-ch: Ozzy Osbourne
+    de_ch: Ozzy Osbourne
     el: Όζι Όζμπορν
     eml: Ozzy Osbourne
     en: Ozzy Osbourne
-    en-ca: Ozzy Osbourne
-    en-gb: Ozzy Osbourne
+    en_ca: Ozzy Osbourne
+    en_gb: Ozzy Osbourne
     eo: Ozzy Osbourne
     es: Ozzy Osbourne
     et: Ozzy Osbourne
@@ -240,7 +240,7 @@ dv_has_:
     nap: Ozzy Osbourne
     nb: Ozzy Osbourne
     nds: Ozzy Osbourne
-    nds-nl: Ozzy Osbourne
+    nds_nl: Ozzy Osbourne
     nl: Ozzy Osbourne
     nn: Ozzy Osbourne
     nrm: Ozzy Osbourne
@@ -252,7 +252,7 @@ dv_has_:
     pms: Ozzy Osbourne
     prg: Ozzy Osbourne
     pt: Ozzy Osbourne
-    pt-br: Ozzy Osbourne
+    pt_br: Ozzy Osbourne
     rgn: Ozzy Osbourne
     rm: Ozzy Osbourne
     rmf: Ozzy Osbourne
@@ -275,8 +275,8 @@ dv_has_:
     sms: Ozzy Osbourne
     sq: Ozzy Osbourne
     sr: Ози Озборн
-    sr-ec: Ози Озборн
-    sr-el: Ozi Ozborn
+    sr_ec: Ози Озборн
+    sr_el: Ozi Ozborn
     su: Ozzy Osbourne
     sv: Ozzy Osbourne
     sw: Ozzy Osbourne
@@ -296,11 +296,11 @@ dv_has_:
     wuu: 奥齐·奥斯本
     yue: Ozzy Osbourne
     zh: 奥齐·奥斯本
-    zh-cn: 奥齐·奥斯本
-    zh-hans: 奥齐·奥斯本
-    zh-hant: 奧茲·歐斯朋
-    zh-hk: 柯時·柯士般
-    zh-tw: 奧茲·歐斯朋
+    zh_cn: 奥齐·奥斯本
+    zh_hans: 奥齐·奥斯本
+    zh_hant: 奧茲·歐斯朋
+    zh_hk: 柯時·柯士般
+    zh_tw: 奧茲·歐斯朋
     zu: Ozzy Osbourne
 ---
 # [[Osbourne,Ozzy]] 

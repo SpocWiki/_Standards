@@ -37,7 +37,7 @@ has_id_wikidata: Q20778343
 dv_has_:
   name_:
     ar: حاكم روماني
-    be-tarask: старажытнарымскі магістрат
+    be_tarask: старажытнарымскі магістрат
     ca: magistrat romà
     cs: Magistratus
     da: Romersk magistrat

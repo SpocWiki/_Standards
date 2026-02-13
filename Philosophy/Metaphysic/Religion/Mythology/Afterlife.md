@@ -98,7 +98,7 @@ dv_has_:
     az: Ölümdən sonrakı həyat
     ban: Kahuripan ring ungkur
     be: жыццё пасля смерці
-    be-tarask: жыцьцё пасьля сьмерці
+    be_tarask: жыцьцё пасьля сьмерці
     bg: Живот след смъртта
     bn: পরলোক
     ca: vida després de la mort
@@ -106,12 +106,12 @@ dv_has_:
     cy: bywyd ar ôl marwolaeth
     da: Liv efter døden
     de: Leben nach dem Tod
-    de-ch: Leben nach dem Tod
+    de_ch: Leben nach dem Tod
     diq: Cuwiyayış dıme ra merdış
     el: Μεταθανάτια ζωή
     en: afterlife
-    en-ca: afterlife
-    en-gb: afterlife
+    en_ca: afterlife
+    en_gb: afterlife
     eo: postmorto
     es: vida después de la muerte
     et: Teispoolsus
@@ -144,7 +144,7 @@ dv_has_:
     pl: życie pośmiertne
     pnb: حیات بعد الموت
     pt: vida após a morte
-    pt-br: Vida após a morte
+    pt_br: Vida após a morte
     ro: Viața de apoi
     ru: жизнь после смерти
     sk: Posmrtný život
@@ -165,7 +165,7 @@ dv_has_:
     wuu: 死后生命
     yue: 來世
     zh: 死后生命
-    zh-hans: 死后生命
+    zh_hans: 死后生命
 ---
 # [[Afterlife]] 
 

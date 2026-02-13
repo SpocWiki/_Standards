@@ -66,7 +66,7 @@ dv_has_:
     af: behoudswet
     ar: قانون الحفظ
     be: законы захавання
-    be-tarask: закон захаваньня
+    be_tarask: закон захаваньня
     bn: সংরক্ষণ সূত্র
     bs: zakon održanja
     ca: llei de conservació
@@ -124,12 +124,12 @@ dv_has_:
     ur: بقائی قانون
     vi: định luật bảo toàn
     zh: 守恒定律
-    zh-cn: 守恒定律
-    zh-hans: 守恒定律
-    zh-hant: 守恆定律
-    zh-hk: 守恆定律
-    zh-sg: 守恒定律
-    zh-tw: 守恆定律
+    zh_cn: 守恒定律
+    zh_hans: 守恒定律
+    zh_hant: 守恆定律
+    zh_hk: 守恆定律
+    zh_sg: 守恒定律
+    zh_tw: 守恆定律
 ---
 ## #has_/text_of_/abstract 
 

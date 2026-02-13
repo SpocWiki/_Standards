@@ -45,9 +45,9 @@ dv_has_:
     sv: Supertramp
     tr: Supertramp
     zh: 超級流浪漢合唱團
-    zh-cn: 哥伦布时代前的跨大洋接触年表
-    zh-hans: 超级流浪汉
-    zh-hant: 哥倫布時代前的跨大洋接觸年表
+    zh_cn: 哥伦布时代前的跨大洋接触年表
+    zh_hans: 超级流浪汉
+    zh_hant: 哥倫布時代前的跨大洋接觸年表
 aliases:
 - Supertramp
 - Супертрамп

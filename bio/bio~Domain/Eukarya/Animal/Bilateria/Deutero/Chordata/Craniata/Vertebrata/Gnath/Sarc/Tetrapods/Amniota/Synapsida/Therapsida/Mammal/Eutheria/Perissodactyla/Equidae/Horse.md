@@ -335,7 +335,7 @@ Wolfram_Language_entity_code: Entity["Concept", "EquusCaballus::x93n2"]
 dv_has_:
   name_:
     ace: Guda
-    aeb-arab: حصان
+    aeb_arab: حصان
     af: perd
     ak: pɔnkɔ
     alt: Ат
@@ -364,7 +364,7 @@ dv_has_:
     bbc: Hoda
     bcl: Kabayo
     be: свойскі конь
-    be-tarask: конь
+    be_tarask: конь
     bg: кон
     bi: Horse
     bjn: Kuda
@@ -396,8 +396,8 @@ dv_has_:
     el: άλογο
     eml: Cavàl
     en: horse
-    en-ca: Horse
-    en-gb: horse
+    en_ca: Horse
+    en_gb: horse
     eo: ĉevalo
     es: caballo
     et: hobune
@@ -463,7 +463,7 @@ dv_has_:
     ks: گُر
     ksh: Pääd
     ku: hesp
-    ku-latn: hesp
+    ku_latn: hesp
     kv: Вӧв
     kw: margh
     ky: Жылкы
@@ -484,7 +484,7 @@ dv_has_:
     lzh: 馬
     mad: Jhârân
     mai: घोड़ा
-    map-bms: Jaran
+    map_bms: Jaran
     mcn: kú̀lúm
     mdf: Лишме
     mg: Soavaly
@@ -499,7 +499,7 @@ dv_has_:
     mr: घोडा
     mrj: Имни
     ms: kuda
-    ms-arab: کودا
+    ms_arab: کودا
     mt: żiemel
     mul: Equus ferus caballus
     my: မြင်း
@@ -509,7 +509,7 @@ dv_has_:
     nan: Bé
     nb: hest
     nds: Peerd
-    nds-nl: peerd
+    nds_nl: peerd
     ne: घोडा
     new: सल
     nia: Kudo
@@ -535,7 +535,7 @@ dv_has_:
     pnb: گھوڑا
     ps: اس
     pt: cavalo
-    pt-br: cavalo
+    pt_br: cavalo
     pwn: rigi
     qu: Kawallu
     rm: Chaval
@@ -572,7 +572,7 @@ dv_has_:
     so: Faras
     sq: Kali
     sr: домаћи коњ
-    sr-ec: домаћи коњ
+    sr_ec: домаћи коњ
     srn: Asi
     stq: Hoangst
     su: Kuda
@@ -590,8 +590,8 @@ dv_has_:
     tly: Kə asp
     tr: At
     tt: ат
-    tt-cyrl: ат
-    tt-latn: at
+    tt_cyrl: ат
+    tt_latn: at
     tyv: Чылгы
     udm: вал
     ug: ئات
@@ -615,11 +615,11 @@ dv_has_:
     za: Max
     zea: Paerd
     zh: 马
-    zh-cn: 马
-    zh-hans: 马
-    zh-hant: 馬
-    zh-hk: 馬
-    zh-tw: 馬
+    zh_cn: 马
+    zh_hans: 马
+    zh_hant: 馬
+    zh_hk: 馬
+    zh_tw: 馬
 ---
 # [[Horse]] 🐎 
 

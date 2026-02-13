@@ -88,7 +88,7 @@ dv_has_:
     az: Zenit
     ba: Зенит
     be: Зеніт
-    be-tarask: зэніт
+    be_tarask: зэніт
     bg: Зенит
     bn: সুবিন্দু
     bs: Zenit
@@ -101,8 +101,8 @@ dv_has_:
     dsb: Cenit
     el: Ζενίθ
     en: zenith
-    en-ca: Zenith
-    en-gb: zenith
+    en_ca: Zenith
+    en_gb: zenith
     eo: zenito
     es: cenit
     et: Seniit
@@ -144,7 +144,7 @@ dv_has_:
     pl: zenit
     pnb: سمت الراس
     pt: zénite
-    pt-br: zênite
+    pt_br: zênite
     ro: Zenit
     ru: зенит
     rue: Зенит
@@ -154,8 +154,8 @@ dv_has_:
     sl: nadglavišče
     sq: Zenit
     sr: зенит
-    sr-ec: зенит
-    sr-el: zenit
+    sr_ec: зенит
+    sr_el: zenit
     sv: zenit
     ta: வான் உச்சி
     tg: Зенит

@@ -44,7 +44,7 @@ dv_has_:
     ca: generalització defectuosa
     da: fejlagtig generalisering
     en: faulty generalization
-    en-gb: faulty generalisation
+    en_gb: faulty generalisation
     fr: généralisation abusive
     he: כשלי היקש
     hu: helytelen általánosítás
@@ -62,9 +62,9 @@ dv_has_:
     vec: zenerałizasion abuziva
     vi: ngụy biện khái quát hóa có khiếm khuyết
     zh: 不當概化
-    zh-hans: 不当概化
-    zh-hant: 不當概化
-    zh-hk: 不當概化
+    zh_hans: 不当概化
+    zh_hant: 不當概化
+    zh_hk: 不當概化
 ---
 # [[Faulty_Generalization]] 
 

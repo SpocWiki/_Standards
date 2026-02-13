@@ -326,7 +326,7 @@ dv_has_:
     bar: Paulus vo Tarsus
     bcl: Si Pablo na Apostol
     be: Павел
-    be-tarask: Павал
+    be_tarask: Павал
     bew: Paulus
     bg: Павел
     bn: প্রেরিত পৌল
@@ -347,7 +347,7 @@ dv_has_:
     de: Paulus von Tarsus
     el: Απόστολος Παύλος
     en: Paul the Apostle
-    en-gb: Paul
+    en_gb: Paul
     eo: Paŭlo de Tarso
     es: Pablo de Tarso
     et: Paulus
@@ -414,7 +414,7 @@ dv_has_:
     nan: Pó-lô
     nb: Apostelen Paulus
     nds: Paulus von Tarsus
-    nds-nl: Paulus
+    nds_nl: Paulus
     nl: Paulus
     nn: Paulus
     ny: Paulo
@@ -426,7 +426,7 @@ dv_has_:
     pnt: Απόστολος Παύλος
     ps: رسول پولس
     pt: Paulo de Tarso
-    pt-br: Paulo de Tarso
+    pt_br: Paulo de Tarso
     qu: Apustul Pawlu
     rki: သျှင်ပေါလု
     rm: Paulus da Tarsus
@@ -467,7 +467,7 @@ dv_has_:
     yo: Páùlù ará Társù
     yue: 聖保祿
     zh: 保罗
-    zh-hant: 使徒保羅
+    zh_hant: 使徒保羅
 ---
 # [[Paul_the_Apostle]] 
 

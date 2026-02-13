@@ -78,7 +78,7 @@ dv_has_:
     oc: Archaeognatha
     pl: Przerzutki
     pt: Archaeognatha
-    pt-br: Archaeognatha
+    pt_br: Archaeognatha
     ro: Archaeognatha
     ru: Древнечелюстные
     sl: Pračeljustnice
@@ -93,10 +93,10 @@ dv_has_:
     war: Archaeognatha
     yue: 古顎目
     zh: 石蛃目
-    zh-cn: 石蛃目
-    zh-hans: 石蛃目
-    zh-hant: 單髁亞綱
-    zh-tw: 石蛃目
+    zh_cn: 石蛃目
+    zh_hans: 石蛃目
+    zh_hant: 單髁亞綱
+    zh_tw: 石蛃目
 ---
 # [[Archaeognatha]] 
 

@@ -147,7 +147,7 @@ dv_has_:
     az: Tut
     bcl: Moras (tinanom)
     be: Шаўковіца
-    be-tarask: шаўкоўніца
+    be_tarask: шаўкоўніца
     bg: черница
     bjn: Karatau
     bn: তুঁত
@@ -156,7 +156,7 @@ dv_has_:
     ceb: Morus
     ckb: توو
     crh: Dut
-    crh-latn: Dut
+    crh_latn: Dut
     cs: morušovník
     cv: Тут (ӳсентăран)
     da: morbær
@@ -194,7 +194,7 @@ dv_has_:
     kab: Tikilsya
     kbd: Тут мэракӀуэ
     kk: Тұт
-    kk-cyrl: тұт
+    kk_cyrl: тұт
     km: Mulberry (ដើមឈើ)
     kn: ಉಪ್ಪು ನೇರಳೆ
     ko: 뽕나무속
@@ -224,7 +224,7 @@ dv_has_:
     pnb: شتوت
     ps: توت
     pt: Morus
-    pt-br: Morus
+    pt_br: Morus
     qu: Murira
     ro: Dud
     ru: Шелковица
@@ -237,7 +237,7 @@ dv_has_:
     sl: murva
     sq: Mani
     sr: дуд
-    sr-ec: дуд
+    sr_ec: дуд
     su: Babasaran
     sv: mullbärssläktet
     sw: Mforosadi
@@ -261,9 +261,9 @@ dv_has_:
     xmf: ჯაპი
     yue: 桑
     zh: 桑属
-    zh-cn: 桑屬
-    zh-hans: 桑属
-    zh-tw: 桑屬
+    zh_cn: 桑屬
+    zh_hans: 桑属
+    zh_tw: 桑屬
 ---
 # [[Morus]] 
 

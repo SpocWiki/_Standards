@@ -107,7 +107,7 @@ dv_has_:
     ast: sidra
     az: sidr
     be: сідр
-    be-tarask: сыдар
+    be_tarask: сыдар
     bg: сайдер
     br: sistr
     ca: sidra
@@ -118,8 +118,8 @@ dv_has_:
     de: Apfelschaumwein
     el: μηλίτης
     en: cider
-    en-ca: cider
-    en-gb: cider
+    en_ca: cider
+    en_gb: cider
     eo: cidro
     es: sidra
     et: siider
@@ -164,7 +164,7 @@ dv_has_:
     pcd: cite
     pl: cydr
     pt: sidra
-    pt-br: sidra
+    pt_br: sidra
     ro: cidru
     ru: сидр
     sh: cider
@@ -172,8 +172,8 @@ dv_has_:
     sl: jabolčno vino
     sq: verë molle
     sr: цидер
-    sr-ec: цидер
-    sr-el: cider
+    sr_ec: цидер
+    sr_el: cider
     sv: cider
     th: ไซเดอร์
     tl: sidra
@@ -187,11 +187,11 @@ dv_has_:
     yue: 蘋菓酒
     zh: 苹果酒
     zh-cn: 苹果酒
-    zh-hans: 苹果酒
-    zh-hant: 蘋果酒
-    zh-hk: 蘋果酒
-    zh-sg: 苹果酒
-    zh-tw: 蘋果酒
+    zh_hans: 苹果酒
+    zh_hant: 蘋果酒
+    zh_hk: 蘋果酒
+    zh_sg: 苹果酒
+    zh_tw: 蘋果酒
 ---
 # [[Cider]] 
 

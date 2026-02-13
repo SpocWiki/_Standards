@@ -76,7 +76,7 @@ dv_has_:
     ast: Mecoptera
     az: Əqrəbşəkilli milçəklər
     be: Скарпіёнавы мухі
-    be-tarask: Скарпіёнавая муха
+    be_tarask: Скарпіёнавая муха
     bg: скорпионници
     bs: Mecoptera
     ca: Mecòpter
@@ -86,8 +86,8 @@ dv_has_:
     de: Schnabelfliegen
     el: Μηκόπτερα
     en: Mecoptera
-    en-ca: Mecoptera
-    en-gb: Mecoptera
+    en_ca: Mecoptera
+    en_gb: Mecoptera
     eo: Mecoptera
     es: Mecoptera
     et: Koonulised
@@ -126,15 +126,15 @@ dv_has_:
     oc: Mecoptera
     pl: Wojsiłki
     pt: Mecoptera
-    pt-br: Mecoptera
+    pt_br: Mecoptera
     ro: Mecoptera
     ru: Скорпионницы
     sk: Srpice
     sl: Kljunavci
     sq: Mecoptera
     sr: Муве-шкорпије
-    sr-ec: Муве-шкорпије
-    sr-el: Muve-škorpije
+    sr_ec: Муве-шкорпије
+    sr_el: Muve-škorpije
     sv: näbbsländor
     sw: Mdudu Mabawa-marefu
     th: Mecoptera
@@ -147,12 +147,12 @@ dv_has_:
     wuu: 长翅目
     yue: 長翅目
     zh: 長翅目
-    zh-cn: 长翅目
-    zh-hans: 长翅目
-    zh-hant: 長翅目
-    zh-hk: 長翅目
-    zh-sg: 长翅目
-    zh-tw: 長翅目
+    zh_cn: 长翅目
+    zh_hans: 长翅目
+    zh_hant: 長翅目
+    zh_hk: 長翅目
+    zh_sg: 长翅目
+    zh_tw: 長翅目
 ---
 # [[Mecoptera]] 
 

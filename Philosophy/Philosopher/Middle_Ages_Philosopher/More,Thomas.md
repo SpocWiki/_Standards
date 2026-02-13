@@ -180,7 +180,7 @@ dv_has_:
     az: Tomas Mor
     bar: Thomas Morus
     be: Томас Мор
-    be-tarask: Томас Мор
+    be_tarask: Томас Мор
     bg: Томас Мор
     bn: থমাস মুর
     br: Thomas More
@@ -192,12 +192,12 @@ dv_has_:
     cy: Thomas More
     da: Thomas More
     de: Thomas Morus
-    de-ch: Thomas Morus
+    de_ch: Thomas Morus
     diq: Thomas More
     el: Τόμας Μορ
     en: Thomas More
-    en-ca: Thomas More
-    en-gb: Thomas More
+    en_ca: Thomas More
+    en_gb: Thomas More
     eo: Thomas More
     es: Tomás Moro
     et: Thomas More
@@ -245,7 +245,7 @@ dv_has_:
     pms: Tomà Mòro
     ps: توماس مور
     pt: Thomas More
-    pt-br: Thomas More
+    pt_br: Thomas More
     qu: Thomas More
     ro: Thomas More
     ru: Томас Мор
@@ -275,8 +275,8 @@ dv_has_:
     xmf: ტომას მორი
     yue: 湯瑪士摩爾
     zh: 托马斯·莫尔
-    zh-cn: 托马斯·莫尔
-    zh-hk: 湯馬士·摩亞
+    zh_cn: 托马斯·莫尔
+    zh_hk: 湯馬士·摩亞
 ---
 # [[More,Thomas]] 
 

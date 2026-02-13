@@ -91,7 +91,7 @@ dv_has_:
     az: Kartoqrafik proyeksiyalar
     ba: Картографик проекция
     be: Картаграфічная праекцыя
-    be-tarask: картаграфічная праекцыя
+    be_tarask: картаграфічная праекцыя
     bg: Картографска проекция
     bho: नक्शा प्रोजेक्शन
     bn: মানচিত্র অভিক্ষেপ
@@ -120,11 +120,11 @@ dv_has_:
     it: proiezione cartografica
     ja: 投影法
     kk: Картографиялық проекция
-    kk-arab: تسىيلىيندرلىك پرويەكتسىييا
+    kk_arab: تسىيلىيندرلىك پرويەكتسىييا
     kk-cn: تسىيلىيندرلىك پرويەكتسىييا
-    kk-cyrl: Цилиндрлік проекция
+    kk_cyrl: Цилиндрлік проекция
     kk-kz: Цилиндрлік проекция
-    kk-latn: Cïlïndrlik proyekcïya
+    kk_latn: Cïlïndrlik proyekcïya
     kk-tr: Cïlïndrlik proyekcïya
     ko: 지도 투영법
     ky: Картографиялык проекциялар
@@ -144,8 +144,8 @@ dv_has_:
     sl: kartografska projekcija
     sq: Projeksionet hartografike
     sr: Картографска пројекција
-    sr-ec: Картографска пројекција
-    sr-el: Kartografska projekcija
+    sr_ec: Картографска пројекција
+    sr_el: Kartografska projekcija
     sv: kartprojektion
     th: เส้นโครงแผนที่
     tr: Harita projeksiyonu
@@ -153,12 +153,12 @@ dv_has_:
     uz: Xaritagrafik proyeksiyalar
     yue: 地圖投影
     zh: 地图投影
-    zh-cn: 地图投影
-    zh-hans: 地图投影
-    zh-hant: 地圖投影
-    zh-hk: 地圖投影
-    zh-sg: 地图投影
-    zh-tw: 地圖投影
+    zh_cn: 地图投影
+    zh_hans: 地图投影
+    zh_hant: 地圖投影
+    zh_hk: 地圖投影
+    zh_sg: 地图投影
+    zh_tw: 地圖投影
 ---
 # [[Map_Projection]] 
 

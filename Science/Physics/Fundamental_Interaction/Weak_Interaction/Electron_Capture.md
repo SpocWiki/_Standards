@@ -45,8 +45,8 @@ dv_has_:
     sk: Absorpcia K
     sl: zajetje elektrona
     sr: електронски захват
-    sr-ec: Електронски захват
-    sr-el: Elektronski zahvat
+    sr_ec: Електронски захват
+    sr_el: Elektronski zahvat
     sv: elektroninfångning
     te: ఎలక్ట్రాన్ సంగ్రహణ
     th: การจับยึดอิเล็กตรอน
@@ -55,12 +55,12 @@ dv_has_:
     uz: Elektron tutish
     vi: Bắt giữ electron
     zh: 电子俘获
-    zh-cn: 电子俘获
-    zh-hans: 电子俘获
-    zh-hant: 電子俘獲
-    zh-hk: 電子捕獲
-    zh-sg: 电子俘获
-    zh-tw: 電子捕獲
+    zh_cn: 电子俘获
+    zh_hans: 电子俘获
+    zh_hant: 電子俘獲
+    zh_hk: 電子捕獲
+    zh_sg: 电子俘获
+    zh_tw: 電子捕獲
 aliases:
 - Absorpcia K
 - Bắt giữ electron

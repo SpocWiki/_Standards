@@ -146,7 +146,7 @@ dv_has_:
     azb: بوفورت دنیزی
     ba: Бофорт диңгеҙе
     be: Мора Бафорта
-    be-tarask: Мора Бафорта
+    be_tarask: Мора Бафорта
     bg: Море Бофорт
     bn: বোফর্ট সাগর
     br: Mor Beaufort
@@ -188,8 +188,8 @@ dv_has_:
     ko: 보퍼트해
     krc: Бофортну тенгизи
     ku: Deryaya Beaufort
-    ku-arab: دەریایا بەاوفۆرت
-    ku-latn: Deryaya Beaufort
+    ku_arab: دەریایا بەاوفۆرت
+    ku_latn: Deryaya Beaufort
     ky: Бофорт деңизи
     la: Mare Beaufortii
     lb: Beaufortmier
@@ -219,8 +219,8 @@ dv_has_:
     sl: Beaufortovo morje
     sq: Deti Beaufort
     sr: Бофорово море
-    sr-ec: Бофорово море
-    sr-el: Boforovo more
+    sr_ec: Бофорово море
+    sr_el: Boforovo more
     sv: Beauforthavet
     sw: Bahari ya Beaufort
     ta: பியூஃபர்ட் கடல்
@@ -237,12 +237,12 @@ dv_has_:
     yo: Òkun Beaufort
     yue: 波弗特海
     zh: 波弗特海
-    zh-cn: 波弗特海
-    zh-hans: 波弗特海
-    zh-hant: 波弗特海
-    zh-hk: 波弗特海
-    zh-sg: 波弗特海
-    zh-tw: 波弗特海
+    zh_cn: 波弗特海
+    zh_hans: 波弗特海
+    zh_hant: 波弗特海
+    zh_hk: 波弗特海
+    zh_sg: 波弗特海
+    zh_tw: 波弗特海
 ---
 # [[Beaufort_Sea]] 
 

@@ -186,7 +186,7 @@ dv_has_:
     bar: Spuizeig
     bcl: kawatan
     be: цацка
-    be-tarask: цацка
+    be_tarask: цацка
     bew: Maènan
     bg: Играчка
     bjn: Mainan
@@ -259,7 +259,7 @@ dv_has_:
     ml: കളിപ്പാട്ടം
     mn: Наадгай
     ms: mainan
-    ms-arab: ماءينن
+    ms_arab: ماءينن
     mwl: Brinquedo
     my: ကစားစရာများ
     myv: налксемапель
@@ -278,7 +278,7 @@ dv_has_:
     pms: Dësmora
     pnb: کھلوݨا
     pt: brinquedo
-    pt-br: brinquedo
+    pt_br: brinquedo
     qu: Pukllana
     ro: jucărie
     ru: игрушка
@@ -294,8 +294,8 @@ dv_has_:
     so: Lucbad
     sq: lodër
     sr: играчка
-    sr-ec: играчка
-    sr-el: igračka
+    sr_ec: играчка
+    sr_el: igračka
     sv: leksak
     sw: Kichezeo
     ta: பொம்மை
@@ -321,7 +321,7 @@ dv_has_:
     yue: 玩具
     zgh: ⵜⴰⵙⵓⵔⴰⵔⵜ
     zh: 玩具
-    zh-hk: 玩具
+    zh_hk: 玩具
 ---
 # [[Toy]] 
 

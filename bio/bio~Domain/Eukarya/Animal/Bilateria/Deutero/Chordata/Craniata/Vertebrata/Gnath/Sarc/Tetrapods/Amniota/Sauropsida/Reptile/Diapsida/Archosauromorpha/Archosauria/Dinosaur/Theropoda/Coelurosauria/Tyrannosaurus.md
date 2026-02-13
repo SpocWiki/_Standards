@@ -133,7 +133,7 @@ dv_has_:
     ba: диплокод
     ban: Tiranosaurus
     be: Тыраназаўр
-    be-tarask: тыраназаўр
+    be_tarask: тыраназаўр
     bg: тиранозаври
     bn: টাইরানোসরাস
     br: tiranosaor
@@ -149,8 +149,8 @@ dv_has_:
     de: Tyrannosaurus
     el: Τυραννόσαυρος
     en: Tyrannosaurus
-    en-ca: Tyrannosaurus
-    en-gb: Tyrannosaurus
+    en_ca: Tyrannosaurus
+    en_gb: Tyrannosaurus
     en-us: Tyrannosaurus
     eo: tiranosaŭro
     es: Tyrannosaurus
@@ -206,7 +206,7 @@ dv_has_:
     pnb: ٹائرینوسارس
     ps: تيرانوسور
     pt: tiranossauro
-    pt-br: tiranossauro
+    pt_br: tiranossauro
     ro: Tyrannosaurus
     ru: Тираннозавр
     rue: Тіранозавр
@@ -237,10 +237,10 @@ dv_has_:
     wuu: 霸王龙属
     yue: 暴龍
     zh: 暴龙属
-    zh-cn: 暴龙属
-    zh-hans: 暴龙属
-    zh-hant: 暴龍屬
-    zh-tw: 暴龍屬
+    zh_cn: 暴龙属
+    zh_hans: 暴龙属
+    zh_hant: 暴龍屬
+    zh_tw: 暴龍屬
 ---
 # [[Tyrannosaurus]] 
 

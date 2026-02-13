@@ -120,7 +120,7 @@ dv_has_:
     az: elektromaqnetizm
     azb: الکترومغناطیس
     be: электрамагнетызм
-    be-tarask: электрамагнэтызм
+    be_tarask: электрамагнэтызм
     bew: Lèstrik besi berani
     bg: електромагнетизъм
     bho: विद्युत्चुम्बकत्व
@@ -137,8 +137,8 @@ dv_has_:
     de: Elektromagnetismus
     el: ηλεκτρομαγνητισμός
     en: electromagnetism
-    en-ca: electromagnetism
-    en-gb: electromagnetism
+    en_ca: electromagnetism
+    en_gb: electromagnetism
     eo: elektromagnetismo
     es: electromagnetismo
     et: elektromagnetism
@@ -183,7 +183,7 @@ dv_has_:
     mn: цахилгаан соронзон
     mr: विद्युतचुंबकत्व
     ms: keelektromagnetan
-    ms-arab: کأيليکترومݢنيتن
+    ms_arab: کأيليکترومݢنيتن
     mt: elettromanjetiżmu
     my: လျှပ်စစ်သံလိုက်
     nan: tiān-chû-la̍t
@@ -199,7 +199,7 @@ dv_has_:
     pl: elektromagnetyzm
     pnb: الیکٹرومیگنیٹزم
     pt: eletromagnetismo
-    pt-br: eletromagnetismo
+    pt_br: eletromagnetismo
     qu: Illari-llut'ariy
     ro: electromagnetism
     ru: электромагнетизм
@@ -216,8 +216,8 @@ dv_has_:
     sms: elektromagnetismm
     sq: elektromagnetizmi
     sr: електромагнетизам
-    sr-ec: електромагнетизам
-    sr-el: elektromagnetizam
+    sr_ec: електромагнетизам
+    sr_el: elektromagnetizam
     su: éléktromagnétisme
     sv: elektromagnetism
     ta: மின்காந்தவியல்
@@ -238,14 +238,14 @@ dv_has_:
     yi: עלעקטראמאגנעטיזם
     yue: 電磁學
     zh: 电磁学
-    zh-cn: 电磁学
-    zh-hans: 电磁学
-    zh-hant: 電磁學
-    zh-hk: 電磁學
-    zh-mo: 電磁學
+    zh_cn: 电磁学
+    zh_hans: 电磁学
+    zh_hant: 電磁學
+    zh_hk: 電磁學
+    zh_mo: 電磁學
     zh-my: 电磁学
-    zh-sg: 电磁学
-    zh-tw: 電磁學
+    zh_sg: 电磁学
+    zh_tw: 電磁學
     zu: ubunzubawonga
 ---
 # [[Electromagnetism]] 

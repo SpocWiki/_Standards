@@ -129,7 +129,7 @@ dv_has_:
     az: Deyterium
     ban: Deutérium
     be: Дэйтэрый
-    be-tarask: дэўтэр
+    be_tarask: дэўтэр
     bg: Деутерий
     bn: ডিউটেরিয়াম
     br: Deuteriom
@@ -139,11 +139,11 @@ dv_has_:
     cv: Дейтерий
     da: deuterium
     de: Deuterium
-    de-ch: Deuterium
+    de_ch: Deuterium
     el: δευτέριο
     en: deuterium
-    en-ca: Deuterium
-    en-gb: deuterium
+    en_ca: Deuterium
+    en_gb: deuterium
     en-us: deuterium
     eo: deŭterio
     es: deuterio
@@ -189,7 +189,7 @@ dv_has_:
     pl: deuter
     pnb: ڈیوٹیریم
     pt: deutério
-    pt-br: deutério
+    pt_br: deutério
     ro: deuteriu
     ru: дейтерий
     sh: Deuterijum
@@ -197,8 +197,8 @@ dv_has_:
     sk: deutérium
     sl: devterij
     sr: деутеријум
-    sr-ec: деутеријум
-    sr-el: deuterijum
+    sr_ec: деутеријум
+    sr_el: deuterijum
     sv: deuterium
     sw: Duteri
     ta: தியூட்டிரியம்
@@ -212,12 +212,12 @@ dv_has_:
     wuu: 氘
     yue: 氘
     zh: 氘
-    zh-cn: 氘
-    zh-hans: 氘
-    zh-hant: 氘
-    zh-hk: 氘
-    zh-sg: 氘
-    zh-tw: 氘
+    zh_cn: 氘
+    zh_hans: 氘
+    zh_hant: 氘
+    zh_hk: 氘
+    zh_sg: 氘
+    zh_tw: 氘
 ---
 #is_/same_as :: [[_Standards/WikiData/WD~deuterium,102296]] 
 

@@ -55,7 +55,7 @@ dv_has_:
   name_:
     ar: تصميم التجارب
     az: Eksperimentin planlanması
-    be-tarask: плянаваньне экспэрымэнту
+    be_tarask: плянаваньне экспэрымэнту
     ca: disseny d'experiments
     cs: plánování experimentů
     da: design af videnskabeligt eksperiment
@@ -78,7 +78,7 @@ dv_has_:
     nl: experimenteel ontwerpen
     oc: Plan d'experiéncias
     pl: Projektowanie eksperymentów
-    pt-br: desenho experimental
+    pt_br: desenho experimental
     ro: proiectare experimentală
     ru: планирование эксперимента
     sk: Navrhovanie experimentov
@@ -91,7 +91,7 @@ dv_has_:
     uk: планування експерименту
     yue: 實驗設計
     zh: 试验设计
-    zh-hant: 實驗設計
+    zh_hant: 實驗設計
 ---
 # [[Design_of_Experiments]] 
 

@@ -93,7 +93,7 @@ dv_has_:
     ast: Elementos del grupu 3
     az: Dövri sistemin 3-cü qrupu
     ban: Datu golongan 3
-    be-tarask: падгрупа сканду
+    be_tarask: падгрупа сканду
     bg: Група 3 на периодичната система
     bho: ग्रुप 3 तत्व
     bn: তৃতীয় শ্রেণীর মৌল
@@ -155,12 +155,12 @@ dv_has_:
     wuu: 3族元素
     yue: 3族元素
     zh: 3族元素
-    zh-cn: 3族元素
-    zh-hans: 3族元素
-    zh-hant: 3族元素
-    zh-hk: 3族元素
-    zh-sg: 3族元素
-    zh-tw: 3族元素
+    zh_cn: 3族元素
+    zh_hans: 3族元素
+    zh_hant: 3族元素
+    zh_hk: 3族元素
+    zh_sg: 3族元素
+    zh_tw: 3族元素
 ---
 # [[Group-03-Scandium]] 
 

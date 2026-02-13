@@ -126,7 +126,7 @@ dv_has_:
     az: Pornoqrafiya
     bcl: Pornograpiya
     be: парнаграфія
-    be-tarask: парнаграфія
+    be_tarask: парнаграфія
     bg: порнография
     bho: पोर्नोग्राफी
     bn: পর্নোগ্রাফি
@@ -203,7 +203,7 @@ dv_has_:
     pl: pornografia
     ps: پورنوګرافي
     pt: pornografia
-    pt-br: pornografia
+    pt_br: pornografia
     rmy: Pornografie
     ro: pornografie
     ru: порнография
@@ -223,7 +223,7 @@ dv_has_:
     sms: pornografia
     sq: Pornografia
     sr: порнографија
-    sr-ec: порнографија
+    sr_ec: порнографија
     sv: pornografi
     sw: Ponografia
     ta: பாலுணர்வுக் கிளர்ச்சியம்
@@ -245,9 +245,9 @@ dv_has_:
     yi: פארנאגראפיע
     yue: 鹹濕
     zh: 色情
-    zh-cn: 色情
-    zh-hant: 色情
-    zh-tw: 色情
+    zh_cn: 色情
+    zh_hant: 色情
+    zh_tw: 色情
     zu: Izithombe ezincolile Zobulili
 ---
 # [[Pornography]] 

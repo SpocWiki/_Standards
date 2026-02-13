@@ -55,7 +55,7 @@ dv_has_:
     ar: مسألة جسمين
     ast: problema de los dos cuerpos
     be: задача двух цел
-    be-tarask: задача дзьвюх целаў
+    be_tarask: задача дзьвюх целаў
     bg: задача с две тела
     ca: problema dels dos cossos
     cs: problém dvou těles

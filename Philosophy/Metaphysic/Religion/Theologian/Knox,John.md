@@ -86,7 +86,7 @@ dv_has_:
     ast: John Knox
     ba: Джон Нокс
     be: Джон Нокс
-    be-tarask: Джон Нокс
+    be_tarask: Джон Нокс
     bn: জন নক্স
     ca: John Knox
     ckb: جۆن ناکس
@@ -128,7 +128,7 @@ dv_has_:
     pl: John Knox
     ps: جان ناکس
     pt: John Knox
-    pt-br: John Knox
+    pt_br: John Knox
     ro: John Knox
     ru: Джон Нокс
     sco: John Knox
@@ -136,7 +136,7 @@ dv_has_:
     sl: John Knox
     sq: John Knox
     sr: Џон Нокс
-    sr-ec: Џон Нокс
+    sr_ec: Џон Нокс
     sv: John Knox
     sw: John Knox
     tr: John Knox
@@ -146,12 +146,12 @@ dv_has_:
     wuu: 约翰·诺克斯
     yue: 約翰·諾克斯
     zh: 約翰·諾克斯
-    zh-cn: 约翰·诺克斯
-    zh-hans: 约翰·诺克斯
-    zh-hant: 約翰·諾克斯
-    zh-hk: 約翰·諾克斯
-    zh-sg: 约翰·诺克斯
-    zh-tw: 約翰·諾克斯
+    zh_cn: 约翰·诺克斯
+    zh_hans: 约翰·诺克斯
+    zh_hant: 約翰·諾克斯
+    zh_hk: 約翰·諾克斯
+    zh_sg: 约翰·诺克斯
+    zh_tw: 約翰·諾克斯
 ---
 # [[Knox,John]] 
 

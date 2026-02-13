@@ -141,7 +141,7 @@ dv_has_:
     ban: Aardvark
     bar: Erdfàggi
     be: трубказуб
-    be-tarask: трубказуб
+    be_tarask: трубказуб
     bg: тръбозъб
     bm: Tinba
     bn: আর্ডভার্ক
@@ -204,7 +204,7 @@ dv_has_:
     my: မြေဝက်
     mzn: آردوارک
     nb: jordsvin
-    nds-nl: Äärdvärken
+    nds_nl: Äärdvärken
     nl: aardvarken
     nqo: ߕߌ߲߬ߓߊ
     nrm: Couochon d'tèrre
@@ -226,7 +226,7 @@ dv_has_:
     sn: Hweru
     sq: Orycteropus afer
     sr: цевозупке
-    sr-ec: афрички мравојед
+    sr_ec: афрички мравојед
     ss: Sambane
     sv: jordsvin
     sw: Mhanga
@@ -242,9 +242,9 @@ dv_has_:
     wuu: 土豚
     yue: 土豬
     zh: 土豚
-    zh-cn: 土豚
-    zh-hans: 土豚
-    zh-tw: 土豚
+    zh_cn: 土豚
+    zh_hans: 土豚
+    zh_tw: 土豚
     zu: Isambane
 ---
 # [[Aardvark]] 

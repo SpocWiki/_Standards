@@ -97,7 +97,7 @@ dv_has_:
     ast: siella de montar
     az: Yəhər
     ba: Эйәр
-    be-tarask: сядло
+    be_tarask: сядло
     bg: седло
     br: dibr
     ca: sella de muntar
@@ -150,7 +150,7 @@ dv_has_:
     pl: Siodło
     pms: Sela
     pt: sela
-    pt-br: sela
+    pt_br: sela
     ro: șa
     ru: седло
     sah: Ыҥыыр
@@ -174,12 +174,12 @@ dv_has_:
     wuu: 鞍
     yue: 馬鞍
     zh: 鞍
-    zh-cn: 鞍
-    zh-hans: 鞍
-    zh-hant: 鞍
-    zh-hk: 鞍
-    zh-sg: 鞍
-    zh-tw: 鞍
+    zh_cn: 鞍
+    zh_hans: 鞍
+    zh_hant: 鞍
+    zh_hk: 鞍
+    zh_sg: 鞍
+    zh_tw: 鞍
 ---
 # [[Saddle]] 
 

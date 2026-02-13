@@ -88,7 +88,7 @@ dv_has_:
     ar: مزن ركامي
     ast: Cumulonimbus
     be: Кучава-дажджавыя воблакі
-    be-tarask: Кублавата-дажджавы воблак
+    be_tarask: Кублавата-дажджавы воблак
     bg: купесто-дъждовни облаци
     bjn: Awan kumulunimbus
     ca: Cumulonimbus
@@ -141,8 +141,8 @@ dv_has_:
     sl: kumulonimbus
     sq: Retë Kumullanimbusi
     sr: Кумулонимбус
-    sr-ec: Кумулонимбус
-    sr-el: Kumulonimbus
+    sr_ec: Кумулонимбус
+    sr_el: Kumulonimbus
     su: Méga Kumulonimbus
     sv: Cumulonimbus
     ta: திரள் கார்முகில்
@@ -155,12 +155,12 @@ dv_has_:
     wuu: 积雨云
     yue: 積雨雲
     zh: 积雨云
-    zh-cn: 积雨云
-    zh-hans: 积雨云
-    zh-hant: 積雨雲
-    zh-hk: 積雨雲
-    zh-sg: 积雨云
-    zh-tw: 積雨雲
+    zh_cn: 积雨云
+    zh_hans: 积雨云
+    zh_hant: 積雨雲
+    zh_hk: 積雨雲
+    zh_sg: 积雨云
+    zh_tw: 積雨雲
     zu: Amafenala
 ---
 # [[Cumulonimbus]] 

@@ -152,7 +152,7 @@ dv_has_:
     bar: Linus Torvalds
     bcl: Linus Torvalds
     be: Лінус Торвальдс
-    be-tarask: Лінус Торвальдс
+    be_tarask: Лінус Торвальдс
     bg: Линус Торвалдс
     bn: লিনাস টরভল্ডস
     br: Linus Torvalds
@@ -164,10 +164,10 @@ dv_has_:
     da: Linus Torvalds
     de: Linus Torvalds
     de-at: Linus Torvalds
-    de-ch: Linus Torvalds
+    de_ch: Linus Torvalds
     el: Λίνους Τόρβαλντς
     en: Linus Torvalds
-    en-gb: Linus Torvalds
+    en_gb: Linus Torvalds
     eo: Linus Torvalds
     es: Linus Torvalds
     et: Linus Torvalds
@@ -235,7 +235,7 @@ dv_has_:
     pl: Linus Torvalds
     pms: Linus Torvalds
     pt: Linus Torvalds
-    pt-br: Linus Torvalds
+    pt_br: Linus Torvalds
     ro: Linus Torvalds
     ru: Линус Торвальдс
     sa: लाइनस टोर्वाल्ड्स
@@ -252,7 +252,7 @@ dv_has_:
     so: Linus Torvalds
     sq: Linus Torvalds
     sr: Линус Торвалдс
-    sr-ec: Линус Торвалдс
+    sr_ec: Линус Торвалдс
     su: Linus Torvalds
     sv: Linus Torvalds
     sw: Linus Torvalds
@@ -274,14 +274,14 @@ dv_has_:
     yi: לינוס טארוואלדס
     yue: 托華茲
     zh: 林纳斯·托瓦兹
-    zh-cn: 林纳斯·托瓦兹
-    zh-hans: 林纳斯·托瓦兹
-    zh-hant: 林納斯·托瓦茲
-    zh-hk: 林納斯·托瓦茲
-    zh-mo: 林納斯·托瓦茲
+    zh_cn: 林纳斯·托瓦兹
+    zh_hans: 林纳斯·托瓦兹
+    zh_hant: 林納斯·托瓦茲
+    zh_hk: 林納斯·托瓦茲
+    zh_mo: 林納斯·托瓦茲
     zh-my: 林纳斯·托瓦兹
-    zh-sg: 林纳斯·托瓦兹
-    zh-tw: 林納斯·托瓦茲
+    zh_sg: 林纳斯·托瓦兹
+    zh_tw: 林納斯·托瓦茲
 ---
 # [[Torvalds,Linus]] 
 

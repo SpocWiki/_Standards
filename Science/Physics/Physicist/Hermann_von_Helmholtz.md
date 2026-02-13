@@ -241,7 +241,7 @@ dv_has_:
     azb: هرمان فون هلمهولتز
     bar: Hermann von Helmholtz
     be: Герман Людвіг Фердынанд Гельмгольц
-    be-tarask: Гэрман фон Гэльмгальц
+    be_tarask: Гэрман фон Гэльмгальц
     bg: Херман фон Хелмхолц
     bi: Hermann von Helmholtz
     br: Hermann von Helmholtz
@@ -255,15 +255,15 @@ dv_has_:
     da: Hermann von Helmholtz
     de: Hermann von Helmholtz
     de-at: Hermann von Helmholtz
-    de-ch: Hermann von Helmholtz
+    de_ch: Hermann von Helmholtz
     dsb: Hermann von Helmholtz
     ee: Hermann von Helmholtz
     egl: Hermann von Helmholtz
     el: Χέρμαν φον Χέλμχολτς
     eml: Hermann von Helmholtz
     en: Hermann von Helmholtz
-    en-ca: Hermann von Helmholtz
-    en-gb: Hermann von Helmholtz
+    en_ca: Hermann von Helmholtz
+    en_gb: Hermann von Helmholtz
     en-us: Hermann von Helmholtz
     eo: Hermann von Helmholtz
     es: Hermann von Helmholtz
@@ -316,7 +316,7 @@ dv_has_:
     lij: Hermann von Helmholtz
     lt: Hermann von Helmholtz
     lv: Hermanis fon Helmholcs
-    map-bms: Hermann von Helmholtz
+    map_bms: Hermann von Helmholtz
     mg: Hermann Ludwig von Helmholtz
     min: Hermann von Helmholtz
     mk: Херман фон Хелмолц
@@ -329,7 +329,7 @@ dv_has_:
     nap: Hermann von Helmholtz
     nb: Hermann von Helmholtz
     nds: Hermann von Helmholtz
-    nds-nl: Hermann von Helmholtz
+    nds_nl: Hermann von Helmholtz
     nl: Hermann von Helmholtz
     nn: Hermann von Helmholtz
     nrm: Hermann von Helmholtz
@@ -345,7 +345,7 @@ dv_has_:
     pms: Hermann von Helmholtz
     pnb: ہرمن فان ہیلمہولٹز
     pt: Hermann von Helmholtz
-    pt-br: Hermann von Helmholtz
+    pt_br: Hermann von Helmholtz
     rm: Hermann von Helmholtz
     rmy: Hermann von Helmholtz
     ro: Hermann von Helmholtz
@@ -365,8 +365,8 @@ dv_has_:
     sli: Hermann von Helmholtz
     sq: Hermann von Helmholtz
     sr: Херман фон Хелмхолц
-    sr-ec: Херман фон Хелмхолц
-    sr-el: Hermann von Helmholtz
+    sr_ec: Херман фон Хелмхолц
+    sr_el: Hermann von Helmholtz
     stq: Hermann von Helmholtz
     su: Hermann von Helmholtz
     sv: Hermann von Helmholtz

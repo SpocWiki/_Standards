@@ -191,7 +191,7 @@ dv_has_:
     azb: میلتلر آراسی بیریملر سیستمی
     ba: Халыҡ-ара берәмектәр системаһы
     be: СІ
-    be-tarask: Міжнародная сыстэма СІ
+    be_tarask: Міжнародная сыстэма СІ
     bg: Международна система единици
     bn: আন্তর্জাতিক একক পদ্ধতি
     br: Reizhiad unanennoù etrebroadel
@@ -275,7 +275,7 @@ dv_has_:
     mn: Олон улсын нэгжийн систем
     mr: एस.आय.
     ms: Sistem Unit Antarabangsa
-    ms-arab: سيستم اونيت انتارابڠسا
+    ms_arab: سيستم اونيت انتارابڠسا
     mt: Sistema Internazzjonali ta' Unitajiet
     mul: SI
     my: အပြည်ပြည်ဆိုင်ရာ ယူနစ် စနစ်
@@ -344,14 +344,14 @@ dv_has_:
     yo: Ìwọ̀n Ẹyọ Akáríayé SI
     yue: 國際單位制
     zh: 國際單位制
-    zh-cn: 国际单位制
-    zh-hans: 国际单位制
-    zh-hant: 國際單位制
-    zh-hk: 國際單位制
-    zh-mo: 國際單位制
+    zh_cn: 国际单位制
+    zh_hans: 国际单位制
+    zh_hant: 國際單位制
+    zh_hk: 國際單位制
+    zh_mo: 國際單位制
     zh-my: 国际单位制
-    zh-sg: 国际单位制
-    zh-tw: 國際單位制
+    zh_sg: 国际单位制
+    zh_tw: 國際單位制
 ---
 # [[SI-Units]] 
 

@@ -59,7 +59,7 @@ dv_has_:
     ar: بريق
     ast: llustre
     be: Бляск
-    be-tarask: бляск
+    be_tarask: бляск
     bg: Блясък (оптично свойство на повърхността)
     ca: llustre
     cs: lesk

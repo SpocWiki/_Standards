@@ -124,7 +124,7 @@ dv_has_:
     azb: سیلاحلی گوجلر
     ba: ҡораллы көстәр
     be: узброеныя сілы
-    be-tarask: узброеныя сілы
+    be_tarask: узброеныя сілы
     bg: Въоръжени сили
     bn: সামরিক বাহিনী
     br: nerzhioù lu
@@ -140,8 +140,8 @@ dv_has_:
     dsb: wójska
     el: ένοπλες δυνάμεις
     en: armed forces
-    en-ca: Armed forces
-    en-gb: armed forces
+    en_ca: Armed forces
+    en_gb: armed forces
     en-us: armed forces
     eo: armitaj fortoj
     es: fuerzas armadas
@@ -180,7 +180,7 @@ dv_has_:
     oc: fòrças armadas
     pl: siły zbrojne
     pt: forças armadas
-    pt-br: Forças armadas
+    pt_br: Forças armadas
     ro: forțe armate
     ru: вооружённые силы
     rue: Збройна сила
@@ -195,15 +195,15 @@ dv_has_:
     sms: peälštõsviõǥǥ
     sq: forca të armatosura
     sr: оружане снаге
-    sr-ec: оружане снаге
-    sr-el: oružane snage
+    sr_ec: оружане снаге
+    sr_el: oružane snage
     sv: krigsmakt
     te: సాయుధ బలగాలు
     tg: Нерӯҳои мусаллаҳ
     tl: Sandatahang lakas
     tr: silahlı kuvvetler
     tt: Хәрби көчләр
-    tt-cyrl: хәрби көчләр
+    tt_cyrl: хәрби көчләр
     uk: збройні сили
     ur: مسلح افواج
     uz: qurolli kuchlar
@@ -213,14 +213,14 @@ dv_has_:
     wuu: 武装力量
     yue: 武裝部隊
     zh: 武裝部隊
-    zh-cn: 武装部队
-    zh-hans: 武装部队
-    zh-hant: 武裝部隊
-    zh-hk: 武裝部隊
-    zh-mo: 武裝部隊
+    zh_cn: 武装部队
+    zh_hans: 武装部队
+    zh_hant: 武裝部隊
+    zh_hk: 武裝部隊
+    zh_mo: 武裝部隊
     zh-my: 武裝部隊
-    zh-sg: 武裝部隊
-    zh-tw: 武裝部隊
+    zh_sg: 武裝部隊
+    zh_tw: 武裝部隊
 ---
 # [[Armed_Forces]] 
 

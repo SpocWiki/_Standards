@@ -39,10 +39,10 @@ dv_has_:
     ks: رؠد ڈِٹ
     ltg: reddit
     mk: reddit
-    ms-arab: ريديت
+    ms_arab: ريديت
     mul: Reddit
     nb: reddit
-    nds-nl: reddit
+    nds_nl: reddit
     ne: रेडिट
     nl: reddit
     oc: reddit

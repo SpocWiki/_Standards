@@ -127,7 +127,7 @@ dv_has_:
     az: yaşıl çay
     ba: Йәшел сәй
     be: зялёны чай
-    be-tarask: зялёны чай
+    be_tarask: зялёны чай
     bg: зелен чай
     bho: ग्रीन टी
     blk: နိန်းစော့ꩻသွမ်ႏချို
@@ -166,9 +166,9 @@ dv_has_:
     ka: მწვანე ჩაი
     kaa: kók shay
     kk: көк шай
-    kk-arab: كوك شاي
-    kk-cyrl: көк шай
-    kk-latn: кök şaý
+    kk_arab: كوك شاي
+    kk_cyrl: көк шай
+    kk_latn: кök şaý
     ko: 녹차
     ko-kp: 록차
     ks: سَبٕز چاے
@@ -215,9 +215,9 @@ dv_has_:
     yue: 綠茶
     za: caz heu
     zh: 綠茶
-    zh-hans: 绿茶
-    zh-hant: 綠茶
-    zh-hk: 綠茶
+    zh_hans: 绿茶
+    zh_hant: 綠茶
+    zh_hk: 綠茶
 ---
 # [[Green_tea]]
 

@@ -32,8 +32,8 @@ dv_has_:
     vec: ON Semiconductor
     wuu: 安森美
     zh: 安森美
-    zh-hans: 安森美
-    zh-hant: 安森美
+    zh_hans: 安森美
+    zh_hant: 安森美
 ---
 # [[onsemi]]
 

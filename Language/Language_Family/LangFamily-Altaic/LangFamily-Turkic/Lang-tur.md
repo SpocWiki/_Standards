@@ -301,7 +301,7 @@ dv_has_:
     ab: Аҭырқәа бызшәа
     ace: Bahsa Tureuki
     ady: Тыркубзэ
-    aeb-arab: التركي
+    aeb_arab: التركي
     af: Turks
     am: ቱርክኛ
     an: Idioma turco
@@ -321,7 +321,7 @@ dv_has_:
     ban: Basa Turki
     bar: tiakische Sproch
     be: турэцкая мова
-    be-tarask: турэцкая мова
+    be_tarask: турэцкая мова
     bg: турски език
     bn: তুর্কি ভাষা
     br: turkeg
@@ -329,7 +329,7 @@ dv_has_:
     btm: Saro Turki
     bxr: Турк хэлэн
     ca: turc
-    cbk-zam: Turco
+    cbk_zam: Turco
     cdo: Tū-ī-gì-ngṳ̄
     ce: Туркойн мотт
     ceb: Pinulongang Turko
@@ -337,7 +337,7 @@ dv_has_:
     ckb: زمانی تورکی
     co: turcu
     crh: Türk tili
-    crh-latn: Türk tili
+    crh_latn: Türk tili
     crh-ro: túrúkşe
     cs: turečtina
     csb: Tërecczi jãzëk
@@ -345,15 +345,15 @@ dv_has_:
     cy: Tyrceg
     da: tyrkisk
     de: Türkisch
-    de-ch: Türkisch
+    de_ch: Türkisch
     diq: Tırki
     dsb: turkojšćina
     dtp: Boros Turki
     el: Τουρκικά
     eml: Turc
     en: Turkish
-    en-ca: Turkish
-    en-gb: Turkish
+    en_ca: Turkish
+    en_gb: Turkish
     eo: turka lingvo
     es: turco
     et: türgi keel
@@ -411,7 +411,7 @@ dv_has_:
     koi: турецкӧй кыв
     ks: ترکِچ زبان
     ku: tirkî
-    ku-latn: zimanê tirkî
+    ku_latn: zimanê tirkî
     kv: туреч кыв
     kw: Turkek
     ky: түрк тили
@@ -440,7 +440,7 @@ dv_has_:
     mr: तुर्की भाषा
     mrj: Турок йӹлмӹ
     ms: bahasa Turki
-    ms-arab: بهاس تورکي
+    ms_arab: بهاس تورکي
     mt: Tork
     my: တူရကီဘာသာစကား
     myv: Тюрконь кель
@@ -449,7 +449,7 @@ dv_has_:
     nan: Türkiye-gí
     nb: tyrkisk
     nds: Törksch
-    nds-nl: türksk
+    nds_nl: türksk
     ne: तुर्की
     new: तर्किश भाषा
     nl: Turks
@@ -467,7 +467,7 @@ dv_has_:
     prg: turkiskan
     ps: تورکي ژبه
     pt: língua turca
-    pt-br: língua turca
+    pt_br: língua turca
     qu: Turku simi
     rm: lingua tirca
     rmy: Turkikani chib
@@ -496,7 +496,7 @@ dv_has_:
     so: Af-Turki
     sq: turqisht
     sr: турски
-    sr-ec: турски
+    sr_ec: турски
     su: Basa Turki
     sv: turkiska
     sw: Kituruki
@@ -511,7 +511,7 @@ dv_has_:
     tok: toki Tuki
     tr: Türkçe
     tt: төрек теле
-    tt-cyrl: төрек теле
+    tt_cyrl: төрек теле
     tyv: Турк дыл
     udm: турок кыл
     ug: تۈرك تىلى
@@ -531,11 +531,11 @@ dv_has_:
     yo: Èdè Túrkì
     yue: 土耳其文
     zh: 土耳其語
-    zh-cn: 土耳其语
-    zh-hans: 土耳其语
-    zh-hant: 土耳其語
-    zh-hk: 土耳其語
-    zh-tw: 土耳其語
+    zh_cn: 土耳其语
+    zh_hans: 土耳其语
+    zh_hant: 土耳其語
+    zh_hk: 土耳其語
+    zh_tw: 土耳其語
     zu: isi-Turkish
 ---
 # [[Lang-tur]] 

@@ -72,7 +72,7 @@ dv_has_:
     ar: عوامل بشرية
     az: erqonomika
     ban: Ergonomi
-    be-tarask: эрганоміка
+    be_tarask: эрганоміка
     bg: Ергономия
     bn: কর্মপরিবেশ বিদ্যা
     bs: ergonomija
@@ -82,11 +82,11 @@ dv_has_:
     cy: ergonomeg
     da: ergonomi
     de: Ergonomie
-    de-ch: Ergonomie
+    de_ch: Ergonomie
     el: Εργονομία
     en: ergonomics
-    en-ca: ergonomics
-    en-gb: ergonomics
+    en_ca: ergonomics
+    en_gb: ergonomics
     eo: ergonomio
     es: ergonomía
     et: ergonoomika
@@ -118,7 +118,7 @@ dv_has_:
     nn: ergonomi
     pl: ergonomia
     pt: ergonomia
-    pt-br: ergonomia
+    pt_br: ergonomia
     ro: ergonomie
     ru: эргономика
     sa: मानवीयोपयुक्तता
@@ -146,8 +146,8 @@ dv_has_:
     wuu: 人因工程学
     yue: 人因工程
     zh: 人因工程学
-    zh-hant: 人因工程學
-    zh-tw: 人因工程學
+    zh_hant: 人因工程學
+    zh_tw: 人因工程學
 ---
 # [[Ergonomics]] 
 

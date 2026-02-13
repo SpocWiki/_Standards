@@ -165,7 +165,7 @@ dv_has_:
     ast: llandra
     az: göy öskürək
     be: кохлік
-    be-tarask: кохлік
+    be_tarask: кохлік
     bg: Коклюш
     bn: হুপিং কাশি
     br: Drev
@@ -179,14 +179,14 @@ dv_has_:
     da: kighoste
     dag: Kɔhindɔtɔntɔn
     de: Keuchhusten
-    de-ch: Keuchhusten
+    de_ch: Keuchhusten
     din: Toŋgol
     diq: Kuxıka siyae
     dv: ހޯއްގޮއްވާ ކެއްސުން
     el: κοκκύτης
     en: pertussis
-    en-ca: Pertussis
-    en-gb: pertussis
+    en_ca: Pertussis
+    en_gb: pertussis
     eo: kokluŝo
     es: tos ferina
     et: läkaköha
@@ -213,18 +213,18 @@ dv_has_:
     ja: 百日咳
     ka: ყივანახველა
     kk: көкжөтел
-    kk-arab: كوكجوتەل
+    kk_arab: كوكجوتەل
     kk-cn: كوكجوتەل
-    kk-cyrl: Көкжөтел
+    kk_cyrl: Көкжөтел
     kk-kz: Көкжөтел
-    kk-latn: Kökjötel
+    kk_latn: Kökjötel
     kk-tr: Kökjötel
     km: រោគក្អកមាន់
     kn: ನಾಯಿಕೆಮ್ಮು
     ko: 백일해
     ku: kuxika reş
-    ku-arab: کۆکە رەشە
-    ku-latn: Koke reşe
+    ku_arab: کۆکە رەشە
+    ku_latn: Koke reşe
     ky: көк жөтөл
     lt: Kokliušas
     lv: garais klepus
@@ -244,7 +244,7 @@ dv_has_:
     pl: krztusiec
     pnb: کالی کھانسی
     pt: tosse convulsa
-    pt-br: Pertússis
+    pt_br: Pertússis
     qu: T'ukuch'uqu
     ro: Tuse convulsivă
     ru: коклюш
@@ -257,8 +257,8 @@ dv_has_:
     sms: sõhttâmkoss
     sn: Chikosoro chinonzi "Whooping cough"
     sr: велики кашаљ
-    sr-ec: велики кашаљ
-    sr-el: veliki kašalj
+    sr_ec: велики кашаљ
+    sr_el: veliki kašalj
     ss: Pertussis
     st: Pertussis
     sv: kikhosta
@@ -282,12 +282,12 @@ dv_has_:
     yue: 百日咳
     za: Aebakngoenz
     zh: 百日咳
-    zh-cn: 百日咳
-    zh-hans: 百日咳
-    zh-hant: 百日咳
-    zh-hk: 百日咳
-    zh-sg: 百日咳
-    zh-tw: 百日咳
+    zh_cn: 百日咳
+    zh_hans: 百日咳
+    zh_hant: 百日咳
+    zh_hk: 百日咳
+    zh_sg: 百日咳
+    zh_tw: 百日咳
 ---
 # [[Pertussis]] 
 

@@ -198,7 +198,7 @@ dv_has_:
     ab: Арнауыҭтәыла
     ace: Albania
     ady: Албание
-    aeb-arab: ألبانيا
+    aeb_arab: ألبانيا
     af: Albanië
     am: አልባኒያ
     ami: Albania
@@ -225,7 +225,7 @@ dv_has_:
     bbc: Albania
     bcl: Albanya
     be: Албанія
-    be-tarask: Альбанія
+    be_tarask: Альбанія
     bew: Albani
     bg: Албания
     bho: अल्बानिया
@@ -243,7 +243,7 @@ dv_has_:
     bug: ᨕᨒᨅᨕᨊᨗᨕ
     bxr: Албани
     ca: Albània
-    cbk-zam: Albania
+    cbk_zam: Albania
     cdo: Albania
     ce: Албани
     ceb: Albanya
@@ -253,7 +253,7 @@ dv_has_:
     ckb: ئەلبانیا
     co: Albania
     crh: Arnavutlıq
-    crh-latn: Arnavutlıq
+    crh_latn: Arnavutlıq
     cs: Albánie
     csb: Albańskô
     cu: Алванїꙗ
@@ -262,7 +262,7 @@ dv_has_:
     da: Albanien
     dag: Albania
     de: Albanien
-    de-ch: Albanien
+    de_ch: Albanien
     dga: Albaania
     din: Albania
     diq: Arnawudiye
@@ -275,8 +275,8 @@ dv_has_:
     el: Αλβανία
     eml: Albanî
     en: Albania
-    en-ca: Albania
-    en-gb: Albania
+    en_ca: Albania
+    en_gb: Albania
     eo: Albanio
     es: Albania
     et: Albaania
@@ -303,7 +303,7 @@ dv_has_:
     gn: Avaña
     gom: अल्बानिया
     gom-deva: अल्बानिया
-    gom-latn: Albania
+    gom_latn: Albania
     got: "\U00010330\U0001033B\U00010331\U00010330\U0001033D\U0001033E\U00010330"
     gpe: Albania
     grc: Ἀλβανία
@@ -384,7 +384,7 @@ dv_has_:
     mad: Albania
     mag: अल्बानिया
     mai: अल्बानिया
-    map-bms: Albania
+    map_bms: Albania
     mdf: Албания
     mg: Albania
     mhr: Албаний
@@ -398,7 +398,7 @@ dv_has_:
     mr: आल्बेनिया
     mrj: Албани
     ms: Albania
-    ms-arab: البانيا
+    ms_arab: البانيا
     mt: Albanija
     mwl: Albánia
     my: အယ်လ်ဘေးနီးယားနိုင်ငံ
@@ -410,7 +410,7 @@ dv_has_:
     nap: Albania
     nb: Albania
     nds: Albanien
-    nds-nl: Albanië
+    nds_nl: Albanië
     ne: अल्बानिया
     new: अल्बानिया
     nia: Albania
@@ -443,7 +443,7 @@ dv_has_:
     pnt: Αλβανία
     ps: البانیا
     pt: Albânia
-    pt-br: Albânia
+    pt_br: Albânia
     qu: Albanya
     rm: Albania
     rmy: Shkiperiya
@@ -480,8 +480,8 @@ dv_has_:
     so: Albania
     sq: Shqipëria
     sr: Албанија
-    sr-ec: Албанија
-    sr-el: Albanija
+    sr_ec: Албанија
+    sr_el: Albanija
     srn: Albanikondre
     ss: I-Alibheniya
     st: Albania
@@ -541,14 +541,14 @@ dv_has_:
     zea: Albanië
     zgh: ⴰⵍⴱⴰⵏⵢⴰ
     zh: 阿爾巴尼亞
-    zh-cn: 阿尔巴尼亚
-    zh-hans: 阿尔巴尼亚
-    zh-hant: 阿爾巴尼亞
-    zh-hk: 阿爾巴尼亞
-    zh-mo: 阿爾巴尼亞
+    zh_cn: 阿尔巴尼亚
+    zh_hans: 阿尔巴尼亚
+    zh_hant: 阿爾巴尼亞
+    zh_hk: 阿爾巴尼亞
+    zh_mo: 阿爾巴尼亞
     zh-my: 阿尔巴尼亚
-    zh-sg: 阿尔巴尼亚
-    zh-tw: 阿爾巴尼亞
+    zh_sg: 阿尔巴尼亚
+    zh_tw: 阿爾巴尼亞
     zu: I-Albaniya
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Albania

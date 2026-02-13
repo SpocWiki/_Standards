@@ -274,7 +274,7 @@ dv_has_:
     ban: aluminium
     bcl: alumino
     be: алюміній
-    be-tarask: алюмін
+    be_tarask: алюмін
     bg: алуминий
     bho: अल्मुनिया
     blk: အလူမီနီယမ်
@@ -295,13 +295,13 @@ dv_has_:
     cy: alwminiwm
     da: aluminium
     de: Aluminium
-    de-ch: Aluminium
+    de_ch: Aluminium
     din: Bau
     diq: Aluminyum
     el: αργίλιο
     en: aluminium
-    en-ca: aluminum
-    en-gb: aluminium
+    en_ca: aluminum
+    en_gb: aluminium
     en-us: aluminum
     eo: aluminio
     es: aluminio
@@ -383,7 +383,7 @@ dv_has_:
     mr: एल्युमिनियम
     mrj: алюминий
     ms: aluminium
-    ms-arab: الومينيوم
+    ms_arab: الومينيوم
     mt: aluminju
     mul: Al
     my: အလူမီနီယမ်
@@ -413,7 +413,7 @@ dv_has_:
     pnb: ایلومینیم
     ps: الومېنيم
     pt: alumínio
-    pt-br: alumínio
+    pt_br: alumínio
     qu: ch'aqu q'illay
     rm: aluminium
     ro: aluminiu
@@ -453,7 +453,7 @@ dv_has_:
     tok: ijo lili nanpa 13
     tr: alüminyum
     tt: әлүмин
-    tt-cyrl: әлүмин
+    tt_cyrl: әлүмин
     tum: Aluminiyamu
     tyv: алюминий
     udm: алюмень
@@ -476,14 +476,14 @@ dv_has_:
     za: lij
     zgh: ⴰⵍⵓⵎⵉⵏⵢⵓⵎ
     zh: 鋁
-    zh-cn: 铝
-    zh-hans: 铝
-    zh-hant: 鋁
-    zh-hk: 鋁
-    zh-mo: 鋁
+    zh_cn: 铝
+    zh_hans: 铝
+    zh_hant: 鋁
+    zh_hk: 鋁
+    zh_mo: 鋁
     zh-my: 铝
-    zh-sg: 铝
-    zh-tw: 鋁
+    zh_sg: 铝
+    zh_tw: 鋁
     zu: isAlumbe
   number_of_:
     period: 3

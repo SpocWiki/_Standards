@@ -123,7 +123,7 @@ dv_has_:
     az: sənətşünaslıq
     ba: сәнғәт фәне
     be: мастацтвазнаўства
-    be-tarask: мастацтвазнаўства
+    be_tarask: мастацтвазнаўства
     bg: изкуствознание
     bho: कला के इतिहास (एकेडमिक बिसय)
     bn: শিল্পের ইতিহাস
@@ -137,8 +137,8 @@ dv_has_:
     de: Kunstgeschichte
     el: Ιστορία της Τέχνης
     en: art history
-    en-ca: art history
-    en-gb: art history
+    en_ca: art history
+    en_gb: art history
     eo: bildartohistorio
     es: estudio de la historia del arte
     et: kunstiajalugu
@@ -165,7 +165,7 @@ dv_has_:
     ka: ხელოვნებათმცოდნეობა
     kk: өнер тарихы
     ko: 미술사
-    ku-latn: dîroka hunerê
+    ku_latn: dîroka hunerê
     kw: Istori Art
     ky: искусство таануу
     lb: Konschtgeschicht
@@ -173,9 +173,9 @@ dv_has_:
     lv: mākslas vēsture
     mk: историја на уметноста
     ms: sejarah seni
-    ms-arab: سجاره سني
+    ms_arab: سجاره سني
     nb: kunsthistorie
-    nds-nl: kunstgeschiednis
+    nds_nl: kunstgeschiednis
     nl: kunstgeschiedenis
     nn: kunsthistorie
     os: аивадзонæн
@@ -183,7 +183,7 @@ dv_has_:
     pl: historia sztuki
     ps: هنر تاريخ څېړنې
     pt: história da arte
-    pt-br: história da arte
+    pt_br: história da arte
     ro: istoria artei
     ru: искусствоведение
     rue: умѣлствознаня
@@ -196,15 +196,15 @@ dv_has_:
     sms: čeäʹppõshistoria
     sq: histori e artit
     sr: историја уметности
-    sr-ec: историја уметности
-    sr-el: istorija umetnosti
+    sr_ec: историја уметности
+    sr_el: istorija umetnosti
     sv: konstvetenskap
     tg: ҳунаршиносӣ
     th: ประวัติศาสตร์ศิลป์วิทยา
     tl: kasaysayang pangsining
     tr: sanat tarihi
     tt: сәнгать белеме
-    tt-cyrl: сәнгать белеме
+    tt_cyrl: сәнгать белеме
     uk: мистецтвознавство
     uz: sanʼatshunoslik
     vec: istòria de l'arte
@@ -212,7 +212,7 @@ dv_has_:
     vls: Kunstgeschiedenisse
     yue: 美術史
     zh: 美术史
-    zh-hant: 藝術史
+    zh_hant: 藝術史
 ---
 # [[Art_History]] 
 

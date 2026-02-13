@@ -69,7 +69,7 @@ OpenStreetMap_tag_or_key: Tag:amenity=mobile_library
 dv_has_:
   name_:
     ar: مكتبة متجولة
-    be-tarask: бібліятэка-перасоўка
+    be_tarask: бібліятэка-перасоўка
     bn: ভ্রাম্যমাণ গ্রন্থাগার
     ca: biblioteca mòbil
     cs: pojízdná knihovna
@@ -78,7 +78,7 @@ dv_has_:
     de: Fahrbibliothek
     el: Κινητή Βιβλιοθήκη
     en: bookmobile
-    en-gb: mobile library
+    en_gb: mobile library
     es: bibliobús
     et: rändraamatukogu
     eu: bibliobus
@@ -123,9 +123,9 @@ dv_has_:
     vi: Quầy sách lưu động
     yue: 流動圖書館
     zh: 流動圖書館
-    zh-hans: 流动图书馆
-    zh-hant: 流動圖書館
-    zh-hk: 流動圖書館
+    zh_hans: 流动图书馆
+    zh_hant: 流動圖書館
+    zh_hk: 流動圖書館
 ---
 # [[Bookmobile]] 
 

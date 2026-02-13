@@ -182,7 +182,7 @@ dv_has_:
     bas: lìɓola
     bcl: klima
     be: клімат
-    be-tarask: клімат
+    be_tarask: клімат
     bg: климат
     bho: जलवायु
     bn: জলবায়ু
@@ -198,12 +198,12 @@ dv_has_:
     cy: hinsawdd
     da: klima
     de: Klima
-    de-ch: Klima
+    de_ch: Klima
     diq: İklım
     ee: klimati
     el: κλίμα
     en: climate
-    en-gb: climate
+    en_gb: climate
     en-us: climate
     eo: klimato
     es: clima
@@ -267,14 +267,14 @@ dv_has_:
     mn: уур амьсгал
     mr: हवामान सरासरी स्थिती
     ms: iklim
-    ms-arab: اقليم
+    ms_arab: اقليم
     mwl: clima
     my: ရာသီဥတု
     myv: венельксчачо
     nan: khì-hāu
     nb: klima
     nds: Klima
-    nds-nl: klimaot
+    nds_nl: klimaot
     ne: हावापानी
     new: जलवायु
     nl: klimaat
@@ -291,7 +291,7 @@ dv_has_:
     pnb: کلائمیٹ
     ps: اقلیم
     pt: clima
-    pt-br: clima
+    pt_br: clima
     ro: climă
     ru: климат
     rue: клімат
@@ -327,7 +327,7 @@ dv_has_:
     tr: iklim
     ts: tinguva
     tt: климат
-    tt-cyrl: климат
+    tt_cyrl: климат
     tw: berɛ tenten mu wien bɔberɛ
     udm: климат
     uk: клімат
@@ -349,10 +349,10 @@ dv_has_:
     za: heiqhaeuh
     zgh: ⴰⵏⴳⵉⴳⵜ
     zh: 氣候
-    zh-cn: 气候
-    zh-hant: 氣候
-    zh-hk: 氣候
-    zh-tw: 氣候
+    zh_cn: 气候
+    zh_hant: 氣候
+    zh_hk: 氣候
+    zh_tw: 氣候
 ---
 # [[Climate]] 
 

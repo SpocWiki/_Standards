@@ -51,7 +51,7 @@ dv_has_:
     ar: حل معادلة
     ast: resolvimientu d'ecuaciones
     ba: тигеҙләмәне сығарыу
-    be-tarask: разьвязаньне раўнаньня
+    be_tarask: разьвязаньне раўнаньня
     ca: resolució d'equacions
     ckb: شیکارکردنی ھاوکێشە
     da: ligningsløsning
@@ -77,7 +77,7 @@ dv_has_:
     ml: സമവാക്യനിർദ്ധാരണം
     nl: oplossen van vergelijkingen
     pt: resolução de equações
-    pt-br: resolução de equações
+    pt_br: resolução de equações
     ro: rezolvarea ecuațiilor
     ru: решение уравнений
     sl: reševanje enačb

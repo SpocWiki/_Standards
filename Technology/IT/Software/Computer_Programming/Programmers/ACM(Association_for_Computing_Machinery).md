@@ -129,7 +129,7 @@ dv_has_:
     ast: Association for Computing Machinery
     az: Hesablama Texnikası Assosiasiyası
     be: Асацыяцыя вылічальнай тэхнікі
-    be-tarask: Асацыяцыя вылічальнай тэхнікі
+    be_tarask: Асацыяцыя вылічальнай тэхнікі
     bn: অ্যাসোসিয়েশন ফর কম্পিউটিং মেশিনারি
     ca: Association for Computing Machinery
     cs: Association for Computing Machinery
@@ -158,11 +158,11 @@ dv_has_:
     ja: Association for Computing Machinery
     ka: გამოთვლითი ტექნიკის ასოციაცია
     kk: Есептеу Техникасы Ассоцияциясы
-    kk-arab: ەسەپتەۋ تەحنىيكاسى اسسوتسىيياتسىيياسى
+    kk_arab: ەسەپتەۋ تەحنىيكاسى اسسوتسىيياتسىيياسى
     kk-cn: ەسەپتەۋ تەحنىيكاسى اسسوتسىيياتسىيياسى
-    kk-cyrl: Есептеу Техникасы Ассоцияциясы
+    kk_cyrl: Есептеу Техникасы Ассоцияциясы
     kk-kz: Есептеу Техникасы Ассоцияциясы
-    kk-latn: Eseptew Texnïkası Assocïyacïyası
+    kk_latn: Eseptew Texnïkası Assocïyacïyası
     kk-tr: Eseptew Texnïkası Assocïyacïyası
     kl: Association for Computing Machinery
     ko: ACM
@@ -190,12 +190,12 @@ dv_has_:
     vi: ACM
     yue: 計算機器學會
     zh: 计算机协会
-    zh-cn: 计算机协会
-    zh-hans: 计算机协会
-    zh-hant: 計算機協會
-    zh-hk: 計算機協會
-    zh-sg: 计算机协会
-    zh-tw: 計算機協會
+    zh_cn: 计算机协会
+    zh_hans: 计算机协会
+    zh_hant: 計算機協會
+    zh_hk: 計算機協會
+    zh_sg: 计算机协会
+    zh_tw: 計算機協會
 ---
 # [[ACM(Association_for_Computing_Machinery)]] 
 

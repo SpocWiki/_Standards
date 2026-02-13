@@ -80,7 +80,7 @@ dv_has_:
     ar: دالة موجية
     ast: Función d'onda
     be: хвалевая функцыя
-    be-tarask: хвалевая функцыя
+    be_tarask: хвалевая функцыя
     bg: Вълнова функция
     bn: তরঙ্গ ফাংশন
     bs: Talasna funkcija
@@ -140,7 +140,7 @@ dv_has_:
     vi: Hàm sóng
     yue: 波函數
     zh: 波函数
-    zh-hans: 波函数
+    zh_hans: 波函数
 ---
 # [[Wave_Function]] 
 

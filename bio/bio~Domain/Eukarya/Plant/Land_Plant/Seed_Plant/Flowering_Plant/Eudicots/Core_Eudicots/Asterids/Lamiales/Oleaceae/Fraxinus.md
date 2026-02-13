@@ -165,7 +165,7 @@ dv_has_:
     azb: گؤیروش
     ba: Ҡорос ағас
     be: ясень
-    be-tarask: ясень
+    be_tarask: ясень
     bg: ясен
     br: Onn
     bs: Fraxinus
@@ -211,11 +211,11 @@ dv_has_:
     ja: トネリコ属
     ka: იფანი
     kk: Шаған
-    kk-arab: شاعان
+    kk_arab: شاعان
     kk-cn: شاعان
-    kk-cyrl: Шаған
+    kk_cyrl: Шаған
     kk-kz: Шаған
-    kk-latn: Şağan
+    kk_latn: Şağan
     kk-tr: Şağan
     ko: 물푸레나무속
     la: Fraxinus
@@ -238,7 +238,7 @@ dv_has_:
     pcd: Fréne
     pl: jesion
     pt: Fraxinus
-    pt-br: Fraxinus
+    pt_br: Fraxinus
     ro: Frasin
     ru: ясень
     sco: Fraxinus
@@ -248,8 +248,8 @@ dv_has_:
     sl: jesen
     sq: Fraxinus
     sr: Јасен
-    sr-ec: Јасен
-    sr-el: Jasen
+    sr_ec: Јасен
+    sr_el: Jasen
     sv: Asksläktet
     ta: ஃபிராக்சினஸ்
     tl: Fraxinus
@@ -268,12 +268,12 @@ dv_has_:
     xmf: ლანჯი
     yue: 梣屬
     zh: 梣属
-    zh-cn: 梣屬
-    zh-hans: 梣属
-    zh-hant: 梣樹
-    zh-hk: 梣樹
-    zh-sg: 梣树
-    zh-tw: 梣屬
+    zh_cn: 梣屬
+    zh_hans: 梣属
+    zh_hant: 梣樹
+    zh_hk: 梣樹
+    zh_sg: 梣树
+    zh_tw: 梣屬
 ---
 # [[Fraxinus]] 
 

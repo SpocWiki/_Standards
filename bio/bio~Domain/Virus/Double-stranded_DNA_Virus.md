@@ -40,7 +40,7 @@ dv_has_:
   name_:
     af: DNS-virus
     ar: فيروس دنا
-    be-tarask: ДНК-вірус
+    be_tarask: ДНК-вірус
     bn: ডিএনএ ভাইরাস
     bs: DNK-virus
     ca: virus d'ADN
@@ -69,7 +69,7 @@ dv_has_:
     pl: wirusy DNA
     ps: DNA ويروس
     pt: vírus ADN
-    pt-br: vírus DNA
+    pt_br: vírus DNA
     ro: Deoxiribovirus
     ru: ДНК-содержащие вирусы
     sl: DNK-virus
@@ -77,9 +77,9 @@ dv_has_:
     tr: DNA virüsleri
     vi: Virus DNA
     zh: 去氧核糖核酸病毒
-    zh-hans: 脱氧核糖核酸病毒
-    zh-hant: 去氧核糖核酸病毒
-    zh-hk: 去氧核糖核酸病毒
+    zh_hans: 脱氧核糖核酸病毒
+    zh_hant: 去氧核糖核酸病毒
+    zh_hk: 去氧核糖核酸病毒
 ---
 ## Phylogeny 
 

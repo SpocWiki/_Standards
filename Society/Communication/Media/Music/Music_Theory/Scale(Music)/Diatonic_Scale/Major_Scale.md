@@ -53,7 +53,7 @@ dv_has_:
   name_:
     ar: وضع كبير
     be: Мажор
-    be-tarask: мажор
+    be_tarask: мажор
     bg: Мажор
     bs: Dur
     ca: mode major

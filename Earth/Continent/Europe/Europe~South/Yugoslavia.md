@@ -126,13 +126,13 @@ dv_has_:
     ban: Yugoslavia
     bar: Jugoslawien
     be: Югаславія
-    be-tarask: Югаславія
+    be_tarask: Югаславія
     bg: Югославия
     bn: যুগোস্লাভিয়া
     br: Yougoslavia
     bs: Jugoslavija
     ca: Iugoslàvia
-    cbk-zam: Yugoslavia
+    cbk_zam: Yugoslavia
     ce: Югослави
     ceb: Yugoslavia
     ckb: یووگۆسلاڤیا
@@ -146,7 +146,7 @@ dv_has_:
     dsb: Jugosłowjańska
     el: Γιουγκοσλαβία
     en: Yugoslavia
-    en-gb: Yugoslavia
+    en_gb: Yugoslavia
     en-us: Yugoslavia
     eo: Jugoslavio
     es: Yugoslavia
@@ -212,7 +212,7 @@ dv_has_:
     mn: Югослав
     mr: युगोस्लाव्हिया
     ms: Yugoslavia
-    ms-arab: يوݢوسلاۏيا
+    ms_arab: يوݢوسلاۏيا
     mt: Jugożlavja
     mul: Jugoslavija
     mwl: Jugoslábia
@@ -220,7 +220,7 @@ dv_has_:
     mzn: یوگوسلاوی
     nan: Yugoslavia
     nb: Jugoslavia
-    nds-nl: Jugoslavie
+    nds_nl: Jugoslavie
     ne: युगोस्लाभिया
     nl: Joegoslavië
     nn: Jugoslavia
@@ -234,7 +234,7 @@ dv_has_:
     pnb: یوگوسلاویا
     ps: یوګسلاویا
     pt: Jugoslávia
-    pt-br: Iugoslávia
+    pt_br: Iugoslávia
     qu: Yuguslawya
     rm: Jugoslavia
     ro: Iugoslavia
@@ -282,14 +282,14 @@ dv_has_:
     yi: יוגאסלאוויע
     yue: 南斯拉夫
     zh: 南斯拉夫
-    zh-cn: 南斯拉夫
-    zh-hans: 南斯拉夫
-    zh-hant: 南斯拉夫
-    zh-hk: 南斯拉夫
-    zh-mo: 南斯拉夫
+    zh_cn: 南斯拉夫
+    zh_hans: 南斯拉夫
+    zh_hant: 南斯拉夫
+    zh_hk: 南斯拉夫
+    zh_mo: 南斯拉夫
     zh-my: 南斯拉夫
-    zh-sg: 南斯拉夫
-    zh-tw: 南斯拉夫
+    zh_sg: 南斯拉夫
+    zh_tw: 南斯拉夫
   time_:
     started: 1918-12-01T00:00:00.000+01:00
     stopped: 1992-04-27T00:00:00.000+02:00

@@ -231,7 +231,7 @@ dv_has_:
     azb: دائوقاوا چایی
     ba: Көнбайыш Двина
     be: Дзвіна
-    be-tarask: Дзьвіна
+    be_tarask: Дзьвіна
     bg: Западна Двина
     br: Daugava
     bs: Zapadna Dvina
@@ -243,11 +243,11 @@ dv_has_:
     cy: Afon Daugava
     da: Vestlige Dvina
     de: Düna
-    de-ch: Düna
+    de_ch: Düna
     el: Νταουγκάβα
     en: Daugava
-    en-ca: Daugava River
-    en-gb: Daugava River
+    en_ca: Daugava River
+    en_gb: Daugava River
     eo: Daŭgavo
     es: Duina
     et: Daugava
@@ -295,7 +295,7 @@ dv_has_:
     os: Ныгуылæн Двина
     pl: Dźwina
     pt: Duína Ocidental
-    pt-br: Rio Duína Ocidental
+    pt_br: Rio Duína Ocidental
     ro: Daugava
     ru: Западная Двина
     rue: Западна Двіна

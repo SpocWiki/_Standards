@@ -233,7 +233,7 @@ dv_has_:
     bar: Mo
     bcl: lalaki
     be: мужчына
-    be-tarask: мужчына
+    be_tarask: мужчына
     bew: lanang
     bg: мъж
     bho: आदमी
@@ -263,8 +263,8 @@ dv_has_:
     ee: untsu
     el: άνδρας
     en: man
-    en-ca: man
-    en-gb: man
+    en_ca: man
+    en_gb: man
     eo: viro
     es: varón
     et: mees
@@ -327,7 +327,7 @@ dv_has_:
     ks: مرٕد
     ksh: Mann
     ku: mêr
-    ku-latn: mêr
+    ku_latn: mêr
     kv: айморт
     kw: gour
     la: vir
@@ -360,7 +360,7 @@ dv_has_:
     nap: ommo
     nb: mann
     nds: Mann
-    nds-nl: man
+    nds_nl: man
     ne: पुरुष
     nl: man
     nn: mann
@@ -373,7 +373,7 @@ dv_has_:
     pnb: مرد
     ps: سړی
     pt: homem
-    pt-br: homem
+    pt_br: homem
     qu: qhari
     rn: umugabo
     ro: bărbat
@@ -407,7 +407,7 @@ dv_has_:
     ta: ஆண்பால்
     te: పురుషుడు
     tg: мард
-    tg-cyrl: мард
+    tg_cyrl: мард
     th: ผู้ชาย
     ti: ሰብኣይ
     tl: lalaki
@@ -415,8 +415,8 @@ dv_has_:
     tr: erkek
     ts: wanuna
     tt: ир-ат
-    tt-cyrl: ир-ат
-    tt-latn: ir-at
+    tt_cyrl: ир-ат
+    tt_latn: ir-at
     tw: ɔbabɛrima
     tyv: эр кижи
     udm: воргорон
@@ -439,14 +439,14 @@ dv_has_:
     yue: 男人
     za: bouxsai
     zh: 成年男性
-    zh-cn: 男人
-    zh-hans: 男人
-    zh-hant: 男人
-    zh-hk: 男人
-    zh-mo: 男人
+    zh_cn: 男人
+    zh_hans: 男人
+    zh_hant: 男人
+    zh_hk: 男人
+    zh_mo: 男人
     zh-my: 男人
-    zh-sg: 男人
-    zh-tw: 男人
+    zh_sg: 男人
+    zh_tw: 男人
     zu: indoda
 ---
 # [[Man]] 

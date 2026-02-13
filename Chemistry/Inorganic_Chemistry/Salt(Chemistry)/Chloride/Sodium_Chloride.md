@@ -196,7 +196,7 @@ dv_has_:
     azb: کولورید سودیوم
     bcl: Sodium chloride
     be: хлорысты натрый
-    be-tarask: хлёрысты натр
+    be_tarask: хлёрысты натр
     bg: Натриев хлорид
     bn: সোডিয়াম ক্লোরাইড
     bs: Natrij-hlorid
@@ -206,11 +206,11 @@ dv_has_:
     cy: sodiwm clorid
     da: natriumklorid
     de: Natriumchlorid
-    de-ch: Natriumchlorid
+    de_ch: Natriumchlorid
     el: Χλωριούχο νάτριο
     en: sodium chloride
-    en-ca: Sodium chloride
-    en-gb: sodium chloride
+    en_ca: Sodium chloride
+    en_gb: sodium chloride
     eo: natria klorido
     es: cloruro de sodio
     et: Naatriumkloriid
@@ -238,7 +238,7 @@ dv_has_:
     ko: 염화 나트륨
     ks: سوڈیم کلورایڈ
     ku: sodyûm klorur
-    ku-latn: sodyûm klorur
+    ku_latn: sodyûm klorur
     kw: holan
     ky: Натрий хлориди
     la: natrii chloridum
@@ -261,7 +261,7 @@ dv_has_:
     pl: chlorek sodu
     pnb: سوڈیئم کلورائیڈ
     pt: cloreto de sódio
-    pt-br: cloreto de sódio
+    pt_br: cloreto de sódio
     qu: Yanuna kachi
     ro: Clorură de sodiu
     ru: хлорид натрия
@@ -272,7 +272,7 @@ dv_has_:
     sl: natrijev klorid
     sq: Klouri i natriumit
     sr: кухињска со
-    sr-ec: Кухињска со
+    sr_ec: Кухињска со
     sv: natriumklorid
     sw: Munyu
     ta: சோடியம் குளோரைடு
@@ -289,8 +289,8 @@ dv_has_:
     wuu: 氯化钠
     yue: 氯化鈉
     zh: 氯化钠
-    zh-hans: 氯化钠
-    zh-tw: 氯化鈉
+    zh_hans: 氯化钠
+    zh_tw: 氯化鈉
 ---
 # [[Sodium_Chloride]] 
 

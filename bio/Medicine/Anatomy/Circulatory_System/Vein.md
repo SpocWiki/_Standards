@@ -129,7 +129,7 @@ dv_has_:
     ba: Вена
     bar: Vene
     be: вена
-    be-tarask: вэна
+    be_tarask: вэна
     bg: Вена
     bn: শিরা
     bo: སྡོད་རྩ་
@@ -144,8 +144,8 @@ dv_has_:
     diq: Damare
     el: Φλέβα
     en: vein
-    en-ca: Vein
-    en-gb: vein
+    en_ca: Vein
+    en_gb: vein
     eo: vejno
     es: vena
     et: Veen
@@ -194,7 +194,7 @@ dv_has_:
     mn: Вена
     mr: नस
     ms: vena
-    ms-arab: ۏينا
+    ms_arab: ۏينا
     my: သွေးပြန်ကြော
     nan: Chēng-me̍h
     nb: vene
@@ -209,7 +209,7 @@ dv_has_:
     pag: Ulat
     pl: żyła
     pt: veia
-    pt-br: veia
+    pt_br: veia
     qu: Ch'illa sirk'a
     rki: သွီးပြန်ကြော
     ro: venă
@@ -233,7 +233,7 @@ dv_has_:
     tl: Bena
     tr: toplardamar
     tt: вена
-    tt-cyrl: кан тамыры
+    tt_cyrl: кан тамыры
     tyv: Вена
     udm: вена
     ug: ۋېنا تومۇرى
@@ -250,7 +250,7 @@ dv_has_:
     xmf: ვენა (ზისხირჯერღვი)
     yue: 靜脈
     zh: 靜脈
-    zh-hant: 靜脈
+    zh_hant: 靜脈
 ---
 # [[Vein]] 
 

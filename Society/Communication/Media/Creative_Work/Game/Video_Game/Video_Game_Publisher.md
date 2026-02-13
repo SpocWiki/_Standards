@@ -71,7 +71,7 @@ dv_has_:
     ar: ناشر لعبة فيديو
     ast: distribuidora de videoxuegos
     az: Video oyun nəşrçisi
-    be-tarask: выдавец відэагульняў
+    be_tarask: выдавец відэагульняў
     br: embanner c'hoarioù video
     bs: izdavač videoigara
     ca: editor de videojocs
@@ -101,14 +101,14 @@ dv_has_:
     lv: datorspēļu izdevējs
     mk: Издавач на видеоигри
     ms: penerbit permainan video
-    ms-arab: ڤنربيت ڤرماءينن ۏيديو
+    ms_arab: ڤنربيت ڤرماءينن ۏيديو
     nb: videospillutgiver
     nl: computerspeluitgever
     nn: Dataspelutgjevar
     pl: wydawca gier komputerowych
     ps: ويډيو ګيم خپروونکی
     pt: publicadora de jogos eletrónicos
-    pt-br: publicadora de jogos eletrônicos
+    pt_br: publicadora de jogos eletrônicos
     ro: editură de jocuri video
     ru: издатель компьютерных игр
     sl: založba videoiger
@@ -118,7 +118,7 @@ dv_has_:
     tl: Tagapaglathala ng bidyong laro
     tr: Video oyunu yayımcısı
     tt: компьютер уеннары нәшрияте
-    tt-cyrl: компьютер уеннары нәшрияте
+    tt_cyrl: компьютер уеннары нәшрияте
     uk: видавець відеоігор
     ur: ناشر وڈیو گیم
     uz: Video o'yinlar nashriyotchisi
@@ -126,14 +126,14 @@ dv_has_:
     wuu: 电子游戏发行商
     yue: 遊戲發行商
     zh: 電子遊戲發行商
-    zh-cn: 电子游戏发行商
-    zh-hans: 游戏发行商
-    zh-hant: 遊戲發行商
-    zh-hk: 電子遊戲發行商
-    zh-mo: 遊戲發行商
+    zh_cn: 电子游戏发行商
+    zh_hans: 游戏发行商
+    zh_hant: 遊戲發行商
+    zh_hk: 電子遊戲發行商
+    zh_mo: 遊戲發行商
     zh-my: 游戏发行商
-    zh-sg: 游戏发行商
-    zh-tw: 電子遊戲發行商
+    zh_sg: 游戏发行商
+    zh_tw: 電子遊戲發行商
 ---
 # [[Video_Game_Publisher]] 
 

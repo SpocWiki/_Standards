@@ -36,7 +36,7 @@ dv_has_:
   name_:
     ar: حصان الهاكني
     az: Hakni
-    be-tarask: гакні
+    be_tarask: гакні
     br: Inkane
     ca: trotador anglès
     de: Hackney

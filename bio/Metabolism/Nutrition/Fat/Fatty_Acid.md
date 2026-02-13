@@ -100,7 +100,7 @@ dv_has_:
     ast: Ácidu graso
     bcl: Asidong mataba
     be: Тлустыя кіслоты
-    be-tarask: тлустая кісьля
+    be_tarask: тлустая кісьля
     bg: Мастна киселина
     bn: স্নেহজ অ্যাসিড
     bs: Masne kiseline
@@ -110,11 +110,11 @@ dv_has_:
     cy: asid brasterog
     da: fedtsyre
     de: Fettsäuren
-    de-ch: Fettsäuren
+    de_ch: Fettsäuren
     el: Λιπαρό οξύ
     en: fatty acid
-    en-ca: Fatty acid
-    en-gb: fatty acid
+    en_ca: Fatty acid
+    en_gb: fatty acid
     eo: grasacido
     es: ácido graso
     et: Rasvhapped
@@ -139,7 +139,7 @@ dv_has_:
     kn: ಕೊಬ್ಬಿನ ಆಮ್ಲ
     ko: 지방산
     ku: Asîda çewrî
-    ku-latn: asîda çewrî
+    ku_latn: asîda çewrî
     ky: Май кислоталары -
     la: Unctoacidum
     lt: Riebalų rūgštys
@@ -156,7 +156,7 @@ dv_has_:
     pa: ਚਰਬੀਲਾ ਤਿਜ਼ਾਬ
     pl: kwas tłuszczowy
     pt: ácido gordo
-    pt-br: ácido graxo
+    pt_br: ácido graxo
     ro: acizi grași
     ru: жирные кислоты
     sh: Masne kiseline
@@ -175,9 +175,9 @@ dv_has_:
     wuu: 脂肪酸
     yue: 脂肪酸
     zh: 脂肪酸
-    zh-cn: 脂肪酸
-    zh-hans: 脂肪酸
-    zh-hant: 脂肪酸
+    zh_cn: 脂肪酸
+    zh_hans: 脂肪酸
+    zh_hant: 脂肪酸
 ---
 ## #has_/text_of_/abstract 
 

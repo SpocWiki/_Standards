@@ -83,7 +83,7 @@ dv_has_:
     ar: اشمئزاز
     ast: Ascu
     be: агіда
-    be-tarask: агіда
+    be_tarask: агіда
     bg: Отвращение
     bs: Gađenje
     ca: fàstic
@@ -92,12 +92,12 @@ dv_has_:
     cv: Йĕрĕнӳ
     da: afsky
     de: Ekel
-    de-ch: Ekel
+    de_ch: Ekel
     el: αηδία
     eml: Schiva
     en: disgust
-    en-ca: Disgust
-    en-gb: disgust
+    en_ca: Disgust
+    en_gb: disgust
     eo: naŭzo
     es: asco
     et: vastikustunne
@@ -133,7 +133,7 @@ dv_has_:
     nl: walging
     pl: wstręt
     pt: nojo
-    pt-br: Nojo
+    pt_br: Nojo
     qu: Milla
     ro: dezgust
     ru: отвращение
@@ -144,12 +144,12 @@ dv_has_:
     sl: gnus
     sq: neveri
     sr: гађење
-    sr-ec: гађење
-    sr-el: gađenje
+    sr_ec: гађење
+    sr_el: gađenje
     sv: äckel
     tr: iğrenme
     tt: нәфрәт
-    tt-cyrl: нәфрәт
+    tt_cyrl: нәфрәт
     uk: відраза
     ur: گھناؤنا پن
     vi: ghê tởm

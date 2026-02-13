@@ -156,7 +156,7 @@ dv_has_:
     az: Cozef Konrad
     azb: جوزف کنراد
     be: Джозеф Конрад
-    be-tarask: Джозэф Конрад
+    be_tarask: Джозэф Конрад
     bg: Джоузеф Конрад
     bn: জোসেফ কনরাড
     br: Joseph Conrad
@@ -168,12 +168,12 @@ dv_has_:
     cy: Joseph Conrad
     da: Joseph Conrad
     de: Joseph Conrad
-    de-ch: Joseph Conrad
+    de_ch: Joseph Conrad
     ee: Joseph Conrad
     el: Τζόζεφ Κόνραντ
     en: Joseph Conrad
-    en-ca: Joseph Conrad
-    en-gb: Joseph Conrad
+    en_ca: Joseph Conrad
+    en_gb: Joseph Conrad
     eo: Joseph Conrad
     es: Joseph Conrad
     et: Joseph Conrad
@@ -223,7 +223,7 @@ dv_has_:
     pms: Joseph Conrad
     ps: جوزف کونراد
     pt: Joseph Conrad
-    pt-br: Joseph Conrad
+    pt_br: Joseph Conrad
     rm: Joseph Conrad
     ro: Joseph Conrad
     ru: Джозеф Конрад
@@ -233,7 +233,7 @@ dv_has_:
     sl: Joseph Conrad
     sq: Joseph Conrad
     sr: Џозеф Конрад
-    sr-ec: Џозеф Конрад
+    sr_ec: Џозеф Конрад
     sv: Joseph Conrad
     ta: ஜோசப் கொன்ராட்
     te: జోసెఫ్ కాన్రాడ్
@@ -250,8 +250,8 @@ dv_has_:
     yo: Joseph Conrad
     yue: 康拉德
     zh: 约瑟夫·康拉德
-    zh-hant: 約瑟夫·康拉德
-    zh-tw: 約瑟夫·康拉德
+    zh_hant: 約瑟夫·康拉德
+    zh_tw: 約瑟夫·康拉德
 ---
 # [[Conrad,Joseph]] 
 

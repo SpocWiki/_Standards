@@ -78,7 +78,7 @@ dv_has_:
     ast: Llei de los grandes númberos
     az: Böyük ədədlər qanunu
     be: Закон вялікіх лікаў
-    be-tarask: закон вялікіх лікаў
+    be_tarask: закон вялікіх лікаў
     bg: Закон за големите числа
     ca: Llei dels grans nombres
     cs: Zákon velkých čísel
@@ -86,7 +86,7 @@ dv_has_:
     cy: deddf niferoedd mawr
     da: store tals lov
     de: Gesetz der großen Zahlen
-    de-ch: Gesetz der grossen Zahlen
+    de_ch: Gesetz der grossen Zahlen
     el: Νόμος των μεγάλων αριθμών
     en: law of large numbers
     eo: Leĝo de grandaj nombroj
@@ -120,8 +120,8 @@ dv_has_:
     sl: zakon velikih števil
     sq: Ligji i numrave të mëdhenj
     sr: Закон великих бројева
-    sr-ec: Закон великих бројева
-    sr-el: Zakon velikih brojeva
+    sr_ec: Закон великих бројева
+    sr_el: Zakon velikih brojeva
     sv: de stora talens lag
     tr: büyük sayılar yasası
     uk: закон великих чисел
@@ -131,12 +131,12 @@ dv_has_:
     wuu: 大数定律
     yue: 大數定律
     zh: 大数定律
-    zh-cn: 大数定律
-    zh-hans: 大数定律
-    zh-hant: 大數定律
-    zh-hk: 大數定律
-    zh-sg: 大数定律
-    zh-tw: 大數定律
+    zh_cn: 大数定律
+    zh_hans: 大数定律
+    zh_hant: 大數定律
+    zh_hk: 大數定律
+    zh_sg: 大数定律
+    zh_tw: 大數定律
 ---
 # [[Law_of_large_Numbers]] 
 

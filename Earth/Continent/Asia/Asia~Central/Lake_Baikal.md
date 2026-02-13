@@ -229,7 +229,7 @@ dv_has_:
     bar: Baikalsee
     bbc: Tao Baikal
     be: Байкал
-    be-tarask: Байкал
+    be_tarask: Байкал
     bew: Sètu Baèkal
     bg: Байкал
     bho: बैकाल झील
@@ -253,8 +253,8 @@ dv_has_:
     dv: ބައިކަލް ކުޅި
     el: Βαϊκάλη
     en: Lake Baikal
-    en-ca: Lake Baikal
-    en-gb: Lake Baikal
+    en_ca: Lake Baikal
+    en_gb: Lake Baikal
     eo: Bajkalo
     es: Baikal
     et: Baikali järv
@@ -337,7 +337,7 @@ dv_has_:
     pnb: جھیل بیکال
     ps: بایکال کوړم
     pt: Lago Baikal
-    pt-br: Lago Baikal
+    pt_br: Lago Baikal
     qu: Paygal qucha
     ro: Lacul Baikal
     roa-tara: Laghe Bajkal
@@ -366,7 +366,7 @@ dv_has_:
     tok: telo Paka
     tr: Baykal Gölü
     tt: Байкал күле
-    tt-cyrl: Байкал
+    tt_cyrl: Байкал
     udm: Байкал
     uk: Байкал
     ur: جھیل بیکال

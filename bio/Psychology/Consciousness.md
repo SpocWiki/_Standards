@@ -13,7 +13,7 @@ dv_has_:
     ba: аң
     bcl: agimadmad
     be: свядомасць
-    be-tarask: сьвядомасьць
+    be_tarask: сьвядомасьць
     bg: съзнание
     bn: চেতনা
     bs: svijest
@@ -29,8 +29,8 @@ dv_has_:
     dsb: wědobnje
     el: συνείδηση
     en: consciousness
-    en-ca: consciousness
-    en-gb: consciousness
+    en_ca: consciousness
+    en_gb: consciousness
     eo: konscio
     es: conciencia
     et: teadvus
@@ -78,7 +78,7 @@ dv_has_:
     mn: Ухамсар (сэтгэл зүй)
     mr: चेतना
     ms: kesedaran
-    ms-arab: کسدرن
+    ms_arab: کسدرن
     mwl: cuncéncia
     my: အသိစိတ်
     nan: ì-sek
@@ -95,7 +95,7 @@ dv_has_:
     pms: Cossiensa
     ps: فهم
     pt: consciência
-    pt-br: consciência
+    pt_br: consciência
     ro: conștiență
     ru: сознание
     sa: चेतना
@@ -107,7 +107,7 @@ dv_has_:
     sl: zavest
     sq: vetëdija
     sr: свест
-    sr-ec: свест
+    sr_ec: свест
     st: boitemoho
     sv: medvetande
     szl: świadōmość
@@ -126,8 +126,8 @@ dv_has_:
     yi: באוואוסטזיין
     yue: 意識
     zh: 意识
-    zh-hant: 意識
-    zh-tw: 意識
+    zh_hant: 意識
+    zh_tw: 意識
     zu: impaphamo
 aliases:
 - agimadmad

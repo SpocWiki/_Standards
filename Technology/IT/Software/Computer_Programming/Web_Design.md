@@ -76,7 +76,7 @@ dv_has_:
     ast: Diseñu web
     az: Veb-dizayn
     be: вэб-дызайн
-    be-tarask: вэб-дызайн
+    be_tarask: вэб-дызайн
     bg: Уеб дизайн
     bn: ওয়েব ডিজাইন
     bs: Web dizajn
@@ -111,8 +111,8 @@ dv_has_:
     kk: Web-бет дизайн
     ko: 웹 디자인
     ku: Malpersazî
-    ku-arab: مالپەرسازی
-    ku-latn: Malpersazî
+    ku_arab: مالپەرسازی
+    ku_latn: Malpersazî
     lb: Webdesign
     mk: уредување на мрежни места
     ml: വെബ് ഡിസൈൻ
@@ -122,7 +122,7 @@ dv_has_:
     nn: vevdesign
     pl: web design
     pt: web design
-    pt-br: web design
+    pt_br: web design
     ro: web design
     ru: веб-дизайн
     sh: Web-dizajn
@@ -130,8 +130,8 @@ dv_has_:
     sl: Izdelava spletnih strani
     so: Dhismaha websiteka
     sr: Веб-дизајн
-    sr-ec: веб дизајн
-    sr-el: veb dizajn
+    sr_ec: веб дизајн
+    sr_el: veb dizajn
     sv: webbdesign
     ta: வலை வடிவமைப்பு
     te: వెబ్ డిజైన్
@@ -144,12 +144,12 @@ dv_has_:
     xmf: ვებდიზაინი
     yue: 網頁設計
     zh: 网页设计
-    zh-cn: 网页设计
-    zh-hans: 网页设计
-    zh-hant: 網頁設計
-    zh-hk: 網頁設計
-    zh-sg: 网页设计
-    zh-tw: 網頁設計
+    zh_cn: 网页设计
+    zh_hans: 网页设计
+    zh_hant: 網頁設計
+    zh_hk: 網頁設計
+    zh_sg: 网页设计
+    zh_tw: 網頁設計
 ---
 # [[Web_Design]] 
 

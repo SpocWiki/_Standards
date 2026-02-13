@@ -10,7 +10,7 @@ dv_has_:
     az: Demokrit
     ba: Демокрит
     be: Дэмакрыт
-    be-tarask: Дэмакрыт
+    be_tarask: Дэмакрыт
     bg: Демокрит
     bn: দেমোক্রিতোস
     bs: Demokrit
@@ -22,8 +22,8 @@ dv_has_:
     de: Demokrit
     el: Δημόκριτος
     en: Democritus
-    en-ca: Democritus
-    en-gb: Democritus
+    en_ca: Democritus
+    en_gb: Democritus
     eo: Demokrito
     es: Demócrito
     et: Demokritos
@@ -82,7 +82,7 @@ dv_has_:
     pnb: ڈیموکریٹس
     ps: دېموکریتوس
     pt: Demócrito de Abdera
-    pt-br: Demócrito de Abdera
+    pt_br: Demócrito de Abdera
     rki: ဒီမိုခရစ်တပ်စ်
     ro: Democrit
     rsk: Демокрит
@@ -101,7 +101,7 @@ dv_has_:
     ta: டெமோக்கிரட்டிசு
     te: డెమోక్రిటస్
     tg: Демокрит
-    tg-cyrl: Демокрит
+    tg_cyrl: Демокрит
     th: ดิมอคริตัส
     tl: Democritus
     tr: Demokritos
@@ -116,9 +116,9 @@ dv_has_:
     xmf: დემოკრიტე
     yue: 德謨克利特
     zh: 德谟克利特
-    zh-cn: 德谟克利特
+    zh_cn: 德谟克利特
     zh-hans: 德谟克利特
-    zh-hant: 德谟克利特
+    zh_hant: 德谟克利特
 aliases:
 - Democrit
 - Democrit d'Abdèra

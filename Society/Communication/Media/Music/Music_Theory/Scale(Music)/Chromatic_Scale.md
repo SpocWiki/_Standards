@@ -52,7 +52,7 @@ dv_has_:
   name_:
     af: Chromatiese toonleer
     ar: سلم لوني
-    be-tarask: храматычная гама
+    be_tarask: храматычная гама
     bg: Хроматична гама
     br: Skeulenn gromatek
     ca: escala cromàtica
@@ -81,7 +81,7 @@ dv_has_:
     lv: hromatiskā gamma
     mk: хроматска скала
     ms: skala kromat
-    ms-arab: سکالا کرومت
+    ms_arab: سکالا کرومت
     nb: kromatisk skala
     nl: Chromatische toonladder
     nn: kromatisk skala
@@ -94,8 +94,8 @@ dv_has_:
     sk: chromatická stupnica
     sl: kromatična lestvica
     sr: Хроматска лествица
-    sr-ec: Хроматска лествица
-    sr-el: Hromatska lestvica
+    sr_ec: Хроматска лествица
+    sr_el: Hromatska lestvica
     sv: kromatisk skala
     tg: Гаммаи хроматикӣ
     tr: kromatik ölçek
@@ -104,12 +104,12 @@ dv_has_:
     vi: Âm giai nửa cung
     yue: 半音音階
     zh: 半音阶
-    zh-cn: 半音阶
-    zh-hans: 半音阶
-    zh-hant: 半音階
-    zh-hk: 半音階
-    zh-sg: 半音阶
-    zh-tw: 半音階
+    zh_cn: 半音阶
+    zh_hans: 半音阶
+    zh_hant: 半音階
+    zh_hk: 半音階
+    zh_sg: 半音阶
+    zh_tw: 半音階
 ---
 # [[Chromatic_Scale]] 
 

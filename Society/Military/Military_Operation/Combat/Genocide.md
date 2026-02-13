@@ -170,7 +170,7 @@ dv_has_:
     az: soyqırım
     ba: геноцид
     be: генацыд
-    be-tarask: генацыд
+    be_tarask: генацыд
     bg: геноцид
     bn: পরিকল্পিত গণহত্যা
     br: gouennlazh
@@ -221,7 +221,7 @@ dv_has_:
     kk: Геноцид
     ko: 집단학살
     ku: jenosîd
-    ku-latn: jenosîd
+    ku_latn: jenosîd
     ky: Геноцид
     la: Generis occidio
     lb: Vëlkermuerd
@@ -240,7 +240,7 @@ dv_has_:
     mt: ġenoċidju
     nan: Chéng-cho̍k bia̍t-choa̍t
     nb: folkemord
-    nds-nl: volkermoard
+    nds_nl: volkermoard
     ne: नरसंहार
     nl: genocide
     nn: folkemord
@@ -267,7 +267,7 @@ dv_has_:
     smn: aalmugmorhe
     sq: gjenocid
     sr: геноцид
-    sr-ec: геноцид
+    sr_ec: геноцид
     sv: folkmord
     sw: mauaji ya kimbari
     ta: இனப்படுகொலை
@@ -291,11 +291,11 @@ dv_has_:
     yi: פעלקער מארד
     yue: 種族滅絕
     zh: 种族灭绝
-    zh-cn: 种族灭绝
-    zh-hans: 种族灭绝
-    zh-hant: 種族滅絕
-    zh-hk: 種族滅絕
-    zh-tw: 種族滅絕
+    zh_cn: 种族灭绝
+    zh_hans: 种族灭绝
+    zh_hant: 種族滅絕
+    zh_hk: 種族滅絕
+    zh_tw: 種族滅絕
 ---
 # [[Genocide]] 
 

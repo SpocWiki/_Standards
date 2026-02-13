@@ -172,7 +172,7 @@ dv_has_:
     ast: bébora alcohólico
     az: Alkoqollu içkilər
     be: Алкагольныя напоі
-    be-tarask: сьпіртовы напой
+    be_tarask: сьпіртовы напой
     bew: Aèr serani
     bg: Алкохолна напитка
     bho: शराब
@@ -190,11 +190,11 @@ dv_has_:
     cy: diod feddwol
     da: alkoholiske drikkevarer
     de: alkoholisches Getränk
-    de-ch: Alkoholisches Getränk
+    de_ch: Alkoholisches Getränk
     el: αλκοολούχο ποτό
     en: alcoholic beverage
-    en-ca: Alcoholic beverage
-    en-gb: alcoholic beverage
+    en_ca: Alcoholic beverage
+    en_gb: alcoholic beverage
     eo: alkoholaĵo
     es: bebida alcohólica
     et: alkohoolne jook
@@ -255,7 +255,7 @@ dv_has_:
     pa: ਸ਼ਰਾਬ
     pl: napój alkoholowy
     pt: bebida alcoólica
-    pt-br: bebida alcoólica
+    pt_br: bebida alcoólica
     ro: băutură alcoolică
     ru: алкогольный напиток
     rue: Алкогол
@@ -270,13 +270,13 @@ dv_has_:
     so: Khamro
     sq: pije alkoolike
     sr: алкохолно пиће
-    sr-ec: алкохолно пиће
-    sr-el: alkoholno piće
+    sr_ec: алкохолно пиће
+    sr_el: alkoholno piće
     sv: alkoholdryck
     sw: Pombe
     szy: epah
     ta: மதுபானம்
-    tg-cyrl: машруботи спирти
+    tg_cyrl: машруботи спирти
     th: เครื่องดื่มแอลกอฮอล์
     tl: Inuming alkohol
     tok: telo nasa
@@ -295,8 +295,8 @@ dv_has_:
     yue: 酒
     za: Laeuj
     zh: 酒
-    zh-hans: 酒
-    zh-hant: 酒
+    zh_hans: 酒
+    zh_hant: 酒
 ---
 ## #has_/text_of_/abstract 
 

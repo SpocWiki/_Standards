@@ -56,14 +56,14 @@ dv_has_:
   name_:
     ar: دوران النجوم
     ast: Rotación estelar
-    be-tarask: вярчэньне зоркі
+    be_tarask: вярчэньне зоркі
     ca: rotació estel·lar
     cv: Çăлтăрсен çаврăнăвĕ
     de: stellare Rotation
     el: αστρική περιστροφή
     en: stellar rotation
-    en-ca: Stellar rotation
-    en-gb: stellar rotation
+    en_ca: Stellar rotation
+    en_gb: stellar rotation
     es: Rotación estelar
     eu: Izar errotazio
     fa: چرخش ستارهای
@@ -80,7 +80,7 @@ dv_has_:
     nl: stellaire rotatie
     pl: Rotacja gwiazd
     pt: rotação estelar
-    pt-br: Rotação estelar
+    pt_br: Rotação estelar
     ro: Rotație stelară
     ru: вращение звезды
     sr: Zvezdana rotacija

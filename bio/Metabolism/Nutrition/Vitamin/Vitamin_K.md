@@ -139,8 +139,8 @@ dv_has_:
     sl: vitamin K
     sq: Vitamina K
     sr: витамин К
-    sr-ec: витамин К
-    sr-el: vitamin K
+    sr_ec: витамин К
+    sr_el: vitamin K
     su: vitamin K
     sv: K-vitamin
     ta: உயிர்ச்சத்து கே
@@ -155,12 +155,12 @@ dv_has_:
     wuu: 维生素K
     yue: 維他命K
     zh: 维生素K
-    zh-cn: 维生素K
-    zh-hans: 维生素K
-    zh-hant: 維生素K
-    zh-hk: 維生素K
-    zh-sg: 维生素K
-    zh-tw: 維生素K
+    zh_cn: 维生素K
+    zh_hans: 维生素K
+    zh_hant: 維生素K
+    zh_hk: 維生素K
+    zh_sg: 维生素K
+    zh_tw: 維生素K
 ---
 # [[Vitamin_K]] 
 

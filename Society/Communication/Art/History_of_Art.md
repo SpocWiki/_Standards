@@ -113,7 +113,7 @@ dv_has_:
     az: incəsənət tarixi
     ba: сәнғәт тарихы
     be: гісторыя мастацтваў
-    be-tarask: гісторыя мастацтва
+    be_tarask: гісторыя мастацтва
     bg: история на изкуството
     bho: कला के इतिहास
     bn: শিল্পকলার ইতিহাস
@@ -128,8 +128,8 @@ dv_has_:
     diq: Tarixê huneri
     el: Ιστορία της τέχνης
     en: history of art
-    en-ca: history of art
-    en-gb: history of art
+    en_ca: history of art
+    en_gb: history of art
     eo: historio de arto
     es: historia del arte
     et: kunsti ajalugu
@@ -164,7 +164,7 @@ dv_has_:
     mk: историја на уметноста
     ml: കലാചരിത്രം
     ms: sejarah seni
-    ms-arab: سجاره سني
+    ms_arab: سجاره سني
     nb: kunsthistorie
     nl: kunstgeschiedenis
     nn: kunsthistorie
@@ -174,7 +174,7 @@ dv_has_:
     pl: historia sztuki
     ps: د هنر تاریخ
     pt: história da arte
-    pt-br: história da arte
+    pt_br: história da arte
     ro: istoria artei
     ru: история искусств
     sco: history o airt
@@ -194,7 +194,7 @@ dv_has_:
     tl: Kasaysayan ng sining
     tr: sanat tarihi
     tt: сәнгать тарихы
-    tt-cyrl: сәнгать тарихы
+    tt_cyrl: сәнгать тарихы
     uk: історія мистецтв
     uz: Sanʼat tarixi
     vi: lịch sử nghệ thuật
@@ -202,8 +202,8 @@ dv_has_:
     yi: היסטאריע פון קונסט
     yue: 美術史
     zh: 艺术历史
-    zh-hant: 藝術歷史
-    zh-tw: 藝術歷史
+    zh_hant: 藝術歷史
+    zh_tw: 藝術歷史
 ---
 # [[History_of_Art]] 
 

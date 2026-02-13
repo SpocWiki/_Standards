@@ -251,7 +251,7 @@ dv_has_:
     azb: بیبیسی
     ba: Би-би-си
     be: Брытанская вяшчальная карпарацыя
-    be-tarask: Брытанская вяшчальная карпарацыя
+    be_tarask: Брытанская вяшчальная карпарацыя
     bg: Би Би Си
     bho: बीबीसी
     bn: ব্রিটিশ ব্রডকাস্টিং কর্পোরেশন
@@ -259,7 +259,7 @@ dv_has_:
     ckb: بی بی سی
     cv: Би-би-си
     de: British Broadcasting Corporation
-    de-ch: British Broadcasting Corporation
+    de_ch: British Broadcasting Corporation
     diq: British Broadcasting Corporation
     en: British Broadcasting Corporation
     fa: بیبیسی
@@ -303,7 +303,7 @@ dv_has_:
     si: බීබීසී
     sk: British Broadcasting Corporation
     skr: بی بی سی
-    sr-el: Bi-Bi-Si
+    sr_el: Bi-Bi-Si
     syl: ꠛꠤꠛꠤꠌꠤ
     ta: பிபிசி
     te: బీబీసీ
@@ -317,10 +317,10 @@ dv_has_:
     yue: 英國廣播公司
     zgh: ⴱⵉ ⴱⵉ ⵙⵉ
     zh: 英国广播公司
-    zh-cn: 英国广播公司
-    zh-hans: 英国广播公司
-    zh-hant: 英國廣播公司
-    zh-hk: 英國廣播公司
+    zh_cn: 英国广播公司
+    zh_hans: 英国广播公司
+    zh_hant: 英國廣播公司
+    zh_hk: 英國廣播公司
 ---
 # [[BBC]] 
 

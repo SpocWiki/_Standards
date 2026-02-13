@@ -74,7 +74,7 @@ dv_has_:
     ast: Joseph Marie Jacquard
     az: Yozef Mari Yaquard
     be: Жазеф Мары Жакар
-    be-tarask: Жазэф-Мары Жакар
+    be_tarask: Жазэф-Мары Жакар
     bg: Жозеф Мари Жакард
     ca: Joseph Marie Jacquard
     cs: Joseph Marie Jacquard
@@ -106,7 +106,7 @@ dv_has_:
     nn: Joseph Marie Jacquard
     pl: Joseph Marie Jacquard
     pt: Joseph-Marie Jacquard
-    pt-br: Joseph-Marie Jacquard
+    pt_br: Joseph-Marie Jacquard
     ro: Joseph Marie Jacquard
     ru: Жозеф Мари Жаккар
     sh: Joseph Marie Jacquard
@@ -114,8 +114,8 @@ dv_has_:
     sl: Joseph Marie Jacquard
     sq: Joseph Marie Jacquard
     sr: Жозеф Мари Жакар
-    sr-ec: Жозеф Мари Жакар
-    sr-el: Žozef Mari Žakar
+    sr_ec: Жозеф Мари Жакар
+    sr_el: Žozef Mari Žakar
     sv: Joseph-Marie Jacquard
     tl: Joseph Marie Jacquard
     tr: Joseph Marie Jacquard
@@ -124,12 +124,12 @@ dv_has_:
     war: Joseph Marie Jacquard
     yue: 约瑟夫·马里·雅卡尔
     zh: 约瑟夫·马里·雅卡尔
-    zh-cn: 约瑟夫·马里·雅卡尔
-    zh-hans: 约瑟夫·馬里·雅卡尔
-    zh-hant: 約瑟夫·馬里·雅卡爾
-    zh-hk: 約瑟夫·馬里·雅卡爾
-    zh-sg: 约瑟夫·马里·雅卡尔
-    zh-tw: 約瑟夫·馬里·雅卡爾
+    zh_cn: 约瑟夫·马里·雅卡尔
+    zh_hans: 约瑟夫·馬里·雅卡尔
+    zh_hant: 約瑟夫·馬里·雅卡爾
+    zh_hk: 約瑟夫·馬里·雅卡爾
+    zh_sg: 约瑟夫·马里·雅卡尔
+    zh_tw: 約瑟夫·馬里·雅卡爾
 ---
 # [[Jacquard,Joseph_Marie]] 
 

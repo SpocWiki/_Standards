@@ -101,7 +101,7 @@ dv_has_:
     azb: کونفدارسیون
     ba: конфедерация
     be: канфедэрацыя
-    be-tarask: канфэдэрацыя
+    be_tarask: канфэдэрацыя
     bg: Конфедерация
     bn: মিত্রসংঘ
     br: Kengevread
@@ -115,7 +115,7 @@ dv_has_:
     diq: Konfederasyon
     el: συνομοσπονδία
     en: confederation
-    en-gb: confederation
+    en_gb: confederation
     eo: konfederacio
     es: confederación
     et: konföderatsioon
@@ -143,7 +143,7 @@ dv_has_:
     kk: Конфедерация
     ko: 국가 연합
     ku: konfederasyon
-    ku-latn: konfederasyon
+    ku_latn: konfederasyon
     ky: Конфедерация
     la: confoederatio
     lmo: Confederazion
@@ -152,7 +152,7 @@ dv_has_:
     min: Konfederasi
     mk: конфедерација
     ms: konfederasi
-    ms-arab: کونفيدراسي
+    ms_arab: کونفيدراسي
     my: ကွန်ဖက်ဒရေးရှင်း
     nb: konføderasjon
     nl: confederatie
@@ -177,8 +177,8 @@ dv_has_:
     sn: Gumbarubiyana
     sq: Konfederata
     sr: конфедерација
-    sr-ec: конфедерација
-    sr-el: konfederacija
+    sr_ec: конфедерација
+    sr_el: konfederacija
     sv: konfederation
     tg: конфедеросиюн
     th: สมาพันธรัฐ
@@ -192,12 +192,12 @@ dv_has_:
     wuu: 邦联制
     yue: 邦聯
     zh: 邦联制
-    zh-cn: 邦联制
-    zh-hans: 邦联制
-    zh-hant: 邦聯制
-    zh-hk: 邦聯制
-    zh-sg: 邦联制
-    zh-tw: 邦聯制
+    zh_cn: 邦联制
+    zh_hans: 邦联制
+    zh_hant: 邦聯制
+    zh_hk: 邦聯制
+    zh_sg: 邦联制
+    zh_tw: 邦聯制
 ---
 # [[Confederation]] 
 

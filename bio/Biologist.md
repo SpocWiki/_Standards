@@ -152,7 +152,7 @@ dv_has_:
     az: bioloq
     ba: биолог
     be: біёлаг
-    be-tarask: біёляг
+    be_tarask: біёляг
     bg: биолог
     bn: জীববিজ্ঞানী
     br: Bevoniour
@@ -164,11 +164,11 @@ dv_has_:
     da: biolog
     de: Biologe
     de-at: Biologe
-    de-ch: Biologe
+    de_ch: Biologe
     el: βιολόγος
     en: biologist
-    en-ca: biologist
-    en-gb: biologist
+    en_ca: biologist
+    en_gb: biologist
     en-us: biologist
     eo: biologo
     es: biólogo
@@ -203,7 +203,7 @@ dv_has_:
     kk: Биолог
     kn: ಜೀವಶಾಸ್ತ್ರಜ್ಞ
     ko: 생물학자
-    ku-latn: biyolog
+    ku_latn: biyolog
     kw: bewonydh
     la: biologus
     lb: Biolog
@@ -214,7 +214,7 @@ dv_has_:
     ml: ജീവശാസ്ത്രജ്ഞ(ൻ)
     mr: जीवशास्त्रज्ञ
     ms: ahli biologi
-    ms-arab: اهلي بيولوݢي
+    ms_arab: اهلي بيولوݢي
     mt: biologu
     nb: biolog
     nds: Bioloog
@@ -226,7 +226,7 @@ dv_has_:
     pl: biolog
     ps: بيالوژي پوه (د ژونديو موجوداتو د علومو پوهان)
     pt: biólogo
-    pt-br: biólogo(a)
+    pt_br: biólogo(a)
     ro: biolog
     ru: биолог
     sa: जीवविज्ञानिनः
@@ -242,13 +242,13 @@ dv_has_:
     sms: bioloog
     sq: biolog
     sr: биолог
-    sr-ec: биолог
-    sr-el: biolog
+    sr_ec: биолог
+    sr_el: biolog
     sv: biolog
     sw: Mwanabiolojia
     ta: உயிரியல் அறிஞர்
     tg: зистшинос
-    tg-cyrl: биолог
+    tg_cyrl: биолог
     th: นักชีววิทยา
     tl: biyologo
     tr: biyolog
@@ -263,11 +263,11 @@ dv_has_:
     yi: ביאלאג
     yue: 生物學家
     zh: 生物学家
-    zh-cn: 生物学家
-    zh-hans: 生物学家
-    zh-hant: 生物學家
-    zh-hk: 生物學家
-    zh-tw: 生物學家
+    zh_cn: 生物学家
+    zh_hans: 生物学家
+    zh_hant: 生物學家
+    zh_hk: 生物學家
+    zh_tw: 生物學家
 ---
 # [[Biologist]] 
 

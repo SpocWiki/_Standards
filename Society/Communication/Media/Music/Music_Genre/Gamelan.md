@@ -55,7 +55,7 @@ dv_has_:
     ast: Gamelán
     ba: Гамелан
     be: Гамелан
-    be-tarask: гамэлан
+    be_tarask: гамэлан
     bg: Гамелан
     bjn: Gamalan
     ca: Gamelan
@@ -85,7 +85,7 @@ dv_has_:
     la: Gamelan
     lt: Gamelanas
     mad: Tabbhuwân
-    map-bms: Gamelan
+    map_bms: Gamelan
     mk: Гамелан
     ms: Gamelan
     nan: Gamelan
@@ -109,12 +109,12 @@ dv_has_:
     vi: Gamelan
     yue: 甘美蘭
     zh: 甘美蘭
-    zh-cn: 甘美兰
-    zh-hans: 甘美兰
-    zh-hant: 甘美蘭
-    zh-hk: 甘美蘭
-    zh-sg: 甘美兰
-    zh-tw: 甘美蘭
+    zh_cn: 甘美兰
+    zh_hans: 甘美兰
+    zh_hant: 甘美蘭
+    zh_hk: 甘美蘭
+    zh_sg: 甘美兰
+    zh_tw: 甘美蘭
 ---
 # [[Gamelan]] 
 

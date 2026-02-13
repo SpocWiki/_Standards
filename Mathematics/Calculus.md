@@ -142,7 +142,7 @@ dv_has_:
     ast: cálculu
     bcl: kalkulus
     be: матэматычны аналіз
-    be-tarask: зьлічэньне
+    be_tarask: зьлічэньне
     bg: диференциално и интегрално смятане
     blk: ကဲးကုလတ်သ်
     bn: ক্যালকুলাস
@@ -154,13 +154,13 @@ dv_has_:
     cy: calcwlws
     da: infinitesimalregning
     de: Infinitesimalrechnung
-    de-ch: Kalkül
+    de_ch: Kalkül
     diq: kalkulus
     dtp: Sidsimban
     el: λογισμός
     en: calculus
-    en-ca: calculus
-    en-gb: calculus
+    en_ca: calculus
+    en_gb: calculus
     eo: kalkulo
     es: cálculo infinitesimal
     eu: kalkulu
@@ -204,7 +204,7 @@ dv_has_:
     mn: интеграл ба дифференциал тоолол
     mr: कलन
     ms: kalkulus
-    ms-arab: کلکولوس
+    ms_arab: کلکولوس
     my: ကဲကုလပ်
     nan: bî-chek-hun
     nb: kalkulus
@@ -217,7 +217,7 @@ dv_has_:
     pl: rachunek różniczkowy i całkowy
     pnb: کیلکولس
     pt: cálculo
-    pt-br: cálculo
+    pt_br: cálculo
     qu: yupaylliy
     rki: ကဲကုလပ်
     ro: calcul infinitezimal
@@ -250,7 +250,7 @@ dv_has_:
     yi: קאלקולוס
     yue: 微積分
     zh: 微积分学
-    zh-hans: 微积分
+    zh_hans: 微积分
 ---
 # [[Calculus]] 
 

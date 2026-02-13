@@ -161,7 +161,7 @@ dv_has_:
     azb: دودللییلر
     bar: Fãngschreckn
     be: Багамолы
-    be-tarask: богамолы
+    be_tarask: богамолы
     bew: Cencorang
     bg: богомолки
     bn: ম্যান্টিস
@@ -208,17 +208,17 @@ dv_has_:
     kab: Tilɣemtain n yellu
     kge: Balang Ranggau
     kk: Дәуіт
-    kk-arab: ٴداۋىت
+    kk_arab: ٴداۋىت
     kk-cn: ٴداۋىت
-    kk-cyrl: Дәуіт
+    kk_cyrl: Дәуіт
     kk-kz: Дәуіт
-    kk-latn: Däwit
+    kk_latn: Däwit
     kk-tr: Däwit
     kn: ಒಂಟೆಹುಳು
     ko: 사마귀목
     ku: Koşkar
-    ku-arab: کۆشکار
-    ku-latn: Koşkar
+    ku_arab: کۆشکار
+    ku_latn: Koşkar
     ky: Жаачы
     la: Mantodea
     lb: Heckequisel
@@ -245,7 +245,7 @@ dv_has_:
     pl: modliszki
     pnb: پجاری ٹڈے
     pt: Louva-a-deus
-    pt-br: louva-a-deus
+    pt_br: louva-a-deus
     pwn: ljatulek
     qu: Usamikhuq
     ro: Mantodee
@@ -256,8 +256,8 @@ dv_has_:
     sl: Bogomolke
     sq: Mantodea
     sr: богомољке
-    sr-ec: Богомољке
-    sr-el: Bogomoljke
+    sr_ec: Богомољке
+    sr_el: Bogomoljke
     su: Congcorang
     sv: bönsyrsor
     sw: Kivunjajungu
@@ -278,12 +278,12 @@ dv_has_:
     yue: 螳螂
     za: Daekmax
     zh: 螳螂目
-    zh-cn: 螳螂目
-    zh-hans: 螳螂目
-    zh-hant: 螳螂
-    zh-hk: 螳螂
-    zh-sg: 螳螂
-    zh-tw: 螳螂
+    zh_cn: 螳螂目
+    zh_hans: 螳螂目
+    zh_hant: 螳螂
+    zh_hk: 螳螂
+    zh_sg: 螳螂
+    zh_tw: 螳螂
 ---
 #is_/same_as :: [[WD~Mantodea,131250]] 
 

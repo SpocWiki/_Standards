@@ -96,7 +96,7 @@ dv_has_:
     ast: historia militar
     az: hərb tarixi
     be: ваенная гісторыя
-    be-tarask: вайсковая гісторыя
+    be_tarask: вайсковая гісторыя
     bg: Военна история
     bn: সেনাবাহিনীর ইতিহাস
     br: istor milourel
@@ -128,11 +128,11 @@ dv_has_:
     ja: 軍事史
     ka: სამხედრო ისტორია
     kk: Әскери тарих
-    kk-arab: اسكەرىي تارىيح
+    kk_arab: اسكەرىي تارىيح
     kk-cn: اسكەرىي تارىيح
-    kk-cyrl: Әскери тарих
+    kk_cyrl: Әскери тарих
     kk-kz: Әскери тарих
-    kk-latn: Äskerï tarïx
+    kk_latn: Äskerï tarïx
     kk-tr: Äskerï tarïx
     ko: 군사사
     lt: karo istorija
@@ -144,7 +144,7 @@ dv_has_:
     pl: historia wojskowości
     ps: پوځي تاریخ
     pt: história militar
-    pt-br: História militar
+    pt_br: História militar
     ro: Istorie militară
     ru: военная история
     se: soahtehistorjá
@@ -158,7 +158,7 @@ dv_has_:
     tl: Kasaysayang militar
     tr: askerî tarih
     tt: хәрби тарих
-    tt-cyrl: хәрби тарих
+    tt_cyrl: хәрби тарих
     uk: військова історія
     ur: فوجی تاریخ
     uz: Harbiy tarix
@@ -166,12 +166,12 @@ dv_has_:
     vi: Lịch sử quân sự
     war: Kaagi hin militar
     zh: 軍事史
-    zh-cn: 军事史
-    zh-hans: 军事史
-    zh-hant: 軍事史
-    zh-hk: 軍事史
-    zh-sg: 军事史
-    zh-tw: 軍事史
+    zh_cn: 军事史
+    zh_hans: 军事史
+    zh_hant: 軍事史
+    zh_hk: 軍事史
+    zh_sg: 军事史
+    zh_tw: 軍事史
 ---
 # [[Military_History]] 
 

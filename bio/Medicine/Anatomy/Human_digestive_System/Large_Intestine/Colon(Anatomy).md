@@ -75,7 +75,7 @@ dv_has_:
     an: Cólon
     ar: قولون
     ast: Colon
-    be-tarask: абводніца
+    be_tarask: абводніца
     bg: Ободно черво
     bn: মলাশয়
     bs: Colon
@@ -120,15 +120,15 @@ dv_has_:
     nn: colon
     pl: Okrężnica
     pt: cólon
-    pt-br: colon
+    pt_br: colon
     ro: colon
     ru: ободочная кишка человека
     sgs: Gaubtėnė žarna
     shn: ထူင်ၶီႈႁႃႇ
     sl: kolon
     sr: дебело црево
-    sr-ec: дебело црево
-    sr-el: debelo crevo
+    sr_ec: дебело црево
+    sr_el: debelo crevo
     sv: colon
     tl: Malaking isaw
     tr: Kolon

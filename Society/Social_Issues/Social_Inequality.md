@@ -80,7 +80,7 @@ dv_has_:
     ast: Desigualdá social
     az: Sosial bərabərsizlik
     be: сацыяльная няроўнасць
-    be-tarask: сацыяльная няроўнасьць
+    be_tarask: сацыяльная няроўнасьць
     bho: सामाजिक बिसमता
     ca: desigualtat social
     ckb: نایەکسانیی کۆمەڵایەتی
@@ -88,11 +88,11 @@ dv_has_:
     cy: anghydraddoldeb cymdeithasol
     da: social ulighed
     de: soziale Ungleichheit
-    de-ch: Soziale Ungleichheit
+    de_ch: Soziale Ungleichheit
     el: κοινωνική ανισότητα
     en: social inequality
-    en-ca: Social inequality
-    en-gb: social inequality
+    en_ca: Social inequality
+    en_gb: social inequality
     eo: socia malegaleco
     es: desigualdad social
     eu: Desberdintasun sozial
@@ -122,7 +122,7 @@ dv_has_:
     pl: nierówność społeczna
     ps: ټولنيزه نابرابري
     pt: desigualdade social
-    pt-br: desigualdade social
+    pt_br: desigualdade social
     ro: inegalitate socială
     ru: социальное неравенство
     sl: družbena neenakost

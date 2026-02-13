@@ -255,7 +255,7 @@ dv_has_:
     bas: hèŋhel li ndèè
     bcl: Pagbago kan klima
     be: глабальнае пацяпленне
-    be-tarask: глябальнае пацяпленьне
+    be_tarask: глябальнае пацяпленьне
     bg: Глобално затопляне
     bho: ग्लोबल वॉर्मिंग
     bn: ভূমণ্ডলীয় উষ্ণতা বৃদ্ধি
@@ -275,8 +275,8 @@ dv_has_:
     diq: Germbiyayışo Global
     el: Παγκόσμια θέρμανση
     en: global warming
-    en-ca: global warming
-    en-gb: global warming
+    en_ca: global warming
+    en_gb: global warming
     en-us: global warming
     eo: tutmonda varmiĝo
     es: calentamiento global
@@ -344,7 +344,7 @@ dv_has_:
     mn: Дэлхийн дулаарал
     mr: जागतिक तापमानवाढ
     ms: pemanasan global
-    ms-arab: ڤمانسن ݢلوبل
+    ms_arab: ڤمانسن ݢلوبل
     my: ကမ္ဘာကြီး ပူနွေးလာမှု
     nan: Tē-kiû sio-lo̍h-hòa
     nb: global oppvarming
@@ -364,7 +364,7 @@ dv_has_:
     pnb: گلوبل وارمنگ
     ps: اقلیمي بدلون
     pt: aquecimento global
-    pt-br: aquecimento global
+    pt_br: aquecimento global
     rm: Stgaudament global
     ro: încălzirea globală
     ru: глобальное потепление
@@ -411,8 +411,8 @@ dv_has_:
     yi: גלאבאלע אנווארימונג
     yue: 全球變暖
     zh: 全球变暖
-    zh-hant: 全球變暖
-    zh-tw: 全球暖化
+    zh_hant: 全球變暖
+    zh_tw: 全球暖化
     zu: Ukufudumala kwembulunga
 ---
 # [[Global_Warming]] 

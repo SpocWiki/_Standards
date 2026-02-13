@@ -64,14 +64,14 @@ dv_has_:
     ar: استصلاح الأراضي البحرية
     az: meliorasiya
     be: утварэнне тэрыторыі
-    be-tarask: Мэліярацыя
+    be_tarask: Мэліярацыя
     ca: terres guanyades al mar
     da: landvinding
     de: Landgewinnung
     el: Αναδασμός
     en: land reclamation
-    en-ca: land reclamation
-    en-gb: land reclamation
+    en_ca: land reclamation
+    en_gb: land reclamation
     eo: terfarado
     es: tierras ganadas al mar
     et: Maaparandus
@@ -87,9 +87,9 @@ dv_has_:
     it: terra sottratta al mare
     ja: 埋立
     kk: мелиорация
-    kk-arab: مەلىيوراتسىييا
-    kk-cyrl: Мелиорация
-    kk-latn: Melïoracïya
+    kk_arab: مەلىيوراتسىييا
+    kk_cyrl: Мелиорация
+    kk_latn: Melïoracïya
     ko: 간척지
     la: Aggeratio maritima
     lt: Melioracija
@@ -100,14 +100,14 @@ dv_has_:
     nn: landgjenvinning
     pl: refulacja
     pt: aterramento marítimo
-    pt-br: Aterramento marítimo
+    pt_br: Aterramento marítimo
     ro: Îmbunătățiri funciare
     ru: намывные территории
     sh: Melioracija
     sl: melioracija
     sr: мелиорација
-    sr-ec: Мелиорација
-    sr-el: Melioracija
+    sr_ec: Мелиорација
+    sr_el: Melioracija
     sv: landåtervinning
     tr: toprak ıslahı
     tt: мелиорация
@@ -116,9 +116,9 @@ dv_has_:
     wuu: 填海
     yue: 填海
     zh: 填海
-    zh-hans: 填海
-    zh-hant: 填海
-    zh-hk: 填海
+    zh_hans: 填海
+    zh_hant: 填海
+    zh_hk: 填海
 ---
 # [[Land_Reclamation]] 
 

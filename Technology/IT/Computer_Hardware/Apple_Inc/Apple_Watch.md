@@ -12,11 +12,11 @@ dv_has_:
     cs: Apple Watch
     da: Apple Watch
     de: Apple Watch
-    de-ch: Apple Watch
+    de_ch: Apple Watch
     el: Apple Watch
     en: Apple Watch
-    en-ca: Apple Watch
-    en-gb: Apple Watch
+    en_ca: Apple Watch
+    en_gb: Apple Watch
     es: Apple Watch
     et: Apple Watch
     eu: Apple Watch
@@ -47,7 +47,7 @@ dv_has_:
     pl: Apple Watch
     pnb: ایپل گھڑی
     pt: Apple Watch
-    pt-br: Apple Watch
+    pt_br: Apple Watch
     ru: Apple Watch
     sco: Apple Watch
     sh: Apple Watch
@@ -66,7 +66,7 @@ dv_has_:
     vec: Apple Watch
     vi: Apple Watch
     zh: Apple Watch
-    zh-hans: Apple Watch
+    zh_hans: Apple Watch
 aliases:
 - Apple Watch
 - Епл сат

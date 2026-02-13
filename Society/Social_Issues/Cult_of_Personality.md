@@ -84,12 +84,12 @@ dv_has_:
     ast: Cultu a la personalidá
     az: Şəxsiyyətə pərəstiş
     be: Культ асобы
-    be-tarask: культ асобы
+    be_tarask: культ асобы
     bg: Култ към личността
     bn: ব্যক্তিত্বের অর্চনা
     br: lid ar bersonelezh
     ca: culte a la personalitat
-    cbk-zam: culto na personalidad
+    cbk_zam: culto na personalidad
     ce: Стаг вазвар
     ceb: kulto sa personalidad
     ckb: کەس پەرستی
@@ -116,11 +116,11 @@ dv_has_:
     it: culto della personalità
     ja: 個人崇拝
     kk: жеке басқа табыну
-    kk-arab: جەكە باسقا تابىنۋ
+    kk_arab: جەكە باسقا تابىنۋ
     kk-cn: جەكە باسقا تابىنۋ
-    kk-cyrl: Жеке Басқа Табыну
+    kk_cyrl: Жеке Басқа Табыну
     kk-kz: Жеке Басқа Табыну
-    kk-latn: Jeke Basqa Tabınw
+    kk_latn: Jeke Basqa Tabınw
     kk-tr: Jeke Basqa Tabınw
     ko: 개인숭배
     krj: kulto sa personalidad
@@ -147,8 +147,8 @@ dv_has_:
     sl: kult osebnosti
     sq: Kult i individit
     sr: Култ личности
-    sr-ec: Култ личности
-    sr-el: Kult ličnosti
+    sr_ec: Култ личности
+    sr_el: Kult ličnosti
     sv: Personkult
     ta: தனிநபர் வழிபாடு
     tg: Кеши шахсият
@@ -161,12 +161,12 @@ dv_has_:
     wuu: 个人崇拜
     yue: 個人崇拜
     zh: 个人崇拜
-    zh-cn: 个人崇拜
-    zh-hans: 个人崇拜
-    zh-hant: 個人崇拜
-    zh-hk: 個人崇拜
-    zh-sg: 个人崇拜
-    zh-tw: 個人崇拜
+    zh_cn: 个人崇拜
+    zh_hans: 个人崇拜
+    zh_hant: 個人崇拜
+    zh_hk: 個人崇拜
+    zh_sg: 个人崇拜
+    zh_tw: 個人崇拜
 ---
 # [[Cult_of_Personality]] 
 

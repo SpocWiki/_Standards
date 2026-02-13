@@ -135,7 +135,7 @@ dv_has_:
     az: akkordeon
     bar: Gwetschn
     be: акардэон
-    be-tarask: акардэон
+    be_tarask: акардэон
     bew: ngètngot
     bg: акордеон
     bn: অ্যাকর্ডিয়ন
@@ -202,7 +202,7 @@ dv_has_:
     pfl: Akkordeon
     pl: akordeon
     pt: acordeão
-    pt-br: acordeão
+    pt_br: acordeão
     qu: yatana takiy phukulli
     ro: acordeon
     ru: аккордеоны
@@ -220,7 +220,7 @@ dv_has_:
     sms: garmaan
     sq: fizarmonika
     sr: хармоника
-    sr-ec: хармоника
+    sr_ec: хармоника
     sv: dragspel
     szl: cyjo
     ta: அக்கார்டியன்
@@ -237,8 +237,8 @@ dv_has_:
     yi: האַרמאָניע
     yue: 手風琴
     zh: 手风琴
-    zh-hans: 手风琴
-    zh-hant: 手風琴
+    zh_hans: 手风琴
+    zh_hant: 手風琴
 ---
 # [[Accordion]] 🪗 
 

@@ -91,10 +91,10 @@ dv_has_:
     da: Dieter Hallervorden
     de: Dieter Hallervorden
     de-at: Dieter Hallervorden
-    de-ch: Dieter Hallervorden
+    de_ch: Dieter Hallervorden
     en: Dieter Hallervorden
-    en-ca: Dieter Hallervorden
-    en-gb: Dieter Hallervorden
+    en_ca: Dieter Hallervorden
+    en_gb: Dieter Hallervorden
     eo: Dieter Hallervorden
     es: Dieter Hallervorden
     et: Dieter Hallervorden
@@ -120,7 +120,7 @@ dv_has_:
     oc: Dieter Hallervorden
     pl: Dieter Hallervorden
     pt: Dieter Hallervorden
-    pt-br: Dieter Hallervorden
+    pt_br: Dieter Hallervorden
     ro: Dieter Hallervorden
     ru: Дитер Халлерворден
     sk: Dieter Hallervorden
@@ -131,7 +131,7 @@ dv_has_:
     tr: Dieter Hallervorden
     vo: Dieter Hallervorden
     zh: 迪打·夏拿禾丹
-    zh-hant: 迪打·夏拿禾丹
+    zh_hant: 迪打·夏拿禾丹
     zu: Dieter Hallervorden
 ---
 # [[Hallervorden,Dieter]] 

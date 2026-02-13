@@ -160,7 +160,7 @@ dv_has_:
     ba: өҫтәл теннисы
     bcl: pingpong
     be: настольны тэніс
-    be-tarask: настольны тэніс
+    be_tarask: настольны тэніс
     bew: pingpong
     bg: тенис на маса
     bn: টেবিল টেনিস
@@ -176,7 +176,7 @@ dv_has_:
     cy: tenis bwrdd
     da: bordtennis
     de: Tischtennis
-    de-ch: Tischtennis
+    de_ch: Tischtennis
     el: επιτραπέζια αντισφαίριση
     en: table tennis
     eo: tabloteniso
@@ -236,7 +236,7 @@ dv_has_:
     pcm: table tennis
     pl: tenis stołowy
     pt: tênis de mesa
-    pt-br: tênis de mesa
+    pt_br: tênis de mesa
     ro: tenis de masă
     ru: настольный теннис
     sa: पटलानम्
@@ -262,7 +262,7 @@ dv_has_:
     tly: mizisəpe tennis
     tr: masa tenisi
     tt: өстәл теннисы
-    tt-cyrl: өстәл теннисы
+    tt_cyrl: өстәл теннисы
     ug: Tiktak top
     uk: настільний теніс
     ur: ٹیبل ٹینس
@@ -273,13 +273,13 @@ dv_has_:
     wuu: 乒乓球
     yue: 乒乓波
     zh: 乒乓球
-    zh-cn: 乒乓球
-    zh-hans: 乒乓球
-    zh-hant: 乒乓球
-    zh-hk: 乒乓球
-    zh-mo: 乒乓球
-    zh-sg: 乒乓球
-    zh-tw: 桌球
+    zh_cn: 乒乓球
+    zh_hans: 乒乓球
+    zh_hant: 乒乓球
+    zh_hk: 乒乓球
+    zh_mo: 乒乓球
+    zh_sg: 乒乓球
+    zh_tw: 桌球
 ---
 # [[Table_Tennis]] 🏓 
 

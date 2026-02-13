@@ -62,7 +62,7 @@ dv_has_:
     as: কুম্ভ মেলা
     ast: Kumbhamela
     awa: कुंभ मेला
-    be-tarask: Кумбха Мэля
+    be_tarask: Кумбха Мэля
     bg: Кумбх Мела
     bho: कुंभ मेला
     bn: কুম্ভমেলা
@@ -71,11 +71,11 @@ dv_has_:
     cy: Kumbh Mela
     da: Kumbh Mela
     de: Kumbh Mela
-    de-ch: Kumbh Mela
+    de_ch: Kumbh Mela
     el: Κουμπ Μελά
     en: Kumbh Mela
-    en-ca: Kumbh Mela
-    en-gb: Kumbh Mela
+    en_ca: Kumbh Mela
+    en_gb: Kumbh Mela
     en-us: Kumbh Mela
     eo: Kumbhamela
     es: Kumbhamela
@@ -110,7 +110,7 @@ dv_has_:
     pa: ਕੁੰਭ ਮੇਲਾ
     pl: Kumbhamela
     pt: Khumba Mela
-    pt-br: Khumba Mela
+    pt_br: Khumba Mela
     ru: Кумбха-мела
     sa: कुम्भमेला
     sd: ڪُنڀ ميلو
@@ -128,7 +128,7 @@ dv_has_:
     vi: Kumbh Mela
     yue: 大壺節
     zh: 大壺節
-    zh-cn: 大壶节
+    zh_cn: 大壶节
 ---
 # [[Kumbh_Mela]] 
 

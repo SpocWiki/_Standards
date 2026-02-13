@@ -107,7 +107,7 @@ dv_has_:
     az: Atlantida
     azb: آتلانتیس
     be: Атлантыда
-    be-tarask: Атлянтыда
+    be_tarask: Атлянтыда
     bg: Атлантида
     bn: আটলান্টিস
     bs: Atlantida
@@ -161,7 +161,7 @@ dv_has_:
     mul: Atlantis
     my: အတ္တလန်တစ်မြို့တော်
     nb: Atlantis
-    nds-nl: Atlantis
+    nds_nl: Atlantis
     nl: Atlantis
     nn: Atlantis
     oc: Atlantida
@@ -197,8 +197,8 @@ dv_has_:
     wuu: 亚特兰蒂斯
     yue: 亞特蘭提斯
     zh: 亚特兰蒂斯
-    zh-hant: 亞特蘭帝斯
-    zh-tw: 亞特蘭提斯
+    zh_hant: 亞特蘭帝斯
+    zh_tw: 亞特蘭提斯
 ---
 # [[Atlantis]] 
 

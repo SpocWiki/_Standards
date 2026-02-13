@@ -37,7 +37,7 @@ dv_has_:
     arz: جون رولز
     ast: John Rawls
     az: Con Rolz
-    be-tarask: Джон Роўлз
+    be_tarask: Джон Роўлз
     bg: Джон Ролс
     bn: জন রল্স
     bs: John Rawls
@@ -89,7 +89,7 @@ dv_has_:
     pl: John Rawls
     ps: جان رالز
     pt: John Rawls
-    pt-br: John Rawls
+    pt_br: John Rawls
     ro: John Rawls
     ru: Джон Ролз
     sco: John Rawls
@@ -98,8 +98,8 @@ dv_has_:
     sl: John Rawls
     sq: John Rawls
     sr: Џон Ролс
-    sr-ec: Џон Ролс
-    sr-el: Džon Rols
+    sr_ec: Џон Ролс
+    sr_el: Džon Rols
     sv: John Rawls
     ta: ஜான் ரால்ஸ்
     tr: John Rawls
@@ -110,12 +110,12 @@ dv_has_:
     yo: John Rawls
     yue: 莊羅爾斯
     zh: 约翰·罗尔斯
-    zh-cn: 约翰·罗尔斯
+    zh_cn: 约翰·罗尔斯
     zh-hans: 约翰·罗尔斯
-    zh-hant: 約翰·羅爾斯
-    zh-hk: 約翰·羅爾斯
-    zh-sg: 约翰·罗尔斯
-    zh-tw: 約翰·羅爾斯
+    zh_hant: 約翰·羅爾斯
+    zh_hk: 約翰·羅爾斯
+    zh_sg: 约翰·罗尔斯
+    zh_tw: 約翰·羅爾斯
 ---
 # [[Rawls,John 1]] 
 

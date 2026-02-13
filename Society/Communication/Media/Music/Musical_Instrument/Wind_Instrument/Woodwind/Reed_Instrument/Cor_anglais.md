@@ -77,7 +77,7 @@ dv_has_:
     ar: مزمار إنكليزي
     ast: Corno inglés
     be: англійскі ражок
-    be-tarask: ангельскі ражок
+    be_tarask: ангельскі ражок
     bn: ইংলিশ হর্ন
     bs: Engleski rog
     ca: corn anglès
@@ -87,7 +87,7 @@ dv_has_:
     de: Englischhorn
     el: αγγλικό κόρνο
     en: cor anglais
-    en-gb: cor anglais
+    en_gb: cor anglais
     eo: Angla korno
     es: corno inglés
     et: Inglissarv
@@ -121,8 +121,8 @@ dv_has_:
     sk: Anglický roh
     sl: Angleški rog
     sr: енглески рог
-    sr-ec: енглески рог
-    sr-el: Engleski rog
+    sr_ec: енглески рог
+    sr_el: Engleski rog
     sv: engelskt horn
     th: กอร็องแกล
     tr: İngiliz kornosu
@@ -130,12 +130,12 @@ dv_has_:
     uz: Ingliz burgʻusi
     yue: 英國號
     zh: 英國管
-    zh-cn: 英国管
-    zh-hans: 英国管
-    zh-hant: 英國管
-    zh-hk: 英國管
-    zh-sg: 英国管
-    zh-tw: 英國管
+    zh_cn: 英国管
+    zh_hans: 英国管
+    zh_hant: 英國管
+    zh_hk: 英國管
+    zh_sg: 英国管
+    zh_tw: 英國管
 ---
 # [[Cor_anglais]] 
 

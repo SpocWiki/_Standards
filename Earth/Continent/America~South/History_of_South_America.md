@@ -84,13 +84,13 @@ dv_has_:
     ba: Көньяҡ Америка тарихы
     bar: Präkolumbianische Kuituanfoig
     be: гісторыя Паўднёвай Амерыкі
-    be-tarask: гісторыя Паўднёвай Амэрыкі
+    be_tarask: гісторыя Паўднёвай Амэрыкі
     bn: দক্ষিণ আমেরিকার ইতিহাস
     ca: Història d'Amèrica del Sud
     cs: dějiny Jižní Ameriky
     de: Geschichte Südamerikas
     en: history of South America
-    en-gb: history of South America
+    en_gb: history of South America
     eo: historio de Sudameriko
     es: historia de Sudamérica
     eu: Hego Amerikako historia
@@ -126,7 +126,7 @@ dv_has_:
     ta: தென் அமெரிக்கா வரலாறு
     tl: Kasaysayan ng Timog Amerika
     tt: Көньяк Америка тарихы
-    tt-cyrl: Көньяк Америка тарихы
+    tt_cyrl: Көньяк Америка тарихы
     uk: історія Південної Америки
     vi: lịch sử Nam Mỹ
     wuu: 南美洲历史

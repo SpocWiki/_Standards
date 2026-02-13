@@ -295,7 +295,7 @@ dv_has_:
     bcl: Urig
     bdr: Ogok
     be: свойская свіння
-    be-tarask: сьвіньня
+    be_tarask: сьвіньня
     bew: Babi
     bg: домашна свиня
     bn: শূকর
@@ -323,8 +323,8 @@ dv_has_:
     el: Οικόσιτος χοίρος
     eml: Nimêl
     en: pig
-    en-ca: Domestic pig
-    en-gb: pig
+    en_ca: Domestic pig
+    en_gb: pig
     en-us: pig
     eo: porko
     es: cerdo
@@ -417,7 +417,7 @@ dv_has_:
     nap: Puorco
     nb: gris
     nds: Swien
-    nds-nl: Värken
+    nds_nl: Värken
     ne: सुँगुर
     new: फा
     nia: Bawi
@@ -442,7 +442,7 @@ dv_has_:
     pnt: μουχτερόν
     ps: اهلي خوگ
     pt: porco doméstico
-    pt-br: porco doméstico
+    pt_br: porco doméstico
     qu: Khuchi
     ro: porc domestic
     roa-tara: puérche
@@ -503,9 +503,9 @@ dv_has_:
     yue: 豬
     za: Mou
     zh: 家豬
-    zh-hans: 家猪
-    zh-hant: 家豬
-    zh-tw: 家豬
+    zh_hans: 家猪
+    zh_hant: 家豬
+    zh_tw: 家豬
     zu: ingulube
 ---
 # [[Domestic_Pig]] 🐷 

@@ -182,7 +182,7 @@ dv_has_:
     azb: اوْنورغالیلار
     ba: Умыртҡалылар
     be: пазваночныя
-    be-tarask: хрыбетныя
+    be_tarask: хрыбетныя
     bg: гръбначни
     bn: মেরুদণ্ডী প্রাণী
     bo: སྒལ་ཚིགས་སྲོག་ཆགས་
@@ -197,11 +197,11 @@ dv_has_:
     cy: Fertebrat
     da: Hvirveldyr
     de: Wirbeltiere
-    de-ch: Wirbeltiere
+    de_ch: Wirbeltiere
     el: σπονδυλωτός
     en: Vertebrata
-    en-ca: Vertebrate
-    en-gb: vertebrate
+    en_ca: Vertebrate
+    en_gb: vertebrate
     en-us: Vertebrata
     eo: vertebruloj
     es: vertebrados
@@ -269,7 +269,7 @@ dv_has_:
     nan: Chek-chui tōng-bu̍t
     nb: virveldyr
     nds: Vertebrata
-    nds-nl: warvelden
+    nds_nl: warvelden
     new: धुसः जीव
     nl: gewervelden
     nn: virveldyr
@@ -286,7 +286,7 @@ dv_has_:
     pnb: کنگریڑے
     ps: شمزۍ لرونکي ژوي
     pt: vertebrados
-    pt-br: Vertebrados
+    pt_br: Vertebrados
     qu: Tulluyuq
     ro: vertebrata
     ru: позвоночные
@@ -315,8 +315,8 @@ dv_has_:
     tl: Bertebrado
     tr: Vertebrata
     tt: умырткалылар
-    tt-cyrl: умырткалылар
-    tt-latn: umırtqalılar
+    tt_cyrl: умырткалылар
+    tt_latn: umırtqalılar
     uk: хребетні
     ur: فقاریہ
     uz: Umurtqalilar
@@ -335,10 +335,10 @@ dv_has_:
     zea: Gewurvelde beêsten
     zgh: ⵜⵉⵎⵙⵖⵍⴰⵍⵉⵏ
     zh: 脊椎动物亚门
-    zh-cn: 脊椎动物亚门
-    zh-hans: 脊椎动物亚门
-    zh-hk: 脊椎動物
-    zh-tw: 脊椎動物亞門
+    zh_cn: 脊椎动物亚门
+    zh_hans: 脊椎动物亚门
+    zh_hk: 脊椎動物
+    zh_tw: 脊椎動物亞門
 ---
 # [[Vertebrata]] 
 

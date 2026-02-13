@@ -80,7 +80,7 @@ dv_has_:
     oc: Thomisidae
     pl: Ukośnikowate
     pt: Thomisidae
-    pt-br: Thomisidae
+    pt_br: Thomisidae
     ro: Thomisidae
     ru: пауки-бокоходы
     sl: Rakovičarji
@@ -93,9 +93,9 @@ dv_has_:
     vo: Thomisidae
     war: Thomisidae
     zh: 蟹蛛科
-    zh-cn: 蟹蛛科
-    zh-hans: 蟹蛛科
-    zh-tw: 蟹蛛科
+    zh_cn: 蟹蛛科
+    zh_hans: 蟹蛛科
+    zh_tw: 蟹蛛科
 ---
 # [[Crab_Spider]] 
 

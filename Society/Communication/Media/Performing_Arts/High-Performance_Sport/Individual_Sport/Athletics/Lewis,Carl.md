@@ -97,7 +97,7 @@ dv_has_:
     ast: Carl Lewis
     az: Karl Lüis
     be: Карл Льюіс
-    be-tarask: Карл Льюіс
+    be_tarask: Карл Льюіс
     bg: Карл Люис
     bn: কার্ল লুইস
     bs: Carl Lewis
@@ -108,8 +108,8 @@ dv_has_:
     de: Carl Lewis
     el: Καρλ Λιούις
     en: Carl Lewis
-    en-ca: Carl Lewis
-    en-gb: Carl Lewis
+    en_ca: Carl Lewis
+    en_gb: Carl Lewis
     en-us: Carl Lewis
     eo: Carl Lewis
     es: Carl Lewis
@@ -133,11 +133,11 @@ dv_has_:
     it: Carl Lewis
     ja: カール・ルイス
     kk: Карл Льюис
-    kk-arab: كارل ليۋىيس
+    kk_arab: كارل ليۋىيس
     kk-cn: كارل ليۋىيس
-    kk-cyrl: Карл Льюис
+    kk_cyrl: Карл Льюис
     kk-kz: Карл Льюис
-    kk-latn: Karl Lʹyuïs
+    kk_latn: Karl Lʹyuïs
     kk-tr: Karl Lʹyuïs
     ko: 칼 루이스
     la: Fridericus Carlton Lewis
@@ -154,7 +154,7 @@ dv_has_:
     pap: Carl Lewis
     pl: Carl Lewis
     pt: Carl Lewis
-    pt-br: Carl Lewis
+    pt_br: Carl Lewis
     qu: Carl Lewis
     ro: Carl Lewis
     ru: Карл Льюис
@@ -164,8 +164,8 @@ dv_has_:
     sl: Carl Lewis
     sq: Carl Lewis
     sr: Карл Луис
-    sr-ec: Карл Луис
-    sr-el: Karl Luis
+    sr_ec: Карл Луис
+    sr_el: Karl Luis
     sv: Carl Lewis
     ta: கார்ல் லூயிஸ்
     te: కార్ల్ లూయిస్
@@ -178,12 +178,12 @@ dv_has_:
     yo: Carl Lewis
     yue: 卡爾·劉易斯
     zh: 卡尔·路易斯
-    zh-cn: 卡尔·刘易斯
-    zh-hans: 卡尔·路易斯
-    zh-hant: 卡爾·路易斯
-    zh-hk: 卡爾·李維士
-    zh-sg: 卡尔·刘易斯
-    zh-tw: 卡爾·路易斯
+    zh_cn: 卡尔·刘易斯
+    zh_hans: 卡尔·路易斯
+    zh_hant: 卡爾·路易斯
+    zh_hk: 卡爾·李維士
+    zh_sg: 卡尔·刘易斯
+    zh_tw: 卡爾·路易斯
 ---
 # [[Lewis,Carl]] 
 

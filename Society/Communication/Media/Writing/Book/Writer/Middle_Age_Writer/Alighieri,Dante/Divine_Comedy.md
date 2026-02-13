@@ -347,7 +347,7 @@ dv_has_:
     ast: La Divina Comedia
     az: İlahi komediya
     be: Боская камедыя
-    be-tarask: Боская камэдыя
+    be_tarask: Боская камэдыя
     bg: Божествена комедия
     bjn: Divina Commedia
     bn: লা দিভিনা কোম্মেদিয়া
@@ -447,8 +447,8 @@ dv_has_:
     wuu: 神曲
     yue: 神曲
     zh: 神曲
-    zh-hant: 神曲
-    zh-hk: 神曲
+    zh_hant: 神曲
+    zh_hk: 神曲
 ---
 # [[Divine_Comedy]] 
 

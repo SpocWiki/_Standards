@@ -171,7 +171,7 @@ dv_has_:
     bar: manndal
     bcl: Lalaki (tawuha)
     be: мужчынскі пол
-    be-tarask: самец
+    be_tarask: самец
     bg: мъжки организъм
     bho: मरद
     bn: পুরুষ
@@ -186,11 +186,11 @@ dv_has_:
     cy: gwryw
     da: han
     de: männliches Geschlecht
-    de-ch: männliches Geschlecht
+    de_ch: männliches Geschlecht
     el: αρσενικό
     en: male organism
-    en-ca: male
-    en-gb: male organism
+    en_ca: male
+    en_gb: male organism
     eo: virseksa organismo
     es: macho
     et: isane
@@ -227,7 +227,7 @@ dv_has_:
     ko: 수컷
     ks: مَرٕد
     ku: heybera nêr
-    ku-latn: heybera nêr
+    ku_latn: heybera nêr
     la: mas
     lb: männlechen Organismus
     lfn: mas
@@ -254,7 +254,7 @@ dv_has_:
     oc: mascle
     pl: samiec
     pt: macho
-    pt-br: macho
+    pt_br: macho
     qu: urqu uywa
     ro: mascul
     ru: самец
@@ -275,8 +275,8 @@ dv_has_:
     so: lab
     sq: mashkulli
     sr: мужјак
-    sr-ec: мужјак
-    sr-el: mužjak
+    sr_ec: мужјак
+    sr_el: mužjak
     su: jalu
     sv: hane
     sw: dume
@@ -288,7 +288,7 @@ dv_has_:
     tok: mije
     tr: erkek organizma
     tt: ата зат
-    tt-cyrl: ата зат
+    tt_cyrl: ата зат
     uk: самець
     ur: نر
     uz: erkak organizm
@@ -302,14 +302,14 @@ dv_has_:
     yue: 公
     za: duzboux
     zh: 雄性
-    zh-cn: 雄性
-    zh-hans: 雄性
-    zh-hant: 雄性
-    zh-hk: 雄性
-    zh-mo: 雄性
+    zh_cn: 雄性
+    zh_hans: 雄性
+    zh_hant: 雄性
+    zh_hk: 雄性
+    zh_mo: 雄性
     zh-my: 雄性
-    zh-sg: 雄性
-    zh-tw: 雄性
+    zh_sg: 雄性
+    zh_tw: 雄性
 ---
 # [[Male_Organism]] 
 

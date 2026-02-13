@@ -114,7 +114,7 @@ dv_has_:
     arz: بنت القنصل
     ast: Euphorbia pulcherrima
     be: найпрыгажэйшы малачай
-    be-tarask: найпрыгажэйшы малачай
+    be_tarask: найпрыгажэйшы малачай
     bg: коледна звезда
     bho: पॉइन्सेटिया
     bn: লালপাতা
@@ -173,7 +173,7 @@ dv_has_:
     pl: Wilczomlecz nadobny
     pnb: پوئنسٹیا
     pt: Poinsétia
-    pt-br: Euphorbia pulcherrima
+    pt_br: Euphorbia pulcherrima
     ro: Euphorbia pulcherrima
     ru: молочай красивейший
     sco: poinsettia
@@ -182,7 +182,7 @@ dv_has_:
     sl: Božična zvezda
     sq: Euphorbia pulcherrima
     sr: Божићна звезда
-    sr-ec: Божићна звезда
+    sr_ec: Божићна звезда
     sv: Julstjärna
     ta: பொய்ன் செட்டியா
     th: คริสต์มาส
@@ -196,12 +196,12 @@ dv_has_:
     wuu: 一品红
     yue: 聖誕花
     zh: 一品紅
-    zh-cn: 一品红
-    zh-hans: 一品红
-    zh-hant: 一品紅
-    zh-hk: 一品紅
-    zh-sg: 一品红
-    zh-tw: 聖誕紅
+    zh_cn: 一品红
+    zh_hans: 一品红
+    zh_hant: 一品紅
+    zh_hk: 一品紅
+    zh_sg: 一品红
+    zh_tw: 聖誕紅
 ---
 # [[Poinsettia]] 
 

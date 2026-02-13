@@ -205,8 +205,8 @@ MeSH_tree_code:
 dv_has_:
   name_:
     ace: babah
-    aeb-arab: فم
-    aeb-latn: fomm
+    aeb_arab: فم
+    aeb_latn: fomm
     af: mond
     am: አፍ
     an: boca
@@ -224,7 +224,7 @@ dv_has_:
     bcl: nguso
     bdr: bua'
     be: рот
-    be-tarask: рот
+    be_tarask: рот
     bew: bacot
     bg: устна кухина
     bjn: muntung
@@ -313,7 +313,7 @@ dv_has_:
     mos: nore
     mr: तोंड
     ms: mulut
-    ms-arab: مولوت
+    ms_arab: مولوت
     myv: курго
     mzn: دهون
     nah: camatl
@@ -356,7 +356,7 @@ dv_has_:
     so: af
     sq: goja
     sr: усна дупља
-    sr-ec: усна дупља
+    sr_ec: усна дупља
     su: baham
     sv: mun
     sw: kinywa
@@ -372,7 +372,7 @@ dv_has_:
     tok: uta
     tr: ağız
     tt: авыз
-    tt-cyrl: авыз
+    tt_cyrl: авыз
     tw: ano
     ug: ئېغىز بوشلۇقى
     uk: рот

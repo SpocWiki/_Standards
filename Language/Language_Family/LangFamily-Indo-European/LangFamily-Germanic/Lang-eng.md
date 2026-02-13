@@ -631,7 +631,7 @@ dv_has_:
     ace: Bahsa Inggréh
     acm: الانگليزية
     ady: Инджылызыбзэ
-    aeb-arab: الإنڨليزية
+    aeb_arab: الإنڨليزية
     af: Engels
     aig: Inglish
     am: እንግሊዝኛ
@@ -657,7 +657,7 @@ dv_has_:
     bbc: hata Inggris
     bcl: Ingles
     be: англійская мова
-    be-tarask: ангельская мова
+    be_tarask: ангельская мова
     bew: Inggris
     bg: английски език
     bho: अंग्रेजी
@@ -675,7 +675,7 @@ dv_has_:
     bug: basa Anggarisiq
     bxr: Англи хэлэн
     ca: anglès
-    cbk-zam: Lengua Inglés
+    cbk_zam: Lengua Inglés
     cdo: Ĭng-ngṳ̄
     ce: ингалсан мотт
     ceb: Iningles
@@ -685,7 +685,7 @@ dv_has_:
     co: inglese
     cr: ᐊᑲᔭᓯᒧᐃᐧᐣ
     crh: İngliz tili
-    crh-latn: İngliz tili
+    crh_latn: İngliz tili
     crh-ro: ingilizğe
     cs: angličtina
     csb: Anielsczi jãzëk
@@ -696,7 +696,7 @@ dv_has_:
     dag: Silmiinsili
     de: Englisch
     de-at: Englisch
-    de-ch: Englisch
+    de_ch: Englisch
     dga: Bɔrefɔ
     din: Nyangliz
     diq: İngılızki
@@ -709,7 +709,7 @@ dv_has_:
     el: Αγγλικά
     eml: Inglés
     en: English
-    en-gb: English
+    en_gb: English
     en-us: English
     eo: angla lingvo
     es: inglés
@@ -792,7 +792,7 @@ dv_has_:
     ks: اَنٛگریٖزی زَبان
     ksh: Änglische Sproch
     ku: inglîzî
-    ku-latn: zimanê inglîzî
+    ku_latn: zimanê inglîzî
     kv: Англия кыв
     kw: Sowsnek
     ky: англис тили
@@ -816,7 +816,7 @@ dv_has_:
     lzh: 英語
     mad: Bhâsa Inggris
     mai: अङ्ग्रेजी भाषा
-    map-bms: Basa Inggris
+    map_bms: Basa Inggris
     mdf: англань кяль
     mg: Fiteny anglisy
     mhr: англичан йылме
@@ -832,7 +832,7 @@ dv_has_:
     mr: इंग्लिश भाषा
     mrj: Англ йӹлмӹ
     ms: bahasa Inggeris
-    ms-arab: بهاس ايڠݢريس
+    ms_arab: بهاس ايڠݢريس
     mt: Ingliż
     mwl: Léngua anglesa
     my: အင်္ဂလိပ်
@@ -844,7 +844,7 @@ dv_has_:
     nap: Lengua ngrese
     nb: engelsk
     nds: Engelsch
-    nds-nl: Engels
+    nds_nl: Engels
     ne: अङ्ग्रेजी भाषा
     new: अंग्रेजी भाषा
     ng: English
@@ -881,7 +881,7 @@ dv_has_:
     prg: ēngliskan
     ps: انګليسي ژبه
     pt: inglês
-    pt-br: inglês
+    pt_br: inglês
     qu: Inlis simi
     rm: Lingua englaisa
     rmf: angliko tšimb
@@ -918,8 +918,8 @@ dv_has_:
     so: Ingiriis
     sq: anglisht
     sr: енглески језик
-    sr-ec: енглески језик
-    sr-el: engleski jezik
+    sr_ec: енглески језик
+    sr_el: engleski jezik
     srn: Ingristongo
     ss: Singisi
     st: Senyesemane
@@ -934,7 +934,7 @@ dv_has_:
     tdd: ᥑᥣᥛᥰ ᥟᥤᥒᥰ ᥐᥣ ᥘᥤᥖ
     te: ఇంగ్లీషు
     tg: ингилисӣ
-    tg-cyrl: забони англисӣ
+    tg_cyrl: забони англисӣ
     th: ภาษาอังกฤษ
     ti: እንግሊዝኛ
     tk: Iňlis dili
@@ -948,8 +948,8 @@ dv_has_:
     trv: Kari Igiris
     ts: Xinghezi
     tt: инглиз теле
-    tt-cyrl: инглиз теле
-    tt-latn: ingliz tele
+    tt_cyrl: инглиз теле
+    tt_latn: ingliz tele
     tum: ChiNgelezi
     tw: Brɔfo
     ty: reo Paratāne
@@ -980,11 +980,11 @@ dv_has_:
     zea: Iengels
     zgh: ⵜⵓⵜⵍⴰⵢⵜ ⵜⴰⵏⴳⵍⵉⵣⵜ
     zh: 英語
-    zh-cn: 英语
-    zh-hans: 英语
-    zh-hant: 英語
-    zh-hk: 英語
-    zh-tw: 英語
+    zh_cn: 英语
+    zh_hans: 英语
+    zh_hant: 英語
+    zh_hk: 英語
+    zh_tw: 英語
     zu: IsiNgisi
 ---
 # [[Lang-eng]] 

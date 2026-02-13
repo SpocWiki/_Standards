@@ -137,7 +137,7 @@ dv_has_:
     azb: برکتلی هیلال
     ba: Бәрәкәтле ярымай
     be: Урадлівы паўмесяц
-    be-tarask: Урадлівы паўмесяц
+    be_tarask: Урадлівы паўмесяц
     bg: Плодороден полумесец
     bn: উর্বর চন্দ্রকলা
     br: Kreskenn Strujus
@@ -150,8 +150,8 @@ dv_has_:
     de: Fruchtbarer Halbmond
     el: Εύφορη Ημισέληνος
     en: Fertile Crescent
-    en-ca: Fertile Crescent
-    en-gb: Fertile Crescent
+    en_ca: Fertile Crescent
+    en_gb: Fertile Crescent
     eo: Fekunda duonluno
     es: Creciente Fértil
     et: Viljakas poolkuu
@@ -175,7 +175,7 @@ dv_has_:
     ka: ნოყიერი ნახევარმთვარე
     ko: 비옥한 초승달 지대
     ku: Hîvika Biadan
-    ku-latn: Hîvika Biadan
+    ku_latn: Hîvika Biadan
     kw: Krommen Fruthus
     la: Luna fertilis
     li: Vröchbaar Króm
@@ -194,7 +194,7 @@ dv_has_:
     pl: Żyzny Półksiężyc
     pnb: زرخیز ہلال
     pt: Crescente Fértil
-    pt-br: Crescente Fértil
+    pt_br: Crescente Fértil
     ro: Semiluna Fertilă
     ru: Плодородный полумесяц
     scn: Menzaluna fertili
@@ -202,8 +202,8 @@ dv_has_:
     sk: Úrodný polmesiac
     sl: rodovitni polmesec
     sr: Плодни полумесец
-    sr-ec: Плодни полумесец
-    sr-el: Plodni polumesec
+    sr_ec: Плодни полумесец
+    sr_el: Plodni polumesec
     sv: Bördiga halvmånen
     ta: வளமான பிறை பிரதேசம்
     th: พระจันทร์เสี้ยวอันอุดมสมบูรณ์
@@ -218,12 +218,12 @@ dv_has_:
     wuu: 新月沃土
     yue: 新月沃土
     zh: 新月沃土
-    zh-cn: 新月沃土
-    zh-hans: 新月沃土
-    zh-hant: 新月沃土
-    zh-hk: 新月沃土
-    zh-sg: 新月沃土
-    zh-tw: 新月沃土
+    zh_cn: 新月沃土
+    zh_hans: 新月沃土
+    zh_hant: 新月沃土
+    zh_hk: 新月沃土
+    zh_sg: 新月沃土
+    zh_tw: 新月沃土
 ---
 # [[Fertile_Crescent]] 
 

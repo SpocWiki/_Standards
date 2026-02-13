@@ -55,7 +55,7 @@ dv_has_:
     ar: هيئة دولية لتنظيم رياضة
     ast: federación deportiva internacional
     be: міжнародная спартыўная федэрацыя
-    be-tarask: міжнародная спартовая фэдэрацыя
+    be_tarask: міжнародная спартовая фэдэрацыя
     bn: আন্তর্জাতিক ক্রীড়া নিয়ন্ত্রক সংস্থা
     ca: organització esportiva internacional
     cs: mezinárodní sportovní federace
@@ -91,8 +91,8 @@ dv_has_:
     ur: کھیل کی بین الاقوامی انتظامیہ
     vec: federasion sportiva internasionałe
     zh: 國際體育管理機構
-    zh-hans: 国际体育管理机构
-    zh-hant: 國際體育管理機構
+    zh_hans: 国际体育管理机构
+    zh_hant: 國際體育管理機構
 ---
 # [[International_Sports_Federation]] 
 

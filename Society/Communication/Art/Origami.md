@@ -70,24 +70,24 @@ dv_has_:
     ba: Оригами
     bcl: Origami
     be: Арыгамі
-    be-tarask: арыгамі
+    be_tarask: арыгамі
     bg: Оригами
     bjn: Origami
     bn: অরিগামি
     br: Origami
     bs: Origami
     ca: origami
-    cbk-zam: Origami
+    cbk_zam: Origami
     ckb: ئۆریگامی
     cs: origami
     da: Origami
     de: Origami
     de-at: Origami
-    de-ch: Origami
+    de_ch: Origami
     el: Οριγκάμι
     en: origami
-    en-ca: Origami
-    en-gb: origami
+    en_ca: Origami
+    en_gb: origami
     eo: Origamio
     es: origami
     et: Origami
@@ -117,7 +117,7 @@ dv_has_:
     kk: Оригами
     ko: 종이접기
     ku: Orîgamî
-    ku-latn: Orîgamî
+    ku_latn: Orîgamî
     la: Origami
     lt: Origami
     lv: Origami
@@ -133,7 +133,7 @@ dv_has_:
     pa: ਓਰੀਗਾਮੀ
     pl: Origami
     pt: origâmi
-    pt-br: origami
+    pt_br: origami
     ro: Origami
     ru: Оригами
     scn: Origami
@@ -157,8 +157,8 @@ dv_has_:
     wuu: 折纸
     yue: 摺紙
     zh: 折纸
-    zh-hant: 摺紙
-    zh-hk: 摺紙
+    zh_hant: 摺紙
+    zh_hk: 摺紙
 ---
 # [[Origami]] 
 

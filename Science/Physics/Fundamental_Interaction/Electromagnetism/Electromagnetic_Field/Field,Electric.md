@@ -118,7 +118,7 @@ dv_has_:
     az: elektrik sahəsi
     azb: الکتریک مئیدانی
     be: электрычнае поле
-    be-tarask: электрычнае поле
+    be_tarask: электрычнае поле
     bg: електрично поле
     bho: बिद्युत क्षेत्र
     bn: তড়িৎ ক্ষেত্র
@@ -199,8 +199,8 @@ dv_has_:
     sn: ndima yemagetsi
     sq: fusha elektrike
     sr: електрично поље
-    sr-ec: електрично поље
-    sr-el: električno polje
+    sr_ec: електрично поље
+    sr_el: električno polje
     su: médan listrik
     sv: elektriskt fält
     ta: மின்புலம்

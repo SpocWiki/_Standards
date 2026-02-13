@@ -138,7 +138,7 @@ dv_has_:
     bar: Pizza
     bcl: Pizza
     be: піца
-    be-tarask: піцца
+    be_tarask: піцца
     bg: пица
     bho: पिज्जा
     bjn: piza
@@ -159,8 +159,8 @@ dv_has_:
     el: πίτσα
     eml: pizza
     en: pizza
-    en-ca: pizza
-    en-gb: pizza
+    en_ca: pizza
+    en_gb: pizza
     eo: pico
     es: pizza
     et: pitsa
@@ -220,13 +220,13 @@ dv_has_:
     mr: पिझ्झा
     mrj: пицца
     ms: piza
-    ms-arab: ڤيزا
+    ms_arab: ڤيزا
     mul: pizza
     my: ပီဇာ
     nan: Pizza
     nap: pizza
     nb: pizza
-    nds-nl: pizza
+    nds_nl: pizza
     ne: पिजा
     nl: pizza
     nn: pizza
@@ -239,7 +239,7 @@ dv_has_:
     pnt: πίτσα
     ps: پيزا
     pt: pizza
-    pt-br: pizza
+    pt_br: pizza
     pwn: pizza
     qu: Pitsa
     ro: pizza
@@ -255,8 +255,8 @@ dv_has_:
     sl: pica
     sq: pica
     sr: пица
-    sr-ec: пица
-    sr-el: pica
+    sr_ec: пица
+    sr_el: pica
     su: pizza
     sv: pizza
     sw: pizza
@@ -283,11 +283,11 @@ dv_has_:
     yue: 意大利薄餅
     zh: 比萨饼
     zh-cn: 比萨
-    zh-hans: 比萨饼
-    zh-hant: 比薩
-    zh-hk: 披薩
+    zh_hans: 比萨饼
+    zh_hant: 比薩
+    zh_hk: 披薩
     zh-my: 披萨
-    zh-tw: 披薩
+    zh_tw: 披薩
 ---
 # [[Pizza]] 
 

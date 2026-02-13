@@ -130,7 +130,7 @@ dv_has_:
     az: Günah
     bcl: Kasalan
     be: грэх
-    be-tarask: грэх
+    be_tarask: грэх
     bg: Грях
     bn: পাপ
     br: Pec'hed
@@ -216,8 +216,8 @@ dv_has_:
     sn: Chivi
     sq: Mëkati
     sr: грех
-    sr-ec: грех
-    sr-el: greh
+    sr_ec: грех
+    sr_el: greh
     sv: synd
     sw: Dhambi
     ta: பாவம்

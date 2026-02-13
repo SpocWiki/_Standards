@@ -46,7 +46,7 @@ Commons_category: Childlessness
 dv_has_:
   name_:
     ar: عدم الإنجاب
-    be-tarask: бязьдзетнасьць
+    be_tarask: бязьдзетнасьць
     bn: সন্তানহীনতা
     ca: sense fills
     ce: Берцахилар

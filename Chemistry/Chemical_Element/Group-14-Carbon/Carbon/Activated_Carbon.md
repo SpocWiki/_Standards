@@ -79,7 +79,7 @@ dv_has_:
   name_:
     ar: كربون نشط
     be: Актывіраваны вугаль
-    be-tarask: актываваны вугаль
+    be_tarask: актываваны вугаль
     bg: активен въглен
     bs: aktivni ugalj
     ca: carbó actiu
@@ -106,11 +106,11 @@ dv_has_:
     it: carbone attivo
     ja: 活性炭
     kk: активтендірілген көмір
-    kk-arab: اكتىيۆتەندىرىلگەن كومىر
+    kk_arab: اكتىيۆتەندىرىلگەن كومىر
     kk-cn: اكتىيۆتەندىرىلگەن كومىر
-    kk-cyrl: активтендірілген көмір
+    kk_cyrl: активтендірілген көмір
     kk-kz: активтендірілген көмір
-    kk-latn: aktïvtendirilgen kömir
+    kk_latn: aktïvtendirilgen kömir
     kk-tr: aktïvtendirilgen kömir
     kn: ಸಕ್ರಿಯ ಇಂಗಾಲ
     ko: 활성탄
@@ -130,8 +130,8 @@ dv_has_:
     sk: aktívne uhlie
     sl: aktivno oglje
     sr: активни угаљ
-    sr-ec: активни угаљ
-    sr-el: aktivni ugalj
+    sr_ec: активни угаљ
+    sr_el: aktivni ugalj
     sv: aktivt kol
     th: ถ่านกัมมันต์
     tr: aktif karbon
@@ -139,12 +139,12 @@ dv_has_:
     vec: carbon ativo
     vi: than hoạt tính
     zh: 活性炭
-    zh-cn: 活性炭
-    zh-hans: 活性炭
-    zh-hant: 活性炭
-    zh-hk: 活性炭
-    zh-sg: 活性炭
-    zh-tw: 活性炭
+    zh_cn: 活性炭
+    zh_hans: 活性炭
+    zh_hant: 活性炭
+    zh_hk: 活性炭
+    zh_sg: 活性炭
+    zh_tw: 活性炭
 ---
 # [[Activated_Carbon]] 
 

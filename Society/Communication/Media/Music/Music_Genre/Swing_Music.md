@@ -53,18 +53,18 @@ dv_has_:
     az: Swing
     bar: Swing
     be: свінг
-    be-tarask: сўінг
+    be_tarask: сўінг
     bg: суинг
     ca: swing
     cs: swing
     cy: cerddoriaeth swing
     da: swing
     de: Swing
-    de-ch: Swing (Musikrichtung)
+    de_ch: Swing (Musikrichtung)
     el: σουίνγκ
     en: swing
-    en-ca: swing music
-    en-gb: swing music
+    en_ca: swing music
+    en_gb: swing music
     eo: svingo
     es: swing
     et: sving
@@ -83,7 +83,7 @@ dv_has_:
     ja: スウィング・ジャズ
     ko: 스윙 음악
     ku: muzîka swîng
-    ku-latn: muzîka swîng
+    ku_latn: muzîka swîng
     lt: svingas
     lv: svings
     nb: swing
@@ -91,7 +91,7 @@ dv_has_:
     nn: swing-jazz
     pl: Swing
     pt: swing
-    pt-br: Swing (jazz)
+    pt_br: Swing (jazz)
     ru: свинг
     se: swingmusihkka
     sk: swing
@@ -106,12 +106,12 @@ dv_has_:
     vi: nhạc swing
     yue: 搖擺樂
     zh: 搖擺樂
-    zh-cn: 摇摆乐
-    zh-hans: 摇摆乐
-    zh-hant: 搖擺樂
-    zh-hk: 搖擺樂
-    zh-sg: 摇摆乐
-    zh-tw: 搖擺樂
+    zh_cn: 摇摆乐
+    zh_hans: 摇摆乐
+    zh_hant: 搖擺樂
+    zh_hk: 搖擺樂
+    zh_sg: 摇摆乐
+    zh_tw: 搖擺樂
 ---
 # [[Swing_Music]] 
 

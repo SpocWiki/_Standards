@@ -80,7 +80,7 @@ dv_has_:
     az: entalpiya
     bcl: entalpiya
     be: энтальпія
-    be-tarask: энтальпія
+    be_tarask: энтальпія
     bg: енталпия
     bn: অভ্যন্তরীণ তাপগতীয় বিভব
     bs: entalpija
@@ -111,11 +111,11 @@ dv_has_:
     it: entalpia
     ja: エンタルピー
     kk: энтальпия
-    kk-arab: ەنتالپىييا
+    kk_arab: ەنتالپىييا
     kk-cn: ەنتالپىييا
-    kk-cyrl: энтальпия
+    kk_cyrl: энтальпия
     kk-kz: энтальпия
-    kk-latn: éntalʹpïya
+    kk_latn: éntalʹpïya
     kk-tr: éntalʹpïya
     ko: 엔탈피
     ky: энтигүү
@@ -134,7 +134,7 @@ dv_has_:
     nn: entalpi
     pl: entalpia
     pt: entalpia
-    pt-br: entalpia
+    pt_br: entalpia
     rki: အင်သာပီ
     ro: entalpie
     ru: энтальпия
@@ -144,8 +144,8 @@ dv_has_:
     sk: entalpia
     sl: entalpija
     sr: енталпија
-    sr-ec: енталпија
-    sr-el: entalpija
+    sr_ec: енталпија
+    sr_el: entalpija
     sv: entalpi
     ta: வெப்ப அடக்கம்
     th: เอนทาลปี
@@ -158,12 +158,12 @@ dv_has_:
     wuu: 焓
     yue: 焓
     zh: 焓
-    zh-cn: 焓
-    zh-hans: 焓
-    zh-hant: 焓
-    zh-hk: 焓
-    zh-sg: 焓
-    zh-tw: 焓
+    zh_cn: 焓
+    zh_hans: 焓
+    zh_hant: 焓
+    zh_hk: 焓
+    zh_sg: 焓
+    zh_tw: 焓
 ---
 # [[Enthalpy]] 
 

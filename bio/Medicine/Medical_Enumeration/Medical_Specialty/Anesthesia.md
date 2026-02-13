@@ -93,7 +93,7 @@ dv_has_:
     az: anesteziya
     azb: بیهوشلوق
     be: анестэзія
-    be-tarask: анэстэзія
+    be_tarask: анэстэзія
     bew: Pemba'alan
     bg: Анестезия
     bho: एनेस्थीसिया
@@ -106,7 +106,7 @@ dv_has_:
     de: Anästhesie
     el: Αναισθησία
     en: anaesthesia
-    en-gb: anaesthesia
+    en_gb: anaesthesia
     eo: anestezo
     es: anestesia
     et: narkoos
@@ -135,11 +135,11 @@ dv_has_:
     jv: Anestesi
     ka: ანესთეზია
     kk: fнестезия
-    kk-arab: انەستەزىييا
+    kk_arab: انەستەزىييا
     kk-cn: انەستەزىييا
-    kk-cyrl: Анестезия
+    kk_cyrl: Анестезия
     kk-kz: Анестезия
-    kk-latn: anestezïya
+    kk_latn: anestezïya
     kk-tr: Anestezïya
     kn: ಅರಿವಳಿಕೆ
     ko: 마취
@@ -173,8 +173,8 @@ dv_has_:
     sms: anestesia
     sq: Anestezia
     sr: Анестезија
-    sr-ec: Анестезија
-    sr-el: Anestezija
+    sr_ec: Анестезија
+    sr_el: Anestezija
     sv: anestesi
     ta: மயக்க மருந்து
     te: అనస్థీషియా
@@ -190,12 +190,12 @@ dv_has_:
     wuu: 麻醉
     yue: 麻醉
     zh: 麻醉
-    zh-cn: 麻醉
-    zh-hans: 麻醉
-    zh-hant: 麻醉
-    zh-hk: 麻醉
-    zh-sg: 麻醉
-    zh-tw: 麻醉
+    zh_cn: 麻醉
+    zh_hans: 麻醉
+    zh_hant: 麻醉
+    zh_hk: 麻醉
+    zh_sg: 麻醉
+    zh_tw: 麻醉
 ---
 # [[Anesthesia]] 
 

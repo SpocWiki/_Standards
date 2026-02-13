@@ -168,7 +168,7 @@ dv_has_:
     ba: Эдмунд Галлей
     bar: Edmond Halley
     be: Эдмунд Галей
-    be-tarask: Эдмунд Галей
+    be_tarask: Эдмунд Галей
     bg: Едмънд Халей
     bn: এডমান্ড হ্যালি
     br: Edmond Halley
@@ -181,12 +181,12 @@ dv_has_:
     da: Edmond Halley
     de: Edmond Halley
     de-at: Edmond Halley
-    de-ch: Edmond Halley
+    de_ch: Edmond Halley
     ee: Edmond Halley
     el: Έντμουντ Χάλλεϋ
     en: Edmond Halley
-    en-ca: Edmond Halley
-    en-gb: Edmond Halley
+    en_ca: Edmond Halley
+    en_gb: Edmond Halley
     eo: Edmond Halley
     es: Edmond Halley
     et: Edmond Halley
@@ -238,7 +238,7 @@ dv_has_:
     nap: Edmond Halley
     nb: Edmond Halley
     nds: Edmond Halley
-    nds-nl: Edmond Halley
+    nds_nl: Edmond Halley
     nl: Edmond Halley
     nn: Edmond Halley
     nrm: Edmond Halley
@@ -248,7 +248,7 @@ dv_has_:
     pms: Edmund Halley
     pnb: ایڈمنڈ ہیلے
     pt: Edmond Halley
-    pt-br: Edmond Halley
+    pt_br: Edmond Halley
     rm: Edmond Halley
     ro: Edmond Halley
     ru: Эдмунд Галлей
@@ -260,8 +260,8 @@ dv_has_:
     sl: Edmond Halley
     sq: Edmund Halley
     sr: Едмунд Халеј
-    sr-ec: Едмунд Халеј
-    sr-el: Edmond Halley
+    sr_ec: Едмунд Халеј
+    sr_el: Edmond Halley
     sv: Edmond Halley
     sw: Edmond Halley
     szy: makademecay nipatalu ayaw a kamu ni Haley

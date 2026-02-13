@@ -35,9 +35,9 @@ dv_has_:
     uk: Ретронім
     yue: 返璞詞
     zh: 返璞词
-    zh-hans: 返璞词
-    zh-hant: 返璞詞
-    zh-hk: 返璞詞
+    zh_hans: 返璞词
+    zh_hant: 返璞詞
+    zh_hk: 返璞詞
 aliases:
 - afturvirkt orð
 - retroniem

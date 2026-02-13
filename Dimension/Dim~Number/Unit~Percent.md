@@ -136,7 +136,7 @@ dv_has_:
     azb: فاییز
     ba: процент
     be: працэнт
-    be-tarask: адсотак
+    be_tarask: адсотак
     bg: '%'
     bn: শতকরা হার
     bs: postotak
@@ -149,8 +149,8 @@ dv_has_:
     de: Prozent
     el: τοις εκατό
     en: percent
-    en-ca: percentage
-    en-gb: percentage
+    en_ca: percentage
+    en_gb: percentage
     eo: procento
     es: porcentaje
     et: protsent
@@ -210,7 +210,7 @@ dv_has_:
     pl: procent
     ps: سلنه
     pt: percentagem
-    pt-br: porcentagem
+    pt_br: porcentagem
     ro: procent
     ru: процент
     rue: Процент
@@ -239,7 +239,7 @@ dv_has_:
     tly: Faiz
     tr: '%'
     tt: процент
-    tt-cyrl: процент
+    tt_cyrl: процент
     uk: відсоток
     ur: فیصد
     uz: foiz
@@ -250,7 +250,7 @@ dv_has_:
     yue: 巴仙
     za: bwzfwnhbij
     zh: 百分比
-    zh-hans: 百分比
+    zh_hans: 百分比
 ---
 # [[Unit~Percent]] 
 

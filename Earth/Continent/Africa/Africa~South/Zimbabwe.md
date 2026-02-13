@@ -510,7 +510,7 @@ dv_is_:
 dv_has_:
   name_:
     ab: Зимбабве
-    aeb-arab: زيمبابوي
+    aeb_arab: زيمبابوي
     af: Zimbabwe
     am: ዚምባብዌ
     ami: Zimbabwa
@@ -530,7 +530,7 @@ dv_has_:
     bar: Simbabwe
     bcl: Simbabwe
     be: Зімбабвэ
-    be-tarask: Зымбабвэ
+    be_tarask: Зымбабвэ
     bew: Jimbabwé
     bg: Зимбабве
     bho: जिम्बाब्वे
@@ -544,7 +544,7 @@ dv_has_:
     bs: Zimbabve
     bxr: Зимбабве
     ca: Zimbàbue
-    cbk-zam: Zimbabwe
+    cbk_zam: Zimbabwe
     cdo: Zimbabwe
     ce: Зимбабве
     ceb: Zimbabwe
@@ -553,7 +553,7 @@ dv_has_:
     ckb: زیمبابوی
     co: Zimbabue
     crh: Zimbabve
-    crh-latn: Zimbabve
+    crh_latn: Zimbabve
     cs: Zimbabwe
     csb: Zimbabwe
     cv: Зимбабве
@@ -562,7 +562,7 @@ dv_has_:
     dag: Zimbabwe
     de: Simbabwe
     de-at: Simbabwe
-    de-ch: Simbabwe
+    de_ch: Simbabwe
     diq: Zimbabwe
     dsb: Simbabwe
     dty: जिम्बावे
@@ -571,8 +571,8 @@ dv_has_:
     ee: Zimbabwe
     el: Ζιμπάμπουε
     en: Zimbabwe
-    en-ca: Zimbabwe
-    en-gb: Zimbabwe
+    en_ca: Zimbabwe
+    en_gb: Zimbabwe
     eo: Zimbabvo
     es: Zimbabue
     et: Zimbabwe
@@ -679,7 +679,7 @@ dv_has_:
     nan: Zimbabwe
     nb: Zimbabwe
     nds: Simbabwe
-    nds-nl: Zimbabwe
+    nds_nl: Zimbabwe
     ne: जिम्बाब्वे
     new: जिम्बाब्वे
     nl: Zimbabwe
@@ -707,7 +707,7 @@ dv_has_:
     pnb: زمبابوے
     ps: زېمبابوې
     pt: Zimbábue
-    pt-br: Zimbábue
+    pt_br: Zimbábue
     qu: Simbabwi
     rmy: Zimbabwe
     ro: Zimbabwe
@@ -736,8 +736,8 @@ dv_has_:
     so: Simbaabwi
     sq: Zimbabveja
     sr: Зимбабве
-    sr-ec: Зимбабве
-    sr-el: Zimbabve
+    sr_ec: Зимбабве
+    sr_el: Zimbabve
     ss: IZimbabhwe
     st: Zimbabwe
     stq: Simbabwe
@@ -787,11 +787,11 @@ dv_has_:
     zea: Zimbabwe
     zgh: ⵣⵉⵎⴱⴰⴱⵡⵉ
     zh: 津巴布韦
-    zh-cn: 津巴布韦
-    zh-hans: 津巴布韦
-    zh-hant: 辛巴威
-    zh-hk: 津巴布韋
-    zh-tw: 辛巴威
+    zh_cn: 津巴布韦
+    zh_hans: 津巴布韦
+    zh_hant: 辛巴威
+    zh_hk: 津巴布韋
+    zh_tw: 辛巴威
     zu: IZimbabwe
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Zimbabwe

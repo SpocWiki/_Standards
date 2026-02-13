@@ -19,8 +19,8 @@ dv_has_:
     ca: Mohammed Assaf
     de: Mohammed Assaf
     en: Mohammed Assaf
-    en-ca: Mohammed Assaf
-    en-gb: Mohammed Assaf
+    en_ca: Mohammed Assaf
+    en_gb: Mohammed Assaf
     es: Mohammed Assaf
     fa: محمد عساف
     fr: Mohammed Assaf
@@ -37,7 +37,7 @@ dv_has_:
     sq: Mohammed Assaf
     sv: Mohammed Assaf
     zh: 穆罕默德·阿薩夫
-    zh-hant: 穆罕默德·艾薩夫
+    zh_hant: 穆罕默德·艾薩夫
 ---
 #has_/time_/started :: 1990-09-01 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

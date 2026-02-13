@@ -156,7 +156,7 @@ dv_has_:
     ban: Étika
     bar: Ethik
     be: этыка
-    be-tarask: этыка
+    be_tarask: этыка
     bg: Етика
     bn: নীতিশাস্ত্র
     br: Buhezegezh
@@ -170,12 +170,12 @@ dv_has_:
     cy: moeseg
     da: etik
     de: Ethik
-    de-ch: Ethik
+    de_ch: Ethik
     diq: Etik
     el: ηθική
     en: ethics
-    en-ca: Ethics
-    en-gb: ethics
+    en_ca: Ethics
+    en_gb: ethics
     eo: etiko
     es: ética
     et: eetika
@@ -240,7 +240,7 @@ dv_has_:
     mn: Этик
     mr: नीतिशास्त्र
     ms: etika
-    ms-arab: ايتيکا
+    ms_arab: ايتيکا
     mwl: Ética
     my: အက်သစ်
     nan: Lûn-lí-ha̍k
@@ -259,7 +259,7 @@ dv_has_:
     pnb: ایتھکس
     ps: اخلاق
     pt: ética
-    pt-br: Ética
+    pt_br: Ética
     ro: etică
     ru: этика
     rue: етіка
@@ -304,8 +304,8 @@ dv_has_:
     za: Lwnzleixyoz
     zgh: ⵜⴰⵙⵏⵔⴼⵙⴰⵏⵜ
     zh: 伦理学
-    zh-hant: 倫理學
-    zh-tw: 倫理學
+    zh_hant: 倫理學
+    zh_tw: 倫理學
 ---
 # [[Ethics]] 
 

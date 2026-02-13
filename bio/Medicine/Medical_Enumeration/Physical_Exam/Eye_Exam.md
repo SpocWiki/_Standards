@@ -75,7 +75,7 @@ dv_has_:
   name_:
     af: Oogtoets
     ar: فحص العين
-    be-tarask: праверка зроку
+    be_tarask: праверка зроку
     ca: examen ocular
     cs: vyšetření oka
     da: synsundersøgelse
@@ -106,8 +106,8 @@ dv_has_:
     sh: Oftalmološki pregled
     sl: pregled oči
     sr: офталмолошки преглед
-    sr-ec: Офталмолошки преглед
-    sr-el: Oftalmološki pregled
+    sr_ec: Офталмолошки преглед
+    sr_el: Oftalmološki pregled
     sv: synundersökning
     ta: கண் பரிசோதனை
     tr: Göz muayenesi
@@ -115,8 +115,8 @@ dv_has_:
     vi: khám mắt
     yue: 驗眼
     zh: 視力測試
-    zh-hans: 眼科检查
-    zh-hant: 眼科檢查
+    zh_hans: 眼科检查
+    zh_hant: 眼科檢查
 ---
 # [[Eye_Exam]] 
 

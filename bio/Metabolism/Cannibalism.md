@@ -93,7 +93,7 @@ dv_has_:
     ast: Canibalismu
     az: kannibalizm
     be: канібалізм
-    be-tarask: канібалізм
+    be_tarask: канібалізм
     bg: канибализъм
     bn: নরমাংস ভক্ষণ
     bs: Kanibalizam
@@ -103,11 +103,11 @@ dv_has_:
     cy: Canibaliaeth
     da: kannibalisme
     de: Kannibalismus
-    de-ch: Kannibalismus
+    de_ch: Kannibalismus
     el: Κανιβαλισμός
     en: cannibalism
-    en-ca: Cannibalism
-    en-gb: cannibalism
+    en_ca: Cannibalism
+    en_gb: cannibalism
     eo: kanibalismo
     es: canibalismo
     et: Kannibalism
@@ -161,7 +161,7 @@ dv_has_:
     so: Dadqalato
     sq: Kanibalët
     sr: канибализам
-    sr-ec: канибализам
+    sr_ec: канибализам
     sv: kannibalism
     ta: தன்னின உயிருண்ணி
     te: నరమాంస భక్షణ
@@ -180,10 +180,10 @@ dv_has_:
     yi: קאניבאליזם
     yue: 食人肉
     zh: 同类相食
-    zh-cn: 同类相食
-    zh-hans: 同类相食
-    zh-hant: 同類相食
-    zh-tw: 同類相食
+    zh_cn: 同类相食
+    zh_hans: 同类相食
+    zh_hant: 同類相食
+    zh_tw: 同類相食
 ---
 # [[Cannibalism]] 
 

@@ -182,7 +182,7 @@ dv_has_:
     bar: Simone de Beauvoir
     bcl: Simone de Beauvoir
     be: Сімона дэ Бавуар
-    be-tarask: Сымона дэ Бавуар
+    be_tarask: Сымона дэ Бавуар
     bg: Симон дьо Бовоар
     bn: সিমন দ্য বোভোয়ার
     br: Simone de Beauvoir
@@ -198,12 +198,12 @@ dv_has_:
     da: Simone de Beauvoir
     de: Simone de Beauvoir
     de-at: Simone de Beauvoir
-    de-ch: Simone de Beauvoir
+    de_ch: Simone de Beauvoir
     diq: Simone de Beauvoir
     el: Σιμόν ντε Μπoβουάρ
     en: Simone de Beauvoir
-    en-ca: Simone de Beauvoir
-    en-gb: Simone de Beauvoir
+    en_ca: Simone de Beauvoir
+    en_gb: Simone de Beauvoir
     en-us: Simone de Beauvoir
     eo: Simone de Beauvoir
     es: Simone de Beauvoir
@@ -271,7 +271,7 @@ dv_has_:
     nap: Simone de Beauvoir
     nb: Simone de Beauvoir
     nds: Simone de Beauvoir
-    nds-nl: Simone de Beauvoir
+    nds_nl: Simone de Beauvoir
     new: सिमोन् दे बीउभ्वा
     nl: Simone de Beauvoir
     nn: Simone de Beauvoir
@@ -305,7 +305,7 @@ dv_has_:
     smn: Simone de Beauvoir
     sq: Simone de Beauvoir
     sr: Симон де Бовоар
-    sr-el: Simone de Beauvoir
+    sr_el: Simone de Beauvoir
     sv: Simone de Beauvoir
     sw: Simone de Beauvoir
     ta: சிமோன் ட பொவார்
@@ -332,7 +332,7 @@ dv_has_:
     yue: 波伏娃
     zh: 西蒙·波娃
     zh-hans: 西蒙·波娃
-    zh-hant: 西蒙·德·波娃
+    zh_hant: 西蒙·德·波娃
     zu: Simone de Beauvoir
 ---
 # [[Beauvoir,Simone_de]] 

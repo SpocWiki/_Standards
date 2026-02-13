@@ -75,7 +75,7 @@ dv_has_:
     pl: Alcelaphinae
     pnb: ہرن گانواں
     pt: Alcelaphinae
-    pt-br: alcelaphinae
+    pt_br: alcelaphinae
     ro: Alcelaphinae
     ru: Бубалы
     sq: Alcelaphinae
@@ -88,9 +88,9 @@ dv_has_:
     vo: Alcelaphinae
     war: Alcelaphinae
     zh: 狷羚亚科
-    zh-cn: 狷羚亚科
-    zh-hans: 狷羚亚科
-    zh-tw: 狷羚亚科
+    zh_cn: 狷羚亚科
+    zh_hans: 狷羚亚科
+    zh_tw: 狷羚亚科
 ---
 # [[Alcelaphinae]]
 

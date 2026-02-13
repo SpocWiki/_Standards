@@ -85,7 +85,7 @@ dv_has_:
     ast: mampostería
     az: bənna
     be: муроўка
-    be-tarask: муроўка
+    be_tarask: муроўка
     bg: зидария
     bn: ইমারতি
     br: mañsonerezh
@@ -95,12 +95,12 @@ dv_has_:
     cv: чул конструкци
     da: murværk
     de: Mauerwerk
-    de-ch: Mauerwerk
+    de_ch: Mauerwerk
     diq: dêsker
     el: τοιχοποιία
     en: masonry
-    en-ca: masonry
-    en-gb: masonry
+    en_ca: masonry
+    en_gb: masonry
     eo: masonaĵo
     es: mampostería
     eu: hargin lan
@@ -130,7 +130,7 @@ dv_has_:
     pl: murarstwo
     ps: خټګرى
     pt: alvenaria
-    pt-br: alvenaria
+    pt_br: alvenaria
     qu: pirqaq
     ro: zidărie
     ru: каменная кладка
@@ -140,7 +140,7 @@ dv_has_:
     sk: stena
     sl: zidarstvo
     sr: зидарство
-    sr-ec: зидарство
+    sr_ec: зидарство
     sv: murverk
     th: วัสดุก่อ
     tr: kâgir yapı
@@ -148,12 +148,12 @@ dv_has_:
     vi: khối xây gạch đá
     yue: 砌石工程
     zh: 砌体结构
-    zh-cn: 砌体结构
-    zh-hans: 砌体结构
-    zh-hant: 砌體結構
-    zh-hk: 砌體結構
-    zh-sg: 砌体结构
-    zh-tw: 砌體結構
+    zh_cn: 砌体结构
+    zh_hans: 砌体结构
+    zh_hant: 砌體結構
+    zh_hk: 砌體結構
+    zh_sg: 砌体结构
+    zh_tw: 砌體結構
 ---
 # [[Masonry]] 
 

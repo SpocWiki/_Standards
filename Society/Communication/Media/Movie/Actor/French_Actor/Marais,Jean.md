@@ -93,7 +93,7 @@ dv_has_:
     ba: Жан Маре
     bar: Jean Marais
     be: Жан Марэ
-    be-tarask: Жан Марэ
+    be_tarask: Жан Марэ
     bg: Жан Маре
     bi: Jean Marais
     bm: Jean Marais
@@ -107,11 +107,11 @@ dv_has_:
     da: Jean Marais
     de: Jean Marais
     de-at: Jean Marais
-    de-ch: Jean Marais
+    de_ch: Jean Marais
     el: Ζαν Μαρέ
     en: Jean Marais
-    en-ca: Jean Marais
-    en-gb: Jean Marais
+    en_ca: Jean Marais
+    en_gb: Jean Marais
     eo: Jean Marais
     es: Jean Marais
     et: Jean Marais
@@ -159,7 +159,7 @@ dv_has_:
     nap: Jean Marais
     nb: Jean Marais
     nds: Jean Marais
-    nds-nl: Jean Marais
+    nds_nl: Jean Marais
     nl: Jean Marais
     nn: Jean Marais
     nrm: Jean Marais
@@ -171,7 +171,7 @@ dv_has_:
     pms: Jean Marais
     prg: Jean Marais
     pt: Jean Marais
-    pt-br: Jean Marais
+    pt_br: Jean Marais
     rgn: Jean Marais
     rm: Jean Marais
     ro: Jean Marais
@@ -201,9 +201,9 @@ dv_has_:
     xmf: ჟან მარე
     yue: 尚馬利
     zh: 让·马莱
-    zh-hans: 让·马莱
-    zh-hk: 尚·馬利
-    zh-sg: 真·马利
+    zh_hans: 让·马莱
+    zh_hk: 尚·馬利
+    zh_sg: 真·马利
     zu: Jean Marais
 ---
 # [[Marais,Jean]] 

@@ -76,7 +76,7 @@ dv_has_:
     ar: درفلة
     ast: Laminación
     az: prokat
-    be-tarask: вальцаваньне
+    be_tarask: вальцаваньне
     bg: Валцуване
     ca: Laminació
     cs: válcování kovů
@@ -123,8 +123,8 @@ dv_has_:
     wuu: 轧制
     yue: 軋製
     zh: 轧
-    zh-hans: 压机
-    zh-hant: 壓機
+    zh_hans: 压机
+    zh_hant: 壓機
 ---
 # [[Rolling(Metalworking)]] 
 

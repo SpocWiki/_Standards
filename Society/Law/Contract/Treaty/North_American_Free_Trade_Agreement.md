@@ -101,7 +101,7 @@ dv_has_:
     ast: Tratáu de Llibre Comerciu d'América del Norte
     az: Şimali Amerika Azad Ticarət Assosiasiyası
     be: Паўночнаамерыканская зона свабоднага гандлю
-    be-tarask: Паўночнаамэрыканская зона свабоднага гандлю
+    be_tarask: Паўночнаамэрыканская зона свабоднага гандлю
     bg: Северноамериканско споразумение за свободна търговия
     br: Emglev frankeskemm Norzh Amerika
     ca: Àrea de Lliure Comerç d'Amèrica del Nord
@@ -109,11 +109,11 @@ dv_has_:
     cs: NAFTA
     da: North American Free Trade Agreement
     de: Nordamerikanisches Freihandelsabkommen
-    de-ch: Nordamerikanisches Freihandelsabkommen
+    de_ch: Nordamerikanisches Freihandelsabkommen
     el: Συμφωνία Ελεύθερου Εμπορίου Βόρειας Αμερικής
     en: North American Free Trade Agreement
-    en-ca: North American Free Trade Agreement
-    en-gb: North American Free Trade Agreement
+    en_ca: North American Free Trade Agreement
+    en_gb: North American Free Trade Agreement
     en-us: North American Free Trade Agreement
     eo: Nordamerika Liberkomerca Interkonsento
     es: Tratado de Libre Comercio de América del Norte
@@ -147,7 +147,7 @@ dv_has_:
     pms: Acòrd ëd lìber ëscambi nòrd-american
     ps: د شمالي امریکا د ازادې سوداګرۍ تړون
     pt: Tratado Norte-Americano de Livre Comércio
-    pt-br: Tratado Norte-Americano de Livre Comércio
+    pt_br: Tratado Norte-Americano de Livre Comércio
     ro: Acordul Nord American de Comerț Liber
     ru: Североамериканская зона свободной торговли
     sco: North American Free Trade Agreement
@@ -156,8 +156,8 @@ dv_has_:
     sl: Severnoameriški sporazum o svobodni trgovini
     sq: North American Free Trade Agreement
     sr: Северноамерички споразум о слободној трговини
-    sr-ec: Северноамерички споразум о слободној трговини
-    sr-el: Severnoamerički sporazum o slobodnoj trgovini
+    sr_ec: Северноамерички споразум о слободној трговини
+    sr_el: Severnoamerički sporazum o slobodnoj trgovini
     sv: North American Free Trade Agreement
     th: ข้อตกลงการค้าเสรีอเมริกาเหนือ
     tr: Kuzey Amerika Ülkeleri Serbest Ticaret Anlaşması
@@ -168,12 +168,12 @@ dv_has_:
     wuu: 北美自由贸易协议
     yue: 北美自由貿易協議
     zh: 北美自由贸易协议
-    zh-cn: 北美自由贸易协议
-    zh-hans: 北美自由贸易协议
-    zh-hant: 北美自由貿易協議
-    zh-hk: 北美自由貿易協議
-    zh-sg: 北美自由贸易协议
-    zh-tw: 北美自由貿易協議
+    zh_cn: 北美自由贸易协议
+    zh_hans: 北美自由贸易协议
+    zh_hant: 北美自由貿易協議
+    zh_hk: 北美自由貿易協議
+    zh_sg: 北美自由贸易协议
+    zh_tw: 北美自由貿易協議
 ---
 # [[North_American_Free_Trade_Agreement]] 
 

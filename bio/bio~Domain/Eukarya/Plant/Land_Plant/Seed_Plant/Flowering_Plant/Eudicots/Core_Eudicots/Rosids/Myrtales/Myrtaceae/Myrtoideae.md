@@ -54,7 +54,7 @@ dv_has_:
     oc: Myrtoideae
     pl: Myrtoideae
     pt: Myrtoideae
-    pt-br: Myrtoideae
+    pt_br: Myrtoideae
     ro: Myrtoideae
     ru: Миртовые (подсемейство)
     sl: Myrtoideae
@@ -65,8 +65,8 @@ dv_has_:
     vo: Myrtoideae
     war: Myrtoideae
     zh: 桃金娘亚科
-    zh-cn: 桃金娘亚科
-    zh-hans: 桃金娘亚科
+    zh_cn: 桃金娘亚科
+    zh_hans: 桃金娘亚科
 ---
 # [[Myrtoideae]] 
 

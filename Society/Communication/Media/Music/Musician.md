@@ -149,7 +149,7 @@ dv_has_:
     bar: Musika
     bcl: Musikero
     be: музыкант
-    be-tarask: музыка
+    be_tarask: музыка
     bew: Tukang gending
     bg: музикант
     bn: সঙ্গীতজ্ঞ
@@ -160,13 +160,13 @@ dv_has_:
     ceb: maghuhuni
     ckb: مۆسیقاژەن
     co: musicante
-    crh-latn: çalğıcı
+    crh_latn: çalğıcı
     cs: hudebník
     cy: cerddor
     da: musiker
     de: Musiker
     de-at: Musiker
-    de-ch: Musiker
+    de_ch: Musiker
     diq: Muzisyen
     el: μουσικός
     en: musician
@@ -212,7 +212,7 @@ dv_has_:
     ko: 음악가
     ks: موٗسیٖقار
     ku: muzîkvan
-    ku-latn: muzîkvan
+    ku_latn: muzîkvan
     kw: ilewydh
     ky: Музыкант
     la: musicus
@@ -231,7 +231,7 @@ dv_has_:
     ml: ഗായകൻ
     mr: संगीतकार
     ms: pemuzik
-    ms-arab: ڤموزيک
+    ms_arab: ڤموزيک
     mt: mużiċist
     myv: седиця
     mzn: مزقونچی
@@ -239,7 +239,7 @@ dv_has_:
     nan: Im-ga̍k-ka
     nb: musiker
     nds: Musiker
-    nds-nl: muzikaant
+    nds_nl: muzikaant
     ne: संगीतकार
     nl: muzikant
     nn: musikar
@@ -255,7 +255,7 @@ dv_has_:
     pnb: موسیقار
     ps: ميوزيشن
     pt: músico
-    pt-br: músico
+    pt_br: músico
     rmf: musikiero
     ro: muzician
     rsk: Музичар
@@ -273,8 +273,8 @@ dv_has_:
     sms: musikkneǩ
     sq: muzikant
     sr: музичар
-    sr-ec: музичар
-    sr-el: muzičar
+    sr_ec: музичар
+    sr_el: muzičar
     su: Musisi
     sv: musiker
     sw: Mwanamuziki
@@ -287,7 +287,7 @@ dv_has_:
     tr: müzisyen
     ts: Muyimbeleri wa vunanga
     tt: музыкачы
-    tt-cyrl: музыкачы
+    tt_cyrl: музыкачы
     uk: музикант
     ur: موسیقار
     uz: musiqachi
@@ -301,14 +301,14 @@ dv_has_:
     yo: olórin
     yue: 音樂家
     zh: 音樂家
-    zh-cn: 音乐家
-    zh-hans: 音乐家
-    zh-hant: 音樂家
-    zh-hk: 音樂家
-    zh-mo: 音樂家
+    zh_cn: 音乐家
+    zh_hans: 音乐家
+    zh_hant: 音樂家
+    zh_hk: 音樂家
+    zh_mo: 音樂家
     zh-my: 音乐家
-    zh-sg: 音乐家
-    zh-tw: 音樂家
+    zh_sg: 音乐家
+    zh_tw: 音樂家
     zu: Umculi
 ---
 ## #has_/text_of_/abstract 

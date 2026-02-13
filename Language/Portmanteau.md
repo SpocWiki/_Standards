@@ -68,7 +68,7 @@ dv_has_:
     af: kofferwoord
     ar: لفظ منحوت
     az: mürəkkəb sözlər
-    be-tarask: склеенае слова
+    be_tarask: склеенае слова
     bn: পিন্ডারিশব্দ
     br: ger-malizenn
     bs: stopljenica
@@ -77,10 +77,10 @@ dv_has_:
     cy: cyfansoddair cywasgedig
     da: portmanteau
     de: Kofferwort
-    de-ch: Portmanteauwort
+    de_ch: Portmanteauwort
     en: blend word
-    en-ca: portmanteau
-    en-gb: portmanteau
+    en_ca: portmanteau
+    en_gb: portmanteau
     eo: vortokunfando
     es: portmanteau
     et: sulandsõna
@@ -112,7 +112,7 @@ dv_has_:
     nn: samantrekt ord
     pl: zbitka wyrazowa
     pt: palavra-valise
-    pt-br: palavra-valise
+    pt_br: palavra-valise
     ro: cuvânt telescopat
     ru: словослияние
     sh: portmanteau
@@ -129,11 +129,11 @@ dv_has_:
     wuu: 混成词
     yue: 混成詞
     zh: 混成詞
-    zh-cn: 混成词
-    zh-hans: 混成词
-    zh-hk: 混成詞
-    zh-sg: 混成词
-    zh-tw: 混成詞
+    zh_cn: 混成词
+    zh_hans: 混成词
+    zh_hk: 混成詞
+    zh_sg: 混成词
+    zh_tw: 混成詞
 ---
 # [[Portmanteau]] 
 

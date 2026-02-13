@@ -193,7 +193,7 @@ dv_has_:
     ban: Kaséla
     bcl: Balinghoy
     be: Маніёк
-    be-tarask: маніёк
+    be_tarask: маніёк
     bg: маниока
     bi: Maniok
     bjn: Jawaw
@@ -213,8 +213,8 @@ dv_has_:
     ee: Agbeli
     el: Κασάβα
     en: Manihot esculenta
-    en-ca: Cassava
-    en-gb: cassava
+    en_ca: Cassava
+    en_gb: cassava
     en-us: cassava
     eo: Manioko
     es: Manihot esculenta
@@ -278,7 +278,7 @@ dv_has_:
     oc: Manioc
     pl: Maniok jadalny
     pt: mandioca
-    pt-br: Mandioca
+    pt_br: Mandioca
     qu: Rumu
     ro: Manioc
     ru: маниок
@@ -314,8 +314,8 @@ dv_has_:
     yue: 木薯
     za: Moegsawz
     zh: 木薯
-    zh-cn: 木薯
-    zh-tw: 樹薯
+    zh_cn: 木薯
+    zh_tw: 樹薯
 ---
 # [[Cassava]] 
 

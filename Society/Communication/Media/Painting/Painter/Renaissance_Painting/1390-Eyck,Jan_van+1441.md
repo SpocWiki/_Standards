@@ -182,7 +182,7 @@ dv_has_:
     az: Yan van Eyk
     ba: Ян ван Эйк
     be: Ян ван Эйк
-    be-tarask: Ян ван Эйк
+    be_tarask: Ян ван Эйк
     bg: Ян ван Ейк
     br: Jan van Eyck
     bs: Jan van Eyck
@@ -212,7 +212,7 @@ dv_has_:
     it: Jan van Eyck
     ja: ヤン・ファン・エイク
     ka: იან ვან ეიკი
-    kk-cyrl: Эйк, Ян ван
+    kk_cyrl: Эйк, Ян ван
     kl: Jan van Eyck
     ko: 얀 반 에이크
     ky: Baн Эйк Ян
@@ -237,7 +237,7 @@ dv_has_:
     pl: Jan van Eyck
     pms: Jan Van Eyck
     pt: Jan van Eyck
-    pt-br: Jan van Eyck
+    pt_br: Jan van Eyck
     ro: Jan van Eyck
     ru: Ян ван Эйк
     sco: Jan van Eyck
@@ -247,8 +247,8 @@ dv_has_:
     sl: Jan van Eyck
     sq: Jan van Eyck
     sr: Јан ван Ајк
-    sr-ec: Јан ван Ајк
-    sr-el: Jan van Ajk
+    sr_ec: Јан ван Ајк
+    sr_el: Jan van Ajk
     stq: Jan van Eyck
     sv: Jan van Eyck
     th: ยัน ฟัน ไอก์
@@ -263,12 +263,12 @@ dv_has_:
     wuu: 扬·范艾克
     yue: 揚范艾克
     zh: 揚·范·艾克
-    zh-cn: 扬·范·艾克
-    zh-hans: 扬·范·艾克
-    zh-hant: 揚·范·艾克
-    zh-hk: 揚·范·艾克
-    zh-sg: 扬·范·艾克
-    zh-tw: 揚·范·艾克
+    zh_cn: 扬·范·艾克
+    zh_hans: 扬·范·艾克
+    zh_hant: 揚·范·艾克
+    zh_hk: 揚·范·艾克
+    zh_sg: 扬·范·艾克
+    zh_tw: 揚·范·艾克
 ---
 # [[1390-Eyck,Jan_van+1441]] 
 

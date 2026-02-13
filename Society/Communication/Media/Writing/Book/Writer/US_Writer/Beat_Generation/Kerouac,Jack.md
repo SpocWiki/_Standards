@@ -127,7 +127,7 @@ dv_has_:
     az: Cek Keruak
     azb: جک کرواک
     be: Джэк Керуак
-    be-tarask: Джэк Кэруак
+    be_tarask: Джэк Кэруак
     bg: Джак Керуак
     bn: জ্যাক কেরোয়াক
     bo: ཇག་ ཁེ་རོ་ཨག
@@ -140,8 +140,8 @@ dv_has_:
     de: Jack Kerouac
     el: Τζακ Κέρουακ
     en: Jack Kerouac
-    en-ca: Jack Kerouac
-    en-gb: Jack Kerouac
+    en_ca: Jack Kerouac
+    en_gb: Jack Kerouac
     eo: Jack Kerouac
     es: Jack Kerouac
     et: Jack Kerouac
@@ -183,7 +183,7 @@ dv_has_:
     pl: Jack Kerouac
     pms: Jack Kerouac
     pt: Jack Kerouac
-    pt-br: Jack Kerouac
+    pt_br: Jack Kerouac
     ro: Jack Kerouac
     ru: Джек Керуак
     sh: Jack Kerouac
@@ -202,12 +202,12 @@ dv_has_:
     yo: Jack Kerouac
     yue: 傑克·凱魯亞克
     zh: 傑克·凱魯亞克
-    zh-cn: 杰克·凯鲁亚克
-    zh-hans: 杰克·凯鲁亚克
-    zh-hant: 傑克·凱魯亞克
-    zh-hk: 傑克·凱魯亞克
-    zh-sg: 杰克·凯鲁亚克
-    zh-tw: 傑克·凱魯亞克
+    zh_cn: 杰克·凯鲁亚克
+    zh_hans: 杰克·凯鲁亚克
+    zh_hant: 傑克·凱魯亞克
+    zh_hk: 傑克·凱魯亞克
+    zh_sg: 杰克·凯鲁亚克
+    zh_tw: 傑克·凱魯亞克
 ---
 # [[Kerouac,Jack]] 
 

@@ -89,7 +89,7 @@ dv_has_:
     arz: تاريخ المسيحيه
     ast: Historia del cristianismu
     be: гісторыя хрысціянства
-    be-tarask: гісторыя хрысьціянства
+    be_tarask: гісторыя хрысьціянства
     bg: История на християнството
     bn: খ্রিস্টধর্মের ইতিহাস
     br: istor ar gristeniezh
@@ -120,7 +120,7 @@ dv_has_:
     ka: ქრისტიანობის ისტორია
     ko: 기독교의 역사
     ku: dîroka mesîhîtiyê
-    ku-latn: dîroka mesîhîtiyê
+    ku_latn: dîroka mesîhîtiyê
     lv: kristietības vēsture
     mg: Tantaran' ny kristianisma
     mk: Историја на христијанството
@@ -128,13 +128,13 @@ dv_has_:
     mt: Storja tal-Kristjaneżmu
     mwl: Stória de l Crestianismo
     nb: kristendommens historie
-    nds-nl: geskydenisse van et kristendom
+    nds_nl: geskydenisse van et kristendom
     nl: geschiedenis van het christendom
     pl: historia chrześcijaństwa
     pnb: عیسائیت دی تریخ
     ps: د مسیحیت تاریخ
     pt: história do cristianismo
-    pt-br: história do cristianismo
+    pt_br: história do cristianismo
     rm: Istorgia da la baselgia
     ro: istoria creștinismului
     ru: история христианства
@@ -156,12 +156,12 @@ dv_has_:
     vi: lịch sử Kitô giáo
     war: Kaagi han Kristiyanismo
     zh: 基督教历史
-    zh-cn: 基督教历史
-    zh-hans: 基督教历史
-    zh-hant: 基督教歷史
-    zh-hk: 基督教歷史
-    zh-sg: 基督教历史
-    zh-tw: 基督教歷史
+    zh_cn: 基督教历史
+    zh_hans: 基督教历史
+    zh_hant: 基督教歷史
+    zh_hk: 基督教歷史
+    zh_sg: 基督教历史
+    zh_tw: 基督教歷史
 ---
 # [[History_of_Christianity]] 
 

@@ -268,7 +268,7 @@ dv_has_:
     bar: Schach
     bbc: Satur
     be: шахматы
-    be-tarask: шахматы
+    be_tarask: шахматы
     bew: Catur (gerak badan)
     bg: шахмат
     bho: शतरंज
@@ -371,7 +371,7 @@ dv_has_:
     mn: шатар
     mr: बुद्धिबळ
     ms: catur
-    ms-arab: چاتور
+    ms_arab: چاتور
     mt: ċess
     mwl: xadreç
     my: စစ်တုရင်ကစားခြင်း
@@ -382,7 +382,7 @@ dv_has_:
     nap: scacchi
     nb: sjakk
     nds: Schachspeel
-    nds-nl: skaakn
+    nds_nl: skaakn
     ne: बुद्धी चाल
     new: चेस
     nl: schaken
@@ -400,7 +400,7 @@ dv_has_:
     pnb: شطرنج
     ps: سترنج
     pt: xadrez
-    pt-br: xadrez
+    pt_br: xadrez
     qu: qhapaq chunkana
     rm: schah
     ro: șah
@@ -425,8 +425,8 @@ dv_has_:
     so: Shataranjiga
     sq: shahu
     sr: шах
-    sr-ec: шах
-    sr-el: šah
+    sr_ec: шах
+    sr_el: šah
     su: catur
     sv: schack
     sw: sataranji
@@ -443,7 +443,7 @@ dv_has_:
     tok: musi pi jan lawa moli
     tr: satranç
     tt: шахмат
-    tt-cyrl: шаһмат
+    tt_cyrl: шаһмат
     uk: шахи
     ur: شطرنج
     uz: shaxmat
@@ -462,13 +462,13 @@ dv_has_:
     yue: 國際象棋
     za: geizciengh gozci
     zh: 國際象棋
-    zh-cn: 国际象棋
-    zh-hans: 国际象棋
-    zh-hant: 國際象棋
-    zh-hk: 國際象棋
-    zh-mo: 國際象棋
-    zh-sg: 国际象棋
-    zh-tw: 西洋棋
+    zh_cn: 国际象棋
+    zh_hans: 国际象棋
+    zh_hant: 國際象棋
+    zh_hk: 國際象棋
+    zh_mo: 國際象棋
+    zh_sg: 国际象棋
+    zh_tw: 西洋棋
     zu: uthimba
 ---
 # [[Chess]] 

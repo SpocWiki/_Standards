@@ -149,7 +149,7 @@ dv_has_:
     az: Amerisium
     ban: Amérisium
     be: Амерыцый
-    be-tarask: амэрыц
+    be_tarask: амэрыц
     bg: америций
     bho: अमेरिसियम
     bn: অ্যামারিসিয়াম
@@ -168,7 +168,7 @@ dv_has_:
     de: Americium
     el: αμερίκιο
     en: americium
-    en-gb: americium
+    en_gb: americium
     eo: americio
     es: americio
     et: ameriitsium
@@ -242,7 +242,7 @@ dv_has_:
     pnb: امریکیم
     ps: امېرېسيوم
     pt: amerício
-    pt-br: amerício
+    pt_br: amerício
     qu: Amerisyu
     ro: americiu
     ru: америций
@@ -257,7 +257,7 @@ dv_has_:
     sl: americij
     sq: americi
     sr: америцијум
-    sr-ec: Америцијум
+    sr_ec: Америцијум
     stq: Americium
     sv: americium
     sw: Ameriki
@@ -282,14 +282,14 @@ dv_has_:
     yo: Amẹrísíọ̀m
     yue: 鋂
     zh: 鎇
-    zh-cn: 镅
-    zh-hans: 镅
-    zh-hant: 鋂
-    zh-hk: 鋂
-    zh-mo: 鋂
+    zh_cn: 镅
+    zh_hans: 镅
+    zh_hant: 鋂
+    zh_hk: 鋂
+    zh_mo: 鋂
     zh-my: 镅
-    zh-sg: 镅
-    zh-tw: 鋂
+    zh_sg: 镅
+    zh_tw: 鋂
     zu: IsAmoshi
   number_of_:
     period: 7

@@ -160,7 +160,7 @@ dv_has_:
     azb: ناسیونالیسم
     ba: Милләтселек
     be: нацыяналізм
-    be-tarask: нацыяналізм
+    be_tarask: нацыяналізм
     bg: национализъм
     bho: नेशनलिज्म
     bn: জাতীয়তাবাদ
@@ -181,8 +181,8 @@ dv_has_:
     el: εθνικισμός
     eml: naziunalîsum
     en: nationalism
-    en-ca: Nationalism
-    en-gb: nationalism
+    en_ca: Nationalism
+    en_gb: nationalism
     eo: naciismo
     es: nacionalismo
     et: rahvuslus
@@ -248,7 +248,7 @@ dv_has_:
     mn: Национализм
     mr: राष्ट्रवाद
     ms: faham kebangsaan
-    ms-arab: ناسيوناليسمى
+    ms_arab: ناسيوناليسمى
     mt: nazzjonaliżmu
     mwl: Nacionalismo
     my: အမျိုးသားရေးဝါဒ
@@ -270,7 +270,7 @@ dv_has_:
     pnb: نیشنلزم
     ps: ولسپالنه
     pt: nacionalismo
-    pt-br: nacionalismo
+    pt_br: nacionalismo
     rm: Naziunalissem
     ro: naționalism
     ru: национализм
@@ -313,14 +313,14 @@ dv_has_:
     yi: נאציאנאליזם
     yue: 民族主義
     zh: 民族主義
-    zh-cn: 民族主义
-    zh-hans: 民族主义
-    zh-hant: 民族主義
-    zh-hk: 民族主義
-    zh-mo: 民族主義
+    zh_cn: 民族主义
+    zh_hans: 民族主义
+    zh_hant: 民族主義
+    zh_hk: 民族主義
+    zh_mo: 民族主義
     zh-my: 民族主義
-    zh-sg: 民族主義
-    zh-tw: 民族主義
+    zh_sg: 民族主義
+    zh_tw: 民族主義
 ---
 # [[Nationalism]] 
 

@@ -242,7 +242,7 @@ dv_has_:
     ban: Dwight D. Eisenhower
     bcl: Dwight D. Eisenhower
     be: Дуайт Дэйвід Эйзенхаўэр
-    be-tarask: Дўайт Дэйвід Эйзэнгаўэр
+    be_tarask: Дўайт Дэйвід Эйзэнгаўэр
     bg: Дуайт Айзенхауер
     bi: Dwight D. Eisenhower
     bn: ডোয়াইট ডি. আইজেনহাওয়ার
@@ -260,12 +260,12 @@ dv_has_:
     cy: Dwight D. Eisenhower
     da: Dwight D. Eisenhower
     de: Dwight D. Eisenhower
-    de-ch: Dwight D. Eisenhower
+    de_ch: Dwight D. Eisenhower
     diq: Dwight Eisenhower
     el: Ντουάιτ Αϊζενχάουερ
     en: Dwight D. Eisenhower
-    en-ca: Dwight D. Eisenhower
-    en-gb: Dwight D. Eisenhower
+    en_ca: Dwight D. Eisenhower
+    en_gb: Dwight D. Eisenhower
     eo: Dwight D. Eisenhower
     es: Dwight D. Eisenhower
     et: Dwight Eisenhower
@@ -342,7 +342,7 @@ dv_has_:
     pnb: ڈیوائٹ ڈی آئزن ہاور
     ps: ډوایټ ډیویډ ایزنهاور
     pt: Dwight D. Eisenhower
-    pt-br: Dwight D. Eisenhower
+    pt_br: Dwight D. Eisenhower
     qu: Dwight Eisenhower
     rm: Dwight D. Eisenhower
     rmf: Dwight D. Eisenhower
@@ -392,8 +392,8 @@ dv_has_:
     yue: 艾森豪威爾
     zea: Dwight D. Eisenhower
     zh: 德怀特·艾森豪威尔
-    zh-hant: 德懷特·艾森豪
-    zh-tw: 德懷特·艾森豪
+    zh_hant: 德懷特·艾森豪
+    zh_tw: 德懷特·艾森豪
   time_:
     started: 1890-10-14T00:00:00.000+00:53
     stopped: 1969-03-28T00:00:00.000+01:00

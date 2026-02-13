@@ -101,7 +101,7 @@ dv_has_:
     ast: zusmiu de naranxa
     ba: әфлисун һуты
     be: апельсінавы сок
-    be-tarask: апэльсінавы сок
+    be_tarask: апэльсінавы сок
     bg: портокалов сок
     bo: ཚ་ལུ་མའི་ཁུ་བ།
     br: chug orañjez
@@ -136,7 +136,7 @@ dv_has_:
     mk: сок од портокал
     my: လိမ္မော်ရည်
     nb: appelsinjuice
-    nds-nl: sjuderaans
+    nds_nl: sjuderaans
     nl: sinaasappelsap
     oc: jus d'arange
     pa: ਸੰਤਰੇ ਦਾ ਰਸ
@@ -162,11 +162,11 @@ dv_has_:
     yue: 橙汁
     zh: 橙汁
     zh-cn: 橙汁
-    zh-hans: 橙汁
-    zh-hant: 柳橙汁
-    zh-hk: 橙汁
-    zh-sg: 橙汁
-    zh-tw: 柳橙汁
+    zh_hans: 橙汁
+    zh_hant: 柳橙汁
+    zh_hk: 橙汁
+    zh_sg: 橙汁
+    zh_tw: 柳橙汁
 ---
 # [[Orange_juice]]
 

@@ -68,7 +68,7 @@ dv_has_:
     ar: آلة موسيقية إلكترونية
     ast: instrumentu musical electrónicu
     be: электронны музычны інструмент
-    be-tarask: электронны музычны інструмэнт
+    be_tarask: электронны музычны інструмэнт
     ca: Instrument musical electrònic
     cs: elektronický hudební nástroj
     cy: offeryn cerdd electronig
@@ -94,7 +94,7 @@ dv_has_:
     lt: elektroninis muzikos instrumentas
     mk: електронски музички инструмент
     ms: alat muzik elektronik
-    ms-arab: الت موزيک ايليکترونيک
+    ms_arab: الت موزيک ايليکترونيک
     nb: elektronisk musikkinstrument
     nl: elektronisch muziekinstrument
     nn: elektronisk musikkinstrument
@@ -112,8 +112,8 @@ dv_has_:
     wuu: 电子乐器
     yue: 電子樂器
     zh: 電子樂器
-    zh-hant: 電子樂器
-    zh-tw: 電子樂器
+    zh_hant: 電子樂器
+    zh_tw: 電子樂器
 ---
 # [[Electronic_Musical_Instrument]] 
 

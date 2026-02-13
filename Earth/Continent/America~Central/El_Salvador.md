@@ -425,7 +425,7 @@ dv_has_:
   name_:
     ace: Èl Salvador
     ady: Салвадор
-    aeb-arab: السلڥادور
+    aeb_arab: السلڥادور
     af: El Salvador
     am: ኤል ሳልቫዶር
     ami: El salvador
@@ -446,7 +446,7 @@ dv_has_:
     bbc: El Salvador
     bcl: El Salvador
     be: Сальвадор
-    be-tarask: Сальвадор
+    be_tarask: Сальвадор
     bew: Salbador
     bg: Салвадор
     bho: एल सल्वाडोर
@@ -459,14 +459,14 @@ dv_has_:
     bs: El Salvador
     bxr: Сальвадор
     ca: El Salvador
-    cbk-zam: El Salvador
+    cbk_zam: El Salvador
     cdo: El Salvador
     ce: Сальвадор
     ceb: El Salvador
     chy: El Salvador
     ckb: ئێلسالڤادۆر
     crh: El Salvador
-    crh-latn: El Salvador
+    crh_latn: El Salvador
     cs: Salvador
     csb: Salwadór
     cy: El Salfador
@@ -474,7 +474,7 @@ dv_has_:
     dag: El Salvador
     de: El Salvador
     de-at: El Salvador
-    de-ch: El Salvador
+    de_ch: El Salvador
     diq: El Salvador
     dsb: El Salvador
     dty: एल साल्भादोर
@@ -482,8 +482,8 @@ dv_has_:
     ee: El Salvador
     el: Ελ Σαλβαδόρ
     en: El Salvador
-    en-ca: El Salvador
-    en-gb: El Salvador
+    en_ca: El Salvador
+    en_gb: El Salvador
     en-us: El Salvador
     eo: Salvadoro
     es: El Salvador
@@ -507,7 +507,7 @@ dv_has_:
     gn: Salvador
     gom: अल साल्वाडोर
     gom-deva: अल साल्वाडोर
-    gom-latn: El Salvador
+    gom_latn: El Salvador
     gpe: El Salvador
     gsw: El Salvador
     gu: અલ સાલ્વાડોર
@@ -564,7 +564,7 @@ dv_has_:
     lv: Salvadora
     lzh: 薩爾瓦多
     mad: El Salvador
-    map-bms: El Salvador
+    map_bms: El Salvador
     mdf: Сальвадор
     mg: Salvador
     mhr: Сальвадор
@@ -577,7 +577,7 @@ dv_has_:
     mr: एल साल्व्हाडोर
     mrj: Сальвадор
     ms: El Salvador
-    ms-arab: ايل سلۏادور
+    ms_arab: ايل سلۏادور
     mt: El Salvador
     mwl: L Salbador
     my: အယ်ဆာဗေဒိုနိုင်ငံ
@@ -589,7 +589,7 @@ dv_has_:
     nap: El Salvador
     nb: El Salvador
     nds: El Salvador
-    nds-nl: El Salvador
+    nds_nl: El Salvador
     ne: एल साल्भादोर
     new: एल साल्भादोर
     nl: El Salvador
@@ -611,7 +611,7 @@ dv_has_:
     pnb: ال سالواڈور
     ps: اېلسلوادور
     pt: El Salvador
-    pt-br: El Salvador
+    pt_br: El Salvador
     qu: Salwadur
     rmy: El Salvador
     ro: El Salvador
@@ -641,8 +641,8 @@ dv_has_:
     so: El Salfador
     sq: Salvadori
     sr: Салвадор
-    sr-ec: Салвадор
-    sr-el: Salvador
+    sr_ec: Салвадор
+    sr_el: Salvador
     ss: ISalivado
     su: Él Salvador
     sv: El Salvador
@@ -684,10 +684,10 @@ dv_has_:
     zea: El Salvador
     zgh: ⵙⴰⵍⴼⴰⴷⵓⵔ
     zh: 薩爾瓦多
-    zh-cn: 萨尔瓦多
-    zh-hans: 萨尔瓦多
-    zh-hant: 薩爾瓦多
-    zh-tw: 薩爾瓦多
+    zh_cn: 萨尔瓦多
+    zh_hans: 萨尔瓦多
+    zh_hant: 薩爾瓦多
+    zh_tw: 薩爾瓦多
     zu: i-El Salvador
   url_for_:
     code_repository: https://github.com/SpocWiki/America-El_Salvador

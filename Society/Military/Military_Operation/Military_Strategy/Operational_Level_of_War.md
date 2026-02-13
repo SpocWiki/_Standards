@@ -44,7 +44,7 @@ dv_has_:
   name_:
     ar: المستوى التشغيلي للحرب
     be: Аператыўнае мастацтва
-    be-tarask: Апэратыўнае мастацтва
+    be_tarask: Апэратыўнае мастацтва
     bg: Оперативно изкуство
     bn: যুদ্ধের অভিযানমূলক স্তর
     ca: nivell operatiu de guerra
@@ -78,7 +78,7 @@ dv_has_:
     uk: Оперативне мистецтво
     vi: nghệ thuật chiến dịch
     zh: 军事作战
-    zh-hans: 战役层面
+    zh_hans: 战役层面
 ---
 # [[Operational_Level_of_War]] 
 

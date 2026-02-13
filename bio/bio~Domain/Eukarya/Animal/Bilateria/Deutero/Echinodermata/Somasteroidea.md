@@ -46,8 +46,8 @@ dv_has_:
     vi: Somasteroidea
     war: Somasteroidea
     zh: 体海星亚纲
-    zh-cn: 体海星亚纲
-    zh-hans: 体海星亚纲
+    zh_cn: 体海星亚纲
+    zh_hans: 体海星亚纲
 ---
 # [[Somasteroidea]]
 

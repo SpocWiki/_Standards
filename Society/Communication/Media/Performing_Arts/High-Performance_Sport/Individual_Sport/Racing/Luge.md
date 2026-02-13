@@ -73,7 +73,7 @@ dv_has_:
     ast: luge
     ba: Сана спорты
     be: санны спорт
-    be-tarask: санны спорт
+    be_tarask: санны спорт
     bg: Спортни шейни
     ca: luge
     cs: saně
@@ -82,8 +82,8 @@ dv_has_:
     de: Rennrodeln
     el: Λουτζ
     en: luge
-    en-ca: Luge
-    en-gb: luge
+    en_ca: Luge
+    en_gb: luge
     eo: sledado
     es: luge
     et: Kelgutamine
@@ -113,32 +113,32 @@ dv_has_:
     oc: Lièja
     pl: saneczkarstwo
     pt: luge
-    pt-br: Luge
+    pt_br: Luge
     ro: sanie
     ru: санный спорт
     sl: športno sankanje
     sr: санкање
-    sr-ec: санкање
-    sr-el: sankanje
+    sr_ec: санкање
+    sr_el: sankanje
     sv: rodel
     ta: லூஜ்
     tg: Варзиши чанасаворӣ
     tl: Luge
     tr: Kızak
     tt: чана спорты
-    tt-cyrl: чана спорты
+    tt_cyrl: чана спорты
     uk: санний спорт
     uz: Chana sporti
     vi: Trượt băng nằm ngửa
     wuu: 无舵雪橇
     yue: 短雪橇
     zh: 無舵雪橇
-    zh-cn: 无舵雪橇
-    zh-hans: 无舵雪橇
-    zh-hant: 無舵雪橇
-    zh-hk: 無舵雪橇
-    zh-sg: 无舵雪橇
-    zh-tw: 無舵雪橇
+    zh_cn: 无舵雪橇
+    zh_hans: 无舵雪橇
+    zh_hant: 無舵雪橇
+    zh_hk: 無舵雪橇
+    zh_sg: 无舵雪橇
+    zh_tw: 無舵雪橇
 ---
 # [[Luge]] 
 

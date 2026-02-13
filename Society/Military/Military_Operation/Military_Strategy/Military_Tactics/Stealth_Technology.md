@@ -54,7 +54,7 @@ dv_has_:
     ast: teunoloxía furtiva
     az: stels texnologiyası
     be: Стэлс
-    be-tarask: стэлт
+    be_tarask: стэлт
     bg: Стелт технология
     bn: স্টেলথ প্রযুক্তি
     ca: tecnologia furtiva
@@ -101,12 +101,12 @@ dv_has_:
     vi: công nghệ tàng hình
     yue: 隱形技術
     zh: 低可偵測性技術
-    zh-cn: 低可侦测性技术
-    zh-hans: 低可侦测性技术
-    zh-hant: 低可偵測性技術
-    zh-hk: 低可偵測性技術
-    zh-sg: 低可侦测性技术
-    zh-tw: 低可偵測性技術
+    zh_cn: 低可侦测性技术
+    zh_hans: 低可侦测性技术
+    zh_hant: 低可偵測性技術
+    zh_hk: 低可偵測性技術
+    zh_sg: 低可侦测性技术
+    zh_tw: 低可偵測性技術
 ---
 # [[Stealth_Technology]] 
 

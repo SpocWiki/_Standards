@@ -78,7 +78,7 @@ dv_has_:
     ast: tipu de software
     azb: یازیلیم بؤلمهلری
     be: тып праграмнага забеспячэння
-    be-tarask: тып праграмнага забесьпячэньня
+    be_tarask: тып праграмнага забесьпячэньня
     bn: সফটওয়্যার বিষয়শ্রেণী
     br: seurt meziant
     bs: vrsta softvera
@@ -90,7 +90,7 @@ dv_has_:
     de: Software-Typ
     el: είδος λογισμικού
     en: software category
-    en-gb: software category
+    en_gb: software category
     eo: speco de programaro
     es: tipo de software
     et: tarkvara kategooria
@@ -114,14 +114,14 @@ dv_has_:
     mk: вид програма
     ml: സോഫ്റ്റ്വെയർ വിഭാഗങ്ങൾ
     ms: kategori perisian
-    ms-arab: کاتݢوري ڤرايسين
+    ms_arab: کاتݢوري ڤرايسين
     nb: programvaretype
     nl: soort software
     nn: programvaretype
     nqo: ߛߎ߲ߝߘߍ ߦߌߟߡߊ
     pl: rodzaj oprogramowania
     pt: tipo de software
-    pt-br: tipo de software
+    pt_br: tipo de software
     ro: categorie de logicial
     ru: тип программного обеспечения
     sco: teep o saftware
@@ -131,7 +131,7 @@ dv_has_:
     sv: typ av datorprogram
     ta: மென்பொருள் வகைமை
     tg: навъи барнома
-    tg-cyrl: навъи нармафзор
+    tg_cyrl: навъи нармафзор
     th: ประเภทของซอฟต์แวร์
     tr: yazılım türü
     uk: тип програмного забезпечення
@@ -139,10 +139,10 @@ dv_has_:
     vec: tipo de software
     vi: thể loại phần mềm
     zh: 軟件類型
-    zh-cn: 软件类型
-    zh-hans: 软件类型
-    zh-hant: 軟體類型
-    zh-tw: 軟體分類
+    zh_cn: 软件类型
+    zh_hans: 软件类型
+    zh_hant: 軟體類型
+    zh_tw: 軟體分類
 ---
 # [[Software_Category]] 
 

@@ -143,7 +143,7 @@ dv_has_:
     az: Milton Fridmen
     azb: میلتون فریدمن
     be: Мілтан Фрыдман
-    be-tarask: Мілтан Фрыдман
+    be_tarask: Мілтан Фрыдман
     bg: Милтън Фридман
     bn: মিল্টন ফ্রিড্ম্যান
     bs: Milton Friedman
@@ -212,7 +212,7 @@ dv_has_:
     pnb: ملٹن فریڈمین
     ps: مېلټون فرايډمېن
     pt: Milton Friedman
-    pt-br: Milton Friedman
+    pt_br: Milton Friedman
     ro: Milton Friedman
     ru: Милтон Фридман
     sah: Милтон Фридман
@@ -225,8 +225,8 @@ dv_has_:
     sl: Milton Friedman
     sq: Milton Friedman
     sr: Милтон Фридман
-    sr-ec: Милтон Фридман
-    sr-el: Milton Fridman
+    sr_ec: Милтон Фридман
+    sr_el: Milton Fridman
     sv: Milton Friedman
     ta: மில்ட்டன் ஃப்ரீட்மன்
     te: మిల్టన్ ఫ్రీడ్మన్
@@ -245,8 +245,8 @@ dv_has_:
     yo: Milton Friedman
     yue: 佛利民
     zh: 米爾頓·佛利民
-    zh-cn: 米尔顿·弗里德曼
-    zh-hk: 美頓·佛利民
+    zh_cn: 米尔顿·弗里德曼
+    zh_hk: 美頓·佛利民
 ---
 # [[Friedman,Milton]] 
 

@@ -87,7 +87,7 @@ dv_has_:
     az: Honiara
     ban: Honiara
     be: Ханіяра
-    be-tarask: Ханіяра
+    be_tarask: Ханіяра
     bg: Хониара
     bn: হোনিয়ারা
     bo: ཧོ་ཉི་ཡ་ར།
@@ -176,7 +176,7 @@ dv_has_:
     sn: Honiara
     so: Honiara
     sr: Хонијара
-    sr-ec: Хонијара
+    sr_ec: Хонијара
     sv: Honiara
     sw: Honiara
     szl: Honiara
@@ -201,8 +201,8 @@ dv_has_:
     yo: Honiara
     yue: 康尼艾華
     zh: 霍尼亚拉
-    zh-hans: 霍尼亚拉
-    zh-hant: 荷尼阿拉
+    zh_hans: 霍尼亚拉
+    zh_hant: 荷尼阿拉
     zu: i-Honiara
 ---
 # [[Honiara]] 

@@ -36,7 +36,7 @@ dv_has_:
     ast: Paranthropus
     ba: Парантроп
     be: Парантроп
-    be-tarask: паратрап
+    be_tarask: паратрап
     bg: Paranthropus
     ca: Paranthropus
     ceb: Paranthropus
@@ -88,12 +88,12 @@ dv_has_:
     vi: Paranthropus
     war: Paranthropus
     zh: 傍人属
-    zh-cn: 傍人属
-    zh-hans: 傍人属
-    zh-hant: 傍人
-    zh-hk: 傍人
-    zh-sg: 傍人
-    zh-tw: 傍人屬
+    zh_cn: 傍人属
+    zh_hans: 傍人属
+    zh_hant: 傍人
+    zh_hk: 傍人
+    zh_sg: 傍人
+    zh_tw: 傍人屬
 ---
 # [[Paranthropus]] 
 

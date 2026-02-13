@@ -137,7 +137,7 @@ dv_has_:
     ba: Иртәнге аш
     bcl: Pamahaw
     be: сняданак
-    be-tarask: сьняданак
+    be_tarask: сьняданак
     bg: Закуска
     bjn: Makan baisukan
     bn: প্রাতরাশ
@@ -154,8 +154,8 @@ dv_has_:
     de: Frühstück
     el: Πρωινό
     en: breakfast
-    en-ca: breakfast
-    en-gb: breakfast
+    en_ca: breakfast
+    en_gb: breakfast
     eo: matenmanĝo
     es: desayuno
     et: Hommikusöök
@@ -200,13 +200,13 @@ dv_has_:
     ml: പ്രാതൽ
     mn: Өглөөний унд
     ms: sarapan
-    ms-arab: سارڤن
+    ms_arab: سارڤن
     my: နံနက်စာ
     na: Ijeiji in ijoran
     nan: Chá-tǹg
     nb: frokost
     nds: Fröhstück
-    nds-nl: Mänèten
+    nds_nl: Mänèten
     ne: ब्रेकफास्ट
     nl: ontbijt
     nn: frukost
@@ -215,7 +215,7 @@ dv_has_:
     pl: śniadanie
     pnb: ناشتا
     pt: pequeno-almoço
-    pt-br: desjejum
+    pt_br: desjejum
     ro: mic dejun
     ru: завтрак
     sah: Сарсыардааҥҥы аһылык
@@ -248,14 +248,14 @@ dv_has_:
     yi: פרישטיק
     yue: 早餐
     zh: 早餐
-    zh-cn: 早餐
-    zh-hans: 早餐
-    zh-hant: 早餐
-    zh-hk: 早餐
-    zh-mo: 早餐
+    zh_cn: 早餐
+    zh_hans: 早餐
+    zh_hant: 早餐
+    zh_hk: 早餐
+    zh_mo: 早餐
     zh-my: 早餐
-    zh-sg: 早餐
-    zh-tw: 早餐
+    zh_sg: 早餐
+    zh_tw: 早餐
     zu: Ukudla Kwasekuseni
 ---
 # [[Breakfast]] 

@@ -187,7 +187,7 @@ dv_has_:
     ba: Ваба
     bcl: Kolera
     be: халера
-    be-tarask: халера
+    be_tarask: халера
     bew: Kelèra
     bg: холера
     bn: কলেরা
@@ -208,8 +208,8 @@ dv_has_:
     el: χολέρα
     eml: Coléro
     en: cholera
-    en-ca: Cholera
-    en-gb: cholera
+    en_ca: Cholera
+    en_gb: cholera
     eo: ĥolero
     es: cólera
     et: Koolera
@@ -280,7 +280,7 @@ dv_has_:
     pnb: ہیضہ
     ps: کولرا
     pt: cólera
-    pt-br: cólera
+    pt_br: cólera
     qu: Q'icha unquy
     ro: holeră
     ru: холера
@@ -295,7 +295,7 @@ dv_has_:
     sl: kolera
     sq: Kolera
     sr: колера
-    sr-ec: колера
+    sr_ec: колера
     su: Koléra
     sv: kolera
     sw: Kipindupindu
@@ -320,8 +320,8 @@ dv_has_:
     yue: 霍亂
     za: Binghsiqrueg
     zh: 霍亂
-    zh-hans: 霍乱
-    zh-hant: 霍亂
+    zh_hans: 霍乱
+    zh_hant: 霍亂
     zu: ikholera
 ---
 # [[Cholera]] 

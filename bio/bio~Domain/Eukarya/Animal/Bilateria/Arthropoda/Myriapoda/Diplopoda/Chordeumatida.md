@@ -39,7 +39,7 @@ dv_has_:
     oc: Chordeumatida
     pl: Chordeumatida
     pt: Chordeumatida
-    pt-br: Chordeumatida
+    pt_br: Chordeumatida
     ro: Chordeumatida
     ru: нитеносцы
     sq: Chordeumatida
@@ -50,9 +50,9 @@ dv_has_:
     vo: Chordeumatida
     war: Chordeumatida
     zh: 索马陆目
-    zh-cn: 索马陆目
-    zh-hans: 索马陆目
-    zh-tw: 微型馬陸目
+    zh_cn: 索马陆目
+    zh_hans: 索马陆目
+    zh_tw: 微型馬陸目
 ---
 # [[Chordeumatida]] 
 

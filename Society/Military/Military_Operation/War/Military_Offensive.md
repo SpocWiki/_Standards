@@ -87,7 +87,7 @@ dv_has_:
     ast: ofensiva militar
     az: hərbi hücum
     be: Наступ
-    be-tarask: наступ
+    be_tarask: наступ
     bg: Настъпление
     bn: সামরিক আক্রমণ
     br: argadenn vilourel
@@ -148,8 +148,8 @@ dv_has_:
     vi: tấn công quân sự
     yue: 軍事攻擊
     zh: 军事攻势
-    zh-hans: 军事攻势
-    zh-hant: 軍事攻勢
+    zh_hans: 军事攻势
+    zh_hant: 軍事攻勢
 ---
 # [[Military_Offensive]] 
 

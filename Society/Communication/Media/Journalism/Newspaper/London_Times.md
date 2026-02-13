@@ -122,7 +122,7 @@ dv_has_:
     ru: Таймс
     si: ද ටයිම්ස්
     sr: Тајмс
-    sr-ec: Тајмс
+    sr_ec: Тајмс
     ta: தி டைம்ஸ்
     th: เดอะไทมส์
     uk: Таймс
@@ -131,14 +131,14 @@ dv_has_:
     wuu: 泰晤士报
     yue: 泰晤士報
     zh: 泰晤士报
-    zh-cn: 泰晤士报
-    zh-hans: 泰晤士报
-    zh-hant: 泰晤士報
-    zh-hk: 泰晤士報
-    zh-mo: 泰晤士報
+    zh_cn: 泰晤士报
+    zh_hans: 泰晤士报
+    zh_hant: 泰晤士報
+    zh_hk: 泰晤士報
+    zh_mo: 泰晤士報
     zh-my: 泰晤士报
-    zh-sg: 泰晤士报
-    zh-tw: 泰晤士報
+    zh_sg: 泰晤士报
+    zh_tw: 泰晤士報
 ---
 # [[London_Times]] 
 

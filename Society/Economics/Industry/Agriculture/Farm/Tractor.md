@@ -116,7 +116,7 @@ dv_has_:
     ba: Трактор
     bar: Bulldog
     be: трактар
-    be-tarask: трактар
+    be_tarask: трактар
     bg: Трактор
     bn: ট্রাক্টর
     br: traktor
@@ -184,7 +184,7 @@ dv_has_:
     nah: Tlahuilanoni
     nb: traktor
     nds: Trecker
-    nds-nl: trekker
+    nds_nl: trekker
     ne: ट्रयाक्टर
     nl: tractor
     nn: traktor

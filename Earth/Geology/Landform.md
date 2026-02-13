@@ -134,7 +134,7 @@ dv_has_:
     ba: рельеф формаһы
     bcl: lawas nin daga
     be: форма рэльефу
-    be-tarask: форма рэльефу
+    be_tarask: форма рэльефу
     bg: форма на релефа
     bho: भूमि आकार
     bn: ভূমিরূপ
@@ -144,11 +144,11 @@ dv_has_:
     cy: tirffurf
     da: landskabsform
     de: Landform
-    de-ch: Landform
+    de_ch: Landform
     el: διαμόρφωση εδάφους
     en: landform
-    en-ca: landform
-    en-gb: landform
+    en_ca: landform
+    en_gb: landform
     eo: terformo
     es: accidente geográfico
     et: pinnavorm
@@ -184,7 +184,7 @@ dv_has_:
     mk: земјиштен облик
     ml: ഭൗമോപരിതലം
     ms: bentuk muka bumi
-    ms-arab: بنتوق موک بومي
+    ms_arab: بنتوق موک بومي
     mzn: لندفورم
     nan: tē-hêng
     nb: landform
@@ -196,7 +196,7 @@ dv_has_:
     pa: ਧਰਤਰੂਪ
     pl: forma ukształtowania terenu
     pt: acidente geográfico
-    pt-br: acidente geográfico
+    pt_br: acidente geográfico
     ro: formă de relief
     ru: форма рельефа
     sat: ᱚᱛᱦᱟᱥᱟ ᱞᱮᱠᱟᱱ
@@ -207,8 +207,8 @@ dv_has_:
     sl: reliefna oblika
     sma: laanteguvvie
     sr: облик рељефа
-    sr-ec: облик рељефа
-    sr-el: oblik reljefa
+    sr_ec: облик рељефа
+    sr_el: oblik reljefa
     sv: landform
     ta: நிலவமைப்பு
     tg: шакли релеф
@@ -221,14 +221,14 @@ dv_has_:
     vi: địa mạo
     yue: 地形
     zh: 地形
-    zh-cn: 地形
-    zh-hans: 地形
-    zh-hant: 地形
-    zh-hk: 地形
-    zh-mo: 地形
+    zh_cn: 地形
+    zh_hans: 地形
+    zh_hant: 地形
+    zh_hk: 地形
+    zh_mo: 地形
     zh-my: 地形
-    zh-sg: 地形
-    zh-tw: 地形
+    zh_sg: 地形
+    zh_tw: 地形
   parent_class: '[[../Geography/Place/Administrative_Area/City|City]]'
   properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'
 dv_is_:

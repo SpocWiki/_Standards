@@ -71,7 +71,7 @@ dv_has_:
     ar: كاولين
     ast: caolín
     az: kaolinit
-    be-tarask: каалініт
+    be_tarask: каалініт
     bn: সাদামাটি
     ca: caolinita
     cs: kaolinit
@@ -99,11 +99,11 @@ dv_has_:
     ja: カオリナイト
     kcg: tswuo
     kk: Каолинит
-    kk-arab: كاولىينىيت
+    kk_arab: كاولىينىيت
     kk-cn: كاولىينىيت
-    kk-cyrl: Каолинит
+    kk_cyrl: Каолинит
     kk-kz: Каолинит
-    kk-latn: Kaolïnït
+    kk_latn: Kaolïnït
     kk-tr: Kaolïnït
     kn: ಚೀನೀ ಮಣ್ಣು
     ko: 고령석
@@ -128,8 +128,8 @@ dv_has_:
     sk: Kaolinit
     sl: kaolinit
     sr: каолинит
-    sr-ec: Каолинит
-    sr-el: Kaolinit
+    sr_ec: Каолинит
+    sr_el: Kaolinit
     sv: kaolinit
     ta: வெண்களிமண்
     tr: Kaolinit
@@ -140,12 +140,12 @@ dv_has_:
     wuu: 高岭石
     yue: 高嶺石
     zh: 高嶺石
-    zh-cn: 高岭石
-    zh-hans: 高岭石
-    zh-hant: 高嶺石
-    zh-hk: 高嶺石
-    zh-sg: 高岭石
-    zh-tw: 高嶺石
+    zh_cn: 高岭石
+    zh_hans: 高岭石
+    zh_hant: 高嶺石
+    zh_hk: 高嶺石
+    zh_sg: 高岭石
+    zh_tw: 高嶺石
 dv_is_:
   same_as:
   - '[[../../../WikiData/WD~Kaolinite,223197]]'

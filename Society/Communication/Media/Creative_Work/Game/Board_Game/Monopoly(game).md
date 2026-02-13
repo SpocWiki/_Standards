@@ -103,7 +103,7 @@ dv_has_:
     ast: Monopoly
     az: Monopoliya
     be: Манаполія
-    be-tarask: Манаполія
+    be_tarask: Манаполія
     bg: Монополи
     bn: মনোপলি
     ca: Monopoly
@@ -154,7 +154,7 @@ dv_has_:
     oc: Monopoly
     pl: Monopoly
     pt: Monopoly
-    pt-br: Banco Imobiliário
+    pt_br: Banco Imobiliário
     ro: Monopoly
     ru: Монополия
     scn: Monòpuli
@@ -175,7 +175,7 @@ dv_has_:
     yi: מאנאפאל
     yue: 大富翁
     zh: 地產大亨
-    zh-tw: 大富翁
+    zh_tw: 大富翁
 ---
 # [[Monopoly(game)]] 
 

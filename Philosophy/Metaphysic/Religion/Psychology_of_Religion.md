@@ -77,7 +77,7 @@ dv_has_:
     arz: علم نفس الاديان
     ast: Psicoloxía de la relixón
     az: Din psixologiyası
-    be-tarask: псыхалёгія рэлігіі
+    be_tarask: псыхалёгія рэлігіі
     bg: Психология на религията
     bn: ধর্মের মনস্তত্ব
     ca: psicologia de la religió
@@ -87,8 +87,8 @@ dv_has_:
     de: Religionspsychologie
     el: Ψυχολογία της θρησκείας
     en: psychology of religion
-    en-ca: psychology of religion
-    en-gb: psychology of religion
+    en_ca: psychology of religion
+    en_gb: psychology of religion
     en-us: psychology of religion
     eo: psikologio de la religio
     es: psicología de la religión
@@ -112,13 +112,13 @@ dv_has_:
     lt: religijos psichologija
     lv: reliģijas psiholoģija
     ms: psikologi agama
-    ms-arab: ڤسيکولوݢي اݢام
+    ms_arab: ڤسيکولوݢي اݢام
     mul: psychology of religion
     nb: religionspsykologi
     nl: godsdienstpsychologie
     pl: psychologia religii
     pt: psicologia da religião
-    pt-br: Psicologia da religião
+    pt_br: Psicologia da religião
     ru: психология религии
     sh: Psihologija religije
     sl: psihologija religije
@@ -132,9 +132,9 @@ dv_has_:
     vi: Tâm lý học tôn giáo
     yue: 宗教心理學
     zh: 宗教心理學
-    zh-cn: 宗教心理学
-    zh-hans: 宗教心理学
-    zh-hant: 宗教心理學
+    zh_cn: 宗教心理学
+    zh_hans: 宗教心理学
+    zh_hant: 宗教心理學
 ---
 # [[Psychology_of_Religion]] 
 

@@ -68,7 +68,7 @@ dv_has_:
     ast: Tomás de Torquemada
     ba: Томас де Торквемада
     be: Томас Тарквемада
-    be-tarask: Томас Тарквэмада
+    be_tarask: Томас Тарквэмада
     bg: Томас де Торквемада
     br: Tomás de Torquemada
     bs: Tomás de Torquemada
@@ -108,14 +108,14 @@ dv_has_:
     nn: Tomás de Torquemada
     pl: Tomás de Torquemada
     pt: Tomás de Torquemada
-    pt-br: Tomás de Torquemada
+    pt_br: Tomás de Torquemada
     ro: Tomás de Torquemada
     ru: Томас де Торквемада
     sl: Tomás de Torquemada
     sq: Tomás de Torquemada
     sr: Томас де Торкемада
-    sr-ec: Томас де Торкемада
-    sr-el: Tomas de Torkemada
+    sr_ec: Томас де Торкемада
+    sr_el: Tomas de Torkemada
     sv: Tomás de Torquemada
     tr: Tomás de Torquemada
     uk: Томас Торквемада
@@ -124,12 +124,12 @@ dv_has_:
     war: Tomás de Torquemada
     yue: 托馬斯·德·托爾克馬達
     zh: 托马斯·德·托尔克马达
-    zh-cn: 托马斯·德·托尔克马达
-    zh-hans: 托马斯·德·托尔克马达
-    zh-hant: 托馬斯·德·托爾克馬達
-    zh-hk: 托馬斯·德·托爾克馬達
-    zh-sg: 托马斯·德·托尔克马达
-    zh-tw: 托馬斯·德·托爾克馬達
+    zh_cn: 托马斯·德·托尔克马达
+    zh_hans: 托马斯·德·托尔克马达
+    zh_hant: 托馬斯·德·托爾克馬達
+    zh_hk: 托馬斯·德·托爾克馬達
+    zh_sg: 托马斯·德·托尔克马达
+    zh_tw: 托馬斯·德·托爾克馬達
 ---
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Tomás_de_Torquemada,210735|WD~Tomás_de_Torquemada,210735]]  
 

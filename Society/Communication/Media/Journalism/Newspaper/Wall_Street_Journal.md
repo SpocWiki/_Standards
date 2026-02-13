@@ -118,7 +118,7 @@ dv_has_:
     ast: The Wall Street Journal
     az: Wall Street jurnalı
     be: The Wall Street Journal
-    be-tarask: The Wall Street Journal
+    be_tarask: The Wall Street Journal
     bg: Уолстрийт Джърнъл
     bn: দ্য ওয়াল স্ট্রিট জার্নাল
     bs: The Wall Street Journal
@@ -129,7 +129,7 @@ dv_has_:
     de: The Wall Street Journal
     el: The Wall Street Journal
     en: The Wall Street Journal
-    en-gb: The Wall Street Journal
+    en_gb: The Wall Street Journal
     eo: The Wall Street Journal
     es: The Wall Street Journal
     et: Wall Street Journal
@@ -152,11 +152,11 @@ dv_has_:
     ja: ウォール・ストリート・ジャーナル
     ka: The Wall Street Journal
     kk: The Wall Street Journal
-    kk-arab: The Wall Street Journal
+    kk_arab: The Wall Street Journal
     kk-cn: The Wall Street Journal
-    kk-cyrl: Тһе Уалл Стреет Жоұрнал
+    kk_cyrl: Тһе Уалл Стреет Жоұрнал
     kk-kz: Тһе Уалл Стреет Жоұрнал
-    kk-latn: The Wall Street Journal
+    kk_latn: The Wall Street Journal
     kk-tr: The Wall Street Journal
     ko: 월스트리트 저널
     ko-kp: 월 스트리트 져널
@@ -179,7 +179,7 @@ dv_has_:
     pl: The Wall Street Journal
     pnb: دی وال سٹریٹ جرنل
     pt: The Wall Street Journal
-    pt-br: The Wall Street Journal
+    pt_br: The Wall Street Journal
     ro: The Wall Street Journal
     ru: The Wall Street Journal
     sah: The Wall Street Journal
@@ -196,7 +196,7 @@ dv_has_:
     th: เดอะวอลล์สตรีทเจอร์นัล
     tr: The Wall Street Journal
     tt: The Wall Street Journal
-    tt-cyrl: The Wall Street Journal
+    tt_cyrl: The Wall Street Journal
     ug: ۋالت كوچىسى ژورنلى
     uk: Волл-стріт джорнел
     ur: وال اسٹریٹ جرنل
@@ -206,12 +206,12 @@ dv_has_:
     yi: וואל סטריט זשורנאל
     yue: 華爾街日報
     zh: 华尔街日报
-    zh-cn: 华尔街日报
-    zh-hans: 华尔街日报
-    zh-hant: 華爾街日報
-    zh-hk: 華爾街日報
-    zh-sg: 华尔街日报
-    zh-tw: 華爾街日報
+    zh_cn: 华尔街日报
+    zh_hans: 华尔街日报
+    zh_hant: 華爾街日報
+    zh_hk: 華爾街日報
+    zh_sg: 华尔街日报
+    zh_tw: 華爾街日報
 ---
 #is_/same_as :: [[../../../../../WikiData/WD~The_Wall_Street_Journal,164746|WD~The_Wall_Street_Journal,164746]]  
 

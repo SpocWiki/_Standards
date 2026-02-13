@@ -84,7 +84,7 @@ dv_has_:
     af: Kryt-Paleogeen-uitwissing
     ar: انقراض العصر الطباشيري الباليوجيني
     ast: Estinción masiva del Cretácicu-Paleóxenu
-    be-tarask: крэйдавае вымiраньне
+    be_tarask: крэйдавае вымiраньне
     bg: Масово измиране Креда - Терциер
     bn: ক্রিটেশিয়াস–প্যালিওজিন বিলুপ্তি ঘটনা
     bs: Kredno-paleogensko izumiranje
@@ -95,8 +95,8 @@ dv_has_:
     de: Kreide-Paläogen-Massenaussterben
     el: Συμβάν μαζικής εξαφάνισης της Κρητιδικής-Παλαιογενούς περιόδου
     en: Cretaceous-Paleogene mass extinction
-    en-ca: Cretaceous–Paleogene extinction event
-    en-gb: Cretaceous–Paleogene extinction event
+    en_ca: Cretaceous–Paleogene extinction event
+    en_gb: Cretaceous–Paleogene extinction event
     eo: kretacea-paleogena formortiga evento
     es: extinción masiva del Cretácico-Paleógeno
     eu: Kretazeo-Tertziarioko iraungipen masiboa
@@ -130,7 +130,7 @@ dv_has_:
     pl: wymieranie kredowe
     ps: د کرېټیسوس – پالئوجېن ورکېدو پېښه
     pt: Extinção Cretáceo-Paleogeno
-    pt-br: Extinção Cretáceo-Paleogeno
+    pt_br: Extinção Cretáceo-Paleogeno
     ro: dispariția dinozaurilor
     ru: мел-палеогеновое вымирание
     sh: K-T izumiranje

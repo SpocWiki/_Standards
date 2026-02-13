@@ -92,11 +92,11 @@ dv_has_:
     cy: Prynwriaeth
     da: Forbrugerisme
     de: Konsumismus
-    de-ch: Konsumismus
+    de_ch: Konsumismus
     el: Καταναλωτισμός
     en: consumerism
-    en-ca: consumerism
-    en-gb: consumerism
+    en_ca: consumerism
+    en_gb: consumerism
     eo: konsumismo
     es: consumismo
     et: konsumerism
@@ -132,7 +132,7 @@ dv_has_:
     pl: Konsumpcjonizm
     ps: د مستهلک اصالت
     pt: consumismo
-    pt-br: Consumismo
+    pt_br: Consumismo
     ro: consumerism
     ru: потребительство
     se: konsumerisma

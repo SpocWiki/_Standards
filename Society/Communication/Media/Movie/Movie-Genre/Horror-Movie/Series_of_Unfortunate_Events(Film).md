@@ -12,10 +12,10 @@ dv_has_:
     cy: Lemony Snicket's a Series of Unfortunate Events
     da: Lemony Snicket - En ulykke kommer sjældent alene
     de: Lemony Snicket – Rätselhafte Ereignisse
-    de-ch: Lemony Snicket – Rätselhafte Ereignisse
+    de_ch: Lemony Snicket – Rätselhafte Ereignisse
     en: Lemony Snicket's A Series of Unfortunate Events
-    en-ca: Lemony Snicket's A Series of Unfortunate Events
-    en-gb: Lemony Snicket's A Series of Unfortunate Events
+    en_ca: Lemony Snicket's A Series of Unfortunate Events
+    en_gb: Lemony Snicket's A Series of Unfortunate Events
     es: Lemony Snicket's a series of unfortunate events
     fa: بدبیاریها
     fi: Lemony Snicketin surkeiden sattumuksien sarja
@@ -43,25 +43,25 @@ dv_has_:
     pa: ਲੈਮੋਨੀ ਸਨਕੇਟ ਦੀ ਮੰਦਭਾਗੀ ਘਟਨਾਵਾਂ ਦੀ ਇੱਕ ਲੜੀ
     pl: 'Lemony Snicket: Seria niefortunnych zdarzeń'
     pt: Lemony Snicket's A Series of Unfortunate Events
-    pt-br: Lemony Snicket's A Series of Unfortunate Events
+    pt_br: Lemony Snicket's A Series of Unfortunate Events
     ro: Lemony Snicket - O serie de evenimente nefericite
     ru: 'Лемони Сникет: 33 несчастья'
     sh: Lemony Snicket's A Series of Unfortunate Events
     sq: Lemony Snicket's A Series of Unfortunate Events
     sr: Серија несрећних догађаја Лемонија Сникета
-    sr-ec: Серија несрећних догађаја Лемонија Сникета
-    sr-el: Serija nesrećnih događaja Lemonija Sniketa
+    sr_ec: Серија несрећних догађаја Лемонија Сникета
+    sr_el: Serija nesrećnih događaja Lemonija Sniketa
     sv: Lemony Snickets berättelse om syskonen Baudelaires olycksaliga liv
     th: เลโมนี สนิกเก็ต อยากให้เรื่องนี้ไม่มีโชคร้าย
     tr: Talihsiz Serüvenler Dizisi
     uk: 'Лемоні Снікет: 33 нещастя'
     zh: 雷蒙·斯尼奇的不幸历险
-    zh-cn: 雷蒙·斯尼奇的不幸历险
-    zh-hans: 雷蒙·斯尼奇的不幸历险
-    zh-hant: 波特萊爾的冒險
-    zh-hk: 尼蒙利斯連環不幸事件
-    zh-sg: 波特莱而的冒险
-    zh-tw: 波特萊爾的冒險
+    zh_cn: 雷蒙·斯尼奇的不幸历险
+    zh_hans: 雷蒙·斯尼奇的不幸历险
+    zh_hant: 波特萊爾的冒險
+    zh_hk: 尼蒙利斯連環不幸事件
+    zh_sg: 波特莱而的冒险
+    zh_tw: 波特萊爾的冒險
 aliases:
 - En serie uheldige hendelser
 - Lemonija Sniketa nelaimīgo notikumu virkne

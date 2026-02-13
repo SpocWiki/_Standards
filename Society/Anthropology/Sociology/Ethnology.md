@@ -120,7 +120,7 @@ dv_has_:
     ba: этнология
     bar: Ethnologie
     be: этналогія
-    be-tarask: этналёгія
+    be_tarask: этналёгія
     bg: Етнология
     bn: জাতিবিদ্যা
     bo: མིའི་རིགས་རྒྱུད་རིག་པ།
@@ -200,8 +200,8 @@ dv_has_:
     sms: etnologia
     sq: etnologjia
     sr: етнологија
-    sr-ec: етнологија
-    sr-el: etnologija
+    sr_ec: етнологија
+    sr_el: etnologija
     su: Étnologi
     sv: etnologi
     ta: இன ஒப்பாய்வியல்
@@ -222,9 +222,9 @@ dv_has_:
     yue: 民族學
     zgh: ⵜⴰⵙⵏⴰⵖⵔⴼⵜ
     zh: 民族学
-    zh-hans: 民族学
-    zh-hant: 民族學
-    zh-tw: 民族學
+    zh_hans: 民族学
+    zh_hant: 民族學
+    zh_tw: 民族學
 ---
 # [[Ethnology]] 
 

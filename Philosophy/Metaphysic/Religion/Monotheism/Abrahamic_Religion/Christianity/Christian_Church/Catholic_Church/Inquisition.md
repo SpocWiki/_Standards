@@ -125,7 +125,7 @@ dv_has_:
     ba: Инквизиция
     bar: Inquisition
     be: Святая інквізіцыя
-    be-tarask: Сьвятая інквізыцыя
+    be_tarask: Сьвятая інквізыцыя
     bg: Инквизиция
     bn: ইনকুইজিশন
     br: Ofis santel
@@ -165,7 +165,7 @@ dv_has_:
     kn: ಇನ್ಕ್ವಿಸಿಷನ್
     ko: 종교 재판
     ku: Engîzîsyon
-    ku-latn: Engîzîsyon
+    ku_latn: Engîzîsyon
     ky: Инквизиция
     la: Inquisitio haereticae pravitatis
     lad: Inkisizion

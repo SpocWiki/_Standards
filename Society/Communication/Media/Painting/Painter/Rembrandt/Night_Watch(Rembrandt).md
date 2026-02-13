@@ -142,7 +142,7 @@ dv_has_:
     ast: La ronda de nueche
     az: Gecə gözətçisi
     be: Начны дазор
-    be-tarask: Начная варта
+    be_tarask: Начная варта
     bg: Нощна стража
     bs: Noćna straža
     ca: La ronda de nit
@@ -153,7 +153,7 @@ dv_has_:
     de: Die Nachtwache
     el: Νυχτερινή περίπολος
     en: The Night Watch
-    en-gb: The Night Watch
+    en_gb: The Night Watch
     eo: La noktaj gardistoj
     es: La ronda de noche
     et: Öine vahtkond
@@ -182,32 +182,32 @@ dv_has_:
     no: Nattevakten
     pl: Kompania Fransa Banninga Cocqa i Willema van Ruytenburcha
     pt: A Ronda Nocturna
-    pt-br: A Ronda Noturna
+    pt_br: A Ronda Noturna
     ru: Ночной дозор
     sco: The Nicht Watch
     sh: Noćna straža
     sk: Nočná hliadka
     sl: Nočna straža
     sr: Ноћна стража
-    sr-ec: Ноћна стража
+    sr_ec: Ноћна стража
     sv: Nattvakten
     ta: இரவுக் காவல்
     th: การเฝ้ายามกลางคืน
     tr: Gece Devriyesi
     tt: Төнге күзәтү
-    tt-cyrl: Төнге күзәтү
+    tt_cyrl: Төнге күзәтү
     uk: Нічна варта
     vi: Gác đêm
     war: Magbarantay ha Gab-i
     wuu: 夜巡
     yue: 夜巡
     zh: 夜巡
-    zh-cn: 夜巡
-    zh-hans: 夜巡
-    zh-hant: 夜巡
-    zh-hk: 夜巡
-    zh-sg: 夜巡
-    zh-tw: 夜巡
+    zh_cn: 夜巡
+    zh_hans: 夜巡
+    zh_hant: 夜巡
+    zh_hk: 夜巡
+    zh_sg: 夜巡
+    zh_tw: 夜巡
 ---
 # [[Night_Watch(Rembrandt)]] 
 

@@ -80,7 +80,7 @@ dv_has_:
     ar: استحالة
     ast: metamorfosis
     be: метамарфоз
-    be-tarask: мэтамарфоз
+    be_tarask: мэтамарфоз
     bg: метаморфоза
     bs: metamorfoza
     ca: metamorfosi
@@ -90,7 +90,7 @@ dv_has_:
     da: metamorfose
     de: Metamorphose
     en: metamorphosis
-    en-gb: metamorphosis
+    en_gb: metamorphosis
     en-us: metamorphosis
     eo: metamorfozo
     es: metamorfosis
@@ -137,7 +137,7 @@ dv_has_:
     sh: metamorfoza
     sl: preobrazba
     sr: метаморфоза
-    sr-ec: метаморфоза
+    sr_ec: метаморфоза
     stq: Metamorphose
     su: métamorfosis
     sv: metamorfos
@@ -153,7 +153,7 @@ dv_has_:
     wuu: 变态 (生物)
     yue: 變態 (生物)
     zh: 变态
-    zh-hant: 變態
+    zh_hant: 變態
 ---
 # [[Metamorphosis]] 
 

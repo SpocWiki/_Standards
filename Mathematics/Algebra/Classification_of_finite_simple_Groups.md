@@ -48,14 +48,14 @@ dv_has_:
   name_:
     ar: تصنيف الزمر المنتهية البسيطة
     ast: Teorema de clasificación de grupos simples
-    be-tarask: клясыфікацыя простых канчатковых групаў
+    be_tarask: клясыфікацыя простых канчатковых групаў
     ca: teorema de classificació de grups simples finits
     cs: klasifikace jednoduchých konečných grup
     de: Klassifikationssatz der endlichen einfachen Gruppen
     el: Ταξινόμηση πεπερασμένων απλών ομάδων
     en: classification of finite simple groups
-    en-ca: Classification of finite simple groups
-    en-gb: Classification of finite simple groups
+    en_ca: Classification of finite simple groups
+    en_gb: Classification of finite simple groups
     eo: klasifiko de finiaj simplaj grupoj
     es: Teorema de clasificación de grupos simples
     eu: Talde sinple finitoen sailkapena
@@ -70,7 +70,7 @@ dv_has_:
     nl: classificatie van eindige enkelvoudige groepen
     pl: Klasyfikacja skończonych grup prostych
     pt: classificação dos grupos simples finitos
-    pt-br: Classificação dos grupos simples finitos
+    pt_br: Classificação dos grupos simples finitos
     ro: clasificarea grupurilor simple finite
     ru: Классификация простых конечных групп
     sl: klasifikacija finitnih enostavnih grup

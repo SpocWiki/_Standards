@@ -325,7 +325,7 @@ dv_has_:
     bar: Persisch
     bcl: Tataramon na Persiano
     be: персідская мова
-    be-tarask: пэрсыдзкая мова
+    be_tarask: пэрсыдзкая мова
     bew: Basa Parsi
     bg: персийски език
     bho: फ़ारसी भाषा
@@ -356,8 +356,8 @@ dv_has_:
     el: περσικά
     eml: Persiàṅ
     en: Persian
-    en-ca: Persian
-    en-gb: Farsi
+    en_ca: Persian
+    en_gb: Farsi
     en-us: Persian
     eo: persa lingvo
     es: persa
@@ -420,7 +420,7 @@ dv_has_:
     krc: Фарси
     ks: فارسی زَبان
     ku: zimanê farisî
-    ku-latn: zimanê farisî
+    ku_latn: zimanê farisî
     kv: фарси
     kw: Persek
     ky: Фарс тили
@@ -526,7 +526,7 @@ dv_has_:
     tpi: Tokples Pesia
     tr: Farsça
     tt: фарсы теле
-    tt-cyrl: фарсы теле
+    tt_cyrl: фарсы теле
     udm: перс кыл
     ug: پارس تىلى
     uk: перська мова
@@ -547,10 +547,10 @@ dv_has_:
     za: Vah Bohsih
     zea: Perzisch
     zh: 波斯語
-    zh-cn: 波斯语
-    zh-hant: 波斯語
-    zh-hk: 波斯語
-    zh-tw: 波斯語
+    zh_cn: 波斯语
+    zh_hant: 波斯語
+    zh_hk: 波斯語
+    zh_tw: 波斯語
     zu: IsiPheresiya
 ---
 # [[Lang-fas]] 

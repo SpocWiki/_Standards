@@ -48,13 +48,13 @@ dv_has_:
   name_:
     ar: مغالطة غير رسمية
     ban: wacana sané nénten patut ring niskala
-    be-tarask: нефармальная памылка
+    be_tarask: нефармальная памылка
     bs: neformalna logička greška
     ca: fal·làcia informal
     da: uformel fejlslutning
     de: informeller Trugschluss
     en: informal fallacy
-    en-gb: informal fallacy
+    en_gb: informal fallacy
     eo: neformala logika trompo
     es: Falacia informal
     fa: مغالطه غیرصوری
@@ -81,9 +81,9 @@ dv_has_:
     uk: неформальна помилка
     vec: fałasa informałe
     zh: 非形式謬誤
-    zh-hans: 非形式谬误
-    zh-hant: 非形式謬誤
-    zh-hk: 非形式謬誤
+    zh_hans: 非形式谬误
+    zh_hant: 非形式謬誤
+    zh_hk: 非形式謬誤
 ---
 # [[Informal_Fallacy]] 
 

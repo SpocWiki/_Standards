@@ -64,15 +64,15 @@ dv_has_:
     nl: waterstofbrosheid
     pl: Kruchość wodorowa
     pt: Fragilização por hidrogénio
-    pt-br: Fragilização por hidrogênio
+    pt_br: Fragilização por hidrogênio
     ro: fragilizare prin hidrogen
     ru: Водородное охрупчивание
     sv: Väteförsprödning
     uk: Воднева крихкість
     zh: 氢脆
-    zh-hans: 氢脆
-    zh-hant: 氫脆
-    zh-hk: 氫脆
+    zh_hans: 氢脆
+    zh_hant: 氫脆
+    zh_hk: 氫脆
 ---
 ## #has_/text_of_/abstract 
 

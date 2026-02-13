@@ -92,7 +92,7 @@ dv_has_:
     ar: تاريخ الشرق الأوسط
     ast: Historia d'Oriente Próximu
     ba: Урта Көнсығыш тарихы
-    be-tarask: гісторыя Блізкага Ўсходу
+    be_tarask: гісторыя Блізкага Ўсходу
     bg: История на Близкия изток
     bn: মধ্যপ্রাচ্যের ইতিহাস
     ca: història del Pròxim Orient
@@ -101,8 +101,8 @@ dv_has_:
     cy: Hanes y Dwyrain Canol
     de: Geschichte des Nahen Ostens
     en: history of the Middle East
-    en-ca: history of the Middle East
-    en-gb: history of the Middle East
+    en_ca: history of the Middle East
+    en_gb: history of the Middle East
     eo: Historio de Okcidenta Azio
     es: historia de Oriente Próximo
     et: Lähis-Ida ajalugu
@@ -129,7 +129,7 @@ dv_has_:
     pnb: مشرق وسطا دی تریخ
     ps: د منځني ختيځ تاريخ
     pt: história do Oriente Médio
-    pt-br: história do Oriente Médio
+    pt_br: história do Oriente Médio
     ro: Istoria Orientului Mijlociu
     ru: история Ближнего Востока
     sl: zgodovina Bližnjega vzoda
@@ -140,9 +140,9 @@ dv_has_:
     ur: مشرق وسطی کی تاریخ
     vi: Lịch sử Trung Đông
     zh: 中東歷史
-    zh-hant: 中東歷史
-    zh-hk: 中東歷史
-    zh-tw: 中東歷史
+    zh_hant: 中東歷史
+    zh_hk: 中東歷史
+    zh_tw: 中東歷史
 ---
 # [[History_of_the_Middle_East]] 
 

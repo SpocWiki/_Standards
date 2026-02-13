@@ -29,7 +29,7 @@ part_of: '[[_Standards/WikiData/WD~wishful_thinking,8154361]]'
 dv_has_:
   name_:
     ar: توسل بالنتيجة
-    be-tarask: зварот да наступстваў
+    be_tarask: зварот да наступстваў
     bg: позоваване на последствия
     br: Argumentum ad consequentiam
     ca: apel·lació a les conseqüències
@@ -56,9 +56,9 @@ dv_has_:
     uk: звернення до наслідків
     vi: Vin vào hệ quả
     zh: 訴諸後果
-    zh-hans: 诉诸后果
-    zh-hant: 訴諸後果
-    zh-hk: 訴諸後果
+    zh_hans: 诉诸后果
+    zh_hant: 訴諸後果
+    zh_hk: 訴諸後果
 ---
 # [[Appeal_to_Consequences]] 
 

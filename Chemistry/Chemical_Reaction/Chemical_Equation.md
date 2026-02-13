@@ -111,7 +111,7 @@ dv_has_:
     ast: Ecuación química
     ba: Химик тигеҙләмә
     be: Хімічнае раўнанне
-    be-tarask: хімічнае раўнаньне
+    be_tarask: хімічнае раўнаньне
     bg: химично уравнение
     bn: রাসায়নিক সমীকরণ
     bs: Hemijska jednačina
@@ -145,14 +145,14 @@ dv_has_:
     ja: 化学反応式
     kab: Tagda takrurant
     kk: Химиялық теңдеулер
-    kk-arab: حىيمىييالىق تەڭدەۋلەر
+    kk_arab: حىيمىييالىق تەڭدەۋلەر
     kk-cn: حىيمىييالىق تەڭدەۋلەر
-    kk-cyrl: Химиялық теңдеулер
+    kk_cyrl: Химиялық теңдеулер
     kk-kz: Химиялық теңдеулер
-    kk-latn: Xïmïyalıq teñdewler
+    kk_latn: Xïmïyalıq teñdewler
     kk-tr: Xïmïyalıq teñdewler
     ko: 화학반응식
-    ku-latn: hevkêşa kîmyayî
+    ku_latn: hevkêşa kîmyayî
     ky: Химиялык теңдемелер
     ln: Mokokano
     mag: रासायनिक समीकरण
@@ -173,8 +173,8 @@ dv_has_:
     sk: Chemická rovnica
     sl: kemijska enačba
     sr: хемијска једначина
-    sr-ec: хемијске једначине
-    sr-el: Hemijske jednačine
+    sr_ec: хемијске једначине
+    sr_el: Hemijske jednačine
     sv: Reaktionsformel
     ta: வேதியியற் சமன்பாடு
     te: రసాయన సమీకరణాలు
@@ -189,12 +189,12 @@ dv_has_:
     wuu: 化学方程式
     yue: 化學方程式
     zh: 化学方程式
-    zh-cn: 化学方程式
-    zh-hans: 化学方程式
-    zh-hant: 化學方程式
-    zh-hk: 化學方程式
-    zh-sg: 化学方程式
-    zh-tw: 化學方程式
+    zh_cn: 化学方程式
+    zh_hans: 化学方程式
+    zh_hant: 化學方程式
+    zh_hk: 化學方程式
+    zh_sg: 化学方程式
+    zh_tw: 化學方程式
 ---
 # [[Chemical_Equation]] 
 

@@ -58,7 +58,7 @@ dv_has_:
     oc: Plasmodium malariae
     pl: zarodziec pasmowy
     pt: Plasmodium malariae
-    pt-br: Plasmodium malariae
+    pt_br: Plasmodium malariae
     ro: Plasmodium malariae
     ru: Plasmodium malariae
     sl: Plasmodium malariae
@@ -70,9 +70,9 @@ dv_has_:
     vo: Plasmodium malariae
     war: Plasmodium malariae
     zh: 三日瘧
-    zh-cn: 三日疟原虫
-    zh-hans: 三日疟原虫
-    zh-hant: 三日瘧原蟲
+    zh_cn: 三日疟原虫
+    zh_hans: 三日疟原虫
+    zh_hant: 三日瘧原蟲
 aliases:
 - plasmodi de la malària
 - Plasmodium malariae

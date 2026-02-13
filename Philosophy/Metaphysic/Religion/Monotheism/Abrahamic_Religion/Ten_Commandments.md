@@ -172,7 +172,7 @@ dv_has_:
     ba: 10 шарт
     bcl: An Sampolong Togon nin Diyos
     be: Дзесяць запаведзяў
-    be-tarask: Дзесяць прыказаньняў
+    be_tarask: Дзесяць прыказаньняў
     bg: Десетте Божи заповеди
     bn: দশ প্রত্যাদেশ
     br: Gourc'hemennoù Doue

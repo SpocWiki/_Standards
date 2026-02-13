@@ -79,7 +79,7 @@ dv_has_:
     ar: خجل
     ast: Cobardura
     az: Utancaqlıq
-    be-tarask: сарамлівасьць
+    be_tarask: сарамлівасьць
     bg: Притеснителност
     bn: লাজুকতা
     ca: timidesa
@@ -126,7 +126,7 @@ dv_has_:
     sl: sramežljivost
     sq: Turpësia
     sr: стидљивост
-    sr-ec: стидљивост
+    sr_ec: стидљивост
     sv: blyghet
     ta: வெட்கம்
     te: సిగ్గు

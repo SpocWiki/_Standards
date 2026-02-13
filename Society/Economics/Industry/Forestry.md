@@ -151,7 +151,7 @@ dv_has_:
     ba: урман хужалығы
     bcl: Siyensyang pangkadlagan
     be: лесаводства
-    be-tarask: лесаводзтва
+    be_tarask: лесаводзтва
     bg: Лесовъдство
     bho: फारेस्ट्री
     bn: বনবিজ্ঞান
@@ -197,7 +197,7 @@ dv_has_:
     mk: шумарство
     mn: Ойн аж ахуй
     ms: perhutanan
-    ms-arab: ڤرهوتنن
+    ms_arab: ڤرهوتنن
     my: သစ်လုပ်ငန်း
     myv: вирде тонавтома
     nb: skogbruk
@@ -208,7 +208,7 @@ dv_has_:
     pl: leśnictwo
     ps: ځنګلپوهنه
     pt: engenharia florestal
-    pt-br: engenharia florestal
+    pt_br: engenharia florestal
     qu: Sach'a kamay
     ro: Silvicultură
     ru: лесное хозяйство
@@ -237,8 +237,8 @@ dv_has_:
     yue: 林業
     za: linzyez
     zh: 林业
-    zh-hant: 林業
-    zh-tw: 林業
+    zh_hant: 林業
+    zh_tw: 林業
 ---
 # [[Forestry]] 
 

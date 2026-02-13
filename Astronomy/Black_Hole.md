@@ -261,7 +261,7 @@ dv_has_:
     bbc: lubang birong sipabalga
     bcl: itom na labot
     be: чорная дзірка
-    be-tarask: чорная дзірка
+    be_tarask: чорная дзірка
     bew: lobang item
     bg: черна дупка
     bho: ब्लैक होल
@@ -286,8 +286,8 @@ dv_has_:
     el: μαύρη τρύπα
     eml: buś négar
     en: black hole
-    en-ca: black hole
-    en-gb: black hole
+    en_ca: black hole
+    en_gb: black hole
     eo: nigra truo
     es: agujero negro
     et: must auk
@@ -366,7 +366,7 @@ dv_has_:
     mnw: ကတိုၚ်လမ္စံက်
     mr: कृष्णविवर
     ms: lohong hitam
-    ms-arab: لوهوڠ هيتم
+    ms_arab: لوهوڠ هيتم
     mt: toqba sewda
     my: တွင်းနက်
     nan: o͘-khang
@@ -389,7 +389,7 @@ dv_has_:
     pnb: کالا سوراخ
     ps: تور غار
     pt: buraco negro
-    pt-br: buraco negro
+    pt_br: buraco negro
     qu: yana huchk'u
     rki: တွင်းနက်
     ro: gaură neagră
@@ -410,8 +410,8 @@ dv_has_:
     smn: čapis räigi
     sq: vrima e zezë
     sr: црна рупа
-    sr-ec: црна рупа
-    sr-el: crna rupa
+    sr_ec: црна рупа
+    sr_el: crna rupa
     su: liang hideung
     sv: svart hål
     sw: shimo jeusi
@@ -442,14 +442,14 @@ dv_has_:
     yue: 黑洞
     za: hwzdung
     zh: 黑洞
-    zh-cn: 黑洞
-    zh-hans: 黑洞
-    zh-hant: 黑洞
-    zh-hk: 黑洞
-    zh-mo: 黑洞
+    zh_cn: 黑洞
+    zh_hans: 黑洞
+    zh_hant: 黑洞
+    zh_hk: 黑洞
+    zh_mo: 黑洞
     zh-my: 黑洞
-    zh-sg: 黑洞
-    zh-tw: 黑洞
+    zh_sg: 黑洞
+    zh_tw: 黑洞
     zu: isiGwinqa
 ---
 # [[Black_Hole]] 

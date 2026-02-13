@@ -147,7 +147,7 @@ dv_has_:
     azb: سلولز
     ba: Целлюлоза
     be: цэлюлоза
-    be-tarask: цэлюлёза
+    be_tarask: цэлюлёза
     bg: Целулоза
     bn: সেলুলোজ
     br: Keluloz

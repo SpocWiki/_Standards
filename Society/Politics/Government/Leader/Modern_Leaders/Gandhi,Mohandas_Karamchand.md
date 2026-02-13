@@ -275,7 +275,7 @@ dv_has_:
     bar: Mahatma Gandhi
     bcl: Mohandas Karamchand Gandhi
     be: Махатма Гандзі
-    be-tarask: Магатма Гандзі
+    be_tarask: Магатма Гандзі
     bg: Махатма Ганди
     bho: महात्मा गाँधी
     bjn: Mahatma Gandhi
@@ -300,7 +300,7 @@ dv_has_:
     dag: Mahatma Gandhi
     de: Mohandas Karamchand Gandhi
     de-at: Mahatma Gandhi
-    de-ch: Mohandas Karamchand Gandhi
+    de_ch: Mohandas Karamchand Gandhi
     diq: Mahatma Gandi
     dsb: Mahatma Gandhi
     dtp: Mahatma Gandhi
@@ -308,8 +308,8 @@ dv_has_:
     dv: މަހާއްތްމާ ގާންދީހ
     el: Μαχάτμα Γκάντι
     en: Mahatma Gandhi
-    en-ca: Mohandas Karamchand Gandhi
-    en-gb: Mohandas Karamchand Gandhi
+    en_ca: Mohandas Karamchand Gandhi
+    en_gb: Mohandas Karamchand Gandhi
     en-us: Mahatma Gandhi
     eo: Mohandas Karamchand Gandhi
     es: Mahatma Gandhi
@@ -331,7 +331,7 @@ dv_has_:
     gn: Mahatma Gandhi
     gom: महात्मा गांधी
     gom-deva: महात्मा गांधी
-    gom-latn: Mahatma Gandhi
+    gom_latn: Mahatma Gandhi
     gor: Mahatma Gandhi
     gsw: Mohandas Karamchand Gandhi
     gu: મહાત્મા ગાંધી
@@ -464,7 +464,7 @@ dv_has_:
     uk: Магатма Ганді
     ur: موہن داس گاندھی
     uz: Mahatma Gandi
-    uz-cyrl: Маҳатма Ганди
+    uz_cyrl: Маҳатма Ганди
     vec: Mahatma Gandhi
     vep: Mahatma Gandi
     vi: Mahatma Gandhi
@@ -478,14 +478,14 @@ dv_has_:
     yo: Mohandas Karamchand Gandhi
     yue: 甘地
     zh: 圣雄甘地
-    zh-cn: 圣雄甘地
-    zh-hans: 圣雄甘地
-    zh-hant: 聖雄甘地
-    zh-hk: 聖雄甘地
-    zh-mo: 聖雄甘地
+    zh_cn: 圣雄甘地
+    zh_hans: 圣雄甘地
+    zh_hant: 聖雄甘地
+    zh_hk: 聖雄甘地
+    zh_mo: 聖雄甘地
     zh-my: 圣雄甘地
-    zh-sg: 圣雄甘地
-    zh-tw: 聖雄甘地
+    zh_sg: 圣雄甘地
+    zh_tw: 聖雄甘地
 ---
 # [[Gandhi,Mohandas_Karamchand]] 
 

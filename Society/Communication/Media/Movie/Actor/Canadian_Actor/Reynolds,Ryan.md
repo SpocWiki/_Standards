@@ -49,7 +49,7 @@ dv_has_:
     az: Rayan Reynolds
     azb: رایان رینولدز
     be: Раян Рэйнальдс
-    be-tarask: Раян Рэйнальдс
+    be_tarask: Раян Рэйнальдс
     bg: Райън Рейнолдс
     bn: রায়ান রেনল্ডস
     ca: Ryan Reynolds
@@ -61,8 +61,8 @@ dv_has_:
     dtp: Ryan Reynolds
     el: Ράιαν Ρέινολντς
     en: Ryan Reynolds
-    en-ca: Ryan Reynolds
-    en-gb: Ryan Reynolds
+    en_ca: Ryan Reynolds
+    en_gb: Ryan Reynolds
     eo: Ryan Reynolds
     es: Ryan Reynolds
     et: Ryan Reynolds
@@ -104,7 +104,7 @@ dv_has_:
     pap: Ryan Reynolds
     pl: Ryan Reynolds
     pt: Ryan Reynolds
-    pt-br: Ryan Reynolds
+    pt_br: Ryan Reynolds
     ro: Ryan Reynolds
     ru: Райан Рейнольдс
     sah: Райан Рейнольдс
@@ -114,8 +114,8 @@ dv_has_:
     sl: Ryan Reynolds
     sq: Ryan Reynolds
     sr: Рајан Ренолдс
-    sr-ec: Рајан Ренолдс
-    sr-el: Rajan Renolds
+    sr_ec: Рајан Ренолдс
+    sr_el: Rajan Renolds
     sv: Ryan Reynolds
     sw: Ryan Reynolds
     ta: ரியான் ரெனால்ட்ஸ்
@@ -134,12 +134,12 @@ dv_has_:
     yo: Ryan Reynolds
     yue: 賴恩雷諾士
     zh: 萊恩·雷諾斯
-    zh-cn: 瑞安·雷诺兹
-    zh-hans: 瑞安·雷诺兹
-    zh-hant: 萊恩·雷諾斯
-    zh-hk: 賴恩·雷諾士
-    zh-sg: 莱恩·雷诺斯
-    zh-tw: 萊恩·雷諾斯
+    zh_cn: 瑞安·雷诺兹
+    zh_hans: 瑞安·雷诺兹
+    zh_hant: 萊恩·雷諾斯
+    zh_hk: 賴恩·雷諾士
+    zh_sg: 莱恩·雷诺斯
+    zh_tw: 萊恩·雷諾斯
 ---
 #has_/time_/started :: 1976-10-23 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

@@ -118,7 +118,7 @@ dv_has_:
     bar: Artemis
     bcl: Artemis
     be: Артэміда
-    be-tarask: Артэміда
+    be_tarask: Артэміда
     bg: Артемида
     bn: আর্তেমিস
     br: Artemis
@@ -129,11 +129,11 @@ dv_has_:
     cy: Artemis
     da: Artemis
     de: Artemis
-    de-ch: Artemis
+    de_ch: Artemis
     el: Άρτεμις
     en: Artemis
-    en-ca: Artemis
-    en-gb: Artemis
+    en_ca: Artemis
+    en_gb: Artemis
     eo: Artemiso
     es: Artemisa
     et: Artemis
@@ -165,7 +165,7 @@ dv_has_:
     ko: 아르테미스
     ks: آرتمیس
     ku: Artemîs
-    ku-latn: Artemîs
+    ku_latn: Artemîs
     ky: Артемида
     la: Artemis
     lb: Artemis
@@ -187,7 +187,7 @@ dv_has_:
     pl: Artemida
     pnb: آرتیمس
     pt: Ártemis
-    pt-br: Ártemis
+    pt_br: Ártemis
     ro: Artemis
     ru: Артемида
     sco: Artemis
@@ -216,8 +216,8 @@ dv_has_:
     wuu: 阿耳忒弥斯
     yue: 阿提蜜絲
     zh: 阿耳忒弥斯
-    zh-hans: 阿耳忒弥斯
-    zh-tw: 阿提米絲
+    zh_hans: 阿耳忒弥斯
+    zh_tw: 阿提米絲
 ---
 # [[Artemis]] 
 

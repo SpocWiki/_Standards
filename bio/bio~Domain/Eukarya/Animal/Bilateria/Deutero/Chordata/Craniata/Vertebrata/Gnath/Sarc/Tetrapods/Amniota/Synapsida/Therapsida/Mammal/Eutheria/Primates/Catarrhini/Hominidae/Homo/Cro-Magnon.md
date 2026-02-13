@@ -86,7 +86,7 @@ dv_has_:
     ast: Home de Cromañón
     az: Kromanyon
     be: краманьёнец
-    be-tarask: краманьёнец
+    be_tarask: краманьёнец
     bg: Кроманьонски човек
     br: Den Cro-Magnon
     bs: Kromanjonac
@@ -98,8 +98,8 @@ dv_has_:
     de: Cro-Magnon-Mensch
     el: Κρο-Μανιόν
     en: Cro-Magnon Man
-    en-ca: Cro-Magnon
-    en-gb: Cro-Magnon
+    en_ca: Cro-Magnon
+    en_gb: Cro-Magnon
     eo: Homo de Kro Magnon
     es: hombre de Cro-Magnon
     eu: Cro-Magnon
@@ -121,11 +121,11 @@ dv_has_:
     ja: クロマニョン人
     ka: კრომანიონელი
     kk: Кроманьондықтар
-    kk-arab: كرومانوندىقتار
+    kk_arab: كرومانوندىقتار
     kk-cn: كرومانوندىقتار
-    kk-cyrl: Кроманьондықтар
+    kk_cyrl: Кроманьондықтар
     kk-kz: Кроманьондықтар
-    kk-latn: Kromanʹondıqtar
+    kk_latn: Kromanʹondıqtar
     kk-tr: Kromanʹondıqtar
     ko: 크로마뇽인
     ky: Кроманьондуктар
@@ -139,15 +139,15 @@ dv_has_:
     pl: Homo sapiens fossilis
     pnb: کرمیگنان آدمی
     pt: Cro-Magnon
-    pt-br: Cro-Magnon
+    pt_br: Cro-Magnon
     ro: Omul de Cro-Magnon
     ru: кроманьонец
     sh: Kromanjonci
     sk: Kromaňonec
     sq: Njeriu i Kro-manjonit
     sr: Кромањонци
-    sr-ec: Кромањонци
-    sr-el: Kromanjonci
+    sr_ec: Кромањонци
+    sr_el: Kromanjonci
     sv: Cromagnonmänniskan
     ta: குரோ-மாகுநன்
     tl: Taong Cro-Magnon
@@ -162,12 +162,12 @@ dv_has_:
     wuu: 克罗马侬人
     yue: 克羅馬儂人
     zh: 克羅馬儂人
-    zh-cn: 克罗马侬人
-    zh-hans: 克罗马侬人
-    zh-hant: 克羅馬儂人
-    zh-hk: 克羅馬儂人
-    zh-sg: 克罗马侬人
-    zh-tw: 克羅馬儂人
+    zh_cn: 克罗马侬人
+    zh_hans: 克罗马侬人
+    zh_hant: 克羅馬儂人
+    zh_hk: 克羅馬儂人
+    zh_sg: 克罗马侬人
+    zh_tw: 克羅馬儂人
 ---
 # [[Cro-Magnon]] 
 

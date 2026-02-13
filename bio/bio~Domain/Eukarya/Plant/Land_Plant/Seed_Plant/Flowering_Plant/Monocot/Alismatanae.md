@@ -48,7 +48,7 @@ dv_has_:
     ast: Alismatales
     az: Baqəvərçiçəklilər
     be: Шальнікакветныя
-    be-tarask: Шальнікакветныя
+    be_tarask: Шальнікакветныя
     bg: лаваницоцветни
     bs: Alismatales
     ca: Alismatals
@@ -97,7 +97,7 @@ dv_has_:
     oc: Alismatales
     pl: żabieńcowce
     pt: Alismatales
-    pt-br: Alismatales
+    pt_br: Alismatales
     ro: Alismatales
     ru: частухоцветные
     sa: अलिस्माटेल्स्

@@ -39,7 +39,7 @@ dv_has_:
     oc: lança-flamas
     pl: miotacz ognia
     pt: lança-chamas
-    pt-br: lança-chamas
+    pt_br: lança-chamas
     ro: aruncător de flăcări
     ru: огнемёт
     sh: plamenobacač
@@ -47,8 +47,8 @@ dv_has_:
     sl: plamenomet
     sq: Flakëhedhësi
     sr: бацач пламена
-    sr-ec: бацач пламена
-    sr-el: bacač plamena
+    sr_ec: бацач пламена
+    sr_el: bacač plamena
     sv: eldkastare
     tr: alev makinesi
     uk: вогнемет

@@ -70,7 +70,7 @@ dv_has_:
     awa: फैरड
     az: farad
     be: фарад
-    be-tarask: фарад
+    be_tarask: фарад
     bg: фарад
     bn: ফ্যারাড
     bo: ཧྥ་རད།
@@ -134,8 +134,8 @@ dv_has_:
     sl: farad
     sq: farad
     sr: фарад
-    sr-ec: фарад
-    sr-el: farad
+    sr_ec: фарад
+    sr_el: farad
     sv: farad
     szl: Farad
     ta: பாரடு
@@ -149,12 +149,12 @@ dv_has_:
     wuu: 法拉
     yue: 法拉
     zh: 法拉
-    zh-cn: 法拉
-    zh-hans: 法拉
-    zh-hant: 法拉
-    zh-hk: 法拉
-    zh-sg: 法拉
-    zh-tw: 法拉
+    zh_cn: 法拉
+    zh_hans: 法拉
+    zh_hant: 法拉
+    zh_hk: 法拉
+    zh_sg: 法拉
+    zh_tw: 法拉
 ---
 # [[Unit~Farad]] 
 

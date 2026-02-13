@@ -131,7 +131,7 @@ dv_has_:
     ast: Radiación de fondu de microondes
     az: Kosmik mikrodalğa arxa plan şüalanması
     be: Рэліктавае выпраменьванне
-    be-tarask: Рэліктавае выпраменьваньне
+    be_tarask: Рэліктавае выпраменьваньне
     bg: Реликтово излъчване
     bn: মহাজাগতিক অণুতরঙ্গ পটভূমি বিকিরণ
     ca: radiació còsmica de fons
@@ -141,8 +141,8 @@ dv_has_:
     de: kosmische Hintergrundstrahlung
     el: Ακτινοβολία υποβάθρου
     en: cosmic microwave background
-    en-ca: Cosmic microwave background radiation
-    en-gb: cosmic microwave background radiation
+    en_ca: Cosmic microwave background radiation
+    en_gb: cosmic microwave background radiation
     eo: kosma mikroonda fona radiado
     es: Radiación de fondo de microondas
     et: Kosmiline mikrolaine-taustkiirgus
@@ -186,7 +186,7 @@ dv_has_:
     pa: ਕੌਸਮਿਕ ਮਾਈਕ੍ਰੋਵੇਵ ਬੈਕਗਰਾਊਂਡ
     pl: mikrofalowe promieniowanie tła
     pt: radiação cósmica de fundo em micro-ondas
-    pt-br: Radiação cósmica de fundo em micro-ondas
+    pt_br: Radiação cósmica de fundo em micro-ondas
     ro: Radiație cosmică de fond
     ru: реликтовое излучение
     sco: cosmic microwave backgrund
@@ -194,8 +194,8 @@ dv_has_:
     sk: Reliktové žiarenie
     sl: kozmično mikrovalovno ozadje
     sr: космичко микроталасно позадинско зрачење
-    sr-ec: космичко микроталасно позадинско зрачење
-    sr-el: kosmičko mikrotalasno pozadinsko zračenje
+    sr_ec: космичко микроталасно позадинско зрачење
+    sr_el: kosmičko mikrotalasno pozadinsko zračenje
     sv: Kosmisk bakgrundsstrålning
     ta: பிரபஞ்ச நுண்ணலை அம்பலம்
     th: รังสีไมโครเวฟพื้นหลังของจักรวาล
@@ -210,14 +210,14 @@ dv_has_:
     xmf: კოსმოსური მიკრორეღმული ფონი
     yue: 宇宙微波背景輻射
     zh: 宇宙微波背景
-    zh-cn: 宇宙微波背景辐射
-    zh-hans: 宇宙微波背景辐射
-    zh-hant: 宇宙微波背景辐射
-    zh-hk: 宇宙微波背景辐射
-    zh-mo: 宇宙微波背景辐射
+    zh_cn: 宇宙微波背景辐射
+    zh_hans: 宇宙微波背景辐射
+    zh_hant: 宇宙微波背景辐射
+    zh_hk: 宇宙微波背景辐射
+    zh_mo: 宇宙微波背景辐射
     zh-my: 宇宙微波背景辐射
-    zh-sg: 宇宙微波背景辐射
-    zh-tw: 宇宙微波背景辐射
+    zh_sg: 宇宙微波背景辐射
+    zh_tw: 宇宙微波背景辐射
 ---
 # [[Cosmic_Microwave_Background]] 
 

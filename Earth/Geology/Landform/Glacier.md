@@ -207,7 +207,7 @@ dv_has_:
     azb: بوزلاق
     bar: Gletscha
     be: ледавік
-    be-tarask: ледавік
+    be_tarask: ледавік
     bg: ледник
     bho: हिमानी
     bn: হিমবাহ
@@ -221,11 +221,11 @@ dv_has_:
     cy: rhewlif
     da: gletsjer
     de: Gletscher
-    de-ch: Gletscher
+    de_ch: Gletscher
     el: παγετώνας
     en: glacier
-    en-ca: glacier
-    en-gb: glacier
+    en_ca: glacier
+    en_gb: glacier
     en-us: glacier
     eo: glaĉero
     es: glaciar
@@ -291,7 +291,7 @@ dv_has_:
     nan: peng-hô
     nb: isbre
     nds: Gletscher
-    nds-nl: gletsjer
+    nds_nl: gletsjer
     ne: हिमनदी
     new: च्वापुखुसि
     nl: gletsjer
@@ -304,7 +304,7 @@ dv_has_:
     pnb: گلیشیر
     ps: کنګل
     pt: glaciar
-    pt-br: geleira
+    pt_br: geleira
     qu: hatun chullunku
     rm: glatscher
     ro: ghețar
@@ -322,7 +322,7 @@ dv_has_:
     smn: jieŋâdâh
     sq: akullnaja
     sr: ледник
-    sr-ec: ледник
+    sr_ec: ледник
     stq: Glitsker
     sv: glaciär
     sw: barafuto
@@ -334,7 +334,7 @@ dv_has_:
     tl: glacier
     tr: buzul
     tt: бозлык
-    tt-cyrl: бозлык
+    tt_cyrl: бозлык
     udm: йӧлюк
     ug: مۇزلۇق
     uk: льодовик
@@ -351,10 +351,10 @@ dv_has_:
     yi: גלעטשער
     yue: 冰川
     zh: 冰川
-    zh-cn: 冰川
-    zh-hans: 冰川
-    zh-hk: 冰川
-    zh-tw: 冰川
+    zh_cn: 冰川
+    zh_hans: 冰川
+    zh_hk: 冰川
+    zh_tw: 冰川
 ---
 # [[Glacier]] 
 

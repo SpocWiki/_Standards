@@ -92,7 +92,7 @@ dv_has_:
     ast: pirámide
     az: piramida
     ba: Пирамида
-    be-tarask: піраміда
+    be_tarask: піраміда
     bg: пирамида
     bn: পিরামিড
     bs: piramida
@@ -140,7 +140,7 @@ dv_has_:
     lv: piramīda
     mk: пирамида
     ms: piramid
-    ms-arab: ڤيراميد
+    ms_arab: ڤيراميد
     nb: pyramide
     nds: Pyramied
     nl: piramide
@@ -150,7 +150,7 @@ dv_has_:
     pl: ostrosłup
     pms: piràmida
     pt: pirâmide
-    pt-br: pirâmide
+    pt_br: pirâmide
     qu: chuntu
     ro: piramidă
     ru: пирамида
@@ -178,11 +178,11 @@ dv_has_:
     wuu: 棱锥
     yue: 錐體
     zh: 棱锥
-    zh-cn: 棱锥
-    zh-hans: 棱锥
-    zh-hant: 稜錐
-    zh-hk: 稜錐
-    zh-tw: 稜錐
+    zh_cn: 棱锥
+    zh_hans: 棱锥
+    zh_hant: 稜錐
+    zh_hk: 稜錐
+    zh_tw: 稜錐
     zu: isitshopolonco
 ---
 # [[Pyramid(Geometry)]] 

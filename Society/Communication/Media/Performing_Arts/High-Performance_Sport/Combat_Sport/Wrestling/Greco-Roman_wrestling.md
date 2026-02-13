@@ -87,18 +87,18 @@ dv_has_:
     az: Yunan-Roma güləşi
     ba: Грек-рим көрәше
     be: грэка-рымская барацьба
-    be-tarask: грэка-рымская барацьба
+    be_tarask: грэка-рымская барацьба
     bg: Класическа борба
     bn: গ্রিক-রোমান কুস্তি
     ca: lluita grecoromana
     cs: zápas řecko-římský
     da: græsk-romersk brydning
     de: Griechisch-römisches Ringen
-    de-ch: Griechisch-römisches Ringen
+    de_ch: Griechisch-römisches Ringen
     el: Ελληνορωμαϊκή πάλη
     en: Greco-Roman wrestling
-    en-ca: Greco-Roman wrestling
-    en-gb: Greco-Roman wrestling
+    en_ca: Greco-Roman wrestling
+    en_gb: Greco-Roman wrestling
     eo: klasik-stila lukto
     es: lucha grecorromana
     et: kreeka-Rooma maadlus
@@ -117,11 +117,11 @@ dv_has_:
     ka: ბერძნულ-რომაული ჭიდაობა
     kaa: Grek-Rim gu'resı
     kk: Грек-рим күресі
-    kk-arab: گرەك-رىيم كۇرەسى
+    kk_arab: گرەك-رىيم كۇرەسى
     kk-cn: گرەك-رىيم كۇرەسى
-    kk-cyrl: Грек-рим күресі
+    kk_cyrl: Грек-рим күресі
     kk-kz: Грек-рим күресі
-    kk-latn: Grek-rïm küresi
+    kk_latn: Grek-rïm küresi
     kk-tr: Grek-rïm küresi
     ko: 그레코로만 레슬링
     ko-kp: 고전형레스링
@@ -134,7 +134,7 @@ dv_has_:
     os: грекъ-ромаг хъæбысхæст
     pl: zapasy w stylu klasycznym
     pt: luta greco-romana
-    pt-br: Luta greco-romana
+    pt_br: Luta greco-romana
     ro: lupte greco-romane
     ru: греко-римская борьба
     se: greikalaš-romálaš heaibu
@@ -150,12 +150,12 @@ dv_has_:
     uz: Yunon-rum kurashi
     yue: 古典摔角
     zh: 古典式摔跤
-    zh-cn: 古典式摔跤
-    zh-hans: 古典式摔跤
-    zh-hant: 古典式摔跤
-    zh-hk: 希羅式摔角
-    zh-sg: 古典式摔跤
-    zh-tw: 希羅式角力
+    zh_cn: 古典式摔跤
+    zh_hans: 古典式摔跤
+    zh_hant: 古典式摔跤
+    zh_hk: 希羅式摔角
+    zh_sg: 古典式摔跤
+    zh_tw: 希羅式角力
 ---
 # [[Greco-Roman_wrestling]] 
 

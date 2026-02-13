@@ -126,7 +126,7 @@ dv_has_:
     az: vegetarianizm
     ba: вегетарианлыҡ
     be: вегетарыянства
-    be-tarask: вэгетарыянства
+    be_tarask: вэгетарыянства
     bg: Вегетарианство
     bn: নিরামিষ ভোজন
     bs: vegetarijanstvo
@@ -140,8 +140,8 @@ dv_has_:
     diq: Vejetaryen
     el: Χορτοφαγία
     en: vegetarianism
-    en-ca: Vegetarianism
-    en-gb: vegetarianism
+    en_ca: Vegetarianism
+    en_gb: vegetarianism
     eo: vegetarismo
     es: vegetarianismo
     et: taimetoitlus
@@ -189,7 +189,7 @@ dv_has_:
     mwl: Begetarianismo
     nan: Sò͘-si̍t
     nb: vegetarianisme
-    nds-nl: vegetarisme
+    nds_nl: vegetarisme
     ne: शाकाहार
     new: शाकाहार
     nl: vegetarisme
@@ -202,7 +202,7 @@ dv_has_:
     pnb: سبزی خوری
     ps: سابه خوړونکي
     pt: vegetarianismo
-    pt-br: vegetarianismo
+    pt_br: vegetarianismo
     ro: vegetarianism
     ru: вегетарианство
     sco: vegetarianism
@@ -221,7 +221,7 @@ dv_has_:
     tl: Behetaryanismo
     tr: Vejetaryenlik
     tt: вегетарианлык
-    tt-cyrl: вегетарианлык
+    tt_cyrl: вегетарианлык
     ug: كۆكتاتۋازلىق
     uk: вегетаріанство
     ur: سبزی خوری
@@ -233,7 +233,7 @@ dv_has_:
     yi: וועגעטאריאניזם
     yue: 素食
     zh: 素食主義
-    zh-hant: 素食主義
+    zh_hant: 素食主義
 ---
 # [[Vegetarianism]] 
 

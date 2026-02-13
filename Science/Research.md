@@ -176,7 +176,7 @@ dv_has_:
     ba: тикшеренеү
     bcl: pagsaligsig
     be: даследаванне
-    be-tarask: дасьледаваньне
+    be_tarask: дасьледаваньне
     bg: изследване
     bho: रिसर्च
     bjn: paitihan
@@ -239,7 +239,7 @@ dv_has_:
     mn: судалгаа
     mr: संशोधन
     ms: penyelidikan
-    ms-arab: ڤڽليديقن
+    ms_arab: ڤڽليديقن
     mt: riċerka
     my: သုတေသန
     nb: forskning
@@ -255,7 +255,7 @@ dv_has_:
     pl: badanie naukowe
     ps: څېړنه
     pt: investigação
-    pt-br: pesquisa
+    pt_br: pesquisa
     qu: k'uskiykuy
     ro: cercetare
     ru: исследование
@@ -276,7 +276,7 @@ dv_has_:
     so: cilmibaadhis
     sq: hulumtim
     sr: истраживања
-    sr-ec: истраживања
+    sr_ec: истраживања
     su: panalungtikan
     sv: forskning
     sw: utafiti
@@ -288,7 +288,7 @@ dv_has_:
     tl: pananaliksik
     tr: araştırma
     tt: фәнни тикшеренү
-    tt-cyrl: фәнни тикшеренү
+    tt_cyrl: фәнни тикшеренү
     uk: дослідження
     ur: تحقیق
     uz: ilmiy tadqiqot
@@ -300,14 +300,14 @@ dv_has_:
     yo: ìwádìí
     yue: 研究
     zh: 研究
-    zh-cn: 研究
-    zh-hans: 研究
-    zh-hant: 研究
-    zh-hk: 研究
-    zh-mo: 研究
+    zh_cn: 研究
+    zh_hans: 研究
+    zh_hant: 研究
+    zh_hk: 研究
+    zh_mo: 研究
     zh-my: 研究
-    zh-sg: 研究
-    zh-tw: 研究
+    zh_sg: 研究
+    zh_tw: 研究
     zu: ucwaningo
 ---
 # [[Research]] 

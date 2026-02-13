@@ -35,10 +35,10 @@ dv_has_:
     da: Rechteroever
     de: Rechteroever
     de-at: Rechteroever
-    de-ch: Rechteroever
+    de_ch: Rechteroever
     en: Right Bank
-    en-ca: Rechteroever
-    en-gb: Rechteroever
+    en_ca: Rechteroever
+    en_gb: Rechteroever
     eo: Rechteroever
     es: Rechteroever
     et: Rechteroever
@@ -68,7 +68,7 @@ dv_has_:
     nap: Rechteroever
     nb: Rechteroever
     nds: Rechteroever
-    nds-nl: Rechteroever
+    nds_nl: Rechteroever
     nl: Right Bank
     nn: Rechteroever
     nrm: Rechteroever
@@ -77,7 +77,7 @@ dv_has_:
     pl: Rechteroever
     pms: Rechteroever
     pt: Rechteroever
-    pt-br: Rechteroever
+    pt_br: Rechteroever
     rm: Rechteroever
     ro: Rechteroever
     ru: Правый берег
@@ -86,7 +86,7 @@ dv_has_:
     sco: Rechteroever
     sk: Rechteroever
     sl: Rechteroever
-    sr-el: Rechteroever
+    sr_el: Rechteroever
     sv: Rechteroever
     sw: Rechteroever
     uk: Правий берег (значення)

@@ -46,17 +46,17 @@ dv_has_:
     it: emicrania
     ja: 片頭痛
     kk: Бас сақинасы
-    kk-arab: باس ساقىيناسى
+    kk_arab: باس ساقىيناسى
     kk-cn: باس ساقىيناسى
-    kk-cyrl: Бас сақинасы
+    kk_cyrl: Бас сақинасы
     kk-kz: Бас сақинасы
-    kk-latn: Bas saqïnası
+    kk_latn: Bas saqïnası
     kk-tr: Bas saqïnası
     kn: ಮೈಗ್ರೇನ್
     ko: 편두통
     ku: Mîgren
-    ku-arab: میگرەن
-    ku-latn: Mîgren
+    ku_arab: میگرەن
+    ku_latn: Mîgren
     ky: Шакый
     la: Hemicrania
     lg: Omutwe ogulumira oludda olumu
@@ -89,8 +89,8 @@ dv_has_:
     so: Dawakh
     sq: Migrena
     sr: мигрена
-    sr-ec: Мигрена
-    sr-el: Migrena
+    sr_ec: Мигрена
+    sr_el: Migrena
     sv: migrän
     sw: Kipandauso
     ta: ஒற்றைத் தலைவலி
@@ -108,12 +108,12 @@ dv_has_:
     xmf: შანგიტახა
     yue: 偏頭刺
     zh: 偏頭痛
-    zh-cn: 偏头痛
-    zh-hans: 偏头痛
-    zh-hant: 偏頭痛
-    zh-hk: 偏頭痛
-    zh-sg: 偏头痛
-    zh-tw: 偏頭痛
+    zh_cn: 偏头痛
+    zh_hans: 偏头痛
+    zh_hant: 偏頭痛
+    zh_hk: 偏頭痛
+    zh_sg: 偏头痛
+    zh_tw: 偏頭痛
 aliases:
 - amaẓla
 - Asoroben

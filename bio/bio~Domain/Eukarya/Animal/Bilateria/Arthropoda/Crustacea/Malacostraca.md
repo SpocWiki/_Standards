@@ -80,7 +80,7 @@ dv_has_:
     azb: عالی سرطانلر
     bar: Malacostraca
     be: вышэйшыя ракі
-    be-tarask: вышэйшыя ракападобныя
+    be_tarask: вышэйшыя ракападобныя
     bg: Висши ракообразни
     br: Malacostraca
     ca: Malacostraci
@@ -91,11 +91,11 @@ dv_has_:
     da: Storkrebs
     de: Höhere Krebse
     de-at: Malacostraca
-    de-ch: Malacostraca
+    de_ch: Malacostraca
     el: Μαλακόστρακα
     en: Malacostraca
-    en-ca: Malacostraca
-    en-gb: Malacostraca
+    en_ca: Malacostraca
+    en_gb: Malacostraca
     eo: Malakostrakoj
     es: Malacostraca
     et: kõrgemad vähid
@@ -124,11 +124,11 @@ dv_has_:
     jv: Malacostraca
     kg: Malacostraca
     kk: Жоғарғы сатыдағы шаянтәрізділер
-    kk-arab: جوعارعى ساتىداعى شايانتارىزدىلەر
+    kk_arab: جوعارعى ساتىداعى شايانتارىزدىلەر
     kk-cn: جوعارعى ساتىداعى شايانتارىزدىلەر
-    kk-cyrl: Жоғарғы сатыдағы шаянтәрізділер
+    kk_cyrl: Жоғарғы сатыдағы шаянтәрізділер
     kk-kz: Жоғарғы сатыдағы шаянтәрізділер
-    kk-latn: Joğarğı satıdağı şayantärizdiler
+    kk_latn: Joğarğı satıdağı şayantärizdiler
     kk-tr: Joğarğı satıdağı şayantärizdiler
     ko: 연갑강
     ku: Qalikdarên nerm
@@ -149,7 +149,7 @@ dv_has_:
     nap: Malacostraca
     nb: storkrepser
     nds: Högere Kreefte
-    nds-nl: Malacostraca
+    nds_nl: Malacostraca
     nl: Malacostraca
     nn: Storkreps
     nov: Malacostraca
@@ -161,7 +161,7 @@ dv_has_:
     pms: Malacostraca
     ps: چنگاښ ډوله ژوي
     pt: Malacostraca
-    pt-br: Malacostraca
+    pt_br: Malacostraca
     qu: Pura-pura qara
     rm: Malacostraca
     ro: Malacostraca
@@ -192,12 +192,12 @@ dv_has_:
     wuu: 软甲纲
     yue: 軟甲綱
     zh: 软甲纲
-    zh-cn: 软甲纲
-    zh-hans: 软甲纲
-    zh-hant: 軟甲綱
-    zh-hk: 軟甲綱
-    zh-sg: 软甲纲
-    zh-tw: 軟甲綱
+    zh_cn: 软甲纲
+    zh_hans: 软甲纲
+    zh_hant: 軟甲綱
+    zh_hk: 軟甲綱
+    zh_sg: 软甲纲
+    zh_tw: 軟甲綱
     zu: Malacostraca
 ---
 # [[Malacostraca]] 

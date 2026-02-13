@@ -90,7 +90,7 @@ dv_has_:
     ar: طبيعة بشرية
     ast: Naturaleza humana
     az: İnsan
-    be-tarask: чалавечая натура
+    be_tarask: чалавечая натура
     bg: Човек — Човешка природа
     bn: মানব প্রকৃতি
     bs: Čovjek
@@ -141,8 +141,8 @@ dv_has_:
     sl: človek
     sq: Natyra njerëzore
     sr: људска природа
-    sr-ec: људска природа
-    sr-el: ljudska priroda
+    sr_ec: људска природа
+    sr_el: ljudska priroda
     sv: mänsklig natur
     ta: மனித இயல்பு
     tg: табиати инсон
@@ -154,8 +154,8 @@ dv_has_:
     vi: bản tính con người
     yue: 人性
     zh: 人性
-    zh-cn: 人性
-    zh-hk: 人性
+    zh_cn: 人性
+    zh_hk: 人性
 ---
 # [[Human_Nature]] 
 

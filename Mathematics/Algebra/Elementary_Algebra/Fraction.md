@@ -129,7 +129,7 @@ dv_has_:
     ba: кәсерҙәр
     bcl: praksyon
     be: дроб
-    be-tarask: дроб
+    be_tarask: дроб
     bg: дроб
     blk: ဂဏန်ꩻခေါဝ်
     bn: ভগ্নাংশ
@@ -144,8 +144,8 @@ dv_has_:
     de: Bruch
     el: κλάσμα
     en: fraction
-    en-ca: fraction
-    en-gb: fraction
+    en_ca: fraction
+    en_gb: fraction
     eo: frakcio
     es: fracción
     et: murdarv
@@ -199,7 +199,7 @@ dv_has_:
     om: hirmeemmii
     pl: ułamek
     pt: fração
-    pt-br: fração
+    pt_br: fração
     qu: ch'iqtaku
     ro: fracție
     rsk: Розламок
@@ -212,7 +212,7 @@ dv_has_:
     sn: dimbu
     sq: thyesa
     sr: разломак
-    sr-ec: разломак
+    sr_ec: разломак
     sv: bråk
     ta: பின்னம்
     te: భిన్నాలు
@@ -232,8 +232,8 @@ dv_has_:
     yi: בראכטייל
     yue: 分數
     zh: 分數
-    zh-hant: 分數
-    zh-hk: 分數
+    zh_hant: 分數
+    zh_hk: 分數
 ---
 # [[Fraction]] 
 

@@ -85,7 +85,7 @@ dv_has_:
     az: Parsilər
     azb: پارسیلر
     ba: Парсиҙар
-    be-tarask: парсі
+    be_tarask: парсі
     bg: Парси
     bn: পারসি
     ca: parsis
@@ -93,13 +93,13 @@ dv_has_:
     cs: Pársové
     cv: Парссем
     de: Parsen
-    de-ch: Parsen
+    de_ch: Parsen
     diq: Parsiy
     dv: ފާރިސީން
     el: Πάρσοι
     en: Parsi
-    en-ca: Parsi
-    en-gb: Parsi
+    en_ca: Parsi
+    en_gb: Parsi
     eo: Parsioj
     es: parsi
     eu: Parsi
@@ -135,15 +135,15 @@ dv_has_:
     pl: Parsowie
     pnb: پارسی
     pt: Parses
-    pt-br: Parsis
+    pt_br: Parsis
     ru: парсы
     scn: Parsi
     sh: Parsi
     sl: Parsiji
     sq: Parsët
     sr: Парси
-    sr-ec: Парси
-    sr-el: Parsi
+    sr_ec: Парси
+    sr_el: Parsi
     sv: Parsism
     ta: பார்சி மக்கள்
     te: పార్సీ ప్రజలు
@@ -157,12 +157,12 @@ dv_has_:
     wuu: 帕西人
     yue: 巴斯人
     zh: 帕西人
-    zh-cn: 帕西人
-    zh-hans: 帕西人
-    zh-hant: 帕西人
-    zh-hk: 帕西人
-    zh-sg: 帕西人
-    zh-tw: 帕西人
+    zh_cn: 帕西人
+    zh_hans: 帕西人
+    zh_hant: 帕西人
+    zh_hk: 帕西人
+    zh_sg: 帕西人
+    zh_tw: 帕西人
 ---
 # [[Parsi]] 
 

@@ -37,7 +37,7 @@ dv_has_:
     oc: Stenandrium
     pl: Stenandrium
     pt: Stenandrium
-    pt-br: Stenandrium
+    pt_br: Stenandrium
     ro: Stenandrium
     ru: Стенандриум
     sq: Stenandrium

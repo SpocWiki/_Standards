@@ -56,15 +56,15 @@ dv_has_:
   name_:
     ar: الاتحاد الدولي للدراجات النارية
     ast: Federación Internacional de Motociclismu
-    be-tarask: Міжнародная матацыклетная фэдэрацыя
+    be_tarask: Міжнародная матацыклетная фэдэрацыя
     ca: FIM
     cs: Mezinárodní federace motocyklistů
     cy: Fédération internationale de motocyclisme
     de: Fédération Internationale de Motocyclisme
     el: Διεθνής Ομοσπονδία Μοτοσυκλετισμού
     en: Federation Internationale de Motocyclisme
-    en-ca: Fédération Internationale de Motocyclisme
-    en-gb: Fédération Internationale de Motocyclisme
+    en_ca: Fédération Internationale de Motocyclisme
+    en_gb: Fédération Internationale de Motocyclisme
     eo: Internacia Motorcikla Federacio
     es: Federación Internacional de Motociclismo
     eu: Nazioarteko Motoziklismo Federazioa
@@ -85,7 +85,7 @@ dv_has_:
     nl: Fédération Internationale de Motocyclisme
     pl: Międzynarodowa Federacja Motocyklowa
     pt: Federação Internacional de Motociclismo
-    pt-br: Federação Internacional de Motociclismo
+    pt_br: Federação Internacional de Motociclismo
     ru: Международная мотоциклетная федерация
     sr: Međunarodna motorciklistička federacija
     sv: Fédération Internationale de Motocyclisme
@@ -95,7 +95,7 @@ dv_has_:
     vi: Liên đoàn đua xe mô tô quốc tế
     yue: 國際電單車賽車協會
     zh: 國際摩托車賽車協會
-    zh-hk: 國際電單車賽車協會
+    zh_hk: 國際電單車賽車協會
 ---
 # [[International_Motorcycling_Federation]] 
 

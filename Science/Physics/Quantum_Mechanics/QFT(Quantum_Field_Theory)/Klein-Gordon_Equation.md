@@ -49,11 +49,11 @@ dv_has_:
     cs: Kleinova-Gordonova rovnice
     da: Klein-Gordon-ligningen
     de: Klein-Gordon-Gleichung
-    de-ch: Klein-Gordon-Gleichung
+    de_ch: Klein-Gordon-Gleichung
     el: Εξίσωση Κλάιν-Γκόρντον
     en: Klein–Gordon equation
-    en-ca: Klein–Gordon equation
-    en-gb: Klein–Gordon equation
+    en_ca: Klein–Gordon equation
+    en_gb: Klein–Gordon equation
     eo: ekvacio de Klein-Gordon
     es: ecuación de Klein-Gordon
     fa: معادله کلاین-گوردون
@@ -73,7 +73,7 @@ dv_has_:
     pa: ਕਲੇਇਨ-ਗੌਰਡਨ ਇਕੁਏਸ਼ਨ
     pl: równanie Kleina-Gordona
     pt: Equação de Klein–Gordon
-    pt-br: Equação de Klein–Gordon
+    pt_br: Equação de Klein–Gordon
     ru: Уравнение Клейна — Гордона
     sh: Klein-Gordonova jednadžba
     sl: Klein-Gordonova enačba
@@ -84,10 +84,10 @@ dv_has_:
     uk: Рівняння Клейна — Гордона
     vi: Klevin - Gordon equation
     zh: 克莱因-戈尔登方程
-    zh-hans: 克莱因-戈尔登方程
-    zh-hant: 克萊因-戈爾登方程
-    zh-hk: 克來恩-戈登方程式
-    zh-tw: 克來恩-戈登方程式
+    zh_hans: 克莱因-戈尔登方程
+    zh_hant: 克萊因-戈爾登方程
+    zh_hk: 克來恩-戈登方程式
+    zh_tw: 克來恩-戈登方程式
 ---
 # [[Klein-Gordon_Equation]] 
 

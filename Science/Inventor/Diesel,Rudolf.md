@@ -116,7 +116,7 @@ dv_has_:
     az: Rudolf Dizel
     bar: Rudolf Diesel
     be: Рудольф Дызель
-    be-tarask: Рудольф Дызэль
+    be_tarask: Рудольф Дызэль
     bg: Рудолф Дизел
     bm: Rudolf Diesel
     bn: রুডলফ ডিজেল
@@ -131,11 +131,11 @@ dv_has_:
     da: Rudolf Diesel
     de: Rudolf Diesel
     de-at: Rudolf Diesel
-    de-ch: Rudolf Diesel
+    de_ch: Rudolf Diesel
     el: Ρούντολφ Ντίζελ
     en: Rudolf Diesel
-    en-ca: Rudolf Diesel
-    en-gb: Rudolf Diesel
+    en_ca: Rudolf Diesel
+    en_gb: Rudolf Diesel
     eo: Rudolf Diesel
     es: Rudolf Diesel
     et: Rudolf Diesel
@@ -192,7 +192,7 @@ dv_has_:
     nap: Rudolf Diesel
     nb: Rudolf Diesel
     nds: Rudolf Diesel
-    nds-nl: Rudolf Diesel
+    nds_nl: Rudolf Diesel
     ne: रुडल्फ डिजेल
     nl: Rudolf Diesel
     nn: Rudolf Diesel
@@ -208,7 +208,7 @@ dv_has_:
     pnb: روڈلف ڈیزل
     prg: Rudolf Diesel
     pt: Rudolf Diesel
-    pt-br: Rudolf Diesel
+    pt_br: Rudolf Diesel
     qu: Rudolf Diesel
     rgn: Rudolf Diesel
     rm: Rudolf Diesel
@@ -223,7 +223,7 @@ dv_has_:
     sl: Rudolf Diesel
     sq: Rudolf Diesel
     sr: Рудолф Дизел
-    sr-el: Rudolf Diesel
+    sr_el: Rudolf Diesel
     sv: Rudolf Diesel
     sw: Rudolf Diesel
     ta: ருடோல்ப் டீசல்

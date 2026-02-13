@@ -3,7 +3,7 @@ has_id_wikidata: Q185961
 dv_has_:
   name_:
     ar: إدراك الزمن
-    be-tarask: успрыманьне часу
+    be_tarask: успрыманьне часу
     ca: percepció del temps
     cs: vnímání času
     de: Zeitwahrnehmung

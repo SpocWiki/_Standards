@@ -198,7 +198,7 @@ dv_has_:
     az: Vilhelm Vundt
     azb: ویلهلم وونت
     be: Вільгельм Вунт
-    be-tarask: Вільгэльм Вунт
+    be_tarask: Вільгэльм Вунт
     bg: Вилхелм Вундт
     bs: Wilhelm Wundt
     ca: Wilhelm Wundt
@@ -254,7 +254,7 @@ dv_has_:
     pms: Wilhelm Wundt
     ps: ويلهم ونډت
     pt: Wilhelm Wundt
-    pt-br: Wilhelm Wundt
+    pt_br: Wilhelm Wundt
     ro: Wilhelm Wundt
     ru: Вильгельм Вундт
     sco: Wilhelm Wundt

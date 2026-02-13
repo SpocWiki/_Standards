@@ -35,7 +35,7 @@ dv_has_:
     bar: Panamakanal
     bcl: Kanal nin Panama
     be: Панамскі канал
-    be-tarask: Панамскі канал
+    be_tarask: Панамскі канал
     bg: Панамски канал
     bho: पनामा नहर
     bn: পানামা খাল
@@ -58,8 +58,8 @@ dv_has_:
     dv: ޕެނަމާ ކެނަލް
     el: Διώρυγα Παναμά
     en: Panama Canal
-    en-ca: Panama Canal
-    en-gb: Panama Canal
+    en_ca: Panama Canal
+    en_gb: Panama Canal
     eo: Panama kanalo
     es: Canal de Panamá
     et: Panama kanal
@@ -137,7 +137,7 @@ dv_has_:
     pnb: نہر پانامہ
     ps: د پاناما کانال
     pt: Canal do Panamá
-    pt-br: Canal do Panamá
+    pt_br: Canal do Panamá
     ro: Canalul Panama
     roa-tara: Canale de Panama
     ru: Панамский канал
@@ -175,8 +175,8 @@ dv_has_:
     yue: 巴拿馬運河
     zea: Panamakanaol
     zh: 巴拿馬運河
-    zh-hans: 巴拿马运河
-    zh-hant: 巴拿馬運河
+    zh_hans: 巴拿马运河
+    zh_hant: 巴拿馬運河
 aliases:
 - Camlas Panama
 - canal de Panama

@@ -20,10 +20,10 @@ dv_has_:
     da: Chloroflexi
     de: Chloroflexi
     de-at: Chloroflexi
-    de-ch: Chloroflexi
+    de_ch: Chloroflexi
     en: Chloroflexi
-    en-ca: Chloroflexi
-    en-gb: Chloroflexi
+    en_ca: Chloroflexi
+    en_gb: Chloroflexi
     eo: Chloroflexi
     es: Chloroflexi
     et: Chloroflexi
@@ -54,7 +54,7 @@ dv_has_:
     nap: Chloroflexi
     nb: Chloroflexi
     nds: Chloroflexi
-    nds-nl: Chloroflexi
+    nds_nl: Chloroflexi
     nl: Chloroflexi
     nn: Chloroflexi
     nrm: Chloroflexi
@@ -63,7 +63,7 @@ dv_has_:
     pl: Chloroflexi
     pms: Chloroflexi
     pt: Chloroflexi
-    pt-br: Chloroflexi
+    pt_br: Chloroflexi
     rm: Chloroflexi
     ro: Chloroflexi
     sc: Chloroflexi
@@ -71,7 +71,7 @@ dv_has_:
     sco: Chloroflexi
     sk: Chloroflexi
     sl: Chloroflexi
-    sr-el: Chloroflexi
+    sr_el: Chloroflexi
     sv: Chloroflexi
     sw: Chloroflexi
     tl: Chloroflexi

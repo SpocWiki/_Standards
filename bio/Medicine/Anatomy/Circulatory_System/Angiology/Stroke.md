@@ -170,7 +170,7 @@ dv_has_:
     azb: سکته
     ba: инсульт
     be: інсульт
-    be-tarask: інсульт
+    be_tarask: інсульт
     bg: инсулт
     blk: တလီꩻဖျတ်ရောႏဂါႏ
     bn: স্ট্রোক
@@ -192,8 +192,8 @@ dv_has_:
     dv: ސްޓްރޯކް ޖެހުން
     el: εγκεφαλικό επεισόδιο
     en: stroke
-    en-ca: Stroke
-    en-gb: stroke
+    en_ca: Stroke
+    en_gb: stroke
     eo: apopleksio
     es: accidente cerebrovascular
     et: insult
@@ -263,7 +263,7 @@ dv_has_:
     pms: Colp
     pnb: سکتہ
     pt: acidente vascular cerebral
-    pt-br: acidente vascular cerebral
+    pt_br: acidente vascular cerebral
     ro: accident vascular cerebral
     ru: инсульт
     sah: инсульт
@@ -277,7 +277,7 @@ dv_has_:
     sk: mŕtvica
     sl: možganska kap
     sr: мождани удар
-    sr-ec: мождани удар
+    sr_ec: мождани удар
     sv: stroke
     sw: Kiharusi
     szy: kahung
@@ -287,7 +287,7 @@ dv_has_:
     tr: inme
     ts: Vuvabyi byo oma thlelo
     tt: инсульт
-    tt-cyrl: инсүлт
+    tt_cyrl: инсүлт
     tyv: Инсульт
     udm: инсульт
     ug: مېڭە ئاپوپلېكسىيەسى
@@ -306,14 +306,14 @@ dv_has_:
     yue: 中風
     za: Mauhfung
     zh: 中風
-    zh-cn: 中风
-    zh-hans: 中风
-    zh-hant: 中風
-    zh-hk: 中風
-    zh-mo: 中風
+    zh_cn: 中风
+    zh_hans: 中风
+    zh_hant: 中風
+    zh_hk: 中風
+    zh_mo: 中風
     zh-my: 中风
-    zh-sg: 中风
-    zh-tw: 中風
+    zh_sg: 中风
+    zh_tw: 中風
 ---
 # [[Stroke]] 
 

@@ -103,7 +103,7 @@ dv_has_:
     ast: Psicoloxía del desarrollu
     az: İnkişaf psixologiyası
     be: псіхалогія развіцця
-    be-tarask: псыхалёгія разьвіцьця
+    be_tarask: псыхалёгія разьвіцьця
     bg: Психология на развитието
     bn: বিকাশাত্মক মনোবিজ্ঞান
     bs: Razvojna psihologija
@@ -142,7 +142,7 @@ dv_has_:
     mn: Хөгжлийн сэтгэл зүй
     mnw: စိတ္တဇဇမၞော်မၟောဝ်
     ms: psikologi perkembangan
-    ms-arab: ڤسيکولوݢي ڤرکمبڠن
+    ms_arab: ڤسيکولوݢي ڤرکمبڠن
     nb: utviklingspsykologi
     nl: ontwikkelingspsychologie
     nn: utviklingspsykologi
@@ -160,8 +160,8 @@ dv_has_:
     smn: ovdánempsykologia
     sq: Psikologjia zhvillimore
     sr: дечја психоанализа
-    sr-ec: Дечја психоанализа
-    sr-el: Dečja psihoanaliza
+    sr_ec: Дечја психоанализа
+    sr_el: Dečja psihoanaliza
     st: Thuto-tswelopele ya kelello
     sv: utvecklingspsykologi
     sw: Ukuaji wa binadamu
@@ -171,7 +171,7 @@ dv_has_:
     tl: Sikolohiyang pangkaunlaran
     tr: gelişim psikolojisi
     tt: үсеш психологиясе
-    tt-cyrl: үсеш психологиясе
+    tt_cyrl: үсеш психологиясе
     uk: психологія розвитку
     ur: ترقیاتی نفسیات
     uz: Rivojlanish psixologiyasi
@@ -179,12 +179,12 @@ dv_has_:
     wuu: 发展心理学
     yue: 發展心理學
     zh: 发展心理学
-    zh-cn: 发展心理学
-    zh-hans: 发展心理学
-    zh-hant: 發展心理學
-    zh-hk: 發展心理學
-    zh-sg: 发展心理学
-    zh-tw: 發展心理學
+    zh_cn: 发展心理学
+    zh_hans: 发展心理学
+    zh_hant: 發展心理學
+    zh_hk: 發展心理學
+    zh_sg: 发展心理学
+    zh_tw: 發展心理學
 ---
 # [[Developmental_Psychology]] 
 

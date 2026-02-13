@@ -141,7 +141,7 @@ dv_has_:
     azb: پلوتارک
     ba: Плутарх
     be: Плутарх
-    be-tarask: Плютарх
+    be_tarask: Плютарх
     bg: Плутарх
     bn: প্লুতার্ক
     br: Ploutarc'hos
@@ -210,7 +210,7 @@ dv_has_:
     pnb: پلو ٹارک
     ps: پلوتارک
     pt: Plutarco
-    pt-br: Plutarco
+    pt_br: Plutarco
     ro: Plutarh
     ru: Плутарх
     scn: Plutarcu
@@ -220,7 +220,7 @@ dv_has_:
     sl: Plutarh
     sq: Plutarku
     sr: Плутарх
-    sr-ec: Плутарх
+    sr_ec: Плутарх
     sv: Plutarchos
     sw: Plutarko
     ta: புளூட்டாக்

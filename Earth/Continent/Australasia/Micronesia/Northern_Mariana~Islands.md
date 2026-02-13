@@ -250,7 +250,7 @@ dv_has_:
     bar: Nördliche Marianen
     bcl: Norteng Kaiislahang Mariana
     be: Паўночныя Марыянскія астравы
-    be-tarask: Паўночныя Марыянскія астравы
+    be_tarask: Паўночныя Марыянскія астравы
     bg: Северни Мариански острови
     bn: উত্তর মারিয়ানা দ্বীপপুঞ্জ
     bpy: নর্দান মেরিন দ্বীপমালা
@@ -270,7 +270,7 @@ dv_has_:
     dv: އުތުރު މެރިއާނާ ޖަޒީރާ
     el: Βόρειες Μαριάνες Νήσοι
     en: Northern Mariana Islands
-    en-gb: Northern Mariana Islands
+    en_gb: Northern Mariana Islands
     en-us: Northern Mariana Islands
     eo: Nord-Marianoj
     es: Islas Marianas del Norte
@@ -380,14 +380,14 @@ dv_has_:
     yo: Àwọn Erékùṣù Apáàríwá Mariana
     yue: 北馬利安納羣島
     zh: 北马里亚纳群岛
-    zh-cn: 北马里亚纳群岛
-    zh-hans: 北马里亚纳群岛
-    zh-hant: 北馬里亞納群島
-    zh-hk: 北馬里亞納群島
-    zh-mo: 北馬里亞納群島
+    zh_cn: 北马里亚纳群岛
+    zh_hans: 北马里亚纳群岛
+    zh_hant: 北馬里亞納群島
+    zh_hk: 北馬里亞納群島
+    zh_mo: 北馬里亞納群島
     zh-my: 北马里亚纳群岛
-    zh-sg: 北马里亚纳群岛
-    zh-tw: 北馬里亞納群島
+    zh_sg: 北马里亚纳群岛
+    zh_tw: 北馬里亞納群島
 ---
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name` 

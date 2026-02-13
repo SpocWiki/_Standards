@@ -49,7 +49,7 @@ dv_has_:
     oc: Sepiidae
     pl: Mątwowate
     pt: Sepiidae
-    pt-br: Sepiidae
+    pt_br: Sepiidae
     ro: Sepiidae
     ru: Sepiidae
     sl: sipe

@@ -100,7 +100,7 @@ dv_has_:
     ast: inmunoloxía
     az: İmmunologiya
     be: імуналогія
-    be-tarask: імуналёгія
+    be_tarask: імуналёгія
     bg: Имунология
     bn: অনাক্রম্যবিজ্ঞান
     bs: Imunologija
@@ -147,7 +147,7 @@ dv_has_:
     ml: ഇമ്മ്യൂണോളജി
     mn: Дархлаа судлал
     ms: imunologi
-    ms-arab: ايمونولوݢي
+    ms_arab: ايمونولوݢي
     mzn: ایمیونولوجی
     nan: Bián-e̍k-ha̍k
     nb: immunologi
@@ -175,8 +175,8 @@ dv_has_:
     sms: immunologia
     sq: Imunologjia
     sr: имунологија
-    sr-ec: Имунологија
-    sr-el: Imunologija
+    sr_ec: Имунологија
+    sr_el: Imunologija
     sv: immunologi
     ta: நோயெதிர்ப்பியல்
     tg: Иммунология
@@ -194,12 +194,12 @@ dv_has_:
     xmf: იმუნოლოგია
     yue: 免疫學
     zh: 免疫學
-    zh-cn: 免疫学
-    zh-hans: 免疫学
-    zh-hant: 免疫學
-    zh-hk: 免疫學
-    zh-sg: 免疫学
-    zh-tw: 免疫學
+    zh_cn: 免疫学
+    zh_hans: 免疫学
+    zh_hant: 免疫學
+    zh_hk: 免疫學
+    zh_sg: 免疫学
+    zh_tw: 免疫學
 ---
 # [[Immunology]] 
 

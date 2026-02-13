@@ -239,7 +239,7 @@ dv_has_:
     az: Edvard Munk
     ba: Эдвард Мунк
     be: Эдвард Мунк
-    be-tarask: Эдвард Мунк
+    be_tarask: Эдвард Мунк
     bg: Едвард Мунк
     bjn: Edvard Munch
     bn: এডভার্ড মুঙ্খ
@@ -310,7 +310,7 @@ dv_has_:
     pms: Edvard Munch
     pnb: ایڈورڈ منک
     pt: Edvard Munch
-    pt-br: Edvard Munch
+    pt_br: Edvard Munch
     ro: Edvard Munch
     ru: Эдвард Мунк
     scn: Edvard Munch
@@ -321,7 +321,7 @@ dv_has_:
     sl: Edvard Munch
     sq: Edvard Munch
     sr: Едвард Мунк
-    sr-ec: Едвард Мунк
+    sr_ec: Едвард Мунк
     stq: Edvard Munch
     sv: Edvard Munch
     sw: Edvard Munch

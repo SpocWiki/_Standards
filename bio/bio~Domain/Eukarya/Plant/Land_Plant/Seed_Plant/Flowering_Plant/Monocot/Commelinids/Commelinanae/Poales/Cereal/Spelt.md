@@ -130,7 +130,7 @@ dv_has_:
     ar: علس
     arz: حنطه
     ast: Triticum spelta
-    be-tarask: полба
+    be_tarask: полба
     bg: спелта
     br: Yell
     ca: espelta
@@ -174,13 +174,13 @@ dv_has_:
     mul: Triticum spelta
     myv: виш
     nb: spelt
-    nds-nl: dinkelweite
+    nds_nl: dinkelweite
     nl: spelt
     nn: speltkveite
     oc: Espeuta
     pl: pszenica orkisz
     pt: espelta
-    pt-br: Triticum spelta
+    pt_br: Triticum spelta
     ro: Alac spelt
     ru: спельта
     sco: spelt
@@ -188,8 +188,8 @@ dv_has_:
     sl: pira
     sq: Triticum spelta
     sr: крупник
-    sr-ec: крупник
-    sr-el: krupnik
+    sr_ec: крупник
+    sr_el: krupnik
     sv: dinkel
     ta: ஸ்பெல்ட்
     tr: kavuzlu buğday
@@ -201,12 +201,12 @@ dv_has_:
     war: Triticum spelta
     yue: 古麥
     zh: 斯佩耳特小麦
-    zh-cn: 斯佩耳特小麦
-    zh-hans: 斯佩耳特小麦
-    zh-hant: 斯佩耳特小麥
-    zh-hk: 斯佩耳特小麥
-    zh-sg: 斯佩耳特小麦
-    zh-tw: 斯佩耳特小麥
+    zh_cn: 斯佩耳特小麦
+    zh_hans: 斯佩耳特小麦
+    zh_hant: 斯佩耳特小麥
+    zh_hk: 斯佩耳特小麥
+    zh_sg: 斯佩耳特小麦
+    zh_tw: 斯佩耳特小麥
 ---
 # [[Spelt]] 
 

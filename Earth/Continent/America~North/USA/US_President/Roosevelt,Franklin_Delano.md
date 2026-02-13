@@ -240,7 +240,7 @@ dv_has_:
     bar: Franklin D. Roosevelt
     bcl: Franklin D. Roosevelt
     be: Франклін Дэлана Рузвельт
-    be-tarask: Франклін Дэлана Рузвэлт
+    be_tarask: Франклін Дэлана Рузвэлт
     bg: Франклин Делано Рузвелт
     bi: Franklin D. Roosevelt
     bn: ফ্রাঙ্কলিন ডি. রুজভেল্ট
@@ -266,8 +266,8 @@ dv_has_:
     dv: ފްރެންކްލިން ޑިލާނޯ ރޫޒަވެލްޓް
     el: Φραγκλίνος Ρούζβελτ
     en: Franklin Delano Roosevelt
-    en-ca: Franklin D. Roosevelt
-    en-gb: Franklin D. Roosevelt
+    en_ca: Franklin D. Roosevelt
+    en_gb: Franklin D. Roosevelt
     en-us: Franklin Delano Roosevelt
     eo: Franklin D. Roosevelt
     es: Franklin D. Roosevelt
@@ -366,7 +366,7 @@ dv_has_:
     pnb: فرینکلن ڈی روزویلٹ
     ps: فرانکلین ډیلانو روزولټ
     pt: Franklin Delano Roosevelt
-    pt-br: Franklin Delano Roosevelt
+    pt_br: Franklin Delano Roosevelt
     qu: Franklin Roosevelt
     rm: Franklin Delano Roosevelt
     rmf: Franklin D. Roosevelt
@@ -393,8 +393,8 @@ dv_has_:
     sms: Franklin D. Roosevelt
     sq: Franklin D. Roosevelt
     sr: Френклин Делано Рузвелт
-    sr-ec: Френклин Делано Рузвелт
-    sr-el: Frenklin Delano Ruzvelt
+    sr_ec: Френклин Делано Рузвелт
+    sr_el: Frenklin Delano Ruzvelt
     su: Franklin Delano Roosevelt
     sv: Franklin D. Roosevelt
     sw: Franklin D. Roosevelt

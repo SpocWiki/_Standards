@@ -51,17 +51,17 @@ dv_has_:
     ast: Escafandra autónoma
     az: Akvalanq
     be: акваланг
-    be-tarask: аквалянг
+    be_tarask: аквалянг
     bg: Акваланг
     ca: escafandre autònom
     cs: potápěčský přístroj
     da: SCUBA
     de: Drucklufttauchgerät
-    de-ch: Drucklufttauchgerät
+    de_ch: Drucklufttauchgerät
     el: Αυτόνομη κατάδυση
     en: SCUBA
-    en-ca: Scuba set
-    en-gb: scuba set
+    en_ca: Scuba set
+    en_gb: scuba set
     eo: aŭtonoma skafandro
     es: escafandra autónoma
     et: Akvalang
@@ -82,7 +82,7 @@ dv_has_:
     nl: SCUBA
     oc: Escafandre autonòm
     pt: escafandro autónomo
-    pt-br: escafandro autónomo
+    pt_br: escafandro autónomo
     ro: aparat autonom de respirat sub apă
     ru: акваланг
     sl: potapljaški aparat
@@ -94,8 +94,8 @@ dv_has_:
     war: Scuba
     yue: 水肺裝備
     zh: 水肺裝備
-    zh-hans: 水肺潛水設備
-    zh-hant: 水肺潛水裝置
+    zh_hans: 水肺潛水設備
+    zh_hant: 水肺潛水裝置
 ---
 # [[Scuba(self-contained_underwater_breathing_Apparatus)]] 
 

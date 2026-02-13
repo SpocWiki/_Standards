@@ -83,7 +83,7 @@ dv_has_:
     az: Mistifikasiya
     ban: hoak
     be: містыфікацыя
-    be-tarask: містыфікацыя
+    be_tarask: містыфікацыя
     bew: Wadul
     bn: ধোঁকাবাজি
     bs: Hoax
@@ -110,11 +110,11 @@ dv_has_:
     it: bufala
     ja: 妄語
     kk: мистификация
-    kk-arab: مىيستىيفىيكاتسىييا
+    kk_arab: مىيستىيفىيكاتسىييا
     kk-cn: مىيستىيفىيكاتسىييا
-    kk-cyrl: мистификация
+    kk_cyrl: мистификация
     kk-kz: мистификация
-    kk-latn: mïstïfïkacïya
+    kk_latn: mïstïfïkacïya
     kk-tr: mïstïfïkacïya
     ko: 날조
     lmo: Mincionadura
@@ -123,7 +123,7 @@ dv_has_:
     nl: hoax
     pl: mistyfikacja
     pt: hoax
-    pt-br: boato
+    pt_br: boato
     ro: hoax
     ru: мистификация
     scn: buria
@@ -132,8 +132,8 @@ dv_has_:
     sl: potegavščina
     sq: Hoax
     sr: масовна обмана
-    sr-ec: масовна обмана
-    sr-el: Hoaks
+    sr_ec: масовна обмана
+    sr_el: Hoaks
     su: Berita bohong
     sv: hoax
     tr: hoax mail
@@ -142,12 +142,12 @@ dv_has_:
     ur: جھانسا
     yue: 流料
     zh: 惡作劇
-    zh-cn: 恶作剧
-    zh-hans: 恶作剧
-    zh-hant: 惡作劇
-    zh-hk: 惡作劇
-    zh-sg: 恶作剧
-    zh-tw: 惡作劇
+    zh_cn: 恶作剧
+    zh_hans: 恶作剧
+    zh_hant: 惡作劇
+    zh_hk: 惡作劇
+    zh_sg: 恶作剧
+    zh_tw: 惡作劇
 ---
 # [[Hoax]] 
 

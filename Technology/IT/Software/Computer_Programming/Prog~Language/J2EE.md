@@ -23,11 +23,11 @@ dv_has_:
     it: Java EE
     ja: Jakarta EE
     kk: Java EE
-    kk-arab: Java EE
+    kk_arab: Java EE
     kk-cn: Java EE
-    kk-cyrl: Жава ЕЕ
+    kk_cyrl: Жава ЕЕ
     kk-kz: Жава ЕЕ
-    kk-latn: Java EE
+    kk_latn: Java EE
     kk-tr: Java EE
     ko: 자바 플랫폼, 엔터프라이즈 에디션
     lt: J2EE
@@ -46,11 +46,11 @@ dv_has_:
     uk: Java EE
     vi: J2EE
     zh: Java平台企业版
-    zh-hans: Java EE
-    zh-hant: Java EE
-    zh-hk: Java EE
-    zh-sg: Java EE
-    zh-tw: Java EE
+    zh_hans: Java EE
+    zh_hant: Java EE
+    zh_hk: Java EE
+    zh_sg: Java EE
+    zh_tw: Java EE
 aliases:
 - J2EE
 - Jakarta EE

@@ -34,8 +34,8 @@ dv_has_:
     el: Τζιν Σίμονς
     eml: Gene Simmons
     en: Gene Simmons
-    en-ca: Gene Simmons
-    en-gb: Gene Simmons
+    en_ca: Gene Simmons
+    en_gb: Gene Simmons
     es: Gene Simmons
     eu: Gene Simmons
     fa: جن سیمونز
@@ -60,7 +60,7 @@ dv_has_:
     pap: Gene Simmons
     pl: Gene Simmons
     pt: Gene Simmons
-    pt-br: Gene Simmons
+    pt_br: Gene Simmons
     ru: Джин Симмонс
     sh: Gene Simmons
     sk: Gene Simmons
@@ -74,12 +74,12 @@ dv_has_:
     uz: Gene Simmons
     yo: Gene Simmons
     zh: 吉恩·西蒙斯
-    zh-cn: 吉恩·西蒙斯
-    zh-hans: 吉恩·西蒙斯
-    zh-hant: 吉恩·西蒙斯
-    zh-hk: 吉恩·西蒙斯
-    zh-sg: 吉恩·西蒙斯
-    zh-tw: 吉恩·西蒙斯
+    zh_cn: 吉恩·西蒙斯
+    zh_hans: 吉恩·西蒙斯
+    zh_hant: 吉恩·西蒙斯
+    zh_hk: 吉恩·西蒙斯
+    zh_sg: 吉恩·西蒙斯
+    zh_tw: 吉恩·西蒙斯
 ---
 #has_/time_/started :: 1949-08-25 
 

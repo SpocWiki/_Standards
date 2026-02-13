@@ -116,7 +116,7 @@ dv_has_:
     az: Parlamentar rejim
     bcl: Sistemang parlamentaryo
     be: парламенцкая сістэма
-    be-tarask: парлямэнцкая сыстэма
+    be_tarask: парлямэнцкая сыстэма
     bho: संसदीय ब्यवस्था
     bn: সংসদীয় গণতন্ত্র
     bs: parlamentarni sistem
@@ -156,7 +156,7 @@ dv_has_:
     ja: 議院内閣制
     jv: Sistem parlemèntèr
     ka: საპარლამენტო რესპუბლიკა
-    kk-arab: پارلامەنتتىك رەسپۋبلىيكا
+    kk_arab: پارلامەنتتىك رەسپۋبلىيكا
     kk-cn: پارلامەنتتىك رەسپۋبلىيكا
     kn: ಸಂಸದೀಯ ವ್ಯವಸ್ಥೆ
     ko: 의원내각제
@@ -182,7 +182,7 @@ dv_has_:
     pl: system parlamentarny
     pnb: پارلیمانی نظام
     ps: پارلماني حکومت
-    pt-br: sistema parlamentarista
+    pt_br: sistema parlamentarista
     ro: sistem parlamentar
     ru: парламентская система
     sah: парламент системата
@@ -192,14 +192,14 @@ dv_has_:
     sl: parlamentarni sistem
     sq: Sistemi kuvendor
     sr: парламентарни систем
-    sr-ec: парламентарни систем
-    sr-el: parlamentarni sistem
+    sr_ec: парламентарни систем
+    sr_el: parlamentarni sistem
     su: Sistim parleméntér
     sv: parlamentariskt system
     sw: Serikali ya kibunge
     ta: பாராளுமன்ற முறை
     tet: Sistema parlamentar
-    tg-cyrl: системаи парлумон
+    tg_cyrl: системаи парлумон
     th: ระบบรัฐสภา
     tl: Pamamaraang parlamentaryo
     tr: parlamenter sistem
@@ -213,8 +213,8 @@ dv_has_:
     yo: ìjọba aṣojú
     yue: 議會制
     zh: 議會制
-    zh-hans: 议会制
-    zh-hant: 議會制
+    zh_hans: 议会制
+    zh_hant: 議會制
     zu: IRiphabuliki Wephalamende
 ---
 # [[Parliamentary_System]] 

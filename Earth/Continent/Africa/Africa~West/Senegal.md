@@ -522,7 +522,7 @@ dv_has_:
     ab: Сенегал
     ace: Senegal
     ady: Сенегал
-    aeb-arab: السنيڨال
+    aeb_arab: السنيڨال
     af: Senegal
     am: ሴኔጋል
     ami: Senegal
@@ -542,7 +542,7 @@ dv_has_:
     bar: Senegal
     bcl: Senegal
     be: Сенегал
-    be-tarask: Сэнэгал
+    be_tarask: Сэнэгал
     bew: Sénégal
     bg: Сенегал
     bho: सेनेगल
@@ -556,14 +556,14 @@ dv_has_:
     bs: Senegal
     bxr: Сенегал
     ca: Senegal
-    cbk-zam: Senegal
+    cbk_zam: Senegal
     cdo: Senegal
     ce: Сенегал
     ceb: Senegal
     ckb: سێنیگال
     co: Senegallu
     crh: Senegal
-    crh-latn: Senegal
+    crh_latn: Senegal
     cs: Senegal
     cv: Сенегал
     cy: Senegal
@@ -571,7 +571,7 @@ dv_has_:
     dag: Senegal
     de: Senegal
     de-at: Senegal
-    de-ch: Senegal
+    de_ch: Senegal
     dga: Senegal
     diq: Senegal
     dsb: Senegal
@@ -581,8 +581,8 @@ dv_has_:
     ee: Senegal
     el: Σενεγάλη
     en: Senegal
-    en-ca: Senegal
-    en-gb: Senegal
+    en_ca: Senegal
+    en_gb: Senegal
     eo: Senegalo
     es: Senegal
     et: Senegal
@@ -685,7 +685,7 @@ dv_has_:
     nap: Senegal
     nb: Senegal
     nds: Senegal
-    nds-nl: Senegal
+    nds_nl: Senegal
     ne: सेनेगल
     new: सेनेगल
     nl: Senegal
@@ -709,7 +709,7 @@ dv_has_:
     pnb: سینیگال
     ps: سېنېګال
     pt: Senegal
-    pt-br: Senegal
+    pt_br: Senegal
     qu: Sinigal
     rmy: Senegal
     ro: Senegal
@@ -739,8 +739,8 @@ dv_has_:
     so: Sinigaal
     sq: Senegali
     sr: Сенегал
-    sr-ec: Сенегал
-    sr-el: Senegal
+    sr_ec: Сенегал
+    sr_el: Senegal
     st: Senegal
     stq: Senegal
     su: Sénégal
@@ -788,13 +788,13 @@ dv_has_:
     zea: Senegal
     zgh: ⵙⵉⵏⵉⴳⴰⵍ
     zh: 塞内加尔
-    zh-cn: 塞内加尔
-    zh-hans: 塞内加尔
-    zh-hant: 塞內加爾
-    zh-hk: 塞內加爾
-    zh-mo: 塞內加爾
-    zh-sg: 塞内加尔
-    zh-tw: 塞內加爾
+    zh_cn: 塞内加尔
+    zh_hans: 塞内加尔
+    zh_hant: 塞內加爾
+    zh_hk: 塞內加爾
+    zh_mo: 塞內加爾
+    zh_sg: 塞内加尔
+    zh_tw: 塞內加爾
     zu: ISenegal
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Senegal

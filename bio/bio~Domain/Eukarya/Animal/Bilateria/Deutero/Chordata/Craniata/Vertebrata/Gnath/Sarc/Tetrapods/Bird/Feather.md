@@ -139,7 +139,7 @@ dv_has_:
     azb: یئلک
     bcl: balukag
     be: пяро
-    be-tarask: пяро
+    be_tarask: пяро
     bg: перо
     bn: পালক
     br: plu
@@ -213,7 +213,7 @@ dv_has_:
     pl: pióro
     pnb: پھنگھ
     pt: pena
-    pt-br: pena
+    pt_br: pena
     qu: phuru
     ro: pană
     rsk: Пирє
@@ -244,9 +244,9 @@ dv_has_:
     xmf: ბურდღა
     yue: 羽毛
     zh: 羽毛
-    zh-hans: 羽毛
-    zh-hant: 羽毛
-    zh-tw: 羽毛
+    zh_hans: 羽毛
+    zh_hant: 羽毛
+    zh_tw: 羽毛
 ---
 # [[Feather]] 
 

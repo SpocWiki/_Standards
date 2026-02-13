@@ -136,7 +136,7 @@ dv_has_:
     ban: Hassium
     bcl: Hasyo
     be: хасій
-    be-tarask: Гас
+    be_tarask: Гас
     bg: хасий
     bho: हस्सियम
     bn: হ্যাসিয়াম
@@ -155,7 +155,7 @@ dv_has_:
     de: Hassium
     el: χάσιο
     en: hassium
-    en-gb: hassium
+    en_gb: hassium
     eo: hasiumo
     es: hasio
     et: hassium
@@ -229,7 +229,7 @@ dv_has_:
     pnb: ہاسیم
     ps: هاسيوم
     pt: hássio
-    pt-br: hássio
+    pt_br: hássio
     qu: hasyu
     ro: hassiu
     ru: хассий
@@ -244,7 +244,7 @@ dv_has_:
     so: hasiyaam
     sq: hassiumi
     sr: хасијум
-    sr-ec: хасијум
+    sr_ec: хасијум
     stq: hassium
     sv: hassium
     sw: Hassi
@@ -268,14 +268,14 @@ dv_has_:
     yo: Hassiomu
     yue: "\U00028B46"
     zh: "\U00028B46"
-    zh-cn: "\U0002CB76"
-    zh-hans: "\U0002CB76"
-    zh-hant: "\U00028B46"
-    zh-hk: "\U00028B46"
-    zh-mo: "\U00028B46"
+    zh_cn: "\U0002CB76"
+    zh_hans: "\U0002CB76"
+    zh_hant: "\U00028B46"
+    zh_hk: "\U00028B46"
+    zh_mo: "\U00028B46"
     zh-my: "\U0002CB76"
-    zh-sg: "\U0002CB76"
-    zh-tw: "\U00028B46"
+    zh_sg: "\U0002CB76"
+    zh_tw: "\U00028B46"
     zu: UmHasambi
 ---
 # [[Hassium]] 

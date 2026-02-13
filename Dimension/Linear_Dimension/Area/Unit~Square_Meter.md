@@ -171,7 +171,7 @@ dv_has_:
     ba: квадрат метр
     bar: Quadratmeta
     be: квадратны метр
-    be-tarask: квадратны мэтар
+    be_tarask: квадратны мэтар
     bg: квадратен метър
     bn: বর্গমিটার
     br: metr karrez
@@ -187,8 +187,8 @@ dv_has_:
     de: Quadratmeter
     el: τετραγωνικό μέτρο
     en: square metre
-    en-ca: square metre
-    en-gb: square metre
+    en_ca: square metre
+    en_gb: square metre
     en-us: square meter
     eo: kvadrata metro
     es: metro cuadrado
@@ -222,7 +222,7 @@ dv_has_:
     ko: 제곱미터
     ksh: Kwadraatmeter
     ku: metre çargoşe
-    ku-latn: metre çargoşe
+    ku_latn: metre çargoşe
     la: metrum quadratum
     lb: Quadratmeter
     li: veerkante maeter
@@ -248,7 +248,7 @@ dv_has_:
     pnb: مربع میٹر
     ps: متره مربع
     pt: metro quadrado
-    pt-br: metro(s) quadrado(s)
+    pt_br: metro(s) quadrado(s)
     rm: m²
     ro: metru pătrat
     ru: квадратный метр
@@ -263,18 +263,18 @@ dv_has_:
     so: mitir labajibbaaran
     sq: metër katror
     sr: квадратни метар
-    sr-ec: квадратни метар
+    sr_ec: квадратни метар
     su: méter pasagi
     sv: kvadratmeter
     sw: mita ya mraba
     ta: சதுர மீட்டர்
     te: చదరపు మీటరు
     tg: метри мураббаъ
-    tg-cyrl: километри мураббаъ
+    tg_cyrl: километри мураббаъ
     th: ตารางเมตร
     tr: metrekare
     tt: квадрат метр
-    tt-cyrl: квадрат метр
+    tt_cyrl: квадрат метр
     uk: квадратний метр
     ur: مربع میٹر
     uz: kvadrat metr
@@ -285,14 +285,14 @@ dv_has_:
     yo: ìlọ́poméjì mítà
     yue: 平方米
     zh: 平方米
-    zh-cn: 平方米
-    zh-hans: 平方米
-    zh-hant: 平方公尺
-    zh-hk: 平方米
-    zh-mo: 平方米
+    zh_cn: 平方米
+    zh_hans: 平方米
+    zh_hant: 平方公尺
+    zh_hk: 平方米
+    zh_mo: 平方米
     zh-my: 平方米
-    zh-sg: 平方米
-    zh-tw: 平方公尺
+    zh_sg: 平方米
+    zh_tw: 平方公尺
 ---
 # [[Unit~Square_Meter]] 
 

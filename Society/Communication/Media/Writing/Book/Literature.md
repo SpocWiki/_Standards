@@ -233,7 +233,7 @@ dv_has_:
     bar: Literadua
     bcl: literatura
     be: літаратура
-    be-tarask: літаратура
+    be_tarask: літаратура
     bg: литература
     bho: साहित्य
     bjn: sastra
@@ -259,13 +259,13 @@ dv_has_:
     da: litteratur
     dag: litiricha
     de: Literatur
-    de-ch: Literatur
+    de_ch: Literatur
     diq: edebiyat
     dv: އަދަބިއްޔާތު
     el: λογοτεχνία
     en: literature
-    en-ca: literature
-    en-gb: literature
+    en_ca: literature
+    en_gb: literature
     eo: literaturo
     es: literatura
     et: kirjandus
@@ -341,7 +341,7 @@ dv_has_:
     mad: literasi
     mag: साहित्य
     mai: साहित्य
-    map-bms: sastra
+    map_bms: sastra
     mdf: кяльвалсь
     mg: haisoratra
     mhr: сылнымут
@@ -352,7 +352,7 @@ dv_has_:
     mnw: လိက်ပတ်
     mr: साहित्य
     ms: kesusasteraan
-    ms-arab: کسوسستراءن
+    ms_arab: کسوسستراءن
     mt: letteratura
     mwl: literatura
     my: စာပေ
@@ -361,7 +361,7 @@ dv_has_:
     nap: litteratura
     nb: litteratur
     nds: Literatur
-    nds-nl: literatuur
+    nds_nl: literatuur
     ne: साहित्य
     new: साहित्य
     nl: literatuur
@@ -384,7 +384,7 @@ dv_has_:
     pnb: ادب
     ps: ادبيات
     pt: literatura
-    pt-br: literatura
+    pt_br: literatura
     qu: simi kapchiy
     rmy: literatura
     ro: literatură
@@ -414,7 +414,7 @@ dv_has_:
     so: suugaan
     sq: letërsi
     sr: књижевност
-    sr-ec: књижевност
+    sr_ec: књижевност
     stq: Flugge Literatuur
     su: sastra
     sv: litteratur
@@ -429,7 +429,7 @@ dv_has_:
     tr: edebiyat
     ts: vutsari
     tt: әдәбият
-    tt-cyrl: әдәбият
+    tt_cyrl: әдәбият
     udm: литература
     ug: ئەدەبىيات
     uk: література
@@ -451,14 +451,14 @@ dv_has_:
     za: vwnzyoz
     zea: literatuur
     zh: 文學
-    zh-cn: 文学
-    zh-hans: 文学
-    zh-hant: 文學
-    zh-hk: 文學
-    zh-mo: 文學
+    zh_cn: 文学
+    zh_hans: 文学
+    zh_hant: 文學
+    zh_hk: 文學
+    zh_mo: 文學
     zh-my: 文學
-    zh-sg: 文學
-    zh-tw: 文學
+    zh_sg: 文學
+    zh_tw: 文學
 ---
 # [[Literature]] 
 

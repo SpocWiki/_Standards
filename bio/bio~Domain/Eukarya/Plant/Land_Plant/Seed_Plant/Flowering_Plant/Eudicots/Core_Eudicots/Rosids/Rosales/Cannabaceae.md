@@ -121,7 +121,7 @@ dv_has_:
     ast: Cannabaceae
     az: Çətənəkimilər
     be: Каноплевыя
-    be-tarask: Каноплевыя
+    be_tarask: Каноплевыя
     bg: конопови
     bs: Cannabaceae
     ca: cannabàcies
@@ -170,7 +170,7 @@ dv_has_:
     pl: Konopiowate
     pnb: بھنگ ٹبر
     pt: Cannabaceae
-    pt-br: Cannabaceae
+    pt_br: Cannabaceae
     qu: Kañamu yura rikch'aq ayllu
     ro: Canabacee
     ru: коноплёвые
@@ -183,7 +183,7 @@ dv_has_:
     th: วงศ์กัญชา
     tr: Kendirgiller
     tt: киндерчәләр
-    tt-cyrl: киндерчәләр
+    tt_cyrl: киндерчәләр
     uk: Коноплеві
     uz: Nashadoshlar
     vi: Họ Gai dầu
@@ -193,12 +193,12 @@ dv_has_:
     xmf: კიფიშობურეფი
     yue: 大麻科
     zh: 大麻科
-    zh-cn: 大麻科
-    zh-hans: 大麻科
-    zh-hant: 大麻科
-    zh-hk: 大麻科
-    zh-sg: 大麻科
-    zh-tw: 大麻科
+    zh_cn: 大麻科
+    zh_hans: 大麻科
+    zh_hant: 大麻科
+    zh_hk: 大麻科
+    zh_sg: 大麻科
+    zh_tw: 大麻科
 ---
 # [[Cannabaceae]] 
 

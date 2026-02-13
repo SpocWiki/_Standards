@@ -63,13 +63,13 @@ dv_has_:
   name_:
     ar: سلسلة تلال المحيط الهادئ والقطب الجنوبي
     az: Cənubi Sakit okean silsiləsi
-    be-tarask: Ціхаакіянска-Антарктычны сьцяг
+    be_tarask: Ціхаакіянска-Антарктычны сьцяг
     ca: dorsal Pacífic-Antàrtica
     ceb: Pacific-Antarctic Ridge
     de: Pazifisch-Antarktischer Rücken
     en: Pacific-Antarctic Ridge
-    en-ca: Pacific-Antarctic Ridge
-    en-gb: Pacific-Antarctic Ridge
+    en_ca: Pacific-Antarctic Ridge
+    en_gb: Pacific-Antarctic Ridge
     es: Dorsal Pacífico-Antártica
     eu: Pazifiko-Antartikako dortsala
     fa: پشته اقیانوس آرام-جنوبگان
@@ -91,9 +91,9 @@ dv_has_:
     wuu: 太平洋-南极洋脊
     yue: 太平洋-南極海嶺
     zh: 太平洋-南极洋脊
-    zh-hans: 太平洋-南极洋脊
-    zh-hant: 太平洋-南極洋脊
-    zh-hk: 太平洋-南極洋脊
+    zh_hans: 太平洋-南极洋脊
+    zh_hant: 太平洋-南極洋脊
+    zh_hk: 太平洋-南極洋脊
 ---
 # [[Pacific-Antarctic_Ridge]] 
 

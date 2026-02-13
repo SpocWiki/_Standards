@@ -171,7 +171,7 @@ dv_has_:
     bar: Ursula von der Leyen
     bcl: Ursula von der Leyen
     be: Урсула фон дэр Ляен
-    be-tarask: Урсуля фон дэр Ляен
+    be_tarask: Урсуля фон дэр Ляен
     bg: Урсула фон дер Лайен
     bho: उर्जुला भोन डर लायन
     bn: উরসুলা ফন ডেয়ার লায়েন
@@ -186,7 +186,7 @@ dv_has_:
     da: Ursula von der Leyen
     de: Ursula von der Leyen
     de-at: Ursula von der Leyen
-    de-ch: Ursula von der Leyen
+    de_ch: Ursula von der Leyen
     diq: Ursula von der Leyen
     dsb: Ursula von der Leyen
     ee: Ursula von der Leyen
@@ -194,8 +194,8 @@ dv_has_:
     el: Ούρσουλα Φον Ντερ Λάιεν
     eml: Ursula von der Leyen
     en: Ursula von der Leyen
-    en-ca: Ursula von der Leyen
-    en-gb: Ursula von der Leyen
+    en_ca: Ursula von der Leyen
+    en_gb: Ursula von der Leyen
     eo: Ursula von der Leyen
     es: Ursula von der Leyen
     et: Ursula von der Leyen
@@ -251,7 +251,7 @@ dv_has_:
     lt: Ursula von der Leyen
     lv: Urzula fon der Leiene
     mai: उर्जुला भोन डर लायन
-    map-bms: Ursula von der Leyen
+    map_bms: Ursula von der Leyen
     mg: Ursula von der Leyen
     mhr: Урсула фон дер Ляйен
     min: Ursula von der Leyen
@@ -266,7 +266,7 @@ dv_has_:
     nap: Ursula von der Leyen
     nb: Ursula von der Leyen
     nds: Ursula von der Leyen
-    nds-nl: Ursula von der Leyen
+    nds_nl: Ursula von der Leyen
     ne: उर्जुला भोन डर लायन
     nl: Ursula von der Leyen
     nn: Ursula von der Leyen
@@ -284,7 +284,7 @@ dv_has_:
     pms: Ursula von der Leyen
     pnb: اورزولا گیرٹروڈ فون ڈیر لایین
     pt: Ursula von der Leyen
-    pt-br: Ursula von der Leyen
+    pt_br: Ursula von der Leyen
     rm: Ursula von der Leyen
     rmf: Ursula von der Leyen
     rmy: Ursula von der Leyen
@@ -313,7 +313,7 @@ dv_has_:
     sms: Ursula von der Leyen
     sq: Ursula von der Leyen
     sr: Урзула фон дер Лајен
-    sr-el: Ursula von der Leyen
+    sr_el: Ursula von der Leyen
     stq: Ursula von der Leyen
     su: Ursula von der Leyen
     sv: Ursula von der Leyen
@@ -344,14 +344,14 @@ dv_has_:
     yue: 馮德萊恩
     zea: Ursula von der Leyen
     zh: 乌尔苏拉·冯德莱恩
-    zh-cn: 乌尔苏拉·冯德莱恩
-    zh-hans: 乌尔苏拉·冯德莱恩
-    zh-hant: 烏蘇拉·范德賴恩
-    zh-hk: 烏爾蘇拉·馮德萊恩
-    zh-mo: 烏爾蘇拉·馮德萊恩
+    zh_cn: 乌尔苏拉·冯德莱恩
+    zh_hans: 乌尔苏拉·冯德莱恩
+    zh_hant: 烏蘇拉·范德賴恩
+    zh_hk: 烏爾蘇拉·馮德萊恩
+    zh_mo: 烏爾蘇拉·馮德萊恩
     zh-my: 乌尔苏拉·冯德莱恩
-    zh-sg: 乌尔苏拉·冯德莱恩
-    zh-tw: 烏蘇拉·范德賴恩
+    zh_sg: 乌尔苏拉·冯德莱恩
+    zh_tw: 烏蘇拉·范德賴恩
     zu: Ursula von der Leyen
 ---
 # [[Ursula_von_der_Leyen]] 

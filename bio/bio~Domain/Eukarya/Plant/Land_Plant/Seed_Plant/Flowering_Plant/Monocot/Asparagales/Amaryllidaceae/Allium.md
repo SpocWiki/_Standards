@@ -105,7 +105,7 @@ dv_has_:
     ast: Allium
     az: Soğan
     be: Цыбуля
-    be-tarask: цыбуля
+    be_tarask: цыбуля
     bg: лук
     bn: অ্যালিয়াম
     ca: Allium
@@ -118,8 +118,8 @@ dv_has_:
     dga: Zamadaare
     dsb: Kobołk
     en: Allium
-    en-ca: Allium
-    en-gb: Allium
+    en_ca: Allium
+    en_gb: Allium
     eo: Aliumo
     es: Allium
     et: Lauk
@@ -166,7 +166,7 @@ dv_has_:
     os: Хъæдындз
     pl: czosnek
     pt: Allium
-    pt-br: Allium
+    pt_br: Allium
     qu: Pulla
     ro: Allium
     ru: лук
@@ -194,9 +194,9 @@ dv_has_:
     xmf: ხვარხვი
     yue: 蔥屬
     zh: 葱属
-    zh-cn: 蔥屬
-    zh-hans: 葱属
-    zh-tw: 蔥屬
+    zh_cn: 蔥屬
+    zh_hans: 葱属
+    zh_tw: 蔥屬
 ---
 # [[Allium]] 
 

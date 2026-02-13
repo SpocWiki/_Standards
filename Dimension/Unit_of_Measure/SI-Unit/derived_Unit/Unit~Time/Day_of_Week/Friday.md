@@ -356,11 +356,11 @@ dv_has_:
     ban: Sukra
     bar: Freida
     bas: ngwa k√≥√≥
-    bbc-latn: Ari Jumat
+    bbc_latn: Ari Jumat
     bbj: tyə́ʼpfô
     bcl: Byernes
     be: пятніца
-    be-tarask: пятніца
+    be_tarask: пятніца
     bew: Juma'at
     bg: Петък
     bho: शुक्रवार
@@ -376,7 +376,7 @@ dv_has_:
     bxr: Гарагай зургаан
     byv: mfɛ̌nntα̂nndʉb
     ca: divendres
-    cbk-zam: Viernes
+    cbk_zam: Viernes
     cdo: Lā̤-bái-ngô
     ce: ПӀераска
     ceb: Biyernes
@@ -394,7 +394,7 @@ dv_has_:
     da: fredag
     dag: Alizimba
     de: Freitag
-    de-ch: Freitag
+    de_ch: Freitag
     diq: Yene
     dsb: Pětk
     dty: शुक्रवार
@@ -404,8 +404,8 @@ dv_has_:
     el: Παρασκευή
     eml: venerdé
     en: Friday
-    en-ca: Friday
-    en-gb: Friday
+    en_ca: Friday
+    en_gb: Friday
     eo: vendredo
     es: viernes
     et: reede
@@ -513,7 +513,7 @@ dv_has_:
     mos: Friday
     mr: शुक्रवार
     ms: Jumaat
-    ms-arab: جمعة
+    ms_arab: جمعة
     mua: comgaisuu
     mwl: Sesta
     my: သောကြာ
@@ -528,7 +528,7 @@ dv_has_:
     nap: viernarì
     nb: fredag
     nds: Freedag
-    nds-nl: vriedag
+    nds_nl: vriedag
     ne: शुक्रवार
     new: लुँन्हि
     nl: vrijdag
@@ -554,7 +554,7 @@ dv_has_:
     pnt: Παρασκευήν
     ps: ادينه
     pt: sexta-feira
-    pt-br: sexta-feira
+    pt_br: sexta-feira
     qu: Ch'askachaw
     rmf: pangȟto diives
     ro: vineri
@@ -584,7 +584,7 @@ dv_has_:
     so: Jimco
     sq: e premte
     sr: петак
-    sr-ec: петак
+    sr_ec: петак
     st: Labohlano
     su: Jumaah
     sv: fredag
@@ -595,7 +595,7 @@ dv_has_:
     tcy: ಶುಕ್ರಾರ
     te: శుక్రవారం
     tg: ҷумъа
-    tg-latn: jum'a
+    tg_latn: jum'a
     th: วันศุกร์
     tk: Anna
     tl: Biyernes
@@ -603,7 +603,7 @@ dv_has_:
     tpi: Fraide
     tr: Cuma
     tt: җомга
-    tt-cyrl: Җомга
+    tt_cyrl: Җомга
     tvu: ɛsɛmbɛlɔ́
     tw: Fiada
     tyv: Беш дугаар хүн
@@ -636,10 +636,10 @@ dv_has_:
     za: singhgiz haj
     zgh: ⴰⵙⵉⵎⵡⴰⵙ
     zh: 星期五
-    zh-hans: 星期五
-    zh-hant: 星期五
-    zh-hk: 星期五
-    zh-tw: 星期五
+    zh_hans: 星期五
+    zh_hant: 星期五
+    zh_hk: 星期五
+    zh_tw: 星期五
 ---
 # [[Friday]] 
 

@@ -90,7 +90,7 @@ dv_has_:
     az: yumor
     azb: یومور
     be: гумар
-    be-tarask: гумар
+    be_tarask: гумар
     bg: Хумор
     bn: হাস্যরস
     bo: དགོད་བྲོ།
@@ -102,7 +102,7 @@ dv_has_:
     de: Humor
     el: χιούμορ
     en: humour
-    en-gb: humour
+    en_gb: humour
     en-us: humor
     eo: humuro
     es: humor
@@ -145,7 +145,7 @@ dv_has_:
     pl: humor
     pnb: مزاح
     pt: humor
-    pt-br: humor
+    pt_br: humor
     ro: umor
     ru: юмор
     rue: Гумор
@@ -162,7 +162,7 @@ dv_has_:
     tly: Jumor
     tr: ince alay
     tt: юмор
-    tt-cyrl: юмор
+    tt_cyrl: юмор
     udm: серемес
     uk: гумор
     ur: مزاح
@@ -173,7 +173,7 @@ dv_has_:
     yi: הומאר
     yue: 搞笑
     zh: 幽默
-    zh-hant: 幽默
+    zh_hant: 幽默
 ---
 # [[Humor]] 
 

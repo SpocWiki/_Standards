@@ -295,7 +295,7 @@ OpenStreetMap_key:
 - name:pa
 dv_has_:
   name_:
-    aeb-arab: الپنجابية
+    aeb_arab: الپنجابية
     af: Panjabi
     am: ፐንጃብኛ
     an: Idioma panchabi
@@ -310,7 +310,7 @@ dv_has_:
     ba: Пәнжәб теле
     bcc: پنجابی
     be: панджабі
-    be-tarask: панджабі
+    be_tarask: панджабі
     bg: Панджабски език
     bgn: پنجابی
     bho: "\U000110A3\U00011081\U00011094\U000110B0\U000110A5\U000110B2"
@@ -420,7 +420,7 @@ dv_has_:
     sl: pandžabščina
     sq: Gjuha penxhabe
     sr: панџаби
-    sr-ec: панџаби
+    sr_ec: панџаби
     sv: punjabi
     sw: Kipunjabi ya Mashariki
     ta: பஞ்சாபி மொழி
@@ -445,9 +445,9 @@ dv_has_:
     xmf: პენჯაბური ნინა
     yue: 旁遮普話
     zh: 旁遮普語
-    zh-cn: 旁遮普语
-    zh-hans: 旁遮普语
-    zh-hant: 旁遮普語
+    zh_cn: 旁遮普语
+    zh_hans: 旁遮普语
+    zh_hant: 旁遮普語
 ---
 # [[Lang-pan]] 
 

@@ -165,7 +165,7 @@ dv_has_:
     ba: Үрмәксе һымаҡтар
     bar: Arachnida
     be: павукападобныя
-    be-tarask: павукападобныя
+    be_tarask: павукападобныя
     bg: паякообразни
     bn: অ্যারাকনিডা
     br: Arachnida
@@ -180,11 +180,11 @@ dv_has_:
     da: spindlere
     de: Spinnentiere
     de-at: Arachnida
-    de-ch: Spinnentiere
+    de_ch: Spinnentiere
     el: Αραχνίδια
     en: Arachnida
-    en-ca: Arachnid
-    en-gb: Arachnid
+    en_ca: Arachnid
+    en_gb: Arachnid
     eo: araneedoj
     es: arácnidos
     et: ämblikulaadsed
@@ -241,7 +241,7 @@ dv_has_:
     nap: Arachnida
     nb: edderkoppdyr
     nds: Spinnendeerter
-    nds-nl: Arachnida
+    nds_nl: Arachnida
     new: एराकनिदा
     nl: spinachtigen
     nn: edderkoppdyr
@@ -256,7 +256,7 @@ dv_has_:
     pms: Arachnida
     ps: غڼه ډوله ژوي
     pt: aracnídeo
-    pt-br: aracnídeos
+    pt_br: aracnídeos
     qu: pakcha
     rm: Arachnida
     ro: arahnidă
@@ -277,7 +277,7 @@ dv_has_:
     tl: Arachnida
     tr: Örümceğimsiler
     tt: үрмәкүчсыманнар
-    tt-cyrl: үрмәкүчсыманнар
+    tt_cyrl: үрмәкүчсыманнар
     uk: Павукоподібні
     uz: Oʻrgimchaksimonlar
     vec: Arachnida
@@ -290,9 +290,9 @@ dv_has_:
     wuu: 蛛形纲
     yue: 蜘蛛綱
     zh: 蛛形纲
-    zh-cn: 蛛形纲
-    zh-hans: 蛛形纲
-    zh-tw: 蛛形綱
+    zh_cn: 蛛形纲
+    zh_hans: 蛛形纲
+    zh_tw: 蛛形綱
     zu: Arachnida
 ---
 # [[Arachnida]]

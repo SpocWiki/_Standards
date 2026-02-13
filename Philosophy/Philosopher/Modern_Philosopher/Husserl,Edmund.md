@@ -160,7 +160,7 @@ dv_has_:
     ast: Edmund Husserl
     az: Edmund Husserl
     be: Эдмунд Гусерль
-    be-tarask: Эдмунд Гусэрль
+    be_tarask: Эдмунд Гусэрль
     bg: Едмунд Хусерл
     br: Edmund Husserl
     bs: Edmund Husserl
@@ -214,7 +214,7 @@ dv_has_:
     pl: Edmund Husserl
     ps: اډمنډ هسل
     pt: Edmund Husserl
-    pt-br: Edmund Husserl
+    pt_br: Edmund Husserl
     ro: Edmund Husserl
     ru: Эдмунд Густав Альбрехт Гуссерль
     sco: Edmund Husserl
@@ -238,9 +238,9 @@ dv_has_:
     yo: Edmund Husserl
     yue: 愛德蒙·胡沙勞
     zh: 埃德蒙德·胡塞爾
-    zh-cn: 埃德蒙德·胡塞尔
+    zh_cn: 埃德蒙德·胡塞尔
     zh-hans: 埃德蒙·胡塞尔
-    zh-hk: 愛德蒙·胡塞爾
+    zh_hk: 愛德蒙·胡塞爾
 ---
 # [[Husserl,Edmund]] 
 

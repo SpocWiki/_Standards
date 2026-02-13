@@ -34,7 +34,7 @@ dv_has_:
     oc: Akodontini
     pl: Akodontini
     pt: Akodontini
-    pt-br: Akodontini
+    pt_br: Akodontini
     ro: Akodontini
     ru: Akodontini
     sq: Akodontini

@@ -110,7 +110,7 @@ dv_has_:
     ast: planetoide
     az: kiçik planet
     be: малая планета
-    be-tarask: малая плянэта
+    be_tarask: малая плянэта
     bg: малка планета
     bn: গৌণ গ্রহরাশি
     bs: male planete
@@ -158,7 +158,7 @@ dv_has_:
     pl: planetka
     ps: کوچنۍ سیاره
     pt: planeta menor
-    pt-br: planeta menor
+    pt_br: planeta menor
     ro: planetă minoră
     ru: малая планета
     rue: планетка
@@ -169,8 +169,8 @@ dv_has_:
     sl: mali planet
     sq: planet i vogël
     sr: мала планета
-    sr-ec: мала планета
-    sr-el: mala planeta
+    sr_ec: мала планета
+    sr_el: mala planeta
     sv: småplanet
     sw: sayari ndogo
     ta: சிறு கோள்
@@ -184,9 +184,9 @@ dv_has_:
     yue: 微型行星
     zgh: ⴰⵎⵜⵉⵡⴳ ⴰⵎⵥⵥⴰⵢ
     zh: 微型行星
-    zh-hans: 微型行星
-    zh-hant: 微型行星
-    zh-hk: 微型行星
+    zh_hans: 微型行星
+    zh_hant: 微型行星
+    zh_hk: 微型行星
 ---
 # [[Minor_Planet]] 
 

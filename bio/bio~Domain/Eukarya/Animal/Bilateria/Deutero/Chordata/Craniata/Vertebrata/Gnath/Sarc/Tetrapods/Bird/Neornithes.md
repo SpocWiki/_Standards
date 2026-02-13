@@ -275,7 +275,7 @@ dv_has_:
     bcl: gamgam
     bdr: memanuk
     be: птушкі
-    be-tarask: птушкі
+    be_tarask: птушкі
     bew: Burung
     bg: птици
     bho: चिरई
@@ -421,7 +421,7 @@ dv_has_:
     nap: auciello
     nb: fugler
     nds: Vagels
-    nds-nl: voegel
+    nds_nl: voegel
     ne: चरा
     new: झंगः
     nl: vogels
@@ -445,7 +445,7 @@ dv_has_:
     pnb: پنچھی
     ps: مرغه
     pt: ave
-    pt-br: ave
+    pt_br: ave
     qu: pisqu
     rm: utschels
     ro: pasăre
@@ -494,7 +494,7 @@ dv_has_:
     tpi: Pisin
     tr: kuş
     tt: кошлар
-    tt-cyrl: кошлар
+    tt_cyrl: кошлар
     tum: viyuni
     tw: nnomaa
     udm: тылобурдо
@@ -520,10 +520,10 @@ dv_has_:
     za: duzroeg
     zea: veugels
     zh: 鳥綱
-    zh-cn: 鸟纲
-    zh-hans: 鸟纲
-    zh-hant: 鳥綱
-    zh-tw: 鳥綱
+    zh_cn: 鸟纲
+    zh_hans: 鸟纲
+    zh_hant: 鳥綱
+    zh_tw: 鳥綱
     zu: Inyoni
 ---
 # [[Neornithes]]

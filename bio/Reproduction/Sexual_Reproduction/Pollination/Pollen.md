@@ -102,7 +102,7 @@ dv_has_:
     az: Çiçək tozu
     ba: Һеркә
     be: Пылок
-    be-tarask: пылок
+    be_tarask: пылок
     bg: Цветен прашец
     bs: Polen
     ca: pol·len
@@ -114,7 +114,7 @@ dv_has_:
     de: Pollen
     el: Γύρη
     en: pollen
-    en-gb: pollen
+    en_gb: pollen
     eo: poleno
     es: polen
     et: õietolm
@@ -185,7 +185,7 @@ dv_has_:
     wuu: 花粉
     yue: 花粉
     zh: 花粉
-    zh-hans: 花粉
+    zh_hans: 花粉
 ---
 # [[Pollen]] 
 

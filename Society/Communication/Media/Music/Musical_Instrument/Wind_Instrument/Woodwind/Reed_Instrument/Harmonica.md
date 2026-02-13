@@ -116,7 +116,7 @@ dv_has_:
     atj: potatcikan
     bar: Fotznhobe
     be: губны гармонік
-    be-tarask: губны гармонік
+    be_tarask: губны гармонік
     bew: Horgol
     bg: устна хармоника
     bn: হারমোনিকা
@@ -128,11 +128,11 @@ dv_has_:
     cy: harmonica
     da: mundharmonika
     de: Mundharmonika
-    de-ch: Mundharmonika
+    de_ch: Mundharmonika
     el: φυσαρμόνικα
     en: harmonica
-    en-ca: Harmonica
-    en-gb: harmonica
+    en_ca: Harmonica
+    en_gb: harmonica
     en-us: harmonica
     eo: buŝharmoniko
     es: armónica
@@ -176,14 +176,14 @@ dv_has_:
     mzn: تکبنی ساز
     nan: Kháu-khîm
     nb: munnspill
-    nds-nl: moondörgel
+    nds_nl: moondörgel
     nl: mondharmonica
     nn: munnspel
     oc: Harmonica
     os: гармоникæ
     pl: harmonijka ustna
     pt: harmónica
-    pt-br: harmônica
+    pt_br: harmônica
     ro: muzicuță
     ru: губная гармоника
     rup: Muzichii
@@ -213,14 +213,14 @@ dv_has_:
     wuu: 口琴
     yue: 口琴
     zh: 口琴
-    zh-cn: 口琴
-    zh-hans: 口琴
-    zh-hant: 口琴
-    zh-hk: 口琴
-    zh-mo: 口琴
+    zh_cn: 口琴
+    zh_hans: 口琴
+    zh_hant: 口琴
+    zh_hk: 口琴
+    zh_mo: 口琴
     zh-my: 口琴
-    zh-sg: 口琴
-    zh-tw: 口琴
+    zh_sg: 口琴
+    zh_tw: 口琴
 ---
 # [[Harmonica]] 
 

@@ -50,7 +50,7 @@ dv_has_:
     ast: integral múltiple
     az: İkiqat inteqral
     ba: Тапҡырлы интеграл
-    be-tarask: кратны інтэграл
+    be_tarask: кратны інтэграл
     bs: Višestruki integral
     ca: integral múltiple
     ckb: تەواوکاریی چەندجارە
@@ -60,8 +60,8 @@ dv_has_:
     de: Mehrfachintegral
     el: πολλαπλό ολοκλήρωμα
     en: multiple integral
-    en-ca: Multiple integral
-    en-gb: multiple integral
+    en_ca: Multiple integral
+    en_gb: multiple integral
     eo: obla integralo
     es: integral múltiple
     eu: Integral anizkoitz
@@ -74,15 +74,15 @@ dv_has_:
     it: integrale multiplo
     ja: 多重積分
     kk: Еселі интеграл
-    kk-arab: ەسەلى ىينتەگرال
-    kk-cyrl: Еселі интеграл
-    kk-latn: Eseli ïntegral
+    kk_arab: ەسەلى ىينتەگرال
+    kk_cyrl: Еселі интеграл
+    kk_latn: Eseli ïntegral
     ko: 중적분
     lv: divkāršais integrālis
     nl: meervoudige integraal
     pl: Całka wielokrotna
     pt: integral múltipla
-    pt-br: Integral múltipla
+    pt_br: Integral múltipla
     ro: Integrală multiplă
     ru: кратный интеграл
     sl: večkratni integral
@@ -95,9 +95,9 @@ dv_has_:
     vi: Tích phân bội
     yue: 多重積分
     zh: 重积分
-    zh-hans: 重积分
-    zh-hant: 多重積分
-    zh-hk: 多重積分
+    zh_hans: 重积分
+    zh_hant: 多重積分
+    zh_hk: 多重積分
 ---
 # [[Multiple_Integral]] 
 

@@ -85,18 +85,18 @@ dv_has_:
     ar: شراكة
     ast: Sociedá de negocios
     az: Tərəfdaşlıq
-    be-tarask: партнэрства
+    be_tarask: партнэрства
     bn: অংশীদারি কারবার
     bs: Trgovačka društva
     ca: societat de negocis
     cs: partnerství
     da: interessentskab
     de: Personengesellschaft
-    de-ch: Personengesellschaft
+    de_ch: Personengesellschaft
     el: σύμπραξη
     en: partnership
-    en-ca: partnership
-    en-gb: partnership
+    en_ca: partnership
+    en_gb: partnership
     eo: partnereco
     es: sociedad de negocios
     eu: Sozietate
@@ -129,15 +129,15 @@ dv_has_:
     pa: ਭਾਈਵਾਲੀ
     pl: spółka osobowa
     pt: parceria
-    pt-br: parceria
+    pt_br: parceria
     ru: партнёрство
     sh: Intimni odnos
     sl: partnerstvo
     so: Igaarkey
     sq: Partneriteti
     sr: партнерство
-    sr-ec: Партнерство
-    sr-el: Partnerstvo
+    sr_ec: Партнерство
+    sr_el: Partnerstvo
     sv: enkelt bolag
     ta: பங்குடைமை வணிகம்
     te: భాగస్వామ్యం
@@ -152,9 +152,9 @@ dv_has_:
     yi: שותפות
     yue: 合夥企業
     zh: 合伙企业
-    zh-hans: 合伙企业
-    zh-hant: 合夥企業
-    zh-hk: 合夥企業
+    zh_hans: 合伙企业
+    zh_hant: 合夥企業
+    zh_hk: 合夥企業
 ---
 # [[Partnership]] 
 

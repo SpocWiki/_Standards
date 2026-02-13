@@ -200,7 +200,7 @@ dv_has_:
     az: Areta Franklin
     azb: ارتا فرانکلین
     be: Арэта Франклін
-    be-tarask: Арэта Франклін
+    be_tarask: Арэта Франклін
     bg: Арета Франклин
     bn: আরিথা ফ্রাঙ্কলিন
     br: Aretha Franklin
@@ -213,11 +213,11 @@ dv_has_:
     da: Aretha Franklin
     de: Aretha Franklin
     de-at: Aretha Franklin
-    de-ch: Aretha Franklin
+    de_ch: Aretha Franklin
     el: Αρίθα Φράνκλιν
     en: Aretha Franklin
-    en-ca: Aretha Franklin
-    en-gb: Aretha Franklin
+    en_ca: Aretha Franklin
+    en_gb: Aretha Franklin
     eo: Aretha Franklin
     es: Aretha Franklin
     et: Aretha Franklin
@@ -275,7 +275,7 @@ dv_has_:
     pms: Aretha Franklin
     pnb: اریتھا فرینکلن
     pt: Aretha Franklin
-    pt-br: Aretha Franklin
+    pt_br: Aretha Franklin
     qu: Aretha Franklin
     rmf: Aretha Franklin
     ro: Aretha Franklin
@@ -297,8 +297,8 @@ dv_has_:
     sms: Aretha Franklin
     sq: Aretha Franklin
     sr: Арета Френклин
-    sr-ec: Арета Френклин
-    sr-el: Areta Frenklin
+    sr_ec: Арета Френклин
+    sr_el: Areta Frenklin
     sv: Aretha Franklin
     sw: Aretha Franklin
     th: อารีธา แฟรงคลิน
@@ -315,12 +315,12 @@ dv_has_:
     yo: Aretha Franklin
     yue: Aretha Franklin
     zh: 艾瑞莎·弗蘭克林
-    zh-cn: 艾瑞莎·弗兰克林
-    zh-hans: 艾瑞莎·弗兰克林
-    zh-hant: 艾瑞莎·弗蘭克林
-    zh-hk: 艾瑞莎·弗蘭克林
-    zh-sg: 艾瑞莎·弗兰克林
-    zh-tw: 艾瑞莎·弗蘭克林
+    zh_cn: 艾瑞莎·弗兰克林
+    zh_hans: 艾瑞莎·弗兰克林
+    zh_hant: 艾瑞莎·弗蘭克林
+    zh_hk: 艾瑞莎·弗蘭克林
+    zh_sg: 艾瑞莎·弗兰克林
+    zh_tw: 艾瑞莎·弗蘭克林
 ---
 # [[Franklin,Aretha]] 
 

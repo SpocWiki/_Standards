@@ -56,8 +56,8 @@ dv_has_:
     de: Diatonik
     el: Διατονική κλίμακα
     en: diatonic
-    en-ca: Diatonic scale
-    en-gb: diatonic scale
+    en_ca: Diatonic scale
+    en_gb: diatonic scale
     eo: diatona gamo
     es: diatónico
     et: Diatoonika
@@ -76,11 +76,11 @@ dv_has_:
     jv: Tangga nada diatonik
     ka: დიატონიკა
     kk: Диатоника
-    kk-arab: دىياتونىيكا
+    kk_arab: دىياتونىيكا
     kk-cn: دىياتونىيكا
-    kk-cyrl: Диатоника
+    kk_cyrl: Диатоника
     kk-kz: Диатоника
-    kk-latn: Dïatonïka
+    kk_latn: Dïatonïka
     kk-tr: Dïatonïka
     ko: 온음계
     ky: Диатоника
@@ -92,7 +92,7 @@ dv_has_:
     oc: Escala diatonica
     pl: Skala diatoniczna
     pt: escala diatónica
-    pt-br: escala diatônica
+    pt_br: escala diatônica
     ro: Gamă diatonică
     ru: диатоника
     sk: Diatonická stupnica
@@ -103,8 +103,8 @@ dv_has_:
     vi: Thang âm nguyên
     wuu: 自然音阶
     zh: 自然音阶
-    zh-cn: 自然音阶
-    zh-tw: 自然音階
+    zh_cn: 自然音阶
+    zh_tw: 自然音階
 ---
 # [[Diatonic_Scale]] 
 

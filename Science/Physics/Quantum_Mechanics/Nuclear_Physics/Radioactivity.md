@@ -151,7 +151,7 @@ dv_has_:
     ban: Paluruhan radioaktip
     bar: Radioaktivität
     be: радыяактыўнасць
-    be-tarask: радыяактыўнасьць
+    be_tarask: радыяактыўнасьць
     bg: Радиоактивност
     bho: रेडियोएक्टिव क्षय
     bn: তেজস্ক্রিয়তা
@@ -164,11 +164,11 @@ dv_has_:
     cy: Dadfeilio ymbelydrol
     da: radioaktivitet
     de: Radioaktivität
-    de-ch: Radioaktivität
+    de_ch: Radioaktivität
     el: ραδιενέργεια
     en: radioactivity
-    en-ca: Radioactive decay
-    en-gb: radioactive decay
+    en_ca: Radioactive decay
+    en_gb: radioactive decay
     eo: radioaktiveco
     es: radiactividad
     et: radioaktiivsus
@@ -229,7 +229,7 @@ dv_has_:
     pnb: تابکاری
     ps: هستوي وړانګې
     pt: radioatividade
-    pt-br: radioatividade
+    pt_br: radioatividade
     qu: Illanchaykuy
     rm: Radioactivitad
     ro: radioactivitate
@@ -254,7 +254,7 @@ dv_has_:
     th: การสลายให้กัมมันตรังสี
     tr: radyoaktivite
     tt: радиоактивлык
-    tt-cyrl: радиоактивлык
+    tt_cyrl: радиоактивлык
     udm: радиоактивность
     uk: радіоактивність
     ur: اشعاعی تنزل

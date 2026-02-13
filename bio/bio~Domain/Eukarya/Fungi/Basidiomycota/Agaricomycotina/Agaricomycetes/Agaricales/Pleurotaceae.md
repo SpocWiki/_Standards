@@ -39,8 +39,8 @@ dv_has_:
     cs: hlívovité
     de: Seitlingsverwandte
     en: Pleurotaceae
-    en-ca: Pleurotaceae
-    en-gb: Pleurotaceae
+    en_ca: Pleurotaceae
+    en_gb: Pleurotaceae
     eo: Pleurotaceae
     es: Pleurotaceae
     et: servikulised
@@ -65,7 +65,7 @@ dv_has_:
     oc: Pleurotaceae
     pl: Boczniakowate
     pt: Pleurotaceae
-    pt-br: Pleurotaceae
+    pt_br: Pleurotaceae
     ro: Pleurotaceae
     ru: Вёшенковые
     sl: ostrigarke
@@ -77,9 +77,9 @@ dv_has_:
     vo: Pleurotaceae
     war: Pleurotaceae
     zh: 侧耳科
-    zh-cn: 侧耳科
-    zh-hans: 侧耳科
-    zh-tw: 側耳科
+    zh_cn: 侧耳科
+    zh_hans: 侧耳科
+    zh_tw: 側耳科
 ---
 # [[Pleurotaceae]] 
 

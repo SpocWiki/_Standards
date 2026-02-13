@@ -71,7 +71,7 @@ dv_has_:
     ast: triatlón
     az: triatlon
     be: трыятлон
-    be-tarask: трыятлён
+    be_tarask: трыятлён
     bg: триатлон
     bjn: taluturai
     br: triatlon
@@ -82,7 +82,7 @@ dv_has_:
     de: Triathlon
     el: τρίαθλο
     en: triathlon
-    en-gb: triathlon
+    en_gb: triathlon
     eo: triatlono
     es: triatlón
     et: triatlon
@@ -131,7 +131,7 @@ dv_has_:
     sl: triatlon
     smn: triathlon
     sr: триатлон
-    sr-ec: триатлон
+    sr_ec: триатлон
     sv: triathlon
     ta: நெடுமுப்போட்டி
     tg: варзиши сегона
@@ -146,14 +146,14 @@ dv_has_:
     wuu: 三项全能
     yue: 三項鐵人
     zh: 三项全能
-    zh-cn: 三项全能
-    zh-hans: 三项全能
-    zh-hant: 三項全能
-    zh-hk: 三項全能
-    zh-mo: 三項全能
+    zh_cn: 三项全能
+    zh_hans: 三项全能
+    zh_hant: 三項全能
+    zh_hk: 三項全能
+    zh_mo: 三項全能
     zh-my: 三项全能
-    zh-sg: 三项全能
-    zh-tw: 三項全能
+    zh_sg: 三项全能
+    zh_tw: 三項全能
 ---
 # [[Triathlon]] 
 

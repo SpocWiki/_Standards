@@ -62,7 +62,7 @@ dv_has_:
     ar: كلت
     ast: secta
     az: kult
-    be-tarask: культ
+    be_tarask: культ
     br: sektenn
     bs: kult
     ca: culte
@@ -72,7 +72,7 @@ dv_has_:
     de: Kult
     el: αίρεση
     en: cult
-    en-gb: cult
+    en_gb: cult
     eo: sekto
     es: secta
     et: sekt
@@ -121,8 +121,8 @@ dv_has_:
     yi: קולט
     yue: 邪教
     zh: 邪教
-    zh-hant: 邪教
-    zh-tw: 邪教
+    zh_hant: 邪教
+    zh_tw: 邪教
 ---
 # [[Cult]] 
 

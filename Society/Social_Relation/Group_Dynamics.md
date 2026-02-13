@@ -88,8 +88,8 @@ dv_has_:
     sl: skupinska dinamika
     sq: grupi i dinamikave
     sr: групна динамика
-    sr-ec: Групна динамика
-    sr-el: Grupna dinamika
+    sr_ec: Групна динамика
+    sr_el: Grupna dinamika
     sv: Grupprocess
     th: พลวัตกลุ่ม
     tr: Grup dinamiği
@@ -97,10 +97,10 @@ dv_has_:
     uz: Guruh dinamikasi
     yue: 群體動力學
     zh: 群体动力学
-    zh-cn: 群体行为
-    zh-hans: 群体动力学
-    zh-hant: 群體動力學
-    zh-hk: 群體動力學
+    zh_cn: 群体行为
+    zh_hans: 群体动力学
+    zh_hant: 群體動力學
+    zh_hk: 群體動力學
 ---
 # [[Group_Dynamics]] 
 

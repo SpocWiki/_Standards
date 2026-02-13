@@ -100,7 +100,7 @@ dv_has_:
     ast: Diofanto d'Alexandría
     az: İskəndəriyyəli Diofant
     be: Дыяфант Александрыйскі
-    be-tarask: Дыяфант Александрыйскі
+    be_tarask: Дыяфант Александрыйскі
     bg: Диофант
     bn: দিওফান্তোস
     br: Diofantos Aleksandria
@@ -112,8 +112,8 @@ dv_has_:
     de: Diophantos von Alexandria
     el: Διόφαντος
     en: Diophantus of Alexandria
-    en-ca: Diophantus
-    en-gb: Diophantus
+    en_ca: Diophantus
+    en_gb: Diophantus
     eo: Diofanto de Aleksandrio
     es: Diofanto de Alejandría
     et: Diophantos
@@ -153,7 +153,7 @@ dv_has_:
     pl: Diofantos
     pms: Diofant
     pt: Diofanto de Alexandria
-    pt-br: Diofanto de Alexandria
+    pt_br: Diofanto de Alexandria
     ro: Diofant
     ru: Диофант Александрийский
     scn: Diofantu di Alessandria
@@ -163,8 +163,8 @@ dv_has_:
     sl: Diofant
     sq: Diophantus
     sr: Диофант
-    sr-ec: Диофант
-    sr-el: Diofant
+    sr_ec: Диофант
+    sr_el: Diofant
     sv: Diofantos
     ta: டையோபண்டஸ்
     tr: Diophantus
@@ -176,12 +176,12 @@ dv_has_:
     yi: דיאפאנטאס
     yue: 丟番圖
     zh: 丢番图
-    zh-cn: 丢番图
-    zh-hans: 丢番图
-    zh-hant: 丟番圖
-    zh-hk: 丟番圖
-    zh-sg: 丢番图
-    zh-tw: 丟番圖
+    zh_cn: 丢番图
+    zh_hans: 丢番图
+    zh_hant: 丟番圖
+    zh_hk: 丟番圖
+    zh_sg: 丢番图
+    zh_tw: 丟番圖
 ---
 #has_/created :: [[../../Diophantine_Equation|Diophantine_Equation]] 
 #is_/same_as :: [[../../../WikiData/WD~Diophantus_of_Alexandria,178217|WD~Diophantus_of_Alexandria,178217]] 

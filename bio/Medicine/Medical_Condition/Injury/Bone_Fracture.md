@@ -124,7 +124,7 @@ dv_has_:
     az: Sınıqlar
     ba: Һөйәк һыныуы
     be: пералом
-    be-tarask: пералом косткі
+    be_tarask: пералом косткі
     bg: фрактура
     bo: རུས་ཆག་
     br: torradur
@@ -189,8 +189,8 @@ dv_has_:
     sms: täʹhttmorddjummuš
     sq: Thyerja e kockës
     sr: прелом
-    sr-ec: прелом
-    sr-el: prelom
+    sr_ec: прелом
+    sr_el: prelom
     sv: fraktur
     ta: எலும்பு முறிவு
     te: ఎముక విరుపు

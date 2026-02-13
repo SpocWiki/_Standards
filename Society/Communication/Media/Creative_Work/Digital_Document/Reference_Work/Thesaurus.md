@@ -63,7 +63,7 @@ dv_has_:
     az: tezaurus
     ba: тезаурус
     bcl: tesauro
-    be-tarask: тэзаўрус
+    be_tarask: тэзаўрус
     bg: тезаурус
     bs: tezaurusi
     ca: tesaurus
@@ -94,8 +94,8 @@ dv_has_:
     ja: 類語辞典
     kbp: tesorusi
     kk: тезаурус
-    kk-arab: تەزاۋرۋس
-    kk-latn: tezawrws
+    kk_arab: تەزاۋرۋس
+    kk_latn: tezawrws
     ko: 시소러스
     krj: tesawro
     ky: тезаурус
@@ -118,7 +118,7 @@ dv_has_:
     sl: tezaver
     sq: thesaurusi
     sr: тезаурус
-    sr-el: tezaurus
+    sr_el: tezaurus
     sv: synonymordbok
     th: อรรถาภิธาน
     tr: sözlükbilimsel eşanlamlılar sözlüğü
@@ -128,8 +128,8 @@ dv_has_:
     vi: ý điển
     yue: 索引典
     zh: 索引典
-    zh-hans: 索引典
-    zh-hant: 索引典
+    zh_hans: 索引典
+    zh_hant: 索引典
 ---
 # [[Thesaurus]] 
 

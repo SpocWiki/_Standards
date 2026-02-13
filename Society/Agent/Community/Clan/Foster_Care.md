@@ -55,7 +55,7 @@ MeSH_tree_code:
 dv_has_:
   name_:
     ar: رعاية بديلة
-    be-tarask: прыймовая сям’я
+    be_tarask: прыймовая сям’я
     bn: পালক সেবা
     ca: acolliment
     cs: pěstounská péče
@@ -89,16 +89,16 @@ dv_has_:
     ru: приёмная семья
     sl: rejništvo
     sr: породични смештај деце
-    sr-ec: Породични смештај деце
-    sr-el: Porodični smeštaj dece
+    sr_ec: Породични смештај деце
+    sr_el: Porodični smeštaj dece
     sv: omhändertagande av barn
     th: ผู้ปกครอง
     uk: прийомна сім'я
     yue: 寄養
     zh: 監護人
-    zh-hans: 监护人
-    zh-hant: 監護人
-    zh-hk: 監護人
+    zh_hans: 监护人
+    zh_hant: 監護人
+    zh_hk: 監護人
 ---
 # [[Foster_Care]] 
 

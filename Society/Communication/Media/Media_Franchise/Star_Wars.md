@@ -146,7 +146,7 @@ dv_has_:
     az: Ulduz müharibələri
     azb: اولدوز ساواشلاری
     be: Зорныя войны
-    be-tarask: Зорныя войны
+    be_tarask: Зорныя войны
     bg: Междузвездни войни
     bho: स्टार वॅार्स
     bn: স্টার ওয়ার্স
@@ -218,7 +218,7 @@ dv_has_:
     sl: Vojna zvezd
     smn: Taasnij suáti
     sr: Звездани ратови
-    sr-ec: Ратови звезда
+    sr_ec: Ратови звезда
     szl: Gwjezdne wojny
     ta: ஸ்டார் வார்ஸ்
     tg: Ҷангҳои ситораӣ
@@ -239,13 +239,13 @@ dv_has_:
     yi: שטערן ווארס
     yue: 星球大戰
     zh: 星際大戰
-    zh-cn: 星球大战
-    zh-hans: 星球大战
-    zh-hant: 星際大戰
-    zh-hk: 星球大戰
+    zh_cn: 星球大战
+    zh_hans: 星球大战
+    zh_hant: 星際大戰
+    zh_hk: 星球大戰
     zh-my: 星际大战
-    zh-sg: 星际大战
-    zh-tw: 星際大戰
+    zh_sg: 星际大战
+    zh_tw: 星際大戰
 ---
 # [[Star_Wars]] 
 

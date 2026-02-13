@@ -154,7 +154,7 @@ dv_has_:
     bbc: Sarune
     bcl: flute
     be: флейта
-    be-tarask: флейта
+    be_tarask: флейта
     bg: флейта
     bho: बँसुरी
     bn: বাঁশি
@@ -165,7 +165,7 @@ dv_has_:
     ca: flauta
     ckb: فلووت
     crh: Fleyta
-    crh-latn: Fleyta
+    crh_latn: Fleyta
     cs: flétna
     cy: ffliwt
     da: fløjte
@@ -175,8 +175,8 @@ dv_has_:
     el: φλάουτο
     eml: Sibiōl
     en: flute
-    en-ca: Flute
-    en-gb: flute
+    en_ca: Flute
+    en_gb: flute
     eo: fluto
     es: flauta
     et: flööt
@@ -251,7 +251,7 @@ dv_has_:
     pms: Fluta
     pnb: ونجلی
     pt: flauta
-    pt-br: flauta
+    pt_br: flauta
     qu: Sirinka
     ro: flaut
     ru: флейта
@@ -268,8 +268,8 @@ dv_has_:
     sn: Chinyenze
     sq: Flauti
     sr: флаута
-    sr-ec: флаута
-    sr-el: flauta
+    sr_ec: флаута
+    sr_el: flauta
     sv: flöjt
     sw: Filimbi
     szl: Flŏta
@@ -292,9 +292,9 @@ dv_has_:
     yi: פלייט
     yue: 笛
     zh: 笛
-    zh-hant: 笛
-    zh-hk: 笛
-    zh-tw: 笛子
+    zh_hant: 笛
+    zh_hk: 笛
+    zh_tw: 笛子
 ---
 # [[Flute]] 🪈 
 

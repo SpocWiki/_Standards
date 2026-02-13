@@ -75,7 +75,7 @@ dv_has_:
     ar: استقطاب
     ast: polarización electromagnética
     be: палярызацыя святла
-    be-tarask: палярызацыя хваляў
+    be_tarask: палярызацыя хваляў
     bg: поляризация
     bn: সমবর্তন
     ca: polarització electromagnètica
@@ -85,8 +85,8 @@ dv_has_:
     de: Polarisation
     el: πόλωση
     en: polarization
-    en-ca: polarization
-    en-gb: polarisation
+    en_ca: polarization
+    en_gb: polarisation
     en-us: polarization
     eo: polarizado
     es: polarización electromagnética
@@ -137,12 +137,12 @@ dv_has_:
     vi: phân cực
     yue: 偏振
     zh: 极化
-    zh-cn: 极化
-    zh-hans: 极化
-    zh-hant: 偏振
-    zh-hk: 極化
-    zh-sg: 极化
-    zh-tw: 偏振
+    zh_cn: 极化
+    zh_hans: 极化
+    zh_hant: 偏振
+    zh_hk: 極化
+    zh_sg: 极化
+    zh_tw: 偏振
     zu: Ukuluthuzeka
 ---
 # [[Polarization(Waves)]] 

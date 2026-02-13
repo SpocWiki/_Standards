@@ -183,7 +183,7 @@ ZVG_number: 3930
 dv_has_:
   name_:
     abbreviated: P
-    aeb-arab: فسفور
+    aeb_arab: فسفور
     af: fosfor
     am: ፎስፈረስ
     an: Fosforo
@@ -199,7 +199,7 @@ dv_has_:
     ban: phosfor
     bcl: posporo
     be: фосфар
-    be-tarask: фосфар
+    be_tarask: фосфар
     bg: фосфор
     bho: फॉस्फोरस
     blk: ဖော့သဖောရတ်သ်
@@ -217,12 +217,12 @@ dv_has_:
     cy: ffosfforws
     da: fosfor
     de: Phosphor
-    de-ch: Phosphor
+    de_ch: Phosphor
     dv: ފޮސްފަރަސް
     el: φώσφορος
     en: phosphorus
-    en-ca: phosphorus
-    en-gb: phosphorus
+    en_ca: phosphorus
+    en_gb: phosphorus
     eo: fosforo
     es: fósforo
     et: fosfor
@@ -291,7 +291,7 @@ dv_has_:
     mr: स्फुरद
     mrj: фосфор
     ms: fosforus
-    ms-arab: فوسفوروس
+    ms_arab: فوسفوروس
     mt: fosfru
     mul: P
     my: ဖော့စဖောရပ်
@@ -318,7 +318,7 @@ dv_has_:
     pnb: فاسفورس
     ps: فاسفورس
     pt: fósforo
-    pt-br: fósforo
+    pt_br: fósforo
     qu: phusphuru
     ro: fosfor
     ru: фосфор
@@ -366,14 +366,14 @@ dv_has_:
     za: linz
     zgh: ⴰⴼⵓⵙⴼⵓⵔ
     zh: 磷
-    zh-cn: 磷
-    zh-hans: 磷
-    zh-hant: 磷
-    zh-hk: 磷
-    zh-mo: 磷
+    zh_cn: 磷
+    zh_hans: 磷
+    zh_hant: 磷
+    zh_hk: 磷
+    zh_mo: 磷
     zh-my: 磷
-    zh-sg: 磷
-    zh-tw: 磷
+    zh_sg: 磷
+    zh_tw: 磷
     zu: IPholoba
   number_of_:
     period: 3

@@ -98,7 +98,7 @@ dv_has_:
     ast: rápido
     ba: Йылға һикәлтәһе
     be: Парог ракі
-    be-tarask: парог ракі
+    be_tarask: парог ракі
     bg: бързей
     ca: ràpids
     cs: říční práh

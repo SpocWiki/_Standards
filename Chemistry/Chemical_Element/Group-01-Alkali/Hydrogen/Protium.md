@@ -102,8 +102,8 @@ dv_has_:
     uz: Protiy
     vi: Proti
     zh: 氕
-    zh-hans: 氕
-    zh-hant: 氕
+    zh_hans: 氕
+    zh_hant: 氕
 ---
 # [[Protium]] 
 

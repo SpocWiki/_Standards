@@ -76,7 +76,7 @@ dv_has_:
     ar: حمولة
     az: Yük
     be: Груз
-    be-tarask: груз
+    be_tarask: груз
     bg: Товар
     bjn: Kargo
     bn: পরিবাহিত মাল
@@ -88,8 +88,8 @@ dv_has_:
     diq: Kargo
     el: Φορτίο πλοίου
     en: cargo
-    en-ca: Cargo
-    en-gb: cargo
+    en_ca: Cargo
+    en_gb: cargo
     eo: ŝarĝo
     es: carga
     et: Last
@@ -106,11 +106,11 @@ dv_has_:
     ja: 貨物
     ka: ტვირთი
     kk: Жүк
-    kk-arab: جۇك
+    kk_arab: جۇك
     kk-cn: جۇك
-    kk-cyrl: Жүк
+    kk_cyrl: Жүк
     kk-kz: Жүк
-    kk-latn: Jük
+    kk_latn: Jük
     kk-tr: Jük
     kn: ಸರಕು
     ko: 화물
@@ -127,7 +127,7 @@ dv_has_:
     pms: Caria
     pnt: γομάρ'
     pt: carga
-    pt-br: carga
+    pt_br: carga
     qu: Chaqna
     ro: Marfă
     ru: груз
@@ -150,8 +150,8 @@ dv_has_:
     yi: פראכט
     yue: 儎
     zh: 貨物
-    zh-hans: 货物
-    zh-hant: 貨物
+    zh_hans: 货物
+    zh_hant: 貨物
 ---
 # [[Cargo]] 
 

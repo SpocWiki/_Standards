@@ -33,7 +33,7 @@ dv_has_:
     arz: امفيوما
     ast: Amphiuma
     be: Амфіумы
-    be-tarask: Амфіюмы
+    be_tarask: Амфіюмы
     bg: амфиуми
     br: Amphiumidae
     ca: Amfiúmid
@@ -70,7 +70,7 @@ dv_has_:
     oc: Amphiuma
     pl: Amfiumy
     pt: Amphiuma
-    pt-br: Amphiuma
+    pt_br: Amphiuma
     ro: Amphiuma
     ru: Амфиумовые
     sq: Amphiuma
@@ -81,9 +81,9 @@ dv_has_:
     vo: Amphiuma
     war: Amphiuma
     zh: 两栖鲵属
-    zh-cn: 两栖鲵属
-    zh-hans: 两栖鲵属
-    zh-tw: 两棲鯢屬
+    zh_cn: 两栖鲵属
+    zh_hans: 两栖鲵属
+    zh_tw: 两棲鯢屬
 ---
 # [[Amphiumidae]]
 

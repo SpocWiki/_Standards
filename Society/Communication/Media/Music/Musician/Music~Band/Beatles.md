@@ -259,8 +259,8 @@ dv_has_:
     sat: ᱫᱚ ᱵᱤᱴᱞᱮᱥ
     sd: دي بيٽلس
     sr: Bitlsi
-    sr-ec: Битлси
-    sr-el: Bitlsi
+    sr_ec: Битлси
+    sr_el: Bitlsi
     ta: பீட்டில்ஸ்
     te: ద బీటిల్స్
     th: เดอะบีเทิลส์
@@ -272,14 +272,14 @@ dv_has_:
     yi: די ביטעלס
     yue: 披頭四
     zh: 披頭四樂隊
-    zh-cn: 披头士乐队
-    zh-hans: 披头士乐队
-    zh-hant: 披頭四樂隊
-    zh-hk: 披頭四樂隊
-    zh-mo: 披頭四樂隊
+    zh_cn: 披头士乐队
+    zh_hans: 披头士乐队
+    zh_hant: 披頭四樂隊
+    zh_hk: 披頭四樂隊
+    zh_mo: 披頭四樂隊
     zh-my: 披头四
-    zh-sg: 披头四
-    zh-tw: 披頭四樂隊
+    zh_sg: 披头四
+    zh_tw: 披頭四樂隊
     zu: Ama-Beatles
 ---
 # [[Beatles]] 

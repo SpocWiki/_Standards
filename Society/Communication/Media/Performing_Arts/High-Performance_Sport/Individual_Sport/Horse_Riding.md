@@ -136,7 +136,7 @@ dv_has_:
     azb: آتسورمه
     bar: Reidn
     be: конны спорт
-    be-tarask: верхавая язда
+    be_tarask: верхавая язда
     bg: конна езда
     bjn: Bakuda
     bn: ঘোড়ায় চড়া
@@ -198,7 +198,7 @@ dv_has_:
     olo: Račastussportu
     pl: jeździectwo
     pt: hipismo
-    pt-br: hipismo
+    pt_br: hipismo
     qu: Kawallu yallinakuy
     ro: călărie
     ru: верховая езда
@@ -209,8 +209,8 @@ dv_has_:
     sk: jazdectvo
     sl: konjeništvo
     sr: јахање
-    sr-ec: јахање
-    sr-el: jahanje
+    sr_ec: јахање
+    sr_el: jahanje
     sv: hästhållning
     ta: குதிரையேற்றம்
     te: గుర్రపు స్వారీ
@@ -223,12 +223,12 @@ dv_has_:
     wuu: 马术
     yue: 馬術
     zh: 马术
-    zh-cn: 马术
-    zh-hans: 马术
-    zh-hant: 馬術
-    zh-hk: 馬術
-    zh-sg: 马术
-    zh-tw: 馬術
+    zh_cn: 马术
+    zh_hans: 马术
+    zh_hant: 馬術
+    zh_hk: 馬術
+    zh_sg: 马术
+    zh_tw: 馬術
 ---
 # [[Horse_Riding]] 
 

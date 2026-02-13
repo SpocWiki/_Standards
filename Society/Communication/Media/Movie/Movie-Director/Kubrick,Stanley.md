@@ -166,7 +166,7 @@ dv_has_:
     ban: Stanley Kubrick
     bar: Stanley Kubrick
     be: Стэнлі Кубрык
-    be-tarask: Стэнлі Кубрык
+    be_tarask: Стэнлі Кубрык
     bew: Stanley Kubrick
     bg: Стенли Кубрик
     bi: Stanley Kubrick
@@ -183,12 +183,12 @@ dv_has_:
     cy: Stanley Kubrick
     da: Stanley Kubrick
     de: Stanley Kubrick
-    de-ch: Stanley Kubrick
+    de_ch: Stanley Kubrick
     diq: Stanley Kubrick
     el: Στάνλεϊ Κιούμπρικ
     en: Stanley Kubrick
-    en-ca: Stanley Kubrick
-    en-gb: Stanley Kubrick
+    en_ca: Stanley Kubrick
+    en_gb: Stanley Kubrick
     eo: Stanley Kubrick
     es: Stanley Kubrick
     et: Stanley Kubrick
@@ -242,7 +242,7 @@ dv_has_:
     nan: Stanley Kubrick
     nb: Stanley Kubrick
     nds: Stanley Kubrick
-    nds-nl: Stanley Kubrick
+    nds_nl: Stanley Kubrick
     nl: Stanley Kubrick
     nn: Stanley Kubrick
     nrm: Stanley Kubrick
@@ -257,7 +257,7 @@ dv_has_:
     pnb: سٹینلے کوبرک
     pnt: Στάνλεϊ Κιούμπρικ
     pt: Stanley Kubrick
-    pt-br: Stanley Kubrick
+    pt_br: Stanley Kubrick
     qu: Stanley Kubrick
     ro: Stanley Kubrick
     ru: Стэнли Кубрик
@@ -296,13 +296,13 @@ dv_has_:
     yi: סטענלי קובריק
     yue: 寇比力克
     zh: 斯坦利·库布里克
-    zh-cn: 斯坦利·库布里克
-    zh-hans: 斯坦利·库布里克
-    zh-hant: 史丹利·庫柏力克
-    zh-hk: 史丹利寇比力克
+    zh_cn: 斯坦利·库布里克
+    zh_hans: 斯坦利·库布里克
+    zh_hant: 史丹利·庫柏力克
+    zh_hk: 史丹利寇比力克
     zh-my: 史丹利·库柏力克
-    zh-sg: 史丹利·库柏力克
-    zh-tw: 史丹力．庫柏力克
+    zh_sg: 史丹利·库柏力克
+    zh_tw: 史丹力．庫柏力克
 ---
 # [[Kubrick,Stanley]] 
 

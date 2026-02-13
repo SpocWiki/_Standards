@@ -31,7 +31,7 @@ subclass_of:
 dv_has_:
   name_:
     ar: إفرازات
-    be-tarask: сакрэт
+    be_tarask: сакрэт
     bn: নিঃসরণ
     cy: secretiad
     da: Sekret
@@ -53,7 +53,7 @@ dv_has_:
     nl: secretie
     nn: sekret
     pt: secreção
-    pt-br: secreção
+    pt_br: secreção
     ru: секреция
     sk: sekrét
     sl: sekret

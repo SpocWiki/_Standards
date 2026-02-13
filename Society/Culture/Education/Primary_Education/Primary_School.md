@@ -152,7 +152,7 @@ dv_has_:
     az: İbtidai məktəb
     bcl: Hababang paadalan
     be: пачатковая школа
-    be-tarask: пачатковая школа
+    be_tarask: пачатковая школа
     bew: Sekola dasar
     bg: основно училище
     bn: প্রাথমিক বিদ্যালয়
@@ -170,8 +170,8 @@ dv_has_:
     dtp: sikul tosiriba
     el: δημοτικό σχολείο
     en: primary school
-    en-ca: Elementary school
-    en-gb: primary school
+    en_ca: Elementary school
+    en_gb: primary school
     en-us: elementary school
     eo: elementa lernejo
     es: escuela primaria
@@ -215,7 +215,7 @@ dv_has_:
     ml: പ്രാഥമിക വിദ്യാലയം
     mr: प्राथमिक शाळा
     ms: sekolah rendah
-    ms-arab: سکوله رنده
+    ms_arab: سکوله رنده
     nan: Sió-ha̍k
     nb: grunnskole
     nds: Grundschool
@@ -225,7 +225,7 @@ dv_has_:
     pa: ਪ੍ਰਾਇਮਰੀ ਸਕੂਲ
     pl: szkoła podstawowa
     pt: escola primária
-    pt-br: escola primária
+    pt_br: escola primária
     qu: Huch'uy yachay wasi
     ro: școală elementară
     ru: начальная школа
@@ -239,8 +239,8 @@ dv_has_:
     sms: vueʹllškooul
     sq: shkollë fillore
     sr: основна школа
-    sr-ec: основна школа
-    sr-el: osnovna škola
+    sr_ec: основна школа
+    sr_el: osnovna škola
     su: Sakola dasar
     sv: grundskola
     sw: Shule ya msingi
@@ -251,7 +251,7 @@ dv_has_:
     tl: paaralang elementarya
     tr: ilkokul
     tt: башлангыч мәктәп
-    tt-cyrl: башлангыч мәктәп
+    tt_cyrl: башлангыч мәктәп
     uk: початкова школа
     ur: پرائمری اسکول
     uz: Boshlang'ich maktab
@@ -260,14 +260,14 @@ dv_has_:
     wuu: 小学
     yue: 小學
     zh: 小学
-    zh-cn: 小学
-    zh-hans: 小学
-    zh-hant: 小學
-    zh-hk: 小學
-    zh-mo: 小學
+    zh_cn: 小学
+    zh_hans: 小学
+    zh_hant: 小學
+    zh_hk: 小學
+    zh_mo: 小學
     zh-my: 小学
-    zh-sg: 小学
-    zh-tw: 小學
+    zh_sg: 小学
+    zh_tw: 小學
 ---
 # [[Primary_School]] 
 

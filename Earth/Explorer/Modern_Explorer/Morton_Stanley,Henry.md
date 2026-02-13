@@ -132,7 +132,7 @@ dv_has_:
     ast: Henry Morton Stanley
     avk: Henry Morton Stanley
     be: Генры Мортан Стэнлі
-    be-tarask: Гэнры Мортан Стэнлі
+    be_tarask: Гэнры Мортан Стэнлі
     bg: Хенри Мортън Стенли
     bn: হেনরি মর্টন স্ট্যানলি
     br: Henry Morton Stanley
@@ -184,15 +184,15 @@ dv_has_:
     pcd: Henry Morton Stanley
     pl: Henry Morton Stanley
     pt: Henry Morton Stanley
-    pt-br: Henry Morton Stanley
+    pt_br: Henry Morton Stanley
     ro: Henry Morton Stanley
     ru: Генри Мортон Стэнли
     sh: Henry Morton Stanley
     sl: Henry Morton Stanley
     sq: Henry Morton Stanley
     sr: Хенри Мортон Стенли
-    sr-ec: Хенри Мортон Стенли
-    sr-el: Henri Morton Stenli
+    sr_ec: Хенри Мортон Стенли
+    sr_el: Henri Morton Stenli
     sv: Henry Morton Stanley
     sw: Henry Morton Stanley
     tl: Henry Morton Stanley
@@ -203,12 +203,12 @@ dv_has_:
     wuu: 亨利·莫顿·史丹利
     yue: 亨利·莫頓·史丹利
     zh: 亨利·莫頓·史丹利
-    zh-cn: 亨利·莫顿·斯坦利
-    zh-hans: 亨利·莫顿·史丹利
-    zh-hant: 亨利·莫頓·史丹利
-    zh-hk: 亨利·莫頓·史丹利
-    zh-sg: 亨利·莫顿·史丹利
-    zh-tw: 亨利·莫頓·史丹利
+    zh_cn: 亨利·莫顿·斯坦利
+    zh_hans: 亨利·莫顿·史丹利
+    zh_hant: 亨利·莫頓·史丹利
+    zh_hk: 亨利·莫頓·史丹利
+    zh_sg: 亨利·莫顿·史丹利
+    zh_tw: 亨利·莫頓·史丹利
 ---
 # [[Morton_Stanley,Henry]] 
 

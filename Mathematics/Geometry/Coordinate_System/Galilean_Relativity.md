@@ -63,8 +63,8 @@ dv_has_:
     uz: Galiley nisbiylik prinsipi
     vi: Nguyên lý tương đối Galileo
     zh: 伽利略不变性
-    zh-hans: 伽利略不变性
-    zh-hant: 伽利略不變性
+    zh_hans: 伽利略不变性
+    zh_hant: 伽利略不變性
 ---
 # [[Galilean_Relativity]] 
 

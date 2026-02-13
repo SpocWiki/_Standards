@@ -38,7 +38,7 @@ dv_has_:
     arz: متقلبيه
     ast: Proteidae
     be: пратэі
-    be-tarask: пратэі
+    be_tarask: пратэі
     bg: протееви
     ca: Proteid
     ceb: Proteidae
@@ -80,11 +80,11 @@ dv_has_:
     vi: Proteidae
     war: Proteidae
     zh: 洞螈科
-    zh-cn: 洞螈科
-    zh-hans: 洞螈科
-    zh-hant: 洞螈科
-    zh-hk: 洞螈科
-    zh-tw: 洞螈科
+    zh_cn: 洞螈科
+    zh_hans: 洞螈科
+    zh_hant: 洞螈科
+    zh_hk: 洞螈科
+    zh_tw: 洞螈科
 ---
 # [[Proteidae]] 
 

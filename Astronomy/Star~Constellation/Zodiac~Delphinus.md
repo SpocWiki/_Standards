@@ -101,7 +101,7 @@ dv_has_:
     az: Delfin
     ba: Дельфин
     be: Дэльфін
-    be-tarask: Дэльфін
+    be_tarask: Дэльфін
     bg: Делфин
     bo: མཚོ་ཕག་སྐར་ཚོམ་
     br: Delfin
@@ -184,9 +184,9 @@ dv_has_:
     wuu: 海豚座
     yue: 海豚座
     zh: 海豚座
-    zh-hans: 海豚座
-    zh-hant: 海豚座
-    zh-tw: 海豚座
+    zh_hans: 海豚座
+    zh_hant: 海豚座
+    zh_tw: 海豚座
 dv_is_:
   same_as:
   - '[[../../WikiData/WD~Delphinus,9302|WD~Delphinus,9302]]'

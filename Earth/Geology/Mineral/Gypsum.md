@@ -147,7 +147,7 @@ dv_has_:
     az: Gips
     ba: Гипс
     be: гіпс
-    be-tarask: Гіпс
+    be_tarask: Гіпс
     bg: Гипс
     bjn: Gipsum
     blk: ဂျစ်ပဆမ်
@@ -161,8 +161,8 @@ dv_has_:
     de: Gips
     el: γύψος
     en: gypsum
-    en-ca: gypsum
-    en-gb: gypsum
+    en_ca: gypsum
+    en_gb: gypsum
     eo: gipsoŝtono
     es: yeso
     et: kips
@@ -208,7 +208,7 @@ dv_has_:
     pl: gips
     pnb: جپسم
     pt: gipsita
-    pt-br: Gipsita
+    pt_br: Gipsita
     qu: Quntay
     ro: ghips
     ru: гипс
@@ -236,7 +236,7 @@ dv_has_:
     wuu: 石膏
     yue: 石膏
     zh: 石膏
-    zh-hans: 石膏
+    zh_hans: 石膏
 ---
 # [[Gypsum]] 
 

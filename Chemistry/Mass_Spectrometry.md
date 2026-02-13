@@ -115,7 +115,7 @@ dv_has_:
     ast: Espectrómetru de mases
     az: Mass-spektrometriya
     be: Мас-спектраметрыя
-    be-tarask: спэктрамія мас
+    be_tarask: спэктрамія мас
     bg: Масспектрометрия
     bs: Masena spektrofotometrija
     ca: espectrometria de massa
@@ -124,11 +124,11 @@ dv_has_:
     cy: sbectrometreg màs
     da: massespektrometri
     de: Massenspektrometrie
-    de-ch: Massenspektrometrie
+    de_ch: Massenspektrometrie
     el: φασματομετρία μάζας
     en: mass spectrometry
-    en-ca: Mass spectrometry
-    en-gb: mass spectrometry
+    en_ca: Mass spectrometry
+    en_gb: mass spectrometry
     eo: mas-spektrogramo
     es: espectrometría de masa
     et: massispektromeetria
@@ -149,11 +149,11 @@ dv_has_:
     it: spettrometria di massa
     ja: 質量分析法
     kk: Спектрометрия
-    kk-arab: سپەكترومەترىييا
+    kk_arab: سپەكترومەترىييا
     kk-cn: سپەكترومەترىييا
-    kk-cyrl: Спектрометрия
+    kk_cyrl: Спектрометрия
     kk-kz: Спектрометрия
-    kk-latn: Spektrometrïya
+    kk_latn: Spektrometrïya
     kk-tr: Spektrometrïya
     ko: 질량 분석
     ky: Масс-спектрометрия
@@ -168,7 +168,7 @@ dv_has_:
     pl: Spektrometria mas
     pnb: ماس سپیکٹرومیٹری
     pt: espectrometria de massa
-    pt-br: espectrometria de massa
+    pt_br: espectrometria de massa
     ro: spectrometrie de masă
     ru: масс-спектрометрия
     sco: mass spectrometry
@@ -179,8 +179,8 @@ dv_has_:
     sl: masna spektrometrija
     smn: massaspektrometria
     sr: масена спектрометрија
-    sr-ec: Масена спектрометрија
-    sr-el: Masena spektrometrija
+    sr_ec: Масена спектрометрија
+    sr_el: Masena spektrometrija
     sv: masspektrometri
     ta: பொருண்மை நிரல் ஆய்வு
     th: แมสสเปกโตรเมทรี
@@ -192,12 +192,12 @@ dv_has_:
     wuu: 质谱法
     yue: 質譜學
     zh: 质谱法
-    zh-cn: 质谱法
-    zh-hans: 质谱法
-    zh-hant: 質譜法
-    zh-hk: 質譜法
-    zh-sg: 质谱法
-    zh-tw: 質譜法
+    zh_cn: 质谱法
+    zh_hans: 质谱法
+    zh_hant: 質譜法
+    zh_hk: 質譜法
+    zh_sg: 质谱法
+    zh_tw: 質譜法
 ---
 # [[Mass_Spectrometry]] 
 

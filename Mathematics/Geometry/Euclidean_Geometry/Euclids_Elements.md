@@ -187,7 +187,7 @@ dv_has_:
     ast: Elementos d'Euclides
     az: Başlanğıclar (Evklid)
     be: Пачаткі
-    be-tarask: Элемэнты
+    be_tarask: Элемэнты
     bg: Елементи
     bn: ইউক্লিড’স এলিমেন্টস
     ca: Elements d'Euclides
@@ -199,7 +199,7 @@ dv_has_:
     de: Euklids Elemente
     el: Στοιχεία
     en: Elements
-    en-gb: Elements
+    en_gb: Elements
     eo: Elementoj de Eŭklido
     es: Elementos de Euclides
     et: Elemendid
@@ -240,7 +240,7 @@ dv_has_:
     pa: ਯੂਕਲਿਡ ਦੀ ਤੱਤ
     pl: Elementy
     pt: Os Elementos
-    pt-br: Os Elementos
+    pt_br: Os Elementos
     ro: Elemente
     ru: Начала
     sco: Euclid's Elements
@@ -249,8 +249,8 @@ dv_has_:
     sl: Elementi
     sq: Elementet e Euklidit
     sr: Еуклидови Елементи
-    sr-ec: Еуклидови Елементи
-    sr-el: Euklidovi Elementi
+    sr_ec: Еуклидови Елементи
+    sr_el: Euklidovi Elementi
     sv: Elementa
     ta: யூக்ளிட்டின் எலிமென்ட்ஸ்
     tg: Усули Уқлидус
@@ -266,12 +266,12 @@ dv_has_:
     yue: 幾何原本
     zgh: ⵉⴼⵔⴷⵉⵙⵏ ⵏ ⵓⴽⵍⵉⴷ
     zh: 几何原本
-    zh-cn: 几何原本
-    zh-hans: 几何原本
-    zh-hant: 幾何原本
-    zh-hk: 幾何原本
-    zh-sg: 几何原本
-    zh-tw: 幾何原本
+    zh_cn: 几何原本
+    zh_hans: 几何原本
+    zh_hant: 幾何原本
+    zh_hk: 幾何原本
+    zh_sg: 几何原本
+    zh_tw: 幾何原本
 ---
 # [[Euclids_Elements]] 
 

@@ -137,7 +137,7 @@ dv_has_:
     ba: Комедия
     bcl: Komedya
     be: камедыя
-    be-tarask: камэдыя
+    be_tarask: камэдыя
     bg: комедия
     bn: কৌতুক নাট্য
     br: fentc'hoari
@@ -192,7 +192,7 @@ dv_has_:
     kn: ವೈನೋದಿಕ
     ko: 희극
     ku: komedî
-    ku-latn: komedî
+    ku_latn: komedî
     ky: Комедия
     la: Comoedia
     lb: Kaméidistéck
@@ -202,7 +202,7 @@ dv_has_:
     mk: комедија
     ml: തമാശ
     ms: riawara
-    ms-arab: رياوارا
+    ms_arab: رياوارا
     mt: kummiedja
     myv: Комедия
     nb: komedie
@@ -241,7 +241,7 @@ dv_has_:
     tl: Komedya
     tr: komedi
     tt: кәмит
-    tt-cyrl: кәмит
+    tt_cyrl: кәмит
     uk: комедія
     ur: مزاح
     uz: Komediya
@@ -253,9 +253,9 @@ dv_has_:
     yi: קאמעדיע
     yue: 喜劇
     zh: 喜劇
-    zh-hans: 喜剧
-    zh-hant: 喜劇
-    zh-tw: 喜劇
+    zh_hans: 喜剧
+    zh_hant: 喜劇
+    zh_tw: 喜劇
 ---
 # [[Comedy]] 
 

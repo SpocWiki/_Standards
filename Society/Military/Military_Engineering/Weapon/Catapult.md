@@ -62,7 +62,7 @@ dv_has_:
     ast: catapulta
     az: katapult
     be: катапульта
-    be-tarask: катапульта
+    be_tarask: катапульта
     bg: катапулт
     bs: katapult
     ca: catapulta
@@ -110,7 +110,7 @@ dv_has_:
     oc: catapulta
     pl: katapulta
     pt: catapulta
-    pt-br: catapulta
+    pt_br: catapulta
     ro: catapultă
     ru: катапульта
     sh: katapult
@@ -118,8 +118,8 @@ dv_has_:
     sl: katapult
     sn: rhekeni
     sr: катапулт
-    sr-ec: катапулт
-    sr-el: katapult
+    sr_ec: катапулт
+    sr_el: katapult
     sv: katapult
     tg: манҷаниқ
     th: แคทะพัลต์
@@ -130,12 +130,12 @@ dv_has_:
     wuu: 投石机
     yue: 投石機
     zh: 投石機
-    zh-cn: 投石机
-    zh-hans: 投石机
-    zh-hant: 投石機
-    zh-hk: 投石機
-    zh-sg: 投石机
-    zh-tw: 投石機
+    zh_cn: 投石机
+    zh_hans: 投石机
+    zh_hant: 投石機
+    zh_hk: 投石機
+    zh_sg: 投石机
+    zh_tw: 投石機
 ---
 # [[Catapult]] 
 

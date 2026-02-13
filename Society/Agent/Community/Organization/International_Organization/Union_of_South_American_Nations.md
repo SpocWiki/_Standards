@@ -148,7 +148,7 @@ dv_has_:
     ba: Көньяҡ Америка милләттәре берлеге
     bar: Union vo Sidamerikanische Nationa
     be: Саюз паўднёваамерыканскіх нацый
-    be-tarask: Зьвяз паўднёваамэрыканскіх нацыяў
+    be_tarask: Зьвяз паўднёваамэрыканскіх нацыяў
     bg: Съюз на южноамериканските нации
     br: Unaniezh Broadoù Amerika ar Su
     bs: Unija južnoameričkih nacija
@@ -200,7 +200,7 @@ dv_has_:
     pms: Union dle nassion sudamerican-e
     pnb: جنوبی امریکی ملکاں دی یونین
     pt: União de Nações Sul-Americanas
-    pt-br: União de Nações Sul-Americanas
+    pt_br: União de Nações Sul-Americanas
     rm: Uniun da las Naziuns Sidamericanas
     ro: Uniunea Națiunilor Sud-Americane
     ru: Союз южноамериканских наций
@@ -210,7 +210,7 @@ dv_has_:
     sl: Unija južnoameriških držav
     sq: Unioni i Kombeve të Amerikës Jugore
     sr: Унасур
-    sr-ec: Унија јужноамеричких нација
+    sr_ec: Унија јужноамеричких нација
     sv: Sydamerikanska nationernas union
     ta: தென் அமெரிக்க நாடுகள் ஒன்றியம்
     th: สหภาพประชาชาติอเมริกาใต้
@@ -223,11 +223,11 @@ dv_has_:
     wuu: 南美洲国家联盟
     yue: 南美洲國家聯盟
     zh: 南美洲国家联盟
-    zh-cn: 南美洲国家联盟
-    zh-hans: 南美洲国家联盟
-    zh-hant: 南美洲國家聯盟
-    zh-hk: 南美洲國家聯盟
-    zh-tw: 南美洲國家聯盟
+    zh_cn: 南美洲国家联盟
+    zh_hans: 南美洲国家联盟
+    zh_hant: 南美洲國家聯盟
+    zh_hk: 南美洲國家聯盟
+    zh_tw: 南美洲國家聯盟
 ---
 # [[Union_of_South_American_Nations]] 
 

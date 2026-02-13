@@ -58,7 +58,7 @@ dv_has_:
   name_:
     ar: طبقة مادية
     be: фізічны ўзровень
-    be-tarask: фізычны слой
+    be_tarask: фізычны слой
     bg: Физически слой
     ca: capa física
     cs: fyzická vrstva
@@ -79,11 +79,11 @@ dv_has_:
     it: livello fisico
     ja: 物理層
     kk: Физикалық деңгей
-    kk-arab: فىيزىيكالىق دەڭگەي
+    kk_arab: فىيزىيكالىق دەڭگەي
     kk-cn: فىيزىيكالىق دەڭگەي
-    kk-cyrl: Физикалық деңгей
+    kk_cyrl: Физикалық деңгей
     kk-kz: Физикалық деңгей
-    kk-latn: fïzïkalıq deñgeý
+    kk_latn: fïzïkalıq deñgeý
     kk-tr: fïzïkalıq deñgeý
     ko: 물리 계층
     lmo: Nivell fisegh
@@ -103,8 +103,8 @@ dv_has_:
     sk: fyzická vrstva
     sl: fizična plast
     sr: физички слој
-    sr-ec: Физички слој
-    sr-el: fizički sloj
+    sr_ec: Физички слој
+    sr_el: fizički sloj
     su: lapisan fisik
     sv: fysiskt skikt
     te: ఫిజికల్ లేయర్
@@ -112,12 +112,12 @@ dv_has_:
     uk: фізичний рівень
     wuu: 物理层
     zh: 物理层
-    zh-cn: 物理层
-    zh-hans: 物理层
-    zh-hant: 實體層
-    zh-hk: 實體層
-    zh-sg: 物理层
-    zh-tw: 實體層
+    zh_cn: 物理层
+    zh_hans: 物理层
+    zh_hant: 實體層
+    zh_hk: 實體層
+    zh_sg: 物理层
+    zh_tw: 實體層
 ---
 # [[OSI~1-Physical]] 
 

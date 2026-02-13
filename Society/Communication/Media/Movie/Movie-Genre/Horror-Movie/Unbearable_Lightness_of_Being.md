@@ -112,16 +112,16 @@ dv_has_:
     sk: Neznesiteľná ľahkosť bytia
     sl: Neznosna lahkost bivanja
     sr: Неподношљива лакоћа постојања
-    sr-ec: Неподношљива лакоћа постојања
-    sr-el: Nepodnošljiva lakoća postojanja
+    sr_ec: Неподношљива лакоћа постојања
+    sr_el: Nepodnošljiva lakoća postojanja
     sv: Varats olidliga lätthet
     tr: Varolmanın Dayanılmaz Hafifliği
     uk: Нестерпна легкість буття
     vi: Đời nhẹ khôn kham
     zh: 生命中不能承受之轻
-    zh-hans: 生命中不能承受之轻
-    zh-hant: 生命中不能承受之輕
-    zh-hk: 生命中不能承受之輕
+    zh_hans: 生命中不能承受之轻
+    zh_hant: 生命中不能承受之輕
+    zh_hk: 生命中不能承受之輕
 ---
 # [[Unbearable_Lightness_of_Being]] 
 

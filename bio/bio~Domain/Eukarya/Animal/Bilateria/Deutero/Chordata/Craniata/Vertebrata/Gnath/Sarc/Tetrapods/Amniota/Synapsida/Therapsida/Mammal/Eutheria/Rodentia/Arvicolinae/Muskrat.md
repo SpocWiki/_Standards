@@ -102,7 +102,7 @@ dv_has_:
     ba: Ондатра
     ban: Muskrat
     be: Андатра
-    be-tarask: андатра
+    be_tarask: андатра
     bg: ондатра
     bn: গন্ধমূষিক
     br: Razh-musk
@@ -186,8 +186,8 @@ dv_has_:
     wuu: 麝鼠
     yue: 麝鼠
     zh: 麝鼠
-    zh-cn: 麝鼠
-    zh-tw: 麝鼠
+    zh_cn: 麝鼠
+    zh_tw: 麝鼠
 ---
 # [[Muskrat]] 
 

@@ -54,7 +54,7 @@ dv_has_:
     bar: Al Pacino
     bcl: Al Pacino
     be: Аль Пачына
-    be-tarask: Аль Пачына
+    be_tarask: Аль Пачына
     bg: Ал Пачино
     bm: Al Pacino
     bn: আল পাচিনো
@@ -70,14 +70,14 @@ dv_has_:
     da: Al Pacino
     de: Al Pacino
     de-at: Al Pacino
-    de-ch: Al Pacino
+    de_ch: Al Pacino
     diq: Al Pacino
     dsb: Al Pacino
     el: Αλ Πατσίνο
     eml: Al Pacino
     en: Al Pacino
-    en-ca: Al Pacino
-    en-gb: Al Pacino
+    en_ca: Al Pacino
+    en_gb: Al Pacino
     eo: Al Pacino
     es: Al Pacino
     et: Al Pacino
@@ -140,7 +140,7 @@ dv_has_:
     nap: Al Pacino
     nb: Al Pacino
     nds: Al Pacino
-    nds-nl: Al Pacino
+    nds_nl: Al Pacino
     nl: Al Pacino
     nn: Al Pacino
     nrm: Al Pacino
@@ -156,7 +156,7 @@ dv_has_:
     prg: Al Pacino
     ps: ال پاچینو
     pt: Al Pacino
-    pt-br: Al Pacino
+    pt_br: Al Pacino
     qu: Al Pacino
     rgn: Al Pacino
     rm: Al Pacino
@@ -171,7 +171,7 @@ dv_has_:
     sl: Al Pacino
     sq: Al Pacino
     sr: Ал Пачино
-    sr-el: Al Pacino
+    sr_el: Al Pacino
     srn: Al Pacino
     sv: Al Pacino
     sw: Al Pacino
@@ -201,10 +201,10 @@ dv_has_:
     yue: 阿爾柏仙奴
     zgh: ⴰⵍ ⴱⴰⵜⵛⵉⵏⵓ
     zh: 艾尔·帕西诺
-    zh-hans: 艾尔·帕西诺
-    zh-hant: 艾爾·帕西諾
+    zh_hans: 艾尔·帕西诺
+    zh_hant: 艾爾·帕西諾
     zh-my: 阿尔·柏仙奴
-    zh-sg: 阿尔·柏仙奴
+    zh_sg: 阿尔·柏仙奴
     zu: Al Pacino
 ---
 #has_/time_/started :: 1940-04-25 

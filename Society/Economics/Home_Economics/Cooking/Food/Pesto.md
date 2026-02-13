@@ -59,7 +59,7 @@ dv_has_:
     az: Pesto
     ba: песто
     be: Песта
-    be-tarask: пэста
+    be_tarask: пэста
     bg: Песто
     bn: পেস্তো
     bs: pesto
@@ -70,8 +70,8 @@ dv_has_:
     de: Pesto
     el: Πέστο
     en: pesto
-    en-ca: pesto
-    en-gb: pesto
+    en_ca: pesto
+    en_gb: pesto
     eo: pesto
     es: pesto
     et: pesto
@@ -111,7 +111,7 @@ dv_has_:
     pl: pesto
     pnb: پیستو
     pt: pesto
-    pt-br: pesto
+    pt_br: pesto
     ro: pesto
     roa-tara: peste
     ru: песто
@@ -128,8 +128,8 @@ dv_has_:
     vi: Pesto
     yue: 羅勒醬
     zh: 青醬
-    zh-hans: 青酱
-    zh-hant: 青醬
+    zh_hans: 青酱
+    zh_hant: 青醬
 ---
 # [[Pesto]] 
 

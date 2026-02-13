@@ -56,7 +56,7 @@ dv_has_:
     ast: Saxofón altu
     az: Alto saksafonu
     be: саксафон-альт
-    be-tarask: альта-саксафон
+    be_tarask: альта-саксафон
     bg: алт саксофон
     ca: saxòfon alt
     cs: altsaxofon

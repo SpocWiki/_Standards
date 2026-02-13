@@ -58,7 +58,7 @@ dv_has_:
     ast: Óptica física
     az: fiziki optika
     be: хвалевая оптыка
-    be-tarask: хвалевая оптыка
+    be_tarask: хвалевая оптыка
     bg: Вълнова оптика
     bn: ভৌত আলোকবিজ্ঞান
     bs: Fizička optika
@@ -82,9 +82,9 @@ dv_has_:
     it: ottica fisica
     ja: 物理光学
     kk: толқындық оптика
-    kk-arab: تولقىندىق وپتىيكا
-    kk-cyrl: Толқындық оптика
-    kk-latn: Tolqındıq optïka
+    kk_arab: تولقىندىق وپتىيكا
+    kk_cyrl: Толқындық оптика
+    kk_latn: Tolqındıq optïka
     ko: 물리광학
     ky: толкун оптикасы
     lt: Bangų optika
@@ -104,9 +104,9 @@ dv_has_:
     uk: фізична оптика
     yue: 物理光學
     zh: 物理光学
-    zh-hans: 物理光学
-    zh-hant: 物理光學
-    zh-hk: 物理光學
+    zh_hans: 物理光学
+    zh_hant: 物理光學
+    zh_hk: 物理光學
 ---
 # [[Wave_Optics]] 
 

@@ -43,7 +43,7 @@ dv_has_:
     azb: پیرس برازنان
     bar: Pierce Brosnan
     be: Пірс Броснан
-    be-tarask: Пірс Броснан
+    be_tarask: Пірс Броснан
     bg: Пиърс Броснан
     bn: পিয়ার্স ব্রসনান
     br: Pierce Brosnan
@@ -55,11 +55,11 @@ dv_has_:
     da: Pierce Brosnan
     dag: Pierce Brosnan
     de: Pierce Brosnan
-    de-ch: Pierce Brosnan
+    de_ch: Pierce Brosnan
     el: Πιρς Μπρόσναν
     en: Pierce Brosnan
-    en-ca: Pierce Brosnan
-    en-gb: Pierce Brosnan
+    en_ca: Pierce Brosnan
+    en_gb: Pierce Brosnan
     eo: Pierce Brosnan
     es: Pierce Brosnan
     et: Pierce Brosnan
@@ -109,7 +109,7 @@ dv_has_:
     pl: Pierce Brosnan
     pms: Pierce Brosnan
     pt: Pierce Brosnan
-    pt-br: Pierce Brosnan
+    pt_br: Pierce Brosnan
     qu: Pierce Brosnan
     ro: Pierce Brosnan
     ru: Пирс Броснан
@@ -121,8 +121,8 @@ dv_has_:
     sl: Pierce Brosnan
     sq: Pierce Brosnan
     sr: Пирс Броснан
-    sr-ec: Пирс Броснан
-    sr-el: Pirs Brosnan
+    sr_ec: Пирс Броснан
+    sr_el: Pirs Brosnan
     su: Pierce Brosnan
     sv: Pierce Brosnan
     sw: Pierce Brosnan
@@ -140,9 +140,9 @@ dv_has_:
     yo: Pierce Brosnan
     yue: 皮雅斯布士南
     zh: 皮尔斯·布鲁斯南
-    zh-hant: 皮爾斯·布洛斯南
+    zh_hant: 皮爾斯·布洛斯南
     zh-my: 皮雅斯·布洛斯南
-    zh-tw: 皮爾斯·布洛斯南
+    zh_tw: 皮爾斯·布洛斯南
 ---
 ## #has_/text_of_/abstract 
 

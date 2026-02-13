@@ -61,7 +61,7 @@ dv_has_:
     ast: supersimetría
     az: supersimmetriya
     be: суперсіметрыя
-    be-tarask: супэрсымэтрыя
+    be_tarask: супэрсымэтрыя
     bg: суперсиметрия
     ca: supersimetria
     cs: supersymetrie
@@ -69,8 +69,8 @@ dv_has_:
     de: Supersymmetrie
     el: υπερσυμμετρία
     en: supersymmetry
-    en-ca: supersymmetry
-    en-gb: supersymmetry
+    en_ca: supersymmetry
+    en_gb: supersymmetry
     eo: supersimetrio
     es: supersimetría
     et: supersümmeetria
@@ -89,11 +89,11 @@ dv_has_:
     it: supersimmetria
     ja: 超対称性
     kk: суперсимметрия
-    kk-arab: سۋپەرسىيممەترىييا
+    kk_arab: سۋپەرسىيممەترىييا
     kk-cn: سۋپەرسىيممەترىييا
-    kk-cyrl: суперсимметрия
+    kk_cyrl: суперсимметрия
     kk-kz: суперсимметрия
-    kk-latn: swpersïmmetrïya
+    kk_latn: swpersïmmetrïya
     kk-tr: swpersïmmetrïya
     ko: 초대칭
     la: supersymmetria
@@ -106,7 +106,7 @@ dv_has_:
     pa: ਸੁੱਪਰ-ਸਮਰੂਪਤਾ
     pl: supersymetria
     pt: supersimetria
-    pt-br: supersimetria
+    pt_br: supersimetria
     ro: supersimetrie
     ru: суперсимметрия
     sk: supersymetria
@@ -120,12 +120,12 @@ dv_has_:
     vi: siêu đối xứng
     yue: 超對稱
     zh: 超对称
-    zh-cn: 超对称
-    zh-hans: 超对称
-    zh-hant: 超對稱
-    zh-hk: 超對稱
-    zh-sg: 超对称
-    zh-tw: 超對稱
+    zh_cn: 超对称
+    zh_hans: 超对称
+    zh_hant: 超對稱
+    zh_hk: 超對稱
+    zh_sg: 超对称
+    zh_tw: 超對稱
 ---
 # [[Supersymmetry]] 
 

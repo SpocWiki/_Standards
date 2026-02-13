@@ -68,7 +68,7 @@ dv_has_:
     ast: acción social
     az: sosial hərəkət
     be: сацыяльнае дзеянне
-    be-tarask: сацыяльнае дзеяньне
+    be_tarask: сацыяльнае дзеяньне
     bg: Социална дейност на човека
     ca: acció social
     cs: sociální konání
@@ -109,7 +109,7 @@ dv_has_:
     sl: socialno delovanje
     sq: veprimi shoqëror
     sr: друштвено деловање
-    sr-ec: друштвена акција
+    sr_ec: друштвена акција
     sv: social handling
     tg: амали иҷтимоӣ
     tr: sosyal eylem
@@ -117,8 +117,8 @@ dv_has_:
     vec: asion sociałe
     vi: hành động xã hội
     zh: 社会行动
-    zh-hans: 社会行为
-    zh-hant: 社會行為
+    zh_hans: 社会行为
+    zh_hant: 社會行為
 ---
 # [[Social_Action]] 
 

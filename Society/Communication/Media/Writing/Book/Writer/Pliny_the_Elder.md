@@ -172,7 +172,7 @@ dv_has_:
     ast: Pliniu'l Vieyu
     az: Böyük Plini
     be: Пліній Старэйшы
-    be-tarask: Плініюс Старэйшы
+    be_tarask: Плініюс Старэйшы
     bg: Плиний Стари
     bn: প্লিনি দ্য এল্ডার
     br: Plinius an Henañ
@@ -230,7 +230,7 @@ dv_has_:
     pl: Pliniusz Starszy
     pnb: پلینیوس
     pt: Caio Plínio Segundo
-    pt-br: Caio Plínio Segundo
+    pt_br: Caio Plínio Segundo
     rm: Plinius il Vegl
     ro: Plinius cel Bătrân
     ru: Плиний Старший

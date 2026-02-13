@@ -132,7 +132,7 @@ dv_has_:
     az: Adi moruq
     ba: Ҡурай еләге
     be: Маліна звычайная
-    be-tarask: маліна
+    be_tarask: маліна
     bg: малина
     bn: কণ্টকগুল্মফল
     br: flamboez
@@ -150,8 +150,8 @@ dv_has_:
     el: σμέουρο
     eml: ampon
     en: raspberry
-    en-ca: raspberry
-    en-gb: raspberry
+    en_ca: raspberry
+    en_gb: raspberry
     eo: frambo
     es: frambuesa
     et: vaarikas
@@ -220,7 +220,7 @@ dv_has_:
     pms: Rubus idaeus
     pnb: رسبھری
     pt: framboesa
-    pt-br: Framboesa
+    pt_br: Framboesa
     ro: zmeură
     roa-tara: lambasciune
     ru: малина
@@ -244,7 +244,7 @@ dv_has_:
     tl: Prambuwesas
     tr: ahududu
     tt: кура җиләге
-    tt-cyrl: кура җиләге
+    tt_cyrl: кура җиләге
     ty: Rahipere
     udm: Эмезь
     ug: مالىنا (مىۋە)
@@ -259,9 +259,9 @@ dv_has_:
     wa: Amponî
     yue: 勒士啤梨
     zh: 樹莓
-    zh-cn: 覆盆子
-    zh-hans: 树莓
-    zh-hant: 覆盆子
+    zh_cn: 覆盆子
+    zh_hans: 树莓
+    zh_hant: 覆盆子
 ---
 # [[Raspberry]] 
 

@@ -56,7 +56,7 @@ dv_has_:
     az: Libido
     bcl: Libido
     be: Лібіда
-    be-tarask: лібіда
+    be_tarask: лібіда
     bg: Либидо
     bn: লিবিডো
     bs: Libido
@@ -86,16 +86,16 @@ dv_has_:
     ka: ლიბიდო
     ki: Thang'atũ
     kk: Либидо
-    kk-arab: لىيبىيدو
+    kk_arab: لىيبىيدو
     kk-cn: لىيبىيدو
-    kk-cyrl: Либидо
+    kk_cyrl: Либидо
     kk-kz: Либидо
-    kk-latn: Lïbïdo
+    kk_latn: Lïbïdo
     kk-tr: Lïbïdo
     ko: 리비도
     ku: lîbîdo
-    ku-arab: لیبیدۆ
-    ku-latn: lîbîdo
+    ku_arab: لیبیدۆ
+    ku_latn: lîbîdo
     ky: Либидо
     la: libido
     lb: libido
@@ -120,8 +120,8 @@ dv_has_:
     sl: libido
     so: Hamada saxaaxda
     sr: либидо
-    sr-ec: либидо
-    sr-el: Libido
+    sr_ec: либидо
+    sr_el: Libido
     sv: libido
     sw: libido
     tl: libido
@@ -135,12 +135,12 @@ dv_has_:
     yi: ליבידא
     yue: 性衝動
     zh: 性冲动
-    zh-cn: 性冲动
-    zh-hans: 性冲动
-    zh-hant: 性衝動
-    zh-hk: 性衝動
-    zh-sg: 性冲动
-    zh-tw: 性衝動
+    zh_cn: 性冲动
+    zh_hans: 性冲动
+    zh_hant: 性衝動
+    zh_hk: 性衝動
+    zh_sg: 性冲动
+    zh_tw: 性衝動
 ---
 # [[Libido]] 
 

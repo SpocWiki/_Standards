@@ -197,7 +197,7 @@ dv_has_:
     ban: Géométri
     bcl: heometriya
     be: геаметрыя
-    be-tarask: геамэтрыя
+    be_tarask: геамэтрыя
     bg: геометрия
     bho: ज्यॉमेट्री
     bi: jiometri
@@ -219,14 +219,14 @@ dv_has_:
     cy: geometreg
     da: geometri
     de: Geometrie
-    de-ch: Geometrie
+    de_ch: Geometrie
     diq: geometri
     dsb: geometrija
     el: γεωμετρία
     eml: geometrî
     en: geometry
-    en-ca: geometry
-    en-gb: geometry
+    en_ca: geometry
+    en_gb: geometry
     eo: geometrio
     es: geometría
     et: geomeetria
@@ -308,7 +308,7 @@ dv_has_:
     mnw: ဂေသြမေတြဳ
     mr: भूमिती
     ms: geometri
-    ms-arab: ݢيوميتري
+    ms_arab: ݢيوميتري
     mt: ġeometrija
     mwl: geometrie
     my: ဂျီဩမေတြီ
@@ -332,7 +332,7 @@ dv_has_:
     pnb: جیومیٹری
     ps: مېچپوهنه
     pt: geometria
-    pt-br: geometria
+    pt_br: geometria
     qu: pacha tupuy
     rki: ဂျီဩမေတြီ
     ro: geometrie
@@ -388,11 +388,11 @@ dv_has_:
     za: gijhozyoz
     zgh: ⵜⴰⵏⵣⴳⴳⵉⵜ
     zh: 幾何學
-    zh-cn: 几何学
-    zh-hans: 几何学
-    zh-hant: 幾何學
-    zh-hk: 幾何學
-    zh-tw: 幾何學
+    zh_cn: 几何学
+    zh_hans: 几何学
+    zh_hant: 幾何學
+    zh_hk: 幾何學
+    zh_tw: 幾何學
     zu: umchazabukhulu
 ---
 # [[Geometry]]

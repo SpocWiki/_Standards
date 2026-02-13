@@ -239,7 +239,7 @@ dv_has_:
     bar: Papst
     bcl: Papa
     be: папа
-    be-tarask: папа
+    be_tarask: папа
     bew: Paus
     bg: Папа
     bn: পোপ
@@ -257,14 +257,14 @@ dv_has_:
     cy: y pab
     da: pave
     de: Papst
-    de-ch: Papst
+    de_ch: Papst
     diq: Papa
     dsb: Bamž
     el: Πάπας
     eml: Papa
     en: Pope
-    en-ca: Pope
-    en-gb: pope
+    en_ca: Pope
+    en_gb: pope
     eo: papo
     es: Papa
     et: paavst
@@ -346,7 +346,7 @@ dv_has_:
     nap: Papa
     nb: pave
     nds: Paapst
-    nds-nl: paus
+    nds_nl: paus
     new: पोप
     nl: paus
     nn: pave
@@ -361,7 +361,7 @@ dv_has_:
     pnb: پوپ
     ps: پاپ
     pt: papa
-    pt-br: papa
+    pt_br: papa
     qu: Tayta Papa
     rm: Papa
     ro: papă
@@ -382,7 +382,7 @@ dv_has_:
     smn: paavi
     sq: Papa
     sr: папа
-    sr-ec: папа
+    sr_ec: папа
     sv: påve
     sw: Papa
     szl: Papjyż
@@ -412,11 +412,11 @@ dv_has_:
     yue: 教宗
     zea: Paus
     zh: 教宗
-    zh-cn: 教宗
-    zh-hans: 教宗
-    zh-hant: 教宗
-    zh-hk: 教宗
-    zh-tw: 教宗
+    zh_cn: 教宗
+    zh_hans: 教宗
+    zh_hant: 教宗
+    zh_hk: 教宗
+    zh_tw: 教宗
 ---
 # [[Pope]] 
 

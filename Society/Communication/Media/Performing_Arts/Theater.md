@@ -188,8 +188,8 @@ U_S_National_Archives_Identifier: 10642068
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_theatre,7112798]]'
 dv_has_:
   name_:
-    aeb-arab: مسرح
-    aeb-latn: masra7
+    aeb_arab: مسرح
+    aeb_latn: masra7
     af: teater
     am: ቴያትር
     an: teatro
@@ -205,7 +205,7 @@ dv_has_:
     bar: Theata
     bcl: teatro
     be: тэатр
-    be-tarask: тэатар
+    be_tarask: тэатар
     bg: театър
     bn: নাট্যকলা
     bo: ཟློས་གར།
@@ -227,7 +227,7 @@ dv_has_:
     dsb: źiwadło
     el: θέατρο
     en: theatre art
-    en-gb: theatre
+    en_gb: theatre
     en-us: theater
     eo: teatrarto
     es: teatro
@@ -281,7 +281,7 @@ dv_has_:
     kn: ರಂಗಮಂಟಪ
     ko: 연극
     ku: şano
-    ku-latn: şano
+    ku_latn: şano
     ky: театр
     la: ars scaenica
     lad: teatro
@@ -302,7 +302,7 @@ dv_has_:
     mn: театр
     mnc: ᠵᡠᠴᡠᠨ
     ms: teater
-    ms-arab: تياتر
+    ms_arab: تياتر
     mt: teatru
     mwl: triato
     my: ပြဇာတ်အနုပညာ
@@ -313,7 +313,7 @@ dv_has_:
     nap: tiatro
     nb: teater
     nds: Theater
-    nds-nl: theater
+    nds_nl: theater
     new: दबू प्याखं
     nl: theater
     nn: teater
@@ -332,7 +332,7 @@ dv_has_:
     pnb: تھیٹر
     ps: نندارغالی
     pt: teatro
-    pt-br: teatro
+    pt_br: teatro
     qu: aranwa
     rif: المغربية
     ro: artă teatrală
@@ -356,7 +356,7 @@ dv_has_:
     sms: teaʹtter
     sq: teatri
     sr: позориште
-    sr-ec: позориште
+    sr_ec: позориште
     su: téater
     sv: teaterkonst
     sw: tamthilia
@@ -387,8 +387,8 @@ dv_has_:
     yo: síátà
     yue: 舞台劇
     zh: 劇場藝術
-    zh-hant: 劇場藝術
-    zh-tw: 劇場藝術
+    zh_hant: 劇場藝術
+    zh_tw: 劇場藝術
 ---
 # [[Theater]] 
 

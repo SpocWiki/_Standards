@@ -87,7 +87,7 @@ dv_has_:
     az: kabel televiziyası
     ba: кабель телевидениеһы
     be: кабельнае тэлебачанне
-    be-tarask: кабэльнае тэлебачаньне
+    be_tarask: кабэльнае тэлебачаньне
     bg: Кабелна телевизия
     bs: kablovska televizija
     ca: televisió per cable
@@ -96,10 +96,10 @@ dv_has_:
     cy: teledu cebl
     da: kabel-tv
     de: Kabelfernsehen
-    de-ch: Kabelfernsehen
+    de_ch: Kabelfernsehen
     en: cable television
-    en-ca: cable television
-    en-gb: cable television
+    en_ca: cable television
+    en_gb: cable television
     en-us: cable television
     eo: kabla televido
     es: televisión por cable
@@ -134,7 +134,7 @@ dv_has_:
     nn: Kabelfjernsyn
     pl: telewizja kablowa
     pt: televisão por cabo
-    pt-br: televisão a cabo
+    pt_br: televisão a cabo
     ro: Televiziune prin cablu
     ru: кабельное телевидение
     sco: cable televeesion
@@ -143,8 +143,8 @@ dv_has_:
     sl: kabelska televizija
     sq: Televizioni kabllor
     sr: кабловски дистрибутивни систем
-    sr-ec: Кабловски дистрибутивни систем
-    sr-el: Kablovski distributivni sistem
+    sr_ec: Кабловски дистрибутивни систем
+    sr_el: Kablovski distributivni sistem
     su: TV kabel
     sv: kabel-TV
     ta: கம்பி வடம்
@@ -163,14 +163,14 @@ dv_has_:
     yi: קאבל־טעלעוויזיע
     yue: 有線電視
     zh: 有线电视
-    zh-cn: 有线电视
-    zh-hans: 有线电视
-    zh-hant: 有線電視
-    zh-hk: 有線電視
-    zh-mo: 有線電視
+    zh_cn: 有线电视
+    zh_hans: 有线电视
+    zh_hant: 有線電視
+    zh_hk: 有線電視
+    zh_mo: 有線電視
     zh-my: 有线电视
-    zh-sg: 电缆电视
-    zh-tw: 有線電視
+    zh_sg: 电缆电视
+    zh_tw: 有線電視
 ---
 # [[Cable_Television]] 
 

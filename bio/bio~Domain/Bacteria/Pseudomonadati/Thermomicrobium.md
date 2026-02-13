@@ -43,7 +43,7 @@ dv_has_:
     oc: Thermomicrobia
     pl: Thermomicrobia
     pt: Thermomicrobia
-    pt-br: Thermomicrobia
+    pt_br: Thermomicrobia
     ro: Thermomicrobia
     ru: Thermomicrobia
     sq: Thermomicrobia
@@ -52,9 +52,9 @@ dv_has_:
     vo: Thermomicrobia
     war: Thermomicrobia
     zh: 熱微菌門
-    zh-hans: 热微菌门
-    zh-hant: 熱微菌門
-    zh-hk: 熱微菌門
+    zh_hans: 热微菌门
+    zh_hant: 熱微菌門
+    zh_hk: 熱微菌門
 ---
 # [[Thermomicrobia]] 
 

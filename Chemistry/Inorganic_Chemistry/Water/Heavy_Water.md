@@ -135,7 +135,7 @@ dv_has_:
     az: Ağır su
     azb: آغیر سو
     be: Цяжкая вада
-    be-tarask: Цяжкая вада
+    be_tarask: Цяжкая вада
     bg: Тежка вода
     bn: ভারী পানি
     ca: aigua pesant
@@ -166,11 +166,11 @@ dv_has_:
     ja: 重水
     ka: მძიმე წყალი
     kk: Ауыр су
-    kk-arab: اۋىر سۋ
+    kk_arab: اۋىر سۋ
     kk-cn: اۋىر سۋ
-    kk-cyrl: Ауыр су
+    kk_cyrl: Ауыр су
     kk-kz: Ауыр су
-    kk-latn: Awır sw
+    kk_latn: Awır sw
     kk-tr: Awır sw
     ko: 중수
     lv: smagais ūdens
@@ -184,7 +184,7 @@ dv_has_:
     oc: Aiga pesuga
     pl: ciężka woda
     pt: água pesada
-    pt-br: água deuterada
+    pt_br: água deuterada
     ro: apă grea
     ru: тяжёлая вода
     sco: hivy watter
@@ -193,8 +193,8 @@ dv_has_:
     sk: ťažká voda
     sl: težka voda
     sr: тешка вода
-    sr-ec: Тешка вода
-    sr-el: Teška voda
+    sr_ec: Тешка вода
+    sr_el: Teška voda
     sv: tungt vatten
     ta: கன நீர்
     te: భారజలం
@@ -206,12 +206,12 @@ dv_has_:
     wuu: 重水
     yue: 重水
     zh: 重水
-    zh-cn: 重水
-    zh-hans: 重水
-    zh-hant: 重水
-    zh-hk: 重水
-    zh-sg: 重水
-    zh-tw: 重水
+    zh_cn: 重水
+    zh_hans: 重水
+    zh_hant: 重水
+    zh_hk: 重水
+    zh_sg: 重水
+    zh_tw: 重水
 ---
 # [[Heavy_Water]] 
 

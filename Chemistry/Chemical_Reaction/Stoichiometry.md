@@ -89,7 +89,7 @@ dv_has_:
     ast: Estequiometría
     az: Stokiometriya
     be: стэхіяметрыя
-    be-tarask: стэхіямэтрыя
+    be_tarask: стэхіямэтрыя
     bg: Стехиометрия
     bn: স্টয়কিওমিতি
     bs: Stehiometrija
@@ -141,8 +141,8 @@ dv_has_:
     sl: stehiometrija
     sq: Stekiometria
     sr: стехиометрија
-    sr-ec: стехиометрија
-    sr-el: stehiometrija
+    sr_ec: стехиометрија
+    sr_el: stehiometrija
     sv: stökiometri
     ta: விகிதவியல்
     te: స్టాయికియోమెట్రీ
@@ -152,8 +152,8 @@ dv_has_:
     uz: Stexiometriya
     yue: 化學計量數
     zh: 化學計量
-    zh-cn: 化学计量比
-    zh-hant: 等當量
+    zh_cn: 化学计量比
+    zh_hant: 等當量
 ---
 # [[Stoichiometry]] 
 

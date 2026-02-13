@@ -175,7 +175,7 @@ dv_has_:
     az: Portuqaliya imperiyası
     azb: پورتوقال ایمپیراتورلوغو
     be: калоніі Партугаліі
-    be-tarask: Партугальская каляніяльная імпэрыя
+    be_tarask: Партугальская каляніяльная імпэрыя
     bg: Португалска империя
     bn: পর্তুগিজ সাম্রাজ্য
     br: Impalaeriezh trevadennel Portugal
@@ -186,11 +186,11 @@ dv_has_:
     cy: Ymerodraeth Portiwgal
     da: Det portugisiske koloniimperium
     de: portugiesisches Kolonialreich
-    de-ch: Portugiesische Kolonialgeschichte
+    de_ch: Portugiesische Kolonialgeschichte
     el: Πορτογαλική Αυτοκρατορία
     en: Portuguese Empire
-    en-ca: Portuguese Empire
-    en-gb: Portuguese Empire
+    en_ca: Portuguese Empire
+    en_gb: Portuguese Empire
     en-us: Portuguese Empire
     eo: portugala kolonia imperio
     es: Imperio portugués
@@ -233,7 +233,7 @@ dv_has_:
     pl: Portugalskie imperium kolonialne
     pnb: پرتگیزی سلطنت
     pt: Império Português
-    pt-br: Império Português
+    pt_br: Império Português
     ro: Imperiul Portughez
     ru: колонии Португалии
     sc: Impèriu portughesu
@@ -263,14 +263,14 @@ dv_has_:
     xmf: პორტუგალიაშ კოლონიეფი
     yue: 葡萄牙帝國
     zh: 葡萄牙帝國
-    zh-cn: 葡萄牙帝国
-    zh-hans: 葡萄牙帝国
-    zh-hant: 葡萄牙帝國
-    zh-hk: 葡萄牙帝國
-    zh-mo: 葡萄牙帝國
+    zh_cn: 葡萄牙帝国
+    zh_hans: 葡萄牙帝国
+    zh_hant: 葡萄牙帝國
+    zh_hk: 葡萄牙帝國
+    zh_mo: 葡萄牙帝國
     zh-my: 葡萄牙帝国
-    zh-sg: 葡萄牙帝国
-    zh-tw: 葡萄牙帝國
+    zh_sg: 葡萄牙帝国
+    zh_tw: 葡萄牙帝國
 ---
 # [[1415-Portuguese_Empire-1999]] 
 

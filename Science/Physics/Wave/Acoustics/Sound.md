@@ -192,7 +192,7 @@ dv_has_:
     bcc: چڈکا
     bcl: tanog
     be: гук
-    be-tarask: гук
+    be_tarask: гук
     bg: звук
     bgn: چڈکا
     bn: শব্দ
@@ -210,8 +210,8 @@ dv_has_:
     diq: veng
     el: ήχος
     en: sound
-    en-ca: sound
-    en-gb: sound
+    en_ca: sound
+    en_gb: sound
     eo: sono
     es: sonido
     et: heli
@@ -230,7 +230,7 @@ dv_has_:
     gn: pu
     gom: आवाज
     gom-deva: आवाज
-    gom-latn: avaz
+    gom_latn: avaz
     gsw: Schall
     ha: sauti
     hak: sâng-yîm
@@ -279,7 +279,7 @@ dv_has_:
     mnc: ᠵᡳᠯᡤᠠᠨ
     mr: आवाज
     ms: bunyi
-    ms-arab: بوڽي
+    ms_arab: بوڽي
     mwl: sonido
     my: အသံ
     myv: гайге
@@ -300,7 +300,7 @@ dv_has_:
     pnb: آواز
     ps: غږ
     pt: som
-    pt-br: som
+    pt_br: som
     qu: ruqyay
     ro: sunet
     rsk: звук
@@ -321,7 +321,7 @@ dv_has_:
     sms: jiõnn
     sq: zë
     sr: звук
-    sr-ec: звук
+    sr_ec: звук
     su: sora
     sv: ljud
     sw: sauti
@@ -335,7 +335,7 @@ dv_has_:
     tr: ses
     ts: mpfumawulo
     tt: аваз
-    tt-cyrl: аваз
+    tt_cyrl: аваз
     tum: chongo
     tyv: үн
     udm: куара
@@ -353,11 +353,11 @@ dv_has_:
     yue: 聲
     zea: geluud
     zh: 声音
-    zh-cn: 声音
-    zh-hans: 声音
-    zh-hant: 聲音
-    zh-hk: 聲音
-    zh-tw: 聲音
+    zh_cn: 声音
+    zh_hans: 声音
+    zh_hant: 聲音
+    zh_hk: 聲音
+    zh_tw: 聲音
     zu: umsindo
 ---
 # [[Sound]] 

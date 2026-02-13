@@ -121,7 +121,7 @@ dv_has_:
     azb: قوجا و دنیز
     ba: Ҡарт һәм диңгеҙ
     be: Стары і мора
-    be-tarask: Стары чалавек і мора
+    be_tarask: Стары чалавек і мора
     bg: Старецът и морето
     bn: দি ওল্ড ম্যান অ্যান্ড দ্য সি
     bs: Starac i more
@@ -196,9 +196,9 @@ dv_has_:
     xmf: ბადიდი დო ზუღა
     yue: 老人與海
     zh: 老人與海
-    zh-cn: 老人与海
-    zh-hans: 老人与海
-    zh-hk: 老人與海
+    zh_cn: 老人与海
+    zh_hans: 老人与海
+    zh_hk: 老人與海
 ---
 # [[The_Old_Man_and_the_Sea]] 
 

@@ -239,7 +239,7 @@ dv_has_:
     bar: Juri Alexejewitsch Gagarin
     bcl: Yuri Gagarin
     be: Юрый Аляксеевіч Гагарын
-    be-tarask: Юры Гагарын
+    be_tarask: Юры Гагарын
     bg: Юрий Гагарин
     bho: यूरी गगारिन
     bn: ইউরি গ্যাগারিন
@@ -254,20 +254,20 @@ dv_has_:
     ckb: یوری گاگارین
     co: Jurij Gagarin
     crh: Yuriy Gagarin
-    crh-latn: Yuriy Gagarin
+    crh_latn: Yuriy Gagarin
     cs: Jurij Alexejevič Gagarin
     cu: Юрии Гагаринъ
     cv: Гагарин Юрий Алексеевич
     cy: Yuri Gagarin
     da: Jurij Gagarin
     de: Juri Alexejewitsch Gagarin
-    de-ch: Juri Alexejewitsch Gagarin
+    de_ch: Juri Alexejewitsch Gagarin
     diq: Yuri Gagarin
     el: Γιούρι Γκαγκάριν
     eml: Yuri Gagarin
     en: Yuri Gagarin
-    en-ca: Yuri Gagarin
-    en-gb: Yuri Gagarin
+    en_ca: Yuri Gagarin
+    en_gb: Yuri Gagarin
     en-us: Yuri Gagarin
     eo: Jurij Aleksejeviĉ Gagarin
     es: Yuri Gagarin
@@ -343,7 +343,7 @@ dv_has_:
     nan: Yuri Gagarin
     nb: Jurij Gagarin
     nds: Juri Alexejewitsch Gagarin
-    nds-nl: Yuri Gagarin
+    nds_nl: Yuri Gagarin
     ne: युरी गागरिन
     new: युरी ग्यागारिन
     nl: Joeri Gagarin
@@ -359,7 +359,7 @@ dv_has_:
     pnb: یوری گیگرین
     ps: يوري ګاګارين
     pt: Iuri Gagarin
-    pt-br: Iuri Gagarin
+    pt_br: Iuri Gagarin
     qu: Yuri Gagarin
     ro: Iuri Gagarin
     ru: Юрий Алексеевич Гагарин
@@ -388,7 +388,7 @@ dv_has_:
     tly: Jurij Gagarin
     tr: Yuri Gagarin
     tt: Юрий Гагарин
-    tt-cyrl: Юрий Гагарин
+    tt_cyrl: Юрий Гагарин
     tyv: Гагарин, Юрий Алексеевич
     udm: Гагарин Юрий
     uk: Юрій Олексійович Гагарін

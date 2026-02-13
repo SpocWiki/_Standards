@@ -205,7 +205,7 @@ subclass_of:
 - '[[_Standards/WikiData/WD~plant_ovary,109121364]]'
 dv_has_:
   name_:
-    aeb-arab: غلة
+    aeb_arab: غلة
     af: vrug
     am: ፍራፍሬ
     an: fruito
@@ -225,7 +225,7 @@ dv_has_:
     bar: Frucht
     bcl: bunga
     be: плод
-    be-tarask: плод
+    be_tarask: плод
     bew: Buah (èlmu tumbuan)
     bg: плод
     bho: फल
@@ -247,14 +247,14 @@ dv_has_:
     da: frugt
     dag: walli
     de: Frucht
-    de-ch: Frucht
+    de_ch: Frucht
     diq: meywe
     dsb: płod
     dty: फल
     el: καρπός
     en: fruit
-    en-ca: fruit
-    en-gb: fruit
+    en_ca: fruit
+    en_gb: fruit
     eo: frukto
     es: fruto
     et: vili
@@ -320,7 +320,7 @@ dv_has_:
     lzh: 果
     lzz: xila
     mai: फल
-    map-bms: uwoh
+    map_bms: uwoh
     mdf: имож
     mg: voankazo
     mhr: саска
@@ -357,7 +357,7 @@ dv_has_:
     pnb: پھݪ
     ps: مېوه (نباتي جوړښت)
     pt: fruto
-    pt-br: fruta
+    pt_br: fruta
     qu: ruru
     rmf: fruukto
     ro: fruct
@@ -396,7 +396,7 @@ dv_has_:
     tl: bunga
     tr: meyve
     tt: җимеш
-    tt-cyrl: җимеш
+    tt_cyrl: җимеш
     tw: aduaba
     udm: емыш
     ug: ظاصتاص يئضةن مئؤة
@@ -416,14 +416,14 @@ dv_has_:
     yo: èso
     yue: 果
     zh: 果实
-    zh-cn: 果实
-    zh-hans: 果实
-    zh-hant: 果實
-    zh-hk: 果實
-    zh-mo: 果實
+    zh_cn: 果实
+    zh_hans: 果实
+    zh_hant: 果實
+    zh_hk: 果實
+    zh_mo: 果實
     zh-my: 果实
-    zh-sg: 果实
-    zh-tw: 果實
+    zh_sg: 果实
+    zh_tw: 果實
     zu: Izithelo
 ---
 # [[Fruit]] 

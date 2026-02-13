@@ -94,7 +94,7 @@ dv_has_:
     azb: یوتو آزتک دیللری
     ba: Юта-ацтек телдәре
     be: юта-ацтэкскія мовы
-    be-tarask: юта-ацтэцкія мовы
+    be_tarask: юта-ацтэцкія мовы
     bg: юто-ацтекски езици
     br: yezhoù outoek-aztekek
     ca: llengües uto-asteques

@@ -107,7 +107,7 @@ dv_has_:
     ba: Луи де Фюнес
     bar: Louis de Funès
     be: Луі дэ Фюнэс
-    be-tarask: Люі дэ Фюнэс
+    be_tarask: Люі дэ Фюнэс
     bg: Луи дьо Фюнес
     bi: Louis de Funès
     bm: Louis de Funès
@@ -120,11 +120,11 @@ dv_has_:
     da: Louis de Funès
     de: Louis de Funès
     de-at: Louis de Funès
-    de-ch: Louis de Funès
+    de_ch: Louis de Funès
     el: Λουί ντε Φυνές
     en: Louis de Funès
-    en-ca: Louis de Funès
-    en-gb: Louis de Funès
+    en_ca: Louis de Funès
+    en_gb: Louis de Funès
     en-us: Louis de Funès
     eo: Louis de Funès
     es: Louis de Funès
@@ -184,7 +184,7 @@ dv_has_:
     nap: Louis de Funès
     nb: Louis de Funès
     nds: Louis de Funès
-    nds-nl: Louis de Funès
+    nds_nl: Louis de Funès
     nl: Louis de Funès
     nn: Louis de Funès
     nrm: Louis de Funès
@@ -196,7 +196,7 @@ dv_has_:
     pms: Louis de Funès
     prg: Louis de Funès
     pt: Louis de Funès
-    pt-br: Louis de Funès
+    pt_br: Louis de Funès
     qu: Louis de Funès
     rgn: Louis de Funès
     rm: Louis de Funès
@@ -212,8 +212,8 @@ dv_has_:
     sl: Louis de Funès
     sq: Louis de Funès
     sr: Луј де Финес
-    sr-ec: Луј де Финес
-    sr-el: Louis de Funès
+    sr_ec: Луј де Финес
+    sr_el: Louis de Funès
     sv: Louis de Funès
     sw: Louis de Funès
     szl: Louis de Funès
@@ -221,7 +221,7 @@ dv_has_:
     tr: Louis de Funès
     tt: Луи де Фюнес
     ug: لۇئىس دې فىناس
-    ug-arab: لۇئىس دې فىناس
+    ug_arab: لۇئىس دې فىناس
     uk: Луї де Фюнес
     vec: Louis de Funès
     vi: Louis de Funès
@@ -235,9 +235,9 @@ dv_has_:
     xmf: ლუი დე ფიუნესი
     yue: 路易狄芬尼
     zh: 路易·德菲内斯
-    zh-hans: 路易·狄芬尼
+    zh_hans: 路易·狄芬尼
     zh-my: 路易·狄芬尼
-    zh-sg: 路易·狄芬尼
+    zh_sg: 路易·狄芬尼
     zu: Louis de Funès
 ---
 # [[Funès,Louis_de]] 

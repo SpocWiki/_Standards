@@ -183,7 +183,7 @@ dv_has_:
     az: qarayara
     azb: قارایارا
     be: сібірская язва
-    be-tarask: сібірская язва
+    be_tarask: сібірская язва
     bg: Антракс
     bn: অ্যানথ্রাক্স
     br: Serk
@@ -195,8 +195,8 @@ dv_has_:
     de: Anthrax
     el: άνθρακας
     en: anthrax
-    en-ca: Anthrax
-    en-gb: Anthrax
+    en_ca: Anthrax
+    en_gb: Anthrax
     eo: antrakso
     es: carbunco
     et: Siberi katk
@@ -220,11 +220,11 @@ dv_has_:
     jv: Antraks
     ka: ჯილეხი
     kk: Жамандат
-    kk-arab: جاماندات
+    kk_arab: جاماندات
     kk-cn: جاماندات
-    kk-cyrl: Жамандат
+    kk_cyrl: Жамандат
     kk-kz: Жамандат
-    kk-latn: Jamandat
+    kk_latn: Jamandat
     kk-tr: Jamandat
     kn: ನೆರಡಿ
     ko: 탄저
@@ -247,7 +247,7 @@ dv_has_:
     pl: wąglik
     ps: انتراکس
     pt: carbúnculo
-    pt-br: antraz
+    pt_br: antraz
     ro: Antrax
     ru: сибирская язва
     sah: Сотуун өлүү
@@ -259,8 +259,8 @@ dv_has_:
     smn: täbđirotto
     sq: Antraksi
     sr: aнтракс
-    sr-ec: Антракс
-    sr-el: Antraks
+    sr_ec: Антракс
+    sr_el: Antraks
     su: Antraks
     sv: mjältbrand
     sw: Kimeta
@@ -281,12 +281,12 @@ dv_has_:
     yue: 炭疽
     za: binghdancih
     zh: 炭疽病
-    zh-cn: 炭疽病
-    zh-hans: 炭疽病
-    zh-hant: 炭疽病
-    zh-hk: 炭疽病
-    zh-sg: 炭疽病
-    zh-tw: 炭疽病
+    zh_cn: 炭疽病
+    zh_hans: 炭疽病
+    zh_hant: 炭疽病
+    zh_hk: 炭疽病
+    zh_sg: 炭疽病
+    zh_tw: 炭疽病
 ---
 # [[Anthrax]] 
 

@@ -247,7 +247,7 @@ dv_is_same_as:
 - '[[/_secret/Earth/Climate/Weather/Snow.secret|Snow.secret]]'
 dv_has_:
   name_:
-    aeb-arab: ثلج
+    aeb_arab: ثلج
     af: sneeu
     am: አመዳይ
     an: nieu
@@ -268,7 +268,7 @@ dv_has_:
     bar: Schnää
     bcl: Nyebe
     be: снег
-    be-tarask: сьнег
+    be_tarask: сьнег
     bg: сняг
     bho: बर्फबारी
     bn: তুষার
@@ -292,15 +292,15 @@ dv_has_:
     cy: eira
     da: sne
     de: Schnee
-    de-ch: Schnee
+    de_ch: Schnee
     diq: vewre
     dsb: sněg
     dty: हिउँ
     el: χιόνι
     eml: naiv
     en: snow
-    en-ca: snow
-    en-gb: snow
+    en_ca: snow
+    en_gb: snow
     eo: neĝo
     es: nieve
     et: lumi
@@ -379,7 +379,7 @@ dv_has_:
     mnc: ᠨᡳᠮᠠᠩᡤᡳ
     mr: हिमवर्षा
     ms: salji
-    ms-arab: ثلجي
+    ms_arab: ثلجي
     mul: snow
     my: နှင်း
     myv: лов
@@ -389,7 +389,7 @@ dv_has_:
     nap: Hiocche
     nb: snø
     nds: Snee
-    nds-nl: sney
+    nds_nl: sney
     ne: हिउँ
     new: च्वापु गायु
     nl: sneeuw
@@ -408,7 +408,7 @@ dv_has_:
     pnb: برف پیناں
     ps: واوره
     pt: neve
-    pt-br: neve
+    pt_br: neve
     qu: Rit'i
     ro: zăpadă
     rsk: Шнїг
@@ -436,8 +436,8 @@ dv_has_:
     sn: Sinowo
     sq: dëborë
     sr: снијег
-    sr-ec: снијег
-    sr-el: snijeg
+    sr_ec: снијег
+    sr_el: snijeg
     su: Salju
     sv: snö
     sw: Theluji
@@ -453,7 +453,7 @@ dv_has_:
     tr: kar
     ts: Gamboko
     tt: кар
-    tt-cyrl: кар
+    tt_cyrl: кар
     udm: лымы
     ug: قار
     uk: сніг
@@ -473,9 +473,9 @@ dv_has_:
     yue: 雪
     za: Nae
     zh: 雪
-    zh-hans: 雪
-    zh-hk: 雪
-    zh-tw: 雪
+    zh_hans: 雪
+    zh_hk: 雪
+    zh_tw: 雪
     zu: Umkhithiko
 ---
 # [[Snow]] 

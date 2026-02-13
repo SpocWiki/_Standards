@@ -64,7 +64,7 @@ dv_has_:
   name_:
     ar: تجربة رذرفورد
     ast: Esperimentu de Rutherford
-    be-tarask: экспэрымэнт Гайгера—Марздэна
+    be_tarask: экспэрымэнт Гайгера—Марздэна
     ca: Experiment de Rutherford
     ckb: تاقیکردنەوەی گایگەر–مارسدێن
     cs: Rutherfordův experiment
@@ -102,9 +102,9 @@ dv_has_:
     vi: Thí nghiệm Rutherford
     yue: 蓋革－馬斯登實驗
     zh: 盖革－马斯登实验
-    zh-hans: 盖革－马斯登实验
-    zh-hant: 蓋革－馬斯登實驗
-    zh-hk: 蓋革－馬斯登實驗
+    zh_hans: 盖革－马斯登实验
+    zh_hant: 蓋革－馬斯登實驗
+    zh_hk: 蓋革－馬斯登實驗
 ---
 # [[Geiger–Marsden_Experiment]] 
 

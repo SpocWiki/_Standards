@@ -243,7 +243,7 @@ dv_has_:
     ban: Ernest Rutherford
     bcl: Ernest Rutherford
     be: Эрнэст Рэзерфорд
-    be-tarask: Эрнэст Рэзэрфорд
+    be_tarask: Эрнэст Рэзэрфорд
     bg: Ърнест Ръдърфорд
     bn: আর্নেস্ট রাদারফোর্ড
     br: Ernest Rutherford
@@ -259,11 +259,11 @@ dv_has_:
     cy: Ernest Rutherford
     da: Ernest Rutherford
     de: Ernest Rutherford
-    de-ch: Ernest Rutherford
+    de_ch: Ernest Rutherford
     el: Έρνεστ Ράδερφορντ
     en: Ernest Rutherford
-    en-ca: Ernest Rutherford
-    en-gb: Ernest Rutherford
+    en_ca: Ernest Rutherford
+    en_gb: Ernest Rutherford
     en-us: Ernest Rutherford
     eo: Ernest Rutherford
     es: Ernest Rutherford
@@ -337,7 +337,7 @@ dv_has_:
     pnb: ارنسٹ ردرفورڈ
     ps: ارنست رادرفورد
     pt: Ernest Rutherford
-    pt-br: Ernest Rutherford
+    pt_br: Ernest Rutherford
     qu: Ernest Rutherford
     ro: Ernest Rutherford
     ru: Эрнест Резерфорд
@@ -353,7 +353,7 @@ dv_has_:
     sl: Ernest Rutherford
     sq: Ernest Rutherford
     sr: Ернест Радерфорд
-    sr-ec: Ернест Радерфорд
+    sr_ec: Ернест Радерфорд
     su: Ernest Rutherford
     sv: Ernest Rutherford
     sw: Ernest Rutherford
@@ -378,7 +378,7 @@ dv_has_:
     yo: Ernest Rutherford
     yue: 盧瑟福
     zh: 欧内斯特·卢瑟福
-    zh-tw: 歐尼斯特·拉塞福
+    zh_tw: 歐尼斯特·拉塞福
 ---
 # [[Rutherford,Ernest]] 
 

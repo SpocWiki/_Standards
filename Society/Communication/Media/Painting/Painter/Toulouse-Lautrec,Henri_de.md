@@ -230,7 +230,7 @@ dv_has_:
     az: Anri de Tuluz-Lotrek
     ba: Анри де Тулуз-Лотрек
     be: Анры дэ Тулуз-Латрэк
-    be-tarask: Анры дэ Тулюз-Лятрэк
+    be_tarask: Анры дэ Тулюз-Лятрэк
     bg: Анри дьо Тулуз-Лотрек
     bn: অঁরি দ্য তুলুজ-লোত্রেক
     br: Henri de Toulouse-Lautrec
@@ -241,11 +241,11 @@ dv_has_:
     cy: Enric de Tolosa-Lautrèc
     da: Henri de Toulouse-Lautrec
     de: Henri de Toulouse-Lautrec
-    de-ch: Henri de Toulouse-Lautrec
+    de_ch: Henri de Toulouse-Lautrec
     el: Ανρί ντε Τουλούζ-Λωτρέκ
     en: Henri de Toulouse-Lautrec
-    en-ca: Henri de Toulouse-Lautrec
-    en-gb: Henri de Toulouse-Lautrec
+    en_ca: Henri de Toulouse-Lautrec
+    en_gb: Henri de Toulouse-Lautrec
     eo: Henri de Toulouse-Lautrec
     es: Henri de Toulouse-Lautrec
     et: Henri de Toulouse-Lautrec
@@ -292,7 +292,7 @@ dv_has_:
     pl: Henri de Toulouse-Lautrec
     pms: Henri de Toulouse-Lautrec
     pt: Henri de Toulouse-Lautrec
-    pt-br: Henri de Toulouse-Lautrec
+    pt_br: Henri de Toulouse-Lautrec
     rmf: Henri de Toulouse-Lautrec
     ro: Henri de Toulouse-Lautrec
     ru: Анри де Тулуз-Лотрек
@@ -311,7 +311,7 @@ dv_has_:
     sms: Henri de Toulouse-Lautrec
     sq: Henri de Toulouse-Lautrec
     sr: Анри де Тулуз-Лотрек
-    sr-ec: Анри де Тулуз-Лотрек
+    sr_ec: Анри де Тулуз-Лотрек
     sv: Henri de Toulouse-Lautrec
     sw: Henri de Toulouse-Lautrec
     th: อ็องรี เดอ ตูลูซ-โลแทร็ก
@@ -326,7 +326,7 @@ dv_has_:
     wuu: 亨利·德·土鲁斯-劳特累克
     yue: 羅特列克
     zh: 亨利·德·土魯斯-羅特列克
-    zh-hant: 亨利·德·土魯斯-羅特列克
+    zh_hant: 亨利·德·土魯斯-羅特列克
 ---
 # [[Toulouse-Lautrec,Henri_de]] 
 

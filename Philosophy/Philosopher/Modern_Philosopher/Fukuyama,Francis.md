@@ -10,7 +10,7 @@ dv_has_:
     az: Frensis Fukuyama
     azb: فرانسیس فوکویاما
     be: Фрэнсіс Фукуяма
-    be-tarask: Фрэнсіс Фукуяма
+    be_tarask: Фрэнсіс Фукуяма
     bg: Франсис Фукуяма
     bs: Francis Fukuyama
     ca: Francis Fukuyama
@@ -21,7 +21,7 @@ dv_has_:
     dag: Francis Fukuyama
     de: Francis Fukuyama
     de-at: Francis Fukuyama
-    de-ch: Francis Fukuyama
+    de_ch: Francis Fukuyama
     el: Φράνσις Φουκουγιάμα
     en: Francis Fukuyama
     eo: Francis Fukuyama
@@ -62,7 +62,7 @@ dv_has_:
     pms: Francis Fukuyama
     ps: فرانسس فوکویاما
     pt: Francis Fukuyama
-    pt-br: Francis Fukuyama
+    pt_br: Francis Fukuyama
     ro: Francis Fukuyama
     ru: Фрэнсис Фукуяма
     sc: Francis Fukuyama
@@ -73,8 +73,8 @@ dv_has_:
     sl: Yoshihiro Francis Fukuyama
     sq: Francis Fukuyama
     sr: Франсис Фукујама
-    sr-ec: Франсис Фукујама
-    sr-el: Fransis Fukujama
+    sr_ec: Франсис Фукујама
+    sr_el: Fransis Fukujama
     sv: Francis Fukuyama
     tg: Франсис Фукуяма
     th: ฟรานซิส ฟุกุยะมะ
@@ -87,12 +87,12 @@ dv_has_:
     wuu: 弗朗西斯·福山
     yue: 法蘭西斯·福山
     zh: 法蘭西斯·福山
-    zh-cn: 弗朗西斯·福山
+    zh_cn: 弗朗西斯·福山
     zh-hans: 法兰西斯·福山
-    zh-hant: 法蘭西斯·福山
-    zh-hk: 法蘭西斯·福山
-    zh-sg: 弗朗西斯·福山
-    zh-tw: 法蘭西斯·福山
+    zh_hant: 法蘭西斯·福山
+    zh_hk: 法蘭西斯·福山
+    zh_sg: 弗朗西斯·福山
+    zh_tw: 法蘭西斯·福山
 aliases:
 - Francis Fukuyama
 - Franciscus Fukuyama

@@ -131,7 +131,7 @@ dv_has_:
     ban: Wawengkon Schengen
     bcl: Ronang Schengen
     be: Шэнгенская зона
-    be-tarask: Шэнгенская зона
+    be_tarask: Шэнгенская зона
     bg: Шенгенско пространство
     bn: শেংগেন অঞ্চল
     br: Takad Schengen
@@ -143,8 +143,8 @@ dv_has_:
     de: Schengen-Raum
     el: Περιοχή Σένγκεν
     en: Schengen Area
-    en-ca: Schengen Area
-    en-gb: Schengen Area
+    en_ca: Schengen Area
+    en_gb: Schengen Area
     eo: Schengen-spaco
     es: espacio Schengen
     et: Schengeni viisaruum
@@ -189,7 +189,7 @@ dv_has_:
     pnb: شنجن دیس
     ps: شينګن سيمه
     pt: Espaço Schengen
-    pt-br: Espaço Schengen
+    pt_br: Espaço Schengen
     ro: Spațiul Schengen
     ru: Шенгенская зона
     si: ෂෙන්ගන් ප්රදේශය
@@ -216,11 +216,11 @@ dv_has_:
     yi: שענגען זאנע
     yue: 神根公約國
     zh: 申根区
-    zh-cn: 申根区
-    zh-hans: 申根区
-    zh-hant: 申根區
-    zh-hk: 神根區
-    zh-tw: 申根區
+    zh_cn: 申根区
+    zh_hans: 申根区
+    zh_hant: 申根區
+    zh_hk: 神根區
+    zh_tw: 申根區
   time_:
     started: 1985
 dv_is_:

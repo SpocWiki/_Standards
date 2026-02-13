@@ -140,7 +140,7 @@ dv_has_:
     ast: Xunión Europea de Radiodifusión
     az: Avropa Yayım İttifaqı
     be: Еўрапейскі вяшчальны саюз
-    be-tarask: Эўрапейскі вяшчальны зьвяз
+    be_tarask: Эўрапейскі вяшчальны зьвяз
     bg: Европейски съюз за радио и телевизия
     bs: European Broadcasting Union
     ca: Unió Europea de Radiodifusió
@@ -171,11 +171,11 @@ dv_has_:
     ja: 欧州放送連合
     ka: ევროპის მაუწყებელთა კავშირი
     kk: Еуропалық хабар тарату одағы
-    kk-arab: ەۋروپالىق حابار تاراتۋ وداعى
+    kk_arab: ەۋروپالىق حابار تاراتۋ وداعى
     kk-cn: ەۋروپالىق حابار تاراتۋ وداعى
-    kk-cyrl: Еуропалық хабар тарату одағы
+    kk_cyrl: Еуропалық хабар тарату одағы
     kk-kz: Еуропалық хабар тарату одағы
-    kk-latn: Ewropalıq xabar taratw odağı
+    kk_latn: Ewropalıq xabar taratw odağı
     kk-tr: Ewropalıq xabar taratw odağı
     ko: 유럽 방송 연맹
     ky: Европа телерадиоберүү бирикмеси
@@ -200,25 +200,25 @@ dv_has_:
     smn: Euroop almosradiounion
     sq: Bashkimi Evropian i Radio-Televizioneve
     sr: Европска радиодифузна унија
-    sr-ec: Европска радиодифузна унија
-    sr-el: Evropska radiodifuzna unija
+    sr_ec: Европска радиодифузна унија
+    sr_el: Evropska radiodifuzna unija
     sv: Europeiska radio- och TV-unionen
     th: สหภาพการแพร่สัญญาณวิทยุและโทรทัศน์แห่งยุโรป
     tr: Avrupa Yayın Birliği
     tt: Аурупа хәбәрләр тапшыру берлеге
-    tt-cyrl: Аурупа хәбәрләр тапшыру берлеге
+    tt_cyrl: Аурупа хәбәрләр тапшыру берлеге
     uk: Європейська спілка радіомовлення і телебачення
     vi: Liên hiệp Phát sóng châu Âu
     wuu: 欧洲广播联盟
     xmf: ევროპაშ ომაუჭყაფე რსხუ
     yue: 歐洲廣播聯盟
     zh: 歐洲廣播聯盟
-    zh-cn: 欧洲广播联盟
-    zh-hans: 欧洲广播联盟
-    zh-hant: 歐洲廣播聯盟
-    zh-hk: 歐洲廣播聯盟
-    zh-sg: 欧洲广播联盟
-    zh-tw: 歐洲廣播聯盟
+    zh_cn: 欧洲广播联盟
+    zh_hans: 欧洲广播联盟
+    zh_hant: 歐洲廣播聯盟
+    zh_hk: 歐洲廣播聯盟
+    zh_sg: 欧洲广播联盟
+    zh_tw: 歐洲廣播聯盟
 ---
 # [[European_Broadcasting_Union]] 
 

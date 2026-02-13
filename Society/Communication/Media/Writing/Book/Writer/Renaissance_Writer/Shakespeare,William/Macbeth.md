@@ -177,7 +177,7 @@ dv_has_:
     af: Macbeth
     ar: مكبث
     ast: Macbeth
-    be-tarask: Макбэт
+    be_tarask: Макбэт
     bg: Макбет
     bn: ম্যাকবেথ
     br: Macbeth
@@ -187,11 +187,11 @@ dv_has_:
     cy: Macbeth
     da: Macbeth
     de: Macbeth
-    de-ch: Macbeth
+    de_ch: Macbeth
     el: Μάκβεθ
     en: Macbeth
-    en-ca: Macbeth
-    en-gb: Macbeth
+    en_ca: Macbeth
+    en_gb: Macbeth
     en-us: Macbeth
     eo: Makbeto
     es: Macbeth
@@ -241,7 +241,7 @@ dv_has_:
     pcd: Macbeth
     pl: Makbet
     pt: Macbeth
-    pt-br: Macbeth
+    pt_br: Macbeth
     ro: Macbeth
     ru: Макбет
     sco: Macbeth
@@ -251,8 +251,8 @@ dv_has_:
     sl: Macbeth
     sq: Makbeth
     sr: Магбет
-    sr-ec: Магбет
-    sr-el: Magbet
+    sr_ec: Магбет
+    sr_el: Magbet
     sv: Macbeth
     sw: Macbeth
     szy: Make-pay 馬克白
@@ -270,12 +270,12 @@ dv_has_:
     yi: מאקבעט
     yue: 馬克白
     zh: 馬克白
-    zh-cn: 麦克白
-    zh-hans: 麦克白
-    zh-hant: 馬克白
-    zh-hk: 馬克白
-    zh-sg: 麦克白
-    zh-tw: 馬克白
+    zh_cn: 麦克白
+    zh_hans: 麦克白
+    zh_hant: 馬克白
+    zh_hk: 馬克白
+    zh_sg: 麦克白
+    zh_tw: 馬克白
 ---
 # [[Macbeth]] 
 

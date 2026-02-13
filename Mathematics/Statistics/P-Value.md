@@ -57,7 +57,7 @@ dv_has_:
     ar: قيمة احتمالية
     ast: Valor
     az: P-dəyəri
-    be-tarask: p-значэньне
+    be_tarask: p-значэньне
     ca: valor p
     ckb: نرخی-پی
     cs: p-hodnota
@@ -65,8 +65,8 @@ dv_has_:
     de: p-Wert
     el: Τιμή σημαντικότητας
     en: p-value
-    en-ca: P-value
-    en-gb: P-value
+    en_ca: P-value
+    en_gb: P-value
     eo: p-valoro
     es: valor p
     et: Olulisuse tõenäosus
@@ -87,7 +87,7 @@ dv_has_:
     nl: p-waarde
     pl: P-wartość
     pt: valor p
-    pt-br: Valor-p
+    pt_br: Valor-p
     ro: valoare p
     ru: P-значение
     sl: p-vrednost
@@ -101,7 +101,7 @@ dv_has_:
     ur: P-قدر
     yue: P值
     zh: P值
-    zh-hans: p value
+    zh_hans: p value
 ---
 # [[P-Value]] 
 

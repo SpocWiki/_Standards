@@ -163,7 +163,7 @@ dv_has_:
     ba: Малакка боғаҙы
     ban: Selat Malaka
     be: Малакскі праліў
-    be-tarask: Малацкая пратока
+    be_tarask: Малацкая пратока
     bg: Малака
     bn: মালাক্কা প্রণালী
     bo: མ་ལིའུ་ཅ་མཚོ་འགག
@@ -177,11 +177,11 @@ dv_has_:
     cy: Culfor Malacca
     da: Malaccastrædet
     de: Straße von Malakka
-    de-ch: Strasse von Malakka
+    de_ch: Strasse von Malakka
     el: Στενό της Μαλάκα
     en: Strait of Malacca
-    en-ca: Strait of Malacca
-    en-gb: Strait of Malacca
+    en_ca: Strait of Malacca
+    en_gb: Strait of Malacca
     en-us: Strait of Malacca
     eo: Malaka Markolo
     es: Estrecho de Malaca
@@ -225,7 +225,7 @@ dv_has_:
     ml: മലാക്കാ കടലിടുക്ക്
     mr: मलाक्क्याची सामुद्रधुनी
     ms: Selat Melaka
-    ms-arab: سلت ملاک
+    ms_arab: سلت ملاک
     my: မလက္ကာရေလက်ကြား
     nan: Malacca Hái-kiap
     nb: Malakkastredet
@@ -237,7 +237,7 @@ dv_has_:
     pl: Cieśnina Malakka
     pnb: آبنائے ملاکا
     pt: Estreito de Malaca
-    pt-br: Estreito de Malaca
+    pt_br: Estreito de Malaca
     ro: Strâmtoarea Malacca
     ru: Малаккский пролив
     sah: Малакка силбэһиитэ
@@ -249,7 +249,7 @@ dv_has_:
     skr: آبنائے ملاکا
     sl: Melaški preliv
     sr: Малајски мореуз
-    sr-ec: Малајски мореуз
+    sr_ec: Малајски мореуз
     sv: Malackasundet
     sw: Mlango wa Malakka
     ta: மலாக்கா நீரிணை
@@ -267,8 +267,8 @@ dv_has_:
     xmf: მალაკიშ საროტი
     yue: 馬六甲海峽
     zh: 马六甲海峡
-    zh-cn: 马六甲海峡
-    zh-hans: 马六甲海峡
+    zh_cn: 马六甲海峡
+    zh_hans: 马六甲海峡
 ---
 # [[Strait_of_Malacca]] 
 

@@ -90,7 +90,7 @@ dv_has_:
     ast: Casta
     az: Kasta sistemi
     be: каста
-    be-tarask: каста
+    be_tarask: каста
     bg: каста
     bn: বর্ণ (সামাজিক শ্রেণী)
     ca: casta
@@ -121,9 +121,9 @@ dv_has_:
     it: casta
     ja: カースト
     kk: Касталар
-    kk-arab: كاستالار
-    kk-cyrl: Касталар
-    kk-latn: Kastalar
+    kk_arab: كاستالار
+    kk_cyrl: Касталар
+    kk_latn: Kastalar
     kn: ಜಾತಿ
     ko: 카스트
     ky: Касталар
@@ -145,7 +145,7 @@ dv_has_:
     pl: kasta
     pnb: ذات
     pt: casta
-    pt-br: casta
+    pt_br: casta
     ro: castă
     ru: каста
     sat: ᱡᱟ.ᱛᱤ
@@ -156,8 +156,8 @@ dv_has_:
     sl: kasta
     so: Foocid bulsho
     sr: каста
-    sr-ec: каста
-    sr-el: kasta
+    sr_ec: каста
+    sr_el: kasta
     sv: kast
     ta: சாதி
     te: కులం
@@ -170,9 +170,9 @@ dv_has_:
     wuu: 種姓
     yue: 種姓
     zh: 种姓制度
-    zh-hans: 种姓制度
-    zh-hant: 種姓制度
-    zh-hk: 種姓制度
+    zh_hans: 种姓制度
+    zh_hant: 種姓制度
+    zh_hk: 種姓制度
 ---
 # [[Caste]] 
 

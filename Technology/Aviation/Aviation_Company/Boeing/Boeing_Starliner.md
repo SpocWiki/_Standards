@@ -51,10 +51,10 @@ dv_has_:
     ca: CST-100
     cs: CST-100
     de: CST-100
-    de-ch: CST-100 Starliner
+    de_ch: CST-100 Starliner
     en: Boeing Starliner
-    en-ca: CST-100 Starliner
-    en-gb: CST-100 Starliner
+    en_ca: CST-100 Starliner
+    en_gb: CST-100 Starliner
     es: CST-100 Starliner
     et: CST-100 Starliner
     fa: سی اس تی-۱۰۰
@@ -72,7 +72,7 @@ dv_has_:
     nl: CST-100
     pl: CST-100
     pt: CST-100
-    pt-br: CST-100 Starliner
+    pt_br: CST-100 Starliner
     ro: CST-100
     ru: CST-100
     sk: CST-100 Starliner
@@ -82,8 +82,8 @@ dv_has_:
     uk: CST-100
     wuu: 波音CST-100星际航线
     zh: 波音星际航线
-    zh-hans: 波音星际航线
-    zh-hant: 波音星際航線
+    zh_hans: 波音星际航线
+    zh_hant: 波音星際航線
 ---
 # [[Boeing_Starliner]] 
 

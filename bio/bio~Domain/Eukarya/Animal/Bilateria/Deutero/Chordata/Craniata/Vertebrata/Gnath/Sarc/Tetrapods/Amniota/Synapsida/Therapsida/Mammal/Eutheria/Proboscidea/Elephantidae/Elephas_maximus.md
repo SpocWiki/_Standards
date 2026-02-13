@@ -93,7 +93,7 @@ dv_has_:
     ban: Kunjara Asia
     bcl: Elepante sa Asya
     be: Азіяцкі слон
-    be-tarask: Азіяцкі слон
+    be_tarask: Азіяцкі слон
     bg: азиатски слон
     bn: এশীয় হাতি
     br: Olifant Azia
@@ -109,8 +109,8 @@ dv_has_:
     diq: Filê Asya
     el: Ασιατικός ελέφαντας
     en: Asian elephant
-    en-ca: Asian elephant
-    en-gb: Asian elephant
+    en_ca: Asian elephant
+    en_gb: Asian elephant
     eo: Azia elefanto
     es: Elephas maximus
     et: india elevant
@@ -155,7 +155,7 @@ dv_has_:
     my: အာရှဆင်
     nb: Asiatisk elefant
     nds: Elephas maximus
-    nds-nl: Elephas maximus
+    nds_nl: Elephas maximus
     ne: एशियन हात्ती
     nl: Aziatische olifant
     nn: Elephas maximus
@@ -167,7 +167,7 @@ dv_has_:
     pnb: ایشیائی ہاتھی
     ps: آسیايي بیل
     pt: Elefante-asiático
-    pt-br: Elefante-asiático
+    pt_br: Elefante-asiático
     ro: Elephas maximus
     ru: азиатский слон
     sah: Азия сэлиитэ
@@ -177,8 +177,8 @@ dv_has_:
     sl: azijski slon
     sq: Elephas maximus
     sr: азијски слон
-    sr-ec: Азијски слон
-    sr-el: Azijski slon
+    sr_ec: Азијски слон
+    sr_el: Azijski slon
     sv: asiatisk elefant
     szl: Elephas maximus
     ta: ஆசிய யானை
@@ -198,12 +198,12 @@ dv_has_:
     wuu: 亚洲象
     yue: 亞洲象
     zh: 亚洲象
-    zh-cn: 亚洲象
-    zh-hans: 亚洲象
-    zh-hant: 亞洲象
-    zh-hk: 亞洲象
-    zh-sg: 亚洲象
-    zh-tw: 亞洲象
+    zh_cn: 亚洲象
+    zh_hans: 亚洲象
+    zh_hant: 亞洲象
+    zh_hk: 亞洲象
+    zh_sg: 亚洲象
+    zh_tw: 亞洲象
 ---
 # Elephas maximus
 

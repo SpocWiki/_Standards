@@ -113,7 +113,7 @@ dv_has_:
     ast: instrumentu de percusión
     az: zərb alətləri
     be: ударныя музычныя інструменты
-    be-tarask: ударны музычны інструмэнт
+    be_tarask: ударны музычны інструмэнт
     bg: ударен музикален инструмент
     bn: ঘাতযন্ত্র
     br: benveg-tosiñ
@@ -171,7 +171,7 @@ dv_has_:
     pap: instrumento di perkushon
     pl: perkusja
     pt: instrumento de percussão
-    pt-br: instrumento de percussão
+    pt_br: instrumento de percussão
     qu: Takana waqachina
     ro: instrument de percuție
     ru: ударный музыкальный инструмент
@@ -183,8 +183,8 @@ dv_has_:
     smn: časkemčuojânâs
     sms: čâʹcǩǩemsååitanj
     sr: удараљке
-    sr-ec: удараљке
-    sr-el: udaraljke
+    sr_ec: удараљке
+    sr_el: udaraljke
     su: Perkusi
     sv: slagverk
     szl: Perkusyjne insztrumynty
@@ -202,12 +202,12 @@ dv_has_:
     xmf: გიოშქუმალარი მიოგამალეფი
     yue: 敲擊樂器
     zh: 打击乐器
-    zh-cn: 打击乐器
-    zh-hans: 打击乐器
-    zh-hant: 打擊樂器
-    zh-hk: 打擊樂器
-    zh-sg: 打击乐器
-    zh-tw: 打擊樂器
+    zh_cn: 打击乐器
+    zh_hans: 打击乐器
+    zh_hant: 打擊樂器
+    zh_hk: 打擊樂器
+    zh_sg: 打击乐器
+    zh_tw: 打擊樂器
 ---
 # [[Percussion_Instrument]] 
 

@@ -12,18 +12,18 @@ dv_has_:
     azb: پیشیک کیمیلر
     ban: Feliformia
     be: коткападобныя
-    be-tarask: коткападобныя
+    be_tarask: коткападобныя
     bg: коткоподобни
     ca: feliformes
     ceb: Feliformia
     cs: kočkotvární
     da: Feliformia
     de: Katzenartige
-    de-ch: Katzenartige
+    de_ch: Katzenartige
     el: Αιλουροειδή
     en: Feliformia
-    en-ca: Feliformia
-    en-gb: Feliformia
+    en_ca: Feliformia
+    en_gb: Feliformia
     eo: Felisformaj
     es: Feliformia
     eu: Feliformia
@@ -66,7 +66,7 @@ dv_has_:
     oc: Feliformia
     pl: kotokształtne
     pt: Feliformia
-    pt-br: Feliformia
+    pt_br: Feliformia
     ro: Feliformia
     ru: кошкообразные
     sco: Feliformia
@@ -86,9 +86,9 @@ dv_has_:
     war: Feliformia
     wuu: 猫型亚目
     zh: 貓型亞目
-    zh-cn: 猫型亚目
-    zh-hans: 猫型亚目
-    zh-hant: 貓型亞目
+    zh_cn: 猫型亚目
+    zh_hans: 猫型亚目
+    zh_hant: 貓型亞目
 aliases:
 - feliformes
 - Feliformia

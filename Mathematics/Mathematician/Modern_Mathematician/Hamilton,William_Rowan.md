@@ -132,7 +132,7 @@ dv_has_:
     az: Uilyam Rouen Hamilton
     azb: ویلیام همیلتون
     be: Уільям Роўэн Гамільтан
-    be-tarask: Ўільям Роўэн Гамілтан
+    be_tarask: Ўільям Роўэн Гамілтан
     bg: Уилям Роуън Хамилтон
     bn: উইলিয়াম রোয়ান হ্যামিল্টন
     br: William Rowan Hamilton
@@ -143,8 +143,8 @@ dv_has_:
     de: William Rowan Hamilton
     el: Γουίλιαμ Ρόουαν Χάμιλτον
     en: William Rowan Hamilton
-    en-ca: William Rowan Hamilton
-    en-gb: William Rowan Hamilton
+    en_ca: William Rowan Hamilton
+    en_gb: William Rowan Hamilton
     en-us: William Rowan Hamilton
     eo: William Rowan Hamilton
     es: William Rowan Hamilton
@@ -192,7 +192,7 @@ dv_has_:
     pl: William Rowan Hamilton
     pms: William Rowan Hamilton
     pt: William Rowan Hamilton
-    pt-br: William Rowan Hamilton
+    pt_br: William Rowan Hamilton
     ro: William Rowan Hamilton
     ru: Уильям Роуэн Гамильтон
     sco: William Rowan Hamilton
@@ -213,7 +213,7 @@ dv_has_:
     yi: וויליאם ראאן האמילטאן
     yue: 威廉·哈密頓
     zh: 威廉·哈密頓
-    zh-tw: 威廉·漢密爾頓
+    zh_tw: 威廉·漢密爾頓
 ---
 # [[Hamilton,William_Rowan]] 
 

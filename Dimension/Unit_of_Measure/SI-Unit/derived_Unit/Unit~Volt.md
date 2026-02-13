@@ -118,7 +118,7 @@ dv_has_:
     az: volt
     azb: وولت
     be: вольт
-    be-tarask: вольт
+    be_tarask: вольт
     bg: Волт
     bn: ভোল্ট
     bo: ཝོལ།
@@ -182,7 +182,7 @@ dv_has_:
     mn: Вольт
     mr: व्होल्ट
     ms: volt
-    ms-arab: ۏولﺕ
+    ms_arab: ۏولﺕ
     mt: volt
     my: ဗို့
     nan: Bó͘-lú-to͘h
@@ -210,7 +210,7 @@ dv_has_:
     smn: voltti
     sq: Volti
     sr: волт
-    sr-ec: Волт
+    sr_ec: Волт
     sv: volt
     sw: Volti
     ta: வோல்ட்டு
@@ -230,7 +230,7 @@ dv_has_:
     wuu: 伏特
     yue: 伏
     zh: 伏特
-    zh-hant: 伏特
+    zh_hant: 伏特
     zu: IsiVuve
 ---
 # [[Unit~Volt]] 

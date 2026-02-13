@@ -97,7 +97,7 @@ dv_has_:
     az: Kiril və Mefodi
     ba: Кирилл һәм Мефодий
     be: Кірыл і Мяфодзій
-    be-tarask: Кірыла і Мятод
+    be_tarask: Кірыла і Мятод
     bg: Кирил и Методий
     bs: Ćirilo i Metodije
     ca: Ciril i Metodi
@@ -105,11 +105,11 @@ dv_has_:
     cs: Cyril a Metoděj
     cu: Кѷрїллъ и Мєѳодїи
     de: Kyrill und Method
-    de-ch: Kyrill und Method
+    de_ch: Kyrill und Method
     el: Άγιοι Κύριλλος και Μεθόδιος
     en: Saints Cyril and Methodius
-    en-ca: Saints Cyril and Methodius
-    en-gb: Saints Cyril and Methodius
+    en_ca: Saints Cyril and Methodius
+    en_gb: Saints Cyril and Methodius
     eo: Cirilo kaj Metodo
     es: Cirilo y Metodio
     eu: Zirilo eta Metodio
@@ -129,8 +129,8 @@ dv_has_:
     kk: Кирилл мен Мефодий
     ko: 치릴로와 메토디오
     ku: Kîrîl û Metodiyos
-    ku-arab: کیریلئوو مەتۆدیۆس
-    ku-latn: Kîrîl û Metodiyos
+    ku_arab: کیریلئوو مەتۆدیۆس
+    ku_latn: Kîrîl û Metodiyos
     la: Cyrillus et Methodius
     lt: Šv. Kirilas ir Metodijus
     lv: Kirils un Metodijs
@@ -153,8 +153,8 @@ dv_has_:
     sl: sveta Ciril in Metod
     sq: Kirili dhe Metodi
     sr: Ћирило и Методије
-    sr-ec: Ћирило и Методије
-    sr-el: Ćirilo i Metodije
+    sr_ec: Ћирило и Методије
+    sr_el: Ćirilo i Metodije
     sv: Kyrillos och Methodios
     tr: Kiril ve Metodius
     tt: Кирилл һәм Нипудый
@@ -162,8 +162,8 @@ dv_has_:
     vec: Ciriło e Metòdio
     vi: Kyrillô và Mêthôđiô
     zh: 基里尔和美多德
-    zh-hans: 基里尔和美多德
-    zh-sg: 基里尔和美多德
+    zh_hans: 基里尔和美多德
+    zh_sg: 基里尔和美多德
 ---
 # [[Saints_Cyril_and_Methodius]] 
 

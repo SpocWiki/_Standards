@@ -121,7 +121,7 @@ dv_has_:
     az: zadəganlıq
     ba: Дворянлыҡ
     be: знаць
-    be-tarask: дваранства
+    be_tarask: дваранства
     bg: Аристокрация
     bjn: Kasuma
     bn: আভিজাত্য
@@ -134,11 +134,11 @@ dv_has_:
     cy: pendefigaeth
     da: adel
     de: Adel
-    de-ch: Adel
+    de_ch: Adel
     el: ευγενείς
     en: nobility
-    en-ca: Nobility
-    en-gb: nobility
+    en_ca: Nobility
+    en_gb: nobility
     eo: nobelaro
     es: nobleza
     et: Aadel
@@ -171,7 +171,7 @@ dv_has_:
     ka: თავადაზნაურობა
     ko: 귀족
     ku: torinî
-    ku-latn: torinî
+    ku_latn: torinî
     la: Nobilitas
     lb: Adel
     lmo: Nobiltà
@@ -185,7 +185,7 @@ dv_has_:
     mzn: نوبرس
     nan: Hôa-cho̍k
     nb: adel
-    nds-nl: adel
+    nds_nl: adel
     ne: भारदार परिवार
     nl: adel
     nn: adel
@@ -194,7 +194,7 @@ dv_has_:
     pl: szlachta
     ps: اشرافیت / اشرافي خلک
     pt: nobreza
-    pt-br: Nobreza
+    pt_br: Nobreza
     ro: nobilime
     ru: дворянство
     rue: Немеш
@@ -203,8 +203,8 @@ dv_has_:
     sl: plemstvo
     sq: Adel
     sr: племство
-    sr-ec: племство
-    sr-el: plemstvo
+    sr_ec: племство
+    sr_el: plemstvo
     sv: adel
     th: ชนชั้นขุนนาง
     tl: Kamaharlikahan
@@ -222,12 +222,12 @@ dv_has_:
     yue: 貴族
     za: Gveicuz
     zh: 貴族
-    zh-cn: 贵族
-    zh-hans: 贵族
-    zh-hant: 貴族
-    zh-hk: 貴族
-    zh-sg: 贵族
-    zh-tw: 貴族
+    zh_cn: 贵族
+    zh_hans: 贵族
+    zh_hant: 貴族
+    zh_hk: 貴族
+    zh_sg: 贵族
+    zh_tw: 貴族
 ---
 # [[Nobility]] 
 

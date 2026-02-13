@@ -202,7 +202,7 @@ dv_has_:
     arz: ايشريشيا كولاى
     ast: Escherichia coli
     az: Bağırsaq çöpləri
-    be-tarask: кішачны пруток
+    be_tarask: кішачны пруток
     bg: Ешерихия коли
     bn: এশেরিকিয়া কোলাই
     bo: རྒྱུ་དཀར་དབྱུག་སྲིན་
@@ -267,7 +267,7 @@ dv_has_:
     pl: pałeczka okrężnicy
     ps: اېشېريکيا کولي
     pt: Escherichia coli
-    pt-br: Escherichia coli
+    pt_br: Escherichia coli
     ro: Escherichia coli
     ru: кишечная палочка
     sco: Escherichia coli
@@ -291,9 +291,9 @@ dv_has_:
     wuu: 大肠杆菌
     yue: 大腸桿菌
     zh: 大腸桿菌
-    zh-cn: 大肠杆菌
-    zh-hans: 大肠杆菌
-    zh-tw: 大腸埃希氏菌
+    zh_cn: 大肠杆菌
+    zh_hans: 大肠杆菌
+    zh_tw: 大腸埃希氏菌
 ---
 # [[Escherichia_coli]] 
 

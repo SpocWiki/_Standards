@@ -147,7 +147,7 @@ dv_has_:
     ba: Airbus
     bar: Airbus
     be: Airbus
-    be-tarask: Airbus
+    be_tarask: Airbus
     bg: Еърбъс
     bho: एयरबस
     bn: এয়ারবাস
@@ -161,10 +161,10 @@ dv_has_:
     cy: Airbus
     da: Airbus
     de: Airbus
-    de-ch: Airbus
+    de_ch: Airbus
     el: Airbus
     en: Airbus SAS
-    en-ca: Airbus
+    en_ca: Airbus
     eo: Airbus Commercial Aircraft
     es: Airbus
     et: Airbus
@@ -220,7 +220,7 @@ dv_has_:
     pms: Airbus
     pnb: ایئر بس
     pt: Airbus
-    pt-br: Airbus
+    pt_br: Airbus
     ro: Airbus Commercial Aircraft
     ru: Airbus
     scn: Airbus
@@ -231,8 +231,8 @@ dv_has_:
     sn: Airbus
     sq: Airbus
     sr: Ербас
-    sr-ec: Ербас
-    sr-el: Erbas
+    sr_ec: Ербас
+    sr_el: Erbas
     sv: Airbus
     sw: Airbus
     ta: ஏர்பஸ்
@@ -249,14 +249,14 @@ dv_has_:
     yi: ערבוס
     yue: 空中客車
     zh: 空中客车
-    zh-cn: 空中客车
-    zh-hans: 空中客车
-    zh-hant: 空中巴士
-    zh-hk: 空中巴士
-    zh-mo: 空中巴士
+    zh_cn: 空中客车
+    zh_hans: 空中客车
+    zh_hant: 空中巴士
+    zh_hk: 空中巴士
+    zh_mo: 空中巴士
     zh-my: 空中客车
-    zh-sg: 空中客车
-    zh-tw: 空中巴士
+    zh_sg: 空中客车
+    zh_tw: 空中巴士
 ---
 # [[Airbus]] 
 

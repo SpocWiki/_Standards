@@ -450,7 +450,7 @@ dv_has_:
     ace: Bahsa Seupanyo
     acm: الاسباني
     ady: Испаныбзэ
-    aeb-arab: السبانيوري
+    aeb_arab: السبانيوري
     af: Spaans
     am: እስፓንኛ
     an: Idioma castellán
@@ -472,7 +472,7 @@ dv_has_:
     bar: Spanisch
     bcl: Tataramon na Espanyol
     be: іспанская мова
-    be-tarask: гішпанская мова
+    be_tarask: гішпанская мова
     bg: испански език
     bho: स्पेनिश भाषा
     bjn: Bahasa spanyol
@@ -486,7 +486,7 @@ dv_has_:
     bug: ᨅᨔ ᨔᨄᨎᨚᨒ
     bxr: Испани хэлэн
     ca: castellà
-    cbk-zam: Lengua Español
+    cbk_zam: Lengua Español
     cdo: Să̤-băng-ngà-ngṳ̄
     ce: испанхойн мотт
     ceb: Inespanyol
@@ -496,7 +496,7 @@ dv_has_:
     ckb: زمانی ئیسپانی
     co: spagnolu
     crh: İspan tili
-    crh-latn: İspan tili
+    crh_latn: İspan tili
     cs: španělština
     csb: Szpańsczi jãzëk
     cu: Їспанїискъ ѩꙁꙑкъ
@@ -505,7 +505,7 @@ dv_has_:
     da: spansk
     dag: Spanish
     de: Spanisch
-    de-ch: Spanisch
+    de_ch: Spanisch
     diq: İspanyolki
     dsb: Špańšćina
     dtp: Boros Sepanyol
@@ -514,8 +514,8 @@ dv_has_:
     el: Ισπανικά
     eml: Spagnôl
     en: Spanish
-    en-ca: Spanish
-    en-gb: Spanish
+    en_ca: Spanish
+    en_gb: Spanish
     eo: hispana lingvo
     es: español
     et: hispaania keel
@@ -589,7 +589,7 @@ dv_has_:
     ks: ہِسپٲنوی زَبان
     ksh: Schpanische Sproch
     ku: zimanê spanî
-    ku-latn: zimanê spanî
+    ku_latn: zimanê spanî
     kv: Испан кыв
     kw: Spaynek
     ky: Испан тили
@@ -625,7 +625,7 @@ dv_has_:
     mr: स्पॅनिश भाषा
     mrj: Испани йӹлмӹ
     ms: bahasa Sepanyol
-    ms-arab: بهاس سڤاڽول
+    ms_arab: بهاس سڤاڽول
     mt: Spanjol
     mwl: lhéngua castelhana
     my: စပိန်ဘာသာစကား
@@ -637,7 +637,7 @@ dv_has_:
     nap: Lengua spagnuola
     nb: spansk
     nds: Spaansch
-    nds-nl: Spaans
+    nds_nl: Spaans
     ne: स्पेनी भाषा
     new: स्पेनी भाषा
     nl: Spaans
@@ -668,7 +668,7 @@ dv_has_:
     prg: špāniskan
     ps: اسپانيايي ژبه
     pt: espanhol
-    pt-br: espanhol
+    pt_br: espanhol
     qu: Kastilla simi
     rm: Lingua spagnola
     ro: limba spaniolă
@@ -704,7 +704,7 @@ dv_has_:
     so: Isbanish
     sq: spanjisht
     sr: шпански
-    sr-ec: шпански
+    sr_ec: шпански
     srn: Spanyorotongo
     ss: Sipanishi
     st: Sespain
@@ -732,7 +732,7 @@ dv_has_:
     trv: Kari Si-pan-ya
     ts: Xipaniya
     tt: испан теле
-    tt-cyrl: испан теле
+    tt_cyrl: испан теле
     tum: Chiyowoyelo cha Spanish
     tw: Spanish
     ty: Reo Paniora
@@ -763,14 +763,14 @@ dv_has_:
     zea: Spaons
     zgh: ⵜⵓⵜⵍⴰⵢⵜ ⵜⴰⵙⴱⵍⵢⵓⵏⵜ
     zh: 西班牙語
-    zh-cn: 西班牙语
-    zh-hans: 西班牙语
-    zh-hant: 西班牙語
-    zh-hk: 西班牙語
-    zh-mo: 西班牙語
+    zh_cn: 西班牙语
+    zh_hans: 西班牙语
+    zh_hant: 西班牙語
+    zh_hk: 西班牙語
+    zh_mo: 西班牙語
     zh-my: 西班牙语
-    zh-sg: 西班牙语
-    zh-tw: 西班牙語
+    zh_sg: 西班牙语
+    zh_tw: 西班牙語
     zu: IsiSpeyini
 ---
 # [[Lang-spa]] 

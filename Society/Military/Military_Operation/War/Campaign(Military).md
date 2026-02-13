@@ -90,7 +90,7 @@ dv_has_:
     ast: campaña militar
     az: hərbi əməliyyat
     be: ваенныя дзеянні
-    be-tarask: ваенныя дзеяньні
+    be_tarask: ваенныя дзеяньні
     bg: Военна кампания
     br: kampagn brezel
     ca: campanya militar
@@ -100,13 +100,13 @@ dv_has_:
     cy: ymgyrch filwrol
     da: felttog
     de: Feldzug
-    de-ch: Feldzug
+    de_ch: Feldzug
     diq: Taarruz
     dsb: kampanja
     el: εκστρατεία
     en: military campaign
-    en-ca: military campaign
-    en-gb: military campaign
+    en_ca: military campaign
+    en_gb: military campaign
     eo: kampanjo
     es: campaña militar
     eu: kanpaina militar
@@ -123,9 +123,9 @@ dv_has_:
     ja: 戦役
     ka: სამხედრო კამპანია
     kk: әскери кампания
-    kk-arab: سوعىستاعى قىيمىل تۇرلەرى
-    kk-cyrl: Соғыстағы қимыл түрлері
-    kk-latn: soğıstağı qïmıl türleri
+    kk_arab: سوعىستاعى قىيمىل تۇرلەرى
+    kk_cyrl: Соғыстағы қимыл түрлері
+    kk_latn: soğıstağı qïmıl türleri
     kn: ದಂಡಯಾತ್ರೆ
     ko: 전역
     lt: kampanija
@@ -133,7 +133,7 @@ dv_has_:
     ms: kempen ketenteraan
     nan: Chiàn-e̍k
     nb: felttog
-    nds-nl: veldtocht
+    nds_nl: veldtocht
     nl: veldtocht
     nn: felttog
     nqo: ߣߊ߲߬ߕߌ߰ ߓߙߊߡߊߖߊ߲ߓߊ߲
@@ -160,8 +160,8 @@ dv_has_:
     vec: canpagna miłitare
     vi: Chiến dịch quân sự
     zh: 戰役
-    zh-hans: 战役
-    zh-hant: 軍事戰役
+    zh_hans: 战役
+    zh_hant: 軍事戰役
 ---
 # [[Campaign(Military)]] 
 

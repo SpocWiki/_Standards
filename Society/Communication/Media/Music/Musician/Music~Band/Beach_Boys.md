@@ -10,7 +10,7 @@ dv_has_:
     az: The Beach Boys
     azb: بیچ بویز
     be: The Beach Boys
-    be-tarask: The Beach Boys
+    be_tarask: The Beach Boys
     bg: Бийч Бойс
     br: The Beach Boys
     bs: The Beach Boys
@@ -80,12 +80,12 @@ dv_has_:
     vls: The Beach Boys
     wuu: 海滩男孩
     zh: 海灘男孩
-    zh-cn: 海滩男孩
-    zh-hans: 海滩男孩
-    zh-hant: 海灘男孩
-    zh-hk: 海灘男孩
-    zh-sg: 海滩男孩
-    zh-tw: 海灘男孩
+    zh_cn: 海滩男孩
+    zh_hans: 海滩男孩
+    zh_hant: 海灘男孩
+    zh_hk: 海灘男孩
+    zh_sg: 海滩男孩
+    zh_tw: 海灘男孩
 aliases:
 - Beach Boys
 - The Beach Boys

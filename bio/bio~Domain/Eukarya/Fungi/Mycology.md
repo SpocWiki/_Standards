@@ -111,7 +111,7 @@ dv_has_:
     az: mikologiya
     ba: микология
     be: мікалогія
-    be-tarask: мікалёгія
+    be_tarask: мікалёгія
     bg: Микология
     bn: ছত্রাকবিজ্ঞান
     br: Foueoniezh
@@ -126,8 +126,8 @@ dv_has_:
     de: Mykologie
     el: μυκητολογία
     en: mycology
-    en-ca: Mycology
-    en-gb: mycology
+    en_ca: Mycology
+    en_gb: mycology
     eo: fungoscienco
     es: micología
     et: mükoloogia
@@ -156,7 +156,7 @@ dv_has_:
     kk: Микология
     kn: ಶಿಲೀಂಧ್ರಶಾಸ್ತ್ರ
     ko: 균학
-    ku-latn: karokzanî
+    ku_latn: karokzanî
     ky: Микология
     la: Mycologia
     lb: Mykologie
@@ -175,7 +175,7 @@ dv_has_:
     pl: mykologia
     pnb: مائکالوجی
     pt: micologia
-    pt-br: micologia
+    pt_br: micologia
     ro: micologie
     ru: микология
     sco: mycology
@@ -191,7 +191,7 @@ dv_has_:
     sms: mykologia
     sq: Mikologjia
     sr: микологија
-    sr-ec: Микологија
+    sr_ec: Микологија
     sv: mykologi
     sw: Mikolojia
     ta: பூஞ்சையியல்

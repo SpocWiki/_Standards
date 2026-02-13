@@ -96,7 +96,7 @@ dv_has_:
     ast: Conseyu Internacional de Museos
     az: Beynəlxalq Muzeylər Şurası
     be: Міжнародны савет музеяў
-    be-tarask: Міжнародная Рада музэяў
+    be_tarask: Міжнародная Рада музэяў
     bg: Международен съвет на музеите
     bn: আন্তর্জাতিক জাদুঘর পরিষদ
     ca: Consell Internacional de Museus
@@ -105,7 +105,7 @@ dv_has_:
     de: International Council of Museums
     el: Διεθνές Συμβούλιο Μουσείων
     en: International Council of Museums
-    en-gb: International Council of Museums
+    en_gb: International Council of Museums
     eo: Internacia Konsilio de Muzeoj
     es: Consejo Internacional de Museos
     et: Rahvusvaheline Muuseumide Nõukogu
@@ -140,7 +140,7 @@ dv_has_:
     sl: Mednarodni svet muzejev
     sq: Këshilli Ndërkombëtar i Muzeumeve
     sr: Међународни савет музеја
-    sr-ec: Међународни савет музеја
+    sr_ec: Међународни савет музеја
     sv: International Council of Museums
     th: สภาการพิพิธภัณฑ์ระหว่างชาติ
     tr: Uluslararası Müzeler Konseyi
@@ -149,9 +149,9 @@ dv_has_:
     uz: Xalqaro muzeylar kengashi
     vi: Hội đồng Bảo tàng Quốc tế
     zh: 国际博物馆协会
-    zh-hans: 国际博物馆协会
-    zh-hant: 國際博物館協會
-    zh-hk: 國際博物館協會
+    zh_hans: 国际博物馆协会
+    zh_hant: 國際博物館協會
+    zh_hk: 國際博物館協會
 ---
 # [[ICOM(International_Council_of_Museums)]] 
 

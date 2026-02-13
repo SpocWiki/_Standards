@@ -63,9 +63,9 @@ dv_has_:
     sl: eksotični hadron
     tr: egzotik hadron
     zh: 奇異強子
-    zh-hans: 奇异强子
-    zh-hant: 奇異強子
-    zh-hk: 奇異強子
+    zh_hans: 奇异强子
+    zh_hant: 奇異強子
+    zh_hk: 奇異強子
 ---
 # [[Exotic_Hadron]] 
 

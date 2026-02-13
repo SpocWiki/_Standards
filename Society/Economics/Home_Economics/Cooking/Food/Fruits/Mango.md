@@ -164,7 +164,7 @@ dv_has_:
     az: manqo
     bcl: mangga
     be: манга
-    be-tarask: манга
+    be_tarask: манга
     bg: манго
     bho: आम
     bm: mangoro
@@ -188,8 +188,8 @@ dv_has_:
     ee: maŋgo
     el: μάνγκο
     en: mango
-    en-ca: mango
-    en-gb: mango
+    en_ca: mango
+    en_gb: mango
     eo: mango
     es: mango
     et: mango
@@ -246,7 +246,7 @@ dv_has_:
     lv: mango
     lzh: 杧果
     mai: आम
-    map-bms: Pelem
+    map_bms: Pelem
     mg: manga
     mk: манго
     ml: മാങ്ങ
@@ -255,7 +255,7 @@ dv_has_:
     mr: आंबा
     mrj: манго
     ms: mangga
-    ms-arab: مڠݢ
+    ms_arab: مڠݢ
     my: သရက်သီး
     nan: sōaiⁿ-á
     nb: mango
@@ -277,7 +277,7 @@ dv_has_:
     pl: mango
     pnb: امب
     pt: manga
-    pt-br: manga
+    pt_br: manga
     pwn: manges; kamaya
     rn: umwembe
     ro: mango
@@ -317,7 +317,7 @@ dv_has_:
     tr: mango
     ts: manghozi
     tt: манго
-    tt-latn: mangē
+    tt_latn: mangē
     tw: amango
     ty: vī
     udm: манго
@@ -335,13 +335,13 @@ dv_has_:
     za: makmanghgoj
     zh: 芒果
     zh-cn: 芒果
-    zh-hans: 芒果
-    zh-hant: 芒果
-    zh-hk: 芒果
-    zh-mo: 芒果
+    zh_hans: 芒果
+    zh_hant: 芒果
+    zh_hk: 芒果
+    zh_mo: 芒果
     zh-my: 芒果
-    zh-sg: 芒果
-    zh-tw: 芒果
+    zh_sg: 芒果
+    zh_tw: 芒果
     zu: i-mango
 ---
 # [[Mango]] 🥭 

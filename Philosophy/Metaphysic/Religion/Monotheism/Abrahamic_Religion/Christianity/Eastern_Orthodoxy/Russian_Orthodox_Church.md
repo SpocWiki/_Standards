@@ -193,13 +193,13 @@ dv_has_:
     ba: Рус православ сиркәүе
     bcl: Ortodoksong Simbahan nin Rusya
     be: Руская праваслаўная царква
-    be-tarask: Расейская праваслаўная царква
+    be_tarask: Расейская праваслаўная царква
     bg: Руска православна църква
     ca: Església Ortodoxa Russa
     ce: Керста динан килс
     ceb: Simbahang Ortodoksong Ruso
     ckb: کەنیسەی ئۆرتۆدۆکسی ڕووسیا
-    crh-latn: Rus ortodoks kilsesi
+    crh_latn: Rus ortodoks kilsesi
     cs: Ruská pravoslavná církev
     cv: Вырăс Православи Чиркĕвĕ
     cy: Eglwys Uniongred Rwsia
@@ -259,7 +259,7 @@ dv_has_:
     pnb: روسی راسخ الاعتقاد کلیسیا
     ps: د روسیې ارتودوکس کلیسا
     pt: Igreja Ortodoxa Russa
-    pt-br: Igreja Ortodoxa Russa
+    pt_br: Igreja Ortodoxa Russa
     ro: Biserica Ortodoxă Rusă
     ru: Русская православная церковь
     sh: Ruska pravoslavna crkva

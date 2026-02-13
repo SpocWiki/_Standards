@@ -141,7 +141,7 @@ dv_has_:
     azb: آوروپا ایقتیصادی بیرلیگی
     ba: Европа иҡтисади берләшмәһе
     be: Еўрапейская эканамічная супольнасць
-    be-tarask: Эўрапейская эканамічная супольнасьць
+    be_tarask: Эўрапейская эканамічная супольнасьць
     bg: Европейска общност
     bs: Evropska ekonomska zajednica
     ca: Comunitat Econòmica Europea
@@ -152,8 +152,8 @@ dv_has_:
     de: Europäische Wirtschaftsgemeinschaft
     el: Ευρωπαϊκή Οικονομική Κοινότητα
     en: European Economic Community
-    en-ca: European Economic Community
-    en-gb: European Economic Community
+    en_ca: European Economic Community
+    en_gb: European Economic Community
     eo: Eŭropa Ekonomia Komunumo
     es: Comunidad Económica Europea
     et: Euroopa Majandusühendus
@@ -196,7 +196,7 @@ dv_has_:
     oc: Comunautat Economica Europèa
     pl: Europejska Wspólnota Gospodarcza
     pt: Comunidade Económica Europeia
-    pt-br: Comunidade Económica Europeia
+    pt_br: Comunidade Económica Europeia
     ro: Comunitatea Economică Europeană
     ru: Европейское экономическое сообщество
     sc: Comunidade econòmica europea

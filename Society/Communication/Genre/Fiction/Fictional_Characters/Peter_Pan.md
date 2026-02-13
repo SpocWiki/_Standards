@@ -94,7 +94,7 @@ dv_has_:
     ast: Peter Pan
     azb: پیتر پن
     bcl: Peter Pan
-    be-tarask: Пітэр Пэн
+    be_tarask: Пітэр Пэн
     bg: Питър Пан
     bn: পিটার প্যান
     br: Peter Pan
@@ -106,7 +106,7 @@ dv_has_:
     de: Peter Pan
     el: Πίτερ Παν
     en: Peter Pan
-    en-gb: Peter Pan
+    en_gb: Peter Pan
     eo: Peter Pan
     es: Peter Pan
     et: Peeter Paan
@@ -163,12 +163,12 @@ dv_has_:
     wuu: 彼得·潘
     yue: 小飛俠Peter Pan
     zh: 彼得潘
-    zh-cn: 彼得潘
-    zh-hans: 彼得潘
-    zh-hant: 彼得潘
-    zh-hk: 彼得潘
-    zh-sg: 彼得潘
-    zh-tw: 彼得潘
+    zh_cn: 彼得潘
+    zh_hans: 彼得潘
+    zh_hant: 彼得潘
+    zh_hk: 彼得潘
+    zh_sg: 彼得潘
+    zh_tw: 彼得潘
 ---
 # [[Peter_Pan]] 
 

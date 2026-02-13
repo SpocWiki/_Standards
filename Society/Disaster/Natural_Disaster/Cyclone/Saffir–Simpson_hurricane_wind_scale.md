@@ -75,7 +75,7 @@ dv_has_:
     ar: مقياس سفير-سمبسون
     ast: Escala de furacanes de Saffir-Simpson
     be: Шкала ўраганаў Сафіра — Сімпсана
-    be-tarask: Шкала ўраганаў Сафіра-Сімпсана
+    be_tarask: Шкала ўраганаў Сафіра-Сімпсана
     bg: Скала на Сафир-Симпсън
     bho: साफिर-सिंपसन पैमाना
     bn: সাফির-সিম্পসন স্কেল
@@ -118,8 +118,8 @@ dv_has_:
     sk: Saffirova-Simpsonova hurikánová stupnica
     sl: Saffir-Simpsonova lestvica hurikanov
     sr: Сафир-Симпсонова скала урагана
-    sr-ec: Сафир-Симпсонова скала урагана
-    sr-el: Safir-Simpsonova skala uragana
+    sr_ec: Сафир-Симпсонова скала урагана
+    sr_el: Safir-Simpsonova skala uragana
     sv: Saffir–Simpsons orkanskala
     ta: சபீர் சிம்சன் சூறாவளித் தரப்படுத்தல்
     th: สเกลเฮอร์ริเคนของแซฟเฟอร์-ซิมป์สัน
@@ -129,14 +129,14 @@ dv_has_:
     vi: Thang bão Saffir-Simpson
     yue: 薩菲爾-辛普森颶風風力等級
     zh: 萨菲尔-辛普森飓风风力等级
-    zh-cn: 萨菲尔-辛普森飓风风力等级
-    zh-hans: 萨菲尔-辛普森飓风风力等级
-    zh-hant: 薩菲爾-辛普森颶風風力等級
-    zh-hk: 薩菲爾-辛普森颶風風力等級
-    zh-mo: 薩菲爾-辛普森颶風風力等級
+    zh_cn: 萨菲尔-辛普森飓风风力等级
+    zh_hans: 萨菲尔-辛普森飓风风力等级
+    zh_hant: 薩菲爾-辛普森颶風風力等級
+    zh_hk: 薩菲爾-辛普森颶風風力等級
+    zh_mo: 薩菲爾-辛普森颶風風力等級
     zh-my: 萨菲尔-辛普森飓风风力等级
-    zh-sg: 萨菲尔-辛普森飓风风力等级
-    zh-tw: 薩菲爾-辛普森颶風風力等級
+    zh_sg: 萨菲尔-辛普森飓风风力等级
+    zh_tw: 薩菲爾-辛普森颶風風力等級
 ---
 # [[Saffir–Simpson_hurricane_wind_scale]] 
 

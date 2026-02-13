@@ -151,7 +151,7 @@ dv_has_:
     az: Sidiklik
     ba: бәүел ҡыуығы
     be: Мачавы пузыр
-    be-tarask: мачавік
+    be_tarask: мачавік
     bew: Kekempung
     bg: Пикочен мехур
     bn: মূত্রাশয়
@@ -169,8 +169,8 @@ dv_has_:
     dv: މަސާނާ
     el: Ουροδόχος κύστη
     en: urinary bladder
-    en-ca: Urinary bladder
-    en-gb: urinary bladder
+    en_ca: Urinary bladder
+    en_gb: urinary bladder
     eo: urina veziko
     es: vejiga urinaria
     et: Kusepõis
@@ -202,7 +202,7 @@ dv_has_:
     ko: 방광
     ks: پشاب بانہٕ
     ku: Mîzdanik
-    ku-latn: mîzdank
+    ku_latn: mîzdank
     ky: Табарсык
     la: Vesica
     lb: Harnblos
@@ -222,7 +222,7 @@ dv_has_:
     pl: pęcherz moczowy
     pnb: مثانہ
     pt: bexiga
-    pt-br: Bexiga
+    pt_br: Bexiga
     qu: Ispay puru
     ro: vezică urinară
     ru: мочевой пузырь
@@ -236,8 +236,8 @@ dv_has_:
     skr: مثانہ
     sl: sečni mehur
     sr: мокраћна бешика
-    sr-ec: мокраћна бешика
-    sr-el: mokraćna bešika
+    sr_ec: мокраћна бешика
+    sr_el: mokraćna bešika
     sv: urinblåsa
     sw: Kibofu
     ta: சிறுநீர்ப்பை
@@ -260,10 +260,10 @@ dv_has_:
     yue: 膀胱
     za: Rongznyouh
     zh: 膀胱
-    zh-cn: 膀胱悬垂体
-    zh-hans: 膀胱
-    zh-hant: 膀胱懸垂體
-    zh-tw: 膀胱
+    zh_cn: 膀胱悬垂体
+    zh_hans: 膀胱
+    zh_hant: 膀胱懸垂體
+    zh_tw: 膀胱
 ---
 # [[Urinary_Bladder]] 
 

@@ -39,7 +39,7 @@ dv_has_:
     oc: Enterococcus
     pl: enterokoki
     pt: Enterococcus
-    pt-br: Enterococcus
+    pt_br: Enterococcus
     ro: Enterococcus
     ru: Энтерококки
     sh: Enterokoke
@@ -53,9 +53,9 @@ dv_has_:
     vo: Enterococcus
     war: Enterococcus
     zh: 肠球菌属
-    zh-cn: 肠球菌属
-    zh-hans: 肠球菌属
-    zh-tw: 腸球菌屬
+    zh_cn: 肠球菌属
+    zh_hans: 肠球菌属
+    zh_tw: 腸球菌屬
 aliases:
 - Enterococ
 - Enterococcus

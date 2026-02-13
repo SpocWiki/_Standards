@@ -124,7 +124,7 @@ dv_has_:
     ast: Ácidu fluorhídrico
     azb: هیدروفلوئوریک اسید
     be: фторыставадародная кіслата
-    be-tarask: тапняковая кісьля
+    be_tarask: тапняковая кісьля
     bg: флуороводородна киселина
     bs: fluoridna kiselina
     ca: àcid fluorhídric
@@ -163,7 +163,7 @@ dv_has_:
     ml: ഹൈഡ്രോഫ്ലൂറിക്ക് അമ്ലം
     mr: हायड्रोफ्लोरिक आम्ल
     ms: asid hidrofluorik
-    ms-arab: اسيد هيدروفلوريک
+    ms_arab: اسيد هيدروفلوريک
     nb: flussyre
     nl: fluorzuur
     nn: flussyre
@@ -178,8 +178,8 @@ dv_has_:
     sk: kyselina fluorovodíková
     sl: fluorovodikova kislina
     sr: флуороводонична киселина
-    sr-ec: флуороводонична киселина
-    sr-el: fluorovodonična kiselina
+    sr_ec: флуороводонична киселина
+    sr_el: fluorovodonična kiselina
     sv: fluorvätesyra
     ta: ஐதரோபுளோரிக் அமிலம்
     te: హైడ్రోఫ్లోరిక్ ఆమ్లం
@@ -192,12 +192,12 @@ dv_has_:
     wuu: 氢氟酸
     yue: 氫氟酸
     zh: 氢氟酸
-    zh-cn: 氢氟酸
-    zh-hans: 氢氟酸
-    zh-hant: 氫氟酸
-    zh-hk: 氫氟酸
-    zh-sg: 氢氟酸
-    zh-tw: 氫氟酸
+    zh_cn: 氢氟酸
+    zh_hans: 氢氟酸
+    zh_hant: 氫氟酸
+    zh_hk: 氫氟酸
+    zh_sg: 氢氟酸
+    zh_tw: 氫氟酸
 ---
 # [[Hydrofluoric_Acid]] 
 

@@ -107,7 +107,7 @@ dv_has_:
     ba: төҙөлөш материалдары
     bar: Bauschtoff
     be: будаўнічыя матэрыялы
-    be-tarask: будаўнічы матэрыял
+    be_tarask: будаўнічы матэрыял
     bg: строителен материал
     bn: ভবনের উপাদান
     bs: građevinski materijal
@@ -121,7 +121,7 @@ dv_has_:
     de: Baustoff
     el: οικοδομικό υλικό
     en: building material
-    en-gb: building material
+    en_gb: building material
     eo: konstrumaterialo
     es: material de construcción
     et: ehitusmaterjal
@@ -145,8 +145,8 @@ dv_has_:
     ka: სამშენებლო მასალა
     kaa: qurılıs materialı
     kk: құрылыс материалдары
-    kk-cyrl: құрылыс материалдары жалпы түсінік
-    kk-latn: qurılıs materïaldarı
+    kk_cyrl: құрылыс материалдары жалпы түсінік
+    kk_latn: qurılıs materïaldarı
     ko: 건축재료
     kw: daffar drehevyel
     lt: statybinė medžiaga
@@ -163,7 +163,7 @@ dv_has_:
     pl: materiał budowlany
     ps: ودانيز توکي
     pt: material de construção
-    pt-br: material de construção
+    pt_br: material de construção
     ro: material de construcție
     ru: строительный материал
     sah: Тутуу материала
@@ -172,8 +172,8 @@ dv_has_:
     sk: stavebný materiál
     sl: gradbeni material
     sr: грађевински материјал
-    sr-ec: грађевински материјал
-    sr-el: građevinski materijal
+    sr_ec: грађевински материјал
+    sr_el: građevinski materijal
     sv: byggnadsmaterial
     szy: sapisaluma’
     ta: கட்டிடப் பொருள்
@@ -181,7 +181,7 @@ dv_has_:
     tl: Materyales na pangtayo
     tr: yapı malzemesi
     tt: төзелеш материаллары
-    tt-cyrl: төзелеш материаллары
+    tt_cyrl: төзелеш материаллары
     uk: будівельний матеріал
     ur: تعمیراتی مواد
     uz: qurilish materiallari
@@ -190,12 +190,12 @@ dv_has_:
     yo: ohun ìkọ́lé
     yue: 建築材料
     zh: 建筑材料
-    zh-cn: 建筑材料
-    zh-hans: 建筑材料
-    zh-hant: 建築材料
-    zh-hk: 建築材料
-    zh-sg: 建筑材料
-    zh-tw: 建築材料
+    zh_cn: 建筑材料
+    zh_hans: 建筑材料
+    zh_hant: 建築材料
+    zh_hk: 建築材料
+    zh_sg: 建筑材料
+    zh_tw: 建築材料
 ---
 # [[Building_Material]] 
 

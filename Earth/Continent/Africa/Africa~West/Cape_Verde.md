@@ -473,7 +473,7 @@ Languages:
 dv_has_:
   name_:
     ab: Кабо-Верде
-    aeb-arab: الراس الأخضر
+    aeb_arab: الراس الأخضر
     af: Kaap Verde
     am: ኬፕ ቨርድ
     an: Cabo Verde
@@ -492,7 +492,7 @@ dv_has_:
     bar: Kap Verde
     bcl: Kabo nin Berde
     be: Каба-Вердэ
-    be-tarask: Каба-Вэрдэ
+    be_tarask: Каба-Вэрдэ
     bew: Tanjung Ijo
     bg: Кабо Верде
     bgn: کاپی ویردی
@@ -507,7 +507,7 @@ dv_has_:
     bs: Zelenortska Ostrva
     bxr: Кабо-Верде
     ca: Cap Verd
-    cbk-zam: Cabo Verde
+    cbk_zam: Cabo Verde
     cdo: Cabo Verde
     ce: Кабо-Верде
     ceb: Cape Verde
@@ -515,7 +515,7 @@ dv_has_:
     ckb: کەیپڤەرد
     co: Capu Verde
     crh: Kabo Verde
-    crh-latn: Kabo Verde
+    crh_latn: Kabo Verde
     cs: Kapverdy
     cv: Кабо Верде
     cy: Cabo Verde
@@ -523,7 +523,7 @@ dv_has_:
     dag: Cabo Verde
     de: Kap Verde
     de-at: Kap Verde
-    de-ch: Kap Verde
+    de_ch: Kap Verde
     dga: Cape Verde
     diq: Kap Verde
     dsb: Kap Verde
@@ -532,8 +532,8 @@ dv_has_:
     ee: Cape Verde
     el: Πράσινο Ακρωτήριο
     en: Cape Verde
-    en-ca: Cape Verde
-    en-gb: Cape Verde
+    en_ca: Cape Verde
+    en_gb: Cape Verde
     eo: Kaboverdo
     es: Cabo Verde
     et: Roheneemesaared
@@ -636,7 +636,7 @@ dv_has_:
     nan: Cabo Verde
     nb: Kapp Verde
     nds: Kap Verde
-    nds-nl: Kaapverdie
+    nds_nl: Kaapverdie
     ne: केप भर्डे
     new: केप भर्डे
     nl: Kaapverdië
@@ -663,7 +663,7 @@ dv_has_:
     pnb: کیپ وردی
     ps: کيپ ورډ
     pt: Cabo Verde
-    pt-br: Cabo Verde
+    pt_br: Cabo Verde
     qu: Q'umir Kawu
     rki: ကိပ်ဗားဒ်သမ္မတနိုင်ငံ
     rm: Cap Verd
@@ -738,14 +738,14 @@ dv_has_:
     zea: Kaopverdië
     zgh: ⵉⵖⴼ ⴰⵣⴳⵣⴰⵡ
     zh: 佛得角
-    zh-cn: 佛得角
-    zh-hans: 佛得角
-    zh-hant: 維德角
-    zh-hk: 維德角
-    zh-mo: 維德角
+    zh_cn: 佛得角
+    zh_hans: 佛得角
+    zh_hant: 維德角
+    zh_hk: 維德角
+    zh_mo: 維德角
     zh-my: 佛得角
-    zh-sg: 佛得角
-    zh-tw: 維德角
+    zh_sg: 佛得角
+    zh_tw: 維德角
     zu: IKhepi Vedhi
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Cape_Verde

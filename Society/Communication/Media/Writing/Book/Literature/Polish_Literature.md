@@ -62,7 +62,7 @@ dv_has_:
     ar: أدب بولندي
     ast: Lliteratura de Polonia
     be: Польская літаратура
-    be-tarask: польская літаратура
+    be_tarask: польская літаратура
     ca: literatura polonesa
     cs: polská literatura
     cy: Llên Gwlad Pwyl
@@ -101,9 +101,9 @@ dv_has_:
     vi: văn học Ba Lan
     yue: 波蘭文文學
     zh: 波兰文学
-    zh-cn: 波兰文学
-    zh-hans: 波兰文学
-    zh-hant: 波蘭文學
+    zh_cn: 波兰文学
+    zh_hans: 波兰文学
+    zh_hant: 波蘭文學
 ---
 # [[Polish_Literature]] 
 

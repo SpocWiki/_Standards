@@ -136,7 +136,7 @@ dv_has_:
     ba: Паралимпия уйындары
     bcl: Paralimpikong Karawat
     be: Паралімпійскія гульні
-    be-tarask: Паралімпійскія гульні
+    be_tarask: Паралімпійскія гульні
     bg: Параолимпийски игри
     bn: প্যারালিম্পিক গেমস
     bs: Paraolimpijske igre
@@ -147,11 +147,11 @@ dv_has_:
     da: Paralympiske lege
     de: Paralympische Spiele
     de-at: Paralympische Spiele
-    de-ch: Paralympische Spiele
+    de_ch: Paralympische Spiele
     el: Παραολυμπιακοί Αγώνες
     en: Paralympic Games
-    en-ca: Paralympic Games
-    en-gb: Paralympic Games
+    en_ca: Paralympic Games
+    en_gb: Paralympic Games
     en-us: Paralympic Games
     eo: Paralimpiko
     es: Juegos Paralímpicos
@@ -203,7 +203,7 @@ dv_has_:
     pa: ਪੈਰਾਲਿੰਪਕ ਗੇਮਸ
     pl: igrzyska paralimpijskie
     pt: Jogos Paralímpicos
-    pt-br: Jogos Paralímpicos
+    pt_br: Jogos Paralímpicos
     ro: Jocuri Paralimpice
     ru: Паралимпийские игры
     rue: Паралімпійські бавища
@@ -214,7 +214,7 @@ dv_has_:
     sl: paraolimpijske igre
     smn: paralympialiih
     sr: Параолимпијске игре
-    sr-ec: Параолимпијске игре
+    sr_ec: Параолимпијске игре
     sv: paralympiska spelen
     ta: மாற்றுத் திறனாளர் ஒலிம்பிக் விளையாட்டுக்கள்
     te: పారాలింపిక్ క్రీడలు
@@ -230,10 +230,10 @@ dv_has_:
     wuu: 残疾人奥林匹克运动会
     yue: 傷殘奧林匹克運動會
     zh: 残疾人奥林匹克运动会
-    zh-hans: 残疾人奥林匹克运动会
-    zh-hant: 帕拉林匹克運動會
-    zh-hk: 殘疾人奧林匹克運動會
-    zh-tw: 帕拉林匹克運動會
+    zh_hans: 残疾人奥林匹克运动会
+    zh_hant: 帕拉林匹克運動會
+    zh_hk: 殘疾人奧林匹克運動會
+    zh_tw: 帕拉林匹克運動會
 ---
 # [[Paralympics]] 
 

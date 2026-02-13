@@ -69,7 +69,7 @@ dv_has_:
     ast: Deteición y correición d'errores
     az: Xəta aşkarlama kodlaşdırması
     be: выяўленне і выпраўленне памылак
-    be-tarask: карэкцыя памылак
+    be_tarask: карэкцыя памылак
     ca: detecció d'errors
     cs: Detekce a oprava chyb
     de: Fehlerkorrekturverfahren
@@ -107,8 +107,8 @@ dv_has_:
     ur: غلطی کی شناخت اور درستی
     yue: 錯誤檢測同糾正
     zh: 錯誤的校正
-    zh-cn: 纠错
-    zh-hant: 糾錯
+    zh_cn: 纠错
+    zh_hant: 糾錯
 ---
 # [[Error_Detection_and_Correction]] 
 

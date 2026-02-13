@@ -75,7 +75,7 @@ dv_has_:
     az: kinematika
     azb: سینماتیک
     be: кінематыка
-    be-tarask: кінэматыка
+    be_tarask: кінэматыка
     bg: кинематика
     bn: সৃতিবিদ্যা
     bs: kinematika
@@ -86,8 +86,8 @@ dv_has_:
     de: Kinematik
     el: κινηματική
     en: kinematics
-    en-ca: kinematics
-    en-gb: kinematics
+    en_ca: kinematics
+    en_gb: kinematics
     eo: kinematiko
     es: cinemática
     et: kinemaatika
@@ -127,7 +127,7 @@ dv_has_:
     pl: kinematyka
     pms: cinemàtica
     pt: cinemática
-    pt-br: cinemática
+    pt_br: cinemática
     ro: cinematică
     ru: кинематика
     scn: cinemàtica

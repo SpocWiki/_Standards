@@ -40,7 +40,7 @@ dv_has_:
     oc: Detarioideae
     pl: Detarioideae
     pt: Detarioideae
-    pt-br: Detarioideae
+    pt_br: Detarioideae
     ro: Detarioideae
     ru: Detarioideae
     sk: Detarioideae
@@ -52,9 +52,9 @@ dv_has_:
     vo: Detarioideae
     war: Detarioideae
     zh: 甘豆亚科
-    zh-cn: 甘豆亚科
-    zh-hans: 甘豆亚科
-    zh-hant: 甘豆亞科
+    zh_cn: 甘豆亚科
+    zh_hans: 甘豆亚科
+    zh_hant: 甘豆亞科
 ---
 ## Phylogeny 
 

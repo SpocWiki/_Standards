@@ -94,7 +94,7 @@ dv_has_:
     ar: مقلاد
     ast: Interruptor
     az: Dəyişdirici, açar
-    be-tarask: пераключальнік
+    be_tarask: пераключальнік
     bew: Cetèkan
     bg: Ключ
     bn: চাবি (তড়িৎ)
@@ -150,7 +150,7 @@ dv_has_:
     ta: நிலைமாற்றி
     tr: anahtar
     tt: күчергеч
-    tt-cyrl: күчергеч
+    tt_cyrl: күчергеч
     uk: роз’єднувач
     ur: بدیل
     vi: Công tắc
@@ -158,8 +158,8 @@ dv_has_:
     wuu: 开关
     yue: 開閂掣
     zh: 開關
-    zh-hant: 開關
-    zh-tw: 開關
+    zh_hant: 開關
+    zh_tw: 開關
 ---
 # [[Electrical_Switch]] 
 

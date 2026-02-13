@@ -200,7 +200,7 @@ dv_has_:
     ba: ҡорос
     ban: Waja
     be: сталь
-    be-tarask: сталь
+    be_tarask: сталь
     bew: waja
     bg: стомана
     bjn: waja
@@ -218,12 +218,12 @@ dv_has_:
     da: stål
     de: Stahl
     de-at: Stahl
-    de-ch: Stahl
+    de_ch: Stahl
     dsb: stal
     el: χάλυβας
     en: steel
-    en-ca: steel
-    en-gb: steel
+    en_ca: steel
+    en_gb: steel
     eo: ŝtalo
     es: acero
     et: teras
@@ -291,7 +291,7 @@ dv_has_:
     nap: acciar
     nb: stål
     nds: Stahl
-    nds-nl: stoal
+    nds_nl: stoal
     ne: लोहा
     new: स्टील
     nl: staal
@@ -304,7 +304,7 @@ dv_has_:
     pms: assel
     pnb: فولاد
     pt: aço
-    pt-br: aço
+    pt_br: aço
     qu: asiru
     ro: oțel
     ru: сталь
@@ -322,8 +322,8 @@ dv_has_:
     sn: chisa
     sq: çeliku
     sr: челик
-    sr-ec: челик
-    sr-el: čelik
+    sr_ec: челик
+    sr_el: čelik
     sv: stål
     sw: chuma cha pua
     ta: எஃகு
@@ -334,7 +334,7 @@ dv_has_:
     tly: pulo
     tr: çelik
     tt: корыч
-    tt-cyrl: корыч
+    tt_cyrl: корыч
     tyv: каң
     udm: андан
     ug: پولات
@@ -354,9 +354,9 @@ dv_has_:
     yo: irin
     yue: 鋼
     zh: 钢
-    zh-hans: 钢
-    zh-hant: 鋼
-    zh-hk: 鋼
+    zh_hans: 钢
+    zh_hant: 鋼
+    zh_hk: 鋼
 ---
 # [[Steel]] 
 

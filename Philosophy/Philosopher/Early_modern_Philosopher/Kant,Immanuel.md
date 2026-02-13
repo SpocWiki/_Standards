@@ -224,7 +224,7 @@ dv_has_:
     bar: Immanuel Kant
     bcl: Immanuel Kant
     be: Імануіл Кант
-    be-tarask: Імануіл Кант
+    be_tarask: Імануіл Кант
     bg: Имануел Кант
     bho: इमैनुअल कांट
     bn: ইমানুয়েল কান্ট
@@ -233,7 +233,7 @@ dv_has_:
     btm: Immanuel Kant
     bxr: Иммануил Кант
     ca: Immanuel Kant
-    cbk-zam: Immanuel Kant
+    cbk_zam: Immanuel Kant
     ce: Кант, Иммануил
     ceb: Immanuel Kant
     ckb: ئیمانوێل کانت
@@ -245,7 +245,7 @@ dv_has_:
     da: Immanuel Kant
     de: Immanuel Kant
     de-at: Immanuel Kant
-    de-ch: Immanuel Kant
+    de_ch: Immanuel Kant
     diq: Immanuel Kant
     dsb: Immanuel Kant
     ee: Immanuel Kant
@@ -253,8 +253,8 @@ dv_has_:
     el: Iμμάνουελ Καντ
     eml: Immanuel Kant
     en: Immanuel Kant
-    en-ca: Immanuel Kant
-    en-gb: Immanuel Kant
+    en_ca: Immanuel Kant
+    en_gb: Immanuel Kant
     en-us: Immanuel Kant
     eo: Immanuel Kant
     es: Immanuel Kant
@@ -326,7 +326,7 @@ dv_has_:
     lv: Imanuels Kants
     lzh: 伊曼努爾·康德
     mai: इम्मानुएल कांट
-    map-bms: Immanuel Kant
+    map_bms: Immanuel Kant
     mdf: Иммануил Кант
     mg: Immanuel Kant
     min: Immanuel Kant
@@ -347,7 +347,7 @@ dv_has_:
     nap: Immanuel Kant
     nb: Immanuel Kant
     nds: Immanuel Kant
-    nds-nl: Immanuel Kant
+    nds_nl: Immanuel Kant
     ne: इमानुएल क्यान्ट
     new: इम्यानुयल केन्ट
     nl: Immanuel Kant
@@ -393,8 +393,8 @@ dv_has_:
     sli: Immanuel Kant
     sq: Immanuel Kant
     sr: Имануел Кант
-    sr-ec: Имануел Кант
-    sr-el: Imanuel Kant
+    sr_ec: Имануел Кант
+    sr_el: Imanuel Kant
     stq: Immanuel Kant
     su: Immanuel Kant
     sv: Immanuel Kant

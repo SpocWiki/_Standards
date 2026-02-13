@@ -35,7 +35,7 @@ dv_has_:
     oc: Misophrioida
     pl: Misophrioida
     pt: Misophrioida
-    pt-br: Misophrioida
+    pt_br: Misophrioida
     ro: Misophrioida
     ru: Misophrioida
     sq: Misophrioida
@@ -45,9 +45,9 @@ dv_has_:
     vo: Misophrioida
     war: Misophrioida
     zh: 異水蚤目
-    zh-cn: 小虱水蚤目
-    zh-hans: 小蚤目
-    zh-tw: 異水蚤目
+    zh_cn: 小虱水蚤目
+    zh_hans: 小蚤目
+    zh_tw: 異水蚤目
 ---
 # [[Misophrioida]] 
 

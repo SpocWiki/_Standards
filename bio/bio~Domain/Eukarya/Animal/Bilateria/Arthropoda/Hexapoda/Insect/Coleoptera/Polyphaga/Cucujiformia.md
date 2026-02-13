@@ -19,10 +19,10 @@ dv_has_:
     da: Cucujiformia
     de: Cucujiformia
     de-at: Cucujiformia
-    de-ch: Cucujiformia
+    de_ch: Cucujiformia
     en: Cucujiformia
-    en-ca: Cucujiformia
-    en-gb: Cucujiformia
+    en_ca: Cucujiformia
+    en_gb: Cucujiformia
     eo: Cucujiformia
     es: Cucujiformia
     et: Cucujiformia
@@ -60,7 +60,7 @@ dv_has_:
     nap: Cucujiformia
     nb: Cucujiformia
     nds: Cucujiformia
-    nds-nl: Cucujiformia
+    nds_nl: Cucujiformia
     nl: Cucujiformia
     nn: Cucujiformia
     nrm: Cucujiformia
@@ -70,7 +70,7 @@ dv_has_:
     pl: Cucujiformia
     pms: Cucujiformia
     pt: Cucujiformia
-    pt-br: Cucujiformia
+    pt_br: Cucujiformia
     rm: Cucujiformia
     ro: Cucujiformia
     ru: кукуйиформные
@@ -92,9 +92,9 @@ dv_has_:
     war: Cucujiformia
     wo: Cucujiformia
     zh: 扁甲下目
-    zh-cn: 扁甲下目
-    zh-hans: 扁甲下目
-    zh-tw: 扁甲下目
+    zh_cn: 扁甲下目
+    zh_hans: 扁甲下目
+    zh_tw: 扁甲下目
     zu: Cucujiformia
 aliases:
 - cucujiformes

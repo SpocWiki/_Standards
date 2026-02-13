@@ -7,10 +7,10 @@ dv_has_:
     ca: Tecnologia TTL
     cs: TTL
     de: Transistor-Transistor-Logik
-    de-ch: Transistor-Transistor-Logik
+    de_ch: Transistor-Transistor-Logik
     en: transistor–transistor logic
-    en-ca: Transistor–transistor logic
-    en-gb: transistor–transistor logic
+    en_ca: Transistor–transistor logic
+    en_gb: transistor–transistor logic
     eo: transistora-transistora logiko
     es: tecnología TTL
     eu: TTL
@@ -27,7 +27,7 @@ dv_has_:
     nl: Transistor-transistorlogica
     pl: Transistor-transistor logic
     pt: transistor-transistor logic
-    pt-br: Transistor-Transistor Logic
+    pt_br: Transistor-Transistor Logic
     ru: транзисторно-транзисторная логика
     sh: Tranzistor tranzistor logika
     sr: TTL

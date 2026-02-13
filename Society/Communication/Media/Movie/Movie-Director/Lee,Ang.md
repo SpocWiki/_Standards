@@ -140,7 +140,7 @@ dv_has_:
     az: Enq Li
     azb: انق لی
     be: Энг Лі
-    be-tarask: Энг Лі
+    be_tarask: Энг Лі
     bg: Анг Лий
     bn: অ্যাং লি
     br: Ang Lee
@@ -152,8 +152,8 @@ dv_has_:
     de: Ang Lee
     el: Ανγκ Λι
     en: Ang Lee
-    en-ca: Ang Lee
-    en-gb: Ang Lee
+    en_ca: Ang Lee
+    en_gb: Ang Lee
     eo: Ang Lee
     es: Ang Lee
     et: Ang Lee
@@ -196,7 +196,7 @@ dv_has_:
     pa: ਸੰਗਲੀ
     pl: Ang Lee
     pt: Ang Lee
-    pt-br: Ang Lee
+    pt_br: Ang Lee
     qu: Ang Lee
     ro: Ang Lee
     ru: Энг Ли
@@ -205,17 +205,17 @@ dv_has_:
     sl: Ang Lee
     sq: Ang Lee
     sr: Анг Ли
-    sr-ec: Анг Ли
-    sr-el: Ang Li
+    sr_ec: Анг Ли
+    sr_el: Ang Li
     sv: Ang Lee
     ta: ஆங் லீ
     te: అంగ్ లీ
     tg: Энг Ли
-    tg-cyrl: Энг Ли
+    tg_cyrl: Энг Ли
     th: หลี่ อัน
     tr: Ang Lee
     tt: Әңг Ли
-    tt-cyrl: Әңг Ли
+    tt_cyrl: Әңг Ли
     uk: Енг Лі
     ur: اینگ لی
     vi: Lý An
@@ -224,12 +224,12 @@ dv_has_:
     xmf: ენგ ლი
     yue: 李安
     zh: 李安
-    zh-cn: 李安
-    zh-hans: 李安
-    zh-hant: 李安
-    zh-hk: 李安
-    zh-sg: 李安
-    zh-tw: 李安
+    zh_cn: 李安
+    zh_hans: 李安
+    zh_hant: 李安
+    zh_hk: 李安
+    zh_sg: 李安
+    zh_tw: 李安
 ---
 # [[Lee,Ang]] 
 

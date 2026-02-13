@@ -88,7 +88,7 @@ dv_has_:
     ar: أزمة الديون الأوروبية
     ast: Crisis del euru
     be: Еўрапейскі даўгавы крызіс
-    be-tarask: эўрапейскі пазыковы крызіс
+    be_tarask: эўрапейскі пазыковы крызіс
     bg: Дългова криза в еврозоната
     bn: ইউরোপীয় ঋণ সংকট
     ca: crisi del deute sobirà europeu
@@ -96,8 +96,8 @@ dv_has_:
     de: Eurokrise
     el: Κρίση της Ευρωζώνης
     en: European sovereign-debt crisis
-    en-ca: European debt crisis
-    en-gb: European debt crisis
+    en_ca: European debt crisis
+    en_gb: European debt crisis
     eo: Eŭropa financa krizo de 2010
     es: Crisis de la deuda soberana europea
     et: Euroopa võlakriis
@@ -129,15 +129,15 @@ dv_has_:
     pnb: یورپی مالیاتی بحران
     ps: د اروپايي پورونو بحران
     pt: Crise da dívida pública da Zona Euro
-    pt-br: Crise da dívida pública da Zona Euro
+    pt_br: Crise da dívida pública da Zona Euro
     ro: Criza datoriilor suverane europene
     ru: Европейский долговой кризис
     sh: Evropska dužnička kriza
     sl: Dolžniška kriza evroobmočja
     sq: Kriza e borxhit në zonën e euros
     sr: Европска дужничка криза
-    sr-ec: Европска дужничка криза
-    sr-el: Evropska dužnička kriza
+    sr_ec: Европска дужничка криза
+    sr_el: Evropska dužnička kriza
     sv: eurokrisen
     th: วิกฤตหนี้สาธารณะยุโรป
     tr: Avrupa borç krizi
@@ -145,12 +145,12 @@ dv_has_:
     vi: Khủng hoảng nợ công châu Âu
     yue: 歐洲主權債務危機
     zh: 歐洲主權債務危機
-    zh-cn: 欧洲主权债务危机
-    zh-hans: 欧洲主权债务危机
-    zh-hant: 歐洲主權債務危機
-    zh-hk: 歐洲主權債務危機
-    zh-sg: 欧洲主权债务危机
-    zh-tw: 歐洲主權債務危機
+    zh_cn: 欧洲主权债务危机
+    zh_hans: 欧洲主权债务危机
+    zh_hant: 歐洲主權債務危機
+    zh_hk: 歐洲主權債務危機
+    zh_sg: 欧洲主权债务危机
+    zh_tw: 歐洲主權債務危機
 ---
 # [[European_sovereign-debt_crisis]] 
 

@@ -134,7 +134,7 @@ dv_has_:
     ba: Йәйге Олимпия уйындары
     bcl: Olimpikong Karawat sa Tig-init
     be: Летнія Алімпійскія гульні
-    be-tarask: Летнія Алімпійскія гульні
+    be_tarask: Летнія Алімпійскія гульні
     bg: Летни олимпийски игри
     bn: গ্রীষ্মকালীন অলিম্পিক গেমস
     br: C'hoarioù Olimpek hañv
@@ -175,16 +175,16 @@ dv_has_:
     jv: Summer Olympic Games
     ka: ზაფხულის ოლიმპიური თამაშები
     kk: Жазғы Олимпиада ойындары
-    kk-arab: جازعى ولىيمپىيادا ويىندارى
+    kk_arab: جازعى ولىيمپىيادا ويىندارى
     kk-cn: جازعى ولىيمپىيادا ويىندارى
-    kk-cyrl: Жазғы Олимпиада ойындары
+    kk_cyrl: Жазғы Олимпиада ойындары
     kk-kz: Жазғы Олимпиада ойындары
-    kk-latn: Jazğı Olïmpïada oýındarı
+    kk_latn: Jazğı Olïmpïada oýındarı
     kk-tr: Jazğı Olïmpïada oýındarı
     km: កីឡាអូឡាំពិករដូវក្តៅ
     ko: 하계 올림픽
     ku: Lîstikên havînî yên olîmpiyadê
-    ku-latn: Lîstikên havînî yên olîmpiyadê
+    ku_latn: Lîstikên havînî yên olîmpiyadê
     la: Olympia aestiva
     lb: Olympesch Summerspiller
     lt: Vasaros olimpinės žaidynės
@@ -193,7 +193,7 @@ dv_has_:
     mn: Зуны олимп
     mr: उन्हाळी ऑलिंपिक क्रीडा स्पर्धा
     ms: Sukan Olimpik Musim Panas
-    ms-arab: سوک اوليمڤيک موسيم ڤانس
+    ms_arab: سوک اوليمڤيک موسيم ڤانس
     mt: Logħob Olimpiku tas-sajf
     my: နွေရာသီ အိုလံပစ် အားကစားပွဲတော်
     mzn: تابستونی المپیک
@@ -208,7 +208,7 @@ dv_has_:
     pl: Letnie igrzyska olimpijskie
     pnb: گرمائی اولمپک کھیڈاں
     pt: Jogos Olímpicos de Verão
-    pt-br: Jogos Olímpicos de Verão
+    pt_br: Jogos Olímpicos de Verão
     ro: Jocuri Olimpice de vară
     ru: летние Олимпийские игры
     sco: Simmer Olympic Gemmes
@@ -234,12 +234,12 @@ dv_has_:
     wuu: 夏季奥林匹克运动会
     yue: 夏季奧林匹克運動會
     zh: 夏季奥林匹克运动会
-    zh-cn: 夏季奥林匹克运动会
-    zh-hans: 夏季奥林匹克运动会
-    zh-hant: 夏季奧林匹克運動會
-    zh-hk: 夏季奧林匹克運動會
-    zh-sg: 夏季奥林匹克运动会
-    zh-tw: 夏季奧林匹克運動會
+    zh_cn: 夏季奥林匹克运动会
+    zh_hans: 夏季奥林匹克运动会
+    zh_hant: 夏季奧林匹克運動會
+    zh_hk: 夏季奧林匹克運動會
+    zh_sg: 夏季奥林匹克运动会
+    zh_tw: 夏季奧林匹克運動會
 ---
 # [[Summer_Olympics]] 
 

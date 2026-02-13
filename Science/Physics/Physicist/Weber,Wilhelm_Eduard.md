@@ -145,7 +145,7 @@ dv_has_:
     ast: Wilhelm Eduard Weber
     azb: ویلهلم ادوارد وبر
     be: Вільгельм Эдуард Вебер
-    be-tarask: Вільгэльм Эдуард Вэбэр
+    be_tarask: Вільгэльм Эдуард Вэбэр
     bg: Вилхелм Вебер
     bn: উইলহেলম এডুয়ার্ড ওয়েবার
     br: Wilhelm Eduard Weber
@@ -188,7 +188,7 @@ dv_has_:
     pa: ਵਿਲਹੈਮ ਐਡੂਅਰਡ ਵੈਬਰ
     pl: Wilhelm Weber
     pt: Wilhelm Eduard Weber
-    pt-br: Wilhelm Eduard Weber
+    pt_br: Wilhelm Eduard Weber
     ro: Wilhelm Eduard Weber
     ru: Вильгельм Эдуард Вебер
     sco: Wilhelm Eduard Weber
@@ -197,7 +197,7 @@ dv_has_:
     sl: Wilhelm Eduard Weber
     sq: Wilhelm Eduard Weber
     sr: Вилхелм Едуард Вебер
-    sr-ec: Вилхелм Едуард Вебер
+    sr_ec: Вилхелм Едуард Вебер
     sv: Wilhelm Eduard Weber
     ta: வில்கெம் எடுவர்டு வெபர்
     tg: Вилҳелм Эдуард Вебер

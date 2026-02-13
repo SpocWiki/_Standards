@@ -89,7 +89,7 @@ dv_has_:
     ar: تقويم قمري
     arz: تقويم قمرى
     az: Ay təqvimi
-    be-tarask: месяцавы каляндар
+    be_tarask: месяцавы каляндар
     bg: Лунен календар
     bho: चंद्रमा आधारित कैलेंडर
     bn: চন্দ্র পঞ্জিকা
@@ -99,12 +99,12 @@ dv_has_:
     cs: lunární kalendář
     da: månekalender
     de: Lunarkalender
-    de-ch: Lunarkalender
+    de_ch: Lunarkalender
     diq: Serrenamey aşme
     el: σεληνιακό ημερολόγιο
     en: lunar calendar
-    en-ca: Lunar calendar
-    en-gb: lunar calendar
+    en_ca: Lunar calendar
+    en_gb: lunar calendar
     eo: Luna kalendaro
     es: calendario lunar
     eu: Ilargi egutegi
@@ -129,8 +129,8 @@ dv_has_:
     ko: 태음력
     ks: ژٕندٕر کیلینڈر
     ku: Salnameya heyvê
-    ku-arab: سالنامەیا هەیڤێ
-    ku-latn: Salnameya heyvê
+    ku_arab: سالنامەیا هەیڤێ
+    ku_latn: Salnameya heyvê
     la: Calendarium lunare
     lfn: Calendario lunal
     lo: ປະຕິທິນຈັນທະລາຄະຕິ
@@ -150,7 +150,7 @@ dv_has_:
     om: Dhaha ji'aa
     pl: kalendarz księżycowy
     pt: calendário lunar
-    pt-br: Calendário lunar
+    pt_br: Calendário lunar
     ro: calendar lunar
     ru: лунный календарь
     sh: lunarni kalendar
@@ -158,8 +158,8 @@ dv_has_:
     sk: Lunárny kalendár
     sl: lunarni koledar
     sr: лунарни календар
-    sr-ec: лунарни календар
-    sr-el: lunarni kalendar
+    sr_ec: лунарни календар
+    sr_el: lunarni kalendar
     sv: månkalender
     sw: Kalenda ya mwezi
     ta: சந்திர நாட்காட்டி
@@ -176,12 +176,12 @@ dv_has_:
     xmf: თუთაშ კალენდარი
     yue: 陰曆
     zh: 阴历
-    zh-cn: 阴历
-    zh-hans: 阴历
-    zh-hant: 陰曆
-    zh-hk: 陰曆
-    zh-sg: 阴历
-    zh-tw: 陰曆
+    zh_cn: 阴历
+    zh_hans: 阴历
+    zh_hant: 陰曆
+    zh_hk: 陰曆
+    zh_sg: 阴历
+    zh_tw: 陰曆
 ---
 # [[Lunar_Calendar]] 
 

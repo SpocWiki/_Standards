@@ -113,7 +113,7 @@ dv_has_:
     ar: مناخ معتدل
     ast: Clima templáu
     be: умераны клімат
-    be-tarask: умераны клімат
+    be_tarask: умераны клімат
     bg: Умерен пояс
     bn: নাতিশীতোষ্ণ জলবায়ু
     bs: Umjereni pojas
@@ -124,11 +124,11 @@ dv_has_:
     cy: Hinsawdd dymherus
     da: Tempereret klima
     de: gemäßigte Zone
-    de-ch: Gemässigte Zone
+    de_ch: Gemässigte Zone
     el: Εύκρατη ζώνη
     en: temperate climate
-    en-ca: Temperateness
-    en-gb: temperate climate
+    en_ca: Temperateness
+    en_gb: temperate climate
     eo: modera klimato
     es: clima templado
     et: parasvööde
@@ -155,11 +155,11 @@ dv_has_:
     ka: ზომიერი სარტყლები
     kab: Anezwu amnummes
     kk: Қоңыржай белдеу
-    kk-arab: قوڭىرجاي بەلدەۋ
+    kk_arab: قوڭىرجاي بەلدەۋ
     kk-cn: قوڭىرجاي بەلدەۋ
-    kk-cyrl: Қоңыржай белдеу
+    kk_cyrl: Қоңыржай белдеу
     kk-kz: Қоңыржай белдеу
-    kk-latn: Qoñırjaý beldew
+    kk_latn: Qoñırjaý beldew
     kk-tr: Qoñırjaý beldew
     ko: 온대 기후
     ky: Мелүүн климат
@@ -181,7 +181,7 @@ dv_has_:
     oc: Clima temperat
     pl: Klimat umiarkowany
     pt: clima temperado
-    pt-br: Clima temperado
+    pt_br: Clima temperado
     ro: Zona temperată
     ru: умеренный климат
     sco: temperate climate
@@ -206,12 +206,12 @@ dv_has_:
     xmf: ზჷმიერი კლიმატი
     yue: 溫帶氣候
     zh: 温带
-    zh-cn: 温带
-    zh-hans: 温带
-    zh-hant: 溫帶
-    zh-hk: 溫帶
-    zh-sg: 温带
-    zh-tw: 溫帶
+    zh_cn: 温带
+    zh_hans: 温带
+    zh_hant: 溫帶
+    zh_hk: 溫帶
+    zh_sg: 温带
+    zh_tw: 溫帶
 ---
 # [[Temperate_Climate]] 
 

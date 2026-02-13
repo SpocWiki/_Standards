@@ -190,7 +190,7 @@ dv_has_:
     az: ölçü vahidi
     ba: үлсәү берәмеге
     be: адзінка вымярэння
-    be-tarask: адзінка вымярэньня
+    be_tarask: адзінка вымярэньня
     bg: системи единици
     bn: পরিমাপের একক
     br: unanenn muzuliañ
@@ -204,7 +204,7 @@ dv_has_:
     cy: uned fesur
     da: måleenhed
     de: Maßeinheit
-    de-ch: Masseinheit
+    de_ch: Masseinheit
     el: μονάδα μέτρησης
     en: unit of measurement
     eo: mezurunuo
@@ -239,7 +239,7 @@ dv_has_:
     ko: 측정 단위
     krc: ёлчелеу бирим
     ku: yekeya pîvanê
-    ku-latn: yekeya pîvanê
+    ku_latn: yekeya pîvanê
     ky: физикалык чоңдуктардын бирдиктери
     la: mensurae unitas
     lb: Moosseenheet
@@ -251,7 +251,7 @@ dv_has_:
     ml: അളക്കുന്നതിനുള്ള ഏകകം
     mr: एकक
     ms: unit ukuran
-    ms-arab: اونيت اوکورن
+    ms_arab: اونيت اوکورن
     nb: måleenhet
     nds: Maateenheit
     nl: maateenheid
@@ -266,7 +266,7 @@ dv_has_:
     pl: jednostka miary
     ps: د اندازه کولو واحد
     pt: unidade de medida
-    pt-br: unidade de medida
+    pt_br: unidade de medida
     qu: tupu
     ro: unitate de măsură
     rsk: мерни єдинки
@@ -283,20 +283,20 @@ dv_has_:
     sn: chiyero chekupimisa
     sq: njësi matëse
     sr: мерна јединица
-    sr-ec: мерна јединица
-    sr-el: merna jedinica
+    sr_ec: мерна јединица
+    sr_el: merna jedinica
     sv: måttenhet
     sw: kizio
     szl: jednotka miary
     ta: அலகு
     te: ప్రమాణం
     tg: воҳидҳои бузургиҳои физикавӣ
-    tg-cyrl: воҳиди ченак
+    tg_cyrl: воҳиди ченак
     th: หน่วยวัด
     tok: wan ilo
     tr: ölçü birimi
     tt: үлчәү берәмлекләре
-    tt-cyrl: үлчәү берәмлекләре
+    tt_cyrl: үлчәү берәмлекләре
     udm: мертан огмет
     uk: одиниця вимірювання
     ur: پیمائشی اکائیات
@@ -306,11 +306,11 @@ dv_has_:
     wuu: 计量单位
     yue: 計量單位
     zh: 计量单位
-    zh-cn: 计量单位
-    zh-hans: 计量单位
-    zh-hant: 計量單位
-    zh-hk: 計量單位
-    zh-tw: 計量單位
+    zh_cn: 计量单位
+    zh_hans: 计量单位
+    zh_hant: 計量單位
+    zh_hk: 計量單位
+    zh_tw: 計量單位
 ---
 # [[Unit_of_Measure]] 
 

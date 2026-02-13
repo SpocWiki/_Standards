@@ -36,7 +36,7 @@ dv_has_:
     oc: Acerentomidae
     pl: Acerentomidae
     pt: Acerentomidae
-    pt-br: Acerentomidae
+    pt_br: Acerentomidae
     ro: Acerentomidae
     ru: Acerentomidae
     sq: Acerentomidae
@@ -49,9 +49,9 @@ dv_has_:
     war: Acerentomidae
     yo: Acerentomidae
     zh: 蚖科
-    zh-cn: 蚖科
-    zh-hans: 蚖科
-    zh-tw: 蚖科
+    zh_cn: 蚖科
+    zh_hans: 蚖科
+    zh_tw: 蚖科
 ---
 # [[Acerentomidae]] 
 

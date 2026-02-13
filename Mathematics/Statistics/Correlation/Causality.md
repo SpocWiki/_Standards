@@ -103,7 +103,7 @@ dv_has_:
     ast: causalidá
     az: səbəb
     be: прычыннасць
-    be-tarask: прычыннасьць
+    be_tarask: прычыннасьць
     bg: причинност
     bn: কার্যকারণ
     bs: uzročnost
@@ -143,7 +143,7 @@ dv_has_:
     lv: cēlonība
     mk: причиност
     ms: sebab akibat
-    ms-arab: سبب عاقبة
+    ms_arab: سبب عاقبة
     mzn: علیت
     nb: kausalitet
     nl: oorzakelijk verband
@@ -153,7 +153,7 @@ dv_has_:
     pms: Causalità
     pnb: کارنتا
     pt: causalidade
-    pt-br: causalidade
+    pt_br: causalidade
     ro: cauzalitate
     ru: причинность
     sco: causality
@@ -164,14 +164,14 @@ dv_has_:
     sms: kausaliteʹtt
     sq: shkakës
     sr: узрочност
-    sr-ec: узрочност
-    sr-el: uzročnost
+    sr_ec: узрочност
+    sr_el: uzročnost
     sv: kausalitet
     ta: வினை விளைவுக் கோட்பாடு
     th: เหตุภาพ
     tr: nedensellik
     tt: сәбәплелек
-    tt-cyrl: сәбәплелек
+    tt_cyrl: сәбәплелек
     uk: причинність
     ur: سببیہ
     vec: cauzałità
@@ -180,14 +180,14 @@ dv_has_:
     yo: òùnfà
     yue: 因果律
     zh: 因果關係
-    zh-cn: 因果关系
-    zh-hans: 因果关系
-    zh-hant: 因果關係
-    zh-hk: 因果關係
-    zh-mo: 因果關係
+    zh_cn: 因果关系
+    zh_hans: 因果关系
+    zh_hant: 因果關係
+    zh_hk: 因果關係
+    zh_mo: 因果關係
     zh-my: 因果关系
-    zh-sg: 因果关系
-    zh-tw: 因果關係
+    zh_sg: 因果关系
+    zh_tw: 因果關係
 ---
 # [[Causality]] 
 

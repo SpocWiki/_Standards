@@ -183,7 +183,7 @@ dv_has_:
     az: kimyəvi maddə
     ba: матдә
     be: рэчыва
-    be-tarask: рэчыва
+    be_tarask: рэчыва
     bg: химично вещество
     bho: रासायनिक पदार्थ
     bn: রাসায়নিক পদার্থ
@@ -195,11 +195,11 @@ dv_has_:
     cy: sylwedd cemegol
     da: kemisk stof
     de: chemischer Stoff
-    de-ch: chemischer Stoff
+    de_ch: chemischer Stoff
     el: χημική ουσία
     en: chemical substance
-    en-ca: chemical substance
-    en-gb: chemical substance
+    en_ca: chemical substance
+    en_gb: chemical substance
     eo: ĥemiaĵo
     es: sustancia química
     et: keemiline aine
@@ -247,7 +247,7 @@ dv_has_:
     mni: ꯀꯦꯃꯤꯀꯦꯜ
     mr: रासायनिक पदार्थ
     ms: bahan kimia
-    ms-arab: باهن کيميا
+    ms_arab: باهن کيميا
     nan: hoà-ha̍k bu̍t-chit
     nb: kjemikalie
     nds: cheemsch Stoff
@@ -261,7 +261,7 @@ dv_has_:
     pl: substancja chemiczna
     pnb: کیمیائی شے
     pt: substância química
-    pt-br: substância química
+    pt_br: substância química
     ro: substanță chimică
     ru: химическое вещество
     sah: сэк
@@ -276,7 +276,7 @@ dv_has_:
     sn: mushonga
     sq: substancë kimike
     sr: хемијска супстанца
-    sr-ec: хемијска супстанца
+    sr_ec: хемијска супстанца
     su: bahan kimia
     sv: kemikalie
     sw: kemikali
@@ -286,7 +286,7 @@ dv_has_:
     tl: sustansiyang kimikal
     tr: kimyasal madde
     tt: матдә
-    tt-cyrl: матдә
+    tt_cyrl: матдә
     uk: хімічна речовина
     ur: کیمیائی شے
     vec: sostansa
@@ -298,14 +298,14 @@ dv_has_:
     yo: ohun àpòpọ̀ògùn
     yue: 化學物質
     zh: 化学物质
-    zh-cn: 化学物质
-    zh-hans: 化学物质
-    zh-hant: 化學物質
-    zh-hk: 化學物質
-    zh-mo: 化學物質
+    zh_cn: 化学物质
+    zh_hans: 化学物质
+    zh_hant: 化學物質
+    zh_hk: 化學物質
+    zh_mo: 化學物質
     zh-my: 化学物质
-    zh-sg: 化学物质
-    zh-tw: 化學物質
+    zh_sg: 化学物质
+    zh_tw: 化學物質
     zu: Isiqa
   properties: '[ additionalType, alternateName, associatedDisease, bioChemInteraction, bioChemSimilarity, biologicalRole, chemicalComposition, chemicalRole, description, disambiguatingDescription, funding, hasBioChemEntityPart, hasMolecularFunction, hasRepresentation, identifier, image, isEncodedByBioChemEntity, isInvolvedInBiologicalProcess, isLocatedInSubcellularLocation, isPartOfBioChemEntity, mainEntityOfPage, name, potentialAction, potentialUse, sameAs, subjectOf, taxonomicRange, url ]'
 dv_is_part_of: https://pending.schema.org

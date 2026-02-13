@@ -72,7 +72,7 @@ dv_has_:
     ar: القصبة البركانية
     ast: Pescuezu volcánicu
     az: Vulkan sütunu
-    be-tarask: нэк
+    be_tarask: нэк
     bg: Вулканичен нек
     ca: coll volcànic
     cs: lávová zátka

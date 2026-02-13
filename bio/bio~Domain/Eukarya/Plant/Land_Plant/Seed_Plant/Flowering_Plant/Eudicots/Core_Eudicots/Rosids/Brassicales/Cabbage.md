@@ -206,7 +206,7 @@ dv_has_:
     bar: Kabis
     bcl: Repolyo
     be: капуста белакачанная
-    be-tarask: капуста белакачанная
+    be_tarask: капуста белакачанная
     bg: зеле
     bho: पत्ता गोभी
     bi: Kabis
@@ -221,11 +221,11 @@ dv_has_:
     cy: Bresychen
     da: hovedkål
     de: Kopfkohl
-    de-ch: Weisskohl
+    de_ch: Weisskohl
     el: Λάχανο
     en: Brassica oleracea var. capitata
-    en-ca: Cabbage
-    en-gb: cabbage
+    en_ca: Cabbage
+    en_gb: cabbage
     eo: Kapobrasiko
     es: col blanca
     et: Kapsas
@@ -284,7 +284,7 @@ dv_has_:
     nah: Col
     nan: Ko-lê-chhài
     nb: kål
-    nds-nl: busekool
+    nds_nl: busekool
     ne: बन्दागोभी
     nl: wittekool
     nn: hovudkål
@@ -299,7 +299,7 @@ dv_has_:
     pnb: بند گوبی
     ps: كرم
     pt: repolho
-    pt-br: Repolho
+    pt_br: Repolho
     rn: Ishu
     ro: varză comună
     ru: капуста белокочанная
@@ -318,8 +318,8 @@ dv_has_:
     so: Kaabaj
     sq: Lakra
     sr: купус
-    sr-ec: купус
-    sr-el: kupus
+    sr_ec: купус
+    sr_el: kupus
     su: Engkol
     sv: huvudkål
     sw: Kabichi
@@ -346,9 +346,9 @@ dv_has_:
     yue: 椰菜
     za: Byaekgienjsim
     zh: 结球甘蓝
-    zh-cn: 结球甘蓝
-    zh-hans: 卷心菜
-    zh-tw: 高麗菜
+    zh_cn: 结球甘蓝
+    zh_hans: 卷心菜
+    zh_tw: 高麗菜
     zu: Iklabishi
 ---
 # [[Cabbage]] 

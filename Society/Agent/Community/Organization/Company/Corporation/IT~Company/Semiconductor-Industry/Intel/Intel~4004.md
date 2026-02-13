@@ -11,8 +11,8 @@ dv_has_:
     de: Intel 4004
     el: Intel 4004
     en: Intel 4004
-    en-ca: Intel 4004
-    en-gb: Intel 4004
+    en_ca: Intel 4004
+    en_gb: Intel 4004
     eo: Intel 4004
     es: Intel 4004
     et: Intel 4004
@@ -47,8 +47,8 @@ dv_has_:
     scn: Intel 4004
     sk: Intel 4004
     sr: Intel 4004
-    sr-ec: Интел 4004
-    sr-el: Intel 4004
+    sr_ec: Интел 4004
+    sr_el: Intel 4004
     sv: Intel 4004
     sw: Intel 4004
     tr: Intel 4004
@@ -57,12 +57,12 @@ dv_has_:
     vi: Intel 4004
     wuu: Intel 4004
     zh: Intel 4004
-    zh-cn: Intel 4004
-    zh-hans: Intel 4004
-    zh-hant: Intel 4004
-    zh-hk: Intel 4004
-    zh-sg: Intel 4004
-    zh-tw: Intel 4004
+    zh_cn: Intel 4004
+    zh_hans: Intel 4004
+    zh_hant: Intel 4004
+    zh_hk: Intel 4004
+    zh_sg: Intel 4004
+    zh_tw: Intel 4004
 aliases:
 - 4004
 - Intel 4004

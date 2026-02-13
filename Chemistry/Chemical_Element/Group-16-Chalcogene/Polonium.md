@@ -142,7 +142,7 @@ dv_has_:
     ban: Polonium
     bcl: Polonyo (elemento)
     be: палоній
-    be-tarask: палён
+    be_tarask: палён
     bg: полоний
     bho: पोलोनियम
     bn: পোলোনিয়াম
@@ -161,8 +161,8 @@ dv_has_:
     de: Polonium
     el: πολώνιο
     en: polonium
-    en-ca: Polonium
-    en-gb: polonium
+    en_ca: Polonium
+    en_gb: polonium
     eo: polonio
     es: polonio
     et: poloonium
@@ -240,7 +240,7 @@ dv_has_:
     pnb: پولونیم
     ps: پولونيم
     pt: polónio
-    pt-br: polônio
+    pt_br: polônio
     qu: Polonyu
     ro: poloniu
     ru: полоний
@@ -281,14 +281,14 @@ dv_has_:
     yo: Polonium
     yue: 釙
     zh: 釙
-    zh-cn: 钋
-    zh-hans: 钋
-    zh-hant: 釙
-    zh-hk: 釙
-    zh-mo: 釙
+    zh_cn: 钋
+    zh_hans: 钋
+    zh_hant: 釙
+    zh_hk: 釙
+    zh_mo: 釙
     zh-my: 钋
-    zh-sg: 钋
-    zh-tw: 釙
+    zh_sg: 钋
+    zh_tw: 釙
     zu: ImPosumu
   number_of_:
     period: 6

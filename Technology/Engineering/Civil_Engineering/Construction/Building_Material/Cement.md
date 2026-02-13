@@ -113,7 +113,7 @@ dv_has_:
     bar: Zement
     bcl: semento
     be: цэмент
-    be-tarask: цэмэнт
+    be_tarask: цэмэнт
     bg: цимент
     bn: সিমেন্ট
     br: simant
@@ -127,7 +127,7 @@ dv_has_:
     diq: çimentoci
     el: τσιμέντο
     en: cement
-    en-gb: cement
+    en_gb: cement
     eo: cemento
     es: cemento
     et: tsement
@@ -184,7 +184,7 @@ dv_has_:
     pa: ਸੀਮੈਂਟ
     pl: cement
     pt: cimento
-    pt-br: cimento
+    pt_br: cimento
     qu: simintu
     ro: ciment
     ru: цемент
@@ -202,8 +202,8 @@ dv_has_:
     sms: semeʹntt
     sq: çimento
     sr: цемент
-    sr-ec: цемент
-    sr-el: cement
+    sr_ec: цемент
+    sr_el: cement
     sv: cement
     sw: saruji
     ta: சீமைக்காரை
@@ -222,10 +222,10 @@ dv_has_:
     wuu: 水门汀
     yue: 紅毛泥
     zh: 水泥
-    zh-cn: 水泥
-    zh-hans: 水泥
-    zh-hant: 水泥
-    zh-tw: 水泥
+    zh_cn: 水泥
+    zh_hans: 水泥
+    zh_hant: 水泥
+    zh_tw: 水泥
 ---
 # [[Cement]] 
 

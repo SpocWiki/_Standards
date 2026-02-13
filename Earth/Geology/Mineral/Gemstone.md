@@ -156,7 +156,7 @@ dv_has_:
     az: Yozef Blatter
     azb: سپ بلاتر
     be: Іозеф Блатэр
-    be-tarask: Ёзэф Блятэр
+    be_tarask: Ёзэф Блятэр
     bg: Сеп Блатер
     bn: সেপ ব্লাটার
     bs: Sepp Blatter
@@ -167,8 +167,8 @@ dv_has_:
     de: Sepp Blatter
     el: Ζεπ Μπλάτερ
     en: Sepp Blatter
-    en-ca: Sepp Blatter
-    en-gb: Sepp Blatter
+    en_ca: Sepp Blatter
+    en_gb: Sepp Blatter
     eo: Sepp Blatter
     es: Joseph Blatter
     et: Sepp Blatter
@@ -190,9 +190,9 @@ dv_has_:
     ja: ゼップ・ブラッター
     ka: იოზეფ ბლატერი
     kk: Блаттер, Йозеф
-    kk-arab: بلاتتەر، يوزەف
-    kk-cyrl: Блаттер
-    kk-latn: Blatter
+    kk_arab: بلاتتەر، يوزەف
+    kk_cyrl: Блаттер
+    kk_latn: Blatter
     ko: 제프 블라터
     koi: Блаттер, Йозеф (политикоксяра, Швейцария)
     la: Iosephus Blatter
@@ -205,13 +205,13 @@ dv_has_:
     ms: Sepp Blatter
     nap: Joseph Blatter
     nb: Sepp Blatter
-    nds-nl: Sepp Blatter
+    nds_nl: Sepp Blatter
     ne: सेप ब्लाटर
     nl: Sepp Blatter
     nn: Sepp Blatter
     pl: Joseph Blatter
     pt: Joseph Blatter
-    pt-br: Joseph Blatter
+    pt_br: Joseph Blatter
     rm: Sepp Blatter
     ro: Sepp Blatter
     ru: Йозеф Блаттер
@@ -224,8 +224,8 @@ dv_has_:
     sl: Sepp Blatter
     sq: Sepp Blatter
     sr: Сеп Блатер
-    sr-ec: Сеп Блатер
-    sr-el: Sep Blater
+    sr_ec: Сеп Блатер
+    sr_el: Sep Blater
     ss: Sepp Blatter
     sv: Sepp Blatter
     sw: Sepp Blatter
@@ -240,12 +240,12 @@ dv_has_:
     wuu: 塞普·布拉特
     yue: 白禮達
     zh: 塞普·布拉特
-    zh-cn: 塞普·布拉特
-    zh-hans: 塞普·布拉特
-    zh-hant: 塞普·布拉特
-    zh-hk: 塞普·白禮達
-    zh-mo: 塞普·白禮達
-    zh-tw: 塞普·布拉特
+    zh_cn: 塞普·布拉特
+    zh_hans: 塞普·布拉特
+    zh_hant: 塞普·布拉特
+    zh_hk: 塞普·白禮達
+    zh_mo: 塞普·白禮達
+    zh_tw: 塞普·布拉特
 ---
 # [[Gemstone]]
 

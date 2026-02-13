@@ -442,7 +442,7 @@ dv_has_:
     bar: Pablo Picasso
     bcl: Pablo Picasso
     be: Пабла Пікаса
-    be-tarask: Паблё Пікаса
+    be_tarask: Паблё Пікаса
     bg: Пабло Пикасо
     bho: पाब्लो पिकासो
     bi: Pablo Picasso
@@ -454,7 +454,7 @@ dv_has_:
     btm: Pablo Picasso
     bxr: Пикассо, Пабло
     ca: Pablo Picasso
-    cbk-zam: Pablo Picasso
+    cbk_zam: Pablo Picasso
     ce: Пабло Пикассо
     ceb: Pablo Picasso
     chy: Pablo Picasso
@@ -471,8 +471,8 @@ dv_has_:
     el: Πάμπλο Πικάσο
     eml: Pablo Picasso
     en: Pablo Picasso
-    en-ca: Pablo Picasso
-    en-gb: Pablo Picasso
+    en_ca: Pablo Picasso
+    en_gb: Pablo Picasso
     en-us: Pablo Picasso
     eo: Pablo Picasso
     es: Pablo Picasso
@@ -569,7 +569,7 @@ dv_has_:
     nan: Pablo Picasso
     nb: Pablo Picasso
     nds: Pablo Picasso
-    nds-nl: Pablo Picasso
+    nds_nl: Pablo Picasso
     ne: पाब्लो पिकासो
     new: पाब्लो पिकासो
     nl: Pablo Picasso
@@ -592,7 +592,7 @@ dv_has_:
     pnb: پیبلو پکاسو
     ps: پيکاسو
     pt: Pablo Picasso
-    pt-br: Pablo Picasso
+    pt_br: Pablo Picasso
     qu: Pablo Picasso
     qug: Pablo Picasso
     rm: Pablo Picasso
@@ -616,7 +616,7 @@ dv_has_:
     so: Bablo bekaso
     sq: Pablo Picasso
     sr: Пабло Пикасо
-    sr-ec: Пабло Пикасо
+    sr_ec: Пабло Пикасо
     stq: Pablo Ruiz Picasso
     su: Pablo Picasso
     sv: Pablo Picasso
@@ -652,11 +652,11 @@ dv_has_:
     yue: 畢加索
     za: Pablo Picasso
     zh: 巴勃羅·畢卡索
-    zh-cn: 巴勃罗·毕加索
-    zh-hans: 巴勃罗·毕加索
-    zh-hant: 巴勃羅·魯伊斯·畢卡索
-    zh-hk: 柏保路·畢卡索
-    zh-tw: 巴勃羅·魯伊斯·畢卡索
+    zh_cn: 巴勃罗·毕加索
+    zh_hans: 巴勃罗·毕加索
+    zh_hant: 巴勃羅·魯伊斯·畢卡索
+    zh_hk: 柏保路·畢卡索
+    zh_tw: 巴勃羅·魯伊斯·畢卡索
     zu: Pablo Picasso
 ---
 # [[Picasso,Pablo]]

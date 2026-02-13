@@ -62,7 +62,7 @@ dv_has_:
     ast: Permacultura
     bar: Permakuitua
     be: Пермакультура
-    be-tarask: пэрмакультура
+    be_tarask: пэрмакультура
     bg: Пермакултура
     bn: পারমাকালচার
     br: labour-douar pad
@@ -73,8 +73,8 @@ dv_has_:
     de: Permakultur
     el: Μόνιμη καλλιέργεια
     en: permaculture
-    en-ca: Permaculture
-    en-gb: Permaculture
+    en_ca: Permaculture
+    en_gb: Permaculture
     eo: permakulturo
     es: permacultura
     et: Permakultuur
@@ -94,7 +94,7 @@ dv_has_:
     it: permacultura
     ja: パーマカルチャー
     kk: пермамәдениет
-    kk-latn: permamädeniet
+    kk_latn: permamädeniet
     ko: 퍼머컬처
     la: Permacultura
     lv: Permakultūra
@@ -109,7 +109,7 @@ dv_has_:
     pl: permakultura
     ps: پایداره کرنه
     pt: permacultura
-    pt-br: Permacultura
+    pt_br: Permacultura
     ro: Permacultură
     ru: пермакультура
     sk: Permakultúra

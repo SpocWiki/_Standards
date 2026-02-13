@@ -230,7 +230,7 @@ dv_has_:
     ban: Perang Koréa
     bcl: Gyera sa Korea
     be: Вайна ў Карэі
-    be-tarask: Карэйская вайна
+    be_tarask: Карэйская вайна
     bg: Корейска война
     bn: কোরীয় যুদ্ধ
     br: Brezel Korea
@@ -242,12 +242,12 @@ dv_has_:
     cy: Rhyfel Corea
     da: Koreakrigen
     de: Koreakrieg
-    de-ch: Koreakrieg
+    de_ch: Koreakrieg
     diq: Kategoriye:Herbê Korya
     el: Πόλεμος της Κορέας
     en: Korean War
-    en-ca: Korean War
-    en-gb: Korean War
+    en_ca: Korean War
+    en_gb: Korean War
     eo: Korea milito
     es: guerra de Corea
     et: Korea sõda
@@ -321,7 +321,7 @@ dv_has_:
     pnb: کوریا دی لڑائی
     ps: د کوريا جګړه
     pt: Guerra da Coreia
-    pt-br: Guerra da Coreia
+    pt_br: Guerra da Coreia
     ro: Războiul din Coreea
     ru: Корейская война
     sah: Кэриэйэ сэриитэ
@@ -359,12 +359,12 @@ dv_has_:
     yue: 韓戰
     za: Cauzsenh Cancwngh
     zh: 朝鲜战争
-    zh-cn: 朝鲜战争
-    zh-hans: 朝鲜战争
-    zh-hant: 韓戰
-    zh-hk: 韓戰
-    zh-sg: 韩战
-    zh-tw: 韓戰
+    zh_cn: 朝鲜战争
+    zh_hans: 朝鲜战争
+    zh_hant: 韓戰
+    zh_hk: 韓戰
+    zh_sg: 韩战
+    zh_tw: 韓戰
 ---
 # [[1950-Korean_War-1953]] 
 

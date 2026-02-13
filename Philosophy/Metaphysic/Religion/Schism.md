@@ -56,7 +56,7 @@ dv_has_:
     ast: Cisma
     az: bölünmə
     be: схізма
-    be-tarask: схізма
+    be_tarask: схізма
     bg: Схизма
     bn: বিভেদ
     ca: cisma

@@ -59,7 +59,7 @@ MeSH_tree_code:
 dv_has_:
   name_:
     ar: قانون البناء
-    be-tarask: будаўнічыя нарматывы
+    be_tarask: будаўнічыя нарматывы
     bn: ভবন নির্মাণ নীতিমালা
     ca: codi d'edificació
     de: Bauordnung
@@ -91,9 +91,9 @@ dv_has_:
     vi: quy chuẩn xây dựng
     yue: 建築守則
     zh: 建築規範
-    zh-cn: 建筑规范
-    zh-hans: 建筑规范
-    zh-hant: 建築規範
+    zh_cn: 建筑规范
+    zh_hans: 建筑规范
+    zh_hant: 建築規範
 ---
 # [[Building_Code]] 
 

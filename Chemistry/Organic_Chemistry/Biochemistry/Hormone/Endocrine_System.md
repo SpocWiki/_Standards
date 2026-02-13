@@ -145,7 +145,7 @@ dv_has_:
     az: Endokrin sistemi
     ba: Эндокрин система
     be: эндакрынная сістэма
-    be-tarask: эндакрынная сыстэма
+    be_tarask: эндакрынная сыстэма
     bg: Ендокринна система
     bn: অন্তঃক্ষরা গ্রন্থিতন্ত্র
     br: Reizhiad enborc'hadel
@@ -186,7 +186,7 @@ dv_has_:
     ja: 内分泌系
     jv: Sistem endokrin
     kk: Қарын безі
-    kk-cyrl: эндокриндік жүйе
+    kk_cyrl: эндокриндік жүйе
     knc: Endocrine system
     ko: 내분비계
     ku: Sîstema hormonan
@@ -239,7 +239,7 @@ dv_has_:
     tl: Sistemang endokrina
     tr: Endokrin sistem
     tt: эндокрин система
-    tt-cyrl: эндокрин систем
+    tt_cyrl: эндокрин систем
     udm: эндокринной сӧзнэт
     ug: ئىچكى ئاجراتما سىستېمىسى
     uk: ендокринна система
@@ -252,8 +252,8 @@ dv_has_:
     yi: ענדאקרינאלע סיסטעם
     yue: 內分泌系統
     zh: 內分泌系統
-    zh-hans: 内分泌系统
-    zh-hant: 內分泌系統
+    zh_hans: 内分泌系统
+    zh_hant: 內分泌系統
 ---
 # [[Endocrine_System]] 
 

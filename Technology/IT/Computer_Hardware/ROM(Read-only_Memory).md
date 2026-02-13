@@ -88,17 +88,17 @@ dv_has_:
     ast: Memoria de solo llectura
     az: Daimi yaddaş qurğusu
     be: пастаянная запамінальная прылада
-    be-tarask: сталае запамінальнае прыстасаваньне
+    be_tarask: сталае запамінальнае прыстасаваньне
     bn: রম
     ca: memòria només de lectura
     ckb: بیرگەی ھەر-خوێندنی
     cy: Cof ROM
     da: Rom
     de: Festwertspeicher
-    de-ch: Festwertspeicher
+    de_ch: Festwertspeicher
     en: read-only memory
-    en-ca: read-only memory
-    en-gb: read-only memory
+    en_ca: read-only memory
+    en_gb: read-only memory
     eo: nurlega memoro
     es: memoria de solo lectura
     et: Püsimälu
@@ -114,11 +114,11 @@ dv_has_:
     it: Read Only Memory
     ja: リードオンリーメモリ
     kk: ТЖҚ
-    kk-arab: تجق
+    kk_arab: تجق
     kk-cn: تجق
-    kk-cyrl: ТЖҚ
+    kk_cyrl: ТЖҚ
     kk-kz: ТЖҚ
-    kk-latn: TJQ
+    kk_latn: TJQ
     kk-tr: TJQ
     ko: 고정 기억 장치
     lmo: Read Only Memory
@@ -138,7 +138,7 @@ dv_has_:
     pl: pamięć tylko do odczytu
     pms: Read-only memory
     pt: memória somente de leitura
-    pt-br: Memória somente de leitura
+    pt_br: Memória somente de leitura
     ro: ROM
     ru: постоянное запоминающее устройство
     sco: read-anly memory
@@ -157,12 +157,12 @@ dv_has_:
     vi: bộ nhớ chỉ đọc
     wuu: 只读存储器
     zh: 唯讀記憶體
-    zh-cn: 只读存储器
-    zh-hans: 只读存储器
-    zh-hant: 唯讀記憶體
-    zh-hk: 唯讀記憶體
-    zh-sg: 唯读记忆体
-    zh-tw: 唯讀記憶體
+    zh_cn: 只读存储器
+    zh_hans: 只读存储器
+    zh_hant: 唯讀記憶體
+    zh_hk: 唯讀記憶體
+    zh_sg: 唯读记忆体
+    zh_tw: 唯讀記憶體
 ---
 # [[ROM(Read-only_Memory)]] 
 

@@ -172,7 +172,7 @@ dv_has_:
     ba: эзбизташ
     bar: Koichstoa
     be: вапняк
-    be-tarask: вапняк
+    be_tarask: вапняк
     bg: варовик
     bn: চুনাপাথর
     bs: Krečnjak
@@ -183,11 +183,11 @@ dv_has_:
     cy: calchfaen
     da: kalksten
     de: Kalkstein
-    de-ch: Kalkstein
+    de_ch: Kalkstein
     el: ασβεστόλιθος
     en: limestone
-    en-ca: limestone
-    en-gb: limestone
+    en_ca: limestone
+    en_gb: limestone
     eo: kalkoŝtono
     es: caliza
     et: lubjakivi
@@ -229,7 +229,7 @@ dv_has_:
     mg: Vatosokay
     mk: варовник
     ms: batu kapur
-    ms-arab: باتو کاڤور
+    ms_arab: باتو کاڤور
     mt: ġebla tal-ġir
     my: ထုံးကျောက်
     nan: Chio̍h-hoe-giâm
@@ -246,7 +246,7 @@ dv_has_:
     pl: wapień
     pnb: لائم پتھر
     pt: calcário
-    pt-br: calcário
+    pt_br: calcário
     qu: Isku rumi
     ro: calcar
     ru: известняк
@@ -263,7 +263,7 @@ dv_has_:
     sms: kalkk-ǩeäʹdǧǧ
     so: Nuurad
     sr: кречњак
-    sr-ec: кречњак
+    sr_ec: кречњак
     sv: kalksten
     sw: Chokaa mawe
     ta: சுண்ணக்கல்

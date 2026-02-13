@@ -32,7 +32,7 @@ dv_has_:
   name_:
     ar: خاصية تصحيح الخطأ
     ast: Correición d'erros escontra alantre
-    be-tarask: простае выпраўленьне памылак
+    be_tarask: простае выпраўленьне памылак
     ca: protecció contra errors
     cs: dopředná oprava chyb
     de: Vorwärtsfehlerkorrektur

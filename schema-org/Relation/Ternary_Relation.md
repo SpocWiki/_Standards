@@ -53,7 +53,7 @@ dv_has_:
   name_:
     af: ternêre verhouding
     ba: тернар мөнәсәбәт
-    be-tarask: траістае дачыненьне
+    be_tarask: траістае дачыненьне
     ca: relació ternària
     cs: ternární relace
     de: ternäre Relation

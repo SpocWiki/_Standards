@@ -73,15 +73,15 @@ dv_has_:
     af: Silikaat
     ar: سيليكات
     ast: silicatu
-    be-tarask: сылікат
+    be_tarask: сылікат
     bs: Silikat
     ca: silicat
     da: Silikat
     de: Silikate
     el: πυριτικά
     en: silicate
-    en-ca: Silicate
-    en-gb: Silicate
+    en_ca: Silicate
+    en_gb: Silicate
     eo: siliciato
     es: silicato
     et: Silikaadid
@@ -107,13 +107,13 @@ dv_has_:
     pl: krzemian
     pnb: سلیکیٹ
     pt: silicato
-    pt-br: Silicato
+    pt_br: Silicato
     ro: silicat
     ru: силикаты
     sl: silikat
     sr: силикат
-    sr-ec: силикат
-    sr-el: silikat
+    sr_ec: силикат
+    sr_el: silikat
     sv: silikat
     ta: சிலிக்கேட்டு
     th: ซิลิเกต
@@ -122,8 +122,8 @@ dv_has_:
     wuu: 硅酸盐
     yue: 矽酸鹽
     zh: 矽酸根
-    zh-cn: 硅酸根
-    zh-tw: 矽酸根
+    zh_cn: 硅酸根
+    zh_tw: 矽酸根
 ---
 # [[Silicate]] 
 

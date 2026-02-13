@@ -104,7 +104,7 @@ dv_has_:
     ast: Dique
     az: Damba
     be: Дамба
-    be-tarask: дамба
+    be_tarask: дамба
     bg: Дига
     bn: বেড়িবাঁধ
     br: Chaoser
@@ -142,11 +142,11 @@ dv_has_:
     jv: Tanggul
     ka: ჯებირი
     kk: Дамба
-    kk-arab: دامبا
+    kk_arab: دامبا
     kk-cn: دامبا
-    kk-cyrl: Дамба
+    kk_cyrl: Дамба
     kk-kz: Дамба
-    kk-latn: Damba
+    kk_latn: Damba
     kk-tr: Damba
     ko: 제방
     ky: Дамба
@@ -179,7 +179,7 @@ dv_has_:
     sl: nasip
     sq: Diga
     sr: насип
-    sr-ec: насип
+    sr_ec: насип
     sv: vall mot översvämning
     ta: லெவிக்கள்
     te: కరకట్ట
@@ -194,8 +194,8 @@ dv_has_:
     wuu: 堤
     yue: 堤
     zh: 堤
-    zh-hans: 堤
-    zh-hant: 堤
+    zh_hans: 堤
+    zh_hant: 堤
 ---
 # [[Levee]] 
 

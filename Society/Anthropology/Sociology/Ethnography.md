@@ -87,7 +87,7 @@ dv_has_:
     az: etnoqrafiya
     ba: этнография
     be: этнаграфія
-    be-tarask: этнаграфія
+    be_tarask: этнаграфія
     bg: етнография
     bn: নৃকুলবিদ্যা
     ca: etnografia
@@ -140,7 +140,7 @@ dv_has_:
     ml: വംശീയശാസ്ത്രം
     mn: Угсаатны зүй
     ms: etnografi
-    ms-arab: ايتنوݢرافي
+    ms_arab: ايتنوݢرافي
     nan: Bîn-cho̍k-chì
     nb: etnografi
     ne: नृवंशशास्त्र
@@ -165,8 +165,8 @@ dv_has_:
     sms: etnografia
     sq: Etnografia
     sr: етнографија
-    sr-ec: етнографија
-    sr-el: Etnografija
+    sr_ec: етнографија
+    sr_el: Etnografija
     su: Etnografi
     sv: etnografi
     szl: etnografijŏ
@@ -185,12 +185,12 @@ dv_has_:
     xmf: ეთნოგრაფია
     yue: 民族誌學
     zh: 民族誌
-    zh-cn: 民族志
-    zh-hans: 民族志
-    zh-hant: 民族誌
-    zh-hk: 民族誌
-    zh-sg: 民族志
-    zh-tw: 民族誌
+    zh_cn: 民族志
+    zh_hans: 民族志
+    zh_hant: 民族誌
+    zh_hk: 民族誌
+    zh_sg: 民族志
+    zh_tw: 民族誌
 ---
 # [[Ethnography]] 
 

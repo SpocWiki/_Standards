@@ -106,8 +106,8 @@ dv_has_:
     de: natürlicher Logarithmus
     el: φυσικός λογάριθμος
     en: natural logarithm
-    en-ca: natural logarithm
-    en-gb: natural logarithm
+    en_ca: natural logarithm
+    en_gb: natural logarithm
     eo: natura logaritmo
     es: logaritmo natural
     et: naturaallogaritm
@@ -144,7 +144,7 @@ dv_has_:
     pl: logarytm naturalny
     pms: logaritm ëd Napier
     pt: logaritmo natural
-    pt-br: logaritmo natural
+    pt_br: logaritmo natural
     ro: logaritm natural
     ru: натуральный логарифм
     se: lunddolaš logaritma
@@ -157,8 +157,8 @@ dv_has_:
     sms: luâđlaž logaritmm
     sq: Logaritmi natyror
     sr: природни логаритам
-    sr-ec: природни логаритам
-    sr-el: prirodni logaritam
+    sr_ec: природни логаритам
+    sr_el: prirodni logaritam
     sv: naturliga logaritmen
     ta: இயல் மடக்கை
     th: ลอการิทึมธรรมชาติ
@@ -170,12 +170,12 @@ dv_has_:
     wuu: 自然对数
     yue: 自然對數
     zh: 自然對數
-    zh-cn: 自然对数
-    zh-hans: 自然对数
-    zh-hant: 自然對數
-    zh-hk: 自然對數
-    zh-sg: 自然对数
-    zh-tw: 自然對數
+    zh_cn: 自然对数
+    zh_hans: 自然对数
+    zh_hant: 自然對數
+    zh_hk: 自然對數
+    zh_sg: 自然对数
+    zh_tw: 自然對數
 ---
 # [[Natural_Logarithm]] 
 

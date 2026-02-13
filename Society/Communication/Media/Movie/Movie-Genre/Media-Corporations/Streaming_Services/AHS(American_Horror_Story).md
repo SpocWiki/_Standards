@@ -39,7 +39,7 @@ dv_has_:
     ast: American Horror Story
     az: Amerikan qorxu hekayəsi
     be: Амерыканская гісторыя жахаў
-    be-tarask: Амэрыканская гісторыя жахаў
+    be_tarask: Амэрыканская гісторыя жахаў
     bg: Зловеща семейна история
     bn: আমেরিকান হরর স্টোরি
     ca: American Horror Story
@@ -47,12 +47,12 @@ dv_has_:
     cs: American Horror Story
     da: American Horror Story
     de: American Horror Story
-    de-ch: American Horror Story – Die dunkle Seite in dir
+    de_ch: American Horror Story – Die dunkle Seite in dir
     diq: American Horror Story
     el: American Horror Story
     en: American Horror Story
-    en-ca: American Horror Story
-    en-gb: American Horror Story
+    en_ca: American Horror Story
+    en_gb: American Horror Story
     es: American Horror Story
     eu: American Horror Story
     fa: داستان ترسناک آمریکایی
@@ -87,7 +87,7 @@ dv_has_:
     pa: ਅਮਰੀਕੀ ਹੋਰਰ ਸਟੋਰੀ
     pl: American Horror Story
     pt: American Horror Story
-    pt-br: American Horror Story
+    pt_br: American Horror Story
     ro: American Horror Story
     ru: Американская история ужасов
     sh: American Horror Story
@@ -103,8 +103,8 @@ dv_has_:
     vi: American Horror Story
     yue: 美國怪談
     zh: 美國恐怖故事
-    zh-hant: 美國恐怖故事
-    zh-hk: 美國恐怖故事
+    zh_hant: 美國恐怖故事
+    zh_hk: 美國恐怖故事
 ---
 ## #has_/text_of_/abstract 
 

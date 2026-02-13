@@ -100,7 +100,7 @@ dv_has_:
     az: Çoxhədli
     ba: күпбыуын
     be: мнагачлен
-    be-tarask: мнагасклад
+    be_tarask: мнагасклад
     bg: Многочлен
     bn: বহুপদী
     bs: polinom
@@ -157,7 +157,7 @@ dv_has_:
     nn: polynom
     pl: wielomian
     pt: polinómio
-    pt-br: polinômio
+    pt_br: polinômio
     ro: polinom
     ru: многочлен
     se: polynoma
@@ -169,8 +169,8 @@ dv_has_:
     sms: polynoom
     sq: Polinomet
     sr: полином
-    sr-ec: полином
-    sr-el: polinom
+    sr_ec: полином
+    sr_el: polinom
     sv: polynom
     ta: பல்லுறுப்புக்கோவை
     te: బహుపది
@@ -187,8 +187,8 @@ dv_has_:
     yo: Onírúiyepúpọ̀
     yue: 多項式
     zh: 多項式
-    zh-hans: 多项式
-    zh-hant: 多項式
+    zh_hans: 多项式
+    zh_hant: 多項式
 ---
 # [[Polynomial]] 
 

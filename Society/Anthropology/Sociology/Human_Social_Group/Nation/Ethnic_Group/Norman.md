@@ -90,7 +90,7 @@ dv_has_:
     az: Normanlar
     azb: نورمنلر
     be: Нарманы
-    be-tarask: нарманы
+    be_tarask: нарманы
     bg: Нормани
     bn: নর্মান জাতি
     br: Normaned
@@ -157,7 +157,7 @@ dv_has_:
     sk: Normani
     sl: Normani
     sr: Нормани
-    sr-ec: Нормани
+    sr_ec: Нормани
     stq: Normandier
     sv: Normander
     ta: நோர்மானியர்

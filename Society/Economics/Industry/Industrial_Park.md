@@ -53,7 +53,7 @@ dv_has_:
     az: Sənaye parkı
     azb: صنایع شهرکی
     ba: индустриаль парк
-    be-tarask: індустрыяльны парк
+    be_tarask: індустрыяльны парк
     bn: শিল্প উদ্যান
     ca: parc industrial
     cy: parc diwydiannol
@@ -80,7 +80,7 @@ dv_has_:
     sl: industrijski park
     sq: Parku industrial
     sr: индустријски парк
-    sr-ec: индустријски парк
+    sr_ec: индустријски парк
     tl: liwasang pang-industriya
     tr: endüstri parkı
     uk: промисловий парк
@@ -89,8 +89,8 @@ dv_has_:
     wuu: 工业园区
     yue: 工業邨
     zh: 工業園區
-    zh-cn: 工业园区
-    zh-hans: 工业园区
+    zh_cn: 工业园区
+    zh_hans: 工业园区
 ---
 # [[Industrial_Park]] 
 

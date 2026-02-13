@@ -165,7 +165,7 @@ dv_has_:
     az: Kalsium karbonat
     azb: کلسیوم کربونات
     ba: кальций карбонаты
-    be-tarask: карбанат кальцу
+    be_tarask: карбанат кальцу
     bg: Калциев карбонат
     bn: ক্যালসিয়াম কার্বনেট
     bs: Kalcij-karbonat
@@ -174,11 +174,11 @@ dv_has_:
     cy: calsiwm carbonad
     da: calciumcarbonat
     de: Calciumcarbonat
-    de-ch: Calciumcarbonat
+    de_ch: Calciumcarbonat
     el: ανθρακικό ασβέστιο
     en: calcium carbonate
-    en-ca: Calcium carbonate
-    en-gb: calcium carbonate
+    en_ca: Calcium carbonate
+    en_gb: calcium carbonate
     eo: kalcia karbonato
     es: carbonato de calcio
     et: kaltsiumkarbonaat
@@ -213,7 +213,7 @@ dv_has_:
     ml: ചുണ്ണാമ്പ്
     mr: कॅल्शियम कार्बोनेट
     ms: kalsium karbonat
-    ms-arab: کلسيوم کربونت
+    ms_arab: کلسيوم کربونت
     mt: Karbonat tal-kalċju
     nan: Thoàⁿ-sng khā-lú-siúm
     nb: kalsiumkarbonat
@@ -222,7 +222,7 @@ dv_has_:
     oc: Carbonat de calci
     pl: węglan wapnia
     pt: carbonato de cálcio
-    pt-br: Carbonato de cálcio
+    pt_br: Carbonato de cálcio
     ro: Carbonat de calciu
     ru: карбонат кальция
     sah: Кальций карбонаата

@@ -73,8 +73,8 @@ dv_has_:
     de: Vitamin B6
     dv: ވިޓަމިން ބީ6
     en: vitamin B6
-    en-ca: vitamin B6
-    en-gb: vitamin B6
+    en_ca: vitamin B6
+    en_gb: vitamin B6
     eo: vitamino B₆
     es: vitamina B6
     et: vitamiin B6
@@ -113,7 +113,7 @@ dv_has_:
     oc: vitamina B6
     pl: witamina B6
     pt: vitamina B6
-    pt-br: vitamina B6
+    pt_br: vitamina B6
     ro: vitamina B6
     ru: витамин B6
     rw: vitamini B6
@@ -121,8 +121,8 @@ dv_has_:
     sk: vitamín B6
     sl: vitamin B6
     sr: витамин Б6
-    sr-ec: витамин Б6
-    sr-el: vitamin B6
+    sr_ec: витамин Б6
+    sr_el: vitamin B6
     ta: உயிர்ச்சத்து பி6
     th: วิตามินบี6
     tyv: витамин В6
@@ -132,12 +132,12 @@ dv_has_:
     vec: vitamina B6
     vi: vitamin B6
     zh: 维生素B6
-    zh-cn: 维生素B6
-    zh-hans: 维生素B6
-    zh-hant: 维生素B6
-    zh-hk: 维生素B6
-    zh-sg: 维生素B6
-    zh-tw: 维生素B6
+    zh_cn: 维生素B6
+    zh_hans: 维生素B6
+    zh_hant: 维生素B6
+    zh_hk: 维生素B6
+    zh_sg: 维生素B6
+    zh_tw: 维生素B6
 ---
 # [[Vitamin_B6]] 
 

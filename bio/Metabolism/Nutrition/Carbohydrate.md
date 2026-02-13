@@ -183,7 +183,7 @@ dv_has_:
     ban: Karbohidrat
     bcl: Carbohydrate
     be: вугляводы
-    be-tarask: вугляводы
+    be_tarask: вугляводы
     bg: Въглехидрат
     bn: শর্করা
     bs: ugljikohidrati
@@ -200,7 +200,7 @@ dv_has_:
     dv: ކާބޯހައިޑްރޭޓް
     el: υδατάνθρακες
     en: carbohydrate
-    en-gb: carbohydrate
+    en_gb: carbohydrate
     eo: karbonhidrato
     es: glúcido
     et: sahhariidid
@@ -251,7 +251,7 @@ dv_has_:
     ml: കാർബോഹൈഡ്രേറ്റ്
     mn: Нүүрс ус
     ms: karbohidrat
-    ms-arab: کربوهيدرت
+    ms_arab: کربوهيدرت
     my: ကာဗိုဟိုက်ဒရိတ်
     nan: Carbohydrate
     nb: karbohydrat
@@ -270,7 +270,7 @@ dv_has_:
     pnb: کاربوہائیڈریٹ
     ps: کاربوهایډرېټ
     pt: hidrato de carbono
-    pt-br: carboidrato
+    pt_br: carboidrato
     qu: K'illimsayaku
     rki: ကာဘိုဟိုက်ဒရိတ်
     ro: carbohidrat
@@ -291,7 +291,7 @@ dv_has_:
     sn: Carbohydrates
     sq: Karbohidratet
     sr: угљени хидрати
-    sr-ec: Угљени хидрат
+    sr_ec: Угљени хидрат
     su: Karbohidrat
     sv: kolhydrat
     sw: Hidrati kabonia

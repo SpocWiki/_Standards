@@ -88,7 +88,7 @@ dv_has_:
     ar: مجرة محدبة
     ast: Galaxa lenticular
     be: Лінзападобная галактыка
-    be-tarask: лінзападобная галяктыка
+    be_tarask: лінзападобная галяктыка
     bg: Лещовидна галактика
     bs: lećasta galaksija
     ca: galàxia lenticular
@@ -133,8 +133,8 @@ dv_has_:
     sk: šošovková galaxia
     sl: lečasta galaksija
     sr: лентикуларна галаксија
-    sr-ec: Лентикуларна галаксија
-    sr-el: Lentikularna galaksija
+    sr_ec: Лентикуларна галаксија
+    sr_el: Lentikularna galaksija
     sv: linsformad galax
     th: ดาราจักรชนิดลูกสะบ้า
     tr: Merceksi galaksi
@@ -144,12 +144,12 @@ dv_has_:
     wuu: 透镜状星系
     yue: 透鏡狀星系
     zh: 透鏡狀星系
-    zh-cn: 透镜状星系
-    zh-hans: 透镜状星系
-    zh-hant: 透鏡狀星系
-    zh-hk: 透鏡狀星系
-    zh-sg: 透镜状星系
-    zh-tw: 透鏡狀星系
+    zh_cn: 透镜状星系
+    zh_hans: 透镜状星系
+    zh_hant: 透鏡狀星系
+    zh_hk: 透鏡狀星系
+    zh_sg: 透镜状星系
+    zh_tw: 透鏡狀星系
     zu: Umthalakazi ogungubele
 ---
 # [[Lenticular_Galaxy]] 

@@ -72,7 +72,7 @@ dv_has_:
   name_:
     ar: فوهة
     ast: Estoma
-    be-tarask: прадушынка
+    be_tarask: прадушынка
     bg: Устица
     bn: পত্ররন্ধ্র
     bs: Stoma
@@ -105,7 +105,7 @@ dv_has_:
     kn: ಪತ್ರರಂಧ್ರ
     ko: 기공
     ku: stoma
-    ku-latn: stoma
+    ku_latn: stoma
     la: Stoma
     lt: žiotelė
     lv: atvārsnītes
@@ -134,12 +134,12 @@ dv_has_:
     wuu: 气孔
     yue: 氣窿
     zh: 气孔
-    zh-cn: 气孔
-    zh-hans: 气孔
-    zh-hant: 氣孔
-    zh-hk: 氣孔
-    zh-sg: 气孔
-    zh-tw: 氣孔
+    zh_cn: 气孔
+    zh_hans: 气孔
+    zh_hant: 氣孔
+    zh_hk: 氣孔
+    zh_sg: 气孔
+    zh_tw: 氣孔
 ---
 # [[Stomata]] 
 

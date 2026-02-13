@@ -151,7 +151,7 @@ dv_has_:
     ba: Мөлкәт (милек объекты)
     bcl: Pagrogaring
     be: маёмасць
-    be-tarask: маёмасьць
+    be_tarask: маёмасьць
     bg: Собственост
     bn: সম্পত্তি
     br: Perc'henniezh
@@ -162,11 +162,11 @@ dv_has_:
     cy: eiddo
     da: ejendom
     de: Eigentum
-    de-ch: Eigentum
+    de_ch: Eigentum
     el: περιουσία
     en: property
-    en-ca: Property
-    en-gb: property
+    en_ca: Property
+    en_gb: property
     eo: posedo
     es: propiedad
     et: omand
@@ -206,7 +206,7 @@ dv_has_:
     mn: Өмч
     mni: ꯃꯔꯜ
     ms: harta
-    ms-arab: هرتا
+    ms_arab: هرتا
     myv: Кедьсэаштиця
     nb: eiendom
     new: सम्पत्ति
@@ -216,7 +216,7 @@ dv_has_:
     pa: ਸੰਪੱਤੀ
     pl: własność
     pt: propriedade
-    pt-br: Propriedade
+    pt_br: Propriedade
     ro: proprietate
     ru: имущество
     scn: Pussidenti
@@ -225,8 +225,8 @@ dv_has_:
     so: Hantida
     sq: pronë
     sr: право својине
-    sr-ec: право својине
-    sr-el: pravo svojine
+    sr_ec: право својине
+    sr_el: pravo svojine
     sv: egendom
     sw: Mali (uchumi)
     ta: சொத்து
@@ -236,8 +236,8 @@ dv_has_:
     tl: ari-arian
     tr: mülk
     tt: милек
-    tt-cyrl: милек
-    tt-latn: mileq
+    tt_cyrl: милек
+    tt_latn: mileq
     uk: майно
     ur: جائیداد
     uz: Mulk
@@ -249,14 +249,14 @@ dv_has_:
     yo: ìní
     yue: 財產
     zh: 财产
-    zh-cn: 财产
-    zh-hans: 财产
-    zh-hant: 屬性
-    zh-hk: 財產
-    zh-mo: 財產
+    zh_cn: 财产
+    zh_hans: 财产
+    zh_hant: 屬性
+    zh_hk: 財產
+    zh_mo: 財產
     zh-my: 财产
-    zh-sg: 财产
-    zh-tw: 屬性
+    zh_sg: 财产
+    zh_tw: 屬性
     zu: Impahla
 ---
 # [[Property(Law)]] 

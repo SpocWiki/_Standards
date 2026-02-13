@@ -44,7 +44,7 @@ dv_has_:
     ar: ميقاع
     ast: vibráfonu
     be: Вібрафон
-    be-tarask: вібрафон
+    be_tarask: вібрафон
     bg: вибрафон
     ca: vibràfon
     cs: vibrafon
@@ -84,20 +84,20 @@ dv_has_:
     sh: Vibrafon
     sl: vibrafon
     sr: вибрафон
-    sr-ec: вибрафон
-    sr-el: Vibrafon
+    sr_ec: вибрафон
+    sr_el: Vibrafon
     sv: vibrafon
     tr: Vibrafon
     uk: Вібрафон
     uz: Vibrafon
     yue: 顫音琴
     zh: 颤音琴
-    zh-cn: 颤音琴
-    zh-hans: 颤音琴
-    zh-hant: 顫音琴
-    zh-hk: 顫音琴
-    zh-sg: 颤音琴
-    zh-tw: 顫音琴
+    zh_cn: 颤音琴
+    zh_hans: 颤音琴
+    zh_hant: 顫音琴
+    zh_hk: 顫音琴
+    zh_sg: 颤音琴
+    zh_tw: 顫音琴
 ---
 # [[Vibraphone]] 
 

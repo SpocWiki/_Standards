@@ -158,7 +158,7 @@ dv_has_:
     ast: Hugo Grotius
     az: Hüqo Qrotsi
     be: Гуга Гроцый
-    be-tarask: Гуга Гроцыюс
+    be_tarask: Гуга Гроцыюс
     bg: Хуго Гроций
     bn: হুগো গ্রোশিয়াস
     br: Hugo Grotius
@@ -192,11 +192,11 @@ dv_has_:
     jv: Hugo Grotius
     ka: ჰუგო გროციუსი
     kk: Гроций Гуго
-    kk-arab: گروتسىيي گۋگو
+    kk_arab: گروتسىيي گۋگو
     kk-cn: گروتسىيي گۋگو
-    kk-cyrl: Гроций Гуго
+    kk_cyrl: Гроций Гуго
     kk-kz: Гроций Гуго
-    kk-latn: Grocïý Gwgo
+    kk_latn: Grocïý Gwgo
     kk-tr: Grocïý Gwgo
     ko: 휘호 그로티우스
     ky: Гроций
@@ -216,7 +216,7 @@ dv_has_:
     pl: Hugo Grocjusz
     ps: هوګو ګروتيوس
     pt: Hugo Grócio
-    pt-br: Hugo Grócio
+    pt_br: Hugo Grócio
     ro: Hugo Grotius
     ru: Гуго Гроций
     sco: Hugo Grotius
@@ -225,8 +225,8 @@ dv_has_:
     sl: Hugo Grotius
     sq: Hugo Grotius
     sr: Hugo Grocije
-    sr-ec: Хуго Гроције
-    sr-el: Hugo Grocije
+    sr_ec: Хуго Гроције
+    sr_el: Hugo Grocije
     stq: Hugo de Groot
     sv: Hugo Grotius
     th: ฮือโค เดอ โครต
@@ -242,12 +242,12 @@ dv_has_:
     yo: Hugo Grotius
     yue: 格老秀斯
     zh: 胡果·格老秀斯
-    zh-cn: 胡果·格老秀斯
-    zh-hans: 胡果·格老秀斯
-    zh-hant: 胡果·格老秀斯
-    zh-hk: 胡果·格老秀斯
-    zh-sg: 胡果·格老秀斯
-    zh-tw: 胡果·格老秀斯
+    zh_cn: 胡果·格老秀斯
+    zh_hans: 胡果·格老秀斯
+    zh_hant: 胡果·格老秀斯
+    zh_hk: 胡果·格老秀斯
+    zh_sg: 胡果·格老秀斯
+    zh_tw: 胡果·格老秀斯
 ---
 # [[Grotius,Hugo]] 
 

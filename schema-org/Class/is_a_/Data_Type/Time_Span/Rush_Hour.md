@@ -74,7 +74,7 @@ dv_has_:
     ar: ساعة الذروة
     ast: Hora punta
     az: Pik saat
-    be-tarask: сама розрух
+    be_tarask: сама розрух
     bn: ভিড়ের সময়
     ca: hora punta
     cs: Dopravní špička
@@ -117,11 +117,11 @@ dv_has_:
     vi: Giờ cao điểm
     yue: 繁忙時間
     zh: 繁忙時間
-    zh-hans: 繁忙时段
-    zh-hant: 繁忙時間
-    zh-hk: 繁忙時間
+    zh_hans: 繁忙时段
+    zh_hant: 繁忙時間
+    zh_hk: 繁忙時間
     zh-my: 繁忙时间
-    zh-sg: 繁忙时间
+    zh_sg: 繁忙时间
 ---
 # [[Rush_Hour]] 
 

@@ -63,7 +63,7 @@ dv_has_:
     az: Tarot
     azb: تاروت
     be: Карты Таро
-    be-tarask: таро
+    be_tarask: таро
     bg: Таро
     bn: ট্যারোট
     br: Tarod
@@ -74,8 +74,8 @@ dv_has_:
     de: Tarock
     el: Ταρώ
     en: tarot deck
-    en-ca: Tarot
-    en-gb: Tarot
+    en_ca: Tarot
+    en_gb: Tarot
     eo: tarokoj
     es: tarot
     et: Taro
@@ -116,7 +116,7 @@ dv_has_:
     pl: tarot
     pms: Taròch
     pt: tarô
-    pt-br: tarô
+    pt_br: tarô
     ro: Tarot
     ru: таро
     sh: Tarot
@@ -124,7 +124,7 @@ dv_has_:
     sl: tarot
     sq: Letrat Tarot
     sr: тарот
-    sr-ec: тарот
+    sr_ec: тарот
     sv: tarot
     th: ไพ่ทาโรต์
     tl: Tarot
@@ -136,7 +136,7 @@ dv_has_:
     wuu: 塔罗牌
     yue: 塔羅牌
     zh: 塔羅牌
-    zh-hant: 塔羅牌
+    zh_hant: 塔羅牌
 ---
 # [[Tarot]] 
 

@@ -66,7 +66,7 @@ dv_has_:
     ar: منطة
     ast: cama elástica
     ba: Батут
-    be-tarask: батут
+    be_tarask: батут
     bg: Батут
     ca: llit elàstic
     cs: trampolína
@@ -91,11 +91,11 @@ dv_has_:
     it: trampolino
     ja: トランポリン
     kk: Серіппе
-    kk-arab: سەرىپپە
+    kk_arab: سەرىپپە
     kk-cn: سەرىپپە
-    kk-cyrl: Серіппе
+    kk_cyrl: Серіппе
     kk-kz: Серіппе
-    kk-latn: Serippe
+    kk_latn: Serippe
     kk-tr: Serippe
     ko: 트램펄린
     ky: Батут
@@ -121,12 +121,12 @@ dv_has_:
     vi: Giàn nhún
     yue: 彈床
     zh: 蹦床
-    zh-cn: 蹦床
-    zh-hans: 蹦床
-    zh-hant: 蹦床
-    zh-hk: 彈牀
-    zh-sg: 蹦床
-    zh-tw: 彈翻床
+    zh_cn: 蹦床
+    zh_hans: 蹦床
+    zh_hant: 蹦床
+    zh_hk: 彈牀
+    zh_sg: 蹦床
+    zh_tw: 彈翻床
 ---
 # [[Trampoline]] 
 

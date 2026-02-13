@@ -3,7 +3,7 @@ has_id_wikidata: Q181551
 dv_has_:
   name_:
     ar: خوارزمية آر إس إيه
-    be-tarask: RSA
+    be_tarask: RSA
     bg: RSA
     bn: আরএসএ গুপ্তবিদ্যা
     bs: RSA
@@ -11,11 +11,11 @@ dv_has_:
     cs: RSA
     da: RSA
     de: RSA
-    de-ch: RSA-Kryptosystem
+    de_ch: RSA-Kryptosystem
     el: RSA
     en: RSA
-    en-ca: RSA
-    en-gb: RSA
+    en_ca: RSA
+    en_gb: RSA
     eo: RSA
     es: RSA
     et: RSA
@@ -45,14 +45,14 @@ dv_has_:
     nl: RSA
     pl: RSA
     pt: RSA
-    pt-br: RSA
+    pt_br: RSA
     qu: RSA (ukhulli qillqay)
     ro: RSA
     ru: RSA
     sl: RSA
     sr: RSA
-    sr-ec: РСА
-    sr-el: RSA
+    sr_ec: РСА
+    sr_el: RSA
     sv: RSA
     th: อาร์เอสเอ
     tr: RSA
@@ -60,11 +60,11 @@ dv_has_:
     vi: RSA
     yue: RSA 密碼系統
     zh: 李萨阿算法
-    zh-hans: RSA加密演算法
-    zh-hant: RSA加密演算法
-    zh-hk: RSA加密演算法
-    zh-sg: RSA加密演算法
-    zh-tw: RSA加密演算法
+    zh_hans: RSA加密演算法
+    zh_hant: RSA加密演算法
+    zh_hk: RSA加密演算法
+    zh_sg: RSA加密演算法
+    zh_tw: RSA加密演算法
 aliases:
 - Chiffrement RSA
 - RSA

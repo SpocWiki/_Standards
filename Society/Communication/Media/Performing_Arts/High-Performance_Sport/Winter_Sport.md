@@ -88,7 +88,7 @@ dv_has_:
     az: Qış idman növləri
     ba: ҡышҡы спорт төрҙәре
     be: зімовыя віды спорту
-    be-tarask: зімовы від спорту
+    be_tarask: зімовы від спорту
     bg: Зимен спорт
     bn: শীতকালীন ক্রীড়া
     ca: esports d'hivern
@@ -99,8 +99,8 @@ dv_has_:
     diq: Sporê zımıstani
     el: χειμερινό άθλημα
     en: winter sport
-    en-ca: winter sport
-    en-gb: winter sport
+    en_ca: winter sport
+    en_gb: winter sport
     eo: vintra sporto
     es: deporte de invierno
     et: talisport
@@ -134,7 +134,7 @@ dv_has_:
     nn: vinteridrett
     pl: sport zimowy
     pt: desporto de inverno
-    pt-br: esporte de inverno
+    pt_br: esporte de inverno
     ro: sport de iarnă
     ru: зимние виды спорта
     sh: zimski sport
@@ -143,24 +143,24 @@ dv_has_:
     sms: täʹlvvsportt
     sq: Sportet dimërore
     sr: зимски спорт
-    sr-ec: зимски спорт
-    sr-el: zimski sport
+    sr_ec: зимски спорт
+    sr_el: zimski sport
     sv: vintersport
     th: กีฬาฤดูหนาว
     tr: Kış sporları
     tt: кышкы спорт төре
-    tt-cyrl: кышкы спорт төре
+    tt_cyrl: кышкы спорт төре
     uk: зимові види спорту
     uz: Qishki sport turlari
     vi: thể thao mùa đông
     yue: 冬季運動
     zh: 冬季運動
-    zh-cn: 冬季运动
-    zh-hans: 冬季运动
-    zh-hant: 冬季運動
-    zh-hk: 冬季運動
-    zh-sg: 冬季运动
-    zh-tw: 冬季運動
+    zh_cn: 冬季运动
+    zh_hans: 冬季运动
+    zh_hant: 冬季運動
+    zh_hk: 冬季運動
+    zh_sg: 冬季运动
+    zh_tw: 冬季運動
 ---
 # [[Winter_Sport]] 
 

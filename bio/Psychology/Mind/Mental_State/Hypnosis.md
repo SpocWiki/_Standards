@@ -95,7 +95,7 @@ dv_has_:
     azb: هیپنوتیسم
     ban: Hipnosis
     be: Гіпноз
-    be-tarask: Гіпноз
+    be_tarask: Гіпноз
     bg: Хипноза
     bn: সম্মোহন
     bs: Hipnoza
@@ -105,11 +105,11 @@ dv_has_:
     cy: Hypnosis
     da: hypnose
     de: Hypnose
-    de-ch: Hypnose
+    de_ch: Hypnose
     el: ύπνωση
     en: hypnosis
-    en-ca: Hypnosis
-    en-gb: hypnosis
+    en_ca: Hypnosis
+    en_gb: hypnosis
     eo: hipnoto
     es: hipnosis
     et: hüpnoos
@@ -148,7 +148,7 @@ dv_has_:
     oc: ipnòsi
     pl: hipnoza
     pt: hipnose
-    pt-br: Hipnose
+    pt_br: Hipnose
     rki: စိတ်ညှို့ပညာ
     ro: hipnoză
     ru: гипноз
@@ -163,7 +163,7 @@ dv_has_:
     sms: hypnoos
     sq: hipnoza
     sr: хипноза
-    sr-ec: хипноза
+    sr_ec: хипноза
     sv: hypnos
     ta: அறிதுயில் நிலை
     te: హిప్నాటిజం
@@ -177,9 +177,9 @@ dv_has_:
     yi: היפנאזיע
     yue: 催眠
     zh: 催眠
-    zh-cn: 催眠
-    zh-hans: 催眠
-    zh-hant: 催眠
+    zh_cn: 催眠
+    zh_hans: 催眠
+    zh_hant: 催眠
 ---
 # [[Hypnosis]] 
 

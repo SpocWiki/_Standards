@@ -58,15 +58,15 @@ dv_has_:
   name_:
     ar: قطاع تعليم ثالث
     arz: التعليم العالى
-    be-tarask: трацічная адукацыя
+    be_tarask: трацічная адукацыя
     ca: educació terciària
     cs: terciární vzdělávání
     da: tertiær uddannelse
     de: tertiärer Bildungsbereich
     el: τριτοβάθμια εκπαίδευση
     en: tertiary education
-    en-ca: Tertiary education
-    en-gb: tertiary education
+    en_ca: Tertiary education
+    en_gb: tertiary education
     eo: triaranga edukado
     es: educación terciaria
     et: kolmanda taseme haridus
@@ -96,25 +96,25 @@ dv_has_:
     sms: õlltääʹzz škooultõs
     sq: arsim terciar
     sr: високо образовање
-    sr-ec: високо образовање
-    sr-el: visoko obrazovanje
+    sr_ec: високо образовање
+    sr_el: visoko obrazovanje
     sv: eftergymnasial utbildning
     ta: மூன்றாம் நிலைக் கல்வி
     th: อุดมศึกษา
     tr: Yükseköğretim
     tt: өченчел белем бирү
-    tt-cyrl: өченчел белем бирү
+    tt_cyrl: өченчел белем бирү
     uk: третична освіта
     ur: ثلاثی تعلیم
     uz: oliy taʼlim
     vi: giáo dục đại học – cao đẳng
     yo: ẹ̀kọ́ gíga
     zh: 第三期教育
-    zh-cn: 第三期教育
-    zh-hans: 第三期教育
-    zh-hant: 第三期教育
-    zh-hk: 第三期教育
-    zh-tw: 第三期教育
+    zh_cn: 第三期教育
+    zh_hans: 第三期教育
+    zh_hant: 第三期教育
+    zh_hk: 第三期教育
+    zh_tw: 第三期教育
     zu: imfundo ephakeme
 ---
 # [[Tertiary_Education]] 

@@ -163,7 +163,7 @@ dv_has_:
     ba: Йоһанн Гутенберг
     bar: Johannes Gutenberg
     be: Ёган Гутэнберг
-    be-tarask: Ёган Гутэнбэрг
+    be_tarask: Ёган Гутэнбэрг
     bg: Йоханес Гутенберг
     blk: ဇျိုဟန်နဲက်သ ဂူတဲန်ဘက်
     bn: ইয়োহানেস গুটেনবের্গ
@@ -184,8 +184,8 @@ dv_has_:
     diq: Johannes Gutenberg
     el: Γουτεμβέργιος
     en: Johannes Gutenberg
-    en-ca: Johannes Gutenberg
-    en-gb: Johannes Gutenberg
+    en_ca: Johannes Gutenberg
+    en_gb: Johannes Gutenberg
     eo: Johannes Gutenberg
     es: Johannes Gutenberg
     et: Johannes Gutenberg
@@ -268,7 +268,7 @@ dv_has_:
     pnb: جوہانز گٹنبرگ
     ps: یوهانس ګوتنبرګ
     pt: Johannes Gutenberg
-    pt-br: Johannes Gutenberg
+    pt_br: Johannes Gutenberg
     qu: Johannes Gutenberg
     rm: Johannes Gutenberg
     ro: Johannes Gutenberg
@@ -287,7 +287,7 @@ dv_has_:
     sl: Johannes Gutenberg
     sq: Johannes Gutenberg
     sr: Јохан Гутенберг
-    sr-ec: Јохан Гутенберг
+    sr_ec: Јохан Гутенберг
     sv: Johannes Gutenberg
     sw: Johannes Gutenberg
     szl: Johannes Gutenberg
@@ -313,9 +313,9 @@ dv_has_:
     yi: יאהאן גוטנבערג
     yue: 古騰堡
     zh: 约翰内斯·谷登堡
-    zh-cn: 约翰内斯·谷登堡
-    zh-hans: 约翰内斯·谷登堡
-    zh-hant: 约翰内斯·谷登堡
+    zh_cn: 约翰内斯·谷登堡
+    zh_hans: 约翰内斯·谷登堡
+    zh_hant: 约翰内斯·谷登堡
 ---
 # [[Gutenberg,Johannes]] 
 

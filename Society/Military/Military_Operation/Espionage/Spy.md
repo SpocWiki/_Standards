@@ -118,7 +118,7 @@ dv_has_:
     ast: espía
     az: casus
     be: разведчык
-    be-tarask: шпіён
+    be_tarask: шпіён
     br: spier
     bs: špijun
     ca: espia
@@ -180,8 +180,8 @@ dv_has_:
     sk: špión
     sl: vohun
     sr: шпијун
-    sr-ec: шпијун
-    sr-el: špijun
+    sr_ec: шпијун
+    sr_el: špijun
     sv: spion
     tg: ҷосус
     tr: ajan
@@ -193,9 +193,9 @@ dv_has_:
     vo: lükan
     yi: שפיאן
     zh: 間諜
-    zh-hans: 间谍
-    zh-hant: 間諜
-    zh-tw: 間諜
+    zh_hans: 间谍
+    zh_hant: 間諜
+    zh_tw: 間諜
 ---
 # [[Spy]] 🕵️ 
 

@@ -128,7 +128,7 @@ dv_has_:
     az: Benilüks
     ba: Бенилюкс
     be: Бенілюкс
-    be-tarask: Бэнілюкс
+    be_tarask: Бэнілюкс
     bg: Бенелюкс
     bn: বেনেলাক্স ইউনিয়ন
     br: Beneluks
@@ -139,12 +139,12 @@ dv_has_:
     cy: Benelux
     da: Benelux
     de: Benelux
-    de-ch: Benelux
+    de_ch: Benelux
     diq: Beneluks
     el: Μπενελούξ
     en: Benelux
-    en-ca: Benelux
-    en-gb: Benelux
+    en_ca: Benelux
+    en_gb: Benelux
     eo: Benelukso
     es: Benelux
     et: Benelux
@@ -194,7 +194,7 @@ dv_has_:
     pl: Benelux
     pnb: بینیلکس
     pt: Benelux
-    pt-br: Benelux
+    pt_br: Benelux
     ro: Benelux
     ru: Бенилюкс
     sd: بينيلڪس
@@ -222,8 +222,8 @@ dv_has_:
     yue: 比荷盧聯盟
     zea: Benelux
     zh: 比荷盧聯盟
-    zh-hans: 比荷卢联盟
-    zh-hant: 比荷盧聯盟
+    zh_hans: 比荷卢联盟
+    zh_hant: 比荷盧聯盟
 ---
 # [[Benelux]] 
 

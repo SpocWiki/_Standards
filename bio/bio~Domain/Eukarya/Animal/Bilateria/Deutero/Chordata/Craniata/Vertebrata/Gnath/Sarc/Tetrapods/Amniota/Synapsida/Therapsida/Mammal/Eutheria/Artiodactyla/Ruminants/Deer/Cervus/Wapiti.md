@@ -107,7 +107,7 @@ dv_has_:
     ban: Elk
     bar: Cervus canadensis
     be: Вапіці
-    be-tarask: алень канадзкі
+    be_tarask: алень канадзкі
     bg: уапити
     bo: ཤྭ་བ་རྔ་རིང་།
     br: Wapiti
@@ -146,11 +146,11 @@ dv_has_:
     ja: アメリカアカシカ
     jv: Elk
     kk: Вапити
-    kk-arab: ۆاپىيتىي
+    kk_arab: ۆاپىيتىي
     kk-cn: ۆاپىيتىي
-    kk-cyrl: Вапити
+    kk_cyrl: Вапити
     kk-kz: Вапити
-    kk-latn: Vapïtï
+    kk_latn: Vapïtï
     kk-tr: Vapïtï
     ko: 와피티사슴
     la: Cervus canadensis
@@ -168,7 +168,7 @@ dv_has_:
     pl: jeleń kanadyjski
     pnb: ایلک
     pt: Uapiti
-    pt-br: Cervus canadensis
+    pt_br: Cervus canadensis
     qu: Wapiti
     ro: Cervus canadensis
     ru: Вапити
@@ -179,8 +179,8 @@ dv_has_:
     smn: vaapiit
     sq: Cervus canadensis
     sr: вапити
-    sr-ec: Вапити
-    sr-el: Vapiti
+    sr_ec: Вапити
+    sr_el: Vapiti
     sv: vapiti
     sw: Wapiti
     ta: காட்டுமான்
@@ -196,12 +196,12 @@ dv_has_:
     yi: וואפיטי
     yue: 加拿大馬鹿
     zh: 加拿大馬鹿
-    zh-cn: 加拿大马鹿
-    zh-hans: 加拿大马鹿
-    zh-hant: 加拿大馬鹿
-    zh-hk: 加拿大馬鹿
-    zh-sg: 加拿大马鹿
-    zh-tw: 加拿大馬鹿
+    zh_cn: 加拿大马鹿
+    zh_hans: 加拿大马鹿
+    zh_hant: 加拿大馬鹿
+    zh_hk: 加拿大馬鹿
+    zh_sg: 加拿大马鹿
+    zh_tw: 加拿大馬鹿
 ---
 # [[Wapiti]] 
 

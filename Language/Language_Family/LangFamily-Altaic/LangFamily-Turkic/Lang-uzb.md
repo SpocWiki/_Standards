@@ -219,7 +219,7 @@ dv_has_:
   name_:
     ab: Ауазбақь бызшәа
     ady: Узбекыбзэ
-    aeb-arab: الأوزبكي
+    aeb_arab: الأوزبكي
     af: Oesbekies
     am: ዑዝበክኛ
     ar: الأوزبكية
@@ -231,7 +231,7 @@ dv_has_:
     azb: اؤزبک تورکجهسی
     ba: Үҙбәк теле
     be: узбекская мова
-    be-tarask: узбэцкая мова
+    be_tarask: узбэцкая мова
     bg: узбекски език
     bn: উজবেক ভাষা
     br: ouzbekeg
@@ -240,7 +240,7 @@ dv_has_:
     ce: Узбекийн мотт
     ckb: زمانی ئۆزبەکی
     crh: Özbek tili
-    crh-latn: Özbek tili
+    crh_latn: Özbek tili
     cs: uzbečtina
     cv: Узбек чĕлхи
     cy: Wsbeceg
@@ -248,8 +248,8 @@ dv_has_:
     de: Usbekisch
     el: Ουζμπεκική γλώσσα
     en: Uzbek
-    en-ca: Uzbek
-    en-gb: Uzbek
+    en_ca: Uzbek
+    en_gb: Uzbek
     en-us: Uzbek
     eo: uzbeka lingvo
     es: uzbeko
@@ -290,7 +290,7 @@ dv_has_:
     krc: Юзбек тил
     ks: اُزبیک زَبان
     ku: zimanê ûzbêkî
-    ku-latn: zimanê ûzbêkî
+    ku_latn: zimanê ûzbêkî
     kv: Узбек кыв
     ky: Өзбек тили
     la: lingua Uzbecica
@@ -323,7 +323,7 @@ dv_has_:
     pnb: ازبکی
     ps: اوزبکي ژبه
     pt: língua uzbeque
-    pt-br: língua uzbeque
+    pt_br: língua uzbeque
     qu: Usbik simi
     ro: limba uzbecă
     ru: узбекский язык
@@ -339,28 +339,28 @@ dv_has_:
     smn: uzbekkielâ
     sms: uzbekk-ǩiõll
     sr: узбечки језик
-    sr-ec: узбечки језик
-    sr-el: uzbečki jezik
+    sr_ec: узбечки језик
+    sr_el: uzbečki jezik
     sv: uzbekiska
     sw: Kiuzbeki
     szl: Uzbeckŏ gŏdka
     ta: உசுபேகிய மொழி
     tg: забони узбекӣ
-    tg-cyrl: забони ӯзбекӣ
-    tg-latn: zaboni ūzbekī
+    tg_cyrl: забони ӯзбекӣ
+    tg_latn: zaboni ūzbekī
     th: ภาษาอุซเบก
     tk: Özbek dili
     tl: Wikang Usbeko
     tok: toki Opeki
     tr: Özbekçe
     tt: үзбәк теле
-    tt-cyrl: үзбәк теле
+    tt_cyrl: үзбәк теле
     udm: Узбек кыл
     ug: ئۆزبېك تىلى
     uk: узбецька мова
     ur: ازبک زبان
     uz: Oʻzbek tili
-    uz-cyrl: Ўзбек тили
+    uz_cyrl: Ўзбек тили
     vec: uzbego
     vi: tiếng Uzbek
     vo: Lusbekänapük
@@ -369,14 +369,14 @@ dv_has_:
     yue: 月即別話
     za: Vahvuhswhbiedkez
     zh: 乌兹别克语
-    zh-cn: 乌孜别克语
-    zh-hans: 乌孜别克语
-    zh-hant: 烏孜別克語
-    zh-hk: 烏孜別克語
-    zh-mo: 烏孜別克語
+    zh_cn: 乌孜别克语
+    zh_hans: 乌孜别克语
+    zh_hant: 烏孜別克語
+    zh_hk: 烏孜別克語
+    zh_mo: 烏孜別克語
     zh-my: 乌孜别克语
-    zh-sg: 乌孜别克语
-    zh-tw: 烏茲別克語
+    zh_sg: 乌孜别克语
+    zh_tw: 烏茲別克語
     zu: isi-Uzbek
 ---
 # [[Lang-uzb]]  

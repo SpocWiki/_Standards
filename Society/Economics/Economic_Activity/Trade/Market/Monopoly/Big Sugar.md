@@ -89,8 +89,8 @@ dv_has_:
     sl: industrija sladkorja
     sq: industri sheqeri
     sr: индустрија шећера
-    sr-ec: индустрија шећера
-    sr-el: industrija šećera
+    sr_ec: индустрија шећера
+    sr_el: industrija šećera
     sv: sockerindustri
     te: sugar industry
     uk: цукрова промисловість

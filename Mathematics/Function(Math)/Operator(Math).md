@@ -27,7 +27,7 @@ dv_has_:
     ar: مؤثر
     ast: operador
     be: аператар
-    be-tarask: апэратар
+    be_tarask: апэратар
     ca: operador
     da: operator
     de: Operator
@@ -47,7 +47,7 @@ dv_has_:
     nn: operator
     pl: operator
     pt: operador
-    pt-br: operador
+    pt_br: operador
     ru: оператор
     sl: operator
     sr: оператор
@@ -55,7 +55,7 @@ dv_has_:
     uk: оператор
     vi: toán tử
     zh: 运算符
-    zh-hans: 运算符
+    zh_hans: 运算符
 ---
 # [[Operator(Math)]] 
 

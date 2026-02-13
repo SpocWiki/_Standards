@@ -96,7 +96,7 @@ dv_has_:
     ar: طاقة داخلية
     ast: enerxía interno
     be: унутраная энергія
-    be-tarask: нутраная энэргія
+    be_tarask: нутраная энэргія
     bg: Вътрешна енергия
     bn: অভ্যন্তরীণ শক্তি
     bs: Unutrašnja energija
@@ -127,11 +127,11 @@ dv_has_:
     it: energia interna
     ja: 内部エネルギー
     kk: Ішкі энергия
-    kk-arab: ىشكى ەنەرگىييا
+    kk_arab: ىشكى ەنەرگىييا
     kk-cn: ىشكى ەنەرگىييا
-    kk-cyrl: Ішкі энергия
+    kk_cyrl: Ішкі энергия
     kk-kz: Ішкі энергия
-    kk-latn: İşki énergïya
+    kk_latn: İşki énergïya
     kk-tr: İşki énergïya
     ko: 내부 에너지
     ky: ички энергия
@@ -168,12 +168,12 @@ dv_has_:
     wuu: 内能
     yue: 內能
     zh: 内能
-    zh-cn: 内能
-    zh-hans: 内能
-    zh-hant: 內能
-    zh-hk: 內能
-    zh-sg: 内能
-    zh-tw: 內能
+    zh_cn: 内能
+    zh_hans: 内能
+    zh_hant: 內能
+    zh_hk: 內能
+    zh_sg: 内能
+    zh_tw: 內能
 ---
 # [[Internal_Energy]] 
 

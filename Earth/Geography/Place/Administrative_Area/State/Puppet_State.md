@@ -120,7 +120,7 @@ dv_has_:
     ast: Gobiernu títere
     az: kukla dövlət
     be: марыянеткавая дзяржава
-    be-tarask: марыянэткавая дзяржава
+    be_tarask: марыянэткавая дзяржава
     bg: Марионетна държава
     bn: তাঁবেদার রাষ্ট্র
     br: Stad margodenn
@@ -176,7 +176,7 @@ dv_has_:
     pl: rząd marionetkowy
     pnb: کٹھ پتلی ریاست
     pt: Estado-fantoche
-    pt-br: Estado-fantoche
+    pt_br: Estado-fantoche
     ro: stat marionetă
     ru: марионеточное государство
     sc: Istadu buatone
@@ -186,8 +186,8 @@ dv_has_:
     sl: marionetna država
     sq: Shteti kukull
     sr: марионетска држава
-    sr-ec: марионетска држава
-    sr-el: marionetska država
+    sr_ec: марионетска држава
+    sr_el: marionetska država
     sv: vasallstat
     th: รัฐหุ่นเชิด
     tl: papet na estado
@@ -200,12 +200,12 @@ dv_has_:
     xmf: მარიონეტული სახენწჷფო
     yue: 傀儡政府
     zh: 傀儡政權
-    zh-cn: 傀儡政权
-    zh-hans: 傀儡政权
-    zh-hant: 傀儡政權
-    zh-hk: 傀儡政權
-    zh-sg: 傀儡政权
-    zh-tw: 傀儡政權
+    zh_cn: 傀儡政权
+    zh_hans: 傀儡政权
+    zh_hant: 傀儡政權
+    zh_hk: 傀儡政權
+    zh_sg: 傀儡政权
+    zh_tw: 傀儡政權
 ---
 # [[Puppet_State]] 
 

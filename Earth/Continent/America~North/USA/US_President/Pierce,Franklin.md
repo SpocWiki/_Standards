@@ -76,7 +76,7 @@ dv_has_:
     bar: Franklin Pierce
     bcl: Franklin Pierce
     be: Франклін Пірс
-    be-tarask: Франклін Пірс
+    be_tarask: Франклін Пірс
     bg: Франклин Пиърс
     bi: Franklin Pierce
     bn: ফ্রাংকলিন পিয়ের্স
@@ -98,8 +98,8 @@ dv_has_:
     dv: ފްރެންކްލިން ޕިއަރސް
     el: Φράνκλιν Πιρς
     en: Franklin Pierce
-    en-ca: Franklin Pierce
-    en-gb: Franklin Pierce
+    en_ca: Franklin Pierce
+    en_gb: Franklin Pierce
     eo: Franklin Pierce
     es: Franklin Pierce
     et: Franklin Pierce
@@ -172,7 +172,7 @@ dv_has_:
     pnb: فرینکلن پیئرس
     ps: فرانکلین پییرس
     pt: Franklin Pierce
-    pt-br: Franklin Pierce
+    pt_br: Franklin Pierce
     rm: Franklin Pierce
     rmf: Franklin Pierce
     ro: Franklin Pierce
@@ -200,7 +200,7 @@ dv_has_:
     tn: Franklin Pierce
     tr: Franklin Pierce
     tt: Фрәңлин Пирс
-    tt-cyrl: Фрәңлин Пирс
+    tt_cyrl: Фрәңлин Пирс
     tum: Franklin Pierce
     ug: فرانكلىن پىئېرس
     uk: Франклін Пірс

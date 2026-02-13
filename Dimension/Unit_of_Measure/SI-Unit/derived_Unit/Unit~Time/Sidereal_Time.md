@@ -5,7 +5,7 @@ dv_has_:
     ar: وقت فلكي
     ast: tiempu sidéreo
     az: ulduz sutkası
-    be-tarask: зорны час
+    be_tarask: зорны час
     bg: звезден ден
     bho: नाक्षत्र समय
     bn: নক্ষত্র সময়
@@ -14,8 +14,8 @@ dv_has_:
     cy: amser y sêr
     de: Sternzeit
     en: sidereal time
-    en-ca: Sidereal time
-    en-gb: Sidereal time
+    en_ca: Sidereal time
+    en_gb: Sidereal time
     eo: sidera tempo
     es: tiempo sidéreo
     eu: denbora sideral
@@ -34,11 +34,11 @@ dv_has_:
     it: tempo siderale
     ja: 恒星時
     kk: жұлдыздық уақыт
-    kk-arab: جۇلدىزدىق ۋاقىت
+    kk_arab: جۇلدىزدىق ۋاقىت
     kk-cn: جۇلدىزدىق ۋاقىت
-    kk-cyrl: жұлдыздық уақыт
+    kk_cyrl: жұлдыздық уақыт
     kk-kz: жұлдыздық уақыт
-    kk-latn: juldızdıq waqıt
+    kk_latn: juldızdıq waqıt
     kk-tr: juldızdıq waqıt
     ko: 항성시
     la: dies sideralis
@@ -54,15 +54,15 @@ dv_has_:
     pl: czas gwiazdowy
     pms: temp sideral
     pt: tempo sideral
-    pt-br: Tempo sideral
+    pt_br: Tempo sideral
     ro: timp sideral
     ru: звёздное время
     sh: sideričko vrijeme
     sk: hviezdny čas
     sl: siderski čas
     sr: звездано време
-    sr-ec: звездано време
-    sr-el: zvezdano vreme
+    sr_ec: звездано време
+    sr_el: zvezdano vreme
     sv: stjärntid
     sw: siku ya nyota
     th: เวลาดาราคติ
@@ -72,12 +72,12 @@ dv_has_:
     vi: thời gian thiên văn
     yue: 恆星時
     zh: 恒星时
-    zh-cn: 恒星时
-    zh-hans: 恒星时
-    zh-hant: 恆星時
-    zh-hk: 恆星時
-    zh-sg: 恒星时
-    zh-tw: 恆星時
+    zh_cn: 恒星时
+    zh_hans: 恒星时
+    zh_hant: 恆星時
+    zh_hk: 恆星時
+    zh_sg: 恒星时
+    zh_tw: 恆星時
 aliases:
 - amser y sêr
 - czas gwiazdowy

@@ -179,7 +179,7 @@ dv_has_:
     azb: جوزف جان تامسون
     ban: J. J. Thomson
     be: Джозеф Джон Томсан
-    be-tarask: Джозэф Джон Томсан
+    be_tarask: Джозэф Джон Томсан
     bg: Джоузеф Джон Томсън
     bn: জে জে থমসন
     br: Joseph John Thomson
@@ -248,7 +248,7 @@ dv_has_:
     pms: Joseph John Thomson
     pnb: جے جے تھامسن
     pt: Joseph John Thomson
-    pt-br: Joseph John Thomson
+    pt_br: Joseph John Thomson
     qu: Joseph John Thomson
     ro: Joseph John Thomson
     ru: Джозеф Джон Томсон
@@ -261,7 +261,7 @@ dv_has_:
     sl: Joseph John Thomson
     sq: Joseph John Thomson
     sr: Џозеф Џон Томсон
-    sr-ec: Џозеф Џон Томсон
+    sr_ec: Џозеф Џон Томсон
     sv: J.J. Thomson
     sw: Joseph John Thomson
     ta: ஜெ. ஜெ. தாம்சன்
@@ -270,7 +270,7 @@ dv_has_:
     tl: J. J. Thomson
     tr: J. J. Thomson
     tt: Җозеф Җон Томсон
-    tt-latn: Cozef Con Tomson
+    tt_latn: Cozef Con Tomson
     uk: Джозеф Джон Томсон
     ur: جے جے تھامسن
     uz: J. J. Thomson
@@ -282,7 +282,7 @@ dv_has_:
     yo: J. J. Thomson
     yue: 祖些夫·湯臣
     zh: J·J·汤姆孙
-    zh-tw: J·J·湯木生
+    zh_tw: J·J·湯木生
 ---
 # [[Thomson,J.J.]] 
 

@@ -219,7 +219,7 @@ dv_has_:
     azb: بنجامین فرانکلین
     ba: Бенджамин Франклин
     be: Бенджамін Франклін
-    be-tarask: Бэнджамін Франклін
+    be_tarask: Бэнджамін Франклін
     bg: Бенджамин Франклин
     bi: Benjamin Franklin
     bn: বেঞ্জামিন ফ্রাঙ্কলিন
@@ -236,12 +236,12 @@ dv_has_:
     da: Benjamin Franklin
     dag: Benjamin Franklin
     de: Benjamin Franklin
-    de-ch: Benjamin Franklin
+    de_ch: Benjamin Franklin
     diq: Benjamin Franklin
     el: Βενιαμίν Φραγκλίνος
     en: Benjamin Franklin
-    en-ca: Benjamin Franklin
-    en-gb: Benjamin Franklin
+    en_ca: Benjamin Franklin
+    en_gb: Benjamin Franklin
     eo: Benjamin Franklin
     es: Benjamin Franklin
     et: Benjamin Franklin
@@ -300,7 +300,7 @@ dv_has_:
     nan: Benjamin Franklin
     nb: Benjamin Franklin
     nds: Benjamin Franklin
-    nds-nl: Benjamin Franklin
+    nds_nl: Benjamin Franklin
     ne: बेन्जामिन फ्र्याङ्कलिन
     new: बेन्जामिन फ्र्याङ्कलिन
     nl: Benjamin Franklin
@@ -315,7 +315,7 @@ dv_has_:
     pnb: بنجمن فرینکلن
     ps: بنجامين فرانکلين
     pt: Benjamin Franklin
-    pt-br: Benjamin Franklin
+    pt_br: Benjamin Franklin
     qu: Benjamin Franklin
     ro: Benjamin Franklin
     ru: Бенджамин Франклин
@@ -328,7 +328,7 @@ dv_has_:
     sl: Benjamin Franklin
     sq: Benjamin Franklin
     sr: Бенџамин Френклин
-    sr-ec: Бенџамин Френклин
+    sr_ec: Бенџамин Френклин
     sv: Benjamin Franklin
     sw: Benjamin Franklin
     ta: பெஞ்சமின் பிராங்கிளின்
@@ -358,9 +358,9 @@ dv_has_:
     yue: 富蘭克林
     za: Benjamin Franklin
     zh: 本傑明·富蘭克林
-    zh-cn: 本杰明·富兰克林
-    zh-hant: 班傑明·富蘭克林
-    zh-hk: 班哲文·富蘭克林
+    zh_cn: 本杰明·富兰克林
+    zh_hant: 班傑明·富蘭克林
+    zh_hk: 班哲文·富蘭克林
 ---
 # [[Franklin,Benjamin]] 
 

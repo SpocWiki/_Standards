@@ -86,7 +86,7 @@ dv_has_:
     ast: Estereotipu
     az: Steriotip
     be: стэрэатып
-    be-tarask: стэрэатып
+    be_tarask: стэрэатып
     bew: Cap waham
     bg: стереотип
     bn: স্টেরিওটাইপ
@@ -97,11 +97,11 @@ dv_has_:
     cy: stereoteip
     da: stereotyper
     de: Stereotyp
-    de-ch: Stereotyp
+    de_ch: Stereotyp
     el: στερεότυπο
     en: stereotype
-    en-ca: Stereotype
-    en-gb: stereotype
+    en_ca: Stereotype
+    en_gb: stereotype
     eo: stereotipo
     es: estereotipo
     et: stereotüüp
@@ -124,11 +124,11 @@ dv_has_:
     ja: ステレオタイプ
     ka: სტერეოტიპი
     kk: Стереотип
-    kk-arab: ستەرەوتىيپ
+    kk_arab: ستەرەوتىيپ
     kk-cn: ستەرەوتىيپ
-    kk-cyrl: Стереотип
+    kk_cyrl: Стереотип
     kk-kz: Стереотип
-    kk-latn: Stereotïp
+    kk_latn: Stereotïp
     kk-tr: Stereotïp
     ko: 고정관념
     ky: Стереотиптер
@@ -149,7 +149,7 @@ dv_has_:
     pl: stereotyp
     ps: نګوس
     pt: estereótipo
-    pt-br: Estereótipo
+    pt_br: Estereótipo
     ro: stereotip
     ru: стереотип
     sco: stereoteep
@@ -161,8 +161,8 @@ dv_has_:
     sms: stereotypp
     sq: Stereotip
     sr: Стереотип
-    sr-ec: Стереотип
-    sr-el: Stereotip
+    sr_ec: Стереотип
+    sr_el: Stereotip
     sv: stereotyp
     sw: Kasumba
     tg: Тафаккури қолабӣ
@@ -174,12 +174,12 @@ dv_has_:
     wuu: 刻板印象
     yue: 成見
     zh: 刻板印象
-    zh-cn: 刻板印象
-    zh-hans: 刻板印象
-    zh-hant: 刻板印象
-    zh-hk: 刻板印象
-    zh-sg: 刻板印象
-    zh-tw: 刻板印象
+    zh_cn: 刻板印象
+    zh_hans: 刻板印象
+    zh_hant: 刻板印象
+    zh_hk: 刻板印象
+    zh_sg: 刻板印象
+    zh_tw: 刻板印象
 ---
 # [[Stereotype]] 
 

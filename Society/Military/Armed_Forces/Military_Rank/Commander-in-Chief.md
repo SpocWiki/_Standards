@@ -106,7 +106,7 @@ dv_has_:
     az: Ali Baş Komandan
     ba: баш командующий
     be: галоўнакамандуючы
-    be-tarask: галоўнакамандуючы
+    be_tarask: галоўнакамандуючы
     bg: Главнокомандващ
     bn: সর্বাধিনায়ক
     br: pennkomandant
@@ -119,8 +119,8 @@ dv_has_:
     dsb: głowny rozkazowaŕ
     el: αρχιστράτηγος
     en: commander-in-chief
-    en-ca: commander-in-chief
-    en-gb: commander-in-chief
+    en_ca: commander-in-chief
+    en_gb: commander-in-chief
     eo: ĉefkomandanto
     es: comandante en jefe
     et: Ülemjuhataja
@@ -148,7 +148,7 @@ dv_has_:
     kn: ಮಹಾದಂಡನಾಯಕ
     ko: 총사령관
     ku: serfermandar
-    ku-latn: serfermandar
+    ku_latn: serfermandar
     la: Archistrategus
     lb: Chefkommandant
     lt: kariuomenės vadas
@@ -190,12 +190,12 @@ dv_has_:
     vi: Tổng tư lệnh
     yue: 軍師統帥
     zh: 總司令
-    zh-cn: 总司令
-    zh-hans: 总司令
-    zh-hant: 總司令
-    zh-hk: 總司令
-    zh-sg: 总司令
-    zh-tw: 總司令
+    zh_cn: 总司令
+    zh_hans: 总司令
+    zh_hant: 總司令
+    zh_hk: 總司令
+    zh_sg: 总司令
+    zh_tw: 總司令
 ---
 # [[Commander-in-Chief]] 
 

@@ -77,7 +77,7 @@ dv_has_:
     ast: Cálculu de variaciones
     ba: Вариациалы иҫәпләмә
     be: варыяцыйнае злічэнне
-    be-tarask: варыяцыйнае зьлічэньне
+    be_tarask: варыяцыйнае зьлічэньне
     bg: Вариационно смятане
     ca: càlcul de variacions
     cs: variační počet
@@ -104,11 +104,11 @@ dv_has_:
     ja: 変分法
     ka: ვარიაციული გამოთვლა
     kk: Варияциалық қисап
-    kk-arab: ۆارىيياتسىيالىق قىيساپ
+    kk_arab: ۆارىيياتسىيالىق قىيساپ
     kk-cn: ۆارىيياتسىيالىق قىيساپ
-    kk-cyrl: Варияциалық қисап
+    kk_cyrl: Варияциалық қисап
     kk-kz: Варияциалық қисап
-    kk-latn: Varïyacïalıq qïsap
+    kk_latn: Varïyacïalıq qïsap
     kk-tr: Varïyacïalıq qïsap
     ko: 변분법
     mt: kalkulu tal-varjazzjonijiet
@@ -119,7 +119,7 @@ dv_has_:
     pl: rachunek wariacyjny
     pms: Càlcol dle variassion
     pt: cálculo de variações
-    pt-br: cálculo de variações
+    pt_br: cálculo de variações
     ro: Calcul variațional
     ru: вариационное исчисление
     sk: Variačný počet
@@ -134,12 +134,12 @@ dv_has_:
     wuu: 变分法
     yue: 變分法
     zh: 变分法
-    zh-cn: 变分法
-    zh-hans: 变分法
-    zh-hant: 變分法
-    zh-hk: 變分法
-    zh-sg: 变分法
-    zh-tw: 變分法
+    zh_cn: 变分法
+    zh_hans: 变分法
+    zh_hant: 變分法
+    zh_hk: 變分法
+    zh_sg: 变分法
+    zh_tw: 變分法
 ---
 # [[Calculus_of_Variations]] 
 

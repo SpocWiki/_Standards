@@ -198,7 +198,7 @@ dv_has_:
     ba: транспорт
     bcl: Transportasyon
     be: транспарт
-    be-tarask: транспарт
+    be_tarask: транспарт
     bg: Транспорт
     bho: परिवहन
     bjn: Paangkutan
@@ -278,7 +278,7 @@ dv_has_:
     lt: transportas
     lv: transports
     mag: परिवहन
-    map-bms: Angkutan
+    map_bms: Angkutan
     mg: Fitaterana
     mhr: транспорт
     min: Transportasi
@@ -287,7 +287,7 @@ dv_has_:
     mn: Тээвэр
     mr: दळणवळण
     ms: pengangkutan
-    ms-arab: ڤڠڠکوتن
+    ms_arab: ڤڠڠکوتن
     mwl: Trasporte
     my: သယ်ယူပို့ဆောင်ရေး
     myv: ардома
@@ -296,7 +296,7 @@ dv_has_:
     nap: Traspuorte
     nb: transport
     nds: Verkehr
-    nds-nl: vervoor
+    nds_nl: vervoor
     ne: यातायात
     nl: vervoer
     nn: transport
@@ -313,7 +313,7 @@ dv_has_:
     pnb: ٹرانسپورٹ
     ps: لېږدچارې
     pt: transporte
-    pt-br: transporte
+    pt_br: transporte
     qu: Apaykachay
     ro: transport
     ru: транспорт
@@ -336,8 +336,8 @@ dv_has_:
     so: Gaadiidka Dadweynaha
     sq: transport
     sr: превоз
-    sr-ec: превоз
-    sr-el: prevoz
+    sr_ec: превоз
+    sr_el: prevoz
     stq: Ferkier
     su: Angkutan
     sv: transport
@@ -355,7 +355,7 @@ dv_has_:
     tr: ulaşım
     ts: Vutleketli
     tt: транспорт
-    tt-cyrl: транспорт
+    tt_cyrl: транспорт
     udm: транспорт
     uk: транспорт
     ur: ٹرانسپورٹ
@@ -371,11 +371,11 @@ dv_has_:
     yo: ìṣípòpadà
     yue: 運輸
     zh: 运输
-    zh-cn: 运输
-    zh-hans: 运输
-    zh-hant: 運輸
-    zh-hk: 運輸
-    zh-tw: 運輸
+    zh_cn: 运输
+    zh_hans: 运输
+    zh_hant: 運輸
+    zh_hk: 運輸
+    zh_tw: 運輸
     zu: Intutho
 ---
 # [[Transport]] 

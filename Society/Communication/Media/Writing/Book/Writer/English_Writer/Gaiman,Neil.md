@@ -55,7 +55,7 @@ dv_has_:
     de: Neil Gaiman
     el: Νιλ Γκάιμαν
     en: Neil Gaiman
-    en-gb: Neil Gaiman
+    en_gb: Neil Gaiman
     eo: Neil Gaiman
     es: Neil Gaiman
     et: Neil Gaiman
@@ -91,7 +91,7 @@ dv_has_:
     mul: Neil Gaiman
     nb: Neil Gaiman
     nds: Neil Gaiman
-    nds-nl: Neil Gaiman
+    nds_nl: Neil Gaiman
     nl: Neil Gaiman
     nn: Neil Gaiman
     no: Neil Gaiman
@@ -100,7 +100,7 @@ dv_has_:
     pfl: Neil Gaiman
     pl: Neil Gaiman
     pt: Neil Gaiman
-    pt-br: Neil Gaiman
+    pt_br: Neil Gaiman
     ro: Neil Gaiman
     ru: Нил Гейман
     sco: Neil Gaiman
@@ -110,8 +110,8 @@ dv_has_:
     sl: Neil Gaiman
     sq: Neil Gaiman
     sr: Нил Гејман
-    sr-ec: Нил Гејман
-    sr-el: Nil Gejman
+    sr_ec: Нил Гејман
+    sr_el: Nil Gejman
     sv: Neil Gaiman
     ta: நீல் கெய்மென்
     te: నీల్ గైమాన్
@@ -123,12 +123,12 @@ dv_has_:
     wuu: 尼尔·盖曼
     yue: 尼奧基文
     zh: 尼爾·蓋曼
-    zh-cn: 尼尔·盖曼
-    zh-hans: 尼尔·盖曼
-    zh-hant: 尼爾·蓋曼
-    zh-hk: 尼爾·蓋曼
-    zh-sg: 尼尔·盖曼
-    zh-tw: 尼爾·蓋曼
+    zh_cn: 尼尔·盖曼
+    zh_hans: 尼尔·盖曼
+    zh_hant: 尼爾·蓋曼
+    zh_hk: 尼爾·蓋曼
+    zh_sg: 尼尔·盖曼
+    zh_tw: 尼爾·蓋曼
 ---
 # [[Gaiman,Neil]] 
 

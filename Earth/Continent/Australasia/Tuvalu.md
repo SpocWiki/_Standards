@@ -382,7 +382,7 @@ dv_has_:
   name_:
     ab: Тувалу
     ace: Tuvalu
-    aeb-arab: توڥالو
+    aeb_arab: توڥالو
     af: Tuvalu
     am: ቱቫሉ
     ami: Tuvalu
@@ -400,7 +400,7 @@ dv_has_:
     ban: Tuvalu
     bcl: Tubalu
     be: Тувалу
-    be-tarask: Тувалу
+    be_tarask: Тувалу
     bew: Tuwalu
     bg: Тувалу
     bi: Tuvalu
@@ -411,7 +411,7 @@ dv_has_:
     bs: Tuvalu
     bxr: Тувалу
     ca: Tuvalu
-    cbk-zam: Tuvalu
+    cbk_zam: Tuvalu
     cdo: Tuvalu
     ce: Тувалу
     ceb: Tuvalu
@@ -420,7 +420,7 @@ dv_has_:
     ckb: تووڤالوو
     co: Tuvalu
     crh: Tuvalu
-    crh-latn: Tuvalu
+    crh_latn: Tuvalu
     cs: Tuvalu
     cv: Тувалу
     cy: Twfalw
@@ -428,15 +428,15 @@ dv_has_:
     dag: Tuvalu
     de: Tuvalu
     de-at: Tuvalu
-    de-ch: Tuvalu
+    de_ch: Tuvalu
     diq: Tuvalu
     dsb: Tuvalu
     dty: टुभालु
     dv: ތުވާލޫ
     el: Τουβαλού
     en: Tuvalu
-    en-ca: Tuvalu
-    en-gb: Tuvalu
+    en_ca: Tuvalu
+    en_gb: Tuvalu
     eo: Tuvalo
     es: Tuvalu
     et: Tuvalu
@@ -460,7 +460,7 @@ dv_has_:
     gn: Tuválu
     gom: टुवालु
     gom-deva: टुवालु
-    gom-latn: Tuvalu
+    gom_latn: Tuvalu
     gpe: Tuvalu
     gsw: Tuvalu
     gu: ટુવાલુ
@@ -547,7 +547,7 @@ dv_has_:
     pnb: ٹووالو
     ps: تووالو
     pt: Tuvalu
-    pt-br: Tuvalu
+    pt_br: Tuvalu
     pwn: Tuvalu
     qu: Tuwalu
     rki: တူဗားလူနိုင်ငံ
@@ -616,13 +616,13 @@ dv_has_:
     za: Tuvalu
     zea: Tuvalu
     zh: 吐瓦魯
-    zh-cn: 图瓦卢
-    zh-hans: 图瓦卢
-    zh-hant: 吐瓦魯
-    zh-hk: 圖瓦盧
-    zh-mo: 圖瓦盧
-    zh-sg: 图瓦卢
-    zh-tw: 吐瓦魯
+    zh_cn: 图瓦卢
+    zh_hans: 图瓦卢
+    zh_hant: 吐瓦魯
+    zh_hk: 圖瓦盧
+    zh_mo: 圖瓦盧
+    zh_sg: 图瓦卢
+    zh_tw: 吐瓦魯
     zu: i-Tuvalu
 ---
 # [[Tuvalu]] 

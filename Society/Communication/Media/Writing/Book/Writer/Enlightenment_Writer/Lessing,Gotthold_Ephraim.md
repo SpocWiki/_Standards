@@ -128,7 +128,7 @@ dv_has_:
     az: Qothold Efraim Lessinq
     azb: قوتهولد افرایم لسینق
     be: Готхальд Эфраім Лесінг
-    be-tarask: Готгальд Эфраім Лесінг
+    be_tarask: Готгальд Эфраім Лесінг
     bg: Готхолд Ефраим Лесинг
     bn: গথোল্ড এফ্রাইম লেসিং
     bs: Gotthold Ephraim Lessing
@@ -137,11 +137,11 @@ dv_has_:
     cy: Gotthold Ephraim Lessing
     da: Gotthold Ephraim Lessing
     de: Gotthold Ephraim Lessing
-    de-ch: Gotthold Ephraim Lessing
+    de_ch: Gotthold Ephraim Lessing
     el: Γκότχολντ Εφραίμ Λέσσινγκ
     en: Gotthold Ephraim Lessing
-    en-ca: Gotthold Ephraim Lessing
-    en-gb: Gotthold Ephraim Lessing
+    en_ca: Gotthold Ephraim Lessing
+    en_gb: Gotthold Ephraim Lessing
     eo: Gotthold Ephraim Lessing
     es: Gotthold Ephraim Lessing
     et: Gotthold Ephraim Lessing
@@ -181,7 +181,7 @@ dv_has_:
     pa: ਗੌਟਹੋਲਡ ਲੈਸਿੰਗ
     pl: Gotthold Ephraim Lessing
     pt: Gotthold Ephraim Lessing
-    pt-br: Gotthold Ephraim Lessing
+    pt_br: Gotthold Ephraim Lessing
     qu: Gotthold Ephraim Lessing
     ro: Gotthold Ephraim Lessing
     ru: Готхольд Эфраим Лессинг
@@ -192,7 +192,7 @@ dv_has_:
     sl: Gotthold Ephraim Lessing
     sq: Gotthold Ephraim Lessing
     sr: Готхолд Ефрајм Лесинг
-    sr-ec: Готхолд Ефрајм Лесинг
+    sr_ec: Готхолд Ефрајм Лесинг
     stq: Gotthold Ephraim Lessing
     sv: Gotthold Ephraim Lessing
     ta: கோட்டல்ட் எஃப்ராய்மி லெஸ்சிங்

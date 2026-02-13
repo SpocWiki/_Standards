@@ -29,8 +29,8 @@ dv_has_:
     cs: vakorosničkovití
     de: Hemiphractidae
     en: Hemiphractidae
-    en-ca: Hemiphractidae
-    en-gb: Hemiphractidae
+    en_ca: Hemiphractidae
+    en_gb: Hemiphractidae
     eo: Hemiphractidae
     es: Hemiphractidae
     eu: Hemiphractidae
@@ -55,7 +55,7 @@ dv_has_:
     oc: Hemiphractinae
     pl: Hemiphractidae
     pt: Hemiphractidae
-    pt-br: Hemiphractidae
+    pt_br: Hemiphractidae
     ro: Hemiphractidae
     ru: Hemiphractidae
     sq: Hemiphractidae
@@ -66,8 +66,8 @@ dv_has_:
     vo: Hemiphractidae
     war: Hemiphractidae
     zh: 扩角蛙科
-    zh-cn: 扩角蛙科
-    zh-hans: 扩角蛙科
+    zh_cn: 扩角蛙科
+    zh_hans: 扩角蛙科
 ---
 # [[Hemiphractinae]] 
 

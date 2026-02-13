@@ -257,7 +257,7 @@ dv_has_:
     azb: آندری کولموقوروف
     ba: Колмогоров Андрей Николаевич
     be: Андрэй Калмагораў
-    be-tarask: Андрэй Калмагораў
+    be_tarask: Андрэй Калмагораў
     bg: Андрей Колмогоров
     bn: আন্দ্রেই কোলমোগোরোভ
     ca: Andrei Kolmogórov
@@ -288,11 +288,11 @@ dv_has_:
     ja: アンドレイ・コルモゴロフ
     ka: ანდრეი კოლმოგოროვი
     kk: Колмогоров Андрей Николаевич
-    kk-arab: كولموگوروۆ اندرەي نىيكولايەۆىيتش
+    kk_arab: كولموگوروۆ اندرەي نىيكولايەۆىيتش
     kk-cn: كولموگوروۆ اندرەي نىيكولايەۆىيتش
-    kk-cyrl: Колмогоров Андрей Николаевич
+    kk_cyrl: Колмогоров Андрей Николаевич
     kk-kz: Колмогоров Андрей Николаевич
-    kk-latn: Kolmogorov Andreý Nïkolayevïç
+    kk_latn: Kolmogorov Andreý Nïkolayevïç
     kk-tr: Kolmogorov Andreý Nïkolayevïç
     ko: 안드레이 콜모고로프
     ky: Колмогоров Андрей Николаевич
@@ -309,7 +309,7 @@ dv_has_:
     pl: Andriej Kołmogorow
     pms: Andrej Nikolaevič Kolmogorov
     pt: Andrei Kolmogorov
-    pt-br: Andrei Kolmogorov
+    pt_br: Andrei Kolmogorov
     ro: Andrei Nikolaevici Kolmogorov
     ru: Андрей Николаевич Колмогоров
     sah: Колмогоров Андрей Николаевич
@@ -319,8 +319,8 @@ dv_has_:
     sl: Andrej Nikolajevič Kolmogorov
     sq: Andrey Kolmogorov
     sr: Андреј Колмогоров
-    sr-ec: Андреј Колмогоров
-    sr-el: Andrej Kolmogorov
+    sr_ec: Андреј Колмогоров
+    sr_el: Andrej Kolmogorov
     sv: Andrej Kolmogorov
     th: อันเดรย์ คอลโมโกรอฟ
     tl: Andrey Kolmogorov
@@ -331,12 +331,12 @@ dv_has_:
     wuu: 安德雷·柯尔莫哥洛夫
     yue: 安德雷·柯爾莫哥洛夫
     zh: 安德雷·柯爾莫哥洛夫
-    zh-cn: 安德雷·柯尔莫哥洛夫
-    zh-hans: 安德雷·柯尔莫哥洛夫
-    zh-hant: 安德雷·柯爾莫哥洛夫
-    zh-hk: 安德雷·柯爾莫哥洛夫
-    zh-sg: 安德雷·柯尔莫哥洛夫
-    zh-tw: 安德雷·柯爾莫哥洛夫
+    zh_cn: 安德雷·柯尔莫哥洛夫
+    zh_hans: 安德雷·柯尔莫哥洛夫
+    zh_hant: 安德雷·柯爾莫哥洛夫
+    zh_hk: 安德雷·柯爾莫哥洛夫
+    zh_sg: 安德雷·柯尔莫哥洛夫
+    zh_tw: 安德雷·柯爾莫哥洛夫
 ---
 # [[Andrey_Kolmogorov]] 
 

@@ -113,7 +113,7 @@ dv_has_:
     azb: بیوفیزیک
     ba: биофизика
     be: біяфізіка
-    be-tarask: біяфізыка
+    be_tarask: біяфізыка
     bg: Биофизика
     bn: প্রাণ-পদার্থবিজ্ঞান
     bo: ཁོར་ཡུག
@@ -126,8 +126,8 @@ dv_has_:
     de: Biophysik
     el: βιοφυσική
     en: biophysics
-    en-ca: Biophysics
-    en-gb: biophysics
+    en_ca: Biophysics
+    en_gb: biophysics
     eo: biofiziko
     es: biofísica
     et: biofüüsika
@@ -163,7 +163,7 @@ dv_has_:
     mk: Биофизика
     ml: ജൈവഭൗതികശാസ്ത്രം
     ms: biofizik
-    ms-arab: بيوفيزيک
+    ms_arab: بيوفيزيک
     nan: Seng-bu̍t bu̍t-lí-ha̍k
     nb: biofysikk
     nl: biofysica
@@ -173,7 +173,7 @@ dv_has_:
     pl: biofizyka
     ps: ژونپنځپوهنه
     pt: biofísica
-    pt-br: Biofísica
+    pt_br: Biofísica
     ro: biofizică
     ru: биофизика
     sco: Biopheesics
@@ -188,8 +188,8 @@ dv_has_:
     sms: biofysikk
     sq: Biofizika
     sr: биофизика
-    sr-ec: биофизика
-    sr-el: biofizika
+    sr_ec: биофизика
+    sr_el: biofizika
     sv: biofysik
     ta: உயிரி இயற்பியல்
     tg: Биофизика
@@ -207,14 +207,14 @@ dv_has_:
     yi: ביאפיזיק
     yue: 生物物理學
     zh: 生物物理学
-    zh-cn: 生物物理学
-    zh-hans: 生物物理学
-    zh-hant: 生物物理學
-    zh-hk: 生物物理學
-    zh-mo: 生物物理學
+    zh_cn: 生物物理学
+    zh_hans: 生物物理学
+    zh_hant: 生物物理學
+    zh_hk: 生物物理學
+    zh_mo: 生物物理學
     zh-my: 生物物理学
-    zh-sg: 生物物理学
-    zh-tw: 生物物理學
+    zh_sg: 生物物理学
+    zh_tw: 生物物理學
 ---
 # [[Biophysics]] 
 

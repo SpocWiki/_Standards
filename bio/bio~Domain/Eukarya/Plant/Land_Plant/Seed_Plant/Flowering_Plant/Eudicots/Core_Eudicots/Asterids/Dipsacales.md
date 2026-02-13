@@ -42,7 +42,7 @@ dv_has_:
     ast: Dipsacales
     az: Fırçaotuçiçəklilər
     be: Варсянкакветныя
-    be-tarask: Варсянкакветныя
+    be_tarask: Варсянкакветныя
     bg: лугачкоцветни
     bs: Dipsacales
     ca: Dipsacals
@@ -53,8 +53,8 @@ dv_has_:
     de: Kardenartige
     el: Διψακώδη
     en: Dipsacales
-    en-ca: Dipsacales
-    en-gb: Dipsacales
+    en_ca: Dipsacales
+    en_gb: Dipsacales
     eo: Dipsakaloj
     es: Dipsacales
     et: Uniohakalaadsed
@@ -88,7 +88,7 @@ dv_has_:
     oc: Dipsacales
     pl: szczeciowce
     pt: Dipsacales
-    pt-br: Dipsacales
+    pt_br: Dipsacales
     ro: Dipsacales
     ru: Ворсянкоцветные
     sco: Dipsacales
@@ -105,10 +105,10 @@ dv_has_:
     war: Dipsacales
     yue: 川續斷目
     zh: 川续断目
-    zh-cn: 川续断目
-    zh-hans: 川续断目
-    zh-hant: 川续断目
-    zh-tw: 川續斷目
+    zh_cn: 川续断目
+    zh_hans: 川续断目
+    zh_hant: 川续断目
+    zh_tw: 川續斷目
 ---
 # [[Dipsacales]] 
 

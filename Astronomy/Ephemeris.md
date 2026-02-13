@@ -97,7 +97,7 @@ dv_has_:
     ar: تقويم فلكي
     ast: Efemérides
     be: Эфемерыда
-    be-tarask: эфэмэрыда
+    be_tarask: эфэмэрыда
     bg: Ефемерида
     bho: पतरा
     bn: জ্যোতির্বিজ্ঞান পঞ্জিকা
@@ -105,10 +105,10 @@ dv_has_:
     cs: efemeridy
     da: efemeride
     de: Ephemeriden
-    de-ch: Ephemeriden
+    de_ch: Ephemeriden
     en: ephemeris
-    en-ca: Ephemeris
-    en-gb: ephemeris
+    en_ca: Ephemeris
+    en_gb: ephemeris
     eo: Efemeridoj
     es: efemérides
     et: Efemeriid
@@ -142,7 +142,7 @@ dv_has_:
     nn: efemeride
     pl: Efemerydy
     pt: efeméride
-    pt-br: efeméride
+    pt_br: efeméride
     ro: Efemeridă
     ru: эфемерида
     sk: Efemerida

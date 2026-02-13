@@ -111,7 +111,7 @@ dv_has_:
     az: kristallar
     bar: Kristall
     be: крышталь
-    be-tarask: крышталь
+    be_tarask: крышталь
     bew: balur
     bg: кристал
     bn: স্ফটিক
@@ -124,11 +124,11 @@ dv_has_:
     cy: grisial
     da: krystal
     de: Kristall
-    de-ch: Kristall
+    de_ch: Kristall
     el: κρύσταλλος
     en: crystal
-    en-ca: crystal
-    en-gb: crystal
+    en_ca: crystal
+    en_gb: crystal
     eo: kristalo
     es: cristal
     et: kristall
@@ -173,7 +173,7 @@ dv_has_:
     mni: ꯀ꯭ꯔꯤꯁꯇꯦꯜꯂꯥꯏꯟ
     mr: स्फटिक
     ms: hablur
-    ms-arab: هبلور
+    ms_arab: هبلور
     my: ပုံဆောင်ခဲ
     nah: tehuilotl
     nan: chiⁿ-thé
@@ -190,7 +190,7 @@ dv_has_:
     pms: cristal
     pnb: بلور
     pt: cristal
-    pt-br: cristal
+    pt_br: cristal
     qu: piñi
     ro: cristal
     ru: кристаллы

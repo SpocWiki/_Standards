@@ -105,7 +105,7 @@ dv_has_:
     az: Mistisizm
     azb: عرفان
     be: містыцызм
-    be-tarask: містыцызм
+    be_tarask: містыцызм
     bg: Мистицизъм
     bn: রহস্যবাদ
     br: Kevrinelezh
@@ -121,7 +121,7 @@ dv_has_:
     de: Mystik
     el: Μυστικισμός
     en: mysticism
-    en-gb: mysticism
+    en_gb: mysticism
     eo: mistikismo
     es: misticismo
     et: müstika
@@ -152,7 +152,7 @@ dv_has_:
     ko: 비밀
     krj: mistika
     ku: mistîsîzm
-    ku-latn: mistîsîzm
+    ku_latn: mistîsîzm
     la: mystica
     lb: Mystik
     lij: Mistiçismo

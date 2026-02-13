@@ -42,7 +42,7 @@ dv_has_:
     ast: Brian De Palma
     az: Brayan De Palma
     be: Браян Дэ Пальма
-    be-tarask: Браян Дэ Пальма
+    be_tarask: Браян Дэ Пальма
     bg: Брайън Де Палма
     br: Brian De Palma
     bs: Brian de Palma
@@ -55,8 +55,8 @@ dv_has_:
     el: Μπράιαν Ντε Πάλμα
     eml: Brian De Palma
     en: Brian De Palma
-    en-ca: Brian De Palma
-    en-gb: Brian De Palma
+    en_ca: Brian De Palma
+    en_gb: Brian De Palma
     eo: Brian De Palma
     es: Brian De Palma
     eu: Brian De Palma
@@ -92,7 +92,7 @@ dv_has_:
     pap: Brian De Palma
     pl: Brian De Palma
     pt: Brian De Palma
-    pt-br: Brian De Palma
+    pt_br: Brian De Palma
     qu: Brian De Palma
     ro: Brian De Palma
     ru: Брайан Де Пальма
@@ -102,8 +102,8 @@ dv_has_:
     sl: Brian De Palma
     sq: Brian De Palma
     sr: Брајан де Палма
-    sr-ec: Брајан де Палма
-    sr-el: Brajan de Palma
+    sr_ec: Брајан де Палма
+    sr_el: Brajan de Palma
     sv: Brian De Palma
     te: బ్రియాన్ డి పాల్మా
     th: ไบรอัน เดอ ปาลมา
@@ -115,12 +115,12 @@ dv_has_:
     xmf: ბრაიან დე პალმა
     yue: 白賴仁狄龐馬
     zh: 布赖恩·德帕尔马
-    zh-cn: 布赖恩·拉塞尔·德·帕尔马
-    zh-hans: 布赖恩·德帕尔马
-    zh-hant: 布萊恩·狄帕瑪
-    zh-hk: 白賴仁·狄龐馬
-    zh-sg: 布莱恩·狄帕玛
-    zh-tw: 布萊恩·狄帕瑪
+    zh_cn: 布赖恩·拉塞尔·德·帕尔马
+    zh_hans: 布赖恩·德帕尔马
+    zh_hant: 布萊恩·狄帕瑪
+    zh_hk: 白賴仁·狄龐馬
+    zh_sg: 布莱恩·狄帕玛
+    zh_tw: 布萊恩·狄帕瑪
 ---
 #has_/time_/started :: 1940-09-11
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)`

@@ -124,12 +124,12 @@ dv_has_:
     uz: Karborund
     vi: silic carbide
     zh: 碳化硅
-    zh-cn: 碳化硅
-    zh-hans: 碳化硅
-    zh-hant: 碳化硅
-    zh-hk: 碳化硅
-    zh-sg: 碳化硅
-    zh-tw: 碳化矽
+    zh_cn: 碳化硅
+    zh_hans: 碳化硅
+    zh_hant: 碳化硅
+    zh_hk: 碳化硅
+    zh_sg: 碳化硅
+    zh_tw: 碳化矽
 ---
 # [[Silicon_Carbide]] 
 

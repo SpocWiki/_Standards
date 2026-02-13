@@ -82,7 +82,7 @@ dv_has_:
     ast: Aaron Sorkin
     azb: آرون سورکین
     be: Аарон Соркін
-    be-tarask: Ааран Соркін
+    be_tarask: Ааран Соркін
     bg: Арън Соркин
     ca: Aaron Sorkin
     ckb: ئارۆن سۆرکین
@@ -119,7 +119,7 @@ dv_has_:
     pap: Aaron Sorkin
     pl: Aaron Sorkin
     pt: Aaron Sorkin
-    pt-br: Aaron Sorkin
+    pt_br: Aaron Sorkin
     ro: Aaron Sorkin
     ru: Аарон Соркин
     sh: Aaron Sorkin
@@ -138,13 +138,13 @@ dv_has_:
     yo: Aaron Sorkin
     yue: 阿倫·索金
     zh: 艾倫·索金
-    zh-cn: 阿伦·索尔金
-    zh-hans: 阿伦·索尔金
-    zh-hant: 艾倫·索金
-    zh-hk: 阿倫·索金
+    zh_cn: 阿伦·索尔金
+    zh_hans: 阿伦·索尔金
+    zh_hant: 艾倫·索金
+    zh_hk: 阿倫·索金
     zh-my: 艾伦·索金
-    zh-sg: 艾伦·索金
-    zh-tw: 艾倫·索金
+    zh_sg: 艾伦·索金
+    zh_tw: 艾倫·索金
 ---
 # [[Sorkin,Aaron]] 
 

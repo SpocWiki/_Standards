@@ -138,7 +138,7 @@ EPPO_Code: 1ORCF
 MeSH_tree_code: B01.875.800.575.912.250.618.100.640
 dv_has_:
   name_:
-    aeb-arab: حيّة و ميّتة
+    aeb_arab: حيّة و ميّتة
     af: Orchidaceae
     am: ኦርኪድ
     an: Orchidaceae
@@ -151,7 +151,7 @@ dv_has_:
     ban: Orchidaceae
     bcl: Orkids
     be: архідныя
-    be-tarask: архідныя
+    be_tarask: архідныя
     bg: орхидеи
     bn: অর্কিড
     bo: སྣ་མའི་མེ་ཏོག
@@ -237,7 +237,7 @@ dv_has_:
     pl: storczykowate
     pnb: رنگ رتی
     pt: Orquídea
-    pt-br: Orchidaceae
+    pt_br: Orchidaceae
     qu: Hillurina yura rikch'aq ayllu
     ro: Orchidaceae
     ru: орхидные
@@ -267,10 +267,10 @@ dv_has_:
     wuu: 兰科
     yue: 蘭花
     zh: 兰科
-    zh-cn: 兰科
-    zh-hans: 兰科
-    zh-hant: 蘭科
-    zh-tw: 蘭科
+    zh_cn: 兰科
+    zh_hans: 兰科
+    zh_hant: 蘭科
+    zh_tw: 蘭科
 ---
 # [[Orchidaceae]] 
 

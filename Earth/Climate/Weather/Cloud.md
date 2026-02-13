@@ -261,7 +261,7 @@ dv_has_:
     bbc: Ombun
     bcl: panganuron
     be: воблака
-    be-tarask: хмара
+    be_tarask: хмара
     bew: awan
     bg: облак
     bho: बादर
@@ -293,7 +293,7 @@ dv_has_:
     el: νέφος
     eml: nóvvla
     en: cloud
-    en-gb: cloud
+    en_gb: cloud
     eo: nubo
     es: nube
     et: pilv
@@ -400,7 +400,7 @@ dv_has_:
     pnt: λείβ'
     ps: ورېځ
     pt: nuvem
-    pt-br: nuvem
+    pt_br: nuvem
     qu: phuyu
     rn: Igicu
     ro: nor
@@ -422,8 +422,8 @@ dv_has_:
     so: caad
     sq: re
     sr: облак
-    sr-ec: облак
-    sr-el: oblak
+    sr_ec: облак
+    sr_el: oblak
     stq: Wulke
     su: awan
     sv: moln
@@ -439,7 +439,7 @@ dv_has_:
     tl: ulap
     tr: bulut
     tt: болытлар
-    tt-cyrl: болытлар
+    tt_cyrl: болытлар
     tw: mununkum
     tyv: булут
     udm: пилем
@@ -461,8 +461,8 @@ dv_has_:
     yue: 雲
     za: fwj
     zh: 云
-    zh-hans: 云
-    zh-hant: 雲
+    zh_hans: 云
+    zh_hant: 雲
     zu: Amafu
 ---
 # [[Cloud]] 

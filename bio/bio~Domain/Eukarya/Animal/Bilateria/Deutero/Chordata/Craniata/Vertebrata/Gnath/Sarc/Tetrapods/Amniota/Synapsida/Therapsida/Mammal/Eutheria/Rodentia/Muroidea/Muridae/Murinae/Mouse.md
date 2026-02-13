@@ -158,7 +158,7 @@ dv_has_:
     ay: Achaku
     az: Ev siçanı
     azb: ائو سیچانی
-    be-tarask: мыш дамавая
+    be_tarask: мыш дамавая
     bg: Домашни мишки
     bn: নেংটি ইঁদুর
     bo: ཙི་ཙི།
@@ -240,7 +240,7 @@ dv_has_:
     pl: mysz
     pnb: چوہا
     pt: Mus
-    pt-br: Mus
+    pt_br: Mus
     qu: Ukucha
     ro: Șoarece
     ru: домовые мыши
@@ -268,7 +268,7 @@ dv_has_:
     tl: Bubuwit
     tr: ev faresi
     tt: йорт тычканнары
-    tt-cyrl: йорт тычканнары
+    tt_cyrl: йорт тычканнары
     uk: миші
     ur: چوہا
     uz: Sichqonlar
@@ -282,9 +282,9 @@ dv_has_:
     yi: מויז
     yue: 鼠屬
     zh: 小鼠属
-    zh-cn: 小鼠属
-    zh-hans: 小鼠属
-    zh-tw: 小鼠屬
+    zh_cn: 小鼠属
+    zh_hans: 小鼠属
+    zh_tw: 小鼠屬
 ---
 # [[Mouse]] 
 

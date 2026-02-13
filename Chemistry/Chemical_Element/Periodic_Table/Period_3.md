@@ -92,7 +92,7 @@ dv_has_:
     ar: عناصر الدورة الثالثة
     ast: Elementos del periodu 3
     az: Dövri sistemin üçüncü periodu
-    be-tarask: трэці пэрыяд
+    be_tarask: трэці пэрыяд
     bho: पीरियड ३ तत्व
     bn: তৃতীয় পর্যায়ের মৌল
     ca: període 3
@@ -103,8 +103,8 @@ dv_has_:
     diq: Elementê gruba 3ıne
     el: 3η περίοδος χημικών στοιχείων
     en: period 3
-    en-ca: period 3 element
-    en-gb: period 3
+    en_ca: period 3 element
+    en_gb: period 3
     eo: elemento de periodo 3
     es: elementos del periodo 3
     eu: 3. periodoko elementu
@@ -128,7 +128,7 @@ dv_has_:
     lmo: Element del period 3
     mk: Период 3 на периодниот систем
     ms: kala 3
-    ms-arab: کالا 3
+    ms_arab: کالا 3
     nb: periode 3
     nl: periode-3-element
     nn: periode 3
@@ -142,8 +142,8 @@ dv_has_:
     sk: 3. perióda
     sl: 3. perioda
     sr: 3. периода хемијских елемената
-    sr-ec: 3. периода хемијских елемената
-    sr-el: 3. perioda hemijskih elemenata
+    sr_ec: 3. периода хемијских елемената
+    sr_el: 3. perioda hemijskih elemenata
     sv: period 3
     ta: கிடைக்குழு 3 தனிமங்கள்
     te: పీరియడ్ 3 మూలకం
@@ -154,14 +154,14 @@ dv_has_:
     vls: Periode-3-element
     yue: 第3週期元素
     zh: 第3周期元素
-    zh-cn: 第3周期元素
-    zh-hans: 第3周期元素
-    zh-hant: 第3周期元素
-    zh-hk: 第3周期元素
-    zh-mo: 第3周期元素
+    zh_cn: 第3周期元素
+    zh_hans: 第3周期元素
+    zh_hant: 第3周期元素
+    zh_hk: 第3周期元素
+    zh_mo: 第3周期元素
     zh-my: 第3周期元素
-    zh-sg: 第3周期元素
-    zh-tw: 第3周期元素
+    zh_sg: 第3周期元素
+    zh_tw: 第3周期元素
 ---
 # [[Period_3]] 
 

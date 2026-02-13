@@ -57,7 +57,7 @@ dv_has_:
     oc: Polydesmida
     pl: Polydesmida
     pt: Polydesmida
-    pt-br: Polydesmida
+    pt_br: Polydesmida
     ro: Polydesmida
     ru: многосвязы
     sl: ploske kačice
@@ -69,9 +69,9 @@ dv_has_:
     vo: Polydesmida
     war: Polydesmida
     zh: 多带马陆目
-    zh-cn: 多带马陆目
-    zh-hans: 多带马陆目
-    zh-tw: 帶馬陸目
+    zh_cn: 多带马陆目
+    zh_hans: 多带马陆目
+    zh_tw: 帶馬陸目
 ---
 ## [[Merocheta]] 
 

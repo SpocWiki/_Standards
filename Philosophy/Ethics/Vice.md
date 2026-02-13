@@ -69,7 +69,7 @@ dv_has_:
   name_:
     ar: رذيلة
     be: парок
-    be-tarask: загана
+    be_tarask: загана
     bg: недостатъци
     bn: অসৎ আচরণ
     bs: porok
@@ -116,7 +116,7 @@ dv_has_:
     tg: айб
     th: ความชั่วร้าย
     tt: кимчелек
-    tt-cyrl: кимчелек
+    tt_cyrl: кимчелек
     uk: порок
     ur: عیب
     vec: vìsio

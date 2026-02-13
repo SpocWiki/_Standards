@@ -75,7 +75,7 @@ dv_has_:
     arz: تقويم شمسى قمرى
     az: Lunisolar təqvimi
     be: Месяцова-сонечны каляндар
-    be-tarask: месяцова-сонечны каляндар
+    be_tarask: месяцова-сонечны каляндар
     bg: Лунно-слънчев календар
     bn: চান্দ্রসৌর বর্ষপঞ্জি
     ca: calendari lunisolar
@@ -120,8 +120,8 @@ dv_has_:
     sl: lunisolarni koledar
     sq: Lunisolari
     sr: Лунисоларни календар
-    sr-ec: Лунисоларни календар
-    sr-el: Lunisolarni kalendar
+    sr_ec: Лунисоларни календар
+    sr_el: Lunisolarni kalendar
     su: Lunisolar calendar
     sv: lunisolarkalender
     sw: Kalenda ya jua-mwezi
@@ -136,12 +136,12 @@ dv_has_:
     xmf: თუთა-ბჟაშ კალენდარი
     yue: 陰陽曆
     zh: 陰陽曆
-    zh-cn: 阴阳历
-    zh-hans: 阴阳历
-    zh-hant: 陰陽曆
-    zh-hk: 陰陽曆
-    zh-sg: 阴阳历
-    zh-tw: 陰陽曆
+    zh_cn: 阴阳历
+    zh_hans: 阴阳历
+    zh_hant: 陰陽曆
+    zh_hk: 陰陽曆
+    zh_sg: 阴阳历
+    zh_tw: 陰陽曆
 ---
 # [[Lunisolar_Calendar]] 
 

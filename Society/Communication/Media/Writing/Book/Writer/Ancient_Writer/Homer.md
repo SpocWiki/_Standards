@@ -165,7 +165,7 @@ dv_has_:
     bar: Homer
     bcl: Homer
     be: Гамер
-    be-tarask: Гамэр
+    be_tarask: Гамэр
     bg: Омир
     bho: होमर
     bi: Homer
@@ -180,7 +180,7 @@ dv_has_:
     ckb: ھۆمیرۆس
     co: Omeru
     crh: Gomer
-    crh-latn: Gomer
+    crh_latn: Gomer
     cs: Homér
     cv: Гомер
     cy: Homeros
@@ -190,8 +190,8 @@ dv_has_:
     dty: होमर
     el: Όμηρος
     en: Homer
-    en-ca: Homer
-    en-gb: Homer
+    en_ca: Homer
+    en_gb: Homer
     eo: Homero
     es: Homero
     et: Homeros
@@ -247,7 +247,7 @@ dv_has_:
     ko: 호메로스
     ks: ہومر
     ku: Homêros
-    ku-latn: Homêros
+    ku_latn: Homêros
     kw: Homer
     ky: Гомер
     la: Homerus
@@ -300,7 +300,7 @@ dv_has_:
     pnb: ہومر
     ps: هومر
     pt: Homero
-    pt-br: Homero
+    pt_br: Homero
     qu: Omiros
     ro: Homer
     ru: Гомер
@@ -352,7 +352,7 @@ dv_has_:
     yue: 荷馬
     za: Hozmaj
     zh: 荷馬
-    zh-cn: 荷马
+    zh_cn: 荷马
 ---
 # [[Homer]] 
 

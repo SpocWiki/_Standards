@@ -13,7 +13,7 @@ dv_has_:
     ba: грамм
     ban: gram
     be: грам
-    be-tarask: грам
+    be_tarask: грам
     bg: грам
     bn: গ্রাম
     br: gramm
@@ -27,7 +27,7 @@ dv_has_:
     de: Gramm
     el: γραμμάριο
     en: gram
-    en-gb: gram
+    en_gb: gram
     eo: gramo
     es: gramo
     et: gramm
@@ -73,7 +73,7 @@ dv_has_:
     mk: грам
     ml: ഗ്രാം
     ms: gram
-    ms-arab: ݢرم
+    ms_arab: ݢرم
     mt: gramma
     nan: kong-khek
     nb: gram
@@ -87,7 +87,7 @@ dv_has_:
     pnb: گرام
     ps: ګرام
     pt: grama
-    pt-br: grama
+    pt_br: grama
     qu: k'isura
     ro: gram
     ru: грамм
@@ -103,14 +103,14 @@ dv_has_:
     so: garaam
     sq: grami
     sr: грам
-    sr-ec: грам
-    sr-el: gram
+    sr_ec: грам
+    sr_el: gram
     su: gram
     sv: gram
     ta: கிராம்
     te: గ్రాము
     tg: грамм
-    tg-cyrl: грамм
+    tg_cyrl: грамм
     th: กรัม
     tr: gram
     udm: грамм
@@ -125,14 +125,14 @@ dv_has_:
     yi: גראם
     yue: 克
     zh: 克
-    zh-cn: 克
-    zh-hans: 克
-    zh-hant: 克
-    zh-hk: 克
-    zh-mo: 克
+    zh_cn: 克
+    zh_hans: 克
+    zh_hant: 克
+    zh_hk: 克
+    zh_mo: 克
     zh-my: 克
-    zh-sg: 克
-    zh-tw: 克
+    zh_sg: 克
+    zh_tw: 克
 aliases:
 - gam
 - garaam

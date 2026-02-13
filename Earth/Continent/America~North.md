@@ -399,7 +399,7 @@ dv_has_:
     bar: Noadamerika
     bcl: Amerika nin Norte
     be: Паўночная Амерыка
-    be-tarask: Паўночная Амэрыка
+    be_tarask: Паўночная Амэрыка
     bg: Северна Америка
     bho: उत्तर अमेरिका
     bi: Not Amerika
@@ -421,7 +421,7 @@ dv_has_:
     ckb: ئەمریکای باکوور
     co: America settentriunale
     crh: Şimaliy Amerika
-    crh-latn: Şimaliy Amerika
+    crh_latn: Şimaliy Amerika
     cs: Severní Amerika
     csb: Nordowô Amerika
     cu: Сѣвєрьна Амєрїка
@@ -429,7 +429,7 @@ dv_has_:
     cy: Gogledd America
     da: Nordamerika
     de: Nordamerika
-    de-ch: Nordamerika
+    de_ch: Nordamerika
     diq: Amerika Zımey
     dsb: Pódpołnocna Amerika
     dtp: Amirika Koibutan
@@ -438,8 +438,8 @@ dv_has_:
     el: Βόρεια Αμερική
     eml: Amèrica dal Nòrd
     en: North America
-    en-ca: North America
-    en-gb: North America
+    en_ca: North America
+    en_gb: North America
     eo: Nordameriko
     es: América del Norte
     et: Põhja-Ameerika manner
@@ -512,7 +512,7 @@ dv_has_:
     krj: Kaamerikhan Naaminhan
     ks: شُمٲلی امریکہ
     ku: Amerîkaya Bakur
-    ku-arab: ئامەریکایا باکور
+    ku_arab: ئامەریکایا باکور
     kv: Войвыв Америка
     kw: Amerika Gledh
     ky: Түндүк Америка
@@ -530,7 +530,7 @@ dv_has_:
     lt: Šiaurės Amerika
     lv: Ziemeļamerika
     mai: उत्तर अमेरिका
-    map-bms: Amerika Utara
+    map_bms: Amerika Utara
     mdf: Кельмеширень Америк
     mg: Amerika Avaratra
     mhr: Йӱдвел Америка
@@ -553,7 +553,7 @@ dv_has_:
     nap: Nordamèreca
     nb: Nord-Amerika
     nds: Noordamerika
-    nds-nl: Noord-Amerika
+    nds_nl: Noord-Amerika
     ne: उत्तर अमेरिका
     new: उत्तर अमेरिका
     nl: Noord-Amerika
@@ -579,7 +579,7 @@ dv_has_:
     pnb: اُبھا امریکا
     ps: شمالي امريکا
     pt: América do Norte e América Central
-    pt-br: América do Norte
+    pt_br: América do Norte
     qu: Chinchay Awya Yala
     rm: America dal Nord
     rmy: Nordutni Amerika
@@ -610,7 +610,7 @@ dv_has_:
     so: Woqooyiga Ameerika
     sq: Amerika Veriore
     sr: Северна Америка
-    sr-ec: Северна Америка
+    sr_ec: Северна Америка
     srn: Opo Amrika
     st: Amerika Leboya
     stq: Noud-Amerikoa
@@ -632,8 +632,8 @@ dv_has_:
     tr: Kuzey Amerika
     ts: Amerikha ya le N'walungu
     tt: Төньяк Америка
-    tt-cyrl: Төньяк Америка
-    tt-latn: Tönyak Amerika
+    tt_cyrl: Төньяк Америка
+    tt_latn: Tönyak Amerika
     tum: North America
     tw: North America
     tyv: Соңгу Америка
@@ -661,14 +661,14 @@ dv_has_:
     zea: Noord-Amerika
     zgh: ⵉⵥⵥⵍⵎⴹ ⵏ ⴰⵎⵔⵉⴽⴰ
     zh: 北美洲
-    zh-cn: 北美洲
-    zh-hans: 北美洲
-    zh-hant: 北美洲
-    zh-hk: 北美洲
-    zh-mo: 北美洲
+    zh_cn: 北美洲
+    zh_hans: 北美洲
+    zh_hant: 北美洲
+    zh_hk: 北美洲
+    zh_mo: 北美洲
     zh-my: 北美洲
-    zh-sg: 北美洲
-    zh-tw: 北美洲
+    zh_sg: 北美洲
+    zh_tw: 北美洲
     zu: IMelika Enyakatho
 dv_is_same_as:
 - '[[../../WikiData/WD~North_America,49|WD~North_America,49]]'

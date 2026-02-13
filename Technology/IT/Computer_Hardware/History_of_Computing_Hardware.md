@@ -79,7 +79,7 @@ dv_has_:
     ar: تاريخ عتاد الحوسبة
     ast: Historia del hardware
     az: Hesablama avadanlıqı tarixçəsi
-    be-tarask: гісторыя вылічальнай тэхнікі
+    be_tarask: гісторыя вылічальнай тэхнікі
     bg: История на изчислителната техника
     bn: কম্পিউটিং হার্ডওয়্যারের ইতিহাস
     bs: Historija računarskog hardvera
@@ -129,8 +129,8 @@ dv_has_:
     sl: zgodovina računalnikov
     sq: Historia e kompjuterit
     sr: Istorija računara
-    sr-ec: Историја рачунара
-    sr-el: Istorija računara
+    sr_ec: Историја рачунара
+    sr_el: Istorija računara
     sv: datorns historia
     sw: Historia ya tarakilishi
     te: చరిత్ర (కంప్యూటర్లు)
@@ -140,12 +140,12 @@ dv_has_:
     uk: історія обчислювальної техніки
     vi: Lịch sử phần cứng máy tính
     zh: 計算機硬體歷史
-    zh-cn: 计算机硬件历史
-    zh-hans: 计算机硬件历史
-    zh-hant: 計算機硬體歷史
-    zh-hk: 計算機硬件歷史
-    zh-sg: 计算机硬体历史
-    zh-tw: 計算機硬體歷史
+    zh_cn: 计算机硬件历史
+    zh_hans: 计算机硬件历史
+    zh_hant: 計算機硬體歷史
+    zh_hk: 計算機硬件歷史
+    zh_sg: 计算机硬体历史
+    zh_tw: 計算機硬體歷史
 ---
 # [[History_of_Computing_Hardware]] 
 

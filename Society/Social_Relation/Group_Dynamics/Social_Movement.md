@@ -141,7 +141,7 @@ dv_has_:
     az: ictimai hərəkat
     azb: ایجتیماعی حرکت
     be: грамадскі рух
-    be-tarask: грамадзкі рух
+    be_tarask: грамадзкі рух
     bg: Социално движение
     bn: সামাজিক আন্দোলন
     br: luskad sokial
@@ -185,7 +185,7 @@ dv_has_:
     kn: ಸಾಮಾಜಿಕ ಆಂದೋಲನ
     ko: 사회 운동
     ku: tevgera civakî
-    ku-latn: tevgera civakî
+    ku_latn: tevgera civakî
     la: movimentum sociale
     lb: Sozial Bewegung
     lt: visuomeninis judėjimas
@@ -193,7 +193,7 @@ dv_has_:
     mk: општествено движење
     ml: സാമൂഹിക മുന്നേറ്റം
     ms: gerakan sosial
-    ms-arab: ݢرقن سوسيال
+    ms_arab: ݢرقن سوسيال
     nan: Siā-hoē ūn-tōng
     nb: sosial bevegelse
     ne: सामाजिक अभियान
@@ -204,7 +204,7 @@ dv_has_:
     pa: ਸਮਾਜਕ ਅੰਦੋਲਨ
     pl: ruch społeczny
     pt: movimento social
-    pt-br: movimento social
+    pt_br: movimento social
     ro: mișcare socială
     ru: общественное движение
     sco: social movement
@@ -215,14 +215,14 @@ dv_has_:
     sms: narodliikkõs
     sq: lëvizje sociale
     sr: друштвени покрет
-    sr-ec: друштвени покрет
-    sr-el: društveni pokret
+    sr_ec: друштвени покрет
+    sr_el: društveni pokret
     sv: folkrörelse
     sw: harakati za kijamii
     th: การเคลื่อนไหวทางสังคม
     tr: sosyal hareket
     tt: иҗтимагый хәрәкәт
-    tt-cyrl: иҗтимагый хәрәкәт
+    tt_cyrl: иҗтимагый хәрәкәт
     udm: мер мынэт
     uk: соціальний рух
     ur: سماجی تحریک
@@ -231,14 +231,14 @@ dv_has_:
     vi: phong trào xã hội
     yue: 社會運動
     zh: 社會運動
-    zh-cn: 社会运动
-    zh-hans: 社会运动
-    zh-hant: 社會運動
-    zh-hk: 社會運動
-    zh-mo: 社會運動
+    zh_cn: 社会运动
+    zh_hans: 社会运动
+    zh_hant: 社會運動
+    zh_hk: 社會運動
+    zh_mo: 社會運動
     zh-my: 社会运动
-    zh-sg: 社会运动
-    zh-tw: 社會運動
+    zh_sg: 社会运动
+    zh_tw: 社會運動
 ---
 # [[Social_Movement]] 
 

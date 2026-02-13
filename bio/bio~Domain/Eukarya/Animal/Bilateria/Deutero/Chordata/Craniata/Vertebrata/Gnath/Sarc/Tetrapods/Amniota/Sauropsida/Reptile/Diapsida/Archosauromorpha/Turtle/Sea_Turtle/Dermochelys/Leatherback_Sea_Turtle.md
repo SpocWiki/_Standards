@@ -191,7 +191,7 @@ dv_has_:
     ast: Dermochelys coriacea
     az: dərili tısbağa
     ban: penyu belimbing
-    be-tarask: скурыстая чарапаха
+    be_tarask: скурыстая чарапаха
     bg: кожеста костенурка
     bn: বড় চামট সাগর কাছিম
     br: baot lêrek
@@ -262,8 +262,8 @@ dv_has_:
     wuu: 棱皮龟
     yue: 稜皮龜
     zh: 棱皮龜
-    zh-cn: 棱皮龟
-    zh-tw: 革龜
+    zh_cn: 棱皮龟
+    zh_tw: 革龜
 ---
 # [[Leatherback_Sea_Turtle]] 
 

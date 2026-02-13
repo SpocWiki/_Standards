@@ -63,7 +63,7 @@ dv_has_:
     ast: The Dark Side of the Moon
     az: The Dark Side of the Moon
     be: The Dark Side of the Moon
-    be-tarask: The Dark Side of the Moon
+    be_tarask: The Dark Side of the Moon
     bg: The Dark Side of the Moon
     bn: দ্য ডার্ক সাইড অব দ্য মুন
     br: The Dark Side of the Moon
@@ -76,7 +76,7 @@ dv_has_:
     de: The Dark Side of the Moon
     el: The Dark Side of the Moon
     en: The Dark Side of the Moon
-    en-gb: The Dark Side of the Moon
+    en_gb: The Dark Side of the Moon
     eo: The dark side of the moon
     es: The Dark Side of the Moon
     et: The Dark Side of the Moon
@@ -109,7 +109,7 @@ dv_has_:
     pl: The Dark Side of the Moon
     pms: The Dark Side of the Moon
     pt: The Dark Side of the Moon
-    pt-br: The Dark Side of the Moon
+    pt_br: The Dark Side of the Moon
     ro: The Dark Side of the Moon
     ru: The Dark Side of the Moon
     sco: The Dark Side of the Moon
@@ -118,8 +118,8 @@ dv_has_:
     sl: The Dark Side of the Moon
     sq: The Dark Side of the Moon
     sr: The Dark Side of the Moon
-    sr-ec: Тхе Дарк Сиде оф тхе Моон
-    sr-el: The Dark Side of the Moon
+    sr_ec: Тхе Дарк Сиде оф тхе Моон
+    sr_el: The Dark Side of the Moon
     sv: The Dark Side of the Moon
     th: เดอะดาร์กไซด์ออฟเดอะมูน
     tr: The Dark Side Of The Moon
@@ -129,12 +129,12 @@ dv_has_:
     war: The Dark Side of the Moon
     wuu: 月个暗面
     zh: 月之暗面
-    zh-cn: 月之暗面
-    zh-hans: 月之暗面
-    zh-hant: 月之暗面
-    zh-hk: 月之暗面
-    zh-sg: 月之暗面
-    zh-tw: 月之暗面
+    zh_cn: 月之暗面
+    zh_hans: 月之暗面
+    zh_hant: 月之暗面
+    zh_hk: 月之暗面
+    zh_sg: 月之暗面
+    zh_tw: 月之暗面
 ---
 # [[Dark_Side_of_the_Moon]] 
 

@@ -211,7 +211,7 @@ dv_has_:
     ban: titanium
     bcl: titanyo
     be: Тытан, хімічны элемент
-    be-tarask: тытан
+    be_tarask: тытан
     bg: титан
     bho: टाइटानियम
     blk: တုဲင်တေနီယမ်
@@ -296,7 +296,7 @@ dv_has_:
     mr: टायटॅनियम
     mrj: Титан
     ms: titanium
-    ms-arab: تيتانيوم
+    ms_arab: تيتانيوم
     mt: titanju
     my: တိုင်တေနီယမ်
     myv: Титан
@@ -322,7 +322,7 @@ dv_has_:
     pnb: ٹائٹینیم
     ps: تېتانيوم
     pt: titânio
-    pt-br: titânio
+    pt_br: titânio
     qu: Titanyu
     ro: titan
     ru: титан
@@ -364,11 +364,11 @@ dv_has_:
     yo: Titaniomu
     yue: 鈦
     zh: 鈦
-    zh-cn: 钛
-    zh-hans: 钛
-    zh-hant: 鈦
-    zh-hk: 鈦
-    zh-tw: 鈦
+    zh_cn: 钛
+    zh_hans: 钛
+    zh_hant: 鈦
+    zh_hk: 鈦
+    zh_tw: 鈦
     zu: IsinTsazayiya
   number_of_:
     period: 4

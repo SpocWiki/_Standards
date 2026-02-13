@@ -61,7 +61,7 @@ dv_has_:
     ast: Aria
     az: Ariya
     be: арыя
-    be-tarask: арыя
+    be_tarask: арыя
     bg: Ария
     bs: Arija
     ca: ària
@@ -72,8 +72,8 @@ dv_has_:
     de: Arie
     el: Άρια
     en: aria
-    en-ca: aria
-    en-gb: aria
+    en_ca: aria
+    en_gb: aria
     eo: ario
     es: aria
     et: Aaria
@@ -93,11 +93,11 @@ dv_has_:
     ja: アリア
     ka: არია
     kk: Ария
-    kk-arab: ارىييا
+    kk_arab: ارىييا
     kk-cn: ارىييا
-    kk-cyrl: Ария
+    kk_cyrl: Ария
     kk-kz: Ария
-    kk-latn: Arïya
+    kk_latn: Arïya
     kk-tr: Arïya
     ko: 아리아
     ky: Ария
@@ -132,12 +132,12 @@ dv_has_:
     wuu: 咏叹调
     yue: 詠嘆調
     zh: 詠嘆調
-    zh-cn: 咏叹调
-    zh-hans: 咏叹调
-    zh-hant: 詠嘆調
-    zh-hk: 詠嘆調
-    zh-sg: 咏叹调
-    zh-tw: 詠嘆調
+    zh_cn: 咏叹调
+    zh_hans: 咏叹调
+    zh_hant: 詠嘆調
+    zh_hk: 詠嘆調
+    zh_sg: 咏叹调
+    zh_tw: 詠嘆調
 ---
 # [[Aria]] 
 

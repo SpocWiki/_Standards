@@ -126,7 +126,7 @@ dv_has_:
     azb: سالاد
     bar: Salod
     be: cалата
-    be-tarask: салата
+    be_tarask: салата
     bg: салата
     bho: सलाद
     bm: salati
@@ -142,8 +142,8 @@ dv_has_:
     de: Salat
     el: σαλάτα
     en: salad
-    en-ca: Salad
-    en-gb: salad
+    en_ca: Salad
+    en_gb: salad
     eo: salato
     es: ensalada
     et: salat
@@ -174,7 +174,7 @@ dv_has_:
     kn: ಸ್ಯಾಲಡ್
     ko: 샐러드
     ku: Selete
-    ku-latn: selete
+    ku_latn: selete
     la: Acetaria
     lad: ensalada
     lb: Zalot
@@ -187,7 +187,7 @@ dv_has_:
     ml: സാലഡ്
     mrj: Салат
     ms: salad
-    ms-arab: سالد
+    ms_arab: سالد
     mt: insalata
     mzn: سالات
     nb: salat
@@ -203,7 +203,7 @@ dv_has_:
     pms: salada
     pnb: سلاد
     pt: salada
-    pt-br: Salada
+    pt_br: Salada
     qu: Yuyupa
     ro: salată
     roa-tara: "'nzalate"
@@ -218,8 +218,8 @@ dv_has_:
     so: Saladh
     sq: sallatë
     sr: салата
-    sr-ec: салата
-    sr-el: salata
+    sr_ec: салата
+    sr_el: salata
     sv: sallad
     sw: Kachumbari
     ta: சாலட்
@@ -239,13 +239,13 @@ dv_has_:
     yue: 沙律
     zh: 沙拉
     zh-cn: 沙拉
-    zh-hans: 沙拉
-    zh-hant: 沙拉
-    zh-hk: 沙律
-    zh-mo: 沙律
+    zh_hans: 沙拉
+    zh_hant: 沙拉
+    zh_hk: 沙律
+    zh_mo: 沙律
     zh-my: 沙拉
-    zh-sg: 沙拉
-    zh-tw: 沙拉
+    zh_sg: 沙拉
+    zh_tw: 沙拉
     zu: isaladi
 ---
 # [[Salad]]

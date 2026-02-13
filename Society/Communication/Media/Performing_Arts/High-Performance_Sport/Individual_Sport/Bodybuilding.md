@@ -100,7 +100,7 @@ dv_has_:
     ast: Culturismu
     az: bodibildinq
     be: Культурызм
-    be-tarask: культурызм
+    be_tarask: культурызм
     bg: Културизъм
     bjn: Bina awak
     bn: শরীর গঠন
@@ -131,7 +131,7 @@ dv_has_:
     ia: Culturismo
     id: Binaraga
     ike-cans: ᐃᕙᓗᕕᒃ ᐊᖑᑦ
-    ike-latn: ivaluvik angut
+    ike_latn: ivaluvik angut
     is: Vaxtarrækt
     it: culturismo
     iu: ᐃᕙᓗᕕᒃ ᐊᖑᑦ
@@ -141,8 +141,8 @@ dv_has_:
     kn: ಬಾಡಿ ಬಿಲ್ಡಿಂಗ್
     ko: 보디빌딩
     ku: Leşciwanî
-    ku-arab: لەشجوانی
-    ku-latn: Leşciwanî
+    ku_arab: لەشجوانی
+    ku_latn: Leşciwanî
     ky: бодибилдинг
     lb: Bodybuilding
     lt: kultūrizmas
@@ -152,7 +152,7 @@ dv_has_:
     mn: Бялдаржуулал
     mr: शरीरसौष्ठव
     ms: bina badan
-    ms-arab: بينا بادن
+    ms_arab: بينا بادن
     my: ကာယဗလအားကစား
     nb: kroppsbygging
     nl: bodybuilding
@@ -168,13 +168,13 @@ dv_has_:
     sl: bodibilding
     sq: Bodibilldingu
     sr: Бодибилдинг
-    sr-ec: Бодибилдинг
-    sr-el: Bodibilding
+    sr_ec: Бодибилдинг
+    sr_el: Bodibilding
     sv: kroppsbyggning
     sw: Kujenga mwili
     ta: உடல் கட்டுதல்
     tg: Бадансозӣ
-    tg-latn: Badansozī
+    tg_latn: Badansozī
     th: เพาะกาย
     tl: Paghuhubog ng katawan
     tr: Vücut geliştirme
@@ -185,12 +185,12 @@ dv_has_:
     wuu: 健美
     yue: 健美
     zh: 健美
-    zh-cn: 健美
-    zh-hans: 健美
-    zh-hant: 健美
-    zh-hk: 健美
-    zh-sg: 健美
-    zh-tw: 健美
+    zh_cn: 健美
+    zh_hans: 健美
+    zh_hant: 健美
+    zh_hk: 健美
+    zh_sg: 健美
+    zh_tw: 健美
 ---
 # [[Bodybuilding]] 
 

@@ -122,7 +122,7 @@ dv_has_:
     ba: Тары
     bar: Brein
     be: проса
-    be-tarask: прасяныя крупы
+    be_tarask: прасяныя крупы
     bg: Просо
     bn: মিলেট
     bo: ཁྲེ།
@@ -179,7 +179,7 @@ dv_has_:
     mos: Kazui
     mr: भरड धान्य
     ms: sekoi
-    ms-arab: سکوي
+    ms_arab: سکوي
     mul: millet
     nan: Tai-á-bí
     nb: hirse

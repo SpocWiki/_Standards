@@ -107,7 +107,7 @@ dv_has_:
     az: Metr sistemi
     bcl: Sistemang metriko
     be: метрычная сістэма мер
-    be-tarask: мэтрычная сыстэма мераў
+    be_tarask: мэтрычная сыстэма мераў
     bg: метрична система
     bn: মেট্রিক একক
     bs: Metrički sistem
@@ -168,7 +168,7 @@ dv_has_:
     nn: Metersystemet
     pl: system metryczny dziesiętny
     pt: sistema métrico
-    pt-br: sistema métrico
+    pt_br: sistema métrico
     ro: sistemul metric
     ru: метрическая система
     sah: Метр системата
@@ -195,12 +195,12 @@ dv_has_:
     yo: Sístẹ̀mù ìwọ̀n mítà
     yue: 公制
     zh: 米制
-    zh-cn: 米制
-    zh-hans: 米制
-    zh-hant: 公制
-    zh-hk: 公制
-    zh-sg: 米制
-    zh-tw: 公制
+    zh_cn: 米制
+    zh_hans: 米制
+    zh_hant: 公制
+    zh_hk: 公制
+    zh_sg: 米制
+    zh_tw: 公制
 ---
 # [[Metric_System]] 
 

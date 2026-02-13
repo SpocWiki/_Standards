@@ -251,7 +251,7 @@ water_footprint: 910
 dv_has_:
   name_:
     ab: Атама
-    aeb-arab: خوخ
+    aeb_arab: خوخ
     af: Perske
     am: ኮክ
     ami: Lopas
@@ -266,7 +266,7 @@ dv_has_:
     bar: Pfeascha
     bcl: melokoton
     be: Персік
-    be-tarask: Персік
+    be_tarask: Персік
     bg: праскова
     bjn: Persik
     bn: পিচ
@@ -290,8 +290,8 @@ dv_has_:
     dty: आरु
     el: Ροδακινιά
     en: Prunus persica
-    en-ca: Peach
-    en-gb: peach
+    en_ca: Peach
+    en_gb: peach
     eo: Persikarbo
     es: Prunus persica
     et: virsik
@@ -355,7 +355,7 @@ dv_has_:
     nan: Thô-á
     nap: Perzeca
     nb: fersken
-    nds-nl: pirk
+    nds_nl: pirk
     ne: आरू
     new: बःसि
     nl: perzik
@@ -371,7 +371,7 @@ dv_has_:
     pms: Prunus persica
     pnb: آڑو
     pt: Pessegueiro
-    pt-br: Pessegueiro
+    pt_br: Pessegueiro
     qu: Lurasnu
     ro: Piersic
     ru: персик обыкновенный
@@ -399,7 +399,7 @@ dv_has_:
     tr: şeftali
     trv: Aring
     tt: шәфталу
-    tt-cyrl: шәфталу
+    tt_cyrl: шәфталу
     uk: персик
     ur: آڑو
     uz: Shaftoli
@@ -413,10 +413,10 @@ dv_has_:
     yue: 桃
     za: Makdauz
     zh: 桃
-    zh-cn: 桃
-    zh-hans: 桃
-    zh-hant: 桃
-    zh-tw: 桃
+    zh_cn: 桃
+    zh_hans: 桃
+    zh_hant: 桃
+    zh_tw: 桃
 ---
 # [[Peach]] 
 

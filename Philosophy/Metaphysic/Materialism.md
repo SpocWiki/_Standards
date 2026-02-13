@@ -97,7 +97,7 @@ dv_has_:
     ba: Материализм
     bar: Materialismus
     be: матэрыялізм
-    be-tarask: матэрыялізм
+    be_tarask: матэрыялізм
     bg: Материализъм
     bjn: Materialisme
     bn: বস্তুবাদ
@@ -114,8 +114,8 @@ dv_has_:
     de: Materialismus
     el: Υλισμός
     en: materialism
-    en-ca: Materialism
-    en-gb: materialism
+    en_ca: Materialism
+    en_gb: materialism
     eo: materiismo
     es: materialismo
     et: materialism
@@ -171,7 +171,7 @@ dv_has_:
     pms: Materialism
     pnb: میٹیریلزم
     pt: materialismo
-    pt-br: Materialismo
+    pt_br: Materialismo
     ro: materialism
     ru: материализм
     rue: Матеріалізм
@@ -208,8 +208,8 @@ dv_has_:
     yi: מאטעריאליזם
     yue: 唯物論
     zh: 唯物主義
-    zh-hant: 唯物主義
-    zh-hk: 唯物主義
+    zh_hant: 唯物主義
+    zh_hk: 唯物主義
 ---
 # [[Materialism]] 
 

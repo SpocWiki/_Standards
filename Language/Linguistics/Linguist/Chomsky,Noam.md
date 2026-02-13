@@ -341,7 +341,7 @@ dv_has_:
     azb: نوآم چامسکی
     ba: Ноам Хомский
     be: Ноам Хомскі
-    be-tarask: Ноам Чомскі
+    be_tarask: Ноам Чомскі
     bew: No'am Homski
     bg: Ноам Чомски
     bho: नोम चोमस्की
@@ -362,12 +362,12 @@ dv_has_:
     da: Noam Chomsky
     dag: Noam Chomsky
     de: Noam Chomsky
-    de-ch: Noam Chomsky
+    de_ch: Noam Chomsky
     diq: Noam Chomsky
     el: Νόαμ Τσόμσκι
     en: Noam Chomsky
-    en-ca: Noam Chomsky
-    en-gb: Noam Chomsky
+    en_ca: Noam Chomsky
+    en_gb: Noam Chomsky
     eo: Noam Chomsky
     es: Noam Chomsky
     et: Noam Chomsky
@@ -428,7 +428,7 @@ dv_has_:
     nan: Noam Chomsky
     nb: Noam Chomsky
     nds: Noam Chomsky
-    nds-nl: Noam Chomsky
+    nds_nl: Noam Chomsky
     nl: Noam Chomsky
     nn: Noam Chomsky
     nqo: ߊߝߑߙߊߡ ߣߏ߯ߡ ߛ߭ߏߡߛߑߞߌ߫
@@ -442,7 +442,7 @@ dv_has_:
     pnb: نوم چومسکی
     ps: نوم چومسكي
     pt: Noam Chomsky
-    pt-br: Noam Chomsky
+    pt_br: Noam Chomsky
     ro: Noam Chomsky
     ru: Ноам Хомский
     rue: Ноам Чомскі
@@ -481,8 +481,8 @@ dv_has_:
     yo: Noam Chomsky
     yue: 杭士基
     zh: 诺姆·乔姆斯基
-    zh-cn: 诺姆·乔姆斯基
-    zh-hans: 诺姆·乔姆斯基
+    zh_cn: 诺姆·乔姆斯基
+    zh_hans: 诺姆·乔姆斯基
 ---
 # [[Chomsky,Noam]] 
 

@@ -176,7 +176,7 @@ dv_has_:
     bar: weibal
     bcl: Babayi (tawuha)
     be: жаночы пол
-    be-tarask: саміца
+    be_tarask: саміца
     bg: женски организъм
     bho: मादा
     bn: স্ত্রীলিঙ্গ
@@ -227,7 +227,7 @@ dv_has_:
     kge: Kalabai
     ko: 암컷
     ks: مادٕ
-    ku-latn: zayenda mê
+    ku_latn: zayenda mê
     la: feminina
     lb: weiblechen Organismus
     lfn: fema
@@ -260,7 +260,7 @@ dv_has_:
     pl: samica
     pnt: θελκό
     pt: fêmea
-    pt-br: fêmea
+    pt_br: fêmea
     qu: china uywa
     ro: femelă
     ru: самка
@@ -278,8 +278,8 @@ dv_has_:
     so: dhedig
     sq: femra
     sr: женка
-    sr-ec: женка
-    sr-el: ženka
+    sr_ec: женка
+    sr_el: ženka
     st: Basali
     su: bikang
     sv: hona
@@ -290,7 +290,7 @@ dv_has_:
     tok: meli
     tr: dişi
     tt: ана зат
-    tt-cyrl: ана зат
+    tt_cyrl: ана зат
     uk: самиця
     ur: مادہ
     uz: urgʻochi
@@ -303,14 +303,14 @@ dv_has_:
     yue: 乸
     za: duzmeh
     zh: 雌性
-    zh-cn: 雌性
-    zh-hans: 雌性
-    zh-hant: 雌性
-    zh-hk: 雌性
-    zh-mo: 雌性
+    zh_cn: 雌性
+    zh_hans: 雌性
+    zh_hant: 雌性
+    zh_hk: 雌性
+    zh_mo: 雌性
     zh-my: 雌性
-    zh-sg: 雌性
-    zh-tw: 雌性
+    zh_sg: 雌性
+    zh_tw: 雌性
 ---
 # [[Female_Organism]] 
 

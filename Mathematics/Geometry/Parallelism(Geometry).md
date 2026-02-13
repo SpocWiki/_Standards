@@ -81,7 +81,7 @@ dv_has_:
     az: Paralel xətlər
     ba: параллеллек
     be: паралельнасць
-    be-tarask: паралельнасьць
+    be_tarask: паралельнасьць
     bg: Успоредност
     bs: Paralelnost
     ca: paral·lelisme
@@ -92,8 +92,8 @@ dv_has_:
     da: parallelitet
     de: Parallelität
     en: parallelism
-    en-ca: Parallel
-    en-gb: parallel
+    en_ca: Parallel
+    en_gb: parallel
     eo: paralelo
     es: paralelismo
     et: Paralleelsed sirged
@@ -123,7 +123,7 @@ dv_has_:
     nn: parallell
     pl: równoległość
     pt: paralelismo
-    pt-br: paralelismo
+    pt_br: paralelismo
     ro: Paralelism
     ru: параллельность
     sh: Paralelnost

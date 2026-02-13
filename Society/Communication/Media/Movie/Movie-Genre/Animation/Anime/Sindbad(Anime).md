@@ -20,9 +20,9 @@ dv_has_:
     ru: 'Arabian Nights: Sindbad no Bouken'
     tr: Sinbad
     zh: 天方夜譚
-    zh-hans: 天方夜谭
-    zh-hant: 天方夜譚
-    zh-hk: 天方夜譚
+    zh_hans: 天方夜谭
+    zh_hant: 天方夜譚
+    zh_hk: 天方夜譚
 aliases:
 - "Arabian Nights: Sinbad's Adventures"
 - 'Arabian Nights: Sindbad no Bouken'

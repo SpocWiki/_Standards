@@ -10,7 +10,7 @@ dv_has_:
     azb: دمیر پولیس
     bcl: RoboCop
     be: Рабакоп
-    be-tarask: Рабакоп
+    be_tarask: Рабакоп
     bg: Робокоп
     bn: রোবোকপ
     br: RoboCop
@@ -60,13 +60,13 @@ dv_has_:
     vi: RoboCop
     yue: 鐵甲威龍
     zh: 機器戰警
-    zh-cn: 机械战警
-    zh-hans: 机械战警
-    zh-hant: 機器戰警
-    zh-hk: 鐵甲威龍
+    zh_cn: 机械战警
+    zh_hans: 机械战警
+    zh_hant: 機器戰警
+    zh_hk: 鐵甲威龍
     zh-my: 半人铁警
-    zh-sg: 半人铁警
-    zh-tw: 機器戰警
+    zh_sg: 半人铁警
+    zh_tw: 機器戰警
 aliases:
 - Filem Robocop
 - RoboCop

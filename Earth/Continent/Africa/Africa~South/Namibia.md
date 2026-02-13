@@ -509,7 +509,7 @@ dv_has_:
     ab: Намибиа
     ace: Namibia
     ady: Намибие
-    aeb-arab: ناميبيا
+    aeb_arab: ناميبيا
     af: Namibië
     am: ናሚቢያ
     ami: Namibia
@@ -530,7 +530,7 @@ dv_has_:
     bar: Namibia
     bcl: Namibya
     be: Намібія
-    be-tarask: Намібія
+    be_tarask: Намібія
     bew: Namibi
     bg: Намибия
     bho: नामीबिया
@@ -545,7 +545,7 @@ dv_has_:
     bug: Namibia
     bxr: Намиби
     ca: Namíbia
-    cbk-zam: Namibia
+    cbk_zam: Namibia
     cdo: Namibia
     ce: Намиби
     ceb: Namibia
@@ -554,7 +554,7 @@ dv_has_:
     ckb: نامیبیا
     co: Namibia
     crh: Namibiya
-    crh-latn: Namibiya
+    crh_latn: Namibiya
     cs: Namibie
     cv: Намиби
     cy: Namibia
@@ -562,15 +562,15 @@ dv_has_:
     dag: Namibia
     de: Namibia
     de-at: Namibia
-    de-ch: Namibia
+    de_ch: Namibia
     diq: Namibya
     dsb: Namibija
     dty: नामिबिया
     ee: Namibia
     el: Ναμίμπια
     en: Namibia
-    en-ca: Namibia
-    en-gb: Namibia
+    en_ca: Namibia
+    en_gb: Namibia
     eo: Namibio
     es: Namibia
     et: Namiibia
@@ -673,7 +673,7 @@ dv_has_:
     nan: Namibia
     nb: Namibia
     nds: Namibia
-    nds-nl: Namibie
+    nds_nl: Namibie
     ne: नामिबिया
     new: नामिबिया
     nl: Namibië
@@ -701,7 +701,7 @@ dv_has_:
     pnb: نامیبیا
     ps: ناميبيا
     pt: Namíbia
-    pt-br: Namíbia
+    pt_br: Namíbia
     qu: Namiwya
     rki: နမီးဘီးယားနိုင်ငံ
     rm: Namibia
@@ -733,8 +733,8 @@ dv_has_:
     so: Nambiya
     sq: Namibia
     sr: Намибија
-    sr-ec: држава у јужној Африци
-    sr-el: Namibija
+    sr_ec: држава у јужној Африци
+    sr_el: Namibija
     ss: INamibiya
     st: Namibia
     stq: Namibia
@@ -786,14 +786,14 @@ dv_has_:
     zea: Namibië
     zgh: ⵏⴰⵎⵉⴱⵢⴰ
     zh: 纳米比亚
-    zh-cn: 纳米比亚
-    zh-hans: 纳米比亚
-    zh-hant: 納米比亞
-    zh-hk: 納米比亞
-    zh-mo: 纳米比亚
+    zh_cn: 纳米比亚
+    zh_hans: 纳米比亚
+    zh_hant: 納米比亞
+    zh_hk: 納米比亞
+    zh_mo: 纳米比亚
     zh-my: 纳米比亚
-    zh-sg: 纳米比亚
-    zh-tw: 納米比亞
+    zh_sg: 纳米比亚
+    zh_tw: 納米比亞
     zu: INamibhiya
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Namibia

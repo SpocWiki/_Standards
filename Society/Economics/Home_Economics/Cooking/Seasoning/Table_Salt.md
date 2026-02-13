@@ -250,7 +250,7 @@ dv_has_:
     ban: uyah
     bar: Soiz
     be: павараная соль
-    be-tarask: харчовая соль
+    be_tarask: харчовая соль
     bew: garem dapur
     bg: готварска сол
     bho: नून
@@ -271,13 +271,13 @@ dv_has_:
     da: salt
     dag: yalim
     de: Speisesalz
-    de-ch: Speisesalz
+    de_ch: Speisesalz
     dsb: sol
     ee: dze
     el: αλάτι
     en: table salt
-    en-ca: salt
-    en-gb: salt
+    en_ca: salt
+    en_gb: salt
     eo: salo
     es: sal
     et: söögisool
@@ -339,7 +339,7 @@ dv_has_:
     lv: sāls
     lzh: 鹽
     mai: नून
-    map-bms: uyah
+    map_bms: uyah
     mcn: sékmántina
     mdf: сал
     min: garam dapua
@@ -375,7 +375,7 @@ dv_has_:
     pnb: نمک
     ps: مالګه
     pt: sal de cozinha
-    pt-br: sal de cozinha
+    pt_br: sal de cozinha
     qu: yanuna kachi
     ro: sare de masă
     ru: поваренная соль
@@ -402,7 +402,7 @@ dv_has_:
     so: milix
     sq: kripë
     sr: со
-    sr-ec: со
+    sr_ec: со
     su: uyah
     sv: salt
     sw: munyu
@@ -415,7 +415,7 @@ dv_has_:
     tl: asin
     tr: yemek tuzu
     tt: аш тозы
-    tt-cyrl: аш тозы
+    tt_cyrl: аш тозы
     tw: n kyini
     udm: векчи сылал
     ug: تۇز
@@ -433,9 +433,9 @@ dv_has_:
     yo: iyọ̀
     yue: 食鹽
     zh: 食盐
-    zh-hans: 食盐
-    zh-hant: 食鹽
-    zh-tw: 食鹽
+    zh_hans: 食盐
+    zh_hant: 食鹽
+    zh_tw: 食鹽
 ---
 # [[Table_Salt]] 🧂 
 

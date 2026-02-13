@@ -97,7 +97,7 @@ dv_has_:
     az: eksperiment
     ba: Эксперимент
     be: эксперымент
-    be-tarask: экспэрымэнт
+    be_tarask: экспэрымэнт
     bg: Експеримент
     bn: পরীক্ষা
     bs: eksperiment
@@ -139,7 +139,7 @@ dv_has_:
     ml: പരീക്ഷണം
     mn: Туршилт
     ms: uji kaji
-    ms-arab: اوجي کاجي
+    ms_arab: اوجي کاجي
     my: စမ်းသပ်ခြင်း
     nan: Si̍t-giām
     nb: eksperiment
@@ -152,7 +152,7 @@ dv_has_:
     pl: eksperyment
     ps: ازمايښت
     pt: experiência científica
-    pt-br: experimento científico
+    pt_br: experimento científico
     qu: Yañaku
     ro: experiment
     ru: эксперимент
@@ -169,8 +169,8 @@ dv_has_:
     so: Faaqidaad
     sq: eksperimenti
     sr: експеримент
-    sr-ec: експеримент
-    sr-el: eksperiment
+    sr_ec: експеримент
+    sr_el: eksperiment
     sv: experiment
     sw: Jaribio
     ta: பரிசோதனை
@@ -188,12 +188,12 @@ dv_has_:
     wuu: 实验
     yue: 實驗
     zh: 实验
-    zh-cn: 实验
-    zh-hans: 实验
-    zh-hant: 實驗
-    zh-hk: 實驗
-    zh-sg: 实验
-    zh-tw: 實驗
+    zh_cn: 实验
+    zh_hans: 实验
+    zh_hant: 實驗
+    zh_hk: 實驗
+    zh_sg: 实验
+    zh_tw: 實驗
     zu: UmGcanso
 ---
 # [[Experiment]] 

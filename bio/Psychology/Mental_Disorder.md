@@ -229,7 +229,7 @@ dv_has_:
     azb: سایکولوژیک مریضلیک لری
     ba: Психик ҡаҡшау
     be: Псіхічны разлад
-    be-tarask: псыхічны разлад
+    be_tarask: псыхічны разлад
     bg: Психично разстройство
     bn: মানসিক ব্যাধি
     br: kleñved spered
@@ -344,10 +344,10 @@ dv_has_:
     yi: מח-קרענק
     yue: 精神障礙
     zh: 精神障礙
-    zh-cn: 精神障碍
-    zh-hans: 精神障碍
-    zh-hant: 精神障礙
-    zh-tw: 精神障礙
+    zh_cn: 精神障碍
+    zh_hans: 精神障碍
+    zh_hant: 精神障礙
+    zh_tw: 精神障礙
 ---
 # [[Mental_Disorder]] 
 

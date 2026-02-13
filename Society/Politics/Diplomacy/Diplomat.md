@@ -145,7 +145,7 @@ dv_has_:
     azb: دیپلومات
     ba: дипломат
     be: дыпламат
-    be-tarask: дыплямат
+    be_tarask: дыплямат
     bg: дипломат
     bn: কূটনীতিবিদ
     br: diplomat
@@ -153,12 +153,12 @@ dv_has_:
     ca: diplomàtic
     ckb: دیپلۆمات
     crh: diplomat
-    crh-latn: diplomat
+    crh_latn: diplomat
     cs: diplomat
     cy: diplomydd
     da: diplomat
     de: Diplomat
-    de-ch: Diplomat
+    de_ch: Diplomat
     el: διπλωμάτης
     en: diplomat
     eo: diplomato
@@ -192,16 +192,16 @@ dv_has_:
     ka: დიპლომატი
     kaa: diplomat
     kk: дипломат
-    kk-arab: دىيپلومات
+    kk_arab: دىيپلومات
     kk-cn: دىيپلومات
-    kk-cyrl: Дипломат
+    kk_cyrl: Дипломат
     kk-kz: Дипломат
-    kk-latn: Dïplomat
+    kk_latn: Dïplomat
     kk-tr: Dïplomat
     ko: 외교관
     ks: سَفارت کار
     ku: dîplomat
-    ku-latn: dîplomat
+    ku_latn: dîplomat
     kw: lyskannas
     ky: Дипломат
     la: legatus
@@ -218,7 +218,7 @@ dv_has_:
     mn: Дипломат
     mr: राजदूत
     ms: diplomat
-    ms-arab: ديڤلومت
+    ms_arab: ديڤلومت
     mt: diplomatiku
     my: သံတမန်
     nb: diplomat
@@ -233,7 +233,7 @@ dv_has_:
     pl: dyplomata
     ps: ډیپلوماټ
     pt: diplomata
-    pt-br: diplomata
+    pt_br: diplomata
     ro: diplomat
     ru: дипломат
     rue: дипломат
@@ -247,8 +247,8 @@ dv_has_:
     sms: diplomatt
     sq: diplomat
     sr: дипломата
-    sr-ec: дипломата
-    sr-el: diplomata
+    sr_ec: дипломата
+    sr_el: diplomata
     sv: diplomat
     sw: Mwanadiplomasia
     ta: பண்ணுறவாண்மை
@@ -268,14 +268,14 @@ dv_has_:
     yi: דיפלאמאט
     yue: 外交官
     zh: 外交官
-    zh-cn: 外交官
-    zh-hans: 外交官
-    zh-hant: 外交官
-    zh-hk: 外交官
-    zh-mo: 外交官
+    zh_cn: 外交官
+    zh_hans: 外交官
+    zh_hant: 外交官
+    zh_hk: 外交官
+    zh_mo: 外交官
     zh-my: 外交官
-    zh-sg: 外交官
-    zh-tw: 外交官
+    zh_sg: 外交官
+    zh_tw: 外交官
 ---
 # [[Diplomat]] 
 

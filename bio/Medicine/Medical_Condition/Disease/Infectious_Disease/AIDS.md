@@ -235,7 +235,7 @@ dv_has_:
     ba: ВИЧ-инфекция
     bcl: AIDS
     be: СНІД
-    be-tarask: СНІД
+    be_tarask: СНІД
     bg: Синдром на придобитата имунна недостатъчност
     bjn: AIDS
     blk: AIDS
@@ -262,7 +262,7 @@ dv_has_:
     dv: އެއިޑްސް ބަލި
     el: AIDS
     en: AIDS
-    en-gb: AIDS
+    en_gb: AIDS
     eo: aidoso
     es: SIDA
     et: AIDS
@@ -344,7 +344,7 @@ dv_has_:
     nan: AIDS
     nb: aids
     nds: AIDS
-    nds-nl: HIV/AIDS
+    nds_nl: HIV/AIDS
     ne: एड्स
     new: एड्स
     nl: aids
@@ -359,7 +359,7 @@ dv_has_:
     pnb: ایڈز
     ps: اېډز
     pt: síndrome da imunodeficiência adquirida
-    pt-br: síndrome da imunodeficiência adquirida
+    pt_br: síndrome da imunodeficiência adquirida
     qu: Unquy hark'aypa chaskisqa waqlliynin
     ro: SIDA
     ru: синдром приобретённого иммунного дефицита
@@ -381,7 +381,7 @@ dv_has_:
     so: AIDS
     sq: sida
     sr: сида
-    sr-ec: сида
+    sr_ec: сида
     srn: Asi skopi
     su: AIDS
     sv: aids
@@ -397,7 +397,7 @@ dv_has_:
     tr: AIDS
     ts: HIV/AIDS
     tt: БИДС
-    tt-cyrl: БИДС
+    tt_cyrl: БИДС
     tum: AIDS
     tw: Babasoweremfoɔ
     udm: спид
@@ -418,14 +418,14 @@ dv_has_:
     za: Bingh'aiswhbing
     zgh: ⵙⵉⴷⴰ
     zh: 艾滋病
-    zh-cn: 艾滋病
-    zh-hans: 艾滋病
-    zh-hant: 艾滋病
-    zh-hk: 愛滋病
-    zh-mo: 愛滋病
+    zh_cn: 艾滋病
+    zh_hans: 艾滋病
+    zh_hant: 艾滋病
+    zh_hk: 愛滋病
+    zh_mo: 愛滋病
     zh-my: 爱滋病
-    zh-sg: 爱之病
-    zh-tw: 愛滋病
+    zh_sg: 爱之病
+    zh_tw: 愛滋病
 ---
 # [[AIDS]] 
 

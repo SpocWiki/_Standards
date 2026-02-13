@@ -140,7 +140,7 @@ dv_has_:
     ast: Pena
     az: Cəza
     be: пакаранне
-    be-tarask: пакараньне
+    be_tarask: пакараньне
     bg: Наказание
     bn: শাস্তি
     bs: Kazna
@@ -152,7 +152,7 @@ dv_has_:
     de: Strafe
     el: ποινή
     en: punishment
-    en-gb: punishment
+    en_gb: punishment
     eo: puno
     es: pena
     et: Karistus
@@ -179,16 +179,16 @@ dv_has_:
     ja: 処罰
     ka: დასჯა
     kk: жаза
-    kk-arab: جازا
+    kk_arab: جازا
     kk-cn: جازا
-    kk-cyrl: Жаза
+    kk_cyrl: Жаза
     kk-kz: Жаза
-    kk-latn: jaza
+    kk_latn: jaza
     kk-tr: Jaza
     kn: ಶಿಕ್ಷೆ
     ko: 처벌
     ku: siza
-    ku-latn: siza
+    ku_latn: siza
     ky: жаза
     la: poena
     lb: Strof
@@ -201,7 +201,7 @@ dv_has_:
     ms: hukuman
     my: ဒဏ်ပေးခံရမှု
     nb: straff
-    nds-nl: straf
+    nds_nl: straf
     new: दण्ड
     nl: straf
     nn: straff
@@ -221,8 +221,8 @@ dv_has_:
     so: Ciqaab
     sq: Ndëshkimi
     sr: казна
-    sr-ec: Казна
-    sr-el: Kazna
+    sr_ec: Казна
+    sr_el: Kazna
     sv: straff
     sw: Adhabu
     ta: தண்டனை
@@ -231,7 +231,7 @@ dv_has_:
     th: การลงโทษ
     tr: ceza
     tt: җәза
-    tt-cyrl: җәза
+    tt_cyrl: җәза
     uk: покарання
     ur: سزا
     uz: Jazo
@@ -243,12 +243,12 @@ dv_has_:
     xh: Isohlwayo
     yue: 懲罰
     zh: 懲罰
-    zh-cn: 惩罚
-    zh-hans: 惩罚
-    zh-hant: 懲罰
-    zh-hk: 懲罰
-    zh-sg: 惩罚
-    zh-tw: 懲罰
+    zh_cn: 惩罚
+    zh_hans: 惩罚
+    zh_hant: 懲罰
+    zh_hk: 懲罰
+    zh_sg: 惩罚
+    zh_tw: 懲罰
 ---
 # [[Punishment]] 
 

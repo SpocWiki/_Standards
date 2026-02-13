@@ -209,7 +209,7 @@ dv_has_:
     ban: Woodrow Wilson
     bcl: Woodrow Wilson
     be: Томас Вудра Вільсан
-    be-tarask: Томас Ўудра Ўілсан
+    be_tarask: Томас Ўудра Ўілсан
     bg: Удроу Уилсън
     bho: वुडरो विल्सन
     bi: Woodrow Wilson
@@ -229,12 +229,12 @@ dv_has_:
     da: Woodrow Wilson
     dag: Woodrow Wilson
     de: Woodrow Wilson
-    de-ch: Woodrow Wilson
+    de_ch: Woodrow Wilson
     diq: Woodrow Wilson
     el: Γούντροου Ουίλσον
     en: Woodrow Wilson
-    en-ca: Woodrow Wilson
-    en-gb: Woodrow Wilson
+    en_ca: Woodrow Wilson
+    en_gb: Woodrow Wilson
     eo: Woodrow Wilson
     es: Woodrow Wilson
     et: Woodrow Wilson
@@ -314,7 +314,7 @@ dv_has_:
     pnb: ووڈرو ولسن
     ps: توماس ووډرو ویلسون
     pt: Woodrow Wilson
-    pt-br: Woodrow Wilson
+    pt_br: Woodrow Wilson
     qu: Woodrow Wilson
     rm: Woodrow Wilson
     rmf: Woodrow Wilson
@@ -362,10 +362,10 @@ dv_has_:
     yo: Woodrow Wilson
     yue: 伍德羅威爾遜
     zh: 伍德罗·威尔逊
-    zh-cn: 伍德罗·威尔逊
-    zh-hans: 伍德罗·威尔逊
-    zh-hant: 伍德羅·威爾遜
-    zh-tw: 伍德羅·威爾遜
+    zh_cn: 伍德罗·威尔逊
+    zh_hans: 伍德罗·威尔逊
+    zh_hant: 伍德羅·威爾遜
+    zh_tw: 伍德羅·威爾遜
   time_:
     started:
     - 1856-12-28T00:00:00.000+00:53

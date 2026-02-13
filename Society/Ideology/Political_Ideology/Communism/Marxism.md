@@ -122,7 +122,7 @@ dv_has_:
     ba: Марксизм
     bar: Marxismus
     be: марксізм
-    be-tarask: марксізм
+    be_tarask: марксізм
     bg: Марксизъм
     bho: मार्क्सवाद
     bn: মার্কসবাদ
@@ -145,8 +145,8 @@ dv_has_:
     dsb: marxizm
     el: μαρξισμός
     en: Marxism
-    en-ca: Marxism
-    en-gb: Marxism
+    en_ca: Marxism
+    en_gb: Marxism
     eo: marksismo
     es: marxismo
     et: Marksism
@@ -208,7 +208,7 @@ dv_has_:
     mn: Марксизм
     mr: मार्क्सवाद
     ms: Marxisme
-    ms-arab: مرکسيسمى
+    ms_arab: مرکسيسمى
     nan: Marx-chú-gī
     nb: marxisme
     nds: Marxismus
@@ -224,7 +224,7 @@ dv_has_:
     pnb: مارکسزم
     ps: مارکسيزم
     pt: marxismo
-    pt-br: marxismo
+    pt_br: marxismo
     qu: Marksismu
     rm: Marxissem
     rmy: Marksismo
@@ -246,7 +246,7 @@ dv_has_:
     sms: marxismm
     sq: Marksizmi
     sr: марксизам
-    sr-ec: марксизам
+    sr_ec: марксизам
     sv: marxism
     sw: Umaksi
     ta: மார்க்சியம்
@@ -256,7 +256,7 @@ dv_has_:
     tl: Marxismo
     tr: Marksçılık
     tt: марксизм
-    tt-cyrl: марксизм
+    tt_cyrl: марксизм
     udm: марксизм
     uk: марксизм
     ur: مارکسیت
@@ -270,14 +270,14 @@ dv_has_:
     yi: מארקסיזם
     yue: 馬克思主義
     zh: 马克思主义
-    zh-cn: 马克思主义
-    zh-hans: 马克思主义
-    zh-hant: 馬克思主義
-    zh-hk: 馬克思主義
-    zh-mo: 马克思主义
+    zh_cn: 马克思主义
+    zh_hans: 马克思主义
+    zh_hant: 馬克思主義
+    zh_hk: 馬克思主義
+    zh_mo: 马克思主义
     zh-my: 马克思主义
-    zh-sg: 马克思主义
-    zh-tw: 馬克思主義
+    zh_sg: 马克思主义
+    zh_tw: 馬克思主義
 ---
 # [[Marxism]] 
 

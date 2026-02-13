@@ -218,7 +218,7 @@ dv_has_:
     bbc: Parbinotoan
     bcl: Kaaraman
     be: веды
-    be-tarask: веды
+    be_tarask: веды
     bg: знание
     bn: জ্ঞান
     br: Gouiziegezh
@@ -237,13 +237,13 @@ dv_has_:
     da: viden
     dag: baŋsim
     de: Wissen
-    de-ch: Wissen
+    de_ch: Wissen
     dsb: wěda
     dty: वुद्दि
     el: γνώση
     en: knowledge
-    en-ca: knowledge
-    en-gb: knowledge
+    en_ca: knowledge
+    en_gb: knowledge
     en-us: knowledge
     eo: scio
     es: conocimiento
@@ -313,7 +313,7 @@ dv_has_:
     mni: মণিপুরী
     mr: ज्ञान
     ms: pengetahuan
-    ms-arab: ڤڠتاهوان
+    ms_arab: ڤڠتاهوان
     mwl: Coincimiento
     my: အသိပညာ
     myv: содамочи
@@ -336,7 +336,7 @@ dv_has_:
     pnb: معلومات
     ps: پوهه
     pt: conhecimento
-    pt-br: conhecimento
+    pt_br: conhecimento
     qu: Yachay
     rmf: džaaniba
     ro: cunoaștere
@@ -365,7 +365,7 @@ dv_has_:
     so: Aqoon
     sq: dituri
     sr: знање
-    sr-ec: знање
+    sr_ec: знање
     su: Pangaweruh
     sv: kunskap
     sw: Ujuzi
@@ -381,8 +381,8 @@ dv_has_:
     tr: bilgi
     ts: Vutivi
     tt: белем
-    tt-cyrl: белем
-    tt-latn: belem
+    tt_cyrl: белем
+    tt_latn: belem
     udm: тодон-валан
     uk: знання
     ur: دانش
@@ -397,14 +397,14 @@ dv_has_:
     yue: 知識
     za: Caiz
     zh: 知識
-    zh-cn: 知识
-    zh-hans: 知识
-    zh-hant: 知識
-    zh-hk: 知識
-    zh-mo: 知識
+    zh_cn: 知识
+    zh_hans: 知识
+    zh_hant: 知識
+    zh_hk: 知識
+    zh_mo: 知識
     zh-my: 知识
-    zh-sg: 知识
-    zh-tw: 知識
+    zh_sg: 知识
+    zh_tw: 知識
     zu: ULwazi
 ---
 # [[Knowledge]] 

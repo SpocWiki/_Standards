@@ -73,7 +73,7 @@ dv_has_:
     arz: مشير (رتبه عسكريه)
     az: feldmarşal
     be: фельдмаршал
-    be-tarask: фэльдмаршал
+    be_tarask: фэльдмаршал
     bg: фелдмаршал
     bn: ফিল্ড মার্শাল
     ca: mariscal de camp

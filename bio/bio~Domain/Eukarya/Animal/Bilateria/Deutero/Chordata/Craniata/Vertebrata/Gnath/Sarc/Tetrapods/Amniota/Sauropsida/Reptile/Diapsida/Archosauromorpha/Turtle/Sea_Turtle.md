@@ -85,7 +85,7 @@ dv_has_:
     az: Dəniz tısbağaları
     ban: Penyu
     bcl: Pawikan sa dagat
-    be-tarask: марскія чарапахі
+    be_tarask: марскія чарапахі
     bg: Соленоводни костенурки
     br: Chelonioidea
     bs: Chelonioidea
@@ -98,8 +98,8 @@ dv_has_:
     de: Chelonioidea
     el: Θαλάσσια χελώνα
     en: sea turtle
-    en-ca: sea turtle
-    en-gb: sea turtle
+    en_ca: sea turtle
+    en_gb: sea turtle
     eo: Martestudoj
     es: Chelonioidea
     et: Chelonioidea
@@ -145,7 +145,7 @@ dv_has_:
     nah: Chīmalāyotl
     nb: havskilpadder
     nds: Chelonioidea
-    nds-nl: Chelonioidea
+    nds_nl: Chelonioidea
     nia: fönu
     nl: Chelonioidea
     nn: Chelonioidea
@@ -153,7 +153,7 @@ dv_has_:
     pl: Chelonioidea
     pms: Chelonioidea
     pt: tartaruga-marinha
-    pt-br: Chelonioidea
+    pt_br: Chelonioidea
     ro: Chelonioidea
     ru: Chelonioidea
     scn: Tartuca marina
@@ -180,12 +180,12 @@ dv_has_:
     yo: awun òkun
     yue: 海龜
     zh: 海龟
-    zh-cn: 海龟
-    zh-hans: 海龟
-    zh-hant: 海龜
-    zh-hk: 海龜
-    zh-sg: 海龟
-    zh-tw: 海龜
+    zh_cn: 海龟
+    zh_hans: 海龟
+    zh_hant: 海龜
+    zh_hk: 海龜
+    zh_sg: 海龟
+    zh_tw: 海龜
 ---
 # [[Sea_Turtle]] 
 

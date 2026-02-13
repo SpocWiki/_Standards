@@ -52,7 +52,7 @@ dv_has_:
     oc: Acariformes
     pl: Acariformes
     pt: Acariformes
-    pt-br: Acariformes
+    pt_br: Acariformes
     ro: Acariformes
     ru: акариформные клещи
     sl: Acariformes
@@ -65,9 +65,9 @@ dv_has_:
     vo: Acariformes
     war: Acariformes
     zh: 真螨总目
-    zh-cn: 真螨总目
-    zh-hans: 真螨总目
-    zh-tw: 真蟎總目
+    zh_cn: 真螨总目
+    zh_hans: 真螨总目
+    zh_tw: 真蟎總目
 ---
 # [[Acariformes]] 
 

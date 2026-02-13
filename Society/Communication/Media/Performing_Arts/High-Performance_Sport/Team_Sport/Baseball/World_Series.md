@@ -5,7 +5,7 @@ dv_has_:
     af: World Series (bofbal)
     ar: سلسلة العالم
     ast: Serie Mundial
-    be-tarask: Сусьветная сэрыя
+    be_tarask: Сусьветная сэрыя
     ca: Sèries Mundials de beisbol
     cs: Světová série
     da: Baseball playoffs

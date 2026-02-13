@@ -64,7 +64,7 @@ dv_has_:
     az: At təlimi
     azb: آت تعلیمی
     be: выездка
-    be-tarask: выездка
+    be_tarask: выездка
     ca: doma
     cs: drezura koní
     da: dressur
@@ -108,12 +108,12 @@ dv_has_:
     uk: виїздка
     yue: 盛裝舞步
     zh: 盛裝舞步
-    zh-cn: 盛装舞步
-    zh-hans: 盛装舞步
-    zh-hant: 盛裝舞步
-    zh-hk: 盛裝舞步
-    zh-sg: 盛装舞步
-    zh-tw: 盛裝舞步
+    zh_cn: 盛装舞步
+    zh_hans: 盛装舞步
+    zh_hant: 盛裝舞步
+    zh_hk: 盛裝舞步
+    zh_sg: 盛装舞步
+    zh_tw: 盛裝舞步
 ---
 # [[Dressage]] 
 

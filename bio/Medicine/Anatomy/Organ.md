@@ -139,14 +139,14 @@ dv_has_:
     ba: ағза
     bcl: organo
     be: орган
-    be-tarask: орган
+    be_tarask: орган
     bg: орган
     bn: অঙ্গ
     bo: དབང་པོ།
     br: organ
     bs: organ
     ca: òrgan
-    cbk-zam: organo
+    cbk_zam: organo
     ceb: organo
     ckb: ئەندام
     cs: orgán
@@ -154,11 +154,11 @@ dv_has_:
     cy: organ
     da: organ
     de: Organ
-    de-ch: Organ
+    de_ch: Organ
     el: όργανο
     en: organ
-    en-ca: organ
-    en-gb: organ
+    en_ca: organ
+    en_gb: organ
     eo: organo
     es: órgano
     et: elund
@@ -212,7 +212,7 @@ dv_has_:
     mk: орган
     ml: അവയവം
     ms: organ
-    ms-arab: اورݢن
+    ms_arab: اورݢن
     my: အင်္ဂါ
     nan: khì-koan
     nap: organo
@@ -231,7 +231,7 @@ dv_has_:
     pnt: έργανον
     ps: غړی
     pt: órgão
-    pt-br: órgão
+    pt_br: órgão
     qu: kurku yawri
     ro: organ
     ru: орган
@@ -247,8 +247,8 @@ dv_has_:
     sl: organ
     sq: organ
     sr: орган
-    sr-ec: орган
-    sr-el: organ
+    sr_ec: орган
+    sr_el: organ
     su: organ
     sv: organ
     sw: ogani
@@ -259,7 +259,7 @@ dv_has_:
     tl: organo
     tr: organ
     tt: әгъза
-    tt-cyrl: әгъза
+    tt_cyrl: әгъза
     uk: орган
     ur: عُضو
     vec: òrgano
@@ -276,14 +276,14 @@ dv_has_:
     yue: 器官
     za: gi'gvanh
     zh: 器官
-    zh-cn: 器官
-    zh-hans: 器官
-    zh-hant: 器官
-    zh-hk: 器官
-    zh-mo: 器官
+    zh_cn: 器官
+    zh_hans: 器官
+    zh_hant: 器官
+    zh_hk: 器官
+    zh_mo: 器官
     zh-my: 器官
-    zh-sg: 器官
-    zh-tw: 器官
+    zh_sg: 器官
+    zh_tw: 器官
 ---
 # [[Organ]] 
 

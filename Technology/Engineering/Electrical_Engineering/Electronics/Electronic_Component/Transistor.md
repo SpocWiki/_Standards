@@ -100,7 +100,7 @@ dv_has_:
     azb: ترانزیستور
     ba: Транзистор
     be: транзістар
-    be-tarask: транзыстар
+    be_tarask: транзыстар
     bg: Транзистор
     bn: ট্রানজিস্টর
     br: transistor
@@ -201,8 +201,8 @@ dv_has_:
     sn: Transistor
     sq: Transistori
     sr: транзистор
-    sr-ec: транзистор
-    sr-el: tranzistor
+    sr_ec: транзистор
+    sr_el: tranzistor
     stq: Transistore
     su: Transistor
     sv: transistor
@@ -227,9 +227,9 @@ dv_has_:
     yue: 電晶體
     zgh: ⴰⵜⵔⵓⵏⵣⵉⵙⵜⵓⵔ
     zh: 晶体管
-    zh-cn: 晶体管
-    zh-hant: 電晶體
-    zh-tw: 電晶體
+    zh_cn: 晶体管
+    zh_hant: 電晶體
+    zh_tw: 電晶體
 ---
 # [[Transistor]] 
 

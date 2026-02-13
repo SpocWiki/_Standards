@@ -33,8 +33,8 @@ dv_has_:
     vi: Platycopiidae
     war: Platycopiidae
     zh: 平角科
-    zh-cn: 平角科
-    zh-tw: 平角科
+    zh_cn: 平角科
+    zh_tw: 平角科
 ---
 # [[Platycopioida]]
 

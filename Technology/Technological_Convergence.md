@@ -45,13 +45,13 @@ dv_has_:
   name_:
     ar: تقارب تقني
     ast: Converxencia teunolóxica
-    be-tarask: тэхналягічная канвэргенцыя
+    be_tarask: тэхналягічная канвэргенцыя
     bg: Технологична конвергенция
     ca: convergència tecnològica
     de: technologische Konvergenz
     en: technological convergence
-    en-ca: Technological convergence
-    en-gb: Technological convergence
+    en_ca: Technological convergence
+    en_gb: Technological convergence
     es: Convergencia tecnológica
     eu: konbergentzia teknologiko
     fa: فناوری همگرا
@@ -67,11 +67,11 @@ dv_has_:
     nl: convergentie (ICT)
     pms: Convergensa tecnològica
     pt: convergência tecnológica
-    pt-br: Convergência tecnológica
+    pt_br: Convergência tecnológica
     ru: технологическая конвергенция
     sl: tehnološka konvergenca
     sr: технолошка конвергенција
-    sr-ec: технолошка конвергенција
+    sr_ec: технолошка конвергенција
     ta: தொழில்நுட்பக் குவிதல்
     tr: Yakınsama
     uk: Конвергенція інформаційних технологій
@@ -79,7 +79,7 @@ dv_has_:
     vi: Hội tụ công nghệ
     yue: 科技融合
     zh: 技術融合
-    zh-cn: 技术融合
+    zh_cn: 技术融合
 ---
 # [[Technological_Convergence]] 
 

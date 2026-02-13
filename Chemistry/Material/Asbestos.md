@@ -127,7 +127,7 @@ dv_has_:
     bar: Asbest
     bcl: Asbestos
     be: Азбест
-    be-tarask: азбэст
+    be_tarask: азбэст
     bg: азбест
     bn: অ্যাসবেসটস
     br: Amiant
@@ -136,7 +136,7 @@ dv_has_:
     cy: asbestos
     da: asbest
     de: Asbest
-    de-ch: Asbest
+    de_ch: Asbest
     el: Αμίαντος
     en: asbestos
     eo: asbesto
@@ -180,7 +180,7 @@ dv_has_:
     pl: Azbest
     ps: غرنۍ پاغونده
     pt: amianto
-    pt-br: Asbesto
+    pt_br: Asbesto
     ro: azbest
     ru: асбест
     sat: ᱮᱥᱵᱮᱥᱴᱚᱥ

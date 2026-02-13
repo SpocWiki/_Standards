@@ -132,7 +132,7 @@ dv_has_:
     azb: هوراس
     ba: Гораций
     be: Гарацый
-    be-tarask: Гарацыюс
+    be_tarask: Гарацыюс
     bg: Хораций
     bn: কুইন্তুস হোরাতিউস ফ্লাক্কুস
     br: Quintus Horatius Flaccus
@@ -143,12 +143,12 @@ dv_has_:
     cy: Horas
     da: Horats
     de: Horaz
-    de-ch: Horaz
+    de_ch: Horaz
     diq: Horatius
     el: Οράτιος
     en: Horace
-    en-ca: Horace
-    en-gb: Horace
+    en_ca: Horace
+    en_gb: Horace
     eo: Horacio
     es: Horacio
     et: Horatius
@@ -197,7 +197,7 @@ dv_has_:
     pms: Orassi
     ps: هوراس
     pt: Horácio
-    pt-br: Horácio
+    pt_br: Horácio
     ro: Quintus Horatius Flaccus
     roa-tara: Quinde Orazio Flacco
     ru: Гораций
@@ -229,10 +229,10 @@ dv_has_:
     xmf: ჰორაციუსი
     yue: 賀拉斯
     zh: 贺拉斯
-    zh-cn: 贺拉斯
-    zh-hans: 贺拉斯
-    zh-hant: 賀拉斯
-    zh-tw: 賀拉斯
+    zh_cn: 贺拉斯
+    zh_hans: 贺拉斯
+    zh_hant: 賀拉斯
+    zh_tw: 賀拉斯
 ---
 # [[Horace]] 
 

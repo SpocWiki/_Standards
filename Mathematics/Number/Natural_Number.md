@@ -198,7 +198,7 @@ dv_has_:
     ba: натураль һан
     ban: wilangan asli
     be: натуральны лік
-    be-tarask: натуральны лік
+    be_tarask: натуральны лік
     bg: естествено число
     bn: স্বাভাবিক সংখ্যা
     bo: རང་བྱུང་གྲངས།
@@ -211,12 +211,12 @@ dv_has_:
     cy: rhif naturiol
     da: naturligt tal
     de: natürliche Zahl
-    de-ch: natürliche Zahl
+    de_ch: natürliche Zahl
     el: φυσικός αριθμός
     eml: nómmer naturèl
     en: natural number
-    en-ca: natural number
-    en-gb: natural number
+    en_ca: natural number
+    en_gb: natural number
     en-us: natural number
     eo: natura nombro
     es: número natural
@@ -278,7 +278,7 @@ dv_has_:
     mn: натурал тоо
     mr: नैसर्गिक संख्या
     ms: nombor asli
-    ms-arab: نومبور اصلي
+    ms_arab: نومبور اصلي
     mt: numru naturali
     mul: "\U0001D615"
     mwl: númaro natural
@@ -300,7 +300,7 @@ dv_has_:
     pms: nùmer natural
     pnb: نیچرل نمبر
     pt: número natural
-    pt-br: número natural
+    pt_br: número natural
     ro: număr natural
     ru: натуральное число
     sa: प्राकृतिकसंख्या
@@ -311,7 +311,7 @@ dv_has_:
     se: lunddolaš lohku
     sgs: natūralos skaitlios
     sh: prirodan broj
-    sh-cyrl: природни број
+    sh_cyrl: природни број
     si: ස්වාභාවික සංඛ් යා
     sk: prirodzené číslo
     sl: naravno število
@@ -320,8 +320,8 @@ dv_has_:
     so: tiro tirsiimo
     sq: numër natyror
     sr: природан број
-    sr-ec: природан број
-    sr-el: prirodan broj
+    sr_ec: природан број
+    sr_el: prirodan broj
     sv: naturliga tal
     sw: namba asilia
     szl: naturalno nůmera
@@ -349,14 +349,14 @@ dv_has_:
     za: swhyienzsoq
     zgh: ⵓⵎⵎⵉⴷ ⴰⴳⴰⵎⴰⵏ
     zh: 自然数
-    zh-cn: 自然数
-    zh-hans: 自然数
-    zh-hant: 自然數
-    zh-hk: 自然數
-    zh-mo: 自然數
+    zh_cn: 自然数
+    zh_hans: 自然数
+    zh_hant: 自然數
+    zh_hk: 自然數
+    zh_mo: 自然數
     zh-my: 自然数
-    zh-sg: 自然数
-    zh-tw: 自然數
+    zh_sg: 自然数
+    zh_tw: 自然數
     zu: inombolo yokubala
 ---
 # [[Natural_Number]] 

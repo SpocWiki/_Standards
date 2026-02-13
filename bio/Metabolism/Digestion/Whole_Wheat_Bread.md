@@ -5,7 +5,7 @@ dv_has_:
     ar: خبز أسمر
     arz: عيش اسمر
     az: Tam buğda çörəyi
-    be-tarask: цэльназерневы хлеб
+    be_tarask: цэльназерневы хлеб
     cv: Тулă пĕремĕкĕ
     de: Vollkornbrot
     el: ψωμί ολικής άλεσης
@@ -26,8 +26,8 @@ dv_has_:
     vi: Bánh mì ngũ cốc
     yue: 麥包
     zh: 全麥麵包
-    zh-hans: 全穀面包
-    zh-hant: 全穀麵包
+    zh_hans: 全穀面包
+    zh_hant: 全穀麵包
 aliases:
 - Bánh mì ngũ cốc
 - Chleb razowy

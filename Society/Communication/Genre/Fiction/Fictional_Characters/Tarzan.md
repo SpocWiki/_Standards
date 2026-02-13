@@ -110,7 +110,7 @@ dv_has_:
     ar: طرزان
     arz: طرزان
     ast: Tarzan
-    be-tarask: Тарзан
+    be_tarask: Тарзан
     bg: Тарзан
     bn: টারজান
     br: Tarzan
@@ -170,8 +170,8 @@ dv_has_:
     sl: Tarzan
     sq: Tarzan
     sr: Тарзан
-    sr-ec: Тарзан
-    sr-el: Tarzan
+    sr_ec: Тарзан
+    sr_el: Tarzan
     ss: Tarzan
     sv: Tarzan
     ta: டார்சான்
@@ -186,14 +186,14 @@ dv_has_:
     wuu: 泰山 (角色)
     yue: 泰山
     zh: 泰山
-    zh-cn: 泰山
-    zh-hans: 泰山
-    zh-hant: 泰山
-    zh-hk: 泰山
-    zh-mo: 泰山
+    zh_cn: 泰山
+    zh_hans: 泰山
+    zh_hant: 泰山
+    zh_hk: 泰山
+    zh_mo: 泰山
     zh-my: 泰山
-    zh-sg: 泰山
-    zh-tw: 泰山
+    zh_sg: 泰山
+    zh_tw: 泰山
 ---
 # [[Tarzan]] 
 

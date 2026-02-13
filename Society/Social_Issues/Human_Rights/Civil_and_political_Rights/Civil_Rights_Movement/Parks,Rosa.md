@@ -120,7 +120,7 @@ dv_has_:
     ban: Rosa Parks
     bcl: Rosa Parks
     be: Роза Паркс
-    be-tarask: Роза Паркс
+    be_tarask: Роза Паркс
     bg: Роза Паркс
     bn: রোজা পার্কস
     br: Rosa Parks
@@ -134,7 +134,7 @@ dv_has_:
     de: Rosa Parks
     el: Ρόζα Παρκς
     en: Rosa Parks
-    en-gb: Rosa Parks
+    en_gb: Rosa Parks
     eo: Rosa Parks
     es: Rosa Parks
     et: Rosa Parks
@@ -199,7 +199,7 @@ dv_has_:
     pnb: روزا پارکس
     ps: روزا پارکس
     pt: Rosa Parks
-    pt-br: Rosa Parks
+    pt_br: Rosa Parks
     ro: Rosa Parks
     ru: Роза Паркс
     sa: रोजा पार्क्स
@@ -227,7 +227,7 @@ dv_has_:
     yo: Rosa Parks
     yue: 柏樂莎
     zh: 羅莎·帕克斯
-    zh-cn: 罗莎·帕克斯
+    zh_cn: 罗莎·帕克斯
 ---
 # [[Parks,Rosa]] 
 

@@ -175,7 +175,7 @@ dv_has_:
     azb: ژوزف-لویی لاقرانژ
     bar: Joseph-Louis Lagrange
     be: Жазеф Луі Лагранж
-    be-tarask: Жазэф-Люі Лягранж
+    be_tarask: Жазэф-Люі Лягранж
     bg: Жозеф Луи Лагранж
     bm: Joseph-Louis Lagrange
     br: Joseph-Louis Lagrange
@@ -188,11 +188,11 @@ dv_has_:
     da: Joseph-Louis Lagrange
     de: Joseph-Louis Lagrange
     de-at: Joseph-Louis Lagrange
-    de-ch: Joseph-Louis Lagrange
+    de_ch: Joseph-Louis Lagrange
     el: Ζοζέφ Λουί Λαγκράνζ
     en: Joseph-Louis Lagrange
-    en-ca: Joseph-Louis Lagrange
-    en-gb: Joseph-Louis Lagrange
+    en_ca: Joseph-Louis Lagrange
+    en_gb: Joseph-Louis Lagrange
     eo: Joseph-Louis Lagrange
     es: Joseph-Louis Lagrange
     et: Joseph-Louis Lagrange
@@ -250,7 +250,7 @@ dv_has_:
     nap: Joseph-Louis Lagrange
     nb: Joseph-Louis Lagrange
     nds: Joseph-Louis Lagrange
-    nds-nl: Joseph-Louis Lagrange
+    nds_nl: Joseph-Louis Lagrange
     nl: Joseph-Louis Lagrange
     nn: Joseph-Louis Lagrange
     nrm: Joseph-Louis Lagrange
@@ -261,7 +261,7 @@ dv_has_:
     pms: Joseph-Louis Lagrange
     prg: Joseph-Louis Lagrange
     pt: Joseph-Louis Lagrange
-    pt-br: Joseph-Louis Lagrange
+    pt_br: Joseph-Louis Lagrange
     rgn: Joseph-Louis Lagrange
     rm: Joseph-Louis Lagrange
     ro: Joseph-Louis Lagrange
@@ -276,8 +276,8 @@ dv_has_:
     sl: Joseph-Louis de Lagrange
     sq: Joseph Luis Lagrange
     sr: Жозеф Луј Лагранж
-    sr-ec: Жозеф Луј Лагранж
-    sr-el: Joseph-Louis Lagrange
+    sr_ec: Жозеф Луј Лагранж
+    sr_el: Joseph-Louis Lagrange
     sv: Joseph-Louis Lagrange
     sw: Joseph-Louis Lagrange
     ta: ஜோசப் லூயி லாக்ராஞ்சி
@@ -302,7 +302,7 @@ dv_has_:
     yo: Joseph Louis Lagrange
     yue: 拉格朗日
     zh: 约瑟夫·拉格朗日
-    zh-tw: 約瑟夫·拉格朗日
+    zh_tw: 約瑟夫·拉格朗日
     zu: Joseph-Louis Lagrange
 ---
 # [[Lagrange,Joseph_Louis]] 

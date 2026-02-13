@@ -257,7 +257,7 @@ dv_has_:
     bas: nìŋ
     bcl: Buhay
     be: жыццё
-    be-tarask: жыцьцё
+    be_tarask: жыцьцё
     bg: живот
     bho: जीवन
     bn: জীবন
@@ -280,12 +280,12 @@ dv_has_:
     dag: nyɛvili
     de: Leben
     de-at: Leben
-    de-ch: Leben
+    de_ch: Leben
     dsb: žywjenje
     el: ζωή
     en: life
-    en-ca: life
-    en-gb: life
+    en_ca: life
+    en_gb: life
     en-us: life
     eo: vivo
     es: vida
@@ -333,7 +333,7 @@ dv_has_:
     kbd: ГъащӀэ
     kcg: swuan
     kk: тіршілік
-    kk-cyrl: тіршілік
+    kk_cyrl: тіршілік
     km: ជីវិត
     kn: ಜೀವನ
     ko: 생명
@@ -368,7 +368,7 @@ dv_has_:
     mni: ꯄꯨꯟꯁꯤ
     mr: जीवन
     ms: hidupan
-    ms-arab: هيدوڤن
+    ms_arab: هيدوڤن
     mt: ħajja
     mwl: Bida
     my: သက်ရှိ
@@ -394,7 +394,7 @@ dv_has_:
     pnb: جیون
     ps: ژوند
     pt: vida
-    pt-br: vida
+    pt_br: vida
     qu: Kawsay
     ro: viață
     ru: жизнь
@@ -417,8 +417,8 @@ dv_has_:
     so: Nolosha
     sq: jeta
     sr: живот
-    sr-ec: живот
-    sr-el: život
+    sr_ec: живот
+    sr_el: život
     su: Hirup
     sv: liv
     sw: Uhai
@@ -436,8 +436,8 @@ dv_has_:
     tr: yaşam
     ts: Vutomi
     tt: тереклек
-    tt-cyrl: тереклек
-    tt-latn: terekleq
+    tt_cyrl: тереклек
+    tt_latn: terekleq
     tw: nkwa
     udm: улон
     uk: життя
@@ -458,14 +458,14 @@ dv_has_:
     yue: 生命
     za: Sengmingh
     zh: 生命
-    zh-cn: 生命
-    zh-hans: 生命
-    zh-hant: 生命
-    zh-hk: 生命
-    zh-mo: 生命
+    zh_cn: 生命
+    zh_hans: 生命
+    zh_hant: 生命
+    zh_hk: 生命
+    zh_mo: 生命
     zh-my: 生命
-    zh-sg: 生命
-    zh-tw: 生命
+    zh_sg: 生命
+    zh_tw: 生命
     zu: Impilo
 ---
 # [[Life]] 

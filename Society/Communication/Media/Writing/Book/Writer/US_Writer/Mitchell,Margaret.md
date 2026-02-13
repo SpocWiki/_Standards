@@ -112,7 +112,7 @@ dv_has_:
     azb: مارقارت میچل
     ba: Маргарет Митчелл
     be: Маргарэт Мітчэл
-    be-tarask: Маргарэт Мітчэл
+    be_tarask: Маргарэт Мітчэл
     bg: Маргарет Мичъл
     bn: মার্গারেট মিচেল
     br: Margaret Mitchell
@@ -122,11 +122,11 @@ dv_has_:
     cy: Margaret Mitchell
     da: Margaret Mitchell
     de: Margaret Mitchell
-    de-ch: Margaret Mitchell
+    de_ch: Margaret Mitchell
     el: Μάργκαρετ Μίτσελ
     en: Margaret Mitchell
-    en-ca: Margaret Mitchell
-    en-gb: Margaret Mitchell
+    en_ca: Margaret Mitchell
+    en_gb: Margaret Mitchell
     en-us: Margaret Mitchell
     eo: Margaret Mitĉell
     es: Margaret Mitchell
@@ -167,7 +167,7 @@ dv_has_:
     pl: Margaret Mitchell
     ps: مارګريت ميتچېل
     pt: Margaret Mitchell
-    pt-br: Margaret Mitchell
+    pt_br: Margaret Mitchell
     qu: Margaret Mitchell
     ro: Margaret Mitchell
     ru: Маргарет Митчелл
@@ -177,8 +177,8 @@ dv_has_:
     sl: Margaret Mitchell
     sq: Margaret Mitchell
     sr: Маргарет Мичел
-    sr-ec: Маргарет Мичел
-    sr-el: Margaret Mičel
+    sr_ec: Маргарет Мичел
+    sr_el: Margaret Mičel
     sv: Margaret Mitchell
     sw: Margaret Mitchell
     te: మార్గరెట్ మిచెల్
@@ -194,12 +194,12 @@ dv_has_:
     xmf: მარგარეტ მიტჩელი
     yue: 瑪嘉烈·米契爾
     zh: 玛格丽特·米切尔
-    zh-cn: 玛格丽特·米切尔
-    zh-hans: 玛格丽特·米切尔
-    zh-hant: 瑪格麗特·米切爾
-    zh-hk: 瑪格麗特·米切爾
-    zh-sg: 玛格丽特·米切尔
-    zh-tw: 瑪格麗特·米切爾
+    zh_cn: 玛格丽特·米切尔
+    zh_hans: 玛格丽特·米切尔
+    zh_hant: 瑪格麗特·米切爾
+    zh_hk: 瑪格麗特·米切爾
+    zh_sg: 玛格丽特·米切尔
+    zh_tw: 瑪格麗特·米切爾
 ---
 # [[Mitchell,Margaret]] 
 

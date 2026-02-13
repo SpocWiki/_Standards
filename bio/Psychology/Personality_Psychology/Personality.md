@@ -113,7 +113,7 @@ dv_has_:
     ast: personalidá
     bcl: personalidad
     be: індывідуальнасць
-    be-tarask: індывідуальнасьць
+    be_tarask: індывідуальнасьць
     bg: индивидуалност
     bjn: kapribadian
     bn: ব্যক্তিত্ব
@@ -127,8 +127,8 @@ dv_has_:
     el: προσωπικότητα
     eml: personalitê
     en: personality
-    en-ca: personality
-    en-gb: personality
+    en_ca: personality
+    en_gb: personality
     eo: personeco
     es: personalidad
     et: isiksus
@@ -160,7 +160,7 @@ dv_has_:
     mk: личност
     ml: personality
     ms: keperibadian
-    ms-arab: کڤريبادين
+    ms_arab: کڤريبادين
     my: ပင်ကိုစရိုက်
     mzn: شخصیت
     nan: Jîn-keh
@@ -171,7 +171,7 @@ dv_has_:
     pa: ਸ਼ਖਸੀਅਤ
     pl: osobowość
     pt: personalidade
-    pt-br: personalidade
+    pt_br: personalidade
     ro: personalitate
     ru: индивидуальность
     rue: Індівідуалность
@@ -182,8 +182,8 @@ dv_has_:
     so: shakhsiyadda
     sq: personaliteti
     sr: личност
-    sr-ec: личност
-    sr-el: ličnost
+    sr_ec: личност
+    sr_el: ličnost
     sv: personlighet
     ta: ஆளுமை
     tk: indiwiduallyk
@@ -196,8 +196,8 @@ dv_has_:
     wuu: 人格
     yue: 性格
     zh: 人格
-    zh-hant: 人格
-    zh-tw: 人格
+    zh_hant: 人格
+    zh_tw: 人格
 ---
 # [[Personality]] 
 

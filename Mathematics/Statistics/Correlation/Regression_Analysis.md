@@ -92,7 +92,7 @@ dv_has_:
     ar: تحليل الانحدار
     ast: Analís de la regresión
     az: Reqressiya analizi
-    be-tarask: рэгрэсійны аналіз
+    be_tarask: рэгрэсійны аналіз
     bg: Регресионен анализ
     bn: নির্ভরণ বিশ্লেষণ
     ca: anàlisi de la regressió
@@ -130,7 +130,7 @@ dv_has_:
     nn: regresjonsanalyse
     pl: Regresja
     pt: análise de regressão
-    pt-br: análise de regressão
+    pt_br: análise de regressão
     ro: analiza de regresie
     ru: регрессионный анализ
     se: regrešuvdnaanalysa
@@ -149,12 +149,12 @@ dv_has_:
     vi: Phân tích hồi quy
     yue: 迴歸分析
     zh: 迴歸分析
-    zh-cn: 回归分析
-    zh-hans: 回归分析
-    zh-hant: 迴歸分析
-    zh-hk: 迴歸分析
-    zh-sg: 回归分析
-    zh-tw: 迴歸分析
+    zh_cn: 回归分析
+    zh_hans: 回归分析
+    zh_hant: 迴歸分析
+    zh_hk: 迴歸分析
+    zh_sg: 回归分析
+    zh_tw: 迴歸分析
 ---
 # [[Regression_Analysis]] 
 

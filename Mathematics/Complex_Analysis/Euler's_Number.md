@@ -98,14 +98,14 @@ dv_has_:
     ast: Númberu e
     ba: Е (һан)
     be: лік e
-    be-tarask: лік e
+    be_tarask: лік e
     bg: Неперово число
     bn: অয়লারের ধ্রুবক
     ca: Nombre e
     ckb: ژمارەی e
     cs: Eulerovo číslo
     de: eulersche Zahl
-    de-ch: Eulersche Zahl
+    de_ch: Eulersche Zahl
     el: Αριθμός e
     en: Euler's number
     es: número e
@@ -150,7 +150,7 @@ dv_has_:
     vi: Số e
     wuu: E（数学常数）
     zh: 自然底数
-    zh-hans: 自然底数
+    zh_hans: 自然底数
 ---
 # [[Euler's_Number]] 
 

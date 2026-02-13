@@ -8,7 +8,7 @@ dv_has_:
     az: Ölçü
     ba: Арауыҡ үлсәнеше
     be: размернасць прасторы
-    be-tarask: разьмернасьць
+    be_tarask: разьмернасьць
     bew: Pedelokan
     bg: Размерност
     bn: মাত্রা
@@ -57,7 +57,7 @@ dv_has_:
     ml: മാനം
     mr: मिती
     ms: dimensi
-    ms-arab: ديمينسي
+    ms_arab: ديمينسي
     nan: Chhù-goân
     nb: dimensjon
     nl: dimensie
@@ -67,7 +67,7 @@ dv_has_:
     pl: wymiar
     pnb: ڈائیمنشن
     pt: dimensão
-    pt-br: dimensão
+    pt_br: dimensão
     ro: dimensiune
     ru: размерность
     scn: Diminsioni
@@ -80,7 +80,7 @@ dv_has_:
     sn: Nzenda
     sq: përmasa
     sr: Димензија
-    sr-ec: димензија
+    sr_ec: димензија
     su: Dimensi
     sv: dimension
     sw: Pandeolwa
@@ -89,7 +89,7 @@ dv_has_:
     tl: Dimensyon
     tr: boyut
     tt: үлчәнеш
-    tt-cyrl: үлчәнеш
+    tt_cyrl: үлчәнеш
     uk: розмірность
     ur: بُعد
     vec: dimension
@@ -99,7 +99,7 @@ dv_has_:
     yi: דימענסיע
     yue: 維度
     zh: 維度
-    zh-hant: 維度
+    zh_hant: 維度
     zu: Umngako
 aliases:
 - Akkammii

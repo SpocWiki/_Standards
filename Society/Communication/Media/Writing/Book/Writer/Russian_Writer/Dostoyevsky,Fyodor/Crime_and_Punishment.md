@@ -164,7 +164,7 @@ dv_has_:
     ast: Crime y castigu
     az: Cinayət və cəza
     be: Злачынства і пакаранне
-    be-tarask: Злачынства і пакараньне
+    be_tarask: Злачынства і пакараньне
     bg: Престъпление и наказание
     bn: অপরাধ ও শাস্তি
     bs: Zločin i kazna
@@ -174,11 +174,11 @@ dv_has_:
     cy: Trosedd a Chosb
     da: Forbrydelse og straf
     de: Schuld und Sühne
-    de-ch: Schuld und Sühne
+    de_ch: Schuld und Sühne
     el: Έγκλημα και τιμωρία
     en: Crime and Punishment
-    en-ca: Crime and Punishment
-    en-gb: Crime and Punishment
+    en_ca: Crime and Punishment
+    en_gb: Crime and Punishment
     eo: Krimo kaj puno
     es: Crimen y castigo
     et: Kuritöö ja karistus
@@ -200,11 +200,11 @@ dv_has_:
     jv: Crime and Punishment
     ka: დანაშაული და სასჯელი
     kk: Қылмыс және Жаза
-    kk-arab: قىلمىس جانە جازا
+    kk_arab: قىلمىس جانە جازا
     kk-cn: قىلمىس جانە جازا
-    kk-cyrl: Қылмыс және Жаза
+    kk_cyrl: Қылмыс және Жаза
     kk-kz: Қылмыс және Жаза
-    kk-latn: Qılmıs jäne Jaza
+    kk_latn: Qılmıs jäne Jaza
     kk-tr: Qılmıs jäne Jaza
     ko: 죄와 벌
     ku: Sûc û Ceza
@@ -225,7 +225,7 @@ dv_has_:
     pl: Zbrodnia i kara
     pnb: جرم اتے سزا
     pt: Crime e Castigo
-    pt-br: Crime e Castigo
+    pt_br: Crime e Castigo
     ro: Crimă și pedeapsă
     ru: Преступление и наказание
     sco: Crime an Punishment
@@ -236,8 +236,8 @@ dv_has_:
     sl: Zločin in kazen
     sq: Krim dhe ndëshkim
     sr: Злочин и казна
-    sr-ec: Злочин и казна
-    sr-el: Zločin i kazna
+    sr_ec: Злочин и казна
+    sr_el: Zločin i kazna
     sv: Brott och straff
     ta: குற்றமும் தண்டனையும்
     te: క్రైం అండ్ పనిష్మెంట్
@@ -246,23 +246,23 @@ dv_has_:
     tl: Pagkakasala at Kaparusahan
     tr: Suç ve Ceza
     tt: Җинаять һәм җәза
-    tt-cyrl: Җинаять һәм җәза
+    tt_cyrl: Җинаять һәм җәза
     uk: Злочин і кара
     ur: جرم و سزا
     uz: Jinoyat va jazo
-    uz-cyrl: Жиноят ва жазо
+    uz_cyrl: Жиноят ва жазо
     vep: Ogeruz i aznoičend
     vi: Tội ác và trừng phạt
     war: Krimen ngan Pagsirot
     wuu: 罪搭罚
     yue: 罪與罰
     zh: 罪與罰
-    zh-cn: 罪与罚
-    zh-hans: 罪与罚
-    zh-hant: 罪與罰
-    zh-hk: 罪與罰
-    zh-sg: 罪与罚
-    zh-tw: 罪與罰
+    zh_cn: 罪与罚
+    zh_hans: 罪与罚
+    zh_hant: 罪與罰
+    zh_hk: 罪與罰
+    zh_sg: 罪与罚
+    zh_tw: 罪與罰
 ---
 # [[Crime_and_Punishment]] 
 

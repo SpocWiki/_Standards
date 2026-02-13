@@ -108,7 +108,7 @@ dv_has_:
     az: İnsest
     bcl: Insesto
     be: інцэст
-    be-tarask: інцэст
+    be_tarask: інцэст
     bg: Кръвосмешение
     bn: অজাচার
     bo: གཉེན་ཚན་བར་ཆགས་སྦྱོར་བྱེད་པ།
@@ -123,8 +123,8 @@ dv_has_:
     diq: ensest
     el: Αιμομιξία
     en: incest
-    en-ca: Incest
-    en-gb: Incest
+    en_ca: Incest
+    en_gb: Incest
     eo: incesto
     es: incesto
     et: intsest
@@ -149,16 +149,16 @@ dv_has_:
     ja: 近親相姦
     ka: ინცესტი
     kk: Қан араласу
-    kk-arab: قان ارالاسۋ
+    kk_arab: قان ارالاسۋ
     kk-cn: قان ارالاسۋ
-    kk-cyrl: Қан араласу
+    kk_cyrl: Қан араласу
     kk-kz: Қан араласу
-    kk-latn: qan aralasw
+    kk_latn: qan aralasw
     kk-tr: Qan aralasw
     ko: 근친상간
     ku: Însest
-    ku-arab: ئینسەست
-    ku-latn: Însest
+    ku_arab: ئینسەست
+    ku_latn: Însest
     ky: Инцест
     lmo: incest
     lt: kraujomaiša
@@ -175,7 +175,7 @@ dv_has_:
     nqo: ߖߎ߬ߟߊ߬ߖߎ߮
     pl: kazirodztwo
     pt: incesto
-    pt-br: Incesto
+    pt_br: Incesto
     qu: muquy
     ro: incest
     ru: инцест
@@ -187,8 +187,8 @@ dv_has_:
     so: Fadulin qoyseed
     sq: incesti
     sr: Инцест
-    sr-ec: Инцест
-    sr-el: incest
+    sr_ec: Инцест
+    sr_el: incest
     sv: incest
     ta: தகாப் பாலுறவு
     te: అగమ్యాగమనము
@@ -202,12 +202,12 @@ dv_has_:
     yi: גילוי עריות
     yue: 亂倫
     zh: 近親性交
-    zh-cn: 近亲性交
-    zh-hans: 近亲性交
-    zh-hant: 近親性交
-    zh-hk: 近親性交
-    zh-sg: 近亲性交
-    zh-tw: 近親性交
+    zh_cn: 近亲性交
+    zh_hans: 近亲性交
+    zh_hant: 近親性交
+    zh_hk: 近親性交
+    zh_sg: 近亲性交
+    zh_tw: 近親性交
 ---
 # [[Incest]] 
 

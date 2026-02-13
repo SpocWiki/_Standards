@@ -1455,7 +1455,7 @@ dv_has_:
     ab: Индонезиа
     ace: Indônèsia
     ady: Индонезие
-    aeb-arab: إندونيسيا
+    aeb_arab: إندونيسيا
     af: Indonesië
     am: ኢንዶኔዥያ
     ami: Indonesia
@@ -1480,7 +1480,7 @@ dv_has_:
     bcl: Indonesya
     bdr: Indonesia
     be: Інданезія
-    be-tarask: Інданэзія
+    be_tarask: Інданэзія
     bew: Indonésia
     bg: Индонезия
     bgn: ایندونیزیا
@@ -1498,7 +1498,7 @@ dv_has_:
     bug: ᨕᨗᨉᨚᨊᨙᨔᨗᨐ
     bxr: Индонез
     ca: Indonèsia
-    cbk-zam: Indonesia
+    cbk_zam: Indonesia
     cdo: Éng-nà̤
     ce: Индонези
     ceb: Indonesia
@@ -1508,7 +1508,7 @@ dv_has_:
     ckb: ئیندۆنیزیا
     co: Indunesia
     crh: İndoneziya
-    crh-latn: İndoneziya
+    crh_latn: İndoneziya
     cs: Indonésie
     csb: Jindonezjô
     cu: Їндонисїꙗ
@@ -1518,7 +1518,7 @@ dv_has_:
     dag: Indonesia
     de: Indonesien
     de-at: Indonesien
-    de-ch: Indonesien
+    de_ch: Indonesien
     dga: Indonesia
     diq: İndonezya
     dsb: Indoneziska
@@ -1529,8 +1529,8 @@ dv_has_:
     ee: Indonesia
     el: Ινδονησία
     en: Indonesia
-    en-ca: Indonesia
-    en-gb: Indonesia
+    en_ca: Indonesia
+    en_gb: Indonesia
     en-us: Indonesia
     eo: Indonezio
     es: Indonesia
@@ -1556,7 +1556,7 @@ dv_has_:
     gn: Indonesia
     gom: इंडोनेशिया
     gom-deva: इंडोनेशिया
-    gom-latn: Indonesia
+    gom_latn: Indonesia
     gor: Indonesia
     gpe: Indonesia
     gsw: Indonesie
@@ -1630,7 +1630,7 @@ dv_has_:
     lzh: 印度尼西亞
     mad: Inḍonèsia
     mai: इन्डोनेसिया
-    map-bms: Indonesia
+    map_bms: Indonesia
     mdf: Индонэзия
     mg: Indonezia
     mhr: Индонезий
@@ -1644,7 +1644,7 @@ dv_has_:
     mr: इंडोनेशिया
     mrj: Индонези
     ms: Indonesia
-    ms-arab: ايندونيسيا
+    ms_arab: ايندونيسيا
     mt: Indoneżja
     mwl: Andonésia
     my: အင်ဒိုနီးရှားနိုင်ငံ
@@ -1660,7 +1660,7 @@ dv_has_:
     nap: Indonesia
     nb: Indonesia
     nds: Indonesien
-    nds-nl: Indonezie
+    nds_nl: Indonezie
     ne: इन्डोनेसिया
     new: इन्दोनेसिया
     nia: Indonesia
@@ -1689,7 +1689,7 @@ dv_has_:
     pnb: انڈونیشیا
     ps: اندونېزيا
     pt: Indonésia
-    pt-br: Indonésia
+    pt_br: Indonésia
     qu: Indunisya
     rm: Indonesia
     ro: Indonezia
@@ -1723,8 +1723,8 @@ dv_has_:
     so: Indunisiya
     sq: Indonezia
     sr: Индонезија
-    sr-ec: Индонезија
-    sr-el: Indonezija
+    sr_ec: Индонезија
+    sr_el: Indonezija
     srn: Indonesikondre
     ss: INdonesiya
     stq: Indonesien
@@ -1740,7 +1740,7 @@ dv_has_:
     te: ఇండోనేషియా
     tet: Indonézia
     tg: Индонезия
-    tg-cyrl: Ҷумҳурии Индонезия
+    tg_cyrl: Ҷумҳурии Индонезия
     th: ประเทศอินโดนีเซีย
     ti: ኢንዶኔስያ
     tk: Indoneziýa
@@ -1753,7 +1753,7 @@ dv_has_:
     trv: Indonesia
     ts: Indonesia
     tt: Индонезия
-    tt-cyrl: Индонезия
+    tt_cyrl: Индонезия
     tum: Indonesia
     tw: Indonesia
     udm: Индонезия
@@ -1780,14 +1780,14 @@ dv_has_:
     zea: Indonesië
     zgh: ⴰⵏⴷⵓⵏⵉⵙⵢⴰ
     zh: 印度尼西亚
-    zh-cn: 印度尼西亚
-    zh-hans: 印度尼西亚
-    zh-hant: 印度尼西亞
-    zh-hk: 印度尼西亞
-    zh-mo: 印度尼西亞
+    zh_cn: 印度尼西亚
+    zh_hans: 印度尼西亚
+    zh_hant: 印度尼西亞
+    zh_hk: 印度尼西亞
+    zh_mo: 印度尼西亞
     zh-my: 印度尼西亚
-    zh-sg: 印度尼西亚
-    zh-tw: 印度尼西亞
+    zh_sg: 印度尼西亚
+    zh_tw: 印度尼西亞
     zu: I-Indonesia
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Indonesia

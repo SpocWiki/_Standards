@@ -135,7 +135,7 @@ dv_has_:
     ast: Vittorio De Sica
     az: Vittorio de Sika
     be: Віторыа дэ Сіка
-    be-tarask: Віторыё Дэ Сыка
+    be_tarask: Віторыё Дэ Сыка
     bg: Виторио Де Сика
     bn: ভিত্তোরিও দে সিকা
     br: Vittorio De Sica
@@ -149,8 +149,8 @@ dv_has_:
     ee: Vittorio De Sica
     el: Βιτόριο ντε Σίκα
     en: Vittorio De Sica
-    en-ca: Vittorio De Sica
-    en-gb: Vittorio De Sica
+    en_ca: Vittorio De Sica
+    en_gb: Vittorio De Sica
     eo: Vittorio De Sica
     es: Vittorio De Sica
     et: Vittorio De Sica
@@ -193,7 +193,7 @@ dv_has_:
     pap: Vittorio De Sica
     pl: Vittorio De Sica
     pt: Vittorio De Sica
-    pt-br: Vittorio De Sica
+    pt_br: Vittorio De Sica
     qu: Vittorio De Sica
     ro: Vittorio De Sica
     ru: Витторио Де Сика
@@ -220,11 +220,11 @@ dv_has_:
     xmf: ვიტორიო დე სიკა
     yue: 第昔加
     zh: 維多里奧·狄西嘉
-    zh-hant: 維多里奧·狄西嘉
-    zh-hk: 第昔加
+    zh_hant: 維多里奧·狄西嘉
+    zh_hk: 第昔加
     zh-my: 维多里奥·狄西嘉
-    zh-sg: 维多里奥·狄西嘉
-    zh-tw: 維多里奧·狄西嘉
+    zh_sg: 维多里奥·狄西嘉
+    zh_tw: 維多里奧·狄西嘉
 ---
 # [[De_Sica,Vittorio]] 
 

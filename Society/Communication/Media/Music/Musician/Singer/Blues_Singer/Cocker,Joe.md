@@ -103,7 +103,7 @@ dv_has_:
     az: Joe Cocker
     azb: جو کاکر
     be: Джо Кокер
-    be-tarask: Джо Кокер
+    be_tarask: Джо Кокер
     bg: Джо Кокър
     br: Joe Cocker
     ca: Joe Cocker
@@ -113,12 +113,12 @@ dv_has_:
     da: Joe Cocker
     dag: Joe Cocker
     de: Joe Cocker
-    de-ch: Joe Cocker
+    de_ch: Joe Cocker
     el: Τζο Κόκερ
     eml: Joe Cocker
     en: Joe Cocker
-    en-ca: Joe Cocker
-    en-gb: Joe Cocker
+    en_ca: Joe Cocker
+    en_gb: Joe Cocker
     eo: Joe Cocker
     es: Joe Cocker
     et: Joe Cocker
@@ -161,7 +161,7 @@ dv_has_:
     pa: ਜੋ ਕੌਕਰ
     pl: Joe Cocker
     pt: Joe Cocker
-    pt-br: Joe Cocker
+    pt_br: Joe Cocker
     qu: Joe Cocker
     ro: Joe Cocker
     ru: Джо Кокер
@@ -184,8 +184,8 @@ dv_has_:
     xmf: ჯო კოკერი
     yue: 祖曲卡
     zh: 喬·羅伯特·科克爾
-    zh-cn: 乔·科克尔
-    zh-hant: 喬·科克爾
+    zh_cn: 乔·科克尔
+    zh_hant: 喬·科克爾
 ---
 # [[Cocker,Joe]] 
 

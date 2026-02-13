@@ -79,7 +79,7 @@ dv_has_:
     pnb: میٹا پلیٹفارمز
     ps: مېتا پلټفارمز
     pt: Meta
-    pt-br: Meta
+    pt_br: Meta
     sat: ᱢᱮᱴᱟ ᱯᱞᱟᱴᱯᱷᱨᱚᱢ
     so: Meta
     sr: Фејсбук
@@ -91,9 +91,9 @@ dv_has_:
     tr: Meta, Inc.
     ur: میٹا پلیٹ فارمز انکارپوریٹڈ
     yue: Meta平台
-    zh-cn: Meta
-    zh-hans: 脸书公司
-    zh-hk: Facebook公司
+    zh_cn: Meta
+    zh_hans: 脸书公司
+    zh_hk: Facebook公司
 ---
 #has_/created :: [[Meta_Platforms/Facebook]] 
 #has_/created ::[[../../../../../../../../IT/HardWare/Wearables/AR(Augmented_Reality_Glasses)/Meta~Orion]]] 

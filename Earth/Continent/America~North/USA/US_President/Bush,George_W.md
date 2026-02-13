@@ -259,7 +259,7 @@ dv_has_:
     ba: Джордж Уокер Буш
     ban: George W. Bush
     be: Джордж Уокер Буш
-    be-tarask: Джордж Ўокер Буш
+    be_tarask: Джордж Ўокер Буш
     bg: Джордж Уокър Буш
     bho: जार्ज डब्लू बुश
     bjn: George Walker Bush
@@ -311,19 +311,19 @@ dv_has_:
     ltg: George W. Bush
     lv: Džordžs V. Bušs
     mai: जर्ज डब्लु बुश
-    map-bms: George Walker Bush
+    map_bms: George Walker Bush
     mg: George Bush
     min: George Walker Bush
     mk: Џорџ В. Буш
     ml: ജോർജ്ജ് ഡബ്ല്യു. ബുഷ്
     mn: Жорж Уокер Буш
     mr: जॉर्ज डब्ल्यू. बुश
-    ms-arab: جورج و. بوش
+    ms_arab: جورج و. بوش
     mul: George W. Bush
     my: ဂျော့ချ် ဝေါလ်ကာ ဘုရှ်
     mzn: جرج واکر بوش
     nan: George W. Bush
-    nds-nl: George Walker Bush
+    nds_nl: George Walker Bush
     ne: जर्ज डब्लू बुस
     new: जोर्ज डबल्यु बुश
     nv: Hastiin alą́ąjįʼ dahsidáhígíí George W. Bush
@@ -362,11 +362,11 @@ dv_has_:
     yi: דזשארדזש וו. בוש
     yue: 喬治·沃克·布什
     zh: 喬治·沃克·布什
-    zh-cn: 乔治·沃克·布什
-    zh-hans: 乔治·沃克·布什
-    zh-hant: 喬治·沃克·布什
-    zh-hk: 喬治·獲加·布殊
-    zh-tw: 喬治·沃克·布什
+    zh_cn: 乔治·沃克·布什
+    zh_hans: 乔治·沃克·布什
+    zh_hant: 喬治·沃克·布什
+    zh_hk: 喬治·獲加·布殊
+    zh_tw: 喬治·沃克·布什
   time_: {}
 dv_is_:
   same_as:

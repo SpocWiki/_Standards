@@ -165,7 +165,7 @@ dv_has_:
     ast: Hidróxidu de sodiu
     azb: سودیوم هیدروکسید
     be: гідравокіс натрыю
-    be-tarask: гідраксыд натру
+    be_tarask: гідраксыд натру
     bg: натриев хидроксид
     bn: সোডিয়াম হাইড্রোক্সাইড
     bs: Natrij-hidroksid
@@ -222,7 +222,7 @@ dv_has_:
     pl: wodorotlenek sodu
     pnb: سوڈیم ہائیڈرآکسائیڈ
     pt: hidróxido de sódio
-    pt-br: hidróxido de sódio
+    pt_br: hidróxido de sódio
     ro: Hidroxid de sodiu
     ru: гидроксид натрия
     rup: Hidroxidu di natriu
@@ -234,8 +234,8 @@ dv_has_:
     so: Sodium Hydroxide
     sq: Hidroksidi i natriumit
     sr: натријум-хидроксид
-    sr-ec: Натријум-хидроксид
-    sr-el: Natrijum-hidroksid
+    sr_ec: Натријум-хидроксид
+    sr_el: Natrijum-hidroksid
     sv: natriumhydroxid
     ta: சோடியம் ஐதராக்சைடு
     te: సోడియమ్ హైడ్రాక్సైడ్
@@ -249,12 +249,12 @@ dv_has_:
     wuu: 氢氧化钠
     yue: 哥士的
     zh: 氢氧化钠
-    zh-cn: 氢氧化钠
-    zh-hans: 氢氧化钠
-    zh-hant: 氫氧化鈉
-    zh-hk: 氫氧化鈉
-    zh-sg: 氢氧化钠
-    zh-tw: 氫氧化鈉
+    zh_cn: 氢氧化钠
+    zh_hans: 氢氧化钠
+    zh_hant: 氫氧化鈉
+    zh_hk: 氫氧化鈉
+    zh_sg: 氢氧化钠
+    zh_tw: 氫氧化鈉
 ---
 # [[Sodium_Hydroxide]] 
 

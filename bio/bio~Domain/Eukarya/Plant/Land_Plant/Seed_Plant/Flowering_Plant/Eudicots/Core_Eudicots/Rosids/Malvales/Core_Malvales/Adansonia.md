@@ -110,7 +110,7 @@ dv_has_:
     ast: Baobab
     az: Adansoniya
     azb: آدانسونی
-    be-tarask: баобаб
+    be_tarask: баобаб
     bg: баобаб
     bn: বাওবাব
     br: Baobab
@@ -174,7 +174,7 @@ dv_has_:
     pl: Baobab
     pnb: باؤباب
     pt: Baobá
-    pt-br: Adansonia
+    pt_br: Adansonia
     ro: Adansonia
     ru: Адансония
     sco: Adansonia
@@ -182,8 +182,8 @@ dv_has_:
     sl: kruhovec
     sq: Adansonia
     sr: Баобаб
-    sr-ec: Баобаб
-    sr-el: Baobab
+    sr_ec: Баобаб
+    sr_el: Baobab
     su: Ki tambleg
     sv: Baobabsläktet
     sw: Ubuyu
@@ -199,12 +199,12 @@ dv_has_:
     wuu: 猴面包树属
     yue: 猢猻木屬
     zh: 猴面包树属
-    zh-cn: 猴面包树属
-    zh-hans: 猴面包树属
-    zh-hant: 猢猻樹屬
-    zh-hk: 猢猻樹屬
-    zh-sg: 猴面包树属
-    zh-tw: 猢猻樹屬
+    zh_cn: 猴面包树属
+    zh_hans: 猴面包树属
+    zh_hant: 猢猻樹屬
+    zh_hk: 猢猻樹屬
+    zh_sg: 猴面包树属
+    zh_tw: 猢猻樹屬
 ---
 # [[Adansonia]] 
 

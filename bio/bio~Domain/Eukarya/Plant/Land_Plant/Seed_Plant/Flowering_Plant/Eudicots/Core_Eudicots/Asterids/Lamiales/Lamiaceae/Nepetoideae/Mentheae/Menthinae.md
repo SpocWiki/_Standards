@@ -20,7 +20,7 @@ dv_has_:
     ar: نعناعينة
     ast: Menthinae
     az: Nanəkimilər
-    be-tarask: Menthinae
+    be_tarask: Menthinae
     bg: Menthinae
     ca: Menthinae
     ceb: Menthinae
@@ -46,7 +46,7 @@ dv_has_:
     oc: Menthinae
     pl: Menthinae
     pt: Menthinae
-    pt-br: Menthinae
+    pt_br: Menthinae
     ro: Menthinae
     ru: Menthinae
     sl: Menthinae
@@ -56,8 +56,8 @@ dv_has_:
     vo: Menthinae
     war: Menthinae
     zh: 薄荷亚族
-    zh-cn: 薄荷亚族
-    zh-hans: 薄荷亚族
+    zh_cn: 薄荷亚族
+    zh_hans: 薄荷亚族
 ---
 # [[Menthinae]] 
 

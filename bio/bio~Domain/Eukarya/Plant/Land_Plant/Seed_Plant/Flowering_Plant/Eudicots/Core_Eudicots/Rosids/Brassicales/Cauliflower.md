@@ -142,7 +142,7 @@ dv_has_:
     arz: ارنبيط
     ast: Brassica oleracea var botrytis
     be: квяцістая капуста
-    be-tarask: квяцістая капуста
+    be_tarask: квяцістая капуста
     bg: карфиол
     bho: फूलगोभी
     bn: ফুলকপি
@@ -161,8 +161,8 @@ dv_has_:
     dv: ކޮލި ފްލާވަރު
     el: Κουνουπίδι
     en: Brassica oleracea var. botrytis
-    en-ca: Cauliflower
-    en-gb: cauliflower
+    en_ca: Cauliflower
+    en_gb: cauliflower
     eo: Florbrasiko
     es: Brassica oleracea var. botrytis
     et: Lillkapsas
@@ -221,7 +221,7 @@ dv_has_:
     pl: kalafior
     pnb: گوبھی
     pt: Couve-flor
-    pt-br: Couve-flor
+    pt_br: Couve-flor
     ro: Conopidă
     ru: цветная капуста
     sa: पुष्पशाकम्
@@ -242,7 +242,7 @@ dv_has_:
     tl: Koliplor
     tr: Karnabahar
     tt: төсле кәбестә
-    tt-cyrl: төсле кәбестә
+    tt_cyrl: төсле кәбестә
     uk: Капуста цвітна
     ur: گوبھی
     vec: cavolfior
@@ -253,10 +253,10 @@ dv_has_:
     wuu: 花椰菜
     yue: 椰菜花
     zh: 花椰菜
-    zh-cn: 花椰菜
-    zh-hans: 花椰菜
-    zh-hk: 椰菜花
-    zh-tw: 花椰菜
+    zh_cn: 花椰菜
+    zh_hans: 花椰菜
+    zh_hk: 椰菜花
+    zh_tw: 花椰菜
 ---
 # [[Cauliflower]] 
 

@@ -98,7 +98,7 @@ dv_has_:
     ast: Linda Ronstadt
     azb: لیندا رانستد
     bar: Linda Ronstadt
-    be-tarask: Лінда Ронстат
+    be_tarask: Лінда Ронстат
     bg: Линда Ронстад
     bm: Linda Ronstadt
     br: Linda Ronstadt
@@ -109,11 +109,11 @@ dv_has_:
     da: Linda Ronstadt
     de: Linda Ronstadt
     de-at: Linda Ronstadt
-    de-ch: Linda Ronstadt
+    de_ch: Linda Ronstadt
     el: Λίντα Ρόνσταντ
     en: Linda Ronstadt
-    en-ca: Linda Ronstadt
-    en-gb: Linda Ronstadt
+    en_ca: Linda Ronstadt
+    en_gb: Linda Ronstadt
     eo: Linda Ronstadt
     es: Linda Ronstadt
     et: Linda Ronstadt
@@ -157,7 +157,7 @@ dv_has_:
     nap: Linda Ronstadt
     nb: Linda Ronstadt
     nds: Linda Ronstadt
-    nds-nl: Linda Ronstadt
+    nds_nl: Linda Ronstadt
     nl: Linda Ronstadt
     nn: Linda Ronstadt
     nrm: Linda Ronstadt
@@ -169,7 +169,7 @@ dv_has_:
     pms: Linda Ronstadt
     prg: Linda Ronstadt
     pt: Linda Ronstadt
-    pt-br: Linda Ronstadt
+    pt_br: Linda Ronstadt
     rgn: Linda Ronstadt
     rm: Linda Ronstadt
     ro: Linda Ronstadt
@@ -182,7 +182,7 @@ dv_has_:
     sl: Linda Ronstadt
     sq: Linda Ronstadt
     sr: Linda Ronstadt
-    sr-el: Linda Ronstadt
+    sr_el: Linda Ronstadt
     sv: Linda Ronstadt
     sw: Linda Ronstadt
     th: ลินดา รอนสตัดต์

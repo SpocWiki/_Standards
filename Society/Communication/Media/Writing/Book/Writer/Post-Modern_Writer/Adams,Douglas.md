@@ -173,7 +173,7 @@ dv_has_:
     azb: داقلاس آدامز
     ba: Дуглас Адамс
     be: Дуглас Адамс
-    be-tarask: Дуглас Адамз
+    be_tarask: Дуглас Адамз
     bg: Дъглас Адамс
     bho: डगलस एडम्स
     bn: ডগলাস অ্যাডামস
@@ -206,7 +206,7 @@ dv_has_:
     ml: ഡഗ്ലസ് ആഡംസ്
     mr: डग्लस अॅडम्स
     mrj: Адамс
-    ms-arab: دݢلس ايدمﺯ
+    ms_arab: دݢلس ايدمﺯ
     mul: Douglas Adams
     mzn: داگلاس آدامز
     nan-hani: 道哥拉斯·亞當斯
@@ -223,15 +223,15 @@ dv_has_:
     si: ඩග්ලස් ඇඩම්ස්
     skr: ڈگلس ایڈمس
     sr: Даглас Адамс
-    sr-ec: Даглас Адамс
-    sr-el: Daglas Adams
+    sr_ec: Даглас Адамс
+    sr_el: Daglas Adams
     ta: டக்ளஸ் ஆடம்ஸ்
     tcy: ಡಾಗ್ಲಸ್ ಆಡಮ್ಸ್
     te: డగ్లస్ ఆడమ్స్
     th: ดักลัส แอดัมส์
     tok: jan Taka Atan
     tt: Дуглас Адамс
-    tt-cyrl: Дуглас Адамс
+    tt_cyrl: Дуглас Адамс
     tw: Douglas Adams
     uk: Дуглас Адамс
     ur: ڈگلس ایڈم
@@ -240,14 +240,14 @@ dv_has_:
     yi: דאַגלאַס אַדאַמס
     yue: 道格拉斯亞當斯
     zh: 道格拉斯·亞當斯
-    zh-cn: 道格拉斯·亚当斯
-    zh-hans: 道格拉斯·亚当斯
-    zh-hant: 道格拉斯·亞當斯
-    zh-hk: 道格拉斯·亞當斯
-    zh-mo: 道格拉斯·亞當斯
+    zh_cn: 道格拉斯·亚当斯
+    zh_hans: 道格拉斯·亚当斯
+    zh_hant: 道格拉斯·亞當斯
+    zh_hk: 道格拉斯·亞當斯
+    zh_mo: 道格拉斯·亞當斯
     zh-my: 道格拉斯·亚当斯
-    zh-sg: 道格拉斯·亚当斯
-    zh-tw: 道格拉斯·亞當斯
+    zh_sg: 道格拉斯·亚当斯
+    zh_tw: 道格拉斯·亞當斯
 ---
 # [[Adams,Douglas]]
 

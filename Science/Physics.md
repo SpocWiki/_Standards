@@ -235,7 +235,7 @@ dv_has_:
     bar: Physik
     bcl: pisika
     be: фізіка
-    be-tarask: фізыка
+    be_tarask: фізыка
     bew: Èlmu tabèat
     bg: физика
     bho: भौतिकी
@@ -256,7 +256,7 @@ dv_has_:
     ckb: فیزیک
     co: fisica
     crh: fizika
-    crh-latn: fizika
+    crh_latn: fizika
     crh-ro: ğismaniyet
     cs: fyzika
     csb: fizyka
@@ -274,8 +274,8 @@ dv_has_:
     el: φυσική
     eml: fîsica
     en: physics
-    en-ca: physics
-    en-gb: physics
+    en_ca: physics
+    en_gb: physics
     eo: fiziko
     es: física
     et: füüsika
@@ -340,7 +340,7 @@ dv_has_:
     knc: Physics
     ko: 물리학
     ks: ترٛایُت
-    ks-arab: طِبیات
+    ks_arab: طِبیات
     ku: fizîk
     kw: fysegieth
     ky: физика
@@ -363,7 +363,7 @@ dv_has_:
     mad: fisika
     mag: भौतिकशास्त्र
     mai: भौतिकशास्त्र
-    map-bms: fisika
+    map_bms: fisika
     mdf: физиксь
     mg: fizika
     mhr: физике
@@ -374,7 +374,7 @@ dv_has_:
     mn: физик
     mr: भौतिकशास्त्र
     ms: fizik
-    ms-arab: فيزيک
+    ms_arab: فيزيک
     mt: fiżika
     mwl: física
     my: ရူပဗေဒ
@@ -385,7 +385,7 @@ dv_has_:
     nap: físeca
     nb: fysikk
     nds: Physik
-    nds-nl: netuurkunde
+    nds_nl: netuurkunde
     ne: भौतिक शास्त्र
     new: भौतिक शास्त्र
     nl: natuurkunde
@@ -408,7 +408,7 @@ dv_has_:
     pnb: فزکس
     ps: پنځپوهنه
     pt: física
-    pt-br: física
+    pt_br: física
     qu: pachaykamay
     rki: ရူပဗေဒ
     ro: fizică
@@ -440,7 +440,7 @@ dv_has_:
     so: fiisigis
     sq: fizikë
     sr: физика
-    sr-ec: физика
+    sr_ec: физика
     srn: sabi fu natru
     st: fisiksi
     stq: Physik
@@ -488,11 +488,11 @@ dv_has_:
     zea: natuurkunde
     zgh: ⵜⴰⵙⵏⴳⴰⵎⴰ
     zh: 物理學
-    zh-cn: 物理学
-    zh-hans: 物理学
-    zh-hant: 物理學
-    zh-hk: 物理學
-    zh-tw: 物理學
+    zh_cn: 物理学
+    zh_hans: 物理学
+    zh_hant: 物理學
+    zh_hk: 物理學
+    zh_tw: 物理學
     zu: umchazandalo
 ---
 # [[Physics]] 

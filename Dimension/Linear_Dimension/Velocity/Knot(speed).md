@@ -107,7 +107,7 @@ dv_has_:
     azb: دویون (اؤلچو بیریمی)
     bar: Knupf
     be: вузел
-    be-tarask: вузел
+    be_tarask: вузел
     bg: възел
     bn: নট
     bo: ཚིགས།
@@ -142,11 +142,11 @@ dv_has_:
     ja: ノット
     ka: კვანძი
     kk: түйін
-    kk-arab: ٴتۇيىن
+    kk_arab: ٴتۇيىن
     kk-cn: ٴتۇيىن
-    kk-cyrl: түйін
+    kk_cyrl: түйін
     kk-kz: түйін
-    kk-latn: tüýin
+    kk_latn: tüýin
     kk-tr: tüýin
     km: ណុត
     ko: 노트
@@ -167,7 +167,7 @@ dv_has_:
     pl: węzeł
     pms: neu
     pt: nó
-    pt-br: nó
+    pt_br: nó
     ro: nod
     ru: узел
     scn: ruppu
@@ -178,8 +178,8 @@ dv_has_:
     sl: vozel
     sq: nyja
     sr: чвор
-    sr-ec: Чвор
-    sr-el: čvor
+    sr_ec: Чвор
+    sr_el: čvor
     sv: knop
     sw: noti
     th: นอต
@@ -191,12 +191,12 @@ dv_has_:
     wuu: 节
     yue: 節
     zh: 節
-    zh-cn: 节
-    zh-hans: 节
-    zh-hant: 節
-    zh-hk: 節
-    zh-sg: 节
-    zh-tw: 節
+    zh_cn: 节
+    zh_hans: 节
+    zh_hant: 節
+    zh_hk: 節
+    zh_sg: 节
+    zh_tw: 節
 ---
 # [[Knot(speed)]] 
 

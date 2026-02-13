@@ -67,8 +67,8 @@ dv_has_:
     sl: Robert Langdon
     sq: Robert Langdon
     sr: Роберт Лангдон
-    sr-ec: Роберт Лангдон
-    sr-el: Robert Langdon
+    sr_ec: Роберт Лангдон
+    sr_el: Robert Langdon
     sv: Robert Langdon
     th: โรเบิร์ต แลงดอน
     tr: Robert Langdon
@@ -76,12 +76,12 @@ dv_has_:
     ur: رابرٹ لینگڈن
     vi: Robert Langdon
     zh: 羅柏·蘭登
-    zh-cn: 罗柏·兰登
-    zh-hans: 罗柏·兰登
-    zh-hant: 羅柏·蘭登
-    zh-hk: 羅柏·蘭登
-    zh-sg: 罗柏·兰登
-    zh-tw: 羅柏·蘭登
+    zh_cn: 罗柏·兰登
+    zh_hans: 罗柏·兰登
+    zh_hant: 羅柏·蘭登
+    zh_hk: 羅柏·蘭登
+    zh_sg: 罗柏·兰登
+    zh_tw: 羅柏·蘭登
 ---
 ## #has_/text_of_/abstract 
 

@@ -169,7 +169,7 @@ dv_has_:
     azb: کاتولیسیزم
     ba: Католицизм
     be: каталіцтва
-    be-tarask: каталіцтва
+    be_tarask: каталіцтва
     bg: католицизъм
     bn: ক্যাথোলিক ধর্ম
     br: Katoligiezh
@@ -179,7 +179,7 @@ dv_has_:
     ce: Католицизм
     ckb: کاسۆلیکی
     crh: Katoliklik
-    crh-latn: Katoliklik
+    crh_latn: Katoliklik
     cs: katolicismus
     csb: katolëcëzm
     cu: Римьскъ Каѳолїкїсмъ
@@ -187,12 +187,12 @@ dv_has_:
     cy: Catholigiaeth
     da: katolicisme
     de: Katholizismus
-    de-ch: Katholizismus
+    de_ch: Katholizismus
     diq: Katolisizm
     el: Καθολικισμός
     en: Catholicism
-    en-ca: Catholicism
-    en-gb: Catholicism
+    en_ca: Catholicism
+    en_gb: Catholicism
     eo: katolikismo
     es: catolicismo
     et: katoliiklus
@@ -252,7 +252,7 @@ dv_has_:
     ltg: Katuoļu ticeiba
     lv: katoļticība
     lzh: 天主教
-    map-bms: Katolik
+    map_bms: Katolik
     mg: Katolisisma
     mhr: Католицизм
     min: Katolik
@@ -261,7 +261,7 @@ dv_has_:
     mn: Католик
     mr: कॅथलिक धर्म
     ms: Katolik
-    ms-arab: کاتوليک
+    ms_arab: کاتوليک
     mt: Kattoliċiżmu
     mwl: Catolicismo
     mzn: کاتولیک
@@ -280,7 +280,7 @@ dv_has_:
     pl: katolicyzm
     pms: Catolicésim
     pt: catolicismo
-    pt-br: catolicismo
+    pt_br: catolicismo
     ro: catolicism
     roa-tara: cattolecesime
     ru: католицизм
@@ -297,7 +297,7 @@ dv_has_:
     smn: katolilâšvuotâ
     sms: katoolʼlažvuõtt
     sr: католицизам
-    sr-ec: католицизам
+    sr_ec: католицизам
     sv: katolicism
     sw: Katoliki
     ta: கத்தோலிக்கம்
@@ -324,14 +324,14 @@ dv_has_:
     yue: 天主敎
     zea: Roôms-katholicisme
     zh: 天主教
-    zh-cn: 天主教
-    zh-hans: 天主教
-    zh-hant: 天主教
-    zh-hk: 天主教
-    zh-mo: 天主教
+    zh_cn: 天主教
+    zh_hans: 天主教
+    zh_hant: 天主教
+    zh_hk: 天主教
+    zh_mo: 天主教
     zh-my: 天主教
-    zh-sg: 天主教
-    zh-tw: 天主教
+    zh_sg: 天主教
+    zh_tw: 天主教
 ---
 # [[Catholicism]] 
 

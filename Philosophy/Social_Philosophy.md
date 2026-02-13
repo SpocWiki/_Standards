@@ -85,7 +85,7 @@ dv_has_:
     az: Sosial fəlsəfə
     ba: Ижтимағи фәлсәфә
     be: сацыяльная філасофія
-    be-tarask: сацыяльная філязофія
+    be_tarask: сацыяльная філязофія
     bg: Социална философия
     bn: সামাজিক দর্শন
     ca: filosofia social
@@ -95,7 +95,7 @@ dv_has_:
     de: Sozialphilosophie
     el: κοινωνική φιλοσοφία
     en: social philosophy
-    en-ca: social philosophy
+    en_ca: social philosophy
     eo: socia filozofio
     es: filosofía social
     et: sotsiaalfilosoofia
@@ -154,7 +154,7 @@ dv_has_:
     vi: triết học xã hội
     yue: 社會哲學
     zh: 社会哲学
-    zh-hant: 社會哲學
+    zh_hant: 社會哲學
 ---
 # [[Social_Philosophy]] 
 

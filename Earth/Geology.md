@@ -218,7 +218,7 @@ dv_has_:
     ba: геология
     bcl: heolohiya
     be: геалогія
-    be-tarask: геалёгія
+    be_tarask: геалёгія
     bg: геология
     bho: भूबिज्ञान
     bi: jialoji
@@ -238,14 +238,14 @@ dv_has_:
     cy: daeareg
     da: geologi
     de: Geologie
-    de-ch: Geologie
+    de_ch: Geologie
     din: piööckätöupiny
     diq: cêolociye
     el: γεωλογία
     eml: geologî
     en: geology
-    en-ca: geology
-    en-gb: geology
+    en_ca: geology
+    en_gb: geology
     eo: geologio
     es: geología
     et: geoloogia
@@ -299,7 +299,7 @@ dv_has_:
     kn: ಭೂರಚನಶಾಸ್ತ್ರ
     ko: 지질학
     ku: erdnasî
-    ku-latn: erdnasî
+    ku_latn: erdnasî
     kw: dororyeth
     ky: геология
     la: geologia
@@ -314,7 +314,7 @@ dv_has_:
     lrc: زئمین شئناسی
     lt: geologija
     lv: ģeoloģija
-    map-bms: geologi
+    map_bms: geologi
     mdf: геологиясь
     mg: jeolojia
     mhr: геологий
@@ -324,7 +324,7 @@ dv_has_:
     mn: геологи
     mr: भूगर्भशास्त्र
     ms: geologi
-    ms-arab: ݢيولوݢي
+    ms_arab: ݢيولوݢي
     mt: ġeoloġija
     mwl: geologie
     my: ဘူမိဗေဒ
@@ -334,7 +334,7 @@ dv_has_:
     nap: giuloggia
     nb: geologi
     nds: Geologie
-    nds-nl: geologie
+    nds_nl: geologie
     ne: जियोलोजी
     new: भूगर्भशास्त्र
     nl: geologie
@@ -354,7 +354,7 @@ dv_has_:
     pnb: ارضیات
     ps: ځمکپېژندنه
     pt: geologia
-    pt-br: geologia
+    pt_br: geologia
     qu: tiksimuyu yachay
     ro: geologie
     ru: геология
@@ -378,8 +378,8 @@ dv_has_:
     sn: ketanyika
     sq: gjeologjia
     sr: геологија
-    sr-ec: геологија
-    sr-el: geologija
+    sr_ec: геологија
+    sr_el: geologija
     st: geologi
     stq: Geologie
     su: géologi
@@ -416,10 +416,10 @@ dv_has_:
     yue: 地質學
     zgh: tasnakalt
     zh: 地質學
-    zh-cn: 地质学
-    zh-hant: 地質學
-    zh-hk: 地質學
-    zh-tw: 地質學
+    zh_cn: 地质学
+    zh_hant: 地質學
+    zh_hk: 地質學
+    zh_tw: 地質學
 ---
 # [[Geology]]
 

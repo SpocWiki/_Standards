@@ -93,7 +93,7 @@ dv_has_:
     az: Feniks
     ba: Феникс
     be: Фенікс
-    be-tarask: Фэнікс
+    be_tarask: Фэнікс
     bg: Феникс
     bn: সম্পাতি মণ্ডল
     br: Feniks

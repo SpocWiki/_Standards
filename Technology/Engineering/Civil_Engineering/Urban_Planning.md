@@ -127,7 +127,7 @@ dv_has_:
     azb: شهر پلانلاماسی
     ba: Ҡала төҙөлөшө
     be: горадабудаўніцтва
-    be-tarask: горадаплянаваньне
+    be_tarask: горадаплянаваньне
     bg: Градоустройство
     bn: নগর পরিকল্পনা
     br: Kêraozouriezh
@@ -142,7 +142,7 @@ dv_has_:
     de: Stadtplanung
     el: πολεοδομικός σχεδιασμός
     en: urban planning
-    en-gb: urban planning
+    en_gb: urban planning
     eo: urboplanado
     es: planeamiento urbanístico
     et: linnaplaneerimine
@@ -174,7 +174,7 @@ dv_has_:
     mn: Хот байгуулалт
     mr: विकास समिती
     ms: perancangan bandar
-    ms-arab: ڤرانچڠن باندر
+    ms_arab: ڤرانچڠن باندر
     my: မြို့ကွက်ရိုက်ခြင်း
     nan: To͘-chhī kè-oē
     nb: byplanlegging
@@ -184,7 +184,7 @@ dv_has_:
     pl: urbanistyka
     ps: د ښار پلان جوړونه (ښار جوړونه)
     pt: planeamento urbano
-    pt-br: planejamento urbano
+    pt_br: planejamento urbano
     ro: urbanism
     ru: градостроительство
     rw: IMITURIRE
@@ -208,9 +208,9 @@ dv_has_:
     wuu: 城市规划
     yue: 城市規劃
     zh: 城市规划
-    zh-cn: 城市规划
-    zh-hant: 城市規劃
-    zh-tw: 城市規劃
+    zh_cn: 城市规划
+    zh_hant: 城市規劃
+    zh_tw: 城市規劃
 ---
 # [[Urban_Planning]] 
 

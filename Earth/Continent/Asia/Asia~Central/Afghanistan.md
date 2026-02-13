@@ -4,7 +4,7 @@ dv_has_:
     ab: Афӷанисҭан
     ace: Afghanistan
     ady: Афганистан
-    aeb-arab: أفغانستان
+    aeb_arab: أفغانستان
     af: Afghanistan
     am: አፍጋኒስታን
     ami: Afghanistan
@@ -28,7 +28,7 @@ dv_has_:
     bbc: Apganistan
     bcl: Apganistan
     be: Афганістан
-    be-tarask: Аўганістан
+    be_tarask: Аўганістан
     bew: Afghanistan
     bg: Афганистан
     bgn: اوگانستان
@@ -44,7 +44,7 @@ dv_has_:
     bug: Afghanistan
     bxr: Афганистан
     ca: Afganistan
-    cbk-zam: Afghanistan
+    cbk_zam: Afghanistan
     cdo: Afghanistan
     ce: АфгIанистан
     ceb: Afghanistan
@@ -54,7 +54,7 @@ dv_has_:
     ckb: ئەفغانستان
     co: Afghanistan
     crh: Afğanistan
-    crh-latn: Afğanistan
+    crh_latn: Afğanistan
     crh-ro: Afganîstan
     cs: Afghánistán
     csb: Afganistón
@@ -64,7 +64,7 @@ dv_has_:
     da: Afghanistan
     dag: Afghanistan
     de: Afghanistan
-    de-ch: Afghanistan
+    de_ch: Afghanistan
     diq: Efğanıstan
     dsb: Afghanistan
     dtp: Afghanistan
@@ -73,8 +73,8 @@ dv_has_:
     dz: ཨཕ་ག་ནིསི་ཏཱན་
     el: Αφγανιστάν
     en: Afghanistan
-    en-ca: Afghanistan
-    en-gb: Afghanistan
+    en_ca: Afghanistan
+    en_gb: Afghanistan
     en-us: Afghanistan
     eo: Afganio
     es: Afganistán
@@ -99,7 +99,7 @@ dv_has_:
     gn: Ahyganitã
     gom: अफगाणिस्तान
     gom-deva: अफगाणिस्तान
-    gom-latn: Afghanistan
+    gom_latn: Afghanistan
     gor: Afganistan
     got: "\U00010330\U00010346\U00010332\U00010330\U0001033D\U00010339\U00010343\U00010344\U00010330\U0001033D"
     gpe: Afghanistan
@@ -153,7 +153,7 @@ dv_has_:
     ks: اَفغٲنِستان
     ksh: Afghanistan
     ku: Efxanistan
-    ku-latn: Efxanistan
+    ku_latn: Efxanistan
     kv: Афганистан
     kw: Afghanistan
     ky: Ооганстан
@@ -174,7 +174,7 @@ dv_has_:
     lzh: 阿富汗
     mad: Afganistan
     mai: अफगानिस्तान
-    map-bms: Afganistan
+    map_bms: Afganistan
     mdf: Афганистан
     mg: Afganistana
     mhr: Афганистан
@@ -189,7 +189,7 @@ dv_has_:
     mos: Afghanistan
     mr: अफगाणिस्तान
     ms: Afghanistan
-    ms-arab: افغانيستن
+    ms_arab: افغانيستن
     mt: Afganistan
     mwl: Afeganistan
     my: အာဖဂန်နစ္စတန်နိုင်ငံ
@@ -201,7 +201,7 @@ dv_has_:
     nap: Afghanistan
     nb: Afghanistan
     nds: Afghanistan
-    nds-nl: Afghanistan
+    nds_nl: Afghanistan
     ne: अफगानिस्तान
     new: अफगानिस्तान
     nl: Afghanistan
@@ -259,8 +259,8 @@ dv_has_:
     so: Afgaanistan
     sq: Afganistani
     sr: Авганистан
-    sr-ec: Авганистан
-    sr-el: Avganistan
+    sr_ec: Авганистан
+    sr_el: Avganistan
     srn: Afganistan
     ss: I-Afugani
     stq: Afghanistan
@@ -276,7 +276,7 @@ dv_has_:
     te: ఆఫ్ఘనిస్తాన్
     tet: Afeganistaun
     tg: Афғонистон
-    tg-cyrl: Афғонистон
+    tg_cyrl: Афғонистон
     th: ประเทศอัฟกานิสถาน
     ti: ኣፍጋኒስታን
     tk: Owganystan
@@ -289,8 +289,8 @@ dv_has_:
     trv: Afghanistan
     ts: Afghanistan
     tt: Әфганстан
-    tt-cyrl: Әфганстан
-    tt-latn: Äfğanstan
+    tt_cyrl: Әфганстан
+    tt_latn: Äfğanstan
     tum: Afghanistan
     tw: Afghanistan
     udm: Афганистан
@@ -316,14 +316,14 @@ dv_has_:
     zea: Afghanistan
     zgh: ⴰⴼⵖⴰⵏⵉⵙⵜⴰⵏ
     zh: 阿富汗
-    zh-cn: 阿富汗
-    zh-hans: 阿富汗
-    zh-hant: 阿富汗
-    zh-hk: 阿富汗
-    zh-mo: 阿富汗
+    zh_cn: 阿富汗
+    zh_hans: 阿富汗
+    zh_hant: 阿富汗
+    zh_hk: 阿富汗
+    zh_mo: 阿富汗
     zh-my: 阿富汗
-    zh-sg: 阿富汗
-    zh-tw: 阿富汗
+    zh_sg: 阿富汗
+    zh_tw: 阿富汗
     zu: I-Afganistani
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Afghanistan

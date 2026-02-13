@@ -51,7 +51,7 @@ dv_has_:
     ast: Thomas Newcomen
     az: Tomas Nyukomen
     azb: توماس نیو کامن
-    be-tarask: Томас Ньюкамэн
+    be_tarask: Томас Ньюкамэн
     bg: Томас Нюкомен
     ca: Thomas Newcomen
     cs: Thomas Newcomen
@@ -89,7 +89,7 @@ dv_has_:
     pa: ਥੌਮਸ ਨਿਊਕੋਮੈਨ
     pl: Thomas Newcomen
     pt: Thomas Newcomen
-    pt-br: Thomas Newcomen
+    pt_br: Thomas Newcomen
     ro: Thomas Newcomen
     ru: Томас Ньюкомен
     si: තෝමස් නිව්කොමන්
@@ -104,12 +104,12 @@ dv_has_:
     war: Thomas Newcomen
     yue: 湯瑪斯·紐科門
     zh: 湯瑪斯·紐科門
-    zh-cn: 汤玛斯·纽科门
-    zh-hans: 汤玛斯·纽科门
-    zh-hant: 湯瑪斯·紐科門
-    zh-hk: 湯瑪斯·紐科門
-    zh-sg: 汤玛斯·纽科门
-    zh-tw: 湯瑪斯·紐科門
+    zh_cn: 汤玛斯·纽科门
+    zh_hans: 汤玛斯·纽科门
+    zh_hant: 湯瑪斯·紐科門
+    zh_hk: 湯瑪斯·紐科門
+    zh_sg: 汤玛斯·纽科门
+    zh_tw: 湯瑪斯·紐科門
 ---
 # [[Newcomen,Thomas]] 
 

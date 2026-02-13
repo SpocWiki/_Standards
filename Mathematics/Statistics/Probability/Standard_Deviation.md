@@ -111,13 +111,13 @@ dv_has_:
     ast: esviación típica
     az: Orta kvadratik meyl
     be: Сярэднеквадратычнае адхіленне
-    be-tarask: стандартнае адхіленьне
+    be_tarask: стандартнае адхіленьне
     bew: Pelèncongan pakem
     bg: Стандартно отклонение
     bn: আদর্শ চ্যুতি
     bs: Standardna devijacija
     ca: desviació tipus
-    cbk-zam: Tipico desviacion
+    cbk_zam: Tipico desviacion
     ckb: لادانی پێوانەیی
     crh: Ortalama kvadratik taypınış
     cs: směrodatná odchylka
@@ -147,11 +147,11 @@ dv_has_:
     it: deviazione standard
     ja: 標準偏差
     kk: Квадраттық ауытқу
-    kk-arab: كۆادراتتىق اۋىتقۋ
+    kk_arab: كۆادراتتىق اۋىتقۋ
     kk-cn: كۆادراتتىق اۋىتقۋ
-    kk-cyrl: Квадраттық ауытқу
+    kk_cyrl: Квадраттық ауытқу
     kk-kz: Квадраттық ауытқу
-    kk-latn: Kvadrattıq awıtqw
+    kk_latn: Kvadrattıq awıtqw
     kk-tr: Kvadrattıq awıtqw
     ko: 표준 편차
     la: Deviatio canonica
@@ -168,7 +168,7 @@ dv_has_:
     oc: Desviacion tipica
     pl: odchylenie standardowe
     pt: desvio padrão
-    pt-br: desvio padrão
+    pt_br: desvio padrão
     ro: abatere standard
     ru: среднеквадратическое отклонение
     scn: Diviazzioni standard
@@ -181,8 +181,8 @@ dv_has_:
     sm: Fa'ailoga masani
     sq: Devijimi standard
     sr: стандардна девијација
-    sr-ec: стандардна девијација
-    sr-el: Standardna devijacija
+    sr_ec: стандардна девијација
+    sr_el: Standardna devijacija
     su: Simpangan baku
     sv: standardavvikelse
     sw: Mkengeuko wastani
@@ -197,12 +197,12 @@ dv_has_:
     wuu: 标准差
     yue: 標準差
     zh: 標準差
-    zh-cn: 标准差
-    zh-hans: 标准差
-    zh-hant: 標準差
-    zh-hk: 標準差
-    zh-sg: 标准差
-    zh-tw: 標準差
+    zh_cn: 标准差
+    zh_hans: 标准差
+    zh_hant: 標準差
+    zh_hk: 標準差
+    zh_sg: 标准差
+    zh_tw: 標準差
 ---
 # [[Standard_Deviation]] 
 

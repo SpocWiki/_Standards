@@ -45,7 +45,7 @@ dv_has_:
   name_:
     ar: ماد
     bar: Mad
-    be-tarask: Mad
+    be_tarask: Mad
     ca: Mad
     cs: Mad Magazine
     da: Mad
@@ -76,12 +76,12 @@ dv_has_:
     tr: Mad
     uk: Mad
     zh: 瘋狂雜誌
-    zh-cn: 疯狂杂志
-    zh-hans: 疯狂杂志
-    zh-hant: 瘋狂雜誌
-    zh-hk: 瘋狂雜誌
-    zh-sg: 疯狂杂志
-    zh-tw: 瘋狂雜誌
+    zh_cn: 疯狂杂志
+    zh_hans: 疯狂杂志
+    zh_hant: 瘋狂雜誌
+    zh_hk: 瘋狂雜誌
+    zh_sg: 疯狂杂志
+    zh_tw: 瘋狂雜誌
 ---
 # [[Mad(Magazine)]] 
 

@@ -40,7 +40,7 @@ dv_has_:
     azb: برت لنکستر
     bar: Burt Lancaster
     be: Берт Ланкастэр
-    be-tarask: Бэрт Ланкастэр
+    be_tarask: Бэрт Ланкастэр
     bg: Бърт Ланкастър
     bm: Burt Lancaster
     bn: বার্ট ল্যাঙ্কেস্টার
@@ -53,11 +53,11 @@ dv_has_:
     da: Burt Lancaster
     de: Burt Lancaster
     de-at: Burt Lancaster
-    de-ch: Burt Lancaster
+    de_ch: Burt Lancaster
     el: Μπαρτ Λάνκαστερ
     en: Burt Lancaster
-    en-ca: Burt Lancaster
-    en-gb: Burt Lancaster
+    en_ca: Burt Lancaster
+    en_gb: Burt Lancaster
     eo: Burt Lancaster
     es: Burt Lancaster
     et: Burt Lancaster
@@ -105,7 +105,7 @@ dv_has_:
     nap: Burt Lancaster
     nb: Burt Lancaster
     nds: Burt Lancaster
-    nds-nl: Burt Lancaster
+    nds_nl: Burt Lancaster
     nl: Burt Lancaster
     nn: Burt Lancaster
     nrm: Burt Lancaster
@@ -116,7 +116,7 @@ dv_has_:
     pms: Burt Lancaster
     prg: Burt Lancaster
     pt: Burt Lancaster
-    pt-br: Burt Lancaster
+    pt_br: Burt Lancaster
     qu: Burt Lancaster
     rgn: Burt Lancaster
     rm: Burt Lancaster
@@ -129,8 +129,8 @@ dv_has_:
     sl: Burt Lancaster
     sq: Burt Lancaster
     sr: Берт Ланкастер
-    sr-ec: Берт Ланкастер
-    sr-el: Bert Lankaster
+    sr_ec: Берт Ланкастер
+    sr_el: Bert Lankaster
     sv: Burt Lancaster
     sw: Burt Lancaster
     th: เบิร์ต แลนแคสเตอร์
@@ -152,13 +152,13 @@ dv_has_:
     yo: Burt Lancaster
     yue: 畢蘭加士打
     zh: 畢·蘭卡斯特
-    zh-cn: 伯特·兰开斯特
-    zh-hans: 伯特·兰开斯特
-    zh-hant: 畢·蘭卡斯特
-    zh-hk: 畢·蘭加士打
+    zh_cn: 伯特·兰开斯特
+    zh_hans: 伯特·兰开斯特
+    zh_hant: 畢·蘭卡斯特
+    zh_hk: 畢·蘭加士打
     zh-my: 毕·兰加士打
-    zh-sg: 毕·兰加士打
-    zh-tw: 畢·蘭卡斯特
+    zh_sg: 毕·兰加士打
+    zh_tw: 畢·蘭卡斯特
     zu: Burt Lancaster
 ---
 #has_/time_/started :: 1913-11-02 

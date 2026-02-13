@@ -41,13 +41,13 @@ dv_has_:
     az: Pauropodlar
     azb: پاوروپودلار
     be: Паўраподы
-    be-tarask: Паўраподы
+    be_tarask: Паўраподы
     bg: Пауроподи
     ca: pauròpodes
     ceb: Pauropoda
     cs: drobnušky
     de: Wenigfüßer
-    de-ch: Wenigfüsser
+    de_ch: Wenigfüsser
     el: Παυρόποδα
     en: Pauropoda
     eo: Paŭropodoj
@@ -79,7 +79,7 @@ dv_has_:
     oc: Pauropoda
     pl: Skąponogi
     pt: Pauropoda
-    pt-br: Pauropoda
+    pt_br: Pauropoda
     ro: Pauropoda
     ru: Пауроподы
     sl: Malonoge
@@ -92,8 +92,8 @@ dv_has_:
     vo: Pauropoda
     war: Pauropoda
     zh: 少足纲
-    zh-cn: 少足纲
-    zh-hans: 少足纲
+    zh_cn: 少足纲
+    zh_hans: 少足纲
 ---
 # [[Pauropoda]] 
 

@@ -46,7 +46,7 @@ dv_has_:
     af: Neurenberg-beginsels
     ar: مبادئ نورمبرغ
     ast: Principios de Núremberg
-    be-tarask: Нюрнбэрскія прынцыпы
+    be_tarask: Нюрнбэрскія прынцыпы
     ca: principis de Nuremberg
     de: Nürnberger Prinzipien
     el: Αρχές της Νυρεμβέργης

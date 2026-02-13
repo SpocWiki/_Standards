@@ -24,8 +24,8 @@ dv_has_:
     cs: rosnička
     de: Pseudis
     en: Pseudis
-    en-ca: Pseudis
-    en-gb: Pseudis
+    en_ca: Pseudis
+    en_gb: Pseudis
     eo: Pseudis
     es: Pseudis
     eu: Pseudis
@@ -47,7 +47,7 @@ dv_has_:
     oc: Pseudis
     pl: Pseudis
     pt: Pseudis
-    pt-br: Pseudis
+    pt_br: Pseudis
     ro: Pseudis
     ru: псевдисы
     sl: harlekinka
@@ -58,8 +58,8 @@ dv_has_:
     vo: Pseudis
     war: Pseudis
     zh: 多指节蛙属
-    zh-cn: 多指节蛙属
-    zh-hans: 多指节蛙属
+    zh_cn: 多指节蛙属
+    zh_hans: 多指节蛙属
 ---
 # Pseudidae
 

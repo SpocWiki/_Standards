@@ -89,7 +89,7 @@ dv_has_:
     ast: ohmiu
     az: Om
     be: ом
-    be-tarask: ом
+    be_tarask: ом
     bg: Ом
     bn: ওহম
     bo: ཨོ་མུ།
@@ -164,7 +164,7 @@ dv_has_:
     smn: ohmi
     sq: Ohm
     sr: ом
-    sr-ec: Ом (јединица)
+    sr_ec: Ом (јединица)
     sv: ohm
     ta: ஓம்
     th: โอห์ม
@@ -178,8 +178,8 @@ dv_has_:
     wuu: 欧姆
     yue: 歐姆
     zh: 歐姆
-    zh-cn: 欧姆
-    zh-hk: 歐姆
+    zh_cn: 欧姆
+    zh_hk: 歐姆
 ---
 # [[Ohm]] 
 

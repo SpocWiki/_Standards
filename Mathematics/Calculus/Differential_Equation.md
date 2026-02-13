@@ -130,7 +130,7 @@ dv_has_:
     az: diferensial tənliklər
     ba: дифференциаль тигеҙләмә
     be: дыферэнцыяльнае ўраўненне
-    be-tarask: дыфэрэнцыйнае раўнаньне
+    be_tarask: дыфэрэнцыйнае раўнаньне
     bg: диференциално уравнение
     bn: ব্যবকলনীয় সমীকরণ
     bs: diferencijalna jednačina
@@ -144,8 +144,8 @@ dv_has_:
     de: Differentialgleichung
     el: διαφορική εξίσωση
     en: differential equation
-    en-ca: differential equation
-    en-gb: differential equation
+    en_ca: differential equation
+    en_gb: differential equation
     eo: diferenciala ekvacio
     es: ecuación diferencial
     et: diferentsiaalvõrrand
@@ -197,7 +197,7 @@ dv_has_:
     pms: equassion diferensial
     pnb: ڈفرینشیل مساوات
     pt: equação diferencial
-    pt-br: equação diferencial
+    pt_br: equação diferencial
     ro: ecuație diferențială
     ru: дифференциальное уравнение
     scn: equazzioni diffirinziali
@@ -209,8 +209,8 @@ dv_has_:
     sl: diferencialna enačba
     sq: ekuacione diferenciale
     sr: диференцијална једначина
-    sr-ec: диференцијална једначина
-    sr-el: diferencijalna jednačina
+    sr_ec: диференцијална једначина
+    sr_el: diferencijalna jednačina
     sv: differentialekvation
     sw: mlinganyo tenguo
     ta: வகையீட்டுச் சமன்பாடு

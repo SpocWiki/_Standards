@@ -107,7 +107,7 @@ dv_has_:
     az: Cozef Pulitser
     azb: جوزف پولیتزر
     bar: Joseph Pulitzer
-    be-tarask: Джозэф Пулітцэр
+    be_tarask: Джозэф Пулітцэр
     bg: Джоузеф Пулицър
     bn: জোসেফ পুলিৎজার
     bs: Joseph Pulitzer
@@ -117,12 +117,12 @@ dv_has_:
     cy: Joseph Pulitzer
     da: Joseph Pulitzer
     de: Joseph Pulitzer
-    de-ch: Joseph Pulitzer
+    de_ch: Joseph Pulitzer
     diq: Joseph Pulitzer
     el: Τζόζεφ Πούλιτζερ
     en: Joseph Pulitzer
-    en-ca: Joseph Pulitzer
-    en-gb: Joseph Pulitzer
+    en_ca: Joseph Pulitzer
+    en_gb: Joseph Pulitzer
     eo: Joseph Pulitzer
     es: Joseph Pulitzer
     et: Joseph Pulitzer
@@ -160,7 +160,7 @@ dv_has_:
     pap: Joseph Pulitzer
     pl: Joseph Pulitzer
     pt: Joseph Pulitzer
-    pt-br: Joseph Pulitzer
+    pt_br: Joseph Pulitzer
     ro: Joseph Pulitzer
     ru: Джозеф Пулитцер
     sah: Пулитцер Джозеф
@@ -170,8 +170,8 @@ dv_has_:
     sl: Joseph Pulitzer
     sq: Joseph Pulitzer
     sr: Џозеф Пулицер
-    sr-ec: Џозеф Пулицер
-    sr-el: Džozef Pulicer
+    sr_ec: Џозеф Пулицер
+    sr_el: Džozef Pulicer
     sv: Joseph Pulitzer
     sw: Joseph Pulitzer
     ta: ஜோசேப் புலிட்சர்
@@ -186,12 +186,12 @@ dv_has_:
     yo: Joseph Pulitzer
     yue: 約瑟·普立茲
     zh: 約瑟夫·普立茲
-    zh-cn: 约瑟夫·普利策
-    zh-hans: 约瑟夫·普利策
-    zh-hant: 約瑟夫·普立茲
-    zh-hk: 約瑟·普立茲
-    zh-sg: 约瑟夫·普利策
-    zh-tw: 約瑟夫·普立茲
+    zh_cn: 约瑟夫·普利策
+    zh_hans: 约瑟夫·普利策
+    zh_hant: 約瑟夫·普立茲
+    zh_hk: 約瑟·普立茲
+    zh_sg: 约瑟夫·普利策
+    zh_tw: 約瑟夫·普立茲
 ---
 # [[Pulitzer,Joseph]] 
 

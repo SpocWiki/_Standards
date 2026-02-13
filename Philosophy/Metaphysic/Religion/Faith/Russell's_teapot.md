@@ -67,7 +67,7 @@ dv_has_:
     de: Russells Teekanne
     el: Τσαγιέρα του Ράσελ
     en: Russell's Teapot
-    en-gb: Russell's teapot
+    en_gb: Russell's teapot
     eo: Tekruĉo de Russell
     es: Tetera de Russell
     eu: Russellen teontzia
@@ -106,8 +106,8 @@ dv_has_:
     uk: Чайник Рассела
     uz: Russell choynagi
     zh: 羅素的茶壺
-    zh-hans: 罗素的茶壶
-    zh-hant: 羅素的茶壺
+    zh_hans: 罗素的茶壶
+    zh_hant: 羅素的茶壺
 ---
 # [[Russell's_teapot]] 
 

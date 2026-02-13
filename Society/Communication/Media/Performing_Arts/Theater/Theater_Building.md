@@ -155,7 +155,7 @@ dv_has_:
     ast: teatru
     az: teatr
     be: тэатр
-    be-tarask: тэатар
+    be_tarask: тэатар
     bew: Gedong kumidi
     bg: театър
     bn: থিয়েটার
@@ -166,11 +166,11 @@ dv_has_:
     cy: theatr
     da: teater
     de: Theatergebäude
-    de-ch: Theater
+    de_ch: Theater
     el: θέατρο
     en: theatre building
-    en-ca: theatre
-    en-gb: theatre
+    en_ca: theatre
+    en_gb: theatre
     en-us: theater building
     eo: teatrejo
     es: teatro
@@ -201,7 +201,7 @@ dv_has_:
     kn: ರಂಗಭೂಮಿ
     ko: 극장
     ku: şano
-    ku-latn: şano
+    ku_latn: şano
     la: theatrum
     lb: Theatergebai
     li: Theatergeboew
@@ -215,14 +215,14 @@ dv_has_:
     my: ကပွဲရုံ
     nan: Hì-hn̂g
     nb: teater
-    nds-nl: theater
+    nds_nl: theater
     new: दबू
     nl: theatergebouw
     nn: Teaterbygning
     pl: budynek teatru
     pnb: تھیٹر (ساخت)
     pt: teatro
-    pt-br: teatro
+    pt_br: teatro
     ro: teatru
     ru: здание театра
     scn: tiatru
@@ -238,8 +238,8 @@ dv_has_:
     smn: teattertáálu
     sms: teaʹtterpõrtt
     sr: позориште
-    sr-ec: позориште
-    sr-el: pozorište
+    sr_ec: позориште
+    sr_el: pozorište
     stq: Tjooter
     sv: teaterhus
     ta: அரங்கு
@@ -255,14 +255,14 @@ dv_has_:
     yo: ilé eré oríìtàgé
     yue: 劇場
     zh: 劇場
-    zh-cn: 剧场
-    zh-hans: 剧场
-    zh-hant: 劇場
-    zh-hk: 劇場
-    zh-mo: 劇場
+    zh_cn: 剧场
+    zh_hans: 剧场
+    zh_hant: 劇場
+    zh_hk: 劇場
+    zh_mo: 劇場
     zh-my: 剧场
-    zh-sg: 剧场
-    zh-tw: 劇場
+    zh_sg: 剧场
+    zh_tw: 劇場
 ---
 # [[Theater_Building]] 
 

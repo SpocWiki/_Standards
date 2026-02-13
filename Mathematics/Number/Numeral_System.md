@@ -6,7 +6,7 @@ dv_has_:
     ast: sistema de numberación
     az: Say sistemləri
     be: сістэма злічэння
-    be-tarask: сыстэма зьлічэньня
+    be_tarask: сыстэма зьлічэньня
     bg: Бройна система
     bn: সংখ্যাপদ্ধতি
     bs: Brojevni sistem
@@ -41,11 +41,11 @@ dv_has_:
     ka: თვლის სისტემა
     kaa: Sanaq sisteması
     kk: Санау
-    kk-arab: ساناۋ
+    kk_arab: ساناۋ
     kk-cn: ساناۋ
-    kk-cyrl: Санау
+    kk_cyrl: Санау
     kk-kz: Санау
-    kk-latn: Sanaw
+    kk_latn: Sanaw
     kk-tr: Sanaw
     ko: 기수법
     ky: Эсептөө тутуму
@@ -70,7 +70,7 @@ dv_has_:
     pl: system liczbowy
     pnb: عددی نظام
     pt: sistema de numeração
-    pt-br: sistema de numeração
+    pt_br: sistema de numeração
     ro: sistem de numerație
     ru: cистема счисления
     sh: Brojevni sistem
@@ -97,12 +97,12 @@ dv_has_:
     yi: נומערן סיסטעם
     yue: 記數法
     zh: 記數系統
-    zh-cn: 记数系统
-    zh-hans: 记数系统
-    zh-hant: 記數系統
-    zh-hk: 記數系統
-    zh-sg: 记数系统
-    zh-tw: 記數系統
+    zh_cn: 记数系统
+    zh_hans: 记数系统
+    zh_hant: 記數系統
+    zh_hk: 記數系統
+    zh_sg: 记数系统
+    zh_tw: 記數系統
 aliases:
 - Arvusüsteem
 - Brojevni sistem

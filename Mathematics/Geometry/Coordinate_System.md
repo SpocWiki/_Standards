@@ -124,7 +124,7 @@ dv_has_:
     az: Koordinat sistemi
     ba: координаталар системаһы
     be: сістэма каардынат
-    be-tarask: сыстэма каардынат
+    be_tarask: сыстэма каардынат
     bg: Координата
     bho: स्थानांक बेबस्था
     bn: স্থানাঙ্ক ব্যবস্থা
@@ -139,8 +139,8 @@ dv_has_:
     de: Koordinatensystem
     el: Σύστημα αναφοράς
     en: coordinate system
-    en-ca: coordinate system
-    en-gb: coordinate system
+    en_ca: coordinate system
+    en_gb: coordinate system
     eo: koordinatsistemo
     es: sistema de coordenadas
     et: Koordinaadisüsteem
@@ -180,7 +180,7 @@ dv_has_:
     mk: координатен систем
     ml: നിർദേശാങ്കവ്യവസ്ഥ
     ms: sistem koordinat
-    ms-arab: سيستم کوءوردينت
+    ms_arab: سيستم کوءوردينت
     my: ကိုဩဒိနိတ်စနစ်
     nan: Chō-piau-hē
     nb: koordinatsystem
@@ -194,7 +194,7 @@ dv_has_:
     pms: Coordinà
     pnb: کوآرڈینیٹ پربندھ
     pt: sistema de coordenadas
-    pt-br: sistema de coordenadas
+    pt_br: sistema de coordenadas
     ro: sistem de coordonate
     ru: система координат
     sat: ᱚᱛᱥᱚᱝ ᱵᱮᱵᱚᱥᱛᱷᱟ

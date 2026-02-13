@@ -325,7 +325,7 @@ ISNI: 000000012281955X
 dv_has_:
   name_:
     ab: Алберт Еинштеин
-    aeb-arab: ألبارت إنشتاين
+    aeb_arab: ألبارت إنشتاين
     af: Albert Einstein
     am: አልበርት አይንስታይን
     anp: अल्बर्ट आइंस्टीन
@@ -339,7 +339,7 @@ dv_has_:
     azb: آلبرت انیشتین
     ba: Альберт Эйнштейн
     be: Альберт Эйнштэйн
-    be-tarask: Альбэрт Айнштайн
+    be_tarask: Альбэрт Айнштайн
     bew: Albet Énstén
     bg: Алберт Айнщайн
     bho: अल्बर्ट आइंस्टीन
@@ -419,7 +419,7 @@ dv_has_:
     skr: البرٹ آئنسٹائن
     sq: Albert Anjshtajn
     sr: Алберт Ајнштајн
-    sr-ec: Алберт Ајнштајн
+    sr_ec: Алберт Ајнштајн
     sv: Albert Einstein
     szy: Alpute.ayinsedan
     ta: ஆல்பர்ட் ஐன்ஸ்டைன்
@@ -431,11 +431,11 @@ dv_has_:
     tly: Albert Ejnštejn
     tok: jan Ape Ansan
     tt: Алберт Эйнштейн
-    tt-cyrl: Алберт Эйнштейн
+    tt_cyrl: Алберт Эйнштейн
     tyv: Эйнштейн, Альберт
     ug: ئالبېرىت ئېينىشتېين
-    ug-arab: ئالبېرىت ئېينىشتېين
-    ug-latn: Albérit Éynishtéyn
+    ug_arab: ئالبېرىت ئېينىشتېين
+    ug_latn: Albérit Éynishtéyn
     uk: Альберт Айнштайн
     ur: آئن سٹائن
     vep: Einštein Al'bert
@@ -446,11 +446,11 @@ dv_has_:
     yue: 愛因斯坦
     zgh: ⴰⵍⴱⵉⵔⵜ ⴰⵢⵏⵛⵟⴰⵢⵏ
     zh: 阿尔伯特·爱因斯坦
-    zh-cn: 阿尔伯特·爱因斯坦
-    zh-hans: 阿尔伯特·爱因斯坦
-    zh-hant: 阿爾伯特·愛因斯坦
-    zh-hk: 艾拔·愛因斯坦
-    zh-tw: 亞伯特·愛因斯坦
+    zh_cn: 阿尔伯特·爱因斯坦
+    zh_hans: 阿尔伯特·爱因斯坦
+    zh_hant: 阿爾伯特·愛因斯坦
+    zh_hk: 艾拔·愛因斯坦
+    zh_tw: 亞伯特·愛因斯坦
 ---
 # [[Einstein,Albert]] 
 

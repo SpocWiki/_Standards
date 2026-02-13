@@ -126,7 +126,7 @@ dv_has_:
     az: fiqurlu konkisürmə
     ba: Фигуралы шыуыу
     be: фігурнае катанне
-    be-tarask: фігурнае коўзаньне
+    be_tarask: фігурнае коўзаньне
     bg: Фигурно пързаляне
     bn: ফিগার স্কেটিং
     br: ruzikat arzel
@@ -181,7 +181,7 @@ dv_has_:
     pcd: patinache artistike
     pl: łyżwiarstwo figurowe
     pt: patinagem artística no gelo
-    pt-br: patinação artística no gelo
+    pt_br: patinação artística no gelo
     ro: patinaj artistic
     ru: фигурное катание
     se: dáiddaluisten
@@ -192,7 +192,7 @@ dv_has_:
     smn: čaabâluistám
     sq: Patinazhi
     sr: уметничко клизање
-    sr-ec: уметничко клизање
+    sr_ec: уметничко клизање
     sv: konståkning
     tg: искейти намойишӣ
     th: สเกตลีลา
@@ -206,10 +206,10 @@ dv_has_:
     wuu: 花样滑冰
     yue: 花式溜冰
     zh: 花样滑冰
-    zh-cn: 花样滑冰
-    zh-hans: 花样滑冰
-    zh-hant: 花樣滑冰
-    zh-tw: 花式滑冰
+    zh_cn: 花样滑冰
+    zh_hans: 花样滑冰
+    zh_hant: 花樣滑冰
+    zh_tw: 花式滑冰
 ---
 # [[Figure_Skating]] 
 

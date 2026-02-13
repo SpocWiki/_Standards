@@ -44,7 +44,7 @@ dv_has_:
     ast: Gnetophyta
     az: Qnetumlar
     be: гнетавидныя
-    be-tarask: Гнетавыя (кляса)
+    be_tarask: Гнетавыя (кляса)
     bg: гнетови
     bs: Gnethophyta
     ca: Gnetòfits
@@ -84,7 +84,7 @@ dv_has_:
     oc: Gnetophyta
     pl: Gniotowce
     pt: Gnetófitas
-    pt-br: Gnetophyta
+    pt_br: Gnetophyta
     ro: Gnetatae
     ru: гнетовидные
     sd: نيٽوفائٽا
@@ -101,13 +101,13 @@ dv_has_:
     war: Gnetopsida
     yue: 買麻藤門
     zh: 買麻藤門
-    zh-cn: 买麻藤门
-    zh-hans: 买麻藤门
-    zh-hant: 買麻藤門
-    zh-hk: 買麻藤門
+    zh_cn: 买麻藤门
+    zh_hans: 买麻藤门
+    zh_hant: 買麻藤門
+    zh_hk: 買麻藤門
     zh-my: 买麻藤门
-    zh-sg: 买麻藤门
-    zh-tw: 買麻藤門
+    zh_sg: 买麻藤门
+    zh_tw: 買麻藤門
 ---
 # Gnetales 
 

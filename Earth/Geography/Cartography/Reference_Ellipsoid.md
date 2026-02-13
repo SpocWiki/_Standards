@@ -67,15 +67,15 @@ dv_has_:
   name_:
     ar: مجسم قطع ناقص مرجعي
     ast: Elipsoide de referencia
-    be-tarask: рэфэрэнц-эліпсоід
+    be_tarask: рэфэрэнц-эліпсоід
     ca: el·lipsoide de referència
     cs: referenční elipsoid
     da: Referenceellipsoide
     de: Referenzellipsoid
     el: Ελλειψοειδές αναφοράς
     en: reference ellipsoid
-    en-ca: Reference ellipsoid
-    en-gb: Reference ellipsoid
+    en_ca: Reference ellipsoid
+    en_gb: Reference ellipsoid
     eo: referenca elipsoido
     es: elipsoide de referencia
     et: Referentsellipsoid
@@ -93,7 +93,7 @@ dv_has_:
     mk: појдовен елипсоид
     nl: referentie-ellipsoïde
     pt: elipsoide de referência
-    pt-br: Elipsoide de referência
+    pt_br: Elipsoide de referência
     ru: референц-эллипсоид
     sah: референц-эллипсоид
     sl: referenčni elipsoid
@@ -104,9 +104,9 @@ dv_has_:
     vi: Ellipsoid quy chiếu
     yue: 參考橢球體
     zh: 参考椭球体
-    zh-hans: 参考椭球体
-    zh-hant: 參考橢球體
-    zh-hk: 參考橢球體
+    zh_hans: 参考椭球体
+    zh_hant: 參考橢球體
+    zh_hk: 參考橢球體
 ---
 # [[Reference_Ellipsoid]] 
 

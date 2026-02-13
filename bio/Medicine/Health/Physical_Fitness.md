@@ -92,7 +92,7 @@ dv_has_:
     az: Fitnes
     ba: фитнес
     be: фітнес
-    be-tarask: фізычная падрыхтаванасьць
+    be_tarask: фізычная падрыхтаванасьць
     bg: Фитнес
     bn: শারীরিক সক্ষমতা
     bs: Fizička vježba
@@ -155,12 +155,12 @@ dv_has_:
     vi: Khỏe mạnh thể chất
     yue: 體能
     zh: 肌力與體能訓練
-    zh-cn: 肌力与体能训练
-    zh-hans: 肌力与体能训练
-    zh-hant: 肌力與體能訓練
-    zh-hk: 肌力與體能訓練
-    zh-sg: 肌力与体能训练
-    zh-tw: 肌力與體能訓練
+    zh_cn: 肌力与体能训练
+    zh_hans: 肌力与体能训练
+    zh_hant: 肌力與體能訓練
+    zh_hk: 肌力與體能訓練
+    zh_sg: 肌力与体能训练
+    zh_tw: 肌力與體能訓練
 ---
 # [[Physical_Fitness]] 
 

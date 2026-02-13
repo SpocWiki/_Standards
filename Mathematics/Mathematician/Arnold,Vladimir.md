@@ -190,7 +190,7 @@ dv_has_:
     azb: ولادیمیر آرنولد
     ba: Арнольд Владимир Игоревич
     be: Уладзімір Ігаравіч Арнольд
-    be-tarask: Уладзімер Арнольд
+    be_tarask: Уладзімер Арнольд
     bg: Владимир Арнолд
     ca: Vladímir Arnold
     cs: Vladimir Igorevič Arnold
@@ -230,7 +230,7 @@ dv_has_:
     pap: Vladimir Arnold
     pl: Władimir Arnold
     pt: Vladimir Arnold
-    pt-br: Vladimir Arnold
+    pt_br: Vladimir Arnold
     ro: Vladimir Arnold
     ru: Владимир Игоревич Арнольд
     sk: Vladimir Igorevič Arnoľd
@@ -247,12 +247,12 @@ dv_has_:
     war: Vladimir Arnold
     yue: 弗拉基米爾·阿諾爾德
     zh: 弗拉基米爾·阿諾爾德
-    zh-cn: 弗拉基米尔·阿诺尔德
-    zh-hans: 弗拉基米尔·阿诺尔德
-    zh-hant: 弗拉基米爾·阿諾爾德
-    zh-hk: 弗拉基米爾·阿諾爾德
-    zh-sg: 弗拉基米尔·阿诺尔德
-    zh-tw: 弗拉基米爾·阿諾爾德
+    zh_cn: 弗拉基米尔·阿诺尔德
+    zh_hans: 弗拉基米尔·阿诺尔德
+    zh_hant: 弗拉基米爾·阿諾爾德
+    zh_hk: 弗拉基米爾·阿諾爾德
+    zh_sg: 弗拉基米尔·阿诺尔德
+    zh_tw: 弗拉基米爾·阿諾爾德
 ---
 # [[Arnold,Vladimir]] 
 

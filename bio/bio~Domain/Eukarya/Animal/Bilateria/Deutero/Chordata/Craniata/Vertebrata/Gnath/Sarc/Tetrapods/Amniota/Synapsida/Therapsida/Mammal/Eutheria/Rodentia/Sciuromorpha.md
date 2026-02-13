@@ -8,7 +8,7 @@ dv_has_:
     ast: Sciuromorpha
     az: Sincabkimilər
     be: вавёркападобныя
-    be-tarask: вавёркападобныя
+    be_tarask: вавёркападобныя
     bg: катерицообразни
     ca: esciüromorfs
     ceb: Sciuromorpha
@@ -44,7 +44,7 @@ dv_has_:
     oc: Sciuromorpha
     pl: wiewiórkokształtne
     pt: Sciuromorpha
-    pt-br: Sciuromorpha
+    pt_br: Sciuromorpha
     ro: Sciuromorpha
     ru: белкообразные
     sh: Vjevericoliki glodavci
@@ -59,11 +59,11 @@ dv_has_:
     vo: Sciuromorpha
     war: Sciuromorpha
     zh: 松鼠形亚目
-    zh-cn: 松鼠形亚目
-    zh-hans: 松鼠形亚目
-    zh-hant: 松鼠形亞目
-    zh-hk: 松鼠形亞目
-    zh-tw: 松鼠形亞目
+    zh_cn: 松鼠形亚目
+    zh_hans: 松鼠形亚目
+    zh_hant: 松鼠形亞目
+    zh_hk: 松鼠形亞目
+    zh_tw: 松鼠形亞目
 aliases:
 - ekorngruppen
 - ekorrartade gnagare

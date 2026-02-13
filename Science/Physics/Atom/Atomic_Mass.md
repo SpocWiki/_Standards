@@ -169,7 +169,7 @@ dv_has_:
     az: Atom kütləsi
     ba: Атом массаһы
     be: атамная маса
-    be-tarask: атамная маса
+    be_tarask: атамная маса
     bg: Атомна маса
     bn: পারমাণবিক ভর
     br: Mas atomek
@@ -210,9 +210,9 @@ dv_has_:
     ka: ატომური მასა
     kab: Takura tabelkamt
     kk: Атомдық масса
-    kk-arab: اتومدىق ماسسا
-    kk-cyrl: Атомдық масса
-    kk-latn: Atomdıq massa
+    kk_arab: اتومدىق ماسسا
+    kk_cyrl: Атомдық масса
+    kk_latn: Atomdıq massa
     ko: 원자 질량
     ky: Атомдук масса
     la: Massa atomica
@@ -235,7 +235,7 @@ dv_has_:
     pms: Massa atòmica
     pnb: ایٹمی پعار
     pt: massa atómica
-    pt-br: massa atômica
+    pt_br: massa atômica
     qu: Iñuku wisnu
     ro: masă atomică
     ru: атомная масса
@@ -267,9 +267,9 @@ dv_has_:
     yo: Ìwúwo átọ̀mù
     yue: 原子重量
     zh: 原子量
-    zh-hans: 原子量
-    zh-hant: 原子量
-    zh-hk: 原子量
+    zh_hans: 原子量
+    zh_hant: 原子量
+    zh_hk: 原子量
 ---
 # [[Atomic_Mass]] 
 

@@ -46,8 +46,8 @@ dv_has_:
     vi: Entelegynae
     war: Entelegynae
     zh: 复杂生殖器下目
-    zh-cn: 复杂生殖器下目
-    zh-hans: 复杂生殖器下目
+    zh_cn: 复杂生殖器下目
+    zh_hans: 复杂生殖器下目
 ---
 # [[Entelegynae]] 
 

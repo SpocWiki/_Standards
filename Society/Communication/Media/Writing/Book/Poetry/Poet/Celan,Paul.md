@@ -110,7 +110,7 @@ dv_has_:
     ast: Paul Celan
     azb: پل سلان
     be: Паўль Цэлан
-    be-tarask: Паўль Цэлян
+    be_tarask: Паўль Цэлян
     bg: Паул Целан
     ca: Paul Celan
     cs: Paul Celan
@@ -137,8 +137,8 @@ dv_has_:
     ja: パウル・ツェラン
     ko: 파울 첼란
     ku: Paul Celan
-    ku-arab: پاول جەلان
-    ku-latn: Paul Celan
+    ku_arab: پاول جەلان
+    ku_latn: Paul Celan
     la: Paulus Celan
     lb: Paul Celan
     li: Paul Celan
@@ -151,7 +151,7 @@ dv_has_:
     pap: Paul Celan
     pl: Paul Celan
     pt: Paul Celan
-    pt-br: Paul Celan
+    pt_br: Paul Celan
     ro: Paul Celan
     ru: Пауль Целан
     sh: Paul Celan
@@ -164,12 +164,12 @@ dv_has_:
     uk: Пауль Целан
     yi: פאולוס סעלאַן
     zh: 保罗·策兰
-    zh-cn: 保罗·策兰
-    zh-hans: 保罗·策兰
-    zh-hant: 保羅·策蘭
-    zh-hk: 保羅·策蘭
-    zh-sg: 保罗·策兰
-    zh-tw: 保羅·策蘭
+    zh_cn: 保罗·策兰
+    zh_hans: 保罗·策兰
+    zh_hant: 保羅·策蘭
+    zh_hk: 保羅·策蘭
+    zh_sg: 保罗·策兰
+    zh_tw: 保羅·策蘭
 ---
 # [[Celan,Paul]] 
 

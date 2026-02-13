@@ -25,7 +25,7 @@ dv_has_:
     de: Axel Springer SE
     el: Axel Springer SE
     en: Axel Springer SE
-    en-gb: Axel Springer SE
+    en_gb: Axel Springer SE
     eo: Axel Springer SE
     es: Axel Springer SE
     et: Axel Springer SE
@@ -53,9 +53,9 @@ dv_has_:
     tr: Axel Springer SE
     uk: Axel Springer SE
     zh: 阿克塞爾·斯普林格集團
-    zh-cn: 阿克塞尔·斯普林格集团
-    zh-hans: 阿克塞尔施普林格集团
-    zh-hant: 阿克塞爾·斯普林格集團
+    zh_cn: 阿克塞尔·斯普林格集团
+    zh_hans: 阿克塞尔施普林格集团
+    zh_hant: 阿克塞爾·斯普林格集團
 ---
 Axel_Springer_Verlag
 

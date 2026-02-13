@@ -113,7 +113,7 @@ dv_has_:
     ba: Видео
     bcl: Bidyo
     be: відэа
-    be-tarask: відэа
+    be_tarask: відэа
     bew: Dedelengan
     bg: Видео
     bn: ভিডিও
@@ -170,7 +170,7 @@ dv_has_:
     mk: видео
     ml: വീഡിയോ റെക്കോർഡിംഗ്
     ms: rakaman video
-    ms-arab: راقمن ۏيديو
+    ms_arab: راقمن ۏيديو
     my: ဗီဒီယို
     nan: Bí-ti-oh
     nb: video
@@ -181,7 +181,7 @@ dv_has_:
     pl: wideo
     ps: ویډیو
     pt: vídeo
-    pt-br: vídeo
+    pt_br: vídeo
     qu: Kuyuq rikch'a
     ro: Video
     ru: видеолента
@@ -205,7 +205,7 @@ dv_has_:
     th: วิดีโอ
     tr: video
     tt: видео
-    tt-cyrl: видео
+    tt_cyrl: видео
     uk: відео
     ur: منظرہ
     uz: Video
@@ -216,14 +216,14 @@ dv_has_:
     yi: ווידעא
     yue: 影片
     zh: 视频
-    zh-cn: 视频
-    zh-hans: 视频
-    zh-hant: 影片錄製
-    zh-hk: 視像
-    zh-mo: 視頻
+    zh_cn: 视频
+    zh_hans: 视频
+    zh_hant: 影片錄製
+    zh_hk: 視像
+    zh_mo: 視頻
     zh-my: 视频
-    zh-sg: 视频
-    zh-tw: 影片錄製
+    zh_sg: 视频
+    zh_tw: 影片錄製
     zu: Ividiyo
 ---
 # [[Video_Recording]] 

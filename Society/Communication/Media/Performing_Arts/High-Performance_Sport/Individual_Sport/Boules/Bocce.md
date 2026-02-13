@@ -57,7 +57,7 @@ dv_has_:
     ast: deporte de boles
     az: Boççiya
     azb: بوچه
-    be-tarask: боччэ
+    be_tarask: боччэ
     ca: esport de boles
     cs: koulové sporty
     de: Boule
@@ -94,9 +94,9 @@ dv_has_:
     uk: бочче
     yue: 硬地滾球
     zh: 地擲球
-    zh-cn: 滚木球
-    zh-hans: 滚木球
-    zh-hant: 滾木球
+    zh_cn: 滚木球
+    zh_hans: 滚木球
+    zh_hant: 滾木球
 ---
 # [[Bocce]] 
 

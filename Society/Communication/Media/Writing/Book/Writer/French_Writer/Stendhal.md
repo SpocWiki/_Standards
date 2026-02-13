@@ -152,7 +152,7 @@ dv_has_:
     azb: استاندال
     ba: Стендаль
     be: Стэндаль
-    be-tarask: Стэндаль
+    be_tarask: Стэндаль
     bg: Стендал
     bn: স্টেনদাল
     br: Stendhal
@@ -163,12 +163,12 @@ dv_has_:
     cy: Stendhal
     da: Stendhal
     de: Stendhal
-    de-ch: Stendhal
+    de_ch: Stendhal
     diq: Stendhal
     el: Σταντάλ
     en: Stendhal
-    en-ca: Stendhal
-    en-gb: Stendhal
+    en_ca: Stendhal
+    en_gb: Stendhal
     eo: Stendhal
     es: Stendhal
     et: Stendhal
@@ -211,7 +211,7 @@ dv_has_:
     mwl: Stendhal
     nb: Stendhal
     nds: Stendhal
-    nds-nl: Stendhal
+    nds_nl: Stendhal
     ne: स्टेन्ढल
     nl: Stendhal
     nn: Stendhal
@@ -222,7 +222,7 @@ dv_has_:
     pl: Stendhal
     pms: Stendhal
     pt: Stendhal
-    pt-br: Stendhal
+    pt_br: Stendhal
     qu: Stendhal
     ro: Stendhal
     ru: Стендаль
@@ -233,7 +233,7 @@ dv_has_:
     sl: Stendhal
     sq: Stendhal
     sr: Стендал
-    sr-ec: Стендал
+    sr_ec: Стендал
     sv: Stendhal
     ta: ஸ்டென்ஹால்
     th: สต็องดาล

@@ -259,7 +259,7 @@ dv_has_:
     ba: ғалим
     bcl: siyentista
     be: навуковец
-    be-tarask: навуковец
+    be_tarask: навуковец
     bg: учен
     bn: বিজ্ঞানী
     br: skiantour
@@ -269,20 +269,20 @@ dv_has_:
     ce: Ӏилманча
     ceb: siyentifiko
     ckb: زانستیار
-    crh-latn: alim
+    crh_latn: alim
     cs: vědec
     cv: ăславçă
     cy: gwyddonydd
     da: videnskabsmand
     de: Wissenschaftler
     de-at: Wissenschafter
-    de-ch: Wissenschaftler
+    de_ch: Wissenschaftler
     diq: merdumê İlmi
     dsb: wědomnostnik
     el: επιστήμονας
     en: scientist
-    en-ca: scientist
-    en-gb: scientist
+    en_ca: scientist
+    en_gb: scientist
     eo: sciencisto
     es: científico
     et: teadlane
@@ -328,7 +328,7 @@ dv_has_:
     ko: 과학자
     ks: ساینَس دان
     ku: zanyar
-    ku-latn: zanistvan
+    ku_latn: zanistvan
     kw: godhonydh
     ky: окумуштуу
     la: scientista
@@ -348,7 +348,7 @@ dv_has_:
     mni: ꯅꯩꯅꯂꯣꯢ
     mr: शास्त्रज्ञ
     ms: ahli sains
-    ms-arab: اهلي ساءينس
+    ms_arab: اهلي ساءينس
     mt: xjenzat
     myv: тонадей
     nah: tlamatiliztlācatl
@@ -370,7 +370,7 @@ dv_has_:
     pnb: سائنسدان
     ps: ساينسپوه
     pt: cientista
-    pt-br: cientista
+    pt_br: cientista
     qu: yachaq
     ro: om de știință
     ru: учёный
@@ -388,23 +388,23 @@ dv_has_:
     sms: tiõđooumaž
     sq: shkencëtar
     sr: научник
-    sr-ec: научник
-    sr-el: naučnik
+    sr_ec: научник
+    sr_el: naučnik
     su: élmuwan
     sv: forskare
     sw: mwanasayansi
     ta: அறிவியல் அறிஞர்
     te: శాస్త్రవేత్త
     tg: олим
-    tg-cyrl: олим
+    tg_cyrl: олим
     th: นักวิทยาศาสตร์
     tk: alym
     tl: siyentipiko
     tok: jan pi nasin sona
     tr: bilim insanı
     tt: галим
-    tt-cyrl: галим
-    tt-latn: ğalim
+    tt_cyrl: галим
+    tt_latn: ğalim
     tw: nyansahufoɔ
     udm: тодосчи
     uk: науковець
@@ -420,14 +420,14 @@ dv_has_:
     yo: oní ìmọ̀ sáyẹ́nsì
     yue: 科學家
     zh: 科學家
-    zh-cn: 科学家
-    zh-hans: 科学家
-    zh-hant: 科學家
-    zh-hk: 科學家
-    zh-mo: 科學家
+    zh_cn: 科学家
+    zh_hans: 科学家
+    zh_hant: 科學家
+    zh_hk: 科學家
+    zh_mo: 科學家
     zh-my: 科学家
-    zh-sg: 科学家
-    zh-tw: 科學家
+    zh_sg: 科学家
+    zh_tw: 科學家
     zu: imfundondalo
 ---
 # [[Scientist]] 

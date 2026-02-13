@@ -101,7 +101,7 @@ dv_has_:
     ast: Elementos del grupu 6
     az: Dövri sistemin 6-cı qrupu
     ban: Datu golongan 6
-    be-tarask: падгрупа хрому
+    be_tarask: падгрупа хрому
     bg: Група 6 на периодичната система
     bn: ষষ্ঠ শ্রেণীর মৌল
     bs: 6. grupa hemijskih elemenata
@@ -149,8 +149,8 @@ dv_has_:
     so: Qaybta 6 ee curiye
     sq: Grupi i gjashtë i elementeve kimike
     sr: 6. група хемијских елемената
-    sr-ec: 6. група хемијских елемената
-    sr-el: 6. grupa hemijskih elemenata
+    sr_ec: 6. група хемијских елемената
+    sr_el: 6. grupa hemijskih elemenata
     sv: grupp 6
     ta: நெடுங்குழு 6 தனிமங்கள்
     te: గ్రూప్ 6 మూలకం
@@ -160,12 +160,12 @@ dv_has_:
     wuu: 6族元素
     yue: 6族元素
     zh: 6族元素
-    zh-cn: 6族元素
-    zh-hans: 6族元素
-    zh-hant: 6族元素
-    zh-hk: 6族元素
-    zh-sg: 6族元素
-    zh-tw: 6族元素
+    zh_cn: 6族元素
+    zh_hans: 6族元素
+    zh_hant: 6族元素
+    zh_hk: 6族元素
+    zh_sg: 6族元素
+    zh_tw: 6族元素
 ---
 # [[Group-06-Chromium]]
 

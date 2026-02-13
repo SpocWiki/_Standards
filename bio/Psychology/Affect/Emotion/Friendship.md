@@ -13,7 +13,7 @@ dv_has_:
     ba: дуҫлыҡ
     bcl: Friendship
     be: сяброўства
-    be-tarask: сяброўства
+    be_tarask: сяброўства
     bg: приятелство
     bn: বন্ধুত্ব
     bo: མཛའ་བཅུགས།
@@ -30,7 +30,7 @@ dv_has_:
     diq: ambaz
     el: φιλία
     en: friendship
-    en-gb: friendship
+    en_gb: friendship
     en-us: friendship
     eo: amikeco
     es: amistad
@@ -92,7 +92,7 @@ dv_has_:
     pl: przyjaźń
     ps: ملګرتيا
     pt: amizade
-    pt-br: amizade
+    pt_br: amizade
     rmy: prietenie
     ro: prietenie
     ru: дружба
@@ -137,9 +137,9 @@ dv_has_:
     yi: פריינטשאפט
     yue: 友情
     zh: 友情
-    zh-hans: 友情
-    zh-hant: 友
-    zh-hk: 友情
+    zh_hans: 友情
+    zh_hant: 友
+    zh_hk: 友情
 aliases:
 - Abangani
 - abota

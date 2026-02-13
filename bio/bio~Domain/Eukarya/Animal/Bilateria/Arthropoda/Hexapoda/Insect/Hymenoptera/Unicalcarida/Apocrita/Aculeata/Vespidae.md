@@ -2,7 +2,7 @@
 has_id_wikidata: Q7037230
 dv_has_:
   name_:
-    aeb-arab: فرفزّو
+    aeb_arab: فرفزّو
     af: perdebye
     an: Vespidae
     ar: زنبوريات
@@ -19,11 +19,11 @@ dv_has_:
     da: gedehams
     de: Faltenwespen
     de-at: Vespidae
-    de-ch: Vespidae
+    de_ch: Vespidae
     el: βεσπίδες
     en: Vespidae
-    en-ca: Vespidae
-    en-gb: Vespidae
+    en_ca: Vespidae
+    en_gb: Vespidae
     eo: Vespedoj
     es: Vespidae
     et: voltherilased
@@ -70,7 +70,7 @@ dv_has_:
     nap: Vespidae
     nb: stikkevepser
     nds: Vespidae
-    nds-nl: wespe
+    nds_nl: wespe
     nl: plooivleugelwespen
     nn: Vespidae
     nrm: Vespidae
@@ -81,7 +81,7 @@ dv_has_:
     pl: osowate
     pms: Vespidae
     pt: Vespidae
-    pt-br: Vespidae
+    pt_br: Vespidae
     rm: Vespidae
     ro: Vespidae
     ru: настоящие осы
@@ -110,9 +110,9 @@ dv_has_:
     wo: Vespidae
     yue: 胡蜂科
     zh: 胡蜂科
-    zh-cn: 胡蜂科
-    zh-hans: 胡蜂科
-    zh-tw: 胡蜂科
+    zh_cn: 胡蜂科
+    zh_hans: 胡蜂科
+    zh_tw: 胡蜂科
     zu: Vespidae
 aliases:
 - ampiaiset

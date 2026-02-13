@@ -95,7 +95,7 @@ dv_has_:
     ar: خط الطول الأول
     azb: باشلانقیچ مئردیانی
     ba: Нуленсе меридиан
-    be-tarask: нулявы мэрыдыян
+    be_tarask: нулявы мэрыдыян
     bn: মূল মধ্যরেখা
     ca: primer meridià
     cs: základní poledník
@@ -103,8 +103,8 @@ dv_has_:
     cy: prif feridian
     de: Nullmeridian
     en: prime meridian
-    en-ca: Prime meridian
-    en-gb: prime meridian
+    en_ca: Prime meridian
+    en_gb: prime meridian
     eo: meridiano nul
     es: primer meridiano
     eu: Lehen meridiano
@@ -133,7 +133,7 @@ dv_has_:
     oc: Premier meridian
     pl: południk zerowy
     pt: meridiano primário
-    pt-br: Meridiano primário
+    pt_br: Meridiano primário
     ru: нулевой меридиан
     skr: نصف النہار اولٰی
     sl: ničelni poldnevnik
@@ -152,8 +152,8 @@ dv_has_:
     wuu: 本初子午線
     yue: 本初子午線
     zh: 本初子午線
-    zh-hans: 本初子午线
-    zh-hant: 本初子午線
+    zh_hans: 本初子午线
+    zh_hant: 本初子午線
 ---
 # [[Prime_Meridian]] 
 

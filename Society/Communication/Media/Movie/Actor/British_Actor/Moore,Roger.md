@@ -56,7 +56,7 @@ dv_has_:
     br: Roger Moore
     bs: Roger Moore
     ca: Roger Moore
-    cbk-zam: Roger Moore
+    cbk_zam: Roger Moore
     cdo: Roger Moore
     ceb: Roger Moore
     ch: Roger Moore
@@ -64,14 +64,14 @@ dv_has_:
     chy: Roger Moore
     co: Roger Moore
     cr: Roger Moore
-    crh-latn: Roger Moore
+    crh_latn: Roger Moore
     cs: Roger Moore
     csb: Roger Moore
     cy: Roger Moore
     da: Roger Moore
     de: Roger Moore
     de-at: Roger Moore
-    de-ch: Roger Moore
+    de_ch: Roger Moore
     diq: Roger Moore
     dsb: Roger Moore
     dtp: Roger Moore
@@ -80,8 +80,8 @@ dv_has_:
     el: Ρότζερ Μουρ
     eml: Roger Moore
     en: Roger Moore
-    en-ca: Roger Moore
-    en-gb: Roger Moore
+    en_ca: Roger Moore
+    en_gb: Roger Moore
     eo: Roger Moore
     es: Roger Moore
     et: Roger Moore
@@ -109,7 +109,7 @@ dv_has_:
     ha: Roger Moore
     hak: Roger Moore
     he: רוג'ר מור
-    hif-latn: Roger Moore
+    hif_latn: Roger Moore
     hil: Roger Moore
     ho: Roger Moore
     hr: Roger Moore
@@ -123,7 +123,7 @@ dv_has_:
     ie: Roger Moore
     ig: Roger Moore
     ik: Roger Moore
-    ike-latn: Roger Moore
+    ike_latn: Roger Moore
     ilo: Roger Moore
     io: Roger Moore
     is: Roger Moore
@@ -138,11 +138,11 @@ dv_has_:
     kg: Roger Moore
     ki: Roger Moore
     kk: Роджер Мур
-    kk-latn: Roger Moore
+    kk_latn: Roger Moore
     kk-tr: Roger Moore
     ko: 로저 무어
     ksh: Roger Moore
-    ku-latn: Roger Moore
+    ku_latn: Roger Moore
     kw: Roger Moore
     la: Rogerius Moore
     lad: Roger Moore
@@ -165,7 +165,7 @@ dv_has_:
     nap: Roger Moore
     nb: Roger Moore
     nds: Roger Moore
-    nds-nl: Roger Moore
+    nds_nl: Roger Moore
     nl: Roger Moore
     nn: Sir Roger Moore
     nrm: Roger Moore
@@ -177,7 +177,7 @@ dv_has_:
     pms: Roger Moore
     prg: Roger Moore
     pt: Roger Moore
-    pt-br: Roger Moore
+    pt_br: Roger Moore
     qu: Roger Moore
     rgn: Roger Moore
     rm: Roger Moore
@@ -193,8 +193,8 @@ dv_has_:
     sn: Roger Moore
     sq: Roger Moore
     sr: Роџер Мур
-    sr-ec: Роџер Мур
-    sr-el: Rodžer Mur
+    sr_ec: Роџер Мур
+    sr_el: Rodžer Mur
     su: Roger Moore
     sv: Roger Moore
     sw: Roger Moore
@@ -220,12 +220,12 @@ dv_has_:
     yue: 羅渣摩亞
     zea: Roger Moore
     zh: 罗杰·摩尔
-    zh-cn: 罗杰·摩尔
-    zh-hans: 罗杰·摩尔
-    zh-hant: 羅傑·摩爾
-    zh-hk: 羅渣·摩亞
-    zh-sg: 罗杰·摩尔
-    zh-tw: 羅傑·摩爾
+    zh_cn: 罗杰·摩尔
+    zh_hans: 罗杰·摩尔
+    zh_hant: 羅傑·摩爾
+    zh_hk: 羅渣·摩亞
+    zh_sg: 罗杰·摩尔
+    zh_tw: 羅傑·摩爾
     zu: Roger Moore
 ---
 # [[Moore,Roger]] 

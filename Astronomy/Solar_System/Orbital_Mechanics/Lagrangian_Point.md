@@ -128,7 +128,7 @@ dv_has_:
     ast: Puntos de Lagrange
     az: Laqranj nöqtələri
     be: пункты Лагранжа
-    be-tarask: пункты Лягранжа
+    be_tarask: пункты Лягранжа
     bg: Точки на Лагранж
     bn: লাগ্রঁজ বিন্দু
     bs: Lagrangeova tačka
@@ -138,12 +138,12 @@ dv_has_:
     cy: Pwynt Lagrange
     da: Lagrange-punkt
     de: Lagrange-Punkt
-    de-ch: Lagrange-Punkte
+    de_ch: Lagrange-Punkte
     el: Σημείο Λαγκράνζ
     eml: Punt ad Lagrange
     en: Lagrangian point
-    en-ca: Lagrangian point
-    en-gb: Lagrangian point
+    en_ca: Lagrangian point
+    en_gb: Lagrangian point
     eo: punkto de Lagrange
     es: Punto de Lagrange
     et: Lagrange'i punktid
@@ -177,7 +177,7 @@ dv_has_:
     oc: Ponchs de Lagrange
     pl: punkt libracyjny
     pt: Pontos de Lagrange
-    pt-br: Pontos de Lagrange
+    pt_br: Pontos de Lagrange
     ro: punct Lagrange
     ru: точки Лагранжа
     scn: Punti di Lagrange
@@ -187,8 +187,8 @@ dv_has_:
     sl: Lagrangeeva točka
     sq: Pikat e Lagranzhit
     sr: Лагранжова тачка
-    sr-ec: Лагранжова тачка
-    sr-el: Lagranžova tačka
+    sr_ec: Лагранжова тачка
+    sr_el: Lagranžova tačka
     sv: Lagrangepunkter
     sw: Nukta msawazo
     ta: லெக்ராஞ்சியப் புள்ளி
@@ -203,12 +203,12 @@ dv_has_:
     wuu: 拉格朗日点
     yue: 拉格朗日點
     zh: 拉格朗日点
-    zh-cn: 拉格朗日点
-    zh-hans: 拉格朗日点
-    zh-hant: 拉格朗日點
-    zh-hk: 拉格朗日點
-    zh-sg: 拉格朗日点
-    zh-tw: 拉格朗日點
+    zh_cn: 拉格朗日点
+    zh_hans: 拉格朗日点
+    zh_hant: 拉格朗日點
+    zh_hk: 拉格朗日點
+    zh_sg: 拉格朗日点
+    zh_tw: 拉格朗日點
 ---
 # [[Lagrangian_Point]] 
 

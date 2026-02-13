@@ -140,7 +140,7 @@ dv_has_:
     ba: Нигеҙ
     bcl: Base (kimika)
     be: Асновы
-    be-tarask: аснова
+    be_tarask: аснова
     bg: Основа
     bn: ক্ষারক
     br: Bazenn
@@ -221,7 +221,7 @@ dv_has_:
     pms: Bas (chìmica)
     pnb: اساس
     pt: base
-    pt-br: base
+    pt_br: base
     qu: Llipt'a
     ro: Bază
     ru: основания
@@ -241,7 +241,7 @@ dv_has_:
     sms: alkaal
     sq: Bazat
     sr: база
-    sr-ec: база
+    sr_ec: база
     su: Sanyawa Basa
     sv: bas
     sw: Besi
@@ -251,7 +251,7 @@ dv_has_:
     tl: base
     tr: baz
     tt: нигез
-    tt-cyrl: нигез
+    tt_cyrl: нигез
     tyv: Основание (химия)
     udm: основаниос
     uk: основа

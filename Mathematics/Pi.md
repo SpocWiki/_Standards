@@ -140,7 +140,7 @@ dv_has_:
     ba: Пи
     bcl: Pi
     be: Пі
-    be-tarask: Пі
+    be_tarask: Пі
     bg: пи
     bjn: Pi
     bn: পাই
@@ -162,8 +162,8 @@ dv_has_:
     el: αριθμός π
     eml: Pi grêc
     en: pi
-    en-ca: Pi
-    en-gb: pi
+    en_ca: Pi
+    en_gb: pi
     eo: pi
     es: pi
     et: pii
@@ -253,7 +253,7 @@ dv_has_:
     pnb: پائی
     ps: پای ( فزيک )
     pt: pi
-    pt-br: pi
+    pt_br: pi
     qu: Chiqaluwa
     ro: Pi
     roa-tara: Pi greche
@@ -274,8 +274,8 @@ dv_has_:
     so: Pi Sumad xisaabeed
     sq: Numri pi
     sr: пи
-    sr-ec: пи
-    sr-el: pi
+    sr_ec: пи
+    sr_el: pi
     sv: pi
     sw: Pi
     szl: π
@@ -303,14 +303,14 @@ dv_has_:
     yue: 圓周率
     zea: Pi
     zh: 圓周率
-    zh-cn: 圆周率
-    zh-hans: 圆周率
-    zh-hant: 圓周率
-    zh-hk: 圓周率
-    zh-mo: 圓周率
+    zh_cn: 圆周率
+    zh_hans: 圆周率
+    zh_hant: 圓周率
+    zh_hk: 圓周率
+    zh_mo: 圓周率
     zh-my: 圆周率
-    zh-sg: 圆周率
-    zh-tw: 圓周率
+    zh_sg: 圆周率
+    zh_tw: 圓周率
 ---
 # [[Pi]] 
 

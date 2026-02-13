@@ -184,7 +184,7 @@ dv_has_:
     azb: بیسکای کؤرفزی
     ba: Бискай ҡултығы
     be: Біскайскі заліў
-    be-tarask: Біскайская затока
+    be_tarask: Біскайская затока
     bg: Бискайски залив
     bn: বিস্কায়া উপসাগর
     br: Pleg-mor Gwaskogn
@@ -196,11 +196,11 @@ dv_has_:
     cy: Bae Bizkaia
     da: Biscayabugten
     de: Biskaya
-    de-ch: Biskaya
+    de_ch: Biskaya
     el: Βισκαϊκός κόλπος
     en: Bay of Biscay
-    en-ca: Bay of Biscay
-    en-gb: Bay of Biscay
+    en_ca: Bay of Biscay
+    en_gb: Bay of Biscay
     eo: Biskaja Golfo
     es: golfo de Vizcaya
     et: Biskaia laht
@@ -244,7 +244,7 @@ dv_has_:
     nan: Biscay Oan
     nb: Biscayabukten
     nds: Biskai
-    nds-nl: Golf van Biskaaje
+    nds_nl: Golf van Biskaaje
     nl: Golf van Biskaje
     nn: Biscayabukta
     oc: Golf de Gasconha
@@ -253,7 +253,7 @@ dv_has_:
     pl: Zatoka Biskajska
     pnb: خلیج بسکے
     pt: Golfo da Biscaia
-    pt-br: Golfo da Biscaia
+    pt_br: Golfo da Biscaia
     ro: Golful Biscaya
     ru: Бискайский залив
     scn: Golfu di Biscagghia
@@ -282,8 +282,8 @@ dv_has_:
     xmf: ბისკაიაშ ჸუჯი
     yue: 比斯開灣
     zh: 比斯開灣
-    zh-hans: 比斯开湾
-    zh-hant: 比斯開灣
+    zh_hans: 比斯开湾
+    zh_hant: 比斯開灣
 ---
 # [[Bay_of_Biscay]] 
 

@@ -38,7 +38,7 @@ dv_has_:
   name_:
     ar: لايد
     ast: Lied
-    be-tarask: лід
+    be_tarask: лід
     br: Lied
     ca: lied
     da: lied
@@ -79,12 +79,12 @@ dv_has_:
     vi: Lied
     yue: 浪漫詩歌
     zh: 德國藝術歌曲
-    zh-cn: 德国艺术歌曲
-    zh-hans: 艺术歌曲
-    zh-hant: 德語藝術歌曲
-    zh-hk: 藝術歌曲
-    zh-sg: 艺术歌曲
-    zh-tw: 德語藝術歌曲
+    zh_cn: 德国艺术歌曲
+    zh_hans: 艺术歌曲
+    zh_hant: 德語藝術歌曲
+    zh_hk: 藝術歌曲
+    zh_sg: 艺术歌曲
+    zh_tw: 德語藝術歌曲
 ---
 # [[Lied]] 
 

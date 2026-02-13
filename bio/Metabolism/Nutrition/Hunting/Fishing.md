@@ -159,7 +159,7 @@ dv_has_:
     ba: Балыҡ тотоу
     bas: lɔp
     be: рыбалоўства
-    be-tarask: рыбная лоўля
+    be_tarask: рыбная лоўля
     bg: Риболов
     bjn: Maunjun
     bn: মৎস্য শিকার
@@ -172,12 +172,12 @@ dv_has_:
     da: fiskeri
     dag: zahim gbahibu
     de: Fischen
-    de-ch: Fischerei
+    de_ch: Fischerei
     din: Mäi Rec
     el: αλιεία
     en: fishing
-    en-ca: Fishing
-    en-gb: fishing
+    en_ca: Fishing
+    en_gb: fishing
     en-us: fishing
     eo: fiŝkaptado
     es: pesca
@@ -228,7 +228,7 @@ dv_has_:
     nap: Pesca
     nb: fiske
     nds: Fischeree
-    nds-nl: visserieje
+    nds_nl: visserieje
     ne: माछा पालन
     nia: Fagai
     nl: visserij
@@ -240,7 +240,7 @@ dv_has_:
     pl: połów ryb
     pnb: مچھی پالݨ
     pt: pesca
-    pt-br: Pesca
+    pt_br: Pesca
     qu: Challwa hap'iy
     ro: pescuit
     ru: рыбная ловля
@@ -256,7 +256,7 @@ dv_has_:
     sms: kueʹllšeellmõš
     sn: Kuredza
     sr: риболов
-    sr-ec: риболов
+    sr_ec: риболов
     sv: fiske
     sw: Uvuvi
     ta: மீன் பிடித்தல்
@@ -275,7 +275,7 @@ dv_has_:
     wuu: 捕鱼
     yue: 捉魚
     zh: 捕鱼
-    zh-hant: 捕魚
+    zh_hant: 捕魚
     zu: Ukudoba
 ---
 # [[Fishing]] 

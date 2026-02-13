@@ -102,7 +102,7 @@ dv_has_:
     ast: Esperiencia
     az: Təcrübə
     be: вопытныя веды
-    be-tarask: досьвед
+    be_tarask: досьвед
     bg: опит
     bn: অভিজ্ঞতা
     bs: Iskustvo
@@ -113,7 +113,7 @@ dv_has_:
     da: erfaring
     de: Erfahrung
     de-at: Erfahrung
-    de-ch: Erfahrung
+    de_ch: Erfahrung
     el: Εμπειρία
     en: experience
     eo: sperto
@@ -149,7 +149,7 @@ dv_has_:
     mn: Туршлага
     mr: अनुभव
     ms: Pengalaman
-    ms-arab: ڤڠالمن
+    ms_arab: ڤڠالمن
     mt: esperjenza
     nan: Keng-giām
     nb: erfaring
@@ -169,8 +169,8 @@ dv_has_:
     sl: izkušnja
     sq: Përvoja
     sr: искуство
-    sr-ec: Искуство
-    sr-el: Iskustvo
+    sr_ec: Искуство
+    sr_el: Iskustvo
     sv: erfarenhet
     ta: அனுபவம்
     te: అనుభవం
@@ -190,12 +190,12 @@ dv_has_:
     yue: 經驗
     za: gingniemh
     zh: 經驗
-    zh-cn: 经验
-    zh-hans: 经验
-    zh-hant: 經驗
-    zh-hk: 經驗
-    zh-sg: 经验
-    zh-tw: 經驗
+    zh_cn: 经验
+    zh_hans: 经验
+    zh_hant: 經驗
+    zh_hk: 經驗
+    zh_sg: 经验
+    zh_tw: 經驗
     zu: Ubungcweti
 ---
 # [[Experience]] 

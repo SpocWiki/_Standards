@@ -100,17 +100,17 @@ dv_has_:
     an: Excentricidat
     ar: اختلاف مركز مدار
     be: эксцэнтрысітэт арбіты
-    be-tarask: эксцэнтрысытэт арбіты
+    be_tarask: эксцэнтрысытэт арбіты
     bg: ексцентрицитет
     bn: কক্ষীয় উৎকেন্দ্রিকতা
     ca: excentricitat orbital
     cs: excentricita dráhy
     da: Excentricitet (astronomi)
     de: Exzentrizität
-    de-ch: Exzentrizität
+    de_ch: Exzentrizität
     en: orbital eccentricity
-    en-ca: Orbital eccentricity
-    en-gb: orbital eccentricity
+    en_ca: Orbital eccentricity
+    en_gb: orbital eccentricity
     eo: orbita discentreco
     es: excentricidad orbital
     et: Orbiidi ekstsentrilisus
@@ -144,7 +144,7 @@ dv_has_:
     pap-aw: excentricidad
     pl: ekscentryczność
     pt: excentricidade orbital
-    pt-br: Excentricidade orbital
+    pt_br: Excentricidade orbital
     ro: Excentricitate orbitală
     ru: эксцентриситет орбиты
     sh: Ekscentricitet orbite
@@ -163,12 +163,12 @@ dv_has_:
     wuu: 轨道离心率
     yue: 軌道離心率
     zh: 軌道離心率
-    zh-cn: 轨道离心率
-    zh-hans: 轨道离心率
-    zh-hant: 軌道離心率
-    zh-hk: 軌道離心率
-    zh-sg: 轨道离心率
-    zh-tw: 軌道離心率
+    zh_cn: 轨道离心率
+    zh_hans: 轨道离心率
+    zh_hant: 軌道離心率
+    zh_hk: 軌道離心率
+    zh_sg: 轨道离心率
+    zh_tw: 軌道離心率
 ---
 # [[Orbital_Eccentricity]] 
 

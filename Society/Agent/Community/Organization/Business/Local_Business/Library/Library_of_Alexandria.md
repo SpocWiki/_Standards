@@ -139,7 +139,7 @@ dv_has_:
     ast: Biblioteca d'Alexandría
     az: İsgəndəriyyə kitabxanası
     be: Александрыйская бібліятэка
-    be-tarask: Александрыйская бібліятэка
+    be_tarask: Александрыйская бібліятэка
     bg: Александрийска библиотека
     bn: আলেকজান্দ্রিয়ার প্রাচীন গ্রন্থাগার
     br: Levraoueg Aleksandria
@@ -153,7 +153,7 @@ dv_has_:
     diq: Kutıbxaney İskenderiya
     el: Βιβλιοθήκη της Αλεξάνδρειας
     en: Library of Alexandria
-    en-gb: Library of Alexandria
+    en_gb: Library of Alexandria
     en-us: Library of Alexandria
     eo: Biblioteko de Aleksandrio
     es: Biblioteca de Alejandría
@@ -210,8 +210,8 @@ dv_has_:
     sl: Aleksandrijska knjižnica
     sq: Biblioteka e Aleksandrisë
     sr: Александријска библиотека
-    sr-ec: Александријска библиотека
-    sr-el: Aleksandrijska biblioteka
+    sr_ec: Александријска библиотека
+    sr_el: Aleksandrijska biblioteka
     sv: Biblioteket i Alexandria
     sw: Maktaba ya Aleksandria
     ta: அலெக்ஸ்சாண்டிரியா நூலகம்

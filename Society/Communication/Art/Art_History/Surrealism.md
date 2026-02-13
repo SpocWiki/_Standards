@@ -119,7 +119,7 @@ dv_has_:
     az: sürrealizm
     azb: سوررئالیسم
     be: сюррэалізм
-    be-tarask: сюррэалізм
+    be_tarask: сюррэалізм
     bg: Сюрреализъм
     bho: अतियथार्थवाद
     bn: পরাবাস্তববাদ
@@ -211,8 +211,8 @@ dv_has_:
     sms: surrealismm
     sq: surrealizmi
     sr: надреализам
-    sr-ec: надреализам
-    sr-el: nadrealizam
+    sr_ec: надреализам
+    sr_el: nadrealizam
     stq: Surrealismus
     sv: surrealism
     ta: அடிமன வெளிப்பாட்டியம்
@@ -231,7 +231,7 @@ dv_has_:
     wuu: 超现实主义
     yue: 超現實主義
     zh: 超现实主义
-    zh-hant: 超現實主義
+    zh_hant: 超現實主義
 ---
 # [[Surrealism]] 
 

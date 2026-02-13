@@ -298,7 +298,7 @@ dv_has_:
     bbc: sipak bola
     bcl: futbol
     be: футбол
-    be-tarask: футбол
+    be_tarask: футбол
     bew: bola tendang
     bg: футбол
     bho: फुटबाल
@@ -325,7 +325,7 @@ dv_has_:
     dag: bolli
     de: Fußball
     de-at: Fußball
-    de-ch: Fussball
+    de_ch: Fussball
     dga: bɔlŋmɛ kpaaroo
     din: adiircök
     diq: futbol
@@ -336,8 +336,8 @@ dv_has_:
     el: ποδόσφαιρο
     eml: fólbar
     en: association football
-    en-ca: soccer
-    en-gb: association football
+    en_ca: soccer
+    en_gb: association football
     en-us: soccer
     eo: futbalo
     es: fútbol
@@ -422,7 +422,7 @@ dv_has_:
     lv: futbols
     lzh: 足球
     mai: फुटबल
-    map-bms: bal-balan
+    map_bms: bal-balan
     mdf: футболсь
     mg: baolina kitra
     mhr: футбол
@@ -434,7 +434,7 @@ dv_has_:
     mni: ꯑꯦꯁꯣꯁꯤꯑꯦꯁꯟ ꯐꯨꯠꯕꯣꯜ
     mr: फुटबॉल
     ms: bola sepak
-    ms-arab: بولا سيڤق
+    ms_arab: بولا سيڤق
     mt: futbol
     mwl: bola
     my: ဘောလုံးကစားခြင်း
@@ -445,7 +445,7 @@ dv_has_:
     nap: pallone
     nb: fotball
     nds: Football
-    nds-nl: vootbal
+    nds_nl: vootbal
     ne: फुटबल खेल
     new: फुटबल
     nia: fabola
@@ -468,7 +468,7 @@ dv_has_:
     pnb: فٹ بال
     ps: فوټبال
     pt: futebol
-    pt-br: futebol
+    pt_br: futebol
     qu: piluta hayt'ay
     rm: ballape
     rmf: pieresko bollos
@@ -511,7 +511,7 @@ dv_has_:
     te: ఫుట్ బాల్
     tet: futeból
     tg: футбол
-    tg-cyrl: футбол
+    tg_cyrl: футбол
     th: ฟุตบอล
     tk: tutbol
     tl: futbol
@@ -543,14 +543,14 @@ dv_has_:
     zea: voebal
     zgh: ⵜⴰⵛⴰⵎⵎⴰ ⵏ ⵓⴹⴰⵔ
     zh: 足球
-    zh-cn: 足球
-    zh-hans: 足球
-    zh-hant: 足球
-    zh-hk: 足球
-    zh-mo: 足球
+    zh_cn: 足球
+    zh_hans: 足球
+    zh_hant: 足球
+    zh_hk: 足球
+    zh_mo: 足球
     zh-my: 足球
-    zh-sg: 足球
-    zh-tw: 足球
+    zh_sg: 足球
+    zh_tw: 足球
     zu: Ibhola
 ---
 # [[Association_Football]] 

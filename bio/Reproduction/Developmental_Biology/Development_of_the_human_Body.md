@@ -74,7 +74,7 @@ dv_has_:
     ar: تطور الإنسان
     ast: Crecedera humana
     az: İnsanın inkişafı
-    be-tarask: чалавечае разьвіцьцё
+    be_tarask: чалавечае разьвіцьцё
     bs: Postnatalni rast i razvoj čovjeka
     ca: desenvolupament del cos humà
     cs: ontogeneze člověka
@@ -106,8 +106,8 @@ dv_has_:
     sl: razvoj človeškega telesa
     sq: Periudha pasnatale
     sr: хумани развој
-    sr-ec: Хумани развој
-    sr-el: Humani razvoj
+    sr_ec: Хумани развој
+    sr_el: Humani razvoj
     sv: mänsklig utveckling
     sw: Umri
     ta: மனித வளர்ச்சியாக்கம்
@@ -117,9 +117,9 @@ dv_has_:
     vec: desviłupo uman
     yue: 人嘅成長
     zh: 人類發展階段
-    zh-cn: 人类发育
-    zh-hans: 生长和发育
-    zh-hant: 人類發育
+    zh_cn: 人类发育
+    zh_hans: 生长和发育
+    zh_hant: 人類發育
 ---
 # [[Development_of_the_human_Body]] 
 

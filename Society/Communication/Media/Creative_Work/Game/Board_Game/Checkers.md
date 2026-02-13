@@ -111,7 +111,7 @@ dv_has_:
     awa: चेक्कर्स
     az: Dama
     be: шашкі
-    be-tarask: шашкі
+    be_tarask: шашкі
     bg: дама
     bo: མཆོང་སྒྲིག་མིག་མངས།
     bs: Dama
@@ -121,11 +121,11 @@ dv_has_:
     cy: draffts
     da: Dam
     de: Dame
-    de-ch: Dame
+    de_ch: Dame
     el: vτάμα
     en: checkers
-    en-ca: Draughts
-    en-gb: draughts
+    en_ca: Draughts
+    en_gb: draughts
     en-us: checkers
     eo: damludo
     es: damas
@@ -153,7 +153,7 @@ dv_has_:
     jv: Dam-daman
     ka: შაში
     kk: Дойбы
-    kk-cyrl: шашки
+    kk_cyrl: шашки
     ko: 체커
     la: Damicus ludus
     lb: Damm
@@ -161,7 +161,7 @@ dv_has_:
     li: Damme
     lt: šaškės
     lv: dambrete
-    map-bms: Dhamdhaman
+    map_bms: Dhamdhaman
     mk: Дама
     mn: Зуун буудалт даам
     ms: Dam
@@ -174,7 +174,7 @@ dv_has_:
     oc: Dames
     pl: warcaby
     pt: damas
-    pt-br: Damas
+    pt_br: Damas
     ro: dame
     ru: шашки
     sah: Дуобат
@@ -185,7 +185,7 @@ dv_has_:
     sl: dama
     sq: Damë
     sr: дама
-    sr-ec: дама
+    sr_ec: дама
     su: Damdaman
     sv: damspel
     tg: шашка
@@ -203,9 +203,9 @@ dv_has_:
     wuu: 国际跳棋
     yue: 跳棋
     zh: 西洋跳棋
-    zh-hans: 西洋跳棋
-    zh-hant: 西洋跳棋
-    zh-tw: 西洋跳棋
+    zh_hans: 西洋跳棋
+    zh_hant: 西洋跳棋
+    zh_tw: 西洋跳棋
     zu: Umxingovu
 ---
 # [[Checkers]] 

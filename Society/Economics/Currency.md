@@ -190,7 +190,7 @@ dv_has_:
     ba: валюта
     bar: Wearung
     be: валюта
-    be-tarask: валюта
+    be_tarask: валюта
     bg: валута
     bho: करेंसी
     bn: মুদ্রা
@@ -202,18 +202,18 @@ dv_has_:
     ce: валюта
     ckb: دراو
     crh: para birlemi
-    crh-latn: para birlemi
+    crh_latn: para birlemi
     cs: měna
     cu: платьно срѣдьство
     cy: arian cyfred
     da: valuta
     de: Währung
-    de-ch: Währung
+    de_ch: Währung
     diq: doviz
     el: νομισματική μονάδα
     en: currency
-    en-ca: currency
-    en-gb: currency
+    en_ca: currency
+    en_gb: currency
     en-us: currency
     eo: valuto
     es: moneda
@@ -257,7 +257,7 @@ dv_has_:
     knc: Currency
     ko: 통화
     krc: валюта
-    ku-latn: dirav
+    ku_latn: dirav
     kw: mona kemmyn
     ky: валюта
     la: moneta
@@ -278,7 +278,7 @@ dv_has_:
     mnw: သၠုဲ
     mr: चलन
     ms: mata wang
-    ms-arab: مات واڠ
+    ms_arab: مات واڠ
     mt: valuta
     mwl: moneda
     my: ငွေကြေး
@@ -286,7 +286,7 @@ dv_has_:
     nan: thong-hòe
     nb: valuta
     nds: Geldsoort
-    nds-nl: muntienheid
+    nds_nl: muntienheid
     ne: मुद्रा
     new: दां
     nl: valuta
@@ -306,7 +306,7 @@ dv_has_:
     pnb: کرنسی
     ps: پولي واحد
     pt: padrão monetário
-    pt-br: moeda
+    pt_br: moeda
     qu: kañina
     rm: valuta
     ro: monedă
@@ -324,8 +324,8 @@ dv_has_:
     sms: valutt
     sq: deviza
     sr: валута
-    sr-ec: валута
-    sr-el: valuta
+    sr_ec: валута
+    sr_el: valuta
     stq: Munte
     su: mata uang
     sv: valuta
@@ -333,14 +333,14 @@ dv_has_:
     ta: நாணயம்
     te: ద్రవ్యం
     tg: арз
-    tg-cyrl: арз
+    tg_cyrl: арз
     th: เงินตรา
     ti: ባጤራ
     tl: pananalapi
     tr: para birimi
     trv: kretan
     tt: валюта
-    tt-cyrl: валюта
+    tt_cyrl: валюта
     tyv: валюта
     udm: валюта
     uk: валюта
@@ -356,14 +356,14 @@ dv_has_:
     yo: owóníná
     yue: 通貨
     zh: 通貨
-    zh-cn: 通货
-    zh-hans: 通货
-    zh-hant: 通貨
-    zh-hk: 流通貨幣
-    zh-mo: 通貨
+    zh_cn: 通货
+    zh_hans: 通货
+    zh_hant: 通貨
+    zh_hk: 流通貨幣
+    zh_mo: 通貨
     zh-my: 通貨
-    zh-sg: 通貨
-    zh-tw: 通貨
+    zh_sg: 通貨
+    zh_tw: 通貨
 ---
 # [[Currency]] 💵 
 

@@ -167,7 +167,7 @@ dv_has_:
     az: Okeanologiya
     ba: Океанология
     be: акіяналогія
-    be-tarask: акіянаграфія
+    be_tarask: акіянаграфія
     bg: Океанография
     bho: समुंद्र बिज्ञान
     bn: সমুদ্রবিজ্ঞান
@@ -239,7 +239,7 @@ dv_has_:
     pl: oceanografia
     ps: سمندر پوهنه
     pt: oceanografia
-    pt-br: oceanografia
+    pt_br: oceanografia
     ro: oceanografie
     ru: океанография
     scn: Oceanugrafìa
@@ -253,8 +253,8 @@ dv_has_:
     sms: miârrtiõđ
     sq: Oqeanografia
     sr: океанографија
-    sr-ec: океанографија
-    sr-el: okeanografija
+    sr_ec: океанографија
+    sr_el: okeanografija
     sv: oceanografi
     sw: Elimu ya bahari
     ta: கடலியல்
@@ -275,9 +275,9 @@ dv_has_:
     yo: ẹ̀kọ́ ìmọ̀ òkun
     yue: 海洋學
     zh: 海洋学
-    zh-cn: 海洋学
-    zh-hans: 海洋学
-    zh-hant: 海洋學
+    zh_cn: 海洋学
+    zh_hans: 海洋学
+    zh_hant: 海洋學
     zu: Umchazalwandle
 ---
 # [[Oceanography]] 

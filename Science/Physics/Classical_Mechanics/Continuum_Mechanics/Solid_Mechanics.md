@@ -66,7 +66,7 @@ dv_has_:
     ar: ميكانيكا المواد الصلبة
     ast: Mecánica de sólidos deformables
     be: механіка цвёрдага дэфармаванага цела
-    be-tarask: мэханіка цьвёрдага цела
+    be_tarask: мэханіка цьвёрдага цела
     bn: কঠিন বলবিজ্ঞান
     bs: Mehanika čvrstih tijela
     ca: mecànica del sòlid deformable
@@ -109,9 +109,9 @@ dv_has_:
     wuu: 固体力学
     yue: 固體力學
     zh: 固体力学
-    zh-hans: 固体力学
-    zh-hant: 固體力學
-    zh-hk: 固體力學
+    zh_hans: 固体力学
+    zh_hant: 固體力學
+    zh_hk: 固體力學
 ---
 # [[Solid_Mechanics]] 
 

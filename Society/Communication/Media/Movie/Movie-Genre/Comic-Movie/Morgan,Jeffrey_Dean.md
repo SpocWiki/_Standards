@@ -73,7 +73,7 @@ dv_has_:
     pap: Jeffrey Dean Morgan
     pl: Jeffrey Dean Morgan
     pt: Jeffrey Dean Morgan
-    pt-br: Jeffrey Dean Morgan
+    pt_br: Jeffrey Dean Morgan
     ro: Jeffrey Dean Morgan
     ru: Джеффри Дин Морган
     sl: Jeffrey Dean Morgan
@@ -83,15 +83,15 @@ dv_has_:
     th: เจฟฟรีย์ ดีน มอร์แกน
     tr: Jeffrey Dean Morgan
     tt: Җеффри Дин Морган
-    tt-cyrl: Җеффри Дин Морган
+    tt_cyrl: Җеффри Дин Морган
     uk: Джеффрі Дін Морґан
     uz: Jeffrey Dean Morgan
     vi: Jeffrey Dean Morgan
     vo: Jeffrey Dean Morgan
     yo: Jeffrey Dean Morgan
     zh: 杰弗里·迪恩·摩根
-    zh-hant: 傑佛瑞·狄恩·摩根
-    zh-hk: 謝菲·甸·摩根
+    zh_hant: 傑佛瑞·狄恩·摩根
+    zh_hk: 謝菲·甸·摩根
 ---
 # [[Morgan,Jeffrey_Dean]] 
 

@@ -178,7 +178,7 @@ dv_has_:
     ban: satua bhatara
     bar: Mythologie
     be: міфалогія
-    be-tarask: міталёгія
+    be_tarask: міталёгія
     bg: митология
     bjn: mitologi
     bn: পুরাণবিদ্যা
@@ -192,19 +192,19 @@ dv_has_:
     ckb: ئەفسانەزانی
     co: mitulugia
     crh: mifologiya
-    crh-latn: mifologiya
+    crh_latn: mifologiya
     cs: mytologie
     cu: мѷѳологїꙗ
     cv: халаплăх
     cy: mytholeg
     da: mytologi
     de: Mythologie
-    de-ch: Mythologie
+    de_ch: Mythologie
     diq: mitolociye
     el: μυθολογία
     en: mythology
-    en-ca: mythology
-    en-gb: mythology
+    en_ca: mythology
+    en_gb: mythology
     eo: mitologio
     es: mitología
     et: mütoloogia
@@ -253,7 +253,7 @@ dv_has_:
     ko: 신화
     krc: мифология
     ku: mîtolojî
-    ku-latn: mîtolojî
+    ku_latn: mîtolojî
     ky: мифология
     la: mythologia
     lad: mitolojiya
@@ -273,7 +273,7 @@ dv_has_:
     mni: ꯃꯤ ꯂꯥꯢ ꯇꯤꯟꯒꯤ ꯋꯥꯔꯤ
     mr: पौराणिक कथा
     ms: mitologi
-    ms-arab: ميتولوݢي
+    ms_arab: ميتولوݢي
     mwl: Mitologie
     mzn: Unə
     nan: sîn-ōe-ha̍k
@@ -294,7 +294,7 @@ dv_has_:
     pms: mitologìa
     pnb: علم الاساطیر
     pt: mitologia
-    pt-br: mitologia
+    pt_br: mitologia
     ro: mitologie
     ru: мифология
     rue: міфолоґія
@@ -343,14 +343,14 @@ dv_has_:
     za: gojgaeqfangz
     zea: mytholohie
     zh: 神話學
-    zh-cn: 神话
-    zh-hans: 神话
-    zh-hant: 神话
-    zh-hk: 神話
-    zh-mo: 神话
+    zh_cn: 神话
+    zh_hans: 神话
+    zh_hant: 神话
+    zh_hk: 神話
+    zh_mo: 神话
     zh-my: 神话
-    zh-sg: 神话
-    zh-tw: 神話
+    zh_sg: 神话
+    zh_tw: 神話
 ---
 #is_/same_as :: [[../../../WikiData/WD~Mythology,9134|WD~Mythology,9134]] 
 

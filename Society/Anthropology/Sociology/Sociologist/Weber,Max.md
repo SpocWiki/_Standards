@@ -191,7 +191,7 @@ dv_has_:
     azb: ماکس وبر
     ba: Макс Вебер
     be: Максімільян Карл Эміль Вебер
-    be-tarask: Макс Вэбэр
+    be_tarask: Макс Вэбэр
     bew: Mak Wèber
     bg: Макс Вебер
     bjn: Max Weber
@@ -209,12 +209,12 @@ dv_has_:
     cy: Max Weber
     da: Max Weber
     de: Max Weber
-    de-ch: Max Weber
+    de_ch: Max Weber
     diq: Max Weber
     el: Μαξ Βέμπερ
     en: Max Weber
-    en-ca: Max Weber
-    en-gb: Max Weber
+    en_ca: Max Weber
+    en_gb: Max Weber
     en-us: Max Weber
     eo: Max Weber
     es: Max Weber
@@ -323,7 +323,7 @@ dv_has_:
     yo: Max Weber
     yue: 韋伯
     zh: 马克斯·韦伯
-    zh-hk: 麥斯·韋伯
+    zh_hk: 麥斯·韋伯
 ---
 # [[Weber,Max]] 
 

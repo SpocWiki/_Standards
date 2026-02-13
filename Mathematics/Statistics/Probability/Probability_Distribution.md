@@ -108,7 +108,7 @@ dv_has_:
     ar: توزع احتمالي
     ast: distribución de probabilidá
     be: размеркаванне імавернасцей
-    be-tarask: разьмеркаваньне імавернасьцяў
+    be_tarask: разьмеркаваньне імавернасьцяў
     bg: Разпределение на вероятностите
     bn: সম্ভাবনা বিন্যাস
     ca: distribució de probabilitat
@@ -119,8 +119,8 @@ dv_has_:
     de: Wahrscheinlichkeitsverteilung
     el: Κατανομή πιθανότητας
     en: probability distribution
-    en-ca: Probability distribution
-    en-gb: probability distribution
+    en_ca: Probability distribution
+    en_gb: probability distribution
     eo: probablodistribuo
     es: distribución de probabilidad
     et: Jaotus
@@ -144,20 +144,20 @@ dv_has_:
     lt: Skirstinys
     mk: веројатносна распределба
     ms: taburan kebarangkalian
-    ms-arab: تابورن کبارڠکالين
+    ms_arab: تابورن کبارڠکالين
     nb: sannsynlighetsfordeling
     nl: kansverdeling
     nn: sannsynsfordeling
     pl: rozkład prawdopodobieństwa
     pt: distribuição de probabilidade
-    pt-br: distribuição de probabilidade
+    pt_br: distribuição de probabilidade
     ro: Distribuții de probabilitate
     ru: распределение вероятностей
     si: සම්භාවිතා ව්යාප්තිය
     sl: verjetnostna porazdelitev
     sq: Shpërndarja e probabilitetit
     sr: расподела вероватноће
-    sr-ec: расподела вероватноће
+    sr_ec: расподела вероватноће
     su: Sebaran probabilitas
     sv: sannolikhetsfördelning
     ta: நிகழ்தகவு பரவல்
@@ -171,12 +171,12 @@ dv_has_:
     wuu: 概率分布
     yue: 概率分佈
     zh: 概率分布
-    zh-cn: 概率分布
-    zh-hans: 概率分布
-    zh-hant: 概率分布
-    zh-hk: 概率分佈
-    zh-sg: 概率分布
-    zh-tw: 機率分佈
+    zh_cn: 概率分布
+    zh_hans: 概率分布
+    zh_hant: 概率分布
+    zh_hk: 概率分佈
+    zh_sg: 概率分布
+    zh_tw: 機率分佈
 ---
 # [[Probability_Distribution]] 
 

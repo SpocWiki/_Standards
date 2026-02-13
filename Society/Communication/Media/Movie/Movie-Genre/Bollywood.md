@@ -82,7 +82,7 @@ dv_has_:
     az: Bollivud
     ban: Bollywood
     be: Балівуд
-    be-tarask: Балівуд
+    be_tarask: Балівуд
     bg: Боливуд
     bho: बॉलीवुड
     bjn: Bollywood
@@ -98,8 +98,8 @@ dv_has_:
     dv: ބޮލީވުޑް
     el: Μπόλυγουντ
     en: Bollywood
-    en-ca: Bollywood
-    en-gb: Hindi Film Industry
+    en_ca: Bollywood
+    en_gb: Hindi Film Industry
     eo: Bolivudo
     es: Bollywood
     eu: Bollywood
@@ -123,14 +123,14 @@ dv_has_:
     ko: 볼리우드
     ks: بٲلی وُڈ
     ku: Bollywood
-    ku-arab: بۆللیوۆۆد
-    ku-latn: Bollywood
+    ku_arab: بۆللیوۆۆد
+    ku_latn: Bollywood
     la: Bollywood
     lt: Bolivudas
     lv: Bolivuda
     mag: हिन्दी चलच्चित्र
     mai: बलिउड
-    map-bms: Bollywood
+    map_bms: Bollywood
     mk: Боливуд
     ml: ബോളിവുഡ്
     mn: Болливүүд
@@ -150,7 +150,7 @@ dv_has_:
     pnb: بالیوڈ
     ps: باليووډ
     pt: Bollywood
-    pt-br: Bollywood
+    pt_br: Bollywood
     ro: Bollywood
     ru: Болливуд
     sa: bollywood
@@ -163,8 +163,8 @@ dv_has_:
     so: Bollywood
     sq: Bollywood
     sr: Боливуд
-    sr-ec: Боливуд
-    sr-el: Bolivud
+    sr_ec: Боливуд
+    sr_el: Bolivud
     sv: Bollywood
     sw: Bollywood
     ta: பாலிவுட்
@@ -182,12 +182,12 @@ dv_has_:
     xmf: ბოლივუდი
     yue: 波里活
     zh: 宝莱坞
-    zh-cn: 宝莱坞
-    zh-hans: 宝莱坞
-    zh-hant: 寶萊塢
-    zh-hk: 波里活
-    zh-sg: 宝莱坞
-    zh-tw: 寶萊塢
+    zh_cn: 宝莱坞
+    zh_hans: 宝莱坞
+    zh_hant: 寶萊塢
+    zh_hk: 波里活
+    zh_sg: 宝莱坞
+    zh_tw: 寶萊塢
 ---
 # [[Bollywood]] 
 

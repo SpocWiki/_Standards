@@ -257,7 +257,7 @@ dv_has_:
     bar: Abraham
     bcl: Abraham
     be: Аўрам
-    be-tarask: Абрам
+    be_tarask: Абрам
     bew: Ibrahim
     bg: Авраам
     bjn: Abraham
@@ -282,8 +282,8 @@ dv_has_:
     ee: Abraham
     el: Αβραάμ
     en: Abraham
-    en-ca: Abraham
-    en-gb: Abraham
+    en_ca: Abraham
+    en_gb: Abraham
     en-us: Abraham
     eo: Abrahamo
     es: Abraham
@@ -360,7 +360,7 @@ dv_has_:
     nan: Abraham
     nb: Abraham
     nds: Abraham
-    nds-nl: Abraham
+    nds_nl: Abraham
     nia: Aberahamo
     nl: Abraham
     nn: Abraham
@@ -375,7 +375,7 @@ dv_has_:
     pnb: ابراہیم
     ps: حضرت ابراهيم عليه السلام
     pt: Abraão
-    pt-br: Abraão
+    pt_br: Abraão
     qu: abraham primer patriarca
     rm: Abraham
     ro: Avraam
@@ -406,8 +406,8 @@ dv_has_:
     tok: jan Apakan
     tr: İbrahim
     tt: Ибраһим пәйгамбәр
-    tt-cyrl: Ибраһим
-    tt-latn: İbrahim
+    tt_cyrl: Ибраһим
+    tt_latn: İbrahim
     ug: ئىبراھىم ئەلەيھىسسالام
     uk: Авраам
     ur: ابراہیم
@@ -424,9 +424,9 @@ dv_has_:
     yue: 亞巴郎
     zgh: ⵉⴱⵔⴰⵀⵉⵎ
     zh: 亞伯拉罕
-    zh-cn: 亚伯拉罕
-    zh-hans: 亚伯拉罕
-    zh-hant: 亞伯拉罕
+    zh_cn: 亚伯拉罕
+    zh_hans: 亚伯拉罕
+    zh_hant: 亞伯拉罕
 ---
 # [[Abraham]] 
 

@@ -116,7 +116,7 @@ dv_has_:
     bar: Warren Buffett
     bcl: Warren Buffet
     be: Уорэн Бафет
-    be-tarask: Ўорэн Бафэт
+    be_tarask: Ўорэн Бафэт
     bg: Уорън Бъфет
     bi: Warren Buffett
     bn: ওয়ারেন বাফেট
@@ -129,11 +129,11 @@ dv_has_:
     da: Warren Buffett
     de: Warren Buffett
     de-at: Warren Buffett
-    de-ch: Warren Buffett
+    de_ch: Warren Buffett
     el: Γουόρεν Μπάφετ
     en: Warren Buffett
-    en-ca: Warren Buffett
-    en-gb: Warren Buffett
+    en_ca: Warren Buffett
+    en_gb: Warren Buffett
     eo: Warren Buffett
     es: Warren Buffett
     et: Warren Buffett
@@ -189,7 +189,7 @@ dv_has_:
     pnb: وارن بفیٹ
     ps: وارن بفېټ
     pt: Warren Buffett
-    pt-br: Warren Buffett
+    pt_br: Warren Buffett
     ro: Warren Buffett
     ru: Уоррен Баффетт
     sah: Уоррен Баффетт
@@ -218,9 +218,9 @@ dv_has_:
     yi: ווארען באפעט
     yue: 巴菲特
     zh: 沃伦·巴菲特
-    zh-cn: 沃伦·巴菲特
-    zh-hans: 沃伦·巴菲特
-    zh-tw: 華倫·巴菲特
+    zh_cn: 沃伦·巴菲特
+    zh_hans: 沃伦·巴菲特
+    zh_tw: 華倫·巴菲特
 ---
 # [[Buffett,Warren]] 
 

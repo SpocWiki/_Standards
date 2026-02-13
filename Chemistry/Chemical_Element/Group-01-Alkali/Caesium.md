@@ -200,7 +200,7 @@ dv_has_:
     bar: Zäsium
     bcl: Sesyo
     be: Цэзій
-    be-tarask: цэз
+    be_tarask: цэз
     bg: цезий
     bho: सीजियम
     bn: সিজিয়াম
@@ -219,7 +219,7 @@ dv_has_:
     de: Caesium
     el: καίσιο
     en: caesium
-    en-gb: caesium
+    en_gb: caesium
     en-us: cesium
     eo: cezio
     es: cesio
@@ -303,7 +303,7 @@ dv_has_:
     pnb: سیزیم
     ps: سېزيوم
     pt: césio
-    pt-br: césio
+    pt_br: césio
     qu: Sesyu
     ro: cesiu
     ru: цезий
@@ -330,7 +330,7 @@ dv_has_:
     tl: Sesyo
     tr: Sezyum
     tt: цезий
-    tt-cyrl: цезий
+    tt_cyrl: цезий
     ug: سېزىي
     uk: цезій
     ur: سیزیئم
@@ -345,9 +345,9 @@ dv_has_:
     yo: Kesium
     yue: 銫
     zh: 铯
-    zh-hans: 铯
-    zh-hant: 銫
-    zh-tw: 銫
+    zh_hans: 铯
+    zh_hant: 銫
+    zh_tw: 銫
     zu: UmCanga
   number_of_:
     period: 6

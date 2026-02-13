@@ -122,7 +122,7 @@ dv_has_:
     azb: فارماکولوژی
     ba: Фармакология
     be: фармакалогія
-    be-tarask: фармакалёгія
+    be_tarask: фармакалёгія
     bg: фармакология
     bn: ঔষধবিজ্ঞান
     bpy: ফার্মাকোলজি
@@ -135,7 +135,7 @@ dv_has_:
     de: Pharmakologie
     el: φαρμακολογία
     en: pharmacology
-    en-gb: pharmacology
+    en_gb: pharmacology
     eo: farmakologio
     es: farmacología
     et: farmakoloogia
@@ -160,11 +160,11 @@ dv_has_:
     jv: Farmakologi
     ka: ფარმაკოლოგია
     kk: фармакология
-    kk-arab: فارماكولوگىييا
+    kk_arab: فارماكولوگىييا
     kk-cn: فارماكولوگىييا
-    kk-cyrl: фармакология
+    kk_cyrl: фармакология
     kk-kz: фармакология
-    kk-latn: farmakologïya
+    kk_latn: farmakologïya
     kk-tr: farmakologïya
     kn: ಔಷಧಶಾಸ್ತ್ರ
     ko: 약리학
@@ -207,8 +207,8 @@ dv_has_:
     sms: farmakologia
     sq: farmakologjia
     sr: фармакологија
-    sr-ec: фармакологија
-    sr-el: farmakologija
+    sr_ec: фармакологија
+    sr_el: farmakologija
     su: farmakologi
     sv: farmakologi
     ta: மருந்தியல்
@@ -227,12 +227,12 @@ dv_has_:
     xmf: ფარმაკოლოგია
     yue: 藥理學
     zh: 药理学
-    zh-cn: 药理学
-    zh-hans: 药理学
-    zh-hant: 藥理學
-    zh-hk: 藥理學
-    zh-sg: 药理学
-    zh-tw: 藥理學
+    zh_cn: 药理学
+    zh_hans: 药理学
+    zh_hant: 藥理學
+    zh_hk: 藥理學
+    zh_sg: 药理学
+    zh_tw: 藥理學
 ---
 # [[Pharmacology]] 
 

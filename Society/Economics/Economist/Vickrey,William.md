@@ -86,7 +86,7 @@ dv_has_:
     ast: William Vickrey
     az: Uilyam Vikri
     be: Уільям Вікры
-    be-tarask: Ўільям Вікры
+    be_tarask: Ўільям Вікры
     bg: Уилям Викри
     bn: উইলিয়াম ভিক্রে
     ca: William Vickrey
@@ -124,7 +124,7 @@ dv_has_:
     pl: William Vickrey
     pnb: ولیم وکری
     pt: William Vickrey
-    pt-br: William Vickrey
+    pt_br: William Vickrey
     ro: William Vickrey
     ru: Уильям Викри
     sk: William Vickrey
@@ -141,12 +141,12 @@ dv_has_:
     yo: William Vickrey
     yue: 威廉·維克里
     zh: 威廉·维克里
-    zh-cn: 威廉·维克里
-    zh-hans: 威廉·维克里
-    zh-hant: 威廉·維克里
-    zh-hk: 威廉·維克里
-    zh-sg: 威廉·维克里
-    zh-tw: 威廉·維克里
+    zh_cn: 威廉·维克里
+    zh_hans: 威廉·维克里
+    zh_hant: 威廉·維克里
+    zh_hk: 威廉·維克里
+    zh_sg: 威廉·维克里
+    zh_tw: 威廉·維克里
 ---
 # [[Vickrey,William]] 
 

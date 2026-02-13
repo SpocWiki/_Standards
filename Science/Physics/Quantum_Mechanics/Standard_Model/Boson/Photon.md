@@ -147,7 +147,7 @@ dv_has_:
     az: Foton
     bar: Photon
     be: Фатон
-    be-tarask: фатон
+    be_tarask: фатон
     bg: Фотон
     bn: ফোটন
     bs: Foton
@@ -206,7 +206,7 @@ dv_has_:
     mn: Фотон
     mr: फोटॉन
     ms: foton
-    ms-arab: فوتون
+    ms_arab: فوتون
     my: ဖိုတွန်
     nan: Kng-chú
     nb: foton
@@ -224,7 +224,7 @@ dv_has_:
     pnb: فوٹون
     ps: فوټون
     pt: fotão
-    pt-br: fóton
+    pt_br: fóton
     qu: Phutun
     ro: foton
     ru: фотон
@@ -242,8 +242,8 @@ dv_has_:
     sms: fotoon
     sq: fotoni
     sr: фотон
-    sr-ec: фотон
-    sr-el: foton
+    sr_ec: фотон
+    sr_el: foton
     stq: Photon
     su: Foton
     sv: foton
@@ -256,7 +256,7 @@ dv_has_:
     tok: wan suno
     tr: foton
     tt: фотон
-    tt-cyrl: фотон
+    tt_cyrl: фотон
     uk: фотон
     ur: نوریہ
     uz: Foton
@@ -267,14 +267,14 @@ dv_has_:
     yi: פאטאן
     yue: 光子
     zh: 光子
-    zh-cn: 光子
-    zh-hans: 光子
-    zh-hant: 光子
-    zh-hk: 光子
-    zh-mo: 光子
+    zh_cn: 光子
+    zh_hans: 光子
+    zh_hant: 光子
+    zh_hk: 光子
+    zh_mo: 光子
     zh-my: 光子
-    zh-sg: 光子
-    zh-tw: 光子
+    zh_sg: 光子
+    zh_tw: 光子
     zu: Ibane
 ---
 # [[Photon]] 

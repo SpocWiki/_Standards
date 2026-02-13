@@ -159,7 +159,7 @@ dv_has_:
     ba: Мультипликация
     bcl: Animasyon
     be: мультыплікацыя
-    be-tarask: мультыплікацыя
+    be_tarask: мультыплікацыя
     bew: Gambar gerak
     bg: анимация
     bjn: Animasi
@@ -228,7 +228,7 @@ dv_has_:
     mn: Хөдөлгөөнт дүрс
     mr: ॲनिमेशन
     ms: pendalangan
-    ms-arab: انيماسي
+    ms_arab: انيماسي
     my: အန်နီမေးရှင်း
     nah: tlayōlītīliztli
     nan: Tōng-ōe
@@ -248,7 +248,7 @@ dv_has_:
     pnb: اینیمیشن
     ps: ساهيالي
     pt: animação
-    pt-br: animação
+    pt_br: animação
     qu: Kuyurara
     ro: animație
     ru: анимация
@@ -268,7 +268,7 @@ dv_has_:
     sms: animaatio
     sq: Animimi
     sr: анимација
-    sr-ec: анимација
+    sr_ec: анимација
     su: Animasi
     sv: animering
     sw: Uhaishaji
@@ -291,11 +291,11 @@ dv_has_:
     yue: 動畫戲
     zgh: ⵓⵏⵓⵖⵏ ⵉⵜⵎⵓⵙⵙⵓⵏ
     zh: 動畫
-    zh-cn: 动画
-    zh-hans: 动画
-    zh-hant: 動畫
-    zh-hk: 動畫
-    zh-tw: 動畫
+    zh_cn: 动画
+    zh_hans: 动画
+    zh_hant: 動畫
+    zh_hk: 動畫
+    zh_tw: 動畫
 ---
 # [[Animation]] 
 

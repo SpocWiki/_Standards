@@ -139,7 +139,7 @@ dv_has_:
     bbc: Tula (pormesa na sampulu dua)
     bcl: Libra (konstelasyon)
     be: Шалі
-    be-tarask: Шалі
+    be_tarask: Шалі
     bg: Везни
     bn: তুলা
     bo: རྒྱ་ཐུར་སྐར་ཚོམ་
@@ -155,8 +155,8 @@ dv_has_:
     diq: Terazi
     el: Ζυγός
     en: Libra
-    en-ca: Libra
-    en-gb: Libra
+    en_ca: Libra
+    en_gb: Libra
     eo: Pesilo
     es: Libra
     et: Kaalud
@@ -210,7 +210,7 @@ dv_has_:
     pcd: Bastchule
     pl: Gwiazdozbiór Wagi
     pt: Libra
-    pt-br: Libra
+    pt_br: Libra
     qu: Urquchillay
     rki: လစ်ဘရာ
     ro: Balanța

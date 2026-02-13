@@ -241,7 +241,7 @@ dv_has_:
     ba: Давид Гильберт
     bar: David Hilbert
     be: Давід Гільберт
-    be-tarask: Давід Гільбэрт
+    be_tarask: Давід Гільбэрт
     bg: Давид Хилберт
     bho: डेविड हिल्बर्ट
     bn: ডাভিড হিলবের্ট
@@ -326,7 +326,7 @@ dv_has_:
     pnb: ڈیوڈ ہلبرٹ
     ps: ډیوېډ هیلبرټ
     pt: David Hilbert
-    pt-br: David Hilbert
+    pt_br: David Hilbert
     ro: David Hilbert
     ru: Давид Гильберт
     rue: Давид Гилберт
@@ -360,8 +360,8 @@ dv_has_:
     yo: David Hilbert
     yue: 打域囂拔
     zh: 大卫·希尔伯特
-    zh-cn: 大卫·希尔伯特
-    zh-tw: 大衛·希爾伯特
+    zh_cn: 大卫·希尔伯特
+    zh_tw: 大衛·希爾伯特
 ---
 #has_/time_/started :: 1862-01-23 
 #has_/time_/stopped :: 1943-02-14

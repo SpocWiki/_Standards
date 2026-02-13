@@ -179,7 +179,7 @@ dv_has_:
     az: İstehsalat
     ba: Сәнәғәт етештереүе
     be: прамысловая вытворчасць
-    be-tarask: прамысловая вытворчасьць
+    be_tarask: прамысловая вытворчасьць
     bg: преработваща промишленост
     bn: উৎপাদন
     br: Michererezh
@@ -191,8 +191,8 @@ dv_has_:
     de: Herstellung von Waren
     el: παραγωγή
     en: industrial manufacturing
-    en-ca: manufacturing
-    en-gb: manufacturing
+    en_ca: manufacturing
+    en_gb: manufacturing
     eo: fabrikado
     es: producción y manufactura
     et: Töötlev tööstus
@@ -223,11 +223,11 @@ dv_has_:
     jv: Indhustri
     ka: დამმუშავებელი მრეწველობა
     kk: Өндіріс
-    kk-arab: ٴوندىرىس
+    kk_arab: ٴوندىرىس
     kk-cn: ٴوندىرىس
-    kk-cyrl: Өндіріс
+    kk_cyrl: Өндіріс
     kk-kz: Өндіріс
-    kk-latn: Öndiris
+    kk_latn: Öndiris
     kk-tr: Öndiris
     ko: 제조업
     ku: Pîşesazî
@@ -240,7 +240,7 @@ dv_has_:
     mk: производство
     mn: Үйлдвэрлэл Урлалын Политехникийн коллеж
     ms: pengilangan
-    ms-arab: ڤڠيلڠن
+    ms_arab: ڤڠيلڠن
     my: ထုတ်လုပ်မှု
     nan: Chè-chō-gia̍p
     nb: industriproduksjon
@@ -253,7 +253,7 @@ dv_has_:
     pl: przetwórstwo przemysłowe
     pnb: صنعت
     pt: manufatureira
-    pt-br: indústria manufatureira
+    pt_br: indústria manufatureira
     qu: Makiy
     rki: ထုတ်လုပ်မှု(Product)
     ro: activități de producție
@@ -272,7 +272,7 @@ dv_has_:
     tl: Pagmamanupaktura
     tr: imalat
     tt: җитештерү
-    tt-cyrl: җитештерү
+    tt_cyrl: җитештерү
     udm: ужпӧр
     uk: промислове виробництво
     ur: تصنیع
@@ -282,12 +282,12 @@ dv_has_:
     yi: פאבריקאציע
     yue: 製造業
     zh: 制造业
-    zh-cn: 制造业
-    zh-hans: 制造业
-    zh-hant: 製造業
-    zh-hk: 製造業
-    zh-sg: 制造业
-    zh-tw: 製造業
+    zh_cn: 制造业
+    zh_hans: 制造业
+    zh_hant: 製造業
+    zh_hk: 製造業
+    zh_sg: 制造业
+    zh_tw: 製造業
 ---
 # [[Manufacturing]] 
 

@@ -38,7 +38,7 @@ dv_has_:
     tr: Melody Maker
     uk: Melody Maker
     zh: 旋律作者
-    zh-hans: 旋律制造者
+    zh_hans: 旋律制造者
 ---
 # [[Melody_Maker]] 
 

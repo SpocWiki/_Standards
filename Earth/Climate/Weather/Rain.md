@@ -290,7 +290,7 @@ dv_has_:
     bbc: Udan
     bcl: Uran
     be: Дождж
-    be-tarask: дождж
+    be_tarask: дождж
     bew: Ujan
     bg: Дъжд
     bho: बरखा
@@ -383,7 +383,7 @@ dv_has_:
     koi: Зэр
     ks: بٲرِش
     ku: baran
-    ku-latn: baran
+    ku_latn: baran
     kus: Saa
     kv: Зэр
     kw: Glaw
@@ -413,7 +413,7 @@ dv_has_:
     mos: Saaga
     mr: पाऊस
     ms: hujan
-    ms-arab: هوجن
+    ms_arab: هوجن
     my: မိုး
     myv: Пиземе
     mzn: وارش
@@ -421,7 +421,7 @@ dv_has_:
     nan: Hō͘
     nb: regn
     nds: Regen
-    nds-nl: regen
+    nds_nl: regen
     ne: वर्षा
     new: वा (जलवायु)
     nl: regen
@@ -483,7 +483,7 @@ dv_has_:
     trv: Quyux
     ts: Mpfula
     tt: яңгыр
-    tt-cyrl: яңгыр
+    tt_cyrl: яңгыр
     tw: Nsuo tɔ
     tyv: Чаъс
     udm: зор
@@ -507,7 +507,7 @@ dv_has_:
     za: Fwn
     zgh: ⴰⵏⵥⴰⵕ
     zh: 雨
-    zh-hans: 雨
+    zh_hans: 雨
     zu: Imvula
 ---
 # [[Rain]] 🌧 

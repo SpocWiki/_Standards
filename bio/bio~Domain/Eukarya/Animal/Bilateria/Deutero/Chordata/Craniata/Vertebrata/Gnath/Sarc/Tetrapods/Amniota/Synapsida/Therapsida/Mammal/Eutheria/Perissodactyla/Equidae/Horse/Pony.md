@@ -57,7 +57,7 @@ dv_has_:
     ar: فرس قزم
     ast: poni
     az: Poni
-    be-tarask: поні
+    be_tarask: поні
     bg: Пони
     ca: poni
     cs: pony
@@ -86,11 +86,11 @@ dv_has_:
     ja: ポニー
     ka: პონი
     kk: Пони
-    kk-arab: پونىي
+    kk_arab: پونىي
     kk-cn: پونىي
-    kk-cyrl: Пони
+    kk_cyrl: Пони
     kk-kz: Пони
-    kk-latn: Ponï
+    kk_latn: Ponï
     kk-tr: Ponï
     kn: ತಟ್ಟು
     ko: 조랑말
@@ -104,7 +104,7 @@ dv_has_:
     nn: ponni
     pl: Kuc
     pt: pónei
-    pt-br: pônei
+    pt_br: pônei
     ro: Ponei
     ru: пони
     sco: Pownie
@@ -122,12 +122,12 @@ dv_has_:
     yi: פאני
     yue: 矮馬
     zh: 矮種馬
-    zh-cn: 果下马
-    zh-hans: 果下马
-    zh-hant: 矮種馬
-    zh-hk: 果下馬
-    zh-sg: 果下马
-    zh-tw: 矮種馬
+    zh_cn: 果下马
+    zh_hans: 果下马
+    zh_hant: 矮種馬
+    zh_hk: 果下馬
+    zh_sg: 果下马
+    zh_tw: 矮種馬
 ---
 # [[Pony]] 
 

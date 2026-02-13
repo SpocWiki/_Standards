@@ -190,7 +190,7 @@ dv_has_:
     ba: тел ғаиләһе
     bcl: pamilya nin tataramon
     be: генеалагічная класіфікацыя моў
-    be-tarask: моўная сям’я
+    be_tarask: моўная сям’я
     bg: езиково семейство
     bho: "\U000110A6\U000110B0\U0001108E\U000110B0\U00011086 \U000110A3\U000110A9\U000110B1\U000110AB\U000110B0\U000110A9"
     bn: ভাষা পরিবার
@@ -251,7 +251,7 @@ dv_has_:
     krj: familya kang manga pulong
     ks: لَسٲنؠ خاندان
     ku: malbata zimanî
-    ku-latn: malbata zimanî
+    ku_latn: malbata zimanî
     ky: тил бүлө
     la: familia linguistica
     lb: Sproochefamill
@@ -267,7 +267,7 @@ dv_has_:
     ml: ഭാഷാഗോത്രങ്ങൾ
     mr: भाषाकुळ
     ms: keluarga bahasa
-    ms-arab: کلوارݢ بهاس
+    ms_arab: کلوارݢ بهاس
     my: ဘာသာစကား မိသားစု
     mzn: زوون خانواده
     nan: gí-hē
@@ -287,7 +287,7 @@ dv_has_:
     pnb: بولی ٹبر
     ps: د ژبې کورنۍ
     pt: família linguística
-    pt-br: família linguística
+    pt_br: família linguística
     qu: rimaykunap ayllun
     rki: ဘာသာစကား မိသားစု
     rmy: chhibavipnaski familiya
@@ -310,7 +310,7 @@ dv_has_:
     sn: mhuri ye mutauro
     sq: familjet e gjuhëve
     sr: језичка породица
-    sr-ec: језичка породица
+    sr_ec: језичка породица
     stq: Sproakgruppe
     sv: språkfamilj
     ta: மொழிகளும், மொழிக் குடும்பங்களும்
@@ -323,8 +323,8 @@ dv_has_:
     tpi: famili bilong tokples
     tr: dil aileleri
     tt: тел гаиләсе
-    tt-cyrl: тел гаиләсе
-    tt-latn: tel ğäiläse
+    tt_cyrl: тел гаиләсе
+    tt_latn: tel ğäiläse
     udm: кылъёслэн семья
     uk: мовна сім’я
     ur: لسانی خاندان
@@ -341,14 +341,14 @@ dv_has_:
     za: vahhaeh
     zea: taelfemieljes
     zh: 语言系属分类
-    zh-cn: 语言系属分类
-    zh-hans: 语言系属分类
-    zh-hant: 語言系屬分類
-    zh-hk: 語言系屬分類
-    zh-mo: 語言系屬分類
+    zh_cn: 语言系属分类
+    zh_hans: 语言系属分类
+    zh_hant: 語言系屬分類
+    zh_hk: 語言系屬分類
+    zh_mo: 語言系屬分類
     zh-my: 语言系属分类
-    zh-sg: 语言系属分类
-    zh-tw: 語言系屬分類
+    zh_sg: 语言系属分类
+    zh_tw: 語言系屬分類
 ---
 # [[Language_Family]] 
 

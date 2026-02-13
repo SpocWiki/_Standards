@@ -65,17 +65,17 @@ dv_has_:
   name_:
     ar: مفارقة راسل
     ast: paradoxa de Russell
-    be-tarask: парадокс Расэла
+    be_tarask: парадокс Расэла
     bg: парадокс на Ръсел
     ca: paradoxa de Russell
     cs: Russellův paradox
     da: Russells paradoks
     de: Russellsche Antinomie
-    de-ch: Russellsche Antinomie
+    de_ch: Russellsche Antinomie
     el: Παράδοξο του Ράσελ
     en: Russell's paradox
-    en-ca: Russell's paradox
-    en-gb: Russell's paradox
+    en_ca: Russell's paradox
+    en_gb: Russell's paradox
     eo: paradokso de Russell
     es: paradoja de Russell
     et: Russelli paradoks
@@ -102,7 +102,7 @@ dv_has_:
     pl: antynomia Russella
     pms: Paradòss ëd Russell
     pt: paradoxo de Russell
-    pt-br: paradoxo de Russell
+    pt_br: paradoxo de Russell
     ro: paradoxul lui Russell
     ru: парадокс Рассела
     sh: Raselov paradoks

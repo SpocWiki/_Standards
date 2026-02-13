@@ -185,7 +185,7 @@ dv_has_:
     ban: Paadolan
     bar: Handl
     be: гандаль
-    be-tarask: гандаль
+    be_tarask: гандаль
     bew: Dagang
     bg: Търговия
     bho: लेन-देन
@@ -203,12 +203,12 @@ dv_has_:
     cy: masnach
     da: handel
     de: Handel
-    de-ch: Handel
+    de_ch: Handel
     dv: ވިޔަފާރި
     el: εμπόριο
     en: trade
-    en-ca: Trade
-    en-gb: trade
+    en_ca: Trade
+    en_gb: trade
     eo: komerco
     es: comercio
     et: kaubandus
@@ -269,7 +269,7 @@ dv_has_:
     nan: Siong-gia̍p
     nb: handel
     nds: Hannel
-    nds-nl: handel
+    nds_nl: handel
     ne: व्यापार
     new: न्यायेमिइ
     nl: handel
@@ -287,7 +287,7 @@ dv_has_:
     pms: Comersi
     pnb: تجارت
     pt: comércio
-    pt-br: comércio
+    pt_br: comércio
     qu: Makipura
     ro: comerț
     rsk: Тарґовина
@@ -305,8 +305,8 @@ dv_has_:
     so: Gadashada
     sq: Komerciale
     sr: трговина
-    sr-ec: трговина
-    sr-el: trgovina
+    sr_ec: трговина
+    sr_el: trgovina
     sv: handel
     ta: வணிகம்
     te: వాణిజ్యం
@@ -316,7 +316,7 @@ dv_has_:
     tl: Kalakalan
     tr: ticaret
     tt: сәүдә
-    tt-cyrl: сәүдә
+    tt_cyrl: сәүдә
     udm: вузкарон
     uk: торгівля
     ur: تجارت
@@ -335,8 +335,8 @@ dv_has_:
     yue: 貿易
     zgh: ⵜⴰⵙⴱⴱⴰⴱⵜ
     zh: 贸易
-    zh-hant: 貿易
-    zh-tw: 貿易
+    zh_hant: 貿易
+    zh_tw: 貿易
     zu: Uhwebo
 ---
 # [[Trade]]  

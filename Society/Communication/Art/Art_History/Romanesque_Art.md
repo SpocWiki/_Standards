@@ -96,7 +96,7 @@ dv_has_:
     ast: Arte románicu
     az: Roman üslubu
     be: раманскае мастацтва
-    be-tarask: раманскае мастацтва
+    be_tarask: раманскае мастацтва
     bg: Романика
     bho: रोमनेस्क कला
     bs: Romanika
@@ -105,11 +105,11 @@ dv_has_:
     cy: celf Romanésg
     da: romanik
     de: Romanik
-    de-ch: Romanik
+    de_ch: Romanik
     el: ρομανική τέχνη
     en: Romanesque art
-    en-ca: Romanesque art
-    en-gb: Romanesque art
+    en_ca: Romanesque art
+    en_gb: Romanesque art
     eo: Romaniko
     es: arte románico
     et: Romaani stiil
@@ -144,7 +144,7 @@ dv_has_:
     pms: Architetura romànica
     ps: رومانسک هنر
     pt: arte românica
-    pt-br: Arte românica
+    pt_br: Arte românica
     ro: arta romanică
     ru: романское искусство
     sh: romanika
@@ -164,14 +164,14 @@ dv_has_:
     wuu: 罗马式美术
     yue: 羅曼式
     zh: 羅馬式美術
-    zh-cn: 罗马式美术
-    zh-hans: 罗马式美术
-    zh-hant: 羅馬式美術
-    zh-hk: 羅馬式美術
-    zh-mo: 羅馬式美術
+    zh_cn: 罗马式美术
+    zh_hans: 罗马式美术
+    zh_hant: 羅馬式美術
+    zh_hk: 羅馬式美術
+    zh_mo: 羅馬式美術
     zh-my: 罗马式美术
-    zh-sg: 罗马式美术
-    zh-tw: 羅曼藝術
+    zh_sg: 罗马式美术
+    zh_tw: 羅曼藝術
 ---
 # [[Romanesque_Art]] 
 

@@ -65,7 +65,7 @@ dv_has_:
     ab: Ҭырқәтәыла
     ace: Tureuki
     ady: Тыркуе
-    aeb-arab: تركيا
+    aeb_arab: تركيا
     af: Turkye
     alt: Türkiye
     am: ቱርክ
@@ -96,7 +96,7 @@ dv_has_:
     bcl: Turkiya
     bdr: Türkiye
     be: Турцыя
-    be-tarask: Турэччына
+    be_tarask: Турэччына
     bew: Turki
     bg: Турция
     bgn: تورکیه
@@ -115,7 +115,7 @@ dv_has_:
     bug: Turki
     bxr: Турк
     ca: Turquia
-    cbk-zam: Turquía
+    cbk_zam: Turquía
     cdo: Tū-ī-gì
     ce: Туркойчоь
     ceb: Turkiya
@@ -126,7 +126,7 @@ dv_has_:
     co: Turchia
     cr: ᑐᕒᑭ
     crh: Türkiye
-    crh-latn: Türkiye
+    crh_latn: Türkiye
     crh-ro: Túrkiye
     cs: Turecko
     csb: Tëreckô
@@ -137,7 +137,7 @@ dv_has_:
     dag: Turkey
     de: Türkei
     de-at: Türkei
-    de-ch: Türkei
+    de_ch: Türkei
     dga: Türkiye
     din: Turkia
     diq: Tırkiya
@@ -150,8 +150,8 @@ dv_has_:
     el: Τουρκία
     eml: Turchî
     en: Turkey
-    en-ca: Turkey
-    en-gb: Turkey
+    en_ca: Turkey
+    en_gb: Turkey
     en-us: Turkey
     eo: Turkio
     es: Turquía
@@ -179,7 +179,7 @@ dv_has_:
     gn: Tuykia
     gom: तुर्की
     gom-deva: तुर्की
-    gom-latn: Turkey
+    gom_latn: Turkey
     gor: Turki
     got: "\U00010344\U00010345\U00010342\U0001033A\U0001033E\U00010330"
     gpe: Turkey
@@ -241,7 +241,7 @@ dv_has_:
     ks: تُرکی
     ksh: Türkei
     ku: Tirkiye
-    ku-latn: Tirkiye
+    ku_latn: Tirkiye
     kv: Турция
     kw: Turki
     ky: Түркия
@@ -266,7 +266,7 @@ dv_has_:
     lzh: 土耳其
     mad: Turki
     mai: टर्की
-    map-bms: Turki
+    map_bms: Turki
     mdf: Туркия
     mg: Torkia
     mhr: Турций
@@ -281,7 +281,7 @@ dv_has_:
     mr: तुर्कस्तान
     mrj: Турци
     ms: Turki
-    ms-arab: تورکي
+    ms_arab: تورکي
     mt: Turkija
     mwl: Turquie
     my: တူရကီနိုင်ငံ
@@ -293,7 +293,7 @@ dv_has_:
     nap: Turchia
     nb: Tyrkia
     nds: Törkie
-    nds-nl: Turkije
+    nds_nl: Turkije
     ne: तुर्की
     new: टर्की
     ng: Turkey
@@ -329,7 +329,7 @@ dv_has_:
     pnt: Τουρκία
     ps: تورکيه
     pt: Turquia
-    pt-br: Turquia
+    pt_br: Turquia
     qu: Turkiya
     rm: Tirchia
     rmy: Turkiya
@@ -365,8 +365,8 @@ dv_has_:
     so: Turki
     sq: Turqia
     sr: Турска
-    sr-ec: Турска
-    sr-el: Turska
+    sr_ec: Турска
+    sr_el: Turska
     srn: Turkiyakondre
     ss: IThekhi
     st: Türkiye
@@ -383,7 +383,7 @@ dv_has_:
     te: టర్కీ
     tet: Turkia
     tg: Туркия
-    tg-cyrl: Туркия
+    tg_cyrl: Туркия
     th: ประเทศตุรกี
     ti: ቱርኪ
     tig: ቱርኪየ
@@ -398,16 +398,16 @@ dv_has_:
     trv: Turkey
     ts: Turkey
     tt: Төркия
-    tt-cyrl: Төркия
-    tt-latn: Törkiä
+    tt_cyrl: Төркия
+    tt_latn: Törkiä
     tum: Turkey
     tw: Turkey
     ty: Turiti
     tyv: Турция
     udm: Турция
     ug: تۈركىيە جۇمھۇرىيىتى
-    ug-arab: تۈركىيە جۇمھۇرىيىتى
-    ug-latn: Türkiye
+    ug_arab: تۈركىيە جۇمھۇرىيىتى
+    ug_latn: Türkiye
     uk: Туреччина
     ur: ترکیہ
     uz: Turkiya
@@ -432,14 +432,14 @@ dv_has_:
     zea: Turkije
     zgh: ⵜⵓⵔⴽⵢⴰ
     zh: 土耳其
-    zh-cn: 土耳其
-    zh-hans: 土耳其
-    zh-hant: 土耳其
-    zh-hk: 土耳其
-    zh-mo: 土耳其
+    zh_cn: 土耳其
+    zh_hans: 土耳其
+    zh_hant: 土耳其
+    zh_hk: 土耳其
+    zh_mo: 土耳其
     zh-my: 土耳其
-    zh-sg: 土耳其
-    zh-tw: 土耳其
+    zh_sg: 土耳其
+    zh_tw: 土耳其
     zu: ITheki
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Turkey

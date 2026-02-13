@@ -81,7 +81,7 @@ dv_has_:
   name_:
     ar: أدوات المطبخ
     be: кухоннае начынне
-    be-tarask: кухеннае начыньне
+    be_tarask: кухеннае начыньне
     bg: домакински съд
     ca: estri de cuina
     cs: kuchyňské nádobí
@@ -110,7 +110,7 @@ dv_has_:
     mg: kojakoja an-dakozia
     mk: кујнски предмет
     ms: perkakas dapur
-    ms-arab: ڤرکاکس داڤور
+    ms_arab: ڤرکاکس داڤور
     nb: kjøkkenredskap
     ne: भाँडाकुँडा
     nl: keukengerei
@@ -118,7 +118,7 @@ dv_has_:
     pl: sprzęt kuchenny
     ps: د پخلنځي کارتوکي
     pt: utensílio de cozinha
-    pt-br: utensílio de cozinha
+    pt_br: utensílio de cozinha
     ro: tacâm
     ru: кухонная утварь
     sk: kuchynský riad

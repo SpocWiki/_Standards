@@ -157,7 +157,7 @@ dv_has_:
     azb: جیزه هرملری
     ba: Гиза пирамидалары
     be: Піраміды Гізы
-    be-tarask: Піраміды Гізы
+    be_tarask: Піраміды Гізы
     bg: Некропол в Гиза
     br: Nekropol Gizah
     bs: Piramide u Gizi
@@ -210,7 +210,7 @@ dv_has_:
     ml: ഗിസ നെക്രൊപൊളിസ്
     ms: Kompleks piramid Giza
     nb: Pyramidekomplekset ved Giza
-    nds-nl: Piramides van Giza
+    nds_nl: Piramides van Giza
     nl: Piramiden van Gizeh
     nn: Pyramidane ved Giza
     oc: Piramidas de Giza
@@ -247,8 +247,8 @@ dv_has_:
     xmf: გიზაშ ნეკროპოლისი
     yue: 吉薩金字塔群
     zh: 吉薩金字塔群
-    zh-cn: 吉萨金字塔群
-    zh-hant: 吉薩金字塔群
+    zh_cn: 吉萨金字塔群
+    zh_hant: 吉薩金字塔群
 ---
 # [[Giza_Pyramids]] 
 

@@ -156,7 +156,7 @@ dv_has_:
     az: Teodor Adorno
     azb: تئودور آدورنو
     be: Тэадор Адорна
-    be-tarask: Тэадор Адорна
+    be_tarask: Тэадор Адорна
     bg: Теодор Адорно
     bs: Theodor Adorno
     ca: Theodor Adorno
@@ -165,11 +165,11 @@ dv_has_:
     da: Theodor W. Adorno
     dag: Theodor W. Adorno
     de: Theodor W. Adorno
-    de-ch: Theodor W. Adorno
+    de_ch: Theodor W. Adorno
     el: Τέοντορ Αντόρνο
     en: Theodor W. Adorno
-    en-ca: Theodor W. Adorno
-    en-gb: Theodor W. Adorno
+    en_ca: Theodor W. Adorno
+    en_gb: Theodor W. Adorno
     eo: Theodor Wiesengrund Adorno
     es: Theodor Adorno
     et: Theodor Adorno
@@ -194,16 +194,16 @@ dv_has_:
     jbo: teodor.adornos
     ka: თეოდორ ადორნო
     kk: Адорно Теодор
-    kk-arab: ادورنو تەودور
+    kk_arab: ادورنو تەودور
     kk-cn: ادورنو تەودور
-    kk-cyrl: Адорно Теодор
+    kk_cyrl: Адорно Теодор
     kk-kz: Адорно Теодор
-    kk-latn: Adorno Teodor
+    kk_latn: Adorno Teodor
     kk-tr: Adorno Teodor
     ko: 테오도어 아도르노
     ku: Theodor Adorno
-    ku-arab: تهەۆدۆرئا دۆرنۆ
-    ku-latn: Theodor Adorno
+    ku_arab: تهەۆدۆرئا دۆرنۆ
+    ku_latn: Theodor Adorno
     ky: Адорно
     la: Theodorus Adorno
     lt: Theodor Adorno
@@ -224,7 +224,7 @@ dv_has_:
     pl: Theodor Adorno
     ps: تيودور ډبليو. اډورنو
     pt: Theodor W. Adorno
-    pt-br: Theodor W. Adorno
+    pt_br: Theodor W. Adorno
     ro: Theodor W. Adorno
     ru: Теодор Адорно
     sco: Theodor W. Adorno
@@ -233,8 +233,8 @@ dv_has_:
     sl: Theodor W. Adorno
     sq: Theodor W. Adorno
     sr: Теодор Адорно
-    sr-ec: Теодор Адорно
-    sr-el: Teodor Adorno
+    sr_ec: Теодор Адорно
+    sr_el: Teodor Adorno
     sv: Theodor Adorno
     tr: Theodor W. Adorno
     uk: Теодор Адорно
@@ -244,12 +244,12 @@ dv_has_:
     yo: Theodor Adorno
     yue: 狄奧多·阿多諾
     zh: 狄奧多·阿多諾
-    zh-cn: 狄奥多·阿多诺
+    zh_cn: 狄奥多·阿多诺
     zh-hans: 狄奥多·阿多诺
-    zh-hant: 狄奧多·阿多諾
-    zh-hk: 狄奧多·阿多諾
-    zh-sg: 狄奥多·阿多诺
-    zh-tw: 狄奧多·阿多諾
+    zh_hant: 狄奧多·阿多諾
+    zh_hk: 狄奧多·阿多諾
+    zh_sg: 狄奥多·阿多诺
+    zh_tw: 狄奧多·阿多諾
 ---
 # [[Theodor_W._Adorno]] 
 

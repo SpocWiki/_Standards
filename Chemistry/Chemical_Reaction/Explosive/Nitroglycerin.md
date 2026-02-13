@@ -219,11 +219,11 @@ dv_has_:
     ja: ニトログリセリン
     ka: ნიტროგლიცერინი
     kk: нитроглицерин
-    kk-arab: نىيتروگلىيتسەرىين
+    kk_arab: نىيتروگلىيتسەرىين
     kk-cn: نىيتروگلىيتسەرىين
-    kk-cyrl: нитроглицерин
+    kk_cyrl: нитроглицерин
     kk-kz: нитроглицерин
-    kk-latn: nïtroglïcerïn
+    kk_latn: nïtroglïcerïn
     kk-tr: nïtroglïcerïn
     km: នីត្រូគ្លីសេរីន
     ko: 나이트로글리세린
@@ -250,8 +250,8 @@ dv_has_:
     sl: gliceriltrinitrat
     sq: nitroglicerina
     sr: нитроглицерин
-    sr-ec: нитроглицерин
-    sr-el: nitroglicerin
+    sr_ec: нитроглицерин
+    sr_el: nitroglicerin
     sv: nitroglycerin
     th: ไนโตรกลีเซอรีน
     tr: gliseril trinitrat
@@ -263,12 +263,12 @@ dv_has_:
     wuu: 硝酸甘油
     yue: 硝化甘油
     zh: 硝酸甘油
-    zh-cn: 硝酸甘油
-    zh-hans: 硝酸甘油
-    zh-hant: 硝酸甘油
-    zh-hk: 硝化甘油
-    zh-sg: 硝酸甘油
-    zh-tw: 硝化甘油
+    zh_cn: 硝酸甘油
+    zh_hans: 硝酸甘油
+    zh_hant: 硝酸甘油
+    zh_hk: 硝化甘油
+    zh_sg: 硝酸甘油
+    zh_tw: 硝化甘油
 ---
 # [[Nitroglycerin]] 
 

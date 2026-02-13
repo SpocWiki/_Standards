@@ -93,7 +93,7 @@ dv_has_:
     ast: Contrabandu
     az: Qaçaqmalçılıq
     be: кантрабанда
-    be-tarask: кантрабанда
+    be_tarask: кантрабанда
     bg: Контрабанда
     bn: চোরাচালান
     bs: Krijumčaranje
@@ -127,16 +127,16 @@ dv_has_:
     it: contrabbando
     ja: 密輸
     kk: Контрабанда
-    kk-arab: كونتراباندا
+    kk_arab: كونتراباندا
     kk-cn: كونتراباندا
-    kk-cyrl: Контрабанда
+    kk_cyrl: Контрабанда
     kk-kz: Контрабанда
-    kk-latn: Kontrabanda
+    kk_latn: Kontrabanda
     kk-tr: Kontrabanda
     kn: ಕಳ್ಳ ಸಾಗಣೆ
     ko: 밀수
     ku: kolberî
-    ku-latn: kolberî
+    ku_latn: kolberî
     ky: Контрабанда
     lmo: Sfros
     lt: kontrabanda
@@ -161,8 +161,8 @@ dv_has_:
     sl: tihotapljenje
     sq: Kontrabanda (vepër penale)
     sr: кријумчарење
-    sr-ec: кријумчарење
-    sr-el: Krijumčarenje
+    sr_ec: кријумчарење
+    sr_el: Krijumčarenje
     sv: smuggling
     sw: Magendo
     te: అక్రమ రవాణా
@@ -175,12 +175,12 @@ dv_has_:
     wuu: 走私
     yue: 走私
     zh: 走私
-    zh-cn: 走私
-    zh-hans: 走私
-    zh-hant: 走私
-    zh-hk: 走私
-    zh-sg: 走私
-    zh-tw: 走私
+    zh_cn: 走私
+    zh_hans: 走私
+    zh_hant: 走私
+    zh_hk: 走私
+    zh_sg: 走私
+    zh_tw: 走私
 ---
 # [[Smuggling]] 
 

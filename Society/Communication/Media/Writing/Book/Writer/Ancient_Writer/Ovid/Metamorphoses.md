@@ -188,7 +188,7 @@ dv_has_:
     ast: Les metamorfosis
     az: Metamorfoza
     be: Метамарфозы (Авідзій)
-    be-tarask: Мэтамарфозы
+    be_tarask: Мэтамарфозы
     bg: Метаморфози
     bn: মেতামোরফোসেস
     bo: ༄༅།། གཟུགས་འགྱུར་བའི་གཏམ་རྒྱུད།
@@ -198,11 +198,11 @@ dv_has_:
     cs: Proměny
     da: Metamorphoses
     de: Metamorphosen
-    de-ch: Metamorphosen
+    de_ch: Metamorphosen
     el: Μεταμορφώσεις
     en: Metamorphoses
-    en-ca: Metamorphoses
-    en-gb: Metamorphoses
+    en_ca: Metamorphoses
+    en_gb: Metamorphoses
     eo: Metamorfozoj
     es: Las metamorfosis
     et: Metamorfoosid
@@ -237,15 +237,15 @@ dv_has_:
     pa: ਮੈਟਾਮੌਰਫਸਿਸ
     pl: Metamorfozy
     pt: Metamorfoses
-    pt-br: Metamorfoses
+    pt_br: Metamorfoses
     ro: Metamorfoze
     ru: Метаморфозы
     sh: Metamorfoze
     sl: Metamorfoze
     sq: Metamorfozat
     sr: Овидијеве Метаморфозе
-    sr-ec: Овидијеве Метаморфозе
-    sr-el: Ovidijeve Metamorfoze
+    sr_ec: Овидијеве Метаморфозе
+    sr_el: Ovidijeve Metamorfoze
     sv: Metamorfoser
     th: เมทามอร์โฟซีส
     tr: Metamorfozlar
@@ -256,12 +256,12 @@ dv_has_:
     wuu: 变形记 (奥维德)
     yue: 變形記
     zh: 变形记
-    zh-cn: 变形记
-    zh-hans: 变形记
-    zh-hant: 變形記
-    zh-hk: 變形記
-    zh-sg: 变形记
-    zh-tw: 變形記
+    zh_cn: 变形记
+    zh_hans: 变形记
+    zh_hant: 變形記
+    zh_hk: 變形記
+    zh_sg: 变形记
+    zh_tw: 變形記
 ---
 # [[Metamorphoses]] 
 

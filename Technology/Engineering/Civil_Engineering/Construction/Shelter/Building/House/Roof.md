@@ -156,7 +156,7 @@ dv_has_:
     ban: raab
     bcl: atop
     be: дах
-    be-tarask: дах
+    be_tarask: дах
     bg: покрив
     bn: ছাদ
     br: toenn
@@ -168,13 +168,13 @@ dv_has_:
     cy: to
     da: tag
     de: Dach
-    de-ch: Dach
+    de_ch: Dach
     dz: ཁྱིམ་ཐོག་
     el: στέγη
     eml: tèǵ
     en: roof
-    en-ca: roof
-    en-gb: roof
+    en_ca: roof
+    en_gb: roof
     en-us: roof
     eo: tegmento
     es: cubierta
@@ -216,7 +216,7 @@ dv_has_:
     mi: tuanui
     mk: покрив
     ms: bumbung
-    ms-arab: بومبوڠ
+    ms_arab: بومبوڠ
     my: အမိုး
     mzn: بومسر
     nan: chhù-téng
@@ -238,7 +238,7 @@ dv_has_:
     pl: dach
     pnb: چھت
     pt: telhado
-    pt-br: telhado
+    pt_br: telhado
     qu: wasi qata
     ro: acoperiș
     ru: крыша
@@ -259,8 +259,8 @@ dv_has_:
     sn: denga
     sq: çati
     sr: кров
-    sr-ec: кров
-    sr-el: krov
+    sr_ec: кров
+    sr_el: krov
     su: hateup
     sv: yttertak
     sw: paa
@@ -272,8 +272,8 @@ dv_has_:
     tl: bubong
     tr: çatı
     tt: түбә
-    tt-cyrl: түбә
-    tt-latn: tübä
+    tt_cyrl: түбә
+    tt_latn: tübä
     uk: дах
     uz: tom
     vi: mái nhà
@@ -283,9 +283,9 @@ dv_has_:
     yo: òrùlé
     yue: 屋頂
     zh: 屋顶
-    zh-hans: 屋顶
-    zh-hant: 屋頂
-    zh-tw: 屋頂
+    zh_hans: 屋顶
+    zh_hant: 屋頂
+    zh_tw: 屋頂
 ---
 # [[Roof]] 
 

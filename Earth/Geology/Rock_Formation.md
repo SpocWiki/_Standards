@@ -82,7 +82,7 @@ dv_has_:
   name_:
     ar: تكوين جيولوجي
     ast: formación xeolóxica
-    be-tarask: геалягічная фармацыя
+    be_tarask: геалягічная фармацыя
     ca: formació geològica
     cs: souvrství
     da: formation
@@ -124,8 +124,8 @@ dv_has_:
     sk: Súvrstvie
     sl: formacija
     sr: геолошка формација
-    sr-ec: геолошка формација
-    sr-el: geološka formacija
+    sr_ec: геолошка формација
+    sr_el: geološka formacija
     sv: formation
     tl: Pagkakabuo
     tr: Jeolojik yapı
@@ -133,9 +133,9 @@ dv_has_:
     vi: thành hệ địa chất
     yue: 地質組
     zh: 组
-    zh-hans: 组
-    zh-hant: 組
-    zh-hk: 組
+    zh_hans: 组
+    zh_hant: 組
+    zh_hk: 組
 ---
 # [[Rock_Formation]] 
 

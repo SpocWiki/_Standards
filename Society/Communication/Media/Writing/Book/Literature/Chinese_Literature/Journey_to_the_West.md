@@ -176,7 +176,7 @@ dv_has_:
     az: Qərbə Səyahət
     ba: Көнбайышҡа сәйәхәт
     be: Падарожжа на Захад
-    be-tarask: Падарожжа на Захад
+    be_tarask: Падарожжа на Захад
     bn: জার্নি টু দ্য ওয়েস্ট
     bo: ༼ནུབ་ཕྱོགས་སུ་བསྐྱོད་པའི་རྣམ་ཐར།༽
     ca: Viatge a l'Oest
@@ -185,11 +185,11 @@ dv_has_:
     cs: Putování na západ
     da: Rejsen mod Vest
     de: Die Reise nach Westen
-    de-ch: Die Reise nach Westen
+    de_ch: Die Reise nach Westen
     el: Ταξίδι προς την Δύση
     en: Journey to the West
-    en-ca: Journey to the West
-    en-gb: Journey to the West
+    en_ca: Journey to the West
+    en_gb: Journey to the West
     eo: Pilgrimado al la Okcidento
     es: Viaje al Oeste
     eu: Mendebaldera Bidaia
@@ -227,7 +227,7 @@ dv_has_:
     pl: Wędrówka na Zachód
     pnb: لہندے دی یاترا
     pt: Jornada ao Oeste
-    pt-br: Jornada ao Oeste
+    pt_br: Jornada ao Oeste
     ro: Călătorie spre Vest
     ru: Путешествие на Запад
     sk: Si jou ťi
@@ -247,14 +247,14 @@ dv_has_:
     yue: 西遊記
     za: Saeyouzgeiq
     zh: 西遊記
-    zh-cn: 西游记
-    zh-hans: 西游记
-    zh-hant: 西遊記
-    zh-hk: 西遊記
-    zh-mo: 西遊記
+    zh_cn: 西游记
+    zh_hans: 西游记
+    zh_hant: 西遊記
+    zh_hk: 西遊記
+    zh_mo: 西遊記
     zh-my: 西游记
-    zh-sg: 西游记
-    zh-tw: 西遊記
+    zh_sg: 西游记
+    zh_tw: 西遊記
 ---
 # [[Journey_to_the_West]]
 

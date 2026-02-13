@@ -118,7 +118,7 @@ dv_has_:
     az: Dyun
     bar: Düne
     be: дзюна
-    be-tarask: выдма
+    be_tarask: выдма
     bg: Дюна
     br: tevenn
     bs: Dina
@@ -131,7 +131,7 @@ dv_has_:
     de: Düne
     el: αμμόλοφος
     en: dune
-    en-gb: dune
+    en_gb: dune
     en-us: dune
     eo: duno
     es: duna

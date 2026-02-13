@@ -110,7 +110,7 @@ dv_has_:
     az: Təkbuynuz
     ba: Һыңармөгөҙ
     be: Аднарог
-    be-tarask: Аднарог
+    be_tarask: Аднарог
     bg: Еднорог
     bn: একশৃঙ্গী মণ্ডল
     br: Unkorneg
@@ -178,8 +178,8 @@ dv_has_:
     sk: Jednorožec
     sl: Samorog
     sr: Једнорог
-    sr-ec: Једнорог
-    sr-el: Jednorog
+    sr_ec: Једнорог
+    sr_el: Jednorog
     sv: Enhörningen
     sw: Munukero
     th: กลุ่มดาวยูนิคอร์น

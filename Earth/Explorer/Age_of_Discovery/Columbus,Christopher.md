@@ -273,7 +273,7 @@ dv_has_:
     bar: Christoph Kolumbus
     bcl: Christopher Columbus
     be: Хрыстафор Калумб
-    be-tarask: Хрыстафор Калюмб
+    be_tarask: Хрыстафор Калюмб
     bg: Христофор Колумб
     bho: क्रिस्टोफर कोलंबस
     bn: ক্রিস্টোফার কলম্বাস
@@ -299,8 +299,8 @@ dv_has_:
     ee: Christofer Columbus
     el: Χριστόφορος Κολόμβος
     en: Christopher Columbus
-    en-ca: Christopher Columbus
-    en-gb: Christopher Columbus
+    en_ca: Christopher Columbus
+    en_gb: Christopher Columbus
     eo: Kristoforo Kolumbo
     es: Cristóbal Colón
     et: Christoph Kolumbus
@@ -369,7 +369,7 @@ dv_has_:
     lzh: 哥倫布
     mad: Kristofer Kolumbus
     mai: क्रिस्टोफर कोलम्बस
-    map-bms: Kristoforus Kolumbus
+    map_bms: Kristoforus Kolumbus
     mg: Christophe Colomb
     min: Christopher Columbus
     mk: Кристофер Колумбо
@@ -387,7 +387,7 @@ dv_has_:
     nan: Christophorus Columbus
     nb: Christofer Columbus
     nds: Christoph Kolumbus
-    nds-nl: Christoffel Columbus
+    nds_nl: Christoffel Columbus
     ne: क्रिस्टोफर कोलम्बस
     new: क्रिस्टोफर कोलम्बस
     nl: Christoffel Columbus
@@ -409,7 +409,7 @@ dv_has_:
     pnb: کولمبس
     ps: کریستوفر کولومبس
     pt: Cristóvão Colombo
-    pt-br: Cristóvão Colombo
+    pt_br: Cristóvão Colombo
     qu: Cristobal Colon
     rki: ခရစ္စတိုဖာ ကိုလံဘတ်စ်
     rm: Christof Columbus
@@ -471,8 +471,8 @@ dv_has_:
     zea: Christoffel Columbus
     zgh: ⴽⵔⵉⵙⵜⵓⴼⵔ ⴽⵓⵍⵓⵎⴱⵓⵙ
     zh: 克里斯托弗·哥伦布
-    zh-cn: 克里斯托弗·哥伦布
-    zh-hk: 基斯杜化·哥倫布
+    zh_cn: 克里斯托弗·哥伦布
+    zh_hk: 基斯杜化·哥倫布
 ---
 # [[Columbus,Christopher]] 
 

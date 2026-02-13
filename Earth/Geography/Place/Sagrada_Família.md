@@ -152,7 +152,7 @@ dv_has_:
     az: Müqəddəs Ailə kilsəsi
     ban: Sagrada Família
     be: Саграда Фамілія
-    be-tarask: Саграда Фамілья
+    be_tarask: Саграда Фамілья
     bg: Саграда Фамилия
     bn: সাগ্রাডা ফামিলিয়া
     bpy: সাগ্রাডা ফামিলিয়া
@@ -166,11 +166,11 @@ dv_has_:
     cy: Sagrada Família
     da: Sagrada Família
     de: Sagrada Família
-    de-ch: Sagrada Família
+    de_ch: Sagrada Família
     el: Σαγράδα Φαμίλια
     en: Basilica and Expiatory Church of the Holy Family
-    en-ca: Sagrada Família
-    en-gb: Sagrada Família
+    en_ca: Sagrada Família
+    en_gb: Sagrada Família
     eo: Templo Sankta Familio
     es: Templo Expiatorio de la Sagrada Familia
     et: Sagrada Família
@@ -199,7 +199,7 @@ dv_has_:
     kbp: Sagrada Família
     ko: 사그라다 파밀리아
     ku: Sagrada Família
-    ku-latn: Sagrada Família
+    ku_latn: Sagrada Família
     la: Basilica Sanctae Familiae
     lb: Sagrada Familia
     li: Kèrk vaan de Heilege Femilie (Barcelona)
@@ -221,7 +221,7 @@ dv_has_:
     pl: Sagrada Família
     pnb: ساگرادا فیمیلیا
     pt: Templo Expiatório da Sagrada Família
-    pt-br: Templo Expiatório da Sagrada Família
+    pt_br: Templo Expiatório da Sagrada Família
     ro: Sagrada Família
     ru: Храм Святого Семейства
     sh: Sagrada familija

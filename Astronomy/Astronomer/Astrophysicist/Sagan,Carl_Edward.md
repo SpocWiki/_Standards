@@ -212,7 +212,7 @@ dv_has_:
     bar: Carl Sagan
     bcl: Carl Sagan
     be: Карл Саган
-    be-tarask: Карл Саган
+    be_tarask: Карл Саган
     bew: Carl Sagan
     bg: Карл Сейгън
     bn: কার্ল সেগান
@@ -226,11 +226,11 @@ dv_has_:
     dag: Carl Sagan
     de: Carl Sagan
     de-at: Carl Sagan
-    de-ch: Carl Sagan
+    de_ch: Carl Sagan
     el: Καρλ Σαγκάν
     en: Carl Sagan
-    en-ca: Carl Sagan
-    en-gb: Carl Sagan
+    en_ca: Carl Sagan
+    en_gb: Carl Sagan
     eo: Carl Sagan
     es: Carl Sagan
     et: Carl Sagan
@@ -275,7 +275,7 @@ dv_has_:
     nan: Carl Sagan
     nb: Carl Sagan
     nds: Carl Sagan
-    nds-nl: Carl Sagan
+    nds_nl: Carl Sagan
     ne: कार्ल सगन
     nl: Carl Sagan
     nn: Carl Sagan
@@ -289,7 +289,7 @@ dv_has_:
     pnb: کارل ایڈورڈ سیگن
     ps: کارل سيګن
     pt: Carl Sagan
-    pt-br: Carl Sagan
+    pt_br: Carl Sagan
     qu: Carl Sagan
     ro: Carl Sagan
     ru: Карл Эдвард Саган
@@ -321,10 +321,10 @@ dv_has_:
     xmf: კარლ სეიგანი
     yue: 卡爾薩根
     zh: 卡尔·萨根
-    zh-cn: 卡尔·萨根
-    zh-hans: 卡尔·萨根
-    zh-hant: 卡爾·薩根
-    zh-hk: 卡爾·薩根
+    zh_cn: 卡尔·萨根
+    zh_hans: 卡尔·萨根
+    zh_hant: 卡爾·薩根
+    zh_hk: 卡爾·薩根
 ---
 # [[Sagan,Carl_Edward]] 
 

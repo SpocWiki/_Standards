@@ -316,7 +316,7 @@ Dewey_Decimal_Classification: 439.7
 dv_has_:
   name_:
     ab: Ашвед бызшәа
-    aeb-arab: السويدي
+    aeb_arab: السويدي
     af: Sweeds
     am: ስዊድንኛ
     an: Idioma sueco
@@ -334,7 +334,7 @@ dv_has_:
     ban: Basa Swédia
     bar: Schwedisch
     be: шведская мова
-    be-tarask: швэдзкая мова
+    be_tarask: швэдзкая мова
     bg: шведски език
     bn: সুইডীয় ভাষা
     br: svedeg
@@ -348,14 +348,14 @@ dv_has_:
     ckb: زمانی سوێدی
     co: Lingua svedese
     crh: İsveç tili
-    crh-latn: İsveç tili
+    crh_latn: İsveç tili
     cs: švédština
     cu: Свєньскъ ѩꙁꙑкъ
     cv: Швед чĕлхи
     cy: Swedeg
     da: svensk
     de: Schwedisch
-    de-ch: Schwedisch
+    de_ch: Schwedisch
     diq: Swêdki
     dsb: Šwedšćina
     dtp: boros Sweden
@@ -364,8 +364,8 @@ dv_has_:
     el: Σουηδικά
     eml: Śvedéś
     en: Swedish
-    en-ca: Swedish
-    en-gb: Swedish
+    en_ca: Swedish
+    en_gb: Swedish
     eo: sveda lingvo
     es: sueco
     et: rootsi keel
@@ -423,7 +423,7 @@ dv_has_:
     ko: 스웨덴어
     ko-kp: 스웨리예어
     ku: zimanê swêdî
-    ku-latn: zimanê swêdî
+    ku_latn: zimanê swêdî
     kv: Швед кыв
     kw: Swedek
     ky: швед тили
@@ -450,7 +450,7 @@ dv_has_:
     mni: ꯁ꯭ꯋꯦꯗꯤꯁ ꯂꯣꯟ
     mr: स्वीडिश भाषा
     ms: bahasa Sweden
-    ms-arab: بهاس سويدن
+    ms_arab: بهاس سويدن
     mt: Żvediż
     myv: Шведэнь кель
     mzn: سوئدی
@@ -458,7 +458,7 @@ dv_has_:
     nan: Sverige-gí
     nb: svensk
     nds: Sweedsch
-    nds-nl: Zweeds
+    nds_nl: Zweeds
     ne: स्वीडेनी भाषा
     new: स्वीडिश भाषा
     nl: Zweeds
@@ -477,7 +477,7 @@ dv_has_:
     pnb: سویڈن
     ps: سویډني ژبه
     pt: língua sueca
-    pt-br: língua sueca
+    pt_br: língua sueca
     qu: Suwiri simi
     rm: Lingua svedaisa
     rmf: sveittiko tšimb
@@ -502,7 +502,7 @@ dv_has_:
     so: Af-Iswiidhan
     sq: suedisht
     sr: шведски
-    sr-ec: шведски
+    sr_ec: шведски
     stq: Swedisk
     su: Basa Swédia
     sv: svenska
@@ -518,7 +518,7 @@ dv_has_:
     tpi: Tok Swidan
     tr: İsveççe
     tt: швед теле
-    tt-cyrl: швед теле
+    tt_cyrl: швед теле
     udm: Швед кыл
     ug: شۋېتسىيە تىلى
     uk: шведська мова
@@ -539,10 +539,10 @@ dv_has_:
     yue: 瑞典文
     zea: Zweeds
     zh: 瑞典語
-    zh-cn: 瑞典语
-    zh-hans: 瑞典语
-    zh-hant: 瑞典語
-    zh-tw: 瑞典語
+    zh_cn: 瑞典语
+    zh_hans: 瑞典语
+    zh_hant: 瑞典語
+    zh_tw: 瑞典語
     zu: IsiSwidishi
 ---
 # [[Lang-swe]]

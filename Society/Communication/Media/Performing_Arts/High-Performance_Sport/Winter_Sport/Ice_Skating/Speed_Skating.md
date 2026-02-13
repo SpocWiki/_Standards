@@ -85,7 +85,7 @@ dv_has_:
     ast: patinaxe de velocidá sobre xelu
     ba: Конькиҙа йүгереү спорты
     be: канькабежны спорт
-    be-tarask: канькабежны спорт
+    be_tarask: канькабежны спорт
     bg: Бързо пързаляне с кънки
     br: ruzikat tizh
     bs: Brzo klizanje
@@ -94,11 +94,11 @@ dv_has_:
     cy: sglefrio cyflymder
     da: hurtigløb på skøjter
     de: Eisschnelllauf
-    de-ch: Eisschnelllauf
+    de_ch: Eisschnelllauf
     el: Παγοδρομία ταχύτητας
     en: speed skating
-    en-ca: Speed skating
-    en-gb: speed skating
+    en_ca: Speed skating
+    en_gb: speed skating
     en-us: speed skating
     eo: rapid-sketado
     es: patinaje de velocidad
@@ -134,7 +134,7 @@ dv_has_:
     oc: Patinatge de velocitat
     pl: łyżwiarstwo szybkie
     pt: patinação de velocidade no gelo
-    pt-br: Patinação de velocidade no gelo
+    pt_br: Patinação de velocidade no gelo
     ro: Patinaj viteză
     ru: конькобежный спорт
     sco: speed skatin
@@ -142,8 +142,8 @@ dv_has_:
     sl: hitrostno drsanje
     smn: huáppuluistám
     sr: брзо клизање
-    sr-ec: брзо клизање
-    sr-el: brzo klizanje
+    sr_ec: брзо клизање
+    sr_el: brzo klizanje
     sv: hastighetsåkning på skridskor
     ta: பனிச்சறுக்கு விரைவோட்டம்
     tly: Konki rome
@@ -154,12 +154,12 @@ dv_has_:
     wuu: 速度滑冰
     yue: 速度溜冰
     zh: 競速滑冰
-    zh-cn: 速度滑冰
-    zh-hans: 速度滑冰
-    zh-hant: 競速滑冰
-    zh-hk: 競速滑冰
-    zh-sg: 速度滑冰
-    zh-tw: 競速滑冰
+    zh_cn: 速度滑冰
+    zh_hans: 速度滑冰
+    zh_hant: 競速滑冰
+    zh_hk: 競速滑冰
+    zh_sg: 速度滑冰
+    zh_tw: 競速滑冰
 ---
 # [[Speed_Skating]] 
 

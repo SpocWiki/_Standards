@@ -66,7 +66,7 @@ dv_has_:
     az: Astraçiçəklilər
     bar: Asterales
     be: астракветныя
-    be-tarask: Астракветныя
+    be_tarask: Астракветныя
     bg: астроцветни
     br: Asterales
     bs: Asterales
@@ -77,11 +77,11 @@ dv_has_:
     cy: Asterales
     da: Kurvblomstordenen
     de: Asternartige
-    de-ch: Asterales
+    de_ch: Asterales
     el: Αστερώδη
     en: Asterales
-    en-ca: Asterales
-    en-gb: Asterales
+    en_ca: Asterales
+    en_gb: Asterales
     eo: Asteraloj
     es: Asterales
     et: Astrilaadsed
@@ -128,7 +128,7 @@ dv_has_:
     nap: Asterales
     nb: Asterales
     nds: Asterales
-    nds-nl: Asterales
+    nds_nl: Asterales
     nl: Asterales
     nn: korgplanteordenen
     nrm: Asterales
@@ -140,7 +140,7 @@ dv_has_:
     pnb: تاریورگے
     ps: تريز ډوله بوټي
     pt: Asterales
-    pt-br: Asterales
+    pt_br: Asterales
     rm: Asterales
     ro: Asterales
     ru: астроцветные
@@ -171,10 +171,10 @@ dv_has_:
     wuu: 菊目
     yue: 菊目
     zh: 菊目
-    zh-cn: 菊目
-    zh-hans: 菊目
-    zh-hant: 菊目
-    zh-tw: 菊目
+    zh_cn: 菊目
+    zh_hans: 菊目
+    zh_hant: 菊目
+    zh_tw: 菊目
     zu: Asterales
 ---
 # [[Asterales]] 

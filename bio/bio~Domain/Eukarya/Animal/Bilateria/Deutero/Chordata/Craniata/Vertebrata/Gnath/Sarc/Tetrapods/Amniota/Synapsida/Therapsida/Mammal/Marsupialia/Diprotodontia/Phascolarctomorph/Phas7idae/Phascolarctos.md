@@ -37,7 +37,7 @@ dv_has_:
     oc: Phascolarctos
     pl: Koala
     pt: Phascolarctos
-    pt-br: Phascolarctos
+    pt_br: Phascolarctos
     ro: Phascolarctos
     ru: Коалы
     sq: Phascolarctos
@@ -50,14 +50,14 @@ dv_has_:
     war: Phascolarctos
     yue: 樹熊屬
     zh: 树袋熊属
-    zh-cn: 树袋熊属
-    zh-hans: 树袋熊属
-    zh-hant: 樹袋熊屬
-    zh-hk: 樹熊屬
-    zh-mo: 樹熊屬
+    zh_cn: 树袋熊属
+    zh_hans: 树袋熊属
+    zh_hant: 樹袋熊屬
+    zh_hk: 樹熊屬
+    zh_mo: 樹熊屬
     zh-my: 无尾熊属
-    zh-sg: 无尾熊属
-    zh-tw: 無尾熊屬
+    zh_sg: 无尾熊属
+    zh_tw: 無尾熊屬
 aliases:
 - Koala
 - Koalol (Phascolarctos)

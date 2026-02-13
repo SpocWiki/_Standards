@@ -206,7 +206,7 @@ dv_has_:
     azb: ویلیام هرشل
     bar: Wilhelm Herschel
     be: Уільям Гершэль
-    be-tarask: Ўільям Гэршэль
+    be_tarask: Ўільям Гэршэль
     bg: Уилям Хершел
     bn: উইলিয়াম হার্শেল
     br: William Herschel
@@ -222,7 +222,7 @@ dv_has_:
     diq: Wilhelm Herschel
     el: Ουίλιαμ Χέρσελ
     en: William Herschel
-    en-gb: William Herschel
+    en_gb: William Herschel
     eo: William Herschel
     es: William Herschel
     et: William Herschel
@@ -280,7 +280,7 @@ dv_has_:
     pnb: ولیم ہرشل
     ps: ویلیام هرشل
     pt: William Herschel
-    pt-br: William Herschel
+    pt_br: William Herschel
     ro: William Herschel
     ru: Уильям Гершель
     scn: William Herschel
@@ -290,7 +290,7 @@ dv_has_:
     sl: William Herschel
     sq: A. William Herschel
     sr: Вилхелм Хершел
-    sr-ec: Вилхелм Хершел
+    sr_ec: Вилхелм Хершел
     sv: William Herschel
     sw: William Herschel
     ta: வில்லியம் ஹேர்ச்செல்

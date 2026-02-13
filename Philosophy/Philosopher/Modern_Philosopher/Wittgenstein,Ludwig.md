@@ -184,7 +184,7 @@ dv_has_:
     ba: Людвиг Витгенштейн
     bar: Ludwig Wittgenstein
     be: Людвіг Вітгенштэйн
-    be-tarask: Людвіг Вітгенштайн
+    be_tarask: Людвіг Вітгенштайн
     bg: Лудвиг Витгенщайн
     bn: লুডভিগ ভিটগেনস্টাইন
     bo: ལུད་ཝིག་ཝིཏ་གེན་སི་ཏེ་ཡིན།
@@ -201,11 +201,11 @@ dv_has_:
     cy: Ludwig Wittgenstein
     da: Ludwig Wittgenstein
     de: Ludwig Wittgenstein
-    de-ch: Ludwig Wittgenstein
+    de_ch: Ludwig Wittgenstein
     el: Λούντβιχ Βίτγκενσταϊν
     en: Ludwig Wittgenstein
-    en-ca: Ludwig Wittgenstein
-    en-gb: Ludwig Wittgenstein
+    en_ca: Ludwig Wittgenstein
+    en_gb: Ludwig Wittgenstein
     en-us: Ludwig Wittgenstein
     eo: Ludwig Wittgenstein
     es: Ludwig Wittgenstein
@@ -273,7 +273,7 @@ dv_has_:
     pnb: لڈوگ وٹگنشٹائن
     ps: لوډویګ ویټګنشټاین
     pt: Ludwig Wittgenstein
-    pt-br: Ludwig Wittgenstein
+    pt_br: Ludwig Wittgenstein
     rmf: Ludwig Wittgenstein
     ro: Ludwig Wittgenstein
     ru: Людвиг Витгенштейн
@@ -316,7 +316,7 @@ dv_has_:
     yo: Ludwig Wittgenstein
     yue: 維根斯坦
     zh: 路德维希·维特根斯坦
-    zh-cn: 路德维希·维特根斯坦
+    zh_cn: 路德维希·维特根斯坦
     zh-hans: 路德维希·维特根斯坦
 ---
 # [[Wittgenstein,Ludwig]] 

@@ -143,7 +143,7 @@ dv_has_:
     bar: Reich
     bcl: Kahadean (biyolohiya)
     be: царства
-    be-tarask: царства
+    be_tarask: царства
     bew: Kerajaan (èlmu hayat)
     bg: царство
     bho: जगत
@@ -159,11 +159,11 @@ dv_has_:
     cy: teyrnas
     da: rige
     de: Reich
-    de-ch: Reich
+    de_ch: Reich
     el: βασίλειο
     en: kingdom
-    en-ca: kingdom
-    en-gb: kingdom
+    en_ca: kingdom
+    en_gb: kingdom
     eo: regno
     es: reino
     et: riik
@@ -198,7 +198,7 @@ dv_has_:
     kab: tagelda
     ko: 계
     ks: سۄرٲزؠ
-    ku-latn: cîhan
+    ku_latn: cîhan
     la: regnum
     lb: Räich
     lfn: rena
@@ -230,7 +230,7 @@ dv_has_:
     pl: królestwo
     pnb: جگت
     pt: reino
-    pt-br: reino
+    pt_br: reino
     qu: rikch'aq suyu
     rki: လောက(ဇီဝဗေဒ)
     ro: regn
@@ -260,8 +260,8 @@ dv_has_:
     tl: kaharian
     tr: âlem
     tt: патшалык
-    tt-cyrl: патшалык
-    tt-latn: patşalıq
+    tt_cyrl: патшалык
+    tt_latn: patşalıq
     uk: царство
     ur: مملکت
     uz: dunyo
@@ -277,9 +277,9 @@ dv_has_:
     zea: riek
     zgh: ⵜⴰⴳⵍⴷⵉⵜ
     zh: 界
-    zh-cn: 界
-    zh-hant: 界
-    zh-hk: 界
+    zh_cn: 界
+    zh_hant: 界
+    zh_hk: 界
     zu: Umbuso (kumchazampilo)
 ---
 # [[bio~Kingdom]] 

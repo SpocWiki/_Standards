@@ -237,7 +237,7 @@ hashtag: months
 Commons_category: Months
 dv_has_:
   name_:
-    aeb-arab: شهر
+    aeb_arab: شهر
     af: maand
     am: ወር
     an: mes
@@ -257,7 +257,7 @@ dv_has_:
     bar: Monat
     bcl: bulan
     be: месяц
-    be-tarask: месяц
+    be_tarask: месяц
     bg: месец
     bho: महीना
     bn: মাস
@@ -265,14 +265,14 @@ dv_has_:
     br: miz
     bs: mjesec
     ca: mes
-    cbk-zam: mes
+    cbk_zam: mes
     cdo: nguŏk
     ce: бутт
     ceb: bulan
     chr: ᏏᏅᏙ
     ckb: مانگەکان
     crh: ay
-    crh-latn: ay
+    crh_latn: ay
     crh-ro: ay
     cs: měsíc
     csb: miesądz
@@ -282,7 +282,7 @@ dv_has_:
     da: måned
     dag: goli
     de: Monat
-    de-ch: Monat
+    de_ch: Monat
     diq: aşme
     dsb: mjasec
     dtp: wulan
@@ -291,8 +291,8 @@ dv_has_:
     el: μήνας
     eml: més
     en: month
-    en-ca: month
-    en-gb: month
+    en_ca: month
+    en_gb: month
     eo: monato
     es: mes
     et: kuu
@@ -375,7 +375,7 @@ dv_has_:
     lv: mēnesis
     lzh: 月 (曆法)
     mai: महिना
-    map-bms: sasi
+    map_bms: sasi
     mg: volana
     mhr: тылзе
     mi: marama
@@ -387,7 +387,7 @@ dv_has_:
     mr: महिना
     mrj: тӹлзӹ
     ms: bulan
-    ms-arab: بولن
+    ms_arab: بولن
     mt: xahar
     my: လများ
     myv: ков
@@ -418,7 +418,7 @@ dv_has_:
     pnb: مہینا
     ps: مياشت
     pt: mês
-    pt-br: mês
+    pt_br: mês
     pwn: qiljas
     qu: killa pacha
     rmf: tšoon
@@ -450,7 +450,7 @@ dv_has_:
     so: bilaha
     sq: muaji
     sr: месец
-    sr-ec: месец
+    sr_ec: месец
     srn: mun
     ss: ínyangá
     su: bulan
@@ -495,14 +495,14 @@ dv_has_:
     zea: maend
     zgh: ⴰⵢⵢⵓⵔ
     zh: 月
-    zh-cn: 月
-    zh-hans: 月
-    zh-hant: 月份
-    zh-hk: 月份
-    zh-mo: 月
+    zh_cn: 月
+    zh_hans: 月
+    zh_hant: 月份
+    zh_hk: 月份
+    zh_mo: 月
     zh-my: 月
-    zh-sg: 月
-    zh-tw: 月
+    zh_sg: 月
+    zh_tw: 月
     zu: Izinyanga zesiZulu
 ---
 # [[Unit~Month]] 

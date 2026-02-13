@@ -106,7 +106,7 @@ dv_has_:
     bcl: Imam
     bdr: Imam
     be: Імам
-    be-tarask: імам
+    be_tarask: імам
     bg: Имам
     bn: ইমাম
     bs: Imam
@@ -114,7 +114,7 @@ dv_has_:
     ce: Имам
     ckb: پێشنوێژ
     crh: imam
-    crh-latn: imam
+    crh_latn: imam
     cs: imám
     cv: Имам (кĕлпуç)
     cy: Imam
@@ -150,17 +150,17 @@ dv_has_:
     ka: იმამი
     kcg: a̱kam sa̱la
     kk: Имам
-    kk-arab: ىيمام
+    kk_arab: ىيمام
     kk-cn: ىيمام
-    kk-cyrl: Имам
+    kk_cyrl: Имам
     kk-kz: Имам
-    kk-latn: Ïmam
+    kk_latn: Ïmam
     kk-tr: Ïmam
     ko: 이맘
     ks: اِمام
     ku: îmam
-    ku-arab: ئیمام
-    ku-latn: îmam
+    ku_arab: ئیمام
+    ku_latn: îmam
     ky: Имам кыргызча
     la: imamus
     lbe: имам
@@ -173,7 +173,7 @@ dv_has_:
     ml: ഇമാം
     mrj: Имам
     ms: imam
-    ms-arab: امام
+    ms_arab: امام
     my: အီမန်ရှင်
     nan: Imam
     nb: imam
@@ -184,7 +184,7 @@ dv_has_:
     pnb: امام
     ps: اېمام
     pt: imame
-    pt-br: imame
+    pt_br: imame
     ro: Imam
     ru: имам
     sah: Имаам
@@ -195,8 +195,8 @@ dv_has_:
     so: Imaam
     sq: imam
     sr: имам
-    sr-ec: имам
-    sr-el: Imam
+    sr_ec: имам
+    sr_el: Imam
     sv: imam
     sw: Imamu
     ta: இமாம்
@@ -216,12 +216,12 @@ dv_has_:
     xmf: იმამი
     yue: 伊瑪目
     zh: 伊玛目
-    zh-cn: 伊玛目
-    zh-hans: 伊玛目
-    zh-hant: 伊瑪目
-    zh-hk: 伊瑪目
-    zh-sg: 伊玛目
-    zh-tw: 伊瑪目
+    zh_cn: 伊玛目
+    zh_hans: 伊玛目
+    zh_hant: 伊瑪目
+    zh_hk: 伊瑪目
+    zh_sg: 伊玛目
+    zh_tw: 伊瑪目
 ---
 # [[Imam]] 
 

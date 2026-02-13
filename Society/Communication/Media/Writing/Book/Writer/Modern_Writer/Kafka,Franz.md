@@ -194,7 +194,7 @@ dv_has_:
     ban: Franz Kafka
     bar: Franz Kafka
     be: Франц Кафка
-    be-tarask: Франц Кафка
+    be_tarask: Франц Кафка
     bg: Франц Кафка
     bho: फ्रांज़ काफ़्का
     bi: Franz Kafka
@@ -215,12 +215,12 @@ dv_has_:
     da: Franz Kafka
     de: Franz Kafka
     de-at: Franz Kafka
-    de-ch: Franz Kafka
+    de_ch: Franz Kafka
     diq: Franz Kafka
     el: Φραντς Κάφκα
     en: Franz Kafka
-    en-ca: Franz Kafka
-    en-gb: Franz Kafka
+    en_ca: Franz Kafka
+    en_gb: Franz Kafka
     eo: Franz Kafka
     es: Franz Kafka
     et: Franz Kafka
@@ -286,7 +286,7 @@ dv_has_:
     lrc: فرانتس کافکا
     lt: Franz Kafka
     lv: Francs Kafka
-    map-bms: Franz Kafka
+    map_bms: Franz Kafka
     mg: Franz Kafka
     mhr: Франц Кафка
     min: Franz Kafka
@@ -306,7 +306,7 @@ dv_has_:
     nap: Franz Kafka
     nb: Franz Kafka
     nds: Franz Kafka
-    nds-nl: Franz Kafka
+    nds_nl: Franz Kafka
     ne: फ्रान्ज काफ्का
     new: फ्रान्ज् कफ्का
     nl: Franz Kafka
@@ -324,7 +324,7 @@ dv_has_:
     pnb: فرانز کافکا
     ps: فرانتس کافکا
     pt: Franz Kafka
-    pt-br: Franz Kafka
+    pt_br: Franz Kafka
     qu: Franz Kafka
     rm: Franz Kafka
     ro: Franz Kafka
@@ -344,7 +344,7 @@ dv_has_:
     so: Franz Kafka
     sq: Franz Kafka
     sr: Франц Кафка
-    sr-el: Franz Kafka
+    sr_el: Franz Kafka
     stq: Franz Kafka
     su: Franz Kafka
     sv: Franz Kafka
@@ -376,8 +376,8 @@ dv_has_:
     yo: Franz Kafka
     yue: 卡夫卡
     zh: 弗朗茨·卡夫卡
-    zh-cn: 弗朗茨·卡夫卡
-    zh-hk: 法蘭茲·卡夫卡
+    zh_cn: 弗朗茨·卡夫卡
+    zh_hk: 法蘭茲·卡夫卡
     zu: Franz Kafka
 ---
 # [[Kafka,Franz]] 

@@ -129,7 +129,7 @@ dv_has_:
     ast: órganu
     az: orqan
     be: арган
-    be-tarask: арган
+    be_tarask: арган
     bg: тръбен орган
     bn: অর্গান
     bs: Orgulje
@@ -186,7 +186,7 @@ dv_has_:
     mzn: اورگ وا
     nb: pipeorgel
     nds: Orgel
-    nds-nl: Örgel
+    nds_nl: Örgel
     nl: pijporgel
     nn: pipeorgel
     oc: Òrgue
@@ -220,8 +220,8 @@ dv_has_:
     wuu: 管风琴
     yue: 管風琴
     zh: 管风琴
-    zh-hant: 管風琴
-    zh-tw: 管風琴
+    zh_hant: 管風琴
+    zh_tw: 管風琴
 ---
 # [[Pipe_Organ]] 
 

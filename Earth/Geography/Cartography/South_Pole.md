@@ -211,7 +211,7 @@ dv_has_:
     bar: Siidpoi
     bcl: Habagatan na Polo
     be: Паўднёвы полюс
-    be-tarask: Паўднёвы полюс
+    be_tarask: Паўднёвы полюс
     bew: Kutub Kidul
     bg: Южен полюс
     bjn: Kutub Salatan
@@ -300,7 +300,7 @@ dv_has_:
     pms: Pòl Sud
     pnb: جنوبی قطب
     pt: Pólo Sul
-    pt-br: Polo Sul
+    pt_br: Polo Sul
     qu: Urin qhipa
     ro: Polul Sud
     roa-tara: Pole sud
@@ -324,7 +324,7 @@ dv_has_:
     so: Cirifka Koonfur
     sq: Poli i Jugut
     sr: јужни пол
-    sr-ec: јужни пол
+    sr_ec: јужни пол
     sv: Sydpolen
     sw: Ncha ya kusini
     ta: தென் துருவம்
@@ -352,9 +352,9 @@ dv_has_:
     yue: 南極
     zgh: ⴰⵙⴼⴰⵢⵍⵓ ⵏ ⵓⵏⵣⵓⵍ
     zh: 南极点
-    zh-hans: 南极点
-    zh-hant: 南極點
-    zh-tw: 南極點
+    zh_hans: 南极点
+    zh_hant: 南極點
+    zh_tw: 南極點
 ---
 # [[South_Pole]] 
 

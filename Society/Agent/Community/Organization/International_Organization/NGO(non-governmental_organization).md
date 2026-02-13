@@ -140,7 +140,7 @@ dv_has_:
     az: qeyri-hökumət təşkilatı
     ba: йәмәғәт ойошмаһы
     be: грамадская арганізацыя
-    be-tarask: грамадзкая арганізацыя
+    be_tarask: грамадзкая арганізацыя
     bg: неправителствена организация
     bho: गैर सरकारी संगठन
     bn: বেসরকারি সংস্থা
@@ -157,7 +157,7 @@ dv_has_:
     de: Nichtregierungsorganisation
     el: μη κυβερνητική οργάνωση
     en: non-governmental organization
-    en-gb: non-governmental organisation
+    en_gb: non-governmental organisation
     en-us: non-governmental organization
     eo: ne-registara organizaĵo
     es: organización no gubernamental
@@ -187,7 +187,7 @@ dv_has_:
     kn: ಸರ್ಕಾರೇತರ ಸಂಸ್ಥೆ
     ko: 비정부 기구
     ku: rêxistina nehikumî
-    ku-latn: rêxistina nehikumî
+    ku_latn: rêxistina nehikumî
     kw: kowethyans anwovernansek
     la: Organizatio re publica vacans
     lb: Netregierungsorganisatioun
@@ -199,7 +199,7 @@ dv_has_:
     mn: Ангилал:Төрийн бус байгууллагууд
     mr: अशासकीय संस्था
     ms: pertubuhan bukan kerajaan
-    ms-arab: ڤرتوبوهن بوکن کراجاءن
+    ms_arab: ڤرتوبوهن بوکن کراجاءن
     mt: organizzazzjoni mhux governattiva
     my: အစိုးရ မဟုတ်သော အဖွဲ့အစည်း
     nan: Hui-chèng-hú cho͘-chit
@@ -213,7 +213,7 @@ dv_has_:
     pl: organizacja pozarządowa
     ps: خیریه ټولنه
     pt: organização não governamental
-    pt-br: organização não governamental
+    pt_br: organização não governamental
     qu: Mana kamachiy tantanakuy
     ro: organizație nonguvernamentală
     ru: общественная организация
@@ -226,7 +226,7 @@ dv_has_:
     smn: aalmuglâšservi
     sq: organizatë joqeveritare
     sr: невладина организација
-    sr-ec: невладина организација
+    sr_ec: невладина организација
     sv: civilsamhällelig organisation
     sw: Shirika Lisilo la Kiserikali
     ta: அரச சார்பற்ற அமைப்பு
@@ -245,11 +245,11 @@ dv_has_:
     wuu: 非政府组织
     yue: 非政府組織
     zh: 非政府组织
-    zh-cn: 非政府组织
-    zh-hans: 非政府组织
-    zh-hant: 非政府組織
-    zh-hk: 非政府組織
-    zh-tw: 非政府組織
+    zh_cn: 非政府组织
+    zh_hans: 非政府组织
+    zh_hant: 非政府組織
+    zh_hk: 非政府組織
+    zh_tw: 非政府組織
 ---
 # [[NGO(non-governmental_organization)]] 
 

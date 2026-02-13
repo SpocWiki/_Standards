@@ -73,7 +73,7 @@ dv_has_:
     ast: Arte cinético
     az: Kinetik incəsənət
     be: кінетычнае мастацтва
-    be-tarask: кінэтычнае мастацтва
+    be_tarask: кінэтычнае мастацтва
     bg: Кинетично изкуство
     ca: art cinètic
     cs: kinetické umění
@@ -114,8 +114,8 @@ dv_has_:
     sl: kinetična umetnost
     sq: Arti kinetik
     sr: кинетичка скулптура
-    sr-ec: кинетичка скулптура
-    sr-el: Kinetička skulptura
+    sr_ec: кинетичка скулптура
+    sr_el: Kinetička skulptura
     sv: rörlig konst
     th: จลนศิลป์
     tr: kinetik sanat
@@ -123,10 +123,10 @@ dv_has_:
     uz: Kinetik sanʼat
     yue: 動感藝術
     zh: 動力藝術
-    zh-cn: 动感雕塑
-    zh-hans: 动感雕塑
-    zh-hant: 動感雕塑
-    zh-tw: kinetic art
+    zh_cn: 动感雕塑
+    zh_hans: 动感雕塑
+    zh_hant: 動感雕塑
+    zh_tw: kinetic art
 ---
 # [[Kinetic_Art]] 
 

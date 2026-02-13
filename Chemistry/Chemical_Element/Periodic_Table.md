@@ -290,7 +290,7 @@ dv_has_:
     bar: Periodnsysdem
     bcl: peryodikong tableta
     be: перыядычная сістэма элементаў
-    be-tarask: пэрыядычная сыстэма хімічных элемэнтаў
+    be_tarask: пэрыядычная сыстэма хімічных элемэнтаў
     bg: периодична система
     bho: पीरियॉडिक टेबल
     blk: အထဲ့ရော့ꩻ ထာꩻရွောင်
@@ -316,8 +316,8 @@ dv_has_:
     dv: ޕީރިއަޑިކް ތާވަލު
     el: περιοδικός πίνακας των χημικών στοιχείων
     en: periodic table
-    en-ca: periodic table
-    en-gb: periodic table
+    en_ca: periodic table
+    en_gb: periodic table
     en-us: periodic table
     eo: perioda tabelo
     es: tabla periódica de los elementos
@@ -399,7 +399,7 @@ dv_has_:
     mnw: သ္ၚိအင်ကာလ
     mr: आवर्त सारणी
     ms: jadual berkala
-    ms-arab: جدوال برکالا
+    ms_arab: جدوال برکالا
     mt: tavla perjodika
     mwl: tabela periódica
     my: ဒြပ်စင်အလှည့်ကျဇယား
@@ -425,7 +425,7 @@ dv_has_:
     pnt: περιοδικόν πινάκιν
     ps: بابل
     pt: tabela periódica
-    pt-br: tabela periódica
+    pt_br: tabela periódica
     qu: qallawap ñiqi rakirinkuna
     rki: periodic table
     ro: tabelul periodic al elementelor
@@ -451,7 +451,7 @@ dv_has_:
     so: Jadwalka Curiyayaasha
     sq: sistemi periodik i elementeve
     sr: периодни систем
-    sr-ec: периодни систем елемената
+    sr_ec: периодни систем елемената
     srn: periodiki sistemi
     st: tafole ya periodiki
     stq: periodiske Tabelle
@@ -468,7 +468,7 @@ dv_has_:
     tpi: tebol bilong ol elemen
     tr: periyodik tablo
     tt: менделеевның периодик таблицасы
-    tt-cyrl: менделеевның периодик таблицасы
+    tt_cyrl: менделеевның периодик таблицасы
     tum: gome la nyengo-na-nyengo la vya kaŵiro
     tyv: химиктиг элементилерниң периодтуг системазы
     udm: ёзнэтъёслэн периодической сӧзнэтсы
@@ -491,14 +491,14 @@ dv_has_:
     yue: 元素週期表
     za: yenzsoq couhgibyauj
     zh: 元素周期表
-    zh-cn: 元素周期表
-    zh-hans: 元素周期表
-    zh-hant: 元素週期表
-    zh-hk: 元素週期表
-    zh-mo: 元素週期表
+    zh_cn: 元素周期表
+    zh_hans: 元素周期表
+    zh_hant: 元素週期表
+    zh_hk: 元素週期表
+    zh_mo: 元素週期表
     zh-my: 元素周期表
-    zh-sg: 元素周期表
-    zh-tw: 元素週期表
+    zh_sg: 元素周期表
+    zh_tw: 元素週期表
     zu: i-periodic table
 ---
 # [[Periodic_Table]] 

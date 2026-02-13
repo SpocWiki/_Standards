@@ -209,7 +209,7 @@ dv_has_:
     bar: Duttln
     bcl: Suso
     be: грудзі
-    be-tarask: грудзі
+    be_tarask: грудзі
     bew: Tété'
     bg: гърда
     bjn: Susu
@@ -228,13 +228,13 @@ dv_has_:
     cy: Bron
     da: bryst
     de: weibliche Brust
-    de-ch: Weibliche Brust
+    de_ch: Weibliche Brust
     diq: Çıçe
     ee: ehno
     el: Μαστός
     en: female breast
-    en-ca: Breast
-    en-gb: breast
+    en_ca: Breast
+    en_gb: breast
     eo: mamo
     es: mama
     et: Rind
@@ -318,7 +318,7 @@ dv_has_:
     pnb: چھاتی
     ps: تی (سینه)
     pt: mama
-    pt-br: mama
+    pt_br: mama
     qu: Ñuñu
     rn: Amabere
     ro: sân
@@ -342,8 +342,8 @@ dv_has_:
     so: Naas
     sq: Gjiri
     sr: груди
-    sr-ec: груди
-    sr-el: grudi
+    sr_ec: груди
+    sr_el: grudi
     srn: bobi
     su: pinareup
     sv: kvinnobröst
@@ -372,8 +372,8 @@ dv_has_:
     yue: "\U000221A1"
     za: Cij
     zh: 乳房
-    zh-hant: 乳房
-    zh-tw: 乳房
+    zh_hant: 乳房
+    zh_tw: 乳房
 ---
 # [[Breast]] 
 

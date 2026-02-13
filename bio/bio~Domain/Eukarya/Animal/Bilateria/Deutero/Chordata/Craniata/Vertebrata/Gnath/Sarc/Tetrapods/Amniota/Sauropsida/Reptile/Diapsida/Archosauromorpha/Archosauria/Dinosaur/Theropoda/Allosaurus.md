@@ -99,7 +99,7 @@ dv_has_:
     ast: Allosaurus
     az: Allosaurus
     ban: Allosaurus
-    be-tarask: алязаўр
+    be_tarask: алязаўр
     bg: алозаври
     bn: অ্যালোসরাস
     br: Allosaurus
@@ -111,8 +111,8 @@ dv_has_:
     de: Allosaurus
     el: Αλλόσαυρος
     en: Allosaurus
-    en-ca: Allosaurus
-    en-gb: Allosaurus
+    en_ca: Allosaurus
+    en_gb: Allosaurus
     eo: Alosaŭro
     es: Allosaurus
     eu: Allosaurus
@@ -148,7 +148,7 @@ dv_has_:
     or: ଏଲୋସରସ
     pl: Allozaur
     pt: Allosaurus
-    pt-br: Allosaurus
+    pt_br: Allosaurus
     ro: Allosaurus
     ru: Аллозавры
     sco: Allosaurus
@@ -168,9 +168,9 @@ dv_has_:
     wuu: 异特龙属
     yue: 異特龍
     zh: 异特龙属
-    zh-cn: 异特龙属
-    zh-hans: 异特龙属
-    zh-tw: 異特龍屬
+    zh_cn: 异特龙属
+    zh_hans: 异特龙属
+    zh_tw: 異特龍屬
 ---
 # [[Allosaurus]] 
 

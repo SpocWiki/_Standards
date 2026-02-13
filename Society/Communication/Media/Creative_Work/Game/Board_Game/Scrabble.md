@@ -85,7 +85,7 @@ dv_has_:
     ar: سكرابل
     ast: Scrabble
     bcl: Scrabble
-    be-tarask: скрэбл
+    be_tarask: скрэбл
     bg: Скрабъл
     br: Skrabell
     ca: Scrabble
@@ -95,7 +95,7 @@ dv_has_:
     de: Scrabble
     el: Σκραμπλ
     en: Scrabble
-    en-ca: Scrabble
+    en_ca: Scrabble
     eo: Skrablo
     es: Scrabble
     et: Scrabble
@@ -139,7 +139,7 @@ dv_has_:
     sk: Scrabble
     sl: Scrabble
     sr: Скрабл
-    sr-ec: Скрабл
+    sr_ec: Скрабл
     sv: Scrabble
     ta: சொல்லாக்க ஆட்டம்
     te: స్క్రాబుల్
@@ -154,12 +154,12 @@ dv_has_:
     yue: Scrabble
     zgh: ⵙⴽⵔⴰⴱⴱⵍ
     zh: Scrabble
-    zh-cn: Scrabble
-    zh-hans: Scrabble
-    zh-hant: Scrabble
-    zh-hk: Scrabble
-    zh-sg: Scrabble
-    zh-tw: Scrabble
+    zh_cn: Scrabble
+    zh_hans: Scrabble
+    zh_hant: Scrabble
+    zh_hk: Scrabble
+    zh_sg: Scrabble
+    zh_tw: Scrabble
 ---
 # [[Scrabble]] 
 

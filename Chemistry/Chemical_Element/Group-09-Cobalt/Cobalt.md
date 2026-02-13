@@ -180,7 +180,7 @@ dv_has_:
     ban: Kobalt
     bcl: Kobalto
     be: кобальт
-    be-tarask: кобальт
+    be_tarask: кобальт
     bg: кобалт
     bho: कोबाल्ट
     blk: ကိုဘော့
@@ -202,8 +202,8 @@ dv_has_:
     dv: ކޮބާލްޓް
     el: κοβάλτιο
     en: cobalt
-    en-ca: cobalt
-    en-gb: cobalt
+    en_ca: cobalt
+    en_gb: cobalt
     eo: kobalto
     es: cobalto
     et: koobalt
@@ -288,7 +288,7 @@ dv_has_:
     pnb: کوبالٹ
     ps: کوبالټ
     pt: cobalto
-    pt-br: cobalto
+    pt_br: cobalto
     qu: Kubaltu
     rki: ကိုဘော့
     ro: cobalt
@@ -306,7 +306,7 @@ dv_has_:
     so: Kobalti
     sq: Kobalti
     sr: кобалт
-    sr-ec: Кобалт
+    sr_ec: Кобалт
     stq: Cobalt
     su: Kobalt
     sv: kobolt
@@ -333,11 +333,11 @@ dv_has_:
     yo: Cobalt
     yue: 鈷
     zh: 鈷
-    zh-cn: 钴
-    zh-hans: 钴
-    zh-hant: 鈷
-    zh-hk: 鈷
-    zh-tw: 鈷
+    zh_cn: 钴
+    zh_hans: 钴
+    zh_hant: 鈷
+    zh_hk: 鈷
+    zh_tw: 鈷
     zu: UmConjambi
   number_of_:
     period: 4

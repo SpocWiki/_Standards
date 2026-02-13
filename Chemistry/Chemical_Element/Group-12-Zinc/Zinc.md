@@ -233,7 +233,7 @@ dv_has_:
     ban: Séng
     bcl: Zinc
     be: цынк
-    be-tarask: цынк
+    be_tarask: цынк
     bg: цинк
     bho: जस्ता
     blk: သဉ့်
@@ -348,7 +348,7 @@ dv_has_:
     pnb: زنک
     ps: جست
     pt: zinco
-    pt-br: zinco
+    pt_br: zinco
     qu: Tsinku
     ro: zinc
     ru: цинк
@@ -378,7 +378,7 @@ dv_has_:
     tok: ijo lili nanpa 30
     tr: Çinko
     tt: тутыя
-    tt-cyrl: тутыя
+    tt_cyrl: тутыя
     udm: цинк
     ug: سىنك
     uk: цинк
@@ -395,11 +395,11 @@ dv_has_:
     yo: Zinc
     yue: 鋅
     zh: 鋅
-    zh-cn: 锌
-    zh-hans: 锌
-    zh-hant: 鋅
-    zh-hk: 鋅
-    zh-tw: 鋅
+    zh_cn: 锌
+    zh_hans: 锌
+    zh_hant: 鋅
+    zh_hk: 鋅
+    zh_tw: 鋅
     zu: IZethe
   number_of_:
     period: 4

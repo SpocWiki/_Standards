@@ -136,7 +136,7 @@ dv_has_:
     az: Elektrik mühərriki
     bar: Elektromotoa
     be: электрычны рухавік
-    be-tarask: электраматор
+    be_tarask: электраматор
     bg: Електрически двигател
     bn: বৈদ্যুতিক মোটর
     bs: elektromotor
@@ -200,7 +200,7 @@ dv_has_:
     pnb: بجلی دی موٹر
     ps: الکتریکي موتور
     pt: motor elétrico
-    pt-br: motor elétrico
+    pt_br: motor elétrico
     qu: pinchikilla kuyuchina
     ro: motor electric
     ru: электродвигатель
@@ -213,8 +213,8 @@ dv_has_:
     sms: liâdggmoottor
     sq: Elektromotori
     sr: електромотор
-    sr-ec: електромотор
-    sr-el: elektromotor
+    sr_ec: електромотор
+    sr_el: elektromotor
     su: Motor listrik
     sv: elektrisk motor
     ta: மின்சார இயக்கி
@@ -235,8 +235,8 @@ dv_has_:
     wuu: 电动机
     yue: 電摩打
     zh: 电动机
-    zh-hk: 摩打
-    zh-tw: 電動馬達
+    zh_hk: 摩打
+    zh_tw: 電動馬達
 ---
 # [[Electric_Motor]] 
 

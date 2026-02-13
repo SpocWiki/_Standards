@@ -32,7 +32,7 @@ dv_has_:
     ast: Mancala
     awa: मन्काला
     az: Mankala
-    be-tarask: манкала
+    be_tarask: манкала
     ca: joc de mancala
     cs: mankala
     cy: mancala
@@ -41,8 +41,8 @@ dv_has_:
     din: Wet
     el: Μανκάλα
     en: mancala
-    en-ca: Mancala
-    en-gb: Mancala
+    en_ca: Mancala
+    en_gb: Mancala
     eo: Afrika semludo
     es: mancala
     et: Mancala
@@ -74,7 +74,7 @@ dv_has_:
     nso: Mancala
     pl: Mankala
     pt: mancala
-    pt-br: Mancala
+    pt_br: Mancala
     ro: mancala
     ru: манкала
     scn: Mancala

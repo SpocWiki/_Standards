@@ -256,7 +256,7 @@ external_data_available_at_URL:
 - https://www.gbif.org/dataset/31dc1507-a6e1-4233-a8df-c7a78596a7e4
 dv_has_:
   name_:
-    aeb-arab: رمّان
+    aeb_arab: رمّان
     af: Pomegranaat
     am: ሩማን
     an: Punica granatum
@@ -269,7 +269,7 @@ dv_has_:
     ban: Delima
     bcl: Granada
     be: Гранат
-    be-tarask: гранат
+    be_tarask: гранат
     bg: нар
     bho: अनार
     bn: বেদানা
@@ -286,8 +286,8 @@ dv_has_:
     diq: Henare
     el: Ροδιά
     en: pomegranate
-    en-ca: Pomegranate
-    en-gb: pomegranate
+    en_ca: Pomegranate
+    en_gb: pomegranate
     eo: Granato
     es: Punica granatum
     et: Granaatõun
@@ -363,7 +363,7 @@ dv_has_:
     pnb: انار
     ps: انار
     pt: romã
-    pt-br: Romã
+    pt_br: Romã
     qu: Apinkuya
     ro: Rodie
     ru: Гранат обыкновенный
@@ -381,7 +381,7 @@ dv_has_:
     smn: graanaatoomeenmuorâ
     sq: Shega
     sr: нар
-    sr-ec: Нар
+    sr_ec: Нар
     su: Dalima
     sv: granatäpple
     sw: Mkomamanga
@@ -396,7 +396,7 @@ dv_has_:
     to: Pomikanite
     tr: Nar
     tt: гади анар
-    tt-cyrl: гади анар
+    tt_cyrl: гади анар
     ug: ئانار
     uk: гранат звичайний
     ur: انار
@@ -412,10 +412,10 @@ dv_has_:
     yi: מילגרוים
     yue: 石榴
     zh: 石榴
-    zh-cn: 石榴
-    zh-hans: 石榴
-    zh-hant: 石榴
-    zh-tw: 石榴
+    zh_cn: 石榴
+    zh_hans: 石榴
+    zh_hant: 石榴
+    zh_tw: 石榴
 ---
 # [[Punica_granatum]] 
 

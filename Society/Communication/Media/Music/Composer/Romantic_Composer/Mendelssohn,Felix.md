@@ -195,7 +195,7 @@ dv_has_:
     az: Feliks Mendelson Bartoldi
     ba: Феликс Мендельсон
     be: Фелікс Мендэльсон
-    be-tarask: Фэлікс Мэндэльсон
+    be_tarask: Фэлікс Мэндэльсон
     bg: Феликс Менделсон Бартолди
     bs: Felix Mendelssohn
     ca: Felix Mendelssohn
@@ -212,8 +212,8 @@ dv_has_:
     diq: Felix Mendelssohn
     el: Φέλιξ Μέντελσον
     en: Felix Mendelssohn
-    en-ca: Felix Mendelssohn
-    en-gb: Felix Mendelssohn
+    en_ca: Felix Mendelssohn
+    en_gb: Felix Mendelssohn
     eo: Felix Mendelssohn Bartholdy
     es: Felix Mendelssohn
     et: Felix Mendelssohn Bartholdy
@@ -241,7 +241,7 @@ dv_has_:
     ja: フェリックス・メンデルスゾーン
     ka: ფელიქს მენდელსონი
     kk: Якоб Людвиг Феликс Мендельсон Бартольди
-    kk-cyrl: линдельсон
+    kk_cyrl: линдельсон
     ko: 펠릭스 멘델스존
     ky: Мендельсон
     la: Felix Mendelssohn Bartholdy
@@ -268,7 +268,7 @@ dv_has_:
     pl: Felix Mendelssohn-Bartholdy
     pms: Felix Mendelssohn Bartholdy
     pt: Felix Mendelssohn Bartholdy
-    pt-br: Felix Mendelssohn Bartholdy
+    pt_br: Felix Mendelssohn Bartholdy
     qu: Felix Mendelssohn
     ro: Felix Mendelssohn Bartholdy
     ru: Феликс Мендельсон
@@ -296,9 +296,9 @@ dv_has_:
     yi: פעליקס מענדלסאן
     yue: 菲歷士·門德爾松
     zh: 费利克斯·门德尔松
-    zh-hans: 费利克斯·门德尔松
-    zh-hant: 費利克斯·孟德爾頌
-    zh-tw: 菲利克斯·孟德爾頌
+    zh_hans: 费利克斯·门德尔松
+    zh_hant: 費利克斯·孟德爾頌
+    zh_tw: 菲利克斯·孟德爾頌
 ---
 # [[Mendelssohn,Felix]] 
 

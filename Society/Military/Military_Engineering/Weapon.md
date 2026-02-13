@@ -138,7 +138,7 @@ dv_has_:
     ba: пропаганда
     bar: Propaganda
     be: прапаганда
-    be-tarask: прапаганда
+    be_tarask: прапаганда
     bg: пропаганда
     bho: प्रोपेगैंडा
     bn: প্রচারশৈলী
@@ -157,8 +157,8 @@ dv_has_:
     de: Propaganda
     el: προπαγάνδα
     en: propaganda
-    en-ca: propaganda
-    en-gb: propaganda
+    en_ca: propaganda
+    en_gb: propaganda
     eo: propagando
     es: propaganda
     et: propaganda
@@ -252,14 +252,14 @@ dv_has_:
     yi: פראפאגאנדע
     yue: 政治宣傳
     zh: 政治宣傳
-    zh-cn: 政治宣传
-    zh-hans: 政治宣传
-    zh-hant: 政治宣傳
-    zh-hk: 政治宣傳
-    zh-mo: 政治宣传
+    zh_cn: 政治宣传
+    zh_hans: 政治宣传
+    zh_hant: 政治宣傳
+    zh_hk: 政治宣傳
+    zh_mo: 政治宣传
     zh-my: 政治宣传
-    zh-sg: 政治宣传
-    zh-tw: 政治宣傳
+    zh_sg: 政治宣传
+    zh_tw: 政治宣傳
 ---
 # [[Weapon]] 
 

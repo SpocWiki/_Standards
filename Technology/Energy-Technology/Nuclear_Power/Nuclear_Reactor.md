@@ -8,7 +8,7 @@ dv_has_:
     az: Nüvə reaktoru
     ban: Réaktor nuklir
     be: ядзерны рэактар
-    be-tarask: ядзерны рэактар
+    be_tarask: ядзерны рэактар
     bg: Ядрен реактор
     blk: နျူးကလီးယား မောင်းခြောင်အောင်
     bn: পারমাণবিক চুল্লী
@@ -77,8 +77,8 @@ dv_has_:
     smn: váimusreaktor
     sq: Reaktori bërthamor
     sr: нуклеарни реактор
-    sr-ec: нуклеарни реактор
-    sr-el: nuklearni reaktor
+    sr_ec: нуклеарни реактор
+    sr_el: nuklearni reaktor
     sv: kärnreaktor
     sw: Tanuri la nyuklia
     ta: அணுக்கரு உலை

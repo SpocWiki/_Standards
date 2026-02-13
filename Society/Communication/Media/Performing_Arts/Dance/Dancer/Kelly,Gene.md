@@ -128,7 +128,7 @@ dv_has_:
     azb: جین کلی
     ba: Джин Келли
     be: Джын Келі
-    be-tarask: Джын Келі
+    be_tarask: Джын Келі
     bg: Джийн Кели
     bi: Gene Kelly
     bn: জিন কেলি
@@ -182,7 +182,7 @@ dv_has_:
     pap: Gene Kelly
     pl: Gene Kelly
     pt: Gene Kelly
-    pt-br: Gene Kelly
+    pt_br: Gene Kelly
     qu: Gene Kelly
     ro: Gene Kelly
     ru: Джин Келли
@@ -192,7 +192,7 @@ dv_has_:
     sl: Gene Kelly
     sq: Gene Kelly
     sr: Џин Кели
-    sr-ec: Џин Кели
+    sr_ec: Џин Кели
     sv: Gene Kelly
     ta: ஜீன் கெல்லி
     th: จีน เคลลี
@@ -205,13 +205,13 @@ dv_has_:
     yo: Gene Kelly
     yue: 真基利
     zh: 金·凱利
-    zh-cn: 吉恩·凯利
-    zh-hans: 吉恩·凯利
-    zh-hant: 金·凱利
-    zh-hk: 真·基利
+    zh_cn: 吉恩·凯利
+    zh_hans: 吉恩·凯利
+    zh_hant: 金·凱利
+    zh_hk: 真·基利
     zh-my: 金·凯利
-    zh-sg: 金·凯利
-    zh-tw: 金·凱利
+    zh_sg: 金·凯利
+    zh_tw: 金·凱利
 ---
 # [[Kelly,Gene]] 
 

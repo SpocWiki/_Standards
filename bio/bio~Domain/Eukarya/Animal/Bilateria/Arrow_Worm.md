@@ -104,15 +104,15 @@ dv_has_:
     oc: Chaetognatha
     pl: Szczecioszczękie
     pt: vermes-flecha
-    pt-br: Chaetognatha
+    pt_br: Chaetognatha
     ro: Chaetognatha
     ru: щетинкочелюстные
     sk: Štetinatoústky
     sl: Ščetinočeljustnice
     sq: Chaetognatha
     sr: Стакласти црви
-    sr-ec: Стакласти црви
-    sr-el: Staklasti crvi
+    sr_ec: Стакласти црви
+    sr_el: Staklasti crvi
     sv: pilmaskar
     tl: Chaetognatha
     tr: Kıllıçeneliler
@@ -122,12 +122,12 @@ dv_has_:
     vo: Chaetognatha
     war: Chaetognatha
     zh: 毛颚动物门
-    zh-cn: 毛颚动物门
-    zh-hans: 毛颚动物门
-    zh-hant: 毛顎動物門
-    zh-hk: 毛顎動物門
-    zh-sg: 毛颚动物门
-    zh-tw: 毛顎動物門
+    zh_cn: 毛颚动物门
+    zh_hans: 毛颚动物门
+    zh_hant: 毛顎動物門
+    zh_hk: 毛顎動物門
+    zh_sg: 毛颚动物门
+    zh_tw: 毛顎動物門
 ---
 # [[Arrow_Worm]]
 

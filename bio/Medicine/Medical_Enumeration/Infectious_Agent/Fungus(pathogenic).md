@@ -193,7 +193,7 @@ dv_has_:
     bar: Schwammal
     bcl: Fungus
     be: грыбы
-    be-tarask: грыбы
+    be_tarask: грыбы
     bg: гъби
     bn: ছত্রাক
     br: Fungi
@@ -214,13 +214,13 @@ dv_has_:
     dag: Malɛɣu
     de: Pilze
     de-at: Fungi
-    de-ch: Fungi
+    de_ch: Fungi
     dsb: Griby
     el: Μύκητας
     eml: Funś
     en: fungi
-    en-ca: Fungus
-    en-gb: fungus
+    en_ca: Fungus
+    en_gb: fungus
     eo: fungoj
     es: fungi
     et: seened
@@ -272,7 +272,7 @@ dv_has_:
     kn: ಶಿಲೀಂಧ್ರ
     ko: 균계
     ku: karok
-    ku-latn: karok
+    ku_latn: karok
     kw: fong
     ky: Козу карындар
     la: Fungi
@@ -295,7 +295,7 @@ dv_has_:
     mn: Мөөг
     mr: बुरशी
     ms: kulat
-    ms-arab: کولت
+    ms_arab: کولت
     mul: Fungi
     my: မှို
     myv: Пангт
@@ -305,7 +305,7 @@ dv_has_:
     nap: Fungi
     nb: soppriket
     nds: Poggenstöhl
-    nds-nl: Fungi
+    nds_nl: Fungi
     ne: ढुसी
     new: फुसा
     nl: schimmels
@@ -326,7 +326,7 @@ dv_has_:
     pnb: فنگس
     ps: فنګوسونه
     pt: Fungi
-    pt-br: Fungi
+    pt_br: Fungi
     qu: K'allampa
     rm: Fungi
     ro: Fungi
@@ -388,8 +388,8 @@ dv_has_:
     yue: 真菌
     za: Caen'gin
     zh: 真菌界
-    zh-cn: 真菌界
-    zh-hans: 真菌界
+    zh_cn: 真菌界
+    zh_hans: 真菌界
     zu: Fungi
 ---
 # [[Fungus(pathogenic)]] 

@@ -605,7 +605,7 @@ dv_has_:
     ab: Колумбиа
     ace: Kolombia
     ady: Коломбие
-    aeb-arab: كولومبيا
+    aeb_arab: كولومبيا
     af: Colombia
     am: ኮሎምቢያ
     an: Colombia
@@ -629,7 +629,7 @@ dv_has_:
     bbc: Kolombia
     bcl: Kolombya
     be: Калумбія
-    be-tarask: Калюмбія
+    be_tarask: Калюмбія
     bew: Kolombia
     bg: Колумбия
     bgn: کولومبیا
@@ -644,7 +644,7 @@ dv_has_:
     bs: Kolumbija
     bxr: Колумби
     ca: Colòmbia
-    cbk-zam: Colombia
+    cbk_zam: Colombia
     cdo: Colombia
     ce: Колумби
     ceb: Kolombya
@@ -655,7 +655,7 @@ dv_has_:
     co: Culumbia
     cr: ᔭᐸᔭᐊᔭᐊᐣ
     crh: Kolombiya
-    crh-latn: Kolombiya
+    crh_latn: Kolombiya
     cs: Kolumbie
     csb: Kolumbiô
     cv: Колумби
@@ -663,7 +663,7 @@ dv_has_:
     da: Colombia
     dag: Colombia
     de: Kolumbien
-    de-ch: Kolumbien
+    de_ch: Kolumbien
     din: Colombia
     diq: Kolombiya
     dsb: Kolumbiska
@@ -675,8 +675,8 @@ dv_has_:
     el: Κολομβία
     eml: Colombia
     en: Colombia
-    en-ca: Colombia
-    en-gb: Colombia
+    en_ca: Colombia
+    en_gb: Colombia
     eo: Kolombio
     es: Colombia
     et: Colombia
@@ -702,7 +702,7 @@ dv_has_:
     gn: Kolómbia
     gom: कोलंबिया
     gom-deva: कोलंबिया
-    gom-latn: Colombia
+    gom_latn: Colombia
     gor: Kolombia
     got: "\U0001033A\U00010349\U0001033B\U00010330\U0001033F\U0001033C\U00010331\U0001033E\U00010330"
     gpe: Colombia
@@ -774,7 +774,7 @@ dv_has_:
     lv: Kolumbija
     lzh: 哥倫比亞
     mad: Kolombia
-    map-bms: Kolombia
+    map_bms: Kolombia
     mdf: Колумбия
     mg: Kolombia
     mhr: Колумбий
@@ -788,7 +788,7 @@ dv_has_:
     mr: कोलंबिया
     mrj: Колумби
     ms: Colombia
-    ms-arab: کولومبيا
+    ms_arab: کولومبيا
     mt: Kolombja
     mwl: Colómbia
     my: ကိုလံဘီယာနိုင်ငံ
@@ -800,7 +800,7 @@ dv_has_:
     nap: Colombia
     nb: Colombia
     nds: Kolumbien
-    nds-nl: Colombia
+    nds_nl: Colombia
     ne: कोलम्बिया
     new: कोलम्बिया
     nl: Colombia
@@ -828,7 +828,7 @@ dv_has_:
     pnt: Κολομβία
     ps: کولمبيا
     pt: Colômbia
-    pt-br: Colômbia
+    pt_br: Colômbia
     qu: Kulunsuyu
     rm: Columbia
     rmy: Kolombiya
@@ -863,8 +863,8 @@ dv_has_:
     so: Kolombiya
     sq: Kolumbia
     sr: Колумбија
-    sr-ec: Колумбија
-    sr-el: Kolumbija
+    sr_ec: Колумбија
+    sr_el: Kolumbija
     srn: Kolombikondre
     ss: IKholombiya
     st: Colombia
@@ -923,12 +923,12 @@ dv_has_:
     zea: Colombia
     zgh: ⴽⵓⵍⵓⵎⴱⵢⴰ
     zh: 哥伦比亚
-    zh-cn: 哥伦比亚
-    zh-hans: 哥伦比亚
-    zh-hant: 哥倫比亞
-    zh-hk: 哥倫比亞
-    zh-mo: 哥倫比亞
-    zh-tw: 哥倫比亞
+    zh_cn: 哥伦比亚
+    zh_hans: 哥伦比亚
+    zh_hant: 哥倫比亞
+    zh_hk: 哥倫比亞
+    zh_mo: 哥倫比亞
+    zh_tw: 哥倫比亞
     zu: IKolombiya
   url_for_:
     code_repository: https://github.com/SpocWiki/America-Colombia

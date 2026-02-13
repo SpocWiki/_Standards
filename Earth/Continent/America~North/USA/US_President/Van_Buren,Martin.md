@@ -90,7 +90,7 @@ dv_has_:
     bar: Martin Van Buren
     bcl: Martin Van Buren
     be: Марцін Ван Бюран
-    be-tarask: Мартын Ван Бюрэн
+    be_tarask: Мартын Ван Бюрэн
     bg: Мартин Ван Бюрън
     bi: Martin Van Buren
     bn: মার্টিন ভ্যান বিউরেন
@@ -113,8 +113,8 @@ dv_has_:
     ee: Martin Van Buren
     el: Μάρτιν Βαν Μπιούρεν
     en: Martin Van Buren
-    en-ca: Martin Van Buren
-    en-gb: Martin Van Buren
+    en_ca: Martin Van Buren
+    en_gb: Martin Van Buren
     eo: Martin Van Buren
     es: Martin Van Buren
     et: Martin Van Buren
@@ -188,7 +188,7 @@ dv_has_:
     pnb: مارٹن وان بورن
     ps: مارټین وان بورېن
     pt: Martin Van Buren
-    pt-br: Martin Van Buren
+    pt_br: Martin Van Buren
     qu: Martin Van Buren
     rmf: Martin Van Buren
     ro: Martin Van Buren
@@ -231,7 +231,7 @@ dv_has_:
     yo: Martin Van Buren
     yue: 馬田范布倫
     zh: 马丁·范布伦
-    zh-hk: 馬田·范布倫
+    zh_hk: 馬田·范布倫
   time_:
     started: 1782-12-05T00:00:00.000+00:53
     stopped: 1862-07-24T00:00:00.000+00:53

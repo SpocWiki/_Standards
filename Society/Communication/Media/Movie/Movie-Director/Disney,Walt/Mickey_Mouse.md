@@ -233,7 +233,7 @@ dv_has_:
     ban: Mickey Mouse
     bar: Mickey Mouse
     be: Мікі Маўс
-    be-tarask: Мікі Маўс
+    be_tarask: Мікі Маўс
     bew: Kimos si Tikus
     bg: Мики Маус
     bho: मिकी माउस
@@ -254,14 +254,14 @@ dv_has_:
     cy: Mickey Mouse
     da: Mickey Mouse
     de: Micky Maus
-    de-ch: Micky Maus
+    de_ch: Micky Maus
     diq: Mickey Mouse
     dv: Mickey Mouse
     el: Μίκυ Μάους
     eml: Mickey Mouse
     en: Mickey Mouse
-    en-ca: Mickey Mouse
-    en-gb: Mickey Mouse
+    en_ca: Mickey Mouse
+    en_gb: Mickey Mouse
     en-us: Mickey Mouse
     eo: Mickey Mouse
     es: Mickey Mouse
@@ -340,7 +340,7 @@ dv_has_:
     nan: Mickey Mouse
     nb: Mikke Mus
     nds: Micky Maus
-    nds-nl: Mickey Mouse
+    nds_nl: Mickey Mouse
     ne: मिकी माउस
     new: मिकी माउस
     nl: Mickey Mouse
@@ -356,7 +356,7 @@ dv_has_:
     pnb: مکی ماؤس
     ps: مکی موږک
     pt: Mickey Mouse
-    pt-br: Mickey Mouse
+    pt_br: Mickey Mouse
     qu: Miki Ukucha
     ro: Mickey Mouse
     rsk: Мики Маус
@@ -377,7 +377,7 @@ dv_has_:
     sm: Mickey Mouse
     sq: Mickey Mouse
     sr: Мики Маус
-    sr-ec: Мики Маус
+    sr_ec: Мики Маус
     su: Mickey Mouse
     sv: Musse Pigg
     sw: Mickey Mouse
@@ -406,11 +406,11 @@ dv_has_:
     yi: מיקי מויז
     yue: 米奇老鼠
     zh: 米老鼠
-    zh-cn: 米老鼠
-    zh-hans: 米老鼠
-    zh-hant: 米奇老鼠
-    zh-hk: 米奇老鼠
-    zh-tw: 米奇老鼠
+    zh_cn: 米老鼠
+    zh_hans: 米老鼠
+    zh_hant: 米奇老鼠
+    zh_hk: 米奇老鼠
+    zh_tw: 米奇老鼠
 ---
 # [[Mickey_Mouse]] 
 

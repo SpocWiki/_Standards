@@ -71,7 +71,7 @@ dv_has_:
     az: biopsiya
     bcl: biyopsiya
     be: біяпсія
-    be-tarask: біяпсія
+    be_tarask: біяпсія
     bg: биопсия
     bn: বায়োপসি
     bs: biopsija
@@ -83,8 +83,8 @@ dv_has_:
     de: Biopsie
     el: βιοψία
     en: biopsy
-    en-ca: biopsy
-    en-gb: biopsy
+    en_ca: biopsy
+    en_gb: biopsy
     eo: biopsio
     es: biopsia
     et: biopsia
@@ -104,11 +104,11 @@ dv_has_:
     ja: 生検
     ka: ბიოფსია
     kk: биосынама
-    kk-arab: بىيوسىناما
+    kk_arab: بىيوسىناما
     kk-cn: بىيوسىناما
-    kk-cyrl: биосынама
+    kk_cyrl: биосынама
     kk-kz: биосынама
-    kk-latn: bïosınama
+    kk_latn: bïosınama
     kk-tr: bïosınama
     kn: ಬಾಯಾಪ್ಸಿ
     ko: 생검
@@ -126,7 +126,7 @@ dv_has_:
     pag: biyopsiya
     pl: biopsja
     pt: biopsia
-    pt-br: biópsia
+    pt_br: biópsia
     ro: biopsie
     ru: биопсия
     sd: بائيوپسي
@@ -139,8 +139,8 @@ dv_has_:
     smn: biopsia
     sms: biopsia
     sr: биопсија
-    sr-ec: биопсија
-    sr-el: biopsija
+    sr_ec: биопсија
+    sr_el: biopsija
     sv: biopsi
     ta: உயிரகச்செதுக்கு
     tg: биопсия
@@ -155,12 +155,12 @@ dv_has_:
     wuu: 活体组织切片
     yue: 活體組織檢查
     zh: 活體組織切片
-    zh-cn: 活体组织切片
-    zh-hans: 活体组织切片
-    zh-hant: 活體組織切片
-    zh-hk: 活體組織切片
-    zh-sg: 活体组织切片
-    zh-tw: 活體組織切片
+    zh_cn: 活体组织切片
+    zh_hans: 活体组织切片
+    zh_hant: 活體組織切片
+    zh_hk: 活體組織切片
+    zh_sg: 活体组织切片
+    zh_tw: 活體組織切片
 ---
 # [[Biopsy]] 
 

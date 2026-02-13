@@ -283,7 +283,7 @@ dv_has_:
     ban: Samudra Kelod
     bar: Sidlicha Ozean
     be: Паўднёвы акіян
-    be-tarask: Паўднёвы акіян
+    be_tarask: Паўднёвы акіян
     bew: Laotan Kutub Kidul
     bg: Южен океан
     bho: दक्खिनी महासागर
@@ -307,8 +307,8 @@ dv_has_:
     dty: अन्टार्क्टिक महासागर
     el: Νότιος Ωκεανός
     en: Southern Ocean
-    en-ca: Southern Ocean
-    en-gb: Southern Ocean
+    en_ca: Southern Ocean
+    en_gb: Southern Ocean
     eo: Suda Oceano
     es: Océano Austral
     et: Lõuna-Jäämeri
@@ -389,7 +389,7 @@ dv_has_:
     nan-hant: 南極洋
     nb: Sørishavet
     nds: Süüdozean
-    nds-nl: Zudelike Oceaan
+    nds_nl: Zudelike Oceaan
     ne: अन्टार्क्टिक महासागर
     new: दक्षिणी महासागर
     nl: Zuidelijke Oceaan
@@ -404,7 +404,7 @@ dv_has_:
     pnb: بحر منجمد جنوبی
     ps: سویلي سمندر
     pt: Oceano Antártico
-    pt-br: Oceano Antártico
+    pt_br: Oceano Antártico
     qu: Antartiku mama qucha
     rm: Ocean Antarctic
     ro: Oceanul Antarctic
@@ -461,9 +461,9 @@ dv_has_:
     yo: Òkun Apáagúúsù
     yue: 南大洋
     zh: 南冰洋
-    zh-hant: 南極海
-    zh-hk: 南冰洋
-    zh-tw: 南極海
+    zh_hant: 南極海
+    zh_hk: 南冰洋
+    zh_tw: 南極海
 ---
 ## [[Ocean~Antarctic]]  
 

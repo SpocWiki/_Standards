@@ -165,13 +165,13 @@ dv_has_:
     azb: ایختیراعچی
     ba: уйлап табыусы
     be: вынаходнік
-    be-tarask: вынаходнік
+    be_tarask: вынаходнік
     bg: изобретател
     bn: আবিষ্কারক
     bs: pronalazač
     ca: inventor
     ckb: داھێنەر
-    crh-latn: keşfiyatçı
+    crh_latn: keşfiyatçı
     cs: vynálezce
     cy: dyfeisiwr
     da: opfinder
@@ -212,7 +212,7 @@ dv_has_:
     kab: Amesnulfu
     ko: 발명가
     ku: dahêner
-    ku-latn: dahêner
+    ku_latn: dahêner
     kw: deviser
     la: inventor
     lb: Erfinder
@@ -236,7 +236,7 @@ dv_has_:
     pl: wynalazca
     ps: پنځگر
     pt: inventor
-    pt-br: inventor
+    pt_br: inventor
     ro: inventator
     ru: изобретатель
     rue: вынаходник
@@ -248,8 +248,8 @@ dv_has_:
     smn: utkee
     sms: hoʹhssjeei
     sr: проналазач
-    sr-ec: проналазач
-    sr-el: pronalazač
+    sr_ec: проналазач
+    sr_el: pronalazač
     sv: uppfinnare
     sw: Mvumbuzi
     ta: புத்தாக்குனர்
@@ -259,7 +259,7 @@ dv_has_:
     tl: imbentor
     tr: mucit
     tt: уйлап табучы
-    tt-cyrl: уйлап табучы
+    tt_cyrl: уйлап табучы
     uk: винахідник
     ur: موجد
     uz: Ixtirochi
@@ -271,12 +271,12 @@ dv_has_:
     yi: ערפינדער
     yue: 發明家
     zh: 发明家
-    zh-cn: 发明家
-    zh-hans: 发明家
-    zh-hant: 發明家
-    zh-hk: 發明家
-    zh-sg: 发明家
-    zh-tw: 發明家
+    zh_cn: 发明家
+    zh_hans: 发明家
+    zh_hant: 發明家
+    zh_hk: 發明家
+    zh_sg: 发明家
+    zh_tw: 發明家
 ---
 # [[Inventor]] 
 

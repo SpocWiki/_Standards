@@ -94,7 +94,7 @@ dv_has_:
     arz: جوزيف مانكيفيتس
     ast: Joseph L. Mankiewicz
     be: Джозеф Леа Манкевіч
-    be-tarask: Джозэф Манкевіч
+    be_tarask: Джозэф Манкевіч
     bg: Джоузеф Манкевич
     bn: জোসেফ এল. ম্যাংকাভিৎস
     br: Joseph L. Mankiewicz
@@ -106,8 +106,8 @@ dv_has_:
     de: Joseph L. Mankiewicz
     el: Τζόζεφ Λ. Μάνκιεβιτς
     en: Joseph L. Mankiewicz
-    en-ca: Joseph L. Mankiewicz
-    en-gb: Joseph L. Mankiewicz
+    en_ca: Joseph L. Mankiewicz
+    en_gb: Joseph L. Mankiewicz
     eo: Joseph L. Mankiewicz
     es: Joseph L. Mankiewicz
     eu: Joseph L. Mankiewicz
@@ -141,7 +141,7 @@ dv_has_:
     pap: Joseph L. Mankiewicz
     pl: Joseph L. Mankiewicz
     pt: Joseph L. Mankiewicz
-    pt-br: Joseph L. Mankiewicz
+    pt_br: Joseph L. Mankiewicz
     qu: Joseph L. Mankiewicz
     ro: Joseph L. Mankiewicz
     ru: Джозеф Л. Манкевич
@@ -161,9 +161,9 @@ dv_has_:
     yo: Joseph L. Mankiewicz
     yue: 約瑟·曼基威士
     zh: 约瑟夫·曼凯维奇
-    zh-hant: 約瑟夫·孟威茲
-    zh-hk: 約瑟·曼基威士
-    zh-tw: 約瑟夫·孟威茲
+    zh_hant: 約瑟夫·孟威茲
+    zh_hk: 約瑟·曼基威士
+    zh_tw: 約瑟夫·孟威茲
 ---
 # [[Mankiewicz,Joseph_L.]] 
 

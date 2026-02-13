@@ -114,7 +114,7 @@ dv_has_:
     ast: efeutu Doppler
     az: Dopler effekti
     be: эфект Доплера
-    be-tarask: эфэкт Доплера
+    be_tarask: эфэкт Доплера
     bg: Доплеров ефект
     bn: ডপলার ক্রিয়া
     br: Efed Doppler
@@ -196,8 +196,8 @@ dv_has_:
     wuu: 多普勒效应
     yue: 杜卜勒效應
     zh: 多普勒效应
-    zh-hans: 多普勒效应
-    zh-tw: 都卜勒效應
+    zh_hans: 多普勒效应
+    zh_tw: 都卜勒效應
 ---
 # [[Doppler_Effect]] 
 

@@ -67,7 +67,7 @@ dv_has_:
     ace: Kenya
     acm: كينيا
     ady: Кение
-    aeb-arab: كينيا
+    aeb_arab: كينيا
     af: Kenia
     am: ኬንያ
     ami: Kenya
@@ -90,7 +90,7 @@ dv_has_:
     bar: Kenia
     bcl: Kenya
     be: Кенія
-    be-tarask: Кенія
+    be_tarask: Кенія
     bew: Kénia
     bg: Кения
     bho: कीनिया
@@ -105,14 +105,14 @@ dv_has_:
     bs: Kenija
     bxr: Кени
     ca: Kenya
-    cbk-zam: Kenia
+    cbk_zam: Kenia
     cdo: Kenya
     ce: Кени
     ceb: Kenya
     ckb: کینیا
     co: Quènia
     crh: Keniya
-    crh-latn: Keniya
+    crh_latn: Keniya
     cs: Keňa
     csb: Keniô
     cv: Кени
@@ -121,7 +121,7 @@ dv_has_:
     dag: Kenya
     de: Kenia
     de-at: Kenia
-    de-ch: Kenia
+    de_ch: Kenia
     din: Kenya
     diq: Kenya
     dsb: Kenia
@@ -131,8 +131,8 @@ dv_has_:
     ee: Kenia
     el: Κένυα
     en: Kenya
-    en-ca: Kenya
-    en-gb: Kenya
+    en_ca: Kenya
+    en_gb: Kenya
     eo: Kenjo
     es: Kenia
     et: Keenia
@@ -226,7 +226,7 @@ dv_has_:
     mad: Kenya
     mag: केनिया
     mai: केन्या
-    map-bms: Kenya
+    map_bms: Kenya
     mdf: Кэния
     mg: Kenia
     mhr: Кений
@@ -240,7 +240,7 @@ dv_has_:
     mr: केनिया
     mrj: Кени
     ms: Kenya
-    ms-arab: کيڽا
+    ms_arab: کيڽا
     mt: Kenja
     mwl: Quénia
     my: ကင်ညာနိုင်ငံ
@@ -252,7 +252,7 @@ dv_has_:
     nap: Kenya
     nb: Kenya
     nds: Kenia
-    nds-nl: Kenia
+    nds_nl: Kenia
     ne: केन्या
     new: केन्या
     nl: Kenia
@@ -280,7 +280,7 @@ dv_has_:
     pnb: کینیا
     ps: کېنيا
     pt: Quénia
-    pt-br: Quênia
+    pt_br: Quênia
     qu: Kinya
     rmy: Kenya
     rn: Kenya
@@ -313,8 +313,8 @@ dv_has_:
     so: Kiinya
     sq: Kenia
     sr: Кенија
-    sr-ec: Кенија
-    sr-el: Kenija
+    sr_ec: Кенија
+    sr_el: Kenija
     ss: IKheniya
     st: Kenya
     stq: Kenia
@@ -363,12 +363,12 @@ dv_has_:
     zea: Kenia
     zgh: ⴽⵉⵏⵢⴰ
     zh: 肯尼亚
-    zh-cn: 肯尼亚
-    zh-hans: 肯尼亚
-    zh-hant: 肯尼亞
-    zh-hk: 肯雅
-    zh-sg: 肯尼亚
-    zh-tw: 肯亞
+    zh_cn: 肯尼亚
+    zh_hans: 肯尼亚
+    zh_hant: 肯尼亞
+    zh_hk: 肯雅
+    zh_sg: 肯尼亚
+    zh_tw: 肯亞
     zu: IKenya
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Kenya

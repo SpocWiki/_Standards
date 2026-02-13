@@ -91,7 +91,7 @@ dv_has_:
     ba: Манга
     bcl: Manga
     be: Манга
-    be-tarask: манга
+    be_tarask: манга
     bg: Манга
     bho: मंगा
     bjn: Manga
@@ -108,8 +108,8 @@ dv_has_:
     de: Manga
     el: μάνγκα
     en: manga
-    en-ca: manga
-    en-gb: manga
+    en_ca: manga
+    en_gb: manga
     eo: mangao
     es: manga
     et: Manga
@@ -172,7 +172,7 @@ dv_has_:
     pl: manga
     ps: مانګا
     pt: manga
-    pt-br: mangá
+    pt_br: mangá
     qu: Manga
     ro: manga
     ru: манга
@@ -208,11 +208,11 @@ dv_has_:
     yo: Mángà
     yue: 日本漫畫
     zh: 日本漫画
-    zh-cn: 日本漫画
-    zh-hans: 日本漫画
-    zh-hant: 日本漫畫
-    zh-hk: 日本漫畫
-    zh-tw: 日本漫畫
+    zh_cn: 日本漫画
+    zh_hans: 日本漫画
+    zh_hant: 日本漫畫
+    zh_hk: 日本漫畫
+    zh_tw: 日本漫畫
 ---
 # [[Manga]] 
 

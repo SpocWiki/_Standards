@@ -72,7 +72,7 @@ dv_has_:
     avk: stukoleem
     ban: Peccary
     be: Пекарыевыя
-    be-tarask: Пэкарыевыя
+    be_tarask: Пэкарыевыя
     bg: пекариеви
     bn: পেকারি
     br: Pekari
@@ -82,8 +82,8 @@ dv_has_:
     da: Navlesvin
     de: Nabelschweine
     en: Tayassuidae
-    en-ca: Peccary
-    en-gb: Peccary
+    en_ca: Peccary
+    en_gb: Peccary
     eo: Tayassuidae
     es: Tayassuidae
     et: Pekaarilased
@@ -121,7 +121,7 @@ dv_has_:
     oc: Tayassuidae
     pl: Pekari
     pt: Tayassuidae
-    pt-br: Tayassuidae
+    pt_br: Tayassuidae
     qu: Wankana
     ro: Tayassuidae
     ru: Пекариевые
@@ -141,12 +141,12 @@ dv_has_:
     war: Tayassuidae
     yue: 西貒科
     zh: 西猯科
-    zh-cn: 西猯科
-    zh-hans: 西猯科
-    zh-hant: 西猯科
-    zh-hk: 西貒科
-    zh-sg: 西猯科
-    zh-tw: 西貒科
+    zh_cn: 西猯科
+    zh_hans: 西猯科
+    zh_hant: 西猯科
+    zh_hk: 西貒科
+    zh_sg: 西猯科
+    zh_tw: 西貒科
 ---
 # [[Tayassuidae]]
 

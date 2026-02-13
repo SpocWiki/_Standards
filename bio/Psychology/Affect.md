@@ -64,7 +64,7 @@ dv_has_:
     arz: وجدان
     az: Affekt
     be: афект
-    be-tarask: афэкт
+    be_tarask: афэкт
     bg: Афект
     ca: afecte
     cs: afekt
@@ -91,11 +91,11 @@ dv_has_:
     ja: 情動
     ka: აფექტი
     kk: Аффективті
-    kk-arab: اففەكتىيۆتى
+    kk_arab: اففەكتىيۆتى
     kk-cn: اففەكتىيۆتى
-    kk-cyrl: Аффективті
+    kk_cyrl: Аффективті
     kk-kz: Аффективті
-    kk-latn: Affektïvti
+    kk_latn: Affektïvti
     kk-tr: Affektïvti
     ko: 정동
     lt: afektas
@@ -112,8 +112,8 @@ dv_has_:
     so: Saamaynta
     sq: Ndikimi (psikologji)
     sr: афект
-    sr-ec: Афект
-    sr-el: Afekt
+    sr_ec: Афект
+    sr_el: Afekt
     sv: affekt
     tr: duygulanım
     uk: афект
@@ -121,7 +121,7 @@ dv_has_:
     vi: tác động
     yue: 主觀情感
     zh: 情感
-    zh-hant: 情感
+    zh_hant: 情感
 ---
 # [[Affect]]
 

@@ -151,7 +151,7 @@ dv_has_:
     ba: Федерико Феллини
     bar: Federico Fellini
     be: Федэрыка Феліні
-    be-tarask: Фэдэрыка Фэліні
+    be_tarask: Фэдэрыка Фэліні
     bew: Federico Fellini
     bg: Федерико Фелини
     bho: फेदेरिको फेलिनी
@@ -168,14 +168,14 @@ dv_has_:
     cy: Federico Fellini
     da: Federico Fellini
     de: Federico Fellini
-    de-ch: Federico Fellini
+    de_ch: Federico Fellini
     diq: Federico Fellini
     ee: Federico Fellini
     el: Φεντερίκο Φελίνι
     eml: Federico Fellini
     en: Federico Fellini
-    en-ca: Federico Fellini
-    en-gb: Federico Fellini
+    en_ca: Federico Fellini
+    en_gb: Federico Fellini
     eo: Federico Fellini
     es: Federico Fellini
     et: Federico Fellini
@@ -238,7 +238,7 @@ dv_has_:
     pms: Federico Fellini
     pnb: فیڈریکو فیلینی
     pt: Federico Fellini
-    pt-br: Federico Fellini
+    pt_br: Federico Fellini
     qu: Federico Fellini
     ro: Federico Fellini
     ru: Федерико Феллини
@@ -276,9 +276,9 @@ dv_has_:
     yi: פעדעריקא פעליני
     yue: 費里尼
     zh: 费德里科·费里尼
-    zh-cn: 费德里科·费里尼
-    zh-hans: 费德里科·费里尼
-    zh-hant: 費德里柯·費里尼
+    zh_cn: 费德里科·费里尼
+    zh_hans: 费德里科·费里尼
+    zh_hant: 費德里柯·費里尼
     zh-my: 费德里高·费里尼
 ---
 # [[Fellini,Federico]] 

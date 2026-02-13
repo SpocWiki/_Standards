@@ -80,7 +80,7 @@ dv_has_:
     ar: موسيقى رومانسية
     ast: Música del Romanticismu
     be: музыка перыяду рамантызму
-    be-tarask: музыка рамантызму
+    be_tarask: музыка рамантызму
     bg: Музика на романтизма
     ca: romanticisme musical
     ckb: مۆسیقای ڕۆمانتیک
@@ -139,12 +139,12 @@ dv_has_:
     vi: âm nhạc lãng mạn
     yue: 浪漫主義音樂
     zh: 浪漫主義音樂
-    zh-cn: 浪漫主义音乐
-    zh-hans: 浪漫主义音乐
-    zh-hant: 浪漫主義音樂
-    zh-hk: 浪漫主義音樂
-    zh-sg: 浪漫主义音乐
-    zh-tw: 浪漫主義音樂
+    zh_cn: 浪漫主义音乐
+    zh_hans: 浪漫主义音乐
+    zh_hant: 浪漫主義音樂
+    zh_hk: 浪漫主義音樂
+    zh_sg: 浪漫主义音乐
+    zh_tw: 浪漫主義音樂
 ---
 # [[1800-Romantic_Music+1900]] 
 

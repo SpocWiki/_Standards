@@ -280,7 +280,7 @@ dv_has_:
     ba: Аврелий Августин
     bar: Augustinus vo Hippo
     be: Аўгусцін Аўрэлій
-    be-tarask: Аўгустын
+    be_tarask: Аўгустын
     bew: Agustinus deri Hipo
     bg: Августин Блажени
     bn: আউরেলিয়ুস আউগুস্তিনুস
@@ -299,7 +299,7 @@ dv_has_:
     da: Augustin
     dag: Augustine of Hippo
     de: Augustinus von Hippo
-    de-ch: Augustinus von Hippo
+    de_ch: Augustinus von Hippo
     el: Αυγουστίνος Ιππώνος
     en: Augustine of Hippo
     eo: Aŭgusteno de Hipono
@@ -389,7 +389,7 @@ dv_has_:
     pnb: آگسٹائین
     ps: د هیپو آګوستین
     pt: Agostinho de Hipona
-    pt-br: Agostinho de Hipona
+    pt_br: Agostinho de Hipona
     qu: Agustín
     rm: Augustinus da Hippo
     ro: Augustin de Hipona
@@ -432,7 +432,7 @@ dv_has_:
     yue: 奧古斯丁
     zgh: ⵓⴳⵓⵙⵜⵉⵏ
     zh: 奥古斯丁
-    zh-cn: 希波的奥古斯丁
+    zh_cn: 希波的奥古斯丁
 ---
 ## #has_/text_of_/abstract 
 

@@ -120,7 +120,7 @@ dv_has_:
     ast: Michelangelo Antonioni
     az: Mikelancelo Antonioni
     be: Мікеланджэла Антаніёні
-    be-tarask: Мікелянджэлё Антаніёні
+    be_tarask: Мікелянджэлё Антаніёні
     bg: Микеланджело Антониони
     bn: মিকেলাঞ্জেলো আন্তোনিওনি
     br: Michelangelo Antonioni
@@ -132,8 +132,8 @@ dv_has_:
     de: Michelangelo Antonioni
     el: Μικελάντζελο Αντονιόνι
     en: Michelangelo Antonioni
-    en-ca: Michelangelo Antonioni
-    en-gb: Michelangelo Antonioni
+    en_ca: Michelangelo Antonioni
+    en_gb: Michelangelo Antonioni
     eo: Michelangelo Antonioni
     es: Michelangelo Antonioni
     et: Michelangelo Antonioni
@@ -175,7 +175,7 @@ dv_has_:
     pms: Michelangelo Antonioni
     pnb: مائیکل انجیلو انتونیونی
     pt: Michelangelo Antonioni
-    pt-br: Michelangelo Antonioni
+    pt_br: Michelangelo Antonioni
     ro: Michelangelo Antonioni
     ru: Микеланджело Антониони
     sco: Michelangelo Antonioni
@@ -194,10 +194,10 @@ dv_has_:
     wuu: 米开朗基罗·安东尼奥尼
     yue: 米高安哲羅·安東尼奧尼
     zh: 米開朗基羅·安東尼奧尼
-    zh-hant: 米開朗基羅·安東尼奧尼
-    zh-hk: 安東尼奧尼
+    zh_hant: 米開朗基羅·安東尼奧尼
+    zh_hk: 安東尼奧尼
     zh-my: 米开朗基罗·安东尼奥尼
-    zh-sg: 米开朗基罗·安东尼奥尼
+    zh_sg: 米开朗基罗·安东尼奥尼
 ---
 # [[Antonioni,Michelangelo]] 
 

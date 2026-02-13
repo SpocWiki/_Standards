@@ -139,7 +139,7 @@ dv_has_:
     atj: pimite
     ay: Lik'i
     ban: Muluk
-    be-tarask: тлушч
+    be_tarask: тлушч
     bg: Мазнина
     bjn: Lamak
     bn: স্নেহ পদার্থ
@@ -184,7 +184,7 @@ dv_has_:
     kn: ಕೊಬ್ಬು
     ko: 지방
     ku: çewrî
-    ku-latn: çewrî
+    ku_latn: çewrî
     kw: blonek
     la: Pingue
     li: Vèt
@@ -198,7 +198,7 @@ dv_has_:
     mt: xaħam
     nan: Jī-nn̂g
     nb: fett
-    nds-nl: vet
+    nds_nl: vet
     new: दाः
     nl: vet
     nn: feitt
@@ -207,7 +207,7 @@ dv_has_:
     pl: tłuszcz
     pnb: چربی
     pt: gordura
-    pt-br: gordura
+    pt_br: gordura
     qu: Wira
     ro: grăsime
     ru: жиры
@@ -235,7 +235,7 @@ dv_has_:
     tl: Taba
     tr: Yağ
     tt: майлар
-    tt-cyrl: майлар
+    tt_cyrl: майлар
     udm: кӧйёс
     uk: жири
     ur: شحم
@@ -246,12 +246,12 @@ dv_has_:
     xmf: ციმუ
     yue: 肥膏
     zh: 脂肪
-    zh-cn: 脂肪
-    zh-hans: 脂肪
-    zh-hant: 脂肪
-    zh-hk: 脂肪
-    zh-sg: 脂肪
-    zh-tw: 脂肪
+    zh_cn: 脂肪
+    zh_hans: 脂肪
+    zh_hant: 脂肪
+    zh_hk: 脂肪
+    zh_sg: 脂肪
+    zh_tw: 脂肪
 ---
 # [[Fat]] 
 

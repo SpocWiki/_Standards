@@ -30,9 +30,9 @@ dv_has_:
     uk: Повне секвенування геному
     ur: جینوم سلسلہ بندی
     zh: 全基因組測序分析
-    zh-cn: 全基因组测序
-    zh-hans: 全基因组测序
-    zh-hant: 全基因組測序
+    zh_cn: 全基因组测序
+    zh_hans: 全基因组测序
+    zh_hant: 全基因組測序
 aliases:
 - aselkem n ujinum ummid
 - heilgenomsekvensering

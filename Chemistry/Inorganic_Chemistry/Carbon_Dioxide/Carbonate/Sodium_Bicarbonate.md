@@ -181,7 +181,7 @@ dv_has_:
     az: Natrium-hidrokarbonat
     azb: بیکربونات سودیوم
     be: бікарбанат натрыю
-    be-tarask: бікарбанат натру
+    be_tarask: бікарбанат натру
     bg: Натриев бикарбонат
     bn: সোডিয়াম বাইকার্বনেট
     bs: Natrij-hidrogenkarbonat
@@ -249,8 +249,8 @@ dv_has_:
     so: Saadiyom bicarbonate
     sq: Bikarbonati i natriumit
     sr: натријум хидрогенкарбонат
-    sr-ec: Натријум хидрогенкарбонат
-    sr-el: Natrijum hidrogenkarbonat
+    sr_ec: Натријум хидрогенкарбонат
+    sr_el: Natrijum hidrogenkarbonat
     sv: natriumvätekarbonat
     sw: Magadi
     ta: சமையல் சோடா
@@ -265,12 +265,12 @@ dv_has_:
     wuu: 碳酸氢钠
     yue: 梳打粉
     zh: 碳酸氢钠
-    zh-cn: 碳酸氢钠
-    zh-hans: 碳酸氢钠
-    zh-hant: 碳酸氫鈉
-    zh-hk: 碳酸氫鈉
-    zh-sg: 碳酸氢钠
-    zh-tw: 碳酸氫鈉
+    zh_cn: 碳酸氢钠
+    zh_hans: 碳酸氢钠
+    zh_hant: 碳酸氫鈉
+    zh_hk: 碳酸氫鈉
+    zh_sg: 碳酸氢钠
+    zh_tw: 碳酸氫鈉
 ---
 # [[Sodium_Bicarbonate]] 
 

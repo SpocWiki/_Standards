@@ -55,7 +55,7 @@ dv_has_:
   name_:
     ar: حكم مطلق مستنير
     ast: Despotismu ilustráu
-    be-tarask: асьветны абсалютызм
+    be_tarask: асьветны абсалютызм
     bg: Просветен абсолютизъм
     ca: despotisme il·lustrat
     cs: osvícenský absolutismus
@@ -96,12 +96,12 @@ dv_has_:
     uk: Освічений абсолютизм
     vec: despotismo iłustrado
     zh: 開明專制
-    zh-cn: 开明专制
-    zh-hans: 开明专制
-    zh-hant: 開明專制
-    zh-hk: 開明專制
-    zh-sg: 开明专制
-    zh-tw: 開明專制
+    zh_cn: 开明专制
+    zh_hans: 开明专制
+    zh_hant: 開明專制
+    zh_hk: 開明專制
+    zh_sg: 开明专制
+    zh_tw: 開明專制
 ---
 # [[Enlightened_Absolutism]] 
 

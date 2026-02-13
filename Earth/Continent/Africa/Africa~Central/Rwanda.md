@@ -439,7 +439,7 @@ dv_has_:
   name_:
     ab: Руанда
     ace: Rwanda
-    aeb-arab: رواندا
+    aeb_arab: رواندا
     af: Rwanda
     am: ሩዋንዳ
     ami: Rwanda
@@ -459,7 +459,7 @@ dv_has_:
     bar: Ruanda
     bcl: Ruanda
     be: Руанда
-    be-tarask: Руанда
+    be_tarask: Руанда
     bew: Ruanda
     bg: Руанда
     bho: रवांडा
@@ -473,14 +473,14 @@ dv_has_:
     bs: Ruanda
     bxr: Руанда
     ca: Ruanda
-    cbk-zam: Rwanda
+    cbk_zam: Rwanda
     cdo: Rwanda
     ce: Руанда
     ceb: Rwanda
     ckb: ڕواندا
     co: Ruanda
     crh: Ruanda
-    crh-latn: Ruanda
+    crh_latn: Ruanda
     cs: Rwanda
     cv: Руанда
     cy: Rwanda
@@ -488,7 +488,7 @@ dv_has_:
     dag: Rwanda
     de: Ruanda
     de-at: Ruanda
-    de-ch: Ruanda
+    de_ch: Ruanda
     din: Ruanda
     diq: Rwanda
     dsb: Ruanda
@@ -497,8 +497,8 @@ dv_has_:
     ee: Rwanda
     el: Ρουάντα
     en: Rwanda
-    en-ca: Rwanda
-    en-gb: Rwanda
+    en_ca: Rwanda
+    en_gb: Rwanda
     en-us: Rwanda
     eo: Ruando
     es: Ruanda
@@ -599,7 +599,7 @@ dv_has_:
     nan: Rwanda
     nb: Rwanda
     nds: Ruanda
-    nds-nl: Rwanda
+    nds_nl: Rwanda
     ne: रुवाण्डा
     new: रुवान्डा
     nl: Rwanda
@@ -623,7 +623,7 @@ dv_has_:
     pnb: روانڈا
     ps: رونډا
     pt: Ruanda
-    pt-br: Ruanda
+    pt_br: Ruanda
     qu: Rwanda
     rmy: Rwanda
     rn: Rwanda
@@ -653,8 +653,8 @@ dv_has_:
     so: Ruwanda
     sq: Ruanda
     sr: Руанда
-    sr-ec: Руанда
-    sr-el: Ruanda
+    sr_ec: Руанда
+    sr_el: Ruanda
     ss: IRuwanda
     st: Rwanda
     stq: Ruanda
@@ -703,14 +703,14 @@ dv_has_:
     zea: Rwanda
     zgh: ⵔⵡⴰⵏⴷⴰ
     zh: 卢旺达
-    zh-cn: 卢旺达
-    zh-hans: 卢旺达
-    zh-hant: 盧旺達
-    zh-hk: 盧旺達
-    zh-mo: 卢旺达
+    zh_cn: 卢旺达
+    zh_hans: 卢旺达
+    zh_hant: 盧旺達
+    zh_hk: 盧旺達
+    zh_mo: 卢旺达
     zh-my: 卢旺达
-    zh-sg: 卢旺达
-    zh-tw: 盧安達
+    zh_sg: 卢旺达
+    zh_tw: 盧安達
     zu: IRuwanda
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Rwanda

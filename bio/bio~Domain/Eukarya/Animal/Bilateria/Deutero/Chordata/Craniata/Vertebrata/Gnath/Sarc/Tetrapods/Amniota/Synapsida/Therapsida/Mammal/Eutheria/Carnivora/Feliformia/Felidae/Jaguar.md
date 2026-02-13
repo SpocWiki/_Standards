@@ -192,7 +192,7 @@ dv_has_:
     ba: Ягуар
     ban: Jaguar
     be: ягуар
-    be-tarask: ягуар
+    be_tarask: ягуар
     bg: ягуар
     bn: জাগুয়ার
     br: jagoar
@@ -210,7 +210,7 @@ dv_has_:
     diq: caguar
     el: Ιαγουάρος
     en: jaguar
-    en-ca: jaguar
+    en_ca: jaguar
     en-us: jaguar
     eo: jaguaro
     es: Panthera onca
@@ -266,7 +266,7 @@ dv_has_:
     nah: Ocēlōtl
     nan: Bí-chiu-pà
     nb: Jaguar
-    nds-nl: jaguar
+    nds_nl: jaguar
     nl: jaguar
     nn: jaguar
     nv: Shádiʼááhdę́ę́ʼ náshdóítsoh łikizhígíí
@@ -277,7 +277,7 @@ dv_has_:
     pl: jaguar amerykański
     pnb: جیگوار
     pt: Panthera onca
-    pt-br: Onça-pintada
+    pt_br: Onça-pintada
     qu: uturunku
     ro: Jaguar
     ru: ягуар
@@ -310,9 +310,9 @@ dv_has_:
     yi: יאגואר
     yue: 美洲豹
     zh: 美洲豹
-    zh-cn: 美洲豹
-    zh-hans: 美洲豹
-    zh-tw: 美洲豹
+    zh_cn: 美洲豹
+    zh_hans: 美洲豹
+    zh_tw: 美洲豹
 ---
 # [[Jaguar]] 
 

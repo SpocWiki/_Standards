@@ -79,7 +79,7 @@ dv_has_:
     ast: güisqui
     az: Viski
     be: Віскі
-    be-tarask: Віскі
+    be_tarask: Віскі
     bg: уиски
     bho: विस्की
     bn: হুইস্কি
@@ -93,12 +93,12 @@ dv_has_:
     cy: wisgi
     da: whisky
     de: Whisky
-    de-ch: Whisky
+    de_ch: Whisky
     diq: Wıski
     el: ουίσκι
     en: whisky
-    en-ca: whisky
-    en-gb: whisky
+    en_ca: whisky
+    en_gb: whisky
     en-us: whiskey
     eo: viskio
     es: whisky
@@ -151,7 +151,7 @@ dv_has_:
     pl: whisky
     pnb: وہسکی
     pt: uísque
-    pt-br: uísque
+    pt_br: uísque
     ro: whisky
     ru: виски
     scn: Whisky
@@ -161,7 +161,7 @@ dv_has_:
     sl: viski
     sq: wiski
     sr: виски
-    sr-el: Viski
+    sr_el: Viski
     su: Wiski
     sv: whisky
     sw: Wiski
@@ -181,8 +181,8 @@ dv_has_:
     yue: 威士忌
     zh: 威士忌
     zh-cn: 威士忌
-    zh-hans: 威士忌
-    zh-hant: 威士忌
+    zh_hans: 威士忌
+    zh_hant: 威士忌
 ---
 # [[Whisky]]
 

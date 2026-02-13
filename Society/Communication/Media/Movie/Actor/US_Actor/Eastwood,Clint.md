@@ -188,14 +188,14 @@ dv_has_:
     azb: کلینت ایستوود
     bar: Eastwood Clint
     be: Клінт Іствуд
-    be-tarask: Клінт Істўуд
+    be_tarask: Клінт Істўуд
     bg: Клинт Истууд
     bi: Clint Eastwood
     bn: ক্লিন্ট ইস্টউড
     br: Clint Eastwood
     bs: Clint Eastwood
     ca: Clint Eastwood
-    cbk-zam: Clint Eastwood
+    cbk_zam: Clint Eastwood
     ckb: کلینت ئیستوود
     cs: Clint Eastwood
     cv: Клинт Иствут
@@ -260,7 +260,7 @@ dv_has_:
     pl: Clint Eastwood
     pms: Clint Eastwood
     pt: Clint Eastwood
-    pt-br: Clint Eastwood
+    pt_br: Clint Eastwood
     qu: Clint Eastwood
     ro: Clint Eastwood
     ru: Клинт Иствуд
@@ -288,13 +288,13 @@ dv_has_:
     yo: Clint Eastwood
     yue: 奇連伊士活
     zh: 克林·伊斯威特
-    zh-cn: 克林特·伊斯特伍德
-    zh-hans: 克林特·伊斯特伍德
-    zh-hant: 奇連·伊士活
-    zh-hk: 奇連·伊士活
+    zh_cn: 克林特·伊斯特伍德
+    zh_hans: 克林特·伊斯特伍德
+    zh_hant: 奇連·伊士活
+    zh_hk: 奇連·伊士活
     zh-my: 奇连·伊士活
-    zh-sg: 克林·伊士伍
-    zh-tw: 克林·伊斯威特
+    zh_sg: 克林·伊士伍
+    zh_tw: 克林·伊斯威特
     zu: UClint Eastwood
 ---
 # [[Eastwood,Clint]] 

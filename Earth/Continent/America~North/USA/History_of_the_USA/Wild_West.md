@@ -81,7 +81,7 @@ dv_has_:
   name_:
     ar: الغرب الأمريكي
     az: Vəhşi Qərb
-    be-tarask: Дзікі Захад
+    be_tarask: Дзікі Захад
     bg: Дивия запад
     ca: Far West
     cs: Divoký západ
@@ -119,12 +119,12 @@ dv_has_:
     tr: Vahşi Batı
     uk: Дикий Захід
     zh: 美國舊西部
-    zh-cn: 美国旧西部
-    zh-hans: 美国旧西部
-    zh-hant: 美國舊西部
-    zh-hk: 美國舊西部
-    zh-sg: 美国旧西部
-    zh-tw: 美國舊西部
+    zh_cn: 美国旧西部
+    zh_hans: 美国旧西部
+    zh_hant: 美國舊西部
+    zh_hk: 美國舊西部
+    zh_sg: 美国旧西部
+    zh_tw: 美國舊西部
 ---
 # [[Wild_West]] 
 

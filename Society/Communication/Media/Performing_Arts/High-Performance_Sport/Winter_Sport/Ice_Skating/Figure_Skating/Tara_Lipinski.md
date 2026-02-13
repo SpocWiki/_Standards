@@ -68,7 +68,7 @@ dv_has_:
     azb: تارا لیپینسکی
     ba: Тара Липински
     bar: Tara Lipinski
-    be-tarask: Тара Ліпінскі
+    be_tarask: Тара Ліпінскі
     bm: Tara Lipinski
     br: Tara Lipinski
     ca: Tara Lipinski
@@ -78,11 +78,11 @@ dv_has_:
     da: Tara Lipinski
     de: Tara Lipinski
     de-at: Tara Lipinski
-    de-ch: Tara Lipinski
+    de_ch: Tara Lipinski
     el: Τάρα Λιπίνσκι
     en: Tara Lipinski
-    en-ca: Tara Lipinski
-    en-gb: Tara Lipinski
+    en_ca: Tara Lipinski
+    en_gb: Tara Lipinski
     eo: Tara Lipinski
     es: Tara Lipinski
     et: Tara Lipinski
@@ -123,7 +123,7 @@ dv_has_:
     nap: Tara Lipinski
     nb: Tara Lipinski
     nds: Tara Lipinski
-    nds-nl: Tara Lipinski
+    nds_nl: Tara Lipinski
     nl: Tara Lipinski
     nn: Tara Lipinski
     nrm: Tara Lipinski
@@ -135,7 +135,7 @@ dv_has_:
     pms: Tara Lipinski
     prg: Tara Lipinski
     pt: Tara Lipinski
-    pt-br: Tara Lipinski
+    pt_br: Tara Lipinski
     rgn: Tara Lipinski
     rm: Tara Lipinski
     ro: Tara Lipinski
@@ -165,12 +165,12 @@ dv_has_:
     wo: Tara Lipinski
     yue: 塔拉·利平斯基
     zh: 塔拉·利平斯基
-    zh-cn: 塔拉·利平斯基
-    zh-hans: 塔拉·利平斯基
-    zh-hant: 塔拉·利平斯基
-    zh-hk: 塔拉·利平斯基
-    zh-sg: 塔拉·利平斯基
-    zh-tw: 塔拉·利平斯基
+    zh_cn: 塔拉·利平斯基
+    zh_hans: 塔拉·利平斯基
+    zh_hant: 塔拉·利平斯基
+    zh_hk: 塔拉·利平斯基
+    zh_sg: 塔拉·利平斯基
+    zh_tw: 塔拉·利平斯基
     zu: Tara Lipinski
 ---
 # [[Tara_Lipinski]] 

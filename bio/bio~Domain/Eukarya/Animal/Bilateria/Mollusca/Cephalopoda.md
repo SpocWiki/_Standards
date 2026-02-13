@@ -82,7 +82,7 @@ dv_has_:
     az: Başıayaqlılar
     bcl: Cephalopoda
     be: галаваногія
-    be-tarask: галаваногія
+    be_tarask: галаваногія
     bg: главоноги
     bs: Glavonošci
     ca: cefalòpode
@@ -90,7 +90,7 @@ dv_has_:
     cs: hlavonožci
     da: Cephalopoda
     de: Kopffüßer
-    de-ch: Kopffüsser
+    de_ch: Kopffüsser
     el: Κεφαλόποδα
     en: Cephalopod
     eo: Kapopieduloj
@@ -120,11 +120,11 @@ dv_has_:
     jv: Cephalopoda
     ka: თავფეხიანები
     kk: Басаяқтылар
-    kk-arab: باساياقتىلار
+    kk_arab: باساياقتىلار
     kk-cn: باساياقتىلار
-    kk-cyrl: Басаяқтылар
+    kk_cyrl: Басаяқтылар
     kk-kz: Басаяқтылар
-    kk-latn: Basayaqtılar
+    kk_latn: Basayaqtılar
     kk-tr: Basayaqtılar
     kn: ಶಿರಪಾದಿ
     ko: 두족류
@@ -154,8 +154,8 @@ dv_has_:
     sl: glavonožci
     sq: Cefalopodët
     sr: главоношци
-    sr-ec: Главоношци
-    sr-el: Glavonošci
+    sr_ec: Главоношци
+    sr_el: Glavonošci
     sv: bläckfiskar
     ta: தலைக்காலி
     th: ชั้นเซฟาโลพอด
@@ -170,12 +170,12 @@ dv_has_:
     wuu: 头足纲
     yue: 頭足綱
     zh: 头足纲
-    zh-cn: 头足纲
-    zh-hans: 头足纲
-    zh-hant: 頭足綱
-    zh-hk: 頭足綱
-    zh-sg: 头足纲
-    zh-tw: 頭足綱
+    zh_cn: 头足纲
+    zh_hans: 头足纲
+    zh_hant: 頭足綱
+    zh_hk: 頭足綱
+    zh_sg: 头足纲
+    zh_tw: 頭足綱
 ---
 # [[Cephalopoda]] 
 

@@ -81,9 +81,9 @@ dv_has_:
     uk: Міжнародно-правовий звичай
     vi: Tập quán quốc tế
     zh: 国际习惯法
-    zh-hans: 国际习惯法
-    zh-hant: 國際習慣法
-    zh-hk: 國際習慣法
+    zh_hans: 国际习惯法
+    zh_hant: 國際習慣法
+    zh_hk: 國際習慣法
 ---
 # [[Customary_international_Law]] 
 

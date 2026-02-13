@@ -153,7 +153,7 @@ dv_has_:
     bar: Scorpiones
     bcl: Amamatak
     be: скарпіёны
-    be-tarask: скарпіёны
+    be_tarask: скарпіёны
     bg: скорпиони
     bn: বৃশ্চিক
     br: Krug
@@ -170,13 +170,13 @@ dv_has_:
     dag: Nɔŋa
     de: Skorpione
     de-at: Scorpiones
-    de-ch: Scorpiones
+    de_ch: Scorpiones
     dga: naŋaa
     el: Σκορπιός
     eml: Scurpiòṅ
     en: scorpion
-    en-ca: Scorpiones
-    en-gb: Scorpiones
+    en_ca: Scorpiones
+    en_gb: Scorpiones
     eo: Skorpio
     es: escorpión
     et: Skorpionilised
@@ -249,7 +249,7 @@ dv_has_:
     nap: Scorpiones
     nb: skorpioner
     nds: Scorpiones
-    nds-nl: Scorpiones
+    nds_nl: Scorpiones
     ne: बिच्छी
     nia: Tongo
     nl: schorpioenen
@@ -268,7 +268,7 @@ dv_has_:
     pnb: بچھو
     ps: لړم
     pt: escorpião
-    pt-br: Scorpiones
+    pt_br: Scorpiones
     qu: Sira-sira
     rm: Scorpiones
     ro: Scorpion
@@ -287,7 +287,7 @@ dv_has_:
     so: Dabaqaroof
     sq: Akrepi
     sr: шкорпије
-    sr-ec: шкорпије
+    sr_ec: шкорпије
     srn: Kruktutere
     su: Langir
     sv: skorpioner
@@ -313,10 +313,10 @@ dv_has_:
     yi: עקדיש
     yue: 蠍子
     zh: 蠍目
-    zh-cn: 蝎目
-    zh-hans: 蝎目
-    zh-hant: 蝎目
-    zh-tw: 蠍目
+    zh_cn: 蝎目
+    zh_hans: 蝎目
+    zh_hant: 蝎目
+    zh_tw: 蠍目
     zu: Scorpiones
 ---
 # [[Scorpionida]]

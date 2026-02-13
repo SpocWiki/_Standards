@@ -100,7 +100,7 @@ dv_has_:
     ay: sullu
     az: Döl
     be: плод
-    be-tarask: плод
+    be_tarask: плод
     bg: фетус
     bn: ফিটাস
     bs: fetus
@@ -112,7 +112,7 @@ dv_has_:
     diq: fetus
     el: ανθρώπινο έμβρυο
     en: human fetus
-    en-gb: human foetus
+    en_gb: human foetus
     eo: homa feto
     es: feto humano
     et: inimloode
@@ -140,7 +140,7 @@ dv_has_:
     kk: ұрық
     ko: 태아
     ku: korpele
-    ku-latn: korpele
+    ku_latn: korpele
     la: fetus humanus
     lt: žmogaus vaisius
     lv: auglis
@@ -184,7 +184,7 @@ dv_has_:
     yo: oyun
     yue: 胎
     zh: 胎兒
-    zh-hans: 胎儿
+    zh_hans: 胎儿
 ---
 # [[Human_Fetus]] 
 

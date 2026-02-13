@@ -170,7 +170,7 @@ dv_has_:
     azb: اورال دیللری
     ba: Урал телдәре
     be: уральскія мовы
-    be-tarask: уральскія мовы
+    be_tarask: уральскія мовы
     bg: Уралски езици
     bn: উরালীয় ভাষাসমূহ
     br: yezhoù ouralek
@@ -185,7 +185,7 @@ dv_has_:
     dsb: uralske rěcy
     el: ουραλικές γλώσσες
     en: Uralic
-    en-gb: Uralic
+    en_gb: Uralic
     eo: urala lingvaro
     es: lenguas urálicas
     et: uurali keeled
@@ -261,7 +261,7 @@ dv_has_:
     smn: uraallii kielah
     sms: uraalʼlaž ǩiõl
     sr: уралски језици
-    sr-ec: уралски језици
+    sr_ec: уралски језици
     sv: uraliska språk
     sw: Lugha za Kiurali
     ta: யூரலிய மொழிகள்
@@ -269,7 +269,7 @@ dv_has_:
     tl: Mga wikang Uraliko
     tr: ural dilleri
     tt: урал телләре
-    tt-cyrl: урал телләре
+    tt_cyrl: урал телләре
     udm: Урал кылъёс
     uk: уральські мови
     ur: اورالی زبانیں
@@ -283,13 +283,13 @@ dv_has_:
     yi: אוראלישע שפראכן
     yue: 烏拉語系
     zh: 乌拉尔语系
-    zh-cn: 乌拉尔语系
-    zh-hans: 乌拉尔语系
-    zh-hant: 烏拉語系
-    zh-hk: 烏拉語系
-    zh-mo: 烏拉語系
-    zh-sg: 乌拉尔语系
-    zh-tw: 烏拉語系
+    zh_cn: 乌拉尔语系
+    zh_hans: 乌拉尔语系
+    zh_hant: 烏拉語系
+    zh_hk: 烏拉語系
+    zh_mo: 烏拉語系
+    zh_sg: 乌拉尔语系
+    zh_tw: 烏拉語系
 ---
 # [[LangFamily-Uralic]] 
 

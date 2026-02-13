@@ -238,7 +238,7 @@ dv_has_:
     ban: litium
     bcl: lityo
     be: літый
-    be-tarask: літ
+    be_tarask: літ
     bg: литий
     bho: लिथियम
     blk: လီတီယမ်
@@ -258,11 +258,11 @@ dv_has_:
     cy: lithiwm
     da: lithium
     de: Lithium
-    de-ch: Lithium
+    de_ch: Lithium
     el: λίθιο
     en: lithium
-    en-ca: lithium
-    en-gb: lithium
+    en_ca: lithium
+    en_gb: lithium
     eo: litio
     es: litio
     et: liitium
@@ -337,7 +337,7 @@ dv_has_:
     mr: लिथियम
     mrj: литий
     ms: litium
-    ms-arab: ليتيوم
+    ms_arab: ليتيوم
     mt: litju
     mul: Li
     my: လီသီယမ်
@@ -364,7 +364,7 @@ dv_has_:
     pnt: λίθιον
     ps: ليتيوم
     pt: lítio
-    pt-br: lítio
+    pt_br: lítio
     qu: lityu
     ro: litiu
     ru: литий
@@ -420,14 +420,14 @@ dv_has_:
     yue: 鋰
     zgh: ⴰⵍⵉⵜⵢⵓⵎ
     zh: 锂
-    zh-cn: 锂
-    zh-hans: 锂
-    zh-hant: 鋰
-    zh-hk: 鋰
-    zh-mo: 鋰
+    zh_cn: 锂
+    zh_hans: 锂
+    zh_hant: 鋰
+    zh_hk: 鋰
+    zh_mo: 鋰
     zh-my: 锂
-    zh-sg: 锂
-    zh-tw: 鋰
+    zh_sg: 锂
+    zh_tw: 鋰
     zu: umThanya
   number_of_:
     period: 2

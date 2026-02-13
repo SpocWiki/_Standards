@@ -110,7 +110,7 @@ dv_has_:
     azb: تؤرهمه
     ba: функцияның сығарылмаһы
     be: вытворная функцыі
-    be-tarask: вытворная функцыі
+    be_tarask: вытворная функцыі
     bg: производна
     bho: अवकलन
     bn: অন্তরজ
@@ -125,7 +125,7 @@ dv_has_:
     dtp: tungab
     el: παράγωγος
     en: derivative
-    en-gb: derivative
+    en_gb: derivative
     eo: derivaĵo
     es: derivada
     et: tuletis
@@ -162,7 +162,7 @@ dv_has_:
     mn: дериватив
     mr: अवकलन
     ms: terbitan
-    ms-arab: تربيتن
+    ms_arab: تربيتن
     mt: derivata
     my: ဒစ်ဖရန်ရှေးရှင်း
     nb: derivasjon
@@ -173,7 +173,7 @@ dv_has_:
     pl: pochodna
     pnb: مشتق
     pt: derivada
-    pt-br: derivada
+    pt_br: derivada
     ro: derivată
     ru: производная функции
     scn: dirivata
@@ -183,7 +183,7 @@ dv_has_:
     sl: odvod
     sq: derivati
     sr: извод
-    sr-ec: извод
+    sr_ec: извод
     sv: derivata
     szl: pochodno
     ta: வகையிடல்
@@ -201,11 +201,11 @@ dv_has_:
     yi: דעריוואטיוו
     yue: 導數
     zh: 導數
-    zh-cn: 导数
-    zh-hans: 导数
-    zh-hant: 導數
-    zh-sg: 导数
-    zh-tw: 導數
+    zh_cn: 导数
+    zh_hans: 导数
+    zh_hant: 導數
+    zh_sg: 导数
+    zh_tw: 導數
 ---
 # [[Derivative]] 
 

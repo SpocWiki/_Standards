@@ -59,7 +59,7 @@ dv_has_:
     ast: Ord. Chitonida
     az: Zirehli molyusklar
     be: панцырныя малюскі
-    be-tarask: панцырныя малюскі
+    be_tarask: панцырныя малюскі
     bg: Панцерни мекотели
     bs: Mnogoljušturaši
     ca: Poliplacòfor
@@ -107,15 +107,15 @@ dv_has_:
     oc: Polyplacophora
     pl: chitony
     pt: Polyplacophora
-    pt-br: Polyplacophora
+    pt_br: Polyplacophora
     ro: Poliplacofore
     ru: панцирные моллюски
     sk: Chitóny
     sl: bokoživčniki
     sq: Polyplacophora
     sr: Хитони
-    sr-ec: Хитони
-    sr-el: Hitoni
+    sr_ec: Хитони
+    sr_el: Hitoni
     sv: Ledsnäckor
     th: ชั้นพอลิพลาโคฟอรา
     tr: Kitonlar
@@ -124,12 +124,12 @@ dv_has_:
     vo: Polyplacophora
     war: Polyplacophora
     zh: 多板纲
-    zh-cn: 多板纲
-    zh-hans: 多板纲
-    zh-hant: 多板綱
-    zh-hk: 多板綱
-    zh-sg: 多板纲
-    zh-tw: 多板綱
+    zh_cn: 多板纲
+    zh_hans: 多板纲
+    zh_hant: 多板綱
+    zh_hk: 多板綱
+    zh_sg: 多板纲
+    zh_tw: 多板綱
 ---
 ## Phylogeny 
 -   « Ancestral Groups  

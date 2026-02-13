@@ -95,18 +95,18 @@ dv_has_:
     ast: Problemes de Hilbert
     ba: Гильберт проблемалары
     be: праблемы Гільберта
-    be-tarask: праблемы Гільбэрта
+    be_tarask: праблемы Гільбэрта
     bg: Хилбертови проблеми
     ca: problemes de Hilbert
     ckb: پرسیارەکانی ھیلبێرت
     cs: Hilbertovy problémy
     da: Hilberts problemer
     de: Hilbertsche Probleme
-    de-ch: Hilbertsche Probleme
+    de_ch: Hilbertsche Probleme
     el: Προβλήματα του Χίλμπερτ
     en: Hilbert's problems
-    en-ca: Hilbert's problems
-    en-gb: Hilbert's problems
+    en_ca: Hilbert's problems
+    en_gb: Hilbert's problems
     en-us: Hilbert's problems
     eo: problemaro de Hilberto
     es: problemas de Hilbert
@@ -132,15 +132,15 @@ dv_has_:
     pl: Problemy Hilberta
     pms: Problema ëd Hilbert
     pt: problemas de Hilbert
-    pt-br: problemas de Hilbert
+    pt_br: problemas de Hilbert
     ro: problemele lui Hilbert
     ru: проблемы Гильберта
     sh: Hilbertovi problemi
     sk: Hilbertove problémy
     sl: Hilbertovi problemi
     sr: Хилбертови проблеми
-    sr-ec: Хилбертови проблеми
-    sr-el: Hilbertovi problemi
+    sr_ec: Хилбертови проблеми
+    sr_el: Hilbertovi problemi
     sv: Hilbertproblemen
     th: ปัญหาของฮิลเบิร์ท
     tr: Hilbert problemleri
@@ -149,12 +149,12 @@ dv_has_:
     vi: Các bài toán của Hilbert
     yue: 囂拔問題
     zh: 希尔伯特的23个问题
-    zh-cn: 希尔伯特的23个问题
-    zh-hans: 希尔伯特的23个问题
-    zh-hant: 希爾伯特的23個問題
-    zh-hk: 希爾伯特的23個問題
-    zh-sg: 希尔伯特的23个问题
-    zh-tw: 希爾伯特的23個問題
+    zh_cn: 希尔伯特的23个问题
+    zh_hans: 希尔伯特的23个问题
+    zh_hant: 希爾伯特的23個問題
+    zh_hk: 希爾伯特的23個問題
+    zh_sg: 希尔伯特的23个问题
+    zh_tw: 希爾伯特的23個問題
 ---
 # [[Hilbert's_Problems]] 
 

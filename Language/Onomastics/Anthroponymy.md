@@ -55,15 +55,15 @@ dv_has_:
     az: antroponimika
     bcl: Antroponimya
     be: антрапаніміка
-    be-tarask: антрапаніміка
+    be_tarask: антрапаніміка
     bg: антропонимия
     ca: antroponímia
     cs: antroponomastika
     de: Anthroponymie
     el: ανθρωπονοματικά
     en: anthroponymy
-    en-ca: anthroponymy
-    en-gb: anthroponymy
+    en_ca: anthroponymy
+    en_gb: anthroponymy
     eo: homnomscienco
     es: antroponimia
     et: antroponüümika
@@ -86,12 +86,12 @@ dv_has_:
     lt: antroponimika
     lv: antroponīmija
     ms: antroponimi
-    ms-arab: انتروڤونيمي
+    ms_arab: انتروڤونيمي
     nl: antroponymie
     nn: antroponymi
     pl: antroponimia
     pt: antroponímia
-    pt-br: antroponímia
+    pt_br: antroponímia
     ro: antroponimie
     ru: антропонимика
     sk: Antropomastika
@@ -108,9 +108,9 @@ dv_has_:
     vec: antroponimia
     wa: antroponimeye
     zh: 人名學
-    zh-cn: 人名学
-    zh-hans: 人名学
-    zh-hant: 人名學
+    zh_cn: 人名学
+    zh_hans: 人名学
+    zh_hant: 人名學
 ---
 # [[Anthroponymy]] 
 

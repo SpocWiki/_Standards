@@ -99,7 +99,7 @@ dv_has_:
     azb: بوروکراسی
     ban: Birokrasi
     be: бюракратыя
-    be-tarask: бюракратыя
+    be_tarask: бюракратыя
     bg: бюрокрация
     bn: আমলাতন্ত্র
     bxr: Бюрократи
@@ -111,8 +111,8 @@ dv_has_:
     de: Bürokratie
     el: Γραφειοκρατία
     en: bureaucracy
-    en-ca: Bureaucracy
-    en-gb: bureaucracy
+    en_ca: Bureaucracy
+    en_gb: bureaucracy
     eo: burokratio
     es: burocracia
     et: bürokraatia
@@ -142,7 +142,7 @@ dv_has_:
     mk: бирократија
     ml: ഉദ്യോഗസ്ഥഭരണം
     ms: birokrasi
-    ms-arab: بيروکراسي
+    ms_arab: بيروکراسي
     nb: byråkrati
     ne: कर्मचारीतन्त्र
     nl: bureaucratie
@@ -150,7 +150,7 @@ dv_has_:
     oc: Burocracia
     pl: biurokracja
     pt: burocracia
-    pt-br: Burocracia
+    pt_br: Burocracia
     ro: birocrație
     ru: бюрократия
     rue: бюрокрація
@@ -182,14 +182,14 @@ dv_has_:
     yi: ביוראקראטיע
     yue: 官僚組織
     zh: 官僚组织
-    zh-cn: 官僚组织
-    zh-hans: 官僚组织
-    zh-hant: 官僚組織
-    zh-hk: 官僚組織
-    zh-mo: 官僚組織
+    zh_cn: 官僚组织
+    zh_hans: 官僚组织
+    zh_hant: 官僚組織
+    zh_hk: 官僚組織
+    zh_mo: 官僚組織
     zh-my: 官僚组织
-    zh-sg: 官僚组织
-    zh-tw: 官僚組織
+    zh_sg: 官僚组织
+    zh_tw: 官僚組織
 ---
 # [[Bureaucracy]] 
 

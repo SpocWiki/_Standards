@@ -160,7 +160,7 @@ dv_has_:
     bas: ŋgùy i jɔ̌p i nyu mapubi
     bcl: Enerhiyang solar
     be: сонечная энергія
-    be-tarask: сонечная энэргія
+    be_tarask: сонечная энэргія
     bg: Слънчева енергия
     bho: सौर उर्जा
     bn: সৌরশক্তি
@@ -226,7 +226,7 @@ dv_has_:
     ml: സൗരോർജ്ജം
     mr: सौर ऊर्जा
     ms: tenaga suria
-    ms-arab: تناݢ سوريا
+    ms_arab: تناݢ سوريا
     my: နေရောင်ခြည်စွမ်းအင်
     nan: Thài-iông-lêng
     nb: solenergi
@@ -279,13 +279,13 @@ dv_has_:
     yi: סאלאר ענערגיע
     yue: 太陽能
     zh: 太阳能
-    zh-cn: 太阳能
-    zh-hans: 太阳能
-    zh-hant: 太陽能
-    zh-hk: 太陽能
-    zh-mo: 太陽能
-    zh-sg: 太阳能
-    zh-tw: 太陽能
+    zh_cn: 太阳能
+    zh_hans: 太阳能
+    zh_hant: 太陽能
+    zh_hk: 太陽能
+    zh_mo: 太陽能
+    zh_sg: 太阳能
+    zh_tw: 太陽能
     zu: Isidlakalasi selanga
 ---
 # [[Solar_Energy]] 

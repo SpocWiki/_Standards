@@ -131,7 +131,7 @@ dv_has_:
     pap: Alga cora
     pl: krasnorosty
     pt: Rhodophyta
-    pt-br: Rhodophyta
+    pt_br: Rhodophyta
     ro: Algă roșie
     ru: Красные водоросли
     sh: Crvene alge
@@ -139,8 +139,8 @@ dv_has_:
     sl: rdeče alge
     sq: Rhodophyta
     sr: црвене алге
-    sr-ec: Црвене алге
-    sr-el: Crvene alge
+    sr_ec: Црвене алге
+    sr_el: Crvene alge
     sv: rödalger
     ta: சிவப்புப் பாசி
     th: สาหร่ายสีแดง
@@ -156,12 +156,12 @@ dv_has_:
     wuu: 红藻门
     xmf: ძოწული წყარჩანარეფი
     zh: 紅藻門
-    zh-cn: 红藻门
-    zh-hans: 红藻门
-    zh-hant: 紅藻
-    zh-hk: 紅藻
-    zh-sg: 红藻
-    zh-tw: 紅藻門
+    zh_cn: 红藻门
+    zh_hans: 红藻门
+    zh_hant: 紅藻
+    zh_hk: 紅藻
+    zh_sg: 红藻
+    zh_tw: 紅藻門
 ---
 # [[Rhodophyta]]
 

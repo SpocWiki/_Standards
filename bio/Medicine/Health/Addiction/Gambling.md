@@ -157,7 +157,7 @@ dv_has_:
     ba: ҡомарлы уйын
     bcl: sugal
     be: азартная гульня
-    be-tarask: азартная гульня
+    be_tarask: азартная гульня
     bew: maèn top
     bg: хазарт
     bho: जुआ
@@ -174,11 +174,11 @@ dv_has_:
     cy: gamblo
     da: gambling
     de: Glücksspiel
-    de-ch: Glücksspiel
+    de_ch: Glücksspiel
     el: τυχερά παιχνίδια
     en: gambling
-    en-ca: gambling
-    en-gb: gambling
+    en_ca: gambling
+    en_gb: gambling
     eo: hazardludado
     es: juego de apuestas
     et: hasartmäng
@@ -245,8 +245,8 @@ dv_has_:
     sl: igranje na srečo
     sq: kumar
     sr: коцкање
-    sr-ec: коцкање
-    sr-el: kockanje
+    sr_ec: коцкање
+    sr_el: kockanje
     sv: hasardspelande
     sw: kamari
     ta: சூதாட்டம்
@@ -266,9 +266,9 @@ dv_has_:
     yi: אזארטשפיל
     yue: 賭博
     zh: 赌博
-    zh-hant: 賭博
-    zh-hk: 賭博
-    zh-tw: 賭博
+    zh_hant: 賭博
+    zh_hk: 賭博
+    zh_tw: 賭博
 ---
 # [[Gambling]] 
 

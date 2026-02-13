@@ -107,7 +107,7 @@ dv_has_:
     ast: Autopsia
     az: meyityarma
     be: Секцыя (медыцына)
-    be-tarask: роспалаць
+    be_tarask: роспалаць
     bg: Аутопсия
     bn: ময়নাতদন্ত
     bs: Autopsija
@@ -139,7 +139,7 @@ dv_has_:
     ja: 検死
     ka: აუტოპსია
     kk: өлікті жару
-    kk-latn: ölikti jarw
+    kk_latn: ölikti jarw
     kn: ಶವಪರೀಕ್ಷೆ
     ko: 검시
     la: Obductio
@@ -166,7 +166,7 @@ dv_has_:
     sl: obdukcija
     sms: rååmašääʹvummuš
     sr: аутопсија
-    sr-ec: аутопсија
+    sr_ec: аутопсија
     sv: obduktion
     ta: பிணக்கூறு ஆய்வு
     te: శవ పరీక్ష
@@ -182,7 +182,7 @@ dv_has_:
     yi: פאלמעסונג
     yue: 驗屍
     zh: 驗屍
-    zh-hant: ɬalrŋ ɬ ɔ
+    zh_hant: ɬalrŋ ɬ ɔ
 ---
 # [[Autopsy]] 
 

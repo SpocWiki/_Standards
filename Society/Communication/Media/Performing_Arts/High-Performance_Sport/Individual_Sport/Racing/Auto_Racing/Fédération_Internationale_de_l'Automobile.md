@@ -91,7 +91,7 @@ dv_has_:
     az: Beynəlxalq Avtomobil Federasiyası
     ban: Fédérasi Automobil Internasional
     be: Міжнародная аўтамабільная федэрацыя
-    be-tarask: Міжнародная аўтамабільная фэдэрацыя
+    be_tarask: Міжнародная аўтамабільная фэдэрацыя
     bg: Международна автомобилна федерация
     bn: আন্তর্জাতিক অটোমোবাইল ফেডারেশন
     ca: Federació Internacional de l'Automòbil
@@ -101,8 +101,8 @@ dv_has_:
     de: Fédération Internationale de l’Automobile
     el: Διεθνής Ομοσπονδία Αυτοκινήτου
     en: Fédération Internationale de l'Automobile
-    en-ca: Fédération Internationale de l'Automobile
-    en-gb: Fédération Internationale de l'Automobile
+    en_ca: Fédération Internationale de l'Automobile
+    en_gb: Fédération Internationale de l'Automobile
     eo: Federacio Internacia de l’ Aŭtomobilo
     es: Federación Internacional del Automóvil
     et: FIA
@@ -134,7 +134,7 @@ dv_has_:
     nn: Det internasjonale bilsportforbundet
     pl: Fédération Internationale de l'Automobile
     pt: Federação Internacional do Automóvel
-    pt-br: Federação Internacional do Automóvel
+    pt_br: Federação Internacional do Automóvel
     ro: Federația Internațională de Automobilism
     ru: Международная автомобильная федерация
     sco: Fédération Internationale de l'Automobile
@@ -142,8 +142,8 @@ dv_has_:
     sl: FIA
     sq: Fédération Internationale de l'Automobile
     sr: ФИА
-    sr-ec: ФИА
-    sr-el: FIA
+    sr_ec: ФИА
+    sr_el: FIA
     sv: Fédération Internationale de l'Automobile
     tg: Федеросиюни байналмилалии автомобилронӣ
     th: สหพันธ์รถยนต์ระหว่างประเทศ
@@ -154,12 +154,12 @@ dv_has_:
     wuu: 国际汽车联合会
     yue: 國際汽車聯合會
     zh: 国际汽车联合会
-    zh-cn: 国际汽车联合会
-    zh-hans: 国际汽车联合会
-    zh-hant: 國際汽車聯盟
-    zh-hk: 國際汽車聯盟
-    zh-sg: 国际汽车联合会
-    zh-tw: 國際汽車聯盟
+    zh_cn: 国际汽车联合会
+    zh_hans: 国际汽车联合会
+    zh_hant: 國際汽車聯盟
+    zh_hk: 國際汽車聯盟
+    zh_sg: 国际汽车联合会
+    zh_tw: 國際汽車聯盟
 ---
 # [[Fédération_Internationale_de_l'Automobile]] 
 

@@ -121,7 +121,7 @@ dv_has_:
     ar: عِمالة
     ast: emplegu
     az: İş
-    be-tarask: занятасьць насельніцтва
+    be_tarask: занятасьць насельніцтва
     bn: কর্মসংস্থান
     br: implij
     bs: Zaposlenje
@@ -131,11 +131,11 @@ dv_has_:
     cy: Cyflogaeth
     da: ansættelse
     de: Beschäftigungsverhältnis
-    de-ch: Erwerbstätigkeit
+    de_ch: Erwerbstätigkeit
     el: εργασία
     en: employment
-    en-ca: employment
-    en-gb: employment
+    en_ca: employment
+    en_gb: employment
     eo: dungo
     es: empleo
     eu: Enplegu
@@ -178,7 +178,7 @@ dv_has_:
     pl: zatrudnienie
     ps: استخدام(ګومارنه)
     pt: vínculo empregatício
-    pt-br: vínculo empregatício
+    pt_br: vínculo empregatício
     ro: angajare
     ru: трудовые отношения
     sd: روزگار
@@ -187,8 +187,8 @@ dv_has_:
     sn: Mushandi
     sq: Punësimi
     sr: запослење
-    sr-ec: Запослење
-    sr-el: Zaposlenje
+    sr_ec: Запослење
+    sr_el: Zaposlenje
     su: Pakasaban
     sv: anställning
     sw: Ajira
@@ -206,9 +206,9 @@ dv_has_:
     yi: באַשעפֿטיקונג
     yue: 僱傭
     zh: 僱傭
-    zh-hans: 雇佣
-    zh-hant: 僱傭
-    zh-hk: 僱傭
+    zh_hans: 雇佣
+    zh_hant: 僱傭
+    zh_hk: 僱傭
 ---
 # [[Employment]] 
 

@@ -42,8 +42,8 @@ dv_has_:
     vi: Spirulida
     war: Spirulida
     zh: 旋乌贼目
-    zh-cn: 旋乌贼目
-    zh-hans: 旋乌贼目
+    zh_cn: 旋乌贼目
+    zh_hans: 旋乌贼目
 ---
 ## Phylogeny 
 

@@ -195,7 +195,7 @@ dv_has_:
     bas: sìbkalâk
     bcl: Coal
     be: вугаль
-    be-tarask: вугаль
+    be_tarask: вугаль
     bew: Stèngkul
     bg: каменни въглища
     bho: कोइला
@@ -288,7 +288,7 @@ dv_has_:
     pnb: کولہ
     ps: ډبرين سکاره
     pt: carvão mineral
-    pt-br: carvão mineral
+    pt_br: carvão mineral
     qu: K'illimsa
     ro: cărbune
     ru: ископаемый уголь
@@ -302,7 +302,7 @@ dv_has_:
     so: Dhuxul Dhagax
     sq: qymyr
     sr: угаљ
-    sr-ec: Угаљ
+    sr_ec: Угаљ
     su: Batubara
     sv: kol
     sw: Makaa mawe
@@ -326,8 +326,8 @@ dv_has_:
     ybb: Ŋkī
     yue: 煤
     zh: 煤
-    zh-hans: 煤
-    zh-hant: 煤
+    zh_hans: 煤
+    zh_hant: 煤
 ---
 # [[Coal]] 
 

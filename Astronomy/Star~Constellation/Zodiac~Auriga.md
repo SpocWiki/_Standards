@@ -120,7 +120,7 @@ dv_has_:
     az: Arabaçı
     ba: Йөксө
     be: Вознік
-    be-tarask: Возьнік
+    be_tarask: Возьнік
     bg: Колар
     bn: অরিগা মণ্ডল
     bo: ཤིང་རྟ་པའི་སྐར་ཚོམ་
@@ -134,12 +134,12 @@ dv_has_:
     cy: Auriga
     da: Kusken
     de: Fuhrmann
-    de-ch: Fuhrmann
+    de_ch: Fuhrmann
     diq: Paytonci
     el: Ηνίοχος
     en: Auriga
-    en-ca: Auriga
-    en-gb: Auriga
+    en_ca: Auriga
+    en_gb: Auriga
     eo: Koĉero
     es: Auriga
     et: Veomees
@@ -189,7 +189,7 @@ dv_has_:
     pl: gwiazdozbiór Woźnicy
     pnb: آجڑی تارہ چرمٹ
     pt: Auriga
-    pt-br: Auriga
+    pt_br: Auriga
     ro: Vizitiul
     ru: Возничий
     sah: Таһааччы

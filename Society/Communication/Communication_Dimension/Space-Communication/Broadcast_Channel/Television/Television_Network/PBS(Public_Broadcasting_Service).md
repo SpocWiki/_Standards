@@ -113,7 +113,7 @@ dv_has_:
     ar: بوبليك برودكاستنغ سيرفيس
     ast: Public Broadcasting Service
     az: PBS
-    be-tarask: PBS
+    be_tarask: PBS
     bg: PBS
     bn: পিবিএস
     ca: Public Broadcasting Service
@@ -123,7 +123,7 @@ dv_has_:
     de: PBS
     el: PBS
     en: PBS
-    en-gb: PBS
+    en_gb: PBS
     eo: Public Broadcasting Service
     es: PBS
     eu: PBS
@@ -151,7 +151,7 @@ dv_has_:
     pl: PBS
     pnb: پی بی ایس
     pt: PBS
-    pt-br: PBS
+    pt_br: PBS
     ro: PBS
     ru: Public Broadcasting Service
     sh: Public Broadcasting Service
@@ -170,12 +170,12 @@ dv_has_:
     vi: PBS
     wuu: PBS
     zh: 公共电视网
-    zh-cn: 公共电视网
-    zh-hans: 公共电视网
-    zh-hant: 公共電視網
-    zh-hk: 公共電視網
-    zh-sg: 公共电视网
-    zh-tw: 公共電視網
+    zh_cn: 公共电视网
+    zh_hans: 公共电视网
+    zh_hant: 公共電視網
+    zh_hk: 公共電視網
+    zh_sg: 公共电视网
+    zh_tw: 公共電視網
 ---
 # [[PBS(Public_Broadcasting_Service)]] 
 

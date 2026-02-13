@@ -82,7 +82,7 @@ dv_has_:
     ast: Johannes Georg Bednorz
     azb: یوهانس جرج بدنورز
     be: Іаханес Георг Беднарц
-    be-tarask: Георг Бэднарц
+    be_tarask: Георг Бэднарц
     bg: Йохан Георг Беднорц
     bn: ইয়োহানেস গেয়র্গ বেন্ডনর্ৎস
     ca: Johannes Georg Bednorz
@@ -129,7 +129,7 @@ dv_has_:
     pl: Johannes Georg Bednorz
     pnb: یوہانز بیڈنورذ
     pt: Johannes Georg Bednorz
-    pt-br: Johannes Georg Bednorz
+    pt_br: Johannes Georg Bednorz
     ro: Johannes Georg Bednorz
     ru: Йоханнес Георг Беднорц
     sco: Georg Bednorz
@@ -152,7 +152,7 @@ dv_has_:
     yo: Johannes Georg Bednorz
     yue: 比得諾茲
     zh: 约翰内斯·贝德诺尔茨
-    zh-hant: 約翰尼斯·比得諾茲
+    zh_hant: 約翰尼斯·比得諾茲
 ---
 # [[Bednorz,Georg]] 
 

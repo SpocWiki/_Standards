@@ -238,7 +238,7 @@ dv_has_:
     bar: Kontinent
     bcl: kontinente
     be: кантынент
-    be-tarask: кантынэнт
+    be_tarask: кантынэнт
     bew: benua
     bg: континент
     bho: महाद्वीप सब
@@ -259,7 +259,7 @@ dv_has_:
     ckb: کیشوەر
     co: cuntinente
     crh: qıta
-    crh-latn: qıta
+    crh_latn: qıta
     crh-ro: kîta
     cs: kontinent
     csb: kòntinent
@@ -273,8 +273,8 @@ dv_has_:
     ee: anyigbãga
     el: ήπειρος
     en: continent
-    en-ca: continent
-    en-gb: continent
+    en_ca: continent
+    en_gb: continent
     en-us: continent
     eo: kontinento
     es: continente
@@ -357,7 +357,7 @@ dv_has_:
     lv: kontinents
     lzh: 大陸
     mai: महादेश
-    map-bms: bawana
+    map_bms: bawana
     mdf: континентсь
     mg: kontinenta
     mhr: континент
@@ -371,7 +371,7 @@ dv_has_:
     mr: खंड
     mrj: континент
     ms: benua
-    ms-arab: بنوا
+    ms_arab: بنوا
     mt: kontinent
     mwl: cuntinente
     my: တိုက်
@@ -381,7 +381,7 @@ dv_has_:
     nap: cuntinente
     nb: kontinent
     nds: Eerddeel
-    nds-nl: kontinint
+    nds_nl: kontinint
     ne: महादेश
     new: महादेश
     nia: danö sebolo
@@ -406,7 +406,7 @@ dv_has_:
     pnb: براعظم
     ps: لويه وچه
     pt: continente
-    pt-br: continente
+    pt_br: continente
     qu: allpa pacha
     rm: continent
     rmy: kontinento
@@ -436,7 +436,7 @@ dv_has_:
     so: qaaradaha
     sq: kontinenti
     sr: континент
-    sr-ec: континент
+    sr_ec: континент
     st: kontinente
     stq: Waarelddeele
     su: buana
@@ -453,8 +453,8 @@ dv_has_:
     tpi: kontinen
     tr: kıta
     tt: кыйтга
-    tt-cyrl: кыйтга
-    tt-latn: qitğa
+    tt_cyrl: кыйтга
+    tt_latn: qitğa
     tum: nthantha
     tw: asaasepɔn
     udm: континент
@@ -479,14 +479,14 @@ dv_has_:
     yue: 大洲
     zgh: ⴰⵎⵏⵥⴰⵡ
     zh: 大洲
-    zh-cn: 大洲
-    zh-hans: 大洲
-    zh-hant: 大洲
-    zh-hk: 大洲
-    zh-mo: 大洲
+    zh_cn: 大洲
+    zh_hans: 大洲
+    zh_hant: 大洲
+    zh_hk: 大洲
+    zh_mo: 大洲
     zh-my: 大洲
-    zh-sg: 大洲
-    zh-tw: 大洲
+    zh_sg: 大洲
+    zh_tw: 大洲
   parent_class: '[[Geology/Landform]]'
   properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'
 dv_is_:

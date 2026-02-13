@@ -40,7 +40,7 @@ dv_has_:
     oc: Hemiscorpiidae
     pl: Hemiscorpiidae
     pt: Hemiscorpiidae
-    pt-br: Hemiscorpiidae
+    pt_br: Hemiscorpiidae
     ro: Hemiscorpiidae
     ru: Hemiscorpiidae
     sq: Hemiscorpiidae
@@ -49,9 +49,9 @@ dv_has_:
     vo: Hemiscorpiidae
     war: Hemiscorpiidae
     zh: 半蝎科
-    zh-cn: 半蝎科
-    zh-hans: 半蝎科
-    zh-tw: 半蠍科
+    zh_cn: 半蝎科
+    zh_hans: 半蝎科
+    zh_tw: 半蠍科
 ---
 ## Phylogeny 
 

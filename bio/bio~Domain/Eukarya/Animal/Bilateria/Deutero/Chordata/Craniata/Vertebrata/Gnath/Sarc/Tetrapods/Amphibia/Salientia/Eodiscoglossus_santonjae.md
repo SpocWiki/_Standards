@@ -35,8 +35,8 @@ dv_has_:
     vi: Eodiscoglossus
     war: Eodiscoglossus
     zh: 始盘舌蟾属
-    zh-cn: 始盘舌蟾属
-    zh-hans: 始盘舌蟾属
+    zh_cn: 始盘舌蟾属
+    zh_hans: 始盘舌蟾属
 ---
 # Eodiscoglossus santonjae 
 

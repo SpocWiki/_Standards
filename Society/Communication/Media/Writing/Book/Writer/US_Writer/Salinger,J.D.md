@@ -111,7 +111,7 @@ dv_has_:
     ba: Джером Дэвид Сэлинджер
     bcl: J. D. Salinger
     be: Джэром Дэвід Сэлінджэр
-    be-tarask: Джэром Сэлінджэр
+    be_tarask: Джэром Сэлінджэр
     bg: Джеръм Дейвид Селинджър
     bn: জে. ডি. স্যালিঞ্জার
     br: Jerome David Salinger
@@ -122,12 +122,12 @@ dv_has_:
     cy: J. D. Salinger
     da: J.D. Salinger
     de: J. D. Salinger
-    de-ch: J. D. Salinger
+    de_ch: J. D. Salinger
     diq: J. D. Salinger
     el: Τζερόμ Ντέιβιντ Σάλιντζερ
     en: J. D. Salinger
-    en-ca: J. D. Salinger
-    en-gb: J. D. Salinger
+    en_ca: J. D. Salinger
+    en_gb: J. D. Salinger
     eo: Jerome David Salinger
     es: J. D. Salinger
     et: Jerome David Salinger
@@ -175,7 +175,7 @@ dv_has_:
     pl: J.D. Salinger
     pnb: جیروم ڈیوڈ سیلنگر
     pt: J. D. Salinger
-    pt-br: J. D. Salinger
+    pt_br: J. D. Salinger
     ro: J. D. Salinger
     ru: Джером Дэвид Сэлинджер
     rue: Джером Дейвид Селинджер

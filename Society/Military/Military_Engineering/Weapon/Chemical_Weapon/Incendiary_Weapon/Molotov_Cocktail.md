@@ -81,7 +81,7 @@ dv_has_:
     az: Molotov kokteyli
     azb: مولوتوف کوکتلی
     be: Кактэйль Молатава
-    be-tarask: кактэйль Молатава
+    be_tarask: кактэйль Молатава
     bg: Коктейл Молотов
     bn: মলটভ ককটেইল
     ca: còctel molotov
@@ -128,7 +128,7 @@ dv_has_:
     pl: koktajl Mołotowa
     pms: Botelia Molotov
     pt: cocktail Molotov
-    pt-br: coquetel Molotov
+    pt_br: coquetel Molotov
     ro: Cocteil Molotov
     ru: Коктейль Молотова
     sh: Molotovljev koktel
@@ -136,8 +136,8 @@ dv_has_:
     sl: koktajl Molotova
     sq: Bomba Molotov
     sr: Молотовљев коктел
-    sr-ec: Молотовљев коктел
-    sr-el: Molotovljev koktel
+    sr_ec: Молотовљев коктел
+    sr_el: Molotovljev koktel
     sv: Molotovcocktail
     th: ระเบิดขวด
     tr: Molotov kokteyli
@@ -147,12 +147,12 @@ dv_has_:
     vi: chai cháy
     yue: 汽油彈
     zh: 汽油彈
-    zh-cn: 燃烧瓶
-    zh-hans: 燃烧瓶
-    zh-hant: 汽油彈
-    zh-hk: 汽油彈
-    zh-sg: 燃烧瓶
-    zh-tw: 汽油彈
+    zh_cn: 燃烧瓶
+    zh_hans: 燃烧瓶
+    zh_hant: 汽油彈
+    zh_hk: 汽油彈
+    zh_sg: 燃烧瓶
+    zh_tw: 汽油彈
 ---
 # [[Molotov_Cocktail]] 
 

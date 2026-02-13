@@ -91,7 +91,7 @@ dv_has_:
     ar: بلمرة
     ast: polimerización
     be: полімерызацыя
-    be-tarask: палімэрызацыя
+    be_tarask: палімэрызацыя
     bg: полимеризация
     bn: পলিমারকরণ বিক্রিয়া
     bs: polimerizacija
@@ -100,7 +100,7 @@ dv_has_:
     de: Polymerisation
     el: πολυμερισμός
     en: polymerization
-    en-gb: polymerisation
+    en_gb: polymerisation
     eo: polimerigo
     es: polimerización
     et: polümerisatsioon
@@ -119,11 +119,11 @@ dv_has_:
     it: polimerizzazione
     ja: 重合反応
     kk: полимерлеу
-    kk-arab: پولىيمەرلەۋ
+    kk_arab: پولىيمەرلەۋ
     kk-cn: پولىيمەرلەۋ
-    kk-cyrl: полимерлеу
+    kk_cyrl: полимерлеу
     kk-kz: полимерлеу
-    kk-latn: polïmerlew
+    kk_latn: polïmerlew
     kk-tr: polïmerlew
     ko: 중합
     ky: полимерлөө
@@ -144,8 +144,8 @@ dv_has_:
     sl: polimerizacija
     sq: Polimerizimi
     sr: полимеризација
-    sr-ec: полимеризација
-    sr-el: polimerizacija
+    sr_ec: полимеризација
+    sr_el: polimerizacija
     su: polimérisasi
     sv: polymerisation
     ta: பல்லுறுப்பாக்கல்
@@ -157,12 +157,12 @@ dv_has_:
     vi: phản ứng trùng hợp
     yue: 聚合反應
     zh: 聚合
-    zh-cn: 聚合
-    zh-hans: 聚合
-    zh-hant: 聚合
-    zh-hk: 聚合
-    zh-sg: 聚合
-    zh-tw: 聚合
+    zh_cn: 聚合
+    zh_hans: 聚合
+    zh_hant: 聚合
+    zh_hk: 聚合
+    zh_sg: 聚合
+    zh_tw: 聚合
 ---
 # [[Polymerization]] 
 

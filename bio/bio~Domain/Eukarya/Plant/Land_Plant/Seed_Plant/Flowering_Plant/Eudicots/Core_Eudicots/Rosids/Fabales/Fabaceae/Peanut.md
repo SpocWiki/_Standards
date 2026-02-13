@@ -274,7 +274,7 @@ Krugosvet_article_archived_: nauka_i_tehnika/biologiya/ARAHIS_PODZEMNI.html
 NBN_System_Key: NBNSYS0000014622
 dv_has_:
   name_:
-    aeb-arab: كاكويّة
+    aeb_arab: كاكويّة
     af: Arachis hypogaea
     agq: ǹtsɔ̀ŋndzə̄
     ak: Nkatie
@@ -292,7 +292,7 @@ dv_has_:
     bas: hiond√®
     bbj: biyɛ́
     bcl: Mani
-    be-tarask: арэх земляны
+    be_tarask: арэх земляны
     bg: фъстък
     bi: Peanut
     bjn: Kacang cina
@@ -409,7 +409,7 @@ dv_has_:
     pl: orzacha podziemna
     pnb: مونگ پھلی
     pt: amendoim
-    pt-br: Arachis hypogaea
+    pt_br: Arachis hypogaea
     qu: Inchik
     ro: Alun de pământ
     roa-tara: arachide
@@ -462,10 +462,10 @@ dv_has_:
     yue: 花生
     za: Duhdoem
     zh: 花生
-    zh-cn: 花生
-    zh-hans: 花生
-    zh-hant: 花生
-    zh-tw: 花生
+    zh_cn: 花生
+    zh_hans: 花生
+    zh_hant: 花生
+    zh_tw: 花生
     zu: ilintogomane
 ---
 # [[Peanut]] 

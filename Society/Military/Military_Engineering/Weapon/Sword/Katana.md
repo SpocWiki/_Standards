@@ -48,7 +48,7 @@ dv_has_:
     ast: Katana
     az: Katana
     be: Катана
-    be-tarask: Катана
+    be_tarask: Катана
     bg: Катана
     bn: কাতানা
     br: Katana
@@ -102,7 +102,7 @@ dv_has_:
     pms: Katan-a
     pnb: کٹانہ
     pt: catana
-    pt-br: catana
+    pt_br: catana
     ro: katana
     ru: катана
     rw: Katana
@@ -111,8 +111,8 @@ dv_has_:
     sl: katana
     sq: Katana (shpatë japoneze)
     sr: катана
-    sr-ec: катана
-    sr-el: katana
+    sr_ec: катана
+    sr_el: katana
     sv: katana
     ta: கட்டானா
     th: คะตะนะ
@@ -124,7 +124,7 @@ dv_has_:
     wuu: 刀 (日本刀)
     yue: 刀
     zh: 刀
-    zh-hant: 刀 (日本刀)
+    zh_hant: 刀 (日本刀)
 ---
 # [[Katana]] 
 

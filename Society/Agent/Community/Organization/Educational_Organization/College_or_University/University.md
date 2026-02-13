@@ -249,7 +249,7 @@ dv_has_:
     bbc: unipersitas
     bcl: Unibersidad
     be: універсітэт
-    be-tarask: унівэрсытэт
+    be_tarask: унівэрсытэт
     bew: uniwersitèt
     bg: университет
     bho: यूनिवर्सिटी
@@ -271,14 +271,14 @@ dv_has_:
     cy: prifysgol
     da: universitet
     de: Universität
-    de-ch: Universität
+    de_ch: Universität
     diq: universıte
     dsb: uniwersita
     dtp: universiti
     el: πανεπιστήμιο
     en: university
-    en-ca: university
-    en-gb: university
+    en_ca: university
+    en_gb: university
     eo: universitato
     es: universidad
     et: ülikool
@@ -356,7 +356,7 @@ dv_has_:
     mnw: တက္ကသဵု
     mr: विद्यापीठ
     ms: universiti
-    ms-arab: اونيۏرسيتي
+    ms_arab: اونيۏرسيتي
     my: တက္ကသိုလ်
     mzn: دونشجار
     nah: huēyitlamachticalli
@@ -364,7 +364,7 @@ dv_has_:
     nap: uneverzetà
     nb: universitet
     nds: Universität
-    nds-nl: universiteat
+    nds_nl: universiteat
     ne: विश्वविद्यालय
     new: विश्वविद्यालय
     nia: Universitas
@@ -388,7 +388,7 @@ dv_has_:
     pnb: یونیورسٹی
     ps: پوهنتون
     pt: universidade
-    pt-br: universidade
+    pt_br: universidade
     pwn: daigaku
     qu: yachay suntur
     rmf: universiteetos
@@ -416,8 +416,8 @@ dv_has_:
     so: jaamacad
     sq: universitet
     sr: универзитет
-    sr-ec: универзитет
-    sr-el: univerzitet
+    sr_ec: универзитет
+    sr_el: univerzitet
     stq: Universität
     sv: universitet
     sw: chuo kikuu
@@ -452,14 +452,14 @@ dv_has_:
     za: dayoz
     zgh: ⵜⴰⵙⴷⴰⵡⵉⵜ
     zh: 大學
-    zh-cn: 大学
-    zh-hans: 大学
-    zh-hant: 大學
-    zh-hk: 大學
-    zh-mo: 大學
+    zh_cn: 大学
+    zh_hans: 大学
+    zh_hant: 大學
+    zh_hk: 大學
+    zh_mo: 大學
     zh-my: 大学
-    zh-sg: 大学
-    zh-tw: 大學
+    zh_sg: 大学
+    zh_tw: 大學
     zu: inyuvesi
 ---
 # [[University]] 

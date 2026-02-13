@@ -60,12 +60,12 @@ dv_has_:
     vi: Acanthostega
     war: Acanthostega
     zh: 棘被螈屬
-    zh-cn: 棘石螈属
-    zh-hans: 棘石螈属
-    zh-hant: 棘被螈屬
-    zh-hk: 棘石螈屬
-    zh-sg: 棘石螈属
-    zh-tw: 棘被螈屬
+    zh_cn: 棘石螈属
+    zh_hans: 棘石螈属
+    zh_hant: 棘被螈屬
+    zh_hk: 棘石螈屬
+    zh_sg: 棘石螈属
+    zh_tw: 棘被螈屬
 ---
 ## [[Acanthostega]]
 

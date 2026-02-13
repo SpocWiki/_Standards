@@ -62,7 +62,7 @@ dv_has_:
     ast: Extremófilo
     az: Ekstremofil
     be: Экстрэмафілы
-    be-tarask: экстрэмафіл
+    be_tarask: экстрэмафіл
     bg: Екстремофил
     br: Ekstremofil
     ca: extremofília
@@ -107,8 +107,8 @@ dv_has_:
     sl: ekstremofil
     sms: ekstremofiil
     sr: Ekstremofil
-    sr-ec: Екстремофил
-    sr-el: Ekstremofil
+    sr_ec: Екстремофил
+    sr_el: Ekstremofil
     sv: extremofil
     ta: உச்சவிரும்பி
     th: อิกซ์ตรีโมไฟล์
@@ -119,12 +119,12 @@ dv_has_:
     wuu: 嗜极生物
     yue: 嗜極生物
     zh: 嗜極生物
-    zh-cn: 嗜极生物
-    zh-hans: 嗜极生物
-    zh-hant: 嗜極生物
-    zh-hk: 嗜極生物
-    zh-sg: 嗜极生物
-    zh-tw: 嗜極生物
+    zh_cn: 嗜极生物
+    zh_hans: 嗜极生物
+    zh_hant: 嗜極生物
+    zh_hk: 嗜極生物
+    zh_sg: 嗜极生物
+    zh_tw: 嗜極生物
 ---
 # [[Extremophile]] 
 

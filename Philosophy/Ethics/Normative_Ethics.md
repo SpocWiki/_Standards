@@ -6,15 +6,15 @@ dv_has_:
     ast: Ética normativa
     az: Normativ etika
     ba: Норматив этика
-    be-tarask: нарматыўная этыка
+    be_tarask: нарматыўная этыка
     bn: আদর্শগত নীতিশাস্ত্র
     ca: ètica normativa
     cs: Normativní etika
     de: normative Ethik
     el: κανονιστική ηθική
     en: normative ethics
-    en-ca: Normative ethics
-    en-gb: normative ethics
+    en_ca: Normative ethics
+    en_gb: normative ethics
     eo: normiga etiko
     es: Ética normativa
     eu: Etika normatibo
@@ -36,7 +36,7 @@ dv_has_:
     pl: Etyka normatywna
     pms: Ética normativa
     pt: ética normativa
-    pt-br: Ética normativa
+    pt_br: Ética normativa
     ro: etică normativă
     ru: нормативная этика
     sk: Normatívna etika

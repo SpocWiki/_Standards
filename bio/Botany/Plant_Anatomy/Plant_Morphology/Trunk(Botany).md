@@ -97,7 +97,7 @@ dv_has_:
     azb: گؤوده
     ba: Олон (ботаника)
     be: ствол дрэва
-    be-tarask: ствол
+    be_tarask: ствол
     bg: Ствол
     br: Kef
     bs: Stablo
@@ -132,7 +132,7 @@ dv_has_:
     it: tronco
     ja: 樹幹
     kk: діңгек
-    kk-latn: diŋgek
+    kk_latn: diŋgek
     ko: 나무줄기
     la: truncus
     ln: Mobímbí
@@ -146,13 +146,13 @@ dv_has_:
     ms: batang pokok
     my: ပင်စည်
     nb: stamme
-    nds-nl: stamme
+    nds_nl: stamme
     nl: stam
     nn: stamme
     nrm: Troun
     pl: pień
     pt: tronco
-    pt-br: tronco
+    pt_br: tronco
     qu: Yura kurku
     ru: ствол
     scn: Zuccu
@@ -173,12 +173,12 @@ dv_has_:
     wa: Buk
     yue: 樹幹
     zh: 樹幹
-    zh-cn: 树干
-    zh-hans: 树干
-    zh-hant: 樹幹
-    zh-hk: 樹幹
-    zh-sg: 树干
-    zh-tw: 樹幹
+    zh_cn: 树干
+    zh_hans: 树干
+    zh_hant: 樹幹
+    zh_hk: 樹幹
+    zh_sg: 树干
+    zh_tw: 樹幹
 ---
 # [[Trunk(Botany)]] 
 

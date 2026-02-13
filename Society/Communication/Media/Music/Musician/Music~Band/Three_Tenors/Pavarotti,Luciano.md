@@ -123,7 +123,7 @@ dv_has_:
     az: Luçano Pavarotti
     ba: Лучано Паваротти
     be: Лучана Павароці
-    be-tarask: Лючана Павароцьці
+    be_tarask: Лючана Павароцьці
     bg: Лучано Павароти
     br: Luciano Pavarotti
     bs: Luciano Pavarotti
@@ -132,11 +132,11 @@ dv_has_:
     cy: Luciano Pavarotti
     da: Luciano Pavarotti
     de: Luciano Pavarotti
-    de-ch: Luciano Pavarotti
+    de_ch: Luciano Pavarotti
     el: Λουτσιάνο Παβαρόττι
     en: Luciano Pavarotti
-    en-ca: Luciano Pavarotti
-    en-gb: Luciano Pavarotti
+    en_ca: Luciano Pavarotti
+    en_gb: Luciano Pavarotti
     eo: Luciano Pavarotti
     es: Luciano Pavarotti
     et: Luciano Pavarotti
@@ -190,7 +190,7 @@ dv_has_:
     pl: Luciano Pavarotti
     pms: Luciano Pavarotti
     pt: Luciano Pavarotti
-    pt-br: Luciano Pavarotti
+    pt_br: Luciano Pavarotti
     qu: Luciano Pavarotti
     ro: Luciano Pavarotti
     ru: Лучано Паваротти
@@ -202,7 +202,7 @@ dv_has_:
     sl: Luciano Pavarotti
     sq: Luciano Pavarotti
     sr: Лучано Павароти
-    sr-ec: Лучано Павароти
+    sr_ec: Лучано Павароти
     sv: Luciano Pavarotti
     ta: லூசியானோ பாவ்ராட்டி
     th: ลูชาโน ปาวารอตตี
@@ -218,8 +218,8 @@ dv_has_:
     xmf: ლუჩანო პავაროტი
     yue: 巴伐洛堤
     zh: 卢奇亚诺·帕瓦罗蒂
-    zh-hk: 魯治亞奴·巴伐洛堤
-    zh-tw: 盧奇亞諾·帕華洛帝
+    zh_hk: 魯治亞奴·巴伐洛堤
+    zh_tw: 盧奇亞諾·帕華洛帝
 ---
 # [[Pavarotti,Luciano]] 
 

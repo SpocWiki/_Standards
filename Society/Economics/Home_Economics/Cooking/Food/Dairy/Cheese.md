@@ -269,7 +269,7 @@ dv_has_:
     bar: Kaas
     bcl: keso
     be: сыр
-    be-tarask: сыр
+    be_tarask: сыр
     bew: Kéju
     bg: сирене
     bn: চিজ
@@ -284,7 +284,7 @@ dv_has_:
     ckb: پەنیر
     co: casgiu
     crh: penir
-    crh-latn: penir
+    crh_latn: penir
     cs: sýr
     cu: сꙑръ
     cv: чăкăт
@@ -299,8 +299,8 @@ dv_has_:
     el: τυρί
     eml: furmàj
     en: cheese
-    en-ca: cheese
-    en-gb: cheese
+    en_ca: cheese
+    en_gb: cheese
     eo: fromaĝo
     es: queso
     et: juust
@@ -374,7 +374,7 @@ dv_has_:
     lzh: 湩酪
     mad: Kèju
     mai: छुर्पी
-    map-bms: keju
+    map_bms: keju
     mg: frômazy
     mhr: сыр
     mi: tīhi
@@ -385,7 +385,7 @@ dv_has_:
     mr: चीझ
     mrj: тара
     ms: keju
-    ms-arab: کيجو
+    ms_arab: کيجو
     mt: ġobon
     mwl: queiso
     my: ဒိန်ခဲ
@@ -395,7 +395,7 @@ dv_has_:
     nap: caso
     nb: ost
     nds: Kees
-    nds-nl: keze
+    nds_nl: keze
     ne: पनिर
     new: चीज
     nl: kaas
@@ -416,7 +416,7 @@ dv_has_:
     pms: Formagg
     ps: پوڅه
     pt: queijo
-    pt-br: queijo
+    pt_br: queijo
     qu: kisu
     rif: kisu
     rm: chaschiel
@@ -444,8 +444,8 @@ dv_has_:
     so: jiss
     sq: djathi
     sr: сир
-    sr-ec: сир
-    sr-el: sir
+    sr_ec: сир
+    sr_el: sir
     srn: kasi
     st: kase
     stq: Sies
@@ -483,13 +483,13 @@ dv_has_:
     yue: 芝士
     zh: 奶酪
     zh-cn: 奶酪
-    zh-hans: 奶酪
-    zh-hant: 起司
-    zh-hk: 芝士
-    zh-mo: 芝士
+    zh_hans: 奶酪
+    zh_hant: 起司
+    zh_hk: 芝士
+    zh_mo: 芝士
     zh-my: 乳酪
-    zh-sg: 起士
-    zh-tw: 起司
+    zh_sg: 起士
+    zh_tw: 起司
     zu: ushizi
 ---
 # [[Cheese]] 🧀 

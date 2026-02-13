@@ -196,7 +196,7 @@ dv_has_:
     ba: Азимов Айзек
     bcl: Isaac Asimov
     be: Айзэк Азімаў
-    be-tarask: Айзэк Азімаў
+    be_tarask: Айзэк Азімаў
     bg: Айзък Азимов
     bjn: Isaac Asimov
     bn: আইজাক আসিমভ
@@ -211,11 +211,11 @@ dv_has_:
     dag: Isaac Asimov
     de: Isaac Asimov
     de-at: Isaac Asimov
-    de-ch: Isaac Asimov
+    de_ch: Isaac Asimov
     el: Ισαάκ Ασίμωφ
     en: Isaac Asimov
-    en-ca: Isaac Asimov
-    en-gb: Isaac Asimov
+    en_ca: Isaac Asimov
+    en_gb: Isaac Asimov
     eo: Isaac Asimov
     es: Isaac Asimov
     et: Isaac Asimov
@@ -258,7 +258,7 @@ dv_has_:
     lo: ໄອຊັກ ແອຊິມອບ
     lt: Isaac Asimov
     lv: Aizeks Azimovs
-    map-bms: Isaac Asimov
+    map_bms: Isaac Asimov
     mg: Isaac Asimov
     mk: Исак Асимов
     ml: ഐസക് അസിമൊവ്
@@ -280,7 +280,7 @@ dv_has_:
     pnb: آئزک ایزیموف
     ps: اسحاق عاصموف
     pt: Isaac Asimov
-    pt-br: Isaac Asimov
+    pt_br: Isaac Asimov
     qu: Isaac Asimov
     ro: Isaac Asimov
     ru: Айзек Азимов
@@ -300,14 +300,14 @@ dv_has_:
     ta: ஐசாக் அசிமோவ்
     te: ఐజాక్ అసిమోవ్
     tg: Айзек Азимов
-    tg-cyrl: Айзек Азимов
+    tg_cyrl: Айзек Азимов
     th: ไอแซค อสิมอฟ
     tk: Isaak Ozimov
     tl: Isaac Asimov
     tok: jan Isa Asimo
     tr: Isaac Asimov
     tt: Айзек Азимов
-    tt-cyrl: Айзек Азимов
+    tt_cyrl: Айзек Азимов
     ug: ئىسساك ئاسىموۋ
     uk: Айзек Азімов
     ur: آئزک ایسیموو

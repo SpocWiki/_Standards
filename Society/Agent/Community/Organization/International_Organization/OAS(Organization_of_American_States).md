@@ -155,7 +155,7 @@ dv_has_:
     az: Amerika Dövlətləri Təşkilatı
     ba: Америка дәүләттәре ойошмаһы
     be: Арганізацыя амерыканскіх дзяржаў
-    be-tarask: Арганізацыя амэрыканскіх дзяржаваў
+    be_tarask: Арганізацыя амэрыканскіх дзяржаваў
     bg: Организация на американските държави
     br: Aozadur ar Stadoù Amerikan
     bs: Organizacija američkih država
@@ -192,11 +192,11 @@ dv_has_:
     ja: 米州機構
     ka: ამერიკის სახელმწიფოთა ორგანიზაცია
     kk: Америка мемлекеттері ұйымы
-    kk-arab: امەرىيكا مەملەكەتتەرى ۇيىمى
+    kk_arab: امەرىيكا مەملەكەتتەرى ۇيىمى
     kk-cn: امەرىيكا مەملەكەتتەرى ۇيىمى
-    kk-cyrl: Америка мемлекеттері ұйымы
+    kk_cyrl: Америка мемлекеттері ұйымы
     kk-kz: Америка мемлекеттері ұйымы
-    kk-latn: Amerïka memleketteri uýımı
+    kk_latn: Amerïka memleketteri uýımı
     kk-tr: Amerïka memleketteri uýımı
     ko: 미주 기구
     ko-kp: 아메리카국가기구
@@ -218,7 +218,7 @@ dv_has_:
     pnb: امریکی ریاستاں دی تنظیم
     ps: د امریکایي هېوادونو سازمان
     pt: Organização dos Estados Americanos
-    pt-br: Organização dos Estados Americanos
+    pt_br: Organização dos Estados Americanos
     qu: Awya Yala Mama Llaqtakunap Tantanakuynin
     ro: Organizația Statelor Americane
     ru: Организация американских государств
@@ -227,8 +227,8 @@ dv_has_:
     sk: Organizácia amerických štátov
     sl: Organizacija ameriških držav
     sr: Организација америчких држава
-    sr-ec: Организација америчких држава
-    sr-el: Organizacija američkih država
+    sr_ec: Организација америчких држава
+    sr_el: Organizacija američkih država
     sv: Organization of American States
     ta: அமெரிக்க நாடுகள் அமைப்பு
     th: องค์การนานารัฐอเมริกา
@@ -246,12 +246,12 @@ dv_has_:
     yo: Àgbájọ ilẹ̀ àwọn Orílẹ̀-èdè Amẹ́ríkà
     yue: 美洲國家組織
     zh: 美洲国家组织
-    zh-cn: 美洲国家组织
-    zh-hans: 美洲国家组织
-    zh-hant: 美洲國家組織
-    zh-hk: 美洲國家組織
-    zh-sg: 美洲国家组织
-    zh-tw: 美洲國家組織
+    zh_cn: 美洲国家组织
+    zh_hans: 美洲国家组织
+    zh_hant: 美洲國家組織
+    zh_hk: 美洲國家組織
+    zh_sg: 美洲国家组织
+    zh_tw: 美洲國家組織
 ---
 # [[OAS(Organization_of_American_States)]] 
 

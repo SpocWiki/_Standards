@@ -105,7 +105,7 @@ dv_has_:
     az: dil fəlsəfəsi
     ba: тел философияһы
     be: філасофія мовы
-    be-tarask: філязофія мовы
+    be_tarask: філязофія мовы
     bg: философия на езика
     bn: ভাষার দর্শন
     bo: སྐད་ཀྱི་མཚན་ཉིད་རིག་པ།
@@ -117,8 +117,8 @@ dv_has_:
     de: Sprachphilosophie
     el: φιλοσοφία της γλώσσας
     en: philosophy of language
-    en-ca: philosophy of language
-    en-gb: philosophy of language
+    en_ca: philosophy of language
+    en_gb: philosophy of language
     eo: filozofio de lingvo
     es: filosofía del lenguaje
     et: keelefilosoofia
@@ -141,9 +141,9 @@ dv_has_:
     ja: 言語哲学
     ka: ენის ფილოსოფია
     kk: лингвистикалық философия
-    kk-arab: لىينگۆىيستىيكالىق فىيلوسوفىييا
-    kk-cyrl: лингвистикалық философия
-    kk-latn: lïngvïstïkalıq fïlosofïya
+    kk_arab: لىينگۆىيستىيكالىق فىيلوسوفىييا
+    kk_cyrl: лингвистикалық философия
+    kk_latn: lïngvïstïkalıq fïlosofïya
     ko: 언어철학
     la: philosophia linguae
     lb: Sproochphilosophie
@@ -162,7 +162,7 @@ dv_has_:
     pms: Filosofìa dël lengagi
     ps: د ژبې فلسفه
     pt: filosofia da linguagem
-    pt-br: filosofia da linguagem
+    pt_br: filosofia da linguagem
     ro: filozofia limbajului
     ru: философия языка
     sco: filosofie o leid
@@ -174,8 +174,8 @@ dv_has_:
     sms: ǩiõllfilosofia
     sq: filozofi e gjuhës
     sr: филозофија језика
-    sr-ec: филозофија језика
-    sr-el: filozofija jezika
+    sr_ec: филозофија језика
+    sr_el: filozofija jezika
     sv: språkfilosofi
     ta: மொழி மெய்யியல்
     tg: фалсафаи забон
@@ -189,8 +189,8 @@ dv_has_:
     yue: 語言哲學
     zh: 语言哲学
     zh-hans: 语言哲学
-    zh-hant: 語言哲學
-    zh-hk: 語言哲學
+    zh_hant: 語言哲學
+    zh_hk: 語言哲學
 ---
 # [[Philosophy_of_Language]] 
 

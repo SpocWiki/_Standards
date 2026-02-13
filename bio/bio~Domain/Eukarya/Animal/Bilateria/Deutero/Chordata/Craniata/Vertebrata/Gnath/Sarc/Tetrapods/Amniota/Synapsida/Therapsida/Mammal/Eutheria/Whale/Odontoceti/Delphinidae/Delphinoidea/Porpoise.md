@@ -97,7 +97,7 @@ dv_has_:
     ban: Porpoise
     bcl: Porpoise
     be: Марскія свінні
-    be-tarask: Марскія сьвіньні
+    be_tarask: Марскія сьвіньні
     bg: морски свине
     br: Morhoc'h
     ca: marsopa
@@ -169,9 +169,9 @@ dv_has_:
     wuu: 鼠海豚科
     yue: 鼠海豚科
     zh: 鼠海豚科
-    zh-cn: 鼠海豚科
-    zh-hans: 鼠海豚科
-    zh-tw: 鼠海豚科
+    zh_cn: 鼠海豚科
+    zh_hans: 鼠海豚科
+    zh_tw: 鼠海豚科
 ---
 # [[Porpoise]] 
 

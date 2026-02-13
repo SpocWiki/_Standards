@@ -58,7 +58,7 @@ dv_has_:
     ast: suprematismu
     az: suprematizm
     be: супрэматызм
-    be-tarask: супрэматызм
+    be_tarask: супрэматызм
     bg: супрематизъм
     br: Dreistelouriezh
     bs: Suprematizam
@@ -70,8 +70,8 @@ dv_has_:
     de: Suprematismus
     el: Σουπρεματισμός
     en: Suprematism
-    en-ca: Suprematism
-    en-gb: Suprematism
+    en_ca: Suprematism
+    en_gb: Suprematism
     eo: Suprematismo
     es: suprematismo
     et: suprematism
@@ -101,7 +101,7 @@ dv_has_:
     nn: suprematisme
     pl: Suprematyzm
     pt: suprematismo
-    pt-br: Suprematismo
+    pt_br: Suprematismo
     ro: suprematism
     ru: супрематизм
     sco: Suprematism
@@ -112,8 +112,8 @@ dv_has_:
     smn: suprematism
     sms: suprematismm
     sr: супрематизам
-    sr-ec: супрематизам
-    sr-el: suprematizam
+    sr_ec: супрематизам
+    sr_el: suprematizam
     sv: suprematism
     th: อนุตรนิยม
     tr: Süprematizm
@@ -123,12 +123,12 @@ dv_has_:
     wuu: 至上主义
     yue: 至尊主義
     zh: 至上主义
-    zh-cn: 至上主义
-    zh-hans: 至上主义
-    zh-hant: 至上主義
-    zh-hk: 至上主義
-    zh-sg: 至上主义
-    zh-tw: 至上主義
+    zh_cn: 至上主义
+    zh_hans: 至上主义
+    zh_hant: 至上主義
+    zh_hk: 至上主義
+    zh_sg: 至上主义
+    zh_tw: 至上主義
 ---
 # [[Suprematism]] 
 

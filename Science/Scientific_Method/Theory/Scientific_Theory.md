@@ -87,7 +87,7 @@ dv_has_:
     ar: نظرية علمية
     ast: Teoría científica
     az: Elmi nəzəriyyə
-    be-tarask: навуковая тэорыя
+    be_tarask: навуковая тэорыя
     bn: বৈজ্ঞানিক তত্ত্ব
     ca: teoria científica
     ckb: بیردۆزی زانستی
@@ -156,9 +156,9 @@ dv_has_:
     yue: 科學理論
     zgh: ⵜⵉⵥⵕⵉ ⵜⵓⵙⵙⵏⴰⵏⵜ
     zh: 科學理論
-    zh-cn: 科学理论
-    zh-hans: 科学理论
-    zh-hant: 科學理論
+    zh_cn: 科学理论
+    zh_hans: 科学理论
+    zh_hant: 科學理論
     zu: Umchaciso wenzululwazi
 ---
 # [[Scientific_Theory]] 

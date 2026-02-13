@@ -256,7 +256,7 @@ Wolfram_Language_unit_code: '"Years"'
 dv_has_:
   name_:
     ab: ашықәс
-    aeb-arab: عام
+    aeb_arab: عام
     af: jaar
     ak: afi
     am: አመት
@@ -280,7 +280,7 @@ dv_has_:
     bar: Joar
     bcl: taon
     be: год
-    be-tarask: год
+    be_tarask: год
     bg: година
     bho: साल
     bjn: tahun
@@ -290,7 +290,7 @@ dv_has_:
     bs: godina
     bxr: жэл
     ca: any
-    cbk-zam: año
+    cbk_zam: año
     cdo: nièng
     ce: шо
     ceb: tuig
@@ -309,7 +309,7 @@ dv_has_:
     da: år
     de: Jahr
     de-at: Jahr
-    de-ch: Jahr
+    de_ch: Jahr
     dsb: lěto
     dtp: toun
     dty: वर्ष
@@ -317,8 +317,8 @@ dv_has_:
     el: έτος
     eml: an
     en: year
-    en-ca: year
-    en-gb: year
+    en_ca: year
+    en_gb: year
     eo: jaro
     es: año
     et: aasta
@@ -403,7 +403,7 @@ dv_has_:
     lzh: 年
     mag: वर्ष
     mai: साल
-    map-bms: taun
+    map_bms: taun
     mdf: киза
     mg: taona
     mhr: идалык
@@ -416,7 +416,7 @@ dv_has_:
     mr: वर्ष
     mrj: и
     ms: tahun
-    ms-arab: تاهون
+    ms_arab: تاهون
     my: သက္ကရာဇ်
     myv: ие
     mzn: سال
@@ -425,7 +425,7 @@ dv_has_:
     nap: anno
     nb: år
     nds: Johr
-    nds-nl: jaor
+    nds_nl: jaor
     ne: वर्ष
     new: दँ
     nl: jaar
@@ -446,7 +446,7 @@ dv_has_:
     pnb: ورھا
     ps: کال
     pt: ano
-    pt-br: ano(s)
+    pt_br: ano(s)
     pwn: cavilj
     qu: wata
     rmf: bereȟ
@@ -478,7 +478,7 @@ dv_has_:
     so: sanad
     sq: viti
     sr: година
-    sr-el: godina
+    sr_el: godina
     srn: yari
     su: taun
     sv: år
@@ -489,7 +489,7 @@ dv_has_:
     tay: kawas
     te: సంవత్సరం
     tg: сол
-    tg-latn: sol
+    tg_latn: sol
     th: ปี
     tl: taon
     tok: tenpo sike
@@ -497,7 +497,7 @@ dv_has_:
     tr: yıl
     ts: lembe
     tt: ел
-    tt-latn: yıl
+    tt_latn: yıl
     udm: ар
     ug: يىل
     uk: рік
@@ -519,14 +519,14 @@ dv_has_:
     za: bi
     zea: jaer
     zh: 年
-    zh-cn: 年
-    zh-hans: 年
-    zh-hant: 年
-    zh-hk: 年
-    zh-mo: 年
+    zh_cn: 年
+    zh_hans: 年
+    zh_hant: 年
+    zh_hk: 年
+    zh_mo: 年
     zh-my: 年
-    zh-sg: 年
-    zh-tw: 年
+    zh_sg: 年
+    zh_tw: 年
 ---
 # [[Unit~Year]] 
 

@@ -108,7 +108,7 @@ dv_has_:
     ast: reproducción asexual
     ba: Енси булмаған үрсеү
     be: бясполае размнажэнне
-    be-tarask: бязстацевае размнажэньне
+    be_tarask: бязстацевае размнажэньне
     bg: Безполово размножаване
     bn: অযৌন প্রজনন
     bs: bespolno razmnožavanje
@@ -145,17 +145,17 @@ dv_has_:
     ka: უსქესო გამრავლება
     kab: Amyaraw arzufan
     kk: Жыныссыз көбею
-    kk-arab: جىنىسسىز كوبەيۋ
+    kk_arab: جىنىسسىز كوبەيۋ
     kk-cn: جىنىسسىز كوبەيۋ
-    kk-cyrl: Жыныссыз көбею
+    kk_cyrl: Жыныссыз көбею
     kk-kz: Жыныссыз көбею
-    kk-latn: Jınıssız köbeyu
+    kk_latn: Jınıssız köbeyu
     kk-tr: Jınıssız köbeyu
     kn: ಅಬೀಜೋತ್ಪಾದನೆ
     ko: 무성생식
     ku: pirbûna nezayendî
-    ku-arab: زێدەبوونا بێزایەندی
-    ku-latn: pirbûna nezayendî
+    ku_arab: زێدەبوونا بێزایەندی
+    ku_latn: pirbûna nezayendî
     lfn: reprodui asesal
     lt: nelytinis dauginimasis
     lv: bezdzimumvairošanās
@@ -192,12 +192,12 @@ dv_has_:
     xh: I-asexual reproduction
     yue: 無性繁殖
     zh: 无性生殖
-    zh-cn: 无性生殖
-    zh-hans: 无性生殖
-    zh-hant: 無性生殖
-    zh-hk: 無性生殖
-    zh-sg: 无性生殖
-    zh-tw: 無性生殖
+    zh_cn: 无性生殖
+    zh_hans: 无性生殖
+    zh_hant: 無性生殖
+    zh_hk: 無性生殖
+    zh_sg: 无性生殖
+    zh_tw: 無性生殖
 ---
 # [[Asexual_Reproduction]] 
 

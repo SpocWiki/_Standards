@@ -254,7 +254,7 @@ dv_has_:
     bar: Buddhismus
     bcl: Buddadamma
     be: будызм
-    be-tarask: будызм
+    be_tarask: будызм
     bew: Buda
     bg: Будизъм
     bho: बौद्ध धर्म
@@ -368,7 +368,7 @@ dv_has_:
     lzh: 佛教
     mad: Buddhisme
     mai: बौद्ध धर्म
-    map-bms: Agama Buddha
+    map_bms: Agama Buddha
     mdf: Буддизмась
     mg: Bodisma
     min: Agamo Buddha
@@ -386,7 +386,7 @@ dv_has_:
     nan: Hu̍t-kàu
     nb: buddhisme
     nds: Buddhismus
-    nds-nl: boeddhisme
+    nds_nl: boeddhisme
     ne: बौद्ध धर्म
     new: बुद्ध धर्म
     nl: boeddhisme
@@ -436,7 +436,7 @@ dv_has_:
     so: Buddhism
     sq: budizëm
     sr: будизам
-    sr-ec: Будизам
+    sr_ec: Будизам
     su: Agama Buddha
     sv: buddhism
     sw: Ubuddha
@@ -454,7 +454,7 @@ dv_has_:
     tr: Budizm
     ts: Vubhuda
     tt: буддизм
-    tt-cyrl: буддизм
+    tt_cyrl: буддизм
     udm: буддизм
     ug: بۇددا دىنى
     uk: буддизм
@@ -476,11 +476,11 @@ dv_has_:
     zea: Boeddhisme
     zgh: ⵜⴰⴱⵓⴷⵉⵜ
     zh: 佛教
-    zh-cn: 佛教
-    zh-hans: 佛教
-    zh-hant: 佛教
-    zh-hk: 佛教
-    zh-tw: 佛教
+    zh_cn: 佛教
+    zh_hans: 佛教
+    zh_hant: 佛教
+    zh_hk: 佛教
+    zh_tw: 佛教
     zu: UbuBudha
 ---
 # [[Buddhism]] 

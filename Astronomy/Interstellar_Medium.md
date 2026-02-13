@@ -26,7 +26,7 @@ dv_has_:
     ar: وسط بين نجمي
     ast: mediu interestelar
     be: міжзорнае асяроддзе
-    be-tarask: міжзорнае асяродзьдзе
+    be_tarask: міжзорнае асяродзьдзе
     bg: Междузвездна среда
     bs: Međuzvjezdana materija
     ca: medi interestel·lar
@@ -85,7 +85,7 @@ dv_has_:
     sl: medzvezdna snov
     sq: Materia nderyjore
     sr: међузвездани медијум
-    sr-ec: међузвездани медијум
+    sr_ec: међузвездани медијум
     su: Médium antarbéntang
     sv: interstellärt medium
     ta: விண்மீன்களிடை ஊடகம்
@@ -93,7 +93,7 @@ dv_has_:
     th: มวลสารระหว่างดาว
     tr: Yıldızlararası madde
     tt: йолдызара мохит
-    tt-cyrl: йолдызара мохит
+    tt_cyrl: йолдызара мохит
     uk: Міжзоряне середовище
     ur: بین النجمی واسطہ
     vi: môi trường liên sao

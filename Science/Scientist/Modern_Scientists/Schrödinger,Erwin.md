@@ -189,7 +189,7 @@ dv_has_:
     azb: اروین شرودینگر
     ba: Эрвин Шрёдингер
     be: Эрвін Шродзінгер
-    be-tarask: Эрвін Шрэдынгер
+    be_tarask: Эрвін Шрэдынгер
     bg: Ервин Шрьодингер
     bho: इरविन स्क्रोडिंगर
     bn: এরভিন শ্রোডিঙার
@@ -209,8 +209,8 @@ dv_has_:
     diq: Erwin Schrödinger
     el: Έρβιν Σρέντινγκερ
     en: Erwin Schrödinger
-    en-ca: Erwin Schrödinger
-    en-gb: Erwin Schrödinger
+    en_ca: Erwin Schrödinger
+    en_gb: Erwin Schrödinger
     eo: Erwin Schrödinger
     es: Erwin Schrödinger
     et: Erwin Schrödinger
@@ -279,7 +279,7 @@ dv_has_:
     pnb: ارون شروڈنگر
     ps: آروین شروډینګر
     pt: Erwin Schrödinger
-    pt-br: Erwin Schrödinger
+    pt_br: Erwin Schrödinger
     qu: Erwin Schrödinger
     ro: Erwin Schrödinger
     ru: Эрвин Шрёдингер
@@ -320,8 +320,8 @@ dv_has_:
     yue: 薛定諤
     za: Erwin Schrödinger
     zh: 埃尔温·薛定谔
-    zh-hant: 埃爾溫·薛丁格
-    zh-tw: 埃爾溫·薛丁格
+    zh_hant: 埃爾溫·薛丁格
+    zh_tw: 埃爾溫·薛丁格
 ---
 # [[Schrödinger,Erwin]] 
 

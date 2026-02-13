@@ -571,7 +571,7 @@ dv_has_:
     bbc: Perserikatan Bangso-Bangso
     bcl: Nagkakasararong Nacion
     be: Арганізацыя Аб’яднаных Нацый
-    be-tarask: Арганізацыя Аб’яднаных Нацыяў
+    be_tarask: Арганізацыя Аб’яднаных Нацыяў
     bg: Организация на обединените нации
     bho: यूनाइटेड नेशंस
     bi: Yunaeted Nesen
@@ -586,7 +586,7 @@ dv_has_:
     bug: Asseddingenna Bangsa Bangsae
     bxr: Нэгэдэмэл Үндэһэтэнэй Байгуулга
     ca: Organització de les Nacions Unides
-    cbk-zam: Naciones Unidas
+    cbk_zam: Naciones Unidas
     cdo: Lièng-hăk-guók
     ce: Вовшахтоьхначу Къаьмнийн Цхьанакхетаралла
     ceb: Hiniusang mga Nasod
@@ -595,7 +595,7 @@ dv_has_:
     ckb: نەتەوە یەکگرتووەکان
     co: Organizazione di i Nazioni Uniti
     crh: Birleşken Milletler Teşkilâtı
-    crh-latn: Birleşken Milletler Teşkilâtı
+    crh_latn: Birleşken Milletler Teşkilâtı
     cs: Organizace spojených národů
     cv: Пĕрлешнĕ Нацисен Организацийĕ
     cy: Y Cenhedloedd Unedig
@@ -612,8 +612,8 @@ dv_has_:
     el: Οργανισμός Ηνωμένων Εθνών
     eml: Nasiòun Unìdi
     en: United Nations
-    en-ca: United Nations
-    en-gb: United Nations
+    en_ca: United Nations
+    en_gb: United Nations
     en-us: United Nations
     eo: Unuiĝintaj Nacioj
     es: Organización de las Naciones Unidas
@@ -709,7 +709,7 @@ dv_has_:
     mad: Parsarekatan Bangsa-Bangsa
     mag: सञ्जुक्तराष्ट्र
     mai: संयुक्त राष्ट्र सङ्घ
-    map-bms: Perserikatan Bangsa-Bangsa
+    map_bms: Perserikatan Bangsa-Bangsa
     mg: Firenena Mikambana
     mhr: Иктыш ушнышо Наций-влак Организаций
     mi: Kotahitanga o Ngā Iwi o te Ao
@@ -722,7 +722,7 @@ dv_has_:
     mos: United Nations
     mr: संयुक्त राष्ट्रे
     ms: Pertubuhan Bangsa-Bangsa Bersatu
-    ms-arab: ڤرتوبوهن بڠسا٢ برساتو
+    ms_arab: ڤرتوبوهن بڠسا٢ برساتو
     mt: Ġnus Magħquda
     mwl: Naciones Ounidas
     my: ကုလသမဂ္ဂ
@@ -732,7 +732,7 @@ dv_has_:
     nap: ONU
     nb: De forente nasjoner
     nds: Vereente Natschonen
-    nds-nl: Vereanegde Naties
+    nds_nl: Vereanegde Naties
     ne: संयुक्त राष्ट्र संघ
     new: संयुक्त राष्ट्र संघ
     nia: Perserikatan Bangsa-Bangsa
@@ -760,7 +760,7 @@ dv_has_:
     pnb: یونائیٹڈ نیشنز
     ps: ملگري ملتونه
     pt: Organização das Nações Unidas
-    pt-br: Organização das Nações Unidas
+    pt_br: Organização das Nações Unidas
     pwn: marekakunian
     qu: Huñusqa Nasyunkuna
     rm: Organisaziun da las Naziuns unidas
@@ -798,8 +798,8 @@ dv_has_:
     so: Qaramada Midoobay
     sq: Organizata e Kombeve të Bashkuara
     sr: Организација уједињених нација
-    sr-ec: Организација уједињених нација
-    sr-el: Organizacija ujedinjenih nacija
+    sr_ec: Организација уједињених нација
+    sr_el: Organizacija ujedinjenih nacija
     srn: Verenigde Nâsi
     ss: Mhlabuhlangene
     st: Machaba A Kopaneng
@@ -816,7 +816,7 @@ dv_has_:
     te: ఐక్యరాజ్య సమితి
     tet: Nasoens Unidas
     tg: Созмони Милали Муттаҳид
-    tg-cyrl: Созмони Милали Муттаҳид
+    tg_cyrl: Созмони Милали Муттаҳид
     th: สหประชาชาติ
     ti: ሕቡራት ሃገራት
     tk: Birleşen Milletler Guramasy
@@ -857,14 +857,14 @@ dv_has_:
     za: Lenzhozgoz
     zgh: ⵜⵉⵎⵜⵜⴰ ⵉⵎⵓⵏⵏ
     zh: 联合国
-    zh-cn: 联合国
-    zh-hans: 联合国
-    zh-hant: 聯合國
-    zh-hk: 聯合國
-    zh-mo: 聯合國
+    zh_cn: 联合国
+    zh_hans: 联合国
+    zh_hant: 聯合國
+    zh_hk: 聯合國
+    zh_mo: 聯合國
     zh-my: 联合国
-    zh-sg: 联合国
-    zh-tw: 聯合國
+    zh_sg: 联合国
+    zh_tw: 聯合國
     zu: Amazwe Ohlangeneyo
 ---
 # [[UN(United_Nations)]] 

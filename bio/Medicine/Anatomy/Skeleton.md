@@ -170,7 +170,7 @@ dv_has_:
     azb: ایسکلت
     ba: Һөлдә
     be: шкілет
-    be-tarask: шкілет
+    be_tarask: шкілет
     bg: скелет
     bn: কঙ্কাল
     br: skeledenn
@@ -227,7 +227,7 @@ dv_has_:
     ko: 뼈대
     ks: أڈجہٕ کَرٛنٛز
     ku: hestiyepeyker
-    ku-latn: hestiyepeyker
+    ku_latn: hestiyepeyker
     kw: korf eskern
     ky: Скелет
     la: sceletus
@@ -292,7 +292,7 @@ dv_has_:
     tok: kiwen sijelo
     tr: iskelet
     tt: скелет
-    tt-cyrl: скелет
+    tt_cyrl: скелет
     udm: лысьӧм
     uk: скелет
     ur: استخوان بندی
@@ -305,7 +305,7 @@ dv_has_:
     yi: סקעלעט
     yue: 骨骼
     zh: 骨骼系統
-    zh-hans: 骨骼系统
+    zh_hans: 骨骼系统
 ---
 # [[Skeleton]] 
 

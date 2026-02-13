@@ -186,7 +186,7 @@ dv_has_:
     ba: Мартин Хайдеггер
     bar: Martin Heidegger
     be: Марцін Хайдэгер
-    be-tarask: Мартын Гайдэгер
+    be_tarask: Мартын Гайдэгер
     bg: Мартин Хайдегер
     bn: মার্টিন হাইডেগার
     br: Martin Heidegger
@@ -201,11 +201,11 @@ dv_has_:
     da: Martin Heidegger
     de: Martin Heidegger
     de-at: Martin Heidegger
-    de-ch: Martin Heidegger
+    de_ch: Martin Heidegger
     el: Μάρτιν Χάιντεγκερ
     en: Martin Heidegger
-    en-ca: Martin Heidegger
-    en-gb: Martin Heidegger
+    en_ca: Martin Heidegger
+    en_gb: Martin Heidegger
     en-us: Martin Heidegger
     eo: Martin Heidegger
     es: Martin Heidegger
@@ -264,7 +264,7 @@ dv_has_:
     nap: Martin Heidegger
     nb: Martin Heidegger
     nds: Martin Heidegger
-    nds-nl: Martin Heidegger
+    nds_nl: Martin Heidegger
     new: मार्टिन हाइडेगर
     nl: Martin Heidegger
     nn: Martin Heidegger
@@ -279,7 +279,7 @@ dv_has_:
     pms: Martin Heidegger
     ps: مارټین هایډېګر
     pt: Martin Heidegger
-    pt-br: Martin Heidegger
+    pt_br: Martin Heidegger
     qu: Martin Heidegger
     rm: Martin Heidegger
     ro: Martin Heidegger
@@ -294,8 +294,8 @@ dv_has_:
     sl: Martin Heidegger
     sq: Martin Heidegger
     sr: Мартин Хајдегер
-    sr-ec: Мартин Хајдегер
-    sr-el: Martin Hajdeger
+    sr_ec: Мартин Хајдегер
+    sr_el: Martin Hajdeger
     sv: Martin Heidegger
     sw: Martin Heidegger
     ta: மார்ட்டின் எய்டெகர்
@@ -321,9 +321,9 @@ dv_has_:
     yue: 海德格
     zgh: ⵎⴰⵔⵜⵉⵏ ⵀⴰⵢⴷⵉⴳⵔ
     zh: 马丁·海德格尔
-    zh-cn: 马丁·海德格尔
-    zh-hant: 海德格
-    zh-tw: 海德格
+    zh_cn: 马丁·海德格尔
+    zh_hant: 海德格
+    zh_tw: 海德格
     zu: Martin Heidegger
 ---
 # [[Heidegger,Martin]] 

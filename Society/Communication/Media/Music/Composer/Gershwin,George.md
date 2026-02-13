@@ -142,7 +142,7 @@ dv_has_:
     ast: George Gershwin
     az: Corc Gerşvin
     be: Джордж Гершвін
-    be-tarask: Джордж Гершвін
+    be_tarask: Джордж Гершвін
     bg: Джордж Гершуин
     br: George Gershwin
     ca: George Gershwin
@@ -153,8 +153,8 @@ dv_has_:
     de: George Gershwin
     el: Τζορτζ Γκέρσουιν
     en: George Gershwin
-    en-ca: George Gershwin
-    en-gb: George Gershwin
+    en_ca: George Gershwin
+    en_gb: George Gershwin
     eo: George Gershwin
     es: George Gershwin
     et: George Gershwin
@@ -193,7 +193,7 @@ dv_has_:
     pap: George Gershwin
     pl: George Gershwin
     pt: George Gershwin
-    pt-br: George Gershwin
+    pt_br: George Gershwin
     ro: George Gershwin
     ru: Джордж Гершвин
     scn: George Gershwin
@@ -203,8 +203,8 @@ dv_has_:
     sl: George Gershwin
     sq: George Gershwin
     sr: Џорџ Гершвин
-    sr-ec: Џорџ Гершвин
-    sr-el: Džordž Geršvin
+    sr_ec: Џорџ Гершвин
+    sr_el: Džordž Geršvin
     sv: George Gershwin
     sw: George Gershwin
     tg: Ҷорҷ Гершвин
@@ -218,12 +218,12 @@ dv_has_:
     wuu: 乔治·格什温
     yue: 佐治·歌舒詠
     zh: 喬治·雅各布·格甚溫
-    zh-cn: 乔治·格什温
-    zh-hans: 乔治·格什温
-    zh-hant: 喬治·蓋希文
-    zh-hk: 喬治·哥舒詠
-    zh-sg: 乔治·格什温
-    zh-tw: 喬治·蓋希文
+    zh_cn: 乔治·格什温
+    zh_hans: 乔治·格什温
+    zh_hant: 喬治·蓋希文
+    zh_hk: 喬治·哥舒詠
+    zh_sg: 乔治·格什温
+    zh_tw: 喬治·蓋希文
 ---
 # [[Gershwin,George]] 
 

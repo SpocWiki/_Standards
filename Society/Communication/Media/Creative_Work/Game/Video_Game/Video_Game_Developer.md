@@ -99,7 +99,7 @@ dv_has_:
     ast: desarrollador de videoxuegos
     az: video oyun yaradıcısı
     be: распрацоўшчык відэагульняў
-    be-tarask: вытворца відэагульняў
+    be_tarask: вытворца відэагульняў
     bew: Pengembang gim delengan
     br: sevener c'hoarioù video
     bs: razvijač videoigara
@@ -111,7 +111,7 @@ dv_has_:
     de: Spieleentwickler
     el: προγραμματιστής βιντεοπαιχνιδιών
     en: video game developer
-    en-gb: video game developer company
+    en_gb: video game developer company
     en-us: video game developer
     eo: videolud-evoluiga firmao
     es: desarrollador de videojuegos
@@ -138,28 +138,28 @@ dv_has_:
     lv: videospēļu izstrādātājs
     mk: изработувач на видеоигри
     ms: pembangun permainan video
-    ms-arab: ڤمباڠون ڤرماءينن ۏيديو
+    ms_arab: ڤمباڠون ڤرماءينن ۏيديو
     nb: videospillutvikler
     nds: Speelutwickler
     nl: computerspelontwikkelbedrijf
     nn: dataspelutviklar
     pl: producent gier komputerowych
     pt: desenvolvedora de jogos eletrónicos
-    pt-br: desenvolvedora de jogos eletrônicos
+    pt_br: desenvolvedora de jogos eletrônicos
     ro: dezvoltator de jocuri video
     ru: разработчик компьютерных игр
     sco: video gemme developer
     sh: razvoj video igre
     sl: podjetje za razvoj videoiger
     sr: развојни тим за видео-игре
-    sr-ec: развојни тим видео-игре
-    sr-el: razvojni tim video-igre
+    sr_ec: развојни тим видео-игре
+    sr_el: razvojni tim video-igre
     sv: datorspelsutvecklare
     th: ผู้พัฒนาวิดีโอเกม
     tl: tagapaglinang ng bidyong laro
     tr: video oyunu geliştiricisi
     tt: компьютер уеннарын ясап чыгаручы
-    tt-cyrl: компьютер уеннарын ясап чыгаручы
+    tt_cyrl: компьютер уеннарын ясап чыгаручы
     uk: розробник відеоігор
     ur: ویڈیو گیم ڈویلپر
     vec: deviłupador de videozughi
@@ -167,14 +167,14 @@ dv_has_:
     wuu: 游戏开发商
     yue: 遊戲開發商
     zh: 電子遊戲開發商
-    zh-cn: 电子游戏开发商
-    zh-hans: 游戏开发商
-    zh-hant: 遊戲開發商
-    zh-hk: 遊戲開發商
-    zh-mo: 遊戲開發商
+    zh_cn: 电子游戏开发商
+    zh_hans: 游戏开发商
+    zh_hant: 遊戲開發商
+    zh_hk: 遊戲開發商
+    zh_mo: 遊戲開發商
     zh-my: 游戏开发商
-    zh-sg: 游戏开发商
-    zh-tw: 電子遊戲開發商
+    zh_sg: 游戏开发商
+    zh_tw: 電子遊戲開發商
 ---
 # [[Video_Game_Developer]] 
 

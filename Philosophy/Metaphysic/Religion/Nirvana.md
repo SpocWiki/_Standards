@@ -68,7 +68,7 @@ dv_has_:
     bar: Nirwana
     bcl: Nirvana
     be: Нірвана
-    be-tarask: нірвана
+    be_tarask: нірвана
     bg: Нирвана
     blk: နိဗ္ဗာန်ႏ
     bn: নির্বাণ

@@ -198,7 +198,7 @@ dv_has_:
     ba: нефть
     bcl: petrolyo
     be: нафта
-    be-tarask: нафта
+    be_tarask: нафта
     bg: нефт
     bho: पेट्रोलियम
     bn: খনিজ তেল
@@ -206,7 +206,7 @@ dv_has_:
     bs: nafta
     bxr: газарай тоһон
     ca: petroli
-    cbk-zam: petrolio
+    cbk_zam: petrolio
     ceb: petrolyo
     ckb: نەوت
     cs: ropa
@@ -281,7 +281,7 @@ dv_has_:
     mos: kaam
     mr: खनिज तेल
     ms: petroleum
-    ms-arab: ڤيتروليوم
+    ms_arab: ڤيتروليوم
     mwl: petróleo
     my: ရေနံ
     mzn: نفت
@@ -289,7 +289,7 @@ dv_has_:
     nan: chio̍h-iû
     nan-hant: 石油
     nb: petroleum
-    nds-nl: aerdöäly
+    nds_nl: aerdöäly
     ne: खनिज तेल
     nl: aardolie
     nn: petroleum
@@ -319,8 +319,8 @@ dv_has_:
     so: shidaal
     sq: nafta
     sr: нафта
-    sr-ec: нафта
-    sr-el: nafta
+    sr_ec: нафта
+    sr_el: nafta
     ss: oyili
     su: minyak bumi
     sv: petroleum
@@ -332,7 +332,7 @@ dv_has_:
     tok: telo pimeja pi pali seli
     tr: petrol
     tt: нефть
-    tt-cyrl: нефть
+    tt_cyrl: нефть
     ug: نېفىت
     uk: нафта
     ur: نفط
@@ -347,10 +347,10 @@ dv_has_:
     yi: נאפט
     yue: 石油
     zh: 石油
-    zh-cn: 石油
-    zh-hant: 石油
-    zh-hk: 石油
-    zh-tw: 石油
+    zh_cn: 石油
+    zh_hant: 石油
+    zh_hk: 石油
+    zh_tw: 石油
     zu: amafuthetshe
 ---
 # [[Petroleum]] 

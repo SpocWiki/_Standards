@@ -79,7 +79,7 @@ dv_has_:
     azb: قرقوری هاینز
     ba: Грегори Хайнс
     bar: Gregory Hines
-    be-tarask: Грэгары Гайнз
+    be_tarask: Грэгары Гайнз
     bm: Gregory Hines
     br: Gregory Hines
     ca: Gregory Hines
@@ -91,11 +91,11 @@ dv_has_:
     dag: Gregory Hines
     de: Gregory Hines
     de-at: Gregory Hines
-    de-ch: Gregory Hines
+    de_ch: Gregory Hines
     el: Γκρέκορι Χάινς
     en: Gregory Hines
-    en-ca: Gregory Hines
-    en-gb: Gregory Hines
+    en_ca: Gregory Hines
+    en_gb: Gregory Hines
     eo: Gregory Hines
     es: Gregory Hines
     et: Gregory Hines
@@ -139,7 +139,7 @@ dv_has_:
     nap: Gregory Hines
     nb: Gregory Hines
     nds: Gregory Hines
-    nds-nl: Gregory Hines
+    nds_nl: Gregory Hines
     nl: Gregory Hines
     nn: Gregory Hines
     nrm: Gregory Hines
@@ -150,7 +150,7 @@ dv_has_:
     pms: Gregory Hines
     prg: Gregory Hines
     pt: Gregory Hines
-    pt-br: Gregory Hines
+    pt_br: Gregory Hines
     rgn: Gregory Hines
     rm: Gregory Hines
     ro: Gregory Hines
@@ -163,7 +163,7 @@ dv_has_:
     sl: Gregory Hines
     sq: Gregory Hines
     sr: Gregori Hajns
-    sr-el: Gregory Hines
+    sr_el: Gregory Hines
     sv: Gregory Hines
     sw: Gregory Hines
     ta: கிரிகோரி ஹைன்ஸ்

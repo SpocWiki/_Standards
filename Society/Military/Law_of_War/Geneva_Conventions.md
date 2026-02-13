@@ -106,7 +106,7 @@ dv_has_:
     az: Cenevrə konvensiyaları
     ban: Konvénsi Jenéwa
     be: Жэнеўскія канвенцыі
-    be-tarask: Жэнэўскія канвэнцыі
+    be_tarask: Жэнэўскія канвэнцыі
     bg: Женевски конвенции
     bn: জেনেভা কনভেনশন
     br: Kenemglevioù Geneva
@@ -138,11 +138,11 @@ dv_has_:
     jv: Konvènsi Jenéwa
     ka: ჟენევის კონვენციები
     kk: Женева конвенциялары
-    kk-arab: جەنەۆا كونۆەنتسىييالارى
+    kk_arab: جەنەۆا كونۆەنتسىييالارى
     kk-cn: جەنەۆا كونۆەنتسىييالارى
-    kk-cyrl: Женева конвенциялары
+    kk_cyrl: Женева конвенциялары
     kk-kz: Женева конвенциялары
-    kk-latn: Jeneva konvencïyaları
+    kk_latn: Jeneva konvencïyaları
     kk-tr: Jeneva konvencïyaları
     ko: 제네바 협약
     la: Conventus Genavenses
@@ -170,8 +170,8 @@ dv_has_:
     sl: Ženevske konvencije
     sq: Konventat e Gjenevës
     sr: Женевске конвенције
-    sr-ec: Женевске конвенције
-    sr-el: Ženevske konvencije
+    sr_ec: Женевске конвенције
+    sr_el: Ženevske konvencije
     sv: Genèvekonventionerna
     sw: Mikataba ya Geneva
     ta: ஜெனீவா உடன்படிக்கை
@@ -188,12 +188,12 @@ dv_has_:
     wuu: 日内瓦公约
     yue: 日內瓦公約
     zh: 日内瓦公约
-    zh-cn: 日内瓦公约
-    zh-hans: 日内瓦公约
-    zh-hant: 日內瓦公約
-    zh-hk: 日內瓦公約
-    zh-sg: 日内瓦公约
-    zh-tw: 日內瓦公約
+    zh_cn: 日内瓦公约
+    zh_hans: 日内瓦公约
+    zh_hant: 日內瓦公約
+    zh_hk: 日內瓦公約
+    zh_sg: 日内瓦公约
+    zh_tw: 日內瓦公約
 ---
 # [[Geneva_Conventions]] 
 

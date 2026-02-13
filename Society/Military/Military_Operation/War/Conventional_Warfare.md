@@ -43,7 +43,7 @@ dv_has_:
   name_:
     ar: حرب تقليدية
     ast: Guerra convencional
-    be-tarask: традыцыйная вайна
+    be_tarask: традыцыйная вайна
     br: brezel henvoazel
     ca: guerra convencional
     ckb: شەڕی خۆماڵی
@@ -70,7 +70,7 @@ dv_has_:
     oc: Guèrra convencionala
     pl: Wojna konwencjonalna
     pt: guerra convencional
-    pt-br: guerra convencional
+    pt_br: guerra convencional
     ro: Război convențional
     ru: конвенциональная война
     sk: Konvenčná vojna

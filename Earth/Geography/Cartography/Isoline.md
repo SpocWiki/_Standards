@@ -113,18 +113,18 @@ dv_has_:
     az: İzoxətt
     ba: изолиния
     be: ізалінія
-    be-tarask: ізалінія
+    be_tarask: ізалінія
     bg: контурна линия
     bn: সমোন্নতি রেখা
     ca: isolínia
     cs: izolinie
     da: højdekurve
     de: Isolinie
-    de-ch: Isolinie
+    de_ch: Isolinie
     el: γραμμή περιγράμματος
     en: contour line
-    en-ca: contour line
-    en-gb: contour line
+    en_ca: contour line
+    en_gb: contour line
     eo: izolinio
     es: isolínea
     et: samajoon
@@ -175,9 +175,9 @@ dv_has_:
     wuu: 等高线
     yue: 等高線
     zh: 等高線
-    zh-cn: 等值线
-    zh-hans: 等高线
-    zh-hant: 等高線
+    zh_cn: 等值线
+    zh_hans: 等高线
+    zh_hant: 等高線
 ---
 # [[Isoline]] 
 

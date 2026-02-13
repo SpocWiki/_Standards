@@ -80,7 +80,7 @@ dv_has_:
     ar: حسابيات مقاسية
     ast: aritmética modular
     ba: Модуле буйынса сағыштырыу
-    be-tarask: мадулярная арытмэтыка
+    be_tarask: мадулярная арытмэтыка
     bg: модулна аритметика
     bn: মডুলার পাটীগণিত
     bs: kongruencija modulo n
@@ -91,8 +91,8 @@ dv_has_:
     de: modulare Arithmetik
     el: Αριθμητική υπολοίπων
     en: modular arithmetic
-    en-ca: modular arithmetic
-    en-gb: modular arithmetic
+    en_ca: modular arithmetic
+    en_gb: modular arithmetic
     eo: modula aritmetiko
     es: aritmética modular
     et: Modulaarne aritmeetika
@@ -112,11 +112,11 @@ dv_has_:
     it: aritmetica modulare
     ja: 合同算術
     kk: Конгруэнция
-    kk-arab: كونگرۋەنتسىييا
+    kk_arab: كونگرۋەنتسىييا
     kk-cn: كونگرۋەنتسىييا
-    kk-cyrl: Конгруэнция
+    kk_cyrl: Конгруэнция
     kk-kz: Конгруэнция
-    kk-latn: Kongrwéncïya
+    kk_latn: Kongrwéncïya
     kk-tr: Kongrwéncïya
     ko: 모듈러 산술
     la: congruentia
@@ -126,7 +126,7 @@ dv_has_:
     nl: modulair rekenen
     pl: arytmetyka modularna
     pt: aritmética modular
-    pt-br: congruência
+    pt_br: congruência
     ro: aritmetică modulară
     ru: модульная арифметика
     sh: модуларна аритметика
@@ -143,12 +143,12 @@ dv_has_:
     vi: Đồng dư
     yue: 商餘
     zh: 模算术
-    zh-cn: 同余关系
-    zh-hans: 同余关系
-    zh-hant: 模運算
-    zh-hk: 同餘關係
-    zh-sg: 同余关系
-    zh-tw: 同餘關係
+    zh_cn: 同余关系
+    zh_hans: 同余关系
+    zh_hant: 模運算
+    zh_hk: 同餘關係
+    zh_sg: 同余关系
+    zh_tw: 同餘關係
 ---
 # [[Modular_Arithmetic]] 
 

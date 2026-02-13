@@ -114,7 +114,7 @@ dv_has_:
     ast: PEN Club Internacional
     az: PEN
     be: ПЭН-клуб
-    be-tarask: ПЭН-клюб
+    be_tarask: ПЭН-клюб
     bg: ПЕН клуб
     bn: পেন ইন্টারন্যাশনাল
     ca: PEN Club Internacional
@@ -162,12 +162,12 @@ dv_has_:
     vi: International PEN
     yue: 國際筆會
     zh: 国际笔会
-    zh-cn: 国际笔会
-    zh-hans: 国际笔会
-    zh-hant: 國際筆會
-    zh-hk: 國際筆會
-    zh-sg: 国际笔会
-    zh-tw: 國際筆會
+    zh_cn: 国际笔会
+    zh_hans: 国际笔会
+    zh_hant: 國際筆會
+    zh_hk: 國際筆會
+    zh_sg: 国际笔会
+    zh_tw: 國際筆會
 ---
 # [[PEN_International]] 
 

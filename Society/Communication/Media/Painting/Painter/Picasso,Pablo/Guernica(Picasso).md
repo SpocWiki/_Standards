@@ -81,7 +81,7 @@ dv_has_:
     ast: Guernica
     az: Gernika
     be: Герніка
-    be-tarask: Герніка
+    be_tarask: Герніка
     bg: Герника
     bjn: Guernica
     bn: গের্নিকা
@@ -114,8 +114,8 @@ dv_has_:
     ka: გერნიკა
     ko: 게르니카
     ku: Guernica
-    ku-arab: گوەرنجا
-    ku-latn: Guernica
+    ku_arab: گوەرنجا
+    ku_latn: Guernica
     lv: Gernika
     mk: Герника
     ml: ഗ്വേർണിക്ക
@@ -149,12 +149,12 @@ dv_has_:
     wuu: 格尔尼卡 (绘画)
     yue: 格爾尼卡
     zh: 格尔尼卡
-    zh-cn: 格尔尼卡
-    zh-hans: 格尔尼卡
-    zh-hant: 格爾尼卡
-    zh-hk: 格爾尼卡
-    zh-sg: 格尔尼卡
-    zh-tw: 格爾尼卡
+    zh_cn: 格尔尼卡
+    zh_hans: 格尔尼卡
+    zh_hant: 格爾尼卡
+    zh_hk: 格爾尼卡
+    zh_sg: 格尔尼卡
+    zh_tw: 格爾尼卡
 ---
 # [[Guernica(Picasso)]] 
 

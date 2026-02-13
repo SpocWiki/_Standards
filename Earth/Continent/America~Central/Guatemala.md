@@ -466,7 +466,7 @@ dv_has_:
     ab: Гватемала
     ace: Guatemala
     ady: Гуатемалэ
-    aeb-arab: ڨواتيمالا
+    aeb_arab: ڨواتيمالا
     af: Guatemala
     am: ጓቴማላ
     ami: Guatemala
@@ -487,7 +487,7 @@ dv_has_:
     bbc: Guatemala
     bcl: Guatemala
     be: Гватэмала
-    be-tarask: Гватэмала
+    be_tarask: Гватэмала
     bew: Guatémala
     bg: Гватемала
     bho: ग्वाटेमाला
@@ -500,7 +500,7 @@ dv_has_:
     bs: Gvatemala
     bxr: Гватемал
     ca: Guatemala
-    cbk-zam: Guatemala
+    cbk_zam: Guatemala
     cdo: Guatemala
     ce: Гватемала
     ceb: Guwatemala
@@ -508,7 +508,7 @@ dv_has_:
     chy: Guatemala
     ckb: گواتیمالا
     crh: Gvatemala
-    crh-latn: Gvatemala
+    crh_latn: Gvatemala
     cs: Guatemala
     cv: Гватемала
     cy: Gwatemala
@@ -516,7 +516,7 @@ dv_has_:
     dag: Guatemala
     de: Guatemala
     de-at: Guatemala
-    de-ch: Guatemala
+    de_ch: Guatemala
     diq: Guatemala
     dsb: Guatemala
     dty: ग्वाटेमाला
@@ -524,8 +524,8 @@ dv_has_:
     ee: Guatemala
     el: Γουατεμάλα
     en: Guatemala
-    en-ca: Guatemala
-    en-gb: Guatemala
+    en_ca: Guatemala
+    en_gb: Guatemala
     en-us: Guatemala
     eo: Gvatemalo
     es: Guatemala
@@ -548,7 +548,7 @@ dv_has_:
     gn: Guatemala
     gom: ग्वाटेमाला
     gom-deva: ग्वाटेमाला
-    gom-latn: Guatemala
+    gom_latn: Guatemala
     gpe: Guatemala
     gsw: Guatemala
     gu: ગ્વાટેમાલા
@@ -606,7 +606,7 @@ dv_has_:
     lv: Gvatemala
     lzh: 瓜地馬拉
     mad: Guatemala
-    map-bms: Guatemala
+    map_bms: Guatemala
     mdf: Гватэмала
     mg: Goatemala
     mhr: Гватемала
@@ -630,7 +630,7 @@ dv_has_:
     nap: Guatemala
     nb: Guatemala
     nds: Guatemala
-    nds-nl: Guatemala
+    nds_nl: Guatemala
     ne: ग्वाटेमाला
     new: ग्वाटेमाला
     nl: Guatemala
@@ -653,7 +653,7 @@ dv_has_:
     pnb: گویٹے مالا
     ps: ګواتيمالا
     pt: Guatemala
-    pt-br: Guatemala
+    pt_br: Guatemala
     qu: Watimala
     rmy: Guatemala
     ro: Guatemala
@@ -683,8 +683,8 @@ dv_has_:
     so: Guatemala
     sq: Guatemala
     sr: Гватемала
-    sr-ec: Гватемала
-    sr-el: Gvatemala
+    sr_ec: Гватемала
+    sr_el: Gvatemala
     ss: IGwathamala
     stq: Guatemala
     su: Guatémala
@@ -729,14 +729,14 @@ dv_has_:
     zea: Guatemala
     zgh: ⴳⵡⴰⵜⵉⵎⴰⵍⴰ
     zh: 危地马拉
-    zh-cn: 危地马拉
-    zh-hans: 危地马拉
-    zh-hant: 瓜地馬拉
-    zh-hk: 危地馬拉
-    zh-mo: 瓜地馬拉
+    zh_cn: 危地马拉
+    zh_hans: 危地马拉
+    zh_hant: 瓜地馬拉
+    zh_hk: 危地馬拉
+    zh_mo: 瓜地馬拉
     zh-my: 危地马拉
-    zh-sg: 危地马拉
-    zh-tw: 瓜地馬拉
+    zh_sg: 危地马拉
+    zh_tw: 瓜地馬拉
     zu: i-Guatemala
   url_for_:
     code_repository: https://github.com/SpocWiki/America-Guatemala

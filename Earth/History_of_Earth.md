@@ -116,7 +116,7 @@ dv_has_:
     az: Yerin tarixi
     ba: Ер тарихы
     be: гісторыя Зямлі
-    be-tarask: гісторыя Зямлі
+    be_tarask: гісторыя Зямлі
     bg: История на Земята
     bho: धरती के इतिहास
     bn: পৃথিবীর ইতিহাস
@@ -129,7 +129,7 @@ dv_has_:
     de: Erdgeschichte
     el: ιστορία της Γης
     en: history of Earth
-    en-gb: History of the World
+    en_gb: History of the World
     eo: Terhistorio
     es: historia de la Tierra
     eu: Lurraren historia
@@ -183,7 +183,7 @@ dv_has_:
     tl: Kasaysayan ng Daigdig
     tr: Yerküre tarihi
     tt: Җир тарихы
-    tt-cyrl: Җир тарихы
+    tt_cyrl: Җир тарихы
     ug: يەرشارى ھەققىدە
     uk: історія Землі
     ur: زمین کی تاریخ
@@ -193,12 +193,12 @@ dv_has_:
     wuu: 地球历史
     yue: 地球史
     zh: 地球歷史
-    zh-cn: 地球历史
-    zh-hans: 地球历史
-    zh-hant: 地球歷史
-    zh-hk: 地球歷史
-    zh-sg: 地球历史
-    zh-tw: 地球歷史
+    zh_cn: 地球历史
+    zh_hans: 地球历史
+    zh_hant: 地球歷史
+    zh_hk: 地球歷史
+    zh_sg: 地球历史
+    zh_tw: 地球歷史
 ---
 # [[History_of_Earth]] 
 

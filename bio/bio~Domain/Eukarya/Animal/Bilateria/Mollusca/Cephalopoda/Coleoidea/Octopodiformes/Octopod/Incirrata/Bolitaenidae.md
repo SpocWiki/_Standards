@@ -32,7 +32,7 @@ dv_has_:
     oc: Bolitaenidae
     pl: Bolitaenidae
     pt: Bolitaenidae
-    pt-br: Bolitaenidae
+    pt_br: Bolitaenidae
     ro: Bolitaenidae
     ru: Bolitaenidae
     sq: Bolitaenidae

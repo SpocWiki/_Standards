@@ -110,20 +110,20 @@ dv_has_:
     bar: Fee
     bcl: engkantada
     be: фея
-    be-tarask: фея
+    be_tarask: фея
     bg: Фея
     bn: পরী
     br: Boudig
     ca: fada
-    cbk-zam: Hada
+    cbk_zam: Hada
     ceb: Diwata (Engkantada)
     cy: tylwythen deg
     da: fe
     de: Fee
     el: νεράιδες
     en: fairy
-    en-ca: Fairy
-    en-gb: fairy
+    en_ca: Fairy
+    en_gb: fairy
     en-us: fairy
     eo: feo
     es: hada
@@ -168,7 +168,7 @@ dv_has_:
     pl: wróżka
     pnb: پری
     pt: fada
-    pt-br: fada
+    pt_br: fada
     ro: zână
     rsk: Русалка
     ru: фея
@@ -189,8 +189,8 @@ dv_has_:
     wuu: 小仙子
     yue: 仙子
     zh: 小仙子
-    zh-cn: 小仙子
-    zh-hk: 小仙子
+    zh_cn: 小仙子
+    zh_hk: 小仙子
 ---
 # [[Fairy]] 🧚  
 

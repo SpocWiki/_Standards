@@ -172,7 +172,7 @@ dv_has_:
     azb: یوحنا
     bar: Johannes
     be: Іаан Багаслоў
-    be-tarask: Ян
+    be_tarask: Ян
     bg: Йоан Богослов
     bn: যোহন
     br: Yann an Avielour
@@ -233,7 +233,7 @@ dv_has_:
     pms: Gioann
     pnb: یوحنا بن زبدی
     pt: João
-    pt-br: João
+    pt_br: João
     ro: Apostolul Ioan
     ru: Иоанн Богослов
     sh: Apostol Ivan
@@ -241,7 +241,7 @@ dv_has_:
     sl: Janez Apostol
     sq: Gjoni (apostull)
     sr: Апостол Јован
-    sr-ec: Апостол Јован
+    sr_ec: Апостол Јован
     sv: Johannes
     sw: Mtume Yohane
     ta: யோவான்

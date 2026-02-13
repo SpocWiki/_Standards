@@ -85,7 +85,7 @@ dv_has_:
     af: Brandstofsel
     ar: خلية وقود
     ary: خلية د لفيول
-    be-tarask: паліўны элемэнт
+    be_tarask: паліўны элемэнт
     bg: Горивна клетка
     bn: জ্বালানি কোষ
     bs: Goriva ćelija
@@ -130,7 +130,7 @@ dv_has_:
     oc: Pila de combustible
     pl: ogniwo paliwowe
     pt: célula de combustível
-    pt-br: célula de combustível
+    pt_br: célula de combustível
     ro: Pilă de combustie
     ru: топливный элемент
     sco: fuel cell
@@ -138,8 +138,8 @@ dv_has_:
     sk: Palivový článok
     sl: gorivna celica
     sr: Gorivne ćelije
-    sr-ec: Горивне ћелије
-    sr-el: Gorivne ćelije
+    sr_ec: Горивне ћелије
+    sr_el: Gorivne ćelije
     sv: bränslecell
     ta: எரிபொருள் மின்கலம்
     te: ఇంధన కోష్ఠికలు
@@ -152,12 +152,12 @@ dv_has_:
     wuu: 燃料电池
     yue: 燃料電池
     zh: 燃料电池
-    zh-cn: 燃料电池
-    zh-hans: 燃料电池
-    zh-hant: 燃料電池
-    zh-hk: 燃料電池
-    zh-sg: 燃料电池
-    zh-tw: 燃料電池
+    zh_cn: 燃料电池
+    zh_hans: 燃料电池
+    zh_hant: 燃料電池
+    zh_hk: 燃料電池
+    zh_sg: 燃料电池
+    zh_tw: 燃料電池
 ---
 ## #has_/text_of_/abstract 
 

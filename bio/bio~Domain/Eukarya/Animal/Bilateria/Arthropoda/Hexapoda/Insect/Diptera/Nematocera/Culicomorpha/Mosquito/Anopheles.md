@@ -59,7 +59,7 @@ dv_has_:
     pnb: انوفلیز
     ps: غوماشی
     pt: Anopheles
-    pt-br: Anopheles
+    pt_br: Anopheles
     ro: Anopheles
     ru: Малярийные комары
     sl: komar mrzličar
@@ -80,12 +80,12 @@ dv_has_:
     wuu: 疟蚊
     yue: 按蚊
     zh: 按蚊属
-    zh-cn: 按蚊属
-    zh-hans: 按蚊属
-    zh-hant: 瘧蚊
-    zh-hk: 瘧蚊
-    zh-sg: 疟蚊
-    zh-tw: 瘧蚊屬
+    zh_cn: 按蚊属
+    zh_hans: 按蚊属
+    zh_hant: 瘧蚊
+    zh_hk: 瘧蚊
+    zh_sg: 疟蚊
+    zh_tw: 瘧蚊屬
 aliases:
 - Anofel
 - Anofeles

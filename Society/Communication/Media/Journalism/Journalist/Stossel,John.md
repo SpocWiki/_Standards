@@ -61,7 +61,7 @@ dv_has_:
     ar: جون ستوسيل
     arz: جون ستوسيل
     ast: John Stossel
-    be-tarask: Джон Стосэл
+    be_tarask: Джон Стосэл
     ca: John Stossel
     cs: John Stossel
     da: John Stossel
@@ -92,7 +92,7 @@ dv_has_:
     pap: John Stossel
     pl: John Stossel
     pt: John Stossel
-    pt-br: John Stossel
+    pt_br: John Stossel
     ru: Джон Стоссел
     sl: John Stossel
     sq: John Stossel

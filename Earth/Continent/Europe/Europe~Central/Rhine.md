@@ -389,7 +389,7 @@ dv_has_:
     ban: Tukad Rhine
     bar: Rhein
     be: Рэйн
-    be-tarask: Райн
+    be_tarask: Райн
     bg: Рейн
     bho: राइन नदी
     bn: রাইন নদী
@@ -408,13 +408,13 @@ dv_has_:
     cy: Afon Rhein
     da: Rhinen
     de: Rhein
-    de-ch: Rhein
+    de_ch: Rhein
     diq: Royê Reni
     dsb: Ryn
     el: Ρήνος
     en: Rhine
-    en-ca: Rhine
-    en-gb: Rhine
+    en_ca: Rhine
+    en_gb: Rhine
     eo: Rejno
     es: Rin
     et: Rein
@@ -487,7 +487,7 @@ dv_has_:
     nan: Rhein Hô
     nb: Rhinen
     nds: Rhien
-    nds-nl: Rien
+    nds_nl: Rien
     new: राइन
     nl: Rijn
     nn: Rhinen
@@ -500,7 +500,7 @@ dv_has_:
     pms: Ren
     pnb: دریائے رائن
     pt: Rio Reno
-    pt-br: Rio Reno
+    pt_br: Rio Reno
     qu: Rhein
     rm: Rain
     ro: Rin
@@ -548,9 +548,9 @@ dv_has_:
     zea: Rijn
     zgh: ⴰⵙⵉⴼ ⵏ ⵔⴰⵢⵏ
     zh: 莱茵河
-    zh-cn: 莱茵河
-    zh-hans: 莱茵河
-    zh-tw: 萊茵河
+    zh_cn: 莱茵河
+    zh_hans: 莱茵河
+    zh_tw: 萊茵河
 ---
 # [[Rhine]] 
 

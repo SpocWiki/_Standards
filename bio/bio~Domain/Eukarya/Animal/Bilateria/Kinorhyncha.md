@@ -92,7 +92,7 @@ dv_has_:
     oc: Kinorhyncha
     pl: ryjkogłowy
     pt: Kinorhyncha
-    pt-br: Kinorhyncha
+    pt_br: Kinorhyncha
     ro: Kinorhyncha
     ru: киноринхи
     sl: kaveljčniki
@@ -112,8 +112,8 @@ dv_has_:
     war: Kinorhyncha
     wuu: 动吻动物门
     zh: 动吻动物门
-    zh-cn: 动吻动物门
-    zh-hans: 动吻动物门
+    zh_cn: 动吻动物门
+    zh_hans: 动吻动物门
 ---
 # [[Kinorhyncha]] 
 

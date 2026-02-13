@@ -235,7 +235,7 @@ dv_has_:
     bar: Kalenda
     bcl: kalendaryo
     be: каляндар
-    be-tarask: каляндар
+    be_tarask: каляндар
     bew: Almenak
     bg: календар
     bho: कैलेंडर
@@ -244,7 +244,7 @@ dv_has_:
     bs: kalendar
     bxr: литэ
     ca: calendari
-    cbk-zam: calendario
+    cbk_zam: calendario
     cdo: lĭk-huák
     ce: рузма
     ceb: kalendaryo
@@ -261,14 +261,14 @@ dv_has_:
     da: kalendersystem
     de: Kalender
     de-at: Kalender
-    de-ch: Kalender
+    de_ch: Kalender
     diq: serrename
     dsb: kalendaŕ
     dua: Elaŋgɛ mbú
     el: ημερολόγιο
     eml: lunèri
     en: calendar system
-    en-gb: calendar
+    en_gb: calendar
     en-us: calendar
     eo: kalendaro
     es: calendario
@@ -348,7 +348,7 @@ dv_has_:
     mni: ꯊꯄꯥꯂꯣꯟ
     mnw: ကြက္ကဒိန်
     ms: takwim
-    ms-arab: تقويم
+    ms_arab: تقويم
     my: ပြက္ခဒိန်
     myv: ковкерькс
     nan: le̍k-hoat
@@ -370,7 +370,7 @@ dv_has_:
     pnb: کیلنڈر
     ps: کليز
     pt: calendário
-    pt-br: calendário
+    pt_br: calendário
     qu: kalindaryu
     ro: calendar
     ru: календарь
@@ -398,8 +398,8 @@ dv_has_:
     so: kalandar
     sq: kalendari
     sr: календар
-    sr-ec: календар
-    sr-el: kalendar
+    sr_ec: календар
+    sr_el: kalendar
     su: kalénder
     sv: kalender
     sw: kalenda
@@ -413,7 +413,7 @@ dv_has_:
     tok: nasin pi tenpo suno
     tr: takvim
     tt: тәкъвим
-    tt-cyrl: тәкъвим
+    tt_cyrl: тәкъвим
     tyv: үени хемчээри
     udm: дырпус
     ug: تەقۋىم
@@ -437,10 +437,10 @@ dv_has_:
     zea: kalender
     zgh: ⴰⵙⵎⵍⵓⵙⵙⴰⵏ
     zh: 历法
-    zh-hans: 历法
-    zh-hant: 曆法
-    zh-hk: 曆法
-    zh-tw: 曆法
+    zh_hans: 历法
+    zh_hant: 曆法
+    zh_hk: 曆法
+    zh_tw: 曆法
     zu: isibalizinsuku
 ---
 # [[Calendar]] 📅  

@@ -114,7 +114,7 @@ dv_has_:
     bar: anime
     bcl: anime
     be: анімэ
-    be-tarask: анімэ
+    be_tarask: анімэ
     bg: аниме
     bjn: anime
     bn: অ্যানিমে
@@ -133,8 +133,8 @@ dv_has_:
     dtp: anime
     el: anime
     en: anime
-    en-ca: anime
-    en-gb: anime
+    en_ca: anime
+    en_gb: anime
     eo: animeo
     es: anime
     et: anime
@@ -190,7 +190,7 @@ dv_has_:
     mn: анимэ
     mr: अॅनिमे
     ms: anime
-    ms-arab: انيمي
+    ms_arab: انيمي
     my: အန်နီမဲ
     nah: anime
     nan: Anime
@@ -208,7 +208,7 @@ dv_has_:
     pnb: انائم
     ps: انیم
     pt: anime
-    pt-br: animê
+    pt_br: animê
     qu: anime
     rki: အန်နီမဲ
     ro: anime
@@ -232,8 +232,8 @@ dv_has_:
     sn: anime
     sq: anime
     sr: аниме
-    sr-ec: аниме
-    sr-el: anime
+    sr_ec: аниме
+    sr_el: anime
     su: animé
     sv: anime
     sw: Anime
@@ -262,11 +262,11 @@ dv_has_:
     yo: anime
     yue: 日本動畫
     zh: 日本動畫
-    zh-cn: 日本动画
-    zh-hans: 日本动画
-    zh-hant: 日本動畫
-    zh-hk: 日本動畫
-    zh-tw: 日本動畫
+    zh_cn: 日本动画
+    zh_hans: 日本动画
+    zh_hant: 日本動畫
+    zh_hk: 日本動畫
+    zh_tw: 日本動畫
     zu: anime
 ---
 # [[Anime]]

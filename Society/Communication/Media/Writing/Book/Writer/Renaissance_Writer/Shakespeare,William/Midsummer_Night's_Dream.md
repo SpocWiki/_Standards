@@ -156,7 +156,7 @@ dv_has_:
     ar: حلم ليلة منتصف الصيف
     ast: A Midsummer Night's Dream
     be: Сон у летнюю ноч
-    be-tarask: Сон у Іванаву ноч
+    be_tarask: Сон у Іванаву ноч
     bg: Сън в лятна нощ
     bn: এ মিডসামার নাইট'স ড্রিম
     bs: San ljetne noći
@@ -166,11 +166,11 @@ dv_has_:
     cy: Breuddwyd Noswyl Ifan
     da: En skærsommernatsdrøm
     de: Ein Sommernachtstraum
-    de-ch: Ein Sommernachtstraum
+    de_ch: Ein Sommernachtstraum
     el: Όνειρο Θερινής Νυκτός
     en: A Midsummer Night's Dream
-    en-ca: A Midsummer Night's Dream
-    en-gb: A Midsummer Night's Dream
+    en_ca: A Midsummer Night's Dream
+    en_gb: A Midsummer Night's Dream
     en-us: A Midsummer Night's Dream
     eo: Somermeznokta sonĝo
     es: El sueño de una noche de verano
@@ -208,15 +208,15 @@ dv_has_:
     oc: A Midsummer Night's Dream
     pl: Sen nocy letniej
     pt: Sonho em uma noite de verão
-    pt-br: A Midsummer Night's Dream
+    pt_br: A Midsummer Night's Dream
     ro: Visul unei nopți de vară
     ru: Сон в летнюю ночь
     sh: A Midsummer Night's Dream
     sk: Sen noci svätojánskej
     sl: Sen kresne noči
     sr: Сан летње ноћи
-    sr-ec: Сан летње ноћи
-    sr-el: San letnje noći
+    sr_ec: Сан летње ноћи
+    sr_el: San letnje noći
     sv: En midsommarnattsdröm
     szy: nisepian i teban nu lalud
     tr: Bir Yaz Gecesi Rüyası
@@ -227,12 +227,12 @@ dv_has_:
     wuu: 仲夏夜之梦
     yue: 仲夏夜之夢
     zh: 仲夏夜之梦
-    zh-cn: 仲夏夜之梦
-    zh-hans: 仲夏夜之梦
-    zh-hant: 仲夏夜之夢
-    zh-hk: 仲夏夜之夢
-    zh-sg: 仲夏夜之梦
-    zh-tw: 仲夏夜之夢
+    zh_cn: 仲夏夜之梦
+    zh_hans: 仲夏夜之梦
+    zh_hant: 仲夏夜之夢
+    zh_hk: 仲夏夜之夢
+    zh_sg: 仲夏夜之梦
+    zh_tw: 仲夏夜之夢
 ---
 # [[Midsummer_Night's_Dream]] 
 

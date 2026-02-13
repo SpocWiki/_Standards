@@ -79,7 +79,7 @@ dv_has_:
     az: Biom
     ba: Биом
     be: біём
-    be-tarask: біём
+    be_tarask: біём
     bg: Биом
     bho: बायोम
     bn: জীবাঞ্চল
@@ -118,11 +118,11 @@ dv_has_:
     jv: Bioma
     ka: ბუნებრივი ზონები
     kk: Биом
-    kk-arab: بىيوم
+    kk_arab: بىيوم
     kk-cn: بىيوم
-    kk-cyrl: Биом
+    kk_cyrl: Биом
     kk-kz: Биом
-    kk-latn: Bïom
+    kk_latn: Bïom
     kk-tr: Bïom
     kn: ಬಯೊಮ್
     ko: 생물 군계
@@ -146,7 +146,7 @@ dv_has_:
     pnb: بائیوم
     ps: بايوم
     pt: bioma
-    pt-br: bioma
+    pt_br: bioma
     ro: Biom
     ru: биом
     sah: Биом
@@ -158,8 +158,8 @@ dv_has_:
     sms: bioom
     sq: Bioma
     sr: биом
-    sr-ec: биом
-    sr-el: biom
+    sr_ec: биом
+    sr_el: biom
     su: Bioma
     sv: biom
     sw: Biome
@@ -175,12 +175,12 @@ dv_has_:
     wuu: 生物群系
     yue: 生物群系
     zh: 生物群系
-    zh-cn: 生物群系
-    zh-hans: 生物群系
-    zh-hant: 生物群系
-    zh-hk: 生物群系
-    zh-sg: 生物群系
-    zh-tw: 生物群系
+    zh_cn: 生物群系
+    zh_hans: 生物群系
+    zh_hant: 生物群系
+    zh_hk: 生物群系
+    zh_sg: 生物群系
+    zh_tw: 生物群系
 ---
 # [[Biome]] 
 

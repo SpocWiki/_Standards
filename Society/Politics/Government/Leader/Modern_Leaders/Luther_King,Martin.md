@@ -248,7 +248,7 @@ dv_has_:
     ban: Martin Luther King Jr
     bcl: Martin Luther King, Jr.
     be: Марцін Лютэр Кінг
-    be-tarask: Мартын Лютэр Кінг
+    be_tarask: Мартын Лютэр Кінг
     bg: Мартин Лутър Кинг
     bjn: Martin Luther King, Jr.
     bn: মার্টিন লুথার কিং, জুনিয়র
@@ -273,8 +273,8 @@ dv_has_:
     el: Μάρτιν Λούθερ Κινγκ
     eml: Martin Luther King, Jr.
     en: Martin Luther King Jr.
-    en-ca: Martin Luther King, Jr.
-    en-gb: Martin Luther King, Jr.
+    en_ca: Martin Luther King, Jr.
+    en_gb: Martin Luther King, Jr.
     en-us: Martin Luther King Jr.
     eo: Martin Luther King
     es: Martin Luther King Jr.
@@ -353,7 +353,7 @@ dv_has_:
     nan: Martin Luther King
     nb: Martin Luther King jr.
     nds: Martin Luther King
-    nds-nl: Martin Luther King
+    nds_nl: Martin Luther King
     ne: मार्टिन लूथर किंग
     nl: Martin Luther King
     nn: Martin Luther King jr.
@@ -420,14 +420,14 @@ dv_has_:
     yue: 馬丁路德金
     zea: Martin Luther King
     zh: 马丁·路德·金
-    zh-cn: 马丁·路德·金
-    zh-hans: 马丁·路德·金
-    zh-hant: 馬丁·路德·金
-    zh-hk: 馬丁路德金
-    zh-mo: 馬丁·路德·金恩
+    zh_cn: 马丁·路德·金
+    zh_hans: 马丁·路德·金
+    zh_hant: 馬丁·路德·金
+    zh_hk: 馬丁路德金
+    zh_mo: 馬丁·路德·金恩
     zh-my: 马丁·路德·金
-    zh-sg: 马丁·路德·金
-    zh-tw: 馬丁·路德·金恩
+    zh_sg: 马丁·路德·金
+    zh_tw: 馬丁·路德·金恩
 ---
 # [[Luther_King,Martin]] 
 

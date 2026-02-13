@@ -46,7 +46,7 @@ dv_has_:
     oc: Georg Kerschensteiner
     pl: Georg Kerschensteiner
     pt: Georg Kerschensteiner
-    pt-br: Georg Kerschensteiner
+    pt_br: Georg Kerschensteiner
     ru: Георг Кершенштейнер
     sl: Georg Michael Anton Kerschensteiner
     sq: Georg Kerschensteiner

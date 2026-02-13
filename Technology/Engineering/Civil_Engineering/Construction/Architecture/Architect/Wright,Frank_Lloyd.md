@@ -201,7 +201,7 @@ dv_has_:
     bar: Frank Lloyd Wright
     bcl: Frank Lloyd Wright
     be: Фрэнк Лойд Райт
-    be-tarask: Фрэнк Лойд Райт
+    be_tarask: Фрэнк Лойд Райт
     bg: Франк Лойд Райт
     bi: Frank Lloyd Wright
     bn: ফ্র্যাংক লয়েড রাইট
@@ -209,7 +209,7 @@ dv_has_:
     bs: Frank Lloyd Wright
     bxr: Фрэнк Ллойд Райт
     ca: Frank Lloyd Wright
-    cbk-zam: Frank Lloyd Wright
+    cbk_zam: Frank Lloyd Wright
     ce: Райт, Фрэнк Ллойд
     ceb: Frank Lloyd Wright
     ckb: فرانک لۆید ڕایت
@@ -223,8 +223,8 @@ dv_has_:
     dsb: Frank Lloyd Wright
     el: Φρανκ Λόιντ Ράιτ
     en: Frank Lloyd Wright
-    en-ca: Frank Lloyd Wright
-    en-gb: Frank Lloyd Wright
+    en_ca: Frank Lloyd Wright
+    en_gb: Frank Lloyd Wright
     eo: Frank Lloyd Wright
     es: Frank Lloyd Wright
     et: Frank Lloyd Wright
@@ -308,7 +308,7 @@ dv_has_:
     pnb: فرینک لائیڈ رائٹ
     ps: فرانک لويد رايټ
     pt: Frank Lloyd Wright
-    pt-br: Frank Lloyd Wright
+    pt_br: Frank Lloyd Wright
     qu: Frank Lloyd Wright
     ro: Frank Lloyd Wright
     ru: Фрэнк Ллойд Райт
@@ -335,7 +335,7 @@ dv_has_:
     tpi: Frank Lloyd Wright
     tr: Frank Lloyd Wright
     tt: Фрәңк Ллойд Райт
-    tt-cyrl: Фрәңк Ллойд Райт
+    tt_cyrl: Фрәңк Ллойд Райт
     tyv: Райт, Фрэнк Ллойд
     uk: Френк Ллойд Райт
     ur: فرینک لائیڈ رائٹ
@@ -353,9 +353,9 @@ dv_has_:
     yo: Frank Lloyd Wright
     yue: 法蘭萊勵德
     zh: 弗蘭克·勞埃德·賴特
-    zh-cn: 弗兰克·劳埃德·赖特
-    zh-hans: 弗兰克·劳埃德·赖特
-    zh-hk: 法蘭克·萊德·韋特
+    zh_cn: 弗兰克·劳埃德·赖特
+    zh_hans: 弗兰克·劳埃德·赖特
+    zh_hk: 法蘭克·萊德·韋特
 ---
 # [[Wright,Frank_Lloyd]] 
 

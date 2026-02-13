@@ -129,7 +129,7 @@ dv_has_:
     ast: paliyos
     az: yemək çubuqları
     bar: Esstabal
-    be-tarask: палачкі для яданьня
+    be_tarask: палачкі для яданьня
     bg: Китайски пръчици за хранене
     bn: হাশি
     bo: ཟ་ཐུར་རམ་ཁོ་ཙེ།
@@ -140,7 +140,7 @@ dv_has_:
     cv: Çăмах шăрпăкĕ
     da: spisepinde
     de: Essstäbchen
-    de-ch: Essstäbchen
+    de_ch: Essstäbchen
     el: τσόπστικς
     en: chopsticks
     eo: manĝobastonetoj
@@ -177,7 +177,7 @@ dv_has_:
     mn: Савх
     mnc: ᠰᠠᠪᡴᠠ
     ms: penyepit
-    ms-arab: ڤڽڤيت
+    ms_arab: ڤڽڤيت
     my: တူ
     nan: Tī
     nan-hani: 箸
@@ -190,7 +190,7 @@ dv_has_:
     pl: pałeczki
     ps: چوپسټېک
     pt: pauzinhos
-    pt-br: hashi
+    pt_br: hashi
     ro: Bețișoare
     ru: палочки для еды
     se: borransákkit
@@ -215,9 +215,9 @@ dv_has_:
     yue: 筷子
     za: Dawh
     zh: 筷子
-    zh-hans: 筷子
-    zh-hant: 筷子
-    zh-tw: 筷子
+    zh_hans: 筷子
+    zh_hant: 筷子
+    zh_tw: 筷子
 ---
 # [[Chopsticks]] 🥢 
 

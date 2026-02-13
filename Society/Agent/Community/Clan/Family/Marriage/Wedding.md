@@ -171,7 +171,7 @@ dv_has_:
     bcl: Kasalan
     bdr: Akad nika
     be: вяселле
-    be-tarask: вясельле
+    be_tarask: вясельле
     bg: Сватба
     bn: বিবাহ উৎসব
     br: Eured
@@ -190,8 +190,8 @@ dv_has_:
     dua: Diɓa
     el: γάμος
     en: wedding
-    en-ca: wedding
-    en-gb: wedding
+    en_ca: wedding
+    en_gb: wedding
     eo: nupto
     es: boda
     et: abiellumine
@@ -260,8 +260,8 @@ dv_has_:
     so: Aroos
     sq: Dasma
     sr: венчање
-    sr-ec: венчање
-    sr-el: venčanje
+    sr_ec: венчање
+    sr_el: venčanje
     st: Lenyalo
     su: Upacara adat nikahkeun
     sv: bröllop
@@ -285,9 +285,9 @@ dv_has_:
     yue: 結婚
     zgh: ⵜⴰⵎⵖⵔⴰ
     zh: 婚禮
-    zh-cn: 婚礼
-    zh-hans: 婚礼
-    zh-hant: 婚禮
+    zh_cn: 婚礼
+    zh_hans: 婚礼
+    zh_hant: 婚禮
 ---
 # [[Wedding]] 💒 
 

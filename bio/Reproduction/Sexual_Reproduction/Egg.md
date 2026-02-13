@@ -236,8 +236,8 @@ name: ꠄꠘ꠆ꠒꠣ
 dv_has_:
   name_:
     ab: акәтаӷь
-    aeb-arab: عضمة
-    aeb-latn: 3a4ma
+    aeb_arab: عضمة
+    aeb_latn: 3a4ma
     af: Eier
     ak: nkosua
     an: Uevo
@@ -255,7 +255,7 @@ dv_has_:
     bar: Oa
     bcl: Sugok
     be: яйка
-    be-tarask: яйка
+    be_tarask: яйка
     bg: Яйце
     bjn: Hintalu
     bn: ডিম
@@ -269,7 +269,7 @@ dv_has_:
     ckb: ھێلکە
     co: ovu
     cr: ᐋᐧᐃᐧ
-    crh-latn: yımırta
+    crh_latn: yımırta
     cs: vejce
     csb: Jôjkò
     cu: аицє
@@ -284,7 +284,7 @@ dv_has_:
     el: αυγό
     eml: Óv
     en: egg
-    en-gb: egg
+    en_gb: egg
     eo: ovo
     es: huevo
     et: muna
@@ -390,7 +390,7 @@ dv_has_:
     pl: jajo
     pnb: آنڈا
     pt: ovo
-    pt-br: ovo
+    pt_br: ovo
     qu: Runtu
     rm: ov
     rn: iri-gi
@@ -437,7 +437,7 @@ dv_has_:
     tpi: kiau
     tr: Yumurta
     tt: йомырка
-    tt-cyrl: йомырка
+    tt_cyrl: йомырка
     tyv: чуурга
     udm: пуз
     ug: تۇخۇم
@@ -460,9 +460,9 @@ dv_has_:
     yue: 膥
     za: Gyaeq
     zh: 卵
-    zh-hans: 卵
-    zh-hant: 蛋
-    zh-hk: 卵
+    zh_hans: 卵
+    zh_hant: 蛋
+    zh_hk: 卵
     zu: iqanda
 ---
 # [[Egg]] 🥚 

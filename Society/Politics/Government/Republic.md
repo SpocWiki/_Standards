@@ -163,7 +163,7 @@ dv_has_:
     ab: ареспублика
     acm: جمهورية
     ady: Республик
-    aeb-arab: جمهوريّة
+    aeb_arab: جمهوريّة
     af: Republiek
     am: ሪፐብሊክ
     an: Republica
@@ -181,7 +181,7 @@ dv_has_:
     bar: Republik
     bcl: Republika
     be: рэспубліка
-    be-tarask: рэспубліка
+    be_tarask: рэспубліка
     bew: Kiblik
     bg: Република
     bho: रिपब्लिक
@@ -197,7 +197,7 @@ dv_has_:
     ceb: Republika
     ckb: کۆمار
     crh: cumhuriyet
-    crh-latn: Cumhuriyet
+    crh_latn: Cumhuriyet
     crh-ro: ğumhuriyet
     cs: republika
     cv: Республика
@@ -209,8 +209,8 @@ dv_has_:
     el: πολιτεία
     eml: Repùblica
     en: republic
-    en-ca: Republic
-    en-gb: republic
+    en_ca: Republic
+    en_gb: republic
     eo: respubliko
     es: república
     et: vabariik
@@ -268,7 +268,7 @@ dv_has_:
     krj: republika
     ks: جۆمہوٗرِیَتھ
     ku: komar
-    ku-latn: komar
+    ku_latn: komar
     kv: Канму
     kw: Repoblek
     ky: Республика
@@ -297,7 +297,7 @@ dv_has_:
     mo: Републикэ
     mr: प्रजासत्ताक
     ms: republik
-    ms-arab: ريڤوبليک
+    ms_arab: ريڤوبليک
     mt: repubblika
     mwl: República
     my: သမ္မတနိုင်ငံ
@@ -307,7 +307,7 @@ dv_has_:
     nap: Repubbreca
     nb: republikk
     nds: Republiek
-    nds-nl: rippebliek
+    nds_nl: rippebliek
     ne: गणतन्त्र
     new: गणतन्त्र
     nl: republiek
@@ -324,7 +324,7 @@ dv_has_:
     pnb: جمہوریہ
     ps: ولسمشريزه
     pt: república
-    pt-br: república
+    pt_br: república
     qu: Republika
     rm: Republica
     rmy: ketnepen
@@ -350,8 +350,8 @@ dv_has_:
     so: Jamhuriyadda
     sq: Republika
     sr: република
-    sr-ec: република
-    sr-el: republika
+    sr_ec: република
+    sr_el: republika
     stq: Republik
     su: Républik
     sv: republik
@@ -366,8 +366,8 @@ dv_has_:
     tpi: ripablik
     tr: cumhuriyet
     tt: җөмһүрият
-    tt-cyrl: җөмһүрият
-    tt-latn: cömhüriät
+    tt_cyrl: җөмһүрият
+    tt_latn: cömhüriät
     tum: Uwuso wa ŵene-fuko
     udm: элькун
     ug: جۇمھۇرىيەت تۈزۈمى
@@ -386,11 +386,11 @@ dv_has_:
     yo: Orílẹ̀-èdè olómìnira
     yue: 共和制
     zh: 共和制
-    zh-cn: 共和制
-    zh-hans: 共和制
-    zh-hant: 共和制
-    zh-hk: 共和制
-    zh-tw: 共和制
+    zh_cn: 共和制
+    zh_hans: 共和制
+    zh_hant: 共和制
+    zh_hk: 共和制
+    zh_tw: 共和制
 ---
 # [[Republic]] 
 

@@ -125,7 +125,7 @@ dv_has_:
     pl: Nagroda Abela
     pnb: ابیل انعام
     pt: Prémio Abel
-    pt-br: Prêmio Abel
+    pt_br: Prêmio Abel
     ro: Premiul Abel
     ru: Абелевская премия
     sco: Abel Prize
@@ -134,8 +134,8 @@ dv_has_:
     sk: Abelova cena
     sl: Abelova nagrada
     sr: Абелова награда
-    sr-ec: Абелова награда
-    sr-el: Abelova nagrada
+    sr_ec: Абелова награда
+    sr_el: Abelova nagrada
     sv: Abelpriset
     ta: ஏபெல் பரிசு
     th: รางวัลอาเบล
@@ -149,12 +149,12 @@ dv_has_:
     yi: אבעל-פריז
     yue: 阿貝爾獎
     zh: 阿贝尔奖
-    zh-cn: 阿贝尔奖
-    zh-hans: 阿贝尔奖
-    zh-hant: 阿貝爾獎
-    zh-hk: 阿貝爾獎
-    zh-sg: 阿贝尔奖
-    zh-tw: 阿貝爾獎
+    zh_cn: 阿贝尔奖
+    zh_hans: 阿贝尔奖
+    zh_hant: 阿貝爾獎
+    zh_hk: 阿貝爾獎
+    zh_sg: 阿贝尔奖
+    zh_tw: 阿貝爾獎
 ---
 #is_/similar_to :: [[Fields_Medal]] 
 

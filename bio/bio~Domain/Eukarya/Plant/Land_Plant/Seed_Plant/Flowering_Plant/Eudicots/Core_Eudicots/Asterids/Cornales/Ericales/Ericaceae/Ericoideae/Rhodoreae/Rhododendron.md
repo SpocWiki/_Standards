@@ -93,7 +93,7 @@ dv_has_:
     azb: رودودندرون
     ba: Рододендрон
     be: Рададэндран
-    be-tarask: рададэндран
+    be_tarask: рададэндран
     bg: рододендрон
     bn: রোদরঞ্জন
     br: Brug-roz
@@ -153,7 +153,7 @@ dv_has_:
     pl: różanecznik
     pnb: رہوڈوڈنڈرون
     pt: Rododendro
-    pt-br: Rhododendron
+    pt_br: Rhododendron
     ro: Rhododendron
     ru: Рододендрон
     sc: Rododendru
@@ -176,12 +176,12 @@ dv_has_:
     wuu: 杜鹃花属
     yue: 杜鵑花
     zh: 杜鹃花属
-    zh-cn: 杜鹃花属
-    zh-hans: 杜鹃花属
-    zh-hant: 杜鵑花屬
-    zh-hk: 杜鵑花屬
-    zh-sg: 杜鹃花属
-    zh-tw: 杜鵑花屬
+    zh_cn: 杜鹃花属
+    zh_hans: 杜鹃花属
+    zh_hant: 杜鵑花屬
+    zh_hk: 杜鵑花屬
+    zh_sg: 杜鹃花属
+    zh_tw: 杜鵑花屬
 ---
 # [[Rhododendron]] 
 

@@ -10,8 +10,8 @@ dv_has_:
     da: Amazon Prime
     de: Amazon Prime
     en: Amazon Prime
-    en-ca: Amazon Prime
-    en-gb: Amazon Prime
+    en_ca: Amazon Prime
+    en_gb: Amazon Prime
     fa: آمازون پرایم
     fr: Amazon Prime
     ga: Amazon Prime
@@ -27,14 +27,14 @@ dv_has_:
     ne: अमेजन प्राइम
     nl: Amazon Prime
     pt: Amazon Prime
-    pt-br: Amazon Prime
+    pt_br: Amazon Prime
     sl: Amazon Prime
     sr: Amazon Prime
     te: అమెజాన్ ప్రైమ్
     tr: Amazon Prime
     vi: Amazon Prime
     zh: 亚马逊Prime
-    zh-hant: conichiwa
+    zh_hant: conichiwa
 aliases:
 - Amazon Prime
 - Amazonプライム

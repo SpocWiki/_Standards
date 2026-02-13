@@ -194,7 +194,7 @@ dv_has_:
     bar: Adam
     bcl: Adan
     be: Адам
-    be-tarask: Адам
+    be_tarask: Адам
     bew: Adam
     bg: Адам
     bn: আদম
@@ -212,8 +212,8 @@ dv_has_:
     diq: Adem
     el: Αδάμ
     en: Adam
-    en-ca: Adam
-    en-gb: Adam
+    en_ca: Adam
+    en_gb: Adam
     eo: Adamo
     es: Adán
     et: Aadam
@@ -268,7 +268,7 @@ dv_has_:
     pl: Adam
     ps: آدم
     pt: Adão
-    pt-br: Adão
+    pt_br: Adão
     ro: Adam
     ru: Адам
     rw: Adamu
@@ -297,7 +297,7 @@ dv_has_:
     tok: jan Atan
     tr: Adem
     tt: Адәм
-    tt-cyrl: Адәм
+    tt_cyrl: Адәм
     ty: Adamu
     ug: ئادەم ئەلەيھىسسالام
     uk: Адам
@@ -316,11 +316,11 @@ dv_has_:
     yue: 亞當
     zgh: ⴰⴷⴰⵎ
     zh: 亞當
-    zh-cn: 亚当
-    zh-hans: 亚当
-    zh-hant: 亞當
-    zh-hk: 亞當
-    zh-tw: 亞當
+    zh_cn: 亚当
+    zh_hans: 亚当
+    zh_hant: 亞當
+    zh_hk: 亞當
+    zh_tw: 亞當
 ---
 # [[Adam]] 
 

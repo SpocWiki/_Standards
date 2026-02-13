@@ -95,7 +95,7 @@ dv_has_:
     az: Sekstant
     ba: Секстант
     be: Секстант
-    be-tarask: Сэкстант
+    be_tarask: Сэкстант
     bg: Секстант
     bn: ষষ্ঠাংশ মণ্ডল
     br: Sekstant
@@ -110,7 +110,7 @@ dv_has_:
     diq: Şeşıki
     el: Εξάς
     en: Sextans
-    en-gb: Sextans
+    en_gb: Sextans
     eo: Sekstanto
     es: Sextans
     et: Sekstant

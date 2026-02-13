@@ -174,7 +174,7 @@ dv_has_:
     ba: Бәпембә
     bar: Taraxacum
     be: Дзьмухавец
-    be-tarask: дзьмухавец
+    be_tarask: дзьмухавец
     bg: глухарче
     bho: टॅराक्सॅकम
     bn: সিংহদন্ত
@@ -192,12 +192,12 @@ dv_has_:
     da: mælkebøtte
     de: Löwenzahn
     de-at: Taraxacum
-    de-ch: Löwenzahn
+    de_ch: Löwenzahn
     dsb: Mlac
     el: ταραξάκο
     en: Taraxacum
-    en-ca: Taraxacum
-    en-gb: Taraxacum
+    en_ca: Taraxacum
+    en_gb: Taraxacum
     eo: taraksako
     es: Taraxacum
     et: võilill
@@ -251,7 +251,7 @@ dv_has_:
     nap: Taraxacum
     nb: løvetannslekta
     nds: Taraxacum
-    nds-nl: Taraxacum
+    nds_nl: Taraxacum
     nl: Taraxacum
     nn: Løvetann
     nrm: Taraxacum
@@ -265,7 +265,7 @@ dv_has_:
     pms: Taraxacum
     pnb: ککروندا
     pt: Dente-de-leão
-    pt-br: Dente-de-leão
+    pt_br: Dente-de-leão
     rm: Taraxacum
     ro: Taraxacum
     ru: Одуванчик
@@ -281,7 +281,7 @@ dv_has_:
     sms: vuõjjlieʹđđi
     sq: Taraxacum
     sr: маслачак
-    sr-ec: маслачак
+    sr_ec: маслачак
     stq: Hoangstebloume
     sv: maskrossläktet
     sw: Taraxacum
@@ -304,9 +304,9 @@ dv_has_:
     yi: לופטל
     yue: 蒲公英
     zh: 蒲公英属
-    zh-cn: 蒲公英屬
-    zh-hans: 蒲公英属
-    zh-tw: 蒲公英屬
+    zh_cn: 蒲公英屬
+    zh_hans: 蒲公英属
+    zh_tw: 蒲公英屬
     zu: Taraxacum
 ---
 # [[Dandelion]] 

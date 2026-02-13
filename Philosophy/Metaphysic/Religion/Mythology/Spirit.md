@@ -103,7 +103,7 @@ dv_has_:
     bas: zùu
     bcl: Espiritu (labi sa natural na bagay)
     be: дух
-    be-tarask: дух
+    be_tarask: дух
     bg: Дух
     bn: আত্মা
     bs: Duh
@@ -163,7 +163,7 @@ dv_has_:
     pa: ਰੂਹ
     pl: duch
     pt: espírito
-    pt-br: espírito
+    pt_br: espírito
     ro: Spirit
     ru: дух
     scn: Spìrtu
@@ -175,15 +175,15 @@ dv_has_:
     sn: Mweya
     sq: Shpirti
     sr: дух
-    sr-ec: дух
-    sr-el: Duh
+    sr_ec: дух
+    sr_el: Duh
     sv: ande
     sw: Roho
     th: สปิริต
     tly: ruf
     tr: Tin
     tt: ия
-    tt-cyrl: өрәк
+    tt_cyrl: өрәк
     uk: дух
     ur: روح
     vep: heng
@@ -192,12 +192,12 @@ dv_has_:
     yue: 靈
     zgh: ⵉⵎⴰⵏ
     zh: 精神
-    zh-cn: 精神
-    zh-hans: 精神
-    zh-hant: 精神
-    zh-hk: 精神
-    zh-sg: 精神
-    zh-tw: 精神
+    zh_cn: 精神
+    zh_hans: 精神
+    zh_hant: 精神
+    zh_hk: 精神
+    zh_sg: 精神
+    zh_tw: 精神
 ---
 # [[Spirit]] 
 

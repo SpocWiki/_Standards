@@ -75,7 +75,7 @@ dv_has_:
     ast: Motociclismu
     ba: мотоцикл спорты
     be: матацыклетны спорт
-    be-tarask: матацыклетны спорт
+    be_tarask: матацыклетны спорт
     ca: motociclisme
     cs: motocyklový sport
     da: motorcykelsport
@@ -126,9 +126,9 @@ dv_has_:
     vec: Motosiclismo
     yue: 電單車運動
     zh: 摩托車運動
-    zh-hant: 摩托車競賽
-    zh-hk: 電單車運動
-    zh-tw: 摩托車競賽
+    zh_hant: 摩托車競賽
+    zh_hk: 電單車運動
+    zh_tw: 摩托車競賽
 ---
 # [[Motorcycle_Sport]] 
 

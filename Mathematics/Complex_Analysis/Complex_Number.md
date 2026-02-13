@@ -249,7 +249,7 @@ dv_has_:
     azb: کومپلکس ساییلار
     ba: комплекс һан
     be: камплексны лік
-    be-tarask: камплексны лік
+    be_tarask: камплексны лік
     bg: комплексно число
     bn: জটিল সংখ্যা
     bs: kompleksan broj
@@ -338,7 +338,7 @@ dv_has_:
     pms: nùmer compless
     pnb: کمپلیکس نمبر
     pt: número complexo
-    pt-br: número complexo
+    pt_br: número complexo
     rki: ကွန်ပလက်စ်ကိန်း
     ro: număr complex
     ru: комплексное число
@@ -381,14 +381,14 @@ dv_has_:
     yo: nọ́mbà tóṣòro
     yue: 複數
     zh: 複數
-    zh-cn: 复数
-    zh-hans: 复数
-    zh-hant: 複數
-    zh-hk: 複數
-    zh-mo: 複數
+    zh_cn: 复数
+    zh_hans: 复数
+    zh_hant: 複數
+    zh_hk: 複數
+    zh_mo: 複數
     zh-my: 复数
-    zh-sg: 复数
-    zh-tw: 複數
+    zh_sg: 复数
+    zh_tw: 複數
 ---
 # [[Complex_Number]] 
 

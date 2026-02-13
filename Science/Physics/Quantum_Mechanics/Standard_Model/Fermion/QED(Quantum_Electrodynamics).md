@@ -95,7 +95,7 @@ dv_has_:
     ar: كهروديناميكا كمية
     ast: electrodinámica cuántica
     be: квантавая электрадынаміка
-    be-tarask: квантавая электрадынаміка
+    be_tarask: квантавая электрадынаміка
     bg: квантова електродинамика
     bho: प्रमात्रा बिद्युतगतिबिज्ञान
     bn: কোয়ান্টাম তড়িৎ-গতিবিজ্ঞান
@@ -106,8 +106,8 @@ dv_has_:
     de: Quantenelektrodynamik
     el: Κβαντική ηλεκτροδυναμική
     en: quantum electrodynamics
-    en-ca: quantum electrodynamics
-    en-gb: quantum electrodynamics
+    en_ca: quantum electrodynamics
+    en_gb: quantum electrodynamics
     eo: kvantuma elektrodinamiko
     es: electrodinámica cuántica
     et: kvantelektrodünaamika
@@ -140,7 +140,7 @@ dv_has_:
     pa: ਕੁਆਂਟਮ ਇਲੈਕਟ੍ਰੋਡਾਇਨਾਮਿਕਸ
     pl: elektrodynamika kwantowa
     pt: eletrodinâmica quântica
-    pt-br: eletrodinâmica quântica
+    pt_br: eletrodinâmica quântica
     ro: electrodinamică cuantică
     ru: квантовая электродинамика
     sco: quantum electrodynamics
@@ -156,12 +156,12 @@ dv_has_:
     war: kwantum elektrodinamika
     yue: 量子電動力學
     zh: 量子電動力學
-    zh-cn: 量子电动力学
-    zh-hans: 量子电动力学
-    zh-hant: 量子電動力學
-    zh-hk: 量子電動力學
-    zh-sg: 量子电动力学
-    zh-tw: 量子電動力學
+    zh_cn: 量子电动力学
+    zh_hans: 量子电动力学
+    zh_hant: 量子電動力學
+    zh_hk: 量子電動力學
+    zh_sg: 量子电动力学
+    zh_tw: 量子電動力學
 ---
 # [[QED(Quantum_Electrodynamics)]] 
 

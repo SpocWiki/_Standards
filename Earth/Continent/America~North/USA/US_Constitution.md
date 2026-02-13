@@ -227,7 +227,7 @@ dv_has_:
     az: ABŞ Konstitusiyası
     ba: АҠШ Конституцияһы
     be: Канстытуцыя ЗША
-    be-tarask: Канстытуцыя ЗША
+    be_tarask: Канстытуцыя ЗША
     bg: Конституция на САЩ
     bho: अमेरिका के संबिधान
     bn: মার্কিন সংবিধান
@@ -284,7 +284,7 @@ dv_has_:
     pnb: ریاستہائے متحدہ امریکا دا آئین
     ps: د متحده ایالاتو اساسي قانون
     pt: Constituição dos Estados Unidos
-    pt-br: Constituição dos Estados Unidos
+    pt_br: Constituição dos Estados Unidos
     ro: Constituția Statelor Unite ale Americii
     ru: конституция США
     sah: Америка Холбоhуктаах Штаттарын конституцията
@@ -297,8 +297,8 @@ dv_has_:
     sms: Ameriikk õhttõõvvâmvaaʹldi vuâđđlääʹǩǩ
     sq: Kushtetuta e SHBA-ve
     sr: устав Сједињених Америчких Држава
-    sr-ec: устав Сједињених Америчких Држава
-    sr-el: ustav Sjedinjenih Američkih Država
+    sr_ec: устав Сједињених Америчких Држава
+    sr_el: ustav Sjedinjenih Američkih Država
     sv: USA:s konstitution
     ta: ஐக்கிய அமெரிக்க அரசியலமைப்பு
     te: అమెరికా రాజ్యాంగం
@@ -317,14 +317,14 @@ dv_has_:
     yue: 美國憲法
     zgh: ⴰⴷⵓⵙⵜⵓⵔ ⵏ ⵉⵡⴰⵏⴽⵏ ⵉⵎⵓⵏⵏ ⵏ ⵎⴰⵔⵉⴽⴰⵏ
     zh: 美國憲法
-    zh-cn: 美国宪法
-    zh-hans: 美国宪法
-    zh-hant: 美國憲法
-    zh-hk: 美國憲法
-    zh-mo: 美國憲法
+    zh_cn: 美国宪法
+    zh_hans: 美国宪法
+    zh_hant: 美國憲法
+    zh_hk: 美國憲法
+    zh_mo: 美國憲法
     zh-my: 美国宪法
-    zh-sg: 美国宪法
-    zh-tw: 美國憲法
+    zh_sg: 美国宪法
+    zh_tw: 美國憲法
 ---
 # [[US_Constitution]] 
 

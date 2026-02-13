@@ -74,7 +74,7 @@ dv_has_:
     arz: مجمع الكرادله
     ast: Colexu Cardenaliciu
     be: Калегія кардыналаў
-    be-tarask: Калегія кардыналаў
+    be_tarask: Калегія кардыналаў
     ca: Coŀlegi Cardenalici
     ceb: Kolehiyo sa mga Kardenal
     cs: Kardinálské kolegium

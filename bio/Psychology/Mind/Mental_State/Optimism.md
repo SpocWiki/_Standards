@@ -81,7 +81,7 @@ dv_has_:
     ast: Optimismu
     az: Optimizm
     be: Аптымізм
-    be-tarask: аптымізм
+    be_tarask: аптымізм
     bg: оптимизъм
     bn: আশাবাদ
     bs: Optimizam
@@ -138,8 +138,8 @@ dv_has_:
     sms: optimismm
     sq: Optimizmi
     sr: оптимизам
-    sr-ec: оптимизам
-    sr-el: optimizam
+    sr_ec: оптимизам
+    sr_el: optimizam
     sv: optimism
     ta: நன்னம்பிக்கை
     tg: Хушбинӣ
@@ -155,9 +155,9 @@ dv_has_:
     xmf: ოპტიმიზმი
     yue: 樂觀主義
     zh: 樂觀主義
-    zh-hans: 乐观主义
-    zh-hant: 樂觀主義
-    zh-hk: 樂觀主義
+    zh_hans: 乐观主义
+    zh_hant: 樂觀主義
+    zh_hk: 樂觀主義
 ---
 # [[Optimism]] 
 

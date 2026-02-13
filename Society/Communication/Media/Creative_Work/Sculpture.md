@@ -117,7 +117,7 @@ dv_has_:
     de: Skulptur
     el: γλυπτό
     en: sculpture
-    en-gb: sculpture
+    en_gb: sculpture
     en-us: sculpture
     eo: skulptaĵo
     es: escultura
@@ -160,7 +160,7 @@ dv_has_:
     pl: rzeźba
     pms: Scultura
     pt: escultura
-    pt-br: escultura
+    pt_br: escultura
     ro: sculptură
     ru: скульптура
     sco: sculptur
@@ -171,8 +171,8 @@ dv_has_:
     sms: viârstõs
     sq: skulpturë
     sr: скулптура
-    sr-ec: скулптура
-    sr-el: skulptura
+    sr_ec: скулптура
+    sr_el: skulptura
     stq: Bieldehaueräi
     sv: skulptur
     ta: சிற்பம்
@@ -184,10 +184,10 @@ dv_has_:
     vec: scultura
     vi: tác phẩm điêu khắc
     zh: 雕塑作品
-    zh-cn: 雕塑
-    zh-hans: 雕塑
-    zh-hant: 雕塑
-    zh-tw: 雕塑
+    zh_cn: 雕塑
+    zh_hans: 雕塑
+    zh_hant: 雕塑
+    zh_tw: 雕塑
 ---
 # [[Sculpture]]
 

@@ -133,7 +133,7 @@ dv_has_:
     ast: crianza de los fíos
     az: tərbiyə
     be: выхаванне
-    be-tarask: выхаваньне
+    be_tarask: выхаваньне
     bg: Възпитание
     bjn: Painguan anak
     bn: সন্তান প্রতিপালন
@@ -193,7 +193,7 @@ dv_has_:
     sl: vzgoja
     sq: Prindërimi
     sr: васпитање
-    sr-ec: родитељство
+    sr_ec: родитељство
     ss: Kukhulisa bantfwana
     sv: barnuppfostran
     ta: வளர்ப்பு
@@ -208,10 +208,10 @@ dv_has_:
     yo: obi
     yue: 湊仔
     zh: 教養
-    zh-cn: 育儿
-    zh-hans: 幼儿监护
-    zh-hant: 幼兒監護
-    zh-hk: 父母教養方式
+    zh_cn: 育儿
+    zh_hans: 幼儿监护
+    zh_hant: 幼兒監護
+    zh_hk: 父母教養方式
 ---
 # [[Parenting]] 
 

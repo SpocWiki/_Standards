@@ -83,16 +83,16 @@ dv_has_:
     ar: إيه آر دي
     ast: ARD
     az: ARD
-    be-tarask: ARD
+    be_tarask: ARD
     bg: ARD
     ca: ARD
     cs: ARD
     da: ARD
-    de-ch: ARD
+    de_ch: ARD
     diq: ARD
     el: ARD
-    en-ca: ARD
-    en-gb: ARD
+    en_ca: ARD
+    en_gb: ARD
     eo: ARD
     es: ARD
     eu: ARD
@@ -121,7 +121,7 @@ dv_has_:
     oc: ARD
     pl: ARD
     pt: ARD
-    pt-br: ARD
+    pt_br: ARD
     ro: ARD
     ru: ARD
     sh: ARD
@@ -136,8 +136,8 @@ dv_has_:
     xmf: ARD
     yue: 德國公共廣播聯盟
     zh: 德国公共广播联盟
-    zh-hant: 德國公共廣播聯盟
-    zh-tw: 德國公共廣播聯盟
+    zh_hant: 德國公共廣播聯盟
+    zh_tw: 德國公共廣播聯盟
 ---
 # [[ARD(broadcaster)]] 
 

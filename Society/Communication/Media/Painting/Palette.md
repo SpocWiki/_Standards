@@ -50,7 +50,7 @@ dv_has_:
   name_:
     ar: لوحة الألوان
     be: Палітра
-    be-tarask: палітра
+    be_tarask: палітра
     bg: Палитра
     ca: paleta
     cs: malířská paleta
@@ -89,8 +89,8 @@ dv_has_:
     sh: Slikarska Paleta
     sl: paleta
     sr: палета
-    sr-ec: палета
-    sr-el: paleta
+    sr_ec: палета
+    sr_el: paleta
     sv: palett
     th: จานสี
     tr: Palet
@@ -98,8 +98,8 @@ dv_has_:
     uz: Palitra
     yue: 調色板
     zh: 調色板
-    zh-hans: 調色板
-    zh-hant: 調色盤
+    zh_hans: 調色板
+    zh_hant: 調色盤
 ---
 # [[Palette]] 🎨  
 

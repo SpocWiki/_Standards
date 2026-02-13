@@ -45,7 +45,7 @@ dv_has_:
     oc: Dromopòdes
     pl: Dromopoda
     pt: Dromopoda
-    pt-br: Dromopoda
+    pt_br: Dromopoda
     ro: Dromopoda
     ru: Dromopoda
     sl: Dromopoda

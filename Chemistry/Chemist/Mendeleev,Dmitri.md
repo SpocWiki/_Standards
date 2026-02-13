@@ -248,7 +248,7 @@ dv_has_:
     ba: Дмитрий Иванович Менделеев
     ban: Dmitri Mendeleev
     be: Дзмітрый Іванавіч Мендзялееў
-    be-tarask: Дзьмітры Мендзялееў
+    be_tarask: Дзьмітры Мендзялееў
     bg: Дмитрий Менделеев
     bn: দিমিত্রি মেন্দেলিয়েভ
     br: Dmitriy Mendeleyev
@@ -265,13 +265,13 @@ dv_has_:
     cy: Dmitri Mendeleev
     da: Dmitrij Mendelejev
     de: Dmitri Iwanowitsch Mendelejew
-    de-ch: Dmitri Iwanowitsch Mendelejew
+    de_ch: Dmitri Iwanowitsch Mendelejew
     diq: Dmitri Mendeleyev
     el: Ντμίτρι Μεντελέγιεφ
     eml: Dmitrij Ivanovič Mendeleev
     en: Dmitri Mendeleev
-    en-ca: Dmitri Mendeleev
-    en-gb: Dmitri Mendeleev
+    en_ca: Dmitri Mendeleev
+    en_gb: Dmitri Mendeleev
     eo: Dmitrij Mendelejev
     es: Dmitri Mendeléyev
     et: Dmitri Mendelejev
@@ -352,7 +352,7 @@ dv_has_:
     pms: Dmitrij Mendeleev
     pnb: دمتری مندلیف
     pt: Dmitri Mendeleiev
-    pt-br: Dmitri Mendeleiev
+    pt_br: Dmitri Mendeleiev
     qu: Dmitri Mendeleev
     ro: Dimitri Mendeleev
     ru: Дмитрий Иванович Менделеев
@@ -371,7 +371,7 @@ dv_has_:
     sl: Dimitrij Ivanovič Mendelejev
     sq: Dmitri Mendelejev
     sr: Дмитриј Мендељејев
-    sr-ec: Дмитриј Мендељејев
+    sr_ec: Дмитриј Мендељејев
     sv: Dmitrij Mendelejev
     sw: Dimitri Mendeleyev
     szl: Dmitrij Mendelejew
@@ -383,7 +383,7 @@ dv_has_:
     tly: Dmitri Mendeleyev
     tr: Dimitri Mendeleyev
     tt: Дмитрий Менделеев
-    tt-cyrl: Дмитрий Менделеев
+    tt_cyrl: Дмитрий Менделеев
     tyv: Менделеев, Дмитрий Иванович
     uk: Менделєєв Дмитро Іванович
     ur: دمتری میندلیف
@@ -400,8 +400,8 @@ dv_has_:
     yo: Dmitri Mendeleev
     yue: 門捷列耶夫
     zh: 德米特里·伊万诺维奇·门捷列夫
-    zh-cn: 德米特里·伊万诺维奇·门捷列夫
-    zh-hans: 德米特里·伊万诺维奇·门捷列夫
+    zh_cn: 德米特里·伊万诺维奇·门捷列夫
+    zh_hans: 德米特里·伊万诺维奇·门捷列夫
   time_:
     started: 1834-02-08T00:00:00.000+00:53
     stopped: 1907-02-02T00:00:00.000+01:00

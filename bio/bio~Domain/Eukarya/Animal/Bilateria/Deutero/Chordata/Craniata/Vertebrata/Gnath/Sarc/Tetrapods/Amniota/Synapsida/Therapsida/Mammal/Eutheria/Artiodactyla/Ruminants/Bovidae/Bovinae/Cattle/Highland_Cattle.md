@@ -56,7 +56,7 @@ dv_has_:
     arz: بقر هاى لاند
     ast: Vaca de les tierres altes
     az: Haylend inəyi
-    be-tarask: гайлэндзкая карова
+    be_tarask: гайлэндзкая карова
     ca: vaca de les Highlands o vaquilles
     cs: Skotský náhorní skot
     da: skotsk højlandskvæg

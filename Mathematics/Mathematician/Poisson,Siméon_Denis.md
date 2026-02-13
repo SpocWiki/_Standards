@@ -160,8 +160,8 @@ dv_has_:
     de: Siméon Denis Poisson
     el: Σιμεόν Ντενίς Πουασόν
     en: Siméon Denis Poisson
-    en-ca: Siméon Denis Poisson
-    en-gb: Siméon Denis Poisson
+    en_ca: Siméon Denis Poisson
+    en_gb: Siméon Denis Poisson
     eo: Siméon-Denis Poisson
     es: Siméon Denis Poisson
     et: Siméon Denis Poisson
@@ -182,11 +182,11 @@ dv_has_:
     ka: სიმეონ დენის პუასონი
     kaa: Puasson Simeon Deni
     kk: Пуассон Симон Дени
-    kk-arab: پۋاسسون سىيمون دەنىي
+    kk_arab: پۋاسسون سىيمون دەنىي
     kk-cn: پۋاسسون سىيمون دەنىي
-    kk-cyrl: Пуассон Симон Дени
+    kk_cyrl: Пуассон Симон Дени
     kk-kz: Пуассон Симон Дени
-    kk-latn: Pwasson Sïmon Denï
+    kk_latn: Pwasson Sïmon Denï
     kk-tr: Pwasson Sïmon Denï
     ko: 시메옹 드니 푸아송
     la: Simeon Dionysius Poisson
@@ -202,7 +202,7 @@ dv_has_:
     pl: Siméon Denis Poisson
     pms: Siméon Denis Poisson
     pt: Siméon-Denis Poisson
-    pt-br: Siméon-Denis Poisson
+    pt_br: Siméon-Denis Poisson
     ro: Siméon Denis Poisson
     ru: Симеон Дени Пуассон
     sh: Siméon Denis Poisson
@@ -216,12 +216,12 @@ dv_has_:
     uz: Puasson Simeon Deni
     vi: Siméon-Denis Poisson
     zh: 西莫恩·德尼·泊松
-    zh-cn: 西莫恩·德尼·泊松
-    zh-hans: 西莫恩·德尼·泊松
-    zh-hant: 西莫恩·德尼·泊松
-    zh-hk: 西莫恩·德尼·帕松
-    zh-sg: 西莫恩·德尼·泊松
-    zh-tw: 西莫恩·德尼·帕松
+    zh_cn: 西莫恩·德尼·泊松
+    zh_hans: 西莫恩·德尼·泊松
+    zh_hant: 西莫恩·德尼·泊松
+    zh_hk: 西莫恩·德尼·帕松
+    zh_sg: 西莫恩·德尼·泊松
+    zh_tw: 西莫恩·德尼·帕松
 ---
 # [[Poisson,Siméon_Denis]] 
 

@@ -182,7 +182,7 @@ dv_has_:
     ba: Руаль Амундсен
     bar: Roald Amundsen
     be: Руаль Амундсен
-    be-tarask: Руаль Амундсэн
+    be_tarask: Руаль Амундсэн
     bew: Roald Amundsen
     bg: Руал Амундсен
     bn: রুয়াল আমুনসেন
@@ -200,12 +200,12 @@ dv_has_:
     da: Roald Amundsen
     de: Roald Amundsen
     de-at: Roald Amundsen
-    de-ch: Roald Amundsen
+    de_ch: Roald Amundsen
     diq: Roald Amundsen
     el: Ρόαλντ Άμουνδσεν
     en: Roald Amundsen
-    en-ca: Roald Amundsen
-    en-gb: Roald Amundsen
+    en_ca: Roald Amundsen
+    en_gb: Roald Amundsen
     eo: Roald Amundsen
     es: Roald Amundsen
     et: Roald Amundsen
@@ -292,7 +292,7 @@ dv_has_:
     pnb: روآل آمونسن
     ps: روالډ امونډسن
     pt: Roald Amundsen
-    pt-br: Roald Amundsen
+    pt_br: Roald Amundsen
     qu: Roald Amundsen
     rmf: Roald Amundsen
     ro: Roald Amundsen
@@ -347,7 +347,7 @@ dv_has_:
     yo: Roald Amundsen
     yue: 阿蒙森
     zh: 罗阿尔·阿蒙森
-    zh-cn: 罗阿尔·阿蒙森
+    zh_cn: 罗阿尔·阿蒙森
 ---
 # [[Amundsen,Roald]] 
 

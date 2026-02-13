@@ -106,7 +106,7 @@ dv_has_:
     ba: Кентавр
     bcl: Centaur
     be: кентаўры
-    be-tarask: кентаўр
+    be_tarask: кентаўр
     bg: Кентавър
     bn: সেনতোর
     br: Tud-kezeg
@@ -121,8 +121,8 @@ dv_has_:
     de: Kentaur
     el: Κένταυρος
     en: centaur
-    en-ca: Centaur
-    en-gb: centaur
+    en_ca: Centaur
+    en_gb: centaur
     eo: centaŭro
     es: centauro
     et: Kentaurid
@@ -164,7 +164,7 @@ dv_has_:
     pl: centaury
     ps: سانتورونه
     pt: centauro
-    pt-br: Centauro
+    pt_br: Centauro
     ro: Centaur
     ru: кентавр
     sco: centaur
@@ -173,7 +173,7 @@ dv_has_:
     sl: kentaver
     sq: Centauri
     sr: кентаур
-    sr-ec: кентаур
+    sr_ec: кентаур
     sv: kentaur
     sw: Kentauro
     ta: குதிரை மனிதன்

@@ -7,7 +7,7 @@ dv_has_:
     arz: متروبوليس
     az: Metropolis
     be: Метраполіс
-    be-tarask: Мэтраполіс
+    be_tarask: Мэтраполіс
     bg: Метрополис
     ca: Metropolis
     cs: Metropolis
@@ -53,8 +53,8 @@ dv_has_:
     sk: Metropolis
     sl: Metropolis
     sr: Метрополис
-    sr-ec: Метрополис
-    sr-el: Metropolis
+    sr_ec: Метрополис
+    sr_el: Metropolis
     sv: Metropolis
     te: మెట్రోపోలీస్ (1927 సినిమా)
     th: เมโทรโพลิส
@@ -64,12 +64,12 @@ dv_has_:
     vi: Metropolis
     yue: 大都會 (1927年電影)
     zh: 大都會
-    zh-cn: 大都会
-    zh-hans: 大都会
-    zh-hant: 大都會
-    zh-hk: 大都會
-    zh-sg: 大都会
-    zh-tw: 大都會
+    zh_cn: 大都会
+    zh_hans: 大都会
+    zh_hant: 大都會
+    zh_hk: 大都會
+    zh_sg: 大都会
+    zh_tw: 大都會
 aliases:
 - Filem Metropolis
 - Metropole

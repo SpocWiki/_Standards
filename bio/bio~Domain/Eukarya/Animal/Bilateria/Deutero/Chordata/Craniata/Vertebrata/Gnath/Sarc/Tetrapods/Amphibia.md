@@ -250,7 +250,7 @@ dv_has_:
     ba: Ер-һыу хайуандары
     ban: Amphibia
     be: земнаводныя
-    be-tarask: земнаводныя
+    be_tarask: земнаводныя
     bg: земноводни
     bn: উভচর প্রাণী
     bo: སྐམ་ཆུ་གཉིས་འཚོའི་སྲོག་ཆགས།
@@ -271,8 +271,8 @@ dv_has_:
     ee: Lãnɔgodzikpletɔmewo
     el: αμφίβια
     en: Amphibia
-    en-ca: Amphibian
-    en-gb: amphibian
+    en_ca: Amphibian
+    en_gb: amphibian
     eo: Amfibioj
     es: Amphibia
     et: Kahepaiksed
@@ -320,7 +320,7 @@ dv_has_:
     koi: Amphibia
     ks: جل تھلیہٕ
     ku: Bejavî
-    ku-latn: bejavî
+    ku_latn: bejavî
     kw: Diwelvennek
     ky: Амфибиялар
     la: аmphibia
@@ -341,7 +341,7 @@ dv_has_:
     mn: Сүүлтэй хоёр нутагтан
     mr: उभयचर प्राणी
     ms: Amfibia
-    ms-arab: امفيبيا
+    ms_arab: امفيبيا
     mt: Amphibia
     mul: Amphibia
     my: ကုန်းနေရေနေ သတ္တဝါ
@@ -349,7 +349,7 @@ dv_has_:
     nap: Amphibia
     nb: amfibier
     nds: Amphibien
-    nds-nl: amfibieën
+    nds_nl: amfibieën
     ne: उभयचर
     new: एम्पिबियन
     nl: amfibieën
@@ -366,7 +366,7 @@ dv_has_:
     pnb: جل تھلیے
     ps: دوه ژوندوي
     pt: Anfíbios
-    pt-br: Anfíbios
+    pt_br: Anfíbios
     qu: Allpa yaku kawsaq
     rm: Amfibis
     ro: Amfibieni
@@ -417,14 +417,14 @@ dv_has_:
     zea: Amfibieën
     zgh: ⵜⵉⵎⵙⴽⵍⵎⴰⵏⵉⵏ
     zh: 两栖动物
-    zh-cn: 两栖动物
-    zh-hans: 两栖动物
-    zh-hant: 兩棲動物
-    zh-hk: 两栖动物
-    zh-mo: 两栖动物
+    zh_cn: 两栖动物
+    zh_hans: 两栖动物
+    zh_hant: 兩棲動物
+    zh_hk: 两栖动物
+    zh_mo: 两栖动物
     zh-my: 两栖动物
-    zh-sg: 两栖动物
-    zh-tw: 兩棲動物
+    zh_sg: 两栖动物
+    zh_tw: 兩棲動物
 ---
 # [[Amphibia]]
 

@@ -138,7 +138,7 @@ dv_has_:
     az: Atlas dağları
     ba: Атлас тауҙары
     be: Горная сістэма Атлас
-    be-tarask: Атляс
+    be_tarask: Атляс
     bg: Атласки планини
     bho: एटलस परबत
     bn: এটলাস পর্বতমালা
@@ -207,13 +207,13 @@ dv_has_:
     sn: Makomo e Atlasi
     sq: Malet Atllas
     sr: Атлас
-    sr-ec: Атлас
-    sr-el: Atlas
+    sr_ec: Атлас
+    sr_el: Atlas
     sv: Atlasbergen
     sw: Atlas
     ta: அட்லசு மலைத்தொடர்
     tg: Кӯҳҳои Атлас
-    tg-latn: Kūhhoi Atlas
+    tg_latn: Kūhhoi Atlas
     th: เทือกเขาแอตลาส
     tr: Atlas Dağları
     uk: Атлаські гори
@@ -225,12 +225,12 @@ dv_has_:
     wuu: 阿特拉斯山脉
     yue: 阿特拉斯山脈
     zh: 阿特拉斯山脈
-    zh-cn: 阿特拉斯山脉
-    zh-hans: 阿特拉斯山脉
-    zh-hant: 阿特拉斯山脈
-    zh-hk: 阿特拉斯山脈
-    zh-sg: 阿特拉斯山脉
-    zh-tw: 阿特拉斯山脈
+    zh_cn: 阿特拉斯山脉
+    zh_hans: 阿特拉斯山脉
+    zh_hant: 阿特拉斯山脈
+    zh_hk: 阿特拉斯山脈
+    zh_sg: 阿特拉斯山脉
+    zh_tw: 阿特拉斯山脈
 ---
 # [[Atlas_Mountains]] 
 

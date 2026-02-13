@@ -55,7 +55,7 @@ dv_has_:
     ar: علاء الدين
     az: Ələddin
     ba: Әләддин
-    be-tarask: Алядын
+    be_tarask: Алядын
     bn: আলাদিন
     ca: Aladí
     cs: Aladin
@@ -77,7 +77,7 @@ dv_has_:
     nn: Aladdin
     pl: Aladyn
     pt: Aladim
-    pt-br: Aladim
+    pt_br: Aladim
     ro: Aladin
     ru: Аладдин (персонаж)
     sl: Aladin

@@ -70,7 +70,7 @@ dv_has_:
     pap: Isao Takahata
     pl: Isao Takahata
     pt: Isao Takahata
-    pt-br: Isao Takahata
+    pt_br: Isao Takahata
     ru: Исао Такахата
     sco: Isao Takahata
     sh: Isao Takahata
@@ -86,14 +86,14 @@ dv_has_:
     wuu: 高畑勋
     yue: 高畑勳
     zh: 高畑勳
-    zh-cn: 高畑勋
-    zh-hans: 高畑勋
-    zh-hant: 高畑勳
-    zh-hk: 高畑勳
-    zh-mo: 高畑勳
+    zh_cn: 高畑勋
+    zh_hans: 高畑勋
+    zh_hant: 高畑勳
+    zh_hk: 高畑勳
+    zh_mo: 高畑勳
     zh-my: 高畑勋
-    zh-sg: 高畑勋
-    zh-tw: 高畑勳
+    zh_sg: 高畑勋
+    zh_tw: 高畑勳
 ---
 > **Isao Takahata** (高畑 勲, Takahata Isao, October 29, 1935 – April 5, 2018) 
 > was a [[../../../../../../../Earth/Continent/Asia/Asia~East/Japan|Japanese]] director, screenwriter and producer. 

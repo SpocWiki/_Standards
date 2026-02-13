@@ -143,7 +143,7 @@ dv_has_:
     az: Skarlatina
     azb: قیزیل(مریضلیک)
     be: Шкарлятына
-    be-tarask: Шкарлятына
+    be_tarask: Шкарлятына
     bg: Скарлатина
     bn: আরক্ত জ্বর
     br: Terzhienn-ruz
@@ -182,17 +182,17 @@ dv_has_:
     ja: 猩紅熱
     ka: ქუნთრუშა
     kk: Қызамық
-    kk-arab: قىزامىق
+    kk_arab: قىزامىق
     kk-cn: قىزامىق
-    kk-cyrl: Қызамық
+    kk_cyrl: Қызамық
     kk-kz: Қызамық
-    kk-latn: Qızamıq
+    kk_latn: Qızamıq
     kk-tr: Qızamıq
     kn: ಕೆಂಜ್ವರ
     ko: 성홍열
     ku: soreta
-    ku-arab: سوورەتا
-    ku-latn: Sûreta
+    ku_arab: سوورەتا
+    ku_latn: Sûreta
     ky: Скарлатина
     la: Scarlatina
     lb: Scharlach
@@ -212,8 +212,8 @@ dv_has_:
     sk: Šarlach
     sl: Škrlatinka
     sr: шарлах
-    sr-ec: шарлах
-    sr-el: Šarlah
+    sr_ec: шарлах
+    sr_el: Šarlah
     sv: scharlakansfeber
     ta: செங்காய்ச்சல்
     te: స్కార్లెట్ జ్వరం
@@ -228,7 +228,7 @@ dv_has_:
     yue: 猩紅熱
     za: binghhwnjdan
     zh: 猩红热
-    zh-tw: 猩紅熱
+    zh_tw: 猩紅熱
 ---
 # [[Scarlet_Fever]] 
 

@@ -97,7 +97,7 @@ dv_has_:
     az: Ra
     ba: Ра
     be: Ра
-    be-tarask: Ра
+    be_tarask: Ра
     bg: Ра
     bn: রা
     bo: རུའེ།
@@ -110,11 +110,11 @@ dv_has_:
     cv: Ра
     da: Ra
     de: Re
-    de-ch: Re (ägyptische Mythologie)
+    de_ch: Re (ägyptische Mythologie)
     el: Ρα
     en: Ra
-    en-ca: Ra
-    en-gb: Ra
+    en_ca: Ra
+    en_gb: Ra
     eo: Reo
     es: Ra
     et: Ra (jumal)
@@ -162,7 +162,7 @@ dv_has_:
     pl: Ra
     pnb: رع
     pt: Rá
-    pt-br: Rá
+    pt_br: Rá
     ro: Ra
     ru: Ра
     scn: Ra
@@ -173,7 +173,7 @@ dv_has_:
     sl: Ra
     sq: Ra
     sr: Ра
-    sr-ec: Ра
+    sr_ec: Ра
     sv: Ra
     sw: Ra
     ta: இரா

@@ -64,7 +64,7 @@ dv_has_:
     az: Total müharibə
     azb: عومومی ساواش
     be: татальная вайна
-    be-tarask: татальная вайна
+    be_tarask: татальная вайна
     bg: тотална война
     bs: totalni rat
     ca: guerra total
@@ -108,8 +108,8 @@ dv_has_:
     sh: totalni rat
     sl: totalna vojna
     sr: свеопшти рат
-    sr-ec: свеопшти рат
-    sr-el: sveopšti rat
+    sr_ec: свеопшти рат
+    sr_el: sveopšti rat
     sv: total krigföring
     ta: ஒட்டுமொத்தப் போர்
     th: สงครามเบ็ดเสร็จ
@@ -117,12 +117,12 @@ dv_has_:
     uk: тотальна війна
     vi: Chiến tranh toàn diện
     zh: 总体战
-    zh-cn: 总体战
-    zh-hans: 总体战
-    zh-hant: 總體戰
-    zh-hk: 總體戰
-    zh-sg: 总体战
-    zh-tw: 總體戰
+    zh_cn: 总体战
+    zh_hans: 总体战
+    zh_hant: 總體戰
+    zh_hk: 總體戰
+    zh_sg: 总体战
+    zh_tw: 總體戰
 ---
 # [[Total_War]] 
 

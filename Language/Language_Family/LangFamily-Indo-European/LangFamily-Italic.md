@@ -171,7 +171,7 @@ dv_has_:
     bar: romanische Språchn
     bcl: Mga Latin
     be: Раманскія мовы
-    be-tarask: раманскія мовы
+    be_tarask: раманскія мовы
     bg: Романски езици
     bn: রোমান্স ভাষাসমূহ
     bo: ལ་ཊིན་ནས་ཆད་པའི་ཡུལ་སྐད།
@@ -191,8 +191,8 @@ dv_has_:
     el: ρομανικές γλώσσες
     eml: Languv latén
     en: Romance languages
-    en-ca: Romance languages
-    en-gb: Romance
+    en_ca: Romance languages
+    en_gb: Romance
     en-us: Romance languages
     eo: latinida lingvaro
     es: lenguas romances
@@ -237,7 +237,7 @@ dv_has_:
     kk: Роман тілдері
     ko: 로망스어군
     ku: zimanên romanî
-    ku-latn: zimanên romanî
+    ku_latn: zimanên romanî
     kw: Romanek
     ky: Роман тилдери
     la: linguae Romanicae
@@ -282,7 +282,7 @@ dv_has_:
     pnb: رومنی بولیاں
     ps: رومي ژبې
     pt: línguas românicas
-    pt-br: línguas românicas
+    pt_br: línguas românicas
     qu: Romanu rimaykuna
     rm: linguas romanas
     rmy: romanikane chhiba
@@ -299,7 +299,7 @@ dv_has_:
     smn: romaanlâš kielah
     sq: Gjuhët romake
     sr: романски језици
-    sr-ec: Романски језици
+    sr_ec: Романски језици
     stq: Romanisk
     sv: romanska språk
     sw: lugha za Kirumi
@@ -311,7 +311,7 @@ dv_has_:
     tok: kulupu toki Loman
     tr: Romen dilleri
     tt: роман телләре
-    tt-cyrl: роман телләре
+    tt_cyrl: роман телләре
     uk: романські мови
     ur: رومنی زبانیں
     uz: Roman tillari
@@ -324,10 +324,10 @@ dv_has_:
     yue: 羅曼語族
     zea: Romaonse taelen
     zh: 罗曼语族
-    zh-cn: 罗曼语族
-    zh-hans: 罗曼语族
-    zh-hant: 羅曼語族
-    zh-tw: 羅曼語族
+    zh_cn: 罗曼语族
+    zh_hans: 罗曼语族
+    zh_hant: 羅曼語族
+    zh_tw: 羅曼語族
 ---
 ## #has_/text_of_/abstract 
 

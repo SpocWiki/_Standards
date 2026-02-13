@@ -262,7 +262,7 @@ dv_has_:
     bar: Wassastoff
     bcl: Idrohino
     be: вадарод
-    be-tarask: вадарод
+    be_tarask: вадарод
     bg: водород
     bho: हाइड्रोजन
     blk: ဟုဲက်ဒရိုစဲန်
@@ -285,15 +285,15 @@ dv_has_:
     da: brint
     de: Wasserstoff
     de-at: Wasserstoff
-    de-ch: Wasserstoff
+    de_ch: Wasserstoff
     diq: Hidrocen
     dsb: Wóźik
     dv: ހައިޑްރަޖަން
     el: υδρογόνο
     eml: Idrôgen
     en: hydrogen
-    en-ca: hydrogen
-    en-gb: hydrogen
+    en_ca: hydrogen
+    en_gb: hydrogen
     en-us: hydrogen
     eo: hidrogeno
     es: hidrógeno
@@ -384,7 +384,7 @@ dv_has_:
     mr: हायड्रोजन
     mrj: Водород
     ms: hidrogen
-    ms-arab: هيدروݢن
+    ms_arab: هيدروݢن
     mt: idroġenu
     mul: H
     mwl: Heidrogénio
@@ -394,7 +394,7 @@ dv_has_:
     nan: Chúi-sò͘
     nb: hydrogen
     nds: Waterstoff
-    nds-nl: waeterstof
+    nds_nl: waeterstof
     ne: हाइड्रोजन
     new: हाइड्रोजन
     nl: waterstof
@@ -418,7 +418,7 @@ dv_has_:
     pnt: Υδρογόνον
     ps: هايډروجن
     pt: hidrogénio
-    pt-br: hidrogênio
+    pt_br: hidrogênio
     qu: Yakuchaq
     ro: hidrogen
     rsk: Водонїк
@@ -459,7 +459,7 @@ dv_has_:
     tok: kon Itosen
     tr: hidrojen
     tt: сутуар
-    tt-cyrl: сутуар
+    tt_cyrl: сутуар
     tum: Haidrojeni
     tyv: Водород
     udm: водород
@@ -482,14 +482,14 @@ dv_has_:
     yue: 氫
     zgh: ⴰⵀⵉⴷⵔⵓⵊⵉⵏ
     zh: 氢
-    zh-cn: 氢
-    zh-hans: 氢
-    zh-hant: 氫
-    zh-hk: 氫
-    zh-mo: 氫
+    zh_cn: 氢
+    zh_hans: 氢
+    zh_hant: 氫
+    zh_hk: 氫
+    zh_mo: 氫
     zh-my: 氢
-    zh-sg: 氢
-    zh-tw: 氫
+    zh_sg: 氢
+    zh_tw: 氫
     zu: IHwanzi
   number_of_:
     period: 1

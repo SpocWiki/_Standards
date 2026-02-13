@@ -212,7 +212,7 @@ dv_has_:
     ast: Francis Ford Coppola
     az: Frensis Ford Koppola
     be: Фрэнсіс Форд Копала
-    be-tarask: Фрэнсіс Форд Копала
+    be_tarask: Фрэнсіс Форд Копала
     bg: Франсис Форд Копола
     bho: फ्रांसिस फोर्ड कोपोला
     bn: ফ্রান্সিস ফোর্ড কোপলা
@@ -224,11 +224,11 @@ dv_has_:
     cy: Francis Ford Coppola
     da: Francis Ford Coppola
     de: Francis Ford Coppola
-    de-ch: Francis Ford Coppola
+    de_ch: Francis Ford Coppola
     el: Φράνσις Φορντ Κόπολα
     en: Francis Ford Coppola
-    en-ca: Francis Ford Coppola
-    en-gb: Francis Ford Coppola
+    en_ca: Francis Ford Coppola
+    en_gb: Francis Ford Coppola
     eo: Francis Ford Coppola
     es: Francis Ford Coppola
     et: Francis Ford Coppola
@@ -278,7 +278,7 @@ dv_has_:
     pnb: فرانسس فورڈ کوپولا
     ps: فرانسس فورډ کوپولا
     pt: Francis Ford Coppola
-    pt-br: Francis Ford Coppola
+    pt_br: Francis Ford Coppola
     qu: Francis Ford Coppola
     ro: Francis Ford Coppola
     ru: Фрэнсис Форд Коппола
@@ -294,7 +294,7 @@ dv_has_:
     th: ฟรานซิส ฟอร์ด คอปโปลา
     tr: Francis Ford Coppola
     tt: Фрәнсис Форд Коппола
-    tt-cyrl: Фрәнсис Форд Коппола
+    tt_cyrl: Фрәнсис Форд Коппола
     uk: Френсіс Форд Коппола
     ur: فرانسس فورڈ کوپولا
     vi: Francis Ford Coppola
@@ -304,13 +304,13 @@ dv_has_:
     yo: Francis Ford Coppola
     yue: 法蘭斯哥普拉
     zh: 法蘭西斯·福特·柯波拉
-    zh-cn: 弗朗西斯·福特·科波拉
-    zh-hans: 弗朗西斯·福特·科波拉
-    zh-hant: 法蘭西斯·柯波拉
-    zh-hk: 法蘭斯·哥普拉
+    zh_cn: 弗朗西斯·福特·科波拉
+    zh_hans: 弗朗西斯·福特·科波拉
+    zh_hant: 法蘭西斯·柯波拉
+    zh_hk: 法蘭斯·哥普拉
     zh-my: 法兰斯·福特·哥普拉
-    zh-sg: 法兰西斯·福特·柯普拉
-    zh-tw: 法蘭西斯·柯波拉
+    zh_sg: 法兰西斯·福特·柯普拉
+    zh_tw: 法蘭西斯·柯波拉
 ---
 # [[Coppola,Francis_Ford]]
 

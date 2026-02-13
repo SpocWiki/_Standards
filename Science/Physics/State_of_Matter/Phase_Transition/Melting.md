@@ -107,7 +107,7 @@ dv_has_:
     az: Ərimə
     bcl: Pagkatunaw
     be: Плаўленне
-    be-tarask: плаўленьне
+    be_tarask: плаўленьне
     bg: Топене
     bs: topljenje
     ca: fusió
@@ -138,11 +138,11 @@ dv_has_:
     it: fusione
     ja: 融解
     kk: Балқу
-    kk-arab: بالقۋ
+    kk_arab: بالقۋ
     kk-cn: بالقۋ
-    kk-cyrl: Балқу
+    kk_cyrl: Балқу
     kk-kz: Балқу
-    kk-latn: Balqw
+    kk_latn: Balqw
     kk-tr: Balqw
     kn: ಕರಗುವಿಕೆ
     ko: 융해
@@ -172,8 +172,8 @@ dv_has_:
     sn: Nyauka
     sq: Shkrirja
     sr: топљење
-    sr-ec: Топљење
-    sr-el: Topljenje
+    sr_ec: Топљење
+    sr_el: Topljenje
     sv: smältning
     sw: Kiwango cha kuyeyuka
     ta: உருகுதல்
@@ -190,12 +190,12 @@ dv_has_:
     wuu: 烊忒
     yue: 熔
     zh: 熔化
-    zh-cn: 熔化
-    zh-hans: 熔化
-    zh-hant: 熔化
-    zh-hk: 熔化
-    zh-sg: 熔化
-    zh-tw: 熔化
+    zh_cn: 熔化
+    zh_hans: 熔化
+    zh_hant: 熔化
+    zh_hk: 熔化
+    zh_sg: 熔化
+    zh_tw: 熔化
 ---
 # [[Melting]] 
 

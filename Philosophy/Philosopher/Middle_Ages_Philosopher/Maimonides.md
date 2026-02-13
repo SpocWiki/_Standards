@@ -155,7 +155,7 @@ dv_has_:
     az: Maymonid
     azb: ابن میمون
     be: Майманід
-    be-tarask: Маймонід
+    be_tarask: Маймонід
     bg: Моисей Маймонид
     bn: মুসা বিন মৈমুন
     br: Maimonidez
@@ -167,11 +167,11 @@ dv_has_:
     cy: Maimonides
     da: Maimonides
     de: Maimonides
-    de-ch: Maimonides
+    de_ch: Maimonides
     el: Μαϊμωνίδης
     en: Moshe ben Maimon
-    en-ca: Maimonides
-    en-gb: Maimonides
+    en_ca: Maimonides
+    en_gb: Maimonides
     en-us: Moshe ben Maimon
     eo: Majmonido
     es: Maimónides
@@ -196,16 +196,16 @@ dv_has_:
     ja: モーシェ・ベン＝マイモーン
     ka: მაიმონიდი
     kk: Маймонд Мұса
-    kk-arab: مايموند مۇسا
+    kk_arab: مايموند مۇسا
     kk-cn: مايموند مۇسا
-    kk-cyrl: Маймонд Мұса
+    kk_cyrl: Маймонд Мұса
     kk-kz: Маймонд Мұса
-    kk-latn: Maýmond Musa
+    kk_latn: Maýmond Musa
     kk-tr: Maýmond Musa
     ko: 마이모니데스
     ku: Îbn Meymûn
-    ku-arab: Iبن مەیموون
-    ku-latn: Ibn Meymûn
+    ku_arab: Iبن مەیموون
+    ku_latn: Ibn Meymûn
     ky: Маймонид Моисей
     la: Maimonides
     lad: Moshe ben Maimon
@@ -226,7 +226,7 @@ dv_has_:
     pnb: موسیٰ بن میمون
     ps: ابن ميمون
     pt: Maimônides
-    pt-br: Maimônides
+    pt_br: Maimônides
     ro: Moise Maimonide
     ru: Маймонид
     sco: Maimonides
@@ -235,8 +235,8 @@ dv_has_:
     sl: Maimonides
     sq: Meimonidi
     sr: Мојсије Мајмонид
-    sr-ec: Мојсије Мајмонид
-    sr-el: Mojsije Majmonid
+    sr_ec: Мојсије Мајмонид
+    sr_el: Mojsije Majmonid
     sv: Maimonides
     tg: Ибни Маймун
     tl: Maimonides
@@ -251,12 +251,12 @@ dv_has_:
     yi: רמב"ם
     yue: 邁蒙尼德
     zh: 邁蒙尼德
-    zh-cn: 迈蒙尼德
+    zh_cn: 迈蒙尼德
     zh-hans: 迈蒙尼德
-    zh-hant: 邁蒙尼德
-    zh-hk: 邁蒙尼德
-    zh-sg: 迈蒙尼德
-    zh-tw: 邁蒙尼德
+    zh_hant: 邁蒙尼德
+    zh_hk: 邁蒙尼德
+    zh_sg: 迈蒙尼德
+    zh_tw: 邁蒙尼德
 ---
 # [[Maimonides]] 
 

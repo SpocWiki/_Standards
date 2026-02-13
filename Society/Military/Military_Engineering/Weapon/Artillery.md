@@ -117,7 +117,7 @@ dv_has_:
     az: artilleriya
     ba: артиллерия
     be: артылерыя
-    be-tarask: артылерыя
+    be_tarask: артылерыя
     bg: артилерия
     bn: তোপ
     br: Kanolierezh
@@ -197,8 +197,8 @@ dv_has_:
     sl: artilerija
     sq: Artileria
     sr: артиљерија
-    sr-ec: артиљерија
-    sr-el: artiljerija
+    sr_ec: артиљерија
+    sr_el: artiljerija
     sv: artilleri
     szl: artyleryjŏ
     ta: பீரங்கி
@@ -213,9 +213,9 @@ dv_has_:
     wuu: 大炮
     yue: 槍炮
     zh: 火炮
-    zh-hans: 火炮
-    zh-hant: 火炮
-    zh-tw: 火炮
+    zh_hans: 火炮
+    zh_hant: 火炮
+    zh_tw: 火炮
 ---
 # [[Artillery]] 
 

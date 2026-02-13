@@ -8,7 +8,7 @@ dv_has_:
     ast: Gravitón
     az: Qraviton
     be: Гравітон
-    be-tarask: гравітон
+    be_tarask: гравітон
     bg: Гравитон
     bn: গ্র্যাভিটন
     bs: Graviton
@@ -39,11 +39,11 @@ dv_has_:
     ja: 重力子
     ka: გრავიტონი
     kk: Гравитон
-    kk-arab: گراۆىيتون
+    kk_arab: گراۆىيتون
     kk-cn: گراۆىيتون
-    kk-cyrl: Гравитон
+    kk_cyrl: Гравитон
     kk-kz: Гравитон
-    kk-latn: Gravïton
+    kk_latn: Gravïton
     kk-tr: Gravïton
     ko: 중력자
     ky: Гравитон
@@ -62,7 +62,7 @@ dv_has_:
     pa: ਗਰੈਵੀਟੋਨ
     pl: grawiton
     pt: gravitão
-    pt-br: gráviton
+    pt_br: gráviton
     ro: Graviton
     ru: гравитон
     se: gravitona
@@ -72,8 +72,8 @@ dv_has_:
     smn: gravitoon
     sms: gravitoon
     sr: гравитон
-    sr-ec: гравитон
-    sr-el: graviton
+    sr_ec: гравитон
+    sr_el: graviton
     sv: graviton
     ta: கிராவிடான்
     tg: Гравитон
@@ -87,12 +87,12 @@ dv_has_:
     wuu: 引力子
     yue: 引力子
     zh: 引力子
-    zh-cn: 引力子
-    zh-hans: 引力子
-    zh-hant: 重力子
-    zh-hk: 重力子
-    zh-sg: 引力子
-    zh-tw: 重力子
+    zh_cn: 引力子
+    zh_hans: 引力子
+    zh_hant: 重力子
+    zh_hk: 重力子
+    zh_sg: 引力子
+    zh_tw: 重力子
 aliases:
 - grabitoi
 - graibheatón

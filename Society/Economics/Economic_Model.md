@@ -65,7 +65,7 @@ dv_has_:
     af: ekonomiese model
     ar: نموذج اقتصادي
     az: İqtisadi modellər
-    be-tarask: эканамічная мадэль
+    be_tarask: эканамічная мадэль
     bg: Икономически модел
     ca: model econòmic
     da: økonomisk model
@@ -91,13 +91,13 @@ dv_has_:
     lfn: Model economial
     lv: ekonomiskā modelēšana
     ms: model ekonomi
-    ms-arab: موديل ايکونومي
+    ms_arab: موديل ايکونومي
     nb: økonomisk modell
     nl: economisch model
     nn: økonomisk modell
     pl: Model ekonomiczny
     pt: modelo económico
-    pt-br: modelo econômico
+    pt_br: modelo econômico
     ru: экономическая модель
     sl: ekonomski model
     sq: model ekonomik
@@ -105,14 +105,14 @@ dv_has_:
     th: แบบจำลองทางเศรษฐศาสตร์
     tr: ekonomik model
     tt: икътисади модель
-    tt-cyrl: экономик модел
+    tt_cyrl: экономик модел
     uk: економічна модель
     uz: Iqtisodiy model
     vi: Mô hình kinh tế
     yue: 經濟模型
     zh: 经济模型
-    zh-hant: 經濟模型
-    zh-tw: 經濟學模型
+    zh_hant: 經濟模型
+    zh_tw: 經濟學模型
 ---
 # [[Economic_Model]] 
 

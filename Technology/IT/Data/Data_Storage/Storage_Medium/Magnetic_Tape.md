@@ -86,7 +86,7 @@ dv_has_:
     az: Maqnit lenti
     ba: Магнитлы таҫма
     be: Магнітная стужка
-    be-tarask: магнітная стужка
+    be_tarask: магнітная стужка
     bg: магнитна лента
     bn: ম্যাগনেটিক টেপ
     bs: Magnetne trake
@@ -114,11 +114,11 @@ dv_has_:
     ja: 磁気テープ
     kab: Tasfift tadkirant
     kk: Магниттік таспа блогы
-    kk-arab: ماگنىيتتىك تاسپا بلوگى
+    kk_arab: ماگنىيتتىك تاسپا بلوگى
     kk-cn: ماگنىيتتىك تاسپا بلوگى
-    kk-cyrl: Магниттік таспа блогы
+    kk_cyrl: Магниттік таспа блогы
     kk-kz: Магниттік таспа блогы
-    kk-latn: Magnïttik taspa blogı
+    kk_latn: Magnïttik taspa blogı
     kk-tr: Magnïttik taspa blogı
     ko: 자기 테이프
     kv: Магнита лента
@@ -128,7 +128,7 @@ dv_has_:
     mk: магнетна лента
     mn: Соронзон тууз
     ms: pita magnet
-    ms-arab: ڤيتا مݢنيت
+    ms_arab: ڤيتا مݢنيت
     nb: magnetbånd
     nl: magneetband
     pl: taśma magnetyczna
@@ -152,12 +152,12 @@ dv_has_:
     wuu: 磁带
     yue: 磁帶
     zh: 磁带
-    zh-cn: 磁带
-    zh-hans: 磁带
-    zh-hant: 磁帶
-    zh-hk: 磁帶
-    zh-sg: 磁带
-    zh-tw: 磁帶
+    zh_cn: 磁带
+    zh_hans: 磁带
+    zh_hant: 磁帶
+    zh_hk: 磁帶
+    zh_sg: 磁带
+    zh_tw: 磁帶
 ---
 # [[Magnetic_Tape]] 
 

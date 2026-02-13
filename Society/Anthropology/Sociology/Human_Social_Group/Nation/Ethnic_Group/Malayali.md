@@ -55,7 +55,7 @@ dv_has_:
     ast: Keralite
     ba: Малаяли
     be: малаялі
-    be-tarask: малаялі
+    be_tarask: малаялі
     bg: Малаяли
     bn: মালয়ালি
     ca: malayalikal
@@ -72,9 +72,9 @@ dv_has_:
     ja: マラヤーリ
     kge: Jolma Malayali
     kk: Малаялилер
-    kk-arab: مالايالىيلەر
-    kk-cyrl: Малаялилер
-    kk-latn: Malayalïler
+    kk_arab: مالايالىيلەر
+    kk_cyrl: Малаялилер
+    kk_latn: Malayalïler
     ko: 말라얄리인
     ks: مَلیٲلؠ لوٗکھ
     lt: malajaliai
@@ -98,8 +98,8 @@ dv_has_:
     vec: keralite
     yue: 馬拉也利人
     zh: 馬拉亞利人
-    zh-cn: 马拉雅拉姆人
-    zh-hant: 馬拉雅拉姆人
+    zh_cn: 马拉雅拉姆人
+    zh_hant: 馬拉雅拉姆人
 ---
 # [[Malayali]] 
 

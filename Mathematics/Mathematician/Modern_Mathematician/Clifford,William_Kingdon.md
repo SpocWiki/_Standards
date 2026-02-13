@@ -57,7 +57,7 @@ dv_has_:
     pms: William Kingdon Clifford
     ps: وېلیم کېنګډن کلېفورډ
     pt: William Kingdon Clifford
-    pt-br: William Kingdon Clifford
+    pt_br: William Kingdon Clifford
     ro: William Kingdon Clifford
     ru: Уильям Кингдон Клиффорд
     sk: William Kingdon Clifford
@@ -68,12 +68,12 @@ dv_has_:
     tr: William Kingdon Clifford
     uk: Вільям Кліфорд
     zh: 威廉·金頓·克利福德
-    zh-cn: 威廉·金顿·克利福德
-    zh-hans: 威廉·金顿·克利福德
-    zh-hant: 威廉·金頓·克利福德
-    zh-hk: 威廉·金頓·克利福德
-    zh-sg: 威廉·金顿·克利福德
-    zh-tw: 威廉·金頓·克利福德
+    zh_cn: 威廉·金顿·克利福德
+    zh_hans: 威廉·金顿·克利福德
+    zh_hant: 威廉·金頓·克利福德
+    zh_hk: 威廉·金頓·克利福德
+    zh_sg: 威廉·金顿·克利福德
+    zh_tw: 威廉·金頓·克利福德
 ---
 #has_/time_/started :: 1845-05-04 
 #has_/time_/stopped :: 1879-03-03 

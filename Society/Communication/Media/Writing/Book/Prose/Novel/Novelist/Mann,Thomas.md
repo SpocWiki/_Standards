@@ -255,7 +255,7 @@ dv_has_:
     ba: Томас Манн
     bar: Thomas Mann
     be: Томас Ман
-    be-tarask: Томас Ман
+    be_tarask: Томас Ман
     bg: Томас Ман
     bn: টমাস মান
     br: Thomas Mann
@@ -270,12 +270,12 @@ dv_has_:
     dag: Thomas Mann
     de: Thomas Mann
     de-at: Thomas Mann
-    de-ch: Thomas Mann
+    de_ch: Thomas Mann
     diq: Thomas Mann
     el: Τόμας Μαν
     en: Thomas Mann
-    en-ca: Thomas Mann
-    en-gb: Thomas Mann
+    en_ca: Thomas Mann
+    en_gb: Thomas Mann
     en-us: Thomas Mann
     eo: Thomas Mann
     es: Thomas Mann
@@ -343,7 +343,7 @@ dv_has_:
     pms: Thomas Mann
     pnb: تھامس مان
     pt: Thomas Mann
-    pt-br: Thomas Mann
+    pt_br: Thomas Mann
     qu: Thomas Mann
     ro: Thomas Mann
     ru: Томас Манн
@@ -356,8 +356,8 @@ dv_has_:
     sl: Thomas Mann
     sq: Thomas Mann
     sr: Томас Ман
-    sr-ec: Томас Ман
-    sr-el: Tomas Man
+    sr_ec: Томас Ман
+    sr_el: Tomas Man
     sv: Thomas Mann
     sw: Thomas Mann
     ta: தாமசு மாண்

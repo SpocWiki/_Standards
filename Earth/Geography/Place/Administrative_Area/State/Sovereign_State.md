@@ -209,7 +209,7 @@ dv_has_:
     bar: souveräna Stoot
     bcl: soberanong estado
     be: суверэнная дзяржава
-    be-tarask: сувэрэнная дзяржава
+    be_tarask: сувэрэнная дзяржава
     bg: суверенна държава
     bho: संप्रभु राज्य
     bjn: Daptar nagara badaulat
@@ -231,8 +231,8 @@ dv_has_:
     diq: Dewleta hegemonyal
     el: κυρίαρχο κράτος
     en: sovereign state
-    en-ca: sovereign state
-    en-gb: sovereign state
+    en_ca: sovereign state
+    en_gb: sovereign state
     en-us: sovereign state
     eo: suverena ŝtato
     es: estado soberano
@@ -297,7 +297,7 @@ dv_has_:
     mni: ꯃꯅꯤꯡ ꯇꯝꯕ ꯂꯩꯄꯥꯛ
     mr: सार्वभौम राष्ट्र
     ms: negara berdaulat
-    ms-arab: نݢارا برداولت
+    ms_arab: نݢارا برداولت
     mt: stat sovran
     my: အချုပ်အခြာ အာဏာပိုင် နိုင်ငံ
     mzn: مستقل کشور
@@ -320,7 +320,7 @@ dv_has_:
     prg: wālstis
     ps: خپلواک هېواد
     pt: estado soberano
-    pt-br: Estado soberano
+    pt_br: Estado soberano
     ro: stat suveran
     ru: суверенное государство
     sah: тутулуга суох дойду
@@ -340,21 +340,21 @@ dv_has_:
     so: Dowlad madax banaan
     sq: shtet i pavarur
     sr: суверена држава
-    sr-ec: суверена држава
-    sr-el: suverena država
+    sr_ec: суверена држава
+    sr_el: suverena država
     su: Nagara daulat
     sv: suverän stat
     ta: இறைமையுள்ள நாடு
     te: సార్వభౌమ రాజ్యం
     tg: кишвари мустақил
-    tg-cyrl: давлати мустақил
+    tg_cyrl: давлати мустақил
     th: รัฐเอกราช
     tl: soberanong estado
     tok: ma lawa
     tr: egemen devlet
     tt: суверен дәүләт
-    tt-cyrl: суверен дәүләт
-    tt-latn: suveren däwlät
+    tt_cyrl: суверен дәүләт
+    tt_latn: suveren däwlät
     udm: асэрико кун
     uk: суверенна держава
     ur: خود مختار ریاست
@@ -368,11 +368,11 @@ dv_has_:
     yo: Orílẹ̀-èdè àdádúró
     yue: 主權國
     zh: 主權國家
-    zh-cn: 主权国家
-    zh-hans: 主权国家
-    zh-hant: 主權國家
-    zh-hk: 主權國家
-    zh-tw: 主權國家
+    zh_cn: 主权国家
+    zh_hans: 主权国家
+    zh_hant: 主權國家
+    zh_hk: 主權國家
+    zh_tw: 主權國家
 ---
 # [[Sovereign_State]] 
 

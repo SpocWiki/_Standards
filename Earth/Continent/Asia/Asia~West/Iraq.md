@@ -6,7 +6,7 @@ dv_has_:
     acm: العراق
     ady: Ирак
     aeb: Lɛiraq
-    aeb-arab: العراق
+    aeb_arab: العراق
     af: Irak
     am: ኢራቅ
     ami: Iraq
@@ -30,7 +30,7 @@ dv_has_:
     bar: Irak
     bcl: Iraq
     be: Ірак
-    be-tarask: Ірак
+    be_tarask: Ірак
     bew: Irak
     bg: Ирак
     bgn: ایراک
@@ -47,7 +47,7 @@ dv_has_:
     bug: ᨕᨗᨑ
     bxr: Ирак
     ca: Iraq
-    cbk-zam: Iraq
+    cbk_zam: Iraq
     cdo: Iraq
     ce: Ӏиракъ
     ceb: Iraq
@@ -55,7 +55,7 @@ dv_has_:
     ckb: عێراق
     co: Iraccu
     crh: Iraq
-    crh-latn: Iraq
+    crh_latn: Iraq
     crh-ro: Îrak
     cs: Irák
     csb: Irak
@@ -66,7 +66,7 @@ dv_has_:
     dag: Iraq
     de: Irak
     de-at: Irak
-    de-ch: Irak
+    de_ch: Irak
     diq: Iraq
     dsb: Irak
     dtp: Iraq
@@ -74,8 +74,8 @@ dv_has_:
     dv: ޢިރާޤު
     el: Ιράκ
     en: Iraq
-    en-ca: Iraq
-    en-gb: Iraq
+    en_ca: Iraq
+    en_gb: Iraq
     en-us: Iraq
     eo: Irako
     es: Irak
@@ -100,7 +100,7 @@ dv_has_:
     gn: Irake
     gom: इराक
     gom-deva: इराक
-    gom-latn: Iraq
+    gom_latn: Iraq
     gor: Irak
     got: "\U00010339\U00010342\U00010330\U0001033A"
     gpe: Iraq
@@ -172,7 +172,7 @@ dv_has_:
     mad: Irak
     mag: इराक
     mai: इराक
-    map-bms: Irak
+    map_bms: Irak
     mdf: Ирак
     mg: Iraka
     mhr: Ирак
@@ -184,7 +184,7 @@ dv_has_:
     mni: ꯏꯔꯥꯛ
     mr: इराक
     ms: Iraq
-    ms-arab: عراق
+    ms_arab: عراق
     mt: Iraq
     mwl: Eiraque
     my: အီရတ်နိုင်ငံ
@@ -195,7 +195,7 @@ dv_has_:
     nan: Iraq
     nb: Irak
     nds: Irak
-    nds-nl: Irak
+    nds_nl: Irak
     ne: इराक
     new: इराक
     nl: Irak
@@ -220,7 +220,7 @@ dv_has_:
     pnb: عراق
     ps: عراق
     pt: Iraque
-    pt-br: Iraque
+    pt_br: Iraque
     qu: Iraq
     rmy: Iraq
     ro: Irak
@@ -252,8 +252,8 @@ dv_has_:
     so: Ciraaq
     sq: Iraku
     sr: Ирак
-    sr-ec: Ирак
-    sr-el: Irak
+    sr_ec: Ирак
+    sr_el: Irak
     ss: I-Irakhi
     stq: Irak
     su: Irak
@@ -267,7 +267,7 @@ dv_has_:
     te: ఇరాక్
     tet: Irake
     tg: Ироқ
-    tg-cyrl: Ҷумҳурии Ироқ
+    tg_cyrl: Ҷумҳурии Ироқ
     th: ประเทศอิรัก
     tk: Yrak
     tl: Iraq
@@ -278,7 +278,7 @@ dv_has_:
     tr: Irak
     trv: Iraq
     tt: Гыйрак
-    tt-cyrl: Гыйрак
+    tt_cyrl: Гыйрак
     tum: Iraq
     tw: Irak
     udm: Ирак
@@ -304,12 +304,12 @@ dv_has_:
     za: Iraq
     zea: Irak
     zh: 伊拉克
-    zh-cn: 伊拉克
-    zh-hans: 伊拉克
-    zh-hant: 伊拉克
-    zh-hk: 伊拉克
+    zh_cn: 伊拉克
+    zh_hans: 伊拉克
+    zh_hant: 伊拉克
+    zh_hk: 伊拉克
     zh-my: 伊拉克
-    zh-tw: 伊拉克
+    zh_tw: 伊拉克
     zu: I-Iraki
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Iraq

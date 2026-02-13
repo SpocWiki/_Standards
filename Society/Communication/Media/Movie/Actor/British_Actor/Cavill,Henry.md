@@ -58,8 +58,8 @@ dv_has_:
     dty: हेनरी केभिल
     el: Χένρι Κάβιλ
     en: Henry Cavill
-    en-ca: Henry Cavill
-    en-gb: Henry Cavill
+    en_ca: Henry Cavill
+    en_gb: Henry Cavill
     eo: Henry Cavill
     es: Henry Cavill
     et: Henry Cavill
@@ -102,7 +102,7 @@ dv_has_:
     pag: Henry Cavill
     pl: Henry Cavill
     pt: Henry Cavill
-    pt-br: Henry Cavill
+    pt_br: Henry Cavill
     ro: Henry Cavill
     ru: Генри Кавилл
     sco: Henry Cavill
@@ -125,12 +125,12 @@ dv_has_:
     xmf: ჰენრი კევილი
     yue: 亨利卡菲爾
     zh: 亨利·卡维尔
-    zh-cn: 亨利·卡维尔
-    zh-hans: 亨利·卡维尔
-    zh-hant: 亨利·卡維爾
-    zh-hk: 亨利·卡維爾
-    zh-sg: 亨利·卡维尔
-    zh-tw: 亨利·卡維爾
+    zh_cn: 亨利·卡维尔
+    zh_hans: 亨利·卡维尔
+    zh_hant: 亨利·卡維爾
+    zh_hk: 亨利·卡維爾
+    zh_sg: 亨利·卡维尔
+    zh_tw: 亨利·卡維爾
 ---
 # [[Cavill,Henry]] 
 

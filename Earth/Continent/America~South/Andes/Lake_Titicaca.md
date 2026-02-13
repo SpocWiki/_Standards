@@ -172,7 +172,7 @@ dv_has_:
     bar: Titicacasee
     bcl: Danaw Titicaca
     be: Возера Тытыкака
-    be-tarask: Тытыкака
+    be_tarask: Тытыкака
     bg: Титикака
     bn: তিতিকাকা হ্রদ
     bo: ཏི་ཏི་ཁ་ཁ་མཚེའུ།
@@ -185,12 +185,12 @@ dv_has_:
     cy: Llyn Titicaca
     da: Titicaca-søen
     de: Titicacasee
-    de-ch: Titicaca-See
+    de_ch: Titicaca-See
     dty: टिटिकाका ताल
     el: Τιτικάκα
     en: Titicaca
-    en-ca: Lake Titicaca
-    en-gb: Lake Titicaca
+    en_ca: Lake Titicaca
+    en_gb: Lake Titicaca
     eo: Lago Titikako
     es: Titicaca
     es-419: Titikaka
@@ -252,7 +252,7 @@ dv_has_:
     pa: ਟੀਟੀਕਾਕਾ ਝੀਲ
     pl: Titicaca
     pt: Lago Titicaca
-    pt-br: Lago Titicaca
+    pt_br: Lago Titicaca
     qu: Titiqaqa qucha
     rm: Lai Titicaca
     ro: Lacul Titicaca
@@ -267,7 +267,7 @@ dv_has_:
     sl: Titikaka
     sq: Liqeni Titikaka
     sr: Титикака
-    sr-ec: Титикака
+    sr_ec: Титикака
     stq: Titicaca-See
     sv: Titicacasjön
     sw: Titicaca
@@ -289,7 +289,7 @@ dv_has_:
     xmf: ტიტიკაკა
     yue: 的的喀喀湖
     zh: 的的喀喀湖
-    zh-hant: 的的喀喀湖
+    zh_hant: 的的喀喀湖
 ---
 # [[Lake_Titicaca]] 
 

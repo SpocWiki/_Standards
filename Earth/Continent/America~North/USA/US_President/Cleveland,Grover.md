@@ -90,7 +90,7 @@ dv_has_:
     bar: Stephen Grover Cleveland
     bcl: Grover Cleveland
     be: Стывен Гровер Кліўленд
-    be-tarask: Стывэн Гровэр Кліўлэнд
+    be_tarask: Стывэн Гровэр Кліўлэнд
     bg: Гроувър Кливланд
     bi: Grover Cleveland
     bn: গ্রোভার ক্লিভল্যান্ড
@@ -111,7 +111,7 @@ dv_has_:
     dv: ގްރޯވަރ ކްލީވްލޭންޑް
     el: Γκρόβερ Κλίβελαντ
     en: Grover Cleveland
-    en-ca: Grover Cleveland
+    en_ca: Grover Cleveland
     eo: Grover Cleveland
     es: Grover Cleveland
     et: Grover Cleveland
@@ -181,7 +181,7 @@ dv_has_:
     pnb: گروور کلیولینڈ
     ps: سټیفن ګروور کلیولینډ
     pt: Grover Cleveland
-    pt-br: Grover Cleveland
+    pt_br: Grover Cleveland
     rm: Grover Cleveland
     rmf: Grover Cleveland
     ro: Grover Cleveland

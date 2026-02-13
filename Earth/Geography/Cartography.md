@@ -145,7 +145,7 @@ dv_has_:
     az: kartoqrafiya
     ba: Картография
     be: картаграфія
-    be-tarask: картаграфія
+    be_tarask: картаграфія
     bg: Картография
     bho: कार्टोग्राफी
     bn: মানচিত্রাঙ্কনবিদ্যা
@@ -155,14 +155,14 @@ dv_has_:
     cy: Cartograffeg
     da: kartografi
     de: Kartographie
-    de-ch: Kartografie
+    de_ch: Kartografie
     diq: Kartografiye
     dsb: kartografija
     dtp: kartografi
     el: χαρτογραφία
     en: cartography
-    en-ca: Cartography
-    en-gb: cartography
+    en_ca: Cartography
+    en_gb: cartography
     eo: kartografio
     es: cartografía
     et: kartograafia
@@ -189,7 +189,7 @@ dv_has_:
     kk: Картография
     ko: 지도학
     ku: nexşekêşî
-    ku-latn: nexşekêşî
+    ku_latn: nexşekêşî
     ky: Картография
     la: cartographia
     lb: Kartographie
@@ -201,7 +201,7 @@ dv_has_:
     ml: കാർട്ടോഗ്രാഫി
     mn: Зурагзүй
     ms: kartografi
-    ms-arab: کرتوݢرافي
+    ms_arab: کرتوݢرافي
     mwl: Cartografie
     my: မြေပုံဆွဲပညာ
     nb: kartografi
@@ -213,7 +213,7 @@ dv_has_:
     pl: kartografia
     ps: نقشه جوړونه
     pt: cartografia
-    pt-br: Cartografia
+    pt_br: Cartografia
     ro: cartografie
     ru: картография
     scn: Cartugrafìa
@@ -242,7 +242,7 @@ dv_has_:
     tl: kartograpiya
     tr: haritacılık
     tt: картография
-    tt-cyrl: картография
+    tt_cyrl: картография
     tw: Katografi - Asaase ho mfoniniyɛ
     uk: картографія
     ur: نقشہ نگاری

@@ -47,12 +47,12 @@ dv_has_:
     pa: ਉੱਥੇ ਖੂਨ ਹੋਵੇਗਾ
     pl: Aż poleje się krew
     pt: There Will Be Blood
-    pt-br: Sangue Negro
+    pt_br: Sangue Negro
     ro: Va curge sânge
     ru: Нефть
     sr: Биће крви
-    sr-ec: Биће крви
-    sr-el: Biće krvi
+    sr_ec: Биће крви
+    sr_el: Biće krvi
     sv: There Will Be Blood
     sw: There Will Be Blood
     tr: Kan Dökülecek
@@ -60,13 +60,13 @@ dv_has_:
     wuu: 血色将至
     yue: 黑金風雲
     zh: 黑金企業
-    zh-cn: 血色将至
-    zh-hans: 血色将至
-    zh-hant: 黑金企業
-    zh-hk: 黑金風雲
+    zh_cn: 血色将至
+    zh_hans: 血色将至
+    zh_hant: 黑金企業
+    zh_hk: 黑金風雲
     zh-my: 黑金企业
-    zh-sg: 黑金企业
-    zh-tw: 黑金企業
+    zh_sg: 黑金企业
+    zh_tw: 黑金企業
 aliases:
 - Aż poleje się krew
 - Až na krev

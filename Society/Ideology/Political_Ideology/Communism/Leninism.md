@@ -74,7 +74,7 @@ dv_has_:
     az: leninizm
     ba: ленинизм
     be: ленінізм
-    be-tarask: ленінізм
+    be_tarask: ленінізм
     bg: ленинизъм
     bho: लेनिनवाद
     bn: লেনিনবাদ
@@ -109,11 +109,11 @@ dv_has_:
     ja: レーニン主義
     ka: ლენინიზმი
     kk: Ленинизм
-    kk-arab: لەنىينىيزم
+    kk_arab: لەنىينىيزم
     kk-cn: لەنىينىيزم
-    kk-cyrl: Ленинизм
+    kk_cyrl: Ленинизм
     kk-kz: Ленинизм
-    kk-latn: lenïnïzm
+    kk_latn: lenïnïzm
     kk-tr: lenïnïzm
     ko: 레닌주의
     la: Leninismus
@@ -125,7 +125,7 @@ dv_has_:
     mk: Ленинизам
     ml: ലെനിനിസം
     ms: Leninisme
-    ms-arab: لينينيسمى
+    ms_arab: لينينيسمى
     nan: Lenin-chú-gī
     nb: leninisme
     ne: लेनिनवाद
@@ -148,15 +148,15 @@ dv_has_:
     smn: leninism
     sms: leninismm
     sr: лењинизам
-    sr-ec: Лењинизам
-    sr-el: lenjinizam
+    sr_ec: Лењинизам
+    sr_el: lenjinizam
     sv: leninism
     ta: லெனினிசம்
     th: ลัทธิเลนิน
     tl: leninismo
     tr: leninizm
     tt: ленинизм
-    tt-cyrl: ленинизм
+    tt_cyrl: ленинизм
     uk: ленінізм
     ur: لینیت
     vec: leninismo
@@ -166,12 +166,12 @@ dv_has_:
     xmf: ლენინიზმი
     yue: 列寧主義
     zh: 列寧主義
-    zh-cn: 列宁主义
-    zh-hans: 列宁主义
-    zh-hant: 列寧主義
-    zh-hk: 列寧主義
-    zh-sg: 列宁主义
-    zh-tw: 列寧主義
+    zh_cn: 列宁主义
+    zh_hans: 列宁主义
+    zh_hant: 列寧主義
+    zh_hk: 列寧主義
+    zh_sg: 列宁主义
+    zh_tw: 列寧主義
 ---
 # [[Leninism]] 
 

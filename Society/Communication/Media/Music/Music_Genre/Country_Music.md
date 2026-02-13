@@ -123,7 +123,7 @@ dv_has_:
     az: kantri
     bar: Country-Musi
     be: кантры
-    be-tarask: кантры
+    be_tarask: кантры
     bg: кънтри
     bs: country
     ca: country
@@ -136,7 +136,7 @@ dv_has_:
     de: Country-Musik
     el: κάντρι μουσική
     en: country music
-    en-gb: country music
+    en_gb: country music
     eo: kontreo
     es: música country
     et: kantrimuusika
@@ -168,7 +168,7 @@ dv_has_:
     ko: 컨트리 음악
     ks: کَنٹری مۄسیٖقی
     ku: muzîka country
-    ku-latn: muzîka country
+    ku_latn: muzîka country
     kw: ilow bow
     la: Musica rustica
     lb: Countrymusek
@@ -185,13 +185,13 @@ dv_has_:
     my: ကန်းထရီးဂီတ
     mzn: کانتری
     nb: countrymusikk
-    nds-nl: Country
+    nds_nl: Country
     nl: countrymuziek
     nn: country
     oc: country
     pl: muzyka country
     pt: música country
-    pt-br: música country
+    pt_br: música country
     ro: muzică country
     ru: кантри
     sah: Кантри
@@ -222,7 +222,7 @@ dv_has_:
     yo: orin òyìnbó
     yue: 鄉村音樂
     zh: 鄉村音樂
-    zh-hant: 鄉村音樂
+    zh_hant: 鄉村音樂
 ---
 # [[Country_Music]] 
 

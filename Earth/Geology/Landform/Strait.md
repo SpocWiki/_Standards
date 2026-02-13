@@ -160,7 +160,7 @@ dv_has_:
     ban: selat
     bcl: Itiot
     be: праліў
-    be-tarask: праліў
+    be_tarask: праліў
     bg: проток
     bho: जलजोड़
     bn: প্রণালী
@@ -180,8 +180,8 @@ dv_has_:
     diq: tengeh
     el: πορθμός
     en: strait
-    en-ca: strait
-    en-gb: strait
+    en_ca: strait
+    en_gb: strait
     eo: markolo
     es: estrecho
     et: väin
@@ -217,7 +217,7 @@ dv_has_:
     kk: бұғаз
     ko: 해협
     ku: tengav
-    ku-latn: tengav
+    ku_latn: tengav
     ky: кысык
     la: Fretum
     lb: Mierengt
@@ -234,7 +234,7 @@ dv_has_:
     mn: хоолой
     mr: सामुद्रधुनी
     ms: selat
-    ms-arab: سلت
+    ms_arab: سلت
     mt: fliegu
     mzn: استریتو
     nan: hái-kiap
@@ -285,10 +285,10 @@ dv_has_:
     yi: דורכגאס
     yue: 海峽
     zh: 海峡
-    zh-cn: 海峡
-    zh-hans: 海峡
-    zh-hant: 海峽
-    zh-tw: 海峽
+    zh_cn: 海峡
+    zh_hans: 海峡
+    zh_hant: 海峽
+    zh_tw: 海峽
 ---
 #is_/same_as :: [[_Standards/WikiData/WD~strait,37901]] 
 

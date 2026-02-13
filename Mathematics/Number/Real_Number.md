@@ -144,7 +144,7 @@ dv_has_:
     ba: ысын һан
     bcl: tunay na bilang
     be: рэчаісны лік
-    be-tarask: рэчаісны лік
+    be_tarask: рэчаісны лік
     bg: реално число
     bho: वास्तविक संख्या
     bn: বাস্তব সংখ্যা
@@ -162,8 +162,8 @@ dv_has_:
     el: πραγματικός αριθμός
     eml: nómmer reèl
     en: real number
-    en-ca: real number
-    en-gb: real number
+    en_ca: real number
+    en_gb: real number
     eo: reelo
     es: número real
     et: reaalarv
@@ -219,7 +219,7 @@ dv_has_:
     ml: വാസ്തവികസംഖ്യ
     mr: सत् संख्या
     ms: nombor nyata
-    ms-arab: نومبور ڽات
+    ms_arab: نومبور ڽات
     my: ကိန်းစစ်
     nan: si̍t-sò͘
     nb: reelt tall
@@ -233,7 +233,7 @@ dv_has_:
     pl: liczby rzeczywiste
     pms: nùmer real
     pt: número real
-    pt-br: número real
+    pt_br: número real
     ro: număr real
     ru: вещественное число
     sah: дьиңнээх чыыһылалар
@@ -248,7 +248,7 @@ dv_has_:
     sms: reaal-lååkk
     sq: numër real
     sr: реални број
-    sr-ec: реални број
+    sr_ec: реални број
     sv: reella tal
     sw: namba halisi
     ta: மெய்யெண்
@@ -267,14 +267,14 @@ dv_has_:
     yo: nọ́mbà gidi
     yue: 實數
     zh: 实数
-    zh-cn: 实数
-    zh-hans: 实数
-    zh-hant: 實數
-    zh-hk: 實數
-    zh-mo: 實數
+    zh_cn: 实数
+    zh_hans: 实数
+    zh_hant: 實數
+    zh_hk: 實數
+    zh_mo: 實數
     zh-my: 实数
-    zh-sg: 实数
-    zh-tw: 實數
+    zh_sg: 实数
+    zh_tw: 實數
 ---
 # [[Real_Number]] 
 

@@ -91,7 +91,7 @@ dv_has_:
     ast: solidificación
     bcl: pagyelo
     be: замярзанне
-    be-tarask: зацьвярдзеньне
+    be_tarask: зацьвярдзеньне
     bg: втвърдяване
     bn: হিমন
     ca: solidificació
@@ -99,11 +99,11 @@ dv_has_:
     cs: tuhnutí
     da: frysning
     de: Erstarren
-    de-ch: Erstarren
+    de_ch: Erstarren
     el: πήξη
     en: freezing
-    en-ca: freezing
-    en-gb: freezing
+    en_ca: freezing
+    en_gb: freezing
     en-us: freezing
     eo: frostiĝo
     es: solidificación
@@ -139,7 +139,7 @@ dv_has_:
     om: qorrina
     pl: krzepnięcie
     pt: solidificação
-    pt-br: solidificação
+    pt_br: solidificação
     ro: solidificare
     ru: отвердевание
     sh: ledište
@@ -147,8 +147,8 @@ dv_has_:
     sl: strjevanje
     sn: gwamba
     sr: мржњење
-    sr-ec: мржњење
-    sr-el: mržnjenje
+    sr_ec: мржњење
+    sr_el: mržnjenje
     sv: tillfrysning
     ta: உறைதல்
     tr: donma
@@ -159,12 +159,12 @@ dv_has_:
     wuu: 凝固
     yue: 凍結
     zh: 凝固
-    zh-cn: 凝固
-    zh-hans: 凝固
-    zh-hant: 凝固
-    zh-hk: 凝固
-    zh-sg: 凝固
-    zh-tw: 凝固
+    zh_cn: 凝固
+    zh_hans: 凝固
+    zh_hant: 凝固
+    zh_hk: 凝固
+    zh_sg: 凝固
+    zh_tw: 凝固
 ---
 # [[Freezing]] 
 

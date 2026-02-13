@@ -46,7 +46,7 @@ dv_has_:
     oc: Florideophyceae
     pl: Florideophyceae
     pt: Florideophyceae
-    pt-br: Florideophyceae
+    pt_br: Florideophyceae
     ro: Florideophyceae
     ru: флоридеевые водоросли
     sl: Florideophyceae
@@ -59,9 +59,9 @@ dv_has_:
     vo: Florideophyceae
     war: Florideophyceae
     zh: 红藻纲
-    zh-cn: 红藻纲
-    zh-hans: 红藻纲
-    zh-tw: 紅藻綱
+    zh_cn: 红藻纲
+    zh_hans: 红藻纲
+    zh_tw: 紅藻綱
 ---
 # [[Florideophyceae]] 
 

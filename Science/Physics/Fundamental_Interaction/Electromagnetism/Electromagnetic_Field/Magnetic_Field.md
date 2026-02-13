@@ -143,7 +143,7 @@ dv_has_:
     azb: مغناطیس مئیدانی
     ba: Магнит ҡыры
     be: магнітнае поле
-    be-tarask: магнітнае поле
+    be_tarask: магнітнае поле
     bg: Магнитно поле
     bn: চৌম্বক ক্ষেত্র
     bs: Magnetno polje
@@ -207,7 +207,7 @@ dv_has_:
     mn: Соронзон орон
     mr: चुंबकी क्षेत्र
     ms: medan magnet
-    ms-arab: ميدن مݢنيت
+    ms_arab: ميدن مݢنيت
     my: သံလိုက်စက်ကွင်း
     nb: magnetfelt
     nds: Magneetfeld
@@ -237,7 +237,7 @@ dv_has_:
     sms: magneʹttǩeʹdd
     sq: Fusha magnetike
     sr: магнетско поље
-    sr-ec: магнетско поље
+    sr_ec: магнетско поље
     su: Médan Magnétik
     sv: magnetfält
     sw: Uga sumaku

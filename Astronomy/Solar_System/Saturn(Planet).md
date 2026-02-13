@@ -364,7 +364,7 @@ dv_has_:
     bar: Saturn
     bcl: Saturno
     be: планета Сатурн
-    be-tarask: Сатурн
+    be_tarask: Сатурн
     bew: Johal
     bg: Сатурн
     bho: शनि ग्रह
@@ -398,8 +398,8 @@ dv_has_:
     el: Κρόνος
     eml: Satûren
     en: Saturn
-    en-ca: Saturn
-    en-gb: Saturn
+    en_ca: Saturn
+    en_gb: Saturn
     eo: Saturno
     es: Saturno
     et: Saturn
@@ -477,7 +477,7 @@ dv_has_:
     lv: Saturns
     lzh: 土星
     mad: Saturnus
-    map-bms: Saturnus
+    map_bms: Saturnus
     mdf: Сатурн
     mg: Satorina
     mi: Pareārau
@@ -498,7 +498,7 @@ dv_has_:
     nap: Saturno
     nb: Saturn
     nds: Saturn
-    nds-nl: Saturnus
+    nds_nl: Saturnus
     ne: शनिग्रह
     new: शनि
     nl: Saturnus
@@ -521,7 +521,7 @@ dv_has_:
     pnb: زحل
     ps: زحل
     pt: Saturno
-    pt-br: Saturno
+    pt_br: Saturno
     qu: Hawcha
     rm: Saturn
     rmy: Shani
@@ -565,13 +565,13 @@ dv_has_:
     tok: mun Satunu
     tr: Satürn
     tt: Сатурн
-    tt-cyrl: Сатурн
+    tt_cyrl: Сатурн
     tum: Chanya la Mlisko
     tyv: Сатурн
     udm: Сатурн
     ug: ساتۇرن
-    ug-arab: ساتۇرن
-    ug-latn: Saturn
+    ug_arab: ساتۇرن
+    ug_latn: Saturn
     uk: Сатурн
     ur: زحل
     uz: Saturn
@@ -594,14 +594,14 @@ dv_has_:
     zea: Saturnus
     zgh: ⴰⴳⵔⵓ
     zh: 土星
-    zh-cn: 土星
-    zh-hans: 土星
-    zh-hant: 土星
-    zh-hk: 土星
-    zh-mo: 土星
+    zh_cn: 土星
+    zh_hans: 土星
+    zh_hant: 土星
+    zh_hk: 土星
+    zh_mo: 土星
     zh-my: 土星
-    zh-sg: 土星
-    zh-tw: 土星
+    zh_sg: 土星
+    zh_tw: 土星
     zu: USatureni
 ---
 # [[Saturn(Planet)]] 🪐 

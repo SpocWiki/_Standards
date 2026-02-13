@@ -275,7 +275,7 @@ dv_has_:
     ba: Мөхәммәт (Пәйғәмбәр)
     bcl: Mahoma
     be: Магамет
-    be-tarask: Мухамад
+    be_tarask: Мухамад
     bew: Muhammad
     bg: Мохамед
     bho: मुहम्मद
@@ -296,22 +296,22 @@ dv_has_:
     ckb: محەممەد
     co: Magumetu
     crh: Muhammed
-    crh-latn: Muhammed
+    crh_latn: Muhammed
     cs: Mohamed
     cv: Мухаммет пихампар
     cy: Mohamed
     da: Muhammed
     dag: Muhammad
     de: Mohammed
-    de-ch: Mohammed
+    de_ch: Mohammed
     dga: Prophet Mohammed
     diq: Mıhemmed
     dtp: Nabi Muhammad
     dv: މުޙައްމަދުގެފާނު
     el: Μωάμεθ
     en: Muhammad
-    en-ca: Muhammad
-    en-gb: Muhammad
+    en_ca: Muhammad
+    en_gb: Muhammad
     en-us: Muhammad
     eo: Mohamedo
     es: Mahoma
@@ -411,7 +411,7 @@ dv_has_:
     nap: Mametto
     nb: Muhammed
     nds: Mohammed
-    nds-nl: Mohammed
+    nds_nl: Mohammed
     ne: मुहाम्मद
     new: मुहम्मद
     nl: Mohammed
@@ -433,7 +433,7 @@ dv_has_:
     pnb: محمد
     ps: محمد
     pt: Maomé
-    pt-br: Maomé
+    pt_br: Maomé
     qu: Muhamad
     rki: မိုဟာမက်
     rmy: Muhammad
@@ -474,12 +474,12 @@ dv_has_:
     tok: jan Muwama
     tr: Muhammed
     tt: Мөхәммәт пәйгамбәр
-    tt-cyrl: Мөхәммәт
-    tt-latn: Möxämmät
+    tt_cyrl: Мөхәммәт
+    tt_latn: Möxämmät
     tw: Muhammad
     ug: مۇھەممەد ئەلەيھىسسالام
-    ug-arab: مۇھەممەد ئەلەيھىسسالام
-    ug-latn: Muhammed
+    ug_arab: مۇھەممەد ئەلەيھىسسالام
+    ug_latn: Muhammed
     uk: Магомет
     ur: محمد بن عبداللہ
     uz: Muhammad
@@ -500,10 +500,10 @@ dv_has_:
     zea: Mohammed
     zgh: ⵎⵓⵃⵎⵎⴰⴷ
     zh: 穆罕默德
-    zh-cn: 穆罕默德
-    zh-hans: 穆罕默德
-    zh-hant: 穆罕默德
-    zh-tw: 穆罕默德
+    zh_cn: 穆罕默德
+    zh_hans: 穆罕默德
+    zh_hant: 穆罕默德
+    zh_tw: 穆罕默德
     zu: Muhammad
 ---
 # [[Muhammad]] 

@@ -148,7 +148,7 @@ dv_has_:
     az: beynəlxalq münasibətlər
     ba: халыҡ-ара мөнәсәбәттәр
     be: міжнародныя адносіны
-    be-tarask: міжнародныя дачыненьні
+    be_tarask: міжнародныя дачыненьні
     bg: Международни отношения
     bn: আন্তর্জাতিক সম্পর্ক
     br: darempredoù etrebroadel
@@ -164,7 +164,7 @@ dv_has_:
     diq: Têkilîyê Mîyanşaran
     el: διεθνείς σχέσεις
     en: international relations
-    en-gb: international relations
+    en_gb: international relations
     en-us: international relations
     eo: internaciaj rilatoj
     es: relaciones internacionales
@@ -194,17 +194,17 @@ dv_has_:
     jv: Hubungan internasional
     ka: საერთაშორისო ურთიერთობები
     kk: Халықаралық қатынастарды демократизациялау
-    kk-arab: حالىقارالىق قاتىناستاردى دەموكراتىيزاتسىييالاۋ
+    kk_arab: حالىقارالىق قاتىناستاردى دەموكراتىيزاتسىييالاۋ
     kk-cn: حالىقارالىق قاتىناستاردى دەموكراتىيزاتسىييالاۋ
-    kk-cyrl: Халықаралық қатынастарды демократизациялау
+    kk_cyrl: Халықаралық қатынастарды демократизациялау
     kk-kz: Халықаралық қатынастарды демократизациялау
-    kk-latn: Xalıqaralıq qatınastardı demokratïzacïyalaw
+    kk_latn: Xalıqaralıq qatınastardı demokratïzacïyalaw
     kk-tr: Xalıqaralıq qatınastardı demokratïzacïyalaw
     kn: ಅಂತಾರಾಷ್ಟ್ರೀಯ ಸಂಬಂಧಗಳು
     ko: 국제 관계
     krj: kaangtanan internasyonal
     ku: Têkiliyên navneteweyî
-    ku-arab: به يوه ندي نيو ده وله تي
+    ku_arab: به يوه ندي نيو ده وله تي
     ky: Эл аралык мамилелер
     lb: International Bezéiungen
     lg: Entabamawanga
@@ -217,7 +217,7 @@ dv_has_:
     mn: Олон улсын харилцаа
     mr: आंतरराष्ट्रीय संबंध
     ms: hubungan antarabangsa
-    ms-arab: هوبوڠن انتارابڠسا
+    ms_arab: هوبوڠن انتارابڠسا
     my: နိုင်ငံတကာ ဆက်ဆံရေးပညာ
     nan: Kok-chè-koan-hē-ha̍k
     nb: internasjonal politikk
@@ -241,8 +241,8 @@ dv_has_:
     sms: meeraikõskksaž politikk
     sq: marrëdhënie ndërkombëtare
     sr: међународни односи
-    sr-ec: међународни односи
-    sr-el: međunarodni odnosi
+    sr_ec: међународни односи
+    sr_el: međunarodni odnosi
     sv: internationella relationer
     sw: Siasa za Mataifa na Nchi za Kisasa
     ta: பன்னாட்டு உறவுகள்
@@ -259,14 +259,14 @@ dv_has_:
     wuu: 国际关系学
     yue: 國際關係
     zh: 國際關係學
-    zh-cn: 国际关系
-    zh-hans: 国际关系
-    zh-hant: 國際關係學
-    zh-hk: 國際關係學
-    zh-mo: 國際關係
+    zh_cn: 国际关系
+    zh_hans: 国际关系
+    zh_hant: 國際關係學
+    zh_hk: 國際關係學
+    zh_mo: 國際關係
     zh-my: 国际关系
-    zh-sg: 国际关系
-    zh-tw: 國際關係
+    zh_sg: 国际关系
+    zh_tw: 國際關係
 ---
 # [[International_Relations]] 
 

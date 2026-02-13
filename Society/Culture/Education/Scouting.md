@@ -126,7 +126,7 @@ dv_has_:
     az: Dünya Skaut Hərəkatı
     ba: скауттар
     be: скаўцкі рух
-    be-tarask: скаўцкі рух
+    be_tarask: скаўцкі рух
     bg: Скаутско движение
     bn: স্কাউটিং
     br: Skoutelezh
@@ -135,11 +135,11 @@ dv_has_:
     cs: skauting
     da: spejderbevægelsen
     de: Pfadfinderbewegung
-    de-ch: Pfadfinder
+    de_ch: Pfadfinder
     el: Προσκοπισμός
     en: scouting
-    en-ca: Scouting
-    en-gb: scouting
+    en_ca: Scouting
+    en_gb: scouting
     eo: Skoltismo
     es: escultismo
     eu: Eskautismo
@@ -185,7 +185,7 @@ dv_has_:
     pap: Skoutismo
     pl: Skauting
     pt: escutismo
-    pt-br: escotismo
+    pt_br: escotismo
     ro: cercetașie
     ru: скауты
     sat: ᱥᱠᱟᱣᱩᱴ
@@ -212,8 +212,8 @@ dv_has_:
     wuu: 童军活动
     yue: 童軍運動
     zh: 童军活动
-    zh-hant: 童軍活動
-    zh-tw: 童軍活動
+    zh_hant: 童軍活動
+    zh_tw: 童軍活動
 ---
 # [[Scouting]] 
 

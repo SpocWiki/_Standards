@@ -107,7 +107,7 @@ dv_has_:
     bar: Timor
     bcl: Timor
     be: Востраў Тымор
-    be-tarask: Тымор
+    be_tarask: Тымор
     bg: Тимор
     bjn: Timor
     bn: তিমুর
@@ -122,11 +122,11 @@ dv_has_:
     da: Timor
     de: Timor
     de-at: Timor
-    de-ch: Timor
+    de_ch: Timor
     el: Τιμόρ
     en: Timor
-    en-ca: Timor
-    en-gb: Timor
+    en_ca: Timor
+    en_gb: Timor
     eo: Timoro
     es: Timor
     et: Timor
@@ -170,7 +170,7 @@ dv_has_:
     lij: Timor
     lt: Timoras
     lv: Timora
-    map-bms: Timor
+    map_bms: Timor
     mg: Timor
     mi: Tīmoa
     min: Timor
@@ -186,7 +186,7 @@ dv_has_:
     nap: Timor
     nb: Timor
     nds: Timor
-    nds-nl: Timor
+    nds_nl: Timor
     nl: Timor
     nn: Timor
     nrm: Timor
@@ -200,7 +200,7 @@ dv_has_:
     pnb: تیمور جزیرہ
     ps: تیمور ټاپو
     pt: Timor
-    pt-br: Timor
+    pt_br: Timor
     rm: Timor
     ro: Timor
     ru: Тимор
@@ -213,7 +213,7 @@ dv_has_:
     sl: Timor
     so: Timor
     sr: Тимор
-    sr-el: Timor
+    sr_el: Timor
     stq: Timor
     su: Timor
     sv: Timor

@@ -259,7 +259,7 @@ dv_has_:
     ast: Parllamentu Européu
     az: Avropa Parlamenti
     be: Еўрапейскі парламент
-    be-tarask: Эўрапейскі парлямэнт
+    be_tarask: Эўрапейскі парлямэнт
     bg: Европейски парламент
     bn: ইউরোপীয় সংসদ
     br: Parlamant Europa
@@ -271,12 +271,12 @@ dv_has_:
     cy: Senedd Ewrop
     da: Europa-Parlamentet
     de: Europäisches Parlament
-    de-ch: Europäisches Parlament
+    de_ch: Europäisches Parlament
     dsb: Europski parlament
     el: Ευρωπαϊκό Κοινοβούλιο
     en: European Parliament
-    en-ca: European Parliament
-    en-gb: European Parliament
+    en_ca: European Parliament
+    en_gb: European Parliament
     eo: Eŭropa Parlamento
     es: Parlamento Europeo
     et: Euroopa Parlament
@@ -325,7 +325,7 @@ dv_has_:
     mn: Европын парламент
     mr: युरोपियन संसद
     ms: Parlimen Eropah
-    ms-arab: ڤرليمن ايروڤه
+    ms_arab: ڤرليمن ايروڤه
     mt: Parlament Ewropew
     mwl: Parlamiento Ouropeu
     my: ဥရောပ ပါလီမန်
@@ -344,7 +344,7 @@ dv_has_:
     pnb: یورپی پارلیمنٹ
     ps: اروپايي پارلمان
     pt: Parlamento Europeu
-    pt-br: Parlamento Europeu
+    pt_br: Parlamento Europeu
     ro: Parlamentul European
     ru: Европейский парламент
     rue: Европскый парламент
@@ -373,14 +373,14 @@ dv_has_:
     yue: 歐洲議會
     zea: Europeês Parlement
     zh: 欧洲议会
-    zh-cn: 欧洲议会
-    zh-hans: 欧洲议会
-    zh-hant: 歐洲議會
-    zh-hk: 歐洲議會
-    zh-mo: 歐洲議會
+    zh_cn: 欧洲议会
+    zh_hans: 欧洲议会
+    zh_hant: 歐洲議會
+    zh_hk: 歐洲議會
+    zh_mo: 歐洲議會
     zh-my: 欧洲议会
-    zh-sg: 欧洲议会
-    zh-tw: 歐洲議會
+    zh_sg: 欧洲议会
+    zh_tw: 歐洲議會
 ---
 # [[European_Parliament]] 
 

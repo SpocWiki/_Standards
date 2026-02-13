@@ -39,15 +39,15 @@ dv_has_:
   name_:
     ar: دالة حسوبة
     ast: Función computable
-    be-tarask: вылічальная функцыя
+    be_tarask: вылічальная функцыя
     bn: গণনাযোগ্য ফাংশন
     ca: Funció computable
     cs: vyčíslitelná funkce
     de: berechenbare Funktion
     el: Υπολογίσιμη συνάρτηση
     en: computable function
-    en-ca: Computable function
-    en-gb: computable function
+    en_ca: Computable function
+    en_gb: computable function
     eo: komputebla funkcio
     es: función computable
     eu: Funtzio konputagarri
@@ -61,7 +61,7 @@ dv_has_:
     nl: berekenbare functie
     pl: funkcja obliczalna
     pt: função computável
-    pt-br: função computável
+    pt_br: função computável
     ro: funcție calculabilă
     ru: вычислимая функция
     sr: Израчунљива функција
@@ -70,9 +70,9 @@ dv_has_:
     vi: Hàm tính toán được
     yue: 可運算函數
     zh: 可计算函数
-    zh-hans: 可计算函数
-    zh-hant: 可計算函數
-    zh-hk: 可計算函數
+    zh_hans: 可计算函数
+    zh_hant: 可計算函數
+    zh_hk: 可計算函數
 ---
 # [[Computable_Function]] 
 

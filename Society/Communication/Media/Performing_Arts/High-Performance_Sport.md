@@ -254,7 +254,7 @@ dv_has_:
     bar: Sport
     bcl: isports
     be: спорт
-    be-tarask: спорт
+    be_tarask: спорт
     bew: gerak badan
     bg: спорт
     bho: खेलकूद
@@ -268,7 +268,7 @@ dv_has_:
     bs: sport
     bxr: тамир
     ca: esport
-    cbk-zam: deporte
+    cbk_zam: deporte
     cdo: ông-dông
     ce: спорт
     ceb: paugnat sa kusog
@@ -276,21 +276,21 @@ dv_has_:
     ckb: وەرزش
     co: sport
     crh: sport
-    crh-latn: sport
+    crh_latn: sport
     cs: sport
     csb: szpòrt
     cv: спорт
     cy: chwaraeon
     da: sport
     de: Sport
-    de-ch: Sport
+    de_ch: Sport
     diq: spor
     dtp: sipoot
     el: αθλητισμός
     eml: Sport
     en: sport
-    en-ca: sport
-    en-gb: sport
+    en_ca: sport
+    en_gb: sport
     eo: sporto
     es: deporte
     et: sport
@@ -364,7 +364,7 @@ dv_has_:
     ltg: sports
     lv: sports
     lzh: 體育
-    map-bms: olahraga
+    map_bms: olahraga
     mdf: спортсь
     mhr: спорт
     mi: hākinakina
@@ -373,7 +373,7 @@ dv_has_:
     mn: спорт
     mr: खेळ
     ms: sukan
-    ms-arab: سوکن
+    ms_arab: سوکن
     mt: sport
     mwl: çporto
     my: အားကစား
@@ -383,7 +383,7 @@ dv_has_:
     nap: sport
     nb: sport
     nds: Sport
-    nds-nl: sport
+    nds_nl: sport
     ne: खेल
     new: कासा
     nl: sport
@@ -407,7 +407,7 @@ dv_has_:
     pnb: سپورٹس
     ps: تکړښت
     pt: desporto
-    pt-br: esporte
+    pt_br: esporte
     qu: kurku kallpanchay
     rm: sport
     ro: sport
@@ -435,7 +435,7 @@ dv_has_:
     so: ciyaaraha
     sq: sport
     sr: спорт
-    sr-ec: спорт
+    sr_ec: спорт
     st: dipapadi
     stq: Sport
     su: olah raga
@@ -445,7 +445,7 @@ dv_has_:
     ta: உடல் திறன் விளையாட்டு
     te: ఆటలు
     tg: варзиш
-    tg-cyrl: варзиш
+    tg_cyrl: варзиш
     th: กีฬา
     ti: ስፖርት
     tk: sport
@@ -455,7 +455,7 @@ dv_has_:
     tr: spor
     ts: tamintlangu
     tt: спорт
-    tt-cyrl: спорт
+    tt_cyrl: спорт
     tw: akansie
     uk: спорт
     ur: کھیل کود
@@ -475,11 +475,11 @@ dv_has_:
     zea: sport
     zgh: ⵜⵓⵏⵏⵓⵏⵜ
     zh: 体育
-    zh-cn: 体育
-    zh-hans: 体育
-    zh-hant: 體育
-    zh-hk: 體育
-    zh-tw: 體育
+    zh_cn: 体育
+    zh_hans: 体育
+    zh_hant: 體育
+    zh_hk: 體育
+    zh_tw: 體育
 ---
 # [[High-Performance_Sport]] 
 

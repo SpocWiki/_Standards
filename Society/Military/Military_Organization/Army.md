@@ -156,7 +156,7 @@ dv_has_:
     ba: Ғәскәр
     bar: Militär
     be: сухапутныя войскі
-    be-tarask: сухаземныя войскі
+    be_tarask: сухаземныя войскі
     bew: Soldadu darat
     bg: Сухопътни войски
     bho: थलसेना
@@ -174,12 +174,12 @@ dv_has_:
     da: hær
     dag: soojanima
     de: Heer
-    de-ch: Heer
+    de_ch: Heer
     diq: Ordi
     el: στρατός ξηράς
     en: army
-    en-ca: Army
-    en-gb: army
+    en_ca: Army
+    en_gb: army
     eo: terarmeo
     es: ejército de tierra
     et: Armee
@@ -209,7 +209,7 @@ dv_has_:
     jv: Angkatan Dharat
     ka: სახმელეთო ჯარები
     kk: армия
-    kk-latn: armïya
+    kk_latn: armïya
     kn: ಸೈನ್ಯ
     ko: 육군
     ko-kp: 륙군
@@ -244,7 +244,7 @@ dv_has_:
     pdc: Armee
     pl: wojska lądowe
     pt: exército
-    pt-br: exército
+    pt_br: exército
     qu: Awqaq suyu
     ro: armată terestră
     ru: сухопутные войска
@@ -258,8 +258,8 @@ dv_has_:
     sn: Mawuto
     sq: Ushtria
     sr: копнена војска
-    sr-ec: армија
-    sr-el: armija
+    sr_ec: армија
+    sr_el: armija
     sv: armé
     sw: Jeshi la ardhi
     ta: தரைப்படை
@@ -279,14 +279,14 @@ dv_has_:
     xmf: ოსქირონე ჯარეფი
     yue: 陸軍
     zh: 陆军
-    zh-cn: 陆军
-    zh-hans: 陆军
-    zh-hant: 陸軍
-    zh-hk: 陸軍
-    zh-mo: 陸軍
+    zh_cn: 陆军
+    zh_hans: 陆军
+    zh_hant: 陸軍
+    zh_hk: 陸軍
+    zh_mo: 陸軍
     zh-my: 陆军
-    zh-sg: 陆军
-    zh-tw: 陸軍
+    zh_sg: 陆军
+    zh_tw: 陸軍
 ---
 # [[Army]] 
 

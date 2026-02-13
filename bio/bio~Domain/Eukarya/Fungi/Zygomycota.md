@@ -64,7 +64,7 @@ dv_has_:
     az: Ziqomikotlar
     ba: Зигомицеттар
     be: зігаміцэты
-    be-tarask: зыгаміцэты
+    be_tarask: зыгаміцэты
     bg: мухълови гъби
     bjn: Zygomycota
     ca: Zigomicot
@@ -108,7 +108,7 @@ dv_has_:
     oc: Zygomycota
     pl: Sprzężniaki
     pt: Zygomycota
-    pt-br: Zygomycota
+    pt_br: Zygomycota
     qu: T'inki k'allampa
     ro: Zygomycota
     ru: зигомицеты
@@ -127,12 +127,12 @@ dv_has_:
     war: Zygomycota
     yue: 接合菌門
     zh: 接合菌门
-    zh-cn: 接合菌门
-    zh-hans: 接合菌门
-    zh-hant: 接合菌門
-    zh-hk: 接合菌門
-    zh-sg: 接合菌门
-    zh-tw: 接合菌門
+    zh_cn: 接合菌门
+    zh_hans: 接合菌门
+    zh_hant: 接合菌門
+    zh_hk: 接合菌門
+    zh_sg: 接合菌门
+    zh_tw: 接合菌門
 ---
 # [[Zygomycota]]
 

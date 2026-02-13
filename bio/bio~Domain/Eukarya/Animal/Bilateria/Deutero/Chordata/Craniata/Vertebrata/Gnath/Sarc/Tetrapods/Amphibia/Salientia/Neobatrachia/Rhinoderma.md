@@ -53,7 +53,7 @@ dv_has_:
     oc: Rhinoderma
     pl: Rhinoderma
     pt: Rhinoderma
-    pt-br: Rhinoderma
+    pt_br: Rhinoderma
     ro: Rhinoderma
     ru: Ринодермы
     sq: Rhinoderma
@@ -64,11 +64,11 @@ dv_has_:
     vo: Rhinoderma
     war: Rhinoderma
     zh: 尖吻达蛙属
-    zh-cn: 尖吻达蛙属
-    zh-hans: 尖吻达蛙属
-    zh-hant: 尖吻達蛙科
-    zh-hk: 尖吻達蛙科
-    zh-tw: 尖吻達蛙屬
+    zh_cn: 尖吻达蛙属
+    zh_hans: 尖吻达蛙属
+    zh_hant: 尖吻達蛙科
+    zh_hk: 尖吻達蛙科
+    zh_tw: 尖吻達蛙屬
 ---
 # [[Rhinoderma]]
 

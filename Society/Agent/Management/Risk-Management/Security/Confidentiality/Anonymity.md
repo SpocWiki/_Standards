@@ -70,7 +70,7 @@ dv_has_:
     ar: مجهول
     az: Anonim
     be: ананімнасць
-    be-tarask: ананімнасьць
+    be_tarask: ананімнасьць
     bn: নামহীনতা
     ca: anonimat
     cs: anonymita
@@ -78,8 +78,8 @@ dv_has_:
     de: Anonymität
     el: ανωνυμία
     en: anonymity
-    en-ca: anonymity
-    en-gb: anonymity
+    en_ca: anonymity
+    en_gb: anonymity
     eo: anonimeco
     es: anonimato
     et: anonüümsus
@@ -107,7 +107,7 @@ dv_has_:
     nn: Anonym
     pl: anonimowość
     pt: anonimato
-    pt-br: Anonimato
+    pt_br: Anonimato
     ro: anonimitate
     ru: анонимность
     sd: گمنام
@@ -117,20 +117,20 @@ dv_has_:
     sms: anonymiteʹtt
     sq: Anonimiteti
     sr: анонимност
-    sr-ec: анонимност
-    sr-el: anonimnost
+    sr_ec: анонимност
+    sr_el: anonimnost
     su: Anonim
     sv: anonymitet
     uk: Анонім
     uz: Anonimlik
     yi: אנאנימיטעט
     zh: 匿名
-    zh-cn: 匿名
-    zh-hans: 匿名
-    zh-hant: 匿名
-    zh-hk: 匿名
-    zh-sg: 匿名
-    zh-tw: 匿名
+    zh_cn: 匿名
+    zh_hans: 匿名
+    zh_hant: 匿名
+    zh_hk: 匿名
+    zh_sg: 匿名
+    zh_tw: 匿名
 ---
 # [[Anonymity]] 
 

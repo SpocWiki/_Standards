@@ -235,7 +235,7 @@ inception: -8000-06
 dv_has_:
   name_:
     aa: subah
-    aeb-arab: زبده
+    aeb_arab: زبده
     af: botter
     am: ቅቤ
     an: manteca
@@ -250,7 +250,7 @@ dv_has_:
     ba: аҡ май
     bar: Budan
     be: сметанковае масла
-    be-tarask: масла
+    be_tarask: масла
     bew: Mentéga
     bg: краве масло
     bjn: mantéga
@@ -264,20 +264,20 @@ dv_has_:
     chy: heóveamêške
     ckb: کەرە
     co: butirulu
-    crh-latn: yağ
+    crh_latn: yağ
     cs: máslo
     cu: масло
     cv: çу
     cy: menyn
     da: smør
     de: Butter
-    de-ch: Butter
+    de_ch: Butter
     dsb: butra
     el: βούτυρο
     eml: butér
     en: butter
-    en-ca: butter
-    en-gb: butter
+    en_ca: butter
+    en_gb: butter
     eo: butero
     es: mantequilla
     et: või
@@ -347,14 +347,14 @@ dv_has_:
     mr: लोणी
     mrj: Ӱ
     ms: mentega
-    ms-arab: منتيݢ
+    ms_arab: منتيݢ
     mt: butir
     my: ထောပတ်
     myv: ой
     nan: bá-tah
     nb: smør
     nds: Botter
-    nds-nl: botter
+    nds_nl: botter
     ne: नौनी
     nl: boter
     nn: smør
@@ -372,7 +372,7 @@ dv_has_:
     pnb: مکھݨ
     pnt: βούτορον
     pt: manteiga
-    pt-br: manteiga
+    pt_br: manteiga
     qu: mantikilla
     rm: paintg
     rmf: tšil
@@ -407,8 +407,8 @@ dv_has_:
     so: subag
     sq: gjalpë
     sr: маслац
-    sr-ec: маслац
-    sr-el: maslac
+    sr_ec: маслац
+    sr_el: maslac
     srn: botro
     st: sereledi
     stq: Buutere
@@ -444,10 +444,10 @@ dv_has_:
     yi: פוטער
     yue: 牛油
     zh: 黄油
-    zh-hans: 黄油
-    zh-hant: 奶油
-    zh-hk: 牛油
-    zh-tw: 奶油
+    zh_hans: 黄油
+    zh_hant: 奶油
+    zh_hk: 牛油
+    zh_tw: 奶油
     zu: ibhotela
 ---
 # [[Butter]] 

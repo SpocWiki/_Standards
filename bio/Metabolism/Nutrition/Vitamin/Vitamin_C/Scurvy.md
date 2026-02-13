@@ -77,7 +77,7 @@ dv_has_:
     az: sinqa
     ba: Зәңге
     be: Цынга
-    be-tarask: шкробут
+    be_tarask: шкробут
     bg: Скорбут
     bn: স্কার্ভি
     bs: Skorbut
@@ -116,11 +116,11 @@ dv_has_:
     ja: 壊血病
     ka: სურავანდი
     kk: Қырқұлақ
-    kk-arab: قىرقۇلاق
+    kk_arab: قىرقۇلاق
     kk-cn: قىرقۇلاق
-    kk-cyrl: Қырқұлақ
+    kk_cyrl: Қырқұлақ
     kk-kz: Қырқұлақ
-    kk-latn: Qırqulaq
+    kk_latn: Qırqulaq
     kk-tr: Qırqulaq
     kn: ರಕ್ತಪಿತ್ತವ್ಯಾಧಿ
     ko: 괴혈병
@@ -144,7 +144,7 @@ dv_has_:
     pa: ਸਕਰਵੀ
     pl: szkorbut
     pt: escorbuto
-    pt-br: escorbuto
+    pt_br: escorbuto
     ro: scorbut
     ru: Цинга
     sco: scruibie
@@ -152,8 +152,8 @@ dv_has_:
     sk: Skorbut
     sl: skorbut
     sr: скорбут
-    sr-ec: Скорбут
-    sr-el: Skorbut
+    sr_ec: Скорбут
+    sr_el: Skorbut
     sv: skörbjugg
     sw: Kiseyeye
     ta: ஸ்கர்வி
@@ -169,12 +169,12 @@ dv_has_:
     wuu: 坏血病
     yue: 壞血病
     zh: 壞血病
-    zh-cn: 坏血病
-    zh-hans: 坏血病
-    zh-hant: 壞血病
-    zh-hk: 壞血病
-    zh-sg: 坏血病
-    zh-tw: 壞血病
+    zh_cn: 坏血病
+    zh_hans: 坏血病
+    zh_hant: 壞血病
+    zh_hk: 壞血病
+    zh_sg: 坏血病
+    zh_tw: 壞血病
 ---
 #is_/similar_to :: [[../Vitamin_B/Thiamine/Beri_Beri]] 
 

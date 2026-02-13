@@ -45,7 +45,7 @@ dv_has_:
     ast: Cornales
     az: Zoğalçiçəklilər
     be: Кізілакветныя
-    be-tarask: Кізілакветныя
+    be_tarask: Кізілакветныя
     bg: дряноцветни
     bs: Cornales
     ca: Cornals
@@ -56,8 +56,8 @@ dv_has_:
     de: Hartriegelartige
     el: Κρανειώδη
     en: Cornales
-    en-ca: Cornales
-    en-gb: Cornales
+    en_ca: Cornales
+    en_gb: Cornales
     eo: Kornusaloj
     es: Cornales
     et: Kontpuulaadsed
@@ -93,7 +93,7 @@ dv_has_:
     oc: Cornales
     pl: dereniowce
     pt: Cornales
-    pt-br: Cornales
+    pt_br: Cornales
     ro: Cornales
     ru: кизилоцветные
     sco: Cornales
@@ -111,10 +111,10 @@ dv_has_:
     wuu: 山茱萸目
     yue: 山茱萸目
     zh: 山茱萸目
-    zh-cn: 山茱萸目
-    zh-hans: 山茱萸目
-    zh-hant: 山茱萸目
-    zh-tw: 山茱萸目
+    zh_cn: 山茱萸目
+    zh_hans: 山茱萸目
+    zh_hant: 山茱萸目
+    zh_tw: 山茱萸目
 ---
 # [[Cornales]] 
 

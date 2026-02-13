@@ -66,7 +66,7 @@ dv_has_:
     ar: زرد
     ast: Cota de malla
     be: кальчуга
-    be-tarask: кальчуга
+    be_tarask: кальчуга
     bg: Ризница
     br: Sae-vailhek
     ca: cota de malla
@@ -75,8 +75,8 @@ dv_has_:
     da: ringbrynje
     de: Kettenrüstung
     en: chainmail
-    en-ca: chainmail
-    en-gb: chainmail
+    en_ca: chainmail
+    en_gb: chainmail
     eo: maŝkuto
     es: cota de malla
     eu: Sare-kota
@@ -101,15 +101,15 @@ dv_has_:
     pl: kolczuga
     pms: Maja (armadura)
     pt: cota de malha
-    pt-br: Cota de malha
+    pt_br: Cota de malha
     ro: cămașă de zale
     ru: кольчуга
     sh: Verižnjača
     sk: Drôtená košeľa
     sl: verižna srajca
     sr: верижњача
-    sr-ec: верижњача
-    sr-el: Verižnjača
+    sr_ec: верижњача
+    sr_el: Verižnjača
     sv: ringväv
     ta: வலைக் கவசம்
     tg: Ҷавшан
@@ -117,9 +117,9 @@ dv_has_:
     uk: кольчуга
     yue: 鏈甲
     zh: 鎖子甲
-    zh-hans: 锁子甲
-    zh-hant: 鎖子甲
-    zh-hk: 鎖子甲
+    zh_hans: 锁子甲
+    zh_hant: 鎖子甲
+    zh_hk: 鎖子甲
 ---
 # [[Chainmail]] 
 

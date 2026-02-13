@@ -46,12 +46,12 @@ dv_has_:
     cy: An American Werewolf in London
     da: En amerikansk varulv i London
     de: American Werewolf
-    de-ch: American Werewolf
+    de_ch: American Werewolf
     el: Ένας Αμερικανός Λυκάνθρωπος στο Λονδίνο
     eml: Un lupo mannaro americano a Londra
     en: An American Werewolf in London
-    en-ca: An American Werewolf in London
-    en-gb: An American Werewolf in London
+    en_ca: An American Werewolf in London
+    en_gb: An American Werewolf in London
     es: An American Werewolf in London
     eu: An American Werewolf in London
     fa: گرگنمای آمریکایی در لندن
@@ -70,7 +70,7 @@ dv_has_:
     nl: An American Werewolf in London
     pl: Amerykański wilkołak w Londynie
     pt: Um Lobisomem Americano em Londres
-    pt-br: Um Lobisomem Americano em Londres
+    pt_br: Um Lobisomem Americano em Londres
     ro: Un vârcolac american la Londra
     ru: Американский оборотень в Лондоне
     sh: Američki vukodlak u Londonu
@@ -79,11 +79,11 @@ dv_has_:
     tr: Kurt Adam Londra'da
     uk: Американський перевертень у Лондоні
     zh: 美國狼人在巴黎
-    zh-cn: 美国狼人在伦敦
-    zh-hans: 美国狼人在伦敦
-    zh-hant: 美國狼人在巴黎
-    zh-sg: 乌龙狼人
-    zh-tw: 美國狼人在巴黎
+    zh_cn: 美国狼人在伦敦
+    zh_hans: 美国狼人在伦敦
+    zh_hant: 美國狼人在巴黎
+    zh_sg: 乌龙狼人
+    zh_tw: 美國狼人在巴黎
 ---
 ## #has_/text_of_/abstract 
 

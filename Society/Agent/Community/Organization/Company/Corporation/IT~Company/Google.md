@@ -1269,7 +1269,7 @@ dv_has_:
     awa: गूगल
     azb: قوقول
     be: Google
-    be-tarask: Гугл
+    be_tarask: Гугл
     bew: Gugel (matskepé)
     bg: Гугъл
     bho: गूगल
@@ -1309,7 +1309,7 @@ dv_has_:
     ml: ഗൂഗിൾ
     mni: ꯒꯨꯒꯜ
     mr: गूगल
-    ms-arab: ݢوݢل
+    ms_arab: ݢوݢل
     mul: Google
     my: ဂူဂယ်
     mzn: گوگل
@@ -1327,7 +1327,7 @@ dv_has_:
     shi: Gugl
     si: ගූගල්
     sr: Гугл
-    sr-el: Gugl
+    sr_el: Gugl
     szl: Google
     ta: கூகிள்
     tcy: ಗೂಗಲ್
@@ -1341,9 +1341,9 @@ dv_has_:
     wuu: 谷歌
     yi: גוגל
     zgh: ⴳⵓⵓⴳⵍ
-    zh-cn: 谷歌
-    zh-hans: 谷歌
-    zh-tw: Google
+    zh_cn: 谷歌
+    zh_hans: 谷歌
+    zh_tw: Google
 ---
 # [[Google]] 
 

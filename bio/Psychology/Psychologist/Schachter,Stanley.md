@@ -59,7 +59,7 @@ dv_has_:
   name_:
     ar: ستانلي شاشتر
     ast: Stanley Schachter
-    be-tarask: Стэнлі Шэхтэр
+    be_tarask: Стэнлі Шэхтэр
     bg: Стенли Шахтер
     ca: Stanley Schachter
     cs: Stanley Schachter
@@ -88,7 +88,7 @@ dv_has_:
     nn: Stanley Schachter
     pl: Stanley Schachter
     pt: Stanley Schachter
-    pt-br: Stanley Schachter
+    pt_br: Stanley Schachter
     ru: Стэнли Шехтер
     sl: Stanley Schachter
     sq: Stanley Schachter

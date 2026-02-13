@@ -72,7 +72,7 @@ dv_has_:
     ast: Praderíes de Norteamérica
     az: Preri
     be: прэрыя
-    be-tarask: прэрыя
+    be_tarask: прэрыя
     bg: Прерия
     bn: প্রেইরি
     bs: Prerija
@@ -82,8 +82,8 @@ dv_has_:
     de: Prärie
     el: Λειμώνας
     en: prairie
-    en-ca: Prairie
-    en-gb: Prairie
+    en_ca: Prairie
+    en_gb: Prairie
     eo: prerio
     es: Praderas de Norteamérica
     et: Preeria
@@ -120,15 +120,15 @@ dv_has_:
     nn: Prærie
     pl: preria
     pt: pradaria
-    pt-br: pradaria
+    pt_br: pradaria
     ro: Prerie
     ru: прерия
     sh: Prerija
     sk: préria
     sl: prerija
     sr: Прерија
-    sr-ec: Прерија
-    sr-el: Prerija
+    sr_ec: Прерија
+    sr_el: Prerija
     sv: Prärie
     ta: பிரெய்ரி புல்வெளிகள்
     th: แพรรี
@@ -139,12 +139,12 @@ dv_has_:
     wuu: 大草原
     yue: 大草原
     zh: 大草原
-    zh-cn: 大草原
-    zh-hans: 大草原
-    zh-hant: 大草原
-    zh-hk: 大草原
-    zh-sg: 大草原
-    zh-tw: 大草原
+    zh_cn: 大草原
+    zh_hans: 大草原
+    zh_hant: 大草原
+    zh_hk: 大草原
+    zh_sg: 大草原
+    zh_tw: 大草原
 ---
 # [[Prairie]] 
 

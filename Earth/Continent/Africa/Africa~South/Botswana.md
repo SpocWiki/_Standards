@@ -425,7 +425,7 @@ dv_has_:
   name_:
     ab: Ботсвана
     ace: Botswana
-    aeb-arab: بوتسوانا
+    aeb_arab: بوتسوانا
     af: Botswana
     am: ቦትስዋና
     ami: Botswana
@@ -447,7 +447,7 @@ dv_has_:
     bar: Botswana
     bcl: Botswana
     be: Батсвана
-    be-tarask: Батсвана
+    be_tarask: Батсвана
     bew: Boswana
     bg: Ботсвана
     bgn: بوتسوانا
@@ -462,7 +462,7 @@ dv_has_:
     bs: Bocvana
     bxr: Ботсвана
     ca: Botswana
-    cbk-zam: Botswana
+    cbk_zam: Botswana
     cdo: Botswana
     ce: Ботсвана
     ceb: Botswana
@@ -471,7 +471,7 @@ dv_has_:
     ckb: بۆتسوانا
     co: Botazuana
     crh: Botsvana
-    crh-latn: Botsvana
+    crh_latn: Botsvana
     cs: Botswana
     cv: Ботсвана
     cy: Botswana
@@ -479,7 +479,7 @@ dv_has_:
     dag: Botswana
     de: Botswana
     de-at: Botswana
-    de-ch: Botswana
+    de_ch: Botswana
     diq: Botswana
     dsb: Botsuana
     dty: बोत्सवाना
@@ -487,8 +487,8 @@ dv_has_:
     ee: Botswana
     el: Μποτσουάνα
     en: Botswana
-    en-ca: Botswana
-    en-gb: Botswana
+    en_ca: Botswana
+    en_gb: Botswana
     en-us: Botswana
     eo: Bocvano
     es: Botsuana
@@ -576,7 +576,7 @@ dv_has_:
     ltg: Botsvana
     lv: Botsvana
     lzh: 波札那
-    map-bms: Botswana
+    map_bms: Botswana
     mdf: Ботсвана
     mg: Botsoana
     mhr: Ботсванеа
@@ -597,7 +597,7 @@ dv_has_:
     nan: Botswana
     nb: Botswana
     nds: Botswana
-    nds-nl: Botswana
+    nds_nl: Botswana
     ne: बोत्स्वाना
     new: बोत्स्वाना
     nl: Botswana
@@ -624,7 +624,7 @@ dv_has_:
     pnb: بوٹسوانا
     ps: بوتسوانا
     pt: Botsuana
-    pt-br: Botswana
+    pt_br: Botswana
     qu: Butswana
     rm: Botswana
     rmy: Botswana
@@ -656,8 +656,8 @@ dv_has_:
     so: Botswana
     sq: Bocvana
     sr: Боцвана
-    sr-ec: Боцвана
-    sr-el: Botsvana
+    sr_ec: Боцвана
+    sr_el: Botsvana
     ss: ÉButjwána
     st: Botswana
     stq: Botsuana
@@ -709,14 +709,14 @@ dv_has_:
     zea: Botswana
     zgh: ⴱⵓⵜⵙⵡⴰⵏⴰ
     zh: 波札那
-    zh-cn: 博茨瓦纳
-    zh-hans: 博茨瓦纳
-    zh-hant: 波札那
-    zh-hk: 博茨瓦納
-    zh-mo: 博茨瓦納
+    zh_cn: 博茨瓦纳
+    zh_hans: 博茨瓦纳
+    zh_hant: 波札那
+    zh_hk: 博茨瓦納
+    zh_mo: 博茨瓦納
     zh-my: 博茨瓦纳
-    zh-sg: 博茨瓦纳
-    zh-tw: 波札那
+    zh_sg: 博茨瓦纳
+    zh_tw: 波札那
     zu: IButswana
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Botswana

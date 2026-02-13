@@ -93,7 +93,7 @@ dv_has_:
     bar: Hestia
     bcl: Hestia
     be: Гестыя
-    be-tarask: Гестыя
+    be_tarask: Гестыя
     bg: Хестия
     bn: হেস্তিয়া
     br: Hestia
@@ -132,7 +132,7 @@ dv_has_:
     kk: Гестия
     ko: 헤스티아
     ku: Hestîa
-    ku-latn: Hestîa
+    ku_latn: Hestîa
     la: Hestia
     lb: Hestia
     lfn: Hestia
@@ -162,8 +162,8 @@ dv_has_:
     sl: Hestija
     sq: Hestia
     sr: Хестија
-    sr-ec: Хестија
-    sr-el: Hestija
+    sr_ec: Хестија
+    sr_el: Hestija
     sv: Hestia
     sw: Hestia
     ta: ஹெஸ்டியா
@@ -180,7 +180,7 @@ dv_has_:
     wuu: 赫斯提亚
     yue: 赫斯提亞
     zh: 赫斯提亞
-    zh-tw: 赫斯提亞
+    zh_tw: 赫斯提亞
 ---
 # [[Hestia]] 
 

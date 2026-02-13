@@ -79,7 +79,7 @@ dv_has_:
     ar: ركام
     ast: Cúmulus
     be: Кучавыя воблакі
-    be-tarask: клубаваты воблак
+    be_tarask: клубаваты воблак
     bg: Купести облаци
     ca: Cúmulus
     co: Cumulu
@@ -88,11 +88,11 @@ dv_has_:
     cy: Cwmwl cwmwlws
     da: staksky
     de: Cumulus
-    de-ch: Cumulus
+    de_ch: Cumulus
     el: Σωρείτες
     en: cumulus
-    en-ca: cumulus
-    en-gb: cumulus
+    en_ca: cumulus
+    en_gb: cumulus
     eo: kumuluso
     es: cúmulus
     et: Rünkpilved
@@ -128,7 +128,7 @@ dv_has_:
     oc: Cumulus
     pl: Cumulus
     pt: cumulus
-    pt-br: Cumulus
+    pt_br: Cumulus
     ro: Cumulus
     ru: кучевые облака
     sco: Cumulus clood
@@ -136,8 +136,8 @@ dv_has_:
     sk: Kumulus
     sl: kumulus
     sr: кумулус
-    sr-ec: кумулус
-    sr-el: kumulus
+    sr_ec: кумулус
+    sr_el: kumulus
     sv: Cumulus
     ta: குவி மேகம்
     th: คิวมูลัส
@@ -149,9 +149,9 @@ dv_has_:
     wuu: 积云
     yue: 積雲
     zh: 积云
-    zh-cn: 淡积云
-    zh-hans: 淡积云
-    zh-hant: 淡積雲
+    zh_cn: 淡积云
+    zh_hans: 淡积云
+    zh_hant: 淡積雲
     zu: Amafufu
 ---
 # [[Cumulus]] 

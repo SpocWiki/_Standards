@@ -94,8 +94,8 @@ dv_has_:
     sv: infrastam
     ta: தொகுதி கீழ்நிலை
     tt: инфратип
-    tt-cyrl: инфратип
-    tt-latn: infratip
+    tt_cyrl: инфратип
+    tt_latn: infratip
     uk: інфратип
     zh: 下门
 ---

@@ -180,7 +180,7 @@ subclass_of:
 - '[[_Standards/WikiData/WD~word_or_phrase,115372263]]'
 dv_has_:
   name_:
-    aeb-arab: كلمة
+    aeb_arab: كلمة
     af: woord
     am: ቃል
     an: palabra
@@ -196,7 +196,7 @@ dv_has_:
     bar: Woat
     bcl: Kataga
     be: слова
-    be-tarask: слова
+    be_tarask: слова
     bg: дума
     bho: शब्द
     bn: শব্দ
@@ -271,7 +271,7 @@ dv_has_:
     krj: tinagâ
     ksh: Woot
     ku: peyv
-    ku-latn: peyv
+    ku_latn: peyv
     kw: ger
     ky: сөз
     la: dictio
@@ -297,7 +297,7 @@ dv_has_:
     mni: ꯋꯥꯍꯩ
     mr: शब्द
     ms: perkataan
-    ms-arab: ڤرکاتاءن
+    ms_arab: ڤرکاتاءن
     mt: kelma
     mwl: palabra
     myv: вал
@@ -320,7 +320,7 @@ dv_has_:
     pnb: لفظ
     ps: کلمه
     pt: palavra
-    pt-br: palavra
+    pt_br: palavra
     pwn: vecik
     qu: rima
     rmf: lau
@@ -345,7 +345,7 @@ dv_has_:
     so: erey
     sq: fjalë
     sr: реч
-    sr-ec: реч
+    sr_ec: реч
     su: kecap
     sv: ord
     sw: neno
@@ -353,13 +353,13 @@ dv_has_:
     ta: சொல்
     te: తెలుగు పదాలు
     tg: калима
-    tg-cyrl: калима
+    tg_cyrl: калима
     th: คำ
     tl: salita
     tok: nimi
     tr: sözcük
     tt: сүз
-    tt-cyrl: сүз
+    tt_cyrl: сүз
     udm: кыл
     uk: слово
     ur: لفظ
@@ -375,8 +375,8 @@ dv_has_:
     yo: òrò
     yue: 字詞
     zh: 詞
-    zh-hans: 词
-    zh-hant: 詞
+    zh_hans: 词
+    zh_hant: 詞
     zu: igama
 ---
 # [[Word]] 

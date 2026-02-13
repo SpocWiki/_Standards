@@ -122,7 +122,7 @@ dv_has_:
     ast: Paracaíes
     az: Paraşüt
     be: парашут
-    be-tarask: парашут
+    be_tarask: парашут
     bg: Парашут
     bho: पैराशूट
     bjn: Parasut
@@ -159,9 +159,9 @@ dv_has_:
     ja: パラシュート
     ka: პარაშუტი
     kk: Парашют
-    kk-arab: پاراشيۋت
-    kk-cyrl: Парашют
-    kk-latn: Paraşyut
+    kk_arab: پاراشيۋت
+    kk_cyrl: Парашют
+    kk_latn: Paraşyut
     ko: 낙하산
     krc: Парашют
     la: Umbrella descensoria
@@ -198,8 +198,8 @@ dv_has_:
     sms: seivvamšolkk
     sq: parashuta
     sr: Падобран
-    sr-ec: Падобран
-    sr-el: Padobran
+    sr_ec: Падобран
+    sr_el: Padobran
     su: Parasut
     sv: fallskärm
     ta: வான்குடை
@@ -217,14 +217,14 @@ dv_has_:
     xmf: პარაშუტი
     yue: 降落傘
     zh: 降落伞
-    zh-cn: 降落伞
-    zh-hans: 降落伞
-    zh-hant: 降落傘
-    zh-hk: 降落傘
-    zh-mo: 降落傘
+    zh_cn: 降落伞
+    zh_hans: 降落伞
+    zh_hant: 降落傘
+    zh_hk: 降落傘
+    zh_mo: 降落傘
     zh-my: 降落伞
-    zh-sg: 降落伞
-    zh-tw: 降落傘
+    zh_sg: 降落伞
+    zh_tw: 降落傘
 ---
 # [[Parachute]] 🪂 
 

@@ -131,7 +131,7 @@ dv_has_:
     ast: Aeroxenerador
     atj: Mataciw
     az: Külək turbini
-    be-tarask: ветратурбіна
+    be_tarask: ветратурбіна
     bg: Вятърна турбина
     bn: বায়ুকল
     br: Rod-avel
@@ -141,12 +141,12 @@ dv_has_:
     cy: tyrbin gwynt
     da: vindkraftværk
     de: Windkraftanlage
-    de-ch: Windkraftanlage
+    de_ch: Windkraftanlage
     diq: Turbinê vay
     el: Ανεμογεννήτρια
     en: wind turbine
-    en-ca: Wind turbine
-    en-gb: wind turbine
+    en_ca: Wind turbine
+    en_gb: wind turbine
     eo: ventoturbino
     es: aeroturbina
     et: tuulegeneraator
@@ -191,7 +191,7 @@ dv_has_:
     pms: Turbin-a eòlica
     ps: بادي توربین
     pt: aerogerador
-    pt-br: Aerogerador
+    pt_br: Aerogerador
     ro: turbină eoliană
     ru: ветрогенератор
     sco: wind turbine
@@ -201,8 +201,8 @@ dv_has_:
     sl: vetrna turbina
     sq: Turbinat e erës
     sr: ветроелектрана
-    sr-ec: ветроелектрана
-    sr-el: vetroelektrana
+    sr_ec: ветроелектрана
+    sr_el: vetroelektrana
     sv: vindkraftverk
     ta: காற்றுச் சுழலி
     th: กังหันลม
@@ -214,9 +214,9 @@ dv_has_:
     wuu: 风力发动机
     yue: 風力渦輪
     zh: 风力发动机
-    zh-cn: 风力发动机
-    zh-hans: 风力发动机
-    zh-hant: 風力發動機
+    zh_cn: 风力发动机
+    zh_hans: 风力发动机
+    zh_hant: 風力發動機
 ---
 # [[Wind_Turbine]] 
 

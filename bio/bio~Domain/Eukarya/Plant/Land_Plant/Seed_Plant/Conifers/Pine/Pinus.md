@@ -260,7 +260,7 @@ dv_has_:
     azb: شام آغاجی
     bar: Kiefan
     be: хвоя
-    be-tarask: хвоя
+    be_tarask: хвоя
     bg: бор
     bn: সরলবৃক্ষ
     bo: ཐང་ཤིང་།
@@ -347,7 +347,7 @@ dv_has_:
     pl: sosna
     pnb: پائن
     pt: pinheiro
-    pt-br: Pinus
+    pt_br: Pinus
     qu: Pinu
     ro: Pin
     ru: сосна
@@ -366,8 +366,8 @@ dv_has_:
     sms: pieʹʒʒ
     sq: Pisha
     sr: бор
-    sr-ec: Бор
-    sr-el: Bor
+    sr_ec: Бор
+    sr_el: Bor
     stq: Fjuurenboom
     su: Pines
     sv: tallsläktet
@@ -394,9 +394,9 @@ dv_has_:
     yi: סאסנע
     yue: 松屬
     zh: 松屬
-    zh-cn: 松属
-    zh-hans: 松属
-    zh-tw: 松屬
+    zh_cn: 松属
+    zh_hans: 松属
+    zh_tw: 松屬
 ---
 # [[Pinus]] 
 

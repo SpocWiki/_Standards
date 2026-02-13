@@ -27,7 +27,7 @@ dv_has_:
     ast: Púlsar
     az: Pulsar
     be: пульсар
-    be-tarask: пульсар
+    be_tarask: пульсар
     bg: пулсар
     bjn: Pulsar
     bn: পালসার
@@ -39,13 +39,13 @@ dv_has_:
     cy: pylseren
     da: pulsar
     de: Pulsar
-    de-ch: Pulsar
+    de_ch: Pulsar
     diq: Pulsari
     el: Πάλσαρ
     eml: Pùlsar
     en: pulsar
-    en-ca: Pulsar
-    en-gb: pulsar
+    en_ca: Pulsar
+    en_gb: pulsar
     eo: pulsaro
     es: púlsar
     et: Pulsar
@@ -90,7 +90,7 @@ dv_has_:
     pl: pulsar
     pnb: پلسار
     pt: pulsar
-    pt-br: Pulsar
+    pt_br: Pulsar
     ro: pulsar
     ru: пульсар
     sh: Pulsar
@@ -99,8 +99,8 @@ dv_has_:
     sl: pulzar
     sq: pulsar
     sr: пулсар
-    sr-ec: пулсар
-    sr-el: pulsar
+    sr_ec: пулсар
+    sr_el: pulsar
     sv: pulsar
     ta: துடிப்பலை
     tg: Пулсар

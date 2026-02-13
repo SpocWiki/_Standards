@@ -88,7 +88,7 @@ dv_has_:
     arz: نوربيرت الياس
     ast: Norbert Elias
     azb: نوربرت الیاس
-    be-tarask: Норбэрт Эліяс
+    be_tarask: Норбэрт Эліяс
     bg: Норберт Елиас
     br: Norbert Elias
     ca: Norbert Elias
@@ -126,7 +126,7 @@ dv_has_:
     oc: Norbert Elias
     pl: Norbert Elias
     pt: Norbert Elias
-    pt-br: Norbert Elias
+    pt_br: Norbert Elias
     ru: Норберт Элиас
     sk: Norbert Elias
     sl: Norbert Elias

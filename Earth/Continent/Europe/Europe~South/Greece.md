@@ -65,7 +65,7 @@ dv_has_:
     ab: Бырзентәыла
     ace: Yunani
     ady: Урымые
-    aeb-arab: اليونان
+    aeb_arab: اليونان
     af: Griekeland
     am: ግሪክ
     ami: Greece
@@ -90,7 +90,7 @@ dv_has_:
     bbc: Gorik
     bcl: Gresya
     be: Грэцыя
-    be-tarask: Грэцыя
+    be_tarask: Грэцыя
     bew: Yunani
     bg: Гърция
     bgn: یونان
@@ -106,7 +106,7 @@ dv_has_:
     btm: Yunani
     bxr: Грек
     ca: Grècia
-    cbk-zam: Grecia
+    cbk_zam: Grecia
     cdo: Hĭ-lé-nà̤
     ce: Желтойчоь
     ceb: Gresya
@@ -115,7 +115,7 @@ dv_has_:
     ckb: یۆنان
     co: Grecia
     crh: Yunanistan
-    crh-latn: Yunanistan
+    crh_latn: Yunanistan
     cs: Řecko
     csb: Greckô
     cu: Грьци
@@ -125,7 +125,7 @@ dv_has_:
     dag: Greece
     de: Griechenland
     de-at: Griechenland
-    de-ch: Griechenland
+    de_ch: Griechenland
     diq: Yunanıstan
     dsb: Grichiska
     dty: ग्रीस
@@ -135,8 +135,8 @@ dv_has_:
     el: Ελλάδα
     eml: Grécia
     en: Greece
-    en-ca: Greece
-    en-gb: Greece
+    en_ca: Greece
+    en_gb: Greece
     en-us: Greece
     eo: Grekio
     es: Grecia
@@ -162,7 +162,7 @@ dv_has_:
     gn: Gyresia
     gom: ग्रीस
     gom-deva: ग्रीस
-    gom-latn: Greece
+    gom_latn: Greece
     gor: Yunani
     got: "\U0001033A\U00010342\U00010334\U0001033A\U00010330\U0001033B\U00010330\U0001033D\U00010333"
     gpe: Greece
@@ -217,7 +217,7 @@ dv_has_:
     ks: یونان
     ksh: Jrihscheland
     ku: Yewnanistan
-    ku-latn: Yewnanistan
+    ku_latn: Yewnanistan
     kv: Эллада
     kw: Pow Grek
     ky: Грекия
@@ -241,7 +241,7 @@ dv_has_:
     lzh: 希臘共和國
     mad: Yunani
     mai: यूनान
-    map-bms: Yunani
+    map_bms: Yunani
     mdf: Грекмастор
     mg: Grisy
     mhr: Греций
@@ -265,7 +265,7 @@ dv_has_:
     nap: Grecia
     nb: Hellas
     nds: Grekenland
-    nds-nl: Griekenlaand
+    nds_nl: Griekenlaand
     ne: ग्रिस
     new: ग्रीस
     nl: Griekenland
@@ -294,7 +294,7 @@ dv_has_:
     pnt: Ελλάδα
     ps: يونان
     pt: Grécia
-    pt-br: Grécia
+    pt_br: Grécia
     qu: Grisya
     rm: Grezia
     rmf: Greekako them
@@ -331,8 +331,8 @@ dv_has_:
     so: Giriig
     sq: Greqia
     sr: Грчка
-    sr-ec: Грчка
-    sr-el: Grčka
+    sr_ec: Грчка
+    sr_el: Grčka
     srn: Grikikondre
     ss: IGrikhi
     stq: Griechenlound
@@ -346,7 +346,7 @@ dv_has_:
     te: గ్రీస్
     tet: Grésia
     tg: Юнон
-    tg-cyrl: Юнон
+    tg_cyrl: Юнон
     th: ประเทศกรีซ
     ti: ግሪክ
     tk: Gresiýa
@@ -387,14 +387,14 @@ dv_has_:
     zea: Griek'nland
     zgh: ⴰⴳⵔⵉⴽ
     zh: 希腊
-    zh-cn: 希腊
-    zh-hans: 希腊
-    zh-hant: 希臘
-    zh-hk: 希臘
-    zh-mo: 希臘
+    zh_cn: 希腊
+    zh_hans: 希腊
+    zh_hant: 希臘
+    zh_hk: 希臘
+    zh_mo: 希臘
     zh-my: 希腊
-    zh-sg: 希腊
-    zh-tw: 希臘
+    zh_sg: 希腊
+    zh_tw: 希臘
     zu: IGreki
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Greece

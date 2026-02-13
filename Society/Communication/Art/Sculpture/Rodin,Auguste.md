@@ -270,7 +270,7 @@ dv_has_:
     ba: Роден Огюст
     bar: Auguste Rodin
     be: Агюст Радэн
-    be-tarask: Агюст Радэн
+    be_tarask: Агюст Радэн
     bg: Огюст Роден
     bm: Auguste Rodin
     bn: ওগ্যুস্ত রোদাঁ
@@ -284,12 +284,12 @@ dv_has_:
     da: Auguste Rodin
     de: Auguste Rodin
     de-at: Auguste Rodin
-    de-ch: Auguste Rodin
+    de_ch: Auguste Rodin
     ee: Auguste Rodin
     el: Ογκίστ Ροντέν
     en: Auguste Rodin
-    en-ca: Auguste Rodin
-    en-gb: Auguste Rodin
+    en_ca: Auguste Rodin
+    en_gb: Auguste Rodin
     en-us: Auguste Rodin
     eo: Auguste Rodin
     es: Auguste Rodin
@@ -348,7 +348,7 @@ dv_has_:
     nap: Auguste Rodin
     nb: Auguste Rodin
     nds: Auguste Rodin
-    nds-nl: Auguste Rodin
+    nds_nl: Auguste Rodin
     new: अगस्त् रोडिन
     nl: Auguste Rodin
     nn: Auguste Rodin
@@ -362,7 +362,7 @@ dv_has_:
     prg: Auguste Rodin
     ps: اګوست رودن
     pt: Auguste Rodin
-    pt-br: Auguste Rodin
+    pt_br: Auguste Rodin
     qu: Auguste Rodin
     rgn: Auguste Rodin
     rm: Auguste Rodin
@@ -376,8 +376,8 @@ dv_has_:
     sl: Auguste Rodin
     sq: Auguste Rodin
     sr: Огист Роден
-    sr-ec: Огист Роден
-    sr-el: Auguste Rodin
+    sr_ec: Огист Роден
+    sr_el: Auguste Rodin
     sv: Auguste Rodin
     sw: Auguste Rodin
     ta: ஆகுஸ்ட் ரொடான்

@@ -158,7 +158,7 @@ dv_has_:
     ba: Диспрозий
     ban: Disprosium
     be: Дыспрозій
-    be-tarask: Дыспроз
+    be_tarask: Дыспроз
     bg: диспросий
     bho: डिस्प्रोसियम
     bn: ডিসপ্রোজিয়াম
@@ -176,7 +176,7 @@ dv_has_:
     de: Dysprosium
     el: δυσπρόσιο
     en: dysprosium
-    en-gb: dysprosium
+    en_gb: dysprosium
     eo: disprozio
     es: disprosio
     et: Düsproosium
@@ -251,7 +251,7 @@ dv_has_:
     pnb: ڈائیسپورسیم
     ps: ډيسپروسيوم
     pt: disprósio
-    pt-br: disprósio
+    pt_br: disprósio
     qu: Disprosyu
     ro: disprosiu
     ru: диспрозий
@@ -266,7 +266,7 @@ dv_has_:
     sl: disprozij
     sq: Disprosiumi
     sr: диспрозијум
-    sr-ec: Диспрозијум
+    sr_ec: Диспрозијум
     stq: Dysprosium
     sv: dysprosium
     sw: Disprosi
@@ -289,8 +289,8 @@ dv_has_:
     yo: Dysprosium
     yue: 鏑
     zh: 镝
-    zh-hant: 鏑
-    zh-tw: 鏑
+    zh_hant: 鏑
+    zh_tw: 鏑
     zu: UmDanyathofi
   number_of_:
     period: 6

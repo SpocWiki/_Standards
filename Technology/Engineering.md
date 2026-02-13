@@ -244,7 +244,7 @@ dv_has_:
     bar: Ingenieurwesn
     bcl: inhenyeriya
     be: інжынерная справа
-    be-tarask: інжынэрная справа
+    be_tarask: інжынэрная справа
     bew: rancang peranti
     bg: инженерна наука
     bho: अभियांत्रिकी शास्त्र
@@ -266,7 +266,7 @@ dv_has_:
     el: μηχανική
     eml: insnierìa
     en: engineering
-    en-gb: engineering
+    en_gb: engineering
     eo: inĝenierarto
     es: ingeniería
     et: inseneriteadused
@@ -340,7 +340,7 @@ dv_has_:
     mn: инженерчлэл
     mr: अभियांत्रिकी
     ms: kejuruteraan
-    ms-arab: کجوروتراءن
+    ms_arab: کجوروتراءن
     mt: inġinerija
     mwl: angenharie
     my: အင်ဂျင်နီယာ နည်းပညာ
@@ -365,7 +365,7 @@ dv_has_:
     pnb: انجینرنگ
     ps: انجينري
     pt: engenharia
-    pt-br: engenharia
+    pt_br: engenharia
     qu: k'illikachay
     ro: inginerie
     ru: инженерное дело
@@ -415,10 +415,10 @@ dv_has_:
     yi: אינזשעניריע
     yue: 工程學
     zh: 工程學
-    zh-hans: 工程学
-    zh-hant: 工程學
-    zh-hk: 工程學
-    zh-tw: 工程學
+    zh_hans: 工程学
+    zh_hant: 工程學
+    zh_hk: 工程學
+    zh_tw: 工程學
     zu: UmNgcikisho
 ---
 ## #has_/text_of_/abstract 

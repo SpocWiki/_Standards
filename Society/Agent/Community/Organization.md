@@ -309,7 +309,7 @@ dv_has_:
     ban: Pasemetonan
     bcl: Organisasyon
     be: арганізацыя
-    be-tarask: арганізацыя
+    be_tarask: арганізацыя
     bew: Paguyuban
     bg: организация
     bho: "\U000110AE\U00011081\U0001108F\U00011098\U000110A2"
@@ -324,13 +324,13 @@ dv_has_:
     da: organisation
     dag: Laingu
     de: Organisation
-    de-ch: Organisation
+    de_ch: Organisation
     diq: Organizasyon
     dsb: organizacija
     el: οργανισμός
     en: organization
-    en-ca: organization
-    en-gb: organisation
+    en_ca: organization
+    en_gb: organisation
     en-us: organization
     eo: organizaĵo
     es: organización
@@ -375,7 +375,7 @@ dv_has_:
     ko: 단체
     ks: تَنظیٖم
     ku: rêxistin
-    ku-latn: rêxistin
+    ku_latn: rêxistin
     kw: kowethyans
     la: organizatio
     lb: Organisatioun
@@ -383,20 +383,20 @@ dv_has_:
     lt: organizacija
     lv: organizācija
     mad: Organisasi
-    map-bms: organisasi
+    map_bms: organisasi
     min: organisasi
     mk: организација
     ml: സംഘടന
     mn: байгууллага
     mr: संस्था
     ms: pertubuhan
-    ms-arab: ڤرتوبوهن
+    ms_arab: ڤرتوبوهن
     mwl: Organizaçon
     my: အဖွဲ့အစည်း
     mzn: سازمان
     nb: organisasjon
     nds: Organisatschoon
-    nds-nl: organisasie
+    nds_nl: organisasie
     ne: संगठन
     nl: organisatie
     nn: organisasjon
@@ -412,7 +412,7 @@ dv_has_:
     prg: ōrganizaciōni
     ps: سازمان
     pt: organização
-    pt-br: organização
+    pt_br: organização
     qu: Tantanakuy
     rm: organisaziun
     ro: organizație
@@ -433,7 +433,7 @@ dv_has_:
     sms: organisaatio
     sq: organizatë
     sr: организација
-    sr-ec: организација
+    sr_ec: организација
     stq: Organisation
     su: Yayasan Kebudayaan Rancage
     sv: organisation
@@ -442,13 +442,13 @@ dv_has_:
     ta: அமைப்பு
     te: సంస్థ
     tg: созмон
-    tg-cyrl: ташкилот
+    tg_cyrl: ташкилот
     th: องค์การ
     tl: Organisasyon
     tn: Okanaiseišene
     tr: kuruluş
     tt: оешма
-    tt-cyrl: оешма
+    tt_cyrl: оешма
     udm: огазеяськон
     uk: організація
     ur: تنظیم
@@ -463,14 +463,14 @@ dv_has_:
     yo: àgbájọ
     yue: 組織
     zh: 组织
-    zh-cn: 组织
-    zh-hans: 组织
-    zh-hant: 組織
-    zh-hk: 組織
-    zh-mo: 組織
+    zh_cn: 组织
+    zh_hans: 组织
+    zh_hant: 組織
+    zh_hk: 組織
+    zh_mo: 組織
     zh-my: 组织
-    zh-sg: 组织
-    zh-tw: 組織
+    zh_sg: 组织
+    zh_tw: 組織
   parent_class: '[Agent](Agent)'
   properties: '[ [[../../../schema-org/Relation/has/has_actionable_feedback_policy|actionableFeedbackPolicy]], [[../../../schema-org/Property/has_url_for/has_url_for_additional_type|additionalType]], [[../../Property/has_geo/has_location_address|address]], [[../../../schema-org/Relation/has/has_aggregate_rating|aggregateRating]], [[../../Property/Texts/has_alternate_name|alternateName]], [[../../../schema-org/Relation/has/has_alumni|alumni]], [[../../../schema-org/Relation/has/has_area_served|areaServed]], [[../../../schema-org/Property/Texts/has_award|award]], [[../../../schema-org/Relation/has/has_brand|brand]], [[../../../schema-org/Relation/has/has_contact_point|contactPoint]], [[../../../schema-org/Relation/has/has_corrections_policy|correctionsPolicy]], [[../../../schema-org/Relation/has/has_department|department]], [[../../../schema-org/Property/Texts/has_description|description]], [[../../../schema-org/Property/Texts/has_disambiguating_description|disambiguatingDescription]], [[../../../schema-org/Property/has_Date_Time/has_time_of_dissolution|dissolutionDate]], [[../../../schema-org/Relation/has/has_diversity_policy|diversityPolicy]], [[../../../schema-org/Relation/has/has_diversity_staffing_report|diversityStaffingReport]], [[../../Property/Texts/has_duns|duns]], [[../../../schema-org/Property/Texts/has_email|email]], [[../../../schema-org/Relation/has/has_employee|employee]], [[../../../schema-org/Relation/has/has_ethics_policy|ethicsPolicy]], [[../../../schema-org/Relation/has/has_event|event]], [[../../../schema-org/Property/Texts/has_fax_number|faxNumber]], [[../../../schema-org/Relation/has/has_founder|founder]], [[../../../schema-org/Property/has_Date_Time/has_time_founded|foundingDate]], [[../../Property/has_geo/has_location_founding|foundingLocation]], [[../../../schema-org/Relation/has/has_funder|funder]], [[../../../schema-org/Relation/has/has_funding|funding]], [[../../Property/Texts/has_global_location_number|globalLocationNumber]], [[../../../schema-org/Relation/has/has_credential|hasCredential]], [[../../../schema-org/Relation/has/has_merchant_return_policy|hasMerchantReturnPolicy]], [[../../../schema-org/Relation/has/has_offer_catalog|hasOfferCatalog]], [[../../Property/has_geo/has_location_POS|hasPOS]], hasProductReturnPolicy, [[../../../schema-org/Relation/has/has_identifier|identifier]], [[../../../schema-org/Relation/has/has_image|image]], [[../../../schema-org/Relation/has/has_interaction_statistic|interactionStatistic]], [[../../../schema-org/Property/Texts/has_isic_v4|isicV4]], [[../../Property/Texts/has_iso6523code|iso6523Code]], [[../../../schema-org/Relation/has/has_keywords|keywords]], [[../../../schema-org/Property/Texts/has_knows_about|knowsAbout]], [[../../../schema-org/Relation/is/is_knowing_language|knowsLanguage]], [[../../Property/Texts/has_legal_name|legalName]], [[../../Property/Texts/has_lei_code|leiCode]], [[../../Property/has_geo/has_location_|location]], [[../../../schema-org/Relation/has/has_logo|logo]], [[../../../schema-org/Relation/is/is_main_entity_of_page|mainEntityOfPage]], [[../../../schema-org/Relation/is/is_making_offer|makesOffer]], [[../../../schema-org/Relation/has/has_member|member]], [[../../../schema-org/Relation/is/is_member_of|memberOf]], [[../../../schema-org/Property/Texts/has_naics|naics]], [[../../Property/Texts/has_name|name]], [[../../../schema-org/Relation/has/has_nonprofit_status|nonprofitStatus]], [[../../../schema-org/Property/has_number_of/has_number_of_employees|numberOfEmployees]], [[../../../schema-org/Relation/has/has_ownership_funding_info|ownershipFundingInfo]], [[../../../schema-org/Relation/has/has_own|owns]], [[../../../schema-org/Relation/has/has_parent_organization|parentOrganization]], [[../../../schema-org/Relation/has/has_potential_action|potentialAction]], [[../../../schema-org/Relation/has/has_publishing_principles|publishingPrinciples]], [[../../../schema-org/Relation/has/has_review|review]], [[../../../schema-org/Relation/is_same_as|sameAs]], [[../../../schema-org/Relation/has/has_demand_for|seeks]], [[../../Relation/has/has_service_area|serviceArea]], [[../../../schema-org/Property/Texts/has_slogan|slogan]], [[../../../schema-org/Relation/has/has_sponsor|sponsor]], [[../../../schema-org/Relation/has/has_child_organization|subOrganization]], [[../../../schema-org/Relation/is/is_subject_of|subjectOf]], [[../../Property/Texts/has_tax_id|taxID]], [[../../../schema-org/Property/Texts/has_telephone|telephone]], [[../../../schema-org/Relation/has/has_unnamed_sources_policy|unnamedSourcesPolicy]], [[../../../schema-org/Property/has_url_for|url]], [[../../Property/Texts/has_vat_id|vatID]] ]'
 dv_is_same_as:
@@ -498,11 +498,11 @@ Tag Instances like this:
 
 An organization such as a [[Organization/Educational_Organization/School|school]], [[Organization/NGO(Non-Government-Org)|NGO]], [[Organization/Company/Corporation|corporation]], club, etc.
 
- has_parent_class = `$= dv.current().__has_parent_class` 
+ has_parent_class = `= this.dv_has_parent_class` 
 
- has_child_class = `$= dv.current().__has_child_class` 
+ has_child_class = `= this.dv_has_child_class` 
 
- has_properties = `$= dv.current().__has_properties` 
+ has_properties = `= this.dv_has_properties` 
 
 #is_/same_as :: [[../../../WikiData/WD~Organization,43229|WD~Organization,43229]] 
 

@@ -6,7 +6,7 @@ dv_has_:
     ast: rodeo
     az: Rodeo
     ba: Родео
-    be-tarask: радэо
+    be_tarask: радэо
     bg: Родео
     bpy: রোডেইও
     ca: rodeo
@@ -47,8 +47,8 @@ dv_has_:
     sh: Rodeo
     sk: Ródeo
     sr: родео
-    sr-ec: родео
-    sr-el: rodeo
+    sr_ec: родео
+    sr_el: rodeo
     sv: rodeo
     tr: Rodeo
     uk: родео

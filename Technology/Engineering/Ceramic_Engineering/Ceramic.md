@@ -116,7 +116,7 @@ dv_has_:
     az: Keramika
     bcl: Seramiko
     be: кераміка
-    be-tarask: кераміка
+    be_tarask: кераміка
     bg: Керамика
     bn: দগ্ধমৃত্তিকা
     bs: keramika
@@ -171,7 +171,7 @@ dv_has_:
     mn: Керамик
     mr: ceramic art
     ms: seramik
-    ms-arab: سيراميک
+    ms_arab: سيراميک
     nan: Hûi
     nap: ceramica
     nb: keramikk
@@ -183,7 +183,7 @@ dv_has_:
     pl: ceramika
     pms: Siràmica
     pt: cerâmica
-    pt-br: cerâmica
+    pt_br: cerâmica
     qu: K'apra
     ro: ceramică
     ru: керамика

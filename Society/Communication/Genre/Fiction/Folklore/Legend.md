@@ -122,7 +122,7 @@ dv_has_:
     azb: افسانه
     ba: легенда
     be: паданне
-    be-tarask: легенда
+    be_tarask: легенда
     bg: Легенда
     bn: কিংবদন্তি
     br: Richennoù
@@ -139,7 +139,7 @@ dv_has_:
     dsb: Powěsć
     el: θρύλος
     en: legend
-    en-gb: legend
+    en_gb: legend
     eo: legendo
     es: leyenda
     et: Legend
@@ -191,7 +191,7 @@ dv_has_:
     mk: легенда
     ml: ഐതിഹ്യം
     ms: legenda
-    ms-arab: ليݢيندا
+    ms_arab: ليݢيندا
     mt: leġġenda
     mzn: ئونه
     nan: Thoân-soat
@@ -218,8 +218,8 @@ dv_has_:
     sl: pripovedka
     sq: legjenda
     sr: легенда
-    sr-ec: легенда
-    sr-el: legenda
+    sr_ec: легенда
+    sr_el: legenda
     sv: legend
     te: పురాణము
     th: ตำนาน
@@ -237,11 +237,11 @@ dv_has_:
     yi: לעגענדע
     yue: 傳說
     zh: 傳說
-    zh-cn: 传说
-    zh-hans: 传说
-    zh-hant: 傳說
-    zh-hk: 傳說
-    zh-tw: 傳說
+    zh_cn: 传说
+    zh_hans: 传说
+    zh_hant: 傳說
+    zh_hk: 傳說
+    zh_tw: 傳說
 ---
 # [[Legend]] 
 

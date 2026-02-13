@@ -750,7 +750,7 @@ dv_has_:
     ace: Seupanyo
     acm: اسبانيا
     ady: Испание
-    aeb-arab: إسبانيا
+    aeb_arab: إسبانيا
     af: Spanje
     am: እስፓንያ
     ami: Spain
@@ -776,7 +776,7 @@ dv_has_:
     bar: Spanien
     bcl: Espanya
     be: Іспанія
-    be-tarask: Гішпанія
+    be_tarask: Гішпанія
     bew: Spanyol
     bg: Испания
     bgn: اسپانیا
@@ -792,7 +792,7 @@ dv_has_:
     bug: Spanyol
     bxr: Испани
     ca: Espanya
-    cbk-zam: España
+    cbk_zam: España
     cdo: Să̤-băng-ngà
     ce: Испани
     ceb: Espanya
@@ -802,7 +802,7 @@ dv_has_:
     ckb: ئیسپانیا
     co: Spagna
     crh: İspaniya
-    crh-latn: İspaniya
+    crh_latn: İspaniya
     cs: Španělsko
     csb: Szpańskô
     cu: Їспанїꙗ
@@ -812,7 +812,7 @@ dv_has_:
     dag: Spain
     de: Spanien
     de-at: Spanien
-    de-ch: Spanien
+    de_ch: Spanien
     din: Spain
     diq: İspanya
     dsb: Špańska
@@ -824,8 +824,8 @@ dv_has_:
     el: Ισπανία
     eml: Spaggna
     en: Spain
-    en-ca: Spain
-    en-gb: Spain
+    en_ca: Spain
+    en_gb: Spain
     eo: Hispanio
     es: España
     et: Hispaania
@@ -852,7 +852,7 @@ dv_has_:
     gn: España
     gom: स्पेन
     gom-deva: स्पेन
-    gom-latn: Spain
+    gom_latn: Spain
     got: "\U00010337\U00010334\U00010339\U00010343\U00010340\U00010330\U0001033D\U0001033E\U00010330"
     gpe: Spain
     grc: Ἱσπανία
@@ -933,7 +933,7 @@ dv_has_:
     lzh: 西班牙
     mad: Spanyol
     mai: स्पेन
-    map-bms: Spanyol
+    map_bms: Spanyol
     mdf: Испания
     mg: Espaina
     mhr: Испаний
@@ -946,7 +946,7 @@ dv_has_:
     mos: Spain
     mr: स्पेन
     ms: Sepanyol
-    ms-arab: سڤاڽول
+    ms_arab: سڤاڽول
     mt: Spanja
     mwl: Spanha
     my: စပိန်နိုင်ငံ
@@ -958,7 +958,7 @@ dv_has_:
     nap: Spagna
     nb: Spania
     nds: Spanien
-    nds-nl: Spanje
+    nds_nl: Spanje
     ne: स्पेन
     new: स्पेन
     nl: Spanje
@@ -991,7 +991,7 @@ dv_has_:
     prg: Špānija
     ps: اسپانیا
     pt: Espanha
-    pt-br: Espanha
+    pt_br: Espanha
     qu: Ispaña
     rm: Spagna
     rmy: Spaniya
@@ -1015,7 +1015,7 @@ dv_has_:
     sh: Španija
     shi: Ṣbanya
     shn: မိူင်းသပဵၼ်ႇ
-    shy-latn: Spania
+    shy_latn: Spania
     si: ස්පාඤ්ඤය
     sk: Španielsko
     skr: اسپین
@@ -1029,8 +1029,8 @@ dv_has_:
     so: Isbania
     sq: Spanja
     sr: Шпанија
-    sr-ec: Шпанија
-    sr-el: Španija
+    sr_ec: Шпанија
+    sr_el: Španija
     srn: Spanyorokondre
     ss: Sipeyini
     st: Spain
@@ -1045,7 +1045,7 @@ dv_has_:
     te: స్పెయిన్
     tet: España
     tg: Испониё
-    tg-cyrl: Испания
+    tg_cyrl: Испания
     th: ประเทศสเปน
     ti: ስጳኛ
     tk: Ispaniýa
@@ -1058,7 +1058,7 @@ dv_has_:
     trv: Spain
     ts: Spaniya
     tt: Испания
-    tt-cyrl: Испания
+    tt_cyrl: Испания
     tum: Spain
     tw: Spain
     ty: Paniora
@@ -1089,14 +1089,14 @@ dv_has_:
     zea: Spanje
     zgh: ⵚⴱⴰⵏⵢⴰ
     zh: 西班牙
-    zh-cn: 西班牙
-    zh-hans: 西班牙
-    zh-hant: 西班牙
-    zh-hk: 西班牙
-    zh-mo: 西班牙
+    zh_cn: 西班牙
+    zh_hans: 西班牙
+    zh_hant: 西班牙
+    zh_hk: 西班牙
+    zh_mo: 西班牙
     zh-my: 西班牙
-    zh-sg: 西班牙
-    zh-tw: 西班牙
+    zh_sg: 西班牙
+    zh_tw: 西班牙
     zu: ISpeyini
   sound_of_:
     anthem: '[[../../../../../_public/xLarge.public/National-Anthem/Anthem-Spain-complete.mp3|Anthem-Spain-complete.mp3]]'

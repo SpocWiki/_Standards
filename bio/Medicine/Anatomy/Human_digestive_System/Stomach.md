@@ -212,7 +212,7 @@ dv_has_:
     azb: معده
     bcl: tulak
     be: страўнік
-    be-tarask: страўнік
+    be_tarask: страўнік
     bew: mah
     bg: стомах
     bn: পাকস্থলী
@@ -346,7 +346,7 @@ dv_has_:
     tl: sikmura
     tr: mide
     tt: кеше ашказаны
-    tt-cyrl: кеше ашказаны
+    tt_cyrl: кеше ашказаны
     udm: ӝуш
     ug: ئاشقازان
     uk: шлунок
@@ -363,8 +363,8 @@ dv_has_:
     yue: 胃
     za: dungx
     zh: 胃
-    zh-hans: 胃
-    zh-hant: 胃
+    zh_hans: 胃
+    zh_hant: 胃
     zu: isisu
 ---
 # [[Stomach]] 

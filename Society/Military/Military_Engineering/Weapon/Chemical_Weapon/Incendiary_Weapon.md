@@ -35,7 +35,7 @@ icon: http://commons.wikimedia.org/wiki/Special:FilePath/38%20Molotov-koktelo.sv
 dv_has_:
   name_:
     ar: سلاح حارق
-    be-tarask: запальная зброя
+    be_tarask: запальная зброя
     ca: arma incendiària
     cs: zápalná zbraň
     de: Brandwaffe

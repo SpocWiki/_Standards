@@ -56,8 +56,8 @@ dv_has_:
     da: Pølseorme
     de: Priapswürmer
     en: Priapulida
-    en-ca: Priapulida
-    en-gb: Priapulida
+    en_ca: Priapulida
+    en_gb: Priapulida
     eo: Priapovermoj
     es: Priapula
     et: Keraskärssussid
@@ -90,7 +90,7 @@ dv_has_:
     oc: Priapulida
     pl: Niezmogowce
     pt: Priapulida
-    pt-br: Priapulida
+    pt_br: Priapulida
     ro: Priapulida
     ru: приапулиды
     sh: Priapulida
@@ -110,9 +110,9 @@ dv_has_:
     war: Priapulida
     wuu: 鳃曳动物门
     zh: 鳃曳动物门
-    zh-cn: 鳃曳动物门
-    zh-hans: 鳃曳动物门
-    zh-hant: 鳃曳动物门
+    zh_cn: 鳃曳动物门
+    zh_hans: 鳃曳动物门
+    zh_hant: 鳃曳动物门
 ---
 # [[Priapulida]] 
 

@@ -232,7 +232,7 @@ dv_has_:
     bar: US-Dollar
     bcl: Dolyar kan Estados Unidos
     be: долар ЗША
-    be-tarask: амэрыканскі даляр
+    be_tarask: амэрыканскі даляр
     bg: щатски долар
     bho: अमरीकन डॉलर
     blk: အမေႏရိကန်ႏ ဒေါ်လာ
@@ -255,12 +255,12 @@ dv_has_:
     cy: $ (UDA)
     da: amerikansk dollar
     de: US-Dollar
-    de-ch: US-Dollar
+    de_ch: US-Dollar
     diq: Dolarê DAY
     el: δολάριο ΗΠΑ
     en: United States dollar
-    en-ca: United States dollar
-    en-gb: United States dollar
+    en_ca: United States dollar
+    en_gb: United States dollar
     eo: usona dolaro
     es: dólar estadounidense
     et: USA dollar
@@ -310,7 +310,7 @@ dv_has_:
     krc: АБШ-ны доллары
     ks: اَمریٖکی ڈالَر
     ku: Dolara DYAyê
-    ku-latn: Dolara DYAyê
+    ku_latn: Dolara DYAyê
     kv: АӦШ-лӧн долларныс
     kw: Dollar Statys Unys
     ky: АКШ доллары
@@ -354,7 +354,7 @@ dv_has_:
     pnb: ڈالر
     ps: امريکايي ډالر
     pt: dólar americano
-    pt-br: dólar americano
+    pt_br: dólar americano
     qu: Amirikanu dollar
     rm: Dollar american
     ro: dolar american
@@ -375,7 +375,7 @@ dv_has_:
     so: Dollarka Maraykanka
     sq: Dollari amerikan
     sr: амерички долар
-    sr-ec: амерички долар
+    sr_ec: амерички долар
     stq: Amerikoanske Dollar
     sv: amerikansk dollar
     sw: Dola ya Marekani
@@ -409,14 +409,14 @@ dv_has_:
     yue: 美金
     za: meijyenz
     zh: 美元
-    zh-cn: 美元
-    zh-hans: 美元
-    zh-hant: 美元
-    zh-hk: 美元
-    zh-mo: 美元
+    zh_cn: 美元
+    zh_hans: 美元
+    zh_hant: 美元
+    zh_hk: 美元
+    zh_mo: 美元
     zh-my: 美元
-    zh-sg: 美元
-    zh-tw: 美元
+    zh_sg: 美元
+    zh_tw: 美元
     zu: IDola
 ---
 # [[Dollar,US]]

@@ -132,19 +132,19 @@ dv_has_:
     ast: Centaurus A
     az: Sentavr A
     be: NGC 5128
-    be-tarask: NGC 5128
+    be_tarask: NGC 5128
     br: NGC 5128
     bs: Kentaur A
     ca: Centaure A
     ce: NGC 5128
     cs: Centaurus A
     de: Centaurus A
-    de-ch: Centaurus A
+    de_ch: Centaurus A
     diq: NGC 5128
     el: Κένταυρος Α
     en: Centaurus A
-    en-ca: Centaurus A
-    en-gb: Centaurus A
+    en_ca: Centaurus A
+    en_gb: Centaurus A
     eo: NGC 5128
     es: Centaurus A
     eu: Centaurus A
@@ -162,9 +162,9 @@ dv_has_:
     it: NGC 5128
     ja: ケンタウルス座A
     kk: NGC 5128
-    kk-arab: NGC ۵۱۲۸
-    kk-cyrl: НГЦ 5128
-    kk-latn: NGC 5128
+    kk_arab: NGC ۵۱۲۸
+    kk_cyrl: НГЦ 5128
+    kk_latn: NGC 5128
     ko: 센타우루스 A 은하
     la: Centaurus A
     lb: NGC 5128
@@ -178,13 +178,13 @@ dv_has_:
     pl: NGC 5128
     pnb: قنطورس الف
     pt: NGC 5128
-    pt-br: NGC 5128
+    pt_br: NGC 5128
     ro: Centaurus A
     ru: Центавр A
     sk: Centaurus A
     sr: NGC 5128
-    sr-ec: NGC 5128
-    sr-el: NGC 5128
+    sr_ec: NGC 5128
+    sr_el: NGC 5128
     sv: Centaurus A
     tr: Erboğa A
     tt: NGC 5128
@@ -196,9 +196,9 @@ dv_has_:
     wuu: 半人马座A
     yue: 半人馬座A
     zh: 半人馬座A
-    zh-hans: 半人马座A
-    zh-hant: 半人馬座A
-    zh-hk: 半人馬座A
+    zh_hans: 半人马座A
+    zh_hant: 半人馬座A
+    zh_hk: 半人馬座A
 ---
 # [[Centaurus_A]] 
 

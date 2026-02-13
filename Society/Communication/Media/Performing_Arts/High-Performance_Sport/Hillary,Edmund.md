@@ -126,7 +126,7 @@ dv_has_:
     az: Edmund Hillari
     azb: ادموند هیلاری
     be: Эдмунд Хілары
-    be-tarask: Эдмунд Гілары
+    be_tarask: Эдмунд Гілары
     bg: Едмънд Хилари
     bn: এডমন্ড হিলারি
     bpy: এডমুন্ড হিলারী
@@ -140,7 +140,7 @@ dv_has_:
     dty: एडमण्ड हिलारी
     el: Έντμουντ Χίλαρι
     en: Edmund Hillary
-    en-gb: Edmund Hillary
+    en_gb: Edmund Hillary
     eo: Edmund Hillary
     es: Edmund Hillary
     et: Edmund Hillary
@@ -206,7 +206,7 @@ dv_has_:
     pms: Edmund Hillary
     pnb: ایڈمنڈ ہلری
     pt: Edmund Hillary
-    pt-br: Edmund Hillary
+    pt_br: Edmund Hillary
     qu: Edmund Hillary
     rm: Edmund Hillary
     ro: Edmund Hillary
@@ -220,7 +220,7 @@ dv_has_:
     sl: Edmund Percival Hillary
     sq: Edmund Hillary
     sr: Едмунд Хилари
-    sr-ec: Едмунд Хилари
+    sr_ec: Едмунд Хилари
     su: Edmund Hillary
     sv: Edmund Hillary
     sw: Edmund Hillary

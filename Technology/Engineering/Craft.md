@@ -106,18 +106,18 @@ dv_has_:
     ba: кәсеп
     bar: Handweak
     be: рамяство
-    be-tarask: рамяство
+    be_tarask: рамяство
     bs: zanat
     ca: ofici
     cs: řemeslo
     cy: crefft
     da: håndværk
     de: Handwerk
-    de-ch: Handwerk
+    de_ch: Handwerk
     el: τεχνική
     en: craft
-    en-ca: Craft
-    en-gb: craft
+    en_ca: Craft
+    en_gb: craft
     eo: metio
     es: oficio
     eu: ogibidea
@@ -170,15 +170,15 @@ dv_has_:
     sl: obrt
     sq: zejtari
     sr: занатство
-    sr-ec: занатство
-    sr-el: zanatstvo
+    sr_ec: занатство
+    sr_el: zanatstvo
     sv: hantverk
     szl: Rzymiosło
     ta: கைவினைக் கலைகள்
     tg: Ҳунар
     tr: meslek
     tt: кәсеп
-    tt-cyrl: кәсеп
+    tt_cyrl: кәсеп
     uk: ремесло
     ur: مہارت
     uz: Hunarmandchilik
@@ -188,10 +188,10 @@ dv_has_:
     yi: פאך
     yue: 工藝
     zh: 工艺
-    zh-cn: 工艺
-    zh-hans: 工艺
-    zh-hant: 工藝
-    zh-hk: 工藝
+    zh_cn: 工艺
+    zh_hans: 工艺
+    zh_hant: 工藝
+    zh_hk: 工藝
 ---
 # [[Craft]] 
 

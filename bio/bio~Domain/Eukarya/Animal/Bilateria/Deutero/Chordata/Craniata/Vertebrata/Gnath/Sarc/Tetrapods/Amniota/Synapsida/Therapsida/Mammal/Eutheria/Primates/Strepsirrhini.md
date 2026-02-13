@@ -67,7 +67,7 @@ dv_has_:
     ast: Strepsirrhini
     az: Yaşburun meymunlar
     be: макраносыя малпы
-    be-tarask: Strepsirrhini
+    be_tarask: Strepsirrhini
     bg: полумаймуни
     bn: আর্দ্রনাসিক্যবাহী
     bs: Strepsirrhini
@@ -118,7 +118,7 @@ dv_has_:
     pl: Strepsirrhini
     pnb: گلی نک
     pt: Strepsirrhini
-    pt-br: Strepsirrhini
+    pt_br: Strepsirrhini
     ro: Strepsirrhini
     ru: мокроносые приматы
     sco: Strepsirrhini
@@ -139,9 +139,9 @@ dv_has_:
     xmf: გვერდო ქიეფი
     yue: 原猴
     zh: 曲鼻亚目
-    zh-cn: 曲鼻亚目
-    zh-hans: 曲鼻亚目
-    zh-tw: 曲鼻亞目
+    zh_cn: 曲鼻亚目
+    zh_hans: 曲鼻亚目
+    zh_tw: 曲鼻亞目
 ---
 # [[Strepsirrhini]] 
 

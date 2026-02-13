@@ -297,7 +297,7 @@ dv_has_:
     ba: Бойондороҡһоҙ Дәүләттәр Берләшмәһе
     bar: Gmoaschoft vo Unobhängige Stootn
     be: Садружнасць Незалежных Дзяржаў
-    be-tarask: Садружнасьць Незалежных Дзяржаваў
+    be_tarask: Садружнасьць Незалежных Дзяржаваў
     bg: Общност на независимите държави
     bn: স্বাধীন রাষ্ট্রের রাষ্ট্রমণ্ডল
     br: Kenglad ar Stadoù Dizalc'h
@@ -317,7 +317,7 @@ dv_has_:
     dsb: Zjadnośeństwo njewótwisnych krajow
     el: Κοινοπολιτεία Ανεξάρτητων Κρατών
     en: Commonwealth of Independent States
-    en-ca: Commonwealth of Independent States
+    en_ca: Commonwealth of Independent States
     eo: Komunumo de Sendependaj Ŝtatoj
     es: Comunidad de Estados Independientes
     et: Sõltumatute Riikide Ühendus
@@ -377,7 +377,7 @@ dv_has_:
     pms: Comunità djë Stat Andipëndent
     pnb: ازاد دیساں دی کامنویلتھ
     pt: Comunidade dos Estados Independentes
-    pt-br: Comunidade dos Estados Independentes
+    pt_br: Comunidade dos Estados Independentes
     ro: Comunitatea Statelor Independente
     ru: Содружество Независимых Государств
     rue: Сполоченство Незалежных Штатів
@@ -417,14 +417,14 @@ dv_has_:
     yo: Àjọni àwọn Orílẹ̀-èdè Alómìnira
     yue: 獨立國家聯合體
     zh: 獨立國家聯合體
-    zh-cn: 独立国家联合体
-    zh-hans: 独立国家联合体
-    zh-hant: 獨立國家國協
-    zh-hk: 獨立國家聯合體
-    zh-mo: 獨立國家聯合體
+    zh_cn: 独立国家联合体
+    zh_hans: 独立国家联合体
+    zh_hant: 獨立國家國協
+    zh_hk: 獨立國家聯合體
+    zh_mo: 獨立國家聯合體
     zh-my: 独立国家联合体
-    zh-sg: 独立国家联合体
-    zh-tw: 獨立國家國協
+    zh_sg: 独立国家联合体
+    zh_tw: 獨立國家國協
 ---
 # [[CIS(Commonwealth_of_Independent_States)]] 
 

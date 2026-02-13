@@ -50,8 +50,8 @@ dv_has_:
     uk: Збіжність
     yue: 重測試信度
     zh: 可重复性
-    zh-hans: 可重复性
-    zh-hant: 可重複性
+    zh_hans: 可重复性
+    zh_hant: 可重複性
 ---
 # [[Repeatability]] 
 

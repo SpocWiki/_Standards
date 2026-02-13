@@ -125,7 +125,7 @@ dv_has_:
     az: Lui Dager
     bar: Louis Daguerre
     be: Луі Жак Мандэ Дагер
-    be-tarask: Люі Дагер
+    be_tarask: Люі Дагер
     bg: Луи Дагер
     bm: Louis Daguerre
     bn: লুই ডাগুয়েরে
@@ -140,11 +140,11 @@ dv_has_:
     da: Louis Daguerre
     de: Louis Daguerre
     de-at: Louis Daguerre
-    de-ch: Louis Daguerre
+    de_ch: Louis Daguerre
     el: Λουί Νταγκέρ
     en: Louis Daguerre
-    en-ca: Louis Daguerre
-    en-gb: Louis Daguerre
+    en_ca: Louis Daguerre
+    en_gb: Louis Daguerre
     eo: Louis Daguerre
     es: Louis Daguerre
     et: Louis Daguerre
@@ -196,7 +196,7 @@ dv_has_:
     nap: Louis Daguerre
     nb: Louis Daguerre
     nds: Louis Daguerre
-    nds-nl: Louis Daguerre
+    nds_nl: Louis Daguerre
     nl: Louis Daguerre
     nn: Louis Daguerre
     nrm: Louis Daguerre
@@ -210,7 +210,7 @@ dv_has_:
     pnb: لوئس ڈاگئیوری
     prg: Louis Daguerre
     pt: Louis Daguerre
-    pt-br: Louis Daguerre
+    pt_br: Louis Daguerre
     rgn: Louis Daguerre
     rm: Louis Daguerre
     ro: Louis Daguerre
@@ -224,8 +224,8 @@ dv_has_:
     sl: Louis Daguerre
     sq: Louis Daguerre
     sr: Луј Дагер
-    sr-ec: Луј Дагер
-    sr-el: Louis Daguerre
+    sr_ec: Луј Дагер
+    sr_el: Louis Daguerre
     sv: Louis Daguerre
     sw: Louis Daguerre
     szy: Lu-i.Ta-kay-al
@@ -247,12 +247,12 @@ dv_has_:
     wuu: 路易·达盖尔
     yue: 達蓋爾
     zh: 路易·达盖尔
-    zh-cn: 路易·达盖尔
-    zh-hans: 路易·达盖尔
-    zh-hant: 路易·達蓋爾
-    zh-hk: 路易·達蓋爾
-    zh-sg: 路易·达盖尔
-    zh-tw: 路易·達蓋爾
+    zh_cn: 路易·达盖尔
+    zh_hans: 路易·达盖尔
+    zh_hant: 路易·達蓋爾
+    zh_hk: 路易·達蓋爾
+    zh_sg: 路易·达盖尔
+    zh_tw: 路易·達蓋爾
     zu: Louis Daguerre
 ---
 # [[Daguerre,Louis]] 

@@ -113,7 +113,7 @@ dv_has_:
     os: Гранат
     pl: Granatowiec
     pt: Punica
-    pt-br: Punica
+    pt_br: Punica
     ro: Punica
     ru: Гранат
     sk: granátovník
@@ -127,11 +127,11 @@ dv_has_:
     vo: Punica
     war: Punica
     zh: 石榴属
-    zh-cn: 石榴属
-    zh-hans: 石榴属
-    zh-hant: 石榴屬
-    zh-hk: 石榴屬
-    zh-tw: 石榴屬
+    zh_cn: 石榴属
+    zh_hans: 石榴属
+    zh_hant: 石榴屬
+    zh_hk: 石榴屬
+    zh_tw: 石榴屬
 ---
 # [[Punica]] 
 

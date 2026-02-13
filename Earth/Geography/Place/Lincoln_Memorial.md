@@ -195,12 +195,12 @@ dv_has_:
     war: Lincoln Memorial
     yi: לינקאלן דענקמאל
     zh: 林肯纪念堂
-    zh-cn: 林肯纪念堂
-    zh-hans: 林肯纪念堂
-    zh-hant: 林肯紀念堂
-    zh-hk: 林肯紀念堂
-    zh-sg: 林肯纪念堂
-    zh-tw: 林肯紀念堂
+    zh_cn: 林肯纪念堂
+    zh_hans: 林肯纪念堂
+    zh_hant: 林肯紀念堂
+    zh_hk: 林肯紀念堂
+    zh_sg: 林肯纪念堂
+    zh_tw: 林肯紀念堂
 ---
 # [[Lincoln_Memorial]] 
 

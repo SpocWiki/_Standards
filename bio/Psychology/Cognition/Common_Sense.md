@@ -87,7 +87,7 @@ dv_has_:
     ast: Sentíu común
     az: Sağlam düşüncə
     ba: айыҡ аҡыл
-    be-tarask: здаровы глузд
+    be_tarask: здаровы глузд
     bg: Здрав смисъл
     bn: সাধারণ কাণ্ডজ্ঞান
     br: Poell
@@ -98,12 +98,12 @@ dv_has_:
     cy: synnwyr cyffredin
     da: sund fornuft
     de: gesunder Menschenverstand
-    de-ch: Gemeinsinn
+    de_ch: Gemeinsinn
     el: Κοινή λογική
     eml: Usta
     en: common sense
-    en-ca: Common sense
-    en-gb: Common sense
+    en_ca: Common sense
+    en_gb: Common sense
     eo: prudento
     es: sentido común
     et: Terve mõistus
@@ -134,7 +134,7 @@ dv_has_:
     pl: rozsądek
     pms: Sens comun
     pt: senso comum
-    pt-br: senso comum
+    pt_br: senso comum
     ro: bun simț
     ru: здравый смысл
     scn: Sennu
@@ -153,10 +153,10 @@ dv_has_:
     wuu: 常理
     yue: 常識
     zh: 常理
-    zh-cn: 常识
-    zh-hans: 常识
-    zh-hk: 常識
-    zh-sg: 常识
+    zh_cn: 常识
+    zh_hans: 常识
+    zh_hk: 常識
+    zh_sg: 常识
 ---
 # [[Common_Sense]] 
 

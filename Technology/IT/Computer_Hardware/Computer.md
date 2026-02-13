@@ -298,7 +298,7 @@ dv_has_:
     bar: Computer
     bcl: kompyuter
     be: камп’ютар
-    be-tarask: кампутар
+    be_tarask: кампутар
     bew: kumputer
     bg: компютър
     bho: कंप्यूटर
@@ -319,7 +319,7 @@ dv_has_:
     ckb: کۆمپیوتەر
     cr: ᖃᕋᓴᐅᔭᖅ
     crh: kompyuter
-    crh-latn: kompyuter
+    crh_latn: kompyuter
     cs: počítač
     csb: kòmpùter
     cu: съмѣтатєл҄ь
@@ -328,7 +328,7 @@ dv_has_:
     da: computer
     dag: kompiita
     de: Computer
-    de-ch: Computer
+    de_ch: Computer
     dga: Kɔmputa
     din: makuɛ̈n
     diq: komputer
@@ -337,8 +337,8 @@ dv_has_:
     el: ηλεκτρονικός υπολογιστής
     eml: zarvlån
     en: computer
-    en-ca: computer
-    en-gb: computer
+    en_ca: computer
+    en_gb: computer
     en-us: computer
     eo: komputilo
     es: computadora
@@ -428,7 +428,7 @@ dv_has_:
     lzh: 電腦
     mag: सङ्गणक
     mai: कम्प्युटर
-    map-bms: komputer
+    map_bms: komputer
     mg: solosaina
     mhr: компьютер
     mi: rorohiko
@@ -439,7 +439,7 @@ dv_has_:
     mnw: ခမ်ပျူတာ
     mr: संगणक विज्ञान
     ms: komputer
-    ms-arab: کومڤوتر
+    ms_arab: کومڤوتر
     mt: kompjuter
     mwl: cumputador
     my: ကွန်ပျူတာ
@@ -451,7 +451,7 @@ dv_has_:
     nap: computer
     nb: datamaskin
     nds: Reekner
-    nds-nl: komputer
+    nds_nl: komputer
     ne: कम्प्युटर
     new: कम्प्युटर
     nia: Komputer
@@ -476,7 +476,7 @@ dv_has_:
     pnt: ηλεκτρονικόν υπολογιστής
     ps: کمپیوټر
     pt: computador
-    pt-br: computador
+    pt_br: computador
     qu: antañiqiq
     rmf: ǆaanibosko maȟȟiin
     rmy: ginepaskro
@@ -523,7 +523,7 @@ dv_has_:
     tcy: ಕಂಪ್ಯೂಟರ್
     te: కంప్యూటర్
     tg: роёна
-    tg-latn: royona
+    tg_latn: royona
     th: คอมพิวเตอร์
     tk: kompýuter
     tl: kompyuter
@@ -532,8 +532,8 @@ dv_has_:
     tr: Bilgisayar
     ts: khompuyuta
     tt: санак
-    tt-cyrl: санак
-    tt-latn: sanaq
+    tt_cyrl: санак
+    tt_latn: sanaq
     tum: Mrangura
     udm: компьютер
     ug: كومپيۇتېر
@@ -558,14 +558,14 @@ dv_has_:
     za: dennauj
     zgh: ⴰⵎⵙⵙⵓⴷⵙ
     zh: 电子计算机
-    zh-cn: 电子计算机
-    zh-hans: 电子计算机
-    zh-hant: 電腦
-    zh-hk: 電腦
-    zh-mo: 電腦
+    zh_cn: 电子计算机
+    zh_hans: 电子计算机
+    zh_hant: 電腦
+    zh_hk: 電腦
+    zh_mo: 電腦
     zh-my: 电脑
-    zh-sg: 电脑
-    zh-tw: 電腦
+    zh_sg: 电脑
+    zh_tw: 電腦
     zu: ikhompyutha
 ---
 # [[Computer]] 

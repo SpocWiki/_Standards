@@ -118,13 +118,13 @@ dv_is_same_as:
 - '[[/_secret/Earth/Geography/Place/Accommodation/Room/Office.secret|Office.secret]]'
 dv_has_:
   name_:
-    aeb-arab: بيرو
-    aeb-latn: birou
+    aeb_arab: بيرو
+    aeb_latn: birou
     ar: مكتب
     ast: oficina
     az: ofis
     be: офіс
-    be-tarask: кантора
+    be_tarask: кантора
     bew: kantor
     bg: офис
     bho: कार्यालय
@@ -160,11 +160,11 @@ dv_has_:
     iu: ᐊᓪᓚᕝᕕᒃ
     ja: オフィス
     kk: офис
-    kk-arab: وفىيس
+    kk_arab: وفىيس
     kk-cn: وفىيس
-    kk-cyrl: офис
+    kk_cyrl: офис
     kk-kz: офис
-    kk-latn: ofïs
+    kk_latn: ofïs
     kk-tr: ofïs
     km: ការិយាល័យ
     kn: ಕಚೇರಿ
@@ -174,7 +174,7 @@ dv_has_:
     lv: birojs
     mk: канцеларија
     ms: pejabat
-    ms-arab: ڤجابت
+    ms_arab: ڤجابت
     my: ရုံး
     nan: pān-kong-sek
     nb: kontor
@@ -187,7 +187,7 @@ dv_has_:
     pl: biuro
     pnb: دفتر
     pt: escritório
-    pt-br: escritório
+    pt_br: escritório
     ro: birou
     ru: офис
     sat: ᱟ.ᱢᱟ.ᱞᱤ
@@ -199,8 +199,8 @@ dv_has_:
     sn: hofisi
     sq: zyra
     sr: канцеларија
-    sr-ec: канцеларија
-    sr-el: kancelarija
+    sr_ec: канцеларија
+    sr_el: kancelarija
     su: kantor
     sv: kontor
     sw: Ofisi
@@ -212,7 +212,7 @@ dv_has_:
     tn: ofisi
     tr: ofis
     tt: офис
-    tt-cyrl: офис
+    tt_cyrl: офис
     uk: контора
     ur: دفتر
     uz: Idora
@@ -221,12 +221,12 @@ dv_has_:
     wuu: 办公室
     yue: 寫字樓
     zh: 辦公室
-    zh-cn: 办公室
-    zh-hans: 办公室
-    zh-hant: 辦公室
-    zh-hk: 辦公室
-    zh-sg: 办公室
-    zh-tw: 辦公室
+    zh_cn: 办公室
+    zh_hans: 办公室
+    zh_hant: 辦公室
+    zh_hk: 辦公室
+    zh_sg: 办公室
+    zh_tw: 辦公室
 ---
 # [[Office]] 
 

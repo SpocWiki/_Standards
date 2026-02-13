@@ -85,7 +85,7 @@ dv_has_:
     ast: Enzo Ferrari
     az: Enzo Ferrari
     ba: Энцо Феррари
-    be-tarask: Энца Фэрары
+    be_tarask: Энца Фэрары
     bg: Енцо Ферари
     bn: এনজো ফেরারি
     br: Enzo Ferrari
@@ -140,7 +140,7 @@ dv_has_:
     pl: Enzo Ferrari
     pms: Enzo Ferrari
     pt: Enzo Ferrari
-    pt-br: Enzo Ferrari
+    pt_br: Enzo Ferrari
     ro: Enzo Ferrari
     ru: Энцо Феррари
     sco: Enzo Ferrari
@@ -149,8 +149,8 @@ dv_has_:
     sl: Enzo Ferrari
     sq: Enzo Ferrari
     sr: Енцо Ферари
-    sr-ec: Енцо Ферари
-    sr-el: Enco Ferari
+    sr_ec: Енцо Ферари
+    sr_el: Enco Ferari
     sv: Enzo Ferrari
     th: เอ็นโซ เฟอร์รารี่
     tl: Enzo Ferrari
@@ -162,12 +162,12 @@ dv_has_:
     wuu: 恩佐·法拉利
     yue: 安素法拉利
     zh: 恩佐·安塞尔莫·朱塞佩·玛丽亚·法拉利
-    zh-cn: 恩佐·法拉利
-    zh-hans: 恩佐·法拉利
-    zh-hant: 恩佐·法拉利
-    zh-hk: 恩素·法拉利
-    zh-sg: 恩佐·法拉利
-    zh-tw: 恩佐·法拉利
+    zh_cn: 恩佐·法拉利
+    zh_hans: 恩佐·法拉利
+    zh_hant: 恩佐·法拉利
+    zh_hk: 恩素·法拉利
+    zh_sg: 恩佐·法拉利
+    zh_tw: 恩佐·法拉利
 ---
 # [[Ferrari,Enzo]] 
 

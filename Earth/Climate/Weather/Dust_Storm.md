@@ -110,7 +110,7 @@ dv_has_:
     ast: Nube de polvu
     az: Qum Fırtınası
     be: Пясчаная бура
-    be-tarask: пылавая бура
+    be_tarask: пылавая бура
     bg: Пясъчна буря
     bo: རླུང་དམར།
     ca: tempesta de pols
@@ -141,11 +141,11 @@ dv_has_:
     ja: 砂嵐
     jv: Badai wedhi
     kk: Шаңды дауыл
-    kk-arab: شاڭدى داۋىل
+    kk_arab: شاڭدى داۋىل
     kk-cn: شاڭدى داۋىل
-    kk-cyrl: Шаңды дауыл
+    kk_cyrl: Шаңды дауыл
     kk-kz: Шаңды дауыл
-    kk-latn: Şañdı dawıl
+    kk_latn: Şañdı dawıl
     kk-tr: Şañdı dawıl
     ko: 모래폭풍
     la: procella pulvis
@@ -182,12 +182,12 @@ dv_has_:
     wuu: 沙尘暴
     yue: 沙塵暴
     zh: 沙尘暴
-    zh-cn: 沙尘暴
-    zh-hans: 沙尘暴
-    zh-hant: 沙塵暴
-    zh-hk: 沙塵暴
-    zh-sg: 沙尘暴
-    zh-tw: 沙塵暴
+    zh_cn: 沙尘暴
+    zh_hans: 沙尘暴
+    zh_hant: 沙塵暴
+    zh_hk: 沙塵暴
+    zh_sg: 沙尘暴
+    zh_tw: 沙塵暴
 ---
 # [[Dust_Storm]] 
 

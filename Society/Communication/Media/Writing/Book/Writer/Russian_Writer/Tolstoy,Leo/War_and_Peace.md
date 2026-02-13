@@ -169,7 +169,7 @@ dv_has_:
     az: Hərb və Sülh
     azb: حرب و صۆلح
     be: Вайна і мір
-    be-tarask: Вайна і мір
+    be_tarask: Вайна і мір
     bg: Война и мир
     bn: যুদ্ধ ও শান্তি
     bo: ༄༅།། དམག་འཁྲུག་དང་ཞི་བདེ།
@@ -234,8 +234,8 @@ dv_has_:
     sl: Vojna in mir
     sq: Lufta dhe paqja
     sr: Рат и мир
-    sr-ec: Рат и мир
-    sr-el: Rat i mir
+    sr_ec: Рат и мир
+    sr_el: Rat i mir
     sv: Krig och fred
     ta: போரும் அமைதியும்
     te: యుద్ధం మరియు శాంతి
@@ -253,12 +253,12 @@ dv_has_:
     yue: 戰爭與和平
     za: Cancwngh caeuq Hozbingz
     zh: 戰爭與和平
-    zh-cn: 战争与和平
-    zh-hans: 战争与和平
-    zh-hant: 戰爭與和平
-    zh-hk: 戰爭與和平
-    zh-sg: 战争与和平
-    zh-tw: 戰爭與和平
+    zh_cn: 战争与和平
+    zh_hans: 战争与和平
+    zh_hant: 戰爭與和平
+    zh_hk: 戰爭與和平
+    zh_sg: 战争与和平
+    zh_tw: 戰爭與和平
 ---
 # [[War_and_Peace]] 
 

@@ -112,7 +112,7 @@ dv_has_:
     ast: Electronegatividá
     ba: Электр тиҫкәрелек
     be: электраадмоўнасць
-    be-tarask: электраадмоўнасьць
+    be_tarask: электраадмоўнасьць
     bg: Електроотрицателност
     bn: তড়িৎ ঋণাত্মকতা
     bs: Elektronegativnost
@@ -125,8 +125,8 @@ dv_has_:
     dsb: Elektronegatiwita
     el: Ηλεκτραρνητικότητα
     en: electronegativity
-    en-ca: Electronegativity
-    en-gb: Electronegativity
+    en_ca: Electronegativity
+    en_gb: Electronegativity
     eo: elektronegativeco
     es: electronegatividad
     et: elektronegatiivsus
@@ -172,7 +172,7 @@ dv_has_:
     pl: elektroujemność
     pnb: الیکٹرونیگیٹیوٹی
     pt: eletronegatividade
-    pt-br: eletronegatividade
+    pt_br: eletronegatividade
     ro: electronegativitate
     ru: электроотрицательность
     se: elektronegatiivvalašvuohta

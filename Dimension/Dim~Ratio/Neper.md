@@ -50,10 +50,10 @@ dv_has_:
     cs: neper
     da: neper
     de: Neper
-    de-ch: Neper
+    de_ch: Neper
     en: neper
-    en-ca: neper
-    en-gb: neper
+    en_ca: neper
+    en_gb: neper
     eo: nepero
     es: neper
     fa: نپر
@@ -75,7 +75,7 @@ dv_has_:
     oc: neper
     pl: neper
     pt: neper
-    pt-br: neper
+    pt_br: neper
     ru: непер
     scn: neper
     sl: neper

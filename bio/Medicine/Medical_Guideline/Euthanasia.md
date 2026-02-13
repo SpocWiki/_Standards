@@ -100,7 +100,7 @@ dv_has_:
     ast: Eutanasia
     az: Evtanaziya
     be: Эўтаназія
-    be-tarask: эўтаназія
+    be_tarask: эўтаназія
     bg: Евтаназия
     bn: ইচ্ছামৃত্যু
     bs: Eutanazija
@@ -110,12 +110,12 @@ dv_has_:
     cy: ewthanasia
     da: eutanasi
     de: Sterbehilfe
-    de-ch: Sterbehilfe
+    de_ch: Sterbehilfe
     diq: Otanaziye
     el: Ευθανασία
     en: euthanasia
-    en-ca: Euthanasia
-    en-gb: euthanasia
+    en_ca: Euthanasia
+    en_gb: euthanasia
     eo: eŭtanazio
     es: eutanasia
     et: Eutanaasia
@@ -161,7 +161,7 @@ dv_has_:
     pa: ਸੁਖੈਨ ਮੌਤ
     pl: eutanazja
     pt: eutanasia
-    pt-br: Eutanásia
+    pt_br: Eutanásia
     ro: eutanasie
     ru: эвтаназия
     sco: euthanasie
@@ -170,8 +170,8 @@ dv_has_:
     sl: evtanazija
     sq: Euthanasia
     sr: еутаназија
-    sr-ec: еутаназија
-    sr-el: eutanazija
+    sr_ec: еутаназија
+    sr_el: eutanazija
     sv: eutanasi
     ta: கருணைக் கொலை
     te: కారుణ్య మరణం
@@ -187,12 +187,12 @@ dv_has_:
     wuu: 安乐死
     yue: 安樂死
     zh: 安乐死
-    zh-cn: 安乐死
-    zh-hans: 安乐死
-    zh-hant: 安樂死
-    zh-hk: 安樂死
-    zh-sg: 安乐死
-    zh-tw: 安樂死
+    zh_cn: 安乐死
+    zh_hans: 安乐死
+    zh_hant: 安樂死
+    zh_hk: 安樂死
+    zh_sg: 安乐死
+    zh_tw: 安樂死
 ---
 # [[Euthanasia]] 
 

@@ -81,7 +81,7 @@ dv_has_:
     ast: Inxeniería estructural
     az: Kostruktiv mühəndislik
     be: праектаванне будынкаў і збудаванняў
-    be-tarask: будаўнічае праектаваньне
+    be_tarask: будаўнічае праектаваньне
     bn: অবকাঠামো প্রকৌশল
     ca: enginyeria estructural
     ckb: ئەندازیاریی پێکھاتەیی

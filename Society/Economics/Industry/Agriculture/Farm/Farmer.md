@@ -236,7 +236,7 @@ dv_has_:
     bar: Baua
     bcl: Paraoma
     be: фермер
-    be-tarask: фэрмэр
+    be_tarask: фэрмэр
     bew: Tukang tani
     bg: фермер
     bn: কৃষক
@@ -253,12 +253,12 @@ dv_has_:
     dag: Pukpara
     de: Landwirt
     de-at: Landwirt
-    de-ch: Landwirt
+    de_ch: Landwirt
     diq: Cıtekar
     el: γεωργός
     en: farmer
-    en-ca: farmer
-    en-gb: farmer
+    en_ca: farmer
+    en_gb: farmer
     en-us: farmer
     eo: terkultivisto
     es: agricultor
@@ -299,7 +299,7 @@ dv_has_:
     kn: raitha
     ko: 농부
     ku: cotkar
-    ku-latn: cotkar
+    ku_latn: cotkar
     la: Agricola
     lb: Bauer
     lij: agricoltô
@@ -316,13 +316,13 @@ dv_has_:
     mni: ꯂꯧꯃꯤ
     mr: शेतकरी
     ms: petani
-    ms-arab: ڤتاني
+    ms_arab: ڤتاني
     mt: bidwi
     my: လယ်သမား
     nan: Choh-sit-lâng
     nb: bonde
     nds: Buur
-    nds-nl: boer
+    nds_nl: boer
     ne: कृषक
     nl: agrariër
     nn: bonde
@@ -333,7 +333,7 @@ dv_has_:
     pl: rolnik
     pnb: کسان
     pt: agricultor
-    pt-br: agricultor
+    pt_br: agricultor
     qu: Chakra runa
     rki: လယ်သမား
     rn: Umurimyi
@@ -356,15 +356,15 @@ dv_has_:
     so: Beerelay
     sq: Çifçi
     sr: пољопривредник
-    sr-ec: пољопривредник
-    sr-el: poljoprivrednik
+    sr_ec: пољопривредник
+    sr_el: poljoprivrednik
     su: Patani
     sv: bonde
     ta: உழவர்
     tdd: ᥓᥝᥲ ᥘᥣᥰ
     te: వ్యవసాయదారుడు
     tg: кишоварз
-    tg-latn: Kişovarz
+    tg_latn: Kişovarz
     th: ชาวนา
     tl: magsasaka
     tly: fermer
@@ -383,12 +383,12 @@ dv_has_:
     yue: 農夫
     za: Bouxguhnaz
     zh: 農夫
-    zh-cn: 农民
-    zh-hans: 农民
-    zh-hant: 農民
-    zh-hk: 農民
-    zh-sg: 农民
-    zh-tw: 農民
+    zh_cn: 农民
+    zh_hans: 农民
+    zh_hant: 農民
+    zh_hk: 農民
+    zh_sg: 农民
+    zh_tw: 農民
 ---
 # [[Farmer]] 
 

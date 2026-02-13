@@ -96,7 +96,7 @@ dv_has_:
     avk: Jiomaik ke nefteem (suterot)
     az: Milçəklər tanrısı
     be: Валадар мух
-    be-tarask: Валадар мух
+    be_tarask: Валадар мух
     bg: Повелителят на мухите
     bn: লর্ড অব দ্য ফ্লাইজ
     ca: El senyor de les mosques
@@ -139,8 +139,8 @@ dv_has_:
     ru: Повелитель мух
     sk: Boh múch
     sr: Gospodar muva
-    sr-ec: Господар мува
-    sr-el: Gospodar muva
+    sr_ec: Господар мува
+    sr_el: Gospodar muva
     sv: Flugornas herre
     szy: tapang nu lalangaw
     ta: லார்ட் ஆஃப் தி ஃபிலைச
@@ -149,11 +149,11 @@ dv_has_:
     uk: Володар мух
     vi: Chúa Ruồi
     zh: 蝇王
-    zh-cn: 蝇王
-    zh-hans: 蝇王
-    zh-hant: 蒼蠅王
-    zh-sg: 蝇王
-    zh-tw: 蒼蠅王
+    zh_cn: 蝇王
+    zh_hans: 蝇王
+    zh_hant: 蒼蠅王
+    zh_sg: 蝇王
+    zh_tw: 蒼蠅王
 ---
 # [[Lord_of_the_Flies]] 
 

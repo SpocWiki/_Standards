@@ -100,7 +100,7 @@ dv_has_:
     de: Die Abenteuer des braven Soldaten Schwejk
     el: Ο Καλός Στρατιώτης Σβέικ
     en: The Good Soldier Švejk
-    en-gb: The Good Soldier Švejk
+    en_gb: The Good Soldier Švejk
     eo: La travivaĵoj de la brava soldato Ŝvejk dum la mondmilito
     es: El buen soldado Švejk
     et: Vahva sõduri Švejki juhtumised maailmasõja päevil
@@ -135,20 +135,20 @@ dv_has_:
     sk: Osudy dobrého vojáka Švejka za světové války
     sl: Dobri vojak Švejk
     sr: Доживљаји доброг војника Швејка у светском рату
-    sr-ec: Доживљаји доброг војника Швејка у светском рату
-    sr-el: Doživljaji dobrog vojnika Švejka u svetskom ratu
+    sr_ec: Доживљаји доброг војника Швејка у светском рату
+    sr_el: Doživljaji dobrog vojnika Švejka u svetskom ratu
     sv: Den tappre soldaten Švejks äventyr under världskriget
     tr: Aslan Asker Şvayk
     uk: Пригоди бравого вояка Швейка
     ur: گڈ سولجر شویک
     uz: Shovvoz askar Švejkning sarguzashtlari
     zh: 好兵帥克
-    zh-cn: 好兵帅克
-    zh-hans: 好兵帅克
-    zh-hant: 好兵帥克
-    zh-hk: 好兵帥克
-    zh-sg: 好兵帅克
-    zh-tw: 好兵帥克
+    zh_cn: 好兵帅克
+    zh_hans: 好兵帅克
+    zh_hant: 好兵帥克
+    zh_hk: 好兵帥克
+    zh_sg: 好兵帅克
+    zh_tw: 好兵帥克
 ---
 # [[Good_Soldier_Švejk]] 
 

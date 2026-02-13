@@ -39,7 +39,7 @@ dv_has_:
     oc: Callosciurini
     pl: Callosciurini
     pt: Callosciurini
-    pt-br: Callosciurini
+    pt_br: Callosciurini
     ro: Callosciurini
     ru: Callosciurini
     sq: Callosciurini

@@ -86,7 +86,7 @@ dv_has_:
     ast: Deflación
     az: deflyasiya
     be: дэфляцыя
-    be-tarask: дэфляцыя
+    be_tarask: дэфляцыя
     bg: дефлация
     bn: মুদ্রা সংকোচন
     bs: deflacija
@@ -147,8 +147,8 @@ dv_has_:
     sl: deflacija
     sq: Deflacioni
     sr: дефлација
-    sr-ec: Дефлација
-    sr-el: deflacija
+    sr_ec: Дефлација
+    sr_el: deflacija
     su: Déflasi
     sv: deflation
     ta: பணவாட்டம்
@@ -164,12 +164,12 @@ dv_has_:
     wuu: 通货紧缩
     yue: 通貨緊縮
     zh: 通货紧缩
-    zh-cn: 通货紧缩
-    zh-hans: 通货紧缩
-    zh-hant: 通貨緊縮
-    zh-hk: 通貨緊縮
-    zh-sg: 通货紧缩
-    zh-tw: 通貨緊縮
+    zh_cn: 通货紧缩
+    zh_hans: 通货紧缩
+    zh_hant: 通貨緊縮
+    zh_hk: 通貨緊縮
+    zh_sg: 通货紧缩
+    zh_tw: 通貨緊縮
 ---
 # [[Deflation]] 
 

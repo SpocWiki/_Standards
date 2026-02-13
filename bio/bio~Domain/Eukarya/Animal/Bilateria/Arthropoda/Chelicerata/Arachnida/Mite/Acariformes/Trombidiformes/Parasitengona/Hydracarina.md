@@ -61,7 +61,7 @@ dv_has_:
     oc: Hydrachnidiae
     pl: Wodopójki
     pt: Hydrachnidiae
-    pt-br: Hydrachnidiae
+    pt_br: Hydrachnidiae
     ro: Hydrachnidae
     ru: Водяные клещи
     sq: Hydrachnidiae
@@ -71,9 +71,9 @@ dv_has_:
     vo: Hydrachnidiae
     war: Hydrachnidiae
     zh: 水螨亚股
-    zh-cn: 水螨亚股
-    zh-hans: 水螨亚股
-    zh-tw: 水蟎亞股
+    zh_cn: 水螨亚股
+    zh_hans: 水螨亚股
+    zh_tw: 水蟎亞股
 ---
 # [[Hydracarina]]
 

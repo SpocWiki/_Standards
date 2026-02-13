@@ -145,7 +145,7 @@ dv_has_:
     ban: terumbu karang
     bcl: coral reef
     be: каралавыя рыфы
-    be-tarask: каралавы рыф
+    be_tarask: каралавы рыф
     bg: коралов риф
     bho: मूँगा के चट्टान
     bn: প্রবাল প্রাচীর
@@ -219,7 +219,7 @@ dv_has_:
     smn: kooraalkárgu
     sms: korallkuârgg
     sr: корални гребен
-    sr-ec: корални гребен
+    sr_ec: корални гребен
     sv: korallrev
     sw: matumbawe
     ta: பவளப் பாறைகள்
@@ -236,8 +236,8 @@ dv_has_:
     wuu: 珊瑚礁
     yue: 珊瑚礁
     zh: 珊瑚礁
-    zh-hant: 珊瑚礁
-    zh-tw: 珊瑚礁
+    zh_hant: 珊瑚礁
+    zh_tw: 珊瑚礁
 ---
 # [[Coral_Reef]] 
 

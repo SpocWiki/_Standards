@@ -87,7 +87,7 @@ dv_has_:
     ast: John Atanasoff
     az: Con Vinsent Atanasov
     azb: جان آتاناسف
-    be-tarask: Джон Атанасаў
+    be_tarask: Джон Атанасаў
     bg: Джон Атанасов
     bn: জন ভিনসেন্ট আটানসফ
     ca: John Atanasoff
@@ -125,13 +125,13 @@ dv_has_:
     pl: John Vincent Atanasoff
     pnb: جان اٹناسوف
     pt: John Atanasoff
-    pt-br: John Atanasoff
+    pt_br: John Atanasoff
     ru: Джон Винсент Атанасов
     sl: John Vincent Atanasoff
     sq: John Vincent Atanasoff
     sr: Џон Атанасов
-    sr-ec: Џон Атанасов
-    sr-el: Džon Atanasov
+    sr_ec: Џон Атанасов
+    sr_el: Džon Atanasov
     sv: John Vincent Atanasoff
     tl: John Atanasoff
     tr: John Vincent Atanasoff
@@ -140,12 +140,12 @@ dv_has_:
     war: John Vincent Atanasoff
     yue: 約翰·文森特·阿塔納索夫
     zh: 約翰·文森特·阿塔納索夫
-    zh-cn: 约翰·文森特·阿塔纳索夫
-    zh-hans: 约翰·文森特·阿塔纳索夫
-    zh-hant: 約翰·文森特·阿塔納索夫
-    zh-hk: 約翰·文森特·阿塔納索夫
-    zh-sg: 约翰·文森特·阿塔纳索夫
-    zh-tw: 約翰·文森特·阿塔納索夫
+    zh_cn: 约翰·文森特·阿塔纳索夫
+    zh_hans: 约翰·文森特·阿塔纳索夫
+    zh_hant: 約翰·文森特·阿塔納索夫
+    zh_hk: 約翰·文森特·阿塔納索夫
+    zh_sg: 约翰·文森特·阿塔纳索夫
+    zh_tw: 約翰·文森特·阿塔納索夫
 ---
 # [[Atanasoff,John_Vincent]] 
 

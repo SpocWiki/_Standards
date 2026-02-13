@@ -101,7 +101,7 @@ dv_has_:
     az: Radiasiya
     azb: یونیزه رادیاسیون
     be: іанізавальнае выпраменьванне
-    be-tarask: іянізавальнае выпраменьваньне
+    be_tarask: іянізавальнае выпраменьваньне
     bg: Радиация
     bs: Ionizirajuće zračenje
     ca: radiació ionitzant
@@ -111,7 +111,7 @@ dv_has_:
     de: ionisierende Strahlung
     el: ιονίζουσα ακτινοβολία
     en: ionizing radiation
-    en-gb: ionising radiation
+    en_gb: ionising radiation
     eo: joniga radiado
     es: radiación ionizante
     et: ioniseeriv kiirgus
@@ -162,8 +162,8 @@ dv_has_:
     sl: ionizirajoče sevanje
     smn: ionisistee suonjârdem
     sr: јонизујуће зрачење
-    sr-ec: Јонизујуће зрачење
-    sr-el: Jonizujuće zračenje
+    sr_ec: Јонизујуће зрачење
+    sr_el: Jonizujuće zračenje
     sv: joniserande strålning
     ta: அயனியாக்கும் கதிர்
     th: การแผ่รังสีจากการแตกตัวเป็นไอออน
@@ -176,12 +176,12 @@ dv_has_:
     wuu: 电离辐射
     yue: 致電離輻射
     zh: 游離輻射
-    zh-cn: 电离辐射
-    zh-hans: 游离辐射
-    zh-hant: 游離輻射
-    zh-hk: 致電離輻射
-    zh-sg: 电离辐射
-    zh-tw: 游離輻射
+    zh_cn: 电离辐射
+    zh_hans: 游离辐射
+    zh_hant: 游離輻射
+    zh_hk: 致電離輻射
+    zh_sg: 电离辐射
+    zh_tw: 游離輻射
 ---
 # [[Ionizing_Radiation]] 
 

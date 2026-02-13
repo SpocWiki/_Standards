@@ -110,7 +110,7 @@ dv_has_:
     az: Paralel
     ba: Параллель
     be: паралель
-    be-tarask: паралель
+    be_tarask: паралель
     bg: Паралел
     bn: অক্ষরেখা
     bs: Paralela (geografija)
@@ -122,8 +122,8 @@ dv_has_:
     dsb: Šyrinowy krejz
     el: Παράλληλος κύκλος
     en: circle of latitude
-    en-ca: circle of latitude
-    en-gb: circle of latitude
+    en_ca: circle of latitude
+    en_gb: circle of latitude
     eo: cirklo de latitudo
     es: paralelo
     et: paralleel
@@ -184,12 +184,12 @@ dv_has_:
     wuu: 纬线
     yue: 緯線
     zh: 纬线
-    zh-cn: 纬线
-    zh-hans: 纬线
-    zh-hant: 緯線
-    zh-hk: 緯線
-    zh-sg: 纬线
-    zh-tw: 緯線
+    zh_cn: 纬线
+    zh_hans: 纬线
+    zh_hant: 緯線
+    zh_hk: 緯線
+    zh_sg: 纬线
+    zh_tw: 緯線
 ---
 # [[Circle_of_latitude]] 
 

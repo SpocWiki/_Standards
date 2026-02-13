@@ -67,7 +67,7 @@ dv_has_:
     ar: محاصرة
     az: Hərbi blokada
     be: ваенная блакада
-    be-tarask: вайсковая блякада
+    be_tarask: вайсковая блякада
     bg: Блокада
     bs: blokada
     ca: bloqueig
@@ -78,7 +78,7 @@ dv_has_:
     de: Blockade
     el: Αποκλεισμός
     en: blockade
-    en-ca: Blockade
+    en_ca: Blockade
     eo: blokado
     es: bloqueo
     et: Blokaad
@@ -112,15 +112,15 @@ dv_has_:
     os: блокадæ
     pl: blokada
     pt: bloqueio
-    pt-br: bloqueio
+    pt_br: bloqueio
     ro: Blocadă
     ru: военная блокада
     sh: Blokada
     sl: blokada
     sq: Bllokada
     sr: блокада
-    sr-ec: блокада
-    sr-el: blokada
+    sr_ec: блокада
+    sr_el: blokada
     sv: blockad
     ta: அடைப்பு
     th: การปิดล้อม

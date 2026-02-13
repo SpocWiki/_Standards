@@ -172,7 +172,7 @@ dv_has_:
     azb: کوییوت
     ban: Koyote
     be: каёт
-    be-tarask: каёт
+    be_tarask: каёт
     bg: койот
     br: Koiot
     ca: coiot
@@ -251,7 +251,7 @@ dv_has_:
     sms: kojott
     sq: Kojota
     sr: којот
-    sr-ec: којот
+    sr_ec: којот
     sv: prärievarg
     ta: கயோட்டி கோநாய்
     th: ไคโยตี
@@ -266,8 +266,8 @@ dv_has_:
     xmf: კოიოტი
     yue: 郊狼
     zh: 郊狼
-    zh-cn: 郊狼
-    zh-hans: 郊狼
+    zh_cn: 郊狼
+    zh_hans: 郊狼
 ---
 # [[Coyote]] 
 

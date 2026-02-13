@@ -119,7 +119,7 @@ dv_has_:
     ba: Адриано Челентано
     bar: Adriano Celentano
     be: Адрыяна Чэлентана
-    be-tarask: Адрыяна Чэлентана
+    be_tarask: Адрыяна Чэлентана
     bg: Адриано Челентано
     br: Adriano Celentano
     bs: Adriano Celentano
@@ -132,13 +132,13 @@ dv_has_:
     dag: Adriano Celentano
     de: Adriano Celentano
     de-at: Adriano Celentano
-    de-ch: Adriano Celentano
+    de_ch: Adriano Celentano
     egl: Adriano Celentano
     el: Αντριάνο Τσελεντάνο
     eml: Adriano Celentano
     en: Adriano Celentano
-    en-ca: Adriano Celentano
-    en-gb: Adriano Celentano
+    en_ca: Adriano Celentano
+    en_gb: Adriano Celentano
     eo: Adriano Celentano
     es: Adriano Celentano
     et: Adriano Celentano
@@ -171,8 +171,8 @@ dv_has_:
     kk: Адриано Челентано
     ko: 아드리아노 첼렌타노
     ku: Adriano Celentano
-    ku-arab: ئادرانۆ جەلەنتانۆ
-    ku-latn: Adriano Celentano
+    ku_arab: ئادرانۆ جەلەنتانۆ
+    ku_latn: Adriano Celentano
     la: Hadrianus Celentano
     lb: Adriano Celentano
     li: Adriano Celentano
@@ -188,7 +188,7 @@ dv_has_:
     nap: Adriano Celentano
     nb: Adriano Celentano
     nds: Adriano Celentano
-    nds-nl: Adriano Celentano
+    nds_nl: Adriano Celentano
     nl: Adriano Celentano
     nn: Adriano Celentano
     nrm: Adriano Celentano
@@ -199,7 +199,7 @@ dv_has_:
     pl: Adriano Celentano
     pms: Adriano Celentano
     pt: Adriano Celentano
-    pt-br: Adriano Celentano
+    pt_br: Adriano Celentano
     rm: Adriano Celentano
     ro: Adriano Celentano
     ru: Адриано Челентано
@@ -211,8 +211,8 @@ dv_has_:
     sl: Adriano Celentano
     sq: Adriano Celentano
     sr: Адријано Челентано
-    sr-ec: Адријано Челентано
-    sr-el: Adriano Celentano
+    sr_ec: Адријано Челентано
+    sr_el: Adriano Celentano
     sv: Adriano Celentano
     sw: Adriano Celentano
     tg: Адриано Челентано

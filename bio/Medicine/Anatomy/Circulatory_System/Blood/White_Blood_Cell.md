@@ -138,7 +138,7 @@ dv_has_:
     az: Leykositlər
     ba: Лейкоциттар
     be: лейкацыт
-    be-tarask: леўкацыт
+    be_tarask: леўкацыт
     bg: Левкоцит
     bn: শ্বেতকণিকা
     bs: Bijele krvne ćelije
@@ -194,7 +194,7 @@ dv_has_:
     mn: Цусны цагаан эс
     mr: पांढर्या रक्त पेशी
     ms: sel darah putih
-    ms-arab: سيل داره ڤوتيه
+    ms_arab: سيل داره ڤوتيه
     nb: hvite blodceller
     ne: सेतो रक्त कोष
     nl: witte bloedcel
@@ -205,7 +205,7 @@ dv_has_:
     pl: leukocyt
     pnb: سفید خونی خلیہ
     pt: leucócito
-    pt-br: leucócitos
+    pt_br: leucócitos
     qu: Yuraq yawar kawsaykuq
     ro: globulă albă din sânge
     ru: лейкоцит
@@ -217,7 +217,7 @@ dv_has_:
     sms: viõʹlǧǧes-sell
     sq: Leukociti
     sr: бела крвна зрнца
-    sr-ec: бела крвна зрнца
+    sr_ec: бела крвна зрнца
     su: Sél getih bodas
     sv: vit blodkropp
     sw: Seli nyeupe za damu
@@ -238,10 +238,10 @@ dv_has_:
     yue: 白血球
     za: bwzsibauh
     zh: 白血球
-    zh-cn: 白细胞
-    zh-hant: 白血球
-    zh-hk: 白血球
-    zh-tw: 白血球
+    zh_cn: 白细胞
+    zh_hant: 白血球
+    zh_hk: 白血球
+    zh_tw: 白血球
 ---
 # [[White_Blood_Cell]] 
 

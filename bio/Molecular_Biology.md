@@ -116,7 +116,7 @@ dv_has_:
     az: Molekulyar biologiya
     ba: молекуляр биология
     be: малекулярная біялогія
-    be-tarask: малекулярная біялёгія
+    be_tarask: малекулярная біялёгія
     bg: Молекулярна биология
     bn: আণবিক জীববিজ্ঞান
     bs: Molekularna biologija
@@ -129,8 +129,8 @@ dv_has_:
     de: Molekularbiologie
     el: μοριακή βιολογία
     en: molecular biology
-    en-ca: Molecular biology
-    en-gb: molecular biology
+    en_ca: Molecular biology
+    en_gb: molecular biology
     en-us: molecular biology
     eo: molekula biologio
     es: biología molecular
@@ -166,7 +166,7 @@ dv_has_:
     mk: молекуларна биологија
     ml: തന്മാത്രാ ജീവശാസ്ത്രം
     ms: biologi molekul
-    ms-arab: بيولوݢي موليکول
+    ms_arab: بيولوݢي موليکول
     my: မိုလီကျူလာ ဇီဝဗေဒ
     nan: Hun-chú seng-bu̍t-ha̍k
     nb: molekylærbiologi
@@ -179,7 +179,7 @@ dv_has_:
     pl: biologia molekularna
     pnb: مالیکیولی جیون پڑھت
     pt: biologia molecular
-    pt-br: biologia molecular
+    pt_br: biologia molecular
     ro: biologie moleculară
     ru: молекулярная биология
     sd: سالماتي حياتيات
@@ -192,8 +192,8 @@ dv_has_:
     sms: molekyylbiologia
     sq: Biologjia molekulare
     sr: молекуларна биологија
-    sr-ec: молекуларна биологија
-    sr-el: molekularna biologija
+    sr_ec: молекуларна биологија
+    sr_el: molekularna biologija
     sv: molekylärbiologi
     sw: Biolojia ya molekuli
     ta: மூலக்கூற்று உயிரியல்
@@ -212,8 +212,8 @@ dv_has_:
     xmf: მოლეკულური ბიოლოგია
     yue: 分子生物學
     zh: 分子生物学
-    zh-cn: 分子生物学
-    zh-hans: 分子生物学
+    zh_cn: 分子生物学
+    zh_hans: 分子生物学
 ---
 # [[Molecular_Biology]] 
 

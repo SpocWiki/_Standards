@@ -364,7 +364,7 @@ dv_has_:
     ab: ала
     ace: asèë
     ady: хьэ
-    aeb-arab: كلب
+    aeb_arab: كلب
     af: hond
     agq: bvʉ e kwokwo
     am: ውሻ
@@ -393,7 +393,7 @@ dv_has_:
     bbc: biang
     bcl: ayam
     be: сабака свойскі
-    be-tarask: сабака
+    be_tarask: сабака
     bew: anjing
     bg: куче
     bho: कुक्कुर
@@ -425,7 +425,7 @@ dv_has_:
     da: hund
     dag: baa
     de: Haushund
-    de-ch: Haushund
+    de_ch: Haushund
     dga: baa
     din: jöŋ
     diq: kutık
@@ -512,7 +512,7 @@ dv_has_:
     ks: ہوٗن
     ksh: Honk
     ku: kûçik
-    ku-latn: kûçik
+    ku_latn: kûçik
     kus: baa
     kv: пон
     kw: ki
@@ -550,7 +550,7 @@ dv_has_:
     mr: कुत्रा
     mrj: пи
     ms: anjing
-    ms-arab: انجيڠ
+    ms_arab: انجيڠ
     mt: kelb
     mul: Canis lupus familiaris
     mwl: perro
@@ -563,7 +563,7 @@ dv_has_:
     nap: can
     nb: hund
     nds: Hund
-    nds-nl: hond
+    nds_nl: hond
     ne: कुकुर
     new: खिचा
     nia: asu
@@ -591,7 +591,7 @@ dv_has_:
     pnb: کتا
     ps: سپی
     pt: cão
-    pt-br: cão
+    pt_br: cão
     pwn: vatu
     qu: allqu
     rki: ခွီး
@@ -654,7 +654,7 @@ dv_has_:
     tr: köpek
     trv: huling
     tt: эт
-    tt-latn: et
+    tt_latn: et
     tum: nchebe
     tw: ɔkraman
     tyv: ыт
@@ -681,14 +681,14 @@ dv_has_:
     yue: 狗
     za: ma
     zh: 犬
-    zh-cn: 犬
-    zh-hans: 犬
-    zh-hant: 犬
-    zh-hk: 犬
-    zh-mo: 犬
+    zh_cn: 犬
+    zh_hans: 犬
+    zh_hant: 犬
+    zh_hk: 犬
+    zh_mo: 犬
     zh-my: 犬
-    zh-sg: 犬
-    zh-tw: 犬
+    zh_sg: 犬
+    zh_tw: 犬
     zu: inja
 ---
 # [[Dog]] 🐶 

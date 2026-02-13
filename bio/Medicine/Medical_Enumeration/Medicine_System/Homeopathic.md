@@ -122,7 +122,7 @@ dv_has_:
     az: homeopatiya
     ba: гомеопатия
     be: гамеапатыя
-    be-tarask: гамэапатыя
+    be_tarask: гамэапатыя
     bg: хомеопатия
     bn: হোমিওপ্যাথি
     bs: homeopatija
@@ -132,11 +132,11 @@ dv_has_:
     cy: homeopathi
     da: homøopati
     de: Homöopathie
-    de-ch: Homöopathie
+    de_ch: Homöopathie
     el: ομοιοπαθητική
     en: homeopathy
-    en-ca: homeopathy
-    en-gb: homeopathy
+    en_ca: homeopathy
+    en_gb: homeopathy
     eo: homeopatio
     es: homeopatía
     et: Homöopaatia
@@ -149,7 +149,7 @@ dv_has_:
     gl: homeopatía
     gom: होमिओपथी
     gom-deva: होमिओपथी
-    gom-latn: homeopathy
+    gom_latn: homeopathy
     gu: હોમિયોપેથી
     he: הומאופתיה
     hi: होम्योपैथी
@@ -186,7 +186,7 @@ dv_has_:
     pnb: ہومیوپیھتی
     ps: هومیوپاتي
     pt: homeopatia
-    pt-br: homeopatia
+    pt_br: homeopatia
     ro: homeopatie
     ru: гомеопатия
     sa: होमियोपति

@@ -153,7 +153,7 @@ dv_has_:
     ban: Kumbang kentang Colorado
     bar: Leptinotarsa decemlineata
     be: каларадскі жук
-    be-tarask: калярадзкі жук
+    be_tarask: калярадзкі жук
     bg: колорадски бръмбар
     br: Dorifor
     ca: escarabat de la patata
@@ -166,12 +166,12 @@ dv_has_:
     da: Leptinotarsa decemlineata
     de: Kartoffelkäfer
     de-at: Leptinotarsa decemlineata
-    de-ch: Leptinotarsa decemlineata
+    de_ch: Leptinotarsa decemlineata
     dsb: Kulkowa wacka
     el: Δορυφόρος της πατάτας
     en: Colorado potato beetle
-    en-ca: Colorado potato beetle
-    en-gb: Colorado Beetle
+    en_ca: Colorado potato beetle
+    en_gb: Colorado Beetle
     eo: Terpoma skarabo
     es: Leptinotarsa decemlineata
     et: Kartulimardikas
@@ -201,11 +201,11 @@ dv_has_:
     ka: კოლორადოს კარტოფილის ხოჭო
     kg: Leptinotarsa decemlineata
     kk: Колорадо қоңызы
-    kk-arab: كولورادو قوڭىزى
+    kk_arab: كولورادو قوڭىزى
     kk-cn: كولورادو قوڭىزى
-    kk-cyrl: Колорадо қоңызы
+    kk_cyrl: Колорадо қоңызы
     kk-kz: Колорадо қоңызы
-    kk-latn: Kolorado qoñızı
+    kk_latn: Kolorado qoñızı
     kk-tr: Kolorado qoñızı
     ko: 콜로라도감자잎벌레
     ky: Колорадо коңузу
@@ -225,7 +225,7 @@ dv_has_:
     nap: Leptinotarsa decemlineata
     nb: koloradobille
     nds: Kartuffelkäver
-    nds-nl: Leptinotarsa decemlineata
+    nds_nl: Leptinotarsa decemlineata
     nl: Coloradokever
     nn: Leptinotarsa decemlineata
     nrm: Leptinotarsa decemlineata
@@ -236,7 +236,7 @@ dv_has_:
     pl: Stonka ziemniaczana
     pms: Leptinotarsa decemlineata
     pt: Escaravelho da batateira
-    pt-br: Besouro-da-batata
+    pt_br: Besouro-da-batata
     rm: Leptinotarsa decemlineata
     ro: Gândac de Colorado
     rsk: Златица
@@ -249,8 +249,8 @@ dv_has_:
     sl: koloradski hrošč
     sq: Leptinotarsa decemlineata
     sr: Кромпирова златица
-    sr-ec: Кромпирова златица
-    sr-el: Krompirova zlatica
+    sr_ec: Кромпирова златица
+    sr_el: Krompirova zlatica
     sv: Coloradoskalbagge
     sw: Leptinotarsa decemlineata
     tg: Гамбусаки колорадоӣ
@@ -271,12 +271,12 @@ dv_has_:
     wuu: 科罗拉多金花虫
     yue: 薯仔甲蟲
     zh: 科羅拉多金花蟲
-    zh-cn: 科罗拉多叶甲
-    zh-hans: 科罗拉多金花虫
-    zh-hant: 科羅拉多金花蟲
-    zh-hk: 科羅拉多金花蟲
-    zh-sg: 科罗拉多金花虫
-    zh-tw: 科羅拉多金花蟲
+    zh_cn: 科罗拉多叶甲
+    zh_hans: 科罗拉多金花虫
+    zh_hant: 科羅拉多金花蟲
+    zh_hk: 科羅拉多金花蟲
+    zh_sg: 科罗拉多金花虫
+    zh_tw: 科羅拉多金花蟲
     zu: Leptinotarsa decemlineata
 ---
 # [[Potato_Beetle]] 

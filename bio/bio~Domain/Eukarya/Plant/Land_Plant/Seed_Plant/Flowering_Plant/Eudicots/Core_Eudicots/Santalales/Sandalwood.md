@@ -51,11 +51,11 @@ dv_has_:
     ca: sàndal
     cs: santalové dřevo
     de: Sandelholz
-    de-ch: Sandelholz
+    de_ch: Sandelholz
     el: σανταλόξυλο
     en: sandalwood
-    en-ca: Sandalwood
-    en-gb: sandalwood
+    en_ca: Sandalwood
+    en_gb: sandalwood
     es: sándalo
     et: Sandlipuu
     fa: چوب صندل

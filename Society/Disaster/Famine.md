@@ -119,7 +119,7 @@ dv_has_:
     ar: مجاعة
     ast: fame
     azb: قیتلیق
-    be-tarask: масавы голад
+    be_tarask: масавы голад
     bg: Масов глад
     bho: अकाल
     bm: Kongon
@@ -158,17 +158,17 @@ dv_has_:
     ka: მასობრივი შიმშილი
     kcg: A̱wurumma̱nde
     kk: Ашаршылық
-    kk-arab: اشارشىلىق
+    kk_arab: اشارشىلىق
     kk-cn: اشارشىلىق
-    kk-cyrl: Ашаршылық
+    kk_cyrl: Ашаршылық
     kk-kz: Ашаршылық
-    kk-latn: Aşarşılıq
+    kk_latn: Aşarşılıq
     kk-tr: Aşarşılıq
     km: គ្រោះទុរ្ភិក្ស
     ko: 기근
     ku: Xela
-    ku-arab: خەلا
-    ku-latn: Xela
+    ku_arab: خەلا
+    ku_latn: Xela
     la: fames
     lb: Hongersnout
     lij: caistria
@@ -224,12 +224,12 @@ dv_has_:
     yue: 饑荒
     za: Mwh’iek
     zh: 饑荒
-    zh-cn: 饥荒
-    zh-hans: 饥荒
-    zh-hant: 饑荒
-    zh-hk: 饑荒
-    zh-sg: 饑荒
-    zh-tw: 饑荒
+    zh_cn: 饥荒
+    zh_hans: 饥荒
+    zh_hant: 饑荒
+    zh_hk: 饑荒
+    zh_sg: 饑荒
+    zh_tw: 饑荒
 ---
 # [[Famine]] 
 

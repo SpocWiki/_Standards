@@ -55,7 +55,7 @@ dv_has_:
     az: Ağacqurbağaları
     azb: آغاجقورباغالاری
     be: квакшы
-    be-tarask: квакшы
+    be_tarask: квакшы
     bg: дървесници
     ca: Granota arborícola
     ceb: Hylidae
@@ -63,10 +63,10 @@ dv_has_:
     cv: Йывăç шапи (ямахат)
     da: Løvfrøer
     de: Laubfrösche
-    de-ch: Laubfrösche
+    de_ch: Laubfrösche
     en: Hylidae
-    en-ca: Hylidae
-    en-gb: Hylidae
+    en_ca: Hylidae
+    en_gb: Hylidae
     eo: Hiledoj
     es: Hylidae
     eu: Hylidae
@@ -105,7 +105,7 @@ dv_has_:
     pnb: رکھ ڈڈو
     ps: د ونو چونگښې
     pt: Hylidae
-    pt-br: Hylidae
+    pt_br: Hylidae
     ro: Hilide
     ru: квакши
     sco: Hylidae
@@ -119,9 +119,9 @@ dv_has_:
     vo: Hylidae
     war: Hylidae
     zh: 雨蛙科
-    zh-cn: 雨蛙科
-    zh-hans: 雨蛙科
-    zh-tw: 樹蟾科
+    zh_cn: 雨蛙科
+    zh_hans: 雨蛙科
+    zh_tw: 樹蟾科
 ---
 # [[Hylidae]]
 

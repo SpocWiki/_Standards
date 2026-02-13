@@ -148,7 +148,7 @@ dv_has_:
     ban: Pautsahaan
     bar: Gsejschaft
     be: фірма
-    be-tarask: кампанія
+    be_tarask: кампанія
     bew: matskepé
     bg: компания
     bn: কোম্পানি
@@ -163,8 +163,8 @@ dv_has_:
     de: Gesellschaft
     el: εταιρεία
     en: company
-    en-ca: company
-    en-gb: company
+    en_ca: company
+    en_gb: company
     eo: kompanio
     es: compañía
     et: äriühing
@@ -193,9 +193,9 @@ dv_has_:
     ka: კომპანია
     kaa: kompaniya
     kk: фирма
-    kk-arab: فىيرما
-    kk-cyrl: фирма
-    kk-latn: fïrma
+    kk_arab: فىيرما
+    kk_cyrl: фирма
+    kk_latn: fïrma
     kn: ಕಂಪನಿ/ಸಂಘ
     ko: 회사
     ks: کمپنی
@@ -208,7 +208,7 @@ dv_has_:
     mk: трговско друштво
     mr: कंपनी
     ms: syarikat
-    ms-arab: شريکت
+    ms_arab: شريکت
     mt: kumpanija
     nan: kong-si
     nb: virksomhet
@@ -236,8 +236,8 @@ dv_has_:
     so: shirkad
     sq: kompani
     sr: предузеће
-    sr-ec: предузеће
-    sr-el: preduzeće
+    sr_ec: предузеће
+    sr_el: preduzeće
     sv: bolag
     sw: kampuni
     ta: நிறுவனம்
@@ -260,14 +260,14 @@ dv_has_:
     yue: 公司
     za: gunghswh
     zh: 公司
-    zh-cn: 公司
-    zh-hans: 公司
-    zh-hant: 公司
-    zh-hk: 公司
-    zh-mo: 公司
+    zh_cn: 公司
+    zh_hans: 公司
+    zh_hant: 公司
+    zh_hk: 公司
+    zh_mo: 公司
     zh-my: 公司
-    zh-sg: 公司
-    zh-tw: 公司
+    zh_sg: 公司
+    zh_tw: 公司
     zu: umshumanqa
 ---
 # [[Company]] 

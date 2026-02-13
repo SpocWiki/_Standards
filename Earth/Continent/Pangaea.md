@@ -29,7 +29,7 @@ dv_has_:
     ba: Пангея
     ban: Pangea
     be: Пангея
-    be-tarask: Пангея
+    be_tarask: Пангея
     bg: Пангея
     bn: প্যানজিয়া
     br: Pangea
@@ -46,8 +46,8 @@ dv_has_:
     dv: ޕަންގިއާ
     el: Παγγαία
     en: Pangaea
-    en-ca: Pangaea
-    en-gb: Pangaea
+    en_ca: Pangaea
+    en_gb: Pangaea
     eo: Pangeo
     es: Pangea
     et: Pangaea
@@ -130,9 +130,9 @@ dv_has_:
     xmf: პანგეა
     yue: 盤古大陸
     zh: 盤古大陸
-    zh-cn: 盤古大陸
-    zh-hans: 盤古大陸
-    zh-hant: 盤古大陸
+    zh_cn: 盤古大陸
+    zh_hans: 盤古大陸
+    zh_hant: 盤古大陸
 aliases:
 - Ish-kontinent
 - Pandjêye

@@ -52,15 +52,15 @@ dv_has_:
   name_:
     ar: تقلص الأطوال
     ast: Contraición de Lorentz
-    be-tarask: скарачэньне Лёрэнца
+    be_tarask: скарачэньне Лёрэнца
     bn: দৈর্ঘ্য সংকোচন
     ca: contracció de Lorentz
     cs: kontrakce délek
     da: Længdeforkortelse
     de: Lorentzkontraktion
     en: length contraction
-    en-ca: Length contraction
-    en-gb: Length contraction
+    en_ca: Length contraction
+    en_gb: Length contraction
     eo: Lorentz-mallongiĝo
     es: contracción de Lorentz
     eu: Lorentzen uzkurdura
@@ -82,7 +82,7 @@ dv_has_:
     nn: lengdekontraksjon
     pl: Wzór Lorentza
     pt: contração do comprimento
-    pt-br: contração do comprimento
+    pt_br: contração do comprimento
     ro: Contracția Lorentz
     ru: Лоренцево сокращение
     sh: Kontrakcija dužine
@@ -95,9 +95,9 @@ dv_has_:
     vi: Thu hẹp độ dài
     yue: 長度收縮
     zh: 长度收缩
-    zh-hans: 长度收缩
-    zh-hant: 長度收縮
-    zh-hk: 長度收縮
+    zh_hans: 长度收缩
+    zh_hant: 長度收縮
+    zh_hk: 長度收縮
 ---
 # [[Length_Contraction]] 
 

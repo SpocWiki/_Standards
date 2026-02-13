@@ -118,7 +118,7 @@ dv_has_:
     az: Toyuqkimilər
     ban: Galliformes
     be: курападобныя
-    be-tarask: курападобныя
+    be_tarask: курападобныя
     bg: кокошоподобни
     bn: গ্যালিফর্মিস
     br: Galliformes
@@ -133,8 +133,8 @@ dv_has_:
     diq: Kergane
     el: Ορνιθόμορφα
     en: Galliformes
-    en-ca: Galliformes
-    en-gb: Galliformes
+    en_ca: Galliformes
+    en_gb: Galliformes
     eo: Kokoformaj birdoj
     es: Galliformes
     et: kanalised
@@ -191,7 +191,7 @@ dv_has_:
     pcd: Galliformes
     pl: grzebiące
     pt: Galliformes
-    pt-br: Galliformes
+    pt_br: Galliformes
     ro: Galliformes
     ru: курообразные
     rue: Куроподобны
@@ -223,9 +223,9 @@ dv_has_:
     yue: 雞形目
     zea: "'Oenachtigen"
     zh: 鸡形目
-    zh-cn: 鸡形目
-    zh-hans: 鸡形目
-    zh-hant: 雞形目
+    zh_cn: 鸡形目
+    zh_hans: 鸡形目
+    zh_hant: 雞形目
 ---
 # [[Galliformes]] 
 

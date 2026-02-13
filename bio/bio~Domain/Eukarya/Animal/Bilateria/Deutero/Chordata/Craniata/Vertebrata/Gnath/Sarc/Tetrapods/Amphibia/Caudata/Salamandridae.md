@@ -91,7 +91,7 @@ dv_has_:
     oc: Salamandridae
     pl: salamandrowate
     pt: Salamandridae
-    pt-br: Salamandridae
+    pt_br: Salamandridae
     ro: Salamandridae
     ru: настоящие саламандры
     sco: Salamandridae
@@ -107,12 +107,12 @@ dv_has_:
     vo: Salamandridae
     war: Salamandridae
     zh: 蝾螈科
-    zh-cn: 蝾螈科
-    zh-hans: 蝾螈科
-    zh-hant: 蠑螈科
-    zh-hk: 蠑螈科
-    zh-sg: 蝾螈科
-    zh-tw: 蠑螈科
+    zh_cn: 蝾螈科
+    zh_hans: 蝾螈科
+    zh_hant: 蠑螈科
+    zh_hk: 蠑螈科
+    zh_sg: 蝾螈科
+    zh_tw: 蠑螈科
 ---
 # [[Salamandridae]]
 

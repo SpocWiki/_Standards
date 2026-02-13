@@ -72,7 +72,7 @@ dv_has_:
     av: URL
     az: URL
     be: URL
-    be-tarask: URL
+    be_tarask: URL
     bg: Унифициран локатор на ресурси
     bho: यूआरएल
     bn: ইউনিফর্ম রিসোর্স লোকেটর
@@ -86,11 +86,11 @@ dv_has_:
     cy: URL
     da: Uniform Resource Locator
     de: Uniform Resource Locator
-    de-ch: Uniform Resource Locator
+    de_ch: Uniform Resource Locator
     el: Uniform Resource Locator
     en: URL
-    en-ca: URL
-    en-gb: URL
+    en_ca: URL
+    en_gb: URL
     eo: URL
     es: localizador de recursos uniforme
     et: internetiaadress
@@ -145,7 +145,7 @@ dv_has_:
     pl: Uniform Resource Locator
     ps: يو ار اېل
     pt: URL
-    pt-br: URL
+    pt_br: URL
     ro: Localizator uniform de resurse
     ru: URL
     se: URL
@@ -156,7 +156,7 @@ dv_has_:
     sms: URL
     sq: URL
     sr: URL
-    sr-ec: веб адреса
+    sr_ec: веб адреса
     sv: Uniform Resource Locator
     sw: URL
     ta: உரலி
@@ -166,7 +166,7 @@ dv_has_:
     th: ยูอาร์แอล
     tr: URL
     tt: URL
-    tt-cyrl: URL
+    tt_cyrl: URL
     ug: URL
     uk: Уніфікований локатор ресурсів
     ur: یکساں وسیلی تعینگر
@@ -178,9 +178,9 @@ dv_has_:
     yo: Uniform Resource Locator
     yue: URL
     zh: 统一资源定位符
-    zh-cn: 统一资源定位符
-    zh-hans: 统一资源定位符
-    zh-hant: 網址
+    zh_cn: 统一资源定位符
+    zh_hans: 统一资源定位符
+    zh_hant: 網址
   parent_class:
   - '[[../Text]]'
 dv_is_:

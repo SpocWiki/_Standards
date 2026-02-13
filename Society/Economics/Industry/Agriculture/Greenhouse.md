@@ -127,7 +127,7 @@ dv_has_:
     az: Parnik
     azb: گول خانا
     be: цяпліца
-    be-tarask: цяпліца
+    be_tarask: цяпліца
     bg: Парник
     bn: গ্রীনহাউস
     ca: hivernacle
@@ -163,11 +163,11 @@ dv_has_:
     ja: 温室
     jv: Omah kaca
     kk: Жылыжай
-    kk-arab: جىلىجاي
+    kk_arab: جىلىجاي
     kk-cn: جىلىجاي
-    kk-cyrl: Жылыжай
+    kk_cyrl: Жылыжай
     kk-kz: Жылыжай
-    kk-latn: Jılıjaý
+    kk_latn: Jılıjaý
     kk-tr: Jılıjaý
     kn: ಹಸಿರುಮನೆ
     ko: 온실
@@ -206,15 +206,15 @@ dv_has_:
     sms: šâddeempõrtt
     sq: Serra
     sr: стаклена башта
-    sr-ec: стаклена башта
-    sr-el: staklena bašta
+    sr_ec: стаклена башта
+    sr_el: staklena bašta
     sv: växthus
     ta: பசுமைக்குடில்
     te: గ్రీన్హౌస్(హరితగృహం)
     tg: Гармхона
     tl: Bahay-patubuan
     tr: sera
-    tt-latn: теплица
+    tt_latn: теплица
     uk: оранжерея
     ur: پود گھر
     uz: Issiqxona
@@ -225,12 +225,12 @@ dv_has_:
     wuu: 温室
     yue: 溫室
     zh: 溫室
-    zh-cn: 温室
-    zh-hans: 温室
-    zh-hant: 溫室
-    zh-hk: 溫室
-    zh-sg: 温室
-    zh-tw: 溫室
+    zh_cn: 温室
+    zh_hans: 温室
+    zh_hant: 溫室
+    zh_hk: 溫室
+    zh_sg: 温室
+    zh_tw: 溫室
     zu: Isilugu
 ---
 # [[Greenhouse]] 

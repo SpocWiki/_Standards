@@ -136,7 +136,7 @@ dv_has_:
     bar: Rupert Murdoch
     bcl: Rupert Murdoch
     be: Руперт Мёрдак
-    be-tarask: Рупэрт Мэрдак
+    be_tarask: Рупэрт Мэрдак
     bg: Рупърт Мърдок
     bn: রুপার্ট মার্ডক
     br: Rupert Murdoch
@@ -148,11 +148,11 @@ dv_has_:
     da: Rupert Murdoch
     de: Rupert Murdoch
     de-at: Rupert Murdoch
-    de-ch: Rupert Murdoch
+    de_ch: Rupert Murdoch
     el: Ρούπερτ Μέρντοχ
     en: Rupert Murdoch
-    en-ca: Rupert Murdoch
-    en-gb: Rupert Murdoch
+    en_ca: Rupert Murdoch
+    en_gb: Rupert Murdoch
     eo: Rupert Murdoch
     es: Rupert Murdoch
     et: Rupert Murdoch
@@ -205,7 +205,7 @@ dv_has_:
     nap: Rupert Murdoch
     nb: Rupert Murdoch
     nds: Rupert Murdoch
-    nds-nl: Rupert Murdoch
+    nds_nl: Rupert Murdoch
     ne: रुपर्ट मर्डोक
     nl: Rupert Murdoch
     nn: Rupert Murdoch
@@ -217,7 +217,7 @@ dv_has_:
     pl: Rupert Murdoch
     pms: Rupert Murdoch
     pt: Rupert Murdoch
-    pt-br: Rupert Murdoch
+    pt_br: Rupert Murdoch
     rm: Rupert Murdoch
     ro: Rupert Murdoch
     ru: Руперт Мёрдок
@@ -229,7 +229,7 @@ dv_has_:
     sl: Rupert Murdoch
     sq: Rupert Murdoch
     sr: Руперт Мердок
-    sr-el: Rupert Murdoch
+    sr_el: Rupert Murdoch
     sv: Rupert Murdoch
     sw: Rupert Murdoch
     ta: ரூப்பர்ட் மர்டாக்
@@ -239,7 +239,7 @@ dv_has_:
     tk: Rupert Murdoch
     tr: Rupert Murdoch
     tt: Руперт Мөрдок
-    tt-cyrl: Руперт Мөрдок
+    tt_cyrl: Руперт Мөрдок
     uk: Руперт Мердок
     ur: روپرٹ مردوخ
     vec: Rupert Murdoch
@@ -252,10 +252,10 @@ dv_has_:
     yi: רופערט מורדאק
     yue: 魯珀特梅鐸
     zh: 鲁珀特·默多克
-    zh-cn: 鲁珀特·默多克
-    zh-hans: 鲁珀特·默多克
-    zh-hant: 魯珀特·默多克
-    zh-hk: 魯珀特·梅鐸
+    zh_cn: 鲁珀特·默多克
+    zh_hans: 鲁珀特·默多克
+    zh_hant: 魯珀特·默多克
+    zh_hk: 魯珀特·梅鐸
     zu: Rupert Murdoch
 ---
 # [[Murdoch,Rupert]] 

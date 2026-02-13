@@ -69,14 +69,14 @@ dv_has_:
     ar: تشتت
     az: məhlullar və dispers sistemlər
     be: дысперсная сістэма
-    be-tarask: дыспэрсія
+    be_tarask: дыспэрсія
     bg: дисперсна система
     ca: dispersió
     cs: disperzní soustava
     de: Dispersion
     en: dispersion
-    en-ca: dispersion
-    en-gb: dispersion
+    en_ca: dispersion
+    en_gb: dispersion
     es: dispersión
     et: pihussüsteem
     eu: dispertsio

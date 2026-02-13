@@ -65,7 +65,7 @@ dv_has_:
   name_:
     ar: أركان الحرب
     be: штаб
-    be-tarask: штаб
+    be_tarask: штаб
     bg: Щаб
     ca: estat major
     ckb: ستافی سەربازی
@@ -74,8 +74,8 @@ dv_has_:
     de: Stab
     el: επιτελείο
     en: military staff
-    en-ca: Staff
-    en-gb: staff
+    en_ca: Staff
+    en_gb: staff
     eo: stabo
     es: estado mayor
     et: staap
@@ -118,9 +118,9 @@ dv_has_:
     uk: штаб
     uz: Shtab
     zh: 参谋部
-    zh-hans: 参谋部
-    zh-hant: 參謀部
-    zh-tw: 參謀部
+    zh_hans: 参谋部
+    zh_hant: 參謀部
+    zh_tw: 參謀部
 ---
 # [[Military_Staff]] 
 

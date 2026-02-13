@@ -97,7 +97,7 @@ dv_has_:
     ar: فقدان الوزن
     ast: endelgazamientu
     bar: Ohnehma
-    be-tarask: зьмізарненьне
+    be_tarask: зьмізарненьне
     bn: ওজন কমানো
     ca: pèrdua de pes
     cs: ztráta tělesné hmotnosti
@@ -106,8 +106,8 @@ dv_has_:
     de: Gewichtsreduktion
     el: απώλεια σωματικού βάρους
     en: weight loss
-    en-ca: weight loss
-    en-gb: weight loss
+    en_ca: weight loss
+    en_gb: weight loss
     eo: perdo de pezo
     es: adelgazamiento
     eu: pisu galera
@@ -134,13 +134,13 @@ dv_has_:
     lv: svara zudums
     mk: слабеење
     ms: kehilangan berat badan
-    ms-arab: کهيلڠن برت بادن
+    ms_arab: کهيلڠن برت بادن
     nb: vekttap
     nl: vermagering
     nn: vekttap
     pl: utrata wagi
     pt: perda de peso
-    pt-br: perda de peso
+    pt_br: perda de peso
     ro: slăbire
     ru: похудение
     sh: mršavljenje
@@ -156,9 +156,9 @@ dv_has_:
     vi: giảm cân
     yue: 減重
     zh: 减肥
-    zh-hans: 减肥
-    zh-hant: 減肥
-    zh-hk: 減肥
+    zh_hans: 减肥
+    zh_hant: 減肥
+    zh_hk: 減肥
 ---
 # [[Weight_Loss]] 
 

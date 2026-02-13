@@ -143,7 +143,7 @@ dv_has_:
     azb: قیرمیزی قاراغات
     bar: Rote Ribisel
     be: Парэчкі чырвоныя
-    be-tarask: парэчкі чырвоныя
+    be_tarask: парэчкі чырвоныя
     bg: червен касис
     bxr: Улаагана
     ca: riber vermell
@@ -202,7 +202,7 @@ dv_has_:
     pms: Ribes rubrum
     ps: نانګه
     pt: Groselha
-    pt-br: Groselha
+    pt_br: Groselha
     ro: Coacăz roșu
     ru: Смородина красная
     sah: Хаптаҕас
@@ -216,7 +216,7 @@ dv_has_:
     th: เรดเคอร์แรนท์
     tr: Kırmızı frenk üzümü
     tt: Кызыл карлыган
-    tt-cyrl: кызыл карлыган
+    tt_cyrl: кызыл карлыган
     tyv: Кызыл-кат
     udm: Горд сутэр
     uk: Порічки
@@ -229,12 +229,12 @@ dv_has_:
     wuu: 红加仑
     yue: 紅加侖子
     zh: 紅加侖
-    zh-cn: 红加仑
-    zh-hans: 红加仑
-    zh-hant: 紅加侖
-    zh-hk: 紅加侖
-    zh-sg: 红加仑
-    zh-tw: 紅加侖
+    zh_cn: 红加仑
+    zh_hans: 红加仑
+    zh_hant: 紅加侖
+    zh_hk: 紅加侖
+    zh_sg: 红加仑
+    zh_tw: 紅加侖
 ---
 # [[Ribes_rubrum]] 
 

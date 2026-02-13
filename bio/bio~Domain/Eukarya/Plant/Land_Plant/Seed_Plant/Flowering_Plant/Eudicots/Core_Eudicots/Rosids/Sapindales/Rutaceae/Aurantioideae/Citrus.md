@@ -118,7 +118,7 @@ dv_has_:
     azb: سیتروس
     ba: Цитрус
     bcl: Sitrus
-    be-tarask: цытрус
+    be_tarask: цытрус
     bg: цитрус
     bn: সাইট্রাস
     br: Citrus
@@ -134,7 +134,7 @@ dv_has_:
     dsb: citrusowe płody
     el: Κίτρος
     en: Citrus
-    en-gb: citrus
+    en_gb: citrus
     eo: citruso
     es: Citrus
     et: tsitrus
@@ -192,7 +192,7 @@ dv_has_:
     pl: cytrus
     pnb: کھٹیاں
     pt: Citrus
-    pt-br: Citrus
+    pt_br: Citrus
     ro: citrice
     ru: цитрус
     rup: Citrus
@@ -204,7 +204,7 @@ dv_has_:
     sl: citrus
     sq: Citrus
     sr: цитрус
-    sr-ec: Цитруси
+    sr_ec: Цитруси
     su: Citrus
     sv: citrussläktet
     syl: ꠟꠦꠝ꠆ꠛꠥ
@@ -228,9 +228,9 @@ dv_has_:
     yi: ציטרוס פרוכט
     yue: 柑桔
     zh: 柑橘属
-    zh-cn: 柑橘屬
-    zh-hans: 柑桔属
-    zh-tw: 柑橘屬
+    zh_cn: 柑橘屬
+    zh_hans: 柑桔属
+    zh_tw: 柑橘屬
 ---
 # [[Citrus]] 
 

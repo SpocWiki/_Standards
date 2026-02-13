@@ -92,7 +92,7 @@ dv_has_:
     oc: Johann Georg Faust
     pl: Johann Georg Faust
     pt: Johann Georg Faust
-    pt-br: Johann Georg Faust
+    pt_br: Johann Georg Faust
     ru: Иоганн Георг Фауст
     sk: Johann Faust
     sl: Johann Georg Faust
@@ -104,9 +104,9 @@ dv_has_:
     vi: Johannes Faust
     yi: יוחנן־געאָרג פֿױסט
     zh: 约翰·格奥尔格·福斯特
-    zh-cn: 约翰·格奥尔格·福斯特
-    zh-hans: 约翰·格奥尔格·福斯特
-    zh-hant: 約翰·格奧爾格·福斯特
+    zh_cn: 约翰·格奥尔格·福斯特
+    zh_hans: 约翰·格奥尔格·福斯特
+    zh_hant: 約翰·格奧爾格·福斯特
 ---
 # [[Faust,Johann_Georg]] 
 

@@ -30,7 +30,7 @@ dv_has_:
     oc: Echimyinae
     pl: Kolczaki
     pt: Echimyinae
-    pt-br: Echimyinae
+    pt_br: Echimyinae
     ro: Echimyinae
     ru: Echimyinae
     sq: Echimyinae
@@ -39,10 +39,10 @@ dv_has_:
     vo: Echimyinae
     war: Echimyinae
     zh: 棘鼠亚科
-    zh-cn: 棘鼠亚科
-    zh-hans: 棘鼠亚科
-    zh-hant: 棘鼠亞科
-    zh-tw: 棘鼠亞科
+    zh_cn: 棘鼠亚科
+    zh_hans: 棘鼠亚科
+    zh_hant: 棘鼠亞科
+    zh_tw: 棘鼠亞科
 aliases:
 - Echimyinae
 - Equimí

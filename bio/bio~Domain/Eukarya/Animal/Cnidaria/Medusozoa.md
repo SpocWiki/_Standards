@@ -37,7 +37,7 @@ dv_has_:
     oc: Medusozoa
     pl: Medusozoa
     pt: Medusozoa
-    pt-br: Água-viva
+    pt_br: Água-viva
     ro: Medusozoa
     ru: Medusozoa
     sl: Medusozoa
@@ -50,9 +50,9 @@ dv_has_:
     vo: Medusozoa
     war: Medusozoa
     zh: 水母亞門
-    zh-cn: 水母亚门
-    zh-hans: 水母亚门
-    zh-tw: 水母亞門
+    zh_cn: 水母亚门
+    zh_hans: 水母亚门
+    zh_tw: 水母亞門
 aliases:
 - Jélii łóóʼ
 - Maneter och Hydrozoer

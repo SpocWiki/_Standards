@@ -139,7 +139,7 @@ dv_has_:
     az: xalça
     azb: خالچا
     be: дыван
-    be-tarask: дыван
+    be_tarask: дыван
     bew: Ketipah
     bg: Мокет
     bjn: Ambal
@@ -176,18 +176,18 @@ dv_has_:
     kab: Taṛakna
     ki: Kĩandarũa
     kk: Кілем
-    kk-arab: كىلەم
+    kk_arab: كىلەم
     kk-cn: كىلەم
-    kk-cyrl: Кілем
+    kk_cyrl: Кілем
     kk-kz: Кілем
-    kk-latn: Kilem
+    kk_latn: Kilem
     kk-tr: Kilem
     kn: ರತ್ನಗಂಬಳಿ
     ko: 융단
     ks: قألیٖن
     ku: xalîçe
-    ku-arab: خالیچە
-    ku-latn: xalîçe
+    ku_arab: خالیچە
+    ku_latn: xalîçe
     ky: Килем
     la: Teges pavimenti
     lb: Teppech
@@ -224,15 +224,15 @@ dv_has_:
     smn: ráánu
     sq: Qilimi
     sr: тепих
-    sr-ec: тепих
-    sr-el: tepih
+    sr_ec: тепих
+    sr_el: tepih
     su: Karpét
     sv: matta
     sw: Zulia
     szl: Tepich
     ta: கம்பளம்
     tg: Гилем
-    tg-latn: Gilem
+    tg_latn: Gilem
     tr: halı
     tt: Келәм
     uk: килим
@@ -243,12 +243,12 @@ dv_has_:
     yi: טעפעך
     yue: 地毡
     zh: 地毯
-    zh-cn: 地毯
-    zh-hans: 地毯
-    zh-hant: 地毯
-    zh-hk: 地氈
-    zh-sg: 地毯
-    zh-tw: 地毯
+    zh_cn: 地毯
+    zh_hans: 地毯
+    zh_hant: 地毯
+    zh_hk: 地氈
+    zh_sg: 地毯
+    zh_tw: 地毯
 ---
 # [[Carpet]] 
 

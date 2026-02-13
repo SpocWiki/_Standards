@@ -140,7 +140,7 @@ dv_has_:
     azb: شواوزگجلیلر
     bar: Actinopterygii
     be: прамянёвапёрыя рыбы
-    be-tarask: прамянёвапёрыя
+    be_tarask: прамянёвапёрыя
     bg: лъчеперки
     bn: রশ্মি-পাখনার মাছ
     br: Actinopterygii
@@ -153,12 +153,12 @@ dv_has_:
     da: Strålefinnede fisk
     de: Strahlenflosser
     de-at: Actinopterygii
-    de-ch: Actinopterygii
+    de_ch: Actinopterygii
     diq: Maseyê roştperrıkıni
     el: Ακτινοπτερύγιοι
     en: Actinopterygii
-    en-ca: Actinopterygii
-    en-gb: Actinopterygii
+    en_ca: Actinopterygii
+    en_gb: Actinopterygii
     eo: Aktinopterigoj
     es: Actinopterygii
     et: Kiiruimsed
@@ -193,8 +193,8 @@ dv_has_:
     ko: 조기어류
     ks: ایٚکٹِنوپٹریگی
     ku: Masiyên perikên strîdar
-    ku-arab: ماسیێن پەرکێن ستریدار
-    ku-latn: Masiyên perikên strîdar
+    ku_arab: ماسیێن پەرکێن ستریدار
+    ku_latn: Masiyên perikên strîdar
     ky: Чачылаканаттар
     la: Actinopterygii
     lb: Actinopterygii
@@ -211,7 +211,7 @@ dv_has_:
     nap: Actinopterygii
     nb: strålefinnefisker
     nds: Actinopterygii
-    nds-nl: Actinopterygii
+    nds_nl: Actinopterygii
     new: एक्टिनोप्टेरिजियी
     nl: straalvinnigen
     nn: strålefinnefiskar
@@ -223,7 +223,7 @@ dv_has_:
     pl: promieniopłetwe
     pms: Actinopterygii
     pt: Actinopterygii
-    pt-br: Actinopterygii
+    pt_br: Actinopterygii
     qu: Wach'i wayt'ana
     rm: Actinopterygii
     ro: Actinopterygii
@@ -236,8 +236,8 @@ dv_has_:
     sl: žarkoplavutarice
     sq: Actinopterygii
     sr: зракоперке
-    sr-ec: Зракоперке
-    sr-el: Zrakoperke
+    sr_ec: Зракоперке
+    sr_el: Zrakoperke
     sv: Strålfeniga fiskar
     sw: Actinopterygii
     ta: அக்டினோட்டெரிகீயை
@@ -246,8 +246,8 @@ dv_has_:
     to: Ika kaponga tala
     tr: Işınsal yüzgeçliler
     tt: нурканатлы балыклар
-    tt-cyrl: нурканатлы балыклар
-    tt-latn: nurqanatlı balıqlar
+    tt_cyrl: нурканатлы балыклар
+    tt_latn: nurqanatlı balıqlar
     uk: променепері
     vec: Actinopterygii
     vi: lớp Cá vây tia
@@ -260,12 +260,12 @@ dv_has_:
     yue: 輻鰭魚
     zea: Straelvinnigen
     zh: 輻鰭魚綱
-    zh-cn: 辐鳍鱼纲
-    zh-hans: 辐鳍鱼纲
-    zh-hant: 輻鰭魚總綱
-    zh-hk: 輻鰭魚總綱
-    zh-sg: 辐鳍鱼总纲
-    zh-tw: 輻鰭魚總綱
+    zh_cn: 辐鳍鱼纲
+    zh_hans: 辐鳍鱼纲
+    zh_hant: 輻鰭魚總綱
+    zh_hk: 輻鰭魚總綱
+    zh_sg: 辐鳍鱼总纲
+    zh_tw: 輻鰭魚總綱
     zu: Actinopterygii
 ---
 # [[Actinopterygii]]

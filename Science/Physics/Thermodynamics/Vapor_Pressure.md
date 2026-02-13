@@ -81,7 +81,7 @@ dv_has_:
     ar: ضغط البخار
     ast: Presión de vapor
     be: Насычаная пара
-    be-tarask: насычаная пара
+    be_tarask: насычаная пара
     bg: парно налягане
     bho: भाप दाब
     bn: বাষ্প চাপ
@@ -92,7 +92,7 @@ dv_has_:
     de: Dampfdruck
     el: Τάση ατμών
     en: vapor pressure
-    en-gb: vapour pressure
+    en_gb: vapour pressure
     eo: vaporpremo
     es: presión de vapor
     et: küllastunud auru rõhk
@@ -131,7 +131,7 @@ dv_has_:
     sl: parni tlak
     smn: lievlâteedâ
     sr: Напон паре
-    sr-ec: Напон паре
+    sr_ec: Напон паре
     sv: ångtryck
     ta: ஆவியமுக்கம்
     te: బాష్ప పీడనం

@@ -74,7 +74,7 @@ dv_has_:
     af: strategiese bestuur
     ar: إدارة إستراتيجية
     az: strateji menecment
-    be-tarask: стратэгічны мэнэджмэнт
+    be_tarask: стратэгічны мэнэджмэнт
     bg: Стратегическо управление
     ca: gestió estratègica
     cs: strategický management
@@ -103,7 +103,7 @@ dv_has_:
     lv: stratēģiskā vadība
     mk: стратешко управување
     ms: pengurusan strategi
-    ms-arab: ڤڠوروسن ستراتيݢي
+    ms_arab: ڤڠوروسن ستراتيݢي
     my: မဟာဗျူဟာ စီမံခန့်ခွဲမှု
     nb: forretningsstrategi
     nl: strategisch management
@@ -111,15 +111,15 @@ dv_has_:
     pl: zarządzanie strategiczne
     ps: ستراتيژيک مديريت
     pt: gestão estratégica de empresas
-    pt-br: gestão estratégica de empresas
+    pt_br: gestão estratégica de empresas
     ro: adminstrare strategică
     ru: стратегическое управление
     si: උපායමාර්ගික කළමනාකරණය
     sk: Strategický manažment
     sl: strateški menedžment
     sr: стратешко управљање
-    sr-ec: стратешко управљање
-    sr-el: strateško upravljanje
+    sr_ec: стратешко управљање
+    sr_el: strateško upravljanje
     sv: strategisk ledning
     ta: வர்த்தக உத்தி
     tl: Pamamahalang may estratehiya
@@ -129,12 +129,12 @@ dv_has_:
     vi: quản trị chiến lược
     yue: 策略管理
     zh: 战略管理
-    zh-cn: 战略管理
-    zh-hans: 战略管理
-    zh-hant: 策略管理
-    zh-hk: 策略管理
-    zh-sg: 战略管理
-    zh-tw: 策略管理
+    zh_cn: 战略管理
+    zh_hans: 战略管理
+    zh_hant: 策略管理
+    zh_hk: 策略管理
+    zh_sg: 战略管理
+    zh_tw: 策略管理
 ---
 # [[Economic_Strategy]] 
 

@@ -28,7 +28,7 @@ dv_has_:
     oc: Chloroflexota
     pl: Chloroflexota
     pt: Chloroflexota
-    pt-br: Chloroflexota
+    pt_br: Chloroflexota
     ro: Chloroflexota
     ru: Chloroflexota
     sk: Chloroflexota
@@ -38,8 +38,8 @@ dv_has_:
     vo: Chloroflexota
     war: Chloroflexota
     zh: 綠彎菌門
-    zh-cn: 綠彎菌門
-    zh-tw: 綠彎菌門
+    zh_cn: 綠彎菌門
+    zh_tw: 綠彎菌門
 aliases:
 - Chloroflexota
 - 綠彎菌門

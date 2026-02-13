@@ -5,7 +5,7 @@ dv_has_:
     ar: دعوى قضائية
     az: İddia
     be: іск
-    be-tarask: пазоў
+    be_tarask: пазоў
     bew: Kelah hukum
     bg: Иск
     bs: Parnica
@@ -17,7 +17,7 @@ dv_has_:
     diq: Dewa (hıquq)
     el: Αγωγή
     en: lawsuit
-    en-gb: lawsuit
+    en_gb: lawsuit
     es: demanda
     et: Hagi
     eu: Demanda (zuzenbidea)
@@ -55,11 +55,11 @@ dv_has_:
     wuu: 民事诉讼
     zgh: ⴰⵎⵚⵉⵕⵉⴹ
     zh: 民事诉讼
-    zh-cn: 民事诉讼
-    zh-hans: 民事诉讼
-    zh-hant: 民事訴訟
-    zh-hk: 民事訴訟
-    zh-tw: 民事訴訟
+    zh_cn: 民事诉讼
+    zh_hans: 民事诉讼
+    zh_hant: 民事訴訟
+    zh_hk: 民事訴訟
+    zh_tw: 民事訴訟
 aliases:
 - aanklacht
 - azione legale

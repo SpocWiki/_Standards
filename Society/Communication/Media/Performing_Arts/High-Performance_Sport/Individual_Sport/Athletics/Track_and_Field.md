@@ -77,7 +77,7 @@ dv_has_:
     af: baan en veld
     ar: سباقات المضمار والميدان
     be: лёткая атлетыка на стадыёне
-    be-tarask: лёгкая атлетыка
+    be_tarask: лёгкая атлетыка
     bn: ট্র্যাক অ্যান্ড ফিল্ড
     ca: atletisme de pista i camp
     ckb: گۆڕەپان و مەیدان

@@ -69,7 +69,7 @@ dv_has_:
   name_:
     ar: آلية تفاعل
     ast: Mecanismu de reacción
-    be-tarask: мэханізм рэакцыі
+    be_tarask: мэханізм рэакцыі
     bn: বিক্রিয়ার ক্রিয়াকৌশল
     ca: mecanisme de reacció
     ckb: ڕێبازی کاردانەوە

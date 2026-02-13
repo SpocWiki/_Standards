@@ -81,7 +81,7 @@ dv_has_:
     ast: Obstetricia y xinecoloxía
     az: mamalıq və ginekologiya
     be: акушэрства і гінекалогія
-    be-tarask: акушэрства і гінэкалёгія
+    be_tarask: акушэрства і гінэкалёгія
     bs: akušerstvo i ginekologija
     ca: obstetrícia i ginecologia
     ckb: نەشتەرگەری ژنان و منداڵبوون
@@ -91,7 +91,7 @@ dv_has_:
     de: Frauenheilkunde und Geburtshilfe
     el: μαιευτική και γυναικολογία
     en: obstetrics and gynaecology
-    en-gb: obstetrics and gynaecology
+    en_gb: obstetrics and gynaecology
     eo: obstetriko-ginekologio
     es: obstetricia y ginecología
     eu: Ginekologia eta obstetrizia
@@ -128,10 +128,10 @@ dv_has_:
     uk: акушерство та гінекологія
     yue: 婦產科
     zh: 婦產科學
-    zh-cn: 妇产科学
-    zh-hans: 妇产科学
-    zh-hant: 婦產科學
-    zh-tw: 婦產科學
+    zh_cn: 妇产科学
+    zh_hans: 妇产科学
+    zh_hant: 婦產科學
+    zh_tw: 婦產科學
 ---
 # [[Obstetrics_and_Gynaecology]] 
 

@@ -156,7 +156,7 @@ dv_has_:
     ba: герб
     bar: Wappn
     be: герб
-    be-tarask: герб
+    be_tarask: герб
     bg: Герб
     bn: কুলপ্রতীক
     br: ardamezioù
@@ -169,13 +169,13 @@ dv_has_:
     cy: arfbais
     da: våben
     de: Wappen
-    de-ch: Wappen
+    de_ch: Wappen
     diq: Arma
     dsb: wopon
     el: οικόσημο
     en: coat of arms
-    en-ca: coat of arms
-    en-gb: coat of arms
+    en_ca: coat of arms
+    en_gb: coat of arms
     eo: blazono
     es: escudo de armas
     et: vapp
@@ -231,7 +231,7 @@ dv_has_:
     pl: herb
     ps: ملي نښه
     pt: brasão
-    pt-br: brasão
+    pt_br: brasão
     qu: Wallqanqa sanancha
     ro: stemă
     ru: герб
@@ -243,8 +243,8 @@ dv_has_:
     sms: vaakuun
     sq: Stema
     sr: грб
-    sr-ec: грб
-    sr-el: grb
+    sr_ec: грб
+    sr_el: grb
     sv: heraldiskt vapen
     szl: wapyn
     th: ตราอาร์ม
@@ -252,7 +252,7 @@ dv_has_:
     tok: sitelen lawa
     tr: arma
     tt: илтамга
-    tt-cyrl: илтамга
+    tt_cyrl: илтамга
     tyv: Сүлде
     uk: герб
     ur: ریاستی نشان
@@ -267,14 +267,14 @@ dv_has_:
     yo: àmì ọ̀pá àṣẹ
     yue: 紋章
     zh: 紋章
-    zh-cn: 纹章
-    zh-hans: 纹章
-    zh-hant: 紋章
-    zh-hk: 紋章
-    zh-mo: 紋章
+    zh_cn: 纹章
+    zh_hans: 纹章
+    zh_hant: 紋章
+    zh_hk: 紋章
+    zh_mo: 紋章
     zh-my: 纹章
-    zh-sg: 纹章
-    zh-tw: 紋章
+    zh_sg: 纹章
+    zh_tw: 紋章
 ---
 # [[Coat_of_Arms]] 
 

@@ -119,7 +119,7 @@ dv_has_:
     ast: software de códigu abiertu
     az: Açıq mənbəli proqram təminatı
     be: адкрытае праграмнае забеспячэнне
-    be-tarask: адкрытае апраграмаваньне
+    be_tarask: адкрытае апраграмаваньне
     bg: Софтуер с отворен код
     bho: ओपेन-सोर्स सॉफ्टवेयर
     bn: উন্মুক্ত-উৎসের সফটওয়্যার
@@ -133,8 +133,8 @@ dv_has_:
     de: Open-Source-Software
     el: λογισμικό ανοικτού κώδικα
     en: open-source software
-    en-ca: open-source software
-    en-gb: open-source software
+    en_ca: open-source software
+    en_gb: open-source software
     eo: malfermkoda programaro
     es: software de código abierto
     et: Avatud lähtekoodiga tarkvara
@@ -168,7 +168,7 @@ dv_has_:
     mn: Нээлттэй ба чөлөөт эхийн програм хангамж
     mr: मुक्त स्रोत
     ms: perisian sumber terbuka
-    ms-arab: ڤرايسين سومبر تربوک
+    ms_arab: ڤرايسين سومبر تربوک
     my: ကန့်သတ်မဲ့ရင်းမြစ် ဆော့ဖ်ဝဲလ်
     nan: Khai-goân nńg-thé
     nb: programvare med åpen kildekode
@@ -190,8 +190,8 @@ dv_has_:
     sl: odprokodna programska oprema
     sq: Softuerët me burim të hapur
     sr: софтвер отвореног кода
-    sr-ec: софтвер отвореног кôда
-    sr-el: softver otvorenog koda
+    sr_ec: софтвер отвореног кôда
+    sr_el: softver otvorenog koda
     sv: öppen programvara
     ta: திறந்த மூல மென்பொருள்
     te: ఓపెన్ సోర్సు సాఫ్ట్వేరు
@@ -205,10 +205,10 @@ dv_has_:
     wuu: 开源软件
     yue: 開源軟件
     zh: 开源软件
-    zh-hans: 开源软件
-    zh-hant: 開源軟件
-    zh-hk: 開源軟體
-    zh-tw: 開放原始碼軟體
+    zh_hans: 开源软件
+    zh_hant: 開源軟件
+    zh_hk: 開源軟體
+    zh_tw: 開放原始碼軟體
 ---
 # [[OSS(Open-Source_SW)]]
 

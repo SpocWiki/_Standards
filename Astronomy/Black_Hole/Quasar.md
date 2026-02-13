@@ -87,7 +87,7 @@ dv_has_:
     az: Kvazar
     bar: Quasar
     be: Квазар
-    be-tarask: квазар
+    be_tarask: квазар
     bg: Квазар
     bjn: Kuasar
     bn: আপাত-নক্ষত্র
@@ -149,7 +149,7 @@ dv_has_:
     pl: kwazar
     pnb: کواسار
     pt: quasar
-    pt-br: quasar
+    pt_br: quasar
     ro: quasar
     ru: квазар
     sc: quasar
@@ -159,8 +159,8 @@ dv_has_:
     sk: Kvazar
     sl: kvazar
     sr: квазар
-    sr-ec: квазар
-    sr-el: kvazar
+    sr_ec: квазар
+    sr_el: kvazar
     sv: kvasar
     sw: Nusuranyota
     ta: துடிப்பண்டம்

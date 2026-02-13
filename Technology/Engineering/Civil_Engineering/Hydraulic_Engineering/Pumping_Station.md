@@ -65,7 +65,7 @@ dv_has_:
     ar: محطة ضخ
     ast: Estación de bombéu
     be: помпавая станцыя
-    be-tarask: помпавая станцыя
+    be_tarask: помпавая станцыя
     bg: Помпена станция
     bn: পাম্পিং স্টেশন
     ca: estació de bombament
@@ -86,11 +86,11 @@ dv_has_:
     it: idrovora
     ja: ポンプ場
     kk: Сорғы станциясы
-    kk-arab: سورعى ستانتسىيياسى
+    kk_arab: سورعى ستانتسىيياسى
     kk-cn: سورعى ستانتسىيياسى
-    kk-cyrl: Сорғы станциясы
+    kk_cyrl: Сорғы станциясы
     kk-kz: Сорғы станциясы
-    kk-latn: Sorğı stancïyası
+    kk_latn: Sorğı stancïyası
     kk-tr: Sorğı stancïyası
     ko: 양수장
     lv: Sūkņu stacija
@@ -102,7 +102,7 @@ dv_has_:
     nl: pompgemaal
     pl: przepompownia
     pt: estação de bombeamento
-    pt-br: estação de bombeamento
+    pt_br: estação de bombeamento
     ro: stație de pompare
     ru: насосная станция
     sl: črpališče

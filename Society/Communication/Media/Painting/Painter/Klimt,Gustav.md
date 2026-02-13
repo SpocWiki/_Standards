@@ -202,7 +202,7 @@ dv_has_:
     az: Qustav Klimt
     bar: Gustav Klimt
     be: Густаў Клімт
-    be-tarask: Густаў Клімт
+    be_tarask: Густаў Клімт
     bg: Густав Климт
     br: Gustav Klimt
     bs: Gustav Klimt
@@ -213,11 +213,11 @@ dv_has_:
     cy: Gustav Klimt
     da: Gustav Klimt
     de: Gustav Klimt
-    de-ch: Gustav Klimt
+    de_ch: Gustav Klimt
     el: Γκούσταφ Κλιμτ
     en: Gustav Klimt
-    en-ca: Gustav Klimt
-    en-gb: Gustav Klimt
+    en_ca: Gustav Klimt
+    en_gb: Gustav Klimt
     eo: Gustav Klimt
     es: Gustav Klimt
     et: Gustav Klimt
@@ -265,7 +265,7 @@ dv_has_:
     pl: Gustav Klimt
     pms: Gustav Klimt
     pt: Gustav Klimt
-    pt-br: Gustav Klimt
+    pt_br: Gustav Klimt
     ro: Gustav Klimt
     ru: Густав Климт
     sc: Gustav Klimt
@@ -275,7 +275,7 @@ dv_has_:
     sl: Gustav Klimt
     sq: Gustav Klimt
     sr: Густав Климт
-    sr-ec: Густав Климт
+    sr_ec: Густав Климт
     stq: Gustav Klimt
     sv: Gustav Klimt
     ta: கஸ்டவ் கிளிம்ட்
@@ -292,7 +292,7 @@ dv_has_:
     xmf: გუსტავ კლიმტი
     yue: 克林姆
     zh: 古斯塔夫·克里姆特
-    zh-cn: 古斯塔夫·克里姆特
+    zh_cn: 古斯塔夫·克里姆特
 ---
 # [[Klimt,Gustav]] 
 

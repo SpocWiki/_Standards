@@ -98,7 +98,7 @@ dv_has_:
     az: modern
     bar: Jugendstil
     be: мадэрн
-    be-tarask: мадэрн
+    be_tarask: мадэрн
     bg: Ар нуво
     br: Arz Nevez
     bs: Art Nouveau
@@ -108,11 +108,11 @@ dv_has_:
     cy: Art Nouveau
     da: jugendstil
     de: Jugendstil
-    de-ch: Jugendstil
+    de_ch: Jugendstil
     el: Αρ Νουβό
     en: Art Nouveau
-    en-ca: Art Nouveau
-    en-gb: Art Nouveau
+    en_ca: Art Nouveau
+    en_gb: Art Nouveau
     eo: Secesio
     es: modernismo
     et: Juugend
@@ -139,7 +139,7 @@ dv_has_:
     kk: Модерн
     ko: 아르누보
     ku: modernîzm
-    ku-latn: modernîzm
+    ku_latn: modernîzm
     ky: Модерн
     la: Genus florale
     lb: Jugendstil
@@ -161,7 +161,7 @@ dv_has_:
     pnb: آرٹ نوو
     ps: نوی هنر
     pt: Arte Nova
-    pt-br: Art nouveau
+    pt_br: Art nouveau
     ro: Art Nouveau
     ru: модерн
     sc: Art Nouveau
@@ -171,8 +171,8 @@ dv_has_:
     sk: Secesia
     sl: art nouveau
     sr: Арт Нуво
-    sr-ec: сецесија
-    sr-el: secesija
+    sr_ec: сецесија
+    sr_el: secesija
     stq: Juugendstil
     sv: jugend
     ta: ஆர்ட் நூவோ
@@ -188,8 +188,8 @@ dv_has_:
     wuu: 新艺术运动
     yue: 新藝術運動
     zh: 新艺术运动
-    zh-hant: 新藝術運動
-    zh-tw: 新藝術運動
+    zh_hant: 新藝術運動
+    zh_tw: 新藝術運動
 ---
 # [[1880-Art_Nouveau+1910]] 
 

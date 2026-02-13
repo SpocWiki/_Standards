@@ -10,7 +10,7 @@ dv_has_:
     azb: ژانر
     ba: жанр
     be: жанр
-    be-tarask: жанр
+    be_tarask: жанр
     bg: жанр
     bn: বর্গ
     br: doare
@@ -23,12 +23,12 @@ dv_has_:
     cy: genre
     da: genre
     de: Genre
-    de-ch: Genre
+    de_ch: Genre
     dsb: žanr
     el: είδος έργου δημιουργίας
     en: genre
-    en-ca: genre
-    en-gb: genre
+    en_ca: genre
+    en_gb: genre
     eo: ĝenro
     es: género
     et: žanr
@@ -58,15 +58,15 @@ dv_has_:
     kaa: janr
     kab: tawsit
     kk: жанр
-    kk-arab: جانر
-    kk-cyrl: жанр
-    kk-latn: janr
+    kk_arab: جانر
+    kk_cyrl: жанр
+    kk_latn: janr
     kn: ಸಾಹಿತ್ಯದ ವಿಧ
     ko: 장르
     ko-kp: 쟌르
     ks: صَنَف
     ku: şêwe
-    ku-latn: şêwe
+    ku_latn: şêwe
     kw: gis
     ky: жанр
     la: genus
@@ -77,7 +77,7 @@ dv_has_:
     ml: വിഭാഗം
     mn: бичлэгийн төрөл зүйл
     ms: genre
-    ms-arab: ݢينري
+    ms_arab: ݢينري
     nb: sjanger
     nl: genre
     nn: sjanger
@@ -87,7 +87,7 @@ dv_has_:
     pl: gatunek
     pnb: صنف
     pt: género
-    pt-br: gênero
+    pt_br: gênero
     ro: gen
     ru: жанр
     sd: صنف
@@ -100,23 +100,23 @@ dv_has_:
     sms: šlaajj
     sq: zhanër
     sr: жанр
-    sr-el: žanr
+    sr_el: žanr
     sv: genre
     sw: utanzu
     szl: gatōnek
     te: కళా ప్రక్రియ
     tg: жанр
-    tg-latn: ƶanr
+    tg_latn: ƶanr
     th: ประเภท
     tl: RTVE
     tly: žanr
     tr: tür
     tt: жанр
-    tt-cyrl: жанр
+    tt_cyrl: жанр
     uk: жанр
     ur: صنف
     uz: janr
-    uz-cyrl: жанр
+    uz_cyrl: жанр
     vec: zènaro
     vi: thể loại
     wuu: 艺术类型
@@ -124,9 +124,9 @@ dv_has_:
     yi: זשאנער
     zgh: ⴰⵏⴰⵡ
     zh: 藝術類型
-    zh-cn: 艺术类型
-    zh-hans: 艺术类型
-    zh-hant: 藝術類型
+    zh_cn: 艺术类型
+    zh_hans: 艺术类型
+    zh_hant: 藝術類型
 aliases:
 - doare
 - gatunek

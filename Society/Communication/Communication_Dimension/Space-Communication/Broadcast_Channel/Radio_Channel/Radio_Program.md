@@ -89,7 +89,7 @@ dv_has_:
     ast: programa de radio
     az: Radio proqram
     be: радыёпраграма
-    be-tarask: радыёпраграма
+    be_tarask: радыёпраграма
     bn: রেডিও প্রোগ্রাম
     ca: programa de ràdio
     cs: rozhlasový pořad
@@ -98,7 +98,7 @@ dv_has_:
     de: Hörfunksendung
     el: ραδιοφωνικό πρόγραμμα
     en: radio program
-    en-gb: radio programme
+    en_gb: radio programme
     eo: radioprogramo
     es: programa radiofónico
     et: raadiosaade
@@ -121,7 +121,7 @@ dv_has_:
     lv: radio programma
     mk: радиоемисија
     ms: rancangan radio
-    ms-arab: رانچڠن راديو
+    ms_arab: رانچڠن راديو
     nb: radioprogram
     nl: radioprogramma
     nn: radioprogram
@@ -129,7 +129,7 @@ dv_has_:
     pap: programa di radio
     pl: audycja radiowa
     pt: programa de rádio
-    pt-br: programa de rádio
+    pt_br: programa de rádio
     ro: emisiune radio
     ru: радиопрограмма
     sco: radio program
@@ -139,8 +139,8 @@ dv_has_:
     smn: radio-ohjelm
     sms: radioprogramm
     sr: радијски програм
-    sr-ec: радијски програм
-    sr-el: radijski program
+    sr_ec: радијски програм
+    sr_el: radijski program
     sv: radioprogram
     ta: வானொலி நிகழ்ச்சி
     tr: radyo programı
@@ -149,13 +149,13 @@ dv_has_:
     vi: Chương trình phát thanh
     yue: 電台節目
     zh: 廣播節目
-    zh-cn: 广播节目
-    zh-hans: 电台节目
-    zh-hant: 廣播節目
-    zh-hk: 電台節目
+    zh_cn: 广播节目
+    zh_hans: 电台节目
+    zh_hant: 廣播節目
+    zh_hk: 電台節目
     zh-my: 电台节目
-    zh-sg: 电台节目
-    zh-tw: 廣播節目
+    zh_sg: 电台节目
+    zh_tw: 廣播節目
     zu: Uhlelo Lomsakazo
 ---
 # [[Radio_Program]] 

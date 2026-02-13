@@ -111,7 +111,7 @@ dv_has_:
     az: Frensis Dreyk
     ba: Фрэнсис Дрейк
     be: Фрэнсіс Дрэйк
-    be-tarask: Фрэнсіс Дрэйк
+    be_tarask: Фрэнсіс Дрэйк
     bg: Франсис Дрейк
     bn: ফ্রান্সিস ড্রেক
     br: Francis Drake
@@ -122,11 +122,11 @@ dv_has_:
     cy: Francis Drake
     da: Francis Drake
     de: Francis Drake
-    de-ch: Francis Drake
+    de_ch: Francis Drake
     el: Φράνσις Ντρέικ
     en: Francis Drake
-    en-ca: Francis Drake
-    en-gb: Francis Drake
+    en_ca: Francis Drake
+    en_gb: Francis Drake
     eo: Francis Drake
     es: Francis Drake
     et: Francis Drake
@@ -183,7 +183,7 @@ dv_has_:
     pam: Francis Drake
     pl: Francis Drake
     pt: Francis Drake
-    pt-br: Francis Drake
+    pt_br: Francis Drake
     qu: Francis Drake
     ro: Francis Drake
     ru: Фрэнсис Дрейк

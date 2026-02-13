@@ -200,7 +200,7 @@ dv_has_:
     azb: بینالخالق ایشچیلر گونو
     ban: Rahina Swakirtti Internasional
     be: Свята працы
-    be-tarask: Сьвята працы
+    be_tarask: Сьвята працы
     bg: Ден на труда и на международната работническа солидарност
     bho: अंतर्राष्ट्रीय मजदूर दिवस
     bn: আন্তর্জাতিক শ্রমিক দিবস
@@ -293,8 +293,8 @@ dv_has_:
     sms: meeraikõskksaž tuâjjlaipeiʹvv
     sq: Dita e punëtorëve
     sr: Празник рада
-    sr-ec: Међународни празник рада
-    sr-el: Međunarodni praznik rada
+    sr_ec: Међународни празник рада
+    sr_el: Međunarodni praznik rada
     sv: Första maj
     szl: Miyndzynŏrodowe Świynto Ludzi Roboty 1 mŏja
     ta: மே நாள்
@@ -316,11 +316,11 @@ dv_has_:
     wuu: 国际劳动节
     yue: 國際勞動節
     zh: 国际劳动节
-    zh-cn: 国际劳动节
-    zh-hans: 瓦普节
-    zh-hant: 國際勞動節
-    zh-hk: 國際勞動節
-    zh-tw: 國際勞動節
+    zh_cn: 国际劳动节
+    zh_hans: 瓦普节
+    zh_hant: 國際勞動節
+    zh_hk: 國際勞動節
+    zh_tw: 國際勞動節
     zu: Usuku Lwabasebenzi
 ---
 # [[International_Workers_Day]] 

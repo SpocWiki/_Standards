@@ -82,7 +82,7 @@ dv_has_:
     az: kosmopolitizm
     ba: Космополитизм
     be: касмапалітызм
-    be-tarask: касмапалітызм
+    be_tarask: касмапалітызм
     bg: Космополитизъм
     bn: অসাম্প্রদায়িকতাবাদ
     bs: kosmopolitizam
@@ -91,11 +91,11 @@ dv_has_:
     cy: cosmopolitaniaeth
     da: kosmopolitisme
     de: Kosmopolitismus
-    de-ch: Kosmopolitismus
+    de_ch: Kosmopolitismus
     el: Κοσμοπολιτισμός
     en: cosmopolitanism
-    en-ca: cosmopolitanism
-    en-gb: cosmopolitanism
+    en_ca: cosmopolitanism
+    en_gb: cosmopolitanism
     eo: kosmopolitismo
     es: cosmopolitismo
     et: kosmopolitism
@@ -115,11 +115,11 @@ dv_has_:
     ja: コスモポリタニズム
     ka: კოსმოპოლიტიზმი
     kk: Космополит
-    kk-arab: كوسموپولىيت
+    kk_arab: كوسموپولىيت
     kk-cn: كوسموپولىيت
-    kk-cyrl: Космополит
+    kk_cyrl: Космополит
     kk-kz: Космополит
-    kk-latn: kosmopolït
+    kk_latn: kosmopolït
     kk-tr: kosmopolït
     ko: 세계주의
     ky: Космополитизм
@@ -129,14 +129,14 @@ dv_has_:
     lv: kosmopolītisms
     mk: космополитизам
     ms: kosmopolitanisme
-    ms-arab: کوسموڤوليتانيسمى
+    ms_arab: کوسموڤوليتانيسمى
     nb: kosmopolitisme
     nl: kosmopolitisme
     nn: kosmopolitisme
     os: космополитизм
     pl: kosmopolityzm
     pt: cosmopolitismo
-    pt-br: cosmopolitismo
+    pt_br: cosmopolitismo
     ro: cosmopolitism
     ru: космополитизм
     se: kosmopolitisma
@@ -149,8 +149,8 @@ dv_has_:
     sms: kosmopolitismm
     sq: kozmopolitanizmi
     sr: космополитизам
-    sr-ec: Космополитизам
-    sr-el: kosmopolitizam
+    sr_ec: Космополитизам
+    sr_el: kosmopolitizam
     sv: kosmopolitism
     th: คตินิยมสากล
     tl: kosmopolitanismo
@@ -160,12 +160,12 @@ dv_has_:
     uz: kosmopolitizm
     vi: chủ nghĩa thế giới
     zh: 世界主义
-    zh-cn: 世界主义
-    zh-hans: 世界主义
-    zh-hant: 世界主義
-    zh-hk: 世界主義
-    zh-sg: 世界主义
-    zh-tw: 世界主義
+    zh_cn: 世界主义
+    zh_hans: 世界主义
+    zh_hant: 世界主義
+    zh_hk: 世界主義
+    zh_sg: 世界主义
+    zh_tw: 世界主義
 ---
 # [[Cosmopolitanism]] 
 

@@ -103,7 +103,7 @@ dv_has_:
     az: elmi ictimaiyyət
     ba: Фәнни йәмғиәт
     be: навуковае таварыства
-    be-tarask: навуковае таварыства
+    be_tarask: навуковае таварыства
     bg: научно дружество
     bn: বিদ্বৎসমাজ
     br: kevredad gouiziek
@@ -112,7 +112,7 @@ dv_has_:
     cy: cymdeithas ddysgedig
     da: forskningsakademi
     de: Gelehrtengesellschaft
-    de-ch: Gelehrtengesellschaft
+    de_ch: Gelehrtengesellschaft
     en: learned society
     eo: erudicia societo
     es: sociedad erudita
@@ -145,7 +145,7 @@ dv_has_:
     pa: ਲਰਨਡ ਸੁਸਾਇਟੀ
     pl: towarzystwo naukowe
     pt: sociedade científica
-    pt-br: sociedade científica
+    pt_br: sociedade científica
     ro: societate savantă
     ru: научное общество
     sco: learned society
@@ -156,28 +156,28 @@ dv_has_:
     smn: tieđâlâš servi
     sms: tiõđlaž seäʹbrr
     sr: учено друштво
-    sr-ec: учено друштво
-    sr-el: učeno društvo
+    sr_ec: учено друштво
+    sr_el: učeno društvo
     sv: akademi
     sw: jamii iliyojifunza
     ta: கற்ற சமூகம்
     th: สมาคมผู้คงแก่เรียน
     tr: akademik birlik
-    tt-cyrl: фәнни җәмгыять
+    tt_cyrl: фәнни җәмгыять
     uk: наукове товариство
     uz: Ilmiy jamiyat
     vec: socetà sientìfega
     vi: học hội
     yue: 學會
     zh: 學會
-    zh-cn: 学会
-    zh-hans: 学会
-    zh-hant: 學會
-    zh-hk: 學會
-    zh-mo: 學會
+    zh_cn: 学会
+    zh_hans: 学会
+    zh_hant: 學會
+    zh_hk: 學會
+    zh_mo: 學會
     zh-my: 学会
-    zh-sg: 学会
-    zh-tw: 學會
+    zh_sg: 学会
+    zh_tw: 學會
 ---
 # [[Learned_Society]] 
 

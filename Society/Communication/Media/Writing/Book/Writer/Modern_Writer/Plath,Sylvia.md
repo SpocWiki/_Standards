@@ -139,7 +139,7 @@ dv_has_:
     diq: Sylvia Plath
     el: Σύλβια Πλαθ
     en: Sylvia Plath
-    en-gb: Sylvia plath
+    en_gb: Sylvia plath
     en-us: Sylvia plath
     eo: Sylvia Plath
     es: Sylvia Plath
@@ -166,8 +166,8 @@ dv_has_:
     ka: სილვია პლათი
     ko: 실비아 플래스
     ku: Sylvia Plath
-    ku-arab: سیلڤا پلاته
-    ku-latn: Sylvia Plath
+    ku_arab: سیلڤا پلاته
+    ku_latn: Sylvia Plath
     ky: Силвия Плат
     la: Sylvia Plath
     lt: Sylvia Plath
@@ -184,7 +184,7 @@ dv_has_:
     pap: Sylvia Plath
     pl: Sylvia Plath
     pt: Sylvia Plath
-    pt-br: Sylvia Plath
+    pt_br: Sylvia Plath
     ro: Sylvia Plath
     ru: Сильвия Плат
     sco: Sylvia Plath
@@ -193,13 +193,13 @@ dv_has_:
     sl: Sylvia Plath
     sq: Sylvia Plath
     sr: Силвија Плат
-    sr-ec: Силвија Плат
+    sr_ec: Силвија Плат
     sv: Sylvia Plath
     sw: Sylvia Plath
     ta: சில்வியா பிளாத்
     te: సిల్వియా ప్లాత్
     tg: Силвия Плат
-    tg-latn: Silvija Plat
+    tg_latn: Silvija Plat
     th: ซิลเวีย แพลธ
     tr: Sylvia Plath
     uk: Сильвія Плат
@@ -212,12 +212,12 @@ dv_has_:
     yo: Sylvia Plath
     yue: 普拉斯
     zh: 希薇亞·普拉斯
-    zh-cn: 西尔维娅·普拉斯
-    zh-hans: 希薇亚·普拉斯
-    zh-hant: 希薇亞·普拉斯
-    zh-hk: 希薇亞·普拉斯
-    zh-sg: 西尔维娅·普拉斯
-    zh-tw: 希薇亞·普拉斯
+    zh_cn: 西尔维娅·普拉斯
+    zh_hans: 希薇亚·普拉斯
+    zh_hant: 希薇亞·普拉斯
+    zh_hk: 希薇亞·普拉斯
+    zh_sg: 西尔维娅·普拉斯
+    zh_tw: 希薇亞·普拉斯
 ---
 # [[Plath,Sylvia]] 
 

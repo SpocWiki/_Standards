@@ -257,7 +257,7 @@ dv_has_:
     ban: Nelson Mandela
     bcl: Nelson Mandela
     be: Нэльсан Мандэла
-    be-tarask: Нэльсан Мандэла
+    be_tarask: Нэльсан Мандэла
     bg: Нелсън Мандела
     bho: नेल्सन मंडेला
     bi: Nelson Mandela
@@ -270,7 +270,7 @@ dv_has_:
     btm: Nelson Mandela
     bxr: Нельсон Мандела
     ca: Nelson Mandela
-    cbk-zam: Nelson Mandela
+    cbk_zam: Nelson Mandela
     ce: Мандела, Нельсон
     ceb: Nelson Mandela
     ch: Nelson Mandela
@@ -294,8 +294,8 @@ dv_has_:
     el: Νέλσον Μαντέλα
     eml: Nelson Mandela
     en: Nelson Mandela
-    en-ca: Nelson Mandela
-    en-gb: Nelson Mandela
+    en_ca: Nelson Mandela
+    en_gb: Nelson Mandela
     en-us: Nelson Mandela
     eo: Nelson Mandela
     es: Nelson Mandela
@@ -319,7 +319,7 @@ dv_has_:
     gn: Nelson Mandela
     gom: Nelson Mandela
     gom-deva: मंडेला, नेल्सन
-    gom-latn: Nelson Mandela
+    gom_latn: Nelson Mandela
     gor: Nelson Mandela
     got: "\U0001033D\U00010334\U0001033B\U00010343\U00010349\U0001033D \U0001033C\U00010330\U0001033D\U00010333\U00010334\U0001033B\U00010330"
     gpe: Nelson Mandela
@@ -447,8 +447,8 @@ dv_has_:
     so: Nelson Mandela
     sq: Nelson Mandela
     sr: Нелсон Мандела
-    sr-ec: Нелсон Мандела
-    sr-el: Nelson Mandela
+    sr_ec: Нелсон Мандела
+    sr_el: Nelson Mandela
     ss: Nelson Mandela
     su: Nelson Mandela
     sv: Nelson Mandela
@@ -489,11 +489,11 @@ dv_has_:
     zea: Nelson Mandela
     zgh: ⵏⵉⵍⵙⵓⵏ ⵎⴰⵏⴷⵉⵍⴰ
     zh: 纳尔逊·曼德拉
-    zh-cn: 纳尔逊·曼德拉
-    zh-hans: 纳尔逊·曼德拉
-    zh-hant: 納爾遜·曼德拉
-    zh-hk: 納爾遜·曼德拉
-    zh-tw: 納爾遜·曼德拉
+    zh_cn: 纳尔逊·曼德拉
+    zh_hans: 纳尔逊·曼德拉
+    zh_hant: 納爾遜·曼德拉
+    zh_hk: 納爾遜·曼德拉
+    zh_tw: 納爾遜·曼德拉
     zu: Nelson Mandela
 ---
 # [[Mandela,Nelson]] 

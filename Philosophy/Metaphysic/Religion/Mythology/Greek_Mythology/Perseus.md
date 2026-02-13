@@ -111,7 +111,7 @@ dv_has_:
     az: Persey
     ba: Персей
     be: Персей
-    be-tarask: Пэрсэюс
+    be_tarask: Пэрсэюс
     bg: Персей
     bn: পের্সেউস
     br: Perseüs
@@ -152,7 +152,7 @@ dv_has_:
     kk: Персей
     ko: 페르세우스
     ku: Perseûs
-    ku-latn: Perseûs
+    ku_latn: Perseûs
     la: Perseus
     lb: Perseus
     lt: Persėjas
@@ -180,8 +180,8 @@ dv_has_:
     sl: Perzej
     sq: Perzeu
     sr: Персеј
-    sr-ec: Персеј
-    sr-el: Persej
+    sr_ec: Персеј
+    sr_el: Persej
     sv: Perseus
     sw: Farisi
     tg: Барсовуш
@@ -195,12 +195,12 @@ dv_has_:
     wuu: 珀耳修斯
     yue: 柏修斯
     zh: 珀耳修斯
-    zh-cn: 珀耳修斯
-    zh-hans: 珀耳修斯
-    zh-hant: 珀耳修斯
-    zh-hk: 珀耳修斯
-    zh-sg: 珀耳修斯
-    zh-tw: 珀耳修斯
+    zh_cn: 珀耳修斯
+    zh_hans: 珀耳修斯
+    zh_hant: 珀耳修斯
+    zh_hk: 珀耳修斯
+    zh_sg: 珀耳修斯
+    zh_tw: 珀耳修斯
 ---
 # [[Perseus]] 
 

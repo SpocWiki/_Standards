@@ -71,7 +71,7 @@ dv_has_:
     az: Cinsi cazibə
     bcl: Pagkadagkang sekswal
     be: сексапільнасць
-    be-tarask: сэксапільнасьць
+    be_tarask: сэксапільнасьць
     bg: Сексуално привличане
     bn: যৌন আকর্ষণ
     ca: atracció sexual
@@ -80,8 +80,8 @@ dv_has_:
     de: Sexappeal
     el: ερωτική έλξη
     en: sexual attraction
-    en-ca: Sexual attraction
-    en-gb: sexual attraction
+    en_ca: Sexual attraction
+    en_gb: sexual attraction
     eo: seksallogo
     es: atracción sexual
     et: Seksapiil
@@ -112,14 +112,14 @@ dv_has_:
     pl: Atrakcyjność seksualna
     pnb: جنسی کشش
     pt: atração sexual
-    pt-br: Atração sexual
+    pt_br: Atração sexual
     ru: сексапильность
     si: ලිංගික ආකර්ෂණය
     sk: sexappeal
     sl: spolna privlačnost
     sq: Tërheqja seksuale
     sr: Seksualna privlačnost
-    sr-ec: сексуална привлачност
+    sr_ec: сексуална привлачност
     sv: sexuell attraktion
     tl: Kabighaniang seksuwal
     tr: Cinsel cazibe
@@ -129,12 +129,12 @@ dv_has_:
     vi: Hấp dẫn tình dục
     yue: 性感
     zh: 性感
-    zh-cn: 性感
-    zh-hans: 性感
-    zh-hant: 性感
-    zh-hk: 性感
-    zh-sg: 性感
-    zh-tw: 性感
+    zh_cn: 性感
+    zh_hans: 性感
+    zh_hant: 性感
+    zh_hk: 性感
+    zh_sg: 性感
+    zh_tw: 性感
 ---
 # [[Sexual_Attraction]] 
 

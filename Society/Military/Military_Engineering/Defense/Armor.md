@@ -66,15 +66,15 @@ dv_has_:
     az: zireh
     azb: زره
     be: браня
-    be-tarask: браня
+    be_tarask: браня
     ca: blindatge
     cs: pancéřování
     da: panser
     de: Panzerung
-    de-ch: Panzerung
+    de_ch: Panzerung
     en: armor
-    en-ca: armour
-    en-gb: armour
+    en_ca: armour
+    en_gb: armour
     eo: kiraso
     es: blindaje
     et: Soomus
@@ -103,7 +103,7 @@ dv_has_:
     oc: Blindatge
     pl: opancerzenie
     pt: blindagem
-    pt-br: Blindagem
+    pt_br: Blindagem
     ro: blindaj
     ru: броня
     sl: oklep
@@ -117,8 +117,8 @@ dv_has_:
     uz: Zirh
     yue: 裝甲
     zh: 装甲
-    zh-hans: 装甲
-    zh-hant: 裝甲
+    zh_hans: 装甲
+    zh_hant: 裝甲
 ---
 # [[Armor]] 
 

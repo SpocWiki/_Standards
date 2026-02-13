@@ -190,8 +190,8 @@ dv_has_:
     de: Nvidia
     el: Nvidia
     en: Nvidia
-    en-ca: Nvidia
-    en-gb: Nvidia
+    en_ca: Nvidia
+    en_gb: Nvidia
     eo: nVidia
     es: Nvidia
     et: Nvidia
@@ -213,11 +213,11 @@ dv_has_:
     ja: NVIDIA
     ka: Nvidia
     kk: Nvidia
-    kk-arab: NVIDIA
+    kk_arab: NVIDIA
     kk-cn: NVIDIA
-    kk-cyrl: Нвыдыа
+    kk_cyrl: Нвыдыа
     kk-kz: Нвыдыа
-    kk-latn: Nvidia
+    kk_latn: Nvidia
     kk-tr: Nvidia
     ko: 엔비디아
     lb: Nvidia
@@ -231,7 +231,7 @@ dv_has_:
     oc: Nvidia
     pl: Nvidia
     pt: Nvidia
-    pt-br: Nvidia
+    pt_br: Nvidia
     qu: Nvidia
     ro: Nvidia
     sah: Nvidia
@@ -241,15 +241,15 @@ dv_has_:
     sl: Nvidia
     sq: Nividia
     sr: Nvidia
-    sr-ec: Nvidia
-    sr-el: Nvidia
+    sr_ec: Nvidia
+    sr_el: Nvidia
     sv: Nvidia
     ta: என்விடியா
     te: యన్విఐడిఐఎ
     th: อินวิเดีย
     tr: Nvidia
     tt: Nvidia
-    tt-cyrl: Nvidia
+    tt_cyrl: Nvidia
     ug: نىۋىدىيا
     ur: نویڈیا
     uz: Nvidia
@@ -258,12 +258,12 @@ dv_has_:
     wuu: 英伟达
     yue: 輝達
     zh: 英伟达
-    zh-cn: 英伟达
-    zh-hans: 英伟达
-    zh-hant: 輝達
-    zh-hk: 輝達
-    zh-sg: 英伟达
-    zh-tw: 輝達
+    zh_cn: 英伟达
+    zh_hans: 英伟达
+    zh_hant: 輝達
+    zh_hk: 輝達
+    zh_sg: 英伟达
+    zh_tw: 輝達
 ---
 # [[Nvidia]]
 

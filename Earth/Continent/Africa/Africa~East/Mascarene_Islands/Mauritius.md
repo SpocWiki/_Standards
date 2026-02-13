@@ -461,7 +461,7 @@ Languages:
 dv_has_:
   name_:
     ab: Маврики
-    aeb-arab: الموريس
+    aeb_arab: الموريس
     af: Mauritius
     am: ሞሪሸስ
     ami: Mauritus
@@ -482,7 +482,7 @@ dv_has_:
     bar: Mauritius
     bcl: Maurisyo
     be: Маўрыкій
-    be-tarask: Маўрыцы
+    be_tarask: Маўрыцы
     bew: Moritius
     bg: Мавриций
     bgn: موریس
@@ -496,7 +496,7 @@ dv_has_:
     bs: Mauricijus
     bxr: Маврикий
     ca: Maurici
-    cbk-zam: Mauricio
+    cbk_zam: Mauricio
     cdo: Mauritius
     ce: Маврики
     ceb: Mauritius
@@ -504,7 +504,7 @@ dv_has_:
     ckb: مۆریس
     co: Mauritius
     crh: Mauritius
-    crh-latn: Mauritius
+    crh_latn: Mauritius
     cs: Mauricius
     cv: Маврики
     cy: Mauritius
@@ -512,7 +512,7 @@ dv_has_:
     dag: Mauritius
     de: Mauritius
     de-at: Mauritius
-    de-ch: Mauritius
+    de_ch: Mauritius
     diq: Maurityus
     dsb: Mauritius
     dty: मोरिसस
@@ -520,8 +520,8 @@ dv_has_:
     ee: Mauritius
     el: Μαυρίκιος
     en: Mauritius
-    en-ca: Mauritius
-    en-gb: Mauritius
+    en_ca: Mauritius
+    en_gb: Mauritius
     en-us: Mauritius
     eo: Maŭricio
     es: Mauricio
@@ -616,7 +616,7 @@ dv_has_:
     nan: Mauritius
     nb: Mauritius
     nds: Mauritius
-    nds-nl: Maurisius
+    nds_nl: Maurisius
     ne: मौरिसस
     nl: Mauritius
     nn: Mauritius
@@ -638,7 +638,7 @@ dv_has_:
     pnb: ماریشس
     ps: ماوريتوس
     pt: Maurícia
-    pt-br: Maurício
+    pt_br: Maurício
     qu: Mawrisyu
     rmy: Mauritius
     ro: Mauritius
@@ -667,7 +667,7 @@ dv_has_:
     so: Mauritius
     sq: Mauritiusi
     sr: Маурицијус
-    sr-ec: Маурицијус
+    sr_ec: Маурицијус
     ss: IMorishiyasi
     st: Mauritius
     stq: Mauritius
@@ -714,13 +714,13 @@ dv_has_:
     zea: Mauritius
     zgh: ⵎⵓⵔⵉⵙ (ⵜⴰⵎⵓⵔⵜ)
     zh: 毛里求斯
-    zh-cn: 毛里求斯
-    zh-hans: 毛里求斯
-    zh-hant: 模里西斯
-    zh-hk: 毛里裘斯
-    zh-mo: 毛里裘斯
-    zh-sg: 毛里求斯
-    zh-tw: 模里西斯
+    zh_cn: 毛里求斯
+    zh_hans: 毛里求斯
+    zh_hant: 模里西斯
+    zh_hk: 毛里裘斯
+    zh_mo: 毛里裘斯
+    zh_sg: 毛里求斯
+    zh_tw: 模里西斯
     zu: IMorishisi
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Mauritius

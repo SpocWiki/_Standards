@@ -94,7 +94,7 @@ dv_has_:
     ast: axente biolóxicu patóxenu
     az: patogen
     be: патаген
-    be-tarask: патаген
+    be_tarask: патаген
     bg: патоген
     bho: रोगकारी
     bn: রোগ সংক্রামক জীবাণু
@@ -108,7 +108,7 @@ dv_has_:
     de: Krankheitserreger
     el: παθογόνος μικροοργανισμός
     en: pathogen
-    en-gb: pathogen
+    en_gb: pathogen
     eo: infekta agento
     es: patógeno
     et: patogeen
@@ -134,7 +134,7 @@ dv_has_:
     kn: ರೋಗಾಣು
     ko: 병원체
     ku: hokara nexweşiyê
-    ku-latn: hokara nexweşiyê
+    ku_latn: hokara nexweşiyê
     kw: pathogen
     lt: patogenas
     lv: patogēns
@@ -145,7 +145,7 @@ dv_has_:
     mk: патоген
     ml: രോഗകാരി
     ms: patogen
-    ms-arab: ڤاتوݢن
+    ms_arab: ڤاتوݢن
     my: ရောဂါပိုးမွှားများ
     nb: patogen
     nia: tungö
@@ -171,8 +171,8 @@ dv_has_:
     sn: chiparadenda
     sq: patogjeni
     sr: патоген
-    sr-ec: патоген
-    sr-el: patogen
+    sr_ec: патоген
+    sr_el: patogen
     su: kuman
     sv: smittämne
     sw: pathojeni
@@ -181,7 +181,7 @@ dv_has_:
     th: จุลชีพก่อโรค
     tr: patojen
     tt: патоген
-    tt-cyrl: патоген
+    tt_cyrl: патоген
     uk: патоген
     ur: ممراض
     vec: micro-organismo patòxeno
@@ -190,12 +190,12 @@ dv_has_:
     yue: 病原體
     za: gaiqfatbingh
     zh: 病原體
-    zh-cn: 病原体
-    zh-hans: 病原体
-    zh-hant: 病原體
-    zh-hk: 病原體
-    zh-sg: 病原体
-    zh-tw: 病原體
+    zh_cn: 病原体
+    zh_hans: 病原体
+    zh_hant: 病原體
+    zh_hk: 病原體
+    zh_sg: 病原体
+    zh_tw: 病原體
     zu: iGciwane
 ---
 # [[Pathogen]] 

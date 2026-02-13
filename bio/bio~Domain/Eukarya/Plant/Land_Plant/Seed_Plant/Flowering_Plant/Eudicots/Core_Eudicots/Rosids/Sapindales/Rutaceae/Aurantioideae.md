@@ -43,7 +43,7 @@ dv_has_:
     oc: Aurantioideae
     pl: Aurantioideae
     pt: Aurantioideae
-    pt-br: Aurantioideae
+    pt_br: Aurantioideae
     ro: Aurantioideae
     ru: померанцевые
     sl: Aurantioideae

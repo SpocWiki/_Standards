@@ -120,7 +120,7 @@ dv_has_:
     az: Penisillin
     azb: پنیسیلین
     be: Пеніцылін
-    be-tarask: пэніцылін
+    be_tarask: пэніцылін
     bg: Пеницилин
     bn: পেনিসিলিন
     br: Penisilin
@@ -134,8 +134,8 @@ dv_has_:
     diq: Penisilin
     el: πενικιλίνη
     en: penicillin
-    en-ca: Penicillin
-    en-gb: penicillin
+    en_ca: Penicillin
+    en_gb: penicillin
     eo: penicilino
     es: penicilina
     et: Penitsilliin
@@ -196,7 +196,7 @@ dv_has_:
     pnb: پنسلین
     ps: پنسلين
     pt: penicilina
-    pt-br: Penicilina
+    pt_br: Penicilina
     rki: ပင်နီဆီလင်
     ro: Penicilină
     ru: бензилпенициллин
@@ -227,11 +227,11 @@ dv_has_:
     yue: 盤尼西林
     za: Cinghmoizsoq
     zh: 青霉素
-    zh-cn: 青霉素
-    zh-hans: 青霉素
-    zh-hant: 青黴素
-    zh-hk: 盤尼西林
-    zh-tw: 青黴素
+    zh_cn: 青霉素
+    zh_hans: 青霉素
+    zh_hant: 青黴素
+    zh_hk: 盤尼西林
+    zh_tw: 青黴素
 ---
 # [[Penicillin]] 
 

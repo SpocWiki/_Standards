@@ -43,7 +43,7 @@ dv_has_:
   name_:
     ar: تتبيل
     arc: ܡܘܕܟܐ
-    be-tarask: прыпраўленьне
+    be_tarask: прыпраўленьне
     bs: začinjavanje
     ca: condiment
     cy: sesnin

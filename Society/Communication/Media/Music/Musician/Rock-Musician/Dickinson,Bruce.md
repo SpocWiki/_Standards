@@ -31,7 +31,7 @@ dv_has_:
     ast: Bruce Dickinson
     azb: بروس دیکینسن
     be: Брус Дзікінсан
-    be-tarask: Брус Дыкінсан
+    be_tarask: Брус Дыкінсан
     bg: Брус Дикинсън
     bn: ব্রুস ডিকিনসন
     br: Bruce Dickinson
@@ -78,7 +78,7 @@ dv_has_:
     pa: ਬਰੂਸ ਡਿਕਿਨਸਨ
     pl: Bruce Dickinson
     pt: Bruce Dickinson
-    pt-br: Bruce Dickinson
+    pt_br: Bruce Dickinson
     ro: Bruce Dickinson
     ru: Брюс Дикинсон
     sco: Bruce Dickinson
@@ -87,8 +87,8 @@ dv_has_:
     sl: Bruce Dickinson
     sq: Bruce Dickinson
     sr: Брус Дикинсон
-    sr-ec: Брус Дикинсон
-    sr-el: Brus Dikinson
+    sr_ec: Брус Дикинсон
+    sr_el: Brus Dikinson
     sv: Bruce Dickinson
     tr: Bruce Dickinson
     tw: Bruce Dickinson

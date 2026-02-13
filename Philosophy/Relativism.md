@@ -53,7 +53,7 @@ dv_has_:
     ar: نسبوية
     ast: Relativismu
     az: relyativizm
-    be-tarask: рэлятывізм
+    be_tarask: рэлятывізм
     bg: Релативизъм
     ca: relativisme
     ckb: ڕێژەییخوازی
@@ -61,11 +61,11 @@ dv_has_:
     cv: Релятивизм
     da: relativisme
     de: Relativismus
-    de-ch: Relativismus
+    de_ch: Relativismus
     el: Σχετικισμός
     en: relativism
-    en-ca: Relativism
-    en-gb: relativism
+    en_ca: Relativism
+    en_gb: relativism
     eo: relativismo
     es: relativismo
     et: relativism
@@ -98,7 +98,7 @@ dv_has_:
     pl: Relatywizm
     pms: Relativism
     pt: relativismo
-    pt-br: Relativismo
+    pt_br: Relativismo
     ro: Relativism
     ru: Релятивизм
     se: relativisma

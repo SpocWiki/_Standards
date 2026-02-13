@@ -39,7 +39,7 @@ has_id_wikidata: Q735766
 dv_has_:
   name_:
     ar: تكبر
-    be-tarask: пагарда
+    be_tarask: пагарда
     bg: Хюбрис
     bn: অহংকার
     br: Hybris

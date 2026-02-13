@@ -73,7 +73,7 @@ dv_has_:
     ar: عناصر مدارية
     ast: Elementos orbitales
     be: элементы арбіты
-    be-tarask: арбітальныя элемэнты
+    be_tarask: арбітальныя элемэнты
     bn: কক্ষপথের রাশি
     ca: elements orbitals
     cs: element dráhy
@@ -112,8 +112,8 @@ dv_has_:
     sk: Elementy dráhy
     sl: elementi tira
     sr: орбитални елемент
-    sr-ec: орбитални елементи
-    sr-el: orbitalni elementi
+    sr_ec: орбитални елементи
+    sr_el: orbitalni elementi
     sv: banelement
     th: องค์ประกอบของวงโคจร
     tr: Yörünge öğeleri
@@ -122,12 +122,12 @@ dv_has_:
     wuu: 轨道根数
     yue: 軌道根數
     zh: 軌道根數
-    zh-cn: 轨道根数
-    zh-hans: 轨道根数
-    zh-hant: 軌道根數
-    zh-hk: 軌道根數
-    zh-sg: 轨道根数
-    zh-tw: 軌道根數
+    zh_cn: 轨道根数
+    zh_hans: 轨道根数
+    zh_hant: 軌道根數
+    zh_hk: 軌道根數
+    zh_sg: 轨道根数
+    zh_tw: 軌道根數
 ---
 # [[Orbital_Elements]] 
 

@@ -84,7 +84,7 @@ dv_has_:
     ar: استضاءة
     az: işıqlanma dərəcəsi
     bar: Beleichtungsstärkn
-    be-tarask: асьветленасьць
+    be_tarask: асьветленасьць
     bg: осветеност
     bn: দীপন
     ca: il·luminància
@@ -92,11 +92,11 @@ dv_has_:
     cv: çуталнăлăх
     de: Beleuchtungsstärke
     de-at: Beleuchtungsstärke
-    de-ch: Beleuchtungsstärke
+    de_ch: Beleuchtungsstärke
     el: ένταση φωτισμού
     en: illuminance
-    en-ca: illuminance
-    en-gb: illuminance
+    en_ca: illuminance
+    en_gb: illuminance
     eo: lumemisikvanto
     es: iluminancia
     et: valgustatus
@@ -114,11 +114,11 @@ dv_has_:
     ja: 照度
     ka: განათებულობა
     kk: жарықтандыру
-    kk-arab: جارىقتاندىرۋ
+    kk_arab: جارىقتاندىرۋ
     kk-cn: جارىقتاندىرۋ
-    kk-cyrl: жарықтандыру
+    kk_cyrl: жарықтандыру
     kk-kz: жарықтандыру
-    kk-latn: jarıqtandırw
+    kk_latn: jarıqtandırw
     kk-tr: jarıqtandırw
     ko: 조도
     lfn: la lumina
@@ -141,19 +141,19 @@ dv_has_:
     th: ความส่องสว่าง (ทัศนศาสตร์)
     tr: aydınlanma şiddeti
     tt: яктыртылганлык
-    tt-cyrl: яктыртылганлык
+    tt_cyrl: яктыртылганлык
     uk: освітленість
     ur: تنویر (طبیعی مقدار)
     uz: yoritilganlik
     vi: độ rọi sáng
     yue: 照度
     zh: 照度
-    zh-cn: 照度
-    zh-hans: 照度
-    zh-hant: 照度
-    zh-hk: 照度
-    zh-sg: 照度
-    zh-tw: 照度
+    zh_cn: 照度
+    zh_hans: 照度
+    zh_hant: 照度
+    zh_hk: 照度
+    zh_sg: 照度
+    zh_tw: 照度
 ---
 # [[Dim~illuminance]]  
 

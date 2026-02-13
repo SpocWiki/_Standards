@@ -28,8 +28,8 @@ dv_has_:
     ab: Франциа
     ace: Peurancih
     ady: Францие
-    aeb-arab: فرانسا
-    aeb-latn: frànsa
+    aeb_arab: فرانسا
+    aeb_latn: frànsa
     af: Frankryk
     aln: Frankreich
     am: ፈረንሣይ
@@ -58,7 +58,7 @@ dv_has_:
     bbc: Paransis
     bcl: Pransya
     be: Францыя
-    be-tarask: Францыя
+    be_tarask: Францыя
     bew: Prasman
     bg: Франция
     bgn: په رانسه
@@ -77,7 +77,7 @@ dv_has_:
     bug: ᨄᨛᨑᨏᨗᨔᨗ
     bxr: Франци
     ca: França
-    cbk-zam: Francia
+    cbk_zam: Francia
     cdo: Huák-guók
     ce: Франци
     ceb: Fransiya
@@ -87,7 +87,7 @@ dv_has_:
     ckb: فەڕەنسا
     co: Francia
     crh: Frenkistan
-    crh-latn: Frenkistan
+    crh_latn: Frenkistan
     crh-ro: Frengístan
     cs: Francie
     csb: Francëjô
@@ -98,7 +98,7 @@ dv_has_:
     dag: France
     de: Frankreich
     de-at: Frankreich
-    de-ch: Frankreich
+    de_ch: Frankreich
     diq: Fransa
     dsb: Francojska
     dtp: Perancis
@@ -109,8 +109,8 @@ dv_has_:
     el: Γαλλία
     eml: Franza
     en: France
-    en-ca: France
-    en-gb: France
+    en_ca: France
+    en_gb: France
     en-us: France
     eo: Francio
     es: Francia
@@ -140,7 +140,7 @@ dv_has_:
     gn: Hyãsia
     gom: फ्रांस
     gom-deva: फ्रांस
-    gom-latn: France
+    gom_latn: France
     gor: Prancis
     got: "\U00010346\U00010342\U00010330\U00010332\U0001033A\U00010330\U00010342\U00010334\U00010339\U0001033A\U00010339"
     gpe: France
@@ -197,7 +197,7 @@ dv_has_:
     ks: فرٛانٛس
     ksh: Frankreich
     ku: Fransa
-    ku-latn: Fransa
+    ku_latn: Fransa
     kv: Франция
     kw: Pow Frynk
     ky: Франция
@@ -222,7 +222,7 @@ dv_has_:
     mad: Perancis
     mag: फ्रान्स
     mai: फ़्रांस
-    map-bms: Perancis
+    map_bms: Perancis
     mdf: Кранцмастор
     mg: Frantsa
     mhr: Франций
@@ -236,7 +236,7 @@ dv_has_:
     mos: France
     mr: फ्रान्स
     ms: Perancis
-    ms-arab: ڤرنچيس
+    ms_arab: ڤرنچيس
     mt: Franza
     mwl: Fráncia
     my: ပြင်သစ်နိုင်ငံ
@@ -248,7 +248,7 @@ dv_has_:
     nap: Franza
     nb: Frankrike
     nds: Frankriek
-    nds-nl: Frankriek
+    nds_nl: Frankriek
     ne: फ्रान्स
     new: फ्रान्स
     nl: Frankrijk
@@ -281,7 +281,7 @@ dv_has_:
     prg: Prankrīki
     ps: فرانسه
     pt: França
-    pt-br: França
+    pt_br: França
     qu: Ransiya
     rm: Frantscha
     rmy: Franchiya
@@ -306,7 +306,7 @@ dv_has_:
     sh: Francuska
     shi: Fṛansa
     shn: မိူင်းၾရၢင်ႇသဵတ်ႈ
-    shy-latn: Fransa
+    shy_latn: Fransa
     si: ප්රංශය
     sje: Frankrijjka
     sk: Francúzsko
@@ -320,8 +320,8 @@ dv_has_:
     so: Faransiiska
     sq: Francë
     sr: Француска
-    sr-ec: Француска
-    sr-el: Francuska
+    sr_ec: Француска
+    sr_el: Francuska
     srn: Franskondre
     ss: IFulansi
     st: Fora
@@ -337,8 +337,8 @@ dv_has_:
     te: ఫ్రాన్స్
     tet: Fransa
     tg: Фаронса
-    tg-cyrl: Фаронса
-    tg-latn: Faronsa
+    tg_cyrl: Фаронса
+    tg_latn: Faronsa
     th: ประเทศฝรั่งเศส
     ti: ፈረንሳ
     tk: Fransiýa
@@ -352,15 +352,15 @@ dv_has_:
     trv: France
     ts: Furhwa
     tt: Франция
-    tt-cyrl: Франция
+    tt_cyrl: Франция
     tum: France
     tw: France
     ty: Farāni
     tyv: Франция
     udm: Франция
     ug: فرانسىيە
-    ug-arab: فرانسىيە
-    ug-latn: Fransiye
+    ug_arab: فرانسىيە
+    ug_latn: Fransiye
     uk: Франція
     ur: فرانس
     uz: Fransiya
@@ -386,14 +386,14 @@ dv_has_:
     zea: Frankriek
     zgh: ⴼⵕⴰⵏⵚⴰ
     zh: 法國
-    zh-cn: 法国
-    zh-hans: 法国
-    zh-hant: 法國
-    zh-hk: 法國
-    zh-mo: 法國
+    zh_cn: 法国
+    zh_hans: 法国
+    zh_hant: 法國
+    zh_hk: 法國
+    zh_mo: 法國
     zh-my: 法国
-    zh-sg: 法国
-    zh-tw: 法國
+    zh_sg: 法国
+    zh_tw: 法國
     zu: IFulansi
   sound_of_:
     anthem: '[[../../../../../_public/xLarge.public/National-Anthem/Anthem-France.mp3|Anthem-France.mp3]]'

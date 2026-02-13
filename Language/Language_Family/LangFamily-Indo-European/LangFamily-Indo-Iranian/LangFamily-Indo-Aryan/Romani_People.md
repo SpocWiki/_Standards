@@ -195,7 +195,7 @@ dv_has_:
     ba: Сиғандар
     bar: Roma
     be: цыганы
-    be-tarask: цыганы
+    be_tarask: цыганы
     bg: Цигани
     bn: রোমানি জাতি
     br: Romed
@@ -316,7 +316,7 @@ dv_has_:
     yue: 吉卜賽人
     zgh: ⵉⵖⴰⵊⴰⵔⵉⵢⵏ
     zh: 罗姆人
-    zh-hant: 羅姆人
+    zh_hant: 羅姆人
 ---
 # [[Romani_People]] 
 

@@ -196,7 +196,7 @@ dv_has_:
     ba: Джон фон Нейман
     ban: John von Neumann
     be: Джон фон Нейман
-    be-tarask: Джон фон Нойман
+    be_tarask: Джон фон Нойман
     bg: Джон фон Нойман
     bn: জন ভন নিউম্যান
     br: John von Neumann
@@ -208,11 +208,11 @@ dv_has_:
     da: John von Neumann
     dag: John von Neumann
     de: John von Neumann
-    de-ch: John von Neumann
+    de_ch: John von Neumann
     el: Τζον φον Νόιμαν
     en: John von Neumann
-    en-ca: John von Neumann
-    en-gb: John von Neumann
+    en_ca: John von Neumann
+    en_gb: John von Neumann
     eo: John von Neumann
     es: John von Neumann
     et: John von Neumann
@@ -265,7 +265,7 @@ dv_has_:
     pms: John von Neumann
     ps: جان ون نايمن
     pt: John von Neumann
-    pt-br: John von Neumann
+    pt_br: John von Neumann
     ro: John von Neumann
     ru: Джон фон Нейман
     sah: Джон фон Нейман
@@ -295,10 +295,10 @@ dv_has_:
     yo: John von Neumann
     yue: 馮紐曼
     zh: 约翰·冯·诺伊曼
-    zh-cn: 约翰·冯·诺伊曼
-    zh-hans: 约翰·冯·诺伊曼
-    zh-hant: 約翰·馮·諾伊曼
-    zh-tw: 約翰·馮紐曼
+    zh_cn: 约翰·冯·诺伊曼
+    zh_hans: 约翰·冯·诺伊曼
+    zh_hant: 約翰·馮·諾伊曼
+    zh_tw: 約翰·馮紐曼
 ---
 # [[Neumann,John_von]] 
 

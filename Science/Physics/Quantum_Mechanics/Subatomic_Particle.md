@@ -112,7 +112,7 @@ dv_has_:
     az: Maddə və sahə zərrəcikləri
     azb: اتوم پارچاجیقلاری
     be: Субатамная часціца
-    be-tarask: субатамная часьцінка
+    be_tarask: субатамная часьцінка
     bg: Субатомни частици
     bho: सबएटॉमिक पार्टिकल
     blk: Subatomic particle
@@ -163,7 +163,7 @@ dv_has_:
     ml: ഉപാണുകണങ്ങൾ
     mn: Атомаас жижиг бөөм
     ms: zarah subatom
-    ms-arab: ذره سوباتوم
+    ms_arab: ذره سوباتوم
     my: အခြေခံအမှုန်များ
     nb: subatomær partikkel
     ne: पारपाणविक कण
@@ -175,7 +175,7 @@ dv_has_:
     pa: ਉੱਪ-ਪਰਮਾਣੂ ਕਣ
     pl: cząstka subatomowa
     pt: partícula subatómica
-    pt-br: partícula subatômica
+    pt_br: partícula subatômica
     ro: Particulă
     ru: субатомная частица
     scn: particedda suttatòmica
@@ -184,8 +184,8 @@ dv_has_:
     sk: subatomárna častica
     sl: podatomski delec
     sr: субатомска честица
-    sr-ec: субатомска честица
-    sr-el: subatomska čestica
+    sr_ec: субатомска честица
+    sr_el: subatomska čestica
     su: Partikel subatomik
     sv: Subatomär partikel
     sw: Chembe za nyuklia
@@ -202,12 +202,12 @@ dv_has_:
     xh: I-subatomic particle
     yue: 亞原子粒子
     zh: 次原子粒子
-    zh-cn: 次原子粒子
-    zh-hans: 次原子粒子
-    zh-hant: 次原子粒子
-    zh-hk: 次原子粒子
-    zh-sg: 次原子粒子
-    zh-tw: 次原子粒子
+    zh_cn: 次原子粒子
+    zh_hans: 次原子粒子
+    zh_hant: 次原子粒子
+    zh_hk: 次原子粒子
+    zh_sg: 次原子粒子
+    zh_tw: 次原子粒子
     zu: INhlayiyana yeChwe
 ---
 # [[Subatomic_Particle]] 

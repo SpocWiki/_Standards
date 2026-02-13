@@ -174,7 +174,7 @@ dv_has_:
     az: Dang qızdırması
     azb: دنگی تب
     bcl: Dengue
-    be-tarask: ліхаманка дэнге
+    be_tarask: ліхаманка дэнге
     bg: Денга
     bho: डेंगू
     bjn: demam bedarah
@@ -184,14 +184,14 @@ dv_has_:
     cy: Gwibgymalwst
     da: Denguefeber
     de: Denguefieber
-    de-ch: Denguefieber
+    de_ch: Denguefieber
     din: Juän Awuɔp
     dtp: Demam denggi
     dv: ޑެންގީ ހުން
     el: δάγκειος πυρετός
     en: dengue fever
-    en-ca: Dengue fever
-    en-gb: dengue fever
+    en_ca: Dengue fever
+    en_gb: dengue fever
     eo: dengo
     es: dengue
     et: dengepalavik
@@ -228,7 +228,7 @@ dv_has_:
     lb: Dengueféiwer
     lt: Dengės karštligė
     lv: tropu drudzis
-    map-bms: Demam berdarah
+    map_bms: Demam berdarah
     mk: Денга
     ml: ഡെങ്കിപ്പനി
     mr: डेंग्यू ताप
@@ -246,7 +246,7 @@ dv_has_:
     pl: Denga
     pnb: ڈنگی تاپ
     pt: dengue
-    pt-br: Dengue
+    pt_br: Dengue
     ro: dengue
     ru: лихорадка денге
     scn: Tirzana
@@ -275,10 +275,10 @@ dv_has_:
     yue: 登革熱
     za: binghdwnghgwzyez
     zh: 骨痛熱症
-    zh-cn: 登革热
-    zh-hans: 登革热
-    zh-hant: 登革熱
-    zh-tw: 登革熱
+    zh_cn: 登革热
+    zh_hans: 登革热
+    zh_hant: 登革熱
+    zh_tw: 登革熱
 ---
 # [[Dengue_Fever]] 
 

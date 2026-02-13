@@ -257,7 +257,7 @@ dv_has_:
     bar: Ozean
     bcl: kadagatan
     be: акіян
-    be-tarask: акіян
+    be_tarask: акіян
     bew: Laotan
     bg: океан
     bho: महासागर
@@ -278,20 +278,20 @@ dv_has_:
     chr: ᎠᎺᏉᎯ
     ckb: ئۆقیانووس
     crh: okean
-    crh-latn: okean
+    crh_latn: okean
     cs: oceán
     cv: океан
     cy: cefnfor
     da: verdenshav
     de: Ozean
-    de-ch: Ozean
+    de_ch: Ozean
     diq: okyanus
     dsb: ocean
     dty: महासागर
     el: ωκεανός
     en: ocean
-    en-ca: ocean
-    en-gb: ocean
+    en_ca: ocean
+    en_gb: ocean
     en-us: ocean
     eo: oceano
     es: océano
@@ -369,7 +369,7 @@ dv_has_:
     lzh: 洋
     mag: महासागर
     mai: महासागर
-    map-bms: Samudra
+    map_bms: Samudra
     mdf: Оцюведь
     mg: Ranomasina
     mhr: тептеҥыз
@@ -389,7 +389,7 @@ dv_has_:
     nap: oceano
     nb: verdenshav
     nds: Ozean
-    nds-nl: oceaan
+    nds_nl: oceaan
     ne: महासागर
     new: महासागर
     nl: oceaan
@@ -412,7 +412,7 @@ dv_has_:
     pnb: ساگر
     ps: سمندر
     pt: oceano
-    pt-br: oceano
+    pt_br: oceano
     qu: Mama qucha
     rm: Ocean
     rmy: Okeyanu
@@ -439,7 +439,7 @@ dv_has_:
     so: Badweyn
     sq: Oqeani
     sr: океан
-    sr-ec: океан
+    sr_ec: океан
     stq: Ozean
     su: Jaladri
     sv: världshav
@@ -456,8 +456,8 @@ dv_has_:
     tr: okyanus
     ts: Lwandle
     tt: океан
-    tt-cyrl: океан
-    tt-latn: okean
+    tt_cyrl: океан
+    tt_latn: okean
     tum: Mbwani
     udm: океан
     ug: ئوكيانىيە
@@ -482,10 +482,10 @@ dv_has_:
     za: Haijyangz
     zgh: ⴰⴳⴰⵔⴰⵡ
     zh: 海洋
-    zh-cn: 海洋
-    zh-hans: 海洋
-    zh-hant: 海洋
-    zh-tw: 海洋
+    zh_cn: 海洋
+    zh_hans: 海洋
+    zh_hant: 海洋
+    zh_tw: 海洋
     zu: Ulwandlekazi
   parent_class: '[[../BodyOfWater]]'
   properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'

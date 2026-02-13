@@ -104,7 +104,7 @@ dv_has_:
     azb: فینیاس تیلور بارنوم
     bar: Phineas Taylor Barnum
     bcl: P. T. Barnum
-    be-tarask: Фінэас Тэйлар Барнэм
+    be_tarask: Фінэас Тэйлар Барнэм
     bg: Финиъс Барнъм
     bi: P. T. Barnum
     br: Phineas Taylor Barnum
@@ -116,11 +116,11 @@ dv_has_:
     cy: P. T. Barnum
     da: P. T. Barnum
     de: P. T. Barnum
-    de-ch: P. T. Barnum
+    de_ch: P. T. Barnum
     el: Φ. Τ. Μπάρνουμ
     en: P. T. Barnum
-    en-ca: P. T. Barnum
-    en-gb: P. T. Barnum
+    en_ca: P. T. Barnum
+    en_gb: P. T. Barnum
     eo: P. T. Barnum
     es: P. T. Barnum
     et: P. T. Barnum
@@ -165,7 +165,7 @@ dv_has_:
     pms: P. T. Barnum
     ps: فینیاس ټایلور بارنوم
     pt: P. T. Barnum
-    pt-br: P. T. Barnum
+    pt_br: P. T. Barnum
     ro: Phineas Taylor Barnum
     ru: Финеас Тейлор Барнум
     scn: Phineas Taylor Barnum
@@ -188,12 +188,12 @@ dv_has_:
     yo: P. T. Barnum
     yue: 巴納姆
     zh: 菲尼亚斯·泰勒·巴纳姆
-    zh-cn: 菲尼亚斯·泰勒·巴纳姆
-    zh-hans: 菲尼亚斯·泰勒·巴纳姆
-    zh-hant: 菲尼亞斯·泰勒·巴納姆
-    zh-hk: P·T·巴林
-    zh-sg: 菲尼亚斯·泰勒·巴纳姆
-    zh-tw: 菲尼亞斯·泰勒·巴納姆
+    zh_cn: 菲尼亚斯·泰勒·巴纳姆
+    zh_hans: 菲尼亚斯·泰勒·巴纳姆
+    zh_hant: 菲尼亞斯·泰勒·巴納姆
+    zh_hk: P·T·巴林
+    zh_sg: 菲尼亚斯·泰勒·巴纳姆
+    zh_tw: 菲尼亞斯·泰勒·巴納姆
 ---
 # [[Barnum,P.T.]] 
 

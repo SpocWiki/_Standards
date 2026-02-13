@@ -87,7 +87,7 @@ dv_has_:
     arz: اتيكيت
     az: Etiket
     be: этыкет
-    be-tarask: этыкет
+    be_tarask: этыкет
     bg: Етикет
     bs: Bonton
     ca: Etiqueta
@@ -117,11 +117,11 @@ dv_has_:
     it: galateo
     ja: エチケット
     kk: Этикет
-    kk-arab: ەتىيكەت
+    kk_arab: ەتىيكەت
     kk-cn: ەتىيكەت
-    kk-cyrl: Этикет
+    kk_cyrl: Этикет
     kk-kz: Этикет
-    kk-latn: Étïket
+    kk_latn: Étïket
     kk-tr: Étïket
     kn: ಶಿಷ್ಟವರ್ತನೆ
     ko: 예의
@@ -154,7 +154,7 @@ dv_has_:
     sr: етикеција
     sv: etikettregler
     tg: Этикет
-    tg-latn: Etiket
+    tg_latn: Etiket
     th: มารยาท
     tl: Etiketa
     tly: Etiket
@@ -167,9 +167,9 @@ dv_has_:
     yo: Ìwà ọmọlúàì
     yue: 禮貌
     zh: 禮儀
-    zh-cn: 礼仪
-    zh-hk: 禮儀
-    zh-tw: 禮儀
+    zh_cn: 礼仪
+    zh_hk: 禮儀
+    zh_tw: 禮儀
 ---
 # [[Etiquette]] 
 

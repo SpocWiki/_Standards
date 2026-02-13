@@ -94,7 +94,7 @@ dv_has_:
     bar: Zen
     bcl: Dzen
     be: Дзэн
-    be-tarask: Дзэн
+    be_tarask: Дзэн
     bg: Дзен
     bn: জেন
     bo: ཟེན།
@@ -113,8 +113,8 @@ dv_has_:
     de: Zen
     el: Ζεν
     en: Zen
-    en-ca: Zen
-    en-gb: Zen
+    en_ca: Zen
+    en_gb: Zen
     eo: Zeno
     es: budismo zen
     et: Zen-budism
@@ -178,7 +178,7 @@ dv_has_:
     pms: Zen
     pnb: زین
     pt: Zen
-    pt-br: zen
+    pt_br: zen
     ro: Zen
     ru: дзэн
     rue: Зен
@@ -208,14 +208,14 @@ dv_has_:
     yi: זען בודהיזם
     yue: 禪宗
     zh: 禅宗
-    zh-cn: 禅宗
-    zh-hans: 禅宗
-    zh-hant: 禪宗
-    zh-hk: 禪宗
-    zh-mo: 禅宗
+    zh_cn: 禅宗
+    zh_hans: 禅宗
+    zh_hant: 禪宗
+    zh_hk: 禪宗
+    zh_mo: 禅宗
     zh-my: 禅宗
-    zh-sg: 禅宗
-    zh-tw: 禪宗
+    zh_sg: 禅宗
+    zh_tw: 禪宗
 ---
 # [[Zen]] 
 

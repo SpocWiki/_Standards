@@ -24,9 +24,9 @@ dv_has_:
     nl: Committee on Public Information
     ru: Комитет общественной информации
     zh: 美国公共情报委员会
-    zh-cn: “美国公共情报委员会”
-    zh-hans: 美国公共情报委员会
-    zh-hant: 「美國公共情報委員會」
+    zh_cn: “美国公共情报委员会”
+    zh_hans: 美国公共情报委员会
+    zh_hant: 「美國公共情報委員會」
   president: '[[Creel,George]]'
 dv_is_:
   same_as:

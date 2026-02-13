@@ -158,7 +158,7 @@ dv_has_:
     ba: үлтереү
     bcl: paggadan
     be: забойства
-    be-tarask: забойства
+    be_tarask: забойства
     bg: убийство
     bho: हत्या
     bn: খুন
@@ -172,13 +172,13 @@ dv_has_:
     cy: llofruddiaeth
     da: mord
     de: Mord
-    de-ch: Mord
+    de_ch: Mord
     diq: cinayet
     dsb: mordarstwo
     el: δολοφονία
     en: murder
-    en-ca: murder
-    en-gb: murder
+    en_ca: murder
+    en_gb: murder
     eo: murdo
     es: homicidio doloso
     et: mõrv
@@ -208,7 +208,7 @@ dv_has_:
     ko: 모살
     ks: قَتٕل
     ku: kuştin
-    ku-latn: kuştin
+    ku_latn: kuştin
     la: Caedes
     lb: Muerd
     lt: nužudymas
@@ -232,7 +232,7 @@ dv_has_:
     pnb: قتل
     ps: قتل (وژنه )
     pt: assassínio
-    pt-br: assassinato
+    pt_br: assassinato
     qu: runa sipiy
     ro: crimă
     ru: убийство
@@ -247,8 +247,8 @@ dv_has_:
     so: Layn
     sq: vrasja
     sr: убиство
-    sr-ec: убиство
-    sr-el: ubistvo
+    sr_ec: убиство
+    sr_el: ubistvo
     sv: mord
     sw: kuua kwa kukusudia
     ta: கொலை
@@ -258,8 +258,8 @@ dv_has_:
     tl: pagpaslang
     tr: cinayet
     tt: үтерү
-    tt-cyrl: үтерү
-    tt-latn: üterü
+    tt_cyrl: үтерү
+    tt_latn: üterü
     tw: awudie
     uk: умисне вбивство
     ur: قتل
@@ -270,12 +270,12 @@ dv_has_:
     yi: מארד
     yue: 謀殺罪
     zh: 謀殺
-    zh-cn: 谋杀
-    zh-hans: 谋杀
-    zh-hant: 謀殺
-    zh-hk: 謀殺
-    zh-sg: 谋杀
-    zh-tw: 謀殺
+    zh_cn: 谋杀
+    zh_hans: 谋杀
+    zh_hant: 謀殺
+    zh_hk: 謀殺
+    zh_sg: 谋杀
+    zh_tw: 謀殺
 ---
 # [[Murder]] 
 

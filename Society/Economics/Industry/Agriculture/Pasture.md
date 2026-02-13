@@ -122,7 +122,7 @@ dv_has_:
     az: otlaq
     bar: Woad
     be: паша
-    be-tarask: паша
+    be_tarask: паша
     bg: пасище
     bn: চারণভূমি
     bs: pašnjak
@@ -133,11 +133,11 @@ dv_has_:
     cy: porfa
     da: overdrev
     de: Weide
-    de-ch: Weide
+    de_ch: Weide
     el: βοσκότοπος
     en: pasture
-    en-ca: Pasture
-    en-gb: pasture
+    en_ca: Pasture
+    en_gb: pasture
     eo: paŝtejo
     es: pastizal
     et: karjamaa
@@ -187,7 +187,7 @@ dv_has_:
     pnb: چراگاہ
     ps: څړځای یا مالچر
     pt: pasto
-    pt-br: Pasto
+    pt_br: Pasto
     qu: Michiy
     ro: Pășune
     ru: пастбище

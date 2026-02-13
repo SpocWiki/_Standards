@@ -51,7 +51,7 @@ dv_has_:
     azb: جان سینا
     bar: John Cena
     be: Джон Сіна
-    be-tarask: Джон Сына
+    be_tarask: Джон Сына
     bg: Джон Сина
     bjn: John Cena
     bn: জন সিনা
@@ -63,8 +63,8 @@ dv_has_:
     de: John Cena
     el: Τζον Σίνα
     en: John Cena
-    en-ca: John Cena
-    en-gb: John Cena
+    en_ca: John Cena
+    en_gb: John Cena
     eo: John Cena
     es: John Cena
     et: John Cena
@@ -104,7 +104,7 @@ dv_has_:
     lua: John Cena
     lv: Džons Sina
     mai: जोन सिना
-    map-bms: John Cena
+    map_bms: John Cena
     min: John Cena
     mk: Џон Сина
     ml: ജോൺ സീന
@@ -122,7 +122,7 @@ dv_has_:
     pam: John Cena
     pap: John Cena
     pt: John Cena
-    pt-br: John Cena
+    pt_br: John Cena
     ro: John Cena
     ru: Джон Сина
     scn: John Cena
@@ -152,11 +152,11 @@ dv_has_:
     yo: John Cena
     yue: 莊先拿
     zh: 約翰·希南
-    zh-cn: 约翰·塞纳
-    zh-hans: 约翰·塞纳
-    zh-hant: 約翰・希南
-    zh-hk: 莊先拿
-    zh-tw: 約翰・希南
+    zh_cn: 约翰·塞纳
+    zh_hans: 约翰·塞纳
+    zh_hant: 約翰・希南
+    zh_hk: 莊先拿
+    zh_tw: 約翰・希南
 ---
 ## #has_/text_of_/abstract 
 

@@ -263,7 +263,7 @@ dv_has_:
     bar: Chemie
     bcl: kimika
     be: хімія
-    be-tarask: хімія
+    be_tarask: хімія
     bg: химия
     bho: रसायन शास्त्र
     bi: kemistri
@@ -276,7 +276,7 @@ dv_has_:
     btm: Kimia
     bxr: хими
     ca: química
-    cbk-zam: Quimica
+    cbk_zam: Quimica
     cdo: huá-hŏk
     ce: хими
     ceb: kimika
@@ -290,7 +290,7 @@ dv_has_:
     cy: cemeg
     da: kemi
     de: Chemie
-    de-ch: Chemie
+    de_ch: Chemie
     din: piöcëkätiɔɔp
     diq: kimya
     dsb: chemija
@@ -299,8 +299,8 @@ dv_has_:
     el: χημεία
     eml: chémmica
     en: chemistry
-    en-ca: chemistry
-    en-gb: chemistry
+    en_ca: chemistry
+    en_gb: chemistry
     eo: ĥemio
     es: química
     et: keemia
@@ -387,7 +387,7 @@ dv_has_:
     mad: Kimia
     mag: रसायनशास्त्र
     mai: रसायनशास्त्र
-    map-bms: kimia
+    map_bms: kimia
     mdf: кимиесь
     mg: simia
     mhr: химий
@@ -399,7 +399,7 @@ dv_has_:
     mni: ꯄꯣꯠꯇꯤꯟꯂꯣꯟ
     mr: रसायनशास्त्र
     ms: kimia
-    ms-arab: کيميا
+    ms_arab: کيميا
     mt: kimika
     mwl: química
     my: ဓာတုဗေဒ
@@ -408,7 +408,7 @@ dv_has_:
     nan: hoà-ha̍k
     nb: kjemi
     nds: Chemie
-    nds-nl: scheikunde
+    nds_nl: scheikunde
     ne: रसायनशास्त्र
     new: रसायनशास्त्र
     nl: scheikunde
@@ -430,7 +430,7 @@ dv_has_:
     pnb: کیمسٹری
     ps: کيميا
     pt: química
-    pt-br: química
+    pt_br: química
     qu: chaqllisinchi
     rki: ဓာတုဗေဒ
     ro: chimie
@@ -504,13 +504,13 @@ dv_has_:
     zea: scheikunde
     zgh: ⵜⴰⴽⵔⵓⵔⴰ
     zh: 化學
-    zh-cn: 化学
-    zh-hans: 化学
-    zh-hant: 化學
-    zh-hk: 化學
-    zh-mo: 化學
-    zh-sg: 化学
-    zh-tw: 化學
+    zh_cn: 化学
+    zh_hans: 化学
+    zh_hant: 化學
+    zh_hk: 化學
+    zh_mo: 化學
+    zh_sg: 化学
+    zh_tw: 化學
     zu: ikhemistri
 ---
 # [[Chemistry]] 

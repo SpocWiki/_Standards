@@ -55,7 +55,7 @@ dv_has_:
     az: Südotukimilər
     azb: سود اوْتوچیچکلیلر
     be: Крапінцовыя
-    be-tarask: крапінцовыя
+    be_tarask: крапінцовыя
     bg: телчаркови
     bs: Polygalaceae
     ca: poligalàcies
@@ -102,14 +102,14 @@ dv_has_:
     oc: Polygalaceae
     pl: krzyżownicowate
     pt: Polygalaceae
-    pt-br: Polygalaceae
+    pt_br: Polygalaceae
     ro: Polygalaceae
     ru: Истодовые
     sk: horčinkovité
     sq: Polygalaceae
     sr: Polygalaceae
-    sr-ec: Polygalaceae
-    sr-el: Polygalaceae
+    sr_ec: Polygalaceae
+    sr_el: Polygalaceae
     sv: Jungfrulinsväxter
     th: วงศ์ต่างไก่ป่า
     tr: Polygalaceae
@@ -118,12 +118,12 @@ dv_has_:
     vo: Polygalaceae
     war: Polygalaceae
     zh: 远志科
-    zh-cn: 远志科
-    zh-hans: 远志科
-    zh-hant: 遠志科
-    zh-hk: 遠志科
-    zh-sg: 远志科
-    zh-tw: 遠志科
+    zh_cn: 远志科
+    zh_hans: 远志科
+    zh_hant: 遠志科
+    zh_hk: 遠志科
+    zh_sg: 远志科
+    zh_tw: 遠志科
 ---
 # [[Polygalaceae]] 
 

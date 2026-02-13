@@ -169,7 +169,7 @@ dv_has_:
     az: London qalası
     ban: Menara London
     be: Таўэр
-    be-tarask: Таўэр
+    be_tarask: Таўэр
     bg: Тауър
     bho: लंदन टावर
     bn: টাওয়ার অব লন্ডন
@@ -251,8 +251,8 @@ dv_has_:
     yi: טורעם פון לאנדאן
     yue: 倫敦塔
     zh: 倫敦塔
-    zh-hk: 倫敦塔
-    zh-tw: 倫敦塔
+    zh_hk: 倫敦塔
+    zh_tw: 倫敦塔
 ---
 # [[Tower_of_London]] 
 

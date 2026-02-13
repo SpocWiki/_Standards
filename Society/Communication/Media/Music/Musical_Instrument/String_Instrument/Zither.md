@@ -73,7 +73,7 @@ dv_has_:
     ast: cítara
     bar: Zitha
     be: цытра
-    be-tarask: цытра
+    be_tarask: цытра
     bg: Цитра
     ca: cítara
     cs: citera
@@ -82,7 +82,7 @@ dv_has_:
     de: Alpenländische Zither
     el: τσίτερ
     en: zither
-    en-gb: zither
+    en_gb: zither
     eo: Citro
     es: cítara
     et: Tsitter

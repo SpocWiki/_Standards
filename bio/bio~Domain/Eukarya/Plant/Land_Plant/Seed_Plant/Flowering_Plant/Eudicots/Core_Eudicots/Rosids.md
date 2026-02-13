@@ -55,7 +55,7 @@ dv_has_:
     az: Rozidlər
     bcl: Rosids
     be: Rosids
-    be-tarask: разіды
+    be_tarask: разіды
     bg: розиди
     bho: रोसाइड
     bn: গোলাপ গোষ্ঠী
@@ -67,8 +67,8 @@ dv_has_:
     de: Rosiden
     el: Ροδίδες
     en: rosids
-    en-ca: Rosids
-    en-gb: rosids
+    en_ca: Rosids
+    en_gb: rosids
     eo: Rozedoj
     es: Rósidas
     eu: Rosidae
@@ -102,7 +102,7 @@ dv_has_:
     oc: Rosideae
     pl: różowe
     pt: Rosídeas
-    pt-br: Rosídeas
+    pt_br: Rosídeas
     ro: Rosidae
     ru: розиды
     sco: rosids
@@ -128,9 +128,9 @@ dv_has_:
     wuu: 蔷薇类植物
     yue: 薔薇類
     zh: 蔷薇类植物
-    zh-cn: 蔷薇类植物
-    zh-hans: 蔷薇类植物
-    zh-tw: 薔薇類植物
+    zh_cn: 蔷薇类植物
+    zh_hans: 蔷薇类植物
+    zh_tw: 薔薇類植物
 ---
 # [[Rosids]] 
 

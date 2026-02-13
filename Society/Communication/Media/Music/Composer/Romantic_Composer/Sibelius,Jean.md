@@ -166,7 +166,7 @@ dv_has_:
     az: Yan Sibelius
     ba: Ян Сибелиус
     be: Ян Сібеліус
-    be-tarask: Ян Сыбэліюс
+    be_tarask: Ян Сыбэліюс
     bg: Ян Сибелиус
     br: Jean Sibelius
     bs: Jean Sibelius
@@ -229,7 +229,7 @@ dv_has_:
     os: Ян Сибелиус
     pl: Jean Sibelius
     pt: Jean Sibelius
-    pt-br: Jean Sibelius
+    pt_br: Jean Sibelius
     qu: Jean Sibelius
     rmf: Jean Sibelius
     ro: Jean Sibelius
@@ -261,10 +261,10 @@ dv_has_:
     wuu: 讓·西貝流士
     yue: 西貝流士
     zh: 让·西贝柳斯
-    zh-cn: 让·西贝柳斯
-    zh-hant: 尚·西貝流士
-    zh-hk: 西貝遼士
-    zh-tw: 尚·西貝流士
+    zh_cn: 让·西贝柳斯
+    zh_hant: 尚·西貝流士
+    zh_hk: 西貝遼士
+    zh_tw: 尚·西貝流士
 ---
 # [[Sibelius,Jean]]  
 

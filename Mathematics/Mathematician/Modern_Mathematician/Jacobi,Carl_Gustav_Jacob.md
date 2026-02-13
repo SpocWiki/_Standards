@@ -169,7 +169,7 @@ dv_has_:
     ast: Carl Gustav Jacob Jacobi
     azb: کارل قوستاو یاکوب یاکوبی
     be: Карл Густаў Якаб Якобі
-    be-tarask: Карл Густаў Якаб Якобі
+    be_tarask: Карл Густаў Якаб Якобі
     bg: Карл Густав Якоб Якоби
     bn: কার্ল গুস্তাফ ইয়াকপ ইয়াকবি
     ca: Carl Gustav Jacob Jacobi
@@ -178,8 +178,8 @@ dv_has_:
     de: Carl Gustav Jacob Jacobi
     el: Καρλ Γκούσταβ Γιάκομπ Γιακόμπι
     en: Carl Gustav Jacob Jacobi
-    en-ca: Carl Gustav Jacob Jacobi
-    en-gb: Carl Gustav Jacob Jacobi
+    en_ca: Carl Gustav Jacob Jacobi
+    en_gb: Carl Gustav Jacob Jacobi
     eo: Carl Gustav Jacob Jacobi
     es: Carl Gustav Jakob Jacobi
     eu: Carl Gustav Jakob Jacobi
@@ -216,7 +216,7 @@ dv_has_:
     pl: Carl Gustav Jakob Jacobi
     pms: Carl Gustav Jacob Jacobi
     pt: Carl Gustav Jakob Jacobi
-    pt-br: Carl Gustav Jakob Jacobi
+    pt_br: Carl Gustav Jakob Jacobi
     ro: Carl Gustav Jacob Jacobi
     ru: Карл Густав Якоб Якоби
     sco: Carl Gustav Jacob Jacobi
@@ -224,7 +224,7 @@ dv_has_:
     sl: Carl Gustav Jakob Jacobi
     sq: Carl Gustav Jacob Jacobi
     sr: Карл Густав Јакоб Јакоби
-    sr-ec: Карл Густав Јакоб Јакоби
+    sr_ec: Карл Густав Јакоб Јакоби
     sv: Carl Gustav Jacob Jacobi
     th: คาร์ล กุสทัฟ ยาค็อพ ยาโคบี
     tr: Carl Gustav Jacob Jacobi

@@ -79,7 +79,7 @@ dv_has_:
     az: günəş elektrik stansiyası
     ba: ҡояш энергетикаһы
     be: сонечная энергетыка
-    be-tarask: сонечная энэргетыка
+    be_tarask: сонечная энэргетыка
     bn: সৌর শক্তি
     br: energiezh an heol
     ca: electricitat solar
@@ -90,8 +90,8 @@ dv_has_:
     da: solkraft
     de: Solarstrom
     en: solar power
-    en-ca: solar power
-    en-gb: solar power
+    en_ca: solar power
+    en_gb: solar power
     eo: suna elektro
     es: potencia solar
     et: päikeseenergeetika

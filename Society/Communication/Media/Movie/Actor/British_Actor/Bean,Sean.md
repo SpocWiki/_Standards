@@ -41,7 +41,7 @@ dv_has_:
     azb: شان بین
     bar: Sean Bean
     be: Шон Бін
-    be-tarask: Шон Бін
+    be_tarask: Шон Бін
     bg: Шон Бийн
     bm: Sean Bean
     bn: শন বিন
@@ -53,11 +53,11 @@ dv_has_:
     da: Sean Bean
     de: Sean Bean
     de-at: Sean Bean
-    de-ch: Sean Bean
+    de_ch: Sean Bean
     el: Σον Μπιν
     en: Sean Bean
-    en-ca: Sean Bean
-    en-gb: Sean Bean
+    en_ca: Sean Bean
+    en_gb: Sean Bean
     eo: Sean Bean
     es: Sean Bean
     et: Sean Bean
@@ -105,7 +105,7 @@ dv_has_:
     nap: Sean Bean
     nb: Sean Bean
     nds: Sean Bean
-    nds-nl: Sean Bean
+    nds_nl: Sean Bean
     nl: Sean Bean
     nn: Sean Bean
     nrm: Sean Bean
@@ -116,7 +116,7 @@ dv_has_:
     pms: Sean Bean
     prg: Sean Bean
     pt: Sean Bean
-    pt-br: Sean Bean
+    pt_br: Sean Bean
     rgn: Sean Bean
     rm: Sean Bean
     ro: Sean Bean
@@ -129,8 +129,8 @@ dv_has_:
     sl: Sean Bean
     sq: Sean Bean
     sr: Шон Бин
-    sr-ec: Шон Бин
-    sr-el: Šon Bin
+    sr_ec: Шон Бин
+    sr_el: Šon Bin
     sv: Sean Bean
     sw: Sean Bean
     ta: சான் பீன்
@@ -148,13 +148,13 @@ dv_has_:
     xmf: შონ ბინი
     yue: 辛般
     zh: 肖恩·比恩
-    zh-cn: 肖恩·比恩
-    zh-hans: 肖恩·比恩
-    zh-hant: 肖恩·比恩
-    zh-hk: 辛·般
+    zh_cn: 肖恩·比恩
+    zh_hans: 肖恩·比恩
+    zh_hant: 肖恩·比恩
+    zh_hk: 辛·般
     zh-my: 辛·宾
-    zh-sg: 尚·比恩
-    zh-tw: 西恩·賓
+    zh_sg: 尚·比恩
+    zh_tw: 西恩·賓
     zu: Sean Bean
 ---
 # [[Bean,Sean]] 

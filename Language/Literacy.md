@@ -150,7 +150,7 @@ dv_has_:
     ba: уҡый-яҙа белеү
     ban: Eling ring kawigunannyane aksara
     be: пісьменнасць
-    be-tarask: пісьменнасьць
+    be_tarask: пісьменнасьць
     bew: Literasi
     bg: Грамотност
     bho: साक्षरता दर
@@ -166,12 +166,12 @@ dv_has_:
     cy: Llythrennedd
     da: læsefærdighed
     de: Alphabetisierung
-    de-ch: Alphabetisierung (Lesefähigkeit)
+    de_ch: Alphabetisierung (Lesefähigkeit)
     dtp: Celik huruf
     el: εγγραμματισμός
     en: literacy
-    en-ca: Literacy
-    en-gb: literacy
+    en_ca: Literacy
+    en_gb: literacy
     eo: legoscio
     es: alfabetización
     et: kirjaoskus
@@ -240,7 +240,7 @@ dv_has_:
     pnb: پڑھن لکھن
     ps: سواد
     pt: alfabetização
-    pt-br: alfabetização
+    pt_br: alfabetização
     ro: alfabetizare
     ru: грамотность
     rue: Ґрамотность
@@ -276,8 +276,8 @@ dv_has_:
     yi: ליטעראט
     yue: 識字
     zh: 識字
-    zh-hant: 識字
-    zh-tw: 識字
+    zh_hant: 識字
+    zh_tw: 識字
     zu: Ukufunda nokubhala
 ---
 # [[Literacy]] 

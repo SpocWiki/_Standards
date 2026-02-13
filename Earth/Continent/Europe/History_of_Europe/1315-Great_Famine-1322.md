@@ -37,8 +37,8 @@ dv_has_:
     sl: velika lakota
     sq: Uria e Madhe e 1315-1317
     sr: Велика глад
-    sr-ec: Велика глад
-    sr-el: Velika glad
+    sr_ec: Велика глад
+    sr_el: Velika glad
     sv: Den stora svälten
     th: ทุพภิกขภัยครั้งใหญ่ ค.ศ. 1315–1317
     tr: Büyük Kıtlık
@@ -46,9 +46,9 @@ dv_has_:
     vi: Nạn đói lớn 1315-17
     wuu: 1315–1317年大饥荒
     zh: 1315年至1317年歐洲大饑荒
-    zh-cn: 1315-1317年大饥荒
-    zh-hans: 1315-1317年大饥荒
-    zh-hant: 1315-1317年大饑荒
+    zh_cn: 1315-1317年大饥荒
+    zh_hans: 1315-1317年大饥荒
+    zh_hant: 1315-1317年大饑荒
   time_:
     started: 1315-06-01T00:00:00.000+00:53
     stopped: 1322-06-01T00:00:00.000+00:53

@@ -172,7 +172,7 @@ dv_has_:
     ba: кислоталар
     bcl: Asido
     be: кіслоты
-    be-tarask: кісьля
+    be_tarask: кісьля
     bg: киселина
     bho: एसिड
     bn: অম্ল
@@ -256,7 +256,7 @@ dv_has_:
     mni: ꯑꯁꯤꯟ ꯃꯍꯤ
     mr: आम्ल
     ms: asid
-    ms-arab: اسيد
+    ms_arab: اسيد
     my: အက်ဆစ်
     nan: sng
     nap: Ácëdë
@@ -277,7 +277,7 @@ dv_has_:
     pms: Àcid
     pnb: تیزاب
     pt: ácido
-    pt-br: ácido
+    pt_br: ácido
     qu: p'uchqu
     ro: acid
     ru: кислота
@@ -306,7 +306,7 @@ dv_has_:
     tl: asido
     tr: asit
     tt: әчемә
-    tt-cyrl: әчелек
+    tt_cyrl: әчелек
     tyv: кислоталар
     udm: чырсал
     ug: كىسلاتا

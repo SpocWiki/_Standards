@@ -100,7 +100,7 @@ dv_has_:
     ast: Nymphalidae
     az: Nimfalidlər
     be: німфаліды
-    be-tarask: німфаліды
+    be_tarask: німфаліды
     bg: многоцветници
     ca: Nimfàlid
     ceb: Nymphalidae
@@ -155,7 +155,7 @@ dv_has_:
     pl: rusałkowate
     pnb: اشناک پکھڑوں
     pt: Nymphalidae
-    pt-br: Nymphalidae
+    pt_br: Nymphalidae
     ro: Nymphalidae
     ru: нимфалиды
     sco: Nymphalidae
@@ -176,12 +176,12 @@ dv_has_:
     wuu: 蛱蝶科
     yue: 蛺蝶
     zh: 蛱蝶科
-    zh-cn: 蛱蝶科
-    zh-hans: 蛱蝶科
-    zh-hant: 蛺蝶科
-    zh-hk: 蛺蝶科
-    zh-sg: 蛱蝶科
-    zh-tw: 蛺蝶科
+    zh_cn: 蛱蝶科
+    zh_hans: 蛱蝶科
+    zh_hant: 蛺蝶科
+    zh_hk: 蛺蝶科
+    zh_sg: 蛱蝶科
+    zh_tw: 蛺蝶科
 ---
 # [[Nymphalidae]] 
 

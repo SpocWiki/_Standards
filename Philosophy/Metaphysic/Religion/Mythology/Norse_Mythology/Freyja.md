@@ -84,7 +84,7 @@ dv_has_:
     bar: Freya
     bcl: Freyja
     be: Фрэя
-    be-tarask: Фрэя
+    be_tarask: Фрэя
     bg: Фрейя
     bn: ফ্রাইয়া
     br: Freya
@@ -92,11 +92,11 @@ dv_has_:
     cs: Freya
     da: Freja
     de: Freya
-    de-ch: Freya
+    de_ch: Freya
     el: Φρέγια
     en: Freyja
-    en-ca: Freyja
-    en-gb: Freyja
+    en_ca: Freyja
+    en_gb: Freyja
     eo: Freja
     es: Freyja
     et: Freya
@@ -123,7 +123,7 @@ dv_has_:
     ka: ფრეია
     ko: 프레이야
     ku: Freya
-    ku-latn: Freya
+    ku_latn: Freya
     la: Freyja
     lb: Freya
     lfn: Freia
@@ -133,12 +133,12 @@ dv_has_:
     mni: ꯐ꯭ꯔꯦꯌꯥ
     ms: Freyja
     nb: Frøya
-    nds-nl: Frieja
+    nds_nl: Frieja
     nl: Freya
     nn: Gudinna Frøya
     pl: Freja
     pt: Freia
-    pt-br: Freia
+    pt_br: Freia
     ro: Freya
     ru: Фрейя
     sco: Freyja
@@ -147,7 +147,7 @@ dv_has_:
     sl: Freja
     sq: Freja
     sr: Фреја
-    sr-ec: Фреја
+    sr_ec: Фреја
     stq: Freya
     sv: Freja
     th: เฟร็วยา

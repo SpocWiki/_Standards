@@ -74,7 +74,7 @@ dv_has_:
     ar: برمجة مهيكلة
     ast: programación estructurada
     az: Strukturlu proqramlaşdırma
-    be-tarask: структурнае праграмаваньне
+    be_tarask: структурнае праграмаваньне
     bg: Структурно програмиране
     bs: Strukturirano programiranje
     ca: programació estructurada
@@ -82,10 +82,10 @@ dv_has_:
     cy: rhaglennu strwythurol
     da: struktureret programmering
     de: strukturierte Programmierung
-    de-ch: strukturierte Programmierung
+    de_ch: strukturierte Programmierung
     en: structured programming
-    en-ca: structured programming
-    en-gb: structured programming
+    en_ca: structured programming
+    en_gb: structured programming
     eo: strukturita programado
     es: programación estructurada
     et: Struktureeritud programmeerimine
@@ -117,15 +117,15 @@ dv_has_:
     pl: programowanie strukturalne
     pms: Programassion struturà
     pt: programação estruturada
-    pt-br: programação estruturada
+    pt_br: programação estruturada
     ro: Programare structurată
     ru: структурное программирование
     rue: штруктуроване проґрамованя
     sh: Strukturirano programiranje
     sl: strukturirano programiranje
     sr: структурно програмирање
-    sr-ec: структурирано програмирање
-    sr-el: Strukturirano programiranje
+    sr_ec: структурирано програмирање
+    sr_el: Strukturirano programiranje
     sv: strukturerad programmering
     sw: Uprogramishaji unde
     ta: ஒழுங்குசார் நிரலாக்கம்
@@ -135,12 +135,12 @@ dv_has_:
     vi: lập trình cấu trúc
     yue: 結構化編程
     zh: 结构化编程
-    zh-cn: 结构化编程
-    zh-hans: 结构化编程
-    zh-hant: 結構化編程
-    zh-hk: 結構化編程
-    zh-sg: 结构化编程
-    zh-tw: 結構化編程
+    zh_cn: 结构化编程
+    zh_hans: 结构化编程
+    zh_hant: 結構化編程
+    zh_hk: 結構化編程
+    zh_sg: 结构化编程
+    zh_tw: 結構化編程
 ---
 # [[Prog~Structured]] 
 

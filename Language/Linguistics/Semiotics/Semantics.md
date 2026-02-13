@@ -101,7 +101,7 @@ dv_has_:
     az: semantika
     ba: семантика
     be: семантыка
-    be-tarask: сэмантыка
+    be_tarask: сэмантыка
     bg: семантика
     bn: বাগর্থবিজ্ঞান
     br: semantik
@@ -159,7 +159,7 @@ dv_has_:
     mo: семантикэ
     mr: शब्दार्थशास्त्र
     ms: semantik
-    ms-arab: سمنتيک
+    ms_arab: سمنتيک
     nan: ì-bī-lūn
     nb: semantikk
     ne: अर्थविज्ञान
@@ -179,7 +179,7 @@ dv_has_:
     sco: semantics
     se: semantihkka
     sh: semantika
-    sh-cyrl: семантика
+    sh_cyrl: семантика
     si: ශබ්දාර්ථ විද්යාව
     sk: sémantika
     sl: pomenoslovje
@@ -187,13 +187,13 @@ dv_has_:
     sms: semantikk
     sq: semantikë
     sr: семантика
-    sr-ec: семантика
+    sr_ec: семантика
     stq: Semantik af Betjuudengsleere
     sv: semantik
     sw: semantiki
     ta: சொற்பொருளியல்
     te: పద అధ్యయన శాస్త్రం
-    tg-cyrl: маъношиносӣ
+    tg_cyrl: маъношиносӣ
     th: อรรถศาสตร์
     tl: semantika
     tr: anlambilim

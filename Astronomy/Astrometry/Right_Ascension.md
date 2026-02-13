@@ -111,7 +111,7 @@ dv_has_:
     ast: Ascensión reuta
     az: birbaşa çıxma
     be: прамое ўзыходжанне
-    be-tarask: простае ўзьняцьцё
+    be_tarask: простае ўзьняцьцё
     bg: Ректасцензия
     bn: বিষুবাংশ
     bs: Rektascenzija
@@ -119,11 +119,11 @@ dv_has_:
     cs: rektascenze
     da: rektascension
     de: Rektaszension
-    de-ch: Rektaszension
+    de_ch: Rektaszension
     el: ορθή αναφορά
     en: right ascension
-    en-ca: Right ascension
-    en-gb: right ascension
+    en_ca: Right ascension
+    en_gb: right ascension
     eo: rektascensio
     es: ascensión recta
     et: otsetõus
@@ -164,7 +164,7 @@ dv_has_:
     pl: rektascensja
     pnb: اسمانی کھڑی لیک
     pt: ascensão reta
-    pt-br: Ascensão reta
+    pt_br: Ascensão reta
     ro: Ascensie dreaptă
     ru: прямое восхождение
     sco: Richt ascension

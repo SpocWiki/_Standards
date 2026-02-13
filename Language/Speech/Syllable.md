@@ -150,7 +150,7 @@ dv_has_:
     bar: Süüm
     bcl: silaba
     be: склад
-    be-tarask: склад
+    be_tarask: склад
     bg: сричка
     bho: सिलेबल
     bn: অক্ষর
@@ -169,12 +169,12 @@ dv_has_:
     cy: sillaf
     da: stavelse
     de: Silbe
-    de-ch: Silbe
+    de_ch: Silbe
     dtp: putul boros
     el: συλλαβή
     en: syllable
-    en-ca: syllable
-    en-gb: syllable
+    en_ca: syllable
+    en_gb: syllable
     eo: silabo
     es: sílaba
     et: silp
@@ -209,7 +209,7 @@ dv_has_:
     knc: syllable
     ko: 음절
     ku: kîte
-    ku-latn: kîte
+    ku_latn: kîte
     kw: syllaben
     ky: муун
     la: syllaba
@@ -222,7 +222,7 @@ dv_has_:
     mk: слог
     ml: സിലബിൾ
     ms: suku kata
-    ms-arab: سوکو کات
+    ms_arab: سوکو کات
     mt: sillaba
     my: ဝဏ္ဏ
     nan: im-chat
@@ -241,7 +241,7 @@ dv_has_:
     pnb: رکن
     ps: توری
     pt: sílaba
-    pt-br: sílaba
+    pt_br: sílaba
     qu: simiki
     ro: silabă
     ru: слог
@@ -270,7 +270,7 @@ dv_has_:
     tl: pantig
     tr: hece
     tt: иҗек
-    tt-cyrl: иҗек
+    tt_cyrl: иҗек
     tyv: слог
     udm: кылъёз
     uk: склад
@@ -282,14 +282,14 @@ dv_has_:
     yi: טראף
     yue: 音節
     zh: 音节
-    zh-cn: 音节
-    zh-hans: 音节
-    zh-hant: 音節
-    zh-hk: 音節
-    zh-mo: 音節
+    zh_cn: 音节
+    zh_hans: 音节
+    zh_hant: 音節
+    zh_hk: 音節
+    zh_mo: 音節
     zh-my: 音节
-    zh-sg: 音节
-    zh-tw: 音節
+    zh_sg: 音节
+    zh_tw: 音節
 ---
 # [[Syllable]] 
 

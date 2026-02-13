@@ -80,7 +80,7 @@ dv_has_:
     azb: ایسی/دیسی
     bar: AC/DC
     be: AC/DC
-    be-tarask: AC/DC
+    be_tarask: AC/DC
     bg: Ей Си/Ди Си
     br: AC/DC
     bs: AC/DC
@@ -95,8 +95,8 @@ dv_has_:
     el: AC/DC
     eml: AC/DC
     en: AC/DC
-    en-ca: AC/DC
-    en-gb: AC/DC
+    en_ca: AC/DC
+    en_gb: AC/DC
     en-us: AC/DC
     eo: AC/DC
     es: AC/DC
@@ -136,7 +136,7 @@ dv_has_:
     nah: AC/DC
     nb: AC/DC
     nds: AC/DC
-    nds-nl: AC/DC
+    nds_nl: AC/DC
     ne: एसी/डीसी
     new: एसि/डिसी
     nl: AC/DC
@@ -145,7 +145,7 @@ dv_has_:
     pa: ਏ.ਸੀ./ਡੀ.ਸੀ.
     pl: AC/DC
     pt: AC/DC
-    pt-br: AC/DC
+    pt_br: AC/DC
     qu: AC/DC
     ro: AC/DC
     ru: AC/DC
@@ -169,7 +169,7 @@ dv_has_:
     xmf: AC/DC
     yue: AC/DC
     zh: AC/DC
-    zh-hk: AC/DC
+    zh_hk: AC/DC
 ---
 # [[AC-DC]]
 

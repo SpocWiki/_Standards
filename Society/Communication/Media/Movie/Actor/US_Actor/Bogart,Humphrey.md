@@ -132,26 +132,26 @@ dv_has_:
     ba: Хамфри Богарт
     bar: Humphrey Bogart
     be: Хамфры Богарт
-    be-tarask: Гамфры Богарт
+    be_tarask: Гамфры Богарт
     bg: Хъмфри Богарт
     bi: Humphrey Bogart
     bn: হামফ্রি বোগার্ট
     br: Humphrey Bogart
     bs: Humphrey Bogart
     ca: Humphrey Bogart
-    cbk-zam: Humphrey Bogart
+    cbk_zam: Humphrey Bogart
     ckb: ھەمفری بۆگارت
     co: Humphrey Bogart
     cs: Humphrey Bogart
     cy: Humphrey Bogart
     da: Humphrey Bogart
     de: Humphrey Bogart
-    de-ch: Humphrey Bogart
+    de_ch: Humphrey Bogart
     diq: Humphrey Bogart
     el: Χάμφρεϊ Μπόγκαρτ
     en: Humphrey Bogart
-    en-ca: Humphrey Bogart
-    en-gb: Humphrey Bogart
+    en_ca: Humphrey Bogart
+    en_gb: Humphrey Bogart
     eo: Humphrey Bogart
     es: Humphrey Bogart
     et: Humphrey Bogart
@@ -203,7 +203,7 @@ dv_has_:
     pms: Humphrey Bogart
     pnb: ہیمفری بوگارٹ
     pt: Humphrey Bogart
-    pt-br: Humphrey Bogart
+    pt_br: Humphrey Bogart
     qu: Humphrey Bogart
     ro: Humphrey Bogart
     ru: Хамфри Богарт
@@ -231,13 +231,13 @@ dv_has_:
     yo: Humphrey Bogart
     yue: 堪富利保加
     zh: 亨弗萊·鮑嘉
-    zh-cn: 汉弗莱·博加特
-    zh-hans: 汉弗莱·博加特
-    zh-hant: 亨弗萊·鮑嘉
-    zh-hk: 堪富利·保加
+    zh_cn: 汉弗莱·博加特
+    zh_hans: 汉弗莱·博加特
+    zh_hant: 亨弗萊·鮑嘉
+    zh_hk: 堪富利·保加
     zh-my: 堪富利·保加
-    zh-sg: 堪富利·保加
-    zh-tw: 亨弗萊·鮑嘉
+    zh_sg: 堪富利·保加
+    zh_tw: 亨弗萊·鮑嘉
 ---
 # [[Bogart,Humphrey]] 
 

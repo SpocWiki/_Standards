@@ -29,7 +29,7 @@ Commons_category: Morgan horse
 dv_has_:
   name_:
     ar: خيول مورجان
-    be-tarask: конь Моргана
+    be_tarask: конь Моргана
     ca: cavall Morgan
     da: Morgan
     de: Morgan
@@ -59,8 +59,8 @@ dv_has_:
     wuu: 摩根马
     yue: 摩根馬
     zh: 摩根马
-    zh-hans: 摩根马
-    zh-hant: 摩根馬
+    zh_hans: 摩根马
+    zh_hant: 摩根馬
 ---
 # [[Morgan_Horse]] 
 

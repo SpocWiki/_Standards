@@ -128,7 +128,7 @@ dv_has_:
     bar: Zuckerl
     bcl: dulse
     be: цукерка
-    be-tarask: цукерка
+    be_tarask: цукерка
     bg: бонбон
     bjn: gula batu
     bn: ক্যান্ডি
@@ -141,7 +141,7 @@ dv_has_:
     de: Bonbon
     el: ζαχαρωτό
     en: candy
-    en-gb: sweets
+    en_gb: sweets
     eo: bombono
     es: golosina
     et: kompvek
@@ -169,8 +169,8 @@ dv_has_:
     kk: кәмпит
     ko: 사탕
     ku: şîranî
-    ku-arab: شیرانی
-    ku-latn: şîranî
+    ku_arab: شیرانی
+    ku_latn: şîranî
     la: Bellaria
     li: babbelaer
     lt: saldainis
@@ -184,7 +184,7 @@ dv_has_:
     my: သကြားလုံး
     nan: kim-kâm
     nb: godteri
-    nds-nl: slik
+    nds_nl: slik
     nl: snoepje
     nn: godteri
     nrm: Chucrîn
@@ -192,7 +192,7 @@ dv_has_:
     pa: ਕੈਂਡੀ
     pl: cukierek
     pt: rebuçado
-    pt-br: bala
+    pt_br: bala
     qu: añaka
     rki: သကြားလုံး
     ro: bomboană
@@ -202,8 +202,8 @@ dv_has_:
     sk: cukrík
     sl: bombon
     sr: бомбона
-    sr-ec: бомбона
-    sr-el: bombona
+    sr_ec: бомбона
+    sr_el: bombona
     sv: godis
     szl: bůmbůn
     ta: மிட்டாய்
@@ -219,8 +219,8 @@ dv_has_:
     yue: 糖
     za: dangznaed
     zh: 糖果
-    zh-hant: 糖果
-    zh-tw: 糖果
+    zh_hant: 糖果
+    zh_tw: 糖果
 ---
 # [[Candy]] 
 

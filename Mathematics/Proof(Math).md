@@ -139,7 +139,7 @@ dv_has_:
     az: Riyazi sübut
     ba: Математик иҫбатлау
     be: матэматычны доказ
-    be-tarask: матэматычны доказ
+    be_tarask: матэматычны доказ
     bg: Математическо доказателство
     bn: গাণিতিক প্রমাণ
     bs: Matematički dokaz
@@ -153,8 +153,8 @@ dv_has_:
     de: mathematischer Beweis
     el: μαθηματική απόδειξη
     en: mathematical proof
-    en-ca: Mathematical proof
-    en-gb: mathematical proof
+    en_ca: Mathematical proof
+    en_gb: mathematical proof
     eo: matematika pruvo
     es: demostración matemática
     et: matemaatiline tõestus
@@ -194,7 +194,7 @@ dv_has_:
     ml: തെളിവ് ഗണിതശാസ്ത്രത്തിൽ
     mr: गणितीय पुरावा
     ms: bukti matematik
-    ms-arab: بوقتي ماتماتيک
+    ms_arab: بوقتي ماتماتيک
     nan: Chèng-bêng
     nb: matematisk bevis
     nds: Bewies
@@ -207,7 +207,7 @@ dv_has_:
     pnb: میتھمیٹیکل ثبوت
     ps: ریاضیکي ثبوت
     pt: prova matemática
-    pt-br: demonstração
+    pt_br: demonstração
     ro: demonstrație matematică
     ru: математическое доказательство
     rue: Математічне доказательство
@@ -219,8 +219,8 @@ dv_has_:
     sl: matematični dokaz
     sq: Provat matematikore
     sr: математички доказ
-    sr-ec: математички доказ
-    sr-el: matematički dokaz
+    sr_ec: математички доказ
+    sr_el: matematički dokaz
     sv: matematiskt bevis
     sw: Thibitisho la kihisabati
     ta: கணித நிறுவல்
@@ -237,7 +237,7 @@ dv_has_:
     yi: מאטעמאטישער דערווייז
     yue: 數學證明
     zh: 證明
-    zh-cn: 证明
+    zh_cn: 证明
 ---
 # [[Proof(Math)]] 
 

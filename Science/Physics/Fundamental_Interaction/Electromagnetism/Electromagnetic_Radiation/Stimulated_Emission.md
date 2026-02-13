@@ -54,14 +54,14 @@ dv_has_:
   name_:
     ar: إصدار منبه
     be: Вымушанае выпрамяненне
-    be-tarask: вымушанае выпраменьваньне
+    be_tarask: вымушанае выпраменьваньне
     ca: emissió estimulada
     cs: Stimulovaná emise
     da: stimuleret emission
     de: stimulierte Emission
     en: stimulated emission
-    en-ca: Stimulated emission
-    en-gb: Stimulated emission
+    en_ca: Stimulated emission
+    en_gb: Stimulated emission
     eo: stimulata emisio
     es: Emisión estimulada
     et: Stimuleeritud kiirgus
@@ -75,9 +75,9 @@ dv_has_:
     it: emissione stimolata
     ja: 誘導放出
     kk: Мәжбүр сәулелену
-    kk-arab: ٴماجبۇر ساۋلەلەنۋ
-    kk-cyrl: Мәжбүр сәулелену
-    kk-latn: Mäjbür säwlelenw
+    kk_arab: ٴماجبۇر ساۋلەلەنۋ
+    kk_cyrl: Мәжбүр сәулелену
+    kk_latn: Mäjbür säwlelenw
     ko: 자극 방출
     lt: Priverstinis spinduliavimas
     mk: поттикнато лачење
@@ -85,7 +85,7 @@ dv_has_:
     nl: Gestimuleerde emissie
     pl: emisja wymuszona
     pt: emissão estimulada
-    pt-br: Emissão estimulada
+    pt_br: Emissão estimulada
     ro: Emisie stimulată
     ru: вынужденное излучение
     rue: Стімулована емісія
@@ -96,9 +96,9 @@ dv_has_:
     vi: Phát xạ kích thích
     wuu: 受激发射
     zh: 受激发射
-    zh-hans: 受激发射
-    zh-hant: 受激發射
-    zh-hk: 受激發射
+    zh_hans: 受激发射
+    zh_hant: 受激發射
+    zh_hk: 受激發射
 ---
 # [[Stimulated_Emission]] 
 

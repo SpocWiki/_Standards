@@ -89,7 +89,7 @@ dv_has_:
     ar: قانون العمل
     ast: Derechu llaboral
     az: Əmək hüququ
-    be-tarask: працоўнае права
+    be_tarask: працоўнае права
     bg: Трудово право
     ca: dret laboral
     cs: pracovní právo
@@ -98,7 +98,7 @@ dv_has_:
     de: Arbeitsrecht
     el: εργατικό δίκαιο
     en: labor law
-    en-gb: labour law
+    en_gb: labour law
     en-us: labor law
     eo: labora juro
     es: derecho laboral
@@ -131,7 +131,7 @@ dv_has_:
     pl: prawo pracy
     ps: د کار قانون
     pt: direito do trabalho
-    pt-br: Direito trabalhista
+    pt_br: Direito trabalhista
     ro: dreptul muncii
     ru: трудовое право
     scn: Dirittu dû travagghiu
@@ -142,8 +142,8 @@ dv_has_:
     smn: pargovuoigâdvuotâ
     sq: Ligji i punës
     sr: радно право
-    sr-ec: радно право
-    sr-el: radno pravo
+    sr_ec: радно право
+    sr_el: radno pravo
     sv: arbetsrätt
     te: శ్రామిక చట్టం
     tg: Ҳуқуқи меҳнатӣ
@@ -155,9 +155,9 @@ dv_has_:
     yue: 勞工法
     zgh: ⴰⵙⵍⴳⵏ ⵏ ⵜⵡⵓⵔⵉ
     zh: 勞工法
-    zh-cn: 劳动法
-    zh-hant: 勞工法
-    zh-tw: 勞工法
+    zh_cn: 劳动法
+    zh_hant: 勞工法
+    zh_tw: 勞工法
 ---
 # [[Labor_Law]] 
 

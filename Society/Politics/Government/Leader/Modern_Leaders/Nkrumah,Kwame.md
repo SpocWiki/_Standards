@@ -147,7 +147,7 @@ dv_has_:
     azb: کووامئی اینکرومه
     ba: Кваме Нкрума
     be: Квамэ Нкрума
-    be-tarask: Кўамэ Нкрума
+    be_tarask: Кўамэ Нкрума
     bg: Кваме Нкрума
     bn: কোয়ামে এনক্রুমাহ
     br: Kwame Nkrumah
@@ -168,8 +168,8 @@ dv_has_:
     ee: Kwame Nkrumah
     el: Κβάμε Νκρούμαχ
     en: Kwame Nkrumah
-    en-ca: Kwame Nkrumah
-    en-gb: Kwame Nkrumah
+    en_ca: Kwame Nkrumah
+    en_gb: Kwame Nkrumah
     en-us: Kwame Nkrumah
     eo: Kwame Nkrumah
     es: Kwame Nkrumah
@@ -244,7 +244,7 @@ dv_has_:
     pnb: کوامی نکرومہ
     ps: قوام نکرومه
     pt: Kwame Nkrumah
-    pt-br: Kwame Nkrumah
+    pt_br: Kwame Nkrumah
     qu: Kwame Nkrumah
     ro: Kwame Nkrumah
     ru: Кваме Нкрума
@@ -280,9 +280,9 @@ dv_has_:
     yo: Kwame Nkrumah
     yue: 夸美魯瑪
     zh: 克瓦米·恩克鲁玛
-    zh-cn: 克瓦米·恩克鲁玛
-    zh-hans: 克瓦米·恩克鲁玛
-    zh-hant: 克瓦米·恩克魯瑪
+    zh_cn: 克瓦米·恩克鲁玛
+    zh_hans: 克瓦米·恩克鲁玛
+    zh_hant: 克瓦米·恩克魯瑪
 ---
 # [[Nkrumah,Kwame]] 
 

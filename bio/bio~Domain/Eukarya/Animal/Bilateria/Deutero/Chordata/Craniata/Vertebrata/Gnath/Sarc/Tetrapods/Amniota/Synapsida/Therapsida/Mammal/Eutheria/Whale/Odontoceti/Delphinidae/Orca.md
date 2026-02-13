@@ -214,7 +214,7 @@ dv_has_:
     ban: Orka
     bcl: Orca
     be: касатка
-    be-tarask: касатка
+    be_tarask: касатка
     bg: косатка
     bn: ঘাতক তিমি
     bo: སྟག་ཆུ་སྲིན།
@@ -318,10 +318,10 @@ dv_has_:
     wuu: 杀人鲸
     yue: 殺人鯨
     zh: 虎鲸
-    zh-cn: 虎鲸
-    zh-hans: 虎鲸
-    zh-hant: 虎鯨
-    zh-tw: 虎鯨
+    zh_cn: 虎鲸
+    zh_hans: 虎鲸
+    zh_hant: 虎鯨
+    zh_tw: 虎鯨
     zu: I-Orca
 ---
 # [[Orca]] 

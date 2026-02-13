@@ -81,7 +81,7 @@ dv_has_:
     ast: Ópera de Beixín
     az: Pekin operası
     ba: Пекин операһы
-    be-tarask: пэкінская опэра
+    be_tarask: пэкінская опэра
     bg: Пекинска опера
     bn: পিকিং অপেরা
     bo: པེ་ཅིང་གི་ཁྲང་ཞི།
@@ -91,8 +91,8 @@ dv_has_:
     da: Pekingopera
     de: Peking-Oper
     en: Peking opera
-    en-ca: Peking opera
-    en-gb: Peking opera
+    en_ca: Peking opera
+    en_gb: Peking opera
     eo: Pekina opero
     es: Ópera de Pekín
     eu: Pekingo Opera
@@ -122,7 +122,7 @@ dv_has_:
     pl: Opera pekińska
     pnb: پیکنگ اوپیرا
     pt: Ópera de Pequim
-    pt-br: Ópera de Pequim
+    pt_br: Ópera de Pequim
     ru: пекинская опера
     sl: pekinška opera
     sr: Pekinška opera
@@ -137,12 +137,12 @@ dv_has_:
     wuu: 京剧
     yue: 京劇
     zh: 京剧
-    zh-cn: 京剧
-    zh-hans: 京剧
-    zh-hant: 京劇
-    zh-hk: 京劇
-    zh-sg: 京剧
-    zh-tw: 京劇
+    zh_cn: 京剧
+    zh_hans: 京剧
+    zh_hant: 京劇
+    zh_hk: 京劇
+    zh_sg: 京剧
+    zh_tw: 京劇
 ---
 # [[Peking_Opera]] 
 

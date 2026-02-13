@@ -168,7 +168,7 @@ dv_has_:
     bbc: desa naualu
     bcl: kardinal na direksyon
     be: кірункі свету
-    be-tarask: бок сьвету
+    be_tarask: бок сьвету
     bew: majehab
     bg: географска посока
     bjn: mata angin
@@ -181,11 +181,11 @@ dv_has_:
     cs: hlavní světová strana
     da: kompasretning
     de: Haupthimmelsrichtung
-    de-ch: Himmelsrichtung
+    de_ch: Himmelsrichtung
     el: σημεία του ορίζοντα
     en: cardinal direction
-    en-ca: cardinal direction
-    en-gb: cardinal direction
+    en_ca: cardinal direction
+    en_gb: cardinal direction
     en-us: cardinal direction
     eo: kompasdirektoj
     es: punto cardinal
@@ -230,7 +230,7 @@ dv_has_:
     lt: pasaulio kryptis
     lv: debespuse
     lzh: 四方
-    map-bms: mata angin
+    map_bms: mata angin
     mg: vazan-tany
     min: mato angin
     mk: страна на светот
@@ -238,7 +238,7 @@ dv_has_:
     mnw: ဒိုဟ်
     mr: दिशा
     ms: mata angin
-    ms-arab: مات اڠين
+    ms_arab: مات اڠين
     mzn: وۀروهجارک
     nan: hong-ūi
     nb: himmelretning
@@ -254,7 +254,7 @@ dv_has_:
     pl: strony świata
     pnb: پاسا
     pt: ponto cardeal
-    pt-br: ponto cardeal
+    pt_br: ponto cardeal
     qu: tawantin iñu
     ro: puncte cardinale
     ru: сторона света
@@ -268,8 +268,8 @@ dv_has_:
     so: afarta jiho
     sq: anët e horizontit
     sr: страна света
-    sr-ec: страна света
-    sr-el: strane sveta
+    sr_ec: страна света
+    sr_el: strane sveta
     sv: väderstreck
     sw: mwelekeo mkuu wa dira
     ta: நேர்திசை
@@ -279,7 +279,7 @@ dv_has_:
     tpi: kadinol daireksion
     tr: yön
     tt: дөнья яклары
-    tt-cyrl: дөнья яклары
+    tt_cyrl: дөнья яклары
     uk: сторона світу
     ur: سمت
     uz: dunyo tomonlari
@@ -292,8 +292,8 @@ dv_has_:
     yue: 方位
     zgh: ⵉⵎⵏⵉⴷⵏ ⵉⴷ ⴽⴽⵓⵥ
     zh: 羅盤方位
-    zh-hant: 羅盤方位
-    zh-tw: 羅盤方位
+    zh_hant: 羅盤方位
+    zh_tw: 羅盤方位
 ---
 # [[2D-Directions]] 
 

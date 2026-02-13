@@ -175,7 +175,7 @@ dv_has_:
     az: Uilyam Batler Yeyts
     azb: ویلیام باتلر ییتس
     be: Уільям Батлер Ейтс
-    be-tarask: Ўільям Батлер Ейтс
+    be_tarask: Ўільям Батлер Ейтс
     bg: Уилям Бътлър Йейтс
     bn: উইলিয়াম বাটলার ইয়েটস
     br: William Butler Yeats
@@ -186,12 +186,12 @@ dv_has_:
     cy: William Butler Yeats
     da: William Butler Yeats
     de: William Butler Yeats
-    de-ch: William Butler Yeats
+    de_ch: William Butler Yeats
     diq: William Butler Yeats
     el: Ουίλιαμ Μπάτλερ Γέιτς
     en: William Butler Yeats
-    en-ca: William Butler Yeats
-    en-gb: William Butler Yeats
+    en_ca: William Butler Yeats
+    en_gb: William Butler Yeats
     eo: William Butler Yeats
     es: William Butler Yeats
     et: William Butler Yeats
@@ -252,7 +252,7 @@ dv_has_:
     pms: William Butler Yeats
     pnb: ولیم بٹلر ییٹس
     pt: William Butler Yeats
-    pt-br: William Butler Yeats
+    pt_br: William Butler Yeats
     ro: William Butler Yeats
     ru: Уильям Батлер Йейтс
     sco: W. B. Yeats

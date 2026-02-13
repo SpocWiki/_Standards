@@ -197,7 +197,7 @@ dv_has_:
     ban: Dinosauria
     bcl: Dinosaur
     be: дыназаўры
-    be-tarask: дыназаўр
+    be_tarask: дыназаўр
     bg: динозаври
     bn: ডাইনোসর
     br: Dinosaor
@@ -217,8 +217,8 @@ dv_has_:
     diq: Dinozor
     el: Δεινόσαυροι
     en: dinosaur
-    en-ca: dinosaur
-    en-gb: dinosaur
+    en_ca: dinosaur
+    en_gb: dinosaur
     en-us: dinosaur
     eo: dinosaŭro
     es: Dinosauria
@@ -282,7 +282,7 @@ dv_has_:
     lv: dinozauri
     lzh: 恐龍
     mai: डायनोसर
-    map-bms: Dinosaurus
+    map_bms: Dinosaurus
     mg: Dinôzôro
     mk: диносаурус
     ml: ദിനോസർ
@@ -298,7 +298,7 @@ dv_has_:
     nan: Khióng-liông
     nb: dinosaurer
     nds: Dinosaurier
-    nds-nl: dinosauriers
+    nds_nl: dinosauriers
     ne: डायनोसर
     new: डाइनोसौर्
     nl: dinosauriërs
@@ -346,7 +346,7 @@ dv_has_:
     tly: Dinozavron
     tr: dinozor
     tt: динозаврлар
-    tt-cyrl: динозаврлар
+    tt_cyrl: динозаврлар
     udm: динозавр
     ug: دىنوزاۋر
     uk: динозаври
@@ -365,10 +365,10 @@ dv_has_:
     yue: 恐龍
     za: Hoengjlungz
     zh: 恐龙
-    zh-cn: 恐龙
-    zh-hans: 恐龙
-    zh-hant: 恐龍
-    zh-tw: 恐龍
+    zh_cn: 恐龙
+    zh_hans: 恐龙
+    zh_hant: 恐龍
+    zh_tw: 恐龍
 ---
 # [[Dinosaur]] 🦕 
 

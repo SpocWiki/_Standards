@@ -106,7 +106,7 @@ dv_has_:
     az: Alan Mur
     azb: آلن مور
     be: Алан Мур
-    be-tarask: Алан Мур
+    be_tarask: Алан Мур
     bg: Алан Мур
     bn: এলান মূর
     br: Alan Moore
@@ -152,7 +152,7 @@ dv_has_:
     pa: ਐਲਨ ਮੂਰ
     pl: Alan Moore
     pt: Alan Moore
-    pt-br: Alan Moore
+    pt_br: Alan Moore
     ro: Alan Moore
     ru: Алан Мур
     sh: Alan Moore
@@ -167,8 +167,8 @@ dv_has_:
     vi: Alan Moore
     yue: 艾倫·摩爾
     zh: 阿兰·摩尔
-    zh-hans: 阿兰·摩尔
-    zh-hant: 艾倫·摩爾
+    zh_hans: 阿兰·摩尔
+    zh_hant: 艾倫·摩爾
 ---
 # [[Moore,Alan]] 
 

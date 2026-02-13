@@ -40,11 +40,11 @@ dv_has_:
     da: John Irving
     de: John Irving
     de-at: John Irving
-    de-ch: John Irving
+    de_ch: John Irving
     el: Τζον Έρβινγκ
     en: John Irving
-    en-ca: John Irving
-    en-gb: John Irving
+    en_ca: John Irving
+    en_gb: John Irving
     eo: John Irving
     es: John Irving
     et: John Irving
@@ -78,7 +78,7 @@ dv_has_:
     pl: John Irving
     pms: John Irving
     pt: John Irving
-    pt-br: John Irving
+    pt_br: John Irving
     ro: John Irving
     ru: Джон Уинслоу Ирвинг
     sc: John Irving
@@ -91,12 +91,12 @@ dv_has_:
     sv: John Irving
     uk: Джон Ірвінг
     zh: 約翰·艾文
-    zh-cn: 约翰·艾文
-    zh-hans: 约翰·艾文
-    zh-hant: 約翰·艾文
-    zh-hk: 約翰·艾文
-    zh-sg: 约翰·艾文
-    zh-tw: 約翰·艾文
+    zh_cn: 约翰·艾文
+    zh_hans: 约翰·艾文
+    zh_hant: 約翰·艾文
+    zh_hk: 約翰·艾文
+    zh_sg: 约翰·艾文
+    zh_tw: 約翰·艾文
 ---
 # [[Irving,John]]
 

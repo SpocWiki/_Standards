@@ -71,7 +71,7 @@ dv_has_:
     ar: تعويضات الحروب
     ast: Arreglos de guerra
     be: Рэпарацыі
-    be-tarask: рэпарацыя
+    be_tarask: рэпарацыя
     bg: Репарация
     ca: Reparacións de guerra
     cs: Válečné reparace
@@ -79,8 +79,8 @@ dv_has_:
     de: Kriegsreparationen
     el: Πολεμικές αποζημιώσεις
     en: war reparations
-    en-ca: War reparations
-    en-gb: War reparations
+    en_ca: War reparations
+    en_gb: War reparations
     eo: milita reparacio
     es: reparaciones de guerra
     et: reparatsioon
@@ -98,11 +98,11 @@ dv_has_:
     it: indennità di guerra
     ja: 戦争賠償
     kk: Репарации
-    kk-arab: رەپاراتسىيىي
+    kk_arab: رەپاراتسىيىي
     kk-cn: رەپاراتسىيىي
-    kk-cyrl: Репарации
+    kk_cyrl: Репарации
     kk-kz: Репарации
-    kk-latn: Reparacïï
+    kk_latn: Reparacïï
     kk-tr: Reparacïï
     ko: 전쟁배상금
     ky: Репарациялар
@@ -117,7 +117,7 @@ dv_has_:
     oc: Indemnitat de guèrra
     pl: reparacje wojenne
     pt: Compensação de guerra
-    pt-br: Compensação de guerra
+    pt_br: Compensação de guerra
     ro: despăgubiri de război
     ru: военные репарации
     sah: Репарацийа
@@ -133,9 +133,9 @@ dv_has_:
     uk: репарації
     vi: Bồi thường chiến tranh
     zh: 戰爭賠償
-    zh-cn: 战争赔偿
-    zh-hans: 战争赔偿
-    zh-hant: 戰爭賠款
+    zh_cn: 战争赔偿
+    zh_hans: 战争赔偿
+    zh_hant: 戰爭賠款
 ---
 # [[War_Reparations]] 
 

@@ -159,7 +159,7 @@ dv_has_:
     bar: James K. Polk
     bcl: James K. Polk
     be: Джэймс Нокс Полк
-    be-tarask: Джэймз Нокс Полк
+    be_tarask: Джэймз Нокс Полк
     bg: Джеймс Полк
     bi: James K. Polk
     bn: জেমস কে. পোক
@@ -181,8 +181,8 @@ dv_has_:
     dv: ޖޭމްސް ކްނޮކްސް ޕޮލްކް
     el: Τζέιμς Νοξ Πολκ
     en: James K. Polk
-    en-ca: James K. Polk
-    en-gb: James K. Polk
+    en_ca: James K. Polk
+    en_gb: James K. Polk
     en-us: James K. Polk
     eo: James K. Polk
     es: James K. Polk
@@ -256,7 +256,7 @@ dv_has_:
     pnb: جیمز کے پولک
     ps: جېمز کې پالک
     pt: James Knox Polk
-    pt-br: James Knox Polk
+    pt_br: James Knox Polk
     qu: James Polk
     rmf: James K. Polk
     ro: James Knox Polk
@@ -277,7 +277,7 @@ dv_has_:
     sms: James K. Polk
     sq: James K. Polk
     sr: Џејмс Нокс Полк
-    sr-ec: Џејмс Нокс Полк
+    sr_ec: Џејмс Нокс Полк
     sv: James K. Polk
     sw: James K. Polk
     ta: ஜேம்ஸ் போக்

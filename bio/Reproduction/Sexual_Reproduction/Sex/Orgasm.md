@@ -87,7 +87,7 @@ dv_has_:
     azb: اورقازم
     bcl: Orgasmo
     be: аргазм
-    be-tarask: аргазм
+    be_tarask: аргазм
     bg: оргазъм
     bn: রাগমোচন
     bo: ཆགས་པ་མཐོ་རུ་འཕེལ་བ།
@@ -98,11 +98,11 @@ dv_has_:
     cy: orgasm
     da: orgasme
     de: Orgasmus
-    de-ch: Orgasmus
+    de_ch: Orgasmus
     el: Οργασμός
     en: orgasm
-    en-ca: orgasm
-    en-gb: orgasm
+    en_ca: orgasm
+    en_gb: orgasm
     eo: orgasmo
     es: orgasmo
     et: orgasm
@@ -149,7 +149,7 @@ dv_has_:
     pl: orgazm
     ps: اورګاسم
     pt: orgasmo
-    pt-br: orgasmo
+    pt_br: orgasmo
     qu: yuquypi aypay
     ro: orgasm
     ru: оргазм
@@ -181,7 +181,7 @@ dv_has_:
     yi: ארגאזם
     yue: 性高潮
     zh: 性高潮
-    zh-hant: 性高潮
+    zh_hant: 性高潮
     zu: ukuchitha
 ---
 # [[Orgasm]] 

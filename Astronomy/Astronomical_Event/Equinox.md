@@ -125,7 +125,7 @@ dv_has_:
     az: ekinoks
     ba: көн менән төн тигеҙләнеше
     be: раўнадзенства
-    be-tarask: роўнадзеньне
+    be_tarask: роўнадзеньне
     bg: равноденствие
     bjn: ekuinoks
     bn: বিষুব
@@ -138,13 +138,13 @@ dv_has_:
     cy: cyhydnos
     da: jævndøgn
     de: Äquinoktium
-    de-ch: Äquinoktium
+    de_ch: Äquinoktium
     dsb: rownosć źeń-noc
     el: Ισημερία
     eml: equinósi
     en: equinox
-    en-ca: equinox
-    en-gb: equinox
+    en_ca: equinox
+    en_gb: equinox
     eo: ekvinokso
     es: equinoccio
     et: võrdpäevsus
@@ -192,7 +192,7 @@ dv_has_:
     pa: ਸਮਰਾਤ
     pl: równonoc
     pt: equinócio
-    pt-br: equinócio
+    pt_br: equinócio
     ro: echinocțiu
     ru: равноденствие
     sah: күн тэҥнэһиитэ
@@ -206,7 +206,7 @@ dv_has_:
     sn: tsazahusiku
     sq: ekuinoksi
     sr: равнодневица
-    sr-ec: равнодневица
+    sr_ec: равнодневица
     su: ékuinoks
     sv: dagjämning
     sw: sikusare
@@ -226,9 +226,9 @@ dv_has_:
     xmf: ბუნობა
     yue: 分日
     zh: 分點
-    zh-hans: 分点
-    zh-hant: 分點
-    zh-tw: 分點
+    zh_hans: 分点
+    zh_hant: 分點
+    zh_tw: 分點
 ---
 # [[Equinox]] 
 

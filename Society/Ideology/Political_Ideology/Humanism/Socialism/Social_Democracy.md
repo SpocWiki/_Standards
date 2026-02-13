@@ -125,7 +125,7 @@ dv_has_:
     azb: سوسیال دموکرات
     ba: социал-демократия
     be: сацыял-дэмакратыя
-    be-tarask: сацыял-дэмакратыя
+    be_tarask: сацыял-дэмакратыя
     bg: социалдемокрация
     bn: সামাজিক গণতন্ত্র
     br: sokial-demokratelezh
@@ -139,12 +139,12 @@ dv_has_:
     cy: democratiaeth gymdeithasol
     da: socialdemokratisme
     de: Sozialdemokratie
-    de-ch: Sozialdemokratie
+    de_ch: Sozialdemokratie
     dsb: socialdemokratija
     el: σοσιαλδημοκρατία
     en: social democracy
-    en-ca: social democracy
-    en-gb: social democracy
+    en_ca: social democracy
+    en_gb: social democracy
     en-us: social democracy
     eo: socialdemokratio
     es: socialdemocracia
@@ -174,16 +174,16 @@ dv_has_:
     ja: 社会民主主義
     ka: სოციალ-დემოკრატია
     kk: Социал-Демократия
-    kk-arab: سوتسىيال-دەموكراتىييا
+    kk_arab: سوتسىيال-دەموكراتىييا
     kk-cn: سوتسىيال-دەموكراتىييا
-    kk-cyrl: Социал-Демократия
+    kk_cyrl: Социал-Демократия
     kk-kz: Социал-Демократия
-    kk-latn: Socïal-Demokratïya
+    kk_latn: Socïal-Demokratïya
     kk-tr: Socïal-Demokratïya
     ko: 사회민주주의
     krj: demokrasya sosyal
     ku: sosyaldemokrasî
-    ku-latn: sosyaldemokrasî
+    ku_latn: sosyaldemokrasî
     kw: demokratieth socyal
     ky: Социал Демократия
     la: democratia socialis
@@ -196,7 +196,7 @@ dv_has_:
     mk: социјалдемократија
     mn: социал демократ
     ms: demokrasi sosial
-    ms-arab: ديموکراسي سوسيال
+    ms_arab: ديموکراسي سوسيال
     my: ဆိုရှယ်ဒီမိုကရေစီ
     mzn: سوسیال دموکراسی
     nan: Siā-hōe Bîn-chú-chú-gī
@@ -211,7 +211,7 @@ dv_has_:
     pnb: سوشل ڈیموکریسی
     ps: ټولنیزه ولسواکي
     pt: social-democracia
-    pt-br: social-democracia
+    pt_br: social-democracia
     ro: social-democrație
     ru: социал-демократия
     scn: sucial-dimucrazzìa
@@ -223,8 +223,8 @@ dv_has_:
     sms: sosiaaldemokratia
     sq: Socialdemokracia
     sr: социјалдемократија
-    sr-ec: социјалдемократија
-    sr-el: Socijaldemokratija
+    sr_ec: социјалдемократија
+    sr_el: Socijaldemokratija
     sv: socialdemokrati
     szl: socjaldymokracyjŏ
     ta: சமூக மக்களாட்சி
@@ -240,12 +240,12 @@ dv_has_:
     yo: Òṣèlú aláwùjọ
     yue: 社會民主主義
     zh: 社會民主主義
-    zh-cn: 社会民主主义
-    zh-hans: 社会民主主义
-    zh-hant: 社會民主主義
-    zh-hk: 社會民主主義
-    zh-sg: 社会民主主义
-    zh-tw: 社會民主主義
+    zh_cn: 社会民主主义
+    zh_hans: 社会民主主义
+    zh_hant: 社會民主主義
+    zh_hk: 社會民主主義
+    zh_sg: 社会民主主义
+    zh_tw: 社會民主主義
 ---
 # [[Social_Democracy]] 
 

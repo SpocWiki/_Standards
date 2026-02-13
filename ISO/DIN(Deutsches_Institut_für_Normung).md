@@ -80,7 +80,7 @@ dv_has_:
   name_:
     ar: المعهد الألماني للتوحيد القياسي
     ast: DIN
-    be-tarask: Нямецкі інстытут па стандартызацыі
+    be_tarask: Нямецкі інстытут па стандартызацыі
     bg: Германски институт за стандартизация
     bs: Deutsches Institut für Normung
     ca: Deutsches Institut für Normung
@@ -88,7 +88,7 @@ dv_has_:
     da: Deutsches Institut für Normung
     de: Deutsches Institut für Normung
     en: Deutsches Institut für Normung
-    en-gb: Deutsches Institut für Normung
+    en_gb: Deutsches Institut für Normung
     eo: Germana Instituto por Normigo
     es: Deutsches Institut für Normung
     et: Saksa Standardiinstituut
@@ -117,21 +117,21 @@ dv_has_:
     sk: Deutsches Institut für Normung
     sl: Nemški inštitut za standardizacijo
     sr: DIN
-    sr-ec: Deutsches Institut für Normung
-    sr-el: DIN
+    sr_ec: Deutsches Institut für Normung
+    sr_el: DIN
     sv: Deutsches Institut für Normung
     tr: Alman Standartlar Enstitüsü
     tt: DIN
-    tt-cyrl: DIN
+    tt_cyrl: DIN
     uk: DIN
     vi: Viện Tiêu chuẩn Đức
     zh: 德国标准化学会
-    zh-cn: 德国标准化学会
-    zh-hans: 德国标准化学会
-    zh-hant: 德國標準化學會
-    zh-hk: 德國標準化學會
-    zh-sg: 德国标准化学会
-    zh-tw: 德國標準化學會
+    zh_cn: 德国标准化学会
+    zh_hans: 德国标准化学会
+    zh_hant: 德國標準化學會
+    zh_hk: 德國標準化學會
+    zh_sg: 德国标准化学会
+    zh_tw: 德國標準化學會
 ---
 # [[DIN(Deutsches_Institut_für_Normung)]] 
 

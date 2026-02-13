@@ -92,7 +92,7 @@ dv_has_:
   name_:
     ar: مختزل
     be: адноўнік
-    be-tarask: адноўнік
+    be_tarask: адноўнік
     bg: Химичен редуктор
     bn: বিজারক
     bs: Reducens
@@ -137,8 +137,8 @@ dv_has_:
     sk: Redukčné činidlo
     sl: reducent
     sr: Redukujući agens
-    sr-ec: Редукујући агенс
-    sr-el: Redukujući agens
+    sr_ec: Редукујући агенс
+    sr_el: Redukujući agens
     sv: reduktionsmedel
     ta: ஒடுக்கி
     th: ตัวรีดิวซ์
@@ -148,12 +148,12 @@ dv_has_:
     ur: تخفیفی عامل
     vi: Chất khử
     zh: 还原剂
-    zh-cn: 还原剂
-    zh-hans: 还原剂
-    zh-hant: 還原劑
-    zh-hk: 還原劑
-    zh-sg: 还原剂
-    zh-tw: 還原劑
+    zh_cn: 还原剂
+    zh_hans: 还原剂
+    zh_hant: 還原劑
+    zh_hk: 還原劑
+    zh_sg: 还原剂
+    zh_tw: 還原劑
 ---
 # [[Reducing_Agent]] 
 

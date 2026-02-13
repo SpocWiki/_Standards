@@ -284,7 +284,7 @@ dv_has_:
     az: Vilyam Törner
     ba: Уильям Тёрнер
     be: Уільям Цёрнер
-    be-tarask: Ўільям Тэрнэр
+    be_tarask: Ўільям Тэрнэр
     bg: Джоузеф Търнър
     br: Joseph Mallord William Turner
     ca: Joseph Mallord William Turner
@@ -293,11 +293,11 @@ dv_has_:
     cy: Joseph Mallord William Turner
     da: J.M.W. Turner
     de: William Turner
-    de-ch: William Turner
+    de_ch: William Turner
     el: Τζόζεφ Μάλλορντ Ουίλλιαμ Τέρνερ
     en: J. M. W. Turner
-    en-ca: J. M. W. Turner
-    en-gb: J. M. W. Turner
+    en_ca: J. M. W. Turner
+    en_gb: J. M. W. Turner
     eo: Joseph Mallord William Turner
     es: Joseph Mallord William Turner
     et: J. M. W. Turner
@@ -342,7 +342,7 @@ dv_has_:
     pms: William Turner
     pnb: ولیم ٹرنر
     pt: William Turner
-    pt-br: William Turner
+    pt_br: William Turner
     ro: Joseph Mallord William Turner
     ru: Уильям Тёрнер
     sc: William Turner
@@ -351,8 +351,8 @@ dv_has_:
     sl: Joseph Mallord William Turner
     sq: A. J. M. W. Turner
     sr: Вилијам Тарнер
-    sr-ec: Вилијам Тарнер
-    sr-el: Vilijam Tarner
+    sr_ec: Вилијам Тарнер
+    sr_el: Vilijam Tarner
     stq: Joseph Mallord William Turner
     sv: William Turner
     th: วิลเลียม เทอร์เนอร์
@@ -364,12 +364,12 @@ dv_has_:
     wuu: 约瑟夫·马洛德·威廉·透纳
     yue: 透拿
     zh: 约瑟夫·马洛德·威廉·透纳
-    zh-cn: 约瑟夫·马洛德·威廉·透纳
-    zh-hans: 约瑟夫·马洛德·威廉·透纳
-    zh-hant: 约瑟夫·馬洛德·威廉·透納
-    zh-hk: 约瑟夫·馬洛德·威廉·透納
-    zh-sg: 约瑟夫·马洛德·威廉·透纳
-    zh-tw: 约瑟夫·馬洛德·威廉·透納
+    zh_cn: 约瑟夫·马洛德·威廉·透纳
+    zh_hans: 约瑟夫·马洛德·威廉·透纳
+    zh_hant: 约瑟夫·馬洛德·威廉·透納
+    zh_hk: 约瑟夫·馬洛德·威廉·透納
+    zh_sg: 约瑟夫·马洛德·威廉·透纳
+    zh_tw: 约瑟夫·馬洛德·威廉·透納
 ---
 # [[Turner,J.M.W.]] 
 

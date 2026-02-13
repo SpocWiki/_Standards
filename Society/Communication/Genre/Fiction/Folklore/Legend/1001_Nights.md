@@ -217,7 +217,7 @@ dv_has_:
     azb: مین بیر گئجه
     ba: Мең дә бер кисә
     be: Тысяча і адна ноч
-    be-tarask: Тысяча і адна ноч
+    be_tarask: Тысяча і адна ноч
     bg: Хиляда и една нощ
     bn: আরব্য রজনী
     br: Ar mil nozvezh hag unan
@@ -233,8 +233,8 @@ dv_has_:
     de: Tausendundeine Nacht
     el: Χίλιες και μια νύχτες
     en: One Thousand and One Nights
-    en-ca: One Thousand and One Nights
-    en-gb: One Thousand and One Nights
+    en_ca: One Thousand and One Nights
+    en_gb: One Thousand and One Nights
     eo: Mil kaj unu noktoj
     es: Las mil y una noches
     et: Tuhat ja üks ööd
@@ -291,7 +291,7 @@ dv_has_:
     nan: 1001 Mî
     nb: Tusen og én natt
     nds: Dusendunene Nacht
-    nds-nl: Duzend-en-iene-nacht
+    nds_nl: Duzend-en-iene-nacht
     ne: अलफ लैला
     new: द बूक अफ वन थाउजेन्ड एण्ड वन नाइट्स्
     nl: Duizend-en-één-nacht
@@ -304,7 +304,7 @@ dv_has_:
     pnb: الف لیلہ
     ps: یو زر او یوه شپه
     pt: As Mil e uma Noites
-    pt-br: As Mil e uma Noites
+    pt_br: As Mil e uma Noites
     pwn: maka kuzulj sa italj a siniuljayan
     ro: O mie și una de nopți
     ru: Тысяча и одна ночь
@@ -331,7 +331,7 @@ dv_has_:
     tok: lipu "tenpo pimeja luka luka ale wan"
     tr: Binbir Gece Masalları
     tt: Мең дә бер кичә
-    tt-cyrl: Мең дә бер кичә
+    tt_cyrl: Мең дә бер кичә
     udm: Сюрс но одӥг уй
     uk: Тисяча і одна ніч
     ur: الف لیلہ
@@ -345,14 +345,14 @@ dv_has_:
     yue: 天方夜談
     zgh: ⵉⴼⴹ ⵏ ⵡⴰⴹⴰⵏ ⴷ ⵢⴰⵏ ⵢⵉⴹ
     zh: 一千零一夜
-    zh-cn: 一千零一夜
-    zh-hans: 一千零一夜
-    zh-hant: 一千零一夜
-    zh-hk: 一千零一夜
-    zh-mo: 一千零一夜
+    zh_cn: 一千零一夜
+    zh_hans: 一千零一夜
+    zh_hant: 一千零一夜
+    zh_hk: 一千零一夜
+    zh_mo: 一千零一夜
     zh-my: 一千零一夜
-    zh-sg: 一千零一夜
-    zh-tw: 一千零一夜
+    zh_sg: 一千零一夜
+    zh_tw: 一千零一夜
 ---
 # [[1001_Nights]] 
 

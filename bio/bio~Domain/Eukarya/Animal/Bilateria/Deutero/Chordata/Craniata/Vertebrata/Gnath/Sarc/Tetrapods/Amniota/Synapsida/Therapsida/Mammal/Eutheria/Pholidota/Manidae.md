@@ -69,7 +69,7 @@ dv_has_:
     oc: Manidae
     pl: Łuskowcowate
     pt: Manidae
-    pt-br: Manidae
+    pt_br: Manidae
     ro: Manidae
     ru: Manidae
     sl: Manidae
@@ -84,8 +84,8 @@ dv_has_:
     wa: Pangolin
     war: Manidae
     zh: 穿山甲科
-    zh-cn: 穿山甲科
-    zh-tw: 穿山甲科
+    zh_cn: 穿山甲科
+    zh_tw: 穿山甲科
 ---
 # [[Manidae]] 
 

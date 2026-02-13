@@ -38,13 +38,13 @@ dv_has_:
   name_:
     ar: كيسة
     ba: Циста
-    be-tarask: цыста
+    be_tarask: цыста
     ca: quist microbià
     cs: Cysta (stádium)
     de: Zyste
     en: microbial cyst
-    en-ca: Microbial cyst
-    en-gb: Microbial cyst
+    en_ca: Microbial cyst
+    en_gb: Microbial cyst
     en-us: microbial cyst
     eo: kisto (biologio)
     es: quiste
@@ -63,19 +63,19 @@ dv_has_:
     nl: cyste
     pl: cysta
     pt: quisto
-    pt-br: Quisto
+    pt_br: Quisto
     ru: циста
     sl: Cista (biologija)
     sr: Циста (биологија)
-    sr-ec: циста
+    sr_ec: циста
     sv: Cysta
     ta: நுண்ணுயிர் காப்புக்கூடு
     tr: mikrobiyal kist
     uk: циста
     yue: 微生物囊
     zh: 微生物囊腫
-    zh-cn: 微生物囊肿
-    zh-hant: 微生物囊腫
+    zh_cn: 微生物囊肿
+    zh_hant: 微生物囊腫
 ---
 # [[Microbial_Cyst]] 
 

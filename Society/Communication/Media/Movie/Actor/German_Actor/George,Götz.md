@@ -24,12 +24,12 @@ dv_has_:
     cs: Götz George
     da: Götz George
     de: Götz George
-    de-ch: Götz George
+    de_ch: Götz George
     dsb: Götz George
     el: Γκετς Γκεόργκε
     en: Götz George
-    en-ca: Götz George
-    en-gb: Götz George
+    en_ca: Götz George
+    en_gb: Götz George
     eo: Götz George
     es: Götz George
     fa: گوتز جرج
@@ -50,7 +50,7 @@ dv_has_:
     oc: Götz George
     pl: Götz George
     pt: Götz George
-    pt-br: Götz George
+    pt_br: Götz George
     ro: Götz George
     ru: Гёц Георге
     sk: Götz George
@@ -61,9 +61,9 @@ dv_has_:
     uk: Ґец Ґеорґе
     vo: Götz George
     zh: 格茨·格奥尔格
-    zh-cn: 格茨·格奥尔格
-    zh-hans: 格茨·格奥尔格
-    zh-hant: 高茲·喬治
+    zh_cn: 格茨·格奥尔格
+    zh_hans: 格茨·格奥尔格
+    zh_hant: 高茲·喬治
 ---
 # [[George,Götz]] 
 

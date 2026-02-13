@@ -41,9 +41,9 @@ dv_has_:
     sl: izrek o fluktuaciji in disipaciji
     uk: Флуктуативно-дисипативна теорема
     zh: 漲落耗散定律
-    zh-cn: 涨落耗散定理
-    zh-hans: 涨落耗散定理
-    zh-hant: 漲落耗散定理
+    zh_cn: 涨落耗散定理
+    zh_hans: 涨落耗散定理
+    zh_hant: 漲落耗散定理
 ---
 # [[Fluctuation–Dissipation_Theorem]] 
 

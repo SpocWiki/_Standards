@@ -208,7 +208,7 @@ dv_has_:
     ast: Enfermedá pol virus del Ébola
     az: Ebola virusu xəstəliyi
     be: Гемарагічная ліхаманка Эбола
-    be-tarask: гемарагічная ліхаманка Эбола
+    be_tarask: гемарагічная ліхаманка Эбола
     bg: Ебола
     bm: Ebola virisi bana
     bn: ইবোলা ভাইরাসজনিত রোগ
@@ -279,7 +279,7 @@ dv_has_:
     my: အီဗိုလာ ဗိုင်းရပ်စ်
     nan: Ebola
     nb: ebola
-    nds-nl: ebola
+    nds_nl: ebola
     ne: इबोला
     nl: ebola
     nn: ebolavirussjukdom
@@ -313,8 +313,8 @@ dv_has_:
     sn: Chirwere cheEbola
     so: Cudurka Ebola
     sr: ебола
-    sr-ec: ебола
-    sr-el: ebola
+    sr_ec: ебола
+    sr_el: ebola
     ss: Ligciwane lesifo se-Ebola
     st: Boloetse ba kokwanahloko ya Ebola
     su: Panyakit virus ébola
@@ -346,10 +346,10 @@ dv_has_:
     yo: Àrùn kòkòrò àìlèfojúrí afàìsàn Ebola
     yue: 伊波拉
     zh: 埃博拉出血热
-    zh-hans: 埃博拉出血热
-    zh-hant: 伊波拉出血熱
-    zh-hk: 伊波拉出血熱
-    zh-tw: 伊波拉出血熱
+    zh_hans: 埃博拉出血热
+    zh_hant: 伊波拉出血熱
+    zh_hk: 伊波拉出血熱
+    zh_tw: 伊波拉出血熱
     zu: Isifo segciwane le-Ebola
 ---
 # [[Ebola_hemorrhagic_Fever]] 

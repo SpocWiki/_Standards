@@ -57,7 +57,7 @@ dv_has_:
   name_:
     ar: الحقوق الأساسية
     az: Əsas hüquq və azadlıqlar
-    be-tarask: фундамэнтальныя правы
+    be_tarask: фундамэнтальныя правы
     bho: मूल अधिकार
     bn: মৌলিক অধিকার
     ca: drets fonamentals
@@ -103,14 +103,14 @@ dv_has_:
     tr: temel haklar
     uk: основні права і свободи
     zh: 基本權利
-    zh-cn: 基本权利
-    zh-hans: 基本权利
-    zh-hant: 基本權利
-    zh-hk: 基本權利
-    zh-mo: 基本權利
+    zh_cn: 基本权利
+    zh_hans: 基本权利
+    zh_hant: 基本權利
+    zh_hk: 基本權利
+    zh_mo: 基本權利
     zh-my: 基本权利
-    zh-sg: 基本权利
-    zh-tw: 基本權利
+    zh_sg: 基本权利
+    zh_tw: 基本權利
 ---
 # [[Fundamental_Right]] 
 

@@ -57,7 +57,7 @@ dv_has_:
     az: Yakudza
     ba: Якудза
     be: Якудза
-    be-tarask: Якудза
+    be_tarask: Якудза
     bg: Якудза
     bn: ইয়াকুজা
     br: Yakuza
@@ -105,8 +105,8 @@ dv_has_:
     sl: jakuza
     sq: Yakuza
     sr: Јакузе
-    sr-ec: јакузе
-    sr-el: jakuze
+    sr_ec: јакузе
+    sr_el: jakuze
     su: Yakuza
     sv: yakuza
     ta: யக்கூசா
@@ -121,12 +121,12 @@ dv_has_:
     xmf: იაკუძა
     yue: 極道
     zh: 雅庫扎
-    zh-cn: 雅库扎
-    zh-hans: 雅库扎
-    zh-hant: 極道
-    zh-hk: 極道
-    zh-sg: 极道
-    zh-tw: 極道
+    zh_cn: 雅库扎
+    zh_hans: 雅库扎
+    zh_hant: 極道
+    zh_hk: 極道
+    zh_sg: 极道
+    zh_tw: 極道
 ---
 # [[Yakuza]]  
 

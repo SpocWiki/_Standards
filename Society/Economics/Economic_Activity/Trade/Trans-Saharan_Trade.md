@@ -57,7 +57,7 @@ dv_has_:
     ar: التجارة عبر الصحراء الكبرى
     ast: Comerciu transahariano
     az: Transsəhra ticarət yolu
-    be-tarask: Транссахарскі гандаль
+    be_tarask: Транссахарскі гандаль
     bg: Транссахарска търговия
     bm: Sahara-cɛla jago
     ca: comerç transsaharià
@@ -101,12 +101,12 @@ dv_has_:
     wo: l'apogéé
     wuu: 跨撒哈拉贸易
     zh: 跨撒哈拉贸易
-    zh-cn: 跨撒哈拉贸易
-    zh-hans: 跨撒哈拉贸易
-    zh-hant: 跨撒哈拉貿易
-    zh-hk: 跨撒哈拉貿易
-    zh-sg: 跨撒哈拉贸易
-    zh-tw: 跨撒哈拉貿易
+    zh_cn: 跨撒哈拉贸易
+    zh_hans: 跨撒哈拉贸易
+    zh_hant: 跨撒哈拉貿易
+    zh_hk: 跨撒哈拉貿易
+    zh_sg: 跨撒哈拉贸易
+    zh_tw: 跨撒哈拉貿易
 ---
 # [[Trans-Saharan_Trade]] 
 

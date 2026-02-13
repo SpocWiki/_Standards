@@ -61,7 +61,7 @@ dv_has_:
   name_:
     ar: دالة غامرة
     be: сюр'екцыя
-    be-tarask: сюр’екцыйная функцыя
+    be_tarask: сюр’екцыйная функцыя
     bg: Сюрекция
     bn: সার্বিক ফাংশন
     bs: Surjektivna funkcija
@@ -106,8 +106,8 @@ dv_has_:
     sk: surjektívne zobrazenie
     sl: surjektivna preslikava
     sr: Сурјективно пресликавање
-    sr-ec: Сурјективно пресликавање
-    sr-el: Surjektivno preslikavanje
+    sr_ec: Сурјективно пресликавање
+    sr_el: Surjektivno preslikavanje
     sv: surjektiv funktion
     szl: Surjekcyjo
     ta: முழுக்கோப்பு
@@ -117,12 +117,12 @@ dv_has_:
     vi: Toàn ánh
     yue: 滿射函數
     zh: 满射
-    zh-cn: 满射
-    zh-hans: 满射
-    zh-hant: 滿射
-    zh-hk: 滿射
-    zh-sg: 满射
-    zh-tw: 滿射
+    zh_cn: 满射
+    zh_hans: 满射
+    zh_hant: 滿射
+    zh_hk: 滿射
+    zh_sg: 满射
+    zh_tw: 滿射
 ---
 #is_/same_as :: [[Epimorphism]]
 

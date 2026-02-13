@@ -254,7 +254,7 @@ dv_has_:
     bar: Ilias
     bcl: Iliada
     be: Іліяда
-    be-tarask: Іліяда
+    be_tarask: Іліяда
     bg: Илиада
     bn: ইলিয়াড
     bo: ཨེ་ལི་ཡེ་ཏེ།
@@ -271,12 +271,12 @@ dv_has_:
     cy: Iliad
     da: Iliaden
     de: Ilias
-    de-ch: Ilias
+    de_ch: Ilias
     diq: İliyad
     el: Ιλιάδα
     en: Iliad
-    en-ca: Iliad
-    en-gb: Iliad
+    en_ca: Iliad
+    en_gb: Iliad
     eo: Iliado
     es: Ilíada
     et: Ilias
@@ -329,7 +329,7 @@ dv_has_:
     lmo: Iliad
     lt: Iliada
     lv: Iliāda
-    map-bms: Iliad
+    map_bms: Iliad
     mk: Илијада
     ml: ഇലിയഡ്
     mn: Илиада
@@ -355,7 +355,7 @@ dv_has_:
     pnb: الیاد
     ps: ایلیاد
     pt: Ilíada
-    pt-br: Ilíada
+    pt_br: Ilíada
     pwn: iliyad
     qu: Iliada
     ro: Iliada
@@ -393,14 +393,14 @@ dv_has_:
     yi: איליאדע
     yue: 伊利亞德
     zh: 伊利亚特
-    zh-cn: 伊利亚特
-    zh-hans: 伊利亚特
-    zh-hant: 伊利亞德
-    zh-hk: 伊利亞德
-    zh-mo: 伊利亚特
+    zh_cn: 伊利亚特
+    zh_hans: 伊利亚特
+    zh_hant: 伊利亞德
+    zh_hk: 伊利亞德
+    zh_mo: 伊利亚特
     zh-my: 伊利亚特
-    zh-sg: 伊利亚特
-    zh-tw: 伊利亞德
+    zh_sg: 伊利亚特
+    zh_tw: 伊利亞德
 ---
 # [[Iliad]]
 

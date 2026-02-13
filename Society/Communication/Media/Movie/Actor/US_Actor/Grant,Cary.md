@@ -116,7 +116,7 @@ dv_has_:
     ba: Кэри Грант
     bcl: Cary Grant
     be: Кэры Грант
-    be-tarask: Кэры Грант
+    be_tarask: Кэры Грант
     bg: Кари Грант
     bi: Cary Grant
     bn: ক্যারি গ্র্যান্ট
@@ -128,11 +128,11 @@ dv_has_:
     cy: Cary Grant
     da: Cary Grant
     de: Cary Grant
-    de-ch: Cary Grant
+    de_ch: Cary Grant
     el: Κάρι Γκραντ
     en: Cary Grant
-    en-ca: Cary Grant
-    en-gb: Cary Grant
+    en_ca: Cary Grant
+    en_gb: Cary Grant
     eo: Cary Grant
     es: Cary Grant
     et: Cary Grant
@@ -177,7 +177,7 @@ dv_has_:
     pap: Cary Grant
     pl: Cary Grant
     pt: Cary Grant
-    pt-br: Cary Grant
+    pt_br: Cary Grant
     qu: Cary Grant
     ro: Cary Grant
     ru: Кэри Грант
@@ -202,11 +202,11 @@ dv_has_:
     yo: Cary Grant
     yue: 加利格蘭
     zh: 加里·格兰特
-    zh-hant: 卡萊·葛倫
-    zh-hk: 加利·格蘭
+    zh_hant: 卡萊·葛倫
+    zh_hk: 加利·格蘭
     zh-my: 加利·格兰
-    zh-sg: 加利·格兰
-    zh-tw: 卡萊·葛倫
+    zh_sg: 加利·格兰
+    zh_tw: 卡萊·葛倫
 ---
 # [[Grant,Cary]] 
 

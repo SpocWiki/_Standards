@@ -198,7 +198,7 @@ dv_has_:
     az: Formaldehid
     azb: فرمالدهید
     be: фармальдэгід
-    be-tarask: фармальдэгід
+    be_tarask: фармальдэгід
     bg: Формалдехид
     bn: ফরমালিন
     bs: Formaldehid
@@ -208,8 +208,8 @@ dv_has_:
     de: Formaldehyd
     el: φορμαλδεΰδη
     en: formaldehyde
-    en-ca: formaldehyde
-    en-gb: formaldehyde
+    en_ca: formaldehyde
+    en_gb: formaldehyde
     eo: formaldehido
     es: formaldehído
     et: Metanaal
@@ -233,11 +233,11 @@ dv_has_:
     jv: Formaldehida
     ka: ფორმალდეჰიდი
     kk: Формальдегид
-    kk-arab: فورمالدەگىيد
+    kk_arab: فورمالدەگىيد
     kk-cn: فورمالدەگىيد
-    kk-cyrl: Формальдегид
+    kk_cyrl: Формальдегид
     kk-kz: Формальдегид
-    kk-latn: Formalʹdegïd
+    kk_latn: Formalʹdegïd
     kk-tr: formalʹdegïd
     ko: 폼알데하이드
     ky: Формальдегид
@@ -254,7 +254,7 @@ dv_has_:
     nn: formaldehyd
     pl: formaldehyd
     pt: metanal
-    pt-br: metanal
+    pt_br: metanal
     ro: Formaldehidă
     ru: формальдегид
     sco: formaldehyde
@@ -262,8 +262,8 @@ dv_has_:
     sk: formaldehyd
     sl: formaldehid
     sr: формалдехид
-    sr-ec: Формалдехид
-    sr-el: Formaldehid
+    sr_ec: Формалдехид
+    sr_el: Formaldehid
     su: Formaldehida
     sv: Formaldehyd
     ta: பார்மால்டிகைடு
@@ -278,12 +278,12 @@ dv_has_:
     wuu: 甲醛
     yue: 福爾馬林
     zh: 甲醛
-    zh-cn: 甲醛
-    zh-hans: 甲醛
-    zh-hant: 甲醛
-    zh-hk: 甲醛
-    zh-sg: 甲醛
-    zh-tw: 甲醛
+    zh_cn: 甲醛
+    zh_hans: 甲醛
+    zh_hant: 甲醛
+    zh_hk: 甲醛
+    zh_sg: 甲醛
+    zh_tw: 甲醛
 ---
 # [[Formaldehyde]] 
 

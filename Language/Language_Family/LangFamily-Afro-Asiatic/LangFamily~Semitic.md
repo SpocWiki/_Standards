@@ -170,7 +170,7 @@ dv_has_:
     ba: Семит телдәре
     bar: semitische Sprochn
     be: семіцкія мовы
-    be-tarask: сэміцкія мовы
+    be_tarask: сэміцкія мовы
     bg: Семитски езици
     bjn: Bahasa Semitik
     bn: সেমিটীয় ভাষাসমূহ
@@ -266,8 +266,8 @@ dv_has_:
     so: Luqadaha Semitiga
     sq: Gjuhët semitike
     sr: семитски језици
-    sr-ec: семитски језици
-    sr-el: semitski jezici
+    sr_ec: семитски језици
+    sr_el: semitski jezici
     stq: Semitiske Sproaken
     sv: semitiska språk
     sw: Lugha za Kisemiti
@@ -292,7 +292,7 @@ dv_has_:
     yue: 閃語族
     zgh: ⵜⵓⵜⵍⴰⵢⵉⵏ ⵜⵉⵙⴰⵎⵉⵢⵉⵏ
     zh: 闪米特语族
-    zh-hant: 閃語族
+    zh_hant: 閃語族
 ---
 # [[LangFamily~Semitic]] 
 

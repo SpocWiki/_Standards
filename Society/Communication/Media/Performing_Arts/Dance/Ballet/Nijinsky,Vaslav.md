@@ -101,18 +101,18 @@ dv_has_:
     ast: Vaslav Nijinsky
     ba: Нижинский Вацлав Фомич
     be: Вацлаў Фаміч Ніжынскі
-    be-tarask: Вацлаў Ніжынскі
+    be_tarask: Вацлаў Ніжынскі
     bg: Вацлав Нижински
     ca: Vàtslav Nijinski
     cs: Vaslav Nijinsky
     cv: Нижинский Вацлав Фомич
     da: Vatslav Nisjinskij
     de: Vaslav Nijinsky
-    de-ch: Vaslav Nijinsky
+    de_ch: Vaslav Nijinsky
     el: Βάτσλαφ Νιζίνκσκι
     en: Vaslav Nijinsky
-    en-ca: Vaslav Nijinsky
-    en-gb: Vaslav Nijinsky
+    en_ca: Vaslav Nijinsky
+    en_gb: Vaslav Nijinsky
     eo: Wacław Niżyński
     es: Vaslav Nijinsky
     et: Wacław Niżyński
@@ -131,11 +131,11 @@ dv_has_:
     it: Vaclav Fomič Nižinskij
     ja: ヴァーツラフ・ニジンスキー
     kk: Нижинский Вацлав
-    kk-arab: نىيجىينسكىيي ۆاتسلاۆ
+    kk_arab: نىيجىينسكىيي ۆاتسلاۆ
     kk-cn: نىيجىينسكىيي ۆاتسلاۆ
-    kk-cyrl: Нижинский Вацлав
+    kk_cyrl: Нижинский Вацлав
     kk-kz: Нижинский Вацлав
-    kk-latn: Nïjïnskïý Vaclav
+    kk_latn: Nïjïnskïý Vaclav
     kk-tr: Nïjïnskïý Vaclav
     ko: 바슬라프 니진스키
     la: Venceslaus Nijinsky
@@ -149,15 +149,15 @@ dv_has_:
     pl: Wacław Niżyński
     pms: Vaslav Nijinski
     pt: Vaslav Nijinski
-    pt-br: Vaslav Nijinski
+    pt_br: Vaslav Nijinski
     ro: Vaslav Nijinsky
     ru: Нижинский, Вацлав Фомич
     sh: Vaclav Nižinski
     sl: Vaclav Nižinski
     sq: Vaslav Nijinsky
     sr: Вацлав Нижински
-    sr-ec: Вацлав Нижински
-    sr-el: Vaclav Nižinski
+    sr_ec: Вацлав Нижински
+    sr_el: Vaclav Nižinski
     sv: Wacław Niżyński
     tl: Vaslav Nijinsky
     tr: Vaclav Nijinski
@@ -167,12 +167,12 @@ dv_has_:
     wuu: 瓦斯拉夫·弗米契·尼金斯基
     yue: 華斯拉夫尼金斯基
     zh: 瓦斯拉夫·弗米契·尼金斯基
-    zh-cn: 瓦斯拉夫·弗米契·尼金斯基
-    zh-hans: 瓦斯拉夫·弗米契·尼金斯基
-    zh-hant: 瓦斯拉夫·弗米契·尼金斯基
-    zh-hk: 瓦斯拉夫·弗米契·尼金斯基
-    zh-sg: 瓦斯拉夫·弗米契·尼金斯基
-    zh-tw: 瓦斯拉夫·弗米契·尼金斯基
+    zh_cn: 瓦斯拉夫·弗米契·尼金斯基
+    zh_hans: 瓦斯拉夫·弗米契·尼金斯基
+    zh_hant: 瓦斯拉夫·弗米契·尼金斯基
+    zh_hk: 瓦斯拉夫·弗米契·尼金斯基
+    zh_sg: 瓦斯拉夫·弗米契·尼金斯基
+    zh_tw: 瓦斯拉夫·弗米契·尼金斯基
 ---
 # [[Nijinsky,Vaslav]] 
 

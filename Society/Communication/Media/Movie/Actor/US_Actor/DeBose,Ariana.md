@@ -60,7 +60,7 @@ dv_has_:
     pap: Ariana DeBose
     pl: Ariana DeBose
     pt: Ariana DeBose
-    pt-br: Ariana DeBose
+    pt_br: Ariana DeBose
     ru: Ариана Дебос
     skr: آریانا ڈی بوس
     sl: Ariana DeBose
@@ -74,8 +74,8 @@ dv_has_:
     uz: Ariana DeBose
     yo: Ariana DeBose
     zh: 阿里安娜·德博斯
-    zh-cn: 阿里安娜·德博斯
-    zh-hans: 阿里安娜·德博斯
+    zh_cn: 阿里安娜·德博斯
+    zh_hans: 阿里安娜·德博斯
 ---
 ## #has_/text_of_/abstract 
 

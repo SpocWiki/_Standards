@@ -145,7 +145,7 @@ dv_has_:
     ast: Peter Behrens
     ba: Петер Беренс
     be: Петэр Берэнс
-    be-tarask: Пэтэр Бэрэнс
+    be_tarask: Пэтэр Бэрэнс
     bg: Петер Беренс
     ca: Peter Behrens
     cs: Peter Behrens
@@ -155,8 +155,8 @@ dv_has_:
     de-at: Peter Behrens
     el: Πέτερ Μπέρενς
     en: Peter Behrens
-    en-ca: Peter Behrens
-    en-gb: Peter Behrens
+    en_ca: Peter Behrens
+    en_gb: Peter Behrens
     eo: Peter Behrens
     es: Peter Behrens
     eu: Peter Behrens
@@ -186,7 +186,7 @@ dv_has_:
     oc: Peter Behrens
     pl: Peter Behrens
     pt: Peter Behrens
-    pt-br: Peter Behrens
+    pt_br: Peter Behrens
     ro: Peter Behrens
     ru: Петер Беренс
     sc: Peter Behrens
@@ -196,7 +196,7 @@ dv_has_:
     sl: Peter Behrens
     sq: Peter Behrens
     sr: Петер Беренс
-    sr-ec: Петер Беренс
+    sr_ec: Петер Беренс
     sv: Peter Behrens
     th: เพเทอร์ เบเรินส์
     tr: Peter Behrens

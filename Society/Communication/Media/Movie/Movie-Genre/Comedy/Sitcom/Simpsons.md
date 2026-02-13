@@ -338,7 +338,7 @@ dv_has_:
     bar: Die Simpsons
     bcl: The Simpsons
     be: Сімпсаны
-    be-tarask: Сымпсаны
+    be_tarask: Сымпсаны
     bew: The Simpsons
     bg: Семейство Симпсън
     bho: द सिम्पसन्स
@@ -356,13 +356,13 @@ dv_has_:
     da: The Simpsons
     dag: The Simpsons
     de: Die Simpsons
-    de-ch: Die Simpsons
+    de_ch: Die Simpsons
     diq: The Simpsons
     el: Οι Σίμσονς
     eml: The Simpsons
     en: The Simpsons
-    en-ca: The Simpsons
-    en-gb: The Simpsons
+    en_ca: The Simpsons
+    en_gb: The Simpsons
     en-us: The Simpsons
     eo: La Simpsonoj
     es: Los Simpson
@@ -444,7 +444,7 @@ dv_has_:
     nah: The Simpsons
     nan: The Simpsons
     nb: Simpsons
-    nds-nl: The Simpsons
+    nds_nl: The Simpsons
     ne: द सिम्प्सन्स
     new: द सिम्प्सन् स्
     nl: The Simpsons
@@ -461,7 +461,7 @@ dv_has_:
     pnt: Σιμπσωνς
     ps: سمپسنز
     pt: Os Simpsons
-    pt-br: Os Simpsons
+    pt_br: Os Simpsons
     qu: Nos Simpsons
     rmc: The Simpsons
     ro: Familia Simpson
@@ -492,7 +492,7 @@ dv_has_:
     tl: The Simpsons
     tr: Simpsonlar
     tt: Симпсоннар
-    tt-cyrl: Симпсоннар
+    tt_cyrl: Симпсоннар
     udm: Симпсонъёс
     ug: سىمپسون ئائىلىسى
     uk: Сімпсони
@@ -513,14 +513,14 @@ dv_has_:
     za: The Simpsons
     zgh: ⴷⴰ ⵙⵉⵎⴱⵙⵓⵏⵣ
     zh: 辛普森一家
-    zh-cn: 辛普森一家
-    zh-hans: 辛普森一家
-    zh-hant: 辛普森家庭
-    zh-hk: 阿森一族
-    zh-mo: 阿森一族
+    zh_cn: 辛普森一家
+    zh_hans: 辛普森一家
+    zh_hant: 辛普森家庭
+    zh_hk: 阿森一族
+    zh_mo: 阿森一族
     zh-my: 辛普森家庭
-    zh-sg: 阿森一族
-    zh-tw: 辛普森家庭
+    zh_sg: 阿森一族
+    zh_tw: 辛普森家庭
     zu: AmaSimpson
 ---
 # [[Simpsons]]  

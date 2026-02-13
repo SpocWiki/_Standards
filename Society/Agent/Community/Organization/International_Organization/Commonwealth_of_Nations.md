@@ -208,7 +208,7 @@ dv_has_:
     ba: Милләттәр Берләшмәһе
     bar: Commonwealth
     be: Садружнасць нацый
-    be-tarask: Садружнасьць нацыяў
+    be_tarask: Садружнасьць нацыяў
     bg: Общност на нациите
     bn: কমনওয়েলথ অব নেশনস
     br: Kenglad ar Broadoù
@@ -228,8 +228,8 @@ dv_has_:
     dsb: Commonwealth
     el: Κοινοπολιτεία των Εθνών
     en: Commonwealth of Nations
-    en-ca: Commonwealth of Nations
-    en-gb: Commonwealth of Nations
+    en_ca: Commonwealth of Nations
+    en_gb: Commonwealth of Nations
     en-us: Commonwealth of Nations
     eo: Komunumo de Nacioj
     es: Mancomunidad de Naciones
@@ -286,7 +286,7 @@ dv_has_:
     mn: Үндэстнүүдийн Хамтын Нөхөрлөл
     mr: राष्ट्रकुल परिषद
     ms: Negara-Negara Komanwel
-    ms-arab: نݢارا٢ کومنويل
+    ms_arab: نݢارا٢ کومنويل
     mt: Commonwealth tan-Nazzjonijiet
     my: ဓနသဟာယနိုင်ငံများအဖွဲ့
     mzn: مشترکالمنافع کشورون اتحادیه
@@ -310,7 +310,7 @@ dv_has_:
     pnb: کامنویلتھ آف نیشنز
     ps: ګډو ګټو لرونکي دولتونه
     pt: Commonwealth
-    pt-br: Commonwealth
+    pt_br: Commonwealth
     ro: Commonwealth
     ru: Содружество наций
     rue: Сполоченство Націй
@@ -355,14 +355,14 @@ dv_has_:
     za: Yinghlenzbangh
     zea: Gemenebest van Naties
     zh: 英联邦
-    zh-cn: 英联邦
-    zh-hans: 英联邦
-    zh-hant: 大英國協
-    zh-hk: 英聯邦
-    zh-mo: 英聯邦
+    zh_cn: 英联邦
+    zh_hans: 英联邦
+    zh_hant: 大英國協
+    zh_hk: 英聯邦
+    zh_mo: 英聯邦
     zh-my: 共和联邦
-    zh-sg: 共和联邦
-    zh-tw: 大英國協
+    zh_sg: 共和联邦
+    zh_tw: 大英國協
 ---
 # [[Commonwealth_of_Nations]] 
 

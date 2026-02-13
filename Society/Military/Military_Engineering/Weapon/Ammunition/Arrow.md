@@ -150,7 +150,7 @@ dv_has_:
     azb: اوخ(سیلاح)
     ba: Уҡ
     be: страла
-    be-tarask: страла
+    be_tarask: страла
     bg: Стрела
     br: saezh
     bs: Strijela
@@ -232,7 +232,7 @@ dv_has_:
     pnb: تیر
     ps: غشی
     pt: flecha
-    pt-br: flecha
+    pt_br: flecha
     qu: Wach'i
     ro: săgeată
     ru: стрела
@@ -268,10 +268,10 @@ dv_has_:
     yue: 箭
     za: Naq
     zh: 箭
-    zh-cn: 箭
-    zh-hans: 箭
-    zh-hant: 箭
-    zh-tw: 箭
+    zh_cn: 箭
+    zh_hans: 箭
+    zh_hant: 箭
+    zh_tw: 箭
     zu: Umcibisholo
 ---
 # [[Arrow]] 

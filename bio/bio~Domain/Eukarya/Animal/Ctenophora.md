@@ -137,7 +137,7 @@ dv_has_:
     pa: ਟੀਨੋਫੋਰਾ
     pl: żebropławy
     pt: Ctenophora
-    pt-br: Ctenophora
+    pt_br: Ctenophora
     ro: Ctenophora
     ru: гребневики
     sco: Ctenophora
@@ -146,8 +146,8 @@ dv_has_:
     sl: rebrače
     sq: Ctenophora
     sr: реброноше
-    sr-ec: Реброноше
-    sr-el: Rebronoše
+    sr_ec: Реброноше
+    sr_el: Rebronoše
     sv: kammaneter
     sw: Konyeza-vichanio
     ta: சீப்பு இழுது
@@ -163,12 +163,12 @@ dv_has_:
     wuu: 栉水母
     yue: 櫛水母
     zh: 栉水母动物门
-    zh-cn: 栉水母动物门
-    zh-hans: 栉水母动物门
-    zh-hant: 櫛水母
-    zh-hk: 櫛水母
-    zh-sg: 栉水母
-    zh-tw: 櫛水母動物門
+    zh_cn: 栉水母动物门
+    zh_hans: 栉水母动物门
+    zh_hant: 櫛水母
+    zh_hk: 櫛水母
+    zh_sg: 栉水母
+    zh_tw: 櫛水母動物門
 ---
 ## Phylogeny 
 

@@ -118,7 +118,7 @@ dv_has_:
     azb: آجلیق
     bcl: Gutom
     be: голад
-    be-tarask: голад
+    be_tarask: голад
     bg: глад
     bn: ক্ষুধা
     bs: Glad
@@ -131,8 +131,8 @@ dv_has_:
     el: πείνα
     eml: Faṁ
     en: hunger
-    en-ca: hunger
-    en-gb: hunger
+    en_ca: hunger
+    en_gb: hunger
     en-us: hunger
     eo: malsato
     es: hambre
@@ -195,8 +195,8 @@ dv_has_:
     so: Gaajo
     sq: Uria
     sr: глад
-    sr-ec: глад
-    sr-el: glad
+    sr_ec: глад
+    sr_el: glad
     sv: hunger
     te: ఆకలి
     tg: Гуруснагӣ
@@ -210,12 +210,12 @@ dv_has_:
     wuu: 饥饿
     yue: 肚餓
     zh: 饥饿
-    zh-cn: 饥饿
-    zh-hans: 饥饿
-    zh-hant: 飢餓
-    zh-hk: 飢餓
-    zh-sg: 饥饿
-    zh-tw: 飢餓
+    zh_cn: 饥饿
+    zh_hans: 饥饿
+    zh_hant: 飢餓
+    zh_hk: 飢餓
+    zh_sg: 饥饿
+    zh_tw: 飢餓
 ---
 # [[Hunger]] 
 

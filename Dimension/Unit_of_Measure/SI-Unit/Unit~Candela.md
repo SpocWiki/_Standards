@@ -71,7 +71,7 @@ dv_has_:
     ast: candela
     az: kandela
     be: кандэла
-    be-tarask: кандэла
+    be_tarask: кандэла
     bg: кандела
     bn: ক্যান্ডেলা
     bo: ཁེན།
@@ -86,11 +86,11 @@ dv_has_:
     cy: candela
     da: candela
     de: Candela
-    de-ch: Candela
+    de_ch: Candela
     el: καντέλα
     en: candela
-    en-ca: candela
-    en-gb: candela
+    en_ca: candela
+    en_gb: candela
     eo: kandelo
     es: candela
     et: kandela
@@ -137,7 +137,7 @@ dv_has_:
     pms: candèila
     pnb: کینڈل پاور
     pt: candela
-    pt-br: candela
+    pt_br: candela
     ro: candelă
     ru: кандела
     sc: candela
@@ -147,7 +147,7 @@ dv_has_:
     sl: kandela
     smn: kandela
     sr: кандела
-    sr-ec: Кандела
+    sr_ec: Кандела
     sv: candela
     ta: கேண்டெலா
     tg: кандела
@@ -162,14 +162,14 @@ dv_has_:
     wuu: 坎德拉
     yue: 燭光
     zh: 坎德拉
-    zh-cn: 坎德拉
-    zh-hans: 坎德拉
-    zh-hant: 燭光
-    zh-hk: 燭光
-    zh-mo: 燭光
+    zh_cn: 坎德拉
+    zh_hans: 坎德拉
+    zh_hant: 燭光
+    zh_hk: 燭光
+    zh_mo: 燭光
     zh-my: 坎德拉
-    zh-sg: 坎德拉
-    zh-tw: 燭光
+    zh_sg: 坎德拉
+    zh_tw: 燭光
 ---
 # [[Unit~Candela]] 
 

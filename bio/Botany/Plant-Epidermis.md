@@ -59,7 +59,7 @@ dv_has_:
   name_:
     ar: طبقة البشرة
     ast: Texíu epidérmico
-    be-tarask: эпідэрма
+    be_tarask: эпідэрма
     bg: Епидермис
     bs: Epiderma
     ca: Epidermis
@@ -99,8 +99,8 @@ dv_has_:
     sl: epiderm
     sq: Epiderma
     sr: Епидермис биљака
-    sr-ec: Епидермис биљака
-    sr-el: Epidermis biljaka
+    sr_ec: Епидермис биљака
+    sr_el: Epidermis biljaka
     ta: மேற்றோல்
     te: TELU
     th: อีพิเดอร์มิส

@@ -102,7 +102,7 @@ dv_has_:
     ar: تحويل لابلاس
     ast: tresformada de Laplace
     az: Laplas çevrilməsi
-    be-tarask: пераўтварэньне Ляпляса
+    be_tarask: пераўтварэньне Ляпляса
     bg: трансформация на Лаплас
     bn: লাপ্লাস রূপান্তর
     bs: Laplaceova transformacija
@@ -150,7 +150,7 @@ dv_has_:
     pl: transformata Laplace'a
     pms: trasformà ëd Laplace
     pt: transformada de Laplace
-    pt-br: transformada de Laplace
+    pt_br: transformada de Laplace
     ro: transformată Laplace
     ru: преобразование Лапласа
     sh: Laplasova transformacija
@@ -158,8 +158,8 @@ dv_has_:
     sl: Laplaceova transformacija
     sq: transformimet e Laplasit
     sr: Лапласова трансформација
-    sr-ec: Лапласова трансформација
-    sr-el: Laplasova transformacija
+    sr_ec: Лапласова трансформација
+    sr_el: Laplasova transformacija
     su: transformasi Laplace
     sv: Laplacetransform
     ta: இலப்பிளாசு மாற்று
@@ -170,12 +170,12 @@ dv_has_:
     wuu: 拉普拉斯变换
     yue: 拉普拉斯變換
     zh: 拉普拉斯变换
-    zh-cn: 拉普拉斯变换
-    zh-hans: 拉普拉斯变换
-    zh-hant: 拉普拉斯變換
-    zh-hk: 拉普拉斯變換
-    zh-sg: 拉普拉斯变换
-    zh-tw: 拉普拉斯變換
+    zh_cn: 拉普拉斯变换
+    zh_hans: 拉普拉斯变换
+    zh_hant: 拉普拉斯變換
+    zh_hk: 拉普拉斯變換
+    zh_sg: 拉普拉斯变换
+    zh_tw: 拉普拉斯變換
 ---
 # [[Laplace_Transform]] 
 

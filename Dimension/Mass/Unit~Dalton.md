@@ -122,7 +122,7 @@ dv_has_:
     az: dalton
     ba: массаның атом берәмеге
     be: атамная адзінка масы
-    be-tarask: атамная адзінка масы
+    be_tarask: атамная адзінка масы
     bg: единица за атомна маса
     bn: ডাল্টন
     bo: རྡུལ་ཕྲན་སྤུས་ཚད་རྩི་གཞི།
@@ -158,9 +158,9 @@ dv_has_:
     ja: ダルトン
     ka: მასის ატომური ერთეული
     kk: массаның атомдық бірлігі
-    kk-arab: ماسسانىڭ اتومدىق بىرلىگى
-    kk-cyrl: массаның атомдық бірлігі
-    kk-latn: massanıñ atomdıq birligi
+    kk_arab: ماسسانىڭ اتومدىق بىرلىگى
+    kk_cyrl: массаның атомдық бірлігі
+    kk_latn: massanıñ atomdıq birligi
     ko: 원자 질량 단위
     ks: ڈالٹَن
     lt: atominės masės vienetas
@@ -181,7 +181,7 @@ dv_has_:
     pms: unità ëd massa atòmica
     pnb: جوہری کمیتی اکائی
     pt: unidade de massa atómica
-    pt-br: unidade de massa atômica
+    pt_br: unidade de massa atômica
     ro: unitate atomică de masă
     ru: атомная единица массы
     scn: unitati di massa atòmica
@@ -189,8 +189,8 @@ dv_has_:
     sk: atómová hmotnostná jednotka
     sl: dalton
     sr: јединица атомске масе
-    sr-ec: јединица атомске масе
-    sr-el: jedinica atomske mase
+    sr_ec: јединица атомске масе
+    sr_el: jedinica atomske mase
     sv: atommassenhet
     ta: அணு நிறை அலகு
     tg: боҳиди атомии масса
@@ -206,9 +206,9 @@ dv_has_:
     wuu: 原子质量单位
     yue: 原子質量單位
     zh: 原子质量单位
-    zh-hans: 原子质量单位
-    zh-hant: 原子質量單位
-    zh-hk: 原子質量單位
+    zh_hans: 原子质量单位
+    zh_hant: 原子質量單位
+    zh_hk: 原子質量單位
 ---
 # [[Unit~Dalton]]
 

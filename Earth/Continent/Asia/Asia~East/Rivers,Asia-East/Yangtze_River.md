@@ -244,7 +244,7 @@ dv_has_:
     bar: Jangtsekiang
     bcl: Yangtze
     be: Янцзы
-    be-tarask: Янцзы
+    be_tarask: Янцзы
     bg: Яндзъ
     bho: यांग्त्सी नदी
     bn: ছাং চিয়াং নদী
@@ -264,8 +264,8 @@ dv_has_:
     de: Jangtsekiang
     el: Γιανγκτσέ
     en: Yangtze
-    en-ca: Yangtze River
-    en-gb: Yangtze River
+    en_ca: Yangtze River
+    en_gb: Yangtze River
     eo: Jangzio
     es: Yangtsé
     et: Jangtse
@@ -344,7 +344,7 @@ dv_has_:
     pms: Yangtze
     pnb: یانگسی دریا
     pt: Rio Yangtzé
-    pt-br: Rio Yangtzé
+    pt_br: Rio Yangtzé
     qu: Yangsi mayu
     rm: Jangtse
     ro: Yangtze
@@ -388,14 +388,14 @@ dv_has_:
     yue: 長江
     za: Dahcangzgyangh
     zh: 長江
-    zh-cn: 长江
-    zh-hans: 长江
-    zh-hant: 長江
-    zh-hk: 長江
-    zh-mo: 长江
+    zh_cn: 长江
+    zh_hans: 长江
+    zh_hant: 長江
+    zh_hk: 長江
+    zh_mo: 长江
     zh-my: 长江
-    zh-sg: 长江
-    zh-tw: 長江
+    zh_sg: 长江
+    zh_tw: 長江
 ---
 # [[Yangtze_River]] 
 

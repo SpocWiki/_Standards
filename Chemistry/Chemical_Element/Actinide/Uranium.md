@@ -186,7 +186,7 @@ dv_has_:
     ban: Uranium
     bcl: Uranyo
     be: уран
-    be-tarask: уран
+    be_tarask: уран
     bg: уран
     bho: युर्यानियम
     blk: ယူရေနီယမ်
@@ -206,12 +206,12 @@ dv_has_:
     cy: wraniwm
     da: uran
     de: Uran
-    de-ch: Uran
+    de_ch: Uran
     dz: ཡུ་རེ་ནིམ།
     el: ουράνιο
     en: uranium
-    en-ca: Uranium
-    en-gb: uranium
+    en_ca: Uranium
+    en_gb: uranium
     eo: uranio
     es: uranio
     et: uraan
@@ -279,7 +279,7 @@ dv_has_:
     mr: युरेनियम
     mrj: Уран
     ms: uranium
-    ms-arab: اورانيوم
+    ms_arab: اورانيوم
     mt: uranju
     my: ယူရေနီယမ်
     myv: Уран
@@ -304,7 +304,7 @@ dv_has_:
     pnb: یورینیم
     ps: يورانيم
     pt: urânio
-    pt-br: urânio
+    pt_br: urânio
     qu: Uranyu
     ro: uraniu
     ru: уран
@@ -354,14 +354,14 @@ dv_has_:
     yo: Ùráníọ̀m
     yue: 鈾
     zh: 鈾
-    zh-cn: 铀
-    zh-hans: 铀
-    zh-hant: 鈾
-    zh-hk: 鈾
-    zh-mo: 鈾
+    zh_cn: 铀
+    zh_hans: 铀
+    zh_hant: 鈾
+    zh_hk: 鈾
+    zh_mo: 鈾
     zh-my: 铀
-    zh-sg: 铀
-    zh-tw: 鈾
+    zh_sg: 铀
+    zh_tw: 鈾
     zu: Ishaqantuva
   number_of_:
     period: 7

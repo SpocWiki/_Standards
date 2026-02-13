@@ -176,7 +176,7 @@ dv_has_:
     bar: Antonio Vivaldi
     bcl: Antonio Vivaldi
     be: Антоніа Вівальдзі
-    be-tarask: Антоніё Вівальдзі
+    be_tarask: Антоніё Вівальдзі
     bg: Антонио Вивалди
     bi: Antonio Vivaldi
     bn: আন্তোনিও ভিভালদি
@@ -195,11 +195,11 @@ dv_has_:
     cy: Antonio Vivaldi
     da: Antonio Vivaldi
     de: Antonio Vivaldi
-    de-ch: Antonio Vivaldi
+    de_ch: Antonio Vivaldi
     el: Αντόνιο Βιβάλντι
     en: Antonio Vivaldi
-    en-ca: Antonio Vivaldi
-    en-gb: Antonio Vivaldi
+    en_ca: Antonio Vivaldi
+    en_gb: Antonio Vivaldi
     eo: Antonio Vivaldi
     es: Antonio Vivaldi
     et: Antonio Vivaldi
@@ -265,7 +265,7 @@ dv_has_:
     nan: Antonio Vivaldi
     nb: Antonio Vivaldi
     nds: Antonio Vivaldi
-    nds-nl: Antonio Vivaldi
+    nds_nl: Antonio Vivaldi
     nl: Antonio Vivaldi
     nn: Antonio Vivaldi
     oc: Antonio Vivaldi
@@ -278,7 +278,7 @@ dv_has_:
     pms: Antonio Vivaldi
     pnb: انٹونیو وائیوالدی
     pt: Antonio Vivaldi
-    pt-br: Antonio Vivaldi
+    pt_br: Antonio Vivaldi
     qu: Antonio Vivaldi
     ro: Antonio Vivaldi
     roa-tara: Andonie Vivaldi
@@ -317,8 +317,8 @@ dv_has_:
     yi: אנטאניא וויוואלדי
     yue: 韋華第
     zh: 安东尼奥·维瓦尔第
-    zh-hk: 安東尼奧·韋華第
-    zh-tw: 安東尼歐·韋瓦第
+    zh_hk: 安東尼奧·韋華第
+    zh_tw: 安東尼歐·韋瓦第
 ---
 # [[Vivaldi,Antonio]] 
 

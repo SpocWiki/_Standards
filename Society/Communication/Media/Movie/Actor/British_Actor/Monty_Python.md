@@ -38,11 +38,11 @@ dv_has_:
     cy: Monty Python
     da: Monty Python
     de: Monty Python
-    de-ch: Monty Python
+    de_ch: Monty Python
     el: Μόντυ Πάιθον
     en: Monty Python
-    en-ca: Monty Python
-    en-gb: Monty Python
+    en_ca: Monty Python
+    en_gb: Monty Python
     eo: Monty Python
     es: Monty Python
     et: Monty Python
@@ -85,7 +85,7 @@ dv_has_:
     oc: Monty Python
     pl: Monty Python
     pt: Monty Python
-    pt-br: Monty Python
+    pt_br: Monty Python
     ro: Monty Python
     ru: Монти Пайтон
     sco: Monty Python
@@ -105,10 +105,10 @@ dv_has_:
     wuu: 巨蟒剧团
     yue: 踎低噴飯
     zh: 蒙提·派森
-    zh-cn: 蒙提·派森
-    zh-hans: 蒙提·派森
-    zh-hk: 踎低噴飯
-    zh-tw: 蒙提·派森
+    zh_cn: 蒙提·派森
+    zh_hans: 蒙提·派森
+    zh_hk: 踎低噴飯
+    zh_tw: 蒙提·派森
 ---
 # [[Monty_Python]]
 

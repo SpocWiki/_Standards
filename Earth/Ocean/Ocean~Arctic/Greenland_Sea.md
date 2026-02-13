@@ -160,7 +160,7 @@ dv_has_:
     azb: قرینلند دنیزی
     ba: Гренланд диңгеҙе
     be: Грэнландскае мора
-    be-tarask: Грэнляндзкае мора
+    be_tarask: Грэнляндзкае мора
     bg: Гренландско море
     bn: গ্রিনল্যান্ড সাগর
     br: Mor Greunland
@@ -199,8 +199,8 @@ dv_has_:
     ko: 그린란드해
     krc: Гренлан тенгиз
     ku: Deryaya Grînlendayê
-    ku-arab: دەریایا گرۆنلاندێ
-    ku-latn: Deryaya Gronlandê
+    ku_arab: دەریایا گرۆنلاندێ
+    ku_latn: Deryaya Gronlandê
     la: Mare Groenlandiae
     lb: Grönlandmier
     li: Greunlandzieë
@@ -223,7 +223,7 @@ dv_has_:
     pl: Morze Grenlandzkie
     pnb: گرینلینڈ سمندر
     pt: mar da Gronelândia
-    pt-br: mar da Groenlândia
+    pt_br: mar da Groenlândia
     ro: Marea Groenlandei
     ru: Гренландское море
     sco: Greenland Sea
@@ -231,8 +231,8 @@ dv_has_:
     sk: Grónske more
     sl: Grenlandsko morje
     sr: Гренландско море
-    sr-ec: Гренландско море
-    sr-el: Grenlandsko more
+    sr_ec: Гренландско море
+    sr_el: Grenlandsko more
     sv: Grönlandshavet
     sw: Bahari ya Greenland
     ta: கிரீன்லாந்து கடல்
@@ -253,12 +253,12 @@ dv_has_:
     yo: Òkun Grínlándì
     yue: 格陵蘭海
     zh: 格陵兰海
-    zh-cn: 格陵兰海
-    zh-hans: 格陵兰海
-    zh-hant: 格陵蘭海
-    zh-hk: 格陵蘭海
-    zh-sg: 格陵兰海
-    zh-tw: 格陵蘭海
+    zh_cn: 格陵兰海
+    zh_hans: 格陵兰海
+    zh_hant: 格陵蘭海
+    zh_hk: 格陵蘭海
+    zh_sg: 格陵兰海
+    zh_tw: 格陵蘭海
 ---
 # [[../../../Society/Economics/Industry/Agriculture/Greenhouse|Greenhouse]] 
 

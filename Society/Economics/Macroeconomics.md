@@ -113,7 +113,7 @@ dv_has_:
     azb: ماکروایکونومی
     ba: Макроиҡтисад
     be: макраэканоміка
-    be-tarask: макраэканоміка
+    be_tarask: макраэканоміка
     bg: Макроикономика
     bho: मैक्रो इकोनॉमिक्स
     bn: সামষ্টিক অর্থনীতি
@@ -184,7 +184,7 @@ dv_has_:
     sl: makroekonomija
     sq: Makroekonomia
     sr: макроекономија
-    sr-ec: Макроекономија
+    sr_ec: Макроекономија
     su: Ékonomi makro
     sv: makroekonomi
     ta: பருப்பொருளியல்
@@ -204,9 +204,9 @@ dv_has_:
     wuu: 宏观经济学
     yue: 宏觀經濟學
     zh: 宏觀經濟學
-    zh-hans: 宏观经济学
-    zh-hant: 總體經濟學
-    zh-tw: 總體經濟學
+    zh_hans: 宏观经济学
+    zh_hant: 總體經濟學
+    zh_tw: 總體經濟學
 ---
 # [[Macroeconomics]] 
 

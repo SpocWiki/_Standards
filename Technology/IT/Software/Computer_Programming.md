@@ -146,7 +146,7 @@ dv_has_:
     az: proqramlaşdırma
     ba: программалау
     be: праграмаванне
-    be-tarask: кампутарнае праграмаваньне
+    be_tarask: кампутарнае праграмаваньне
     bg: програмиране
     bn: কম্পিউটার প্রোগ্রামিং
     bs: programiranje
@@ -160,7 +160,7 @@ dv_has_:
     diq: programnayış
     el: προγραμματισμός
     en: computer programming
-    en-gb: computer programming
+    en_gb: computer programming
     en-us: computer programming
     eo: programado
     es: programación
@@ -186,7 +186,7 @@ dv_has_:
     km: កុំព្យូទ័រផ្រូក្រាមមីង (Computer programming)
     kn: ಕಂಪ್ಯೂಟರ್ ಪ್ರೋಗ್ರಾಮಿಂಗ್
     ko: 컴퓨터 프로그래밍
-    ku-latn: bernamekirin
+    ku_latn: bernamekirin
     ky: программалоо
     la: programmatura computatralis
     lb: Programméierung
@@ -199,7 +199,7 @@ dv_has_:
     mn: програмчлал
     mr: संगणक प्रोग्रामिंग
     ms: pengaturcaraan komputer
-    ms-arab: ڤڠاتورچاراءن کومڤوتر
+    ms_arab: ڤڠاتورچاراءن کومڤوتر
     nb: programmering
     nl: programmeren
     nn: programmering
@@ -211,7 +211,7 @@ dv_has_:
     pnb: کمپیوٹر پروگرامنگ
     ps: کمپيوټري برېښليک
     pt: programação de computadores
-    pt-br: programação de computadores
+    pt_br: programação de computadores
     ro: programare
     ru: программирование
     rue: проґрамованя
@@ -225,7 +225,7 @@ dv_has_:
     sms: kooʹdjummuš
     sq: programimi kompjuterik
     sr: програмирање
-    sr-ec: програмирање
+    sr_ec: програмирање
     sv: programmering
     ta: கணினி நிரலாக்கம்
     tg: Барномасозӣ
@@ -234,7 +234,7 @@ dv_has_:
     tl: computer programming
     tr: bilgisayar programlama
     tt: программалау
-    tt-cyrl: програмлау
+    tt_cyrl: програмлау
     tw: Kɔmputa so dwumadi ahorow
     udm: косонрадъяны
     uk: програмування
@@ -246,12 +246,12 @@ dv_has_:
     yi: קאמפיוטער פראגראמירן
     yue: 電腦程式設計
     zh: 计算机程序设计
-    zh-cn: 计算机程序设计
-    zh-hans: 计算机程序设计
-    zh-hant: 電腦程序設計
-    zh-hk: 電腦程式設計
+    zh_cn: 计算机程序设计
+    zh_hans: 计算机程序设计
+    zh_hant: 電腦程序設計
+    zh_hk: 電腦程式設計
     zh-my: 电脑程式设计
-    zh-tw: 電腦程式設計
+    zh_tw: 電腦程式設計
     zu: Ukuhlelelisa isiCikizi
 ---
 # [[Computer_Programming]] 

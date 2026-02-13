@@ -98,7 +98,7 @@ dv_has_:
     az: Paskal
     ba: паскаль
     be: паскаль
-    be-tarask: паскаль
+    be_tarask: паскаль
     bg: Паскал
     bn: প্যাস্কেল
     bo: ཕ་སི་ཁལ།
@@ -173,7 +173,7 @@ dv_has_:
     smn: pascal
     sq: Paskali (njësi)
     sr: паскал
-    sr-ec: Паскал
+    sr_ec: Паскал
     sv: pascal
     sw: Paskali
     szl: Paskal
@@ -187,14 +187,14 @@ dv_has_:
     wuu: 帕斯卡
     yue: 帕斯卡
     zh: 帕斯卡
-    zh-cn: 帕斯卡
-    zh-hans: 帕斯卡
-    zh-hant: 帕斯卡
-    zh-hk: 帕斯卡
-    zh-mo: 帕斯卡
+    zh_cn: 帕斯卡
+    zh_hans: 帕斯卡
+    zh_hant: 帕斯卡
+    zh_hk: 帕斯卡
+    zh_mo: 帕斯卡
     zh-my: 帕斯卡
-    zh-sg: 帕斯卡
-    zh-tw: 帕斯卡
+    zh_sg: 帕斯卡
+    zh_tw: 帕斯卡
 ---
 # [[Unit~Pascal]] 
 

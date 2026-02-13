@@ -70,7 +70,7 @@ dv_has_:
     ast: Control numbéricu
     az: CNC
     be: лічбавае праграмнае кіраванне
-    be-tarask: лічбавае праграмнае кіраваньне
+    be_tarask: лічбавае праграмнае кіраваньне
     bg: Цифрово програмно управление
     bo: གྲངས་འཛིན་འཁོར་སྟེགས།
     bs: CNC mašina
@@ -79,8 +79,8 @@ dv_has_:
     de: Computerized Numerical Control
     el: Computerized Numerical Control
     en: computer numerical control
-    en-ca: numerical control
-    en-gb: computer numerical control
+    en_ca: numerical control
+    en_gb: computer numerical control
     eo: komputila cifereca stirado
     es: control numérico
     et: arvprogrammjuhtimine
@@ -99,11 +99,11 @@ dv_has_:
     ja: コンピュータ数値制御
     ka: კომპიუტერული ციფრული მართვა
     kk: басқару қүрылғысы
-    kk-arab: باسقارۋ قۇرىلعىسى
+    kk_arab: باسقارۋ قۇرىلعىسى
     kk-cn: باسقارۋ قۇرىلعىسى
-    kk-cyrl: басқару қүрылғысы
+    kk_cyrl: басқару қүрылғысы
     kk-kz: басқару қүрылғысы
-    kk-latn: basqarw qürılğısı
+    kk_latn: basqarw qürılğısı
     kk-tr: basqarw qürılğısı
     ko: 수치 제어
     lt: CNC
@@ -118,7 +118,7 @@ dv_has_:
     nn: numerisk kontroll
     pl: Computerized Numerical Control
     pt: controle numérico computadorizado
-    pt-br: controle numérico computadorizado
+    pt_br: controle numérico computadorizado
     ro: Computer Numerical Control
     ru: числовое программное управление
     sco: numerical control
@@ -126,8 +126,8 @@ dv_has_:
     sm: Pulea numera
     sq: Cnc
     sr: рачунарска нумерички управљана машина
-    sr-ec: рачунарска нумерички управљана машина
-    sr-el: računarska numerički upravljana mašina
+    sr_ec: рачунарска нумерички управљана машина
+    sr_el: računarska numerički upravljana mašina
     sv: Computer Numerical Control
     tg: Идораи барномавии рақамӣ
     tr: sayısal kontrol
@@ -136,12 +136,12 @@ dv_has_:
     vi: CNC
     yue: 電腦數控
     zh: 数控机床
-    zh-cn: 数控机床
-    zh-hans: 数控机床
-    zh-hant: 電腦數值控制工具機
-    zh-hk: 數控機床
-    zh-sg: 数控机床
-    zh-tw: 電腦數值控制工具機
+    zh_cn: 数控机床
+    zh_hans: 数控机床
+    zh_hant: 電腦數值控制工具機
+    zh_hk: 數控機床
+    zh_sg: 数控机床
+    zh_tw: 電腦數值控制工具機
 ---
 # [[CNC(Computer_Numerical_Control)]] 
 

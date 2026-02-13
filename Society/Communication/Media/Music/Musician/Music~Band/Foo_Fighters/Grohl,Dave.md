@@ -42,8 +42,8 @@ dv_has_:
     de: Dave Grohl
     el: Ντέιβ Γκρολ
     en: Dave Grohl
-    en-ca: Dave Grohl
-    en-gb: Dave Grohl
+    en_ca: Dave Grohl
+    en_gb: Dave Grohl
     eo: Dave Grohl
     es: Dave Grohl
     et: Dave Grohl
@@ -83,7 +83,7 @@ dv_has_:
     pl: Dave Grohl
     pms: Dave Grohl
     pt: Dave Grohl
-    pt-br: Dave Grohl
+    pt_br: Dave Grohl
     ro: Dave Grohl
     ru: Дэйв Грол
     sco: Dave Grohl
@@ -101,9 +101,9 @@ dv_has_:
     wuu: 戴夫·格罗尔
     xmf: დეივ გროლი
     zh: 戴夫·格羅爾
-    zh-cn: 戴夫·格羅爾
-    zh-hans: 戴夫·格羅爾
-    zh-hant: 戴夫·格羅爾
+    zh_cn: 戴夫·格羅爾
+    zh_hans: 戴夫·格羅爾
+    zh_hant: 戴夫·格羅爾
 ---
 ## #has_/text_of_/abstract 
 

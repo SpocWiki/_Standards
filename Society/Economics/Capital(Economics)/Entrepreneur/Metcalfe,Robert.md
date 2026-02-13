@@ -96,7 +96,7 @@ dv_has_:
     ast: Robert Metcalfe
     az: Robert Metkalf
     azb: رابرت متکالف
-    be-tarask: Робэрт Мэткалф
+    be_tarask: Робэрт Мэткалф
     bg: Робърт Меткалф
     bn: রবার্ট মেটক্যাফ
     ca: Robert Metcalfe
@@ -107,8 +107,8 @@ dv_has_:
     de: Robert Metcalfe
     el: Ρόμπερτ Μέτκαλφ
     en: Robert Metcalfe
-    en-ca: Robert Metcalfe
-    en-gb: Robert Metcalfe
+    en_ca: Robert Metcalfe
+    en_gb: Robert Metcalfe
     eo: Robert Metcalfe
     es: Negro
     eu: Robert Metcalfe
@@ -135,7 +135,7 @@ dv_has_:
     oc: Robert Metcalfe
     pl: Robert Metcalfe
     pt: Robert Metcalfe
-    pt-br: Robert Metcalfe
+    pt_br: Robert Metcalfe
     ro: Robert Metcalfe
     ru: Роберт Меткалф
     sk: Robert Metcalfe
@@ -150,12 +150,12 @@ dv_has_:
     war: Robert Metcalfe
     yue: 羅伯特·梅特卡夫
     zh: 羅伯特·梅特卡夫
-    zh-cn: 罗伯特·梅特卡夫
-    zh-hans: 罗伯特·梅特卡夫
-    zh-hant: 羅伯特·梅特卡夫
-    zh-hk: 羅伯特·梅特卡夫
-    zh-sg: 罗伯特·梅特卡夫
-    zh-tw: 羅伯特·梅特卡夫
+    zh_cn: 罗伯特·梅特卡夫
+    zh_hans: 罗伯特·梅特卡夫
+    zh_hant: 羅伯特·梅特卡夫
+    zh_hk: 羅伯特·梅特卡夫
+    zh_sg: 罗伯特·梅特卡夫
+    zh_tw: 羅伯特·梅特卡夫
 ---
 # [[Metcalfe,Robert]] 
 

@@ -96,7 +96,7 @@ dv_has_:
     ast: Llanzamientu de discu
     ba: Диск ырғытыу
     be: кіданне дыска
-    be-tarask: кіданьне дыску
+    be_tarask: кіданьне дыску
     bg: Хвърляне на диск
     bs: Bacanje diska
     ca: llançament de disc
@@ -125,11 +125,11 @@ dv_has_:
     ja: 円盤投
     ka: ბადროს ტყორცნა
     kk: Диск лақтыру
-    kk-arab: دىيسك لاقتىرۋ
+    kk_arab: دىيسك لاقتىرۋ
     kk-cn: دىيسك لاقتىرۋ
-    kk-cyrl: Диск лақтыру
+    kk_cyrl: Диск лақтыру
     kk-kz: Диск лақтыру
-    kk-latn: Dïsk laqtırw
+    kk_latn: Dïsk laqtırw
     kk-tr: Dïsk laqtırw
     ko: 원반던지기
     la: Iactus disci
@@ -156,8 +156,8 @@ dv_has_:
     smn: skiärrušlivgim
     sq: Hedhja e diskut
     sr: бацање диска
-    sr-ec: бацање диска
-    sr-el: bacanje diska
+    sr_ec: бацање диска
+    sr_el: bacanje diska
     sv: diskus
     ta: வட்டு எறிதல்
     tr: disk atma
@@ -167,12 +167,12 @@ dv_has_:
     wuu: 铁饼
     yue: 鐵餅
     zh: 铁饼
-    zh-cn: 铁饼
-    zh-hans: 铁饼
-    zh-hant: 鐵餅
-    zh-hk: 鐵餅
-    zh-sg: 铁饼
-    zh-tw: 鐵餅
+    zh_cn: 铁饼
+    zh_hans: 铁饼
+    zh_hant: 鐵餅
+    zh_hk: 鐵餅
+    zh_sg: 铁饼
+    zh_tw: 鐵餅
 ---
 # [[Discus_Throw]] 
 

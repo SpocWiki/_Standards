@@ -164,7 +164,7 @@ dv_has_:
     bas: lek
     bcl: Init
     be: цеплыня
-    be-tarask: цяпло
+    be_tarask: цяпло
     bg: топлина
     bn: তাপ
     bs: toplota
@@ -214,11 +214,11 @@ dv_has_:
     kab: aẓɣal
     kbp: fefeku
     kk: жылулық
-    kk-arab: جىلۋلىق
+    kk_arab: جىلۋلىق
     kk-cn: جىلۋلىق
-    kk-cyrl: Жылулық
+    kk_cyrl: Жылулық
     kk-kz: Жылулық
-    kk-latn: Jılwlıq
+    kk_latn: Jılwlıq
     kk-tr: Jılwlıq
     kn: ಉಷ್ಣತೆ
     ko: 열
@@ -265,8 +265,8 @@ dv_has_:
     so: kul
     sq: Nxehtësia
     sr: топлота
-    sr-ec: топлота
-    sr-el: toplota
+    sr_ec: топлота
+    sr_el: toplota
     su: panas
     sv: värme
     sw: joto
@@ -286,8 +286,8 @@ dv_has_:
     yi: היץ
     yue: 熱
     zh: 熱量
-    zh-hant: 熱量
-    zh-tw: 熱量
+    zh_hant: 熱量
+    zh_tw: 熱量
 ---
 # [[Heat]] 
 

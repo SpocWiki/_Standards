@@ -172,7 +172,7 @@ dv_has_:
     ban: Richard Nixon
     bcl: Richard Nixon
     be: Рычард Мілхаўс Ніксан
-    be-tarask: Рычард Ніксан
+    be_tarask: Рычард Ніксан
     bg: Ричард Никсън
     bi: Richard Nixon
     bn: রিচার্ড নিক্সন
@@ -191,14 +191,14 @@ dv_has_:
     da: Richard Nixon
     dag: Richard Nixon
     de: Richard Nixon
-    de-ch: Richard Nixon
+    de_ch: Richard Nixon
     diq: Richard Nixon
     dtp: Richard Nixon
     dv: ރިޗަރޑް ނިކްސަން
     el: Ρίτσαρντ Νίξον
     en: Richard Nixon
-    en-ca: Richard Nixon
-    en-gb: Richard Nixon
+    en_ca: Richard Nixon
+    en_gb: Richard Nixon
     eo: Richard Nixon
     es: Richard Nixon
     et: Richard Nixon
@@ -268,7 +268,7 @@ dv_has_:
     nan: Richard Nixon
     nb: Richard Nixon
     nds: Richard Nixon
-    nds-nl: Richard Nixon
+    nds_nl: Richard Nixon
     ne: रिचार्ड निक्सन
     nl: Richard Nixon
     nn: Richard Nixon
@@ -282,7 +282,7 @@ dv_has_:
     pnb: رچرڈ نکسن
     ps: ریچارډ میلهوس نیکسون
     pt: Richard Nixon
-    pt-br: Richard Nixon
+    pt_br: Richard Nixon
     qu: Richard Nixon
     rm: Richard Nixon
     rmf: Richard Nixon
@@ -332,10 +332,10 @@ dv_has_:
     yue: 理察尼克遜
     zea: Richard Nixon
     zh: 理查德·尼克松
-    zh-cn: 尼克松
-    zh-hant: 尼克森
-    zh-hk: 李察·尼克遜
-    zh-tw: 尼克森
+    zh_cn: 尼克松
+    zh_hant: 尼克森
+    zh_hk: 李察·尼克遜
+    zh_tw: 尼克森
     zu: Richard Nixon
   time_:
     started: 1913-01-09T00:00:00.000+01:00

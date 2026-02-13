@@ -122,7 +122,7 @@ dv_has_:
     ban: Spiritualitas
     bcl: Espiritwalidad
     be: духоўнасць
-    be-tarask: духоўнасьць
+    be_tarask: духоўнасьць
     bg: духовност
     bn: আধ্যাত্মিকতা
     br: Speredelezh
@@ -200,8 +200,8 @@ dv_has_:
     sms: jiõglvažvuõtt
     sq: Spiritualiteti
     sr: духовност
-    sr-ec: духовност
-    sr-el: duhovnost
+    sr_ec: духовност
+    sr_el: duhovnost
     sv: andlighet
     sw: Maisha ya kiroho
     ta: ஆன்மிகம்
@@ -217,12 +217,12 @@ dv_has_:
     yi: גייסטליכקייט
     yue: 靈性
     zh: 靈性
-    zh-cn: 灵性
-    zh-hans: 灵性
-    zh-hant: 靈性
-    zh-hk: 靈性
-    zh-sg: 灵性
-    zh-tw: 靈性
+    zh_cn: 灵性
+    zh_hans: 灵性
+    zh_hant: 靈性
+    zh_hk: 靈性
+    zh_sg: 灵性
+    zh_tw: 靈性
 ---
 # [[Spirituality]] 
 

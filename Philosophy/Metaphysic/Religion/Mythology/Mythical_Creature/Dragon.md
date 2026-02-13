@@ -167,7 +167,7 @@ dv_has_:
     bar: Drack
     bcl: Dragon
     be: цмок
-    be-tarask: цмок
+    be_tarask: цмок
     bg: дракон
     bho: ड्रैगन
     bn: ড্রাগন
@@ -181,11 +181,11 @@ dv_has_:
     cy: draig
     da: drage
     de: Drache
-    de-ch: Drache
+    de_ch: Drache
     dtp: Tarob
     el: δράκοντας
     en: dragon
-    en-ca: dragon
+    en_ca: dragon
     en-us: dragon
     eo: drako
     es: dragón
@@ -253,7 +253,7 @@ dv_has_:
     pnb: سرال
     ps: ښامار
     pt: dragão
-    pt-br: dragão
+    pt_br: dragão
     qu: Amaru
     ro: dragon
     ru: дракон
@@ -288,8 +288,8 @@ dv_has_:
     yue: 龍形動物
     zgh: ⴰⵚⴰⴹ
     zh: 龍形傳說生物
-    zh-hans: 龙形传说生物
-    zh-hant: 龍形傳說生物
+    zh_hans: 龙形传说生物
+    zh_hant: 龍形傳說生物
     zu: INzawu
 ---
 # [[Dragon]] 🐉 

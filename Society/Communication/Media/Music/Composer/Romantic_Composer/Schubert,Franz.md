@@ -145,7 +145,7 @@ dv_has_:
     ba: Франц Петер Шуберт
     bar: Schubert Franzl
     be: Франц Шуберт
-    be-tarask: Франц Шубэрт
+    be_tarask: Франц Шубэрт
     bg: Франц Шуберт
     bi: Franz Schubert
     bn: ফ্রানৎস শুবার্ট
@@ -168,8 +168,8 @@ dv_has_:
     ee: Franz Schubert
     el: Φραντς Σούμπερτ
     en: Franz Schubert
-    en-ca: Franz Schubert
-    en-gb: Franz Schubert
+    en_ca: Franz Schubert
+    en_gb: Franz Schubert
     eo: Franz Schubert
     es: Franz Schubert
     et: Franz Schubert
@@ -231,7 +231,7 @@ dv_has_:
     nan: Franz Schubert
     nb: Franz Schubert
     nds: Franz Schubert
-    nds-nl: Franz Schubert
+    nds_nl: Franz Schubert
     new: फ्रान्ज पिटर शुबर्ट
     nl: Franz Schubert
     nn: Franz Schubert
@@ -244,7 +244,7 @@ dv_has_:
     pms: Franz Schubert
     pnb: فرانز شوبرت
     pt: Franz Schubert
-    pt-br: Franz Schubert
+    pt_br: Franz Schubert
     qu: Franz Schubert
     ro: Franz Schubert
     ru: Франц Шуберт
@@ -278,8 +278,8 @@ dv_has_:
     yi: פראנץ שובערט
     yue: 舒伯特
     zh: 弗朗茨·舒伯特
-    zh-hant: 法蘭茲·舒伯特
-    zh-tw: 法蘭茲·舒伯特
+    zh_hant: 法蘭茲·舒伯特
+    zh_tw: 法蘭茲·舒伯特
 ---
 # [[Schubert,Franz]] 
 

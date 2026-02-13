@@ -191,7 +191,7 @@ dv_has_:
     azb: کومیک
     ba: комикс
     be: комікс
-    be-tarask: комікс
+    be_tarask: комікс
     bg: комикс
     bjn: kumik
     bn: কমিকস
@@ -266,12 +266,12 @@ dv_has_:
     ml: ചിത്രകഥ
     mn: комикс
     ms: komik
-    ms-arab: کوميک
+    ms_arab: کوميک
     mwl: cuontas an zenhicos
     nan: ang-á-ōe
     nb: tegneserie
     nds: Comic
-    nds-nl: stripverhaal
+    nds_nl: stripverhaal
     ne: कमिक्स
     new: कमिक
     nl: stripverhaal
@@ -285,7 +285,7 @@ dv_has_:
     pms: Fumèt
     pnb: کومکس
     pt: banda desenhada
-    pt-br: história em quadrinhos
+    pt_br: história em quadrinhos
     qu: siq'isqa rikchasapa willakuy
     ro: bandă desenată
     ru: комикс
@@ -303,7 +303,7 @@ dv_has_:
     sms: räiddkartt
     sq: stripi
     sr: стрипови
-    sr-ec: стрипови
+    sr_ec: стрипови
     stq: Bieldetälster
     su: komik
     sv: tecknad serie
@@ -315,7 +315,7 @@ dv_has_:
     tl: komiks
     tr: çizgi roman
     tt: кумикыс
-    tt-cyrl: комикс
+    tt_cyrl: комикс
     udm: серемтус
     uk: комікс
     ur: کومک
@@ -331,14 +331,14 @@ dv_has_:
     yi: קאמיקס
     yue: 漫畫
     zh: 漫画
-    zh-cn: 漫画
-    zh-hans: 漫画
-    zh-hant: 漫畫
-    zh-hk: 漫畫
-    zh-mo: 漫畫
+    zh_cn: 漫画
+    zh_hans: 漫画
+    zh_hant: 漫畫
+    zh_hk: 漫畫
+    zh_mo: 漫畫
     zh-my: 漫画
-    zh-sg: 漫画
-    zh-tw: 漫畫
+    zh_sg: 漫画
+    zh_tw: 漫畫
 ---
 # [[Comic_Issue]] 
 

@@ -165,7 +165,7 @@ dv_has_:
     ba: Марко Поло
     bcl: Marco Polo
     be: Марка Пола
-    be-tarask: Марка Полё
+    be_tarask: Марка Полё
     bg: Марко Поло
     bho: मार्को पोलो
     bn: মার্কো পোলো
@@ -190,8 +190,8 @@ dv_has_:
     dz: མར་ཀོ་པོ་ལོ།
     el: Μάρκο Πόλο
     en: Marco Polo
-    en-ca: Marco Polo
-    en-gb: Marco Polo
+    en_ca: Marco Polo
+    en_gb: Marco Polo
     eo: Marko Polo
     es: Marco Polo
     et: Marco Polo
@@ -251,7 +251,7 @@ dv_has_:
     lv: Marko Polo
     lzh: 馬可·波羅
     mai: मार्को पोलो
-    map-bms: Marco Polo
+    map_bms: Marco Polo
     mg: Marco Polo
     min: Marco Polo
     mk: Марко Поло
@@ -287,7 +287,7 @@ dv_has_:
     pnb: مارکو پولو
     ps: مارکو پولو
     pt: Marco Polo
-    pt-br: Marco Polo
+    pt_br: Marco Polo
     qu: Marco Polo
     rki: မာကို ပိုလို
     ro: Marco Polo
@@ -336,10 +336,10 @@ dv_has_:
     yue: 馬哥孛羅
     zea: Marco Polo
     zh: 马可·波罗
-    zh-cn: 马可·波罗
-    zh-hans: 马可·波罗
-    zh-hant: 馬可·波羅
-    zh-hk: 馬可孛羅
+    zh_cn: 马可·波罗
+    zh_hans: 马可·波罗
+    zh_hant: 馬可·波羅
+    zh_hk: 馬可孛羅
 ---
 # [[Marco_Polo]] 
 

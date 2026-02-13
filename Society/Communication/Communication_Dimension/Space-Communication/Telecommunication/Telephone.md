@@ -220,7 +220,7 @@ dv_has_:
     bcl: Telepono
     bdr: Telepon
     be: тэлефон
-    be-tarask: тэлефон
+    be_tarask: тэлефон
     bg: Телефон
     bho: टेलीफोन
     bn: টেলিফোন
@@ -323,7 +323,7 @@ dv_has_:
     nap: Telèfene
     nb: telefon
     nds: Klöönkasten
-    nds-nl: tillefoon
+    nds_nl: tillefoon
     ne: टेलिफोन
     new: यांसः
     nl: telefoon
@@ -343,7 +343,7 @@ dv_has_:
     pnb: ٹیلی فون
     ps: غږلېږدی
     pt: telefone
-    pt-br: telefone
+    pt_br: telefone
     qu: Karu rimay
     rki: တယ်လီဖုန်း
     rm: Telefon
@@ -370,8 +370,8 @@ dv_has_:
     so: Taleefoon
     sq: Telefoni
     sr: телефон
-    sr-ec: телефон
-    sr-el: telefon
+    sr_ec: телефон
+    sr_el: telefon
     srn: Konkrute
     su: Telepon
     sv: telefon
@@ -408,9 +408,9 @@ dv_has_:
     yue: 電話
     za: Denva
     zh: 电话
-    zh-cn: 电话
-    zh-hk: 電話
-    zh-tw: 電話
+    zh_cn: 电话
+    zh_hk: 電話
+    zh_tw: 電話
 ---
 # [[Telephone]] ☎ 
 

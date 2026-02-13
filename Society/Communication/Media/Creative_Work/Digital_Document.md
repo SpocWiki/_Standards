@@ -78,7 +78,7 @@ dv_has_:
     as: বৈদ্যুতিন নথি
     az: Elektron sənəd
     be: электронны дакумент
-    be-tarask: электронны дакумэнт
+    be_tarask: электронны дакумэнт
     bg: Електронен документ
     bs: elektronski dokument
     ca: document electrònic
@@ -86,8 +86,8 @@ dv_has_:
     de: elektronisches Dokument
     el: ηλεκτρονικό έγγραφο
     en: electronic document
-    en-ca: electronic document
-    en-gb: electronic document
+    en_ca: electronic document
+    en_gb: electronic document
     eo: elektronika dokumento
     es: documento electrónico
     et: Digitaaldokument
@@ -103,7 +103,7 @@ dv_has_:
     it: documento digitale
     ja: 電子文書
     ko: 전자 문서
-    ku-latn: belgeya elektronîk
+    ku_latn: belgeya elektronîk
     mk: електронски документ
     nb: elektronisk dokument
     ne: विद्युतीय कागजात
@@ -117,20 +117,20 @@ dv_has_:
     sk: Dokument (informatika)
     sl: elektronski dokument
     sr: електронски документ
-    sr-ec: електронски документ
-    sr-el: elektronski dokument
+    sr_ec: електронски документ
+    sr_el: elektronski dokument
     sw: Waraka pepe
     ta: எண்ணிம ஆவணம்
     tr: elektronik belge
     tt: электрон документ
-    tt-cyrl: электрон документ
+    tt_cyrl: электрон документ
     uk: електронний документ
     vec: documento ełetrònego
     vi: tài liệu số
     zh: 电子文档
-    zh-cn: 电子文档
-    zh-hans: 电子文档
-    zh-hant: 電子文件
+    zh_cn: 电子文档
+    zh_hans: 电子文档
+    zh_hant: 電子文件
 ---
 Class of all digital_documents.
 

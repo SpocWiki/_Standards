@@ -34,7 +34,7 @@ dv_has_:
     oc: Iuridae
     pl: Iuridae
     pt: Iuridae
-    pt-br: Iuridae
+    pt_br: Iuridae
     ro: Iuridae
     ru: Iuridae
     sq: Iuridae
@@ -44,9 +44,9 @@ dv_has_:
     vo: Iuridae
     war: Iuridae
     zh: 毒尾蝎科
-    zh-cn: 毒尾蝎科
-    zh-hans: 毒尾蝎科
-    zh-tw: 毒尾蝎科
+    zh_cn: 毒尾蝎科
+    zh_hans: 毒尾蝎科
+    zh_tw: 毒尾蝎科
 ---
 # [[Iuridae]] 
 

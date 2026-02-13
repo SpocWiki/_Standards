@@ -68,7 +68,7 @@ dv_has_:
     af: reduksionisme
     ar: اختزالية
     ast: reduccionismu
-    be-tarask: рэдукцыянізм
+    be_tarask: рэдукцыянізм
     bg: Редукционизъм
     bn: হ্রাসবাদ
     ca: reduccionisme
@@ -112,8 +112,8 @@ dv_has_:
     sk: redukcionizmus
     sl: redukcionizem
     sr: Редукционизам
-    sr-ec: Редукционизам
-    sr-el: redukcionizam
+    sr_ec: Редукционизам
+    sr_el: redukcionizam
     sv: reduktionism
     th: คตินิยมลดทอน
     tr: indirgemecilik
@@ -123,12 +123,12 @@ dv_has_:
     wuu: 还原论
     yue: 還原論
     zh: 還原論
-    zh-cn: 还原论
+    zh_cn: 还原论
     zh-hans: 还原论
-    zh-hant: 還原論
-    zh-hk: 還原論
-    zh-sg: 还原论
-    zh-tw: 還原論
+    zh_hant: 還原論
+    zh_hk: 還原論
+    zh_sg: 还原论
+    zh_tw: 還原論
 ---
 # [[Reductionism]] 
 

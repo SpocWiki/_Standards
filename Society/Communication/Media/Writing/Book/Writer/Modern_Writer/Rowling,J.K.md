@@ -248,7 +248,7 @@ dv_has_:
     bar: Joanne Kathleen Rowling
     bcl: J.K. Rowling
     be: Джаан Роўлінг
-    be-tarask: Джаан Роўлінг
+    be_tarask: Джаан Роўлінг
     bg: Джоан Роулинг
     bho: जे॰ के॰ रोलिंग
     bjn: Joanne Kathleen Rowling
@@ -262,7 +262,7 @@ dv_has_:
     da: J.K. Rowling
     de: Joanne K. Rowling
     de-at: Joanne Kathleen Rowling
-    de-ch: Joanne Kathleen Rowling
+    de_ch: Joanne Kathleen Rowling
     diq: J.K. Rowling
     dtp: Joanne Kathleen Rowling
     el: Τζ. Κ. Ρόουλινγκ
@@ -302,7 +302,7 @@ dv_has_:
     lij: Joanne Kathleen Rowling
     lv: Dž. K. Roulinga
     mai: जे. के. रोलिंग
-    map-bms: Joanne Kathleen Rowling
+    map_bms: Joanne Kathleen Rowling
     mg: Joanne Kathleen Rowling
     min: Joanne Kathleen Rowling
     mk: Џ. К. Роулинг
@@ -318,7 +318,7 @@ dv_has_:
     nap: Joanne Kathleen Rowling
     nb: J.K. Rowling
     nds: Joanne Kathleen Rowling
-    nds-nl: Joanne Kathleen Rowling
+    nds_nl: Joanne Kathleen Rowling
     ne: जे.के. रोलिङ
     nl: Joanne Rowling
     nn: J.K. Rowling
@@ -344,7 +344,7 @@ dv_has_:
     skr: جے کے رولنگ
     sq: Joanne K. Rowling
     sr: Џ. К. Роулинг
-    sr-el: Joanne Kathleen Rowling
+    sr_el: Joanne Kathleen Rowling
     su: J.K. Rowling
     sv: J.K. Rowling
     sw: Joanne Kathleen Rowling
@@ -355,7 +355,7 @@ dv_has_:
     tk: Joan Rouling
     tl: J.K. Rowling
     tt: Җоан Роулиңг
-    tt-cyrl: Җоан Роулиңг
+    tt_cyrl: Җоан Роулиңг
     ug: روۋلىڭ
     uk: Джоан Роулінг
     ur: جے کے رولنگ
@@ -369,14 +369,14 @@ dv_has_:
     yi: י. ק. ראלינג
     yue: J. K. 羅琳
     zh: 喬安娜·凱薩琳·羅琳
-    zh-cn: 乔安妮·凯瑟琳·罗琳
-    zh-hans: J·K·罗琳
-    zh-hant: J.K.羅琳
-    zh-hk: J.K.羅琳
-    zh-mo: J.K.羅琳
+    zh_cn: 乔安妮·凯瑟琳·罗琳
+    zh_hans: J·K·罗琳
+    zh_hant: J.K.羅琳
+    zh_hk: J.K.羅琳
+    zh_mo: J.K.羅琳
     zh-my: J·K·罗琳
-    zh-sg: J·K·罗琳
-    zh-tw: J.K.羅琳
+    zh_sg: J·K·罗琳
+    zh_tw: J.K.羅琳
     zu: Joanne Kathleen Rowling
 ---
 # [[Rowling,J.K]]

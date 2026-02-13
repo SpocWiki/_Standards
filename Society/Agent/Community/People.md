@@ -150,12 +150,12 @@ dv_has_:
     azb: خالق
     ba: халыҡ
     be: народ
-    be-tarask: народ
+    be_tarask: народ
     bg: народ
     br: pobl
     bs: narod
     ca: poble
-    cbk-zam: pueblo
+    cbk_zam: pueblo
     cdo: Ìng-mìng
     ckb: گەل
     co: populu
@@ -204,7 +204,7 @@ dv_has_:
     ko: 인민
     krc: халкъ
     ku: gel
-    ku-latn: gel
+    ku_latn: gel
     kw: tus
     ky: эл
     la: Populus
@@ -239,7 +239,7 @@ dv_has_:
     pnt: μιλέτ
     ps: خلک
     pt: povo
-    pt-br: povo
+    pt_br: povo
     qu: runa llaqta
     ro: popor
     rsk: Народ
@@ -264,13 +264,13 @@ dv_has_:
     ta: மக்கள்
     te: ప్రజలు
     tg: мардум
-    tg-cyrl: мардум
+    tg_cyrl: мардум
     th: ประชาชน
     tl: taumbayan
     tly: xəlğ
     tr: halk
     tt: халык
-    tt-cyrl: халык
+    tt_cyrl: халык
     tyv: арат
     udm: калык
     uk: народ
@@ -285,14 +285,14 @@ dv_has_:
     yue: 民眾
     za: yinzminz
     zh: 人民
-    zh-cn: 人民
-    zh-hans: 人民
-    zh-hant: 人民
-    zh-hk: 人民
-    zh-mo: 人民
+    zh_cn: 人民
+    zh_hans: 人民
+    zh_hant: 人民
+    zh_hk: 人民
+    zh_mo: 人民
     zh-my: 人民
-    zh-sg: 人民
-    zh-tw: 人民
+    zh_sg: 人民
+    zh_tw: 人民
 ---
 # [[People]] 
 

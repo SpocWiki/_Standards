@@ -219,7 +219,7 @@ dv_has_:
     az: hakim
     ba: судья
     be: суддзя
-    be-tarask: судзьдзя
+    be_tarask: судзьдзя
     bg: съдия
     bn: বিচারক
     bo: ཁྲིམས་དཔོན།
@@ -240,7 +240,7 @@ dv_has_:
     diq: Hakım
     el: δικαστής
     en: judge
-    en-gb: judge
+    en_gb: judge
     en-us: judge
     eo: juĝisto
     es: juez
@@ -283,7 +283,7 @@ dv_has_:
     ko-kp: 재판관
     ks: جَج
     ku: dadger
-    ku-latn: dadger
+    ku_latn: dadger
     kw: breusyas
     ky: судья
     la: Iudex
@@ -301,7 +301,7 @@ dv_has_:
     ml: ജഡ്ജ്
     mr: न्यायाधीश
     ms: hakim
-    ms-arab: حاکيم
+    ms_arab: حاکيم
     mt: imħallef
     mwl: Juiç
     my: တရားသူကြီး
@@ -322,7 +322,7 @@ dv_has_:
     pnb: جج
     ps: قاضي
     pt: juiz
-    pt-br: juiz
+    pt_br: juiz
     qu: Taripakuq
     rmf: dömmiboskiero
     ro: judecător
@@ -340,8 +340,8 @@ dv_has_:
     sms: suʹvddi
     sq: gjykatës
     sr: судија
-    sr-ec: судија
-    sr-el: sudija
+    sr_ec: судија
+    sr_el: sudija
     sv: domare
     sw: Hakimu
     ta: நீதியரசர்
@@ -364,14 +364,14 @@ dv_has_:
     yue: 法官
     za: fazgvanh
     zh: 法官
-    zh-cn: 法官
-    zh-hans: 法官
-    zh-hant: 法官
-    zh-hk: 法官
-    zh-mo: 法官
+    zh_cn: 法官
+    zh_hans: 法官
+    zh_hant: 法官
+    zh_hk: 法官
+    zh_mo: 法官
     zh-my: 法官
-    zh-sg: 法官
-    zh-tw: 法官
+    zh_sg: 法官
+    zh_tw: 法官
     zu: umehluleli
 ---
 # [[Judge]] 

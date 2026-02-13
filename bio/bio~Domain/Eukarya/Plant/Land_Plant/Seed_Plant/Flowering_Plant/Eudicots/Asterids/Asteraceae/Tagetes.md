@@ -107,7 +107,7 @@ dv_has_:
     az: Tagetes
     ba: Бәрхәт гөл
     be: Аксаміткі
-    be-tarask: аксамітка
+    be_tarask: аксамітка
     bg: Tagetes
     bn: গাঁদা
     ca: Tagetes
@@ -117,8 +117,8 @@ dv_has_:
     de: Studentenblume
     el: Ταγέτης
     en: Tagetes
-    en-ca: Tagetes
-    en-gb: Tagetes
+    en_ca: Tagetes
+    en_gb: Tagetes
     eo: taĝeto
     es: Tagetes
     et: Peiulill
@@ -144,11 +144,11 @@ dv_has_:
     ja: マリーゴールド
     ka: ხავერდა
     kk: Барқытшөп
-    kk-arab: بارقىتشوپ
+    kk_arab: بارقىتشوپ
     kk-cn: بارقىتشوپ
-    kk-cyrl: Барқытшөп
+    kk_cyrl: Барқытшөп
     kk-kz: Барқытшөп
-    kk-latn: Barqıtşöp
+    kk_latn: Barqıtşöp
     kk-tr: Barqıtşöp
     ko: 천수국속
     la: Tagetes
@@ -162,7 +162,7 @@ dv_has_:
     ms: Tagetes
     mul: Tagetes
     nb: fløyelsblomslekta
-    nds-nl: Afrikaon
+    nds_nl: Afrikaon
     ne: सयपत्री
     nl: Afrikaantje
     nn: fløyelsblomslekta
@@ -172,7 +172,7 @@ dv_has_:
     pl: aksamitka
     pnb: گیندا
     pt: Tagetes
-    pt-br: Tagetes
+    pt_br: Tagetes
     qu: Chikchipa
     ro: Tagetes
     ru: Бархатцы
@@ -198,12 +198,12 @@ dv_has_:
     wuu: 万寿菊属
     yue: 萬壽菊屬
     zh: 万寿菊属
-    zh-cn: 万寿菊属
-    zh-hans: 万寿菊属
-    zh-hant: 萬壽菊屬
-    zh-hk: 萬壽菊屬
-    zh-sg: 万寿菊属
-    zh-tw: 萬壽菊屬
+    zh_cn: 万寿菊属
+    zh_hans: 万寿菊属
+    zh_hant: 萬壽菊屬
+    zh_hk: 萬壽菊屬
+    zh_sg: 万寿菊属
+    zh_tw: 萬壽菊屬
 ---
 # [[Tagetes]] 
 

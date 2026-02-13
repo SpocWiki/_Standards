@@ -49,7 +49,7 @@ dv_has_:
   name_:
     ar: نجم زائف وهاج
     ast: blazar
-    be-tarask: блязар
+    be_tarask: блязар
     bg: блазар
     bn: ব্লেজার
     bs: blazar
@@ -59,8 +59,8 @@ dv_has_:
     de: Blazar
     el: μπλέιζαρ
     en: blazar
-    en-ca: Blazar
-    en-gb: Blazar
+    en_ca: Blazar
+    en_gb: Blazar
     es: blazar
     et: blasar
     eu: blazar
@@ -84,14 +84,14 @@ dv_has_:
     oc: blazar
     pl: blazar
     pt: blazar
-    pt-br: blazar
+    pt_br: blazar
     ro: blazar
     ru: блазар
     sk: blazar
     sl: blazar
     sr: блазар
-    sr-ec: блазар
-    sr-el: blazar
+    sr_ec: блазар
+    sr_el: blazar
     sv: blazar
     sw: Nyotamwako
     ta: சிற்றலை விண்மீன்

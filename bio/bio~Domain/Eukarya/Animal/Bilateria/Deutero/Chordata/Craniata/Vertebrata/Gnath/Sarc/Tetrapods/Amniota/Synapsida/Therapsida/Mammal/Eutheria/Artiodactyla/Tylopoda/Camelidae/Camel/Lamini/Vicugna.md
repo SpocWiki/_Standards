@@ -105,7 +105,7 @@ dv_has_:
     az: Vikunya
     azb: ویکونیا
     be: Вікунья
-    be-tarask: вікуньня звычайная
+    be_tarask: вікуньня звычайная
     bg: викуня
     br: Vigogn
     ca: vicunya
@@ -157,7 +157,7 @@ dv_has_:
     os: викунья
     pl: wikunia andyjska
     pt: Vicunha
-    pt-br: Vicugna vicugna
+    pt_br: Vicugna vicugna
     qu: Wik'uña
     ro: Vicuña
     ru: викунья
@@ -167,8 +167,8 @@ dv_has_:
     sl: vikunja
     sq: Vicugna vicugna
     sr: викуња
-    sr-ec: викуња
-    sr-el: vikunja
+    sr_ec: викуња
+    sr_el: vikunja
     sv: vikunja
     ta: விக்குன்யா
     th: บิกุญญา
@@ -181,12 +181,12 @@ dv_has_:
     wuu: 小羊驼
     yue: 小羊駝
     zh: 小羊駝
-    zh-cn: 小羊驼
-    zh-hans: 小羊驼
-    zh-hant: 小羊駝
-    zh-hk: 小羊駝
-    zh-sg: 小羊驼
-    zh-tw: 小羊駝
+    zh_cn: 小羊驼
+    zh_hans: 小羊驼
+    zh_hant: 小羊駝
+    zh_hk: 小羊駝
+    zh_sg: 小羊驼
+    zh_tw: 小羊駝
 ---
 # [[Vicugna]] vicugna 
 

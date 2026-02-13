@@ -163,7 +163,7 @@ dv_has_:
     azb: بوکس
     ba: Бокс
     be: бокс
-    be-tarask: бокс
+    be_tarask: бокс
     bew: Boksen
     bg: Бокс
     bjn: Gucuh
@@ -179,11 +179,11 @@ dv_has_:
     cy: paffio
     da: boksning
     de: Boxen
-    de-ch: Boxen
+    de_ch: Boxen
     el: πυγμαχία
     en: boxing
-    en-ca: boxing
-    en-gb: boxing
+    en_ca: boxing
+    en_gb: boxing
     eo: boksado
     es: boxeo
     et: poks
@@ -221,7 +221,7 @@ dv_has_:
     kn: ಬಾಕ್ಸಿಂಗ್
     ko: 권투
     ku: boks
-    ku-latn: boks
+    ku_latn: boks
     kw: boksusi
     ky: Бокс
     la: Pugilatio
@@ -255,7 +255,7 @@ dv_has_:
     pms: Bòcs
     ps: سوکوهنه
     pt: boxe
-    pt-br: boxe
+    pt_br: boxe
     qu: Saqmanakuy
     ro: box
     ru: бокс
@@ -277,8 +277,8 @@ dv_has_:
     so: Feerka
     sq: Boksi
     sr: бокс
-    sr-ec: бокс
-    sr-el: boks
+    sr_ec: бокс
+    sr_el: boks
     su: Tinju
     sv: boxning
     sw: mchezo wa ngumi
@@ -302,8 +302,8 @@ dv_has_:
     yi: באקס
     yue: 拳擊
     zh: 拳击
-    zh-hant: 拳擊
-    zh-tw: 拳擊
+    zh_hant: 拳擊
+    zh_tw: 拳擊
 ---
 # [[Boxing]] 
 

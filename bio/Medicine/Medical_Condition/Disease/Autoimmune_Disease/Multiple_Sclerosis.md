@@ -221,7 +221,7 @@ dv_has_:
     ast: Esclerosis múltiple
     az: dağınıq skleroz
     azb: مولتیپل ایسکلروزیس
-    be-tarask: расьсеяны склероз
+    be_tarask: расьсеяны склероз
     bg: Множествена склероза
     bn: মাল্টিপল স্ক্লেরোসিস
     bs: Multipla skleroza
@@ -233,8 +233,8 @@ dv_has_:
     de: Multiple Sklerose
     el: πολλαπλή σκλήρυνση
     en: multiple sclerosis
-    en-ca: Multiple sclerosis
-    en-gb: multiple sclerosis
+    en_ca: Multiple sclerosis
+    en_gb: multiple sclerosis
     eo: multloka sklerozo
     es: esclerosis múltiple
     et: multiipelskleroos
@@ -274,7 +274,7 @@ dv_has_:
     or: ମଲ୍ଟିପ୍ଲସ୍କ୍ଲେରୋସିସ
     pl: stwardnienie rozsiane
     pt: esclerose múltipla
-    pt-br: Esclerose múltipla
+    pt_br: Esclerose múltipla
     ro: scleroză multiplă
     ru: рассеянный склероз
     se: MS-dávda
@@ -283,7 +283,7 @@ dv_has_:
     sl: multipla skleroza
     sq: Multiple skleroza
     sr: мултипла склероза
-    sr-ec: мултипла склероза
+    sr_ec: мултипла склероза
     sv: multipel skleros
     sw: Sklerosisi ya sehemu nyingi
     ta: தண்டுவட மரப்பு நோய்
@@ -298,8 +298,8 @@ dv_has_:
     wuu: 多发性硬化症
     yue: 多發性硬化症
     zh: 多发性硬化症
-    zh-hant: 多發性硬化症
-    zh-tw: 多發性硬化症
+    zh_hant: 多發性硬化症
+    zh_tw: 多發性硬化症
 ---
 # [[Multiple_Sclerosis]] 
 

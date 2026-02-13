@@ -146,7 +146,7 @@ dv_has_:
     ba: машиналар эшләү
     bcl: inhinyeriyang mekanikal
     be: машынабудаванне
-    be-tarask: машынабудаваньне
+    be_tarask: машынабудаваньне
     bg: машиностроене
     bn: যন্ত্র প্রকৌশল
     bs: mašinstvo
@@ -221,8 +221,8 @@ dv_has_:
     sl: strojništvo
     sq: inxhinieria mekanike
     sr: машинство
-    sr-ec: машинство
-    sr-el: mašinstvo
+    sr_ec: машинство
+    sr_el: mašinstvo
     sv: maskinteknik
     sw: uhandisi mitambo
     ta: இயந்திரவியல் பொறியியல்
@@ -244,12 +244,12 @@ dv_has_:
     yue: 機械工程
     zgh: ⵜⴰⵏⵣⴳⴳⵉⵜ ⵜⴰⵎⵉⴽⴰⵏⵉⴽⵜ
     zh: 机械工程
-    zh-cn: 机械工程
-    zh-hans: 机械工程
-    zh-hant: 機械工程
-    zh-hk: 機械工程
-    zh-sg: 机械工程
-    zh-tw: 機械工程
+    zh_cn: 机械工程
+    zh_hans: 机械工程
+    zh_hant: 機械工程
+    zh_hk: 機械工程
+    zh_sg: 机械工程
+    zh_tw: 機械工程
 ---
 # [[Mechanical_Engineering]] 
 

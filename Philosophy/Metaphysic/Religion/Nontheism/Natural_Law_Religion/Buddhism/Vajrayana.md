@@ -72,7 +72,7 @@ dv_has_:
     arz: فاجرايانيه
     bcl: Vajrayana
     be: Ваджраяна
-    be-tarask: ваджраяна
+    be_tarask: ваджраяна
     bg: Ваджраяна
     bho: वज्रयान
     bn: বজ্রযান
@@ -107,7 +107,7 @@ dv_has_:
     jv: Buddha Vajrayana
     ka: ვაჯრაიანა
     kk: Ваджраяна
-    kk-cyrl: Ваджраяна
+    kk_cyrl: Ваджраяна
     km: ព្រះពុទ្ធសាសនាតាមតំបន់
     ko: 밀교
     krj: Wëdzrëyanë
@@ -138,8 +138,8 @@ dv_has_:
     sk: Vadžrajána
     sl: vadžrajana
     sr: вађрајана
-    sr-ec: Вађрајана
-    sr-el: Vađrajana
+    sr_ec: Вађрајана
+    sr_el: Vađrajana
     sv: vajrayana
     ta: வச்ரயான பௌத்தம்
     te: వజ్రయానం
@@ -154,12 +154,12 @@ dv_has_:
     wuu: 密宗
     yue: 密宗
     zh: 密宗
-    zh-cn: 密宗
-    zh-hans: 密宗
-    zh-hant: 密宗
-    zh-hk: 密宗
-    zh-sg: 密宗
-    zh-tw: 密宗
+    zh_cn: 密宗
+    zh_hans: 密宗
+    zh_hant: 密宗
+    zh_hk: 密宗
+    zh_sg: 密宗
+    zh_tw: 密宗
 ---
 # [[Vajrayana]] 
 

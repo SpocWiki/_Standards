@@ -40,7 +40,7 @@ dv_has_:
     ast: Celastrales
     az: Celastrales
     be: Брызглінакветныя
-    be-tarask: брызглінакветныя
+    be_tarask: брызглінакветныя
     bg: чашкодряноцветни
     ca: Celastrals
     ceb: Celastrales
@@ -49,8 +49,8 @@ dv_has_:
     de: Spindelbaumartige
     el: Κηλαστρώδη
     en: Celastrales
-    en-ca: Celastrales
-    en-gb: Celastrales
+    en_ca: Celastrales
+    en_gb: Celastrales
     eo: Celastraloj
     es: Celastrales
     et: Kikkapuulaadsed
@@ -84,7 +84,7 @@ dv_has_:
     oc: Celastrales
     pl: dławiszowce
     pt: Celastrales
-    pt-br: Celastrales
+    pt_br: Celastrales
     ro: Celastrales
     ru: бересклетоцветные
     sk: bršlencotvaré
@@ -98,10 +98,10 @@ dv_has_:
     vo: Celastrales
     war: Celastrales
     zh: 卫矛目
-    zh-cn: 卫矛目
-    zh-hans: 卫矛目
-    zh-hant: 卫矛目
-    zh-tw: 衛矛目
+    zh_cn: 卫矛目
+    zh_hans: 卫矛目
+    zh_hant: 卫矛目
+    zh_tw: 衛矛目
 ---
 ## Phylogeny 
 

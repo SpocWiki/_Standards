@@ -112,7 +112,7 @@ dv_has_:
     awa: द प्रिन्स
     az: Şahzadə
     be: Уладар
-    be-tarask: Уладар
+    be_tarask: Уладар
     bg: Владетелят
     bn: দ্য প্রিন্স
     bs: Vladar
@@ -123,11 +123,11 @@ dv_has_:
     cy: Il Principe
     da: Fyrsten
     de: Der Fürst
-    de-ch: Der Fürst
+    de_ch: Der Fürst
     el: Ο Ηγεμόνας
     en: The Prince
-    en-ca: The Prince
-    en-gb: The Prince
+    en_ca: The Prince
+    en_gb: The Prince
     en-us: The Prince
     eo: La Princo
     es: El Príncipe
@@ -154,8 +154,8 @@ dv_has_:
     ka: მთავარი (მაკიაველი)
     ko: 군주론
     ku: Mîr
-    ku-arab: میر
-    ku-latn: Mîr
+    ku_arab: میر
+    ku_latn: Mîr
     la: De principe
     lt: Valdovas
     lv: Valdnieks
@@ -170,7 +170,7 @@ dv_has_:
     pa: ਦ ਪ੍ਰਿੰਸ
     pl: Książę
     pt: O Príncipe
-    pt-br: O Príncipe
+    pt_br: O Príncipe
     ro: Principele
     ru: Государь
     scn: Lu Prìncipi
@@ -179,8 +179,8 @@ dv_has_:
     sk: Vladár
     sl: Vladar
     sr: Владалац
-    sr-ec: Владалац
-    sr-el: Vladalac
+    sr_ec: Владалац
+    sr_el: Vladalac
     sv: Fursten
     ta: த பிரின்ஸ்
     th: เจ้าผู้ปกครอง
@@ -192,12 +192,12 @@ dv_has_:
     wuu: 君主论
     yue: 君王論
     zh: 君主论
-    zh-cn: 君主论
-    zh-hans: 君主论
-    zh-hant: 君主論
-    zh-hk: 君主論
-    zh-sg: 君主论
-    zh-tw: 君主論
+    zh_cn: 君主论
+    zh_hans: 君主论
+    zh_hant: 君主論
+    zh_hk: 君主論
+    zh_sg: 君主论
+    zh_tw: 君主論
 ---
 # [[The_Prince]] 
 

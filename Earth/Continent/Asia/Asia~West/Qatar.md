@@ -65,7 +65,7 @@ dv_has_:
     ab: Ҟатар
     ace: Qatar
     ady: Катар
-    aeb-arab: قطر
+    aeb_arab: قطر
     af: Katar
     am: ቃጣር
     ami: Qatar
@@ -89,7 +89,7 @@ dv_has_:
     bar: Katar
     bcl: Qatar
     be: Катар
-    be-tarask: Катар
+    be_tarask: Катар
     bew: Katar
     bg: Катар
     bgn: کتر
@@ -105,13 +105,13 @@ dv_has_:
     bug: Qatar
     bxr: Катар
     ca: Qatar
-    cbk-zam: Qatar
+    cbk_zam: Qatar
     cdo: Qatar
     ce: КъатӀар
     ceb: Qatar
     ckb: قەتەر
     crh: Qatar
-    crh-latn: Qatar
+    crh_latn: Qatar
     cs: Katar
     csb: Katar
     cv: Катар
@@ -120,7 +120,7 @@ dv_has_:
     dag: Qatar
     de: Katar
     de-at: Katar
-    de-ch: Katar
+    de_ch: Katar
     diq: Qeter
     dsb: Katar
     dtp: Qatar
@@ -130,8 +130,8 @@ dv_has_:
     ee: Qatar
     el: Κατάρ
     en: Qatar
-    en-ca: Qatar
-    en-gb: Qatar
+    en_ca: Qatar
+    en_gb: Qatar
     eo: Kataro
     es: Catar
     et: Katar
@@ -262,7 +262,7 @@ dv_has_:
     pnb: قطر
     ps: قطر
     pt: Catar
-    pt-br: Catar
+    pt_br: Catar
     qu: Qatar
     rmy: Qatar
     ro: Qatar
@@ -292,8 +292,8 @@ dv_has_:
     so: Qatar
     sq: Katari
     sr: Катар
-    sr-ec: Катар
-    sr-el: Katar
+    sr_ec: Катар
+    sr_el: Katar
     ss: IKhathari
     su: Qatar
     sv: Qatar
@@ -340,12 +340,12 @@ dv_has_:
     zea: Qatar
     zgh: ⵇⴰⵟⴰⵔ
     zh: 卡塔尔
-    zh-cn: 卡塔尔
-    zh-hans: 卡塔尔
-    zh-hant: 卡達
-    zh-hk: 卡塔爾
+    zh_cn: 卡塔尔
+    zh_hans: 卡塔尔
+    zh_hant: 卡達
+    zh_hk: 卡塔爾
     zh-my: 卡塔尔
-    zh-tw: 卡達
+    zh_tw: 卡達
     zu: i-Qatar
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Qatar

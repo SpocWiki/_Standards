@@ -227,13 +227,13 @@ dv_has_:
     azb: آوتیزم
     bcl: awtismo
     be: Аўтызм
-    be-tarask: аўтызм
+    be_tarask: аўтызм
     bg: Аутизъм
     bn: আত্মসংবৃতি
     br: Aotism
     bs: autizam
     ca: autisme
-    cbk-zam: autismo
+    cbk_zam: autismo
     ceb: awtismo
     ckb: ئۆتیزم
     co: autismu
@@ -246,8 +246,8 @@ dv_has_:
     dv: އޯޓިޒަމް
     el: αυτισμός
     en: autism
-    en-ca: Autism
-    en-gb: autism
+    en_ca: Autism
+    en_gb: autism
     eo: aŭtismo
     es: autismo
     et: autism
@@ -298,7 +298,7 @@ dv_has_:
     ml: ഓട്ടിസം
     mr: ऑटिझम
     ms: autisme
-    ms-arab: اءوتيسمى
+    ms_arab: اءوتيسمى
     nan: Chū-pì-chèng
     nb: autisme
     ne: अटिज्म
@@ -312,7 +312,7 @@ dv_has_:
     pdc: Autism
     pl: autyzm
     pt: autismo
-    pt-br: Autismo
+    pt_br: Autismo
     rn: Indwara ya autisme
     ro: autism
     ru: аутизм
@@ -351,9 +351,9 @@ dv_has_:
     xmf: აუტიზმი
     yue: 自閉症
     zh: 自閉症
-    zh-hans: 自闭症
-    zh-hant: 自閉症
-    zh-tw: 自閉症
+    zh_hans: 自闭症
+    zh_hant: 自閉症
+    zh_tw: 自閉症
 ---
 # [[Autism]] 
 

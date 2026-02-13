@@ -38,7 +38,7 @@ dv_has_:
     oc: Rhodomelaceae
     pl: Rhodomelaceae
     pt: Rhodomelaceae
-    pt-br: Rhodomelaceae
+    pt_br: Rhodomelaceae
     ro: Rhodomelaceae
     ru: Rhodomelaceae
     sq: Rhodomelaceae
@@ -47,10 +47,10 @@ dv_has_:
     vo: Rhodomelaceae
     war: Rhodomelaceae
     zh: 松节藻科
-    zh-cn: 松节藻科
-    zh-hans: 松节藻科
-    zh-hant: 鬆節藻科
-    zh-tw: 松節藻科
+    zh_cn: 松节藻科
+    zh_hans: 松节藻科
+    zh_hant: 鬆節藻科
+    zh_tw: 松節藻科
 ---
 ## Phylogeny 
 

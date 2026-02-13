@@ -109,7 +109,7 @@ dv_has_:
     az: Senzura
     ba: цензура
     be: цэнзура
-    be-tarask: цэнзура
+    be_tarask: цэнзура
     bg: Цензура
     bn: বিবাচন
     bs: Cenzura
@@ -122,8 +122,8 @@ dv_has_:
     diq: Sansur
     el: λογοκρισία
     en: censorship
-    en-ca: censorship
-    en-gb: censorship
+    en_ca: censorship
+    en_gb: censorship
     eo: cenzuro
     es: censura
     et: Tsensuur
@@ -158,7 +158,7 @@ dv_has_:
     mn: Цагдан хяналт
     mr: परिनिरीक्षण
     ms: penapisan
-    ms-arab: ڤناڤيسن
+    ms_arab: ڤناڤيسن
     my: ဆင်ဆာပြုလုပ်ခြင်း
     nb: sensur
     ne: सेन्सरसिप
@@ -169,7 +169,7 @@ dv_has_:
     pl: cenzura
     ps: سانسور
     pt: censura
-    pt-br: censura
+    pt_br: censura
     ro: cenzură
     ru: цензура
     rue: Цензура
@@ -181,7 +181,7 @@ dv_has_:
     sl: cenzura
     sq: Cenzura
     sr: цензура
-    sr-ec: цензура
+    sr_ec: цензура
     sv: censur
     ta: தணிக்கை முறை
     th: การตรวจพิจารณา
@@ -196,10 +196,10 @@ dv_has_:
     yi: צענזור
     yue: 審查
     zh: 审查制度
-    zh-cn: 审查制度
-    zh-hans: 审查制度
-    zh-hant: 審查制度
-    zh-tw: 審查制度
+    zh_cn: 审查制度
+    zh_hans: 审查制度
+    zh_hant: 審查制度
+    zh_tw: 審查制度
 ---
 # [[Censorship]] 
 

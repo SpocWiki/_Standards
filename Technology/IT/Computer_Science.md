@@ -208,7 +208,7 @@ dv_has_:
     bar: Informatik
     bcl: Siyensyang pangkompyuter
     be: інфарматыка
-    be-tarask: інфарматыка
+    be_tarask: інфарматыка
     bew: Èlmu kumpiuter
     bg: Информатика
     bho: कंप्यूटर बिज्ञान
@@ -224,13 +224,13 @@ dv_has_:
     cy: cyfrifiadureg
     da: datalogi
     de: Informatik
-    de-ch: Informatik
+    de_ch: Informatik
     diq: İnformatik
     el: επιστήμη υπολογιστών
     eml: Informàtica
     en: computer science
-    en-ca: Informatics
-    en-gb: computer science
+    en_ca: Informatics
+    en_gb: computer science
     eo: komputiko
     es: ciencias de la computación
     et: informaatika
@@ -299,14 +299,14 @@ dv_has_:
     mni: ꯀꯝꯄꯨꯇꯔ ꯂꯧꯁꯤꯡꯀꯥꯡꯂꯣꯟ
     mr: संगणक विज्ञान
     ms: sains komputer
-    ms-arab: ساءينس کومڤوتر
+    ms_arab: ساءينس کومڤوتر
     mwl: Ciéncia de la cumputaçon
     my: ကွန်ပျူတာသိပ္ပံ
     nan: Tiān-náu kho-ha̍k
     nap: Nfurmateca
     nb: informatikk
     nds: Informatik
-    nds-nl: infermatika
+    nds_nl: infermatika
     ne: कम्प्युटर विज्ञान
     new: कम्प्युटर विज्ञान
     nl: informatica
@@ -324,7 +324,7 @@ dv_has_:
     pms: Anformàtica
     ps: کمپیوټر ساینس
     pt: ciência de computadores
-    pt-br: ciência da computação
+    pt_br: ciência da computação
     qu: Antañiqiq hamut'ay
     rki: ကွန်ပျူတာသိပ္ပံ
     ro: informatică
@@ -349,8 +349,8 @@ dv_has_:
     smn: tiäđuikieđâvuššâmtieđâ
     sq: shkencë kompjuterike
     sr: информатика
-    sr-ec: информатика
-    sr-el: informatika
+    sr_ec: информатика
+    sr_el: informatika
     stq: Informoatik
     su: Élmu komputer
     sv: datavetenskap
@@ -359,7 +359,7 @@ dv_has_:
     te: కంప్యూటరు శాస్త్రం
     tet: Definisaun Sistema Informasaun Teknologia
     tg: илмҳои роёна
-    tg-cyrl: информатика
+    tg_cyrl: информатика
     th: วิทยาการคอมพิวเตอร์
     ti: ኮምፒዩተር ሳይንስ
     tk: Informatika
@@ -368,7 +368,7 @@ dv_has_:
     tpi: Save long komputa
     tr: bilgisayar bilimi
     tt: информатика
-    tt-cyrl: компьютер белеме
+    tt_cyrl: компьютер белеме
     ug: بیلگیسايار مۈھەندیسلیغی
     uk: інформатика
     ur: کمپیوٹر سائنس
@@ -385,14 +385,14 @@ dv_has_:
     yue: 電腦科學
     zea: Informaotica
     zh: 計算機科學
-    zh-cn: 计算机科学
-    zh-hans: 计算机科学
-    zh-hant: 電腦科學
-    zh-hk: 計算機科學
-    zh-mo: 電腦科學
+    zh_cn: 计算机科学
+    zh_hans: 计算机科学
+    zh_hant: 電腦科學
+    zh_hk: 計算機科學
+    zh_mo: 電腦科學
     zh-my: 电脑科学
-    zh-sg: 电脑科学
-    zh-tw: 電腦科學
+    zh_sg: 电脑科学
+    zh_tw: 電腦科學
     zu: Inzululwazi yesiCikizi
 ---
 # [[Computer_Science]] 

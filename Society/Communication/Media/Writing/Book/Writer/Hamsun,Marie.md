@@ -15,7 +15,7 @@ dv_has_:
     arz: مارى هامسون
     ast: Marie Hamsun
     be: Мары Гамсун
-    be-tarask: Мары Гамсун
+    be_tarask: Мары Гамсун
     ca: Marie Hamsun
     cs: Marie Hamsun
     da: Marie Hamsun
@@ -35,7 +35,7 @@ dv_has_:
     pap: Marie Hamsun
     pl: Marie Hamsun
     pt: Marie Hamsun
-    pt-br: Marie Hamsun
+    pt_br: Marie Hamsun
     ro: Marie Hamsun
     ru: Мари Гамсун
     sl: Marie Hamsun

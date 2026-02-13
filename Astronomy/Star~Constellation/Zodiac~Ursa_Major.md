@@ -194,7 +194,7 @@ dv_has_:
     azb: اؤلکر(اولدوز شکیلی)
     ba: Оло Етегән
     be: Вялікая Мядзведзіца
-    be-tarask: Вялікая Мядзьведзіха
+    be_tarask: Вялікая Мядзьведзіха
     bg: Голяма мечка
     bjn: Karantika
     bn: বৃহৎ ভল্লুক
@@ -211,12 +211,12 @@ dv_has_:
     cy: Ursa Major
     da: Store Bjørn
     de: Großer Bär
-    de-ch: Grosser Bär
+    de_ch: Grosser Bär
     diq: Heşa Gırse
     el: Μεγάλη Άρκτος
     en: Ursa Major
-    en-ca: Ursa Major
-    en-gb: Ursa Major
+    en_ca: Ursa Major
+    en_gb: Ursa Major
     en-us: Ursa Major
     eo: Granda Ursino
     es: Osa Mayor
@@ -285,7 +285,7 @@ dv_has_:
     pl: Wielka Niedźwiedzica
     pnb: وڈا رچھ
     pt: Ursa Major
-    pt-br: Ursa Major
+    pt_br: Ursa Major
     rki: အာရှာ မေဂျာ
     ro: Ursa Mare
     ru: Большая Медведица
@@ -299,8 +299,8 @@ dv_has_:
     sl: Veliki medved
     sq: Ursa Major
     sr: Велики медвед
-    sr-ec: Велики медвед
-    sr-el: Veliki medved
+    sr_ec: Велики медвед
+    sr_el: Veliki medved
     sv: Stora björnen
     sw: Dubu Mkubwa
     szl: Wielkŏ Niedźwiedzica
@@ -323,7 +323,7 @@ dv_has_:
     xmf: დიდი თუნთი
     yue: 大熊座
     zh: 大熊座
-    zh-tw: 大熊座
+    zh_tw: 大熊座
 dv_is_:
   same_as:
   - '[[../../WikiData/WD~Ursa_Major,8918|WD~Ursa_Major,8918]]'

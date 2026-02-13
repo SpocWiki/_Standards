@@ -89,7 +89,7 @@ dv_has_:
     azb: آنیمیسم
     ba: Анимизм
     be: анімізм
-    be-tarask: анімізм
+    be_tarask: анімізм
     bew: Kearwahan
     bg: Анимизъм
     bn: সর্বপ্রাণবাদ
@@ -147,7 +147,7 @@ dv_has_:
     ms: Animisme
     nb: animisme
     nds: Animismus
-    nds-nl: animisme
+    nds_nl: animisme
     nl: animisme
     nn: animisme
     oc: Animisme

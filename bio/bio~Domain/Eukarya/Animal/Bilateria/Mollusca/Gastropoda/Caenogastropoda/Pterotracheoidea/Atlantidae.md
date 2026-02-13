@@ -38,7 +38,7 @@ dv_has_:
     oc: Atlantidae
     pl: Atlantidae
     pt: Atlantidae
-    pt-br: Atlantidae
+    pt_br: Atlantidae
     ro: Atlantidae
     ru: Атлантиды
     sq: Atlantidae
@@ -49,8 +49,8 @@ dv_has_:
     vo: Atlantidae
     war: Atlantidae
     zh: 海蝶螺科
-    zh-cn: 明螺科
-    zh-tw: 明螺科
+    zh_cn: 明螺科
+    zh_tw: 明螺科
 ---
 # [[Atlantidae]] 
 

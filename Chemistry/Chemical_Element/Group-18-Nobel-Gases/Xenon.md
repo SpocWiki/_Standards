@@ -142,7 +142,7 @@ dv_has_:
     ban: Xénon
     bcl: Xenon
     be: ксенон
-    be-tarask: ксэнон
+    be_tarask: ксэнон
     bg: ксенон
     bho: जेनॉन
     bn: জেনন
@@ -160,7 +160,7 @@ dv_has_:
     cy: senon
     da: xenon
     de: Xenon
-    de-ch: Xenon
+    de_ch: Xenon
     el: ξένο
     en: xenon
     eo: ksenono
@@ -222,7 +222,7 @@ dv_has_:
     mr: झेनॉन
     mrj: Ксенон
     ms: xenon
-    ms-arab: زينون
+    ms_arab: زينون
     mt: kseno
     my: ဇီနွန်
     myv: Ксенон
@@ -245,7 +245,7 @@ dv_has_:
     pnb: زینون
     ps: زېنون
     pt: xenón
-    pt-br: xenônio
+    pt_br: xenônio
     qu: Senun
     ro: xenon
     ru: ксенон
@@ -263,7 +263,7 @@ dv_has_:
     so: Siinoon
     sq: Ksenoni
     sr: ксенон
-    sr-ec: ксенон
+    sr_ec: ксенон
     stq: Xenon
     su: Xénon
     sv: xenon
@@ -275,7 +275,7 @@ dv_has_:
     tl: Henon
     tr: Ksenon
     tt: ксенон
-    tt-cyrl: ксенон
+    tt_cyrl: ксенон
     ug: كسېنون
     uk: ксенон
     ur: زینون
@@ -289,8 +289,8 @@ dv_has_:
     yo: Ksenon
     yue: 氙
     zh: 氙
-    zh-hant: 氙
-    zh-tw: 氙
+    zh_hant: 氙
+    zh_tw: 氙
     zu: IXhwe
   number_of_:
     period: 5

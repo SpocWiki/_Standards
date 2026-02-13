@@ -212,7 +212,7 @@ dv_has_:
     ba: Славян телдәр
     bar: slawische Sprochn
     be: славянскія мовы
-    be-tarask: славянскія мовы
+    be_tarask: славянскія мовы
     bg: славянски езици
     bn: স্লাভীয় ভাষাসমূহ
     br: yezhoù slavek
@@ -221,7 +221,7 @@ dv_has_:
     ce: Славянийн меттанаш
     co: lingui slavi
     crh: Slavân tilleri
-    crh-latn: Slavân tilleri
+    crh_latn: Slavân tilleri
     cs: slovanské jazyky
     csb: Słowiańsczé jãzëczi
     cu: Словѣньсци ѩꙁꙑци
@@ -229,13 +229,13 @@ dv_has_:
     cy: Ieithoedd Slafonaidd
     da: Slaviske sprog
     de: Slawisch
-    de-ch: Slawische Sprachen
+    de_ch: Slawische Sprachen
     diq: Zıwanê Slawki
     dsb: Słowjańske rěcy
     el: Σλαβικές γλώσσες
     en: Slavic
-    en-ca: Slavic
-    en-gb: Slavic
+    en_ca: Slavic
+    en_gb: Slavic
     eo: slava lingvaro
     es: lenguas eslavas
     et: slaavi keeled
@@ -314,7 +314,7 @@ dv_has_:
     pnb: سلاوی زباناں
     ps: سلاوي ژبې
     pt: línguas eslavas
-    pt-br: línguas eslavas
+    pt_br: línguas eslavas
     qu: Islaw rimaykuna
     rmy: Slavikane chhiba
     ro: limbi slave
@@ -334,8 +334,8 @@ dv_has_:
     sms: slaavlaž ǩiõl
     sq: Grupi Sllav
     sr: словенски језици
-    sr-ec: словенски језици
-    sr-el: slovenski jezici
+    sr_ec: словенски језици
+    sr_el: slovenski jezici
     stq: Slawiske Sproaken
     sv: slaviska språk
     sw: Lugha za Kislavoni
@@ -348,7 +348,7 @@ dv_has_:
     tok: kulupu toki Lowan
     tr: Slav dilleri
     tt: славян телләре
-    tt-cyrl: славән телләре
+    tt_cyrl: славән телләре
     tyv: Славян дылдар
     udm: Славян кылъёс
     ug: سىلاۋىيان تىللىرى
@@ -367,8 +367,8 @@ dv_has_:
     yue: 斯拉夫語族
     zea: Slaovische taelen
     zh: 斯拉夫语族
-    zh-hant: 斯拉夫語族
-    zh-tw: 斯拉夫語族
+    zh_hant: 斯拉夫語族
+    zh_tw: 斯拉夫語族
 ---
 # [[LangFamily-Slavic]] 
 

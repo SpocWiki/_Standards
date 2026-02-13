@@ -207,7 +207,7 @@ dv_has_:
     azb: جیمز کلرک ماکسول
     ba: Джеймс Максвелл
     be: Джэймс Максвел
-    be-tarask: Джэймз Кларк Максўэл
+    be_tarask: Джэймз Кларк Максўэл
     bg: Джеймс Кларк Максуел
     bn: জেমস ক্লার্ক ম্যাক্সওয়েল
     br: James Clerk Maxwell
@@ -224,8 +224,8 @@ dv_has_:
     ee: James Clerk Maxwell
     el: Τζέιμς Κλερκ Μάξγουελ
     en: James Clerk Maxwell
-    en-ca: James Clerk Maxwell
-    en-gb: James Clerk Maxwell
+    en_ca: James Clerk Maxwell
+    en_gb: James Clerk Maxwell
     en-us: James Clerk Maxwell
     eo: James Clerk Maxwell
     es: James Clerk Maxwell
@@ -297,7 +297,7 @@ dv_has_:
     pnt: Τζέιμς Κλερκ Μάξγουελ
     ps: جيمز کلارک ميکسويل
     pt: James Clerk Maxwell
-    pt-br: James Clerk Maxwell
+    pt_br: James Clerk Maxwell
     qu: James Clerk Maxwell
     rki: မက်စ်ဝဲ
     ro: James Clerk Maxwell
@@ -337,8 +337,8 @@ dv_has_:
     yue: 麥士維
     za: James Clerk Maxwell
     zh: 詹姆斯·克拉克·麦克斯韦
-    zh-hant: 詹姆斯·克拉克·馬克士威
-    zh-hk: 占士·奇略·麥士維
+    zh_hant: 詹姆斯·克拉克·馬克士威
+    zh_hk: 占士·奇略·麥士維
 ---
 # [[Maxwell,James_Clerk]]  
 

@@ -89,7 +89,7 @@ dv_has_:
     ar: تطور النجوم
     ast: evolución estelar
     be: эвалюцыя зорак
-    be-tarask: эвалюцыя зорак
+    be_tarask: эвалюцыя зорак
     bg: Звездна еволюция
     bn: তারার বিবর্তন
     bs: Zvjezdana evolucija
@@ -101,8 +101,8 @@ dv_has_:
     de: Sternentwicklung
     el: αστρική εξέλιξη
     en: stellar evolution
-    en-ca: Stellar evolution
-    en-gb: stellar evolution
+    en_ca: Stellar evolution
+    en_gb: stellar evolution
     eo: evoluo de stelo
     es: evolución estelar
     et: Täheareng
@@ -132,7 +132,7 @@ dv_has_:
     or: ନକ୍ଷତ୍ରର ବିବର୍ତ୍ତନ ପ୍ରକ୍ରିୟା
     pl: Ewolucja gwiazd
     pt: evolução estelar
-    pt-br: Evolução estelar
+    pt_br: Evolução estelar
     ro: Evoluția stelelor
     ru: звёздная эволюция
     sk: vývoj hviezdy

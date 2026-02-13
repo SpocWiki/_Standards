@@ -3,7 +3,7 @@ has_id_wikidata: Q3130638
 dv_has_:
   name_:
     ar: سكين المائدة
-    be-tarask: сталовы нож
+    be_tarask: сталовы нож
     ca: ganivet de taula
     cs: příborový nůž
     csb: Prosti nóż

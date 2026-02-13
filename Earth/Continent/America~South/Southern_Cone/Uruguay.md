@@ -507,7 +507,7 @@ Wolfram_Language_entity_code: Entity["Country", "Uruguay"]
 dv_has_:
   name_:
     ace: Uruguay
-    aeb-arab: الأوروڨواي
+    aeb_arab: الأوروڨواي
     af: Uruguay
     am: ኡራጓይ
     ami: Uruguay
@@ -529,7 +529,7 @@ dv_has_:
     bar: Uruguay
     bcl: Uruguay
     be: Уругвай
-    be-tarask: Уругвай
+    be_tarask: Уругвай
     bew: Urugué
     bg: Уругвай
     bho: उरुग्वे
@@ -541,7 +541,7 @@ dv_has_:
     bs: Urugvaj
     bxr: Уругвай
     ca: Uruguai
-    cbk-zam: Uruguay
+    cbk_zam: Uruguay
     cdo: Uruguay
     ce: Уругвай
     ceb: Uruguay
@@ -549,7 +549,7 @@ dv_has_:
     ckb: ئوروگوای
     co: Uruguay
     crh: Urugvay
-    crh-latn: Urugvay
+    crh_latn: Urugvay
     cs: Uruguay
     cu: Оуроугваи
     cv: Уругвай
@@ -558,7 +558,7 @@ dv_has_:
     dag: Uruguay
     de: Uruguay
     de-at: Uruguay
-    de-ch: Uruguay
+    de_ch: Uruguay
     diq: Uruguay
     dsb: Uruguay
     dty: उरुग्वे
@@ -566,8 +566,8 @@ dv_has_:
     ee: Uruguay
     el: Ουρουγουάη
     en: Uruguay
-    en-ca: Uruguay
-    en-gb: Uruguay
+    en_ca: Uruguay
+    en_gb: Uruguay
     en-us: Uruguay
     eo: Urugvajo
     es: Uruguay
@@ -593,7 +593,7 @@ dv_has_:
     gn: Uruguái
     gom: उरुग्वे
     gom-deva: उरुग्वे
-    gom-latn: Uruguay
+    gom_latn: Uruguay
     got: "\U0001033F\U00010342\U0001033F\U00010330\U00010337\U00010345\U00010330"
     gpe: Uruguay
     gsw: Uruguay
@@ -661,7 +661,7 @@ dv_has_:
     lzh: 烏拉圭
     mad: Uruguay
     mai: उरुग्वे
-    map-bms: Uruguay
+    map_bms: Uruguay
     mdf: Уругвай
     mg: Uruguay
     mhr: Уругвай
@@ -683,7 +683,7 @@ dv_has_:
     nap: Uruguay
     nb: Uruguay
     nds: Uruguay
-    nds-nl: Uruguay
+    nds_nl: Uruguay
     ne: उरुग्वे
     new: उरुग्वे
     nl: Uruguay
@@ -707,7 +707,7 @@ dv_has_:
     pnb: یوراگوئے
     ps: يوراګوای
     pt: Uruguai
-    pt-br: Uruguai
+    pt_br: Uruguai
     qu: Uruwayi
     rm: Uruguay
     rmy: Uruguay
@@ -737,8 +737,8 @@ dv_has_:
     so: Uruguay
     sq: Uruguaji
     sr: Уругвај
-    sr-ec: Уругвај
-    sr-el: Urugvaj
+    sr_ec: Уругвај
+    sr_el: Urugvaj
     stq: Uruguay
     su: Uruguay
     sv: Uruguay
@@ -789,14 +789,14 @@ dv_has_:
     zea: Uruguay
     zgh: ⵓⵔⵓⴳⵡⴰⵢ
     zh: 烏拉圭
-    zh-cn: 乌拉圭
-    zh-hans: 乌拉圭
-    zh-hant: 烏拉圭
-    zh-hk: 烏拉圭
-    zh-mo: 乌拉圭
+    zh_cn: 乌拉圭
+    zh_hans: 乌拉圭
+    zh_hant: 烏拉圭
+    zh_hk: 烏拉圭
+    zh_mo: 乌拉圭
     zh-my: 乌拉圭
-    zh-sg: 乌拉圭
-    zh-tw: 烏拉圭
+    zh_sg: 乌拉圭
+    zh_tw: 烏拉圭
     zu: i-Uruguay
   url_for_:
     code_repository: https://github.com/SpocWiki/America-Uruguay

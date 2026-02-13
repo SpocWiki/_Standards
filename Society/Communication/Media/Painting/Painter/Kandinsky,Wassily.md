@@ -310,7 +310,7 @@ dv_has_:
     az: Vasili Kandinski
     ba: Кандинский Василий Васильевич
     be: Васіль Васільевіч Кандзінскі
-    be-tarask: Васіль Кандзінскі
+    be_tarask: Васіль Кандзінскі
     bg: Василий Кандински
     bho: वासिली कैंदिन्सकी
     br: Vassily Kandinsky
@@ -321,11 +321,11 @@ dv_has_:
     cy: Wassily Kandinsky
     da: Vasilij Kandinskij
     de: Wassily Kandinsky
-    de-ch: Wassily Kandinsky
+    de_ch: Wassily Kandinsky
     el: Βασίλι Καντίνσκι
     en: Wassily Kandinsky
-    en-ca: Wassily Kandinsky
-    en-gb: Wassily Kandinsky
+    en_ca: Wassily Kandinsky
+    en_gb: Wassily Kandinsky
     eo: Vasilij Kandinskij
     es: Vasili Kandinski
     et: Vassili Kandinsky
@@ -372,7 +372,7 @@ dv_has_:
     pms: Vasilij Kandinskij
     pnb: وسیلی کانڈنسکی
     pt: Wassily Kandinsky
-    pt-br: Wassily Kandinsky
+    pt_br: Wassily Kandinsky
     ro: Vasili Kandinski
     ru: Василий Васильевич Кандинский
     sc: Wassilij Kandinskij
@@ -381,7 +381,7 @@ dv_has_:
     sl: Vasilij Vasiljevič Kandinski
     sq: Wassily Kandinski
     sr: Василиј Кандински
-    sr-ec: Василиј Кандински
+    sr_ec: Василиј Кандински
     stq: Wassily Kandinsky
     sv: Vasilij Kandinskij
     sw: Wassily Kandinsky

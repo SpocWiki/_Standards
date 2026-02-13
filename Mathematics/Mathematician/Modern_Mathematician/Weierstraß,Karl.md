@@ -189,7 +189,7 @@ dv_has_:
     azb: کارل وایرشتراس
     bcl: Karl Weierstrass
     be: Карл Веерштрас
-    be-tarask: Карл Вэерштрас
+    be_tarask: Карл Вэерштрас
     bg: Карл Вайерщрас
     bn: কার্ল উইয়েরস্ট্রাস
     ca: Karl Weierstrass
@@ -198,11 +198,11 @@ dv_has_:
     cv: Карл Вайерштрасс
     da: Karl Weierstrass
     de: Karl Weierstraß
-    de-ch: Karl Weierstrass
+    de_ch: Karl Weierstrass
     el: Καρλ Βάιερστρας
     en: Karl Weierstraß
-    en-ca: Karl Weierstrass
-    en-gb: Karl Weierstrass
+    en_ca: Karl Weierstrass
+    en_gb: Karl Weierstrass
     eo: Karl Weierstrass
     es: Karl Weierstraß
     eu: Karl Weierstrass
@@ -240,7 +240,7 @@ dv_has_:
     pl: Karl Weierstrass
     pms: Karl Weierstrass
     pt: Karl Weierstrass
-    pt-br: Karl Weierstrass
+    pt_br: Karl Weierstrass
     ro: Karl Weierstrass
     ru: Карл Вейерштрасс
     sco: Karl Weierstrass
@@ -248,7 +248,7 @@ dv_has_:
     sl: Karl Weierstrass
     sq: Karl Weierstrass
     sr: Карл Вајерштрас
-    sr-ec: Карл Вајерштрас
+    sr_ec: Карл Вајерштрас
     sv: Karl Weierstrass
     ta: கார்ல் வியர்ஸ்ட்ராஸ்
     tg: Корл Вейерштрос
@@ -263,7 +263,7 @@ dv_has_:
     xmf: კარლ ვეიერშტრასი
     yue: Karl Weierstrass
     zh: 卡尔·魏尔斯特拉斯
-    zh-hans: 卡尔·魏尔斯特拉斯
+    zh_hans: 卡尔·魏尔斯特拉斯
 ---
 # [[Weierstraß,Karl]] 
 

@@ -67,7 +67,7 @@ dv_has_:
     oc: Pooideae
     pl: wiechlinowe
     pt: Pooideae
-    pt-br: Pooideae
+    pt_br: Pooideae
     ro: Pooideae
     ru: мятликовые
     sd: ولايتي گاھ
@@ -82,8 +82,8 @@ dv_has_:
     vo: Pooideae
     war: Pooideae
     zh: 早熟禾亚科
-    zh-cn: 早熟禾亚科
-    zh-hans: 早熟禾亚科
+    zh_cn: 早熟禾亚科
+    zh_hans: 早熟禾亚科
 ---
 # [[Pooideae]] 
 

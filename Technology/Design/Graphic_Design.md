@@ -99,7 +99,7 @@ dv_has_:
     ast: Diseñu gráficu
     az: Qrafik dizayn
     be: графічны дызайн
-    be-tarask: графічны дызайн
+    be_tarask: графічны дызайн
     bg: Графичен дизайн
     bjn: Komunikasi Visual
     bn: চিত্রলৈখিক নকশা প্রণয়ন
@@ -110,11 +110,11 @@ dv_has_:
     cy: dylunio graffeg
     da: grafisk design
     de: Grafikdesign
-    de-ch: Grafikdesign
+    de_ch: Grafikdesign
     el: γραφιστική
     en: graphic design
-    en-ca: graphic design
-    en-gb: graphic design
+    en_ca: graphic design
+    en_gb: graphic design
     en-us: graphic design
     eo: grafika fasonado
     es: diseño gráfico
@@ -147,7 +147,7 @@ dv_has_:
     ml: ഗ്രാഫിക് ഡിസൈൻ
     mn: График дизайн
     ms: reka bentuk grafik
-    ms-arab: ريک بنتوق ݢرافيک
+    ms_arab: ريک بنتوق ݢرافيک
     mt: disinn tal-grafika
     my: ဂရပ်ဖစ်ဒီဇိုင်း
     nb: grafisk design
@@ -157,7 +157,7 @@ dv_has_:
     pl: projektowanie graficzne
     ps: ګرافيک ډيزاين
     pt: design gráfico
-    pt-br: design gráfico
+    pt_br: design gráfico
     ro: design grafic
     ru: графический дизайн
     se: gráfalaš plánen
@@ -165,8 +165,8 @@ dv_has_:
     sl: grafično oblikovanje
     sq: Dizajni grafik
     sr: графички дизајн
-    sr-ec: графички дизајн
-    sr-el: Grafički dizajn
+    sr_ec: графички дизајн
+    sr_el: Grafički dizajn
     sv: grafisk formgivning
     ta: வரைபட வடிவமைப்பு
     th: กราฟิกดีไซน์
@@ -182,12 +182,12 @@ dv_has_:
     wuu: 平面设计
     yue: 圖像設計
     zh: 平面设计
-    zh-cn: 平面设计
-    zh-hans: 平面设计
-    zh-hant: 平面設計
-    zh-hk: 平面設計
-    zh-sg: 平面设计
-    zh-tw: 平面設計
+    zh_cn: 平面设计
+    zh_hans: 平面设计
+    zh_hant: 平面設計
+    zh_hk: 平面設計
+    zh_sg: 平面设计
+    zh_tw: 平面設計
 ---
 # [[Graphic_Design]] 
 

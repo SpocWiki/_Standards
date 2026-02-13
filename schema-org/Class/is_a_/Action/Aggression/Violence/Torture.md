@@ -139,7 +139,7 @@ dv_has_:
     ast: Tortura
     az: işgəncə
     be: катаванні
-    be-tarask: катаваньні
+    be_tarask: катаваньні
     bg: изтезание
     bn: অত্যাচার
     br: Boureverezh
@@ -150,11 +150,11 @@ dv_has_:
     cy: artaith
     da: tortur
     de: Folter
-    de-ch: Folter
+    de_ch: Folter
     el: βασανιστήριο
     en: torture
-    en-ca: torture
-    en-gb: torture
+    en_ca: torture
+    en_gb: torture
     eo: torturo
     es: tortura
     et: piinamine
@@ -183,8 +183,8 @@ dv_has_:
     kn: ಚಿತ್ರಹಿಂಸೆ
     ko: 고문
     ku: Êşkence
-    ku-arab: ئێشکەنجە
-    ku-latn: Êşkence
+    ku_arab: ئێشکەنجە
+    ku_latn: Êşkence
     la: Tortura
     ln: ko nyokola
     lt: kankinimas
@@ -200,7 +200,7 @@ dv_has_:
     pa: ਤਸ਼ੱਦਦ
     pl: tortura
     pt: tortura
-    pt-br: tortura
+    pt_br: tortura
     qu: Hipachiy
     ro: tortură
     ru: пытка
@@ -216,8 +216,8 @@ dv_has_:
     so: Silicdil
     sq: Tortura
     sr: тортура
-    sr-ec: тортура
-    sr-el: tortura
+    sr_ec: тортура
+    sr_el: tortura
     sv: tortyr
     ta: சித்திரவதை
     th: การทรมาน
@@ -229,12 +229,12 @@ dv_has_:
     wuu: 酷刑
     yue: 酷刑
     zh: 酷刑
-    zh-cn: 酷刑
-    zh-hans: 酷刑
-    zh-hant: 酷刑
-    zh-hk: 酷刑
-    zh-sg: 酷刑
-    zh-tw: 酷刑
+    zh_cn: 酷刑
+    zh_hans: 酷刑
+    zh_hant: 酷刑
+    zh_hk: 酷刑
+    zh_sg: 酷刑
+    zh_tw: 酷刑
 ---
 # [[Torture]] 
 

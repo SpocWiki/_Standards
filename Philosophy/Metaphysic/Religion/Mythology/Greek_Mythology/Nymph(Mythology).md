@@ -89,7 +89,7 @@ dv_has_:
     kk: Нимфтер
     ko: 님프
     ku: nîmfê
-    ku-latn: nîmfê
+    ku_latn: nîmfê
     la: Nympha
     lb: Nymph
     lfn: Nimfa
@@ -109,7 +109,7 @@ dv_has_:
     os: нимфæ
     pl: nimfa
     pt: ninfa
-    pt-br: ninfa
+    pt_br: ninfa
     ro: Nimfă
     ru: нимфа
     rue: Нимфы
@@ -120,8 +120,8 @@ dv_has_:
     sl: nimfa
     sq: Nimfat
     sr: нимфа
-    sr-ec: нимфа
-    sr-el: nimfa
+    sr_ec: нимфа
+    sr_el: nimfa
     sv: nymf
     ta: அணங்கு
     th: นิมฟ์

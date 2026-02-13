@@ -61,7 +61,7 @@ dv_has_:
     ar: زخارف جصية
     ast: Estuco
     be: стука
-    be-tarask: стука
+    be_tarask: стука
     bg: щукатура
     ca: estuc
     co: Stuccu
@@ -105,7 +105,7 @@ dv_has_:
     sk: štukatúra
     sl: štuk
     sr: штуко
-    sr-ec: штуко
+    sr_ec: штуко
     sv: stuck
     tg: гачбурӣ
     tr: stükko

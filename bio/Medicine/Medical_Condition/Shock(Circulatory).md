@@ -84,7 +84,7 @@ dv_has_:
     ast: choque circulatoriu
     az: şok
     be: шок
-    be-tarask: шок
+    be_tarask: шок
     bg: шок
     bn: শক (সংবহন তন্ত্র)
     bo: བརྒྱལ་བ་
@@ -116,11 +116,11 @@ dv_has_:
     jam: shak
     ka: შოკი
     kk: Талықсу
-    kk-arab: تالىقسۋ
+    kk_arab: تالىقسۋ
     kk-cn: تالىقسۋ
-    kk-cyrl: Талықсу
+    kk_cyrl: Талықсу
     kk-kz: Талықсу
-    kk-latn: Talıqsw
+    kk_latn: Talıqsw
     kk-tr: Talıqsw
     ko: 쇼크
     ky: шок
@@ -148,8 +148,8 @@ dv_has_:
     smn: šokki
     sq: Gjendja e shokut
     sr: шок
-    sr-ec: Шок
-    sr-el: Šok
+    sr_ec: Шок
+    sr_el: Šok
     sv: cirkulationssvikt
     ta: அதிர்ச்சி
     te: దిగ్భ్రాంతి
@@ -162,12 +162,12 @@ dv_has_:
     wuu: 休克
     yue: 休克
     zh: 休克
-    zh-cn: 休克
-    zh-hans: 休克
-    zh-hant: 休克
-    zh-hk: 休克
-    zh-sg: 休克
-    zh-tw: 休克
+    zh_cn: 休克
+    zh_hans: 休克
+    zh_hant: 休克
+    zh_hk: 休克
+    zh_sg: 休克
+    zh_tw: 休克
 ---
 # [[Shock(Circulatory)]] 
 

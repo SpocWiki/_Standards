@@ -72,9 +72,9 @@ dv_has_:
     yue: 狼來了
     zgh: ⴰⵔⴱⴰ ⵍⵍⵉ ⴰⵙⵏ ⵉⵏⵏⴰⵏ ⵓⵛⵛⵏ
     zh: 狼來了
-    zh-hans: 狼来了
-    zh-hant: 狼來了
-    zh-hk: 狼來了
+    zh_hans: 狼来了
+    zh_hant: 狼來了
+    zh_hk: 狼來了
 ---
 # [[Cry_Wolf]] 
 

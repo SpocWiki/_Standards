@@ -44,8 +44,8 @@ dv_has_:
     de: Jochblattartige
     el: ζυγοφυλλώδη
     en: Zygophyllales
-    en-ca: Zygophyllales
-    en-gb: Zygophyllales
+    en_ca: Zygophyllales
+    en_gb: Zygophyllales
     eo: Zigofilaloj
     es: Zygophyllales
     et: Seiglehelaadsed
@@ -77,7 +77,7 @@ dv_has_:
     oc: Zygophyllales
     pl: Parolistowce
     pt: Zygophyllales
-    pt-br: Zygophyllales
+    pt_br: Zygophyllales
     ro: Zygophyllales
     ru: парнолистникоцветные
     sh: Zygophyllales
@@ -91,8 +91,8 @@ dv_has_:
     vo: Zygophyllales
     war: Zygophyllales
     zh: 蒺藜目
-    zh-cn: 蒺藜目
-    zh-tw: 蒺藜目
+    zh_cn: 蒺藜目
+    zh_tw: 蒺藜目
 ---
 # [[Zygophyllales]] 
 

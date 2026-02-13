@@ -64,7 +64,7 @@ dv_has_:
   name_:
     ab: Мальта
     ace: Malta
-    aeb-arab: مالطا
+    aeb_arab: مالطا
     af: Malta
     am: ማልታ
     ami: Malta
@@ -87,7 +87,7 @@ dv_has_:
     bar: Malta
     bcl: Malta
     be: Мальта
-    be-tarask: Мальта
+    be_tarask: Мальта
     bew: Malta
     bg: Малта
     bgn: مالتا
@@ -100,7 +100,7 @@ dv_has_:
     bs: Malta
     bxr: Мальта
     ca: Malta
-    cbk-zam: Malta
+    cbk_zam: Malta
     cdo: Malta
     ce: Мальта
     ceb: Malta
@@ -109,7 +109,7 @@ dv_has_:
     ckb: ماڵتا
     co: Malta
     crh: Malta
-    crh-latn: Malta
+    crh_latn: Malta
     cs: Malta
     csb: Malta
     cu: Малта
@@ -119,7 +119,7 @@ dv_has_:
     dag: Malta
     de: Malta
     de-at: Malta
-    de-ch: Malta
+    de_ch: Malta
     diq: Malta
     dsb: Malta
     dty: माल्टा
@@ -128,8 +128,8 @@ dv_has_:
     el: Μάλτα
     eml: Malta
     en: Malta
-    en-ca: Malta
-    en-gb: Malta
+    en_ca: Malta
+    en_gb: Malta
     en-us: Malta
     eo: Malto
     es: Malta
@@ -155,7 +155,7 @@ dv_has_:
     gn: Malta
     gom: माल्टा
     gom-deva: माल्टा
-    gom-latn: Malta
+    gom_latn: Malta
     got: "\U0001033C\U00010330\U0001033B\U00010344\U00010330"
     gpe: Malta
     gsw: Malta
@@ -221,7 +221,7 @@ dv_has_:
     lzh: 馬爾他
     mad: Malta
     mai: माल्टा
-    map-bms: Malta
+    map_bms: Malta
     mdf: Мальта
     mg: Malta
     mhr: Мальта
@@ -233,7 +233,7 @@ dv_has_:
     mni: ꯃꯥꯜꯇꯥ
     mr: माल्टा
     ms: Malta
-    ms-arab: ملتا
+    ms_arab: ملتا
     mt: Malta
     mwl: Malta
     my: မော်လတာနိုင်ငံ
@@ -245,7 +245,7 @@ dv_has_:
     nap: Malta
     nb: Malta
     nds: Malta
-    nds-nl: Malta
+    nds_nl: Malta
     ne: माल्टा
     new: मल्ता
     nl: Malta
@@ -273,7 +273,7 @@ dv_has_:
     pnt: Μάλτα
     ps: مالټا
     pt: Malta
-    pt-br: Malta
+    pt_br: Malta
     qu: Malta
     rm: Malta
     rmy: Malta
@@ -306,7 +306,7 @@ dv_has_:
     so: Malta
     sq: Malta
     sr: Малта
-    sr-ec: Малта
+    sr_ec: Малта
     srn: Maltakondre
     ss: IMalitha
     stq: Malta
@@ -358,14 +358,14 @@ dv_has_:
     zea: Malta
     zgh: ⵎⴰⵍⵟⴰ
     zh: 馬耳他
-    zh-cn: 马耳他
-    zh-hans: 马耳他
-    zh-hant: 馬耳他
-    zh-hk: 馬耳他
-    zh-mo: 馬耳他
+    zh_cn: 马耳他
+    zh_hans: 马耳他
+    zh_hant: 馬耳他
+    zh_hk: 馬耳他
+    zh_mo: 馬耳他
     zh-my: 马耳他
-    zh-sg: 马耳他
-    zh-tw: 馬爾他
+    zh_sg: 马耳他
+    zh_tw: 馬爾他
     zu: IMalta
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Malta

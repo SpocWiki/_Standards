@@ -79,18 +79,18 @@ dv_has_:
     ast: Ciencia computacional teórica
     az: Nəzəri informatika
     be: тэарэтычная інфарматыка
-    be-tarask: тэарэтычная інфарматыка
+    be_tarask: тэарэтычная інфарматыка
     bg: Теоретична информатика
     bn: তাত্ত্বিক কম্পিউটার বিজ্ঞান
     ca: Informàtica teòrica
     cs: teoretická informatika
     da: teoretisk datalogi
     de: theoretische Informatik
-    de-ch: Theoretische Informatik
+    de_ch: Theoretische Informatik
     el: Θεωρητική Πληροφορική
     en: theoretical computer science
-    en-ca: Theoretical computer science
-    en-gb: theoretical computer science
+    en_ca: Theoretical computer science
+    en_gb: theoretical computer science
     eo: teoria komputiko
     es: ciencia computacional teórica
     et: Teoreetiline informaatika
@@ -117,15 +117,15 @@ dv_has_:
     nl: theoretische informatica
     pl: Informatyka (teoretyczna)
     pt: ciência da computação teórica
-    pt-br: ciência da computação teórica
+    pt_br: ciência da computação teórica
     ro: informatică teoretică
     ru: теоретическая информатика
     sco: theoretical computer science
     sk: Teoretická informatika
     sl: teoretična računalniška znanost
     sr: теоријска информатика
-    sr-ec: теоријска информатика
-    sr-el: teorijska informatika
+    sr_ec: теоријска информатика
+    sr_el: teorijska informatika
     sv: teoretisk datavetenskap
     tl: Teoretikal na agham pangkompyuter
     tr: kuramsal bilgisayar bilimi
@@ -134,7 +134,7 @@ dv_has_:
     wuu: 理论计算机科学
     yue: 理論電腦科學
     zh: 理論計算機科學
-    zh-cn: 理论计算机科学
+    zh_cn: 理论计算机科学
 ---
 # [[Theoretical_Computer_Science]] 
 

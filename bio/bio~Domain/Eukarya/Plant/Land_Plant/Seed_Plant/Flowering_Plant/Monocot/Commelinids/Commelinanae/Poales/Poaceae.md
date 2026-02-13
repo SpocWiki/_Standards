@@ -138,7 +138,7 @@ dv_has_:
     az: Qırtıckimilər
     ban: Poaceae
     be: метлюжковыя
-    be-tarask: метлюжковыя
+    be_tarask: метлюжковыя
     bg: житни
     bn: পোয়াসিয়া
     bs: Poaceae
@@ -151,7 +151,7 @@ dv_has_:
     cy: Poaceae
     da: græs-familien
     de: Süßgräser
-    de-ch: Süssgräser
+    de_ch: Süssgräser
     el: αγρωστώδη
     en: Poaceae
     eo: Poacoj
@@ -210,7 +210,7 @@ dv_has_:
     nah: zacatl
     nan: Hô-pún-kho
     nb: Grasfamilien
-    nds-nl: grezenfemilie
+    nds_nl: grezenfemilie
     nl: grassenfamilie
     nn: Grasfamilien
     oc: Poaceae
@@ -219,7 +219,7 @@ dv_has_:
     pl: wiechlinowate
     pnb: گھاہ
     pt: Poaceae
-    pt-br: grama
+    pt_br: grama
     qu: wiru yura rikch'aq ayllu
     ro: Poaceae
     ru: злаки
@@ -256,9 +256,9 @@ dv_has_:
     yue: 禾本科
     zea: Gors
     zh: 禾本科
-    zh-cn: 禾本科
-    zh-hans: 禾本科
-    zh-tw: 禾本科
+    zh_cn: 禾本科
+    zh_hans: 禾本科
+    zh_tw: 禾本科
 ---
 # [[Poaceae]] 
 

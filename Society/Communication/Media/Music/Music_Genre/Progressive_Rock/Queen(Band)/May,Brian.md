@@ -161,24 +161,24 @@ dv_has_:
     azb: برایان می
     bar: Brian May
     be: Браян Мэй
-    be-tarask: Браян Мэй
+    be_tarask: Браян Мэй
     bg: Брайън Мей
     bn: ব্রায়ান মে
     bs: Brian May
     ca: Brian May
-    cbk-zam: Brian May
+    cbk_zam: Brian May
     cs: Brian May
     cy: Brian May
     da: Brian May
     dag: Brian May
     de: Brian May
     de-at: Brian May
-    de-ch: Brian May
+    de_ch: Brian May
     el: Μπράιαν Μέι
     eml: Brian May
     en: Brian May
-    en-ca: Brian May
-    en-gb: Brian May
+    en_ca: Brian May
+    en_gb: Brian May
     eo: Brian May
     es: Brian May
     et: Brian May
@@ -222,7 +222,7 @@ dv_has_:
     pl: Brian May
     pms: Brian May
     pt: Brian May
-    pt-br: Brian May
+    pt_br: Brian May
     ro: Brian May
     ru: Брайан Мэй
     scn: Brian May
@@ -245,7 +245,7 @@ dv_has_:
     yi: ברייען מיי
     yue: 白賴仁梅
     zh: 布赖恩·梅
-    zh-hant: 布萊恩·梅
+    zh_hant: 布萊恩·梅
 ---
 # [[May,Brian]] 
 

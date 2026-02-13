@@ -199,7 +199,7 @@ dv_has_:
     bar: Houkinäsisch
     bcl: Mandarin
     be: паўночнакітайская мова
-    be-tarask: паўночнакітайская мова
+    be_tarask: паўночнакітайская мова
     bg: мандарин
     bn: ম্যান্ডারিন চীনা ভাষা
     br: mandarineg
@@ -212,14 +212,14 @@ dv_has_:
     cy: Tsieineeg Mandarin
     da: mandarin
     de: Mandarin
-    de-ch: Nordchinesische Dialekte
+    de_ch: Nordchinesische Dialekte
     diq: Mandarinki
     dtp: Boros Mandarin
     el: Μανδαρινικά κινέζικα
     eml: Cinés mandarèin
     en: Mandarin
-    en-ca: Mandarin Chinese
-    en-gb: Mandarin Chinese
+    en_ca: Mandarin Chinese
+    en_gb: Mandarin Chinese
     eo: Nordĉina dialektaro
     es: chino mandarín
     et: mandariinihiina keel
@@ -329,11 +329,11 @@ dv_has_:
     yue: 國語
     za: Bujdunghva
     zh: 官话
-    zh-cn: 官话
-    zh-hans: 官话
-    zh-hant: 官話
-    zh-hk: 官話
-    zh-tw: 官話
+    zh_cn: 官话
+    zh_hans: 官话
+    zh_hant: 官話
+    zh_hk: 官話
+    zh_tw: 官話
     zu: isi-Mandarin
 ---
 # [[Lang-zh-cmn]] 

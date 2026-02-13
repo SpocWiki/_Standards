@@ -135,7 +135,7 @@ dv_has_:
     ban: Seaborgium
     bcl: Seaborgyo
     be: Сіборгій
-    be-tarask: сыборг
+    be_tarask: сыборг
     bg: сиборгий
     bho: सीबोर्गियम
     bn: সিবর্গিয়াম
@@ -154,7 +154,7 @@ dv_has_:
     de: Seaborgium
     el: σιμπόργκιο
     en: seaborgium
-    en-gb: seaborgium
+    en_gb: seaborgium
     eo: seborgiumo
     es: seaborgio
     et: seaborgium
@@ -225,7 +225,7 @@ dv_has_:
     pnb: سیبورجیم
     ps: سيبورجيوم
     pt: seabórgio
-    pt-br: seabórgio
+    pt_br: seabórgio
     qu: Seaborgyu
     ro: seaborgiu
     ru: сиборгий
@@ -239,7 +239,7 @@ dv_has_:
     so: Siiborgiyaam
     sq: Seaborgiumi
     sr: сиборгијум
-    sr-ec: Сиборгијум
+    sr_ec: Сиборгијум
     stq: Seaborgium
     sv: seaborgium
     sw: Seaborgi
@@ -263,14 +263,14 @@ dv_has_:
     yo: Seaborgium
     yue: "\U00028B4E"
     zh: "\U00028B4E"
-    zh-cn: "\U0002CB73"
-    zh-hans: "\U0002CB73"
-    zh-hant: "\U00028B4E"
-    zh-hk: "\U00028B4E"
-    zh-mo: "\U00028B4E"
+    zh_cn: "\U0002CB73"
+    zh_hans: "\U0002CB73"
+    zh_hant: "\U00028B4E"
+    zh_hk: "\U00028B4E"
+    zh_mo: "\U00028B4E"
     zh-my: "\U0002CB73"
-    zh-sg: "\U0002CB73"
-    zh-tw: "\U00028B4E"
+    zh_sg: "\U0002CB73"
+    zh_tw: "\U00028B4E"
     zu: ISigamchibi
 ---
 # [[Seaborgium]] 

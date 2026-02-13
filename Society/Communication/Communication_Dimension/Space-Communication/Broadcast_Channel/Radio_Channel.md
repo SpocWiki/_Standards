@@ -52,7 +52,7 @@ type: Type
 dv_has_:
   name_:
     be: Радыёстанцыя
-    be-tarask: радыёканал
+    be_tarask: радыёканал
     bn: বেতার চ্যানেল
     ca: canal de ràdio
     da: radiokanal
@@ -77,9 +77,9 @@ dv_has_:
     sv: radiokanal
     ur: ریڈیو چینل
     zh: 广播频道
-    zh-hans: 广播频道
-    zh-hant: 廣播頻道
-    zh-hk: 廣播頻道
+    zh_hans: 广播频道
+    zh_hant: 廣播頻道
+    zh_hk: 廣播頻道
 ---
 # [[Radio_Channel]]
 

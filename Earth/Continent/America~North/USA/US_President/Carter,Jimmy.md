@@ -99,7 +99,7 @@ dv_has_:
     bar: Jimmy Carter
     bcl: Jimmy Carter
     be: Джэймс Эрл Картэр
-    be-tarask: Джэймз Эрл Картэр
+    be_tarask: Джэймз Эрл Картэр
     bg: Джими Картър
     bi: Jimmy Carter
     bn: জিমি কার্টার
@@ -120,15 +120,15 @@ dv_has_:
     da: Jimmy Carter
     dag: Jimmy Carter
     de: Jimmy Carter
-    de-ch: Jimmy Carter
+    de_ch: Jimmy Carter
     diq: Jimmy Carter
     dsb: Jimmy Carter
     dv: ޖިމީ ކާރޓަރ
     el: Τζίμι Κάρτερ
     eml: Jimmy Carter
     en: Jimmy Carter
-    en-ca: Jimmy Carter
-    en-gb: Jimmy Carter
+    en_ca: Jimmy Carter
+    en_gb: Jimmy Carter
     en-us: Jimmy Carter
     eo: Jimmy Carter
     es: Jimmy Carter
@@ -236,7 +236,7 @@ dv_has_:
     pnb: جمی کارٹر
     ps: جیمس ایرل کارټر
     pt: Jimmy Carter
-    pt-br: Jimmy Carter
+    pt_br: Jimmy Carter
     qu: Jimmy Carter
     rm: Jimmy Carter
     rmf: Jimmy Carter
@@ -292,9 +292,9 @@ dv_has_:
     yue: 卡特
     zea: Jimmy Carter
     zh: 吉米·卡特
-    zh-cn: 吉米·卡特
-    zh-hans: 吉米·卡特
-    zh-hant: 吉米·卡特
+    zh_cn: 吉米·卡特
+    zh_hans: 吉米·卡特
+    zh_hant: 吉米·卡特
     zu: Jimmy Carter
   time_: {}
 dv_is_:

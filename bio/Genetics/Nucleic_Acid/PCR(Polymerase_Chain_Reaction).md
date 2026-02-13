@@ -93,7 +93,7 @@ dv_has_:
     ast: Reacción en cadena de la polimerasa
     az: Polimeraz zəncir reaksiyası
     be: палімеразная ланцуговая рэакцыя
-    be-tarask: палімэразная ланцуговая рэакцыя
+    be_tarask: палімэразная ланцуговая рэакцыя
     bg: Полимеразна верижна реакция
     bn: পলিমারেজ শৃঙ্খল বিক্রিয়া
     bs: Polimerazna lančana reakcija
@@ -101,11 +101,11 @@ dv_has_:
     cs: polymerázová řetězová reakce
     da: PCR
     de: Polymerase-Kettenreaktion
-    de-ch: Polymerase-Kettenreaktion
+    de_ch: Polymerase-Kettenreaktion
     el: Αλυσιδωτή αντίδραση πολυμεράσης
     en: polymerase chain reaction
-    en-ca: Polymerase chain reaction
-    en-gb: polymerase chain reaction
+    en_ca: Polymerase chain reaction
+    en_gb: polymerase chain reaction
     eo: polimeraza ĉen-reakcio
     es: reacción en cadena de la polimerasa
     et: Polümeraasi ahelreaktsioon
@@ -143,7 +143,7 @@ dv_has_:
     pl: Reakcja łańcuchowa polimerazy
     ps: د پولیمیرېز ځنځیري تعامل
     pt: reação em cadeia da polimerase
-    pt-br: Reação em cadeia da polimerase
+    pt_br: Reação em cadeia da polimerase
     ro: reacție de polimerizare în lanț
     ru: полимеразная цепная реакция
     sh: Polimerazna lančana reakcija
@@ -152,8 +152,8 @@ dv_has_:
     sl: verižna reakcija s polimerazo
     sq: PCR
     sr: Полимеразна ланчана реакција
-    sr-ec: Полимеразна ланчана реакција
-    sr-el: Polimerazna lančana reakcija
+    sr_ec: Полимеразна ланчана реакција
+    sr_el: Polimerazna lančana reakcija
     sv: polymeraskedjereaktion
     ta: பாலிமரேசு தொடர் வினை
     te: వేదిక:వర్తమాన ఘటనలు
@@ -166,12 +166,12 @@ dv_has_:
     wuu: 聚合酶链式反应
     yue: PCR (生物學)
     zh: 聚合酶链式反应
-    zh-cn: 聚合酶链式反应
-    zh-hans: 聚合酶链式反应
-    zh-hant: 聚合酶鏈式反應
-    zh-hk: 聚合酶鏈式反應
-    zh-sg: 聚合酶链式反应
-    zh-tw: 聚合酶鏈式反應
+    zh_cn: 聚合酶链式反应
+    zh_hans: 聚合酶链式反应
+    zh_hant: 聚合酶鏈式反應
+    zh_hk: 聚合酶鏈式反應
+    zh_sg: 聚合酶链式反应
+    zh_tw: 聚合酶鏈式反應
 ---
 # [[PCR(Polymerase_Chain_Reaction)]] 
 

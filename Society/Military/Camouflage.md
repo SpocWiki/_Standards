@@ -76,7 +76,7 @@ dv_has_:
     ar: تمويه
     az: Kamuflyaj
     be: камуфляж
-    be-tarask: камуфляж
+    be_tarask: камуфляж
     bg: Камуфлаж
     bn: কেমোফ্লেজ
     br: touellguzh

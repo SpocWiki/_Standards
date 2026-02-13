@@ -98,7 +98,7 @@ dv_has_:
     az: Harrison Ford
     azb: هریسون فورد
     be: Харысан Форд
-    be-tarask: Гарысан Форд
+    be_tarask: Гарысан Форд
     bg: Харисън Форд
     bn: হ্যারিসন ফোর্ড
     br: Harrison Ford
@@ -166,7 +166,7 @@ dv_has_:
     pap: Harrison Ford
     pms: Harrison Ford
     pt: Harrison Ford
-    pt-br: Harrison Ford
+    pt_br: Harrison Ford
     qu: Harrison Ford
     ro: Harrison Ford
     ru: Харрисон Форд
@@ -185,7 +185,7 @@ dv_has_:
     tpi: Harrison Ford
     tr: Harrison Ford
     tt: Һаррисон Форд
-    tt-cyrl: Һаррисон Форд
+    tt_cyrl: Һаррисон Форд
     uk: Гаррісон Форд
     ur: ہیریسن فورڈ
     uz: Harrison Ford
@@ -197,12 +197,12 @@ dv_has_:
     yo: Harrison Ford
     yue: 夏里遜福
     zh: 哈里森·福特
-    zh-cn: 哈里森·福特
-    zh-hans: 哈里森·福特
-    zh-hk: 夏里遜福
+    zh_cn: 哈里森·福特
+    zh_hans: 哈里森·福特
+    zh_hk: 夏里遜福
     zh-my: 夏里逊·福
-    zh-sg: 哈里逊·福特
-    zh-tw: 哈里遜·福特
+    zh_sg: 哈里逊·福特
+    zh_tw: 哈里遜·福特
 ---
 # [[Ford,Harrison]] 
 

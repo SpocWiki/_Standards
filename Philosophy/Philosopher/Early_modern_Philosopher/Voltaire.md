@@ -217,7 +217,7 @@ dv_has_:
     ba: Вольтер
     bcl: Voltaire
     be: Вальтэр
-    be-tarask: Вальтэр
+    be_tarask: Вальтэр
     bg: Волтер
     bho: वोल्तेयर
     bjn: Voltaire
@@ -227,7 +227,7 @@ dv_has_:
     btm: Voltaire
     bxr: Вольтер
     ca: Voltaire
-    cbk-zam: Voltaire
+    cbk_zam: Voltaire
     cdo: Voltaire
     ce: Вольтер
     ceb: Voltaire
@@ -239,13 +239,13 @@ dv_has_:
     cy: Voltaire
     da: Voltaire
     de: Voltaire
-    de-ch: Voltaire
+    de_ch: Voltaire
     diq: Voltaire
     el: Βολταίρος
     eml: Voltaire
     en: Voltaire
-    en-ca: Voltaire
-    en-gb: Voltaire
+    en_ca: Voltaire
+    en_gb: Voltaire
     en-us: Voltaire
     eo: Voltaire
     es: Voltaire
@@ -337,7 +337,7 @@ dv_has_:
     pnb: والٹیئر
     ps: ولټېر
     pt: Voltaire
-    pt-br: Voltaire
+    pt_br: Voltaire
     qu: Voltaire
     rki: ဗော်လ်တဲယား
     ro: Voltaire
@@ -389,7 +389,7 @@ dv_has_:
     zgh: ⴼⵓⵍⵟⵉⵔ
     zh: 伏爾泰
     zh-hans: 伏尔泰
-    zh-tw: 伏爾泰
+    zh_tw: 伏爾泰
 ---
 # [[Voltaire]] 
 

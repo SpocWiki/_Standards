@@ -152,7 +152,7 @@ dv_has_:
     ar: بيوتين
     azb: بیوتین
     be: біятын
-    be-tarask: біятын
+    be_tarask: біятын
     bg: биотин
     bs: Biotin
     ca: biotina
@@ -203,8 +203,8 @@ dv_has_:
     sk: Biotín
     sl: Biotin
     sr: витамин Х
-    sr-ec: Витамин Х
-    sr-el: Vitamin H
+    sr_ec: Витамин Х
+    sr_el: Vitamin H
     su: Biotin
     sv: Biotin
     ta: பயோட்டின்
@@ -219,12 +219,12 @@ dv_has_:
     wuu: 生物素
     yue: 維他命B7
     zh: 生物素
-    zh-cn: 生物素
-    zh-hans: 生物素
-    zh-hant: 生物素
-    zh-hk: 生物素
-    zh-sg: 生物素
-    zh-tw: 生物素
+    zh_cn: 生物素
+    zh_hans: 生物素
+    zh_hant: 生物素
+    zh_hk: 生物素
+    zh_sg: 生物素
+    zh_tw: 生物素
 ---
 # [[Biotin]] 
 

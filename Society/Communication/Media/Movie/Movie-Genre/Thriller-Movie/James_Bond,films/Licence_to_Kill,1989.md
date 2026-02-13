@@ -60,11 +60,11 @@ dv_has_:
     cy: Licence to Kill
     da: Licence to Kill
     de: James Bond 007 – Lizenz zum Töten
-    de-ch: James Bond 007 – Lizenz zum Töten
+    de_ch: James Bond 007 – Lizenz zum Töten
     el: 'Τζέιμς Μποντ, Πράκτωρ 007: Προσωπική Εκδίκηση'
     en: Licence to Kill
-    en-ca: Licence to Kill
-    en-gb: Licence to Kill
+    en_ca: Licence to Kill
+    en_gb: Licence to Kill
     es: Licence to Kill
     et: '007: Luba tappa'
     eu: Licence to Kill
@@ -94,14 +94,14 @@ dv_has_:
     nn: Med rett til å drepe
     pl: Licencja na zabijanie
     pt: Licence to Kill
-    pt-br: Licence to Kill
+    pt_br: Licence to Kill
     ro: Permis pentru crimă
     ru: Лицензия на убийство
     sh: Licence to Kill
     sk: 'James Bond: Povolenie zabíjať'
     sr: Дозвола за убиство
-    sr-ec: Дозвола за убиство
-    sr-el: Dozvola za ubistvo
+    sr_ec: Дозвола за убиство
+    sr_el: Dozvola za ubistvo
     sv: Tid för hämnd
     th: 007 รหัสสังหาร
     tr: Öldürme Yetkisi
@@ -110,12 +110,12 @@ dv_has_:
     uz: Qotillik uchun ruxsatnoma
     yue: 鐵金剛勇戰殺人狂魔
     zh: 鐵金剛勇戰殺人狂魔
-    zh-cn: 杀人执照
-    zh-hans: 杀人执照
-    zh-hant: 殺人執照
-    zh-hk: 鐵金剛勇戰殺人狂魔
-    zh-sg: 铁金刚格杀令
-    zh-tw: 殺人執照
+    zh_cn: 杀人执照
+    zh_hans: 杀人执照
+    zh_hant: 殺人執照
+    zh_hk: 鐵金剛勇戰殺人狂魔
+    zh_sg: 铁金刚格杀令
+    zh_tw: 殺人執照
 ---
 ## #has_/text_of_/abstract 
 

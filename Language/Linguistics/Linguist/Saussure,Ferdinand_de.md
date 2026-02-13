@@ -130,7 +130,7 @@ dv_has_:
     ban: Ferdinand de Saussure
     bar: Ferdinand de Saussure
     be: Фердынанд дэ Сасюр
-    be-tarask: Фэрдынанд дэ Сасюр
+    be_tarask: Фэрдынанд дэ Сасюр
     bg: Фердинанд дьо Сосюр
     bjn: Ferdinand de Saussure
     bn: ফের্দিনঁ দ্য সোস্যুর
@@ -144,11 +144,11 @@ dv_has_:
     da: Ferdinand de Saussure
     de: Ferdinand de Saussure
     de-at: Ferdinand de Saussure
-    de-ch: Ferdinand de Saussure
+    de_ch: Ferdinand de Saussure
     el: Φερντινάν ντε Σωσσύρ
     en: Ferdinand de Saussure
-    en-ca: Ferdinand de Saussure
-    en-gb: Ferdinand de Saussure
+    en_ca: Ferdinand de Saussure
+    en_gb: Ferdinand de Saussure
     eo: Ferdinand de Saussure
     es: Ferdinand de Saussure
     et: Ferdinand de Saussure
@@ -201,7 +201,7 @@ dv_has_:
     nap: Ferdinand de Saussure
     nb: Ferdinand de Saussure
     nds: Ferdinand de Saussure
-    nds-nl: Ferdinand de Saussure
+    nds_nl: Ferdinand de Saussure
     nl: Ferdinand de Saussure
     nn: Ferdinand de Saussure
     nrm: Ferdinand de Saussure
@@ -212,7 +212,7 @@ dv_has_:
     pms: Ferdinand de Saussure
     pnb: فردینا د سوسیور
     pt: Ferdinand de Saussure
-    pt-br: Ferdinand de Saussure
+    pt_br: Ferdinand de Saussure
     rm: Ferdinand de Saussure
     ro: Ferdinand de Saussure
     ru: Фердинанд де Соссюр
@@ -225,7 +225,7 @@ dv_has_:
     sl: Ferdinand de Saussure
     sq: Ferdinand de Saussure
     sr: Фердинанд де Сосир
-    sr-el: Ferdinand de Saussure
+    sr_el: Ferdinand de Saussure
     sv: Ferdinand de Saussure
     sw: Ferdinand de Saussure
     ta: பேர்டினண்ட் டி சோசர்
@@ -247,7 +247,7 @@ dv_has_:
     yue: 索雪
     zgh: ⴼⵉⵔⵏⴰⵏⴷ ⴷⵓ ⵙⵓⵙⵉⵔ
     zh: 费迪南·德·索绪尔
-    zh-cn: 费迪南·德·索绪尔
+    zh_cn: 费迪南·德·索绪尔
     zu: Ferdinand de Saussure
 ---
 # [[Saussure,Ferdinand_de]] 

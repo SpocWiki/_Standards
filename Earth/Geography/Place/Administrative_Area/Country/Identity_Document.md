@@ -126,7 +126,7 @@ dv_has_:
     arz: بطاقه شخصيه
     ast: documentu d'identidá
     az: Vəsiqə
-    be-tarask: пасьведчаньне асобы
+    be_tarask: пасьведчаньне асобы
     bg: лична карта
     bn: শনাক্তকরণ নথি
     bs: Lična karta
@@ -137,11 +137,11 @@ dv_has_:
     cy: dogfen adnabod
     da: legitimation
     de: Personalausweis
-    de-ch: Personalausweis
+    de_ch: Personalausweis
     el: έγγραφο ταυτότητας
     en: identity document
-    en-ca: identity document
-    en-gb: identity document
+    en_ca: identity document
+    en_gb: identity document
     eo: identiga dokumento
     es: documento de identidad
     et: ID-kaart
@@ -168,7 +168,7 @@ dv_has_:
     mk: лична карта
     mn: Хувийн таних тэмдэг
     ms: dokumen pengenalan
-    ms-arab: دوکومن ڤڠنلن
+    ms_arab: دوکومن ڤڠنلن
     nb: legitimasjon
     nl: identiteitsbewijs
     nn: legitimasjon
@@ -176,7 +176,7 @@ dv_has_:
     oc: Carta d'identitat
     pl: dokument tożsamości
     pt: documento de identidade
-    pt-br: documento de identidade
+    pt_br: documento de identidade
     ro: carte de identitate
     ru: удостоверение личности
     se: legitimašuvdna
@@ -187,8 +187,8 @@ dv_has_:
     so: Warqadda aqoonsiga
     sq: letërnjoftim
     sr: лична карта
-    sr-ec: лична карта
-    sr-el: lična karta
+    sr_ec: лична карта
+    sr_el: lična karta
     sv: legitimationshandling
     ta: அடையாள ஆவணம்
     tr: kimlik belgesi
@@ -201,14 +201,14 @@ dv_has_:
     yi: אידענטיטעט קארטע
     yue: 身份證
     zh: 身份证明文件
-    zh-cn: 身份证
-    zh-hans: 身份证
-    zh-hant: 身分證
-    zh-hk: 身分證
-    zh-mo: 身分證
+    zh_cn: 身份证
+    zh_hans: 身份证
+    zh_hant: 身分證
+    zh_hk: 身分證
+    zh_mo: 身分證
     zh-my: 身份证
-    zh-sg: 身份证
-    zh-tw: 身分證
+    zh_sg: 身份证
+    zh_tw: 身分證
 ---
 # [[Identity_Document]] 
 

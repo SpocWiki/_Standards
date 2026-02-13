@@ -112,7 +112,7 @@ dv_has_:
     azb: مرجانی
     ba: Мүк еләге
     be: Журавіны
-    be-tarask: Журавіны
+    be_tarask: Журавіны
     bg: Червена боровинка
     br: Lus-gwern
     ca: cranberry
@@ -125,8 +125,8 @@ dv_has_:
     dsb: Žorawina
     el: Κράνμπερι
     en: cranberry
-    en-ca: Cranberry
-    en-gb: Cranberry
+    en_ca: Cranberry
+    en_gb: Cranberry
     eo: Oksikoko
     es: arándano rojo
     et: Jõhvikas (perekond)
@@ -173,7 +173,7 @@ dv_has_:
     pam: Cranberry
     pl: Żurawina
     pt: Oxicoco
-    pt-br: Oxicoco
+    pt_br: Oxicoco
     ro: Vaccinium subg. Oxycoccus
     ru: Клюква
     scn: Milucuccu

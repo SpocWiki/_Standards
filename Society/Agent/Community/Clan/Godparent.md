@@ -8,7 +8,7 @@ dv_has_:
     ast: padrín
     bar: Ged
     bcl: Ninong
-    be-tarask: хросны бацька
+    be_tarask: хросны бацька
     bg: Кръстник
     br: Paeron
     bs: pokrovitelj krštenja
@@ -53,7 +53,7 @@ dv_has_:
     nl: peetouder
     pl: rodzice chrzestni
     pt: padrinho ou madrinha
-    pt-br: padrinho
+    pt_br: padrinho
     qu: Achi tayta
     ro: Naș
     ru: крёстный родитель
@@ -63,8 +63,8 @@ dv_has_:
     sgs: Kūmas
     sl: boter
     sr: кум
-    sr-ec: кум
-    sr-el: kum
+    sr_ec: кум
+    sr_el: kum
     sv: fadder
     sw: Msimamizi
     tg: Волидайни таъмидӣ
@@ -75,12 +75,12 @@ dv_has_:
     yi: סנדק
     yue: 教父母
     zh: 教父母
-    zh-cn: 教父母
-    zh-hans: 教父母
-    zh-hant: 教父母
-    zh-hk: 教父母
-    zh-sg: 教父母
-    zh-tw: 教父母
+    zh_cn: 教父母
+    zh_hans: 教父母
+    zh_hant: 教父母
+    zh_hk: 教父母
+    zh_sg: 教父母
+    zh_tw: 教父母
 aliases:
 - Achi tayta
 - aitabitxi-amabitxi

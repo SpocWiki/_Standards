@@ -112,7 +112,7 @@ dv_has_:
     az: Pikşa
     bar: Melanogrammus aeglefinus
     be: Melanogrammus aeglefinus
-    be-tarask: пікша
+    be_tarask: пікша
     bg: пикша
     br: Azen
     ca: eglefí
@@ -123,10 +123,10 @@ dv_has_:
     da: Kuller
     de: Schellfisch
     de-at: Melanogrammus aeglefinus
-    de-ch: Melanogrammus aeglefinus
+    de_ch: Melanogrammus aeglefinus
     en: haddock
-    en-ca: Melanogrammus aeglefinus
-    en-gb: haddock
+    en_ca: Melanogrammus aeglefinus
+    en_gb: haddock
     eo: Eglefino
     es: Eglefino
     et: kilttursk
@@ -170,7 +170,7 @@ dv_has_:
     nap: Melanogrammus aeglefinus
     nb: hyse
     nds: Melanogrammus aeglefinus
-    nds-nl: Melanogrammus aeglefinus
+    nds_nl: Melanogrammus aeglefinus
     nl: schelvis
     nn: hyse
     nrm: Melanogrammus aeglefinus
@@ -180,7 +180,7 @@ dv_has_:
     pl: Plamiak
     pms: Melanogrammus aeglefinus
     pt: Eglefino
-    pt-br: Melanogrammus aeglefinus
+    pt_br: Melanogrammus aeglefinus
     rm: Melanogrammus aeglefinus
     ro: Eglefin
     ru: Пикша
@@ -191,8 +191,8 @@ dv_has_:
     sl: Melanogrammus aeglefinus
     sq: Melanogrammus aeglefinus
     sr: Вахња
-    sr-ec: Вахња
-    sr-el: Melanogrammus aeglefinus
+    sr_ec: Вахња
+    sr_el: Melanogrammus aeglefinus
     sv: kolja
     sw: Melanogrammus aeglefinus
     tl: Melanogrammus aeglefinus
@@ -208,12 +208,12 @@ dv_has_:
     wo: Melanogrammus aeglefinus
     yue: 黑線鱈
     zh: 黑線鱈
-    zh-cn: 黑线鳕
-    zh-hans: 黑线鳕
-    zh-hant: 黑線鱈
-    zh-hk: 黑線鱈
-    zh-sg: 黑线鳕
-    zh-tw: 黑線鱈
+    zh_cn: 黑线鳕
+    zh_hans: 黑线鳕
+    zh_hant: 黑線鱈
+    zh_hk: 黑線鱈
+    zh_sg: 黑线鳕
+    zh_tw: 黑線鱈
     zu: Melanogrammus aeglefinus
 ---
 # [[Haddock]]

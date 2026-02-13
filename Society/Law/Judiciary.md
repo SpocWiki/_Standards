@@ -142,7 +142,7 @@ dv_has_:
     azb: قضائیه قووهسی
     bcl: hudikatura
     be: судовая ўлада
-    be-tarask: судовая ўлада
+    be_tarask: судовая ўлада
     bg: Съдебна власт
     bn: বিচারব্যবস্থা
     bs: Sudska vlast
@@ -219,8 +219,8 @@ dv_has_:
     smn: tuámuväldi
     sms: suudâmväʹldd
     sr: судска власт
-    sr-ec: судска власт
-    sr-el: sudska vlast
+    sr_ec: судска власт
+    sr_el: sudska vlast
     sv: dömande makt
     sw: Mahakama
     ta: நீதித்துறை
@@ -238,14 +238,14 @@ dv_has_:
     yue: 司法
     zgh: ⵜⴰⵏⴱⴰⴹⵜ ⵜⴰⵣⵔⴼⴰⵏⵜ
     zh: 司法機構
-    zh-cn: 司法机构
-    zh-hans: 司法机构
-    zh-hant: 司法機構
-    zh-hk: 司法機構
-    zh-mo: 司法機構
+    zh_cn: 司法机构
+    zh_hans: 司法机构
+    zh_hant: 司法機構
+    zh_hk: 司法機構
+    zh_mo: 司法機構
     zh-my: 司法机构
-    zh-sg: 司法机构
-    zh-tw: 司法機構
+    zh_sg: 司法机构
+    zh_tw: 司法機構
 ---
 # [[Judiciary]] 
 

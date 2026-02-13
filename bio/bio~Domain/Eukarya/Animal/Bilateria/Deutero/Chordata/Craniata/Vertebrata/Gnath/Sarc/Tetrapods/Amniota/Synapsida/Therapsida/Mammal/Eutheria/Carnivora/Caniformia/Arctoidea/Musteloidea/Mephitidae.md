@@ -105,7 +105,7 @@ dv_has_:
     ay: Añuthaya
     azb: میلو
     be: скунсы
-    be-tarask: Скунсавыя
+    be_tarask: Скунсавыя
     bg: скунксови
     bjn: Gubang
     bo: ཏེ་ལོ།
@@ -120,8 +120,8 @@ dv_has_:
     de: Stinktier
     el: Μεφιτιδίδες
     en: Mephitidae
-    en-ca: Skunk
-    en-gb: skunk
+    en_ca: Skunk
+    en_gb: skunk
     eo: Mefitedoj
     es: Mephitidae
     et: Vinuklased
@@ -170,7 +170,7 @@ dv_has_:
     pl: Skunksowate
     pnb: سکنک
     pt: Mephitidae
-    pt-br: Mephitidae
+    pt_br: Mephitidae
     qu: Añas
     ro: sconcs
     ru: скунсовые
@@ -197,8 +197,8 @@ dv_has_:
     yi: טכויר
     yue: 臭鼬科
     zh: 臭鼬科
-    zh-cn: 臭鼬科
-    zh-hans: 臭鼬科
+    zh_cn: 臭鼬科
+    zh_hans: 臭鼬科
 ---
 # [[Mephitidae]] 
 

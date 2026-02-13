@@ -61,7 +61,7 @@ dv_has_:
     ar: إرواء بالرش
     ast: asperxador
     az: Çiləyici
-    be-tarask: пырскаўка
+    be_tarask: пырскаўка
     bg: разпръсквач
     ca: aspersor
     cv: пĕрĕхтерĕш

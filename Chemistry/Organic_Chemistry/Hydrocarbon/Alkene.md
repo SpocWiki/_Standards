@@ -109,7 +109,7 @@ dv_has_:
     az: Alkenlər
     bcl: Alkeno
     be: Алкены
-    be-tarask: алькены
+    be_tarask: алькены
     bg: Алкен
     bn: অ্যালকিন
     bs: Alkeni
@@ -119,11 +119,11 @@ dv_has_:
     cy: Alcen
     da: Alken
     de: Alkene
-    de-ch: Alkene
+    de_ch: Alkene
     el: αλκένια
     en: alkene
-    en-ca: Alkene
-    en-gb: alkene
+    en_ca: Alkene
+    en_gb: alkene
     eo: alkeno
     es: alqueno
     et: alkeenid
@@ -168,7 +168,7 @@ dv_has_:
     pa: ਅਲਕੀਨ
     pl: alken
     pt: alceno
-    pt-br: alceno
+    pt_br: alceno
     ro: alchenă
     ru: алкены
     rue: Алкены

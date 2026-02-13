@@ -4,14 +4,14 @@ dv_has_:
   name_:
     af: Ontmensliking
     ar: التجرد من الإنسانية
-    be-tarask: дэгуманізацыя
+    be_tarask: дэгуманізацыя
     ca: deshumanització
     cs: dehumanizace
     da: dehumanisering
     de: Entmenschlichung
     el: Απανθρωποποίηση
     en: dehumanization
-    en-gb: dehumanisation
+    en_gb: dehumanisation
     eo: nehomigo
     es: deshumanización
     et: Dehumaniseerimine
@@ -46,8 +46,8 @@ dv_has_:
     uk: дегуманізація
     yue: 去人性化
     zh: 去人性化
-    zh-hans: 反人类
-    zh-hant: 反人類
+    zh_hans: 反人类
+    zh_hant: 反人類
 aliases:
 - avhumanisering
 - Dehumanisasi

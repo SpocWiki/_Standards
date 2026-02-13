@@ -5,8 +5,8 @@ dv_has_:
     ace: Aljazair
     acm: الجزائر
     ady: Алжир
-    aeb-arab: الدزاير
-    aeb-latn: ed-dzèyer
+    aeb_arab: الدزاير
+    aeb_latn: ed-dzèyer
     af: Algerië
     am: አልጄሪያ
     ami: Algeria
@@ -31,7 +31,7 @@ dv_has_:
     bbc: Aljazair
     bcl: Algerya
     be: Алжыр
-    be-tarask: Альжыр
+    be_tarask: Альжыр
     bew: Aljajaèr
     bg: Алжир
     bgn: الجزایر
@@ -48,7 +48,7 @@ dv_has_:
     bug: Aljazair
     bxr: Алжир
     ca: Algèria
-    cbk-zam: Argelia
+    cbk_zam: Argelia
     cdo: Algeria
     ce: Алжазаира
     ceb: Arhelya
@@ -57,7 +57,7 @@ dv_has_:
     ckb: جەزائیر
     co: Algeria
     crh: Cezair
-    crh-latn: Cezair
+    crh_latn: Cezair
     cs: Alžírsko
     csb: Algieriô
     cu: Алджаꙁаиръ
@@ -67,7 +67,7 @@ dv_has_:
     dag: Algeria
     de: Algerien
     de-at: Algerien
-    de-ch: Algerien
+    de_ch: Algerien
     din: Algeria
     diq: Cezayir
     dsb: Algeriska
@@ -78,8 +78,8 @@ dv_has_:
     ee: Algeria
     el: Αλγερία
     en: Algeria
-    en-ca: Algeria
-    en-gb: Algeria
+    en_ca: Algeria
+    en_gb: Algeria
     en-us: Algeria
     eo: Alĝerio
     es: Argelia
@@ -106,7 +106,7 @@ dv_has_:
     gn: Ayhelia
     gom: आल्जेरिया
     gom-deva: आल्जेरिया
-    gom-latn: Algeria
+    gom_latn: Algeria
     gor: Aljazair
     got: "\U00010330\U0001033B\U00010336\U00010339\U00010334\U00010342\U00010330\U0001033F"
     gpe: Algeria
@@ -182,7 +182,7 @@ dv_has_:
     mad: Aljazair
     mag: अल्जीरिया
     mai: अल्जेरिया
-    map-bms: Aljazair
+    map_bms: Aljazair
     mdf: Алжирия
     mg: Aljeria
     mhr: Алжир
@@ -207,7 +207,7 @@ dv_has_:
     nap: Algeria
     nb: Algerie
     nds: Algerien
-    nds-nl: Algerye
+    nds_nl: Algerye
     ne: अल्जेरिया
     new: अल्जेरिया
     nl: Algerije
@@ -234,7 +234,7 @@ dv_has_:
     pnb: الجزائر
     ps: الجېريا
     pt: Argélia
-    pt-br: Argélia
+    pt_br: Argélia
     qu: Alhirya
     rm: Algeria
     rmy: Algeria
@@ -257,7 +257,7 @@ dv_has_:
     sh: Alžir
     shi: Dzayr
     shn: မိူင်းဢႄးၵျီးရီးယႃး
-    shy-latn: Dzair
+    shy_latn: Dzair
     si: ඇල්ජීරියාව
     sk: Alžírsko
     sl: Alžirija
@@ -269,8 +269,8 @@ dv_has_:
     so: Aljeeriya
     sq: Algjeria
     sr: Алжир
-    sr-ec: Алжир
-    sr-el: Alžir
+    sr_ec: Алжир
+    sr_el: Alžir
     srn: Algeriakondre
     ss: I-Alijeriya
     st: Algeria
@@ -327,14 +327,14 @@ dv_has_:
     zea: Alherije
     zgh: ⴷⵣⴰⵢⵔ
     zh: 阿爾及利亞
-    zh-cn: 阿尔及利亚
-    zh-hans: 阿尔及利亚
-    zh-hant: 阿爾及利亞
-    zh-hk: 阿爾及利亞
-    zh-mo: 阿爾及利亞
+    zh_cn: 阿尔及利亚
+    zh_hans: 阿尔及利亚
+    zh_hant: 阿爾及利亞
+    zh_hk: 阿爾及利亞
+    zh_mo: 阿爾及利亞
     zh-my: 阿尔及利亚
-    zh-sg: 阿尔及利亚
-    zh-tw: 阿爾及利亞
+    zh_sg: 阿尔及利亚
+    zh_tw: 阿爾及利亞
     zu: IAljiriya
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Algeria

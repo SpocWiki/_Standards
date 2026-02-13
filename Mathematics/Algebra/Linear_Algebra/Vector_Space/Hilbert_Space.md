@@ -85,7 +85,7 @@ dv_has_:
     ast: espaciu de Hilbert
     az: Hilbert fəzası
     ba: Гильберт арауығы
-    be-tarask: гільбэртава прастора
+    be_tarask: гільбэртава прастора
     bg: Хилбертово пространство
     bn: হিলবার্ট জগৎ
     bs: Hilbertov prostor
@@ -129,7 +129,7 @@ dv_has_:
     pms: spassi ëd Hilbert
     pnb: ہلبرٹ سپیس
     pt: espaço de Hilbert
-    pt-br: espaço de Hilbert
+    pt_br: espaço de Hilbert
     ro: spațiu Hilbert
     ru: гильбертово пространство
     sco: Hilbert space
@@ -138,8 +138,8 @@ dv_has_:
     sl: Hilbertov prostor
     sq: Hapësira e Hilbertit
     sr: Хилбертов простор
-    sr-ec: Хилбертов простор
-    sr-el: Hilbertov prostor
+    sr_ec: Хилбертов простор
+    sr_el: Hilbertov prostor
     sv: hilbertrum
     tl: espasyong Hilbert
     tr: Hilbert uzayı
@@ -150,12 +150,12 @@ dv_has_:
     wuu: 希尔伯特空间
     yue: 囂拔空間
     zh: 希尔伯特空间
-    zh-cn: 希尔伯特空间
-    zh-hans: 希尔伯特空间
-    zh-hant: 希爾伯特空間
-    zh-hk: 希爾伯特空間
-    zh-sg: 希尔伯特空间
-    zh-tw: 希爾伯特空間
+    zh_cn: 希尔伯特空间
+    zh_hans: 希尔伯特空间
+    zh_hant: 希爾伯特空間
+    zh_hk: 希爾伯特空間
+    zh_sg: 希尔伯特空间
+    zh_tw: 希爾伯特空間
 ---
 # [[Hilbert_Space]] 
 

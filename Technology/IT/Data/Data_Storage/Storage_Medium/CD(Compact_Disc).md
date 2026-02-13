@@ -144,7 +144,7 @@ dv_has_:
     ba: компакт-диск
     bar: Compact Disc
     be: CD
-    be-tarask: кампакт-дыск
+    be_tarask: кампакт-дыск
     bg: компактдиск
     bn: কমপ্যাক্ট ডিস্ক
     br: CD
@@ -155,11 +155,11 @@ dv_has_:
     cy: crynoddisg
     da: CD
     de: Compact Disc
-    de-ch: Compact Disc
+    de_ch: Compact Disc
     el: compact disc
     en: compact disc
-    en-ca: Compact disc
-    en-gb: compact disc
+    en_ca: Compact disc
+    en_gb: compact disc
     eo: kompakta disko
     es: disco compacto
     et: CD
@@ -200,7 +200,7 @@ dv_has_:
     mk: компактен диск
     ml: കോംപാക്റ്റ് ഡിസ്ക്
     ms: cakera padat
-    ms-arab: چکرا ڤادت
+    ms_arab: چکرا ڤادت
     mwl: CD
     my: စီဒီဓါတ်ပြား
     nah: yahualtōntli
@@ -218,7 +218,7 @@ dv_has_:
     pnb: سی ڈی
     ps: كېښكلى ټيكلى
     pt: disco compacto
-    pt-br: disco compacto
+    pt_br: disco compacto
     qu: Ñit'isqa phiruru
     ro: Disc compact
     ru: компакт-диск
@@ -236,7 +236,7 @@ dv_has_:
     so: CD
     sq: compact disc
     sr: компакт-диск
-    sr-ec: компакт-диск
+    sr_ec: компакт-диск
     sv: CD
     sw: Diski Gandamize
     ta: குறுந்தகடு
@@ -245,7 +245,7 @@ dv_has_:
     tl: CD
     tr: compact disc
     tt: компакт-диск
-    tt-cyrl: компакт-диск
+    tt_cyrl: компакт-диск
     uk: компакт-диск
     ur: سی ڈی
     uz: Kompakt-disk
@@ -256,12 +256,12 @@ dv_has_:
     yi: סידי
     yue: CD
     zh: 雷射唱片
-    zh-cn: 激光唱片
-    zh-hans: 激光唱片
-    zh-hant: 雷射唱片
-    zh-hk: 激光唱片
-    zh-sg: 镭射唱片
-    zh-tw: 雷射唱片
+    zh_cn: 激光唱片
+    zh_hans: 激光唱片
+    zh_hant: 雷射唱片
+    zh_hk: 激光唱片
+    zh_sg: 镭射唱片
+    zh_tw: 雷射唱片
 ---
 # [[CD(Compact_Disc)]] 
 

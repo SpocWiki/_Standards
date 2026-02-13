@@ -303,7 +303,7 @@ dv_has_:
     bar: Eiropäische Union
     bcl: Union Europea
     be: Еўрапейскі Саюз
-    be-tarask: Эўрапейскі Зьвяз
+    be_tarask: Эўрапейскі Зьвяз
     bew: Èropa Rempug
     bg: Европейски съюз
     bho: यूरोपियन यूनियन
@@ -315,14 +315,14 @@ dv_has_:
     btm: Uni Eropa
     bxr: Европын холбоо
     ca: Unió Europea
-    cbk-zam: Unión Europea
+    cbk_zam: Unión Europea
     cdo: Ĕu-ciŭ Lièng-mèng
     ce: Европин барт
     ceb: Ewropanhong Unyon
     ckb: یەکێتیی ئەورووپا
     co: Unione auropea
     crh: Avropa Birligi
-    crh-latn: Avropa Birligi
+    crh_latn: Avropa Birligi
     crh-ro: Awrupa Bírlígí
     cs: Evropská unie
     csb: Eùropejskô Ùnijô
@@ -333,7 +333,7 @@ dv_has_:
     dag: European Union
     de: Europäische Union
     de-at: Europäische Union
-    de-ch: Europäische Union
+    de_ch: Europäische Union
     diq: Yewina Ewropa
     dsb: Europska unija
     dty: युरोपेली संघ
@@ -341,8 +341,8 @@ dv_has_:
     dz: ཡུ་རོབ་མནའ་འབྲེལ།
     el: Ευρωπαϊκή Ένωση
     en: European Union
-    en-ca: European Union
-    en-gb: European Union
+    en_ca: European Union
+    en_gb: European Union
     en-us: European Union
     eo: Eŭropa Unio
     es: Unión Europea
@@ -432,7 +432,7 @@ dv_has_:
     mad: Uni Èropa
     mag: यूरोपीयसङ्घ
     mai: युरोपेली सङ्घ
-    map-bms: Uni Eropa
+    map_bms: Uni Eropa
     mdf: Эуропонь соткс
     mg: Vondrona Eoropeana
     mhr: Европо Ушем
@@ -444,7 +444,7 @@ dv_has_:
     mo: Униуня Еуропянэ
     mr: युरोपीय संघ
     ms: Kesatuan Eropah
-    ms-arab: کساتوان ايروڤه
+    ms_arab: کساتوان ايروڤه
     mt: Unjoni Ewropea
     mwl: Ounion Ouropeia
     my: ဥရောပ သမဂ္ဂ
@@ -455,7 +455,7 @@ dv_has_:
     nap: Aunione europea
     nb: Den europeiske union
     nds: Europääsche Union
-    nds-nl: Europeeske Uny
+    nds_nl: Europeeske Uny
     ne: युरोपेली संघ
     new: युरोपियन युनियन
     nl: Europese Unie
@@ -479,7 +479,7 @@ dv_has_:
     pnt: Ευρωπαϊκόν Σύνδεσμον
     ps: اروپايي ټولنه
     pt: União Europeia
-    pt-br: União Europeia
+    pt_br: União Europeia
     qu: Iwrupa Huñu
     rm: Uniun Europeica
     rmy: Europikano Ekipen
@@ -507,7 +507,7 @@ dv_has_:
     so: Midowga Yurub
     sq: Bashkimi Evropian
     sr: Европска унија
-    sr-ec: Европска унија
+    sr_ec: Европска унија
     stq: Europäiske Union
     su: Uni Éropa
     sv: Europeiska unionen
@@ -547,14 +547,14 @@ dv_has_:
     zea: Europese Unie
     zgh: ⵜⴰⵎⵓⵏⵜ ⵏ ⵜⵓⵔⵓⴼⵜ
     zh: 歐洲聯盟
-    zh-cn: 欧洲联盟
-    zh-hans: 欧洲联盟
-    zh-hant: 歐洲聯盟
-    zh-hk: 歐洲聯盟
-    zh-mo: 歐洲聯盟
+    zh_cn: 欧洲联盟
+    zh_hans: 欧洲联盟
+    zh_hant: 歐洲聯盟
+    zh_hk: 歐洲聯盟
+    zh_mo: 歐洲聯盟
     zh-my: 欧洲联盟
-    zh-sg: 欧洲联盟
-    zh-tw: 歐洲聯盟
+    zh_sg: 欧洲联盟
+    zh_tw: 歐洲聯盟
   previous_item: '[[European_Communities(EC)]]'
   time_:
     started: 1993-11-01T00:00:00.000+01:00

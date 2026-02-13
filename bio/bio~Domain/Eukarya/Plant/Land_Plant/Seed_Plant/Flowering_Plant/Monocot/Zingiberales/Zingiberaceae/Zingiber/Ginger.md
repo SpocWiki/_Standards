@@ -256,7 +256,7 @@ dv_has_:
     ban: Jaé
     bcl: laya
     be: Імбір
-    be-tarask: імбір садовы
+    be_tarask: імбір садовы
     bew: Jahé
     bg: обикновен джинджифил
     bi: Giner
@@ -277,8 +277,8 @@ dv_has_:
     dtp: Layo
     el: Πιπερόριζα
     en: ginger
-    en-ca: Ginger
-    en-gb: ginger
+    en_ca: Ginger
+    en_gb: ginger
     eo: zingibro
     es: Zingiber officinale
     et: ingver
@@ -349,7 +349,7 @@ dv_has_:
     my: ချင်းပင်
     nan: Kiuⁿ
     nb: ingefær
-    nds-nl: gember
+    nds_nl: gember
     ne: अदुवा
     nia: lahia
     nl: gember
@@ -363,7 +363,7 @@ dv_has_:
     pnb: ادرک
     ps: سونډی
     pt: gengibre
-    pt-br: Zingiber officinale
+    pt_br: Zingiber officinale
     pwn: ljameljam
     qu: Awirinri
     ro: Ghimbir
@@ -414,10 +414,10 @@ dv_has_:
     yue: 薑
     za: Hing
     zh: 薑
-    zh-cn: 姜
-    zh-hans: 姜
-    zh-hant: 薑
-    zh-tw: 薑
+    zh_cn: 姜
+    zh_hans: 姜
+    zh_hant: 薑
+    zh_tw: 薑
 ---
 # [[Ginger]] 
 

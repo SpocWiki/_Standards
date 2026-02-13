@@ -60,14 +60,14 @@ dv_has_:
   name_:
     ar: تحليل العنصر الرئيسي
     ast: analís de componentes principales
-    be-tarask: мэтад галоўных кампанэнтаў
+    be_tarask: мэтад галоўных кампанэнтаў
     ca: anàlisi de components principals
     cs: analýza hlavních komponent
     da: principal komponent-analyse
     de: Hauptkomponentenanalyse
     en: principal component analysis
-    en-ca: principal component analysis
-    en-gb: principal component analysis
+    en_ca: principal component analysis
+    en_gb: principal component analysis
     eo: analizo laŭ precipaj konsisteroj
     es: análisis de componentes principales
     et: peakomponentide analüüs
@@ -90,7 +90,7 @@ dv_has_:
     nn: hovudkomponentanalyse
     pl: analiza głównych składowych
     pt: análise de componentes principais
-    pt-br: análise de componentes principais
+    pt_br: análise de componentes principais
     ru: метод главных компонент
     sk: analýza hlavných komponentov
     sl: analiza glavnih komponent

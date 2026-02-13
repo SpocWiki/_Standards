@@ -87,8 +87,8 @@ dv_has_:
     kab: Tazazrayt
     ko: 회양목과
     ku: Famîleya kevotan
-    ku-arab: فامیلەیا کەڤۆتان
-    ku-latn: Famîleya kevotan
+    ku_arab: فامیلەیا کەڤۆتان
+    ku_latn: Famîleya kevotan
     la: Buxaceae
     lt: Buksmediniai
     mk: Зеленики
@@ -99,15 +99,15 @@ dv_has_:
     oc: Buxaceae
     pl: bukszpanowate
     pt: Buxaceae
-    pt-br: Buxaceae
+    pt_br: Buxaceae
     ro: Buxaceae
     ru: самшитовые
     sk: krušpánovité
     sl: pušpanovke
     sq: Buxaceae
     sr: Buxaceae
-    sr-ec: Buxaceae
-    sr-el: Buxaceae
+    sr_ec: Buxaceae
+    sr_el: Buxaceae
     sv: Buxbomsväxter
     uk: Самшитові
     vi: Họ Hoàng dương
@@ -115,12 +115,12 @@ dv_has_:
     vo: Buxaceae
     war: Buxaceae
     zh: 黄杨科
-    zh-cn: 黄杨科
-    zh-hans: 黄杨科
-    zh-hant: 黃楊科
-    zh-hk: 黃楊科
-    zh-sg: 黄杨科
-    zh-tw: 黃楊科
+    zh_cn: 黄杨科
+    zh_hans: 黄杨科
+    zh_hant: 黃楊科
+    zh_hk: 黃楊科
+    zh_sg: 黄杨科
+    zh_tw: 黃楊科
 ---
 # [[Buxaceae]]  
 

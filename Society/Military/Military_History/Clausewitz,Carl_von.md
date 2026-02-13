@@ -113,7 +113,7 @@ dv_has_:
     az: Karl fon Klauzevits
     azb: کارل فون کلاوزویتس
     be: Карл фон Клаўзевіц
-    be-tarask: Карл фон Кляўзэвіц
+    be_tarask: Карл фон Кляўзэвіц
     bg: Карл фон Клаузевиц
     br: Carl von Clausewitz
     ca: Karl von Clausewitz
@@ -165,7 +165,7 @@ dv_has_:
     pl: Carl von Clausewitz
     pms: Carl von Clausewitz
     pt: Carl von Clausewitz
-    pt-br: Carl von Clausewitz
+    pt_br: Carl von Clausewitz
     ro: Carl von Clausewitz
     ru: Карл фон Клаузевиц
     scn: Carl von Clausewitz
@@ -185,7 +185,7 @@ dv_has_:
     xmf: კარლ ფონ კლაუზევიცი
     yue: 卡爾·凡·卡柳斯維士
     zh: 卡尔·冯·克劳塞维茨
-    zh-hk: 卡爾·凡·卡柳斯維士
+    zh_hk: 卡爾·凡·卡柳斯維士
 ---
 # [[Clausewitz,Carl_von]] 
 

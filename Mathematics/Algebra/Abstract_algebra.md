@@ -103,7 +103,7 @@ dv_has_:
     ast: Álxebra astracta
     ba: Дөйөм алгебра
     be: абстрактная алгебра
-    be-tarask: абстрактная альгебра
+    be_tarask: абстрактная альгебра
     bg: Абстрактна алгебра
     bn: বিমূর্ত বীজগণিত
     bo: བཅུད་དོན་ཚབ་རྩིས་རིག་པ།
@@ -117,8 +117,8 @@ dv_has_:
     de: abstrakte Algebra
     el: αφηρημένη άλγεβρα
     en: abstract algebra
-    en-ca: Abstract algebra
-    en-gb: abstract algebra
+    en_ca: Abstract algebra
+    en_gb: abstract algebra
     eo: abstrakta algebro
     es: álgebra abstracta
     et: üldalgebra
@@ -156,7 +156,7 @@ dv_has_:
     oc: Algèbra abstracha
     pl: algebra abstrakcyjna
     pt: álgebra abstrata
-    pt-br: álgebra abstrata
+    pt_br: álgebra abstrata
     rki: ခေတ်သစ်အက္ခရာသင်္ချာ
     ro: algebră abstractă
     ru: абстрактная алгебра
@@ -170,8 +170,8 @@ dv_has_:
     sms: abstraaktlaž algebra
     sq: algjebër abstrakte
     sr: апстрактна алгебра
-    sr-ec: Апстрактна алгебра
-    sr-el: Apstraktna algebra
+    sr_ec: Апстрактна алгебра
+    sr_el: Apstraktna algebra
     sv: abstrakt algebra
     th: พีชคณิตนามธรรม
     tl: Alhebrang abstrakto
@@ -185,12 +185,12 @@ dv_has_:
     yi: אבסטראקטע אלגעברע
     yue: 抽象代數
     zh: 抽象代数
-    zh-cn: 抽象代数
-    zh-hans: 抽象代数
-    zh-hant: 抽象代數
-    zh-hk: 抽象代數
-    zh-sg: 抽象代数
-    zh-tw: 抽象代數
+    zh_cn: 抽象代数
+    zh_hans: 抽象代数
+    zh_hant: 抽象代數
+    zh_hk: 抽象代數
+    zh_sg: 抽象代数
+    zh_tw: 抽象代數
 ---
 # [[Abstract_algebra]] 
 

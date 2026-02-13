@@ -222,7 +222,7 @@ dv_has_:
     avk: Baroy lofrik (suterot)
     az: Üç muşketyor
     be: Тры мушкецёры
-    be-tarask: Тры мушкетэры
+    be_tarask: Тры мушкетэры
     bg: Тримата мускетари
     bn: তিন মাস্কেটিয়ার
     br: Les Trois Mousquetaires
@@ -232,11 +232,11 @@ dv_has_:
     cs: Tři mušketýři
     da: De Tre Musketerer
     de: Die drei Musketiere
-    de-ch: Die drei Musketiere
+    de_ch: Die drei Musketiere
     el: Οι Τρεις Σωματοφύλακες
     en: The Three Musketeers
-    en-ca: The Three Musketeers
-    en-gb: The Three Musketeers
+    en_ca: The Three Musketeers
+    en_gb: The Three Musketeers
     eo: La tri musketistoj
     es: Los tres mosqueteros
     et: Kolm musketäri
@@ -260,7 +260,7 @@ dv_has_:
     kaa: Úsh mushketyor
     ko: 삼총사
     ku: Sê çekdar
-    ku-latn: Sê çekdar
+    ku_latn: Sê çekdar
     ky: Үч мушкетер
     la: Les Trois Mousquetaires
     lb: Les Trois Mousquetaires
@@ -278,7 +278,7 @@ dv_has_:
     pa: ਦਾ ਥ੍ਰੀ ਮਸਕੀਟੀਅਰਸ
     pl: Trzej muszkieterowie
     pt: Os Três Mosqueteiros
-    pt-br: Os Três Mosqueteiros
+    pt_br: Os Três Mosqueteiros
     ro: Cei trei muschetari
     ru: Три мушкетёра
     sh: Les Trois Mousquetaires
@@ -286,8 +286,8 @@ dv_has_:
     sl: Trije mušketirji
     sq: Tre Musketerët
     sr: Три мускетара
-    sr-ec: Три мускетара
-    sr-el: Tri musketara
+    sr_ec: Три мускетара
+    sr_el: Tri musketara
     sv: De tre musketörerna
     ta: த த்ரீ மஸ்கிடியர்ஸ்
     th: สามทหารเสือ
@@ -301,12 +301,12 @@ dv_has_:
     xmf: სუმი მუშკეტერი
     yue: 三劍俠
     zh: 三劍客
-    zh-cn: 三个火枪手
-    zh-hans: 三个火枪手
-    zh-hant: 三劍客
-    zh-hk: 三劍客
-    zh-sg: 三个火枪手
-    zh-tw: 三劍客
+    zh_cn: 三个火枪手
+    zh_hans: 三个火枪手
+    zh_hant: 三劍客
+    zh_hk: 三劍客
+    zh_sg: 三个火枪手
+    zh_tw: 三劍客
 ---
 # [[Three_Musketeers]] 
 

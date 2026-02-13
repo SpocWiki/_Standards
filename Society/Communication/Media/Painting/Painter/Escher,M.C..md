@@ -187,7 +187,7 @@ dv_has_:
     arz: ايشر
     ast: M. C. Escher
     be: Морыц Карнеліс Эшэр
-    be-tarask: Маўрыц Карнэліс Эшэр
+    be_tarask: Маўрыц Карнэліс Эшэр
     bg: Мориц Корнелис Ешер
     bn: এম. সি. এশ্যর
     bs: M. C. Escher
@@ -197,11 +197,11 @@ dv_has_:
     da: Maurits Cornelis Escher
     de: M. C. Escher
     de-at: Maurits Cornelis Escher
-    de-ch: M. C. Escher
+    de_ch: M. C. Escher
     el: Μαουρίτς Κορνέλις Έσερ
     en: M. C. Escher
-    en-ca: M. C. Escher
-    en-gb: M. C. Escher
+    en_ca: M. C. Escher
+    en_gb: M. C. Escher
     eo: M. C. Escher
     es: M. C. Escher
     et: Maurits Cornelis Escher
@@ -250,7 +250,7 @@ dv_has_:
     pms: Maurits Cornelis Escher
     ps: موریس اشر
     pt: Maurits Cornelis Escher
-    pt-br: Maurits Cornelis Escher
+    pt_br: Maurits Cornelis Escher
     ro: Maurits Cornelis Escher
     ru: Мауриц Корнелис Эшер
     sc: Maurits Cornelis Escher
@@ -273,7 +273,7 @@ dv_has_:
     wuu: 莫里茨·科内利斯·埃舍尔
     yue: 莫里茲·柯尼利斯·艾雪
     zh: 莫里茨·科內利斯·埃舍爾
-    zh-hant: 莫里茲·柯尼利斯·艾雪
+    zh_hant: 莫里茲·柯尼利斯·艾雪
 ---
 # [[Escher,M.C.]] 
 

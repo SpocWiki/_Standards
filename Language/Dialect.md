@@ -153,7 +153,7 @@ dv_has_:
     bar: Dialekt
     bcl: diyalekto
     be: дыялект
-    be-tarask: дыялект
+    be_tarask: дыялект
     bg: диалект
     bn: উপভাষা
     bo: ཡུལ་སྐད།
@@ -168,7 +168,7 @@ dv_has_:
     cy: tafodiaith
     da: dialekt
     de: Dialekt
-    de-ch: Dialekt
+    de_ch: Dialekt
     diq: diyalekt
     el: διάλεκτος
     en: dialect
@@ -212,7 +212,7 @@ dv_has_:
     kn: ಉಪಭಾಷೆ
     ko: 방언
     ku: zarava
-    ku-latn: zarava
+    ku_latn: zarava
     ky: диалект
     la: dialectos
     lb: Dialekt
@@ -229,13 +229,13 @@ dv_has_:
     mn: аялгуу
     mr: पोटभाषा
     ms: loghat
-    ms-arab: لوغت
+    ms_arab: لوغت
     mt: djalett
     mwl: dialeto
     nan: hong-giân
     nb: dialekt
     nds: Dialekt
-    nds-nl: dialekt
+    nds_nl: dialekt
     ne: भाषिका
     new: कचाभाय्
     nl: dialect
@@ -252,7 +252,7 @@ dv_has_:
     pnb: پڑبولی
     ps: ګړدود
     pt: dialeto
-    pt-br: dialeto
+    pt_br: dialeto
     qu: k'iti rimay
     rmf: dialektos
     ro: dialect
@@ -275,7 +275,7 @@ dv_has_:
     so: afguri
     sq: dialekt
     sr: дијалект
-    sr-ec: дијалект
+    sr_ec: дијалект
     su: dialék
     sv: dialekt
     sw: lahaja
@@ -286,7 +286,7 @@ dv_has_:
     tl: wikain
     tr: lehçe
     tt: сөйләм
-    tt-cyrl: сөйләм
+    tt_cyrl: сөйләм
     uk: діалект
     ur: بولی
     uz: lahja
@@ -302,14 +302,14 @@ dv_has_:
     yue: 方言
     zgh: ⵜⴰⵏⵜⴰⵍⴰ
     zh: 方言
-    zh-cn: 方言
-    zh-hans: 方言
-    zh-hant: 方言
-    zh-hk: 方言
-    zh-mo: 方言
+    zh_cn: 方言
+    zh_hans: 方言
+    zh_hant: 方言
+    zh_hk: 方言
+    zh_mo: 方言
     zh-my: 方言
-    zh-sg: 方言
-    zh-tw: 方言
+    zh_sg: 方言
+    zh_tw: 方言
     zu: umvethezo
 ---
 # [[Dialect]] 

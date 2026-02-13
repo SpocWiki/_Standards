@@ -56,7 +56,7 @@ dv_has_:
   name_:
     ar: يهودية محافظة
     ast: Xudaísmu conservador
-    be-tarask: кансэрватыўны юдаізм
+    be_tarask: кансэрватыўны юдаізм
     br: Yuzevegezh virour
     ca: judaisme conservador
     cs: konzervativní judaismus
@@ -64,7 +64,7 @@ dv_has_:
     de: Konservatives Judentum
     el: Συντηρητικός Ιουδαϊσμός
     en: Conservative Judaism
-    en-gb: Conservative Judaism
+    en_gb: Conservative Judaism
     eo: konservema judismo
     es: judaísmo conservador
     eu: judaismo kontserbadorea

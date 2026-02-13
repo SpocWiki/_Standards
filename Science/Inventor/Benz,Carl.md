@@ -102,7 +102,7 @@ dv_has_:
     ba: Карл Бенц
     bcl: Karl Benz
     be: Карл Бенц
-    be-tarask: Карл Бэнц
+    be_tarask: Карл Бэнц
     bg: Карл Бенц
     bn: কার্ল বেঞ্জ
     br: Karl Benz
@@ -118,8 +118,8 @@ dv_has_:
     diq: Karl Benz
     el: Καρλ Μπεντς
     en: Carl Benz
-    en-ca: Karl Benz
-    en-gb: Karl Benz
+    en_ca: Karl Benz
+    en_gb: Karl Benz
     eo: Karl Benz
     es: Carl Benz
     et: Karl Benz
@@ -160,7 +160,7 @@ dv_has_:
     lt: Karl Friedrich Benz
     lv: Kārlis Bencs
     mai: कार्ल बेन्ज
-    map-bms: Karl Benz
+    map_bms: Karl Benz
     mg: Carl Benz
     mk: Карл Бенц
     ml: കാൾ ബെൻസ്
@@ -181,7 +181,7 @@ dv_has_:
     pms: Karl Benz
     pnb: کارل بنز
     pt: Karl Benz
-    pt-br: Karl Benz
+    pt_br: Karl Benz
     ro: Karl Benz
     ru: Карл Бенц
     sa: कार्ल बेन्ज़
@@ -211,8 +211,8 @@ dv_has_:
     yo: Karl Benz
     yue: 卡爾·賓茨
     zh: 卡尔·本茨
-    zh-hans: 卡尔·本茨
-    zh-hant: 卡爾·本茨
+    zh_hans: 卡尔·本茨
+    zh_hant: 卡爾·本茨
 ---
 # [[Benz,Carl]] 
 

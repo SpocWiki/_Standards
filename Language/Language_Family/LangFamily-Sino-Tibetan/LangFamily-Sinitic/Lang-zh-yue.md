@@ -129,7 +129,7 @@ dv_has_:
     arz: صينيه يوى
     ast: Chinu cantonés
     az: Yue Çin dili
-    be-tarask: юэ
+    be_tarask: юэ
     bn: ইউয়ে ভাষা
     bo: ཀོང་ཏུང་སྐད།
     ca: xinès Yue
@@ -141,7 +141,7 @@ dv_has_:
     da: yue
     de: Kantonesisch
     en: Yue Chinese
-    en-gb: Yue Chinese
+    en_gb: Yue Chinese
     eo: sudĉina lingvo
     es: cantonés
     et: kantoni keel
@@ -202,13 +202,13 @@ dv_has_:
     yue: 粵語
     za: Vahgvangjdungh
     zh: 粵語
-    zh-cn: 粤语
-    zh-hans: 粤语
-    zh-hant: 粵語
-    zh-hk: 粵語
-    zh-mo: 粵語
-    zh-sg: 粤语
-    zh-tw: 粵語
+    zh_cn: 粤语
+    zh_hans: 粤语
+    zh_hant: 粵語
+    zh_hk: 粵語
+    zh_mo: 粵語
+    zh_sg: 粤语
+    zh_tw: 粵語
     zu: isi-Yue Chinese
 ---
 # [[Lang-zh-yue]] 

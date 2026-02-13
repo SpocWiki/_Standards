@@ -128,7 +128,7 @@ dv_has_:
     azb: دانیل دی-لوئیس
     ba: Дэй-Льюис Дэниел
     be: Дэніел Дэй-Льюіс
-    be-tarask: Дэніел Дэй-Льюіс
+    be_tarask: Дэніел Дэй-Льюіс
     bg: Даниъл Дей-Люис
     bn: ড্যানিয়েল ডে-লুইস
     br: Daniel Day-Lewis
@@ -140,12 +140,12 @@ dv_has_:
     da: Daniel Day-Lewis
     dag: Daniel Day-Lewis
     de: Daniel Day-Lewis
-    de-ch: Daniel Day-Lewis
+    de_ch: Daniel Day-Lewis
     diq: Daniel Day-Lewis
     el: Ντάνιελ Ντέι Λιούις
     en: Daniel Day-Lewis
-    en-ca: Daniel Day-Lewis
-    en-gb: Daniel Day-Lewis
+    en_ca: Daniel Day-Lewis
+    en_gb: Daniel Day-Lewis
     eo: Daniel Day-Lewis
     es: Daniel Day-Lewis
     et: Daniel Day-Lewis
@@ -196,7 +196,7 @@ dv_has_:
     pag: Daniel Day-Lewis
     pl: Daniel Day-Lewis
     pt: Daniel Day-Lewis
-    pt-br: Daniel Day-Lewis
+    pt_br: Daniel Day-Lewis
     qu: Daniel Day-Lewis
     rm: Daniel Day-Lewis
     ro: Daniel Day-Lewis
@@ -207,8 +207,8 @@ dv_has_:
     sl: Daniel Day-Lewis
     sq: Daniel Day-Lewis
     sr: Данијел Деј-Луис
-    sr-ec: Данијел Деј-Луис
-    sr-el: Danijel Dej-Luis
+    sr_ec: Данијел Деј-Луис
+    sr_el: Danijel Dej-Luis
     sv: Daniel Day-Lewis
     sw: Daniel Day-Lewis
     ta: டேனியல் டே- லீவிசு
@@ -228,13 +228,13 @@ dv_has_:
     yo: Daniel Day-Lewis
     yue: 丹尼爾戴路易斯
     zh: 丹尼爾·戴-劉易斯
-    zh-cn: 丹尼尔·戴-刘易斯
-    zh-hans: 丹尼尔·戴-刘易斯
-    zh-hant: 丹尼爾·戴-路易斯
-    zh-hk: 丹尼爾·戴-李維士
+    zh_cn: 丹尼尔·戴-刘易斯
+    zh_hans: 丹尼尔·戴-刘易斯
+    zh_hant: 丹尼爾·戴-路易斯
+    zh_hk: 丹尼爾·戴-李維士
     zh-my: 丹尼尔·戴-路易斯
-    zh-sg: 丹尼尔·戴-路易斯
-    zh-tw: 丹尼爾·戴-路易斯
+    zh_sg: 丹尼尔·戴-路易斯
+    zh_tw: 丹尼爾·戴-路易斯
 ---
 # [[Day-Lewis,Daniel]] 
 

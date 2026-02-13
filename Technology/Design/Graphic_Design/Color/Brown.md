@@ -151,8 +151,8 @@ Wolfram_Language_entity_code: Entity["Color", {"WolframLanguage", "Brown"}]
 OpenStreetMap_tag: colour=brown
 dv_has_:
   name_:
-    aeb-arab: بني
-    aeb-latn: bonni
+    aeb_arab: بني
+    aeb_latn: bonni
     af: bruin
     am: ቡኒ
     an: Marrón
@@ -168,7 +168,7 @@ dv_has_:
     azb: قهوهیی
     ba: Көрән
     be: карычневы
-    be-tarask: карычневы
+    be_tarask: карычневы
     bg: кафяв цвят
     bho: भूअर
     bn: বাদামী
@@ -186,7 +186,7 @@ dv_has_:
     de: Braun
     el: καφέ
     en: brown
-    en-gb: brown
+    en_gb: brown
     eo: bruno
     es: marrón
     et: pruun
@@ -239,7 +239,7 @@ dv_has_:
     mn: Бор
     mnc: ᡝᡳᡥᡝᡵᡳ
     ms: perang
-    ms-arab: ڤيرڠ
+    ms_arab: ڤيرڠ
     mt: kannella
     my: အညိုရောင်
     myv: Тюжа
@@ -263,7 +263,7 @@ dv_has_:
     pl: barwa brązowa
     pnb: گندمی
     pt: castanho
-    pt-br: marrom
+    pt_br: marrom
     qu: P'aqu
     ro: brun
     ru: коричневый
@@ -281,8 +281,8 @@ dv_has_:
     sn: Mbise
     so: Cowlaan
     sr: смеђа
-    sr-ec: смеђа боја
-    sr-el: smeđa boja
+    sr_ec: смеђа боја
+    sr_el: smeđa boja
     su: Coklat (warna)
     sv: brun
     sw: Kahawia
@@ -292,7 +292,7 @@ dv_has_:
     tr: kahverengi
     ts: Ribungu
     tt: көрән
-    tt-cyrl: көрән
+    tt_cyrl: көрән
     ty: ravarava
     udm: курень
     ug: قوڭۇر رەڭلىك
@@ -308,14 +308,14 @@ dv_has_:
     yue: 啡色
     za: Saekhenjgeq
     zh: 褐色
-    zh-cn: 褐色
-    zh-hans: 褐色
-    zh-hant: 褐色
-    zh-hk: 褐色
-    zh-mo: 褐色
+    zh_cn: 褐色
+    zh_hans: 褐色
+    zh_hant: 褐色
+    zh_hk: 褐色
+    zh_mo: 褐色
     zh-my: 褐色
-    zh-sg: 褐色
-    zh-tw: 褐色
+    zh_sg: 褐色
+    zh_tw: 褐色
 ---
 ## [[Brown]]
 

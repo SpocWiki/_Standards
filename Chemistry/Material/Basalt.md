@@ -83,7 +83,7 @@ dv_has_:
     azb: بازالت
     ba: базальт
     be: базальт
-    be-tarask: базальт
+    be_tarask: базальт
     bg: базалт
     bho: बेसाल्ट
     bn: আগ্নেয়গিরিজাত শিলা
@@ -157,7 +157,7 @@ dv_has_:
     sl: bazalt
     sq: Bazalti
     sr: базалт
-    sr-ec: базалт
+    sr_ec: базалт
     su: basalt
     sv: basalt
     sw: gumawesi

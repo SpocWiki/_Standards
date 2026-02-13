@@ -183,7 +183,7 @@ dv_has_:
     az: kompüter klaviaturası
     bar: tastatua
     be: камп’ютарная клавіятура
-    be-tarask: кампутарная клявіятура
+    be_tarask: кампутарная клявіятура
     bew: Papan ketik
     bg: компютърна клавиатура
     bn: কম্পিউটার কিবোর্ড
@@ -198,13 +198,13 @@ dv_has_:
     cy: bysellfwrdd
     da: computertastatur
     de: Computertastatur
-    de-ch: tastatur
+    de_ch: tastatur
     dga: Kɔmpuuta bɔɔte
     dsb: tastatura
     el: πληκτρολόγιο
     en: computer keyboard
-    en-ca: computer keyboard
-    en-gb: computer keyboard
+    en_ca: computer keyboard
+    en_gb: computer keyboard
     eo: komputila klavaro
     es: teclado
     et: sõrmistik
@@ -260,13 +260,13 @@ dv_has_:
     mnw: ကဳဗောဒ် ကောန်ပျူတာ
     mrj: кывыл
     ms: papan kekunci
-    ms-arab: ڤاڤن ککونچي
+    ms_arab: ڤاڤن ککونچي
     my: လက်နှိပ်ကွက်
     mzn: کیبورد
     nan: khí-bó͘ (tiān-náu)
     nb: tastatur
     nds: tastatur
-    nds-nl: tikplanke
+    nds_nl: tikplanke
     ne: कम्प्युटर किबोर्ड
     nl: toetsenbord
     nn: datatastatur
@@ -277,7 +277,7 @@ dv_has_:
     pms: Tastera dël calcolator
     pnb: کمپیوٹر کی بورڈ
     pt: teclado
-    pt-br: teclado
+    pt_br: teclado
     qu: yatana llumpa
     ro: tastatură de calculator
     ru: компьютерная клавиатура
@@ -298,7 +298,7 @@ dv_has_:
     so: Kiiboodhka (kumbuyuutar)
     sq: tastiera kompjuterike
     sr: тастатура
-    sr-ec: Тастатура
+    sr_ec: Тастатура
     sv: datortangentbord
     sw: baobonye
     syl: ꠇꠝ꠆ꠙꠥꠐꠣꠞꠞ ꠇꠤꠛꠥꠒ
@@ -312,8 +312,8 @@ dv_has_:
     tok: ilo sitelen
     tr: klavye
     tt: санак төймәсары
-    tt-cyrl: санак төймәсары
-    tt-latn: sanaq töymäsarı
+    tt_cyrl: санак төймәсары
+    tt_latn: sanaq töymäsarı
     uk: клавіатура комп'ютера
     ur: تختۂ کلید
     uz: klaviatura
@@ -327,14 +327,14 @@ dv_has_:
     yi: קלאוויאטור
     yue: 鍵盤 (電腦)
     zh: 電腦鍵盤
-    zh-cn: 电脑键盘
-    zh-hans: 电脑键盘
-    zh-hant: 電腦鍵盤
-    zh-hk: 電腦鍵盤
-    zh-mo: 電腦鍵盤
+    zh_cn: 电脑键盘
+    zh_hans: 电脑键盘
+    zh_hant: 電腦鍵盤
+    zh_hk: 電腦鍵盤
+    zh_mo: 電腦鍵盤
     zh-my: 电脑键盘
-    zh-sg: 电脑键盘
-    zh-tw: 電腦鍵盤
+    zh_sg: 电脑键盘
+    zh_tw: 電腦鍵盤
 ---
 # [[Computer_Keyboard]] 🖮 
 

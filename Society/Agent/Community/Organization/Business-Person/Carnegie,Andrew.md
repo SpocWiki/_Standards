@@ -121,7 +121,7 @@ dv_has_:
     az: Endryu Karnegi
     ba: Карнеги Эндрю
     be: Эндру Карнегі
-    be-tarask: Эндру Карнэгі
+    be_tarask: Эндру Карнэгі
     bg: Андрю Карнеги
     bn: এন্ড্রু কানের্গি
     bs: Andrew Carnegie
@@ -130,11 +130,11 @@ dv_has_:
     cy: Andrew Carnegie
     da: Andrew Carnegie
     de: Andrew Carnegie
-    de-ch: Andrew Carnegie
+    de_ch: Andrew Carnegie
     el: Άντριου Καρνέγκι
     en: Andrew Carnegie
-    en-ca: Andrew Carnegie
-    en-gb: Andrew Carnegie
+    en_ca: Andrew Carnegie
+    en_gb: Andrew Carnegie
     en-us: Andrew Carnegie
     eo: Andrew Carnegie
     es: Andrew Carnegie
@@ -182,7 +182,7 @@ dv_has_:
     pms: Andrew Carnegie
     pnb: انڈریو کارنیگی
     pt: Andrew Carnegie
-    pt-br: Andrew Carnegie
+    pt_br: Andrew Carnegie
     rki: အင်ဒရူး ကာနက်ဂီ
     ro: Andrew Carnegie
     ru: Эндрю Карнеги
@@ -191,7 +191,7 @@ dv_has_:
     sl: Andrew Carnegie
     sq: Andrew Carnegie
     sr: Ендру Карнеги
-    sr-ec: Ендру Карнеги
+    sr_ec: Ендру Карнеги
     sv: Andrew Carnegie
     ta: ஆண்ட்ரூ கார்னேகி
     te: ఆండ్రూ కార్నెగీ
@@ -206,9 +206,9 @@ dv_has_:
     wuu: 安德鲁·卡内基
     yue: 安祖卡利之
     zh: 安德鲁·卡内基
-    zh-hans: 安德鲁·卡内基
-    zh-hant: 安德魯·卡內基
-    zh-hk: 安德魯·卡內基
+    zh_hans: 安德鲁·卡内基
+    zh_hant: 安德魯·卡內基
+    zh_hk: 安德魯·卡內基
 ---
 # [[Carnegie,Andrew]] 
 

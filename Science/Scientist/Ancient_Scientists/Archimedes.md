@@ -193,7 +193,7 @@ dv_has_:
     bar: Archimedes
     bcl: Archimedes
     be: Архімед
-    be-tarask: Архімэд
+    be_tarask: Архімэд
     bew: Arkimèdès
     bg: Архимед
     bho: आर्कमेडीस़
@@ -216,12 +216,12 @@ dv_has_:
     cy: Archimedes
     da: Arkimedes
     de: Archimedes
-    de-ch: Archimedes
+    de_ch: Archimedes
     diq: Archimedes
     el: Αρχιμήδης
     en: Archimedes
-    en-ca: Archimedes
-    en-gb: Archimedes
+    en_ca: Archimedes
+    en_gb: Archimedes
     eo: Arĥimedo
     es: Arquímedes
     et: Archimedes
@@ -241,7 +241,7 @@ dv_has_:
     gn: Arquímedes
     gom: आर्किमिडीज
     gom-deva: आर्किमिडीज
-    gom-latn: Archimedes
+    gom_latn: Archimedes
     gor: Archimedes
     grc: Ἀρχιμήδης
     gsw: Archimedes
@@ -286,7 +286,7 @@ dv_has_:
     lv: Arhimēds
     lzh: 亞基米德
     mad: Archimedes
-    map-bms: Archimedes
+    map_bms: Archimedes
     mg: Arsimeda
     min: Archimedes
     mk: Архимед
@@ -304,7 +304,7 @@ dv_has_:
     nap: Archemède
     nb: Arkimedes
     nds: Archimedes
-    nds-nl: Archimedes
+    nds_nl: Archimedes
     ne: आर्किमिडिज
     new: आर्किमिडिज
     nl: Archimedes
@@ -373,9 +373,9 @@ dv_has_:
     yo: Archimedes
     yue: 阿基米德
     zh: 阿基米德
-    zh-cn: 阿基米德
-    zh-hans: 阿基米德
-    zh-hant: 阿基米德
+    zh_cn: 阿基米德
+    zh_hans: 阿基米德
+    zh_hant: 阿基米德
 ---
 # [[Archimedes]] 
 

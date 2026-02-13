@@ -126,7 +126,7 @@ dv_has_:
     az: Ceymi Li Körtis
     azb: جیمی لی کرتیس
     be: Джэймі Лі Кёрціс
-    be-tarask: Джэймі Лі Кэртыс
+    be_tarask: Джэймі Лі Кэртыс
     bg: Джейми Лий Къртис
     bn: জেমি লি কার্টিস
     ca: Jamie Lee Curtis
@@ -138,8 +138,8 @@ dv_has_:
     el: Τζέιμι Λι Κέρτις
     eml: Jamie Lee Curtis
     en: Jamie Lee Curtis
-    en-ca: Jamie Lee Curtis
-    en-gb: Jamie Lee Curtis
+    en_ca: Jamie Lee Curtis
+    en_gb: Jamie Lee Curtis
     eo: Jamie Lee Curtis
     es: Jamie Lee Curtis
     eu: Jamie Lee Curtis
@@ -181,7 +181,7 @@ dv_has_:
     pl: Jamie Lee Curtis
     pms: Jamie Lee Curtis
     pt: Jamie Lee Curtis
-    pt-br: Jamie Lee Curtis
+    pt_br: Jamie Lee Curtis
     ro: Jamie Lee Curtis
     ru: Джейми Ли Кёртис
     sco: Jamie Lee Curtis
@@ -191,8 +191,8 @@ dv_has_:
     sl: Jamie Lee Curtis
     sq: Jamie Lee Curtis
     sr: Џејми Ли Кертис
-    sr-ec: Џејми Ли Кертис
-    sr-el: Džejmi Li Kertis
+    sr_ec: Џејми Ли Кертис
+    sr_el: Džejmi Li Kertis
     sv: Jamie Lee Curtis
     ta: ஜேமி லீ குர்திஸ்
     th: เจมี ลี เคอร์ติส
@@ -205,13 +205,13 @@ dv_has_:
     yo: Jamie Lee Curtis
     yue: 占美李寇蒂斯
     zh: 杰米·李·柯蒂斯
-    zh-cn: 杰米·李·柯蒂斯
-    zh-hans: 杰米·李·柯蒂斯
-    zh-hant: 潔美·李·寇蒂斯
-    zh-hk: 珍美·李·寇蒂斯
+    zh_cn: 杰米·李·柯蒂斯
+    zh_hans: 杰米·李·柯蒂斯
+    zh_hant: 潔美·李·寇蒂斯
+    zh_hk: 珍美·李·寇蒂斯
     zh-my: 洁美·李·寇蒂斯
-    zh-sg: 杰米·李·柯蒂斯
-    zh-tw: 潔美·李·寇蒂斯
+    zh_sg: 杰米·李·柯蒂斯
+    zh_tw: 潔美·李·寇蒂斯
 ---
 # [[Curtis,Jamie_Lee]] 
 

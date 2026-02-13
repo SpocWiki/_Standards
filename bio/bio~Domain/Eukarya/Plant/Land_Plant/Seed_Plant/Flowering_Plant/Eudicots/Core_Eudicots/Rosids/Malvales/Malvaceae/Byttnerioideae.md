@@ -23,7 +23,7 @@ dv_has_:
     ar: بتنراوات
     arz: بتنراوات
     ast: Byttnerioideae
-    be-tarask: Byttnerioideae
+    be_tarask: Byttnerioideae
     bg: Byttnerioideae
     ca: Byttnerioideae
     ceb: Byttnerioideae
@@ -53,7 +53,7 @@ dv_has_:
     oc: Byttnerioideae
     pl: Byttnerioideae
     pt: Byttnerioideae
-    pt-br: byttnerioideae
+    pt_br: byttnerioideae
     ro: Byttnerioideae
     ru: Byttnerioideae
     sl: Byttnerioideae
@@ -63,8 +63,8 @@ dv_has_:
     vo: Byttnerioideae
     war: Byttnerioideae
     zh: 刺果藤亚科
-    zh-cn: 刺果藤亚科
-    zh-hans: 刺果藤亚科
+    zh_cn: 刺果藤亚科
+    zh_hans: 刺果藤亚科
 ---
 # [[Byttnerioideae]] 
 

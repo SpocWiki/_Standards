@@ -68,7 +68,7 @@ dv_has_:
     nn: Arnold Vosloo
     pl: Arnold Vosloo
     pt: Arnold Vosloo
-    pt-br: Arnold Vosloo
+    pt_br: Arnold Vosloo
     ro: Arnold Vosloo
     ru: Арнольд Вослу
     sh: Arnold Vosloo
@@ -82,7 +82,7 @@ dv_has_:
     vi: Arnold Vosloo
     xmf: არნოლდ ვოსლუ
     zh: 阿诺德·沃斯洛
-    zh-hant: 阿諾德·沃斯洛
+    zh_hant: 阿諾德·沃斯洛
     zu: U-Arnold Vosloo
 ---
 #has_/time_/started :: 1962-06-16 

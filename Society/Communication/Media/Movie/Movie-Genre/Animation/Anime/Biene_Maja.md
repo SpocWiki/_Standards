@@ -3,7 +3,7 @@ has_id_wikidata: Q109832680
 dv_has_:
   name_:
     ar: مغامرات النحلة ماية
-    be-tarask: Прыгоды пчолкі Маі
+    be_tarask: Прыгоды пчолкі Маі
     ca: Die Biene Maja und ihre Abenteuer
     de: Die Biene Maja und ihre Abenteuer
     en: The Adventures of Maya the Bee

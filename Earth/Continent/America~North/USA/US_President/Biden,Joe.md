@@ -252,7 +252,7 @@ dv_has_:
     azb: جو بایدن
     ba: Байден, Джо
     be: Джозеф Рабінет Байдэн
-    be-tarask: Джо Байдэн
+    be_tarask: Джо Байдэн
     bg: Джо Байдън
     bho: जो बाइडन
     bn: জো বাইডেন
@@ -270,7 +270,7 @@ dv_has_:
     dv: ޖޯ ބައިޑަން
     el: Τζο Μπάιντεν
     en: Joe Biden
-    en-gb: Joe Biden
+    en_gb: Joe Biden
     eu: Joe Biden
     fa: جو بایدن
     fr: Joe Biden
@@ -303,7 +303,7 @@ dv_has_:
     ml: ജോ ബിഡൻ
     mn: Жо Байден
     mr: जोसेफ बायडेन
-    ms-arab: جو بايدن
+    ms_arab: جو بايدن
     mul: Joe Biden
     my: ဂျိုး ဘိုင်ဒင်
     myv: Байден, Джо
@@ -347,11 +347,11 @@ dv_has_:
     yi: דזשא ביידן
     yue: 祖拜登
     zh: 乔·拜登
-    zh-cn: 乔·拜登
-    zh-hans: 乔·拜登
-    zh-hant: 喬·拜登
-    zh-hk: 祖·拜登
-    zh-tw: 喬·拜登
+    zh_cn: 乔·拜登
+    zh_hans: 乔·拜登
+    zh_hant: 喬·拜登
+    zh_hk: 祖·拜登
+    zh_tw: 喬·拜登
     zu: UJoe Biden
   time_:
     started: 1942-11-20T00:00:00.000+01:00

@@ -319,7 +319,7 @@ dv_has_:
     bar: Lew Nikolajewitsch Tolstoi
     bcl: Leo Tolstoy
     be: Леў Мікалаевіч Талстой
-    be-tarask: Леў Талстой
+    be_tarask: Леў Талстой
     bew: Léo Tolstoi
     bg: Лев Толстой
     bho: लियो टालस्टाय
@@ -337,18 +337,18 @@ dv_has_:
     ceb: Leo Tolstoy
     ckb: لیۆ تۆڵستۆی
     crh: Lev Tolstoy
-    crh-latn: Lev Tolstoy
+    crh_latn: Lev Tolstoy
     cs: Lev Nikolajevič Tolstoj
     cv: Толстой Лев Николаевич
     cy: Lev Tolstoy
     da: Lev Tolstoj
     de: Lew Nikolajewitsch Tolstoi
-    de-ch: Lew Nikolajewitsch Tolstoi
+    de_ch: Lew Nikolajewitsch Tolstoi
     diq: Lev Tolstoj
     el: Λέων Τολστόι
     en: Leo Tolstoy
-    en-ca: Leo Tolstoy
-    en-gb: Leo Tolstoy
+    en_ca: Leo Tolstoy
+    en_gb: Leo Tolstoy
     eo: Lev Tolstoj
     es: León Tolstói
     et: Lev Tolstoi
@@ -447,7 +447,7 @@ dv_has_:
     pnb: ٹالسٹائی
     ps: لېو نيكولايوويچ تولستوى
     pt: Liev Tolstói
-    pt-br: Liev Tolstói
+    pt_br: Liev Tolstói
     qu: Lev Tolstoy
     ro: Lev Tolstoi
     ru: Лев Николаевич Толстой
@@ -479,14 +479,14 @@ dv_has_:
     tok: jan Totoje
     tr: Lev Tolstoy
     tt: Лев Толстой
-    tt-cyrl: Лев Толстой
+    tt_cyrl: Лев Толстой
     tum: Leo Tolstoy
     tyv: Толстой, Лев Николаевич
     udm: Толстой, Лев Николаевич
     uk: Толстой Лев Миколайович
     ur: ٹالسٹائی
     uz: Lev Tolstoy
-    uz-cyrl: Лев Толстой
+    uz_cyrl: Лев Толстой
     vec: Lev Tolstoj
     vep: Tolstoi Lev
     vi: Lev Nikolayevich Tolstoy
@@ -499,9 +499,9 @@ dv_has_:
     yue: 托爾斯泰
     za: Lezfuh Dozwjswhdai
     zh: 列夫·托爾斯泰
-    zh-hans: 列夫·托尔斯泰
-    zh-hant: 列夫·托爾斯泰
-    zh-tw: 列夫·托爾斯泰
+    zh_hans: 列夫·托尔斯泰
+    zh_hant: 列夫·托爾斯泰
+    zh_tw: 列夫·托爾斯泰
 ---
 # [[Tolstoy,Leo]] 
 

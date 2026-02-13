@@ -294,7 +294,7 @@ dv_has_:
     abr: Kɔtɔnimaa
     acm: ايار
     ady: Жъоныгъуакӏ
-    aeb-arab: ماي
+    aeb_arab: ماي
     af: Mei
     agq: Ndzɔŋ è Èsèe
     alt: Кӱӱк ай
@@ -323,11 +323,11 @@ dv_has_:
     bar: Mai
     bas: mpuye
     bax: mùt Mai
-    bbc-latn: Sipaha Dua
+    bbc_latn: Sipaha Dua
     bbj: sûnè
     bcl: Mayo
     be: май
-    be-tarask: травень
+    be_tarask: травень
     bew: Méi
     bg: Май
     bho: मई
@@ -344,7 +344,7 @@ dv_has_:
     bxr: 5 һар
     byv: nsônὰ
     ca: maig
-    cbk-zam: Mayo
+    cbk_zam: Mayo
     cdo: 5 nguŏk
     ce: Сели бутт
     ceb: Mayo
@@ -353,7 +353,7 @@ dv_has_:
     ckb: ئایار
     co: Maghju
     crh: Mayıs
-    crh-latn: Mayıs
+    crh_latn: Mayıs
     cs: květen
     csb: Môj
     cu: маи
@@ -362,7 +362,7 @@ dv_has_:
     da: maj
     dag: May
     de: Mai
-    de-ch: Mai
+    de_ch: Mai
     diq: Gulane
     dsb: Rozhelony
     dtp: Mikat
@@ -372,8 +372,8 @@ dv_has_:
     el: Μάιος
     eml: Mâg
     en: May
-    en-ca: May
-    en-gb: May
+    en_ca: May
+    en_gb: May
     en-us: May
     eo: majo
     es: mayo
@@ -453,7 +453,7 @@ dv_has_:
     ks: شرٛاوُن
     ksh: Meij
     ku: gulan
-    ku-latn: gulan
+    ku_latn: gulan
     kv: Ода-кора тӧлысь
     kw: Mis Me
     ky: май
@@ -475,7 +475,7 @@ dv_has_:
     lv: maijs
     lzh: 建午
     mai: मई
-    map-bms: Mei
+    map_bms: Mei
     mcp: ”ŋwíí akǝ táan"
     mdf: панжиков
     mg: Mey
@@ -490,7 +490,7 @@ dv_has_:
     mr: मे महिना
     mrj: Май
     ms: Mei
-    ms-arab: مي
+    ms_arab: مي
     mt: Mejju
     mua: madəəuutəbijaŋ
     mwl: Maio
@@ -502,7 +502,7 @@ dv_has_:
     nap: Majo
     nb: mai
     nds: Mai
-    nds-nl: mei
+    nds_nl: mei
     ne: मे
     new: मे
     nl: mei
@@ -530,7 +530,7 @@ dv_has_:
     pnt: Καλομηνάς
     ps: می
     pt: maio
-    pt-br: maio
+    pt_br: maio
     qu: Aymuray killa
     ro: mai
     roa-tara: Másce
@@ -560,7 +560,7 @@ dv_has_:
     so: May
     sq: Maji
     sr: Мај
-    sr-ec: Мај
+    sr_ec: Мај
     ss: ÍNkhwekhwéti
     su: Méi
     sv: maj
@@ -613,14 +613,14 @@ dv_has_:
     zea: Meie
     zgh: ⵎⴰⵢⵢⵓ
     zh: 5月
-    zh-cn: 5月
-    zh-hans: 5月
-    zh-hant: 5月
-    zh-hk: 5月
-    zh-mo: 5月
+    zh_cn: 5月
+    zh_hans: 5月
+    zh_hant: 5月
+    zh_hk: 5月
+    zh_mo: 5月
     zh-my: 5月
-    zh-sg: 5月
-    zh-tw: 5月
+    zh_sg: 5月
+    zh_tw: 5月
     zu: UNhlaba (uMeyi)
 ---
 # [[May]]

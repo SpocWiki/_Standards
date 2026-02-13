@@ -100,7 +100,7 @@ dv_has_:
     az: Nyuton
     azb: نیوتون (اؤلچو)
     be: ньютан
-    be-tarask: ньютан
+    be_tarask: ньютан
     bg: Нютон
     blk: နျူတန် (ယူနိစ်)
     bn: নিউটন
@@ -116,8 +116,8 @@ dv_has_:
     diq: Newton
     el: Νιούτον
     en: newton
-    en-ca: Newton
-    en-gb: newton
+    en_ca: Newton
+    en_gb: newton
     en-us: newton
     eo: neŭtono
     es: newton
@@ -181,7 +181,7 @@ dv_has_:
     pms: Newton
     pnb: نیوٹن
     pt: newton
-    pt-br: newton
+    pt_br: newton
     rm: N
     ro: Newton
     roa-tara: Newton, aunità de mesure
@@ -197,8 +197,8 @@ dv_has_:
     sl: newton
     smn: newton
     sr: њутн
-    sr-ec: њутн
-    sr-el: njutn
+    sr_ec: њутн
+    sr_el: njutn
     sv: newton
     sw: nyutoni
     szl: niutōn
@@ -208,7 +208,7 @@ dv_has_:
     tl: Newton (yunit)
     tr: Newton
     tt: ньютон
-    tt-cyrl: ньютон
+    tt_cyrl: ньютон
     uk: ньютон
     ur: نیوٹن
     uz: Nyuton
@@ -219,9 +219,9 @@ dv_has_:
     wuu: 牛顿
     yue: 牛頓
     zh: 牛頓
-    zh-cn: 牛頓
-    zh-hans: 牛頓
-    zh-hant: 牛頓
+    zh_cn: 牛頓
+    zh_hans: 牛頓
+    zh_hant: 牛頓
 ---
 # [[Unit~Newton]] 
 

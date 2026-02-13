@@ -155,7 +155,7 @@ dv_has_:
     az: kalkulyator
     azb: ماشین حساب
     be: калькулятар
-    be-tarask: калькулятар
+    be_tarask: калькулятар
     bew: mesin itung
     bg: калкулатор
     bn: ক্যালকুলেটর
@@ -224,7 +224,7 @@ dv_has_:
     mwl: calculadora
     my: ဂဏန်းတွက်စက်
     nb: kalkulator
-    nds-nl: telmesiene
+    nds_nl: telmesiene
     ne: क्यालकुलेटर
     new: ल्याखायेभः
     nl: rekenmachine
@@ -236,7 +236,7 @@ dv_has_:
     pnb: کیلکولیٹر
     ps: شمېرنی
     pt: calculadora
-    pt-br: calculadora
+    pt_br: calculadora
     qu: yupana
     rki: ဂဏန်းပေါင်းစက်
     ro: calculator de buzunar
@@ -248,14 +248,14 @@ dv_has_:
     so: xisaabiyaha elektarooniga ah
     sq: llogaritës
     sr: калкулатор
-    sr-ec: калкулатор
+    sr_ec: калкулатор
     sv: miniräknare
     sw: kikokotozi
     szl: kalkulatōr
     ta: கணிப்பான்
     te: గణన యంత్రం
     tg: калкулятор
-    tg-cyrl: калкулятор
+    tg_cyrl: калкулятор
     th: เครื่องคิดเลข
     tl: kalkulador
     tok: ilo nanpa wawa
@@ -272,14 +272,14 @@ dv_has_:
     yi: קאלקולאטאר
     yue: 計數機
     zh: 电子计算器
-    zh-cn: 电子计算器
-    zh-hans: 电子计算器
-    zh-hant: 電子計算機
-    zh-hk: 電子計數機
-    zh-mo: 電子計數機
+    zh_cn: 电子计算器
+    zh_hans: 电子计算器
+    zh_hant: 電子計算機
+    zh_hk: 電子計數機
+    zh_mo: 電子計數機
     zh-my: 电子计算器
-    zh-sg: 电子计算器
-    zh-tw: 電子計算機
+    zh_sg: 电子计算器
+    zh_tw: 電子計算機
     zu: IsiQaqululi
 ---
 # [[Calculator]] 

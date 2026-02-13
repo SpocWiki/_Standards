@@ -128,7 +128,7 @@ dv_has_:
     ba: саңғы спорты
     bar: Schifoan
     be: лыжны спорт
-    be-tarask: лыжны спорт
+    be_tarask: лыжны спорт
     bg: ски спорт
     bn: স্কিইং
     bo: གངས་ཤུད་
@@ -140,12 +140,12 @@ dv_has_:
     cy: sgïo
     da: skisport
     de: Skifahren
-    de-ch: Skifahren
+    de_ch: Skifahren
     diq: Ğızag
     el: Σκι
     en: skiing
-    en-ca: Skiing
-    en-gb: skiing
+    en_ca: Skiing
+    en_gb: skiing
     eo: skiado
     es: esquí
     et: suusasport
@@ -189,7 +189,7 @@ dv_has_:
     olo: Sukset
     pl: narciarstwo
     pt: esqui
-    pt-br: esqui
+    pt_br: esqui
     qu: Rit'i chaki lluchk'aykachay
     rm: Ir cun skis
     ro: schi
@@ -206,8 +206,8 @@ dv_has_:
     sms: čuõiggmõš
     sq: Skijimi
     sr: скијање
-    sr-ec: скијање
-    sr-el: skijanje
+    sr_ec: скијање
+    sr_el: skijanje
     sv: skidsport
     ta: பனிச்சறுக்கு
     te: స్కీయింగ్
@@ -216,7 +216,7 @@ dv_has_:
     tly: Lyngə fyrsənə vərzyš
     tr: kayak
     tt: чаңгы спорты
-    tt-cyrl: чаңгы спорты
+    tt_cyrl: чаңгы спорты
     uk: лижний спорт
     uz: Changʻi sporti
     vec: sci
@@ -224,12 +224,12 @@ dv_has_:
     wuu: 滑雪
     yue: 滑雪
     zh: 滑雪
-    zh-cn: 滑雪
-    zh-hans: 滑雪
-    zh-hant: 滑雪
-    zh-hk: 滑雪
-    zh-sg: 滑雪
-    zh-tw: 滑雪
+    zh_cn: 滑雪
+    zh_hans: 滑雪
+    zh_hant: 滑雪
+    zh_hk: 滑雪
+    zh_sg: 滑雪
+    zh_tw: 滑雪
 ---
 # [[Skiing]] 
 

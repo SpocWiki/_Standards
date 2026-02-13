@@ -121,7 +121,7 @@ dv_has_:
     ba: Минералогия
     bcl: Mineralohiya
     be: мінералогія
-    be-tarask: мінэралёгія
+    be_tarask: мінэралёгія
     bg: Минералогия
     blk: သတ္တုဗေဒ
     bn: খনিজবিজ্ঞান
@@ -134,8 +134,8 @@ dv_has_:
     de: Mineralogie
     el: ορυκτολογία
     en: mineralogy
-    en-ca: Mineralogy
-    en-gb: mineralogy
+    en_ca: Mineralogy
+    en_gb: mineralogy
     eo: mineralogio
     es: mineralogía
     et: mineraloogia
@@ -186,7 +186,7 @@ dv_has_:
     pl: mineralogia
     ps: کانپوهنه
     pt: mineralogia
-    pt-br: Mineralogia
+    pt_br: Mineralogia
     ro: mineralogie
     ru: минералогия
     rue: минералогия
@@ -199,8 +199,8 @@ dv_has_:
     sms: mineralogia
     sq: Mineralogjia
     sr: минералогија
-    sr-ec: минералогија
-    sr-el: mineralogija
+    sr_ec: минералогија
+    sr_el: mineralogija
     sv: mineralogi
     sw: Elimu madini
     tg: конишиносӣ
@@ -216,9 +216,9 @@ dv_has_:
     wuu: 矿物学
     yue: 礦物學
     zh: 矿物学
-    zh-cn: 矿物学
-    zh-hk: 礦物學
-    zh-tw: 礦物學
+    zh_cn: 矿物学
+    zh_hk: 礦物學
+    zh_tw: 礦物學
 ---
 # [[Mineralogy]] 
 

@@ -288,7 +288,7 @@ dv_has_:
     ba: Имән
     bar: Oach
     be: Дуб
-    be-tarask: дуб
+    be_tarask: дуб
     bg: дъб
     bi: Oktri
     bn: ওক
@@ -311,7 +311,7 @@ dv_has_:
     de: Eichen
     el: Βελανιδιά
     eml: Quérza
-    en-ca: Oak
+    en_ca: Oak
     eo: Kverko
     es: Roble
     et: tamm
@@ -376,7 +376,7 @@ dv_has_:
     nap: cierro
     nb: eikeslekta
     nds: Ekenboom
-    nds-nl: eek
+    nds_nl: eek
     nl: eik
     nn: eikeslekta
     nrm: Tchêne
@@ -388,7 +388,7 @@ dv_has_:
     pnb: بلوط
     ps: څېړۍ
     pt: carvalho
-    pt-br: carvalho
+    pt_br: carvalho
     qu: Ruwli
     ro: Quercus
     ru: дуб
@@ -427,9 +427,9 @@ dv_has_:
     yi: דעמב
     yue: 櫟屬
     zh: 栎属
-    zh-cn: 栎属
-    zh-hans: 栎属
-    zh-tw: 櫟屬
+    zh_cn: 栎属
+    zh_hans: 栎属
+    zh_tw: 櫟屬
 ---
 # [[Oak]] 
 

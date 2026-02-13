@@ -65,7 +65,7 @@ dv_has_:
     ab: Ҟазахсҭан
     ace: Kazakhstan
     ady: Казахстан
-    aeb-arab: كازاخستان
+    aeb_arab: كازاخستان
     af: Kasakstan
     alt: Казахстан
     am: ካዛክስታን
@@ -90,7 +90,7 @@ dv_has_:
     bbc: Kasakhstan
     bcl: Kasahistan
     be: Казахстан
-    be-tarask: Казахстан
+    be_tarask: Казахстан
     bew: Kasakstan
     bg: Казахстан
     bgn: کزاکیستان
@@ -106,7 +106,7 @@ dv_has_:
     bug: ᨀᨍᨔᨛᨈ
     bxr: Казахстан
     ca: Kazakhstan
-    cbk-zam: Kazajistán
+    cbk_zam: Kazajistán
     cdo: Kazakhstan
     ce: Кхазакхстан
     ceb: Kazakhstan
@@ -114,7 +114,7 @@ dv_has_:
     ckb: کازاخستان
     co: Kazakistan
     crh: Qazahistan
-    crh-latn: Qazahistan
+    crh_latn: Qazahistan
     crh-ro: Kazahîstan
     cs: Kazachstán
     csb: Kazachstan
@@ -125,7 +125,7 @@ dv_has_:
     dag: Kazachstan
     de: Kasachstan
     de-at: Kasachstan
-    de-ch: Kasachstan
+    de_ch: Kasachstan
     diq: Qazaxıstan
     dsb: Kazachstan
     dtp: Kazakhstan
@@ -134,8 +134,8 @@ dv_has_:
     ee: Kazakhstan
     el: Καζακστάν
     en: Kazakhstan
-    en-ca: Kazakhstan
-    en-gb: Kazakhstan
+    en_ca: Kazakhstan
+    en_gb: Kazakhstan
     en-us: Kazakhstan
     eo: Kazaĥio
     es: Kazajistán
@@ -198,11 +198,11 @@ dv_has_:
     kg: Kazakhstan
     kge: Kazakhstan
     kk: Қазақстан
-    kk-arab: قازاقستان
+    kk_arab: قازاقستان
     kk-cn: قازاقستان
-    kk-cyrl: Қазақстан
+    kk_cyrl: Қазақстан
     kk-kz: Қазақстан
-    kk-latn: Qazaqstan
+    kk_latn: Qazaqstan
     kk-tr: Qazaqstan
     kl: Kasakhstani
     km: កាសាក់ស្ថាន
@@ -237,7 +237,7 @@ dv_has_:
     lzh: 哈薩克
     mad: Kazakhstan
     mai: कजाख्स्तान
-    map-bms: Kazakhstan
+    map_bms: Kazakhstan
     mdf: Казахстан
     mg: Kazakstàna
     mhr: Казахстан
@@ -250,7 +250,7 @@ dv_has_:
     mo: Казахстан
     mr: कझाकस्तान
     ms: Kazakhstan
-    ms-arab: قازاقستان
+    ms_arab: قازاقستان
     mt: Każakistan
     mwl: Cazaquiston
     my: ကာဇက်စတန်နိုင်ငံ
@@ -261,7 +261,7 @@ dv_has_:
     nan: Kazakhstan
     nb: Kasakhstan
     nds: Kasachstan
-    nds-nl: Kazakstan
+    nds_nl: Kazakstan
     ne: कजाख्स्तान
     new: कजाख्स्तान
     nl: Kazachstan
@@ -289,7 +289,7 @@ dv_has_:
     pnt: Καζακστάν
     ps: قزاقستان
     pt: Cazaquistão
-    pt-br: Cazaquistão
+    pt_br: Cazaquistão
     qu: Qasaqsuyu
     rm: Kasachstan
     rmy: Kazakhstan
@@ -322,8 +322,8 @@ dv_has_:
     so: Kasakhstan
     sq: Kazakistani
     sr: Казахстан
-    sr-ec: Казахстан
-    sr-el: Kazahstan
+    sr_ec: Казахстан
+    sr_el: Kazahstan
     srn: Kazachstan
     ss: IKhazakhi
     st: Kazakhstan
@@ -339,7 +339,7 @@ dv_has_:
     te: కజకస్తాన్
     tet: Kazakistaun
     tg: Қазоқистон
-    tg-latn: Qazoqiston
+    tg_latn: Qazoqiston
     th: ประเทศคาซัคสถาน
     tk: Gazagystan
     tl: Kazakhstan
@@ -351,8 +351,8 @@ dv_has_:
     trv: Kazakhstan
     ts: Kazakhstan
     tt: Казакъстан
-    tt-cyrl: Казакъстан
-    tt-latn: Qazaqstan
+    tt_cyrl: Казакъстан
+    tt_latn: Qazaqstan
     tum: Kazakhstan
     tw: Kazakhstan
     tyv: Казахстан
@@ -381,14 +381,14 @@ dv_has_:
     zea: Kazachstan
     zgh: ⴽⴰⵣⴰⵅⵙⵜⴰⵏ
     zh: 哈萨克斯坦
-    zh-cn: 哈萨克斯坦
-    zh-hans: 哈萨克斯坦
-    zh-hant: 哈薩克
-    zh-hk: 哈薩克
-    zh-mo: 哈薩克斯坦
+    zh_cn: 哈萨克斯坦
+    zh_hans: 哈萨克斯坦
+    zh_hant: 哈薩克
+    zh_hk: 哈薩克
+    zh_mo: 哈薩克斯坦
     zh-my: 哈萨克斯坦
-    zh-sg: 哈萨克斯坦
-    zh-tw: 哈薩克
+    zh_sg: 哈萨克斯坦
+    zh_tw: 哈薩克
     zu: i-Kazakhstan
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Kazakhstan

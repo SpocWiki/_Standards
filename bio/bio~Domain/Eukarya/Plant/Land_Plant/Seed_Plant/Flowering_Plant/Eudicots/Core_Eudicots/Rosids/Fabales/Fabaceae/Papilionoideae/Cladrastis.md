@@ -54,14 +54,14 @@ dv_has_:
     mul: Cladrastis
     nb: Cladrastis
     nds: Cladrastis
-    nds-nl: Cladrastis
+    nds_nl: Cladrastis
     nl: Cladrastis
     nn: Cladrastis
     oc: Cladrastis
     pl: Strączyn
     pms: Cladrastis
     pt: Cladrastis
-    pt-br: Cladrastis
+    pt_br: Cladrastis
     ro: Cladrastis
     ru: Cladrastis
     sk: Cladrastis
@@ -76,11 +76,11 @@ dv_has_:
     wa: Cladrastis
     war: Cladrastis
     zh: 香槐属
-    zh-cn: 香槐属
-    zh-hans: 香槐属
-    zh-hant: 香槐屬
-    zh-hk: 香槐屬
-    zh-tw: 香槐屬
+    zh_cn: 香槐属
+    zh_hans: 香槐属
+    zh_hant: 香槐屬
+    zh_hk: 香槐屬
+    zh_tw: 香槐屬
 ---
 ## Phylogeny 
 

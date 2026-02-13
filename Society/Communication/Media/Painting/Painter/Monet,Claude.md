@@ -433,7 +433,7 @@ dv_has_:
     az: Klod Mone
     ba: Моне Клод
     be: Клод Манэ
-    be-tarask: Клёд Манэ
+    be_tarask: Клёд Манэ
     bg: Клод Моне
     bho: क्लाउड मोनेट
     bn: ক্লোদ মোনে
@@ -442,7 +442,7 @@ dv_has_:
     br: Claude Monet
     bs: Claude Monet
     ca: Claude Monet
-    cbk-zam: Claude Monet
+    cbk_zam: Claude Monet
     ceb: Claude Monet
     ckb: کلۆد مۆنیە
     cs: Claude Monet
@@ -450,12 +450,12 @@ dv_has_:
     cy: Claude Monet
     da: Claude Monet
     de: Claude Monet
-    de-ch: Claude Monet
+    de_ch: Claude Monet
     diq: Claude Monet
     el: Κλοντ Μονέ
     en: Claude Monet
-    en-ca: Claude Monet
-    en-gb: Claude Monet
+    en_ca: Claude Monet
+    en_gb: Claude Monet
     eo: Claude Monet
     es: Claude Monet
     et: Claude Monet
@@ -514,7 +514,7 @@ dv_has_:
     nan: Claude Monet
     nb: Claude Monet
     nds: Claude Monet
-    nds-nl: Claude Monet
+    nds_nl: Claude Monet
     ne: क्लाउड मोनेट
     new: क्लाउड मोनेट
     nl: Claude Monet
@@ -530,7 +530,7 @@ dv_has_:
     pms: Claude Monet
     pnb: کلاڈ مونے
     pt: Claude Monet
-    pt-br: Claude Monet
+    pt_br: Claude Monet
     qu: Claude Monet
     rm: Claude Monet
     ro: Claude Monet
@@ -544,7 +544,7 @@ dv_has_:
     so: Claude Monet
     sq: Claude Monet
     sr: Клод Моне
-    sr-ec: Клод Моне
+    sr_ec: Клод Моне
     stq: Claude Monet
     sv: Claude Monet
     ta: கிளாடு மோனெ
@@ -566,11 +566,11 @@ dv_has_:
     yo: Claude Monet
     yue: 莫奈
     zh: 克劳德·莫奈
-    zh-cn: 克劳德·莫奈
-    zh-hans: 克劳德·莫奈
-    zh-hant: 克劳德·莫奈
-    zh-hk: 哥迪·莫奈
-    zh-tw: 克洛德·莫內
+    zh_cn: 克劳德·莫奈
+    zh_hans: 克劳德·莫奈
+    zh_hant: 克劳德·莫奈
+    zh_hk: 哥迪·莫奈
+    zh_tw: 克洛德·莫內
 ---
 # [[Monet,Claude]] 
 

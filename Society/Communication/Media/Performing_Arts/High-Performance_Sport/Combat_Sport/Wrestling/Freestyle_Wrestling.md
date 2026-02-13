@@ -82,7 +82,7 @@ dv_has_:
     azb: آزاد گولش
     ba: ирекле көрәш
     be: вольная барацьба
-    be-tarask: вольная барацьба
+    be_tarask: вольная барацьба
     bg: свободна борба
     bn: ফ্রিস্টাইল কুস্তি
     bxr: сүлөөтэ барилдаан
@@ -109,7 +109,7 @@ dv_has_:
     ja: フリースタイルレスリング
     ka: თავისუფალი ჭიდაობა
     kk: еркін күрес
-    kk-cyrl: еркін күрес
+    kk_cyrl: еркін күрес
     ko: 프리스타일 레슬링
     ky: күрөш
     lt: laisvosios imtynės
@@ -135,12 +135,12 @@ dv_has_:
     uz: Erkin kurash
     yue: 自由式摔角
     zh: 自由式摔跤
-    zh-cn: 自由式摔跤
-    zh-hans: 自由式摔跤
-    zh-hant: 自由式摔角
-    zh-hk: 自由式摔角
-    zh-sg: 自由式摔角
-    zh-tw: 自由式摔角
+    zh_cn: 自由式摔跤
+    zh_hans: 自由式摔跤
+    zh_hant: 自由式摔角
+    zh_hk: 自由式摔角
+    zh_sg: 自由式摔角
+    zh_tw: 自由式摔角
 ---
 # [[Freestyle_Wrestling]] 
 

@@ -156,7 +156,7 @@ dv_has_:
     ba: тыуған көн
     bcl: kaaldawan
     be: дзень нараджэння
-    be-tarask: дзень нараджэньня
+    be_tarask: дзень нараджэньня
     bg: рожден ден
     bn: জন্মদিন
     bo: འཁྲུངས་སྐར།
@@ -174,7 +174,7 @@ dv_has_:
     el: γενέθλια
     eml: Cumpleàn
     en: birthday
-    en-ca: birthday
+    en_ca: birthday
     eo: naskiĝtago
     es: cumpleaños
     et: sünnipäev
@@ -202,13 +202,13 @@ dv_has_:
     jv: ambal warsa
     ka: დაბადების დღე
     ki: Ndĩwarĩ
-    kk-cyrl: туган кун
+    kk_cyrl: туган кун
     kn: ಜನ್ಮದಿನ
     ko: 생일
     ko-kp: 난날
     krj: kaadlawan
     ks: زا دۄہ
-    ku-latn: rojbûn
+    ku_latn: rojbûn
     la: Natalis
     lmo: anniversari
     lt: gimtadienis
@@ -220,10 +220,10 @@ dv_has_:
     mn: төрсөн өдөр
     mr: वाढदिवस
     ms: hari lahir
-    ms-arab: هاري لاهير
+    ms_arab: هاري لاهير
     nan: Seⁿ-ji̍t
     nb: fødselsdag
-    nds-nl: verjaordag
+    nds_nl: verjaordag
     nl: verjaardag
     nn: fødselsdag
     oc: anniversari
@@ -258,7 +258,7 @@ dv_has_:
     tok: jan li sike e suno
     tr: doğum günü
     tt: туган көн
-    tt-cyrl: туган көн
+    tt_cyrl: туган көн
     uk: день народження
     ur: سالگرہ
     vi: sinh nhật
@@ -268,14 +268,14 @@ dv_has_:
     yue: 生日
     za: ngoenzseng
     zh: 生日
-    zh-cn: 生日
-    zh-hans: 生日
-    zh-hant: 生日
-    zh-hk: 生日
-    zh-mo: 生日
+    zh_cn: 生日
+    zh_hans: 生日
+    zh_hant: 生日
+    zh_hk: 生日
+    zh_mo: 生日
     zh-my: 生日
-    zh-sg: 生日
-    zh-tw: 生日
+    zh_sg: 生日
+    zh_tw: 生日
 ---
 # [[Birthday]] 
 

@@ -105,7 +105,7 @@ dv_has_:
     ast: aceite de cocina
     ba: аҙыҡ майы
     bcl: Lana
-    be-tarask: харчовы алей
+    be_tarask: харчовы алей
     bg: масло за готвене
     bn: রান্নার তেল
     ca: oli de cuina
@@ -170,15 +170,15 @@ dv_has_:
     sms: veärroljj
     sq: vaj kuzhine
     sr: јестиво уље
-    sr-ec: јестиво уље
-    sr-el: jestivo ulje
+    sr_ec: јестиво уље
+    sr_el: jestivo ulje
     sv: matolja
     ta: சமையல் எண்ணெய்
     te: వంట నూనె
     th: น้ำมันประกอบอาหาร
     tr: sıvı yağ
     tt: азык мае
-    tt-cyrl: азык мае
+    tt_cyrl: азык мае
     uk: кулінарні жири
     uz: Oʻsimlik moylari
     vec: ojo da cuzina
@@ -186,7 +186,7 @@ dv_has_:
     wa: ôle po magnî
     yue: 食油
     zh: 食用油
-    zh-hans: 食用油
+    zh_hans: 食用油
 ---
 # [[Cooking_Oil]] 
 

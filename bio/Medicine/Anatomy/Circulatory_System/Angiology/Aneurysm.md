@@ -6,7 +6,7 @@ dv_has_:
     ast: Aneurisma
     az: Anevrizma
     be: анеўрызма
-    be-tarask: анэўрызма
+    be_tarask: анэўрызма
     bg: Аневризма
     bn: অ্যানিউরিজম
     br: Anevrism
@@ -15,11 +15,11 @@ dv_has_:
     cs: aneurysma
     da: aneurisme
     de: Aneurysma
-    de-ch: Aneurysma
+    de_ch: Aneurysma
     el: ανεύρυσμα
     en: aneurysm
-    en-ca: Aneurysm
-    en-gb: aneurysm
+    en_ca: Aneurysm
+    en_gb: aneurysm
     en-us: aneurysm
     eo: aneŭrismo
     es: aneurisma
@@ -42,11 +42,11 @@ dv_has_:
     jam: Aniurizam
     ka: ანევრიზმა
     kk: Аневризма
-    kk-arab: انەۆرىيزما
+    kk_arab: انەۆرىيزما
     kk-cn: انەۆرىيزما
-    kk-cyrl: Аневризма
+    kk_cyrl: Аневризма
     kk-kz: Аневризма
-    kk-latn: Anevrïzma
+    kk_latn: Anevrïzma
     kk-tr: Anevrïzma
     kn: ರಕ್ತನಾಳದ ಉಬ್ಬು ಗುಳ್ಳೆ (ಅಗಲುಬ್ಬು)
     ko: 동맥류
@@ -66,14 +66,14 @@ dv_has_:
     pam: Aneurysm
     pl: tętniak
     pt: aneurisma
-    pt-br: Aneurisma
+    pt_br: Aneurisma
     ro: Anevrism
     ru: аневризма
     sh: Aneurizma
     sl: anevrizma
     sr: анеуризма
-    sr-ec: Анеуризма
-    sr-el: Aneurizma
+    sr_ec: Анеуризма
+    sr_el: Aneurizma
     sv: artärbråck
     tg: Аневризма
     th: หลอดเลือดโป่งพอง
@@ -86,8 +86,8 @@ dv_has_:
     wuu: 动脉瘤
     yue: 動脈瘤
     zh: 动脉瘤
-    zh-cn: 动脉瘤
-    zh-hant: 動脈瘤
+    zh_cn: 动脉瘤
+    zh_hant: 動脈瘤
 aliases:
 - ainéaras
 - aneurisma

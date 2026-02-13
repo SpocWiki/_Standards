@@ -48,7 +48,7 @@ dv_has_:
     ast: Gazella dorcas
     avk: Rayol (Gazella dorcas)
     be: Газель-доркас
-    be-tarask: Газэль-доркас
+    be_tarask: Газэль-доркас
     bg: газела доркас
     br: Gazelenn Dorkas
     ca: gasela comuna
@@ -91,20 +91,20 @@ dv_has_:
     shi: Aznkʷḍ n duṛkas
     sq: Gazella dorcas
     sr: Доркас газела
-    sr-ec: Доркас газела
-    sr-el: Dorkas gazela
+    sr_ec: Доркас газела
+    sr_el: Dorkas gazela
     sv: Dorkagasell
     udm: Газель-доркас
     uk: Газель доркас
     vi: Linh dương Ai Cập
     war: Gazella dorcas
     zh: 小鹿瞪羚
-    zh-cn: 小鹿瞪羚
-    zh-hans: 小鹿瞪羚
-    zh-hant: 小鹿瞪羚
-    zh-hk: 小鹿瞪羚
-    zh-sg: 小鹿瞪羚
-    zh-tw: 小鹿瞪羚
+    zh_cn: 小鹿瞪羚
+    zh_hans: 小鹿瞪羚
+    zh_hant: 小鹿瞪羚
+    zh_hk: 小鹿瞪羚
+    zh_sg: 小鹿瞪羚
+    zh_tw: 小鹿瞪羚
 ---
 # Gazella dorcas 
 

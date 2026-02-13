@@ -192,7 +192,7 @@ dv_has_:
     ast: Tycho Brahe
     az: Tixo Brahe
     be: Ціха Браге
-    be-tarask: Тыха Брагэ
+    be_tarask: Тыха Брагэ
     bg: Тихо Брахе
     bho: टायको ब्राहे
     bn: ট্যুকো ব্রাহে
@@ -207,8 +207,8 @@ dv_has_:
     diq: Tycho Brahe
     el: Τύχο Μπράχε
     en: Tycho Brahe
-    en-ca: Tycho Brahe
-    en-gb: Tycho Brahe
+    en_ca: Tycho Brahe
+    en_gb: Tycho Brahe
     en-us: Tycho Brahe
     eo: Tycho Brahe
     es: Tycho Brahe
@@ -267,7 +267,7 @@ dv_has_:
     pnb: ٹائیکو براہے
     ps: ټیکو براهي
     pt: Tycho Brahe
-    pt-br: Tycho Brahe
+    pt_br: Tycho Brahe
     ro: Tycho Brahe
     ru: Тихо Браге
     sa: टैको ब्राहे
@@ -281,7 +281,7 @@ dv_has_:
     sl: Tycho Brahe
     sq: Tycho Brahe
     sr: Тихо Брахе
-    sr-ec: Тихо Брахе
+    sr_ec: Тихо Брахе
     sv: Tycho Brahe
     sw: Tycho Brahe
     ta: டைக்கோ பிரா
@@ -300,10 +300,10 @@ dv_has_:
     yi: טיכא בראהע
     yue: 第谷
     zh: 第谷·布拉厄
-    zh-cn: 第谷·布拉厄
-    zh-hans: 第谷·布拉厄
-    zh-hant: 第谷·布拉厄
-    zh-tw: 第谷·布拉赫
+    zh_cn: 第谷·布拉厄
+    zh_hans: 第谷·布拉厄
+    zh_hant: 第谷·布拉厄
+    zh_tw: 第谷·布拉赫
 ---
 # [[Brahe,Tycho]] 
 

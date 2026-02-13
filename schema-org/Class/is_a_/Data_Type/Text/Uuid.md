@@ -43,7 +43,7 @@ dv_has_:
   name_:
     ar: معرف فريد عام
     az: Global unikal identifikator
-    be-tarask: унівэрсальна ўнікальны ідэнтыфікатар
+    be_tarask: унівэрсальна ўнікальны ідэнтыфікатар
     ca: identificador únic universal
     cs: Univerzálně unikátní identifikátor
     de: Universally Unique Identifier
@@ -69,17 +69,17 @@ dv_has_:
     sk: Univerzálny základný identifikátor
     sl: univerzalni enotni identifikator
     sr: Universally Unique Identifier
-    sr-ec: Universally Unique Identifier
+    sr_ec: Universally Unique Identifier
     sv: universellt unik identifierare
     tr: Evrensel Olarak Benzersiz Tanımlayıcı
     uk: UUID
     zh: 通用唯一识别码
-    zh-cn: UUID
-    zh-hans: UUID
-    zh-hant: UUID
-    zh-hk: UUID
-    zh-sg: UUID
-    zh-tw: UUID
+    zh_cn: UUID
+    zh_hans: UUID
+    zh_hant: UUID
+    zh_hk: UUID
+    zh_sg: UUID
+    zh_tw: UUID
   url_for_:
     description: https://uuid.ramsey.dev
 dv_is_worse_than:

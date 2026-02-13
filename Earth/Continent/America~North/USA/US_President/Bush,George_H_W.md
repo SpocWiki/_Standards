@@ -100,7 +100,7 @@ dv_has_:
     bar: George H. W. Bush
     bcl: George H. W. Bush
     be: Джордж Герберт Уокер Буш
-    be-tarask: Джордж Гэрбэрт Ўокер Буш
+    be_tarask: Джордж Гэрбэрт Ўокер Буш
     bg: Джордж Х. У. Буш
     bi: George H. W. Bush
     bn: জর্জ হারবার্ট ওয়াকার বুশ
@@ -122,8 +122,8 @@ dv_has_:
     dv: ޖޯޖް ހާރބަޓް ވޯކަރ ބުޝް
     el: Τζορτζ Μπους
     en: George H. W. Bush
-    en-ca: George H. W. Bush
-    en-gb: George H. W. Bush
+    en_ca: George H. W. Bush
+    en_gb: George H. W. Bush
     eo: George H. W. Bush
     es: George H. W. Bush
     et: George H. W. Bush
@@ -212,7 +212,7 @@ dv_has_:
     pnb: جارج ایچ ڈبلیو بش
     ps: جورج هربرت واکر بوش
     pt: George H. W. Bush
-    pt-br: George H. W. Bush
+    pt_br: George H. W. Bush
     qu: George H. W. Bush
     rm: George H. W. Bush
     rmf: George H. W. Bush
@@ -260,7 +260,7 @@ dv_has_:
     yue: 老布殊
     zea: George H.W. Bush
     zh: 乔治·赫伯特·沃克·布什
-    zh-hk: 喬治·赫伯特·布殊
+    zh_hk: 喬治·赫伯特·布殊
     zu: George H. W. Bush
   time_:
     started: 1924-06-12T00:00:00.000+01:00

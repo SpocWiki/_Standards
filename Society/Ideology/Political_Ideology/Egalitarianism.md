@@ -80,7 +80,7 @@ dv_has_:
     ast: igualitarismu
     az: Eqalitarizm
     be: эгалітарызм
-    be-tarask: эгалітарызм
+    be_tarask: эгалітарызм
     bg: егалитаризъм
     bn: সমানাধিকারবাদ
     bs: Egalitarizam
@@ -115,11 +115,11 @@ dv_has_:
     jv: Egalitarianisme
     ka: ეგალიტარიზმი
     kk: Эгалитаризм
-    kk-arab: ەگالىيتارىيزم
+    kk_arab: ەگالىيتارىيزم
     kk-cn: ەگالىيتارىيزم
-    kk-cyrl: Эгалитаризм
+    kk_cyrl: Эгалитаризм
     kk-kz: Эгалитаризм
-    kk-latn: Égalïtarïzm
+    kk_latn: Égalïtarïzm
     kk-tr: Égalïtarïzm
     ko: 평등주의
     ky: Эгалитаризм
@@ -157,12 +157,12 @@ dv_has_:
     yi: עגאליטאריאניזם
     yue: 平等主義
     zh: 平等主義
-    zh-cn: 平等原则
-    zh-hans: 平等原则
-    zh-hant: 平等原則
-    zh-hk: 平等原則
-    zh-sg: 平等原则
-    zh-tw: 平等原則
+    zh_cn: 平等原则
+    zh_hans: 平等原则
+    zh_hant: 平等原則
+    zh_hk: 平等原則
+    zh_sg: 平等原则
+    zh_tw: 平等原則
 ---
 # [[Egalitarianism]] 
 

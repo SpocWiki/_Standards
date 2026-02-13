@@ -87,7 +87,7 @@ dv_has_:
     az: differensial həndəsə
     ba: дифференциаль геометрия һәм топология
     be: дыферэнцыяльная геаметрыя
-    be-tarask: дыфэрэнцыяльная геамэтрыя
+    be_tarask: дыфэрэнцыяльная геамэтрыя
     bg: Диференциална геометрия
     bn: ব্যবকলনীয় জ্যামিতি
     ca: geometria diferencial
@@ -130,7 +130,7 @@ dv_has_:
     nn: differensialgeometri
     pl: geometria różniczkowa
     pt: geometria diferencial
-    pt-br: geometria diferencial
+    pt_br: geometria diferencial
     ro: geometrie diferențială
     ru: дифференциальная геометрия и топология
     se: differentiálageometriija
@@ -154,12 +154,12 @@ dv_has_:
     yi: דיפערענציאל-געאמעטריע
     yue: 微分幾何
     zh: 微分几何
-    zh-cn: 微分几何
-    zh-hans: 微分几何
-    zh-hant: 微分幾何
-    zh-hk: 微分幾何
-    zh-sg: 微分几何
-    zh-tw: 微分幾何
+    zh_cn: 微分几何
+    zh_hans: 微分几何
+    zh_hant: 微分幾何
+    zh_hk: 微分幾何
+    zh_sg: 微分几何
+    zh_tw: 微分幾何
 ---
 # [[Differential_Geometry]] 
 

@@ -171,7 +171,7 @@ dv_has_:
     azb: مئننژیت
     ban: Meningitis
     be: менінгіт
-    be-tarask: мэнінгіт
+    be_tarask: мэнінгіт
     bg: менингит
     bn: মেনিনজাইটিস
     bs: meningitis
@@ -251,7 +251,7 @@ dv_has_:
     so: qoorgooye
     sq: meningjiti
     sr: менингитис
-    sr-ec: менингитис
+    sr_ec: менингитис
     ss: imenenjayethisi
     su: méningitis
     sv: hjärnhinneinflammation
@@ -262,7 +262,7 @@ dv_has_:
     tl: meninghitis
     tr: menenjit
     tt: минингит
-    tt-cyrl: минингит
+    tt_cyrl: минингит
     uk: менінгіт
     ur: گردن توڑ بخار
     uz: meningit
@@ -274,7 +274,7 @@ dv_has_:
     xmf: მენინგიტი
     yue: 腦膜炎
     zh: 脑膜炎
-    zh-hant: 腦膜炎
+    zh_hant: 腦膜炎
 ---
 # [[Meningitis]] 
 

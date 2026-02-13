@@ -96,7 +96,7 @@ dv_has_:
     as: গণিতৰ ইতিহাস
     ast: Historia de les matemátiques
     be: гісторыя матэматыкі
-    be-tarask: гісторыя матэматыкі
+    be_tarask: гісторыя матэматыкі
     bg: История на математиката
     bn: গণিতের ইতিহাস
     ca: història de les matemàtiques
@@ -144,7 +144,7 @@ dv_has_:
     pl: Historia matematyki
     ps: د ریاضیاتو تاریخچه
     pt: história da matemática
-    pt-br: história da matemática
+    pt_br: história da matemática
     ro: istoria matematicii
     ru: история математики
     sd: رياضي جي تاريخ
@@ -155,8 +155,8 @@ dv_has_:
     sms: matematiikk historia
     sq: Historia e matematikës shqiptare
     sr: Историја математике
-    sr-ec: Историја математике
-    sr-el: Istorija matematike
+    sr_ec: Историја математике
+    sr_el: Istorija matematike
     su: Sajarah matematik
     sv: matematikens historia
     ta: கணித வரலாற்றின் காலக்கோடு
@@ -171,12 +171,12 @@ dv_has_:
     wuu: 数学史
     yue: 數學史
     zh: 数学史
-    zh-cn: 数学史
-    zh-hans: 数学史
-    zh-hant: 數學史
-    zh-hk: 數學史
-    zh-sg: 数学史
-    zh-tw: 數學史
+    zh_cn: 数学史
+    zh_hans: 数学史
+    zh_hant: 數學史
+    zh_hk: 數學史
+    zh_sg: 数学史
+    zh_tw: 數學史
 ---
 # [[History_of_Mathematics]] 
 

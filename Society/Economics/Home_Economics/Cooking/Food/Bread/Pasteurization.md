@@ -106,7 +106,7 @@ dv_has_:
     ba: пастеризация
     ban: Pasteurisasi
     be: Пастэрызацыя
-    be-tarask: Пастэрызацыя
+    be_tarask: Пастэрызацыя
     bg: Пастьоризация
     bn: পাস্তুরায়ন
     br: Pasteurekaat
@@ -116,11 +116,11 @@ dv_has_:
     cy: Pasteureiddio
     da: Pasteurisering
     de: Pasteurisierung
-    de-ch: Pasteurisierung
+    de_ch: Pasteurisierung
     el: Παστερίωση
     en: pasteurization
-    en-ca: Pasteurisation
-    en-gb: pasteurisation
+    en_ca: Pasteurisation
+    en_gb: pasteurisation
     eo: Pasteŭrizado
     es: pasteurización
     et: Pastöörimine
@@ -166,7 +166,7 @@ dv_has_:
     pa: ਪੈਸਚੂਰਾਈਜ਼ੇਸ਼ਨ
     pl: pasteryzacja
     pt: pasteurização
-    pt-br: Pasteurização
+    pt_br: Pasteurização
     ro: Pasteurizare
     ru: Пастеризация
     sah: Пастеризация
@@ -176,7 +176,7 @@ dv_has_:
     sl: pasterizacija
     sq: Pasterizimi
     sr: Пастеризација
-    sr-ec: пастеризација
+    sr_ec: пастеризација
     sv: pastörisering
     sw: Upasteurishaji
     ta: பாச்சர்முறை
@@ -191,7 +191,7 @@ dv_has_:
     wuu: 巴氏消毒法
     yue: 巴斯德消毒法
     zh: 巴斯德消毒法
-    zh-hk: 巴士德消毒法
+    zh_hk: 巴士德消毒法
 ---
 # [[Pasteurization]] 
 

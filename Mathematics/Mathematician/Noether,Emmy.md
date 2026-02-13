@@ -51,7 +51,7 @@ dv_has_:
     az: Emma Noter
     azb: امی نوتر
     be: Эмі Нётэр
-    be-tarask: Эмі Нётэр
+    be_tarask: Эмі Нётэр
     bg: Еми Ньотер
     bn: এমি ন্যোটার
     ca: Emmy Noether
@@ -62,11 +62,11 @@ dv_has_:
     da: Emmy Noether
     dag: Emmy Noether
     de: Emmy Noether
-    de-ch: Emmy Noether
+    de_ch: Emmy Noether
     el: Έμι Νέτερ
     en: Emmy Noether
-    en-ca: Emmy Noether
-    en-gb: Emmy Noether
+    en_ca: Emmy Noether
+    en_gb: Emmy Noether
     eo: Emmy Noether
     es: Emmy Noether
     et: Emmy Noether
@@ -116,7 +116,7 @@ dv_has_:
     pms: Emmy Noether
     ps: ايمي نيوتر
     pt: Emmy Noether
-    pt-br: Emmy Noether
+    pt_br: Emmy Noether
     ro: Emmy Noether
     ru: Эмми Нётер
     sco: Emmy Noether
@@ -139,8 +139,8 @@ dv_has_:
     xmf: ემი ნეთერი
     yue: 諾特
     zh: 埃米·诺特
-    zh-cn: 埃米·诺特
-    zh-tw: 艾米·諾特
+    zh_cn: 埃米·诺特
+    zh_tw: 艾米·諾特
 ---
 # [[Noether,Emmy]] 
 

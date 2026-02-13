@@ -94,7 +94,7 @@ dv_has_:
     ast: Pegasu
     az: Peqas
     be: Пегас
-    be-tarask: Пэгас
+    be_tarask: Пэгас
     bg: Пегас
     bn: পেগাসাস
     br: Pegasos
@@ -105,11 +105,11 @@ dv_has_:
     cy: Pegasos
     da: Pegasus
     de: Pegasos
-    de-ch: Pegasos
+    de_ch: Pegasos
     el: Πήγασος
     en: Pegasus
-    en-ca: Pegasus
-    en-gb: Pegasus
+    en_ca: Pegasus
+    en_gb: Pegasus
     eo: Pegazo
     es: Pegaso
     et: Pegasos
@@ -136,7 +136,7 @@ dv_has_:
     kk: Пырақ
     ko: 페가소스
     ku: Pêgasos
-    ku-latn: Pêgasos
+    ku_latn: Pêgasos
     kw: Marghkell
     la: Pegasus
     lt: Pegasas
@@ -155,7 +155,7 @@ dv_has_:
     pl: Pegaz
     pnb: پیگاسس
     pt: Pégaso
-    pt-br: Pégaso
+    pt_br: Pégaso
     ro: Pegas
     ru: Пегас
     sah: Пегаас
@@ -165,8 +165,8 @@ dv_has_:
     sl: Pegaz
     sq: Pegazi
     sr: Пегаз
-    sr-ec: Пегаз
-    sr-el: Pegaz
+    sr_ec: Пегаз
+    sr_el: Pegaz
     sv: Pegasos
     ta: பெகாசஸ்
     th: เพกาซัส
@@ -179,12 +179,12 @@ dv_has_:
     wuu: 珀伽索斯
     yue: 飛馬
     zh: 珀伽索斯
-    zh-cn: 珀伽索斯
-    zh-hans: 珀伽索斯
-    zh-hant: 佩格薩斯
-    zh-hk: 貝卡薩斯
-    zh-sg: 珀伽索斯
-    zh-tw: 佩加索斯
+    zh_cn: 珀伽索斯
+    zh_hans: 珀伽索斯
+    zh_hant: 佩格薩斯
+    zh_hk: 貝卡薩斯
+    zh_sg: 珀伽索斯
+    zh_tw: 佩加索斯
 ---
 # [[Pegasus]] 
 

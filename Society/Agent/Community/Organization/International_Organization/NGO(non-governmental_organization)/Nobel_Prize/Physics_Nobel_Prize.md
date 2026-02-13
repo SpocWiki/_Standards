@@ -80,8 +80,8 @@ dv_has_:
     da: liste over modtagere af Nobelprisen i fysik
     de: Liste der Nobelpreisträger für Physik
     en: list of Nobel laureates in Physics
-    en-ca: list of Nobel laureates in Physics
-    en-gb: list of Nobel laureates in Physics
+    en_ca: list of Nobel laureates in Physics
+    en_gb: list of Nobel laureates in Physics
     es: Anexo:Ganadores del Premio Nobel de Física
     eu: Zerrenda:Fisikako Nobel Saria
     fa: فهرست برندگان جایزه نوبل فیزیک
@@ -100,8 +100,8 @@ dv_has_:
     km: បញ្ជីរាយនាម ជ័យលាភីរង្វាន់ណូបែល ផ្នែករូបវិទ្យា
     ko: 노벨 물리학상 수상자 목록
     ku: Lîsteya Xelatgirên Nobela Fizîkê
-    ku-arab: خەلاتوەرگرێن خەلاتا نۆبەلێئا فیزیکێ
-    ku-latn: Xelatwergirên Xelata Nobelê a Fîzîkê
+    ku_arab: خەلاتوەرگرێن خەلاتا نۆبەلێئا فیزیکێ
+    ku_latn: Xelatwergirên Xelata Nobelê a Fîzîkê
     lb: Lëscht Nobelpräis Physik
     li: Lies vaan Nobelprieswinners (natuurkunde)
     lt: Nobelio fizikos premijos laureatai
@@ -112,7 +112,7 @@ dv_has_:
     nb: liste over nobelprisvinnere i fysikk
     pl: laureaci Nagrody Nobla w dziedzinie fizyki
     pt: laureados com o Nobel de Física
-    pt-br: Laureados com o Nobel de Física
+    pt_br: Laureados com o Nobel de Física
     ru: список лауреатов Нобелевской премии по физике
     sah: Физикаҕа Нобель бириэмийэтин лауреаттара
     scn: Vincitura dû Nobel pâ fìsica
@@ -130,9 +130,9 @@ dv_has_:
     vi: Danh sách người đoạt giải Nobel Vật lý
     yo: Àtòjọ àwọn ẹlẹ́bùn Nobel nínú Físíksì
     zh: 诺贝尔物理学奖得主列表
-    zh-hans: 诺贝尔物理学奖得主列表
-    zh-hant: 諾貝爾物理學獎得主列表
-    zh-hk: 諾貝爾物理學獎得主列表
+    zh_hans: 诺贝尔物理学奖得主列表
+    zh_hant: 諾貝爾物理學獎得主列表
+    zh_hk: 諾貝爾物理學獎得主列表
 ---
 ## #has_/text_of_/abstract 
 

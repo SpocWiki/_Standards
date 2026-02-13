@@ -120,7 +120,7 @@ dv_has_:
     ast: ecoloxismu
     az: envayromentalizm
     be: энвайранменталізм
-    be-tarask: рух за навакольнае асяродзьдзе
+    be_tarask: рух за навакольнае асяродзьдзе
     bho: पर्यावरणवाद
     bn: পরিবেশবাদ
     br: ekologiezh
@@ -133,8 +133,8 @@ dv_has_:
     de: Ökologismus
     el: οικολογισμός
     en: environmentalism
-    en-ca: environmentalism
-    en-gb: environmentalism
+    en_ca: environmentalism
+    en_gb: environmentalism
     eo: naturprotektismo
     es: ecologismo
     eu: ekologismo
@@ -174,7 +174,7 @@ dv_has_:
     pl: ekologizm
     ps: چاپېريال پالنه
     pt: ecologismo
-    pt-br: ambientalismo
+    pt_br: ambientalismo
     ro: ecologism
     ru: движение в защиту окружающей среды
     sd: وڻن جو عاشق
@@ -199,14 +199,14 @@ dv_has_:
     xmf: ინვაირონმენტალიზმი
     yue: 環保主義
     zh: 环保主义
-    zh-cn: 环保主义
-    zh-hans: 环保主义
-    zh-hant: 環保主義
-    zh-hk: 環保主義
-    zh-mo: 環保主義
+    zh_cn: 环保主义
+    zh_hans: 环保主义
+    zh_hant: 環保主義
+    zh_hk: 環保主義
+    zh_mo: 環保主義
     zh-my: 环保主义
-    zh-sg: 环保主义
-    zh-tw: 環保主義
+    zh_sg: 环保主义
+    zh_tw: 環保主義
 ---
 # [[Environmentalism]] 
 

@@ -38,7 +38,7 @@ dv_has_:
     oc: Phyllomedusinae
     pl: Phyllomedusinae
     pt: Phyllomedusinae
-    pt-br: phyllomedusinae
+    pt_br: phyllomedusinae
     ro: Phyllomedusinae
     ru: Phyllomedusinae
     sq: Phyllomedusinae

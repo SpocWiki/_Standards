@@ -49,7 +49,7 @@ dv_has_:
     az: Hayao Miyazaki
     bcl: Hayao Miyazaki
     be: Хаяо Міядзакі
-    be-tarask: Гаяо Міядзакі
+    be_tarask: Гаяо Міядзакі
     bg: Хаяо Миядзаки
     bn: হায়াও মিয়াজাকি
     br: Hayao Miyazaki
@@ -62,11 +62,11 @@ dv_has_:
     cy: Hayao Miyazaki
     da: Hayao Miyazaki
     de: Hayao Miyazaki
-    de-ch: Hayao Miyazaki
+    de_ch: Hayao Miyazaki
     el: Χαγιάο Μιγιαζάκι
     en: Hayao Miyazaki
-    en-ca: Hayao Miyazaki
-    en-gb: Hayao Miyazaki
+    en_ca: Hayao Miyazaki
+    en_gb: Hayao Miyazaki
     eo: Mijazaki Hajao
     es: Hayao Miyazaki
     et: Hayao Miyazaki
@@ -91,7 +91,7 @@ dv_has_:
     ja: 宮崎駿
     ka: მიაძაკი ჰაიაო
     kk: Хаяо Миядзаки
-    kk-cyrl: Хаяо Миядзаки
+    kk_cyrl: Хаяо Миядзаки
     ko: 미야자키 하야오
     ku: Hayao Miyazakî
     kw: Hayao Miyazaki
@@ -119,7 +119,7 @@ dv_has_:
     pcd: Hayao Miyazaki
     pl: Hayao Miyazaki
     pt: Hayao Miyazaki
-    pt-br: Hayao Miyazaki
+    pt_br: Hayao Miyazaki
     ro: Hayao Miyazaki
     ru: Хаяо Миядзаки
     sah: Хаяо Миядзаки
@@ -140,7 +140,7 @@ dv_has_:
     tt: Хаяо Миядзаки
     tyv: Хая́о Миядза́ки
     ug: مىيازاكى ھايائو
-    ug-arab: مىيازاكى ھايائو
+    ug_arab: مىيازاكى ھايائو
     uk: Хаяо Міядзакі
     uz: Hayao Miyazaki
     vep: Mijadzaki Hajao
@@ -151,11 +151,11 @@ dv_has_:
     yue: 宮崎駿
     zgh: ⵀⴰⵢⴰⵡ ⵎⵢⴰⵣⴰⴽⵉ
     zh: 宮崎駿
-    zh-cn: 宫崎骏
-    zh-hans: 宫崎骏
-    zh-hant: 宮崎駿
-    zh-hk: 宮崎駿
-    zh-tw: 宮崎駿
+    zh_cn: 宫崎骏
+    zh_hans: 宫崎骏
+    zh_hant: 宮崎駿
+    zh_hk: 宮崎駿
+    zh_tw: 宮崎駿
 ---
 #has_/time_/started :: 1941-01-05
 

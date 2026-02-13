@@ -159,7 +159,7 @@ dv_has_:
     az: Plaçido Dominqo
     ba: Пласидо Доминго
     be: Пласіда Дамінга
-    be-tarask: Плясыда Дамінга
+    be_tarask: Плясыда Дамінга
     bg: Пласидо Доминго
     bs: Plácido Domingo
     ca: Plácido Domingo
@@ -208,7 +208,7 @@ dv_has_:
     pap: Plácido Domingo
     pl: Plácido Domingo
     pt: Plácido Domingo
-    pt-br: Plácido Domingo
+    pt_br: Plácido Domingo
     qu: Plácido Domingo
     ro: Plácido Domingo
     ru: Пласидо Доминго
@@ -219,7 +219,7 @@ dv_has_:
     sl: Placido Domingo
     sq: Plácido Domingo
     sr: Пласидо Доминго
-    sr-ec: Пласидо Доминго
+    sr_ec: Пласидо Доминго
     sv: Plácido Domingo
     th: ปลาซีโด โดมิงโก
     tl: Plácido Domingo
@@ -231,12 +231,12 @@ dv_has_:
     xmf: პლასიდო დომინგო
     yue: 杜明高
     zh: 普拉西多·多明哥
-    zh-cn: 普拉西多·多明戈
-    zh-hans: 普拉西多·多明戈
-    zh-hant: 普拉西多·多明哥
-    zh-hk: 普拉西多·杜鳴高
-    zh-sg: 普拉西多·多明戈
-    zh-tw: 普拉西多·多明哥
+    zh_cn: 普拉西多·多明戈
+    zh_hans: 普拉西多·多明戈
+    zh_hant: 普拉西多·多明哥
+    zh_hk: 普拉西多·杜鳴高
+    zh_sg: 普拉西多·多明戈
+    zh_tw: 普拉西多·多明哥
 ---
 #has_/time_/started :: 1941-01-21 
 #has_/location_/created :: [[../../../../../../../../_Standards/Earth/Continent/America~Central/Mexico|Mexico]] 

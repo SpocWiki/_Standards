@@ -7,8 +7,8 @@ dv_has_:
     cs: přeučení
     de: Überanpassung
     en: overfitting
-    en-ca: Overfitting
-    en-gb: Overfitting
+    en_ca: Overfitting
+    en_gb: Overfitting
     es: sobreajuste
     fa: بیشبرازش
     fr: surapprentissage
@@ -22,7 +22,7 @@ dv_has_:
     nn: overtilpassing
     pl: Nadmierne dopasowanie
     pt: sobreajuste
-    pt-br: Sobreajuste
+    pt_br: Sobreajuste
     qu: Ancha mat'i
     ru: Переобучение
     sl: prekomerno prileganje podatkom
@@ -32,7 +32,7 @@ dv_has_:
     vi: Sự quá khớp
     yue: 過適
     zh: 過適
-    zh-hans: 过拟合
+    zh_hans: 过拟合
 aliases:
 - Ancha mat'i
 - Aşırı uyma

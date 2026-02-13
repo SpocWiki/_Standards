@@ -101,7 +101,7 @@ dv_has_:
     az: Patent
     bar: Patent
     be: патэнт
-    be-tarask: патэнт
+    be_tarask: патэнт
     bg: патент
     bn: কৃতিস্বত্ব
     bs: Patent
@@ -113,8 +113,8 @@ dv_has_:
     de: Patent
     el: Ευρεσιτεχνία
     en: patent
-    en-ca: patent
-    en-gb: patent
+    en_ca: patent
+    en_gb: patent
     en-us: patent
     eo: patento
     es: patente
@@ -158,7 +158,7 @@ dv_has_:
     pa: ਪੇਟੈਂਟ
     pl: patent
     pt: patente
-    pt-br: patente
+    pt_br: patente
     ro: brevet
     ru: патент
     sh: Patent
@@ -166,8 +166,8 @@ dv_has_:
     sl: patent
     sq: Patenta
     sr: патент
-    sr-ec: патент
-    sr-el: patent
+    sr_ec: патент
+    sr_el: patent
     sv: patent
     sw: Hataza
     ta: காப்புரிமைப் பட்டயம்
@@ -186,14 +186,14 @@ dv_has_:
     za: cienleih
     zgh: ⵜⵉⵣⵣⵉⴷⴳⴰ ⵏ ⵓⵙⵏⵓⵍⴼⵓ
     zh: 专利
-    zh-cn: 专利
-    zh-hans: 专利
-    zh-hant: 專利
-    zh-hk: 專利
-    zh-mo: 專利
+    zh_cn: 专利
+    zh_hans: 专利
+    zh_hant: 專利
+    zh_hk: 專利
+    zh_mo: 專利
     zh-my: 专利
-    zh-sg: 专利
-    zh-tw: 專利
+    zh_sg: 专利
+    zh_tw: 專利
 ---
 # [[Patent]] 
 

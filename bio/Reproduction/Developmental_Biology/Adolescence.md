@@ -134,7 +134,7 @@ dv_has_:
     az: yeniyetmə
     azb: یئنییئتمه
     be: падлетак
-    be-tarask: падлетак
+    be_tarask: падлетак
     bg: юношество
     bn: কৈশোর
     bo: གཞོན་ནུ།
@@ -178,7 +178,7 @@ dv_has_:
     jv: Rumaja
     kaa: óspirimlik
     kk: жас өспірім
-    kk-cyrl: жасөспірім
+    kk_cyrl: жасөспірім
     km: វ័យជំទង់
     kn: ತಾರುಣ್ಯ
     ko: 청소년
@@ -205,7 +205,7 @@ dv_has_:
     pap: adolesensia
     pl: dojrzewanie
     pt: adolescência
-    pt-br: adolescência
+    pt_br: adolescência
     ro: adolescență
     ru: подростковый возраст
     sat: ᱠᱤᱥᱷᱚᱨᱟᱣᱟᱥᱛᱷᱟ
@@ -216,8 +216,8 @@ dv_has_:
     so: dhalinyaro
     sq: adoleshenca
     sr: адолесценција
-    sr-ec: адолесценција
-    sr-el: adolescencija
+    sr_ec: адолесценција
+    sr_el: adolescencija
     su: rumaja
     sv: adolescens
     ta: விடலைப் பருவம்
@@ -236,12 +236,12 @@ dv_has_:
     wuu: 青少年
     yue: 後生
     zh: 青少年
-    zh-cn: 青少年
-    zh-hans: 青少年
-    zh-hant: 青少年
-    zh-hk: 青少年
-    zh-sg: 青少年
-    zh-tw: 青少年
+    zh_cn: 青少年
+    zh_hans: 青少年
+    zh_hant: 青少年
+    zh_hk: 青少年
+    zh_sg: 青少年
+    zh_tw: 青少年
 ---
 # [[Adolescence]] 
 

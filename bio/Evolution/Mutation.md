@@ -102,7 +102,7 @@ dv_has_:
     ast: Mutación
     az: Mutasiya
     be: мутацыя
-    be-tarask: мутацыя
+    be_tarask: мутацыя
     bg: Мутация
     bn: পরিব্যক্তি
     bs: Mutacija
@@ -142,7 +142,7 @@ dv_has_:
     ko: 돌연변이
     ko-kp: 갑작변이
     ku: Mutasyon
-    ku-latn: mutasyon
+    ku_latn: mutasyon
     ky: Мутация
     la: Mutatio genetica
     lt: mutacija
@@ -151,7 +151,7 @@ dv_has_:
     ml: ഉൾപരിവർത്തനം
     mn: мутаци
     ms: salihan
-    ms-arab: ساليهن
+    ms_arab: ساليهن
     mzn: جهش
     nan: Hoán-chéng
     nb: mutasjon

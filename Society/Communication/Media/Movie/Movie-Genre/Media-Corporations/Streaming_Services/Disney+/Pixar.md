@@ -10,7 +10,7 @@ dv_has_:
     azb: پیکسار
     ban: Pixar Animation Studios
     be: Pixar
-    be-tarask: Pixar
+    be_tarask: Pixar
     bg: Пиксар
     bn: পিক্সার
     br: Pixar Animation Studios
@@ -49,11 +49,11 @@ dv_has_:
     jv: Pixar Animation Studios
     ka: პიქსარი
     kk: Pixar Animation Studios
-    kk-arab: Pixar Animation Studios
+    kk_arab: Pixar Animation Studios
     kk-cn: Pixar Animation Studios
-    kk-cyrl: Піхар Аніматіон Стұдіос
+    kk_cyrl: Піхар Аніматіон Стұдіос
     kk-kz: Піхар Аніматіон Стұдіос
-    kk-latn: Pixar Animation Studios
+    kk_latn: Pixar Animation Studios
     kk-tr: Pixar Animation Studios
     kn: ಪಿಕ್ಸರ್
     ko: 픽사
@@ -76,7 +76,7 @@ dv_has_:
     pl: Pixar
     pnb: پکسار
     pt: Pixar Animation Studios
-    pt-br: Pixar Animation Studios
+    pt_br: Pixar Animation Studios
     ro: Pixar
     ru: Pixar
     sah: Pixar
@@ -87,8 +87,8 @@ dv_has_:
     sl: Pixar
     sq: Pixar
     sr: Пиксар
-    sr-ec: Пиксар
-    sr-el: Piksar
+    sr_ec: Пиксар
+    sr_el: Piksar
     sv: Pixar Animation Studios
     sw: Pixar
     szl: Pixar
@@ -98,7 +98,7 @@ dv_has_:
     tl: Pixar
     tr: Pixar
     tt: Pixar
-    tt-cyrl: Pixar
+    tt_cyrl: Pixar
     ug: پىكسار جانلاندۇرۇم ستۇدىيىسى
     uk: Pixar
     ur: پکسر
@@ -111,12 +111,12 @@ dv_has_:
     yi: פיקסאר
     yue: 彼思
     zh: 皮克斯动画工作室
-    zh-cn: 皮克斯动画工作室
-    zh-hans: 皮克斯动画工作室
-    zh-hant: 皮克斯動畫工作室
-    zh-hk: 彼思動畫製作室
-    zh-sg: 皮克斯动画工作室
-    zh-tw: 皮克斯動畫工作室
+    zh_cn: 皮克斯动画工作室
+    zh_hans: 皮克斯动画工作室
+    zh_hant: 皮克斯動畫工作室
+    zh_hk: 彼思動畫製作室
+    zh_sg: 皮克斯动画工作室
+    zh_tw: 皮克斯動畫工作室
 aliases:
 - Piksar
 - Pixar

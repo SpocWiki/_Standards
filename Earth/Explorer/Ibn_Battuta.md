@@ -143,7 +143,7 @@ dv_has_:
     ba: Ибн Баттута
     bar: Ibn Battuta
     be: Ібн Батута
-    be-tarask: Ібн Батута
+    be_tarask: Ібн Батута
     bg: Ибн Батута
     bn: ইবনে বতুতা
     br: Ibn Battuta
@@ -162,8 +162,8 @@ dv_has_:
     dv: އިބްނި ބަޠޫޠާ
     el: Ιμπν Μπατούτα
     en: Ibn Battuta
-    en-ca: Ibn Battuta
-    en-gb: Ibn Battuta
+    en_ca: Ibn Battuta
+    en_gb: Ibn Battuta
     eo: Ibn Batuta
     es: Ibn Battuta
     et: Ibn Baţţūţah
@@ -237,7 +237,7 @@ dv_has_:
     pnb: ابن بطوطا
     ps: ابن بطوطه
     pt: Ibn Battuta
-    pt-br: Ibn Battuta
+    pt_br: Ibn Battuta
     ro: Ibn Battuta
     roa-tara: Ibn Battuta
     ru: Ибн Баттута

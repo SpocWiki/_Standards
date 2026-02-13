@@ -7,7 +7,7 @@ dv_has_:
     ast: rede privada virtual
     az: virtual özəl şəbəkələr
     be: VPN
-    be-tarask: віртуальная прыватная сетка
+    be_tarask: віртуальная прыватная сетка
     bg: Виртуална частна мрежа
     bho: वर्चुअल प्राइवेट नेटवर्क
     bn: ভার্চুয়াল প্রাইভেট নেটওয়ার্ক
@@ -19,11 +19,11 @@ dv_has_:
     cs: virtuální privátní síť
     da: virtual private network
     de: virtuelles privates Netzwerk
-    de-ch: Virtual Private Network
+    de_ch: Virtual Private Network
     el: Εικονικό Ιδιωτικό Δίκτυο
     en: virtual private network
-    en-ca: virtual private network
-    en-gb: virtual private network
+    en_ca: virtual private network
+    en_gb: virtual private network
     eo: virtuala privata reto
     es: red privada virtual
     et: virtuaalne privaatvõrk
@@ -45,11 +45,11 @@ dv_has_:
     ka: VPN
     kaa: Vpn
     kk: Виртуальды жеке желі
-    kk-arab: ۆىيرتۋالدى جەكە جەلى
+    kk_arab: ۆىيرتۋالدى جەكە جەلى
     kk-cn: ۆىيرتۋالدى جەكە جەلى
-    kk-cyrl: Виртуальды жеке желі
+    kk_cyrl: Виртуальды жеке желі
     kk-kz: Виртуальды жеке желі
-    kk-latn: vïrtwalʹdı jeke jeli
+    kk_latn: vïrtwalʹdı jeke jeli
     kk-tr: vïrtwalʹdı jeke jeli
     ko: 가상사설망
     lmo: Red privada virtoval
@@ -70,7 +70,7 @@ dv_has_:
     pms: VPN
     ps: اختصاصي مجازي شبکه
     pt: rede privada virtual
-    pt-br: rede privada virtual
+    pt_br: rede privada virtual
     ro: rețea privată virtuală
     ru: виртуальная частная сеть
     sah: VPN
@@ -81,8 +81,8 @@ dv_has_:
     sl: navidezno zasebno omrežje
     sq: VPN
     sr: виртуелна приватна мрежа
-    sr-ec: Виртуелна приватна мрежа
-    sr-el: virtuelna privatna mreža
+    sr_ec: Виртуелна приватна мрежа
+    sr_el: virtuelna privatna mreža
     sv: virtuellt privat nätverk
     sw: Mtandao pepe binafsi
     ta: மெய்நிகர் தனியார் பிணையம்
@@ -99,12 +99,12 @@ dv_has_:
     wuu: 虚拟私人网络
     yue: 虛擬私人網路
     zh: 虛擬私人網路
-    zh-cn: 虚拟私人网络
-    zh-hans: 虚拟私人网路
-    zh-hant: 虛擬私人網路
-    zh-hk: 虛擬私人網絡
-    zh-sg: 虚拟私人网络
-    zh-tw: 虛擬私人網路
+    zh_cn: 虚拟私人网络
+    zh_hans: 虚拟私人网路
+    zh_hant: 虛擬私人網路
+    zh_hk: 虛擬私人網絡
+    zh_sg: 虚拟私人网络
+    zh_tw: 虛擬私人網路
 aliases:
 - firtuele priveenetwurk
 - jaringan pribadi maya

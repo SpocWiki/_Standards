@@ -123,7 +123,7 @@ dv_has_:
     az: Frensis Skott Fitscerald
     azb: اف. اسکات فیتزجرالد
     be: Фрэнсіс Скот Фіцджэральд
-    be-tarask: Фрэнсіс Скот Фіцджэральд
+    be_tarask: Фрэнсіс Скот Фіцджэральд
     bg: Франсис Скот Фицджералд
     bn: এফ. স্কট ফিট্জেরাল্ড
     bs: F. Scott Fitzgerald
@@ -132,12 +132,12 @@ dv_has_:
     cy: F. Scott Fitzgerald
     da: Francis Scott Fitzgerald
     de: F. Scott Fitzgerald
-    de-ch: F. Scott Fitzgerald
+    de_ch: F. Scott Fitzgerald
     diq: F. Scott Fitzgerald
     el: Φράνσις Σκοτ Φιτζέραλντ
     en: F. Scott Fitzgerald
-    en-ca: F. Scott Fitzgerald
-    en-gb: F. Scott Fitzgerald
+    en_ca: F. Scott Fitzgerald
+    en_gb: F. Scott Fitzgerald
     eo: F. Scott Fitzgerald
     es: F. Scott Fitzgerald
     et: Francis Scott Key Fitzgerald
@@ -162,8 +162,8 @@ dv_has_:
     kk: Фрэнсис Скотт Фицджеральд
     ko: F. 스콧 피츠제럴드
     ku: Francis Scott Fitzgerald
-    ku-arab: فرانجس سجۆتت فتزگەرالد
-    ku-latn: Francis Scott Fitzgerald
+    ku_arab: فرانجس سجۆتت فتزگەرالد
+    ku_latn: Francis Scott Fitzgerald
     kw: F. Scott Fitzgerald
     ky: Ф. Скотт Фитцжералд
     la: Franciscus Scott Fitzgerald
@@ -186,7 +186,7 @@ dv_has_:
     pap: F. Scott Fitzgerald
     pl: Francis Scott Fitzgerald
     pt: F. Scott Fitzgerald
-    pt-br: F. Scott Fitzgerald
+    pt_br: F. Scott Fitzgerald
     qu: F. Scott Fitzgerald
     ro: F. Scott Fitzgerald
     ru: Фрэнсис Скотт Фицджеральд
@@ -196,13 +196,13 @@ dv_has_:
     sl: F. Scott Fitzgerald
     sq: F. Scott Fitzgerald
     sr: Frensis Skot Ficdžerald
-    sr-ec: Френсис Скот Фицџералд
-    sr-el: Frensis Skot Ficdžerald
+    sr_ec: Френсис Скот Фицџералд
+    sr_el: Frensis Skot Ficdžerald
     sv: F. Scott Fitzgerald
     ta: எப். ஸ்காட் பிட்ஸ்ஜெரால்ட்
     te: ఎఫ్. స్కాట్ ఫిట్జ్గెరాల్డ్
     tg: Ф. Скот Фитзҷералд
-    tg-latn: F. Skot Fitzçerald
+    tg_latn: F. Skot Fitzçerald
     th: เอฟ. สกอตต์ ฟิตซ์เจอรัลด์
     tr: F. Scott Fitzgerald
     uk: Френсіс Скотт Фіцджеральд
@@ -214,12 +214,12 @@ dv_has_:
     xmf: ფრენსის სკოტ ფიცჯერალდი
     yue: 費茨傑羅
     zh: 弗朗西斯·斯科特·菲茨杰拉德
-    zh-cn: 弗朗西斯·斯科特·菲茨杰拉德
-    zh-hans: 弗朗西斯·斯科特·菲茨杰拉德
-    zh-hant: 法蘭西斯·史考特·費茲傑羅
-    zh-hk: 弗朗西斯·斯科特·菲茨杰拉德
-    zh-sg: 弗朗西斯·斯科特·菲茨杰拉德
-    zh-tw: 法蘭西斯·史考特·費茲傑羅
+    zh_cn: 弗朗西斯·斯科特·菲茨杰拉德
+    zh_hans: 弗朗西斯·斯科特·菲茨杰拉德
+    zh_hant: 法蘭西斯·史考特·費茲傑羅
+    zh_hk: 弗朗西斯·斯科特·菲茨杰拉德
+    zh_sg: 弗朗西斯·斯科特·菲茨杰拉德
+    zh_tw: 法蘭西斯·史考特·費茲傑羅
 ---
 # [[Fitzgerald,F.Scott]] 
 

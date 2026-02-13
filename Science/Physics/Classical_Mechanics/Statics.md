@@ -72,7 +72,7 @@ dv_has_:
     azb: ایستاتیک
     bar: Statik
     be: Статыка
-    be-tarask: статыка
+    be_tarask: статыка
     bg: Статика
     bn: স্থিতিবিদ্যা
     bs: Statika
@@ -82,11 +82,11 @@ dv_has_:
     cv: Статика
     da: Statik
     de: Statik
-    de-ch: Statik
+    de_ch: Statik
     el: στατική
     en: statics
-    en-ca: Statics
-    en-gb: statics
+    en_ca: Statics
+    en_gb: statics
     eo: statiko
     es: estática
     et: Staatika
@@ -109,16 +109,16 @@ dv_has_:
     ja: 静力学
     ka: სტატიკა
     kk: Статика
-    kk-arab: ستاتىيكا
+    kk_arab: ستاتىيكا
     kk-cn: ستاتىيكا
-    kk-cyrl: Статика
+    kk_cyrl: Статика
     kk-kz: Статика
-    kk-latn: Statïka
+    kk_latn: Statïka
     kk-tr: Statïka
     km: ស្តាទិច
     ko: 정역학
     ku: Statîk
-    ku-latn: Statîk
+    ku_latn: Statîk
     ky: статика
     lt: Statika
     lv: statika
@@ -131,7 +131,7 @@ dv_has_:
     pl: Statyka
     pms: Stàtica
     pt: estática
-    pt-br: Estática
+    pt_br: Estática
     ro: Statică
     ru: статика
     sh: Statika
@@ -140,8 +140,8 @@ dv_has_:
     sl: statika
     sq: Statika
     sr: Статика
-    sr-ec: Статика
-    sr-el: Statika
+    sr_ec: Статика
+    sr_el: Statika
     sv: Statik
     ta: நிலையியல்
     th: สถิตยศาสตร์
@@ -153,12 +153,12 @@ dv_has_:
     wuu: 静力学
     yue: 靜力學
     zh: 静力学
-    zh-cn: 静力学
-    zh-hans: 静力学
-    zh-hant: 靜力學
-    zh-hk: 靜力學
-    zh-sg: 静力学
-    zh-tw: 靜力學
+    zh_cn: 静力学
+    zh_hans: 静力学
+    zh_hant: 靜力學
+    zh_hk: 靜力學
+    zh_sg: 静力学
+    zh_tw: 靜力學
 ---
 # [[Statics]] 
 

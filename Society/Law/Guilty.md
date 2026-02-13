@@ -52,7 +52,7 @@ dv_has_:
   name_:
     ar: ذنب
     be: віна
-    be-tarask: віна
+    be_tarask: віна
     bs: krivnja
     ca: culpa
     cs: vina
@@ -84,14 +84,14 @@ dv_has_:
     sah: Буруй (төрүн)
     sl: krivda
     sr: кривица
-    sr-ec: кривица
-    sr-el: krivica
+    sr_ec: кривица
+    sr_el: krivica
     sv: skyldig
     tg: Гуноҳ (ҳуқуқ)
     uk: вина
     uz: Ayb
     zh: 有罪
-    zh-hant: 有罪
+    zh_hant: 有罪
 ---
 # [[Guilty]] 
 

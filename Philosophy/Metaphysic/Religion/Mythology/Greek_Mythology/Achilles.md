@@ -12,7 +12,7 @@ dv_has_:
     azb: آشیل
     ba: Ахилл
     be: Ахіл
-    be-tarask: Ахілес
+    be_tarask: Ахілес
     bg: Ахил
     bn: আকিলিস
     br: Ac'hilleüs
@@ -88,7 +88,7 @@ dv_has_:
     sl: Ahil
     sq: Akili
     sr: Ахил
-    sr-ec: Ахил
+    sr_ec: Ахил
     sv: Akilles
     sw: Akiles
     ta: அக்கீலியஸ்
@@ -106,9 +106,9 @@ dv_has_:
     wuu: 阿喀琉斯
     yue: 阿基里斯
     zh: 阿喀琉斯
-    zh-cn: 阿喀琉斯
-    zh-hans: 阿喀琉斯
-    zh-hant: 阿喀琉斯
+    zh_cn: 阿喀琉斯
+    zh_hans: 阿喀琉斯
+    zh_hant: 阿喀琉斯
 aliases:
 - Ac'hilleüs
 - Achilas

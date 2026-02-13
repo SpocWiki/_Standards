@@ -94,7 +94,7 @@ dv_has_:
     ar: نجم وولف-رايت
     ast: Estrella de Wolf-Rayet
     az: Volf-Raye tipli ulduzlar
-    be-tarask: зорка Вольфа—Рае
+    be_tarask: зорка Вольфа—Рае
     bg: Звезда на Волф-Райе
     bn: উলফ-র্যায়েট তারা
     bs: Wolf-Rayet zvijezda
@@ -144,8 +144,8 @@ dv_has_:
     uz: Volf-raye yulduzlari
     vi: Sao Wolf–Rayet
     zh: 沃爾夫–拉葉星
-    zh-cn: 沃尔夫–拉叶星
-    zh-hant: 沃爾夫–拉葉星
+    zh_cn: 沃尔夫–拉叶星
+    zh_hant: 沃爾夫–拉葉星
 ---
 # [[Wolf–Rayet_Star]] 
 

@@ -112,7 +112,7 @@ dv_has_:
     ast: oasis
     az: vahə
     be: Аазіс
-    be-tarask: аазіс
+    be_tarask: аазіс
     bg: Оазис
     bn: মরুদ্যান
     br: oaziz
@@ -177,7 +177,7 @@ dv_has_:
     pl: oaza
     pnb: نخلستان
     pt: oásis
-    pt-br: oásis
+    pt_br: oásis
     ro: oază
     ru: оазис
     scn: òasi
@@ -188,7 +188,7 @@ dv_has_:
     so: Waaxadda
     sq: oaza
     sr: оаза
-    sr-ec: Оаза
+    sr_ec: Оаза
     su: Oasis
     sv: oas
     sw: oasisi
@@ -208,9 +208,9 @@ dv_has_:
     yi: אאזיס
     yue: 綠洲
     zh: 綠洲
-    zh-hans: 绿洲
-    zh-hant: 綠洲
-    zh-tw: 綠洲
+    zh_hans: 绿洲
+    zh_hant: 綠洲
+    zh_tw: 綠洲
 ---
 # [[Oasis]]
 

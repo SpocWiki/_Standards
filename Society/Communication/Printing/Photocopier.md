@@ -90,12 +90,12 @@ dv_has_:
     ast: fotocopiadora
     ba: Күсермә яһау аппараты
     bcl: fotokopyadora
-    be-tarask: капіявальны апарат
+    be_tarask: капіявальны апарат
     bg: Копирна машина
     bn: আলোক চিত্রানুলিপিকারক
     br: Luc'heilerez
     ca: fotocopiadora
-    cbk-zam: fotocopiadora
+    cbk_zam: fotocopiadora
     ceb: fotokopyadora
     ckb: ئامێری لەبەرگرتنەوە
     cps: fotokopyadora
@@ -121,7 +121,7 @@ dv_has_:
     id: Mesin fotokopi
     ik: Arriḷiun
     ike-cans: ᐊᒥᐃᐅᓕᐅᕈ
-    ike-latn: amiiuliuru
+    ike_latn: amiiuliuru
     ilo: fotokopiadora
     is: Ljósritunarvél
     it: fotocopiatrice
@@ -129,11 +129,11 @@ dv_has_:
     ja: 複写機
     jv: Mesin fotokopi
     kk: Көшіргіш қүрылғы
-    kk-arab: كوشىرگىش قۇرىلعى
+    kk_arab: كوشىرگىش قۇرىلعى
     kk-cn: كوشىرگىش قۇرىلعى
-    kk-cyrl: Көшіргіш қүрылғы
+    kk_cyrl: Көшіргіш қүрылғы
     kk-kz: Көшіргіш қүрылғы
-    kk-latn: Köşirgiş qürılğı
+    kk_latn: Köşirgiş qürılğı
     kk-tr: Köşirgiş qürılğı
     ko: 복사기
     krj: fotokopyadora
@@ -159,8 +159,8 @@ dv_has_:
     shn: ၸၢၵ်ႈထၢႆႇလိၵ်ႈ
     sl: fotokopirni stroj
     sr: Фотокопирање
-    sr-ec: фотокопирање
-    sr-el: fotokopiranje
+    sr_ec: фотокопирање
+    sr_el: fotokopiranje
     sv: kopiator
     ta: நகலி
     te: ఫోటో కాపీ
@@ -176,12 +176,12 @@ dv_has_:
     wuu: 复印机
     yue: 影印機
     zh: 复印机
-    zh-cn: 复印机
-    zh-hans: 复印机
-    zh-hant: 影印機
-    zh-hk: 影印機
-    zh-sg: 复印机
-    zh-tw: 影印機
+    zh_cn: 复印机
+    zh_hans: 复印机
+    zh_hant: 影印機
+    zh_hk: 影印機
+    zh_sg: 复印机
+    zh_tw: 影印機
 ---
 # [[Photocopier]] 
 

@@ -289,7 +289,7 @@ dv_has_:
     ba: Һоро айыу
     ban: Beruang soklat
     be: буры мядзведзь
-    be-tarask: буры мядзьведзь
+    be_tarask: буры мядзьведзь
     bg: кафява мечка
     bn: বাদামি ভাল্লুক
     bo: དྲེད་མོང་།
@@ -307,13 +307,13 @@ dv_has_:
     cy: arth frown
     da: brun bjørn
     de: Braunbär
-    de-ch: Braunbär
+    de_ch: Braunbär
     diq: heşo gewr
     dsb: bruny mjadwjeź
     el: Καφέ αρκούδα
     en: Ursus arctos
-    en-ca: brown bear
-    en-gb: brown bear
+    en_ca: brown bear
+    en_gb: brown bear
     en-us: brown bear
     eo: bruna urso
     es: Ursus arctos
@@ -381,7 +381,7 @@ dv_has_:
     pnb: بھورا رچھ
     ps: نسواري رنګه يېږ
     pt: Urso-pardo
-    pt-br: Urso-pardo
+    pt_br: Urso-pardo
     qu: Paqu ukumari
     ro: Urs brun
     ru: бурый медведь
@@ -399,15 +399,15 @@ dv_has_:
     sms: kuõbǯǯ
     sq: Ariu i murrmë
     sr: мрки медвед
-    sr-ec: мрки медвед
+    sr_ec: мрки медвед
     sv: brunbjörn
     th: หมีสีน้ำตาล
     tk: Goňur aýy
     tl: Kayumanggi oso
     tr: Boz ayı
     tt: соры аю
-    tt-cyrl: соры аю
-    tt-latn: sorı ayu
+    tt_cyrl: соры аю
+    tt_latn: sorı ayu
     udm: Курень гондыр
     ug: قوڭۇر ئېيىق
     uk: ведмідь бурий
@@ -422,10 +422,10 @@ dv_has_:
     yo: òfàfà àwò igi
     yue: 啡熊
     zh: 棕熊
-    zh-cn: 棕熊
-    zh-hans: 棕熊
-    zh-hant: 棕熊
-    zh-tw: 棕熊
+    zh_cn: 棕熊
+    zh_hans: 棕熊
+    zh_hant: 棕熊
+    zh_tw: 棕熊
 ---
 # [[Brown_Bear]] 
 

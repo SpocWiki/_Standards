@@ -158,7 +158,7 @@ dv_has_:
     az: Südləyənkimilər
     bcl: Euphorbiaceae
     be: Малачайныя
-    be-tarask: Малачайныя
+    be_tarask: Малачайныя
     bg: млечкови
     bn: ইউফোর্বিয়াসিয়া
     bs: Euphorbiaceae
@@ -202,8 +202,8 @@ dv_has_:
     ko: 대극과
     koi: Эуфорбия котыр
     ku: Famîleya giyaşîrkan
-    ku-arab: فامیلەیا گیاشیرکان
-    ku-latn: Famîleya giyaşîrkan
+    ku_arab: فامیلەیا گیاشیرکان
+    ku_latn: Famîleya giyaşîrkan
     kv: Эуфорбия котыр
     la: Euphorbiaceae
     lt: Karpažoliniai
@@ -220,7 +220,7 @@ dv_has_:
     os: Æхсырæгхуызтæ
     pl: wilczomleczowate
     pt: Euphorbiaceae
-    pt-br: Euphorbiaceae
+    pt_br: Euphorbiaceae
     qu: Wachanqa yura rikch'aq ayllu
     ro: Euphorbiaceae
     ru: молочайные
@@ -232,8 +232,8 @@ dv_has_:
     so: Euphorbiaceae
     sq: Euphorbiaceae
     sr: Euphorbiaceae
-    sr-ec: Euphorbiaceae
-    sr-el: Euphorbiaceae
+    sr_ec: Euphorbiaceae
+    sr_el: Euphorbiaceae
     su: Euphorbiaceae
     sv: Törelväxter
     ta: ஆமணக்குக் குடும்பம்
@@ -251,12 +251,12 @@ dv_has_:
     wuu: 大戟科
     yue: 大戟科
     zh: 大戟科
-    zh-cn: 大戟科
-    zh-hans: 大戟科
-    zh-hant: 大戟科
-    zh-hk: 大戟科
-    zh-sg: 大戟科
-    zh-tw: 大戟科
+    zh_cn: 大戟科
+    zh_hans: 大戟科
+    zh_hant: 大戟科
+    zh_hk: 大戟科
+    zh_sg: 大戟科
+    zh_tw: 大戟科
 ---
 # [[Euphorbiaceae]] 
 

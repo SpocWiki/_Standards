@@ -74,7 +74,7 @@ dv_has_:
   name_:
     ar: اختبار بيكدل
     az: Bekdel testi
-    be-tarask: тэст Бэкдэл
+    be_tarask: тэст Бэкдэл
     br: Test Bechdel
     ca: test de Bechdel
     ckb: تاقیکردنەوەی بێکدل
@@ -116,15 +116,15 @@ dv_has_:
     sv: Bechdeltestet
     tr: Bechdel testi
     tt: Бекдел тесты
-    tt-cyrl: Бекдел тесты
+    tt_cyrl: Бекдел тесты
     uk: тест Бекдел
     ur: بیچڈیل ٹیسٹ
     uz: Bechdel testi
     vec: test de Bechdel
     zh: 贝克德尔测验
-    zh-hans: 贝克德尔测验
-    zh-hant: 貝克德爾測驗
-    zh-tw: 貝克德爾測驗
+    zh_hans: 贝克德尔测验
+    zh_hant: 貝克德爾測驗
+    zh_tw: 貝克德爾測驗
 ---
 # [[Bechdel_Test]] 
 

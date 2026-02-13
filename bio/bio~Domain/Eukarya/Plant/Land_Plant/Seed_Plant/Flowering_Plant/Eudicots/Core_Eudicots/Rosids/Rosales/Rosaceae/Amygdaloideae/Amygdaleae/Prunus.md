@@ -96,7 +96,7 @@ dv_has_:
     az: Gavalı
     ba: Сейә
     be: сліва
-    be-tarask: сьліва
+    be_tarask: сьліва
     bg: слива
     br: Prunus
     bs: Prunus
@@ -147,14 +147,14 @@ dv_has_:
     ms: Prunus
     mul: Prunus
     nb: kirsebærslekta
-    nds-nl: Breunishout
+    nds_nl: Breunishout
     nl: Prunus
     nn: kirsebærslekta
     oc: Prunus
     os: Чылауи (мыггаг)
     pl: śliwa
     pt: Prunus
-    pt-br: Prunus
+    pt_br: Prunus
     ro: Prunus
     ru: слива
     sco: Prunus
@@ -172,7 +172,7 @@ dv_has_:
     tl: Sirwelas
     tr: Prunus
     tt: караҗимеш
-    tt-cyrl: караҗимеш
+    tt_cyrl: караҗимеш
     uk: слива
     vi: Chi Mận mơ
     vls: Prunus
@@ -182,12 +182,12 @@ dv_has_:
     xmf: წკამი კულტურეფი
     yue: 李屬
     zh: 李属
-    zh-cn: 李属
-    zh-hans: 李属
-    zh-hant: 李屬
-    zh-hk: 李屬
-    zh-sg: 李属
-    zh-tw: 李屬
+    zh_cn: 李属
+    zh_hans: 李属
+    zh_hant: 李屬
+    zh_hk: 李屬
+    zh_sg: 李属
+    zh_tw: 李屬
 ---
 # [[Prunus]] 
 

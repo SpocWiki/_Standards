@@ -69,7 +69,7 @@ dv_has_:
     arz: اجناسى لوكاسيفيتش
     ast: Ignacy Łukasiewicz
     be: Ігнацы Лукасевіч
-    be-tarask: Ігнацы Лукасевіч
+    be_tarask: Ігнацы Лукасевіч
     bg: Игнаци Лукашевич
     bs: Ignacy Łukasiewicz
     ca: Ignacy Łukasiewicz
@@ -79,8 +79,8 @@ dv_has_:
     de: Ignacy Łukasiewicz
     el: Ιγκνάτσι Λουκασιέβιτς
     en: Ignacy Łukasiewicz
-    en-ca: Ignacy Łukasiewicz
-    en-gb: Ignacy Łukasiewicz
+    en_ca: Ignacy Łukasiewicz
+    en_gb: Ignacy Łukasiewicz
     eo: Ignacy Łukasiewicz
     es: Ignacy Łukasiewicz
     eu: Ignacy Łukasiewicz
@@ -115,7 +115,7 @@ dv_has_:
     sl: Ignacy Łukasiewicz
     sq: Ignacy Łukasiewicz
     sr: Игнаћи Лукасјевич
-    sr-ec: Игнаћи Лукасјевич
+    sr_ec: Игнаћи Лукасјевич
     sv: Ignacy Łukasiewicz
     th: อิกนาซี วูคาเซียวิช
     tr: Ignacy Łukasiewicz

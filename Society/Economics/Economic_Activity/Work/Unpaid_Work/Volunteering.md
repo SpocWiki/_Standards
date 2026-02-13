@@ -95,7 +95,7 @@ dv_has_:
     ast: Voluntariáu
     az: Könüllü
     ba: ирекмәнлек
-    be-tarask: валянтэрства
+    be_tarask: валянтэрства
     bg: Доброволец
     bn: স্বেচ্ছাসেবী কাজ
     bxr: Һайн дуранай ажал
@@ -108,8 +108,8 @@ dv_has_:
     dz: ཁས་བླངས།
     el: Εθελοντισμός
     en: volunteering
-    en-ca: volunteering
-    en-gb: volunteering
+    en_ca: volunteering
+    en_gb: volunteering
     eo: volontulado
     es: Voluntariado
     et: vabatahtlik
@@ -148,7 +148,7 @@ dv_has_:
     nl: vrijwilligerswerk
     pl: wolontariat
     pt: voluntariado
-    pt-br: trabalho voluntário
+    pt_br: trabalho voluntário
     ro: voluntariat
     ru: волонтёрство
     sd: رضاڪار
@@ -157,8 +157,8 @@ dv_has_:
     sl: prostovoljstvo
     sq: Vullnetarizmi
     sr: волонтеризам
-    sr-ec: Волонтеризам
-    sr-el: volonterizam
+    sr_ec: Волонтеризам
+    sr_el: volonterizam
     sv: volontärarbete
     sw: Kujitolea
     ta: தன்னார்வலர்
@@ -175,12 +175,12 @@ dv_has_:
     yi: וואלונטיר
     yue: 義工活動
     zh: 志工活动
-    zh-cn: 志工活动
-    zh-hans: 志愿活动
-    zh-hant: 志工活動
-    zh-hk: 義工活動
-    zh-sg: 志愿活动
-    zh-tw: 志工活動
+    zh_cn: 志工活动
+    zh_hans: 志愿活动
+    zh_hant: 志工活動
+    zh_hk: 義工活動
+    zh_sg: 志愿活动
+    zh_tw: 志工活動
 ---
 # [[Volunteering]] 
 

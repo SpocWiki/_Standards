@@ -111,18 +111,18 @@ dv_has_:
     ast: seguridá de la información
     az: ínformasiya təhlükəsizliyi
     be: Інфармацыйная бяспека
-    be-tarask: інфармацыйная бясьпека
+    be_tarask: інфармацыйная бясьпека
     bg: информационна сигурност
     bn: তথ্য নিরাপত্তা
     ca: seguretat de la informació
     cs: informační bezpečnost
     da: informationssikkerhed
     de: Informationssicherheit
-    de-ch: Informationssicherheit
+    de_ch: Informationssicherheit
     el: Ασφάλεια πληροφοριακών συστημάτων
     en: information security
-    en-ca: information security
-    en-gb: information security
+    en_ca: information security
+    en_gb: information security
     es: seguridad de la información
     et: andmeturve
     eu: informazioaren segurtasun
@@ -141,11 +141,11 @@ dv_has_:
     ja: 情報セキュリティ
     kaa: Informaсiya qáwipsizligi
     kk: ақпараттық қауіпсіздік
-    kk-arab: اقپاراتتىق قاۋىپسىزدىك
+    kk_arab: اقپاراتتىق قاۋىپسىزدىك
     kk-cn: اقپاراتتىق قاۋىپسىزدىك
-    kk-cyrl: ақпараттық қауіпсіздік
+    kk_cyrl: ақпараттық қауіпсіздік
     kk-kz: ақпараттық қауіпсіздік
-    kk-latn: aqparattıq qawipsizdik
+    kk_latn: aqparattıq qawipsizdik
     kk-tr: aqparattıq qawipsizdik
     ko: 정보 보안
     lv: informācijas drošība
@@ -160,7 +160,7 @@ dv_has_:
     pl: bezpieczeństwo informacji
     ps: اطلاعاتي خوندیتوب
     pt: segurança da informação
-    pt-br: segurança da informação
+    pt_br: segurança da informação
     ro: securitatea informației
     ru: информационная безопасность
     se: diehtodorvu
@@ -175,19 +175,19 @@ dv_has_:
     th: การรักษาความปลอดภัยทางข้อมูล
     tr: bilgi güvenliği
     tt: информацион иминлек
-    tt-cyrl: информацион иминлек
+    tt_cyrl: информацион иминлек
     uk: інформаційна безпека
     uz: axborot xavfsizligi
     vi: an toàn thông tin
     zh: 信息安全
-    zh-cn: 信息安全
-    zh-hans: 信息安全
-    zh-hant: 資訊安全
-    zh-hk: 資訊保安
-    zh-mo: 資訊保安
+    zh_cn: 信息安全
+    zh_hans: 信息安全
+    zh_hant: 資訊安全
+    zh_hk: 資訊保安
+    zh_mo: 資訊保安
     zh-my: 资讯安全
-    zh-sg: 信息安全
-    zh-tw: 資訊安全
+    zh_sg: 信息安全
+    zh_tw: 資訊安全
 ---
 # [[Information_Security]] 
 

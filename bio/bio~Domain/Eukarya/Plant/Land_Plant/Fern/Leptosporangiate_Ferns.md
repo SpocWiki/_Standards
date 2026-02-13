@@ -53,7 +53,7 @@ dv_has_:
     oc: Polypodiidae
     pl: Paprotkowe
     pt: Polypodiidae
-    pt-br: Polypodiidae
+    pt_br: Polypodiidae
     ro: Polypodiidae
     ru: Polypodiidae
     sl: Polypodiidae
@@ -65,10 +65,10 @@ dv_has_:
     vo: Polypodiidae
     war: Polypodiidae
     zh: 水龙骨亚纲
-    zh-cn: 水龙骨亚纲
-    zh-hans: 水龙骨亚纲
-    zh-hant: 水龍骨亞綱
-    zh-tw: 水龍骨亞綱
+    zh_cn: 水龙骨亚纲
+    zh_hans: 水龙骨亚纲
+    zh_hant: 水龍骨亞綱
+    zh_tw: 水龍骨亞綱
 ---
 # [[Leptosporangiate_Ferns]] 
 

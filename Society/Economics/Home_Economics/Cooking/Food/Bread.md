@@ -283,7 +283,7 @@ dv_has_:
     bas: bɛɖɛɛ̀
     bcl: tinapay
     be: хлеб
-    be-tarask: хлеб
+    be_tarask: хлеб
     bew: Roti
     bg: хляб
     bjn: roti
@@ -301,7 +301,7 @@ dv_has_:
     co: pane
     cr: ᐲᐧᓭᐋᐃᐦᑯᓈᐤ
     crh: ötmek
-    crh-latn: ötmek
+    crh_latn: ötmek
     cs: chléb
     csb: chléb
     cu: хлѣбъ
@@ -310,7 +310,7 @@ dv_has_:
     da: brød
     dag: boroboro
     de: Brot
-    de-ch: Brot
+    de_ch: Brot
     diq: Nan
     dsb: klěb
     ee: abolo
@@ -318,8 +318,8 @@ dv_has_:
     el: ψωμί
     eml: pane
     en: bread
-    en-ca: bread
-    en-gb: bread
+    en_ca: bread
+    en_gb: bread
     en-us: bread
     eo: pano
     es: pan
@@ -408,7 +408,7 @@ dv_has_:
     ltg: maize
     lv: maize
     lzh: 麭
-    map-bms: roti
+    map_bms: roti
     mdf: кши
     mg: mofo
     mi: parāoa
@@ -421,7 +421,7 @@ dv_has_:
     mr: पाव
     mrj: киндӹ
     ms: roti
-    ms-arab: روتي
+    ms_arab: روتي
     mt: ħobż
     mwl: pan
     my: နံပြား
@@ -431,7 +431,7 @@ dv_has_:
     nap: ppane
     nb: brød
     nds: Broot
-    nds-nl: brood
+    nds_nl: brood
     ne: रोटी
     new: मरी
     nl: brood
@@ -491,8 +491,8 @@ dv_has_:
     so: rooti
     sq: bukë
     sr: хлеб
-    sr-ec: хлеб
-    sr-el: hleb
+    sr_ec: хлеб
+    sr_el: hleb
     srn: brede
     st: bohobe
     su: roti
@@ -535,14 +535,14 @@ dv_has_:
     za: Mienhbau
     zgh: ⴰⵖⵔⵓⵎ
     zh: 麵包
-    zh-cn: 面包
-    zh-hans: 面包
-    zh-hant: 麵包
-    zh-hk: 麪包
-    zh-mo: 麪包
+    zh_cn: 面包
+    zh_hans: 面包
+    zh_hant: 麵包
+    zh_hk: 麪包
+    zh_mo: 麪包
     zh-my: 面包
-    zh-sg: 面包
-    zh-tw: 麵包
+    zh_sg: 面包
+    zh_tw: 麵包
     zu: isinkwa
 ---
 # [[Bread]] 🍞 

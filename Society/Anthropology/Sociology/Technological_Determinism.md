@@ -45,7 +45,7 @@ dv_has_:
     ar: حتمية تقانية
     ast: Determinismu tecnolóxicu
     az: Texnoloji determinizm
-    be-tarask: тэхналягічны дэтэрмінізм
+    be_tarask: тэхналягічны дэтэрмінізм
     bs: Tehnološki determinizam
     ca: determinisme tecnològic
     cs: technologický determinismus

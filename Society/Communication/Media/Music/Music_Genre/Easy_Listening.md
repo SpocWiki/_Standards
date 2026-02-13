@@ -51,7 +51,7 @@ dv_has_:
   name_:
     ar: إيزي ليسينينج
     ast: Easy listening
-    be-tarask: лёгкая музыка
+    be_tarask: лёгкая музыка
     ca: música lleugera
     cs: easy listening
     cy: canol y ffordd
@@ -59,7 +59,7 @@ dv_has_:
     de: Easy Listening
     el: Easy listening
     en: easy listening
-    en-gb: easy listening
+    en_gb: easy listening
     eo: fonmuziko
     es: música ligera
     et: Easy listening
@@ -90,7 +90,7 @@ dv_has_:
     nn: easy listening
     pl: Easy listening
     pt: easy listening
-    pt-br: easy listening
+    pt_br: easy listening
     ro: muzică ușoară
     ru: easy listening
     se: ájanasmusihkka
@@ -104,9 +104,9 @@ dv_has_:
     tr: Easy Listening
     uk: Легка музика
     zh: 輕音樂
-    zh-cn: 轻松流行乐
-    zh-hans: 易听音乐
-    zh-hant: 輕鬆流行樂
+    zh_cn: 轻松流行乐
+    zh_hans: 易听音乐
+    zh_hant: 輕鬆流行樂
 ---
 # [[Easy_Listening]] 
 

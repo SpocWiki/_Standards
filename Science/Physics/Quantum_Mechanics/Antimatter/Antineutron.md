@@ -62,15 +62,15 @@ dv_has_:
     ast: Antineutrón
     az: Antineytron
     be: Антынейтрон
-    be-tarask: антынэўтрон
+    be_tarask: антынэўтрон
     ca: antineutró
     co: Antineutronu
     cs: Antineutron
     de: Antineutron
     el: αντινετρόνιο
     en: antineutron
-    en-ca: Antineutron
-    en-gb: Antineutron
+    en_ca: Antineutron
+    en_gb: Antineutron
     eo: antineŭtrono
     es: antineutrón
     eu: antineutroi
@@ -87,11 +87,11 @@ dv_has_:
     ja: 反中性子
     ka: ანტინეიტრონი
     kk: Антинейтрон
-    kk-arab: انتىينەيترون
+    kk_arab: انتىينەيترون
     kk-cn: انتىينەيترون
-    kk-cyrl: Антинейтрон
+    kk_cyrl: Антинейтрон
     kk-kz: Антинейтрон
-    kk-latn: Antïneýtron
+    kk_latn: Antïneýtron
     kk-tr: Antïneýtron
     ko: 반중성자
     ky: Антинейтрон
@@ -105,7 +105,7 @@ dv_has_:
     oc: Antineutron
     pl: antyneutron
     pt: antineutrão
-    pt-br: antinêutron
+    pt_br: antinêutron
     ro: Antineutron
     ru: антинейтрон
     se: antineutrona
@@ -114,8 +114,8 @@ dv_has_:
     smn: antineutroon
     sms: antineutroon
     sr: антинеутрон
-    sr-ec: антинеутрон
-    sr-el: antineutron
+    sr_ec: антинеутрон
+    sr_el: antineutron
     sv: antineutron
     tg: Антинейтрон
     th: แอนตินิวตรอน
@@ -125,12 +125,12 @@ dv_has_:
     vi: phản nơtron
     yue: 反中子
     zh: 反中子
-    zh-cn: 反中子
-    zh-hans: 反中子
-    zh-hant: 反中子
-    zh-hk: 反中子
-    zh-sg: 反中子
-    zh-tw: 反中子
+    zh_cn: 反中子
+    zh_hans: 反中子
+    zh_hant: 反中子
+    zh_hk: 反中子
+    zh_sg: 反中子
+    zh_tw: 反中子
 ---
 # [[Antineutron]] 
 

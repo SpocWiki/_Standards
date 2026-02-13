@@ -75,14 +75,14 @@ dv_has_:
     az: Ayaqqəlsəməlilər
     azb: آیاققلسمهلیلر
     be: Жабраногія
-    be-tarask: шчэлепаногія
+    be_tarask: шчэлепаногія
     bg: Хрилоноги
     ca: Branquiòpode
     ceb: Branchiopoda
     cs: lupenonožci
     da: gællefødder
     de: Kiemenfußkrebse
-    de-ch: Kiemenfusskrebse
+    de_ch: Kiemenfusskrebse
     el: βραγχιόποδα
     en: Branchiopoda
     eo: Brankiopodoj
@@ -108,11 +108,11 @@ dv_has_:
     ja: 鰓脚綱
     jv: Branchiopoda
     kk: Желбезекаяқты шаянтәрізділер
-    kk-arab: جەلبەزەكاياقتى شايانتارىزدىلەر
+    kk_arab: جەلبەزەكاياقتى شايانتارىزدىلەر
     kk-cn: جەلبەزەكاياقتى شايانتارىزدىلەر
-    kk-cyrl: Желбезекаяқты шаянтәрізділер
+    kk_cyrl: Желбезекаяқты шаянтәрізділер
     kk-kz: Желбезекаяқты шаянтәрізділер
-    kk-latn: Jelbezekayaqtı şayantärizdiler
+    kk_latn: Jelbezekayaqtı şayantärizdiler
     kk-tr: Jelbezekayaqtı şayantärizdiler
     ko: 새각강
     ky: Бакалоор буттуулар
@@ -129,7 +129,7 @@ dv_has_:
     oc: Branchiopoda
     pl: skrzelonogi
     pt: Branchiopoda
-    pt-br: Branchiopoda
+    pt_br: Branchiopoda
     ro: Branhiopode
     ru: жаброногие
     sk: lupeňonôžky
@@ -145,12 +145,12 @@ dv_has_:
     wuu: 鳃足纲
     yue: 鰓足綱
     zh: 鰓足綱
-    zh-cn: 鳃足纲
-    zh-hans: 鳃足纲
-    zh-hant: 鰓足綱
-    zh-hk: 鰓足綱
-    zh-sg: 鳃足纲
-    zh-tw: 鰓足綱
+    zh_cn: 鳃足纲
+    zh_hans: 鳃足纲
+    zh_hant: 鰓足綱
+    zh_hk: 鰓足綱
+    zh_sg: 鳃足纲
+    zh_tw: 鰓足綱
 ---
 # [[Branchiopoda]] 
 

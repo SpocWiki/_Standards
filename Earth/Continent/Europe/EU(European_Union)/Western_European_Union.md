@@ -113,7 +113,7 @@ dv_has_:
     az: Qərbi Avropa Birliyi
     azb: باتی آوروپا بیرلیگی
     be: Заходнееўрапейскі саюз
-    be-tarask: Заходнеэўрапейскі зьвяз
+    be_tarask: Заходнеэўрапейскі зьвяз
     bg: Западноевропейски съюз
     ca: Unió Europea Occidental
     cs: Západoevropská unie
@@ -122,7 +122,7 @@ dv_has_:
     de: Westeuropäische Union
     el: Δυτική Ευρωπαϊκή Ένωση
     en: Western European Union
-    en-gb: Western European Union
+    en_gb: Western European Union
     eo: Okcident-Eŭropa Unio
     es: Unión Europea Occidental
     et: Lääne-Euroopa Liit
@@ -160,20 +160,20 @@ dv_has_:
     sk: Západoeurópska únia
     sl: Zahodnoevropska unija
     sr: Западноевропска унија
-    sr-ec: Западноевропска унија
-    sr-el: Zapadnoevropska unija
+    sr_ec: Западноевропска унија
+    sr_el: Zapadnoevropska unija
     sv: Västeuropeiska unionen
     tr: Batı Avrupa Birliği
     uk: Західноєвропейський союз
     vec: Union Eoropea Osidentałe
     vi: Liên minh Tây Âu
     zh: 西歐聯盟
-    zh-cn: 西欧联盟
-    zh-hans: 西欧联盟
-    zh-hant: 西歐聯盟
-    zh-hk: 西歐聯盟
-    zh-sg: 西欧联盟
-    zh-tw: 西歐聯盟
+    zh_cn: 西欧联盟
+    zh_hans: 西欧联盟
+    zh_hant: 西歐聯盟
+    zh_hk: 西歐聯盟
+    zh_sg: 西欧联盟
+    zh_tw: 西歐聯盟
 ---
 # [[Western_European_Union]] 
 

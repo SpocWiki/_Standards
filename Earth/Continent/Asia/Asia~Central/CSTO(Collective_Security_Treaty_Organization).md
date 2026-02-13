@@ -173,7 +173,7 @@ dv_has_:
     azb: جمعی امنیت آنلاشماسی تشکیلاتی
     ba: Коллектив хәүефһеҙлек тураһындағы договор ойошмаһы
     be: Арганізацыя Дагавора аб калектыўнай бяспецы
-    be-tarask: Арганізацыя Дамовы аб калектыўнай бясьпецы
+    be_tarask: Арганізацыя Дамовы аб калектыўнай бясьпецы
     bg: Организация на Договора за колективна сигурност
     ca: Organització del Tractat de Seguretat Col·lectiva
     cs: Organizace Smlouvy o kolektivní bezpečnosti
@@ -181,8 +181,8 @@ dv_has_:
     de: Organisation des Vertrags über kollektive Sicherheit
     el: Οργανισμός της Συνθήκης Συλλογικής Ασφαλείας
     en: Collective Security Treaty Organization
-    en-ca: Collective Security Treaty Organization
-    en-gb: Collective Security Treaty Organisation
+    en_ca: Collective Security Treaty Organization
+    en_gb: Collective Security Treaty Organisation
     eo: Organizaĵo de la Traktato por Kolektiva Sekureco
     es: Organización del Tratado de la Seguridad Colectiva
     et: Kollektiivse Julgeoleku Lepingu Organisatsioon
@@ -202,11 +202,11 @@ dv_has_:
     ja: 集団安全保障条約機構
     ka: კოლექტიური უსაფრთხოების ხელშეკრულების ორგანიზაცია
     kk: Ұжымдық қауіпсіздік туралы шарт ұйымы
-    kk-arab: ۇجىمدىق قاۋىپسىزدىك كەلىسىمى
+    kk_arab: ۇجىمدىق قاۋىپسىزدىك كەلىسىمى
     kk-cn: ۇجىمدىق قاۋىپسىزدىك كەلىسىمى
-    kk-cyrl: Ұжымдық қауіпсіздік келісімі
+    kk_cyrl: Ұжымдық қауіпсіздік келісімі
     kk-kz: Ұжымдық қауіпсіздік келісімі
-    kk-latn: Ujımdıq qawipsizdik kelisimi
+    kk_latn: Ujımdıq qawipsizdik kelisimi
     kk-tr: Ujımdıq qawipsizdik kelisimi
     ko: 집단안보조약기구
     kv: Коллективнӧй Безопасносьт йылысь Сёрнитчӧм Котыртӧм
@@ -223,7 +223,7 @@ dv_has_:
     os: Коллективон æдасдзинады бадзырды организаци
     pl: Organizacja Układu o Bezpieczeństwie Zbiorowym
     pt: Organização do Tratado de Segurança Coletiva
-    pt-br: Organização do Tratado de Segurança Coletiva
+    pt_br: Organização do Tratado de Segurança Coletiva
     ro: Organizația Tratatului de Securitate Colectivă
     ru: Организация Договора о коллективной безопасности
     sh: Organizacija Ugovora o Zajedničkoj Bezbednosti
@@ -231,11 +231,11 @@ dv_has_:
     sl: Organizacija Pogodbe o kolektivni varnosti
     sq: Organizata e Traktatit të Sigurisë Kolektive
     sr: ОДКБ
-    sr-ec: Организација Уговора о заједничкој безбедности
-    sr-el: Organizacija Ugovora o zajedničkoj bezbednosti
+    sr_ec: Организација Уговора о заједничкој безбедности
+    sr_el: Organizacija Ugovora o zajedničkoj bezbednosti
     sv: Kollektiva säkerhetsavtalsorganisationen
     tg: Созмони Паймони Амнияти Дастаҷамъӣ
-    tg-latn: Sozmoni Pajmoni Amnijati Dastaçam'ī
+    tg_latn: Sozmoni Pajmoni Amnijati Dastaçam'ī
     th: องค์การสนธิสัญญาความมั่นคงร่วมกัน
     tr: Kolektif Güvenlik Anlaşması Örgütü
     tt: Коллектив хәвефсезлек килешүе оешмасы
@@ -246,12 +246,12 @@ dv_has_:
     xmf: კოლექტიური უშქურანჯობაშ აპიჯალაშ ორგანიზაცია
     yue: 集體安全條約組織
     zh: 集体安全条约组织
-    zh-cn: 集体安全条约组织
-    zh-hans: 集体安全条约组织
-    zh-hant: 集體安全條約組織
-    zh-hk: 集體安全條約組織
-    zh-sg: 集体安全条约组织
-    zh-tw: 集體安全條約組織
+    zh_cn: 集体安全条约组织
+    zh_hans: 集体安全条约组织
+    zh_hant: 集體安全條約組織
+    zh_hk: 集體安全條約組織
+    zh_sg: 集体安全条约组织
+    zh_tw: 集體安全條約組織
 ---
 # [[CSTO(Collective_Security_Treaty_Organization)]] 
 

@@ -314,7 +314,7 @@ dv_has_:
     ba: Йоһанн Себастьян Бах
     bar: Johann Sebastian Bach
     be: Іаган Себасцьян Бах
-    be-tarask: Ёган Сэбастыян Бах
+    be_tarask: Ёган Сэбастыян Бах
     bew: Johan Sébastian Bah
     bg: Йохан Себастиан Бах
     bho: जोहान सैबस्टियन बाख
@@ -325,7 +325,7 @@ dv_has_:
     btm: Johann Sebastian Bach
     bxr: Иоханн Себастьян Бах
     ca: Johann Sebastian Bach
-    cbk-zam: Johann Sebastian Bach
+    cbk_zam: Johann Sebastian Bach
     cdo: Bă-háik
     ce: Бах, Иоганн Себастьян
     ceb: Johann Sebastian Bach
@@ -339,12 +339,12 @@ dv_has_:
     cy: Johann Sebastian Bach
     da: Johann Sebastian Bach
     de: Johann Sebastian Bach
-    de-ch: Johann Sebastian Bach
+    de_ch: Johann Sebastian Bach
     diq: Johann Sebastian Bach
     el: Γιόχαν Σεμπάστιαν Μπαχ
     en: Johann Sebastian Bach
-    en-ca: Johann Sebastian Bach
-    en-gb: Johann Sebastian Bach
+    en_ca: Johann Sebastian Bach
+    en_gb: Johann Sebastian Bach
     eo: Johann Sebastian Bach
     es: Johann Sebastian Bach
     et: Johann Sebastian Bach
@@ -416,7 +416,7 @@ dv_has_:
     lv: Johans Sebastiāns Bahs
     lzh: 巴赫
     mai: योहान सेबास्तियन बाख
-    map-bms: Johann Sebastian Bach
+    map_bms: Johann Sebastian Bach
     mg: Johann Sebastian Bach
     mhr: Иоганн Себастьян Бах
     min: Johann Sebastian Bach
@@ -434,7 +434,7 @@ dv_has_:
     nan: Johann Sebastian Bach
     nb: Johann Sebastian Bach
     nds: Johann Sebastian Bach
-    nds-nl: Johann Sebastian Bach
+    nds_nl: Johann Sebastian Bach
     ne: योहान सेबास्तियन बाख
     new: योहान सेबेस्टियन बाख
     nl: Johann Sebastian Bach
@@ -456,7 +456,7 @@ dv_has_:
     pnb: یوہان سبسٹیان باخ
     ps: جوهان سباستیان باچ
     pt: Johann Sebastian Bach
-    pt-br: Johann Sebastian Bach
+    pt_br: Johann Sebastian Bach
     qu: Johann Sebastian Bach
     rmf: Johann Sebastian Bach
     ro: Johann Sebastian Bach
@@ -506,7 +506,7 @@ dv_has_:
     tok: jan Pa
     tr: Johann Sebastian Bach
     tt: Иоһанн Себастьян Бах
-    tt-cyrl: Иоһанн Себастьян Бах
+    tt_cyrl: Иоһанн Себастьян Бах
     ug: يوھان سېباستىيان باخ
     uk: Йоганн Себастьян Бах
     ur: جوہن باخ
@@ -528,14 +528,14 @@ dv_has_:
     yue: 巴哈
     zea: Johann Sebastian Bach
     zh: 约翰·塞巴斯蒂安·巴赫
-    zh-cn: 约翰·塞巴斯蒂安·巴赫
-    zh-hans: 约翰·塞巴斯蒂安·巴赫
-    zh-hant: 約翰·塞巴斯蒂安·巴赫
-    zh-hk: 約翰·施巴提恩·巴哈
-    zh-mo: 約翰·施巴提恩·巴哈
+    zh_cn: 约翰·塞巴斯蒂安·巴赫
+    zh_hans: 约翰·塞巴斯蒂安·巴赫
+    zh_hant: 約翰·塞巴斯蒂安·巴赫
+    zh_hk: 約翰·施巴提恩·巴哈
+    zh_mo: 約翰·施巴提恩·巴哈
     zh-my: 约翰·塞巴斯汀·巴哈
-    zh-sg: 约翰·塞巴斯汀·巴哈
-    zh-tw: 約翰·塞巴斯汀·巴哈
+    zh_sg: 约翰·塞巴斯汀·巴哈
+    zh_tw: 約翰·塞巴斯汀·巴哈
     zu: Johann Sebastian Bach
 ---
 # [[Bach,Johann_Sebastian]] 

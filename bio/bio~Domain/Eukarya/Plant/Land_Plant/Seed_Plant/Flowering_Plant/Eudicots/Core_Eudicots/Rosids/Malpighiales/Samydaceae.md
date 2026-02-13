@@ -30,7 +30,7 @@ dv_has_:
     oc: Samydaceae
     pl: Samydaceae
     pt: Samydaceae
-    pt-br: Samydaceae
+    pt_br: Samydaceae
     ro: Samydaceae
     ru: Samydaceae
     sq: Samydaceae

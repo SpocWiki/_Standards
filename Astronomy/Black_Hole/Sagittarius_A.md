@@ -82,7 +82,7 @@ dv_has_:
     af: Sagittarius A*
     ar: الرامي A*
     ary: ساجيطاريوس A نجمة
-    be-tarask: Стралец А*
+    be_tarask: Стралец А*
     bg: Стрелец А*
     bn: ধনু এ*
     ca: Sagitari A*
@@ -138,12 +138,12 @@ dv_has_:
     wuu: 人马座A*
     yue: 人馬座A*
     zh: 人馬座A*
-    zh-cn: 人马座A*
-    zh-hans: 人马座A*
-    zh-hant: 人馬座A*
-    zh-hk: 人馬座A*
-    zh-sg: 人马座A*
-    zh-tw: 人馬座A*
+    zh_cn: 人马座A*
+    zh_hans: 人马座A*
+    zh_hant: 人馬座A*
+    zh_hk: 人馬座A*
+    zh_sg: 人马座A*
+    zh_tw: 人馬座A*
 ---
 # [[Sagittarius_A]] 
 

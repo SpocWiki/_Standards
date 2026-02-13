@@ -168,7 +168,7 @@ dv_has_:
     azb: سون یات سن
     ba: Сунь Ятсен
     be: Сунь Ятсен
-    be-tarask: Сунь Ятсэн
+    be_tarask: Сунь Ятсэн
     bg: Сун Ятсен
     bn: সান ইয়াত-সেন
     bo: སུན་ཀྲུང་ཧྲན།
@@ -187,8 +187,8 @@ dv_has_:
     de: Sun Yat-sen
     el: Σουν Γιατ-Σεν
     en: Sun Yat-sen
-    en-ca: Sun Yat-sen
-    en-gb: Sun Yat-sen
+    en_ca: Sun Yat-sen
+    en_gb: Sun Yat-sen
     en-us: Sun Yat-sen
     eo: Sun Jatsen
     es: Sun Yat-sen
@@ -290,14 +290,14 @@ dv_has_:
     yue: 孫文
     za: Sunh Cunghsanh
     zh: 孫中山
-    zh-cn: 孙中山
-    zh-hans: 孙中山
-    zh-hant: 孫中山
-    zh-hk: 孫中山
-    zh-mo: 孫中山
+    zh_cn: 孙中山
+    zh_hans: 孙中山
+    zh_hant: 孫中山
+    zh_hk: 孫中山
+    zh_mo: 孫中山
     zh-my: 孙中山
-    zh-sg: 孙中山
-    zh-tw: 孫中山
+    zh_sg: 孙中山
+    zh_tw: 孫中山
 ---
 ## #has_/text_of_/abstract 
 

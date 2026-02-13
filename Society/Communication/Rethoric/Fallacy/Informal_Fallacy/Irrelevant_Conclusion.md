@@ -38,7 +38,7 @@ subclass_of: '[[_Standards/WikiData/WD~relevance_fallacy,105291550]]'
 dv_has_:
   name_:
     ar: تجاهل المطلوب
-    be-tarask: хібная выснова
+    be_tarask: хібная выснова
     da: Ignoratio elenchi
     de: Ignoratio elenchi
     el: Άγνοια ελέγχου
@@ -76,9 +76,9 @@ dv_has_:
     uk: хибний висновок
     yue: 唔啦更謬論
     zh: 不相干的謬誤
-    zh-hans: 歪曲论题
-    zh-hant: 不相干的謬誤
-    zh-hk: 歪曲論題
+    zh_hans: 歪曲论题
+    zh_hant: 不相干的謬誤
+    zh_hk: 歪曲論題
 ---
 # [[Irrelevant_Conclusion]] 
 

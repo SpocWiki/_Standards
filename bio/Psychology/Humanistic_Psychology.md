@@ -57,7 +57,7 @@ dv_has_:
     ast: Psicoloxía humanista
     az: Humanist psixologiya
     azb: اینسانلیق سایکولوژی
-    be-tarask: гуманістычная псыхалёгія
+    be_tarask: гуманістычная псыхалёгія
     bg: Хуманистична психология
     bn: মানবতাবাদী মনোবিজ্ঞান
     ca: psicologia humanista
@@ -66,8 +66,8 @@ dv_has_:
     de: Humanistische Psychologie
     el: Ανθρωπιστική ψυχολογία
     en: humanistic psychology
-    en-ca: Humanistic psychology
-    en-gb: humanistic psychology
+    en_ca: Humanistic psychology
+    en_gb: humanistic psychology
     eo: humanisma psikologio
     es: psicología humanista
     et: Humanistlik psühholoogia
@@ -107,9 +107,9 @@ dv_has_:
     wuu: 人本主义心理学
     yue: 人本主義心理學
     zh: 人本主义心理学
-    zh-cn: 人本主义心理学
-    zh-hans: 人本主义心理学
-    zh-hant: 人本主义心理学
+    zh_cn: 人本主义心理学
+    zh_hans: 人本主义心理学
+    zh_hant: 人本主义心理学
 ---
 # [[Humanistic_Psychology]] 
 

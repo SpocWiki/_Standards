@@ -56,7 +56,7 @@ dv_has_:
     ast: Estudios de ciencia, tecnoloxía y sociedá
     az: Elm və texnologiya tədqiqatları
     ba: фән һәм технологияны өйрәнеү
-    be-tarask: антрапалёгія тэхналёгіяў
+    be_tarask: антрапалёгія тэхналёгіяў
     ca: Estudis de ciència, tecnologia i societat
     da: videnskab- og teknologistudier
     de: Science and Technology Studies
@@ -94,10 +94,10 @@ dv_has_:
     vi: khoa học, công nghệ và xã hội
     yue: 科技研究
     zh: 科技研究
-    zh-hans: 科技研究
-    zh-hant: 科技研究
-    zh-hk: 科技研究
-    zh-tw: 科技研究
+    zh_hans: 科技研究
+    zh_hant: 科技研究
+    zh_hk: 科技研究
+    zh_tw: 科技研究
 ---
 # [[Science_and_Technology_Studies]] 
 

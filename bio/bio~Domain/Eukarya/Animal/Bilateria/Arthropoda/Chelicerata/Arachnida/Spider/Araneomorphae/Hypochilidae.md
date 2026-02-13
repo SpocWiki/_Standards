@@ -22,10 +22,10 @@ dv_has_:
     ca: Hipoquílid
     ceb: Hypochilidae
     de: Hypochilidae
-    de-ch: Hypochilidae
+    de_ch: Hypochilidae
     en: Hypochilidae
-    en-ca: Lampshade spider
-    en-gb: Lampshade spider
+    en_ca: Lampshade spider
+    en_gb: Lampshade spider
     eo: Hypochilidae
     es: Hypochilidae
     eu: Hypochilidae
@@ -48,7 +48,7 @@ dv_has_:
     oc: Hypochilidae
     pl: Hypochilidae
     pt: Hypochilidae
-    pt-br: Hypochilidae
+    pt_br: Hypochilidae
     ro: Hypochilidae
     ru: абажуровые пауки
     sq: Hypochilidae
@@ -59,9 +59,9 @@ dv_has_:
     vo: Hypochilidae
     war: Hypochilidae
     zh: 古筛器蛛科
-    zh-cn: 古筛器蛛科
-    zh-hans: 古筛器蛛科
-    zh-tw: 古篩噐蛛科
+    zh_cn: 古筛器蛛科
+    zh_hans: 古筛器蛛科
+    zh_tw: 古篩噐蛛科
 ---
 # [[Hypochilidae]]  
 ![ ](Hypochilidae/hypochilus_pococki.jpg) 

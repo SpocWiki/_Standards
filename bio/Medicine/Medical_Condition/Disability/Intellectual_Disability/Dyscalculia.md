@@ -116,9 +116,9 @@ dv_has_:
     vi: Chứng khó học toán
     yo: Ìṣòro Ṣíṣe Ìṣírò
     zh: 難以處理數學學科
-    zh-cn: 计算障碍
-    zh-hans: 计算障碍
-    zh-hant: 計算障礙
+    zh_cn: 计算障碍
+    zh_hans: 计算障碍
+    zh_hant: 計算障礙
 ---
 # [[Dyscalculia]] 
 

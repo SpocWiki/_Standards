@@ -221,7 +221,7 @@ dv_has_:
     ba: Ельцин Борис Николаевич
     bcl: Boris Yeltsin
     be: Барыс Мікалаевіч Ельцын
-    be-tarask: Барыс Ельцын
+    be_tarask: Барыс Ельцын
     bg: Борис Елцин
     bn: বরিস য়েলৎসিন
     br: Boris Yeltsin
@@ -237,11 +237,11 @@ dv_has_:
     cy: Boris Yeltsin
     da: Boris Jeltsin
     de: Boris Nikolajewitsch Jelzin
-    de-ch: Boris Nikolajewitsch Jelzin
+    de_ch: Boris Nikolajewitsch Jelzin
     el: Μπορίς Γιέλτσιν
     en: Boris Yeltsin
-    en-ca: Boris Yeltsin
-    en-gb: Boris Yeltsin
+    en_ca: Boris Yeltsin
+    en_gb: Boris Yeltsin
     en-us: Boris Yeltsin
     eo: Boris Jelcin
     es: Borís Yeltsin
@@ -310,7 +310,7 @@ dv_has_:
     pnb: بورس یلسن
     ps: بوریس یلتسین
     pt: Boris Iéltsin
-    pt-br: Boris Iéltsin
+    pt_br: Boris Iéltsin
     qu: Boris Yeltsin
     ro: Boris Elțin
     ru: Борис Николаевич Ельцин
@@ -335,7 +335,7 @@ dv_has_:
     tly: Boris Yeltsin
     tr: Boris Yeltsin
     tt: Борис Ельцин
-    tt-cyrl: Борис Ельцин
+    tt_cyrl: Борис Ельцин
     tum: Boris Yeltsin
     udm: Борис Николаевич Ельцин
     uk: Єльцин Борис Миколайович
@@ -351,9 +351,9 @@ dv_has_:
     yo: Boris Yeltsin
     yue: 葉利欽
     zh: 鲍里斯·叶利钦
-    zh-cn: 鲍里斯·叶利钦
-    zh-hans: 鲍里斯·叶利钦
-    zh-hant: 鮑利斯·葉爾欽
+    zh_cn: 鲍里斯·叶利钦
+    zh_hans: 鲍里斯·叶利钦
+    zh_hant: 鮑利斯·葉爾欽
 ---
 # [[Yeltsin,Boris]] 
 

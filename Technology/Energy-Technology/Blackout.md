@@ -4,7 +4,7 @@ dv_has_:
   name_:
     ar: انقطاع الطاقة
     az: Cərəyanın kəsilməsi
-    be-tarask: адключэньне электраэнэргіі
+    be_tarask: адключэньне электраэнэргіі
     bn: বিদ্যুৎ বিভ্রাট
     bs: Nestanak električne energije
     ca: apagada elèctrica
@@ -12,10 +12,10 @@ dv_has_:
     cy: Toriad trydan
     da: strømsvigt
     de: Stromausfall
-    de-ch: Stromausfall
+    de_ch: Stromausfall
     en: power outage
-    en-ca: Power outage
-    en-gb: power outage
+    en_ca: Power outage
+    en_gb: power outage
     eo: elektrorompo
     es: apagón eléctrico
     et: Elektrikatkestus
@@ -40,7 +40,7 @@ dv_has_:
     pl: blackout
     pms: Anterussion elétrica
     pt: apagão
-    pt-br: blecaute
+    pt_br: blecaute
     ro: pană de curent
     ru: авария в энергосистеме
     sl: izpad elektrike
@@ -54,10 +54,10 @@ dv_has_:
     vi: mất điện
     yue: 停電
     zh: 停電
-    zh-hans: 停电
-    zh-hant: 停電
-    zh-hk: 停電
-    zh-tw: 停電
+    zh_hans: 停电
+    zh_hant: 停電
+    zh_hk: 停電
+    zh_tw: 停電
 aliases:
 - Anterussion elétrica
 - apagada elèctrica

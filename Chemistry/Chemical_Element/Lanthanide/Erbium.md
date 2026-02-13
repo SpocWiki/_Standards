@@ -151,7 +151,7 @@ dv_has_:
     ba: Эрбий
     ban: Érbium
     be: эрбій
-    be-tarask: эрб
+    be_tarask: эрб
     bg: ербий
     bho: अर्बियम
     bn: আরবিয়াম
@@ -169,7 +169,7 @@ dv_has_:
     de: Erbium
     el: έρβιο
     en: erbium
-    en-gb: erbium
+    en_gb: erbium
     eo: erbio
     es: erbio
     et: Erbium
@@ -244,7 +244,7 @@ dv_has_:
     pnb: اربیم
     ps: اېربيوم
     pt: érbio
-    pt-br: érbio
+    pt_br: érbio
     qu: Erbyu
     ro: erbiu
     ru: эрбий
@@ -258,7 +258,7 @@ dv_has_:
     sl: erbij
     sq: Erbiumi
     sr: ербијум
-    sr-ec: Ербијум
+    sr_ec: Ербијум
     stq: Erbium
     sv: erbium
     ta: எர்பியம்
@@ -280,11 +280,11 @@ dv_has_:
     yo: Erbium
     yue: 鉺
     zh: 鉺
-    zh-cn: 铒
-    zh-hans: 铒
-    zh-hant: 鉺
-    zh-hk: 鉺
-    zh-tw: 鉺
+    zh_cn: 铒
+    zh_hans: 铒
+    zh_hant: 鉺
+    zh_hk: 鉺
+    zh_tw: 鉺
     zu: INdwembi
   number_of_:
     period: 6

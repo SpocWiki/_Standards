@@ -73,7 +73,7 @@ dv_has_:
     ban: Karma
     bcl: Karma
     be: карма
-    be-tarask: карма
+    be_tarask: карма
     bg: Карма
     bho: कर्म
     bn: কর্ম
@@ -112,11 +112,11 @@ dv_has_:
     jv: Karma
     ka: კარმა
     kk: Карма
-    kk-arab: كارما
+    kk_arab: كارما
     kk-cn: كارما
-    kk-cyrl: Карма
+    kk_cyrl: Карма
     kk-kz: Карма
-    kk-latn: Karma
+    kk_latn: Karma
     kk-tr: Karma
     kn: ಕರ್ಮ
     ko: 업
@@ -145,7 +145,7 @@ dv_has_:
     pl: karma
     ps: کرما په هندويزم کې
     pt: câma
-    pt-br: câma
+    pt_br: câma
     ro: Karma
     ru: Карма
     sa: कर्मन्
@@ -157,8 +157,8 @@ dv_has_:
     so: Galabso
     sq: karma
     sr: Карма
-    sr-ec: Карма
-    sr-el: Karma
+    sr_ec: Карма
+    sr_el: Karma
     sv: karma
     ta: கர்மா
     te: కర్మ
@@ -176,12 +176,12 @@ dv_has_:
     wuu: 业
     yue: 業
     zh: 業
-    zh-cn: 业
-    zh-hans: 业
-    zh-hant: 業
-    zh-hk: 業
-    zh-sg: 业
-    zh-tw: 業
+    zh_cn: 业
+    zh_hans: 业
+    zh_hant: 業
+    zh_hk: 業
+    zh_sg: 业
+    zh_tw: 業
 ---
 # [[Karma]] 
 

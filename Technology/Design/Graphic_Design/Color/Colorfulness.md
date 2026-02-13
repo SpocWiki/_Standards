@@ -49,7 +49,7 @@ dv_has_:
   name_:
     ar: تلون
     be: Насычанасць
-    be-tarask: насычанасьць
+    be_tarask: насычанасьць
     ca: Saturació cromàtica
     cs: sytost
     de: Farbsättigung
@@ -85,8 +85,8 @@ dv_has_:
     wuu: 色度
     yue: 彩度
     zh: 色度
-    zh-hans: 色度
-    zh-hant: 色度
+    zh_hans: 色度
+    zh_hant: 色度
 ---
 # [[Colorfulness]] 
 

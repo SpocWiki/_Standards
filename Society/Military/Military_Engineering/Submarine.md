@@ -171,7 +171,7 @@ dv_has_:
     az: Sualtı Qayıq
     ba: Һыу аҫты кәмәһе
     be: Падводная лодка
-    be-tarask: падводная лодка
+    be_tarask: падводная лодка
     bg: Подводница
     bjn: Kapal sélam
     bn: ডুবোজাহাজ
@@ -186,11 +186,11 @@ dv_has_:
     cy: Llong danfor
     da: undervandsbåd
     de: U-Boot
-    de-ch: U-Boot
+    de_ch: U-Boot
     el: υποβρύχιο
     en: submarine
-    en-ca: Submarine
-    en-gb: submarine
+    en_ca: Submarine
+    en_gb: submarine
     eo: submarŝipo
     es: submarino
     et: allveelaev
@@ -255,7 +255,7 @@ dv_has_:
     pnb: پنڈوبی
     ps: اوبتل
     pt: submarino
-    pt-br: submarino
+    pt_br: submarino
     ro: submarin
     ru: подводная лодка
     sco: submarine
@@ -274,8 +274,8 @@ dv_has_:
     so: Gujis
     sq: nëndetse
     sr: подморница
-    sr-ec: подморница
-    sr-el: podmornica
+    sr_ec: подморница
+    sr_el: podmornica
     su: Kapal silem
     sv: ubåt
     sw: Nyambizi
@@ -300,8 +300,8 @@ dv_has_:
     yue: 潛水艇
     za: Cenzsuijdingj
     zh: 潛艇
-    zh-hant: 潛艇
-    zh-tw: 潛艦
+    zh_hant: 潛艇
+    zh_tw: 潛艦
     zu: Umkhumbi-ngwenya
 ---
 # [[Submarine]] 

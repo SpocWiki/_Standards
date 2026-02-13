@@ -84,7 +84,7 @@ dv_has_:
     ar: نفاذية
     ast: Permeabilidá magnética
     be: Магнітная пранікальнасць
-    be-tarask: магнітная пранікальнасьць
+    be_tarask: магнітная пранікальнасьць
     bg: Магнитна проницаемост
     bs: Permeabilnost
     ca: permeabilitat
@@ -93,8 +93,8 @@ dv_has_:
     de: magnetische Permeabilität
     el: Μαγνητική διαπερατότητα
     en: magnetic permeability
-    en-ca: Permeability
-    en-gb: Permeability
+    en_ca: Permeability
+    en_gb: Permeability
     eo: magneta permeablo
     es: permeabilidad magnética
     et: Magnetiline läbitavus
@@ -125,7 +125,7 @@ dv_has_:
     nn: magnetisk permeabilitet
     pl: przenikalność magnetyczna
     pt: permeabilidade magnética
-    pt-br: Permeabilidade magnética
+    pt_br: Permeabilidade magnética
     ro: Permeabilitate magnetică
     ru: магнитная проницаемость
     sh: Magnetna permeabilnost

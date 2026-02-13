@@ -315,7 +315,7 @@ dv_has_:
     bas: bíkáy
     bcl: tinanom
     be: расліны
-    be-tarask: расьліны
+    be_tarask: расьліны
     bew: Tumbuan
     bg: растения
     bho: पौधा
@@ -347,8 +347,8 @@ dv_has_:
     dv: ގަސް
     el: φυτό
     en: plant
-    en-ca: plant
-    en-gb: plant
+    en_ca: plant
+    en_gb: plant
     en-us: plant
     eo: planto
     es: planta
@@ -435,7 +435,7 @@ dv_has_:
     lzh: 植物
     mad: bernyèng
     mai: वनस्पति
-    map-bms: tanduran
+    map_bms: tanduran
     mg: zavamaniry
     mhr: кушкыл
     min: tumbuahan
@@ -447,7 +447,7 @@ dv_has_:
     mr: वनस्पती
     mrj: кушкыш
     ms: tumbuhan
-    ms-arab: تومبوهن
+    ms_arab: تومبوهن
     mt: pjanta
     mul: Plantae
     mwl: planta
@@ -459,7 +459,7 @@ dv_has_:
     nap: plantæ
     nb: planter
     nds: Planten
-    nds-nl: plaanten
+    nds_nl: plaanten
     ne: वनस्पति
     new: मा
     nl: planten
@@ -482,7 +482,7 @@ dv_has_:
     pnb: پودا
     ps: بوټی
     pt: Plantae
-    pt-br: planta
+    pt_br: planta
     qu: yura
     rki: အပင်
     ro: plantă
@@ -509,8 +509,8 @@ dv_has_:
     so: beer
     sq: bimë
     sr: биљка
-    sr-ec: биљка
-    sr-el: biljka
+    sr_ec: биљка
+    sr_el: biljka
     ss: timila
     st: dimela
     stq: Plonten
@@ -531,7 +531,7 @@ dv_has_:
     tpi: sayor
     tr: bitki
     tt: үсемлекләр
-    tt-cyrl: үсемлекләр
+    tt_cyrl: үсемлекләр
     tum: vyakumela
     udm: будос
     ug: ئۆسۈملۈك
@@ -557,14 +557,14 @@ dv_has_:
     za: doenghgo
     zea: plant'n
     zh: 植物
-    zh-cn: 植物
-    zh-hans: 植物
-    zh-hant: 植物
-    zh-hk: 植物
-    zh-mo: 植物
+    zh_cn: 植物
+    zh_hans: 植物
+    zh_hant: 植物
+    zh_hk: 植物
+    zh_mo: 植物
     zh-my: 植物
-    zh-sg: 植物
-    zh-tw: 植物
+    zh_sg: 植物
+    zh_tw: 植物
     zu: izitshalo
 ---
 # [[Plant]] 

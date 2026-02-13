@@ -161,7 +161,7 @@ dv_has_:
     bar: Pfluag
     bcl: arado
     be: плуг
-    be-tarask: плуг
+    be_tarask: плуг
     bg: плуг
     bho: हर
     bn: হাল
@@ -181,8 +181,8 @@ dv_has_:
     diq: haleti
     el: άροτρο
     en: plough
-    en-ca: plough
-    en-gb: plough
+    en_ca: plough
+    en_gb: plough
     en-us: plow
     eo: plugilo
     es: arado
@@ -291,8 +291,8 @@ dv_has_:
     yi: אַקער
     yue: 犂
     zh: 犁
-    zh-hans: 犁
-    zh-hant: 犁
+    zh_hans: 犁
+    zh_hant: 犁
 ---
 # [[Plough]] 
 

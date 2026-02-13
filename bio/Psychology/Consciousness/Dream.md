@@ -13,7 +13,7 @@ dv_has_:
     azb: یوخوگؤرمه
     bbc: Nipi
     bcl: Pangatorogan
-    be-tarask: сьненьне
+    be_tarask: сьненьне
     bg: сънища
     bn: স্বপ্ন
     br: hunvre
@@ -94,7 +94,7 @@ dv_has_:
     pam: panínap
     pl: marzenia senne
     pt: sonho
-    pt-br: sonho
+    pt_br: sonho
     qu: musquy
     ro: vis
     ru: сновидение
@@ -133,10 +133,10 @@ dv_has_:
     yue: 夢
     za: Fangzhwnz
     zh: 夢
-    zh-cn: 梦
-    zh-hans: 梦
-    zh-hant: 夢
-    zh-tw: 夢
+    zh_cn: 梦
+    zh_hans: 梦
+    zh_hant: 夢
+    zh_tw: 夢
     zu: amaphupho
 aliases:
 - aisling

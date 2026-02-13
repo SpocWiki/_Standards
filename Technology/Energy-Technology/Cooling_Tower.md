@@ -76,7 +76,7 @@ dv_has_:
     ast: Torre de refrigeración
     ba: Градирня
     be: Градзірня
-    be-tarask: градырня
+    be_tarask: градырня
     bg: Охладителна кула
     ca: Torre de refrigeració
     cs: chladicí věž
@@ -101,11 +101,11 @@ dv_has_:
     it: torre di raffreddamento
     ja: 冷却塔
     kk: Градирня
-    kk-arab: گرادىيرنيا
+    kk_arab: گرادىيرنيا
     kk-cn: گرادىيرنيا
-    kk-cyrl: Градирня
+    kk_cyrl: Градирня
     kk-kz: Градирня
-    kk-latn: Gradïrnya
+    kk_latn: Gradïrnya
     kk-tr: Gradïrnya
     kn: ಶೈತ್ಯಗೋಪುರ
     ko: 냉각탑
@@ -125,8 +125,8 @@ dv_has_:
     sk: chladiaca veža
     sl: hladilni stolp
     sr: Торањ за хлађење
-    sr-ec: Торањ за хлађење
-    sr-el: Toranj za hlađenje
+    sr_ec: Торањ за хлађење
+    sr_el: Toranj za hlađenje
     sv: Kyltorn
     ta: cooling tower
     tr: soğutma kulesi
@@ -135,12 +135,12 @@ dv_has_:
     wuu: 冷却塔
     yue: 冷卻塔
     zh: 冷却塔
-    zh-cn: 冷却塔
-    zh-hans: 冷却塔
-    zh-hant: 冷卻塔
-    zh-hk: 冷卻塔
-    zh-sg: 冷却塔
-    zh-tw: 冷卻塔
+    zh_cn: 冷却塔
+    zh_hans: 冷却塔
+    zh_hant: 冷卻塔
+    zh_hk: 冷卻塔
+    zh_sg: 冷却塔
+    zh_tw: 冷卻塔
 ---
 # [[Cooling_Tower]] 
 

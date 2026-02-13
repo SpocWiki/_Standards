@@ -144,7 +144,7 @@ dv_has_:
     az: neytron ulduzu
     azb: نوترون اولدوزو
     be: нейтронная зорка
-    be-tarask: нэўтронная зорка
+    be_tarask: нэўтронная зорка
     bg: неутронна звезда
     bn: নিউট্রন তারা
     bs: neutronska zvijezda
@@ -204,7 +204,7 @@ dv_has_:
     pnb: نیوٹرون تارہ
     ps: نیوتروني ستوری
     pt: estrela de neutrões
-    pt-br: estrela de nêutrons
+    pt_br: estrela de nêutrons
     rki: နယူထရွန်ကြယ်
     ro: stea neutronică
     ru: нейтронная звезда
@@ -218,8 +218,8 @@ dv_has_:
     sms: neutroontäʹsnn
     sq: yjet neutronik
     sr: неутронска звезда
-    sr-ec: неутронска звезда
-    sr-el: neutronska zvezda
+    sr_ec: неутронска звезда
+    sr_el: neutronska zvezda
     sv: neutronstjärna
     ta: நொதுமி விண்மீன்
     te: న్యూట్రాన్ తార
@@ -233,14 +233,14 @@ dv_has_:
     wuu: 中子星
     yue: 中子星
     zh: 中子星
-    zh-cn: 中子星
-    zh-hans: 中子星
-    zh-hant: 中子星
-    zh-hk: 中子星
-    zh-mo: 中子星
+    zh_cn: 中子星
+    zh_hans: 中子星
+    zh_hant: 中子星
+    zh_hk: 中子星
+    zh_mo: 中子星
     zh-my: 中子星
-    zh-sg: 中子星
-    zh-tw: 中子星
+    zh_sg: 中子星
+    zh_tw: 中子星
 ---
 # [[Neutron_Star]] 
 

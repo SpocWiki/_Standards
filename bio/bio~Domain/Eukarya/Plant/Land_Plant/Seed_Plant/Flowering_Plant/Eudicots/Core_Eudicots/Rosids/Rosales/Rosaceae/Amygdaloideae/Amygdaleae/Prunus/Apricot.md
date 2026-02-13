@@ -195,8 +195,8 @@ dv_has_:
   name_:
     ab: Аҷарам
     ady: Зэндэлэ
-    aeb-arab: مشماش
-    aeb-latn: mech'mèch'a
+    aeb_arab: مشماش
+    aeb_latn: mech'mèch'a
     af: Appelkoos
     am: የባሕር ኮክ
     an: Prunus armeniaca
@@ -208,7 +208,7 @@ dv_has_:
     azb: اریک
     bar: Marün
     be: Абрыкос
-    be-tarask: Марэля
+    be_tarask: Марэля
     bg: кайсия
     bn: প্রুনাস আর্মেনিয়াকা
     bs: Kajsija
@@ -225,11 +225,11 @@ dv_has_:
     da: abrikos
     de: Aprikose
     de-at: Marille
-    de-ch: Aprikose
+    de_ch: Aprikose
     dsb: Aprikozowy bom
     el: Προυνούς Αρμενιάκα
     en: Prunus armeniaca
-    en-ca: Apricot
+    en_ca: Apricot
     eo: abrikotarbo
     es: Prunus armeniaca
     et: harilik aprikoosipuu
@@ -298,7 +298,7 @@ dv_has_:
     pnt: ζερταλίδιν
     ps: خوبانۍ
     pt: Damasqueiro
-    pt-br: Damasqueiro
+    pt_br: Damasqueiro
     ro: Cais
     ru: Абрикос обыкновенный
     sc: Barracoco
@@ -320,7 +320,7 @@ dv_has_:
     tl: Aprikot
     tr: Kayısı
     tt: гади өрек
-    tt-cyrl: гади өрек
+    tt_cyrl: гади өрек
     tyv: Абрикос
     ug: ئۆرۈك
     uk: абрикос
@@ -335,10 +335,10 @@ dv_has_:
     yi: אפריקאס
     yue: 杏
     zh: 杏
-    zh-cn: 杏
-    zh-hans: 杏
-    zh-hant: 杏
-    zh-tw: 杏
+    zh_cn: 杏
+    zh_hans: 杏
+    zh_hant: 杏
+    zh_tw: 杏
 ---
 # [[Apricot]] 
 

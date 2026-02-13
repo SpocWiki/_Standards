@@ -64,7 +64,7 @@ dv_has_:
   name_:
     ar: سهول اللانوس
     ast: Llanos
-    be-tarask: Льянас
+    be_tarask: Льянас
     bg: Лос Лянос
     bn: লিয়ানোস
     br: Llanos
@@ -89,11 +89,11 @@ dv_has_:
     it: Los llanos
     ja: リャノ
     kk: Льянос
-    kk-arab: ليانوس
+    kk_arab: ليانوس
     kk-cn: ليانوس
-    kk-cyrl: Льянос
+    kk_cyrl: Льянос
     kk-kz: Льянос
-    kk-latn: Lʹyanos
+    kk_latn: Lʹyanos
     kk-tr: Lʹyanos
     ko: 야노스
     ky: Льянос-Ориноко
@@ -110,15 +110,15 @@ dv_has_:
     sl: Llanos
     sq: Lanoset
     sr: Љанос
-    sr-ec: Љанос
-    sr-el: Ljanos
+    sr_ec: Љанос
+    sr_el: Ljanos
     sv: Llanos
     tr: Llanos
     uk: Льянос
     vi: Llanos
     yue: 雅諾斯
     zh: 洛斯亞諾斯
-    zh-hant: 洛斯亞諾斯
+    zh_hant: 洛斯亞諾斯
 ---
 # [[Llanos]] 
 

@@ -236,7 +236,7 @@ dv_has_:
     ab: Словакиа
     ace: Slowakia
     ady: Словакие
-    aeb-arab: سلوڥاكيا
+    aeb_arab: سلوڥاكيا
     af: Slowakye
     am: ስሎቫኪያ
     ami: Slovakia
@@ -259,7 +259,7 @@ dv_has_:
     bar: Slowakai
     bcl: Slobakya
     be: Славакія
-    be-tarask: Славаччына
+    be_tarask: Славаччына
     bew: Slowaki
     bg: Словакия
     bgn: سلواکیا
@@ -272,7 +272,7 @@ dv_has_:
     bs: Slovačka
     bxr: Словак
     ca: Eslovàquia
-    cbk-zam: Eslovaquia
+    cbk_zam: Eslovaquia
     cdo: Slovakia
     ce: Словаки
     ceb: Eslobakya
@@ -282,7 +282,7 @@ dv_has_:
     ckb: سلۆڤاکیا
     co: Sluvacchia
     crh: Slovakiya
-    crh-latn: Slovakiya
+    crh_latn: Slovakiya
     cs: Slovensko
     csb: Słowackô
     cu: Словѣньско
@@ -292,7 +292,7 @@ dv_has_:
     dag: Slovakia
     de: Slowakei
     de-at: Slowakei
-    de-ch: Slowakei
+    de_ch: Slowakei
     diq: Slowakya
     dsb: Słowakska
     dty: स्लोभाकिया
@@ -301,8 +301,8 @@ dv_has_:
     ee: Slovakia
     el: Σλοβακία
     en: Slovakia
-    en-ca: Slovakia
-    en-gb: Slovakia
+    en_ca: Slovakia
+    en_gb: Slovakia
     en-us: Slovakia
     eo: Slovakio
     es: Eslovaquia
@@ -327,7 +327,7 @@ dv_has_:
     gn: Elovakia
     gom: स्लोवाकिया
     gom-deva: स्लोवाकिया
-    gom-latn: Slovakia
+    gom_latn: Slovakia
     got: "\U00010343\U0001033B\U00010330\U0001033F\U00010331\U00010330\U0001033A\U0001033E\U00010330"
     gpe: Slovakia
     gsw: Slowakei
@@ -394,7 +394,7 @@ dv_has_:
     lzh: 斯洛伐克
     mad: Slovakia
     mai: स्लोवाकिया
-    map-bms: Slowakia
+    map_bms: Slowakia
     mdf: Словакия
     mg: Silaovakia
     mhr: Словакий
@@ -418,7 +418,7 @@ dv_has_:
     nap: Slovachia
     nb: Slovakia
     nds: Slowakei
-    nds-nl: Slowaaknlaand
+    nds_nl: Slowaaknlaand
     ne: स्लोभाकिया
     new: स्लोभाकिया
     nl: Slowakije
@@ -445,7 +445,7 @@ dv_has_:
     pnt: Σλοβακία
     ps: سلوواکيا
     pt: Eslováquia
-    pt-br: Eslováquia
+    pt_br: Eslováquia
     qu: Isluwakya
     rm: Slovachia
     rmc: Slovačiko
@@ -480,8 +480,8 @@ dv_has_:
     so: Islofaakiya
     sq: Sllovakia
     sr: Словачка
-    sr-ec: Словачка
-    sr-el: Slovačka
+    sr_ec: Словачка
+    sr_el: Slovačka
     srn: Slovakikondre
     ss: Silovakhi
     st: Slovakia
@@ -534,14 +534,14 @@ dv_has_:
     zea: Slowakije
     zgh: ⵚⵍⵓⴼⴰⴽⵢⴰ
     zh: 斯洛伐克
-    zh-cn: 斯洛伐克
-    zh-hans: 斯洛伐克
-    zh-hant: 斯洛伐克
-    zh-hk: 斯洛伐克
-    zh-mo: 斯洛伐克
+    zh_cn: 斯洛伐克
+    zh_hans: 斯洛伐克
+    zh_hant: 斯洛伐克
+    zh_hk: 斯洛伐克
+    zh_mo: 斯洛伐克
     zh-my: 斯洛伐克
-    zh-sg: 斯洛伐克
-    zh-tw: 斯洛伐克
+    zh_sg: 斯洛伐克
+    zh_tw: 斯洛伐克
     zu: ISlovaki
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Slovakia

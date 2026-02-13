@@ -112,7 +112,7 @@ dv_has_:
     ban: kelas
     bar: Klasse
     be: клас
-    be-tarask: кляса
+    be_tarask: кляса
     bew: Kelas (èlmu hayat)
     bg: клас
     bho: वर्ग
@@ -128,8 +128,8 @@ dv_has_:
     de: Klasse
     el: ομοταξία
     en: class
-    en-ca: class
-    en-gb: class
+    en_ca: class
+    en_gb: class
     eo: klaso
     es: clase
     et: klass
@@ -163,11 +163,11 @@ dv_has_:
     ka: კლასი
     kab: asmil
     kk: класс
-    kk-cyrl: косжарнаклылар классы
+    kk_cyrl: косжарнаклылар классы
     ko: 강
     ks: نِکٲے
     ku: Çîn
-    ku-latn: pol
+    ku_latn: pol
     ky: класс
     la: Classis
     lb: Klass
@@ -218,8 +218,8 @@ dv_has_:
     tl: klase
     tr: sınıf
     tt: сыйныф
-    tt-cyrl: сыйныф
-    tt-latn: sıynıf
+    tt_cyrl: сыйныф
+    tt_latn: sıynıf
     udm: класс
     uk: клас
     ur: جماعت
@@ -232,9 +232,9 @@ dv_has_:
     yue: 綱
     zea: klasse
     zh: 纲
-    zh-hans: 纲
-    zh-hant: 綱
-    zh-tw: 綱
+    zh_hans: 纲
+    zh_hant: 綱
+    zh_tw: 綱
     zu: isigaba
 ---
 # [[bio~Class]] 

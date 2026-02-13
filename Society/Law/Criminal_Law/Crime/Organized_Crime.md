@@ -103,7 +103,7 @@ dv_has_:
     ast: delincuencia organizada
     az: mütəşəkkil cinayətkarlıq
     be: арганізаваная злачыннасць
-    be-tarask: арганізаваная злачыннасьць
+    be_tarask: арганізаваная злачыннасьць
     bg: организирана престъпност
     bn: সংগঠিত অপরাধ পর্যটন
     br: torfederezh aozet
@@ -115,8 +115,8 @@ dv_has_:
     de: organisierte Kriminalität
     el: οργανωμένο έγκλημα
     en: organized crime
-    en-ca: organized crime
-    en-gb: organised crime
+    en_ca: organized crime
+    en_gb: organised crime
     eo: organizata krimagado
     es: crimen organizado
     et: organiseeritud kuritegevus
@@ -162,7 +162,7 @@ dv_has_:
     sl: organizirani kriminal
     sq: banda kriminale
     sr: организовани криминал
-    sr-ec: организовани криминал
+    sr_ec: организовани криминал
     sv: organiserad brottslighet
     tr: organize suç
     uk: організована злочинність
@@ -172,14 +172,14 @@ dv_has_:
     wuu: 黑社会
     yue: 黑社會
     zh: 有組織罪案
-    zh-cn: 有组织罪案
-    zh-hans: 有组织罪案
-    zh-hant: 有組織罪案
-    zh-hk: 有組織罪案
-    zh-mo: 有組織罪案
+    zh_cn: 有组织罪案
+    zh_hans: 有组织罪案
+    zh_hant: 有組織罪案
+    zh_hk: 有組織罪案
+    zh_mo: 有組織罪案
     zh-my: 有组织罪案
-    zh-sg: 有组织罪案
-    zh-tw: 有組織罪案
+    zh_sg: 有组织罪案
+    zh_tw: 有組織罪案
 ---
 # [[Organized_Crime]] 
 

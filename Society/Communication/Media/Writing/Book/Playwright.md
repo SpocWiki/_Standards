@@ -166,7 +166,7 @@ dv_has_:
     ba: драматург
     bar: Dramatiker
     be: драматург
-    be-tarask: драматург
+    be_tarask: драматург
     bg: драматург
     bn: নাট্যকার
     br: dramaour
@@ -175,18 +175,18 @@ dv_has_:
     ceb: dramatista
     ckb: شانۆنامەنووس
     crh: dramaturg
-    crh-latn: dramaturg
+    crh_latn: dramaturg
     cs: dramatik
     cv: драматург
     cy: dramodydd
     da: dramatiker
     de: Dramatiker
-    de-ch: Dramatiker
+    de_ch: Dramatiker
     diq: nuştekarê kayi
     el: θεατρικός συγγραφέας
     en: playwright
-    en-ca: playwright
-    en-gb: playwright
+    en_ca: playwright
+    en_gb: playwright
     en-us: playwright
     eo: dramaturgo
     es: dramaturgo
@@ -251,7 +251,7 @@ dv_has_:
     pap: dramaturgo
     pl: dramaturg
     pt: dramaturgo
-    pt-br: dramaturgo
+    pt_br: dramaturgo
     ro: dramaturg
     ru: драматург
     rue: драматик
@@ -286,12 +286,12 @@ dv_has_:
     xmf: დრამატურგი
     yi: דראמאטורג
     zh: 剧作家
-    zh-cn: 剧作家
-    zh-hans: 剧作家
-    zh-hant: 劇作家
-    zh-hk: 劇作家
-    zh-sg: 剧作家
-    zh-tw: 劇作家
+    zh_cn: 剧作家
+    zh_hans: 剧作家
+    zh_hant: 劇作家
+    zh_hk: 劇作家
+    zh_sg: 剧作家
+    zh_tw: 劇作家
 ---
 # [[Playwright]] 
 

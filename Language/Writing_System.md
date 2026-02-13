@@ -229,7 +229,7 @@ dv_has_:
     bar: Schrift
     bcl: sistema nin pagsusurat
     be: пісьмо
-    be-tarask: пісьменства
+    be_tarask: пісьменства
     bg: писменост
     bho: लिखाई
     bjn: sistim tulisan
@@ -247,12 +247,12 @@ dv_has_:
     cy: system ysgrifennu
     da: skriftsystem
     de: Schrift
-    de-ch: Schrift
+    de_ch: Schrift
     diq: sistemê nuştışi
     el: σύστημα γραφής
     en: writing system
-    en-ca: writing system
-    en-gb: writing system
+    en_ca: writing system
+    en_gb: writing system
     en-us: writing system
     eo: skribsistemo
     es: sistema de escritura
@@ -295,7 +295,7 @@ dv_has_:
     krc: джазма
     ks: لِکھٲرؠ نِظام
     ku: pergala nivîsê
-    ku-latn: sîstema nivîsê
+    ku_latn: sîstema nivîsê
     kw: system skrifa
     la: systema scripturae
     lb: Schrëft
@@ -315,7 +315,7 @@ dv_has_:
     mni: ꯏꯕꯗ ꯆꯪꯕ ꯃꯌꯦꯛ
     mr: लिपी
     ms: sistem tulisan
-    ms-arab: سيستم توليسن
+    ms_arab: سيستم توليسن
     mzn: خط
     nan: bûn-jī hē-thóng
     nb: skriftsystem
@@ -337,7 +337,7 @@ dv_has_:
     pnb: لپی
     ps: ليک
     pt: sistema de escrita
-    pt-br: sistema de escrita
+    pt_br: sistema de escrita
     qu: qillqa
     ro: sistem de scriere
     ru: письменность
@@ -359,8 +359,8 @@ dv_has_:
     sms: ǩeeʹrjtemriâšldõk
     sq: sistem shkrimi
     sr: писмо
-    sr-ec: писмо
-    sr-el: pismo
+    sr_ec: писмо
+    sr_el: pismo
     su: aksara
     sv: skrift
     sw: maandishi
@@ -373,7 +373,7 @@ dv_has_:
     tok: nasin sitelen
     tr: yazı sistemi
     tt: язу
-    tt-cyrl: язу
+    tt_cyrl: язу
     udm: гожъяськет
     uk: писемність
     ur: رسم خط
@@ -387,10 +387,10 @@ dv_has_:
     yue: 文字
     za: cihsaw
     zh: 書寫系統
-    zh-hans: 书写系统
-    zh-hant: 書寫系統
-    zh-hk: 書寫系統
-    zh-tw: 書寫系統
+    zh_hans: 书写系统
+    zh_hant: 書寫系統
+    zh_hk: 書寫系統
+    zh_tw: 書寫系統
 ---
 # [[Writing_System]] 
 

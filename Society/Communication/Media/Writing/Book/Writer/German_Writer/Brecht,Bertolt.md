@@ -169,7 +169,7 @@ dv_has_:
     ba: Бертольт Брехт
     bar: Bertolt Brecht
     be: Бертальд Брэхт
-    be-tarask: Бэртальд Брэхт
+    be_tarask: Бэртальд Брэхт
     bg: Бертолт Брехт
     bho: बर्तोल्त ब्रेष्त
     bn: বের্টল্ট ব্রেখট
@@ -182,12 +182,12 @@ dv_has_:
     cy: Bertolt Brecht
     da: Bertolt Brecht
     de: Bertolt Brecht
-    de-ch: Bertolt Brecht
+    de_ch: Bertolt Brecht
     diq: Bertolt Brecht
     el: Μπέρτολτ Μπρεχτ
     en: Bertolt Brecht
-    en-ca: Bertolt Brecht
-    en-gb: Bertolt Brecht
+    en_ca: Bertolt Brecht
+    en_gb: Bertolt Brecht
     eo: Bertolt Brecht
     es: Bertolt Brecht
     et: Bertolt Brecht
@@ -239,7 +239,7 @@ dv_has_:
     nan: Bertolt Brecht
     nb: Bertolt Brecht
     nds: Bertolt Brecht
-    nds-nl: Bertolt Brecht
+    nds_nl: Bertolt Brecht
     new: बेर्टोल्ट् ब्रेच्त्
     nl: Bertolt Brecht
     nn: Bertolt Brecht
@@ -251,7 +251,7 @@ dv_has_:
     pnb: برتولت بریخت
     ps: بيرتولت برېشت
     pt: Bertolt Brecht
-    pt-br: Bertolt Brecht
+    pt_br: Bertolt Brecht
     qu: Bertolt Brecht
     rm: Bertolt Brecht
     ro: Bertolt Brecht
@@ -263,7 +263,7 @@ dv_has_:
     sl: Bertolt Brecht
     sq: Bertolt Brecht
     sr: Бертолт Брехт
-    sr-ec: Бертолт Брехт
+    sr_ec: Бертолт Брехт
     sv: Bertolt Brecht
     ta: பெர்தோல்ட் பிரெக்ட்
     tg: Бертолд Брехт
@@ -281,7 +281,7 @@ dv_has_:
     xmf: ბერტოლტ ბრეხტი
     yue: 布萊希特
     zh: 贝尔托·布莱希特
-    zh-hant: 貝托爾特·布萊希特
+    zh_hant: 貝托爾特·布萊希特
 ---
 # [[Brecht,Bertolt]] 
 

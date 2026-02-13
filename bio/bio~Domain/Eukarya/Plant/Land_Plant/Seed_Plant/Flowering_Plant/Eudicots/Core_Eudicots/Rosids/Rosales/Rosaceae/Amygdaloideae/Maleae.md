@@ -68,20 +68,20 @@ dv_has_:
     oc: Maleae
     pl: Maleae
     pt: Maleae
-    pt-br: Maleae
+    pt_br: Maleae
     ro: Maleae
     ru: яблоневые
     sl: Maleae
     sq: Maleae
     tt: алмагаччалар
-    tt-cyrl: алмагаччалар
+    tt_cyrl: алмагаччалар
     uk: Maleae
     vi: Maleae
     vo: Maleae
     war: Maleae
     zh: 苹果族
-    zh-cn: 苹果族
-    zh-tw: 蘋果族
+    zh_cn: 苹果族
+    zh_tw: 蘋果族
 ---
 # [[Maleae]] 
 

@@ -375,7 +375,7 @@ dv_has_:
     ban: Aléksander Agung
     bcl: Alejandro Magno
     be: Аляксандр Македонскі
-    be-tarask: Аляксандар Македонскі
+    be_tarask: Аляксандар Македонскі
     bew: Iskandar Agung
     bg: Александър Македонски
     bho: सिकंदर
@@ -385,7 +385,7 @@ dv_has_:
     btm: Alexander Agung
     bxr: Ехэ Александр
     ca: Alexandre el Gran
-    cbk-zam: Alejandro Magno
+    cbk_zam: Alejandro Magno
     cdo: Alexandros Dâi-dá̤
     ce: Александр Македонский
     ceb: Alejandro ang Bantogan
@@ -398,7 +398,7 @@ dv_has_:
     cy: Alecsander Fawr
     da: Alexander den Store
     de: Alexander der Große
-    de-ch: Alexander der Grosse
+    de_ch: Alexander der Grosse
     diq: İskendero Gırd
     el: Αλέξανδρος ο Μέγας
     eml: Lisàndar Magn
@@ -495,7 +495,7 @@ dv_has_:
     nap: Alessandro Magno
     nb: Aleksander den store
     nds: Alexander de Grote
-    nds-nl: Aleksander den Grouten
+    nds_nl: Aleksander den Grouten
     ne: अलेक्जेन्डर द ग्रेट
     new: अलेक्जेन्डर महान
     nl: Alexander de Grote
@@ -512,7 +512,7 @@ dv_has_:
     pnb: سکندر
     ps: مقدوني سکندر
     pt: Alexandre Magno
-    pt-br: Alexandre, o Grande
+    pt_br: Alexandre, o Grande
     qu: Hatun kaq Aliksanthir
     rki: မဟာအလက်ဇန္ဒား
     rmy: Aleksandro o Baro
@@ -547,7 +547,7 @@ dv_has_:
     tcy: ಅಲೆಕ್ಸಾಂಡರ್
     te: అలెగ్జాండర్
     tg: Искандари Мақдунӣ
-    tg-cyrl: Искандари Мақдунӣ
+    tg_cyrl: Искандари Мақдунӣ
     th: อเล็กซานเดอร์มหาราช
     tk: Isgender Zülkarneýn
     tl: Dakilang Aleksander
@@ -577,11 +577,11 @@ dv_has_:
     za: Ahlijsanda Daihdaeq
     zea: Alexander de Grote
     zh: 亚历山大大帝
-    zh-hans: 亚历山大大帝
-    zh-hant: 亞歷山大大帝
-    zh-hk: 亞歷山大大帝
-    zh-mo: 亞歷山大大帝
-    zh-tw: 亞歷山大大帝
+    zh_hans: 亚历山大大帝
+    zh_hant: 亞歷山大大帝
+    zh_hk: 亞歷山大大帝
+    zh_mo: 亞歷山大大帝
+    zh_tw: 亞歷山大大帝
 ---
 #has_/time_/started :: -0356-07-21  
 #has_/time_/stopped :: -0323-06-11

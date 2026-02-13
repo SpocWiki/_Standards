@@ -84,7 +84,7 @@ dv_has_:
     ast: Caldera volcánica
     az: Kalder
     be: Кальдэра
-    be-tarask: кальдэра
+    be_tarask: кальдэра
     bg: Калдера
     bho: काल्डेरा
     br: Kaldeira
@@ -96,8 +96,8 @@ dv_has_:
     de: Caldera
     el: Καλδέρα
     en: caldera
-    en-ca: Caldera
-    en-gb: Caldera
+    en_ca: Caldera
+    en_gb: Caldera
     eo: Kaldero
     es: caldera volcánica
     et: kaldeera
@@ -120,11 +120,11 @@ dv_has_:
     ja: カルデラ
     ka: კალდერა
     kk: Кальдера
-    kk-arab: كالدەرا
+    kk_arab: كالدەرا
     kk-cn: كالدەرا
-    kk-cyrl: Кальдера
+    kk_cyrl: Кальдера
     kk-kz: Кальдера
-    kk-latn: Kalʹdera
+    kk_latn: Kalʹdera
     kk-tr: Kalʹdera
     ko: 칼데라
     ky: Кальдира
@@ -142,7 +142,7 @@ dv_has_:
     oc: Caldera
     pl: kaldera
     pt: caldeira vulcânica
-    pt-br: Caldeira vulcânica
+    pt_br: Caldeira vulcânica
     ro: Calderă
     ru: кальдера
     sc: Caldera
@@ -151,8 +151,8 @@ dv_has_:
     sk: Kaldera
     sl: kaldera
     sr: калдера
-    sr-ec: Калдера
-    sr-el: Kaldera
+    sr_ec: Калдера
+    sr_el: Kaldera
     su: Kaldéra
     sv: kaldera
     sw: Kaldera
@@ -166,12 +166,12 @@ dv_has_:
     xmf: კალდერა
     yue: 陷落火山口
     zh: 破火山口
-    zh-cn: 破火山口
-    zh-hans: 破火山口
-    zh-hant: 破火山口
-    zh-hk: 破火山口
-    zh-sg: 破火山口
-    zh-tw: 破火山口
+    zh_cn: 破火山口
+    zh_hans: 破火山口
+    zh_hant: 破火山口
+    zh_hk: 破火山口
+    zh_sg: 破火山口
+    zh_tw: 破火山口
 ---
 # [[Caldera]] 
 

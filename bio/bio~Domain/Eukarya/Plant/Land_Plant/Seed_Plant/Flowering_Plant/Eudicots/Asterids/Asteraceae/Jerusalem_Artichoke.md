@@ -163,7 +163,7 @@ dv_has_:
     az: Köküyumru günəbaxan
     azb: شلقم
     be: тапінамбур
-    be-tarask: тапінамбур
+    be_tarask: тапінамбур
     bg: земна ябълка
     ca: nyàmera
     ce: Балг
@@ -201,8 +201,8 @@ dv_has_:
     kk: Жер алмұрты
     ko: 뚱딴지
     ku: Sêvarxin
-    ku-arab: سێڤارخن
-    ku-latn: Sêvarxin
+    ku_arab: سێڤارخن
+    ku_latn: Sêvarxin
     ky: Топинамбур
     la: Helianthus tuberosus
     lb: Russesch Gromper
@@ -247,12 +247,12 @@ dv_has_:
     xmf: დიხაუშქური
     yue: 菊芋
     zh: 洋姜
-    zh-cn: 洋姜
-    zh-hans: 洋姜
-    zh-hant: 菊芋
-    zh-hk: 洋薑
-    zh-sg: 洋姜
-    zh-tw: 洋薑
+    zh_cn: 洋姜
+    zh_hans: 洋姜
+    zh_hant: 菊芋
+    zh_hk: 洋薑
+    zh_sg: 洋姜
+    zh_tw: 洋薑
 ---
 # [[Jerusalem_Artichoke]] 
 

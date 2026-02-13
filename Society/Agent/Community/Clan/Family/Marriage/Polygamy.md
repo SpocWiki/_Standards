@@ -109,7 +109,7 @@ dv_has_:
     ba: полигамия
     bcl: poligamiya
     be: палігамія
-    be-tarask: палігамія
+    be_tarask: палігамія
     bg: полигамия
     bn: বহুগামিতা
     br: liespriediezh
@@ -155,7 +155,7 @@ dv_has_:
     mk: полигамија
     mr: बहुपत्नीकत्व
     ms: permaduan
-    ms-arab: ڤرمادوان
+    ms_arab: ڤرمادوان
     mzn: پولیگامی
     nb: polygami
     ne: बहुविवाह
@@ -177,8 +177,8 @@ dv_has_:
     smn: polygamia
     sms: polygamia
     sr: полигамија
-    sr-ec: полигамија
-    sr-el: poligamija
+    sr_ec: полигамија
+    sr_el: poligamija
     ss: sitsembu
     sv: polygami
     sw: mitara
@@ -196,12 +196,12 @@ dv_has_:
     wuu: 多配偶制
     yue: 多配偶制
     zh: 多配偶制
-    zh-cn: 多配偶制
-    zh-hans: 多配偶制
-    zh-hant: 多配偶制
-    zh-hk: 多配偶制
-    zh-sg: 多配偶制
-    zh-tw: 多配偶制
+    zh_cn: 多配偶制
+    zh_hans: 多配偶制
+    zh_hant: 多配偶制
+    zh_hk: 多配偶制
+    zh_sg: 多配偶制
+    zh_tw: 多配偶制
     zu: Isithembu
 ---
 # [[Polygamy]] 

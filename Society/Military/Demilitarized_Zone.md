@@ -80,7 +80,7 @@ dv_has_:
     ar: منطقة منزوعة السلاح
     ast: zona desmilitarizada
     az: Silahsızlaşdırılmış zona
-    be-tarask: дэмілітарызаваная зона
+    be_tarask: дэмілітарызаваная зона
     bg: демилитаризирана зона
     br: takad divilouraet
     bxr: Сэрэггүй бүһэ
@@ -90,7 +90,7 @@ dv_has_:
     da: Demilitariseret zone
     de: Entmilitarisierte Zone
     en: demilitarized zone
-    en-gb: demilitarised zone
+    en_gb: demilitarised zone
     eo: senarmeigita zono
     es: zona desmilitarizada
     et: Demilitariseeritud tsoon
@@ -124,8 +124,8 @@ dv_has_:
     sk: Demilitarizovaná zóna
     sl: demilitarizirano območje
     sr: демилитаризована зона
-    sr-ec: демилитаризована зона
-    sr-el: demilitarizovana zona
+    sr_ec: демилитаризована зона
+    sr_el: demilitarizovana zona
     sv: demilitariserad zon
     tg: Демилитаризатсияи қаламрав
     th: เขตปลอดทหาร
@@ -136,8 +136,8 @@ dv_has_:
     yi: דעמיליטאריזירטע זאנע
     yue: 非軍事區
     zh: 非軍事區
-    zh-hans: 非军事区
-    zh-hant: 非軍事區
+    zh_hans: 非军事区
+    zh_hant: 非軍事區
 ---
 # [[Demilitarized_Zone]] 
 

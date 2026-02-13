@@ -120,7 +120,7 @@ dv_has_:
     ban: Andréa Bocélli
     bcl: Andrea Bocelli
     be: Андрэа Бачэлі
-    be-tarask: Андрэа Бачэльлі
+    be_tarask: Андрэа Бачэльлі
     bg: Андреа Бочели
     br: Andrea Bocelli
     bs: Andrea Bocelli
@@ -177,7 +177,7 @@ dv_has_:
     oc: Andrea Bocelli
     pl: Andrea Bocelli
     pt: Andrea Bocelli
-    pt-br: Andrea Bocelli
+    pt_br: Andrea Bocelli
     qu: Andrea Bocelli
     ro: Andrea Bocelli
     ru: Андреа Бочелли
@@ -203,8 +203,8 @@ dv_has_:
     xmf: ანდრეა ბოჩელი
     yue: 安德利亞波車利
     zh: 安德烈·波伽利
-    zh-hant: 安德烈·波伽利
-    zh-tw: 安德烈·波伽利
+    zh_hant: 安德烈·波伽利
+    zh_tw: 安德烈·波伽利
 ---
 # [[Bocelli,Andrea]] 
 

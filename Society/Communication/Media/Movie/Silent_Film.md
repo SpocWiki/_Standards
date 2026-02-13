@@ -100,7 +100,7 @@ dv_has_:
     ast: cine mudu
     az: səssiz film
     be: нямое кіно
-    be-tarask: нямое кіно
+    be_tarask: нямое кіно
     bew: pèlem meneng
     bg: нямо кино
     bn: নির্বাক চলচ্চিত্র
@@ -112,11 +112,11 @@ dv_has_:
     cy: ffilm fud
     da: stumfilm
     de: Stummfilm
-    de-ch: Stummfilm
+    de_ch: Stummfilm
     el: βουβός κινηματογράφος
     en: silent film
-    en-ca: silent film
-    en-gb: silent film
+    en_ca: silent film
+    en_gb: silent film
     eo: muta filmo
     es: cine mudo
     et: tummfilm
@@ -156,7 +156,7 @@ dv_has_:
     pa: ਮੂਕ ਫ਼ਿਲਮ
     pl: film niemy
     pt: filme mudo
-    pt-br: filme mudo
+    pt_br: filme mudo
     ro: film mut
     ru: немое кино
     sah: саҥата суох киинэ
@@ -166,8 +166,8 @@ dv_has_:
     sl: nemi film
     sq: film pa zë
     sr: неми филм
-    sr-ec: неми филм
-    sr-el: nemi film
+    sr_ec: неми филм
+    sr_el: nemi film
     sv: stumfilm
     sw: filamu za kimya
     ta: அமைதியாக படம்
@@ -176,8 +176,8 @@ dv_has_:
     tok: sitelen tawa pi kalama ala
     tr: sessiz film
     tt: тавышсыз кина́
-    tt-cyrl: тавышсыз кино
-    tt-latn: tawışsız kino
+    tt_cyrl: тавышсыз кино
+    tt_latn: tawışsız kino
     uk: німе кіно
     ur: خاموش فلم
     uz: ovozsiz kino
@@ -186,12 +186,12 @@ dv_has_:
     wuu: 无声电影
     yue: 默片
     zh: 无声电影
-    zh-cn: 无声电影
-    zh-hans: 无声电影
-    zh-hant: 無聲電影
-    zh-hk: 無聲電影
-    zh-sg: 无声电影
-    zh-tw: 無聲電影
+    zh_cn: 无声电影
+    zh_hans: 无声电影
+    zh_hant: 無聲電影
+    zh_hk: 無聲電影
+    zh_sg: 无声电影
+    zh_tw: 無聲電影
 ---
 # [[Silent_Film]] 
 

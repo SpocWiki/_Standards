@@ -96,7 +96,7 @@ dv_has_:
     az: konstitusiya hüququ
     bar: Vafassungsrecht
     be: канстытуцыйнае права
-    be-tarask: канстытуцыйнае права
+    be_tarask: канстытуцыйнае права
     bg: Конституционно право
     bn: সাংবিধানিক আইন
     bs: Ustavno pravo
@@ -108,8 +108,8 @@ dv_has_:
     de: Verfassungsrecht
     el: Συνταγματικό Δίκαιο
     en: constitutional law
-    en-ca: Constitutional law
-    en-gb: constitutional law
+    en_ca: Constitutional law
+    en_gb: constitutional law
     eo: konstitucia juro
     es: derecho constitucional
     et: Riigiõigus
@@ -149,7 +149,7 @@ dv_has_:
     pa: ਸੰਵਿਧਾਨਿਕ ਕਨੂੰਨ
     pl: prawo konstytucyjne
     pt: direito constitucional
-    pt-br: Direito constitucional
+    pt_br: Direito constitucional
     ro: drept constituțional
     ru: конституционное право
     sh: Ustavno pravo
@@ -158,8 +158,8 @@ dv_has_:
     sl: ustavno pravo
     sq: E drejta kushtetuese
     sr: уставно право
-    sr-ec: уставно право
-    sr-el: ustavno pravo
+    sr_ec: уставно право
+    sr_el: ustavno pravo
     sv: statsrätt
     ta: அரசியல் அமைப்புச் சட்டம்
     tg: Ҳуқуқи асосӣ
@@ -174,14 +174,14 @@ dv_has_:
     wuu: 宪制性法律
     yue: 憲制性法律
     zh: 宪法性法律
-    zh-cn: 宪制性法律
-    zh-hans: 宪制性法律
-    zh-hant: 憲制性法律
-    zh-hk: 憲制性法律
-    zh-mo: 憲制性法律
+    zh_cn: 宪制性法律
+    zh_hans: 宪制性法律
+    zh_hant: 憲制性法律
+    zh_hk: 憲制性法律
+    zh_mo: 憲制性法律
     zh-my: 宪制性法律
-    zh-sg: 宪制性法律
-    zh-tw: 憲制性法律
+    zh_sg: 宪制性法律
+    zh_tw: 憲制性法律
 ---
 # [[Constitutional_Law]] 
 

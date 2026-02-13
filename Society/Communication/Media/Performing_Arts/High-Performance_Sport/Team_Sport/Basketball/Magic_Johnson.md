@@ -146,7 +146,7 @@ dv_has_:
     arz: ماجيك جونسون
     ast: Magic Johnson
     be: Мэджык Джонсан
-    be-tarask: Мэджык Джонсан
+    be_tarask: Мэджык Джонсан
     bg: Меджик Джонсън
     bn: ম্যাজিক জনসন
     bs: Magic Johnson
@@ -159,8 +159,8 @@ dv_has_:
     de: Magic Johnson
     el: Μάτζικ Τζόνσον
     en: Magic Johnson
-    en-ca: Magic Johnson
-    en-gb: Magic Johnson
+    en_ca: Magic Johnson
+    en_gb: Magic Johnson
     eo: Magic Johnson
     es: Magic Johnson
     et: Magic Johnson
@@ -198,7 +198,7 @@ dv_has_:
     pap: Magic Johnson
     pl: Magic Johnson
     pt: Magic Johnson
-    pt-br: Magic Johnson
+    pt_br: Magic Johnson
     qu: Magic Johnson
     ro: Magic Johnson
     ru: Мэджик Джонсон
@@ -208,8 +208,8 @@ dv_has_:
     sl: Magic Johnson
     sq: Magic Johnson
     sr: Меџик Џонсон
-    sr-ec: Меџик Џонсон
-    sr-el: Medžik Džonson
+    sr_ec: Меџик Џонсон
+    sr_el: Medžik Džonson
     sv: Magic Johnson
     ta: மேஜிக் ஜான்சன்
     te: మాజిక్ జాన్సన్
@@ -225,12 +225,12 @@ dv_has_:
     yo: Magic Johnson
     yue: 魔術手莊遜
     zh: 魔术师约翰逊
-    zh-cn: 魔术师约翰逊
-    zh-hans: 魔术师约翰逊
-    zh-hant: 魔術強森
-    zh-hk: 馬積·莊遜
-    zh-sg: 魔术师约翰逊
-    zh-tw: 魔術強森
+    zh_cn: 魔术师约翰逊
+    zh_hans: 魔术师约翰逊
+    zh_hant: 魔術強森
+    zh_hk: 馬積·莊遜
+    zh_sg: 魔术师约翰逊
+    zh_tw: 魔術強森
 ---
 # [[Magic_Johnson]] 
 

@@ -59,9 +59,9 @@ dv_has_:
     vi: Vampyromorphida
     war: Vampyromorpha
     zh: 幽灵蛸目
-    zh-cn: 幽灵蛸目
-    zh-hans: 幽灵蛸目
-    zh-tw: 幽靈蛸目
+    zh_cn: 幽灵蛸目
+    zh_hans: 幽灵蛸目
+    zh_tw: 幽靈蛸目
 ---
 # [[Vampyromorpha]] 
 

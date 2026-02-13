@@ -183,7 +183,7 @@ dv_has_:
     azb: سو سدی
     ba: быуа
     be: плаціна, архітэктура
-    be-tarask: плаціна
+    be_tarask: плаціна
     bew: Dam
     bg: язовирна стена
     bjn: tabat
@@ -205,8 +205,8 @@ dv_has_:
     diq: bendawe
     el: φράγμα
     en: dam
-    en-ca: dam
-    en-gb: dam
+    en_ca: dam
+    en_gb: dam
     eo: akvobaraĵo
     es: represa
     et: pais
@@ -249,7 +249,7 @@ dv_has_:
     ko: 댐
     ko-kp: 언제
     ku: bendav
-    ku-latn: bendav
+    ku_latn: bendav
     kw: arge
     ky: плотина
     la: moles
@@ -267,7 +267,7 @@ dv_has_:
     mnc: ᡩᠠᠯᠠᠩᡤᠠ
     mr: धरण
     ms: empangan
-    ms-arab: امڤڠن
+    ms_arab: امڤڠن
     my: ရေကာတာ
     nan: chúi-pà
     nb: demning
@@ -286,7 +286,7 @@ dv_has_:
     pnb: بند
     ps: بند
     pt: barragem
-    pt-br: barragem
+    pt_br: barragem
     qu: mayu hark'a
     ro: baraj
     ru: плотина
@@ -301,8 +301,8 @@ dv_has_:
     so: biyoxidheen
     sq: Diga
     sr: брана
-    sr-ec: брана
-    sr-el: brana
+    sr_ec: брана
+    sr_el: brana
     su: waduk
     sv: dammbyggnad
     sw: lambo
@@ -326,10 +326,10 @@ dv_has_:
     yi: דאם
     yue: 壩
     zh: 水坝
-    zh-hans: 水坝
-    zh-hant: 水壩
-    zh-hk: 水壩
-    zh-tw: 水壩
+    zh_hans: 水坝
+    zh_hant: 水壩
+    zh_hk: 水壩
+    zh_tw: 水壩
 ---
 # [[Dam]] 
 

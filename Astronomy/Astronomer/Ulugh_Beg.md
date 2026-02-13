@@ -147,7 +147,7 @@ dv_has_:
     azb: اولوغ بی
     ba: Олуғбәк
     be: Улугбек
-    be-tarask: Улугбэк
+    be_tarask: Улугбэк
     bg: Улуг Бег
     bn: উলুগ বেগ
     ca: Ulugh Beg
@@ -175,9 +175,9 @@ dv_has_:
     ka: ულუღ ბეგი
     kaa: Mırza Ulug'bek
     kk: Ұлықбек
-    kk-arab: ۇلىقبەك
-    kk-cyrl: Ұлықбек
-    kk-latn: Ulıqbek
+    kk_arab: ۇلىقبەك
+    kk_cyrl: Ұлықбек
+    kk_latn: Ulıqbek
     ko: 울루그 베그
     ku: Uluẍ Beg
     ky: Улугбек
@@ -195,7 +195,7 @@ dv_has_:
     pnb: الغ بیگ
     ps: الغ بېګ
     pt: Ulugue Begue
-    pt-br: Ulugh Beg
+    pt_br: Ulugh Beg
     ro: Ulug Beg
     ru: Улугбек
     sco: Ulugh Beg
@@ -208,7 +208,7 @@ dv_has_:
     sw: Ulugh Beg
     ta: உலுக் பெக்
     tg: Улуғбек
-    tg-latn: Uluƣbek
+    tg_latn: Uluƣbek
     th: อูลุฆ เบก
     tk: Ulugbek Muhammet Taragaý
     tr: Uluğ Bey
@@ -221,9 +221,9 @@ dv_has_:
     xmf: ულუღ ბეგი
     yue: 烏魯伯格
     zh: 乌鲁伯格
-    zh-hans: 乌鲁伯格
-    zh-hant: 烏魯伯格
-    zh-hk: 烏魯伯格
+    zh_hans: 乌鲁伯格
+    zh_hant: 烏魯伯格
+    zh_hk: 烏魯伯格
 ---
 # [[Ulugh_Beg]] 
 

@@ -190,7 +190,7 @@ dv_has_:
     ban: cerpén
     bar: Kuazgschicht
     be: апавяданне
-    be-tarask: апавяданьне
+    be_tarask: апавяданьне
     bew: cerpen
     bg: разказ
     bjn: kisah handap
@@ -209,8 +209,8 @@ dv_has_:
     diq: istanık
     el: διήγημα
     en: short story
-    en-ca: short story
-    en-gb: novelette
+    en_ca: short story
+    en_gb: novelette
     en-us: short story
     eo: novelo
     es: cuento
@@ -254,14 +254,14 @@ dv_has_:
     lb: Kuerzgeschicht
     lt: apsakymas
     lv: stāsts
-    map-bms: cerita pendek
+    map_bms: cerita pendek
     mdf: азкссь
     mk: расказ
     ml: ചെറുകഥ
     mnw: ဝတ္ထုဇမၠေအ်
     mr: लघुकथा
     ms: cerpen
-    ms-arab: چرڤين
+    ms_arab: چرڤين
     mt: novella
     my: ဝတ္ထုတို
     myv: ёвтнема
@@ -279,7 +279,7 @@ dv_has_:
     pnb: نِکی کہاݨی
     ps: لنډه کيسه
     pt: conto
-    pt-br: conto
+    pt_br: conto
     qu: willarina
     ro: povestire
     ru: рассказ
@@ -297,8 +297,8 @@ dv_has_:
     sms: noveʹll
     sq: tregimi
     sr: приповетка
-    sr-ec: приповетка
-    sr-el: priča
+    sr_ec: приповетка
+    sr_el: priča
     su: demi pasukan
     sv: novell
     sw: hekaya
@@ -320,8 +320,8 @@ dv_has_:
     yi: קורצע דערציילונג
     yue: 短篇小說
     zh: 短篇小说
-    zh-hans: 短篇小说
-    zh-hant: 短篇小說
+    zh_hans: 短篇小说
+    zh_hant: 短篇小說
 ---
 # [[Short_Story]] 
 

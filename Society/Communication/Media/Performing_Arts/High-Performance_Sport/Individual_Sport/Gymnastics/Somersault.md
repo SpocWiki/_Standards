@@ -41,7 +41,7 @@ dv_has_:
     af: Salto
     ar: شقلبة
     ast: Saltu mortal
-    be-tarask: сальта
+    be_tarask: сальта
     bg: Салто
     ca: salt mortal
     cs: salto

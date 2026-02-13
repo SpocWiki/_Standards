@@ -59,13 +59,13 @@ dv_has_:
   name_:
     ar: سديم شمسي
     ast: Nebulosa protosolar
-    be-tarask: сонечная туманнасьць
+    be_tarask: сонечная туманнасьць
     bg: Слънчева мъглявина
     ca: nebulosa solar
     cs: sluneční mlhovina
     cy: Nifwl heulol
     de: Sonnennebel
-    de-ch: Sonnennebel
+    de_ch: Sonnennebel
     en: Solar Nebula
     eo: Suna nebulozo
     es: nebulosa protosolar
@@ -83,7 +83,7 @@ dv_has_:
     nl: Zonnenevel
     pl: Powstawanie planet
     pt: Nebulosa solar
-    pt-br: Nebulosa solar
+    pt_br: Nebulosa solar
     ro: Nebuloasă solară
     ru: солнечная туманность
     sk: Slnečná hmlovina
@@ -97,9 +97,9 @@ dv_has_:
     wuu: 太阳星云
     yue: 太陽星雲
     zh: 太陽星雲
-    zh-cn: 太陽星雲
-    zh-hans: 太陽星雲
-    zh-hant: 太陽星雲
+    zh_cn: 太陽星雲
+    zh_hans: 太陽星雲
+    zh_hant: 太陽星雲
 ---
 # [[Solar_Nebula]] 
 

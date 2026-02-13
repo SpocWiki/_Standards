@@ -33,7 +33,7 @@ dv_has_:
     oc: Palaeobatrachidae
     pl: Palaeobatrachidae
     pt: Palaeobatrachidae
-    pt-br: Palaeobatrachidae
+    pt_br: Palaeobatrachidae
     ro: Palaeobatrachidae
     ru: Palaeobatrachidae
     sq: Palaeobatrachidae
@@ -42,10 +42,10 @@ dv_has_:
     vo: Palaeobatrachidae
     war: Palaeobatrachidae
     zh: 古蟾科
-    zh-cn: 古蟾科
-    zh-hans: 古蟾科
-    zh-hant: 古蟾科
-    zh-tw: 古蟾科
+    zh_cn: 古蟾科
+    zh_hans: 古蟾科
+    zh_hant: 古蟾科
+    zh_tw: 古蟾科
 ---
 # [[Palaeobatrachidae]]  
 

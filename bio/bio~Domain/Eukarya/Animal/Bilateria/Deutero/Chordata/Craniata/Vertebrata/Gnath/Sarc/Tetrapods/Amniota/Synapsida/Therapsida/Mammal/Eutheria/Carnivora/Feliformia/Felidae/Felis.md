@@ -77,7 +77,7 @@ UMLS_CUI: C0524517
 NBN_System_Key: NBNSYS0000040788
 dv_has_:
   name_:
-    aeb-arab: قطّوس
+    aeb_arab: قطّوس
     af: Felis
     ami: Pusi
     an: Felis
@@ -129,7 +129,7 @@ dv_has_:
     kab: Timcac (tawsit)
     ko: 고양이속
     ku: Felis
-    ku-latn: Felis
+    ku_latn: Felis
     ky: Мадылдар
     la: Felis
     lb: Kaz
@@ -148,7 +148,7 @@ dv_has_:
     os: гæдытæ
     pl: kot
     pt: Felis
-    pt-br: Felis
+    pt_br: Felis
     ro: Felis
     ru: кошки
     sah: Куоскалар уустара
@@ -173,12 +173,12 @@ dv_has_:
     xmf: კატუ
     yue: 貓屬
     zh: 猫属
-    zh-cn: 猫属
-    zh-hans: 猫属
-    zh-hant: 貓屬
-    zh-hk: 貓屬
-    zh-sg: 猫属
-    zh-tw: 貓屬
+    zh_cn: 猫属
+    zh_hans: 猫属
+    zh_hant: 貓屬
+    zh_hk: 貓屬
+    zh_sg: 猫属
+    zh_tw: 貓屬
 ---
 # [[Felis]] 
 

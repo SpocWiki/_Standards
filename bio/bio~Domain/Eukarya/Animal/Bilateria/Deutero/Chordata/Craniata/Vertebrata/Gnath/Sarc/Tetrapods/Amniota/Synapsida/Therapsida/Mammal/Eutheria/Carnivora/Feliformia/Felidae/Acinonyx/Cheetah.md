@@ -197,7 +197,7 @@ dv_has_:
     ban: Cheetah
     bcl: Cheetah
     be: гепард
-    be-tarask: гепард
+    be_tarask: гепард
     bg: гепард
     bho: चीता
     bn: চিতা
@@ -322,8 +322,8 @@ dv_has_:
     yo: Akátá
     yue: 獵豹
     zh: 猎豹
-    zh-cn: 猎豹
-    zh-tw: 猎豹
+    zh_cn: 猎豹
+    zh_tw: 猎豹
 ---
 # [[Cheetah]] 
 

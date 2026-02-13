@@ -158,7 +158,7 @@ dv_has_:
     ar: شل
     ast: Shell plc
     azb: رویال داچ شل
-    be-tarask: Shell plc
+    be_tarask: Shell plc
     bg: Роял Дъч Шел
     bn: রয়্যাল ডাচ শেল
     ca: Shell
@@ -206,7 +206,7 @@ dv_has_:
     pap: Shell plc
     pl: Shell plc
     pt: Shell plc
-    pt-br: Shell
+    pt_br: Shell
     ro: Shell
     ru: Shell
     sah: Shell plc
@@ -228,12 +228,12 @@ dv_has_:
     wuu: 壳牌公司
     yue: 蜆殼
     zh: 荷兰皇家壳牌
-    zh-cn: 壳牌公司
-    zh-hans: 壳牌公司
-    zh-hant: 殼牌公司
-    zh-hk: 蜆殼公司
-    zh-sg: 蚬壳公司
-    zh-tw: 殼牌公司
+    zh_cn: 壳牌公司
+    zh_hans: 壳牌公司
+    zh_hant: 殼牌公司
+    zh_hk: 蜆殼公司
+    zh_sg: 蚬壳公司
+    zh_tw: 殼牌公司
 ---
 # [[Shell_plc]] 
 

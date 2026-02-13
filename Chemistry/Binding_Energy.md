@@ -118,7 +118,7 @@ dv_has_:
     ar: طاقة الارتباط
     ast: enerxía d’enllaz
     be: Энергія сувязі
-    be-tarask: энэргія сувязі
+    be_tarask: энэргія сувязі
     bg: Енергия на свързване
     ca: energia de lligadura
     ce: ЗӀен энерги
@@ -164,12 +164,12 @@ dv_has_:
     uk: Енергія зв'язку
     vec: enerzia de ligamento
     zh: 结合能
-    zh-cn: 结合能
-    zh-hans: 结合能
-    zh-hant: 結合能
-    zh-hk: 結合能
-    zh-sg: 结合能
-    zh-tw: 結合能
+    zh_cn: 结合能
+    zh_hans: 结合能
+    zh_hant: 結合能
+    zh_hk: 結合能
+    zh_sg: 结合能
+    zh_tw: 結合能
 ---
 # [[Binding_Energy]] 
 

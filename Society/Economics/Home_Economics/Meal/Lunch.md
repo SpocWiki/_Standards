@@ -125,7 +125,7 @@ dv_has_:
     ba: Ланч
     bcl: Pangudto
     be: абед
-    be-tarask: ланч
+    be_tarask: ланч
     bg: обяд
     bjn: Makan tangah hari
     bn: মধ্যাহ্নভোজ
@@ -142,8 +142,8 @@ dv_has_:
     el: μεσημεριανό
     eml: pranz
     en: lunch
-    en-ca: lunch
-    en-gb: lunch
+    en_ca: lunch
+    en_gb: lunch
     eo: tagmanĝo
     es: almuerzo
     et: lõuna
@@ -174,7 +174,7 @@ dv_has_:
     ko: 점심
     ks: کوج
     ku: Firavîn
-    ku-latn: firavîn
+    ku_latn: firavîn
     la: Prandium
     lb: Mëttegiessen
     lmo: disnà
@@ -222,14 +222,14 @@ dv_has_:
     yi: מיטאג
     yue: 食晏
     zh: 午餐
-    zh-cn: 午餐
-    zh-hans: 午餐
-    zh-hant: 午餐
-    zh-hk: 午餐
-    zh-mo: 午餐
+    zh_cn: 午餐
+    zh_hans: 午餐
+    zh_hant: 午餐
+    zh_hk: 午餐
+    zh_mo: 午餐
     zh-my: 午餐
-    zh-sg: 午餐
-    zh-tw: 午餐
+    zh_sg: 午餐
+    zh_tw: 午餐
 ---
 # [[Lunch]] 
 

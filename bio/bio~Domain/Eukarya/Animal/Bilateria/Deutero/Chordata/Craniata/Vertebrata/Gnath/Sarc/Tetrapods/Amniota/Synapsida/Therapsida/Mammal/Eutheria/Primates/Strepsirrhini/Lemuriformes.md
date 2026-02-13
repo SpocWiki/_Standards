@@ -65,7 +65,7 @@ dv_has_:
     ar: ليموريات الشكل
     arz: ليموريات الشكل
     ast: Lemuriformes
-    be-tarask: лемурападобныя
+    be_tarask: лемурападобныя
     bg: лемуроподобни
     bs: Lemur
     ca: lèmurs
@@ -75,11 +75,11 @@ dv_has_:
     cy: Lemwr
     da: Lemur
     de: Lemuren
-    de-ch: Lemuren
+    de_ch: Lemuren
     el: Λεμούριος
     en: Lemuriformes
-    en-ca: Lemuriformes
-    en-gb: Lemuriformes
+    en_ca: Lemuriformes
+    en_gb: Lemuriformes
     eo: Lemuroformaj
     es: Lemuriformes
     eu: Lemuriformes
@@ -117,7 +117,7 @@ dv_has_:
     pl: Lemurokształtne
     pnb: لیمر
     pt: Lêmure
-    pt-br: Lêmure
+    pt_br: Lêmure
     ro: Lemuriformes
     ru: Lemuriformes
     sl: lemurji
@@ -134,9 +134,9 @@ dv_has_:
     war: Lemur (hayop)
     yue: 狐猴型下目
     zh: 狐猴型下目
-    zh-cn: 狐猴型下目
-    zh-hans: 狐猴型下目
-    zh-tw: 狐猴下目
+    zh_cn: 狐猴型下目
+    zh_hans: 狐猴型下目
+    zh_tw: 狐猴下目
 ---
 # [[Lemuriformes]] 
 

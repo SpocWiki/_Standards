@@ -185,7 +185,7 @@ dv_has_:
     azb: اودلو سیلاح
     ba: атыу ҡоралы
     be: агнястрэльная зброя
-    be-tarask: пальная зброя
+    be_tarask: пальная зброя
     bg: Огнестрелно оръжие
     bn: আগ্নেয়াস্ত্র
     br: arm-tan
@@ -203,12 +203,12 @@ dv_has_:
     da: skydevåben
     dag: malifa
     de: Feuerwaffe
-    de-ch: Feuerwaffe
+    de_ch: Feuerwaffe
     dga: Malfa
     dsb: stśělna broń
     el: πυροβόλο
     en: firearm
-    en-ca: Firearm
+    en_ca: Firearm
     eo: pafarmilo
     es: arma de fuego
     et: Tulirelv
@@ -241,7 +241,7 @@ dv_has_:
     kk: оқатар қару
     ko: 화기
     ku: çek
-    ku-latn: çek
+    ku_latn: çek
     kus: Malifʋ
     ky: атылма курал
     la: Arma ignifera
@@ -255,7 +255,7 @@ dv_has_:
     ml: തോക്ക്
     mn: Галт зэвсэг
     ms: senjata api
-    ms-arab: سنجات اڤي
+    ms_arab: سنجات اڤي
     nb: skytevåpen
     nds: Füürwapen
     new: फायरआर्म
@@ -267,7 +267,7 @@ dv_has_:
     pms: Arma da feu
     pnb: آتشیں اسلحہ
     pt: arma de fogo
-    pt-br: arma de fogo
+    pt_br: arma de fogo
     qu: T'uqyachina ayñi
     ro: armă de foc
     ru: огнестрельное оружие
@@ -281,8 +281,8 @@ dv_has_:
     so: Qori
     sq: armë zjarri
     sr: ватрено оружје
-    sr-ec: ватрено оружје
-    sr-el: vatreno oružje
+    sr_ec: ватрено оружје
+    sr_el: vatreno oružje
     sv: eldvapen
     sw: Bunduki
     szl: brōń pŏlnŏ
@@ -305,8 +305,8 @@ dv_has_:
     yo: Ìbon
     yue: 火器
     zh: 火器
-    zh-hans: 火器
-    zh-hant: 火器
+    zh_hans: 火器
+    zh_hant: 火器
 ---
 # [[Firearm]] 🔫 
 

@@ -31,7 +31,7 @@ dv_has_:
     oc: Stenandriopsis
     pl: Stenandriopsis
     pt: Stenandriopsis
-    pt-br: Stenandriopsis
+    pt_br: Stenandriopsis
     ro: Stenandriopsis
     ru: Stenandriopsis
     sq: Stenandriopsis

@@ -90,7 +90,7 @@ dv_has_:
     ast: disturbiu
     az: Qiyam
     ba: Фетнә
-    be-tarask: бунт
+    be_tarask: бунт
     bg: Бунт
     bn: দাঙ্গা
     br: kabaduilh
@@ -142,14 +142,14 @@ dv_has_:
     sl: izgred
     sq: Trazira
     sr: побуна
-    sr-ec: побуна
-    sr-el: pobuna
+    sr_ec: побуна
+    sr_el: pobuna
     sv: kravall
     ta: கலவரம்
     th: การจลาจล
     tr: Toplumsal olay
     tt: фетнә
-    tt-cyrl: фетнә
+    tt_cyrl: фетнә
     uk: бунт
     ur: بلوہ
     vi: bạo loạn
@@ -157,12 +157,12 @@ dv_has_:
     yi: ראיאטן
     yue: 暴動
     zh: 暴動
-    zh-cn: 暴动
-    zh-hans: 暴动
-    zh-hant: 暴動
-    zh-hk: 暴動
-    zh-sg: 暴动
-    zh-tw: 暴動
+    zh_cn: 暴动
+    zh_hans: 暴动
+    zh_hant: 暴動
+    zh_hk: 暴動
+    zh_sg: 暴动
+    zh_tw: 暴動
 ---
 # [[Riot]] 
 

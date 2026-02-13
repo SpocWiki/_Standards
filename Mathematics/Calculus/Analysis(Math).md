@@ -145,7 +145,7 @@ dv_has_:
     az: riyazi analiz
     ba: математик анализ
     be: матэматычны аналіз
-    be-tarask: матэматычны аналіз
+    be_tarask: матэматычны аналіз
     bg: математически анализ
     bho: गणितीय बिस्लेषण
     bn: গাণিতিক বিশ্লেষণ
@@ -221,7 +221,7 @@ dv_has_:
     pms: anàlisi matemàtica
     pnb: میتھمیٹیکل انیلیسز
     pt: análise matemática
-    pt-br: análise matemática
+    pt_br: análise matemática
     rki: ခွဲခြမ်းစိတ်ဖြာသင်္ချာ
     ro: analiză matematică
     rsk: Математична анализа
@@ -261,7 +261,7 @@ dv_has_:
     yo: Ìtúwò Mathimátíìkì
     yue: 數學分析
     zh: 数学分析
-    zh-cn: 数学分析
+    zh_cn: 数学分析
 ---
 # [[Analysis(Math)]] 
 

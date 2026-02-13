@@ -134,7 +134,7 @@ dv_has_:
     azb: مارتینا ناوراتیلووا
     ba: Мартина Навратилова
     be: Марціна Наўрацілава
-    be-tarask: Марціна Наўратылава
+    be_tarask: Марціна Наўратылава
     bg: Мартина Навратилова
     bn: মার্টিনা নাভ্রাতিলোভা
     bs: Martina Navratilova
@@ -143,11 +143,11 @@ dv_has_:
     cy: Martina Navratilova
     da: Martina Navratilova
     de: Martina Navrátilová
-    de-ch: Martina Navrátilová
+    de_ch: Martina Navrátilová
     el: Μαρτίνα Ναβρατίλοβα
     en: Martina Navratilova
-    en-ca: Martina Navratilova
-    en-gb: Martina Navratilova
+    en_ca: Martina Navratilova
+    en_gb: Martina Navratilova
     eo: Martina Navrátilová
     es: Martina Navratilova
     et: Martina Navrátilová
@@ -189,7 +189,7 @@ dv_has_:
     pl: Martina Navrátilová
     pnb: مارتینا نیوراتیلووا
     pt: Martina Navrátilová
-    pt-br: Martina Navrátilová
+    pt_br: Martina Navrátilová
     qu: Martina Navratilova
     ro: Martina Navratilova
     ru: Мартина Навратилова
@@ -216,9 +216,9 @@ dv_has_:
     yo: Martina Navratilova
     yue: 娜華蒂露娃
     zh: 玛蒂娜·纳芙拉蒂洛娃
-    zh-cn: 玛蒂娜·纳芙拉蒂洛娃
-    zh-hans: 玛蒂娜·纳芙拉蒂洛娃
-    zh-hant: 玛蒂娜·纳芙拉蒂洛娃
+    zh_cn: 玛蒂娜·纳芙拉蒂洛娃
+    zh_hans: 玛蒂娜·纳芙拉蒂洛娃
+    zh_hant: 玛蒂娜·纳芙拉蒂洛娃
 ---
 # [[Navratilova,Martina]] 
 

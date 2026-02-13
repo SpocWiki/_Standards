@@ -86,7 +86,7 @@ dv_has_:
     ba: хореография
     bcl: Koreograpiya
     be: харэаграфія
-    be-tarask: харэаграфія
+    be_tarask: харэаграфія
     bg: Хореография
     bn: নৃত্য পরিচালনা
     ca: coreografia
@@ -98,7 +98,7 @@ dv_has_:
     de: Choreografie
     el: χορογραφία
     en: choreography
-    en-gb: choreography
+    en_gb: choreography
     eo: ĥoreografio
     es: coreografía
     et: koreograafia
@@ -120,15 +120,15 @@ dv_has_:
     ja: 振付
     ka: ქორეოგრაფია
     kk: Хореография
-    kk-arab: حورەوگرافىييا
+    kk_arab: حورەوگرافىييا
     kk-cn: حورەوگرافىييا
-    kk-cyrl: Хореография
+    kk_cyrl: Хореография
     kk-kz: Хореография
-    kk-latn: Xoreografïya
+    kk_latn: Xoreografïya
     kk-tr: Xoreografïya
     ko: 안무
     ku: koreografî
-    ku-latn: koreografî
+    ku_latn: koreografî
     ky: Хореография
     la: Choreographia
     lb: Choreographie
@@ -171,12 +171,12 @@ dv_has_:
     yi: כארעאגראפיע
     yue: 編舞
     zh: 動作編排
-    zh-cn: 编舞
-    zh-hans: 编舞
-    zh-hant: 動作編排
-    zh-hk: 編舞
-    zh-sg: 编舞
-    zh-tw: 動作編排
+    zh_cn: 编舞
+    zh_hans: 编舞
+    zh_hant: 動作編排
+    zh_hk: 編舞
+    zh_sg: 编舞
+    zh_tw: 動作編排
 ---
 # [[Choreography]] 
 

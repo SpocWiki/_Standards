@@ -95,7 +95,7 @@ dv_has_:
     ar: النسق الأساسي
     ast: secuencia principal
     be: галоўная паслядоўнасць
-    be-tarask: галоўная пасьлядоўнасьць
+    be_tarask: галоўная пасьлядоўнасьць
     bg: Главна последователност
     bn: মেইন-সিকোয়েন্স
     bs: Glavni niz
@@ -106,8 +106,8 @@ dv_has_:
     de: Hauptreihe
     el: Κύρια Ακολουθία
     en: main sequence
-    en-ca: Main sequence
-    en-gb: main sequence
+    en_ca: Main sequence
+    en_gb: main sequence
     eo: ĉefa sekvenco
     es: secuencia principal
     et: Peajada
@@ -153,8 +153,8 @@ dv_has_:
     sk: Hlavná postupnosť
     sl: glavna veja
     sr: главни низ
-    sr-ec: главни низ
-    sr-el: glavni niz
+    sr_ec: главни низ
+    sr_el: glavni niz
     sv: huvudserien
     te: మెయిన్ సీక్వెన్స్ నక్షత్రాలు
     th: แถบลำดับหลัก
@@ -166,9 +166,9 @@ dv_has_:
     wuu: 主序星
     yue: 主序星
     zh: 主序星
-    zh-cn: 主序星
-    zh-hans: 主序星
-    zh-hant: 主序星
+    zh_cn: 主序星
+    zh_hans: 主序星
+    zh_hant: 主序星
 ---
 # [[Main_Sequence]] 
 

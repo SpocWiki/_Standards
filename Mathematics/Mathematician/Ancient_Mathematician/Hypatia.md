@@ -138,7 +138,7 @@ dv_has_:
     az: İskəndiriyəli Hipatiya
     bcl: Hypatia
     be: Гіпація Александрыйская
-    be-tarask: Гіпатыя Александрыйская
+    be_tarask: Гіпатыя Александрыйская
     bg: Хипатия
     bn: হাইপেশিয়া
     br: Hipatia
@@ -152,8 +152,8 @@ dv_has_:
     diq: Hypatia
     el: Υπατία
     en: Hypatia
-    en-ca: Hypatia
-    en-gb: Hypatia
+    en_ca: Hypatia
+    en_gb: Hypatia
     eo: Hipatia
     es: Hipatia
     et: Hypatia
@@ -205,7 +205,7 @@ dv_has_:
     pnb: ہائیپیشیا
     ps: هیپاتیا
     pt: Hipátia
-    pt-br: Hipátia
+    pt_br: Hipátia
     ro: Hypatia din Alexandria
     rsk: Гипатия
     ru: Гипатия
@@ -235,7 +235,7 @@ dv_has_:
     xmf: ჰიპატია
     yue: 希帕提亞
     zh: 希帕提婭
-    zh-cn: 希帕蒂娅
+    zh_cn: 希帕蒂娅
 ---
 # [[Hypatia]] 
 

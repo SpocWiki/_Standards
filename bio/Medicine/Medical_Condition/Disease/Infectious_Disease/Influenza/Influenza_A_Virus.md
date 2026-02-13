@@ -46,7 +46,7 @@ dv_has_:
   name_:
     ar: إتش 5 إن 1
     ast: Influenzavirus A subtipo H5N1
-    be-tarask: H5N1
+    be_tarask: H5N1
     bg: H5N1
     ca: H5N1
     ceb: Influenza A virus subtype H5N1
@@ -91,8 +91,8 @@ dv_has_:
     sms: A(H5N1)-virus
     sq: Influenza A virus subtype H5N1
     sr: Х5Н1
-    sr-ec: Х5Н1
-    sr-el: Х5Н1
+    sr_ec: Х5Н1
+    sr_el: Х5Н1
     sv: H5N1
     tr: İnfluenza A virüsü alt tipi H5N1
     uk: H5N1
@@ -100,14 +100,14 @@ dv_has_:
     war: Influenza A virus subtype H5N1
     yue: H5N1
     zh: 甲型流感病毒H5N1亚型
-    zh-cn: 甲型H5N1流感病毒
-    zh-hans: 甲型H5N1流感病毒
-    zh-hant: 甲型流感病毒H5N1亞型
-    zh-hk: 甲型流感病毒H5N1亞型
-    zh-mo: 甲型流感病毒H5N1亞型
+    zh_cn: 甲型H5N1流感病毒
+    zh_hans: 甲型H5N1流感病毒
+    zh_hant: 甲型流感病毒H5N1亞型
+    zh_hk: 甲型流感病毒H5N1亞型
+    zh_mo: 甲型流感病毒H5N1亞型
     zh-my: A型H5N1流感病毒
-    zh-sg: A型H5N1流感病毒
-    zh-tw: A型流感病毒H5N1亞型
+    zh_sg: A型H5N1流感病毒
+    zh_tw: A型流感病毒H5N1亞型
 ---
 # [[Influenza_A_Virus]] 
 

@@ -102,7 +102,7 @@ dv_has_:
     az: Avropa (mifologiya)
     ba: Европа
     be: Еўропа
-    be-tarask: Эўропа
+    be_tarask: Эўропа
     bg: Европа
     bn: ইউরোপা
     br: Europa, merc'h Agenor
@@ -116,8 +116,8 @@ dv_has_:
     de: Europa
     el: Ευρώπη
     en: Europa
-    en-ca: Europa
-    en-gb: Europa
+    en_ca: Europa
+    en_gb: Europa
     eo: Eŭropa
     es: Europa
     et: Europe
@@ -143,7 +143,7 @@ dv_has_:
     ka: ევროპე
     ko: 에우로페
     ku: Europê
-    ku-latn: Europê
+    ku_latn: Europê
     la: Europa
     lb: Europa
     lmo: Europa
@@ -164,7 +164,7 @@ dv_has_:
     pa: ਯੂਰੋਪਾ
     pl: Europa
     pt: Europa
-    pt-br: Europa
+    pt_br: Europa
     ro: Europa
     ru: Европа
     sc: Europa
@@ -174,8 +174,8 @@ dv_has_:
     sl: Evropa
     sq: Europa
     sr: Европа
-    sr-ec: Европа
-    sr-el: Evropa
+    sr_ec: Европа
+    sr_el: Evropa
     sv: Europa
     sw: Europa
     th: ยูโรปา
@@ -188,12 +188,12 @@ dv_has_:
     wuu: 欧罗巴
     yue: 歐羅巴
     zh: 欧罗巴
-    zh-cn: 欧罗巴
-    zh-hans: 欧罗巴
-    zh-hant: 歐羅巴
-    zh-hk: 歐羅巴
-    zh-sg: 欧罗巴
-    zh-tw: 歐羅巴
+    zh_cn: 欧罗巴
+    zh_hans: 欧罗巴
+    zh_hant: 歐羅巴
+    zh_hk: 歐羅巴
+    zh_sg: 欧罗巴
+    zh_tw: 歐羅巴
 ---
 # [[Europa(Mythology)]] 
 

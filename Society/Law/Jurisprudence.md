@@ -139,7 +139,7 @@ dv_has_:
     ba: хоҡуҡ фәне
     bar: Rechtswissnschoft
     be: правазнаўства
-    be-tarask: юрыспрудэнцыя
+    be_tarask: юрыспрудэнцыя
     bg: Юриспруденция
     bho: कानून शास्त्र
     bn: আইনশাস্ত্র
@@ -150,11 +150,11 @@ dv_has_:
     cy: cyfreitheg
     da: retsvidenskab
     de: Rechtswissenschaft
-    de-ch: Rechtswissenschaft
+    de_ch: Rechtswissenschaft
     el: νομική
     en: jurisprudence
-    en-ca: Jurisprudence
-    en-gb: jurisprudence
+    en_ca: Jurisprudence
+    en_gb: jurisprudence
     eo: juro
     es: ciencia del derecho
     et: õigusteadus
@@ -199,7 +199,7 @@ dv_has_:
     ml: നിയമശാസ്ത്രം
     mr: न्यायशास्त्र
     ms: jurisprudens
-    ms-arab: جوريسڤرودنس
+    ms_arab: جوريسڤرودنس
     mt: ġurisprudenza
     nb: juss
     nds: Rechtswetenschoppen
@@ -212,7 +212,7 @@ dv_has_:
     pa: ਨਿਆਂਸ਼ਾਸ਼ਤਰ
     pl: nauki prawne
     pt: teoria do direito
-    pt-br: teoria do direito
+    pt_br: teoria do direito
     ro: jurisprudență
     ru: юриспруденция
     sc: Giurisprudèntzia
@@ -225,7 +225,7 @@ dv_has_:
     sms: vuõiggâdvuõtt-tiõđ
     sq: jurisprudencë
     sr: правне науке
-    sr-ec: судска пракса
+    sr_ec: судска пракса
     sv: rättsvetenskap
     ta: சட்டவியல்
     te: న్యాయ మీమాంస
@@ -234,7 +234,7 @@ dv_has_:
     tl: Palabatasan
     tr: hukuk felsefesi
     tt: юриспруденция
-    tt-cyrl: юриспруденция
+    tt_cyrl: юриспруденция
     ug: قانۇن ئىلمى
     uk: юриспруденція
     ur: اُصول قانون
@@ -246,11 +246,11 @@ dv_has_:
     wuu: 法学
     yue: 法學
     zh: 法學
-    zh-cn: 法学
-    zh-hans: 法学
-    zh-hant: 法學
-    zh-hk: 法學
-    zh-tw: 法學
+    zh_cn: 法学
+    zh_hans: 法学
+    zh_hant: 法學
+    zh_hk: 法學
+    zh_tw: 法學
 ---
 # [[Jurisprudence]] 
 

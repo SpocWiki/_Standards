@@ -76,7 +76,7 @@ dv_has_:
     ast: Astrometría
     az: Astrometriya
     be: Астраметрыя
-    be-tarask: астрамэтрыя
+    be_tarask: астрамэтрыя
     bg: Астрометрия
     bn: জ্যোতির্মিতি
     ca: astrometria
@@ -85,11 +85,11 @@ dv_has_:
     cv: Астрометри
     da: astrometri
     de: Astrometrie
-    de-ch: Astrometrie
+    de_ch: Astrometrie
     el: Αστρομετρία
     en: astrometry
-    en-ca: Astrometry
-    en-gb: astrometry
+    en_ca: Astrometry
+    en_gb: astrometry
     eo: astrometrio
     es: astrometría
     et: Astromeetria
@@ -124,7 +124,7 @@ dv_has_:
     oc: Astrometria
     pl: astrometria
     pt: astrometria
-    pt-br: Astrometria
+    pt_br: Astrometria
     ro: astrometrie
     ru: астрометрия
     rue: Астрометрия
@@ -133,8 +133,8 @@ dv_has_:
     sl: astrometrija
     sq: astronomi
     sr: астрометрија
-    sr-ec: Астрометрија
-    sr-el: Astrometrija
+    sr_ec: Астрометрија
+    sr_el: Astrometrija
     sv: astrometri
     ta: வானளவையியல்
     tg: Астрометрия
@@ -150,12 +150,12 @@ dv_has_:
     xmf: ასტრომეტრია
     yue: 天文測量學
     zh: 天体测量学
-    zh-cn: 天体测量学
-    zh-hans: 天体测量学
-    zh-hant: 天文測量學
-    zh-hk: 天文測量學
-    zh-sg: 天体测量学
-    zh-tw: 天文測量學
+    zh_cn: 天体测量学
+    zh_hans: 天体测量学
+    zh_hant: 天文測量學
+    zh_hk: 天文測量學
+    zh_sg: 天体测量学
+    zh_tw: 天文測量學
 ---
 # [[Astrometry]] 
 

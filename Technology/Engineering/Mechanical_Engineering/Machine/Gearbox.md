@@ -86,7 +86,7 @@ dv_has_:
     az: Sürətlər qutusu
     azb: شانزیمان
     be: каробка перадач
-    be-tarask: скрыня пасуваньняў
+    be_tarask: скрыня пасуваньняў
     bg: Скоростна кутия
     bo: བང་སྒྱུར་སྒམ།
     ca: caixa de canvis
@@ -96,7 +96,7 @@ dv_has_:
     de: Zahnradgetriebe-Komplettbaugruppe
     el: κιβώτιο ταχυτήτων
     en: gearbox
-    en-gb: gearbox
+    en_gb: gearbox
     eo: rapidumŝanĝilo
     es: caja de cambios
     et: käigukast
@@ -129,7 +129,7 @@ dv_has_:
     oc: Bóstia de cambis
     pl: Skrzynia biegów
     pt: caixa de velocidades
-    pt-br: caixa de câmbio
+    pt_br: caixa de câmbio
     ro: cutie de viteze
     ru: коробка передач
     sk: prevodovka
@@ -144,8 +144,8 @@ dv_has_:
     uz: Uzatmalar qutisi
     yue: 波箱
     zh: 变速器
-    zh-hans: 变速器
-    zh-hant: 變速器
+    zh_hans: 变速器
+    zh_hant: 變速器
 ---
 # [[Gearbox]] 
 

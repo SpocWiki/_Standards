@@ -174,7 +174,7 @@ dv_has_:
     ba: Сельма Лагерлёф
     bcl: Selma Lagerlöf
     be: Сельма Лагерлёф
-    be-tarask: Сэльма Лягерлёф
+    be_tarask: Сэльма Лягерлёф
     bg: Селма Лагерльоф
     bn: সেলমা লাগেরলফ
     br: Selma Lagerlöf
@@ -186,12 +186,12 @@ dv_has_:
     da: Selma Lagerlöf
     de: Selma Lagerlöf
     de-at: Selma Lagerlöf
-    de-ch: Selma Lagerlöf
+    de_ch: Selma Lagerlöf
     ee: Selma Lagerlöf
     el: Σέλμα Λάγκερλεφ
     en: Selma Lagerlöf
-    en-ca: Selma Lagerlöf
-    en-gb: Selma Lagerlöf
+    en_ca: Selma Lagerlöf
+    en_gb: Selma Lagerlöf
     eo: Selma Lagerlöf
     es: Selma Lagerlöf
     et: Selma Lagerlöf
@@ -257,7 +257,7 @@ dv_has_:
     pms: Selma Lagerlöf
     pnb: سلما لاگرلوف
     pt: Selma Lagerlöf
-    pt-br: Selma Lagerlöf
+    pt_br: Selma Lagerlöf
     qu: Selma Lagerlöf
     rmf: Selma Lagerlöf
     ro: Selma Lagerlöf

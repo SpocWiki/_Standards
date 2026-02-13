@@ -131,7 +131,7 @@ dv_has_:
     az: Dreyk boğazı
     ba: Дрейк боғаҙы
     be: Праліў Дрэйка
-    be-tarask: Праліў Дрэйка
+    be_tarask: Праліў Дрэйка
     bg: Дрейк
     bn: ড্রেক জলপথ
     bo: ཏི་རེ་ཁི་མཚོ་འགག
@@ -143,7 +143,7 @@ dv_has_:
     cs: Drakeův průliv
     da: Drakestrædet
     de: Drakestraße
-    de-ch: Drakestrasse
+    de_ch: Drakestrasse
     el: πορθμός του Ντέικ
     en: Drake Passage
     eo: Drake-pasejo
@@ -166,11 +166,11 @@ dv_has_:
     ja: ドレーク海峡
     ka: დრეიკის სრუტე
     kk: Дрейк бұғазы
-    kk-arab: درەيك بۇعازى
+    kk_arab: درەيك بۇعازى
     kk-cn: درەيك بۇعازى
-    kk-cyrl: Дрейк бұғазы
+    kk_cyrl: Дрейк бұғазы
     kk-kz: Дрейк бұғазы
-    kk-latn: Dreýk buğazı
+    kk_latn: Dreýk buğazı
     kk-tr: Dreýk buğazı
     ko: 드레이크 해협
     ky: Дрейк кысыгы
@@ -195,8 +195,8 @@ dv_has_:
     sl: Drakov preliv
     sq: Kalimi Drake
     sr: Дрејков пролаз
-    sr-ec: Дрејков пролаз
-    sr-el: Drejkov prolaz
+    sr_ec: Дрејков пролаз
+    sr_el: Drejkov prolaz
     sv: Drakes sund
     sw: Mapito ya Drake
     ta: டிரேக் கடல் பெருவழி
@@ -212,14 +212,14 @@ dv_has_:
     xmf: დრეიკიშ საროტი
     yue: 戴基海峽
     zh: 德雷克海峡
-    zh-cn: 德雷克海峡
-    zh-hans: 德雷克海峡
-    zh-hant: 德累克海峽
-    zh-hk: 戴基海峽
-    zh-mo: 戴基海峽
+    zh_cn: 德雷克海峡
+    zh_hans: 德雷克海峡
+    zh_hant: 德累克海峽
+    zh_hk: 戴基海峽
+    zh_mo: 戴基海峽
     zh-my: 德雷克海峡
-    zh-sg: 德雷克海峡
-    zh-tw: 德累克海峽
+    zh_sg: 德雷克海峡
+    zh_tw: 德累克海峽
 ---
 # [[Drake_Passage]] 
 

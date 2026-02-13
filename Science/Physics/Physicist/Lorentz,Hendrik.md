@@ -170,7 +170,7 @@ dv_has_:
     azb: هندریک لورنتز
     ban: Hendrik Lorentz
     be: Хендрык Антон Лорэнц
-    be-tarask: Гэндрык Антоон Лёрэнц
+    be_tarask: Гэндрык Антоон Лёрэнц
     bg: Хендрик Лоренц
     bn: হেন্ড্রিক আন্টোন লোরেন্ৎস
     br: Hendrik Antoon Lorentz
@@ -183,11 +183,11 @@ dv_has_:
     da: Hendrik Antoon Lorentz
     de: Hendrik Antoon Lorentz
     de-at: Hendrik Lorentz
-    de-ch: Hendrik Lorentz
+    de_ch: Hendrik Lorentz
     el: Χέντρικ Λόρεντς
     en: Hendrik Lorentz
-    en-ca: Hendrik Lorentz
-    en-gb: Hendrik Lorentz
+    en_ca: Hendrik Lorentz
+    en_gb: Hendrik Lorentz
     eo: Hendrik Antoon Lorentz
     es: Hendrik Antoon Lorentz
     et: Hendrik Lorentz
@@ -237,7 +237,7 @@ dv_has_:
     nan: Hendrik Lorentz
     nb: Hendrik Antoon Lorentz
     nds: Hendrik Antoon Lorentz
-    nds-nl: Hendrik Antoon Lorentz
+    nds_nl: Hendrik Antoon Lorentz
     new: हेन्द्रिक लरेञ्ज
     nl: Hendrik Lorentz
     nn: Hendrik Lorentz
@@ -248,7 +248,7 @@ dv_has_:
     pms: Hendrik Antoon Lorentz
     pnb: ہینڈرک لورینٹز
     pt: Hendrik Lorentz
-    pt-br: Hendrik Lorentz
+    pt_br: Hendrik Lorentz
     qu: Hendrik Lorentz
     ro: Hendrik Lorentz
     ru: Хендрик Антон Лоренц
@@ -263,7 +263,7 @@ dv_has_:
     sl: Hendrik Antoon Lorentz
     sq: Hendrik Antoon Lorentz
     sr: Хендрик Антон Лоренц
-    sr-ec: Хендрик Антон Лоренц
+    sr_ec: Хендрик Антон Лоренц
     su: Hendrik Antoon Lorentz
     sv: Hendrik Lorentz
     sw: Hendrik Antoon Lorentz
@@ -285,8 +285,8 @@ dv_has_:
     yo: Hendrik Lorentz
     yue: 勞侖茲
     zh: 亨德里克·洛伦兹
-    zh-hans: 亨德里克·洛伦兹
-    zh-hant: 亨德里克·洛倫茲
+    zh_hans: 亨德里克·洛伦兹
+    zh_hant: 亨德里克·洛倫茲
 ---
 # [[Lorentz,Hendrik]] 
 

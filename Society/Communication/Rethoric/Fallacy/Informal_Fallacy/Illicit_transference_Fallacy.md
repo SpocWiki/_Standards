@@ -20,9 +20,9 @@ dv_has_:
     sl: zmota nedovoljenega prenosa
     uk: помилкове перенесення
     zh: 分布謬誤
-    zh-hans: 分布谬误
-    zh-hant: 分布謬誤
-    zh-hk: 分佈謬誤
+    zh_hans: 分布谬误
+    zh_hant: 分布謬誤
+    zh_hk: 分佈謬誤
 ---
 # [[Illicit_transference_Fallacy]] 
 

@@ -90,7 +90,7 @@ dv_has_:
     ast: Matriarcáu
     az: Madərşahlıq
     be: матрыярхат
-    be-tarask: матрыярхат
+    be_tarask: матрыярхат
     bg: матриархат
     bn: মাতৃতন্ত্র
     bs: Matrijarhat
@@ -120,11 +120,11 @@ dv_has_:
     ja: 家母長制
     ka: მატრიარქატი
     kk: Матриархат
-    kk-arab: ماترىيارحات
+    kk_arab: ماترىيارحات
     kk-cn: ماترىيارحات
-    kk-cyrl: Матриархат
+    kk_cyrl: Матриархат
     kk-kz: Матриархат
-    kk-latn: Matrïarxat
+    kk_latn: Matrïarxat
     kk-tr: Matrïarxat
     ko: 모권제
     ku: Dayiksalarî
@@ -152,8 +152,8 @@ dv_has_:
     so: Habartooyo
     sq: Matriarkati
     sr: Матријархат
-    sr-ec: Матријархат
-    sr-el: Matrijarhat
+    sr_ec: Матријархат
+    sr_el: Matrijarhat
     sv: matriarkat
     te: మాతృస్వామ్యం
     tg: Модаршоҳӣ
@@ -166,12 +166,12 @@ dv_has_:
     xmf: მატრიარქატი
     yue: 母權
     zh: 母權
-    zh-cn: 母权
-    zh-hans: 母权
-    zh-hant: 母權
-    zh-hk: 母權
-    zh-sg: 母权
-    zh-tw: 母權
+    zh_cn: 母权
+    zh_hans: 母权
+    zh_hant: 母權
+    zh_hk: 母權
+    zh_sg: 母权
+    zh_tw: 母權
 ---
 # [[Matriarchy]] 
 

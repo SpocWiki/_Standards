@@ -97,7 +97,7 @@ dv_has_:
     azb: دیود
     ba: Диод
     be: дыёд
-    be-tarask: дыёд
+    be_tarask: дыёд
     bg: Диод
     bn: ডায়োড
     br: diodenn
@@ -188,8 +188,8 @@ dv_has_:
     sn: diode
     sq: Dioda
     sr: диода
-    sr-ec: диода
-    sr-el: dioda
+    sr_ec: диода
+    sr_el: dioda
     stq: Dioden
     su: Dioda
     sv: diod
@@ -213,8 +213,8 @@ dv_has_:
     yi: דיאדע
     yue: 二極管
     zh: 二極體
-    zh-cn: 二极管
-    zh-tw: 二極體
+    zh_cn: 二极管
+    zh_tw: 二極體
 ---
 # [[Diode]] 
 

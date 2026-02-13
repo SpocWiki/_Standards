@@ -107,15 +107,15 @@ UNII: 8CZS546954
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-Lime%20fruit-article.ogg
 dv_has_:
   name_:
-    aeb-arab: كعبة ليم
-    aeb-latn: lim
+    aeb_arab: كعبة ليم
+    aeb_latn: lim
     af: Lemmetjie
     ar: ليم
     arz: ليم
     as: নেমু
     ban: Lémo
     be: лайм
-    be-tarask: лайм
+    be_tarask: лайм
     bg: Зелен лимон
     bn: লেবু
     br: limez
@@ -129,11 +129,11 @@ dv_has_:
     cy: leim
     da: lime
     de: Limette
-    de-ch: Limette
+    de_ch: Limette
     el: Μοσχολέμονο
     en: lime
-    en-ca: lime
-    en-gb: lime
+    en_ca: lime
+    en_gb: lime
     en-us: lime
     eo: limeo
     es: lima
@@ -182,7 +182,7 @@ dv_has_:
     pl: Lima
     pnb: گلگل
     pt: lima
-    pt-br: Lima
+    pt_br: Lima
     ro: lămâie verde
     roa-tara: laim
     ru: лайм
@@ -193,14 +193,14 @@ dv_has_:
     sl: limeta
     sq: limon i athët
     sr: лимета
-    sr-ec: лимета
+    sr_ec: лимета
     sv: lime
     sw: Ndimu
     ta: தேசிப்பழம்
     tdd: ᥛᥣᥐᥱ ᥜᥣᥲ
     th: มะนาว
     tr: Misket limonu
-    tt-latn: jāšel limun
+    tt_latn: jāšel limun
     uk: лайм
     ur: گلگل
     vi: chanh
@@ -208,8 +208,8 @@ dv_has_:
     wuu: 青柠
     yue: 青檸
     zh: 青檸
-    zh-hans: 青檸
-    zh-hant: 萊姆
+    zh_hans: 青檸
+    zh_hant: 萊姆
 ---
 # [[Lime(Fruit)]] 
 

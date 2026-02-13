@@ -145,7 +145,7 @@ dv_has_:
     ba: арифметика
     bcl: aritmetika
     be: арыфметыка
-    be-tarask: арытмэтыка
+    be_tarask: арытмэтыка
     bg: аритметика
     bho: अंकगणित
     bi: arithmetic
@@ -154,7 +154,7 @@ dv_has_:
     bs: aritmetika
     bxr: арифметикэ
     ca: aritmètica
-    cbk-zam: Aritmetica
+    cbk_zam: Aritmetica
     ceb: aritmetik
     ckb: ژمێرە
     co: aritmetica
@@ -254,7 +254,7 @@ dv_has_:
     pnb: انک گݨت
     ps: حساب
     pt: aritmética
-    pt-br: aritmética
+    pt_br: aritmética
     qu: yupa hap'ichiy
     rki: ဂဏန်းသင်္ချာ
     ro: aritmetică
@@ -277,7 +277,7 @@ dv_has_:
     sn: huwandu
     sq: aritmetika
     sr: аритметика
-    sr-ec: аритметика
+    sr_ec: аритметика
     sv: aritmetik
     sw: hesabu
     ta: எண்கணிதம்
@@ -310,9 +310,9 @@ dv_has_:
     yue: 算術
     zea: rekenen
     zh: 算术
-    zh-hans: 算术
-    zh-hant: 算術
-    zh-tw: 算術
+    zh_hans: 算术
+    zh_hant: 算術
+    zh_tw: 算術
     zu: isibalonqangi
 ---
 # [[Arithmetic]] 

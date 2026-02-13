@@ -263,7 +263,7 @@ dv_has_:
     bar: Esperanto
     bcl: Esperanto
     be: эсперанта
-    be-tarask: эспэранта
+    be_tarask: эспэранта
     bew: Basa Sepèranto
     bg: Есперанто
     bho: एस्पेरांतो
@@ -274,13 +274,13 @@ dv_has_:
     bs: Esperanto
     bxr: Эсперанто
     ca: esperanto
-    cbk-zam: Esperanto
+    cbk_zam: Esperanto
     cdo: Sié-gái-ngṳ̄
     ce: Эсперанто
     ceb: Esperanto
     ckb: ئێسپێرانتۆ
     crh: Esperanto tili
-    crh-latn: Esperanto tili
+    crh_latn: Esperanto tili
     cs: esperanto
     csb: Esperanto
     cu: Єспєранто
@@ -288,14 +288,14 @@ dv_has_:
     cy: Esperanto
     da: esperanto
     de: Esperanto
-    de-ch: Esperanto
+    de_ch: Esperanto
     diq: Esperanto
     dsb: Esperanto
     el: Εσπεράντο
     eml: Esperànt
     en: Esperanto
-    en-ca: Esperanto
-    en-gb: Esperanto
+    en_ca: Esperanto
+    en_gb: Esperanto
     en-us: Esperanto
     eo: Esperanto
     es: esperanto
@@ -353,7 +353,7 @@ dv_has_:
     ko: 에스페란토
     ksh: Esperanto
     ku: esperanto
-    ku-latn: esperanto
+    ku_latn: esperanto
     kv: Эсперанто
     kw: Esperantek
     ky: Эсперанто
@@ -380,7 +380,7 @@ dv_has_:
     mni: ꯑꯦꯁ꯭ꯄꯦꯔꯥꯟꯇꯣ ꯂꯣꯟ
     mr: एस्पेरांतो
     ms: bahasa Esperanto
-    ms-arab: بهاس ايسڤرنتو
+    ms_arab: بهاس ايسڤرنتو
     mt: Esperanto
     mul: Esperanto
     mwl: Speranto
@@ -393,7 +393,7 @@ dv_has_:
     nap: Esperanto
     nb: esperanto
     nds: Esperanto
-    nds-nl: Esperanto
+    nds_nl: Esperanto
     ne: एस्पेरान्तो
     new: एस्परान्तो
     nl: Esperanto
@@ -412,7 +412,7 @@ dv_has_:
     pnb: اسپرانٹو
     ps: اېسپرانتو ژبه
     pt: esperanto
-    pt-br: esperanto
+    pt_br: esperanto
     qu: Esperanto simi
     rm: Esperanto
     rn: Kiseperanto
@@ -438,7 +438,7 @@ dv_has_:
     so: Esberanto
     sq: esperanto
     sr: есперанто
-    sr-ec: есперанто
+    sr_ec: есперанто
     ss: Sí-Speranto
     stq: Esperanto
     su: Basa Éspéranto
@@ -454,7 +454,7 @@ dv_has_:
     tpi: Tok Esperanto
     tr: Esperanto
     tt: эсперанто
-    tt-cyrl: эсперанто
+    tt_cyrl: эсперанто
     udm: Эсперанто
     ug: ئېسپېرانتو
     uk: есперанто
@@ -479,11 +479,11 @@ dv_has_:
     za: Esperanto
     zea: Esperanto
     zh: 世界語
-    zh-cn: 世界语
-    zh-hans: 世界语
-    zh-hant: 世界語
-    zh-hk: 世界語
-    zh-tw: 世界語
+    zh_cn: 世界语
+    zh_hans: 世界语
+    zh_hant: 世界語
+    zh_hk: 世界語
+    zh_tw: 世界語
     zu: Isi-Esperanto
 ---
 # [[Esperanto]] 

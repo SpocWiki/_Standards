@@ -112,7 +112,7 @@ dv_has_:
     as: টাও টে চিং
     az: Tao Te Çinq
     be: Даа Дэ Цзін
-    be-tarask: Дао Дэ Цзін
+    be_tarask: Дао Дэ Цзін
     bg: Дао Дъ Дзин
     bs: Tao Te Ching
     ca: Daodejing
@@ -143,8 +143,8 @@ dv_has_:
     kbp: Tao Te King
     ko: 도덕경
     ku: Tao Te Ching
-    ku-arab: تاۆ تە جهنگ
-    ku-latn: Tao Te Ching
+    ku_arab: تاۆ تە جهنگ
+    ku_latn: Tao Te Ching
     la: Tao te kim
     lad: Tao Te King
     lfn: Dao de jing
@@ -174,7 +174,7 @@ dv_has_:
     sl: Daodedžing
     sq: Tao Te Ching
     sr: Књига пута и врлине
-    sr-ec: Књига пута и врлине
+    sr_ec: Књига пута и врлине
     sv: Daodejing
     ta: தாவோ தே ஜிங்
     th: เต้าเต๋อจิง
@@ -188,9 +188,9 @@ dv_has_:
     wuu: 老子
     yue: 老子 (書)
     zh: 道德经
-    zh-cn: 道德经
-    zh-hans: 道德经
-    zh-sg: 道德经
+    zh_cn: 道德经
+    zh_hans: 道德经
+    zh_sg: 道德经
 ---
 # [[Tao_Te_Ching]] 
 

@@ -108,7 +108,7 @@ dv_has_:
     az: Dördayaqlılar
     azb: دؤردایاقلیلار
     be: чатырохногія
-    be-tarask: чатырохногія
+    be_tarask: чатырохногія
     bg: четирикраки
     bs: Četvoronošci
     ca: tetràpodes
@@ -175,7 +175,7 @@ dv_has_:
     pnb: چارپیرے
     ps: څلور پښې لرونکي ژوي
     pt: tetrápodes
-    pt-br: Tetrapoda
+    pt_br: Tetrapoda
     ro: Tetrapoda
     ru: четвероногие
     scn: Tetrapodi
@@ -191,7 +191,7 @@ dv_has_:
     tl: Tetrapoda
     tr: Dört üyeliler
     tt: дүрт аяклылар
-    tt-cyrl: дүрт аяклылар
+    tt_cyrl: дүрт аяклылар
     uk: чотириногі
     ur: چوپائے
     vi: động vật bốn chân
@@ -202,10 +202,10 @@ dv_has_:
     yue: 四足總綱
     zea: Vierpoôters
     zh: 四足總綱
-    zh-cn: 四足总纲
-    zh-hans: 四足总纲
-    zh-hant: 四足類
-    zh-tw: 四足類
+    zh_cn: 四足总纲
+    zh_hans: 四足总纲
+    zh_hant: 四足類
+    zh_tw: 四足類
 ---
 # Terrestrial Vertebrates
 

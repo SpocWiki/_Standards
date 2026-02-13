@@ -31,8 +31,8 @@ dv_has_:
     de: Coelurosauria
     el: Coelurosauria
     en: Coelurosauria
-    en-ca: Coelurosauria
-    en-gb: Coelurosauria
+    en_ca: Coelurosauria
+    en_gb: Coelurosauria
     eo: Celurosaŭroj
     es: Coelurosauria
     eu: Coelurosauria
@@ -59,7 +59,7 @@ dv_has_:
     or: Coelurosaur
     pl: celurozaury
     pt: Coelurosauria
-    pt-br: Coelurosauria
+    pt_br: Coelurosauria
     ro: Coelurosauria
     ru: целурозавры
     sco: Coelurosauria
@@ -76,12 +76,12 @@ dv_has_:
     vo: Coelurosauria
     war: Coelurosauria
     zh: 虛骨龍類
-    zh-cn: 虚骨龙类
-    zh-hans: 虚骨龙类
-    zh-hant: 虛骨龍類
-    zh-hk: 虛骨龍類
-    zh-sg: 虚骨龙类
-    zh-tw: 虛骨龍類
+    zh_cn: 虚骨龙类
+    zh_hans: 虚骨龙类
+    zh_hant: 虛骨龍類
+    zh_hk: 虛骨龍類
+    zh_sg: 虚骨龙类
+    zh_tw: 虛骨龍類
 ---
 # [[Coelurosauria]]
 

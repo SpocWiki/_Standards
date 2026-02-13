@@ -140,7 +140,7 @@ dv_has_:
     az: Ulrix Svinqli
     bar: Ulrich Zwingli
     be: Ульрых Цвінглі
-    be-tarask: Ульрых Цьвінглі
+    be_tarask: Ульрых Цьвінглі
     bg: Улрих Цвингли
     br: Ulrich Zwingli
     ca: Huldrych Zwingli
@@ -173,11 +173,11 @@ dv_has_:
     jv: Ulrich Zwingli
     ka: ულრიხ ცვინგლი
     kk: Ульрих Цвингли
-    kk-arab: ۋلرىيح تسۆىينگلىي
+    kk_arab: ۋلرىيح تسۆىينگلىي
     kk-cn: ۋلرىيح تسۆىينگلىي
-    kk-cyrl: Ульрих Цвингли
+    kk_cyrl: Ульрих Цвингли
     kk-kz: Ульрих Цвингли
-    kk-latn: Wlʹrïx Cvïnglï
+    kk_latn: Wlʹrïx Cvïnglï
     kk-tr: Wlʹrïx Cvïnglï
     ko: 울리히 츠빙글리
     la: Huldericus Zvinglius
@@ -204,7 +204,7 @@ dv_has_:
     pnb: الرخ زونگلی
     ps: هولډريچ زوينګلي
     pt: Ulrico Zuínglio
-    pt-br: Ulrico Zuínglio
+    pt_br: Ulrico Zuínglio
     rki: ဦးရစ်စွင်ဂလီ
     rm: Huldrych Zwingli
     ro: Huldrych Zwingli
@@ -214,8 +214,8 @@ dv_has_:
     sl: Huldrych Zwingli
     sq: Huldrych Zwingli
     sr: Улрих Цвингли
-    sr-ec: Улрих Цвингли
-    sr-el: Ulrih Cvingli
+    sr_ec: Улрих Цвингли
+    sr_el: Ulrih Cvingli
     sv: Huldrych Zwingli
     sw: Uldrik Zwingli
     ta: உல்ரிச் ஸ்விங்ளி
@@ -229,12 +229,12 @@ dv_has_:
     wuu: 乌利希·慈运理
     yue: 慈溫利
     zh: 慈運理
-    zh-cn: 慈运理
-    zh-hans: 慈运理
-    zh-hant: 慈運理
-    zh-hk: 慈運理
-    zh-sg: 慈运理
-    zh-tw: 慈運理
+    zh_cn: 慈运理
+    zh_hans: 慈运理
+    zh_hant: 慈運理
+    zh_hk: 慈運理
+    zh_sg: 慈运理
+    zh_tw: 慈運理
 ---
 # [[Zwingli,Huldrych]] 
 

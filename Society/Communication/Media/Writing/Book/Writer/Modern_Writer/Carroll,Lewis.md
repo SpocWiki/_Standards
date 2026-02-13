@@ -204,7 +204,7 @@ dv_has_:
     azb: لوئیس کارول
     ba: Льюис Кэрролл
     be: Льюіс Кэрал
-    be-tarask: Льюіс Кэрал
+    be_tarask: Льюіс Кэрал
     bg: Луис Карол
     bn: লুইস ক্যারল
     br: Lewis Carroll
@@ -217,12 +217,12 @@ dv_has_:
     da: Lewis Carroll
     de: Lewis Carroll
     de-at: Lewis Carroll
-    de-ch: Lewis Carroll
+    de_ch: Lewis Carroll
     diq: Lewis Carroll
     el: Λιούις Κάρολ
     en: Lewis Carroll
-    en-ca: Lewis Carroll
-    en-gb: Lewis Carroll
+    en_ca: Lewis Carroll
+    en_gb: Lewis Carroll
     eo: Lewis Carroll
     es: Lewis Carroll
     et: Lewis Carroll
@@ -288,7 +288,7 @@ dv_has_:
     pnb: لویس کیرل
     ps: لوئیس کارول
     pt: Lewis Carroll
-    pt-br: Lewis Carroll
+    pt_br: Lewis Carroll
     ro: Lewis Carroll
     ru: Льюис Кэрролл
     sc: Lewis Carroll
@@ -318,8 +318,8 @@ dv_has_:
     yi: לואיס קאראל
     yue: 卡洛爾
     zh: 路易斯·卡羅
-    zh-hans: 刘易斯·卡罗尔
-    zh-hant: 路易斯·卡羅
+    zh_hans: 刘易斯·卡罗尔
+    zh_hant: 路易斯·卡羅
 ---
 # [[Carroll,Lewis]] 
 

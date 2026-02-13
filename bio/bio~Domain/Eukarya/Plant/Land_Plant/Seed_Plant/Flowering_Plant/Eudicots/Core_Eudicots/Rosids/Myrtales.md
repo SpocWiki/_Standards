@@ -62,7 +62,7 @@ dv_has_:
     az: Mərsinçiçəklilər
     bcl: Myrtales
     be: Міртакветныя
-    be-tarask: Міртакветныя
+    be_tarask: Міртакветныя
     bg: миртоцветни
     bs: Myrtales
     ca: Mirtals
@@ -73,8 +73,8 @@ dv_has_:
     de: Myrtenartige
     el: Μυρτώδη
     en: Myrtales
-    en-ca: Myrtales
-    en-gb: Myrtales
+    en_ca: Myrtales
+    en_gb: Myrtales
     eo: Mirtaloj
     es: Myrtales
     et: Mürdilaadsed
@@ -113,7 +113,7 @@ dv_has_:
     oc: Myrtales
     pl: mirtowce
     pt: Myrtales
-    pt-br: Myrtales
+    pt_br: Myrtales
     ro: Myrtales
     ru: миртоцветные
     sco: Myrtales
@@ -122,7 +122,7 @@ dv_has_:
     smn: Myrtales
     sq: Myrtales
     sr: Myrtales
-    sr-el: Myrtales
+    sr_el: Myrtales
     sv: Myrtales
     te: మిర్టేలిస్
     th: อันดับชมพู่
@@ -136,10 +136,10 @@ dv_has_:
     wuu: 桃金娘目
     yue: 桃金娘目
     zh: 桃金娘目
-    zh-cn: 桃金娘目
-    zh-hans: 桃金娘目
-    zh-hant: 桃金娘目
-    zh-tw: 桃金孃目
+    zh_cn: 桃金娘目
+    zh_hans: 桃金娘目
+    zh_hant: 桃金娘目
+    zh_tw: 桃金孃目
 ---
 # [[Myrtales]] 
 

@@ -121,7 +121,7 @@ dv_has_:
     ar: لوحة أم
     ast: Placa base
     az: Ana lövhə
-    be-tarask: мацярынская плата
+    be_tarask: мацярынская плата
     bg: Дънна платка
     bn: মাদারবোর্ড
     br: Pennwal
@@ -133,8 +133,8 @@ dv_has_:
     de: Hauptplatine
     el: Μητρική κάρτα
     en: motherboard
-    en-ca: motherboard
-    en-gb: motherboard
+    en_ca: motherboard
+    en_gb: motherboard
     eo: ĉeftabulo
     es: placa base
     et: emaplaat
@@ -162,7 +162,7 @@ dv_has_:
     ka: დედაპლატა
     ki: Ndama ya Mbanyo
     kk: Жүйелік тақта
-    kk-cyrl: Аналық Тақша
+    kk_cyrl: Аналық Тақша
     ko: 메인보드
     ku: Makekart
     ky: Энелик такта
@@ -188,7 +188,7 @@ dv_has_:
     pms: Scheda mare
     ps: آر دړه
     pt: placa-mãe
-    pt-br: Placa-mãe
+    pt_br: Placa-mãe
     qu: Mama maru
     ro: placă de bază
     ru: материнская плата
@@ -222,9 +222,9 @@ dv_has_:
     yi: הויפט טאוול
     yue: 底板
     zh: 主板
-    zh-hant: 主機板
-    zh-hk: 底板
-    zh-tw: 主機板
+    zh_hant: 主機板
+    zh_hk: 底板
+    zh_tw: 主機板
 ---
 # [[Motherboard]] 
 

@@ -37,7 +37,7 @@ dv_has_:
     oc: Morinoideae
     pl: Morinoideae
     pt: Morinoideae
-    pt-br: Morinoideae
+    pt_br: Morinoideae
     ro: Morinoideae
     ru: Мориновые
     sq: Morinoideae

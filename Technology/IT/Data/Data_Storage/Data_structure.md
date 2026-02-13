@@ -118,7 +118,7 @@ dv_has_:
     as: ডে’টা ষ্ট্ৰাকচাৰ
     ast: estructura de datos
     be: структура даных
-    be-tarask: структура зьвестак
+    be_tarask: структура зьвестак
     bg: Структура от данни
     bn: উপাত্ত সংগঠন
     bs: Struktura podataka
@@ -153,11 +153,11 @@ dv_has_:
     ka: მონაცემთა სტრუქტურები
     kaa: Maǵlıwmatlar strukturası
     kk: мәліметтер құрылымы
-    kk-arab: مالىمەتتەر قۇرىلىمى
+    kk_arab: مالىمەتتەر قۇرىلىمى
     kk-cn: مالىمەتتەر قۇرىلىمى
-    kk-cyrl: Мәліметтер құрылымы
+    kk_cyrl: Мәліметтер құрылымы
     kk-kz: Мәліметтер құрылымы
-    kk-latn: mälimetter qurılımı
+    kk_latn: mälimetter qurılımı
     kk-tr: Mälimetter qurılımı
     kn: ಡೇಟಾ ಸ್ಟ್ರಕ್ಚರ್ಸ್
     ko: 자료 구조
@@ -170,7 +170,7 @@ dv_has_:
     ml: ഡാറ്റാ സ്ട്രക്ച്ചർ
     mn: Өгөгдлийн бүтэц
     ms: struktur data
-    ms-arab: ستروکتور معلومت
+    ms_arab: ستروکتور معلومت
     nan: Chu-liāu kò͘-chō
     nb: datastruktur
     nl: datastructuur
@@ -178,7 +178,7 @@ dv_has_:
     pl: struktura danych
     pms: Strutura dij dàit
     pt: estrutura de dados
-    pt-br: estrutura de dados
+    pt_br: estrutura de dados
     ro: structură de date
     ru: структура данных
     sh: Struktura podataka
@@ -187,32 +187,32 @@ dv_has_:
     sl: podatkovna struktura
     sq: struktura e të dhënave
     sr: структура података
-    sr-ec: структура података
-    sr-el: Struktura podataka
+    sr_ec: структура података
+    sr_el: Struktura podataka
     sv: datastruktur
     sw: Muundo wa Data
     ta: தரவமைப்பு
     tg: сохтори додаҳо
-    tg-cyrl: сохтори додаҳо
-    tg-latn: soxtori dodaho
+    tg_cyrl: сохтори додаҳо
+    tg_latn: soxtori dodaho
     th: โครงสร้างข้อมูล
     tl: Estruktura ng datos
     tr: veri yapısı
     tt: бирелмәләр төзелеше
-    tt-cyrl: бирелмәләр төзелеше
-    tt-latn: birelmälär tözeleše
+    tt_cyrl: бирелмәләр төзелеше
+    tt_latn: birelmälär tözeleše
     uk: структура даних
     uz: maʼlumotlar tuzilmasi
     vi: cấu trúc dữ liệu
     wuu: 数据结构
     yue: 數據結構
     zh: 数据结构
-    zh-cn: 数据结构
-    zh-hans: 数据结构
-    zh-hant: 資料結構
-    zh-hk: 資料結構
-    zh-sg: 数据结构
-    zh-tw: 資料結構
+    zh_cn: 数据结构
+    zh_hans: 数据结构
+    zh_hant: 資料結構
+    zh_hk: 資料結構
+    zh_sg: 数据结构
+    zh_tw: 資料結構
 ---
 # [[Data_structure]] 
 

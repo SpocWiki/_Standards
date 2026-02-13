@@ -121,7 +121,7 @@ dv_has_:
     azb: گونبز
     ba: Көмбәҙ
     be: Купал
-    be-tarask: купал
+    be_tarask: купал
     bg: Купол
     bn: গম্বুজ
     bs: Kupola
@@ -179,7 +179,7 @@ dv_has_:
     ml: അർധകുംഭകം
     mr: घुमट
     ms: kubah
-    ms-arab: قبة
+    ms_arab: قبة
     mzn: گمبذ
     nan: Îⁿ-téng
     nb: kuppel
@@ -203,7 +203,7 @@ dv_has_:
     sms: kupol
     sq: Kupola
     sr: купола
-    sr-ec: купола
+    sr_ec: купола
     sv: Kupol
     sw: Kuba
     ta: குவிமாடம்

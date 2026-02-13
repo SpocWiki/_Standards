@@ -7,7 +7,7 @@ dv_has_:
     ast: Modelu OSI
     az: OSI Modeli
     be: эталонная мадэль OSI
-    be-tarask: мадэль OSI
+    be_tarask: мадэль OSI
     bg: OSI модел
     bn: ওএসআই মডেল
     br: OSI
@@ -64,8 +64,8 @@ dv_has_:
     sl: referenčni model ISO/OSI
     sq: OSI
     sr: ОСИ модел
-    sr-ec: ОСИ модел
-    sr-el: OSI model
+    sr_ec: ОСИ модел
+    sr_el: OSI model
     sv: OSI-modellen
     ta: திறந்த முறைமை வலைப்பின்னல் மாதிரி
     te: ఓ.ఎస్.ఐ నమూనా
@@ -80,12 +80,12 @@ dv_has_:
     yo: OSI model
     yue: OSI模型
     zh: 开放式系统互联通信参考模型
-    zh-cn: OSI模型
-    zh-hans: OSI模型
-    zh-hant: OSI模型
-    zh-hk: OSI模型
-    zh-sg: OSI模型
-    zh-tw: OSI模型
+    zh_cn: OSI模型
+    zh_hans: OSI模型
+    zh_hant: OSI模型
+    zh_hk: OSI模型
+    zh_sg: OSI模型
+    zh_tw: OSI模型
 aliases:
 - atvērto sistēmu sadarbības bāzes etalonmodelis
 - Avatud süsteemide sidumise arhitektuur

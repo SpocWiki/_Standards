@@ -110,7 +110,7 @@ dv_has_:
     az: Myspace
     bar: myspace
     be: Myspace
-    be-tarask: Myspace
+    be_tarask: Myspace
     bg: Myspace
     bn: মাইস্পেস
     ca: MySpace
@@ -121,13 +121,13 @@ dv_has_:
     da: Myspace
     de: Myspace
     de-at: Myspace
-    de-ch: Myspace
+    de_ch: Myspace
     dty: माइस्पेस
     el: Myspace
     eml: Myspace
     en: Myspace
-    en-ca: Myspace
-    en-gb: Myspace
+    en_ca: Myspace
+    en_gb: Myspace
     eo: Myspace
     es: Myspace
     es-419: Myspace
@@ -174,7 +174,7 @@ dv_has_:
     nap: Myspace
     nb: Myspace
     nds: Myspace
-    nds-nl: Myspace
+    nds_nl: Myspace
     ne: माइस्पेस
     nl: Myspace
     nn: Myspace
@@ -184,7 +184,7 @@ dv_has_:
     pl: Myspace
     pms: Myspace
     pt: Myspace
-    pt-br: Myspace
+    pt_br: Myspace
     qu: Myspace
     rmf: MySpace
     ro: Myspace
@@ -226,14 +226,14 @@ dv_has_:
     yue: Myspace
     zea: Myspace
     zh: Myspace
-    zh-cn: Myspace
-    zh-hans: Myspace
-    zh-hant: Myspace
-    zh-hk: Myspace
-    zh-mo: Myspace
+    zh_cn: Myspace
+    zh_hans: Myspace
+    zh_hant: Myspace
+    zh_hk: Myspace
+    zh_mo: Myspace
     zh-my: Myspace
-    zh-sg: Myspace
-    zh-tw: Myspace
+    zh_sg: Myspace
+    zh_tw: Myspace
 ---
 # [[MySpace]] 
 

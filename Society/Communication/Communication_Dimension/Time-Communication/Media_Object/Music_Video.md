@@ -97,7 +97,7 @@ dv_has_:
     ast: videoclip
     az: Musiqi videosu
     be: музычны відэакліп
-    be-tarask: музычны відэакліп
+    be_tarask: музычны відэакліп
     bg: музикален видеоклип
     bs: muzički video
     ca: videoclip
@@ -108,8 +108,8 @@ dv_has_:
     de: Musikvideo
     diq: klibê videoy
     en: music video
-    en-ca: music video
-    en-gb: music video
+    en_ca: music video
+    en_gb: music video
     en-us: music video
     eo: muzikvideo
     es: videoclip
@@ -139,14 +139,14 @@ dv_has_:
     mk: Музичко видео
     mni: ꯃꯃꯤ ꯀꯨꯝꯃꯩ ꯏꯁꯩ
     ms: muzik video
-    ms-arab: موزيک ۏيديو
+    ms_arab: موزيک ۏيديو
     nb: musikkvideo
     nl: videoclip
     nn: musikkvideo
     pl: teledysk
     ps: د سندرې ويډيو
     pt: teledisco
-    pt-br: videoclipe
+    pt_br: videoclipe
     ro: videoclip muzical
     ru: музыкальный видеоклип
     se: musihkkavideo
@@ -159,8 +159,8 @@ dv_has_:
     sms: musikkvideo
     sq: video copa
     sr: muzički spot
-    sr-ec: Музички спот
-    sr-el: muzički spot
+    sr_ec: Музички спот
+    sr_el: muzički spot
     sv: musikvideo
     sw: muziki wa video
     th: มิวสิกวิดีโอ
@@ -173,12 +173,12 @@ dv_has_:
     yi: ווידעא קליפ
     yue: 音樂短片
     zh: 音樂影片
-    zh-cn: 音乐视频
-    zh-hans: 音乐影片
-    zh-hant: 音樂影片
-    zh-hk: 音樂影片
-    zh-sg: 音乐影片
-    zh-tw: 音樂影片
+    zh_cn: 音乐视频
+    zh_hans: 音乐影片
+    zh_hant: 音樂影片
+    zh_hk: 音樂影片
+    zh_sg: 音乐影片
+    zh_tw: 音樂影片
 ---
 # [[Music_Video]] 
 

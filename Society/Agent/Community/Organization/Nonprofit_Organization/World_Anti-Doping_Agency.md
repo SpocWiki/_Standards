@@ -97,17 +97,17 @@ dv_has_:
     az: Ümumdünya Antidopinq Agentliyi
     ba: Бөтә донъя допингҡа ҡаршы агентлыҡ
     be: Сусветнае антыдопінгавае агенцтва
-    be-tarask: Сусьветнае антыдопінгавае агенцтва
+    be_tarask: Сусьветнае антыдопінгавае агенцтва
     bg: Световна антидопингова агенция
     ca: Agència Mundial Antidopatge
     cs: Světová antidopingová agentura
     da: WADA
     de: Welt-Anti-Doping-Agentur
-    de-ch: Welt-Anti-Doping-Agentur
+    de_ch: Welt-Anti-Doping-Agentur
     el: Παγκόσµιος Οργανισµός Αντιντόπινγκ
     en: World Anti-Doping Agency
-    en-ca: World Anti-Doping Agency
-    en-gb: World Anti-Doping Agency
+    en_ca: World Anti-Doping Agency
+    en_gb: World Anti-Doping Agency
     eo: Monda kontraŭ-dopa agentejo
     es: Agencia Mundial Antidopaje
     et: Maailma Antidopingu Agentuur
@@ -136,7 +136,7 @@ dv_has_:
     pl: Światowa Agencja Antydopingowa
     pms: Agensìa Mondial contra 'l Bombagi
     pt: Agência Mundial Antidoping
-    pt-br: Agência Mundial Antidoping
+    pt_br: Agência Mundial Antidoping
     ro: Agenția Mondială Antidoping
     ru: Всемирное антидопинговое агентство
     sr: Светска антидопинг агенција
@@ -147,14 +147,14 @@ dv_has_:
     uk: Всесвітнє антидопінгове агентство
     vi: Cơ quan phòng chống doping thế giới
     zh: 世界反兴奋剂机构
-    zh-cn: 世界反兴奋剂机构
-    zh-hans: 世界反兴奋剂机构
-    zh-hant: 世界反運動禁藥機構
-    zh-hk: 世界運動禁藥機構
-    zh-mo: 世界反興奮劑機構
+    zh_cn: 世界反兴奋剂机构
+    zh_hans: 世界反兴奋剂机构
+    zh_hant: 世界反運動禁藥機構
+    zh_hk: 世界運動禁藥機構
+    zh_mo: 世界反興奮劑機構
     zh-my: 世界反兴奋剂机构
-    zh-sg: 世界反兴奋剂机构
-    zh-tw: 世界反運動禁藥機構
+    zh_sg: 世界反兴奋剂机构
+    zh_tw: 世界反運動禁藥機構
 ---
 # [[World_Anti-Doping_Agency]] 
 

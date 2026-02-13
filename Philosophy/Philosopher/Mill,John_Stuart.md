@@ -151,7 +151,7 @@ dv_has_:
     az: Con Stüart Mill
     bar: John Stuart Mill
     be: Джон Сцюарт Міль
-    be-tarask: Джон Ст’юарт Міл
+    be_tarask: Джон Ст’юарт Міл
     bg: Джон Стюарт Мил
     bn: জন স্টুয়ার্ট মিল
     br: John Stuart Mill
@@ -162,12 +162,12 @@ dv_has_:
     cy: John Stuart Mill
     da: John Stuart Mill
     de: John Stuart Mill
-    de-ch: John Stuart Mill
+    de_ch: John Stuart Mill
     ee: John Stuart Mill
     el: Τζον Στιούαρτ Μιλ
     en: John Stuart Mill
-    en-ca: John Stuart Mill
-    en-gb: John Stuart Mill
+    en_ca: John Stuart Mill
+    en_gb: John Stuart Mill
     eo: John Stuart Mill
     es: John Stuart Mill
     et: John Stuart Mill
@@ -220,7 +220,7 @@ dv_has_:
     pms: John Stuart Mill
     ps: جان ستورات میل
     pt: John Stuart Mill
-    pt-br: John Stuart Mill
+    pt_br: John Stuart Mill
     qu: John Stuart Mill
     ro: John Stuart Mill
     ru: Джон Стюарт Милль
@@ -231,8 +231,8 @@ dv_has_:
     sl: John Stuart Mill
     sq: John Stuart Mill
     sr: Џон Стјуарт Мил
-    sr-ec: Џон Стјуарт Мил
-    sr-el: Džon Stjuart Mil
+    sr_ec: Џон Стјуарт Мил
+    sr_el: Džon Stjuart Mil
     sv: John Stuart Mill
     ta: ஜான் ஸ்டூவர்ட் மில்
     te: జాన్ స్టూవర్ట్ మిల్
@@ -250,10 +250,10 @@ dv_has_:
     yo: John Stuart Mill
     yue: 米爾
     zh: 约翰·斯图尔特·密尔
-    zh-cn: 约翰·斯图尔特·密尔
+    zh_cn: 约翰·斯图尔特·密尔
     zh-hans: 约翰·斯图尔特·密尔
-    zh-hant: 约翰·斯图尔特·密尔
-    zh-hk: 約翰·史超域·美璐
+    zh_hant: 约翰·斯图尔特·密尔
+    zh_hk: 約翰·史超域·美璐
 ---
 # [[Mill,John_Stuart]] 
 

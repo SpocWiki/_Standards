@@ -99,8 +99,8 @@ Dewey_Decimal_Classification: 721.7
 OpenStreetMap_tag: support=ceiling
 dv_has_:
   name_:
-    aeb-arab: سقف
-    aeb-latn: s9af
+    aeb_arab: سقف
+    aeb_latn: s9af
     an: Teito
     ar: سقف
     arc: ܩܪܫܬܐ
@@ -108,7 +108,7 @@ dv_has_:
     az: Tavan
     azb: سقف
     be: столь
-    be-tarask: столь
+    be_tarask: столь
     bg: Таван
     br: Sel
     ca: sostre
@@ -118,11 +118,11 @@ dv_has_:
     cy: nenfwd
     da: loft
     de: Decke
-    de-ch: Decke
+    de_ch: Decke
     el: Οροφή
     en: ceiling
-    en-ca: Ceiling
-    en-gb: ceiling
+    en_ca: Ceiling
+    en_gb: ceiling
     en-us: ceiling
     eo: plafono
     es: techo
@@ -149,16 +149,16 @@ dv_has_:
     mk: таваница
     mnc: ᡳᠯᡥᠠᠩᡤᠠ ᠶᠠᠪᡳᡥᠠᠨ
     ms: siling
-    ms-arab: سيليڠ
+    ms_arab: سيليڠ
     my: မျက်နှာကြက်
     nan: Thian-pông
     nb: himling
-    nds-nl: plefon
+    nds_nl: plefon
     nl: plafond
     nn: himling
     pl: strop
     pt: teto
-    pt-br: Teto
+    pt_br: Teto
     ro: plafon
     ru: потолок
     rup: Tâvani
@@ -172,15 +172,15 @@ dv_has_:
     smn: pakkâkáttu
     sq: Tavani
     sr: плафон
-    sr-ec: плафон
-    sr-el: plafon
+    sr_ec: плафон
+    sr_el: plafon
     sv: innertak
     sw: Dari
     tg: Сақф
     tl: Kisame
     tr: tavan
     tt: түшәм
-    tt-cyrl: түшәм
+    tt_cyrl: түшәм
     uk: стеля
     vec: sofito
     vi: trần nhà
@@ -188,12 +188,12 @@ dv_has_:
     yi: סופיט
     yue: 天花板
     zh: 天花板
-    zh-cn: 天花板
-    zh-hans: 天花板
-    zh-hant: 天花板
-    zh-hk: 天花板
-    zh-sg: 天花板
-    zh-tw: 天花板
+    zh_cn: 天花板
+    zh_hans: 天花板
+    zh_hant: 天花板
+    zh_hk: 天花板
+    zh_sg: 天花板
+    zh_tw: 天花板
 ---
 # [[Ceiling]] 
 

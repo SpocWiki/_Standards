@@ -63,17 +63,17 @@ dv_has_:
     ar: الأبوة والأمومة عند المثليين
     as: এলজিবিটি অভিভাৱক
     be: аднаполая сям'я
-    be-tarask: ЛГБТ-сям’я
+    be_tarask: ЛГБТ-сям’я
     bg: ЛГБТ родителство
     bn: যৌন সংখ্যালঘুর পরিবার প্রতিপালন
     ca: família LGBT
     cs: LGBT rodičovství
     da: regnbuefamilie
     de: Regenbogenfamilie
-    de-ch: Regenbogenfamilie
+    de_ch: Regenbogenfamilie
     en: LGBT parenting
-    en-ca: LGBT parenting
-    en-gb: LGBT parenting
+    en_ca: LGBT parenting
+    en_gb: LGBT parenting
     es: familia homoparental
     et: LGBT lapsevanemad
     eu: LGBT gurasotasun
@@ -96,7 +96,7 @@ dv_has_:
     nl: homo ouderschap
     pl: Rodzicielstwo LGBT
     pt: parentalidade LGBT
-    pt-br: parentalidade LGBT
+    pt_br: parentalidade LGBT
     ru: радужная семья
     se: arvedávgebearaš
     sh: Istopolno roditeljstvo

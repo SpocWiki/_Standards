@@ -188,7 +188,7 @@ dv_has_:
     bas: nyùu
     bcl: organismo
     be: арганізм
-    be-tarask: арганізм
+    be_tarask: арганізм
     bg: организъм
     bn: জীব
     br: bevedeg
@@ -208,8 +208,8 @@ dv_has_:
     diq: gani
     el: οργανισμός
     en: organism
-    en-ca: organism
-    en-gb: organism
+    en_ca: organism
+    en_gb: organism
     eo: organismo
     es: ser vivo
     et: organism
@@ -273,7 +273,7 @@ dv_has_:
     mn: организм
     mr: सजीव
     ms: organisma
-    ms-arab: اورݢانيسما
+    ms_arab: اورݢانيسما
     my: သက်ရှိရုပ်စု
     nan: seng-bu̍t
     nap: organismi
@@ -295,7 +295,7 @@ dv_has_:
     pnb: آرگنزم
     ps: ارګانېزم
     pt: organismo
-    pt-br: organismo
+    pt_br: organismo
     qu: kawsaq
     ro: organism
     ru: организм
@@ -328,7 +328,7 @@ dv_has_:
     tok: ijo wile
     tr: canlı
     tt: организм
-    tt-cyrl: организм
+    tt_cyrl: организм
     udm: одӥг улэпос
     uk: організм
     ur: نامیہ
@@ -348,14 +348,14 @@ dv_has_:
     yue: 生物
     za: swnghvuz
     zh: 生物
-    zh-cn: 生物
-    zh-hans: 生物
-    zh-hant: 生物
-    zh-hk: 生物
-    zh-mo: 生物
+    zh_cn: 生物
+    zh_hans: 生物
+    zh_hant: 生物
+    zh_hk: 生物
+    zh_mo: 生物
     zh-my: 生物
-    zh-sg: 生物
-    zh-tw: 生物
+    zh_sg: 生物
+    zh_tw: 生物
     zu: ama-organisms
 ---
 # [[Organism]] 

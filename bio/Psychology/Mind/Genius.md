@@ -75,7 +75,7 @@ dv_has_:
     ar: عبقرية
     az: dahi
     be: геній
-    be-tarask: геній
+    be_tarask: геній
     bg: гений
     bn: প্রতিভা
     bs: genije
@@ -85,11 +85,11 @@ dv_has_:
     cs: genialita
     da: geni
     de: Genie
-    de-ch: Genie
+    de_ch: Genie
     el: ιδιοφυΐα
     en: genius
-    en-ca: genius
-    en-gb: genius
+    en_ca: genius
+    en_gb: genius
     en-us: genius
     eo: genio
     es: genio
@@ -110,11 +110,11 @@ dv_has_:
     ja: 天才
     ka: გენიოსი
     kk: кемеңгер
-    kk-arab: كەمەڭگەر
+    kk_arab: كەمەڭگەر
     kk-cn: كەمەڭگەر
-    kk-cyrl: кемеңгер
+    kk_cyrl: кемеңгер
     kk-kz: кемеңгер
-    kk-latn: kemeñger
+    kk_latn: kemeñger
     kk-tr: kemeñger
     ko: 천재
     ky: гениалдуулук
@@ -131,7 +131,7 @@ dv_has_:
     nn: geni
     pl: geniusz
     pt: génio
-    pt-br: gênio
+    pt_br: gênio
     ro: geniu
     ru: гений
     scn: Geniu
@@ -141,8 +141,8 @@ dv_has_:
     sn: mbarevare
     sq: gjeniu
     sr: геније
-    sr-ec: геније
-    sr-el: genije
+    sr_ec: геније
+    sr_el: genije
     sv: geni
     te: మేధావి
     th: อัจฉริยบุคคล
@@ -156,12 +156,12 @@ dv_has_:
     yi: גאון
     yue: 天才
     zh: 天才
-    zh-cn: 天才
-    zh-hans: 天才
-    zh-hant: 天才
-    zh-hk: 天才
-    zh-sg: 天才
-    zh-tw: 天才
+    zh_cn: 天才
+    zh_hans: 天才
+    zh_hant: 天才
+    zh_hk: 天才
+    zh_sg: 天才
+    zh_tw: 天才
 ---
 # [[Genius]] 
 

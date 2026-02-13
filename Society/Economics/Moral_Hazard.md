@@ -58,17 +58,17 @@ dv_has_:
     ar: خطر أخلاقي
     ast: riesgu moral
     az: Mənəvi zərər
-    be-tarask: маральная рызыка
+    be_tarask: маральная рызыка
     bg: Морален риск
     ca: risc moral
     cs: morální hazard
     da: moralfare
     de: Moral Hazard
-    de-ch: Moral Hazard
+    de_ch: Moral Hazard
     el: Ηθικός κίνδυνος
     en: moral hazard
-    en-ca: moral hazard
-    en-gb: moral hazard
+    en_ca: moral hazard
+    en_gb: moral hazard
     eo: Morala hazardo
     es: riesgo moral
     eu: arrisku moral
@@ -92,13 +92,13 @@ dv_has_:
     nl: moral hazard
     pl: pokusa nadużycia
     pt: risco moral
-    pt-br: risco moral
+    pt_br: risco moral
     ro: hazardul moral
     ru: моральный риск
     sl: moralni hazard
     sr: морални ризик
-    sr-ec: морални ризик
-    sr-el: moralni rizik
+    sr_ec: морални ризик
+    sr_el: moralni rizik
     sv: moralisk risk
     tr: Manevi zarar
     tt: әхлакый риск

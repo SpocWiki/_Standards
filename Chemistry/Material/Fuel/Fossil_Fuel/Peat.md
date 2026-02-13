@@ -108,7 +108,7 @@ dv_has_:
     az: Torf
     ba: Торф
     be: торф
-    be-tarask: торф
+    be_tarask: торф
     bg: Торф
     bjn: Gambut
     bn: পীট
@@ -123,8 +123,8 @@ dv_has_:
     de: Torf
     el: Τύρφη
     en: peat
-    en-ca: Peat
-    en-gb: peat
+    en_ca: Peat
+    en_gb: peat
     eo: torfo
     es: turba
     et: turvas
@@ -163,7 +163,7 @@ dv_has_:
     myv: Наргедь
     nb: torv
     nds: Torf
-    nds-nl: Törf
+    nds_nl: Törf
     nl: turf
     nn: torv
     oc: Torba
@@ -171,7 +171,7 @@ dv_has_:
     pcd: Troube
     pl: torf
     pt: turfa
-    pt-br: Turfa
+    pt_br: Turfa
     ro: Turbă
     ru: торф
     sco: peat
@@ -185,8 +185,8 @@ dv_has_:
     smn: lavŋe
     sms: lâuʹŋŋ
     sr: тресет
-    sr-ec: тресет
-    sr-el: treset
+    sr_ec: тресет
+    sr_el: treset
     sv: torv
     ta: முற்றா நிலக்கரி
     th: พีต

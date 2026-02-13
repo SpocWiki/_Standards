@@ -117,7 +117,7 @@ dv_has_:
     ast: Robert Zemeckis
     az: Robert Zemekis
     be: Роберт Земекіс
-    be-tarask: Робэрт Зэмэкіс
+    be_tarask: Робэрт Зэмэкіс
     bg: Робърт Земекис
     bn: রবার্ট জেমেকিস
     br: Robert Zemeckis
@@ -172,7 +172,7 @@ dv_has_:
     pl: Robert Zemeckis
     pnb: رابرٹ زیمکس
     pt: Robert Zemeckis
-    pt-br: Robert Zemeckis
+    pt_br: Robert Zemeckis
     qu: Robert Zemeckis
     ro: Robert Zemeckis
     ru: Роберт Земекис
@@ -194,12 +194,12 @@ dv_has_:
     yo: Robert Zemeckis
     yue: 羅拔湛米基斯
     zh: 羅拔·湛米基斯
-    zh-cn: 罗伯特·泽米吉斯
-    zh-hans: 罗伯特·泽米吉斯
-    zh-hant: 羅勃·辛密克斯
-    zh-hk: 羅拔湛米基斯
-    zh-sg: 罗拔·泽麦基斯
-    zh-tw: 羅勃·辛密克斯
+    zh_cn: 罗伯特·泽米吉斯
+    zh_hans: 罗伯特·泽米吉斯
+    zh_hant: 羅勃·辛密克斯
+    zh_hk: 羅拔湛米基斯
+    zh_sg: 罗拔·泽麦基斯
+    zh_tw: 羅勃·辛密克斯
 ---
 # [[Zemeckis,Robert]]  
 

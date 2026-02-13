@@ -172,7 +172,7 @@ dv_has_:
     az: Xuan Antonio Samaranç
     ba: Хуан Антонио Самаранч
     be: Хуан Антоніа Самаранч
-    be-tarask: Хуан Антоніё Самаранч
+    be_tarask: Хуан Антоніё Самаранч
     bg: Хуан Антонио Самаранч
     bn: জোয়াও এন্টোনিও সামারাঞ্চ
     bs: Juan Antonio Samaranch
@@ -201,11 +201,11 @@ dv_has_:
     it: Juan Antonio Samaranch
     ja: フアン・アントニオ・サマランチ
     kk: Хуан Антонио Самаранч
-    kk-arab: حۋان انتونىيو سامارانتش
+    kk_arab: حۋان انتونىيو سامارانتش
     kk-cn: حۋان انتونىيو سامارانتش
-    kk-cyrl: Хуан Антонио Самаранч
+    kk_cyrl: Хуан Антонио Самаранч
     kk-kz: Хуан Антонио Самаранч
-    kk-latn: Xwan Antonïo Samaranç
+    kk_latn: Xwan Antonïo Samaranç
     kk-tr: Xwan Antonïo Samaranç
     ko: 후안 안토니오 사마란치
     la: Ioannes Antonius Samaranch
@@ -224,7 +224,7 @@ dv_has_:
     pap: Juan Antonio Samaranch
     pl: Juan Antonio Samaranch
     pt: Juan Antonio Samaranch
-    pt-br: Juan Antonio Samaranch
+    pt_br: Juan Antonio Samaranch
     qu: Juan Antonio Samaranch
     ro: Juan Antonio Samaranch
     ru: Хуан Антонио Самаранч
@@ -233,8 +233,8 @@ dv_has_:
     sl: Juan Antonio Samaranch
     sq: Juan Antonio Samaranch
     sr: Хуан Антонио Самаран
-    sr-ec: Хуан Антонио Самаран
-    sr-el: Huan Antonio Samaran
+    sr_ec: Хуан Антонио Самаран
+    sr_el: Huan Antonio Samaran
     sv: Juan Antonio Samaranch
     th: ฆวน อันโตนิโอ ซามารันช์
     tl: Juan Antonio Samaranch
@@ -245,12 +245,12 @@ dv_has_:
     yo: Juan Antonio Samaranch
     yue: 薩馬蘭奇
     zh: 胡安·安东尼奥·萨马兰奇
-    zh-cn: 胡安·安东尼奥·萨马兰奇
-    zh-hans: 胡安·安东尼奥·萨马兰奇
-    zh-hant: 胡安·安東尼奧·薩馬蘭奇
-    zh-hk: 胡安·安東尼奧·薩馬蘭奇
-    zh-sg: 胡安·安东尼奥·萨马兰奇
-    zh-tw: 胡安·安東尼奧·薩馬蘭奇
+    zh_cn: 胡安·安东尼奥·萨马兰奇
+    zh_hans: 胡安·安东尼奥·萨马兰奇
+    zh_hant: 胡安·安東尼奧·薩馬蘭奇
+    zh_hk: 胡安·安東尼奧·薩馬蘭奇
+    zh_sg: 胡安·安东尼奥·萨马兰奇
+    zh_tw: 胡安·安東尼奧·薩馬蘭奇
 ---
 # [[Samaranch,Juan_Antonio]] 
 

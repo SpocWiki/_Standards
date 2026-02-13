@@ -232,7 +232,7 @@ dv_has_:
     ba: Джон Леннон
     ban: John Lennon
     be: Джон Ленан
-    be-tarask: Джон Ленан
+    be_tarask: Джон Ленан
     bg: Джон Ленън
     bi: John Lennon
     bn: জন লেনন
@@ -246,15 +246,15 @@ dv_has_:
     da: John Lennon
     dag: John Lennon
     de: John Lennon
-    de-ch: John Lennon
+    de_ch: John Lennon
     diq: John Lennon
     dsb: John Lennon
     ee: John Lennon
     el: Τζον Λένον
     eml: John Lennon
     en: John Lennon
-    en-ca: John Lennon
-    en-gb: John Lennon
+    en_ca: John Lennon
+    en_gb: John Lennon
     en-us: John Lennon
     eo: John Lennon
     es: John Lennon
@@ -334,7 +334,7 @@ dv_has_:
     pnb: جان لینن
     ps: جان لېنون
     pt: John Lennon
-    pt-br: John Lennon
+    pt_br: John Lennon
     qu: John Lennon
     rmf: John Lennon
     ro: John Lennon
@@ -379,13 +379,13 @@ dv_has_:
     yo: John Lennon
     yue: 約翰連儂
     zh: 約翰·列儂
-    zh-cn: 约翰·列侬
-    zh-hans: 约翰·列侬
-    zh-hant: 約翰·藍儂
-    zh-hk: 約翰連儂
+    zh_cn: 约翰·列侬
+    zh_hans: 约翰·列侬
+    zh_hant: 約翰·藍儂
+    zh_hk: 約翰連儂
     zh-my: 约翰·连侬
-    zh-sg: 约翰·连侬
-    zh-tw: 約翰·藍儂
+    zh_sg: 约翰·连侬
+    zh_tw: 約翰·藍儂
     zu: John Lennon
 ---
 # [[Lennon,John]] 

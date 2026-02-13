@@ -90,7 +90,7 @@ dv_has_:
   name_:
     ar: جليد بحري
     ast: Banquisa
-    be-tarask: марскі лёд
+    be_tarask: марскі лёд
     bg: морски лед
     br: morskorneg
     ca: gel marí
@@ -121,11 +121,11 @@ dv_has_:
     ka: ზღვის ყინული
     kbp: Paŋgiizi
     kk: Нилас
-    kk-arab: نىيلاس
+    kk_arab: نىيلاس
     kk-cn: نىيلاس
-    kk-cyrl: Нилас
+    kk_cyrl: Нилас
     kk-kz: Нилас
-    kk-latn: Nïlas
+    kk_latn: Nïlas
     kk-tr: Nïlas
     ko: 해빙
     kw: Morrew
@@ -148,8 +148,8 @@ dv_has_:
     sl: morski led
     smn: merâjieŋâ
     sr: Морски лед
-    sr-ec: морски лед
-    sr-el: morski led
+    sr_ec: морски лед
+    sr_el: morski led
     sv: havsis
     ta: கடற்பனி
     tr: deniz buzu
@@ -158,12 +158,12 @@ dv_has_:
     vi: Băng biển
     yue: 海冰
     zh: 海冰
-    zh-cn: 海冰
-    zh-hans: 海冰
-    zh-hant: 海冰
-    zh-hk: 海冰
-    zh-sg: 海冰
-    zh-tw: 海冰
+    zh_cn: 海冰
+    zh_hans: 海冰
+    zh_hant: 海冰
+    zh_hk: 海冰
+    zh_sg: 海冰
+    zh_tw: 海冰
 ---
 # [[Sea_Ice]] 
 

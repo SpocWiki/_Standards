@@ -89,7 +89,7 @@ dv_has_:
     az: Kazarma
     bar: Kasern
     be: казарма
-    be-tarask: казарма
+    be_tarask: казарма
     bg: Казарма
     ca: caserna
     chy: nótȧxémȧheonȯtse
@@ -99,7 +99,7 @@ dv_has_:
     de: Kaserne
     el: στρατώνας
     en: barracks
-    en-gb: barracks
+    en_gb: barracks
     eo: kazerno
     es: cuartel
     et: kasarm
@@ -125,7 +125,7 @@ dv_has_:
     lv: kazarmas
     mk: касарна
     ms: berek
-    ms-arab: تڠسي
+    ms_arab: تڠسي
     nb: kaserne
     nds: Kaserne
     nl: kazerne
@@ -133,7 +133,7 @@ dv_has_:
     os: къазармæ
     pl: koszary
     pt: quartel
-    pt-br: quartel
+    pt_br: quartel
     ro: Cazarmă
     ru: казарма
     sc: Cuarteri
@@ -144,8 +144,8 @@ dv_has_:
     sms: kasarmm
     sq: Kazerma
     sr: касарна
-    sr-ec: Касарна
-    sr-el: Kasarna
+    sr_ec: Касарна
+    sr_el: Kasarna
     sv: kasern
     szl: kasarnia
     ta: படைவீடு (ஆயுதப்படைகள்)
@@ -157,9 +157,9 @@ dv_has_:
     wuu: 兵房
     yue: 兵房
     zh: 軍營
-    zh-hant: 軍營
-    zh-hk: 軍營
-    zh-tw: 軍營
+    zh_hant: 軍營
+    zh_hk: 軍營
+    zh_tw: 軍營
 ---
 # [[Barracks]] 
 

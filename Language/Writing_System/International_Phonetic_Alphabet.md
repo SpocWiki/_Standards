@@ -311,7 +311,7 @@ dv_has_:
     ba: Халыҡ-ара фонетик алфавит
     bar: Internationals Phonetischs Alphabet
     be: міжнародны фанетычны алфавіт
-    be-tarask: Міжнародны фанэтычны альфабэт
+    be_tarask: Міжнародны фанэтычны альфабэт
     bg: Международна фонетична азбука
     bn: আন্তর্জাতিক ধ্বনিমূলক বর্ণমালা
     bo: རྒྱལ་སྤྱིའི་སྒྲ་རྟགས།
@@ -332,8 +332,8 @@ dv_has_:
     dz: རྒྱལ་སྤྱིའི་སྒྲ་གདངས་ཡི་གེ།
     el: Διεθνές Φωνητικό Αλφάβητο
     en: International Phonetic Alphabet
-    en-ca: International Phonetic Alphabet
-    en-gb: International Phonetic Alphabet
+    en_ca: International Phonetic Alphabet
+    en_gb: International Phonetic Alphabet
     eo: Internacia Fonetika Alfabeto
     es: Alfabeto Fonético Internacional
     et: IPA
@@ -406,7 +406,7 @@ dv_has_:
     nan: Kok-chè Im-phiau
     nb: Det internasjonale fonetiske alfabetet
     nds: Internatschonal Phoneetsch Alphabet
-    nds-nl: Internasjonaal Klaankenskrift
+    nds_nl: Internasjonaal Klaankenskrift
     ne: अन्तर्राष्ट्रीय ध्वन्यात्मक लिपि
     nl: Internationaal Fonetisch Alfabet
     nn: Det internasjonale fonetiske alfabetet
@@ -440,7 +440,7 @@ dv_has_:
     sl: mednarodna fonetična abeceda
     sq: Alfabeti Fonetik Ndërkombëtar
     sr: ;еђународна фонетска абецеда
-    sr-ec: Међународна фонетска абецеда
+    sr_ec: Међународна фонетска абецеда
     su: Alfabét Fonétis Internasional
     sv: Internationella fonetiska alfabetet
     sw: Alfabeti ya kifonetiki ya kimataifa
@@ -457,7 +457,7 @@ dv_has_:
     tr: Uluslararası Fonetik Alfabe
     trv: Patis hengak kkklangan
     tt: халыкара фонетик әлифбасы
-    tt-cyrl: халыкара фонетик әлифбасы
+    tt_cyrl: халыкара фонетик әлифбасы
     ug: خەلقئارالىق ڧونېتىك ئەلىڧبە
     uk: міжнародний фонетичний алфавіт
     ur: بین الاقوامی اصواتی ابجدیہ
@@ -472,10 +472,10 @@ dv_has_:
     xmf: ოერეფოშქაშე ფონეტიკური ანბანი
     yue: 國際音標
     zh: 國際音標
-    zh-cn: 国际音标
-    zh-hans: 国际音标
-    zh-hant: 國際音標
-    zh-hk: 國際音標
+    zh_cn: 国际音标
+    zh_hans: 国际音标
+    zh_hant: 國際音標
+    zh_hk: 國際音標
 ---
 # [[International_Phonetic_Alphabet]] 
 

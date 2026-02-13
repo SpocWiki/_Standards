@@ -155,7 +155,7 @@ dv_has_:
     ba: Кәбеҫтә
     bar: Brassica oleracea
     be: капуста агародная
-    be-tarask: капуста гароднінная
+    be_tarask: капуста гароднінная
     bg: Brassica oleracea
     bho: गोभी
     bn: বুনো বাঁধাকপি
@@ -170,11 +170,11 @@ dv_has_:
     da: Have-Kål
     de: Gemüsekohl
     de-at: Brassica oleracea
-    de-ch: Brassica oleracea
+    de_ch: Brassica oleracea
     dsb: Zeleninowy kał
     en: Brassica oleracea
-    en-ca: Brassica oleracea
-    en-gb: Brassica oleracea
+    en_ca: Brassica oleracea
+    en_gb: Brassica oleracea
     eo: legoma brasiko
     es: Brassica oleracea
     et: kapsas
@@ -208,11 +208,11 @@ dv_has_:
     kaa: Kapusta
     kg: Brassica oleracea
     kk: Жапырақты қырыққабат
-    kk-arab: جاپىراقتى قىرىققابات
+    kk_arab: جاپىراقتى قىرىققابات
     kk-cn: جاپىراقتى قىرىققابات
-    kk-cyrl: Жапырақты қырыққабат
+    kk_cyrl: Жапырақты қырыққабат
     kk-kz: Жапырақты қырыққабат
-    kk-latn: Japıraqtı qırıqqabat
+    kk_latn: Japıraqtı qırıqqabat
     kk-tr: Japıraqtı qırıqqabat
     ko: 브라시카 올레라케아
     ks: مۄنٛجہٕ ہاکھ
@@ -236,7 +236,7 @@ dv_has_:
     nap: Brassica oleracea
     nb: kål
     nds: Brassica oleracea
-    nds-nl: Brassica oleracea
+    nds_nl: Brassica oleracea
     nl: kool
     nn: kål
     nrm: Brassica oleracea
@@ -248,7 +248,7 @@ dv_has_:
     pms: Brassica oleracea
     ps: كرم
     pt: couves
-    pt-br: Couve
+    pt_br: Couve
     qu: Kulis
     rm: Brassica oleracea
     rn: Ishu
@@ -265,15 +265,15 @@ dv_has_:
     sl: Brassica oleracea
     sq: Brassica oleracea
     sr: дивљи купус
-    sr-ec: Дивљи купус
-    sr-el: Divlji kupus
+    sr_ec: Дивљи купус
+    sr_el: Divlji kupus
     sv: Kål
     sw: Brassica oleracea
     ta: பிராசிகா ஓலரேசியா
     tk: Kelem
     tl: Brassica oleracea
     tt: бакча кәбестәсе
-    tt-cyrl: бакча кәбестәсе
+    tt_cyrl: бакча кәбестәсе
     tyv: Байзаа
     uk: капуста городня
     ur: بند گوبھی
@@ -289,12 +289,12 @@ dv_has_:
     yi: קרויט
     yue: 甘藍
     zh: 甘藍
-    zh-cn: 甘蓝
-    zh-hans: 甘蓝
-    zh-hant: 甘藍
-    zh-hk: 甘藍
-    zh-sg: 甘蓝
-    zh-tw: 甘藍
+    zh_cn: 甘蓝
+    zh_hans: 甘蓝
+    zh_hant: 甘藍
+    zh_hk: 甘藍
+    zh_sg: 甘蓝
+    zh_tw: 甘藍
     zu: Brassica oleracea
 ---
 # [[Brassica_oleracea]] 

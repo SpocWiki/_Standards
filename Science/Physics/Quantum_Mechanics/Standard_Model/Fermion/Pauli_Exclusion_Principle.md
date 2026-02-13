@@ -87,7 +87,7 @@ dv_has_:
     as: পাউলিৰ নিষেধ নীতি
     ast: Principiu d'esclusión de Pauli
     be: Прынцып Паўлі
-    be-tarask: прынцып Паўлі
+    be_tarask: прынцып Паўлі
     bg: Принцип на Паули
     bn: পাউলির অপবর্জন নীতি
     bs: Paulijev princip isključenja
@@ -145,8 +145,8 @@ dv_has_:
     sl: Paulijevo izključitveno načelo
     sq: Parimi i përjashtimit i Paulit
     sr: Паулијев принцип
-    sr-ec: Паулијев принцип
-    sr-el: Paulijev princip
+    sr_ec: Паулијев принцип
+    sr_el: Paulijev princip
     sv: Paulis uteslutningsprincip
     sw: Kanuni ya Pauli
     ta: பவுலி தவிர்ப்புத் தத்துவம்
@@ -160,12 +160,12 @@ dv_has_:
     wuu: 泡利弗相容原理
     yue: 鮑利不相容原理
     zh: 泡利不相容原理
-    zh-cn: 泡利不相容原理
-    zh-hans: 泡利不相容原理
-    zh-hant: 包立不相容原理
-    zh-hk: 包立不相容原理
-    zh-sg: 泡利不相容原理
-    zh-tw: 包立不相容原理
+    zh_cn: 泡利不相容原理
+    zh_hans: 泡利不相容原理
+    zh_hant: 包立不相容原理
+    zh_hk: 包立不相容原理
+    zh_sg: 泡利不相容原理
+    zh_tw: 包立不相容原理
 ---
 # [[Pauli_Exclusion_Principle]] 
 

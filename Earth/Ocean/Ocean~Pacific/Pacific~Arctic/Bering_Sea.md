@@ -216,7 +216,7 @@ dv_has_:
     ba: Беринг диңгеҙе
     bar: Beringmeer
     be: Берынгава мора
-    be-tarask: Бэрынгава мора
+    be_tarask: Бэрынгава мора
     bg: Берингово море
     bn: বেরিং সাগর
     br: Mor Bering
@@ -318,7 +318,7 @@ dv_has_:
     yo: Òkun Bering
     yue: 白令海
     zh: 白令海
-    zh-hant: 白令海
+    zh_hant: 白令海
 ---
 # [[Bering_Sea]] 
 

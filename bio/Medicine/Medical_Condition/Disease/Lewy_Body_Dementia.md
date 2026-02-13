@@ -238,7 +238,7 @@ dv_has_:
     az: Parkinson xəstəliyi
     azb: پارکینسون مریضلیگی
     be: Хвароба Паркінсона
-    be-tarask: хвароба Паркінсона
+    be_tarask: хвароба Паркінсона
     bg: Болест на Паркинсон
     bn: পারকিনসন রোগ
     br: kleñved Parkinson
@@ -254,8 +254,8 @@ dv_has_:
     el: νόσος του Πάρκινσον
     eml: Pàrkinson
     en: Parkinson's disease
-    en-ca: Parkinson's disease
-    en-gb: Parkinson's disease
+    en_ca: Parkinson's disease
+    en_gb: Parkinson's disease
     eo: Parkinsona malsano
     es: enfermedad de Parkinson
     et: Parkinsoni tõbi
@@ -317,7 +317,7 @@ dv_has_:
     pnb: پارکنسن دی بیماری
     ps: د پارکېنسون ناروغي
     pt: doença de Parkinson
-    pt-br: doença de Parkinson
+    pt_br: doença de Parkinson
     ro: boala Parkinson
     ru: болезнь Паркинсона
     sco: Parkinson's disease
@@ -348,14 +348,14 @@ dv_has_:
     yo: Àrùn Parkinson
     yue: 柏金遜症
     zh: 帕金森病
-    zh-cn: 帕金森病
-    zh-hans: 帕金森病
-    zh-hant: 帕金森病
-    zh-hk: 柏金遜症
-    zh-mo: 柏金遜症
+    zh_cn: 帕金森病
+    zh_hans: 帕金森病
+    zh_hant: 帕金森病
+    zh_hk: 柏金遜症
+    zh_mo: 柏金遜症
     zh-my: 帕金森病
-    zh-sg: 帕金森病
-    zh-tw: 巴金森氏症
+    zh_sg: 帕金森病
+    zh_tw: 巴金森氏症
 ---
 # [[Lewy_Body_Dementia]]
 

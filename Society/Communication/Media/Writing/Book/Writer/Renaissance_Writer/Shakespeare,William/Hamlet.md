@@ -235,7 +235,7 @@ dv_has_:
     azb: هاملت
     ba: Гамлет
     be: Гамлет, прынц дацкі
-    be-tarask: Гамлет
+    be_tarask: Гамлет
     bg: Хамлет
     bi: Hamlet
     bn: হ্যামলেট
@@ -330,8 +330,8 @@ dv_has_:
     yi: האמלעט
     yue: 哈姆雷特
     zh: 哈姆雷特
-    zh-cn: 哈姆雷特
-    zh-hk: 哈姆雷特
+    zh_cn: 哈姆雷特
+    zh_hk: 哈姆雷特
 ---
 # [[Hamlet]] 
 

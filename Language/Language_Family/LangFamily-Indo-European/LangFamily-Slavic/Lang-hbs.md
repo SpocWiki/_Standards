@@ -204,7 +204,7 @@ GitHub_topic: serbo-croatian
 Glottolog_code: sout1528
 dv_has_:
   name_:
-    aeb-arab: الصربي الكرواتي
+    aeb_arab: الصربي الكرواتي
     af: Serwo-Kroaties
     an: Idioma serbocrovate
     ar: الصربية الكرواتية
@@ -215,7 +215,7 @@ dv_has_:
     azb: صیرب-کرووات دیلی
     ba: Серб-хорват теле
     be: сербахарвацкая мова
-    be-tarask: сэрбскахарвацкая мова
+    be_tarask: сэрбскахарвацкая мова
     bg: сърбохърватски език
     bn: সার্বো-ক্রোয়েশীয়-বসনীয় ভাষা
     br: serbeg-ha-kroateg
@@ -233,8 +233,8 @@ dv_has_:
     el: Σερβοκροατική γλώσσα
     eml: Sèrb-Cruàt
     en: Serbo-Croatian
-    en-ca: Serbo-Croatian
-    en-gb: Serbo-Croatian
+    en_ca: Serbo-Croatian
+    en_gb: Serbo-Croatian
     eo: serbokroata lingvo
     es: serbocroata
     et: serbia-horvaadi keel
@@ -296,7 +296,7 @@ dv_has_:
     pnb: سرب کروشیائی
     ps: سربي کرواتي ژبه
     pt: Língua servo-croata
-    pt-br: Língua servo-croata
+    pt_br: Língua servo-croata
     qu: Sirbu hurwat rimay
     ro: sârbocroată
     ru: сербохорватский язык
@@ -313,8 +313,8 @@ dv_has_:
     sms: serbokroatiaǩiõll
     sq: serbokroatisht
     sr: српскохрватски језик
-    sr-ec: српскохрватски језик
-    sr-el: srpskohrvatski jezik
+    sr_ec: српскохрватски језик
+    sr_el: srpskohrvatski jezik
     sv: serbokroatiska
     sw: Kiserbokroatia
     szl: Serbskochorwackŏ gŏdka
@@ -337,13 +337,13 @@ dv_has_:
     yi: סערבא-קראאטיש
     yue: 塞爾維亞-克羅地亞文
     zh: 塞尔维亚-克罗地亚语
-    zh-cn: 塞尔维亚-克罗地亚语
-    zh-hans: 塞尔维亚-克罗地亚语
-    zh-hant: 塞爾維亞-克羅地亞語
-    zh-hk: 塞爾維亞-克羅地亞語
-    zh-mo: 塞爾維亞-克羅地亞語
-    zh-sg: 塞尔维亚-克罗地亚语
-    zh-tw: 塞爾維亞-克羅埃西亞語
+    zh_cn: 塞尔维亚-克罗地亚语
+    zh_hans: 塞尔维亚-克罗地亚语
+    zh_hant: 塞爾維亞-克羅地亞語
+    zh_hk: 塞爾維亞-克羅地亞語
+    zh_mo: 塞爾維亞-克羅地亞語
+    zh_sg: 塞尔维亚-克罗地亚语
+    zh_tw: 塞爾維亞-克羅埃西亞語
     zu: isi-Serbo-Croatian
 ---
 # [[Lang-hbs]] 

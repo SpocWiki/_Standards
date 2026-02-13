@@ -137,8 +137,8 @@ Commons_gallery: Olive oil
 Commons_category: Olive oil
 dv_has_:
   name_:
-    aeb-arab: زيت زيتونة
-    aeb-latn: zit zitouna
+    aeb_arab: زيت زيتونة
+    aeb_latn: zit zitouna
     an: Aceite d'oliva
     ar: زيت الزيتون
     arz: زيت زتون
@@ -146,7 +146,7 @@ dv_has_:
     az: Zeytun yağı
     ba: зәйтүн майы
     be: Аліўкавы алей
-    be-tarask: аліўкавы алей
+    be_tarask: аліўкавы алей
     bg: Зехтин
     bn: জলপাই তেল
     br: eoul olivez
@@ -157,11 +157,11 @@ dv_has_:
     cy: olew olewydd
     da: olivenolie
     de: Olivenöl
-    de-ch: Olivenöl
+    de_ch: Olivenöl
     el: ελαιόλαδο
     en: olive oil
-    en-ca: Olive oil
-    en-gb: olive oil
+    en_ca: Olive oil
+    en_gb: olive oil
     eo: oliv-oleo
     es: aceite de oliva
     et: oliiviõli
@@ -224,7 +224,7 @@ dv_has_:
     pl: oliwa z oliwek
     pnb: جیتون دا تیل
     pt: azeite
-    pt-br: Azeite
+    pt_br: Azeite
     ro: ulei de măsline
     roa-tara: uegghie de l'alie
     ru: оливковое масло
@@ -239,8 +239,8 @@ dv_has_:
     sl: oljčno olje
     sq: Vaji i ullirit
     sr: маслиново уље
-    sr-ec: маслиново уље
-    sr-el: maslinovo ulje
+    sr_ec: маслиново уље
+    sr_el: maslinovo ulje
     sv: olivolja
     ta: ஆலிவ் எண்ணெய்
     te: ఆలివ్ నూనె
@@ -257,11 +257,11 @@ dv_has_:
     yue: 橄欖油
     zh: 橄欖油
     zh-cn: 橄榄油
-    zh-hans: 橄榄油
-    zh-hant: 橄欖油
-    zh-hk: 橄欖油
-    zh-sg: 橄榄油
-    zh-tw: 橄欖油
+    zh_hans: 橄榄油
+    zh_hant: 橄欖油
+    zh_hk: 橄欖油
+    zh_sg: 橄榄油
+    zh_tw: 橄欖油
 ---
 # [[Olive_Oil]] 
 

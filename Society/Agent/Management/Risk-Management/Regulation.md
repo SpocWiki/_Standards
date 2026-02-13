@@ -3,7 +3,7 @@ has_id_wikidata: Q428148
 dv_has_:
   name_:
     ar: تنظيم
-    be-tarask: рэгуляваньне
+    be_tarask: рэгуляваньне
     bg: Регулация
     bn: প্রনিয়ম
     br: reoliata
@@ -42,7 +42,7 @@ dv_has_:
     nl: regulering
     pl: regulamin
     pt: regulação
-    pt-br: regulação
+    pt_br: regulação
     ro: reglementare
     ru: правовое регулирование
     sl: regulacija
@@ -55,9 +55,9 @@ dv_has_:
     vec: regołasion
     yue: 規矩
     zh: 规制
-    zh-cn: 规制
-    zh-hans: 规制
-    zh-hant: 規制
+    zh_cn: 规制
+    zh_hans: 规制
+    zh_hant: 規制
 aliases:
 - araudi
 - bacadh

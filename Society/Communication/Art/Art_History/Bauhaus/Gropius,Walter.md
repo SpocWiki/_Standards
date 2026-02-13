@@ -145,7 +145,7 @@ dv_has_:
     bar: Walter Gropius
     bcl: Walter Gropius
     be: Вальтэр Гропіус
-    be-tarask: Вальтэр Гропіюс
+    be_tarask: Вальтэр Гропіюс
     bg: Валтер Гропиус
     br: Walter Gropius
     bs: Walter Gropius
@@ -158,8 +158,8 @@ dv_has_:
     de: Walter Gropius
     el: Βάλτερ Γκρόπιους
     en: Walter Gropius
-    en-ca: Walter Gropius
-    en-gb: Walter Gropius
+    en_ca: Walter Gropius
+    en_gb: Walter Gropius
     eo: Walter Gropius
     es: Walter Gropius
     et: Walter Gropius
@@ -201,7 +201,7 @@ dv_has_:
     pms: Walter Gropius
     pnb: والٹر گروپیاس
     pt: Walter Gropius
-    pt-br: Walter Gropius
+    pt_br: Walter Gropius
     qu: Walter Gropius
     ro: Walter Gropius
     ru: Вальтер Гропиус
@@ -224,10 +224,10 @@ dv_has_:
     wuu: 瓦尔特·格罗皮乌斯
     yue: 華特葛羅佩斯
     zh: 沃爾特·格羅佩斯
-    zh-cn: 瓦尔特·格罗皮乌斯
-    zh-hans: 瓦尔特·格罗皮乌斯
-    zh-hant: 華特·葛羅培斯
-    zh-hk: 華特·葛羅佩斯
+    zh_cn: 瓦尔特·格罗皮乌斯
+    zh_hans: 瓦尔特·格罗皮乌斯
+    zh_hant: 華特·葛羅培斯
+    zh_hk: 華特·葛羅佩斯
 ---
 # [[Gropius,Walter]] 
 

@@ -157,7 +157,7 @@ Krugosvet_article_archived_: gumanitarnye_nauki/lingvistika/GUDZHARATI.html
 GOST_7_75_97_code: гуд 165
 dv_has_:
   name_:
-    aeb-arab: الكجراتية
+    aeb_arab: الكجراتية
     af: Gujarati
     am: ጉጃራቲ
     an: Gucharatí
@@ -170,7 +170,7 @@ dv_has_:
     ba: Гуджарат теле
     ban: Basa Gujarat
     be: гуджараці
-    be-tarask: гуджараці
+    be_tarask: гуджараці
     bg: Гуджаратски език
     bho: गुजराती भाषा
     bn: গুজরাতি ভাষা
@@ -183,12 +183,12 @@ dv_has_:
     cy: Gwjarati
     da: gujarati
     de: Gujarati
-    de-ch: Gujarati
+    de_ch: Gujarati
     diq: Guceratki
     el: γκουτζαράτι
     en: Gujarati
-    en-ca: Gujarati
-    en-gb: Gujarati
+    en_ca: Gujarati
+    en_gb: Gujarati
     eo: guĝarata lingvo
     es: guyarati
     et: gudžarati keel
@@ -267,7 +267,7 @@ dv_has_:
     sms: gudžaratiǩiõll
     sq: Gjuha guxharati
     sr: гуџарати језик
-    sr-ec: гуџарати језик
+    sr_ec: гуџарати језик
     sv: gujarati
     sw: Kigujarati
     ta: குஜராத்தி
@@ -291,7 +291,7 @@ dv_has_:
     xmf: გუჯარათული ნინა
     yue: 古吉拉特話
     zh: 古吉拉特語
-    zh-hant: 古加拉特語
+    zh_hant: 古加拉特語
     zu: isi-Gujarati
 ---
 # [[Lang-guj]] 

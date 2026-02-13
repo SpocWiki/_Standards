@@ -144,8 +144,8 @@ OpenStreetMap_tag:
 Dewey_Decimal_Classification: 721.2
 dv_has_:
   name_:
-    aeb-arab: ساس
-    aeb-latn: sès
+    aeb_arab: ساس
+    aeb_latn: sès
     af: muur
     ak: afasuo
     am: ግድግዳ
@@ -158,7 +158,7 @@ dv_has_:
     ban: témbok
     bcl: lanob
     be: сцяна
-    be-tarask: сьцяна
+    be_tarask: сьцяна
     bew: tèmbok
     bg: стена
     bn: দেয়াল
@@ -176,8 +176,8 @@ dv_has_:
     de: Mauer
     el: τοίχος
     en: wall
-    en-ca: wall
-    en-gb: wall
+    en_ca: wall
+    en_gb: wall
     en-us: wall
     eo: muro
     es: pared
@@ -223,13 +223,13 @@ dv_has_:
     mk: ѕид
     mnc: ᡶᡠ
     ms: dinding
-    ms-arab: دينديڠ
+    ms_arab: دينديڠ
     my: တံတိုင်း
     nah: pāntli
     nan: piah
     nb: mur
     nds: Muur
-    nds-nl: mure
+    nds_nl: mure
     ne: पर्खाल
     new: अंगः
     nl: muur
@@ -243,7 +243,7 @@ dv_has_:
     pnb: کندھ
     pnt: τουβάρ'
     pt: muro
-    pt-br: muro
+    pt_br: muro
     qu: pirqa
     ro: zid
     ru: стена
@@ -266,8 +266,8 @@ dv_has_:
     so: derbi
     sq: mur
     sr: зид
-    sr-ec: зид
-    sr-el: zid
+    sr_ec: зид
+    sr_el: zid
     sv: mur
     ta: மதில்
     te: గోడ
@@ -276,7 +276,7 @@ dv_has_:
     tl: dingding
     tr: dik duvar
     tt: дивар
-    tt-cyrl: дивар
+    tt_cyrl: дивар
     uk: стіна
     ur: دیوار
     uz: devor
@@ -288,14 +288,14 @@ dv_has_:
     xh: udonga
     yue: 牆
     zh: 墙
-    zh-cn: 墙
-    zh-hans: 墙
-    zh-hant: 牆
-    zh-hk: 牆
-    zh-mo: 牆
+    zh_cn: 墙
+    zh_hans: 墙
+    zh_hant: 牆
+    zh_hk: 牆
+    zh_mo: 牆
     zh-my: 墙
-    zh-sg: 墙
-    zh-tw: 牆
+    zh_sg: 墙
+    zh_tw: 牆
 ---
 # [[Wall]] 
 

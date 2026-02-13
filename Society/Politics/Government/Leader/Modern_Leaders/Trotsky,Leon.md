@@ -239,7 +239,7 @@ dv_has_:
     ban: Leon Trotsky
     bar: Leo Trotzki
     be: Леў Троцкі
-    be-tarask: Леў Троцкі
+    be_tarask: Леў Троцкі
     bg: Лев Троцки
     bn: লিওন ত্রোত্স্কি
     bo: ལི་ཡོན་ཁྲོའོ་ཚི་ཁི།
@@ -256,12 +256,12 @@ dv_has_:
     cy: Leon Trotsky
     da: Lev Trotskij
     de: Leo Trotzki
-    de-ch: Leo Trotzki
+    de_ch: Leo Trotzki
     diq: Lev Troçki
     el: Λέων Τρότσκι
     en: Leon Trotsky
-    en-ca: Leon Trotsky
-    en-gb: Leon Trotsky
+    en_ca: Leon Trotsky
+    en_gb: Leon Trotsky
     eo: Lev Trockij
     es: León Trotski
     et: Lev Trotski
@@ -331,7 +331,7 @@ dv_has_:
     pnb: تروتسکی
     ps: لئون تروتسکی
     pt: Leon Trótski
-    pt-br: Leon Trótski
+    pt_br: Leon Trótski
     qu: Leon Trotsky
     ro: Lev Troțki
     ru: Лев Давидович Троцкий
@@ -369,14 +369,14 @@ dv_has_:
     yo: Leon Trotsky
     yue: 列夫·托洛茨基
     zh: 列夫·托洛茨基
-    zh-cn: 列夫·托洛茨基
-    zh-hans: 列夫·托洛茨基
-    zh-hant: 列夫·托洛茨基
-    zh-hk: 列夫·托洛茨基
-    zh-mo: 列夫·托洛茨基
+    zh_cn: 列夫·托洛茨基
+    zh_hans: 列夫·托洛茨基
+    zh_hant: 列夫·托洛茨基
+    zh_hk: 列夫·托洛茨基
+    zh_mo: 列夫·托洛茨基
     zh-my: 列夫·托洛茨基
-    zh-sg: 列夫·托洛茨基
-    zh-tw: 列夫·托洛斯基
+    zh_sg: 列夫·托洛茨基
+    zh_tw: 列夫·托洛斯基
 ---
 # [[Trotsky,Leon]] 
 

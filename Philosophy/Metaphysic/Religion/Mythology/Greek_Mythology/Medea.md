@@ -80,7 +80,7 @@ dv_has_:
     az: Medeya
     ba: Медея
     be: Медэя
-    be-tarask: Мэдэя
+    be_tarask: Мэдэя
     bg: Медея
     br: Medea
     ca: Medea
@@ -92,8 +92,8 @@ dv_has_:
     de: Medea
     el: Μήδεια
     en: Medea
-    en-ca: Medea
-    en-gb: Medea
+    en_ca: Medea
+    en_gb: Medea
     eo: Medea
     es: Medea
     et: Medeia
@@ -116,7 +116,7 @@ dv_has_:
     kk: Медея
     ko: 메데이아
     ku: Mêdeia
-    ku-latn: Mêdeia
+    ku_latn: Mêdeia
     la: Medea
     lt: Medėja
     lv: Mēdeja
@@ -131,7 +131,7 @@ dv_has_:
     oc: Medèa
     pl: Medea
     pt: Medeia
-    pt-br: Medeia
+    pt_br: Medeia
     ro: Medeea
     ru: Медея
     sco: Medea
@@ -140,8 +140,8 @@ dv_has_:
     sl: Medeja
     sq: Medea
     sr: Медеја
-    sr-ec: Медеја
-    sr-el: Medeja
+    sr_ec: Медеја
+    sr_el: Medeja
     sv: Medea
     ta: மீடியா
     tr: Midia
@@ -154,12 +154,12 @@ dv_has_:
     xmf: მედეა
     yue: 美狄亞
     zh: 美狄亞
-    zh-cn: 美狄亚
-    zh-hans: 美狄亚
-    zh-hant: 美狄亞
-    zh-hk: 美狄亞
-    zh-sg: 美狄亚
-    zh-tw: 美狄亞
+    zh_cn: 美狄亚
+    zh_hans: 美狄亚
+    zh_hant: 美狄亞
+    zh_hk: 美狄亞
+    zh_sg: 美狄亚
+    zh_tw: 美狄亞
 ---
 # [[Medea]] 
 

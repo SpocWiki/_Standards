@@ -122,7 +122,7 @@ dv_has_:
     azb: بئل
     bcl: Pala
     be: Рыдлёўка
-    be-tarask: шуфаль
+    be_tarask: шуфаль
     bg: Лопата
     bn: বেলচা
     ca: pala
@@ -175,11 +175,11 @@ dv_has_:
     ms: Penyodok
     my: ဂေါ်ပြား
     nds: Schuffel
-    nds-nl: batse
+    nds_nl: batse
     nl: schep
     pl: łopata
     pt: pá
-    pt-br: pá
+    pt_br: pá
     qu: Lampa
     ro: lopată
     ru: лопата

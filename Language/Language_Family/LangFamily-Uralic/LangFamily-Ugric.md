@@ -83,7 +83,7 @@ dv_has_:
     az: Uqor dilləri
     azb: اوقور دیللری
     be: угорскія мовы
-    be-tarask: вугорскія мовы
+    be_tarask: вугорскія мовы
     br: yezhoù ougrek
     ca: llengües úgriques
     cs: Ugrické jazyky
@@ -142,12 +142,12 @@ dv_has_:
     vep: Ugrilaižed keled
     vi: Nhóm ngôn ngữ Ugria
     zh: 乌戈尔语支
-    zh-cn: 乌戈尔语支
-    zh-hans: 乌戈尔语支
-    zh-hant: 烏戈爾語支
-    zh-hk: 烏戈爾語支
-    zh-sg: 乌戈尔语支
-    zh-tw: 烏戈爾語支
+    zh_cn: 乌戈尔语支
+    zh_hans: 乌戈尔语支
+    zh_hant: 烏戈爾語支
+    zh_hk: 烏戈爾語支
+    zh_sg: 乌戈尔语支
+    zh_tw: 烏戈爾語支
 ---
 # [[LangFamily-Ugric]] 
 

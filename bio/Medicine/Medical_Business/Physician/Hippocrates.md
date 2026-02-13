@@ -146,7 +146,7 @@ dv_has_:
     ba: Гиппократ
     bcl: Hipócrates
     be: Гіпакрат
-    be-tarask: Гіпакрат
+    be_tarask: Гіпакрат
     bg: Хипократ
     bho: हिप्पोक्रेटीस
     bn: হিপোক্রেটিস
@@ -161,12 +161,12 @@ dv_has_:
     cy: Hippocrates
     da: Hippokrates
     de: Hippokrates von Kos
-    de-ch: Hippokrates von Kos
+    de_ch: Hippokrates von Kos
     diq: Hipokrat
     el: Ιπποκράτης
     en: Hippocrates
-    en-ca: Hippocrates
-    en-gb: Hippocrates
+    en_ca: Hippocrates
+    en_gb: Hippocrates
     eo: Hipokrato
     es: Hipócrates
     et: Hippokrates
@@ -199,7 +199,7 @@ dv_has_:
     kn: ಹಿಪೊಕ್ರೇಟ್ಸ್
     ko: 히포크라테스
     ku: Hîpokratês
-    ku-latn: Hîpokratês
+    ku_latn: Hîpokratês
     kw: Hippocrates
     ky: Гиппократ
     la: Hippocrates
@@ -228,7 +228,7 @@ dv_has_:
     pnb: بقراط
     ps: بقراط
     pt: Hipócrates
-    pt-br: Hipócrates
+    pt_br: Hipócrates
     qu: Ipokratis
     ro: Hippocrate
     ru: Гиппократ
@@ -244,13 +244,13 @@ dv_has_:
     sl: Hipokrat
     sq: Hipokrati
     sr: Хипократ са Коса
-    sr-ec: Хипократ са Коса
+    sr_ec: Хипократ са Коса
     sv: Hippokrates
     sw: Hippokrates
     ta: இப்போக்கிரட்டீசு
     te: హిప్పోక్రేట్స్
     tg: Гиппократ
-    tg-cyrl: Буқрот
+    tg_cyrl: Буқрот
     th: ฮิปพอคราทีส
     tl: Hippocrates
     tr: Hipokrat

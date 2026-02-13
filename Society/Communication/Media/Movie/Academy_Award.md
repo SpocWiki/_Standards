@@ -197,7 +197,7 @@ dv_has_:
     ba: Оскар
     bar: Oscar
     be: Оскар
-    be-tarask: Оскар
+    be_tarask: Оскар
     bg: Награди на филмовата академия на САЩ
     bn: একাডেমি পুরস্কার
     bo: ཨོ་སི་ཁཱ་བྱ་དགའ།
@@ -211,14 +211,14 @@ dv_has_:
     da: Oscar
     de: Oscar
     de-at: Oscar
-    de-ch: Oscar
+    de_ch: Oscar
     din: Akutluɔilɔjik Käleeclonpath
     dty: एकेडेमी पुरस्कार
     el: Βραβεία Αμερικανικής Ακαδημίας Κινηματογράφου
     eml: Prèmi Òscar
     en: Academy Awards
-    en-ca: Academy Awards
-    en-gb: Academy Awards
+    en_ca: Academy Awards
+    en_gb: Academy Awards
     eo: Oskar-premio
     es: Premios Óscar
     et: Oscar
@@ -292,7 +292,7 @@ dv_has_:
     pnb: اکادمی انعام
     ps: اسکار
     pt: Óscar
-    pt-br: Oscar
+    pt_br: Oscar
     qu: Oskar Suñay
     rki: အော်စကာဆု
     ro: Premiul Oscar
@@ -331,14 +331,14 @@ dv_has_:
     yo: Ẹ̀bùn Akádẹ́mì
     yue: 奧斯卡金像獎
     zh: 奧斯卡金像獎
-    zh-cn: 奥斯卡金像奖
-    zh-hans: 奥斯卡金像奖
-    zh-hant: 奧斯卡金像獎
-    zh-hk: 奧斯卡金像獎
-    zh-mo: 奧斯卡金像獎
+    zh_cn: 奥斯卡金像奖
+    zh_hans: 奥斯卡金像奖
+    zh_hant: 奧斯卡金像獎
+    zh_hk: 奧斯卡金像獎
+    zh_mo: 奧斯卡金像獎
     zh-my: 奥斯卡金像奖
-    zh-sg: 奥斯卡金像奖
-    zh-tw: 奧斯卡金像獎
+    zh_sg: 奥斯卡金像奖
+    zh_tw: 奧斯卡金像獎
 ---
 # [[Academy_Award]] 
 

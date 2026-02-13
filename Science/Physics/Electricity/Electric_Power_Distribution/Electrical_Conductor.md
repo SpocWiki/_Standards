@@ -122,7 +122,7 @@ dv_has_:
     az: keçirici materiallar
     azb: کئچیریجی مادهلر
     be: электрычныя праваднікі
-    be-tarask: электрычны праваднік
+    be_tarask: электрычны праваднік
     bg: проводник
     bn: তড়িৎ পরিবাহী
     bs: električni vodič
@@ -158,17 +158,17 @@ dv_has_:
     ja: 電気伝導体
     ka: გამტარი
     kk: сілтеуіш
-    kk-arab: سىلتەۋىش
+    kk_arab: سىلتەۋىش
     kk-cn: سىلتەۋىش
-    kk-cyrl: сілтеуіш
+    kk_cyrl: сілтеуіш
     kk-kz: сілтеуіш
-    kk-latn: siltewiş
+    kk_latn: siltewiş
     kk-tr: siltewiş
     kn: ವಿದ್ಯುತ್ ವಾಹಕ
     ko: 전기 전도체
     ku: ragihbar
-    ku-arab: راگهبار
-    ku-latn: ragihbar
+    ku_arab: راگهبار
+    ku_latn: ragihbar
     ky: өткөргүч
     la: conductrum
     lt: elektros laidininkas
@@ -202,8 +202,8 @@ dv_has_:
     smn: šleđgâjođetteijee
     sq: përçuesi elektrik
     sr: електрични проводник
-    sr-ec: електрични проводник
-    sr-el: električni provodnik
+    sr_ec: електрични проводник
+    sr_el: električni provodnik
     stq: laitere un isolatore
     su: konduktor listrik
     sv: elektrisk ledare
@@ -213,7 +213,7 @@ dv_has_:
     tl: konduktor na elektrikal
     tr: elektriksel iletken
     tt: үткәргеч
-    tt-cyrl: үткәргеч
+    tt_cyrl: үткәргеч
     udm: пыртӥз лэзись
     uk: провідник
     ur: مُوَصِّل
@@ -223,12 +223,12 @@ dv_has_:
     xh: Isixhobo sokuhamba kombane -
     yue: 導電體
     zh: 導電體
-    zh-cn: 导体
-    zh-hans: 导体
-    zh-hant: 導體
-    zh-hk: 導體
-    zh-sg: 导体
-    zh-tw: 導體
+    zh_cn: 导体
+    zh_hans: 导体
+    zh_hant: 導體
+    zh_hk: 導體
+    zh_sg: 导体
+    zh_tw: 導體
 ---
 # [[Electrical_Conductor]] 
 

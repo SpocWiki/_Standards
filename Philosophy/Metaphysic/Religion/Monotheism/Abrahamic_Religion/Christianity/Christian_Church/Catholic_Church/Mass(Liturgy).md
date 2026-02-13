@@ -61,7 +61,7 @@ dv_has_:
   name_:
     af: mis
     ar: القداس
-    be-tarask: імша
+    be_tarask: імша
     bg: Меса
     ca: missa
     cs: mše
@@ -109,12 +109,12 @@ dv_has_:
     yue: 彌撒曲
     zea: Misse
     zh: 弥撒曲
-    zh-cn: 弥撒曲
-    zh-hans: 弥撒曲
-    zh-hant: 彌撒曲
-    zh-hk: 彌撒曲
-    zh-sg: 弥撒曲
-    zh-tw: 彌撒曲
+    zh_cn: 弥撒曲
+    zh_hans: 弥撒曲
+    zh_hant: 彌撒曲
+    zh_hk: 彌撒曲
+    zh_sg: 弥撒曲
+    zh_tw: 彌撒曲
 ---
 # [[Mass(Liturgy)]] 
 

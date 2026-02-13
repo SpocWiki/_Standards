@@ -5,7 +5,7 @@ dv_has_:
     ar: علم الجريان
     ast: reoloxía
     az: Reologiya
-    be-tarask: рэалёгія
+    be_tarask: рэалёгія
     bg: Реология
     ca: reologia
     cs: reologie
@@ -59,12 +59,12 @@ dv_has_:
     uz: Reologiya
     vi: Lưu biến học
     zh: 流变学
-    zh-cn: 流变学
-    zh-hans: 流变学
-    zh-hant: 流變學
-    zh-hk: 流變學
-    zh-sg: 流变学
-    zh-tw: 流變學
+    zh_cn: 流变学
+    zh_hans: 流变学
+    zh_hant: 流變學
+    zh_hk: 流變學
+    zh_sg: 流变学
+    zh_tw: 流變學
 aliases:
 - Erreologia
 - Flotfræði

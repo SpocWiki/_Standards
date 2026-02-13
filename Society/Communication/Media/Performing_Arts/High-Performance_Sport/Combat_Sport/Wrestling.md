@@ -161,7 +161,7 @@ dv_has_:
     az: güləş
     bar: Ringa
     be: барацьба
-    be-tarask: барацьба
+    be_tarask: барацьба
     bg: Борба
     bjn: Udar
     bn: কুস্তি
@@ -179,8 +179,8 @@ dv_has_:
     diq: Têmane
     el: πάλη
     en: wrestling
-    en-ca: wrestling
-    en-gb: wrestling
+    en_ca: wrestling
+    en_gb: wrestling
     eo: lukto
     es: lucha
     et: maadlus
@@ -237,7 +237,7 @@ dv_has_:
     pa: ਕੁਸ਼ਤੀ
     pl: zapasy
     pt: luta
-    pt-br: luta
+    pt_br: luta
     rm: Lutga
     ro: lupte
     ru: борьба
@@ -274,11 +274,11 @@ dv_has_:
     yue: 摔角
     za: Doxbeg
     zh: 摔跤
-    zh-cn: 摔跤
-    zh-hans: 摔跤
-    zh-hant: 角力
-    zh-hk: 摔角
-    zh-tw: 角力
+    zh_cn: 摔跤
+    zh_hans: 摔跤
+    zh_hant: 角力
+    zh_hk: 摔角
+    zh_tw: 角力
 ---
 # [[Wrestling]]  
 

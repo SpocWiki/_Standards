@@ -72,7 +72,7 @@ dv_has_:
     az: Barbi gəlincikləri
     ban: Barbie
     bcl: Barbie
-    be-tarask: барбі
+    be_tarask: барбі
     bg: Барби
     bs: Barbie
     ca: Barbie
@@ -127,7 +127,7 @@ dv_has_:
     pa: ਬਾਰਬੀ
     pl: Lalka Barbie
     pt: Barbie
-    pt-br: Barbie
+    pt_br: Barbie
     ro: Păpușă Barbie
     ru: бренд Барби
     sah: Barbie
@@ -136,8 +136,8 @@ dv_has_:
     sh: Barbie
     sl: Barbie
     sr: Барби
-    sr-ec: Барби
-    sr-el: Barbi
+    sr_ec: Барби
+    sr_el: Barbi
     su: Barbie
     sv: Barbiedocka
     sw: Barbie
@@ -154,12 +154,12 @@ dv_has_:
     wuu: 芭比娃娃
     yue: Barbie 公仔
     zh: 芭比娃娃
-    zh-cn: 芭比娃娃
-    zh-hans: 芭比娃娃
-    zh-hant: 芭比娃娃
-    zh-hk: Barbie
-    zh-sg: 芭比娃娃
-    zh-tw: 芭比娃娃
+    zh_cn: 芭比娃娃
+    zh_hans: 芭比娃娃
+    zh_hant: 芭比娃娃
+    zh_hk: Barbie
+    zh_sg: 芭比娃娃
+    zh_tw: 芭比娃娃
 ---
 # [[Barbie]] 
 

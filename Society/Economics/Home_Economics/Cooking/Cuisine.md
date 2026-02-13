@@ -106,7 +106,7 @@ dv_has_:
     atj: Tcipakwan
     ba: Аш-һыу (традициялар)
     be: кухня
-    be-tarask: кухня
+    be_tarask: кухня
     bg: Кухня
     bho: पकवान शैली
     bn: রন্ধনশৈলী
@@ -118,7 +118,7 @@ dv_has_:
     de: Kochkunst
     el: κουζίνα
     en: cuisine
-    en-gb: cuisine
+    en_gb: cuisine
     eo: kuirarto
     es: cocina
     et: Köök
@@ -151,7 +151,7 @@ dv_has_:
     mk: кујна
     mr: पाककला
     ms: masakan
-    ms-arab: ماسقن
+    ms_arab: ماسقن
     mt: kċina
     nan: liāu-lí
     nap: Cucina
@@ -165,7 +165,7 @@ dv_has_:
     pcd: Tchuisinne
     pl: kuchnia
     pt: culinária
-    pt-br: culinária
+    pt_br: culinária
     ro: Cuisine
     ru: кухня
     sc: Coghina
@@ -180,7 +180,7 @@ dv_has_:
     th: การปรุงอาหาร
     tr: mutfak
     tt: аш-су
-    tt-cyrl: аш-су
+    tt_cyrl: аш-су
     uk: кухня
     uz: oshxona
     vi: ẩm thực
@@ -188,9 +188,9 @@ dv_has_:
     yo: irú oúnjẹ
     yue: 菜系
     zh: 菜系
-    zh-hans: 菜系
-    zh-hant: 菜系
-    zh-hk: 菜系
+    zh_hans: 菜系
+    zh_hant: 菜系
+    zh_hk: 菜系
 ---
 # [[Cuisine]] 
 

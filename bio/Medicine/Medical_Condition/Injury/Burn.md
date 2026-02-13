@@ -117,7 +117,7 @@ dv_has_:
     az: yanıq
     ba: бешеү
     be: апёк
-    be-tarask: апёк
+    be_tarask: апёк
     bg: изгаряне
     bn: পোড়া
     ca: cremada
@@ -125,12 +125,12 @@ dv_has_:
     cy: llosgiad
     da: brandsår
     de: Verbrennung
-    de-ch: Verbrennung
+    de_ch: Verbrennung
     dv: ފިހުން
     el: Έγκαυμα
     en: burn
-    en-ca: burn
-    en-gb: burn
+    en_ca: burn
+    en_gb: burn
     eo: brulvundo
     es: quemadura
     et: põletus
@@ -155,11 +155,11 @@ dv_has_:
     jam: bon
     ka: დამწვრობა
     kk: күйік
-    kk-arab: كۇيىك
+    kk_arab: كۇيىك
     kk-cn: كۇيىك
-    kk-cyrl: Күйік
+    kk_cyrl: Күйік
     kk-kz: Күйік
-    kk-latn: küýik
+    kk_latn: küýik
     kk-tr: küýik
     ko: 화상
     ky: күйүк
@@ -179,7 +179,7 @@ dv_has_:
     pa: ਸਾੜ-ਸੋਜ਼
     pl: oparzenie
     pt: queimadura
-    pt-br: queimadura
+    pt_br: queimadura
     ro: arsură
     ru: ожог
     sah: Уокка сиэтии
@@ -191,8 +191,8 @@ dv_has_:
     sl: opeklina
     sq: djegia
     sr: опекотина
-    sr-ec: опекотина
-    sr-el: opekotina
+    sr_ec: опекотина
+    sr_el: opekotina
     sv: brännskada
     sw: jeraha la moto
     ta: தீக்காயம்
@@ -208,12 +208,12 @@ dv_has_:
     yue: 辣親
     za: Coemhdangqsieng
     zh: 烧伤
-    zh-cn: 烧伤
-    zh-hans: 烧伤
-    zh-hant: 燒傷
-    zh-hk: 燒傷
-    zh-sg: 烧伤
-    zh-tw: 燒傷
+    zh_cn: 烧伤
+    zh_hans: 烧伤
+    zh_hant: 燒傷
+    zh_hk: 燒傷
+    zh_sg: 烧伤
+    zh_tw: 燒傷
 ---
 # [[Burn]] 
 

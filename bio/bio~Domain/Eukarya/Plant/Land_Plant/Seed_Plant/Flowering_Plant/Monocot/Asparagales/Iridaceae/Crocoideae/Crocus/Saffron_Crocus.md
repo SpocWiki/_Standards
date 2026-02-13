@@ -165,10 +165,10 @@ dv_has_:
     da: Safrankrokus
     de: Crocus sativus
     de-at: Crocus sativus
-    de-ch: Crocus sativus
+    de_ch: Crocus sativus
     en: Crocus sativus
-    en-ca: Crocus sativus
-    en-gb: Crocus sativus
+    en_ca: Crocus sativus
+    en_gb: Crocus sativus
     eo: Crocus sativus
     es: Crocus sativus
     et: Safrankrookus
@@ -215,7 +215,7 @@ dv_has_:
     nap: Crocus sativus
     nb: Crocus sativus
     nds: Crocus sativus
-    nds-nl: Crocus sativus
+    nds_nl: Crocus sativus
     nl: saffraankrokus
     nn: safrankrokus
     nrm: Crocus sativus
@@ -225,7 +225,7 @@ dv_has_:
     pl: Szafran uprawny
     pms: Crocus sativus
     pt: Crocus sativus
-    pt-br: Crocus sativus
+    pt_br: Crocus sativus
     rm: Crocus sativus
     ro: Crocus sativus
     ru: шафран посевной
@@ -235,7 +235,7 @@ dv_has_:
     sk: šafran siaty
     sl: pravi žafran
     sq: Crocus sativus
-    sr-el: Crocus sativus
+    sr_el: Crocus sativus
     sv: saffranskrokus
     sw: Crocus sativus
     tg: Заъфарон
@@ -252,10 +252,10 @@ dv_has_:
     war: Crocus sativus
     wo: Crocus sativus
     zh: 番紅花
-    zh-cn: 番红花
-    zh-hans: 番红花
-    zh-hant: 番紅花
-    zh-tw: 番紅花
+    zh_cn: 番红花
+    zh_hans: 番红花
+    zh_hant: 番紅花
+    zh_tw: 番紅花
     zu: Crocus sativus
 ---
 # [[Saffron_Crocus]] 

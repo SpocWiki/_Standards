@@ -246,7 +246,7 @@ dv_has_:
     ba: Данте Алигьери
     bcl: Dante
     be: Дантэ Аліг'еры
-    be-tarask: Дантэ Аліг’еры
+    be_tarask: Дантэ Аліг’еры
     bg: Данте Алигиери
     bho: दांते
     bn: দান্তে আলিগিয়েরি
@@ -325,7 +325,7 @@ dv_has_:
     yue: 但丁
     za: Dante
     zh: 但丁·阿利吉耶里
-    zh-hant: 但丁·阿利吉耶里
+    zh_hant: 但丁·阿利吉耶里
 ---
 # [[Alighieri,Dante]] 
 

@@ -31,7 +31,7 @@ dv_has_:
   name_:
     ann: Iwop-uko
     be: фермерская дзейнасць
-    be-tarask: фэрмэрства
+    be_tarask: фэрмэрства
     cs: farmaření
     dga: Koɔbo
     en: farming

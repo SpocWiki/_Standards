@@ -6,7 +6,7 @@ dv_has_:
     az: Baltik Dənizi Dövlətləri Şurası
     ba: Балтик диңгеҙе дәүләттәре советы
     be: Савет дзяржаў Балтыйскага мора
-    be-tarask: Рада дзяржаваў Балтыйскага мора
+    be_tarask: Рада дзяржаваў Балтыйскага мора
     bg: Съвет на балтийските държави
     ca: Consell de Estats de la Mar Bàltica
     cs: Rada států Baltského moře

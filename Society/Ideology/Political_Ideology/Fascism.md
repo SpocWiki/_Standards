@@ -207,7 +207,7 @@ dv_has_:
     ba: Фашизм
     bar: Faschismus
     be: фашызм
-    be-tarask: фашызм
+    be_tarask: фашызм
     bg: Фашизъм
     bho: फासीवाद
     bn: ফ্যাসিবাদ
@@ -227,12 +227,12 @@ dv_has_:
     cy: Ffasgiaeth
     da: fascisme
     de: Faschismus
-    de-ch: Faschismus
+    de_ch: Faschismus
     el: φασισμός
     eml: Fasìśum
     en: fascism
-    en-ca: Fascism
-    en-gb: fascism
+    en_ca: Fascism
+    en_gb: fascism
     eo: faŝismo
     es: fascismo
     et: fašism
@@ -296,7 +296,7 @@ dv_has_:
     mn: Фашизм
     mr: फॅसिझम
     ms: fasisme
-    ms-arab: فاسيسمى
+    ms_arab: فاسيسمى
     mt: faxxiżmu
     mwl: Fascismo
     my: ဖက်ဆစ်ဝါဒ
@@ -319,7 +319,7 @@ dv_has_:
     pnb: فاشزم
     ps: فاشېزم
     pt: fascismo
-    pt-br: Fascismo
+    pt_br: Fascismo
     rm: Faschissem
     ro: fascism
     ru: фашизм
@@ -363,14 +363,14 @@ dv_has_:
     yi: פאשיזם
     yue: 法西斯主義
     zh: 法西斯主義
-    zh-cn: 法西斯主义
-    zh-hans: 法西斯主义
-    zh-hant: 法西斯主義
-    zh-hk: 法西斯主義
-    zh-mo: 法西斯主義
+    zh_cn: 法西斯主义
+    zh_hans: 法西斯主义
+    zh_hant: 法西斯主義
+    zh_hk: 法西斯主義
+    zh_mo: 法西斯主義
     zh-my: 法西斯主义
-    zh-sg: 法西斯主义
-    zh-tw: 法西斯主義
+    zh_sg: 法西斯主义
+    zh_tw: 法西斯主義
 ---
 # [[Fascism]] 
 

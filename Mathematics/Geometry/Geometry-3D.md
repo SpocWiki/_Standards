@@ -108,7 +108,7 @@ dv_has_:
     azb: اوچاؤلچولو مکان
     ba: өс үлсәмле арауыҡ
     be: трохмерная прастора
-    be-tarask: трохвымерная прастора
+    be_tarask: трохвымерная прастора
     bg: триизмерно пространство
     bho: तीन-आयामी स्पेस
     bjn: 3 diminsi
@@ -150,7 +150,7 @@ dv_has_:
     ml: ത്രിമാനം
     mr: त्रिमितीय अवकाश
     ms: ruang tiga dimensi
-    ms-arab: رواڠ تيݢ ديمينسي
+    ms_arab: رواڠ تيݢ ديمينسي
     nan: sam-chhù-goân
     nb: tredimensjonal
     nl: driedimensionaal
@@ -159,7 +159,7 @@ dv_has_:
     pa: ਤਿੰਨ-ਪਸਾਰੀ ਖ਼ਲਾਅ
     pl: przestrzeń trójwymiarowa
     pt: espaço tridimensional
-    pt-br: espaço tridimensional
+    pt_br: espaço tridimensional
     ro: spațiu tridimensional
     ru: трёхмерное пространство
     sh: trodimenzionalni prostor
@@ -174,7 +174,7 @@ dv_has_:
     tok: ale pi linja tu wan
     tr: üç boyutlu uzay
     tt: өч үлчәүле киңлек
-    tt-cyrl: өч үлчәүле киңлек
+    tt_cyrl: өч үлчәүле киңлек
     uk: тривимірний простір
     uz: uch oʻlchamli fazo
     vec: 3D

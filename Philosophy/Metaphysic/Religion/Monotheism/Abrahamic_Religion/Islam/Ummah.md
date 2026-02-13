@@ -206,8 +206,8 @@ dv_has_:
     de: Umma
     el: Ούμα
     en: ummah
-    en-ca: Ummah
-    en-gb: ummah
+    en_ca: Ummah
+    en_gb: ummah
     eo: Ummao
     es: Umma
     et: Umma
@@ -235,7 +235,7 @@ dv_has_:
     nl: oemma
     pl: Umma
     pt: umma
-    pt-br: Umma
+    pt_br: Umma
     ro: Umma
     ru: умма
     sh: Umma
@@ -250,7 +250,7 @@ dv_has_:
     uz: Umma
     zgh: ⵍⵓⵎⵎⴰ
     zh: 烏瑪
-    zh-hans: 乌玛
+    zh_hans: 乌玛
 ---
 # [[Ummah]] 
 

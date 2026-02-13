@@ -158,7 +158,7 @@ dv_has_:
     az: Harriyet Biçer-Stou
     azb: هریت بیچر استو
     be: Гарыет Бічэр-Стоу
-    be-tarask: Гарыет Бічэр-Стоў
+    be_tarask: Гарыет Бічэр-Стоў
     bg: Хариет Бичър Стоу
     bn: হ্যারিয়েট বিচার স্টো
     bs: Harriet Beecher Stowe
@@ -170,11 +170,11 @@ dv_has_:
     dag: Harriet Beecher Stowe
     de: Harriet Beecher Stowe
     de-at: Harriet Beecher Stowe
-    de-ch: Harriet Beecher Stowe
+    de_ch: Harriet Beecher Stowe
     el: Χάριετ Μπίτσερ Στόου
     en: Harriet Beecher Stowe
-    en-ca: Harriet Beecher Stowe
-    en-gb: Harriet Beecher Stowe
+    en_ca: Harriet Beecher Stowe
+    en_gb: Harriet Beecher Stowe
     eo: Harriet Beecher Stowe
     es: Harriet Beecher Stowe
     et: Harriet Beecher Stowe
@@ -224,7 +224,7 @@ dv_has_:
     pms: Harriet Beecher Stowe
     ps: هيريټ بيچر سټو
     pt: Harriet Beecher Stowe
-    pt-br: Harriet Beecher Stowe
+    pt_br: Harriet Beecher Stowe
     qu: Harriet Beecher Stowe
     ro: Harriet Beecher Stowe
     ru: Гарриет Бичер-Стоу
@@ -236,13 +236,13 @@ dv_has_:
     sl: Harriet Beecher Stowe
     sq: Harriet Beecher Stowe
     sr: Херијет Бичер Стоу
-    sr-ec: Херијет Бичер Стоу
-    sr-el: Herijet Bičer Stou
+    sr_ec: Херијет Бичер Стоу
+    sr_el: Herijet Bičer Stou
     sv: Harriet Beecher Stowe
     ta: ஹேரியட் பீச்சர் ஸ்டோவ்
     te: హ్యారియెట్ బీచర్ స్టోవ్
     tg: Ҳарриет Бичер Стоу
-    tg-latn: Harriet Bicer Stou
+    tg_latn: Harriet Bicer Stou
     th: แฮเรียต บีเชอร์ สโตว์
     tr: Harriet Beecher Stowe
     uk: Гаррієт Бічер-Стоу
@@ -253,12 +253,12 @@ dv_has_:
     xmf: ჰარიეთ ბიჩერ სთოუ
     yue: 斯托夫人
     zh: 哈里特·伊丽莎白·比彻·斯托
-    zh-cn: 哈里特·伊丽莎白·比彻·斯托
-    zh-hans: 哈里特·伊丽莎白·比彻·斯托
-    zh-hant: 哈里特·伊麗莎白·比徹·斯托
-    zh-hk: 哈里特·伊麗莎白·比徹·斯托
-    zh-sg: 哈里特·伊丽莎白·比彻·斯托
-    zh-tw: 哈里特·伊莉莎白·比徹·斯托
+    zh_cn: 哈里特·伊丽莎白·比彻·斯托
+    zh_hans: 哈里特·伊丽莎白·比彻·斯托
+    zh_hant: 哈里特·伊麗莎白·比徹·斯托
+    zh_hk: 哈里特·伊麗莎白·比徹·斯托
+    zh_sg: 哈里特·伊丽莎白·比彻·斯托
+    zh_tw: 哈里特·伊莉莎白·比徹·斯托
 ---
 # [[Beecher_Stowe,Harriet]] 
 

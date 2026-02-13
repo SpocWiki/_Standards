@@ -176,7 +176,7 @@ dv_has_:
     azb: باتری
     bcl: Baterya
     be: электрычная батарэя
-    be-tarask: батарэя
+    be_tarask: батарэя
     bg: Батерия
     bn: তড়িৎকোষ
     bs: Baterija
@@ -188,11 +188,11 @@ dv_has_:
     cy: Batri
     da: batteri
     de: Batterie
-    de-ch: Batterie
+    de_ch: Batterie
     el: Μπαταρία
     en: battery
-    en-ca: Battery
-    en-gb: battery
+    en_ca: Battery
+    en_gb: battery
     eo: pilo
     es: batería
     et: Patarei
@@ -260,7 +260,7 @@ dv_has_:
     pnb: بیٹری
     ps: برېښنایي بټرۍ
     pt: bateria
-    pt-br: Pilha
+    pt_br: Pilha
     qu: Pinchikilla pila
     ro: baterie
     ru: батарея
@@ -294,11 +294,11 @@ dv_has_:
     yi: באטעריע
     yue: 電池
     zh: 电池
-    zh-cn: 电池
-    zh-hans: 电池
-    zh-hant: 電池
+    zh_cn: 电池
+    zh_hans: 电池
+    zh_hant: 電池
     zh-my: 电池
-    zh-tw: 電池
+    zh_tw: 電池
     zu: IsiPhathanzuba
 ---
 # [[Electric_Battery]] 🔋 

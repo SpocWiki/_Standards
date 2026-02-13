@@ -115,8 +115,8 @@ dv_has_:
     sl: kitajska mitologija
     sq: Mitologjia kineze
     sr: кинеска митологија
-    sr-ec: Кинеска митологија
-    sr-el: Kineska mitologija
+    sr_ec: Кинеска митологија
+    sr_el: Kineska mitologija
     sv: kinesisk mytologi
     szy: nu zhong-guo a micidekay a kungku
     tl: mitolohiyang Tsino
@@ -128,12 +128,12 @@ dv_has_:
     vi: Thần thoại Trung Hoa
     yue: 中國神話
     zh: 中國神話
-    zh-cn: 中国神话
-    zh-hans: 中国神话
-    zh-hant: 中國神話
-    zh-hk: 中國神話
-    zh-sg: 中国神话
-    zh-tw: 中國神話
+    zh_cn: 中国神话
+    zh_hans: 中国神话
+    zh_hant: 中國神話
+    zh_hk: 中國神話
+    zh_sg: 中国神话
+    zh_tw: 中國神話
 ---
 # [[Chinese_Mythology]] 
 

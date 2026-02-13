@@ -133,7 +133,7 @@ dv_has_:
     as: ওলকবি
     ast: Brassica oleracea gongyloides
     be: Кальрабі
-    be-tarask: кальрабі
+    be_tarask: кальрабі
     bg: алабаш
     bho: गाँठ गोभी
     bn: ওলকপি
@@ -196,8 +196,8 @@ dv_has_:
     sk: kapusta obyčajná kalerábová
     sq: Brassica oleracea var. gongylodes
     sr: Келераба
-    sr-ec: Келераба
-    sr-el: Keleraba
+    sr_ec: Келераба
+    sr_el: Keleraba
     sv: Kålrabbi
     szl: Ůberiba
     ta: பசும் நூல்கோல்
@@ -211,12 +211,12 @@ dv_has_:
     xmf: ხული
     yue: 德國蘿蔔
     zh: 苤藍
-    zh-cn: 苤蓝
-    zh-hans: 苤蓝
-    zh-hant: 苤藍
-    zh-hk: 苤藍
-    zh-sg: 苤蓝
-    zh-tw: 苤藍
+    zh_cn: 苤蓝
+    zh_hans: 苤蓝
+    zh_hant: 苤藍
+    zh_hk: 苤藍
+    zh_sg: 苤蓝
+    zh_tw: 苤藍
 ---
 # [[Kohlrabi]] 
 

@@ -94,7 +94,7 @@ dv_has_:
     atj: ohokai
     avk: Widava ke Romania
     be: Луска
-    be-tarask: лускавіна
+    be_tarask: лускавіна
     bg: Люспа
     bho: चोञटा
     bs: Ljuska (anatomija)
@@ -128,11 +128,11 @@ dv_has_:
     it: scaglia
     ja: 鱗
     kk: қабыршақ
-    kk-arab: قابىرشاق
+    kk_arab: قابىرشاق
     kk-cn: قابىرشاق
-    kk-cyrl: Қабыршақ
+    kk_cyrl: Қабыршақ
     kk-kz: Қабыршақ
-    kk-latn: Qabırşaq
+    kk_latn: Qabırşaq
     kk-tr: Qabırşaq
     ko: 비늘
     la: Squama
@@ -171,12 +171,12 @@ dv_has_:
     wuu: 鳞
     yue: 鱗
     zh: 鳞
-    zh-cn: 鳞
-    zh-hans: 鳞
-    zh-hant: 鱗
-    zh-hk: 鱗
-    zh-sg: 鳞
-    zh-tw: 鱗
+    zh_cn: 鳞
+    zh_hans: 鳞
+    zh_hant: 鱗
+    zh_hk: 鱗
+    zh_sg: 鳞
+    zh_tw: 鱗
 ---
 # [[Scale(Zoology)]] 
 

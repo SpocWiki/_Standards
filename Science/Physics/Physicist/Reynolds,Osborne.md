@@ -80,7 +80,7 @@ dv_has_:
     ast: Osborne Reynolds
     az: Osborn Reynolds
     azb: ازبورن رینولدز
-    be-tarask: Озбарн Рэйналдс
+    be_tarask: Озбарн Рэйналдс
     bg: Озборн Рейнолдс
     bn: অসবর্ন রেনল্ডস
     ca: Osborne Reynolds
@@ -113,7 +113,7 @@ dv_has_:
     pa: ਓਸਬਰਨ ਰੇਨੋਲਡਸ
     pl: Osborne Reynolds
     pt: Osborne Reynolds
-    pt-br: Osborne Reynolds
+    pt_br: Osborne Reynolds
     qu: Osborne Reynolds
     ro: Osborne Reynolds
     ru: Осборн Рейнольдс
@@ -131,7 +131,7 @@ dv_has_:
     war: Osborne Reynolds
     xmf: ოზბორნ რეინოლდსი
     zh: 奥斯鲍恩·雷诺
-    zh-tw: 奧斯鮑恩·雷諾
+    zh_tw: 奧斯鮑恩·雷諾
 ---
 # [[Reynolds,Osborne]] 
 

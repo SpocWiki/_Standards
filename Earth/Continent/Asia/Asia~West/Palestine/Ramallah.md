@@ -145,7 +145,7 @@ dv_has_:
     az: Ramallah
     ba: Рамаллаһ
     be: Рамала
-    be-tarask: Рамала
+    be_tarask: Рамала
     bew: Ramallah
     bg: Рамала
     bn: রামাল্লাহ
@@ -237,8 +237,8 @@ dv_has_:
     sn: Ramallah
     sq: Ramallah
     sr: Рамала
-    sr-ec: Рамала
-    sr-el: Ramala
+    sr_ec: Рамала
+    sr_el: Ramala
     sv: Ramallah
     sw: Ramallah
     szl: Ramallah
@@ -259,12 +259,12 @@ dv_has_:
     yue: 拉姆安拉
     zea: Ramallah
     zh: 拉姆安拉
-    zh-cn: 拉姆安拉
-    zh-hans: 拉姆安拉
-    zh-hant: 拉姆安拉
-    zh-hk: 拉姆安拉
-    zh-sg: 拉姆安拉
-    zh-tw: 拉馬拉
+    zh_cn: 拉姆安拉
+    zh_hans: 拉姆安拉
+    zh_hant: 拉姆安拉
+    zh_hk: 拉姆安拉
+    zh_sg: 拉姆安拉
+    zh_tw: 拉馬拉
     zu: i-Ramallah
 ---
 # [[Ramallah]] 

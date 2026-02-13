@@ -126,7 +126,7 @@ dv_has_:
     azb: آوسترو آسیا دیللری
     bcl: Mga tataramon na Austroasyatiko
     be: аўстраазіяцкія мовы
-    be-tarask: аўстраазіяцкія мовы
+    be_tarask: аўстраазіяцкія мовы
     bg: Австроазиатски езици
     bn: অস্ট্রো-এশীয় ভাষাসমূহ
     br: yezhoù aostrez-aziatek
@@ -136,8 +136,8 @@ dv_has_:
     de: Austroasiatisch
     el: Αυστροασιατικές γλώσσες
     en: Austroasiatic
-    en-ca: Austroasiatic
-    en-gb: Austroasiatic
+    en_ca: Austroasiatic
+    en_gb: Austroasiatic
     eo: Aŭstralazia lingvaro
     es: lenguas austroasiáticas
     et: Austroaasia keeled
@@ -198,7 +198,7 @@ dv_has_:
     sh: Austroazijski jezici
     sl: avstroazijski jeziki
     sr: аустроазијски језици
-    sr-ec: аустроазијски језици
+    sr_ec: аустроазијски језици
     sv: austroasiatiska språk
     sw: Lugha za Kiaustro-Asiatiki
     ta: ஆசுத்ரோ-ஆசிய மொழிகள்
@@ -216,9 +216,9 @@ dv_has_:
     yue: 南亞語系
     za: Vahhaeh Nanzya
     zh: 南亚语系
-    zh-hans: 南亚语系
-    zh-hant: 南亞語系
-    zh-tw: 南亞語系
+    zh_hans: 南亚语系
+    zh_hant: 南亞語系
+    zh_tw: 南亞語系
 ---
 # [[LangFamily-Austro-Asiatic]] 
 

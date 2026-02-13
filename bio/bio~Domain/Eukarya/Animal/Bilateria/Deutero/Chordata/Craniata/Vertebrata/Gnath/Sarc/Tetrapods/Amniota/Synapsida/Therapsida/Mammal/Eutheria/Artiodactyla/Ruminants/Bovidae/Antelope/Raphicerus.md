@@ -57,7 +57,7 @@ dv_has_:
     oc: Raphicerus
     pl: Raphicerus
     pt: Raphicerus
-    pt-br: Raphicerus
+    pt_br: Raphicerus
     ro: Raphicerus
     ru: Raphicerus
     sq: Raphicerus
@@ -68,8 +68,8 @@ dv_has_:
     vo: Raphicerus
     war: Raphicerus
     zh: 小岩羚属
-    zh-cn: 石羚属
-    zh-tw: 石羚屬
+    zh_cn: 石羚属
+    zh_tw: 石羚屬
 ---
 # [[Raphicerus]] 
 

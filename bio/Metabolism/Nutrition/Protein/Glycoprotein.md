@@ -70,7 +70,7 @@ dv_has_:
     ar: بروتين سكري
     ast: Glicoproteína
     be: Глікапратэіны
-    be-tarask: глікапратэін
+    be_tarask: глікапратэін
     bg: гликопротеин
     bs: Glikoprotein
     ca: glicoproteïna
@@ -94,11 +94,11 @@ dv_has_:
     it: glicoproteina
     ja: 糖タンパク質
     kk: Гликопротеидтер
-    kk-arab: گلىيكوپروتەىيدتەر
+    kk_arab: گلىيكوپروتەىيدتەر
     kk-cn: گلىيكوپروتەىيدتەر
-    kk-cyrl: Гликопротеидтер
+    kk_cyrl: Гликопротеидтер
     kk-kz: Гликопротеидтер
-    kk-latn: Glïkoproteïdter
+    kk_latn: Glïkoproteïdter
     kk-tr: Glïkoproteïdter
     kn: ಗ್ಲೈಕೋಪ್ರೋಟೀನ್
     ko: 당단백질
@@ -121,8 +121,8 @@ dv_has_:
     sl: glikoprotein
     sms: glykoproteiin
     sr: гликопротеин
-    sr-ec: гликопротеин
-    sr-el: glikoprotein
+    sr_ec: гликопротеин
+    sr_el: glikoprotein
     sv: glykoprotein
     ta: கிளைக்கோபுரதம்
     tg: Гликопротеинҳо
@@ -134,12 +134,12 @@ dv_has_:
     wuu: 糖蛋白
     yue: 醣蛋白
     zh: 糖蛋白
-    zh-cn: 糖蛋白
-    zh-hans: 糖蛋白
-    zh-hant: 糖蛋白
-    zh-hk: 糖蛋白
-    zh-sg: 糖蛋白
-    zh-tw: 糖蛋白
+    zh_cn: 糖蛋白
+    zh_hans: 糖蛋白
+    zh_hant: 糖蛋白
+    zh_hk: 糖蛋白
+    zh_sg: 糖蛋白
+    zh_tw: 糖蛋白
 ---
 # [[Glycoprotein]] 
 

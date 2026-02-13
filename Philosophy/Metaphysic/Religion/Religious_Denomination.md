@@ -92,7 +92,7 @@ dv_has_:
     ast: Denominación relixosa
     bcl: Denominasyon
     be: канфесія
-    be-tarask: канфэсія
+    be_tarask: канфэсія
     bg: Вероизповедание
     bn: ধর্মীয় সম্প্রদায়
     br: anvadur relijiel
@@ -102,11 +102,11 @@ dv_has_:
     cy: enwad crefyddol
     da: religiøst samfund
     de: Konfession
-    de-ch: Konfession
+    de_ch: Konfession
     el: Θρησκευτικό δόγμα
     en: religious denomination
-    en-ca: Religious denomination
-    en-gb: religious denomination
+    en_ca: Religious denomination
+    en_gb: religious denomination
     eo: religia subgrupo
     es: denominación religiosa
     et: uskkond
@@ -127,7 +127,7 @@ dv_has_:
     ja: 教派
     kaa: diniy konfessiya
     kk: Конфессия
-    kk-cyrl: конфессия
+    kk_cyrl: конфессия
     ko: 교파
     la: denominationes
     lb: Konfessioun
@@ -138,7 +138,7 @@ dv_has_:
     pl: wyznanie
     pnb: مذہبی فرقے
     pt: denominação religiosa
-    pt-br: denominação religiosa
+    pt_br: denominação religiosa
     ro: confesiune religioasă
     ru: конфессия
     sco: releegious denonimation
@@ -150,7 +150,7 @@ dv_has_:
     sv: religiöst samfund
     sw: Madhehebu
     tg: табакабандии мазҳабӣ
-    tg-latn: tabaqabandii mazhabiy
+    tg_latn: tabaqabandii mazhabiy
     th: นิกาย
     tr: mezhep
     tt: конфессия
@@ -162,7 +162,7 @@ dv_has_:
     yue: 教派
     za: gauqbaiq
     zh: 教派
-    zh-hant: 宗派
+    zh_hant: 宗派
 ---
 # [[Religious_Denomination]] 
 

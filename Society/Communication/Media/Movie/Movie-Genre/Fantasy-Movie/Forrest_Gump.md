@@ -10,7 +10,7 @@ dv_has_:
     az: Forrest Qamp
     azb: فورست قامپ (فیلم، ۱۹۹۴)
     be: Форэст Гамп, фільм
-    be-tarask: Форэст Гамп
+    be_tarask: Форэст Гамп
     bg: Форест Гъмп
     bn: ফরেস্ট গাম্প
     br: Forrest Gump
@@ -25,11 +25,11 @@ dv_has_:
     cy: Forrest Gump
     da: Forrest Gump
     de: Forrest Gump
-    de-ch: Forrest Gump
+    de_ch: Forrest Gump
     el: Φόρεστ Γκαμπ
     en: Forrest Gump
-    en-ca: Forrest Gump
-    en-gb: Forrest Gump
+    en_ca: Forrest Gump
+    en_gb: Forrest Gump
     eo: Forrest Gump
     es: Forrest Gump
     et: Forrest Gump
@@ -82,7 +82,7 @@ dv_has_:
     pl: Forrest Gump
     ps: فورسټ گمپ
     pt: Forrest Gump
-    pt-br: Forrest Gump
+    pt_br: Forrest Gump
     ro: Forrest Gump
     ru: Форрест Гамп
     rup: Forrest Gump
@@ -93,8 +93,8 @@ dv_has_:
     sl: Forrest Gump
     sq: Forrest Gump
     sr: Форест Гамп
-    sr-ec: Форест Гамп
-    sr-el: Forest Gamp
+    sr_ec: Форест Гамп
+    sr_el: Forest Gamp
     su: Forrest Gump
     sv: Forrest Gump
     sw: Forrest Gump
@@ -115,14 +115,14 @@ dv_has_:
     yue: 阿甘正傳
     za: Ahganh Cingqcienh
     zh: 阿甘正传
-    zh-cn: 阿甘正传
-    zh-hans: 阿甘正传
-    zh-hant: 阿甘正傳
-    zh-hk: 阿甘正傳
-    zh-mo: 阿甘正傳
+    zh_cn: 阿甘正传
+    zh_hans: 阿甘正传
+    zh_hant: 阿甘正傳
+    zh_hk: 阿甘正傳
+    zh_mo: 阿甘正傳
     zh-my: 阿甘正传
-    zh-sg: 阿甘正传
-    zh-tw: 阿甘正傳
+    zh_sg: 阿甘正传
+    zh_tw: 阿甘正傳
 aliases:
 - Ahganh Cingqcienh
 - Ang forrest gump.

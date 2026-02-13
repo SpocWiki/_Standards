@@ -40,7 +40,7 @@ dv_has_:
     oc: Nitrospira
     pl: Nitrospira
     pt: Nitrospira
-    pt-br: Nitrospira
+    pt_br: Nitrospira
     ro: Nitrospira
     ru: Nitrospira
     sq: Nitrospira
@@ -49,9 +49,9 @@ dv_has_:
     vo: Nitrospira
     war: Nitrospira
     zh: 硝化螺菌属
-    zh-cn: 硝化螺菌属
-    zh-hans: 硝化螺菌属
-    zh-tw: 硝化螺菌屬
+    zh_cn: 硝化螺菌属
+    zh_hans: 硝化螺菌属
+    zh_tw: 硝化螺菌屬
 ---
 # [[Nitrospira]] 
 

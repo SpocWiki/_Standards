@@ -135,7 +135,7 @@ dv_has_:
     azb: حرکت
     bcl: Paghiro
     be: механічны рух
-    be-tarask: мэханічны рух
+    be_tarask: мэханічны рух
     bg: движение
     bho: गति
     bn: গতি
@@ -150,8 +150,8 @@ dv_has_:
     de: Bewegung
     el: κίνηση
     en: motion
-    en-ca: Motion
-    en-gb: motion
+    en_ca: Motion
+    en_gb: motion
     eo: movado
     es: movimiento
     et: liikumine
@@ -196,7 +196,7 @@ dv_has_:
     mn: Хөдөлгөөн
     mr: गती
     ms: pergerakan
-    ms-arab: ڤرݢرقن
+    ms_arab: ڤرݢرقن
     my: ရွေ့လျားခြင်း
     nan: Tín-tāng
     nb: bevegelse
@@ -209,7 +209,7 @@ dv_has_:
     pl: ruch
     ps: حرکت
     pt: movimento
-    pt-br: movimento
+    pt_br: movimento
     qu: Kuyuy
     rki: ရွေ့လျားခြင်း
     ro: mișcare (fizică)
@@ -224,8 +224,8 @@ dv_has_:
     sl: gibanje
     sq: lëvizje
     sr: кретање
-    sr-ec: кретање
-    sr-el: kretanje
+    sr_ec: кретање
+    sr_el: kretanje
     su: Gerak
     sv: rörelse
     ta: இயக்கம்
@@ -248,7 +248,7 @@ dv_has_:
     yo: ìsún
     yue: 郁
     zh: 運動
-    zh-hant: 運動
+    zh_hant: 運動
     zu: Umdiki
 ---
 # [[Motion]] 

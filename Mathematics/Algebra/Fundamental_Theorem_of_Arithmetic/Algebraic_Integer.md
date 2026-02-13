@@ -55,7 +55,7 @@ dv_has_:
     ky: алгебралык бүтүн сан
     nl: algebraïsch geheel getal
     pt: inteiro algébrico
-    pt-br: inteiro algébrico
+    pt_br: inteiro algébrico
     ro: întreg algebric
     ru: целое алгебраическое число
     sl: algebrsko celo število
@@ -63,8 +63,8 @@ dv_has_:
     uk: ціле алгебраїчне число
     vi: số đại số nguyên
     zh: 代數整數
-    zh-cn: 代数整数
-    zh-hant: 代數整數
+    zh_cn: 代数整数
+    zh_hant: 代數整數
 ---
 # [[Algebraic_Integer]] 
 

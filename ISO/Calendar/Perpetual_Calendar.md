@@ -36,16 +36,16 @@ Commons_category: Perpetual calendars
 dv_has_:
   name_:
     ar: تقويم دائم
-    be-tarask: вечны каляндар
+    be_tarask: вечны каляндар
     bg: Целогодишни календари
     br: Deiziadur diarsav
     ca: calendari perpetu
     cs: věčný kalendář
     de: ewiger Kalender
-    de-ch: Ewiger Kalender
+    de_ch: Ewiger Kalender
     en: perpetual calendar
-    en-ca: Perpetual calendar
-    en-gb: perpetual calendar
+    en_ca: Perpetual calendar
+    en_gb: perpetual calendar
     eo: ĉiama kalendaro
     es: calendario perpetuo
     eu: Betiereko egutegi
@@ -59,7 +59,7 @@ dv_has_:
     nl: eeuwigdurende kalender
     pl: kalendarz wieczny
     pt: calendário perpétuo
-    pt-br: calendário perpétuo
+    pt_br: calendário perpétuo
     ru: вечный календарь
     sr: Večni kalendar
     sv: evighetskalender

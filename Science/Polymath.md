@@ -110,13 +110,13 @@ dv_has_:
     azb: چوخبیلن
     ba: универсаль шәхес
     be: універсальны чалавек
-    be-tarask: унівэрсальны чалавек
+    be_tarask: унівэрсальны чалавек
     bg: енциклопедист
     bho: पॉलीमैथ
     bn: বহুবিদ্যাবিশারদ
     bs: polimat
     ca: polímata
-    crh-latn: çoq saada çalışqan
+    crh_latn: çoq saada çalışqan
     cs: polyhistor
     cy: polymath
     da: polyhistor
@@ -167,7 +167,7 @@ dv_has_:
     pl: polihistor
     ps: ګڼ پوهيال
     pt: polímata
-    pt-br: polímata
+    pt_br: polímata
     ro: polihistor
     ru: универсальный человек
     sd: پولي ميٿ
@@ -188,12 +188,12 @@ dv_has_:
     wuu: 博学家
     yue: 全才
     zh: 博学家
-    zh-cn: 博学家
-    zh-hans: 博学家
-    zh-hant: 博學家
-    zh-hk: 博學家
-    zh-sg: 博学家
-    zh-tw: 博學家
+    zh_cn: 博学家
+    zh_hans: 博学家
+    zh_hant: 博學家
+    zh_hk: 博學家
+    zh_sg: 博学家
+    zh_tw: 博學家
 ---
 # [[Polymath]] 
 

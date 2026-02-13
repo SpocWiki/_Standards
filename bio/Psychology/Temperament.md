@@ -48,15 +48,15 @@ dv_has_:
     ast: Temperamentu
     az: Temperament
     bar: Temperament
-    be-tarask: тэмпэрамэнт
+    be_tarask: тэмпэрамэнт
     bg: Темперамент
     ca: Temperament
     cs: temperament
     de: Temperament
-    de-ch: Temperament
+    de_ch: Temperament
     en: temperament
-    en-ca: Temperament
-    en-gb: Temperament
+    en_ca: Temperament
+    en_gb: Temperament
     eo: temperamento
     es: temperamento
     et: Temperament
@@ -90,7 +90,7 @@ dv_has_:
     oc: Temperament
     pl: Temperament
     pt: temperamento
-    pt-br: Temperamento
+    pt_br: Temperamento
     ro: Temperament
     ru: темперамент
     rue: Темперамент

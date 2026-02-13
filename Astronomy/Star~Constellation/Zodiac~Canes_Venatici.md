@@ -120,7 +120,7 @@ dv_has_:
     az: Tazılar
     ba: Таҙылар
     be: Гончыя Псы
-    be-tarask: Ганчакі
+    be_tarask: Ганчакі
     bg: Ловджийски кучета
     bn: সারমেয় মণ্ডল
     br: Chas
@@ -135,8 +135,8 @@ dv_has_:
     diq: Tazıyan
     el: Κύνες Θηρευτικοί
     en: Canes Venatici
-    en-ca: Canes Venatici
-    en-gb: Canes Venatici
+    en_ca: Canes Venatici
+    en_gb: Canes Venatici
     eo: Ĉashundoj
     es: Canes Venatici
     et: Jahipenid
@@ -182,7 +182,7 @@ dv_has_:
     pl: Gwiazdozbiór Psów Gończych
     pnb: شکاری کتے
     pt: Canes Venatici
-    pt-br: Canes Venatici
+    pt_br: Canes Venatici
     ro: Câinii de Vânătoare
     ru: Гончие Псы
     sah: Сонордьут Ыттар
@@ -205,7 +205,7 @@ dv_has_:
     wuu: 猎犬座
     yue: 獵犬座
     zh: 猎犬座
-    zh-hant: 獵犬座
+    zh_hant: 獵犬座
 dv_is_:
   same_as:
   - '[[../../WikiData/WD~Canes_Venatici,10452|WD~Canes_Venatici,10452]]'

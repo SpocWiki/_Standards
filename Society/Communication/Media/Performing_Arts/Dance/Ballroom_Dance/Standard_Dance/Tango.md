@@ -7,7 +7,7 @@ dv_has_:
     az: tanqo
     ba: Танго
     be: танга
-    be-tarask: танга
+    be_tarask: танга
     bg: Танго
     bn: ট্যাঙ্গো
     br: Tango
@@ -73,8 +73,8 @@ dv_has_:
     sms: tango
     sq: Tango
     sr: Танго
-    sr-ec: танго
-    sr-el: tango
+    sr_ec: танго
+    sr_el: tango
     sv: tango
     ta: தாங்கோ
     te: టాంగో

@@ -62,7 +62,7 @@ dv_has_:
     ast: Fuga
     az: Fuqa
     be: фуга
-    be-tarask: фуга
+    be_tarask: фуга
     bg: Фуга
     ca: fuga
     ckb: فیوگ
@@ -90,11 +90,11 @@ dv_has_:
     ja: フーガ
     ka: ფუგა
     kk: Фуга
-    kk-arab: فۋگا
+    kk_arab: فۋگا
     kk-cn: فۋگا
-    kk-cyrl: Фуга
+    kk_cyrl: Фуга
     kk-kz: Фуга
-    kk-latn: Fwga
+    kk_latn: Fwga
     kk-tr: Fwga
     ko: 푸가
     ky: фуга
@@ -113,8 +113,8 @@ dv_has_:
     sk: Fúga
     sl: fuga
     sr: фуга
-    sr-ec: фуга
-    sr-el: fuga
+    sr_ec: фуга
+    sr_el: fuga
     sv: fuga
     tr: füg
     uk: фуга
@@ -124,12 +124,12 @@ dv_has_:
     wuu: 赋格
     yue: 賦格曲
     zh: 赋格
-    zh-cn: 赋格
-    zh-hans: 赋格
-    zh-hant: 賦格
-    zh-hk: 賦格
-    zh-sg: 赋格
-    zh-tw: 賦格
+    zh_cn: 赋格
+    zh_hans: 赋格
+    zh_hant: 賦格
+    zh_hk: 賦格
+    zh_sg: 赋格
+    zh_tw: 賦格
 ---
 # [[Fugue]] 
 

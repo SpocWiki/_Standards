@@ -180,7 +180,7 @@ dv_has_:
     ban: Skandium
     bcl: Eskandyo
     be: Скандый
-    be-tarask: сканд
+    be_tarask: сканд
     bg: скандий
     bho: स्कैंडियम
     blk: သကဲန္ဒီယမ်
@@ -198,11 +198,11 @@ dv_has_:
     cy: scandiwm
     da: scandium
     de: Scandium
-    de-ch: Scandium
+    de_ch: Scandium
     el: σκάνδιο
     en: scandium
-    en-ca: Scandium
-    en-gb: scandium
+    en_ca: Scandium
+    en_gb: scandium
     eo: skandio
     es: escandio
     et: skandium
@@ -285,7 +285,7 @@ dv_has_:
     pnb: سکینڈیم
     ps: سکېنډيوم
     pt: escândio
-    pt-br: escândio
+    pt_br: escândio
     qu: Iskandyu
     ro: scandiu
     ru: скандий
@@ -327,10 +327,10 @@ dv_has_:
     yo: Scandium
     yue: 鈧
     zh: 鈧
-    zh-hans: 钪
-    zh-hant: 鈧
-    zh-hk: 鈧
-    zh-tw: 鈧
+    zh_hans: 钪
+    zh_hant: 鈧
+    zh_hk: 鈧
+    zh_tw: 鈧
     zu: IScambi
   number_of_:
     period: 4

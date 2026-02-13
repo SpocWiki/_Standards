@@ -51,7 +51,7 @@ dv_has_:
   name_:
     ar: معاهدة غير متكافئة
     ast: Tratáu desigual
-    be-tarask: няроўныя дагаворы
+    be_tarask: няроўныя дагаворы
     bg: Неравноправен договор
     ca: Tractats desiguals
     cs: nerovné smlouvy
@@ -89,10 +89,10 @@ dv_has_:
     vi: Các điều ước bất bình đẳng
     yue: 不平等條約
     zh: 不平等条约
-    zh-cn: 不平等条约
-    zh-hans: 不平等条约
-    zh-hant: 不平等條約
-    zh-hk: 不平等條約
+    zh_cn: 不平等条约
+    zh_hans: 不平等条约
+    zh_hant: 不平等條約
+    zh_hk: 不平等條約
 ---
 # [[Unequal_Treaty]] 
 

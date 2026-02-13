@@ -148,7 +148,7 @@ dv_has_:
     ban: Koala
     bcl: Koala
     be: Каала
-    be-tarask: каала
+    be_tarask: каала
     bg: коала
     bn: কোয়ালা
     br: koala
@@ -167,7 +167,7 @@ dv_has_:
     dsb: koala
     el: Κοάλα
     en: koala
-    en-gb: koala
+    en_gb: koala
     en-us: koala
     eo: koalo
     es: koala
@@ -231,7 +231,7 @@ dv_has_:
     pl: koala australijski
     pnb: کوآلا
     pt: coala
-    pt-br: coala
+    pt_br: coala
     qu: kuwala
     ro: koala
     ru: коала
@@ -264,8 +264,8 @@ dv_has_:
     wuu: 树袋熊
     yue: 樹熊
     zh: 無尾熊
-    zh-cn: 考拉
-    zh-hans: 考拉
+    zh_cn: 考拉
+    zh_hans: 考拉
 ---
 # [[Koala]]  🐨
 

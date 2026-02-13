@@ -74,7 +74,7 @@ dv_has_:
     ast: transhumanismu
     az: Transhumanism
     be: Трансгуманізм
-    be-tarask: трансгуманізм
+    be_tarask: трансгуманізм
     bg: Трансхуманизъм
     bs: Transhumanizam
     ca: transhumanisme
@@ -133,12 +133,12 @@ dv_has_:
     vi: Triết học siêu nhân học
     yue: 超人類主義
     zh: 超人類主義
-    zh-cn: 超人类主义
-    zh-hans: 超人类主义
-    zh-hant: 超人類主義
-    zh-hk: 超人類主義
-    zh-sg: 超人类主义
-    zh-tw: 超人類主義
+    zh_cn: 超人类主义
+    zh_hans: 超人类主义
+    zh_hant: 超人類主義
+    zh_hk: 超人類主義
+    zh_sg: 超人类主义
+    zh_tw: 超人類主義
 ---
 # [[Transhumanism]] 
 

@@ -142,7 +142,7 @@ dv_has_:
     ba: Мүктәр
     bar: Laabmoos
     be: лістасцябловыя імхі
-    be-tarask: мхі
+    be_tarask: мхі
     bg: листнати мъхове
     bjn: Lumut daun
     bn: মসবর্গীয় উদ্ভিদ
@@ -192,7 +192,7 @@ dv_has_:
     ko: 이끼
     koi: Нитш
     ku: hezaz
-    ku-latn: hezaz
+    ku_latn: hezaz
     kw: kewni
     ky: Мох
     la: Bryophyta
@@ -213,7 +213,7 @@ dv_has_:
     my: ရေညှိ
     nb: bladmoser
     nds: Bryophyta
-    nds-nl: Bryophyta
+    nds_nl: Bryophyta
     ne: झ्याउ
     nl: mossen
     nn: bladmosar
@@ -255,9 +255,9 @@ dv_has_:
     xmf: ფუთქურეფი
     yue: 苔蘚植物
     zh: 苔藓植物门
-    zh-cn: 苔藓植物门
-    zh-hans: 苔藓植物门
-    zh-tw: 薹蘚植物門
+    zh_cn: 苔藓植物门
+    zh_hans: 苔藓植物门
+    zh_tw: 薹蘚植物門
     zu: ULele
 ---
 # [[Moss]] 

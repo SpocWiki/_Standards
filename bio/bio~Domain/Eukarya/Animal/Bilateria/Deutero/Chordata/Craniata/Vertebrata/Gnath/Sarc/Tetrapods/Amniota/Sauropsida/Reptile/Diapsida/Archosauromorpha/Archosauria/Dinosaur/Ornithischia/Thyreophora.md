@@ -80,7 +80,7 @@ dv_has_:
     or: Thyreophora
     pl: tyreofory
     pt: Thyreophora
-    pt-br: Thyreophora
+    pt_br: Thyreophora
     ro: Thyreophora
     ru: тиреофоры
     sh: Tireofori
@@ -98,10 +98,10 @@ dv_has_:
     war: Thyreophora
     yue: 裝甲類
     zh: 裝甲亞目
-    zh-cn: 装甲亚目
-    zh-hans: 装甲亚目
-    zh-hant: 裝甲亞目
-    zh-hk: 裝甲亞目
+    zh_cn: 装甲亚目
+    zh_hans: 装甲亚目
+    zh_hant: 裝甲亞目
+    zh_hk: 裝甲亞目
 ---
 # [[Thyreophora]] 
 

@@ -75,7 +75,7 @@ dv_has_:
   name_:
     ar: اكتظاظ سكاني بشري
     ast: Superpoblación
-    be-tarask: перанасяленасьць
+    be_tarask: перанасяленасьць
     bg: Пренаселеност
     bn: অতিরিক্ত জনসংখ্যা
     ca: Superpoblació humana

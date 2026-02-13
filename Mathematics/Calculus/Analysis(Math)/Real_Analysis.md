@@ -67,7 +67,7 @@ dv_has_:
     ast: Analís real
     ba: Ысын үҙгәреүсәнле функциялар теорияһы
     be: тэорыя функцый рэчаіснай пераменнай
-    be-tarask: тэорыя функцыяў рэчаіснай зьменнай
+    be_tarask: тэорыя функцыяў рэчаіснай зьменнай
     bg: Реален анализ
     bn: বাস্তব বিশ্লেষণ
     ca: anàlisi real
@@ -102,7 +102,7 @@ dv_has_:
     nn: reell analyse
     pl: teoria funkcji rzeczywistych
     pt: análise real
-    pt-br: análise real
+    pt_br: análise real
     ro: Analiza reală
     ru: теория функций вещественной переменной
     sh: Realna analiza
@@ -110,8 +110,8 @@ dv_has_:
     sk: Reálna analýza
     sl: realna analiza
     sr: реална анализа
-    sr-ec: реална анализа
-    sr-el: Realna analiza
+    sr_ec: реална анализа
+    sr_el: Realna analiza
     sv: reell analys
     th: การวิเคราะห์เชิงจริง
     tr: Gerçel analiz
@@ -120,9 +120,9 @@ dv_has_:
     yi: רעאלער אנאליז
     yue: 實分析
     zh: 实变函数论
-    zh-hans: 实变函数论
-    zh-hant: 實變函數論
-    zh-hk: 實變函數論
+    zh_hans: 实变函数论
+    zh_hant: 實變函數論
+    zh_hk: 實變函數論
 ---
 # [[Real_Analysis]] 
 

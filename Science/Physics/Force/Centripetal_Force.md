@@ -102,7 +102,7 @@ dv_has_:
     ar: قوة جذب مركزي
     ast: fuercia centrípeta
     be: нармальнае паскарэнне
-    be-tarask: нармальнае паскарэньне
+    be_tarask: нармальнае паскарэньне
     bg: центростремителна сила
     bn: কেন্দ্রমুখী বল
     ca: força centrípeta
@@ -172,12 +172,12 @@ dv_has_:
     wuu: 向心力
     yue: 向心力
     zh: 向心力
-    zh-cn: 向心力
-    zh-hans: 向心力
-    zh-hant: 向心力
-    zh-hk: 向心力
-    zh-sg: 向心力
-    zh-tw: 向心力
+    zh_cn: 向心力
+    zh_hans: 向心力
+    zh_hant: 向心力
+    zh_hk: 向心力
+    zh_sg: 向心力
+    zh_tw: 向心力
 ---
 # [[Centripetal_Force]] 
 

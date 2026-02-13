@@ -158,7 +158,7 @@ dv_has_:
     az: qaçış
     bcl: Pagdalagan
     be: бег
-    be-tarask: бег
+    be_tarask: бег
     bg: бягане
     bjn: Bukah
     bn: দৌড়
@@ -174,8 +174,8 @@ dv_has_:
     diq: Vazdayış
     el: τρέξιμο
     en: running
-    en-ca: Running
-    en-gb: running
+    en_ca: Running
+    en_gb: running
     eo: kuro
     es: carrera a pie
     et: jooksmine
@@ -204,11 +204,11 @@ dv_has_:
     jv: Mlayu
     kaa: Juwırıw
     kk: Жүгіру
-    kk-arab: جۇگىرۋ
+    kk_arab: جۇگىرۋ
     kk-cn: جۇگىرۋ
-    kk-cyrl: Жүгіру
+    kk_cyrl: Жүгіру
     kk-kz: Жүгіру
-    kk-latn: Jügirw
+    kk_latn: Jügirw
     kk-tr: Jügirw
     kn: ಓಟ
     ko: 달리기
@@ -231,7 +231,7 @@ dv_has_:
     oc: Corsa a pè
     pl: biegi
     pt: corrida
-    pt-br: corrida
+    pt_br: corrida
     ro: Alergare
     ru: бег
     sa: धावनक्रीडा
@@ -248,13 +248,13 @@ dv_has_:
     sn: Kumhanya
     sq: Vrapimi
     sr: трчање
-    sr-ec: трчање
-    sr-el: trčanje
+    sr_ec: трчање
+    sr_el: trčanje
     sv: löpning
     sw: Mbio
     te: పరుగు
     tg: Давидан
-    tg-latn: Davidan
+    tg_latn: Davidan
     th: การวิ่ง
     tk: Ylgamak
     tl: Pagtatakbo
@@ -266,12 +266,12 @@ dv_has_:
     wuu: 跑步
     yue: 走
     zh: 跑步
-    zh-cn: 跑步
-    zh-hans: 跑步
-    zh-hant: 跑步
-    zh-hk: 跑步
-    zh-sg: 跑步
-    zh-tw: 跑步
+    zh_cn: 跑步
+    zh_hans: 跑步
+    zh_hant: 跑步
+    zh_hk: 跑步
+    zh_sg: 跑步
+    zh_tw: 跑步
 ---
 # [[Running]] 
 

@@ -103,7 +103,7 @@ dv_has_:
     az: Milçək
     ba: Себен
     be: Муха
-    be-tarask: Муха
+    be_tarask: Муха
     bg: Муха
     bn: মক্ষিকা মণ্ডল
     br: Kelienenn

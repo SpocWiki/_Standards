@@ -7,7 +7,7 @@ dv_has_:
     as: পাণিনি
     awa: पाणिनी
     az: Panini
-    be-tarask: Паніні
+    be_tarask: Паніні
     bg: Панини
     bho: पाणिनि
     bn: পাণিনি
@@ -61,7 +61,7 @@ dv_has_:
     pnb: پاݨنی
     ps: پاڼيڼي
     pt: Pānini
-    pt-br: Pānini
+    pt_br: Pānini
     ro: Pāṇini
     ru: Панини
     sa: पाणिनिः
@@ -82,12 +82,12 @@ dv_has_:
     wuu: 波你尼
     yue: 波你尼
     zh: 波你尼
-    zh-cn: 波你尼
-    zh-hans: 波你尼
-    zh-hant: 波你尼
-    zh-hk: 波你尼
-    zh-sg: 波你尼
-    zh-tw: 波你尼
+    zh_cn: 波你尼
+    zh_hans: 波你尼
+    zh_hant: 波你尼
+    zh_hk: 波你尼
+    zh_sg: 波你尼
+    zh_tw: 波你尼
 aliases:
 - Panini
 - Paninis

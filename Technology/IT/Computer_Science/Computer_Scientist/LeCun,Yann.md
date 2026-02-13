@@ -28,15 +28,15 @@ dv_has_:
     af: Yann LeCun
     ar: يان ليكون
     az: Yan Lekun
-    be-tarask: Ян Ле Кун
+    be_tarask: Ян Ле Кун
     br: Yann Le Cun
     ca: Yann Le Cun
     cs: Yann Le Cun
     da: Yann LeCun
     de: Yann LeCun
     en: Yann Le Cun
-    en-ca: Yann LeCun
-    en-gb: Yann LeCun
+    en_ca: Yann LeCun
+    en_gb: Yann LeCun
     en-us: Yann LeCun
     et: Yann LeCun
     eu: Yann LeCun
@@ -63,7 +63,7 @@ dv_has_:
     nn: Yann LeCun
     pl: Yann LeCun
     pt: Yann Le Cun
-    pt-br: Yann Le Cun
+    pt_br: Yann Le Cun
     ru: Ян ЛеКун
     sl: Yann Le Cun
     sq: Yann LeCun
@@ -74,9 +74,9 @@ dv_has_:
     uk: Ян ЛеКун
     zgh: ⵢⴰⵏ ⵍⴻⴽⴰⵏ
     zh: 扬·勒丘恩
-    zh-cn: 扬•勒丘恩
-    zh-hans: 扬·勒丘恩
-    zh-hant: 燕樂存
+    zh_cn: 扬•勒丘恩
+    zh_hans: 扬·勒丘恩
+    zh_hant: 燕樂存
 ---
 ## #has_/text_of_/abstract 
 

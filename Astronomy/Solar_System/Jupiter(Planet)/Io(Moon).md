@@ -114,7 +114,7 @@ dv_has_:
     azb: آیو(اویدو)
     ba: Ио
     be: Іо, спадарожнік
-    be-tarask: Іё
+    be_tarask: Іё
     bg: Йо
     bn: আইয়ো
     br: Io
@@ -129,11 +129,11 @@ dv_has_:
     cy: Io
     da: Io
     de: Io
-    de-ch: Io
+    de_ch: Io
     el: Ιώ
     en: Io
-    en-ca: Io
-    en-gb: Io
+    en_ca: Io
+    en_gb: Io
     en-us: Io
     eo: Ioo
     es: Ío
@@ -190,7 +190,7 @@ dv_has_:
     pnb: آئیو
     ps: آیو (سپوږمۍ)
     pt: Io
-    pt-br: Io
+    pt_br: Io
     ro: Io
     ru: Ио
     scn: Ìo
@@ -200,7 +200,7 @@ dv_has_:
     sk: Io
     sl: Io
     sr: Ио
-    sr-ec: Ио
+    sr_ec: Ио
     sv: Io
     sw: Io (Mshtarii)
     ta: ஐஓ

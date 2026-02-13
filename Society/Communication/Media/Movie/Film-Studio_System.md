@@ -34,7 +34,7 @@ dv_has_:
   name_:
     ar: نظام إستديو
     ast: Sistema d'estudios
-    be-tarask: студыйная сыстэма
+    be_tarask: студыйная сыстэма
     bn: স্টুডিও ব্যবস্থা
     ca: Studio system
     de: Studiosystem

@@ -114,7 +114,7 @@ dv_has_:
     az: dərzilər
     azb: دروزلار
     be: Друзы
-    be-tarask: друзы
+    be_tarask: друзы
     bg: Друзи
     bn: দ্রুজ
     ca: drusos
@@ -183,8 +183,8 @@ dv_has_:
     sl: Druzi
     sq: Druzët
     sr: Друзи
-    sr-ec: Друзи
-    sr-el: Druzi
+    sr_ec: Друзи
+    sr_el: Druzi
     sv: Druser
     sw: Wadruzi
     ta: துருஸ்
@@ -204,12 +204,12 @@ dv_has_:
     yi: דרוזן
     yue: 德魯茲派
     zh: 德鲁兹派
-    zh-cn: 德鲁兹派
-    zh-hans: 德鲁兹派
-    zh-hant: 德魯茲派
-    zh-hk: 德魯茲派
-    zh-sg: 德鲁兹派
-    zh-tw: 德魯茲派
+    zh_cn: 德鲁兹派
+    zh_hans: 德鲁兹派
+    zh_hant: 德魯茲派
+    zh_hk: 德魯茲派
+    zh_sg: 德鲁兹派
+    zh_tw: 德魯茲派
 ---
 # [[Druze]] 
 

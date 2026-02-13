@@ -91,7 +91,7 @@ dv_has_:
     ast: Vulcanización
     ba: вулканизация
     be: вулканізацыя
-    be-tarask: вульканізацыя
+    be_tarask: вульканізацыя
     bg: вулканизация
     bn: ভলকানাইজেশন
     bs: vulkanizacija
@@ -118,11 +118,11 @@ dv_has_:
     ja: 加硫
     jv: Vulkanisasi
     kk: вулкандау
-    kk-arab: ۆۋلكانداۋ
+    kk_arab: ۆۋلكانداۋ
     kk-cn: ۆۋلكانداۋ
-    kk-cyrl: вулкандау
+    kk_cyrl: вулкандау
     kk-kz: вулкандау
-    kk-latn: vwlkandaw
+    kk_latn: vwlkandaw
     kk-tr: vwlkandaw
     ko: 가황
     ky: вулканизация
@@ -140,8 +140,8 @@ dv_has_:
     sk: vulkanizácia
     sl: vulkanizacija
     sr: вулканизација
-    sr-ec: вулканизација
-    sr-el: vulkanizacija
+    sr_ec: вулканизација
+    sr_el: vulkanizacija
     sv: vulkanisering
     ta: இரப்பர் பற்றவைப்பு
     tg: Вулканизатсия
@@ -154,12 +154,12 @@ dv_has_:
     wuu: 硫化
     yue: 硫化
     zh: 硫化
-    zh-cn: 硫化
-    zh-hans: 硫化
-    zh-hant: 硫化
-    zh-hk: 硫化
-    zh-sg: 硫化
-    zh-tw: 硫化
+    zh_cn: 硫化
+    zh_hans: 硫化
+    zh_hant: 硫化
+    zh_hk: 硫化
+    zh_sg: 硫化
+    zh_tw: 硫化
 ---
 # [[Vulcanization]] 
 

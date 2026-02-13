@@ -129,7 +129,7 @@ dv_has_:
     ba: Дерматология
     bcl: Dermatolohiya
     be: дэрматалогія
-    be-tarask: дэрматалёгія
+    be_tarask: дэрматалёгія
     bg: Дерматология
     bn: চর্মরোগবিদ্যা
     br: dermatologiezh
@@ -165,11 +165,11 @@ dv_has_:
     ka: დერმატოლოგია
     kab: tasnaglimt
     kk: Дерматология
-    kk-arab: دەرماتولوگىييا
+    kk_arab: دەرماتولوگىييا
     kk-cn: دەرماتولوگىييا
-    kk-cyrl: Дерматология
+    kk_cyrl: Дерматология
     kk-kz: Дерматология
-    kk-latn: Dermatologïya
+    kk_latn: Dermatologïya
     kk-tr: Dermatologïya
     kn: ಚರ್ಮಶಾಸ್ತ್ರ
     ko: 피부과
@@ -185,7 +185,7 @@ dv_has_:
     mk: дерматологија
     ml: ഡെർമറ്റോളജി
     ms: dermatologi
-    ms-arab: درماتولوݢي
+    ms_arab: درماتولوݢي
     nan: Phê-hu Pīⁿ-ha̍k
     nb: dermatologi
     ne: डर्म्याटोलोजी
@@ -208,8 +208,8 @@ dv_has_:
     sms: dermatologia
     sq: Dermatologjia
     sr: дерматологија
-    sr-ec: Дерматологија
-    sr-el: Dermatologija
+    sr_ec: Дерматологија
+    sr_el: Dermatologija
     sv: dermatologi
     ta: தோல் மருத்துவம்
     th: ตจวิทยา
@@ -226,12 +226,12 @@ dv_has_:
     xmf: დერმატოლოგია
     yue: 皮膚科
     zh: 皮肤病学
-    zh-cn: 皮肤病学
-    zh-hans: 皮肤病学
-    zh-hant: 皮膚病學
-    zh-hk: 皮膚病學
-    zh-sg: 皮肤病学
-    zh-tw: 皮膚病學
+    zh_cn: 皮肤病学
+    zh_hans: 皮肤病学
+    zh_hant: 皮膚病學
+    zh_hk: 皮膚病學
+    zh_sg: 皮肤病学
+    zh_tw: 皮膚病學
 ---
 # [[Dermatology]] 
 

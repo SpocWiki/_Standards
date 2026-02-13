@@ -152,7 +152,7 @@ dv_has_:
     az: Mexaniki iş
     bar: Oabat
     be: механічная работа
-    be-tarask: мэханічная праца
+    be_tarask: мэханічная праца
     bg: Механична работа
     bn: কাজ
     br: labour un nerzh
@@ -165,11 +165,11 @@ dv_has_:
     da: arbejde
     dag: tuma
     de: Arbeit
-    de-ch: Arbeit
+    de_ch: Arbeit
     el: Έργο
     en: work
-    en-ca: Work
-    en-gb: work
+    en_ca: Work
+    en_gb: work
     en-us: work
     eo: laboro
     es: trabajo
@@ -230,7 +230,7 @@ dv_has_:
     pl: praca
     pms: Travaj
     pt: trabalho
-    pt-br: Trabalho
+    pt_br: Trabalho
     qu: Ruray
     ro: Lucru mecanic
     ru: работа
@@ -245,8 +245,8 @@ dv_has_:
     sn: Basa
     sq: Puna mekanike
     sr: механички рад
-    sr-ec: механички рад
-    sr-el: mehanički rad
+    sr_ec: механички рад
+    sr_el: mehanički rad
     su: usaha mékanik
     sv: arbete
     ta: வேலை
@@ -264,7 +264,7 @@ dv_has_:
     yo: isé
     yue: 功
     zh: 功
-    zh-hant: 功
+    zh_hant: 功
 ---
 # [[Dim~Work]] 
 

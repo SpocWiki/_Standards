@@ -137,7 +137,7 @@ dv_has_:
     ast: Reporteros Ensin Fronteres
     az: Sərhədsiz reportyorlar
     be: Рэпарцёры без межаў
-    be-tarask: Рэпартэры бязь межаў
+    be_tarask: Рэпартэры бязь межаў
     bg: Репортери без граници
     bn: রিপোর্টার্স উইদাউট বর্ডারস
     ca: Reporters Sense Fronteres
@@ -146,7 +146,7 @@ dv_has_:
     de: Reporter ohne Grenzen
     el: Δημοσιογράφοι χωρίς Σύνορα
     en: Reporters Without Borders
-    en-ca: Reporters Without Borders
+    en_ca: Reporters Without Borders
     eo: Raportistoj sen limoj
     es: Reporteros Sin Fronteras
     et: Piirideta Ajakirjanikud
@@ -179,7 +179,7 @@ dv_has_:
     pms: Reporters sans frontières
     pnb: نامہ نگار بلا سرحداں
     pt: Repórteres sem Fronteiras
-    pt-br: Repórteres sem Fronteiras
+    pt_br: Repórteres sem Fronteiras
     ro: Reporteri fără frontiere
     ru: Репортёры без границ
     sc: Reporteris Chentza Fronteras
@@ -197,12 +197,12 @@ dv_has_:
     vi: Phóng viên không biên giới
     yue: 無國界記者
     zh: 无国界记者
-    zh-cn: 无国界记者
-    zh-hans: 无国界记者
-    zh-hant: 無國界記者
-    zh-hk: 無國界記者
-    zh-sg: 无国界记者
-    zh-tw: 無國界記者
+    zh_cn: 无国界记者
+    zh_hans: 无国界记者
+    zh_hant: 無國界記者
+    zh_hk: 無國界記者
+    zh_sg: 无国界记者
+    zh_tw: 無國界記者
 ---
 # [[Reporters_without_Borders]] 
 

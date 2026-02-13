@@ -109,7 +109,7 @@ dv_has_:
     ast: Dorsal mesoatlántica
     az: Orta Atlantika silsiləsi
     be: Сярэдзінна-Атлантычны хрыбет
-    be-tarask: Сярэднеатлянтычны сьцяг
+    be_tarask: Сярэднеатлянтычны сьцяг
     bg: Средноатлантически хребет
     bn: মধ্য-আটলান্টিক শৈলশিরা
     ca: Dorsal mesoatlàntica
@@ -117,11 +117,11 @@ dv_has_:
     cs: Středoatlantský hřbet
     da: Midtatlantiske ryg
     de: Mittelatlantischer Rücken
-    de-ch: Mittelatlantischer Rücken
+    de_ch: Mittelatlantischer Rücken
     el: Μεσο-Ατλαντική υφαλορράχη
     en: Mid-Atlantic Ridge
-    en-ca: Mid-Atlantic Ridge
-    en-gb: Mid-Atlantic Ridge
+    en_ca: Mid-Atlantic Ridge
+    en_gb: Mid-Atlantic Ridge
     eo: Mezatlantika dorso
     es: Dorsal mesoatlántica
     et: Kesk-Atlandi mäestik
@@ -153,7 +153,7 @@ dv_has_:
     oc: Dorsala medioatlantica
     pl: Grzbiet Śródatlantycki
     pt: Dorsal Mesoatlântica
-    pt-br: Dorsal Mesoatlântica
+    pt_br: Dorsal Mesoatlântica
     ro: Dorsala Atlantică
     ru: Срединно-Атлантический хребет
     scn: Dursali Mediu Atlàntica
@@ -161,8 +161,8 @@ dv_has_:
     sh: Srednjeatlantski greben
     sl: Srednjeatlantski hrbet
     sr: Средњоатлантски гребен
-    sr-ec: Средњоатлантски гребен
-    sr-el: Srednjoatlantski greben
+    sr_ec: Средњоатлантски гребен
+    sr_el: Srednjoatlantski greben
     sv: Mittatlantiska ryggen
     sw: Mgongo kati wa Atlantiki
     ta: நடு-அத்திலாந்திக்கு முகடு
@@ -173,12 +173,12 @@ dv_has_:
     xmf: შკაატლანტიკური ქჷნდჷრი
     yue: 大西洋中洋脊
     zh: 大西洋洋中脊
-    zh-cn: 大西洋洋中脊
-    zh-hans: 大西洋洋中脊
-    zh-hant: 大西洋中洋脊
-    zh-hk: 大西洋洋中脊
-    zh-sg: 大西洋洋中脊
-    zh-tw: 大西洋中洋脊
+    zh_cn: 大西洋洋中脊
+    zh_hans: 大西洋洋中脊
+    zh_hant: 大西洋中洋脊
+    zh_hk: 大西洋洋中脊
+    zh_sg: 大西洋洋中脊
+    zh_tw: 大西洋中洋脊
 ---
 # [[Mid-Atlantic_Ridge]] 
 

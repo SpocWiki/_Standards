@@ -35,7 +35,7 @@ dv_has_:
     oc: Physeter
     pl: Kaszalot
     pt: Physeter
-    pt-br: Physeter
+    pt_br: Physeter
     ro: Physeter
     ru: Physeter
     sl: Physeter
@@ -46,8 +46,8 @@ dv_has_:
     vo: Physeter
     war: Physeter
     zh: 抹香鲸属
-    zh-cn: 抹香鲸属
-    zh-tw: 抹香鯨屬
+    zh_cn: 抹香鲸属
+    zh_tw: 抹香鯨屬
 aliases:
 - Kaszalot
 - kašalotu ģints

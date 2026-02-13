@@ -82,7 +82,7 @@ dv_has_:
     ar: بيب روث
     arz: بيب روث
     ast: Babe Ruth
-    be-tarask: Бэйб Рут
+    be_tarask: Бэйб Рут
     bg: Бейб Рут
     bn: বেব রুথ
     ca: Babe Ruth
@@ -90,12 +90,12 @@ dv_has_:
     cy: Babe Ruth
     da: Babe Ruth
     de: Babe Ruth
-    de-ch: Babe Ruth
+    de_ch: Babe Ruth
     diq: Babe Ruth
     el: Μπέιμπ Ρουθ
     en: Babe Ruth
-    en-ca: Babe Ruth
-    en-gb: Babe Ruth
+    en_ca: Babe Ruth
+    en_gb: Babe Ruth
     eo: Babe Ruth
     es: Babe Ruth
     et: Babe Ruth
@@ -132,7 +132,7 @@ dv_has_:
     pap: Babe Ruth
     pl: Babe Ruth
     pt: Babe Ruth
-    pt-br: Babe Ruth
+    pt_br: Babe Ruth
     ro: Babe Ruth
     ru: Бейб Рут
     si: බේබ් රූත්
@@ -149,12 +149,12 @@ dv_has_:
     wuu: 贝比·鲁斯
     yue: 貝比·魯斯
     zh: 貝比·魯斯
-    zh-cn: 贝比·鲁斯
-    zh-hans: 贝比·鲁斯
-    zh-hant: 貝比·魯斯
-    zh-hk: 貝比·魯斯
-    zh-sg: 贝比·鲁斯
-    zh-tw: 貝比·魯斯
+    zh_cn: 贝比·鲁斯
+    zh_hans: 贝比·鲁斯
+    zh_hant: 貝比·魯斯
+    zh_hk: 貝比·魯斯
+    zh_sg: 贝比·鲁斯
+    zh_tw: 貝比·魯斯
 ---
 # [[Babe_Ruth]] 
 

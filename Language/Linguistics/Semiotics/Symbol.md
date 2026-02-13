@@ -126,7 +126,7 @@ dv_has_:
     ba: символ
     bcl: simbolo
     be: сімвал
-    be-tarask: сымбаль
+    be_tarask: сымбаль
     bg: символ
     bn: প্রতীক
     br: arouez
@@ -178,7 +178,7 @@ dv_has_:
     km: និមិត្តសញ្ញា
     kn: ಚಿಹ್ನೆ
     ko: 상징
-    ku-latn: hêma
+    ku_latn: hêma
     ky: символ
     la: symbolum
     lb: Symbol
@@ -188,7 +188,7 @@ dv_has_:
     ml: പ്രതീകം
     mr: प्रतीक
     ms: simbol
-    ms-arab: سيمبول
+    ms_arab: سيمبول
     my: သင်္ကေတ
     nan: hû-hō
     nb: symbol
@@ -201,7 +201,7 @@ dv_has_:
     pam: simbolu
     pl: symbol
     pt: símbolo
-    pt-br: símbolo
+    pt_br: símbolo
     qu: sanancha
     ro: simbol
     ru: символ
@@ -216,8 +216,8 @@ dv_has_:
     so: astaan
     sq: simboli
     sr: симбол
-    sr-ec: симбол
-    sr-el: symbol
+    sr_ec: симбол
+    sr_el: symbol
     sv: symbol
     te: చిహ్నం
     tg: нишона
@@ -237,14 +237,14 @@ dv_has_:
     yo: àmì
     yue: 符號
     zh: 符號
-    zh-cn: 符号
-    zh-hans: 符号
-    zh-hant: 符號
-    zh-hk: 符號
-    zh-mo: 符號
+    zh_cn: 符号
+    zh_hans: 符号
+    zh_hant: 符號
+    zh_hk: 符號
+    zh_mo: 符號
     zh-my: 符号
-    zh-sg: 符号
-    zh-tw: 符號
+    zh_sg: 符号
+    zh_tw: 符號
 ---
 # [[Symbol]] 
 

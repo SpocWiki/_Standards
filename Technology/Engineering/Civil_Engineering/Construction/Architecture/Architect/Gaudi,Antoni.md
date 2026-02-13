@@ -153,14 +153,14 @@ dv_has_:
     bar: Antoni Gaudí
     bcl: Antoni Gaudi
     be: Антоніа Гаўдзі
-    be-tarask: Антоніё Гаўдзі
+    be_tarask: Антоніё Гаўдзі
     bg: Антони Гауди
     bi: Antoni Gaudí
     bn: অ্যান্টনি গাউদি
     br: Antoni Gaudí
     bs: Antoni Gaudí
     ca: Antoni Gaudí i Cornet
-    cbk-zam: Antoni Gaudí
+    cbk_zam: Antoni Gaudí
     co: Antoni Gaudí
     cs: Antoni Gaudí
     cy: Antoni Gaudí
@@ -201,7 +201,7 @@ dv_has_:
     kk: Антонио Гауди
     ko: 안토니 가우디
     ku: Antoni Gaudí
-    ku-latn: Antoni Gaudí
+    ku_latn: Antoni Gaudí
     la: Antonius Gaudí Cornet
     lb: Antoni Gaudí
     li: Antoni Gaudí
@@ -227,7 +227,7 @@ dv_has_:
     pnb: انتونی گاڈی
     ps: آنتونی ګائودی
     pt: Antoni Gaudí
-    pt-br: Antoni Gaudí
+    pt_br: Antoni Gaudí
     pwn: Antoni Gaudi
     qu: Antoni Gaudí
     rm: Antoni Gaudí
@@ -263,7 +263,7 @@ dv_has_:
     yo: Antoni Gaudí
     yue: 安東尼高第
     zh: 安东尼·高迪
-    zh-tw: 安東尼·高第
+    zh_tw: 安東尼·高第
 ---
 # [[Gaudi,Antoni]] 
 

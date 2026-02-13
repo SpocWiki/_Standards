@@ -56,7 +56,7 @@ dv_has_:
   name_:
     af: Wortelkanaal
     ar: القناة الجذرية
-    be-tarask: карэньневы ход
+    be_tarask: карэньневы ход
     ca: canal radicular
     cs: kořenový kanálek
     da: Rodbehandling
@@ -96,9 +96,9 @@ dv_has_:
     wuu: 根管
     yue: 牙根
     zh: 根管治疗术
-    zh-hans: 根管治疗术
-    zh-hant: 根管治療術
-    zh-hk: 根管治療術
+    zh_hans: 根管治疗术
+    zh_hant: 根管治療術
+    zh_hk: 根管治療術
 ---
 # [[Root_Canal]] 
 

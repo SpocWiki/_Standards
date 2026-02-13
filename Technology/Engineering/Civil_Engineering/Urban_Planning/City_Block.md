@@ -63,7 +63,7 @@ dv_has_:
   name_:
     ar: مربع سكني
     be: квартал
-    be-tarask: квартал
+    be_tarask: квартал
     bn: নগর খণ্ড
     ca: illa urbana
     cs: městský blok
@@ -95,7 +95,7 @@ dv_has_:
     os: сых
     pl: blok budowlany
     pt: quarteirão
-    pt-br: quarteirão
+    pt_br: quarteirão
     ru: квартал
     scn: isulatu
     sh: gradski blok

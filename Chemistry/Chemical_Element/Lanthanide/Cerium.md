@@ -290,7 +290,7 @@ dv_has_:
     ban: Sérium
     bcl: Seryo
     be: Цэрый
-    be-tarask: Цэр
+    be_tarask: Цэр
     bg: церий
     bho: सेरियम
     bn: সিরিয়াম
@@ -382,7 +382,7 @@ dv_has_:
     pnb: سیریم
     ps: سېريوم
     pt: cério
-    pt-br: cério
+    pt_br: cério
     qu: Seryu
     ro: ceriu
     ru: церий
@@ -422,10 +422,10 @@ dv_has_:
     yo: Cerium
     yue: 鈰
     zh: 鈰
-    zh-hans: 铈
-    zh-hant: 鈰
-    zh-hk: 鈰
-    zh-tw: 鈰
+    zh_hans: 铈
+    zh_hant: 鈰
+    zh_hk: 鈰
+    zh_tw: 鈰
     zu: IShambe
   number_of_:
     period: 6

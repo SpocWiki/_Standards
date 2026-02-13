@@ -105,7 +105,7 @@ dv_has_:
     ba: домен
     bar: Domän
     be: дамен
-    be-tarask: дамэн
+    be_tarask: дамэн
     bew: Rungkun (èlmu hayat)
     bg: империя
     bho: अधिजगत
@@ -120,12 +120,12 @@ dv_has_:
     cy: Parth (bioleg)
     da: domæne
     de: Domäne
-    de-ch: Domäne
+    de_ch: Domäne
     dsb: Domena
     el: Επικράτεια
     en: domain
-    en-ca: Domain
-    en-gb: domain
+    en_ca: Domain
+    en_gb: domain
     eo: domanio
     es: dominio
     et: domeen
@@ -155,7 +155,7 @@ dv_has_:
     kab: taɣult
     ko: 역
     ks: گَژٲرؠ
-    ku-latn: jorecîhan
+    ku_latn: jorecîhan
     la: Regio
     lb: Domän
     lt: domenas
@@ -176,7 +176,7 @@ dv_has_:
     pl: domena
     pms: Domini
     pt: domínio
-    pt-br: domínio
+    pt_br: domínio
     rki: ဇီဝဗေဒ နယ်ပယ်
     ro: Domeniu
     ru: домен
@@ -192,8 +192,8 @@ dv_has_:
     smn: doomeen
     sms: domeeʹn
     sr: домен
-    sr-ec: Домен
-    sr-el: Domen
+    sr_ec: Домен
+    sr_el: Domen
     sv: domän
     sw: Domeni
     ta: ஆட்களம்
@@ -202,8 +202,8 @@ dv_has_:
     tl: Dominyo
     tr: Üst âlem
     tt: домен
-    tt-cyrl: домен
-    tt-latn: domen
+    tt_cyrl: домен
+    tt_latn: domen
     uk: домен
     ur: ڈومین
     uz: Organizmlar sistemasi
@@ -214,12 +214,12 @@ dv_has_:
     wuu: 域
     yue: 域
     zh: 域
-    zh-cn: 域
-    zh-hans: 域
-    zh-hant: 域
-    zh-hk: 域
-    zh-sg: 域
-    zh-tw: 域
+    zh_cn: 域
+    zh_hans: 域
+    zh_hant: 域
+    zh_hk: 域
+    zh_sg: 域
+    zh_tw: 域
     zu: Isidlangala (kumchazampilo)
 ---
 # [[bio~Domain]] 

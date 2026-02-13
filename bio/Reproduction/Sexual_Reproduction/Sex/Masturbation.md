@@ -143,7 +143,7 @@ dv_has_:
     az: Masturbasiya
     bcl: Pagsalsal
     be: мастурбацыя
-    be-tarask: мастурбацыя
+    be_tarask: мастурбацыя
     bew: Istimna
     bg: Мастурбация
     bn: হস্তমৈথুন
@@ -159,8 +159,8 @@ dv_has_:
     de: Masturbation
     el: αυνανισμός
     en: masturbation
-    en-ca: Masturbation
-    en-gb: masturbation
+    en_ca: Masturbation
+    en_gb: masturbation
     en-us: masturbation
     eo: sinmasturbado
     es: masturbación
@@ -220,7 +220,7 @@ dv_has_:
     pl: masturbacja
     ps: موټک وهل
     pt: masturbação
-    pt-br: Masturbação
+    pt_br: Masturbação
     qu: Wawsakuy
     rki: တစ်ကိုယ်ရည်အာသာဖြေခြင်း
     ro: masturbare
@@ -244,8 +244,8 @@ dv_has_:
     so: Siigeysi
     sq: Masturbim
     sr: мастурбација
-    sr-ec: мастурбација
-    sr-el: masturbacija
+    sr_ec: мастурбација
+    sr_el: masturbacija
     sv: onani
     sw: Punyeto
     ta: சுய இன்பம்
@@ -264,9 +264,9 @@ dv_has_:
     yue: 手淫
     zea: Masturberen
     zh: 自慰
-    zh-cn: 自慰
-    zh-hant: 自慰
-    zh-tw: 自慰
+    zh_cn: 自慰
+    zh_hant: 自慰
+    zh_tw: 自慰
     zu: Indlwabu
 ---
 # [[Masturbation]] 

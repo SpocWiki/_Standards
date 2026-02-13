@@ -239,7 +239,7 @@ dv_has_:
     ba: программалау теле
     bar: Programmiasproch
     be: мова праграмавання
-    be-tarask: мова праграмаваньня
+    be_tarask: мова праграмаваньня
     bg: език за програмиране
     bho: प्रोग्रामिंग भाषा
     blk: ပရိုဂရမ်မိဉ်းဘာႏသာႏငေါဝ်းငွါ
@@ -257,12 +257,12 @@ dv_has_:
     cy: iaith raglennu
     da: programmeringssprog
     de: Programmiersprache
-    de-ch: Programmiersprache
+    de_ch: Programmiersprache
     diq: zıwanê programnayışi
     el: γλώσσα προγραμματισμού
     en: programming language
-    en-ca: programming language
-    en-gb: programming language
+    en_ca: programming language
+    en_gb: programming language
     eo: programlingvo
     es: lenguaje de programación
     et: programmeerimiskeel
@@ -336,7 +336,7 @@ dv_has_:
     pnb: کمپیوٹر بولی
     ps: برېښليک ژبه
     pt: linguagem de programação
-    pt-br: linguagem de programação
+    pt_br: linguagem de programação
     qu: Wakichiy simi
     ro: limbaj de programare
     ru: язык программирования
@@ -356,8 +356,8 @@ dv_has_:
     sms: programmâʹsttemǩiõll
     sq: gjuhë programimi
     sr: програмски језик
-    sr-ec: програмски језик
-    sr-el: programski jezik
+    sr_ec: програмски језик
+    sr_el: programski jezik
     su: basa program
     sv: programmeringsspråk
     sw: lugha ya programu
@@ -371,7 +371,7 @@ dv_has_:
     tok: toki ilo
     tr: programlama dili
     tt: програмлау теле
-    tt-cyrl: програмлау теле
+    tt_cyrl: програмлау теле
     tum: Chiyowoyero cha vilayizgo
     udm: программированилэн кылыз
     ug: پروگرامما تىلى
@@ -387,14 +387,14 @@ dv_has_:
     yo: Èdè Ìṣèlànà Kọ̀mpútà
     yue: 程式語言
     zh: 编程语言
-    zh-cn: 编程语言
-    zh-hans: 编程语言
-    zh-hant: 程式語言
-    zh-hk: 程式語言
-    zh-mo: 程式語言
+    zh_cn: 编程语言
+    zh_hans: 编程语言
+    zh_hant: 程式語言
+    zh_hk: 程式語言
+    zh_mo: 程式語言
     zh-my: 编程语言
-    zh-sg: 编程语言
-    zh-tw: 程式語言
+    zh_sg: 编程语言
+    zh_tw: 程式語言
     zu: Ulimi lokuhlelelisa
 ---
 # [[Prog~Language]] 

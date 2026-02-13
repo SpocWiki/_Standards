@@ -152,7 +152,7 @@ dv_has_:
     ba: Джакомо Пуччини
     bar: Giacomo Puccini
     be: Джакама Пучыні
-    be-tarask: Джакама Пучыні
+    be_tarask: Джакама Пучыні
     bg: Джакомо Пучини
     bi: Giacomo Puccini
     bn: জাকোমো পুচিনি
@@ -171,15 +171,15 @@ dv_has_:
     da: Giacomo Puccini
     de: Giacomo Puccini
     de-at: Giacomo Puccini
-    de-ch: Giacomo Puccini
+    de_ch: Giacomo Puccini
     diq: Giacomo Puccini
     dsb: Giacomo Puccini
     egl: Giacomo Puccini
     el: Τζάκομο Πουτσίνι
     eml: Giacomo Puccini
     en: Giacomo Puccini
-    en-ca: Giacomo Puccini
-    en-gb: Giacomo Puccini
+    en_ca: Giacomo Puccini
+    en_gb: Giacomo Puccini
     eo: Giacomo Puccini
     es: Giacomo Puccini
     et: Giacomo Puccini
@@ -236,7 +236,7 @@ dv_has_:
     nap: Giacomo Puccini
     nb: Giacomo Puccini
     nds: Giacomo Puccini
-    nds-nl: Giacomo Puccini
+    nds_nl: Giacomo Puccini
     nl: Giacomo Puccini
     nn: Giacomo Puccini
     nrm: Giacomo Puccini
@@ -250,7 +250,7 @@ dv_has_:
     pms: Giacomo Puccini
     pnb: جاکومو پوچینی
     pt: Giacomo Puccini
-    pt-br: Giacomo Puccini
+    pt_br: Giacomo Puccini
     qu: Giacomo Puccini
     rm: Giacomo Puccini
     ro: Giacomo Puccini
@@ -265,7 +265,7 @@ dv_has_:
     sl: Giacomo Puccini
     sq: Giacomo Puccini
     sr: Ђакомо Пучини
-    sr-el: Giacomo Puccini
+    sr_el: Giacomo Puccini
     stq: Giacomo Puccini
     sv: Giacomo Puccini
     sw: Giacomo Puccini
@@ -291,10 +291,10 @@ dv_has_:
     yi: דזיאקאמא פוטשיני
     yue: 普契尼
     zh: 賈科莫·普契尼
-    zh-cn: 贾科莫·普契尼
-    zh-hans: 贾科莫·普契尼
-    zh-hant: 賈科莫·普契尼
-    zh-tw: 賈科莫·普契尼
+    zh_cn: 贾科莫·普契尼
+    zh_hans: 贾科莫·普契尼
+    zh_hant: 賈科莫·普契尼
+    zh_tw: 賈科莫·普契尼
     zu: Giacomo Puccini
 ---
 ## #has_/text_of_/abstract 

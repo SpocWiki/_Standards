@@ -117,7 +117,7 @@ dv_has_:
     az: Beynəlxalq Nəzəri və Tətbiqi Kimya İttifaqı
     bcl: Internasyunal na Kasararoan nin Puro asin Aplikado na Kimika
     be: Міжнародны саюз тэарэтычнай і прыкладной хіміі
-    be-tarask: Міжнародны зьвяз тэарэтычнай і дастасоўнай хіміі
+    be_tarask: Міжнародны зьвяз тэарэтычнай і дастасоўнай хіміі
     bg: Международен съюз за чиста и приложна химия
     bn: আন্তর্জাতিক বিশুদ্ধ ও ফলিত রসায়ন সংস্থা
     br: Unaniezh Etrevroadel ar Gimiezh Pur hag Arveret
@@ -130,8 +130,8 @@ dv_has_:
     de: International Union of Pure and Applied Chemistry
     el: Διεθνής Ένωση Καθαρής και Εφαρμοσμένης Χημείας
     en: International Union of Pure and Applied Chemistry
-    en-ca: International Union of Pure and Applied Chemistry
-    en-gb: International Union of Pure and Applied Chemistry
+    en_ca: International Union of Pure and Applied Chemistry
+    en_gb: International Union of Pure and Applied Chemistry
     eo: IUPAC
     es: Unión Internacional de Química Pura y Aplicada
     et: Rahvusvaheline Puhta ja Rakenduskeemia Liit
@@ -173,7 +173,7 @@ dv_has_:
     pa: ਅੰਤਰਰਾਸ਼ਟਰੀ ਸ਼ੁੱਧ ਅਤੇ ਵਿਹਾਰਕ ਰਸਾਇਣ ਵਿਗਿਆਨ ਸੰਘ
     pl: Międzynarodowa Unia Chemii Czystej i Stosowanej
     pt: União Internacional de Química Pura e Aplicada
-    pt-br: União Internacional de Química Pura e Aplicada
+    pt_br: União Internacional de Química Pura e Aplicada
     qu: IUPAC
     ro: Uniunea Internațională de Chimie Pură și Aplicată
     ru: Международный союз теоретической и прикладной химии
@@ -182,7 +182,7 @@ dv_has_:
     sl: Mednarodna zveza za čisto in uporabno kemijo
     sq: IUPAC
     sr: Међународна унија за чисту и примењену хемију
-    sr-ec: Међународна унија за чисту и примењену хемију
+    sr_ec: Међународна унија за чисту и примењену хемију
     sv: Internationella kemiunionen
     ta: பன்னாட்டு தனி மற்றும் பயன்பாட்டு வேதியியல் ஒன்றியம்
     th: สหภาพเคมีบริสุทธิ์และเคมีประยุกต์ระหว่างประเทศ
@@ -194,8 +194,8 @@ dv_has_:
     wuu: 优八克
     yue: 理論化學和應用化學國際聯會
     zh: 國際純粹與應用化學聯合會
-    zh-cn: 国际纯粹与应用化学联合会
-    zh-hans: 国际纯粹与应用化学联合会
+    zh_cn: 国际纯粹与应用化学联合会
+    zh_hans: 国际纯粹与应用化学联合会
 ---
 # [[IUPAC(International_Union_of_Pure_and_Applied_Chemistry)]] 
 

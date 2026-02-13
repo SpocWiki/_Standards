@@ -146,7 +146,7 @@ dv_has_:
     ban: Arit
     bcl: Asyab
     be: серп
-    be-tarask: серп
+    be_tarask: серп
     bg: Сърп
     bho: हँसुआ
     bn: কাস্তে
@@ -257,9 +257,9 @@ dv_has_:
     wuu: 镰刀
     yue: 鐮刀
     zh: 镰刀
-    zh-hans: 镰刀
-    zh-hant: 鐮刀
-    zh-tw: 鐮刀
+    zh_hans: 镰刀
+    zh_hant: 鐮刀
+    zh_tw: 鐮刀
 ---
 # [[Sickle]] 
 

@@ -110,7 +110,7 @@ dv_has_:
     ba: Го
     bar: Go
     be: го
-    be-tarask: го
+    be_tarask: го
     bg: Го
     bn: গো (খেলা)
     bo: མིག་མངས་སྒོར་སྒོར།
@@ -126,7 +126,7 @@ dv_has_:
     cy: Go
     da: go
     de: Go
-    de-ch: Go (Spiel)
+    de_ch: Go (Spiel)
     dsb: Go
     el: γκο
     en: go
@@ -186,7 +186,7 @@ dv_has_:
     pms: Go (gieugh)
     pnb: گو
     pt: go
-    pt-br: Go
+    pt_br: Go
     ro: go
     ru: го
     rue: Ґо
@@ -198,8 +198,8 @@ dv_has_:
     sl: go
     sq: Go (lojë)
     sr: го
-    sr-ec: го
-    sr-el: go
+    sr_ec: го
+    sr_el: go
     sv: go
     sw: Go
     ta: வெய்ச்சி
@@ -219,11 +219,11 @@ dv_has_:
     yi: גא
     yue: 圍棋
     zh: 圍棋
-    zh-cn: 围棋
-    zh-hans: 围棋
-    zh-hant: 圍棋
-    zh-hk: 圍棋
-    zh-tw: 圍棋
+    zh_cn: 围棋
+    zh_hans: 围棋
+    zh_hant: 圍棋
+    zh_hk: 圍棋
+    zh_tw: 圍棋
 ---
 # [[Go(Game)]] 
 

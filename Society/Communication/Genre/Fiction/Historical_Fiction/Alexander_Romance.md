@@ -5,7 +5,7 @@ dv_has_:
     ar: قصة الإسكندر
     az: İsgəndər haqqında roman
     be: Александрыя, раман
-    be-tarask: Александрыя
+    be_tarask: Александрыя
     bg: Александрия
     ca: Romanç d'Alexandre
     cs: Alexandreis (žánr)

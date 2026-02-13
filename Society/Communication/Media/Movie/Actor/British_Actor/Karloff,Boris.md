@@ -33,19 +33,19 @@ dv_has_:
     az: Boris Karloff
     azb: بوریس کارلوف
     be: Барыс Карлаф
-    be-tarask: Барыс Карлаф
+    be_tarask: Барыс Карлаф
     bg: Борис Карлоф
     ca: Boris Karloff
     cs: Boris Karloff
     cy: Boris Karloff
     da: Boris Karloff
     de: Boris Karloff
-    de-ch: Boris Karloff
+    de_ch: Boris Karloff
     ee: Boris Karloff
     el: Μπόρις Καρλόφ
     en: Boris Karloff
-    en-ca: Boris Karloff
-    en-gb: Boris Karloff
+    en_ca: Boris Karloff
+    en_gb: Boris Karloff
     eo: Boris Karloff
     es: Boris Karloff
     et: Boris Karloff
@@ -76,7 +76,7 @@ dv_has_:
     pap: Boris Karloff
     pl: Boris Karloff
     pt: Boris Karloff
-    pt-br: Boris Karloff
+    pt_br: Boris Karloff
     qu: Boris Karloff
     ro: Boris Karloff
     ru: Борис Карлофф
@@ -84,8 +84,8 @@ dv_has_:
     sl: Boris Karloff
     sq: Boris Karloff
     sr: Борис Карлоф
-    sr-ec: Борис Карлоф
-    sr-el: Boris Karlof
+    sr_ec: Борис Карлоф
+    sr_el: Boris Karlof
     sv: Boris Karloff
     tl: Boris Karloff
     tr: Boris Karloff
@@ -94,12 +94,12 @@ dv_has_:
     yo: Boris Karloff
     yue: 波里士嘉洛夫
     zh: 鲍里斯·卡洛夫
-    zh-cn: 鲍里斯·卡洛夫
-    zh-hans: 鲍里斯·卡洛夫
-    zh-hant: 布利斯·卡洛夫
-    zh-hk: 波里士·嘉洛夫
-    zh-sg: 波里斯·卡洛夫
-    zh-tw: 布利斯·卡洛夫
+    zh_cn: 鲍里斯·卡洛夫
+    zh_hans: 鲍里斯·卡洛夫
+    zh_hant: 布利斯·卡洛夫
+    zh_hk: 波里士·嘉洛夫
+    zh_sg: 波里斯·卡洛夫
+    zh_tw: 布利斯·卡洛夫
 ---
 # [[Karloff,Boris]] 
 

@@ -79,7 +79,7 @@ dv_has_:
     ast: Organización del Tratáu del Sureste Asiáticu
     az: SEATO
     ba: Көньяҡ-Көнсығыш Азия договоры ойошмаһы
-    be-tarask: SEATO
+    be_tarask: SEATO
     bg: СЕАТО
     bn: সিয়াটো
     br: Southeast Asia Treaty Organization
@@ -87,10 +87,10 @@ dv_has_:
     cs: SEATO
     da: Southeast Asia Treaty Organisation
     de: SEATO
-    de-ch: SEATO
+    de_ch: SEATO
     en: Southeast Asia Treaty Organization
-    en-ca: Southeast Asia Treaty Organization
-    en-gb: Southeast Asia Treaty Organization
+    en_ca: Southeast Asia Treaty Organization
+    en_gb: Southeast Asia Treaty Organization
     eo: Sudorient-Azia Traktat-Organizaĵo
     es: Organización del Tratado del Sureste Asiático
     et: Kagu-Aasia Lepingu Organisatsioon
@@ -118,7 +118,7 @@ dv_has_:
     oc: Organizacion dau Tractat de l'Asia dau Sud-Èst
     pl: Organizacja Paktu Azji Południowo-Wschodniej
     pt: Organização do Tratado do Sudeste Asiático
-    pt-br: Organização do Tratado do Sudeste Asiático
+    pt_br: Organização do Tratado do Sudeste Asiático
     ru: Организация Договора Юго-Восточной Азии
     sl: Pogodbena organizacija za Jugovzhodno Azijo
     sr: Udruženje zemalja Jugoistočne Azije
@@ -132,7 +132,7 @@ dv_has_:
     wuu: 东南亚条约组织
     xmf: ობჟათე-ბჟაეიოლი აზიაშ ხეკულუაშ ორგანიზაცია
     zh: 東南亞條約組織
-    zh-hant: 東南亞條約組織
+    zh_hant: 東南亞條約組織
 ---
 # [[Southeast_Asia_Treaty_Organization]] 
 

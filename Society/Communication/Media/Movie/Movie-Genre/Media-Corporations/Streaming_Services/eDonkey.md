@@ -18,8 +18,8 @@ dv_has_:
     tr: Ed2k
     uk: EDonkey2000
     zh: EDonkey网络
-    zh-hans: eDonkey网络
-    zh-hant: eDonkey网络
+    zh_hans: eDonkey网络
+    zh_hant: eDonkey网络
 aliases:
 - Ed2k
 - eDonkey

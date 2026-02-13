@@ -142,7 +142,7 @@ dv_has_:
     bar: Jane Fonda
     bcl: Jane Fonda
     be: Джэйн Фонда
-    be-tarask: Джэйн Фонда
+    be_tarask: Джэйн Фонда
     bg: Джейн Фонда
     bi: Jane Fonda
     bm: Jane Fonda
@@ -157,11 +157,11 @@ dv_has_:
     da: Jane Fonda
     de: Jane Fonda
     de-at: Jane Fonda
-    de-ch: Jane Fonda
+    de_ch: Jane Fonda
     el: Τζέιν Φόντα
     en: Jane Fonda
-    en-ca: Jane Fonda
-    en-gb: Jane Fonda
+    en_ca: Jane Fonda
+    en_gb: Jane Fonda
     eo: Jane Fonda
     es: Jane Fonda
     et: Jane Fonda
@@ -216,7 +216,7 @@ dv_has_:
     nap: Jane Fonda
     nb: Jane Fonda
     nds: Jane Fonda
-    nds-nl: Jane Fonda
+    nds_nl: Jane Fonda
     nl: Jane Fonda
     nn: Jane Fonda
     nrm: Jane Fonda
@@ -229,7 +229,7 @@ dv_has_:
     pnb: جین فونڈا
     prg: Jane Fonda
     pt: Jane Fonda
-    pt-br: Jane Fonda
+    pt_br: Jane Fonda
     qu: Jane Fonda
     rgn: Jane Fonda
     rm: Jane Fonda
@@ -244,8 +244,8 @@ dv_has_:
     sl: Jane Fonda
     sq: Jane Fonda
     sr: Џејн Фонда
-    sr-ec: Џејн Фонда
-    sr-el: Jane Fonda
+    sr_ec: Џејн Фонда
+    sr_el: Jane Fonda
     sv: Jane Fonda
     sw: Jane Fonda
     ta: ஜேன் ஃபோண்டா
@@ -271,11 +271,11 @@ dv_has_:
     yo: Jane Fonda
     yue: 珍芳達
     zh: 珍·芳達
-    zh-cn: 简·方达
-    zh-hans: 简·方达
-    zh-hant: 珍·芳達
+    zh_cn: 简·方达
+    zh_hans: 简·方达
+    zh_hant: 珍·芳達
     zh-my: 珍·芳达
-    zh-sg: 珍·芳达
+    zh_sg: 珍·芳达
     zu: Jane Fonda
 ---
 # [[Jane_Fonda]] 

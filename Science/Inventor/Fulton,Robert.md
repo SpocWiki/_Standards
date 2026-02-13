@@ -91,7 +91,7 @@ dv_has_:
     ast: Robert Fulton
     az: Robert Fulton
     be: Роберт Фултан
-    be-tarask: Робэрт Фултан
+    be_tarask: Робэрт Фултан
     bg: Роберт Фултон
     br: Robert Fulton
     ca: Robert Fulton
@@ -99,11 +99,11 @@ dv_has_:
     cy: Robert Fulton
     da: Robert Fulton
     de: Robert Fulton
-    de-ch: Robert Fulton
+    de_ch: Robert Fulton
     el: Ρόμπερτ Φούλτον
     en: Robert Fulton
-    en-ca: Robert Fulton
-    en-gb: Robert Fulton
+    en_ca: Robert Fulton
+    en_gb: Robert Fulton
     en-us: Robert Fulton
     eo: Robert Fulton
     es: Robert Fulton
@@ -138,7 +138,7 @@ dv_has_:
     pap: Robert Fulton
     pl: Robert Fulton
     pt: Robert Fulton
-    pt-br: Robert Fulton
+    pt_br: Robert Fulton
     ro: Robert Fulton
     ru: Роберт Фултон
     sgs: Roberts Fultuons
@@ -146,8 +146,8 @@ dv_has_:
     sl: Robert Fulton
     sq: Robert Fulton
     sr: Роберт Фултон
-    sr-ec: Роберт Фултон
-    sr-el: Robert Fulton
+    sr_ec: Роберт Фултон
+    sr_el: Robert Fulton
     sv: Robert Fulton
     sw: Robert Fulton
     ta: ராபர்ட் ஃபுல்டன்
@@ -159,12 +159,12 @@ dv_has_:
     wuu: 罗伯特·富尔顿
     yue: 羅伯特·富爾頓
     zh: 罗伯特·富尔顿
-    zh-cn: 罗伯特·富尔顿
-    zh-hans: 罗伯特·富尔顿
-    zh-hant: 羅伯特·富爾頓
-    zh-hk: 羅伯特·富爾頓
-    zh-sg: 罗伯特·富尔顿
-    zh-tw: 羅伯特·富爾頓
+    zh_cn: 罗伯特·富尔顿
+    zh_hans: 罗伯特·富尔顿
+    zh_hant: 羅伯特·富爾頓
+    zh_hk: 羅伯特·富爾頓
+    zh_sg: 罗伯特·富尔顿
+    zh_tw: 羅伯特·富爾頓
 ---
 # [[Fulton,Robert]] 
 

@@ -31,13 +31,13 @@ dv_has_:
   name_:
     ar: ذا جون شو
     ast: Goon Show
-    be-tarask: The Goon Show
+    be_tarask: The Goon Show
     ca: The Goon Show
     cs: The Goon Show
     de: Goon Show
     el: The Goon Show
     en: The Goon Show
-    en-gb: The Goon Show
+    en_gb: The Goon Show
     es: The Goon Show
     eu: The Goon Show
     fa: نمایش احمقها

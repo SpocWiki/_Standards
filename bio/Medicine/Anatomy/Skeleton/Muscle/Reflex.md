@@ -83,7 +83,7 @@ dv_has_:
     az: Refleks
     azb: رفلکس
     be: рэфлекс
-    be-tarask: рэфлекс
+    be_tarask: рэфлекс
     bew: Kejat
     bg: Рефлекс
     bn: প্রতিবর্তী ক্রিয়া
@@ -115,11 +115,11 @@ dv_has_:
     ka: რეფლექსები
     kaa: Refleksler
     kk: Рефлекс
-    kk-arab: رەفلەكس
+    kk_arab: رەفلەكس
     kk-cn: رەفلەكس
-    kk-cyrl: Рефлекс
+    kk_cyrl: Рефлекс
     kk-kz: Рефлекс
-    kk-latn: Refleks
+    kk_latn: Refleks
     kk-tr: Refleks
     ko: 반사
     ku: refleks
@@ -152,12 +152,12 @@ dv_has_:
     wuu: 反射 (生理学)
     yue: 反射動作
     zh: 反射
-    zh-cn: 反射
-    zh-hans: 反射
-    zh-hant: 反射
-    zh-hk: 反射
-    zh-sg: 反射
-    zh-tw: 反射
+    zh_cn: 反射
+    zh_hans: 反射
+    zh_hant: 反射
+    zh_hk: 反射
+    zh_sg: 反射
+    zh_tw: 反射
 ---
 # [[Reflex]] 
 

@@ -25,7 +25,7 @@ dv_has_:
     nl: lounge
     pl: muzyka salonowa
     pt: lounge music
-    pt-br: lounge music
+    pt_br: lounge music
     ru: лаунж
     sl: lounge glasba
     sv: loungemusik
@@ -34,10 +34,10 @@ dv_has_:
     uk: Лаунж
     vi: Nhạc phòng chờ
     zh: 沙發音樂
-    zh-cn: 休息室音乐
-    zh-hans: 休息室音乐
-    zh-hant: 休息室音樂
-    zh-hk: 酒廊音樂
+    zh_cn: 休息室音乐
+    zh_hans: 休息室音乐
+    zh_hant: 休息室音樂
+    zh_hk: 酒廊音樂
 aliases:
 - ceol tolglann
 - kamarimusiikki

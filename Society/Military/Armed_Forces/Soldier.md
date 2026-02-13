@@ -193,7 +193,7 @@ dv_has_:
     ba: Һалдат
     bbc: Soridadu
     be: салдат
-    be-tarask: салдат
+    be_tarask: салдат
     bg: войник
     bn: সৈনিক
     bo: དམག་མི།
@@ -207,7 +207,7 @@ dv_has_:
     chy: nótȧxéve'ho'e
     ckb: سەرباز
     crh: asker
-    crh-latn: asker
+    crh_latn: asker
     cs: voják
     csb: żôłnérz
     cu: воинъ
@@ -215,12 +215,12 @@ dv_has_:
     da: soldat
     dag: sooja
     de: Soldat
-    de-ch: Soldat
+    de_ch: Soldat
     diq: Esker
     el: στρατιώτης
     en: soldier
-    en-ca: Soldier
-    en-gb: soldier
+    en_ca: Soldier
+    en_gb: soldier
     eo: soldato
     es: soldado
     et: sõdur
@@ -262,7 +262,7 @@ dv_has_:
     ko: 병사
     krj: soldado
     ku: leşker
-    ku-latn: leşker
+    ku_latn: leşker
     kw: souder
     ky: аскер
     la: Miles
@@ -284,7 +284,7 @@ dv_has_:
     mn: Цэрэг
     mr: सैनिक
     ms: askar
-    ms-arab: عسکر
+    ms_arab: عسکر
     mt: suldat
     my: စစ်သား
     myv: ушмодей
@@ -302,7 +302,7 @@ dv_has_:
     pl: żołnierz
     pnt: στρατέτες
     pt: soldado
-    pt-br: soldado
+    pt_br: soldado
     qu: Awqaq
     rmf: dekakiero
     rn: Umusirikare
@@ -343,14 +343,14 @@ dv_has_:
     yue: 士兵
     za: bouxbing
     zh: 士兵
-    zh-cn: 士兵
-    zh-hans: 士兵
-    zh-hant: 士兵
-    zh-hk: 士兵
-    zh-mo: 士兵
+    zh_cn: 士兵
+    zh_hans: 士兵
+    zh_hant: 士兵
+    zh_hk: 士兵
+    zh_mo: 士兵
     zh-my: 士兵
-    zh-sg: 士兵
-    zh-tw: 士兵
+    zh_sg: 士兵
+    zh_tw: 士兵
 ---
 # [[Soldier]] 
 

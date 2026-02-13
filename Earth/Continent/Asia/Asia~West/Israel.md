@@ -4,7 +4,7 @@ dv_has_:
     ab: Ауриатәыла
     ace: Israel
     ady: Исраил
-    aeb-arab: إسرائيل
+    aeb_arab: إسرائيل
     af: Israel
     am: እስራኤል
     ami: Israel
@@ -29,7 +29,7 @@ dv_has_:
     bbc: ᯤᯘ᯲ᯒᯀᯩᯞ᯲
     bcl: Israel
     be: Ізраіль
-    be-tarask: Ізраіль
+    be_tarask: Ізраіль
     bew: Israèl
     bg: Израел
     bgn: اسرائیل
@@ -46,7 +46,7 @@ dv_has_:
     btm: ᯤᯘ᯲ᯒᯀᯩᯞ᯲
     bxr: Израиль
     ca: Israel
-    cbk-zam: Israel
+    cbk_zam: Israel
     cdo: Ī-sáik-liĕk
     ce: Исраил
     ceb: Israel
@@ -55,7 +55,7 @@ dv_has_:
     ckb: ئیسرائیل
     co: Israele
     crh: İsrail
-    crh-latn: İsrail
+    crh_latn: İsrail
     cs: Izrael
     csb: Izrael
     cu: Їꙁдраил҄ь
@@ -65,7 +65,7 @@ dv_has_:
     dag: Israel
     de: Israel
     de-at: Israel
-    de-ch: Israel
+    de_ch: Israel
     diq: İsrail
     dsb: Israel
     dtp: Israel
@@ -98,7 +98,7 @@ dv_has_:
     gn: Israel
     gom: इस्राएल
     gom-deva: इस्राएल
-    gom-latn: Israel
+    gom_latn: Israel
     gor: Isra'el
     got: "\U00010339\U00010343\U00010342\U00010330\U00010334\U0001033B"
     gpe: Israel
@@ -175,7 +175,7 @@ dv_has_:
     mad: Israel
     mag: इजराइल
     mai: इजरायल
-    map-bms: Israel
+    map_bms: Israel
     mdf: Израиль
     mg: Israely
     mhr: Израиль
@@ -189,7 +189,7 @@ dv_has_:
     mos: Israel
     mr: इस्रायल
     ms: Israel
-    ms-arab: اسرائيل
+    ms_arab: اسرائيل
     mt: Iżrael
     mwl: Eisrael
     my: အစ္စရေးနိုင်ငံ
@@ -201,7 +201,7 @@ dv_has_:
     nap: Israele
     nb: Israel
     nds: Israel
-    nds-nl: Israël
+    nds_nl: Israël
     ne: इजरायल
     new: इजरायल
     nia: Israel
@@ -230,7 +230,7 @@ dv_has_:
     pnt: Ισραήλ
     ps: اسراييل
     pt: Israel
-    pt-br: Israel
+    pt_br: Israel
     pwn: Israil
     qu: Israyil
     rmy: Israel
@@ -264,8 +264,8 @@ dv_has_:
     so: Israaiil
     sq: Izraeli
     sr: Израел
-    sr-ec: Израел
-    sr-el: Izrael
+    sr_ec: Израел
+    sr_el: Izrael
     srn: Israel
     ss: Ka-Israyeli
     stq: Israel
@@ -291,7 +291,7 @@ dv_has_:
     tr: İsrail
     trv: Israel
     tt: Исраил
-    tt-cyrl: Исраил
+    tt_cyrl: Исраил
     tum: Israel
     tw: Israel
     udm: Израиль
@@ -318,14 +318,14 @@ dv_has_:
     zea: Israël
     zgh: ⵉⵙⵔⴰⵢⵉⵍ
     zh: 以色列
-    zh-cn: 以色列
-    zh-hans: 以色列
-    zh-hant: 以色列
-    zh-hk: 以色列
-    zh-mo: 以色列
+    zh_cn: 以色列
+    zh_hans: 以色列
+    zh_hant: 以色列
+    zh_hk: 以色列
+    zh_mo: 以色列
     zh-my: 以色列
-    zh-sg: 以色列
-    zh-tw: 以色列
+    zh_sg: 以色列
+    zh_tw: 以色列
     zu: Isreyili
   time_:
     started: 1948-05-14T00:00:00.000+02:00

@@ -196,7 +196,7 @@ dv_has_:
     bar: Galaxie
     bcl: galaksiya
     be: галактыка
-    be-tarask: галяктыка
+    be_tarask: галяктыка
     bew: jula-juli
     bg: галактика
     bho: गैलेक्सी
@@ -217,13 +217,13 @@ dv_has_:
     cy: galaeth
     da: galakse
     de: Galaxie
-    de-ch: Galaxie
+    de_ch: Galaxie
     diq: galaksi
     el: γαλαξίας
     eml: galâsia
     en: galaxy
-    en-ca: galaxy
-    en-gb: galaxy
+    en_ca: galaxy
+    en_gb: galaxy
     eo: galaksio
     es: galaxia
     et: galaktika
@@ -298,7 +298,7 @@ dv_has_:
     mn: галактик
     mr: दीर्घिका
     ms: galaksi
-    ms-arab: ݢالکسي
+    ms_arab: ݢالکسي
     mwl: galáxia
     my: ဂယ်လက်ဆီ
     mzn: کهکشون
@@ -323,7 +323,7 @@ dv_has_:
     pnb: کہکشاں
     ps: کهکشان
     pt: galáxia
-    pt-br: galáxia
+    pt_br: galáxia
     qu: ñuñu warani
     rm: galaxia
     rmy: samodor
@@ -346,8 +346,8 @@ dv_has_:
     sn: muzvcazi
     sq: galaktika
     sr: галаксија
-    sr-ec: галаксија
-    sr-el: galaksija
+    sr_ec: галаксија
+    sr_el: galaksija
     su: galaksi
     sv: galax
     sw: galaksi
@@ -377,14 +377,14 @@ dv_has_:
     yi: גאלאקסיע
     yue: 星系
     zh: 星系
-    zh-cn: 星系
-    zh-hans: 星系
-    zh-hant: 星系
-    zh-hk: 星系
-    zh-mo: 星系
+    zh_cn: 星系
+    zh_hans: 星系
+    zh_hant: 星系
+    zh_hk: 星系
+    zh_mo: 星系
     zh-my: 星系
-    zh-sg: 星系
-    zh-tw: 星系
+    zh_sg: 星系
+    zh_tw: 星系
     zu: umthalakazi
 ---
 ## #has_/text_of_/abstract 

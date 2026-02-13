@@ -67,7 +67,7 @@ dv_has_:
     ace: Arab Saudi
     acm: السعودية
     ady: Сауд Арабие
-    aeb-arab: المملكة العربية السعودية
+    aeb_arab: المملكة العربية السعودية
     af: Saoedi-Arabië
     am: ሳዑዲ አረቢያ
     ami: Saudi arabia
@@ -91,7 +91,7 @@ dv_has_:
     bar: Saudi Arabien
     bcl: Arabya Saudita
     be: Саудаўская Аравія
-    be-tarask: Саудаўская Арабія
+    be_tarask: Саудаўская Арабія
     bew: Arab Saudi
     bg: Саудитска Арабия
     bgn: ئه ربیستان
@@ -109,7 +109,7 @@ dv_has_:
     bug: ᨕᨑ ᨔᨕᨘᨉᨗ
     bxr: Саудын Араб
     ca: Aràbia Saudita
-    cbk-zam: Arabia Saudita
+    cbk_zam: Arabia Saudita
     cdo: Saudi Ā-lá-báik
     ce: СаӀудийн Ӏаьрбийчоь
     ceb: Arabyang Saudita
@@ -117,7 +117,7 @@ dv_has_:
     ckb: عەرەبستانی سعوودی
     co: Arabia Saudita
     crh: Saudiy Arabistan
-    crh-latn: Saudiy Arabistan
+    crh_latn: Saudiy Arabistan
     cs: Saúdská Arábie
     csb: Saudëjskô Arabijô
     cv: Сауд Аравийĕ
@@ -126,7 +126,7 @@ dv_has_:
     dag: Saudi Arabia
     de: Saudi-Arabien
     de-at: Saudi-Arabien
-    de-ch: Saudi-Arabien
+    de_ch: Saudi-Arabien
     diq: Erebıstano Seudi
     dsb: Saudi-Arabska
     dtp: Arab Saudi
@@ -135,8 +135,8 @@ dv_has_:
     dz: སའུ་དི་ཨེ་ར་སྦི་ཡ་
     el: Σαουδική Αραβία
     en: Saudi Arabia
-    en-ca: Saudi Arabia
-    en-gb: Saudi Arabia
+    en_ca: Saudi Arabia
+    en_gb: Saudi Arabia
     en-us: Saudi Arabia
     eo: Sauda Arabio
     es: Arabia Saudí
@@ -161,7 +161,7 @@ dv_has_:
     gn: Aravia Saudíta
     gom: सौदी अरेबिया
     gom-deva: सौदी अरेबिया
-    gom-latn: Saudi Arabia
+    gom_latn: Saudi Arabia
     gor: Arab Saudi
     gpe: Saudi Arabia
     gsw: Saudi-Arabie
@@ -234,7 +234,7 @@ dv_has_:
     mad: Arab Saudi
     mag: साउदी अरब
     mai: साउदी अरब
-    map-bms: Arab Saudi
+    map_bms: Arab Saudi
     mdf: Саудонь Арабия
     mg: Arabia Saodita
     mhr: Сауд Аравий
@@ -247,7 +247,7 @@ dv_has_:
     mos: Saudi Arabia
     mr: सौदी अरेबिया
     ms: Arab Saudi
-    ms-arab: عرب سعودي
+    ms_arab: عرب سعودي
     mt: Arabja Sawdija
     mwl: Arábia Saudita
     my: ဆော်ဒီအာရေဗျနိုင်ငံ
@@ -283,7 +283,7 @@ dv_has_:
     pnb: سعودی عرب
     ps: سعودي عربستان
     pt: Arábia Saudita
-    pt-br: Arábia Saudita
+    pt_br: Arábia Saudita
     qu: Sawud Arabya
     rm: Arabia Saudita
     rmy: Saudi Arabia
@@ -315,8 +315,8 @@ dv_has_:
     so: Sacuudi Carabiya
     sq: Arabia Saudite
     sr: Саудијска Арабија
-    sr-ec: Саудијска Арабија
-    sr-el: Saudijska Arabija
+    sr_ec: Саудијска Арабија
+    sr_el: Saudijska Arabija
     ss: I-Arabhiya
     stq: Saudi-Arabien
     su: Saudi Arabia
@@ -330,7 +330,7 @@ dv_has_:
     te: సౌదీ అరేబియా
     tet: Arábia Saudita
     tg: Арабистони Саудӣ
-    tg-latn: Arabistoni Saudī
+    tg_latn: Arabistoni Saudī
     th: ประเทศซาอุดีอาระเบีย
     ti: ሰዑዲ ዓረብ
     tk: Saud Arabystany
@@ -342,8 +342,8 @@ dv_has_:
     tr: Suudi Arabistan
     trv: Saudi Arabia
     tt: Согуд Гарәбстаны
-    tt-cyrl: Согуд Гарәбстаны
-    tt-latn: Soğud Ğäräbstanı
+    tt_cyrl: Согуд Гарәбстаны
+    tt_latn: Soğud Ğäräbstanı
     tum: Saudi Arabia
     tw: Saudi Arabia
     udm: Сауд Аравия
@@ -370,14 +370,14 @@ dv_has_:
     zea: Saoedi-Araobië
     zgh: ⵜⴰⴳⵍⴷⵉⵜ ⵜⴰⵙⴰⵄⵓⴷⵉⵜ
     zh: 沙特阿拉伯
-    zh-cn: 沙特阿拉伯
-    zh-hans: 沙特阿拉伯
-    zh-hant: 沙烏地阿拉伯
-    zh-hk: 沙地阿拉伯
-    zh-mo: 沙地阿拉伯
+    zh_cn: 沙特阿拉伯
+    zh_hans: 沙特阿拉伯
+    zh_hant: 沙烏地阿拉伯
+    zh_hk: 沙地阿拉伯
+    zh_mo: 沙地阿拉伯
     zh-my: 沙特阿拉伯
-    zh-sg: 沙特阿拉伯
-    zh-tw: 沙烏地阿拉伯
+    zh_sg: 沙特阿拉伯
+    zh_tw: 沙烏地阿拉伯
     zu: i-Saudi Arabia
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Saudi_Arabia

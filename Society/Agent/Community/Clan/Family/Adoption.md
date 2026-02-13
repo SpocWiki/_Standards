@@ -113,7 +113,7 @@ dv_has_:
     arz: تبني
     ast: Adopción
     be: усынаўленне
-    be-tarask: усынаўленьне
+    be_tarask: усынаўленьне
     bg: Осиновяване
     bn: দত্তক
     bo: གསོ་ཕྲུག
@@ -146,11 +146,11 @@ dv_has_:
     it: adozione
     ja: 養子縁組
     kk: Бала асырап алу
-    kk-arab: بالا اسىراپ الۋ
+    kk_arab: بالا اسىراپ الۋ
     kk-cn: بالا اسىراپ الۋ
-    kk-cyrl: Бала асырап алу
+    kk_cyrl: Бала асырап алу
     kk-kz: Бала асырап алу
-    kk-latn: Bala asırap alw
+    kk_latn: Bala asırap alw
     kk-tr: Bala asırap alw
     kn: ದತ್ತಸ್ವೀಕಾರ
     ko: 양자
@@ -179,8 +179,8 @@ dv_has_:
     sl: posvojitev
     sq: Birësimi
     sr: усвојење
-    sr-ec: усвојење
-    sr-el: usvojenje
+    sr_ec: усвојење
+    sr_el: usvojenje
     sv: adoption
     ta: தத்தெடுத்தல்
     te: దత్తత
@@ -195,12 +195,12 @@ dv_has_:
     wuu: 收养
     yue: 領養
     zh: 收養
-    zh-cn: 收养
-    zh-hans: 收养
-    zh-hant: 收養
-    zh-hk: 收養
-    zh-sg: 收养
-    zh-tw: 收養
+    zh_cn: 收养
+    zh_hans: 收养
+    zh_hant: 收養
+    zh_hk: 收養
+    zh_sg: 收养
+    zh_tw: 收養
 ---
 # [[Adoption]] 
 

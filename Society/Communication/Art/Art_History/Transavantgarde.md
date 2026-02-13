@@ -28,7 +28,7 @@ dv_has_:
     ar: ترانس أفانت جارد
     ast: Transvanguardia
     be: Трансавангард
-    be-tarask: трансавангард
+    be_tarask: трансавангард
     bg: Трансавангард
     ca: transavantguarda
     cs: Transavantgarda

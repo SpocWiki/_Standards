@@ -94,7 +94,7 @@ dv_has_:
     az: permutasiya
     ba: алмаштырма
     be: перастаноўка
-    be-tarask: перастаўка
+    be_tarask: перастаўка
     bg: Пермутация
     bn: বিন্যাস
     ca: permutació
@@ -124,11 +124,11 @@ dv_has_:
     it: permutazione
     ja: 置換
     kk: алмастыру
-    kk-arab: الماستىرۋ
+    kk_arab: الماستىرۋ
     kk-cn: الماستىرۋ
-    kk-cyrl: Алмастыру
+    kk_cyrl: Алмастыру
     kk-kz: Алмастыру
-    kk-latn: Almastırw
+    kk_latn: Almastırw
     kk-tr: Almastırw
     kn: ಕ್ರಮಪಲ್ಲಟನೆ
     ko: 순열
@@ -142,7 +142,7 @@ dv_has_:
     nn: permutasjon
     pl: permutacja
     pt: permutação
-    pt-br: permutação
+    pt_br: permutação
     ro: permutare
     ru: перестановка
     scn: Pirmutazzioni
@@ -151,8 +151,8 @@ dv_has_:
     sl: permutacija
     sq: Permutacioni
     sr: Пермутација
-    sr-ec: Пермутација
-    sr-el: Permutacija
+    sr_ec: Пермутација
+    sr_el: Permutacija
     sv: Permutation
     ta: வரிசைமாற்றம்
     te: ప్రస్తారణ
@@ -165,12 +165,12 @@ dv_has_:
     wuu: 排列
     yue: 執位
     zh: 置換
-    zh-cn: 置换
-    zh-hans: 置换
-    zh-hant: 置換
-    zh-hk: 置換
-    zh-sg: 置换
-    zh-tw: 置換
+    zh_cn: 置换
+    zh_hans: 置换
+    zh_hant: 置換
+    zh_hk: 置換
+    zh_sg: 置换
+    zh_tw: 置換
 ---
 # [[Permutation]] 
 

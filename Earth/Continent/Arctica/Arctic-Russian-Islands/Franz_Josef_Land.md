@@ -28,7 +28,7 @@ dv_has_:
     az: Frans-İosif Torpağı
     ba: Франц-Иосиф Ере
     be: Зямля Франца-Іосіфа
-    be-tarask: Зямля Франца-Іосіфа
+    be_tarask: Зямля Франца-Іосіфа
     bg: Земя на Франц Йосиф
     br: Douar Franz-Josef
     ca: Terra de Francesc Josep
@@ -38,11 +38,11 @@ dv_has_:
     cv: Франц-Иосиф Çĕрĕ
     da: Franz Josefs Land
     de: Franz-Josef-Land
-    de-ch: Franz-Josef-Land
+    de_ch: Franz-Josef-Land
     el: Γη του Φραγκίσκου Ιωσήφ
     en: Franz Josef Land
-    en-ca: Franz Josef Land
-    en-gb: Franz Josef Land
+    en_ca: Franz Josef Land
+    en_gb: Franz Josef Land
     eo: Lando de Francisko Jozefo
     es: Tierra de Francisco José
     et: Franz Josephi maa
@@ -82,15 +82,15 @@ dv_has_:
     os: Франц-Иосифы зæхх
     pl: Ziemia Franciszka Józefa
     pt: Terra de Francisco José
-    pt-br: Terra de Francisco José
+    pt_br: Terra de Francisco José
     ro: Arhipelagul Franz Josef
     ru: Земля Франца-Иосифа
     sh: Zemlja Franje Josifa
     sk: Zem Františka Jozefa
     sl: Dežela Franca Jožefa
     sr: Земља Фрање Јосифа
-    sr-ec: Земља Франца Јозефа
-    sr-el: Zemlja Franca Jozefa
+    sr_ec: Земља Франца Јозефа
+    sr_el: Zemlja Franca Jozefa
     sv: Frans Josefs land
     sw: Funguvisiwa ya Franz Josef
     tg: Замини Франс Иосиф
@@ -105,12 +105,12 @@ dv_has_:
     wuu: 法兰士约瑟夫地群岛
     yue: 法蘭茨約瑟夫地群島
     zh: 法兰士约瑟夫地群岛
-    zh-cn: 法兰士约瑟夫地群岛
-    zh-hans: 法兰士约瑟夫地群岛
-    zh-hant: 法蘭士約瑟夫地群島
-    zh-hk: 法蘭士約瑟夫地群島
-    zh-sg: 法兰士约瑟夫地群岛
-    zh-tw: 法蘭士約瑟夫地群島
+    zh_cn: 法兰士约瑟夫地群岛
+    zh_hans: 法兰士约瑟夫地群岛
+    zh_hant: 法蘭士約瑟夫地群島
+    zh_hk: 法蘭士約瑟夫地群島
+    zh_sg: 法兰士约瑟夫地群岛
+    zh_tw: 法蘭士約瑟夫地群島
 aliases:
 - Arhipelagul Franz Josef
 - Daratan Franz Josef

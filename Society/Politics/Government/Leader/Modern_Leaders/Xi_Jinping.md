@@ -199,7 +199,7 @@ dv_has_:
     az: Si Tsinpin
     ba: Си Дзиньпин
     be: Сі Цзіньпін
-    be-tarask: Сі Цзіньпін
+    be_tarask: Сі Цзіньпін
     bg: Си Дзинпин
     bho: शी जिनपिंग
     bn: শি চিনফিং
@@ -208,7 +208,7 @@ dv_has_:
     cdo: Sĭk Gê̤ṳng-bìng
     ckb: شی ژنپنگ
     crh: Şi Cinpiñ
-    crh-latn: Si Cinpiñ
+    crh_latn: Si Cinpiñ
     cs: Si Ťin-pching
     dty: सि जिनपिङ
     el: Σι Τζινπίνγκ
@@ -251,7 +251,7 @@ dv_has_:
     pnb: شی جن پنگ
     ps: شي جين پينګ
     pt: Xi Jinping
-    pt-br: Xi Jinping
+    pt_br: Xi Jinping
     ru: Си Цзиньпин
     sa: शी जिन्पिङ्
     sat: ᱥᱤ ᱡᱤᱱᱯᱤᱝ
@@ -262,14 +262,14 @@ dv_has_:
     so: Xi jinping
     sq: Xi Xhinping
     sr: Си Ђинпинг
-    sr-ec: Си Ђинпинг
-    sr-el: Si Đinping
+    sr_ec: Си Ђинпинг
+    sr_el: Si Đinping
     su: ᮟᮤ ᮏᮤᮔ᮪ ᮕᮤᮀ
     ta: சீ சின்பிங்
     tdd: ᥔᥤᥲ ᥓᥤᥢᥱ ᥚᥤᥢᥳ
     te: జీ జిన్పింగ్
     tg: Сӣ Ҷинпин
-    tg-cyrl: Сӣ Ҷинпин
+    tg_cyrl: Сӣ Ҷинпин
     th: สี จิ้นผิง
     tk: Si Szinpin
     tok: jan Si Sinpin
@@ -284,14 +284,14 @@ dv_has_:
     yue: 習近平
     za: Siz Ginbingz
     zh: 习近平
-    zh-cn: 习近平
-    zh-hans: 习近平
-    zh-hant: 習近平
-    zh-hk: 習近平
-    zh-mo: 習近平
+    zh_cn: 习近平
+    zh_hans: 习近平
+    zh_hant: 習近平
+    zh_hk: 習近平
+    zh_mo: 習近平
     zh-my: 习近平
-    zh-sg: 习近平
-    zh-tw: 習近平
+    zh_sg: 习近平
+    zh_tw: 習近平
 ---
 # [[Xi_Jinping]] 
 

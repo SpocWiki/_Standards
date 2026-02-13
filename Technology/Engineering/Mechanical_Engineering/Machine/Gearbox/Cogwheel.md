@@ -124,7 +124,7 @@ dv_has_:
     az: Dişli çarx
     azb: دیشلی چرخ
     be: зубчастае кола
-    be-tarask: зубчастае кола
+    be_tarask: зубчастае кола
     bg: Зъбно колело
     bn: গিয়ার
     bs: Zupčanik
@@ -176,7 +176,7 @@ dv_has_:
     pa: ਗਰਾਰੀ
     pl: koło zębate
     pt: engrenagem
-    pt-br: engrenagem
+    pt_br: engrenagem
     ro: roată dințată
     ru: зубчатое колесо
     sh: Zupčanik
@@ -184,8 +184,8 @@ dv_has_:
     sl: zobnik
     so: Marsho
     sr: зупчаник
-    sr-ec: зупчаник
-    sr-el: zupčanik
+    sr_ec: зупчаник
+    sr_el: zupčanik
     sv: kugghjul
     ta: பற்சில்லு
     th: เฟือง

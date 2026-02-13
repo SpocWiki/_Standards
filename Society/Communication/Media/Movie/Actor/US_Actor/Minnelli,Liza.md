@@ -127,7 +127,7 @@ dv_has_:
     azb: لایزا مینلی
     bar: Liza Minnelli
     be: Лайза Мінелі
-    be-tarask: Лайза Мінэльлі
+    be_tarask: Лайза Мінэльлі
     bg: Лайза Минели
     bm: Liza Minnelli
     bn: লাইজা মিনেলি
@@ -141,11 +141,11 @@ dv_has_:
     da: Liza Minnelli
     de: Liza Minnelli
     de-at: Liza Minnelli
-    de-ch: Liza Minnelli
+    de_ch: Liza Minnelli
     el: Λάιζα Μινέλι
     en: Liza Minnelli
-    en-ca: Liza Minnelli
-    en-gb: Liza Minnelli
+    en_ca: Liza Minnelli
+    en_gb: Liza Minnelli
     eo: Liza Minnelli
     es: Liza Minnelli
     et: Liza Minnelli
@@ -195,7 +195,7 @@ dv_has_:
     nap: Liza Minnelli
     nb: Liza Minnelli
     nds: Liza Minnelli
-    nds-nl: Liza Minnelli
+    nds_nl: Liza Minnelli
     nl: Liza Minnelli
     nn: Liza Minnelli
     nrm: Liza Minnelli
@@ -207,7 +207,7 @@ dv_has_:
     pms: Liza Minnelli
     prg: Liza Minnelli
     pt: Liza Minnelli
-    pt-br: Liza Minnelli
+    pt_br: Liza Minnelli
     qu: Liza Minnelli
     rgn: Liza Minnelli
     rm: Liza Minnelli
@@ -221,8 +221,8 @@ dv_has_:
     sl: Liza Minnelli
     sq: Liza Minnelli
     sr: Лајза Минели
-    sr-ec: Лајза Минели
-    sr-el: Liza Minnelli
+    sr_ec: Лајза Минели
+    sr_el: Liza Minnelli
     sv: Liza Minnelli
     sw: Liza Minnelli
     szl: Liza Minelli
@@ -245,8 +245,8 @@ dv_has_:
     yo: Liza Minnelli
     yue: 莉沙明里妮
     zh: 麗莎·明妮莉
-    zh-hant: 麗莎·明妮莉
-    zh-tw: 麗莎·明妮莉
+    zh_hant: 麗莎·明妮莉
+    zh_tw: 麗莎·明妮莉
     zu: Liza Minnelli
 ---
 # [[Minnelli,Liza]] 

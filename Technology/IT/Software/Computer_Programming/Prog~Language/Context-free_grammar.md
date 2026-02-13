@@ -32,18 +32,18 @@ dv_has_:
     sk: bezkontextová gramatika
     sl: kontekstno neodvisna slovnica
     sr: Контекстно слободна граматика
-    sr-ec: Контекстно слободна граматика
-    sr-el: Kontekstno slobodna gramatika
+    sr_ec: Контекстно слободна граматика
+    sr_el: Kontekstno slobodna gramatika
     sv: kontextfri grammatik
     ta: இடம் சாரா இலக்கணம்
     uk: контекстно-вільна граматика
     zh: 上下文无关文法
-    zh-cn: 上下文无关文法
-    zh-hans: 上下文无关文法
-    zh-hant: 上下文無關文法
-    zh-hk: 上下文無關文法
-    zh-sg: 上下文无关文法
-    zh-tw: 上下文無關文法
+    zh_cn: 上下文无关文法
+    zh_hans: 上下文无关文法
+    zh_hant: 上下文無關文法
+    zh_hk: 上下文無關文法
+    zh_sg: 上下文无关文法
+    zh_tw: 上下文無關文法
 aliases:
 - bezkontextová gramatika
 - context-free grammar

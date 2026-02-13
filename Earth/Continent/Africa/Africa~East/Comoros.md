@@ -425,7 +425,7 @@ Languages:
 dv_has_:
   name_:
     ab: Комортәи Адгьылбжьахақәа
-    aeb-arab: جزر القمر
+    aeb_arab: جزر القمر
     af: Comore-eilande
     am: ኮሞሮስ
     an: Comoras
@@ -444,7 +444,7 @@ dv_has_:
     bar: Komorn
     bcl: Komoros
     be: Каморскія Астравы
-    be-tarask: Каморскія астравы
+    be_tarask: Каморскія астравы
     bew: Komoro
     bg: Коморски острови
     bgn: کوموروس
@@ -459,7 +459,7 @@ dv_has_:
     bs: Komori
     bxr: Коморын арлууд
     ca: Comores
-    cbk-zam: Komoras
+    cbk_zam: Komoras
     cdo: Comoros
     ce: Комора Гlайреш
     ceb: Comoros
@@ -467,7 +467,7 @@ dv_has_:
     ckb: دوورگەکانی قەمەر
     co: Comori
     crh: Komorlar
-    crh-latn: Komorlar
+    crh_latn: Komorlar
     cs: Komory
     cv: Комор утравĕсем
     cy: Comoros
@@ -475,7 +475,7 @@ dv_has_:
     dag: Comoros
     de: Komoren
     de-at: Komoren
-    de-ch: Komoren
+    de_ch: Komoren
     diq: Komoroy
     dsb: Komory
     dty: कोमोरोस
@@ -483,8 +483,8 @@ dv_has_:
     ee: Comoros
     el: Κομόρες
     en: Comoros
-    en-ca: Comoros
-    en-gb: Comoros
+    en_ca: Comoros
+    en_gb: Comoros
     eo: Komoroj
     es: Comoras
     et: Komoorid
@@ -560,7 +560,7 @@ dv_has_:
     lv: Komoras
     lzh: 葛摩
     mad: Komoro
-    map-bms: Komoro
+    map_bms: Komoro
     mdf: Комортне
     mg: Komaoro
     mhr: Камор Отро-влак
@@ -581,7 +581,7 @@ dv_has_:
     nan: Comoros
     nb: Komorene
     nds: Komoren
-    nds-nl: Komoren
+    nds_nl: Komoren
     ne: कोमोरोस
     new: कोमोरोस
     nl: Comoren
@@ -604,7 +604,7 @@ dv_has_:
     pnb: اتحاد القمری
     ps: کوموروس
     pt: Comores
-    pt-br: Comores
+    pt_br: Comores
     qu: Kumurakuna
     rki: ကိုမိုရို ပြည်ထောင်စု
     rm: Comoras
@@ -637,8 +637,8 @@ dv_has_:
     so: Komoros
     sq: Komoret
     sr: Комори
-    sr-ec: Комори
-    sr-el: Komori
+    sr_ec: Комори
+    sr_el: Komori
     ss: IKhomoro
     st: Comoros
     stq: Komore
@@ -682,13 +682,13 @@ dv_has_:
     zea: Comoôr’n
     zgh: ⵜⵉⴳⵣⵉⵔⵉⵏ ⵏ ⵡⴰⵢⵢⵓⵔ
     zh: 葛摩
-    zh-cn: 科摩罗
-    zh-hans: 科摩罗
-    zh-hant: 葛摩
-    zh-hk: 科摩羅
-    zh-mo: 科摩羅
-    zh-sg: 科摩罗
-    zh-tw: 葛摩
+    zh_cn: 科摩罗
+    zh_hans: 科摩罗
+    zh_hant: 葛摩
+    zh_hk: 科摩羅
+    zh_mo: 科摩羅
+    zh_sg: 科摩罗
+    zh_tw: 葛摩
     zu: IsiKhomorosi
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Comoros

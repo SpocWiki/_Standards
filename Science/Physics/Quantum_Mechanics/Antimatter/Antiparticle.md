@@ -90,7 +90,7 @@ dv_has_:
     ast: antipartícula
     az: antizərrəcik
     be: антычасціца
-    be-tarask: антычасьцінка
+    be_tarask: антычасьцінка
     bg: античастица
     bn: প্রতিকণা
     ca: antipartícula
@@ -153,8 +153,8 @@ dv_has_:
     sk: antičastica
     sl: aantidelec
     sr: античестица
-    sr-ec: античестица
-    sr-el: antičestica
+    sr_ec: античестица
+    sr_el: antičestica
     su: antipartikel
     sv: antipartikel
     ta: எதிர்த் துகள்
@@ -170,12 +170,12 @@ dv_has_:
     wuu: 反粒子
     yue: 反粒子
     zh: 反粒子
-    zh-cn: 反粒子
-    zh-hans: 反粒子
-    zh-hant: 反粒子
-    zh-hk: 反粒子
-    zh-sg: 反粒子
-    zh-tw: 反粒子
+    zh_cn: 反粒子
+    zh_hans: 反粒子
+    zh_hant: 反粒子
+    zh_hk: 反粒子
+    zh_sg: 反粒子
+    zh_tw: 反粒子
 ---
 # [[Antiparticle]] 
 

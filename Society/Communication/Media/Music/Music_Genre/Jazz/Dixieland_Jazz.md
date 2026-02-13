@@ -31,7 +31,7 @@ dv_has_:
     ar: ديكسي لاند
     ast: Dixieland
     be: дыксіленд
-    be-tarask: дыксілэнд
+    be_tarask: дыксілэнд
     bs: Balada o Morićima
     ca: Dixieland
     cs: dixieland
@@ -39,8 +39,8 @@ dv_has_:
     de: Dixieland
     el: Ντίξιλαντ
     en: Dixieland jazz
-    en-ca: Dixieland
-    en-gb: Dixieland
+    en_ca: Dixieland
+    en_gb: Dixieland
     eo: Diksilando
     es: Dixieland
     et: Diksiländ
@@ -63,7 +63,7 @@ dv_has_:
     nn: dixieland
     pl: Dixieland
     pt: Dixieland
-    pt-br: Dixieland
+    pt_br: Dixieland
     ru: диксиленд
     sk: dixieland
     sl: Dixieland

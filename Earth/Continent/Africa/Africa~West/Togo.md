@@ -67,7 +67,7 @@ dv_has_:
     ab: Того
     ace: Togo
     ady: Того
-    aeb-arab: طوڨو
+    aeb_arab: طوڨو
     af: Togo
     am: ቶጎ
     ami: Togo
@@ -87,7 +87,7 @@ dv_has_:
     bar: Togo
     bcl: Togo
     be: Тога
-    be-tarask: Тога
+    be_tarask: Тога
     bew: Togo
     bg: Того
     bho: टोगो
@@ -101,14 +101,14 @@ dv_has_:
     bs: Togo
     bxr: Того
     ca: Togo
-    cbk-zam: Togo
+    cbk_zam: Togo
     cdo: Togo
     ce: Того
     ceb: Togo
     ckb: تۆگۆ
     co: Togoland
     crh: Togo
-    crh-latn: Togo
+    crh_latn: Togo
     cs: Togo
     cv: Того
     cy: Togo
@@ -116,7 +116,7 @@ dv_has_:
     dag: Togo
     de: Togo
     de-at: Togo
-    de-ch: Togo
+    de_ch: Togo
     dga: Togo
     diq: Togo
     dsb: Togo
@@ -125,8 +125,8 @@ dv_has_:
     ee: Togo
     el: Τόγκο
     en: Togo
-    en-ca: Togo
-    en-gb: Togo
+    en_ca: Togo
+    en_gb: Togo
     eo: Togolando
     es: Togo
     et: Togo
@@ -227,7 +227,7 @@ dv_has_:
     nan: Togo
     nb: Togo
     nds: Togo
-    nds-nl: Togo
+    nds_nl: Togo
     ne: टोगो
     new: टोगो
     nl: Togo
@@ -251,7 +251,7 @@ dv_has_:
     pnb: ٹوگو
     ps: توګو
     pt: Togo
-    pt-br: Togo
+    pt_br: Togo
     qu: Tugu
     rki: တိုဂို သမ္မတနိုင်ငံ
     rm: Togo
@@ -281,8 +281,8 @@ dv_has_:
     so: Togo
     sq: Togo
     sr: Того
-    sr-ec: Того
-    sr-el: Togo
+    sr_ec: Того
+    sr_el: Togo
     ss: IThogo
     st: Togo
     stq: Togo
@@ -329,10 +329,10 @@ dv_has_:
     zea: Toho
     zgh: ⵟⵓⴳⵓ
     zh: 多哥
-    zh-cn: 多哥
-    zh-hans: 多哥
-    zh-hant: 多哥
-    zh-tw: 多哥
+    zh_cn: 多哥
+    zh_hans: 多哥
+    zh_hant: 多哥
+    zh_tw: 多哥
     zu: ITogo
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Togo

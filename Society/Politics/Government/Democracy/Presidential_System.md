@@ -118,7 +118,7 @@ dv_has_:
     ba: президент республикаһы
     bar: Präsidentiells Regiarungssysdem
     be: Прэзідэнцкая рэспубліка
-    be-tarask: прэзыдэнцкая рэспубліка
+    be_tarask: прэзыдэнцкая рэспубліка
     bg: Президентска република
     bn: রাষ্ট্রপতি শাসিত শাসনব্যবস্থা
     ca: presidencialisme
@@ -128,13 +128,13 @@ dv_has_:
     cy: cyfundrefn arlywyddol
     da: præsidentialisme
     de: Präsidentielles Regierungssystem
-    de-ch: Präsidentielles Regierungssystem
+    de_ch: Präsidentielles Regierungssystem
     diq: sistemê serdari
     dv: ރިޔާސީ ނިޒާމު
     el: προεδρική δημοκρατία
     en: presidential system
-    en-ca: presidential system
-    en-gb: presidential system
+    en_ca: presidential system
+    en_gb: presidential system
     eo: prezidenta respubliko
     es: presidencialismo
     et: presidentaalne vabariik
@@ -188,7 +188,7 @@ dv_has_:
     pl: system prezydencki
     pnb: صدارتی نظام
     pt: presidencialismo
-    pt-br: presidencialismo
+    pt_br: presidencialismo
     ro: sistem prezidențial
     ru: президентская республика
     sd: صدارتي نظام
@@ -201,8 +201,8 @@ dv_has_:
     sms: presidentialismm
     sq: sistemi presidencial
     sr: председнички систем
-    sr-ec: председнички систем
-    sr-el: predsednički sistem
+    sr_ec: председнички систем
+    sr_el: predsednički sistem
     su: sistim présidénsial
     sv: presidentialism
     sw: serikali ya kiraisi
@@ -212,7 +212,7 @@ dv_has_:
     tl: Sistemang pampanguluhan
     tr: başkanlık sistemi
     tt: президент республикасы
-    tt-cyrl: президент җөмһүрияте
+    tt_cyrl: президент җөмһүрияте
     udm: азьмурто элькун
     uk: президентська республіка
     ur: صدارتی نظام
@@ -223,9 +223,9 @@ dv_has_:
     xmf: საპრეზიდენტო რესპუბლიკა
     yue: 總統制
     zh: 总统制
-    zh-hans: 总统制
-    zh-hant: 總統制
-    zh-tw: 總統制
+    zh_hans: 总统制
+    zh_hant: 總統制
+    zh_tw: 總統制
 ---
 # [[Presidential_System]] 
 

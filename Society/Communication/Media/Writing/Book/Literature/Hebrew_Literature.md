@@ -55,7 +55,7 @@ dv_has_:
     ar: أدب عبري
     ast: Lliteratura hebrea
     ba: Иврит телендәге әҙәбиәт
-    be-tarask: габрэйская літаратура
+    be_tarask: габрэйская літаратура
     ca: literatura hebrea
     ckb: وێژەی عیبری
     cs: Hebrejská literatura

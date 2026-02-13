@@ -116,7 +116,7 @@ dv_has_:
     az: Dəyişməyən cərəyan
     bar: Gleichstraum
     be: пастаянны ток
-    be-tarask: сталы ток
+    be_tarask: сталы ток
     bg: Постоянен ток
     bn: একমুখী বিদ্যুৎ প্রবাহ
     bs: Istosmjerna struja
@@ -183,8 +183,8 @@ dv_has_:
     sms: tääʹssräuʹnnj
     sq: Rryma e vazhduar
     sr: Једносмерна струја
-    sr-ec: Једносмерна струја
-    sr-el: Jednosmerna struja
+    sr_ec: Једносмерна струја
+    sr_el: Jednosmerna struja
     stq: Glieksponnenge
     su: Arus listrik saarah
     sv: likström
@@ -204,12 +204,12 @@ dv_has_:
     yue: 乾電
     zgh: ⴰⵎⴰⵣⵣⵍ ⵉⵣⴷⵉⵏ
     zh: 直流電
-    zh-cn: 直流电
-    zh-hans: 直流电
-    zh-hant: 直流電
-    zh-hk: 直流電
-    zh-sg: 直流电
-    zh-tw: 直流電
+    zh_cn: 直流电
+    zh_hans: 直流电
+    zh_hant: 直流電
+    zh_hk: 直流電
+    zh_sg: 直流电
+    zh_tw: 直流電
 ---
 # [[Direct_Current]] 
 

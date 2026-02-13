@@ -126,7 +126,7 @@ dv_has_:
     ba: окисланыу дәрәжәһе
     ban: paindikan oksidasi
     be: ступень акіслення
-    be-tarask: ступень затляненьня
+    be_tarask: ступень затляненьня
     bg: степен на окисление
     blk: အောက်သီဒေးဆိဉ်း နမ်ဗာ
     bn: জারণ অবস্থা
@@ -140,8 +140,8 @@ dv_has_:
     de: Oxidationszahl
     el: αριθμός οξείδωσης
     en: oxidation number
-    en-ca: Oxidation state
-    en-gb: Oxidation state
+    en_ca: Oxidation state
+    en_gb: Oxidation state
     eo: oksidiĝa nombro
     es: estado de oxidación
     et: oksüdatsiooniaste
@@ -166,9 +166,9 @@ dv_has_:
     ka: ჟანგვის რიცხვი
     kaa: oksidleniw dárejesi
     kk: тотығу дәрежесі
-    kk-arab: توتىعۋ دارەجەسى
-    kk-cyrl: тотығу дәрежесі
-    kk-latn: totığw därejesi
+    kk_arab: توتىعۋ دارەجەسى
+    kk_cyrl: тотығу дәрежесі
+    kk_latn: totığw därejesi
     ko: 산화수
     lt: oksidacijos laipsnis
     lv: oksidēšanas pakāpe
@@ -186,7 +186,7 @@ dv_has_:
     pa: ਆਕਸੀਕਰਨ ਸੰਖਿਆ
     pl: stopień utlenienia
     pt: estado de oxidação
-    pt-br: Estado de oxidação
+    pt_br: Estado de oxidação
     ro: număr de oxidare
     ru: степень окисления
     sd: آڪسيڊيشن حالت
@@ -197,8 +197,8 @@ dv_has_:
     smn: hapittemloho
     sq: numri i oksidimit
     sr: оксидациони број
-    sr-ec: оксидациони број
-    sr-el: oksidacioni broj
+    sr_ec: оксидациони број
+    sr_el: oksidacioni broj
     sv: oxidationstal
     ta: ஆக்சிசனேற்ற எண்
     th: สถานะออกซิเดชัน

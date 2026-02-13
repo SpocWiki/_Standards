@@ -68,7 +68,7 @@ Commons_category: Naval architecture
 dv_has_:
   name_:
     ar: هندسة معمارية بحرية
-    be-tarask: марская архітэктура
+    be_tarask: марская архітэктура
     bg: корабни устройства
     bn: নৌ স্থাপত্য
     ca: arquitectura naval
@@ -77,8 +77,8 @@ dv_has_:
     de: Schiffstechnik
     el: ναυπηγική
     en: naval architecture
-    en-ca: naval architecture
-    en-gb: naval architecture
+    en_ca: naval architecture
+    en_gb: naval architecture
     eo: mararmea arkitekturo
     es: arquitectura naval
     et: Laevaehituse insenerindus
@@ -116,9 +116,9 @@ dv_has_:
     ur: بحری ہندسیات
     yue: 船舶工程
     zh: 轮机工程
-    zh-cn: 造船学
-    zh-hans: 海军建筑师
-    zh-hant: 造船學
+    zh_cn: 造船学
+    zh_hans: 海军建筑师
+    zh_hant: 造船學
 ---
 # [[Naval_Architecture]] 
 

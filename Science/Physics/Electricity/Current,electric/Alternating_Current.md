@@ -117,7 +117,7 @@ dv_has_:
     ast: corriente alterno
     az: Dəyişən cərəyan
     be: пераменны ток
-    be-tarask: зьменны ток
+    be_tarask: зьменны ток
     bg: Променлив ток
     bn: পরিবর্তী তড়িৎ প্রবাহ
     bo: སྤེལ་རྒྱུག་གློག་རྒྱུན།
@@ -130,8 +130,8 @@ dv_has_:
     de: Wechselstrom
     el: Εναλλασσόμενο ρεύμα
     en: alternating current
-    en-ca: Alternating current
-    en-gb: Alternating current
+    en_ca: Alternating current
+    en_gb: Alternating current
     eo: alterna kurento
     es: corriente alterna
     et: vahelduvvool
@@ -160,8 +160,8 @@ dv_has_:
     kn: ಪರ್ಯಾಯ(ಸರದಿಯಂತೆ ಬರುವ) ವಿದ್ಯುತ್ ಪ್ರವಾಹ
     ko: 교류
     ku: Sirêma berguhêr
-    ku-arab: سرێما بەرگوهێر
-    ku-latn: Sirêma berguhêr
+    ku_arab: سرێما بەرگوهێر
+    ku_latn: Sirêma berguhêr
     la: currens alternans
     lld: Strom mudà ju
     lmo: Corrent alternada
@@ -181,7 +181,7 @@ dv_has_:
     pms: Corent auternà
     pnb: آلٹرنیٹنگ کرنٹ
     pt: corrente alternada
-    pt-br: Corrente alternada
+    pt_br: Corrente alternada
     ro: curent alternativ
     ru: переменный ток
     sco: alternatin current
@@ -192,8 +192,8 @@ dv_has_:
     smn: muulsâvirde
     sq: Rryma e ndryshueshme
     sr: наизменична струја
-    sr-ec: Наизменична струја
-    sr-el: Naizmenična struja
+    sr_ec: Наизменична струја
+    sr_el: Naizmenična struja
     stq: Wikselsponnenge
     su: Arus listrik bulak-balik
     sv: växelspänning
@@ -214,12 +214,12 @@ dv_has_:
     yue: 濕電
     zgh: ⴰⵎⴰⵣⵣⵍ ⴰⵎⵍⴻⵍⵍⴰⵢ
     zh: 交流電
-    zh-cn: 交流电
-    zh-hans: 交流电
-    zh-hant: 交流電
-    zh-hk: 交流電
-    zh-sg: 交流电
-    zh-tw: 交流電
+    zh_cn: 交流电
+    zh_hans: 交流电
+    zh_hant: 交流電
+    zh_hk: 交流電
+    zh_sg: 交流电
+    zh_tw: 交流電
 ---
 # [[Alternating_Current]] 
 

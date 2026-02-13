@@ -115,7 +115,7 @@ dv_has_:
     azb: تون (بیریم)
     ba: тонна
     be: тона
-    be-tarask: тона
+    be_tarask: тона
     bg: t
     bn: মেট্রিক টন
     br: tonenn
@@ -129,11 +129,11 @@ dv_has_:
     da: ton
     de: Tonne
     de-at: Tonne
-    de-ch: Tonne
+    de_ch: Tonne
     el: τόνος
     en: tonne
-    en-ca: ton
-    en-gb: tonne
+    en_ca: ton
+    en_gb: tonne
     en-us: metric ton
     eo: tuno
     es: tonelada
@@ -169,8 +169,8 @@ dv_has_:
     ko: 톤
     krc: тонна
     ku: ton
-    ku-arab: تۆن
-    ku-latn: ton
+    ku_arab: تۆن
+    ku_latn: ton
     ky: тонна
     la: Tonna
     lb: Tonn
@@ -181,7 +181,7 @@ dv_has_:
     mn: тонн
     mr: टन
     ms: tan
-    ms-arab: تن
+    ms_arab: تن
     mt: ton
     mzn: تُن
     nb: tonn
@@ -193,7 +193,7 @@ dv_has_:
     pl: tona
     pnb: ٹݨ
     pt: tonelada
-    pt-br: tonelada(s)
+    pt_br: tonelada(s)
     rm: t
     ro: tonă
     ru: тонна
@@ -204,14 +204,14 @@ dv_has_:
     sl: tona
     sq: Toni
     sr: тона
-    sr-ec: тона
-    sr-el: tona
+    sr_ec: тона
+    sr_el: tona
     sv: ton
     sw: tani
     ta: டன்
     te: టన్ను
     tg: Тонн
-    tg-cyrl: тонна
+    tg_cyrl: тонна
     th: ตัน
     tr: ton
     udm: тонна
@@ -225,11 +225,11 @@ dv_has_:
     yi: טאן
     yue: 噸
     zh: 公噸
-    zh-cn: 吨
-    zh-hans: 吨
-    zh-hant: 公噸
-    zh-hk: 公噸
-    zh-sg: 公顿
+    zh_cn: 吨
+    zh_hans: 吨
+    zh_hant: 公噸
+    zh_hk: 公噸
+    zh_sg: 公顿
 ---
 # [[Unit~Tonne]] 
 

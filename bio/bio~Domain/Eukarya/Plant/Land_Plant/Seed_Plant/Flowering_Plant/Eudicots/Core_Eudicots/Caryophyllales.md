@@ -50,7 +50,7 @@ dv_has_:
     az: Qərənfilçiçəklilər
     bar: Caryophyllales
     be: Гваздзікакветныя
-    be-tarask: гвазьдзікакветныя
+    be_tarask: гвазьдзікакветныя
     bg: карамфилоцветни
     br: Caryophyllales
     bs: Caryophyllales
@@ -62,11 +62,11 @@ dv_has_:
     cy: Caryophyllales
     da: nellike-ordenen
     de: Nelkenartige
-    de-ch: Caryophyllales
+    de_ch: Caryophyllales
     el: Καρυοφυλλώδη
     en: Caryophyllales
-    en-ca: Caryophyllales
-    en-gb: Caryophyllales
+    en_ca: Caryophyllales
+    en_gb: Caryophyllales
     eo: Kariofilaloj
     es: Caryophyllales
     et: Nelgilaadsed
@@ -115,7 +115,7 @@ dv_has_:
     nap: Caryophyllales
     nb: Nellikordenen
     nds: Caryophyllales
-    nds-nl: Caryophyllales
+    nds_nl: Caryophyllales
     nl: Caryophyllales
     nn: nellikordenen
     nrm: Caryophyllales
@@ -125,7 +125,7 @@ dv_has_:
     pl: goździkowce
     pms: Caryophyllales
     pt: Caryophyllales
-    pt-br: Caryophyllales
+    pt_br: Caryophyllales
     rm: Caryophyllales
     ro: Caryophyllales
     ru: гвоздичноцветные
@@ -154,10 +154,10 @@ dv_has_:
     wuu: 石竹目
     yue: 石竹目
     zh: 石竹目
-    zh-cn: 石竹目
-    zh-hans: 石竹目
-    zh-hant: 石竹目
-    zh-tw: 石竹目
+    zh_cn: 石竹目
+    zh_hans: 石竹目
+    zh_hant: 石竹目
+    zh_tw: 石竹目
     zu: Caryophyllales
 ---
 # [[Caryophyllales]]

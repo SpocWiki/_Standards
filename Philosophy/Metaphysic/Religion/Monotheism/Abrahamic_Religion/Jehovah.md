@@ -95,7 +95,7 @@ dv_has_:
     ast: Xehová
     az: Yehova
     bcl: Jehova
-    be-tarask: Ягова
+    be_tarask: Ягова
     bn: যিহোবাহ্
     bo: ཡ་ཧོ་ཝཱ་
     bs: Jehova
@@ -151,8 +151,8 @@ dv_has_:
     rw: Yehova
     sl: Jahve
     sr: Јехова
-    sr-ec: Јехова
-    sr-el: Jehova
+    sr_ec: Јехова
+    sr_el: Jehova
     srn: Jehovah
     sv: Jehova
     ta: ஜெஹோவா
@@ -169,9 +169,9 @@ dv_has_:
     xmf: იეჰოვა
     yue: 耶和華
     zh: 耶和華
-    zh-hans: 耶和华
-    zh-hant: 耶和華
-    zh-hk: 耶和華
+    zh_hans: 耶和华
+    zh_hant: 耶和華
+    zh_hk: 耶和華
 ---
 # [[Jehovah]] 
 

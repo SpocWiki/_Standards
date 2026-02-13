@@ -46,16 +46,16 @@ dv_has_:
   name_:
     ar: مشرفة
     be: Пентхаус
-    be-tarask: Пэнтгаўс
+    be_tarask: Пэнтгаўс
     bg: Мезонет
     ca: àtic
     cs: Penthouse (typ bytu)
     de: Penthouse
-    de-ch: Penthouse
+    de_ch: Penthouse
     el: Ρετιρέ
     en: penthouse apartment
-    en-ca: Penthouse apartment
-    en-gb: penthouse apartment
+    en_ca: Penthouse apartment
+    en_gb: penthouse apartment
     eo: Surtegmenta apartamento
     es: Ático (vivienda)
     eu: Teilatupe
@@ -75,7 +75,7 @@ dv_has_:
     nl: penthouse
     pl: Penthouse
     pt: cobertura (moradia)
-    pt-br: Cobertura
+    pt_br: Cobertura
     ro: penthouse
     ru: пентхаус
     sh: Penthaus

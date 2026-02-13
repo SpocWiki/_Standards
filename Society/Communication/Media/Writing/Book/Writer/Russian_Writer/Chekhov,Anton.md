@@ -232,7 +232,7 @@ dv_has_:
     bar: Anton Pawlowitsch Tschechow
     bcl: Anton Chekhov
     be: Антон Паўлавіч Чэхаў
-    be-tarask: Антон Чэхаў
+    be_tarask: Антон Чэхаў
     bg: Антон Чехов
     bi: Anton Chekhov
     bjn: Anton Pavlovich Chekhov
@@ -247,7 +247,7 @@ dv_has_:
     ceb: Anton Chekhov
     ckb: ئانتۆن چێخۆڤ
     crh: Anton Çehov
-    crh-latn: Anton Çehov
+    crh_latn: Anton Çehov
     cs: Anton Pavlovič Čechov
     cv: Чехов Антон Павлович
     cy: Anton Chekhov
@@ -256,8 +256,8 @@ dv_has_:
     diq: Anton Çehov
     el: Άντον Παύλοβιτς Τσέχοφ
     en: Anton Chekhov
-    en-ca: Anton Chekhov
-    en-gb: Anton Chekhov
+    en_ca: Anton Chekhov
+    en_gb: Anton Chekhov
     eo: Anton Ĉeĥov
     es: Antón Chéjov
     et: Anton Tšehhov
@@ -345,7 +345,7 @@ dv_has_:
     pnb: انتون چیخوف
     ps: آنتون پاولوف چيخوف
     pt: Anton Tchekhov
-    pt-br: Anton Tchekhov
+    pt_br: Anton Tchekhov
     qu: Anton Chekhov
     ro: Anton Cehov
     ru: Антон Павлович Чехов
@@ -390,8 +390,8 @@ dv_has_:
     yo: Anton Chekhov
     yue: 契訶夫
     zh: 安东·契诃夫
-    zh-cn: 安东·契诃夫
-    zh-hant: 安東·契訶夫
+    zh_cn: 安东·契诃夫
+    zh_hant: 安東·契訶夫
 ---
 # [[Chekhov,Anton]] 
 

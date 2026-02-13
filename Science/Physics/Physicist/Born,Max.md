@@ -186,7 +186,7 @@ dv_has_:
     azb: ماکس برن
     ban: Max Born
     be: Макс Борн
-    be-tarask: Макс Борн
+    be_tarask: Макс Борн
     bg: Макс Борн
     bn: মাক্স বর্ন
     bs: Max Born
@@ -200,8 +200,8 @@ dv_has_:
     diq: Max Born
     el: Μαξ Μπορν
     en: Max Born
-    en-ca: Max Born
-    en-gb: Max Born
+    en_ca: Max Born
+    en_gb: Max Born
     eo: Max Born
     es: Max Born
     et: Max Born
@@ -260,7 +260,7 @@ dv_has_:
     pnb: میکس بورن
     ps: ماکس بورن
     pt: Max Born
-    pt-br: Max Born
+    pt_br: Max Born
     qu: Max Born
     ro: Max Born
     ru: Макс Борн

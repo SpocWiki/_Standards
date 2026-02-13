@@ -123,7 +123,7 @@ dv_has_:
     az: kapitan
     ba: Капитан
     be: капітан
-    be-tarask: капітан
+    be_tarask: капітан
     bg: капитан
     bn: ক্যাপ্টেন
     br: kabiten
@@ -166,7 +166,7 @@ dv_has_:
     kk: Капитан
     ko: 대위
     ku: sedvan
-    ku-latn: sedvan
+    ku_latn: sedvan
     la: capitaneus
     lb: Kapitän
     lo: ຮ້ອຍເອກ
@@ -186,7 +186,7 @@ dv_has_:
     pl: kapitan
     ps: جگتورن
     pt: capitão
-    pt-br: capitão
+    pt_br: capitão
     rn: kapitene
     ro: căpitan
     ru: капитан
@@ -196,8 +196,8 @@ dv_has_:
     sl: kapetan
     sq: Kapiten (forcat e armatosura)
     sr: капетан
-    sr-ec: капетан
-    sr-el: kapetan
+    sr_ec: капетан
+    sr_el: kapetan
     sv: kapten
     sw: Kapteni
     szl: hauptman
@@ -206,7 +206,7 @@ dv_has_:
     th: ร้อยเอก
     tr: yüzbaşı
     tt: капитан
-    tt-cyrl: капитан
+    tt_cyrl: капитан
     uk: капітан
     ur: کپتان
     uz: Kapitan (qurolli kuchlar)
@@ -215,8 +215,8 @@ dv_has_:
     yi: קאפיטאן
     yue: 上尉
     zh: 上尉
-    zh-hant: 上尉
-    zh-tw: 上尉
+    zh_hant: 上尉
+    zh_tw: 上尉
 ---
 # [[Captain]] 
 

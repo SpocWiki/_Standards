@@ -113,7 +113,7 @@ dv_has_:
     ast: traumatismu
     az: zədə
     be: траўма
-    be-tarask: траўма
+    be_tarask: траўма
     bg: травма
     bn: আঘাত
     br: gloazadenn
@@ -150,11 +150,11 @@ dv_has_:
     ka: ტრავმა
     kcg: kunn
     kk: жарақат
-    kk-arab: جاراقات
+    kk_arab: جاراقات
     kk-cn: جاراقات
-    kk-cyrl: жарақат
+    kk_cyrl: жарақат
     kk-kz: жарақат
-    kk-latn: jaraqat
+    kk_latn: jaraqat
     kk-tr: jaraqat
     kn: ಗಾಯ
     ko: 외상
@@ -167,7 +167,7 @@ dv_has_:
     ml: മനുഷ്യരിലെ പരിക്കുകൾ
     mn: гэмтэл
     ms: kecederaan
-    ms-arab: کچدراءن
+    ms_arab: کچدراءن
     nb: traume
     nl: verwonding
     nn: traume
@@ -182,14 +182,14 @@ dv_has_:
     sl: poškodba
     so: dhaawac
     sr: повреда
-    sr-ec: повреда
-    sr-el: povreda
+    sr_ec: повреда
+    sr_el: povreda
     su: tatu
     sv: medicinskt trauma
     th: การบาดเจ็บ
     tr: travma
     tt: яра
-    tt-cyrl: яра
+    tt_cyrl: яра
     uk: фізична травма
     ur: زخم
     uz: travma
@@ -197,12 +197,12 @@ dv_has_:
     vi: chấn thương
     yue: 傷
     zh: 創傷
-    zh-cn: 创伤
-    zh-hans: 创伤
-    zh-hant: 創傷
-    zh-hk: 創傷
-    zh-sg: 创伤
-    zh-tw: 創傷
+    zh_cn: 创伤
+    zh_hans: 创伤
+    zh_hant: 創傷
+    zh_hk: 創傷
+    zh_sg: 创伤
+    zh_tw: 創傷
 ---
 # [[Injury]] 
 

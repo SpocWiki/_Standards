@@ -145,7 +145,7 @@ dv_has_:
     ban: lengkara
     bcl: pangurolay
     be: сказ
-    be-tarask: сказ
+    be_tarask: сказ
     bg: изречение
     bho: वाक्य
     bn: বাক্য
@@ -159,12 +159,12 @@ dv_has_:
     da: sætning
     dag: yɛltɔɣili
     de: Satz
-    de-ch: Satz
+    de_ch: Satz
     dga: yɛlɛ
     el: πρόταση
     en: sentence
-    en-ca: sentence
-    en-gb: sentence
+    en_ca: sentence
+    en_gb: sentence
     eo: frazo
     es: oración
     et: lause
@@ -200,7 +200,7 @@ dv_has_:
     koi: сёрникузя
     krj: pahayag
     ks: آیُت
-    ku-latn: hevok
+    ku_latn: hevok
     ky: сүйлөм
     la: sententia
     ln: faláze
@@ -228,7 +228,7 @@ dv_has_:
     pl: zdanie
     pnb: جملہ
     pt: período
-    pt-br: período
+    pt_br: período
     qu: hunt'a rimay
     ro: propoziție
     ru: предложение
@@ -244,19 +244,19 @@ dv_has_:
     so: hawraar
     sq: fjali
     sr: реченица
-    sr-ec: реченица
+    sr_ec: реченица
     su: kalimah
     sv: mening
     sw: sentensi
     te: వాక్యం
     tg: ҷумла
-    tg-cyrl: ҷумла
+    tg_cyrl: ҷумла
     th: ประโยค
     tl: pangungusap
     tr: cümle
     tt: җөмлә
-    tt-cyrl: җөмлә
-    tt-latn: ğömlä
+    tt_cyrl: җөмлә
+    tt_latn: ğömlä
     uk: речення
     ur: جملہ
     uz: gap
@@ -269,9 +269,9 @@ dv_has_:
     yo: gbólóhùn
     yue: 句
     zh: 句子
-    zh-hans: 句子
-    zh-hant: 句子
-    zh-tw: 句子
+    zh_hans: 句子
+    zh_hant: 句子
+    zh_tw: 句子
     zu: umusho
 ---
 # [[Sentence]] 

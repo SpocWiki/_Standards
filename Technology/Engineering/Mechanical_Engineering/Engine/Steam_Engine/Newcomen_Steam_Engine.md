@@ -69,9 +69,9 @@ dv_has_:
     uk: Парова машина Томаса Ньюкомена
     ur: نیوکومین ماحول انجن
     zh: 紐科門蒸氣引擎
-    zh-cn: 纽科门蒸汽机
-    zh-hans: 纽科门蒸汽机
-    zh-hant: 紐科門蒸汽機
+    zh_cn: 纽科门蒸汽机
+    zh_hans: 纽科门蒸汽机
+    zh_hant: 紐科門蒸汽機
 ---
 # [[Newcomen_Steam_Engine]] 
 

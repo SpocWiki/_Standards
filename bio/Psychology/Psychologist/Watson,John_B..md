@@ -97,7 +97,7 @@ dv_has_:
     az: Con Uotson
     azb: جان بی. واتسون
     be: Джон Бродэс Уотсан
-    be-tarask: Джон Бродэс Ўотсан
+    be_tarask: Джон Бродэс Ўотсан
     bg: Джон Б. Уотсън
     bn: জন বি ওয়াটসন
     ca: John Broadus Watson
@@ -106,8 +106,8 @@ dv_has_:
     de: John B. Watson
     el: Τζον Γουάτσον
     en: John B. Watson
-    en-ca: John B. Watson
-    en-gb: John B. Watson
+    en_ca: John B. Watson
+    en_gb: John B. Watson
     eo: John Watson
     es: John B. Watson
     et: John Watson
@@ -144,7 +144,7 @@ dv_has_:
     pap: John B. Watson
     pl: John Watson
     pt: John B. Watson
-    pt-br: John B. Watson
+    pt_br: John B. Watson
     ru: Джон Бродес Уотсон
     sco: John B. Watson
     sk: John Broadus Watson
@@ -163,12 +163,12 @@ dv_has_:
     yo: John B. Watson
     yue: 莊·B·華生
     zh: 约翰·布罗德斯·华生
-    zh-cn: 约翰·布罗德斯·华生
-    zh-hans: 约翰·布罗德斯·华生
-    zh-hant: 約翰·布羅德斯·華生
-    zh-hk: 約翰·布羅德斯·華生
-    zh-sg: 约翰·布罗德斯·华生
-    zh-tw: 約翰·布羅德斯·華生
+    zh_cn: 约翰·布罗德斯·华生
+    zh_hans: 约翰·布罗德斯·华生
+    zh_hant: 約翰·布羅德斯·華生
+    zh_hk: 約翰·布羅德斯·華生
+    zh_sg: 约翰·布罗德斯·华生
+    zh_tw: 約翰·布羅德斯·華生
 ---
 # [[Watson,John_B.]] 
 

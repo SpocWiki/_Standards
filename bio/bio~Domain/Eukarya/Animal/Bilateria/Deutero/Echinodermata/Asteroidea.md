@@ -107,7 +107,7 @@ dv_has_:
     az: Dəniz ulduzları
     azb: دنیز اۇلدوزلاری
     be: марскія зоркі
-    be-tarask: марскія зоркі
+    be_tarask: марскія зоркі
     bg: морски звезди
     bn: তারামাছ
     br: Stered-mor
@@ -151,7 +151,7 @@ dv_has_:
     kn: ನಕ್ಷತ್ರಮೀನು
     ko: 불가사리류
     ks: تارک گاڑ.
-    ku-latn: stêra deryayê
+    ku_latn: stêra deryayê
     ky: Деңиз жылдыздары
     la: Asteroidea
     lfn: Asteroideo
@@ -176,7 +176,7 @@ dv_has_:
     pl: rozgwiazdy
     pnb: تارا مچھی
     pt: estrela-do-mar
-    pt-br: estrela do mar
+    pt_br: estrela do mar
     qu: Yaku quyllur
     ro: Asteroidea
     ru: морские звёзды
@@ -205,9 +205,9 @@ dv_has_:
     wuu: 海星
     yue: 海星
     zh: 海星纲
-    zh-cn: 海星纲
-    zh-hans: 海星纲
-    zh-tw: 海星綱
+    zh_cn: 海星纲
+    zh_hans: 海星纲
+    zh_tw: 海星綱
 ---
 # [[Asteroidea]] 
 

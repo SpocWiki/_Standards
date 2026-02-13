@@ -97,7 +97,7 @@ dv_has_:
     ar: صناعة الدواء
     arz: صناعة الدوا
     be: фармацэўтычная прамысловасць
-    be-tarask: фармацэўтычная прамысловасьць
+    be_tarask: фармацэўтычная прамысловасьць
     bg: Фармацевтична индустрия
     bn: ঔষধনির্মাণ শিল্প
     ca: indústria farmacèutica
@@ -107,8 +107,8 @@ dv_has_:
     de: Pharmaindustrie
     el: φαρμακευτική βιομηχανία
     en: pharmaceutical industry
-    en-ca: Pharmaceutical industry
-    en-gb: pharmaceutical industry
+    en_ca: Pharmaceutical industry
+    en_gb: pharmaceutical industry
     eo: farmacia industrio
     es: industria farmacéutica
     et: ravimifirma
@@ -137,7 +137,7 @@ dv_has_:
     nn: farmasøytisk industri
     pl: przemysł farmaceutyczny
     pt: indústria farmacêutica
-    pt-br: Indústria farmacêutica
+    pt_br: Indústria farmacêutica
     ro: Industria farmaceutică
     ru: фармацевтическая промышленность
     sd: دوا ساز صنعت
@@ -148,8 +148,8 @@ dv_has_:
     sms: taalkâsindustria
     sq: Industria farmaceutike
     sr: фармацеутска индустрија
-    sr-ec: Фармацеутска индустрија
-    sr-el: Farmaceutska industrija
+    sr_ec: Фармацеутска индустрија
+    sr_el: Farmaceutska industrija
     sv: läkemedelsbolag
     te: ఔషధ తయారీ సంస్థలు
     th: เภสัชอุตสาหกรรม
@@ -158,8 +158,8 @@ dv_has_:
     ur: دواسازی
     vi: công nghiệp dược phẩm
     zh: 醫藥產業
-    zh-hans: 制药产业
-    zh-hant: 製藥產業
+    zh_hans: 制药产业
+    zh_hant: 製藥產業
 ---
 # [[Big_Pharma]] 
 

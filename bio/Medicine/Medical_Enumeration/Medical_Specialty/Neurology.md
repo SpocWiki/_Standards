@@ -109,7 +109,7 @@ dv_has_:
     azb: نیورولوژی
     bcl: Neurolohiya
     be: неўралогія
-    be-tarask: нэўралёгія
+    be_tarask: нэўралёгія
     bg: Неврология
     bn: স্নায়ুচিকিৎসাবিজ্ঞান
     br: neurologiezh
@@ -173,7 +173,7 @@ dv_has_:
     pi: स्नायुशास्त्र
     pl: neurologia
     pt: neurologia
-    pt-br: neurologia
+    pt_br: neurologia
     ro: neurologie
     ru: неврология
     rue: Неврология
@@ -189,7 +189,7 @@ dv_has_:
     sms: neurologia
     sq: neurologjia
     sr: неурологија
-    sr-ec: неурологија
+    sr_ec: неурологија
     sv: neurologi
     ta: நரம்பியல்
     tg: асабшиносӣ
@@ -208,7 +208,7 @@ dv_has_:
     yi: נעווראלאגיע
     yue: 神經內科
     zh: 神經學
-    zh-hant: 神經學
+    zh_hant: 神經學
 ---
 # [[Neurology]] 
 

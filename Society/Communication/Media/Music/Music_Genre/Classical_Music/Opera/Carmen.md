@@ -95,18 +95,18 @@ dv_has_:
     az: Karmen
     ba: Кармен
     be: Кармэн
-    be-tarask: Кармэн
+    be_tarask: Кармэн
     bg: Кармен
     ca: Carmen
     cs: Carmen
     cy: Carmen
     da: Carmen
     de: Carmen
-    de-ch: Carmen
+    de_ch: Carmen
     el: Κάρμεν
     en: Carmen
-    en-ca: Carmen
-    en-gb: Carmen
+    en_ca: Carmen
+    en_gb: Carmen
     eo: Karmeno
     es: Carmen
     et: Carmen
@@ -138,7 +138,7 @@ dv_has_:
     nn: Carmen
     pl: Carmen
     pt: Carmen
-    pt-br: Carmen
+    pt_br: Carmen
     qu: Carmen
     ro: Carmena
     ru: Кармен
@@ -147,8 +147,8 @@ dv_has_:
     sl: Carmen
     sq: Carmen
     sr: Кармен
-    sr-ec: Кармен
-    sr-el: Karmen
+    sr_ec: Кармен
+    sr_el: Karmen
     sv: Carmen
     ta: கார்மென்
     tg: «Кармен» (опера)
@@ -162,12 +162,12 @@ dv_has_:
     wuu: 卡门
     yue: 卡門
     zh: 卡门
-    zh-cn: 卡门
-    zh-hans: 卡门
-    zh-hant: 卡門
-    zh-hk: 卡門
-    zh-sg: 卡门
-    zh-tw: 卡門
+    zh_cn: 卡门
+    zh_hans: 卡门
+    zh_hant: 卡門
+    zh_hk: 卡門
+    zh_sg: 卡门
+    zh_tw: 卡門
 ---
 # [[Carmen]] 
 

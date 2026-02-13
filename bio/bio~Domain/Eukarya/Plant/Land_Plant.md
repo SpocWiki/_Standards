@@ -82,7 +82,7 @@ dv_has_:
     ba: Юғары төҙөлөшлө үҫемлектәр
     bar: Embryophyta
     be: Вышэйшыя расліны
-    be-tarask: найвышэйшыя расьліны
+    be_tarask: найвышэйшыя расьліны
     bg: висши растения
     bho: जमीनी पौधा
     bn: ভ্রূণীয়-উদ্ভিদ
@@ -97,10 +97,10 @@ dv_has_:
     da: Stængelplanter
     de: Embryophyta
     de-at: Embryophyta
-    de-ch: Embryophyta
+    de_ch: Embryophyta
     en: Embryophytes
-    en-ca: Embryophyta
-    en-gb: Embryophyta
+    en_ca: Embryophyta
+    en_gb: Embryophyta
     eo: embriofito
     es: Embryophyta
     et: Embryophyta
@@ -129,11 +129,11 @@ dv_has_:
     ka: უმაღლესი მცენარეები
     kg: Embryophyta
     kk: Жоғарғы сатыдағы өсімдіктер
-    kk-arab: جوعارعى ساتىداعى وسىمدىكتەر
+    kk_arab: جوعارعى ساتىداعى وسىمدىكتەر
     kk-cn: جوعارعى ساتىداعى وسىمدىكتەر
-    kk-cyrl: Жоғарғы сатыдағы өсімдіктер
+    kk_cyrl: Жоғарғы сатыдағы өсімдіктер
     kk-kz: Жоғарғы сатыдағы өсімдіктер
-    kk-latn: Joğarğı satıdağı ösimdikter
+    kk_latn: Joğarğı satıdağı ösimdikter
     kk-tr: Joğarğı satıdağı ösimdikter
     ko: 유배식물
     la: Embryophyta
@@ -149,7 +149,7 @@ dv_has_:
     nap: Embryophyta
     nb: landplanter
     nds: Embryophyta
-    nds-nl: Embryophyta
+    nds_nl: Embryophyta
     nl: Embryophyta
     nn: landplantar
     nrm: Embryophyta
@@ -158,7 +158,7 @@ dv_has_:
     pl: rośliny telomowe
     pms: Embryophyta
     pt: Embriófito
-    pt-br: Embryophyta
+    pt_br: Embryophyta
     rm: Embryophyta
     ro: Embryophyta
     ru: высшие растения
@@ -171,8 +171,8 @@ dv_has_:
     sl: Embryophyta
     sq: Embryophyta
     sr: Копнене биљке
-    sr-ec: Копнене биљке
-    sr-el: Kopnene biljke
+    sr_ec: Копнене биљке
+    sr_el: Kopnene biljke
     su: Embryophyta
     sv: Landväxter
     sw: Embryophyta
@@ -195,12 +195,12 @@ dv_has_:
     yue: 陸上植物
     zea: Landplant'n
     zh: 有胚植物
-    zh-cn: 有胚植物
-    zh-hans: 有胚植物
-    zh-hant: 有胚植物
-    zh-hk: 有胚植物
-    zh-sg: 有胚植物
-    zh-tw: 有胚植物
+    zh_cn: 有胚植物
+    zh_hans: 有胚植物
+    zh_hant: 有胚植物
+    zh_hk: 有胚植物
+    zh_sg: 有胚植物
+    zh_tw: 有胚植物
     zu: Embryophyta
 ---
 # [[Land_Plant]]

@@ -279,7 +279,7 @@ dv_has_:
     bar: Araneae
     bcl: Lawa
     be: павукі
-    be-tarask: павукі
+    be_tarask: павукі
     bg: паяци
     bjn: kabibitak
     bn: মাকড়শা
@@ -302,7 +302,7 @@ dv_has_:
     dag: Kpatinariga
     de: Webspinnen
     de-at: Araneae
-    de-ch: Webspinnen
+    de_ch: Webspinnen
     din: Aɣukar
     diq: Bındırık
     dtp: Korut
@@ -310,8 +310,8 @@ dv_has_:
     el: αράχνη
     eml: Ragn
     en: Araneae
-    en-ca: Spider
-    en-gb: spider
+    en_ca: Spider
+    en_gb: spider
     eo: Araneuloj
     es: araña
     et: Ämblikulised
@@ -397,7 +397,7 @@ dv_has_:
     nap: Araneae
     nb: edderkopper
     nds: Weevspinnen
-    nds-nl: Araneae
+    nds_nl: Araneae
     ne: माकुरा
     nl: spinnen
     nn: edderkoppar
@@ -417,7 +417,7 @@ dv_has_:
     pnb: مکڑی
     ps: غڼه
     pt: aranha
-    pt-br: Aranha
+    pt_br: Aranha
     qu: Awaq uru
     rm: Araneae
     ro: Păianjen
@@ -455,7 +455,7 @@ dv_has_:
     tok: pipi len
     tr: Örümcek
     tt: үрмәкүчләр
-    tt-cyrl: үрмәкүчләр
+    tt_cyrl: үрмәкүчләр
     tw: ananse
     udm: чонариос
     ug: Ömüchük
@@ -477,10 +477,10 @@ dv_has_:
     yue: 蠄蟧
     za: Duzgyau
     zh: 蜘蛛目
-    zh-cn: 蜘蛛目
-    zh-hans: 蜘蛛目
-    zh-hant: 蜘蛛
-    zh-tw: 蜘蛛目
+    zh_cn: 蜘蛛目
+    zh_hans: 蜘蛛目
+    zh_hant: 蜘蛛
+    zh_tw: 蜘蛛目
     zu: Araneae
 ---
 # [[Spider]] 

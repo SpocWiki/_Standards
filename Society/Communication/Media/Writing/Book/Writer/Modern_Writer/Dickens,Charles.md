@@ -221,7 +221,7 @@ dv_has_:
     ba: Чарльз Диккенс
     bar: Charles Dickens
     be: Чарлз Дзікенс
-    be-tarask: Чарлз Дыкенз
+    be_tarask: Чарлз Дыкенз
     bg: Чарлз Дикенс
     bi: Charles Dickens
     bjn: Charles Dickens
@@ -240,13 +240,13 @@ dv_has_:
     da: Charles Dickens
     de: Charles Dickens
     de-at: Charles Dickens
-    de-ch: Charles Dickens
+    de_ch: Charles Dickens
     diq: Charles Dickens
     ee: Charles Dickens
     el: Κάρολος Ντίκενς
     en: Charles Dickens
-    en-ca: Charles Dickens
-    en-gb: Charles Dickens
+    en_ca: Charles Dickens
+    en_gb: Charles Dickens
     eo: Charles Dickens
     es: Charles Dickens
     et: Charles Dickens
@@ -339,7 +339,7 @@ dv_has_:
     pnb: چارلس ڈکنز
     ps: چارلېز ډيکېنز
     pt: Charles Dickens
-    pt-br: Charles Dickens
+    pt_br: Charles Dickens
     qu: Charles Dickens
     ro: Charles Dickens
     ru: Чарльз Диккенс
@@ -386,8 +386,8 @@ dv_has_:
     yo: Charles Dickens
     yue: 狄更斯
     zh: 查尔斯·狄更斯
-    zh-hant: 查爾斯·狄更斯
-    zh-tw: 查爾斯·狄更斯
+    zh_hant: 查爾斯·狄更斯
+    zh_tw: 查爾斯·狄更斯
 ---
 # [[Dickens,Charles]] 
 

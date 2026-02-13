@@ -194,7 +194,7 @@ dv_has_:
     bar: Da kloa Prinz
     bcl: An Sadit na Prinsipe
     be: Маленькі прынц
-    be-tarask: Маленькі прынц
+    be_tarask: Маленькі прынц
     bg: Малкият принц
     bjn: Pangeran Cilik
     bn: ল্য প্যতি প্র্যাঁস্
@@ -273,7 +273,7 @@ dv_has_:
     pl: Mały Książę
     ps: كوچنى شاهزاده
     pt: O Principezinho
-    pt-br: O Pequeno Príncipe
+    pt_br: O Pequeno Príncipe
     qu: Quyllur llaqtayuq wawamanta
     ro: Micul prinț
     ru: Маленький принц

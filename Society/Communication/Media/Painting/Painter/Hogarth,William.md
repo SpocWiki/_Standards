@@ -226,7 +226,7 @@ dv_has_:
     az: Uilyam Hoqart
     ba: Уильям Хогарт
     be: Уільям Хогарт
-    be-tarask: Ўільям Хогарт
+    be_tarask: Ўільям Хогарт
     bg: Уилям Хогарт
     bpy: উইলিয়াম হগার্থ
     ca: William Hogarth
@@ -235,11 +235,11 @@ dv_has_:
     da: William Hogarth
     dag: William Hogarth
     de: William Hogarth
-    de-ch: William Hogarth
+    de_ch: William Hogarth
     el: Ουΐλλιαμ Χόγκαρθ
     en: William Hogarth
-    en-ca: William Hogarth
-    en-gb: William Hogarth
+    en_ca: William Hogarth
+    en_gb: William Hogarth
     eo: William Hogarth
     es: William Hogarth
     et: William Hogarth
@@ -278,7 +278,7 @@ dv_has_:
     pa: ਵਿਲੀਅਮ ਹੋਗਾਰਥ
     pl: William Hogarth
     pt: William Hogarth
-    pt-br: William Hogarth
+    pt_br: William Hogarth
     ro: William Hogarth
     ru: Уильям Хогарт
     sh: William Hogarth
@@ -286,8 +286,8 @@ dv_has_:
     sl: William Hogarth
     sq: William Hogarth
     sr: Вилијам Хогарт
-    sr-ec: Вилијам Хогарт
-    sr-el: Vilijam Hogart
+    sr_ec: Вилијам Хогарт
+    sr_el: Vilijam Hogart
     sv: William Hogarth
     ta: வில்லியம் ஹோகார்த்
     th: วิลเลียม โฮการ์ธ
@@ -299,12 +299,12 @@ dv_has_:
     xmf: უილიამ ჰოუგართი
     yue: 威廉浩嘉呼
     zh: 威廉·贺加斯
-    zh-cn: 威廉·贺加斯
-    zh-hans: 威廉·贺加斯
-    zh-hant: 威廉·賀加斯
-    zh-hk: 威廉·賀加斯
-    zh-sg: 威廉·贺加斯
-    zh-tw: 威廉·賀加斯
+    zh_cn: 威廉·贺加斯
+    zh_hans: 威廉·贺加斯
+    zh_hant: 威廉·賀加斯
+    zh_hk: 威廉·賀加斯
+    zh_sg: 威廉·贺加斯
+    zh_tw: 威廉·賀加斯
 ---
 # [[Hogarth,William]] 
 

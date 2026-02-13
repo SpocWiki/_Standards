@@ -76,7 +76,7 @@ dv_has_:
     ast: Derechu continental
     az: Roman-German hüququ
     be: рамана-германская прававая сям’я
-    be-tarask: кантынэнтальнае права
+    be_tarask: кантынэнтальнае права
     bg: Континентална правна система
     bn: দেওয়ানি আইন
     ca: dret continental
@@ -121,7 +121,7 @@ dv_has_:
     sk: kontinentálne právo
     sl: civilno pravo
     sr: Континентално право
-    sr-ec: континентално право
+    sr_ec: континентално право
     sv: Civil law
     ta: குடிமையியல் சட்டம்
     th: ซีวิลลอว์
@@ -134,14 +134,14 @@ dv_has_:
     war: Balaud sibil
     yue: 民法法系
     zh: 大陆法系
-    zh-cn: 大陆法系
-    zh-hans: 大陆法系
-    zh-hant: 大陸法系
-    zh-hk: 大陸法系
-    zh-mo: 大陸法系
+    zh_cn: 大陆法系
+    zh_hans: 大陆法系
+    zh_hant: 大陸法系
+    zh_hk: 大陸法系
+    zh_mo: 大陸法系
     zh-my: 大陆法系
-    zh-sg: 大陆法系
-    zh-tw: 大陸法系
+    zh_sg: 大陆法系
+    zh_tw: 大陸法系
 ---
 # [[Civil_Law]] 
 

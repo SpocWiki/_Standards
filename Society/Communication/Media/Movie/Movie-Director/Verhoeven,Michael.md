@@ -34,7 +34,7 @@ dv_has_:
     oc: Michael Verhoeven
     pl: Michael Verhoeven
     pt: Michael Verhoeven
-    pt-br: Michael Verhoeven
+    pt_br: Michael Verhoeven
     ro: Michael Verhoeven
     ru: Михаэль Ферхёвен
     sl: Michael Verhoeven
@@ -42,9 +42,9 @@ dv_has_:
     sv: Michael Verhoeven
     tr: Michael Verhoeven
     zh: 米高尹奧雲
-    zh-cn: 麥可·范赫文
-    zh-hans: 麥可·范赫文
-    zh-hant: 麥可·費爾胡芬
+    zh_cn: 麥可·范赫文
+    zh_hans: 麥可·范赫文
+    zh_hant: 麥可·費爾胡芬
 aliases:
 - Michael Verhoeven
 - Μίκαελ Βερχόβεν

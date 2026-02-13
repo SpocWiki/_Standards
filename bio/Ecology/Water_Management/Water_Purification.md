@@ -74,7 +74,7 @@ dv_has_:
     af: Watersuiwering
     ar: تنقية المياه
     az: İçməli suyu təmizlənməsi
-    be-tarask: водаачыстка
+    be_tarask: водаачыстка
     bg: Пречистване на водата
     bn: পানি পরিশোধন
     ca: potabilització
@@ -124,8 +124,8 @@ dv_has_:
     vi: Lọc sạch nước
     yue: 淨水
     zh: 水淨化
-    zh-hans: 水淨化
-    zh-hant: 水淨化
+    zh_hans: 水淨化
+    zh_hant: 水淨化
 ---
 # [[Water_Purification]] 
 

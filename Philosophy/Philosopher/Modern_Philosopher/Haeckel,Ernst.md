@@ -168,7 +168,7 @@ dv_has_:
     az: Ernst Hekkel
     azb: ارنست هکل
     be: Эрнст Генрых Гекель
-    be-tarask: Эрнст Гэкель
+    be_tarask: Эрнст Гэкель
     bg: Ернст Хекел
     bn: আর্নস্ট হেকেল
     br: Ernst Haeckel
@@ -182,8 +182,8 @@ dv_has_:
     de: Ernst Haeckel
     el: Ερνστ Χέκελ
     en: Ernst Haeckel
-    en-ca: Ernst Haeckel
-    en-gb: Ernst Haeckel
+    en_ca: Ernst Haeckel
+    en_gb: Ernst Haeckel
     eo: Ernst Haeckel
     es: Ernst Haeckel
     et: Ernst Haeckel

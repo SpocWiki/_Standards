@@ -91,7 +91,7 @@ exact_match: http://wordnet-rdf.princeton.edu/wn30/02423022-n
 NBN_System_Key: NHMSYS0000376679
 dv_has_:
   name_:
-    aeb-arab: غزال
+    aeb_arab: غزال
     an: Gazella
     ar: غزال
     arz: غزال
@@ -99,7 +99,7 @@ dv_has_:
     avk: rayoleem ke Gazella oxi
     azb: قازللا
     ban: Gazelle
-    be-tarask: газэля
+    be_tarask: газэля
     bg: газели
     bm: Sinɛ
     bn: গ্যাজেল
@@ -112,12 +112,12 @@ dv_has_:
     cv: Газель (чĕрчунсен кăкĕ)
     da: gazelle
     de: Gazellen
-    de-ch: Gazellen
+    de_ch: Gazellen
     diq: Ğezale
     el: Γαζέλα
     en: Gazella
-    en-ca: Gazelle
-    en-gb: gazelle
+    en_ca: Gazelle
+    en_gb: gazelle
     eo: Gazelo
     es: Gazella
     eu: Gazella
@@ -165,7 +165,7 @@ dv_has_:
     oc: Gazella
     pl: Gazela
     pt: Gazela
-    pt-br: Gazela
+    pt_br: Gazela
     qu: Misti luwichu
     ro: Gazella
     ru: газели
@@ -192,12 +192,12 @@ dv_has_:
     yi: הערש
     yue: 瞪羚
     zh: 瞪羚属
-    zh-cn: 瞪羚属
-    zh-hans: 瞪羚属
-    zh-hant: 瞪羚屬
-    zh-hk: 瞪羚屬
-    zh-sg: 瞪羚属
-    zh-tw: 瞪羚屬
+    zh_cn: 瞪羚属
+    zh_hans: 瞪羚属
+    zh_hant: 瞪羚屬
+    zh_hk: 瞪羚屬
+    zh_sg: 瞪羚属
+    zh_tw: 瞪羚屬
 ---
 # [[Gazelle]] 
 

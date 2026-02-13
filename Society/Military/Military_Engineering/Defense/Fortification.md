@@ -137,7 +137,7 @@ dv_has_:
     az: İstehkam
     bar: Befestigungswesn
     be: фартыфікацыйнае збудаванне
-    be-tarask: фартыфікацыя
+    be_tarask: фартыфікацыя
     bg: фортификация
     bho: किला
     bn: দুর্গপ্রাকার
@@ -149,11 +149,11 @@ dv_has_:
     cy: amddiffynfa
     da: fæstning
     de: Befestigung
-    de-ch: Befestigung
+    de_ch: Befestigung
     el: οχύρωση
     en: fortification
-    en-ca: fortification
-    en-gb: fortification
+    en_ca: fortification
+    en_gb: fortification
     eo: fortikaĵo
     es: fortificación
     et: kaitserajatis
@@ -182,7 +182,7 @@ dv_has_:
     kn: ಕೋಟೆ
     ko: 요새화
     ku: keleh
-    ku-latn: keleh
+    ku_latn: keleh
     la: fortalitia
     lb: Befestegung
     lfn: fortres
@@ -203,7 +203,7 @@ dv_has_:
     pl: fortyfikacja
     pnb: قلعہ بندی
     pt: fortificação
-    pt-br: fortificação
+    pt_br: fortificação
     qu: pukara
     ro: fortificație
     ru: фортификационное сооружение
@@ -215,8 +215,8 @@ dv_has_:
     sn: nhare
     sq: fortifikatë
     sr: утврђење
-    sr-ec: утврђење
-    sr-el: utvrđenje
+    sr_ec: утврђење
+    sr_el: utvrđenje
     su: kuta
     sv: befästning
     ta: கோட்டை
@@ -234,9 +234,9 @@ dv_has_:
     wuu: 防御工事
     yue: 堡壘
     zh: 防御工事
-    zh-cn: 防御工事
-    zh-hans: 防御工事
-    zh-hant: 防禦工事
+    zh_cn: 防御工事
+    zh_hans: 防御工事
+    zh_hant: 防禦工事
 ---
 # [[Fortification]] 
 

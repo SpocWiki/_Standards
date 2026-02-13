@@ -125,7 +125,7 @@ dv_has_:
     ba: Бетон
     bar: Beton
     be: бетон
-    be-tarask: бэтон
+    be_tarask: бэтон
     bg: Бетон
     bn: কংক্রিট
     br: Betoñs
@@ -137,13 +137,13 @@ dv_has_:
     cy: concrit
     da: beton
     de: Beton
-    de-ch: Beton
+    de_ch: Beton
     diq: Betonvaney
     dsb: beton
     el: σκυρόδεμα
     en: concrete
-    en-ca: concrete
-    en-gb: concrete
+    en_ca: concrete
+    en_gb: concrete
     eo: betono
     es: hormigón
     et: betoon
@@ -177,7 +177,7 @@ dv_has_:
     kn: ಕಾಂಕ್ರೀಟ್
     ko: 콘크리트
     ku: beton
-    ku-latn: beton
+    ku_latn: beton
     ky: Бетон
     la: Rudus concretum
     lb: Bëtong
@@ -202,7 +202,7 @@ dv_has_:
     pl: beton
     ps: ګاګره
     pt: betão
-    pt-br: concreto
+    pt_br: concreto
     qu: Urmiyun
     ro: beton ciment
     ru: бетон
@@ -217,8 +217,8 @@ dv_has_:
     sms: betoon
     sq: Betoni
     sr: бетон
-    sr-ec: бетон
-    sr-el: beton
+    sr_ec: бетон
+    sr_el: beton
     su: Beton
     sv: betong
     sw: Zege

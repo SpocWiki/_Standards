@@ -190,7 +190,7 @@ dv_has_:
     ba: Тим Бернерс-Ли
     bar: Tim Berners-Lee
     be: Цім Бернерс-Лі
-    be-tarask: Тым Бэрнэрз-Лі
+    be_tarask: Тым Бэрнэрз-Лі
     bg: Тим Бърнърс-Лий
     bho: टिम बर्नर्स-ली
     bn: টিম বার্নার্স-লি
@@ -207,12 +207,12 @@ dv_has_:
     da: Tim Berners-Lee
     de: Tim Berners-Lee
     de-at: Tim Berners-Lee
-    de-ch: Tim Berners-Lee
+    de_ch: Tim Berners-Lee
     dty: टिम बर्नर्स ली
     el: Τιμ Μπέρνερς Λι
     en: Tim Berners-Lee
-    en-ca: Tim Berners-Lee
-    en-gb: Tim Berners-Lee
+    en_ca: Tim Berners-Lee
+    en_gb: Tim Berners-Lee
     eo: Tim Berners-Lee
     es: Tim Berners-Lee
     et: Tim Berners-Lee
@@ -281,7 +281,7 @@ dv_has_:
     nap: Tim Berners-Lee
     nb: Tim Berners-Lee
     nds: Tim Berners-Lee
-    nds-nl: Tim Berners-Lee
+    nds_nl: Tim Berners-Lee
     ne: टिम बर्नर-ली
     new: टिम बर्नर्स ली
     nl: Tim Berners-Lee
@@ -313,8 +313,8 @@ dv_has_:
     sl: Tim Berners-Lee
     sq: Tim Berners-Lee
     sr: Тим Бернерс-Ли
-    sr-ec: Тим Бернерс-Ли
-    sr-el: Tim Berners-Lee
+    sr_ec: Тим Бернерс-Ли
+    sr_el: Tim Berners-Lee
     sv: Tim Berners-Lee
     sw: Tim Berners-Lee
     ta: டிம் பேர்னேர்ஸ்-லீ
@@ -344,14 +344,14 @@ dv_has_:
     yue: 李柏納
     za: Tim Berners-Lee
     zh: 提姆·柏納-李
-    zh-cn: 蒂姆·伯纳斯-李
-    zh-hans: 蒂姆·伯纳斯-李
-    zh-hant: 提姆·柏納-李
-    zh-hk: 添·班拿斯李
-    zh-mo: 提姆·柏納-李
+    zh_cn: 蒂姆·伯纳斯-李
+    zh_hans: 蒂姆·伯纳斯-李
+    zh_hant: 提姆·柏納-李
+    zh_hk: 添·班拿斯李
+    zh_mo: 提姆·柏納-李
     zh-my: 蒂姆·伯纳斯-李
-    zh-sg: 蒂姆·伯纳斯-李
-    zh-tw: 提姆·柏納-李
+    zh_sg: 蒂姆·伯纳斯-李
+    zh_tw: 提姆·柏納-李
     zu: Tim Berners-Lee
 ---
 # [[Berners-Lee,Tim]] 

@@ -52,7 +52,7 @@ dv_has_:
     arz: السيمونيه
     ast: simonía
     be: сіманія
-    be-tarask: сыманія
+    be_tarask: сыманія
     bg: симония
     bs: simonija
     ca: simonia
@@ -95,19 +95,19 @@ dv_has_:
     sk: svätokupectvo
     sl: simonija
     sr: симонија
-    sr-ec: симонија
-    sr-el: simonija
+    sr_ec: симонија
+    sr_el: simonija
     sv: simoni
     sw: usimoni
     uk: симонія
     yue: 販賣教會職位
     zh: 買賣聖職
-    zh-cn: 买卖圣职
-    zh-hans: 买卖圣职
-    zh-hant: 買賣聖職
-    zh-hk: 買賣聖職
-    zh-sg: 买卖圣职
-    zh-tw: 買賣聖職
+    zh_cn: 买卖圣职
+    zh_hans: 买卖圣职
+    zh_hant: 買賣聖職
+    zh_hk: 買賣聖職
+    zh_sg: 买卖圣职
+    zh_tw: 買賣聖職
 ---
 # [[Simony]] 
 

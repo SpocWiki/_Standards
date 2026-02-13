@@ -54,7 +54,7 @@ dv_has_:
     pap: Will Eisner
     pl: Will Eisner
     pt: Will Eisner
-    pt-br: Will Eisner
+    pt_br: Will Eisner
     ro: Will Eisner
     ru: Уилл Айснер
     sl: Will Eisner
@@ -65,12 +65,12 @@ dv_has_:
     uk: Вілл Айснер
     yue: 威爾·艾斯納
     zh: 威尔·埃斯纳
-    zh-cn: 威尔·埃斯纳
-    zh-hans: 威尔·埃斯纳
-    zh-hant: 威爾·埃斯納
-    zh-hk: 威爾·艾斯納
-    zh-sg: 威尔·埃斯纳
-    zh-tw: 威爾·艾斯納
+    zh_cn: 威尔·埃斯纳
+    zh_hans: 威尔·埃斯纳
+    zh_hant: 威爾·埃斯納
+    zh_hk: 威爾·艾斯納
+    zh_sg: 威尔·埃斯纳
+    zh_tw: 威爾·艾斯納
 ---
 # [[Eisner,Will]] 
 

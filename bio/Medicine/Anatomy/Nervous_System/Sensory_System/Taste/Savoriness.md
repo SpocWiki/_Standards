@@ -37,18 +37,18 @@ dv_has_:
     ast: umami
     bar: Umami
     bcl: Umami
-    be-tarask: умамі
+    be_tarask: умамі
     bg: Умами
     bn: উমামি
     ca: umami
     cs: Umami
     da: umami
     de: Umami
-    de-ch: Umami
+    de_ch: Umami
     el: ουμάμι
     en: umami
-    en-ca: Umami
-    en-gb: umami
+    en_ca: Umami
+    en_gb: umami
     eo: Umamo
     es: sabor umami
     eu: umami
@@ -78,15 +78,15 @@ dv_has_:
     oc: Umami
     pl: umami
     pt: umami
-    pt-br: umami
+    pt_br: umami
     ro: Umami
     ru: Умами
     sh: Umami
     sk: Umami
     sl: umami
     sr: Umami
-    sr-ec: Умами
-    sr-el: Umami
+    sr_ec: Умами
+    sr_el: Umami
     sv: umami
     ta: உமாமி
     th: อุมะมิ
@@ -97,12 +97,12 @@ dv_has_:
     wuu: 鲜味道
     yue: 鮮
     zh: 鮮味
-    zh-cn: 鲜味
-    zh-hans: 鲜味
-    zh-hant: 鮮味
-    zh-hk: 鮮味
-    zh-sg: 鲜味
-    zh-tw: 鮮味
+    zh_cn: 鲜味
+    zh_hans: 鲜味
+    zh_hant: 鮮味
+    zh_hk: 鮮味
+    zh_sg: 鲜味
+    zh_tw: 鮮味
 ---
 ## #has_/text_of_/abstract 
 

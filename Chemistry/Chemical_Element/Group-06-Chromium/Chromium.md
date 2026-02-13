@@ -225,7 +225,7 @@ dv_has_:
     bar: Chrom
     bcl: Kromyo
     be: Хром
-    be-tarask: хром
+    be_tarask: хром
     bg: хром
     bho: क्रोमियम
     blk: ခရိုမီယမ်
@@ -244,12 +244,12 @@ dv_has_:
     da: krom
     de: Chrom
     de-at: Chrom
-    de-ch: Chrom
+    de_ch: Chrom
     dv: ކްރޯމިއަމް
     el: χρώμιο
     en: chromium
-    en-ca: chromium
-    en-gb: chromium
+    en_ca: chromium
+    en_gb: chromium
     eo: kromio
     es: cromo
     et: kroom
@@ -338,7 +338,7 @@ dv_has_:
     pnb: کرومیم
     ps: کروميم
     pt: cromo
-    pt-br: cromo
+    pt_br: cromo
     qu: Krumu
     ro: crom
     ru: хром
@@ -379,11 +379,11 @@ dv_has_:
     yo: Krómíọ̀mù
     yue: 鉻
     zh: 鉻
-    zh-cn: 铬
-    zh-hans: 铬
-    zh-hant: 鉻
-    zh-hk: 鉻
-    zh-tw: 鉻
+    zh_cn: 铬
+    zh_hans: 铬
+    zh_hant: 鉻
+    zh_hk: 鉻
+    zh_tw: 鉻
     zu: UmChiyangqwala
   number_of_:
     period: 4

@@ -92,7 +92,7 @@ dv_has_:
     bar: James Madison
     bcl: James Madison
     be: Джэймс Мэдзісан
-    be-tarask: Джэймз Мэдысан
+    be_tarask: Джэймз Мэдысан
     bg: Джеймс Мадисън
     bi: James Madison
     bn: জেমস ম্যাডিসন
@@ -116,8 +116,8 @@ dv_has_:
     ee: James Madison
     el: Τζέιμς Μάντισον
     en: James Madison
-    en-ca: James Madison
-    en-gb: James Madison
+    en_ca: James Madison
+    en_gb: James Madison
     en-us: James Madison
     eo: James Madison
     es: James Madison
@@ -193,7 +193,7 @@ dv_has_:
     pnb: جیمز میڈیسن
     ps: جيمز ماډيسن
     pt: James Madison
-    pt-br: James Madison
+    pt_br: James Madison
     qu: James Madison
     rmf: James Madison
     ro: James Madison

@@ -9,8 +9,8 @@ dv_has_:
     da: Chaos Computer Club
     de: Chaos Computer Club
     en: Chaos Computer Club
-    en-ca: Chaos Computer Club
-    en-gb: Chaos Computer Club
+    en_ca: Chaos Computer Club
+    en_gb: Chaos Computer Club
     eo: Ĥaosa Komputila Klubo
     es: Club de Computación Caos
     fa: باشگاه کامپیوتر آشوب
@@ -26,15 +26,15 @@ dv_has_:
     oc: Chaos Computer Club
     pl: Chaos Computer Club
     pt: Chaos Computer Club
-    pt-br: Chaos Computer Club
+    pt_br: Chaos Computer Club
     ru: Chaos Computer Club
     sl: Chaos Computer Club
     sq: Chaos Computer Club
     sv: Chaos Computer Club
     vi: Chaos Computer Club
     zh: 混沌计算机俱乐部
-    zh-cn: 混沌计算机俱乐部
-    zh-tw: 混沌計算機俱樂部
+    zh_cn: 混沌计算机俱乐部
+    zh_tw: 混沌計算機俱樂部
 aliases:
 - Chaos Computer Club
 - Club de Computación Caos

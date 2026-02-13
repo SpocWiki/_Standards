@@ -29,7 +29,7 @@ dv_has_:
     ceb: Brachycephalidae
     cs: ropušenkovití
     de: Sattelkröten
-    de-ch: Sattelkröten
+    de_ch: Sattelkröten
     en: Brachycephalidae
     eo: Braĥicefaledoj
     es: Brachycephalidae
@@ -55,7 +55,7 @@ dv_has_:
     oc: Brachycephalidae
     pl: Brachycephalidae
     pt: Brachycephalidae
-    pt-br: Brachycephalidae
+    pt_br: Brachycephalidae
     ro: Brachycephalidae
     ru: Короткоголовые лягушки
     sq: Brachycephalidae
@@ -66,8 +66,8 @@ dv_has_:
     vo: Brachycephalidae
     war: Brachycephalidae
     zh: 短头蟾科
-    zh-cn: 短头蟾科
-    zh-hans: 短头蟾科
+    zh_cn: 短头蟾科
+    zh_hans: 短头蟾科
 ---
 # [[Brachycephalidae]]
 

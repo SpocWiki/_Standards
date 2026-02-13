@@ -39,15 +39,15 @@ dv_has_:
   name_:
     ar: سفن رئيسية
     ast: Buque capital
-    be-tarask: капітальны карабель
+    be_tarask: капітальны карабель
     bs: Kapitalni brod
     ca: vaixell capital
     cs: kapitální loď
     de: Großkampfschiff
-    de-ch: Grosskampfschiff
+    de_ch: Grosskampfschiff
     en: capital ship
-    en-ca: capital ship
-    en-gb: capital ship
+    en_ca: capital ship
+    en_gb: capital ship
     es: buque capital
     eu: Ontzi kapital
     fa: کشتی پایگاه
@@ -67,8 +67,8 @@ dv_has_:
     sh: Kapitalni brod
     sl: velika vojna ladja
     sr: капитални брод
-    sr-ec: капитални брод
-    sr-el: kapitalni brod
+    sr_ec: капитални брод
+    sr_el: kapitalni brod
     sv: Capital ship
     tr: Hattiharp gemisi
     uk: Основні кораблі

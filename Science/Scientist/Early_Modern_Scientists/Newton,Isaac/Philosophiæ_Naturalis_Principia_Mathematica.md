@@ -75,7 +75,7 @@ dv_has_:
     as: ফিলোছ'ফিয়া নেচাৰেলিচ প্ৰিন্সিপিয়া মেথেমেটিকা
     ast: Philosophiæ naturalis principia mathematica
     az: Natural fəlsəfənin riyazi başlanğıcı
-    be-tarask: Матэматычныя пачаткі натуральнай філязофіі
+    be_tarask: Матэматычныя пачаткі натуральнай філязофіі
     bg: Математически начала на натурофилософията
     bho: प्रिंसिपिया नेचुरालिस प्रिंसिपिया मेथेमेटीका
     bn: ফিলোসফিয়া ন্যাচারালিস প্রিন্সিপিয়া ম্যাথামেটিকা
@@ -87,11 +87,11 @@ dv_has_:
     cy: Philosophiae Naturalis Principia Mathematica
     da: Philosophiae Naturalis Principia Mathematica
     de: Philosophiae Naturalis Principia Mathematica
-    de-ch: Philosophiae Naturalis Principia Mathematica
+    de_ch: Philosophiae Naturalis Principia Mathematica
     el: Philosophiae Naturalis Principia Mathematica
     en: Philosophiæ Naturalis Principia Mathematica
-    en-ca: Philosophiæ Naturalis Principia Mathematica
-    en-gb: Philosophiæ Naturalis Principia Mathematica
+    en_ca: Philosophiæ Naturalis Principia Mathematica
+    en_gb: Philosophiæ Naturalis Principia Mathematica
     eo: Philosophiae Naturalis Principia Mathematica
     es: Philosophiæ naturalis principia mathematica
     et: Philosophiae Naturalis Principia Mathematica
@@ -127,7 +127,7 @@ dv_has_:
     pl: Philosophiae naturalis principia mathematica
     pnb: پرنسیپیا میتھمٹیشیا
     pt: Philosophiae Naturalis Principia Mathematica
-    pt-br: Princípios Matemáticos da Filosofia Natural
+    pt_br: Princípios Matemáticos da Filosofia Natural
     ro: Philosophiae Naturalis Principia Mathematica
     ru: Математические начала натуральной философии
     sco: Philosophiæ Naturalis Principia Mathematica
@@ -148,12 +148,12 @@ dv_has_:
     yo: Philosophiæ Naturalis Principia Mathematica
     yue: 自然哲學嘅數學原理
     zh: 自然哲學的數學原理
-    zh-cn: 自然哲学的数学原理
-    zh-hans: 自然哲学的数学原理
-    zh-hant: 自然哲學的數學原理
-    zh-hk: 自然哲學的數學原理
-    zh-sg: 自然哲学的数学原理
-    zh-tw: 自然哲學的數學原理
+    zh_cn: 自然哲学的数学原理
+    zh_hans: 自然哲学的数学原理
+    zh_hant: 自然哲學的數學原理
+    zh_hk: 自然哲學的數學原理
+    zh_sg: 自然哲学的数学原理
+    zh_tw: 自然哲學的數學原理
 ---
 # [[Philosophiæ_Naturalis_Principia_Mathematica]] 
 

@@ -182,7 +182,7 @@ dv_has_:
     ban: kruna kria
     bar: Verb
     be: дзеяслоў
-    be-tarask: дзеяслоў
+    be_tarask: дзеяслоў
     bg: глагол
     bho: क्रिया
     bn: ক্রিয়াপদ
@@ -203,7 +203,7 @@ dv_has_:
     el: ρήμα
     eml: vêreb
     en: verb
-    en-gb: verb
+    en_gb: verb
     en-us: verb
     eo: verbo
     es: verbo
@@ -255,7 +255,7 @@ dv_has_:
     krj: panghulag
     ks: کرٛاوُت
     ku: lêker
-    ku-latn: lêker
+    ku_latn: lêker
     kw: verb
     ky: этиш
     la: verbum
@@ -278,14 +278,14 @@ dv_has_:
     mn: үйл үг
     mr: क्रियापद
     ms: kata kerja
-    ms-arab: کات کرجا
+    ms_arab: کات کرجا
     mt: verb
     my: ကြိယာ
     myv: теввал
     nan: tōng-sû
     nb: verb
     nds: Verb
-    nds-nl: waarkwoord
+    nds_nl: waarkwoord
     ne: क्रियापद
     new: यासु
     nl: werkwoord
@@ -299,7 +299,7 @@ dv_has_:
     pnb: فعل
     pnt: ρήμαν
     pt: verbo
-    pt-br: verbo
+    pt_br: verbo
     qu: ruray rimana
     rmf: verbos
     ro: verb
@@ -336,7 +336,7 @@ dv_has_:
     tr: fiil
     ts: Riendli
     tt: фигыль
-    tt-cyrl: фигыль
+    tt_cyrl: фигыль
     tyv: кылыг сөзү
     uk: дієслово
     ur: فعل
@@ -352,8 +352,8 @@ dv_has_:
     yo: ọ̀rọ̀ ìṣe
     yue: 動字
     zh: 动词
-    zh-hant: 動詞
-    zh-tw: 動詞
+    zh_hant: 動詞
+    zh_tw: 動詞
 ---
 # [[Verb]] 
 

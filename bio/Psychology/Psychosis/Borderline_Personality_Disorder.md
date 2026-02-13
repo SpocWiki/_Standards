@@ -9,18 +9,18 @@ dv_has_:
     az: Sərhəd şəxsiyyət pozuntusu
     azb: مرزی کیشیلیک پوزولماسی
     be: памежны разлад асобы
-    be-tarask: памежны разлад асобы
+    be_tarask: памежны разлад асобы
     bg: гранично личностно разстройство
     bn: বর্ডারলাইন পারসনালিটি ডিজর্ডার
     ca: trastorn límit de la personalitat
     cs: hraniční porucha osobnosti
     da: Borderline-personlighedsforstyrrelse
     de: emotional instabile Persönlichkeitsstörung
-    de-ch: Borderline-Persönlichkeitsstörung
+    de_ch: Borderline-Persönlichkeitsstörung
     el: Οριακή (μεταιχμιακή) διαταραχή προσωπικότητας
     en: borderline personality disorder
-    en-ca: Borderline personality disorder
-    en-gb: borderline personality disorder
+    en_ca: Borderline personality disorder
+    en_gb: borderline personality disorder
     eo: emocie malstabila personeca perturbo
     es: trastorno límite de la personalidad
     et: Piirialane isiksushäire
@@ -58,7 +58,7 @@ dv_has_:
     pap: Trastorno di personalidad borderline
     pl: osobowość chwiejna emocjonalnie typu borderline
     pt: perturbação borderline da personalidade
-    pt-br: Transtorno de personalidade limítrofe
+    pt_br: Transtorno de personalidade limítrofe
     ro: tulburare de personalitate borderline
     ru: пограничное расстройство личности
     sh: granični poremećaj ličnosti
@@ -66,8 +66,8 @@ dv_has_:
     sl: mejna osebnostna motnja
     so: Xanuunka shaqsiyeedka xasilooni-darro
     sr: гранични поремећај личности
-    sr-ec: Гранични поремећај личности
-    sr-el: Granični poremećaj ličnosti
+    sr_ec: Гранични поремећај личности
+    sr_el: Granični poremećaj ličnosti
     sv: borderline personlighetsstörning
     sw: Ugonjwa wa kutotulia kihisia
     th: ความผิดปกติทางบุคลิกภาพแบบก้ำกึ่ง
@@ -81,11 +81,11 @@ dv_has_:
     yi: בארדערליין פערזענלעכקייט-שטערונג
     yue: 邊緣型人格障礙
     zh: 边缘型人格障碍
-    zh-cn: 边缘型人格障碍
-    zh-hans: 边缘型人格障碍
-    zh-hant: 邊緣型人格障礙
-    zh-hk: 邊緣性人格障礙
-    zh-sg: 边缘型人格障碍
+    zh_cn: 边缘型人格障碍
+    zh_hans: 边缘型人格障碍
+    zh_hant: 邊緣型人格障礙
+    zh_hk: 邊緣性人格障礙
+    zh_sg: 边缘型人格障碍
 aliases:
 - Boderline Personality Disorder
 - borderline

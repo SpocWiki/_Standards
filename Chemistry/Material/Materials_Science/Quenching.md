@@ -69,7 +69,7 @@ dv_is_same_as:
 dv_has_:
   name_:
     ar: إخماد
-    be-tarask: загартоўка
+    be_tarask: загартоўка
     bg: Закаляване
     ca: Tremp per refredament
     ckb: کوینچ کردن
@@ -106,9 +106,9 @@ dv_has_:
     vi: Tôi
     yue: 淬火
     zh: 淬火
-    zh-hans: 淬火
-    zh-hant: 淬火
-    zh-hk: 淬火
+    zh_hans: 淬火
+    zh_hant: 淬火
+    zh_hk: 淬火
 ---
 # [[Quenching]] 
 

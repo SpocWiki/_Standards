@@ -60,7 +60,7 @@ dv_has_:
     ar: تاريخ علم الاجتماع
     ast: historia de la socioloxía
     ba: социология тарихы
-    be-tarask: гісторыя сацыялёгіі
+    be_tarask: гісторыя сацыялёгіі
     bn: সমাজতত্ত্বের ইতিহাস
     bs: historija sociologije
     ca: història de la sociologia
@@ -101,7 +101,7 @@ dv_has_:
     smn: sosiologia historjá
     sms: sosiologia historia
     sr: историја социологије
-    sr-ec: историја социологије
+    sr_ec: историја социологије
     sv: sociologins historia
     tr: sosyoloji tarihi
     tt: социология тарихы
@@ -109,9 +109,9 @@ dv_has_:
     vec: istòria de ła sociołozia
     yue: 社會學史
     zh: 社會學史
-    zh-hans: 社会学史
-    zh-hant: 社會學史
-    zh-hk: 社會學史
+    zh_hans: 社会学史
+    zh_hant: 社會學史
+    zh_hk: 社會學史
 ---
 # [[History_of_Sociology]] 
 

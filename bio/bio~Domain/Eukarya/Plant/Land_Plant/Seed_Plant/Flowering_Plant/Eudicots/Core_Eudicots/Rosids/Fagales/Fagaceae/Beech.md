@@ -124,7 +124,7 @@ dv_has_:
     azb: فیستیق
     ba: Бук
     be: бук
-    be-tarask: бук
+    be_tarask: бук
     bg: бук
     bs: Bukva
     bxr: Эбэрлиг модон
@@ -191,7 +191,7 @@ dv_has_:
     pl: buk
     pnb: بیچ
     pt: Faia
-    pt-br: Fagus
+    pt_br: Fagus
     qu: Haya
     ro: Fagus
     ru: бук
@@ -201,7 +201,7 @@ dv_has_:
     sl: bukev
     sq: Ahu
     sr: буква
-    sr-ec: буква
+    sr_ec: буква
     sv: boksläktet
     szl: buk
     tg: Рош
@@ -220,9 +220,9 @@ dv_has_:
     wuu: 水青冈属
     yue: 水青岡屬
     zh: 水青冈属
-    zh-cn: 水青冈属
-    zh-hans: 水青冈属
-    zh-tw: 水青岡屬
+    zh_cn: 水青冈属
+    zh_hans: 水青冈属
+    zh_tw: 水青岡屬
 ---
 # [[Beech]] 
 

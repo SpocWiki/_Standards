@@ -104,7 +104,7 @@ dv_has_:
     ba: Сёрфинг
     ban: Selancar
     be: сёрфінг
-    be-tarask: сэрфінг
+    be_tarask: сэрфінг
     bg: Сърфиране
     bn: সার্ফিং
     bo: རླབས་ཤུད།
@@ -162,7 +162,7 @@ dv_has_:
     oc: Surf
     pl: surfing
     pt: surfe
-    pt-br: surfe
+    pt_br: surfe
     ro: Surfing
     ru: сёрфинг
     sah: Сөрфиҥ
@@ -190,12 +190,12 @@ dv_has_:
     wuu: 冲浪
     yue: 滑浪
     zh: 衝浪
-    zh-cn: 冲浪
-    zh-hans: 冲浪
-    zh-hant: 衝浪
-    zh-hk: 衝浪
-    zh-sg: 冲浪
-    zh-tw: 衝浪
+    zh_cn: 冲浪
+    zh_hans: 冲浪
+    zh_hant: 衝浪
+    zh_hk: 衝浪
+    zh_sg: 冲浪
+    zh_tw: 衝浪
 ---
 # [[Surfing]] 
 

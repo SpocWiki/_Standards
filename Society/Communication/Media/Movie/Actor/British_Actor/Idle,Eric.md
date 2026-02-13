@@ -69,7 +69,7 @@ dv_has_:
     oc: Eric Idle
     pl: Eric Idle
     pt: Eric Idle
-    pt-br: Eric Idle
+    pt_br: Eric Idle
     ro: Eric Idle
     ru: Эрик Айдл
     sco: Eric Idle
@@ -78,8 +78,8 @@ dv_has_:
     sl: Eric Idle
     sq: Eric Idle
     sr: Ерик Ајдл
-    sr-ec: Ерик Ајдл
-    sr-el: Erik Ajdl
+    sr_ec: Ерик Ајдл
+    sr_el: Erik Ajdl
     sv: Eric Idle
     te: ఎరిక్ ఐడిల్
     th: เอริก ไอเดิล
@@ -88,9 +88,9 @@ dv_has_:
     ur: ایرک آئیڈل
     war: Eric Idle
     zh: 埃里克·艾德尔
-    zh-cn: 埃里克·埃德尔
-    zh-hans: 埃里克·埃德尔
-    zh-hant: 埃里克·埃德爾
+    zh_cn: 埃里克·埃德尔
+    zh_hans: 埃里克·埃德尔
+    zh_hant: 埃里克·埃德爾
 ---
 # [[Idle,Eric]] 
 

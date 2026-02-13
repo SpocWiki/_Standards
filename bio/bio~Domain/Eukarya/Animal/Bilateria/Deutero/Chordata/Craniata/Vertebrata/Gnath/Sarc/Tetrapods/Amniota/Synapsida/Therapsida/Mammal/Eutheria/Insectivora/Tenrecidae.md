@@ -46,17 +46,17 @@ dv_has_:
     avk: ratiavatoleem
     az: Tenreklər
     be: Тэнрэкавыя
-    be-tarask: Тэнрэкавыя
+    be_tarask: Тэнрэкавыя
     bg: тенрекови
     br: Tenrek
     ca: tenrecs
     ceb: Tenrecidae
     cs: bodlínovití
     de: Tenreks
-    de-ch: Tenreks
+    de_ch: Tenreks
     en: tenrecs
-    en-ca: Tenrecidae
-    en-gb: Tenrecidae
+    en_ca: Tenrecidae
+    en_gb: Tenrecidae
     en-us: tenrecs
     es: Tenrecidae
     eu: Tenrecidae
@@ -89,7 +89,7 @@ dv_has_:
     oc: Tenrecidae
     pl: Tenrekowate
     pt: Tenrecidae
-    pt-br: Tenrecidae
+    pt_br: Tenrecidae
     ro: Tenrecidae
     ru: Тенрековые
     sco: tenrec
@@ -101,9 +101,9 @@ dv_has_:
     vi: Tenrecidae
     war: Tenrecidae
     zh: 马岛猬科
-    zh-cn: 马岛猬科
-    zh-hans: 马岛猬科
-    zh-tw: 馬島猬科
+    zh_cn: 马岛猬科
+    zh_hans: 马岛猬科
+    zh_tw: 馬島猬科
 ---
 # [[Tenrecidae]]
 

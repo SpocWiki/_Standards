@@ -61,18 +61,18 @@ dv_has_:
     arz: محارى
     ast: Pleurotus
     be: вешанка
-    be-tarask: дрэўнавушка
+    be_tarask: дрэўнавушка
     bg: Pleurotus
     ca: Pleurotus
     ceb: Pleurotus
     cs: hlíva
     da: Østershat
     de: Seitlinge
-    de-ch: Seitlinge
+    de_ch: Seitlinge
     el: Πλευρώτους
     en: Pleurotus
-    en-ca: Pleurotus
-    en-gb: Pleurotus
+    en_ca: Pleurotus
+    en_gb: Pleurotus
     eo: Pleŭroto
     es: Pleurotus
     et: servik
@@ -105,7 +105,7 @@ dv_has_:
     oc: Pleurotus
     pl: boczniak
     pt: Pleurotus
-    pt-br: Pleurotus
+    pt_br: Pleurotus
     qu: Q'utu qumutu
     rki: ငွေမိုးမှို
     ro: Pleurotus
@@ -121,11 +121,11 @@ dv_has_:
     vo: Pleurotus
     war: Pleurotus
     zh: 側耳屬
-    zh-cn: 侧耳属
-    zh-hans: 侧耳属
-    zh-hant: 側耳屬
-    zh-hk: 側耳屬
-    zh-tw: 側耳屬
+    zh_cn: 侧耳属
+    zh_hans: 侧耳属
+    zh_hant: 側耳屬
+    zh_hk: 側耳屬
+    zh_tw: 側耳屬
 ---
 # [[Pleurotus]] 
 

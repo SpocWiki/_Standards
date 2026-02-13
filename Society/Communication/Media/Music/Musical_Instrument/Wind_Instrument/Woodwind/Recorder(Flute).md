@@ -83,7 +83,7 @@ dv_has_:
     ar: ريكوردر
     ast: Flauta duce
     be: блокфлейта
-    be-tarask: блёкфлейта
+    be_tarask: блёкфлейта
     bg: Блокфлейта
     ca: flauta dolça
     ckb: ڕیکۆردەر
@@ -125,7 +125,7 @@ dv_has_:
     nn: blokkfløyte
     pl: Flet prosty
     pt: flauta de bisel
-    pt-br: flauta doce
+    pt_br: flauta doce
     qu: Misk'i sirinka
     ro: flaut dulce
     ru: блокфлейта
@@ -141,9 +141,9 @@ dv_has_:
     uz: Blokfleyta
     yue: 牧童笛
     zh: 直笛
-    zh-cn: 竖笛
-    zh-hk: 木笛
-    zh-tw: 直笛
+    zh_cn: 竖笛
+    zh_hk: 木笛
+    zh_tw: 直笛
 ---
 # [[Recorder(Flute)]] 
 

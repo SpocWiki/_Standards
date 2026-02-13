@@ -60,7 +60,7 @@ dv_has_:
     ar: بوغروم
     az: talan
     be: пагром
-    be-tarask: пагром
+    be_tarask: пагром
     bg: Погром
     br: Pogrom
     ca: pogrom
@@ -94,22 +94,22 @@ dv_has_:
     ja: ポグロム
     ka: პოგრომი
     kk: Ойран
-    kk-arab: ويران
+    kk_arab: ويران
     kk-cn: ويران
-    kk-cyrl: Ойран
+    kk_cyrl: Ойран
     kk-kz: Ойран
-    kk-latn: Oýran
+    kk_latn: Oýran
     kk-tr: Oýran
     ko: 포그롬
     ku: pogrom
-    ku-latn: pogrom
+    ku_latn: pogrom
     lt: pogromas
     lv: grautiņš
     mk: Погром
     ml: പോഗ്രം
     ms: Pogrom
     nb: pogrom
-    nds-nl: pogrom
+    nds_nl: pogrom
     nl: pogrom
     nn: pogrom
     oc: Pogròm
@@ -117,7 +117,7 @@ dv_has_:
     pl: pogrom
     pnb: پوگروم
     pt: pogrom
-    pt-br: pogrom
+    pt_br: pogrom
     ro: pogrom
     ru: погром
     sc: Pogrom
@@ -127,8 +127,8 @@ dv_has_:
     sl: pogrom
     sq: Pogromi
     sr: погром
-    sr-ec: Погром
-    sr-el: Pogrom
+    sr_ec: Погром
+    sr_el: Pogrom
     sv: pogrom
     sw: Pogromu
     th: โพกรม

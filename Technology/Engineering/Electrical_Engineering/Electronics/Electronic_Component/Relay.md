@@ -63,7 +63,7 @@ dv_has_:
     ast: relé
     az: rele
     be: рэле
-    be-tarask: рэле
+    be_tarask: рэле
     bg: реле
     bn: রিলে
     ca: relé
@@ -113,8 +113,8 @@ dv_has_:
     sk: relé
     sl: rele
     sr: релеј
-    sr-ec: релеј
-    sr-el: relej
+    sr_ec: релеј
+    sr_el: relej
     sv: relä
     ta: உணாத்தி
     th: รีเลย์
@@ -123,12 +123,12 @@ dv_has_:
     vi: rơle
     yue: 繼電器
     zh: 继电器
-    zh-cn: 继电器
-    zh-hans: 继电器
-    zh-hant: 繼電器
-    zh-hk: 繼電器
-    zh-sg: 继电器
-    zh-tw: 繼電器
+    zh_cn: 继电器
+    zh_hans: 继电器
+    zh_hant: 繼電器
+    zh_hk: 繼電器
+    zh_sg: 继电器
+    zh_tw: 繼電器
 ---
 # [[Relay]] 
 

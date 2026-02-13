@@ -85,7 +85,7 @@ dv_has_:
     ba: Бренди
     bar: Weinbrand
     be: брэндзі
-    be-tarask: брэндзі
+    be_tarask: брэндзі
     bg: бренди
     ca: brandi
     cs: brandy
@@ -144,8 +144,8 @@ dv_has_:
     sk: brandy
     sl: vinjak
     sr: вињак
-    sr-ec: вињак
-    sr-el: vinjak
+    sr_ec: вињак
+    sr_el: vinjak
     sv: brandy
     sw: Brandi
     ta: பிராந்தி
@@ -162,11 +162,11 @@ dv_has_:
     yue: 罷蘭地
     zh: 白兰地
     zh-cn: 白兰地
-    zh-hans: 白兰地
-    zh-hant: 白蘭地
-    zh-hk: 白蘭地
-    zh-sg: 白兰地
-    zh-tw: 白蘭地
+    zh_hans: 白兰地
+    zh_hant: 白蘭地
+    zh_hk: 白蘭地
+    zh_sg: 白兰地
+    zh_tw: 白蘭地
 ---
 # [[Brandy]] 
 

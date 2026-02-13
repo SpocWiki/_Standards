@@ -172,7 +172,7 @@ dv_has_:
     avk: Henry Thoreau
     az: Henri Devid Toro
     be: Генры Дэйвід Тора
-    be-tarask: Генры Дэйвід Тора
+    be_tarask: Генры Дэйвід Тора
     bg: Хенри Дейвид Торо
     bi: Henry David Thoreau
     bn: হেনরি ডেভিড থরো
@@ -186,12 +186,12 @@ dv_has_:
     da: Henry David Thoreau
     dag: Henry David Thoreau
     de: Henry David Thoreau
-    de-ch: Henry David Thoreau
+    de_ch: Henry David Thoreau
     diq: Henry David Thoreau
     el: Χένρι Ντέιβιντ Θόρω
     en: Henry David Thoreau
-    en-ca: Henry David Thoreau
-    en-gb: Henry David Thoreau
+    en_ca: Henry David Thoreau
+    en_gb: Henry David Thoreau
     eo: Henry David Thoreau
     es: Henry David Thoreau
     et: Henry David Thoreau
@@ -236,7 +236,7 @@ dv_has_:
     mul: Henry David Thoreau
     nb: Henry David Thoreau
     nds: Henry David Thoreau
-    nds-nl: Henry David Thoreau
+    nds_nl: Henry David Thoreau
     ne: हेनरी डेभिड थोरो
     new: हेनरी डेभिड थोरो
     nl: Henry David Thoreau
@@ -250,7 +250,7 @@ dv_has_:
     pnb: ہنری ڈیوڈ تھوریو
     ps: هنري ډېوېډ تورو
     pt: Henry David Thoreau
-    pt-br: Henry David Thoreau
+    pt_br: Henry David Thoreau
     ro: Henry David Thoreau
     ru: Генри Дэвид Торо
     sc: Henry David Thoreau
@@ -261,14 +261,14 @@ dv_has_:
     sl: Henry David Thoreau
     sq: Henry David Thoreau
     sr: Henri Dejvid Toro
-    sr-ec: Хенри Дејвид Торо
-    sr-el: Henri Dejvid Toro
+    sr_ec: Хенри Дејвид Торо
+    sr_el: Henri Dejvid Toro
     sv: Henry David Thoreau
     sw: Henry David Thoreau
     ta: கென்றி டேவிட் தூரோ
     te: హెన్రీ డేవిడ్ థోరౌ
     tg: Ҳенри Девид Торо
-    tg-latn: Henri Devid Toro
+    tg_latn: Henri Devid Toro
     th: เฮนรี เดวิด ทอโร
     tl: Henry David Thoreau
     tr: Henry David Thoreau
@@ -284,12 +284,12 @@ dv_has_:
     yo: Henry David Thoreau
     yue: 亨利梭羅
     zh: 亨利·戴维·梭罗
-    zh-cn: 亨利·戴维·梭罗
+    zh_cn: 亨利·戴维·梭罗
     zh-hans: 亨利·戴维·梭罗
-    zh-hant: 亨利·戴維·梭羅
-    zh-hk: 亨利·戴維·梭羅
-    zh-sg: 亨利·戴维·梭罗
-    zh-tw: 亨利·戴維·梭羅
+    zh_hant: 亨利·戴維·梭羅
+    zh_hk: 亨利·戴維·梭羅
+    zh_sg: 亨利·戴维·梭罗
+    zh_tw: 亨利·戴維·梭羅
 ---
 # [[Thoreau,Henry_David]] 
 

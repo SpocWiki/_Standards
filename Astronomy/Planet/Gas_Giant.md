@@ -134,7 +134,7 @@ dv_has_:
     ast: xigante gaseosu
     az: qaz nəhəngi
     be: газавыя планеты
-    be-tarask: газавыя плянэты
+    be_tarask: газавыя плянэты
     bg: газов гигант
     bjn: raksasa gas
     bn: গ্যাসীয় দৈত্য
@@ -199,7 +199,7 @@ dv_has_:
     pms: gigant gasos
     pnb: گیسی جن
     pt: planeta gasoso
-    pt-br: gigante gasoso
+    pt_br: gigante gasoso
     ro: gigant gazos
     ru: газовая планета
     scn: giganti gassusu
@@ -212,8 +212,8 @@ dv_has_:
     so: neefaha waawayn
     sq: gjigant gazi
     sr: планета Јупитеровог типа
-    sr-ec: планета Јупитеровог типа
-    sr-el: planeta Jupiterovog tipa
+    sr_ec: планета Јупитеровог типа
+    sr_el: planeta Jupiterovog tipa
     sv: gasjätte
     ta: வளி அரக்கக்கோள்
     te: వాయు గోళం
@@ -230,12 +230,12 @@ dv_has_:
     xmf: გაზიშ გიგანტეფი
     yue: 氣體大行星
     zh: 氣體巨行星
-    zh-cn: 气态巨行星
-    zh-hans: 气态巨行星
-    zh-hant: 氣體巨行星
-    zh-hk: 氣體巨行星
-    zh-sg: 气态巨行星
-    zh-tw: 氣體巨行星
+    zh_cn: 气态巨行星
+    zh_hans: 气态巨行星
+    zh_hant: 氣體巨行星
+    zh_hk: 氣體巨行星
+    zh_sg: 气态巨行星
+    zh_tw: 氣體巨行星
 ---
 # [[Gas_Giant]] 
 

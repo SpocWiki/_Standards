@@ -159,7 +159,7 @@ dv_has_:
     pl: odcinek
     pms: Segment
     pt: segmento de reta
-    pt-br: segmento de reta
+    pt_br: segmento de reta
     qu: Siwk patma
     ro: Segment
     ru: отрезок
@@ -169,27 +169,27 @@ dv_has_:
     sl: daljica
     sq: Segmenti
     sr: дуж
-    sr-ec: Дуж
-    sr-el: Duž
+    sr_ec: Дуж
+    sr_el: Duž
     sv: linjestycke
     ta: கோட்டுத்துண்டு
     th: ส่วนของเส้นตรง
     tl: Linyang segmento
     tr: doğru parçası
     tt: кисемтә
-    tt-cyrl: кисемтә
+    tt_cyrl: кисемтә
     udm: гожлюкет
     uk: відрізок
     vi: đoạn thẳng
     wuu: 线段
     yue: 綫段
     zh: 线段
-    zh-cn: 线段
-    zh-hans: 线段
-    zh-hant: 線段
-    zh-hk: 線段
-    zh-sg: 线段
-    zh-tw: 線段
+    zh_cn: 线段
+    zh_hans: 线段
+    zh_hant: 線段
+    zh_hk: 線段
+    zh_sg: 线段
+    zh_tw: 線段
 ---
 # [[Line_Segment]] 
 

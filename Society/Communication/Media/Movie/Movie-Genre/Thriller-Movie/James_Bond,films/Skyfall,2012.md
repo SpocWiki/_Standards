@@ -15,11 +15,11 @@ dv_has_:
     cy: Skyfall
     da: Skyfall
     de: 'James Bond 007: Skyfall'
-    de-ch: 'James Bond 007: Skyfall'
+    de_ch: 'James Bond 007: Skyfall'
     el: Skyfall
     en: Skyfall
-    en-ca: Skyfall
-    en-gb: Skyfall
+    en_ca: Skyfall
+    en_gb: Skyfall
     eo: Skyfall
     es: Skyfall
     et: Skyfall
@@ -58,7 +58,7 @@ dv_has_:
     oc: Skyfall
     pl: Skyfall
     pt: Skyfall
-    pt-br: Skyfall
+    pt_br: Skyfall
     ro: Skyfall
     ru: '007: Координаты «Скайфолл»'
     sco: Skyfall
@@ -80,10 +80,10 @@ dv_has_:
     xmf: სკაიფოლი
     yue: 新鐵金剛之智破天凶城
     zh: 007大破天幕杀机
-    zh-cn: 007大破天幕杀机
-    zh-hans: 007大破天幕杀机
-    zh-hk: 新鐵金剛：智破天凶城
-    zh-sg: 空降危机
+    zh_cn: 007大破天幕杀机
+    zh_hans: 007大破天幕杀机
+    zh_hk: 新鐵金剛：智破天凶城
+    zh_sg: 空降危机
 aliases:
 - 007 Operacija Skyfall
 - 007 Skyfall

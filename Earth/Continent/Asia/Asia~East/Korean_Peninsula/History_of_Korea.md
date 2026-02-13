@@ -98,7 +98,7 @@ dv_has_:
     az: Koreya tarixi
     ba: Корея тарихы
     be: гісторыя Карэі
-    be-tarask: гісторыя Карэі
+    be_tarask: гісторыя Карэі
     bg: история на Корея
     bn: কোরিয়ার ইতিহাস
     ca: història de Corea
@@ -147,8 +147,8 @@ dv_has_:
     smn: Korea historjá
     sms: Korea historia
     sr: Историја Кореје
-    sr-ec: Историја Кореје
-    sr-el: Istorija Koreje
+    sr_ec: Историја Кореје
+    sr_el: Istorija Koreje
     sv: Koreas historia
     ta: கொரியாவின் வரலாறு
     th: ประวัติศาสตร์เกาหลี
@@ -158,10 +158,10 @@ dv_has_:
     uz: Koreya tarixi
     vi: Lịch sử Triều Tiên
     zh: 朝鲜半岛历史
-    zh-hans: 朝鲜半岛历史
-    zh-hant: 朝鮮半島歷史
-    zh-hk: 朝鮮半島歷史
-    zh-tw: 朝鮮半島歷史
+    zh_hans: 朝鲜半岛历史
+    zh_hant: 朝鮮半島歷史
+    zh_hk: 朝鮮半島歷史
+    zh_tw: 朝鮮半島歷史
 ---
 # [[History_of_Korea]]
 

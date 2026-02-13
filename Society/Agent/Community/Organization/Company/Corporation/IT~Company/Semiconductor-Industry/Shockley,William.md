@@ -122,7 +122,7 @@ dv_has_:
     az: Uilyam Bredford Şokli
     azb: ویلیام شاکلی
     be: Уільям Брэдфард Шоклі
-    be-tarask: Ўільям Шоклі
+    be_tarask: Ўільям Шоклі
     bg: Уилям Шокли
     bn: উইলিয়াম ব্র্যাডফোর্ড শকলি
     ca: William Shockley
@@ -133,8 +133,8 @@ dv_has_:
     de: William Bradford Shockley
     el: Γουίλλιαμ Μπράντφορντ Σόκλεϋ
     en: William Shockley
-    en-ca: William Shockley
-    en-gb: William Shockley
+    en_ca: William Shockley
+    en_gb: William Shockley
     eo: William Shockley
     es: William Bradford Shockley
     et: William Bradford Shockley
@@ -161,8 +161,8 @@ dv_has_:
     kn: ವಿಲಿಯಂ ಶಾಕ್ಲೆ
     ko: 윌리엄 쇼클리
     ku: William Shockley
-    ku-arab: وللام سهۆجکلەی
-    ku-latn: William Shockley
+    ku_arab: وللام سهۆجکلەی
+    ku_latn: William Shockley
     la: Gulielmus Shockley
     lv: Viljams Šoklijs
     mg: William Shockley
@@ -183,7 +183,7 @@ dv_has_:
     pnb: ولیم شوکلے
     ps: ویلیام شاکلي
     pt: William Bradford Shockley
-    pt-br: William Bradford Shockley
+    pt_br: William Bradford Shockley
     ro: William Shockley
     ru: Уильям Брэдфорд Шокли
     sa: विलियम शाक्ली
@@ -212,12 +212,12 @@ dv_has_:
     yo: William Shockley
     yue: 威廉索利
     zh: 威廉·肖克利
-    zh-cn: 威廉·肖克利
-    zh-hans: 威廉·肖克利
-    zh-hant: 威廉·肖克利
-    zh-hk: 威廉·肖克利
-    zh-sg: 威廉·肖克利
-    zh-tw: 威廉·肖克利
+    zh_cn: 威廉·肖克利
+    zh_hans: 威廉·肖克利
+    zh_hant: 威廉·肖克利
+    zh_hk: 威廉·肖克利
+    zh_sg: 威廉·肖克利
+    zh_tw: 威廉·肖克利
 ---
 # [[Shockley,William]] 
 

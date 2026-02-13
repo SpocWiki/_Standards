@@ -123,7 +123,7 @@ dv_has_:
     azb: اهلیلشدیرمک
     ba: сыерларны йортлаштыру
     be: адамашненне
-    be-tarask: прыручэньне
+    be_tarask: прыручэньне
     bg: одомашняване
     bn: গার্হস্থ্যকরণ
     br: doñvañ
@@ -198,7 +198,7 @@ dv_has_:
     pnb: پالتو بنانا
     ps: اېلَونه
     pt: domesticação
-    pt-br: domesticação
+    pt_br: domesticação
     qu: uywariy
     ro: domesticire
     ru: oдомашнивание

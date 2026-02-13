@@ -41,7 +41,7 @@ dv_has_:
     oc: Julius Maggi
     pl: Julius Maggi
     pt: Julius Maggi
-    pt-br: Julius Maggi
+    pt_br: Julius Maggi
     rm: Julius Maggi
     ru: Юлиус Магги
     sl: Julius Maggi

@@ -196,7 +196,7 @@ dv_has_:
     azb: ژرمن دیللری
     bar: germanische Sprochn
     be: германскія мовы
-    be-tarask: германскія мовы
+    be_tarask: германскія мовы
     bew: Jermanik
     bg: Германски езици
     bn: জার্মানীয় ভাষাসমূহ
@@ -208,13 +208,13 @@ dv_has_:
     cy: Ieithoedd Germanaidd
     da: germanske sprog
     de: Germanisch
-    de-ch: Germanische Sprachen
+    de_ch: Germanische Sprachen
     diq: Zıwanê Cermenki
     dsb: germaniske rěcy
     el: γερμανικές γλώσσες
     en: Germanic languages
-    en-ca: Germanic languages
-    en-gb: Germanic
+    en_ca: Germanic languages
+    en_gb: Germanic
     eo: ĝermana lingvaro
     es: lenguas germánicas
     et: germaani keeled
@@ -257,7 +257,7 @@ dv_has_:
     ko: 게르만어파
     ksh: Jermanische Sprooch
     ku: zimanên germanî
-    ku-latn: zimanên germanî
+    ku_latn: zimanên germanî
     kw: Yethow germanek
     ky: Герман тилдери
     la: linguae Germanicae
@@ -282,7 +282,7 @@ dv_has_:
     nap: Lengue Germaneche
     nb: germanske språk
     nds: germaansche Spraken
-    nds-nl: Germaanse sproaken
+    nds_nl: Germaanse sproaken
     ne: जर्मनेली भाषा परिवार
     new: जर्मनिक भाय्पुचः
     nl: Germaanse talen
@@ -299,7 +299,7 @@ dv_has_:
     pms: Lenghe germàniche
     pnb: جرمن بولیاں
     pt: línguas germânicas
-    pt-br: língua germânica
+    pt_br: língua germânica
     qu: Qirmanu simikuna
     ro: limbi germanice
     ru: германские языки
@@ -341,10 +341,10 @@ dv_has_:
     yue: 日耳曼語族
     zea: Germaonse taelen
     zh: 日耳曼语族
-    zh-cn: 日耳曼语族
-    zh-hans: 日耳曼语族
-    zh-hant: 日耳曼語族
-    zh-tw: 日耳曼語族
+    zh_cn: 日耳曼语族
+    zh_hans: 日耳曼语族
+    zh_hant: 日耳曼語族
+    zh_tw: 日耳曼語族
 ---
 # [[LangFamily-Germanic]] 
 

@@ -79,7 +79,7 @@ dv_has_:
     ast: paramilitar
     az: Paramilitar
     be: ваенізаваная арганізацыя
-    be-tarask: ваенізаваная арганізацыя
+    be_tarask: ваенізаваная арганізацыя
     bg: Паравоенни
     bn: আধাসামরিক বাহিনী
     br: aozadur damsoudardel
@@ -92,7 +92,7 @@ dv_has_:
     de: Paramilitär
     el: παραστρατιωτική οργάνωση
     en: paramilitary organization
-    en-gb: paramilitary
+    en_gb: paramilitary
     eo: kvazaŭmilitistaro
     es: grupo paramilitar
     et: Paramilitaarne ühendus
@@ -114,7 +114,7 @@ dv_has_:
     ka: პარამილიტარისტული ორგანიზაცია
     ko: 준군사조직
     ku: rêxistina paramîlîter
-    ku-latn: rêxistina paramîlîter
+    ku_latn: rêxistina paramîlîter
     la: Copiae paramilitares
     lt: sukarintoji organizacija
     lv: paramilitāra organizācija
@@ -137,8 +137,8 @@ dv_has_:
     sl: paravojaška organizacija
     sq: Paramilitar
     sr: паравојна формација
-    sr-ec: паравојна формација
-    sr-el: paravojna formacija
+    sr_ec: паравојна формација
+    sr_el: paravojna formacija
     sv: paramilitär
     ta: துணை இராணுவப் படை
     th: กำลังกึ่งทหาร
@@ -149,14 +149,14 @@ dv_has_:
     vi: tổ chức bán quân sự
     yue: 準軍事部隊
     zh: 準軍事部隊
-    zh-cn: 准军事部队
-    zh-hans: 准军事部队
-    zh-hant: 準軍事部隊
-    zh-hk: 準軍事部隊
-    zh-mo: 準軍事部隊
+    zh_cn: 准军事部队
+    zh_hans: 准军事部队
+    zh_hant: 準軍事部隊
+    zh_hk: 準軍事部隊
+    zh_mo: 準軍事部隊
     zh-my: 准军事部队
-    zh-sg: 准军事部队
-    zh-tw: 準軍事部隊
+    zh_sg: 准军事部队
+    zh_tw: 準軍事部隊
 ---
 # [[Paramilitary_Organization]] 
 

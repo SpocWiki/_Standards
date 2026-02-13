@@ -54,7 +54,7 @@ dv_has_:
     pcm: Spirochaetae
     pl: Spirochaetae
     pt: Spirochaetae
-    pt-br: Spirochaetae
+    pt_br: Spirochaetae
     ro: Spirochaetae
     ru: Spirochaetae
     sq: Spirochaetae
@@ -64,7 +64,7 @@ dv_has_:
     vo: Spirochaetae
     war: Spirochaetae
     zh: 螺旋體
-    zh-hans: 螺旋体
+    zh_hans: 螺旋体
 ---
 # [[Spirochaetes]] 
 

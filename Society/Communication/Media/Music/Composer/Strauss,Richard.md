@@ -150,7 +150,7 @@ dv_has_:
     ba: Рихард Штраус
     bar: Richard Strauss
     be: Рыхард Штраус
-    be-tarask: Рыхард Штраўс
+    be_tarask: Рыхард Штраўс
     bg: Рихард Щраус
     br: Richard Strauss
     bs: Richard Strauss
@@ -208,7 +208,7 @@ dv_has_:
     pam: Richard Strauss
     pl: Richard Strauss
     pt: Richard Strauss
-    pt-br: Richard Strauss
+    pt_br: Richard Strauss
     rm: Richard Strauss
     ro: Richard Strauss
     ru: Рихард Штраус
@@ -230,9 +230,9 @@ dv_has_:
     wuu: 理查德·施特劳斯
     yue: 理察·史特勞斯
     zh: 理查德·施特劳斯
-    zh-cn: 理查·斯特劳斯
-    zh-hant: 理查·斯特勞斯
-    zh-tw: 理查·史特勞斯
+    zh_cn: 理查·斯特劳斯
+    zh_hant: 理查·斯特勞斯
+    zh_tw: 理查·史特勞斯
 ---
 # [[Strauss,Richard]] 
 

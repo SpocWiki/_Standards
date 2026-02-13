@@ -99,18 +99,18 @@ dv_has_:
     ast: filatelia
     az: filateliya
     be: філатэлія
-    be-tarask: філятэлія
+    be_tarask: філятэлія
     bg: филателия
     bs: filatelija
     ca: filatèlia
     cs: filatelie
     da: filateli
     de: Philatelie
-    de-ch: Philatelie
+    de_ch: Philatelie
     el: φιλοτελισμός
     en: philately
-    en-ca: philately
-    en-gb: philately
+    en_ca: philately
+    en_gb: philately
     eo: filatelo
     es: filatelia
     et: filateelia
@@ -133,11 +133,11 @@ dv_has_:
     ja: 郵便趣味
     ka: ფილატელია
     kk: филателия
-    kk-arab: فىيلاتەلىييا
+    kk_arab: فىيلاتەلىييا
     kk-cn: فىيلاتەلىييا
-    kk-cyrl: филателия
+    kk_cyrl: филателия
     kk-kz: филателия
-    kk-latn: fïlatelïya
+    kk_latn: fïlatelïya
     kk-tr: fïlatelïya
     ko: 우취
     ku: pûlhezî
@@ -155,7 +155,7 @@ dv_has_:
     oc: filatelia
     pl: filatelistyka
     pt: filatelia
-    pt-br: filatelia
+    pt_br: filatelia
     ro: filatelie
     rsk: Филателия
     ru: филателия
@@ -168,8 +168,8 @@ dv_has_:
     sms: filatelia
     sq: filatelia
     sr: филателија
-    sr-ec: филателија
-    sr-el: filatelija
+    sr_ec: филателија
+    sr_el: filatelija
     sv: filateli
     ta: அஞ்சற்றலையியல்
     tr: filateli
@@ -180,12 +180,12 @@ dv_has_:
     wuu: 邮票研究
     yue: 集郵學
     zh: 郵票研究
-    zh-cn: 邮票研究
-    zh-hans: 邮票研究
-    zh-hant: 郵票研究
-    zh-hk: 郵票研究
-    zh-sg: 邮票研究
-    zh-tw: 郵票研究
+    zh_cn: 邮票研究
+    zh_hans: 邮票研究
+    zh_hant: 郵票研究
+    zh_hk: 郵票研究
+    zh_sg: 邮票研究
+    zh_tw: 郵票研究
 ---
 # [[Philately]] 
 

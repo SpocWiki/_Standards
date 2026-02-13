@@ -132,7 +132,7 @@ dv_has_:
     ast: edición de llibros
     az: nəşriyyat işi
     be: выдавецкая справа
-    be-tarask: выдавецкая справа
+    be_tarask: выдавецкая справа
     bg: Издателска дейност
     bn: প্রকাশনা
     br: Embannerezh
@@ -143,11 +143,11 @@ dv_has_:
     cy: cyhoeddiad
     da: udgivelse
     de: Veröffentlichung
-    de-ch: Edition
+    de_ch: Edition
     el: εκδόσεις
     en: publishing
-    en-ca: publishing
-    en-gb: publishing
+    en_ca: publishing
+    en_gb: publishing
     eo: eldonado
     es: edición
     et: Kirjastamine
@@ -186,7 +186,7 @@ dv_has_:
     mn: Хэвлэн нийтлэх
     mr: प्रकाशन
     ms: penerbitan
-    ms-arab: ڤنربيتن
+    ms_arab: ڤنربيتن
     mzn: تنککری
     nan: Chhut-pán
     nb: forlagsvirksomhet
@@ -195,7 +195,7 @@ dv_has_:
     oc: edicion
     pl: publikacja
     pt: editoração
-    pt-br: Editoração
+    pt_br: Editoração
     ro: editare
     ru: издательское дело
     sat: ᱯᱟᱨᱥᱟᱞ
@@ -204,8 +204,8 @@ dv_has_:
     sl: založništvo
     sq: Botuesi
     sr: издаваштво
-    sr-ec: издаваштво
-    sr-el: izdavaštvo
+    sr_ec: издаваштво
+    sr_el: izdavaštvo
     sv: publicering
     ta: பதிப்பகம்
     te: ప్రచురణ
@@ -213,7 +213,7 @@ dv_has_:
     th: การจัดพิมพ์
     tr: yayıncılık
     tt: матбагачылык
-    tt-cyrl: матбагачылык
+    tt_cyrl: матбагачылык
     uk: видавнича справа
     ur: اشاعت
     uz: Noshirlik
@@ -222,14 +222,14 @@ dv_has_:
     wuu: 出版
     yue: 出版
     zh: 出版
-    zh-cn: 出版
-    zh-hans: 出版
-    zh-hant: 出版
-    zh-hk: 出版
-    zh-mo: 出版
+    zh_cn: 出版
+    zh_hans: 出版
+    zh_hant: 出版
+    zh_hk: 出版
+    zh_mo: 出版
     zh-my: 出版
-    zh-sg: 出版
-    zh-tw: 出版
+    zh_sg: 出版
+    zh_tw: 出版
 ---
 # [[Publishing]] 
 

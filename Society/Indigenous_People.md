@@ -157,7 +157,7 @@ dv_has_:
     ba: Төп халыҡтар
     ban: Wong krama sujati
     be: карэнныя народы
-    be-tarask: тубыльцы
+    be_tarask: тубыльцы
     bg: Коренни народи
     bn: আদিবাসী জনগোষ্ঠী
     ca: pobles indígenes
@@ -191,7 +191,7 @@ dv_has_:
     hy: Տեղաբնիկ ժողովուրդներ
     id: orang pribumi
     ike-cans: ᓄᓇᖃᖅᑳᖅᓯᒪᔪᑦ
-    ike-latn: nunaqaqqaaqsimajut
+    ike_latn: nunaqaqqaaqsimajut
     inh: Хьалха ден даьха къамаш
     io: Indijena populi
     is: Frumbyggjar
@@ -201,11 +201,11 @@ dv_has_:
     jv: Pribumi
     ka: აბორიგენი
     kk: Аборигендер
-    kk-arab: ابورىيگەندەر
+    kk_arab: ابورىيگەندەر
     kk-cn: ابورىيگەندەر
-    kk-cyrl: аборигендер
+    kk_cyrl: аборигендер
     kk-kz: аборигендер
-    kk-latn: aborïgender
+    kk_latn: aborïgender
     kk-tr: aborïgender
     kn: ಸ್ಥಳೀಯ ಜನರು
     ko: 원주민
@@ -236,7 +236,7 @@ dv_has_:
     pag: Saray soinap
     pl: ludy tubylcze
     pt: povo indígena
-    pt-br: povo indígena
+    pt_br: povo indígena
     qu: Ayllu runa
     ro: indigen
     ru: коренные народы
@@ -261,7 +261,7 @@ dv_has_:
     tl: mga katutubo
     tr: yerli halklar
     tt: асаба халыклар
-    tt-cyrl: җирле халык
+    tt_cyrl: җирле халык
     uk: корінні народи
     ur: مقامی لوگ
     uz: Aborigenlar
@@ -270,12 +270,12 @@ dv_has_:
     wuu: 土著
     yue: 原居民
     zh: 原住民
-    zh-cn: 原住民
-    zh-hans: 原住民
-    zh-hant: 原住民
-    zh-hk: 原住民
-    zh-sg: 原住民
-    zh-tw: 原住民
+    zh_cn: 原住民
+    zh_hans: 原住民
+    zh_hant: 原住民
+    zh_hk: 原住民
+    zh_sg: 原住民
+    zh_tw: 原住民
 ---
 # [[Indigenous_People]] 
 

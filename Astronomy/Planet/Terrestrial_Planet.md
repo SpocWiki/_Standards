@@ -124,7 +124,7 @@ dv_has_:
     ar: كوكب أرضي
     ast: planeta terrestre
     be: планеты зямной групы
-    be-tarask: плянэта зямнога тыпу
+    be_tarask: плянэта зямнога тыпу
     bg: земеподобна планета
     bn: শিলাময় গ্রহ
     bs: terestrička planeta
@@ -173,7 +173,7 @@ dv_has_:
     mn: хөрстэй гариг
     mr: खडकाळ ग्रह
     ms: planet bumian
-    ms-arab: ڤلانيت بومين
+    ms_arab: ڤلانيت بومين
     mt: pjaneta terrestri
     nan: tē-kiû-hêng he̍k-chheⁿ
     nb: terrestrisk planet
@@ -186,7 +186,7 @@ dv_has_:
     pnb: زمین ورگا پاندھی
     ps: ځمکنۍ سياره
     pt: planeta telúrico
-    pt-br: planeta telúrico
+    pt_br: planeta telúrico
     ro: planetă terestră
     ru: землеподобная планета
     scn: pianeta tirrestri
@@ -198,8 +198,8 @@ dv_has_:
     smn: keđgiplaaneet
     so: meere dhagaxley
     sr: терестричка планета
-    sr-ec: терестричка планета
-    sr-el: terestrička planeta
+    sr_ec: терестричка планета
+    sr_el: terestrička planeta
     sv: stenplanet
     ta: உட்கோள்
     te: మృత్తికా గ్రహం
@@ -217,12 +217,12 @@ dv_has_:
     yi: ערדישער פלאנעט
     yue: 類地行星
     zh: 类地行星
-    zh-cn: 类地行星
-    zh-hans: 类地行星
-    zh-hant: 類地行星
-    zh-hk: 類地行星
-    zh-sg: 类地行星
-    zh-tw: 類地行星
+    zh_cn: 类地行星
+    zh_hans: 类地行星
+    zh_hant: 類地行星
+    zh_hk: 類地行星
+    zh_sg: 类地行星
+    zh_tw: 類地行星
 ---
 # [[Terrestrial_Planet]] 
 

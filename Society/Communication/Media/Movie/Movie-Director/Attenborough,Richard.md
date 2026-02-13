@@ -57,8 +57,8 @@ dv_has_:
     ee: Richard Attenborough
     el: Ρίτσαρντ Ατένμπορο
     en: Richard Attenborough
-    en-ca: Richard Attenborough
-    en-gb: Richard Attenborough
+    en_ca: Richard Attenborough
+    en_gb: Richard Attenborough
     eo: Richard Attenborough
     es: Richard Attenborough
     eu: Richard Attenborough
@@ -99,7 +99,7 @@ dv_has_:
     pa: ਰਿਚਰਡ ਐਟਨਬਰੋ
     pl: Richard Attenborough
     pt: Richard Attenborough
-    pt-br: Richard Attenborough
+    pt_br: Richard Attenborough
     ro: Richard Attenborough
     ru: Ричард Аттенборо
     sco: Richard Attenborough
@@ -126,9 +126,9 @@ dv_has_:
     yo: Richard Attenborough
     yue: 李察艾登布祿
     zh: 李察·艾登堡祿
-    zh-cn: 理查德·阿滕伯勒
+    zh_cn: 理查德·阿滕伯勒
     zh-my: 李察·艾登保禄
-    zh-sg: 李察·艾登保禄
+    zh_sg: 李察·艾登保禄
 ---
 #has_/sibling :: [[Attenborough,David]]
 

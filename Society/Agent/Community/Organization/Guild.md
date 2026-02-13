@@ -91,7 +91,7 @@ dv_has_:
     az: Sex
     bar: Zumft
     be: Гільдыі
-    be-tarask: цэх
+    be_tarask: цэх
     bg: Еснаф
     ca: gremi
     cs: cech
@@ -120,11 +120,11 @@ dv_has_:
     ja: ギルド
     ka: გილდია
     kk: жөндейтін цех
-    kk-arab: جوندەيتىن تسەح
+    kk_arab: جوندەيتىن تسەح
     kk-cn: جوندەيتىن تسەح
-    kk-cyrl: Жөндейтін цех
+    kk_cyrl: Жөндейтін цех
     kk-kz: Жөндейтін цех
-    kk-latn: jöndeýtin cex
+    kk_latn: jöndeýtin cex
     kk-tr: Jöndeýtin cex
     ko: 동업조합
     ky: Цех
@@ -146,8 +146,8 @@ dv_has_:
     sl: ceh
     sq: Esnafi
     sr: еснаф
-    sr-ec: еснаф
-    sr-el: esnaf
+    sr_ec: еснаф
+    sr_el: esnaf
     sv: skråväsen
     tl: Kapisanan
     tr: lonca
@@ -155,12 +155,12 @@ dv_has_:
     uk: цех
     wuu: 同业行会
     zh: 行會 (歐洲11-19世紀)
-    zh-cn: 同业公会
-    zh-hans: 同业公会
-    zh-hant: 同業公會
-    zh-hk: 同業公會
-    zh-sg: 同业公会
-    zh-tw: 同業公會
+    zh_cn: 同业公会
+    zh_hans: 同业公会
+    zh_hant: 同業公會
+    zh_hk: 同業公會
+    zh_sg: 同业公会
+    zh_tw: 同業公會
 ---
 # [[Guild]] 
 

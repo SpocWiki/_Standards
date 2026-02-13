@@ -16,8 +16,8 @@ dv_has_:
     cs: Acidobacteriota
     de: Acidobacteriota
     en: Acidobacteriota
-    en-ca: Acidobacteriota
-    en-gb: Acidobacteriota
+    en_ca: Acidobacteriota
+    en_gb: Acidobacteriota
     eo: Acidobacteriota
     es: Acidobacteriota
     eu: Acidobacteriota
@@ -37,7 +37,7 @@ dv_has_:
     oc: Acidobacteriota
     pl: Acidobacteriota
     pt: Acidobacteriota
-    pt-br: Acidobacteriota
+    pt_br: Acidobacteriota
     ro: Acidobacteriota
     ru: Acidobacteriota
     sq: Acidobacteriota

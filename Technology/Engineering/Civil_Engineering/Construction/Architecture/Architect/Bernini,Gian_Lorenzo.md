@@ -48,7 +48,7 @@ dv_has_:
     az: Covanni Lorenso Bernini
     ba: Джованни Лоренцо Бернини
     be: Джавані Ларэнца Берніні
-    be-tarask: Джаваньні Лярэнца Бэрніні
+    be_tarask: Джаваньні Лярэнца Бэрніні
     bg: Джовани Лоренцо Бернини
     ca: Gian Lorenzo Bernini
     ckb: جان لۆرێنزۆ بێرنینی
@@ -58,8 +58,8 @@ dv_has_:
     de: Gian Lorenzo Bernini
     el: Τζαν Λορέντσο Μπερνίνι
     en: Gian Lorenzo Bernini
-    en-ca: Gian Lorenzo Bernini
-    en-gb: Gian Lorenzo Bernini
+    en_ca: Gian Lorenzo Bernini
+    en_gb: Gian Lorenzo Bernini
     en-us: Gian Lorenzo Bernini
     eo: Gian Lorenzo Bernini
     es: Gian Lorenzo Bernini
@@ -82,11 +82,11 @@ dv_has_:
     ja: ジャン・ロレンツォ・ベルニーニ
     ka: ჯოვანი ლორენცო ბერნინი
     kk: Лоренцо Бернини
-    kk-arab: لورەنتسو بەرنىينىي
+    kk_arab: لورەنتسو بەرنىينىي
     kk-cn: لورەنتسو بەرنىينىي
-    kk-cyrl: Лоренцо Бернини
+    kk_cyrl: Лоренцо Бернини
     kk-kz: Лоренцо Бернини
-    kk-latn: Lorenco Bernïnï
+    kk_latn: Lorenco Bernïnï
     kk-tr: Lorenco Bernïnï
     ko: 잔 로렌초 베르니니
     la: Ioannes Laurentius Bernini
@@ -104,7 +104,7 @@ dv_has_:
     pl: Giovanni Lorenzo Bernini
     pms: Gian Lorenzo Bernini
     pt: Gian Lorenzo Bernini
-    pt-br: Gian Lorenzo Bernini
+    pt_br: Gian Lorenzo Bernini
     qu: Gian Lorenzo Bernini
     ro: Gian Lorenzo Bernini
     ru: Джованни Лоренцо Бернини
@@ -114,8 +114,8 @@ dv_has_:
     sl: Gian Lorenzo Bernini
     sq: Gian Lorenzo Bernini
     sr: Ђовани Лоренцо Бернини
-    sr-ec: Ђовани Лоренцо Бернини
-    sr-el: Đovani Lorenco Bernini
+    sr_ec: Ђовани Лоренцо Бернини
+    sr_el: Đovani Lorenco Bernini
     sv: Giovanni Lorenzo Bernini
     tg: Бернини, Ҷованни Лоренсо
     th: จัน โลเรนโซ แบร์นีนี
@@ -130,12 +130,12 @@ dv_has_:
     wuu: 吉安·洛伦佐·贝尼尼
     yue: 吉安·洛倫佐·貝尼尼
     zh: 吉安·洛伦佐·贝尼尼
-    zh-cn: 吉安·洛伦佐·贝尼尼
-    zh-hans: 吉安·洛伦佐·贝尼尼
-    zh-hant: 吉安·洛倫佐·貝尼尼
-    zh-hk: 吉安·洛倫佐·貝尼尼
-    zh-sg: 吉安·洛伦佐·贝尼尼
-    zh-tw: 吉安·洛倫佐·貝尼尼
+    zh_cn: 吉安·洛伦佐·贝尼尼
+    zh_hans: 吉安·洛伦佐·贝尼尼
+    zh_hant: 吉安·洛倫佐·貝尼尼
+    zh_hk: 吉安·洛倫佐·貝尼尼
+    zh_sg: 吉安·洛伦佐·贝尼尼
+    zh_tw: 吉安·洛倫佐·貝尼尼
 ---
 #has_/time_/started ::  1598-12-07
 #has_/time_/stopped  ::  1680-11-28 

@@ -34,7 +34,7 @@ dv_has_:
     arz: غمديات
     ast: Coleoidea
     az: Koleoidealar
-    be-tarask: Coleoidea
+    be_tarask: Coleoidea
     bg: Coleoidea
     ca: Dibranqui
     ceb: Coleoidea
@@ -71,7 +71,7 @@ dv_has_:
     oc: Coleoidea
     pl: płaszczoobrosłe
     pt: Coleoidea
-    pt-br: Coleoidea
+    pt_br: Coleoidea
     ro: Coleoidea
     ru: двужаберные
     sk: Dvojžiabrovce
@@ -86,8 +86,8 @@ dv_has_:
     vo: Coleoidea
     war: Coleoidea
     zh: 蛸亞綱
-    zh-cn: 蛸亞綱
-    zh-hans: 蛸亚纲
+    zh_cn: 蛸亞綱
+    zh_hans: 蛸亚纲
 ---
 ## Phylogeny 
 

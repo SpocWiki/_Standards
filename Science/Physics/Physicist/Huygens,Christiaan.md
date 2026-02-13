@@ -164,7 +164,7 @@ dv_has_:
     az: Xristian Hüygens
     azb: کریستیان هویقنس
     be: Хрысціян Гюйгенс
-    be-tarask: Крыстыян Гюйгэнс
+    be_tarask: Крыстыян Гюйгэнс
     bg: Кристиан Хюйгенс
     bn: ক্রিস্টিয়ান হাইগেনস
     bs: Christiaan Huygens
@@ -231,7 +231,7 @@ dv_has_:
     pms: Christiaan Huygens
     ps: کريسټيان هايګنز
     pt: Christiaan Huygens
-    pt-br: Christiaan Huygens
+    pt_br: Christiaan Huygens
     ro: Christiaan Huygens
     ru: Христиан Гюйгенс
     rue: Гюйґенс, Христіан
@@ -260,7 +260,7 @@ dv_has_:
     yi: כריסטיאן הויגנס
     yue: 惠更斯
     zh: 克里斯蒂安·惠更斯
-    zh-hans: 克里斯蒂安·惠更斯
+    zh_hans: 克里斯蒂安·惠更斯
 ---
 # [[Huygens,Christiaan]] 
 

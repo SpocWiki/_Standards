@@ -179,7 +179,7 @@ dv_has_:
     ba: Брюс Ли
     bcl: Bruce Lee
     be: Брус Лі
-    be-tarask: Брус Лі
+    be_tarask: Брус Лі
     bg: Брус Лий
     bi: Bruce Lee
     bn: ব্রুস লি
@@ -194,14 +194,14 @@ dv_has_:
     cy: Bruce Lee
     da: Bruce Lee
     de: Bruce Lee
-    de-ch: Bruce Lee
+    de_ch: Bruce Lee
     diq: Bruce Lee
     dty: ब्रुस ली
     ee: Bruce Lee
     el: Μπρους Λη
     en: Bruce Lee
-    en-ca: Bruce Lee
-    en-gb: Bruce Lee
+    en_ca: Bruce Lee
+    en_gb: Bruce Lee
     eo: Bruce Lee
     es: Bruce Lee
     et: Bruce Lee
@@ -260,7 +260,7 @@ dv_has_:
     nap: Bruce Lee
     nb: Bruce Lee
     nds: Bruce Lee
-    nds-nl: Bruce Lee
+    nds_nl: Bruce Lee
     ne: ब्रुस ली
     nl: Bruce Lee
     nn: Bruce Lee
@@ -273,7 +273,7 @@ dv_has_:
     pnb: بروس لی
     ps: بروس لي
     pt: Bruce Lee
-    pt-br: Bruce Lee
+    pt_br: Bruce Lee
     qu: Bruce Lee
     ro: Brusli
     ru: Брюс Ли
@@ -308,13 +308,13 @@ dv_has_:
     yo: Bruce Lee
     yue: 李小龍
     zh: 李小龍
-    zh-cn: 李小龙
-    zh-hans: 李小龙
-    zh-hant: 李小龍
-    zh-hk: 李小龍
-    zh-mo: 李小龍
-    zh-sg: 李小龙
-    zh-tw: 李小龍
+    zh_cn: 李小龙
+    zh_hans: 李小龙
+    zh_hant: 李小龍
+    zh_hk: 李小龍
+    zh_mo: 李小龍
+    zh_sg: 李小龙
+    zh_tw: 李小龍
 ---
 # [[Lee,Bruce]] 
 

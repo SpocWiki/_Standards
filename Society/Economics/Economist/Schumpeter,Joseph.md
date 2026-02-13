@@ -124,7 +124,7 @@ dv_has_:
     az: Yozef Şumpeter
     ba: Йозеф Шумпетер
     be: Ёзэф Шумпетэр
-    be-tarask: Ёзэф Шумпэтэр
+    be_tarask: Ёзэф Шумпэтэр
     bg: Йозеф Шумпетер
     bn: ইয়োজেফ শুম্পেটার
     ca: Joseph Schumpeter
@@ -169,7 +169,7 @@ dv_has_:
     pl: Joseph Schumpeter
     ps: یوزف شومپیتر
     pt: Joseph Schumpeter
-    pt-br: Joseph Schumpeter
+    pt_br: Joseph Schumpeter
     ro: Joseph Schumpeter
     ru: Йозеф Шумпетер
     sh: Joseph Schumpeter
@@ -184,8 +184,8 @@ dv_has_:
     vi: Joseph Schumpeter
     yue: 約瑟·岑彼達
     zh: 约瑟夫·熊彼特
-    zh-hant: 約瑟夫·熊彼得
-    zh-hk: 約瑟·岑彼達
+    zh_hant: 約瑟夫·熊彼得
+    zh_hk: 約瑟·岑彼達
 ---
 # [[Schumpeter,Joseph]] 
 

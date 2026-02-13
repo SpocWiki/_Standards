@@ -68,7 +68,7 @@ dv_has_:
     ast: fuerza intermolecular
     az: Molekullararası təsir qüvvələri
     be: міжмалекулярнае ўзаемадзеянне
-    be-tarask: міжмалекулярная сіла
+    be_tarask: міжмалекулярная сіла
     bn: আন্তঃআণবিক বল
     bs: Međumolekulska sila
     ca: Força intermolecular
@@ -78,8 +78,8 @@ dv_has_:
     de: Zwischenmolekulare Kräfte
     el: Διαμοριακές δυνάμεις
     en: intermolecular force
-    en-ca: intermolecular force
-    en-gb: intermolecular force
+    en_ca: intermolecular force
+    en_gb: intermolecular force
     eo: intermolekula forto
     es: fuerza intermolecular
     eu: indar intermolekular
@@ -107,7 +107,7 @@ dv_has_:
     om: Humna maddarroo gidduu
     pl: oddziaływania międzycząsteczkowe
     pt: força intermolecular
-    pt-br: Força intermolecular
+    pt_br: Força intermolecular
     ro: forță intermoleculară
     ru: межмолекулярное взаимодействие
     sh: Međumolekulska sila

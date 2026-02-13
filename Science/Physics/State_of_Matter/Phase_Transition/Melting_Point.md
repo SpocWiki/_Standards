@@ -126,7 +126,7 @@ dv_has_:
     ban: titik lebur
     bcl: punto kan pagkatunaw
     be: тэмпература плаўлення
-    be-tarask: тэмпэратура плаўленьня
+    be_tarask: тэмпэратура плаўленьня
     bg: температура на топене
     bn: গলনাঙ্ক
     bs: talište
@@ -138,8 +138,8 @@ dv_has_:
     de: Schmelztemperatur
     el: σημείο τήξης
     en: melting point
-    en-ca: melting point
-    en-gb: melting point
+    en_ca: melting point
+    en_gb: melting point
     eo: fandopunkto
     es: punto de fusión
     et: sulamistemperatuur
@@ -195,7 +195,7 @@ dv_has_:
     pl: temperatura topnienia
     pnb: پگلن نمبر
     pt: ponto de fusão
-    pt-br: ponto de fusão
+    pt_br: ponto de fusão
     qu: puriqchana iñu
     rki: အရည်ပျော်မှတ်
     ro: punct de topire
@@ -225,8 +225,8 @@ dv_has_:
     wuu: 熔点
     yue: 熔點
     zh: 熔点
-    zh-hant: 熔點
-    zh-tw: 熔點
+    zh_hant: 熔點
+    zh_tw: 熔點
 ---
 # [[Melting_Point]] 
 

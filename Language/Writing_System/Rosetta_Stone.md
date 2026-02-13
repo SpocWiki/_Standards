@@ -147,7 +147,7 @@ dv_has_:
     az: Rozetta daşı
     ban: Watu Rosetta
     be: Разецкі камень
-    be-tarask: Разэцкі камень
+    be_tarask: Разэцкі камень
     bg: Розетски камък
     bn: রোসেটা প্রস্তরফলক
     bo: ལུའོ་སའེ་རྡོ་རིང་།
@@ -162,8 +162,8 @@ dv_has_:
     dga: Rosetta Stone
     el: Στήλη της Ροζέττας
     en: Rosetta Stone
-    en-ca: Rosetta Stone
-    en-gb: Rosetta Stone
+    en_ca: Rosetta Stone
+    en_gb: Rosetta Stone
     eo: Rozeta ŝtono
     es: piedra de Rosetta
     et: Rosetta kivi
@@ -214,7 +214,7 @@ dv_has_:
     pa: ਰੋਜ਼ੈਟਾ ਪੱਥਰ
     pl: Kamień z Rosetty
     pt: Pedra de Roseta
-    pt-br: Pedra de Roseta
+    pt_br: Pedra de Roseta
     rm: Crap da Rosetta
     ro: Piatra din Rosetta
     ru: Розеттский камень
@@ -243,10 +243,10 @@ dv_has_:
     yue: 羅塞塔石碑
     zea: Rosetta-steen
     zh: 羅塞塔石碑
-    zh-cn: 羅塞塔石碑
-    zh-hans: 羅塞塔石碑
-    zh-hant: 羅塞塔石碑
-    zh-hk: 羅錫達石碑
+    zh_cn: 羅塞塔石碑
+    zh_hans: 羅塞塔石碑
+    zh_hant: 羅塞塔石碑
+    zh_hk: 羅錫達石碑
 ---
 # [[Rosetta_Stone]] 
 

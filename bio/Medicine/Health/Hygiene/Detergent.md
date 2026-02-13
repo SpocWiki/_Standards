@@ -85,7 +85,7 @@ dv_has_:
     ar: منظف
     atj: kisipatcikew kisipekahikan
     az: Yuyucu maddələr
-    be-tarask: мыйны сродак
+    be_tarask: мыйны сродак
     bg: синтетично миещо вещество
     bn: ডিটারজেন্ট
     bs: deterdžent
@@ -93,11 +93,11 @@ dv_has_:
     cs: detergent
     cv: Çăвакан япалав
     de: Detergens
-    de-ch: Reinigungsmittel
+    de_ch: Reinigungsmittel
     el: Απορρυπαντικό
     en: detergent
-    en-ca: Detergent
-    en-gb: detergent
+    en_ca: Detergent
+    en_gb: detergent
     eo: lavpasto
     es: detergente
     et: detergendid
@@ -136,7 +136,7 @@ dv_has_:
     pl: detergent
     ps: مينځونکي توکي
     pt: detergente
-    pt-br: detergente
+    pt_br: detergente
     ro: detergent
     ru: моющее средство
     sh: Deterdžent
@@ -155,14 +155,14 @@ dv_has_:
     wuu: 清洁剂
     yue: 清潔劑
     zh: 清洁剂
-    zh-cn: 清洁剂
-    zh-hans: 清洁剂
-    zh-hant: 清潔劑
-    zh-hk: 清潔劑
-    zh-mo: 清潔劑
+    zh_cn: 清洁剂
+    zh_hans: 清洁剂
+    zh_hant: 清潔劑
+    zh_hk: 清潔劑
+    zh_mo: 清潔劑
     zh-my: 清洁剂
-    zh-sg: 清洁剂
-    zh-tw: 清潔劑
+    zh_sg: 清洁剂
+    zh_tw: 清潔劑
 ---
 # [[Detergent]] 
 

@@ -197,7 +197,7 @@ dv_has_:
     ban: UEFA
     bar: UEFA
     be: УЕФА
-    be-tarask: УЭФА
+    be_tarask: УЭФА
     bg: УЕФА
     bn: উয়েফা
     bs: UEFA
@@ -211,8 +211,8 @@ dv_has_:
     de: UEFA
     el: UEFA
     en: Union of European Football Associations
-    en-ca: UEFA
-    en-gb: UEFA
+    en_ca: UEFA
+    en_gb: UEFA
     en-us: UEFA
     eo: UEFA
     es: UEFA
@@ -268,7 +268,7 @@ dv_has_:
     nan: Au-chiu Kha-kiû Liân-bêng
     nap: UEFA
     nb: UEFA
-    nds-nl: Union of European Football Associations
+    nds_nl: Union of European Football Associations
     ne: यूरोपीय फुटबल संघहरुको संघ
     nl: UEFA
     nn: UEFA
@@ -278,7 +278,7 @@ dv_has_:
     pl: UEFA
     pms: UEFA
     pt: União das Federações Europeias de Futebol
-    pt-br: União das Federações Europeias de Futebol
+    pt_br: União das Federações Europeias de Futebol
     rm: UEFA
     ro: UEFA
     ru: УЕФА
@@ -309,10 +309,10 @@ dv_has_:
     xmf: უეფა
     yue: 歐洲足球協會
     zh: 歐洲足球協會聯盟
-    zh-cn: 欧洲足球协会联盟
-    zh-hans: 欧洲足球协会联盟
-    zh-hant: 歐洲足球總會聯盟
-    zh-tw: 歐洲足總
+    zh_cn: 欧洲足球协会联盟
+    zh_hans: 欧洲足球协会联盟
+    zh_hant: 歐洲足球總會聯盟
+    zh_tw: 歐洲足總
 ---
 # [[UEFA]] 
 

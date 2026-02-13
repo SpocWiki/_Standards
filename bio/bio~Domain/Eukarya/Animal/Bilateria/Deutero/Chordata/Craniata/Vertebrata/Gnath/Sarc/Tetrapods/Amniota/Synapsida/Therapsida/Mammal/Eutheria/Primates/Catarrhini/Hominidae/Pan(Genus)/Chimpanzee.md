@@ -148,7 +148,7 @@ dv_has_:
     avk: Zegol (Pan troglodytes)
     az: Adi şimpanze
     ban: Simpanse
-    be-tarask: звычайны шымпанзэ
+    be_tarask: звычайны шымпанзэ
     bg: обикновено шимпанзе
     br: Chimpanze boutin
     ca: ximpanzé comú
@@ -156,11 +156,11 @@ dv_has_:
     cs: šimpanz učenlivý
     da: chimpanse
     de: Gemeiner Schimpanse
-    de-ch: Gemeiner Schimpanse
+    de_ch: Gemeiner Schimpanse
     el: Χιμπαντζής ο κοινός
     en: chimpanzee
-    en-ca: Common chimpanzee
-    en-gb: Common chimpanzee
+    en_ca: Common chimpanzee
+    en_gb: Common chimpanzee
     en-us: chimpanzee
     eo: ĉimpanzo
     es: Chimpancé común
@@ -205,7 +205,7 @@ dv_has_:
     mul: Pan troglodytes
     my: ချင်ပန်ဇီမျောက်ဝံ
     nb: sjimpanse
-    nds-nl: chimpansee
+    nds_nl: chimpansee
     ne: मेध्यवानर
     nl: chimpansee
     nn: Sjimpanse
@@ -215,7 +215,7 @@ dv_has_:
     pnb: عام چمپینزی
     ps: چمپانزي (د شاديانو يو نسل دی)
     pt: Chimpanzé-comum
-    pt-br: Chimpanzé-comum
+    pt_br: Chimpanzé-comum
     qu: Hatun chimpansi
     rn: Imamfu
     ro: cimpanzeu
@@ -248,8 +248,8 @@ dv_has_:
     xmf: რჩქვანელობური შიმპანზე
     yue: 黑猩猩
     zh: 黑猩猩
-    zh-cn: 黑猩猩
-    zh-tw: 黑猩猩
+    zh_cn: 黑猩猩
+    zh_tw: 黑猩猩
     zu: Ishimpanzi
 ---
 # [[Chimpanzee]] 

@@ -121,7 +121,7 @@ dv_has_:
     az: sintaksis
     ba: синтаксис
     be: сінтаксіс мовы
-    be-tarask: сынтаксіс
+    be_tarask: сынтаксіс
     bew: Èlmu nahwu
     bg: синтаксис
     bjn: Sintaksis
@@ -191,7 +191,7 @@ dv_has_:
     ml: വാക്യഘടന
     mr: वाक्यरचना
     ms: sintaksis
-    ms-arab: سينتکسيس
+    ms_arab: سينتکسيس
     mt: sintassi
     nan: kù-hoat
     nb: syntaks
@@ -242,8 +242,8 @@ dv_has_:
     yue: 句法學
     zgh: ⵜⴰⵙⵏⴰⵢⵜ
     zh: 语法学
-    zh-hant: 句法學
-    zh-tw: 句法學
+    zh_hant: 句法學
+    zh_tw: 句法學
 ---
 # [[Syntax]] 
 

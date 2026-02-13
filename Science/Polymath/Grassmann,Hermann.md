@@ -96,7 +96,7 @@ dv_has_:
     cs: Hermann Grassmann
     da: Hermann Graßmann
     de: Hermann Graßmann
-    de-ch: Hermann Grassmann
+    de_ch: Hermann Grassmann
     en: Hermann Grassmann
     eo: Hermann Günther Grassmann
     es: Hermann Grassmann
@@ -122,7 +122,7 @@ dv_has_:
     pl: Hermann Grassmann
     pms: Hermann Grassmann
     pt: Hermann Grassmann
-    pt-br: Hermann Grassmann
+    pt_br: Hermann Grassmann
     ro: Hermann Grassmann
     ru: Герман Грассман
     sl: Hermann Graßmann
@@ -134,7 +134,7 @@ dv_has_:
     vi: Hermann Grassmann
     yue: Hermann Grassmann
     zh: 赫爾曼·格拉斯曼
-    zh-tw: 赫爾曼·格拉斯曼
+    zh_tw: 赫爾曼·格拉斯曼
 ---
 # [[Grassmann,Hermann]] 
 

@@ -159,7 +159,7 @@ dv_has_:
     az: Avrasiya İqtisadi Birliyi
     azb: اوراسیا ایقتیصادی قروپو
     be: Еўразійскі эканамічны саюз
-    be-tarask: Эўразійскі эканамічны зьвяз
+    be_tarask: Эўразійскі эканамічны зьвяз
     bg: Евразийски икономически съюз
     bn: ইউরেশীয় অর্থনৈতিক ইউনিয়ন
     ca: Unió Econòmica Eurasiàtica
@@ -168,11 +168,11 @@ dv_has_:
     cv: Еврази экономика пĕрлешĕвĕ
     da: Den eurasiske økonomiske union
     de: Eurasische Wirtschaftsunion
-    de-ch: Eurasische Wirtschaftsunion
+    de_ch: Eurasische Wirtschaftsunion
     el: Ευρασιατική Οικονομική Ένωση
     en: Eurasian Economic Union
-    en-ca: Eurasian Economic Union
-    en-gb: Eurasian Economic Union
+    en_ca: Eurasian Economic Union
+    en_gb: Eurasian Economic Union
     eo: Eŭrazia Ekonomia Unio
     es: Unión Económica Eurasiática
     et: Euraasia Majandusühendus
@@ -207,7 +207,7 @@ dv_has_:
     nl: Euraziatische Economische Unie
     pl: Euroazjatycka Unia Gospodarcza
     pt: União Econômica Eurasiática
-    pt-br: União Econômica Eurasiática
+    pt_br: União Econômica Eurasiática
     ro: Uniunea Economică Euroasiatică
     ru: Евразийский экономический союз
     sh: Euroazijska unija
@@ -216,7 +216,7 @@ dv_has_:
     sl: Evrazijska ekonomska unija
     sq: Bashkimi Ekonomik Euroazian
     sr: Евроазијска економска унија
-    sr-ec: Евроазијска економска унија
+    sr_ec: Евроазијска економска унија
     sv: Eurasiska ekonomiska unionen
     sw: Umoja wa Kiuchumi wa Eurasia
     tg: Иттиҳоди иқтисодии АвруОсиё
@@ -232,14 +232,14 @@ dv_has_:
     xmf: ევრაზიული ეკონომიკური ჯარალუა
     yue: 歐亞經濟聯盟
     zh: 欧亚经济联盟
-    zh-cn: 欧亚经济联盟
-    zh-hans: 欧亚经济联盟
-    zh-hant: 歐亞經濟聯盟
-    zh-hk: 歐亞經濟聯盟
-    zh-mo: 歐亞經濟聯盟
+    zh_cn: 欧亚经济联盟
+    zh_hans: 欧亚经济联盟
+    zh_hant: 歐亞經濟聯盟
+    zh_hk: 歐亞經濟聯盟
+    zh_mo: 歐亞經濟聯盟
     zh-my: 欧亚经济联盟
-    zh-sg: 欧亚经济联盟
-    zh-tw: 歐亞經濟聯盟
+    zh_sg: 欧亚经济联盟
+    zh_tw: 歐亞經濟聯盟
 ---
 # [[Eurasian_Economic_Union]] 
 

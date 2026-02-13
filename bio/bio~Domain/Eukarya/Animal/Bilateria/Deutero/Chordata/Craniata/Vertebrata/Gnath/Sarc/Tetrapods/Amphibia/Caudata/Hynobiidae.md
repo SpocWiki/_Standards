@@ -70,9 +70,9 @@ dv_has_:
     ja: サンショウウオ科
     ka: დაკუთხულკბილასებრნი
     kk: Бұрыштістілер
-    kk-arab: بۇرىشتىستىلەر
-    kk-cyrl: Бұрыштістілер
-    kk-latn: Burıştistiler
+    kk_arab: بۇرىشتىستىلەر
+    kk_cyrl: Бұрыштістілер
+    kk_latn: Burıştistiler
     ko: 도롱뇽과
     la: Hynobiidae
     mul: Hynobiidae
@@ -83,7 +83,7 @@ dv_has_:
     oc: Hynobiidae
     pl: kątozębne
     pt: Hynobiidae
-    pt-br: Hynobiidae
+    pt_br: Hynobiidae
     ro: Hynobiidae
     ru: Углозубы
     sl: kotnozobci
@@ -96,11 +96,11 @@ dv_has_:
     vo: Hynobiidae
     war: Hynobiidae
     zh: 小鲵科
-    zh-cn: 小鲵科
-    zh-hans: 小鲵科
-    zh-hant: 小鯢
-    zh-hk: 小鯢
-    zh-tw: 小鯢科
+    zh_cn: 小鲵科
+    zh_hans: 小鲵科
+    zh_hant: 小鯢
+    zh_hk: 小鯢
+    zh_tw: 小鯢科
 ---
 # [[Hynobiidae]] 
 

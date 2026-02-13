@@ -38,7 +38,7 @@ Commons_category: Standardbred horse
 dv_has_:
   name_:
     ar: ستاندرد بريد
-    be-tarask: стандардбрэд
+    be_tarask: стандардбрэд
     ca: trotador americà
     cs: Americký klusák
     de: American Standardbred
@@ -72,8 +72,8 @@ dv_has_:
     wuu: 标准马
     yue: 標準馬
     zh: 標準競賽用馬
-    zh-hans: 标准马
-    zh-hant: 標準馬
+    zh_hans: 标准马
+    zh_hant: 標準馬
 ---
 # [[Standardbred]] 
 

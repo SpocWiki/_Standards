@@ -166,7 +166,7 @@ dv_has_:
     bar: Frida Kahlo
     bcl: Frida Kahlo
     be: Фрыда Кало
-    be-tarask: Фрыда Калё
+    be_tarask: Фрыда Калё
     bg: Фрида Кало
     bho: फ्रीदा कालो
     bi: Frida Kahlo
@@ -188,12 +188,12 @@ dv_has_:
     da: Frida Kahlo
     de: Frida Kahlo
     de-at: Frida Kahlo
-    de-ch: Frida Kahlo
+    de_ch: Frida Kahlo
     diq: Frida Kahlo
     el: Φρίντα Κάλο
     en: Frida Kahlo
-    en-ca: Frida Kahlo
-    en-gb: Frida Kahlo
+    en_ca: Frida Kahlo
+    en_gb: Frida Kahlo
     eo: Frida Kahlo
     es: Frida Kahlo
     et: Frida Kahlo
@@ -276,7 +276,7 @@ dv_has_:
     nap: Frida Kahlo
     nb: Frida Kahlo
     nds: Frida Kahlo
-    nds-nl: Frida Kahlo
+    nds_nl: Frida Kahlo
     ne: फ्रिदा कालो
     nl: Frida Kahlo
     nn: Frida Kahlo
@@ -313,7 +313,7 @@ dv_has_:
     sl: Frida Kahlo
     sq: Frida Kahlo
     sr: Фрида Кало
-    sr-ec: Фрида Кало
+    sr_ec: Фрида Кало
     stq: Frida Kahlo
     sv: Frida Kahlo
     sw: Frida Kahlo
@@ -345,8 +345,8 @@ dv_has_:
     yi: פרידא קאהלא
     yue: 芙烈達卡蘿
     zh: 芙烈達·卡蘿
-    zh-cn: 弗里达·卡罗
-    zh-hk: 芙烈達·卡蘿
+    zh_cn: 弗里达·卡罗
+    zh_hk: 芙烈達·卡蘿
     zu: Frida Kahlo
 ---
 # [[Kahlo,Frida]] 

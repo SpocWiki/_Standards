@@ -7,7 +7,7 @@ dv_has_:
     ast: ARM
     az: ARM
     be: ARM
-    be-tarask: ARM
+    be_tarask: ARM
     bs: ARM procesorska arhitektura
     ca: ARM
     cs: architektura ARM
@@ -53,21 +53,21 @@ dv_has_:
     sv: ARM
     tr: ARM mimarlığı
     tt: ARM
-    tt-cyrl: ARM
+    tt_cyrl: ARM
     uk: ARM
     vec: ARM
     vi: cấu trúc ARM
     wuu: ARM架构
     yue: ARM架構
     zh: ARM架構
-    zh-cn: ARM架构
-    zh-hans: ARM架构
-    zh-hant: ARM架構
-    zh-hk: ARM架構
-    zh-mo: ARM架構
+    zh_cn: ARM架构
+    zh_hans: ARM架构
+    zh_hant: ARM架構
+    zh_hk: ARM架構
+    zh_mo: ARM架構
     zh-my: ARM架构
-    zh-sg: ARM架构
-    zh-tw: ARM架構
+    zh_sg: ARM架构
+    zh_tw: ARM架構
 aliases:
 - ailtireacht ARM
 - architecture ARM

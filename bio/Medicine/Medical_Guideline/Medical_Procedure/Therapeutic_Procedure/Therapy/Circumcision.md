@@ -162,7 +162,7 @@ dv_has_:
     bar: Beschneidung
     bcl: Pagturi
     be: абразанне
-    be-tarask: абразаньне
+    be_tarask: абразаньне
     bg: Обрязване
     bm: Bolokoli
     bn: খৎনা
@@ -175,12 +175,12 @@ dv_has_:
     cy: enwaediad
     da: omskæring
     de: Zirkumzision
-    de-ch: Zirkumzision
+    de_ch: Zirkumzision
     diq: Kerwayin
     el: Περιτομή
     en: circumcision
-    en-ca: male circumcision
-    en-gb: male circumcision
+    en_ca: male circumcision
+    en_gb: male circumcision
     eo: cirkumcido
     es: circuncisión
     et: Ümberlõikamine
@@ -231,7 +231,7 @@ dv_has_:
     pl: Obrzezanie
     pnb: ختنہ
     pt: circuncisão
-    pt-br: Circuncisão
+    pt_br: Circuncisão
     rmy: Sirkunsision
     ro: circumcizie
     ru: обрезание
@@ -268,7 +268,7 @@ dv_has_:
     xh: Ulwaluko
     yue: 割包皮
     zh: 包皮微雕环切术
-    zh-cn: 婴儿包皮微雕环切术
+    zh_cn: 婴儿包皮微雕环切术
     zu: Ukusoka
 ---
 # [[Circumcision]] 

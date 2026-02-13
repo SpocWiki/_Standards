@@ -128,7 +128,7 @@ dv_has_:
     awa: जलवायु बिज्ञान
     az: iqlimşünaslıq
     be: кліматалогія
-    be-tarask: кліматалёгія
+    be_tarask: кліматалёгія
     bg: климатология
     bho: जलवायु बिज्ञान
     bn: জলবায়ুবিদ্যা
@@ -145,8 +145,8 @@ dv_has_:
     diq: klimatolociye
     el: κλιματολογία
     en: climatology
-    en-ca: climatology
-    en-gb: climatology
+    en_ca: climatology
+    en_gb: climatology
     eo: klimatscienco
     es: climatología
     et: klimatoloogia
@@ -187,7 +187,7 @@ dv_has_:
     mk: климатологија
     mr: वातावरणशास्त्र
     ms: kaji iklim
-    ms-arab: کليماتولوݢي
+    ms_arab: کليماتولوݢي
     nb: klimatologi
     nl: klimatologie
     nn: klimatologi
@@ -195,7 +195,7 @@ dv_has_:
     pl: klimatologia
     ps: اقلیم پېژندنه
     pt: climatologia
-    pt-br: climatologia
+    pt_br: climatologia
     ro: climatologie
     ru: климатология
     sc: climatologia
@@ -212,7 +212,7 @@ dv_has_:
     sms: klimatologia
     sq: klimatologjia
     sr: климатологија
-    sr-el: klimatologija
+    sr_el: klimatologija
     su: klimatologi
     sv: klimatologi
     sw: hali ya hewa
@@ -234,9 +234,9 @@ dv_has_:
     yue: 氣候學
     zea: klimatologie
     zh: 氣候學
-    zh-cn: 气候学
-    zh-hans: 气候学
-    zh-hant: 氣候學
+    zh_cn: 气候学
+    zh_hans: 气候学
+    zh_hant: 氣候學
 ---
 # [[Climatology]] 
 

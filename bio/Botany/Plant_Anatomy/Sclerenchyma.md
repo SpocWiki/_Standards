@@ -43,13 +43,13 @@ dv_has_:
     ar: نسيج خشبي
     ast: Esclerénquima
     be: склеранхіма
-    be-tarask: склеранхіма
+    be_tarask: склеранхіма
     ca: esclerènquima
     cs: Sklerenchym
     de: Sklerenchym
     en: sclerenchyma
-    en-ca: Sclerenchyma
-    en-gb: Sclerenchyma
+    en_ca: Sclerenchyma
+    en_gb: Sclerenchyma
     es: esclerénquima
     et: sklerenhüüm
     eu: esklerenkima
@@ -67,7 +67,7 @@ dv_has_:
     nl: sklerenchym
     pl: sklerenchyma
     pt: esclerênquima
-    pt-br: Esclerênquima
+    pt_br: Esclerênquima
     ru: склеренхима
     sk: Sklerenchým
     sl: sklerenhim

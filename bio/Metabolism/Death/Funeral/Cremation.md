@@ -94,7 +94,7 @@ dv_has_:
     ast: Cremación
     az: Kremasiya
     be: крэмацыя
-    be-tarask: крэмацыя
+    be_tarask: крэмацыя
     bg: Кремация
     bn: শবদাহ (ধর্মীয় আচার)
     ca: cremació
@@ -149,8 +149,8 @@ dv_has_:
     sl: kremacija
     smn: kunnim
     sr: кремирање
-    sr-ec: кремирање
-    sr-el: kremiranje
+    sr_ec: кремирање
+    sr_el: kremiranje
     sv: kremering
     ta: தகனம்
     te: దహనం
@@ -162,12 +162,12 @@ dv_has_:
     wuu: 火葬
     yue: 火葬
     zh: 火葬
-    zh-cn: 火葬
-    zh-hans: 火葬
-    zh-hant: 火葬
-    zh-hk: 火葬
-    zh-sg: 火葬
-    zh-tw: 火葬
+    zh_cn: 火葬
+    zh_hans: 火葬
+    zh_hant: 火葬
+    zh_hk: 火葬
+    zh_sg: 火葬
+    zh_tw: 火葬
 ---
 # [[Cremation]] 
 

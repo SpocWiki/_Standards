@@ -84,7 +84,7 @@ dv_has_:
     az: Qarğa
     ba: Ҡарға
     be: Воран
-    be-tarask: Груган
+    be_tarask: Груган
     bg: Гарван
     bn: করতল মণ্ডল
     br: Bran
@@ -99,8 +99,8 @@ dv_has_:
     diq: Qıje
     el: Κόραξ
     en: Corvus
-    en-ca: Corvus
-    en-gb: Corvus
+    en_ca: Corvus
+    en_gb: Corvus
     eo: Korvo
     es: Corvus
     et: Kaaren
@@ -143,7 +143,7 @@ dv_has_:
     pl: Gwiazdozbiór Kruka
     pnb: کاں تارہ چرمٹ
     pt: Corvus
-    pt-br: Corvus
+    pt_br: Corvus
     ro: Corbul
     ru: Ворон
     sah: Суор
@@ -166,8 +166,8 @@ dv_has_:
     wuu: 乌鸦座
     yue: 烏鴉座
     zh: 乌鸦座
-    zh-cn: 乌鸦座
-    zh-hans: 乌鸦座
+    zh_cn: 乌鸦座
+    zh_hans: 乌鸦座
 dv_is_:
   same_as:
   - '[[../../WikiData/WD~Corvus,10517|WD~Corvus,10517]]'

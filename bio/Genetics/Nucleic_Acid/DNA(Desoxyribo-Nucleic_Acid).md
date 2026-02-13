@@ -167,7 +167,7 @@ dv_has_:
     ba: ДНК
     ban: Asam deoksiribonukleat
     be: дэзоксірыбануклеінавая кіслата
-    be-tarask: дэзоксырыбануклійная кісьля
+    be_tarask: дэзоксырыбануклійная кісьля
     bg: ДНК
     bho: डीएनए
     bjn: asam deoksiribonukleat
@@ -219,7 +219,7 @@ dv_has_:
     ko: DNA
     ks: ڈی این اے
     ku: ADN
-    ku-latn: ADN
+    ku_latn: ADN
     kw: TDN
     ky: дезоксирибонуклеин кислотасы
     la: Acidum desoxyribonucleicum
@@ -248,7 +248,7 @@ dv_has_:
     pnb: ڈی این اے
     ps: ډي ان اې
     pt: ácido desoxirribonucleico
-    pt-br: ácido desoxirribonucleico
+    pt_br: ácido desoxirribonucleico
     qu: DNK
     rki: ဒီအန်အေ
     ro: ADN
@@ -282,9 +282,9 @@ dv_has_:
     yo: deoksiribonúkléì kíkan
     yue: 脫氧核糖核酸
     zh: 脱氧核糖核酸
-    zh-cn: 脱氧核糖核酸
-    zh-hans: 脱氧核糖核酸
-    zh-tw: 去氧核糖核酸
+    zh_cn: 脱氧核糖核酸
+    zh_hans: 脱氧核糖核酸
+    zh_tw: 去氧核糖核酸
     zu: uLibofuzo
 ---
 # [[DNA(Desoxyribo-Nucleic_Acid)]] 🧬 

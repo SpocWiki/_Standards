@@ -70,7 +70,7 @@ dv_has_:
     ast: Termu
     az: Termos
     be: Тэрмас
-    be-tarask: тэрмас
+    be_tarask: тэрмас
     bg: Термос
     bn: থার্মোফ্লাস্ক
     bs: Vakuumska boca

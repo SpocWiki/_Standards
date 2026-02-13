@@ -55,7 +55,7 @@ dv_has_:
   name_:
     ar: كلب الترير
     ast: Terrier
-    be-tarask: тэр’ер
+    be_tarask: тэр’ер
     bg: Териер
     br: Terrer
     ca: terrier

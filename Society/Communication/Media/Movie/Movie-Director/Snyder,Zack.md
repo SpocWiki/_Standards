@@ -77,7 +77,7 @@ dv_has_:
     pl: Zack Snyder
     pnb: زیک سنائیڈر
     pt: Zack Snyder
-    pt-br: Zack Snyder
+    pt_br: Zack Snyder
     ro: Zack Snyder
     ru: Зак Снайдер
     sh: Zack Snyder
@@ -95,10 +95,10 @@ dv_has_:
     xmf: ზაკ სნაიდერი
     yue: 薩克薛達
     zh: 查克·史奈德
-    zh-hant: 查克·史奈德
-    zh-hk: 錫·史拉達
+    zh_hant: 查克·史奈德
+    zh_hk: 錫·史拉達
     zh-my: 查克·史奈德
-    zh-sg: 查克·史奈德
+    zh_sg: 查克·史奈德
 ---
 #has_/time_/started :: 1966-03-01
 

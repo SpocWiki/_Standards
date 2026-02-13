@@ -76,7 +76,7 @@ dv_has_:
     az: Bolonya prosesi
     ba: Болонья процесы
     be: Балонскі працэс
-    be-tarask: Балёнскі працэс
+    be_tarask: Балёнскі працэс
     bg: Болонски процес
     bs: Bolonjski proces
     ca: procés de Bolonya
@@ -101,11 +101,11 @@ dv_has_:
     ja: ボローニャ・プロセス
     ka: ბოლონიის პროცესი
     kk: Болон процессі
-    kk-arab: بولون پروتسەسسى
+    kk_arab: بولون پروتسەسسى
     kk-cn: بولون پروتسەسسى
-    kk-cyrl: Болон процессі
+    kk_cyrl: Болон процессі
     kk-kz: Болон процессі
-    kk-latn: Bolon processi
+    kk_latn: Bolon processi
     kk-tr: Bolon processi
     ko: 볼로냐 프로세스
     ky: Болонья процесси
@@ -123,8 +123,8 @@ dv_has_:
     sl: Bolonjski proces
     sq: Procesi i Bolonjës
     sr: Болоњски процес
-    sr-ec: Болоњски процес
-    sr-el: Bolonjski proces
+    sr_ec: Болоњски процес
+    sr_el: Bolonjski proces
     sv: Bolognaprocessen
     tr: Bologna Süreci
     uk: Болонський процес
@@ -133,12 +133,12 @@ dv_has_:
     war: Proseso han Bologna
     wuu: 博洛尼亚进程
     zh: 博洛尼亚进程
-    zh-cn: 博洛尼亚进程
-    zh-hans: 博洛尼亚进程
-    zh-hant: 博洛尼亞進程
-    zh-hk: 博洛尼亞進程
-    zh-sg: 博洛尼亚进程
-    zh-tw: 博洛尼亞進程
+    zh_cn: 博洛尼亚进程
+    zh_hans: 博洛尼亚进程
+    zh_hant: 博洛尼亞進程
+    zh_hk: 博洛尼亞進程
+    zh_sg: 博洛尼亚进程
+    zh_tw: 博洛尼亞進程
   time_:
     started: 1999-06-01T00:00:00.000+02:00
 dv_is_same_as:

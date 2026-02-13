@@ -71,7 +71,7 @@ dv_has_:
     ar: تحلل حراري
     ast: Pirólisis
     az: Piroliz
-    be-tarask: піроліз
+    be_tarask: піроліз
     bg: пиролиза
     bs: Piroliza
     ca: piròlisi

@@ -179,7 +179,7 @@ dv_has_:
     azb: سونیلر
     ba: Сөнниҙәр
     be: суніты
-    be-tarask: суніты
+    be_tarask: суніты
     bg: сунитски ислям
     bn: সুন্নি ইসলাম
     br: Islam sunnit
@@ -189,19 +189,19 @@ dv_has_:
     ca: sunnisme
     ce: суннизм
     ckb: سوننە
-    crh-latn: Sünniy İslâm
+    crh_latn: Sünniy İslâm
     cs: sunnitský islám
     cv: Суннăçăлăх
     cy: Sunni
     da: Sunni-islam
     de: Sunniten
-    de-ch: Sunniten
+    de_ch: Sunniten
     diq: İslamo Sunni
     dv: ސުއްނީ މުސްލިމުން
     el: Σουνιτισμός
     en: Sunni Islam
-    en-ca: Sunni Islam
-    en-gb: Sunni Islam
+    en_ca: Sunni Islam
+    en_gb: Sunni Islam
     eo: sunaismo
     es: sunismo
     et: Sunniidid
@@ -240,16 +240,16 @@ dv_has_:
     kab: Tasunnit
     kge: Islam Sunni
     kk: сүнни ислам
-    kk-arab: سۋننىي ٴىيسلام
-    kk-cyrl: Сунни Исләм
-    kk-latn: Swnnï Ïsläm
+    kk_arab: سۋننىي ٴىيسلام
+    kk_cyrl: Сунни Исләм
+    kk_latn: Swnnï Ïsläm
     km: និកាយស៊ុននី
     kn: ಸುನ್ನಿ ಇಸ್ಲಾಂ
     ko: 수니파 이슬람교
     ks: سُنی اِسلام
     ku: sunîtî
-    ku-arab: سونیتی
-    ku-latn: sunîtî
+    ku_arab: سونیتی
+    ku_latn: sunîtî
     kw: Islam Sunni
     ky: Сунниттер
     la: secta Sunnitica
@@ -270,7 +270,7 @@ dv_has_:
     ml: സുന്നി
     mr: सुन्नी इस्लाम
     ms: Ahli Sunah Waljamaah
-    ms-arab: اهل سنة والجماعة
+    ms_arab: اهل سنة والجماعة
     mt: Iżlam Sunni
     my: ဆွန်နီမူဆလင်
     mzn: تسنن
@@ -288,7 +288,7 @@ dv_has_:
     pnb: سنی اسلام
     ps: سني
     pt: sunismo
-    pt-br: Sunismo
+    pt_br: Sunismo
     ro: Islamul sunit
     ru: суннитский ислам
     sah: Суннизм
@@ -304,21 +304,21 @@ dv_has_:
     so: Ahlu sunno waljamaaca
     sq: Islami Sunnit
     sr: сунизам
-    sr-ec: Сунити
-    sr-el: Suniti
+    sr_ec: Сунити
+    sr_el: Suniti
     su: Sunni
     sv: sunni
     sw: Wasunni
     ta: சுன்னி இஸ்லாம்
     te: సున్నీ ఇస్లాం
     tg: суннӣ
-    tg-latn: Sunnī
+    tg_latn: Sunnī
     th: ซุนนี
     tl: Sunismo
     tr: ehlisünnet
     tt: сөнничелек
-    tt-cyrl: сөнничелек
-    tt-latn: sönniçeleq
+    tt_cyrl: сөнничелек
+    tt_latn: sönniçeleq
     udm: суннизм
     ug: ئەھلى سۇننە ۋەلجامائە
     uk: сунізм
@@ -334,11 +334,11 @@ dv_has_:
     yo: Sunni
     yue: 遜尼派
     zh: 遜尼派
-    zh-cn: 逊尼派
-    zh-hans: 逊尼派
-    zh-hant: 遜尼派
-    zh-hk: 遜尼派
-    zh-tw: 遜尼派
+    zh_cn: 逊尼派
+    zh_hans: 逊尼派
+    zh_hant: 遜尼派
+    zh_hk: 遜尼派
+    zh_tw: 遜尼派
 ---
 # [[Sunni_Islam]] 
 

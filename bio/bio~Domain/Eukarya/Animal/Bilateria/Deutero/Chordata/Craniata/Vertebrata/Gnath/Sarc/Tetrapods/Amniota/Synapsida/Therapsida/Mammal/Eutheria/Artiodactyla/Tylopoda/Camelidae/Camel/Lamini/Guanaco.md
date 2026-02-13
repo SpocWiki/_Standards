@@ -76,7 +76,7 @@ dv_has_:
     azb: قواناکو
     bar: Guanako
     be: Гуанака
-    be-tarask: ляма гуанака
+    be_tarask: ляма гуанака
     bg: гуанако
     br: Gwanako
     ca: guanac
@@ -130,7 +130,7 @@ dv_has_:
     pl: Gwanako
     pnb: گواناکو
     pt: Guanaco
-    pt-br: Lama guanicoe
+    pt_br: Lama guanicoe
     qu: Wanaku
     ro: Guanaco
     ru: Гуанако
@@ -139,8 +139,8 @@ dv_has_:
     sl: Gvanako
     sq: lama
     sr: гванако
-    sr-ec: Гванако
-    sr-el: Gvanako
+    sr_ec: Гванако
+    sr_el: Gvanako
     stq: Guanako
     sv: Guanaco
     ta: குவானக்கோ
@@ -155,12 +155,12 @@ dv_has_:
     wuu: 原驼
     yue: 原駝
     zh: 原駝
-    zh-cn: 原驼
-    zh-hans: 原驼
-    zh-hant: 原駝
-    zh-hk: 原駝
-    zh-sg: 原驼
-    zh-tw: 原駝
+    zh_cn: 原驼
+    zh_hans: 原驼
+    zh_hant: 原駝
+    zh_hk: 原駝
+    zh_sg: 原驼
+    zh_tw: 原駝
 ---
 # [[Guanaco]] 
 

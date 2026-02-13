@@ -94,7 +94,7 @@ dv_has_:
     ba: Липидтар
     bcl: Lipid
     be: ліпіды
-    be-tarask: ліпіды
+    be_tarask: ліпіды
     bg: Липид
     bn: লিপিড
     br: Lipid
@@ -110,7 +110,7 @@ dv_has_:
     dv: ފެޓް
     el: λιπίδιο
     en: lipid
-    en-gb: lipid
+    en_gb: lipid
     eo: lipido
     es: lípido
     et: Lipiidid
@@ -141,7 +141,7 @@ dv_has_:
     kk: Липидтер
     ko: 지질
     ku: çewrî
-    ku-latn: çewrî
+    ku_latn: çewrî
     kw: Lipid
     ky: Липиддер
     la: lipidum
@@ -170,7 +170,7 @@ dv_has_:
     pnb: لپڈ
     ps: غوړ
     pt: lípido
-    pt-br: lipídio
+    pt_br: lipídio
     rki: Lipids
     ro: lipid
     ru: липиды
@@ -186,8 +186,8 @@ dv_has_:
     so: Baruur
     sq: Lipidet
     sr: липид
-    sr-ec: липид
-    sr-el: lipid
+    sr_ec: липид
+    sr_el: lipid
     sty: javlar
     su: Lipid
     sv: Lipid

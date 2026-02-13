@@ -39,7 +39,7 @@ dv_has_:
     sl: multivektor
     uk: полівектор
     zh: 克里福數
-    zh-hans: 多重向量
+    zh_hans: 多重向量
 ---
 # [[MultiVector]] 
 

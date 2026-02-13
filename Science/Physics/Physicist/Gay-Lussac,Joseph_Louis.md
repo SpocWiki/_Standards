@@ -160,7 +160,7 @@ dv_has_:
     azb: ژوزف لویی قیلوساک
     bar: Joseph Louis Gay-Lussac
     be: Жазеф Луі Гей-Люсак
-    be-tarask: Жазэф Люі Гей-Люсак
+    be_tarask: Жазэф Люі Гей-Люсак
     bg: Луи Жозеф Гей-Люсак
     bs: Joseph Louis Gay-Lussac
     ca: Joseph-Louis Gay-Lussac
@@ -169,8 +169,8 @@ dv_has_:
     de: Joseph Louis Gay-Lussac
     el: Ζοζέφ Λουί Γκαι-Λυσάκ
     en: Joseph Louis Gay-Lussac
-    en-ca: Joseph Louis Gay-Lussac
-    en-gb: Joseph Louis Gay-Lussac
+    en_ca: Joseph Louis Gay-Lussac
+    en_gb: Joseph Louis Gay-Lussac
     eo: Joseph Louis Gay-Lussac
     es: Joseph Louis Gay-Lussac
     et: Joseph Louis Gay-Lussac
@@ -213,7 +213,7 @@ dv_has_:
     pap: Joseph Louis Gay-Lussac
     pl: Joseph Louis Gay-Lussac
     pt: Joseph Louis Gay-Lussac
-    pt-br: Joseph Louis Gay-Lussac
+    pt_br: Joseph Louis Gay-Lussac
     qu: Joseph Louis Gay-Lussac
     ro: Joseph Louis Gay-Lussac
     ru: Жозеф Луи Гей-Люссак
@@ -224,8 +224,8 @@ dv_has_:
     sl: Joseph Louis Gay-Lussac
     sq: Joseph Louis Gay-Lussac
     sr: Жозеф Луј Геј-Лисак
-    sr-ec: Жозеф Луј Геј-Лисак
-    sr-el: Žozef Luj Gej-Lisak
+    sr_ec: Жозеф Луј Геј-Лисак
+    sr_el: Žozef Luj Gej-Lisak
     su: Joseph Louis Gay-lussac
     sv: Joseph Louis Gay-Lussac
     tg: Гей-Люссак, Жозеф Луи
@@ -240,12 +240,12 @@ dv_has_:
     xmf: ჟოზეფ ლუი გეი-ლუსაკი
     yue: 約瑟夫·路易·給呂薩克
     zh: 约瑟夫·路易·盖-吕萨克
-    zh-cn: 约瑟夫·路易·盖-吕萨克
-    zh-hans: 约瑟夫·路易·盖-吕萨克
-    zh-hant: 約瑟夫·路易·蓋-呂薩克
-    zh-hk: 約瑟夫·路易·給呂薩克
-    zh-sg: 约瑟夫·路易·盖-吕萨克
-    zh-tw: 約瑟夫·路易·給呂薩克
+    zh_cn: 约瑟夫·路易·盖-吕萨克
+    zh_hans: 约瑟夫·路易·盖-吕萨克
+    zh_hant: 約瑟夫·路易·蓋-呂薩克
+    zh_hk: 約瑟夫·路易·給呂薩克
+    zh_sg: 约瑟夫·路易·盖-吕萨克
+    zh_tw: 約瑟夫·路易·給呂薩克
 ---
 # [[Gay-Lussac,Joseph_Louis]] 
 

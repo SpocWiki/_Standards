@@ -60,7 +60,7 @@ dv_has_:
     ast: Lliteratura de Turquía
     az: Türkiyə ədəbiyyatı
     ba: Төркиә әҙәбиәте
-    be-tarask: турэцкая літаратура
+    be_tarask: турэцкая літаратура
     bn: তুর্কি সাহিত্য
     bs: Turska književnost
     ca: literatura turca

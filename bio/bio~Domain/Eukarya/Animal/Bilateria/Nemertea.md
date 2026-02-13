@@ -97,7 +97,7 @@ dv_has_:
     oc: Nemertea
     pl: wstężnice
     pt: Nemertea
-    pt-br: Nemertea
+    pt_br: Nemertea
     ro: Nemertea
     ru: немертины
     sco: Nemertea
@@ -105,8 +105,8 @@ dv_has_:
     sl: nitkarji
     sq: Nemertea
     sr: Немертине
-    sr-ec: Немертине
-    sr-el: Nemertine
+    sr_ec: Немертине
+    sr_el: Nemertine
     sv: slemmaskar
     sw: Daa-mkonga
     th: นีเมอร์เทีย
@@ -117,12 +117,12 @@ dv_has_:
     vo: Nemertea
     war: Nemertea
     zh: 纽形动物门
-    zh-cn: 纽形动物门
-    zh-hans: 纽形动物门
-    zh-hant: 紐形動物門
-    zh-hk: 紐形動物門
-    zh-sg: 纽形动物门
-    zh-tw: 紐形動物門
+    zh_cn: 纽形动物门
+    zh_hans: 纽形动物门
+    zh_hant: 紐形動物門
+    zh_hk: 紐形動物門
+    zh_sg: 纽形动物门
+    zh_tw: 紐形動物門
 ---
 # [[Nemertea]]
 

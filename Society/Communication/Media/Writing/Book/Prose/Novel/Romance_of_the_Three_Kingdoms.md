@@ -133,7 +133,7 @@ dv_has_:
     ar: رومانسية الممالك الثلاث
     ast: Romance de los Trés Reinos
     ba: Өс батшалыҡ (роман)
-    be-tarask: Раман трох каралеўстваў
+    be_tarask: Раман трох каралеўстваў
     bo: ༼རྒྱལ་ཁབ་གསུམ་གྱི་གཏམ་རྒྱུད།༽
     ca: Romanç dels Tres Regnes
     cdo: Săng-guók Iēng-ngiê
@@ -141,11 +141,11 @@ dv_has_:
     cs: Příběhy Tří říší
     da: Beretningen om de tre kongedømmer
     de: Die Geschichte der Drei Reiche
-    de-ch: Die Geschichte der Drei Reiche
+    de_ch: Die Geschichte der Drei Reiche
     el: Εποποιία των Τριών Βασιλείων
     en: The Romance of the Three Kingdoms
-    en-ca: Romance of the Three Kingdoms
-    en-gb: Romance of the Three Kingdoms
+    en_ca: Romance of the Three Kingdoms
+    en_gb: Romance of the Three Kingdoms
     eo: Romano de la Tri Regnoj
     es: Romance de los Tres Reinos
     et: Kolmevalitsus
@@ -181,7 +181,7 @@ dv_has_:
     pa: ਤਿੰਨ ਰਾਜਾਂ ਦਾ ਰੋਮਾਂਸ
     pl: Opowieści o Trzech Królestwach
     pt: Romance dos Três Reinos
-    pt-br: Romance dos Três Reinos
+    pt_br: Romance dos Três Reinos
     ro: Romanul cavaleresc al celor Trei Regate
     ru: Троецарствие
     sk: San-kuo jen-i
@@ -200,14 +200,14 @@ dv_has_:
     yue: 三國演義
     za: Samgoz Yienjyi
     zh: 三國演義
-    zh-cn: 三国演义
-    zh-hans: 三国演义
-    zh-hant: 三國演義
-    zh-hk: 三國演義
-    zh-mo: 三國演義
+    zh_cn: 三国演义
+    zh_hans: 三国演义
+    zh_hant: 三國演義
+    zh_hk: 三國演義
+    zh_mo: 三國演義
     zh-my: 三国演义
-    zh-sg: 三国演义
-    zh-tw: 三國演義
+    zh_sg: 三国演义
+    zh_tw: 三國演義
 ---
 # [[Romance_of_the_Three_Kingdoms]] 
 

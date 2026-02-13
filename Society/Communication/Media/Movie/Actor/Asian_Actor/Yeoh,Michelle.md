@@ -61,12 +61,12 @@ dv_has_:
     da: Michelle Yeoh
     de: Michelle Yeoh
     de-at: Michelle Yeoh
-    de-ch: Michelle Yeoh
+    de_ch: Michelle Yeoh
     dtp: Michelle Yeoh
     el: Μισέλ Γιο
     en: Michelle Yeoh
-    en-ca: Michelle Yeoh
-    en-gb: Michelle Yeoh
+    en_ca: Michelle Yeoh
+    en_gb: Michelle Yeoh
     eo: Michelle Yeoh
     es: Michelle Yeoh
     et: Michelle Yeoh
@@ -116,7 +116,7 @@ dv_has_:
     nap: Michelle Yeoh
     nb: Michelle Yeoh
     nds: Michelle Yeoh
-    nds-nl: Michelle Yeoh
+    nds_nl: Michelle Yeoh
     nl: Michelle Yeoh
     nn: Michelle Yeoh
     nrm: Michelle Yeoh
@@ -129,7 +129,7 @@ dv_has_:
     pnb: مشیل یؤ
     prg: Michelle Yeoh
     pt: Michelle Yeoh
-    pt-br: Michelle Yeoh
+    pt_br: Michelle Yeoh
     rgn: Michelle Yeoh
     rm: Michelle Yeoh
     ro: Michelle Yeoh
@@ -142,7 +142,7 @@ dv_has_:
     sl: Michelle Yeoh
     sq: Michelle Yeoh
     sr: Мишел Јео
-    sr-el: Michelle Yeoh
+    sr_el: Michelle Yeoh
     sv: Michelle Yeoh
     sw: Michelle Yeoh
     ta: மிசெல் இயோ
@@ -150,7 +150,7 @@ dv_has_:
     tl: Michelle Yeoh
     tr: Michelle Yeoh
     ug: ياڭ زىچيۇڭ
-    ug-arab: ياڭ زىچيۇڭ
+    ug_arab: ياڭ زىچيۇڭ
     uk: Мішель Єо
     ur: مشیل یؤ
     uz: Michelle Yeoh
@@ -165,12 +165,12 @@ dv_has_:
     yue: 楊紫瓊
     za: Yangz Swjcingz
     zh: 杨紫琼
-    zh-cn: 杨紫琼
-    zh-hans: 杨紫琼
-    zh-hant: 楊紫瓊
-    zh-hk: 楊紫瓊
-    zh-sg: 杨紫琼
-    zh-tw: 楊紫瓊
+    zh_cn: 杨紫琼
+    zh_hans: 杨紫琼
+    zh_hant: 楊紫瓊
+    zh_hk: 楊紫瓊
+    zh_sg: 杨紫琼
+    zh_tw: 楊紫瓊
     zu: Michelle Yeoh
 ---
 # [[Yeoh,Michelle]] 

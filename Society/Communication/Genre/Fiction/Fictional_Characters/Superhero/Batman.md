@@ -384,7 +384,7 @@ dv_has_:
     az: Betmen
     azb: بتمن
     be: Бэтмен
-    be-tarask: Бэтмэн
+    be_tarask: Бэтмэн
     bew: Batman
     bg: Батман
     bn: ব্যাটম্যান
@@ -397,12 +397,12 @@ dv_has_:
     cy: Batman
     da: Batman
     de: Batman
-    de-ch: Batman
+    de_ch: Batman
     dv: Batman
     el: Μπάτμαν
     en: Batman
-    en-ca: Batman
-    en-gb: Batman
+    en_ca: Batman
+    en_gb: Batman
     eo: Batman
     es: Batman
     et: Batman
@@ -459,7 +459,7 @@ dv_has_:
     pms: Batman
     pnb: باتمان
     pt: Batman
-    pt-br: Batman
+    pt_br: Batman
     ro: Batman
     ru: Бэтмен
     sc: Batman
@@ -479,7 +479,7 @@ dv_has_:
     tok: mije pi soweli waso
     tr: Batman
     tt: Бәтмен
-    tt-cyrl: Бәтмен
+    tt_cyrl: Бәтмен
     ug: شەپەرەڭ پالۋان
     uk: Бетмен
     ur: بیٹ مین
@@ -492,9 +492,9 @@ dv_has_:
     yue: 蝙蝠俠
     zgh: ⴱⴰⵜⵎⴰⵏ
     zh: 蝙蝠俠
-    zh-cn: 蝙蝠侠
-    zh-hant: 蝙蝠俠
-    zh-hk: 蝙蝠俠
+    zh_cn: 蝙蝠侠
+    zh_hant: 蝙蝠俠
+    zh_hk: 蝙蝠俠
 ---
 # [[Batman]] 
 

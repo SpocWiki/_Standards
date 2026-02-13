@@ -39,8 +39,8 @@ dv_has_:
     vi: Tyrannosaurini
     war: Tyrannosaurini
     zh: 暴龙族
-    zh-cn: 暴龙族
-    zh-hans: 暴龙族
+    zh_cn: 暴龙族
+    zh_hans: 暴龙族
 ---
 # [[Tyrannosaurini]] 
 

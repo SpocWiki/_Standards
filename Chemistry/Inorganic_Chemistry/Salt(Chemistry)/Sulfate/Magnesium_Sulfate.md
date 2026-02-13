@@ -140,7 +140,7 @@ dv_has_:
     ast: sulfatu de magnesiu
     az: acı duz
     azb: منیزیوم سولفات
-    be-tarask: сульфат магна
+    be_tarask: сульфат магна
     bg: магнезиев сулфат
     bn: ম্যাগনেসিয়াম সালফেট
     ca: sulfat de magnesi
@@ -148,8 +148,8 @@ dv_has_:
     de: Magnesiumsulfat
     el: θειικό μαγνήσιο
     en: magnesium sulfate
-    en-ca: magnesium sulfate
-    en-gb: magnesium sulphate
+    en_ca: magnesium sulfate
+    en_gb: magnesium sulphate
     eo: magnezia sulfato
     es: sulfato de magnesio
     et: magneesiumsulfaat
@@ -184,7 +184,7 @@ dv_has_:
     sk: síran horečnatý
     sl: magnezijev sulfat
     sr: магнезијум сулфат
-    sr-ec: магнезијум сулфат
+    sr_ec: магнезијум сулфат
     sv: magnesiumsulfat
     ta: மக்னீசியம் சல்பேட்டு
     th: แมกนีเซียมซัลเฟต
@@ -196,7 +196,7 @@ dv_has_:
     wuu: 硫酸镁
     yue: 硫酸鎂
     zh: 硫酸镁
-    zh-hans: 硫酸镁
+    zh_hans: 硫酸镁
 ---
 # [[Magnesium_Sulfate]] 
 

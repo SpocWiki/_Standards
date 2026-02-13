@@ -48,7 +48,7 @@ dv_has_:
     ar: حساب التفاضل والتكامل متعدد المتغيرات
     ast: Cálculu multivariable
     ba: Күп үҙгәреүсәнле функция анализы
-    be-tarask: шматзьменнае вылічэньне
+    be_tarask: шматзьменнае вылічэньне
     ca: càlcul multivariable
     cs: kalkul více proměnných
     de: Mehrdimensionale Analysis
@@ -74,8 +74,8 @@ dv_has_:
     ru: анализ функций многих переменных
     sl: račun z več spremenljivkami
     sr: Анализа више променљивих
-    sr-ec: Анализа више променљивих
-    sr-el: Analiza više promenljivih
+    sr_ec: Анализа више променљивих
+    sr_el: Analiza više promenljivih
     sv: Flervariabelanalys
     th: แคลคูลัสหลายตัวแปร
     tr: Çok değişkenli kalkülüs
@@ -83,9 +83,9 @@ dv_has_:
     ur: متعدد متغیر حسابان
     yue: 多元微積分
     zh: 多元微积分
-    zh-hans: 多元微积分
-    zh-hant: 多元微積分
-    zh-hk: 多元微積分
+    zh_hans: 多元微积分
+    zh_hant: 多元微積分
+    zh_hk: 多元微積分
 ---
 # [[Multivariable_Calculus]] 
 

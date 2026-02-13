@@ -123,7 +123,7 @@ dv_has_:
     ast: alministración pública
     az: ictimai idarə
     be: дзяржаўнае кіраванне
-    be-tarask: дзяржаўнае кіраваньне
+    be_tarask: дзяржаўнае кіраваньне
     bew: Bestir umum
     bg: Публична администрация
     bho: पब्लिक एडमिनिस्ट्रेशन
@@ -137,11 +137,11 @@ dv_has_:
     cy: gweinyddiaeth gyhoeddus
     da: offentlig forvaltning
     de: öffentliche Verwaltung
-    de-ch: Öffentliche Verwaltung
+    de_ch: Öffentliche Verwaltung
     el: Δημόσια διοίκηση
     en: public administration
-    en-ca: public administration
-    en-gb: public administration
+    en_ca: public administration
+    en_gb: public administration
     eo: publika administrado
     es: administración pública
     et: avalik haldus
@@ -176,7 +176,7 @@ dv_has_:
     lv: valsts pārvalde
     mk: државна управа
     ms: pentadbiran awam
-    ms-arab: ڤنتدبيرن عوام
+    ms_arab: ڤنتدبيرن عوام
     my: ပြည်သူ့ရေးရာ စီမံခန့်ခွဲမှု
     nan: Hêng-chèng
     nb: offentlig administrasjon
@@ -189,7 +189,7 @@ dv_has_:
     pnb: پبلک ایڈمنسٹریشن
     ps: عامه اداره
     pt: administração pública
-    pt-br: administração pública
+    pt_br: administração pública
     ro: administrație publică
     ru: государственное управление
     sd: پبلڪ ايڊمنسٽريشن
@@ -202,8 +202,8 @@ dv_has_:
     sms: õõlmâs vaaldâšm
     sq: Administrata publike
     sr: државна управа
-    sr-ec: државна управа
-    sr-el: državna uprava
+    sr_ec: државна управа
+    sr_el: državna uprava
     sv: offentlig förvaltning
     sw: Utawala wa umma
     ta: பொது நிர்வாகம்
@@ -211,7 +211,7 @@ dv_has_:
     tl: Pampublikong pangangasiwa
     tr: kamu yönetimi
     tt: дәүләт идарәсе
-    tt-cyrl: дәүләт идарәсе
+    tt_cyrl: дәүләт идарәсе
     uk: державне управління
     ur: پبلک ایڈمنسٹریشن
     vec: aministrasion pùblega
@@ -221,11 +221,11 @@ dv_has_:
     yo: ìṣàkóso ìjọba
     yue: 行政
     zh: 公共行政
-    zh-cn: 公共行政
-    zh-hans: 公共行政
-    zh-hant: 公共行政
-    zh-hk: 公共行政
-    zh-tw: 公共行政
+    zh_cn: 公共行政
+    zh_hans: 公共行政
+    zh_hant: 公共行政
+    zh_hk: 公共行政
+    zh_tw: 公共行政
 ---
 # [[Public_Administration]] 
 

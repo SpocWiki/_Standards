@@ -127,7 +127,7 @@ dv_has_:
     az: Henri Kavendiş
     azb: هنری کاوندیش
     be: Генры Кавендыш
-    be-tarask: Гэнры Кэвэндыш
+    be_tarask: Гэнры Кэвэндыш
     bg: Хенри Кавендиш
     bn: হেনরি ক্যাভেন্ডিশ
     bs: Henry Cavendish
@@ -185,7 +185,7 @@ dv_has_:
     or: ହେନେରି କ୍ୟାଭେଣ୍ଡିସ୍
     pl: Henry Cavendish
     pt: Henry Cavendish
-    pt-br: Henry Cavendish
+    pt_br: Henry Cavendish
     ro: Henry Cavendish
     ru: Генри Кавендиш
     sa: क्यावेण्डिष् हेन्रि
@@ -195,8 +195,8 @@ dv_has_:
     sl: Henry Cavendish
     sq: Henry Cavendish
     sr: Хенри Кевендиш
-    sr-ec: Хенри Кевендиш
-    sr-el: Henri Kevendiš
+    sr_ec: Хенри Кевендиш
+    sr_el: Henri Kevendiš
     sv: Henry Cavendish
     ta: என்றி கேவண்டிசு
     te: హెన్రీ కేవిండిష్
@@ -211,12 +211,12 @@ dv_has_:
     yue: 亨利卡雲迪殊
     zgh: ⵀⵉⵏⵔⵉ ⴽⴰⴼⵏⴷⵉⵛ
     zh: 亨利·卡文迪什
-    zh-cn: 亨利·卡文迪什
-    zh-hans: 亨利·卡文迪什
-    zh-hant: 亨利·卡文迪什
-    zh-hk: 亨利·卡雲迪殊
-    zh-sg: 亨利·卡文迪什
-    zh-tw: 亨利·卡文迪什
+    zh_cn: 亨利·卡文迪什
+    zh_hans: 亨利·卡文迪什
+    zh_hant: 亨利·卡文迪什
+    zh_hk: 亨利·卡雲迪殊
+    zh_sg: 亨利·卡文迪什
+    zh_tw: 亨利·卡文迪什
 ---
 # [[Cavendish,Henry]] 
 

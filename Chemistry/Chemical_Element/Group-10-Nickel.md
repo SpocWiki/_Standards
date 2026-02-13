@@ -94,8 +94,8 @@ dv_has_:
     de: 10. Gruppe des Periodensystems
     el: 10η ομάδα του περιοδικού πίνακα
     en: group 10
-    en-ca: Group 10 element
-    en-gb: group 10
+    en_ca: Group 10 element
+    en_gb: group 10
     eo: elemento de grupo 10
     es: elementos del grupo 10
     eu: 10. taldeko elementu
@@ -123,7 +123,7 @@ dv_has_:
     pa: ਗਰੁੱਪ 10 ਤੱਤ
     pl: niklowce
     pt: grupo 10
-    pt-br: Elementos do Grupo 10
+    pt_br: Elementos do Grupo 10
     ro: Grupa Nichelului
     ru: подгруппа никеля
     scn: elimentu dû gruppu 10
@@ -133,8 +133,8 @@ dv_has_:
     so: Guruubka 10
     sq: Grupi i dhjetë i elementeve kimike
     sr: 10. група хемијских елемената
-    sr-ec: 10. група хемијских елемената
-    sr-el: 10. grupa hemijskih elemenata
+    sr_ec: 10. група хемијских елемената
+    sr_el: 10. grupa hemijskih elemenata
     sv: grupp 10
     ta: நெடுங்குழு 10 தனிமங்கள்
     te: గ్రూప్ 10 మూలకం
@@ -144,12 +144,12 @@ dv_has_:
     wuu: 10族元素
     yue: 10族元素
     zh: 10族元素
-    zh-cn: 10族元素
-    zh-hans: 10族元素
-    zh-hant: 10族元素
-    zh-hk: 10族元素
-    zh-sg: 10族元素
-    zh-tw: 10族元素
+    zh_cn: 10族元素
+    zh_hans: 10族元素
+    zh_hant: 10族元素
+    zh_hk: 10族元素
+    zh_sg: 10族元素
+    zh_tw: 10族元素
 ---
 #chemic/Group 
 

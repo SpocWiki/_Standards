@@ -21,11 +21,11 @@ dv_has_:
     da: Myg
     de: Mücken
     de-at: Nematocera
-    de-ch: Nematocera
+    de_ch: Nematocera
     el: Νηματόκερα
     en: Nematocera
-    en-ca: Nematocera
-    en-gb: Nematocera
+    en_ca: Nematocera
+    en_gb: Nematocera
     eo: Nematocera
     es: Nematocera
     et: Sääselised
@@ -69,7 +69,7 @@ dv_has_:
     nap: Nematocera
     nb: mygg
     nds: Nematocera
-    nds-nl: Nematocera
+    nds_nl: Nematocera
     nl: muggen
     nn: mygg
     nrm: Nematocera
@@ -81,7 +81,7 @@ dv_has_:
     pl: długorogie
     pms: Nematocera
     pt: Nematocera
-    pt-br: Nematocera
+    pt_br: Nematocera
     qu: Ch'iti ch'uspi
     rm: Nematocera
     ro: Nematocera
@@ -108,9 +108,9 @@ dv_has_:
     war: Nematocera
     wo: Nematocera
     zh: 長角亞目
-    zh-cn: 长角亚目
-    zh-hans: 长角亚目
-    zh-tw: 長角亞目
+    zh_cn: 长角亚目
+    zh_hans: 长角亚目
+    zh_tw: 長角亞目
     zu: Nematocera
 aliases:
 - Ch'iti ch'uspi

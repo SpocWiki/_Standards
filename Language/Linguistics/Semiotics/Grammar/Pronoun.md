@@ -150,7 +150,7 @@ dv_has_:
     ba: алмаш
     bcl: panangli
     be: займеннік
-    be-tarask: займеньнік
+    be_tarask: займеньнік
     bg: местоимение
     bho: सर्वनाम
     bn: সর্বনাম
@@ -166,7 +166,7 @@ dv_has_:
     de: Pronomen
     el: αντωνυμία
     en: pronoun
-    en-gb: pronoun
+    en_gb: pronoun
     eo: pronomo
     es: pronombre
     et: asesõna
@@ -204,7 +204,7 @@ dv_has_:
     krj: pansal·i
     ks: اِشارٕ ناوُت
     ku: cînav
-    ku-latn: cînav
+    ku_latn: cînav
     ky: жактама
     la: pronomen
     lfn: pronom
@@ -237,7 +237,7 @@ dv_has_:
     pnb: ضمیر
     ps: نومځری (زمیر)
     pt: pronome
-    pt-br: pronome
+    pt_br: pronome
     qu: sutip rantin
     rmf: pronominos
     ro: pronume
@@ -282,14 +282,14 @@ dv_has_:
     yue: 代名詞
     zgh: ⴰⵎⵇⵇⵉⵎ
     zh: 代名詞
-    zh-cn: 代名词
-    zh-hans: 代名词
-    zh-hant: 代名詞
-    zh-hk: 代名詞
-    zh-mo: 代名詞
+    zh_cn: 代名词
+    zh_hans: 代名词
+    zh_hant: 代名詞
+    zh_hk: 代名詞
+    zh_mo: 代名詞
     zh-my: 代名词
-    zh-sg: 代名词
-    zh-tw: 代名詞
+    zh_sg: 代名词
+    zh_tw: 代名詞
 ---
 # [[Pronoun]] 
 

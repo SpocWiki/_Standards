@@ -183,7 +183,7 @@ dv_has_:
     azb: لیزه مایتنر
     ba: Мейтнер Лиза
     be: Лізэ Майтнер
-    be-tarask: Лізэ Майтнэр
+    be_tarask: Лізэ Майтнэр
     bg: Лиза Майтнер
     bn: লিজে মাইটনার
     bs: Lise Meitner
@@ -193,12 +193,12 @@ dv_has_:
     cy: Lise Meitner
     da: Lise Meitner
     de: Lise Meitner
-    de-ch: Lise Meitner
+    de_ch: Lise Meitner
     ee: Lise Meitner
     el: Λίζε Μάιτνερ
     en: Lise Meitner
-    en-ca: Lise Meitner
-    en-gb: Lise Meitner
+    en_ca: Lise Meitner
+    en_gb: Lise Meitner
     en-us: Lise Meitner
     eo: Lise Meitner
     es: Lise Meitner
@@ -250,7 +250,7 @@ dv_has_:
     pnb: لزے میٹنر
     ps: ليز مايټنر
     pt: Lise Meitner
-    pt-br: Lise Meitner
+    pt_br: Lise Meitner
     qu: Lise Meitner
     ro: Lise Meitner
     ru: Лизе Майтнер

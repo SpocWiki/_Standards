@@ -101,7 +101,7 @@ dv_has_:
     ast: Minoría
     az: Etnik azlıq
     be: група меншасцей
-    be-tarask: мяншыня
+    be_tarask: мяншыня
     bg: Малцинство
     bn: minority group
     bs: manjina
@@ -180,8 +180,8 @@ dv_has_:
     wuu: 少数群体
     yue: 弱勢社群
     zh: 少数群体
-    zh-hant: 少數群體
-    zh-tw: 少數群體
+    zh_hant: 少數群體
+    zh_tw: 少數群體
 ---
 # [[Minority_Group]] 
 

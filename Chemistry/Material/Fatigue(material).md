@@ -92,7 +92,7 @@ dv_has_:
     ar: تعب
     ast: fatiga de materiales
     be: стомленасць матэрыялаў
-    be-tarask: стомленасьць матэрыялу
+    be_tarask: стомленасьць матэрыялу
     bg: Умора на материала
     bn: ক্লান্তি (পদার্থ)
     ca: fatiga mecànica
@@ -117,9 +117,9 @@ dv_has_:
     it: fatica
     ja: 疲労
     kk: қажу
-    kk-arab: قاجۋ
-    kk-cyrl: Қажу
-    kk-latn: Qajw
+    kk_arab: قاجۋ
+    kk_cyrl: Қажу
+    kk_latn: Qajw
     ko: 피로
     ky: металлдын чарчашы
     lv: materiāla nogurums
@@ -141,9 +141,9 @@ dv_has_:
     uk: втома матеріалу
     vi: Độ bền mỏi
     zh: 金屬疲勞
-    zh-hans: 金属疲劳
-    zh-hant: 金屬疲勞
-    zh-hk: 金屬疲勞
+    zh_hans: 金属疲劳
+    zh_hant: 金屬疲勞
+    zh_hk: 金屬疲勞
 ---
 # [[Fatigue(material)]] 
 

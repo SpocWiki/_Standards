@@ -106,7 +106,7 @@ dv_has_:
     atj: Pikesaniminan
     ba: финиктар
     be: фінікі
-    be-tarask: фінік
+    be_tarask: фінік
     bg: Фурма
     ca: dàtil
     ce: Хурма
@@ -116,8 +116,8 @@ dv_has_:
     de: Dattel
     el: Χουρμάς
     en: date
-    en-ca: Date
-    en-gb: date
+    en_ca: Date
+    en_gb: date
     eo: daktilo
     es: dátil
     et: datlid
@@ -174,7 +174,7 @@ dv_has_:
     vec: dàtolo
     yue: 椰棗
     zh: 椰枣
-    zh-cn: 椰枣
+    zh_cn: 椰枣
 ---
 # [[Date(fruit)]] 
 

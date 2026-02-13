@@ -14,7 +14,7 @@ dv_has_:
     bar: Tom und Jerry
     bcl: Tom at Jerry
     be: Том і Джэры
-    be-tarask: Том і Джэры
+    be_tarask: Том і Джэры
     bg: Том и Джери
     bho: टॉम एंड जेरी
     bm: Tom and Jerry
@@ -32,7 +32,7 @@ dv_has_:
     ee: Tom in Jerry
     el: Τομ και Τζέρι
     en: Tom and Jerry
-    en-gb: Tom and Jerry
+    en_gb: Tom and Jerry
     en-us: Tom and Jerry
     eo: Tom kaj Jerry
     es: Tom y Jerry
@@ -61,11 +61,11 @@ dv_has_:
     ka: ტომი და ჯერი
     kcg: Tom ma̱ng Jeri
     kk: Том және Джерри
-    kk-arab: توم جانە دجەررىي
+    kk_arab: توم جانە دجەررىي
     kk-cn: توم جانە دجەررىي
-    kk-cyrl: Том және Джерри
+    kk_cyrl: Том және Джерри
     kk-kz: Том және Джерри
-    kk-latn: Tom jäne Djerrï
+    kk_latn: Tom jäne Djerrï
     kk-tr: Tom jäne Djerrï
     km: តុមនិងជេរី
     kn: ಟಾಮ್ ಅಂಡ್ ಜೆರ್ರಿ
@@ -94,7 +94,7 @@ dv_has_:
     pl: Tom i Jerry
     ps: ټوم اينډ جېري
     pt: Tom and Jerry
-    pt-br: Tom and Jerry
+    pt_br: Tom and Jerry
     ro: Tom și Jerry
     ru: Том и Джерри
     rup: Tom and Jerry
@@ -106,8 +106,8 @@ dv_has_:
     sl: Tom in Jerry
     sq: Tom & Jerry
     sr: Том и Џери
-    sr-ec: Том и Џери
-    sr-el: Tom i Džeri
+    sr_ec: Том и Џери
+    sr_el: Tom i Džeri
     su: Tom and Jerry
     sv: Tom och Jerry
     sw: Tom na Jerry
@@ -130,12 +130,12 @@ dv_has_:
     yue: 湯姆與謝利
     zgh: ⵟⵓⵎ ⴷ ⵊⵉⵔⵉ
     zh: 猫和老鼠
-    zh-cn: 猫和老鼠
-    zh-hans: 猫和老鼠
-    zh-hant: 湯姆貓與傑利鼠
-    zh-hk: 湯姆與傑利
-    zh-sg: 猫和老鼠
-    zh-tw: 湯姆與傑利
+    zh_cn: 猫和老鼠
+    zh_hans: 猫和老鼠
+    zh_hant: 湯姆貓與傑利鼠
+    zh_hk: 湯姆與傑利
+    zh_sg: 猫和老鼠
+    zh_tw: 湯姆與傑利
 aliases:
 - Tom & Jerry
 - Tom a Jerry

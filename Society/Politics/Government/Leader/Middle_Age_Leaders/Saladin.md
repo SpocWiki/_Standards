@@ -19,7 +19,7 @@ dv_has_:
     ba: Сәләх әд-Дин
     bcl: Saladino
     be: Саладзін
-    be-tarask: Саладын
+    be_tarask: Саладын
     bew: Salahudin Ayubi
     bg: Салах ад-Дин
     bn: সালাহুদ্দিন আইয়ুবি
@@ -39,8 +39,8 @@ dv_has_:
     el: Σαλαντίν
     eml: Saladén
     en: Saladin
-    en-ca: Saladin
-    en-gb: Saladin
+    en_ca: Saladin
+    en_gb: Saladin
     en-us: Saladin
     eo: Saladino
     es: Saladino
@@ -119,7 +119,7 @@ dv_has_:
     pnb: صلاح الدین ایوبی
     ps: صلاح الدين ايوبي
     pt: Saladino
-    pt-br: Saladino
+    pt_br: Saladino
     ro: Saladin
     ru: Салах ад-Дин
     rue: Саладін
@@ -157,7 +157,7 @@ dv_has_:
     yi: סאלאדין
     yue: 撒拉丁
     zh: 萨拉丁
-    zh-hans: 萨拉丁
+    zh_hans: 萨拉丁
 aliases:
 - Salaaxudiin al-Ayyuubi
 - Saladin

@@ -90,7 +90,7 @@ dv_has_:
     az: neytrin
     azb: نوترینو
     be: нейтрына
-    be-tarask: нэўтрына
+    be_tarask: нэўтрына
     bg: неутрино
     bn: নিউট্রিনো
     bs: neutrino
@@ -101,8 +101,8 @@ dv_has_:
     de: Neutrino
     el: νετρίνο
     en: neutrino
-    en-ca: neutrino
-    en-gb: neutrino
+    en_ca: neutrino
+    en_gb: neutrino
     eo: neŭtrino
     es: neutrino
     et: neutriinod
@@ -155,7 +155,7 @@ dv_has_:
     pl: neutrino
     pnb: نیوٹرینو
     pt: neutrino
-    pt-br: neutrino
+    pt_br: neutrino
     rki: နျူထရီနို
     ro: neutrino
     ru: нейтрино
@@ -167,8 +167,8 @@ dv_has_:
     sl: nevtrino
     smn: neutriino
     sr: неутрино
-    sr-ec: неутрино
-    sr-el: neutrino
+    sr_ec: неутрино
+    sr_el: neutrino
     stq: Neutrino
     sv: neutrino
     ta: நியூட்ரினோ
@@ -185,8 +185,8 @@ dv_has_:
     wuu: 中微子
     yue: 微中子
     zh: 中微子
-    zh-cn: 中微子
-    zh-hant: 中微子
+    zh_cn: 中微子
+    zh_hant: 中微子
 ---
 # [[Neutrino]] 
 

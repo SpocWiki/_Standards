@@ -110,7 +110,7 @@ dv_has_:
     az: Dovşan
     ba: Ҡуян
     be: Заяц
-    be-tarask: Заяц
+    be_tarask: Заяц
     bg: Заек
     bn: শশক মণ্ডল
     bo: རི་བོང་སྐར་ཚོམ་
@@ -195,7 +195,7 @@ dv_has_:
     wuu: 天兔座
     yue: 天兔座
     zh: 天兔座
-    zh-hant: 天兔座
+    zh_hant: 天兔座
 dv_is_:
   same_as:
   - '[[../../WikiData/WD~Lepus,10446|WD~Lepus,10446]]'

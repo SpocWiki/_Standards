@@ -125,7 +125,7 @@ dv_has_:
     awa: गणराज्य (प्लेटो)
     az: Dövlət
     ba: Дәүләт
-    be-tarask: Дзяржава
+    be_tarask: Дзяржава
     bg: Държавата
     bn: রিপাবলিক
     br: Ar Republik
@@ -163,8 +163,8 @@ dv_has_:
     kab: Tagduda (Flaṭun)
     ko: 국가
     ku: Dewlet
-    ku-arab: دەولەت
-    ku-latn: Dewlet
+    ku_arab: دەولەت
+    ku_latn: Dewlet
     kw: An Repoblek (Plato)
     la: Res publica
     li: Politeia
@@ -193,8 +193,8 @@ dv_has_:
     sl: Država
     sq: Republika (Platoni)
     sr: Država
-    sr-ec: Држава
-    sr-el: Država
+    sr_ec: Држава
+    sr_el: Država
     sv: Staten
     sw: La République
     ta: குடியரசு
@@ -209,14 +209,14 @@ dv_has_:
     wuu: 理想国
     yue: 理想國 (柏拉圖)
     zh: 理想国
-    zh-cn: 理想国
-    zh-hans: 理想国
-    zh-hant: 理想國
-    zh-hk: 理想國
-    zh-mo: 理想國
+    zh_cn: 理想国
+    zh_hans: 理想国
+    zh_hant: 理想國
+    zh_hk: 理想國
+    zh_mo: 理想國
     zh-my: 理想国
-    zh-sg: 理想国
-    zh-tw: 理想國
+    zh_sg: 理想国
+    zh_tw: 理想國
 ---
 # [[Republic(Plato)]] 
 

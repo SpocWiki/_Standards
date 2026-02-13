@@ -139,7 +139,7 @@ dv_has_:
     azb: کؤمور
     bcl: Uring
     be: драўнінны вугаль
-    be-tarask: драўляны вугаль
+    be_tarask: драўляны вугаль
     bg: Дървени въглища
     ca: carbó vegetal
     ckb: خەڵووز
@@ -173,11 +173,11 @@ dv_has_:
     ja: 木炭
     jv: Areng
     kk: Ағаш көмірі
-    kk-arab: اعاش كومىرى
+    kk_arab: اعاش كومىرى
     kk-cn: اعاش كومىرى
-    kk-cyrl: Ағаш көмірі
+    kk_cyrl: Ағаш көмірі
     kk-kz: Ағаш көмірі
-    kk-latn: Ağaş kömiri
+    kk_latn: Ağaş kömiri
     kk-tr: Ağaş kömiri
     kn: ಇದ್ದಿಲು
     ko: 숯
@@ -204,7 +204,7 @@ dv_has_:
     pnt: καρβών'
     ps: سکاره
     pt: carvão vegetal
-    pt-br: carvão vegetal
+    pt_br: carvão vegetal
     ro: Mangal
     ru: древесный уголь
     sat: ᱠᱩᱭᱞᱟ.
@@ -216,8 +216,8 @@ dv_has_:
     sl: oglje
     so: Dhuxul
     sr: угљен
-    sr-ec: угљен
-    sr-el: Ugljen
+    sr_ec: угљен
+    sr_el: Ugljen
     su: Areng
     sv: träkol
     sw: Makaa
@@ -232,12 +232,12 @@ dv_has_:
     wuu: 木炭
     yue: 炭
     zh: 木炭
-    zh-cn: 木炭
-    zh-hans: 木炭
-    zh-hant: 木炭
-    zh-hk: 木炭
-    zh-sg: 木炭
-    zh-tw: 木炭
+    zh_cn: 木炭
+    zh_hans: 木炭
+    zh_hant: 木炭
+    zh_hk: 木炭
+    zh_sg: 木炭
+    zh_tw: 木炭
 ---
 # [[Charcoal]] 
 

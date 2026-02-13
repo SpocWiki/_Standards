@@ -98,7 +98,7 @@ dv_has_:
     as: ৰজোনিবৃত্তি
     ast: menopausia
     az: menopauza
-    be-tarask: мэнапаўза
+    be_tarask: мэнапаўза
     bg: менопауза
     bn: রজোনিবৃত্তি
     bs: menopauza
@@ -109,12 +109,12 @@ dv_has_:
     da: menopause
     dag: sorilim naaibu
     de: Menopause
-    de-ch: Menopause
+    de_ch: Menopause
     dv: އިއްދައިން ކެނޑުން
     el: εμμηνόπαυση
     en: menopause
-    en-ca: menopause
-    en-gb: menopause
+    en_ca: menopause
+    en_gb: menopause
     eo: menopaŭzo
     es: menopausia
     et: menopaus
@@ -139,11 +139,11 @@ dv_has_:
     jv: menopause
     ka: მენოპაუზა
     kk: менопауза
-    kk-arab: مەنوپاۋزا
+    kk_arab: مەنوپاۋزا
     kk-cn: مەنوپاۋزا
-    kk-cyrl: менопауза
+    kk_cyrl: менопауза
     kk-kz: менопауза
-    kk-latn: menopawza
+    kk_latn: menopawza
     kk-tr: menopawza
     kn: ಮುಟ್ಟು ನಿಲ್ಲುವಿಕೆ
     ko: 폐경기
@@ -166,7 +166,7 @@ dv_has_:
     pl: przekwitanie
     ps: مینیوپز
     pt: menopausa
-    pt-br: menopausa
+    pt_br: menopausa
     ro: menopause
     ru: менопауза
     rw: gucura k’umugore
@@ -196,12 +196,12 @@ dv_has_:
     wuu: 更年期
     yue: 更年期
     zh: 更年期
-    zh-cn: 更年期
-    zh-hans: 更年期
-    zh-hant: 更年期
-    zh-hk: 更年期
-    zh-sg: 更年期
-    zh-tw: 更年期
+    zh_cn: 更年期
+    zh_hans: 更年期
+    zh_hant: 更年期
+    zh_hk: 更年期
+    zh_sg: 更年期
+    zh_tw: 更年期
 ---
 # [[Menopause]] 
 

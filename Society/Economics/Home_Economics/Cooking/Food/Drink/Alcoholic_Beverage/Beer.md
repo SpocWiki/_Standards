@@ -222,7 +222,7 @@ dv_has_:
     bar: Bia
     bcl: serbesa
     be: піва
-    be-tarask: піва
+    be_tarask: піва
     bew: bir
     bg: бира
     bho: बियर
@@ -246,14 +246,14 @@ dv_has_:
     cy: cwrw
     da: øl
     de: Bier
-    de-ch: Bier
+    de_ch: Bier
     diq: bira
     dsb: piwo
     dty: बियर
     el: μπίρα
     en: beer
-    en-ca: beer
-    en-gb: beer
+    en_ca: beer
+    en_gb: beer
     en-us: beer
     eo: biero
     es: cerveza
@@ -303,7 +303,7 @@ dv_has_:
     ka: ლუდი
     kbp: pɩyɛɛrɩ
     kk: сыра
-    kk-cyrl: сыра
+    kk_cyrl: сыра
     kn: ಬಿಯರ್
     ko: 맥주
     ko-kp: 맥주
@@ -326,7 +326,7 @@ dv_has_:
     lv: alus
     lzh: 啤酒
     mai: बियर
-    map-bms: bir
+    map_bms: bir
     mg: labiera
     mhr: сыра
     mi: pia
@@ -341,7 +341,7 @@ dv_has_:
     nan: bì-luh
     nb: øl
     nds: Beer
-    nds-nl: bier
+    nds_nl: bier
     ne: बियर
     nl: bier
     nn: øl
@@ -359,7 +359,7 @@ dv_has_:
     pnb: بیر
     ps: بير
     pt: cerveja
-    pt-br: cerveja
+    pt_br: cerveja
     qu: sirwisa
     ro: bere
     ru: пиво
@@ -381,8 +381,8 @@ dv_has_:
     sn: doro
     sq: birra
     sr: пиво
-    sr-ec: пиво
-    sr-el: pivo
+    sr_ec: пиво
+    sr_el: pivo
     stq: Bjoor
     su: bir
     sv: öl
@@ -417,13 +417,13 @@ dv_has_:
     za: laeujbizciuj
     zh: 啤酒
     zh-cn: 啤酒
-    zh-hans: 啤酒
-    zh-hant: 啤酒
-    zh-hk: 啤酒
-    zh-mo: 啤酒
+    zh_hans: 啤酒
+    zh_hant: 啤酒
+    zh_hk: 啤酒
+    zh_mo: 啤酒
     zh-my: 啤酒
-    zh-sg: 啤酒
-    zh-tw: 啤酒
+    zh_sg: 啤酒
+    zh_tw: 啤酒
     zu: ubhiya
 ---
 # [[Beer]] 🍺 

@@ -48,7 +48,7 @@ dv_has_:
     oc: Polygonoideae
     pl: Polygonoideae
     pt: Polygonoideae
-    pt-br: Polygonoideae
+    pt_br: Polygonoideae
     ro: Polygonoideae
     ru: Polygonoideae
     sl: Polygonoideae

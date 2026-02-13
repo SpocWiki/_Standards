@@ -80,7 +80,7 @@ Commons_category: Simulation
 dv_has_:
   name_:
     ar: محاكاة
-    be-tarask: сымуляцыя
+    be_tarask: сымуляцыя
     bg: Симулация
     bs: simulacija
     ca: simulació
@@ -116,20 +116,20 @@ dv_has_:
     lv: Simulācija
     min: Simulasi
     ms: penyelakuan
-    ms-arab: ڤڽلاکوان
+    ms_arab: ڤڽلاکوان
     nb: simulering
     nl: simulatie
     nn: simulering
     pl: symulacja
     pt: simulação
-    pt-br: simulação
+    pt_br: simulação
     qu: Kananhinachay
     ro: simulare
     ru: симуляция
     scn: Simulazzioni
     sl: simulacija
     sr: симулација
-    sr-ec: симулација
+    sr_ec: симулација
     su: Simulasi
     sv: simulering
     ta: உருவகப்படுத்துதல்
@@ -144,10 +144,10 @@ dv_has_:
     war: Simulasyon
     yue: 模擬
     zh: 模擬
-    zh-cn: 模拟
-    zh-hans: 模拟
-    zh-hant: 模擬
-    zh-tw: 模擬
+    zh_cn: 模拟
+    zh_hans: 模拟
+    zh_hant: 模擬
+    zh_tw: 模擬
     zu: UmFefenyeko
 ---
 # [[Simulation]] 

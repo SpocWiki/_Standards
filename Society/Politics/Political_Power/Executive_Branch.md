@@ -128,7 +128,7 @@ dv_has_:
     ba: башҡарма власть
     bcl: ehekutibo
     be: выканаўчая ўлада
-    be-tarask: выканаўчая ўлада
+    be_tarask: выканаўчая ўлада
     bg: изпълнителна власт
     bn: নির্বাহী
     br: galloud erounit
@@ -142,7 +142,7 @@ dv_has_:
     de: Exekutive
     el: εκτελεστική εξουσία
     en: executive branch
-    en-gb: executive
+    en_gb: executive
     eo: plenuma povo
     es: poder ejecutivo
     et: täidesaatev võim
@@ -187,7 +187,7 @@ dv_has_:
     mk: извршна власт
     ml: കാര്യനിർവ്വഹണ വിഭാഗം
     ms: badan eksekutif
-    ms-arab: چابڠ ايکسيکوتيف
+    ms_arab: چابڠ ايکسيکوتيف
     nan: hêng-chèng
     nb: utøvende makt
     nds: Utövend Macht
@@ -201,7 +201,7 @@ dv_has_:
     pl: władza wykonawcza
     ps: اجرايي قوه
     pt: poder executivo
-    pt-br: poder executivo
+    pt_br: poder executivo
     qu: ruraq atiy
     ro: putere executivă
     ru: исполнительная власть
@@ -222,7 +222,7 @@ dv_has_:
     tl: ehekutibong sangay
     tr: yürütme erki
     tt: башкарма хакимият
-    tt-cyrl: башкарма хакимият
+    tt_cyrl: башкарма хакимият
     uk: виконавча влада
     uz: Ijro etuvchi hokimiyat
     vec: podere ezecutivo
@@ -232,14 +232,14 @@ dv_has_:
     yue: 行政
     zgh: ⵜⴰⴱⴰⴹⴰ ⵜⴰⵎⵣⵣⴳⴰⵔⵜ
     zh: 行政機構
-    zh-cn: 行政机构
-    zh-hans: 行政机构
-    zh-hant: 行政機構
-    zh-hk: 行政機構
-    zh-mo: 行政機構
+    zh_cn: 行政机构
+    zh_hans: 行政机构
+    zh_hant: 行政機構
+    zh_hk: 行政機構
+    zh_mo: 行政機構
     zh-my: 行政机构
-    zh-sg: 行政机构
-    zh-tw: 行政機構
+    zh_sg: 行政机构
+    zh_tw: 行政機構
 ---
 # [[Executive_Branch]] 
 

@@ -43,8 +43,8 @@ dv_has_:
     de: Stechpalmenartige
     el: Οξυφυλλώδη
     en: Aquifoliales
-    en-ca: Aquifoliales
-    en-gb: Aquifoliales
+    en_ca: Aquifoliales
+    en_gb: Aquifoliales
     eo: Akvifolialoj
     es: Aquifoliales
     et: Astelpõõsalaadsed
@@ -75,7 +75,7 @@ dv_has_:
     oc: Aquifoliales
     pl: Ostrokrzewowce
     pt: Aquifoliales
-    pt-br: Aquifoliales
+    pt_br: Aquifoliales
     ro: Aquifoliales
     ru: падубоцветные
     sk: cezmínotvaré
@@ -91,9 +91,9 @@ dv_has_:
     wuu: 冬青目
     yue: 冬青目
     zh: 冬青目
-    zh-cn: 冬青目
-    zh-hans: 冬青目
-    zh-hant: 冬青目
+    zh_cn: 冬青目
+    zh_hans: 冬青目
+    zh_hant: 冬青目
 ---
 # [[Aquifoliales]] 
 

@@ -233,13 +233,13 @@ dv_has_:
     ban: tatit
     bcl: kitkilat
     be: маланка
-    be-tarask: маланка
+    be_tarask: маланка
     bg: мълния
     bho: आकासी बिजली
     bn: বজ্রপাত
     bs: munja
     ca: llamp
-    cbk-zam: rayo
+    cbk_zam: rayo
     cdo: liáng-siáng
     ce: молния
     ceb: kilat
@@ -251,14 +251,14 @@ dv_has_:
     da: lyn
     dag: sadibu
     de: Blitz
-    de-ch: Blitz
+    de_ch: Blitz
     diq: bilusk
     dtp: kodumaat
     el: αστραπή
     eml: silta
     en: lightning
-    en-ca: lightning
-    en-gb: lightning
+    en_ca: lightning
+    en_gb: lightning
     eo: fulmo
     es: rayo
     et: välk
@@ -300,7 +300,7 @@ dv_has_:
     ko: 번개
     ks: وۆزمَل
     ku: brûsk
-    ku-latn: brûsk
+    ku_latn: brûsk
     ky: чагылган
     la: fulgur
     lb: Blëtz
@@ -319,13 +319,13 @@ dv_has_:
     mnc: ᡨᠠᠯᡴᡳᠶᠠᠨ
     mr: वीज (हवामान)
     ms: kilat
-    ms-arab: کيلت
+    ms_arab: کيلت
     my: လျှပ်ပြက်ခြင်း
     myv: ёндол
     nah: tlahuītequiliztli
     nan: sih-nà
     nb: lyn
-    nds-nl: weerlucht
+    nds_nl: weerlucht
     ne: चट्याङ्
     nl: bliksem
     nn: lyn
@@ -339,7 +339,7 @@ dv_has_:
     pl: piorun
     pnb: اسمانی بجلی
     pt: raio
-    pt-br: raio
+    pt_br: raio
     qu: illap'u
     ro: fulger
     ru: молния
@@ -389,8 +389,8 @@ dv_has_:
     yue: 閃電
     za: byajmeb
     zh: 闪电
-    zh-hant: 閃電
-    zh-tw: 閃電
+    zh_hant: 閃電
+    zh_tw: 閃電
 ---
 # [[Lightning]] 
 

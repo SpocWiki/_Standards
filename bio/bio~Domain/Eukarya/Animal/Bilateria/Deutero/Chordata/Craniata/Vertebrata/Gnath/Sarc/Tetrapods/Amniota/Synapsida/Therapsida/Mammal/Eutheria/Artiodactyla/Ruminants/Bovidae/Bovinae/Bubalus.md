@@ -77,11 +77,11 @@ dv_has_:
     da: Bøfler
     de: Asiatische Büffel
     de-at: Bubalus
-    de-ch: Bubalus
+    de_ch: Bubalus
     el: Βούβαλος
     en: Bubalus
-    en-ca: Bubalus
-    en-gb: Bubalus
+    en_ca: Bubalus
+    en_gb: Bubalus
     eo: Bubalo
     es: Bubalus
     et: Bubalus
@@ -128,7 +128,7 @@ dv_has_:
     nap: Bubalus
     nb: Bubalus
     nds: Bubalus
-    nds-nl: Bubalus
+    nds_nl: Bubalus
     nl: Bubalus
     nn: Bubalus
     nrm: Bubalus
@@ -139,7 +139,7 @@ dv_has_:
     pl: Bubalus
     pms: Bubalus
     pt: Búfalo
-    pt-br: Bubalus
+    pt_br: Bubalus
     rm: Bubalus
     ro: Bubalus
     ru: Азиатские буйволы
@@ -165,9 +165,9 @@ dv_has_:
     wuu: 水牛属
     xmf: კამბეშეფი
     zh: 水牛属
-    zh-cn: 水牛属
-    zh-hans: 水牛属
-    zh-tw: 水牛屬
+    zh_cn: 水牛属
+    zh_hans: 水牛属
+    zh_tw: 水牛屬
     zu: Bubalus
 ---
 # [[Bubalus]]  

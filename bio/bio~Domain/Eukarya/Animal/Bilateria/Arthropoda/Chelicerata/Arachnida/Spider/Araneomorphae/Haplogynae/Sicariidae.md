@@ -53,7 +53,7 @@ dv_has_:
     oc: Sicariidae
     pl: Sicariidae
     pt: Sicariidae
-    pt-br: Sicariidae
+    pt_br: Sicariidae
     ro: Sicariidae
     ru: Sicariidae
     sq: Sicariidae
@@ -64,9 +64,9 @@ dv_has_:
     vo: Sicariidae
     war: Sicariidae
     zh: 丝蛛科
-    zh-cn: 丝蛛科
-    zh-hans: 丝蛛科
-    zh-tw: 絲蛛科
+    zh_cn: 丝蛛科
+    zh_hans: 丝蛛科
+    zh_tw: 絲蛛科
 ---
 # [[Sicariidae]] 
 ![loxosceles_laeta](Sicariidae/loxosceles_laeta_1875.jpg)) ![loxosceles_laeta](Sicariidae/loxosceles_laeta_1888.jpg))  ![loxosceles_laetamm](Sicariidae/loxosceles_laetamm_1898.jpg) 

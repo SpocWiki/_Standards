@@ -91,7 +91,7 @@ dv_has_:
     ar: تأجير الرحم
     as: ছাৰোগেছি
     az: Surroqat analıq
-    be-tarask: сурагатнае мацярынства
+    be_tarask: сурагатнае мацярынства
     bg: Сурогатно майчинство
     bn: সারোগেসি
     ca: gestació per substitució
@@ -100,8 +100,8 @@ dv_has_:
     de: Leihmutterschaft
     el: Παρένθετη μητρότητα
     en: surrogacy
-    en-ca: surrogacy
-    en-gb: surrogacy
+    en_ca: surrogacy
+    en_gb: surrogacy
     eo: lupatrino
     es: maternidad subrograda
     et: surrogaatemadus
@@ -134,7 +134,7 @@ dv_has_:
     pa: ਸਰੋਗੇਸੀ
     pl: matka zastępcza
     pt: maternidade de substituição
-    pt-br: Maternidade de substituição
+    pt_br: Maternidade de substituição
     ro: mamă surogat
     ru: суррогатное материнство
     se: sadjásašriegádahttin
@@ -152,12 +152,12 @@ dv_has_:
     vi: Mang thai hộ
     yue: 代孕
     zh: 代孕
-    zh-cn: 代孕
-    zh-hans: 代孕
-    zh-hant: 代孕
-    zh-hk: 代孕
-    zh-sg: 代孕
-    zh-tw: 代孕
+    zh_cn: 代孕
+    zh_hans: 代孕
+    zh_hant: 代孕
+    zh_hk: 代孕
+    zh_sg: 代孕
+    zh_tw: 代孕
 ---
 # [[Surrogacy]] 
 

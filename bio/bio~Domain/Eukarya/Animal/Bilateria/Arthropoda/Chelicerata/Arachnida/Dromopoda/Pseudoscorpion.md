@@ -80,7 +80,7 @@ dv_has_:
     arz: عقارب زائفه
     ast: Ord. Pseudoescorpiones
     az: Yalançıəqrəblər
-    be-tarask: ілжэскарпіёны
+    be_tarask: ілжэскарпіёны
     bg: псевдоскорпиони
     bs: Lažne škorpije
     ca: Pseudoescorpí
@@ -127,9 +127,9 @@ dv_has_:
     wuu: 拟蝎目
     yue: 擬蠍目
     zh: 伪蝎目
-    zh-cn: 伪蝎目
-    zh-hans: 伪蝎目
-    zh-tw: 偽蠍目
+    zh_cn: 伪蝎目
+    zh_hans: 伪蝎目
+    zh_tw: 偽蠍目
 ---
 # [[Pseudoscorpion]] 
 

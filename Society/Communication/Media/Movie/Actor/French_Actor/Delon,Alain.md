@@ -157,7 +157,7 @@ dv_has_:
     ba: Ален Делон
     bar: Alain Delon
     be: Ален Дэлон
-    be-tarask: Ален Дэлён
+    be_tarask: Ален Дэлён
     bg: Ален Делон
     bi: Alain Delon
     bm: Alain Delon
@@ -175,12 +175,12 @@ dv_has_:
     dag: Alain Delon
     de: Alain Delon
     de-at: Alain Delon
-    de-ch: Alain Delon
+    de_ch: Alain Delon
     diq: Alain Delon
     el: Αλέν Ντελόν
     en: Alain Delon
-    en-ca: Alain Delon
-    en-gb: Alain Delon
+    en_ca: Alain Delon
+    en_gb: Alain Delon
     eo: Alain Delon
     es: Alain Delon
     et: Alain Delon
@@ -253,7 +253,7 @@ dv_has_:
     nap: Alain Delon
     nb: Alain Delon
     nds: Alain Delon
-    nds-nl: Alain Delon
+    nds_nl: Alain Delon
     nl: Alain Delon
     nn: Alain Delon
     nov: Alain Delon
@@ -267,7 +267,7 @@ dv_has_:
     pms: Alain Delon
     prg: Alain Delon
     pt: Alain Delon
-    pt-br: Alain Delon
+    pt_br: Alain Delon
     qu: Alain Delon
     rgn: Alain Delon
     rm: Alain Delon
@@ -285,7 +285,7 @@ dv_has_:
     sn: Alain Delon
     sq: Alain Delon
     sr: Ален Делон
-    sr-el: Alain Delon
+    sr_el: Alain Delon
     sv: Alain Delon
     sw: Alain Delon
     ta: அலைன் டெலோன்
@@ -313,13 +313,13 @@ dv_has_:
     yo: Alain Delon
     yue: 阿倫狄龍
     zh: 阿兰·德龙
-    zh-cn: 阿兰·德龙
-    zh-hans: 阿兰·德龙
-    zh-hant: 阿倫狄龍
-    zh-hk: 阿倫·狄龍
+    zh_cn: 阿兰·德龙
+    zh_hans: 阿兰·德龙
+    zh_hant: 阿倫狄龍
+    zh_hk: 阿倫·狄龍
     zh-my: 阿伦·狄龙
-    zh-sg: 阿伦·狄龙
-    zh-tw: 亞蘭·德倫
+    zh_sg: 阿伦·狄龙
+    zh_tw: 亞蘭·德倫
     zu: Alain Delon
 ---
 # [[Delon,Alain]] 

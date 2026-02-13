@@ -41,7 +41,7 @@ dv_has_:
     oc: Limnodynastidae
     pl: Limnodynastidae
     pt: Limnodynastidae
-    pt-br: Limnodynastidae
+    pt_br: Limnodynastidae
     ro: Limnodynastidae
     ru: Limnodynastidae
     sq: Limnodynastidae
@@ -52,9 +52,9 @@ dv_has_:
     vo: Limnodynastidae
     war: Myobatrachidae
     zh: 汀蟾科
-    zh-cn: 汀蟾科
-    zh-hans: 汀蟾科
-    zh-tw: 汀蟾科
+    zh_cn: 汀蟾科
+    zh_hans: 汀蟾科
+    zh_tw: 汀蟾科
 ---
 # [[Limnodynastinae]] 
 

@@ -77,7 +77,7 @@ dv_has_:
     ast: teunoloxía nuclear
     az: Nüvə texnologiyası
     be: ядзерная тэхналогія
-    be-tarask: ядзерная тэхналёгія
+    be_tarask: ядзерная тэхналёгія
     bn: পরমাণু প্রযুক্তি
     bs: nuklearna tehnologija
     ca: tecnologia nuclear
@@ -85,8 +85,8 @@ dv_has_:
     cs: jaderná technologie
     de: Kerntechnik
     en: nuclear technology
-    en-ca: Nuclear technology
-    en-gb: nuclear technology
+    en_ca: Nuclear technology
+    en_gb: nuclear technology
     eo: atomkerna teknologio
     es: tecnología nuclear
     eu: Teknologia nuklear
@@ -107,12 +107,12 @@ dv_has_:
     kn: ಅಣು ತಂತ್ರಜ್ಞಾನ
     ko: 핵기술
     ku: teknolojiya nukleerî
-    ku-latn: teknolojiya nukleerî
+    ku_latn: teknolojiya nukleerî
     la: Technologia nuclearis
     lv: kodoltehnoloģija
     min: Teknologi nuklir
     ms: teknologi nuklear
-    ms-arab: تيکنولوݢي نوکليار
+    ms_arab: تيکنولوݢي نوکليار
     nl: nucleaire technologie
     nn: kjernefysisk teknologi
     pl: technologia jądrowa
@@ -135,9 +135,9 @@ dv_has_:
     war: teknolohiya nga nukleyar
     yue: 核技術
     zh: 核技术
-    zh-cn: 核技术
-    zh-hans: 核技术
-    zh-hant: 核技術
+    zh_cn: 核技术
+    zh_hans: 核技术
+    zh_hant: 核技術
 ---
 # [[Nuclear_Technology]] 
 

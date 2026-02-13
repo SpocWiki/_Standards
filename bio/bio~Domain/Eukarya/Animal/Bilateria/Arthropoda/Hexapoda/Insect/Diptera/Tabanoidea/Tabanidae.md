@@ -127,7 +127,7 @@ dv_has_:
     bar: Brèim
     bcl: Tabano
     be: сляпні
-    be-tarask: сьлепні
+    be_tarask: сьлепні
     bg: ободи
     bn: ঘোড়া মাছি
     br: Tabanidae
@@ -141,11 +141,11 @@ dv_has_:
     da: Klæger
     de: Bremsen
     de-at: Tabanidae
-    de-ch: Bremsen
+    de_ch: Bremsen
     el: Αλογόμυγα
     en: Tabanidae
-    en-ca: Horse-fly
-    en-gb: Horse-fly
+    en_ca: Horse-fly
+    en_gb: Horse-fly
     eo: Tabanidae
     es: Tabanidae
     et: Parmlased
@@ -200,7 +200,7 @@ dv_has_:
     nap: Tabanidae
     nb: klegg
     nds: Bauen
-    nds-nl: Tabanidae
+    nds_nl: Tabanidae
     nl: dazen
     nn: Tabanidae
     nrm: Tabanidae
@@ -212,7 +212,7 @@ dv_has_:
     pl: bąkowate
     pms: Tabanidae
     pt: Tabanidae
-    pt-br: Tabanidae
+    pt_br: Tabanidae
     qu: Tak'a
     rm: Tabanidae
     ro: Tăun
@@ -252,12 +252,12 @@ dv_has_:
     yue: 牛蠅
     zgh: ⵉⵣⵉ ⵏ ⵉⵎⴽⵜⴰⵔⵏ
     zh: 虻科
-    zh-cn: 虻科
-    zh-hans: 虻科
-    zh-hant: 虻
-    zh-hk: 虻
-    zh-sg: 虻
-    zh-tw: 虻科
+    zh_cn: 虻科
+    zh_hans: 虻科
+    zh_hant: 虻
+    zh_hk: 虻
+    zh_sg: 虻
+    zh_tw: 虻科
     zu: Tabanidae
 ---
 # [[Tabanidae]] 

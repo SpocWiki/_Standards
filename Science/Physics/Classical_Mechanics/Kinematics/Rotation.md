@@ -105,7 +105,7 @@ dv_has_:
     ar: دوران
     ast: Movimientu de rotación
     be: вярчэнне
-    be-tarask: кручэньне
+    be_tarask: кручэньне
     bg: Въртене
     bho: घूर्णन
     bn: ঘূর্ণন
@@ -138,11 +138,11 @@ dv_has_:
     ja: 回転
     jv: Rotasi
     kk: Айналу
-    kk-arab: اينالۋ
+    kk_arab: اينالۋ
     kk-cn: اينالۋ
-    kk-cyrl: Айналу
+    kk_cyrl: Айналу
     kk-kz: Айналу
-    kk-latn: Aýnalw
+    kk_latn: Aýnalw
     kk-tr: Aýnalw
     kn: ಪರಿಭ್ರಮಣ
     ko: 회전
@@ -190,12 +190,12 @@ dv_has_:
     xh: Ukujikeleza ndawonye
     yue: 轉動
     zh: 自转
-    zh-cn: 自转
-    zh-hans: 自转
-    zh-hant: 自轉
-    zh-hk: 自轉
-    zh-sg: 自转
-    zh-tw: 自轉
+    zh_cn: 自转
+    zh_hans: 自转
+    zh_hant: 自轉
+    zh_hk: 自轉
+    zh_sg: 自转
+    zh_tw: 自轉
 ---
 # [[Rotation]] 
 

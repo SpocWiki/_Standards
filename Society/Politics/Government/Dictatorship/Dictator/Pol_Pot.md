@@ -113,7 +113,7 @@ dv_has_:
     az: Pol Pot
     bcl: Pol Pot
     be: Пол Пот
-    be-tarask: Пол Пот
+    be_tarask: Пол Пот
     bg: Пол Пот
     bn: পল পট
     br: Pol Pot
@@ -189,7 +189,7 @@ dv_has_:
     pl: Pol Pot
     pnb: پول پاٹ
     pt: Pol Pot
-    pt-br: Pol Pot
+    pt_br: Pol Pot
     ro: Pol Pot
     ru: Пол Пот
     sa: पोल पॉट
@@ -203,7 +203,7 @@ dv_has_:
     sl: Pol Pot
     sq: Pol Pot
     sr: Пол Пот
-    sr-ec: Пол Пот
+    sr_ec: Пол Пот
     sv: Pol Pot
     sw: Pol Pot
     ta: போல் போட்
@@ -221,10 +221,10 @@ dv_has_:
     xmf: პოლ პოტი
     yue: 波爾布特
     zh: 波尔布特
-    zh-hans: 波尔布特
-    zh-hant: 波爾布特
-    zh-hk: 波爾布特
-    zh-tw: 波布
+    zh_hans: 波尔布特
+    zh_hant: 波爾布特
+    zh_hk: 波爾布特
+    zh_tw: 波布
 ---
 # [[Pol_Pot]] 
 

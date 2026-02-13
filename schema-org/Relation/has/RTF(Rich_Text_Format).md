@@ -22,7 +22,7 @@ dv_has_:
   name_:
     az: Zəngin mətn formatı
     be: Rich Text Format
-    be-tarask: Rich Text Format
+    be_tarask: Rich Text Format
     bg: Rich text format
     ca: format de text enriquit
     cs: Rich Text Format
@@ -43,11 +43,11 @@ dv_has_:
     it: Rich Text Format
     ja: Rich Text Format
     kk: Кеңейтілген мәтіндік пішім
-    kk-arab: كەڭەيتىلگەن ماتىندىك ٴپىشىم
+    kk_arab: كەڭەيتىلگەن ماتىندىك ٴپىشىم
     kk-cn: كەڭەيتىلگەن ماتىندىك ٴپىشىم
-    kk-cyrl: Кеңейтілген мәтіндік пішім
+    kk_cyrl: Кеңейтілген мәтіндік пішім
     kk-kz: Кеңейтілген мәтіндік пішім
-    kk-latn: Keñeýtilgen mätindik pişim
+    kk_latn: Keñeýtilgen mätindik pişim
     kk-tr: Keñeýtilgen mätindik pişim
     ko: 서식 있는 텍스트 포맷
     lb: .rtf
@@ -64,12 +64,12 @@ dv_has_:
     uk: Rich Text Format
     vi: Định dạng RTF
     zh: RTF
-    zh-cn: RTF
-    zh-hans: RTF
-    zh-hant: RTF
-    zh-hk: RTF
-    zh-sg: RTF
-    zh-tw: RTF
+    zh_cn: RTF
+    zh_hans: RTF
+    zh_hant: RTF
+    zh_hk: RTF
+    zh_sg: RTF
+    zh_tw: RTF
 aliases:
 - .rtf
 - format de text enriquit

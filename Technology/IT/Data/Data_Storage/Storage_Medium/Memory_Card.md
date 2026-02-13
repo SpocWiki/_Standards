@@ -84,18 +84,18 @@ dv_has_:
   name_:
     ar: بطاقة ذاكرة
     ast: Tarxeta de memoria
-    be-tarask: карта памяці
+    be_tarask: карта памяці
     bg: флашкарта
     bn: মেমোরি কার্ড
     ca: targeta de memòria
     cs: paměťová karta
     da: Hukommelseskort
     de: Speicherkarte
-    de-ch: Speicherkarte
+    de_ch: Speicherkarte
     el: Κάρτα μνήμης
     en: memory card
-    en-ca: Memory card
-    en-gb: memory card
+    en_ca: Memory card
+    en_gb: memory card
     en-us: memory card
     eo: memorkarto
     es: tarjeta de memoria
@@ -129,7 +129,7 @@ dv_has_:
     pa: ਚਿਪ
     pl: karta pamięci
     pt: cartão de memória
-    pt-br: cartão de memória
+    pt_br: cartão de memória
     ro: card de memorie
     ru: карта памяти
     sat: ᱢᱮᱢᱳᱨᱤ ᱠᱟᱨᱰ
@@ -139,8 +139,8 @@ dv_has_:
     so: Memory card
     sq: Memori kartelë
     sr: меморијска картица
-    sr-ec: Меморијске картице
-    sr-el: Memorijske kartice
+    sr_ec: Меморијске картице
+    sr_el: Memorijske kartice
     su: Kartu Mémori
     sv: Minneskort
     ta: நினைவக அட்டை
@@ -154,12 +154,12 @@ dv_has_:
     wuu: 存储卡
     yue: 記憶卡
     zh: 記憶卡
-    zh-cn: 存储卡
-    zh-hans: 记忆卡
-    zh-hant: 記憶卡
-    zh-hk: 記憶卡
-    zh-sg: 存储卡
-    zh-tw: 記憶卡
+    zh_cn: 存储卡
+    zh_hans: 记忆卡
+    zh_hant: 記憶卡
+    zh_hk: 記憶卡
+    zh_sg: 存储卡
+    zh_tw: 記憶卡
 ---
 # [[Memory_Card]] 
 

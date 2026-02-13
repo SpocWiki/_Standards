@@ -37,7 +37,7 @@ dv_has_:
     oc: Hemigraphis
     pl: Hemigraphis
     pt: Hemigraphis
-    pt-br: Hemigraphis
+    pt_br: Hemigraphis
     ro: Hemigraphis
     ru: Hemigraphis
     sq: Hemigraphis
@@ -48,9 +48,9 @@ dv_has_:
     vo: Hemigraphis
     war: Hemigraphis
     zh: 半插花属
-    zh-hans: 半柱花属
-    zh-hant: 半柱花屬
-    zh-hk: 半柱花屬
+    zh_hans: 半柱花属
+    zh_hant: 半柱花屬
+    zh_hk: 半柱花屬
 ---
 # *Hemigraphis + Strobilanthes + relatives* 
 

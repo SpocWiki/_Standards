@@ -121,7 +121,7 @@ dv_has_:
     az: qoxu orqanı
     bcl: pamarong
     be: нюх
-    be-tarask: нюх
+    be_tarask: нюх
     bg: обоняние
     bs: miris
     ca: olfacte
@@ -187,7 +187,7 @@ dv_has_:
     tg: бӯёӣ
     tr: koklama
     tt: ис сизү
-    tt-cyrl: ис сизү
+    tt_cyrl: ис сизү
     udm: зынэз шӧдон
     uk: нюх
     uz: hid bilish
@@ -199,8 +199,8 @@ dv_has_:
     yi: שמעקן
     yue: 嗅覺
     zh: 嗅觉
-    zh-cn: 嗅觉
-    zh-hans: 嗅觉
+    zh_cn: 嗅觉
+    zh_hans: 嗅觉
 ---
 # [[Sense_of_Smell]] 
 

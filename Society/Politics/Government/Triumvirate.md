@@ -61,7 +61,7 @@ dv_has_:
     ast: Triunviratu
     az: triumvirat
     be: трыумвірат
-    be-tarask: трыюмвірат
+    be_tarask: трыюмвірат
     bg: Триумвират
     br: triumvirelezh
     ca: triumvir
@@ -70,8 +70,8 @@ dv_has_:
     de: Triumvirat
     el: Τριανδρία
     en: triumvirate
-    en-ca: triumvirate
-    en-gb: triumvirate
+    en_ca: triumvirate
+    en_gb: triumvirate
     eo: triumviraro
     es: triunvirato
     et: triumviraat
@@ -101,7 +101,7 @@ dv_has_:
     oc: triumvirat
     pl: triumwirat
     pt: triunvirato
-    pt-br: triunvirato
+    pt_br: triunvirato
     ro: triumvirat
     ru: триумвират
     rue: Триумвират
@@ -112,7 +112,7 @@ dv_has_:
     smn: triumviraat
     sms: triumviratt
     sr: тријумвират
-    sr-ec: тријумвират
+    sr_ec: тријумвират
     sv: triumvirat
     tl: triyumbirado
     tr: triumvirlik

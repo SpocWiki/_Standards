@@ -9,7 +9,7 @@ dv_has_:
     az: Hipotalamus
     azb: هیپوتالاموس
     be: Гіпаталамус
-    be-tarask: падзрочча
+    be_tarask: падзрочча
     bg: Хипоталамус
     bn: হাইপোথ্যালামাস
     bs: Hipotalamus
@@ -44,11 +44,11 @@ dv_has_:
     jv: Hipotalamus
     ka: ჰიპოთალამუსი
     kk: Гипоталамус
-    kk-arab: گىيپوتالامۋس
+    kk_arab: گىيپوتالامۋس
     kk-cn: گىيپوتالامۋس
-    kk-cyrl: Гипоталамус
+    kk_cyrl: Гипоталамус
     kk-kz: Гипоталамус
-    kk-latn: Gïpotalamws
+    kk_latn: Gïpotalamws
     kk-tr: Gïpotalamws
     ko: 시상하부
     ks: ہایپوتھیلمس
@@ -60,7 +60,7 @@ dv_has_:
     mk: хипоталамус
     ms: Hipotalamus
     nb: Hypothalamus
-    nds-nl: hypothalamus
+    nds_nl: hypothalamus
     nl: hypothalamus
     nn: hypotalamus
     oc: Ipotalam
@@ -75,8 +75,8 @@ dv_has_:
     sl: hipotalamus
     sq: Hipotalamusi
     sr: Hipotalamus
-    sr-ec: Хипоталамус
-    sr-el: Hipotalamus
+    sr_ec: Хипоталамус
+    sr_el: Hipotalamus
     su: Hipotalamus
     sv: hypotalamus
     ta: ஐப்போத்தலாமசு
@@ -94,12 +94,12 @@ dv_has_:
     xmf: cesar
     yue: 下丘腦
     zh: 下丘脑
-    zh-cn: 下丘脑
-    zh-hans: 下丘脑
-    zh-hant: 下丘腦
-    zh-hk: 下視丘
-    zh-sg: 下丘脑
-    zh-tw: 下視丘
+    zh_cn: 下丘脑
+    zh_hans: 下丘脑
+    zh_hant: 下丘腦
+    zh_hk: 下視丘
+    zh_sg: 下丘脑
+    zh_tw: 下視丘
 aliases:
 - cesar
 - Gipotalamus gipotalamik soha

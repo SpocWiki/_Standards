@@ -99,7 +99,7 @@ dv_has_:
     ast: Cero absolutu
     az: Temperaturun mütləq sıfırı
     be: Абсалютны нуль тэмпературы
-    be-tarask: Абсалютны нуль тэмпэратуры
+    be_tarask: Абсалютны нуль тэмпэратуры
     bg: Абсолютна нула
     bn: পরম শূন্য
     bo: ཚུགས་ཐུབ་ཀླད་ཀོར།
@@ -112,8 +112,8 @@ dv_has_:
     de: absoluter Nullpunkt
     el: Απόλυτο μηδέν
     en: absolute zero
-    en-ca: Absolute zero
-    en-gb: Absolute zero
+    en_ca: Absolute zero
+    en_gb: Absolute zero
     eo: absoluta nulo de temperaturo
     es: cero absoluto
     et: absoluutne nulltemperatuur
@@ -154,7 +154,7 @@ dv_has_:
     pl: Zero bezwzględne
     ps: بشپړ صفر
     pt: zero absoluto
-    pt-br: Zero absoluto
+    pt_br: Zero absoluto
     ro: Zero absolut
     ru: абсолютный нуль температуры
     sd: ڪامل حرارت

@@ -242,7 +242,7 @@ dv_has_:
     bar: Nobelpreis
     bcl: Nobel Prize
     be: Нобелеўская прэмія
-    be-tarask: Нобэлеўская прэмія
+    be_tarask: Нобэлеўская прэмія
     bew: Peris Nobèl
     bg: Нобелова награда
     bho: नोबेल पुरस्कार
@@ -253,7 +253,7 @@ dv_has_:
     btm: Pangargaan Nobel
     bxr: Нобелиин шагнал
     ca: Premi Nobel
-    cbk-zam: Premyo Nobel
+    cbk_zam: Premyo Nobel
     cdo: Nobel Ciōng
     ce: Нобелин совгӀат
     ckb: خەڵاتی نۆبێل
@@ -265,13 +265,13 @@ dv_has_:
     cy: Gwobr Nobel
     da: Nobelprisen
     de: Nobelpreis
-    de-ch: Nobelpreis
+    de_ch: Nobelpreis
     diq: Xelatê Nobeli
     dty: नोबेल पुरस्कार
     el: βραβείο Νόμπελ
     en: Nobel Prize
-    en-ca: Nobel Prize
-    en-gb: Nobel Prize
+    en_ca: Nobel Prize
+    en_gb: Nobel Prize
     eo: Nobel-premio
     es: Premio Nobel
     et: Nobeli auhind
@@ -374,7 +374,7 @@ dv_has_:
     pnb: نوبل انعام
     ps: نوبل جايزه
     pt: prémio Nobel
-    pt-br: prêmio Nobel
+    pt_br: prêmio Nobel
     qu: Nobel Suñay
     ro: Premiul Nobel
     ru: Нобелевская премия
@@ -398,7 +398,7 @@ dv_has_:
     so: Abaalmarinta Nobel
     sq: Çmimi Nobel
     sr: Нобелова награда
-    sr-ec: Нобелова награда
+    sr_ec: Нобелова награда
     stq: Nobelpries
     sv: Nobelpriset
     sw: Tuzo ya Nobel
@@ -429,11 +429,11 @@ dv_has_:
     yue: 諾貝爾獎
     zgh: ⵜⴰⵙⵎⵖⵓⵔⵜ ⵏⵓⴱⵍ
     zh: 諾貝爾獎
-    zh-cn: 诺贝尔奖
-    zh-hans: 诺贝尔奖
-    zh-hant: 諾貝爾獎
-    zh-hk: 諾貝爾獎
-    zh-tw: 諾貝爾獎
+    zh_cn: 诺贝尔奖
+    zh_hans: 诺贝尔奖
+    zh_hant: 諾貝爾獎
+    zh_hk: 諾貝爾獎
+    zh_tw: 諾貝爾獎
 ---
 # [[Nobel_Prize]] 
 

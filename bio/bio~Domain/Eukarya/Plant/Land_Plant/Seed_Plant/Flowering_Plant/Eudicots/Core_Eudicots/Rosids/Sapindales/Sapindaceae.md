@@ -53,7 +53,7 @@ dv_has_:
     az: Sabunağacıkimilər
     bar: Sapindaceae
     be: Сапіндавыя
-    be-tarask: сапіндавыя
+    be_tarask: сапіндавыя
     bg: сапиндови
     br: Sapindaceae
     bs: Sapindaceae
@@ -65,10 +65,10 @@ dv_has_:
     da: Sæbetræ-familien
     de: Seifenbaumgewächse
     de-at: Sapindaceae
-    de-ch: Sapindaceae
+    de_ch: Sapindaceae
     en: Sapindaceae
-    en-ca: Sapindaceae
-    en-gb: Sapindaceae
+    en_ca: Sapindaceae
+    en_gb: Sapindaceae
     eo: Sapindacoj
     es: Sapindaceae
     et: Seebipuulised
@@ -117,7 +117,7 @@ dv_has_:
     nap: Sapindaceae
     nb: lønnefamilien
     nds: Sapindaceae
-    nds-nl: Sapindaceae
+    nds_nl: Sapindaceae
     nl: zeepboomfamilie
     nn: lønnefamilien
     nrm: Sapindaceae
@@ -127,7 +127,7 @@ dv_has_:
     pl: mydleńcowate
     pms: Sapindaceae
     pt: Sapindaceae
-    pt-br: Sapindaceae
+    pt_br: Sapindaceae
     qu: Ch'uchu yura rikch'aq ayllu
     rm: Sapindaceae
     ro: Sapindaceae
@@ -155,9 +155,9 @@ dv_has_:
     wo: Sapindaceae
     yue: 無患子科
     zh: 无患子科
-    zh-cn: 无患子科
-    zh-hans: 无患子科
-    zh-tw: 無患子科
+    zh_cn: 无患子科
+    zh_hans: 无患子科
+    zh_tw: 無患子科
     zu: Sapindaceae
 ---
 # [[Sapindaceae]] 

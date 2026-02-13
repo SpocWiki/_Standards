@@ -60,7 +60,7 @@ Unicode_character: "\U0001F409"
 dv_has_:
   name_:
     ar: تنين أزوري
-    be-tarask: цын-лун
+    be_tarask: цын-лун
     bn: উজ্জ্বল নীল ড্রাগন
     ca: Seiryu
     cdo: Chăng-lṳ̀ng
@@ -95,8 +95,8 @@ dv_has_:
     wuu: 青龙
     yue: 青龍
     zh: 青龍
-    zh-hans: 青龙
-    zh-hant: 青龍
+    zh_hans: 青龙
+    zh_hant: 青龍
 ---
 # [[Azure_Dragon]] 🐉 
 

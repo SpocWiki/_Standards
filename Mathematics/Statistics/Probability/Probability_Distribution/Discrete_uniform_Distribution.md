@@ -46,15 +46,15 @@ dv_has_:
     ar: توزيع منتظم متقطع
     ast: Distribución uniforme discreta
     be: Раўнамернае дыскрэтнае размеркаванне
-    be-tarask: дыскрэтнае раўнамернае разьмеркаваньне
+    be_tarask: дыскрэтнае раўнамернае разьмеркаваньне
     ca: distribució uniforme discreta
     cs: Rovnoměrné rozdělení
     de: Diskrete Gleichverteilung
-    de-ch: Diskrete Gleichverteilung
+    de_ch: Diskrete Gleichverteilung
     el: Ομοιόμορφη κατανομή
     en: discrete uniform distribution
-    en-ca: Uniform distribution
-    en-gb: Uniform distribution
+    en_ca: Uniform distribution
+    en_gb: Uniform distribution
     eo: diskreta unuforma distribuo
     es: distribución uniforme discreta
     eu: Banaketa uniforme diskretu

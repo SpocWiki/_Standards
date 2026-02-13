@@ -75,7 +75,7 @@ dv_has_:
     ar: أنانية
     az: Eqoizm
     be: эгаізм
-    be-tarask: эгаізм
+    be_tarask: эгаізм
     bew: Keguaan
     bg: Егоизъм
     bs: Egoizam
@@ -83,12 +83,12 @@ dv_has_:
     cs: egoismus
     da: egoisme
     de: Egoismus
-    de-ch: Egoismus
+    de_ch: Egoismus
     dtp: Egoisme
     el: εγωισμός
     en: egoism
-    en-ca: Selfishness
-    en-gb: egoism
+    en_ca: Selfishness
+    en_gb: egoism
     eo: egoismo
     es: egoísmo
     et: egoism
@@ -123,7 +123,7 @@ dv_has_:
     pa: ਸੁਆਰਥ
     pl: Egoizm
     pt: egoísmo
-    pt-br: Egoísmo
+    pt_br: Egoísmo
     ro: egoism
     ru: эгоизм
     se: egoisma
@@ -134,8 +134,8 @@ dv_has_:
     sms: egoismm
     sq: Egoizmi
     sr: Себичност
-    sr-ec: Себичност
-    sr-el: Sebičnost
+    sr_ec: Себичност
+    sr_el: Sebičnost
     sv: egoism
     sw: Umimi
     ta: தன்னலம்
@@ -148,12 +148,12 @@ dv_has_:
     uz: Egoizm
     xmf: ეგოიზმი
     zh: 利己主義
-    zh-cn: 自私
-    zh-hans: 自私
-    zh-hant: 自私
-    zh-hk: 自私
-    zh-sg: 自私
-    zh-tw: 自私
+    zh_cn: 自私
+    zh_hans: 自私
+    zh_hant: 自私
+    zh_hk: 自私
+    zh_sg: 自私
+    zh_tw: 自私
 ---
 # [[Egoism]] 
 

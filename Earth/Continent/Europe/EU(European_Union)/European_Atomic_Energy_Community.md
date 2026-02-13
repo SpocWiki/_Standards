@@ -113,18 +113,18 @@ dv_has_:
     ast: EURATOM
     az: Avropa Atom Enerjisi Birliyi
     be: Еўрапейская супольнасць па атамнай энергіі
-    be-tarask: Эўрапейская супольнасьць па атамнай энэргіі
+    be_tarask: Эўрапейская супольнасьць па атамнай энэргіі
     bg: Европейска общност за атомна енергия
     bs: Evropska zajednica za atomsku energiju
     ca: Comunitat Europea de l'Energia Atòmica
     cs: Evropské společenství pro atomovou energii
     da: Europæiske Atomenergifællesskab
     de: Europäische Atomgemeinschaft
-    de-ch: Europäische Atomgemeinschaft
+    de_ch: Europäische Atomgemeinschaft
     el: Ευρωπαϊκή Κοινότητα Ατομικής Ενέργειας
     en: European Atomic Energy Community
-    en-ca: European Atomic Energy Community
-    en-gb: European Atomic Energy Community
+    en_ca: European Atomic Energy Community
+    en_gb: European Atomic Energy Community
     eo: Eŭropa Komunumo pri Atomenergio
     es: Comunidad Europea de la Energía Atómica
     et: Euroopa Aatomienergiaühendus
@@ -160,7 +160,7 @@ dv_has_:
     oc: Comunautat Europèa de l'Energia Atomica
     pl: Europejska Wspólnota Energii Atomowej
     pt: Comunidade Europeia da Energia Atómica
-    pt-br: Comunidade Europeia da Energia Atómica
+    pt_br: Comunidade Europeia da Energia Atómica
     ro: Comunitatea Europeană a Energiei Atomice
     ru: Европейское сообщество по атомной энергии
     sco: European Atomic Energy Commonty

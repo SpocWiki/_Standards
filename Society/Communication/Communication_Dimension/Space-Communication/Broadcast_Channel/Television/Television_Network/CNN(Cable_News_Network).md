@@ -212,10 +212,10 @@ dv_has_:
     xh: I-CNN
     yue: 有線電視新聞網
     zh: 有线电视新闻网
-    zh-cn: 有线电视新闻网
-    zh-hans: 有线电视新闻网
-    zh-hant: 有線電視新聞網
-    zh-tw: 有線電視新聞網
+    zh_cn: 有线电视新闻网
+    zh_hans: 有线电视新闻网
+    zh_hant: 有線電視新聞網
+    zh_tw: 有線電視新聞網
 ---
 # [[CNN(Cable_News_Network)]] 
 

@@ -272,7 +272,7 @@ dv_has_:
     az: Xaç atası
     azb: آتا (فیلم)
     be: Хросны бацька
-    be-tarask: Хросны бацька
+    be_tarask: Хросны бацька
     bg: Кръстникът
     bn: দ্য গডফাদার
     br: The Godfather
@@ -343,7 +343,7 @@ dv_has_:
     pl: Ojciec chrzestny
     ps: معنوي پلار
     pt: O Padrinho
-    pt-br: O poderoso chefão
+    pt_br: O poderoso chefão
     qu: Achi Tayta
     ro: Nașul
     ru: Крёстный отец
@@ -369,10 +369,10 @@ dv_has_:
     yi: דער גאדפאטער
     yue: 教父
     zh: 教父
-    zh-cn: 教父
-    zh-hans: 教父
-    zh-hant: 教父
-    zh-tw: 教父
+    zh_cn: 教父
+    zh_hans: 教父
+    zh_hant: 教父
+    zh_tw: 教父
 ---
 # [[Godfather(Film)]] 
 

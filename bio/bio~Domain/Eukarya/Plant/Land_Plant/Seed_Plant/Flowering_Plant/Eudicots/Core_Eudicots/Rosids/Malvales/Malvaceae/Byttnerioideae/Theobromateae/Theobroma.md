@@ -50,7 +50,7 @@ dv_has_:
     arz: ثيوبروما
     ast: Theobroma
     az: Teobrom
-    be-tarask: тэаброма
+    be_tarask: тэаброма
     bg: теоброма
     bpy: টহেওবরোমা
     ca: Theobroma
@@ -86,7 +86,7 @@ dv_has_:
     oc: Theobroma
     pl: Kakaowiec
     pt: Theobroma
-    pt-br: Theobroma
+    pt_br: Theobroma
     ro: Theobroma
     ru: Теоброма
     sl: kakavovec
@@ -99,12 +99,12 @@ dv_has_:
     vo: Theobroma
     war: Theobroma
     zh: 可可属
-    zh-cn: 可可属
-    zh-hans: 可可属
-    zh-hant: 可可屬
-    zh-hk: 可可屬
-    zh-sg: 可可属
-    zh-tw: 可可屬
+    zh_cn: 可可属
+    zh_hans: 可可属
+    zh_hant: 可可屬
+    zh_hk: 可可屬
+    zh_sg: 可可属
+    zh_tw: 可可屬
 ---
 # [[Theobroma]] 
 

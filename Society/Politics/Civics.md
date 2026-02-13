@@ -64,14 +64,14 @@ dv_has_:
     ar: دراسة المواطنة
     ast: Educación cívica
     be: грамадзяназнаўства
-    be-tarask: грамадзтвазнаўства
+    be_tarask: грамадзтвазнаўства
     bg: Цивилистика
     bn: পৌরনীতি
     ca: civisme
     cs: občanská nauka
     cy: Astudiaethau dinesig
     de: Civic Education
-    de-ch: Civic Education
+    de_ch: Civic Education
     el: Αγωγή του πολίτη
     en: civics
     es: educación cívica
@@ -113,9 +113,9 @@ dv_has_:
     war: Sibika
     yue: 公民教育
     zh: 公民教育
-    zh-hans: 公民教育
-    zh-hant: 公民教育
-    zh-hk: 公民教育
+    zh_hans: 公民教育
+    zh_hant: 公民教育
+    zh_hk: 公民教育
 ---
 # [[Civics]] 
 

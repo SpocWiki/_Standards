@@ -18,7 +18,7 @@ dv_has_:
     lt: „Discord“
     lzh: 齟齬
     ml: ഡിസ്കോർഡ്
-    ms-arab: ديسکورد
+    ms_arab: ديسکورد
     mul: Discord
     ne: डिस्कर्ड
     pa: ਡਿਸਕੋਰਡ

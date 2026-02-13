@@ -199,7 +199,7 @@ dv_has_:
     ba: кулинария
     bcl: Pagluto
     be: кулінарыя
-    be-tarask: кулінарыя
+    be_tarask: кулінарыя
     bew: Masak
     bg: готварство
     bho: कुकिंग
@@ -219,8 +219,8 @@ dv_has_:
     dtp: mogonsok
     el: μαγειρική
     en: cooking
-    en-ca: cooking
-    en-gb: cooking
+    en_ca: cooking
+    en_gb: cooking
     eo: kuirado
     es: cocinar
     et: kokandus
@@ -260,7 +260,7 @@ dv_has_:
     jv: Olah-olah
     kcg: a̱weang
     kk: аспаздық
-    kk-latn: aspadzıq
+    kk_latn: aspadzıq
     kl: iganeq
     kn: '"ಅಡುಗೆ"'
     ko: 요리
@@ -275,7 +275,7 @@ dv_has_:
     ml: പാചകം
     mr: स्वयंपाक
     ms: masak
-    ms-arab: ماسق
+    ms_arab: ماسق
     mt: tisjir
     my: ချက်ခြင်း
     nan: Chú-chia̍h
@@ -291,7 +291,7 @@ dv_has_:
     pl: sztuka kulinarna
     ps: پخلی
     pt: cozedura
-    pt-br: cozedura
+    pt_br: cozedura
     qu: Yanuy
     ro: bucătărie
     ru: кулинария
@@ -307,8 +307,8 @@ dv_has_:
     so: Cunto samaysiga
     sq: gatim
     sr: кување
-    sr-ec: кување
-    sr-el: kuvanje
+    sr_ec: кување
+    sr_el: kuvanje
     ss: Kupheka
     sv: matlagning
     sw: Mapishi
@@ -334,14 +334,14 @@ dv_has_:
     za: Dajrung
     zea: koôke
     zh: 烹饪
-    zh-cn: 烹饪
-    zh-hans: 烹饪
-    zh-hant: 烹飪
-    zh-hk: 烹飪
-    zh-mo: 烹飪
+    zh_cn: 烹饪
+    zh_hans: 烹饪
+    zh_hant: 烹飪
+    zh_hk: 烹飪
+    zh_mo: 烹飪
     zh-my: 烹饪
-    zh-sg: 烹饪
-    zh-tw: 烹飪
+    zh_sg: 烹饪
+    zh_tw: 烹飪
 ---
 # [[Cooking]] 🍳 
 

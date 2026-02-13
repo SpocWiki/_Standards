@@ -254,7 +254,7 @@ dv_has_:
     bar: Charlie Chaplin
     bcl: Charlie Chaplin
     be: Чарлі Чаплін
-    be-tarask: Чарлі Чаплін
+    be_tarask: Чарлі Чаплін
     bew: Charlie Chaplin
     bg: Чарли Чаплин
     bho: चार्ली चैपलिन
@@ -277,13 +277,13 @@ dv_has_:
     da: Charlie Chaplin
     de: Charlie Chaplin
     de-at: Charlie Chaplin
-    de-ch: Charles Chaplin
+    de_ch: Charles Chaplin
     diq: Charlie Chaplin
     dty: चार्ली च्याप्लिन
     el: Τσάρλι Τσάπλιν
     en: Charlie Chaplin
-    en-ca: Charlie Chaplin
-    en-gb: Charlie Chaplin
+    en_ca: Charlie Chaplin
+    en_gb: Charlie Chaplin
     eo: Charlie Chaplin
     es: Charles Chaplin
     et: Charlie Chaplin
@@ -363,7 +363,7 @@ dv_has_:
     mr: चार्ली चॅप्लिन
     mrj: Чарльз Чаплин
     ms: Charlie Chaplin
-    ms-arab: چرلي چيڤلين
+    ms_arab: چرلي چيڤلين
     mt: Charlie Chaplin
     mul: Charlie Chaplin
     my: ချက်ပလင်၊ ချာလီ
@@ -375,7 +375,7 @@ dv_has_:
     nap: Charlie Chaplin
     nb: Charlie Chaplin
     nds: Charlie Chaplin
-    nds-nl: Charlie Chaplin
+    nds_nl: Charlie Chaplin
     ne: चार्ली च्याप्लिन
     new: चार्ली च्याप्लिन
     nl: Charlie Chaplin
@@ -399,7 +399,7 @@ dv_has_:
     pnt: Τσάρλι Τσάπλιν
     ps: چارلس چاپلين
     pt: Charlie Chaplin
-    pt-br: Charlie Chaplin
+    pt_br: Charlie Chaplin
     qu: Charlie Chaplin
     rm: Charlie Chaplin
     rmy: Charlie Chaplin
@@ -422,7 +422,7 @@ dv_has_:
     so: Charlie Chaplin
     sq: Charlie Chaplin
     sr: Чарли Чаплин
-    sr-el: Charlie Chaplin
+    sr_el: Charlie Chaplin
     srn: Charlie Chaplin
     stq: Charles Spencer Chaplin
     su: Charlie Chaplin
@@ -458,14 +458,14 @@ dv_has_:
     yue: 差利·卓別靈
     zgh: ⵜⵛⴰⵔⵍⵉ ⵜⵛⴰⴱⵍⵉⵏ
     zh: 差利·卓別靈
-    zh-cn: 查理·卓别林
-    zh-hans: 查理·卓别林
-    zh-hant: 差利·卓別靈
-    zh-hk: 差利·卓別靈
-    zh-mo: 差利·卓別靈
+    zh_cn: 查理·卓别林
+    zh_hans: 查理·卓别林
+    zh_hant: 差利·卓別靈
+    zh_hk: 差利·卓別靈
+    zh_mo: 差利·卓別靈
     zh-my: 查理·卓别林
-    zh-sg: 查理·卓别林
-    zh-tw: 查理·卓別林
+    zh_sg: 查理·卓别林
+    zh_tw: 查理·卓別林
     zu: Charlie Chaplin
 ---
 # [[Chaplin,Charlie]] 

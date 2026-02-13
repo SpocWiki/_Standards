@@ -423,7 +423,7 @@ dv_has_:
     ban: singa
     bcl: Leon
     be: леў
-    be-tarask: леў
+    be_tarask: леў
     bg: лъв
     bho: सिंह
     bm: Waraba
@@ -451,7 +451,7 @@ dv_has_:
     da: løve
     dag: Gbuɣinli
     de: Löwe
-    de-ch: Löwe
+    de_ch: Löwe
     din: Kör
     diq: Şêr
     dsb: law
@@ -461,8 +461,8 @@ dv_has_:
     el: λιοντάρι
     eml: Lèòṅ
     en: lion
-    en-ca: Lion
-    en-gb: lion
+    en_ca: Lion
+    en_gb: lion
     eo: leono
     es: león
     et: lõvi
@@ -524,7 +524,7 @@ dv_has_:
     ks: پادَر سٕہہ
     ksh: Löhv
     ku: şêr
-    ku-latn: şêr
+    ku_latn: şêr
     kus: Gbigim
     kw: Lew
     ky: Арстан
@@ -565,7 +565,7 @@ dv_has_:
     nan: Sai
     nb: løve
     nds: Lööw
-    nds-nl: leeuw
+    nds_nl: leeuw
     ne: सिंह
     new: सिंह
     nia: Singo
@@ -588,7 +588,7 @@ dv_has_:
     pnb: ببر شیر
     ps: زمری
     pt: leão
-    pt-br: leão
+    pt_br: leão
     qu: Liyun
     rm: Liun
     rn: Intare
@@ -617,8 +617,8 @@ dv_has_:
     so: Libaax
     sq: Luani
     sr: лав
-    sr-ec: лав
-    sr-el: lav
+    sr_ec: лав
+    sr_el: lav
     ss: Libubesi
     st: Tau
     stq: Leeuwe
@@ -663,14 +663,14 @@ dv_has_:
     za: Saeceij
     zgh: ⵉⵣⵎ
     zh: 獅
-    zh-cn: 狮
-    zh-hans: 狮
-    zh-hant: 獅
-    zh-hk: 獅
-    zh-mo: 獅
+    zh_cn: 狮
+    zh_hans: 狮
+    zh_hant: 獅
+    zh_hk: 獅
+    zh_mo: 獅
     zh-my: 狮
-    zh-sg: 狮
-    zh-tw: 獅
+    zh_sg: 狮
+    zh_tw: 獅
     zu: ibhubesi
 ---
 # [[Lion]] 🦁 

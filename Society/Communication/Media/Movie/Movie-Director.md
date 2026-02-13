@@ -168,7 +168,7 @@ dv_has_:
     azb: فیلم یؤنئتمنی
     ba: кинорежиссёр
     be: кінарэжысёр
-    be-tarask: кінарэжысэр
+    be_tarask: кінарэжысэр
     bew: dalang pèlem
     bg: кинорежисьор
     bjn: sutradara
@@ -180,7 +180,7 @@ dv_has_:
     ckb: دەرھێنەری فیلم
     co: reghjista cinematugraficu
     crh: kino rejissörı
-    crh-latn: kino rejissörı
+    crh_latn: kino rejissörı
     cs: filmový režisér
     cy: cyfarwyddwr ffilm
     da: filminstruktør
@@ -188,8 +188,8 @@ dv_has_:
     diq: hetenoğê filmi
     el: σκηνοθέτης κινηματογράφου
     en: film director
-    en-ca: film director
-    en-gb: film director
+    en_ca: film director
+    en_gb: film director
     en-us: film director
     eo: filmreĝisoro
     es: director de cine
@@ -234,7 +234,7 @@ dv_has_:
     ko: 영화 감독
     ks: فِلِم ہؠدایَتھ کار
     ku: derhênerê fîlman
-    ku-latn: derhênerê fîlman
+    ku_latn: derhênerê fîlman
     kw: kevarwodher fylmow
     ky: кинорежиссёр
     la: dispositor cinematographicus
@@ -251,7 +251,7 @@ dv_has_:
     ml: ചലച്ചിത്ര സംവിധായകൻ
     mr: चित्रपट-दिग्दर्शक
     ms: pengarah filem
-    ms-arab: ڤڠاره فيلم
+    ms_arab: ڤڠاره فيلم
     mt: direttur tal-films
     my: ရုပ်ရှင်ဒါရိုက်တာ
     myv: эрямартрежиссёр
@@ -270,7 +270,7 @@ dv_has_:
     pl: reżyser filmowy
     ps: فلم لارښود
     pt: realizador de cinema
-    pt-br: diretor(a) de cinema
+    pt_br: diretor(a) de cinema
     qu: kuyu walltay pusaq
     rm: reschissur
     ro: regizor de film
@@ -288,7 +288,7 @@ dv_has_:
     sms: jieʹllikarttoʹhjjeei
     sq: regjisor
     sr: филмски режисер
-    sr-ec: редитељ
+    sr_ec: редитељ
     su: sutradara
     sv: filmregissör
     sw: mwongozaji wa filamu
@@ -299,7 +299,7 @@ dv_has_:
     tl: direktor ng pelikula
     tr: film yönetmeni
     tt: кинорежиссёр
-    tt-cyrl: кинорежиссёр
+    tt_cyrl: кинорежиссёр
     uk: кінорежисер
     ur: فلم ہدایت کار
     uz: kinorejissyor
@@ -312,14 +312,14 @@ dv_has_:
     yi: רעזשיסאר
     yue: 電影導演
     zh: 電影導演
-    zh-cn: 电影导演
-    zh-hans: 电影导演
-    zh-hant: 電影導演
-    zh-hk: 電影導演
-    zh-mo: 電影導演
+    zh_cn: 电影导演
+    zh_hans: 电影导演
+    zh_hant: 電影導演
+    zh_hk: 電影導演
+    zh_mo: 電影導演
     zh-my: 电影导演
-    zh-sg: 电影导演
-    zh-tw: 電影導演
+    zh_sg: 电影导演
+    zh_tw: 電影導演
 ---
 # [[Movie-Director]] 
 

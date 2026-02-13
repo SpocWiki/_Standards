@@ -256,7 +256,7 @@ dv_has_:
     ban: Leonhard Euler
     bcl: Leonhard Euler
     be: Леанард Эйлер
-    be-tarask: Леанард Ойлер
+    be_tarask: Леанард Ойлер
     bg: Леонард Ойлер
     bho: लियोनार्ड ऑयलर
     bi: Leonhard Euler
@@ -278,8 +278,8 @@ dv_has_:
     diq: Leonhard Euler
     el: Λέοναρντ Όιλερ
     en: Leonhard Euler
-    en-ca: Leonhard Euler
-    en-gb: Leonhard Euler
+    en_ca: Leonhard Euler
+    en_gb: Leonhard Euler
     eo: Leonhard Euler
     es: Leonhard Euler
     et: Leonhard Euler
@@ -407,7 +407,7 @@ dv_has_:
     yo: Leonhard Euler
     yue: 歐拉
     zh: 萊昂哈德·歐拉
-    zh-hans: 莱昂哈德·欧拉
+    zh_hans: 莱昂哈德·欧拉
 ---
 # [[Euler,Leonhard]] 
 

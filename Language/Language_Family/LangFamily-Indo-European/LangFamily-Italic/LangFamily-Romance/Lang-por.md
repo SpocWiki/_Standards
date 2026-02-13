@@ -364,7 +364,7 @@ dv_has_:
   name_:
     ab: Апортугал бызшәа
     ace: Bahsa Portugéh
-    aeb-arab: البرتغالي
+    aeb_arab: البرتغالي
     af: Portugees
     am: ፖርቱጊዝኛ
     an: Idioma portugués
@@ -384,7 +384,7 @@ dv_has_:
     bar: Portugiesische Sproch
     bcl: Portuges
     be: партугальская мова
-    be-tarask: партугальская мова
+    be_tarask: партугальская мова
     bg: португалски език
     bho: पुर्तगाली भाषा
     bjn: Bahasa Paranggi
@@ -395,7 +395,7 @@ dv_has_:
     btm: Saro Portugis
     bxr: Португал хэлэн
     ca: portuguès
-    cbk-zam: Idioma portugués
+    cbk_zam: Idioma portugués
     cdo: Può-dò̤-ngà-ngṳ̄
     ce: Португалихойн мотт
     ceb: Pinulongang Portuges
@@ -404,7 +404,7 @@ dv_has_:
     ckb: زمانی پورتوگالی
     co: portughese
     crh: Portugal tili
-    crh-latn: Portugal tili
+    crh_latn: Portugal tili
     cs: portugalština
     cv: Португал чĕлхи
     cy: Portiwgaleg
@@ -418,8 +418,8 @@ dv_has_:
     el: Πορτογαλικά
     eml: Partüghês
     en: Portuguese
-    en-ca: Portuguese
-    en-gb: Portuguese
+    en_ca: Portuguese
+    en_gb: Portuguese
     eo: portugala lingvo
     es: portugués
     et: portugali keel
@@ -490,7 +490,7 @@ dv_has_:
     krj: Pinortugalnën
     ks: پُرتَگیٖز
     ku: zimanê portûgalî
-    ku-latn: zimanê portûgalî
+    ku_latn: zimanê portûgalî
     kv: Португал кыв
     kw: Portyngalek
     ky: Португал тили
@@ -522,7 +522,7 @@ dv_has_:
     mni: ꯄꯣꯔꯇꯨꯒꯤꯁ ꯂꯣꯟ
     mr: पोर्तुगीज भाषा
     ms: bahasa Portugis
-    ms-arab: بهاس ڤورتوݢيس
+    ms_arab: بهاس ڤورتوݢيس
     mt: Portugiż
     mwl: pertués
     my: ပေါ်တူဂီဘာသာစကား
@@ -534,7 +534,7 @@ dv_has_:
     nap: Lengua purtuese
     nb: portugisisk
     nds: Portugeesche Spraak
-    nds-nl: Portugees
+    nds_nl: Portugees
     ne: पोर्चुगिज भाषा
     new: पोर्तुगेस भाषा
     nl: Portugees
@@ -556,7 +556,7 @@ dv_has_:
     pnb: پرتگالی
     ps: پرتګالي ژبه
     pt: português
-    pt-br: português
+    pt_br: português
     qu: Purtuyis simi
     rki: ပေါ်တူဂီ သမ္မတနိုင်ငံ
     rm: Lingua portugaisa
@@ -587,7 +587,7 @@ dv_has_:
     so: Af Bortaqiis
     sq: portugisht
     sr: португалски
-    sr-ec: португалски
+    sr_ec: португалски
     su: Basa Portugis
     sv: portugisiska
     sw: Kireno
@@ -610,7 +610,7 @@ dv_has_:
     trv: Kari Putawya
     ts: Xiputukezi
     tt: португал теле
-    tt-cyrl: португал теле
+    tt_cyrl: португал теле
     ty: Reo Pōtītī
     udm: португал кыл
     ug: پورتۇگال تىلى
@@ -634,14 +634,14 @@ dv_has_:
     zea: Portugeês
     zgh: ⵜⵓⵜⵍⴰⵢⵜ ⵜⴰⴱⵓⵔⵜⵓⴳⴰⵍⵉⵜ
     zh: 葡萄牙语
-    zh-cn: 葡萄牙语
-    zh-hans: 葡萄牙语
-    zh-hant: 葡萄牙語
-    zh-hk: 葡萄牙語
-    zh-mo: 葡萄牙語
+    zh_cn: 葡萄牙语
+    zh_hans: 葡萄牙语
+    zh_hant: 葡萄牙語
+    zh_hk: 葡萄牙語
+    zh_mo: 葡萄牙語
     zh-my: 葡萄牙语
-    zh-sg: 葡萄牙语
-    zh-tw: 葡萄牙語
+    zh_sg: 葡萄牙语
+    zh_tw: 葡萄牙語
     zu: IsiPutukezi
 ---
 # [[Lang-por]] 

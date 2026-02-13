@@ -62,7 +62,7 @@ dv_has_:
     ar: قصعة الغبار
     ast: Dust Bowl
     az: Tozlu tufanlar
-    be-tarask: пылавая чара
+    be_tarask: пылавая чара
     ca: Dust Bowl
     cs: Dust Bowl
     cv: Тусан Пырши

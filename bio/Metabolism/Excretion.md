@@ -86,7 +86,7 @@ dv_has_:
     af: uitskeiding
     ar: إفراغ
     ast: Escreción
-    be-tarask: выдзяленьне
+    be_tarask: выдзяленьне
     bg: Отделяне
     bn: রেচন
     bs: izlučivanje
@@ -120,7 +120,7 @@ dv_has_:
     ki: Mũimũro(excretion)
     kn: ವಿಸರ್ಜನೆ
     ko: 배설
-    ku-latn: deravêtin
+    ku_latn: deravêtin
     la: Excretio
     mk: излачување
     ml: വിസർജ്ജനം
@@ -139,8 +139,8 @@ dv_has_:
     sk: vylučovanie
     sl: izločanje
     sr: систем за излучивање
-    sr-ec: систем за излучивање
-    sr-el: sistem za izlučivanje
+    sr_ec: систем за излучивање
+    sr_el: sistem za izlučivanje
     sv: Exkretion
     sw: Kutoa taka za mwili
     ta: கழிப்பு
@@ -155,12 +155,12 @@ dv_has_:
     wuu: 排泄作用
     yue: 屙
     zh: 排泄作用
-    zh-cn: 排泄作用
-    zh-hans: 排泄作用
-    zh-hant: 排泄作用
-    zh-hk: 排泄作用
-    zh-sg: 排泄作用
-    zh-tw: 排泄作用
+    zh_cn: 排泄作用
+    zh_hans: 排泄作用
+    zh_hant: 排泄作用
+    zh_hk: 排泄作用
+    zh_sg: 排泄作用
+    zh_tw: 排泄作用
 ---
 # [[Excretion]] 
 

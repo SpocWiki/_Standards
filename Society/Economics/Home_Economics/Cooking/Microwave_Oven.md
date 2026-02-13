@@ -121,7 +121,7 @@ dv_has_:
     ast: Fornu de microondes
     az: Mikrodalğalı soba
     be: мікрахвалевая печ
-    be-tarask: мікрахвалёўка
+    be_tarask: мікрахвалёўка
     bg: Микровълнова фурна
     bn: মাইক্রোওয়েভ ওভেন
     bs: Mikrovalna peć
@@ -159,11 +159,11 @@ dv_has_:
     ja: 電子レンジ
     jv: Oven gelombang mikro
     kk: Микротолқынды пеш
-    kk-arab: مىيكروتولقىندى پەش
+    kk_arab: مىيكروتولقىندى پەش
     kk-cn: مىيكروتولقىندى پەش
-    kk-cyrl: Микротолқынды пеш
+    kk_cyrl: Микротолқынды пеш
     kk-kz: Микротолқынды пеш
-    kk-latn: Mïkrotolqındı peş
+    kk_latn: Mïkrotolqındı peş
     kk-tr: Mïkrotolqındı peş
     kn: ಮೈಕ್ರೋವೇವ್ ಓವನ್
     ko: 전자레인지
@@ -191,14 +191,14 @@ dv_has_:
     sl: mikrovalovna pečica
     sq: Mikrovala
     sr: микроталасна пећ
-    sr-ec: Микроталасна пећ
-    sr-el: Mikrotalasna peć
+    sr_ec: Микроталасна пећ
+    sr_el: Mikrotalasna peć
     sv: mikrovågsugn
     sw: microwave oven
     ta: நுண்ணலை அடுப்பு
     te: మైక్రోవేవ్ ఓవెన్
     tg: Дастгоҳи майкровейв
-    tg-latn: Dastgohi majkrovejv
+    tg_latn: Dastgohi majkrovejv
     th: เตาอบไมโครเวฟ
     tr: Mikrodalga fırın
     tt: Микродулкынлы пич
@@ -210,12 +210,12 @@ dv_has_:
     wuu: 微波炉
     yue: 微波爐
     zh: 微波炉
-    zh-cn: 微波炉
-    zh-hans: 微波炉
-    zh-hant: 微波爐
-    zh-hk: 微波爐
-    zh-sg: 微波炉
-    zh-tw: 微波爐
+    zh_cn: 微波炉
+    zh_hans: 微波炉
+    zh_hant: 微波爐
+    zh_hk: 微波爐
+    zh_sg: 微波炉
+    zh_tw: 微波爐
 ---
 # [[Microwave_Oven]] 
 

@@ -5,7 +5,7 @@ dv_has_:
     af: Heksagonale digpakking
     ar: نظام بلوري سداسي
     az: heksaqonal sinqoniya
-    be-tarask: гексаганальная крышталічная сыстэма
+    be_tarask: гексаганальная крышталічная сыстэма
     ca: sistema hexagonal
     cs: hexagonální soustava
     de: Hexagonales Kristallsystem
@@ -41,16 +41,16 @@ dv_has_:
     sk: Hexagonálna sústava
     sl: heksagonalni kristalni sistem
     sr: хексагонална кристална система
-    sr-ec: хексагонална кристална система
-    sr-el: heksagonalna kristalna sistema
+    sr_ec: хексагонална кристална система
+    sr_el: heksagonalna kristalna sistema
     sv: hexagonala kristallsystemet
     uk: гексагональна сингонія
     vi: hệ tinh thể lục phương
     wuu: 六方晶系
     zh: 六方晶系
-    zh-hans: 六方晶系
-    zh-hant: 六方晶系
-    zh-hk: 六方晶系
+    zh_hans: 六方晶系
+    zh_hant: 六方晶系
+    zh_hk: 六方晶系
 aliases:
 - corys crystal shey-lhiatteeagh
 - heksagona kristalsistemo

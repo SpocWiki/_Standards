@@ -85,7 +85,7 @@ dv_has_:
     ast: Segundu principiu de la termodinámica
     az: Termodinamikanın ikinci qanunu
     be: другі пачатак тэрмадынамікі
-    be-tarask: другі закон тэрмадынамікі
+    be_tarask: другі закон тэрмадынамікі
     bg: Втори закон на термодинамиката
     bn: তাপগতিবিদ্যার দ্বিতীয় সূত্র
     bs: Drugi zakon termodinamike
@@ -115,11 +115,11 @@ dv_has_:
     ja: 熱力学第二法則
     ka: თერმოდინამიკის მეორე კანონი
     kk: Термодинамиканың екінші бастамасы
-    kk-arab: تەرمودىينامىيكانىڭ ەكىنشى باستاماسى
+    kk_arab: تەرمودىينامىيكانىڭ ەكىنشى باستاماسى
     kk-cn: تەرمودىينامىيكانىڭ ەكىنشى باستاماسى
-    kk-cyrl: Термодинамиканың екінші бастамасы
+    kk_cyrl: Термодинамиканың екінші бастамасы
     kk-kz: Термодинамиканың екінші бастамасы
-    kk-latn: Termodïnamïkanıñ ekinşi bastaması
+    kk_latn: Termodïnamïkanıñ ekinşi bastaması
     kk-tr: Termodïnamïkanıñ ekinşi bastaması
     ko: 열역학 제2법칙
     la: Altera lex thermodynamica
@@ -134,7 +134,7 @@ dv_has_:
     pl: druga zasada termodynamiki
     pnb: تھرموڈائنامکس دا دوجا قنون
     pt: segunda lei da termodinâmica
-    pt-br: segunda lei da termodinâmica
+    pt_br: segunda lei da termodinâmica
     ro: Principiul al doilea al termodinamicii
     ru: второе начало термодинамики
     sco: seicont law o thermodynamics
@@ -143,8 +143,8 @@ dv_has_:
     sk: Druhá termodynamická veta
     sl: drugi zakon termodinamike
     sr: Други принцип термодинамике
-    sr-ec: Други принцип термодинамике
-    sr-el: Drugi princip termodinamike
+    sr_ec: Други принцип термодинамике
+    sr_el: Drugi princip termodinamike
     sv: Termodynamikens andra huvudsats
     ta: வெப்ப இயக்கவியலின் இரண்டாம் விதி
     tg: Қонуни дувуми термодинамика
@@ -157,12 +157,12 @@ dv_has_:
     wuu: 热力学第二定律
     yue: 熱力學第二定律
     zh: 热力学第二定律
-    zh-cn: 热力学第二定律
-    zh-hans: 热力学第二定律
-    zh-hant: 熱力學第二定律
-    zh-hk: 熱力學第二定律
-    zh-sg: 热力学第二定律
-    zh-tw: 熱力學第二定律
+    zh_cn: 热力学第二定律
+    zh_hans: 热力学第二定律
+    zh_hant: 熱力學第二定律
+    zh_hk: 熱力學第二定律
+    zh_sg: 热力学第二定律
+    zh_tw: 熱力學第二定律
 ---
 # [[Second_Law_of_Thermodynamics]] 
 

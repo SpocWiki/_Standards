@@ -97,7 +97,7 @@ dv_has_:
     ast: Autoritarismu
     az: avtoritarizm
     be: аўтарытарызм
-    be-tarask: аўтарытарызм
+    be_tarask: аўтарытарызм
     bg: Авторитаризъм
     bho: ऑथॉरिटेरियनिज़्म
     bn: কর্তৃত্ববাদ
@@ -113,8 +113,8 @@ dv_has_:
     de: Autoritarismus
     el: αυταρχισμός
     en: authoritarianism
-    en-ca: authoritarianism
-    en-gb: authoritarianism
+    en_ca: authoritarianism
+    en_gb: authoritarianism
     eo: aŭtoritatismo
     es: autoritarismo
     et: autoritarism
@@ -140,7 +140,7 @@ dv_has_:
     kk: Авторитаризм
     ko: 권위주의
     ku: otorîteryanîzm
-    ku-latn: otorîteryanîzm
+    ku_latn: otorîteryanîzm
     ky: Авторитаризм
     la: Dominatio immoderata
     lb: Autoritarismus
@@ -163,7 +163,7 @@ dv_has_:
     pl: autorytaryzm
     ps: ټولواکي
     pt: autoritarismo
-    pt-br: autoritarismo
+    pt_br: autoritarismo
     ro: autoritarism
     ru: авторитаризм
     rue: Авторітарізм
@@ -192,10 +192,10 @@ dv_has_:
     xmf: ავტორიტარიზმი
     yue: 集權主義
     zh: 威權主義
-    zh-cn: 权威主义
-    zh-hans: 权威主义
-    zh-hant: 威權主義
-    zh-tw: 威權主義
+    zh_cn: 权威主义
+    zh_hans: 权威主义
+    zh_hant: 威權主義
+    zh_tw: 威權主義
 ---
 # [[Authoritarianism]] 
 

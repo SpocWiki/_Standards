@@ -44,18 +44,18 @@ dv_has_:
     br: Roger Ebert
     bs: Roger Ebert
     ca: Roger Ebert
-    cbk-zam: Roger Ebert
+    cbk_zam: Roger Ebert
     co: Roger Ebert
     cs: Roger Ebert
     cy: Roger Ebert
     da: Roger Ebert
     de: Roger Ebert
-    de-ch: Roger Ebert
+    de_ch: Roger Ebert
     dsb: Roger Ebert
     el: Ρότζερ Ίμπερτ
     en: Roger Ebert
-    en-ca: Roger Ebert
-    en-gb: Roger Ebert
+    en_ca: Roger Ebert
+    en_gb: Roger Ebert
     eo: Roger Ebert
     es: Roger Ebert
     et: Roger Ebert
@@ -104,7 +104,7 @@ dv_has_:
     pl: Roger Ebert
     pms: Roger Ebert
     pt: Roger Ebert
-    pt-br: Roger Ebert
+    pt_br: Roger Ebert
     qu: Roger Ebert
     ro: Roger Ebert
     ru: Роджер Эберт
@@ -115,8 +115,8 @@ dv_has_:
     sl: Roger Ebert
     sq: Roger Ebert
     sr: Роџер Еберт
-    sr-ec: Роџер Еберт
-    sr-el: Rodžer Ebert
+    sr_ec: Роџер Еберт
+    sr_el: Rodžer Ebert
     su: Roger Ebert
     sv: Roger Ebert
     sw: Roger Ebert
@@ -138,12 +138,12 @@ dv_has_:
     yo: Roger Ebert
     yue: 羅渣伊拔
     zh: 罗杰·埃伯特
-    zh-cn: 罗杰·埃伯特
-    zh-hans: 罗杰·埃伯特
-    zh-hant: 羅傑·艾伯特
-    zh-hk: 羅傑·艾伯特
-    zh-sg: 罗杰·埃伯特
-    zh-tw: 羅傑·艾伯特
+    zh_cn: 罗杰·埃伯特
+    zh_hans: 罗杰·埃伯特
+    zh_hant: 羅傑·艾伯特
+    zh_hk: 羅傑·艾伯特
+    zh_sg: 罗杰·埃伯特
+    zh_tw: 羅傑·艾伯特
 ---
 #has_/time_/started :: 1942-06-18 
 #has_/time_/stopped :: 2013-04-04

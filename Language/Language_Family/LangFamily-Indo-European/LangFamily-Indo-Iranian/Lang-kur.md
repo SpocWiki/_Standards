@@ -203,7 +203,7 @@ Krugosvet_article_archived_: narody-i-yazyki/kurdskiy-yazyk
 dv_has_:
   name_:
     ab: Ақәырд бызшәа
-    aeb-arab: الكردي
+    aeb_arab: الكردي
     af: Koerdies
     am: ኩርድኛ
     an: Idioma kurdo
@@ -217,7 +217,7 @@ dv_has_:
     ba: ҡорд телдәре
     bar: Kurdische Sprochn
     be: курдская мова
-    be-tarask: курдзкая мова
+    be_tarask: курдзкая мова
     bg: кюрдски език
     bn: কুর্দি ভাষা
     br: kurdeg
@@ -236,7 +236,7 @@ dv_has_:
     dsb: Kurdšćina
     el: Κουρδική γλώσσα
     en: Kurdish
-    en-gb: Kurdish
+    en_gb: Kurdish
     eo: kurda lingvo
     es: kurdo
     et: kurdi keel
@@ -277,7 +277,7 @@ dv_has_:
     ko: 쿠르드어
     ks: کُردی زَبان
     ku: zimanê kurdî
-    ku-latn: zimanê kurdî
+    ku_latn: zimanê kurdî
     kv: Курд кывъяс
     ky: Күрд тили
     la: Curdice
@@ -310,7 +310,7 @@ dv_has_:
     pnb: کردی
     ps: کوردي ژبه
     pt: língua curda
-    pt-br: língua curda
+    pt_br: língua curda
     qu: Kurdi simi
     ro: limba kurdă
     ru: курдский язык
@@ -338,7 +338,7 @@ dv_has_:
     tok: toki Kuli
     tr: Kürtçe
     tt: көрд теле
-    tt-cyrl: көрд теле
+    tt_cyrl: көрд теле
     ug: كۇرد تىلى
     uk: курдська мова
     ur: کردی زبان
@@ -350,11 +350,11 @@ dv_has_:
     yi: קורדיש
     yue: 庫爾德文
     zh: 庫爾德語
-    zh-cn: 库尔德语
-    zh-hans: 库尔德语
-    zh-hant: 庫德語
-    zh-hk: 庫爾德語
-    zh-tw: 庫德語
+    zh_cn: 库尔德语
+    zh_hans: 库尔德语
+    zh_hant: 庫德語
+    zh_hk: 庫爾德語
+    zh_tw: 庫德語
     zu: isi-Kurdish
 ---
 # [[Lang-kur]] 

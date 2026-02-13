@@ -136,7 +136,7 @@ dv_has_:
     az: Odissey
     ba: Одиссей
     be: Адысей
-    be-tarask: Адысэй
+    be_tarask: Адысэй
     bg: Одисей
     bn: ওডিসিউস
     br: Odysseüs
@@ -181,7 +181,7 @@ dv_has_:
     lt: Odisėjas
     lv: Odisejs
     lzh: 奧德修斯
-    map-bms: Odisseus
+    map_bms: Odisseus
     mg: Ulysse
     mk: Одисеј
     ml: ഒഡീസ്സസ്

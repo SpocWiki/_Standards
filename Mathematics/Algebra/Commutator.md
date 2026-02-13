@@ -21,7 +21,7 @@ dv_has_:
     nl: commutator
     pl: komutator
     pt: comutador
-    pt-br: comutador
+    pt_br: comutador
     ro: comutator
     ru: коммутатор
     sl: komutator

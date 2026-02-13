@@ -107,7 +107,7 @@ dv_has_:
     ban: Kajaatan
     bcl: Maraot
     be: зло
-    be-tarask: зло
+    be_tarask: зло
     bg: Зло
     bn: অশুভ
     br: Fall
@@ -172,7 +172,7 @@ dv_has_:
     th: ความชั่วร้าย
     tr: kötü
     tt: явызлык
-    tt-cyrl: явызлык
+    tt_cyrl: явызлык
     uk: зло
     uz: Yomonlik
     vec: małe
@@ -182,14 +182,14 @@ dv_has_:
     yi: שלעכטס
     yue: 惡
     zh: 惡
-    zh-cn: 恶
-    zh-hans: 恶
-    zh-hant: 惡
-    zh-hk: 惡
-    zh-mo: 惡
+    zh_cn: 恶
+    zh_hans: 恶
+    zh_hant: 惡
+    zh_hk: 惡
+    zh_mo: 惡
     zh-my: 恶
-    zh-sg: 恶
-    zh-tw: 惡
+    zh_sg: 恶
+    zh_tw: 惡
 ---
 # [[Evil]] 
 

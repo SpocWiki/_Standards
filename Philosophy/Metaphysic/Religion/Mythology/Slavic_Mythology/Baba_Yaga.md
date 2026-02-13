@@ -68,7 +68,7 @@ dv_has_:
     ba: Баба-Яга
     bcl: Baba Yaga
     be: Баба-Яга
-    be-tarask: Баба-Яга
+    be_tarask: Баба-Яга
     bg: Баба Яга
     br: Baba Yaga
     bs: Baba Jaga
@@ -119,14 +119,14 @@ dv_has_:
     sl: Jaga baba
     so: Baba Yaga
     sr: Баба Јага
-    sr-ec: Баба Јага
-    sr-el: Baba Jaga
+    sr_ec: Баба Јага
+    sr_el: Baba Jaga
     sv: Baba-Jaga
     sw: Baba Yaga
     ta: பாபா யாகா
     tr: Baba Yaga
     tt: Баба-Яга
-    tt-cyrl: Убырлы карчык
+    tt_cyrl: Убырлы карчык
     uk: Баба-Яга
     uz: Baba-Yaga
     vi: Baba-Yaga
@@ -134,12 +134,12 @@ dv_has_:
     wuu: 芭芭雅嘎
     yue: 耶加婆婆
     zh: 芭芭雅嘎
-    zh-cn: 芭芭雅嘎
-    zh-hans: 芭芭雅嘎
-    zh-hant: 芭芭雅嘎
-    zh-hk: 芭芭雅嘎
-    zh-sg: 芭芭雅嘎
-    zh-tw: 芭芭雅嘎
+    zh_cn: 芭芭雅嘎
+    zh_hans: 芭芭雅嘎
+    zh_hant: 芭芭雅嘎
+    zh_hk: 芭芭雅嘎
+    zh_sg: 芭芭雅嘎
+    zh_tw: 芭芭雅嘎
 ---
 # [[Baba_Yaga]] 
 

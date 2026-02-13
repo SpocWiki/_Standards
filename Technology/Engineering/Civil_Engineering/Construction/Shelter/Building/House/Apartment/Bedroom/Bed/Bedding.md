@@ -81,7 +81,7 @@ dv_has_:
   name_:
     ar: كسوة السرير
     ba: түшәк кейеме
-    be-tarask: пасьцельная бялізна
+    be_tarask: пасьцельная бялізна
     br: Dilhad-gwele
     ca: roba de llit
     chy: Héstoomaestôtse
@@ -114,24 +114,24 @@ dv_has_:
     nn: sengetøy
     pl: posłanie
     pt: roupa de cama
-    pt-br: roupa de cama
+    pt_br: roupa de cama
     ru: постельное бельё
     sah: Орон таҥаһа
     sgs: Patalā
     sh: Posteljina
     sl: posteljnina
     sr: постељина
-    sr-ec: постељина
-    sr-el: posteljina
+    sr_ec: постељина
+    sr_el: posteljina
     su: Sepré
     sv: sängkläder
     tr: Yatak takımı
     uk: постільна білизна
     yue: 床冚
     zh: 床上用品
-    zh-hans: 床上用品
-    zh-hant: 床上用品
-    zh-hk: 牀上用品
+    zh_hans: 床上用品
+    zh_hant: 床上用品
+    zh_hk: 牀上用品
 ---
 # [[Bedding]] 
 

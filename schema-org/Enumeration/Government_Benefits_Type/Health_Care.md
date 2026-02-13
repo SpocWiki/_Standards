@@ -185,7 +185,7 @@ dv_has_:
     ast: asistencia sanitaria
     az: Səhiyyə
     be: ахова здароўя
-    be-tarask: ахова здароўя
+    be_tarask: ахова здароўя
     bg: Здравеопазване
     bn: স্বাস্থ্যসেবা
     bs: zdravstvena zaštita
@@ -196,11 +196,11 @@ dv_has_:
     cy: gofal iechyd
     da: sundhedspleje
     de: Gesundheitsversorgung
-    de-ch: Gesund Unterwegs
+    de_ch: Gesund Unterwegs
     el: φροντίδα υγείας
     en: health care
-    en-ca: health care
-    en-gb: health care
+    en_ca: health care
+    en_gb: health care
     eo: sansistemo
     es: asistencia sanitaria
     et: tervishoid
@@ -235,7 +235,7 @@ dv_has_:
     mk: здравствена заштита
     ml: ആരോഗ്യ പരിപാലനം
     ms: penjagaan kesihatan
-    ms-arab: ڤنجاݢاءن کصيحتن
+    ms_arab: ڤنجاݢاءن کصيحتن
     nb: helsevesen
     ne: स्वास्थ्य सेवा
     nl: gezondheidszorg
@@ -246,7 +246,7 @@ dv_has_:
     pnb: صحت دی دیکھ ریکھ
     ps: روغتيايي پاملرنه
     pt: cuidados em saúde
-    pt-br: assistência médica
+    pt_br: assistência médica
     ro: asistența medicală
     ru: здравоохранение
     sco: heal care
@@ -260,15 +260,15 @@ dv_has_:
     sms: tiõrvâsvuõtthuâll
     sq: Kujdesi shëndetësor
     sr: здравствена заштита
-    sr-ec: здравствена заштита
-    sr-el: zdravstvena zaštita
+    sr_ec: здравствена заштита
+    sr_el: zdravstvena zaštita
     sv: hälso- och sjukvård
     ta: நலம் பேணல்
     th: บริการสุขภาพ
     tl: Pangangalagang pangkalusugan
     tr: sağlık hizmeti
     tt: сәламәтлекне саклау
-    tt-cyrl: сәламәтлекне саклау
+    tt_cyrl: сәламәтлекне саклау
     uk: охорона здоров’я
     ur: صحت کی دیکھ ریکھ
     uz: Sogʻliqni saqlash
@@ -278,8 +278,8 @@ dv_has_:
     yi: העלט קעיר
     yue: 健康護理
     zh: 医疗卫生
-    zh-hant: 醫療衛生
-    zh-tw: 醫療衛生
+    zh_hant: 醫療衛生
+    zh_tw: 醫療衛生
 ---
 # [[Health_Care]] 
 

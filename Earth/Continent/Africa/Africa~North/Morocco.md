@@ -615,7 +615,7 @@ dv_has_:
     ace: Maghribi
     acm: المغرب
     ady: Марокко
-    aeb-arab: المغرب
+    aeb_arab: المغرب
     af: Marokko
     am: ሞሮኮ
     ami: Morocco
@@ -639,7 +639,7 @@ dv_has_:
     bar: Marokko
     bcl: Moroko
     be: Марока
-    be-tarask: Марока
+    be_tarask: Марока
     bew: Magrib
     bg: Мароко
     bgn: مراکش
@@ -654,7 +654,7 @@ dv_has_:
     bs: Maroko
     bxr: Марокко
     ca: Marroc
-    cbk-zam: Marruecos
+    cbk_zam: Marruecos
     cdo: Morocco
     ce: Марокко
     ceb: Kamarokuhan
@@ -662,7 +662,7 @@ dv_has_:
     ckb: مەغریب
     co: Maroccu
     crh: Mağrip
-    crh-latn: Mağrip
+    crh_latn: Mağrip
     cs: Maroko
     csb: Marokò
     cv: Марокко
@@ -671,7 +671,7 @@ dv_has_:
     dag: Moroco
     de: Marokko
     de-at: Marokko
-    de-ch: Marokko
+    de_ch: Marokko
     diq: Morokko
     dsb: Marokko
     dty: मोरोक्को
@@ -680,8 +680,8 @@ dv_has_:
     ee: Marɔko
     el: Μαρόκο
     en: Morocco
-    en-ca: Morocco
-    en-gb: Morocco
+    en_ca: Morocco
+    en_gb: Morocco
     en-us: Morocco
     eo: Maroko
     es: Marruecos
@@ -788,7 +788,7 @@ dv_has_:
     mr: मोरोक्को
     mrj: Марокко
     ms: Maghribi
-    ms-arab: مغربي
+    ms_arab: مغربي
     mt: Marokk
     mwl: Marrocos
     my: မော်ရိုကိုနိုင်ငံ
@@ -799,7 +799,7 @@ dv_has_:
     nap: Marocco
     nb: Marokko
     nds: Marokko
-    nds-nl: Marokko
+    nds_nl: Marokko
     ne: मोरक्को
     new: मोरक्को
     nl: Marokko
@@ -827,7 +827,7 @@ dv_has_:
     pnb: مراکش
     ps: مراکش
     pt: Marrocos
-    pt-br: Marrocos
+    pt_br: Marrocos
     qu: Maruku
     rmy: Morocco
     ro: Maroc
@@ -857,8 +857,8 @@ dv_has_:
     so: Marooko
     sq: Maroku
     sr: Мароко
-    sr-ec: Мароко
-    sr-el: Maroko
+    sr_ec: Мароко
+    sr_el: Maroko
     ss: IMorokho
     st: Morocco
     stq: Marokko
@@ -910,11 +910,11 @@ dv_has_:
     zea: Marokko
     zgh: ⵍⵎⵖⵔⵉⴱ
     zh: 摩洛哥
-    zh-cn: 摩洛哥
-    zh-hans: 摩洛哥
-    zh-hant: 摩洛哥
-    zh-hk: 摩洛哥
-    zh-tw: 摩洛哥
+    zh_cn: 摩洛哥
+    zh_hans: 摩洛哥
+    zh_hant: 摩洛哥
+    zh_hk: 摩洛哥
+    zh_tw: 摩洛哥
     zu: IMorokho
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Morocco

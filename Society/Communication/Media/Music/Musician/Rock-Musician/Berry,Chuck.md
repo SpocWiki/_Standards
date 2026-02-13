@@ -138,7 +138,7 @@ dv_has_:
     az: Çak Berri
     azb: چاک بری
     be: Чак Беры
-    be-tarask: Чак Бэры
+    be_tarask: Чак Бэры
     bg: Чък Бери
     bi: Chuck Berry
     bn: চাক বেরি
@@ -152,8 +152,8 @@ dv_has_:
     ee: Chuck Berry
     el: Τσακ Μπέρι
     en: Chuck Berry
-    en-ca: Chuck Berry
-    en-gb: Chuck Berry
+    en_ca: Chuck Berry
+    en_gb: Chuck Berry
     eo: Chuck Berry
     es: Chuck Berry
     et: Chuck Berry
@@ -202,7 +202,7 @@ dv_has_:
     pl: Chuck Berry
     pms: Chuck Berry
     pt: Chuck Berry
-    pt-br: Chuck Berry
+    pt_br: Chuck Berry
     qu: Chuck Berry
     ro: Chuck Berry
     ru: Чак Берри
@@ -226,12 +226,12 @@ dv_has_:
     yo: Chuck Berry
     yue: 卓巴利
     zh: 查克·贝里
-    zh-cn: 恰克·贝瑞
-    zh-hant: 查克·貝里
-    zh-hk: 查克·巴利
+    zh_cn: 恰克·贝瑞
+    zh_hant: 查克·貝里
+    zh_hk: 查克·巴利
     zh-my: 查克·贝瑞
-    zh-sg: 查克·贝瑞
-    zh-tw: 查克·貝瑞
+    zh_sg: 查克·贝瑞
+    zh_tw: 查克·貝瑞
 ---
 # [[Berry,Chuck]] 
 

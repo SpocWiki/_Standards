@@ -159,7 +159,7 @@ dv_has_:
     ast: Organización Europea pa la Investigación Nuclear
     az: CERN
     be: CERN
-    be-tarask: CERN
+    be_tarask: CERN
     bg: Европейска организация за ядрени изследвания
     bn: নিউক্লীয় গবেষণার জন্য ইউরোপীয় সংস্থা
     br: CERN
@@ -172,12 +172,12 @@ dv_has_:
     cy: CERN
     da: CERN
     de: CERN
-    de-ch: CERN
+    de_ch: CERN
     diq: CERN
     el: CERN
     en: CERN
-    en-ca: CERN
-    en-gb: CERN
+    en_ca: CERN
+    en_gb: CERN
     eo: CERN
     es: Organización Europea para la Investigación Nuclear
     et: CERN
@@ -222,7 +222,7 @@ dv_has_:
     pl: CERN
     pnb: سرن
     pt: CERN
-    pt-br: Organização Europeia para a Pesquisa Nuclear
+    pt_br: Organização Europeia para a Pesquisa Nuclear
     ro: CERN
     ru: ЦЕРН
     sa: सी.इ.आर्.एन्
@@ -252,7 +252,7 @@ dv_has_:
     yo: CERN
     yue: 歐洲核研究組織
     zh: 歐洲核子研究組織
-    zh-hant: 歐洲核子研究組織
+    zh_hant: 歐洲核子研究組織
 ---
 # [[CERN]] 
 

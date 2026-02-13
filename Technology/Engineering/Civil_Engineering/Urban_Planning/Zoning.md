@@ -51,7 +51,7 @@ dv_has_:
     ar: التقسيم إلى مناطق
     ast: zonificación
     be: занаванне
-    be-tarask: занаваньне
+    be_tarask: занаваньне
     bn: অঞ্চলবিভাজন
     ca: zonificació
     de: Zonierung
@@ -87,8 +87,8 @@ dv_has_:
     vec: zonifegasion
     yue: 土地用途分區
     zh: 土地使用分區
-    zh-cn: 土地使用分區
-    zh-hant: 土地使用分割槽
+    zh_cn: 土地使用分區
+    zh_hant: 土地使用分割槽
 ---
 # [[Zoning]] 
 

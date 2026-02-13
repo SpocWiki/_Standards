@@ -13,7 +13,7 @@ dv_has_:
     bar: Theologie
     bcl: Teolohiya
     be: багаслоўе
-    be-tarask: багаслоўе
+    be_tarask: багаслоўе
     bg: Богословие
     bn: ধর্মতত্ত্ব
     bo: ལྷ་ཆོས་རིག་པ།
@@ -88,7 +88,7 @@ dv_has_:
     mk: богословие
     ml: ദൈവശാസ്ത്രം
     ms: teologi
-    ms-arab: تيولوݢي
+    ms_arab: تيولوݢي
     mt: teoloġija
     my: Theology
     nan: Sîn-ha̍k
@@ -127,8 +127,8 @@ dv_has_:
     sms: teologia
     sq: Teologjia
     sr: теологија
-    sr-ec: теологија
-    sr-el: teologija
+    sr_ec: теологија
+    sr_el: teologija
     su: Téologi
     sv: teologi
     sw: Teolojia
@@ -139,7 +139,7 @@ dv_has_:
     tl: teolohiya
     tr: tanrı bilimi
     tt: дин өйрәтмәләре
-    tt-cyrl: дин өйрәтмәләре
+    tt_cyrl: дин өйрәтмәләре
     uk: богослів'я
     ur: الٰہیات
     uz: Teologiya
@@ -152,8 +152,8 @@ dv_has_:
     yi: טעאלאגיע
     yue: 神學
     zh: 神學
-    zh-hant: 神學
-    zh-tw: 神學
+    zh_hant: 神學
+    zh_tw: 神學
     zu: Umchazathixo
 aliases:
 - Annduki laaminkeehi

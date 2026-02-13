@@ -51,7 +51,7 @@ dv_has_:
     azb: ریچل وایس
     bar: Rachel Weisz
     be: Рэйчэл Вайс
-    be-tarask: Рэйчэл Вайз
+    be_tarask: Рэйчэл Вайз
     bg: Рейчъл Вайс
     bn: র্যাচেল ভাইস
     br: Rachel Weisz
@@ -63,11 +63,11 @@ dv_has_:
     da: Rachel Weisz
     de: Rachel Weisz
     de-at: Rachel Weisz
-    de-ch: Rachel Weisz
+    de_ch: Rachel Weisz
     el: Ρέιτσελ Βάις
     en: Rachel Weisz
-    en-ca: Rachel Weisz
-    en-gb: Rachel Weisz
+    en_ca: Rachel Weisz
+    en_gb: Rachel Weisz
     eo: Rachel Weisz
     es: Rachel Weisz
     et: Rachel Weisz
@@ -119,7 +119,7 @@ dv_has_:
     nap: Rachel Weisz
     nb: Rachel Weisz
     nds: Rachel Weisz
-    nds-nl: Rachel Weisz
+    nds_nl: Rachel Weisz
     nl: Rachel Weisz
     nn: Rachel Weisz
     nrm: Rachel Weisz
@@ -132,7 +132,7 @@ dv_has_:
     pms: Rachel Weisz
     pnb: ریچل وایز
     pt: Rachel Weisz
-    pt-br: Rachel Weisz
+    pt_br: Rachel Weisz
     rm: Rachel Weisz
     ro: Rachel Weisz
     ru: Рэйчел Вайс
@@ -144,8 +144,8 @@ dv_has_:
     sl: Rachel Weisz
     sq: Rachel Weisz
     sr: Рејчел Вајс
-    sr-ec: Рејчел Вајс
-    sr-el: Rejčel Vajs
+    sr_ec: Рејчел Вајс
+    sr_el: Rejčel Vajs
     sv: Rachel Weisz
     sw: Rachel Weisz
     ta: ரேச்சல் வய்ஸ்
@@ -168,13 +168,13 @@ dv_has_:
     yo: Rachel Weisz
     yue: 麗素慧絲
     zh: 麗素·慧絲
-    zh-cn: 瑞切尔·薇兹
-    zh-hans: 瑞切尔·薇兹
-    zh-hant: 瑞秋·懷茲
-    zh-hk: 麗素·慧絲
+    zh_cn: 瑞切尔·薇兹
+    zh_hans: 瑞切尔·薇兹
+    zh_hant: 瑞秋·懷茲
+    zh_hk: 麗素·慧絲
     zh-my: 瑞秋·怀兹
-    zh-sg: 雷切尔·韦姿
-    zh-tw: 瑞秋·懷茲
+    zh_sg: 雷切尔·韦姿
+    zh_tw: 瑞秋·懷茲
     zu: Rachel Weisz
 ---
 # [[Weisz,Rachel]] 

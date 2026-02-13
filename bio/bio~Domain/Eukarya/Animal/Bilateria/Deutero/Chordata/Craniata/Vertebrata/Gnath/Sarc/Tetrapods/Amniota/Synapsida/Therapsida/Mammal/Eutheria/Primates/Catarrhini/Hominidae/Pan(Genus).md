@@ -134,7 +134,7 @@ dv_has_:
     azb: شامپانزه
     ba: Шимпанзе
     be: шымпанзэ
-    be-tarask: шымпанзэ
+    be_tarask: шымпанзэ
     bg: шимпанзета
     bn: শিম্পাঞ্জী
     br: Chimpanze
@@ -147,7 +147,7 @@ dv_has_:
     cy: Tsimpansî
     da: chimpanse
     de: Schimpansen
-    de-ch: Schimpansen
+    de_ch: Schimpansen
     el: χιμπαντζής
     en: Pan
     eo: Ĉimpanza genro
@@ -183,7 +183,7 @@ dv_has_:
     ka: შიმპანზე
     kg: Kimpenzi
     kk: Шимпанзе
-    kk-cyrl: род
+    kk_cyrl: род
     kn: ಚಿಂಪಾಂಜಿ಼
     ko: 침팬지속
     kw: Chympansi
@@ -217,7 +217,7 @@ dv_has_:
     pnb: چمپینزی
     ps: چمپانزي
     pt: Chimpanzé
-    pt-br: Chimpanzé
+    pt_br: Chimpanzé
     qu: Chimpansi
     rn: Imamfu
     ro: Cimpanzeu
@@ -247,8 +247,8 @@ dv_has_:
     wuu: 黑猩猩属
     yue: 黑猩猩屬
     zh: 黑猩猩屬
-    zh-cn: 黑猩猩属
-    zh-tw: 黑猩猩屬
+    zh_cn: 黑猩猩属
+    zh_tw: 黑猩猩屬
 ---
 # [[Pan(Genus)]] 
 

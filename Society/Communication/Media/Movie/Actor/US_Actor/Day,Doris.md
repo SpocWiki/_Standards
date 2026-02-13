@@ -127,7 +127,7 @@ dv_has_:
     az: Doris Dey
     azb: دوریس دی
     bcl: Doris Day
-    be-tarask: Дорыс Дэй
+    be_tarask: Дорыс Дэй
     bg: Дорис Дей
     bn: ডরিস ডে
     br: Doris Day
@@ -138,12 +138,12 @@ dv_has_:
     cy: Doris Day
     da: Doris Day
     de: Doris Day
-    de-ch: Doris Day
+    de_ch: Doris Day
     el: Ντόρις Ντέι
     eml: Doris Day
     en: Doris Day
-    en-ca: Doris Day
-    en-gb: Doris Day
+    en_ca: Doris Day
+    en_gb: Doris Day
     eo: Doris Day
     es: Doris Day
     et: Doris Day
@@ -192,7 +192,7 @@ dv_has_:
     pap: Doris Day
     pl: Doris Day
     pt: Doris Day
-    pt-br: Doris Day
+    pt_br: Doris Day
     qu: Doris Day
     rmf: Doris Day
     ro: Doris Day
@@ -213,7 +213,7 @@ dv_has_:
     sms: Doris Day
     sq: Doris Day
     sr: Дорис Деј
-    sr-ec: Дорис Деј
+    sr_ec: Дорис Деј
     sv: Doris Day
     th: ดอริส เดย์
     tl: Doris Day
@@ -229,13 +229,13 @@ dv_has_:
     yo: Doris Day
     yue: 桃麗絲黛
     zh: 桃樂絲·黛
-    zh-cn: 多丽丝·戴
-    zh-hans: 桃丽丝·黛
-    zh-hant: 桃樂絲·黛
-    zh-hk: 桃麗絲·黛
+    zh_cn: 多丽丝·戴
+    zh_hans: 桃丽丝·黛
+    zh_hant: 桃樂絲·黛
+    zh_hk: 桃麗絲·黛
     zh-my: 桃丽丝·黛
-    zh-sg: 桃丽丝·黛
-    zh-tw: 桃樂絲·黛
+    zh_sg: 桃丽丝·黛
+    zh_tw: 桃樂絲·黛
 ---
 # [[Day,Doris]] 
 

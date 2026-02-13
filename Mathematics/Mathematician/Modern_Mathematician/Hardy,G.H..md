@@ -162,7 +162,7 @@ dv_has_:
     az: Qodfri Hardi
     azb: قادفری هارولد هاردی
     be: Годфры Харалд Хардзі
-    be-tarask: Годфры Гаралд Гардзі
+    be_tarask: Годфры Гаралд Гардзі
     bg: Годфри Харолд Харди
     bn: গডফ্রি হ্যারল্ড হার্ডি
     ca: Godfrey Harold Hardy
@@ -170,11 +170,11 @@ dv_has_:
     cs: G. H. Hardy
     da: G.H. Hardy
     de: Godfrey Harold Hardy
-    de-ch: Godfrey Harold Hardy
+    de_ch: Godfrey Harold Hardy
     el: Γκόντφρεϊ Χάρολντ Χάρντι
     en: G.H. Hardy
-    en-ca: G. H. Hardy
-    en-gb: G. H. Hardy
+    en_ca: G. H. Hardy
+    en_gb: G. H. Hardy
     eo: Godfrey Harold Hardy
     es: Godfrey Harold Hardy
     eu: Godfrey Harold Hardy
@@ -210,7 +210,7 @@ dv_has_:
     pms: Godfrey Harold Hardy
     pnb: گاڈفری ہیرالڈ ہارڈی
     pt: G. H. Hardy
-    pt-br: G. H. Hardy
+    pt_br: G. H. Hardy
     ru: Годфри Харолд Харди
     scn: Godfrey Harold Hardy
     sco: G. H. Hardy
@@ -218,7 +218,7 @@ dv_has_:
     sl: Godfrey Harold Hardy
     sq: G.H. Hardy
     sr: Годфри Харолд Харди
-    sr-ec: Годфри Харолд Харди
+    sr_ec: Годфри Харолд Харди
     sv: Godfrey Harold Hardy
     ta: ஜி. எச். ஹார்டி
     th: จี. เอช. ฮาร์ดี้
@@ -230,12 +230,12 @@ dv_has_:
     wuu: 戈弗雷·哈罗德·哈代
     yue: 高飛哈代
     zh: 戈弗雷·哈罗德·哈代
-    zh-cn: 戈弗雷·哈罗德·哈代
-    zh-hans: 戈弗雷·哈罗德·哈代
-    zh-hant: 戈弗雷·哈羅德·哈代
-    zh-hk: 戈弗雷·哈羅德·哈代
-    zh-sg: 戈弗雷·哈罗德·哈代
-    zh-tw: 戈弗雷·哈羅德·哈代
+    zh_cn: 戈弗雷·哈罗德·哈代
+    zh_hans: 戈弗雷·哈罗德·哈代
+    zh_hant: 戈弗雷·哈羅德·哈代
+    zh_hk: 戈弗雷·哈羅德·哈代
+    zh_sg: 戈弗雷·哈罗德·哈代
+    zh_tw: 戈弗雷·哈羅德·哈代
 ---
 # [[Hardy,G.H.]] 
 

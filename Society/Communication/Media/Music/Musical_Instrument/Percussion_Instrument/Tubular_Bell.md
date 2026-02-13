@@ -52,14 +52,14 @@ dv_has_:
   name_:
     ar: أجراس أنبوبية
     ast: Campanes tubulares
-    be-tarask: аркестравыя звоны
+    be_tarask: аркестравыя звоны
     bg: Оркестрови камбани
     ca: campana tubular
     cs: trubicové zvony
     da: Rørklokker
     de: Röhrenglocken
     en: tubular bell
-    en-gb: tubular bells
+    en_gb: tubular bells
     eo: tuba sonorilaro
     es: campanas tubulares
     et: Torukellad
@@ -87,7 +87,7 @@ dv_has_:
     uz: Orkestr qoʻngʻiroqlari
     yue: 管鐘琴
     zh: 管钟
-    zh-tw: 管鐘
+    zh_tw: 管鐘
 ---
 # [[Tubular_Bell]]
 

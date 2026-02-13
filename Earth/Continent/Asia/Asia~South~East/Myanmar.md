@@ -217,7 +217,7 @@ dv_has_:
     ab: Мианма
     ace: Myanmar
     ady: Бирмэ
-    aeb-arab: ميانمار
+    aeb_arab: ميانمار
     af: Mianmar
     am: ምየንማ
     ami: Burma
@@ -238,7 +238,7 @@ dv_has_:
     bar: Myanmar
     bcl: Myanmar
     be: М’янма
-    be-tarask: М’янма
+    be_tarask: М’янма
     bew: Birma
     bg: Мианмар
     bho: म्याँमार
@@ -253,14 +253,14 @@ dv_has_:
     bug: ᨆᨗᨐᨆᨑ
     bxr: Мьянма
     ca: Myanmar
-    cbk-zam: Birmania
+    cbk_zam: Birmania
     cdo: Miēng-diêng
     ce: Мьянма
     ceb: Miyangma
     ckb: میانمار
     co: Birmania
     crh: Myanmar
-    crh-latn: Myanmar
+    crh_latn: Myanmar
     cs: Myanmar
     csb: Myanmar
     cv: Мьянма
@@ -269,7 +269,7 @@ dv_has_:
     dag: Myanmar
     de: Myanmar
     de-at: Myanmar
-    de-ch: Myanmar
+    de_ch: Myanmar
     diq: Myanmar
     dsb: Myanmar
     dtp: Myanmar
@@ -279,8 +279,8 @@ dv_has_:
     ee: Myanmar
     el: Μιανμάρ
     en: Myanmar
-    en-ca: Myanmar
-    en-gb: Myanmar
+    en_ca: Myanmar
+    en_gb: Myanmar
     en-us: Myanmar
     eo: Birmo
     es: Birmania
@@ -305,7 +305,7 @@ dv_has_:
     gn: Miamar
     gom: म्यानमार
     gom-deva: म्यानमार
-    gom-latn: Myanmar
+    gom_latn: Myanmar
     got: "\U0001033C\U0001033E\U00010330\U0001033D\U0001033C\U00010330\U00010342/Mjanmar"
     gpe: Myanmar
     gsw: Myanmar
@@ -371,7 +371,7 @@ dv_has_:
     lzh: 緬甸
     mad: Myanmar
     mai: बर्मा
-    map-bms: Myanmar
+    map_bms: Myanmar
     mdf: Мьянма
     mg: Myanmara
     mhr: Мьянма
@@ -385,7 +385,7 @@ dv_has_:
     mnw: ဍုင်ရးဗၟာ
     mr: म्यानमार
     ms: Myanmar
-    ms-arab: ميانمر
+    ms_arab: ميانمر
     mt: Myanmar/Burma
     my: မြန်မာ
     mzn: میونمار
@@ -395,7 +395,7 @@ dv_has_:
     nap: Birmania
     nb: Myanmar
     nds: Myanmar
-    nds-nl: Myanmar
+    nds_nl: Myanmar
     ne: म्यानमार
     new: म्यानमार
     nia: Myanmar
@@ -421,7 +421,7 @@ dv_has_:
     pnb: میانمر
     ps: ميانمار
     pt: Myanmar
-    pt-br: Birmânia
+    pt_br: Birmânia
     qu: Myanmar
     rn: Burumaniya
     ro: Myanmar
@@ -448,8 +448,8 @@ dv_has_:
     so: Burma
     sq: Birmania
     sr: Мјанмар
-    sr-ec: Мјанмар
-    sr-el: Mjanmar
+    sr_ec: Мјанмар
+    sr_el: Mjanmar
     ss: IMayanima
     su: Myanmar
     sv: Myanmar
@@ -498,14 +498,14 @@ dv_has_:
     zea: Myanmar
     zgh: ⵎⵢⴰⵏⵎⴰⵕ
     zh: 緬甸
-    zh-cn: 缅甸
-    zh-hans: 缅甸
-    zh-hant: 緬甸
-    zh-hk: 緬甸
-    zh-mo: 緬甸
+    zh_cn: 缅甸
+    zh_hans: 缅甸
+    zh_hant: 緬甸
+    zh_hk: 緬甸
+    zh_mo: 緬甸
     zh-my: 缅甸
-    zh-sg: 缅甸
-    zh-tw: 緬甸
+    zh_sg: 缅甸
+    zh_tw: 緬甸
     zu: i-Myanmar
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Myanmar

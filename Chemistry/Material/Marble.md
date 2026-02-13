@@ -138,7 +138,7 @@ dv_has_:
     azb: مرمر
     ba: мәрмәр
     be: мармур
-    be-tarask: мармур
+    be_tarask: мармур
     bew: Batu kosta
     bg: мрамор
     bho: संगमरमर
@@ -151,11 +151,11 @@ dv_has_:
     cy: marmor
     da: marmor
     de: Marmor
-    de-ch: Marmor
+    de_ch: Marmor
     el: μάρμαρο
     en: marble
-    en-ca: marble
-    en-gb: marble
+    en_ca: marble
+    en_gb: marble
     eo: marmoro
     es: mármol
     et: marmor
@@ -216,7 +216,7 @@ dv_has_:
     pl: marmur
     pnb: سنگ مرمر
     pt: mármore
-    pt-br: mármore
+    pt_br: mármore
     qu: Pachar
     ro: marmură
     ru: мрамор

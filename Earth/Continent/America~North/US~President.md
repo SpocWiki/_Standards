@@ -273,7 +273,7 @@ dv_has_:
     ban: Présidén Amérika Serikat
     bcl: Presidente kan Estados Unidos
     be: Прэзідэнт ЗША
-    be-tarask: прэзыдэнт ЗША
+    be_tarask: прэзыдэнт ЗША
     bg: Президент на Съединените американски щати
     bn: মার্কিন যুক্তরাষ্ট্রের রাষ্ট্রপতি
     br: Prezidant ar Stadoù-Unanet
@@ -288,12 +288,12 @@ dv_has_:
     cy: Arlywydd Unol Daleithiau America
     da: USA's præsident
     de: Präsident der Vereinigten Staaten
-    de-ch: Präsident der Vereinigten Staaten
+    de_ch: Präsident der Vereinigten Staaten
     dv: އެމެރިކާގެ ރައީސްކަން ކުރައްވާފައިވާ ބޭފުޅުން
     el: Πρόεδρος των Ηνωμένων Πολιτειών Αμερικής
     en: President of the United States
-    en-ca: President of the United States
-    en-gb: President of the United States
+    en_ca: President of the United States
+    en_gb: President of the United States
     eo: Prezidanto de Usono
     es: presidente de los Estados Unidos
     et: Ameerika Ühendriikide president
@@ -333,7 +333,7 @@ dv_has_:
     ko: 미국의 대통령
     ks: اَمریٖکُک صدٕر
     ku: Serokê Dewletên Yekbûyî yên Amerîkayê
-    ku-latn: Serokê Dewletên Yekbûyî yên Amerîkayê
+    ku_latn: Serokê Dewletên Yekbûyî yên Amerîkayê
     la: Praeses Civitatum Foederatarum Americae
     lb: President vun de Vereenegte Staaten
     lmo: President di Stat Unii
@@ -349,7 +349,7 @@ dv_has_:
     mn: Америкийн Нэгдсэн Улсын ерөнхийлөгч
     mr: अमेरिकेचे राष्ट्राध्यक्ष
     ms: Presiden Amerika Syarikat
-    ms-arab: ڤريسيدن اميريکا شريکت
+    ms_arab: ڤريسيدن اميريکا شريکت
     mt: President tal-Istati Uniti
     my: အမေရိကန်ပြည်ထောင်စု၏ သမ္မတ
     mzn: آمریکایِ متحدِ ایالاتِ رییسجمهور
@@ -370,7 +370,7 @@ dv_has_:
     pnb: صدر امریکا
     ps: د متحده ایالاتو ولسمشر
     pt: Presidente dos Estados Unidos
-    pt-br: Presidente dos Estados Unidos
+    pt_br: Presidente dos Estados Unidos
     ro: președinte al Statelor Unite ale Americii
     ru: президент США
     rue: Презідент США
@@ -385,8 +385,8 @@ dv_has_:
     sms: Ameriikk õhttõõvvâmvaaʹldi presideʹntt
     sq: Kryetari i Shteteve të Bashkuara
     sr: председник Сједињених Америчких Држава
-    sr-ec: председник Сједињених Америчких Држава
-    sr-el: predsednik Sjedinjenih Američkih Država
+    sr_ec: председник Сједињених Америчких Држава
+    sr_el: predsednik Sjedinjenih Američkih Država
     sv: USA:s president
     sw: Rais wa Marekani
     ta: ஐக்கிய அமெரிக்க நாட்டுக் குடியரசுத் தலைவர்
@@ -397,7 +397,7 @@ dv_has_:
     tok: jan lawa pi ma Mewika
     tr: Amerika Birleşik Devletleri Başkanı
     tt: АКШ президенты
-    tt-cyrl: АКШ президенты
+    tt_cyrl: АКШ президенты
     uk: Президент США
     ur: صدر ریاستہائے متحدہ امریکا
     uz: AQSh Prezidenti
@@ -411,14 +411,14 @@ dv_has_:
     yue: 美國總統
     za: Meijgoz cungjdungj
     zh: 美國總統
-    zh-cn: 美国总统
-    zh-hans: 美国总统
-    zh-hant: 美國總統
-    zh-hk: 美國總統
-    zh-mo: 美國總統
+    zh_cn: 美国总统
+    zh_hans: 美国总统
+    zh_hant: 美國總統
+    zh_hk: 美國總統
+    zh_mo: 美國總統
     zh-my: 美国总统
-    zh-sg: 美国总统
-    zh-tw: 美國總統
+    zh_sg: 美国总统
+    zh_tw: 美國總統
 ---
 # [[US~President]] 
 

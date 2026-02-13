@@ -73,7 +73,7 @@ dv_has_:
     az: Veto
     ba: Тыйыу
     be: Вета
-    be-tarask: вета
+    be_tarask: вета
     bg: Вето
     bn: ভেটো
     bs: Veto
@@ -85,8 +85,8 @@ dv_has_:
     de: Vetorecht
     el: Αρνησικυρία
     en: veto power
-    en-ca: Veto
-    en-gb: Veto
+    en_ca: Veto
+    en_gb: Veto
     eo: vetoo
     es: Veto
     et: Veto
@@ -108,11 +108,11 @@ dv_has_:
     ka: ვეტო
     ki: Ngotho
     kk: Вето
-    kk-arab: ۆەتو
+    kk_arab: ۆەتو
     kk-cn: ۆەتو
-    kk-cyrl: Вето
+    kk_cyrl: Вето
     kk-kz: Вето
-    kk-latn: Veto
+    kk_latn: Veto
     kk-tr: Veto
     ko: 거부권
     krc: Вето
@@ -132,15 +132,15 @@ dv_has_:
     nn: veto
     pl: Weto
     pt: veto
-    pt-br: Veto
+    pt_br: Veto
     ro: putere de veto
     ru: вето
     sh: Veto
     sk: Veto
     sl: veto
     sr: Вето
-    sr-ec: Вето
-    sr-el: Veto
+    sr_ec: Вето
+    sr_el: Veto
     sv: veto
     sw: Veto
     ta: வீட்டோ
@@ -157,12 +157,12 @@ dv_has_:
     wuu: 否决权
     yue: 否決權
     zh: 否決權
-    zh-cn: 否决权
-    zh-hans: 否决权
-    zh-hant: 否決權
-    zh-hk: 否決權
-    zh-sg: 否决权
-    zh-tw: 否決權
+    zh_cn: 否决权
+    zh_hans: 否决权
+    zh_hant: 否決權
+    zh_hk: 否決權
+    zh_sg: 否决权
+    zh_tw: 否決權
 ---
 # [[Veto_Power]] 
 

@@ -146,7 +146,7 @@ dv_has_:
     bar: Deifi
     bcl: Diyablo
     be: д’ябал
-    be-tarask: д’ябал
+    be_tarask: д’ябал
     bg: дявол
     bjn: Abilis
     bn: শয়তান
@@ -162,8 +162,8 @@ dv_has_:
     el: Διάβολος
     eml: diàvul
     en: devil
-    en-ca: devil
-    en-gb: devil
+    en_ca: devil
+    en_gb: devil
     eo: diablo
     es: diablo
     et: kurat
@@ -212,7 +212,7 @@ dv_has_:
     pl: diabeł
     pnt: γουρζουλάς
     pt: diabo
-    pt-br: diabo
+    pt_br: diabo
     qu: Saqra
     rmy: Beng
     ro: diavol
@@ -228,7 +228,7 @@ dv_has_:
     so: Shaydaanka
     sq: Dreqi
     sr: ђаво
-    sr-ec: ђаво
+    sr_ec: ђаво
     stq: Djúvel
     su: Sétan
     sv: djävulen
@@ -247,10 +247,10 @@ dv_has_:
     xmf: ეშმაკი
     yue: 魔鬼
     zh: 魔鬼
-    zh-cn: 魔鬼
-    zh-hans: 魔鬼
-    zh-hant: 魔鬼
-    zh-hk: 魔鬼
+    zh_cn: 魔鬼
+    zh_hans: 魔鬼
+    zh_hant: 魔鬼
+    zh_hk: 魔鬼
 ---
 # [[Devil]] 
 

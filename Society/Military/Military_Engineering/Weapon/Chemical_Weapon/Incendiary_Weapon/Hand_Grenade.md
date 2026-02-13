@@ -109,7 +109,7 @@ dv_has_:
     az: Əl bombası
     ba: Граната
     be: ручная граната
-    be-tarask: ручная граната
+    be_tarask: ручная граната
     bg: Граната
     bn: গ্রেনেড
     br: Greunadenn (arm)
@@ -141,11 +141,11 @@ dv_has_:
     ja: 手榴弾
     jv: Granat tangan
     kk: Гранат
-    kk-arab: گرانات
+    kk_arab: گرانات
     kk-cn: گرانات
-    kk-cyrl: Гранат
+    kk_cyrl: Гранат
     kk-kz: Гранат
-    kk-latn: Granat
+    kk_latn: Granat
     kk-tr: Granat
     ko: 수류탄
     ku: Narîncok
@@ -165,7 +165,7 @@ dv_has_:
     pms: Granata a man
     pnb: ہتھ گولا
     pt: granada de mão
-    pt-br: granada de mão
+    pt_br: granada de mão
     ro: grenadă
     ru: ручная граната
     sah: Гранаата
@@ -176,8 +176,8 @@ dv_has_:
     sl: ročna bomba
     sq: Granata
     sr: граната
-    sr-ec: ручна бомба
-    sr-el: granata
+    sr_ec: ручна бомба
+    sr_el: granata
     sv: handgranat
     te: చేతి బాంబు
     tg: Норинҷакҳо
@@ -193,12 +193,12 @@ dv_has_:
     yi: האנט גראנאט
     yue: 手榴彈
     zh: 手榴弹
-    zh-cn: 手榴弹
-    zh-hans: 手榴弹
-    zh-hant: 手榴彈
-    zh-hk: 手榴彈
-    zh-sg: 手榴弹
-    zh-tw: 手榴彈
+    zh_cn: 手榴弹
+    zh_hans: 手榴弹
+    zh_hant: 手榴彈
+    zh_hk: 手榴彈
+    zh_sg: 手榴弹
+    zh_tw: 手榴彈
 ---
 # [[Hand_Grenade]] 
 

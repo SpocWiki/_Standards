@@ -107,7 +107,7 @@ dv_has_:
     ast: biblioteca dixital
     az: elektron kitabxana
     be: электронная бібліятэка
-    be-tarask: электронная бібліятэка
+    be_tarask: электронная бібліятэка
     bg: електронна библиотека
     bn: ডিজিটাল গ্রন্থাগার
     bs: Digitalna biblioteka
@@ -154,7 +154,7 @@ dv_has_:
     nn: digitalt bibliotek
     pl: biblioteka cyfrowa
     pt: biblioteca digital
-    pt-br: biblioteca digital
+    pt_br: biblioteca digital
     rki: ဒစ်ဂျစ်တယ် စာကြည့်တိုက်
     ro: bibliotecă digitală
     ru: электронная библиотека
@@ -166,26 +166,26 @@ dv_has_:
     sms: neʹttǩeʹrjjpõrtt
     sq: Biblioteka digjitale
     sr: дигитална библиотека
-    sr-ec: електронска библиотека
-    sr-el: elektronska biblioteka
+    sr_ec: електронска библиотека
+    sr_el: elektronska biblioteka
     sv: digitalt bibliotek
     ta: எண்ணிம நூலகம்
     te: డిజిటల్ గ్రంధాలయం
     tr: sayısal kütüphane
     tt: электрон китапханә
-    tt-cyrl: электрон китапханә
+    tt_cyrl: электрон китапханә
     uk: онлайн-бібліотека
     ur: برقی
     vi: thư viện số
     yue: 數碼圖書館
     zh: 數位圖書館
-    zh-cn: 数字图书馆
-    zh-hans: 数字图书馆
-    zh-hant: 數位圖書館
-    zh-hk: 數碼圖書館
+    zh_cn: 数字图书馆
+    zh_hans: 数字图书馆
+    zh_hant: 數位圖書館
+    zh_hk: 數碼圖書館
     zh-my: 数码图书馆
-    zh-sg: 数码图书馆
-    zh-tw: 數位圖書館
+    zh_sg: 数码图书馆
+    zh_tw: 數位圖書館
     zu: Umtapolwazi wezezibhangqiwe
 ---
 # [[Digital_Library]] 

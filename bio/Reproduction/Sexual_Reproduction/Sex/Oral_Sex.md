@@ -116,7 +116,7 @@ dv_has_:
     azb: آغیز سکسی
     bcl: Pagdurog na pangngoso
     be: аральны секс
-    be-tarask: аральны сэкс
+    be_tarask: аральны сэкс
     bg: Орален секс
     bho: मुख मैथुन
     bn: মুখমৈথুন
@@ -131,8 +131,8 @@ dv_has_:
     diq: Sekso oral
     el: Στοματικό σεξ
     en: oral sex
-    en-ca: Oral sex
-    en-gb: oral sex
+    en_ca: Oral sex
+    en_gb: oral sex
     eo: buŝa seksumado
     es: sexo oral
     et: oraalseks
@@ -159,7 +159,7 @@ dv_has_:
     kk: Оралды секс
     ko: 구강성교
     ku: seksa oral
-    ku-latn: seksa oral
+    ku_latn: seksa oral
     la: Coitus oralis
     lb: Oralverkéier
     lfn: seso bocal
@@ -177,7 +177,7 @@ dv_has_:
     pl: seks oralny
     ps: د خولې سکس
     pt: sexo oral
-    pt-br: Sexo oral
+    pt_br: Sexo oral
     ro: Sex oral
     ru: оральный секс
     scn: Sessu urali
@@ -195,8 +195,8 @@ dv_has_:
     so: Falal-saxaaxeed afka
     sq: Seksi oral
     sr: орални секс
-    sr-ec: орални секс
-    sr-el: oralni seks
+    sr_ec: орални секс
+    sr_el: oralni seks
     sv: oralsex
     ta: வாய்வழிப் பாலுறவு
     te: ముఖరతి
@@ -214,14 +214,14 @@ dv_has_:
     yi: ארעל סעקס
     yue: 口交
     zh: 口交
-    zh-cn: 口交
-    zh-hans: 口交
-    zh-hant: 口交
-    zh-hk: 口交
-    zh-mo: 口交
+    zh_cn: 口交
+    zh_hans: 口交
+    zh_hant: 口交
+    zh_hk: 口交
+    zh_mo: 口交
     zh-my: 口交
-    zh-sg: 口交
-    zh-tw: 口交
+    zh_sg: 口交
+    zh_tw: 口交
     zu: Ucansi ngomlomo
 ---
 # [[Oral_Sex]] 

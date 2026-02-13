@@ -330,7 +330,7 @@ dv_has_:
     bar: Kupfa
     bcl: Tanso
     be: медзь
-    be-tarask: медзь
+    be_tarask: медзь
     bg: мед
     bho: ताँमा
     blk: တောင်ꩻတနျာႏ
@@ -352,14 +352,14 @@ dv_has_:
     cy: copr
     da: kobber
     de: Kupfer
-    de-ch: Kupfer
+    de_ch: Kupfer
     diq: Paxır
     dsb: kupor
     dv: ރަތުލޯ
     el: χαλκός
     en: copper
-    en-ca: copper
-    en-gb: copper
+    en_ca: copper
+    en_gb: copper
     eo: kupro
     es: cobre
     et: vask
@@ -454,7 +454,7 @@ dv_has_:
     nap: Ramma
     nb: kobber
     nds: Kopper
-    nds-nl: keuper
+    nds_nl: keuper
     ne: तामा
     new: कपर
     nia: Tambagö
@@ -475,7 +475,7 @@ dv_has_:
     pnb: تانبا
     ps: تامبه
     pt: cobre
-    pt-br: cobre
+    pt_br: cobre
     qu: Anta
     ro: cupru
     ru: медь
@@ -510,7 +510,7 @@ dv_has_:
     tok: ijo lili nanpa 29
     tr: bakır
     tt: бакыр
-    tt-cyrl: бакыр
+    tt_cyrl: бакыр
     tum: Mkuŵa
     tyv: Чес
     udm: ыргон
@@ -534,11 +534,11 @@ dv_has_:
     za: Doengz
     zgh: ⴰⵏⴰⵙ
     zh: 銅
-    zh-cn: 铜
-    zh-hans: 铜
-    zh-hant: 銅
-    zh-hk: 銅
-    zh-tw: 銅
+    zh_cn: 铜
+    zh_hans: 铜
+    zh_hant: 銅
+    zh_hk: 銅
+    zh_tw: 銅
     zu: Umthofu
   number_of_:
     period: 4

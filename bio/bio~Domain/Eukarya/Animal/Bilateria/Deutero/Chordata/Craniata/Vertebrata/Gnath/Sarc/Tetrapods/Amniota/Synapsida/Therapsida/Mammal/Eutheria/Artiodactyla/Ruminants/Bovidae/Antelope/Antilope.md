@@ -49,7 +49,7 @@ dv_has_:
     oc: Antilope
     pl: Antylopa
     pt: Antilope
-    pt-br: Antilope
+    pt_br: Antilope
     ro: Antilope
     ru: Antilope
     sq: Antilope
@@ -59,8 +59,8 @@ dv_has_:
     vo: Antilope
     war: Antilope
     zh: 黑羚属
-    zh-cn: 黑羚属
-    zh-tw: 黑羚屬
+    zh_cn: 黑羚属
+    zh_tw: 黑羚屬
 ---
 # [[Antilope]]
 ![[Antilope/antilope.jpg]]] 

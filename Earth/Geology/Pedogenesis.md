@@ -63,7 +63,7 @@ dv_has_:
   name_:
     ar: تكون التربة
     ast: Pedoxénesis
-    be-tarask: глебавытварэньне
+    be_tarask: глебавытварэньне
     bg: Почвообразуване
     ca: pedogènesi
     cs: pedogeneze
@@ -71,8 +71,8 @@ dv_has_:
     de: Pedogenese
     el: πεδογένεση
     en: pedogenesis
-    en-ca: Pedogenesis
-    en-gb: Pedogenesis
+    en_ca: Pedogenesis
+    en_gb: Pedogenesis
     eo: Pedogenezo
     es: pedogénesis
     et: Mullateke
@@ -93,7 +93,7 @@ dv_has_:
     pl: proces glebotwórczy
     ps: د خاورې جوړښت
     pt: pedogénese
-    pt-br: pedogênese
+    pt_br: pedogênese
     ru: почвообразование
     sl: pedogeneza
     sr: Pedogeneza

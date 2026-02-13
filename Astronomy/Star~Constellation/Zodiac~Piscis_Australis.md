@@ -112,7 +112,7 @@ dv_has_:
     az: Cənub Balığı
     ba: Көньяҡ Балыҡ
     be: Паўднёвая Рыба
-    be-tarask: Паўднёвая Рыба
+    be_tarask: Паўднёвая Рыба
     bg: Южна риба
     bn: দক্ষিণ মীন মণ্ডল
     br: Pesk ar Su

@@ -94,7 +94,7 @@ dv_has_:
     bar: Andrew Jackson
     bcl: Andrew Jackson
     be: Эндру Джэксан
-    be-tarask: Эндру Джэксан
+    be_tarask: Эндру Джэксан
     bg: Андрю Джаксън
     bi: Andrew Jackson
     bn: অ্যান্ড্রু জ্যাকসন
@@ -112,14 +112,14 @@ dv_has_:
     da: Andrew Jackson
     dag: Andrew Jackson
     de: Andrew Jackson
-    de-ch: Andrew Jackson
+    de_ch: Andrew Jackson
     diq: Andrew Jackson
     dv: އެންޑްރޫ ޖެކްސަން
     ee: Andrew Jackson
     el: Άντριου Τζάκσον
     en: Andrew Jackson
-    en-ca: Andrew Jackson
-    en-gb: Andrew Jackson
+    en_ca: Andrew Jackson
+    en_gb: Andrew Jackson
     eo: Andrew Jackson
     es: Andrew Jackson
     et: Andrew Jackson
@@ -197,7 +197,7 @@ dv_has_:
     pnb: اینڈریو جیکسن
     ps: انډریو جکسن
     pt: Andrew Jackson
-    pt-br: Andrew Jackson
+    pt_br: Andrew Jackson
     qu: Andrew Jackson
     rmf: Andrew Jackson
     ro: Andrew Jackson

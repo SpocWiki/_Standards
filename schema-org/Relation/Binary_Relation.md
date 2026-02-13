@@ -123,7 +123,7 @@ dv_has_:
     ast: rellación binaria
     ba: бинар мөнәсәбәт
     be: бінарнае дачыненне
-    be-tarask: бінарнае дачыненьне
+    be_tarask: бінарнае дачыненьне
     bg: Бинарна релация
     bn: দ্বিমিক সম্পর্ক
     br: darempred binarel
@@ -163,7 +163,7 @@ dv_has_:
     lzh: 關係
     mk: двоичен однос
     ms: hubungan dedua
-    ms-arab: هوبوڠن ددوا
+    ms_arab: هوبوڠن ددوا
     nb: binær relasjon
     nl: tweeplaatsige relatie
     nn: binær relasjon
@@ -171,32 +171,32 @@ dv_has_:
     pl: relacja dwuargumentowa
     pms: Relassion binaria
     pt: relação binária
-    pt-br: relação binária
+    pt_br: relação binária
     ro: relație binară
     ru: бинарное отношение
     sk: Binárna relácia
     sl: binarna relacija
     sq: relacion binar
     sr: бинарна релација
-    sr-ec: Бинарна релација
-    sr-el: Binarna relacija
+    sr_ec: Бинарна релација
+    sr_el: Binarna relacija
     sv: binär relation
     ta: ஈருறுப்பு உறவு
     tg: муносибати бинарӣ
     tr: ikili ilişki
     tt: бинар мөнәсәбәт
-    tt-cyrl: бинар мөнәсәбәт
+    tt_cyrl: бинар мөнәсәбәт
     uk: бінарне відношення
     ur: تثنیہ تعلق
     vec: rełasion binària
     vi: quan hệ hai ngôi
     zh: 二元关系
-    zh-cn: 二元关系
-    zh-hans: 二元关系
-    zh-hant: 二元關係
-    zh-hk: 二元關係
-    zh-sg: 二元关系
-    zh-tw: 二元關係
+    zh_cn: 二元关系
+    zh_hans: 二元关系
+    zh_hant: 二元關係
+    zh_hk: 二元關係
+    zh_sg: 二元关系
+    zh_tw: 二元關係
 ---
 # [[Binary_Relation]] 
 

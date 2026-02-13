@@ -67,7 +67,7 @@ dv_has_:
     ar: قانون الملكية
     az: Əmlaka sahib olma hüququ
     ba: милек хоҡуғы
-    be-tarask: маёмаснае права
+    be_tarask: маёмаснае права
     bn: সম্পত্তি আইন
     ca: dret de propietat
     cs: majetkové právo
@@ -103,14 +103,14 @@ dv_has_:
     nn: tingsrett
     nqo: ߕߌ߰ߦߊ ߞߎ߬ߙߎ߲߬ߘߎ
     pt: direito imobiliário
-    pt-br: Direito imobiliário
+    pt_br: Direito imobiliário
     ro: Drept și proprietate
     ru: имущественное право
     si: දේපල නීතිය
     sl: stvarno pravo
     sr: имовинско право
-    sr-ec: имовинско право
-    sr-el: imovinsko pravo
+    sr_ec: имовинско право
+    sr_el: imovinsko pravo
     ta: உடைமைச் சட்டம்
     te: ఆస్తి చట్టం
     tr: eşya hukuku
@@ -119,9 +119,9 @@ dv_has_:
     vec: derito de propietà
     war: Balaod hin pananag-iya hit tuna
     zh: 物权法
-    zh-cn: 物权法
-    zh-hant: 財產法
-    zh-hk: 財產法
+    zh_cn: 物权法
+    zh_hant: 財產法
+    zh_hk: 財產法
 ---
 # [[Property_Law]]  
 

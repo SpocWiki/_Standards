@@ -73,17 +73,17 @@ dv_has_:
     af: Liturgiese jaar
     ar: أعياد مسيحية
     arz: اعياد مسيحيه
-    be-tarask: літургічны рок
+    be_tarask: літургічны рок
     ca: any litúrgic
     cs: liturgický rok
     cy: calendr litwrgïaidd
     da: kirkeåret
     de: Kirchenjahr
-    de-ch: Kirchenjahr
+    de_ch: Kirchenjahr
     el: έτος λειτουργιών
     en: liturgical year
-    en-ca: Liturgical year
-    en-gb: liturgical year
+    en_ca: Liturgical year
+    en_gb: liturgical year
     eo: liturgia jaro
     es: año litúrgico
     et: Kirikuaasta
@@ -117,7 +117,7 @@ dv_has_:
     nn: kyrkjeåret
     pl: rok liturgiczny
     pt: ano litúrgico
-    pt-br: Ano litúrgico
+    pt_br: Ano litúrgico
     ro: Anul bisericesc
     ru: литургический год
     sat: ᱞᱤᱴᱩᱨᱡᱤᱠᱟᱞ ᱥᱮᱨᱢᱟ
@@ -138,8 +138,8 @@ dv_has_:
     vi: Năm phụng vụ
     yue: 禮儀年
     zh: 教會年曆
-    zh-hans: 教历
-    zh-hant: 教會年曆
+    zh_hans: 教历
+    zh_hant: 教會年曆
 ---
 # [[Christian_Holiday]] 
 

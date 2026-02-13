@@ -124,7 +124,7 @@ dv_has_:
     ba: Электр конденсаторы
     bar: Kondensatoa
     be: кандэнсатар
-    be-tarask: кандэнсатар
+    be_tarask: кандэнсатар
     bg: кондензатор
     bho: धरनी
     bn: ধারক
@@ -137,11 +137,11 @@ dv_has_:
     cy: cynhwysydd
     da: elektrisk kondensator
     de: Kondensator
-    de-ch: Kondensator
+    de_ch: Kondensator
     el: Πυκνωτής
     en: capacitor
-    en-ca: Capacitor
-    en-gb: capacitor
+    en_ca: Capacitor
+    en_gb: capacitor
     eo: kondensilo
     es: condensador eléctrico
     et: kondensaator
@@ -204,7 +204,7 @@ dv_has_:
     pnb: کیپیسیٹر
     ps: کانډنسر
     pt: capacitor
-    pt-br: capacitor
+    pt_br: capacitor
     ro: condensator electric
     ru: электрический конденсатор
     rue: кондензатор
@@ -219,8 +219,8 @@ dv_has_:
     smn: kondensaattor
     sq: Kondensatori
     sr: кондензатор
-    sr-ec: кондензатор
-    sr-el: kondenzator
+    sr_ec: кондензатор
+    sr_el: kondenzator
     stq: Kondensatore
     su: Kapasitor
     sv: kondensator
@@ -245,7 +245,7 @@ dv_has_:
     yi: קאַנדענסאַטאָר
     yue: 電容
     zh: 电容器
-    zh-hant: 電容器
+    zh_hant: 電容器
 ---
 # [[Capacitor]] 
 

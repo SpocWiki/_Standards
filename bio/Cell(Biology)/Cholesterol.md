@@ -676,7 +676,7 @@ dv_has_:
     azb: کلسترول
     bcl: Kolesterol
     be: Халестэрын
-    be-tarask: халестэрын
+    be_tarask: халестэрын
     bg: Холестерол
     bn: কোলেস্টেরল
     br: Kolesterol
@@ -689,12 +689,12 @@ dv_has_:
     da: kolesterol
     dag: cholesterol
     de: Cholesterin
-    de-ch: Cholesterin
+    de_ch: Cholesterin
     dv: ކޮލެސްޓްރޯލް
     el: χοληστερίνη
     en: cholesterol
-    en-ca: Cholesterol
-    en-gb: cholesterol
+    en_ca: Cholesterol
+    en_gb: cholesterol
     eo: kolesterolo
     es: colesterol
     et: kolesterool
@@ -742,7 +742,7 @@ dv_has_:
     or: କୋଲେଷ୍ଟେରୋଲ
     pl: cholesterol
     pt: colesterol
-    pt-br: Colesterol
+    pt_br: Colesterol
     rn: Kolesterole
     ro: Colesterol
     ru: холестерин
@@ -777,8 +777,8 @@ dv_has_:
     wuu: 胆固醇
     yue: 膽固醇
     zh: 膽固醇
-    zh-hk: 膽固醇
-    zh-tw: 膽固醇
+    zh_hk: 膽固醇
+    zh_tw: 膽固醇
 ---
 # [[Cholesterol]] 
 

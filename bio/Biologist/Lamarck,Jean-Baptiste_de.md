@@ -137,7 +137,7 @@ dv_has_:
     az: Jan-Batist Lamark
     azb: ژان-باتیست لامارک
     be: Жан-Батыст Ламарк
-    be-tarask: Жан-Батыст Лямарк
+    be_tarask: Жан-Батыст Лямарк
     bg: Жан-Батист Ламарк
     bn: জঁ-বাতিস্ত লামার্ক
     br: Jean-Baptiste de Lamarck
@@ -198,7 +198,7 @@ dv_has_:
     pl: Jean-Baptiste de Lamarck
     ps: جېن باپټېست لامارک
     pt: Jean-Baptiste de Lamarck
-    pt-br: Jean-Baptiste de Lamarck
+    pt_br: Jean-Baptiste de Lamarck
     qu: Jean-Baptiste de Lamarck
     ro: Jean-Baptiste de Lamarck
     ru: Жан Батист Ламарк
@@ -223,8 +223,8 @@ dv_has_:
     xmf: ჟან ბატისტ ლამარკი
     yue: 拉馬卡
     zh: 让-巴蒂斯特·拉马克
-    zh-cn: 让-巴蒂斯特·拉马克
-    zh-hant: 尚-巴蒂斯特·拉馬克
+    zh_cn: 让-巴蒂斯特·拉马克
+    zh_hant: 尚-巴蒂斯特·拉馬克
 ---
 # [[Lamarck,Jean-Baptiste_de]] 
 

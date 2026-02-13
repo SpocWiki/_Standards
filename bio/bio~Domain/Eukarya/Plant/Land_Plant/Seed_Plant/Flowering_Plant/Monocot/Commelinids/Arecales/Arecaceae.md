@@ -10,7 +10,7 @@ dv_has_:
     az: Arekakimilər
     ban: Arecaceae
     be: пальмавыя
-    be-tarask: Пальмавыя
+    be_tarask: Пальмавыя
     bg: палмови
     bi: Waelpam
     bn: পাম গাছ
@@ -28,8 +28,8 @@ dv_has_:
     dga: abɛ teere
     el: αρεκοειδή
     en: Arecaceae
-    en-ca: Arecaceae
-    en-gb: Arecaceae
+    en_ca: Arecaceae
+    en_gb: Arecaceae
     eo: Arekacoj
     es: palma
     et: Palmilised
@@ -93,7 +93,7 @@ dv_has_:
     pl: palmy
     pnb: کھجور ٹبر
     pt: palmeira
-    pt-br: palmeira
+    pt_br: palmeira
     qu: Chunta yura rikch'aq ayllu
     rn: Ikigazi
     ro: Palmier
@@ -130,10 +130,10 @@ dv_has_:
     yi: פאלמע
     yue: 棕櫚
     zh: 棕榈科
-    zh-cn: 棕榈科
-    zh-hans: 棕榈科
-    zh-hant: 棕榈科
-    zh-tw: 棕櫚科
+    zh_cn: 棕榈科
+    zh_hans: 棕榈科
+    zh_hant: 棕榈科
+    zh_tw: 棕櫚科
 aliases:
 - abɛ teere
 - Arecaceae

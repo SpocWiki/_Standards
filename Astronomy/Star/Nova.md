@@ -74,7 +74,7 @@ dv_has_:
     ar: مستعر
     ast: Nova
     be: Новая зорка
-    be-tarask: новая зорка
+    be_tarask: новая зорка
     bg: нова звезда
     bn: নবতারা
     bs: Nova

@@ -111,12 +111,12 @@ dv_has_:
     ur: پیدائشی شرح
     vi: tổng tỷ suất sinh
     zh: 总和生育率
-    zh-cn: 总和生育率
-    zh-hans: 总和生育率
-    zh-hant: 總和生育率
-    zh-hk: 總和生育率
-    zh-sg: 总和生育率
-    zh-tw: 總和生育率
+    zh_cn: 总和生育率
+    zh_hans: 总和生育率
+    zh_hant: 總和生育率
+    zh_hk: 總和生育率
+    zh_sg: 总和生育率
+    zh_tw: 總和生育率
 ---
 # [[Fertility-Rate]] 
 

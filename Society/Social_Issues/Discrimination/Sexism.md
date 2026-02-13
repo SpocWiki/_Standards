@@ -120,7 +120,7 @@ dv_has_:
     az: seksizm
     ba: енсиәтселек
     be: сексізм
-    be-tarask: сэксізм
+    be_tarask: сэксізм
     bew: Gencèt jenis
     bg: сексизъм
     bn: লিঙ্গবাদ
@@ -161,11 +161,11 @@ dv_has_:
     ka: სექსიზმი
     kbp: sɛkɩsiizim
     kk: сексизм
-    kk-arab: سەكسىيزم
+    kk_arab: سەكسىيزم
     kk-cn: سەكسىيزم
-    kk-cyrl: сексизм
+    kk_cyrl: сексизм
     kk-kz: сексизм
-    kk-latn: seksïzm
+    kk_latn: seksïzm
     kk-tr: seksïzm
     ko: 성 차별
     ku: zayendperestî
@@ -210,8 +210,8 @@ dv_has_:
     so: jinsi-takoor
     sq: seksizëmi
     sr: сексизам
-    sr-ec: сексизам
-    sr-el: seksizam
+    sr_ec: сексизам
+    sr_el: seksizam
     su: séksisme
     sv: sexism
     sw: ubaguzi wa kijinsia
@@ -233,12 +233,12 @@ dv_has_:
     xh: ucalucalulo ngokwesini
     yue: 性別歧視
     zh: 性別歧視主義
-    zh-cn: 性别歧视主义
-    zh-hans: 性别歧视主义
-    zh-hant: 性別歧視主義
-    zh-hk: 性別歧視主義
-    zh-sg: 性别歧视主义
-    zh-tw: 性別歧視主義
+    zh_cn: 性别歧视主义
+    zh_hans: 性别歧视主义
+    zh_hant: 性別歧視主義
+    zh_hk: 性別歧視主義
+    zh_sg: 性别歧视主义
+    zh_tw: 性別歧視主義
 ---
 # [[Sexism]] 
 

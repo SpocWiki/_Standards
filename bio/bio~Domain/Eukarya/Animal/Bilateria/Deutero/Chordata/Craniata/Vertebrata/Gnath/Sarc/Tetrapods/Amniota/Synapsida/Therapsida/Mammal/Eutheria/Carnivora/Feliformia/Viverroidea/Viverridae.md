@@ -87,7 +87,7 @@ dv_has_:
     az: Viveralar
     azb: ویوئرالار
     be: віверавыя
-    be-tarask: вівэравыя
+    be_tarask: вівэравыя
     bg: виверови
     br: Viverridae
     ca: Vivèrrid
@@ -96,8 +96,8 @@ dv_has_:
     da: Desmerdyr
     de: Schleichkatzen
     en: Viverridae
-    en-ca: Viverridae
-    en-gb: Viverridae
+    en_ca: Viverridae
+    en_gb: Viverridae
     eo: Viveredoj
     es: Viverridae
     et: tsiibetlased
@@ -123,11 +123,11 @@ dv_has_:
     ka: ვივერისებრნი
     kg: Nzobo
     kk: шұбалаң құйрықтылар
-    kk-arab: شۇبالاڭ قۇيرىقتىلار
+    kk_arab: شۇبالاڭ قۇيرىقتىلار
     kk-cn: شۇبالاڭ قۇيرىقتىلار
-    kk-cyrl: шұбалаң құйрықтылар
+    kk_cyrl: шұбалаң құйрықтылар
     kk-kz: шұбалаң құйрықтылар
-    kk-latn: Şubalañ quýrıqtılar
+    kk_latn: Şubalañ quýrıqtılar
     kk-tr: Şubalañ quýrıqtılar
     ko: 사향고양이과
     la: Viverridae
@@ -149,7 +149,7 @@ dv_has_:
     pl: wiwerowate
     pnb: مشکی بلی
     pt: Viverrídeos
-    pt-br: Viverridae
+    pt_br: Viverridae
     ro: Viverridae
     ru: виверровые
     sco: Viverridae
@@ -171,12 +171,12 @@ dv_has_:
     wuu: 灵猫科
     yue: 靈貓科
     zh: 灵猫科
-    zh-cn: 灵猫科
-    zh-hans: 灵猫科
-    zh-hant: 靈貓科
-    zh-hk: 靈貓科
-    zh-sg: 灵猫科
-    zh-tw: 靈貓科
+    zh_cn: 灵猫科
+    zh_hans: 灵猫科
+    zh_hant: 靈貓科
+    zh_hk: 靈貓科
+    zh_sg: 灵猫科
+    zh_tw: 靈貓科
 ---
 # [[Viverridae]] 
 

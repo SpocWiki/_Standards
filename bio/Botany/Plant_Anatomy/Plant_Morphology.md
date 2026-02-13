@@ -76,7 +76,7 @@ dv_has_:
     ar: علم تشكل النبات
     az: bitki morfologiyası
     ba: Үҫемлектәр морфологияһы
-    be-tarask: марфалёгія расьлінаў
+    be_tarask: марфалёгія расьлінаў
     bg: морфология на растенията
     bs: morfologija biljaka
     ca: morfologia vegetal

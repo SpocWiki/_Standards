@@ -305,8 +305,8 @@ Wolfram_Language_entity_type: Movie
 dv_has_:
   name_:
     acm: فلم
-    aeb-arab: فيلم
-    aeb-latn: filem
+    aeb_arab: فيلم
+    aeb_latn: filem
     af: rolprent
     ak: sini
     am: ፊልም
@@ -324,7 +324,7 @@ dv_has_:
     bar: fuim
     bcl: Pelikula
     be: фільм
-    be-tarask: фільм
+    be_tarask: фільм
     bew: Pèlem
     bg: филм
     bho: फिलिम
@@ -348,12 +348,12 @@ dv_has_:
     da: film
     dag: sinii
     de: Film
-    de-ch: Film
+    de_ch: Film
     diq: Film
     el: ταινία
     en: film
-    en-ca: film
-    en-gb: film
+    en_ca: film
+    en_gb: film
     en-us: film
     eo: filmo
     es: película
@@ -424,7 +424,7 @@ dv_has_:
     lv: kinofilma
     lzh: 影戲
     mai: चलचित्र
-    map-bms: Filem
+    map_bms: Filem
     mg: Sinema
     min: Pilem
     mk: филм
@@ -432,7 +432,7 @@ dv_has_:
     mn: кино
     mr: चलचित्र
     ms: filem
-    ms-arab: فيلم
+    ms_arab: فيلم
     mt: ċinema
     mwl: Cinema
     my: ရုပ်ရှင်
@@ -442,7 +442,7 @@ dv_has_:
     nap: pellicula
     nb: film
     nds: Filmkunst
-    nds-nl: film
+    nds_nl: film
     ne: चलचित्र
     new: संकिपा
     nl: film
@@ -460,7 +460,7 @@ dv_has_:
     pnb: فلم
     ps: فلم
     pt: filme
-    pt-br: filme
+    pt_br: filme
     pwn: iga
     qu: Kuyu walltay
     rki: ရုပ်ရှင်
@@ -491,8 +491,8 @@ dv_has_:
     so: Filim
     sq: film
     sr: филм
-    sr-ec: филм
-    sr-el: film
+    sr_ec: филм
+    sr_el: film
     st: Film
     su: Filem
     sv: film
@@ -502,7 +502,7 @@ dv_has_:
     ta: திரைப்படம்
     te: సినిమా
     tg: филм
-    tg-cyrl: филм
+    tg_cyrl: филм
     th: ภาพยนตร์
     ti: ፊልም
     tl: Pelikula
@@ -510,8 +510,8 @@ dv_has_:
     tr: film
     ts: Film
     tt: фильм
-    tt-cyrl: фильм
-    tt-latn: film
+    tt_cyrl: фильм
+    tt_latn: film
     tyv: дириг-чурук
     udm: фильм
     ug: فىلىم
@@ -531,14 +531,14 @@ dv_has_:
     za: denyingj
     zgh: ⴰⴼⵉⵍⵎ
     zh: 電影
-    zh-cn: 电影
-    zh-hans: 电影
-    zh-hant: 電影
-    zh-hk: 電影
-    zh-mo: 電影
+    zh_cn: 电影
+    zh_hans: 电影
+    zh_hant: 電影
+    zh_hk: 電影
+    zh_mo: 電影
     zh-my: 电影
-    zh-sg: 电影
-    zh-tw: 電影
+    zh_sg: 电影
+    zh_tw: 電影
     zu: Ifilimu
 ---
 # [[Movie]] 

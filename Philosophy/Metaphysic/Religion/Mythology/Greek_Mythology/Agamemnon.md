@@ -103,7 +103,7 @@ dv_has_:
     az: Aqamemnon
     ba: Агамемнон
     be: Агамемнан
-    be-tarask: Агамэмнан
+    be_tarask: Агамэмнан
     bg: Агамемнон
     bn: আগামেমনন
     br: Agamemnon
@@ -167,8 +167,8 @@ dv_has_:
     sl: Agamemnon
     sq: Agamemnoni
     sr: Агамемнон
-    sr-ec: Агамемнон
-    sr-el: Agamemnon
+    sr_ec: Агамемнон
+    sr_el: Agamemnon
     sv: Agamemnon
     ta: அகமம்னான்
     th: อะกาเมมนอน
@@ -182,12 +182,12 @@ dv_has_:
     wuu: 阿伽门农
     yue: 阿伽曼農
     zh: 阿伽门农
-    zh-cn: 阿伽门农
-    zh-hans: 阿伽门农
-    zh-hant: 阿伽門農
-    zh-hk: 阿伽門農
-    zh-sg: 阿伽门农
-    zh-tw: 阿伽門農
+    zh_cn: 阿伽门农
+    zh_hans: 阿伽门农
+    zh_hant: 阿伽門農
+    zh_hk: 阿伽門農
+    zh_sg: 阿伽门农
+    zh_tw: 阿伽門農
 ---
 # [[Agamemnon]] 
 

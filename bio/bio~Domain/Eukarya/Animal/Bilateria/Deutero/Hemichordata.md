@@ -63,7 +63,7 @@ dv_has_:
     ast: Hemichordata
     az: Yarımxordalılar
     be: паўхордавыя
-    be-tarask: паўхордавыя
+    be_tarask: паўхордавыя
     bg: полухордови
     bn: হেমিকর্ডাটা
     br: Hemichordata
@@ -103,11 +103,11 @@ dv_has_:
     ka: ნახევრადქორდიანები
     kab: Tizinzikrin
     kk: Жартылай хордалылар
-    kk-arab: جارتىلاي حوردالىلار
+    kk_arab: جارتىلاي حوردالىلار
     kk-cn: جارتىلاي حوردالىلار
-    kk-cyrl: Жартылай хордалылар
+    kk_cyrl: Жартылай хордалылар
     kk-kz: Жартылай хордалылар
-    kk-latn: Jartılaý xordalılar
+    kk_latn: Jartılaý xordalılar
     kk-tr: Jartılaý xordalılar
     kn: ಹೆಮಿಕಾರ್ಡೇಟಾ
     ko: 반삭동물
@@ -125,14 +125,14 @@ dv_has_:
     mul: Hemichordata
     nb: hemikordater
     nds: Hemichordata
-    nds-nl: Hemichordata
+    nds_nl: Hemichordata
     nl: Hemichordata
     nn: hemikordatar
     oc: Hemichordata
     pl: półstrunowce
     pms: Hemichordata
     pt: Hemichordata
-    pt-br: Hemichordata
+    pt_br: Hemichordata
     ro: Hemichordata
     ru: полухордовые
     sco: Hemichordata
@@ -142,8 +142,8 @@ dv_has_:
     smn: ovdâsavosuonâsiih
     sq: Hemichordata
     sr: полухордати
-    sr-ec: Полухордати
-    sr-el: Poluhordati
+    sr_ec: Полухордати
+    sr_el: Poluhordati
     sv: svalgsträngsdjur
     sw: Hemikodata
     th: Hemichordate
@@ -159,12 +159,12 @@ dv_has_:
     wuu: 半索动物门
     zea: Hemichordata
     zh: 半索动物门
-    zh-cn: 半索动物门
-    zh-hans: 半索动物门
-    zh-hant: 半索動物門
-    zh-hk: 半索動物門
-    zh-sg: 半索动物门
-    zh-tw: 半索動物門
+    zh_cn: 半索动物门
+    zh_hans: 半索动物门
+    zh_hant: 半索動物門
+    zh_hk: 半索動物門
+    zh_sg: 半索动物门
+    zh_tw: 半索動物門
 ---
 # [[Hemichordata]] 
 

@@ -225,7 +225,7 @@ dv_has_:
     az: Ferens List
     ba: Ференц Лист
     be: Ферэнц Ліст
-    be-tarask: Фэрэнц Ліст
+    be_tarask: Фэрэнц Ліст
     bg: Франц Лист
     bn: ফ্রান্ৎস লিস্ট
     br: Franz Liszt
@@ -240,8 +240,8 @@ dv_has_:
     diq: Franz Liszt
     el: Φραντς Λιστ
     en: Franz Liszt
-    en-ca: Franz Liszt
-    en-gb: Franz Liszt
+    en_ca: Franz Liszt
+    en_gb: Franz Liszt
     eo: Franz Liszt
     es: Franz Liszt
     et: Ferenc Liszt
@@ -269,7 +269,7 @@ dv_has_:
     kab: Franz Liszt
     kbp: Franz Liszt
     kk: Лист
-    kk-cyrl: френц лист
+    kk_cyrl: френц лист
     ko: 프란츠 리스트
     ku: Franz Liszt
     kv: Лист, Ференц
@@ -296,7 +296,7 @@ dv_has_:
     pam: Franz Liszt
     pl: Ferenc Liszt
     pt: Franz Liszt
-    pt-br: Franz Liszt
+    pt_br: Franz Liszt
     qu: Franz Liszt
     ro: Franz Liszt
     ru: Ференц Лист
@@ -323,7 +323,7 @@ dv_has_:
     wuu: 李斯特·费伦茨
     yue: 李斯特
     zh: 弗朗茨·李斯特
-    zh-tw: 李斯特·費倫茨
+    zh_tw: 李斯特·費倫茨
 ---
 # [[Franz_Liszt]] 
 

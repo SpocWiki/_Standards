@@ -106,7 +106,7 @@ dv_has_:
     az: Tələb və təklif
     ba: Ихтыяж һәм тәҡдим законы
     be: закон попыту і прапановы
-    be-tarask: попыт і прапанова
+    be_tarask: попыт і прапанова
     bg: Търсене и предлагане
     bn: যোগান ও চাহিদা
     bs: ponuda i potražnja
@@ -117,8 +117,8 @@ dv_has_:
     diq: Vıraştış u waştış
     el: Νόμος της προσφοράς και της ζήτησης
     en: supply and demand
-    en-ca: Supply and demand
-    en-gb: supply and demand
+    en_ca: Supply and demand
+    en_gb: supply and demand
     eo: mendado kaj ofertado
     es: oferta y demanda
     et: Pakkumine ja nõudlus
@@ -160,7 +160,7 @@ dv_has_:
     os: Домæн æмæ æнхъарæн
     ps: وړانديز
     pt: lei da oferta e da procura
-    pt-br: Lei da oferta e da procura
+    pt_br: Lei da oferta e da procura
     ro: cerere și ofertă
     ru: закон спроса и предложения
     sah: Атыы уонна наадыйыы
@@ -170,8 +170,8 @@ dv_has_:
     sl: ponudba in povpraševanje
     sq: Kërkesa dhe oferta
     sr: понуда и потражња
-    sr-ec: Потражња
-    sr-el: Potražnja
+    sr_ec: Потражња
+    sr_el: Potražnja
     sv: utbud och efterfrågan
     ta: கேள்வியும் நிரம்பலும்
     te: సరఫరా మరియు గిరాకీ
@@ -189,12 +189,12 @@ dv_has_:
     yi: פארזארג און נאכפרעג
     yue: 供應同需求
     zh: 供给和需求
-    zh-cn: 供给和需求
-    zh-hans: 供给和需求
-    zh-hant: 供給和需求
-    zh-hk: 供應和需求
-    zh-sg: 供给和需求
-    zh-tw: 供給和需求
+    zh_cn: 供给和需求
+    zh_hans: 供给和需求
+    zh_hant: 供給和需求
+    zh_hk: 供應和需求
+    zh_sg: 供给和需求
+    zh_tw: 供給和需求
 ---
 # [[Supply_and_Demand]] 
 

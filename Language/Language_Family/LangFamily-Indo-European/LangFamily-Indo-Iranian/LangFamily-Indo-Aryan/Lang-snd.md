@@ -155,7 +155,7 @@ native_label:
 distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Sindhi-speakers%20by%20Pakistani%20District%20-%202017%20Census.svg
 dv_has_:
   name_:
-    aeb-arab: السندي
+    aeb_arab: السندي
     af: sindhi
     anp: सिंधी भाषा
     ar: السندية
@@ -166,7 +166,7 @@ dv_has_:
     az: Sindhi dili
     azb: سیندی دیلی
     be: сіндхі
-    be-tarask: сындгі
+    be_tarask: сындгі
     bg: Синдхи
     bho: सिंधी भाषा
     bn: সিন্ধি ভাষা
@@ -180,8 +180,8 @@ dv_has_:
     diq: Sindhiki
     el: Γλώσσα Σίντι
     en: Sindhi
-    en-ca: Sindhi
-    en-gb: Sindhi
+    en_ca: Sindhi
+    en_gb: Sindhi
     eo: sinda lingvo
     es: sindhi
     et: sindhi keel
@@ -236,7 +236,7 @@ dv_has_:
     pnb: سندھی
     ps: سيندي ژبه
     pt: língua sindi
-    pt-br: Língua sindi
+    pt_br: Língua sindi
     qu: Sindi simi
     ro: Limba sindhi
     ru: синдхи
@@ -250,8 +250,8 @@ dv_has_:
     skr: سندھی زبان
     sl: sindščina
     sr: синди језик
-    sr-ec: синди језик
-    sr-el: sindi jezik
+    sr_ec: синди језик
+    sr_el: sindi jezik
     sv: sindhi
     sw: Kisindhi
     ta: சிந்தி மொழி
@@ -274,10 +274,10 @@ dv_has_:
     yue: 信德文
     za: Vahsaenqdaek
     zh: 信德语
-    zh-cn: 信德语
-    zh-hans: 信德语
-    zh-hant: 信德語
-    zh-tw: 信德語
+    zh_cn: 信德语
+    zh_hans: 信德语
+    zh_hant: 信德語
+    zh_tw: 信德語
     zu: isi-Sindhi
 ---
 # [[Lang-snd]] 

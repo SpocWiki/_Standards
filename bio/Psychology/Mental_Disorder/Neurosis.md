@@ -74,7 +74,7 @@ dv_has_:
     ast: Neurosis
     az: Nevroz
     be: неўроз
-    be-tarask: нэўроз
+    be_tarask: нэўроз
     bg: Невроза
     bn: নিউরোসিস
     ca: neurosi
@@ -110,8 +110,8 @@ dv_has_:
     ko: 신경증
     koi: Nevroz
     ku: Neuroz
-    ku-arab: نەورۆز
-    ku-latn: Neuroz
+    ku_arab: نەورۆز
+    ku_latn: Neuroz
     ky: невроздор
     la: neurosis
     lt: neurozė
@@ -135,8 +135,8 @@ dv_has_:
     sms: neuroos
     sq: Neuroza
     sr: неуроза
-    sr-ec: неуроза
-    sr-el: Neuroza
+    sr_ec: неуроза
+    sr_el: Neuroza
     su: Neurosis
     sv: neuros
     th: โรคประสาท
@@ -150,12 +150,12 @@ dv_has_:
     wuu: 神经症
     yue: 神經症
     zh: 神经症
-    zh-cn: 神经症
-    zh-hans: 神经症
-    zh-hant: 神經症
-    zh-hk: 精神官能症
-    zh-sg: 神经症
-    zh-tw: 精神官能症
+    zh_cn: 神经症
+    zh_hans: 神经症
+    zh_hant: 神經症
+    zh_hk: 精神官能症
+    zh_sg: 神经症
+    zh_tw: 精神官能症
 ---
 # [[Neurosis]] 
 

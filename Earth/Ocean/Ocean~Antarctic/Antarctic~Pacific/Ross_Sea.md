@@ -112,7 +112,7 @@ dv_has_:
     ba: Росс диңгеҙе
     ban: Segara Ross
     be: Мора Роса
-    be-tarask: Мора Роса
+    be_tarask: Мора Роса
     bg: Рос
     bn: রস সাগর
     br: Mor Ross
@@ -173,8 +173,8 @@ dv_has_:
     sk: Rossovo more
     sl: Rossovo morje
     sr: Росово море
-    sr-ec: Росово море
-    sr-el: Rosovo more
+    sr_ec: Росово море
+    sr_el: Rosovo more
     sv: Rosshavet
     sw: Bahari ya Ross
     ta: ரோஸ் கடல்
@@ -193,12 +193,12 @@ dv_has_:
     yo: Ross Sea
     yue: 羅斯海
     zh: 罗斯海
-    zh-cn: 罗斯海
-    zh-hans: 罗斯海
-    zh-hant: 羅斯海
-    zh-hk: 羅斯海
-    zh-sg: 罗斯海
-    zh-tw: 羅斯海
+    zh_cn: 罗斯海
+    zh_hans: 罗斯海
+    zh_hant: 羅斯海
+    zh_hk: 羅斯海
+    zh_sg: 罗斯海
+    zh_tw: 羅斯海
 ---
 # [[Ross_Sea]] 
 

@@ -34,7 +34,7 @@ dv_has_:
     oc: Vaccinioideae
     pl: Vaccinioideae
     pt: Vaccinioideae
-    pt-br: Vaccinioideae
+    pt_br: Vaccinioideae
     qu: Macha-macha
     ro: Vaccinioideae
     ru: Vaccinioideae

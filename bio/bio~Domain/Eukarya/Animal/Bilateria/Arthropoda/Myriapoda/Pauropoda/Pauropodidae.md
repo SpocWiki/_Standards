@@ -35,7 +35,7 @@ dv_has_:
     oc: Pauropodidae
     pl: Pauropodidae
     pt: Pauropodidae
-    pt-br: Pauropodidae
+    pt_br: Pauropodidae
     ro: Pauropodidae
     ru: Pauropodidae
     sq: Pauropodidae
@@ -45,9 +45,9 @@ dv_has_:
     vo: Pauropodidae
     war: Pauropodidae
     zh: 烛䗃科
-    zh-cn: 烛䗃科
-    zh-hans: 烛䗃科
-    zh-tw: 燭䗃科
+    zh_cn: 烛䗃科
+    zh_hans: 烛䗃科
+    zh_tw: 燭䗃科
 ---
 # [[Pauropodidae]] 
 

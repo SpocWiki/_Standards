@@ -167,7 +167,7 @@ dv_has_:
     azb: کورهسلهلشمه
     ba: Глобалләшеү
     be: глабалізацыя
-    be-tarask: глябалізацыя
+    be_tarask: глябалізацыя
     bg: глобализация
     bn: বিশ্বায়ন
     bpy: বিশ্বায়ন
@@ -183,13 +183,13 @@ dv_has_:
     cy: globaleiddio
     da: globalisering
     de: Globalisierung
-    de-ch: Globalisierung
+    de_ch: Globalisierung
     diq: Globalizasyon
     el: παγκοσμιοποίηση
     eml: Globaliśasiòun
     en: globalization
-    en-ca: globalization
-    en-gb: globalisation
+    en_ca: globalization
+    en_gb: globalisation
     eo: tutmondiĝo
     es: globalización
     et: globaliseerumine
@@ -266,7 +266,7 @@ dv_has_:
     pnb: گلوبلائزیشن
     ps: نړيوالتوب
     pt: globalização
-    pt-br: globalização
+    pt_br: globalização
     rm: Globalisaziun
     ro: globalizare
     ru: глобализация
@@ -309,14 +309,14 @@ dv_has_:
     yi: גלאבאליזאציע
     yue: 全球化
     zh: 全球化
-    zh-cn: 全球化
-    zh-hans: 全球化
-    zh-hant: 全球化
-    zh-hk: 全球化
-    zh-mo: 全球化
+    zh_cn: 全球化
+    zh_hans: 全球化
+    zh_hant: 全球化
+    zh_hk: 全球化
+    zh_mo: 全球化
     zh-my: 全球化
-    zh-sg: 全球化
-    zh-tw: 全球化
+    zh_sg: 全球化
+    zh_tw: 全球化
 ---
 # [[Globalization]] 
 

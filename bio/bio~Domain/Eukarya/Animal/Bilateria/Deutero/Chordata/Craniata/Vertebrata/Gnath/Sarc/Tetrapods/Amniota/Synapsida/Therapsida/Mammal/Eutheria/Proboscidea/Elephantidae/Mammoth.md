@@ -94,7 +94,7 @@ dv_has_:
     ban: Mamut
     bcl: Mammoth
     be: Маманты
-    be-tarask: Маманты
+    be_tarask: Маманты
     bg: мамути
     bn: ম্যামথ
     br: Mammout
@@ -109,7 +109,7 @@ dv_has_:
     cy: Mamoth
     da: Mammut
     de: Mammute
-    de-ch: Mammuts
+    de_ch: Mammuts
     el: Μαμούθ
     en: mammoth
     eo: Mamuto
@@ -174,7 +174,7 @@ dv_has_:
     pnb: میمتھ
     ps: ماموت
     pt: Mamute
-    pt-br: Mamute
+    pt_br: Mamute
     qu: Mamut
     ro: Mamut
     ru: мамонты
@@ -206,9 +206,9 @@ dv_has_:
     xal: Арслң зан
     yue: 長毛象
     zh: 猛犸象属
-    zh-cn: 猛犸象属
-    zh-hans: 猛犸象属
-    zh-tw: 猛獁象屬
+    zh_cn: 猛犸象属
+    zh_hans: 猛犸象属
+    zh_tw: 猛獁象屬
 ---
 # [[Mammoth]] 
 

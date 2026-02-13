@@ -378,7 +378,7 @@ dv_has_:
   name_:
     ab: Есватини
     ace: Eswatini
-    aeb-arab: سوازيلاند
+    aeb_arab: سوازيلاند
     af: Eswatini
     am: ኤስዋቲኒ
     ami: Swaziland
@@ -398,7 +398,7 @@ dv_has_:
     bar: Eswatini
     bcl: Eswatini
     be: Эсваціні
-    be-tarask: Эсўатыні
+    be_tarask: Эсўатыні
     bew: Swasilan
     bg: Есватини
     bho: स्वाजीलैंड
@@ -412,7 +412,7 @@ dv_has_:
     bs: Esvatini
     bxr: Эсватини
     ca: Eswatini
-    cbk-zam: Eswatini
+    cbk_zam: Eswatini
     cdo: Eswatini
     ce: Эсватини
     ceb: Eswatini
@@ -420,7 +420,7 @@ dv_has_:
     ckb: ئێسواتینی
     co: Essuatini
     crh: Esvatini
-    crh-latn: Эсватини
+    crh_latn: Эсватини
     cs: Svazijsko
     csb: Eswatini
     cy: Eswatini
@@ -428,15 +428,15 @@ dv_has_:
     dag: Eswatini
     de: Eswatini
     de-at: Eswatini
-    de-ch: Eswatini
+    de_ch: Eswatini
     diq: Eswatini
     dty: स्वाजिल्याण्ड
     dv: ސުވާޒިލޭންޑު
     ee: Eswatini
     el: Εσουατίνι
     en: Eswatini
-    en-ca: Eswatini
-    en-gb: Eswatini
+    en_ca: Eswatini
+    en_gb: Eswatini
     en-us: Eswatini
     eo: Svazilando
     es: Suazilandia
@@ -530,7 +530,7 @@ dv_has_:
     nan: Eswatini
     nb: Eswatini
     nds: Swasiland
-    nds-nl: Eswatini
+    nds_nl: Eswatini
     ne: स्वाजिल्याण्ड
     new: स्वाजिल्याण्ड
     nl: Swaziland
@@ -555,7 +555,7 @@ dv_has_:
     pnb: اسواٹینی
     ps: اېسواتيني
     pt: Essuatíni
-    pt-br: Essuatíni
+    pt_br: Essuatíni
     qu: Swasisuyu
     rmy: Swaziland
     ro: Eswatini
@@ -582,8 +582,8 @@ dv_has_:
     so: Eswatini
     sq: Suazilendi
     sr: Есватини
-    sr-ec: Есватини
-    sr-el: Esvatini
+    sr_ec: Есватини
+    sr_el: Esvatini
     ss: Umbuso weSwatini
     st: Eswatini
     stq: Swasilound
@@ -631,14 +631,14 @@ dv_has_:
     zea: Eswatini
     zgh: ⵉⵙⵡⴰⵜⵉⵏⵉ
     zh: 斯威士兰
-    zh-cn: 斯威士兰
-    zh-hans: 斯威士兰
-    zh-hant: 史瓦帝尼
-    zh-hk: 斯威士蘭
-    zh-mo: 斯威士蘭
+    zh_cn: 斯威士兰
+    zh_hans: 斯威士兰
+    zh_hant: 史瓦帝尼
+    zh_hk: 斯威士蘭
+    zh_mo: 斯威士蘭
     zh-my: 斯威士兰
-    zh-sg: 斯威士兰
-    zh-tw: 史瓦帝尼
+    zh_sg: 斯威士兰
+    zh_tw: 史瓦帝尼
     zu: i-Eswatini
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Swaziland

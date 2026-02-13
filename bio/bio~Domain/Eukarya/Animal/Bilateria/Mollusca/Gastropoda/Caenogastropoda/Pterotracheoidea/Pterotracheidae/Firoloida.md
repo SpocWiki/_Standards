@@ -30,7 +30,7 @@ dv_has_:
     oc: Firoloida
     pl: Firoloida
     pt: Firoloida
-    pt-br: Firoloida
+    pt_br: Firoloida
     ro: Firoloida
     ru: Firoloida
     sq: Firoloida

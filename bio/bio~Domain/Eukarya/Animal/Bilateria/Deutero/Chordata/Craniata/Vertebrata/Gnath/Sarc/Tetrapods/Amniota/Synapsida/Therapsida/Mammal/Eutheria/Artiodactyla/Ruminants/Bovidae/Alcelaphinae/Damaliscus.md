@@ -72,7 +72,7 @@ dv_has_:
     pl: sasebi właściwy
     pnb: زسیو
     pt: Damaliscus lunatus
-    pt-br: Damaliscus lunatus
+    pt_br: Damaliscus lunatus
     ro: Damaliscus lunatus
     ru: Топи
     sq: Damaliscus lunatus
@@ -83,8 +83,8 @@ dv_has_:
     vi: Damaliscus lunatus
     war: Damaliscus lunatus
     zh: 转角牛羚
-    zh-cn: 转角牛羚
-    zh-tw: 轉角牛羚
+    zh_cn: 转角牛羚
+    zh_tw: 轉角牛羚
 ---
 # [[Damaliscus]] lunatus 
 

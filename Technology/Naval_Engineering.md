@@ -55,12 +55,12 @@ Commons_category: Marine engineering
 dv_has_:
   name_:
     ar: هندسة بحرية
-    be-tarask: марская інжынэрыя
+    be_tarask: марская інжынэрыя
     ca: enginyeria naval
     de: Schiffsingenieurwesen
     en: marine engineering
-    en-ca: Marine engineering
-    en-gb: marine engineering
+    en_ca: Marine engineering
+    en_gb: marine engineering
     eo: naŭtika inĝenierio
     es: ingeniería naval
     fa: مهندسی دریا
@@ -79,12 +79,12 @@ dv_has_:
     pl: Mechanik wachtowy
     ps: سمندري انجینري
     pt: engenharia naval
-    pt-br: Secção de máquinas
+    pt_br: Secção de máquinas
     ru: Морская инженерия
     sl: ladijsko strojništvo
     sr: поморско инжењерство
-    sr-ec: поморско инжењерство
-    sr-el: pomorsko inženjerstvo
+    sr_ec: поморско инжењерство
+    sr_el: pomorsko inženjerstvo
     sv: sjöingenjörsvetenskap
     th: วิศวกรรมสมุทรศาสตร์
     tl: Inhinyeriyang pangkaragatan
@@ -94,7 +94,7 @@ dv_has_:
     vi: marine engineering
     yue: 航海工程
     zh: 轮机工程
-    zh-cn: 轮机工程
+    zh_cn: 轮机工程
 ---
 # [[Naval_Engineering]] 
 

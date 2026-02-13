@@ -7,7 +7,7 @@ dv_has_:
     arz: بول فيرهويفن
     ast: Paul Verhoeven
     be: Пол Верховен
-    be-tarask: Пол Вэрговэн
+    be_tarask: Пол Вэрговэн
     bg: Пол Верховен
     br: Paul Verhoeven
     ca: Paul Verhoeven
@@ -16,7 +16,7 @@ dv_has_:
     da: Paul Verhoeven
     de: Paul Verhoeven
     de-at: Paul Verhoeven
-    de-ch: Paul Verhoeven
+    de_ch: Paul Verhoeven
     el: Πολ Βερχόβεν
     eml: Paul Verhoeven
     en: Paul Verhoeven
@@ -55,7 +55,7 @@ dv_has_:
     pl: Paul Verhoeven
     pms: Paul Verhoeven
     pt: Paul Verhoeven
-    pt-br: Paul Verhoeven
+    pt_br: Paul Verhoeven
     ro: Paul Verhoeven
     ru: Пол Верховен
     sc: Paul Verhoeven
@@ -72,12 +72,12 @@ dv_has_:
     vo: Paul Verhoeven
     yue: 保羅韋浩雲
     zh: 保羅·范赫文
-    zh-cn: 保罗·范霍文
-    zh-hans: 保罗·范霍文
-    zh-hant: 保羅·范赫文
-    zh-hk: 保羅韋浩雲
-    zh-sg: 保罗·范赫文
-    zh-tw: 保羅·范赫文
+    zh_cn: 保罗·范霍文
+    zh_hans: 保罗·范霍文
+    zh_hant: 保羅·范赫文
+    zh_hk: 保羅韋浩雲
+    zh_sg: 保罗·范赫文
+    zh_tw: 保羅·范赫文
 aliases:
 - Paul Verhoeven
 - Paul Verhoeven (hollänesche Filmregisseur)

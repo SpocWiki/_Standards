@@ -102,7 +102,7 @@ dv_has_:
     ast: bébora destilao
     bar: Schnops
     be: Моцныя спіртныя напоі
-    be-tarask: моцныя сьпіртныя напоі
+    be_tarask: моцныя сьпіртныя напоі
     bg: спиртна напитка
     bho: शराब
     blk: ဒေါဝ်
@@ -113,8 +113,8 @@ dv_has_:
     da: destillat
     de: Destillat
     en: liquor
-    en-ca: Distilled beverage
-    en-gb: distilled beverage
+    en_ca: Distilled beverage
+    en_gb: distilled beverage
     eo: brando
     es: bebida destilada
     eu: edari destilatu
@@ -154,7 +154,7 @@ dv_has_:
     oc: Beure destillat
     pl: destylat
     pt: bebida destilada
-    pt-br: Bebida destilada
+    pt_br: Bebida destilada
     qu: Hayaq yaku
     ro: Băutură alcoolică obținută prin distilare
     ru: крепкие спиртные напитки
@@ -179,9 +179,9 @@ dv_has_:
     yue: 蒸餾酒
     za: Laeuj get
     zh: 蒸餾酒
-    zh-hans: 蒸馏酒
-    zh-hant: 蒸餾酒
-    zh-tw: 蒸餾酒
+    zh_hans: 蒸馏酒
+    zh_hant: 蒸餾酒
+    zh_tw: 蒸餾酒
 ---
 # [[Liquor]]  
 

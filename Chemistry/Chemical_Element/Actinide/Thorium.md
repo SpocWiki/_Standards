@@ -143,7 +143,7 @@ dv_has_:
     ban: Thorium
     bcl: Toryo
     be: Торый
-    be-tarask: Тор
+    be_tarask: Тор
     bg: торий
     bho: थोरियम
     bn: থোরিয়াম
@@ -160,12 +160,12 @@ dv_has_:
     cy: thoriwm
     da: thorium
     de: Thorium
-    de-ch: Thorium
+    de_ch: Thorium
     diq: Toryum
     el: θόριο
     en: thorium
-    en-ca: Thorium
-    en-gb: thorium
+    en_ca: Thorium
+    en_gb: thorium
     eo: torio
     es: torio
     et: toorium
@@ -241,7 +241,7 @@ dv_has_:
     pnb: تھوریم
     ps: توريوم
     pt: tório
-    pt-br: tório
+    pt_br: tório
     qu: Thoryu
     ro: toriu
     ru: торий
@@ -279,14 +279,14 @@ dv_has_:
     yo: Tóríọ̀m
     yue: 釷
     zh: 钍
-    zh-cn: 钍
-    zh-hans: 钍
-    zh-hant: 釷
-    zh-hk: 釷
-    zh-mo: 釷
+    zh_cn: 钍
+    zh_hans: 钍
+    zh_hant: 釷
+    zh_hk: 釷
+    zh_mo: 釷
     zh-my: 钍
-    zh-sg: 钍
-    zh-tw: 釷
+    zh_sg: 钍
+    zh_tw: 釷
     zu: IsiThomsizi
   number_of_:
     period: 7

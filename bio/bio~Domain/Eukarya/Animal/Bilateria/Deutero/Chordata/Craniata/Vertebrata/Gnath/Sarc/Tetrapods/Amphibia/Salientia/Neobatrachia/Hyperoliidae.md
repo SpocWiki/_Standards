@@ -36,10 +36,10 @@ dv_has_:
     ceb: Hyperoliidae
     cs: rákosničkovití
     de: Riedfrösche
-    de-ch: Riedfrösche
+    de_ch: Riedfrösche
     en: Hyperoliidae
-    en-ca: Hyperoliidae
-    en-gb: Hyperoliidae
+    en_ca: Hyperoliidae
+    en_gb: Hyperoliidae
     eo: Hiperoliedoj
     es: Hyperoliidae
     eu: Hyperoliidae
@@ -67,7 +67,7 @@ dv_has_:
     oc: Hyperoliidae
     pl: Sitówkowate
     pt: Hyperoliidae
-    pt-br: Hyperoliidae
+    pt_br: Hyperoliidae
     ro: Hyperoliidae
     ru: Прыгуньи
     sl: Hyperoliidae
@@ -80,8 +80,8 @@ dv_has_:
     vo: Hyperoliidae
     war: Hyperoliidae
     zh: 非洲树蛙科
-    zh-cn: 非洲树蛙科
-    zh-tw: 非洲樹蛙科
+    zh_cn: 非洲树蛙科
+    zh_tw: 非洲樹蛙科
     zu: Umgqagqa
 ---
 # [[Hyperoliidae]]

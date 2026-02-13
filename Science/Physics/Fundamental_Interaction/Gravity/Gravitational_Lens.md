@@ -78,7 +78,7 @@ dv_has_:
     ar: عدسة الجاذبية
     ast: Lente gravitacional
     be: Гравітацыйная лінза
-    be-tarask: гравітацыйная лінза
+    be_tarask: гравітацыйная лінза
     bg: Гравитационна леща
     bn: মহাকর্ষীয় পরকলা
     br: Ferenn c'hravitadurel
@@ -139,12 +139,12 @@ dv_has_:
     wuu: 引力透镜效应
     yue: 引力透鏡
     zh: 引力透镜
-    zh-cn: 引力透镜效应
-    zh-hans: 引力透镜效应
-    zh-hant: 重力透鏡效應
-    zh-hk: 重力透鏡效應
-    zh-sg: 引力透镜效应
-    zh-tw: 重力透鏡效應
+    zh_cn: 引力透镜效应
+    zh_hans: 引力透镜效应
+    zh_hant: 重力透鏡效應
+    zh_hk: 重力透鏡效應
+    zh_sg: 引力透镜效应
+    zh_tw: 重力透鏡效應
 ---
 # [[Gravitational_Lens]] 
 

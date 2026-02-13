@@ -108,8 +108,8 @@ dv_has_:
     de: Glaspyramide im Innenhof des Louvre
     el: Πυραμίδα Λούβρου
     en: Louvre Pyramid
-    en-ca: Louvre Pyramid
-    en-gb: Louvre Pyramid
+    en_ca: Louvre Pyramid
+    en_gb: Louvre Pyramid
     eo: Piramido de Luvro
     es: Pirámide del Museo del Louvre
     et: Louvre'i püramiid

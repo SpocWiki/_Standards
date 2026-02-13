@@ -48,7 +48,7 @@ dv_has_:
     nn: Alasdair Gray
     pl: Alasdair Gray
     pt: Alasdair Gray
-    pt-br: Alasdair Gray
+    pt_br: Alasdair Gray
     ru: Аласдер Грей
     sco: Alasdair Gray
     sh: Alasdair Gray
@@ -60,8 +60,8 @@ dv_has_:
     uk: Аласдер Ґрей
     xmf: ალასდერ გრეი
     zh: 阿拉斯代尔·格雷
-    zh-cn: 阿拉斯代尔·格雷
-    zh-hans: 阿拉斯代尔·格雷
+    zh_cn: 阿拉斯代尔·格雷
+    zh_hans: 阿拉斯代尔·格雷
 ---
 ## #has_/text_of_/abstract 
 

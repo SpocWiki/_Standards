@@ -59,7 +59,7 @@ dv_has_:
     ast: Malpighiales
     az: Söyüdçiçəklilər
     be: Вербакветныя
-    be-tarask: Мальпігіякветныя
+    be_tarask: Мальпігіякветныя
     bg: малпигиецветни
     bs: Malpighiales
     ca: Malpighials
@@ -69,8 +69,8 @@ dv_has_:
     de: Malpighienartige
     el: Μαλπιγειώδη
     en: Malpighiales
-    en-ca: Malpighiales
-    en-gb: Malpighiales
+    en_ca: Malpighiales
+    en_gb: Malpighiales
     eo: Malpigialoj
     es: Malpighiales
     et: Malpiigialaadsed
@@ -113,7 +113,7 @@ dv_has_:
     pl: malpigiowce
     pnb: مالپگیالے
     pt: Malpighiales
-    pt-br: Malpighiales
+    pt_br: Malpighiales
     ro: Malpighiales
     ru: мальпигиецветные
     scn: Malpighiales
@@ -136,10 +136,10 @@ dv_has_:
     wuu: 金虎尾目
     yue: 金虎尾目
     zh: 金虎尾目
-    zh-cn: 金虎尾目
-    zh-hans: 金虎尾目
-    zh-hant: 金虎尾目
-    zh-tw: 金虎尾目
+    zh_cn: 金虎尾目
+    zh_hans: 金虎尾目
+    zh_hant: 金虎尾目
+    zh_tw: 金虎尾目
 ---
 # [[Malpighiales]] 
 

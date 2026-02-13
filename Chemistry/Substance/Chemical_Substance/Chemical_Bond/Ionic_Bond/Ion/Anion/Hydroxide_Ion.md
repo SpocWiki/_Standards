@@ -114,7 +114,7 @@ dv_has_:
     ast: Hidróxidu
     azb: هیدروکسید
     be: Гідраксіды
-    be-tarask: гідраксыд
+    be_tarask: гідраксыд
     bg: Хидроксид
     bn: হাইড্রক্সাইড আয়ন
     ca: anió hidròxid
@@ -155,7 +155,7 @@ dv_has_:
     nn: hydroksidion
     pl: anion wodorotlenowy
     pt: hidróxido
-    pt-br: íon hidróxido
+    pt_br: íon hidróxido
     qu: Yakumuksi
     ro: Hidroxid
     ru: гидроксид-ион
@@ -164,8 +164,8 @@ dv_has_:
     sk: hydroxid
     sl: hidroksidni ion
     sr: хидроксид
-    sr-ec: Хидроксид
-    sr-el: Hidroksid
+    sr_ec: Хидроксид
+    sr_el: Hidroksid
     sv: Hydroxid
     szl: Wodorotlynki
     ta: அய்தராக்சைடு
@@ -175,12 +175,12 @@ dv_has_:
     uk: Гідроксид
     vi: hiđrôxít
     zh: 氢氧根
-    zh-cn: 氢氧根
-    zh-hans: 氢氧根
-    zh-hant: 氫氧根
-    zh-hk: 氫氧根
-    zh-sg: 氢氧根
-    zh-tw: 氫氧根
+    zh_cn: 氢氧根
+    zh_hans: 氢氧根
+    zh_hant: 氫氧根
+    zh_hk: 氫氧根
+    zh_sg: 氢氧根
+    zh_tw: 氫氧根
 ---
 # [[Hydroxide_Ion]] 
 

@@ -27,7 +27,7 @@ dv_has_:
     az: Germanlar
     azb: ژرمنلر
     be: германцы
-    be-tarask: германцы
+    be_tarask: германцы
     bg: Германи
     br: Germaned
     bs: Germani
@@ -80,7 +80,7 @@ dv_has_:
     nan: German-lâng
     nb: germanere
     nds: Germanen
-    nds-nl: Germanen
+    nds_nl: Germanen
     nl: Germaanse volk
     nn: Germanarar
     nqo: ߗ߭ߍߙߑߡߊߣߌ߫ ߡߌ߬ߙߌ߲߬ߘߌ

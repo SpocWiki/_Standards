@@ -179,7 +179,7 @@ short_name:
 - сомалиёӣ
 dv_has_:
   name_:
-    aeb-arab: الصومالي
+    aeb_arab: الصومالي
     af: Somalies
     am: ሶማልኛ
     ang: Sōmalisc spræc
@@ -189,7 +189,7 @@ dv_has_:
     ast: Somalín
     az: Somali dili
     be: самалійская мова
-    be-tarask: самалійская мова
+    be_tarask: самалійская мова
     bg: Сомалийски език
     bn: সোমালি ভাষা
     br: somalieg
@@ -202,8 +202,8 @@ dv_has_:
     de: Somali
     el: Σομαλικά
     en: Somali
-    en-ca: Somali
-    en-gb: Somali
+    en_ca: Somali
+    en_gb: Somali
     eo: somala lingvo
     es: somalí
     et: somaali keel
@@ -265,7 +265,7 @@ dv_has_:
     pnb: صومالی
     ps: سوماليايي ژبه
     pt: Língua somali
-    pt-br: Língua somali
+    pt_br: Língua somali
     qu: Sumali simi
     rki: ဆိုမာလီယာ သမ္မတနိုင်ငံ
     ro: limba somaleză
@@ -285,7 +285,7 @@ dv_has_:
     so: Af-Soomaali
     sq: Gjuha somaleze
     sr: сомалски језик
-    sr-ec: сомалски језик
+    sr_ec: сомалски језик
     srn: Somalikondre
     sv: somaliska
     sw: Kisomali
@@ -307,10 +307,10 @@ dv_has_:
     yo: Èdè Somalí
     yue: 索馬里文
     zh: 索馬里語
-    zh-hans: 索马里语
-    zh-hant: 索馬利亞語
-    zh-hk: 索馬里語
-    zh-tw: 索馬利亞語
+    zh_hans: 索马里语
+    zh_hant: 索馬利亞語
+    zh_hk: 索馬里語
+    zh_tw: 索馬利亞語
     zu: isi-Somali
 ---
 # [[Somali_Language]] 

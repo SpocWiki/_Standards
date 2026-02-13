@@ -93,7 +93,7 @@ dv_has_:
     ast: radián
     az: radian
     be: радыян
-    be-tarask: радыян
+    be_tarask: радыян
     bg: радиан
     bn: রেডিয়ান
     bo: གཞུ་ཚད།
@@ -165,7 +165,7 @@ dv_has_:
     sms: radiaan
     sq: radiani
     sr: радијан
-    sr-ec: радијан
+    sr_ec: радијан
     sv: radian
     ta: ஆரையம்
     te: రేడియన్

@@ -96,7 +96,7 @@ dv_has_:
     ban: Klesih
     bcl: Balintong
     be: пангаліны
-    be-tarask: пангаліны
+    be_tarask: пангаліны
     bg: панголини
     bn: বনরুই
     br: Pangolin
@@ -163,7 +163,7 @@ dv_has_:
     pa: ਪੈਂਗੋਲਿਨ
     pl: Łuskowce
     pt: Pholidota
-    pt-br: Pholidota
+    pt_br: Pholidota
     pwn: qam
     ro: Pangolin
     ru: панголины
@@ -197,8 +197,8 @@ dv_has_:
     wuu: 穿山甲
     yue: 鱗甲目
     zh: 鳞甲目
-    zh-cn: 鳞甲目
-    zh-tw: 鱗甲目
+    zh_cn: 鳞甲目
+    zh_tw: 鱗甲目
     zu: Imfinyezi
 ---
 # [[Pholidota]]

@@ -41,7 +41,7 @@ dv_has_:
     oc: Rangiferini
     pl: Rangiferini
     pt: Rangiferini
-    pt-br: Rangiferini
+    pt_br: Rangiferini
     ro: Rangiferini
     ru: Rangiferini
     sl: Rangiferini

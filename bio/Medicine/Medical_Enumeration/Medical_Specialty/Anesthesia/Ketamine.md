@@ -144,7 +144,7 @@ dv_has_:
     ar: كيتامين
     azb: کتامین
     be: кетамін
-    be-tarask: кетамін
+    be_tarask: кетамін
     bg: кетамин
     bn: কিটামিন
     ca: ketamina
@@ -154,11 +154,11 @@ dv_has_:
     da: ketamin
     dag: Ketamine
     de: (RS)-Ketamin
-    de-ch: Ketamin
+    de_ch: Ketamin
     el: κεταμίνη
     en: (RS)-ketamine
-    en-ca: ketamine
-    en-gb: ketamine
+    en_ca: ketamine
+    en_gb: ketamine
     eo: ketamino
     es: ketamina
     et: ketamiin
@@ -198,7 +198,7 @@ dv_has_:
     pa: ਕੇਟਾਮਾਈਨ
     pl: (RS)-ketamina
     pt: cetamina
-    pt-br: cetamina
+    pt_br: cetamina
     ro: ketamină
     ru: кетамин
     sco: ketamine
@@ -207,8 +207,8 @@ dv_has_:
     sk: ketamín
     sl: ketamin
     sr: кетамин
-    sr-ec: кетамин
-    sr-el: ketamin
+    sr_ec: кетамин
+    sr_el: ketamin
     sv: ketamin
     sw: ketamini
     te: కెటామైన్
@@ -221,12 +221,12 @@ dv_has_:
     wuu: 氯胺酮
     yue: K仔
     zh: 氯胺酮
-    zh-cn: 氯胺酮
-    zh-hans: 氯胺酮
-    zh-hant: 氯胺酮
-    zh-hk: 氯胺酮
-    zh-sg: 氯胺酮
-    zh-tw: 氯胺酮
+    zh_cn: 氯胺酮
+    zh_hans: 氯胺酮
+    zh_hant: 氯胺酮
+    zh_hk: 氯胺酮
+    zh_sg: 氯胺酮
+    zh_tw: 氯胺酮
 ---
 # [[Ketamine]] 
 

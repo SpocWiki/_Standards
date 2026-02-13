@@ -196,7 +196,7 @@ dv_has_:
     az: Yustus fon Libix
     azb: یوستوس فون لیبیش
     be: Юстус Лібіх
-    be-tarask: Юстус фон Лібіх
+    be_tarask: Юстус фон Лібіх
     bg: Юстус фон Либих
     bs: Justus von Liebig
     ca: Justus von Liebig
@@ -205,11 +205,11 @@ dv_has_:
     da: Justus von Liebig
     dag: Justus von Liebig
     de: Justus von Liebig
-    de-ch: Justus von Liebig
+    de_ch: Justus von Liebig
     el: Γιούστους φον Λήμπιχ
     en: Justus von Liebig
-    en-ca: Justus von Liebig
-    en-gb: Justus von Liebig
+    en_ca: Justus von Liebig
+    en_gb: Justus von Liebig
     eo: Justus von Liebig
     es: Justus von Liebig
     et: Justus von Liebig
@@ -250,7 +250,7 @@ dv_has_:
     pms: Justus von Liebig
     ps: یوستوس فون لیبیگ
     pt: Justus von Liebig
-    pt-br: Justus von Liebig
+    pt_br: Justus von Liebig
     qu: Justus von Liebig
     ro: Justus von Liebig
     ru: Юстус фон Либих
@@ -259,7 +259,7 @@ dv_has_:
     sl: Justus von Liebig
     sq: Justus von Liebig
     sr: Јустус фон Либих
-    sr-ec: Јустус фон Либиг
+    sr_ec: Јустус фон Либиг
     sv: Justus von Liebig
     sw: Justus von Liebig
     tr: Justus von Liebig

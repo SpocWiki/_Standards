@@ -53,7 +53,7 @@ dv_has_:
     azb: کیانو ریوز
     bar: Keanu Reeves
     be: Кіану Рыўз
-    be-tarask: Кіяну Рыўз
+    be_tarask: Кіяну Рыўз
     bg: Киану Рийвс
     bho: कीनू रीव्स
     bm: Keanu Reeves
@@ -67,13 +67,13 @@ dv_has_:
     da: Keanu Reeves
     de: Keanu Reeves
     de-at: Keanu Reeves
-    de-ch: Keanu Reeves
+    de_ch: Keanu Reeves
     diq: Keanu Reeves
     dsb: Keanu Reeves
     el: Κιάνου Ριβς
     en: Keanu Reeves
-    en-ca: Keanu Reeves
-    en-gb: Keanu Reeves
+    en_ca: Keanu Reeves
+    en_gb: Keanu Reeves
     eo: Keanu Reeves
     es: Keanu Reeves
     et: Keanu Reeves
@@ -136,7 +136,7 @@ dv_has_:
     nap: Keanu Reeves
     nb: Keanu Reeves
     nds: Keanu Reeves
-    nds-nl: Keanu Reeves
+    nds_nl: Keanu Reeves
     nl: Keanu Reeves
     nn: Keanu Reeves
     nrm: Keanu Reeves
@@ -149,7 +149,7 @@ dv_has_:
     prg: Keanu Reeves
     ps: کیانو ریوز
     pt: Keanu Reeves
-    pt-br: Keanu Reeves
+    pt_br: Keanu Reeves
     qu: Keanu Reeves
     rgn: Keanu Reeves
     rm: Keanu Reeves
@@ -188,10 +188,10 @@ dv_has_:
     xmf: ქიანუ რივზი
     yue: 奇洛李維斯
     zh: 基努·里维斯
-    zh-hant: 基努·李維
-    zh-hk: 奇洛李維斯
-    zh-sg: 奇洛·李维斯
-    zh-tw: 基努·李維
+    zh_hant: 基努·李維
+    zh_hk: 奇洛李維斯
+    zh_sg: 奇洛·李维斯
+    zh_tw: 基努·李維
     zu: Keanu Reeves
 ---
 #has_/time_/started :: 1964-09-02 

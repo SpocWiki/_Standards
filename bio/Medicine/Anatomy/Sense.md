@@ -117,7 +117,7 @@ dv_has_:
     az: Hisslər
     ba: һиҙем
     be: адчуванне
-    be-tarask: адчуваньне
+    be_tarask: адчуваньне
     bg: Сетиво
     bn: ইন্দ্রিয়
     br: Skiant
@@ -197,7 +197,7 @@ dv_has_:
     th: ประสาทสัมผัส
     tr: duyu
     tt: тойгы
-    tt-cyrl: тойгы
+    tt_cyrl: тойгы
     uk: відчуття
     ur: حس
     vec: senso
@@ -208,12 +208,12 @@ dv_has_:
     yi: שפיראכץ
     yue: 感官
     zh: 感官
-    zh-cn: 感官
-    zh-hans: 感官
-    zh-hant: 感官
-    zh-hk: 感官
-    zh-sg: 感官
-    zh-tw: 感官
+    zh_cn: 感官
+    zh_hans: 感官
+    zh_hant: 感官
+    zh_hk: 感官
+    zh_sg: 感官
+    zh_tw: 感官
 ---
 # [[Sense]] 
 

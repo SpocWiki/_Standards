@@ -58,17 +58,17 @@ dv_has_:
     ar: بي بي سي ورلد نيوز
     ast: BBC World News
     be: BBC News
-    be-tarask: Навіны БВК
+    be_tarask: Навіны БВК
     bn: বিবিসি ওয়ার্ল্ড নিউজ
     ca: BBC News
     cs: BBC World News
     da: BBC World News
     de: BBC World News
-    de-ch: BBC World News
+    de_ch: BBC World News
     diq: BBC World News
     el: BBC World News
     en: BBC News
-    en-gb: BBC News
+    en_gb: BBC News
     eo: BBC World News
     es: BBC News
     et: BBC World News
@@ -94,7 +94,7 @@ dv_has_:
     nn: BBC World News
     pl: BBC World News
     pt: BBC News
-    pt-br: BBC News (canal de notícias internacional)
+    pt_br: BBC News (canal de notícias internacional)
     ro: BBC World News
     ru: BBC World News
     si: බීබීසී වර්ල්ඩ් නිව්ස්
@@ -112,12 +112,12 @@ dv_has_:
     wuu: 英国广播公司新闻频道（国际）
     yue: 英國廣播公司新聞頻道 (國際)
     zh: 英國廣播公司世界新聞頻道
-    zh-cn: 英国广播公司世界新闻频道
-    zh-hans: 英国广播公司世界新闻频道
-    zh-hant: 英國廣播公司世界新聞頻道
-    zh-hk: 英國廣播公司世界新聞頻道
-    zh-sg: 英国广播公司世界新闻频道
-    zh-tw: 英國廣播公司世界新聞頻道
+    zh_cn: 英国广播公司世界新闻频道
+    zh_hans: 英国广播公司世界新闻频道
+    zh_hant: 英國廣播公司世界新聞頻道
+    zh_hk: 英國廣播公司世界新聞頻道
+    zh_sg: 英国广播公司世界新闻频道
+    zh_tw: 英國廣播公司世界新聞頻道
 ---
 # [[BBC_News]] 
 

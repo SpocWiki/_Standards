@@ -104,7 +104,7 @@ dv_has_:
     ar: الملاحة عبر الأقمار الصناعية
     ast: sistema global de navegación per satélite
     be: спадарожнікавая сістэма навігацыі
-    be-tarask: спадарожнікавая сыстэма навігацыі
+    be_tarask: спадарожнікавая сыстэма навігацыі
     bg: Спътникова навигация
     bn: কৃত্রিম উপগ্রহভিত্তিক দিকনির্ণয়
     br: Sistem Geolec'hiadur Hollek dre Satellit
@@ -154,8 +154,8 @@ dv_has_:
     sk: Družicový navigačný prístroj
     sl: satelitski navigacijski sistem
     sr: сателитски навигациони систем
-    sr-ec: сателитски навигациони систем
-    sr-el: satelitski navigacioni sistem
+    sr_ec: сателитски навигациони систем
+    sr_el: satelitski navigacioni sistem
     sv: satellitnavigeringssystem
     sw: Mfumo wa uongozaji kwa satelaiti
     ta: செய்மதி இடஞ்சுட்டல்
@@ -168,8 +168,8 @@ dv_has_:
     vi: GNSS
     yue: 衞星導航系統
     zh: 卫星导航系统
-    zh-hant: 衛星導航系統
-    zh-tw: 衛星導航系統
+    zh_hant: 衛星導航系統
+    zh_tw: 衛星導航系統
 ---
 # [[Global_Navigation_Satellite_System]] 
 

@@ -72,9 +72,9 @@ dv_has_:
     vec: Era progresista
     vi: Thời đại cấp tiến
     zh: 進步時代
-    zh-hans: 进步时代
-    zh-hant: 進步時代
-    zh-hk: 進步時代
+    zh_hans: 进步时代
+    zh_hant: 進步時代
+    zh_hk: 進步時代
 ---
 # [[1890-Progressive_Era]] 
 

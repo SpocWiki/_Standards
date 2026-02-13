@@ -48,7 +48,7 @@ dv_has_:
     oc: Juli Zeh
     pl: Juli Zeh
     pt: Juli Zeh
-    pt-br: Juli Zeh
+    pt_br: Juli Zeh
     sk: Juli Zeh
     sl: Juli Zeh
     sq: Juli Zeh
@@ -56,7 +56,7 @@ dv_has_:
     sv: Juli Zeh
     uk: Юлі Це
     zh: 尤麗‧策
-    zh-hant: 茱莉·澤
+    zh_hant: 茱莉·澤
 ---
 # [[Zeh,Juli]] 
 

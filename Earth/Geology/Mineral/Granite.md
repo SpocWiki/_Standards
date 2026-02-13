@@ -143,7 +143,7 @@ dv_has_:
     az: qranit
     bar: Granit
     be: граніт
-    be-tarask: граніт
+    be_tarask: граніт
     bg: гранит
     bho: ग्रेनाइट
     bn: গ্রানাইট
@@ -158,7 +158,7 @@ dv_has_:
     de: Granit
     el: γρανίτης
     en: granite
-    en-gb: granite
+    en_gb: granite
     eo: granito
     es: granito
     et: graniit
@@ -205,7 +205,7 @@ dv_has_:
     ml: കരിങ്കല്ല്
     mn: Боржин
     ms: granit
-    ms-arab: ݢرانيت
+    ms_arab: ݢرانيت
     mwl: Cantarie
     my: နှမ်းဖတ်ကျောက်
     mzn: گرانیت
@@ -223,7 +223,7 @@ dv_has_:
     pnb: گرینائیٹ
     ps: ګرانيټ ډبره
     pt: granito
-    pt-br: granito
+    pt_br: granito
     qu: Alaymuska rumi
     ro: granit
     ru: гранит
@@ -245,7 +245,7 @@ dv_has_:
     th: หินแกรนิต
     tr: Granit
     tt: таргылташ
-    tt-cyrl: таргылташ
+    tt_cyrl: таргылташ
     uk: граніт
     uz: Granit
     vi: đá hoa cương
@@ -254,7 +254,7 @@ dv_has_:
     wuu: 花岗岩
     yue: 麻石
     zh: 花崗岩
-    zh-tw: 花崗岩
+    zh_tw: 花崗岩
 ---
 # [[Granite]] 
 

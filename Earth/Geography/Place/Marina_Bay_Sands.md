@@ -131,8 +131,8 @@ dv_has_:
     uk: Marina Bay Sands
     vi: Marina Bay Sands
     zh: 濱海灣金沙酒店
-    zh-hans: 滨海湾金沙酒店
-    zh-hant: 濱海灣金沙酒店
+    zh_hans: 滨海湾金沙酒店
+    zh_hant: 濱海灣金沙酒店
 ---
 # [[Marina_Bay_Sands]] 
 

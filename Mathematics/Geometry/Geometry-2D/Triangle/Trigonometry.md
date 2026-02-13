@@ -131,7 +131,7 @@ dv_has_:
     ba: тригонометрия
     bcl: trigonometriya
     be: трыганаметрыя
-    be-tarask: трыганамэтрыя
+    be_tarask: трыганамэтрыя
     bg: тригонометрия
     bn: ত্রিকোণমিতি
     br: trigonometriezh
@@ -204,7 +204,7 @@ dv_has_:
     ml: ത്രികോണമിതി
     mr: त्रिकोणमिती
     ms: trigonometri
-    ms-arab: تريݢونوميتري
+    ms_arab: تريݢونوميتري
     my: တြီဂိုနိုမေတြီ
     nan: saⁿ-kak-hoat
     nb: trigonometri
@@ -222,7 +222,7 @@ dv_has_:
     pms: trigonometrìa
     pnb: ٹریگنومیٹری
     pt: trigonometria
-    pt-br: trigonometria
+    pt_br: trigonometria
     qu: wamp'artupuykama
     rki: တြီဂိုနိုမေတြီ
     ro: trigonometrie

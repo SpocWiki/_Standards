@@ -193,7 +193,7 @@ dv_has_:
     az: Cotto
     ba: Джотто ди Бондоне
     be: Джота дзі Бандонэ
-    be-tarask: Джота
+    be_tarask: Джота
     bg: Джото
     bi: Giotto
     bn: জোত্তো দি বন্দোনে
@@ -252,7 +252,7 @@ dv_has_:
     pms: Giotto di Bondone
     pnb: جوتو دی بوندونے
     pt: Giotto di Bondone
-    pt-br: Giotto di Bondone
+    pt_br: Giotto di Bondone
     ro: Giotto
     roa-tara: Giotte
     ru: Джотто ди Бондоне
@@ -264,7 +264,7 @@ dv_has_:
     sl: Giotto di Bondone
     sq: Giotto di Bondone
     sr: Ђото ди Бондоне
-    sr-ec: Ђото ди Бондоне
+    sr_ec: Ђото ди Бондоне
     stq: Giotto di Bondone
     sv: Giotto di Bondone
     sw: Giotto

@@ -191,7 +191,7 @@ dv_has_:
     az: rəqqas
     ba: бейеүсе
     be: танцор
-    be-tarask: танцоўшчык
+    be_tarask: танцоўшчык
     bg: танцьор
     bn: নৃত্যশিল্পী
     br: dañser
@@ -199,7 +199,7 @@ dv_has_:
     ceb: mananayaw
     ckb: سەماکەر
     crh: oyuncı
-    crh-latn: oyuncı
+    crh_latn: oyuncı
     cs: tanečník
     csb: tancôrz
     cy: dawnsiwr
@@ -241,7 +241,7 @@ dv_has_:
     ko: 무용가
     ks: نَژَن وول
     ku: danser
-    ku-latn: dansker
+    ku_latn: dansker
     lb: Dänzer
     lfn: dansor
     lg: Omuzinyi
@@ -252,7 +252,7 @@ dv_has_:
     mk: танчер
     mr: नर्तक / नर्तकी
     ms: penari
-    ms-arab: ڤناري
+    ms_arab: ڤناري
     mt: żeffien
     mzn: سىماکر
     nb: danser
@@ -267,7 +267,7 @@ dv_has_:
     pl: tancerz
     ps: نڅاګر
     pt: bailarino
-    pt-br: dançarino
+    pt_br: dançarino
     ro: dansator
     ru: танцор
     sah: үҥкүүһүт
@@ -279,8 +279,8 @@ dv_has_:
     smn: tánssájeijee
     sms: taʹnssjeei
     sr: плесач
-    sr-ec: плесач
-    sr-el: plesač
+    sr_ec: плесач
+    sr_el: plesač
     sv: dansare
     sw: mcheza ngoma/dansi
     szl: tancyrz
@@ -290,7 +290,7 @@ dv_has_:
     tl: mananayaw
     tr: dansçı
     tt: биюче
-    tt-cyrl: биюче
+    tt_cyrl: биюче
     uk: танцюрист
     ur: رقاص
     uz: raqqos/raqqosa
@@ -299,11 +299,11 @@ dv_has_:
     vo: danüdan
     yue: 舞蹈員
     zh: 舞者
-    zh-cn: 舞者
-    zh-hans: 舞者
-    zh-hant: 舞者
-    zh-hk: 舞者
-    zh-tw: 舞者
+    zh_cn: 舞者
+    zh_hans: 舞者
+    zh_hant: 舞者
+    zh_hk: 舞者
+    zh_tw: 舞者
     zu: umdansi
 ---
 # [[Dancer]] 🕺 

@@ -5,7 +5,7 @@ dv_has_:
     af: veiligheid
     ar: سلامة
     be: бяспека
-    be-tarask: бясьпека
+    be_tarask: бясьпека
     bg: безопасност
     bn: নিরাপত্তা
     ca: protecció
@@ -15,8 +15,8 @@ dv_has_:
     de: Sicherheit
     el: Μείνετε ασφαλείς
     en: safety
-    en-ca: safety
-    en-gb: safety
+    en_ca: safety
+    en_gb: safety
     eo: sekureco
     es: seguridad
     et: Ohutus
@@ -44,7 +44,7 @@ dv_has_:
     mk: безбедност
     ml: സുരക്ഷിതത്വം
     ms: keselamatan
-    ms-arab: کسلامتن
+    ms_arab: کسلامتن
     nan: An-choân
     nb: trygghet
     nl: veiligheid
@@ -66,7 +66,7 @@ dv_has_:
     tl: Kaligtasan
     tr: emniyet
     tt: куркынычсызлык
-    tt-cyrl: куркынычсызлык
+    tt_cyrl: куркынычсызлык
     uk: безпека
     ur: حفاظت
     vec: seguresa
@@ -74,14 +74,14 @@ dv_has_:
     yo: ààbò
     yue: 安全
     zh: 安全
-    zh-cn: 安全
-    zh-hans: 安全
-    zh-hant: 安全
-    zh-hk: 安全
-    zh-mo: 安全
+    zh_cn: 安全
+    zh_hans: 安全
+    zh_hant: 安全
+    zh_hk: 安全
+    zh_mo: 安全
     zh-my: 安全
-    zh-sg: 安全
-    zh-tw: 安全
+    zh_sg: 安全
+    zh_tw: 安全
 aliases:
 - an toàn
 - An-choân

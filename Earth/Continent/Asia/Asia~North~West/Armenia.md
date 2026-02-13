@@ -4,7 +4,7 @@ dv_has_:
     ab: Ермантәыла
     ace: Armenia
     ady: Армение
-    aeb-arab: أرمينيا
+    aeb_arab: أرمينيا
     af: Armenië
     am: አርመኒያ
     ami: Arminiya
@@ -27,7 +27,7 @@ dv_has_:
     bar: Armenien
     bcl: Armenya
     be: Арменія
-    be-tarask: Армэнія
+    be_tarask: Армэнія
     bew: Lemènder
     bg: Армения
     bgn: ارمنستان
@@ -41,7 +41,7 @@ dv_has_:
     bs: Armenija
     bxr: Армени
     ca: Armènia
-    cbk-zam: Armenia
+    cbk_zam: Armenia
     cdo: Armenia
     ce: Эрмалойчоь
     ceb: Armenya
@@ -50,7 +50,7 @@ dv_has_:
     ckb: ئەرمەنستان
     co: Armenia
     crh: Ermenistan
-    crh-latn: Ermenistan
+    crh_latn: Ermenistan
     crh-ro: Ermenístan
     cs: Arménie
     csb: Armenijô
@@ -61,7 +61,7 @@ dv_has_:
     dag: Armenia
     de: Armenien
     de-at: Armenien
-    de-ch: Armenien
+    de_ch: Armenien
     diq: Ermenıstan
     dsb: Armeńska
     dtp: Armenia
@@ -72,8 +72,8 @@ dv_has_:
     el: Αρμενία
     eml: Armègna
     en: Armenia
-    en-ca: Armenia
-    en-gb: Armenia
+    en_ca: Armenia
+    en_gb: Armenia
     en-us: Armenia
     eo: Armenio
     es: Armenia
@@ -99,7 +99,7 @@ dv_has_:
     gn: Armenia
     gom: अर्मेनिया
     gom-deva: अर्मेनिया
-    gom-latn: Armenia
+    gom_latn: Armenia
     gor: Armenia
     got: "\U00010330\U00010342\U0001033C\U00010334\U0001033D\U0001033E\U00010330"
     gpe: Armenia
@@ -172,7 +172,7 @@ dv_has_:
     lzh: 亞美尼亞
     mad: Armenia
     mai: अर्मेनिया
-    map-bms: Armenia
+    map_bms: Armenia
     mdf: Армения
     mg: Armenia
     mhr: Армений
@@ -186,7 +186,7 @@ dv_has_:
     mr: आर्मेनिया
     mrj: Армени
     ms: Armenia
-    ms-arab: ارمينيا
+    ms_arab: ارمينيا
     mt: Armenja
     mwl: Arménia
     my: အာမေးနီးယားနိုင်ငံ
@@ -198,7 +198,7 @@ dv_has_:
     nap: Armenia
     nb: Armenia
     nds: Armenien
-    nds-nl: Armenië
+    nds_nl: Armenië
     ne: आर्मेनिया
     new: आर्मेनिया
     nl: Armenië
@@ -228,7 +228,7 @@ dv_has_:
     prg: Armēnija
     ps: ارمنستان
     pt: Arménia
-    pt-br: Armênia
+    pt_br: Armênia
     qu: Arminya
     rm: Armenia
     rmy: Armeniya
@@ -261,8 +261,8 @@ dv_has_:
     so: Armania
     sq: Armenia
     sr: Јерменија
-    sr-ec: Јерменија
-    sr-el: Jermenija
+    sr_ec: Јерменија
+    sr_el: Jermenija
     srn: Armenikondre
     ss: I-Arimeniya
     stq: Armenien
@@ -288,7 +288,7 @@ dv_has_:
     trv: Armenia
     ts: Armenia
     tt: Әрмәнстан
-    tt-cyrl: Әрмәнстан
+    tt_cyrl: Әрмәнстан
     tum: Armenia
     tw: Aminia
     ty: Āmenia
@@ -316,14 +316,14 @@ dv_has_:
     zea: Armenië
     zgh: ⴰⵕⵎⵉⵏⵢⴰ
     zh: 亞美尼亞
-    zh-cn: 亚美尼亚
-    zh-hans: 亚美尼亚
-    zh-hant: 亞美尼亞
-    zh-hk: 亞美尼亞
-    zh-mo: 亞美尼亞
+    zh_cn: 亚美尼亚
+    zh_hans: 亚美尼亚
+    zh_hant: 亞美尼亞
+    zh_hk: 亞美尼亞
+    zh_mo: 亞美尼亞
     zh-my: 亚美尼亚
-    zh-sg: 亚美尼亚
-    zh-tw: 亞美尼亞
+    zh_sg: 亚美尼亚
+    zh_tw: 亞美尼亞
     zu: i-Armenia
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Armenia

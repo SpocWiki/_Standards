@@ -75,7 +75,7 @@ dv_has_:
   name_:
     af: sloot
     ar: خندق
-    be-tarask: канава
+    be_tarask: канава
     bg: Вада
     bs: Jarak
     ca: rasa
@@ -83,7 +83,7 @@ dv_has_:
     da: grøft
     de: Wassergraben
     en: ditch
-    en-gb: ditch
+    en_gb: ditch
     eo: Fosaĵo
     es: zanja de drenaje
     et: kraav
@@ -108,12 +108,12 @@ dv_has_:
     mzn: کله
     nb: grøft
     nds: Schloot
-    nds-nl: sloot
+    nds_nl: sloot
     nl: sloot
     nn: grøft
     pl: Rów wodny
     pt: fosso
-    pt-br: fosso
+    pt_br: fosso
     ro: șanț
     ru: канава
     sco: ditch
@@ -134,8 +134,8 @@ dv_has_:
     wuu: 渠
     yue: 渠
     zh: 溝渠
-    zh-hant: 溝渠
-    zh-tw: 溝渠
+    zh_hant: 溝渠
+    zh_tw: 溝渠
 ---
 # [[Ditch]] 
 

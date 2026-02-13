@@ -22,11 +22,11 @@ dv_has_:
     da: Diplocentridae
     de: Diplocentridae
     de-at: Diplocentridae
-    de-ch: Diplocentridae
+    de_ch: Diplocentridae
     el: διπλοκεντρίδες
     en: Diplocentridae
-    en-ca: Diplocentridae
-    en-gb: Diplocentridae
+    en_ca: Diplocentridae
+    en_gb: Diplocentridae
     eo: Diplocentridae
     es: Diplocentridae
     et: Diplocentridae
@@ -61,7 +61,7 @@ dv_has_:
     nap: Diplocentridae
     nb: Diplocentridae
     nds: Diplocentridae
-    nds-nl: Diplocentridae
+    nds_nl: Diplocentridae
     nl: Diplocentridae
     nn: Diplocentridae
     nrm: Diplocentridae
@@ -71,7 +71,7 @@ dv_has_:
     pl: Diplocentridae
     pms: Diplocentridae
     pt: Diplocentridae
-    pt-br: Diplocentridae
+    pt_br: Diplocentridae
     rm: Diplocentridae
     ro: Diplocentridae
     ru: Diplocentridae
@@ -93,8 +93,8 @@ dv_has_:
     war: Diplocentridae
     wo: Diplocentridae
     zh: 双棘蝎科
-    zh-cn: 双棘蝎科
-    zh-hans: 双棘蝎科
+    zh_cn: 双棘蝎科
+    zh_hans: 双棘蝎科
     zu: Diplocentridae
 ---
 # [[Diplocentridae]] 

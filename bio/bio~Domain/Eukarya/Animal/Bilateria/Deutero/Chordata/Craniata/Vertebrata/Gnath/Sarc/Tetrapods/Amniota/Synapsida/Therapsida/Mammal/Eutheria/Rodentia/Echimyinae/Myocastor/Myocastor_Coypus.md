@@ -123,7 +123,7 @@ dv_has_:
     ba: Нутрия
     ban: Nutria
     be: Нутрыя
-    be-tarask: нутрыя
+    be_tarask: нутрыя
     bg: нутрия
     br: Avank-Spagn
     ca: coipú
@@ -133,8 +133,8 @@ dv_has_:
     de: Nutria
     eml: Nùtria
     en: Myocastor coypus
-    en-ca: Nutria
-    en-gb: Nutria
+    en_ca: Nutria
+    en_gb: Nutria
     eo: Kojpo
     es: Myocastor coypus
     et: nutria
@@ -161,11 +161,11 @@ dv_has_:
     ja: ヌートリア
     ka: ნუტრია
     kk: Саз құндызы
-    kk-arab: ساز قۇندىزى
+    kk_arab: ساز قۇندىزى
     kk-cn: ساز قۇندىزى
-    kk-cyrl: Саз құндызы
+    kk_cyrl: Саз құндызы
     kk-kz: Саз құндызы
-    kk-latn: Saz qundızı
+    kk_latn: Saz qundızı
     kk-tr: Saz qundızı
     ko: 뉴트리아
     ku: Meymûna avî
@@ -186,15 +186,15 @@ dv_has_:
     pl: Nutria amerykańska
     pnb: کوئپو
     pt: Ratão-do-banhado
-    pt-br: Myocastor coypus
+    pt_br: Myocastor coypus
     ro: Myocastor coypus
     ru: Нутрия
     sk: Nutria riečna
     sl: nutrija
     sq: Myocastor coypus
     sr: Нутрија
-    sr-ec: Нутрија
-    sr-el: Нутрија
+    sr_ec: Нутрија
+    sr_el: Нутрија
     sv: sumpbäver
     sw: Koypu
     th: นากหญ้า
@@ -208,12 +208,12 @@ dv_has_:
     wuu: 海狸鼠
     yue: 海狸鼠
     zh: 海狸鼠
-    zh-cn: 海狸鼠
-    zh-hans: 海狸鼠
-    zh-hant: 海狸鼠
-    zh-hk: 海狸鼠
-    zh-sg: 海狸鼠
-    zh-tw: 海貍鼠
+    zh_cn: 海狸鼠
+    zh_hans: 海狸鼠
+    zh_hant: 海狸鼠
+    zh_hk: 海狸鼠
+    zh_sg: 海狸鼠
+    zh_tw: 海貍鼠
 ---
 # [[Myocastor_Coypus]] 
 

@@ -98,7 +98,7 @@ dv_has_:
     az: empirizm
     ba: эмпиризм
     be: эмпірызм
-    be-tarask: эмпірызм
+    be_tarask: эмпірызм
     bg: eмпиризъм
     bn: অভিজ্ঞতাবাদ
     bs: empirizam
@@ -188,7 +188,7 @@ dv_has_:
     wuu: 經驗主義
     yue: 經驗主義
     zh: 经验主义
-    zh-cn: 经验主义
+    zh_cn: 经验主义
 ---
 # [[Empiricism]] 
 

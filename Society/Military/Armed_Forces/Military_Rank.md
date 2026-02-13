@@ -120,7 +120,7 @@ dv_has_:
     az: hərbi rütbə
     ba: хәрби звание
     be: воінскае званне
-    be-tarask: вайсковае званьне
+    be_tarask: вайсковае званьне
     bg: военни звания в сухопътните войски в Европа
     bn: সামরিক পদ
     br: grad milourel
@@ -132,12 +132,12 @@ dv_has_:
     cy: rheng filwrol
     da: militær rang
     de: Dienstgrad beim Militär
-    de-ch: Dienstgrad
+    de_ch: Dienstgrad
     dsb: słužbny rank
     el: στρατιωτικός βαθμός
     en: military rank
-    en-ca: Military rank
-    en-gb: military rank
+    en_ca: Military rank
+    en_gb: military rank
     en-us: military rank
     eo: militista rango
     es: rango militar
@@ -164,10 +164,10 @@ dv_has_:
     jv: tandha pangkat militèr
     ka: სამხედრო წოდება
     kk: Әскери атақтар
-    kk-latn: äskerï ataq
+    kk_latn: äskerï ataq
     ko: 군사 계급
     ku: rutbeya leşkerî
-    ku-latn: rutbeya leşkerî
+    ku_latn: rutbeya leşkerî
     la: gradus militaris
     lb: Déngschtgrad
     lt: karinis laipsnis
@@ -175,7 +175,7 @@ dv_has_:
     mk: воен чин
     mn: Цэргийн цол
     ms: pangkat tentera
-    ms-arab: ڤڠکت تنترا
+    ms_arab: ڤڠکت تنترا
     my: စစ်ဘက်ဆိုင်ရာ ရာထူး အဆင့်သတ်မှတ်ချက်
     nb: militær grad
     nl: militaire rang
@@ -194,8 +194,8 @@ dv_has_:
     sl: vojaški čin
     sq: Gradat ushtarake
     sr: војни чин
-    sr-ec: војни чин
-    sr-el: vojni čin
+    sr_ec: војни чин
+    sr_el: vojni čin
     sv: militär grad
     szl: stopiyń wojskowy
     tg: Дараҷаи низомӣ
@@ -210,10 +210,10 @@ dv_has_:
     yi: מיליטעריש ראַנג
     yue: 軍銜
     zh: 军衔
-    zh-cn: 军衔
-    zh-hans: 军衔
-    zh-hant: 軍階
-    zh-tw: 軍階
+    zh_cn: 军衔
+    zh_hans: 军衔
+    zh_hant: 軍階
+    zh_tw: 軍階
 ---
 # [[Military_Rank]] 
 

@@ -255,7 +255,7 @@ dv_has_:
     bar: Martin Luther
     bcl: Martin Luther
     be: Марцін Лютэр
-    be-tarask: Мартын Лютэр
+    be_tarask: Мартын Лютэр
     bew: Martèn Luter
     bg: Мартин Лутер
     bho: मार्टिन लूथर
@@ -277,14 +277,14 @@ dv_has_:
     da: Martin Luther
     de: Martin Luther
     de-at: Martin Luther
-    de-ch: Martin Luther
+    de_ch: Martin Luther
     diq: Martin Luther
     dty: मार्टिन लूथर
     el: Μαρτίνος Λούθηρος
     eml: Martin Lutēr
     en: Martin Luther
-    en-ca: Martin Luther
-    en-gb: Martin Luther
+    en_ca: Martin Luther
+    en_gb: Martin Luther
     en-us: Martin Luther
     eo: Marteno Lutero
     es: Martín Lutero
@@ -309,7 +309,7 @@ dv_has_:
     gn: Martin Lutéro
     gom: ल्यूथर
     gom-deva: ल्यूथर, मार्टिन
-    gom-latn: Martin Luther
+    gom_latn: Martin Luther
     got: "\U0001033C\U00010330\U00010342\U00010344\U00010339\U0001033D\U0001033F\U00010343 \U0001033B\U0001033F\U00010344\U00010330\U00010339\U00010342"
     gsw: Martin Luther
     gv: Martin Luther
@@ -372,7 +372,7 @@ dv_has_:
     nap: Martin Lutero
     nb: Martin Luther
     nds: Martin Luther
-    nds-nl: Maarten Luther
+    nds_nl: Maarten Luther
     ne: मार्टिन लुथर
     new: मार्टिन लुथर
     nl: Maarten Luther
@@ -392,7 +392,7 @@ dv_has_:
     prg: Martin Luther
     ps: مارټين لوتر
     pt: Martinho Lutero
-    pt-br: Martinho Lutero
+    pt_br: Martinho Lutero
     qu: Martin Luther
     rki: မာတင်လူသာ
     rm: Martin Luther
@@ -401,7 +401,7 @@ dv_has_:
     ru: Мартин Лютер
     rue: Мартін Лутер
     rup: Martin Luther
-    ruq-latn: Martin Luther
+    ruq_latn: Martin Luther
     sa: मार्टिन लूथर
     sah: Мартин Лютер
     sat: ᱢᱟᱨᱴᱤᱱ ᱞᱩᱛᱷᱟᱨ
@@ -410,7 +410,7 @@ dv_has_:
     sco: Martin Luther
     sgs: Martīns Lioteris
     sh: Martin Luther
-    shi-latn: Martin Luther
+    shi_latn: Martin Luther
     sk: Martin Luther
     sl: Martin Luther
     sm: Matini Luteru
@@ -423,7 +423,7 @@ dv_has_:
     szy: Martin Luther馬丁•路德
     ta: மார்ட்டின் லூதர்
     te: మార్టిన్ లూథర్
-    tg-latn: Martin Luther
+    tg_latn: Martin Luther
     th: มาร์ติน ลูเทอร์
     tk: Martin Lýuter
     tl: Martin Luther
@@ -432,7 +432,7 @@ dv_has_:
     tr: Martin Luther
     tt: Martin Lüter
     ty: Martin Luther
-    ug-latn: Martin Luther
+    ug_latn: Martin Luther
     uk: Мартін Лютер
     ur: مارٹن لوتھر
     uz: Lyuter Martin
@@ -449,10 +449,10 @@ dv_has_:
     yue: 馬丁路德
     zea: Maerten Luther
     zh: 馬丁·路德
-    zh-cn: 马丁·路德
-    zh-hans: 马丁·路德
-    zh-hant: 馬丁·路德
-    zh-tw: 馬丁·路德
+    zh_cn: 马丁·路德
+    zh_hans: 马丁·路德
+    zh_hant: 馬丁·路德
+    zh_tw: 馬丁·路德
     zu: Martin Luther
 ---
 # [[Luther,Martin]] 

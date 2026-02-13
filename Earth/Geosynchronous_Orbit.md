@@ -88,7 +88,7 @@ dv_has_:
     ast: Órbita geosíncrona
     az: Geosinxron orbit
     be: Геасінхронная арбіта
-    be-tarask: геасынхронная арбіта
+    be_tarask: геасынхронная арбіта
     bg: Геосинхронна орбита
     bn: ভূসমলয় কক্ষপথ
     br: Orbitenn geoarsinkron
@@ -97,7 +97,7 @@ dv_has_:
     de: geosynchrone Umlaufbahn
     el: Γεωσύγχρονη τροχιά
     en: geosynchronous orbit
-    en-ca: Geosynchronous orbit
+    en_ca: Geosynchronous orbit
     eo: tersamdaŭra orbito
     es: órbita geosíncrona
     eu: orbita geosinkrono
@@ -114,11 +114,11 @@ dv_has_:
     it: orbita geosincrona
     ja: 対地同期軌道
     kk: Геосинхронды орбита
-    kk-arab: گەوسىينحروندى وربىيتا
+    kk_arab: گەوسىينحروندى وربىيتا
     kk-cn: گەوسىينحروندى وربىيتا
-    kk-cyrl: Геосинхронды орбита
+    kk_cyrl: Геосинхронды орбита
     kk-kz: Геосинхронды орбита
-    kk-latn: Geosïnxrondı orbïta
+    kk_latn: Geosïnxrondı orbïta
     kk-tr: Geosïnxrondı orbïta
     ko: 지구 동기 궤도
     lb: Geosynchron Ëmlafbunn
@@ -129,14 +129,14 @@ dv_has_:
     nl: geosynchrone baan
     pl: orbita geosynchroniczna
     pt: órbita geossíncrona
-    pt-br: Órbita geossíncrona
+    pt_br: Órbita geossíncrona
     ro: orbită geosincronă
     ru: геосинхронная орбита
     si: භූසමවේගී කක්ෂය
     sl: geosinhrona orbita
     sr: геосинхрона орбита
-    sr-ec: Геосинхрона орбита
-    sr-el: Geosinhrona orbita
+    sr_ec: Геосинхрона орбита
+    sr_el: Geosinhrona orbita
     su: Orbit Géosinkron
     sv: geosynkron omloppsbana
     ta: புவிநிலைச் சுற்றுப்பாதை
@@ -149,12 +149,12 @@ dv_has_:
     wuu: 地球同步轨道
     yue: 地球同步軌道
     zh: 地球同步轨道
-    zh-cn: 地球同步轨道
-    zh-hans: 地球同步轨道
-    zh-hant: 地球同步軌道
-    zh-hk: 地球同步軌道
-    zh-sg: 地球同步轨道
-    zh-tw: 地球同步軌道
+    zh_cn: 地球同步轨道
+    zh_hans: 地球同步轨道
+    zh_hant: 地球同步軌道
+    zh_hk: 地球同步軌道
+    zh_sg: 地球同步轨道
+    zh_tw: 地球同步軌道
 ---
 # [[Geosynchronous_Orbit]] 
 

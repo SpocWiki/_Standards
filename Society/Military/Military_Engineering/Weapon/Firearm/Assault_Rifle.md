@@ -80,7 +80,7 @@ dv_has_:
     ast: Fusil d'asaltu
     az: Avtomat
     be: аўтамат
-    be-tarask: аўтамат
+    be_tarask: аўтамат
     bg: Автомат
     br: fuzuilh-arsailh
     ca: fusell d'assalt
@@ -88,10 +88,10 @@ dv_has_:
     cy: reiffl ymosod
     da: stormgevær
     de: Sturmgewehr
-    de-ch: Sturmgewehr
+    de_ch: Sturmgewehr
     el: Τουφέκι εφόδου
     en: assault rifle
-    en-ca: Assault rifle
+    en_ca: Assault rifle
     eo: sturmofusilo
     es: fusil de asalto
     et: Automaat
@@ -112,11 +112,11 @@ dv_has_:
     ja: アサルトライフル
     kbd: Автомат
     kk: Автомат қару
-    kk-arab: اۆتومات قارۋ
+    kk_arab: اۆتومات قارۋ
     kk-cn: اۆتومات قارۋ
-    kk-cyrl: Автомат қару
+    kk_cyrl: Автомат қару
     kk-kz: Автомат қару
-    kk-latn: Avtomat qarw
+    kk_latn: Avtomat qarw
     kk-tr: Avtomat qarw
     ko: 돌격소총
     ky: Автомат
@@ -134,15 +134,15 @@ dv_has_:
     pl: karabin automatyczny
     pms: Fusil d'assàut
     pt: Espingarda de assalto
-    pt-br: Fuzil de assalto
+    pt_br: Fuzil de assalto
     ro: pușcă de asalt
     ru: автомат
     sk: Útočná puška
     sl: jurišna puška
     sq: pushkë sulmi
     sr: јуришна пушка
-    sr-ec: јуришна пушка
-    sr-el: jurišna puška
+    sr_ec: јуришна пушка
+    sr_el: jurišna puška
     sv: automatkarbin
     ta: தாக்குதல் சுடுகலன்
     th: ปืนเล็กยาวจู่โจม
@@ -153,12 +153,12 @@ dv_has_:
     war: Pusil nga asulto
     yue: 突擊步槍
     zh: 突击步枪
-    zh-cn: 突击步枪
-    zh-hans: 突击步枪
-    zh-hant: 突擊步槍
-    zh-hk: 突擊步槍
-    zh-sg: 突击步枪
-    zh-tw: 突擊步槍
+    zh_cn: 突击步枪
+    zh_hans: 突击步枪
+    zh_hant: 突擊步槍
+    zh_hk: 突擊步槍
+    zh_sg: 突击步枪
+    zh_tw: 突擊步槍
 ---
 # [[Assault_Rifle]] 
 

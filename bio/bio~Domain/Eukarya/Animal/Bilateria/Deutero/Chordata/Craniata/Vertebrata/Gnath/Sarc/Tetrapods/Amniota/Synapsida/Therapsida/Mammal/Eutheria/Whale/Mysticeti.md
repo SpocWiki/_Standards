@@ -86,7 +86,7 @@ dv_has_:
     az: Bığlı balinalar
     ban: Paus balin
     be: вусатыя кіты
-    be-tarask: вусатыя кіты
+    be_tarask: вусатыя кіты
     bg: Беззъби китове
     br: Morvil fanoliek
     bs: Kit
@@ -127,11 +127,11 @@ dv_has_:
     ja: ヒゲクジラ亜目
     ka: უკბილო ვეშაპები
     kk: Мұртты киттер
-    kk-arab: مۇرتتى كىيتتەر
+    kk_arab: مۇرتتى كىيتتەر
     kk-cn: مۇرتتى كىيتتەر
-    kk-cyrl: Мұртты киттер
+    kk_cyrl: Мұртты киттер
     kk-kz: Мұртты киттер
-    kk-latn: Murttı kïtter
+    kk_latn: Murttı kïtter
     kk-tr: Murttı kïtter
     ko: 수염고래아목
     la: Mysticeti
@@ -152,7 +152,7 @@ dv_has_:
     pl: fiszbinowce
     ps: بې غاښو نهنګان
     pt: Baleia
-    pt-br: Mysticeti
+    pt_br: Mysticeti
     ro: Balenă
     ru: усатые киты
     sah: Хаалым балык
@@ -175,14 +175,14 @@ dv_has_:
     wuu: 须鲸
     yue: 鬚鯨小目
     zh: 鬚鯨小目
-    zh-cn: 须鲸小目
-    zh-hans: 须鲸小目
-    zh-hant: 鬚鯨小目
-    zh-hk: 鬚鯨小目
-    zh-mo: 鬚鯨小目
+    zh_cn: 须鲸小目
+    zh_hans: 须鲸小目
+    zh_hant: 鬚鯨小目
+    zh_hk: 鬚鯨小目
+    zh_mo: 鬚鯨小目
     zh-my: 须鲸小目
-    zh-sg: 须鲸小目
-    zh-tw: 鬚鯨小目
+    zh_sg: 须鲸小目
+    zh_tw: 鬚鯨小目
 ---
 # [[Mysticeti]]
 

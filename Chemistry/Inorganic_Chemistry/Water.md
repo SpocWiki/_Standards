@@ -521,7 +521,7 @@ dv_has_:
     bcl: tubig
     bdr: buek
     be: вада
-    be-tarask: вада
+    be_tarask: вада
     bew: aèr
     bg: вода
     bho: पानी
@@ -539,7 +539,7 @@ dv_has_:
     bxr: уһан
     byv: ntsə
     ca: aigua
-    cbk-zam: agwa
+    cbk_zam: agwa
     cdo: cūi
     ce: хи
     ceb: tubig
@@ -551,7 +551,7 @@ dv_has_:
     co: acqua
     cr: ᓃᐲᔾ
     crh: suv
-    crh-latn: suv
+    crh_latn: suv
     cs: voda
     csb: wòda
     cu: вода
@@ -560,7 +560,7 @@ dv_has_:
     da: vand
     dag: kom
     de: Wasser
-    de-ch: Wasser
+    de_ch: Wasser
     dga: koɔ
     din: piu
     diq: awe
@@ -573,8 +573,8 @@ dv_has_:
     el: νερό
     eml: aqua
     en: water
-    en-ca: water
-    en-gb: water
+    en_ca: water
+    en_gb: water
     en-us: water
     eo: akvo
     es: agua
@@ -653,7 +653,7 @@ dv_has_:
     kn: ನೀರು
     ko: 물
     ks: آب
-    ks-arab: پوٗنؠ
+    ks_arab: پوٗنؠ
     ksh: Wasser
     ku: av
     kus: ku'om
@@ -681,7 +681,7 @@ dv_has_:
     lzh: 水
     mad: aèng
     mai: पानी
-    map-bms: banyu
+    map_bms: banyu
     mcp: mənik
     mdf: ведь
     mg: rano
@@ -695,7 +695,7 @@ dv_has_:
     mos: ko-yũudum
     mr: पाणी
     ms: air
-    ms-arab: اءير
+    ms_arab: اءير
     mua: bii
     mul: H₂O
     mwl: auga
@@ -708,7 +708,7 @@ dv_has_:
     nap: acqua
     nb: vann
     nds: Water
-    nds-nl: woater
+    nds_nl: woater
     ne: पानी
     new: लः
     nia: idanö
@@ -792,8 +792,8 @@ dv_has_:
     trv: qsiya
     ts: mati
     tt: су
-    tt-cyrl: су
-    tt-latn: su
+    tt_cyrl: су
+    tt_latn: su
     tvu: menífé
     tw: nsuo
     udm: ву
@@ -825,14 +825,14 @@ dv_has_:
     za: raemx
     zgh: ⴰⵎⴰⵏ
     zh: 水
-    zh-cn: 水
-    zh-hans: 水
-    zh-hant: 水
-    zh-hk: 水
-    zh-mo: 水
+    zh_cn: 水
+    zh_hans: 水
+    zh_hant: 水
+    zh_hk: 水
+    zh_mo: 水
     zh-my: 水
-    zh-sg: 水
-    zh-tw: 水
+    zh_sg: 水
+    zh_tw: 水
     zu: amanzi
 ---
 # [[Water]] 💧 

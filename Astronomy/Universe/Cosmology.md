@@ -30,7 +30,7 @@ dv_has_:
     ba: космология
     bar: Kosmologie
     be: касмалогія
-    be-tarask: касмалёгія
+    be_tarask: касмалёгія
     bg: космология
     bn: বিশ্বতত্ত্ব
     br: Kosmologiezh
@@ -44,12 +44,12 @@ dv_has_:
     da: kosmologi
     de: Kosmologie
     de-at: Kosmologie
-    de-ch: Kosmologie
+    de_ch: Kosmologie
     diq: Kosmolociye
     el: κοσμολογία
     en: cosmology
-    en-ca: Cosmology
-    en-gb: cosmology
+    en_ca: Cosmology
+    en_gb: cosmology
     eo: kosmologio
     es: cosmología
     et: kosmoloogia
@@ -92,7 +92,7 @@ dv_has_:
     ml: പ്രപഞ്ചവിജ്ഞാനീയം
     mn: Космологи
     ms: kosmologi
-    ms-arab: کوسمولوݢي
+    ms_arab: کوسمولوݢي
     mt: kożmoloġija
     my: စကြာဝဠာဗေဒ
     nb: kosmologi
@@ -109,7 +109,7 @@ dv_has_:
     pl: kosmologia
     ps: تشيال پېژندنه
     pt: cosmologia
-    pt-br: cosmologia
+    pt_br: cosmologia
     ro: cosmologie
     ru: космология
     sa: खगोल शास्त्रम्
@@ -129,7 +129,7 @@ dv_has_:
     sms: kosmologia
     sq: Kozmologjia
     sr: космологија
-    sr-ec: Космологија
+    sr_ec: Космологија
     sv: kosmologi
     ta: அண்டவியல்
     te: విశ్వనిర్మాణ శాస్త్రం
@@ -138,7 +138,7 @@ dv_has_:
     tl: Kosmolohiya
     tr: uzay bilimi
     tt: космология
-    tt-cyrl: космология
+    tt_cyrl: космология
     uk: космологія
     ur: کونیات
     uz: Kosmologiya
@@ -151,9 +151,9 @@ dv_has_:
     yue: 宇宙學
     zgh: ⵜⴰⵙⵏⵎⵖⵔⴰⴷⵜ
     zh: 宇宙学
-    zh-cn: 宇宙学
-    zh-hans: 宇宙学
-    zh-hant: 宇宙学
+    zh_cn: 宇宙学
+    zh_hans: 宇宙学
+    zh_hant: 宇宙学
 aliases:
 - arapykuaa
 - cosmeolaíocht

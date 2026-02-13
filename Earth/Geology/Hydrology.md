@@ -127,7 +127,7 @@ dv_has_:
     ba: гидрология
     bcl: Hidrolohiya
     be: гідралогія
-    be-tarask: гідралёгія
+    be_tarask: гідралёгія
     bg: Хидрология
     bho: हाइड्रोलाजी
     bn: জলবিজ্ঞান
@@ -186,7 +186,7 @@ dv_has_:
     mn: Гидрологи
     mr: जलविज्ञान
     ms: hidrologi
-    ms-arab: هيدرولوݢي
+    ms_arab: هيدرولوݢي
     my: ဇလဗေဒ
     nb: hydrologi
     nl: hydrologie
@@ -213,7 +213,7 @@ dv_has_:
     sms: hydrologia
     sq: Hidrologjia
     sr: хидрологија
-    sr-ec: Хидрологија
+    sr_ec: Хидрологија
     su: Hidrologi
     sv: hydrologi
     sw: haidrolojia
@@ -231,9 +231,9 @@ dv_has_:
     wuu: 水文学
     yue: 水文學
     zh: 水文学
-    zh-cn: 水文学
-    zh-hans: 水文学
-    zh-hant: 水文學
+    zh_cn: 水文学
+    zh_hans: 水文学
+    zh_hant: 水文學
   study_subject: '[[../Climate/Hydrosphere]]'
 dv_is_:
   same_as:

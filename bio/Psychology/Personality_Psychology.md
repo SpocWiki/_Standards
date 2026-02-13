@@ -83,7 +83,7 @@ dv_has_:
     az: Şəxsiyyət psixologiyası
     ba: шәхес психологияһы
     be: псіхалогія асобы
-    be-tarask: псыхалёгія асобы
+    be_tarask: псыхалёгія асобы
     bg: Психология на личността
     ca: psicologia de la personalitat
     cs: psychologie osobnosti
@@ -91,11 +91,11 @@ dv_has_:
     cy: seicoleg personoliaeth
     da: personlighedspsykologi
     de: Differentielle und Persönlichkeitspsychologie
-    de-ch: Differentielle und Persönlichkeitspsychologie
+    de_ch: Differentielle und Persönlichkeitspsychologie
     el: ψυχολογία της προσωπικότητας
     en: personality psychology
-    en-ca: personality psychology
-    en-gb: personality psychology
+    en_ca: personality psychology
+    en_gb: personality psychology
     eo: personeca psikologio
     es: psicología de la personalidad
     et: Isiksusepsühholoogia
@@ -126,7 +126,7 @@ dv_has_:
     pl: psychologia osobowości
     ps: شخصيتي ارواپوهنه
     pt: psicologia da personalidade
-    pt-br: psicologia da personalidade
+    pt_br: psicologia da personalidade
     ro: psihologia personalității
     ru: психология личности
     sco: personality psychology
@@ -136,8 +136,8 @@ dv_has_:
     sl: psihologija osebnosti
     sq: psikologji e personalitetit
     sr: психологија личности
-    sr-ec: психологија личности
-    sr-el: ličnost
+    sr_ec: психологија личности
+    sr_el: ličnost
     su: psikologi kepribadian
     sv: personlighetsteori
     ta: ஆளுமை
@@ -149,12 +149,12 @@ dv_has_:
     vi: Tâm lý học nhân cách
     yue: 性格心理學
     zh: 人格心理學
-    zh-cn: 人格心理学
-    zh-hans: 人格心理学
-    zh-hant: 人格心理學
-    zh-hk: 人格心理學
-    zh-sg: 人格心理学
-    zh-tw: 人格心理學
+    zh_cn: 人格心理学
+    zh_hans: 人格心理学
+    zh_hant: 人格心理學
+    zh_hk: 人格心理學
+    zh_sg: 人格心理学
+    zh_tw: 人格心理學
 ---
 # [[Personality_Psychology]] 
 

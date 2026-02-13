@@ -26,7 +26,7 @@ dv_has_:
     az: limnologiya
     ba: лимнология
     be: лімналогія
-    be-tarask: лімналёгія
+    be_tarask: лімналёгія
     bg: лимнология
     bho: लिम्नोलॉजी
     bn: জলাশয়তত্ত্ব
@@ -38,8 +38,8 @@ dv_has_:
     de: Limnologie
     el: λιμνολογία
     en: limnology
-    en-ca: limnology
-    en-gb: limnology
+    en_ca: limnology
+    en_gb: limnology
     eo: limnologio
     es: limnología
     et: limnoloogia
@@ -62,11 +62,11 @@ dv_has_:
     ja: 陸水学
     ka: ლიმნოლოგია
     kk: Көлтану
-    kk-arab: كولتانۋ
+    kk_arab: كولتانۋ
     kk-cn: كولتانۋ
-    kk-cyrl: көлтану
+    kk_cyrl: көлтану
     kk-kz: көлтану
-    kk-latn: költanw
+    kk_latn: költanw
     kk-tr: költanw
     ko: 육수학
     ko-kp: 륙수학
@@ -96,8 +96,8 @@ dv_has_:
     sms: limnologia
     sq: limnologjia
     sr: лимнологија
-    sr-ec: лимнологија
-    sr-el: limnologija
+    sr_ec: лимнологија
+    sr_el: limnologija
     sv: limnologi
     ta: நன்னீரியல்
     tg: кӯлшиносӣ
@@ -113,12 +113,12 @@ dv_has_:
     wuu: 湖沼学
     yue: 湖沼學
     zh: 湖沼學
-    zh-cn: 湖沼学
-    zh-hans: 湖沼学
-    zh-hant: 湖沼學
-    zh-hk: 湖沼學
-    zh-sg: 湖沼学
-    zh-tw: 湖沼學
+    zh_cn: 湖沼学
+    zh_hans: 湖沼学
+    zh_hant: 湖沼學
+    zh_hk: 湖沼學
+    zh_sg: 湖沼学
+    zh_tw: 湖沼學
 aliases:
 - göl bilimi
 - Hù-cūi-hŏk

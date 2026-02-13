@@ -113,7 +113,7 @@ dv_has_:
     az: hüquqi şəxs
     ba: юридик шәхес
     be: юрыдычная асоба
-    be-tarask: юрыдычная асоба
+    be_tarask: юрыдычная асоба
     bg: юридическо лице
     ca: persona jurídica
     ckb: کەسی قانوونی
@@ -160,7 +160,7 @@ dv_has_:
     mk: правно лице
     mn: хуулийн этгээд
     ms: orang juridikal
-    ms-arab: اورڠ جوريديکل
+    ms_arab: اورڠ جوريديکل
     nan: hoat-jîn
     nb: juridisk person
     nl: rechtspersoon
@@ -168,7 +168,7 @@ dv_has_:
     pap: persona hurídiko
     pl: osoba prawna
     pt: pessoa jurídica
-    pt-br: pessoa jurídica
+    pt_br: pessoa jurídica
     ro: persoană juridică
     ru: юридическое лицо
     sc: persone giurìdica
@@ -179,13 +179,13 @@ dv_has_:
     sl: pravna oseba
     sq: person juridik
     sr: правно лице
-    sr-ec: правно лице
-    sr-el: pravno lice
+    sr_ec: правно лице
+    sr_el: pravno lice
     sv: juridisk person
     tg: шахси ҳуқуқӣ
     tr: tüzel kişi
     tt: юридик зат
-    tt-cyrl: юридик зат
+    tt_cyrl: юридик зат
     uk: юридична особа
     uz: yuridik shaxs
     vec: persona zurìdega
@@ -193,14 +193,14 @@ dv_has_:
     wuu: 法人
     yue: 法人
     zh: 法人
-    zh-cn: 法人
-    zh-hans: 法人
-    zh-hant: 法人
-    zh-hk: 法人
-    zh-mo: 法人
+    zh_cn: 法人
+    zh_hans: 法人
+    zh_hant: 法人
+    zh_hk: 法人
+    zh_mo: 法人
     zh-my: 法人
-    zh-sg: 法人
-    zh-tw: 法人
+    zh_sg: 法人
+    zh_tw: 法人
 ---
 # [[Juridical_Person]] 
 

@@ -182,7 +182,7 @@ dv_has_:
     ba: карауат
     bcl: katre
     be: ложак
-    be-tarask: ложак
+    be_tarask: ложак
     bg: легло
     bho: पलंग
     bn: বিছানা
@@ -257,11 +257,11 @@ dv_has_:
     mni: ꯐꯃꯨꯡ
     mos: godgo
     ms: katil
-    ms-arab: کاتيل
+    ms_arab: کاتيل
     my: အိပ်ရာ
     nan: chhn̂g
     nb: seng
-    nds-nl: berre
+    nds_nl: berre
     ne: ओच्छ्यान
     new: खाता
     nl: bed
@@ -272,7 +272,7 @@ dv_has_:
     pl: łóżko
     pnt: γιατάκ'
     pt: cama
-    pt-br: cama
+    pt_br: cama
     qu: kawitu
     rn: igitanda
     ro: pat
@@ -295,8 +295,8 @@ dv_has_:
     so: sariir
     sq: krevat
     sr: кревет
-    sr-ec: кревет
-    sr-el: krevet
+    sr_ec: кревет
+    sr_el: krevet
     su: risbang
     sv: säng
     sw: kitanda
@@ -308,7 +308,7 @@ dv_has_:
     tok: supa lape
     tr: yatak
     tt: карават
-    tt-cyrl: карават
+    tt_cyrl: карават
     uk: ліжко
     ur: پلنگ
     vi: giường
@@ -319,8 +319,8 @@ dv_has_:
     yue: 牀
     za: mbonq
     zh: 床
-    zh-hant: 床
-    zh-hk: 牀
+    zh_hant: 床
+    zh_hk: 牀
 ---
 # [[Bed]] 🛏 
 

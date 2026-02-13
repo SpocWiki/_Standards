@@ -162,7 +162,7 @@ dv_has_:
     ba: Көнсығыш Африка
     bcl: Subangan na Aprika
     be: Усходняя Афрыка
-    be-tarask: Усходняя Афрыка
+    be_tarask: Усходняя Афрыка
     bg: Източна Африка
     bn: পূর্ব আফ্রিকা
     br: Afrika ar Reter
@@ -245,7 +245,7 @@ dv_has_:
     pnb: چڑھدا افریقہ
     ps: ختيځه افريقا
     pt: África Oriental
-    pt-br: África Oriental
+    pt_br: África Oriental
     ro: Africa de Est
     ru: Восточная Африка
     rw: Imiterere ya Afurika y'Iburasirazuba n'ibidukikije byaho
@@ -264,7 +264,7 @@ dv_has_:
     so: Bariga Afrika
     sq: Afrika lindore
     sr: Источна Африка
-    sr-ec: Источна Африка
+    sr_ec: Источна Африка
     st: Afrika Bohlabela
     sv: Östafrika
     sw: Afrika ya Mashariki

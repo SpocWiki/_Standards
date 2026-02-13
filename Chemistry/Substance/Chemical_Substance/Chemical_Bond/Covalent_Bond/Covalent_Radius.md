@@ -89,7 +89,7 @@ dv_has_:
     ar: نصف قطر تساهمي
     ast: Radiu covalente
     bcl: Erradio kobalentea
-    be-tarask: кавалентны радыюс
+    be_tarask: кавалентны радыюс
     bg: Ковалентен радиус
     bn: সমযোজী ব্যাসার্ধ
     ca: radi covalent
@@ -115,9 +115,9 @@ dv_has_:
     ja: 共有結合半径
     ka: კოვალენტური რადიუსი
     kk: Коваленттік радиус
-    kk-arab: كوۆالەنتتىك رادىيۋس
-    kk-cyrl: Коваленттік радиус
-    kk-latn: Kovalenttik radïws
+    kk_arab: كوۆالەنتتىك رادىيۋس
+    kk_cyrl: Коваленттік радиус
+    kk_latn: Kovalenttik radïws
     ko: 공유 반지름
     lt: Kovalentinis spindulys
     mk: ковалентен полупречник
@@ -135,8 +135,8 @@ dv_has_:
     sl: Kovalentni polmer
     smn: kovalentsuonjâr
     sr: Ковалентни радијус
-    sr-ec: Ковалентни радијус
-    sr-el: Kovalentni radijus
+    sr_ec: Ковалентни радијус
+    sr_el: Kovalentni radijus
     sv: kovalent radie
     ta: பங்கீட்டு ஆரை
     th: รัศมีโคเวเลนต์
@@ -147,9 +147,9 @@ dv_has_:
     vi: Bán kính liên kết cộng hóa trị
     yue: 共價半徑
     zh: 共价半径
-    zh-hans: 共价半径
-    zh-hant: 共價半徑
-    zh-hk: 共價半徑
+    zh_hans: 共价半径
+    zh_hant: 共價半徑
+    zh_hk: 共價半徑
 ---
 # [[Covalent_Radius]] 
 

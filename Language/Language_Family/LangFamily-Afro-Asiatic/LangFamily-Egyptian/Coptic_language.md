@@ -161,7 +161,7 @@ dv_has_:
     ba: Копт теле
     bbc: Hata Koptik
     be: копцкая мова
-    be-tarask: копцкая мова
+    be_tarask: копцкая мова
     bg: Коптски език
     bn: কিবতীয় ভাষা
     br: kopteg
@@ -175,7 +175,7 @@ dv_has_:
     dsb: Koptšćina
     el: Κοπτική γλώσσα
     en: Coptic
-    en-gb: Coptic
+    en_gb: Coptic
     en-us: Coptic
     eo: kopta lingvo
     es: copto

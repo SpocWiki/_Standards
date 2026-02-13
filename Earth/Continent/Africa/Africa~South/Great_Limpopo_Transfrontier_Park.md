@@ -64,7 +64,7 @@ dv_has_:
     ar: حديقة ليمبوبو الكبرى العابرة للحدود
     ast: Parque transfronterizo del Gran Limpopo
     ba: Ҙур Лимпопо сик-ара милли паркы
-    be-tarask: Прыгранічны парк Вялікі Лімпапо
+    be_tarask: Прыгранічны парк Вялікі Лімпапо
     bg: Трансграничен парк Лимпопо
     ca: Parc transfronterer del Gran Limpopo
     cs: Velký přeshraniční limpopský park
@@ -92,8 +92,8 @@ dv_has_:
     wuu: 大林波波河跨境公园
     yue: 大林波波河跨境公園
     zh: 大林波波河跨境公園
-    zh-cn: 大林波波河跨界公园
-    zh-hant: 大林波波河跨界公園
+    zh_cn: 大林波波河跨界公园
+    zh_hant: 大林波波河跨界公園
 ---
 # [[Great_Limpopo_Transfrontier_Park]] 
 

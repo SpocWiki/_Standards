@@ -113,7 +113,7 @@ dv_has_:
     azb: الکتروشیمی
     bcl: Elektrokimika
     be: электрахімія
-    be-tarask: электрахімія
+    be_tarask: электрахімія
     bg: Електрохимия
     bn: তড়িৎ-রসায়ন
     bs: Elektrohemija
@@ -125,7 +125,7 @@ dv_has_:
     de: Elektrochemie
     el: ηλεκτροχημεία
     en: electrochemistry
-    en-gb: electrochemistry
+    en_gb: electrochemistry
     eo: elektroĥemio
     es: electroquímica
     et: elektrokeemia
@@ -187,9 +187,9 @@ dv_has_:
     wuu: 电化学
     yue: 電化學
     zh: 電化學
-    zh-cn: 电化学
-    zh-hans: 电化学
-    zh-hant: 電化學
+    zh_cn: 电化学
+    zh_hans: 电化学
+    zh_hant: 電化學
 ---
 # [[Electrochemistry]] 
 

@@ -104,7 +104,7 @@ dv_has_:
     az: Sentavr
     ba: Центавр
     be: Цэнтаўр
-    be-tarask: Цэнтаўр
+    be_tarask: Цэнтаўр
     bg: Центавър
     bn: মহিষাসুর মণ্ডল
     bo: མི་མིན་རྟ་མིན་སྐར་ཚོམ་
@@ -120,8 +120,8 @@ dv_has_:
     diq: Gayobor
     el: Κένταυρος
     en: Centaurus
-    en-ca: Centaurus
-    en-gb: Centaurus
+    en_ca: Centaurus
+    en_gb: Centaurus
     eo: Centaŭro
     es: Centaurus
     et: Kentaur
@@ -195,9 +195,9 @@ dv_has_:
     wuu: 半人马座
     yue: 半人馬座
     zh: 半人马座
-    zh-cn: 半人马座
-    zh-hans: 半人马座
-    zh-hant: 半人马座
+    zh_cn: 半人马座
+    zh_hans: 半人马座
+    zh_hant: 半人马座
 dv_is_:
   same_as:
   - '[[../../WikiData/WD~Centaurus,8844|WD~Centaurus,8844]]'

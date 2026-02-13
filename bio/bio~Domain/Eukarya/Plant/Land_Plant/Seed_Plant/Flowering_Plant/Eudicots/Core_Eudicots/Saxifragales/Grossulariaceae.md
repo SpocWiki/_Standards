@@ -59,7 +59,7 @@ dv_has_:
     ast: Grossulariaceae
     az: Motmotukimilər
     be: Агрэставыя
-    be-tarask: Агрэставыя
+    be_tarask: Агрэставыя
     bg: касисови
     ca: Grossulariaceae
     ceb: Grossulariaceae
@@ -67,8 +67,8 @@ dv_has_:
     da: ribs-familien
     de: Stachelbeergewächse
     en: Grossulariaceae
-    en-ca: Grossulariaceae
-    en-gb: Grossulariaceae
+    en_ca: Grossulariaceae
+    en_gb: Grossulariaceae
     eo: Grosulariacoj
     es: Grossulariaceae
     et: Sõstralised
@@ -98,7 +98,7 @@ dv_has_:
     os: Хъалгъæнонтæ
     pl: Agrestowate
     pt: Grossulariaceae
-    pt-br: Grossulariaceae
+    pt_br: Grossulariaceae
     ro: Grossulariaceae
     ru: Крыжовниковые
     sk: egrešovité
@@ -110,8 +110,8 @@ dv_has_:
     vo: Grossulariaceae
     war: Grossulariaceae
     zh: 茶藨子科
-    zh-cn: 茶藨子科
-    zh-tw: 茶藨子科
+    zh_cn: 茶藨子科
+    zh_tw: 茶藨子科
 ---
 # [[Grossulariaceae]] 
 

@@ -129,7 +129,7 @@ dv_has_:
     bar: Suburbs
     bcl: Ronang suburbano
     be: прадмесце
-    be-tarask: прадмесьце
+    be_tarask: прадмесьце
     bg: Предградие
     bn: শহরতলি
     bs: predgrađe
@@ -142,7 +142,7 @@ dv_has_:
     de: Stadtteil
     el: προάστιο
     en: suburb
-    en-ca: suburb
+    en_ca: suburb
     eo: antaŭurbo
     es: suburbio
     et: Agul
@@ -190,7 +190,7 @@ dv_has_:
     pa: ਉਪਨਗਰ
     pl: przedmieście
     pt: subúrbio
-    pt-br: Subúrbio
+    pt_br: Subúrbio
     ro: suburbie
     ru: пригород
     sah: Тас хото
@@ -200,8 +200,8 @@ dv_has_:
     sl: predmestje
     sq: Periferia
     sr: предграђе
-    sr-ec: предграђе
-    sr-el: predgrađe
+    sr_ec: предграђе
+    sr_el: predgrađe
     sv: förort
     sw: Pambizo
     ta: புறநகர்
@@ -216,12 +216,12 @@ dv_has_:
     xmf: გალეგანობა
     yue: 市郊
     zh: 郊區
-    zh-cn: 郊区
-    zh-hans: 郊区
-    zh-hant: 近郊
-    zh-hk: 市郊
-    zh-sg: 郊区
-    zh-tw: 郊區
+    zh_cn: 郊区
+    zh_hans: 郊区
+    zh_hant: 近郊
+    zh_hk: 市郊
+    zh_sg: 郊区
+    zh_tw: 郊區
 ---
 # [[Suburb]] 
 

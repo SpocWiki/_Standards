@@ -121,7 +121,7 @@ dv_has_:
     ast: Thomas Kuhn
     az: Thomas Kuhn
     be: Томас Сэмюэл Кун
-    be-tarask: Томас Кун
+    be_tarask: Томас Кун
     bg: Томас Кун
     bn: টমাস স্যামুয়েল কুন
     ca: Thomas Kuhn
@@ -169,7 +169,7 @@ dv_has_:
     pap: Thomas Samuel Kuhn
     pl: Thomas Kuhn
     pt: Thomas Kuhn
-    pt-br: Thomas Kuhn
+    pt_br: Thomas Kuhn
     qu: Thomas Kuhn
     ro: Thomas Kuhn
     ru: Томас Сэмюэл Кун
@@ -192,12 +192,12 @@ dv_has_:
     yo: Thomas Kuhn
     yue: 湯瑪士·冠
     zh: 托马斯·库恩
-    zh-cn: 托马斯·库恩
+    zh_cn: 托马斯·库恩
     zh-hans: 托马斯·库恩
-    zh-hant: 湯瑪斯·孔恩
-    zh-hk: 湯瑪士·孔恩
-    zh-sg: 托马斯·库恩
-    zh-tw: 湯瑪斯·孔恩
+    zh_hant: 湯瑪斯·孔恩
+    zh_hk: 湯瑪士·孔恩
+    zh_sg: 托马斯·库恩
+    zh_tw: 湯瑪斯·孔恩
 ---
 # [[Kuhn,Thomas]] 
 

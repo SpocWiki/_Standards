@@ -141,7 +141,7 @@ dv_has_:
     ast: Paracelso
     az: Parasels
     be: Парацэльс
-    be-tarask: Парацэльс
+    be_tarask: Парацэльс
     bg: Парацелз
     br: Paracelsus
     bs: Paracelsus
@@ -154,8 +154,8 @@ dv_has_:
     diq: Parasels
     el: Παράκελσος
     en: Paracelsus
-    en-ca: Paracelsus
-    en-gb: Paracelsus
+    en_ca: Paracelsus
+    en_gb: Paracelsus
     eo: Paracelso
     es: Theophrastus Bombastus von Hohenheim
     et: Paracelsus
@@ -193,7 +193,7 @@ dv_has_:
     pl: Paracelsus
     ps: پاراسيلسس
     pt: Paracelso
-    pt-br: Paracelso
+    pt_br: Paracelso
     qu: Paracelsus
     rm: Paracelsus
     ro: Paracelsus

@@ -73,7 +73,7 @@ dv_has_:
     ar: ماكس شتاينر
     arz: ماكس شتاينر
     ast: Max Steiner
-    be-tarask: Макс Штайнэр
+    be_tarask: Макс Штайнэр
     bn: ম্যাক্স স্টাইনার
     ca: Max Steiner
     cs: Max Steiner
@@ -107,7 +107,7 @@ dv_has_:
     pap: Max Steiner
     pl: Max Steiner
     pt: Max Steiner
-    pt-br: Max Steiner
+    pt_br: Max Steiner
     ro: Max Steiner
     ru: Макс Стайнер
     sh: Max Steiner
@@ -121,12 +121,12 @@ dv_has_:
     war: Max Steiner
     yue: 馬克斯·史坦納
     zh: 馬克斯·史坦納
-    zh-cn: 马克斯·施泰纳
-    zh-hans: 马克斯·史坦纳
-    zh-hant: 馬克斯·史坦納
-    zh-hk: 馬克斯·史坦納
-    zh-sg: 马克斯·施泰纳
-    zh-tw: 馬克斯·史坦納
+    zh_cn: 马克斯·施泰纳
+    zh_hans: 马克斯·史坦纳
+    zh_hant: 馬克斯·史坦納
+    zh_hk: 馬克斯·史坦納
+    zh_sg: 马克斯·施泰纳
+    zh_tw: 馬克斯·史坦納
 ---
 # [[Steiner,Max]] 
 

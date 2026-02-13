@@ -79,7 +79,7 @@ dv_has_:
     ar: الاتحاد الدولي للجمباز
     ast: Federación Internacional de Ximnasia
     ba: Халыҡ-ара гимнастика федерацияһы
-    be-tarask: Міжнародная фэдэрацыя гімнастыкі
+    be_tarask: Міжнародная фэдэрацыя гімнастыкі
     bg: Международна федерация по гимнастика
     ca: FIG
     cs: Mezinárodní gymnastická federace
@@ -87,8 +87,8 @@ dv_has_:
     de: World Gymnastics
     el: Διεθνής Ομοσπονδία Γυμναστικής
     en: World Gymnastics
-    en-ca: International Gymnastics Federation
-    en-gb: International Gymnastics Federation
+    en_ca: International Gymnastics Federation
+    en_gb: International Gymnastics Federation
     eo: Internacia Federacio de Gimnastiko
     es: Federación Internacional de Gimnasia
     eu: Nazioarteko Gimnastika Federazioa
@@ -111,7 +111,7 @@ dv_has_:
     nl: Fédération Internationale de Gymnastique
     pl: Międzynarodowa Federacja Gimnastyczna
     pt: Federação Internacional de Ginástica
-    pt-br: Federação Internacional de Ginástica
+    pt_br: Federação Internacional de Ginástica
     ro: Federația Internațională de Gimnastică
     ru: Международная федерация гимнастики
     si: ජාත්යන්තර ජිම්නාස්ටික් සම්මේලනය
@@ -125,9 +125,9 @@ dv_has_:
     uz: Xalqaro gimnastika federasiyasi
     wuu: 国际体操联合会
     zh: 国际体操联合会
-    zh-hans: 国际体操联合会
-    zh-hant: 國際體操總會
-    zh-tw: 國際體操總會
+    zh_hans: 国际体操联合会
+    zh_hant: 國際體操總會
+    zh_tw: 國際體操總會
 ---
 # [[International_Gymnastics_Federation]] 
 

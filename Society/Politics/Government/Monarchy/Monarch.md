@@ -161,7 +161,7 @@ dv_has_:
     ba: монарх
     bcl: Monarka
     be: манарх
-    be-tarask: манарх
+    be_tarask: манарх
     bg: монарх
     bho: राजा
     bn: রাজশাসক
@@ -172,19 +172,19 @@ dv_has_:
     cdo: Gŭng-ciō
     ckb: پاشا
     crh: monarh
-    crh-latn: monarh
+    crh_latn: monarh
     cs: panovník
     cv: Ĕмпӳ
     cy: teyrn
     da: monark
     dag: naa
     de: Monarch
-    de-ch: Herrschertitel
+    de_ch: Herrschertitel
     diq: Hıkumdar
     el: μονάρχης
     en: monarch
-    en-ca: Monarch
-    en-gb: monarch
+    en_ca: Monarch
+    en_gb: monarch
     en-us: monarch
     eo: monarko
     es: monarca
@@ -237,7 +237,7 @@ dv_has_:
     mn: Ван
     mr: राजा
     ms: raja pemerintah
-    ms-arab: راج ڤمرينته
+    ms_arab: راج ڤمرينته
     mt: monarka
     my: ဘုရင်
     nan: Kun-chú
@@ -255,7 +255,7 @@ dv_has_:
     pnb: شاہی حکمران
     ps: پاچا
     pt: monarca
-    pt-br: monarca
+    pt_br: monarca
     rmy: Raj
     ro: monarh
     ru: монарх
@@ -269,8 +269,8 @@ dv_has_:
     smn: monarkkâ
     sms: monarkk
     sr: монарх
-    sr-ec: монарх
-    sr-el: monarh
+    sr_ec: монарх
+    sr_el: monarh
     sv: monark
     sw: mfalme
     szl: mōnarcha
@@ -283,7 +283,7 @@ dv_has_:
     tr: Hükümdar
     ts: hosi
     tt: монарх
-    tt-cyrl: монарх
+    tt_cyrl: монарх
     uk: монарх
     ur: شاہی حکمران
     uz: Monarx
@@ -296,11 +296,11 @@ dv_has_:
     yo: oníjọọba
     yue: 君主
     zh: 君主
-    zh-cn: 君主
-    zh-hans: 君主
-    zh-hant: 君主
-    zh-hk: 君主
-    zh-tw: 君主
+    zh_cn: 君主
+    zh_hans: 君主
+    zh_hant: 君主
+    zh_hk: 君主
+    zh_tw: 君主
 ---
 # [[Monarch]] 
 

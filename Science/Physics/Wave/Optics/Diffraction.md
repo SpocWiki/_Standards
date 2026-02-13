@@ -7,7 +7,7 @@ dv_has_:
     ast: difraición
     az: Difraksiya
     be: Дыфракцыя
-    be-tarask: дыфракцыя
+    be_tarask: дыфракцыя
     bg: Дифракция
     bn: অপবর্তন
     ca: difracció
@@ -39,11 +39,11 @@ dv_has_:
     it: diffrazione
     ja: 回折
     kk: Дифракция
-    kk-arab: دىيفراكتسىييا
+    kk_arab: دىيفراكتسىييا
     kk-cn: دىيفراكتسىييا
-    kk-cyrl: Дифракция
+    kk_cyrl: Дифракция
     kk-kz: Дифракция
-    kk-latn: Dïfrakcïya
+    kk_latn: Dïfrakcïya
     kk-tr: Dïfrakcïya
     ko: 회절
     ky: Дифракция
@@ -72,8 +72,8 @@ dv_has_:
     sn: Bvurunuro
     sq: Difraksioni i Drites
     sr: дифракција
-    sr-ec: Дифракција
-    sr-el: Difrakcija
+    sr_ec: Дифракција
+    sr_el: Difrakcija
     su: Difraksi
     sv: diffraktion
     ta: விளிம்பு விளைவு
@@ -87,12 +87,12 @@ dv_has_:
     wuu: 衍射
     yue: 繞射
     zh: 衍射
-    zh-cn: 衍射
-    zh-hans: 衍射
-    zh-hant: 衍射
-    zh-hk: 繞射
-    zh-sg: 衍射
-    zh-tw: 繞射
+    zh_cn: 衍射
+    zh_hans: 衍射
+    zh_hant: 衍射
+    zh_hk: 繞射
+    zh_sg: 衍射
+    zh_tw: 繞射
 aliases:
 - Belauan
 - Beugung

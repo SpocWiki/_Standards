@@ -168,7 +168,7 @@ dv_has_:
     bbj: bap gə́nɔ̀m
     bcl: Karneng urig
     be: свініна
-    be-tarask: сьвініна
+    be_tarask: сьвініна
     bg: Свинско месо
     bho: सुअर के मांस
     bjn: Daging babi
@@ -185,13 +185,13 @@ dv_has_:
     cy: cig moch
     da: svinekød
     de: Schweinefleisch
-    de-ch: Schweinefleisch
+    de_ch: Schweinefleisch
     diq: Goştê xozi
     dua: nyama a ngoa
     el: χοιρινό κρέας
     en: pork
-    en-ca: Pork
-    en-gb: pork
+    en_ca: Pork
+    en_gb: pork
     eo: porkaĵo
     es: carne de cerdo
     et: sealiha
@@ -221,11 +221,11 @@ dv_has_:
     ka: ღორის ხორცი
     ker: kusuki bә gaduura
     kk: Шошқа еті
-    kk-arab: شوشقا ەتى
+    kk_arab: شوشقا ەتى
     kk-cn: شوشقا ەتى
-    kk-cyrl: Шошқа еті
+    kk_cyrl: Шошқа еті
     kk-kz: Шошқа еті
-    kk-latn: Şoşqa eti
+    kk_latn: Şoşqa eti
     kk-tr: Şoşqa eti
     ko: 돼지고기
     ks: سورٕ ماز
@@ -262,7 +262,7 @@ dv_has_:
     pl: wieprzowina
     pnb: سور دا ماس
     pt: carne de porco
-    pt-br: Carne de porco
+    pt_br: Carne de porco
     ro: carne de porc
     ru: свинина
     sat: ᱥᱩᱠᱨᱤ ᱡᱤᱞ
@@ -276,8 +276,8 @@ dv_has_:
     sl: svinjina
     sms: šââʹjjvueʹǯǯ
     sr: свињетина
-    sr-ec: свињетина
-    sr-el: svinjetina
+    sr_ec: свињетина
+    sr_el: svinjetina
     sv: fläskkött
     szy: basis
     th: เนื้อหมู
@@ -300,12 +300,12 @@ dv_has_:
     yue: 豬肉
     zh: 豬肉
     zh-cn: 猪肉
-    zh-hans: 猪肉
-    zh-hant: 豬肉
-    zh-hk: 豬肉
+    zh_hans: 猪肉
+    zh_hant: 豬肉
+    zh_hk: 豬肉
     zh-my: 猪肉
-    zh-sg: 猪肉
-    zh-tw: 豬肉
+    zh_sg: 猪肉
+    zh_tw: 豬肉
 ---
 # [[Pork]] 
 

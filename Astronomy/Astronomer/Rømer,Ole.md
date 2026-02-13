@@ -113,7 +113,7 @@ dv_has_:
     az: Ole Römer
     azb: اوله رومر
     be: Оле Крыстэнсен Ромер
-    be-tarask: Оле Крыстэнсэн Рэмэр
+    be_tarask: Оле Крыстэнсэн Рэмэр
     bg: Оле Рьомер
     bn: ওলে রয়মা
     br: Ole Rømer
@@ -125,8 +125,8 @@ dv_has_:
     de: Ole Rømer
     el: Όλε Ρέμερ
     en: Ole Rømer
-    en-ca: Ole Rømer
-    en-gb: Ole Rømer
+    en_ca: Ole Rømer
+    en_gb: Ole Rømer
     eo: Ole Rømer
     es: Ole Rømer
     et: Ole Rømer
@@ -166,7 +166,7 @@ dv_has_:
     pl: Ole Rømer
     pnb: اولے رومر
     pt: Ole Rømer
-    pt-br: Ole Rømer
+    pt_br: Ole Rømer
     ro: Ole Rømer
     ru: Оле Рёмер
     sco: Ole Rømer
@@ -176,8 +176,8 @@ dv_has_:
     sl: Ole Christensen Rømer
     sq: Ole Rømer
     sr: Оле Кристенсен Ремер
-    sr-ec: Оле Кристенсен Ремер
-    sr-el: Ole Kristensen Remer
+    sr_ec: Оле Кристенсен Ремер
+    sr_el: Ole Kristensen Remer
     sv: Ole Rømer
     sw: Ole Rømer
     ta: ஓலி ரோமர்
@@ -190,12 +190,12 @@ dv_has_:
     wuu: 奥勒·罗默
     yue: 奧勒·羅默
     zh: 奧勒·羅默
-    zh-cn: 奥勒·罗默
-    zh-hans: 奥勒·罗默
-    zh-hant: 奧勒·羅默
-    zh-hk: 奧勒·羅默
-    zh-sg: 奥勒·罗默
-    zh-tw: 奧勒·羅默
+    zh_cn: 奥勒·罗默
+    zh_hans: 奥勒·罗默
+    zh_hant: 奧勒·羅默
+    zh_hk: 奧勒·羅默
+    zh_sg: 奥勒·罗默
+    zh_tw: 奧勒·羅默
 ---
 # [[Rømer,Ole]] 
 

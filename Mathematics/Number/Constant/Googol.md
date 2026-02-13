@@ -81,7 +81,7 @@ dv_has_:
     az: quqol
     bar: Googol
     bcl: Googol
-    be-tarask: гугал
+    be_tarask: гугал
     bg: гугол
     bn: গুগল
     br: gogol
@@ -95,8 +95,8 @@ dv_has_:
     diq: gugol
     el: γκούγκολ
     en: googol
-    en-ca: googol
-    en-gb: googol
+    en_ca: googol
+    en_gb: googol
     eo: guglo
     es: gúgol
     et: googol
@@ -138,7 +138,7 @@ dv_has_:
     oc: googol
     pl: googol
     pt: googol
-    pt-br: googol
+    pt_br: googol
     ro: googol
     ru: гугол
     rue: Ґуґол
@@ -156,7 +156,7 @@ dv_has_:
     tl: googol
     tr: googol
     tt: гугол
-    tt-cyrl: гугол
+    tt_cyrl: гугол
     uk: гугол
     ur: گوگول
     uz: Googol
@@ -166,8 +166,8 @@ dv_has_:
     yi: גוגאל
     yue: googol
     zh: 古戈尔
-    zh-cn: 古戈尔
-    zh-hant: 古戈爾
+    zh_cn: 古戈尔
+    zh_hant: 古戈爾
 ---
 # [[Googol]] 
 

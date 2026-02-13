@@ -810,7 +810,7 @@ dv_has_:
   name_:
     ab: Адемократиатә Республика Конго
     ace: Republik Demokratik Kongo
-    aeb-arab: جمهورية الكونغو الديمقراطية
+    aeb_arab: جمهورية الكونغو الديمقراطية
     af: Demokratiese Republiek van die Kongo
     am: ኮንጎ ዲሞክራሲያዊ ሪፐብሊክ
     ami: Congo, domocratic republic of the
@@ -832,7 +832,7 @@ dv_has_:
     bar: Demokratische Republik Kongo
     bcl: Demokratikong Republika kan Kongo
     be: Дэмакратычная Рэспубліка Конга
-    be-tarask: Дэмакратычная Рэспубліка Конга
+    be_tarask: Дэмакратычная Рэспубліка Конга
     bew: Kiblik Kera'yatan Kongo
     bg: Демократична република Конго
     bgn: کانگو ئی دیموکراتیکین جمهوریت
@@ -848,7 +848,7 @@ dv_has_:
     btm: Republik Demokratik Kongo
     bxr: Ардчилсан Конго Улас
     ca: República Democràtica del Congo
-    cbk-zam: República Democrática del Congo
+    cbk_zam: República Democrática del Congo
     cdo: Congo Mìng-ciō Gê̤ṳng-huò-guók
     ce: Халкъа куьйгаллийца йолу Пачхьалкх Конго
     ceb: Republikang Demokratiko sa Congo
@@ -857,7 +857,7 @@ dv_has_:
     ckb: کۆماری دیموکراتیی کۆنگۆ
     co: Republica Demucratica di u Congu
     crh: Kongo
-    crh-latn: Kongo
+    crh_latn: Kongo
     cs: Konžská demokratická republika
     cv: Конго Демократиллĕ Республики
     cy: Gweriniaeth Ddemocrataidd y Congo
@@ -865,7 +865,7 @@ dv_has_:
     dag: Democratic Republic of the Congo
     de: Demokratische Republik Kongo
     de-at: Demokratische Republik Kongo
-    de-ch: Demokratische Republik Kongo
+    de_ch: Demokratische Republik Kongo
     dga: Democratic Republic of the Congo
     din: Miir Pan Koŋgo
     diq: Cumurêtê Kongoê Demokratiki
@@ -875,8 +875,8 @@ dv_has_:
     ee: Koŋgo Kinshasa
     el: Λαϊκή Δημοκρατία του Κονγκό
     en: Democratic Republic of the Congo
-    en-ca: Democratic Republic of the Congo
-    en-gb: Democratic Republic of the Congo
+    en_ca: Democratic Republic of the Congo
+    en_gb: Democratic Republic of the Congo
     en-us: Democratic Republic of the Congo
     eo: Demokratia Respubliko Kongo
     es: República Democrática del Congo
@@ -940,7 +940,7 @@ dv_has_:
     kg: Repubilika ya Kongo ya Dimokalasi
     ki: Democratic Republic of the Congo
     kk: Конго Демократиялық Республикасы
-    kk-cyrl: Конго Демократиялық Республикасы
+    kk_cyrl: Конго Демократиялық Республикасы
     km: សាធារណរដ្ឋប្រជាធិបតេយ្យកុងហ្គោ
     kn: ಕಾಂಗೋ ಪ್ರಜಾಸತ್ತಾತ್ಮಕ ಗಣರಾಜ್ಯ
     knc: Democratic Republic of the Congo
@@ -971,7 +971,7 @@ dv_has_:
     lv: Kongo Demokrātiskā Republika
     lzh: 剛果民主共和國
     mai: प्रजातान्त्रिक गणतन्त्र कङ्गो
-    map-bms: Republik Demokratik Kongo
+    map_bms: Republik Demokratik Kongo
     mdf: Демократиянь Республикась Конго
     mg: Repoblika Demokratikan'i Kongo
     mhr: Демократикле Коҥго Республик
@@ -995,7 +995,7 @@ dv_has_:
     nan: Congo Bîn-chú Kiōng-hô-kok
     nb: Kongo
     nds: Demokraatsche Republiek Kongo
-    nds-nl: Demokratiese Republiek van de Kongo
+    nds_nl: Demokratiese Republiek van de Kongo
     ne: प्रजातान्त्रिक गणतन्त्र कंगो
     new: प्रजातान्त्रिक गणतन्त्र कङ्गो
     nl: Congo-Kinshasa
@@ -1050,8 +1050,8 @@ dv_has_:
     so: Jamhuuriyada Dimuqaraadiga Kongo
     sq: Republika Demokratike e Kongos
     sr: Демократска Република Конго
-    sr-ec: Демократска Република Конго
-    sr-el: Demokratska Republika Kongo
+    sr_ec: Демократска Република Конго
+    sr_el: Demokratska Republika Kongo
     ss: IKhongo
     st: Rephabliki ya Demokrasi ya Kongo
     stq: Demokratiske Republik Kongo
@@ -1099,14 +1099,14 @@ dv_has_:
     zea: Konho-Kinshasa
     zgh: ⴽⵓⵏⴳⵓ ⵜⴰⵎⴰⴳⴷⵓⵜ
     zh: 刚果民主共和国
-    zh-cn: 刚果民主共和国
-    zh-hans: 刚果民主共和国
-    zh-hant: 剛果民主共和國
-    zh-hk: 剛果民主共和國
-    zh-mo: 剛果民主共和國
+    zh_cn: 刚果民主共和国
+    zh_hans: 刚果民主共和国
+    zh_hant: 剛果民主共和國
+    zh_hk: 剛果民主共和國
+    zh_mo: 剛果民主共和國
     zh-my: 刚果民主共和国
-    zh-sg: 刚果民主共和国
-    zh-tw: 剛果民主共和國
+    zh_sg: 刚果民主共和国
+    zh_tw: 剛果民主共和國
     zu: IRiphabliki Labantu weKongo
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Congo-Kinshasa

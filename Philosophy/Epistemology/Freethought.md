@@ -82,7 +82,7 @@ dv_has_:
     ast: llibrepensador
     az: azad düşüncə
     be: вальнадумства
-    be-tarask: вальнадумства
+    be_tarask: вальнадумства
     bn: মুক্তচিন্তা
     br: Fédération Nationale de la Libre Pensée
     bs: slobodoumlje
@@ -131,8 +131,8 @@ dv_has_:
     sl: svobodomiselnost
     sq: mendimi i lirë
     sr: slobodoumlje
-    sr-ec: слободоумље
-    sr-el: sobodoumlje
+    sr_ec: слободоумље
+    sr_el: sobodoumlje
     sv: fritänkare
     ta: கட்டற்ற சிந்தனை
     th: ความคิดอย่างอิสระ

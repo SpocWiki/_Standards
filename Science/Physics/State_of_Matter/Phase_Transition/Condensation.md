@@ -93,7 +93,7 @@ dv_has_:
     az: Kondensasiya
     bcl: Kondensasyon
     be: кандэнсацыя
-    be-tarask: кандэнсацыя
+    be_tarask: кандэнсацыя
     bg: Кондензация
     bn: ঘনীভবন
     bs: Kondenzacija
@@ -128,11 +128,11 @@ dv_has_:
     kaa: Kondensaсiya
     kab: Aneznez
     kk: Конденсация
-    kk-arab: كوندەنساتسىييا
+    kk_arab: كوندەنساتسىييا
     kk-cn: كوندەنساتسىييا
-    kk-cyrl: Конденсация
+    kk_cyrl: Конденсация
     kk-kz: Конденсация
-    kk-latn: Kondensacïya
+    kk_latn: Kondensacïya
     kk-tr: Kondensacïya
     ko: 응축
     kw: Gluthyans
@@ -160,8 +160,8 @@ dv_has_:
     sn: Kubundira
     sq: Kondenzimi
     sr: кондензација
-    sr-ec: кондензација
-    sr-el: kondenzacija
+    sr_ec: кондензација
+    sr_el: kondenzacija
     sv: kondensering
     sw: condensation
     ta: குளிர்வித்தல்
@@ -169,7 +169,7 @@ dv_has_:
     tl: condensation
     tr: Yoğuşma
     tt: сыекчага әйләнү
-    tt-cyrl: сыекчага әйләнү
+    tt_cyrl: сыекчага әйләнү
     udm: вуӟектон
     uk: конденсація
     ur: عمل تکثیف
@@ -180,12 +180,12 @@ dv_has_:
     yi: קאנדענסירונג
     yue: 凝結
     zh: 凝結
-    zh-cn: 凝结
-    zh-hans: 凝结
-    zh-hant: 凝結
-    zh-hk: 凝結
-    zh-sg: 凝结
-    zh-tw: 凝結
+    zh_cn: 凝结
+    zh_hans: 凝结
+    zh_hant: 凝結
+    zh_hk: 凝結
+    zh_sg: 凝结
+    zh_tw: 凝結
 ---
 # [[Condensation]] 
 

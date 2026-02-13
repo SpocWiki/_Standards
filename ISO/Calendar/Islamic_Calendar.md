@@ -171,7 +171,7 @@ dv_has_:
     ba: Мосолман календары
     ban: Kalénder Islam
     be: мусульманскі каляндар
-    be-tarask: мусульманскі каляндар
+    be_tarask: мусульманскі каляндар
     bg: Ислямски календар
     bho: हिजरी कलेंडर
     bjn: Tahun puga Islam
@@ -187,8 +187,8 @@ dv_has_:
     diq: Teqwimo Hıcri
     el: ισλαμικό ημερολόγιο
     en: Islamic calendar
-    en-ca: Islamic calendar
-    en-gb: Islamic calendar
+    en_ca: Islamic calendar
+    en_gb: Islamic calendar
     eo: islama kalendaro
     es: calendario islámico
     et: Islami kalender
@@ -240,7 +240,7 @@ dv_has_:
     ml: ഇസ്ലാമിക കലണ്ടർ
     mr: इस्लामी कालगणना
     ms: takwim Hijrah
-    ms-arab: تقويم هجرة
+    ms_arab: تقويم هجرة
     my: အစ္စလာမ်ပြက္ခဒိန်
     mzn: هجری قمری تقویم
     nan: Islam Le̍k-hoat
@@ -255,7 +255,7 @@ dv_has_:
     pnb: اسلامی کیلنڈر
     ps: سپوږميز لېږديز کليز
     pt: Calendário islâmico
-    pt-br: Calendário islâmico
+    pt_br: Calendário islâmico
     ro: calendarul islamic
     ru: исламский календарь
     sco: Islamic calendar
@@ -267,8 +267,8 @@ dv_has_:
     so: Kalandarka Islaamka
     sq: Kalendari Islam
     sr: исламски календар
-    sr-ec: исламски календар
-    sr-el: islamski kalendar
+    sr_ec: исламски календар
+    sr_el: islamski kalendar
     su: Kalénder Islam
     sv: Muslimska kalendern
     sw: Kalenda ya Kiislamu
@@ -295,7 +295,7 @@ dv_has_:
     yi: איסלאמישער קאלענדאר
     yue: 回曆
     zh: 伊斯兰历
-    zh-cn: 伊斯兰历
+    zh_cn: 伊斯兰历
 ---
 # [[Islamic_Calendar]] 
 

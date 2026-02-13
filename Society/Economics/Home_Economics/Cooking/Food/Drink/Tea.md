@@ -235,7 +235,7 @@ dv_has_:
     bar: Tää
     bcl: tsa
     be: чай
-    be-tarask: чай
+    be_tarask: чай
     bew: Sahi
     bg: чай
     bho: चाय
@@ -268,8 +268,8 @@ dv_has_:
     dz: ཇ
     el: τσάι
     en: tea
-    en-ca: tea
-    en-gb: tea
+    en_ca: tea
+    en_gb: tea
     eo: teo
     es: té
     et: tee
@@ -365,7 +365,7 @@ dv_has_:
     nan: tê
     nb: te
     nds: Tee
-    nds-nl: tee
+    nds_nl: tee
     ne: चिया
     nia: tesi
     nl: thee
@@ -449,9 +449,9 @@ dv_has_:
     zgh: ⴰⵜⴰⵢ
     zh: 茶
     zh-cn: 茶
-    zh-hans: 茶
-    zh-hant: 茶
-    zh-tw: 茶
+    zh_hans: 茶
+    zh_hant: 茶
+    zh_tw: 茶
     zu: itiye
 ---
 # [[Tea]] ☕ 

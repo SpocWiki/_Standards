@@ -57,14 +57,14 @@ dv_has_:
     oc: Octopodidae
     pl: ośmiornicowate
     pt: Octopodidae
-    pt-br: Octopodidae
+    pt_br: Octopodidae
     ro: Octopodidae
     ru: Octopodidae
     sl: prave hobotnice
     sq: Octopodidae
     sr: Хоботнице
-    sr-ec: Хоботнице
-    sr-el: Hobotnice
+    sr_ec: Хоботнице
+    sr_el: Hobotnice
     sv: Octopodidae
     tr: Octopodidae
     uk: Octopodidae
@@ -72,10 +72,10 @@ dv_has_:
     vo: Octopodidae
     war: Octopodidae
     zh: 章魚科
-    zh-cn: 章鱼科
-    zh-hans: 章鱼科
-    zh-hant: 章魚科
-    zh-hk: 章魚科
+    zh_cn: 章鱼科
+    zh_hans: 章鱼科
+    zh_hant: 章魚科
+    zh_hk: 章魚科
 ---
 # [[Octopodidae]] 
 

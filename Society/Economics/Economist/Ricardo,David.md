@@ -114,7 +114,7 @@ dv_has_:
     az: David Rikardo
     ba: Рикардо Давид
     be: Давід Рыкарда
-    be-tarask: Дэйвід Рыкарда
+    be_tarask: Дэйвід Рыкарда
     bg: Давид Рикардо
     bn: ডেভিড রিকার্ডো
     bs: David Ricardo
@@ -175,7 +175,7 @@ dv_has_:
     pl: David Ricardo
     pnb: ڈیوڈ ریکارڈو
     pt: David Ricardo
-    pt-br: David Ricardo
+    pt_br: David Ricardo
     ro: David Ricardo
     ru: Давид Рикардо
     sah: Давид Рикардо
@@ -185,14 +185,14 @@ dv_has_:
     sl: David Ricardo
     sq: David Ricardo
     sr: Давид Рикардо
-    sr-ec: Давид Рикардо
-    sr-el: David Rikardo
+    sr_ec: Давид Рикардо
+    sr_el: David Rikardo
     sv: David Ricardo
     ta: david ricordo
     tl: David Ricardo
     tr: David Ricardo
     tt: Давид Рикардо
-    tt-cyrl: Давида Рикардо
+    tt_cyrl: Давида Рикардо
     uk: Девід Рікардо
     ur: ڈیوڈ ریکارڈو
     uz: Rikardo David
@@ -201,12 +201,12 @@ dv_has_:
     wuu: 大卫·李嘉图
     yue: 李嘉圖
     zh: 大卫·李嘉图
-    zh-cn: 大卫·李嘉图
-    zh-hans: 大卫·李嘉图
-    zh-hant: 大衛·李嘉圖
-    zh-hk: 大衛·李嘉圖
-    zh-sg: 大卫·李嘉图
-    zh-tw: 大衛·李嘉圖
+    zh_cn: 大卫·李嘉图
+    zh_hans: 大卫·李嘉图
+    zh_hant: 大衛·李嘉圖
+    zh_hk: 大衛·李嘉圖
+    zh_sg: 大卫·李嘉图
+    zh_tw: 大衛·李嘉圖
 ---
 # [[Ricardo,David]]
 

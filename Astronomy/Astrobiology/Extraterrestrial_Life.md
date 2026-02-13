@@ -135,7 +135,7 @@ dv_has_:
     ba: ерҙән ситтәге тереклек
     bcl: Buhay sa luwas kan Kinaban
     be: пазаземнае жыццё
-    be-tarask: пазазямное жыцьцё
+    be_tarask: пазазямное жыцьцё
     bg: извънземен живот
     bn: বহির্জাগতিক প্রাণ
     bo: གོ་ལ་ཕྱིའི་ཚེ་སྲོག
@@ -146,7 +146,7 @@ dv_has_:
     cs: mimozemský život
     da: udenjordisk liv
     de: außerirdisches Leben
-    de-ch: ausserirdisches Leben
+    de_ch: ausserirdisches Leben
     dz: གོ་ལ་ཕྱིའི་ཚེ་སྲོག
     el: εξωγήινη ζωή
     en: extraterrestrial life
@@ -210,8 +210,8 @@ dv_has_:
     sl: nezemeljsko življenje
     sq: jashtëtokësorët
     sr: ванземаљац
-    sr-ec: ванземаљац
-    sr-el: vanzemaljac
+    sr_ec: ванземаљац
+    sr_el: vanzemaljac
     stq: Buutenäidsk Lieuwend
     sv: utomjordiskt liv
     sw: Maisha Nje ya Dunia
@@ -228,12 +228,12 @@ dv_has_:
     wuu: 外星生命
     yue: 外星生物
     zh: 外星生命
-    zh-cn: 外星生命
-    zh-hans: 外星生命
-    zh-hant: 外星生命
-    zh-hk: 外星生命
-    zh-sg: 外星生命
-    zh-tw: 外星生命
+    zh_cn: 外星生命
+    zh_hans: 外星生命
+    zh_hant: 外星生命
+    zh_hk: 外星生命
+    zh_sg: 外星生命
+    zh_tw: 外星生命
 ---
 # [[Extraterrestrial_Life]] 
 

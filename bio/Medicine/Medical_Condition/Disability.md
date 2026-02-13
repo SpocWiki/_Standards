@@ -149,7 +149,7 @@ dv_has_:
     ba: Зәғифлек
     bar: Behinderig
     be: інваліднасць
-    be-tarask: інваліднасьць
+    be_tarask: інваліднасьць
     bg: Инвалидност
     bjn: Katawatasan diri
     bn: প্রতিবন্ধী
@@ -166,8 +166,8 @@ dv_has_:
     de: Behinderung
     el: αναπηρία
     en: disability
-    en-ca: disability
-    en-gb: disability
+    en_ca: disability
+    en_gb: disability
     eo: malkapablo
     es: discapacidad
     et: Puue
@@ -221,7 +221,7 @@ dv_has_:
     pms: Disabilità
     pnb: معذوری
     pt: deficiência
-    pt-br: deficiência
+    pt_br: deficiência
     ro: dizabilitate
     ru: инвалидность
     rue: Інвалідность
@@ -256,8 +256,8 @@ dv_has_:
     yi: דעפֿעקטיווקייט
     yue: 殘廢
     zh: 身心障礙
-    zh-cn: 身心障碍
-    zh-hant: 身心障礙
+    zh_cn: 身心障碍
+    zh_hant: 身心障礙
 ---
 # [[Disability]] 
 

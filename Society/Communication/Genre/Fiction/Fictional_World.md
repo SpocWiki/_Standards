@@ -95,7 +95,7 @@ dv_has_:
     ary: كون خيالي
     ast: universu de ficción
     be: выдуманы сусвет
-    be-tarask: выдуманы сусьвет
+    be_tarask: выдуманы сусьвет
     bew: Jagat hayalan
     bg: фентъзи свят
     bn: কল্পলোক
@@ -108,7 +108,7 @@ dv_has_:
     de: fiktives Universum
     el: φανταστικό σύμπαν
     en: fictional universe
-    en-gb: fictional universe
+    en_gb: fictional universe
     eo: fikcia universo
     es: universo ficticio
     eu: fikziozko unibertso
@@ -130,7 +130,7 @@ dv_has_:
     ka: გამოგონილი სამყარო
     ko: 허구의 세계
     ku: gerdûna honakî
-    ku-latn: gerdûna honakî
+    ku_latn: gerdûna honakî
     lb: fiktiven Universum
     mk: измислена вселена
     mni: ꯋꯥꯈꯜꯅ ꯁꯥꯒꯠꯄ ꯇꯥꯏꯕꯪꯄꯥꯟꯕ
@@ -147,15 +147,15 @@ dv_has_:
     sl: fiktivno vesolje
     sq: vendi fiktiv
     sr: измишљени универзум
-    sr-ec: измишљени универзум
-    sr-el: izmišljeni univerzum
+    sr_ec: измишљени универзум
+    sr_el: izmišljeni univerzum
     sv: fiktivt universum
     te: కాల్పనిక జగత్తు
     tg: дунёи фонӣ
     th: จักรวาลสมมติ
     tr: kurgusal evren
     tt: уйлап чыгарылган дөнья
-    tt-cyrl: уйлап чыгарылган дөнья
+    tt_cyrl: уйлап чыгарылган дөнья
     uk: вигаданий всесвіт
     ur: افسانوی کائنات
     vi: vũ trụ hư cấu
@@ -163,14 +163,14 @@ dv_has_:
     yo: àgbálayé inú ìtàn
     yue: 虛構宇宙
     zh: 虛構世界
-    zh-cn: 虚构世界
-    zh-hans: 虚构世界
-    zh-hant: 虛構世界
-    zh-hk: 虛構世界
-    zh-mo: 虛構世界
+    zh_cn: 虚构世界
+    zh_hans: 虚构世界
+    zh_hant: 虛構世界
+    zh_hk: 虛構世界
+    zh_mo: 虛構世界
     zh-my: 虚构世界
-    zh-sg: 虚构世界
-    zh-tw: 虛構世界
+    zh_sg: 虚构世界
+    zh_tw: 虛構世界
 ---
 # [[Fictional_World]] 
 

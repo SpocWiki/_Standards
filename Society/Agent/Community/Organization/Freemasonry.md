@@ -144,7 +144,7 @@ dv_has_:
     az: masonluq
     bcl: Masoneriya
     be: Масонства
-    be-tarask: масонства
+    be_tarask: масонства
     bg: Масонство
     bn: ফ্রিম্যাসনরি
     br: Frañmasonerezh
@@ -156,11 +156,11 @@ dv_has_:
     cy: Seiri Rhyddion
     da: frimureri
     de: Freimaurerei
-    de-ch: Freimaurerei
+    de_ch: Freimaurerei
     el: ελευθεροτεκτονισμός
     en: freemasonry
-    en-ca: Freemasonry
-    en-gb: freemasonry
+    en_ca: Freemasonry
+    en_gb: freemasonry
     eo: framasonismo
     es: francmasonería
     et: vabamüürlus
@@ -206,7 +206,7 @@ dv_has_:
     mzn: فراماسونری
     nan: Kiōng-chè-hoē
     nb: frimureri
-    nds-nl: Vrymestelarye
+    nds_nl: Vrymestelarye
     nl: vrijmetselarij
     nn: frimureri
     oc: francmaçoneria
@@ -215,7 +215,7 @@ dv_has_:
     pnb: فری میسن
     ps: ماسونيان
     pt: maçonaria
-    pt-br: Maçonaria
+    pt_br: Maçonaria
     ro: francmasonerie
     ru: масонство
     sco: freemasonry
@@ -240,7 +240,7 @@ dv_has_:
     wuu: 共济会
     yue: 共濟會
     zh: 共济会
-    zh-hk: 共濟會
+    zh_hk: 共濟會
 ---
 # [[Freemasonry]] 
 

@@ -111,7 +111,7 @@ dv_has_:
     az: Uşaqlıq
     bar: Kindheid
     be: дзяцінства
-    be-tarask: дзяцінства
+    be_tarask: дзяцінства
     bn: শৈশব
     bs: Djetinjstvo
     ca: infantesa
@@ -121,8 +121,8 @@ dv_has_:
     de: Kindheit
     el: Παιδική ηλικία
     en: childhood
-    en-ca: childhood
-    en-gb: childhood
+    en_ca: childhood
+    en_gb: childhood
     eo: infanaĝo
     es: infancia
     et: lapsepõlv
@@ -145,11 +145,11 @@ dv_has_:
     ja: 子供期
     kaa: balalıq
     kk: Балалық
-    kk-arab: بالالىق
+    kk_arab: بالالىق
     kk-cn: بالالىق
-    kk-cyrl: Балалық
+    kk_cyrl: Балалық
     kk-kz: Балалық
-    kk-latn: Balalıq
+    kk_latn: Balalıq
     kk-tr: Balalıq
     kn: ಬಾಲ್ಯ
     ko: 아동기
@@ -180,8 +180,8 @@ dv_has_:
     sl: otroštvo
     sq: Fëmijëria
     sr: детињство
-    sr-ec: детињство
-    sr-el: detinjstvo
+    sr_ec: детињство
+    sr_el: detinjstvo
     sv: barndom
     ta: குழந்தைப்பருவம்
     te: చిన్నతనం
@@ -197,8 +197,8 @@ dv_has_:
     wuu: 童年
     yue: 童年
     zh: 童年
-    zh-hant: 童年
-    zh-tw: 童年
+    zh_hant: 童年
+    zh_tw: 童年
 ---
 # [[Childhood]] 
 

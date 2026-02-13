@@ -167,7 +167,7 @@ dv_has_:
     ban: bandar udara
     bcl: palayogan
     be: аэрапорт
-    be-tarask: аэрапорт
+    be_tarask: аэрапорт
     bew: lapangan terbang
     bg: летище
     bho: हवाईअड्डा
@@ -183,12 +183,12 @@ dv_has_:
     cy: maes awyr
     da: lufthavn
     de: Flughafen
-    de-ch: Flughafen
+    de_ch: Flughafen
     diq: hewaherun
     el: αερολιμένας
     en: airport
-    en-ca: airport
-    en-gb: airport
+    en_ca: airport
+    en_gb: airport
     eo: flughaveno
     es: aeropuerto
     et: lennujaam
@@ -230,7 +230,7 @@ dv_has_:
     kn: ವಿಮಾನ ನಿಲ್ದಾಣ
     ko: 공항
     ks: ہَوٲیی اَڈٕ
-    ku-latn: balafirgeh
+    ku_latn: balafirgeh
     kv: аэропорт
     ky: аэропорт
     la: Aëroportus
@@ -249,7 +249,7 @@ dv_has_:
     mn: нисэх онгоцны буудал
     mr: विमानतळ
     ms: lapangan terbang
-    ms-arab: لاڤڠن تربڠ
+    ms_arab: لاڤڠن تربڠ
     mt: ajruport
     my: လေယာဉ်ကွင်း
     mzn: فوروزجه
@@ -270,7 +270,7 @@ dv_has_:
     pms: Aeropòrt
     pnb: ہوائی اڈا
     pt: aeroporto
-    pt-br: aeroporto
+    pt_br: aeroporto
     qu: antanka pampa
     ro: aeroport
     ru: аэропорт
@@ -298,7 +298,7 @@ dv_has_:
     ta: வானூர்தி நிலையம்
     te: విమానాశ్రయం
     tg: фурудгоҳ
-    tg-cyrl: фурудгоҳ
+    tg_cyrl: фурудгоҳ
     th: ท่าอากาศยาน
     tl: paliparan
     to: malaʻe vakapuna
@@ -318,11 +318,11 @@ dv_has_:
     yi: פליפעלד
     yue: 飛機場
     zh: 機場
-    zh-cn: 机场
-    zh-hans: 机场
-    zh-hant: 機場
-    zh-hk: 機場
-    zh-tw: 機場
+    zh_cn: 机场
+    zh_hans: 机场
+    zh_hant: 機場
+    zh_hk: 機場
+    zh_tw: 機場
   parent_class: '[[../CivicStructure]]'
   properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, iataCode, icaoCode, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'
 dv_is_:

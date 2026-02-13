@@ -104,7 +104,7 @@ dv_has_:
     arz: القانون العام
     ast: Derechu anglosaxón
     be: агульнае права
-    be-tarask: агульнае права
+    be_tarask: агульнае права
     bg: Общо право
     bn: কমন ল
     bs: Englesko pravo
@@ -116,7 +116,7 @@ dv_has_:
     de: Common Law
     el: Κοινό δίκαιο
     en: common law
-    en-gb: common law
+    en_gb: common law
     eo: Anglasaksa juro
     es: derecho anglosajón
     et: Üldine õigus
@@ -138,9 +138,9 @@ dv_has_:
     ja: コモン・ロー
     ka: ანგლო-ამერიკული სამართალი
     kk: Ортақ құкық
-    kk-arab: ورتاق قۇكىق
-    kk-cyrl: Ортақ құкық
-    kk-latn: Ortaq qukıq
+    kk_arab: ورتاق قۇكىق
+    kk_cyrl: Ортақ құкық
+    kk_latn: Ortaq qukıq
     km: ច្បាប់ធម្មតា
     ko: 영미법
     la: Consuetudo
@@ -158,7 +158,7 @@ dv_has_:
     pa: ਸਧਾਰਨ ਕਾਨੂੰਨ
     pl: common law
     pt: common law
-    pt-br: common law
+    pt_br: common law
     ro: common law
     ru: общее право
     sh: Anglosaksonsko pravo

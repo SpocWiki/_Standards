@@ -65,7 +65,7 @@ dv_has_:
     ab: Иорданиа
     ace: Yordania
     ady: Иордание
-    aeb-arab: الأردن
+    aeb_arab: الأردن
     af: Jordanië
     am: ጆርዳን
     ami: Jordan
@@ -88,7 +88,7 @@ dv_has_:
     bar: Jordanien
     bcl: Yordanya
     be: Іарданія
-    be-tarask: Ярданія
+    be_tarask: Ярданія
     bew: Urdun
     bg: Йордания
     bgn: اردن
@@ -104,14 +104,14 @@ dv_has_:
     bug: ᨐᨚᨑᨛᨉᨊᨗᨐ
     bxr: Йордан
     ca: Jordània
-    cbk-zam: Jordania
+    cbk_zam: Jordania
     cdo: Jordan
     ce: Урдан
     ceb: Hordanya
     ckb: ئوردن
     co: Ghjurdania
     crh: Urdun
-    crh-latn: Urdun
+    crh_latn: Urdun
     cs: Jordánsko
     csb: Jordaniô
     cv: Иордани
@@ -120,7 +120,7 @@ dv_has_:
     dag: Jordan
     de: Jordanien
     de-at: Jordanien
-    de-ch: Jordanien
+    de_ch: Jordanien
     diq: Urdun
     dsb: Jordaniska
     dtp: Jordan
@@ -128,8 +128,8 @@ dv_has_:
     dv: އުރުދުން
     el: Ιορδανία
     en: Jordan
-    en-ca: Jordan
-    en-gb: Jordan
+    en_ca: Jordan
+    en_gb: Jordan
     en-us: Jordan
     eo: Jordanio
     es: Jordania
@@ -153,7 +153,7 @@ dv_has_:
     gn: Horytaña
     gom: जॉर्डन
     gom-deva: जॉर्डन
-    gom-latn: Jordan
+    gom_latn: Jordan
     gor: Yordania
     gpe: Jordan
     gsw: Jordanie
@@ -266,7 +266,7 @@ dv_has_:
     pnb: اردن
     ps: اردن
     pt: Jordânia
-    pt-br: Jordânia
+    pt_br: Jordânia
     qu: Hurdanya
     rki: ဟာရှီမိုက် ဂျော်ဒန် ဘုရင့်နိုင်ငံ
     rmy: Jordan
@@ -297,8 +297,8 @@ dv_has_:
     so: Urdun
     sq: Jordania
     sr: Јордан
-    sr-ec: Јордан
-    sr-el: Jordan
+    sr_ec: Јордан
+    sr_el: Jordan
     srn: Jordanikondre
     ss: IJoridane
     stq: Jordanien
@@ -347,12 +347,12 @@ dv_has_:
     zea: Jordaonië
     zgh: ⵓⵔⴹⵓⵏ
     zh: 約旦
-    zh-cn: 约旦
-    zh-hans: 约旦
-    zh-hant: 約旦
-    zh-hk: 約旦
+    zh_cn: 约旦
+    zh_hans: 约旦
+    zh_hant: 約旦
+    zh_hk: 約旦
     zh-my: 约旦
-    zh-tw: 約旦
+    zh_tw: 約旦
     zu: i-Jordan
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Jordan

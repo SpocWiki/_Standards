@@ -59,7 +59,7 @@ dv_has_:
     oc: Trichechidae
     pl: Trichechidae
     pt: Trichechidae
-    pt-br: Trichechidae
+    pt_br: Trichechidae
     ro: Trichechidae
     ru: Trichechidae
     scn: Trichechidae
@@ -72,9 +72,9 @@ dv_has_:
     vo: Trichechidae
     war: Trichechidae
     zh: 海牛科
-    zh-cn: 海牛科
-    zh-hans: 海牛科
-    zh-tw: 海牛科
+    zh_cn: 海牛科
+    zh_hans: 海牛科
+    zh_tw: 海牛科
 ---
 # [[Trichechidae]]
 

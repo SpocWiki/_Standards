@@ -154,7 +154,7 @@ dv_has_:
     az: Sergey Prokofiyev
     ba: Прокофьев Сергей Сергеевич
     be: Сяргей Сяргеевіч Пракоф'еў
-    be-tarask: Сяргей Пракоф’еў
+    be_tarask: Сяргей Пракоф’еў
     bg: Сергей Прокофиев
     br: Sergey Prokofyev
     ca: Serguei Prokófiev
@@ -162,11 +162,11 @@ dv_has_:
     cy: Sergei Prokofiev
     da: Sergej Prokofjev
     de: Sergei Sergejewitsch Prokofjew
-    de-ch: Sergei Sergejewitsch Prokofjew
+    de_ch: Sergei Sergejewitsch Prokofjew
     el: Σεργκέι Προκόφιεφ
     en: Sergei Prokofiev
-    en-ca: Sergei Prokofiev
-    en-gb: Sergei Prokofiev
+    en_ca: Sergei Prokofiev
+    en_gb: Sergei Prokofiev
     eo: Sergej Prokofjev
     es: Serguéi Prokófiev
     et: Sergei Prokofjev
@@ -211,7 +211,7 @@ dv_has_:
     pam: Sergei Prokofiev
     pl: Siergiej Prokofjew
     pt: Serguei Prokofiev
-    pt-br: Serguei Prokofiev
+    pt_br: Serguei Prokofiev
     ro: Serghei Prokofiev
     ru: Сергей Сергеевич Прокофьев
     sh: Sergej Prokofjev
@@ -231,11 +231,11 @@ dv_has_:
     wuu: 谢尔盖·普罗科菲耶夫
     yue: 浦羅哥菲夫
     zh: 谢尔盖·普罗科菲耶夫
-    zh-cn: 谢尔盖·普罗科菲耶夫
-    zh-hans: 谢尔盖·普罗科菲耶夫
-    zh-hant: 謝爾蓋·普羅科菲耶夫
-    zh-hk: 謝爾蓋·浦羅哥菲夫
-    zh-tw: 謝爾蓋·普羅高菲夫
+    zh_cn: 谢尔盖·普罗科菲耶夫
+    zh_hans: 谢尔盖·普罗科菲耶夫
+    zh_hant: 謝爾蓋·普羅科菲耶夫
+    zh_hk: 謝爾蓋·浦羅哥菲夫
+    zh_tw: 謝爾蓋·普羅高菲夫
 ---
 # [[Prokofiev,Sergei]] 
 

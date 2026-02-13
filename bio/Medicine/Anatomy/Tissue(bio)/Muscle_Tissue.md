@@ -149,7 +149,7 @@ dv_has_:
     ba: мускулдар
     bcl: Kalamnan
     be: мускулы
-    be-tarask: цягліца
+    be_tarask: цягліца
     bew: Sepir
     bg: Мускул
     bho: मांसपेशी
@@ -173,8 +173,8 @@ dv_has_:
     dv: މަސްތަކުގެ ނިޒާމް
     el: μυς
     en: muscle
-    en-ca: Muscle
-    en-gb: muscle
+    en_ca: Muscle
+    en_gb: muscle
     eo: muskolo
     es: músculo
     et: Lihas
@@ -236,7 +236,7 @@ dv_has_:
     mnc: ᠰᡠᠪᡝ
     mr: स्नायू
     ms: otot
-    ms-arab: اوتوت
+    ms_arab: اوتوت
     my: ကြွက်သား
     nan: Kin-bah
     nb: muskel
@@ -252,7 +252,7 @@ dv_has_:
     pms: Mùscol
     pnb: پنڈے دے پٹھے
     pt: músculo
-    pt-br: Músculo
+    pt_br: Músculo
     qu: Sinchi aycha
     ro: mușchi
     ru: мышца
@@ -274,12 +274,12 @@ dv_has_:
     ta: தசை
     te: కండరము
     tg: мушакҳо
-    tg-latn: muşakho
+    tg_latn: muşakho
     th: กล้ามเนื้อ
     tl: Masel
     tr: Kas
     tt: мускул
-    tt-cyrl: сум ит
+    tt_cyrl: сум ит
     udm: быгыт
     ug: مۇسكۇل
     uk: м’язи
@@ -296,14 +296,14 @@ dv_has_:
     yue: 肌肉
     za: Noh
     zh: 肌肉
-    zh-cn: 肌肉
-    zh-hans: 肌肉
-    zh-hant: 肌肉
-    zh-hk: 肌肉
-    zh-mo: 肌肉
+    zh_cn: 肌肉
+    zh_hans: 肌肉
+    zh_hant: 肌肉
+    zh_hk: 肌肉
+    zh_mo: 肌肉
     zh-my: 肌肉
-    zh-sg: 肌肉
-    zh-tw: 肌肉
+    zh_sg: 肌肉
+    zh_tw: 肌肉
 ---
 # [[Muscle_Tissue]] 
 

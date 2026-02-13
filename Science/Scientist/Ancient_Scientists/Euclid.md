@@ -160,7 +160,7 @@ dv_has_:
     ban: Éuclid
     bcl: Euclid
     be: Эўклід
-    be-tarask: Эўклід
+    be_tarask: Эўклід
     bew: Iklidès
     bg: Евклид
     bho: यूक्लिड
@@ -183,8 +183,8 @@ dv_has_:
     diq: Öklid
     el: Ευκλείδης
     en: Euclid
-    en-ca: Euclid
-    en-gb: Euclid
+    en_ca: Euclid
+    en_gb: Euclid
     eo: Eŭklido
     es: Euclides
     et: Eukleides
@@ -231,7 +231,7 @@ dv_has_:
     ko: 에우클레이데스
     ksh: Euklid va Alexandria
     ku: Iqlîdes
-    ku-latn: Iqlîdes
+    ku_latn: Iqlîdes
     kw: Euclid
     ky: Евклид
     la: Euclides
@@ -271,7 +271,7 @@ dv_has_:
     pnb: اقلیدس
     ps: اقليدس
     pt: Euclides
-    pt-br: Euclides
+    pt_br: Euclides
     rki: ယူကလစ်
     ro: Euclid
     ru: Евклид
@@ -320,9 +320,9 @@ dv_has_:
     za: Euclid
     zgh: ⵓⴽⵍⵉⴷ
     zh: 欧几里得
-    zh-cn: 欧几里得
-    zh-hans: 欧几里得
-    zh-hant: 歐幾里得
+    zh_cn: 欧几里得
+    zh_hans: 欧几里得
+    zh_hant: 歐幾里得
 ---
 # [[Euclid]] 
 

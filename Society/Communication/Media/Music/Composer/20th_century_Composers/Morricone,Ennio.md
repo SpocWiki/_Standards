@@ -148,7 +148,7 @@ dv_has_:
     az: Ennio Morrikone
     azb: انیو موریکونه
     be: Эніа Марыконэ
-    be-tarask: Эньё Марыконэ
+    be_tarask: Эньё Марыконэ
     bg: Енио Мориконе
     bn: এননিও মোররিকোনে
     br: Ennio Morricone
@@ -160,12 +160,12 @@ dv_has_:
     cy: Ennio Morricone
     da: Ennio Morricone
     de: Ennio Morricone
-    de-ch: Ennio Morricone
+    de_ch: Ennio Morricone
     el: Έννιο Μορρικόνε
     eml: Ennio Morricone
     en: Ennio Morricone
-    en-ca: Ennio Morricone
-    en-gb: Ennio Morricone
+    en_ca: Ennio Morricone
+    en_gb: Ennio Morricone
     eo: Ennio Morricone
     es: Ennio Morricone
     et: Ennio Morricone
@@ -210,7 +210,7 @@ dv_has_:
     pap: Ennio Morricone
     pl: Ennio Morricone
     pt: Ennio Morricone
-    pt-br: Ennio Morricone
+    pt_br: Ennio Morricone
     qu: Ennio Morricone
     ro: Ennio Morricone
     ru: Эннио Морриконе
@@ -233,9 +233,9 @@ dv_has_:
     xmf: ენიო მორიკონე
     yue: 艾尼奧·摩列干尼
     zh: 恩尼奥·莫里科内
-    zh-hant: 顏尼歐·莫利克奈
-    zh-hk: 安尼奧·摩利哥尼
-    zh-tw: 埃尼歐·莫利克奈
+    zh_hant: 顏尼歐·莫利克奈
+    zh_hk: 安尼奧·摩利哥尼
+    zh_tw: 埃尼歐·莫利克奈
 ---
 # [[Morricone,Ennio]] 
 

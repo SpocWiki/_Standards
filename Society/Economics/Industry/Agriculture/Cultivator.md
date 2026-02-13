@@ -52,16 +52,16 @@ Commons_gallery: Cultivator
 dv_has_:
   name_:
     ar: مسلفة
-    be-tarask: культыватар
+    be_tarask: культыватар
     bg: Мотофреза
     ca: Cultivador
     cs: kultivátor
     de: Grubber
     de-at: Grubber
-    de-ch: Grubber
+    de_ch: Grubber
     en: cultivator
-    en-ca: cultivator
-    en-gb: cultivator
+    en_ca: cultivator
+    en_gb: cultivator
     eo: Kultivatoro
     es: cultivador
     et: kultivaator
@@ -97,8 +97,8 @@ dv_has_:
     uz: Культиватор
     yue: 耕田機
     zh: 旋耕機
-    zh-hans: 旋耕机
-    zh-hant: 耕田機
+    zh_hans: 旋耕机
+    zh_hant: 耕田機
 ---
 # [[Cultivator]] 
 

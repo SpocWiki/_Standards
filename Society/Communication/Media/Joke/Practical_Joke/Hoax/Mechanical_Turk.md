@@ -117,12 +117,12 @@ dv_has_:
     tr: Türk
     uk: механічний турок
     zh: 土耳其行棋傀儡
-    zh-cn: 土耳其行棋傀儡
-    zh-hans: 土耳其行棋傀儡
-    zh-hant: 土耳其行棋傀儡
-    zh-hk: 土耳其行棋傀儡
-    zh-sg: 土耳其行棋傀儡
-    zh-tw: 土耳其行棋傀儡
+    zh_cn: 土耳其行棋傀儡
+    zh_hans: 土耳其行棋傀儡
+    zh_hant: 土耳其行棋傀儡
+    zh_hk: 土耳其行棋傀儡
+    zh_sg: 土耳其行棋傀儡
+    zh_tw: 土耳其行棋傀儡
 ---
 # [[Mechanical_Turk]] 
 

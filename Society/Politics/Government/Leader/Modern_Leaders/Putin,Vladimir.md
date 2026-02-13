@@ -395,7 +395,7 @@ dv_has_:
     bar: Vladimir Putin
     bcl: Vladimir Putin
     be: Уладзімір Уладзіміравіч Пуцін
-    be-tarask: Уладзімер Пуцін
+    be_tarask: Уладзімер Пуцін
     bew: Vladimir Putin
     bg: Владимир Путин
     bho: व्लादिमीर पुतिन
@@ -415,7 +415,7 @@ dv_has_:
     co: Vladimir Poutine
     cr: Vladimir Putin
     crh: Vladimir Putin
-    crh-latn: Vladimir Putin
+    crh_latn: Vladimir Putin
     cs: Vladimir Putin
     cu: Владимиръ Поутинъ
     cv: Путин Владимир Владимирович
@@ -423,7 +423,7 @@ dv_has_:
     da: Vladimir Putin
     dag: Vladimir Putin
     de: Wladimir Wladimirowitsch Putin
-    de-ch: Wladimir Wladimirowitsch Putin
+    de_ch: Wladimir Wladimirowitsch Putin
     dga: Vladimir Putin
     din: Vladimir Vladimirovich Putin
     dsb: Wladimir Wladimirowič Putin
@@ -432,8 +432,8 @@ dv_has_:
     dv: ލަޑިމިއަރ ޕޫޓިން
     el: Βλαντίμιρ Πούτιν
     en: Vladimir Putin
-    en-ca: Vladimir Putin
-    en-gb: Vladimir Putin
+    en_ca: Vladimir Putin
+    en_gb: Vladimir Putin
     en-us: Vladimir Putin
     eo: Vladimir Putin
     es: Vladímir Putin
@@ -527,7 +527,7 @@ dv_has_:
     mr: व्लादिमिर पुतिन
     mrj: Путин, Владимир Владимирович
     ms: Vladimir Putin
-    ms-arab: ۏلاديمير ڤوتين
+    ms_arab: ۏلاديمير ڤوتين
     mt: Vladimir Putin
     mwl: Bladimir Putin
     my: ဗလာဒီမီယာ ပူတင်
@@ -539,7 +539,7 @@ dv_has_:
     nap: Vladimir Putin
     nb: Vladimir Putin
     nds: Wladimir Putin
-    nds-nl: Vladimir Putin
+    nds_nl: Vladimir Putin
     ne: भ्लादिमिर पुटिन
     new: भ्लडिमिर पुटिन
     nl: Vladimir Poetin
@@ -560,7 +560,7 @@ dv_has_:
     pnb: ولادیمیر پوتن
     ps: ولادمير پوتين
     pt: Vladimir Putin
-    pt-br: Vladimir Putin
+    pt_br: Vladimir Putin
     qu: Vladimir Putin
     rm: Vladimir Putin
     rmf: Vladimir Putin
@@ -595,8 +595,8 @@ dv_has_:
     so: Faladimir Putin
     sq: Vladimir Putin
     sr: Владимир Путин
-    sr-ec: Владимир Путин
-    sr-el: Vladimir Putin
+    sr_ec: Владимир Путин
+    sr_el: Vladimir Putin
     su: ᮗᮣᮓᮤᮙᮤᮁ ᮕᮥᮒᮤᮔ᮪
     sv: Vladimir Putin
     sw: Vladimir Putin
@@ -616,8 +616,8 @@ dv_has_:
     tr: Vladimir Vladimiroviç Putin
     trv: Vladimir Putin
     tt: Владимир Путин
-    tt-cyrl: Владимир Путин
-    tt-latn: Vladimir Putin
+    tt_cyrl: Владимир Путин
+    tt_latn: Vladimir Putin
     tum: Vladimir Putin
     tw: Vladimir Putin
     tyv: Путин, Владимир Владимир оглу
@@ -641,14 +641,14 @@ dv_has_:
     yue: 普京
     zea: Vladimir Poetin
     zh: 弗拉基米尔·普京
-    zh-cn: 弗拉基米尔·普京
-    zh-hans: 弗拉基米尔·普京
-    zh-hant: 弗拉迪米爾·普丁
-    zh-hk: 弗拉基米爾·普京
-    zh-mo: 弗拉基米爾·普京
+    zh_cn: 弗拉基米尔·普京
+    zh_hans: 弗拉基米尔·普京
+    zh_hant: 弗拉迪米爾·普丁
+    zh_hk: 弗拉基米爾·普京
+    zh_mo: 弗拉基米爾·普京
     zh-my: 弗拉基米尔·普汀
-    zh-sg: 弗拉基米尔·普京
-    zh-tw: 弗拉迪米爾·普丁
+    zh_sg: 弗拉基米尔·普京
+    zh_tw: 弗拉迪米爾·普丁
     zu: Vladimir Putin
 ---
 # [[Putin,Vladimir]] 

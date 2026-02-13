@@ -93,17 +93,17 @@ dv_has_:
     ast: Torre d'agua
     az: Su qülləsi
     be: воданапорная вежа
-    be-tarask: ваданапорная вежа
+    be_tarask: ваданапорная вежа
     bg: Водонапорна кула
     ca: torre d'aigua
     cs: vodárenská věž
     cy: twr dŵr
     da: vandtårn
     de: Wasserturm
-    de-ch: Wasserturm
+    de_ch: Wasserturm
     en: water tower
-    en-ca: Water tower
-    en-gb: water tower
+    en_ca: Water tower
+    en_gb: water tower
     eo: akvoturo
     es: torre de agua
     et: veetorn
@@ -140,7 +140,7 @@ dv_has_:
     nn: vasstårn
     pl: wieża ciśnień
     pt: castelo d'água
-    pt-br: caixa-d'água
+    pt_br: caixa-d'água
     ro: castel de apă
     ru: водонапорная башня
     se: čáhcedoardna
@@ -157,7 +157,7 @@ dv_has_:
     wuu: 水塔
     yue: 水塔
     zh: 水塔
-    zh-hans: 水塔
+    zh_hans: 水塔
 ---
 # [[Water_Tower]] 
 

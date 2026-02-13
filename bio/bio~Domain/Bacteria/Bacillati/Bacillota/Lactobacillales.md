@@ -4,7 +4,7 @@ dv_has_:
   name_:
     ar: بكتيريا حمض اللبن
     be: Малочнакіслыя бактэрыі
-    be-tarask: малочнаквасныя бактэрыі
+    be_tarask: малочнаквасныя бактэрыі
     bn: ল্যাকটিক এসিড ব্যাকটেরিয়া
     ca: bacteris làctics
     cs: bakterie mléčného kvašení
@@ -36,8 +36,8 @@ dv_has_:
     ru: молочнокислые бактерии
     sl: mlečnokislinske bakterije
     sr: бактерије млечне киселине
-    sr-ec: бактерије млечне киселине
-    sr-el: bakterije mlečne kiseline
+    sr_ec: бактерије млечне киселине
+    sr_el: bakterije mlečne kiseline
     uk: молочнокислі бактерії
     zh: 乳杆菌目
 aliases:

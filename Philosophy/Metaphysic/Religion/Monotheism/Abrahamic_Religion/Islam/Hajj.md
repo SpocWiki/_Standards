@@ -139,7 +139,7 @@ dv_has_:
     ba: Хаж
     bcl: Hajj
     be: Хадж
-    be-tarask: Хадж
+    be_tarask: Хадж
     bg: Хадж
     bho: हज
     bjn: Haji
@@ -150,18 +150,18 @@ dv_has_:
     ce: Хьаьж
     ckb: حەج
     crh: Acılıq
-    crh-latn: Acılıq
+    crh_latn: Acılıq
     cs: hadždž
     cy: Hajj
     da: Hajj
     dag: Aʒi
     de: Haddsch
-    de-ch: Haddsch
+    de_ch: Haddsch
     dv: ޙައްޖު
     el: χατζ
     en: Hajj
-    en-ca: Hajj
-    en-gb: hajj
+    en_ca: Hajj
+    en_gb: hajj
     eo: Haĝo
     es: hajj
     et: hadž
@@ -193,7 +193,7 @@ dv_has_:
     kab: Lḥeǧǧ di tneslemt
     kge: Haji
     kk: Қажылық
-    kk-cyrl: Қажылық
+    kk_cyrl: Қажылық
     kn: ಹಜ್
     ko: 하즈
     ks: حَج
@@ -212,7 +212,7 @@ dv_has_:
     ml: ഹജ്ജ്
     mr: हज
     ms: Haji
-    ms-arab: حج
+    ms_arab: حج
     nb: hajj
     ne: हज
     nl: hadj
@@ -228,7 +228,7 @@ dv_has_:
     pnb: حج
     ps: حج
     pt: Hajj
-    pt-br: Hajj
+    pt_br: Hajj
     ro: Hajj
     ru: Хадж
     rup: Hagi

@@ -5,7 +5,7 @@ dv_has_:
     ace: Eritrea
     acm: ارتريا
     ady: Эритрее
-    aeb-arab: إريتريا
+    aeb_arab: إريتريا
     af: Eritrea
     am: ኤርትራ
     ami: Eritrea
@@ -25,7 +25,7 @@ dv_has_:
     bar: Eritrea
     bcl: Eritreya
     be: Эрытрэя
-    be-tarask: Эрытрэя
+    be_tarask: Эрытрэя
     bew: Eritrea
     bg: Еритрея
     bgn: اریتره
@@ -40,14 +40,14 @@ dv_has_:
     bs: Eritreja
     bxr: Эритрей
     ca: Eritrea
-    cbk-zam: Eritrea
+    cbk_zam: Eritrea
     cdo: Eritrea
     ce: Эритре
     ceb: Eritrea
     ckb: ئێریتریا
     co: Eritrea
     crh: Eritreya
-    crh-latn: Eritreya
+    crh_latn: Eritreya
     cs: Eritrea
     cu: Єрѷѳрїꙗ
     cv: Эритрея
@@ -56,7 +56,7 @@ dv_has_:
     dag: Eritrea
     de: Eritrea
     de-at: Eritrea
-    de-ch: Eritrea
+    de_ch: Eritrea
     dga: Eritrea
     din: Eriteria
     diq: Eritreya
@@ -66,8 +66,8 @@ dv_has_:
     ee: Eritrea
     el: Ερυθραία
     en: Eritrea
-    en-ca: Eritrea
-    en-gb: Eritrea
+    en_ca: Eritrea
+    en_gb: Eritrea
     eo: Eritreo
     es: Eritrea
     et: Eritrea
@@ -150,7 +150,7 @@ dv_has_:
     lzh: 厄利垂亞
     mad: Eritrea
     mai: एरिट्रिया
-    map-bms: Eritrea
+    map_bms: Eritrea
     mdf: Эритрэя
     mg: Eritrea
     mhr: Эритрей
@@ -173,7 +173,7 @@ dv_has_:
     nap: Eritrea
     nb: Eritrea
     nds: Eritrea
-    nds-nl: Eritrea
+    nds_nl: Eritrea
     ne: एरिट्रिया
     new: इरिट्रिया
     nl: Eritrea
@@ -197,7 +197,7 @@ dv_has_:
     pnb: اریٹریا
     ps: اېريتريا
     pt: Eritreia
-    pt-br: Eritreia
+    pt_br: Eritreia
     qu: Iritriya
     rm: Eritrea
     rmy: Eritreya
@@ -229,8 +229,8 @@ dv_has_:
     so: Eratareya
     sq: Eritrea
     sr: Еритреја
-    sr-ec: Еритреја
-    sr-el: Eritreja
+    sr_ec: Еритреја
+    sr_el: Eritreja
     ss: IRitheya
     st: Eritrea
     stq: Eritrea
@@ -277,14 +277,14 @@ dv_has_:
     zea: Eritrea
     zgh: ⵉⵔⵉⵜⵔⵢⴰ
     zh: 厄立特里亞
-    zh-cn: 厄立特里亚
-    zh-hans: 厄立特里亚
-    zh-hant: 厄利垂亞
-    zh-hk: 厄立特里亞
-    zh-mo: 厄立特里亞
+    zh_cn: 厄立特里亚
+    zh_hans: 厄立特里亚
+    zh_hant: 厄利垂亞
+    zh_hk: 厄立特里亞
+    zh_mo: 厄立特里亞
     zh-my: 厄立特里亚
-    zh-sg: 厄立特里亚
-    zh-tw: 厄利垂亞
+    zh_sg: 厄立特里亚
+    zh_tw: 厄利垂亞
     zu: I-Eritrea
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Eritrea

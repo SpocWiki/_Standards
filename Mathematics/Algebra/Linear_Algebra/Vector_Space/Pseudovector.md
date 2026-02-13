@@ -60,7 +60,7 @@ dv_has_:
     uk: псевдовектор
     vi: giả vector
     zh: 赝矢量
-    zh-cn: 赝矢量
+    zh_cn: 赝矢量
 ---
 # [[Pseudovector]] 
 

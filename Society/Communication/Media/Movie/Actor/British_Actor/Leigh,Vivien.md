@@ -112,7 +112,7 @@ dv_has_:
     ba: Вивьен Ли
     bar: Vivien Leigh
     be: Віўен Лі
-    be-tarask: Віўен Лі
+    be_tarask: Віўен Лі
     bg: Вивиан Лий
     bn: ভিভিয়েন লেই
     br: Vivien Leigh
@@ -126,12 +126,12 @@ dv_has_:
     da: Vivien Leigh
     de: Vivien Leigh
     de-at: Vivien Leigh
-    de-ch: Vivien Leigh
+    de_ch: Vivien Leigh
     diq: Vivien Leigh
     el: Βίβιαν Λι
     en: Vivien Leigh
-    en-ca: Vivien Leigh
-    en-gb: Vivien Leigh
+    en_ca: Vivien Leigh
+    en_gb: Vivien Leigh
     eo: Vivien Leigh
     es: Vivien Leigh
     et: Vivien Leigh
@@ -161,11 +161,11 @@ dv_has_:
     ka: ვივიენ ლი
     kg: Vivien Leigh
     kk: Вивьен Ли
-    kk-arab: ۆىيۆيەن لىي
+    kk_arab: ۆىيۆيەن لىي
     kk-cn: ۆىيۆيەن لىي
-    kk-cyrl: Вивьен Ли
+    kk_cyrl: Вивьен Ли
     kk-kz: Вивьен Ли
-    kk-latn: Vïvʹyen Lï
+    kk_latn: Vïvʹyen Lï
     kk-tr: Vïvʹyen Lï
     ko: 비비언 리
     ky: Ли Вивьен
@@ -187,7 +187,7 @@ dv_has_:
     nap: Vivien Leigh
     nb: Vivien Leigh
     nds: Vivien Leigh
-    nds-nl: Vivien Leigh
+    nds_nl: Vivien Leigh
     new: भिभियन ली
     nl: Vivien Leigh
     nn: Vivien Leigh
@@ -199,7 +199,7 @@ dv_has_:
     pms: Vivien Leigh
     pnb: ویوین میری ہارٹلے
     pt: Vivien Leigh
-    pt-br: Vivien Leigh
+    pt_br: Vivien Leigh
     qu: Vivien Leigh
     rm: Vivien Leigh
     ro: Vivien Leigh
@@ -215,13 +215,13 @@ dv_has_:
     so: Vivien Leigh
     sq: Vivien Leigh
     sr: Вивијен Ли
-    sr-ec: Вивијен Ли
-    sr-el: Vivijen Li
+    sr_ec: Вивијен Ли
+    sr_el: Vivijen Li
     sv: Vivien Leigh
     sw: Vivien Leigh
     ta: விவியன் லீ
     tg: Вивиен Леи
-    tg-latn: Vivien Lei
+    tg_latn: Vivien Lei
     th: วิเวียน ลีห์
     tl: Vivien Leigh
     tr: Vivien Leigh
@@ -241,13 +241,13 @@ dv_has_:
     yo: Vivien Leigh
     yue: 慧雲李
     zh: 费雯·丽
-    zh-cn: 费雯·丽
-    zh-hans: 费雯·丽
-    zh-hant: 費雯·麗
-    zh-hk: 慧雲李
+    zh_cn: 费雯·丽
+    zh_hans: 费雯·丽
+    zh_hant: 費雯·麗
+    zh_hk: 慧雲李
     zh-my: 慧云·李
-    zh-sg: 费雯·丽
-    zh-tw: 費雯·麗
+    zh_sg: 费雯·丽
+    zh_tw: 費雯·麗
     zu: Vivien Leigh
 ---
 # [[Leigh,Vivien]] 

@@ -158,7 +158,7 @@ dv_has_:
     az: Esxil
     ba: Эсхил
     be: Эсхіл
-    be-tarask: Эсхіл
+    be_tarask: Эсхіл
     bg: Есхил
     bn: ইস্কিলুস
     br: Aesc'hulos
@@ -229,7 +229,7 @@ dv_has_:
     pms: Éschilo
     pnb: ایسکلیئس
     pt: Ésquilo
-    pt-br: Ésquilo
+    pt_br: Ésquilo
     qu: Iskilu
     ro: Eschil
     ru: Эсхил

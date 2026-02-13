@@ -130,7 +130,7 @@ dv_has_:
     ban: Nihonium
     bcl: Nihonyo
     be: Унунтрый
-    be-tarask: ніхон
+    be_tarask: ніхон
     bg: нихоний
     bho: निहोनियम
     bn: নিহোনিয়াম
@@ -146,11 +146,11 @@ dv_has_:
     cy: Ununtriwm
     da: nihonium
     de: Nihonium
-    de-ch: Ununtrium
+    de_ch: Ununtrium
     el: νιχόνιο
     en: nihonium
-    en-ca: nihonium
-    en-gb: nihonium
+    en_ca: nihonium
+    en_gb: nihonium
     eo: nihonio
     es: nihonio
     et: nihoonium
@@ -217,7 +217,7 @@ dv_has_:
     pl: nihon
     ps: نيهونيوم
     pt: niónio
-    pt-br: niônio
+    pt_br: niônio
     qu: Ununtriyu
     ro: nihoniu
     ru: нихоний
@@ -252,13 +252,13 @@ dv_has_:
     yo: Ununtrium
     yue: 鉨
     zh: 鉨
-    zh-cn: 鿭
-    zh-hans: 鿭
-    zh-hant: 鉨
-    zh-hk: 鉨
+    zh_cn: 鿭
+    zh_hans: 鿭
+    zh_hant: 鉨
+    zh_hk: 鉨
     zh-my: 鿭
-    zh-sg: 鿭
-    zh-tw: 鉨
+    zh_sg: 鿭
+    zh_tw: 鉨
     zu: UmNihombi
 ---
 # [[Nihonium]] 

@@ -54,7 +54,7 @@ dv_has_:
     as: বেদান্ত
     az: Vedanta
     be: Веданта
-    be-tarask: вэданта
+    be_tarask: вэданта
     bg: Веданта
     bho: वेदांत
     bn: বেদান্ত
@@ -63,8 +63,8 @@ dv_has_:
     de: Vedanta
     el: Βεντάντα
     en: Vedanta
-    en-ca: Vedanta
-    en-gb: Vedanta
+    en_ca: Vedanta
+    en_gb: Vedanta
     eo: Vedanto
     es: Vedanta
     et: Vedaanta
@@ -105,7 +105,7 @@ dv_has_:
     pms: Vedanta
     ps: ویدانتا
     pt: Vedanta
-    pt-br: Vedanta
+    pt_br: Vedanta
     ru: Веданта
     sa: उत्तर-मीमांसा
     sco: Vedanta

@@ -143,7 +143,7 @@ dv_has_:
     ba: Приматтар
     ban: Primata
     be: прыматы
-    be-tarask: прыматы
+    be_tarask: прыматы
     bg: примати
     bn: প্রাইমেট
     br: Primated
@@ -160,8 +160,8 @@ dv_has_:
     diq: Primat
     el: πρωτεύοντα
     en: primate
-    en-ca: Primate
-    en-gb: primate
+    en_ca: Primate
+    en_gb: primate
     eo: Primatoj
     es: primates
     et: Esikloomalised
@@ -197,7 +197,7 @@ dv_has_:
     koi: Приматтэз
     ks: نَر وانٛدَر
     ku: Prîmat
-    ku-latn: Prîmat
+    ku_latn: Prîmat
     kw: Prymat
     ky: Приматтар
     la: Primates
@@ -236,7 +236,7 @@ dv_has_:
     pnb: آگو مانس
     ps: پرايميټ
     pt: primatas
-    pt-br: primata
+    pt_br: primata
     qu: Makiyuq
     ro: primate
     ru: приматы
@@ -275,14 +275,14 @@ dv_has_:
     yue: 靈長目
     zgh: ⵉⵎⵣⵡⵓⵔⴰ/ⵜⵉⴳⵊⴷⴰⵏⵉⵏ
     zh: 灵长目
-    zh-cn: 灵长目
-    zh-hans: 灵长目
-    zh-hant: 靈長目
-    zh-hk: 靈長目
-    zh-mo: 靈長目
+    zh_cn: 灵长目
+    zh_hans: 灵长目
+    zh_hant: 靈長目
+    zh_hk: 靈長目
+    zh_mo: 靈長目
     zh-my: 灵长目
-    zh-sg: 灵长目
-    zh-tw: 靈長目
+    zh_sg: 灵长目
+    zh_tw: 靈長目
     zu: Ezibuchophokhulu
 ---
 # [[Primates]] 

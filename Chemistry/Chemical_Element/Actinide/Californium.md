@@ -139,7 +139,7 @@ dv_has_:
     ba: Калифорний
     ban: Kalifornium
     be: Каліфорній
-    be-tarask: Каліфорн
+    be_tarask: Каліфорн
     bg: калифорний
     bho: कैलिफोर्नियम
     bn: ক্যালিফোর্নিয়াম
@@ -155,11 +155,11 @@ dv_has_:
     cy: Califforniwm
     da: californium
     de: Californium
-    de-ch: Californium
+    de_ch: Californium
     el: καλιφόρνιο
     en: californium
-    en-ca: Californium
-    en-gb: californium
+    en_ca: Californium
+    en_gb: californium
     eo: kaliforniumo
     es: californio
     et: kalifornium
@@ -233,7 +233,7 @@ dv_has_:
     pnb: کیلیفورنیم
     ps: کاليفورنيوم
     pt: califórnio
-    pt-br: califórnio
+    pt_br: califórnio
     qu: Kalifornyu
     ro: californiu
     ru: калифорний
@@ -247,7 +247,7 @@ dv_has_:
     sl: kalifornij
     sq: kaliforniumi
     sr: калифорнијум
-    sr-ec: Калифорнијум
+    sr_ec: Калифорнијум
     stq: Californium
     su: Kalifornium
     sv: californium
@@ -272,14 +272,14 @@ dv_has_:
     yo: Kalifọ́rníọ̀m
     yue: 鉲
     zh: 锎
-    zh-cn: 锎
-    zh-hans: 锎
-    zh-hant: 鉲
-    zh-hk: 鉲
-    zh-mo: 鉲
+    zh_cn: 锎
+    zh_hans: 锎
+    zh_hant: 鉲
+    zh_hk: 鉲
+    zh_mo: 鉲
     zh-my: 锎
-    zh-sg: 锎
-    zh-tw: 鉲
+    zh_sg: 锎
+    zh_tw: 鉲
     zu: UmNgcalife
   number_of_:
     period: 7

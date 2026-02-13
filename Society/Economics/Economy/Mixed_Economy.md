@@ -70,7 +70,7 @@ dv_has_:
     ast: Economía mesta
     az: Qarışıq iqtisadiyyat
     be: змяшаная эканоміка
-    be-tarask: зьмяшаная эканоміка
+    be_tarask: зьмяшаная эканоміка
     bg: Смесена икономика
     bn: মিশ্র অর্থনীতি
     ca: economia mixta
@@ -97,11 +97,11 @@ dv_has_:
     ja: 混合経済
     ka: შერეული ეკონომიკა
     kk: Аралас экономика
-    kk-arab: ارالاس ەكونومىيكا
+    kk_arab: ارالاس ەكونومىيكا
     kk-cn: ارالاس ەكونومىيكا
-    kk-cyrl: Аралас экономика
+    kk_cyrl: Аралас экономика
     kk-kz: Аралас экономика
-    kk-latn: Aralas ékonomïka
+    kk_latn: Aralas ékonomïka
     kk-tr: Aralas ékonomïka
     kn: ಮಿಶ್ರ ಆರ್ಥಿಕ ವ್ಯವಸ್ಥೆ
     ko: 혼합 경제
@@ -131,12 +131,12 @@ dv_has_:
     vi: Kinh tế hỗn hợp
     yue: 混合經濟
     zh: 混合经济
-    zh-cn: 混合经济
-    zh-hans: 混合经济
-    zh-hant: 混合經濟
-    zh-hk: 混合經濟
-    zh-sg: 混合经济
-    zh-tw: 混合經濟
+    zh_cn: 混合经济
+    zh_hans: 混合经济
+    zh_hant: 混合經濟
+    zh_hk: 混合經濟
+    zh_sg: 混合经济
+    zh_tw: 混合經濟
 ---
 # [[Mixed_Economy]] 
 

@@ -81,11 +81,11 @@ dv_has_:
     ja: 腹毛動物
     ka: გასტროტრიქები
     kk: Құрсақкірпікшелі құрттар
-    kk-arab: قۇرساقكىرپىكشەلى قۇرتتار
+    kk_arab: قۇرساقكىرپىكشەلى قۇرتتار
     kk-cn: قۇرساقكىرپىكشەلى قۇرتتار
-    kk-cyrl: Құрсақкірпікшелі құрттар
+    kk_cyrl: Құрсақкірпікшелі құрттар
     kk-kz: Құрсақкірпікшелі құрттар
-    kk-latn: Qursaqkirpikşeli qurttar
+    kk_latn: Qursaqkirpikşeli qurttar
     kk-tr: Qursaqkirpikşeli qurttar
     kn: ಗ್ಯಾಸ್ಟ್ರೋಟ್ರೈಕ
     ko: 복모동물
@@ -102,7 +102,7 @@ dv_has_:
     oc: Gastrotricha
     pl: Brzuchorzęski
     pt: Gastrotricha
-    pt-br: Gastrotricha
+    pt_br: Gastrotricha
     ro: Gastrotrihe
     ru: брюхоресничные черви
     sco: Gastrotrich
@@ -110,8 +110,8 @@ dv_has_:
     sl: trebuhodlačniki
     sq: Gastrotricha
     sr: Gastrotricha
-    sr-ec: Gastrotricha
-    sr-el: Gastrotricha
+    sr_ec: Gastrotricha
+    sr_el: Gastrotricha
     sv: bukhårsdjur
     th: แกสโทรทริชา
     tl: Gastrotricha
@@ -122,12 +122,12 @@ dv_has_:
     war: Gastrotricha
     wuu: 腹毛动物门
     zh: 腹毛动物门
-    zh-cn: 腹毛动物门
-    zh-hans: 腹毛动物门
-    zh-hant: 腹毛動物門
-    zh-hk: 腹毛動物門
-    zh-sg: 腹毛动物门
-    zh-tw: 腹毛動物門
+    zh_cn: 腹毛动物门
+    zh_hans: 腹毛动物门
+    zh_hant: 腹毛動物門
+    zh_hk: 腹毛動物門
+    zh_sg: 腹毛动物门
+    zh_tw: 腹毛動物門
 ---
 # [[Gastrotricha]] 
 

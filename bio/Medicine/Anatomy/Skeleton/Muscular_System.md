@@ -89,7 +89,7 @@ dv_has_:
     ay: Janchi kamana
     ba: Мускул системаһы
     be: мышачная сістэма
-    be-tarask: цяглічная сыстэма
+    be_tarask: цяглічная сыстэма
     bg: Мускулна система
     bn: পেশী তন্ত্র
     br: Reizhiad kigennel
@@ -99,12 +99,12 @@ dv_has_:
     cs: svalová soustava
     cy: System gyhyrol
     de: Muskulatur
-    de-ch: Muskulatur
+    de_ch: Muskulatur
     dv: މަސްތަކުގެ ނިޒާމް
     el: Μυικό σύστημα
     en: muscular system
-    en-ca: Muscular system
-    en-gb: muscular system
+    en_ca: Muscular system
+    en_gb: muscular system
     eo: muskola sistemo
     es: sistema muscular
     eu: muskulu-sistema
@@ -127,13 +127,13 @@ dv_has_:
     kk: Бұлшықеттердің маңызы мен құрылысы
     ko: 근육계통
     ku: koendama masûlke
-    ku-latn: koendama masûlkeyê
+    ku_latn: koendama masûlkeyê
     ky: булчуң тутуму
     la: Musculi
     min: Sistem otot
     ml: പേശി വ്യവസ്ഥ
     ms: sistem otot
-    ms-arab: سيستم اوتوت
+    ms_arab: سيستم اوتوت
     nan: Kin-bah hē-thóng
     nb: Muskelsystem
     nl: spierstelsel
@@ -142,14 +142,14 @@ dv_has_:
     om: Sirna maashaalee
     pl: Układ mięśniowy
     pt: sistema muscular
-    pt-br: Sistema muscular
+    pt_br: Sistema muscular
     ro: Sistemul muscular
     ru: мышечная система
     sh: Mišićni sistem
     sl: mišičje
     sq: Sistemi muskulor
     sr: Мишићни систем
-    sr-ec: Мишићни систем
+    sr_ec: Мишићни систем
     ta: Muscular system
     tl: Sistemang pangkalamnan
     tr: Kas sistemi

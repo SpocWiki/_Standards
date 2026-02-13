@@ -51,8 +51,8 @@ dv_has_:
     cs: kyjonožci
     de: Seeskorpione
     en: eurypterid
-    en-ca: eurypterid
-    en-gb: eurypterid
+    en_ca: eurypterid
+    en_gb: eurypterid
     es: Eurypterida
     et: Eurüpteriidid
     eu: Eurypterida
@@ -92,10 +92,10 @@ dv_has_:
     vi: Eurypterida
     war: Eurypterida
     zh: 广翅鲎目
-    zh-cn: 广翅鲎目
-    zh-hans: 广翅鲎目
-    zh-hant: 广翅鲎
-    zh-tw: 廣翅鱟目
+    zh_cn: 广翅鲎目
+    zh_hans: 广翅鲎目
+    zh_hant: 广翅鲎
+    zh_tw: 廣翅鱟目
 ---
 # [[Sea_Scorpion]]
 

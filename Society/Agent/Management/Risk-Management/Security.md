@@ -109,7 +109,7 @@ dv_has_:
     az: təhlükəsizlik
     ba: именлек
     be: бяспека
-    be-tarask: абароненасьць
+    be_tarask: абароненасьць
     bg: Сигурност
     bn: নিরাপত্তা
     br: Surentez
@@ -120,11 +120,11 @@ dv_has_:
     cs: bezpečnost
     da: sikkerhed
     de: Sicherheit
-    de-ch: Sicherheit
+    de_ch: Sicherheit
     el: ασφάλεια
     en: security
-    en-ca: Security
-    en-gb: security
+    en_ca: Security
+    en_gb: security
     eo: sekureco
     es: seguridad
     et: julgeolek
@@ -163,7 +163,7 @@ dv_has_:
     pa: ਸੁਰੱਖਿਆ
     pl: bezpieczeństwo
     pt: segurança
-    pt-br: segurança
+    pt_br: segurança
     ro: securitate (personală sau națională)
     ru: безопасность
     se: sihkarvuohta
@@ -182,7 +182,7 @@ dv_has_:
     tl: Seguridad
     tr: güvenlik
     tt: куркынычсызлык
-    tt-cyrl: куркынычсызлык
+    tt_cyrl: куркынычсызлык
     uk: безпека
     ur: سیکیوریٹی
     vec: seguresa
@@ -192,14 +192,14 @@ dv_has_:
     yo: ètò àbò
     yue: 保安
     zh: 保安
-    zh-cn: 保安
-    zh-hans: 保安
-    zh-hant: 保安
-    zh-hk: 保安
-    zh-mo: 保安
+    zh_cn: 保安
+    zh_hans: 保安
+    zh_hant: 保安
+    zh_hk: 保安
+    zh_mo: 保安
     zh-my: 保安
-    zh-sg: 保安
-    zh-tw: 保安
+    zh_sg: 保安
+    zh_tw: 保安
 ---
 # [[Security]] 
 

@@ -169,7 +169,7 @@ dv_has_:
     az: Volfqanq Pauli
     azb: ولفگانگ پاولی
     be: Вольфганг Паўлі
-    be-tarask: Вольфганг Паўлі
+    be_tarask: Вольфганг Паўлі
     bg: Волфганг Паули
     bn: ভোল্ফগাং পাউলি
     bs: Wolfgang Pauli
@@ -180,11 +180,11 @@ dv_has_:
     da: Wolfgang Pauli
     dag: Wolfgang Pauli
     de: Wolfgang Pauli
-    de-ch: Wolfgang Pauli
+    de_ch: Wolfgang Pauli
     el: Βόλφγκανγκ Πάουλι
     en: Wolfgang Pauli
-    en-ca: Wolfgang Pauli
-    en-gb: Wolfgang Pauli
+    en_ca: Wolfgang Pauli
+    en_gb: Wolfgang Pauli
     en-us: Wolfgang Pauli,
     eo: Wolfgang Pauli
     es: Wolfgang Ernst Pauli
@@ -235,7 +235,7 @@ dv_has_:
     pms: Wolfgang Pauli
     pnb: ولفگانگ پالی
     pt: Wolfgang Pauli
-    pt-br: Wolfgang Pauli
+    pt_br: Wolfgang Pauli
     qu: Wolfgang Pauli
     rm: Wolfgang Pauli
     ro: Wolfgang Pauli
@@ -267,9 +267,9 @@ dv_has_:
     yo: Wolfgang Pauli
     yue: 鮑利
     zh: 沃尔夫冈·泡利
-    zh-cn: 沃尔夫冈·泡利
-    zh-hans: 沃尔夫冈·泡利
-    zh-hant: 沃爾夫岡·泡利
+    zh_cn: 沃尔夫冈·泡利
+    zh_hans: 沃尔夫冈·泡利
+    zh_hant: 沃爾夫岡·泡利
 ---
 # [[Pauli,Wolfgang]] 
 

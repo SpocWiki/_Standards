@@ -102,7 +102,7 @@ dv_has_:
     ar: فاصمة منصهرة
     ast: Fusible
     be: электрычны засцерагальнік
-    be-tarask: забясьпечнік
+    be_tarask: забясьпечнік
     bg: Електрически предпазител
     bs: Električni osigurač
     ca: fusible
@@ -132,11 +132,11 @@ dv_has_:
     ja: 電力ヒューズ
     jv: Sékring
     kk: Сақтандырғыш
-    kk-arab: ساقتاندىرعىش
+    kk_arab: ساقتاندىرعىش
     kk-cn: ساقتاندىرعىش
-    kk-cyrl: Сақтандырғыш
+    kk_cyrl: Сақтандырғыш
     kk-kz: Сақтандырғыш
-    kk-latn: Saqtandırğış
+    kk_latn: Saqtandırğış
     kk-tr: Saqtandırğış
     kn: ಎಲೆಕ್ಟ್ರಿಕ್ ಫ್ಯೂಸ್
     ko: 퓨즈
@@ -163,8 +163,8 @@ dv_has_:
     smj: siekrik
     smn: sudetteijee
     sr: електрични осигурач
-    sr-ec: Електрични осигурач
-    sr-el: Električni osigurač
+    sr_ec: Електрични осигурач
+    sr_el: Električni osigurač
     sv: säkring
     sw: Fyuzi
     ta: உருகுக்கம்பி
@@ -177,12 +177,12 @@ dv_has_:
     yue: 菲士
     za: baujyenjswh
     zh: 保險絲
-    zh-cn: 保险丝
-    zh-hans: 保险丝
-    zh-hant: 保險絲
-    zh-hk: 保險絲
-    zh-sg: 保险丝
-    zh-tw: 保險絲
+    zh_cn: 保险丝
+    zh_hans: 保险丝
+    zh_hant: 保險絲
+    zh_hk: 保險絲
+    zh_sg: 保险丝
+    zh_tw: 保險絲
 ---
 # [[Fuse]] 
 

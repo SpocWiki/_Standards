@@ -101,7 +101,7 @@ dv_has_:
     az: Kimyəvi kinetika
     ba: химик кинетикаһы
     be: Хімічная кінетыка
-    be-tarask: хімічная кінэтыка
+    be_tarask: хімічная кінэтыка
     bg: Химична кинетика
     bn: রাসায়নিক গতিবিদ্যা
     bs: Hemijska kinetika
@@ -148,8 +148,8 @@ dv_has_:
     sk: Chemická kinetika
     sl: Kemijska kinetika
     sr: хемијска кинетика
-    sr-ec: Хемијска кинетика
-    sr-el: Hemijska kinetika
+    sr_ec: Хемијска кинетика
+    sr_el: Hemijska kinetika
     sv: kinetik
     ta: வேதி வினைவேகவியல்
     te: రసాయన గతి శాస్త్రం
@@ -163,12 +163,12 @@ dv_has_:
     vi: Động học hóa học
     yue: 化學動力學
     zh: 化学动力学
-    zh-cn: 化学动力学
-    zh-hans: 化学动力学
-    zh-hant: 化學動力學
-    zh-hk: 化學動力學
-    zh-sg: 化学动力学
-    zh-tw: 化學動力學
+    zh_cn: 化学动力学
+    zh_hans: 化学动力学
+    zh_hant: 化學動力學
+    zh_hk: 化學動力學
+    zh_sg: 化学动力学
+    zh_tw: 化學動力學
 ---
 # [[Chemical_Kinetics]] 
 

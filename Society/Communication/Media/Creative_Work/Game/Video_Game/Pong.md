@@ -49,7 +49,7 @@ dv_has_:
     az: Pong (video oyun, 1972)
     bar: Pong
     be: Pong
-    be-tarask: Pong
+    be_tarask: Pong
     bew: Pong
     bjn: Pong
     ca: PONG
@@ -102,12 +102,12 @@ dv_has_:
     wuu: 乓
     yue: 乓
     zh: 乓
-    zh-cn: 乓
-    zh-hans: 乓
-    zh-hant: 乓
-    zh-hk: 乓
-    zh-sg: 乓
-    zh-tw: 乓
+    zh_cn: 乓
+    zh_hans: 乓
+    zh_hant: 乓
+    zh_hk: 乓
+    zh_sg: 乓
+    zh_tw: 乓
 ---
 # [[Pong]] 
 

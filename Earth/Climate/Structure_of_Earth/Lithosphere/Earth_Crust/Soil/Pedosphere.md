@@ -61,7 +61,7 @@ dv_has_:
     ast: Pedosfera
     az: Pedosfer
     be: педасфера
-    be-tarask: пэдасфэра
+    be_tarask: пэдасфэра
     bg: Педосфера
     ca: pedosfera
     cs: pedosféra
@@ -99,17 +99,17 @@ dv_has_:
     sl: pedosfera
     sq: Pedosfera
     sr: Педосфера
-    sr-ec: педосфера
-    sr-el: pedosfera
+    sr_ec: педосфера
+    sr_el: pedosfera
     sv: Pedosfären
     tr: Pedosfer
     uk: педосфера
     war: Pedospera
     yue: 土壤圈
     zh: 土壤圈
-    zh-cn: 土壤圈
-    zh-hans: 土壤圈
-    zh-hant: 土圈
+    zh_cn: 土壤圈
+    zh_hans: 土壤圈
+    zh_hant: 土圈
 ---
 # [[Pedosphere]] 
 

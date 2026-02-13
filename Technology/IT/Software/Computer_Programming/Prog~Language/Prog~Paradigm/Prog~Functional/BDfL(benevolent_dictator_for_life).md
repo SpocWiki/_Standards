@@ -4,13 +4,13 @@ dv_has_:
   name_:
     ar: دكتاتور خيري مدى الحياة
     be: Велікадушны пажыццёвы дыктатар
-    be-tarask: дабрачынны пажыцьцёвы дыктатар
+    be_tarask: дабрачынны пажыцьцёвы дыктатар
     bn: বেনাভোলেন্ট ডিক্টেটর ফর লাইফ
     ca: Dictador Benevolent de per vida
     de: Benevolent Dictator for Life
     en: Benevolent Dictator for Life
-    en-ca: Benevolent Dictator for Life
-    en-gb: Benevolent Dictator for Life
+    en_ca: Benevolent Dictator for Life
+    en_gb: Benevolent Dictator for Life
     eo: dumviva bonvola diktatoro
     es: Benevolent Dictator for Life
     fa: دیکتاتور خیرخواه جاویدان
@@ -26,7 +26,7 @@ dv_has_:
     oc: Benevolent Dictator for Life
     pl: Benevolent Dictator for Life
     pt: Benevolent Dictator for Life
-    pt-br: Benevolent Dictator for Life
+    pt_br: Benevolent Dictator for Life
     ru: Великодушный пожизненный диктатор
     sl: Benevolent Dictator for Life
     sv: Benevolent Dictator for Life

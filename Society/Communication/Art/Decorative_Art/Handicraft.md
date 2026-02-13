@@ -120,7 +120,7 @@ dv_has_:
     azb: ال ایشلری
     ba: Халыҡ сәнғәте кәсептәре
     be: народны мастацкі промысел
-    be-tarask: традыцыйны народны промысел
+    be_tarask: традыцыйны народны промысел
     bg: Занаят
     bn: হস্তশিল্প
     bs: Zanat
@@ -128,12 +128,12 @@ dv_has_:
     cs: ruční práce
     da: kunsthåndværk
     de: Kunsthandwerk
-    de-ch: Kunsthandwerk
+    de_ch: Kunsthandwerk
     dtp: Tinunturu
     el: χειροτεχνία
     en: handicraft
-    en-ca: Handicraft
-    en-gb: handicraft
+    en_ca: Handicraft
+    en_gb: handicraft
     eo: metiarto
     es: artesanía
     et: Käsitöö
@@ -166,7 +166,7 @@ dv_has_:
     ml: കരകൗശലം
     mr: हस्तकला
     ms: kraf tangan
-    ms-arab: کرف تاڠن
+    ms_arab: کرف تاڠن
     nan: Chhiú-gē
     nb: kunsthåndverk
     nl: ambachtelijk
@@ -176,7 +176,7 @@ dv_has_:
     or: ହସ୍ତଶିଳ୍ପ
     pl: rzemiosło artystyczne
     pt: artesanato
-    pt-br: artesanato
+    pt_br: artesanato
     qu: Maki kapchiy
     ro: lucru manual
     ru: народный художественный промысел
@@ -189,8 +189,8 @@ dv_has_:
     sl: rokodelstvo
     sq: Artizanati
     sr: занат
-    sr-ec: занат
-    sr-el: zanat
+    sr_ec: занат
+    sr_el: zanat
     sv: konsthantverk
     sw: Kazi ya mikono
     ta: கைத்தொழில்

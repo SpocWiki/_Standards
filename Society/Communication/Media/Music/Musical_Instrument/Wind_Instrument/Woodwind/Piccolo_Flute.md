@@ -63,7 +63,7 @@ dv_has_:
     ast: flautín
     az: Pikkolo fleyta
     be: флейта-пікала
-    be-tarask: пікала
+    be_tarask: пікала
     bg: Пиколо
     bs: Pikolo
     ca: flautí
@@ -119,8 +119,8 @@ dv_has_:
     vi: Piccolo flute
     yue: 短笛
     zh: 短笛
-    zh-hk: 短笛
-    zh-tw: 短笛
+    zh_hk: 短笛
+    zh_tw: 短笛
 ---
 # [[Piccolo_Flute]] 
 

@@ -69,7 +69,7 @@ dv_has_:
     arz: جارون لانييه
     ast: Jaron Lanier
     az: Jaron Zepel Lanye
-    be-tarask: Джэйран Ланіер
+    be_tarask: Джэйран Ланіер
     bg: Джейрън Ланиър
     ca: Jaron Lanier
     cs: Jaron Lanier
@@ -78,8 +78,8 @@ dv_has_:
     dag: Jaron Lanier
     de: Jaron Lanier
     en: Jaron Lanier
-    en-ca: Jaron Lanier
-    en-gb: Jaron Lanier
+    en_ca: Jaron Lanier
+    en_gb: Jaron Lanier
     eo: Jaron Lanier
     es: Jaron Lanier
     eu: Jaron Lanier
@@ -104,7 +104,7 @@ dv_has_:
     pap: Jaron Lanier
     pl: Jaron Lanier
     pt: Jaron Lanier
-    pt-br: Jaron Lanier
+    pt_br: Jaron Lanier
     ru: Джарон Ланье
     sl: Jaron Lanier
     sq: Jaron Lanier
@@ -115,9 +115,9 @@ dv_has_:
     war: Jaron Lanier
     yue: 傑倫·拉尼爾
     zh: 傑倫·藍尼爾
-    zh-cn: 杰伦·拉尼尔
-    zh-hans: 杰伦·拉尼尔
-    zh-hant: 傑倫·拉尼爾
+    zh_cn: 杰伦·拉尼尔
+    zh_hans: 杰伦·拉尼尔
+    zh_hant: 傑倫·拉尼爾
 ---
 # [[Jaron_Lanier]] 
 

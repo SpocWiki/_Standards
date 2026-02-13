@@ -62,7 +62,7 @@ dv_has_:
     ar: مبرهنة الأعداد الأولية
     ast: Teorema de los númberos primos
     ba: ябай һандарҙың таралыуы тураһында теорема
-    be-tarask: тэарэма аб простым ліку
+    be_tarask: тэарэма аб простым ліку
     bg: Теорема за разпределението на простите числа
     bn: মৌলিক সংখ্যা উপপাদ্য
     ca: Teorema dels nombre primers
@@ -92,7 +92,7 @@ dv_has_:
     pl: twierdzenie o liczbach pierwszych
     pms: Teorema dij nùmer prim
     pt: teorema dos números primos
-    pt-br: teorema dos números primos
+    pt_br: teorema dos números primos
     ro: Teorema numerelor prime
     ru: теорема о распределении простых чисел
     scn: Tiurema dî nùmmura primi
@@ -108,12 +108,12 @@ dv_has_:
     wuu: 质数定理
     yue: 質數定理
     zh: 素數定理
-    zh-cn: 素数定理
-    zh-hans: 素数定理
-    zh-hant: 質數定理
-    zh-hk: 質數定理
-    zh-sg: 素数定理
-    zh-tw: 質數定理
+    zh_cn: 素数定理
+    zh_hans: 素数定理
+    zh_hant: 質數定理
+    zh_hk: 質數定理
+    zh_sg: 素数定理
+    zh_tw: 質數定理
 ---
 # [[Prime_Number_Theorem]] 
 

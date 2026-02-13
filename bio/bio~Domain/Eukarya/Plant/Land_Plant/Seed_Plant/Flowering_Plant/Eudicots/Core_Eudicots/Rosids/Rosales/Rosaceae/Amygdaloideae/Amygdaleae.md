@@ -41,7 +41,7 @@ dv_has_:
     oc: Amygdaleae
     pl: Amygdaleae
     pt: Amygdaleae
-    pt-br: Amygdaleae
+    pt_br: Amygdaleae
     ro: Amygdaleae
     ru: Amygdaleae
     sl: Amygdaleae

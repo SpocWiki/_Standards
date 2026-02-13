@@ -215,7 +215,7 @@ dv_has_:
     az: Dmitri Şostakoviç
     ba: Шостакович Дмитрий Дмитриевич
     be: Дзмітрый Дзмітрыевіч Шастаковіч
-    be-tarask: Дзьмітры Шастаковіч
+    be_tarask: Дзьмітры Шастаковіч
     bg: Дмитрий Шостакович
     br: Dmitriy Chostakovitch
     bs: Dmitrij Šostakovič
@@ -226,7 +226,7 @@ dv_has_:
     de: Dmitri Dmitrijewitsch Schostakowitsch
     el: Ντμίτρι Σοστακόβιτς
     en: Dmitri Shostakovich
-    en-gb: Dmitri Shostakovich
+    en_gb: Dmitri Shostakovich
     eo: Dmitrij Ŝostakoviĉ
     es: Dmitri Shostakóvich
     et: Dmitri Šostakovitš
@@ -270,7 +270,7 @@ dv_has_:
     pl: Dmitrij Szostakowicz
     pms: Dmitrij Šostakovič
     pt: Dmitri Shostakovitch
-    pt-br: Dmitri Shostakovitch
+    pt_br: Dmitri Shostakovitch
     qu: Dmitri Shostakovich
     ro: Dmitri Șostakovici
     ru: Дмитрий Шостакович
@@ -294,8 +294,8 @@ dv_has_:
     xmf: დიმიტრი შოსტაკოვიჩი
     yue: 德米特里·蕭斯達高維契
     zh: 德米特里·德米特里耶维奇·肖斯塔科维奇
-    zh-cn: 德米特里·肖斯塔科维奇
-    zh-hans: 德米特里·肖斯塔科维奇
+    zh_cn: 德米特里·肖斯塔科维奇
+    zh_hans: 德米特里·肖斯塔科维奇
 ---
 # [[Shostakovich,Dmitri]] 
 

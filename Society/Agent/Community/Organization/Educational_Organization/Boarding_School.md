@@ -86,7 +86,7 @@ dv_has_:
     ar: مدرسة داخلية
     ast: internáu
     be: школа-інтэрнат
-    be-tarask: школа-інтэрнат
+    be_tarask: школа-інтэрнат
     bg: Пансион
     bn: আবাসিক বিদ্যালয়
     ca: internat
@@ -94,7 +94,7 @@ dv_has_:
     cy: ysgol breswyl
     da: kostskole
     de: Internat
-    de-ch: Internat
+    de_ch: Internat
     el: οικοτροφείο
     en: boarding school
     eo: internulejo
@@ -135,7 +135,7 @@ dv_has_:
     nn: Kostskule
     pl: szkoła z internatem
     pt: internato
-    pt-br: Internato
+    pt_br: Internato
     ro: Internat
     ru: школа-интернат
     sco: buirdin schuil
@@ -146,21 +146,21 @@ dv_has_:
     sms: aazztõkškooul
     sq: Shkollat konvikt
     sr: интернат
-    sr-ec: интернат
-    sr-el: internat
+    sr_ec: интернат
+    sr_el: internat
     sv: internatskola
     th: โรงเรียนประจำ
     tr: yatılı okul
     tt: интернат-мәктәп
-    tt-cyrl: интернат-мәктәп
+    tt_cyrl: интернат-мәктәп
     uk: школа-інтернат
     ur: اقامتی مدرسہ
     uz: Maktab-internat
     vi: trường nội trú
     yue: 寄宿學校
     zh: 寄宿学校
-    zh-cn: 寄宿学校
-    zh-hant: 寄宿學校
+    zh_cn: 寄宿学校
+    zh_hant: 寄宿學校
 ---
 # [[Boarding_School]] 
 

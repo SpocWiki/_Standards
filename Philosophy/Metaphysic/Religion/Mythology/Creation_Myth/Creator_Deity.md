@@ -82,7 +82,7 @@ dv_has_:
     ar: معبود خالق
     ast: deidá creadora
     az: Əl-Xaliq
-    be-tarask: Бог-творца
+    be_tarask: Бог-творца
     bho: सृष्टिकर्ता
     bn: সৃষ্টিকর্তা
     ca: deïtat creadora
@@ -92,8 +92,8 @@ dv_has_:
     de: Schöpfergottheit
     diq: Car
     en: creator deity
-    en-ca: creator deity
-    en-gb: creator deity
+    en_ca: creator deity
+    en_gb: creator deity
     eo: kreinta dio
     es: deidad creadora
     eu: Jainko sortzaile
@@ -122,7 +122,7 @@ dv_has_:
     os: Хуыцау-Сфæлдисæг
     pl: bóstwo stworzenia
     pt: divindade criadora
-    pt-br: divindade criadora
+    pt_br: divindade criadora
     ro: divinitate creatoare
     ru: Бог-Творец
     sk: stvoriteľ

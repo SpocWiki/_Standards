@@ -120,7 +120,7 @@ dv_has_:
     ast: lente
     az: Linza
     be: лінза
-    be-tarask: лінза
+    be_tarask: лінза
     bg: Леща
     bho: लेंस
     bn: লেন্স
@@ -186,7 +186,7 @@ dv_has_:
     pl: soczewka
     pms: Lent
     pt: lente
-    pt-br: lente
+    pt_br: lente
     qu: Linti
     ro: lentilă
     ru: линза

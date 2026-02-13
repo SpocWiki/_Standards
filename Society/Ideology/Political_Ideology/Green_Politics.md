@@ -81,7 +81,7 @@ dv_has_:
     ast: ambientalismu
     az: yaşıl siyasət
     be: зялёная палітыка
-    be-tarask: зялёная палітыка
+    be_tarask: зялёная палітыка
     bg: зелена политика
     br: ekologiezh politikel
     bs: zelena politika
@@ -91,11 +91,11 @@ dv_has_:
     cy: gwleidyddiaeth werdd
     da: grøn ideologi
     de: grüne Politik
-    de-ch: Grüne Politik
+    de_ch: Grüne Politik
     el: οικολογικό κίνημα
     en: green politics
-    en-ca: green politics
-    en-gb: green politics
+    en_ca: green politics
+    en_gb: green politics
     eo: verda politiko
     es: política verde
     et: roheline ideoloogia
@@ -124,7 +124,7 @@ dv_has_:
     mk: Зелена политика
     ml: ജൈവരാഷ്ട്രീയം
     ms: politik hijau
-    ms-arab: ڤوليتيک هيجاو
+    ms_arab: ڤوليتيک هيجاو
     nan: Le̍k-sek chèng-tī
     nb: grønn ideologi
     nl: groene politiek
@@ -132,7 +132,7 @@ dv_has_:
     pa: ਗ੍ਰੀਨ ਰਾਜਨੀਤੀ
     pl: zielona polityka
     pt: política verde
-    pt-br: política verde
+    pt_br: política verde
     ro: politica verde
     ru: зелёная политика
     sco: green politics
@@ -153,14 +153,14 @@ dv_has_:
     vi: chính trị xanh
     yue: 綠色政治
     zh: 綠色政治
-    zh-cn: 绿色政治
-    zh-hans: 绿色政治
-    zh-hant: 綠色政治
-    zh-hk: 綠色政治
-    zh-mo: 綠色政治
+    zh_cn: 绿色政治
+    zh_hans: 绿色政治
+    zh_hant: 綠色政治
+    zh_hk: 綠色政治
+    zh_mo: 綠色政治
     zh-my: 绿色政治
-    zh-sg: 绿色政治
-    zh-tw: 綠色政治
+    zh_sg: 绿色政治
+    zh_tw: 綠色政治
 ---
 # [[Green_Politics]] 
 

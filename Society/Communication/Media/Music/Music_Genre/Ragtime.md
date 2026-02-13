@@ -52,7 +52,7 @@ dv_has_:
     ast: Ragtime
     az: Reqtaym
     be: Рэгтайм
-    be-tarask: Рэгтайм
+    be_tarask: Рэгтайм
     bg: Рагтайм
     br: Ragtime
     ca: Ragtime
@@ -106,12 +106,12 @@ dv_has_:
     vi: Ragtime
     yue: 散拍
     zh: 拉格泰姆
-    zh-cn: 拉格泰姆
-    zh-hans: 拉格泰姆
-    zh-hant: 拉格泰姆
-    zh-hk: 拉格泰姆
-    zh-sg: 拉格泰姆
-    zh-tw: 拉格泰姆
+    zh_cn: 拉格泰姆
+    zh_hans: 拉格泰姆
+    zh_hant: 拉格泰姆
+    zh_hk: 拉格泰姆
+    zh_sg: 拉格泰姆
+    zh_tw: 拉格泰姆
 ---
 # [[Ragtime]] 
 

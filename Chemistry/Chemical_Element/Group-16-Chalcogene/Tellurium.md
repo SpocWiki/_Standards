@@ -161,7 +161,7 @@ dv_has_:
     ban: Téllurium
     bcl: Teluryo
     be: Тэлур
-    be-tarask: тэлюр
+    be_tarask: тэлюр
     bg: телур
     bho: टेल्यूरियम
     bn: টেলুরিয়াম
@@ -256,7 +256,7 @@ dv_has_:
     pnb: ٹیلوریم
     ps: تېلوريوم
     pt: telúrio
-    pt-br: telúrio
+    pt_br: telúrio
     qu: Teluryu
     ro: telur
     ru: теллур
@@ -272,7 +272,7 @@ dv_has_:
     so: Teluriyaam
     sq: Teluri
     sr: телур
-    sr-ec: Телур
+    sr_ec: Телур
     stq: Tellur
     su: Telurium
     sv: tellur
@@ -297,9 +297,9 @@ dv_has_:
     yo: Tellurium
     yue: 碲
     zh: 碲
-    zh-hans: 碲
-    zh-hant: 碲
-    zh-tw: 碲
+    zh_hans: 碲
+    zh_hant: 碲
+    zh_tw: 碲
     zu: InTehla
   number_of_:
     period: 5

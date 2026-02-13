@@ -32,7 +32,7 @@ dv_has_:
     oc: Pterotracheidae
     pl: Pterotracheidae
     pt: Pterotracheidae
-    pt-br: Pterotracheidae
+    pt_br: Pterotracheidae
     ro: Pterotracheidae
     ru: Pterotracheidae
     sq: Pterotracheidae
@@ -43,8 +43,8 @@ dv_has_:
     vo: Pterotracheidae
     war: Pterotracheidae
     zh: 翼管螺科
-    zh-cn: 翼管螺科
-    zh-tw: 翼管螺科
+    zh_cn: 翼管螺科
+    zh_tw: 翼管螺科
 ---
 # [[Pterotracheidae]] 
 ![Pterotrachea coronata](Pterotracheidae/PterotracheaA.jpg)) 

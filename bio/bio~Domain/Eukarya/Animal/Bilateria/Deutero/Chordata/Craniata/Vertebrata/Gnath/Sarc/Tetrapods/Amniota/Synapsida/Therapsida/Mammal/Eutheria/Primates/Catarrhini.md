@@ -248,7 +248,7 @@ dv_has_:
     bcl: ukay
     bdr: kuya'
     be: малпа
-    be-tarask: малпа
+    be_tarask: малпа
     bg: нечовекоподобни маймуни
     bho: बानर
     bjn: warik
@@ -270,7 +270,7 @@ dv_has_:
     da: abe
     dag: jɛŋa
     de: Affe
-    de-ch: Affen
+    de_ch: Affen
     dga: ŋmaaŋa
     dtp: gobuk
     dty: बानर
@@ -278,8 +278,8 @@ dv_has_:
     ee: k3s3
     el: μαϊμού
     en: monkey
-    en-ca: monkey
-    en-gb: monkey
+    en_ca: monkey
+    en_gb: monkey
     eo: simio
     es: mono
     et: ahv
@@ -371,7 +371,7 @@ dv_has_:
     pl: małpy
     pnb: باندر
     pt: macaco
-    pt-br: macaco
+    pt_br: macaco
     qu: k'usillu
     rn: Inkende
     ro: maimuță
@@ -407,8 +407,8 @@ dv_has_:
     tly: məjmun
     tr: maymun
     tt: маймыл
-    tt-cyrl: маймыл
-    tt-latn: maymıl
+    tt_cyrl: маймыл
+    tt_latn: maymıl
     tum: munkhwele
     tw: adoe
     udm: обезьян
@@ -427,14 +427,14 @@ dv_has_:
     yue: 馬騮
     za: lingz
     zh: 猴
-    zh-cn: 猴
-    zh-hans: 猴
-    zh-hant: 猴
-    zh-hk: 猴
-    zh-mo: 猴
+    zh_cn: 猴
+    zh_hans: 猴
+    zh_hant: 猴
+    zh_hk: 猴
+    zh_mo: 猴
     zh-my: 猴
-    zh-sg: 猴
-    zh-tw: 猴
+    zh_sg: 猴
+    zh_tw: 猴
 ---
 # [[Catarrhini]] 🐵 
 

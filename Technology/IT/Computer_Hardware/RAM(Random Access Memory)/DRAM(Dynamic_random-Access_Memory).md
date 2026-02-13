@@ -58,16 +58,16 @@ dv_has_:
     af: Dinamiese ewetoeganklike geheue
     ar: ذاكرة وصول عشوائي حركية
     ast: DRAM
-    be-tarask: DRAM
+    be_tarask: DRAM
     bg: Динамична памет с произволен достъп
     ca: DRAM
     cs: DRAM
     de: Dynamic Random Access Memory
-    de-ch: Dynamic Random Access Memory
+    de_ch: Dynamic Random Access Memory
     el: Δυναμική μνήμη τυχαίας προσπέλασης
     en: dynamic random-access memory
-    en-ca: dynamic random-access memory
-    en-gb: dynamic random-access memory
+    en_ca: dynamic random-access memory
+    en_gb: dynamic random-access memory
     eo: dinamika ĉefmemoro
     es: DRAM
     et: Dünaamiline muutmälu
@@ -82,11 +82,11 @@ dv_has_:
     it: DRAM
     ja: ダイナミックランダムアクセスメモリ
     kk: Динамикалық оперативті есте сақтау құрылғысы
-    kk-arab: دىينامىيكالىق وپەراتىيۆتى ەستە ساقتاۋ قۇرىلعىسى
+    kk_arab: دىينامىيكالىق وپەراتىيۆتى ەستە ساقتاۋ قۇرىلعىسى
     kk-cn: دىينامىيكالىق وپەراتىيۆتى ەستە ساقتاۋ قۇرىلعىسى
-    kk-cyrl: Динамикалық оперативті есте сақтау құрылғысы
+    kk_cyrl: Динамикалық оперативті есте сақтау құрылғысы
     kk-kz: Динамикалық оперативті есте сақтау құрылғысы
-    kk-latn: Dïnamïkalıq operatïvti este saqtaw qurılğısı
+    kk_latn: Dïnamïkalıq operatïvti este saqtaw qurılğısı
     kk-tr: Dïnamïkalıq operatïvti este saqtaw qurılğısı
     ko: 동적 램
     la: Memoria volatilis dynamica
@@ -100,7 +100,7 @@ dv_has_:
     pl: pamięć dynamiczna
     pms: Dynamic random-access memory
     pt: dynamic random access memory
-    pt-br: Dynamic random access memory
+    pt_br: Dynamic random access memory
     ro: Dynamic Random Access Memory
     ru: DRAM
     sh: Dinamička memorija sa slučajnim pristupom
@@ -112,18 +112,18 @@ dv_has_:
     th: หน่วยความจำเข้าถึงโดยสุ่มแบบพลวัต
     tr: DRAM
     tt: DRAM
-    tt-cyrl: DRAM
+    tt_cyrl: DRAM
     uk: DRAM
     vi: RAM động
     wuu: 动态随机存取存储器
     yue: DRAM
     zh: 动态随机存取存储器
-    zh-cn: 动态随机存取存储器
-    zh-hans: 动态随机存取存储器
-    zh-hant: 動態隨機存取記憶體
-    zh-hk: 動態隨機存取記憶體
-    zh-sg: 动态随机存取存储器
-    zh-tw: 動態隨機存取記憶體
+    zh_cn: 动态随机存取存储器
+    zh_hans: 动态随机存取存储器
+    zh_hant: 動態隨機存取記憶體
+    zh_hk: 動態隨機存取記憶體
+    zh_sg: 动态随机存取存储器
+    zh_tw: 動態隨機存取記憶體
 ---
 # [[DRAM(Dynamic_random-Access_Memory)]] 
 

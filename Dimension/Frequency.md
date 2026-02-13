@@ -163,7 +163,7 @@ dv_has_:
     ba: йышлыҡ
     bar: Frequenz
     be: частата
-    be-tarask: частасьць
+    be_tarask: частасьць
     bg: честота
     bn: কম্পাঙ্ক
     bs: frekvencija
@@ -180,8 +180,8 @@ dv_has_:
     de: Frequenz
     el: συχνότητα
     en: frequency
-    en-ca: frequency
-    en-gb: frequency
+    en_ca: frequency
+    en_gb: frequency
     eo: frekvenco
     es: frecuencia
     et: sagedus
@@ -214,7 +214,7 @@ dv_has_:
     kk: жиілік
     ko: 진동수
     ku: frekans
-    ku-latn: frekans
+    ku_latn: frekans
     kw: menowghedh
     ky: жыштык
     la: frequentia
@@ -229,7 +229,7 @@ dv_has_:
     mn: давтамж
     mr: कंप्रता
     ms: kekerapan
-    ms-arab: فريکوئنسي
+    ms_arab: فريکوئنسي
     mt: frekwenza
     my: ကြိမ်နှုန်း
     nan: pîn-lu̍t
@@ -247,7 +247,7 @@ dv_has_:
     pnb: فریکوئینسی
     ps: فريکونسي
     pt: frequência
-    pt-br: frequência
+    pt_br: frequência
     qu: maywiy kutinchiq
     rki: ကြိမ်နှုန်း
     ro: frecvență
@@ -266,7 +266,7 @@ dv_has_:
     sn: hwiriro
     sq: frekuencë
     sr: учесталост
-    sr-ec: учесталост
+    sr_ec: учесталост
     su: Frékuénsi
     sv: frekvens
     sw: marudio
@@ -278,7 +278,7 @@ dv_has_:
     tl: dalasan
     tr: frekans
     tt: ешлык
-    tt-cyrl: ешлык
+    tt_cyrl: ешлык
     udm: ӵемлык
     ug: چاستوتا
     uk: частота
@@ -292,14 +292,14 @@ dv_has_:
     yi: פרעקווענץ
     yue: 頻率
     zh: 頻率
-    zh-cn: 频率
-    zh-hans: 频率
-    zh-hant: 頻率
-    zh-hk: 頻率
-    zh-mo: 頻率
+    zh_cn: 频率
+    zh_hans: 频率
+    zh_hant: 頻率
+    zh_hk: 頻率
+    zh_mo: 頻率
     zh-my: 频率
-    zh-sg: 频率
-    zh-tw: 頻率
+    zh_sg: 频率
+    zh_tw: 頻率
     zu: umjingo
 ---
 # [[Frequency]] 

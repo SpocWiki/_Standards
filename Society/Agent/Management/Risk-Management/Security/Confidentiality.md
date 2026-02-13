@@ -68,7 +68,7 @@ dv_has_:
   name_:
     ar: السرية
     be: канфідэнцыяльнасць
-    be-tarask: канфідэнцыйнасьць
+    be_tarask: канфідэнцыйнасьць
     ca: confidencialitat
     cs: povinnost mlčenlivosti
     da: konfidentialitet

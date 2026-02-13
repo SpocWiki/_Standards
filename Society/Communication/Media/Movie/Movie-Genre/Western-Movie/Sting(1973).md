@@ -93,9 +93,9 @@ dv_has_:
     wuu: 骗中骗
     yue: 老千計狀元才
     zh: 老千計狀元才
-    zh-hant: 刺激
-    zh-hk: 老千計狀元才
-    zh-tw: 刺激
+    zh_hant: 刺激
+    zh_hk: 老千計狀元才
+    zh_tw: 刺激
 ---
 ## #has_/text_of_/abstract 
 

@@ -156,7 +156,7 @@ dv_has_:
     az: Lüdviq Bolsman
     azb: لودویق بولتسمان
     be: Людвіг Больцман
-    be-tarask: Людвіг Больцман
+    be_tarask: Людвіг Больцман
     bg: Лудвиг Болцман
     bn: লুডভিগ বোলৎসমান
     bs: Ludwig Boltzmann
@@ -166,7 +166,7 @@ dv_has_:
     de: Ludwig Boltzmann
     el: Λούντβιχ Μπόλτσμαν
     en: Ludwig Boltzmann
-    en-gb: Ludwig Boltzmann
+    en_gb: Ludwig Boltzmann
     en-us: Ludwig Boltzmann
     eo: Ludwig Boltzmann
     es: Ludwig Boltzmann
@@ -188,11 +188,11 @@ dv_has_:
     ja: ルートヴィッヒ・ボルツマン
     ka: ლუდვიგ ბოლცმანი
     kk: Больцман Людвиг
-    kk-arab: بولتسمان ليۋدۆىيگ
+    kk_arab: بولتسمان ليۋدۆىيگ
     kk-cn: بولتسمان ليۋدۆىيگ
-    kk-cyrl: Больцман Людвиг
+    kk_cyrl: Больцман Людвиг
     kk-kz: Больцман Людвиг
-    kk-latn: Bolʹcman Lyudvïg
+    kk_latn: Bolʹcman Lyudvïg
     kk-tr: Bolʹcman Lyudvïg
     ko: 루트비히 볼츠만
     la: Ludovicus Boltzmann
@@ -214,7 +214,7 @@ dv_has_:
     pnb: لڈوگ بولٹزمان
     ps: لوډوېک بولټزمان
     pt: Ludwig Boltzmann
-    pt-br: Ludwig Boltzmann
+    pt_br: Ludwig Boltzmann
     ro: Ludwig Boltzmann
     ru: Людвиг Больцман
     sco: Ludwig Boltzmann
@@ -223,8 +223,8 @@ dv_has_:
     sl: Ludwig Edward Boltzmann
     sq: Ludwig Boltzmann
     sr: Лудвиг Болцман
-    sr-ec: Лудвиг Болцман
-    sr-el: Ludvig Bolcman
+    sr_ec: Лудвиг Болцман
+    sr_el: Ludvig Bolcman
     sv: Ludwig Boltzmann
     ta: லுட்விக் போல்ட்ஸ்மான்
     tg: Людвиг Болсман
@@ -240,12 +240,12 @@ dv_has_:
     xmf: ლუდვიგ ბოლცმანი
     yue: 波茲曼
     zh: 路德维希·玻尔兹曼
-    zh-cn: 路德维希·玻尔兹曼
-    zh-hans: 路德维希·玻尔兹曼
-    zh-hant: 路德維希·玻爾茲曼
-    zh-hk: 路德維希·波茲曼
-    zh-sg: 路德维希·玻尔兹曼
-    zh-tw: 路德維希·波茲曼
+    zh_cn: 路德维希·玻尔兹曼
+    zh_hans: 路德维希·玻尔兹曼
+    zh_hant: 路德維希·玻爾茲曼
+    zh_hk: 路德維希·波茲曼
+    zh_sg: 路德维希·玻尔兹曼
+    zh_tw: 路德維希·波茲曼
 ---
 # [[Boltzmann,Ludwig]] 
 

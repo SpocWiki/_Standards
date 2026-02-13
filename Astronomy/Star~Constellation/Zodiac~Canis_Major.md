@@ -127,7 +127,7 @@ dv_has_:
     az: Böyük Köpək
     ba: Ҙур эт
     be: Вялікі Пёс
-    be-tarask: Вялікі Пёс
+    be_tarask: Вялікі Пёс
     bg: Голямо куче
     bn: যুগল মণ্ডল
     bo: ཁྱི་རྒན་སྐར་ཚོམ་
@@ -140,12 +140,12 @@ dv_has_:
     cy: Canis Major
     da: Store Hund
     de: Großer Hund
-    de-ch: Grosser Hund
+    de_ch: Grosser Hund
     diq: Kutıgo Gırse
     el: Μέγας Κύων
     en: Canis Major
-    en-ca: Canis Major
-    en-gb: Canis Major
+    en_ca: Canis Major
+    en_gb: Canis Major
     eo: Granda Hundo
     es: Canis Maior
     et: Suur Peni
@@ -198,7 +198,7 @@ dv_has_:
     pl: Wielki Pies
     pnb: وڈا کتا
     pt: Canis Major
-    pt-br: Canis Major
+    pt_br: Canis Major
     ro: Câinele Mare
     ru: Большой Пёс
     sah: Улахан Ыт
@@ -206,7 +206,7 @@ dv_has_:
     sk: Veľký pes
     sl: Veliki pes
     sr: Велики пас
-    sr-ec: Велики пас
+    sr_ec: Велики пас
     sv: Stora hunden
     sw: Mbwa Mkubwa
     ta: பெருநாய்_(விண்மீன்_குழாம்)
@@ -224,7 +224,7 @@ dv_has_:
     wuu: 大犬座
     yue: 大犬座
     zh: 大犬座
-    zh-cn: 大犬座
+    zh_cn: 大犬座
 dv_is_:
   same_as:
   - '[[../../WikiData/WD~Canis_Major,10538|WD~Canis_Major,10538]]'

@@ -65,7 +65,7 @@ dv_has_:
     ar: جساءة
     ast: rixidez
     az: sərtlik
-    be-tarask: цьвёрдасьць
+    be_tarask: цьвёрдасьць
     bg: Коравина
     bs: krutost
     ca: rigidesa

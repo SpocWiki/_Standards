@@ -109,7 +109,7 @@ dv_has_:
     ast: cúmulu globular
     az: kürəvi ulduz topaları
     be: Шаравое зорнае скопішча
-    be-tarask: кулістая зорная скупнасьць
+    be_tarask: кулістая зорная скупнасьць
     bg: Кълбовиден звезден куп
     bn: বর্তুলাকার স্তবক
     bs: kuglasto zvjezdano jato
@@ -121,8 +121,8 @@ dv_has_:
     diq: kumey estarana globali
     el: σφαιρωτό σμήνος
     en: globular cluster
-    en-ca: globular cluster
-    en-gb: globular cluster
+    en_ca: globular cluster
+    en_gb: globular cluster
     eo: globa stelamaso
     es: cúmulo globular
     et: kerasparv
@@ -158,7 +158,7 @@ dv_has_:
     pl: gromada kulista
     ps: د ستورو کروي ډله
     pt: aglomerado globular
-    pt-br: aglomerado globular
+    pt_br: aglomerado globular
     ro: roi globular
     ru: шаровое звёздное скопление
     scn: ammassu glubbulari
@@ -167,8 +167,8 @@ dv_has_:
     sk: guľová hviezdokopa
     sl: kroglasta zvezdna kopica
     sr: збијено звездано јато
-    sr-ec: збијено звездано јато
-    sr-el: zbijeno zvezdano jato
+    sr_ec: збијено звездано јато
+    sr_el: zbijeno zvezdano jato
     sv: klotformig stjärnhop
     ta: கோளகக் கொத்து விண்மீன் கூட்டம்
     th: กระจุกดาวทรงกลม

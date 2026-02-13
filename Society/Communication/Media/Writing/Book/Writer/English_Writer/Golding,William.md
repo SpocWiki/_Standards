@@ -112,7 +112,7 @@ dv_has_:
     az: Uilyam Qoldinq
     azb: ویلیام قلدینق
     be: Уільям Голдынг
-    be-tarask: Ўільям Голдынг
+    be_tarask: Ўільям Голдынг
     bg: Уилям Голдинг
     bn: উইলিয়াম গোল্ডিং
     br: William Golding
@@ -123,12 +123,12 @@ dv_has_:
     da: William Golding
     de: William Golding
     de-at: William Golding
-    de-ch: William Golding
+    de_ch: William Golding
     diq: William Golding
     el: Ουίλιαμ Γκόλντινγκ
     en: William Golding
-    en-ca: William Golding
-    en-gb: William Golding
+    en_ca: William Golding
+    en_gb: William Golding
     en-us: William Golding
     eo: William Golding
     es: William Golding
@@ -184,7 +184,7 @@ dv_has_:
     pms: William Golding
     pnb: ولیم گولڈنگ
     pt: William Golding
-    pt-br: William Golding
+    pt_br: William Golding
     qu: William Golding
     ro: William Golding
     ru: Уильям Голдинг
@@ -196,7 +196,7 @@ dv_has_:
     sl: William Golding
     sq: William Golding
     sr: Вилијам Голдинг
-    sr-ec: Вилијам Голдинг
+    sr_ec: Вилијам Голдинг
     sv: William Golding
     sw: William Golding
     ta: வில்லியம் கோல்டிங்

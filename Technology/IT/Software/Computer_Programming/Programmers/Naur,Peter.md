@@ -54,15 +54,15 @@ dv_has_:
     oc: Peter Naur
     pl: Peter Naur
     pt: Peter Naur
-    pt-br: Peter Naur
+    pt_br: Peter Naur
     ro: Peter Naur
     ru: Петер Наур
     sk: Peter Naur
     sl: Peter Naur
     sq: Peter Naur
     sr: Петер Наур
-    sr-ec: Петер Наур
-    sr-el: Peter Naur
+    sr_ec: Петер Наур
+    sr_el: Peter Naur
     sv: Peter Naur
     tr: Peter Naur
     uk: Пітер Наур
@@ -70,12 +70,12 @@ dv_has_:
     war: Peter Naur
     xmf: პიტერ ნაური
     zh: 彼得·諾爾
-    zh-cn: 彼得·诺尔
-    zh-hans: 彼得·诺尔
-    zh-hant: 彼得·諾爾
-    zh-hk: 彼得·諾爾
-    zh-sg: 彼得·诺尔
-    zh-tw: 彼得·諾爾
+    zh_cn: 彼得·诺尔
+    zh_hans: 彼得·诺尔
+    zh_hant: 彼得·諾爾
+    zh_hk: 彼得·諾爾
+    zh_sg: 彼得·诺尔
+    zh_tw: 彼得·諾爾
 ---
 #has_/time_/started :: 1928-10-25 
 #has_/time_/started :: 2016-01-03  

@@ -137,7 +137,7 @@ dv_has_:
     azb: قرافیت
     ba: Графит
     be: графіт
-    be-tarask: графіт
+    be_tarask: графіт
     bg: графит
     bn: গ্রাফাইট
     bs: grafit
@@ -148,12 +148,12 @@ dv_has_:
     cy: graffit
     da: grafit
     de: Graphit
-    de-ch: Graphit
+    de_ch: Graphit
     din: Jɔɔrɔ
     el: γραφίτης
     en: graphite
-    en-ca: graphite
-    en-gb: graphite
+    en_ca: graphite
+    en_gb: graphite
     eo: grafito
     es: grafito
     et: grafiit
@@ -207,7 +207,7 @@ dv_has_:
     pl: grafit
     pnb: گریفائیٹ
     pt: grafite
-    pt-br: grafite
+    pt_br: grafite
     ro: grafit
     ru: графит
     sco: graphite
@@ -234,14 +234,14 @@ dv_has_:
     wuu: 石墨
     yue: 石墨
     zh: 石墨
-    zh-cn: 石墨
-    zh-hans: 石墨
-    zh-hant: 石墨
-    zh-hk: 石墨
-    zh-mo: 石墨
+    zh_cn: 石墨
+    zh_hans: 石墨
+    zh_hant: 石墨
+    zh_hk: 石墨
+    zh_mo: 石墨
     zh-my: 石墨
-    zh-sg: 石墨
-    zh-tw: 石墨
+    zh_sg: 石墨
+    zh_tw: 石墨
 ---
 # [[Graphite]] 
 

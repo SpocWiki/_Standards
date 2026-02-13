@@ -129,7 +129,7 @@ dv_has_:
     ar: مجلة بيبول
     ast: People
     be: People
-    be-tarask: People
+    be_tarask: People
     bg: People (списание)
     bn: পিপল
     ca: People
@@ -167,7 +167,7 @@ dv_has_:
     pap: People
     pl: People
     pt: People
-    pt-br: People
+    pt_br: People
     ro: People
     ru: People
     sh: People
@@ -180,8 +180,8 @@ dv_has_:
     ur: پیپل
     vi: People
     zh: 人物
-    zh-cn: 人物
-    zh-hans: 人物杂志
+    zh_cn: 人物
+    zh_hans: 人物杂志
 ---
 # [[People(Magazine)]] 
 

@@ -80,7 +80,7 @@ dv_has_:
     az: hündür tikili
     ba: Бейек бина
     be: вышынны будынак
-    be-tarask: вышынны будынак
+    be_tarask: вышынны будынак
     bg: Жилищен блок
     bs: Soliter
     ca: edifici de gran altura
@@ -88,11 +88,11 @@ dv_has_:
     cy: adeilad aml-lawr
     da: højhus
     de: Hochhaus
-    de-ch: Hochhaus
+    de_ch: Hochhaus
     el: πολυόροφο κτήριο
     en: tower block
-    en-ca: tower block
-    en-gb: tower block
+    en_ca: tower block
+    en_gb: tower block
     eo: turdomo
     es: torre
     et: kõrghoone
@@ -122,7 +122,7 @@ dv_has_:
     nl: hoog gebouw
     pl: wysokościowiec
     pt: edifício alto
-    pt-br: arranha-céu
+    pt_br: arranha-céu
     ro: bloc turn
     ru: высотное здание
     sco: touer block
@@ -130,7 +130,7 @@ dv_has_:
     sk: výšková budova
     sl: stolpnica
     sr: високоградња
-    sr-ec: високоградња
+    sr_ec: високоградња
     sv: höghus
     tr: yüksek apartman
     uk: висотна будівля
@@ -139,8 +139,8 @@ dv_has_:
     vi: nhà cao tầng
     yue: 多層大廈
     zh: 高层建筑物
-    zh-hant: 高層建築物
-    zh-hk: 多層大廈
+    zh_hant: 高層建築物
+    zh_hk: 多層大廈
 ---
 # [[High-rise_Building]] 
 

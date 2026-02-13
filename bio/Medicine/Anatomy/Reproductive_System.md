@@ -131,7 +131,7 @@ dv_has_:
     ba: Репродуктив система
     bcl: Sistemang reproduktibo
     be: Рэпрадуктыўная сістэма
-    be-tarask: рэпрадукцыйная сыстэма
+    be_tarask: рэпрадукцыйная сыстэма
     bg: Полова система
     bn: প্রজননতন্ত্র
     bo: སྐྱེ་འཕེལ་མ་ལག་
@@ -149,7 +149,7 @@ dv_has_:
     dv: ނަސްލު އުފައްދާ ނިޒާމް
     el: αναπαραγωγικό σύστημα
     en: reproductive system
-    en-gb: reproductive system
+    en_gb: reproductive system
     eo: reprodukta sistemo
     es: aparato reproductor
     et: sigimiselundkond
@@ -180,7 +180,7 @@ dv_has_:
     kn: ಸಂತಾನೋತ್ಫತ್ತಿಯ ವ್ಯವಸ್ಥೆ
     knc: Reproductive system
     ko: 생식계
-    ku-latn: koendama zaûzê
+    ku_latn: koendama zaûzê
     kv: Яндзим
     ky: Жыныс органдары
     la: Systema reproductionis
@@ -212,8 +212,8 @@ dv_has_:
     so: Habdhiska Taranka
     sq: sistem riprodhues
     sr: репродуктивни систем
-    sr-ec: репродуктивни систем
-    sr-el: reproduktivni sistem
+    sr_ec: репродуктивни систем
+    sr_el: reproduktivni sistem
     sv: fortplantningssystemet
     sw: Mfumo wa uzazi
     ta: இனப்பெருக்கத் தொகுதி

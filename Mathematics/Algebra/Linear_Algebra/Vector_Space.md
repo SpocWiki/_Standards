@@ -109,7 +109,7 @@ dv_has_:
     ast: espaciu vectorial
     ba: векторлы арауыҡ
     be: вектарная прастора
-    be-tarask: вэктарная прастора
+    be_tarask: вэктарная прастора
     bg: линейно пространство
     bho: वेक्टर स्पेस
     bn: সদিক রাশির বীজগণিত
@@ -157,7 +157,7 @@ dv_has_:
     mk: векторски простор
     ml: സദിശസമഷ്ടി
     ms: ruang vektor
-    ms-arab: رواڠ ۏيکتور
+    ms_arab: رواڠ ۏيکتور
     nan: hiòng-liōng khong-kan
     nb: vektorrom
     nl: vectorruimte
@@ -168,7 +168,7 @@ dv_has_:
     pms: spassi vetorial
     pnb: ویکٹر سپیس
     pt: espaço vetorial
-    pt-br: espaço vetorial
+    pt_br: espaço vetorial
     ro: spațiu vectorial
     ru: векторное пространство
     scn: spazziu vitturiali
@@ -178,8 +178,8 @@ dv_has_:
     sl: vektorski prostor
     sq: Hapësira vektoriale
     sr: векторски простор
-    sr-ec: векторски простор
-    sr-el: vektorski prostor
+    sr_ec: векторски простор
+    sr_el: vektorski prostor
     sv: linjärt rum
     ta: திசையன் வெளி
     th: เวกเตอร์
@@ -192,12 +192,12 @@ dv_has_:
     wuu: 向量空间
     yue: 向量空間
     zh: 向量空间
-    zh-cn: 矢量空间
-    zh-hans: 向量空间
-    zh-hant: 向量空間
-    zh-hk: 向量空間
-    zh-sg: 矢量空间
-    zh-tw: 向量空間
+    zh_cn: 矢量空间
+    zh_hans: 向量空间
+    zh_hant: 向量空間
+    zh_hk: 向量空間
+    zh_sg: 矢量空间
+    zh_tw: 向量空間
 ---
 # [[Vector_Space]] 
 

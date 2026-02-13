@@ -30,7 +30,7 @@ practiced_by: '[[_Standards/WikiData/WD~roller_athlete,124020978]]'
 subclass_of: '[[_Standards/WikiData/WD~sport,349]]'
 dv_has_:
   name_:
-    be-tarask: ролерны спорт
+    be_tarask: ролерны спорт
     ca: esport sobre rodes
     cs: kolečkový sport
     de: Rollsport
@@ -48,7 +48,7 @@ dv_has_:
     sl: šport na rolerjih
     sv: rullskridskosport
     zh: 滑輪運動
-    zh-cn: 轮滑运动
+    zh_cn: 轮滑运动
 ---
 # [[Roller_Sport]] 
 

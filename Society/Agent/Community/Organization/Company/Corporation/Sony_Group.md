@@ -223,7 +223,7 @@ dv_has_:
     ba: Sony
     bar: Sony
     be: Sony
-    be-tarask: Соні
+    be_tarask: Соні
     bg: Сони
     bn: সনি
     bs: Sony
@@ -234,12 +234,12 @@ dv_has_:
     cy: Sony
     da: Sony
     de: Sony
-    de-ch: Sony
+    de_ch: Sony
     diq: Sony
     el: Sony
     en: Sony Group
-    en-ca: Sony
-    en-gb: Sony
+    en_ca: Sony
+    en_gb: Sony
     eo: Sony
     es: Sony
     et: Sony
@@ -301,7 +301,7 @@ dv_has_:
     pnb: سونی
     ps: سوني
     pt: Sony
-    pt-br: Sony
+    pt_br: Sony
     qu: Sony
     ro: Sony Group
     ru: Sony
@@ -326,7 +326,7 @@ dv_has_:
     tok: kulupu Soni
     tr: Sony
     tt: Sony
-    tt-cyrl: Sony
+    tt_cyrl: Sony
     uk: Sony
     ur: سونی
     uz: Sony
@@ -337,14 +337,14 @@ dv_has_:
     yo: Sony
     yue: Sony
     zh: 索尼
-    zh-cn: 索尼
-    zh-hans: 索尼
-    zh-hant: 索尼
-    zh-hk: 索尼
-    zh-mo: 索尼
+    zh_cn: 索尼
+    zh_hans: 索尼
+    zh_hant: 索尼
+    zh_hk: 索尼
+    zh_mo: 索尼
     zh-my: 索尼
-    zh-sg: 索尼
-    zh-tw: 索尼
+    zh_sg: 索尼
+    zh_tw: 索尼
 ---
 # [[Sony_Group]] 
 

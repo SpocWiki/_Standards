@@ -159,7 +159,7 @@ dv_has_:
     ba: Васко да Гама
     bcl: Vasco da Gama
     be: Васка да Гама
-    be-tarask: Вашку да Гама
+    be_tarask: Вашку да Гама
     bg: Вашку да Гама
     bn: ভাস্কো দা গামা
     br: Vasco da Gama
@@ -176,13 +176,13 @@ dv_has_:
     cy: Vasco da Gama
     da: Vasco da Gama
     de: Vasco da Gama
-    de-ch: Vasco da Gama
+    de_ch: Vasco da Gama
     diq: Vasco da Gama
     ee: Vasco da Gama
     el: Βάσκο ντα Γκάμα
     en: Vasco da Gama
-    en-ca: Vasco da Gama
-    en-gb: Vasco da Gama
+    en_ca: Vasco da Gama
+    en_gb: Vasco da Gama
     eo: Vasco da Gama
     es: Vasco da Gama
     et: Vasco da Gama
@@ -234,7 +234,7 @@ dv_has_:
     lt: Vasco da Gama
     lv: Vasko da Gama
     mai: भास्को दा गामा
-    map-bms: Vasco da Gama
+    map_bms: Vasco da Gama
     mg: Vasco de Gama
     mk: Васко де Гама
     ml: വാസ്കോ ഡ ഗാമ
@@ -267,7 +267,7 @@ dv_has_:
     pms: Vasco da Gama
     pnb: واسکو ڈے گاما
     pt: Vasco da Gama
-    pt-br: Vasco da Gama
+    pt_br: Vasco da Gama
     qu: Vasco da Gamamanta
     rm: Vasco da Gama
     ro: Vasco da Gama
@@ -286,7 +286,7 @@ dv_has_:
     sl: Vasco da Gama
     sq: Vasco da Gama
     sr: Васко да Гама
-    sr-ec: Васко да Гама
+    sr_ec: Васко да Гама
     su: Vasco da Gama
     sv: Vasco da Gama
     sw: Vasco da Gama
@@ -318,7 +318,7 @@ dv_has_:
     yue: 達伽馬
     zea: Vasco da Gama
     zh: 瓦斯科·達伽馬
-    zh-hk: 華士古·達伽馬
+    zh_hk: 華士古·達伽馬
 ---
 ## #has_/text_of_/abstract 
 

@@ -105,7 +105,7 @@ dv_has_:
     ast: Agricultura ecolóxica
     bas: lìsal ŋwɔ̌m
     be: арганічная сельская гаспадарка
-    be-tarask: арганічнае земляробства
+    be_tarask: арганічнае земляробства
     bg: Биоземеделие
     bn: জৈব খামার ব্যবস্থা
     br: labour-douar organek
@@ -152,7 +152,7 @@ dv_has_:
     mn: Органик хөдөө аж ахуй
     mr: सेंद्रिय शेती
     ms: pertanian organik
-    ms-arab: ڤرتانين اورݢانيک
+    ms_arab: ڤرتانين اورݢانيک
     my: အော်ဂဲနစ်
     nan: Iú-ki lông-gia̍p
     nb: Økologisk landbruk
@@ -184,12 +184,12 @@ dv_has_:
     ybb: lejʉ̄ʼ ŋ́gɔ̄ŋ pɔ́ afho zi afhɔ anɛ elʉʉ kūp etsō
     yue: 有機耕作
     zh: 有機農業
-    zh-cn: 有机农业
-    zh-hans: 有机农业
-    zh-hant: 有機農業
-    zh-hk: 有機農業
-    zh-sg: 有机农业
-    zh-tw: 有機農業
+    zh_cn: 有机农业
+    zh_hans: 有机农业
+    zh_hant: 有機農業
+    zh_hk: 有機農業
+    zh_sg: 有机农业
+    zh_tw: 有機農業
 ---
 # [[Organic_Agriculture]] 
 

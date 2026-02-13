@@ -271,7 +271,7 @@ dv_has_:
     az: Afrika İttifaqı
     ba: Африка Союзы
     be: Афрыканскі Саюз
-    be-tarask: Афрыканскі зьвяз
+    be_tarask: Афрыканскі зьвяз
     bg: Африкански съюз
     bn: আফ্রিকান ইউনিয়ন
     br: Unaniezh Afrika
@@ -291,8 +291,8 @@ dv_has_:
     diq: Yewina Afrika
     el: Αφρικανική Ένωση
     en: African Union
-    en-ca: African Union
-    en-gb: African Union
+    en_ca: African Union
+    en_gb: African Union
     eo: Afrika Unio
     es: Unión Africana
     et: Aafrika Liit
@@ -368,7 +368,7 @@ dv_has_:
     nan: Hui-chiu Cho͘-ha̍p
     nb: Den afrikanske union
     nds: Afrikaansch Union
-    nds-nl: Afrikaanse Unie
+    nds_nl: Afrikaanse Unie
     ne: अफ्रिकी सङ्घ
     new: अफ्रिकन युनियन
     nl: Afrikaanse Unie
@@ -384,7 +384,7 @@ dv_has_:
     pnb: افریقی اتحاد
     ps: د افریقا اتحادیه
     pt: União Africana
-    pt-br: União Africana
+    pt_br: União Africana
     ro: Uniunea Africană
     roa-tara: Aunìone Africane
     ru: Африканский союз
@@ -404,7 +404,7 @@ dv_has_:
     so: Midowga afrika
     sq: Bashkimi Afrikan
     sr: Афричка унија
-    sr-ec: Афричка унија
+    sr_ec: Афричка унија
     su: Uni Afrika
     sv: Afrikanska unionen
     sw: Umoja wa Afrika
@@ -433,14 +433,14 @@ dv_has_:
     yo: African Union
     yue: 非洲聯盟
     zh: 非洲聯盟
-    zh-cn: 非洲联盟
-    zh-hans: 非洲联盟
-    zh-hant: 非洲聯盟
-    zh-hk: 非洲聯盟
-    zh-mo: 非洲聯盟
+    zh_cn: 非洲联盟
+    zh_hans: 非洲联盟
+    zh_hant: 非洲聯盟
+    zh_hk: 非洲聯盟
+    zh_mo: 非洲聯盟
     zh-my: 非洲联盟
-    zh-sg: 非洲联盟
-    zh-tw: 非洲聯盟
+    zh_sg: 非洲联盟
+    zh_tw: 非洲聯盟
     zu: Iqoqo i-Afrika
 ---
 # [[African_Union]] 

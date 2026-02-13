@@ -111,7 +111,7 @@ dv_has_:
     ast: Desigualdá matemática
     ba: Тигеҙһеҙлек
     be: няроўнасць
-    be-tarask: няроўнасьць
+    be_tarask: няроўнасьць
     bg: неравенство
     bn: অসমতা
     bs: Nejednakost
@@ -124,8 +124,8 @@ dv_has_:
     el: Ανισότητα
     eml: Diśugvagliàṅsa
     en: inequality
-    en-ca: Inequality
-    en-gb: Inequality
+    en_ca: Inequality
+    en_gb: Inequality
     eo: neegaleco
     es: desigualdad matemática
     et: võrratus
@@ -166,7 +166,7 @@ dv_has_:
     nn: ulikskap
     pl: nierówność
     pt: desigualdade
-    pt-br: desigualdade
+    pt_br: desigualdade
     ro: inegalitate
     ru: неравенство
     se: eahpeovttaldat

@@ -19,9 +19,9 @@ dv_has_:
     udm: Уаттлэн машинаез
     uk: Парова машина Джеймса Ватта
     zh: 瓦特蒸氣機
-    zh-cn: 瓦特蒸汽机
-    zh-hans: 瓦特蒸汽机
-    zh-hant: 瓦特蒸汽機
+    zh_cn: 瓦特蒸汽机
+    zh_hans: 瓦特蒸汽机
+    zh_hant: 瓦特蒸汽機
 aliases:
 - Macchina a vapore di James Watt
 - machine de Watt

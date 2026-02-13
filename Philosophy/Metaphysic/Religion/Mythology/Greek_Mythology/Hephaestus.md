@@ -130,7 +130,7 @@ dv_has_:
     ba: Гефест
     bar: Hephaistos
     be: Гефест
-    be-tarask: Гефэст
+    be_tarask: Гефэст
     bg: Хефест
     bn: হেফাইস্তোস
     br: Hefaistos
@@ -170,7 +170,7 @@ dv_has_:
     kk: Гефест
     ko: 헤파이스토스
     ku: Hêfestos
-    ku-latn: Hêfestos
+    ku_latn: Hêfestos
     la: Hephaestus
     lb: Hephaistos
     lt: Hefaistas
@@ -199,7 +199,7 @@ dv_has_:
     sl: Hefajst
     sq: Hefesti
     sr: Хефест
-    sr-ec: Хефест
+    sr_ec: Хефест
     sv: Hefaistos
     ta: ஹெப்பஸ்தஸ்
     tg: Ҳефоэстус
@@ -216,8 +216,8 @@ dv_has_:
     wuu: 赫淮斯托斯
     yue: 赫菲斯托斯
     zh: 赫淮斯托斯
-    zh-hk: 希菲托斯
-    zh-tw: 赫菲斯托斯
+    zh_hk: 希菲托斯
+    zh_tw: 赫菲斯托斯
 ---
 # [[Hephaestus]] 
 

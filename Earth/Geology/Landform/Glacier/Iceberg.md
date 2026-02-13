@@ -29,7 +29,7 @@ dv_has_:
     ast: iceber
     az: aysberq
     be: айсберг
-    be-tarask: айсбэрг
+    be_tarask: айсбэрг
     bg: айсберг
     bjn: gunung is
     bn: হিমশৈল
@@ -40,11 +40,11 @@ dv_has_:
     cy: mynydd rhew
     da: isbjerg
     de: Eisberg
-    de-ch: Eisberg
+    de_ch: Eisberg
     el: παγόβουνο
     en: iceberg
-    en-ca: iceberg
-    en-gb: iceberg
+    en_ca: iceberg
+    en_gb: iceberg
     eo: glacimonto
     es: iceberg
     et: jäämägi
@@ -99,7 +99,7 @@ dv_has_:
     pl: góra lodowa
     pnb: برفانی تودا
     pt: iceberg
-    pt-br: iceberg
+    pt_br: iceberg
     ro: aisberg
     ru: айсберг
     sah: айсберг

@@ -122,7 +122,7 @@ dv_has_:
     ast: Historia de la ciencia
     az: Elm tarixi
     be: гісторыя навукі і тэхнікі
-    be-tarask: гісторыя навукі
+    be_tarask: гісторыя навукі
     bg: История на науката
     bn: বিজ্ঞানের ইতিহাস
     bs: historija nauke
@@ -196,8 +196,8 @@ dv_has_:
     sms: tiõtti historia
     sq: Historia e shkencës
     sr: историја науке
-    sr-ec: историја науке
-    sr-el: istorija nauke
+    sr_ec: историја науке
+    sr_el: istorija nauke
     sv: vetenskapshistoria
     ta: அறிவியல் மற்றும் தொழில்நுட்பவியலின் வரலாறு
     th: ประวัติศาสตร์วิทยาศาสตร์และเทคโนโลยี
@@ -215,12 +215,12 @@ dv_has_:
     yo: ìtàn sáyẹ́nsì
     yue: 科學史
     zh: 科學史
-    zh-cn: 科学史
-    zh-hans: 科学史
-    zh-hant: 科學史
-    zh-hk: 科學史
-    zh-sg: 科学史
-    zh-tw: 科學史
+    zh_cn: 科学史
+    zh_hans: 科学史
+    zh_hant: 科學史
+    zh_hk: 科學史
+    zh_sg: 科学史
+    zh_tw: 科學史
 ---
 # [[History_of_Science]] 
 

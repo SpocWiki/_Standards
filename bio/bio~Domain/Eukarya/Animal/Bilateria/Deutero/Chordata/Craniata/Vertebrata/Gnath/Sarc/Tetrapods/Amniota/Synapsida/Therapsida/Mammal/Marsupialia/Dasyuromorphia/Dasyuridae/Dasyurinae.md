@@ -57,7 +57,7 @@ dv_has_:
     oc: Dasyurinae
     pl: Niełazy
     pt: Dasyurinae
-    pt-br: Dasyurinae
+    pt_br: Dasyurinae
     ro: Dasyurinae
     ru: Dasyurinae
     sl: Dasyurinae
@@ -67,8 +67,8 @@ dv_has_:
     vo: Dasyurinae
     war: Dasyurinae
     zh: 袋鼬亚科
-    zh-cn: 袋鼬亚科
-    zh-tw: 袋鼬亞科
+    zh_cn: 袋鼬亚科
+    zh_tw: 袋鼬亞科
 ---
 # [[Dasyurinae]] 
 

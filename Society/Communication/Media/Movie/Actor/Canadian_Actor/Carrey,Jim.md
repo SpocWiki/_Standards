@@ -127,7 +127,7 @@ dv_has_:
     bar: Jim Carrey
     bcl: Jim Carrey
     be: Джым Керы
-    be-tarask: Джым Керы
+    be_tarask: Джым Керы
     bg: Джим Кери
     bho: जिम कैरी
     bi: Jim Carrey
@@ -136,7 +136,7 @@ dv_has_:
     br: Jim Carrey
     bs: Jim Carrey
     ca: Jim Carrey
-    cbk-zam: Jim Carrey
+    cbk_zam: Jim Carrey
     ce: Джим Керри
     ckb: جیم کاری
     co: Jim Carrey
@@ -146,12 +146,12 @@ dv_has_:
     da: Jim Carrey
     de: Jim Carrey
     de-at: Jim Carrey
-    de-ch: Jim Carrey
+    de_ch: Jim Carrey
     diq: Jim Carrey
     el: Τζιμ Κάρεϊ
     en: Jim Carrey
-    en-ca: Jim Carrey
-    en-gb: Jim Carrey
+    en_ca: Jim Carrey
+    en_gb: Jim Carrey
     eo: Jim Carrey
     es: Jim Carrey
     et: Jim Carrey
@@ -201,7 +201,7 @@ dv_has_:
     lt: Jim Carrey
     lv: Džims Kerijs
     mai: जिम केरी
-    map-bms: Jim Carrey
+    map_bms: Jim Carrey
     mg: Jim Carrey
     mk: Џим Кери
     ml: ജിം ക്യാരി
@@ -213,7 +213,7 @@ dv_has_:
     nap: Jim Carrey
     nb: Jim Carrey
     nds: Jim Carrey
-    nds-nl: Jim Carrey
+    nds_nl: Jim Carrey
     nl: Jim Carrey
     nn: Jim Carrey
     oc: Jim Carrey
@@ -228,7 +228,7 @@ dv_has_:
     pl: Jim Carrey
     pms: Jim Carrey
     pt: Jim Carrey
-    pt-br: Jim Carrey
+    pt_br: Jim Carrey
     ro: Jim Carrey
     ru: Джим Керри
     sc: Jim Carrey
@@ -263,10 +263,10 @@ dv_has_:
     yue: 占基利
     zea: Jim Carrey
     zh: 占·基利
-    zh-cn: 金·凯瑞
-    zh-hans: 金·凯瑞
-    zh-hant: 金·凱瑞
-    zh-hk: 占·基利
+    zh_cn: 金·凯瑞
+    zh_hans: 金·凯瑞
+    zh_hant: 金·凱瑞
+    zh_hk: 占·基利
     zh-my: 占·基利
     zu: Jim Carrey
 ---

@@ -69,7 +69,7 @@ dv_has_:
     az: Vals
     ba: вальс
     be: вальс
-    be-tarask: вальс
+    be_tarask: вальс
     bg: Валс
     br: Valsenn
     bs: Valcer
@@ -102,7 +102,7 @@ dv_has_:
     ja: ワルツ
     ka: ვალსი
     kk: Вальс
-    kk-cyrl: вальс
+    kk_cyrl: вальс
     ko: 왈츠
     ky: Вальс
     la: Valsa
@@ -112,7 +112,7 @@ dv_has_:
     mr: वॉल्त्झ नृत्य
     ms: Waltz
     nb: vals
-    nds-nl: wals
+    nds_nl: wals
     nl: wals
     nn: vals
     oc: Valsa
@@ -124,8 +124,8 @@ dv_has_:
     sk: valčík
     sl: valček
     sr: Валцер
-    sr-ec: Валцер
-    sr-el: Valcer
+    sr_ec: Валцер
+    sr_el: Valcer
     sv: vals
     tg: Валс
     th: วอลซ์
@@ -139,12 +139,12 @@ dv_has_:
     wuu: 圆舞曲
     yue: 華爾茲
     zh: 華爾茲舞
-    zh-cn: 华尔兹
-    zh-hans: 华尔兹
-    zh-hant: 華爾茲
-    zh-hk: 華爾茲
-    zh-sg: 华尔兹
-    zh-tw: 華爾滋
+    zh_cn: 华尔兹
+    zh_hans: 华尔兹
+    zh_hant: 華爾茲
+    zh_hk: 華爾茲
+    zh_sg: 华尔兹
+    zh_tw: 華爾滋
 ---
 # [[Waltz]] 
 

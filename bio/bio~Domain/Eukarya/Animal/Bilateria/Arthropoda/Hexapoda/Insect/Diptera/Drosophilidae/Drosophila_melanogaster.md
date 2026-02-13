@@ -92,7 +92,7 @@ dv_has_:
     ar: ذبابة فاكهة شائعة
     arz: ذبابه فاكهه شائعه
     ast: Drosophila melanogaster
-    be-tarask: пладовая мушка
+    be_tarask: пладовая мушка
     bg: плодова мушица
     bn: ড্রোসোফিলা মেলানোজেস্টার
     bs: Vinska mušica
@@ -102,7 +102,7 @@ dv_has_:
     da: bananflue
     de: Drosophila melanogaster
     en: Drosophila melanogaster
-    en-gb: fruit fly
+    en_gb: fruit fly
     eo: nigraventra drozofilo
     es: Drosophila melanogaster
     et: Harilik äädikakärbes
@@ -126,7 +126,7 @@ dv_has_:
     jv: Drosophila melanogaster
     kab: Izi umaɣus
     ko: 노랑초파리
-    ku-latn: Drosophila melanogaster
+    ku_latn: Drosophila melanogaster
     la: Drosophila melanogaster
     lv: augļu muša
     min: Drosophila melanogaster
@@ -141,7 +141,7 @@ dv_has_:
     oc: Drosophila melanogaster
     pl: wywilżna karłowata
     pt: Drosophila melanogaster
-    pt-br: Drosophila melanogaster
+    pt_br: Drosophila melanogaster
     ro: Drosophila melanogaster
     ru: Drosophila melanogaster
     sc: Drosophila melanogaster
@@ -162,12 +162,12 @@ dv_has_:
     wuu: 黑腹果蝇
     yue: 黑腹果蠅
     zh: 黑腹果蠅
-    zh-cn: 黑腹果蝇
-    zh-hans: 黑腹果蝇
-    zh-hant: 黑腹果蠅
-    zh-hk: 黑腹果蠅
-    zh-sg: 黑腹果蝇
-    zh-tw: 黑腹果蠅
+    zh_cn: 黑腹果蝇
+    zh_hans: 黑腹果蝇
+    zh_hant: 黑腹果蠅
+    zh_hk: 黑腹果蠅
+    zh_sg: 黑腹果蝇
+    zh_tw: 黑腹果蠅
 ---
 # [[Drosophila_melanogaster]] 
 

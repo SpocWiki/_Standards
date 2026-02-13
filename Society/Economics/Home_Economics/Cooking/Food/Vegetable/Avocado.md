@@ -182,7 +182,7 @@ dv_has_:
     ban: Apokad
     bcl: Abukado
     be: Авакада
-    be-tarask: Авакада
+    be_tarask: Авакада
     bg: авокадо
     bi: Avoka
     bjn: Alpukat
@@ -244,7 +244,7 @@ dv_has_:
     lt: Amerikinė persėja
     lv: avokado
     mad: Albhukat
-    map-bms: Apokat
+    map_bms: Apokat
     mg: Zavoka
     min: Alpukat
     ml: വെണ്ണപ്പഴം
@@ -313,8 +313,8 @@ dv_has_:
     yue: 牛油果
     zh: 鳄梨
     zh-cn: 鳄梨
-    zh-hans: 鳄梨
-    zh-tw: 酪梨
+    zh_hans: 鳄梨
+    zh_tw: 酪梨
 ---
 # [[Avocado]] 🥑 
 

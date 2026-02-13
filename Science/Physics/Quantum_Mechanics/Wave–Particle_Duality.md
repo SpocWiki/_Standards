@@ -80,7 +80,7 @@ dv_has_:
     ast: Dualidá onda corpúsculu
     az: Korpuskulyar dalğa dualizmi
     be: карпускулярна-хвалевы дуалізм
-    be-tarask: карпускулярна-хвалевы дуалізм
+    be_tarask: карпускулярна-хвалевы дуалізм
     bg: корпускулярно-вълнов дуализъм
     bn: তরঙ্গ-কণা দ্বৈততা
     ca: Dualitat ona-partícula
@@ -140,12 +140,12 @@ dv_has_:
     wuu: 波粒二象性
     yue: 波粒二象性
     zh: 波粒二象性
-    zh-cn: 波粒二象性
-    zh-hans: 波粒二象性
-    zh-hant: 波粒二象性
-    zh-hk: 波粒二象性
-    zh-sg: 波粒二象性
-    zh-tw: 波粒二象性
+    zh_cn: 波粒二象性
+    zh_hans: 波粒二象性
+    zh_hant: 波粒二象性
+    zh_hk: 波粒二象性
+    zh_sg: 波粒二象性
+    zh_tw: 波粒二象性
 ---
 # [[Wave–Particle_Duality]] 
 

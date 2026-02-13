@@ -104,7 +104,7 @@ dv_has_:
     azb: کوانتوم تئوریسی
     ba: ҡырҙың квант теорияһы
     be: квантавая тэорыя поля
-    be-tarask: квантавая тэорыя поля
+    be_tarask: квантавая тэорыя поля
     bg: квантова теория на полето
     bn: কোয়ান্টাম ক্ষেত্র তত্ত্ব
     bs: kvantna teorija polja
@@ -114,11 +114,11 @@ dv_has_:
     da: kvantefeltteori
     de: Quantenfeldtheorie
     de-at: Quantenfeldtheorie
-    de-ch: Quantenfeldtheorie
+    de_ch: Quantenfeldtheorie
     el: κβαντική θεωρία πεδίου
     en: quantum field theory
-    en-ca: quantum field theory
-    en-gb: quantum field theory
+    en_ca: quantum field theory
+    en_gb: quantum field theory
     eo: kvantuma kampa teorio
     es: teoría cuántica de campos
     et: kvantväljateooria
@@ -156,7 +156,7 @@ dv_has_:
     pnb: کوانٹم فیلڈ تھیوری
     ps: د کوانټومي ساحې نظریه
     pt: teoria quântica de campo
-    pt-br: teoria quântica de campos
+    pt_br: teoria quântica de campos
     ro: teoria cuantică a câmpurilor
     ru: квантовая теория поля
     sco: quantum field theory
@@ -176,8 +176,8 @@ dv_has_:
     wuu: 量子场论
     yue: 量子場論
     zh: 量子场论
-    zh-hans: 量子场论
-    zh-hant: 量子場論
+    zh_hans: 量子场论
+    zh_hant: 量子場論
 ---
 # [[QFT(Quantum_Field_Theory)]] 
 

@@ -137,7 +137,7 @@ dv_has_:
     ban: Artiodactyla
     bar: Artiodactyla
     be: парнакапытныя
-    be-tarask: парнакапытныя
+    be_tarask: парнакапытныя
     bg: чифтокопитни
     bn: যুগ্ম ক্ষুরযুক্ত চতুষ্পদ
     br: Artiodaktiled
@@ -151,12 +151,12 @@ dv_has_:
     da: Parrettåede hovdyr
     de: Paarhufer
     de-at: Artiodactyla
-    de-ch: Artiodactyla
+    de_ch: Artiodactyla
     diq: Dı sımeyıni
     el: Αρτιοδάκτυλα
     en: Artiodactyla
-    en-ca: Artiodactyla
-    en-gb: Artiodactyla
+    en_ca: Artiodactyla
+    en_gb: Artiodactyla
     eo: Parhufuloj
     es: artiodáctilos
     et: sõralised
@@ -215,7 +215,7 @@ dv_has_:
     nap: Artiodactyla
     nb: klovdyr
     nds: Artiodactyla
-    nds-nl: Artiodactyla
+    nds_nl: Artiodactyla
     nl: evenhoevigen
     nn: klauvdyr
     nov: Artiodactyla
@@ -229,7 +229,7 @@ dv_has_:
     pms: Artiodactyla
     pnb: پدھرے کھر
     pt: Artiodátilos
-    pt-br: Artiodactyla
+    pt_br: Artiodactyla
     qu: Iskay ruk'anayuq
     rm: Artiodactyla
     ro: Artiodactile
@@ -266,10 +266,10 @@ dv_has_:
     za: Youdaezmoeg
     zea: Evenoevihen
     zh: 偶蹄目
-    zh-cn: 偶蹄目
-    zh-hans: 偶蹄目
-    zh-hant: 偶蹄目
-    zh-tw: 偶蹄目
+    zh_cn: 偶蹄目
+    zh_hans: 偶蹄目
+    zh_hant: 偶蹄目
+    zh_tw: 偶蹄目
     zu: Artiodactyla
 ---
 # [[Artiodactyla]]

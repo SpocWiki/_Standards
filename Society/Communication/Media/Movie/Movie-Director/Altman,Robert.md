@@ -102,7 +102,7 @@ dv_has_:
     ast: Robert Altman
     az: Robert Oltmen
     be: Роберт Олтмен
-    be-tarask: Робэрт Олтман
+    be_tarask: Робэрт Олтман
     bg: Робърт Олтмън
     bn: রবার্ট অল্টম্যান
     bs: Robert Altman
@@ -111,11 +111,11 @@ dv_has_:
     cy: Robert Altman
     da: Robert Altman
     de: Robert Altman
-    de-ch: Robert Altman
+    de_ch: Robert Altman
     el: Ρόμπερτ Όλτμαν
     en: Robert Altman
-    en-ca: Robert Altman
-    en-gb: Robert Altman
+    en_ca: Robert Altman
+    en_gb: Robert Altman
     eo: Robert Altman
     es: Robert Altman
     et: Robert Altman
@@ -152,7 +152,7 @@ dv_has_:
     pap: Robert Altman
     pl: Robert Altman
     pt: Robert Altman
-    pt-br: Robert Altman
+    pt_br: Robert Altman
     ro: Robert Altman
     ru: Роберт Олтмен
     sco: Robert Altman
@@ -171,11 +171,11 @@ dv_has_:
     war: Robert Altman
     yue: 羅拔·柯曼
     zh: 罗伯特·奥尔特曼
-    zh-cn: 罗伯特·奥特曼
-    zh-hans: 罗伯特·奥尔特曼
-    zh-hk: 羅拔·柯曼
-    zh-sg: 罗勃·阿特曼
-    zh-tw: 勞勃·阿特曼
+    zh_cn: 罗伯特·奥特曼
+    zh_hans: 罗伯特·奥尔特曼
+    zh_hk: 羅拔·柯曼
+    zh_sg: 罗勃·阿特曼
+    zh_tw: 勞勃·阿特曼
 ---
 # [[Altman,Robert]] 
 

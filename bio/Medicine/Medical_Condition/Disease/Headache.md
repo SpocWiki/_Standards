@@ -222,7 +222,7 @@ dv_has_:
     bas: nho u si
     bbj: thə̂ a wə́ búʼ a
     be: галаўны боль
-    be-tarask: галаўны боль
+    be_tarask: галаўны боль
     bg: главоболие
     bho: कपार बत्थल
     bkc: njò lè bà kɛ̀
@@ -241,14 +241,14 @@ dv_has_:
     cy: cur pen
     da: hovedpine
     de: Kopfschmerz
-    de-ch: Kopfschmerz
+    de_ch: Kopfschmerz
     din: aɣaarnhom
     dua: mulopo mu e mba sese
     dv: ބޮލުގައި ރިހުން
     el: πονοκέφαλος
     en: headache
-    en-ca: headache
-    en-gb: headache
+    en_ca: headache
+    en_gb: headache
     eo: kapdoloro
     es: cefalea
     et: peavalu
@@ -295,7 +295,7 @@ dv_has_:
     knc: Headache
     ko: 두통
     ks: کلہٕ دود
-    ku-latn: serêş
+    ku_latn: serêş
     kw: Drog penn
     ky: баш оору
     la: Capitis dolor
@@ -319,7 +319,7 @@ dv_has_:
     nan: thâu-thiàⁿ
     nb: hodepine
     nds: Knastpien
-    nds-nl: kopzeerte
+    nds_nl: kopzeerte
     ne: टाउको दुखाई
     nl: hoofdpijn
     nmg: mε tarâ nlúri
@@ -333,7 +333,7 @@ dv_has_:
     pms: Mal ëd testa
     pnb: سر پیڑ
     pt: cefaleia
-    pt-br: cefaleia
+    pt_br: cefaleia
     qu: uma nanay
     ro: durere de cap
     ru: головная боль
@@ -363,7 +363,7 @@ dv_has_:
     tl: sakit ng ulo
     tr: baş ağrısı
     tt: баш авыртуы
-    tt-cyrl: баш авыртуы
+    tt_cyrl: баш авыртуы
     tvu: mɔlɔ́á wɔ́ ndɔ mɛaŋɔ́á sile
     tw: tipayɛ
     udm: йыркыль
@@ -383,14 +383,14 @@ dv_has_:
     yue: 頭刺
     za: Gyouj In
     zh: 頭痛
-    zh-cn: 头痛
-    zh-hans: 头痛
-    zh-hant: 頭痛
-    zh-hk: 頭痛
-    zh-mo: 頭痛
+    zh_cn: 头痛
+    zh_hans: 头痛
+    zh_hant: 頭痛
+    zh_hk: 頭痛
+    zh_mo: 頭痛
     zh-my: 头痛
-    zh-sg: 头痛
-    zh-tw: 頭痛
+    zh_sg: 头痛
+    zh_tw: 頭痛
 ---
 # [[Headache]] 🤕 
 

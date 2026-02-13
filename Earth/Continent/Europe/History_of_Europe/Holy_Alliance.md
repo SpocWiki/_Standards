@@ -108,7 +108,7 @@ dv_has_:
     ast: Santa Alianza
     az: Müqəddəs İttifaq
     be: Свяшчэнны саюз
-    be-tarask: Сьвяты зьвяз
+    be_tarask: Сьвяты зьвяз
     bg: Свещен съюз
     br: Emglev Santel
     ca: Santa Aliança
@@ -157,8 +157,8 @@ dv_has_:
     sl: Sveta aliansa
     sq: Aleanca e shenjtë
     sr: Света алијанса
-    sr-ec: Света алијанса
-    sr-el: Sveta alijansa
+    sr_ec: Света алијанса
+    sr_el: Sveta alijansa
     sv: Heliga alliansen
     th: พันธมิตรอันศักดิ์สิทธิ์
     tr: Kutsal İttifak (1815)
@@ -167,12 +167,12 @@ dv_has_:
     vi: Liên minh Thần thánh
     yue: 神聖同盟
     zh: 神圣同盟
-    zh-cn: 神圣同盟
-    zh-hans: 神圣同盟
-    zh-hant: 神聖同盟
-    zh-hk: 神聖同盟
-    zh-sg: 神圣同盟
-    zh-tw: 神聖同盟
+    zh_cn: 神圣同盟
+    zh_hans: 神圣同盟
+    zh_hant: 神聖同盟
+    zh_hk: 神聖同盟
+    zh_sg: 神圣同盟
+    zh_tw: 神聖同盟
 ---
 # [[Holy_Alliance]] 
 

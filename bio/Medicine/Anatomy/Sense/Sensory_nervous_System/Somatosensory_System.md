@@ -71,18 +71,18 @@ dv_has_:
     ar: حاسة اللمس
     arz: اللمس
     ast: sistema somatosensorial
-    be-tarask: саматасэнсарная сыстэма
+    be_tarask: саматасэнсарная сыстэма
     bg: осезание
     bn: স্পর্শেন্দ্রিয়
     bs: dodir
     ca: sistema somatosensorial
     da: følesans
     de: Tastsinn
-    de-ch: Tastsinn
+    de_ch: Tastsinn
     el: σωματοαισθητικό σύστημα
     en: somatosensory system
-    en-ca: somatosensory system
-    en-gb: somatosensory system
+    en_ca: somatosensory system
+    en_gb: somatosensory system
     eo: tuŝa sistemo
     es: sistema somatosensorial
     eu: sistema somatosentsorial
@@ -111,7 +111,7 @@ dv_has_:
     nn: det somatosensoriske systemet
     pl: układ czuciowy
     pt: sistema somatossensorial
-    pt-br: sistema somatossensorial
+    pt_br: sistema somatossensorial
     ro: sistemul somatosenzorial
     ru: соматосенсорная система
     sh: somatosenzorni sistem
@@ -131,12 +131,12 @@ dv_has_:
     vro: pututaminõ
     yue: 體覺
     zh: 体感
-    zh-cn: 体感
-    zh-hans: 体感
-    zh-hant: 體感
-    zh-hk: 體感
-    zh-sg: 体感
-    zh-tw: 體感
+    zh_cn: 体感
+    zh_hans: 体感
+    zh_hant: 體感
+    zh_hk: 體感
+    zh_sg: 体感
+    zh_tw: 體感
 ---
 # [[Somatosensory_System]] 
 

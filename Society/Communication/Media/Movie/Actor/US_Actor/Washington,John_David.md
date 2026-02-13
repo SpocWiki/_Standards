@@ -52,7 +52,7 @@ dv_has_:
     ko: 존 데이비드 워싱턴
     lb: John David Washington
     lv: Džons Deivids Vašingtons
-    map-bms: John David Washington
+    map_bms: John David Washington
     min: John David Washington
     ms: John David Washington
     nb: John David Washington
@@ -61,7 +61,7 @@ dv_has_:
     pap: John David Washington
     pl: John David Washington
     pt: John David Washington
-    pt-br: John David Washington
+    pt_br: John David Washington
     ro: John David Washington
     ru: Джон Дэвид Вашингтон
     sk: John David Washington
@@ -75,7 +75,7 @@ dv_has_:
     uk: Джон Девід Вашингтон
     yo: John David Washington
     zh: 約翰·大衛·華盛頓
-    zh-hant: 約翰·大衛·華盛頓
+    zh_hant: 約翰·大衛·華盛頓
 ---
 #has_/time_/started :: 1984-07-28 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

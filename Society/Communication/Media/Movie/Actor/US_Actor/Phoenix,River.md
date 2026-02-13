@@ -41,11 +41,11 @@ dv_has_:
     da: River Phoenix
     dag: River Phoenix
     de: River Phoenix
-    de-ch: River Phoenix
+    de_ch: River Phoenix
     el: Ρίβερ Φίνιξ
     en: River Phoenix
-    en-ca: River Phoenix
-    en-gb: River Phoenix
+    en_ca: River Phoenix
+    en_gb: River Phoenix
     en-us: River Phoenix
     eo: River Phoenix
     es: River Phoenix
@@ -80,7 +80,7 @@ dv_has_:
     pap: River Phoenix
     pl: River Phoenix
     pt: River Phoenix
-    pt-br: River Phoenix
+    pt_br: River Phoenix
     ro: River Phoenix
     ru: Ривер Феникс
     sh: River Phoenix
@@ -98,12 +98,12 @@ dv_has_:
     yo: River Phoenix
     yue: 里華馮力士
     zh: 瑞凡·費尼克斯
-    zh-cn: 里弗·菲尼克斯
-    zh-hans: 里弗·菲尼克斯
-    zh-hant: 瑞凡·費尼克斯
-    zh-hk: 里華·馮力士
-    zh-sg: 瑞凡·菲尼克斯
-    zh-tw: 瑞凡·費尼克斯
+    zh_cn: 里弗·菲尼克斯
+    zh_hans: 里弗·菲尼克斯
+    zh_hant: 瑞凡·費尼克斯
+    zh_hk: 里華·馮力士
+    zh_sg: 瑞凡·菲尼克斯
+    zh_tw: 瑞凡·費尼克斯
 ---
 #has_/sibling :: [[Phoenix,Joaquin]] 
 #has_/time_/started :: 1970-08-23  

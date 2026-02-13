@@ -87,8 +87,8 @@ MeSH_tree_code: K01.517.333
 IPTC_NewsCode: mediatopic/20000014
 dv_has_:
   name_:
-    aeb-arab: دراما
-    aeb-latn: dràma
+    aeb_arab: دراما
+    aeb_latn: dràma
     af: Drama
     ar: دراما
     arz: دراما
@@ -99,7 +99,7 @@ dv_has_:
     bar: Drama
     bcl: Drama
     be: драма
-    be-tarask: драма
+    be_tarask: драма
     bg: драма
     bn: নাটক
     bpy: নাটক
@@ -115,7 +115,7 @@ dv_has_:
     dsb: Drama
     el: δράμα
     en: drama
-    en-gb: drama
+    en_gb: drama
     eo: dramo
     es: drama
     et: dramaatika
@@ -132,7 +132,7 @@ dv_has_:
     gl: drama
     gom: Khell
     gom-deva: खेळ
-    gom-latn: Khell
+    gom_latn: Khell
     gsw: Drama
     gv: Drama
     he: דרמה
@@ -151,7 +151,7 @@ dv_has_:
     ka: დრამა
     ko: 드라마
     ku: drama
-    ku-latn: drama
+    ku_latn: drama
     la: Drama
     li: Drama
     lt: drama
@@ -189,7 +189,7 @@ dv_has_:
     sl: dramatika
     sq: dramë
     sr: драма
-    sr-ec: драма
+    sr_ec: драма
     su: drama
     sv: dramatik
     sw: Maigizo
@@ -210,9 +210,9 @@ dv_has_:
     yi: דראמא
     yue: 戲劇
     zh: 戲劇
-    zh-cn: 戏剧
-    zh-hans: 戏剧
-    zh-hant: 戲劇
+    zh_cn: 戏剧
+    zh_hans: 戏剧
+    zh_hant: 戲劇
 ---
 # [[Drama]] 
 

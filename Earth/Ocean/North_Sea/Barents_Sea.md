@@ -215,7 +215,7 @@ dv_has_:
     ba: Баренц диңгеҙе
     bcl: Dagat Barents
     be: Баранцава мора
-    be-tarask: Баранцава мора
+    be_tarask: Баранцава мора
     bg: Баренцово море
     bn: বারেন্টস সাগর
     br: Mor Barents
@@ -319,14 +319,14 @@ dv_has_:
     yo: Òkun Barents
     yue: 巴倫支海
     zh: 巴倫支海
-    zh-cn: 巴伦支海
-    zh-hans: 巴伦支海
-    zh-hant: 巴倫支海
-    zh-hk: 巴倫支海
-    zh-mo: 巴倫支海
+    zh_cn: 巴伦支海
+    zh_hans: 巴伦支海
+    zh_hant: 巴倫支海
+    zh_hk: 巴倫支海
+    zh_mo: 巴倫支海
     zh-my: 巴伦支海
-    zh-sg: 巴伦支海
-    zh-tw: 巴倫支海
+    zh_sg: 巴伦支海
+    zh_tw: 巴倫支海
 ---
 # [[Barents_Sea]] 
 

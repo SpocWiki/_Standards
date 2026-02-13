@@ -88,7 +88,7 @@ dv_has_:
     ar: مجرة غير منتظمة
     ast: Galaxa irregular
     be: Няправільная галактыка
-    be-tarask: няправільная галяктыка
+    be_tarask: няправільная галяктыка
     bg: Неправилна галактика
     bs: Nepravilna galaksija
     ca: galàxia irregular
@@ -136,8 +136,8 @@ dv_has_:
     sl: iregularna galaksija
     smn: epinjuolgâduslâš gaalaaks
     sr: неправилна галаксија
-    sr-ec: неправилна галаксија
-    sr-el: nepravilna galaksija
+    sr_ec: неправилна галаксија
+    sr_el: nepravilna galaksija
     sv: oregelbunden galax
     ta: ஒழுங்கில்லா விண்மீன் பேரடை
     th: ดาราจักรไร้รูปแบบ
@@ -148,12 +148,12 @@ dv_has_:
     xmf: ვარეგულარული გალაქტიკა
     yue: 唔規則星系
     zh: 不规则星系
-    zh-cn: 不规则星系
-    zh-hans: 不规则星系
-    zh-hant: 不規則星系
-    zh-hk: 不規則星系
-    zh-sg: 不规则星系
-    zh-tw: 不規則星系
+    zh_cn: 不规则星系
+    zh_hans: 不规则星系
+    zh_hant: 不規則星系
+    zh_hk: 不規則星系
+    zh_sg: 不规则星系
+    zh_tw: 不規則星系
     zu: Umthalakazi omfihlimfihli
 ---
 # [[Irregular_Galaxy]] 

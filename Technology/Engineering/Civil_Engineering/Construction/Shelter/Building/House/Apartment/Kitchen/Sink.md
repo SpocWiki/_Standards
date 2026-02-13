@@ -95,7 +95,7 @@ dv_has_:
     ar: مغسل
     ast: llavabu
     bcl: Lababo
-    be-tarask: вадазьліў
+    be_tarask: вадазьліў
     bg: Умивалник
     br: Gwalc'heris
     ca: Pica
@@ -104,8 +104,8 @@ dv_has_:
     de: Waschbecken
     el: νεροχύτης
     en: sink
-    en-ca: Sink
-    en-gb: sink
+    en_ca: Sink
+    en_gb: sink
     eo: lavujo
     es: lavabo
     et: Kraanikauss
@@ -141,7 +141,7 @@ dv_has_:
     pms: Lavandin
     pnb: سِنک
     pt: pia
-    pt-br: pia
+    pt_br: pia
     qu: P'uruña
     ro: Chiuvetă
     ru: раковина
@@ -162,12 +162,12 @@ dv_has_:
     vi: Chậu treo tường
     yue: 洗手盤
     zh: 盥洗盆
-    zh-cn: 盥洗盆
-    zh-hans: 盥洗盆
-    zh-hant: 盥洗盆
-    zh-hk: 盥洗盆
-    zh-sg: 盥洗盆
-    zh-tw: 盥洗盆
+    zh_cn: 盥洗盆
+    zh_hans: 盥洗盆
+    zh_hant: 盥洗盆
+    zh_hk: 盥洗盆
+    zh_sg: 盥洗盆
+    zh_tw: 盥洗盆
 ---
 # [[Sink]] 
 

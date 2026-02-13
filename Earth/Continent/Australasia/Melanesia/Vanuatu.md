@@ -553,7 +553,7 @@ dv_has_:
   name_:
     ab: Вануату
     ace: Vanuatu
-    aeb-arab: ڥانواتو
+    aeb_arab: ڥانواتو
     af: Vanuatu
     am: ቫኑአቱ
     ami: Vanuatu
@@ -571,7 +571,7 @@ dv_has_:
     ban: Vanuatu
     bcl: Banuatu
     be: Вануату
-    be-tarask: Вануату
+    be_tarask: Вануату
     bew: Wanuatu
     bg: Вануату
     bho: वानूआतू
@@ -584,7 +584,7 @@ dv_has_:
     bs: Vanuatu
     bxr: Вануату
     ca: Vanuatu
-    cbk-zam: Vanuatu
+    cbk_zam: Vanuatu
     cdo: Vanuatu
     ce: Вануату
     ceb: Vanuatu
@@ -593,21 +593,21 @@ dv_has_:
     ckb: ڤانواتوو
     co: Vanatu
     crh: Vanuatu
-    crh-latn: Vanuatu
+    crh_latn: Vanuatu
     cs: Vanuatu
     cy: Vanuatu
     da: Vanuatu
     dag: Republic of Vanuatu
     de: Vanuatu
-    de-ch: Vanuatu
+    de_ch: Vanuatu
     diq: Vanuatu
     dsb: Vanuatu
     dty: भानुआटु
     dv: ވަނުއާޓޫ
     el: Βανουάτου
     en: Vanuatu
-    en-ca: Vanuatu
-    en-gb: Vanuatu
+    en_ca: Vanuatu
+    en_gb: Vanuatu
     eo: Vanuatuo
     es: Vanuatu
     et: Vanuatu
@@ -720,7 +720,7 @@ dv_has_:
     pnb: وینوآتو
     ps: وانواتو
     pt: Vanuatu
-    pt-br: Vanuatu
+    pt_br: Vanuatu
     qu: Wanwatu
     rm: Vanuatu
     ro: Vanuatu
@@ -790,13 +790,13 @@ dv_has_:
     za: Vanuatu
     zea: Vanuatu
     zh: 萬那杜
-    zh-cn: 瓦努阿图
-    zh-hans: 瓦努阿图
-    zh-hant: 萬那杜
-    zh-hk: 瓦努阿圖
-    zh-mo: 瓦努阿圖
-    zh-sg: 瓦努阿图
-    zh-tw: 萬那杜
+    zh_cn: 瓦努阿图
+    zh_hans: 瓦努阿图
+    zh_hant: 萬那杜
+    zh_hk: 瓦努阿圖
+    zh_mo: 瓦努阿圖
+    zh_sg: 瓦努阿图
+    zh_tw: 萬那杜
     zu: i-Vanuatu
 ---
 # [[Vanuatu]] 

@@ -60,7 +60,7 @@ dv_has_:
     oc: Cyclopoida
     pl: Cyclopoida
     pt: Cyclopoida
-    pt-br: Cyclopoida
+    pt_br: Cyclopoida
     ro: Cyclopoida
     ru: циклопы
     sq: Cyclopoida
@@ -71,10 +71,10 @@ dv_has_:
     vo: Cyclopoida
     war: Cyclopoida
     zh: 劍水蚤目
-    zh-cn: 剑水蚤目
-    zh-hans: 剑水蚤目
-    zh-hant: 劍水蚤目
-    zh-tw: 剑水蚤目
+    zh_cn: 剑水蚤目
+    zh_hans: 剑水蚤目
+    zh_hant: 劍水蚤目
+    zh_tw: 剑水蚤目
 ---
 # [[Cyclopoida]] 
 ![Cyclops female with egg sacs](Cyclopoida/Cyclops.jpg) 

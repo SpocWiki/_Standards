@@ -47,7 +47,7 @@ dv_has_:
     oc: Cestodaria
     pl: Tasiemce nieczłonowane
     pt: Cestodaria
-    pt-br: Cestodaria
+    pt_br: Cestodaria
     ro: Cestodaria
     ru: Cestodaria
     sk: Pásomničky
@@ -58,8 +58,8 @@ dv_has_:
     vo: Cestodaria
     war: Cestodaria
     zh: 单节亚纲
-    zh-cn: 单节亚纲
-    zh-tw: 單節亞綱
+    zh_cn: 单节亚纲
+    zh_tw: 單節亞綱
 ---
 # [[Cestodaria]] 
 

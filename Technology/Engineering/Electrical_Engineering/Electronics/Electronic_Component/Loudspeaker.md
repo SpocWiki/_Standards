@@ -145,7 +145,7 @@ dv_has_:
     ast: Altavoz
     atj: Ka ici petakok kitotakan
     be: гучнагаварыцель
-    be-tarask: гучнамоўнік
+    be_tarask: гучнамоўнік
     bew: sombok
     bg: Високоговорител
     bn: লাউডস্পিকার
@@ -205,7 +205,7 @@ dv_has_:
     pms: Altoparlant
     ps: لوړغږی
     pt: altifalante
-    pt-br: alto-falante
+    pt_br: alto-falante
     qu: Ruqyaq
     ro: Difuzor
     ru: громкоговоритель
@@ -220,8 +220,8 @@ dv_has_:
     sms: šääiǥan
     sq: Altoparlanti
     sr: рачунарски звучник
-    sr-ec: рачунарски звучник
-    sr-el: računarski zvučnik
+    sr_ec: рачунарски звучник
+    sr_el: računarski zvučnik
     su: Lawong
     sv: högtalare
     sw: Kipaza sauti
@@ -230,7 +230,7 @@ dv_has_:
     tl: Palakas-tinig
     tr: Hoparlör
     tt: тавыш зурайткыч
-    tt-cyrl: тавыш зурайткыч
+    tt_cyrl: тавыш зурайткыч
     uk: гучномовець
     ur: بلندگو
     uz: Radiokarnay
@@ -241,7 +241,7 @@ dv_has_:
     wuu: 揚聲器
     yue: 音響喇叭
     zh: 揚聲器
-    zh-hans: 扬声器
+    zh_hans: 扬声器
 ---
 # [[Loudspeaker]]🔊 
 

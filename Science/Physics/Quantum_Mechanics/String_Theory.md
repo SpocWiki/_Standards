@@ -101,7 +101,7 @@ dv_has_:
     ast: teoría de cuerdes
     az: sim nəzəriyyəsi
     be: тэорыя струн
-    be-tarask: тэорыя струнаў
+    be_tarask: тэорыя струнаў
     bg: теория на струните
     bn: স্ট্রিং তত্ত্ব
     ca: teoria de cordes
@@ -151,7 +151,7 @@ dv_has_:
     pl: teoria strun
     pnb: سٹرینگ تھیوری
     pt: teoria das cordas
-    pt-br: teoria das cordas
+    pt_br: teoria das cordas
     ro: teoria coardelor
     ru: теория струн
     sco: string theory
@@ -176,8 +176,8 @@ dv_has_:
     yue: 弦論
     zgh: ⵜⵉⵥⵉⵕⵜ ⵏ ⵉⴹⵏⵏⴰⵥⵏ
     zh: 弦理論
-    zh-hans: 弦理论
-    zh-hant: 弦理論
+    zh_hans: 弦理论
+    zh_hant: 弦理論
 ---
 # [[String_Theory]] 
 

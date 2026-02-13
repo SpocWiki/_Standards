@@ -140,7 +140,7 @@ dv_has_:
     az: Haumea
     bar: Haumea
     be: Хаўмеа
-    be-tarask: Хаўмэя
+    be_tarask: Хаўмэя
     bg: Хаумея
     bn: হাউমেয়া
     br: Haumea
@@ -154,8 +154,8 @@ dv_has_:
     de: (136108) Haumea
     el: Χαουμέια
     en: Haumea
-    en-ca: Haumea
-    en-gb: Haumea
+    en_ca: Haumea
+    en_gb: Haumea
     eo: Haŭmeo
     es: Haumea
     et: Haumea
@@ -212,7 +212,7 @@ dv_has_:
     pl: Haumea
     pnb: ہاؤمیا
     pt: Haumea
-    pt-br: Haumea
+    pt_br: Haumea
     qu: Haumea
     rm: Haumea (planet nanin)
     ro: Haumea
@@ -244,9 +244,9 @@ dv_has_:
     xmf: ჰაუმეა
     yue: 妊神星
     zh: 妊神星
-    zh-cn: 妊神星
-    zh-hans: 妊神星
-    zh-hant: 妊神星
+    zh_cn: 妊神星
+    zh_hans: 妊神星
+    zh_hant: 妊神星
     zu: UNohunga
 ---
 # [[Haumea]] 

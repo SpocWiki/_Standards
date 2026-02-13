@@ -69,7 +69,7 @@ dv_has_:
     ar: فالق الدفع
     ast: Cabalgamiento
     az: Üstəgəlmə
-    be-tarask: насоў
+    be_tarask: насоў
     bg: Навлак
     ca: encavalcament
     de: Überschiebung
@@ -89,9 +89,9 @@ dv_has_:
     ja: 衝上断層
     ka: შეცოცება
     kk: Жоғары ығысу
-    kk-arab: جوعارى ىعىسۋ
-    kk-cyrl: Жоғары ығысу
-    kk-latn: Joğarı ığısw
+    kk_arab: جوعارى ىعىسۋ
+    kk_cyrl: Жоғары ығысу
+    kk_latn: Joğarı ığısw
     ko: 스러스트 단층
     mk: навлака
     nb: skyvedekke
@@ -103,8 +103,8 @@ dv_has_:
     sh: Navlaka
     sl: narivni prelom
     sr: шаријаж
-    sr-ec: Навлака
-    sr-el: Navlaka
+    sr_ec: Навлака
+    sr_el: Navlaka
     tr: bindirme fayı
     tt: Күчеш (геология)
     uk: Насув

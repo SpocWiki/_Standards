@@ -22,7 +22,7 @@ dv_has_:
     az: The Cranberries
     azb: کرنبریز
     be: The Cranberries
-    be-tarask: The Cranberries
+    be_tarask: The Cranberries
     bg: Кранберис
     bs: The Cranberries
     ca: The Cranberries
@@ -31,12 +31,12 @@ dv_has_:
     cy: The Cranberries
     da: The Cranberries
     de: The Cranberries
-    de-ch: The Cranberries
+    de_ch: The Cranberries
     el: The Cranberries
     eml: The Cranberries
     en: The Cranberries
-    en-ca: The Cranberries
-    en-gb: The Cranberries
+    en_ca: The Cranberries
+    en_gb: The Cranberries
     eo: The Cranberries
     es: The Cranberries
     et: The Cranberries
@@ -75,7 +75,7 @@ dv_has_:
     pl: The Cranberries
     pms: The Cranberries
     pt: The Cranberries
-    pt-br: The Cranberries
+    pt_br: The Cranberries
     ro: The Cranberries
     ru: The Cranberries
     sco: The Cranberries
@@ -93,9 +93,9 @@ dv_has_:
     wuu: 小红莓乐队
     yue: The Cranberries
     zh: 小紅莓樂隊
-    zh-hans: 小红莓乐队
-    zh-hant: 小紅莓樂團
-    zh-hk: 小紅莓樂隊
+    zh_hans: 小红莓乐队
+    zh_hant: 小紅莓樂團
+    zh_hk: 小紅莓樂隊
 ---
 # [[Cranberries(Band)]] 
 

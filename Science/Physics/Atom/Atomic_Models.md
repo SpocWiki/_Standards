@@ -73,7 +73,7 @@ dv_has_:
     ar: نظرية ذرية
     ast: Teoría atómica
     be: Атамная тэорыя
-    be-tarask: атамная тэорыя
+    be_tarask: атамная тэорыя
     bg: Атомна теория
     bn: পারমাণবিক তত্ত্ব
     bs: Atomska teorija
@@ -118,8 +118,8 @@ dv_has_:
     sh: Atomistika
     si: පරමාණුක වාදය
     sr: Атомистика
-    sr-ec: Атомистика
-    sr-el: Atomistika
+    sr_ec: Атомистика
+    sr_el: Atomistika
     sv: atomteori
     ta: அணுவியல் கொள்கை
     te: పరమాణు సిద్ధాంతం
@@ -135,12 +135,12 @@ dv_has_:
     wuu: 原子理论
     yue: 原子論
     zh: 原子理論
-    zh-cn: 原子理论
-    zh-hans: 原子理论
-    zh-hant: 原子理論
-    zh-hk: 原子理論
-    zh-sg: 原子理论
-    zh-tw: 原子理論
+    zh_cn: 原子理论
+    zh_hans: 原子理论
+    zh_hant: 原子理論
+    zh_hk: 原子理論
+    zh_sg: 原子理论
+    zh_tw: 原子理論
 ---
 # [[Atomic_Models]] 
 

@@ -98,7 +98,7 @@ dv_has_:
     pap: Pier Paolo Pasolini
     pl: Pier Paolo Pasolini
     pt: Pier Paolo Pasolini
-    pt-br: Pier Paolo Pasolini
+    pt_br: Pier Paolo Pasolini
     qu: Pier Paolo Pasolini
     rm: Pier Paolo Pasolini
     ro: Pier Paolo Pasolini
@@ -123,8 +123,8 @@ dv_has_:
     xmf: პიერ პაოლო პაზოლინი
     yue: 皮耶·保羅·柏索里尼
     zh: 皮埃尔·保罗·帕索里尼
-    zh-hk: 柏索里尼
-    zh-sg: 巴索里尼
+    zh_hk: 柏索里尼
+    zh_sg: 巴索里尼
 ---
 # [[Pasolini,Pier_Paolo]] 
 

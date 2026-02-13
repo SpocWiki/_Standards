@@ -74,7 +74,7 @@ dv_has_:
     oc: Pandanales
     pl: pandanowce
     pt: Pandanales
-    pt-br: Pandanales
+    pt_br: Pandanales
     ro: Pandanales
     ru: панданоцветные
     sl: pandanovci
@@ -87,8 +87,8 @@ dv_has_:
     war: Pandanales
     yue: 露兜樹目
     zh: 露兜树目
-    zh-cn: 露兜树目
-    zh-tw: 露兜樹目
+    zh_cn: 露兜树目
+    zh_tw: 露兜樹目
 ---
 # [[Pandanales]] 
 

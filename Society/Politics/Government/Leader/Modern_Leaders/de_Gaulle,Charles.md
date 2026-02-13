@@ -215,7 +215,7 @@ dv_has_:
     ba: Шарль де Голль
     ban: Charles de Gaulle
     be: Шарль дэ Голь
-    be-tarask: Шарль дэ Голь
+    be_tarask: Шарль дэ Голь
     bg: Шарл дьо Гол
     bho: चार्ल्स डी गॉल
     bn: শার্ল দ্য গোল
@@ -231,13 +231,13 @@ dv_has_:
     cy: Charles de Gaulle
     da: Charles de Gaulle
     de: Charles de Gaulle
-    de-ch: Charles de Gaulle
+    de_ch: Charles de Gaulle
     diq: Charles de Gaulle
     dsb: Charles de Gaulle
     el: Σαρλ ντε Γκολ
     en: Charles de Gaulle
-    en-ca: Charles de Gaulle
-    en-gb: Charles de Gaulle
+    en_ca: Charles de Gaulle
+    en_gb: Charles de Gaulle
     en-us: Charles de Gaulle
     eo: Charles de Gaulle
     es: Charles de Gaulle
@@ -384,10 +384,10 @@ dv_has_:
     yo: Charles de Gaulle
     yue: 戴高樂
     zh: 夏爾·戴高樂
-    zh-cn: 夏尔·戴高乐
-    zh-hans: 夏尔·戴高乐
-    zh-hant: 夏爾·戴高樂
-    zh-hk: 夏爾·戴高樂
+    zh_cn: 夏尔·戴高乐
+    zh_hans: 夏尔·戴高乐
+    zh_hant: 夏爾·戴高樂
+    zh_hk: 夏爾·戴高樂
 ---
 # [[de_Gaulle,Charles]] 
 

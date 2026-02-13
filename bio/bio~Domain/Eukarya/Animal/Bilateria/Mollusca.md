@@ -164,7 +164,7 @@ dv_has_:
     ba: Моллюскылар
     bar: Mollusca
     be: малюскі
-    be-tarask: малюскі
+    be_tarask: малюскі
     bg: мекотели
     bn: মলাস্কা
     br: Blotvil
@@ -180,12 +180,12 @@ dv_has_:
     da: bløddyr
     de: Weichtiere
     de-at: Mollusca
-    de-ch: Mollusca
+    de_ch: Mollusca
     diq: Mollusca
     el: Μαλάκια
     en: Mollusca
-    en-ca: Mollusca
-    en-gb: Mollusca
+    en_ca: Mollusca
+    en_gb: Mollusca
     eo: molusko
     es: moluscos
     et: Limused
@@ -251,7 +251,7 @@ dv_has_:
     nap: Mollusca
     nb: bløtdyr
     nds: Weekdeerter
-    nds-nl: Mollusca
+    nds_nl: Mollusca
     nl: weekdieren
     nn: blautdyr
     nrm: Mollusca
@@ -269,7 +269,7 @@ dv_has_:
     pms: Mollusca
     pnb: مولسکا
     pt: Moluscos
-    pt-br: Mollusca
+    pt_br: Mollusca
     qu: Llamp'uka
     rm: Mollusca
     ro: Mollusca
@@ -316,9 +316,9 @@ dv_has_:
     yi: מאלוסקן
     yue: 軟體動物
     zh: 软体动物门
-    zh-cn: 软体动物门
-    zh-hans: 软体动物门
-    zh-tw: 軟體動物門
+    zh_cn: 软体动物门
+    zh_hans: 软体动物门
+    zh_tw: 軟體動物門
     zu: Mollusca
 ---
 # [[Mollusca]]

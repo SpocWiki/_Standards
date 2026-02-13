@@ -8,14 +8,14 @@ dv_has_:
     az: Tibet buddizmi
     ba: Тибет буддизмы
     be: Тыбецкі будызм
-    be-tarask: тыбэцкі будызм
+    be_tarask: тыбэцкі будызм
     bg: Тибетски будизъм
     bn: তিব্বতি বৌদ্ধধর্ম
     bo: བོད་བརྒྱུད་ནང་བསྟན།
     bs: Tibetanski budizam
     ca: budisme tibetà
     crh: Tibet buddizmi
-    crh-latn: Tibet buddizmi
+    crh_latn: Tibet buddizmi
     cs: tibetský buddhismus
     cy: Bwdhaeth Dibetaidd
     da: Tibetansk buddhisme
@@ -23,8 +23,8 @@ dv_has_:
     diq: Budizmê Tibeti
     el: Λαμαϊσμός
     en: Tibetan Buddhism
-    en-ca: Tibetan Buddhism
-    en-gb: Tibetan Buddhism
+    en_ca: Tibetan Buddhism
+    en_gb: Tibetan Buddhism
     eo: Tibeta budhismo
     es: budismo tibetano
     et: Tiibeti budism
@@ -75,7 +75,7 @@ dv_has_:
     pl: Buddyzm tybetański
     pnb: تبتی بدھ دھرم
     pt: budismo tibetano
-    pt-br: budismo centro-asiático
+    pt_br: budismo centro-asiático
     rm: Budissem tibetan
     ro: budism tibetan
     ru: тибетский буддизм
@@ -85,8 +85,8 @@ dv_has_:
     sl: tibetanski budizem
     sq: Budizmi tibetian
     sr: тибетански будизам
-    sr-ec: Тибетански будизам
-    sr-el: Tibetanski budizam
+    sr_ec: Тибетански будизам
+    sr_el: Tibetanski budizam
     sv: tibetansk buddhism
     sw: Ubuddha wa kitibeti
     ta: திபெத்திய பௌத்தம்
@@ -100,9 +100,9 @@ dv_has_:
     wuu: 藏传佛教
     yue: 藏傳佛教
     zh: 藏傳佛教
-    zh-hans: 藏传佛教
-    zh-hant: 藏傳佛教
-    zh-hk: 藏傳佛教
+    zh_hans: 藏传佛教
+    zh_hant: 藏傳佛教
+    zh_hk: 藏傳佛教
 aliases:
 - Bodisma tibetana
 - bouddhisme tibétain

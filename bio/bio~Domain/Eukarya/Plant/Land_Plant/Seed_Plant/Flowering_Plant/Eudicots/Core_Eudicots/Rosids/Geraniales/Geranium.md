@@ -92,7 +92,7 @@ dv_has_:
     az: Ətirşah
     bar: Geranium
     be: герань
-    be-tarask: геранія
+    be_tarask: геранія
     bg: здравец
     br: Geranium
     ca: Geranium
@@ -103,11 +103,11 @@ dv_has_:
     da: storkenæb
     de: Storchschnäbel
     de-at: Geranium
-    de-ch: Geranium
+    de_ch: Geranium
     el: γεράνι
     en: Geranium
-    en-ca: Geranium
-    en-gb: Geranium
+    en_ca: Geranium
+    en_gb: Geranium
     eo: Geranio
     es: Geranium
     et: Kurereha
@@ -137,17 +137,17 @@ dv_has_:
     ka: ნემსიწვერა
     kg: Geranium
     kk: Қазтамақ
-    kk-arab: قازتاماق
+    kk_arab: قازتاماق
     kk-cn: قازتاماق
-    kk-cyrl: Қазтамақ
+    kk_cyrl: Қазтамақ
     kk-kz: Қазтамақ
-    kk-latn: Qaztamaq
+    kk_latn: Qaztamaq
     kk-tr: Qaztamaq
     kn: ಜಿರೇನಿಯಮ್
     ko: 쥐손이풀속
     ku: Derzîlok
-    ku-arab: دەرزیلۆک
-    ku-latn: Derzîlok
+    ku_arab: دەرزیلۆک
+    ku_latn: Derzîlok
     ky: Герань
     la: Geranium
     lb: Geranium
@@ -164,7 +164,7 @@ dv_has_:
     nap: Geranium
     nb: Storkenebbslekta
     nds: Geranium
-    nds-nl: Geranium
+    nds_nl: Geranium
     nl: geranium
     nn: Storkenebbslekta
     nrm: Geranium
@@ -175,7 +175,7 @@ dv_has_:
     pl: bodziszek
     pms: Geranium
     pt: Geranium
-    pt-br: Geranium
+    pt_br: Geranium
     rm: Geranium
     ro: Geranium
     ru: герань
@@ -207,12 +207,12 @@ dv_has_:
     wuu: 老鹳草属
     yue: 老鸛草屬
     zh: 老鹳草属
-    zh-cn: 老颧草属
-    zh-hans: 老颧草属
-    zh-hant: 老顴草屬
-    zh-hk: 老顴草屬
-    zh-sg: 老颧草属
-    zh-tw: 老顴草屬
+    zh_cn: 老颧草属
+    zh_hans: 老颧草属
+    zh_hant: 老顴草屬
+    zh_hk: 老顴草屬
+    zh_sg: 老颧草属
+    zh_tw: 老顴草屬
     zu: Geranium
 ---
 # [[Geranium]] 

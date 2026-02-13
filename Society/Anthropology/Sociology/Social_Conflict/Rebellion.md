@@ -118,7 +118,7 @@ dv_has_:
     az: üsyan
     azb: عوصیان
     be: паўстанне
-    be-tarask: паўстаньне
+    be_tarask: паўстаньне
     bg: въстание
     bo: གྱེན་ལོག
     br: rebellion
@@ -134,7 +134,7 @@ dv_has_:
     diq: Qetliam
     el: επανάσταση
     en: rebellion
-    en-gb: rebellion
+    en_gb: rebellion
     eo: ribelo
     es: rebelión
     et: mäss
@@ -157,16 +157,16 @@ dv_has_:
     it: ribellione
     ja: 反乱
     kk: Көтеріліс
-    kk-arab: كوتەرىلىس
+    kk_arab: كوتەرىلىس
     kk-cn: كوتەرىلىس
-    kk-cyrl: Көтеріліс
+    kk_cyrl: Көтеріліс
     kk-kz: Көтеріліс
-    kk-latn: Köterilis
+    kk_latn: Köterilis
     kk-tr: Köterilis
     kn: ದಂಗೆ
     ko: 반란
     ku: serhildan
-    ku-latn: serhildan
+    ku_latn: serhildan
     lt: Sukilimas
     lv: sacelšanās
     mk: востание
@@ -191,8 +191,8 @@ dv_has_:
     sn: Chindunduma
     sq: Rebelimi
     sr: устанак
-    sr-ec: устанак
-    sr-el: ustanak
+    sr_ec: устанак
+    sr_el: ustanak
     sv: uppror
     ta: கிளர்ச்சி
     tg: Исён
@@ -207,12 +207,12 @@ dv_has_:
     wuu: 起義
     yue: 起義
     zh: 起義
-    zh-cn: 举事
-    zh-hans: 举事
-    zh-hant: 革命
-    zh-hk: 起義
-    zh-sg: 革命
-    zh-tw: 革命
+    zh_cn: 举事
+    zh_hans: 举事
+    zh_hant: 革命
+    zh_hk: 起義
+    zh_sg: 革命
+    zh_tw: 革命
 ---
 # [[Rebellion]] 
 

@@ -186,7 +186,7 @@ dv_has_:
     azb: اؤیرنجی
     ba: студент
     be: студэнт
-    be-tarask: вучань
+    be_tarask: вучань
     bg: студент
     bn: শিক্ষার্থী
     bo: སློབ་ཕྲུག་
@@ -203,8 +203,8 @@ dv_has_:
     de: Student
     el: φοιτητής
     en: student
-    en-ca: student
-    en-gb: student
+    en_ca: student
+    en_gb: student
     eo: studento
     es: estudiante
     et: üliõpilane
@@ -242,7 +242,7 @@ dv_has_:
     ko: 학생
     ks: طٲلبہِ عٔلِم
     ku: telebe
-    ku-latn: xwendekar
+    ku_latn: xwendekar
     ky: студентчилик
     la: discipulus
     lb: Student
@@ -275,7 +275,7 @@ dv_has_:
     pnb: پڑھیار
     ps: زدهکوونکي
     pt: estudante
-    pt-br: estudante
+    pt_br: estudante
     qu: yachay munaq
     ro: student
     ru: ученик
@@ -292,7 +292,7 @@ dv_has_:
     so: arday
     sq: studenti
     sr: студент
-    sr-ec: студент
+    sr_ec: студент
     sv: student
     sw: mwanafunzi
     ta: மாணவன்
@@ -302,7 +302,7 @@ dv_has_:
     tl: Mag-aaral
     tr: öğrenci
     tt: укучы
-    tt-cyrl: укучы
+    tt_cyrl: укучы
     tw: sukuuni
     ug: ئوقۇغۇچى
     uk: учень
@@ -318,10 +318,10 @@ dv_has_:
     yue: 學生
     za: hagseng
     zh: 学生
-    zh-hans: 学生
-    zh-hant: 學生
-    zh-hk: 學生
-    zh-tw: 學生
+    zh_hans: 学生
+    zh_hant: 學生
+    zh_hk: 學生
+    zh_tw: 學生
 ---
 # [[Student]] 
 

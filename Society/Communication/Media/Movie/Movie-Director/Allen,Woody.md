@@ -237,7 +237,7 @@ dv_has_:
     ba: Аллен Вуди
     bar: Woody Allen
     be: Вудзі Ален
-    be-tarask: Ўудзі Ален
+    be_tarask: Ўудзі Ален
     bg: Уди Алън
     bho: वूडी एलेन
     bn: উডি অ্যালেন
@@ -251,8 +251,8 @@ dv_has_:
     de: Woody Allen
     el: Γούντι Άλεν
     en: Woody Allen
-    en-ca: Woody Allen
-    en-gb: Woody Allen
+    en_ca: Woody Allen
+    en_gb: Woody Allen
     eo: Woody Allen
     es: Woody Allen
     et: Woody Allen
@@ -311,7 +311,7 @@ dv_has_:
     pl: Woody Allen
     pms: Woody Allen
     pt: Woody Allen
-    pt-br: Woody Allen
+    pt_br: Woody Allen
     qu: Woody Allen
     ro: Woody Allen
     ru: Вуди Аллен
@@ -322,7 +322,7 @@ dv_has_:
     sl: Woody Allen
     sq: Woody Allen
     sr: Вуди Ален
-    sr-ec: Вуди Ален
+    sr_ec: Вуди Ален
     sv: Woody Allen
     szl: Woody Allen
     ta: வுடி ஆலன்
@@ -348,9 +348,9 @@ dv_has_:
     yue: 活地·亞倫
     za: Woody Allen
     zh: 伍迪·艾伦
-    zh-hant: 伍迪·艾倫
-    zh-hk: 活地亞倫
-    zh-tw: 伍迪·艾倫
+    zh_hant: 伍迪·艾倫
+    zh_hk: 活地亞倫
+    zh_tw: 伍迪·艾倫
 ---
 # [[Allen,Woody]] 
 

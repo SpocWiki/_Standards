@@ -47,15 +47,15 @@ dv_has_:
   name_:
     af: Matrysgietwerk
     ar: سبك في قوالب
-    be-tarask: ліцьцё мэталаў пад ціскам
+    be_tarask: ліцьцё мэталаў пад ціскам
     bg: Леене под налягане
     ca: fosa a pressió
     cs: tlakové lití
     de: Druckguss
-    de-ch: Druckguss
+    de_ch: Druckguss
     en: die casting
-    en-ca: Die casting
-    en-gb: Die casting
+    en_ca: Die casting
+    en_gb: Die casting
     eo: Metalmuldado
     es: Fundición a presión
     et: Survevalu
@@ -72,7 +72,7 @@ dv_has_:
     nn: presstøyping
     pl: Odlewanie ciśnieniowe
     pt: Fundição injetada
-    pt-br: Fundição injetada
+    pt_br: Fundição injetada
     ro: turnare sub presiune
     ru: Литьё металлов под давлением
     sl: tlačno litje

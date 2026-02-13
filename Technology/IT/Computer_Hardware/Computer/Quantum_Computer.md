@@ -99,7 +99,7 @@ dv_has_:
     ar: حاسوب كمومي
     ast: ordenador cuánticu
     az: kvant kompüteri
-    be-tarask: квантавы кампутар
+    be_tarask: квантавы кампутар
     bg: квантов компютър
     bn: কোয়ান্টাম পরিগণনা
     bs: kvantni računar
@@ -171,7 +171,7 @@ dv_has_:
     wuu: 量子计算机
     yue: 量子電腦
     zh: 量子计算机
-    zh-hans: 量子计算机
+    zh_hans: 量子计算机
 ---
 # [[Quantum_Computer]] 
 

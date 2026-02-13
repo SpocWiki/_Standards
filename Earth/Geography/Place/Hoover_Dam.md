@@ -155,7 +155,7 @@ dv_has_:
     ast: Presa Hoover
     az: Huver bəndi
     be: Плаціна Гувера
-    be-tarask: плаціна Гувэра
+    be_tarask: плаціна Гувэра
     bg: ВЕЦ Хувър Дам
     bn: হুভার বাঁধ
     bs: Hooverova brana
@@ -211,7 +211,7 @@ dv_has_:
     sk: Hoover Dam
     sl: Hooverjev jez
     sr: Хуверова брана
-    sr-ec: Хуверова брана
+    sr_ec: Хуверова брана
     sv: Hooverdammen
     ta: ஊவர் அணை
     te: హూవర్ డామ్
@@ -222,12 +222,12 @@ dv_has_:
     wuu: 胡佛水坝
     yue: 胡佛大壩
     zh: 胡佛水壩
-    zh-cn: 胡佛水坝
-    zh-hans: 胡佛水坝
-    zh-hant: 胡佛水壩
-    zh-hk: 胡佛水壩
-    zh-sg: 胡佛水坝
-    zh-tw: 胡佛水壩
+    zh_cn: 胡佛水坝
+    zh_hans: 胡佛水坝
+    zh_hant: 胡佛水壩
+    zh_hk: 胡佛水壩
+    zh_sg: 胡佛水坝
+    zh_tw: 胡佛水壩
 ---
 # [[Hoover_Dam]] 
 

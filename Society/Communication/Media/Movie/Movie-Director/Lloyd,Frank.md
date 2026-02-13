@@ -68,7 +68,7 @@ dv_has_:
     arz: فرانك لويد
     ast: Frank Lloyd
     be: Фрэнк Лойд
-    be-tarask: Фрэнк Лойд
+    be_tarask: Фрэнк Лойд
     bg: Франк Лойд
     bn: ফ্র্যাংক লয়েড
     ca: Frank Lloyd
@@ -107,7 +107,7 @@ dv_has_:
     pap: Frank Lloyd
     pl: Frank Lloyd
     pt: Frank Lloyd
-    pt-br: Frank Lloyd
+    pt_br: Frank Lloyd
     ro: Frank Lloyd
     ru: Фрэнк Ллойд
     sah: Фрэнк Ллойд
@@ -126,7 +126,7 @@ dv_has_:
     yo: Frank Lloyd
     yue: 法蘭萊
     zh: 弗蘭克·洛伊德
-    zh-hk: 法蘭·萊
+    zh_hk: 法蘭·萊
 ---
 # [[Lloyd,Frank]] 
 

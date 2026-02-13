@@ -320,7 +320,7 @@ dv_has_:
     bar: Kerng
     bcl: Simbahan
     be: царква
-    be-tarask: царква
+    be_tarask: царква
     bg: църква
     bho: चर्च
     bi: Jioj
@@ -337,12 +337,12 @@ dv_has_:
     da: kirke
     dag: aleluyani
     de: Kirchengebäude
-    de-ch: Kirche
+    de_ch: Kirche
     dga: Ŋmempuori die
     diq: kılise
     el: εκκλησία
     en: church building
-    en-gb: church
+    en_gb: church
     en-us: church building
     eo: kristana preĝejo
     es: iglesia
@@ -394,7 +394,7 @@ dv_has_:
     ks: گِرجاگر
     ksh: Kirch
     ku: dêr
-    ku-latn: dêr
+    ku_latn: dêr
     la: ecclesia
     lad: kilisia
     lb: Kierch
@@ -416,14 +416,14 @@ dv_has_:
     mr: चर्च
     mrj: кирха
     ms: bangunan gereja
-    ms-arab: باڠونن ݢريجا
+    ms_arab: باڠونن ݢريجا
     mt: knisja
     myv: церькува
     nah: teōpantli
     nan: lé-pài-tn̂g
     nb: kirkebygning
     nds: Kark
-    nds-nl: kaark
+    nds_nl: kaark
     ne: चर्च
     nia: osali
     nl: kerkgebouw
@@ -444,7 +444,7 @@ dv_has_:
     pnt: εγκλεσία
     ps: کلیسا
     pt: igreja
-    pt-br: igreja
+    pt_br: igreja
     qu: Inlisya
     rmf: khangari
     rn: Isengero
@@ -472,8 +472,8 @@ dv_has_:
     so: kaniisad
     sq: kishë
     sr: црква
-    sr-ec: црква
-    sr-el: crkva
+    sr_ec: црква
+    sr_el: crkva
     stq: Säärke
     su: garéja
     sv: kyrka
@@ -488,8 +488,8 @@ dv_has_:
     tpi: sios
     tr: kilise
     tt: чиркәү
-    tt-cyrl: чиркәү
-    tt-latn: çirkäw
+    tt_cyrl: чиркәү
+    tt_latn: çirkäw
     tw: asɔre dan
     uk: церква
     ur: گرجا گھر
@@ -506,14 +506,14 @@ dv_has_:
     yue: 教堂
     zea: kerke
     zh: 教堂
-    zh-cn: 教堂
-    zh-hans: 教堂
-    zh-hant: 教堂
-    zh-hk: 教堂
-    zh-mo: 教堂
+    zh_cn: 教堂
+    zh_hans: 教堂
+    zh_hant: 教堂
+    zh_hk: 教堂
+    zh_mo: 教堂
     zh-my: 教堂
-    zh-sg: 教堂
-    zh-tw: 教堂
+    zh_sg: 教堂
+    zh_tw: 教堂
   parent_class: '[[../PlaceOfWorship]]'
   properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'
 dv_is_:

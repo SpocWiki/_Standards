@@ -119,7 +119,7 @@ dv_has_:
     ba: унарлы иҫәпләү системаһы
     bcl: desimal
     be: дзесятковая сістэма злічэння
-    be-tarask: дзесятковая сыстэма зьлічэньня
+    be_tarask: дзесятковая сыстэма зьлічэньня
     bg: десетична бройна система
     bn: দশমিক পদ্ধতি
     br: dispakadur dekredel
@@ -182,7 +182,7 @@ dv_has_:
     pa: ਇਸ਼ਾਰੀਆ
     pl: dziesiętny system liczbowy
     pt: sistema de numeração decimal
-    pt-br: sistema de numeração decimal
+    pt_br: sistema de numeração decimal
     qu: chunkantin huchha llika
     ro: sistem zecimal
     ru: десятичная система счисления
@@ -192,8 +192,8 @@ dv_has_:
     sn: muravanegumi
     sq: dhjetor
     sr: декадни систем
-    sr-ec: декадни систем
-    sr-el: dekadni sistem
+    sr_ec: декадни систем
+    sr_el: dekadni sistem
     sv: decimala talsystemet
     ta: பதின்மம்
     th: เลขฐานสิบ
@@ -209,8 +209,8 @@ dv_has_:
     yi: דעצימאל
     yue: 十進制
     zh: 十進制
-    zh-hans: 十进制
-    zh-tw: 十進制
+    zh_hans: 十进制
+    zh_tw: 十進制
 ---
 # [[Decimal_numeral_System]] 
 

@@ -82,7 +82,7 @@ dv_has_:
     az: bütlərə sitayiş
     bcl: idolatriya
     be: ідалапаклонства
-    be-tarask: балвахвальства
+    be_tarask: балвахвальства
     bg: идолопоклонничество
     bn: মূর্তিপূজা
     ca: idolatria
@@ -144,9 +144,9 @@ dv_has_:
     yi: געצנדינעריי
     yue: 拜偶像
     zh: 偶像崇拜
-    zh-hans: 偶像崇拜
-    zh-hant: 偶像崇拜
-    zh-hk: 偶像崇拜
+    zh_hans: 偶像崇拜
+    zh_hant: 偶像崇拜
+    zh_hk: 偶像崇拜
 ---
 # [[Idolatry]] 
 

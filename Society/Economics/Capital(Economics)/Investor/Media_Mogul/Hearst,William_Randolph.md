@@ -100,19 +100,19 @@ dv_has_:
     ast: William Randolph Hearst
     az: Uilyam Rendolf Herst
     azb: ویلیام راندولف هرست
-    be-tarask: Ўільям Рэндалф Гэрст
+    be_tarask: Ўільям Рэндалф Гэрст
     bg: Уилям Рандолф Хърст
     ca: William Randolph Hearst
     cs: William Randolph Hearst
     cy: William Randolph Hearst
     da: William Randolph Hearst
     de: William Randolph Hearst
-    de-ch: William Randolph Hearst
+    de_ch: William Randolph Hearst
     ee: William Randolph Hearst
     el: Ουίλιαμ Ράντολφ Χιρστ
     en: William Randolph Hearst
-    en-ca: William Randolph Hearst
-    en-gb: William Randolph Hearst
+    en_ca: William Randolph Hearst
+    en_gb: William Randolph Hearst
     eo: William Randolph Hearst
     es: William Randolph Hearst
     eu: William Randolph Hearst
@@ -145,7 +145,7 @@ dv_has_:
     pl: William Randolph Hearst
     ps: ویلیام رانډولف هرسټ
     pt: William Randolph Hearst
-    pt-br: William Randolph Hearst
+    pt_br: William Randolph Hearst
     ro: William Randolph Hearst
     ru: Уильям Рэндольф Херст
     sl: William Randolph Hearst
@@ -159,12 +159,12 @@ dv_has_:
     yo: William Randolph Hearst
     yue: 威廉·赫斯特
     zh: 威廉·赫斯特
-    zh-cn: 威廉·赫斯特
-    zh-hans: 威廉·赫斯特
-    zh-hant: 威廉·赫斯特
-    zh-hk: 威廉·赫斯特
-    zh-sg: 威廉·赫斯特
-    zh-tw: 威廉·赫斯特
+    zh_cn: 威廉·赫斯特
+    zh_hans: 威廉·赫斯特
+    zh_hant: 威廉·赫斯特
+    zh_hk: 威廉·赫斯特
+    zh_sg: 威廉·赫斯特
+    zh_tw: 威廉·赫斯特
 ---
 # [[Hearst,William_Randolph]] 
 

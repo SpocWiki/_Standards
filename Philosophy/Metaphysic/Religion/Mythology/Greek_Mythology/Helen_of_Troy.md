@@ -79,7 +79,7 @@ dv_has_:
     ba: Һылыу Елена
     bcl: Helen nin Troy
     be: Алена Цудоўная
-    be-tarask: Алена Прыгожая
+    be_tarask: Алена Прыгожая
     bg: Хубавата Елена
     bn: হেলেন
     br: Elena Troia
@@ -117,7 +117,7 @@ dv_has_:
     ko: 헬레네
     ks: ٹرٛاے یِچ ہیلِن
     ku: Helenê
-    ku-latn: Helenê
+    ku_latn: Helenê
     la: Helena
     lt: Helenė
     lv: Helena
@@ -145,8 +145,8 @@ dv_has_:
     sl: Helena
     sq: Helena Trojës
     sr: Хелена Тројанска
-    sr-ec: Хелена Тројанска
-    sr-el: Helena Trojanska
+    sr_ec: Хелена Тројанска
+    sr_el: Helena Trojanska
     sv: Helena
     sw: Helena wa Troia
     ta: கெலன்
@@ -162,12 +162,12 @@ dv_has_:
     yi: העלענע
     yue: 海倫 (希臘神話)
     zh: 海伦
-    zh-cn: 海伦
-    zh-hans: 海伦
-    zh-hant: 海倫
-    zh-hk: 海倫
-    zh-sg: 海伦
-    zh-tw: 海倫
+    zh_cn: 海伦
+    zh_hans: 海伦
+    zh_hant: 海倫
+    zh_hk: 海倫
+    zh_sg: 海伦
+    zh_tw: 海倫
 ---
 # [[Helen_of_Troy]] 
 

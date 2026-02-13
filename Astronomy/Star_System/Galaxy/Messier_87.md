@@ -145,7 +145,7 @@ dv_has_:
     ar: مسييه 87
     ast: Galaxa elíptica M87
     be: Аб'ект Месье M87
-    be-tarask: M87
+    be_tarask: M87
     bg: M87
     bn: মেশিয়ার ৮৭
     bs: Messier 87
@@ -156,7 +156,7 @@ dv_has_:
     de: Messier 87
     el: Μεσιέ 87
     en: Messier 87
-    en-gb: Messier 87
+    en_gb: Messier 87
     eo: M87
     es: Messier 87
     et: M87
@@ -203,8 +203,8 @@ dv_has_:
     wuu: 室女A星系
     yue: 室女A星系
     zh: 室女A星系
-    zh-cn: 室女A星系
-    zh-hant: 室女A星系
+    zh_cn: 室女A星系
+    zh_hant: 室女A星系
 ---
 # [[Messier_87]] 
 

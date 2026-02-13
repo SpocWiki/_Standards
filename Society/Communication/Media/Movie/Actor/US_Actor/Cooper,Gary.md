@@ -116,7 +116,7 @@ dv_has_:
     azb: قری کوپر
     ba: Гэри Купер
     be: Гэры Купер
-    be-tarask: Гэры Купэр
+    be_tarask: Гэры Купэр
     bg: Гари Купър
     bi: Gary Cooper
     bn: গ্যারি কুপার
@@ -173,7 +173,7 @@ dv_has_:
     pap: Gary Cooper
     pl: Gary Cooper
     pt: Gary Cooper
-    pt-br: Gary Cooper
+    pt_br: Gary Cooper
     qu: Gary Cooper
     ro: Gary Cooper
     ru: Гэри Купер
@@ -200,7 +200,7 @@ dv_has_:
     yo: Gary Cooper
     yue: 加利谷巴
     zh: 賈利·古柏
-    zh-hk: 加利谷巴
+    zh_hk: 加利谷巴
     zh-my: 加利·古柏
 ---
 # [[Cooper,Gary]] 

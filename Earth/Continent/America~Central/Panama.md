@@ -476,7 +476,7 @@ dv_has_:
   name_:
     ace: Panama
     ady: Панамэ
-    aeb-arab: پنما
+    aeb_arab: پنما
     af: Panama
     am: ፓናማ
     ami: Panama
@@ -498,7 +498,7 @@ dv_has_:
     bbc: Panama
     bcl: Panama
     be: Панама
-    be-tarask: Панама
+    be_tarask: Панама
     bew: Panama
     bg: Панама
     bho: पनामा
@@ -512,7 +512,7 @@ dv_has_:
     bs: Panama
     bxr: Панама
     ca: Panamà
-    cbk-zam: Panamá
+    cbk_zam: Panamá
     cdo: Panama
     ce: Панама
     ceb: Panama
@@ -521,7 +521,7 @@ dv_has_:
     ckb: پەنەما
     co: Panamà
     crh: Panama
-    crh-latn: Panama
+    crh_latn: Panama
     cs: Panama
     csb: Panama
     cv: Панама
@@ -530,7 +530,7 @@ dv_has_:
     dag: Panama
     de: Panama
     de-at: Panama
-    de-ch: Panama
+    de_ch: Panama
     diq: Panama
     dsb: Panama
     dty: पानामा
@@ -538,8 +538,8 @@ dv_has_:
     ee: Panama
     el: Παναμάς
     en: Panama
-    en-ca: Panama
-    en-gb: Panama
+    en_ca: Panama
+    en_gb: Panama
     eo: Panamo
     es: Panamá
     et: Panama
@@ -561,7 +561,7 @@ dv_has_:
     gn: Panama
     gom: पनामा
     gom-deva: पनामा
-    gom-latn: Panama
+    gom_latn: Panama
     gpe: Panama
     gsw: Panama
     gu: પનામા
@@ -622,7 +622,7 @@ dv_has_:
     lv: Panama
     lzh: 巴拿馬
     mad: Panama
-    map-bms: Panama
+    map_bms: Panama
     mdf: Панама
     mg: Panama
     mhr: Панама
@@ -645,7 +645,7 @@ dv_has_:
     nan: Panama
     nb: Panama
     nds: Panama
-    nds-nl: Panama
+    nds_nl: Panama
     ne: पानामा
     new: पनामा
     nl: Panama
@@ -668,7 +668,7 @@ dv_has_:
     pnb: پاناما
     ps: پاناما
     pt: Panamá
-    pt-br: Panamá
+    pt_br: Panamá
     pwn: Panama
     qu: Panama
     rmy: Panama
@@ -695,8 +695,8 @@ dv_has_:
     so: Banama
     sq: Panamaja
     sr: Панама
-    sr-ec: Панама
-    sr-el: Panama
+    sr_ec: Панама
+    sr_el: Panama
     ss: IPhanama
     stq: Panama
     su: Panama
@@ -742,14 +742,14 @@ dv_has_:
     zea: Panama
     zgh: ⴱⴰⵏⴰⵎⴰ
     zh: 巴拿馬
-    zh-cn: 巴拿马
-    zh-hans: 巴拿马
-    zh-hant: 巴拿馬
-    zh-hk: 巴拿馬
-    zh-mo: 巴拿馬
+    zh_cn: 巴拿马
+    zh_hans: 巴拿马
+    zh_hant: 巴拿馬
+    zh_hk: 巴拿馬
+    zh_mo: 巴拿馬
     zh-my: 巴拿马
-    zh-sg: 巴拿马
-    zh-tw: 巴拿馬
+    zh_sg: 巴拿马
+    zh_tw: 巴拿馬
     zu: i-Panama
   url_for_:
     code_repository: https://github.com/SpocWiki/America-Panama

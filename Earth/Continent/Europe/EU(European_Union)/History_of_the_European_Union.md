@@ -88,7 +88,7 @@ dv_has_:
     ar: تاريخ الاتحاد الأوروبي
     ast: Historia de la Unión Europea
     be: гісторыя Еўрапейскага саюза
-    be-tarask: гісторыя Эўрапейскага Зьвязу
+    be_tarask: гісторыя Эўрапейскага Зьвязу
     bn: ইউরোপীয় ইউনিয়নের ইতিহাস
     bs: historija Evropske unije
     ca: història de la Unió Europea
@@ -99,8 +99,8 @@ dv_has_:
     de: Geschichte der Europäischen Union
     el: ιστορία της Ευρωπαϊκής Ένωσης
     en: history of the European Union
-    en-ca: history of the European Union
-    en-gb: history of the European Union
+    en_ca: history of the European Union
+    en_gb: history of the European Union
     eo: historio de Eŭropa Unio
     es: historia de la Unión Europea
     eu: Europar Batasuneko historia
@@ -132,8 +132,8 @@ dv_has_:
     sl: zgodovina Evropske unije
     sq: Historia e Bashkimit Evropian
     sr: историја Европске уније
-    sr-ec: историја Европске уније
-    sr-el: istorija Evropske unije
+    sr_ec: историја Европске уније
+    sr_el: istorija Evropske unije
     sv: Europeiska unionens historia
     ta: ஐரோப்பிய ஒன்றிய வரலாறு
     tr: Avrupa Birliği tarihi
@@ -141,12 +141,12 @@ dv_has_:
     vec: istòria de l'Union Eoropea
     vi: Lịch sử Liên minh châu Âu
     zh: 欧洲联盟历史
-    zh-cn: 欧洲联盟历史
-    zh-hans: 欧洲联盟历史
-    zh-hant: 歐洲聯盟歷史
-    zh-hk: 歐洲聯盟歷史
-    zh-sg: 欧洲联盟历史
-    zh-tw: 歐洲聯盟歷史
+    zh_cn: 欧洲联盟历史
+    zh_hans: 欧洲联盟历史
+    zh_hant: 歐洲聯盟歷史
+    zh_hk: 歐洲聯盟歷史
+    zh_sg: 欧洲联盟历史
+    zh_tw: 歐洲聯盟歷史
 ---
 # [[History_of_the_European_Union]] 
 

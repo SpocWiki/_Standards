@@ -86,7 +86,7 @@ dv_has_:
     ast: Elementos del grupu 5
     az: Dövri sistemin 5-ci qrupu
     ban: Datu golongan 5
-    be-tarask: падгрупа ванаду
+    be_tarask: падгрупа ванаду
     bg: Група 5 на периодичната система
     bn: পঞ্চম শ্রেণীর মৌল
     bs: 5. grupa hemijskih elemenata
@@ -134,8 +134,8 @@ dv_has_:
     so: Guruubka 5
     sq: Grupi i pestë i elementeve kimike
     sr: 5. група хемијских елемената
-    sr-ec: 5. група хемијских елемената
-    sr-el: 5. grupa hemijskih elemenata
+    sr_ec: 5. група хемијских елемената
+    sr_el: 5. grupa hemijskih elemenata
     sv: grupp 5
     ta: நெடுங்குழு 5 தனிமங்கள்
     te: గ్రూప్ 5 మూలకం
@@ -146,12 +146,12 @@ dv_has_:
     wuu: 5族元素
     yue: 5族元素
     zh: 5族元素
-    zh-cn: 5族元素
-    zh-hans: 5族元素
-    zh-hant: 5族元素
-    zh-hk: 5族元素
-    zh-sg: 5族元素
-    zh-tw: 5族元素
+    zh_cn: 5族元素
+    zh_hans: 5族元素
+    zh_hant: 5族元素
+    zh_hk: 5族元素
+    zh_sg: 5族元素
+    zh_tw: 5族元素
 ---
 # [[Group-05-Vanadium]] 
 

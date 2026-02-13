@@ -129,7 +129,7 @@ dv_has_:
     ast: moblame
     az: mebel
     be: мэбля
-    be-tarask: мэбля
+    be_tarask: мэбля
     bg: Мебел
     bho: फर्नीचर
     bn: আসবাবপত্র
@@ -142,12 +142,12 @@ dv_has_:
     cy: dodrefn
     da: møbel
     de: Möbel
-    de-ch: Möbel
+    de_ch: Möbel
     dz: ཁང་ཆེས་
     el: έπιπλο
     en: furniture
-    en-ca: Furniture
-    en-gb: furniture
+    en_ca: Furniture
+    en_gb: furniture
     en-us: furniture
     eo: meblo
     es: mobiliario
@@ -192,7 +192,7 @@ dv_has_:
     mk: мебел
     ml: ഗൃഹോപകരണങ്ങൾ
     ms: perabot
-    ms-arab: ڤرابوت
+    ms_arab: ڤرابوت
     mwl: Mobilha
     nan: Ka-khū
     nb: møbel
@@ -204,7 +204,7 @@ dv_has_:
     pl: mebel
     pnb: فرنیچر
     pt: mobiliário
-    pt-br: mobiliário
+    pt_br: mobiliário
     qu: Kuyuylla
     ro: mobilier
     ru: мебель
@@ -215,8 +215,8 @@ dv_has_:
     so: Saabaan
     sq: orenditë e shtëpisë
     sr: намештај
-    sr-ec: намештај
-    sr-el: nameštaj
+    sr_ec: намештај
+    sr_el: nameštaj
     sv: möbel
     sw: Fanicha
     ta: தளபாடம்
@@ -224,7 +224,7 @@ dv_has_:
     tl: Muwebles
     tr: mobilya
     tt: өй җиһазы
-    tt-cyrl: өй җиһазы
+    tt_cyrl: өй җиһазы
     uk: меблі
     ur: فرنیچر
     uz: Mebel
@@ -236,8 +236,8 @@ dv_has_:
     yue: 傢俬
     za: Gyasei
     zh: 家具
-    zh-hant: 家具
-    zh-hk: 傢俬
+    zh_hant: 家具
+    zh_hk: 傢俬
 ---
 # [[Furniture]] 
 

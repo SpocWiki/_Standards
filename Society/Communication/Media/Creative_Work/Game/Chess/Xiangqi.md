@@ -84,7 +84,7 @@ dv_has_:
     ar: الشطرنج الصيني
     ast: axedrez chinu
     az: Çin şahmatı
-    be-tarask: сянці
+    be_tarask: сянці
     bo: མིག་མངས།
     ca: xiangqi
     cdo: chiông-gì
@@ -124,15 +124,15 @@ dv_has_:
     pl: xiangqi
     pnb: شیانگچی
     pt: xiangqi
-    pt-br: xiangqi
+    pt_br: xiangqi
     ro: xiangqi
     ru: сянци
     sh: Kineski šah
     sk: Čínsky šach
     sl: ktajski šah
     sr: Кинески шах
-    sr-ec: Кинески шах
-    sr-el: Kineski šah
+    sr_ec: Кинески шах
+    sr_el: Kineski šah
     sv: xiangqi
     th: หมากรุกจีน
     tok: musi Sansi
@@ -145,12 +145,12 @@ dv_has_:
     yue: 象棋
     za: Geizciengh
     zh: 象棋
-    zh-cn: 象棋
-    zh-hans: 象棋
-    zh-hant: 象棋
-    zh-hk: 象棋
-    zh-sg: 象棋
-    zh-tw: 象棋
+    zh_cn: 象棋
+    zh_hans: 象棋
+    zh_hant: 象棋
+    zh_hk: 象棋
+    zh_sg: 象棋
+    zh_tw: 象棋
 ---
 # [[Xiangqi]] 
 

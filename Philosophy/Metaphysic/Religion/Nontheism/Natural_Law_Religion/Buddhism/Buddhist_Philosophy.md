@@ -57,7 +57,7 @@ dv_has_:
     as: বৌদ্ধ দৰ্শন
     ast: Filosofía budista
     ba: ba
-    be-tarask: будыйская філязофія
+    be_tarask: будыйская філязофія
     bho: बौद्ध दर्शन
     bn: বৌদ্ধ দর্শন
     ca: filosofia budista
@@ -105,14 +105,14 @@ dv_has_:
     xmf: ბუდისტური ფილოსოფია
     yue: 佛教哲學
     zh: 佛教哲學
-    zh-cn: 佛教哲学
-    zh-hans: 佛教哲学
-    zh-hant: 佛教哲學
-    zh-hk: 佛教哲學
-    zh-mo: 佛教哲學
+    zh_cn: 佛教哲学
+    zh_hans: 佛教哲学
+    zh_hant: 佛教哲學
+    zh_hk: 佛教哲學
+    zh_mo: 佛教哲學
     zh-my: 佛教哲学
-    zh-sg: 佛教哲学
-    zh-tw: 佛教哲學
+    zh_sg: 佛教哲学
+    zh_tw: 佛教哲學
 ---
 # [[Buddhist_Philosophy]] 
 

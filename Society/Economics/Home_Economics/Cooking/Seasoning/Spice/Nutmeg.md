@@ -124,7 +124,7 @@ dv_has_:
     arz: جوزه الطيب
     as: জাঁইফল
     az: Myristica
-    be-tarask: мускатны арэх
+    be_tarask: мускатны арэх
     bg: Индийско орехче
     bjn: Pala
     bn: জায়ফল
@@ -141,8 +141,8 @@ dv_has_:
     dv: ތަކޫވައް
     el: Μοσχοκαρυδιά
     en: nutmeg
-    en-ca: Nutmeg
-    en-gb: nutmeg
+    en_ca: Nutmeg
+    en_gb: nutmeg
     eo: Muskato
     es: Nuez moscada
     et: Muskaat
@@ -187,7 +187,7 @@ dv_has_:
     nan: jio̍k-tāu-khò͘
     nb: muskatnøttslekten
     nds: Myristica
-    nds-nl: Myristica
+    nds_nl: Myristica
     ne: जाइफल
     new: nutmeg
     nia: Falo
@@ -200,7 +200,7 @@ dv_has_:
     pms: Myristica
     pnb: جائفل
     pt: noz-moscada
-    pt-br: noz-moscada
+    pt_br: noz-moscada
     ro: Nucșoară
     ru: мускатный орех
     sa: जातीफलम्
@@ -233,11 +233,11 @@ dv_has_:
     yi: מושקאט נוס
     yue: 肉豆蔻籽
     zh: 肉豆蔻
-    zh-cn: 肉豆蔻
-    zh-hans: 肉豆蔻
-    zh-hant: 肉豆蔻
-    zh-hk: 肉豆蔻
-    zh-tw: 肉豆蔻
+    zh_cn: 肉豆蔻
+    zh_hans: 肉豆蔻
+    zh_hant: 肉豆蔻
+    zh_hk: 肉豆蔻
+    zh_tw: 肉豆蔻
 ---
 # [[Nutmeg]] 
 

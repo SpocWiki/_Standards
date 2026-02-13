@@ -47,7 +47,7 @@ dv_has_:
   name_:
     ar: الكرة الحديدية
     ast: petanca
-    be-tarask: пэтанк
+    be_tarask: пэтанк
     bg: Петанк
     ca: petanca
     cs: pétanque
@@ -55,8 +55,8 @@ dv_has_:
     de: Pétanque
     el: Εδαφοσφαίριση
     en: petanque
-    en-ca: Pétanque
-    en-gb: pétanque
+    en_ca: Pétanque
+    en_gb: pétanque
     eo: Petanko
     es: petanca
     et: petank
@@ -84,7 +84,7 @@ dv_has_:
     pl: pétanque
     pms: Pétanque
     pt: petanca
-    pt-br: Petanca
+    pt_br: Petanca
     ro: pétanque
     ru: петанк
     sh: Petank
@@ -102,14 +102,14 @@ dv_has_:
     wa: petanke
     yue: 法式滾球
     zh: 法式滾球
-    zh-cn: 法式滚球
-    zh-hans: 法式滚球
-    zh-hant: 法式滾球
-    zh-hk: 法式滾球
-    zh-mo: 法式滾球
+    zh_cn: 法式滚球
+    zh_hans: 法式滚球
+    zh_hant: 法式滾球
+    zh_hk: 法式滾球
+    zh_mo: 法式滾球
     zh-my: 法式滚球
-    zh-sg: 法式滚球
-    zh-tw: 法式滾球
+    zh_sg: 法式滚球
+    zh_tw: 法式滾球
 ---
 # [[Petanque]] 
 

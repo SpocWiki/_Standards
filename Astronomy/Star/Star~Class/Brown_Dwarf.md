@@ -102,7 +102,7 @@ dv_has_:
     ar: قزم بني
     ast: Nana marrón
     be: карычневы карлік
-    be-tarask: карычневы карлік
+    be_tarask: карычневы карлік
     bg: Кафяво джудже
     bs: Smeđi patuljak
     ca: nana marró
@@ -112,8 +112,8 @@ dv_has_:
     de: brauner Zwerg
     el: Φαιός νάνος
     en: brown dwarf
-    en-ca: Brown dwarf
-    en-gb: brown dwarf
+    en_ca: Brown dwarf
+    en_gb: brown dwarf
     eo: bruna nano
     es: enana marrón
     et: pruun kääbus
@@ -151,7 +151,7 @@ dv_has_:
     pl: brązowy karzeł
     pnb: بھورا بونا
     pt: anã castanha
-    pt-br: anã marrom
+    pt_br: anã marrom
     rki: ကြယ်ပုညို
     ro: pitică cenușie
     ru: коричневый карлик
@@ -161,8 +161,8 @@ dv_has_:
     sl: Rjava pritlikavka
     smn: ruškis snorâtäsni
     sr: браон патуљак
-    sr-ec: Браон патуљак
-    sr-el: Braon patuljak
+    sr_ec: Браон патуљак
+    sr_el: Braon patuljak
     sv: brun dvärg
     ta: பழுப்புக் குறுமீன்
     th: ดาวแคระน้ำตาล
@@ -175,12 +175,12 @@ dv_has_:
     wuu: 褐矮星
     yue: 啡矮星
     zh: 棕矮星
-    zh-cn: 褐矮星
-    zh-hans: 褐矮星
-    zh-hant: 棕矮星
-    zh-hk: 棕矮星
-    zh-sg: 褐矮星
-    zh-tw: 棕矮星
+    zh_cn: 褐矮星
+    zh_hans: 褐矮星
+    zh_hant: 棕矮星
+    zh_hk: 棕矮星
+    zh_sg: 褐矮星
+    zh_tw: 棕矮星
 ---
 # [[Brown_Dwarf]] 
 

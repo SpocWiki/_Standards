@@ -89,7 +89,7 @@ dv_has_:
     ast: filosofía de la mente
     az: Təfəkkür fəlsəfəsi
     ba: Аң фәлсәфәһе
-    be-tarask: філязофія сьвядомасьці
+    be_tarask: філязофія сьвядомасьці
     bg: Философия на съзнанието
     bn: মনের দর্শন
     ca: filosofia de la ment
@@ -101,8 +101,8 @@ dv_has_:
     de: Philosophie des Geistes
     el: Φιλοσοφία του νου
     en: philosophy of mind
-    en-ca: philosophy of mind
-    en-gb: philosophy of mind
+    en_ca: philosophy of mind
+    en_gb: philosophy of mind
     eo: filozofio de menso
     es: filosofía de la mente
     et: Vaimufilosoofia
@@ -161,9 +161,9 @@ dv_has_:
     war: Pilosopiya hin hunahuna
     yue: 心靈哲學
     zh: 精神哲學
-    zh-cn: 精神哲学
-    zh-hans: 精神哲学
-    zh-hant: 精神哲学
+    zh_cn: 精神哲学
+    zh_hans: 精神哲学
+    zh_hant: 精神哲学
 ---
 # [[Philosophy_of_Mind]]
 

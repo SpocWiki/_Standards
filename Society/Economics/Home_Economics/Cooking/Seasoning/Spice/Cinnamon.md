@@ -141,7 +141,7 @@ Commons_category: Cinnamon spice
 Wolfram_Language_entity_code: Entity["FoodType", "Cinnamon"]
 dv_has_:
   name_:
-    aeb-arab: قرفة
+    aeb_arab: قرفة
     af: Kaneel
     am: ቀረፋ
     an: canela
@@ -153,7 +153,7 @@ dv_has_:
     az: Darçın
     bar: Zimt
     be: Карыца
-    be-tarask: карыца
+    be_tarask: карыца
     bg: канела
     bn: দারুচিনি
     br: kanell
@@ -168,13 +168,13 @@ dv_has_:
     da: kanel
     dag: Sinnamɔn
     de: Zimt
-    de-ch: Zimt
+    de_ch: Zimt
     dsb: cymt
     dv: ފޮނި ތޮށި
     el: κανέλα
     en: cinnamon
-    en-ca: Cinnamon
-    en-gb: cinnamon
+    en_ca: Cinnamon
+    en_gb: cinnamon
     eo: cinamo
     es: canela
     et: kaneel
@@ -242,7 +242,7 @@ dv_has_:
     pms: canela
     pnb: دال چینی
     pt: canela
-    pt-br: Canela
+    pt_br: Canela
     qu: Kanila sach'a
     ro: scorțișoară
     roa-tara: cannélle
@@ -275,8 +275,8 @@ dv_has_:
     yi: צימערינג
     yue: 肉桂
     zh: 肉桂
-    zh-hant: 肉桂
-    zh-tw: 肉桂
+    zh_hant: 肉桂
+    zh_tw: 肉桂
 ---
 # [[Cinnamon]] 
 

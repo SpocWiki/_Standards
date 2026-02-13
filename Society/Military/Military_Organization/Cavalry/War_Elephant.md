@@ -6,7 +6,7 @@ dv_has_:
     ar: فيل حربي
     ast: Elefante de guerra
     azb: ساواش فیلی
-    be-tarask: баявы слон
+    be_tarask: баявы слон
     bg: Боен слон
     br: olifant brezel
     ca: Elefant de guerra
@@ -55,12 +55,12 @@ dv_has_:
     vi: Voi chiến
     yue: 戰象
     zh: 戰象
-    zh-cn: 战象
-    zh-hans: 战象
-    zh-hant: 戰象
-    zh-hk: 戰象
-    zh-sg: 战象
-    zh-tw: 戰象
+    zh_cn: 战象
+    zh_hans: 战象
+    zh_hant: 戰象
+    zh_hk: 戰象
+    zh_sg: 战象
+    zh_tw: 戰象
 aliases:
 - bojni slon
 - Elefant da guèra

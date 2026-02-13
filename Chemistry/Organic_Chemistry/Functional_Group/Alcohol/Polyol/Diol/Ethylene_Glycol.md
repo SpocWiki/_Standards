@@ -58,16 +58,16 @@ dv_has_:
     az: Etilenqlikol
     azb: اتیلن قلیکول
     be: этыленгліколь
-    be-tarask: этыленгліколь
+    be_tarask: этыленгліколь
     bg: Етиленгликол
     ca: etilenglicol
     cs: ethylenglykol
     de: Ethylenglycol
-    de-ch: Ethylenglycol
+    de_ch: Ethylenglycol
     el: 1,2-αιθανοδιόλη
     en: ethylene glycol
-    en-ca: Ethylene glycol
-    en-gb: ethylene glycol
+    en_ca: Ethylene glycol
+    en_gb: ethylene glycol
     eo: etileno-glikolo
     es: etilenglicol
     et: 1,2-etaandiool
@@ -85,11 +85,11 @@ dv_has_:
     ja: エチレングリコール
     ka: ეთილენგლიკოლი
     kk: Этиленгликоль
-    kk-arab: ەتىيلەنگلىيكول
+    kk_arab: ەتىيلەنگلىيكول
     kk-cn: ەتىيلەنگلىيكول
-    kk-cyrl: Этиленгликоль
+    kk_cyrl: Этиленгликоль
     kk-kz: Этиленгликоль
-    kk-latn: Étïlenglïkolʹ
+    kk_latn: Étïlenglïkolʹ
     kk-tr: Étïlenglïkolʹ
     kn: ಸೋಡಿಯಂ ಬೈಕಾಬ್ರೋನೇಟ್
     ko: 에틸렌 글라이콜
@@ -103,15 +103,15 @@ dv_has_:
     nn: glykol
     pl: glikol etylenowy
     pt: etilenoglicol
-    pt-br: Etilenoglicol
+    pt_br: Etilenoglicol
     ro: Etilenglicol
     ru: этиленгликоль
     sh: Etilen glikol
     sk: Etylénglykol
     sl: etilenglikol
     sr: етилен гликол
-    sr-ec: Етилен гликол
-    sr-el: Etilen glikol
+    sr_ec: Етилен гликол
+    sr_el: Etilen glikol
     su: Etilen glikol
     sv: etandiol
     ta: எத்திலீன் கிளைக்கால்
@@ -122,12 +122,12 @@ dv_has_:
     vi: Ethylene glycol
     yue: 甘醇
     zh: 乙二醇
-    zh-cn: 乙二醇
-    zh-hans: 乙二醇
-    zh-hant: 乙二醇
-    zh-hk: 乙二醇
-    zh-sg: 乙二醇
-    zh-tw: 乙二醇
+    zh_cn: 乙二醇
+    zh_hans: 乙二醇
+    zh_hant: 乙二醇
+    zh_hk: 乙二醇
+    zh_sg: 乙二醇
+    zh_tw: 乙二醇
 dv_is_:
   same_as:
   - '[[/_Standards/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Ethylene_Glycol|Ethylene_Glycol]]'

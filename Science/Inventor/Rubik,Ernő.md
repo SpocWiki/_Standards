@@ -45,7 +45,7 @@ dv_has_:
     nl: Ernő Rubik
     pl: Ernő Rubik
     pt: Ernő Rubik
-    pt-br: Ernő Rubik
+    pt_br: Ernő Rubik
     ro: Ernő Rubik
     ru: Эрнё Рубик
     rue: Ернев Рубік
@@ -63,12 +63,12 @@ dv_has_:
     uk: Ерне Рубік
     vi: Ernő Rubik
     zh: 鲁比克·艾尔内
-    zh-cn: 艾尔内
-    zh-hans: 艾尔内
-    zh-hant: 艾爾內
-    zh-hk: 艾爾內
-    zh-sg: 艾尔内
-    zh-tw: 厄爾諾
+    zh_cn: 艾尔内
+    zh_hans: 艾尔内
+    zh_hant: 艾爾內
+    zh_hk: 艾爾內
+    zh_sg: 艾尔内
+    zh_tw: 厄爾諾
 aliases:
 - Erno Rubik
 - Ernö Rubik

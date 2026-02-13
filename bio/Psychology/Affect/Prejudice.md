@@ -95,7 +95,7 @@ dv_has_:
     ast: Prexuiciu
     az: Qərəz
     be: прадузятасць
-    be-tarask: прымхі
+    be_tarask: прымхі
     bg: Предразсъдък
     bs: predrasuda
     ca: prejudici
@@ -104,11 +104,11 @@ dv_has_:
     cy: rhagfarn
     da: fordom
     de: Vorurteil
-    de-ch: Vorurteil
+    de_ch: Vorurteil
     el: προκατάληψη
     en: prejudice
-    en-ca: prejudice
-    en-gb: prejudice
+    en_ca: prejudice
+    en_gb: prejudice
     eo: antaŭjuĝo
     es: prejuicio
     et: eelarvamus
@@ -146,7 +146,7 @@ dv_has_:
     pl: uprzedzenie
     ps: تعصب
     pt: preconceito
-    pt-br: preconceito
+    pt_br: preconceito
     ro: prejudecată
     ru: предрассудок
     se: ovdagáddu
@@ -158,8 +158,8 @@ dv_has_:
     sms: ouddkäddmõš
     sq: paragjykim
     sr: предрасуда
-    sr-ec: Предрасуде
-    sr-el: Predrasude
+    sr_ec: Предрасуде
+    sr_el: Predrasude
     sv: fördom
     ta: முன்முடிவு
     th: อคติ
@@ -171,12 +171,12 @@ dv_has_:
     vi: định kiến
     yue: 偏見
     zh: 偏見
-    zh-cn: 偏见
-    zh-hans: 偏见
-    zh-hant: 偏見
-    zh-hk: 偏見
-    zh-sg: 偏见
-    zh-tw: 偏見
+    zh_cn: 偏见
+    zh_hans: 偏见
+    zh_hant: 偏見
+    zh_hk: 偏見
+    zh_sg: 偏见
+    zh_tw: 偏見
 ---
 # [[Prejudice]] 
 

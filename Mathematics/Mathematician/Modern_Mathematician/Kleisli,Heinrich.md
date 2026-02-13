@@ -22,7 +22,7 @@ dv_has_:
     nb: Heinrich Kleisli
     nl: Heinrich Kleisli
     pt: Heinrich Kleisli
-    pt-br: Heinrich Kleisli
+    pt_br: Heinrich Kleisli
     rm: Heinrich Kleisli
     ru: Генрих Клейсли
     sl: Heinrich Kleisli

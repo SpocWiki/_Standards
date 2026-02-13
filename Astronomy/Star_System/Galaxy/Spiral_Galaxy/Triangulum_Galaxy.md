@@ -138,7 +138,7 @@ dv_has_:
     az: Üçbucaq qalaktikası
     ba: Өсмөйөш галактикаһы
     be: Аб'ект Месье M33
-    be-tarask: Галяктыка Трыкутніка
+    be_tarask: Галяктыка Трыкутніка
     bg: M33
     bn: ট্রায়াঙ্গুলাম ছায়াপথ
     br: Galaksienn an Tric'horn
@@ -195,7 +195,7 @@ dv_has_:
     sk: Galaxia v Trojuholníku
     sl: Galaksija v Trikotniku
     sr: Месје 33
-    sr-ec: Месје 33
+    sr_ec: Месје 33
     sv: Triangelgalaxen
     tg: Галактикаи Секунҷа
     th: ดาราจักรไทรแองกูลัม
@@ -207,7 +207,7 @@ dv_has_:
     wuu: 三角座星系
     yue: 三角座星系
     zh: 三角座星系
-    zh-tw: 三角座星系
+    zh_tw: 三角座星系
 ---
 # [[Triangulum_Galaxy]] 
 

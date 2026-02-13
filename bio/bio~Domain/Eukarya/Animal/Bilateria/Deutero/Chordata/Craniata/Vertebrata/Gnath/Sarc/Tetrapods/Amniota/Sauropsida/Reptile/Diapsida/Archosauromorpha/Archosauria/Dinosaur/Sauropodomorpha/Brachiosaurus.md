@@ -71,7 +71,7 @@ dv_has_:
     az: Braxiozavr
     azb: براهیوزاور
     be: Брахіязаўр
-    be-tarask: брахіязаўр
+    be_tarask: брахіязаўр
     bg: брахиозаври
     br: Brakiosaor
     ca: Brachiosaurus
@@ -83,8 +83,8 @@ dv_has_:
     de: Brachiosaurus
     el: Βραχιόσαυρος
     en: Brachiosaurus
-    en-ca: Brachiosaurus
-    en-gb: Brachiosaurus
+    en_ca: Brachiosaurus
+    en_gb: Brachiosaurus
     eo: Braĥiosaŭro
     es: Brachiosaurus
     et: Brachiosaurus
@@ -122,7 +122,7 @@ dv_has_:
     pl: Brachiozaur
     pnb: براکیوسارس
     pt: Braquiossauro
-    pt-br: Braquiossauro
+    pt_br: Braquiossauro
     ro: Brachiosaurus
     ru: Брахиозавр
     sco: Brachiosaurus
@@ -142,8 +142,8 @@ dv_has_:
     wuu: 腕龙属
     yue: 腕龍
     zh: 腕龙属
-    zh-cn: 腕龙属
-    zh-hans: 腕龙属
+    zh_cn: 腕龙属
+    zh_hans: 腕龙属
 ---
 # [[Brachiosaurus]] 
 

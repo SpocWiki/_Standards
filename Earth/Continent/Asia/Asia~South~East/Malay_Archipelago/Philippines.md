@@ -64,7 +64,7 @@ dv_has_:
   name_:
     ab: Филиппин
     ace: Filipina
-    aeb-arab: الفلپين
+    aeb_arab: الفلپين
     af: Filippyne
     am: ፊሊፒንስ
     ami: Philippines
@@ -87,7 +87,7 @@ dv_has_:
     bbc: Pilipina
     bcl: Filipinas
     be: Філіпіны
-    be-tarask: Філіпіны
+    be_tarask: Філіпіны
     bew: Pilipénen
     bg: Филипини
     bgn: پیلیپین
@@ -104,7 +104,7 @@ dv_has_:
     bug: ᨄᨗᨒᨗᨄᨗᨊ
     bxr: Филиппин
     ca: Filipines
-    cbk-zam: Filipinas
+    cbk_zam: Filipinas
     cdo: Hĭ-lĭ-pĭng
     ce: Филиппинаш
     ceb: Pilipinas
@@ -113,7 +113,7 @@ dv_has_:
     ckb: فلیپین
     co: Filippini
     crh: Filippinler
-    crh-latn: Filippinler
+    crh_latn: Filippinler
     cs: Filipíny
     csb: Filipinë
     cv: Филиппинсем
@@ -122,7 +122,7 @@ dv_has_:
     dag: Philippines
     de: Philippinen
     de-at: Philippinen
-    de-ch: Philippinen
+    de_ch: Philippinen
     diq: Fılipin
     dsb: Filipiny
     dtp: Filipina
@@ -154,7 +154,7 @@ dv_has_:
     gn: Filipina
     gom: फिलीपिन्स
     gom-deva: फिलीपिन्स
-    gom-latn: Philippines
+    gom_latn: Philippines
     gor: Pilipina
     got: "\U00010346\U00010339\U0001033B\U00010339\U00010340\U00010340\U00010330\U0001033F\U0001033E\U00010349\U00010343"
     gpe: Philippines
@@ -195,7 +195,7 @@ dv_has_:
     kge: Filipina
     ki: Philippines
     kk: Филиппиндер
-    kk-cyrl: Филиппин
+    kk_cyrl: Филиппин
     kl: Philippines
     km: ហ្វីលីពីន
     kn: ಫಿಲಿಪ್ಪೀನ್ಸ್
@@ -226,7 +226,7 @@ dv_has_:
     mad: Filipina
     mag: फिलिपिन्स
     mai: फिलिपिन्स
-    map-bms: Filipina
+    map_bms: Filipina
     mdf: Пилиппинтне
     mg: Filipina
     mhr: Филиппин-влак
@@ -240,7 +240,7 @@ dv_has_:
     mr: फिलिपाईन्स
     mrj: Филиппинвлӓ
     ms: Filipina
-    ms-arab: فيليڤينا
+    ms_arab: فيليڤينا
     mt: Filippini
     mwl: Filipinas
     my: ဖိလစ်ပိုင်နိုင်ငံ
@@ -250,7 +250,7 @@ dv_has_:
     nan: Hui-li̍p-pin
     nb: Filippinene
     nds: Philippinen
-    nds-nl: Filippynen
+    nds_nl: Filippynen
     ne: फिलिपिन्स
     new: फिलिपिन्स
     nia: Filipina
@@ -275,7 +275,7 @@ dv_has_:
     pnb: فلپائن
     ps: پېليپين
     pt: Filipinas
-    pt-br: Filipinas
+    pt_br: Filipinas
     pwn: Pilipinas
     qu: Philipinakuna
     rmy: Philippines
@@ -357,12 +357,12 @@ dv_has_:
     za: Feihlizbinh
     zea: Filepijn’n
     zh: 菲律賓
-    zh-cn: 菲律宾
-    zh-hans: 菲律宾
-    zh-hant: 菲律賓
-    zh-hk: 菲律賓
+    zh_cn: 菲律宾
+    zh_hans: 菲律宾
+    zh_hant: 菲律賓
+    zh_hk: 菲律賓
     zh-my: 菲律宾
-    zh-tw: 菲律賓
+    zh_tw: 菲律賓
     zu: i-Philippines
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Philippines

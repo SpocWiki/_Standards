@@ -211,8 +211,8 @@ dv_has_:
   name_:
     ace: sikula
     ady: еджапӏэ
-    aeb-arab: مكتب
-    aeb-latn: maktab
+    aeb_arab: مكتب
+    aeb_latn: maktab
     af: skool
     aig: piknihaus
     ak: adesua yɛbia
@@ -233,7 +233,7 @@ dv_has_:
     bcl: eskwelahan
     bdr: Sekul
     be: школа
-    be-tarask: школа
+    be_tarask: школа
     bew: Sekolah
     bg: училище
     bho: इस्कूल
@@ -257,7 +257,7 @@ dv_has_:
     da: skole
     dag: shikuru
     de: Schule
-    de-ch: Schule
+    de_ch: Schule
     dga: Sakuuri
     diq: mekteb
     dsb: šula
@@ -316,7 +316,7 @@ dv_has_:
     ko: 학교
     ks: سۆکوٗل
     ku: dibistan
-    ku-latn: dibistan
+    ku_latn: dibistan
     kw: skol
     ky: мектеп
     la: schola
@@ -331,7 +331,7 @@ dv_has_:
     lzh: 學校
     mad: Sakola'an
     mai: विद्यालय
-    map-bms: sekolah
+    map_bms: sekolah
     mg: sekoly
     mhr: школ
     mk: училиште
@@ -340,7 +340,7 @@ dv_has_:
     mnw: ဘာ
     mr: शाळा
     ms: sekolah
-    ms-arab: سکوله
+    ms_arab: سکوله
     mt: skola
     my: ကျောင်း
     myv: школа
@@ -363,7 +363,7 @@ dv_has_:
     pnb: سکول
     ps: ښوونځی
     pt: escola
-    pt-br: escola
+    pt_br: escola
     qu: yachay wasi
     rmf: skoola
     rmy: sikingro'kher
@@ -395,8 +395,8 @@ dv_has_:
     so: dugsi
     sq: shkollë
     sr: школа
-    sr-ec: школа
-    sr-el: škola
+    sr_ec: школа
+    sr_el: škola
     su: sakola
     sv: skola
     sw: shule
@@ -414,11 +414,11 @@ dv_has_:
     tr: okul
     trv: Sapah pyasan
     tt: мәктәп
-    tt-cyrl: мәктәп
-    tt-latn: mäktäp
+    tt_cyrl: мәктәп
+    tt_latn: mäktäp
     tyv: школа
     ug: مەكتەپ
-    ug-latn: mektep
+    ug_latn: mektep
     uk: школа
     ur: اسکول
     uz: maktab
@@ -438,14 +438,14 @@ dv_has_:
     zea: schole
     zgh: ⵜⵉⵏⵎⵍ
     zh: 学校
-    zh-cn: 学校
-    zh-hans: 学校
-    zh-hant: 學校
-    zh-hk: 學校
-    zh-mo: 學校
+    zh_cn: 学校
+    zh_hans: 学校
+    zh_hant: 學校
+    zh_hk: 學校
+    zh_mo: 學校
     zh-my: 学校
-    zh-sg: 学校
-    zh-tw: 學校
+    zh_sg: 学校
+    zh_tw: 學校
 ---
 # [[School]] 
 

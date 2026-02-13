@@ -128,14 +128,14 @@ dv_has_:
     zea: Disney
     zgh: ⵜⴰⵎⵙⵙⵓⵔⵜ ⵏ ⵡⴰⵍⵜ ⴷⵉⵣⵏⵉ
     zh: 华特迪士尼公司
-    zh-cn: 华特迪士尼公司
-    zh-hans: 华特迪士尼公司
-    zh-hant: 華特迪士尼公司
-    zh-hk: 華特迪士尼公司
-    zh-mo: 華特迪士尼公司
+    zh_cn: 华特迪士尼公司
+    zh_hans: 华特迪士尼公司
+    zh_hant: 華特迪士尼公司
+    zh_hk: 華特迪士尼公司
+    zh_mo: 華特迪士尼公司
     zh-my: 华特迪士尼公司
-    zh-sg: 华特迪士尼公司
-    zh-tw: 華特迪士尼公司
+    zh_sg: 华特迪士尼公司
+    zh_tw: 華特迪士尼公司
 ---
 ## #has_/text_of_/abstract 
 

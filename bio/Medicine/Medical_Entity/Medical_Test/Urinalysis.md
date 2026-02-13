@@ -58,7 +58,7 @@ dv_has_:
   name_:
     ar: تحليل البول
     ast: Analís d'orina
-    be-tarask: урынааналіз
+    be_tarask: урынааналіз
     ca: anàlisi d'orina
     cv: Шăк анализĕ
     da: urinprøve
@@ -101,9 +101,9 @@ dv_has_:
     vi: Xét nghiệm nước tiểu
     yue: 驗尿
     zh: 尿液分析
-    zh-hans: 尿液分析
-    zh-hant: 尿液分析
-    zh-hk: 尿液分析
+    zh_hans: 尿液分析
+    zh_hant: 尿液分析
+    zh_hk: 尿液分析
 ---
 # [[Urinalysis]] 
 

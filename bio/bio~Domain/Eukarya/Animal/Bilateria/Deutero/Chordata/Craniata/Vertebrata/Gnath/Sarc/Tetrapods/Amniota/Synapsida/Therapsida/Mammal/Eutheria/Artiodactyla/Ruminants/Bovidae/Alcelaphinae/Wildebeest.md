@@ -93,7 +93,7 @@ dv_has_:
     az: Qnu
     ba: Гну
     ban: Gnu
-    be-tarask: гну
+    be_tarask: гну
     bg: гнута
     br: Gnou
     ca: nyu
@@ -104,8 +104,8 @@ dv_has_:
     de: Gnus
     el: Γκνου
     en: wildebeest
-    en-ca: Wildebeest
-    en-gb: wildebeest
+    en_ca: Wildebeest
+    en_gb: wildebeest
     eo: Gnuo
     es: Connochaetes
     et: gnuud
@@ -156,7 +156,7 @@ dv_has_:
     pl: Gnu
     pnb: جنگلی بینسا
     pt: gnu
-    pt-br: Gnu
+    pt_br: Gnu
     qu: Ñu
     ro: Connochaetes
     ru: Гну
@@ -166,7 +166,7 @@ dv_has_:
     sn: Ngongoni
     sq: Connochaetes
     sr: гну
-    sr-ec: Гну
+    sr_ec: Гну
     sv: Gnuer
     sw: Nyumbu
     th: วิลเดอบีสต์
@@ -182,7 +182,7 @@ dv_has_:
     wuu: 角马
     yue: 牛羚
     zh: 角马
-    zh-tw: 牛羚
+    zh_tw: 牛羚
 ---
 # [[Wildebeest]] 
 

@@ -159,7 +159,7 @@ dv_has_:
     ban: Layangan
     bcl: Buradol
     bdr: Saligundi'
-    be-tarask: паветраны зьмей
+    be_tarask: паветраны зьмей
     bg: Хвърчило
     bho: तिलंगी
     bjn: Kelayangan
@@ -176,8 +176,8 @@ dv_has_:
     de: Drachen
     el: χαρταετός
     en: kite
-    en-ca: Kite
-    en-gb: kite
+    en_ca: Kite
+    en_gb: kite
     en-us: kap
     eo: kajto
     es: cometa
@@ -239,7 +239,7 @@ dv_has_:
     pl: Latawiec
     ps: باديوه
     pt: papagaio de papel
-    pt-br: pipa
+    pt_br: pipa
     ro: Zmeu
     ru: воздушный змей
     sa: kite
@@ -252,7 +252,7 @@ dv_has_:
     skr: ڳُݙّی
     sl: zmaj
     sr: змај
-    sr-ec: змај
+    sr_ec: змај
     su: Langlayangan
     sv: drake
     szy: paypay

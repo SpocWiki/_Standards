@@ -85,7 +85,7 @@ dv_has_:
     ar: مسكونية
     arz: مسكونيه مسيحيه
     ast: ecumenismu
-    be-tarask: экумэнізм
+    be_tarask: экумэнізм
     bg: Икуменизъм
     br: Eukumeniezh
     bs: ekumenizam
@@ -96,8 +96,8 @@ dv_has_:
     de: Ökumenismus
     el: οικουμενισμός
     en: ecumenism
-    en-ca: Ecumenism
-    en-gb: Ecumenism
+    en_ca: Ecumenism
+    en_gb: Ecumenism
     eo: ekumenismo
     es: ecumenismo
     et: oikumeenia
@@ -117,11 +117,11 @@ dv_has_:
     ja: エキュメニズム
     ka: ეკუმენიზმი
     kk: экуменизм
-    kk-arab: ەكۋمەنىيزم
+    kk_arab: ەكۋمەنىيزم
     kk-cn: ەكۋمەنىيزم
-    kk-cyrl: экуменизм
+    kk_cyrl: экуменизм
     kk-kz: экуменизм
-    kk-latn: ékwmenïzm
+    kk_latn: ékwmenïzm
     kk-tr: ékwmenïzm
     ko: 교회 일치주의
     ky: Экуменизм
@@ -139,7 +139,7 @@ dv_has_:
     pl: ekumenizm
     pms: ecumenism
     pt: ecumenismo
-    pt-br: Ecumenismo
+    pt_br: Ecumenismo
     ro: ecumenism
     ru: экуменизм
     se: ekumeniija
@@ -149,8 +149,8 @@ dv_has_:
     sms: ekumenia
     sq: ekumenizmi
     sr: екуменизам
-    sr-ec: екуменизам
-    sr-el: ekumenizam
+    sr_ec: екуменизам
+    sr_el: ekumenizam
     sv: ekumenik
     sw: ekumeni
     ta: கிறித்தவ ஒன்றிப்பு
@@ -161,12 +161,12 @@ dv_has_:
     vi: Phong trào Đại Kết
     yue: 合一運動
     zh: 普世教會合一運動
-    zh-cn: 普世教会合一运动
-    zh-hans: 普世教会合一运动
-    zh-hant: 普世教會合一運動
-    zh-hk: 普世教會合一運動
-    zh-sg: 普世教会合一运动
-    zh-tw: 普世教會合一運動
+    zh_cn: 普世教会合一运动
+    zh_hans: 普世教会合一运动
+    zh_hant: 普世教會合一運動
+    zh_hk: 普世教會合一運動
+    zh_sg: 普世教会合一运动
+    zh_tw: 普世教會合一運動
 ---
 # [[Ecumenism]] 
 

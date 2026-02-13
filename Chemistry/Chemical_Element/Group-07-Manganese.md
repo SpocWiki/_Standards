@@ -80,7 +80,7 @@ dv_has_:
     ast: Elementos del grupu 7
     az: Dövri sistemin 7-ci qrupu
     ban: Datu golongan 7
-    be-tarask: 7-я група
+    be_tarask: 7-я група
     bg: Група 7 на периодичната система
     bn: সপ্তম শ্রেণীর মৌল
     bs: 7. grupa hemijskih elemenata
@@ -124,8 +124,8 @@ dv_has_:
     so: Qaybta 7 ee curiye
     sq: Grupi i shatatë i elementeve kimike
     sr: 7. група хемијских елемената
-    sr-ec: 7. група хемијских елемената
-    sr-el: 7. grupa hemijskih elemenata
+    sr_ec: 7. група хемијских елемената
+    sr_el: 7. grupa hemijskih elemenata
     sv: grupp 7
     ta: நெடுங்குழு 7 தனிமங்கள்
     te: గ్రూప్ 7 మూలకం
@@ -135,12 +135,12 @@ dv_has_:
     wuu: 7族元素
     yue: 7族元素
     zh: 7族元素
-    zh-cn: 7族元素
-    zh-hans: 7族元素
-    zh-hant: 7族元素
-    zh-hk: 7族元素
-    zh-sg: 7族元素
-    zh-tw: 7族元素
+    zh_cn: 7族元素
+    zh_hans: 7族元素
+    zh_hant: 7族元素
+    zh_hk: 7族元素
+    zh_sg: 7族元素
+    zh_tw: 7族元素
 ---
 #chemic/Group 
 

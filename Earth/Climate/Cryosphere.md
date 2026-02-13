@@ -77,18 +77,18 @@ dv_has_:
     az: Kriosfer
     azb: کریوسفر
     be: крыясфера
-    be-tarask: крыясфэра
+    be_tarask: крыясфэра
     ca: criosfera
     ckb: سەھۆڵەگۆ
     cs: kryosféra
     cv: Криосфера
     da: Kryosfære
     de: Kryosphäre
-    de-ch: Kryosphäre
+    de_ch: Kryosphäre
     el: Κρυόσφαιρα
     en: cryosphere
-    en-ca: Cryosphere
-    en-gb: Cryosphere
+    en_ca: Cryosphere
+    en_gb: Cryosphere
     eo: Kriosfero
     es: criósfera
     et: krüosfäär
@@ -105,9 +105,9 @@ dv_has_:
     ja: 雪氷圏
     ka: კრიოსფერო
     kk: Криосфера
-    kk-arab: كرىيوسفەرا
-    kk-cyrl: Криосфера
-    kk-latn: Krïosfera
+    kk_arab: كرىيوسفەرا
+    kk_cyrl: Криосфера
+    kk_latn: Krïosfera
     ko: 빙권
     ky: Криосфера
     la: Cryosphaera
@@ -121,7 +121,7 @@ dv_has_:
     om: Kiraayosfeerii
     pl: Kriosfera
     pt: criosfera
-    pt-br: Criosfera
+    pt_br: Criosfera
     ro: criosferă
     ru: криосфера
     sd: برف جو دائرو

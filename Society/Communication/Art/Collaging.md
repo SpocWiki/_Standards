@@ -76,7 +76,7 @@ dv_has_:
     ast: Colax
     az: kolajlama
     be: калаж
-    be-tarask: каляж
+    be_tarask: каляж
     bg: Колаж
     br: pegadenn
     bs: Kolaž
@@ -107,17 +107,17 @@ dv_has_:
     ka: კოლაჟი
     kaa: kollaj
     kk: Коллаж
-    kk-arab: كوللاج
+    kk_arab: كوللاج
     kk-cn: كوللاج
-    kk-cyrl: Коллаж
+    kk_cyrl: Коллаж
     kk-kz: Коллаж
-    kk-latn: Kollaj
+    kk_latn: Kollaj
     kk-tr: Kollaj
     kn: ಅಂಟು ಚಿತ್ರಣ ಕಲೆ
     ko: 콜라주
     ku: Kolaj
-    ku-arab: کۆلاژ
-    ku-latn: Kolaj
+    ku_arab: کۆلاژ
+    ku_latn: Kolaj
     ky: Коллаж
     la: Glutinamentum
     lb: Collage
@@ -139,8 +139,8 @@ dv_has_:
     si: Collage
     sl: kolaž
     sr: колаж
-    sr-ec: колаж
-    sr-el: kolaž
+    sr_ec: колаж
+    sr_el: kolaž
     sv: collage
     te: కోల్లెజ్
     th: ศิลปะภาพตัดปะ
@@ -151,12 +151,12 @@ dv_has_:
     wuu: 拼贴画
     yue: 拼貼
     zh: 珂拉琪
-    zh-cn: 珂拉琪
-    zh-hans: 珂拉琪
-    zh-hant: 珂拉琪
-    zh-hk: 珂拉琪
-    zh-sg: 珂拉琪
-    zh-tw: 珂拉琪
+    zh_cn: 珂拉琪
+    zh_hans: 珂拉琪
+    zh_hant: 珂拉琪
+    zh_hk: 珂拉琪
+    zh_sg: 珂拉琪
+    zh_tw: 珂拉琪
 ---
 # [[Collaging]] 
 

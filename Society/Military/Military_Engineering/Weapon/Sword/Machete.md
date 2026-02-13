@@ -52,7 +52,7 @@ dv_has_:
     ar: منجل ماشيتي
     ast: machete
     az: Maçete
-    be-tarask: мачэтэ
+    be_tarask: мачэтэ
     bg: мачете
     bn: মাচেতে
     ca: matxet
@@ -62,7 +62,7 @@ dv_has_:
     de: Machete
     el: ματσέτα
     en: machete
-    en-ca: machete
+    en_ca: machete
     en-us: machete
     eo: maĉeto
     es: machete
@@ -93,7 +93,7 @@ dv_has_:
     pa: ਮਾਛੇਤੇ
     pl: maczeta
     pt: machete
-    pt-br: machete
+    pt_br: machete
     ro: macetă
     ru: мачете
     sco: machete
@@ -102,8 +102,8 @@ dv_has_:
     sl: mačeta
     sq: machete
     sr: мачета
-    sr-ec: мачета
-    sr-el: mačeta
+    sr_ec: мачета
+    sr_el: mačeta
     su: bedog
     sv: machete
     ta: குறுவாள்

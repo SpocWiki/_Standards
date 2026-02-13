@@ -85,7 +85,7 @@ dv_has_:
     ast: Caza furtiva
     az: Brakonyerlik
     ba: Браконьерлыҡ
-    be-tarask: браканьерства
+    be_tarask: браканьерства
     bg: Бракониерство
     bn: অবৈধ প্রাণী শিকার
     bs: Krivolov
@@ -94,11 +94,11 @@ dv_has_:
     cv: Браконьерлăх
     da: krybskytteri
     de: Wilderei
-    de-ch: Wilderei
+    de_ch: Wilderei
     el: Λαθροθηρία
     en: poaching
-    en-ca: Poaching
-    en-gb: poaching
+    en_ca: Poaching
+    en_gb: poaching
     eo: ŝtelĉasado
     es: caza furtiva
     et: salaküttimine
@@ -129,7 +129,7 @@ dv_has_:
     oc: Braconatge
     pl: kłusownictwo
     pt: caça furtiva
-    pt-br: Caça furtiva
+    pt_br: Caça furtiva
     ro: Braconaj
     ru: браконьерство
     si: නීති විරෝධී දඩයම් කිරීම
@@ -147,10 +147,10 @@ dv_has_:
     wa: Bracnaedje
     yue: 非法打獵
     zh: 偷獵
-    zh-cn: 非法狩猎
-    zh-hans: 偷猎
-    zh-hant: 非法狩獵
-    zh-tw: 盜獵
+    zh_cn: 非法狩猎
+    zh_hans: 偷猎
+    zh_hant: 非法狩獵
+    zh_tw: 盜獵
 ---
 # [[Poaching]] 
 

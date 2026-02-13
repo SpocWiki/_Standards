@@ -230,7 +230,7 @@ dv_has_:
     bar: Musi
     bcl: tugtug
     be: музыка
-    be-tarask: музыка
+    be_tarask: музыка
     bew: gending
     bg: музика
     bho: संगीत
@@ -259,14 +259,14 @@ dv_has_:
     da: musik
     dag: yila
     de: Musik
-    de-ch: Musik
+    de_ch: Musik
     dga: yiele
     diq: muzik
     dv: ސަންގީތު
     el: μουσική
     en: music
-    en-ca: music
-    en-gb: music
+    en_ca: music
+    en_gb: music
     eo: muziko
     es: música
     et: muusika
@@ -354,7 +354,7 @@ dv_has_:
     lt: muzika
     lv: mūzika
     lzh: 樂律
-    map-bms: musik
+    map_bms: musik
     mcn: nu᷅lnà
     mdf: Седямась
     mg: mozika
@@ -366,7 +366,7 @@ dv_has_:
     mo: музикэ
     mr: संगीत
     ms: muzik
-    ms-arab: موزيک
+    ms_arab: موزيک
     mt: mużika
     mwl: música
     my: ဂီတ
@@ -377,7 +377,7 @@ dv_has_:
     nap: museca
     nb: musikk
     nds: Musik
-    nds-nl: meziek
+    nds_nl: meziek
     ne: संगीत
     new: संगीत
     nl: muziek
@@ -401,7 +401,7 @@ dv_has_:
     pnt: μουσική
     ps: ټنګټکور
     pt: música
-    pt-br: música
+    pt_br: música
     qu: taki kapchiy
     rmf: musikes
     rmy: Muzika
@@ -434,8 +434,8 @@ dv_has_:
     so: muusig
     sq: muzika
     sr: музика
-    sr-ec: музика
-    sr-el: muzika
+    sr_ec: музика
+    sr_el: muzika
     srn: poku
     st: mmino
     stq: Musik
@@ -455,7 +455,7 @@ dv_has_:
     tr: müzik
     ts: vunanga
     tt: музыка
-    tt-cyrl: музыка
+    tt_cyrl: музыка
     tw: Nnwom
     udm: крезьгур
     ug: مۇزىكا
@@ -479,11 +479,11 @@ dv_has_:
     za: yinhyoz
     zea: muziek
     zh: 音樂
-    zh-cn: 音乐
-    zh-hans: 音乐
-    zh-hant: 音樂
-    zh-hk: 音樂
-    zh-tw: 音樂
+    zh_cn: 音乐
+    zh_hans: 音乐
+    zh_hant: 音樂
+    zh_hk: 音樂
+    zh_tw: 音樂
     zu: umculo
 ---
 # [[Music]] 

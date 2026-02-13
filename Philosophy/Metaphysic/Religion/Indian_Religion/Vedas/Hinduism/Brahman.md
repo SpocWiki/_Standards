@@ -55,7 +55,7 @@ dv_has_:
     as: ব্ৰহ্ম
     az: Brahmanizm
     bcl: Brahman
-    be-tarask: Брагман
+    be_tarask: Брагман
     bg: Брахман
     bho: ब्रह्म
     bn: ব্রহ্ম

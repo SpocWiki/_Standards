@@ -62,11 +62,11 @@ dv_has_:
     cs: prase
     cv: Шĕпĕнлĕскер
     de: Warzenschweine
-    de-ch: Warzenschweine
+    de_ch: Warzenschweine
     el: Φακόχοιρος
     en: Phacochoerus
-    en-ca: Phacochoerus
-    en-gb: Phacochoerus
+    en_ca: Phacochoerus
+    en_gb: Phacochoerus
     eo: Phacochoerus
     es: Phacochoerus
     et: Tüügassiga
@@ -103,7 +103,7 @@ dv_has_:
     oc: Phacochoerus
     pl: guziec
     pt: Facoquero
-    pt-br: Facóquero
+    pt_br: Facóquero
     ro: Facocer
     ru: бородавочник
     sq: Phacochoerus
@@ -115,10 +115,10 @@ dv_has_:
     vo: Phacochoerus
     war: Phacochoerus
     zh: 疣豬屬
-    zh-cn: 疣猪属
-    zh-hans: 疣猪亚科
-    zh-hant: 疣豬亞科
-    zh-tw: 疣豬屬
+    zh_cn: 疣猪属
+    zh_hans: 疣猪亚科
+    zh_hant: 疣豬亞科
+    zh_tw: 疣豬屬
     zu: Intibane
 ---
 # Phacochoerus

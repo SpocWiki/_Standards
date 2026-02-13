@@ -150,7 +150,7 @@ dv_has_:
     bar: Grace Kelly
     bcl: Grace Kelly
     be: Грэйс Келі
-    be-tarask: Грэйс Келі
+    be_tarask: Грэйс Келі
     bg: Грейс Кели
     bi: Grace Kelly
     bm: Grace Kelly
@@ -167,11 +167,11 @@ dv_has_:
     da: Grace Kelly
     de: Grace Kelly
     de-at: Grace Kelly
-    de-ch: Grace Kelly
+    de_ch: Grace Kelly
     el: Γκρέις Κέλι
     en: Grace Kelly
-    en-ca: Grace Kelly
-    en-gb: Grace Kelly
+    en_ca: Grace Kelly
+    en_gb: Grace Kelly
     eo: Grace Kelly
     es: Grace Kelly
     et: Grace Kelly
@@ -227,7 +227,7 @@ dv_has_:
     nap: Grace Kelly
     nb: Grace Kelly
     nds: Grace Kelly
-    nds-nl: Grace Kelly
+    nds_nl: Grace Kelly
     nl: Grace Kelly
     nn: Grace Kelly
     nrm: Grace Kelly
@@ -239,7 +239,7 @@ dv_has_:
     pms: Grace Kelly
     prg: Grace Kelly
     pt: Grace Kelly
-    pt-br: Grace Kelly
+    pt_br: Grace Kelly
     qu: Grace Kelly
     rgn: Grace Kelly
     rm: Grace Kelly
@@ -255,7 +255,7 @@ dv_has_:
     smn: Grace Kelly
     sq: Grace Kelly
     sr: Грејс Кели
-    sr-el: Grace Kelly
+    sr_el: Grace Kelly
     su: Grace Kelly
     sv: Grace Kelly
     sw: Grace Kelly
@@ -281,12 +281,12 @@ dv_has_:
     yo: Grace Kelly
     yue: 嘉麗絲姬莉
     zh: 格蕾丝·凯利
-    zh-cn: 格蕾丝·凯丽
-    zh-hans: 格蕾丝·凯丽
-    zh-hant: 格蕾絲·凱麗
-    zh-hk: 嘉麗絲·姬莉
+    zh_cn: 格蕾丝·凯丽
+    zh_hans: 格蕾丝·凯丽
+    zh_hant: 格蕾絲·凱麗
+    zh_hk: 嘉麗絲·姬莉
     zh-my: 嘉丽丝·姬莉
-    zh-sg: 嘉丽丝·姬莉
+    zh_sg: 嘉丽丝·姬莉
     zu: Grace Kelly
 ---
 # [[Grace_Kelly]] 

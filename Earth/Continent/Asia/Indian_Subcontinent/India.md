@@ -65,7 +65,7 @@ dv_has_:
     ab: Индиа
     ace: India
     ady: Индие
-    aeb-arab: الهند
+    aeb_arab: الهند
     af: Indië
     am: ህንድ
     ami: India
@@ -92,7 +92,7 @@ dv_has_:
     bbc: India
     bcl: Indya
     be: Індыя
-    be-tarask: Індыя
+    be_tarask: Індыя
     bew: Hindi
     bg: Индия
     bgn: هندوستان
@@ -110,7 +110,7 @@ dv_has_:
     bug: ᨕᨗᨉᨗᨐ
     bxr: Энэдхэг
     ca: Índia
-    cbk-zam: India
+    cbk_zam: India
     cdo: Éng-dô
     ce: Инди
     ceb: Indiya
@@ -121,7 +121,7 @@ dv_has_:
     co: India
     cr: ᙜᓃ
     crh: İndistan
-    crh-latn: İndistan
+    crh_latn: İndistan
     crh-ro: Hindístan
     cs: Indie
     csb: Indie
@@ -132,7 +132,7 @@ dv_has_:
     dag: India
     de: Indien
     de-at: Indien
-    de-ch: Indien
+    de_ch: Indien
     dga: India
     din: Indiɛn
     diq: Hindıstan
@@ -170,7 +170,7 @@ dv_has_:
     gn: India
     gom: Dn/भारत
     gom-deva: भारत
-    gom-latn: Bharot
+    gom_latn: Bharot
     gor: India
     got: "\U00010339\U0001033D\U00010333\U00010339\U00010330/India"
     gpe: India
@@ -250,7 +250,7 @@ dv_has_:
     mad: India
     mag: भारत
     mai: भारत
-    map-bms: India
+    map_bms: India
     mdf: Индия
     mg: India
     mhr: Индий
@@ -264,7 +264,7 @@ dv_has_:
     mos: India
     mr: भारत
     ms: India
-    ms-arab: اينديا
+    ms_arab: اينديا
     mt: Indja
     mwl: Índia
     my: အိန္ဒိယနိုင်ငံ
@@ -276,7 +276,7 @@ dv_has_:
     nap: Innia
     nb: India
     nds: Indien
-    nds-nl: India
+    nds_nl: India
     ne: भारत
     new: भारत
     nl: India
@@ -304,7 +304,7 @@ dv_has_:
     pnb: بھارت
     ps: هند
     pt: Índia
-    pt-br: Índia
+    pt_br: Índia
     qu: Indya
     rm: India
     rmy: Bharat
@@ -340,8 +340,8 @@ dv_has_:
     so: Hindiya
     sq: India
     sr: Индија
-    sr-ec: Индија
-    sr-el: Indija
+    sr_ec: Индија
+    sr_el: Indija
     srn: Indiakondre
     ss: INdiya
     st: India
@@ -359,7 +359,7 @@ dv_has_:
     te: భారతదేశం
     tet: Índia
     tg: Ҳиндустон
-    tg-cyrl: Ҳиндустон
+    tg_cyrl: Ҳиндустон
     th: ประเทศอินเดีย
     ti: ህንዲ
     tk: Hindistan
@@ -372,15 +372,15 @@ dv_has_:
     trv: India
     ts: India
     tt: Һиндстан
-    tt-cyrl: Һиндстан
-    tt-latn: Hindstan
+    tt_cyrl: Һиндстан
+    tt_latn: Hindstan
     tum: India
     tw: India
     ty: ’Inītia
     udm: Индия
     ug: ھىندىستان
-    ug-arab: ھىندىستان
-    ug-latn: Hindistan
+    ug_arab: ھىندىستان
+    ug_latn: Hindistan
     uk: Індія
     ur: بھارت
     uz: Hindiston
@@ -404,14 +404,14 @@ dv_has_:
     zea: India
     zgh: ⵀⵉⵏⴷⵓⵙⵜⴰⵏ
     zh: 印度
-    zh-cn: 印度
-    zh-hans: 印度
-    zh-hant: 印度
-    zh-hk: 印度
-    zh-mo: 印度
+    zh_cn: 印度
+    zh_hans: 印度
+    zh_hant: 印度
+    zh_hk: 印度
+    zh_mo: 印度
     zh-my: 印度
-    zh-sg: 印度
-    zh-tw: 印度
+    zh_sg: 印度
+    zh_tw: 印度
     zu: INdiya
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-India

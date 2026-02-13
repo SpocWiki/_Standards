@@ -135,7 +135,7 @@ dv_has_:
     bar: Recycling
     bas: kòndɛ̀ nigîl/hyɛ̀lɓà
     be: перапрацоўка адходаў
-    be-tarask: перапрацоўка адкідаў
+    be_tarask: перапрацоўка адкідаў
     bg: Рециклиране
     br: Adaoz
     ca: reciclatge
@@ -145,12 +145,12 @@ dv_has_:
     cy: Ailgylchu
     da: genanvendelse
     de: Recycling
-    de-ch: Recycling
+    de_ch: Recycling
     diq: Pey ageyrayış
     el: Ανακύκλωση
     en: recycling
-    en-ca: recycling
-    en-gb: recycling
+    en_ca: recycling
+    en_gb: recycling
     eo: recikligo
     es: reciclaje
     et: Taaskasutus
@@ -174,11 +174,11 @@ dv_has_:
     it: riciclaggio dei rifiuti
     ja: リサイクル
     kk: Пайдаға асыру
-    kk-arab: پايداعا اسىرۋ
+    kk_arab: پايداعا اسىرۋ
     kk-cn: پايداعا اسىرۋ
-    kk-cyrl: Пайдаға асыру
+    kk_cyrl: Пайдаға асыру
     kk-kz: Пайдаға асыру
-    kk-latn: Paýdağa asırw
+    kk_latn: Paýdağa asırw
     kk-tr: Paýdağa asırw
     kn: ಮರುಬಳಕೆ
     ko: 재활용
@@ -204,7 +204,7 @@ dv_has_:
     pl: recykling
     ps: ضايعاتو بياموندنه
     pt: reciclagem
-    pt-br: reciclagem
+    pt_br: reciclagem
     qu: Imaykana muyurichiy
     ro: reciclare
     ru: переработка отходов
@@ -215,8 +215,8 @@ dv_has_:
     sl: recikliranje
     sq: Riciklimi
     sr: рециклирање
-    sr-ec: рециклирање
-    sr-el: Recikliranje
+    sr_ec: рециклирање
+    sr_el: Recikliranje
     sv: återvinning
     sw: Urejelezaji
     ta: மீளுருவாக்கம்
@@ -232,12 +232,12 @@ dv_has_:
     ybb: leswāŋ azō ndɔk ŋghʉ̄ amɔ̄ʼ
     yue: 廢物回收
     zh: 資源回收
-    zh-cn: 资源回收
-    zh-hans: 资源回收
-    zh-hant: 資源回收
-    zh-hk: 資源回收
-    zh-sg: 资源回收
-    zh-tw: 資源回收
+    zh_cn: 资源回收
+    zh_hans: 资源回收
+    zh_hant: 資源回收
+    zh_hk: 資源回收
+    zh_sg: 资源回收
+    zh_tw: 資源回收
 ---
 # [[Recycling]] 
 

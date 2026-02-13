@@ -134,7 +134,7 @@ dv_has_:
     azb: گیلک دیلی
     ba: Иран телдәре
     be: іранскія мовы
-    be-tarask: іранскія мовы
+    be_tarask: іранскія мовы
     bg: Ирански езици
     bn: ইরানীয় ভাষাসমূহ
     br: yezhoù iranek
@@ -233,8 +233,8 @@ dv_has_:
     xmf: ირანული ნინეფი
     yue: 伊朗語支
     zh: 伊朗语支
-    zh-hant: 伊朗語支
-    zh-tw: 伊朗語支
+    zh_hant: 伊朗語支
+    zh_tw: 伊朗語支
 ---
 # [[Lang-ira]] 
 

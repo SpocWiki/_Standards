@@ -48,7 +48,7 @@ dv_has_:
     oc: Spirostreptida
     pl: Spirostreptida
     pt: Spirostreptida
-    pt-br: Spirostreptida
+    pt_br: Spirostreptida
     ro: Spirostreptida
     ru: Spirostreptida
     sq: Spirostreptida
@@ -60,9 +60,9 @@ dv_has_:
     vo: Spirostreptida
     war: Spirostreptida
     zh: 环旋蛩目
-    zh-cn: 环旋蛩目
-    zh-hans: 环旋蛩目
-    zh-tw: 異馬陸目
+    zh_cn: 环旋蛩目
+    zh_hans: 环旋蛩目
+    zh_tw: 異馬陸目
 ---
 # [[Spirostreptida]]  
 

@@ -79,7 +79,7 @@ dv_has_:
     ast: Beta vulgaris subsp. vulgaris Altissima Group
     az: Şəkər çuğunduru
     be: цукровы бурак
-    be-tarask: цукровы бурак
+    be_tarask: цукровы бурак
     bg: Захарно цвекло
     bn: চিনি বীট
     bs: Šećerna repa
@@ -92,8 +92,8 @@ dv_has_:
     de: Zuckerrübe
     el: Ζαχαρότευτλο
     en: sugar beet
-    en-ca: Sugar beet
-    en-gb: sugar beet
+    en_ca: Sugar beet
+    en_gb: sugar beet
     eo: sukerbeto
     es: Beta vulgaris subsp. vulgaris var. altissima
     et: Suhkrupeet
@@ -118,11 +118,11 @@ dv_has_:
     ja: テンサイ
     ka: შაქრის ჭარხალი
     kk: Қант қызылшасы
-    kk-arab: قانت قىزىلشاسى
+    kk_arab: قانت قىزىلشاسى
     kk-cn: قانت قىزىلشاسى
-    kk-cyrl: Қант қызылшасы
+    kk_cyrl: Қант қызылшасы
     kk-kz: Қант қызылшасы
-    kk-latn: Qant qızılşası
+    kk_latn: Qant qızılşası
     kk-tr: Qant qızılşası
     ko: 사탕무
     ksh: Zuckerröb
@@ -139,7 +139,7 @@ dv_has_:
     pcd: Biétrape éd chucq
     pl: burak cukrowy
     pt: beterraba-sacarina
-    pt-br: Beterraba-sacarina
+    pt_br: Beterraba-sacarina
     ro: sfeclă de zahăr
     ru: сахарная свёкла
     sgs: Sokrėnis ronkelis
@@ -159,12 +159,12 @@ dv_has_:
     wuu: 糖用甜菜
     yi: בוריק
     zh: 糖用甜菜
-    zh-cn: 糖用甜菜
-    zh-hans: 糖用甜菜
-    zh-hant: 糖用甜菜
-    zh-hk: 糖用甜菜
-    zh-sg: 糖用甜菜
-    zh-tw: 糖用甜菜
+    zh_cn: 糖用甜菜
+    zh_hans: 糖用甜菜
+    zh_hant: 糖用甜菜
+    zh_hk: 糖用甜菜
+    zh_sg: 糖用甜菜
+    zh_tw: 糖用甜菜
 ---
 #has_/time_/started :: 1802-06-01 
 

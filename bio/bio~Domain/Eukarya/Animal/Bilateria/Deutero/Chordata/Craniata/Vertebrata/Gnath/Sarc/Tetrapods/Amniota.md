@@ -56,7 +56,7 @@ dv_has_:
     az: Amniyot
     ba: амниоттар
     be: амніёты
-    be-tarask: амніёты
+    be_tarask: амніёты
     bg: амниоти
     bs: amnioti
     ca: amniotes
@@ -90,11 +90,11 @@ dv_has_:
     ka: ამნიონიანები
     kab: Tinefrawin
     kk: Амниоттар
-    kk-arab: امنىيوتتار
+    kk_arab: امنىيوتتار
     kk-cn: امنىيوتتار
-    kk-cyrl: Амниоттар
+    kk_cyrl: Амниоттар
     kk-kz: Амниоттар
-    kk-latn: Amnïottar
+    kk_latn: Amnïottar
     kk-tr: Amnïottar
     ko: 양막류
     la: Amniota
@@ -118,13 +118,13 @@ dv_has_:
     sl: amnioti
     sq: Amniota
     sr: амниоте
-    sr-ec: амниоте
-    sr-el: amniote
+    sr_ec: амниоте
+    sr_el: amniote
     sv: amnioter
     ta: அம்னியோட்டா
     te: ఉల్బధారులు
     tg: Амниот
-    tg-latn: Amniot
+    tg_latn: Amniot
     tl: Amniota
     tr: Amniyot
     uk: амніоти
@@ -135,12 +135,12 @@ dv_has_:
     wuu: 羊膜动物
     zea: Amniota
     zh: 羊膜動物
-    zh-cn: 羊膜动物
-    zh-hans: 羊膜动物
-    zh-hant: 羊膜動物
-    zh-hk: 羊膜動物
-    zh-sg: 羊膜动物
-    zh-tw: 羊膜動物
+    zh_cn: 羊膜动物
+    zh_hans: 羊膜动物
+    zh_hant: 羊膜動物
+    zh_hk: 羊膜動物
+    zh_sg: 羊膜动物
+    zh_tw: 羊膜動物
 ---
 # [[Amniota]] 
 

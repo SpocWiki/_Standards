@@ -66,7 +66,7 @@ dv_has_:
     avk: Tcamoldunol (Diprotodontia)
     az: İkikəsicidişlilər
     azb: ایکی اؤن دیشلیلر
-    be-tarask: дыпратоданты
+    be_tarask: дыпратоданты
     bg: двурезцови
     br: Diprotodontia
     ca: diprotodonts
@@ -76,8 +76,8 @@ dv_has_:
     de: Diprotodontia
     el: Διπρωτόδοντα
     en: Diprotodontia
-    en-ca: Diprotodontia
-    en-gb: Diprotodontia
+    en_ca: Diprotodontia
+    en_gb: Diprotodontia
     eo: Diprotodontia
     es: Diprotodontia
     eu: Diprotodontia
@@ -119,7 +119,7 @@ dv_has_:
     oc: Diprotodontia
     pl: dwuprzodozębowce
     pt: Diprotodontia
-    pt-br: Diprotodontia
+    pt_br: Diprotodontia
     ro: Diprotodontia
     ru: двурезцовые сумчатые
     scn: Diprotodontia
@@ -140,9 +140,9 @@ dv_has_:
     yue: 雙門齒目
     zea: Klimbudelbeêsten
     zh: 雙門齒目
-    zh-cn: 双门齿目
-    zh-hans: 双门齿目
-    zh-tw: 雙門齒目
+    zh_cn: 双门齿目
+    zh_hans: 双门齿目
+    zh_tw: 雙門齒目
 ---
 # [[Diprotodontia]] 
 

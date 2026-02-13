@@ -98,7 +98,7 @@ dv_has_:
     az: Qalxan
     ba: Ҡалҡан
     be: Шчыт
-    be-tarask: Шчыт
+    be_tarask: Шчыт
     bg: Щит
     bn: স্কুটাম মণ্ডল
     br: Skoed
@@ -155,7 +155,7 @@ dv_has_:
     oc: Escut de Sobieski
     pl: Gwiazdozbiór Tarczy
     pt: Scutum
-    pt-br: Escudo
+    pt_br: Escudo
     ro: Scutul
     ru: Щит
     sah: Куйах

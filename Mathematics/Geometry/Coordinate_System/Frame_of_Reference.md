@@ -94,7 +94,7 @@ dv_has_:
     ast: sistema de referencia
     az: hesablama sistemi
     be: сістэма адліку
-    be-tarask: сыстэма адліку
+    be_tarask: сыстэма адліку
     bg: Отправна система
     bho: परसंग परनाली
     bn: প্রসঙ্গ কাঠামো
@@ -128,11 +128,11 @@ dv_has_:
     it: sistema di riferimento
     ja: 基準系
     kk: Санақ жүйесі
-    kk-arab: ساناق جۇيەسى
+    kk_arab: ساناق جۇيەسى
     kk-cn: ساناق جۇيەسى
-    kk-cyrl: Санақ жүйесі
+    kk_cyrl: Санақ жүйесі
     kk-kz: Санақ жүйесі
-    kk-latn: Sanaq jüýesi
+    kk_latn: Sanaq jüýesi
     kk-tr: Sanaq jüýesi
     ko: 기준틀
     la: Systema relationum
@@ -159,12 +159,12 @@ dv_has_:
     wuu: 参考系
     yue: 參考系
     zh: 参考系
-    zh-cn: 参考系
-    zh-hans: 参考系
-    zh-hant: 參考系
-    zh-hk: 參考系
-    zh-sg: 参考系
-    zh-tw: 參考系
+    zh_cn: 参考系
+    zh_hans: 参考系
+    zh_hant: 參考系
+    zh_hk: 參考系
+    zh_sg: 参考系
+    zh_tw: 參考系
 ---
 # [[Frame_of_Reference]] 
 

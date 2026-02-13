@@ -195,7 +195,7 @@ dv_has_:
     ba: Google
     bcl: Google Search
     be: Google search
-    be-tarask: Пошук Гугла
+    be_tarask: Пошук Гугла
     bg: Гугъл търсачка
     bho: गूगल सर्च
     bn: গুগল অনুসন্ধান
@@ -208,12 +208,12 @@ dv_has_:
     cs: Google
     da: Google
     de: Google
-    de-ch: Google
+    de_ch: Google
     diq: Google Search
     el: Αναζήτηση Google
     en: Google Search
-    en-ca: Google Search
-    en-gb: Google Search
+    en_ca: Google Search
+    en_gb: Google Search
     eo: Google
     es: buscador de Google
     et: Google'i otsing
@@ -259,7 +259,7 @@ dv_has_:
     my: ဂူဂယ် ရှာဖွေရေး
     nap: Google
     nb: Google Søk
-    nds-nl: Google
+    nds_nl: Google
     ne: गुगल सर्च
     nia: Google Search
     nl: Google
@@ -272,7 +272,7 @@ dv_has_:
     pl: Wyszukiwarka Google
     ps: ګوګل
     pt: Google Busca
-    pt-br: Google Busca
+    pt_br: Google Busca
     qu: Google Maskay
     ro: Google Search
     ru: Поиск Google
@@ -308,12 +308,12 @@ dv_has_:
     yi: גוגל
     yue: Google搜尋
     zh: 谷歌搜索
-    zh-cn: 谷歌搜索
-    zh-hans: Google搜索
-    zh-hant: Google搜尋
-    zh-hk: Google Search
-    zh-sg: Google Search
-    zh-tw: Google搜尋
+    zh_cn: 谷歌搜索
+    zh_hans: Google搜索
+    zh_hant: Google搜尋
+    zh_hk: Google Search
+    zh_sg: Google Search
+    zh_tw: Google搜尋
 ---
 # [[Google_Search]] 
 

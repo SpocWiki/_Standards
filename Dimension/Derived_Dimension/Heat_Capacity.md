@@ -108,7 +108,7 @@ dv_has_:
     az: İstilik tutumu
     bar: Wärmekapazität
     be: цеплаёмістасць
-    be-tarask: цеплаёмістасьць
+    be_tarask: цеплаёмістасьць
     bg: топлинен капацитет
     bn: তাপ ধারকত্ব
     bs: toplotni kapacitet
@@ -120,8 +120,8 @@ dv_has_:
     de: Wärmekapazität
     el: θερμοχωρητικότητα
     en: heat capacity
-    en-ca: heat capacity
-    en-gb: heat capacity
+    en_ca: heat capacity
+    en_gb: heat capacity
     eo: varmokapacito
     es: capacidad calorífica
     et: soojusmahtuvus
@@ -144,11 +144,11 @@ dv_has_:
     ja: 熱容量
     ka: თბოტევადობა
     kk: жылу сыйымдылығы
-    kk-arab: جىلۋ سىيىمدىلىعى
+    kk_arab: جىلۋ سىيىمدىلىعى
     kk-cn: جىلۋ سىيىمدىلىعى
-    kk-cyrl: жылу сыйымдылығы
+    kk_cyrl: жылу сыйымдылығы
     kk-kz: жылу сыйымдылығы
-    kk-latn: jılw sıýımdılığı
+    kk_latn: jılw sıýımdılığı
     kk-tr: jılw sıýımdılığı
     ko: 열용량
     ky: жылуулук сыйымдуулугу
@@ -163,7 +163,7 @@ dv_has_:
     oc: capacitat termica
     pl: pojemność cieplna
     pt: capacidade térmica
-    pt-br: capacidade térmica
+    pt_br: capacidade térmica
     ro: capacitate termică
     ru: теплоёмкость
     sco: heat capacity
@@ -187,12 +187,12 @@ dv_has_:
     wuu: 热容量
     yue: 熱容量
     zh: 热容
-    zh-cn: 热容
-    zh-hans: 热容
-    zh-hant: 熱容
-    zh-hk: 熱容
-    zh-sg: 热容
-    zh-tw: 熱容
+    zh_cn: 热容
+    zh_hans: 热容
+    zh_hant: 熱容
+    zh_hk: 熱容
+    zh_sg: 热容
+    zh_tw: 熱容
 ---
 # [[Heat_Capacity]] 
 

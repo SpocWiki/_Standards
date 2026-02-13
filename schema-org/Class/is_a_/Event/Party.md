@@ -111,7 +111,7 @@ dv_has_:
     atj: tipickamowin
     ay: Phista
     az: Qonaqlıq
-    be-tarask: вечарына
+    be_tarask: вечарына
     bg: Парти (събиране на хора)
     br: gouel
     ca: festa
@@ -164,7 +164,7 @@ dv_has_:
     nn: fest
     pl: przyjęcie
     pt: festa
-    pt-br: festa
+    pt_br: festa
     qu: Hatun p'unchaw
     ro: petrecere
     ru: вечеринка
@@ -175,8 +175,8 @@ dv_has_:
     smn: Juhleh
     so: Damaashaad
     sr: забава
-    sr-ec: забава
-    sr-el: zabava
+    sr_ec: забава
+    sr_el: zabava
     sv: fest
     te: వేడుక
     tg: Ҷашн
@@ -192,12 +192,12 @@ dv_has_:
     yi: סעודה
     yue: 派對
     zh: 派對
-    zh-cn: 聚会
-    zh-hans: 聚会
-    zh-hant: 聚會
-    zh-hk: 派對
-    zh-sg: 派对
-    zh-tw: 聚會
+    zh_cn: 聚会
+    zh_hans: 聚会
+    zh_hant: 聚會
+    zh_hk: 派對
+    zh_sg: 派对
+    zh_tw: 聚會
 ---
 # [[Party]] 
 

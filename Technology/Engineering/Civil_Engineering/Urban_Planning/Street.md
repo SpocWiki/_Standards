@@ -199,7 +199,7 @@ dv_has_:
     ba: урам
     bar: Innaortsstroß
     be: вуліца
-    be-tarask: вуліца
+    be_tarask: вуліца
     bg: улица
     bn: রাস্তা
     br: straed
@@ -213,12 +213,12 @@ dv_has_:
     cy: stryd
     da: gade
     de: Innerortsstraße
-    de-ch: Strasse
+    de_ch: Strasse
     ee: abl)
     el: οδός
     en: street
-    en-ca: street
-    en-gb: street
+    en_ca: street
+    en_gb: street
     eo: strato
     es: calle
     et: tänav
@@ -257,7 +257,7 @@ dv_has_:
     ko: 거리
     ksh: Stroß
     ku: kolan
-    ku-latn: kolan
+    ku_latn: kolan
     kv: Улича
     la: vicus urbanus
     lb: Strooss
@@ -285,7 +285,7 @@ dv_has_:
     pl: ulica
     pnb: مارگ
     pt: rua
-    pt-br: rua
+    pt_br: rua
     ro: stradă
     ru: улица
     scn: strata urbana
@@ -300,7 +300,7 @@ dv_has_:
     sms: uuʹlec
     sq: rrugë
     sr: улица
-    sr-ec: улица
+    sr_ec: улица
     su: jalan
     sv: gata
     szl: ulica
@@ -311,7 +311,7 @@ dv_has_:
     tl: daan
     tr: sokak
     tt: урам
-    tt-cyrl: урам
+    tt_cyrl: урам
     udm: урам
     uk: вулиця
     ur: شارع
@@ -324,14 +324,14 @@ dv_has_:
     yi: גאס
     yue: 街
     zh: 街道
-    zh-cn: 街道
-    zh-hans: 街道
-    zh-hant: 街道
-    zh-hk: 街道
-    zh-mo: 街道
+    zh_cn: 街道
+    zh_hans: 街道
+    zh_hant: 街道
+    zh_hk: 街道
+    zh_mo: 街道
     zh-my: 街道
-    zh-sg: 街道
-    zh-tw: 街道
+    zh_sg: 街道
+    zh_tw: 街道
 ---
 # [[Street]] 
 

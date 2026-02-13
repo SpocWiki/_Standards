@@ -46,7 +46,7 @@ dv_has_:
     az: Robert Pettinson
     azb: رابرت پتینسون
     be: Роберт Пацінсан
-    be-tarask: Робэрт Патынсан
+    be_tarask: Робэрт Патынсан
     bg: Робърт Патинсън
     bn: রবার্ট প্যাটিনসন
     br: Robert Pattinson
@@ -59,7 +59,7 @@ dv_has_:
     diq: Robert Pattinson
     el: Ρόμπερτ Πάτινσον
     en: Robert Pattinson
-    en-gb: Robert Pattinson
+    en_gb: Robert Pattinson
     en-us: Robert Pattinson
     eo: Robert Pattinson
     es: Robert Pattinson
@@ -105,7 +105,7 @@ dv_has_:
     nn: Robert Pattinson
     pl: Robert Pattinson
     pt: Robert Pattinson
-    pt-br: Robert Pattinson
+    pt_br: Robert Pattinson
     rmf: Robert Pattinson
     ro: Robert Pattinson
     ru: Роберт Паттинсон
@@ -139,13 +139,13 @@ dv_has_:
     xmf: რობერტ პატინსონი
     yue: 羅拔柏迪臣
     zh: 羅伯·派汀森
-    zh-cn: 罗伯特·帕廷森
-    zh-hans: 罗伯特·帕廷森
-    zh-hant: 羅伯·派汀森
-    zh-hk: 羅拔·柏迪臣
+    zh_cn: 罗伯特·帕廷森
+    zh_hans: 罗伯特·帕廷森
+    zh_hant: 羅伯·派汀森
+    zh_hk: 羅拔·柏迪臣
     zh-my: 罗拔·柏汀森
-    zh-sg: 罗伯·派汀森
-    zh-tw: 羅伯·派汀森
+    zh_sg: 罗伯·派汀森
+    zh_tw: 羅伯·派汀森
 ---
 # [[Pattinson,Robert]] 
 

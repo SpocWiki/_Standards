@@ -282,7 +282,7 @@ dv_has_:
     bar: Neptun
     bcl: Neptuno
     be: Нептун
-    be-tarask: Нэптун
+    be_tarask: Нэптун
     bew: Nèptunus
     bg: Нептун
     bho: नेपच्यून ग्रह
@@ -314,8 +314,8 @@ dv_has_:
     el: Ποσειδώνας
     eml: Netón
     en: Neptune
-    en-ca: Neptune
-    en-gb: Neptune
+    en_ca: Neptune
+    en_gb: Neptune
     eo: Neptuno
     es: Neptuno
     et: Neptuun
@@ -395,7 +395,7 @@ dv_has_:
     lv: Neptūns
     lzh: 海王星
     mad: Nèptunus
-    map-bms: Neptunus
+    map_bms: Neptunus
     mdf: Нептун
     mg: Neptona
     mi: Tangaroa
@@ -406,7 +406,7 @@ dv_has_:
     mni: ꯁꯥꯃꯩ ꯊꯄꯤ
     mr: नेपच्यून ग्रह
     ms: Neptun
-    ms-arab: وارونا
+    ms_arab: وارونا
     mt: Nettunu
     mwl: Netuno
     my: နက်ပကျွန်းဂြိုဟ်
@@ -416,7 +416,7 @@ dv_has_:
     nap: Nettuno
     nb: Neptun
     nds: Neptun
-    nds-nl: Neptunus
+    nds_nl: Neptunus
     ne: वरुणग्रह
     new: वरुण
     nl: Neptunus
@@ -438,7 +438,7 @@ dv_has_:
     pnb: نیپچون
     ps: نیپټون
     pt: Neptuno
-    pt-br: Netuno
+    pt_br: Netuno
     qu: Niptun
     rm: Neptun
     rmy: Ketor
@@ -472,7 +472,7 @@ dv_has_:
     ta: நெப்டியூன்
     te: నెప్ట్యూన్
     tg: Нептун
-    tg-cyrl: Нептун
+    tg_cyrl: Нептун
     th: ดาวเนปจูน
     tk: Neptun
     tl: Neptuno
@@ -480,7 +480,7 @@ dv_has_:
     tok: mun Netunu
     tr: Neptün
     tt: Нептун
-    tt-cyrl: Нептун
+    tt_cyrl: Нептун
     tum: Chanya la Vidinda
     tyv: Нептун
     udm: Нептун
@@ -507,14 +507,14 @@ dv_has_:
     zea: Neptunus
     zgh: ⵏⵉⴱⵜⵓⵏ
     zh: 海王星
-    zh-cn: 海王星
-    zh-hans: 海王星
-    zh-hant: 海王星
-    zh-hk: 海王星
-    zh-mo: 海王星
+    zh_cn: 海王星
+    zh_hans: 海王星
+    zh_hant: 海王星
+    zh_hk: 海王星
+    zh_mo: 海王星
     zh-my: 海王星
-    zh-sg: 海王星
-    zh-tw: 海王星
+    zh_sg: 海王星
+    zh_tw: 海王星
     zu: UNepetuni
 ---
 # [[Neptune(Planet)]] 

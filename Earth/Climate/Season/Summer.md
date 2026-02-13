@@ -250,7 +250,7 @@ dv_has_:
   name_:
     ab: Аҧхын
     ady: Гъэмаф
-    aeb-arab: صيف
+    aeb_arab: صيف
     af: Somer
     am: ሞቄ ወቅት
     an: Verano
@@ -268,7 +268,7 @@ dv_has_:
     bar: Summa
     bcl: Tag-init
     be: лета
-    be-tarask: лета
+    be_tarask: лета
     bg: Лято
     bho: गर्मी
     bjn: Musim panas
@@ -289,15 +289,15 @@ dv_has_:
     cy: Haf
     da: sommer
     de: Sommer
-    de-ch: Sommer
+    de_ch: Sommer
     diq: Amnan
     dsb: Lěśe
     dty: गृष्म ऋतु
     el: καλοκαίρι
     eml: Istê
     en: summer
-    en-ca: Summer
-    en-gb: summer
+    en_ca: Summer
+    en_gb: summer
     eo: somero
     es: verano
     et: suvi
@@ -350,7 +350,7 @@ dv_has_:
     ks: رؠتہٕ کول
     ksh: Sommer
     ku: havîn
-    ku-latn: havîn
+    ku_latn: havîn
     kv: Гожӧм
     kw: hav
     ky: Жай
@@ -374,7 +374,7 @@ dv_has_:
     mr: उन्हाळा
     mrj: Кӓнгӹж
     ms: musim panas
-    ms-arab: موسيم ڤانس
+    ms_arab: موسيم ڤانس
     my: နွေရာသီ
     myv: кизэ
     mzn: تابستون
@@ -383,7 +383,7 @@ dv_has_:
     nap: Staggione
     nb: sommer
     nds: Sümmer
-    nds-nl: summer
+    nds_nl: summer
     ne: गृष्म ऋतु
     new: ताल्ला
     nl: zomer
@@ -399,7 +399,7 @@ dv_has_:
     pnb: ہناݪ
     ps: دوبی
     pt: verão
-    pt-br: Verão
+    pt_br: Verão
     qu: Ruphay mit'a
     rmf: niijal
     ro: vară
@@ -432,7 +432,7 @@ dv_has_:
     so: Xagaa
     sq: vera
     sr: лето
-    sr-ec: Лето
+    sr_ec: Лето
     sv: sommar
     sw: kipindi cha kiangazi
     szl: lato
@@ -469,7 +469,7 @@ dv_has_:
     za: Cawzhah
     zgh: ⴰⵏⴱⴷⵓ
     zh: 夏季
-    zh-hant: 夏季
+    zh_hant: 夏季
     zu: Ihlobo
 ---
 # [[Summer]]

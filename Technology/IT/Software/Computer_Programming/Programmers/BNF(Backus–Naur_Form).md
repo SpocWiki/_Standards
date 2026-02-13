@@ -72,20 +72,20 @@ dv_has_:
     sh: Backus-Naurov oblik
     sl: Backus-Naurova oblika
     sr: Бекус-Наурова форма
-    sr-ec: Бекус-Наурова форма
-    sr-el: Bekus-Naurova forma
+    sr_ec: Бекус-Наурова форма
+    sr_el: Bekus-Naurova forma
     sv: Backus-Naur-form
     ta: பேக்கசு-நார் முறை
     th: รูปแบบแบกคัส-เนาร์
     tr: Backus-Naur form
     uk: Нотація Бекуса-Наура
     zh: 巴科斯范式
-    zh-cn: 巴科斯范式
-    zh-hans: 巴科斯范式
-    zh-hant: 巴科斯範式
-    zh-hk: 巴科斯範式
-    zh-sg: 巴科斯范式
-    zh-tw: 巴科斯範式
+    zh_cn: 巴科斯范式
+    zh_hans: 巴科斯范式
+    zh_hant: 巴科斯範式
+    zh_hk: 巴科斯範式
+    zh_sg: 巴科斯范式
+    zh_tw: 巴科斯範式
 ---
 ## #has_/text_of_/abstract 
 

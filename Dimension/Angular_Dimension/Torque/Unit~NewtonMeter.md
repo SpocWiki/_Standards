@@ -13,8 +13,8 @@ dv_has_:
     de: Newtonmeter
     el: νιουτόμετρο
     en: newton metre
-    en-ca: newton metre
-    en-gb: newton metre
+    en_ca: newton metre
+    en_gb: newton metre
     en-us: newton meter
     eo: neŭtono-metro
     es: newton metro
@@ -32,8 +32,8 @@ dv_has_:
     ja: ニュートンメートル
     ko: 뉴턴 미터
     ku: mitirê newton
-    ku-arab: مترێ نەوتۆن
-    ku-latn: mitirê newton
+    ku_arab: مترێ نەوتۆن
+    ku_latn: mitirê newton
     ky: ньютон-метр
     lt: niutonmetras
     lv: ņūtonmetrs
@@ -58,12 +58,12 @@ dv_has_:
     vi: newtơn mét
     vls: newtonmeter
     zh: 牛頓米
-    zh-cn: 牛顿米
-    zh-hans: 牛顿米
-    zh-hant: 牛頓米
-    zh-hk: 牛頓米
-    zh-sg: 牛顿米
-    zh-tw: 牛頓米
+    zh_cn: 牛顿米
+    zh_hans: 牛顿米
+    zh_hant: 牛頓米
+    zh_hk: 牛頓米
+    zh_sg: 牛顿米
+    zh_tw: 牛頓米
 aliases:
 - mitirê newton
 - newton meter

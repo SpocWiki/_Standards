@@ -83,7 +83,7 @@ dv_has_:
     bar: Safer Sex
     bcl: Ligtas na pagkitoan
     be: бяспечны секс
-    be-tarask: бясьпечны сэкс
+    be_tarask: бясьпечны сэкс
     bg: Безопасен секс
     bn: নিরাপদ যৌনতা
     bo: ཅི་འདྲ་ཞིག་ལ་བདེ་འཇགས་ལུས་འབྲེལ་ཟེར་རམ་
@@ -94,7 +94,7 @@ dv_has_:
     de: Safer Sex
     el: Ασφαλές σεξ
     en: safe sex
-    en-gb: safe sex
+    en_gb: safe sex
     eo: sekura seksumado
     es: sexo seguro
     et: Turvaseks
@@ -137,12 +137,12 @@ dv_has_:
     vi: Tình dục an toàn
     yue: 安全性行為
     zh: 安全性行為
-    zh-cn: 安全性行为
-    zh-hans: 安全性行为
-    zh-hant: 安全性行為
-    zh-hk: 安全性行為
-    zh-sg: 安全性行为
-    zh-tw: 安全性行為
+    zh_cn: 安全性行为
+    zh_hans: 安全性行为
+    zh_hant: 安全性行為
+    zh_hk: 安全性行為
+    zh_sg: 安全性行为
+    zh_tw: 安全性行為
 ---
 # [[Safe_Sex]] 
 

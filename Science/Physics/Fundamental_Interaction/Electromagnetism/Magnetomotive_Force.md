@@ -67,7 +67,7 @@ dv_has_:
     ast: fuercia magnetomotriz
     bar: Magnetische Duachflutung
     be: Магнітарухаючая сіла
-    be-tarask: магнітаруховая сіла
+    be_tarask: магнітаруховая сіла
     ca: força magnetomotriu
     de: magnetische Umlaufspannung
     el: Μαγνητεγερτική δύναμη
@@ -96,12 +96,12 @@ dv_has_:
     sh: Magnetomotorna sila
     sl: magnetomotivna sila
     sr: магнетомоторна сила
-    sr-ec: магнетомоторна сила
+    sr_ec: магнетомоторна сила
     sv: Magnetomotorisk kraft
     ta: காந்த இயக்கு விசை
     tr: Manyetomotor kuvvet
     tt: магнит йөртү көче
-    tt-cyrl: магнит йөртү көче
+    tt_cyrl: магнит йөртү көче
     uk: Магніторушійна сила
     zh: 磁动势
 ---

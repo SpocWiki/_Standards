@@ -103,7 +103,7 @@ dv_has_:
     ba: топология
     bcl: topolohiya
     be: тапалогія
-    be-tarask: тапалёгія
+    be_tarask: тапалёгія
     bg: топология
     bn: টপোগণিত
     bo: ཐོ་ཕུ་རིག་པ།
@@ -177,7 +177,7 @@ dv_has_:
     pms: topologìa
     pnb: ٹوپولوجی
     pt: topologia
-    pt-br: topologia
+    pt_br: topologia
     rki: တိုပေါ်လော်ဂျီ
     ro: topologie
     ru: топология
@@ -213,9 +213,9 @@ dv_has_:
     yi: טאפאלאגיע
     yue: 拓撲學
     zh: 拓扑学
-    zh-hans: 拓扑学
-    zh-hant: 拓樸學
-    zh-tw: 拓樸學
+    zh_hans: 拓扑学
+    zh_hant: 拓樸學
+    zh_tw: 拓樸學
 ---
 # [[Topology]] 
 

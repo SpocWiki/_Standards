@@ -77,14 +77,14 @@ dv_has_:
     ar: نصف المحور الأكبر
     ast: semiexe mayor
     be: вялікая паўвось
-    be-tarask: вялікая паўвось
+    be_tarask: вялікая паўвось
     bg: голяма полуос
     bn: পরাক্ষ
     ca: semieix major
     cs: velká poloosa dráhy
     da: halve storakse
     de: große Halbachse
-    de-ch: grosse Halbachse
+    de_ch: grosse Halbachse
     el: Ημιμεγάλος Άξονας
     en: semi-major axis
     eo: granda duonakso
@@ -117,7 +117,7 @@ dv_has_:
     oc: semiaxe major
     pl: półoś wielka
     pt: semieixo maior
-    pt-br: semieixo maior
+    pt_br: semieixo maior
     ro: axa semi-majoră
     ru: большая полуось
     sco: semi-major an semi-minor axes
@@ -126,8 +126,8 @@ dv_has_:
     sk: Veľká polos
     sl: velika polos
     sr: велика полуоса
-    sr-ec: велика полуоса
-    sr-el: velika poluosa
+    sr_ec: велика полуоса
+    sr_el: velika poluosa
     su: sumbu semi-mayor
     sv: halv storaxel
     ta: அரைப்பேரச்சு
@@ -136,10 +136,10 @@ dv_has_:
     uk: велика піввісь
     vi: bán trục lớn
     yue: 半長軸
-    zh-hans: 半长轴
-    zh-hant: 半長軸
-    zh-hk: 半長軸
-    zh-sg: 半长轴
+    zh_hans: 半长轴
+    zh_hant: 半長軸
+    zh_hk: 半長軸
+    zh_sg: 半长轴
 ---
 # [[Semi-major_Axis]] 
 

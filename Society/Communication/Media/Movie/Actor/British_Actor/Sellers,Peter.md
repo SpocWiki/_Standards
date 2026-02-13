@@ -111,7 +111,7 @@ dv_has_:
     ba: Питер Селлерс
     bar: Peter Sellers
     be: Пітэр Селерс
-    be-tarask: Пітэр Сэлерз
+    be_tarask: Пітэр Сэлерз
     bg: Питър Селърс
     bn: পিটার সেলার্স
     br: Peter Sellers
@@ -124,11 +124,11 @@ dv_has_:
     dag: Peter Sellers
     de: Peter Sellers
     de-at: Peter Sellers
-    de-ch: Peter Sellers
+    de_ch: Peter Sellers
     el: Πίτερ Σέλερς
     en: Peter Sellers
-    en-ca: Peter Sellers
-    en-gb: Peter Sellers
+    en_ca: Peter Sellers
+    en_gb: Peter Sellers
     eo: Peter Sellers
     es: Peter Sellers
     et: Peter Sellers
@@ -176,7 +176,7 @@ dv_has_:
     nap: Peter Sellers
     nb: Peter Sellers
     nds: Peter Sellers
-    nds-nl: Peter Sellers
+    nds_nl: Peter Sellers
     nl: Peter Sellers
     nn: Peter Sellers
     nrm: Peter Sellers
@@ -186,7 +186,7 @@ dv_has_:
     pl: Peter Sellers
     pms: Peter Sellers
     pt: Peter Sellers
-    pt-br: Peter Sellers
+    pt_br: Peter Sellers
     qu: Peter Sellers
     rm: Peter Sellers
     ro: Peter Sellers
@@ -199,8 +199,8 @@ dv_has_:
     sl: Peter Sellers
     sq: Peter Sellers
     sr: Питер Селерс
-    sr-ec: Питер Селерс
-    sr-el: Piter Selers
+    sr_ec: Питер Селерс
+    sr_el: Piter Selers
     sv: Peter Sellers
     sw: Peter Sellers
     ta: பீட்டர் செல்லர்சு
@@ -219,13 +219,13 @@ dv_has_:
     wuu: 彼得·塞勒斯
     yue: 彼得斯拉
     zh: 彼得·塞勒斯
-    zh-cn: 彼得·塞勒斯
-    zh-hans: 彼得·塞勒斯
-    zh-hant: 彼得·謝勒
-    zh-hk: 彼得·斯拉
+    zh_cn: 彼得·塞勒斯
+    zh_hans: 彼得·塞勒斯
+    zh_hant: 彼得·謝勒
+    zh_hk: 彼得·斯拉
     zh-my: 彼得·斯拉
-    zh-sg: 彼得·斯拉
-    zh-tw: 彼得·謝勒
+    zh_sg: 彼得·斯拉
+    zh_tw: 彼得·謝勒
     zu: Peter Sellers
 ---
 # [[Sellers,Peter]] 

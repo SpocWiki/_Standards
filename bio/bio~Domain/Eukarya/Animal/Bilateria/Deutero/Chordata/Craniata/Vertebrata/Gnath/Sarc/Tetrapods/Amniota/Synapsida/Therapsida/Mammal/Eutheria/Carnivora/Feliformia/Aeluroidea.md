@@ -43,7 +43,7 @@ dv_has_:
     oc: Aeluroidea
     pl: Aeluroidea
     pt: Aeluroidea
-    pt-br: Aeluroidea
+    pt_br: Aeluroidea
     ro: Aeluroidea
     ru: Aeluroidea
     sl: Aeluroidea

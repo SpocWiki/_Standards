@@ -138,7 +138,7 @@ dv_has_:
     az: bronxit
     azb: برونخیت
     be: бранхіт
-    be-tarask: бранхіт
+    be_tarask: бранхіт
     bg: Бронхит
     bn: ব্রংকাইটিস
     bo: གློའི་སྦུག་གཉན་ཚད་
@@ -178,11 +178,11 @@ dv_has_:
     jv: bronkitis
     kab: Azya
     kk: Бронхит
-    kk-arab: برونحىيت
+    kk_arab: برونحىيت
     kk-cn: برونحىيت
-    kk-cyrl: Бронхит
+    kk_cyrl: Бронхит
     kk-kz: Бронхит
-    kk-latn: Bronxït
+    kk_latn: Bronxït
     kk-tr: Bronxït
     km: រោគហើមសួត
     kn: ಬ್ರಾಂಕೈಟಿಸ್
@@ -210,8 +210,8 @@ dv_has_:
     sl: bronhitis
     sq: bronkiti
     sr: бронхитис
-    sr-ec: бронхитис
-    sr-el: bronhitis
+    sr_ec: бронхитис
+    sr_el: bronhitis
     su: Bronkitis
     sv: bronkit
     ta: மூச்சுக்குழல் அழற்சி
@@ -230,12 +230,12 @@ dv_has_:
     yi: בראנקייטיס
     yue: 支氣管炎
     zh: 支气管炎
-    zh-cn: 支气管炎
-    zh-hans: 支气管炎
-    zh-hant: 支氣管炎
-    zh-hk: 支氣管炎
-    zh-sg: 支气管炎
-    zh-tw: 支氣管炎
+    zh_cn: 支气管炎
+    zh_hans: 支气管炎
+    zh_hant: 支氣管炎
+    zh_hk: 支氣管炎
+    zh_sg: 支气管炎
+    zh_tw: 支氣管炎
 ---
 # [[Bronchitis]] 
 

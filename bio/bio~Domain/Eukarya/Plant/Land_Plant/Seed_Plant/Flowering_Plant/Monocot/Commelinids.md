@@ -5,7 +5,7 @@ dv_has_:
     ar: كوملينيدة
     ast: commelinids
     az: Kommelinidlər
-    be-tarask: Камэлініды
+    be_tarask: Камэлініды
     bg: commelinids
     ca: Commelínides
     ceb: commelinids

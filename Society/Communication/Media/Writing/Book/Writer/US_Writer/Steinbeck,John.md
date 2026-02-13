@@ -153,7 +153,7 @@ dv_has_:
     az: Con Steynbek
     azb: جان ایستئین بئک
     be: Джон Стэйнбек
-    be-tarask: Джон Стэйнбэк
+    be_tarask: Джон Стэйнбэк
     bg: Джон Стайнбек
     bn: জন স্টাইনবেক
     br: John Steinbeck
@@ -228,7 +228,7 @@ dv_has_:
     pnb: جان سٹائنبک
     ps: جان شټاینبېک
     pt: John Steinbeck
-    pt-br: John Steinbeck
+    pt_br: John Steinbeck
     ro: John Steinbeck
     ru: Джон Стейнбек
     sh: John Steinbeck
@@ -237,7 +237,7 @@ dv_has_:
     smn: John Steinbeck
     sq: John Steinbeck
     sr: Џон Стајнбек
-    sr-ec: Џон Стајнбек
+    sr_ec: Џон Стајнбек
     sv: John Steinbeck
     sw: John Steinbeck
     ta: ஜான் ஸ்டைன்பேக்
@@ -258,8 +258,8 @@ dv_has_:
     yo: John Steinbeck
     yue: 史坦貝克
     zh: 約翰·史坦貝克
-    zh-cn: 约翰·斯坦贝克
-    zh-hans: 约翰·斯坦贝克
+    zh_cn: 约翰·斯坦贝克
+    zh_hans: 约翰·斯坦贝克
 ---
 # [[Steinbeck,John]] 
 

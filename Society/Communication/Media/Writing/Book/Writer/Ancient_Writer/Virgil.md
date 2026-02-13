@@ -175,7 +175,7 @@ dv_has_:
     ba: Вергилий
     bar: Vergil
     be: Публій Вергілій Марон
-    be-tarask: Вэргіліюс
+    be_tarask: Вэргіліюс
     bg: Вергилий
     bho: वर्जिल
     bi: Virgil
@@ -195,13 +195,13 @@ dv_has_:
     cy: Fyrsil
     da: Publius Vergilius Maro
     de: Vergil
-    de-ch: Vergil
+    de_ch: Vergil
     diq: Vergilius
     el: Βιργίλιος
     eml: Virgilio
     en: Virgil
-    en-ca: Virgil
-    en-gb: Virgil
+    en_ca: Virgil
+    en_gb: Virgil
     eo: Vergilio
     es: Virgilio
     et: Vergilius
@@ -293,7 +293,7 @@ dv_has_:
     pms: Virgili
     pnb: ورجل
     pt: Virgílio
-    pt-br: Virgílio
+    pt_br: Virgílio
     ro: Publius Vergilius Maro
     roa-tara: Publio Virgilio Marone
     ru: Вергилий

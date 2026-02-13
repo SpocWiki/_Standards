@@ -124,7 +124,7 @@ dv_has_:
     azb: اینسان ائوریمی
     bar: Vuagschicht
     be: Антрапагенез
-    be-tarask: антрапагенэз
+    be_tarask: антрапагенэз
     bg: Еволюция на човека
     bn: মানব বিবর্তন
     bs: Ljudska evolucija
@@ -158,11 +158,11 @@ dv_has_:
     it: evoluzione umana
     ja: 人類の進化
     kk: Антропогенез
-    kk-arab: انتروپوگەنەز
+    kk_arab: انتروپوگەنەز
     kk-cn: انتروپوگەنەز
-    kk-cyrl: Антропогенез
+    kk_cyrl: Антропогенез
     kk-kz: Антропогенез
-    kk-latn: Antropogenez
+    kk_latn: Antropogenez
     kk-tr: Antropogenez
     km: ការវិត្តន៏របស់មនុស្សលោក
     kn: ಮಾನವನ ವಿಕಾಸ
@@ -198,8 +198,8 @@ dv_has_:
     sk: Antropogenéza
     sl: evolucija človeka
     sr: еволуција човека
-    sr-ec: Еволуција човека
-    sr-el: Evolucija čoveka
+    sr_ec: Еволуција човека
+    sr_el: Evolucija čoveka
     su: Évolusi manusa
     sv: människans utveckling
     ta: மனிதக் கூர்ப்பு
@@ -221,12 +221,12 @@ dv_has_:
     wuu: 人类演化
     yue: 人類演化
     zh: 人類演化
-    zh-cn: 人类演化
-    zh-hans: 人类演化
-    zh-hant: 人類演化
-    zh-hk: 人類演化
-    zh-sg: 人类演化
-    zh-tw: 人類演化
+    zh_cn: 人类演化
+    zh_hans: 人类演化
+    zh_hant: 人類演化
+    zh_hk: 人類演化
+    zh_sg: 人类演化
+    zh_tw: 人類演化
 ---
 # [[Human_Evolution]] 
 

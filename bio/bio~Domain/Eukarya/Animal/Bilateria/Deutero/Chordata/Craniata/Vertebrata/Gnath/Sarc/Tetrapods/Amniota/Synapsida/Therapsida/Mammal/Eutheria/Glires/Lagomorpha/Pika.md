@@ -75,7 +75,7 @@ dv_has_:
     ast: Ochotona
     avk: Kuzol (Ochotona)
     ba: бесәнсе ҡомаҡ
-    be-tarask: пішчуха
+    be_tarask: пішчуха
     bg: сеносъбирачи
     bo: ཨ་བྲ་ཡང་ན་ཨབ་ར།
     br: Pika
@@ -86,8 +86,8 @@ dv_has_:
     da: Pibeharer
     de: Pfeifhasen
     en: Ochotona
-    en-ca: Pika
-    en-gb: Pika
+    en_ca: Pika
+    en_gb: Pika
     eo: Ochotona
     es: Ochotona
     et: Pika
@@ -112,11 +112,11 @@ dv_has_:
     ka: მებულულე
     kab: Pika
     kk: Шақылдақтар
-    kk-arab: شاقىلداقتار
+    kk_arab: شاقىلداقتار
     kk-cn: شاقىلداقتار
-    kk-cyrl: Шақылдақтар
+    kk_cyrl: Шақылдақтар
     kk-kz: Шақылдақтар
-    kk-latn: Şaqıldaqtar
+    kk_latn: Şaqıldaqtar
     kk-tr: Şaqıldaqtar
     ko: 우는토끼
     la: Ochotona
@@ -133,7 +133,7 @@ dv_has_:
     pl: szczekuszka
     pnb: پائیکا
     pt: Ochotona
-    pt-br: Ochotona
+    pt_br: Ochotona
     ro: Ochotona
     ru: пищухи
     sah: Чыс кутуйахтыҥылар кэргэннэрэ
@@ -155,12 +155,12 @@ dv_has_:
     war: Ochotona
     yue: 鼠兔科
     zh: 鼠兔属
-    zh-cn: 鼠兔属
-    zh-hans: 鼠兔属
-    zh-hant: 鼠兔
-    zh-hk: 鼠兔
-    zh-sg: 鼠兔
-    zh-tw: 啼兔屬
+    zh_cn: 鼠兔属
+    zh_hans: 鼠兔属
+    zh_hant: 鼠兔
+    zh_hk: 鼠兔
+    zh_sg: 鼠兔
+    zh_tw: 啼兔屬
 ---
 # [[Pika]] 
 

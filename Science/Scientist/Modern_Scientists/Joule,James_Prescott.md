@@ -126,7 +126,7 @@ dv_has_:
     azb: جیمز ژول
     ba: Джеймс Прескотт Джоуль
     be: Джэймс Прэскат Джоўль
-    be-tarask: Джэймз Прэскат Джоўль
+    be_tarask: Джэймз Прэскат Джоўль
     bg: Джеймс Джаул
     bn: জেমস প্রেসকট জুল
     br: James Prescott Joule
@@ -144,8 +144,8 @@ dv_has_:
     diq: James Prescott Joule
     el: Τζέιμς Πρέσκοτ Τζάουλ
     en: James Prescott Joule
-    en-ca: James Prescott Joule
-    en-gb: James Prescott Joule
+    en_ca: James Prescott Joule
+    en_gb: James Prescott Joule
     en-us: জেমছ প্ৰেস্কট জুল
     eo: James Prescott Joule
     es: James Prescott Joule
@@ -210,7 +210,7 @@ dv_has_:
     pms: James Prescott Joule
     pnb: جیمز پریسکاٹ جاؤل
     pt: James Prescott Joule
-    pt-br: James Prescott Joule
+    pt_br: James Prescott Joule
     qu: James Prescott Joule
     ro: James Prescott Joule
     ru: Джеймс Джоуль
@@ -223,7 +223,7 @@ dv_has_:
     sl: James Prescott Joule
     sq: James_Prescott_Joule
     sr: Џејмс Џул
-    sr-ec: Џејмс Џул
+    sr_ec: Џејмс Џул
     sv: James Prescott Joule
     sw: James Prescott Joule
     ta: ஜேம்ஸ் பிரிஸ்காட் ஜூல்

@@ -129,7 +129,7 @@ dv_has_:
     az: cərrahiyyə
     azb: جراحلیق
     be: хірургія
-    be-tarask: хірургія
+    be_tarask: хірургія
     bew: Bedèl
     bg: Хирургия
     bho: आपरेसन
@@ -146,8 +146,8 @@ dv_has_:
     dty: शल्यचिकित्सा
     el: χειρουργική
     en: surgery
-    en-ca: Surgery
-    en-gb: surgery
+    en_ca: Surgery
+    en_gb: surgery
     eo: kirurgio
     es: cirugía
     et: kirurgia
@@ -210,7 +210,7 @@ dv_has_:
     pl: chirurgia
     ps: جراحي
     pt: cirurgia
-    pt-br: Cirurgia
+    pt_br: Cirurgia
     qu: Runa kuchuy
     ro: chirurgie
     ru: хирургия

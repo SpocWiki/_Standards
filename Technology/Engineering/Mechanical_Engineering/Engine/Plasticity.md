@@ -65,7 +65,7 @@ dv_has_:
     ar: لدونة
     az: Plastiklik (fizika)
     be: пластычная дэфармацыя
-    be-tarask: плястычная дэфармацыя
+    be_tarask: плястычная дэфармацыя
     bg: Пластична деформация
     bn: অস্থিতিস্থাপকতা (নমনীয় পদার্থ)
     bs: Plastičnost
@@ -93,11 +93,11 @@ dv_has_:
     ja: 塑性
     ka: პლასტიკურობა
     kk: Илемділік
-    kk-arab: ىيلەمدىلىك
+    kk_arab: ىيلەمدىلىك
     kk-cn: ىيلەمدىلىك
-    kk-cyrl: Илемділік
+    kk_cyrl: Илемділік
     kk-kz: Илемділік
-    kk-latn: Ïlemdilik
+    kk_latn: Ïlemdilik
     kk-tr: Ïlemdilik
     ko: 소성
     la: plasticitas
@@ -121,12 +121,12 @@ dv_has_:
     uz: Plastiklik
     vi: Biến dạng dẻo
     zh: 塑性變形
-    zh-cn: 塑性变形
-    zh-hans: 塑性变形
-    zh-hant: 塑性變形
-    zh-hk: 塑性變形
-    zh-sg: 塑性变形
-    zh-tw: 塑性變形
+    zh_cn: 塑性变形
+    zh_hans: 塑性变形
+    zh_hant: 塑性變形
+    zh_hk: 塑性變形
+    zh_sg: 塑性变形
+    zh_tw: 塑性變形
     zu: Ubucwazi
 ---
 # [[Plasticity]] 

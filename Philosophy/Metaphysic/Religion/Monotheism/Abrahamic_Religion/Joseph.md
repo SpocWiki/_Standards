@@ -191,7 +191,7 @@ dv_has_:
     azb: یوسف گوندریلمیش
     ba: Йософ (Библия персонажы)
     be: Іосіф, сын Якава
-    be-tarask: Язэп
+    be_tarask: Язэп
     bg: Йосиф
     bn: যোষেফ
     br: Jozeb, mab Jakob
@@ -232,17 +232,17 @@ dv_has_:
     ka: იოსები
     kbd: Иосиф
     kk: Жүсіп
-    kk-arab: ٴجۇسىپ
+    kk_arab: ٴجۇسىپ
     kk-cn: ٴجۇسىپ
-    kk-cyrl: Жүсіп
+    kk_cyrl: Жүсіп
     kk-kz: Жүсіп
-    kk-latn: Jüsip
+    kk_latn: Jüsip
     kk-tr: Jüsip
     ko: 요셉
     ks: حضرت یوٗسُف
     ku: Yûsif
-    ku-arab: یووسف
-    ku-latn: Yûsif
+    ku_arab: یووسف
+    ku_latn: Yûsif
     la: Iosephus
     lbe: Юсуп идавс
     lo: ໂຢເຊັບ
@@ -273,8 +273,8 @@ dv_has_:
     so: Nabi Yuusuf
     sq: Jusufi
     sr: Пророк Јосиф
-    sr-ec: Пророк Јосиф
-    sr-el: Prorok Josif
+    sr_ec: Пророк Јосиф
+    sr_el: Prorok Josif
     sv: Josef
     sw: Yosefu
     ta: யோசேப்பு
@@ -294,12 +294,12 @@ dv_has_:
     yi: יוסף
     yue: 若瑟 (創世紀)
     zh: 約瑟
-    zh-cn: 约瑟
-    zh-hans: 约瑟
-    zh-hant: 約瑟
-    zh-hk: 約瑟
-    zh-sg: 约瑟
-    zh-tw: 約瑟
+    zh_cn: 约瑟
+    zh_hans: 约瑟
+    zh_hant: 約瑟
+    zh_hk: 約瑟
+    zh_sg: 约瑟
+    zh_tw: 約瑟
 ---
 # [[Joseph]] 
 

@@ -90,7 +90,7 @@ dv_has_:
     az: Kimyəvi silah
     ba: химик ҡорал
     be: Хімічная зброя
-    be-tarask: хімічная зброя
+    be_tarask: хімічная зброя
     bg: Химическо оръжие
     br: Arm kimiek
     ca: arma química
@@ -101,7 +101,7 @@ dv_has_:
     de: chemische Waffe
     el: Χημικά όπλα
     en: chemical weapon
-    en-ca: Chemical weapon
+    en_ca: Chemical weapon
     eo: ĥemia armilo
     es: arma química
     et: keemiarelv
@@ -163,8 +163,8 @@ dv_has_:
     wuu: 化学武器
     yue: 化學武器
     zh: 化學武器
-    zh-hant: 化學武器
-    zh-hk: 化學武器
+    zh_hant: 化學武器
+    zh_hk: 化學武器
 ---
 # [[Chemical_Weapon]] 
 

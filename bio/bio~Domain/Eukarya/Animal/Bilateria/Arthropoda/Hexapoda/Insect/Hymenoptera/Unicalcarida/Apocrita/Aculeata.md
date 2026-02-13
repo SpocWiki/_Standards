@@ -19,11 +19,11 @@ dv_has_:
     da: Brodhvepse
     de: Stechimmen
     de-at: Aculeata
-    de-ch: Aculeata
+    de_ch: Aculeata
     el: Aculeata
     en: Aculeata
-    en-ca: Aculeata
-    en-gb: Aculeata
+    en_ca: Aculeata
+    en_gb: Aculeata
     eo: Aculeata
     es: Aculeata
     et: Astlalised
@@ -61,7 +61,7 @@ dv_has_:
     nap: Aculeata
     nb: broddvepser
     nds: Steekimmen
-    nds-nl: Aculeata
+    nds_nl: Aculeata
     nl: Aculeata
     nn: Aculeata
     nrm: Aculeata
@@ -71,7 +71,7 @@ dv_has_:
     pl: żądłówki
     pms: Aculeata
     pt: Aculeata
-    pt-br: Aculeata
+    pt_br: Aculeata
     rm: Aculeata
     ro: Aculeata
     ru: Aculeata
@@ -93,9 +93,9 @@ dv_has_:
     war: Aculeata
     wo: Aculeata
     zh: 針尾下目
-    zh-cn: 针尾下目
-    zh-hans: 针尾下目
-    zh-hant: 針尾下目
+    zh_cn: 针尾下目
+    zh_hans: 针尾下目
+    zh_hant: 針尾下目
     zu: Aculeata
 aliases:
 - Aculeat

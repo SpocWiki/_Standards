@@ -181,7 +181,7 @@ dv_has_:
     bcl: Volleyball
     bdr: Bul tampar
     be: валейбол
-    be-tarask: валейбол
+    be_tarask: валейбол
     bew: Bola tepok
     bg: Волейбол
     bi: Volley ball
@@ -203,7 +203,7 @@ dv_has_:
     dty: भलिबल
     el: πετοσφαίριση
     en: volleyball
-    en-gb: volleyball
+    en_gb: volleyball
     en-us: volleyball
     eo: volejbalo
     es: voleibol
@@ -219,7 +219,7 @@ dv_has_:
     gl: voleibol
     gom: व्हॉलीबॉल
     gom-deva: व्हॉलीबॉल
-    gom-latn: Volleyball
+    gom_latn: Volleyball
     gv: Bluckan etloge
     he: כדורעף
     hi: वालीबॉल
@@ -258,14 +258,14 @@ dv_has_:
     mn: Волейбол
     mr: व्हॉलीबॉल
     ms: bola tampar
-    ms-arab: بولا تمڤر
+    ms_arab: بولا تمڤر
     my: ဘော်လီဘော
     mzn: والیبال
     nah: Pallavollo
     nan: Vol-ey
     nb: volleyball
     nds: Volleyball
-    nds-nl: Volleybal
+    nds_nl: Volleybal
     ne: भलिबल
     nl: volleybal
     nn: volleyball
@@ -279,7 +279,7 @@ dv_has_:
     pnb: والیبال
     ps: واليبال
     pt: voleibol
-    pt-br: voleibol
+    pt_br: voleibol
     qu: Makiyasiy
     rm: Ballarait
     ro: volei
@@ -303,8 +303,8 @@ dv_has_:
     sms: ǩiʹrddipäll
     sq: Volejboll
     sr: одбојка
-    sr-ec: одбојка
-    sr-el: odbojka
+    sr_ec: одбојка
+    sr_el: odbojka
     ss: Volleyball
     su: Bola Voli
     sv: volleyboll
@@ -334,11 +334,11 @@ dv_has_:
     yue: 排球
     za: Baizgiuz
     zh: 排球
-    zh-cn: 排球
-    zh-hans: 排球
-    zh-hant: 排球
-    zh-hk: 排球
-    zh-tw: 排球
+    zh_cn: 排球
+    zh_hans: 排球
+    zh_hant: 排球
+    zh_hk: 排球
+    zh_tw: 排球
 ---
 # [[Volleyball]] 🏐 
 

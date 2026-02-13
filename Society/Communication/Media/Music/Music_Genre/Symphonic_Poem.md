@@ -71,7 +71,7 @@ dv_has_:
     az: simfonik şeir
     ba: симфоник поэма
     be: сімфанічная паэма
-    be-tarask: сымфанічная паэма
+    be_tarask: сымфанічная паэма
     bg: симфонична поема
     ca: poema simfònic
     cs: symfonická báseň
@@ -115,12 +115,12 @@ dv_has_:
     vi: giao hưởng thơ
     yue: 交響詩
     zh: 交响诗
-    zh-cn: 交响诗
-    zh-hans: 交响诗
-    zh-hant: 交響詩
-    zh-hk: 交響詩
-    zh-sg: 交响诗
-    zh-tw: 交響詩
+    zh_cn: 交响诗
+    zh_hans: 交响诗
+    zh_hant: 交響詩
+    zh_hk: 交響詩
+    zh_sg: 交响诗
+    zh_tw: 交響詩
 ---
 # [[Symphonic_Poem]] 
 

@@ -84,7 +84,7 @@ dv_has_:
     az: pank rok
     bar: Punk
     be: панк-рок
-    be-tarask: панк-рок
+    be_tarask: панк-рок
     bg: пънк рок
     bn: পাংক রক
     br: Punk rock
@@ -99,8 +99,8 @@ dv_has_:
     de: Punk
     el: πανκ
     en: punk rock
-    en-ca: Punk rock
-    en-gb: punk rock
+    en_ca: Punk rock
+    en_gb: punk rock
     eo: Punko
     es: punk
     et: punk rock
@@ -127,7 +127,7 @@ dv_has_:
     ka: პანკ როკი
     ko: 펑크 록
     ku: punk rock
-    ku-latn: punk rock
+    ku_latn: punk rock
     la: musica punkiana
     lb: Punk Rock
     li: Punk
@@ -146,7 +146,7 @@ dv_has_:
     oc: Punk rock
     pl: punk rock
     pt: punk rock
-    pt-br: Punk rock
+    pt_br: Punk rock
     ro: punk rock
     ru: панк-рок
     sah: Punk rock
@@ -176,9 +176,9 @@ dv_has_:
     wuu: 朋克摇滚
     yue: Punk搖滾
     zh: 朋克搖滾
-    zh-hans: 朋克摇滚
-    zh-hant: 搖滾朋克
-    zh-tw: 龐克搖滾
+    zh_hans: 朋克摇滚
+    zh_hant: 搖滾朋克
+    zh_tw: 龐克搖滾
 ---
 # [[Punk_Rock]] 
 

@@ -115,7 +115,7 @@ dv_has_:
     ar: دورة الكربون
     ast: Ciclu del carbonu
     az: Karbon dövranı
-    be-tarask: вугляродны цыкль
+    be_tarask: вугляродны цыкль
     bg: Кръговрат на въглерода
     bn: কার্বন চক্র
     bs: Ciklus ugljika
@@ -126,8 +126,8 @@ dv_has_:
     de: Kohlenstoffzyklus
     el: Κύκλος του άνθρακα
     en: carbon cycle
-    en-ca: Carbon cycle
-    en-gb: carbon cycle
+    en_ca: Carbon cycle
+    en_gb: carbon cycle
     eo: karbono-ciklo
     es: Ciclo del carbono
     et: Süsinikuringe
@@ -167,7 +167,7 @@ dv_has_:
     pl: obieg węgla w przyrodzie
     ps: د کاربن دوران
     pt: ciclo do carbono
-    pt-br: Ciclo do carbono
+    pt_br: Ciclo do carbono
     rki: ကာဗွန်စက်ဝန်း
     ro: Circuitul carbonului în natură
     ru: геохимический цикл углерода
@@ -187,12 +187,12 @@ dv_has_:
     wuu: 碳循环
     yue: 碳循環
     zh: 碳循環
-    zh-cn: 碳循环
-    zh-hans: 碳循环
-    zh-hant: 碳循環
-    zh-hk: 碳循環
-    zh-sg: 碳循环
-    zh-tw: 碳循環
+    zh_cn: 碳循环
+    zh_hans: 碳循环
+    zh_hant: 碳循環
+    zh_hk: 碳循環
+    zh_sg: 碳循环
+    zh_tw: 碳循環
 ---
 # [[Carbon_Cycle]] 
 

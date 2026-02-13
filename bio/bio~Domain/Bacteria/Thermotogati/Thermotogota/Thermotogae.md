@@ -34,7 +34,7 @@ dv_has_:
     oc: Thermotogae
     pl: Thermotogae
     pt: Thermotogae
-    pt-br: Thermotogae
+    pt_br: Thermotogae
     ro: Thermotogae
     ru: термотоги
     sq: Thermotogae

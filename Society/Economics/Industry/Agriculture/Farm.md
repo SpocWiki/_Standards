@@ -147,26 +147,26 @@ dv_has_:
     ba: ферма
     bar: Bauanhof
     bcl: uma
-    be-tarask: фэрма
+    be_tarask: фэрма
     bg: ферма
     bn: খামার
     br: atant
     ca: granja
     ckb: کێڵگە
     crh: çiftlik
-    crh-latn: çiftlik
+    crh_latn: çiftlik
     cs: statek
     cy: fferm
     da: gård
     dag: puu
     de: Bauernhof
     de-at: Bauernhof
-    de-ch: Bauernhof
+    de_ch: Bauernhof
     ee: agbele
     el: αγρόκτημα
     en: farm
-    en-ca: farm
-    en-gb: farm
+    en_ca: farm
+    en_gb: farm
     eo: bieno
     es: granja
     et: talu
@@ -212,7 +212,7 @@ dv_has_:
     ms: ladang
     nan: lông-tiûⁿ
     nb: gård
-    nds-nl: boerderieje
+    nds_nl: boerderieje
     ne: खेत
     nl: boerderij
     nn: gard
@@ -225,7 +225,7 @@ dv_has_:
     pnb: کھیت
     ps: کرونده
     pt: quinta
-    pt-br: fazenda
+    pt_br: fazenda
     ro: fermă
     ru: ферма
     sco: ferm
@@ -235,8 +235,8 @@ dv_has_:
     sl: kmetija
     sq: ferma
     sr: фарма
-    sr-ec: фарма
-    sr-el: farma
+    sr_ec: фарма
+    sr_el: farma
     sv: gård
     sw: shamba
     syl: ꠚꠣꠞꠧꠝ
@@ -256,12 +256,12 @@ dv_has_:
     yo: oko
     yue: 農場
     zh: 农场
-    zh-cn: 农场
-    zh-hans: 农场
-    zh-hant: 農場
-    zh-hk: 農場
-    zh-sg: 农场
-    zh-tw: 農場
+    zh_cn: 农场
+    zh_hans: 农场
+    zh_hant: 農場
+    zh_hk: 農場
+    zh_sg: 农场
+    zh_tw: 農場
 ---
 # [[Farm]] 
 

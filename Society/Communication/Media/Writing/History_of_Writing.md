@@ -61,7 +61,7 @@ dv_has_:
     av: хъвавул история
     bar: De Entstehung vo da Schrift
     be: Гісторыя пісьменства
-    be-tarask: гісторыя пісьменства
+    be_tarask: гісторыя пісьменства
     bn: লেখার ইতিহাস
     ca: història de l'escriptura
     ceb: Kasaysayan sa pagsulat
@@ -106,9 +106,9 @@ dv_has_:
     uk: історія писемності
     vi: lịch sử chữ viết
     zh: 文字史
-    zh-hans: 文字史
-    zh-hant: 文字史
-    zh-hk: 文字史
+    zh_hans: 文字史
+    zh_hant: 文字史
+    zh_hk: 文字史
 ---
 # [[History_of_Writing]] 
 

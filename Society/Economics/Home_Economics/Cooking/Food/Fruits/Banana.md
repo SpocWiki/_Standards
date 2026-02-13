@@ -227,7 +227,7 @@ dv_has_:
   name_:
     ab: абанан
     ace: pisang
-    aeb-arab: بنانة
+    aeb_arab: بنانة
     af: piesang
     ak: kwadu
     am: ሙዝ
@@ -252,7 +252,7 @@ dv_has_:
     bbc: gaol
     bcl: batag
     be: банан
-    be-tarask: банан
+    be_tarask: банан
     bg: банан
     bho: केला
     bi: banana
@@ -279,7 +279,7 @@ dv_has_:
     da: banan
     dag: kɔdu
     de: Banane
-    de-ch: Bananen
+    de_ch: Bananen
     dga: kodu
     diq: mûz
     dtp: punti
@@ -289,8 +289,8 @@ dv_has_:
     el: μπανάνα
     eml: Banàna
     en: banana
-    en-ca: banana
-    en-gb: banana
+    en_ca: banana
+    en_gb: banana
     en-us: banana
     eo: banano
     es: plátano
@@ -358,7 +358,7 @@ dv_has_:
     lv: banāni
     mad: gheḍḍhâng
     mai: केरा
-    map-bms: gedhang
+    map_bms: gedhang
     mg: akondro
     mhr: банан
     mi: maika
@@ -371,7 +371,7 @@ dv_has_:
     mr: केळ
     mrj: банан
     ms: pisang
-    ms-arab: ڤيسڠ
+    ms_arab: ڤيسڠ
     mt: banana
     mwl: banana
     my: ငှက်ပျော
@@ -403,7 +403,7 @@ dv_has_:
     pnb: کیلا
     ps: كيله
     pt: banana
-    pt-br: banana
+    pt_br: banana
     pwn: veljevelj
     qu: puquchi
     rn: umuhwi
@@ -455,7 +455,7 @@ dv_has_:
     tpi: banana
     tr: muz
     tt: банан
-    tt-cyrl: банан
+    tt_cyrl: банан
     tum: ntochi
     ty: te meià
     udm: банан
@@ -476,13 +476,13 @@ dv_has_:
     za: gyoijhom
     zh: 香蕉
     zh-cn: 蕉
-    zh-hans: 蕉
-    zh-hant: 蕉
-    zh-hk: 蕉
-    zh-mo: 蕉
+    zh_hans: 蕉
+    zh_hant: 蕉
+    zh_hk: 蕉
+    zh_mo: 蕉
     zh-my: 蕉
-    zh-sg: 蕉
-    zh-tw: 蕉
+    zh_sg: 蕉
+    zh_tw: 蕉
     zu: ubhanana
 ---
 # [[Banana]] 🍌 

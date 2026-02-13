@@ -91,7 +91,7 @@ dv_has_:
     az: nisbət
     ban: Pangéntukan
     bcl: Rasyo
-    be-tarask: адносіны
+    be_tarask: адносіны
     bg: Съотношение
     bho: अनुपात
     bn: অনুপাত
@@ -131,7 +131,7 @@ dv_has_:
     ml: അംശബന്ധം
     mr: गुणोत्तर
     ms: nisbah
-    ms-arab: نيسبه
+    ms_arab: نيسبه
     nb: forhold
     new: अनुपात
     nl: verhouding
@@ -139,7 +139,7 @@ dv_has_:
     om: Hirrita
     pl: stosunek
     pt: razão
-    pt-br: razão
+    pt_br: razão
     ro: raport matematic
     ru: соотношение величин
     sk: Pomer (matematika)
@@ -158,7 +158,7 @@ dv_has_:
     vi: tỷ lệ
     war: Rasyo
     zh: 率
-    zh-hant: 比率
+    zh_hant: 比率
 ---
 # [[Dim~Ratio]] 
 

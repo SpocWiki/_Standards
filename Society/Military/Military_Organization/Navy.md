@@ -129,7 +129,7 @@ dv_has_:
     ast: Armada
     az: hərbi dəniz qüvvələri
     be: ваенна-марскія сілы
-    be-tarask: вайскова-марскія сілы
+    be_tarask: вайскова-марскія сілы
     bew: Soldadu merin
     bg: военноморски сили
     bn: নৌবাহিনী
@@ -142,11 +142,11 @@ dv_has_:
     cy: llynges
     da: marine
     de: Seestreitkräfte
-    de-ch: Marine
+    de_ch: Marine
     el: Πολεμικό ναυτικό
     en: navy
-    en-ca: Navy
-    en-gb: navy
+    en_ca: Navy
+    en_gb: navy
     eo: mararmeo
     es: armada
     et: Merevägi
@@ -199,7 +199,7 @@ dv_has_:
     pl: marynarka wojenna
     pnb: سمندری فوج
     pt: marinha de guerra
-    pt-br: marinha
+    pt_br: marinha
     ro: marina militară
     ru: военно-морской флот
     sco: Navy
@@ -211,8 +211,8 @@ dv_has_:
     so: Ciidanka Badda
     sq: Forca detare
     sr: ратна морнарица
-    sr-ec: ратна морнарица
-    sr-el: ratna mornarica
+    sr_ec: ратна морнарица
+    sr_el: ratna mornarica
     su: Angkatan Laut
     sv: örlogsflotta
     sw: Jeshi la majini
@@ -233,11 +233,11 @@ dv_has_:
     yi: פלאט
     yue: 海軍
     zh: 海军
-    zh-cn: 海军
-    zh-hans: 海军
-    zh-hant: 海軍
-    zh-hk: 海軍
-    zh-tw: 海軍
+    zh_cn: 海军
+    zh_hans: 海军
+    zh_hant: 海軍
+    zh_hk: 海軍
+    zh_tw: 海軍
 ---
 # [[Navy]] 
 

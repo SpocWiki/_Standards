@@ -110,7 +110,7 @@ dv_has_:
     ast: Electrolitu
     az: Elektrolitlər
     be: электраліт
-    be-tarask: электраліт
+    be_tarask: электраліт
     bg: Електролит
     bn: তড়িৎবিশ্লেষ্য
     bs: Elektrolit
@@ -147,11 +147,11 @@ dv_has_:
     ja: 電解質
     ka: ელექტროლიტი
     kk: Электролит
-    kk-arab: ەلەكترولىيت
+    kk_arab: ەلەكترولىيت
     kk-cn: ەلەكترولىيت
-    kk-cyrl: Электролит
+    kk_cyrl: Электролит
     kk-kz: Электролит
-    kk-latn: Élektrolït
+    kk_latn: Élektrolït
     kk-tr: Élektrolït
     ko: 전해질
     lt: elektrolitas
@@ -182,8 +182,8 @@ dv_has_:
     sms: elektrolytt
     sq: elektrolite
     sr: електролит
-    sr-ec: Електролит
-    sr-el: Elektrolit
+    sr_ec: Електролит
+    sr_el: Elektrolit
     sv: elektrolyt
     sw: Elektrolaiti
     ta: மின்பகுபொருள்
@@ -191,7 +191,7 @@ dv_has_:
     th: อิเล็กโทรไลต์
     tr: Elektrolit
     tt: электролит
-    tt-cyrl: электролит
+    tt_cyrl: электролит
     udm: электролит
     uk: електроліти
     ur: برق پاشیدہ
@@ -200,12 +200,12 @@ dv_has_:
     wuu: 电解质
     yue: 電解質
     zh: 电解质
-    zh-cn: 电解质
-    zh-hans: 电解质
-    zh-hant: 電解質
-    zh-hk: 電解質
-    zh-sg: 电解质
-    zh-tw: 電解質
+    zh_cn: 电解质
+    zh_hans: 电解质
+    zh_hant: 電解質
+    zh_hk: 電解質
+    zh_sg: 电解质
+    zh_tw: 電解質
 ---
 # [[Electrolyte]] 
 

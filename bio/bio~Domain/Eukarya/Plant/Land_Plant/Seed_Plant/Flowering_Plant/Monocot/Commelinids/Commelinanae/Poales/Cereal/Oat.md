@@ -299,7 +299,7 @@ dv_has_:
     bar: Howan
     bcl: Avena sativa
     be: Авёс пасяўны
-    be-tarask: авёс пасяўны
+    be_tarask: авёс пасяўны
     bg: обикновен овес
     bn: জই
     bo: ཡུག་པོ།
@@ -319,7 +319,7 @@ dv_has_:
     dsb: Rolny wows
     el: βρώμη
     en: Avena sativa
-    en-gb: oats
+    en_gb: oats
     en-us: Avena sativa
     eo: Ordinara aveno
     es: Avena sativa
@@ -394,7 +394,7 @@ dv_has_:
     pnb: اوٹ
     ps: اوټ(جودر)
     pt: Aveia-comum
-    pt-br: Avena sativa
+    pt_br: Avena sativa
     qu: Tarpuy awina
     ro: Ovăz
     ru: Овёс посевной
@@ -433,8 +433,8 @@ dv_has_:
     yi: האבער
     yue: 燕麥
     zh: 燕麦
-    zh-cn: 燕麦
-    zh-tw: 燕麥
+    zh_cn: 燕麦
+    zh_tw: 燕麥
 ---
 ## #has_/text_of_/abstract 
 

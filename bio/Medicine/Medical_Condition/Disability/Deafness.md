@@ -177,7 +177,7 @@ U_S_National_Archives_Identifier: 10640037
 WordLift_URL: http://data.medicalrecords.com/medicalrecords/healthwise/hearing_loss
 dv_has_:
   name_:
-    aeb-arab: طرش
+    aeb_arab: طرش
     af: doofheid
     am: ድንቁርና
     an: xordera
@@ -190,7 +190,7 @@ dv_has_:
     azb: ائشیتمزلیک
     ba: ишетеү һәләтенең боҙолоуы
     be: парушэнне слыху
-    be-tarask: глухата
+    be_tarask: глухата
     bg: увреждане на слуха
     bn: বধিরতা
     bo: འོན་པ
@@ -281,7 +281,7 @@ dv_has_:
     pnb: ڈورا ہونا
     ps: بہرا پن
     pt: surdez
-    pt-br: surdez
+    pt_br: surdez
     qu: ruqt'u kay
     ro: surzenie
     ru: нарушение слуха
@@ -299,7 +299,7 @@ dv_has_:
     so: dhagool
     sq: shurdhëria
     sr: глувоћа
-    sr-ec: глувоћа
+    sr_ec: глувоћа
     sv: dövhet
     sw: uziwi
     szy: tulek
@@ -309,7 +309,7 @@ dv_has_:
     tl: pagkabingi
     tr: sağırlık
     tt: ишетү сәләте бозылуы
-    tt-cyrl: ишетү сәләте бозылуы
+    tt_cyrl: ишетү сәләте бозылуы
     tw: asosie
     udm: пельтэм луон
     uk: вади слуху
@@ -325,8 +325,8 @@ dv_has_:
     yue: 聾
     za: rwznuk
     zh: 聾
-    zh-hans: 聋
-    zh-hant: 聾
+    zh_hans: 聋
+    zh_hant: 聾
     zu: abayizithulu
 ---
 # [[Deafness]] 🧏 

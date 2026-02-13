@@ -79,7 +79,7 @@ dv_has_:
     af: Metaal
     ar: معدنية
     ast: Metalicidá
-    be-tarask: мэталічнасьць
+    be_tarask: мэталічнасьць
     bg: Металичност
     bn: ধাতবতা
     bs: Metalicitet
@@ -132,12 +132,12 @@ dv_has_:
     vi: độ kim loại
     yue: 金屬量
     zh: 金屬量
-    zh-cn: 金属量
-    zh-hans: 金属量
-    zh-hant: 金屬量
-    zh-hk: 金屬量
-    zh-sg: 金属量
-    zh-tw: 金屬量
+    zh_cn: 金属量
+    zh_hans: 金属量
+    zh_hant: 金屬量
+    zh_hk: 金屬量
+    zh_sg: 金属量
+    zh_tw: 金屬量
 ---
 # [[Metallicity]] 
 

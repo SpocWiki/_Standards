@@ -25,18 +25,18 @@ dv_has_:
     arz: ماكس مارتن
     ast: Max Martin
     azb: مکس مارتین
-    be-tarask: Макс Мартын
+    be_tarask: Макс Мартын
     br: Max Martin
     ca: Max Martin
     co: Max Martin
     cs: Max Martin
     da: Max Martin
     de: Max Martin
-    de-ch: Max Martin
+    de_ch: Max Martin
     el: Μαξ Μάρτιν
     en: Max Martin
-    en-ca: Max Martin
-    en-gb: Max Martin
+    en_ca: Max Martin
+    en_gb: Max Martin
     es: Max Martin
     eu: Max Martin
     fa: مکس مارتین
@@ -60,7 +60,7 @@ dv_has_:
     pap: Max Martin
     pl: Max Martin
     pt: Max Martin
-    pt-br: Max Martin
+    pt_br: Max Martin
     ro: Max Martin
     ru: Макс Мартин
     sl: Max Martin
@@ -73,9 +73,9 @@ dv_has_:
     vi: Max Martin
     yue: Max Martin
     zh: 馬克斯·馬丁
-    zh-cn: 马克斯·马丁
-    zh-hans: 麦克斯·马丁
-    zh-hant: 馬克斯·馬汀
+    zh_cn: 马克斯·马丁
+    zh_hans: 麦克斯·马丁
+    zh_hant: 馬克斯·馬汀
 ---
 # [[Martin,Max]]
 

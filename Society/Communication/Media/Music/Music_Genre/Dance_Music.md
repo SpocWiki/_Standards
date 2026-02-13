@@ -98,7 +98,7 @@ dv_has_:
     ast: Dance
     az: rəqs musiqisi
     be: танцавальная музыка
-    be-tarask: танцавальная музыка
+    be_tarask: танцавальная музыка
     bg: Денс
     bs: Dance muzika
     ca: música per ballar
@@ -140,7 +140,7 @@ dv_has_:
     lt: šokių muzika
     lv: deju mūzika
     ms: muzik tarian
-    ms-arab: موزيک تارين
+    ms_arab: موزيک تارين
     mt: mużika dance
     mzn: سماکری موزیک
     nb: dansemusikk
@@ -162,11 +162,11 @@ dv_has_:
     sl: plesna glasba
     sms: pleässjem-musikk
     sr: денс музика
-    sr-ec: денс музика
-    sr-el: dens muzika
+    sr_ec: денс музика
+    sr_el: dens muzika
     sv: dansmusik
     tg: мусиқии рақсӣ
-    tg-latn: musiqiji raqsī
+    tg_latn: musiqiji raqsī
     th: ดนตรีแดนซ์
     tr: dans müziği
     tt: бию музыкасы
@@ -177,12 +177,12 @@ dv_has_:
     vi: nhạc dance
     yue: 舞曲
     zh: 舞曲
-    zh-cn: 舞曲
-    zh-hans: 舞曲
-    zh-hant: 舞曲
-    zh-hk: 舞曲
-    zh-sg: 舞曲
-    zh-tw: 舞曲
+    zh_cn: 舞曲
+    zh_hans: 舞曲
+    zh_hant: 舞曲
+    zh_hk: 舞曲
+    zh_sg: 舞曲
+    zh_tw: 舞曲
 ---
 # [[Dance_Music]] 
 

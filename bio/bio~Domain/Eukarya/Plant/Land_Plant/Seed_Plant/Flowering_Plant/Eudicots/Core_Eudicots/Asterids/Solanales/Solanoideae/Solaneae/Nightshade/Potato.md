@@ -374,8 +374,8 @@ dv_has_:
   name_:
     ab: Акартош
     acm: بتيتة
-    aeb-arab: بطاطة
-    aeb-latn: ba6à6a
+    aeb_arab: بطاطة
+    aeb_latn: ba6à6a
     af: aartappel
     ak: Atomo
     am: ድንች
@@ -397,7 +397,7 @@ dv_has_:
     bar: Eadäpfe
     bcl: Patatas
     be: бульба
-    be-tarask: бульба
+    be_tarask: бульба
     bew: Artapel
     bg: картоф
     bho: आलू
@@ -415,7 +415,7 @@ dv_has_:
     ckb: پەتاتە
     co: pomu
     crh: qartop
-    crh-latn: qartop
+    crh_latn: qartop
     cs: lilek brambor
     csb: bùlwa
     cv: Çĕр улми
@@ -423,14 +423,14 @@ dv_has_:
     da: kartoffelplante
     de: Kartoffel
     de-at: Erdäpfel
-    de-ch: Kartoffel
+    de_ch: Kartoffel
     diq: Kartole
     dsb: Kulka
     el: πατάτα
     eml: Pòmm da térà (Solanum tuberosum)
     en: potato
-    en-ca: potato
-    en-gb: potato
+    en_ca: potato
+    en_gb: potato
     eo: terpomo
     es: Solanum tuberosum
     et: kartul
@@ -509,7 +509,7 @@ dv_has_:
     lv: kartupelis
     mad: Kenthang
     mai: आलु
-    map-bms: Kenthang
+    map_bms: Kenthang
     mdf: Модамарь
     mg: ovy
     mi: rīwai
@@ -534,7 +534,7 @@ dv_has_:
     nap: patana
     nb: potet
     nds: Kantüffel
-    nds-nl: eerpel
+    nds_nl: eerpel
     ne: आलु
     new: आलु
     nl: aardappel
@@ -555,7 +555,7 @@ dv_has_:
     pnt: καρτόφιν
     ps: کچالو
     pt: batata
-    pt-br: batata
+    pt_br: batata
     qu: Papa
     rm: tartuffel
     rmf: phuujengiero
@@ -590,8 +590,8 @@ dv_has_:
     so: Barandho
     sq: patatja
     sr: кромпир
-    sr-ec: кромпир
-    sr-el: krompir
+    sr_ec: кромпир
+    sr_el: krompir
     srn: patata
     ss: li-tábhane
     stq: Tuffelke
@@ -604,14 +604,14 @@ dv_has_:
     te: బంగాళదుంప
     tet: fehuk-ropa
     tg: себзаминӣ
-    tg-latn: sebzaminī
+    tg_latn: sebzaminī
     th: มันฝรั่ง
     tk: kartoşka
     tl: patatas
     to: Pateta
     tr: patates
     tt: бәрәңге
-    tt-cyrl: бәрәңге
+    tt_cyrl: бәрәңге
     tyv: картофель
     udm: картофка
     ug: ياڭيۇ
@@ -634,13 +634,13 @@ dv_has_:
     yo: Ọ̀dùnkún
     yue: 薯仔
     zh: 马铃薯
-    zh-cn: 马铃薯
-    zh-hans: 马铃薯
-    zh-hant: 馬鈴薯
-    zh-hk: 薯仔
+    zh_cn: 马铃薯
+    zh_hans: 马铃薯
+    zh_hant: 馬鈴薯
+    zh_hk: 薯仔
     zh-my: 马铃薯
-    zh-sg: 马铃薯
-    zh-tw: 馬鈴薯
+    zh_sg: 马铃薯
+    zh_tw: 馬鈴薯
     zu: Izambane
 ---
 # [[Potato]] 🥔 

@@ -57,7 +57,7 @@ dv_has_:
     ar: مرتفعات تشيلي
     ast: Dorsal de Chile
     az: Qərbi Çili qalxması
-    be-tarask: Чылійскае падняцьце
+    be_tarask: Чылійскае падняцьце
     ca: dorsal de Xile
     cs: Chilský hřbet
     de: Chile-Rücken
@@ -76,7 +76,7 @@ dv_has_:
     pt: Dorsal do Chile
     ru: Западно-Чилийское поднятие
     sr: Чилеански гребен
-    sr-ec: Чилеански гребен
+    sr_ec: Чилеански гребен
     sw: Mgongo wa bahari wa Chile
     tr: Şili Sırtı
     uk: Чилійська височина

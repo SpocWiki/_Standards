@@ -35,8 +35,8 @@ dv_has_:
     de: Garryales
     el: Γαρρυώδη
     en: Garryales
-    en-ca: Garryales
-    en-gb: Garryales
+    en_ca: Garryales
+    en_gb: Garryales
     eo: Garialoj
     es: Garryales
     eu: Garryales
@@ -64,7 +64,7 @@ dv_has_:
     oc: Garryales
     pl: Garryales
     pt: Garryales
-    pt-br: Garryales
+    pt_br: Garryales
     ro: Garryales
     ru: Гарриецветные
     sl: Garryales
@@ -78,9 +78,9 @@ dv_has_:
     war: Garryales (plantae)
     yue: 絲纓花目
     zh: 丝缨花目
-    zh-cn: 绞木目
-    zh-hans: 绞木目
-    zh-hant: 絞木目
+    zh_cn: 绞木目
+    zh_hans: 绞木目
+    zh_hant: 絞木目
 ---
 # [[Garryales]] 
 

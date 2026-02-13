@@ -289,7 +289,7 @@ dv_has_:
     ba: Фома Аквинлы
     bcl: Thomas Aquinas
     be: Фама Аквінскі
-    be-tarask: Тамаш Аквінскі
+    be_tarask: Тамаш Аквінскі
     bew: Sint-Tomas deri Akuinas
     bg: Тома Аквински
     bho: थॉमस एक्विनस
@@ -311,8 +311,8 @@ dv_has_:
     de: Thomas von Aquin
     el: Θωμάς Ακινάτης
     en: Thomas Aquinas
-    en-ca: Thomas Aquinas
-    en-gb: Thomas Aquinas
+    en_ca: Thomas Aquinas
+    en_gb: Thomas Aquinas
     en-us: Thomas Aquinas
     eo: Tomaso de Akvino
     es: Tomás de Aquino
@@ -374,7 +374,7 @@ dv_has_:
     lv: Akvīnas Toms
     lzh: 阿奎那
     mad: Thomas Aquinas
-    map-bms: Thomas Aquinas
+    map_bms: Thomas Aquinas
     mg: Thomas Aquinas
     min: Thomas Aquinas
     mk: Тома Аквински
@@ -390,7 +390,7 @@ dv_has_:
     nan: Tommaso d'Aquino
     nb: Thomas Aquinas
     nds: Thomas von Aquin
-    nds-nl: Thomas van Aquino
+    nds_nl: Thomas van Aquino
     new: थोमस ईकुइनास
     nl: Thomas van Aquino
     nn: Thomas Aquinas
@@ -407,7 +407,7 @@ dv_has_:
     pnb: تھامس ایکویناس
     ps: ټوماس آکوینس
     pt: Tomás de Aquino
-    pt-br: Tomás de Aquino
+    pt_br: Tomás de Aquino
     qu: Tommaso d'Aquino
     rm: Tumasch d'Aquino
     ro: Toma de Aquino

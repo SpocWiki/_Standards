@@ -38,8 +38,8 @@ dv_has_:
     de: John Landis
     el: Τζον Λάντις
     en: John Landis
-    en-ca: John Landis
-    en-gb: John Landis
+    en_ca: John Landis
+    en_gb: John Landis
     es: John Landis
     eu: John Landis
     fa: جان لندیس
@@ -70,7 +70,7 @@ dv_has_:
     pl: John Landis
     pms: John Landis
     pt: John Landis
-    pt-br: John Landis
+    pt_br: John Landis
     ro: John Landis
     ru: Джон Лэндис
     sl: John Landis
@@ -81,9 +81,9 @@ dv_has_:
     ur: جان لینڈس
     yo: John Landis
     zh: 約翰·藍迪斯
-    zh-cn: 约翰·兰迪斯
-    zh-hans: 约翰·兰迪斯
-    zh-hant: 約翰·蘭迪斯
+    zh_cn: 约翰·兰迪斯
+    zh_hans: 约翰·兰迪斯
+    zh_hant: 約翰·蘭迪斯
 ---
 # [[Landis,John]] 
 

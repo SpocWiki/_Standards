@@ -5,18 +5,18 @@ dv_has_:
     af: grafiese verwerkingseenhede
     ar: وحدة معالجة الرسوميات
     az: qrafik prosessor
-    be-tarask: графічны працэсар
+    be_tarask: графічны працэсар
     bg: Графичен процесор
     bs: grafički procesor
     ca: Unitat de Procés Gràfic
     cs: GPU
     da: Graphics Processing Unit
     de: Grafikprozessor
-    de-ch: Grafikprozessor
+    de_ch: Grafikprozessor
     el: Μονάδα επεξεργασίας γραφικών
     en: graphics processing unit
-    en-ca: graphics processing unit
-    en-gb: graphics processing unit
+    en_ca: graphics processing unit
+    en_gb: graphics processing unit
     eo: grafika procesoro
     es: unidad de procesamiento gráfico
     et: Graafikaprotsessor
@@ -36,11 +36,11 @@ dv_has_:
     ja: Graphics Processing Unit
     ka: გრაფიკული პროცესორი
     kk: Бейне бейімдеуіш
-    kk-arab: بەينە بەيىمدەۋىش
+    kk_arab: بەينە بەيىمدەۋىش
     kk-cn: بەينە بەيىمدەۋىش
-    kk-cyrl: Бейне бейімдеуіш
+    kk_cyrl: Бейне бейімдеуіш
     kk-kz: Бейне бейімдеуіш
-    kk-latn: Beýne beýimdewiş
+    kk_latn: Beýne beýimdewiş
     kk-tr: Beýne beýimdewiş
     ko: 그래픽 처리 장치
     ku: GPU - Yekeya pêvajoya grafîkê
@@ -57,7 +57,7 @@ dv_has_:
     pms: GPU
     ps: ګرافیکي پروسس واحد
     pt: unidade de processamento gráfico
-    pt-br: Unidade de processamento gráfico
+    pt_br: Unidade de processamento gráfico
     qu: Rikch'a ruwachiq kaq
     ro: unitate de procesare grafică
     ru: графический процессор
@@ -67,15 +67,15 @@ dv_has_:
     sl: grafična kartica
     sq: Njësia e përpunimit të grafikës
     sr: графички процесор
-    sr-ec: графички процесор
-    sr-el: grafički procesor
+    sr_ec: графички процесор
+    sr_el: grafički procesor
     sv: grafikprocessor
     sw: Graphics processing unit
     ta: வரைகலை செயற்பகுதி
     th: หน่วยประมวลผลกราฟิกส์
     tr: Grafik İşlemci Ünitesi
     tt: график процессор
-    tt-cyrl: график процессор
+    tt_cyrl: график процессор
     ug: GPU
     uk: графічний процесор
     ur: جی پی یو
@@ -83,12 +83,12 @@ dv_has_:
     wuu: 图形处理器
     yue: GPU
     zh: 圖形處理器
-    zh-cn: 图形处理器
-    zh-hans: 图形处理器
-    zh-hant: 圖形處理器
-    zh-hk: 圖形處理器
-    zh-sg: 图形处理器
-    zh-tw: 圖形處理器
+    zh_cn: 图形处理器
+    zh_hans: 图形处理器
+    zh_hant: 圖形處理器
+    zh_hk: 圖形處理器
+    zh_sg: 图形处理器
+    zh_tw: 圖形處理器
 aliases:
 - Beýne beýimdewiş
 - Bộ xử lý đồ họa

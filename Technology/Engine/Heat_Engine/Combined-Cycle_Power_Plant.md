@@ -54,11 +54,11 @@ dv_has_:
     ca: cicle combinat
     cs: paroplynová elektrárna
     de: Gas-und-Dampf-Kombikraftwerk
-    de-ch: Gas-und-Dampf-Kombikraftwerk
+    de_ch: Gas-und-Dampf-Kombikraftwerk
     el: μονάδα συνδυασμένου κύκλου
     en: combined cycle power station
-    en-ca: Combined cycle
-    en-gb: combined cycle
+    en_ca: Combined cycle
+    en_gb: combined cycle
     es: ciclo combinado
     eu: ziklo konbinatu
     fa: نیروگاه چرخه ترکیبی
@@ -75,7 +75,7 @@ dv_has_:
     nl: stoom- en gascentrale
     pl: IGCC
     pt: IGCC
-    pt-br: IGCC
+    pt_br: IGCC
     ro: termocentrală cu ciclu combinat
     ru: парогазовая установка
     sh: kombinirana termoelektrana
@@ -87,9 +87,9 @@ dv_has_:
     tr: kombine çevrim güç istasyonu
     uk: Парогазова установка
     zh: 联合循环
-    zh-hans: 联合循环
-    zh-hant: 複循環
-    zh-hk: 複循環
+    zh_hans: 联合循环
+    zh_hant: 複循環
+    zh_hk: 複循環
 ---
 # [[Combined-Cycle_Power_Plant]] 
 

@@ -45,7 +45,7 @@ dv_has_:
     ceb: Anostraca
     cs: žábronožky
     de: Kiemenfüßer
-    de-ch: Kiemenfüsser
+    de_ch: Kiemenfüsser
     en: Anostraca
     eo: Anostraca
     es: Anostraca
@@ -78,7 +78,7 @@ dv_has_:
     oc: Anostraca
     pl: bezpancerzowce
     pt: Anostraca
-    pt-br: Anostraca
+    pt_br: Anostraca
     ro: Anostraca
     ru: Жаброноги
     sk: Žiabronôžky
@@ -91,9 +91,9 @@ dv_has_:
     vo: Anostraca
     war: Anostraca
     zh: 無甲目
-    zh-cn: 无甲目
-    zh-hk: 無甲目
-    zh-tw: 無甲目
+    zh_cn: 无甲目
+    zh_hk: 無甲目
+    zh_tw: 無甲目
 ---
 # [[Anostraca]] 
 

@@ -133,7 +133,7 @@ dv_has_:
     ast: Principiu de Bernoulli
     az: Bernulli qanunu
     be: Ураўненне Бернулі
-    be-tarask: закон Бэрнульлі
+    be_tarask: закон Бэрнульлі
     bg: Уравнение на Бернули
     bn: বার্নুলি'র নীতি
     bs: Bernoullijeva jednačina
@@ -162,11 +162,11 @@ dv_has_:
     it: equazione di Bernoulli
     ja: ベルヌーイの定理
     kk: Бернулли теңдеуі
-    kk-arab: بەرنۋللىي تەڭدەۋى
+    kk_arab: بەرنۋللىي تەڭدەۋى
     kk-cn: بەرنۋللىي تەڭدەۋى
-    kk-cyrl: Бернулли теңдеуі
+    kk_cyrl: Бернулли теңдеуі
     kk-kz: Бернулли теңдеуі
-    kk-latn: Bernwllï teñdewi
+    kk_latn: Bernwllï teñdewi
     kk-tr: Bernwllï teñdewi
     ko: 베르누이 방정식
     ky: Бернулли теңдемеси
@@ -190,8 +190,8 @@ dv_has_:
     sk: Bernoulliho rovnica
     sl: Bernoullijevo načelo
     sr: Бернулијева једначина
-    sr-ec: Бернулијева једначина
-    sr-el: Bernulijeva jednačina
+    sr_ec: Бернулијева једначина
+    sr_el: Bernulijeva jednačina
     sv: Bernoullis ekvation
     ta: பெர்னூலி தத்துவம்
     te: బెర్నౌలీ సూత్రం
@@ -204,12 +204,12 @@ dv_has_:
     xmf: ბერნულიშ კანონი
     yue: 白努利法則
     zh: 伯努利定律
-    zh-cn: 伯努利定律
-    zh-hans: 伯努利定律
-    zh-hant: 伯努利定律
-    zh-hk: 白努利定律
-    zh-sg: 伯努利定律
-    zh-tw: 白努利定律
+    zh_cn: 伯努利定律
+    zh_hans: 伯努利定律
+    zh_hant: 伯努利定律
+    zh_hk: 白努利定律
+    zh_sg: 伯努利定律
+    zh_tw: 白努利定律
 ---
 # [[Bernoulli_Principle]] 
 

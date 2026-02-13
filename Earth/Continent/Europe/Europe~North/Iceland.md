@@ -538,7 +538,7 @@ dv_has_:
     ab: Исландиа
     ace: Islandia
     ady: Исландие
-    aeb-arab: إيزلندا
+    aeb_arab: إيزلندا
     af: Ysland
     am: አይስላንድ
     ami: Iceland
@@ -562,7 +562,7 @@ dv_has_:
     bar: Island
     bcl: Islanda
     be: Ісландыя
-    be-tarask: Ісьляндыя
+    be_tarask: Ісьляндыя
     bew: Èslan
     bg: Исландия
     bgn: ایسلند
@@ -576,7 +576,7 @@ dv_has_:
     bs: Island
     bxr: Исланд
     ca: Islàndia
-    cbk-zam: Islandia
+    cbk_zam: Islandia
     cdo: Bĭng-dō̤
     ce: Исланди
     ceb: Iceland
@@ -585,7 +585,7 @@ dv_has_:
     ckb: ئایسلەند
     co: Islanda
     crh: İslandiya
-    crh-latn: İslandiya
+    crh_latn: İslandiya
     cs: Island
     csb: Islandëjô
     cu: Исландъ
@@ -595,7 +595,7 @@ dv_has_:
     dag: Iceland
     de: Island
     de-at: Island
-    de-ch: Island
+    de_ch: Island
     diq: İslanda
     dsb: Islandska
     dty: आइसल्याण्ड
@@ -605,8 +605,8 @@ dv_has_:
     el: Ισλανδία
     eml: Islanda
     en: Iceland
-    en-ca: Iceland
-    en-gb: Iceland
+    en_ca: Iceland
+    en_gb: Iceland
     eo: Islando
     es: Islandia
     et: Island
@@ -631,7 +631,7 @@ dv_has_:
     gn: Iylanda
     gom: आइसलँड
     gom-deva: आइसलँड
-    gom-latn: Iceland
+    gom_latn: Iceland
     got: "\U00010334\U00010339\U00010343\U00010330\U0001033B\U00010330\U0001033D\U00010333"
     gpe: Iceland
     gsw: Island
@@ -680,7 +680,7 @@ dv_has_:
     krc: Исландия
     ksh: Island
     ku: Îslenda
-    ku-latn: Îslenda
+    ku_latn: Îslenda
     kv: Исландия
     kw: Island
     ky: Исландия
@@ -704,7 +704,7 @@ dv_has_:
     lzh: 冰島
     mad: Islandia
     mai: आइसलैंड
-    map-bms: Islandia
+    map_bms: Islandia
     mdf: Исландмастор
     mg: Islandy
     mhr: Исландий
@@ -716,7 +716,7 @@ dv_has_:
     mni: ꯑꯥꯢꯁ꯭ꯂꯦꯟ
     mr: आइसलँड
     ms: Iceland
-    ms-arab: اءيسلند
+    ms_arab: اءيسلند
     mt: Iżlanda
     mwl: Eislándia
     my: အိုက်စလန်နိုင်ငံ
@@ -728,7 +728,7 @@ dv_has_:
     nap: Islanna
     nb: Island
     nds: Iesland
-    nds-nl: Ieslaand
+    nds_nl: Ieslaand
     ne: आइसल्याण्ड
     nl: IJsland
     nn: Island
@@ -754,7 +754,7 @@ dv_has_:
     pnt: Ισλανδία
     ps: آيسلينډ
     pt: Islândia
-    pt-br: Islândia
+    pt_br: Islândia
     qu: Islandya
     rm: Islanda
     rmy: Iceland
@@ -790,8 +790,8 @@ dv_has_:
     so: Island
     sq: Islanda
     sr: Исланд
-    sr-ec: Исланд
-    sr-el: Island
+    sr_ec: Исланд
+    sr_el: Island
     srn: Islenikondre
     ss: Echweni
     st: Iceland
@@ -806,7 +806,7 @@ dv_has_:
     te: ఐస్లాండ్
     tet: Izlándia
     tg: Исландия
-    tg-cyrl: Исландия
+    tg_cyrl: Исландия
     th: ประเทศไอซ์แลนด์
     tk: Islandiýa
     tl: Iceland
@@ -846,12 +846,12 @@ dv_has_:
     zea: Iesland
     zgh: ⵉⵙⵍⴰⵏⴷⴰ
     zh: 冰島
-    zh-cn: 冰岛
-    zh-hans: 冰岛
-    zh-hant: 冰島
-    zh-hk: 冰島
-    zh-mo: 冰島
-    zh-tw: 冰島
+    zh_cn: 冰岛
+    zh_hans: 冰岛
+    zh_hant: 冰島
+    zh_hk: 冰島
+    zh_mo: 冰島
+    zh_tw: 冰島
     zu: I-Ayisilandi
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Iceland

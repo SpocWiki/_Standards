@@ -75,18 +75,18 @@ dv_has_:
     ar: حقبة
     ast: Dómina
     be: эпоха, астраномія
-    be-tarask: эпоха
+    be_tarask: эпоха
     bg: Епоха
     bn: ইপক (জ্যোতির্বিদ্যা)
     bs: Epoha
     ca: època
     cs: epocha
     de: Epoche
-    de-ch: Epoche (Astronomie)
+    de_ch: Epoche (Astronomie)
     el: εποχή
     en: epoch
-    en-ca: Epoch
-    en-gb: epoch
+    en_ca: Epoch
+    en_gb: epoch
     eo: epoko
     es: época
     eu: Garai
@@ -118,7 +118,7 @@ dv_has_:
     nn: astronomisk epoke
     pl: epoka
     pt: época
-    pt-br: época
+    pt_br: época
     ro: epocă
     ru: эпоха
     sh: Epoha

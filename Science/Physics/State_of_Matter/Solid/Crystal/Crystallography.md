@@ -104,7 +104,7 @@ dv_has_:
     ast: cristalografía
     az: kristalloqrafiya
     be: крышталяграфія
-    be-tarask: крышталяграфія
+    be_tarask: крышталяграфія
     bg: кристалография
     bn: কেলাসবিজ্ঞান
     bs: kristalografija
@@ -138,11 +138,11 @@ dv_has_:
     ja: 結晶学
     ka: კრისტალოგრაფია
     kk: кристаллография
-    kk-arab: كرىيستاللوگرافىييا
+    kk_arab: كرىيستاللوگرافىييا
     kk-cn: كرىيستاللوگرافىييا
-    kk-cyrl: кристаллография
+    kk_cyrl: кристаллография
     kk-kz: кристаллография
-    kk-latn: krïstallografïya
+    kk_latn: krïstallografïya
     kk-tr: krïstallografïya
     kn: ಸ್ಫಟಿಕವಿಜ್ಞಾನ
     ko: 결정학
@@ -163,7 +163,7 @@ dv_has_:
     os: кристаллографи
     pl: krystalografia
     pt: cristalografia
-    pt-br: cristalografia
+    pt_br: cristalografia
     ro: cristalografie
     ru: кристаллография
     sd: ڪرسٽلوگرافي
@@ -175,8 +175,8 @@ dv_has_:
     sms: kristallografia
     sq: kristalografia
     sr: кристалографија
-    sr-ec: кристалографија
-    sr-el: kristalografija
+    sr_ec: кристалографија
+    sr_el: kristalografija
     sv: kristallografi
     ta: படிகவுருவியல்
     tg: булӯршиносӣ
@@ -193,12 +193,12 @@ dv_has_:
     wuu: 晶体学
     yue: 晶體學
     zh: 晶体学
-    zh-cn: 晶体学
-    zh-hans: 晶体学
-    zh-hant: 晶體學
-    zh-hk: 晶體學
-    zh-sg: 晶体学
-    zh-tw: 晶體學
+    zh_cn: 晶体学
+    zh_hans: 晶体学
+    zh_hant: 晶體學
+    zh_hk: 晶體學
+    zh_sg: 晶体学
+    zh_tw: 晶體學
     zu: Umchazamncwebe
 ---
 # [[Crystallography]] 

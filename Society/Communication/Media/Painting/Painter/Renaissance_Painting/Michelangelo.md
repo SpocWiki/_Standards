@@ -302,7 +302,7 @@ dv_has_:
     bar: Michelangelo
     bcl: Michelangelo
     be: Мікеланджэла Буанароці
-    be-tarask: Мікелянджэлё
+    be_tarask: Мікелянджэлё
     bg: Микеланджело Буонароти
     bho: माइकलएंजेलो
     bi: Mikelanjelo
@@ -314,7 +314,7 @@ dv_has_:
     btm: Michelangelo
     bxr: Микеланджело
     ca: Michelangelo Buonarroti
-    cbk-zam: Michelangelo
+    cbk_zam: Michelangelo
     cdo: Michelangelo
     ce: Микеланджело
     ceb: Michelangelo
@@ -322,7 +322,7 @@ dv_has_:
     ckb: میکێلانجێلۆ
     co: Michelangelo Buonarroti
     crh: Mikelancelo
-    crh-latn: Mikelancelo
+    crh_latn: Mikelancelo
     cs: Michelangelo Buonarroti
     cv: Микеланджело
     cy: Michelangelo
@@ -332,8 +332,8 @@ dv_has_:
     el: Μιχαήλ Άγγελος
     eml: Michelanzel
     en: Michelangelo
-    en-ca: Michelangelo
-    en-gb: Michelangelo
+    en_ca: Michelangelo
+    en_gb: Michelangelo
     en-us: Michelangelo
     eo: Mikelanĝelo
     es: Miguel Ángel
@@ -426,7 +426,7 @@ dv_has_:
     nan: Michelangelo Buonarroti
     nb: Michelangelo
     nds: Michelangelo
-    nds-nl: Michelangelo
+    nds_nl: Michelangelo
     ne: माइकलएन्जेलो
     new: माइकेलएञ्जेलो
     nl: Michelangelo Buonarroti
@@ -445,7 +445,7 @@ dv_has_:
     pms: Michelangelo Buonarroti
     pnb: مائیکل اینجلو
     pt: Michelangelo
-    pt-br: Michelangelo
+    pt_br: Michelangelo
     qu: Miguel Angel
     rki: မိုက်ကယ် အိန်ဂျလို
     ro: Michelangelo Buonarroti
@@ -468,7 +468,7 @@ dv_has_:
     so: Mishelangelo
     sq: Michelangelo Buonarroti
     sr: Микеланђело Буонароти
-    sr-ec: Микеланђело Буонароти
+    sr_ec: Микеланђело Буонароти
     stq: Michelangelo di Lodovico Buonarroti Simoni
     su: Michelangelo Buonarroti
     sv: Michelangelo
@@ -504,10 +504,10 @@ dv_has_:
     yue: 米高安哲羅
     za: Michelangelo
     zh: 米开朗琪罗
-    zh-cn: 米开朗琪罗
-    zh-hans: 米开朗琪罗
-    zh-hk: 米高安哲羅
-    zh-tw: 米開朗基羅
+    zh_cn: 米开朗琪罗
+    zh_hans: 米开朗琪罗
+    zh_hk: 米高安哲羅
+    zh_tw: 米開朗基羅
     zu: Michelangelo
 ---
 # [[Michelangelo]] 

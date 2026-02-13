@@ -93,7 +93,7 @@ dv_has_:
     az: Horus
     bar: Horus
     be: Хор
-    be-tarask: Гор
+    be_tarask: Гор
     bg: Хор
     bn: হোরাস
     bo: ཧོ་ལུའུ་སི།
@@ -105,12 +105,12 @@ dv_has_:
     cv: Гор
     da: Horus
     de: Horus
-    de-ch: Horus
+    de_ch: Horus
     diq: Horus
     el: Ώρος
     en: Horus
-    en-ca: Horus
-    en-gb: Horus
+    en_ca: Horus
+    en_gb: Horus
     eo: Horuso
     es: Horus
     et: Horos
@@ -152,7 +152,7 @@ dv_has_:
     pnb: حورس
     ps: هوروس
     pt: Hórus
-    pt-br: Hórus
+    pt_br: Hórus
     ro: Horus
     ru: Гор
     scn: Horus
@@ -180,12 +180,12 @@ dv_has_:
     xmf: ჰოროსი
     yue: 荷魯斯
     zh: 荷鲁斯
-    zh-cn: 荷鲁斯
-    zh-hans: 荷鲁斯
-    zh-hant: 荷魯斯
-    zh-hk: 荷魯斯
-    zh-sg: 荷鲁斯
-    zh-tw: 荷魯斯
+    zh_cn: 荷鲁斯
+    zh_hans: 荷鲁斯
+    zh_hant: 荷魯斯
+    zh_hk: 荷魯斯
+    zh_sg: 荷鲁斯
+    zh_tw: 荷魯斯
 ---
 # [[Horus]] 
 

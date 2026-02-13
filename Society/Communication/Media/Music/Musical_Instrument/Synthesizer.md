@@ -87,7 +87,7 @@ dv_has_:
     ast: sintetizador
     az: sintezator
     be: сінтэзатар
-    be-tarask: сынтэзатар
+    be_tarask: сынтэзатар
     bg: синтезатор
     bs: sintisajzer
     ca: sintetitzador
@@ -99,8 +99,8 @@ dv_has_:
     de: Synthesizer
     el: συνθεσάιζερ
     en: synthesizer
-    en-ca: synthesizer
-    en-gb: synthesiser
+    en_ca: synthesizer
+    en_gb: synthesiser
     en-us: synthesizer
     eo: sintezilo
     es: sintetizador
@@ -126,7 +126,7 @@ dv_has_:
     kk: синтездеуіш
     ko: 신시사이저
     ku: sîntesîzer
-    ku-latn: sîntesîzer
+    ku_latn: sîntesîzer
     la: synthetisator
     lb: Synthesizer
     li: Synthesizer
@@ -136,19 +136,19 @@ dv_has_:
     mk: синтисајзер
     mr: sinthezizer
     ms: pensintesis
-    ms-arab: ڤنسينتسيس
+    ms_arab: ڤنسينتسيس
     mzn: سینث
     nah: cuīcatlāhuīlcaxitl
     nb: synthesizer
     nds: Synthesizer
-    nds-nl: synthesizer
+    nds_nl: synthesizer
     nl: synthesizer
     nn: synthesizer
     oc: sintetizador
     os: синтезатор
     pl: syntezator
     pt: sintetizador
-    pt-br: sintetizador
+    pt_br: sintetizador
     ro: sintetizator
     ru: синтезатор
     sc: sintetizadore
@@ -167,14 +167,14 @@ dv_has_:
     tr: synthesizer
     uk: синтезатор
     uz: sintezator
-    uz-cyrl: синтезатор
+    uz_cyrl: синтезатор
     vec: sintetizador
     vi: synthesizer
     war: sintetisador
     wuu: 合成器
     yue: 合成器
     zh: 合成器
-    zh-hant: 合成器
+    zh_hant: 合成器
     zu: synthesizers
 ---
 # [[Synthesizer]] 

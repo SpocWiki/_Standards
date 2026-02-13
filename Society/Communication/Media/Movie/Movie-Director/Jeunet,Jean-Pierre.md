@@ -77,7 +77,7 @@ dv_has_:
     ast: Jean-Pierre Jeunet
     az: Jan Pyer Jöne
     be: Жан-П’ер Жэнэ
-    be-tarask: Жан-П’ер Жэнэ
+    be_tarask: Жан-П’ер Жэнэ
     bg: Жан-Пиер Жьоне
     br: Jean-Pierre Jeunet
     ca: Jean-Pierre Jeunet
@@ -87,8 +87,8 @@ dv_has_:
     de: Jean-Pierre Jeunet
     el: Ζαν-Πιέρ Ζενέ
     en: Jean-Pierre Jeunet
-    en-ca: Jean-Pierre Jeunet
-    en-gb: Jean-Pierre Jeunet
+    en_ca: Jean-Pierre Jeunet
+    en_gb: Jean-Pierre Jeunet
     eo: Jean-Pierre Jeunet
     es: Jean-Pierre Jeunet
     et: Jean-Pierre Jeunet
@@ -123,7 +123,7 @@ dv_has_:
     pap: Jean-Pierre Jeunet
     pl: Jean-Pierre Jeunet
     pt: Jean-Pierre Jeunet
-    pt-br: Jean-Pierre Jeunet
+    pt_br: Jean-Pierre Jeunet
     ro: Jean-Pierre Jeunet
     ru: Жан-Пьер Жёне
     sh: Jean-Pierre Jeunet
@@ -133,12 +133,12 @@ dv_has_:
     tr: Jean-Pierre Jeunet
     uk: Жан-П'єр Жене
     zh: 尚-皮爾·桑里
-    zh-cn: 让-皮埃尔·热内
-    zh-hans: 让-皮埃尔·热内
-    zh-hant: 尚-皮耶·居內
-    zh-hk: 尚-皮爾·桑里
-    zh-sg: 尚-皮亚·祖纳
-    zh-tw: 尚-皮耶·居內
+    zh_cn: 让-皮埃尔·热内
+    zh_hans: 让-皮埃尔·热内
+    zh_hant: 尚-皮耶·居內
+    zh_hk: 尚-皮爾·桑里
+    zh_sg: 尚-皮亚·祖纳
+    zh_tw: 尚-皮耶·居內
 ---
 # [[Jeunet,Jean-Pierre]] 
 

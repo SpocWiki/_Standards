@@ -92,7 +92,7 @@ dv_has_:
     ar: بمبة
     ast: Pampa
     be: Пампасы
-    be-tarask: Пампасы
+    be_tarask: Пампасы
     bg: Пампаси
     bn: পাম্পাস
     br: Pampa
@@ -102,11 +102,11 @@ dv_has_:
     cy: Pampa
     da: Pampas
     de: Pampa
-    de-ch: Pampa
+    de_ch: Pampa
     el: πάμπα
     en: pampa
-    en-ca: Pampas
-    en-gb: Pampas
+    en_ca: Pampas
+    en_gb: Pampas
     eo: Pampo
     es: pampa
     et: Pampa
@@ -132,11 +132,11 @@ dv_has_:
     ja: パンパ
     ka: პამპა
     kk: Пампа
-    kk-arab: پامپا
+    kk_arab: پامپا
     kk-cn: پامپا
-    kk-cyrl: Пампа
+    kk_cyrl: Пампа
     kk-kz: Пампа
-    kk-latn: Pampa
+    kk_latn: Pampa
     kk-tr: Pampa
     ko: 팜파스
     ky: Пампа
@@ -153,7 +153,7 @@ dv_has_:
     pa: ਪੰਪਾਸ
     pl: Pampa
     pt: Pampas
-    pt-br: Pampas
+    pt_br: Pampas
     qu: Pampa-pampa
     ro: Pampas
     ru: Пампа
@@ -164,8 +164,8 @@ dv_has_:
     sl: pampa
     sq: Pampaset
     sr: Пампа
-    sr-ec: Пампа
-    sr-el: Pampa
+    sr_ec: Пампа
+    sr_el: Pampa
     sv: Pampas
     th: ปัมปัส
     tk: Pampaslar
@@ -178,12 +178,12 @@ dv_has_:
     wuu: 潘帕斯草原
     yue: 彭巴斯
     zh: 潘帕
-    zh-cn: 潘帕
-    zh-hans: 潘帕
-    zh-hant: 彭巴
-    zh-hk: 彭巴草原
-    zh-sg: 彭巴草原
-    zh-tw: 彭巴草原
+    zh_cn: 潘帕
+    zh_hans: 潘帕
+    zh_hant: 彭巴
+    zh_hk: 彭巴草原
+    zh_sg: 彭巴草原
+    zh_tw: 彭巴草原
 ---
 # [[Pampas]] 
 

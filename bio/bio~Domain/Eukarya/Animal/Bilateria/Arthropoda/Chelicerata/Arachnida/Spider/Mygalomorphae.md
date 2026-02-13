@@ -100,7 +100,7 @@ dv_has_:
     oc: Mygalomorphae
     pl: Mygalomorphae
     pt: Mygalomorphae
-    pt-br: Mygalomorphae
+    pt_br: Mygalomorphae
     ro: Mygalomorphae
     ru: мигаломорфные пауки
     sk: Štvorpľúcne
@@ -114,9 +114,9 @@ dv_has_:
     vo: Mygalomorphae
     war: Mygalomorphae
     zh: 猛蛛下目
-    zh-cn: 原蛛下目
-    zh-hans: 原蛛亚目
-    zh-tw: 猛蛛下目
+    zh_cn: 原蛛下目
+    zh_hans: 原蛛亚目
+    zh_tw: 猛蛛下目
 ---
 # [[Mygalomorphae]]  
 

@@ -106,7 +106,7 @@ dv_has_:
     az: soxulcan dəliyi
     bar: Wuamloch
     be: Кратовая нара
-    be-tarask: кратовая нара
+    be_tarask: кратовая нара
     bg: Червейна дупка
     bn: ক্ষুদ্রবিবর
     ca: forat de cuc
@@ -114,11 +114,11 @@ dv_has_:
     cv: каюра хăвăлĕ
     da: ormehul
     de: Wurmloch
-    de-ch: Wurmloch
+    de_ch: Wurmloch
     el: Σκουληκότρυπα
     en: wormhole
-    en-ca: wormhole
-    en-gb: wormhole
+    en_ca: wormhole
+    en_gb: wormhole
     eo: vermotruo
     es: agujero de gusano
     et: ussiauk
@@ -153,7 +153,7 @@ dv_has_:
     nn: ormehòl
     pl: tunel czasoprzestrzenny
     pt: buraco de minhoca
-    pt-br: buraco de minhoca
+    pt_br: buraco de minhoca
     ro: gaură de vierme
     ru: кротовая нора
     sh: crvotočina
@@ -175,12 +175,12 @@ dv_has_:
     wuu: 虫洞
     yue: 蟲洞
     zh: 蟲洞
-    zh-cn: 虫洞
-    zh-hans: 虫洞
-    zh-hant: 蟲洞
-    zh-hk: 蟲洞
-    zh-mo: 蟲洞
-    zh-tw: 蟲洞
+    zh_cn: 虫洞
+    zh_hans: 虫洞
+    zh_hant: 蟲洞
+    zh_hk: 蟲洞
+    zh_mo: 蟲洞
+    zh_tw: 蟲洞
 ---
 # [[Wormhole]] 
 

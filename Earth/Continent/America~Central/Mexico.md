@@ -1044,7 +1044,7 @@ dv_has_:
     ab: Мексика
     ace: Meksiko
     ady: Мексикэ
-    aeb-arab: المكسيك
+    aeb_arab: المكسيك
     af: Meksiko
     alt: Мексика
     am: ሜክሲኮ
@@ -1072,7 +1072,7 @@ dv_has_:
     bbc: Meksiko
     bcl: Mehiko
     be: Мексіка
-    be-tarask: Мэксыка
+    be_tarask: Мэксыка
     bew: Mèksiko
     bg: Мексико
     bho: मैक्सिको
@@ -1088,7 +1088,7 @@ dv_has_:
     bug: Mexico
     bxr: Мексико
     ca: Mèxic
-    cbk-zam: Méjico
+    cbk_zam: Méjico
     cdo: Mĕ̤k-să̤-gŏ̤
     ce: Мексика
     ceb: Mehiko
@@ -1099,7 +1099,7 @@ dv_has_:
     co: Messicu
     cr: ᒦᒃᓰᖂ
     crh: Meksika
-    crh-latn: Meksika
+    crh_latn: Meksika
     cs: Mexiko
     csb: Meksyk
     cu: Мєѯїко
@@ -1109,7 +1109,7 @@ dv_has_:
     dag: Mexico
     de: Mexiko
     de-at: Mexiko
-    de-ch: Mexiko
+    de_ch: Mexiko
     din: Messiko
     diq: Meksika
     dsb: Mexiko
@@ -1121,8 +1121,8 @@ dv_has_:
     el: Μεξικό
     eml: Mèsic
     en: Mexico
-    en-ca: Mexico
-    en-gb: Mexico
+    en_ca: Mexico
+    en_gb: Mexico
     en-us: Mexico
     eo: Meksiko
     es: México
@@ -1149,7 +1149,7 @@ dv_has_:
     gn: Méjiko
     gom: मेक्सिको
     gom-deva: मेक्सिको
-    gom-latn: Mexico
+    gom_latn: Mexico
     gor: Mexico
     got: "\U0001033C\U00010330\U00010339\U00010337\U00010339\U0001033A\U00010349"
     gpe: Mexico
@@ -1234,7 +1234,7 @@ dv_has_:
     lzh: 墨西哥
     mad: Meksiko
     mai: मैक्सिको
-    map-bms: Meksiko
+    map_bms: Meksiko
     mdf: Мэксико
     mg: Meksika
     mhr: Мексика
@@ -1249,7 +1249,7 @@ dv_has_:
     mr: मेक्सिको
     mrj: Мексика
     ms: Mexico
-    ms-arab: ميکسيکو
+    ms_arab: ميکسيکو
     mt: Messiku
     mwl: México
     my: မက္ကဆီကိုနိုင်ငံ
@@ -1261,7 +1261,7 @@ dv_has_:
     nap: Messeco
     nb: Mexico
     nds: Mexiko
-    nds-nl: Mexico
+    nds_nl: Mexico
     ne: मेक्सिको
     new: मेक्सिको
     nia: Mexico
@@ -1295,7 +1295,7 @@ dv_has_:
     pnt: Μεξικό
     ps: مکسيکو
     pt: México
-    pt-br: México
+    pt_br: México
     qu: Mishiku
     rm: Mexico
     rmy: Mexiko
@@ -1330,8 +1330,8 @@ dv_has_:
     so: Meksiko
     sq: Meksika
     sr: Мексико
-    sr-ec: Мексико
-    sr-el: Meksiko
+    sr_ec: Мексико
+    sr_el: Meksiko
     srn: Meksikokondre
     ss: IMekisikho
     st: Mexico
@@ -1391,14 +1391,14 @@ dv_has_:
     zea: Mexico
     zgh: ⵎⵉⴽⵙⵉⴽ
     zh: 墨西哥
-    zh-cn: 墨西哥
-    zh-hans: 墨西哥
-    zh-hant: 墨西哥
-    zh-hk: 墨西哥
-    zh-mo: 墨西哥
+    zh_cn: 墨西哥
+    zh_hans: 墨西哥
+    zh_hant: 墨西哥
+    zh_hk: 墨西哥
+    zh_mo: 墨西哥
     zh-my: 墨西哥
-    zh-sg: 墨西哥
-    zh-tw: 墨西哥
+    zh_sg: 墨西哥
+    zh_tw: 墨西哥
     zu: IMekisiko
   url_for_:
     code_repository: https://github.com/SpocWiki/America-Mexico

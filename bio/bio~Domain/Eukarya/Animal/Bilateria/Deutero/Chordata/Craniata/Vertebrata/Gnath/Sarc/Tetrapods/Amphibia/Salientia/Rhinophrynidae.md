@@ -47,7 +47,7 @@ dv_has_:
     oc: Rhinophrynidae
     pl: Rhinophrynidae
     pt: Rhinophrynidae
-    pt-br: Rhinophrynidae
+    pt_br: Rhinophrynidae
     ro: Rhinophrynidae
     ru: Носатые жабы
     sl: nosate krastače
@@ -58,9 +58,9 @@ dv_has_:
     vo: Rhinophrynidae
     war: Rhinophrynidae
     zh: 异舌蟾科
-    zh-cn: 异舌蟾科
-    zh-hans: 异舌蟾科
-    zh-tw: 異舌蟾科
+    zh_cn: 异舌蟾科
+    zh_hans: 异舌蟾科
+    zh_tw: 異舌蟾科
 ---
 # [[Rhinophrynidae]] 
 

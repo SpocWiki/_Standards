@@ -132,7 +132,7 @@ dv_has_:
     azb: فاطمه الزهرا
     ba: Фатима - Мөхәммәт Пәйғәмбәр ҡыҙы
     be: Фаціма
-    be-tarask: Фатыма Загра
+    be_tarask: Фатыма Загра
     bg: Фатима
     bn: ফাতিমা
     bs: Fatima bint Muhammed
@@ -167,11 +167,11 @@ dv_has_:
     jv: Fatimah az-Zahra
     ka: ფატიმა ზახრა
     kk: Фатима бинт Мұхаммед
-    kk-arab: فاتىيما
+    kk_arab: فاتىيما
     kk-cn: فاتىيما
-    kk-cyrl: Фатима
+    kk_cyrl: Фатима
     kk-kz: Фатима
-    kk-latn: Fatïma
+    kk_latn: Fatïma
     kk-tr: Fatïma
     km: ហ្វាទីម៉ា
     ko: 파티마
@@ -190,7 +190,7 @@ dv_has_:
     pl: Fatima
     pnb: فاطمۃ الزہرا
     pt: Fátima
-    pt-br: Fátima
+    pt_br: Fátima
     ro: Fatimah
     ru: Фатима аз-Захра
     scn: Fâtima az-Zahra
@@ -224,12 +224,12 @@ dv_has_:
     yue: 法蒂瑪
     zgh: ⴼⴰⵟⵉⵎⴰ ⵣⴰⵀⵔⴰ
     zh: 法蒂瑪
-    zh-cn: 法蒂玛
-    zh-hans: 法蒂玛
-    zh-hant: 法蒂瑪
-    zh-hk: 法蒂瑪
-    zh-sg: 法蒂玛
-    zh-tw: 法提瑪
+    zh_cn: 法蒂玛
+    zh_hans: 法蒂玛
+    zh_hant: 法蒂瑪
+    zh_hk: 法蒂瑪
+    zh_sg: 法蒂玛
+    zh_tw: 法提瑪
 ---
 # [[Fatima]] 
 

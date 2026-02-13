@@ -88,7 +88,7 @@ dv_has_:
     ban: pikas mekanis
     bar: Spaunnung
     be: механічнае напружанне
-    be-tarask: мэханічнае напружаньне
+    be_tarask: мэханічнае напружаньне
     bg: Напрежение
     bn: পীড়ন
     bs: Napon (mehanika)
@@ -131,7 +131,7 @@ dv_has_:
     nn: spenning
     pl: naprężenie
     pt: tensão
-    pt-br: tensão
+    pt_br: tensão
     ro: tensiune
     ru: механическое напряжение
     sco: stress
@@ -139,8 +139,8 @@ dv_has_:
     sk: silové napätie v hmote
     sl: mehanska napetost
     sr: напон
-    sr-ec: напон
-    sr-el: napon
+    sr_ec: напон
+    sr_el: napon
     sv: dragspänning
     ta: தகைவு
     th: ความเค้น
@@ -152,12 +152,12 @@ dv_has_:
     wuu: 应力
     yue: 應力
     zh: 應力
-    zh-cn: 应力
-    zh-hans: 应力
-    zh-hant: 應力
-    zh-hk: 應力
-    zh-sg: 应力
-    zh-tw: 應力
+    zh_cn: 应力
+    zh_hans: 应力
+    zh_hant: 應力
+    zh_hk: 應力
+    zh_sg: 应力
+    zh_tw: 應力
 ---
 # [[Mechanical_Stress]] 
 

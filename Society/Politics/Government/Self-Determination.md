@@ -127,7 +127,7 @@ dv_has_:
     azb: اؤز موقدراتینی تعیین ائتمه
     bcl: Pagdesisyon-sa-sadiri
     be: Права на самавызначэнне
-    be-tarask: права на самавызначэньне
+    be_tarask: права на самавызначэньне
     bg: самоопределение
     bn: আত্মনির্ধারণ
     ca: autodeterminació
@@ -139,7 +139,7 @@ dv_has_:
     diq: Self determinasyon
     el: Εθνική αυτοδιάθεση
     en: self-determination
-    en-gb: self-determination
+    en_gb: self-determination
     eo: rajto de memdetermino
     es: derecho de autodeterminación
     et: enesemääramisõigus
@@ -191,8 +191,8 @@ dv_has_:
     so: Aayo-katalinta
     sq: Vetëvendosja
     sr: самоопредељење
-    sr-ec: Самоопредељење
-    sr-el: Samoopredeljenje
+    sr_ec: Самоопредељење
+    sr_el: Samoopredeljenje
     sv: nationellt självbestämmande
     ta: தன்னாட்சி உரிமை
     th: การกำหนดการปกครองด้วยตนเอง
@@ -205,12 +205,12 @@ dv_has_:
     wuu: 人民自决
     yue: 民族自決
     zh: 民族自決
-    zh-cn: 民族自决
-    zh-hans: 民族自决
-    zh-hant: 民族自決
-    zh-hk: 自決
-    zh-sg: 自决
-    zh-tw: 自決
+    zh_cn: 民族自决
+    zh_hans: 民族自决
+    zh_hant: 民族自決
+    zh_hk: 自決
+    zh_sg: 自决
+    zh_tw: 自決
 ---
 # [[Self-Determination]] 
 

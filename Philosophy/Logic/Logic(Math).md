@@ -115,7 +115,7 @@ dv_has_:
     az: riyazi məntiq
     ba: математик логика
     be: матэматычная логіка
-    be-tarask: матэматычная лёгіка
+    be_tarask: матэматычная лёгіка
     bg: Математическа логика
     bn: গাণিতিক যুক্তিবিজ্ঞান
     bs: matematička logika
@@ -164,7 +164,7 @@ dv_has_:
     mag: गणितीय तर्कशास्त्र
     mk: математичка логика
     ms: logik matematik
-    ms-arab: لوݢيک ماتماتيک
+    ms_arab: لوݢيک ماتماتيک
     mwl: lógica matemática
     my: သင်္ချာယုတ္တိဗေဒ
     nan: sò͘-lí lô-chi̍p
@@ -176,7 +176,7 @@ dv_has_:
     pl: logika matematyczna
     pnb: ریاضیاتی منطق
     pt: lógica matemática
-    pt-br: lógica matemática
+    pt_br: lógica matemática
     rki: သင်္ချာအခြီခံသီအိုရီတိ
     ro: logică matematică
     ru: математическая логика
@@ -203,7 +203,7 @@ dv_has_:
     wuu: 数理逻辑
     yue: 數學邏輯
     zh: 数理逻辑
-    zh-tw: 數理邏輯
+    zh_tw: 數理邏輯
 ---
 # [[Logic(Math)]] 
 

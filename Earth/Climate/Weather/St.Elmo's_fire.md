@@ -107,7 +107,7 @@ dv_has_:
     ast: Fueu de San Telmo
     bcl: Kalayo ni San Elmo
     be: Агні Святога Эльма
-    be-tarask: Агні Сьвятога Эльма
+    be_tarask: Агні Сьвятога Эльма
     bg: Огън на свети Елмо
     ca: foc de Sant Elm
     cs: Eliášův oheň
@@ -145,7 +145,7 @@ dv_has_:
     oc: Fuòc de Sant Elm
     pl: ognie świętego Elma
     pt: Fogo-de-santelmo
-    pt-br: Fogo-de-santelmo
+    pt_br: Fogo-de-santelmo
     ro: Focul Sfântului Elmo
     ru: Огни святого Эльма
     sco: St. Elmo's fire
@@ -153,7 +153,7 @@ dv_has_:
     sk: Eliášov oheň
     sl: Ogenj svetega Elma
     sr: Ватра светог Елма
-    sr-ec: Ватра светог Елма
+    sr_ec: Ватра светог Елма
     sv: Sankt Elmseld
     ta: தூய எல்மோவின் சுடர்
     th: ไฟของนักบุญเอลโม

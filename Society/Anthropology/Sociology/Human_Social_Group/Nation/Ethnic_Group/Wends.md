@@ -65,7 +65,7 @@ dv_has_:
     ar: ونديون
     ast: Wendos
     az: Vendlər
-    be-tarask: вэнды
+    be_tarask: вэнды
     bg: Венди
     br: Wended
     ca: Wends
@@ -75,8 +75,8 @@ dv_has_:
     de: Wenden
     el: Βένεδοι
     en: Wends
-    en-ca: Wends
-    en-gb: Wends
+    en_ca: Wends
+    en_gb: Wends
     eo: Vendoj
     es: Wendos
     et: Vendid
@@ -104,7 +104,7 @@ dv_has_:
     oc: Wends
     pl: Wendowie
     pt: Vendos
-    pt-br: Vendos
+    pt_br: Vendos
     ro: wenzi
     ru: венды
     sh: Vendi

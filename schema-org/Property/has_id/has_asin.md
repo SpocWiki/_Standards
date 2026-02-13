@@ -62,7 +62,7 @@ dv_has_:
     ar: رقم تعريف أمازون القياسي
     ast: ASIN
     az: Amazon Standart İdentifikasiya Nömrəsi
-    be-tarask: стандартны ідэнтыфікацыйны нумар Амазону
+    be_tarask: стандартны ідэнтыфікацыйны нумар Амазону
     bho: एएसआईएन
     bn: অ্যামাজন স্ট্যান্ডার্ড আইডেন্টিফিকেশন নাম্বার
     ca: ASIN
@@ -90,7 +90,7 @@ dv_has_:
     pt: ASIN
     sh: ASIN
     sr: Amazon Standard Identification Number
-    sr-ec: Amazon Standard Identification Number
+    sr_ec: Amazon Standard Identification Number
     ta: அமேசான் தர அடையாள எண்
     th: เลขระบุมาตรฐานของอเมซอน
     tr: Amazon Standart Kimlik Numarası
@@ -98,7 +98,7 @@ dv_has_:
     ur: ایمیزون معیاری شناختی نمبر
     vi: Mã số định danh chuẩn Amazon
     zh: 亞馬遜標準識別號碼
-    zh-cn: 亚马逊标准识别号码
+    zh_cn: 亚马逊标准识别号码
   parent_:
     property: '[[../../Relation/has/has_identifier]]'
   range: Text, URL

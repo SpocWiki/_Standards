@@ -179,7 +179,7 @@ EPPO_Code: PHXDA
 dv_has_:
   name_:
     ace: Keureuma
-    aeb-arab: نخلة
+    aeb_arab: نخلة
     af: Dadelpalm
     am: ተምር
     an: Phoenix dactylifera
@@ -194,7 +194,7 @@ dv_has_:
     bcl: Datilero
     bdr: Kurma
     be: Фінікавая пальма, від
-    be-tarask: фінік ядомы
+    be_tarask: фінік ядомы
     bg: обикновена финикова палма
     bjn: Kurma
     bm: Ntamaro
@@ -275,7 +275,7 @@ dv_has_:
     pnb: کھجور
     ps: کجوره
     pt: Tamareira
-    pt-br: Phoenix dactylifera
+    pt_br: Phoenix dactylifera
     ro: Finic
     ru: финик пальчатый
     sa: खर्जूरम्
@@ -293,7 +293,7 @@ dv_has_:
     so: Geed Timir
     sq: Phoenix dactylifera
     sr: датула
-    sr-ec: Датула
+    sr_ec: Датула
     su: Korma
     sv: dadelpalm
     ta: பேரீச்சை
@@ -315,10 +315,10 @@ dv_has_:
     yi: טייטלבוים
     yue: 椰棗
     zh: 椰枣
-    zh-cn: 椰枣
-    zh-hans: 椰枣
-    zh-hant: 椰棗
-    zh-tw: 椰枣
+    zh_cn: 椰枣
+    zh_hans: 椰枣
+    zh_hant: 椰棗
+    zh_tw: 椰枣
 ---
 # [[Date_Palm]] 
 

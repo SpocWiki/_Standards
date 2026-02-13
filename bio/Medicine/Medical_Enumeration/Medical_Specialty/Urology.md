@@ -86,7 +86,7 @@ dv_has_:
     az: urologiya
     azb: اورولوژی
     be: уралогія
-    be-tarask: уралёгія
+    be_tarask: уралёгія
     bg: урология
     bn: বৃক্কশল্যবিদ্যা
     br: troazhadouriezh
@@ -120,11 +120,11 @@ dv_has_:
     jv: Urologi
     ka: უროლოგია
     kk: урология
-    kk-arab: ۋرولوگىييا
+    kk_arab: ۋرولوگىييا
     kk-cn: ۋرولوگىييا
-    kk-cyrl: урология
+    kk_cyrl: урология
     kk-kz: урология
-    kk-latn: wrologïya
+    kk_latn: wrologïya
     kk-tr: wrologïya
     ko: 비뇨기과
     ky: урология
@@ -162,12 +162,12 @@ dv_has_:
     sms: urologia
     sq: urologjia
     sr: урологија
-    sr-ec: урологија
-    sr-el: urologija
+    sr_ec: урологија
+    sr_el: urologija
     sv: urologi
     ta: சிறுநீரியல்
     tg: Мизроҳпизишкӣ
-    tg-latn: Mizrohpizişkī
+    tg_latn: Mizrohpizişkī
     th: วิทยาทางเดินปัสสาวะ
     tly: Urologijə
     tr: üroloji
@@ -183,12 +183,12 @@ dv_has_:
     xmf: უროლოგია
     yue: 泌尿科
     zh: 泌尿外科
-    zh-cn: 泌尿外科
-    zh-hans: 泌尿外科
-    zh-hant: 泌尿外科
-    zh-hk: 泌尿外科
-    zh-sg: 泌尿外科
-    zh-tw: 泌尿外科
+    zh_cn: 泌尿外科
+    zh_hans: 泌尿外科
+    zh_hant: 泌尿外科
+    zh_hk: 泌尿外科
+    zh_sg: 泌尿外科
+    zh_tw: 泌尿外科
 ---
 # [[Urology]] 
 

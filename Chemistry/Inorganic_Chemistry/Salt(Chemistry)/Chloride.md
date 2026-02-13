@@ -114,7 +114,7 @@ dv_has_:
     ast: cloruru
     azb: کولورید
     be: хларыды
-    be-tarask: хлярыд
+    be_tarask: хлярыд
     bg: хлорид
     bs: hlorid
     ca: clorur
@@ -165,8 +165,8 @@ dv_has_:
     sk: chlorid
     sl: klorid
     sr: хлорид
-    sr-ec: хлорид
-    sr-el: hlorid
+    sr_ec: хлорид
+    sr_el: hlorid
     sv: klorid
     ta: குளோரைடு
     th: คลอไรด์
@@ -177,7 +177,7 @@ dv_has_:
     vi: chloride
     yue: 氯化物
     zh: 氯化物
-    zh-hant: 氯化物
+    zh_hant: 氯化物
 ---
 # [[Chloride]] 
 

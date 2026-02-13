@@ -127,7 +127,7 @@ dv_has_:
     ast: Pactu Internacional de Derechos Civiles y Políticos
     az: Mülki və Siyasi Hüquqlar Haqqında Pakt
     be: Міжнародны пакт аб грамадзянскіх і палітычных правах
-    be-tarask: Міжнародны пакт аб грамадзянскіх і палітычных правах
+    be_tarask: Міжнародны пакт аб грамадзянскіх і палітычных правах
     bg: Международен пакт за гражданските и политическите права
     bn: নাগরিক ও রাজনৈতিক অধিকার বিষয়ক আন্তর্জাতিক চুক্তি
     ca: Pacte Internacional de Drets Civils i Polítics
@@ -185,14 +185,14 @@ dv_has_:
     wuu: 公民搭政治权利国际公约
     yue: 公民權利和政治權利國際公約
     zh: 公民权利及政治权利国际公约
-    zh-cn: 公民权利和政治权利国际公约
-    zh-hans: 公民权利及政治权利国际公约
-    zh-hant: 公民權利及政治權利國際公約
-    zh-hk: 公民權利及政治權利國際公約
-    zh-mo: 公民權利及政治權利國際公約
+    zh_cn: 公民权利和政治权利国际公约
+    zh_hans: 公民权利及政治权利国际公约
+    zh_hant: 公民權利及政治權利國際公約
+    zh_hk: 公民權利及政治權利國際公約
+    zh_mo: 公民權利及政治權利國際公約
     zh-my: 公民权利及政治权利国际公约
-    zh-sg: 公民权利及政治权利国际公约
-    zh-tw: 公民與政治權利國際公約
+    zh_sg: 公民权利及政治权利国际公约
+    zh_tw: 公民與政治權利國際公約
 ---
 # [[ICCPR(International_Covenant_on_Civil_and_Political_Rights)]] 
 

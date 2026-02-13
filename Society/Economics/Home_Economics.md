@@ -65,7 +65,7 @@ U_S_National_Archives_Identifier: 10640041
 dv_has_:
   name_:
     ar: اقتصاد منزلي
-    be-tarask: сямейнае і спажывецкае вядзеньне
+    be_tarask: сямейнае і спажывецкае вядзеньне
     bn: গার্হস্থ্য অর্থনীতি
     ca: Economia domèstica
     cy: Economeg y cartref
@@ -95,7 +95,7 @@ dv_has_:
     nn: mat og helse
     pnb: گھریلو معاشیات
     pt: Economia doméstica
-    pt-br: Economia doméstica
+    pt_br: Economia doméstica
     ru: экотрофология
     sl: gospodinjstvo
     stq: Huushollenge

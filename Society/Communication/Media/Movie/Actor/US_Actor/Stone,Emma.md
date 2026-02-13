@@ -50,7 +50,7 @@ dv_has_:
     bar: Emma Stone
     bcl: Emma Stone
     be: Эма Стоўн
-    be-tarask: Эма Стоўн
+    be_tarask: Эма Стоўн
     bg: Ема Стоун
     bi: Emma Stone
     bn: এমা স্টোন
@@ -68,8 +68,8 @@ dv_has_:
     dty: एम्मा स्टोन
     el: Έμα Στόουν
     en: Emma Stone
-    en-ca: Emma Stone
-    en-gb: Emma Stone
+    en_ca: Emma Stone
+    en_gb: Emma Stone
     eo: Emma Stone
     es: Emma Stone
     et: Emma Stone
@@ -129,7 +129,7 @@ dv_has_:
     pl: Emma Stone
     pms: Emma Stone
     pt: Emma Stone
-    pt-br: Emma Stone
+    pt_br: Emma Stone
     ro: Emma Stone
     ru: Эмма Стоун
     sc: Emma Stone
@@ -142,7 +142,7 @@ dv_has_:
     so: Emma Stone
     sq: Emma Stone
     sr: Ема Стоун
-    sr-ec: Ема Стоун
+    sr_ec: Ема Стоун
     sv: Emma Stone
     sw: Emma Stone
     ta: எம்மா ஸ்டோன்
@@ -160,13 +160,13 @@ dv_has_:
     yo: Emma Stone
     yue: 愛瑪史東
     zh: 艾瑪·史東
-    zh-cn: 艾玛·斯通
-    zh-hans: 艾玛·斯通
-    zh-hant: 艾瑪·史東
-    zh-hk: 愛瑪史東
+    zh_cn: 艾玛·斯通
+    zh_hans: 艾玛·斯通
+    zh_hant: 艾瑪·史東
+    zh_hk: 愛瑪史東
     zh-my: 艾玛·史东
-    zh-sg: 艾玛·史东
-    zh-tw: 艾瑪·史東
+    zh_sg: 艾玛·史东
+    zh_tw: 艾瑪·史東
 ---
 # [[Stone,Emma]]
 

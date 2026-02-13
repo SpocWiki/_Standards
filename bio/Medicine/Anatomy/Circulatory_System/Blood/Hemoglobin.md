@@ -107,7 +107,7 @@ dv_has_:
     ba: Гемоглобин
     bcl: Hemoglobin
     be: Гемаглабін
-    be-tarask: гемаглябін
+    be_tarask: гемаглябін
     bg: Хемоглобин
     bn: হিমোগ্লোবিন
     bs: hemoglobin
@@ -119,7 +119,7 @@ dv_has_:
     dv: ހިމަގްލޯބިން
     el: Αιμοσφαιρίνη
     en: hemoglobin
-    en-gb: haemoglobin
+    en_gb: haemoglobin
     eo: hemoglobino
     es: hemoglobina
     et: hemoglobiin
@@ -169,7 +169,7 @@ dv_has_:
     pnb: ہیموگلوبن
     ps: هيموګلوبين
     pt: hemoglobina
-    pt-br: hemoglobina
+    pt_br: hemoglobina
     qu: Yawar puka
     ro: hemoglobină
     ru: гемоглобины
@@ -186,7 +186,7 @@ dv_has_:
     sms: hemoglobiin
     sq: hemoglobina
     sr: хемоглобин
-    sr-ec: хемоглобин
+    sr_ec: хемоглобин
     su: Hémoglobin
     sv: hemoglobin
     ta: குருதிவளிக்காவி

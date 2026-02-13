@@ -66,7 +66,7 @@ dv_has_:
     ar: سكر ثنائي
     az: Disaxarid
     be: дыцукрыды
-    be-tarask: Дыцукрыды
+    be_tarask: Дыцукрыды
     bg: Дизахарид
     bn: দ্বি-শর্করা
     bs: Disaharidi
@@ -77,7 +77,7 @@ dv_has_:
     de: Disaccharide
     el: Δισακχαρίτης
     en: disaccharide
-    en-gb: disaccharide
+    en_gb: disaccharide
     eo: disaĥarido
     es: disacárido
     et: disahhariidid
@@ -97,11 +97,11 @@ dv_has_:
     it: disaccaride
     ja: 二糖
     kk: Дисахаридтер
-    kk-arab: دىيساحارىيدتەر
+    kk_arab: دىيساحارىيدتەر
     kk-cn: دىيساحارىيدتەر
-    kk-cyrl: Дисахаридтер
+    kk_cyrl: Дисахаридтер
     kk-kz: Дисахаридтер
-    kk-latn: Dïsaxarïdter
+    kk_latn: Dïsaxarïdter
     kk-tr: Dïsaxarïdter
     ko: 이당류
     ku: Dîsakkarîd
@@ -128,8 +128,8 @@ dv_has_:
     sms: disakkariid
     sq: Disakaridet
     sr: Disaharid
-    sr-ec: Дисахарид
-    sr-el: Disaharid
+    sr_ec: Дисахарид
+    sr_el: Disaharid
     sv: disackarid
     ta: இரட்டைச்சர்க்கரை
     th: ไดแซ็กคาไรด์
@@ -139,12 +139,12 @@ dv_has_:
     wuu: 双糖
     yue: 二糖
     zh: 雙醣
-    zh-cn: 双糖
-    zh-hans: 双糖
-    zh-hant: 雙醣
-    zh-hk: 雙醣
-    zh-sg: 双糖
-    zh-tw: 雙醣
+    zh_cn: 双糖
+    zh_hans: 双糖
+    zh_hant: 雙醣
+    zh_hk: 雙醣
+    zh_sg: 双糖
+    zh_tw: 雙醣
     zu: IsiNcithimbili
 ---
 #has_/parent_class :: [[Oligosaccharide]] 

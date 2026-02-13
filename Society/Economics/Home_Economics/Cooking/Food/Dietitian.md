@@ -81,7 +81,7 @@ dv_has_:
     af: dieetkundige
     ar: أخصائيو التغذية
     ast: dietista
-    be-tarask: дыетоляг
+    be_tarask: дыетоляг
     ca: dietista
     cs: dietolog
     cy: diategydd
@@ -132,9 +132,9 @@ dv_has_:
     vec: dietista
     yue: 營養師
     zh: 營養師
-    zh-hans: 营养师
-    zh-hant: 營養師
-    zh-hk: 營養師
+    zh_hans: 营养师
+    zh_hant: 營養師
+    zh_hk: 營養師
 ---
 # [[Dietitian]] 
 

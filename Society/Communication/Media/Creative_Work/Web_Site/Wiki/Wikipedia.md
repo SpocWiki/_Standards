@@ -594,7 +594,7 @@ dv_has_:
     bbc: Wikipedia
     bcl: Wikipidya
     be: Вікіпедыя
-    be-tarask: Вікіпэдыя
+    be_tarask: Вікіпэдыя
     bew: Wikipédi
     bg: Уикипедия
     bho: विकिपीडिया
@@ -611,7 +611,7 @@ dv_has_:
     bug: Wikipedia
     bxr: Википеэди
     ca: Viquipèdia
-    cbk-zam: Wikipedia
+    cbk_zam: Wikipedia
     cdo: Wikipedia
     ce: Википеди
     ceb: Wikipedya
@@ -622,7 +622,7 @@ dv_has_:
     co: Wikipedia
     cr: ᐎᑭᐱᑎᔭ
     crh: Vikipediya
-    crh-latn: Vikipediya
+    crh_latn: Vikipediya
     cs: Wikipedie
     csb: Wikipedijô
     cu: Википєдїꙗ
@@ -632,7 +632,7 @@ dv_has_:
     dag: Wikipidia
     de: Wikipedia
     de-at: Wikipedia
-    de-ch: Wikipedia
+    de_ch: Wikipedia
     diq: Wikipediya
     dsb: Wikipedija
     dtp: Wikipedia
@@ -643,8 +643,8 @@ dv_has_:
     el: Βικιπαίδεια
     eml: Vichipedìa
     en: Wikipedia
-    en-ca: Wikipedia
-    en-gb: Wikipedia
+    en_ca: Wikipedia
+    en_gb: Wikipedia
     en-us: Wikipedia
     eo: Vikipedio
     es: Wikipedia
@@ -728,7 +728,7 @@ dv_has_:
     ks: وِکیٖپیٖڈیا
     ksh: Wikkipedija
     ku: Wîkîpediya
-    ku-latn: Wîkîpediya
+    ku_latn: Wîkîpediya
     kw: Wikipedya
     ky: Википедия
     la: Vicipædia
@@ -752,7 +752,7 @@ dv_has_:
     lzh: 維基大典
     mad: Wikipèḍia
     mai: विकिपिडिया
-    map-bms: Wikipedia
+    map_bms: Wikipedia
     mdf: Википедие
     mg: Wikipedia
     mhr: Википедий
@@ -767,7 +767,7 @@ dv_has_:
     mr: विकिपीडिया
     mrj: Википеди
     ms: Wikipedia
-    ms-arab: ويکيڤيديا
+    ms_arab: ويکيڤيديا
     mt: Wikipedija
     mul: Wikipedia
     mwl: Biquipédia
@@ -780,7 +780,7 @@ dv_has_:
     nap: Wikipedia
     nb: Wikipedia
     nds: Wikipedia
-    nds-nl: Wikipedie
+    nds_nl: Wikipedie
     ne: विकिपीडिया
     new: विकिपिडिया
     ng: Wikipedia
@@ -815,7 +815,7 @@ dv_has_:
     prg: Wikipēdija
     ps: ويکيپېډيا
     pt: Wikipédia
-    pt-br: Wikipédia
+    pt_br: Wikipédia
     pwn: wikipidiya
     qu: Wikipidiya
     rki: ဝီကီးပီးဒီးယား
@@ -853,7 +853,7 @@ dv_has_:
     so: Wikipedia
     sq: Wikipedia
     sr: Википедија
-    sr-ec: Википедија
+    sr_ec: Википедија
     srn: Wikipedia
     ss: Wikipedia
     st: Wikipedia
@@ -871,7 +871,7 @@ dv_has_:
     te: వికీపీడియా
     tet: Wikipédia
     tg: Википедия
-    tg-cyrl: Википедиа
+    tg_cyrl: Википедиа
     th: วิกิพีเดีย
     ti: ዊኪፐድያ
     tig: ዊኪፒድያ
@@ -884,16 +884,16 @@ dv_has_:
     tr: Vikipedi
     ts: Wikipediya
     tt: Википедия
-    tt-cyrl: Википедия
-    tt-latn: Wikipedia
+    tt_cyrl: Википедия
+    tt_latn: Wikipedia
     tum: Wikipediya
     tw: Wikipedia
     ty: Vitipetia
     tyv: Википедия
     udm: Википедия
     ug: ۋىكىپېدىيە
-    ug-arab: ۋىكىپېدىيە
-    ug-latn: Wikipédiye
+    ug_arab: ۋىكىپېدىيە
+    ug_latn: Wikipédiye
     uk: Вікіпедія
     ur: ویکیپیڈیا
     uz: Vikipediya
@@ -918,14 +918,14 @@ dv_has_:
     zea: Wikipedia
     zgh: ⵡⵉⴽⵉⴱⵉⴷⵢⴰ
     zh: 維基百科
-    zh-cn: 维基百科
-    zh-hans: 维基百科
-    zh-hant: 維基百科
-    zh-hk: 維基百科
-    zh-mo: 維基百科
+    zh_cn: 维基百科
+    zh_hans: 维基百科
+    zh_hant: 維基百科
+    zh_hk: 維基百科
+    zh_mo: 維基百科
     zh-my: 维基百科
-    zh-sg: 维基百科
-    zh-tw: 維基百科
+    zh_sg: 维基百科
+    zh_tw: 維基百科
     zu: Wikipedia
 ---
 # [[Wikipedia]] 

@@ -192,7 +192,7 @@ dv_has_:
     az: Dərman qulançarı
     ba: Себен үләне
     be: Спаржа
-    be-tarask: спаржа лекавая
+    be_tarask: спаржа лекавая
     bg: обикновена аспержа
     bjn: Asparagus
     bn: শতমূলী
@@ -207,13 +207,13 @@ dv_has_:
     cv: Эмелле спаржа
     da: Almindelig Asparges
     de: Gemüsespargel
-    de-ch: Gemüsespargel
+    de_ch: Gemüsespargel
     diq: Melecu
     dsb: Gromak
     el: Σπαράγγι
     en: Asparagus officinalis
-    en-ca: Asparagus
-    en-gb: asparagus
+    en_ca: Asparagus
+    en_gb: asparagus
     eo: Asparago
     es: Asparagus officinalis
     et: harilik aspar
@@ -284,7 +284,7 @@ dv_has_:
     pcd: Aspérjhe
     pl: Szparag lekarski
     pt: espargo
-    pt-br: aspargo
+    pt_br: aspargo
     qu: Isparaw
     ro: Sparanghel
     roa-tara: asparaghe
@@ -318,9 +318,9 @@ dv_has_:
     yi: ספארזשע
     yue: 露筍
     zh: 芦笋
-    zh-cn: 芦笋
-    zh-hans: 芦笋
-    zh-tw: 蘆筍
+    zh_cn: 芦笋
+    zh_hans: 芦笋
+    zh_tw: 蘆筍
 ---
 # [[Asparagus]] 
 

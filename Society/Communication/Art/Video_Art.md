@@ -68,7 +68,7 @@ dv_has_:
     arz: فن الفيديو
     ast: Videoarte
     az: Video-art
-    be-tarask: відэамастацтва
+    be_tarask: відэамастацтва
     bg: видеоизкуство
     ca: videoart
     cs: videoart
@@ -103,7 +103,7 @@ dv_has_:
     pa: ਵੀਡਿਓ ਆਰਟ
     pl: sztuka wideo
     pt: videoarte
-    pt-br: videoarte
+    pt_br: videoarte
     ru: видеоарт
     se: videodáidda
     sh: Video umjetnost
@@ -112,8 +112,8 @@ dv_has_:
     smn: videotaaiđâ
     sms: videočeäppõs
     sr: видео умјетност
-    sr-ec: Видео умјетност
-    sr-el: Video umjetnost
+    sr_ec: Видео умјетност
+    sr_el: Video umjetnost
     sv: videokonst
     tr: video sanatı
     uk: відео-арт
@@ -121,10 +121,10 @@ dv_has_:
     wuu: 影像艺术
     yue: 錄像藝術
     zh: 視訊藝術
-    zh-cn: 视频艺术
-    zh-hans: 影像艺术
-    zh-hant: 影像藝術
-    zh-tw: 錄像藝術
+    zh_cn: 视频艺术
+    zh_hans: 影像艺术
+    zh_hant: 影像藝術
+    zh_tw: 錄像藝術
 ---
 # [[Video_Art]] 
 

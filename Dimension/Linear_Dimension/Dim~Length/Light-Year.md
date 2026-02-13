@@ -201,7 +201,7 @@ dv_has_:
     az: işıq ili
     azb: ایشیق ایلی
     be: светлавы год
-    be-tarask: сьветлавы год
+    be_tarask: сьветлавы год
     bg: ly
     bho: प्रकाश-बरिस
     bn: আলোক বর্ষ
@@ -217,8 +217,8 @@ dv_has_:
     el: έτος φωτός
     eml: an luś
     en: light-year
-    en-ca: light-year
-    en-gb: light-year
+    en_ca: light-year
+    en_gb: light-year
     eo: lumjaro
     es: año luz
     et: valgusaasta
@@ -283,7 +283,7 @@ dv_has_:
     nan: kong-liân
     nb: lysår
     nds: Lichtjohr
-    nds-nl: lechtjår
+    nds_nl: lechtjår
     ne: प्रकाश वर्ष
     nl: lichtjaar
     nn: lysår
@@ -300,7 +300,7 @@ dv_has_:
     pnb: نوری سال
     ps: لمریز کال
     pt: ano-luz
-    pt-br: ano(s)-luz
+    pt_br: ano(s)-luz
     qu: achkiy wata
     ro: an-lumină
     ru: световой год
@@ -320,7 +320,7 @@ dv_has_:
     so: sano Ilays
     sq: dritëviti
     sr: светлосна година
-    sr-ec: Светлосна година
+    sr_ec: Светлосна година
     stq: Luchtjier
     sv: ljusår
     sw: mwaka wa nuru
@@ -332,7 +332,7 @@ dv_has_:
     tl: sinag-taon
     tr: ışık yılı
     tt: яктылык елы
-    tt-cyrl: яктылык елы
+    tt_cyrl: яктылык елы
     udm: югыт ар
     uk: світловий рік
     ur: نوری سال
@@ -346,8 +346,8 @@ dv_has_:
     yi: ליכט יאר
     yue: 光年
     zh: 光年
-    zh-hans: 光年
-    zh-tw: 光年
+    zh_hans: 光年
+    zh_tw: 光年
     zu: ukukhanyabanga
 ---
 # [[Light-Year]] 

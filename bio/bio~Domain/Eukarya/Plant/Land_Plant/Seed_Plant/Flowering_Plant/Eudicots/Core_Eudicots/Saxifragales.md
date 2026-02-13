@@ -42,7 +42,7 @@ dv_has_:
     ast: Saxifragales
     az: Daşdələnçiçəklilər
     be: Каменяломнікакветныя
-    be-tarask: Каменяломнікакветныя
+    be_tarask: Каменяломнікакветныя
     bg: каменоломкоцветни
     bs: Saxifragales
     ca: Saxifragals
@@ -52,8 +52,8 @@ dv_has_:
     de: Steinbrechartige
     el: Σαξιφραγκώδη
     en: Saxifragales
-    en-ca: Saxifragales
-    en-gb: Saxifragales
+    en_ca: Saxifragales
+    en_gb: Saxifragales
     eo: Saksifragaloj
     es: Saxifragales
     et: Kivirikulaadsed
@@ -88,7 +88,7 @@ dv_has_:
     oc: Saxifragales
     pl: skalnicowce
     pt: Saxifragales
-    pt-br: Saxifragales
+    pt_br: Saxifragales
     ro: Saxifragales
     ru: камнеломкоцветные
     sco: Saxifragales
@@ -106,10 +106,10 @@ dv_has_:
     war: Saxifragales
     yue: 虎耳草目
     zh: 虎耳草目
-    zh-cn: 虎耳草目
-    zh-hans: 虎耳草目
-    zh-hant: 虎耳草目
-    zh-tw: 虎耳草目
+    zh_cn: 虎耳草目
+    zh_hans: 虎耳草目
+    zh_hant: 虎耳草目
+    zh_tw: 虎耳草目
 ---
 # [[Saxifragales]]  
 

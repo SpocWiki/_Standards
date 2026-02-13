@@ -121,7 +121,7 @@ dv_has_:
     ast: historia d'África
     bar: gschicht vo Afrika
     be: гісторыя Афрыкі
-    be-tarask: гісторыя Афрыкі
+    be_tarask: гісторыя Афрыкі
     bn: আফ্রিকার ইতিহাস
     ca: història d'Àfrica
     cs: dějiny Afriky
@@ -185,8 +185,8 @@ dv_has_:
     smn: Afrik historjá
     sms: Afriikk historia
     sr: историја Африке
-    sr-ec: историја Африке
-    sr-el: istorija Afrike
+    sr_ec: историја Африке
+    sr_el: istorija Afrike
     sv: Afrikas historia
     sw: Historia ya Afrika
     ta: ஆபிரிக்க வரலாறு
@@ -194,8 +194,8 @@ dv_has_:
     tr: Afrika tarihi
     ts: Matimu ya Afrika
     tt: Африка тарихы
-    tt-cyrl: Африка тарихы
-    tt-latn: Afrika tarixı
+    tt_cyrl: Африка тарихы
+    tt_latn: Afrika tarixı
     tum: Mbili ya Afilika
     uk: історія Африки
     ur: تاریخ افریقا
@@ -206,12 +206,12 @@ dv_has_:
     yo: Ìtàn ilẹ̀ Áfríkà
     yue: 非洲史
     zh: 非洲历史
-    zh-cn: 非洲历史
-    zh-hans: 非洲史
-    zh-hant: 非洲史
-    zh-hk: 非洲史
-    zh-sg: 非洲史
-    zh-tw: 非洲史
+    zh_cn: 非洲历史
+    zh_hans: 非洲史
+    zh_hant: 非洲史
+    zh_hk: 非洲史
+    zh_sg: 非洲史
+    zh_tw: 非洲史
 ---
 # [[History_of_Africa]] 
 

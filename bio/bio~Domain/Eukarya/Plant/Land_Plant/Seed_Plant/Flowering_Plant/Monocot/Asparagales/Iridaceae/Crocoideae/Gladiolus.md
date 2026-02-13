@@ -117,7 +117,7 @@ dv_has_:
     azb: قلادیولوس
     ba: Бойҙагөл
     be: Гладыёлус
-    be-tarask: глядыёлюс
+    be_tarask: глядыёлюс
     bg: гладиола
     bn: গ্ল্যাডিওলাস
     bs: Gladiola
@@ -156,16 +156,16 @@ dv_has_:
     ka: ხმალა
     kab: Tagertilt wuccen
     kk: Гладиолус
-    kk-arab: گلادىيولۋس
+    kk_arab: گلادىيولۋس
     kk-cn: گلادىيولۋس
-    kk-cyrl: Гладиолус
+    kk_cyrl: Гладиолус
     kk-kz: Гладиолус
-    kk-latn: Gladïolws
+    kk_latn: Gladïolws
     kk-tr: Gladïolws
     ko: 글라디올러스
     ku: Gihaşimşîr
-    ku-arab: گهاشمشیر
-    ku-latn: Gihaşimşîr
+    ku_arab: گهاشمشیر
+    ku_latn: Gihaşimşîr
     ky: Гладилоус
     la: Gladiolus
     lfn: Gladiolo
@@ -189,7 +189,7 @@ dv_has_:
     pl: Mieczyk
     pnb: گلیڈیولس
     pt: Gladiolus
-    pt-br: Gladiolus
+    pt_br: Gladiolus
     ro: Gladiolus
     ru: Гладиолус
     sco: Gladiolus
@@ -214,12 +214,12 @@ dv_has_:
     wuu: 唐菖蒲属
     yue: 劍蘭
     zh: 唐菖蒲属
-    zh-cn: 唐菖蒲属
-    zh-hans: 唐菖蒲属
-    zh-hant: 唐菖蒲屬
-    zh-hk: 唐菖蒲屬
-    zh-sg: 唐菖蒲属
-    zh-tw: 唐菖蒲屬
+    zh_cn: 唐菖蒲属
+    zh_hans: 唐菖蒲属
+    zh_hant: 唐菖蒲屬
+    zh_hk: 唐菖蒲屬
+    zh_sg: 唐菖蒲属
+    zh_tw: 唐菖蒲屬
 ---
 # [[Gladiolus]] 
 

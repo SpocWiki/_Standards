@@ -109,7 +109,7 @@ dv_has_:
     az: Himn
     ba: Гимн
     be: гімн
-    be-tarask: гімн
+    be_tarask: гімн
     bg: Химн
     bn: স্তোত্র
     bs: himna
@@ -152,7 +152,7 @@ dv_has_:
     ko: 찬가
     krc: Гимн
     ku: beyt
-    ku-latn: beyt
+    ku_latn: beyt
     ky: Гимн
     la: hymnus
     lb: Hymn
@@ -177,7 +177,7 @@ dv_has_:
     pl: hymn
     pnb: مناجات
     pt: hino
-    pt-br: hino
+    pt_br: hino
     ro: imn
     rsk: Гимна
     ru: гимн
@@ -196,7 +196,7 @@ dv_has_:
     tl: Himno
     tr: ilahi
     tt: һимн
-    tt-cyrl: һимн
+    tt_cyrl: һимн
     udm: Гимн
     uk: гімн
     ur: مناجات
@@ -208,10 +208,10 @@ dv_has_:
     yo: orin-ìjọ
     yue: 聖詩
     zh: 讚美詩
-    zh-hans: 圣诗
-    zh-hant: 讚美詩
-    zh-hk: 聖詩
-    zh-tw: 讚美詩
+    zh_hans: 圣诗
+    zh_hant: 讚美詩
+    zh_hk: 聖詩
+    zh_tw: 讚美詩
 ---
 # [[Hymn]] 
 

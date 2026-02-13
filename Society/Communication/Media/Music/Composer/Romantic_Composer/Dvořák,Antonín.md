@@ -233,7 +233,7 @@ dv_has_:
     ba: Антонин Дворжак
     bar: Antonín Dvořák
     be: Антанін Леапольд Дворжак
-    be-tarask: Антанін Леапольд Дворжак
+    be_tarask: Антанін Леапольд Дворжак
     bg: Антонин Дворжак
     bn: আন্তনিন দ্ভরাক
     br: Antonín Dvořák
@@ -254,8 +254,8 @@ dv_has_:
     diq: Antonín Dvořák
     el: Αντονίν Ντβορζάκ
     en: Antonín Dvořák
-    en-ca: Antonín Dvořák
-    en-gb: Antonín Dvořák
+    en_ca: Antonín Dvořák
+    en_gb: Antonín Dvořák
     eo: Antonín Dvořák
     es: Antonín Dvořák
     et: Antonín Dvořák
@@ -322,7 +322,7 @@ dv_has_:
     pms: Antonín Dvořák
     pnb: انتونين دفوراك
     pt: Antonín Dvořák
-    pt-br: Antonín Dvořák
+    pt_br: Antonín Dvořák
     qu: Antonín Dvořák
     ro: Antonín Dvořák
     ru: Антонин Дворжак
@@ -357,8 +357,8 @@ dv_has_:
     yi: אנטאנין דווארזשאק
     yue: 德伏札克
     zh: 安东宁·德沃夏克
-    zh-cn: 安东宁·德沃夏克
-    zh-tw: 安東寧·德弗札克
+    zh_cn: 安东宁·德沃夏克
+    zh_tw: 安東寧·德弗札克
 ---
 # [[Dvořák,Antonín]] 
 

@@ -81,7 +81,7 @@ dv_has_:
     ar: قوانين الحرب
     ast: Lleis de la guerra
     be: законы вайны
-    be-tarask: закон вайны
+    be_tarask: закон вайны
     br: gwir ar brezel
     ca: dret de guerra
     ckb: یاسای شەڕ
@@ -91,8 +91,8 @@ dv_has_:
     dsb: wójnske pšawo
     el: Δίκαιο του πολέμου
     en: law of war
-    en-ca: Law of war
-    en-gb: Law of war
+    en_ca: Law of war
+    en_gb: Law of war
     eo: milita juro
     es: leyes de guerra
     eu: gerrako lege
@@ -116,7 +116,7 @@ dv_has_:
     nl: oorlogsrecht
     oc: Lèis de la guèrra
     pt: direito de guerra
-    pt-br: Direito de guerra
+    pt_br: Direito de guerra
     ro: Dreptul războiului
     ru: законы войны
     sk: Vojnové právo
@@ -130,7 +130,7 @@ dv_has_:
     vi: Luật chiến tranh
     yi: קריג'ס געזעצן
     zh: 战争法
-    zh-tw: 戰爭法
+    zh_tw: 戰爭法
 ---
 # [[Law_of_War]] 
 

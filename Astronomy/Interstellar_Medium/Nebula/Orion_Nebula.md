@@ -144,7 +144,7 @@ dv_has_:
     ast: nebulosa d'Orión
     az: Orion dumanlığı
     be: Туманнасць Арыёна
-    be-tarask: Туманнасьць Арыёна
+    be_tarask: Туманнасьць Арыёна
     bjn: Nebula Orion
     bn: কালপুরুষ নীহারিকা
     br: Nivlennad Orion
@@ -153,10 +153,10 @@ dv_has_:
     cy: Nifwl Mawr Orion
     da: Oriontågen
     de: Orionnebel
-    de-ch: Grosser Orionnebel
+    de_ch: Grosser Orionnebel
     el: Νεφέλωμα του Ωρίωνα
     en: Orion Nebula
-    en-gb: Orion Nebula
+    en_gb: Orion Nebula
     eo: Nebulozo de Oriono
     es: Orión nebulosa
     et: Orioni udu

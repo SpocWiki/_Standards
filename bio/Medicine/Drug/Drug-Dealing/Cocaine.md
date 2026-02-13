@@ -244,7 +244,7 @@ dv_has_:
     az: kokain
     bcl: Cocaine
     be: Какаін
-    be-tarask: Какаін
+    be_tarask: Какаін
     bg: Кокаин
     bn: কোকেইন
     bs: Kokain
@@ -256,7 +256,7 @@ dv_has_:
     de: Kokain
     el: κοκαΐνη
     en: cocaine
-    en-gb: cocaine
+    en_gb: cocaine
     eo: kokaino
     es: cocaína
     et: Kokaiin

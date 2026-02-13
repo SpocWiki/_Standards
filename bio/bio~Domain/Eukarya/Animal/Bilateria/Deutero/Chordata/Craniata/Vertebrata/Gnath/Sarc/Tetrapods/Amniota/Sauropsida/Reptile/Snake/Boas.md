@@ -91,7 +91,7 @@ dv_has_:
     azb: یاتاغانلار
     bcl: Sawa
     be: удавообразные
-    be-tarask: удаў
+    be_tarask: удаў
     bg: боидни
     br: Boidae
     ca: Boids
@@ -146,7 +146,7 @@ dv_has_:
     pl: dusicielowate
     pnb: بوا سپ
     pt: Boidae
-    pt-br: Boidae
+    pt_br: Boidae
     qu: Amaru
     ro: Boidae
     ru: ложноногие
@@ -167,9 +167,9 @@ dv_has_:
     wuu: 蚺科
     yue: 蚺蛇
     zh: 蚺科
-    zh-cn: 蚺科
-    zh-hans: 蚺科
-    zh-tw: 蚺科
+    zh_cn: 蚺科
+    zh_hans: 蚺科
+    zh_tw: 蚺科
 ---
 # [[Boas]] 
 

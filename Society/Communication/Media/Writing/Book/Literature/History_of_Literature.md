@@ -93,7 +93,7 @@ dv_has_:
     ast: Historia de la lliteratura
     az: ədəbiyyat tarixi
     be: гісторыя літаратуры
-    be-tarask: гісторыя літаратуры
+    be_tarask: гісторыя літаратуры
     bg: История на литературата
     bn: সাহিত্যের ইতিহাস
     ca: història de la literatura
@@ -156,8 +156,8 @@ dv_has_:
     sms: ǩeerjlažvuõđ historia
     sq: Histori e letërsisë
     sr: историја књижевности
-    sr-ec: историја књижевности
-    sr-el: istorija književnosti
+    sr_ec: историја књижевности
+    sr_el: istorija književnosti
     sv: litteraturhistoria
     ta: இலக்கிய வரலாறு
     th: ok
@@ -169,7 +169,7 @@ dv_has_:
     yo: ìtàn lítíréṣọ̀
     yue: 文學史
     zh: 文学史
-    zh-hant: 文學史
+    zh_hant: 文學史
 ---
 # [[History_of_Literature]] 
 

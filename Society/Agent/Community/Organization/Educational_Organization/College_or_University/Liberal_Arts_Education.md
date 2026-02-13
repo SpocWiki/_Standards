@@ -91,7 +91,7 @@ dv_has_:
     az: Liberal sənət təhsili
     ba: ирекле ете сәнғәт
     be: Сем вольных мастацтваў
-    be-tarask: сем вольных мастацтваў
+    be_tarask: сем вольных мастацтваў
     ca: arts liberals
     cs: sedm svobodných umění
     cv: Ирĕклĕ çичĕ ӳнер
@@ -100,7 +100,7 @@ dv_has_:
     de: Sieben freie Künste
     el: ελευθέριες τέχνες
     en: liberal arts education
-    en-gb: liberal arts education
+    en_gb: liberal arts education
     eo: sep liberaj artoj
     es: artes liberales
     et: Vabad kunstid
@@ -140,8 +140,8 @@ dv_has_:
     sl: sedem svobodnih ved
     sq: Shtatë artet e lira
     sr: Седам слободних вештина
-    sr-ec: Седам слободних вештина
-    sr-el: Sedam slobodnih veština
+    sr_ec: Седам слободних вештина
+    sr_el: Sedam slobodnih veština
     sv: de fria konsterna
     th: ศิลปศาสตร์
     tr: Yedi özgür sanat
@@ -152,12 +152,12 @@ dv_has_:
     wuu: 通识教育
     yue: 博雅教育
     zh: 博雅教育
-    zh-cn: 博雅教育
-    zh-hans: 博雅教育
-    zh-hant: 博雅教育
-    zh-hk: 博雅教育
-    zh-sg: 博雅教育
-    zh-tw: 博雅教育
+    zh_cn: 博雅教育
+    zh_hans: 博雅教育
+    zh_hant: 博雅教育
+    zh_hk: 博雅教育
+    zh_sg: 博雅教育
+    zh_tw: 博雅教育
 ---
 # [[Liberal_Arts_Education]] 
 

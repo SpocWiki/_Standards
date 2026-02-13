@@ -179,7 +179,7 @@ dv_has_:
     azb: نیکولا ماکیاولی
     ba: Никколо Макиавелли
     be: Нікола Макіявелі
-    be-tarask: Нікалё Мак’явэльлі
+    be_tarask: Нікалё Мак’явэльлі
     bg: Николо Макиавели
     bho: निकोलो मैकियावेली
     bi: Niccolò Machiavelli
@@ -197,12 +197,12 @@ dv_has_:
     cy: Niccolò Machiavelli
     da: Niccolò Machiavelli
     de: Niccolò Machiavelli
-    de-ch: Niccolò Machiavelli
+    de_ch: Niccolò Machiavelli
     diq: Niccolò Machiavelli
     el: Νικολό Μακιαβέλι
     en: Niccolò Machiavelli
-    en-ca: Niccolò Machiavelli
-    en-gb: Niccolò Machiavelli
+    en_ca: Niccolò Machiavelli
+    en_gb: Niccolò Machiavelli
     en-us: Niccolò Machiavelli
     eo: Makiavelo
     es: Nicolás Maquiavelo
@@ -282,7 +282,7 @@ dv_has_:
     pnb: نکولو مکیاولی
     ps: نېكولو مكياوېلې
     pt: Nicolau Maquiavel
-    pt-br: Nicolau Maquiavel
+    pt_br: Nicolau Maquiavel
     qu: Niccolo Machiavelli
     ro: Niccolò Machiavelli
     ru: Никколо Макиавелли
@@ -327,8 +327,8 @@ dv_has_:
     yo: Niccolò Machiavelli
     yue: 馬基維利
     zh: 尼可罗·马基亚维利
-    zh-cn: 尼科洛·马基雅维利
-    zh-hans: 尼科洛·马基雅维利
+    zh_cn: 尼科洛·马基雅维利
+    zh_hans: 尼科洛·马基雅维利
 ---
 # [[Machiavelli,Niccolò]] 
 

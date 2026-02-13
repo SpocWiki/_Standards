@@ -73,7 +73,7 @@ dv_has_:
     as: ষ্ট্ৰেইঞ্জ কোৱাৰ্ক
     ast: quark estrañu
     be: s-кварк
-    be-tarask: s-кварк
+    be_tarask: s-кварк
     bg: странен кварк
     bn: স্ট্রেঞ্জ কোয়ার্ক
     ca: quark s
@@ -81,8 +81,8 @@ dv_has_:
     da: strange-kvark
     de: Strange-Quark
     en: strange quark
-    en-ca: strange quark
-    en-gb: strange quark
+    en_ca: strange quark
+    en_gb: strange quark
     eo: s-kvarko
     es: cuark extraño
     et: s-kvark
@@ -114,7 +114,7 @@ dv_has_:
     pl: kwark dziwny
     pnb: وکھرا کوارک
     pt: quark strange
-    pt-br: quark strange
+    pt_br: quark strange
     ru: s-кварк
     sh: strani kvark
     sk: podivný kvark

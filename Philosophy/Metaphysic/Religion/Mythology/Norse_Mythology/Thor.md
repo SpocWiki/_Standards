@@ -14,7 +14,7 @@ dv_has_:
     bar: Donar
     bcl: Thor
     be: Тор
-    be-tarask: Тор
+    be_tarask: Тор
     bg: Тор
     bn: থর
     br: Thor
@@ -27,8 +27,8 @@ dv_has_:
     dtp: Thor
     el: Θωρ
     en: Thor
-    en-ca: Thor
-    en-gb: Thor
+    en_ca: Thor
+    en_gb: Thor
     eo: Toro
     es: Thor
     et: Thor
@@ -60,7 +60,7 @@ dv_has_:
     ko: 토르
     ksh: Thor
     ku: Tor
-    ku-latn: Tor
+    ku_latn: Tor
     la: Thorus
     lb: Thor
     lfn: Tor
@@ -75,7 +75,7 @@ dv_has_:
     my: သော်
     nan: Thor
     nb: Tor
-    nds-nl: Donar
+    nds_nl: Donar
     new: थोर
     nl: Thor
     nn: Tor
@@ -84,7 +84,7 @@ dv_has_:
     pa: ਥੌਰ
     pl: Thor
     pt: Thor
-    pt-br: Thor
+    pt_br: Thor
     ro: Thor
     ru: Тор
     sco: Thor
@@ -94,7 +94,7 @@ dv_has_:
     sl: Thor
     sq: Thori
     sr: Тор
-    sr-ec: Тор
+    sr_ec: Тор
     stq: Thuner
     sv: Tor
     sw: Thor
@@ -104,7 +104,7 @@ dv_has_:
     tok: jan sewi To
     tr: Thor
     tt: Тор
-    tt-cyrl: Тор
+    tt_cyrl: Тор
     uk: Тор
     uz: Thor
     vi: Thor
@@ -113,10 +113,10 @@ dv_has_:
     wuu: 索尔
     yue: 托爾
     zh: 索尔
-    zh-cn: 托尔
-    zh-hant: 索爾
-    zh-hk: 霍爾
-    zh-tw: 索爾
+    zh_cn: 托尔
+    zh_hant: 索爾
+    zh_hk: 霍爾
+    zh_tw: 索爾
 aliases:
 - Donar
 - jan sewi To

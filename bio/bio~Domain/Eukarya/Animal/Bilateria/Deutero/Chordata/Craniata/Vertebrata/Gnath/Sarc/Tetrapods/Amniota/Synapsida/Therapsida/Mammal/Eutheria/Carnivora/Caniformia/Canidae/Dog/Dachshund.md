@@ -81,7 +81,7 @@ dv_has_:
     arz: داشهند
     ast: Dachshund
     be: Такса
-    be-tarask: такса
+    be_tarask: такса
     bg: Дакел
     bs: Jazavčar
     ca: teckel
@@ -91,8 +91,8 @@ dv_has_:
     da: gravhund
     de: Dackel
     en: dachshund
-    en-ca: Dachshund
-    en-gb: dachshund
+    en_ca: Dachshund
+    en_gb: dachshund
     eo: melhundo
     es: Dachshund
     et: Taks
@@ -145,9 +145,9 @@ dv_has_:
     wuu: 腊肠犬
     yue: 臘腸狗
     zh: 腊肠犬
-    zh-cn: 腊肠犬
-    zh-hans: 腊肠犬
-    zh-hant: 腊肠犬
+    zh_cn: 腊肠犬
+    zh_hans: 腊肠犬
+    zh_hant: 腊肠犬
 ---
 # [[Dachshund]] 
 

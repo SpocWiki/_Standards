@@ -102,7 +102,7 @@ dv_has_:
     ast: Marian Anderson
     ba: Мариан Андерсон
     bar: Marian Anderson
-    be-tarask: Мэрыян Андэрсан
+    be_tarask: Мэрыян Андэрсан
     bg: Мариан Андерсън
     br: Marian Anderson
     ca: Marian Anderson
@@ -112,13 +112,13 @@ dv_has_:
     da: Marian Anderson
     de: Marian Anderson
     de-at: Marian Anderson
-    de-ch: Marian Anderson
+    de_ch: Marian Anderson
     diq: Marian Anderson
     ee: Marian Anderson
     el: Μάριαν Άντερσον
     en: Marian Anderson
-    en-ca: Marian Anderson
-    en-gb: Marian Anderson
+    en_ca: Marian Anderson
+    en_gb: Marian Anderson
     eo: Marian Anderson
     es: Marian Anderson
     et: Marian Anderson
@@ -160,7 +160,7 @@ dv_has_:
     nap: Marian Anderson
     nb: Marian Anderson
     nds: Marian Anderson
-    nds-nl: Marian Anderson
+    nds_nl: Marian Anderson
     nl: Marian Anderson
     nn: Marian Anderson
     nrm: Marian Anderson
@@ -172,7 +172,7 @@ dv_has_:
     pl: Marian Anderson
     pms: Marian Anderson
     pt: Marian Anderson
-    pt-br: Marian Anderson
+    pt_br: Marian Anderson
     rm: Marian Anderson
     ro: Marian Anderson
     ru: Мариан Андерсон
@@ -183,7 +183,7 @@ dv_has_:
     sl: Marian Anderson
     sq: Marian Anderson
     sr: Marijan Anderson
-    sr-el: Marian Anderson
+    sr_el: Marian Anderson
     sv: Marian Anderson
     sw: Marian Anderson
     ta: மரியன் ஆண்டர்சன்
@@ -198,7 +198,7 @@ dv_has_:
     wo: Marian Anderson
     yue: 瑪麗安安德森
     zh: 瑪麗安·安德森
-    zh-hant: chian
+    zh_hant: chian
     zu: Marian Anderson
 ---
 # [[Anderson,Marian]] 

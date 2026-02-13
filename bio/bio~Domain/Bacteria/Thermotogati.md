@@ -25,12 +25,12 @@ dv_has_:
     oc: Thermotogati
     pl: Thermotogati
     pt: Thermotogati
-    pt-br: Thermotogati
+    pt_br: Thermotogati
     ru: Thermotogati
     vo: Thermotogati
     zh: 热袍菌界
-    zh-cn: 热袍菌界
-    zh-tw: 熱袍菌界
+    zh_cn: 热袍菌界
+    zh_tw: 熱袍菌界
 aliases:
 - Thermotogati
 - テルモトガ界

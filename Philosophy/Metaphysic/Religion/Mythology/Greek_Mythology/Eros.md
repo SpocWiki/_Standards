@@ -109,7 +109,7 @@ dv_has_:
     bar: Eros
     bcl: Eros (mitolohiya)
     be: Эрот
-    be-tarask: Эрас
+    be_tarask: Эрас
     bg: Ерос
     bn: এরস
     br: Eros
@@ -148,7 +148,7 @@ dv_has_:
     kk: Эрот
     ko: 에로스
     ku: Eros
-    ku-latn: Eros
+    ku_latn: Eros
     la: Eros
     lb: Eros
     lt: Erotas
@@ -163,7 +163,7 @@ dv_has_:
     pa: ਈਰੋਸ
     pl: Eros
     pt: Eros
-    pt-br: Eros
+    pt_br: Eros
     ro: Eros
     ru: Эрот
     sat: ᱤᱨᱚᱥ
@@ -174,8 +174,8 @@ dv_has_:
     sl: Eros
     sq: Erosi
     sr: Ерос
-    sr-ec: Ерос
-    sr-el: Eros
+    sr_ec: Ерос
+    sr_el: Eros
     sv: Eros
     ta: எரோஸ்
     tg: Амур (худои муҳаббат)
@@ -192,12 +192,12 @@ dv_has_:
     wuu: 厄洛斯
     yue: 厄洛斯
     zh: 厄洛斯
-    zh-cn: 厄洛斯
-    zh-hans: 厄洛斯
-    zh-hant: 厄洛斯
-    zh-hk: 厄洛斯
-    zh-sg: 厄洛斯
-    zh-tw: 厄洛斯
+    zh_cn: 厄洛斯
+    zh_hans: 厄洛斯
+    zh_hant: 厄洛斯
+    zh_hk: 厄洛斯
+    zh_sg: 厄洛斯
+    zh_tw: 厄洛斯
 ---
 # [[Eros]] 
 

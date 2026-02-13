@@ -78,7 +78,7 @@ dv_has_:
     arz: اوضة السفره
     ast: Comedor
     ba: ашхана
-    be-tarask: ядальня
+    be_tarask: ядальня
     bg: Трапезария
     ca: menjador
     cs: jídelna
@@ -101,9 +101,9 @@ dv_has_:
     ja: 食堂
     jv: Gandhok
     kk: Асхана
-    kk-arab: اسحانا
-    kk-cyrl: Асхана
-    kk-latn: Asxana
+    kk_arab: اسحانا
+    kk_cyrl: Асхана
+    kk_latn: Asxana
     ko: 식당
     lb: Iesszëmmer
     lv: ēdamistaba
@@ -114,7 +114,7 @@ dv_has_:
     nl: eetkamer
     pl: jadalnia
     pt: sala de jantar
-    pt-br: sala de jantar
+    pt_br: sala de jantar
     ro: Sufragerie
     ru: столовая комната
     sh: trpezarija
@@ -122,8 +122,8 @@ dv_has_:
     sl: jedilnica
     so: Qolka cuntada
     sr: трпезарија
-    sr-ec: трпезарија
-    sr-el: trpezarija
+    sr_ec: трпезарија
+    sr_el: trpezarija
     sv: matsal
     ta: சாப்பாட்டறை
     te: భోజనశాల
@@ -131,7 +131,7 @@ dv_has_:
     tl: Silid-kainan
     tr: yemek odası
     tt: аш бүлмәсе
-    tt-cyrl: аш бүлмәсе
+    tt_cyrl: аш бүлмәсе
     uk: їдальня
     uz: ovqatlanish xonalari
     vec: sała de magnar
@@ -139,14 +139,14 @@ dv_has_:
     yo: ìyàrá oúnjẹ
     yue: 飯廳
     zh: 飯廳
-    zh-cn: 饭厅
-    zh-hans: 饭厅
-    zh-hant: 飯廳
-    zh-hk: 飯廳
-    zh-mo: 飯廳
+    zh_cn: 饭厅
+    zh_hans: 饭厅
+    zh_hant: 飯廳
+    zh_hk: 飯廳
+    zh_mo: 飯廳
     zh-my: 饭厅
-    zh-sg: 饭厅
-    zh-tw: 飯廳
+    zh_sg: 饭厅
+    zh_tw: 飯廳
 ---
 # [[Dining_Room]] 
 

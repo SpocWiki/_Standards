@@ -104,7 +104,7 @@ dv_has_:
     af: Hiades
     ar: القلائص
     be: Гіяды
-    be-tarask: Гіяды
+    be_tarask: Гіяды
     ca: Híades
     cs: Hyády
     da: Hyaderne

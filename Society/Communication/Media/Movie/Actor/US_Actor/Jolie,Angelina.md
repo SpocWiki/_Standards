@@ -69,14 +69,14 @@ dv_has_:
     azb: آنجلینا جولی
     bcl: Angelina Jolie
     be: Анджэліна Джалі
-    be-tarask: Анджэліна Джалі
+    be_tarask: Анджэліна Джалі
     bg: Анджелина Джоли
     bn: অ্যাঞ্জেলিনা জোলি
     bo: ཨན་ཇེ་ལི་ནའ་ཇོའོ་ལི།
     br: Angelina Jolie
     bs: Angelina Jolie
     ca: Angelina Jolie
-    cbk-zam: Angelina Jolie
+    cbk_zam: Angelina Jolie
     ce: Анджелина Джоли
     ceb: Angelina Jolie
     ckb: ئەنجلینا جۆولی
@@ -86,15 +86,15 @@ dv_has_:
     cy: Angelina Jolie
     da: Angelina Jolie
     de: Angelina Jolie
-    de-ch: Angelina Jolie
+    de_ch: Angelina Jolie
     diq: Angelina Jolie
     dtp: Angelina Jolie
     dty: एन्जेलिना जोली
     el: Αντζελίνα Τζολί
     eml: Angelina Jolie
     en: Angelina Jolie
-    en-ca: Angelina Jolie
-    en-gb: Angelina Jolie
+    en_ca: Angelina Jolie
+    en_gb: Angelina Jolie
     eo: Angelina Jolie
     es: Angelina Jolie
     et: Angelina Jolie
@@ -166,7 +166,7 @@ dv_has_:
     pnb: انجلینا جولی
     ps: انجلينا جولي
     pt: Angelina Jolie
-    pt-br: Angelina Jolie
+    pt_br: Angelina Jolie
     ro: Angelina Jolie
     ru: Анджелина Джоли
     sat: ᱟᱧᱡᱮᱞᱤᱱᱟ ᱡᱳᱞᱤ
@@ -205,14 +205,14 @@ dv_has_:
     yo: Angelina Jolie
     yue: 安祖蓮娜祖莉
     zh: 安吉丽娜·朱莉
-    zh-cn: 安吉丽娜·朱莉
-    zh-hans: 安吉丽娜·朱莉
-    zh-hant: 安吉麗娜·朱莉
-    zh-hk: 安祖蓮娜祖莉
-    zh-mo: 安祖蓮娜祖莉
+    zh_cn: 安吉丽娜·朱莉
+    zh_hans: 安吉丽娜·朱莉
+    zh_hant: 安吉麗娜·朱莉
+    zh_hk: 安祖蓮娜祖莉
+    zh_mo: 安祖蓮娜祖莉
     zh-my: 安祖莲娜·祖莉
-    zh-sg: 安吉丽娜·卓莉
-    zh-tw: 安潔莉娜·裘莉
+    zh_sg: 安吉丽娜·卓莉
+    zh_tw: 安潔莉娜·裘莉
 ---
 #has_/time_/started :: 1975-06-04 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

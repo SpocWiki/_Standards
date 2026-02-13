@@ -286,7 +286,7 @@ dv_has_:
     as: বসু-আইনষ্টাইন ঘনীভৱন
     ast: entestáu de Bose-Einstein
     bcl: kondensadang Bose-Einstein
-    be-tarask: кандэнсат Бозэ—Айнштайна
+    be_tarask: кандэнсат Бозэ—Айнштайна
     bg: Бозе-Айнщайнова кондензация
     bn: বোস-আইনস্টাইন ঘনীভবন
     ca: condensat de Bose-Einstein
@@ -338,8 +338,8 @@ dv_has_:
     sk: Boseho-Einsteinov kondenzát
     sl: Bose-Einsteinov kondenzat
     sr: Бозе-Ајнштајнов кондензат
-    sr-ec: Бозе-Ајнштајнов кондензат
-    sr-el: Boze-Ajnštajnov kondenzat
+    sr_ec: Бозе-Ајнштајнов кондензат
+    sr_el: Boze-Ajnštajnov kondenzat
     sv: Bose–Einstein-kondensat
     ta: போசு-ஐன்ஸ்டைன் செறிபொருள்
     th: ของเหลวผลควบแน่นโบส–ไอน์สไตน์
@@ -352,8 +352,8 @@ dv_has_:
     wuu: 玻色–爱因斯坦凝聚
     yue: 玻色–愛因斯坦凝聚態
     zh: 玻色–爱因斯坦凝聚
-    zh-hans: 玻色–爱因斯坦凝聚
-    zh-hant: 玻色–愛因斯坦凝聚
+    zh_hans: 玻色–爱因斯坦凝聚
+    zh_hant: 玻色–愛因斯坦凝聚
 ---
 # [[Bose–Einstein_Condensate]] 
 

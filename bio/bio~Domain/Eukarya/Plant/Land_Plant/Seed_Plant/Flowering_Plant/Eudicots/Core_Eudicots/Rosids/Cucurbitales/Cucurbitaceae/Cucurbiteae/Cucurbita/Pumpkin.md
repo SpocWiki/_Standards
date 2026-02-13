@@ -15,7 +15,7 @@ dv_has_:
     azb: بورانی
     ban: Tabu
     be: гарбуз
-    be-tarask: гарбуз
+    be_tarask: гарбуз
     bg: тиква
     bho: कोंहड़ा
     bjn: Waluh
@@ -30,14 +30,14 @@ dv_has_:
     cy: pwmpen
     da: græskar
     de: Kürbis
-    de-ch: Kürbisse
+    de_ch: Kürbisse
     dv: ބަރަބޯ
     dz: ཀ་ཀུ་རུ
     el: Κολοκύθα
     eml: Süca
     en: pumpkin
-    en-ca: Pumpkin
-    en-gb: pumpkin
+    en_ca: Pumpkin
+    en_gb: pumpkin
     eo: kukurbo
     es: calabaza gigante
     et: kõrvits
@@ -75,8 +75,8 @@ dv_has_:
     ko: 호박
     ks: مشأدؠ ال
     ku: Kundir
-    ku-arab: کوندر
-    ku-latn: Kundir
+    ku_arab: کوندر
+    ku_latn: Kundir
     la: Cucurbita
     lb: Kalbass
     lt: Moliūgas
@@ -85,7 +85,7 @@ dv_has_:
     mni: ꯃꯥꯢꯔꯦꯟ
     mr: भोपळा
     ms: labu manis
-    ms-arab: لابو
+    ms_arab: لابو
     mt: qargħa ħamra
     my: ဖရုံသီး
     nah: Ayohtli
@@ -109,7 +109,7 @@ dv_has_:
     pnb: حلوا کدو
     ps: کدو
     pt: abóbora
-    pt-br: Abóbora
+    pt_br: Abóbora
     pwn: ljasiak
     qu: Kalawasa
     rn: Umwungu
@@ -140,13 +140,13 @@ dv_has_:
     tay: qabang
     te: గుమ్మడి
     tg: Каду
-    tg-latn: Kadu
+    tg_latn: Kadu
     th: ฟักทองอเมริกัน
     tk: Kädi
     tl: Kalabasa
     tr: kabak
     tt: кабак
-    tt-cyrl: кабак
+    tt_cyrl: кабак
     ug: كاۋا
     uk: гарбуз
     ur: کدو
@@ -162,8 +162,8 @@ dv_has_:
     za: namzgva
     zgh: ⵜⴰⵅⵙⴰⵢⵜ
     zh: 南瓜
-    zh-hant: 南瓜
-    zh-tw: 南瓜
+    zh_hant: 南瓜
+    zh_tw: 南瓜
     zu: Ikhukhu
 aliases:
 - Abóbora

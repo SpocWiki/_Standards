@@ -124,7 +124,7 @@ dv_has_:
     ban: I. M. Pei
     bcl: I.M.Pei
     be: Бэй Юймін
-    be-tarask: Юймін Бэй
+    be_tarask: Юймін Бэй
     bg: Йау Минг Пей
     bn: আই. এম. পে
     br: Ieoh Ming Pei
@@ -136,11 +136,11 @@ dv_has_:
     da: I.M. Pei
     dag: Ieoh Ming Pei
     de: Ieoh Ming Pei
-    de-ch: Ieoh Ming Pei
+    de_ch: Ieoh Ming Pei
     el: Ι.Μ. Πέι
     en: I. M. Pei
-    en-ca: I. M. Pei
-    en-gb: I. M. Pei
+    en_ca: I. M. Pei
+    en_gb: I. M. Pei
     eo: I. M. Pei
     es: Ieoh Ming Pei
     et: Ieoh Ming Pei
@@ -183,7 +183,7 @@ dv_has_:
     pam: I. M. Pei
     pl: Ieoh Ming Pei
     pt: Ieoh Ming Pei
-    pt-br: Ieoh Ming Pei
+    pt_br: Ieoh Ming Pei
     qu: Ieoh Ming Pei
     ro: Ieoh Ming Pei
     ru: Бэй Юймин
@@ -194,7 +194,7 @@ dv_has_:
     sl: Ieoh Ming Pei
     sq: I. M. Pei
     sr: Јо Минг Пеј
-    sr-ec: Јо Минг Пеј
+    sr_ec: Јо Минг Пеј
     sv: I.M. Pei
     sw: Ieoh Ming Pei
     ta: ஐ. எம். பேய்
@@ -208,11 +208,11 @@ dv_has_:
     wuu: 贝聿铭
     yue: 貝聿銘
     zh: 贝聿铭
-    zh-cn: 贝聿铭
-    zh-hans: 贝聿铭
-    zh-hant: 貝聿銘
-    zh-hk: 貝聿銘
-    zh-tw: 貝聿銘
+    zh_cn: 贝聿铭
+    zh_hans: 贝聿铭
+    zh_hant: 貝聿銘
+    zh_hk: 貝聿銘
+    zh_tw: 貝聿銘
 ---
 # [[Pei,I.M.]] 
 

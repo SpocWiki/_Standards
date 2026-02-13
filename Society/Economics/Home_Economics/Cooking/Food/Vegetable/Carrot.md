@@ -209,8 +209,8 @@ UMLS_CUI: C1141640
 UNII: L56Z1JK48B
 dv_has_:
   name_:
-    aeb-arab: جدر سنّارية
-    aeb-latn: jder sennèrya
+    aeb_arab: جدر سنّارية
+    aeb_latn: jder sennèrya
     af: wortel
     am: ካሮት
     ang: moru
@@ -225,7 +225,7 @@ dv_has_:
     bar: Gelbe Ruam
     bcl: karot
     be: морква
-    be-tarask: морква звычайная
+    be_tarask: морква звычайная
     bew: bortol
     bg: морков
     bho: गाजर
@@ -244,12 +244,12 @@ dv_has_:
     cy: moronen
     da: gulerod
     de: Karotte
-    de-ch: Karotte
+    de_ch: Karotte
     dv: ކެރެޓް
     el: καρότο
     en: carrot
-    en-ca: carrot
-    en-gb: carrot
+    en_ca: carrot
+    en_gb: carrot
     eo: karoto
     es: zanahoria
     et: porgand
@@ -337,7 +337,7 @@ dv_has_:
     pnb: گاجر
     pnt: δαυκίν
     pt: cenoura
-    pt-br: cenoura
+    pt_br: cenoura
     qu: sanurya
     rn: ikaroti
     ro: morcov
@@ -366,7 +366,7 @@ dv_has_:
     so: kaaroot
     sq: karrotë
     sr: шаргарепа
-    sr-ec: шаргарепа
+    sr_ec: шаргарепа
     st: lihoete
     su: wortel
     sv: morot
@@ -382,7 +382,7 @@ dv_has_:
     tl: karot
     tr: havuç
     tt: кишер
-    tt-cyrl: кишер
+    tt_cyrl: кишер
     ug: سەۋزە
     uk: морква
     ur: گاجر
@@ -399,13 +399,13 @@ dv_has_:
     za: lauxbaeghoengz
     zh: 胡萝卜
     zh-cn: 胡萝卜
-    zh-hans: 胡萝卜
-    zh-hant: 胡蘿蔔
-    zh-hk: 胡蘿蔔
-    zh-mo: 胡蘿蔔
+    zh_hans: 胡萝卜
+    zh_hant: 胡蘿蔔
+    zh_hk: 胡蘿蔔
+    zh_mo: 胡蘿蔔
     zh-my: 胡萝卜
-    zh-sg: 胡萝卜
-    zh-tw: 胡蘿蔔
+    zh_sg: 胡萝卜
+    zh_tw: 胡蘿蔔
     zu: izaqathe
 ---
 # [[Carrot]] 🥕 

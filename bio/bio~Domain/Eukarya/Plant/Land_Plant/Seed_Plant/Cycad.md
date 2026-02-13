@@ -95,14 +95,14 @@ dv_has_:
     mul: Cycadales
     nb: Konglepalmer
     nds: Cycadales
-    nds-nl: Cycadales
+    nds_nl: Cycadales
     nl: Palmvarens
     nn: Cycadales
     oc: Cycadidae
     pl: Sagowcowe
     pms: Cycadales
     pt: Cycadales
-    pt-br: Cycadales
+    pt_br: Cycadales
     qu: Sikas yura
     ro: Cycadales
     ru: саговниковые
@@ -124,12 +124,12 @@ dv_has_:
     war: Cycadales
     wuu: 苏铁目
     zh: 苏铁目
-    zh-cn: 苏铁目
-    zh-hans: 苏铁目
-    zh-hant: 蘇鐵目
-    zh-hk: 蘇鐵目
-    zh-sg: 苏铁目
-    zh-tw: 蘇鐵目
+    zh_cn: 苏铁目
+    zh_hans: 苏铁目
+    zh_hant: 蘇鐵目
+    zh_hk: 蘇鐵目
+    zh_sg: 苏铁目
+    zh_tw: 蘇鐵目
 ---
 # [[Cycad]] 
 

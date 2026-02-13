@@ -270,7 +270,7 @@ dv_has_:
     az: vərəm
     ba: туберкулёз
     be: туберкулёз
-    be-tarask: сухоты
+    be_tarask: сухоты
     bg: туберкулоза
     bjn: téréng
     blk: တီဘီရောႏဂါႏ
@@ -289,14 +289,14 @@ dv_has_:
     da: tuberkulose
     dag: kɔhimpiɛligu
     de: Tuberkulose
-    de-ch: Tuberkulose
+    de_ch: Tuberkulose
     din: nyaŋyiel
     diq: werem
     dty: क्षयरोग
     el: φυματίωση
     en: tuberculosis
-    en-ca: tuberculosis
-    en-gb: tuberculosis
+    en_ca: tuberculosis
+    en_gb: tuberculosis
     eo: tuberkulozo
     es: tuberculosis
     et: tuberkuloos
@@ -391,7 +391,7 @@ dv_has_:
     pnb: ٹی بی
     ps: نری رنځ
     pt: tuberculose
-    pt-br: tuberculose
+    pt_br: tuberculose
     qu: qhaqya unquy
     ro: tuberculoză
     ru: туберкулёз
@@ -412,7 +412,7 @@ dv_has_:
     sn: Rurindi
     sq: tuberkulozi
     sr: туберкулоза
-    sr-ec: туберкулоза
+    sr_ec: туберкулоза
     ss: sifuba semoya
     st: lefuba
     su: tuberkulosis
@@ -447,14 +447,14 @@ dv_has_:
     yue: 肺癆
     za: lauzae
     zh: 結核病
-    zh-cn: 结核病
-    zh-hans: 结核
-    zh-hant: 結核
-    zh-hk: 結核病
-    zh-mo: 結核病
+    zh_cn: 结核病
+    zh_hans: 结核
+    zh_hant: 結核
+    zh_hk: 結核病
+    zh_mo: 結核病
     zh-my: 结核病
-    zh-sg: 结核病
-    zh-tw: 結核病
+    zh_sg: 结核病
+    zh_tw: 結核病
 ---
 # [[Tuberculosis]] 
 

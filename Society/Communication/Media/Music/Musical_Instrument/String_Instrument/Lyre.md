@@ -64,7 +64,7 @@ dv_has_:
     az: Lira
     azb: لیر(موزیک)
     be: ліра
-    be-tarask: ліра
+    be_tarask: ліра
     bg: Лира
     bs: Lira
     ca: lira
@@ -107,7 +107,7 @@ dv_has_:
     pl: Lira
     pnt: Λύρα
     pt: lira
-    pt-br: lira
+    pt_br: lira
     ro: Liră
     rsk: Лира
     ru: лира
@@ -115,11 +115,11 @@ dv_has_:
     sk: Lýra (starogrécky nástroj)
     sl: lira
     sr: лира
-    sr-ec: лира
-    sr-el: lira
+    sr_ec: лира
+    sr_el: lira
     sv: lyra
     tg: лирика
-    tg-latn: lirika
+    tg_latn: lirika
     tr: lir
     uk: ліра
     uz: Lira
@@ -127,12 +127,12 @@ dv_has_:
     wuu: 里拉琴
     yue: 里拉琴
     zh: 里拉琴
-    zh-cn: 里拉琴
-    zh-hans: 里拉琴
-    zh-hant: 里拉琴
-    zh-hk: 里拉琴
-    zh-sg: 里拉琴
-    zh-tw: 里拉琴
+    zh_cn: 里拉琴
+    zh_hans: 里拉琴
+    zh_hant: 里拉琴
+    zh_hk: 里拉琴
+    zh_sg: 里拉琴
+    zh_tw: 里拉琴
 ---
 # [[Lyre]] 
 

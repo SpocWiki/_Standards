@@ -118,7 +118,7 @@ dv_has_:
     ast: Fumar
     bcl: Pagsigarilyo
     be: курэнне
-    be-tarask: курэньне
+    be_tarask: курэньне
     bg: Пушене
     bn: ধূমপান
     br: butuniñ
@@ -166,7 +166,7 @@ dv_has_:
     pa: ਸਿਗਰਟਨੋਸ਼ੀ
     pl: palenie
     pt: fumar
-    pt-br: fumar
+    pt_br: fumar
     ro: fumat
     ru: курение
     se: borgguheapmi
@@ -175,8 +175,8 @@ dv_has_:
     smn: porgottâllâm
     sq: Pirja e duhanit
     sr: пушење
-    sr-ec: пушење
-    sr-el: pušenje
+    sr_ec: пушење
+    sr_el: pušenje
     sv: rökning
     ta: புகைத்தல்
     te: ధూమపానం
@@ -184,7 +184,7 @@ dv_has_:
     tl: paninigarilyo
     tr: tüttürmek
     tt: тарту
-    tt-cyrl: тарту
+    tt_cyrl: тарту
     uk: паління
     uz: Chekish
     vec: fumar
@@ -192,8 +192,8 @@ dv_has_:
     war: Paninigarilyo
     yue: 吸食煙
     zh: 吸煙
-    zh-hans: 吸烟
-    zh-hant: 吸煙
+    zh_hans: 吸烟
+    zh_hant: 吸煙
     zu: Ukubhema
 ---
 # [[Smoking]] 

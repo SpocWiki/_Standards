@@ -77,7 +77,7 @@ dv_has_:
     bar: Emmanuel Macron
     bcl: Emmanuel Macron
     be: Эмануэль Макрон
-    be-tarask: Эманюэль Макрон
+    be_tarask: Эманюэль Макрон
     bg: Еманюел Макрон
     bho: इमानुएल माक्रों
     bi: Emmanuel Macron
@@ -90,21 +90,21 @@ dv_has_:
     ckb: ئێمانوێل ماکرۆن
     co: Emmanuel Macron
     crh: Emmanüel Makron
-    crh-latn: Emmanüel Makron
+    crh_latn: Emmanüel Makron
     cs: Emmanuel Macron
     cy: Emmanuel Macron
     da: Emmanuel Macron
     dag: Emmanuel Macron
     de: Emmanuel Macron
     de-at: Emmanuel Macron
-    de-ch: Emmanuel Macron
+    de_ch: Emmanuel Macron
     diq: Emmanuel Macron
     dsb: Emmanuel Macron
     el: Εμμανουέλ Μακρόν
     eml: Emmanuel Macron
     en: Emmanuel Macron
-    en-ca: Emmanuel Macron
-    en-gb: Emmanuel Macron
+    en_ca: Emmanuel Macron
+    en_gb: Emmanuel Macron
     eo: Emmanuel Makron
     es: Emmanuel Macron
     et: Emmanuel Macron
@@ -187,7 +187,7 @@ dv_has_:
     nap: Emmanuel Macron
     nb: Emmanuel Macron
     nds: Emmanuel Macron
-    nds-nl: Emmanuel Macron
+    nds_nl: Emmanuel Macron
     ne: एमानुएल म्याक्रोन
     nl: Emmanuel Macron
     nn: Emmanuel Macron
@@ -203,7 +203,7 @@ dv_has_:
     pnb: عمانوئیل میکرون
     ps: اېموانوېل مکرون
     pt: Emmanuel Macron
-    pt-br: Emmanuel Macron
+    pt_br: Emmanuel Macron
     qu: Emmanuel Macron
     rm: Emmanuel Macron
     rmf: Emmanuel Macron
@@ -227,7 +227,7 @@ dv_has_:
     so: Emmanuel Macron
     sq: Emmanuel Macron
     sr: Емануел Макрон
-    sr-el: Emmanuel Macron
+    sr_el: Emmanuel Macron
     sv: Emmanuel Macron
     sw: Emmanuel Macron
     szl: Emmanuel Macron
@@ -264,11 +264,11 @@ dv_has_:
     yue: 馬克龍
     zea: Emmanuel Macron
     zh: 埃马纽埃尔·马克龙
-    zh-cn: 埃马纽埃尔·马克龙
-    zh-hans: 埃马纽埃尔·马克龙
-    zh-hant: 艾曼紐·馬克宏
-    zh-hk: 伊曼努爾·馬克龍
-    zh-tw: 艾曼紐·馬克宏
+    zh_cn: 埃马纽埃尔·马克龙
+    zh_hans: 埃马纽埃尔·马克龙
+    zh_hant: 艾曼紐·馬克宏
+    zh_hk: 伊曼努爾·馬克龍
+    zh_tw: 艾曼紐·馬克宏
     zu: Emmanuel Macron
 ---
 ## #has_/text_of_/abstract 

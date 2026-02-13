@@ -109,7 +109,7 @@ dv_has_:
     az: Enriko Karuzo
     ba: Карузо Энрико
     be: Энрыка Каруза
-    be-tarask: Энрыка Каруза
+    be_tarask: Энрыка Каруза
     bg: Енрико Карузо
     br: Enrico Caruso
     bs: Enrico Caruso
@@ -158,7 +158,7 @@ dv_has_:
     pap: Enrico Caruso
     pl: Enrico Caruso
     pt: Enrico Caruso
-    pt-br: Enrico Caruso
+    pt_br: Enrico Caruso
     qu: Enrico Caruso
     ro: Enrico Caruso
     ru: Энрико Карузо
@@ -169,7 +169,7 @@ dv_has_:
     sl: Enrico Caruso
     sq: Enrico Caruso
     sr: Енрико Карузо
-    sr-ec: Енрико Карузо
+    sr_ec: Енрико Карузо
     sv: Enrico Caruso
     tg: Карузо Энрико
     tl: Enrico Caruso
@@ -181,13 +181,13 @@ dv_has_:
     wuu: 恩里科·卡鲁索
     yue: 卡羅素
     zh: 恩里科·卡鲁索
-    zh-cn: 恩里科·卡鲁索
-    zh-hans: 恩里科·卡鲁索
-    zh-hant: 恩里可·卡羅素
-    zh-hk: 卡羅素
+    zh_cn: 恩里科·卡鲁索
+    zh_hans: 恩里科·卡鲁索
+    zh_hant: 恩里可·卡羅素
+    zh_hk: 卡羅素
     zh-my: 卡罗素
-    zh-sg: 卡罗素
-    zh-tw: 恩里可·卡羅素
+    zh_sg: 卡罗素
+    zh_tw: 恩里可·卡羅素
 ---
 # [[Caruso,Enrico]] 
 

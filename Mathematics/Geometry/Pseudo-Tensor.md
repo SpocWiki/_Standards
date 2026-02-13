@@ -16,7 +16,7 @@ dv_has_:
     sv: pseudotensor
     uk: Псевдотензор
     zh: 贗張量
-    zh-hant: 贗張量
+    zh_hant: 贗張量
 aliases:
 - pseudotenseur
 - pseudotensor

@@ -422,7 +422,7 @@ dv_has_:
   name_:
     ab: Габон
     ady: Габон
-    aeb-arab: الڨابون
+    aeb_arab: الڨابون
     af: Gaboen
     am: ጋቦን
     ami: Gabon
@@ -442,7 +442,7 @@ dv_has_:
     bar: Gabun
     bcl: Gabon
     be: Габон
-    be-tarask: Габон
+    be_tarask: Габон
     bew: Gabon
     bg: Габон
     bho: गैबोन
@@ -456,7 +456,7 @@ dv_has_:
     bs: Gabon
     bxr: Габон
     ca: Gabon
-    cbk-zam: Gabón
+    cbk_zam: Gabón
     cdo: Gabon
     ce: Габон
     ceb: Gabon
@@ -464,7 +464,7 @@ dv_has_:
     cn: 加蓬
     co: Gabone
     crh: Gabon
-    crh-latn: Gabon
+    crh_latn: Gabon
     cs: Gabon
     cv: Габон
     cy: Gabon
@@ -472,7 +472,7 @@ dv_has_:
     dag: Gabon
     de: Gabun
     de-at: Gabun
-    de-ch: Gabun
+    de_ch: Gabun
     diq: Gabon
     dsb: Gabun
     dty: गाबोन
@@ -481,8 +481,8 @@ dv_has_:
     ee: Gabɔ̃
     el: Γκαμπόν
     en: Gabon
-    en-ca: Gabon
-    en-gb: Gabon
+    en_ca: Gabon
+    en_gb: Gabon
     eo: Gabono
     es: Gabón
     et: Gabon
@@ -563,7 +563,7 @@ dv_has_:
     lt: Gabonas
     lv: Gabona
     lzh: 加彭
-    map-bms: Gabon
+    map_bms: Gabon
     mdf: Габон
     mg: Gabona
     mhr: Габон
@@ -585,7 +585,7 @@ dv_has_:
     nan: Gabon
     nb: Gabon
     nds: Gabun
-    nds-nl: Gabon
+    nds_nl: Gabon
     ne: गाबोन
     new: गाबोन
     nl: Gabon
@@ -609,7 +609,7 @@ dv_has_:
     pnb: گبون
     ps: ګابون
     pt: Gabão
-    pt-br: Gabão
+    pt_br: Gabão
     qu: Gabun
     rm: Gabun
     rmy: Gabon
@@ -641,8 +641,8 @@ dv_has_:
     so: Gabon
     sq: Gaboni
     sr: Габон
-    sr-ec: Габон
-    sr-el: Gabon
+    sr_ec: Габон
+    sr_el: Gabon
     ss: IGabhoni
     st: Gabon
     stq: Gabun
@@ -689,14 +689,14 @@ dv_has_:
     zea: Gabon
     zgh: ⴳⴰⴱⵓⵏ
     zh: 加蓬
-    zh-cn: 加蓬
-    zh-hans: 加蓬
-    zh-hant: 加彭
-    zh-hk: 加蓬
-    zh-mo: 加蓬
+    zh_cn: 加蓬
+    zh_hans: 加蓬
+    zh_hant: 加彭
+    zh_hk: 加蓬
+    zh_mo: 加蓬
     zh-my: 加蓬
-    zh-sg: 加蓬
-    zh-tw: 加彭
+    zh_sg: 加蓬
+    zh_tw: 加彭
     zu: IGaboni
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Gabon

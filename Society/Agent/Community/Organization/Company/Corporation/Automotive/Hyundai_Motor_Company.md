@@ -395,7 +395,7 @@ dv_has_:
     az: Hyundai
     azb: هیوندای موتور
     be: Hyundai Motor Company
-    be-tarask: Hyundai Motor Company
+    be_tarask: Hyundai Motor Company
     bg: Hyundai Motor Company
     bs: Hyundai Motor Company
     ca: Hyundai Motor Company
@@ -403,12 +403,12 @@ dv_has_:
     cs: Hyundai Motor Company
     da: Hyundai Motor
     de: Hyundai
-    de-ch: Hyundai Motor Company
+    de_ch: Hyundai Motor Company
     diq: Hyundai
     el: Hyundai Motors
     en: Hyundai Motor Company
-    en-ca: Hyundai Motor Company
-    en-gb: Hyundai Motor Company
+    en_ca: Hyundai Motor Company
+    en_gb: Hyundai Motor Company
     eo: Hyundai
     es: Hyundai Motor Company
     et: Hyundai Motor Company
@@ -448,7 +448,7 @@ dv_has_:
     pl: Hyundai Motor Company
     pms: Hyundai Motor Company
     pt: Hyundai Motor Company
-    pt-br: Hyundai Motor Company
+    pt_br: Hyundai Motor Company
     ro: Hyundai
     ru: Hyundai Motor
     sah: Hyundai
@@ -469,7 +469,7 @@ dv_has_:
     yi: יונדאי
     yue: 現代汽車
     zh: 現代汽車
-    zh-cn: 现代汽车公司
+    zh_cn: 现代汽车公司
 ---
 # [[Hyundai_Motor_Company]] 
 

@@ -71,7 +71,7 @@ dv_has_:
     ar: صدرة ضد الرصاص
     ast: Chalecu antibales
     az: Bronjilet
-    be-tarask: бронекамізэлька
+    be_tarask: бронекамізэлька
     bg: Бронежилетка
     ca: armilla antibales
     cs: Neprůstřelná vesta
@@ -121,12 +121,12 @@ dv_has_:
     vi: Áo chống đạn
     yue: 避彈衫
     zh: 防彈護甲
-    zh-cn: 防弹衣
-    zh-hans: 防弹衣
-    zh-hant: 護甲或防彈護甲
-    zh-hk: 避彈衣
-    zh-sg: 防弹衣
-    zh-tw: 護甲
+    zh_cn: 防弹衣
+    zh_hans: 防弹衣
+    zh_hant: 護甲或防彈護甲
+    zh_hk: 避彈衣
+    zh_sg: 防弹衣
+    zh_tw: 護甲
 ---
 # [[Bulletproof_Vest]] 
 

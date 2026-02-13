@@ -169,7 +169,7 @@ dv_has_:
     bar: Serena Williams
     bcl: Serena Williams
     be: Серэна Уільямс
-    be-tarask: Сэрэна Ўільямз
+    be_tarask: Сэрэна Ўільямз
     bg: Серина Уилямс
     bho: सेरेना विलियम्स
     bn: সেরেনা উইলিয়ামস
@@ -184,14 +184,14 @@ dv_has_:
     dag: Serena Williams
     de: Serena Williams
     de-at: Serena Williams
-    de-ch: Serena Williams
+    de_ch: Serena Williams
     diq: Serena Williams
     dsb: Serena Williams
     el: Σερένα Ουίλιαμς
     eml: Serena Williams
     en: Serena Williams
-    en-ca: Serena Williams
-    en-gb: Serena Williams
+    en_ca: Serena Williams
+    en_gb: Serena Williams
     eo: Serena Williams
     es: Serena Williams
     et: Serena Williams
@@ -259,7 +259,7 @@ dv_has_:
     pap: Serena Williams
     pl: Serena Williams
     pt: Serena Williams
-    pt-br: Serena Williams
+    pt_br: Serena Williams
     rm: Serena Williams
     ro: Serena Williams
     ru: Серена Уильямс
@@ -296,10 +296,10 @@ dv_has_:
     yo: Serena Williams
     yue: 沙蓮娜威廉絲
     zh: 塞雷娜·威廉姆斯
-    zh-cn: 塞雷娜·威廉姆斯
-    zh-hans: 塞雷娜·威廉姆斯
-    zh-hant: 塞雷納·威廉絲
-    zh-tw: 塞雷納·威廉絲
+    zh_cn: 塞雷娜·威廉姆斯
+    zh_hans: 塞雷娜·威廉姆斯
+    zh_hant: 塞雷納·威廉絲
+    zh_tw: 塞雷納·威廉絲
 ---
 # [[Williams,Serena]] 
 

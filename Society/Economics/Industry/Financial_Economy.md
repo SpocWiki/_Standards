@@ -63,7 +63,7 @@ dv_has_:
   name_:
     ar: اقتصاد مالي
     az: Maliyyə iqtisadiyyatı
-    be-tarask: фінансавая эканоміка
+    be_tarask: фінансавая эканоміка
     bg: Финансова икономика
     ca: economia financera
     cs: finanční ekonomie
@@ -107,10 +107,10 @@ dv_has_:
     vi: Kinh tế tài chính
     yue: 金融經濟學
     zh: 金融經濟學
-    zh-hans: 金融经济学
-    zh-hant: 金融經濟學
-    zh-hk: 金融經濟學
-    zh-tw: 金融經濟學
+    zh_hans: 金融经济学
+    zh_hant: 金融經濟學
+    zh_hk: 金融經濟學
+    zh_tw: 金融經濟學
 ---
 # [[Financial_Economy]] 
 

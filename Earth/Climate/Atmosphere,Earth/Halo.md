@@ -83,7 +83,7 @@ dv_has_:
     ar: هالة
     az: qalo
     be: гало
-    be-tarask: гало
+    be_tarask: гало
     bew: kalangan
     bg: хало
     ca: halo
@@ -113,11 +113,11 @@ dv_has_:
     jv: halo
     ka: ჰალო
     kk: жалған күн
-    kk-arab: جالعان كۇن
+    kk_arab: جالعان كۇن
     kk-cn: جالعان كۇن
-    kk-cyrl: жалған күн
+    kk_cyrl: жалған күн
     kk-kz: жалған күн
-    kk-latn: jalğan kün
+    kk_latn: jalğan kün
     kk-tr: jalğan kün
     kn: ತೇಜೋಮಂಡಲ
     ko: 무리
@@ -140,7 +140,7 @@ dv_has_:
     sk: halový jav
     sl: halo
     sr: хало
-    sr-el: halo
+    sr_el: halo
     su: halo
     sv: halo
     ta: பரிவேடம்
@@ -157,12 +157,12 @@ dv_has_:
     wuu: 晕
     yue: 枷
     zh: 暈
-    zh-cn: 晕
-    zh-hans: 晕
-    zh-hant: 暈
-    zh-hk: 暈
-    zh-sg: 晕
-    zh-tw: 暈
+    zh_cn: 晕
+    zh_hans: 晕
+    zh_hant: 暈
+    zh_hk: 暈
+    zh_sg: 晕
+    zh_tw: 暈
 ---
 # [[Halo]] 
 

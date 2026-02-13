@@ -159,7 +159,7 @@ dv_has_:
     azb: امیل زولا
     ba: Золя Эмиль
     be: Эміль Заля
-    be-tarask: Эміль Заля
+    be_tarask: Эміль Заля
     bg: Емил Зола
     bn: এমিল জোলা
     br: Émile Zola
@@ -172,12 +172,12 @@ dv_has_:
     cy: Émile Zola
     da: Émile Zola
     de: Émile Zola
-    de-ch: Émile Zola
+    de_ch: Émile Zola
     diq: Émile Zola
     el: Εμίλ Ζολά
     en: Émile Zola
-    en-ca: Émile Zola
-    en-gb: Émile Zola
+    en_ca: Émile Zola
+    en_gb: Émile Zola
     en-us: Émile Zola
     eo: Émile Zola
     es: Émile Zola
@@ -211,7 +211,7 @@ dv_has_:
     ka: ემილ ზოლა
     kab: Émile Zola
     kk: Эмиль Золя
-    kk-cyrl: эмиль золя
+    kk_cyrl: эмиль золя
     kn: ಏಮೀಲ್ ಜೋಲಾ
     ko: 에밀 졸라
     ku: Émile Zola
@@ -236,7 +236,7 @@ dv_has_:
     nan: Émile Zola
     nb: Émile Zola
     nds: Émile Zola
-    nds-nl: Émile Zola
+    nds_nl: Émile Zola
     ne: इमिले जोला
     nl: Émile Zola
     nn: Émile Zola
@@ -250,7 +250,7 @@ dv_has_:
     pms: Émile Zola
     pnb: ایمل زولا
     pt: Émile Zola
-    pt-br: Émile Zola
+    pt_br: Émile Zola
     qu: Émile Zola
     ro: Émile Zola
     ru: Эмиль Золя
@@ -262,7 +262,7 @@ dv_has_:
     sl: Émile Zola
     sq: Émile Zola
     sr: Емил Зола
-    sr-ec: Емил Зола
+    sr_ec: Емил Зола
     sv: Émile Zola
     sw: Émile Zola
     ta: எமிலி சோலா

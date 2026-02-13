@@ -152,7 +152,7 @@ dv_has_:
     ast: monesteriu
     az: monastır
     be: манастыр
-    be-tarask: манастыр
+    be_tarask: манастыр
     bg: манастир
     bn: বিহার (মঠ)
     br: manati
@@ -195,7 +195,7 @@ dv_has_:
     ko: 수도원
     krj: monasteryo
     ku: dêr
-    ku-latn: dêr
+    ku_latn: dêr
     ky: Монастырь
     la: monasterium
     lad: מונאסטיריאו
@@ -215,7 +215,7 @@ dv_has_:
     ml: ആശ്രമം
     ms: biara
     nb: kloster
-    nds-nl: klooster
+    nds_nl: klooster
     nl: kloostercomplex
     nn: kloster
     nrm: monastéthe
@@ -224,7 +224,7 @@ dv_has_:
     os: моладзандон
     pl: klasztor
     pt: mosteiro
-    pt-br: mosteiro
+    pt_br: mosteiro
     ro: mănăstire
     ru: монастырь
     rue: Монастырь
@@ -237,15 +237,15 @@ dv_has_:
     sms: namstar
     sq: Manastiri
     sr: манастир
-    sr-ec: манастир
-    sr-el: manastir
+    sr_ec: манастир
+    sr_el: manastir
     sv: kloster
     sw: monasteri
     tg: Дайр
     th: อาราม
     tr: manastır
     tt: кәшишханә
-    tt-cyrl: кәшишханә
+    tt_cyrl: кәшишханә
     uk: монастир
     ur: خانقاہ
     uz: Monastirlar
@@ -256,9 +256,9 @@ dv_has_:
     wuu: 僧院
     yue: 僧院
     zh: 僧院
-    zh-hans: 隐修院
-    zh-hant: 僧院
-    zh-tw: 僧院
+    zh_hans: 隐修院
+    zh_hant: 僧院
+    zh_tw: 僧院
 ---
 # [[Monastery]] 
 

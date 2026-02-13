@@ -72,7 +72,7 @@ dv_has_:
     az: 20 000 lye su altında
     azb: ایگیرمی مین آغاج دنیز آلتی
     be: 20 000 лье пад вадой
-    be-tarask: Дваццаць тысячаў льё пад вадой
+    be_tarask: Дваццаць тысячаў льё пад вадой
     bg: Двадесет хиляди левги под водата
     br: Vingt mille lieues sous les mers
     bs: 20.000 milja pod morem
@@ -83,8 +83,8 @@ dv_has_:
     de: 20.000 Meilen unter dem Meer
     el: 20.000 λεύγες κάτω από τη θάλασσα
     en: Twenty Thousand Leagues Under the Sea
-    en-ca: Twenty Thousand Leagues Under the Sea
-    en-gb: Twenty Thousand Leagues Under the Sea
+    en_ca: Twenty Thousand Leagues Under the Sea
+    en_gb: Twenty Thousand Leagues Under the Sea
     eo: Dudek mil leŭgoj sub la maro
     es: Veinte mil leguas de viaje submarino
     et: 20 000 ljööd vee all
@@ -117,15 +117,15 @@ dv_has_:
     pa: ਵੀਹ ਹਜਾਰ ਲੀਗ ਸਮੁੰਦਰ ਦੇ ਨੀਚੇ
     pl: Dwadzieścia tysięcy mil podmorskiej żeglugi
     pt: Vinte Mil Léguas Submarinas
-    pt-br: Vinte Mil Léguas Submarinas
+    pt_br: Vinte Mil Léguas Submarinas
     ro: Douăzeci de mii de leghe sub mări
     ru: Двадцать тысяч льё под водой
     sh: Vingt mille lieues sous les mers
     sk: Dvadsaťtisíc míľ pod morom
     sl: Dvajset tisoč milj pod morjem
     sr: Двадесет хиљада миља под морем
-    sr-ec: Двадесет хиљада миља под морем
-    sr-el: Dvadeset hiljada milja pod morem
+    sr_ec: Двадесет хиљада миља под морем
+    sr_el: Dvadeset hiljada milja pod morem
     sv: En världsomsegling under havet
     th: ใต้ทะเลสองหมื่นโยชน์
     tl: Dalawampung Libong mga Liga sa Ilalim ng Dagat
@@ -135,12 +135,12 @@ dv_has_:
     vi: Hai vạn dặm dưới đáy biển
     wuu: 海底两万里
     zh: 海底两万里
-    zh-cn: 海底两万里
-    zh-hans: 海底两万里
-    zh-hant: 海底兩萬里
-    zh-hk: 海底兩萬里
-    zh-sg: 海底两万里
-    zh-tw: 海底兩萬里
+    zh_cn: 海底两万里
+    zh_hans: 海底两万里
+    zh_hant: 海底兩萬里
+    zh_hk: 海底兩萬里
+    zh_sg: 海底两万里
+    zh_tw: 海底兩萬里
 ---
 [[Twenty_Thousand_Leagues_Under_the_Seas]]
 

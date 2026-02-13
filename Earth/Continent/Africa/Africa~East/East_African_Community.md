@@ -135,7 +135,7 @@ dv_has_:
     ar: مجموعة شرق إفريقيا
     ast: Comunidá Africana Oriental
     az: Şərqi Afrika Cəmiyyəti
-    be-tarask: Усходнеафрыканская супольнасьць
+    be_tarask: Усходнеафрыканская супольнасьць
     bg: Източноафриканска общност
     bs: Istočnoafrička zajednica
     ca: Comunitat de l'Àfrica Oriental
@@ -185,14 +185,14 @@ dv_has_:
     vi: Cộng đồng Đông Phi
     yo: Àgbàjọ Ìlàorùn Áfríkà
     zh: 东非共同体
-    zh-cn: 东非共同体
-    zh-hans: 东非共同体
-    zh-hant: 東非共同體
-    zh-hk: 東非共同體
-    zh-mo: 東非共同體
+    zh_cn: 东非共同体
+    zh_hans: 东非共同体
+    zh_hant: 東非共同體
+    zh_hk: 東非共同體
+    zh_mo: 東非共同體
     zh-my: 东非共同体
-    zh-sg: 东非共同体
-    zh-tw: 東非共同體
+    zh_sg: 东非共同体
+    zh_tw: 東非共同體
 ---
 # [[East_African_Community]]
 

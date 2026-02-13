@@ -48,7 +48,7 @@ dv_has_:
     ar: تمثيل زمرة
     ast: Representación de grupu
     ba: Төркөм күрһәтмәһе
-    be-tarask: выяўленьне групы
+    be_tarask: выяўленьне групы
     ca: representació de grup
     cs: reprezentace
     da: repræsentationsteori

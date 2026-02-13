@@ -107,7 +107,7 @@ dv_has_:
     ast: esquistu
     az: şistlər
     be: крышталічныя сланцы
-    be-tarask: лупняк
+    be_tarask: лупняк
     bg: Шисти
     ca: esquist
     cs: krystalická břidlice
@@ -115,8 +115,8 @@ dv_has_:
     da: skifer
     de: kristalliner Schiefer
     en: crystalline schist
-    en-ca: schist
-    en-gb: schist
+    en_ca: schist
+    en_gb: schist
     eo: skisto
     es: esquisto
     et: kristalne kilt
@@ -137,7 +137,7 @@ dv_has_:
     ka: კრისტალური ფიქლები
     kab: tacirra
     kk: тақтатас
-    kk-latn: taqtatas
+    kk_latn: taqtatas
     km: ខ្មែរ
     ko: 결정편암
     kw: Shist
@@ -152,7 +152,7 @@ dv_has_:
     os: къæй
     pl: łupek krystaliczny
     pt: xisto
-    pt-br: Xisto
+    pt_br: Xisto
     ro: șisturi cristaline
     ru: кристаллические сланцы
     rue: Лупок

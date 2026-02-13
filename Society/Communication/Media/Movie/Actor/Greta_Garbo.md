@@ -123,7 +123,7 @@ dv_has_:
     ba: Грета Гарбо
     bar: Greta Garbo
     be: Грэта Гарба
-    be-tarask: Грэта Гарбу
+    be_tarask: Грэта Гарбу
     bg: Грета Гарбо
     bm: Greta Garbo
     bn: গ্রেটা গার্বো
@@ -137,11 +137,11 @@ dv_has_:
     dag: Greta Garbo
     de: Greta Garbo
     de-at: Greta Garbo
-    de-ch: Greta Garbo
+    de_ch: Greta Garbo
     el: Γκρέτα Γκάρμπο
     en: Greta Garbo
-    en-ca: Greta Garbo
-    en-gb: Greta Garbo
+    en_ca: Greta Garbo
+    en_gb: Greta Garbo
     eo: Greta Garbo
     es: Greta Garbo
     et: Greta Garbo
@@ -199,7 +199,7 @@ dv_has_:
     nap: Greta Garbo
     nb: Greta Garbo
     nds: Greta Garbo
-    nds-nl: Greta Garbo
+    nds_nl: Greta Garbo
     nl: Greta Garbo
     nn: Greta Garbo
     nrm: Greta Garbo
@@ -211,7 +211,7 @@ dv_has_:
     pms: Greta Garbo
     prg: Greta Garbo
     pt: Greta Garbo
-    pt-br: Greta Garbo
+    pt_br: Greta Garbo
     qu: Greta Garbo
     rgn: Greta Garbo
     rm: Greta Garbo
@@ -226,7 +226,7 @@ dv_has_:
     sl: Greta Garbo
     sq: Greta Garbo
     sr: Грета Гарбо
-    sr-ec: Грета Гарбо
+    sr_ec: Грета Гарбо
     sv: Greta Garbo
     sw: Greta Garbo
     tg: Гарбо, Грета
@@ -248,7 +248,7 @@ dv_has_:
     yo: Greta Garbo
     yue: 葛麗泰嘉寶
     zh: 葛丽泰·嘉宝
-    zh-hant: 葛麗泰·嘉寶
+    zh_hant: 葛麗泰·嘉寶
     zu: Greta Garbo
 ---
 # [[Greta_Garbo]] 

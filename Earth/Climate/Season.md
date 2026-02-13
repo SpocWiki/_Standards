@@ -220,7 +220,7 @@ dv_has_:
     bas: ndèè
     bcl: Kapanahonan
     be: пара года
-    be-tarask: пара году
+    be_tarask: пара году
     bew: Usum
     bg: сезон
     bho: सीजन
@@ -286,7 +286,7 @@ dv_has_:
     krc: джылны чакълары
     ksh: Joohreszitt
     ku: demsal
-    ku-latn: demsal
+    ku_latn: demsal
     ky: Жыл мезгилдери
     la: tempora anni
     lb: Joreszäit
@@ -307,7 +307,7 @@ dv_has_:
     mn: улирал
     mr: ऋतू
     ms: musim
-    ms-arab: موسيم
+    ms_arab: موسيم
     my: ရာသီ
     mzn: مسم
     nan: kùi-chiat
@@ -328,7 +328,7 @@ dv_has_:
     pl: pora roku
     ps: موسم
     pt: estação do ano
-    pt-br: estação do ano
+    pt_br: estação do ano
     qu: mit'a
     ro: anotimp
     ru: время года
@@ -353,7 +353,7 @@ dv_has_:
     so: afarta xilli
     sq: stina
     sr: годишње доба
-    sr-ec: годишње доба
+    sr_ec: годишње доба
     su: usum
     sv: årstid
     sw: Majira
@@ -384,14 +384,14 @@ dv_has_:
     za: Cawz
     zgh: ⴰⵏⵏⴰⵣ
     zh: 季节
-    zh-cn: 季节
-    zh-hans: 季节
-    zh-hant: 季節
-    zh-hk: 季節
-    zh-mo: 季節
+    zh_cn: 季节
+    zh_hans: 季节
+    zh_hant: 季節
+    zh_hk: 季節
+    zh_mo: 季節
     zh-my: 季节
-    zh-sg: 季节
-    zh-tw: 季節
+    zh_sg: 季节
+    zh_tw: 季節
 ---
 # [[Season]] 
 

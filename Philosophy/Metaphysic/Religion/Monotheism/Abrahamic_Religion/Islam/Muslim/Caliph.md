@@ -105,7 +105,7 @@ dv_has_:
     azb: خلیفه
     ba: хәлифә
     be: Халіф
-    be-tarask: халіф
+    be_tarask: халіф
     bg: Халиф
     bn: খলিফা
     br: kalif
@@ -192,7 +192,7 @@ dv_has_:
     yi: כאליף
     yue: 哈里發
     zh: 哈里发
-    zh-tw: 哈里發
+    zh_tw: 哈里發
 ---
 # [[Caliph]] 
 

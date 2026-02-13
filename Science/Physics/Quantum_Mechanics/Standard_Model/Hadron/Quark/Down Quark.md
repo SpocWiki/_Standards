@@ -71,7 +71,7 @@ dv_has_:
     as: ডাউন কোৱাৰ্ক
     ast: quark embaxo
     be: d-кварк
-    be-tarask: d-кварк
+    be_tarask: d-кварк
     bg: долен кварк
     bn: ডাউন কোয়ার্ক
     ca: quark d
@@ -79,7 +79,7 @@ dv_has_:
     da: down-kvark
     de: Down-Quark
     en: down quark
-    en-gb: down quark
+    en_gb: down quark
     eo: d-kvarko
     es: cuark abajo
     et: d-kvark

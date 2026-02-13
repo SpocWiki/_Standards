@@ -216,7 +216,7 @@ dv_has_:
     bar: Technologie
     bcl: teknolohiya
     be: тэхналогія
-    be-tarask: тэхналёгія
+    be_tarask: тэхналёгія
     bew: tèhnolohi
     bg: техника
     bho: टेक्नालॉजी
@@ -237,12 +237,12 @@ dv_has_:
     cy: technoleg
     da: teknologi
     de: Technologie
-    de-ch: Technologie
+    de_ch: Technologie
     el: τεχνολογία
     eml: tecnologî
     en: technology
-    en-ca: technology
-    en-gb: technology
+    en_ca: technology
+    en_gb: technology
     eo: teĥnologio
     es: tecnología
     et: tehnika
@@ -309,7 +309,7 @@ dv_has_:
     lv: tehnoloģija
     mad: tèknologi
     mag: प्रौद्योगिकी
-    map-bms: teknologi
+    map_bms: teknologi
     mg: teknôlôjia
     mhr: технологий
     mi: hangarau
@@ -320,7 +320,7 @@ dv_has_:
     mni: ꯁꯤꯟ-ꯁꯥꯔꯣꯜ ꯅꯩꯅꯕ
     mr: तंत्रज्ञान
     ms: kaji teknik
-    ms-arab: تيکنولوݢي
+    ms_arab: تيکنولوݢي
     mwl: tecnologie
     my: နည်းပညာ
     myv: пайманал
@@ -347,7 +347,7 @@ dv_has_:
     pnb: ٹیکنالوجی
     ps: تکنالوژي
     pt: tecnologia
-    pt-br: tecnologia
+    pt_br: tecnologia
     qu: tiknulukya
     rki: နည်းပညာ
     ro: tehnologie
@@ -375,8 +375,8 @@ dv_has_:
     so: farsamo
     sq: teknologji
     sr: технологија
-    sr-ec: технологија
-    sr-el: technologija
+    sr_ec: технологија
+    sr_el: technologija
     su: téhnologi
     sv: teknologi
     sw: teknolojia
@@ -386,7 +386,7 @@ dv_has_:
     te: సాంకేతిక విజ్ఞానం
     tet: teknolojia
     tg: технолоҷӣ
-    tg-cyrl: технология
+    tg_cyrl: технология
     th: เทคโนโลยี
     tk: tehnologiýasy
     tl: teknolohiya
@@ -394,8 +394,8 @@ dv_has_:
     tr: teknoloji
     ts: thekinoloji
     tt: технология
-    tt-cyrl: технология
-    tt-latn: texnologiä
+    tt_cyrl: технология
+    tt_latn: texnologiä
     tum: tekinoloje
     udm: технология
     uk: технологія
@@ -416,11 +416,11 @@ dv_has_:
     yue: 工藝
     za: gisuz
     zh: 技术
-    zh-cn: 技术
-    zh-hans: 技术
-    zh-hant: 技術
-    zh-hk: 技術
-    zh-tw: 技術
+    zh_cn: 技术
+    zh_hans: 技术
+    zh_hant: 技術
+    zh_hk: 技術
+    zh_tw: 技術
     zu: ubuchwepheshe
 ---
 # [[Technology]] 

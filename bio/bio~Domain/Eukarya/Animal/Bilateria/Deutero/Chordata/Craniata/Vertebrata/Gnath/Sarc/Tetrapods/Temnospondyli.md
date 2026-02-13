@@ -27,11 +27,11 @@ dv_has_:
     cs: Temnospondyli
     de: Temnospondyli
     de-at: Temnospondyli
-    de-ch: Temnospondyli
+    de_ch: Temnospondyli
     el: Temnospondyli
     en: Temnospondyli
-    en-ca: Temnospondyli
-    en-gb: Temnospondyli
+    en_ca: Temnospondyli
+    en_gb: Temnospondyli
     eo: Temnospondyli
     es: Temnospondyli
     eu: Temnospondyli
@@ -53,7 +53,7 @@ dv_has_:
     nn: Temnospondyli
     pl: Temnospondyle
     pt: Temnospondyli
-    pt-br: Temnospondyli
+    pt_br: Temnospondyli
     ro: Temnospondyli
     ru: темноспондильные
     sq: Temnospondyli
@@ -64,12 +64,12 @@ dv_has_:
     vi: Temnospondyli
     war: Temnospondyli
     zh: 离片椎目
-    zh-cn: 离片椎目
-    zh-hans: 离片椎目
-    zh-hant: 離片椎目
-    zh-hk: 離片椎目
-    zh-sg: 离片椎目
-    zh-tw: 離片椎目
+    zh_cn: 离片椎目
+    zh_hans: 离片椎目
+    zh_hant: 離片椎目
+    zh_hk: 離片椎目
+    zh_sg: 离片椎目
+    zh_tw: 離片椎目
 ---
 # [[Temnospondyli]] 
 

@@ -88,7 +88,7 @@ dv_has_:
   name_:
     ar: كيمياء دوائية
     ast: Química melecinal
-    be-tarask: мэдычная хімія
+    be_tarask: мэдычная хімія
     bg: Медицинска химия
     bn: ঔষধীয় রসায়ন
     bs: Medicinska hemija
@@ -130,8 +130,8 @@ dv_has_:
     sl: medicinska kemija
     sq: Kimia farmaceutike
     sr: Medicinska hemija
-    sr-ec: Медицинска хемија
-    sr-el: Medicinska hemija
+    sr_ec: Медицинска хемија
+    sr_el: Medicinska hemija
     sv: läkemedelskemi
     ta: மருந்தியல் வேதியியல்
     th: เภสัชเคมี
@@ -142,12 +142,12 @@ dv_has_:
     vi: hóa dược
     yue: 藥物化學
     zh: 药物化学
-    zh-cn: 药物化学
-    zh-hans: 药物化学
-    zh-hant: 藥物化學
-    zh-hk: 藥物化學
-    zh-sg: 药物化学
-    zh-tw: 藥物化學
+    zh_cn: 药物化学
+    zh_hans: 药物化学
+    zh_hant: 藥物化學
+    zh_hk: 藥物化學
+    zh_sg: 药物化学
+    zh_tw: 藥物化學
 ---
 # [[Medicinal_Chemistry]] 
 

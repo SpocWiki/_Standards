@@ -144,7 +144,7 @@ dv_has_:
     az: tikinti
     ba: төҙөлөш
     be: будаўніцтва
-    be-tarask: будаўніцтва
+    be_tarask: будаўніцтва
     bg: строителство
     bn: নির্মাণ
     br: saverezh
@@ -209,7 +209,7 @@ dv_has_:
     pl: roboty budowlane
     ps: رغاونه
     pt: construção
-    pt-br: construção
+    pt_br: construção
     ro: construcție
     ru: строительство
     sah: тутааһын
@@ -241,8 +241,8 @@ dv_has_:
     yi: קאנסטרוקציע
     yue: 建築施工
     zh: 建筑施工
-    zh-hans: 施工
-    zh-hant: 施工
+    zh_hans: 施工
+    zh_hant: 施工
 ---
 # [[Construction(Process)]] 
 

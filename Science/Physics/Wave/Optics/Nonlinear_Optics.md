@@ -65,7 +65,7 @@ dv_has_:
     ast: óptica non llinial
     az: qeyri-xətti optika
     be: нелінейная оптыка
-    be-tarask: нелінейная оптыка
+    be_tarask: нелінейная оптыка
     bg: нелинейна оптика
     ca: òptica no lineal
     cs: nelineární optika
@@ -107,9 +107,9 @@ dv_has_:
     uz: nochiziqli optika
     vi: quang học phi tuyến
     zh: 非线性光学
-    zh-hans: 非线性光学
-    zh-hant: 非線性光學
-    zh-hk: 非線性光學
+    zh_hans: 非线性光学
+    zh_hant: 非線性光學
+    zh_hk: 非線性光學
 ---
 # [[Nonlinear_Optics]] 
 

@@ -58,7 +58,7 @@ dv_has_:
     ar: الطوبولوجيا العامة
     ast: topoloxía xeneral
     be: агульная тапалогія
-    be-tarask: агульная тапалёгія
+    be_tarask: агульная тапалёгія
     bg: обща топология
     bs: opća topologija
     ca: topologia general
@@ -66,8 +66,8 @@ dv_has_:
     de: allgemeine Topologie
     el: γενική τοπολογία
     en: general topology
-    en-ca: general topology
-    en-gb: general topology
+    en_ca: general topology
+    en_gb: general topology
     eo: ĝenerala topologio
     es: topología general
     et: üldtopoloogia
@@ -91,7 +91,7 @@ dv_has_:
     pa: ਆਮ ਟੌਪੌਲੌਜੀ
     pnb: جنرل ٹوپولوجی
     pt: topologia geral
-    pt-br: topologia geral
+    pt_br: topologia geral
     ro: topologie generală
     ru: общая топология
     sl: splošna topologija
@@ -101,9 +101,9 @@ dv_has_:
     wuu: 点集拓扑学
     yue: 點集拓撲學
     zh: 点集拓扑学
-    zh-hans: 点集拓扑学
-    zh-hant: 點集拓撲學
-    zh-hk: 點集拓撲學
+    zh_hans: 点集拓扑学
+    zh_hant: 點集拓撲學
+    zh_hk: 點集拓撲學
 ---
 # [[General_Topology]] 
 

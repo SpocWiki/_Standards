@@ -18,7 +18,7 @@ dv_has_:
     bar: Foiklandinsln
     bcl: Islang Falkland
     be: Фалклендскія астравы
-    be-tarask: Фолклэндзкія астравы
+    be_tarask: Фолклэндзкія астравы
     bg: Фолкландски острови
     bn: ফকল্যান্ড দ্বীপপুঞ্জ
     bpy: ফ্লাকল্যান্ড দ্বীপমালা
@@ -33,14 +33,14 @@ dv_has_:
     cy: Ynysoedd y Malvinas
     da: Falklandsøerne
     de: Falklandinseln
-    de-ch: Falklandinseln
+    de_ch: Falklandinseln
     dsb: Falklandy
     dty: फकल्याण्ड टापु
     dv: ފޯލްކުލޭންޑު ޖަޒީރާ
     el: Νήσοι Φόκλαντ
     en: Falkland Islands
-    en-ca: Falkland Islands
-    en-gb: Falkland Islands
+    en_ca: Falkland Islands
+    en_gb: Falkland Islands
     eo: Insuloj Falklandoj
     es: Islas Malvinas
     et: Falklandi saared
@@ -95,7 +95,7 @@ dv_has_:
     lt: Folklando Salos
     lv: Folklenda Salas
     lzh: 福克蘭群島
-    map-bms: Kepulauan Falkland
+    map_bms: Kepulauan Falkland
     mg: Nosy Falklands
     mi: ngā Moutere Falkland
     min: Kapulauan Falkland
@@ -125,7 +125,7 @@ dv_has_:
     pnb: فاکلینڈ جزیرے
     ps: فالکلينډ ټاپوګان
     pt: Ilhas Malvinas
-    pt-br: Ilhas Malvinas
+    pt_br: Ilhas Malvinas
     qu: Malwina wat'akuna
     ro: Insulele Falkland
     ru: Фолклендские острова
@@ -174,14 +174,14 @@ dv_has_:
     yo: Àwọn Erékùṣù Falkland
     yue: 福克蘭羣島
     zh: 福克蘭群島
-    zh-cn: 马尔维纳斯群岛
-    zh-hans: 福克兰群岛
-    zh-hant: 福克蘭群島
-    zh-hk: 福克蘭群島
-    zh-mo: 福克蘭群島
+    zh_cn: 马尔维纳斯群岛
+    zh_hans: 福克兰群岛
+    zh_hant: 福克蘭群島
+    zh_hk: 福克蘭群島
+    zh_mo: 福克蘭群島
     zh-my: 福克兰群岛
-    zh-sg: 福克兰群岛
-    zh-tw: 福克蘭群島
+    zh_sg: 福克兰群岛
+    zh_tw: 福克蘭群島
     zu: Iziqhingi weFalkland
   url_for_:
     code_repository: https://github.com/SpocWiki/America-Falkland~Islands

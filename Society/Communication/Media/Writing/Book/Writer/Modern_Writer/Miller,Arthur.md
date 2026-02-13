@@ -154,7 +154,7 @@ dv_has_:
     az: Artur Miller
     azb: آرتور میلر
     be: Артур Мілер
-    be-tarask: Артур Мілер
+    be_tarask: Артур Мілер
     bg: Артър Милър
     bn: আর্থার মিলার
     bs: Arthur Miller
@@ -215,7 +215,7 @@ dv_has_:
     pnb: آرتھر ملر
     ps: ارتور مېلر
     pt: Arthur Miller
-    pt-br: Arthur Miller
+    pt_br: Arthur Miller
     qu: Arthur Miller
     ro: Arthur Miller
     ru: Артур Миллер
@@ -225,7 +225,7 @@ dv_has_:
     sl: Arthur Miller
     sq: Arthur Miller
     sr: Артур Милер
-    sr-ec: Артур Милер
+    sr_ec: Артур Милер
     sv: Arthur Miller
     sw: Arthur Miller
     ta: ஆர்தர் மில்லர்

@@ -177,7 +177,7 @@ dv_has_:
     bar: Schee
     bcl: Kagayonan
     be: прыгажосць
-    be-tarask: прыгажосьць
+    be_tarask: прыгажосьць
     bg: Красота
     bn: সৌন্দর্য্য
     br: Kened
@@ -196,11 +196,11 @@ dv_has_:
     da: skønhed
     de: Schönheit
     de-at: Schönheit
-    de-ch: Schönheit
+    de_ch: Schönheit
     el: ομορφιά
     en: beauty
-    en-ca: beauty
-    en-gb: beauty
+    en_ca: beauty
+    en_gb: beauty
     eo: belo
     es: belleza
     et: Ilu
@@ -274,7 +274,7 @@ dv_has_:
     pnb: روپ
     ps: ښکلا
     pt: beleza
-    pt-br: beleza
+    pt_br: beleza
     ro: Frumusețe
     ru: красота
     rue: Краса
@@ -289,7 +289,7 @@ dv_has_:
     so: Qurux
     sq: e bukura
     sr: лепота
-    sr-ec: лепота
+    sr_ec: лепота
     sv: skönhet
     sw: Uzuri
     ta: அழகு
@@ -300,7 +300,7 @@ dv_has_:
     tok: pona lukin
     tr: Güzellik
     tt: матурлык
-    tt-cyrl: матурлык
+    tt_cyrl: матурлык
     tyv: Красота
     udm: чеберлык
     uk: краса

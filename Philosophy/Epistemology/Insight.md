@@ -64,7 +64,7 @@ dv_has_:
     nb: innsikt
     nl: inzicht
     pl: wgląd
-    pt-br: insight
+    pt_br: insight
     ro: insight
     ru: Инсайт
     sh: Uvid
@@ -72,8 +72,8 @@ dv_has_:
     sl: vpogled
     so: Waantoob
     sr: Увид
-    sr-ec: Увид
-    sr-el: Uvid
+    sr_ec: Увид
+    sr_el: Uvid
     tl: Pakiramdam
     tr: İrfan
     uk: інсайт

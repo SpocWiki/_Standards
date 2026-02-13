@@ -204,7 +204,7 @@ dv_has_:
     ba: имлә
     bcl: pagsurat
     be: пісьмо
-    be-tarask: пісьмо
+    be_tarask: пісьмо
     bg: писане
     bjn: manulis
     bn: লিখন
@@ -304,7 +304,7 @@ dv_has_:
     pms: scritura
     pnb: لکھائی
     pt: escrita
-    pt-br: escrita
+    pt_br: escrita
     qu: qillqay
     ro: scriere
     ru: письмо
@@ -339,7 +339,7 @@ dv_has_:
     tl: pagsusulat
     tr: yazı
     tt: язу
-    tt-cyrl: язу
+    tt_cyrl: язу
     ug: يېزىق
     uk: письмо
     ur: تحریر
@@ -354,7 +354,7 @@ dv_has_:
     yi: שרייבן
     yue: 寫字
     zh: 書寫
-    zh-hant: 寫作
+    zh_hant: 寫作
 ---
 # [[Writing]] ✍️ 
 

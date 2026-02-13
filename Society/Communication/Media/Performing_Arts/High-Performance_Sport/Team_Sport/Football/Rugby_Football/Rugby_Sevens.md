@@ -6,7 +6,7 @@ dv_has_:
     ar: سباعيات الرغبي
     ast: rugbi a 7
     be: рэгбі-7
-    be-tarask: Рэгбі-7
+    be_tarask: Рэгбі-7
     bjn: Rugbi pitung
     bn: রাগবি সেভেন্স
     ca: rugbi a 7
@@ -16,8 +16,8 @@ dv_has_:
     de: 7er-Rugby
     el: Ράγκμπι σέβενς
     en: rugby sevens
-    en-ca: rugby sevens
-    en-gb: rugby sevens
+    en_ca: rugby sevens
+    en_gb: rugby sevens
     eo: rugbeo 7
     es: rugby a 7
     et: ragbi-7
@@ -47,7 +47,7 @@ dv_has_:
     oc: Rugbi de 7
     pl: Rugby 7
     pt: râguebi de sete
-    pt-br: rúgbi de sete
+    pt_br: rúgbi de sete
     ro: Rugby în 7
     ru: регби-7
     sco: Seivins
@@ -66,14 +66,14 @@ dv_has_:
     xmf: შკვითკოჩიანი რაგბი
     yue: 七人欖球
     zh: 七人制橄欖球
-    zh-cn: 七人制橄榄球
-    zh-hans: 七人制橄榄球
-    zh-hant: 七人制橄欖球
-    zh-hk: 七人欖球
-    zh-mo: 七人欖球
+    zh_cn: 七人制橄榄球
+    zh_hans: 七人制橄榄球
+    zh_hant: 七人制橄欖球
+    zh_hk: 七人欖球
+    zh_mo: 七人欖球
     zh-my: 七人制橄榄球
-    zh-sg: 七人制橄榄球
-    zh-tw: 七人制橄欖球
+    zh_sg: 七人制橄榄球
+    zh_tw: 七人制橄欖球
 aliases:
 - 7 հոգինոց ռակպի
 - 7 հոգինոց Ռիւկպի

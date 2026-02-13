@@ -162,14 +162,14 @@ dv_has_:
     bar: Johnny Cash
     bcl: Johnny Cash
     be: Джоні Кэш
-    be-tarask: Джоні Кэш
+    be_tarask: Джоні Кэш
     bg: Джони Кеш
     bi: Johnny Cash
     bn: জনি ক্যাশ
     br: Johnny Cash
     bs: Johnny Cash
     ca: Johnny Cash
-    cbk-zam: Johnny Cash
+    cbk_zam: Johnny Cash
     chy: Johnny Cash
     ckb: جۆنی کاش
     co: Johnny Cash
@@ -244,7 +244,7 @@ dv_has_:
     pl: Johnny Cash
     pms: Johnny Cash
     pt: Johnny Cash
-    pt-br: Johnny Cash
+    pt_br: Johnny Cash
     qu: Johnny Cash
     ro: Johnny Cash
     ru: Джонни Кэш

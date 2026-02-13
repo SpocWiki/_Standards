@@ -138,7 +138,7 @@ dv_has_:
     az: Təbii seçmə
     ban: Seléksi alam
     be: натуральны адбор
-    be-tarask: натуральны адбор
+    be_tarask: натуральны адбор
     bg: Естествен отбор
     bn: প্রাকৃতিক নির্বাচন
     bs: Selekcija
@@ -194,7 +194,7 @@ dv_has_:
     mzn: طبیعی انتخاب
     nan: Chū-jiân soán-te̍k
     nb: naturlig seleksjon
-    nds-nl: natuurkeuze
+    nds_nl: natuurkeuze
     ne: प्राकृतिक चयन
     new: प्राकृतिक ल्यया
     nl: natuurlijke selectie

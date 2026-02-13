@@ -134,7 +134,7 @@ dv_has_:
     awa: इरेटोस्थेनीज
     az: Eratosfen
     be: Эратасфен
-    be-tarask: Эратастэн
+    be_tarask: Эратастэн
     bg: Ератостен
     bho: इरेटोस्थेनीज
     bn: এরাতোস্থেনেস
@@ -196,7 +196,7 @@ dv_has_:
     pms: Eratòstene
     pnb: اراٹوستھینز
     pt: Eratóstenes
-    pt-br: Eratóstenes
+    pt_br: Eratóstenes
     ro: Eratostene
     rsk: Ератостен
     ru: Эратосфен
@@ -209,7 +209,7 @@ dv_has_:
     sl: Eratosten
     sq: Eratosteni
     sr: Ератостен
-    sr-ec: Ератостен
+    sr_ec: Ератостен
     sv: Eratosthenes
     sw: Eratosthenes
     ta: எரடோசுதெனீசு
@@ -230,8 +230,8 @@ dv_has_:
     xmf: ერატოსთენე
     yue: 愛拉托散尼
     zh: 埃拉托斯特尼
-    zh-hant: 埃拉托斯特尼
-    zh-tw: 埃拉托斯特尼
+    zh_hant: 埃拉托斯特尼
+    zh_tw: 埃拉托斯特尼
 ---
 # [[Eratosthenes]] 
 

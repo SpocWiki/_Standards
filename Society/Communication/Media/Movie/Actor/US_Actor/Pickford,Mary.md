@@ -123,7 +123,7 @@ dv_has_:
     azb: مری پیکفورد
     ba: Мэри Пикфорд
     be: Мэры Пікфард
-    be-tarask: Мэры Пікфард
+    be_tarask: Мэры Пікфард
     bg: Мери Пикфорд
     bi: Mary Pickford
     bn: ম্যারি পিকফোর্ড
@@ -184,7 +184,7 @@ dv_has_:
     pap: Mary Pickford
     pl: Mary Pickford
     pt: Mary Pickford
-    pt-br: Mary Pickford
+    pt_br: Mary Pickford
     ro: Mary Pickford
     ru: Мэри Пикфорд
     sco: Mary Pickford
@@ -211,7 +211,7 @@ dv_has_:
     yo: Mary Pickford
     yue: 瑪莉碧福
     zh: 玛丽·毕克馥
-    zh-hk: 瑪莉·碧福
+    zh_hk: 瑪莉·碧福
 ---
 # [[Pickford,Mary]] 
 

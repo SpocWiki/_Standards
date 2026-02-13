@@ -164,7 +164,7 @@ dv_has_:
     ba: Ория теле
     bcl: Odia
     be: Орыя
-    be-tarask: арыя
+    be_tarask: арыя
     bg: Одия
     bho: ओडिया
     bn: উড়িয়া ভাষা
@@ -277,10 +277,10 @@ dv_has_:
     xmf: ორია
     yue: 歐利亞文
     zh: 奥里亚语
-    zh-cn: 奥里亚语
-    zh-hans: 奥里亚语
-    zh-hant: 奧里亞語
-    zh-tw: 奧里亞語
+    zh_cn: 奥里亚语
+    zh_hans: 奥里亚语
+    zh_hant: 奧里亞語
+    zh_tw: 奧里亞語
     zu: isi-Odia
 ---
 # [[lang-ori]] 

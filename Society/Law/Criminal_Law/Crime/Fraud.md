@@ -119,7 +119,7 @@ dv_has_:
     azb: دله دوزلوق
     ban: Panipuan
     be: махлярства
-    be-tarask: махлярства
+    be_tarask: махлярства
     bg: Измама
     bs: Neiskrenost
     bxr: Мэхэ гохо
@@ -128,11 +128,11 @@ dv_has_:
     cy: twyll
     da: bedrageri
     de: Betrug
-    de-ch: Täuschung
+    de_ch: Täuschung
     el: απάτη
     en: fraud
-    en-ca: Fraud
-    en-gb: fraud
+    en_ca: Fraud
+    en_gb: fraud
     eo: trompo
     es: fraude
     et: Kelmus
@@ -155,7 +155,7 @@ dv_has_:
     ka: თაღლითობა
     ko: 사기죄
     ku: sextekarî
-    ku-latn: sextekarî
+    ku_latn: sextekarî
     la: Falsimonia
     lmo: Trufa
     lt: sukčiavimas
@@ -173,7 +173,7 @@ dv_has_:
     pap: Froude
     pl: oszustwo
     pt: fraude
-    pt-br: fraude
+    pt_br: fraude
     ro: fraudă
     ru: мошенничество
     sk: podvod
@@ -181,8 +181,8 @@ dv_has_:
     so: Xeelad
     sq: Mashtrimi (vepër penale)
     sr: превара
-    sr-ec: превара
-    sr-el: prevara
+    sr_ec: превара
+    sr_el: prevara
     sv: bedrägeri
     sw: Ulaghai
     th: กลฉ้อฉล
@@ -195,10 +195,10 @@ dv_has_:
     yi: שװינדלערײַ
     yue: 呃人
     zh: 詐騙
-    zh-cn: 诈骗
-    zh-hans: 诈骗
-    zh-hant: 詐騙
-    zh-tw: 詐欺
+    zh_cn: 诈骗
+    zh_hans: 诈骗
+    zh_hant: 詐騙
+    zh_tw: 詐欺
 ---
 # [[Fraud]] 
 

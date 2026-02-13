@@ -62,7 +62,7 @@ dv_has_:
     azb: روپیه
     ba: рупия
     be: рупія
-    be-tarask: рупія
+    be_tarask: рупія
     bg: рупия
     bho: रुपिया
     bn: রুপি
@@ -100,11 +100,11 @@ dv_has_:
     jv: rupee
     kab: rupi
     kk: рупия
-    kk-arab: رۋپىييا
+    kk_arab: رۋپىييا
     kk-cn: رۋپىييا
-    kk-cyrl: рупия
+    kk_cyrl: рупия
     kk-kz: рупия
-    kk-latn: rwpïya
+    kk_latn: rwpïya
     kk-tr: rwpïya
     kn: ರೂಪಾಯಿ
     ko: 루피
@@ -133,7 +133,7 @@ dv_has_:
     sk: rupia
     sl: rupija
     sr: рупи
-    sr-ec: рупија
+    sr_ec: рупија
     sv: rupee
     sw: rupia
     ta: உரூபாய்
@@ -149,12 +149,12 @@ dv_has_:
     wuu: 卢比
     yue: 盧比
     zh: 盧比
-    zh-cn: 卢比
-    zh-hans: 卢比
-    zh-hant: 盧比
-    zh-hk: 盧比
-    zh-sg: 卢比
-    zh-tw: 盧比
+    zh_cn: 卢比
+    zh_hans: 卢比
+    zh_hant: 盧比
+    zh_hk: 盧比
+    zh_sg: 卢比
+    zh_tw: 盧比
 ---
 # [[Rupee]] 
 

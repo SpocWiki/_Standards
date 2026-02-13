@@ -245,7 +245,7 @@ dv_has_:
     ba: уйын
     bcl: Karawat
     be: гульня
-    be-tarask: гульня
+    be_tarask: гульня
     bew: Permaènan
     bg: игра
     bho: खेल
@@ -266,8 +266,8 @@ dv_has_:
     de: Spiel
     el: παιχνίδι
     en: game
-    en-ca: game
-    en-gb: game
+    en_ca: game
+    en_gb: game
     eo: ludo
     es: juego
     et: mäng
@@ -317,7 +317,7 @@ dv_has_:
     ko: 게임
     krc: Оюн
     ku: lîstik
-    ku-latn: lîstik
+    ku_latn: lîstik
     ky: оюн
     la: ludus
     lad: Juego
@@ -331,7 +331,7 @@ dv_has_:
     lua: Manayi
     lv: spēle
     lzh: 遊戲
-    map-bms: Dolanan
+    map_bms: Dolanan
     mcn: li᷅wtà
     mg: Kilalao
     mk: игра
@@ -339,7 +339,7 @@ dv_has_:
     mn: Тоглоом
     mr: क्रीडा
     ms: permainan
-    ms-arab: ڤرماءينن
+    ms_arab: ڤرماءينن
     mt: logħba
     mwl: Jogo
     myv: налксема
@@ -360,7 +360,7 @@ dv_has_:
     pnb: کھیڈ
     ps: لوبه
     pt: jogo
-    pt-br: jogo
+    pt_br: jogo
     qu: Puklla
     rm: Gieu
     ro: joc
@@ -381,7 +381,7 @@ dv_has_:
     sms: siõrr
     sq: lojë
     sr: игра
-    sr-ec: игра
+    sr_ec: игра
     stq: Spil
     su: kaulinan
     sv: spel
@@ -394,7 +394,7 @@ dv_has_:
     tr: oyun
     ts: Ntlangu
     tt: уен
-    tt-cyrl: уен
+    tt_cyrl: уен
     udm: шудон
     uk: гра
     ur: کھیل
@@ -411,11 +411,11 @@ dv_has_:
     yo: ere idanilaraya
     yue: 遊戲
     zh: 遊戲
-    zh-cn: 游戏
-    zh-hans: 游戏
-    zh-hant: 遊戲
-    zh-hk: 遊戲
-    zh-tw: 遊戲
+    zh_cn: 游戏
+    zh_hans: 游戏
+    zh_hant: 遊戲
+    zh_hk: 遊戲
+    zh_tw: 遊戲
     zu: Imidlalo
 ---
 # [[Game]]

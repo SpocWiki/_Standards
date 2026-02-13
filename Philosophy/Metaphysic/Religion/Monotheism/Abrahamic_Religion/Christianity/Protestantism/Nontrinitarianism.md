@@ -63,7 +63,7 @@ dv_has_:
     ar: لاثالوثية
     ast: antitrinitarismu
     be: антытрынітарызм
-    be-tarask: антытрынітарызм
+    be_tarask: антытрынітарызм
     bn: অত্রিত্ববাদ
     ca: antitrinitarisme
     ckb: ناسیانەپەرستی

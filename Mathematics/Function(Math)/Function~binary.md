@@ -37,7 +37,7 @@ dv_has_:
   name_:
     af: binêre funksie
     ar: دالة اثنانية
-    be-tarask: бінарная функцыя
+    be_tarask: бінарная функцыя
     ca: funció binària
     cs: binární funkce
     da: binær funktion
@@ -58,12 +58,12 @@ dv_has_:
     pt: função binária
     ru: бинарная функция
     sl: binarna funkcija
-    sr-ec: бинарна функција
+    sr_ec: бинарна функција
     ta: ஈருறுப்புச் சார்பு
     uk: бінарна функція
     zh: 双参函数
-    zh-hans: 双参函数
-    zh-hant: 二元函數
+    zh_hans: 双参函数
+    zh_hant: 二元函數
 ---
 # [[Function~binary]] 
 

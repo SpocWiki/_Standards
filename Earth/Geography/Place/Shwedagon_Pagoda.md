@@ -96,7 +96,7 @@ dv_has_:
     az: Qızıl Daqon Paqodası
     ba: Шведагон пагодаһы
     be: Пагада Шведагон
-    be-tarask: Швэдагон
+    be_tarask: Швэдагон
     bg: Шведагон
     bn: শ্বেতাগোঁন মহাচৈত্য
     ca: Shwedagon Pagoda
@@ -133,8 +133,8 @@ dv_has_:
     shn: ၵွင်းမူးသူၺ်ႇတၵူင်ႇ
     sl: Pagoda Shwedagon
     sr: Шведагон
-    sr-ec: Шведагон
-    sr-el: Švedagon
+    sr_ec: Шведагон
+    sr_el: Švedagon
     sv: Shwedagon
     ta: சவேடகன் அடுக்குத் தூபி
     th: พระมหาธาตุเจดีย์ชเวดากอง
@@ -146,12 +146,12 @@ dv_has_:
     wuu: 仰光大金寺
     yue: 大金寺
     zh: 仰光大金寺
-    zh-cn: 仰光大金寺
-    zh-hans: 仰光大金寺
-    zh-hant: 仰光大金寺
-    zh-hk: 仰光大金寺
-    zh-sg: 仰光大金寺
-    zh-tw: 仰光大金寺
+    zh_cn: 仰光大金寺
+    zh_hans: 仰光大金寺
+    zh_hant: 仰光大金寺
+    zh_hk: 仰光大金寺
+    zh_sg: 仰光大金寺
+    zh_tw: 仰光大金寺
 ---
 # [[Shwedagon_Pagoda]] 
 

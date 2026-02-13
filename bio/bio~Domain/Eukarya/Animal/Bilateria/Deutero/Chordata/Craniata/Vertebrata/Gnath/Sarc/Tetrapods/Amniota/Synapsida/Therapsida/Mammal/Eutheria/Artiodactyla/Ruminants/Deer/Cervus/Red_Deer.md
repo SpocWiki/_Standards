@@ -173,7 +173,7 @@ dv_has_:
     ba: болан
     ban: Menjangan barak
     be: алень высакародны
-    be-tarask: алень звычайны
+    be_tarask: алень звычайны
     bg: благороден елен
     bo: ཤ་བ་སེར་ཆེན།
     br: karv ruz
@@ -185,11 +185,11 @@ dv_has_:
     cy: Carw coch
     da: kronhjort
     de: Rothirsch
-    de-ch: Rothirsch
+    de_ch: Rothirsch
     el: κόκκινο ελάφι
     en: red deer
-    en-ca: Red deer
-    en-gb: red deer
+    en_ca: Red deer
+    en_gb: red deer
     eo: Ruĝa cervo
     es: Cervus elaphus
     et: punahirv
@@ -244,7 +244,7 @@ dv_has_:
     pl: jeleń szlachetny
     pnb: لال ہرن
     pt: Veado-vermelho
-    pt-br: Cervus elaphus
+    pt_br: Cervus elaphus
     qu: Puka sirwu
     ro: cerb comun
     ru: благородный олень
@@ -279,9 +279,9 @@ dv_has_:
     wuu: 红鹿
     yue: 紅鹿
     zh: 欧洲马鹿
-    zh-cn: 马鹿
-    zh-hans: 马鹿
-    zh-tw: 馬鹿
+    zh_cn: 马鹿
+    zh_hans: 马鹿
+    zh_tw: 馬鹿
 ---
 # [[Red_Deer]] 🦌 
 

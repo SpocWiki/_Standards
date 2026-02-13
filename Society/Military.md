@@ -185,7 +185,7 @@ dv_has_:
     ba: ҡораллы көстәр
     bar: Militär
     be: армія
-    be-tarask: армія
+    be_tarask: армія
     bew: Militèr
     bg: въоръжени сили
     bn: সামরিক
@@ -208,8 +208,8 @@ dv_has_:
     dsb: wójaŕstwo
     el: στράτευμα
     en: military
-    en-ca: military
-    en-gb: military
+    en_ca: military
+    en_gb: military
     eo: armearo
     es: ejército
     et: sõjavägi
@@ -276,7 +276,7 @@ dv_has_:
     pnb: فوج
     ps: پوځ
     pt: forças armadas
-    pt-br: militar
+    pt_br: militar
     rm: militar
     rmy: rekshan
     ro: armată
@@ -292,7 +292,7 @@ dv_has_:
     sl: vojska
     sq: forcat ushtarake
     sr: војска
-    sr-ec: војска
+    sr_ec: војска
     sv: militär
     sw: Jeshi
     szl: wojsko
@@ -304,7 +304,7 @@ dv_has_:
     tok: kulupu utala
     tr: askeriye
     tt: армия
-    tt-cyrl: армия
+    tt_cyrl: армия
     udm: армия
     uk: війська
     ur: فوج
@@ -320,14 +320,14 @@ dv_has_:
     yue: 軍隊
     za: ginhsw
     zh: 軍隊
-    zh-cn: 军队
-    zh-hans: 军队
-    zh-hant: 軍隊
-    zh-hk: 軍隊
-    zh-mo: 軍隊
+    zh_cn: 军队
+    zh_hans: 军队
+    zh_hant: 軍隊
+    zh_hk: 軍隊
+    zh_mo: 軍隊
     zh-my: 军队
-    zh-sg: 军队
-    zh-tw: 軍隊
+    zh_sg: 军队
+    zh_tw: 軍隊
 ---
 # [[Military]] 
 

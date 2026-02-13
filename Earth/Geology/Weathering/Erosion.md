@@ -128,7 +128,7 @@ dv_has_:
     az: eroziya
     bas: lìjɛ hìsi
     be: эрозія
-    be-tarask: эрозія
+    be_tarask: эрозія
     bg: ерозия
     bn: ক্ষয়ীভবন
     br: krignerezh
@@ -143,7 +143,7 @@ dv_has_:
     de: Erosion
     el: αποσάθρωση
     en: erosion
-    en-gb: erosion
+    en_gb: erosion
     eo: erozio
     es: erosión
     et: erosioon
@@ -184,7 +184,7 @@ dv_has_:
     li: erosie
     lt: erozija
     lv: erozija
-    map-bms: erosi
+    map_bms: erosi
     mg: kaoka
     mk: ерозија
     ml: മണ്ണൊലിപ്പ്
@@ -216,8 +216,8 @@ dv_has_:
     sms: eroosio
     sq: abrazioni
     sr: ерозија
-    sr-ec: ерозија
-    sr-el: erozija
+    sr_ec: ерозија
+    sr_el: erozija
     sv: erosion
     sw: mmomonyoko
     ta: மண்ணரிப்பு
@@ -234,7 +234,7 @@ dv_has_:
     yo: ogbara
     yue: 侵蝕
     zh: 侵蚀作用
-    zh-hant: 侵蝕
+    zh_hant: 侵蝕
 ---
 # [[Erosion]] 
 

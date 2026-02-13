@@ -119,7 +119,7 @@ dv_has_:
     azb: دیرنچ
     ba: резистор
     be: рэзістар
-    be-tarask: рэзыстар
+    be_tarask: рэзыстар
     bg: резистор
     bn: রোধক
     br: harzell
@@ -135,8 +135,8 @@ dv_has_:
     de: Widerstand
     el: αντιστάτης
     en: resistor
-    en-ca: resistor
-    en-gb: resistor
+    en_ca: resistor
+    en_gb: resistor
     eo: rezistilo
     es: resistor
     et: takisti
@@ -196,7 +196,7 @@ dv_has_:
     pms: Resistor
     pnb: روک
     pt: resistor
-    pt-br: resistor
+    pt_br: resistor
     ro: rezistor
     ru: резистор
     rue: резістор
@@ -209,8 +209,8 @@ dv_has_:
     smn: coogâs
     sq: rezistorët
     sr: отпорник
-    sr-ec: отпорник
-    sr-el: otpornik
+    sr_ec: отпорник
+    sr_el: otpornik
     stq: Wierstande
     su: résistor
     sv: resistor

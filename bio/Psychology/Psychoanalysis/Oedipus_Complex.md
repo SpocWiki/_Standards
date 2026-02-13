@@ -107,7 +107,7 @@ dv_has_:
     bar: Edipuskomplex
     bcl: Kompleks ni Edipo
     be: Эдыпаў комплекс
-    be-tarask: Эдыпавы комплекс
+    be_tarask: Эдыпавы комплекс
     bg: Едипов комплекс
     bn: ইডিপাস কমপ্লেক্স
     bs: Edipov kompleks
@@ -143,8 +143,8 @@ dv_has_:
     kbp: Kinaŋ acɛyɛ
     ko: 오이디푸스 콤플렉스
     ku: Kompleksa oidîpûsê
-    ku-arab: کۆمپلەکسائۆ دیپووسێ
-    ku-latn: kompleksa oidîpûsê
+    ku_arab: کۆمپلەکسائۆ دیپووسێ
+    ku_latn: kompleksa oidîpûsê
     la: Complexus Oedipodis
     lt: Edipo kompleksas
     lv: Edipa komplekss
@@ -166,8 +166,8 @@ dv_has_:
     sk: Oidipov komplex
     sl: ojdipovski kompleks
     sr: Едипов комплекс
-    sr-ec: Едипов комплекс
-    sr-el: Edipov kompleks
+    sr_ec: Едипов комплекс
+    sr_el: Edipov kompleks
     sv: Oidipuskomplex
     ta: இடிபஸ் காம்ப்பிளக்ஸ்
     th: ปมเอดิเพิส
@@ -180,12 +180,12 @@ dv_has_:
     wuu: 恋母情结
     yue: 戀母情意結
     zh: 恋母情结
-    zh-cn: 恋母情结
-    zh-hans: 恋母情结
-    zh-hant: 戀母情結
-    zh-hk: 戀母情結
-    zh-sg: 恋母情结
-    zh-tw: 戀母情結
+    zh_cn: 恋母情结
+    zh_hans: 恋母情结
+    zh_hant: 戀母情結
+    zh_hk: 戀母情結
+    zh_sg: 恋母情结
+    zh_tw: 戀母情結
 ---
 # [[Oedipus_Complex]] 
 

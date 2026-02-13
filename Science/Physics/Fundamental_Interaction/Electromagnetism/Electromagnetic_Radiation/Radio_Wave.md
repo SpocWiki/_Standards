@@ -117,7 +117,7 @@ dv_has_:
     azb: رادیو دالغاسی
     ban: Gelombang radio
     be: радыёхвалі
-    be-tarask: радыёвыпраменьваньне
+    be_tarask: радыёвыпраменьваньне
     bg: Радиовълни
     bn: বেতার তরঙ্গ
     bs: Radiotalasi
@@ -130,8 +130,8 @@ dv_has_:
     de: Radiowelle
     el: Ραδιοκύματα
     en: radio wave
-    en-ca: Radio waves
-    en-gb: radio waves
+    en_ca: Radio waves
+    en_gb: radio waves
     eo: radioondo
     es: radiofrecuencia
     et: raadiolaine
@@ -180,7 +180,7 @@ dv_has_:
     pl: fale radiowe
     ps: بې سيم څپه
     pt: onda de rádio
-    pt-br: Onda de rádio
+    pt_br: Onda de rádio
     rki: ရီဒီယိုလှိုင်းတိ
     ro: unde radio
     ru: радиоволны

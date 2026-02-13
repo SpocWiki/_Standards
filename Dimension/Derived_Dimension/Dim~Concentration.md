@@ -78,7 +78,7 @@ dv_has_:
     ar: تركيز
     ast: concentración
     bcl: konsentrasyon
-    be-tarask: канцэнтрацыя
+    be_tarask: канцэнтрацыя
     bg: концентрация на разтвор
     bn: ঘনমাত্রা
     bs: Koncentracija
@@ -120,7 +120,7 @@ dv_has_:
     ml: ഗാഢത
     mn: концентраци
     ms: kepekatan
-    ms-arab: کڤکتن
+    ms_arab: کڤکتن
     nan: lông-tō͘
     nb: konsentrasjon
     nl: concentratie
@@ -134,7 +134,7 @@ dv_has_:
     sl: koncentracija
     sn: hutapiri
     sr: концентрација
-    sr-ec: концентрација
+    sr_ec: концентрација
     sv: koncentration
     ta: செறிவு
     te: గాఢత

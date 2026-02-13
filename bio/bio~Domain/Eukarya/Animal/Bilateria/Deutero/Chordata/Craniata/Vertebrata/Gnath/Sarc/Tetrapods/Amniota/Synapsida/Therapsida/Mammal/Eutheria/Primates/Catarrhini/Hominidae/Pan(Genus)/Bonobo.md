@@ -171,10 +171,10 @@ dv_has_:
     yi: באנאבא
     yue: 矮黑猩猩
     zh: 倭黑猩猩
-    zh-cn: 倭黑猩猩
-    zh-hans: 倭黑猩猩
-    zh-hant: 倭黑猩猩
-    zh-tw: 倭黑猩猩
+    zh_cn: 倭黑猩猩
+    zh_hans: 倭黑猩猩
+    zh_hant: 倭黑猩猩
+    zh_tw: 倭黑猩猩
 ---
 # [[Bonobo]] 
 

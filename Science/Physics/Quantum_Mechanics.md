@@ -191,7 +191,7 @@ dv_has_:
     bar: Fuzalmechanik
     bcl: mekanikang kwantum
     be: квантавая механіка
-    be-tarask: квантавая мэханіка
+    be_tarask: квантавая мэханіка
     bg: квантова механика
     bho: क्वांटम मैकेनिक्स
     bn: কোয়ান্টাম বলবিজ্ঞান
@@ -207,11 +207,11 @@ dv_has_:
     cy: mecaneg cwantwm
     da: kvantemekanik
     de: Quantenmechanik
-    de-ch: Quantenmechanik
+    de_ch: Quantenmechanik
     el: κβαντική μηχανική
     en: quantum mechanics
-    en-ca: quantum mechanics
-    en-gb: quantum mechanics
+    en_ca: quantum mechanics
+    en_gb: quantum mechanics
     eo: kvantuma meĥaniko
     es: mecánica cuántica
     et: kvantmehaanika
@@ -265,7 +265,7 @@ dv_has_:
     mn: квант механик
     mr: पुंज यामिकी
     ms: mekanik kuantum
-    ms-arab: ميکانيک کوانتوم
+    ms_arab: ميکانيک کوانتوم
     mt: mekkanika kwantistika
     my: ကွမ်တမ်မက္ကင်းနစ်
     mzn: کوانتومی فیزیک
@@ -284,7 +284,7 @@ dv_has_:
     pnb: کوانٹم مکینکس
     ps: کوانټوم میخانیک
     pt: mecânica quântica
-    pt-br: mecânica quântica
+    pt_br: mecânica quântica
     rki: ကွမ်တမ်မက္ကင်းနစ်
     ro: mecanică cuantică
     ru: квантовая механика
@@ -305,7 +305,7 @@ dv_has_:
     sms: kvanttmekanikk
     sq: mekanika kuantike
     sr: квантна механика
-    sr-ec: квантна механика
+    sr_ec: квантна механика
     su: mékanika kuantum
     sv: kvantmekanik
     sw: umakanika kwanta
@@ -332,7 +332,7 @@ dv_has_:
     yue: 量子力學
     zgh: ⵜⴰⵙⵏⴷⴷⵓⵜ ⵜⴰⵙⵎⴽⵜⴰⵢⵜ
     zh: 量子力学
-    zh-hans: 量子力学
+    zh_hans: 量子力学
     zu: Ukuguxazela kohoyana
 ---
 # [[Quantum_Mechanics]] 

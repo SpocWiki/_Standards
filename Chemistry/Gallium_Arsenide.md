@@ -78,8 +78,8 @@ dv_has_:
     sk: arzenid gália
     sl: galijev arzenid
     sr: галијум арсенид
-    sr-ec: Галијум арсенид
-    sr-el: Galijum arsenid
+    sr_ec: Галијум арсенид
+    sr_el: Galijum arsenid
     sv: Galliumarsenid
     ta: காலியம் ஆர்சினைடு
     th: แกลเลียมอาร์ซีไนด์
@@ -89,12 +89,12 @@ dv_has_:
     wuu: 砷化镓
     yue: 砷化鎵
     zh: 砷化鎵
-    zh-cn: 砷化镓
-    zh-hans: 砷化镓
-    zh-hant: 砷化鎵
-    zh-hk: 砷化鎵
-    zh-sg: 砷化镓
-    zh-tw: 砷化鎵
+    zh_cn: 砷化镓
+    zh_hans: 砷化镓
+    zh_hant: 砷化鎵
+    zh_hk: 砷化鎵
+    zh_sg: 砷化镓
+    zh_tw: 砷化鎵
   parts:
   - '[[Chemical_Element/Group-13-Boron/Gallium|Gallium]]]'
   - '[[Chemical_Element/Group-15-Nitrogen/Arsenic|Arsenic]]]'

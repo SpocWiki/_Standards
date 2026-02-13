@@ -258,7 +258,7 @@ dv_has_:
     ban: Thomas Jefferson
     bcl: Thomas Jefferson
     be: Томас Джэферсан
-    be-tarask: Томас Джэфэрсан
+    be_tarask: Томас Джэфэрсан
     bg: Томас Джеферсън
     bi: Thomas Jefferson
     bn: টমাস জেফারসন
@@ -283,8 +283,8 @@ dv_has_:
     dv: ތޯމަސް ޖެފަރސަން
     el: Τόμας Τζέφερσον
     en: Thomas Jefferson
-    en-ca: Thomas Jefferson
-    en-gb: Thomas Jefferson
+    en_ca: Thomas Jefferson
+    en_gb: Thomas Jefferson
     eo: Thomas Jefferson
     es: Thomas Jefferson
     et: Thomas Jefferson
@@ -356,7 +356,7 @@ dv_has_:
     nan: Thomas Jefferson
     nb: Thomas Jefferson
     nds: Thomas Jefferson
-    nds-nl: Thomas Jefferson
+    nds_nl: Thomas Jefferson
     ne: थोमस जेफर्सन
     new: थोमस जेफरसन
     nl: Thomas Jefferson
@@ -372,7 +372,7 @@ dv_has_:
     pnb: تھامس جیفرسن
     ps: توماس جفرسون
     pt: Thomas Jefferson
-    pt-br: Thomas Jefferson
+    pt_br: Thomas Jefferson
     qu: Thomas Jefferson
     rmf: Thomas Jefferson
     rmy: Thomas Jefferson
@@ -398,7 +398,7 @@ dv_has_:
     sms: Thomas Jefferson
     sq: Thomas Jefferson
     sr: Томас Џеферсон
-    sr-ec: Томас Џеферсон
+    sr_ec: Томас Џеферсон
     sv: Thomas Jefferson
     sw: Thomas Jefferson
     szy: Tang-ma-s.cye-bu-sun
@@ -428,11 +428,11 @@ dv_has_:
     yo: Thomas Jefferson
     yue: 湯瑪斯傑佛遜
     zh: 托马斯·杰斐逊
-    zh-cn: 托马斯·杰斐逊
-    zh-hans: 托马斯·杰斐逊
-    zh-hant: 湯瑪斯·傑佛遜
-    zh-hk: 湯瑪士·謝佛遜
-    zh-tw: 湯瑪斯·傑佛遜
+    zh_cn: 托马斯·杰斐逊
+    zh_hans: 托马斯·杰斐逊
+    zh_hant: 湯瑪斯·傑佛遜
+    zh_hk: 湯瑪士·謝佛遜
+    zh_tw: 湯瑪斯·傑佛遜
   time_:
     started: 1743-04-13T00:00:00.000+00:53
     stopped: 1826-07-04T00:00:00.000+00:53

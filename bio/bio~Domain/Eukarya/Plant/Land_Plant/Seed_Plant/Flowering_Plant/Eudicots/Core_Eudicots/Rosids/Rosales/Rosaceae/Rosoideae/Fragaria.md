@@ -162,7 +162,7 @@ dv_has_:
     azb: چیلک
     bar: Eadbean
     be: суніцы
-    be-tarask: суніцы
+    be_tarask: суніцы
     bg: ягода
     bs: Jagoda
     bxr: Гүлзөөргэнэ
@@ -172,13 +172,13 @@ dv_has_:
     cs: jahodník
     da: jordbær-slægten
     de: Erdbeeren
-    de-ch: Erdbeeren
+    de_ch: Erdbeeren
     diq: Çilege
     dsb: Słynica
     el: φράουλα
     en: Fragaria
-    en-ca: Fragaria
-    en-gb: Fragaria
+    en_ca: Fragaria
+    en_gb: Fragaria
     eo: fragario
     es: Fragaria
     et: Maasikas
@@ -221,7 +221,7 @@ dv_has_:
     nah: Mixxocotl
     nan: Chhì-pho
     nb: jordbærslekta
-    nds-nl: erebeie
+    nds_nl: erebeie
     ne: फ्रागरिया
     nl: aardbei
     nn: Jordbærslekta
@@ -233,7 +233,7 @@ dv_has_:
     pms: Morej
     ps: ځمکني توتان
     pt: Morangueiro
-    pt-br: Morangueiro
+    pt_br: Morangueiro
     qu: Muntipuquy
     ro: Fragaria
     ru: земляника
@@ -270,10 +270,10 @@ dv_has_:
     yue: 士多啤梨屬
     zea: Aerebezems
     zh: 草莓属
-    zh-cn: 草莓属
-    zh-hans: 草莓属
-    zh-hant: 草莓属
-    zh-tw: 草莓屬
+    zh_cn: 草莓属
+    zh_hans: 草莓属
+    zh_hant: 草莓属
+    zh_tw: 草莓屬
 ---
 # [[Fragaria]] 
 

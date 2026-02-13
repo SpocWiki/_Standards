@@ -103,7 +103,7 @@ dv_has_:
     ar: السمفونية التاسعة
     bar: 9. Simfonie
     be: Сімфонія № 9 (Бетховен)
-    be-tarask: сымфонія №9
+    be_tarask: сымфонія №9
     bg: Симфония № 9
     ca: Simfonia núm. 9
     ceb: Symphony No. 9
@@ -114,8 +114,8 @@ dv_has_:
     de: 9. Sinfonie
     el: Συμφωνία αρ. 9
     en: Symphony No. 9
-    en-ca: Symphony No. 9
-    en-gb: Symphony No. 9
+    en_ca: Symphony No. 9
+    en_gb: Symphony No. 9
     en-us: Symphony No. 9
     eo: Simfonio n-ro 9 en D-minoro
     es: Sinfonía n.º 9
@@ -165,9 +165,9 @@ dv_has_:
     war: Simponiya Ihap 9
     yue: 貝多芬第九交響曲
     zh: 第9號交響曲
-    zh-cn: 第9號交響曲
-    zh-hans: 第9號交響曲
-    zh-hant: 第9號交響曲
+    zh_cn: 第9號交響曲
+    zh_hans: 第9號交響曲
+    zh_hant: 第9號交響曲
 ---
 # [[Symphony_9(Beethoven)]] 
 

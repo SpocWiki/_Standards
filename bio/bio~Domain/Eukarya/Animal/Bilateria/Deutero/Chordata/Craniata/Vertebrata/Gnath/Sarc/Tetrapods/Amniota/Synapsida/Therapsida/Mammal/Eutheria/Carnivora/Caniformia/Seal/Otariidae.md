@@ -77,7 +77,7 @@ dv_has_:
     az: Qulaqlı suitilər
     azb: قۇلاقلی سۇ ایتیلر
     be: вушастыя цюлені
-    be-tarask: Сіваковыя
+    be_tarask: Сіваковыя
     bg: ушати тюлени
     br: Otariidae
     ca: Otàrid
@@ -128,7 +128,7 @@ dv_has_:
     pl: uchatkowate
     pnb: کنے سیل
     pt: Otariidae
-    pt-br: Otariidae
+    pt_br: Otariidae
     ro: Otariidae
     ru: ушастые тюлени
     sh: Ušate foke
@@ -148,9 +148,9 @@ dv_has_:
     wuu: 海狮科
     yue: 海獅科
     zh: 海獅科
-    zh-cn: 海狮科
-    zh-hans: 海狮科
-    zh-tw: 海獅科
+    zh_cn: 海狮科
+    zh_hans: 海狮科
+    zh_tw: 海獅科
 ---
 # [[Otariidae]] 
 

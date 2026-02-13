@@ -13,7 +13,7 @@ dv_has_:
     ba: ҡабатлау
     bcl: pagpadakul
     be: памнажэнне
-    be-tarask: множаньне
+    be_tarask: множаньне
     bg: умножение
     bn: গুণ
     bo: སྒྱུར་རྩིས།
@@ -93,7 +93,7 @@ dv_has_:
     pl: mnożenie
     ps: ضرب
     pt: multiplicação
-    pt-br: multiplicação
+    pt_br: multiplicação
     qu: miray
     ro: înmulțire
     ru: умножение
@@ -106,7 +106,7 @@ dv_has_:
     so: ku dhufasho
     sq: shumëzimi
     sr: множење
-    sr-ec: множење
+    sr_ec: множење
     su: produk
     sv: multiplikation
     sw: dharuba
@@ -133,8 +133,8 @@ dv_has_:
     yue: 乘
     za: swngzfap
     zh: 乘法
-    zh-hans: 乘法
-    zh-tw: 乘法
+    zh_hans: 乘法
+    zh_tw: 乘法
 aliases:
 - Baay’isuu
 - biderketa

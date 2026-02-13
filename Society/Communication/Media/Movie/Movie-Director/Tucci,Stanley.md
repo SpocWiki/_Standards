@@ -39,7 +39,7 @@ dv_has_:
     azb: استنلی توچی
     bar: Stanley Tucci
     be: Стэнлі Тучы
-    be-tarask: Стэнлі Туччы
+    be_tarask: Стэнлі Туччы
     bg: Стенли Тучи
     bm: Stanley Tucci
     bn: স্ট্যানলি টুচি
@@ -52,11 +52,11 @@ dv_has_:
     da: Stanley Tucci
     de: Stanley Tucci
     de-at: Stanley Tucci
-    de-ch: Stanley Tucci
+    de_ch: Stanley Tucci
     el: Στάνλεϊ Τούτσι
     en: Stanley Tucci
-    en-ca: Stanley Tucci
-    en-gb: Stanley Tucci
+    en_ca: Stanley Tucci
+    en_gb: Stanley Tucci
     eo: Stanley Tucci
     es: Stanley Tucci
     et: Stanley Tucci
@@ -104,7 +104,7 @@ dv_has_:
     nap: Stanley Tucci
     nb: Stanley Tucci
     nds: Stanley Tucci
-    nds-nl: Stanley Tucci
+    nds_nl: Stanley Tucci
     nl: Stanley Tucci
     nn: Stanley Tucci
     nrm: Stanley Tucci
@@ -115,7 +115,7 @@ dv_has_:
     pms: Stanley Tucci
     prg: Stanley Tucci
     pt: Stanley Tucci
-    pt-br: Stanley Tucci
+    pt_br: Stanley Tucci
     rgn: Stanley Tucci
     rm: Stanley Tucci
     ro: Stanley Tucci
@@ -128,17 +128,17 @@ dv_has_:
     sl: Stanley Tucci
     sq: Stanley Tucci
     sr: Стенли Тучи
-    sr-ec: Стенли Тучи
-    sr-el: Stenli Tuči
+    sr_ec: Стенли Тучи
+    sr_el: Stenli Tuči
     sv: Stanley Tucci
     sw: Stanley Tucci
     ta: ஸ்டான்லி துச்சி
-    tg-cyrl: Стэнли Туччи
+    tg_cyrl: Стэнли Туччи
     th: สแตนลีย์ ทุชชี
     tl: Stanley Tucci
     tr: Stanley Tucci
     tt: Стәнли Туччи
-    tt-cyrl: Стәнли Туччи
+    tt_cyrl: Стәнли Туччи
     uk: Стенлі Туччі
     ur: اسٹینلی ٹوچی
     uz: Stanley Tucci
@@ -153,11 +153,11 @@ dv_has_:
     yo: Stanley Tucci
     yue: 史丹利特治
     zh: 斯坦利·图奇
-    zh-cn: 斯坦利·图奇
-    zh-hans: 斯坦利·图奇
-    zh-hant: 史丹利·圖奇
-    zh-hk: 史丹利·特治
-    zh-tw: 史丹利·圖奇
+    zh_cn: 斯坦利·图奇
+    zh_hans: 斯坦利·图奇
+    zh_hant: 史丹利·圖奇
+    zh_hk: 史丹利·特治
+    zh_tw: 史丹利·圖奇
     zu: Stanley Tucci
 ---
 #has_/time_/started :: 1960-11-11 

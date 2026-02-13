@@ -20,7 +20,7 @@ has_id_wikidata: Q1436016
 dv_has_:
   name_:
     ar: جمهرة النجوم
-    be-tarask: зорнае насельніцтва
+    be_tarask: зорнае насельніцтва
     ca: població estel·lar
     da: Stjernegenerationer
     de: Population

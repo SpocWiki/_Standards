@@ -69,7 +69,7 @@ dv_has_:
     az: Qalen
     ba: Клавдий Гален
     be: Гален
-    be-tarask: Гален
+    be_tarask: Гален
     bg: Гален
     bn: গ্যালেন
     br: Galen
@@ -86,8 +86,8 @@ dv_has_:
     de: Galenos
     el: Γαληνός
     en: Galen
-    en-ca: Galen
-    en-gb: Galen
+    en_ca: Galen
+    en_gb: Galen
     eo: Galeno de Pergamono
     es: Galeno
     et: Galenos
@@ -118,7 +118,7 @@ dv_has_:
     knc: Galen
     ko: 갈레노스
     ku: Galênos
-    ku-latn: Galênos
+    ku_latn: Galênos
     kw: Galen
     ky: Гален
     la: Claudius Galenus
@@ -146,7 +146,7 @@ dv_has_:
     pnb: گالن
     ps: جالینوس
     pt: Cláudio Galeno
-    pt-br: Cláudio Galeno
+    pt_br: Cláudio Galeno
     ro: Galenus
     ru: Гален
     rue: Ґален

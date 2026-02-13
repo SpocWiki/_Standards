@@ -206,7 +206,7 @@ UMLS_CUI: C3887509
 Wolfram_Language_entity_code: Entity["FoodType", "Rabbit"]
 dv_has_:
   name_:
-    aeb-arab: أرنب
+    aeb_arab: أرنب
     af: haas
     am: ጥንቸል
     ami: Kudiwis
@@ -221,7 +221,7 @@ dv_has_:
     ban: Kelinci
     bcl: Rabit
     be: трусы
-    be-tarask: трусы
+    be_tarask: трусы
     bew: Kelènci
     bg: заек подземник
     bho: खरहा
@@ -240,7 +240,7 @@ dv_has_:
     cy: Cwningen
     da: kanin
     de: Kaninchen
-    de-ch: Kaninchen
+    de_ch: Kaninchen
     dga: Soɔŋaa
     el: κουνέλι
     eml: Cunèṅ
@@ -285,7 +285,7 @@ dv_has_:
     ka: ბოცვერი
     kab: awtul
     ki: Mbũkũ
-    kk-cyrl: қоян
+    kk_cyrl: қоян
     kn: ಮೊಲ
     ko: 래빗
     ks: خَرگوش
@@ -311,7 +311,7 @@ dv_has_:
     mzn: آغو
     nah: Tōchtli
     nb: kanin
-    nds-nl: kniende
+    nds_nl: kniende
     ne: खरायो
     nia: Kawelu
     nl: konijn
@@ -329,7 +329,7 @@ dv_has_:
     pl: królik
     pnb: خرگوش
     pt: coelho
-    pt-br: coelho
+    pt_br: coelho
     qu: Kunu
     ro: Iepure
     ru: кролик
@@ -349,7 +349,7 @@ dv_has_:
     so: Bakeyle
     sq: lepur
     sr: кунић
-    sr-ec: Кунић
+    sr_ec: Кунић
     st: Mmutla
     su: Kelenci
     sv: kanin
@@ -381,8 +381,8 @@ dv_has_:
     za: Douq
     zgh: ⴰⵇⵏⵉⵏ
     zh: 穴兔類
-    zh-hans: 穴兔类
-    zh-hant: 穴兔類
+    zh_hans: 穴兔类
+    zh_hant: 穴兔類
 ---
 # [[Rabbit]] 🐰 
 

@@ -39,7 +39,7 @@ dv_has_:
     as: নতুন সমালোচনা
     ast: New criticism
     ba: Яңы тәнҡит
-    be-tarask: Новая крытыка
+    be_tarask: Новая крытыка
     bg: Нова критика
     ca: New Criticism
     cs: New Criticism
@@ -78,9 +78,9 @@ dv_has_:
     ta: புதுத் திறனாய்வு
     uk: Нова критика
     zh: 新批評
-    zh-hans: 新批评
-    zh-hant: 新批評
-    zh-hk: 新批評
+    zh_hans: 新批评
+    zh_hant: 新批評
+    zh_hk: 新批評
 ---
 # [[New_Criticism]] 
 

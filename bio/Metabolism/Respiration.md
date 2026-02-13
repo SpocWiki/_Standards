@@ -83,7 +83,7 @@ dv_has_:
     ar: تنفس
     as: শ্বসন (শৰীৰতত্ব)
     ast: Respiración
-    be-tarask: фізыялёгія дыханьня
+    be_tarask: фізыялёгія дыханьня
     bn: শ্বসন
     bs: respiracija
     ca: respiració
@@ -93,8 +93,8 @@ dv_has_:
     de: Atmung
     el: Αναπνοή (φυσιολογία)
     en: respiration
-    en-ca: Respiration
-    en-gb: Respiration
+    en_ca: Respiration
+    en_gb: Respiration
     eo: spiro
     es: respiración
     eu: Arnasketa (fisiologia)
@@ -135,7 +135,7 @@ dv_has_:
     pl: oddychanie zewnętrzne
     ps: تنفس
     pt: respiração
-    pt-br: Respiração
+    pt_br: Respiração
     ro: respirație
     ru: дыхание
     scn: Ciatu

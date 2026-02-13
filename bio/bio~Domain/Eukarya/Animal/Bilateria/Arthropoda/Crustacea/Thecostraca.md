@@ -51,7 +51,7 @@ dv_has_:
     oc: Thecostraca
     pl: Thecostraca
     pt: Thecostraca
-    pt-br: Thecostraca
+    pt_br: Thecostraca
     ro: Thecostraca
     ru: Thecostraca
     sl: Thecostraca
@@ -64,9 +64,9 @@ dv_has_:
     vo: Thecostraca
     war: Thecostraca
     zh: 鞘甲纲
-    zh-cn: 鞘甲綱
-    zh-hans: 鞘甲纲
-    zh-tw: 鞘甲亞綱
+    zh_cn: 鞘甲綱
+    zh_hans: 鞘甲纲
+    zh_tw: 鞘甲亞綱
 ---
 # [[Thecostraca]] 
 

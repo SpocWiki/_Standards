@@ -27,7 +27,7 @@ dv_has_:
     ast: Adsorción
     az: Adsorbsiya
     be: Адсорбцыя
-    be-tarask: адсорбцыя
+    be_tarask: адсорбцыя
     bg: Адсорбция
     bn: অধিশোষণ
     bs: Adsorpcija
@@ -38,8 +38,8 @@ dv_has_:
     de: Adsorption
     el: Προσρόφηση
     en: adsorption
-    en-ca: Adsorption
-    en-gb: adsorption
+    en_ca: Adsorption
+    en_gb: adsorption
     eo: alsorbo
     es: adsorción
     et: Adsorptsioon
@@ -58,11 +58,11 @@ dv_has_:
     it: adsorbimento
     ja: 吸着
     kk: Адсорбция
-    kk-arab: ادسوربتسىييا
+    kk_arab: ادسوربتسىييا
     kk-cn: ادسوربتسىييا
-    kk-cyrl: Адсорбция
+    kk_cyrl: Адсорбция
     kk-kz: Адсорбция
-    kk-latn: Adsorbcïya
+    kk_latn: Adsorbcïya
     kk-tr: Adsorbcïya
     kn: ಅಧಿಶೋಷಣೆ ಮತ್ತು ಅಧಿಶೋಷಕಗಳು
     ko: 흡착
@@ -79,7 +79,7 @@ dv_has_:
     pcd: Adsoérpchon
     pl: Adsorpcja
     pt: adsorção
-    pt-br: Adsorção
+    pt_br: Adsorção
     ro: adsorbție
     ru: адсорбция
     sh: Adsorpcija
@@ -91,7 +91,7 @@ dv_has_:
     ta: பரப்புக் கவர்ச்சி
     te: అధిశోషణం
     tg: Адсорбсия
-    tg-latn: Adsorbsija
+    tg_latn: Adsorbsija
     th: การดูดซับ
     tr: Adsorpsiyon
     udm: адсорбация
@@ -101,12 +101,12 @@ dv_has_:
     wuu: 吸附
     yue: 吸附
     zh: 吸附
-    zh-cn: 吸附
-    zh-hans: 吸附
-    zh-hant: 吸附
-    zh-hk: 吸附
-    zh-sg: 吸附
-    zh-tw: 吸附
+    zh_cn: 吸附
+    zh_hans: 吸附
+    zh_hant: 吸附
+    zh_hk: 吸附
+    zh_sg: 吸附
+    zh_tw: 吸附
 aliases:
 - Adsorbcija
 - Adsorbcïya

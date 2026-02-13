@@ -80,7 +80,7 @@ dv_has_:
     ast: estratexa militar
     az: Hərbi strategiya
     be: ваенная стратэгія
-    be-tarask: вайсковая стратэгія
+    be_tarask: вайсковая стратэгія
     bg: военна стратегия
     bn: সামরিক কৌশল
     br: strategiezh vilourel
@@ -112,7 +112,7 @@ dv_has_:
     ja: 軍事戦略
     kaa: áskeriy strategiya
     kk: әскери стратегия
-    kk-latn: əskeri strategiya
+    kk_latn: əskeri strategiya
     ko: 군사 전략
     lb: Strategie
     li: kriegsveuring
@@ -136,8 +136,8 @@ dv_has_:
     sl: vojaška strategija
     sq: strategji ushtarake
     sr: војна стратегија
-    sr-ec: војна стратегија
-    sr-el: vojna strategija
+    sr_ec: војна стратегија
+    sr_el: vojna strategija
     sv: krigskonst
     ta: போரியல் மூல உபாயம்
     tr: askeri strateji
@@ -146,12 +146,12 @@ dv_has_:
     vi: chiến lược quân sự
     yue: 軍事戰略
     zh: 軍事戰略
-    zh-cn: 军事战略
-    zh-hans: 军事战略
-    zh-hant: 軍事戰略
-    zh-hk: 軍事戰略
-    zh-sg: 军事战略
-    zh-tw: 軍事戰略
+    zh_cn: 军事战略
+    zh_hans: 军事战略
+    zh_hant: 軍事戰略
+    zh_hk: 軍事戰略
+    zh_sg: 军事战略
+    zh_tw: 軍事戰略
 ---
 # [[Military_Strategy]] 
 

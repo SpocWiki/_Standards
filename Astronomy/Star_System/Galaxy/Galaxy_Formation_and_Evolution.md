@@ -73,15 +73,15 @@ dv_has_:
   name_:
     ar: تشكل وتطور المجرات
     ast: formación y evolución de les galaxes
-    be-tarask: утварэньне і эвалюцыя галяктык
+    be_tarask: утварэньне і эвалюцыя галяктык
     bs: formacija i evolucija galaksija
     ca: formació i evolució de les galàxies
     cs: formace a vznik galaxií
     cv: галактикăсен эволюцийĕ
     de: Entstehung und Entwicklung von Galaxien
     en: galaxy formation and evolution
-    en-ca: galaxy formation and evolution
-    en-gb: galaxy formation and evolution
+    en_ca: galaxy formation and evolution
+    en_gb: galaxy formation and evolution
     es: formación y evolución de las galaxias
     eu: galaxien eraketa eta eboluzioa
     fa: شکلگیری و تکامل کهکشانها
@@ -103,7 +103,7 @@ dv_has_:
     pl: powstawanie galaktyk
     ps: د کهکشان جوړښت او تکامل
     pt: formação e evolução de galáxias
-    pt-br: formação e evolução de galáxias
+    pt_br: formação e evolução de galáxias
     ru: возникновение и эволюция галактик
     sh: formiranje i evolucija galaktike
     sk: vznik a vývoj galaxií
@@ -117,9 +117,9 @@ dv_has_:
     vi: sự hình thành và tiến hóa thiên hà
     yue: 星系嘅形成同演化
     zh: 星系的形成和演化
-    zh-hans: 星系的形成和演化
-    zh-hant: 星系的形成和演化
-    zh-hk: 星系的形成和演化
+    zh_hans: 星系的形成和演化
+    zh_hant: 星系的形成和演化
+    zh_hk: 星系的形成和演化
 ---
 # [[Galaxy_Formation_and_Evolution]] 
 

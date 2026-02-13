@@ -126,7 +126,7 @@ dv_has_:
     ba: ядро физикаһы
     ban: fisika nuklir
     be: ядзерная фізіка
-    be-tarask: ядзерная фізыка
+    be_tarask: ядзерная фізыка
     bg: ядрена физика
     blk: ကဏ္ဍ:နျူးကလီးယားရူပဗေဒ
     bn: নিউক্লীয় পদার্থবিজ্ঞান
@@ -141,8 +141,8 @@ dv_has_:
     de: Kernphysik
     el: πυρηνική φυσική
     en: nuclear physics
-    en-ca: nuclear physics
-    en-gb: nuclear physics
+    en_ca: nuclear physics
+    en_gb: nuclear physics
     eo: nuklea fiziko
     es: física nuclear
     et: tuumafüüsika
@@ -181,7 +181,7 @@ dv_has_:
     ml: അണുകേന്ദ്രഭൗതികം
     mn: Цөмийн физик
     ms: fizik nuklear
-    ms-arab: فيزيک نوکليار
+    ms_arab: فيزيک نوکليار
     my: နယူးကလိယား ရူပဗေဒ
     nb: kjernefysikk
     nds: Karnphysik
@@ -194,7 +194,7 @@ dv_has_:
     pnb: نیوکلئیر فزکس
     ps: هستوي فزيک
     pt: física nuclear
-    pt-br: física nuclear
+    pt_br: física nuclear
     ro: fizică nucleară
     ru: ядерная физика
     rue: ядрова фізіка

@@ -152,7 +152,7 @@ dv_has_:
     ast: Ácidu láctico
     azb: اسید لاکتیک
     be: малочная кіслата
-    be-tarask: малочная кісьля
+    be_tarask: малочная кісьля
     bg: Млечна киселина
     bn: ল্যাকটিক অ্যাসিড
     bs: Mliječna kiselina
@@ -186,11 +186,11 @@ dv_has_:
     jv: Asem laktat
     ka: რძემჟავა
     kk: Сүт қышқылы
-    kk-arab: ٴسۇت قىشقىلى
+    kk_arab: ٴسۇت قىشقىلى
     kk-cn: ٴسۇت قىشقىلى
-    kk-cyrl: Сүт қышқылы
+    kk_cyrl: Сүт қышқылы
     kk-kz: Сүт қышқылы
-    kk-latn: Süt qışqılı
+    kk_latn: Süt qışqılı
     kk-tr: Süt qışqılı
     ko: 젖산
     la: Acidum lacticum
@@ -207,7 +207,7 @@ dv_has_:
     oc: acid lactic
     pl: kwas mlekowy
     pt: Ácido láctico
-    pt-br: ácido lático
+    pt_br: ácido lático
     ro: Acid lactic
     ru: молочная кислота
     sh: Mliječna kiselina
@@ -215,8 +215,8 @@ dv_has_:
     sl: mlečna kislina
     sq: Acidi Laktik
     sr: млијечна киселина
-    sr-ec: Млијечна киселина
-    sr-el: Mliječna kiselina
+    sr_ec: Млијечна киселина
+    sr_el: Mliječna kiselina
     su: Asam laktat
     sv: mjölksyra
     ta: லாக்டிக் அமிலம்
@@ -231,12 +231,12 @@ dv_has_:
     wuu: 乳酸
     yue: 乳酸
     zh: 乳酸
-    zh-cn: 乳酸
-    zh-hans: 乳酸
-    zh-hant: 乳酸
-    zh-hk: 乳酸
-    zh-sg: 乳酸
-    zh-tw: 乳酸
+    zh_cn: 乳酸
+    zh_hans: 乳酸
+    zh_hant: 乳酸
+    zh_hk: 乳酸
+    zh_sg: 乳酸
+    zh_tw: 乳酸
 dv_is_:
   same_as:
   - '[[../../../../WikiData/WD~DL-lactic_acid,161249|WD~DL-lactic_acid,161249]]'

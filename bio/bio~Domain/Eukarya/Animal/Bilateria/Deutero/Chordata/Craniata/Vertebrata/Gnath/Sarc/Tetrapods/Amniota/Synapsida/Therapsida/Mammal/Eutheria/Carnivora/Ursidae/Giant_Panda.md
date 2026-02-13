@@ -183,7 +183,7 @@ dv_has_:
     bbc: Panda
     bcl: Panda
     be: вялікая панда
-    be-tarask: вялікая панда
+    be_tarask: вялікая панда
     bg: голяма панда
     bi: Panda
     bn: পান্ডা
@@ -200,13 +200,13 @@ dv_has_:
     cy: Panda Mawr
     da: Panda
     de: Großer Panda
-    de-ch: Grosser Panda
+    de_ch: Grosser Panda
     dsb: Wjeliki panda
     el: Γιγαντιαίο Πάντα
     eml: Panda
     en: Giant panda
-    en-ca: Giant panda
-    en-gb: giant panda
+    en_ca: Giant panda
+    en_gb: giant panda
     en-us: giant panda
     eo: granda pando
     es: Ailuropoda melanoleuca
@@ -269,7 +269,7 @@ dv_has_:
     nah: Pandatlācamāyeh
     nan: Niau-hîm
     nb: panda
-    nds-nl: reuznpanda
+    nds_nl: reuznpanda
     ne: पाण्डा
     nl: reuzenpanda
     nn: panda
@@ -281,7 +281,7 @@ dv_has_:
     pnb: دیوقامت پانڈا
     ps: لوی پانډا
     pt: Panda-gigante
-    pt-br: Panda-gigante
+    pt_br: Panda-gigante
     qu: Hatun panda
     rm: Panda grond
     ro: Panda mare
@@ -310,8 +310,8 @@ dv_has_:
     tl: Dambuhalang panda
     tr: Dev panda
     tt: зур панда
-    tt-cyrl: зур панда
-    tt-latn: zur panda
+    tt_cyrl: зур панда
+    tt_latn: zur panda
     udm: Бадӟым панда
     ug: مۈشۈكئېيىق
     uk: велика панда
@@ -326,11 +326,11 @@ dv_has_:
     yue: 熊貓
     za: Yungzmauh
     zh: 大熊猫
-    zh-cn: 大熊猫
-    zh-hans: 大熊猫
-    zh-hant: 大熊貓
-    zh-hk: 熊貓
-    zh-tw: 大貓熊
+    zh_cn: 大熊猫
+    zh_hans: 大熊猫
+    zh_hant: 大熊貓
+    zh_hk: 熊貓
+    zh_tw: 大貓熊
 ---
 # [[Giant_Panda]] 🐼 
 

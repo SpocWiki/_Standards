@@ -145,7 +145,7 @@ dv_has_:
     ast: Pedro Almodóvar
     az: Pedro Almodovar
     be: Педра Альмадовар
-    be-tarask: Пэдра Альмадовар
+    be_tarask: Пэдра Альмадовар
     bg: Педро Алмодовар
     bn: পেদ্রো আলমোদোবার
     br: Pedro Almodóvar
@@ -155,12 +155,12 @@ dv_has_:
     csb: Pedro Almodóvar
     da: Pedro Almodóvar
     de: Pedro Almodóvar
-    de-ch: Pedro Almodóvar
+    de_ch: Pedro Almodóvar
     ee: Pedro Almodóvar
     el: Πέδρο Αλμοδόβαρ
     en: Pedro Almodóvar
-    en-ca: Pedro Almodóvar
-    en-gb: Pedro Almodóvar
+    en_ca: Pedro Almodóvar
+    en_gb: Pedro Almodóvar
     en-us: Pedro Almodóvar
     eo: Pedro Almodóvar
     es: Pedro Almodóvar
@@ -206,7 +206,7 @@ dv_has_:
     pl: Pedro Almodóvar
     pms: Pedro Almodóvar
     pt: Pedro Almodóvar
-    pt-br: Pedro Almodóvar
+    pt_br: Pedro Almodóvar
     qu: Pedro Almodóvar
     ro: Pedro Almodóvar
     ru: Педро Альмодовар
@@ -234,12 +234,12 @@ dv_has_:
     xmf: პედრო ალმოდოვარი
     yue: 貝德羅艾慕杜華
     zh: 佩德罗·阿尔莫多瓦尔
-    zh-cn: 佩德罗·阿尔莫多瓦尔
-    zh-hans: 佩德罗·阿尔莫多瓦尔
-    zh-hk: 比迪路·艾慕杜華
+    zh_cn: 佩德罗·阿尔莫多瓦尔
+    zh_hans: 佩德罗·阿尔莫多瓦尔
+    zh_hk: 比迪路·艾慕杜華
     zh-my: 贝德罗·艾慕杜华
-    zh-sg: 佩德罗·阿尔摩多华
-    zh-tw: 佩卓·阿莫多瓦
+    zh_sg: 佩德罗·阿尔摩多华
+    zh_tw: 佩卓·阿莫多瓦
 ---
 # [[Almodóvar,Pedro]] 
 

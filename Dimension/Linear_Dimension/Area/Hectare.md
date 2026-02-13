@@ -137,7 +137,7 @@ dv_has_:
     azb: هکتار
     bar: Hektar
     be: гектар
-    be-tarask: гектар
+    be_tarask: гектар
     bg: ha
     bn: হেক্টর
     bo: ཧེག་ཐ།
@@ -150,11 +150,11 @@ dv_has_:
     cy: hectr
     da: hektar
     de: Hektar
-    de-ch: Hektar
+    de_ch: Hektar
     dsb: hektar
     el: εκτάριο
     en: hectare
-    en-gb: hectare
+    en_gb: hectare
     en-us: hectare
     eo: hektaro
     es: hectárea
@@ -204,12 +204,12 @@ dv_has_:
     ml: ഹെക്ടേർ
     mr: हेक्टर
     ms: hektar
-    ms-arab: هيکتر
+    ms_arab: هيکتر
     mul: ha
     mzn: هکتار
     nb: hektar
     nds: Hektar
-    nds-nl: bunder
+    nds_nl: bunder
     nl: hectare
     nn: hektar
     oc: ectara
@@ -222,7 +222,7 @@ dv_has_:
     pnb: ہیکٹر
     ps: هېکتار
     pt: hectare
-    pt-br: hectare
+    pt_br: hectare
     ro: hectar
     ru: гектар
     rue: гектар
@@ -259,13 +259,13 @@ dv_has_:
     yue: 公頃
     zea: hectare
     zh: 公頃
-    zh-cn: 公顷
-    zh-hans: 公顷
-    zh-hant: 公頃
-    zh-hk: 公頃
-    zh-mo: 公頃
+    zh_cn: 公顷
+    zh_hans: 公顷
+    zh_hant: 公頃
+    zh_hk: 公頃
+    zh_mo: 公頃
     zh-my: 公顷
-    zh-sg: 公顷
+    zh_sg: 公顷
 ---
 # [[Hectare]] 
 

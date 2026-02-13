@@ -70,17 +70,17 @@ dv_has_:
     ar: ترتيب تسجيلات
     az: Hit-parad
     be: хіт-парад
-    be-tarask: гіт-парад
+    be_tarask: гіт-парад
     bn: রেকর্ড চার্ট
     ca: llista d'èxits musicals
     cs: hitparáda
     cy: Siart recordiau
     da: hitliste
     de: Musikcharts
-    de-ch: Musikcharts
+    de_ch: Musikcharts
     en: record chart
-    en-ca: record chart
-    en-gb: record chart
+    en_ca: record chart
+    en_gb: record chart
     eo: muzikaĵrangolisto
     es: lista de éxitos musicales
     eu: Musika arrakasten zerrenda
@@ -106,7 +106,7 @@ dv_has_:
     oc: lista de succèsses musicales
     pl: lista przebojów
     pt: parada musical
-    pt-br: parada musical
+    pt_br: parada musical
     ru: хит-парад
     sk: hitparáda
     sl: lestvica glasbenih posnetkov
@@ -124,9 +124,9 @@ dv_has_:
     vec: clasìfega muzicałe
     vi: Bảng xếp hạng âm nhạc
     zh: 唱片榜
-    zh-cn: 唱片榜单
-    zh-hans: 唱片榜单
-    zh-hant: 唱片榜單
+    zh_cn: 唱片榜单
+    zh_hans: 唱片榜单
+    zh_hant: 唱片榜單
 ---
 # [[Music_Chart]] 
 

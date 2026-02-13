@@ -63,7 +63,7 @@ dv_has_:
     af: Trans-Nieu-Guinese tale
     ar: لغات ترانس غينيا الجديدة
     ast: Llingües tres-neoguineanes
-    be-tarask: трансгвінэйскія мовы
+    be_tarask: трансгвінэйскія мовы
     bn: আন্তঃ–নিউ গিনি ভাষাসমূহ
     br: yezhoù Treuzginea-nevezek
     ca: Trans-Nova Guinea

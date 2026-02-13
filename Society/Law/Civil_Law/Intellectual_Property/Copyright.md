@@ -168,7 +168,7 @@ dv_has_:
     az: müəlliflik hüquqları
     bar: Urheberrecht
     be: Аўтарскае права
-    be-tarask: аўтарскае права
+    be_tarask: аўтарскае права
     bew: Hak keja
     bg: Авторско право
     bho: कॉपीराइट
@@ -185,8 +185,8 @@ dv_has_:
     de: Urheberrecht
     el: πνευματική ιδιοκτησία
     en: copyright
-    en-ca: copyright
-    en-gb: copyright
+    en_ca: copyright
+    en_gb: copyright
     eo: kopirajto
     es: derechos de autor
     et: autoriõigus
@@ -227,7 +227,7 @@ dv_has_:
     lo: ລິຂະສິດ
     lt: Autorių teisės
     lv: autortiesības
-    map-bms: Hak Cipta
+    map_bms: Hak Cipta
     mg: zon'ny mpamorona
     mi: Manatārua
     min: Hak cipta
@@ -235,10 +235,10 @@ dv_has_:
     ml: പകർപ്പവകാശം
     mn: Зохиогчийн эрх
     ms: hak cipta
-    ms-arab: حق چيڤتا
+    ms_arab: حق چيڤتا
     my: မူပိုင်ခွင့်
     nb: opphavsrett
-    nds-nl: Auteursrecht
+    nds_nl: Auteursrecht
     ne: प्रतिलिपी अधिकार
     nia: tana mböi
     nl: auteursrecht
@@ -250,7 +250,7 @@ dv_has_:
     pms: Drit d'autor
     ps: د چاپ او نشر حق
     pt: direitos de autor
-    pt-br: Direito autoral
+    pt_br: Direito autoral
     ro: drepturi de autor
     ru: авторское право
     scn: Copyright
@@ -267,7 +267,7 @@ dv_has_:
     sms: raajjivuõiggâdvuõtt
     sq: E drejta e autorit
     sr: ауторско право
-    sr-ec: ауторско право
+    sr_ec: ауторско право
     su: Hak cipta
     sv: upphovsrätt
     sw: Hakimiliki
@@ -290,14 +290,14 @@ dv_has_:
     yue: 版權
     za: cucozgenz
     zh: 著作權
-    zh-cn: 著作权
-    zh-hans: 著作权
-    zh-hant: 著作權
-    zh-hk: 著作權
-    zh-mo: 著作權
+    zh_cn: 著作权
+    zh_hans: 著作权
+    zh_hant: 著作權
+    zh_hk: 著作權
+    zh_mo: 著作權
     zh-my: 著作权
-    zh-sg: 著作权
-    zh-tw: 著作權
+    zh_sg: 著作权
+    zh_tw: 著作權
 ---
 # [[Copyright]] 
 

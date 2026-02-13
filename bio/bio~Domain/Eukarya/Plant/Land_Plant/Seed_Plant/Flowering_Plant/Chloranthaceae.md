@@ -65,14 +65,14 @@ dv_has_:
     oc: Chloranthaceae
     pl: zieleńcowce
     pt: Chloranthaceae
-    pt-br: Chloranthaceae
+    pt_br: Chloranthaceae
     ro: Chloranthaceae
     ru: Хлорантовые
     sk: zelenokvetotvaré
     sq: Chloranthaceae
     sr: Chloranthaceae
-    sr-ec: Chloranthaceae
-    sr-el: Chloranthaceae
+    sr_ec: Chloranthaceae
+    sr_el: Chloranthaceae
     sv: Chloranthaceae
     th: วงศ์กระดูกไก่
     uk: Хлорантові
@@ -80,12 +80,12 @@ dv_has_:
     vo: Chloranthaceae
     war: Chloranthaceae
     zh: 金粟兰科
-    zh-cn: 金粟兰科
-    zh-hans: 金粟兰科
-    zh-hant: 金粟蘭科
-    zh-hk: 金粟蘭科
-    zh-sg: 金粟兰科
-    zh-tw: 金粟蘭科
+    zh_cn: 金粟兰科
+    zh_hans: 金粟兰科
+    zh_hant: 金粟蘭科
+    zh_hk: 金粟蘭科
+    zh_sg: 金粟兰科
+    zh_tw: 金粟蘭科
 ---
 # [[Chloranthaceae]] 
 ![Sarcandra glabra](Chloranthaceae/Sarcandra_glabra.jpg))  ![Chloranthus japonicus](Chloranthaceae/Chloranthus_japonicus.jpg)

@@ -182,7 +182,7 @@ dv_has_:
     azb: یعقوب
     bcl: Jacob
     be: Якаў, патрыярх
-    be-tarask: Якуб
+    be_tarask: Якуб
     bg: Яков
     bn: যাকোব
     bo: ཡ་ཀོབ།
@@ -197,13 +197,13 @@ dv_has_:
     da: Jakob
     dag: Jacob
     de: Jakob
-    de-ch: Jakob
+    de_ch: Jakob
     diq: Yaqub
     ee: Yakob
     el: Ιακώβ
     en: Jacob
-    en-ca: Jacob
-    en-gb: Jacob
+    en_ca: Jacob
+    en_gb: Jacob
     eo: Jakobo
     es: Jacob
     eu: Jakob
@@ -250,7 +250,7 @@ dv_has_:
     pnb: حضرت یعقوب
     ps: يعقوب
     pt: Jacó
-    pt-br: Jacó
+    pt_br: Jacó
     rm: Jacob
     ro: Iacob
     ru: Иаков
@@ -284,8 +284,8 @@ dv_has_:
     yi: יעקב אבינו
     yue: 雅各
     zh: 雅各
-    zh-hans: 雅各
-    zh-hant: 雅各
+    zh_hans: 雅各
+    zh_hant: 雅各
 ---
 # [[Jacob]] 
 

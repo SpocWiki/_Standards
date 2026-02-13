@@ -78,7 +78,7 @@ dv_has_:
     az: Gülçiçəklilər
     bcl: rosales
     be: ружакветныя
-    be-tarask: Ружакветныя
+    be_tarask: Ружакветныя
     bg: розоцветни
     bn: গোলাপ বর্গ
     bs: Rosales
@@ -90,8 +90,8 @@ dv_has_:
     de: Rosenartige
     el: Ροδώδη
     en: Rosales
-    en-ca: Rosales
-    en-gb: Rosales
+    en_ca: Rosales
+    en_gb: Rosales
     eo: rozaloj
     es: Rosales
     et: roosilaadsed
@@ -139,7 +139,7 @@ dv_has_:
     pl: różowce
     pnb: گلابورگے
     pt: Rosales
-    pt-br: Rosales
+    pt_br: Rosales
     ro: Rosales
     ru: розоцветные
     sco: Rosales
@@ -153,7 +153,7 @@ dv_has_:
     tl: Rosales
     tr: Rosales
     tt: розачәчәклеләр
-    tt-cyrl: розачәчәклеләр
+    tt_cyrl: розачәчәклеләр
     uk: розоцвіті
     vi: bộ Hoa hồng
     vls: Rosales
@@ -163,10 +163,10 @@ dv_has_:
     xmf: ვარდიშნერეფი
     yue: 薔薇目
     zh: 蔷薇目
-    zh-cn: 薔薇目
-    zh-hans: 薔薇目
-    zh-hant: 薔薇目
-    zh-tw: 薔薇目
+    zh_cn: 薔薇目
+    zh_hans: 薔薇目
+    zh_hant: 薔薇目
+    zh_tw: 薔薇目
 ---
 # [[Rosales]] 
 

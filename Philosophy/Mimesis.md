@@ -49,7 +49,7 @@ dv_has_:
     ar: محاكاة
     ast: Mimesis
     ba: Мимесис
-    be-tarask: мімэзіс
+    be_tarask: мімэзіс
     bg: Мимезис
     ca: mimesi
     cs: mimésis
@@ -91,15 +91,15 @@ dv_has_:
     sk: Mimézis
     sl: mimeza
     sr: Мимезис
-    sr-ec: Мимезис
-    sr-el: Mimezis
+    sr_ec: Мимезис
+    sr_el: Mimezis
     su: Mimesis
     sv: Mimesis
     tr: Mimesis
     uk: мімезис
     yue: 摹仿
     zh: 摹仿
-    zh-cn: 拟态理论
+    zh_cn: 拟态理论
 ---
 # [[Mimesis]] 
 

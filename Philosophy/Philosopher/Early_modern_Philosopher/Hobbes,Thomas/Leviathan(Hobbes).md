@@ -58,7 +58,7 @@ dv_has_:
   name_:
     ar: الطاغوت
     az: Leviafan
-    be-tarask: Левіятан
+    be_tarask: Левіятан
     bg: Левиатан
     bn: লেভিয়াথন
     bs: Levijatan
@@ -87,11 +87,11 @@ dv_has_:
     ja: リヴァイアサン
     ka: ლევიათანი (წიგნი)
     kk: Левиафан, немесе материя, форма және шіркеулік және азаматтық мемлекеттің билігі
-    kk-arab: لەۆىيافان، نەمەسە ماتەرىييا، فورما جانە شىركەۋلىك جانە ازاماتتىق مەملەكەتتىڭ بىيلىگى
+    kk_arab: لەۆىيافان، نەمەسە ماتەرىييا، فورما جانە شىركەۋلىك جانە ازاماتتىق مەملەكەتتىڭ بىيلىگى
     kk-cn: لەۆىيافان، نەمەسە ماتەرىييا، فورما جانە شىركەۋلىك جانە ازاماتتىق مەملەكەتتىڭ بىيلىگى
-    kk-cyrl: Левиафан, немесе материя, форма және шіркеулік және азаматтық мемлекеттің билігі
+    kk_cyrl: Левиафан, немесе материя, форма және шіркеулік және азаматтық мемлекеттің билігі
     kk-kz: Левиафан, немесе материя, форма және шіркеулік және азаматтық мемлекеттің билігі
-    kk-latn: Levïafan, nemese materïya, forma jäne şirkewlik jäne azamattıq memlekettiñ bïligi
+    kk_latn: Levïafan, nemese materïya, forma jäne şirkewlik jäne azamattıq memlekettiñ bïligi
     kk-tr: Levïafan, nemese materïya, forma jäne şirkewlik jäne azamattıq memlekettiñ bïligi
     ko: 리바이어던
     la: Leviathan
@@ -107,8 +107,8 @@ dv_has_:
     sh: Leviathan
     sl: Leviatan
     sr: Левијатан
-    sr-ec: Левијатан
-    sr-el: Levijatan
+    sr_ec: Левијатан
+    sr_el: Levijatan
     sv: Leviathan
     ta: லெவியாதன்
     tr: Leviathan
@@ -116,12 +116,12 @@ dv_has_:
     vi: Leviathan
     yue: 巨靈論
     zh: 利维坦
-    zh-cn: 利维坦
+    zh_cn: 利维坦
     zh-hans: 利维坦
-    zh-hant: 利維坦
-    zh-hk: 利維坦
-    zh-sg: 利维坦
-    zh-tw: 利維坦
+    zh_hant: 利維坦
+    zh_hk: 利維坦
+    zh_sg: 利维坦
+    zh_tw: 利維坦
 ---
 # [[Leviathan(Hobbes)]] 
 

@@ -125,7 +125,7 @@ dv_has_:
     az: Toksikologiya
     ba: Токсикология
     be: таксікалогія
-    be-tarask: таксыкалёгія
+    be_tarask: таксыкалёгія
     bg: Токсикология
     bn: বিষবিজ্ঞান
     bs: Toksikologija
@@ -136,8 +136,8 @@ dv_has_:
     de: Toxikologie
     el: τοξικολογία
     en: toxicology
-    en-ca: Toxicology
-    en-gb: toxicology
+    en_ca: Toxicology
+    en_gb: toxicology
     eo: toksologio
     es: toxicología
     et: toksikoloogia
@@ -179,7 +179,7 @@ dv_has_:
     os: токсикологи
     pl: toksykologia
     pt: toxicologia
-    pt-br: toxicologia
+    pt_br: toxicologia
     ro: toxicologie
     ru: токсикология
     se: toksikologiija
@@ -190,7 +190,7 @@ dv_has_:
     sms: toksikologia
     sq: toksikologji
     sr: токсикологија
-    sr-ec: Токсикологија
+    sr_ec: Токсикологија
     sv: toxikologi
     ta: நச்சியல்
     te: టాక్సికాలజీ

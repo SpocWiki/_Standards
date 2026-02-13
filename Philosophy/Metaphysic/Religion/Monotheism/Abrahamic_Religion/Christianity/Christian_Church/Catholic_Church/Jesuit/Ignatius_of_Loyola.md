@@ -179,7 +179,7 @@ dv_has_:
     bar: Ignatius vo Loyola
     bcl: Ignacio de Loyola
     be: Ігнацій Лаёла
-    be-tarask: Ігнацы Ляёля
+    be_tarask: Ігнацы Ляёля
     bg: Игнатий Лойола
     br: Ignas Loyola
     bs: Ignacije Loyola
@@ -236,7 +236,7 @@ dv_has_:
     pl: Ignacy Loyola
     pms: Ignassi ëd Loyola
     pt: Inácio de Loyola
-    pt-br: Inácio de Loyola
+    pt_br: Inácio de Loyola
     qu: Ignacio de Loyola
     ro: Ignațiu de Loyola
     ru: Игнатий де Лойола
@@ -248,7 +248,7 @@ dv_has_:
     sl: Ignacij Lojolski
     sq: Ignatius of Loyola
     sr: Игнасио де Лојола
-    sr-ec: Игнасио де Лојола
+    sr_ec: Игнасио де Лојола
     sv: Ignatius av Loyola
     sw: Ignas wa Loyola
     ta: லொயோலா இஞ்ஞாசி
@@ -262,8 +262,8 @@ dv_has_:
     wuu: 聖依納爵·羅耀拉
     yue: 聖依納爵羅耀拉
     zh: 依納爵·羅耀拉
-    zh-hant: 依納爵·羅耀拉
-    zh-tw: 依納爵·羅耀拉
+    zh_hant: 依納爵·羅耀拉
+    zh_tw: 依納爵·羅耀拉
 ---
 # [[Ignatius_of_Loyola]] 
 

@@ -58,7 +58,7 @@ dv_has_:
     ast: Robert Noyce
     az: Robert Noys
     be: Роберт Нойс
-    be-tarask: Робэрт Нойс
+    be_tarask: Робэрт Нойс
     bg: Робърт Нойс
     bn: রবার্ট নয়েস
     ca: Robert Noyce
@@ -66,11 +66,11 @@ dv_has_:
     cy: Robert Noyce
     da: Robert Noyce
     de: Robert Noyce
-    de-ch: Robert Noyce
+    de_ch: Robert Noyce
     el: Ρόμπερτ Νόις
     en: Robert Noyce
-    en-ca: Robert Noyce
-    en-gb: Robert Noyce
+    en_ca: Robert Noyce
+    en_gb: Robert Noyce
     eo: Robert Noyce
     es: Robert Noyce
     eu: Robert Norton Noyce
@@ -98,7 +98,7 @@ dv_has_:
     pap: Robert Noyce
     pl: Robert Noyce
     pt: Robert Noyce
-    pt-br: Robert Noyce
+    pt_br: Robert Noyce
     ro: Robert Noyce
     ru: Роберт Нойс
     sk: Robert Noyce
@@ -115,12 +115,12 @@ dv_has_:
     xmf: რობერტ ნოისი
     yue: 羅伯特·諾伊斯
     zh: 罗伯特·诺伊斯
-    zh-cn: 罗伯特·诺伊斯
-    zh-hans: 罗伯特·诺伊斯
-    zh-hant: 羅伯特·諾伊斯
-    zh-hk: 羅伯特·諾伊斯
-    zh-sg: 罗伯特·诺伊斯
-    zh-tw: 羅伯特·諾伊斯
+    zh_cn: 罗伯特·诺伊斯
+    zh_hans: 罗伯特·诺伊斯
+    zh_hant: 羅伯特·諾伊斯
+    zh_hk: 羅伯特·諾伊斯
+    zh_sg: 罗伯特·诺伊斯
+    zh_tw: 羅伯特·諾伊斯
 ---
 # [[Noyce,Robert]] 
 

@@ -7,10 +7,10 @@ dv_has_:
     ca: unitat de processament de tensors
     cs: Tensor Processing Unit
     de: Tensor Processing Unit
-    de-ch: Tensor Processing Unit
+    de_ch: Tensor Processing Unit
     en: Tensor Processing Unit
-    en-ca: tensor processing unit
-    en-gb: tensor processing unit
+    en_ca: tensor processing unit
+    en_gb: tensor processing unit
     eo: tensorprocesoro
     es: unidad de procesamiento tensorial
     et: TPU

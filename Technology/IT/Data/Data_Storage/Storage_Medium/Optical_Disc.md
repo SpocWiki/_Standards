@@ -80,7 +80,7 @@ dv_has_:
     az: optik disk
     azb: دیسک
     be: аптычны дыск
-    be-tarask: аптычны дыск
+    be_tarask: аптычны дыск
     bg: Оптичен диск
     bn: অপটিক্যাল ডিস্ক
     ca: disc òptic
@@ -119,7 +119,7 @@ dv_has_:
     pam: Optical disc
     pl: dysk optyczny
     pt: disco óptico
-    pt-br: disco óptico
+    pt_br: disco óptico
     ro: disc optic
     ru: оптический диск
     sco: optical disc
@@ -133,7 +133,7 @@ dv_has_:
     th: จานแสง
     tr: Optik disk
     tt: оптик диск
-    tt-cyrl: оптик диск
+    tt_cyrl: оптик диск
     uk: оптичний диск
     ur: آپٹیکل ڈسک
     vi: Đĩa quang
@@ -142,13 +142,13 @@ dv_has_:
     xmf: ოპტიკური დისკი
     yue: 光碟
     zh: 光碟
-    zh-cn: 光盘
-    zh-hans: 光盘
-    zh-hant: 光碟
-    zh-hk: 光碟
+    zh_cn: 光盘
+    zh_hans: 光盘
+    zh_hant: 光碟
+    zh_hk: 光碟
     zh-my: 光碟
-    zh-sg: 光碟
-    zh-tw: 光碟
+    zh_sg: 光碟
+    zh_tw: 光碟
 ---
 # [[Optical_Disc]] 💿 
 

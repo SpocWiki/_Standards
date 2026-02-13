@@ -6,7 +6,7 @@ dv_has_:
     ast: distributividá
     ba: Дистрибутивлыҡ
     be: Дыстрыбутыўнасць
-    be-tarask: дыстрыбутыўнасьць
+    be_tarask: дыстрыбутыўнасьць
     bg: разпределително свойство
     ca: propietat distributiva
     ckb: دابەشبوون
@@ -14,11 +14,11 @@ dv_has_:
     cv: Дистрибутивлăх
     da: Distributivitet
     de: Distributivgesetz
-    de-ch: Distributivgesetz
+    de_ch: Distributivgesetz
     el: Επιμεριστική ιδιότητα
     en: distributive property
-    en-ca: Distributive property
-    en-gb: distributive property
+    en_ca: Distributive property
+    en_gb: distributive property
     eo: distribueco
     es: distributividad
     et: distributiivsus
@@ -47,14 +47,14 @@ dv_has_:
     nn: Distributivitet
     pl: rozdzielność
     pt: distributividade
-    pt-br: distributividade
+    pt_br: distributividade
     ro: distributivitate
     ru: дистрибутивность
     sh: Distributivnost
     sl: distributivnost
     sr: Дистрибутивност
-    sr-ec: Дистрибутивност
-    sr-el: Distributivnost
+    sr_ec: Дистрибутивност
+    sr_el: Distributivnost
     sv: Distributivitet
     ta: பங்கீட்டுப் பண்பு
     th: สมบัติการแจกแจง
@@ -67,12 +67,12 @@ dv_has_:
     yi: דיסטריבוטיוו
     yue: 分配律
     zh: 分配律
-    zh-cn: 分配律
-    zh-hans: 分配律
-    zh-hant: 分配律
-    zh-hk: 分配律
-    zh-sg: 分配律
-    zh-tw: 分配律
+    zh_cn: 分配律
+    zh_hans: 分配律
+    zh_hant: 分配律
+    zh_hk: 分配律
+    zh_sg: 分配律
+    zh_tw: 分配律
 aliases:
 - airí dáileach
 - Banakortasun

@@ -81,7 +81,7 @@ dv_has_:
     ast: narcotráficu
     az: narkoticarət
     be: наркагандаль
-    be-tarask: наркагандаль
+    be_tarask: наркагандаль
     bg: Трафик на наркотици
     br: trafikerezh dramm
     ca: narcotràfic
@@ -124,8 +124,8 @@ dv_has_:
     sl: promet s prepovedanimi drogami
     sq: Tregtia e paligjshme e drogës
     sr: нелегална трговина наркотицима
-    sr-ec: нелегална трговина наркотицима
-    sr-el: nelegalna trgovina narkoticima
+    sr_ec: нелегална трговина наркотицима
+    sr_el: nelegalna trgovina narkoticima
     sv: narkotikahandel
     tr: uyuşturucu kaçakçılığı
     uk: наркоторгівля
@@ -133,9 +133,9 @@ dv_has_:
     vec: narcotràfego
     vi: buôn lậu ma túy
     zh: 毒品交易
-    zh-cn: 非法毒品贸易
-    zh-hans: 非法毒品贸易
-    zh-hant: 非法毒品貿易
+    zh_cn: 非法毒品贸易
+    zh_hans: 非法毒品贸易
+    zh_hant: 非法毒品貿易
 ---
 # [[Drug_Trafficking]] 
 

@@ -65,7 +65,7 @@ dv_has_:
     ast: Fabales
     az: Paxlaçiçəklilər
     be: бабовакветныя
-    be-tarask: бабовакветныя
+    be_tarask: бабовакветныя
     bg: бобовоцветни
     bs: Fabales
     ca: Fabals
@@ -75,8 +75,8 @@ dv_has_:
     de: Schmetterlingsblütenartige
     el: Κυαμώδη
     en: Fabales
-    en-ca: Fabales
-    en-gb: Fabales
+    en_ca: Fabales
+    en_gb: Fabales
     eo: Fabaloj
     es: Fabales
     et: Oalaadsed
@@ -117,7 +117,7 @@ dv_has_:
     oc: Fabales
     pl: bobowce
     pt: Fabales
-    pt-br: Fabales
+    pt_br: Fabales
     ro: Fabales
     ru: бобовоцветные
     sco: Fabales
@@ -141,10 +141,10 @@ dv_has_:
     xmf: პოპოქიშნერეფი
     yue: 豆目
     zh: 豆目
-    zh-cn: 豆目
-    zh-hans: 豆目
-    zh-hant: 豆目
-    zh-tw: 豆目
+    zh_cn: 豆目
+    zh_hans: 豆目
+    zh_hant: 豆目
+    zh_tw: 豆目
 ---
 # [[Fabales]] 
 

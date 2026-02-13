@@ -110,7 +110,7 @@ dv_has_:
     ast: momentu angular
     az: impuls momenti
     be: момант імпульсу
-    be-tarask: момант імпульсу
+    be_tarask: момант імпульсу
     bg: момент на импулса
     bn: কৌণিক ভরবেগ
     bs: ugaona količina kretanja
@@ -145,11 +145,11 @@ dv_has_:
     ka: იმპულსის მომენტი
     kab: Imir uɣmir
     kk: Қозғалыс мөлшері моменті
-    kk-arab: قوزعالىس مولشەرى مومەنتى
+    kk_arab: قوزعالىس مولشەرى مومەنتى
     kk-cn: قوزعالىس مولشەرى مومەنتى
-    kk-cyrl: Қозғалыс мөлшері моменті
+    kk_cyrl: Қозғалыс мөлшері моменті
     kk-kz: Қозғалыс мөлшері моменті
-    kk-latn: Qozğalıs mölşeri momenti
+    kk_latn: Qozğalıs mölşeri momenti
     kk-tr: Qozğalıs mölşeri momenti
     ko: 각운동량
     lt: judesio kiekio momentas
@@ -177,8 +177,8 @@ dv_has_:
     sl: vrtilna količina
     sq: Impulsi këndor
     sr: момент импулса
-    sr-ec: момент импулса
-    sr-el: Moment impulsa
+    sr_ec: момент импулса
+    sr_el: Moment impulsa
     su: Moméntum sudut
     sv: rörelsemängdsmoment
     ta: வளைவுந்தம்
@@ -192,12 +192,12 @@ dv_has_:
     wuu: 角动量
     yue: 角動量
     zh: 角动量
-    zh-cn: 角动量
-    zh-hans: 角动量
-    zh-hant: 角動量
-    zh-hk: 角動量
-    zh-sg: 角动量
-    zh-tw: 角動量
+    zh_cn: 角动量
+    zh_hans: 角动量
+    zh_hant: 角動量
+    zh_hk: 角動量
+    zh_sg: 角动量
+    zh_tw: 角動量
 ---
 # [[Angular_Momentum]] 
 

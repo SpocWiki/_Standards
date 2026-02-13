@@ -5,7 +5,7 @@ dv_has_:
     ar: تتويج
     az: Akrostix
     be: Акраверш
-    be-tarask: Акраверш
+    be_tarask: Акраверш
     bg: Акростих
     bn: এক্রোস্টিক কবিতা
     ca: acròstic
@@ -37,8 +37,8 @@ dv_has_:
     kk: Акростих
     ko: 세로반전
     ku: Akrostîş
-    ku-arab: ئاکرۆستیش
-    ku-latn: Akrostîş
+    ku_arab: ئاکرۆستیش
+    ku_latn: Akrostîş
     la: Acrostichis
     lb: Akrostichon
     lmo: Acrostich
@@ -61,8 +61,8 @@ dv_has_:
     sl: akrostih
     sq: Akrostiku
     sr: Акростих
-    sr-ec: Акростих
-    sr-el: Akrostih
+    sr_ec: Акростих
+    sr_el: Akrostih
     su: Akrostikon
     sv: akrostikon
     ta: முதலெழுத்துப் புதிர்
@@ -76,12 +76,12 @@ dv_has_:
     wuu: 离合诗
     yue: 藏頭詩
     zh: 離合詩
-    zh-cn: 离合诗
-    zh-hans: 离合诗
-    zh-hant: 離合詩
-    zh-hk: 離合詩
-    zh-sg: 离合诗
-    zh-tw: 離合詩
+    zh_cn: 离合诗
+    zh_hans: 离合诗
+    zh_hant: 離合詩
+    zh_hk: 離合詩
+    zh_sg: 离合诗
+    zh_tw: 離合詩
 aliases:
 - acrostic
 - Acrostich

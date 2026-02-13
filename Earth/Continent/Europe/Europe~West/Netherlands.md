@@ -90,7 +90,7 @@ dv_has_:
     bbc: Bolanda
     bcl: Neerlandiya
     be: Нідэрланды
-    be-tarask: Нідэрлянды
+    be_tarask: Нідэрлянды
     bew: Welanda
     bg: Нидерландия
     bgn: هالنڈ
@@ -107,7 +107,7 @@ dv_has_:
     bug: ᨅᨒᨉ
     bxr: Нидерланд
     ca: Països Baixos
-    cbk-zam: Neerlandia
+    cbk_zam: Neerlandia
     cdo: Hò̤-làng
     ce: Нидерландаш
     ceb: Neerlandiya
@@ -118,7 +118,7 @@ dv_has_:
     co: Paesi Bassi
     cps: Neerlandiya
     crh: Felemenk
-    crh-latn: Felemenk
+    crh_latn: Felemenk
     cs: Nizozemsko
     csb: Néderlandzkô
     cu: Нидєрландꙑ
@@ -128,7 +128,7 @@ dv_has_:
     dag: Netherlands
     de: Niederlande
     de-at: Niederlande
-    de-ch: Niederlande
+    de_ch: Niederlande
     diq: Hollanda
     dsb: Nižozemska
     dtp: Belanda
@@ -139,8 +139,8 @@ dv_has_:
     el: Ολλανδία
     eml: Ulànda
     en: Netherlands
-    en-ca: Netherlands
-    en-gb: Netherlands
+    en_ca: Netherlands
+    en_gb: Netherlands
     en-us: Netherlands
     eo: Nederlando
     es: Países Bajos
@@ -168,7 +168,7 @@ dv_has_:
     gn: Holanda
     gom: नेदरलँड्स
     gom-deva: नेदरलँड्स
-    gom-latn: Netherlands
+    gom_latn: Netherlands
     gor: Walanta
     got: "\U0001033D\U00010339\U00010338\U00010334\U00010342\U00010330\U0001033B\U00010330\U0001033D\U00010333"
     gpe: Netherlands
@@ -248,7 +248,7 @@ dv_has_:
     lv: Nīderlande
     lzh: 荷蘭
     mad: Bâlândhâ
-    map-bms: Landa
+    map_bms: Landa
     mdf: Недерлантт
     mg: Nederlandy
     mhr: Нидерланде
@@ -261,7 +261,7 @@ dv_has_:
     mos: Netherlands
     mr: नेदरलँड्स
     ms: Belanda
-    ms-arab: بلندا
+    ms_arab: بلندا
     mt: Netherlands
     mwl: Paízes Baixos
     my: နယ်သာလန်နိုင်ငံ
@@ -273,7 +273,7 @@ dv_has_:
     nap: Ulanna
     nb: Nederland
     nds: Nedderlannen
-    nds-nl: Nederlaand
+    nds_nl: Nederlaand
     ne: नेदरल्यान्ड्स
     new: नेदरल्यान्द्स्
     nia: Hulando
@@ -307,7 +307,7 @@ dv_has_:
     pnt: Ολλανδία
     ps: هالنډ
     pt: Países Baixos
-    pt-br: Países Baixos
+    pt_br: Países Baixos
     qu: Urasuyu
     rm: Pajais Bass
     rmy: Olanda
@@ -340,8 +340,8 @@ dv_has_:
     so: Holland
     sq: Holanda
     sr: Холандија
-    sr-ec: Холандија
-    sr-el: Holandija
+    sr_ec: Холандија
+    sr_el: Holandija
     srn: Bakrakondre
     ss: IDashi
     st: Hôlanê
@@ -369,7 +369,7 @@ dv_has_:
     trv: Netherlands
     ts: Netherlands
     tt: Нидерланд
-    tt-cyrl: Нидерландлар
+    tt_cyrl: Нидерландлар
     tum: Netherlands
     tw: Netherlands
     ty: Hōrane
@@ -398,14 +398,14 @@ dv_has_:
     zea: Nederland
     zgh: ⵀⵓⵍⴰⵏⴷⴰ
     zh: 荷蘭
-    zh-cn: 荷兰
-    zh-hans: 荷兰
-    zh-hant: 荷蘭
-    zh-hk: 荷蘭
-    zh-mo: 荷蘭
+    zh_cn: 荷兰
+    zh_hans: 荷兰
+    zh_hant: 荷蘭
+    zh_hk: 荷蘭
+    zh_mo: 荷蘭
     zh-my: 荷兰
-    zh-sg: 荷兰
-    zh-tw: 荷蘭
+    zh_sg: 荷兰
+    zh_tw: 荷蘭
     zu: i-Netherlands
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Netherlands

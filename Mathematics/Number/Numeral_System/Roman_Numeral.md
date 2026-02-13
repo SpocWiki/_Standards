@@ -143,7 +143,7 @@ dv_has_:
     ba: рим цифрҙары
     ban: Wilangan Romawi
     be: рымскія лічбы
-    be-tarask: рымскія лічбы
+    be_tarask: рымскія лічбы
     bg: Римски цифри
     bn: রোমান সংখ্যা
     bo: རོ་མའི་ཨང་ཀི།
@@ -220,7 +220,7 @@ dv_has_:
     pa: ਰੋਮਨ ਅੰਕ
     pl: cyfry rzymskie
     pt: numeração romana
-    pt-br: numeração romana
+    pt_br: numeração romana
     ro: cifre romane
     ru: римские цифры
     scn: nùmmura rumani
@@ -251,14 +251,14 @@ dv_has_:
     yi: רוימישע צאל
     yue: 羅馬數字
     zh: 罗马数字
-    zh-cn: 罗马数字
-    zh-hans: 罗马数字
-    zh-hant: 羅馬數字
-    zh-hk: 羅馬數字
-    zh-mo: 羅馬數字
+    zh_cn: 罗马数字
+    zh_hans: 罗马数字
+    zh_hant: 羅馬數字
+    zh_hk: 羅馬數字
+    zh_mo: 羅馬數字
     zh-my: 罗马数字
-    zh-sg: 罗马数字
-    zh-tw: 羅馬數字
+    zh_sg: 罗马数字
+    zh_tw: 羅馬數字
 ---
 # [[Roman_Numeral]] 
 

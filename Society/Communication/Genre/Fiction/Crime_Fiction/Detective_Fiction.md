@@ -87,7 +87,7 @@ dv_has_:
     ast: ficción de detectives
     az: detektiv
     be: дэтэктыў
-    be-tarask: дэтэктыў
+    be_tarask: дэтэктыў
     bg: детективска литература
     bn: গোয়েন্দা কল্পকাহিনী
     ca: ficció detectivesca
@@ -98,8 +98,8 @@ dv_has_:
     de: Detektivfiktion
     el: μυθιστόρημα με ντετέκτιβ
     en: detective fiction
-    en-ca: detective fiction
-    en-gb: detective fiction
+    en_ca: detective fiction
+    en_gb: detective fiction
     eo: detektiva fikcio
     es: ficción de detectives
     et: detektiivromaan
@@ -120,11 +120,11 @@ dv_has_:
     ja: ディテクティブ・フィクション
     ka: დეტექტივი
     kk: детектив
-    kk-arab: دەتەكتىيۆتىك ادەبىييەت
+    kk_arab: دەتەكتىيۆتىك ادەبىييەت
     kk-cn: دەتەكتىيۆتىك ادەبىييەت
     ko: 추리물
     ku: dedektîvê honakî
-    ku-latn: dedektîvê honakî
+    ku_latn: dedektîvê honakî
     kw: fugieth hwithrer
     ky: детективдүү адабият
     la: fabula criminalis
@@ -141,7 +141,7 @@ dv_has_:
     pa: ਜਾਸੂਸੀ ਗਲਪ
     pl: fikcja detektywistyczna
     pt: ficção investigativa
-    pt-br: ficção de detetive
+    pt_br: ficção de detetive
     ro: ficțiune de detectivi
     ru: детектив
     sk: detektívka
@@ -152,18 +152,18 @@ dv_has_:
     tg: достони корогоҳӣ
     tr: dedektif kurgusu
     tt: детектив
-    tt-cyrl: детектив
+    tt_cyrl: детектив
     uk: детектив
     ur: سراغ رسانی فکشن
     vi: truyện trinh thám
     yue: 偵探故仔
     zh: 推理作品
-    zh-cn: 推理作品
-    zh-hans: 推理作品
-    zh-hant: 推理作品
-    zh-hk: 推理作品
-    zh-sg: 推理作品
-    zh-tw: 推理作品
+    zh_cn: 推理作品
+    zh_hans: 推理作品
+    zh_hant: 推理作品
+    zh_hk: 推理作品
+    zh_sg: 推理作品
+    zh_tw: 推理作品
 ---
 # [[Detective_Fiction]] 
 

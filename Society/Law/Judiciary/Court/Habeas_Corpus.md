@@ -44,7 +44,7 @@ dv_has_:
     ar: الأمر بالمثول أمام القضاء
     ast: Habeas corpus
     be: Habeas corpus
-    be-tarask: Habeas corpus
+    be_tarask: Habeas corpus
     bn: হেবিয়াস কর্পাস (ল্যাটিন)
     ca: Habeas Corpus
     cs: Habeas corpus
@@ -86,7 +86,7 @@ dv_has_:
     oc: Habeas corpus
     pa: ਹੇਬੀਅਸ ਕਾਰਪਸ
     pt: habeas corpus
-    pt-br: habeas corpus
+    pt_br: habeas corpus
     ro: habeas corpus
     ru: Хабеас корпус
     sco: habeas corpus
@@ -103,12 +103,12 @@ dv_has_:
     vi: Habeas corpus
     yue: 人身保護令
     zh: 人身保護令
-    zh-cn: 人身保护令
-    zh-hans: 人身保护令
-    zh-hant: 人身保護令
-    zh-hk: 人身保護令
-    zh-sg: 人身保护令
-    zh-tw: 人身保護令
+    zh_cn: 人身保护令
+    zh_hans: 人身保护令
+    zh_hant: 人身保護令
+    zh_hk: 人身保護令
+    zh_sg: 人身保护令
+    zh_tw: 人身保護令
 ---
 # [[Habeas_Corpus]] 
 

@@ -104,7 +104,7 @@ dv_has_:
     ast: llei de Coulomb
     az: Kulon qanunu
     be: закон Кулона
-    be-tarask: закон Кулёна
+    be_tarask: закон Кулёна
     bg: закон на Кулон
     bn: কুলম্বের সূত্র
     bs: Coulombov zakon
@@ -115,8 +115,8 @@ dv_has_:
     de: coulombsches Gesetz
     el: νόμος του Κουλόμπ
     en: Coulomb's law
-    en-ca: Coulomb's law
-    en-gb: Coulomb's law
+    en_ca: Coulomb's law
+    en_gb: Coulomb's law
     eo: Kulomba leĝo
     es: ley de Coulomb
     et: Coulombi seadus
@@ -163,7 +163,7 @@ dv_has_:
     pms: laj ëd Coulomb
     pnb: کولمب دا قنون
     pt: lei de Coulomb
-    pt-br: lei de Coulomb
+    pt_br: lei de Coulomb
     ro: legea lui Coulomb
     ru: закон Кулона
     sco: Coulomb's law
@@ -185,7 +185,7 @@ dv_has_:
     wuu: 库仑定律
     yue: 庫侖定律
     zh: 库仑定律
-    zh-tw: 庫侖定律
+    zh_tw: 庫侖定律
 ---
 # [[Coulomb's_Law]] 
 

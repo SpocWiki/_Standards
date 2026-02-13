@@ -15,7 +15,7 @@ dv_has_:
     bar: Coleoptera
     bcl: Amamanggi
     be: жукі
-    be-tarask: цьвердакрылыя
+    be_tarask: цьвердакрылыя
     bg: бръмбари
     bjn: Karariang
     bn: গুবরে পোকা
@@ -31,11 +31,11 @@ dv_has_:
     da: biller
     de: Käfer
     de-at: Coleoptera
-    de-ch: Coleoptera
+    de_ch: Coleoptera
     el: Κολεόπτερα
     en: beetles
-    en-ca: Coleoptera
-    en-gb: Coleoptera
+    en_ca: Coleoptera
+    en_gb: Coleoptera
     eo: Koleopteroj
     es: coleópteros
     et: Mardikalised
@@ -101,7 +101,7 @@ dv_has_:
     nap: Coleoptera
     nb: biller
     nds: Kävers
-    nds-nl: Coleoptera
+    nds_nl: Coleoptera
     nl: kevers
     nn: biller
     nrm: Coleoptera
@@ -118,7 +118,7 @@ dv_has_:
     pms: Coleoptera
     ps: گونگټه
     pt: besouro
-    pt-br: besouro
+    pt_br: besouro
     qu: Suntu
     rm: Coleoptera
     ro: Coleopter
@@ -164,14 +164,14 @@ dv_has_:
     yo: Ọbọnbon
     yue: 鞘翅目
     zh: 鞘翅目
-    zh-cn: 鞘翅目
-    zh-hans: 鞘翅目
-    zh-hant: 鞘翅目
-    zh-hk: 鞘翅目
-    zh-mo: 鞘翅目
+    zh_cn: 鞘翅目
+    zh_hans: 鞘翅目
+    zh_hant: 鞘翅目
+    zh_hk: 鞘翅目
+    zh_mo: 鞘翅目
     zh-my: 鞘翅目
-    zh-sg: 鞘翅目
-    zh-tw: 鞘翅目
+    zh_sg: 鞘翅目
+    zh_tw: 鞘翅目
     zu: Coleoptera
 aliases:
 - Amamanggi

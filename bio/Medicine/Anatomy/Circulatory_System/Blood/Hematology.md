@@ -93,7 +93,7 @@ dv_has_:
     az: hematologiya
     ba: гематология
     be: гематалогія
-    be-tarask: гематалёгія
+    be_tarask: гематалёгія
     bg: хематология
     bn: রক্তবিজ্ঞান
     bs: hematologija
@@ -102,11 +102,11 @@ dv_has_:
     cy: hematoleg
     da: hæmatologi
     de: Hämatologie
-    de-ch: Hämatologie
+    de_ch: Hämatologie
     el: αιματολογία
     en: hematology
-    en-ca: hematology
-    en-gb: haematology
+    en_ca: hematology
+    en_gb: haematology
     eo: hematologio
     es: hematología
     et: hematoloogia
@@ -128,11 +128,11 @@ dv_has_:
     jv: hematologi
     ka: ჰემატოლოგია
     kk: гематолог
-    kk-arab: گەماتولوگ
+    kk_arab: گەماتولوگ
     kk-cn: گەماتولوگ
-    kk-cyrl: гематолог
+    kk_cyrl: гематолог
     kk-kz: гематолог
-    kk-latn: gematolog
+    kk_latn: gematolog
     kk-tr: gematolog
     ko: 혈액학
     ks: ہیماٹالجی
@@ -145,7 +145,7 @@ dv_has_:
     mk: хематологија
     ml: ഹീമറ്റോളജി
     ms: hematologi
-    ms-arab: هيماتولوݢي
+    ms_arab: هيماتولوݢي
     nb: hematologi
     nds: Hämatologie
     ne: रक्तशास्त्र
@@ -155,7 +155,7 @@ dv_has_:
     pi: रक्तशास्त्र
     pl: hematologia
     pt: hematologia
-    pt-br: hematologia
+    pt_br: hematologia
     ro: hematologie
     ru: гематология
     sa: रक्तशास्त्रम्
@@ -183,12 +183,12 @@ dv_has_:
     xmf: ჰემატოლოგია
     yue: 血液學
     zh: 血液學
-    zh-cn: 血液学
-    zh-hans: 血液学
-    zh-hant: 血液學
-    zh-hk: 血液學
-    zh-sg: 血液学
-    zh-tw: 血液學
+    zh_cn: 血液学
+    zh_hans: 血液学
+    zh_hant: 血液學
+    zh_hk: 血液學
+    zh_sg: 血液学
+    zh_tw: 血液學
 ---
 # [[Hematology]] 
 

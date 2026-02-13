@@ -212,7 +212,7 @@ dv_has_:
     bar: Schoitjoa
     bcl: Ogdong taon
     be: высакосны год
-    be-tarask: высакосны год
+    be_tarask: высакосны год
     bg: високосна година
     bho: अधिबरिस
     bjn: tahun kabisat
@@ -299,7 +299,7 @@ dv_has_:
     mn: өндөр жил
     mr: लीप वर्ष
     ms: tahun lompat
-    ms-arab: تاهون لومڤت
+    ms_arab: تاهون لومڤت
     my: ရက်ထပ်နှစ်
     mzn: کبیسه
     nah: huēytlaōntic xihuitl
@@ -338,8 +338,8 @@ dv_has_:
     so: sanad maalin dheer
     sq: viti i brishtë
     sr: преступна година
-    sr-ec: преступна година
-    sr-el: prestupna godina
+    sr_ec: преступна година
+    sr_el: prestupna godina
     su: taun kabisat
     sv: skottår
     ta: நெட்டாண்டு
@@ -349,8 +349,8 @@ dv_has_:
     tl: taong bisyesto
     tr: artık yıl
     tt: кәбисә ел
-    tt-cyrl: кәбисә ел
-    tt-latn: käbisä yıl
+    tt_cyrl: кәбисә ел
+    tt_latn: käbisä yıl
     udm: кыстэм ар
     ug: كەبىسە يىلى
     uk: переступний рік
@@ -369,14 +369,14 @@ dv_has_:
     yue: 閏年
     za: bi'nyinh
     zh: 闰年
-    zh-cn: 闰年
-    zh-hans: 闰年
-    zh-hant: 闰年
-    zh-hk: 閏年
-    zh-mo: 閏年
+    zh_cn: 闰年
+    zh_hans: 闰年
+    zh_hant: 闰年
+    zh_hk: 閏年
+    zh_mo: 閏年
     zh-my: 闰年
-    zh-sg: 闰年
-    zh-tw: 閏年
+    zh_sg: 闰年
+    zh_tw: 閏年
 ---
 # [[Leap_Year]] 
 

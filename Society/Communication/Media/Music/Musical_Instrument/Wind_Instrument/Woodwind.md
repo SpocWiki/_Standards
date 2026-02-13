@@ -81,7 +81,7 @@ dv_has_:
     ar: آلة نفخ خشبية
     ast: instrumentu de vientu madera
     be: драўляны духавы музычны інструмент
-    be-tarask: драўляны духавы музычны інструмэнт
+    be_tarask: драўляны духавы музычны інструмэнт
     bs: Drveni duvački instrumenti
     ca: instrument de vent de fusta
     cs: dřevěný nástroj
@@ -131,8 +131,8 @@ dv_has_:
     sl: pihala
     smn: muorâposonjâs
     sr: дрвени дувачки инструмент
-    sr-ec: дрвени дувачки инструмент
-    sr-el: drveni duvački instrument
+    sr_ec: дрвени дувачки инструмент
+    sr_el: drveni duvački instrument
     sv: träblåsinstrument
     tg: Созҳои нафасии чӯбин
     th: เครื่องเป่าลมไม้
@@ -144,12 +144,12 @@ dv_has_:
     wuu: 木管乐器
     yue: 木管樂器
     zh: 木管乐器
-    zh-cn: 木管乐器
-    zh-hans: 木管乐器
-    zh-hant: 木管樂器
-    zh-hk: 木管樂器
-    zh-sg: 木管乐器
-    zh-tw: 木管樂器
+    zh_cn: 木管乐器
+    zh_hans: 木管乐器
+    zh_hant: 木管樂器
+    zh_hk: 木管樂器
+    zh_sg: 木管乐器
+    zh_tw: 木管樂器
 ---
 # [[Woodwind]] 
 

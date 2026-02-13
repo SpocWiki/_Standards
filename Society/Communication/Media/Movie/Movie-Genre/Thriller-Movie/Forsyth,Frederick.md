@@ -30,7 +30,7 @@ dv_has_:
     ast: Frederick Forsyth
     azb: فردریک فورسایت
     bar: Frederick Forsyrh
-    be-tarask: Фрэдэрык Фарсайт
+    be_tarask: Фрэдэрык Фарсайт
     bg: Фредерик Форсайт
     bho: फ्रेडरिक फोर्सिथ
     ca: Frederick Forsyth
@@ -63,7 +63,7 @@ dv_has_:
     oc: Frederick Forsyth
     pam: Frederick Forsyth
     pt: Frederick Forsyth
-    pt-br: Frederick Forsyth
+    pt_br: Frederick Forsyth
     ro: Frederick Forsyth
     ru: Фредерик Форсайт
     sat: ᱯᱷᱨᱮᱰᱮᱨᱤᱠ ᱯᱷᱚᱨᱥᱟᱭᱛᱷ
@@ -75,9 +75,9 @@ dv_has_:
     ta: ஃபிரெட்ரிக் ஃபோர்சித்
     uk: Фредерік Форсайт
     zh: 弗雷德里克·福塞斯
-    zh-cn: 弗雷德里克·福赛斯
-    zh-hans: 弗雷德里克·福赛斯
-    zh-hant: 弗雷德里克·福賽斯
+    zh_cn: 弗雷德里克·福赛斯
+    zh_hans: 弗雷德里克·福赛斯
+    zh_hant: 弗雷德里克·福賽斯
 ---
 #has_/time_/started :: 1936-08-18 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

@@ -123,7 +123,7 @@ dv_has_:
     ba: традиция
     bcl: Tradisyon
     be: традыцыя
-    be-tarask: традыцыя
+    be_tarask: традыцыя
     bg: традиция
     bn: প্রথা
     br: hengoun
@@ -139,7 +139,7 @@ dv_has_:
     de: Tradition
     el: Παράδοση
     en: tradition
-    en-gb: tradition
+    en_gb: tradition
     eo: tradicio
     es: tradición
     et: traditsioon
@@ -183,7 +183,7 @@ dv_has_:
     mk: традиција
     ml: പാരമ്പര്യം
     ms: tradisi
-    ms-arab: تراديسي
+    ms_arab: تراديسي
     mt: tradizzjoni
     my: ဓလေ့ထုံးစံ
     nan: Thoân-thóng
@@ -210,8 +210,8 @@ dv_has_:
     sms: äʹrbbvuõtt
     sq: Zakoni
     sr: традиција
-    sr-ec: традиција
-    sr-el: tradicija
+    sr_ec: традиција
+    sr_el: tradicija
     su: Tradisi
     sv: tradition
     sw: Mapokeo
@@ -233,7 +233,7 @@ dv_has_:
     yo: ìṣe
     yue: 傳統
     zh: 传统
-    zh-hant: 傳統
+    zh_hant: 傳統
 ---
 # [[Tradition]] 
 

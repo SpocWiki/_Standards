@@ -137,14 +137,14 @@ dv_has_:
     mul: George Santayana
     nb: George Santayana
     nds: George Santayana
-    nds-nl: George Santayana
+    nds_nl: George Santayana
     nl: George Santayana
     nn: George Santayana
     pap: George Santayana
     pl: George Santayana
     pms: George Santayana
     pt: George Santayana
-    pt-br: George Santayana
+    pt_br: George Santayana
     ro: George Santayana
     ru: Джордж Сантаяна
     sk: George Santayana
@@ -161,12 +161,12 @@ dv_has_:
     wa: George Santayana
     yo: George Santayana
     zh: 乔治·桑塔亚那
-    zh-cn: 乔治·桑塔亚那
+    zh_cn: 乔治·桑塔亚那
     zh-hans: 乔治·桑塔亚那
-    zh-hant: 喬治·桑塔亞那
-    zh-hk: 喬治·桑塔亞那
-    zh-sg: 乔治·桑塔亚那
-    zh-tw: 喬治·桑塔亞那
+    zh_hant: 喬治·桑塔亞那
+    zh_hk: 喬治·桑塔亞那
+    zh_sg: 乔治·桑塔亚那
+    zh_tw: 喬治·桑塔亞那
 ---
 # [[Santayana,George]] 
 

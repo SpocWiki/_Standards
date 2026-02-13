@@ -234,7 +234,7 @@ dv_has_:
     bar: Danz
     bcl: Bayle
     be: танцы
-    be-tarask: танец
+    be_tarask: танец
     bew: Ibing
     bg: танц
     bjn: igal
@@ -345,7 +345,7 @@ dv_has_:
     nap: ballo
     nb: dans
     nds: Danz
-    nds-nl: daans
+    nds_nl: daans
     ne: नृत्य
     new: प्याखं
     nia: Fanari
@@ -422,10 +422,10 @@ dv_has_:
     yue: 舞
     za: diuqfoux
     zh: 舞蹈
-    zh-cn: 舞蹈
-    zh-hans: 舞蹈
-    zh-hant: 舞蹈
-    zh-hk: 舞蹈
+    zh_cn: 舞蹈
+    zh_hans: 舞蹈
+    zh_hant: 舞蹈
+    zh_hk: 舞蹈
 ---
 # [[Dance]] 💃 
 

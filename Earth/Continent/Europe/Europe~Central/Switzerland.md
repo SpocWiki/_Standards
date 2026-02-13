@@ -239,7 +239,7 @@ dv_has_:
     ab: Швеицариа
     ace: Swiss
     ady: Швейцарие
-    aeb-arab: سويسرا
+    aeb_arab: سويسرا
     af: Switserland
     am: ስዊዘርላንድ
     ami: Switzerland
@@ -264,7 +264,7 @@ dv_has_:
     bar: Schweiz
     bcl: Suisa
     be: Швейцарыя
-    be-tarask: Швайцарыя
+    be_tarask: Швайцарыя
     bew: Switserlan
     bg: Швейцария
     bgn: سوئیس
@@ -280,7 +280,7 @@ dv_has_:
     bug: Swiss
     bxr: Швейцари
     ca: Suïssa
-    cbk-zam: Suiza
+    cbk_zam: Suiza
     cdo: Sôi-sê̤ṳ
     ce: Швейцари
     ceb: Swisa
@@ -290,7 +290,7 @@ dv_has_:
     ckb: سویسڕا
     co: Svizzera
     crh: İsviçre
-    crh-latn: İsviçre
+    crh_latn: İsviçre
     cs: Švýcarsko
     csb: Szwajcarskô
     cu: Свицєра
@@ -300,7 +300,7 @@ dv_has_:
     dag: Switzerland
     de: Schweiz
     de-at: Schweiz
-    de-ch: Schweiz
+    de_ch: Schweiz
     diq: İswiçre
     dsb: Šwicaŕska
     dtp: Switzerland
@@ -311,8 +311,8 @@ dv_has_:
     el: Ελβετία
     eml: Svézzra
     en: Switzerland
-    en-ca: Switzerland
-    en-gb: Switzerland
+    en_ca: Switzerland
+    en_gb: Switzerland
     en-us: Switzerland
     eo: Svislando
     es: Suiza
@@ -339,7 +339,7 @@ dv_has_:
     gn: Suisa
     gom: स्वित्झर्लंड
     gom-deva: स्वित्झर्लंड
-    gom-latn: Switzerland
+    gom_latn: Switzerland
     got: "\U00010337\U00010330\U00010339\U0001033B\U00010345\U00010330\U00010339\U00010344\U0001033E\U00010330"
     gpe: Switzerland
     grc: Ἑλουηττία
@@ -416,7 +416,7 @@ dv_has_:
     lzh: 瑞士
     mad: Swiss
     mai: स्वीट्जरल्याण्ड
-    map-bms: Swiss
+    map_bms: Swiss
     mdf: Швайцария
     mg: Soisa
     mhr: Швейцарий
@@ -429,7 +429,7 @@ dv_has_:
     mos: Switzerland
     mr: स्वित्झर्लंड
     ms: Switzerland
-    ms-arab: سويتزرلند
+    ms_arab: سويتزرلند
     mt: Żvizzera
     mwl: Suíça
     my: ဆွစ်ဇာလန်နိုင်ငံ
@@ -441,7 +441,7 @@ dv_has_:
     nap: Sguizzera
     nb: Sveits
     nds: Swiez
-    nds-nl: Zwitserlaand
+    nds_nl: Zwitserlaand
     ne: स्विजरल्याण्ड
     new: स्विट्जरल्याण्ड
     nl: Zwitserland
@@ -494,7 +494,7 @@ dv_has_:
     sh: Švicarska
     shi: Laswis
     shn: မိူင်းသဝိတ်ႈၸႃႇလႅၼ်ႇ
-    shy-latn: Suis
+    shy_latn: Suis
     si: ස්විට්සර්ලන්තය
     sk: Švajčiarsko
     skr: سویٹزر لینڈ
@@ -506,8 +506,8 @@ dv_has_:
     so: Iswisarland
     sq: Zvicër
     sr: Швајцарска
-    sr-ec: Швајцарска
-    sr-el: Švajcarska
+    sr_ec: Швајцарска
+    sr_el: Švajcarska
     srn: Swiskondre
     ss: ISwizalandi
     stq: Swaits
@@ -564,14 +564,14 @@ dv_has_:
     zea: Zwitserland
     zgh: ⵙⵡⵉⵙⵔⴰ
     zh: 瑞士
-    zh-cn: 瑞士
-    zh-hans: 瑞士
-    zh-hant: 瑞士
-    zh-hk: 瑞士
-    zh-mo: 瑞士
+    zh_cn: 瑞士
+    zh_hans: 瑞士
+    zh_hant: 瑞士
+    zh_hk: 瑞士
+    zh_mo: 瑞士
     zh-my: 瑞士
-    zh-sg: 瑞士
-    zh-tw: 瑞士
+    zh_sg: 瑞士
+    zh_tw: 瑞士
     zu: i-Switzerland
   sound_of_:
     anthem: '[[../../../../../_public/xLarge.public/National-Anthem/Anthem-Switzerland.mp3|Anthem-Switzerland.mp3]]'

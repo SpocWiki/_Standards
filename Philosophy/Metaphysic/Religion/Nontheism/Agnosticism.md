@@ -120,7 +120,7 @@ dv_has_:
     ast: Agnosticismu
     az: aqnostisizm
     be: агнастыцызм
-    be-tarask: агнастыцызм
+    be_tarask: агнастыцызм
     bg: агностицизъм
     bn: অজ্ঞেয়বাদ
     bo: མི་ཤེས་སྨྲ་བའི་རིང་ལུགས།
@@ -138,7 +138,7 @@ dv_has_:
     diq: Agnostisizm
     el: αγνωστικισμός
     en: agnosticism
-    en-gb: agnosticism
+    en_gb: agnosticism
     eo: agnostikismo
     es: agnosticismo
     et: agnostitsism
@@ -192,7 +192,7 @@ dv_has_:
     nan: Put-khó-ti-lūn
     nb: agnostisisme
     nds: Agnostizismus
-    nds-nl: agnostisisme
+    nds_nl: agnostisisme
     ne: अज्ञेयवाद
     new: अज्ञेयवाद
     nl: agnosticisme
@@ -235,8 +235,8 @@ dv_has_:
     yue: 不可知論
     zgh: ⵜⴰⵥⵕⴰⵔⵓⵙⵙⵏⴰ
     zh: 不可知论
-    zh-hant: 不可知論
-    zh-tw: 不可知論
+    zh_hant: 不可知論
+    zh_tw: 不可知論
 ---
 # [[Agnosticism]] 
 

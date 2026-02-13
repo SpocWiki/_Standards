@@ -33,7 +33,7 @@ dv_has_:
     oc: Parasitengona
     pl: Parasitengona
     pt: Parasitengona
-    pt-br: Parasitengona
+    pt_br: Parasitengona
     ro: Parasitengona
     ru: Parasitengona
     sl: Parasitengona
@@ -43,8 +43,8 @@ dv_has_:
     vo: Parasitengona
     war: Parasitengona
     zh: 寄殖螨亚目
-    zh-cn: 寄殖螨亚目
-    zh-hans: 寄殖螨亚目
+    zh_cn: 寄殖螨亚目
+    zh_hans: 寄殖螨亚目
 ---
 # [[Parasitengona]]
 

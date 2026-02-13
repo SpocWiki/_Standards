@@ -94,7 +94,7 @@ dv_has_:
     ar: سديم مظلم
     ast: Nebulosa escura
     be: Цёмная туманнасць
-    be-tarask: цёмная туманнасьць
+    be_tarask: цёмная туманнасьць
     bg: Тъмна мъглявина
     bjn: Nebula kadap
     bn: অন্ধকার নীহারিকা
@@ -139,7 +139,7 @@ dv_has_:
     oc: Nebulosa sorna
     pl: Ciemna mgławica
     pt: nebulosa escura
-    pt-br: nebulosa escura
+    pt_br: nebulosa escura
     ro: Nebuloasă obscură
     ru: тёмная туманность
     scn: nibbulusa oscura
@@ -147,8 +147,8 @@ dv_has_:
     sk: Tmavá hmlovina
     sl: temna meglica
     sr: тамна маглина
-    sr-ec: тамна маглина
-    sr-el: tamna maglina
+    sr_ec: тамна маглина
+    sr_el: tamna maglina
     sv: mörk nebulosa
     ta: இருண்ட நெபுலா
     th: เนบิวลามืด
@@ -158,12 +158,12 @@ dv_has_:
     wuu: 暗星云
     yue: 黑暗星雲
     zh: 暗星雲
-    zh-cn: 暗星云
-    zh-hans: 暗星云
-    zh-hant: 暗星雲
-    zh-hk: 暗星雲
-    zh-sg: 暗星云
-    zh-tw: 暗星雲
+    zh_cn: 暗星云
+    zh_hans: 暗星云
+    zh_hant: 暗星雲
+    zh_hk: 暗星雲
+    zh_sg: 暗星云
+    zh_tw: 暗星雲
 ---
 # [[Dark_Nebula]] 
 

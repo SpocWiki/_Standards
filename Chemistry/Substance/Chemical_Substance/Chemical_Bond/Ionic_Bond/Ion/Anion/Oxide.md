@@ -104,7 +104,7 @@ dv_has_:
     azb: اوکسید
     ba: оксидтар
     be: аксіды
-    be-tarask: аксыд
+    be_tarask: аксыд
     bg: оксид
     bn: অক্সাইড
     bs: oksidi
@@ -114,11 +114,11 @@ dv_has_:
     cy: ocsid
     da: oxid
     de: Oxide
-    de-ch: Oxide
+    de_ch: Oxide
     el: οξείδιο
     en: oxide
-    en-ca: oxide
-    en-gb: oxide
+    en_ca: oxide
+    en_gb: oxide
     eo: oksido
     es: óxido
     et: oksiidid
@@ -153,7 +153,7 @@ dv_has_:
     mk: оксид
     ml: ഓക്സൈഡ്
     ms: oksida
-    ms-arab: اوکسيدا
+    ms_arab: اوکسيدا
     nb: oksid
     nds: Oxid
     nl: oxide
@@ -165,7 +165,7 @@ dv_has_:
     pnb: آکسائڈ
     ps: اکسايد
     pt: óxido
-    pt-br: óxido
+    pt_br: óxido
     qu: muksi
     ro: oxid
     ru: оксид
@@ -176,7 +176,7 @@ dv_has_:
     sn: oxides
     sq: oksidet
     sr: оксид
-    sr-ec: оксид
+    sr_ec: оксид
     sv: oxider
     sw: oksidi
     ta: ஆக்சைடு
@@ -191,7 +191,7 @@ dv_has_:
     wuu: 氧化物
     yue: 氧化物
     zh: 氧化物
-    zh-hant: 氧化物
+    zh_hant: 氧化物
     zu: iNtuhla
 ---
 # [[Oxide]] 

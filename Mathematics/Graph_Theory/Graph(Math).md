@@ -88,7 +88,7 @@ dv_has_:
     az: qraf
     ba: граф
     be: граф
-    be-tarask: граф
+    be_tarask: граф
     bg: граф
     bn: গ্রাফ
     ca: graf
@@ -121,11 +121,11 @@ dv_has_:
     ja: グラフ
     ka: გრაფთა თეორია
     kk: граф
-    kk-arab: گراف
+    kk_arab: گراف
     kk-cn: گراف
-    kk-cyrl: граф
+    kk_cyrl: граф
     kk-kz: граф
-    kk-latn: graf
+    kk_latn: graf
     kk-tr: graf
     ko: 그래프
     ko-kp: 그라프
@@ -144,7 +144,7 @@ dv_has_:
     pl: graf
     pms: graf
     pt: grafo
-    pt-br: grafo
+    pt_br: grafo
     ro: graf
     ru: граф
     sh: graf
@@ -152,8 +152,8 @@ dv_has_:
     sl: graf
     sq: grafik
     sr: граф
-    sr-ec: граф
-    sr-el: graf
+    sr_ec: граф
+    sr_el: graf
     sv: graf
     ta: கோட்டுரு
     th: กราฟ
@@ -167,12 +167,12 @@ dv_has_:
     yi: גראף
     yue: 圖
     zh: 图
-    zh-cn: 图
-    zh-hans: 图
-    zh-hant: 圖
-    zh-hk: 圖
-    zh-sg: 图
-    zh-tw: 圖
+    zh_cn: 图
+    zh_hans: 图
+    zh_hant: 圖
+    zh_hk: 圖
+    zh_sg: 图
+    zh_tw: 圖
 ---
 # [[Graph(Math)]] 
 

@@ -185,7 +185,7 @@ dv_has_:
     bar: Metoi
     bcl: metal
     be: метал
-    be-tarask: мэтал
+    be_tarask: мэтал
     bg: метал
     blk: သတ္တု
     bn: ধাতু
@@ -278,13 +278,13 @@ dv_has_:
     mn: металл
     mr: धातू
     ms: logam
-    ms-arab: لوݢم
+    ms_arab: لوݢم
     my: သတ္တု
     myv: кшнипонат
     nan: kim-sio̍k
     nb: metall
     nds: Metall
-    nds-nl: metaal
+    nds_nl: metaal
     ne: धातु
     new: धातु
     nl: metaal
@@ -302,7 +302,7 @@ dv_has_:
     pnb: دھات
     ps: فلز
     pt: metal
-    pt-br: metal
+    pt_br: metal
     qu: q'illay
     ro: metal
     ru: металл
@@ -333,7 +333,7 @@ dv_has_:
     tl: metal
     tr: metal
     tt: митал
-    tt-cyrl: митал
+    tt_cyrl: митал
     tyv: Металлдар
     udm: металл
     ug: مېتال
@@ -351,9 +351,9 @@ dv_has_:
     yo: mẹ́tàlì
     yue: 金屬
     zh: 金屬
-    zh-hant: 金屬
-    zh-hk: 金屬
-    zh-tw: 金屬
+    zh_hant: 金屬
+    zh_hk: 金屬
+    zh_tw: 金屬
     zu: insimbi
 ---
 # [[Metal]] 

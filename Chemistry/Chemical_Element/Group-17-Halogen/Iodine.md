@@ -187,7 +187,7 @@ dv_has_:
     ban: Yodium
     bcl: Iyodo
     be: Ёд
-    be-tarask: ёд
+    be_tarask: ёд
     bg: йод
     bho: आयोडीन
     bi: Aiodin
@@ -209,8 +209,8 @@ dv_has_:
     dv: އަޔޮޑިން
     el: ιώδιο
     en: iodine
-    en-ca: Iodine
-    en-gb: iodine
+    en_ca: Iodine
+    en_gb: iodine
     eo: jodo
     es: yodo
     et: jood
@@ -274,7 +274,7 @@ dv_has_:
     mr: आयोडिन
     mrj: Иод
     ms: iodin
-    ms-arab: اييودين
+    ms_arab: اييودين
     mt: jodju
     my: အိုင်အိုဒင်း
     myv: Иод
@@ -299,7 +299,7 @@ dv_has_:
     pnb: آئیوڈین
     ps: آيوډين
     pt: iodo
-    pt-br: iodo
+    pt_br: iodo
     qu: Yudu
     ro: iod
     ru: иод
@@ -318,7 +318,7 @@ dv_has_:
     so: Aaydhiin
     sq: Jodi
     sr: јод
-    sr-ec: јод
+    sr_ec: јод
     stq: Iod
     su: Yodium
     sv: jod
@@ -330,7 +330,7 @@ dv_has_:
     tl: Yodo
     tr: iyot
     tt: иод
-    tt-cyrl: иод
+    tt_cyrl: иод
     tyv: Йод
     ug: يود
     uk: йод
@@ -345,11 +345,11 @@ dv_has_:
     yo: Iodine
     yue: 碘
     zh: 碘
-    zh-cn: 碘
-    zh-hans: 碘
-    zh-hant: 碘
-    zh-hk: 碘
-    zh-tw: 碘
+    zh_cn: 碘
+    zh_hans: 碘
+    zh_hant: 碘
+    zh_hk: 碘
+    zh_tw: 碘
     zu: Inkwithi
   number_of_:
     period: 5

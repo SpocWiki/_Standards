@@ -128,7 +128,7 @@ dv_has_:
     az: kamera
     azb: کامیرا
     bar: Kamera
-    be-tarask: камэра
+    be_tarask: камэра
     bew: tustèl
     bg: фотокамера
     bho: कैमरा
@@ -146,8 +146,8 @@ dv_has_:
     diq: kamera
     el: κάμερα
     en: camera
-    en-ca: camera
-    en-gb: camera
+    en_ca: camera
+    en_gb: camera
     en-us: camera
     eo: fotilo
     es: cámara
@@ -196,11 +196,11 @@ dv_has_:
     ml: ഛായാഗ്രാഹി
     mr: कॅमेरा
     ms: kamera
-    ms-arab: کاميرا
+    ms_arab: کاميرا
     my: ကင်မရာ
     nan: hip-siòng-ki
     nb: kamera
-    nds-nl: kamera
+    nds_nl: kamera
     ne: क्यामरा
     new: किपासा
     nl: camera
@@ -213,7 +213,7 @@ dv_has_:
     pnb: کیمرا
     ps: انځورۍ
     pt: câmara
-    pt-br: câmera
+    pt_br: câmera
     qu: rikch'a hap'ina
     ru: камера
     sa: छायाग्राहिका
@@ -230,8 +230,8 @@ dv_has_:
     so: sawirqaado
     sq: kamerë
     sr: камера
-    sr-ec: камера
-    sr-el: kamera
+    sr_ec: камера
+    sr_el: kamera
     su: kaméra
     sv: kamera
     sw: kamera
@@ -242,7 +242,7 @@ dv_has_:
     tl: kamera
     tr: kamera
     tt: камера
-    tt-cyrl: камера
+    tt_cyrl: камера
     uk: знімальна камера
     ur: کیمرا
     vi: máy ảnh
@@ -253,7 +253,7 @@ dv_has_:
     yo: kámẹ́rà
     yue: 相機
     zh: 照相機
-    zh-tw: 照相機
+    zh_tw: 照相機
     zu: isithwebuli
 ---
 # [[Camera]] 

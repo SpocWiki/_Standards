@@ -145,7 +145,7 @@ dv_has_:
     ba: баҫым
     bcl: presyon
     be: ціск
-    be-tarask: ціск
+    be_tarask: ціск
     bew: tekenan
     bg: налягане
     blk: တိက်ꩻနျꩻအာႏ
@@ -159,8 +159,8 @@ dv_has_:
     de: Druck
     el: πίεση
     en: pressure
-    en-ca: pressure
-    en-gb: pressure
+    en_ca: pressure
+    en_gb: pressure
     eo: premo
     es: presión
     et: rõhk
@@ -222,7 +222,7 @@ dv_has_:
     pl: ciśnienie
     pms: pression
     pt: pressão
-    pt-br: pressão
+    pt_br: pressão
     qu: ñit'iy
     ro: presiune
     rsk: прицисок
@@ -240,8 +240,8 @@ dv_has_:
     so: cadaadis
     sq: presioni
     sr: притисак
-    sr-ec: притисак
-    sr-el: pritisak
+    sr_ec: притисак
+    sr_el: pritisak
     su: tekenan
     sv: tryck
     sw: shinikizo
@@ -262,7 +262,7 @@ dv_has_:
     yi: דרוק
     yue: 壓力
     zh: 壓強
-    zh-hant: 壓強
+    zh_hant: 壓強
 ---
 # [[Dim~Pressure]] 
 

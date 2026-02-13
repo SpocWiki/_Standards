@@ -54,8 +54,8 @@ dv_has_:
     uk: Eurythmics
     yue: Eurythmics
     zh: 舞韻樂團
-    zh-cn: 舞韵合唱团
-    zh-hans: 舞韵合唱团
+    zh_cn: 舞韵合唱团
+    zh_hans: 舞韵合唱团
 aliases:
 - Eurhytmics
 - Eurythmics

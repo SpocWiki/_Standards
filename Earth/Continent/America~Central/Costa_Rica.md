@@ -467,7 +467,7 @@ dv_has_:
     ab: Коста-Рика
     ace: Kosta Rika
     ady: Костэ-Рикэ
-    aeb-arab: كوستاريكا
+    aeb_arab: كوستاريكا
     af: Costa Rica
     am: ኮስታ ሪካ
     ami: Costa riga
@@ -488,7 +488,7 @@ dv_has_:
     bbc: Kosta Rika
     bcl: Kosta Rika
     be: Коста-Рыка
-    be-tarask: Коста-Рыка
+    be_tarask: Коста-Рыка
     bew: Kosta Rika
     bg: Коста Рика
     bgn: کوستاریکا
@@ -502,7 +502,7 @@ dv_has_:
     bs: Kostarika
     bxr: Коста-Рика
     ca: Costa Rica
-    cbk-zam: Costa Rica
+    cbk_zam: Costa Rica
     cdo: Costa Rica
     ce: Коста-Рика
     ceb: Costa Rica
@@ -511,14 +511,14 @@ dv_has_:
     ckb: کۆستاریکا
     co: Costa Rica
     crh: Kosta Rika
-    crh-latn: Kosta Rika
+    crh_latn: Kosta Rika
     cs: Kostarika
     cy: Costa Rica
     da: Costa Rica
     dag: Costa Rica
     de: Costa Rica
     de-at: Costa Rica
-    de-ch: Costa Rica
+    de_ch: Costa Rica
     diq: Kosta Rika
     dsb: Kosta Rika
     dty: कोस्टारिका
@@ -526,8 +526,8 @@ dv_has_:
     ee: Costa Rica
     el: Κόστα Ρίκα
     en: Costa Rica
-    en-ca: Costa Rica
-    en-gb: Costa Rica
+    en_ca: Costa Rica
+    en_gb: Costa Rica
     eo: Kostariko
     es: Costa Rica
     et: Costa Rica
@@ -550,7 +550,7 @@ dv_has_:
     gn: Kosta Rrika
     gom: कोस्टा रिका
     gom-deva: कोस्टा रिका
-    gom-latn: Costa Rica
+    gom_latn: Costa Rica
     gpe: Costa Rica
     gsw: Costa Rica
     gu: કોસ્ટા રિકા
@@ -607,7 +607,7 @@ dv_has_:
     lv: Kostarika
     lzh: 哥斯大黎加
     mad: Kosta Rika
-    map-bms: Kosta Rika
+    map_bms: Kosta Rika
     mdf: Коста-Рика
     mg: Costa Rica
     mhr: Коста-Рика
@@ -630,7 +630,7 @@ dv_has_:
     nan: Costa Rica
     nb: Costa Rica
     nds: Costa Rica
-    nds-nl: Costa Rica
+    nds_nl: Costa Rica
     ne: कोस्टारिका
     new: कोस्टा रिका
     nl: Costa Rica
@@ -652,7 +652,7 @@ dv_has_:
     pnb: کوسٹا ریکا
     ps: کوسټاریکا
     pt: Costa Rica
-    pt-br: Costa Rica
+    pt_br: Costa Rica
     qu: Kustarika
     rki: ကော့စတာရီကာ သမ္မတနိုင်ငံ
     rm: Costa rica
@@ -684,8 +684,8 @@ dv_has_:
     so: Kosta Rika
     sq: Kosta Rika
     sr: Костарика
-    sr-ec: Костарика
-    sr-el: Kostarika
+    sr_ec: Костарика
+    sr_el: Kostarika
     ss: IKhosta-Likha
     stq: Costa Rica
     su: Kosta Rika
@@ -730,11 +730,11 @@ dv_has_:
     zea: Costa Rica
     zgh: ⴽⵓⵙⵜⴰ ⵔⵉⴽⴰ
     zh: 哥斯达黎加
-    zh-cn: 哥斯达黎加
-    zh-hans: 哥斯达黎加
-    zh-hant: 哥斯大黎加
-    zh-hk: 哥斯達黎加
-    zh-tw: 哥斯大黎加
+    zh_cn: 哥斯达黎加
+    zh_hans: 哥斯达黎加
+    zh_hant: 哥斯大黎加
+    zh_hk: 哥斯達黎加
+    zh_tw: 哥斯大黎加
     zu: i-Costa Rica
   url_for_:
     code_repository: https://github.com/SpocWiki/America-Costa_Rica

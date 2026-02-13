@@ -9,7 +9,7 @@ Commons_category:
 dv_has_:
   name_:
     ar: تي ناين
-    be-tarask: T9
+    be_tarask: T9
     ca: T9
     cs: T9
     da: T9

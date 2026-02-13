@@ -44,7 +44,7 @@ dv_has_:
     oc: Giraffoidea
     pl: Giraffoidea
     pt: Giraffoidea
-    pt-br: Giraffoidea
+    pt_br: Giraffoidea
     ro: Giraffoidea
     ru: Giraffoidea
     sl: Giraffoidea
@@ -56,8 +56,8 @@ dv_has_:
     vo: Giraffoidea
     war: Giraffoidea
     zh: 長頸鹿超科
-    zh-cn: 长颈鹿总科
-    zh-hans: 长颈鹿总科
+    zh_cn: 长颈鹿总科
+    zh_hans: 长颈鹿总科
 ---
 # [[Giraffoidea]] 
 

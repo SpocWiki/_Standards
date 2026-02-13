@@ -220,7 +220,7 @@ dv_has_:
     ba: Роберт де Ниро
     bar: Robert De Niro
     be: Роберт Дэ Ніра
-    be-tarask: Робэрт Дэ Ніра
+    be_tarask: Робэрт Дэ Ніра
     bg: Робърт Де Ниро
     bi: Robert De Niro
     bm: Robert De Niro
@@ -237,7 +237,7 @@ dv_has_:
     da: Robert De Niro
     de: Robert De Niro
     de-at: Robert De Niro
-    de-ch: Robert De Niro
+    de_ch: Robert De Niro
     diq: Robert De Niro
     dsb: Robert De Niro
     el: Ρόμπερτ Ντε Νίρο
@@ -311,7 +311,7 @@ dv_has_:
     nap: Robert De Niro
     nb: Robert De Niro
     nds: Robert De Niro
-    nds-nl: Robert De Niro
+    nds_nl: Robert De Niro
     nl: Robert De Niro
     nn: Robert De Niro
     nov: Robert De Niro
@@ -325,7 +325,7 @@ dv_has_:
     pms: Robert De Niro
     prg: Robert De Niro
     pt: Robert De Niro
-    pt-br: Robert De Niro
+    pt_br: Robert De Niro
     qu: Robert De Niro
     rgn: Robert De Niro
     rm: Robert De Niro
@@ -339,8 +339,8 @@ dv_has_:
     sl: Robert De Niro
     sq: Robert De Niro
     sr: Роберт де Ниро
-    sr-ec: Роберт де Ниро
-    sr-el: Robert de Niro
+    sr_ec: Роберт де Ниро
+    sr_el: Robert de Niro
     srn: Robert De Niro
     sv: Robert De Niro
     sw: Robert De Niro
@@ -367,13 +367,13 @@ dv_has_:
     yo: Robert De Niro
     yue: 羅拔迪尼路
     zh: 罗伯特·德尼罗
-    zh-cn: 罗伯特·德尼罗
-    zh-hans: 罗伯特·德尼罗
-    zh-hant: 勞勃·狄尼洛
-    zh-hk: 羅拔迪尼路
+    zh_cn: 罗伯特·德尼罗
+    zh_hans: 罗伯特·德尼罗
+    zh_hant: 勞勃·狄尼洛
+    zh_hk: 羅拔迪尼路
     zh-my: 罗拔·迪尼路
-    zh-sg: 罗拔·迪尼路
-    zh-tw: 勞勃·狄尼洛
+    zh_sg: 罗拔·迪尼路
+    zh_tw: 勞勃·狄尼洛
     zu: Robert De Niro
 ---
 # [[De_Niro,Robert]] 

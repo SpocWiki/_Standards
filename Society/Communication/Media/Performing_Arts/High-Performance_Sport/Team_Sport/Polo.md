@@ -70,7 +70,7 @@ dv_has_:
     az: polo
     ba: поло
     be: пола
-    be-tarask: пола
+    be_tarask: пола
     bg: поло
     bn: পোলো
     bo: པོ་ལོ།
@@ -82,11 +82,11 @@ dv_has_:
     cy: polo
     da: polo
     de: Polo
-    de-ch: Polo
+    de_ch: Polo
     el: πόλο
     en: polo
-    en-ca: polo
-    en-gb: polo
+    en_ca: polo
+    en_gb: polo
     en-us: polo
     eo: poloo
     es: polo
@@ -122,7 +122,7 @@ dv_has_:
     mn: поло
     mr: पोलो
     ms: polo
-    ms-arab: ڤولو
+    ms_arab: ڤولو
     mt: pulu
     my: ဂူလီသဘင်
     nb: polo
@@ -136,7 +136,7 @@ dv_has_:
     pms: Pòlo (spòrt)
     pnb: پولو
     pt: polo
-    pt-br: polo
+    pt_br: polo
     ro: polo călare
     ru: поло
     sa: पोलोक्रीडा
@@ -145,8 +145,8 @@ dv_has_:
     sk: pólo
     sl: polo
     sr: поло
-    sr-ec: поло
-    sr-el: polo
+    sr_ec: поло
+    sr_el: polo
     sv: hästpolo
     ta: செண்டாட்டம்
     te: పోలో
@@ -159,12 +159,12 @@ dv_has_:
     wuu: 马球
     yue: 馬球
     zh: 马球
-    zh-cn: 马球
-    zh-hans: 马球
-    zh-hant: 馬球
-    zh-hk: 馬球
-    zh-sg: 马球
-    zh-tw: 馬球
+    zh_cn: 马球
+    zh_hans: 马球
+    zh_hant: 馬球
+    zh_hk: 馬球
+    zh_sg: 马球
+    zh_tw: 馬球
 ---
 # [[Polo]] 🏇 
 

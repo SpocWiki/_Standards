@@ -122,7 +122,7 @@ dv_has_:
     az: cinsi çoxalma
     bcl: sekswal na reproduksyon
     be: палавое размнажэнне
-    be-tarask: плоцевае размнажэньне
+    be_tarask: плоцевае размнажэньне
     bg: полово размножаване
     bn: যৌন প্রজনন
     bs: spolno razmnožavanje
@@ -161,15 +161,15 @@ dv_has_:
     ja: 有性生殖
     kab: amyaraw azufan
     kk: жынысты көбею және ұрықтану ерекшеліктері
-    kk-arab: جىنىستى كوبەيۋ جانە ۇرىقتانۋ ەرەكشەلىكتەرى
+    kk_arab: جىنىستى كوبەيۋ جانە ۇرىقتانۋ ەرەكشەلىكتەرى
     kk-cn: جىنىستى كوبەيۋ جانە ۇرىقتانۋ ەرەكشەلىكتەرى
-    kk-cyrl: жынысты көбею және ұрықтану ерекшеліктері
+    kk_cyrl: жынысты көбею және ұрықтану ерекшеліктері
     kk-kz: жынысты көбею және ұрықтану ерекшеліктері
-    kk-latn: jınıstı köbeyu jäne urıqtanw erekşelikteri
+    kk_latn: jınıstı köbeyu jäne urıqtanw erekşelikteri
     kk-tr: jınıstı köbeyu jäne urıqtanw erekşelikteri
     ko: 유성 생식
     ku: pirbûna zayendî
-    ku-latn: pirbûna zayendî
+    ku_latn: pirbûna zayendî
     lfn: reprodui sesal
     lt: lytinis dauginimasis
     lv: dzimumvairošanās
@@ -208,12 +208,12 @@ dv_has_:
     wuu: 有性生殖
     yue: 有性繁殖
     zh: 有性生殖
-    zh-cn: 有性生殖
-    zh-hans: 有性生殖
-    zh-hant: 有性生殖
-    zh-hk: 有性生殖
-    zh-sg: 有性生殖
-    zh-tw: 有性生殖
+    zh_cn: 有性生殖
+    zh_hans: 有性生殖
+    zh_hant: 有性生殖
+    zh_hk: 有性生殖
+    zh_sg: 有性生殖
+    zh_tw: 有性生殖
 ---
 # [[Sexual_Reproduction]] 
 

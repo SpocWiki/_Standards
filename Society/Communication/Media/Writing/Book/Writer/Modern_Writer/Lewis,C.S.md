@@ -187,7 +187,7 @@ dv_has_:
     az: K.S. Luis
     azb: سی. اس. لوئیس
     be: Клайв Стэйплз Льюіс
-    be-tarask: Клайв Стэйплз Льюіс
+    be_tarask: Клайв Стэйплз Льюіс
     bg: Клайв Стейпълс Луис
     bn: সি. এস. লিউইস
     br: C.S. Lewis
@@ -199,13 +199,13 @@ dv_has_:
     da: C.S. Lewis
     de: C. S. Lewis
     de-at: C.S. Lewis
-    de-ch: C.S. Lewis
+    de_ch: C.S. Lewis
     diq: C.S. Lewis
     dsb: C. S. Lewis
     el: Κ. Σ. Λιούις
     en: C. S. Lewis
-    en-ca: C. S. Lewis
-    en-gb: C. S. Lewis
+    en_ca: C. S. Lewis
+    en_gb: C. S. Lewis
     en-us: C. S. Lewis
     eo: C. S. Lewis
     es: C. S. Lewis
@@ -260,7 +260,7 @@ dv_has_:
     pms: C.S. Lewis
     ps: سي. اس. لوئیس
     pt: Clive Staples Lewis
-    pt-br: Clive Staples Lewis
+    pt_br: Clive Staples Lewis
     qu: Clive Staples Lewis
     ro: Clive Staples Lewis
     ru: Клайв Стейплз Льюис
@@ -291,8 +291,8 @@ dv_has_:
     xmf: კლაივ სტეიპლზ ლუისი
     yue: 魯益師
     zh: 克利夫·史戴普·路易斯
-    zh-cn: 克利夫·史戴普·路易斯
-    zh-tw: C·S·路易斯
+    zh_cn: 克利夫·史戴普·路易斯
+    zh_tw: C·S·路易斯
 ---
 # [[Lewis,C.S]] 
 

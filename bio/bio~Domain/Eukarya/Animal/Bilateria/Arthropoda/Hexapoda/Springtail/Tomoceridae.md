@@ -42,7 +42,7 @@ dv_has_:
     oc: Entomobryomorpha
     pl: Entomobryomorpha
     pt: Entomobryomorpha
-    pt-br: Entomobryomorpha
+    pt_br: Entomobryomorpha
     ro: Entomobryomorpha
     ru: Ентомобрийоморфа
     sq: Entomobryomorpha
@@ -51,9 +51,9 @@ dv_has_:
     vo: Entomobryomorpha
     war: Entomobryomorpha
     zh: 长角䖴目
-    zh-cn: 长角䖴目
-    zh-hans: 长角䖴目
-    zh-tw: 長角目
+    zh_cn: 长角䖴目
+    zh_hans: 长角䖴目
+    zh_tw: 長角目
 ---
 # [[Tomoceridae]] 
 

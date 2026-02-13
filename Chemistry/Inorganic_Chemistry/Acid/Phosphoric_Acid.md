@@ -154,7 +154,7 @@ dv_has_:
     ast: Ácidu fosfórico
     azb: فوسفوریک اسید
     be: Ортафосфарная кіслата
-    be-tarask: фосфарная кісьля
+    be_tarask: фосфарная кісьля
     bg: Фосфорна киселина
     bn: ফসফরিক অ্যাসিড
     bs: Fosfatna kiselina
@@ -211,8 +211,8 @@ dv_has_:
     sk: Kyselina trihydrogenfosforečná
     sl: fosforna kislina
     sr: фосфорна киселина
-    sr-ec: Фосфорна киселина
-    sr-el: Fosforna kiselina
+    sr_ec: Фосфорна киселина
+    sr_el: Fosforna kiselina
     sv: fosforsyra
     ta: பாசுபாரிக் காடி
     te: ఫాస్పారిక్ ఆమ్లం
@@ -226,12 +226,12 @@ dv_has_:
     wuu: 磷酸
     yue: 磷酸
     zh: 磷酸
-    zh-cn: 磷酸
-    zh-hans: 磷酸
-    zh-hant: 磷酸
-    zh-hk: 磷酸
-    zh-sg: 磷酸
-    zh-tw: 磷酸
+    zh_cn: 磷酸
+    zh_hans: 磷酸
+    zh_hant: 磷酸
+    zh_hk: 磷酸
+    zh_sg: 磷酸
+    zh_tw: 磷酸
 dv_is_:
   same_as:
   - '[[../../../WikiData/WD~Phosphoric_acid,184782|WD~Phosphoric_acid,184782]]'

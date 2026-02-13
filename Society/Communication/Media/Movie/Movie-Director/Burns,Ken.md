@@ -87,7 +87,7 @@ dv_has_:
     arz: كين بيرنز
     ast: Ken Burns
     bar: Ken Burns
-    be-tarask: Кен Бэрнз
+    be_tarask: Кен Бэрнз
     br: Ken Burns
     ca: Ken Burns
     ckb: کێن بێرنز
@@ -96,7 +96,7 @@ dv_has_:
     da: Ken Burns
     de: Ken Burns
     de-at: Ken Burns
-    de-ch: Ken Burns
+    de_ch: Ken Burns
     en: Ken Burns
     eo: Ken Burns
     es: Ken Burns
@@ -124,7 +124,7 @@ dv_has_:
     pap: Ken Burns
     pl: Ken Burns
     pt: Ken Burns
-    pt-br: Ken Burns
+    pt_br: Ken Burns
     ro: Ken Burns
     ru: Кен Бёрнс
     sl: Ken Burns

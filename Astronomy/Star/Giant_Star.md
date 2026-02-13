@@ -91,7 +91,7 @@ dv_has_:
     ast: Estrella xigante
     az: Nəhəng ulduz
     be: Зорка-гігант
-    be-tarask: зорка-гігант
+    be_tarask: зорка-гігант
     bg: Гигант (звезда)
     bn: দৈত্য তারা
     bs: Divovska zvijezda
@@ -104,8 +104,8 @@ dv_has_:
     de: Riesenstern
     el: Γίγαντας αστέρας
     en: giant star
-    en-ca: Giant star
-    en-gb: giant star
+    en_ca: Giant star
+    en_gb: giant star
     eo: Giganto
     es: estrella gigante
     et: hiidtäht
@@ -140,8 +140,8 @@ dv_has_:
     sl: zvezda orjakinja
     smn: jietânâstäsni
     sr: џиновска звезда
-    sr-ec: џиновска звезда
-    sr-el: džinovska zvezda
+    sr_ec: џиновска звезда
+    sr_el: džinovska zvezda
     sv: jättestjärna
     th: ดาวยักษ์
     tr: Dev yıldız
@@ -152,9 +152,9 @@ dv_has_:
     wuu: 巨星
     yue: 巨星 (天文)
     zh: 巨星
-    zh-cn: 巨星
-    zh-hans: 巨星
-    zh-hant: 巨星
+    zh_cn: 巨星
+    zh_hans: 巨星
+    zh_hant: 巨星
 ---
 # [[Giant_Star]] 
 

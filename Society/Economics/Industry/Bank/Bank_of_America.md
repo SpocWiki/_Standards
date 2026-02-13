@@ -168,16 +168,16 @@ dv_has_:
     az: Bank of America
     azb: بنک آو امریکا
     be: Bank of America
-    be-tarask: Bank of America
+    be_tarask: Bank of America
     ca: Bank of
     cs: Bank of America
     da: Bank of America
     de: Bank of America
-    de-ch: Bank of America
+    de_ch: Bank of America
     el: Τράπεζα της Αμερικής
     en: Bank of America
-    en-ca: Bank of America
-    en-gb: Bank of America
+    en_ca: Bank of America
+    en_gb: Bank of America
     eo: Bank of America
     es: Bank of America
     et: Bank of America
@@ -209,7 +209,7 @@ dv_has_:
     pa: ਬੈਂਕ ਆਫ਼ ਅਮਰੀਕਾ
     pl: Bank of America
     pt: Bank of America
-    pt-br: Bank of America
+    pt_br: Bank of America
     ro: Bank of America
     ru: Bank of America
     sah: Bank of America
@@ -228,9 +228,9 @@ dv_has_:
     wuu: 美国银行
     yue: 美國銀行
     zh: 美國銀行
-    zh-hans: 美国银行
-    zh-hant: 美國銀行
-    zh-hk: 美國銀行
+    zh_hans: 美国银行
+    zh_hant: 美國銀行
+    zh_hk: 美國銀行
 ---
 # [[Bank_of_America]] 
 

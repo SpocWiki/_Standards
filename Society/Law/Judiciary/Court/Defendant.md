@@ -62,7 +62,7 @@ dv_has_:
     ar: متهم
     az: Müttəhim
     be: адказчык
-    be-tarask: адказчык
+    be_tarask: адказчык
     br: Tamall
     ca: acusat
     cs: žalovaný
@@ -91,7 +91,7 @@ dv_has_:
     ml: പ്രതി
     mnc: ᡥᠠᠪᡧᠠᠪᡠᡥᠠ ᠨᡳᠶᠠᠯᠮᠠ
     ms: defendan
-    ms-arab: ديفيندن
+    ms_arab: ديفيندن
     my: တရားခံ
     nb: tiltalt
     nl: gedaagde
@@ -115,14 +115,14 @@ dv_has_:
     vi: bị cáo
     yue: 被告
     zh: 被告
-    zh-cn: 被告
-    zh-hans: 被告
-    zh-hant: 被告
-    zh-hk: 被告
-    zh-mo: 被告
+    zh_cn: 被告
+    zh_hans: 被告
+    zh_hant: 被告
+    zh_hk: 被告
+    zh_mo: 被告
     zh-my: 被告
-    zh-sg: 被告
-    zh-tw: 被告
+    zh_sg: 被告
+    zh_tw: 被告
 ---
 # [[Defendant]] 
 

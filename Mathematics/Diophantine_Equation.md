@@ -6,7 +6,7 @@ dv_has_:
     ast: Ecuación diofántica
     az: Diyofantus tənliyi
     ba: Диофант тигеҙләмәһе
-    be-tarask: дыяфантава раўнаньне
+    be_tarask: дыяфантава раўнаньне
     bg: Диофантово уравнение
     bn: ডায়োফ্যান্টাইন সমীকরণ
     bs: Diofantska jednačina
@@ -49,7 +49,7 @@ dv_has_:
     pl: równanie diofantyczne
     pms: Equassion diofantin-a
     pt: equação diofantina
-    pt-br: equação diofantina
+    pt_br: equação diofantina
     ro: ecuație diofantică
     ru: диофантово уравнение
     sh: Diofantske jednačine

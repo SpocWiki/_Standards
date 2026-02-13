@@ -120,8 +120,8 @@ dv_has_:
     sms: sosiaaldarwinismm
     sq: Darvinizmi Social
     sr: Социјалдарвинизам
-    sr-ec: Социјалдарвинизам
-    sr-el: Socijaldarvinizam
+    sr_ec: Социјалдарвинизам
+    sr_el: Socijaldarvinizam
     sv: socialdarwinism
     th: ทฤษฎีดาร์วินทางสังคม
     tr: Sosyal Darwinizm
@@ -130,12 +130,12 @@ dv_has_:
     vi: Chủ nghĩa Darwin xã hội
     yue: 社會達爾文主義
     zh: 社會達爾文主義
-    zh-cn: 社会达尔文主义
-    zh-hans: 社会达尔文主义
-    zh-hant: 社會達爾文主義
-    zh-hk: 社會達爾文主義
-    zh-sg: 社会达尔文主义
-    zh-tw: 社會達爾文主義
+    zh_cn: 社会达尔文主义
+    zh_hans: 社会达尔文主义
+    zh_hant: 社會達爾文主義
+    zh_hk: 社會達爾文主義
+    zh_sg: 社会达尔文主义
+    zh_tw: 社會達爾文主義
 ---
 # [[Social_Darwinism]] 
 

@@ -83,19 +83,19 @@ dv_has_:
     ast: Madama Butterfly
     az: Madam Batterflay
     be: Мадам Батэрфляй
-    be-tarask: Мадам Батэрфляй
+    be_tarask: Мадам Батэрфляй
     bg: Мадам Бътерфлай
     ca: Madama Butterfly
     cs: Madam Butterfly
     cy: Madama Butterfly
     da: Madame Butterfly
     de: Madama Butterfly
-    de-ch: Madama Butterfly
+    de_ch: Madama Butterfly
     dsb: Madama Butterfly
     el: Μαντάμα Μπατερφλάι
     en: Madama Butterfly
-    en-ca: Madama Butterfly
-    en-gb: Madama Butterfly
+    en_ca: Madama Butterfly
+    en_gb: Madama Butterfly
     eo: Madama Butterfly
     es: Madama Butterfly
     et: Madame Butterfly
@@ -128,7 +128,7 @@ dv_has_:
     oc: Madama Butterfly
     pl: Madame Butterfly
     pt: Madama Butterfly
-    pt-br: Madama Butterfly
+    pt_br: Madama Butterfly
     ro: Madama Butterfly
     ru: Мадам Баттерфляй
     sh: Madama Butterfly
@@ -145,8 +145,8 @@ dv_has_:
     wuu: 蝴蝶夫人
     yue: 蝴蝶夫人
     zh: 蝴蝶夫人
-    zh-hans: 蝴蝶夫人
-    zh-hant: 蝴蝶夫人
+    zh_hans: 蝴蝶夫人
+    zh_hant: 蝴蝶夫人
 ---
 # [[Madame_Butterfly]] 
 

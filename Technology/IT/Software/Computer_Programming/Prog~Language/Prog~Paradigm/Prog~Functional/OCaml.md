@@ -40,18 +40,18 @@ dv_has_:
     sv: OCaml
     syl: ꠅꠇꠣꠝꠟ
     tg: OCaml
-    tg-latn: OCaml
+    tg_latn: OCaml
     tr: OCaml
     uk: Objective Caml
     vec: Objective Caml
     vi: OCaml
     zh: OCaml
-    zh-cn: OCaml
-    zh-hans: OCaml
-    zh-hant: OCaml
-    zh-hk: OCaml
-    zh-sg: OCaml
-    zh-tw: OCaml
+    zh_cn: OCaml
+    zh_hans: OCaml
+    zh_hant: OCaml
+    zh_hk: OCaml
+    zh_sg: OCaml
+    zh_tw: OCaml
 aliases:
 - Objective CAML
 - OCaml

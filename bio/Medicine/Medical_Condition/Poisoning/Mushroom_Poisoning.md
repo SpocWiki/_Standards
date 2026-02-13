@@ -71,7 +71,7 @@ dv_has_:
     ast: Envelenamientu por cogordes
     ba: Бәшмәктәр менән ағыуланыу
     be: атручванне грыбамі
-    be-tarask: атручаньне грыбамі
+    be_tarask: атручаньне грыбамі
     ca: enverinament per bolets
     cs: otrava houbami
     csb: Pòtrusë

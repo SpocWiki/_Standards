@@ -65,7 +65,7 @@ dv_has_:
     ab: Кувеит
     ace: Kuwait
     ady: Кувейт
-    aeb-arab: الكويت
+    aeb_arab: الكويت
     af: Koeweit
     am: ኩዌት
     ami: Kuwait
@@ -88,7 +88,7 @@ dv_has_:
     bar: Kuwait
     bcl: Kuwait
     be: Кувейт
-    be-tarask: Кувэйт
+    be_tarask: Кувэйт
     bew: Kuwét
     bg: Кувейт
     bgn: کویت
@@ -102,13 +102,13 @@ dv_has_:
     bug: ᨀᨘᨓᨕᨗ
     bxr: Кувейт
     ca: Kuwait
-    cbk-zam: Kuwait
+    cbk_zam: Kuwait
     cdo: Kuwait
     ce: Кувейт
     ceb: Kuwait
     ckb: کووەیت
     crh: Küveyt
-    crh-latn: Küveyt
+    crh_latn: Küveyt
     cs: Kuvajt
     csb: Kùwejt
     cv: Кувейт
@@ -117,7 +117,7 @@ dv_has_:
     dag: Kuwait
     de: Kuwait
     de-at: Kuwait
-    de-ch: Kuwait
+    de_ch: Kuwait
     diq: Kuweyt
     dsb: Kuwait
     dtp: Kuwait
@@ -126,8 +126,8 @@ dv_has_:
     dz: ཀུ་ཝེཊ་
     el: Κουβέιτ
     en: Kuwait
-    en-ca: Kuwait
-    en-gb: Kuwait
+    en_ca: Kuwait
+    en_gb: Kuwait
     eo: Kuvajto
     es: Kuwait
     et: Kuveit
@@ -150,7 +150,7 @@ dv_has_:
     gn: Kuáite
     gom: कुवेत
     gom-deva: कुवेत
-    gom-latn: Kuwait
+    gom_latn: Kuwait
     gpe: Kuwait
     gsw: Kuwait
     gu: કુવૈત
@@ -188,7 +188,7 @@ dv_has_:
     kge: Kuwait
     ki: Kuwait
     kk: Кувейт
-    kk-cyrl: Кувейт
+    kk_cyrl: Кувейт
     kl: Kuwait
     km: គុយវ៉ែត
     kn: ಕುವೈತ್
@@ -196,7 +196,7 @@ dv_has_:
     ko: 쿠웨이트
     krc: Кувейт
     ks: کُویت
-    ks-arab: کُویت
+    ks_arab: کُویت
     ku: Kuweyt
     kv: Кувейт
     kw: Koweyt
@@ -229,7 +229,7 @@ dv_has_:
     mni: ꯀꯨꯋꯩꯠ
     mr: कुवेत
     ms: Kuwait
-    ms-arab: کويت
+    ms_arab: کويت
     mt: Kuwajt
     my: ကူဝိတ်နိုင်ငံ
     mzn: کوویت
@@ -259,7 +259,7 @@ dv_has_:
     pnb: کویت
     ps: کوېټ
     pt: Kuwait
-    pt-br: Kuwait
+    pt_br: Kuwait
     qu: Kuwait
     rki: ကူဝိတ်နိုင်ငံ
     rmy: Kuwait
@@ -288,8 +288,8 @@ dv_has_:
     so: Kuwayt
     sq: Kuvajti
     sr: Кувајт
-    sr-ec: Кувајт
-    sr-el: Kuvajt
+    sr_ec: Кувајт
+    sr_el: Kuvajt
     ss: IKhuwathi
     su: Kuwait
     sv: Kuwait
@@ -303,7 +303,7 @@ dv_has_:
     te: కువైట్
     tet: Kuwait
     tg: Кувайт
-    tg-cyrl: Кувайт
+    tg_cyrl: Кувайт
     th: ประเทศคูเวต
     tk: Kuweýt
     tl: Kuwait
@@ -336,12 +336,12 @@ dv_has_:
     za: Kuwait
     zea: Koeweit
     zh: 科威特
-    zh-cn: 科威特
-    zh-hans: 科威特
-    zh-hant: 科威特
-    zh-hk: 科威特
+    zh_cn: 科威特
+    zh_hans: 科威特
+    zh_hant: 科威特
+    zh_hk: 科威特
     zh-my: 科威特
-    zh-tw: 科威特
+    zh_tw: 科威特
     zu: i-Kuwait
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Kuwait

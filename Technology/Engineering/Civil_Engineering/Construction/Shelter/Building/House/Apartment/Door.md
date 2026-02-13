@@ -171,7 +171,7 @@ dv_has_:
     bcl: Pinto
     bdr: beluang
     be: дзверы
-    be-tarask: дзьверы
+    be_tarask: дзьверы
     bg: врата
     bho: केंवाड़ी
     bjn: lawang
@@ -190,12 +190,12 @@ dv_has_:
     da: dør
     dag: dunoli
     de: Tür
-    de-ch: Tür
+    de_ch: Tür
     el: πόρτα
     eml: ùs
     en: door
-    en-ca: door
-    en-gb: door
+    en_ca: door
+    en_gb: door
     en-us: door
     eo: pordo
     es: puerta
@@ -248,7 +248,7 @@ dv_has_:
     nan: mn̂g-sìⁿ
     nb: dør
     nds: Döör
-    nds-nl: deure
+    nds_nl: deure
     ne: ढोका
     nl: deur
     nn: dør
@@ -262,7 +262,7 @@ dv_has_:
     pl: drzwi
     pnb: بوہا
     pt: porta
-    pt-br: porta
+    pt_br: porta
     qu: punku
     rn: umuryango
     ro: ușă
@@ -281,8 +281,8 @@ dv_has_:
     so: albaab
     sq: derë
     sr: врата
-    sr-ec: врата
-    sr-el: vrata
+    sr_ec: врата
+    sr_el: vrata
     sv: dörr
     sw: mlango
     syl: ꠖꠥꠀꠞ
@@ -293,7 +293,7 @@ dv_has_:
     tl: pinto
     tr: kapı
     tt: ишек
-    tt-cyrl: ишек
+    tt_cyrl: ишек
     ug: ئىشىك
     uk: двері
     ur: دروازہ

@@ -143,7 +143,7 @@ dv_has_:
     azb: نسلی کسیلمکده اولان نوعلار
     ba: юҡҡа сығып барыусы төрҙәр
     be: віды пад пагрозай вымірання
-    be-tarask: віды пад пагрозай выміраньня
+    be_tarask: віды пад пагрозай выміраньня
     bg: застрашен вид
     bn: বিপন্ন প্রজাতি
     br: spesad en arvar
@@ -159,8 +159,8 @@ dv_has_:
     de: stark gefährdet
     el: είδη που κινδυνεύουν με αφανισμό
     en: endangered species
-    en-ca: endangered species
-    en-gb: endangered species
+    en_ca: endangered species
+    en_gb: endangered species
     eo: minacata specio
     es: en peligro de extinción
     et: ohustatud liik
@@ -224,7 +224,7 @@ dv_has_:
     pms: specie mnassà
     pnb: مکدے جاندار
     pt: espécie em perigo
-    pt-br: espécie em perigo
+    pt_br: espécie em perigo
     ro: specii pe cale de dispariție
     ru: вымирающие виды
     scn: a pirìculu
@@ -236,8 +236,8 @@ dv_has_:
     smn: tuođâlávt uhkevuálásâš
     sq: speciet e rrezikuara
     sr: угрожена врста
-    sr-ec: угрожена врста
-    sr-el: ugrožena vrsta
+    sr_ec: угрожена врста
+    sr_el: ugrožena vrsta
     sv: starkt hotad
     sw: spishi adimu
     ta: அருகிய இனம்
@@ -258,14 +258,14 @@ dv_has_:
     yi: זגאלן אין סכנה
     yue: 瀕臨絕種
     zh: 瀕危物種
-    zh-cn: 濒危物种
-    zh-hans: 濒危物种
-    zh-hant: 瀕危物種
-    zh-hk: 瀕危物種
-    zh-mo: 瀕危物種
+    zh_cn: 濒危物种
+    zh_hans: 濒危物种
+    zh_hant: 瀕危物種
+    zh_hk: 瀕危物種
+    zh_mo: 瀕危物種
     zh-my: 濒危物种
-    zh-sg: 濒危物种
-    zh-tw: 瀕危物種
+    zh_sg: 濒危物种
+    zh_tw: 瀕危物種
 ---
 # [[Endangered_Species]] 
 

@@ -102,7 +102,7 @@ dv_has_:
     ast: artes marciales mestes
     az: qaydasız döyüş
     ba: ҡатнаш көрәш сәнғәте
-    be-tarask: зьмяшаныя баявыя мастацтвы
+    be_tarask: зьмяшаныя баявыя мастацтвы
     bg: Смесени бойни изкуства
     bn: মিশ্র মার্শাল আর্টস
     br: Mixed martial arts
@@ -114,8 +114,8 @@ dv_has_:
     de: Mixed Martial Arts
     el: μεικτές πολεμικές τέχνες
     en: mixed martial arts
-    en-ca: mixed martial arts
-    en-gb: mixed martial arts
+    en_ca: mixed martial arts
+    en_gb: mixed martial arts
     eo: miksita batalarto
     es: artes marciales mixtas
     et: sportlik vabavõitlus
@@ -150,7 +150,7 @@ dv_has_:
     ms: seni bela diri campuran
     nan: Hūn-ha̍p bú-su̍t
     nb: Mixed martial arts
-    nds-nl: mingde gevechtskeunsten
+    nds_nl: mingde gevechtskeunsten
     ne: मिश्रित मार्सल आर्ट्स
     new: मिक्सद मार्सल आर्त्स
     nl: mixed martial arts
@@ -168,8 +168,8 @@ dv_has_:
     sk: Zmiešané bojové umenia
     sl: mešane borilne veščine
     sr: мешовите борилачке вештине
-    sr-ec: мешовите борилачке вештине
-    sr-el: mešovite borilačke veštine
+    sr_ec: мешовите борилачке вештине
+    sr_el: mešovite borilačke veštine
     sv: mixed martial arts
     th: ศิลปะการต่อสู้ป้องกันตัวแบบผสม
     tr: karma dövüş sanatları
@@ -181,12 +181,12 @@ dv_has_:
     wuu: 综合格斗
     yue: 混合格鬥
     zh: 綜合格鬥
-    zh-cn: 综合格斗
-    zh-hans: 综合格斗
-    zh-hant: 綜合格鬥
-    zh-hk: 綜合格鬥
-    zh-sg: 综合格斗
-    zh-tw: 綜合格鬥
+    zh_cn: 综合格斗
+    zh_hans: 综合格斗
+    zh_hant: 綜合格鬥
+    zh_hk: 綜合格鬥
+    zh_sg: 综合格斗
+    zh_tw: 綜合格鬥
 ---
 # [[Mixed_martial_Arts]] 
 

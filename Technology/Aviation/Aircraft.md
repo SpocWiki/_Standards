@@ -160,7 +160,7 @@ dv_has_:
     az: hava nəqliyyatı
     ba: Һауа судноһы
     be: паветранае судна
-    be-tarask: паветранае судна
+    be_tarask: паветранае судна
     bg: Летателен апарат
     bho: बिमान
     bn: বিমান
@@ -169,18 +169,18 @@ dv_has_:
     ca: aeronau
     ckb: مەکۆی ئاسمانی
     crh: Uçaq
-    crh-latn: Uçaq
+    crh_latn: Uçaq
     cs: letadlo
     cv: сывлăш карапĕ
     cy: awyren
     da: luftfartøj
     dag: alepile
     de: Luftfahrzeug
-    de-ch: Luftfahrzeug
+    de_ch: Luftfahrzeug
     el: αεροσκάφος
     en: aircraft
-    en-ca: Aircraft
-    en-gb: aircraft
+    en_ca: Aircraft
+    en_gb: aircraft
     eo: aviadilo
     es: aeronave
     et: Õhusõiduk
@@ -225,7 +225,7 @@ dv_has_:
     mn: Агаарын хөлөг
     mr: विमान
     ms: pesawat udara
-    ms-arab: ڤساوت اودارا
+    ms_arab: ڤساوت اودارا
     nan: Hâng-khong-ki
     nap: Ariemòbbele
     nb: luftfartøy
@@ -240,7 +240,7 @@ dv_has_:
     pl: statek powietrzny
     pnb: ہوائی جہاز
     pt: aeronave
-    pt-br: aeronave
+    pt_br: aeronave
     ro: aeronavă
     ru: воздушное судно
     rue: Летадло
@@ -251,8 +251,8 @@ dv_has_:
     sl: zrakoplov
     sq: avion
     sr: ваздухоплов
-    sr-ec: ваздухоплов
-    sr-el: vazduhoplov
+    sr_ec: ваздухоплов
+    sr_el: vazduhoplov
     su: kapal Udara
     sv: flygmaskin
     sw: Chomboanga
@@ -276,14 +276,14 @@ dv_has_:
     yi: לופטמאשין
     yue: 航空器
     zh: 航空器
-    zh-cn: 航空器
-    zh-hans: 航空器
-    zh-hant: 航空器
-    zh-hk: 航空器
-    zh-mo: 航空器
+    zh_cn: 航空器
+    zh_hans: 航空器
+    zh_hant: 航空器
+    zh_hk: 航空器
+    zh_mo: 航空器
     zh-my: 航空器
-    zh-sg: 航空器
-    zh-tw: 航空器
+    zh_sg: 航空器
+    zh_tw: 航空器
     zu: INdiza
 ---
 ## #has_/text_of_/abstract 

@@ -140,7 +140,7 @@ dv_has_:
     ba: Штат
     ban: Negara bagian federasi
     be: штат
-    be-tarask: штат
+    be_tarask: штат
     bew: Negara serèkat
     bg: Щат
     bn: সংঘবদ্ধ রাজ্য
@@ -151,12 +151,12 @@ dv_has_:
     cy: talaith
     da: delstat
     de: Gliedstaat
-    de-ch: Gliedstaat
+    de_ch: Gliedstaat
     dsb: Zwězkowy kraj
     el: ομόσπονδη πολιτεία
     en: federated state
-    en-ca: Federated state
-    en-gb: federated state
+    en_ca: Federated state
+    en_gb: federated state
     eo: subŝtato
     es: estado federado
     et: osariik
@@ -185,7 +185,7 @@ dv_has_:
     kn: ಫೆಡರೇಟಡ್ ರಾಜ್ಯ
     ko: 연방주
     ku: dewleta federal
-    ku-latn: dewleta federal
+    ku_latn: dewleta federal
     ky: Штат
     la: civitas foederata
     lb: Federéierte Staat
@@ -200,7 +200,7 @@ dv_has_:
     nah: Tlahtohcayotl
     nb: delstat
     nds: Bundsland
-    nds-nl: dailstoat
+    nds_nl: dailstoat
     ne: सङ्घबद्ध राज्य
     nl: deelstaat
     nn: delstat
@@ -213,7 +213,7 @@ dv_has_:
     pnb: وفاقی ریاست
     ps: ايالت
     pt: ente federativo
-    pt-br: estado federado
+    pt_br: estado federado
     rmy: Stato
     ro: Stat federat
     ru: государство в составе федеративного союза
@@ -225,12 +225,12 @@ dv_has_:
     smn: uásistaatâ
     sms: vueʹssvaldia
     sr: савезна држава
-    sr-ec: савезна држава
-    sr-el: savezna država
+    sr_ec: савезна држава
+    sr_el: savezna država
     sv: delstat
     ta: மாநிலம்
     tg: Иёлат
-    tg-latn: Ijolat
+    tg_latn: Ijolat
     tpi: Stet
     tr: federal devlet
     tt: Штат
@@ -242,10 +242,10 @@ dv_has_:
     xmf: შტატი
     yue: 邦
     zh: 联邦制下的州
-    zh-cn: 联邦制下的州
-    zh-hant: 聯邦制國家成員
-    zh-hk: 聯邦制國家成員
-    zh-tw: 聯邦制國家成員
+    zh_cn: 联邦制下的州
+    zh_hant: 聯邦制國家成員
+    zh_hk: 聯邦制國家成員
+    zh_tw: 聯邦制國家成員
 ---
 # [[Federated_State]] 
 

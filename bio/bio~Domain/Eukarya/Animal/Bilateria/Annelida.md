@@ -92,7 +92,7 @@ dv_has_:
     azb: حلقوی قۇردلار
     ba: балдаҡлы селәүсендәр
     be: кольчатыя чэрві
-    be-tarask: кальчакі
+    be_tarask: кальчакі
     bg: прешленести червеи
     bn: অ্যানিলিডা
     bs: Annelida
@@ -105,8 +105,8 @@ dv_has_:
     de: Ringelwürmer
     el: Δακτυλιοσκώληκες
     en: Annelida
-    en-ca: Annelid
-    en-gb: Annelid
+    en_ca: Annelid
+    en_gb: Annelid
     eo: Anelidoj
     es: Annelida
     et: Rõngussid
@@ -159,7 +159,7 @@ dv_has_:
     pl: pierścienice
     pnb: چوڑیاںوالے
     pt: Anelídeo
-    pt-br: Anelídeo
+    pt_br: Anelídeo
     qu: Sillwi kuru
     ro: Annelida
     ru: кольчатые черви
@@ -187,9 +187,9 @@ dv_has_:
     wuu: 环节动物门
     yue: 環節動物
     zh: 环节动物门
-    zh-cn: 环节动物门
-    zh-hans: 环节动物门
-    zh-tw: 環節動物門
+    zh_cn: 环节动物门
+    zh_hans: 环节动物门
+    zh_tw: 環節動物門
 ---
 # Annelida
 

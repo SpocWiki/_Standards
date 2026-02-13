@@ -89,7 +89,7 @@ dv_has_:
     ar: دير رينغ ديس نيبلنغين
     arz: دير رينج ديس نيبلنجين
     ast: Der Ring des Nibelungen
-    be-tarask: Пярсьцёнак Нібэлюнгаў
+    be_tarask: Пярсьцёнак Нібэлюнгаў
     bg: Пръстенът на Нибелунгите
     br: Der Ring des Nibelungen
     ca: L'anell dels Nibelungs
@@ -131,8 +131,8 @@ dv_has_:
     sk: Prsteň Nibelungov
     sl: Der Ring des Nibelungen
     sr: Прстен Нибелунга
-    sr-ec: Прстен Нибелунга
-    sr-el: Prsten Nibelunga
+    sr_ec: Прстен Нибелунга
+    sr_el: Prsten Nibelunga
     sv: Nibelungens ring
     th: แดร์ริงเด็สนีเบอลุงเงิน
     tr: Nibelung Yüzüğü
@@ -140,12 +140,12 @@ dv_has_:
     vi: Der Ring des Nibelungen
     war: Der Ring des Nibelungen
     zh: 尼伯龙根的指环
-    zh-cn: 尼伯龙根的指环
-    zh-hans: 尼伯龙根的指环
-    zh-hant: 尼伯龍根的指環
-    zh-hk: 尼伯龍根的指環
-    zh-sg: 尼伯龙根的指环
-    zh-tw: 尼貝龍根的指環
+    zh_cn: 尼伯龙根的指环
+    zh_hans: 尼伯龙根的指环
+    zh_hant: 尼伯龍根的指環
+    zh_hk: 尼伯龍根的指環
+    zh_sg: 尼伯龙根的指环
+    zh_tw: 尼貝龍根的指環
 ---
 # [[Ring_des_Nibelungen]] 
 

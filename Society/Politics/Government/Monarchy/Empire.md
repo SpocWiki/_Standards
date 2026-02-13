@@ -127,7 +127,7 @@ dv_has_:
     ba: империя
     bcl: Imperyo
     be: імперыя
-    be-tarask: імпэрыя
+    be_tarask: імпэрыя
     bg: Империя
     bn: সাম্রাজ্য
     br: Impalaeriezh
@@ -144,7 +144,7 @@ dv_has_:
     dv: އަންބަރާޠޫރިއްޔަތު
     el: αυτοκρατορία
     en: empire
-    en-gb: empire
+    en_gb: empire
     eo: imperio
     es: imperio
     et: keisririik
@@ -177,7 +177,7 @@ dv_has_:
     kk: Империя
     ko: 제국
     ku: împeratorî
-    ku-latn: împeratorî
+    ku_latn: împeratorî
     kw: emperoureth
     ky: Империя
     la: Imperium
@@ -196,7 +196,7 @@ dv_has_:
     mni: ꯂꯩꯄꯥꯛ ꯂꯩꯆꯥꯎ
     mr: साम्राज्य
     ms: empayar
-    ms-arab: ايمڤاير
+    ms_arab: ايمڤاير
     nan: Té-kok
     nb: imperium
     ne: साम्राज्य
@@ -230,11 +230,11 @@ dv_has_:
     smn: kiäisárkodde
     sq: Perandoria
     sr: империја
-    sr-ec: империја
+    sr_ec: империја
     sv: imperium
     ta: பேரரசு
     tg: империя
-    tg-cyrl: империя
+    tg_cyrl: империя
     th: จักรวรรดิ
     tl: Imperyo
     tr: imparatorluk
@@ -251,11 +251,11 @@ dv_has_:
     yo: Ilẹ̀ ọbalúayé
     yue: 帝國
     zh: 帝国
-    zh-cn: 帝国
-    zh-hans: 帝国
-    zh-hant: 帝國
-    zh-hk: 帝國
-    zh-tw: 帝國
+    zh_cn: 帝国
+    zh_hans: 帝国
+    zh_hant: 帝國
+    zh_hk: 帝國
+    zh_tw: 帝國
 ---
 # [[Empire]] 
 

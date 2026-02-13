@@ -252,8 +252,8 @@ dv_has_:
   name_:
     ab: амшын
     ace: laôt
-    aeb-arab: بحر
-    aeb-latn: b7ar
+    aeb_arab: بحر
+    aeb_latn: b7ar
     af: see
     am: ባህር
     ami: riyar
@@ -276,7 +276,7 @@ dv_has_:
     bbc: laut
     bcl: dagat
     be: мора
-    be-tarask: мора
+    be_tarask: мора
     bew: laot
     bg: море
     bho: समुंद्र
@@ -293,7 +293,7 @@ dv_has_:
     ckb: دەریا
     co: mare
     crh: deñiz
-    crh-latn: deñiz
+    crh_latn: deñiz
     cs: moře
     csb: mòrze
     cu: морѥ
@@ -310,8 +310,8 @@ dv_has_:
     el: θάλασσα
     eml: mèr
     en: sea
-    en-ca: sea
-    en-gb: sea
+    en_ca: sea
+    en_gb: sea
     eo: maro
     es: mar
     es-419: mar
@@ -396,7 +396,7 @@ dv_has_:
     lzh: 海
     mad: tasè'
     mai: समुन्द्र
-    map-bms: segara
+    map_bms: segara
     mdf: иневедсь
     mg: Ranomasina
     mhr: теҥыз
@@ -408,7 +408,7 @@ dv_has_:
     mr: समुद्र
     mrj: тангыж
     ms: laut
-    ms-arab: لاءوت
+    ms_arab: لاءوت
     mt: baħar
     mwl: mar
     my: ပင်လယ်
@@ -419,7 +419,7 @@ dv_has_:
     nap: mare
     nb: hav
     nds: Meer
-    nds-nl: zee
+    nds_nl: zee
     ne: समुद्र
     new: समुद्र
     nia: asi
@@ -440,7 +440,7 @@ dv_has_:
     pnt: θάλασσα
     ps: سمندرګی
     pt: mar
-    pt-br: mar
+    pt_br: mar
     pwn: ljavek
     qu: hatun qucha
     rm: mar
@@ -471,8 +471,8 @@ dv_has_:
     so: bad
     sq: det
     sr: море
-    sr-ec: море
-    sr-el: more
+    sr_ec: море
+    sr_el: more
     stq: See
     su: sagara
     sv: hav
@@ -491,7 +491,7 @@ dv_has_:
     tok: telo suli
     tr: deniz
     tt: диңгез
-    tt-cyrl: диңгез
+    tt_cyrl: диңгез
     tw: ɛpo
     udm: зарезь
     ug: دېڭىز
@@ -515,14 +515,14 @@ dv_has_:
     za: haij
     zea: zeê
     zh: 海
-    zh-cn: 海
-    zh-hans: 海
-    zh-hant: 海
-    zh-hk: 海
-    zh-mo: 海
+    zh_cn: 海
+    zh_hans: 海
+    zh_hant: 海
+    zh_hk: 海
+    zh_mo: 海
     zh-my: 海
-    zh-sg: 海
-    zh-tw: 海
+    zh_sg: 海
+    zh_tw: 海
     zu: ulwandle
   parent_class: '[[../BodyOfWater]]'
   properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'

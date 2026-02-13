@@ -100,7 +100,7 @@ dv_has_:
     az: Hindi
     ba: Индиец
     be: Індзеец
-    be-tarask: Індзеец
+    be_tarask: Індзеец
     bg: Индианец
     bn: সিন্ধু মণ্ডল
     br: Indian

@@ -77,18 +77,18 @@ dv_has_:
     ar: اختلاس
     ast: Esfalcu
     azb: ایختلاس
-    be-tarask: прыўлашчаньне
+    be_tarask: прыўлашчаньне
     bg: Присвояване
     ca: malversació
     cs: zpronevěra
     cv: Хăйĕнлетӳ
     da: underslæb
     de: Unterschlagung
-    de-ch: Unterschlagung
+    de_ch: Unterschlagung
     el: υπεξαίρεση
     en: embezzlement
-    en-ca: Embezzlement
-    en-gb: embezzlement
+    en_ca: Embezzlement
+    en_gb: embezzlement
     eo: publika malversacio
     es: desfalco
     eu: funts-desbideratze
@@ -115,13 +115,13 @@ dv_has_:
     oc: apropriacion indeguda
     pl: defraudacja
     pt: apropriação indébita
-    pt-br: Apropriação indébita
+    pt_br: Apropriação indébita
     ro: delapidare
     ru: присвоение
     sl: poneverba
     sr: проневера
-    sr-ec: проневера
-    sr-el: pronevera
+    sr_ec: проневера
+    sr_el: pronevera
     sv: förskingring
     szl: defraudacyjŏ
     ta: கையாடல்
@@ -130,12 +130,12 @@ dv_has_:
     vec: inpropiasion indèbita
     vi: tham ô
     zh: 侵吞
-    zh-cn: 侵吞
-    zh-hans: 侵吞
-    zh-hant: 侵吞
-    zh-hk: 侵吞
-    zh-sg: 侵吞
-    zh-tw: 侵吞
+    zh_cn: 侵吞
+    zh_hans: 侵吞
+    zh_hant: 侵吞
+    zh_hk: 侵吞
+    zh_sg: 侵吞
+    zh_tw: 侵吞
 ---
 # [[Embezzlement]] 
 

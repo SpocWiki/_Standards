@@ -63,7 +63,7 @@ dv_has_:
     ast: Dopaxe
     az: Dopinq
     be: допінг
-    be-tarask: допінг
+    be_tarask: допінг
     bg: Допинг
     br: Doperezh
     bs: Doping
@@ -111,8 +111,8 @@ dv_has_:
     sk: doping
     sl: doping
     sr: допинг
-    sr-ec: допинг
-    sr-el: doping
+    sr_ec: допинг
+    sr_el: doping
     su: Doping
     sv: dopning
     tr: Doping
@@ -123,13 +123,13 @@ dv_has_:
     wuu: 体育兴奋剂
     yue: 運動禁藥
     zh: 體育禁藥
-    zh-cn: 体育兴奋剂
-    zh-hans: 体育禁药
-    zh-hant: 體育禁藥
-    zh-hk: 體育禁藥
-    zh-mo: 體育禁藥
-    zh-sg: 体育禁药
-    zh-tw: 體育禁藥
+    zh_cn: 体育兴奋剂
+    zh_hans: 体育禁药
+    zh_hant: 體育禁藥
+    zh_hk: 體育禁藥
+    zh_mo: 體育禁藥
+    zh_sg: 体育禁药
+    zh_tw: 體育禁藥
 ---
 # [[Doping_in_Sport]] 
 

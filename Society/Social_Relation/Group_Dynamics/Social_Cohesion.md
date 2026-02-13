@@ -67,7 +67,7 @@ dv_has_:
   name_:
     ar: تماسك الجماعة
     ast: Cohesión social
-    be-tarask: сацыяльная згуртаванасьць
+    be_tarask: сацыяльная згуртаванасьць
     ca: cohesió social
     cs: Sociální koheze
     da: sammenhængskraft
@@ -98,14 +98,14 @@ dv_has_:
     sk: sociálna súdržnosť
     sl: socialna kohezija
     sr: Групна кохезија
-    sr-ec: Групна кохезија
-    sr-el: Grupna kohezija
+    sr_ec: Групна кохезија
+    sr_el: Grupna kohezija
     sv: Gruppsammanhållning
     th: ความเป็นปึกแผ่นของกลุ่ม
     uk: групова згуртованість
     wuu: 团体凝聚力
     zh: 團體凝聚力
-    zh-cn: 群体凝聚力
+    zh_cn: 群体凝聚力
 ---
 # [[Social_Cohesion]] 
 

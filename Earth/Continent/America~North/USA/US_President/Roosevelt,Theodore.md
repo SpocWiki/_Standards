@@ -270,7 +270,7 @@ dv_has_:
     bar: Theodore Roosevelt
     bcl: Theodore Roosevelt
     be: Тэадор Рузвельт
-    be-tarask: Тэадор Рузвэлт
+    be_tarask: Тэадор Рузвэлт
     bg: Теодор Рузвелт
     bi: Theodore Roosevelt
     bn: থিওডোর রুজভেল্ট
@@ -358,7 +358,7 @@ dv_has_:
     nan: Theodore Roosevelt
     nb: Theodore Roosevelt
     nds: Theodore Roosevelt
-    nds-nl: Theodore Roosevelt
+    nds_nl: Theodore Roosevelt
     ne: थियोडोर रूजवेल्ट
     nl: Theodore Roosevelt
     nn: Theodore Roosevelt
@@ -374,7 +374,7 @@ dv_has_:
     pnb: تھیوڈور روزویلٹ
     ps: ټیوډور روزولټ
     pt: Theodore Roosevelt
-    pt-br: Theodore Roosevelt
+    pt_br: Theodore Roosevelt
     qu: Theodore Roosevelt
     rm: Theodore Roosevelt
     rmf: Theodore Roosevelt
@@ -397,7 +397,7 @@ dv_has_:
     sms: Theodore Roosevelt
     sq: Theodore Roosevelt
     sr: Теодор Рузвелт
-    sr-ec: Теодор Рузвелт
+    sr_ec: Теодор Рузвелт
     sv: Theodore Roosevelt
     sw: Theodore Roosevelt
     ta: தியொடோர் ரோசவெல்ட்
@@ -422,8 +422,8 @@ dv_has_:
     yo: Theodore Roosevelt
     yue: 西奧多羅斯福
     zh: 西奥多·罗斯福
-    zh-hant: 狄奧多·羅斯福
-    zh-tw: 狄奧多·羅斯福
+    zh_hant: 狄奧多·羅斯福
+    zh_tw: 狄奧多·羅斯福
   time_:
     started: 1858-10-27T00:00:00.000+00:53
     stopped: 1919-01-06T00:00:00.000+01:00

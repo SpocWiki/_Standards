@@ -108,7 +108,7 @@ dv_has_:
     ast: equivalencia ente masa y enerxía
     az: kütlə və enerjinin ekvivalentliyi
     be: эквівалентнасць масы і энергіі
-    be-tarask: эквівалентнасьць масы-энэргіі
+    be_tarask: эквівалентнасьць масы-энэргіі
     bg: равенство на маса и енергия
     bn: ভর-শক্তি সমতা
     br: E=mc²
@@ -123,8 +123,8 @@ dv_has_:
     diq: E=mc²
     el: ισοδυναμία μάζας-ενέργειας
     en: mass–energy equivalence
-    en-ca: mass–energy equivalence
-    en-gb: mass–energy equivalence
+    en_ca: mass–energy equivalence
+    en_gb: mass–energy equivalence
     eo: ekvivalenteco inter maso kaj energio
     es: equivalencia entre masa y energía
     et: massi-energia seos
@@ -167,7 +167,7 @@ dv_has_:
     nn: masseenergilova
     pl: równoważność masy i energii
     pt: equivalência massa-energia
-    pt-br: equivalência massa–energia
+    pt_br: equivalência massa–energia
     ro: echivalență masă–energie
     ru: эквивалентность массы и энергии
     scn: E=mc²
@@ -176,7 +176,7 @@ dv_has_:
     sk: Einsteinov vzťah
     sl: Einsteinova zveza med maso in energijo
     sr: једнакост масе и енергије
-    sr-ec: једнакост масе и енергије
+    sr_ec: једнакост масе и енергије
     su: E=mc²
     sv: massans och energins ekvivalens
     ta: திணிவு-ஆற்றல் சமன்பாடு
@@ -192,8 +192,8 @@ dv_has_:
     yi: E=mc²
     yue: 質能等價
     zh: 質能等價
-    zh-cn: 质能方程
-    zh-hans: 质能等价
+    zh_cn: 质能方程
+    zh_hans: 质能等价
 ---
 # [[Mass–Energy_Equivalence]] 
 

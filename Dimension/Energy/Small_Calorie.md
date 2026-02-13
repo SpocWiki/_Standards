@@ -80,7 +80,7 @@ dv_has_:
     ast: Caloría
     az: Kalori
     be: калорыя
-    be-tarask: калёрыя
+    be_tarask: калёрыя
     bg: Калория
     blk: ခယ်လိုရီ
     bn: ক্যালরি
@@ -118,11 +118,11 @@ dv_has_:
     it: caloria
     ja: カロリー
     kk: Калория
-    kk-arab: كالورىييا
+    kk_arab: كالورىييا
     kk-cn: كالورىييا
-    kk-cyrl: калория
+    kk_cyrl: калория
     kk-kz: Калория
-    kk-latn: kalorïya
+    kk_latn: kalorïya
     kk-tr: Kalorïya
     kn: ಕೆಲೊರಿ
     ko: 칼로리
@@ -144,7 +144,7 @@ dv_has_:
     pl: kaloria
     pms: Calorìa
     pt: caloria
-    pt-br: caloria(s)
+    pt_br: caloria(s)
     ro: calorie
     ru: калория
     scn: Caluria
@@ -153,8 +153,8 @@ dv_has_:
     sl: kalorija
     sq: Kaloria
     sr: калорија
-    sr-ec: калорија
-    sr-el: kalorija
+    sr_ec: калорија
+    sr_el: kalorija
     su: Kalori
     sv: kalori
     ta: கலோரி
@@ -170,12 +170,12 @@ dv_has_:
     yi: קאלערי
     yue: 卡路里
     zh: 卡路里
-    zh-cn: 卡路里
-    zh-hans: 卡路里
-    zh-hant: 卡路里
-    zh-hk: 卡路里
-    zh-sg: 卡路里
-    zh-tw: 卡路里
+    zh_cn: 卡路里
+    zh_hans: 卡路里
+    zh_hant: 卡路里
+    zh_hk: 卡路里
+    zh_sg: 卡路里
+    zh_tw: 卡路里
 ---
 # [[Small_Calorie]] 
 

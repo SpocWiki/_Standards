@@ -52,7 +52,7 @@ dv_has_:
     ar: توماوية
     ast: Tomismu
     azb: تومیسم
-    be-tarask: тамізм
+    be_tarask: тамізм
     ca: tomisme
     cs: Tomismus
     cy: Tomistiaeth
@@ -79,11 +79,11 @@ dv_has_:
     ja: トマス主義
     ka: თომიზმი
     kk: Томизм
-    kk-arab: تومىيزم
+    kk_arab: تومىيزم
     kk-cn: تومىيزم
-    kk-cyrl: Томизм
+    kk_cyrl: Томизм
     kk-kz: Томизм
-    kk-latn: Tomïzm
+    kk_latn: Tomïzm
     kk-tr: Tomïzm
     ko: 토미즘
     ky: Томизм
@@ -108,16 +108,16 @@ dv_has_:
     sl: tomizem
     sq: Tomizmi
     sr: Томизам
-    sr-ec: Томизам
-    sr-el: Tomizam
+    sr_ec: Томизам
+    sr_el: Tomizam
     sv: Thomism
     tt: томизм
     uk: томізм
     uz: Tomizm
     vi: Thomism
     zh: 托马斯主义
-    zh-cn: 托马斯主义
-    zh-hant: 托馬斯主義
+    zh_cn: 托马斯主义
+    zh_hant: 托馬斯主義
 ---
 # [[Thomism]] 
 

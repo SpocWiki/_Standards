@@ -471,7 +471,7 @@ dv_has_:
     pa: ਟੋਇਓਟਾ
     pnb: ٹویوٹا
     ps: ټیوټا
-    pt-br: Toyota Motor
+    pt_br: Toyota Motor
     sa: टोयोटा
     sd: ٽويوٽا
     si: ටොයෝටා
@@ -486,11 +486,11 @@ dv_has_:
     yi: טאיאטא
     yue: 豐田汽車公司
     zh: 豐田汽車
-    zh-cn: 丰田汽车
-    zh-hans: 丰田汽车
-    zh-hant: 豐田汽車
-    zh-hk: 豐田汽車
-    zh-tw: 豐田汽車
+    zh_cn: 丰田汽车
+    zh_hans: 丰田汽车
+    zh_hant: 豐田汽車
+    zh_hk: 豐田汽車
+    zh_tw: 豐田汽車
 ---
 # [[Toyota]]  
 

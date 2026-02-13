@@ -63,7 +63,7 @@ dv_has_:
   name_:
     ar: طائر الزنجفر
     ast: Suzaku
-    be-tarask: чжу-цюэ
+    be_tarask: чжу-цюэ
     ca: Suzaku
     cdo: Ciŏ-chiók
     de: Roter Vogel
@@ -100,9 +100,9 @@ dv_has_:
     wuu: 朱雀
     yue: 朱雀
     zh: 朱雀
-    zh-hans: 朱雀
-    zh-hant: 朱雀
-    zh-hk: 朱雀
+    zh_hans: 朱雀
+    zh_hant: 朱雀
+    zh_hk: 朱雀
 ---
 # [[Zhuque]] 
 

@@ -119,7 +119,7 @@ dv_has_:
     azb: دونالد ترامپ
     ba: Дональд Трамп
     be: Дональд Трамп
-    be-tarask: Дональд Трамп
+    be_tarask: Дональд Трамп
     bg: Доналд Тръмп
     bho: डोनाल्ड ट्रंप
     bn: ডোনাল্ড ট্রাম্প
@@ -130,7 +130,7 @@ dv_has_:
     chr: ᏙᎾᎵᏗ ᏘᏩᎻ
     ckb: دۆناڵد ترامپ
     crh: Donald Tramp
-    crh-latn: Donald Tramp
+    crh_latn: Donald Tramp
     cs: Donald Trump
     cu: Доналдъ Трампъ
     cv: Трамп Дональд
@@ -175,7 +175,7 @@ dv_has_:
     mn: Доналд Трамп
     mnw: ဒဝ်နလ်ဒ် တြုမ်ပ်
     mr: डॉनल्ड ट्रंप
-    ms-arab: دونلد ترمڤ
+    ms_arab: دونلد ترمڤ
     mul: Donald Trump
     my: ဒေါ်နယ်လ် ထရန့်
     myv: Трамп, Дональд
@@ -205,7 +205,7 @@ dv_has_:
     sk: Donald Trump
     skr: ڈونلڈ ٹرمپ
     sr: Доналд Трамп
-    sr-ec: Доналд Трамп
+    sr_ec: Доналд Трамп
     su: ᮓᮧᮔᮜ᮪ᮓ᮪ ᮒᮢᮙ᮪ᮕ᮪
     sv: Donald Trump
     syl: ꠒꠧꠘꠣꠟ꠆ꠒ ꠐꠣꠝ꠆ꠙ
@@ -235,12 +235,12 @@ dv_has_:
     za: Dwzlangjbuj
     zgh: ⴷⵓⵏⴰⵍⴷ ⵜⵕⴰⵎⴱ
     zh: 唐納·川普
-    zh-cn: 唐纳德·特朗普
-    zh-hans: 唐纳德·特朗普
-    zh-hant: 唐納德·川普
-    zh-hk: 當勞·特朗普
-    zh-mo: 當勞·特朗普
-    zh-tw: 唐納·川普
+    zh_cn: 唐纳德·特朗普
+    zh_hans: 唐纳德·特朗普
+    zh_hant: 唐納德·川普
+    zh_hk: 當勞·特朗普
+    zh_mo: 當勞·特朗普
+    zh_tw: 唐納·川普
   time_: {}
 dv_is_:
   same_as:

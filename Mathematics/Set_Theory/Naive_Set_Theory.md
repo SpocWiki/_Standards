@@ -44,7 +44,7 @@ dv_has_:
     ar: نظرية المجموعات المبسطة
     ast: Teoría informal de conxuntos
     be: наіўная тэорыя мностваў
-    be-tarask: наіўная тэорыя мностваў
+    be_tarask: наіўная тэорыя мностваў
     ca: teoria informal de conjunts
     cs: Naivní teorie množin
     de: naive Mengenlehre
@@ -77,9 +77,9 @@ dv_has_:
     vi: Lý thuyết tập hợp ngây thơ
     yue: 樸素集合論
     zh: 朴素集合论
-    zh-hans: 朴素集合论
-    zh-hant: 樸素集合論
-    zh-hk: 樸素集合論
+    zh_hans: 朴素集合论
+    zh_hant: 樸素集合論
+    zh_hk: 樸素集合論
 ---
 # [[Naive_Set_Theory]] 
 

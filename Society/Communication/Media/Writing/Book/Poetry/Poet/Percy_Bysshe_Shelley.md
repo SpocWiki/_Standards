@@ -157,7 +157,7 @@ dv_has_:
     az: Persi Biş Şelli
     azb: پرسی بیش شلی
     be: Персі Біш Шэлі
-    be-tarask: Пэрсі Біш Шэлі
+    be_tarask: Пэрсі Біш Шэлі
     bg: Пърси Биш Шели
     bho: पर्सी बिश शेली
     bn: পার্সি বিশি শেলি
@@ -168,11 +168,11 @@ dv_has_:
     cy: Percy Bysshe Shelley
     da: Percy Bysshe Shelley
     de: Percy Bysshe Shelley
-    de-ch: Percy Bysshe Shelley
+    de_ch: Percy Bysshe Shelley
     el: Πέρσι Σέλλεϋ
     en: Percy Bysshe Shelley
-    en-ca: Percy Bysshe Shelley
-    en-gb: Percy Bysshe Shelley
+    en_ca: Percy Bysshe Shelley
+    en_gb: Percy Bysshe Shelley
     eo: Percy Bysshe Shelley
     es: Percy Bysshe Shelley
     et: Percy Shelley
@@ -222,7 +222,7 @@ dv_has_:
     pms: Percy Bysshe Shelley
     pnb: شیلی
     pt: Percy Bysshe Shelley
-    pt-br: Percy Bysshe Shelley
+    pt_br: Percy Bysshe Shelley
     ro: Percy Bysshe Shelley
     ru: Перси Биш Шелли
     sa: पर्सी बिश शेली
@@ -231,7 +231,7 @@ dv_has_:
     sl: Percy Bysshe Shelley
     sq: A. Percy Bysshe Shelley
     sr: Перси Биш Шели
-    sr-ec: Перси Биш Шели
+    sr_ec: Перси Биш Шели
     sv: Percy Bysshe Shelley
     ta: பெர்சி பைச்சு செல்லி
     tl: Percy Bysshe Shelley
@@ -245,12 +245,12 @@ dv_has_:
     xmf: პერსი ბიში შელი
     yue: 雪萊
     zh: 珀西·比希·雪莱
-    zh-cn: 珀西·比希·雪莱
-    zh-hans: 珀西·比希·雪莱
-    zh-hant: 珀西·比希·雪萊
-    zh-hk: 珀西·比希·雪萊
-    zh-sg: 珀西·比希·雪莱
-    zh-tw: 珀西·比希·雪萊
+    zh_cn: 珀西·比希·雪莱
+    zh_hans: 珀西·比希·雪莱
+    zh_hant: 珀西·比希·雪萊
+    zh_hk: 珀西·比希·雪萊
+    zh_sg: 珀西·比希·雪莱
+    zh_tw: 珀西·比希·雪萊
 ---
 # [[Percy_Bysshe_Shelley]] 
 

@@ -86,7 +86,7 @@ dv_has_:
     an: Almendrón
     ar: صخور الرواهص
     be: кангламерат
-    be-tarask: канглямэрат
+    be_tarask: канглямэрат
     bg: Конгломерат
     br: Maen-torbez
     ca: conglomerat
@@ -135,8 +135,8 @@ dv_has_:
     sk: Zlepenec
     sl: konglomerat
     sr: konglomerat
-    sr-ec: Конгломерат
-    sr-el: Konglomerat
+    sr_ec: Конгломерат
+    sr_el: Konglomerat
     sv: konglomerat
     th: หินกรวดมน
     tr: Konglomera
@@ -147,12 +147,12 @@ dv_has_:
     wuu: 砾岩
     yue: 礫岩
     zh: 礫岩
-    zh-cn: 砾岩
-    zh-hans: 砾岩
-    zh-hant: 礫岩
-    zh-hk: 礫岩
-    zh-sg: 砾岩
-    zh-tw: 礫岩
+    zh_cn: 砾岩
+    zh_hans: 砾岩
+    zh_hant: 礫岩
+    zh_hk: 礫岩
+    zh_sg: 砾岩
+    zh_tw: 礫岩
 ---
 #is_/same_as :: [[../../../../../WikiData/WD~Conglomerate,191704|WD~Conglomerate,191704]] 
 

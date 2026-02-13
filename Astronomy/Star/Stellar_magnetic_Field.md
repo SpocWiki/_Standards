@@ -64,14 +64,14 @@ dv_has_:
   name_:
     ar: مجال مغناطيسي نجمي
     ast: campu magnéticu estelar
-    be-tarask: зорнае магнітнае поле
+    be_tarask: зорнае магнітнае поле
     ca: camp magnètic estel·lar
     cs: hvězdné magnetické pole
     cv: Çăлтăрăн магнитла уйĕ
     de: stellares Magnetfeld
     en: stellar magnetic field
-    en-ca: stellar magnetic field
-    en-gb: stellar magnetic field
+    en_ca: stellar magnetic field
+    en_gb: stellar magnetic field
     eo: stela magneta kampo
     es: campo magnético estelar
     eu: Izar eremu magnetiko
@@ -86,12 +86,12 @@ dv_has_:
     ko: 항성 자기장
     mk: ѕвездено магнетно поле
     ms: medan magnet najam
-    ms-arab: ميدن مݢنيت نجم
+    ms_arab: ميدن مݢنيت نجم
     nb: stjernemagnetfelt
     nl: stellair magneetveld
     nn: stjernemagnetfelt
     pt: campo magnético estelar
-    pt-br: campo magnético estelar
+    pt_br: campo magnético estelar
     ro: câmp magnetic stelar
     ru: магнитное поле звёзд
     si: සූර්ය චුම්බක ක්ෂේත්රය

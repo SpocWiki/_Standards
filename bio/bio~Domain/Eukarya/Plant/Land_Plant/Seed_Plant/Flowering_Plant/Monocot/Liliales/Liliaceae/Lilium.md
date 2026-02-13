@@ -142,7 +142,7 @@ dv_has_:
     azb: زانباق
     ban: Bakung
     be: Лілея
-    be-tarask: лілея
+    be_tarask: лілея
     bg: крем
     bn: লিলিয়াম
     bo: ལུག་མཉེའི་མེ་ཏོག
@@ -152,7 +152,7 @@ dv_has_:
     cv: Лилия
     da: lilje
     de: Lilien
-    de-ch: Lilien
+    de_ch: Lilien
     diq: Sosıne
     el: Κρίνο
     en: Lilium
@@ -208,7 +208,7 @@ dv_has_:
     pl: lilia
     pnb: للیاں
     pt: Lírio
-    pt-br: Lírio
+    pt_br: Lírio
     ro: Crin
     rsk: Лелия
     ru: лилия
@@ -238,11 +238,11 @@ dv_has_:
     yue: 百合
     za: Gobebhab
     zh: 百合属
-    zh-cn: 百合属
-    zh-hans: 百合属
-    zh-hant: 百合屬
-    zh-hk: 百合屬
-    zh-tw: 百合屬
+    zh_cn: 百合属
+    zh_hans: 百合属
+    zh_hant: 百合屬
+    zh_hk: 百合屬
+    zh_tw: 百合屬
 ---
 # [[Lilium]] 
 

@@ -70,8 +70,8 @@ dv_has_:
     dv: ފެޓް
     el: κορεσμένα λιπαρά
     en: saturated fat
-    en-ca: sturated fat
-    en-gb: saturated fat
+    en_ca: sturated fat
+    en_gb: saturated fat
     eo: saturita graso
     es: grasas saturadas
     eu: gantz-azido ase
@@ -94,7 +94,7 @@ dv_has_:
     nn: metta feitt
     pl: tłuszcz nasycony
     pt: gordura saturada
-    pt-br: gordura saturada
+    pt_br: gordura saturada
     ru: Насыщенные жиры
     sh: zasićena mast
     sl: nasičena maščoba

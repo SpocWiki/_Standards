@@ -137,7 +137,7 @@ dv_has_:
     azb: ۱۹۸۴
     bar: 1984
     be: 1984
-    be-tarask: 1984
+    be_tarask: 1984
     bg: 1984
     bho: नाइनटीन एटी फोर
     bn: নাইন্টিন এইটি-ফোর
@@ -150,11 +150,11 @@ dv_has_:
     cy: Mil Naw Wyth Deg Pedwar
     da: 1984
     de: 1984
-    de-ch: 1984
+    de_ch: 1984
     el: 1984
     en: Nineteen Eighty-Four
-    en-ca: Nineteen Eighty-Four
-    en-gb: Nineteen Eighty-Four
+    en_ca: Nineteen Eighty-Four
+    en_gb: Nineteen Eighty-Four
     eo: Mil Naŭcent Okdek Kvar
     es: 1984
     et: 1984
@@ -205,7 +205,7 @@ dv_has_:
     pa: ਨਾਈਨਟੀਨ ਏਟੀ-ਫ਼ੋਰ
     pl: Rok 1984
     pt: 1984
-    pt-br: 1984
+    pt_br: 1984
     pwn: 1984
     ro: 1984
     ru: 1984
@@ -232,14 +232,14 @@ dv_has_:
     wuu: 一九八四
     yue: 一九八四
     zh: 一九八四
-    zh-cn: 一九八四
-    zh-hans: 一九八四
-    zh-hant: 一九八四
-    zh-hk: 一九八四
-    zh-mo: 一九八四
+    zh_cn: 一九八四
+    zh_hans: 一九八四
+    zh_hant: 一九八四
+    zh_hk: 一九八四
+    zh_mo: 一九八四
     zh-my: 一九八四
-    zh-sg: 一九八四
-    zh-tw: 一九八四
+    zh_sg: 一九八四
+    zh_tw: 一九八四
 ---
 # [[Nineteen_Eighty-Four]] 
 

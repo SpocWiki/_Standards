@@ -146,7 +146,7 @@ dv_has_:
     az: çökmə süxurlar
     ba: ултырма тау тоҡомдары
     be: асадкавыя горныя пароды
-    be-tarask: асадкавая горная парода
+    be_tarask: асадкавая горная парода
     bg: седиментни скали
     bho: सेडीमेंटरी चट्टान
     bn: পাললিক শিলা
@@ -160,8 +160,8 @@ dv_has_:
     diq: kerrey tortulıni
     el: Ιζηματογενές πέτρωμα
     en: sedimentary rock
-    en-ca: sedimentary rock
-    en-gb: sedimentary rock
+    en_ca: sedimentary rock
+    en_gb: sedimentary rock
     eo: sedimenta rokaĵo
     es: roca sedimentaria
     et: settekivim
@@ -187,7 +187,7 @@ dv_has_:
     ka: დანალექი ქანები
     kab: azṛu abaliɣan
     kk: шөгінді тау жыныстары
-    kk-latn: şögindi taw jınıstarı
+    kk_latn: şögindi taw jınıstarı
     kn: sedimentary rocks
     ko: 퇴적암
     kw: karrek wodhosek
@@ -217,7 +217,7 @@ dv_has_:
     pnb: تہہ دار چٹان
     ps: رسوبي غرګی (سترې ډبرې)
     pt: rocha sedimentar
-    pt-br: rocha sedimentar
+    pt_br: rocha sedimentar
     rki: အနည်ကျကျောက်
     ro: rocă sedimentară
     ru: осадочная горная порода
@@ -227,7 +227,7 @@ dv_has_:
     sk: usadená hornina
     sl: sedimentna kamnina
     sr: седиментна стена
-    sr-ec: седиментна стена
+    sr_ec: седиментна стена
     su: batu tamperan
     sv: sedimentär bergart
     sw: mwamba mashapo
@@ -236,7 +236,7 @@ dv_has_:
     th: หินตะกอน
     tr: tortul kayaçlar
     tt: утырма тау токымнары
-    tt-latn: utyrma tau tokymnary
+    tt_latn: utyrma tau tokymnary
     udm: пыды гурезь извыжыос
     uk: осадові гірські породи
     ur: تہ دار چٹانیں
@@ -246,7 +246,7 @@ dv_has_:
     wuu: 沉积岩
     yue: 沉積岩
     zh: 沉积岩
-    zh-hant: 沉積岩
+    zh_hant: 沉積岩
 ---
 # [[Sedimentary_Rock]] 
 

@@ -395,7 +395,7 @@ dv_has_:
     bar: Vincent van Gogh
     bcl: Vincent van Gogh
     be: Вінцэнт ван Гог
-    be-tarask: Вінцэнт ван Гог
+    be_tarask: Вінцэнт ван Гог
     bg: Винсент ван Гог
     bho: विन्सेंट वैन गॉग
     bn: ভিনসেন্ট ভ্যান গখ
@@ -418,14 +418,14 @@ dv_has_:
     da: Vincent van Gogh
     de: Vincent van Gogh
     de-at: Vincent van Gogh
-    de-ch: Vincent van Gogh
+    de_ch: Vincent van Gogh
     diq: Vincent van Gogh
     dz: ཝིན་སེནཊ་ཝན་གོག།
     el: Βίνσεντ βαν Γκογκ
     eml: Vincent van Gogh
     en: Vincent van Gogh
-    en-ca: Vincent van Gogh
-    en-gb: Vincent van Gogh
+    en_ca: Vincent van Gogh
+    en_gb: Vincent van Gogh
     en-us: Vincent van Gogh
     eo: Vincent van Gogh
     es: Vincent van Gogh
@@ -527,7 +527,7 @@ dv_has_:
     nap: Vincent van Gogh
     nb: Vincent van Gogh
     nds: Vincent van Gogh
-    nds-nl: Vincent van Gogh
+    nds_nl: Vincent van Gogh
     ne: भिन्सेन्त फन गोख
     new: 'विन्सेन्ट भ्यान ग:'
     nl: Vincent van Gogh
@@ -567,8 +567,8 @@ dv_has_:
     so: Finsent van Gogh
     sq: Vincent van Gogh
     sr: Винсент ван Гог
-    sr-ec: Винсент ван Гог
-    sr-el: Vincent van Gogh
+    sr_ec: Винсент ван Гог
+    sr_el: Vincent van Gogh
     stq: Vincent van Gogh
     su: Vincent van Gogh
     sv: Vincent van Gogh
@@ -607,10 +607,10 @@ dv_has_:
     yue: 梵高
     zea: Vincent van Gogh
     zh: 文森特·梵高
-    zh-cn: 文森特·梵高
-    zh-hant: 梵谷
-    zh-hk: 梵高
-    zh-tw: 文森·梵谷
+    zh_cn: 文森特·梵高
+    zh_hant: 梵谷
+    zh_hk: 梵高
+    zh_tw: 文森·梵谷
     zu: Vincent van Gogh
 ---
 #has_/time_/started :: 1853-03-30 

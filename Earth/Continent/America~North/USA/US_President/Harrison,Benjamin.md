@@ -85,7 +85,7 @@ dv_has_:
     azb: بنجامین هریسون
     bcl: Benjamin Harrison
     be: Бенджамін Гарысан
-    be-tarask: Бэнджамін Гарысан
+    be_tarask: Бэнджамін Гарысан
     bg: Бенджамин Харисън
     bi: Benjamin Harrison
     bn: বেঞ্জামিন হ্যারিসন
@@ -107,8 +107,8 @@ dv_has_:
     dv: ބެންޖަމިން ހެރިސަން
     el: Μπέντζαμιν Χάρρισον
     en: Benjamin Harrison
-    en-ca: Benjamin Harrison
-    en-gb: Benjamin Harrison
+    en_ca: Benjamin Harrison
+    en_gb: Benjamin Harrison
     eo: Benjamin Harrison
     es: Benjamin Harrison
     et: Benjamin Harrison
@@ -176,7 +176,7 @@ dv_has_:
     pnb: بنجمن ہیریسن
     ps: بینجامین هاریسون
     pt: Benjamin Harrison
-    pt-br: Benjamin Harrison
+    pt_br: Benjamin Harrison
     rm: Benjamin Harrison
     rmf: Benjamin Harrison
     ro: Benjamin Harrison

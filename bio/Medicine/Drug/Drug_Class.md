@@ -66,7 +66,7 @@ lang: en
 dv_has_:
   name_:
     ar: صنف دوائي
-    be-tarask: фармакалягічная група
+    be_tarask: фармакалягічная група
     ca: grup farmacològic
     cs: třída léčiv
     cy: dosbarth o gyffuriau meddygol

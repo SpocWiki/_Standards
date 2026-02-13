@@ -145,7 +145,7 @@ dv_has_:
     ba: Ҡыуаҡ
     bar: Staud
     be: куст
-    be-tarask: хмызьняк
+    be_tarask: хмызьняк
     bg: Храст
     bn: গুল্ম
     bs: Žbun
@@ -220,7 +220,7 @@ dv_has_:
     pnt: καφούλιν
     ps: بوټی
     pt: arbusto
-    pt-br: arbusto
+    pt_br: arbusto
     qu: Thansa
     ro: arbust
     ru: кустарник
@@ -236,7 +236,7 @@ dv_has_:
     sn: Gwenzi
     sq: Shkurrja
     sr: жбун
-    sr-ec: жбун
+    sr_ec: жбун
     sv: buske
     sw: Kichaka
     szl: kerz

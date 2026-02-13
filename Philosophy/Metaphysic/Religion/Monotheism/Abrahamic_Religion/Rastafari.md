@@ -96,7 +96,7 @@ dv_has_:
     az: Rastafari hərəkatı
     bar: Rastafari
     be: Растафары
-    be-tarask: растафарыянства
+    be_tarask: растафарыянства
     bg: Растафари
     bn: রাস্তাফারি
     ca: rastafarisme
@@ -146,7 +146,7 @@ dv_has_:
     mt: Rastafarjaniżmu
     nb: rastafari
     nds: Rastafari
-    nds-nl: Rastafarianisme
+    nds_nl: Rastafarianisme
     nl: Rastafari
     nn: rastafari
     oc: Rastafari
@@ -154,7 +154,7 @@ dv_has_:
     pap: Rastafari
     pl: Ruch Rastafari
     pt: movimento rastafári
-    pt-br: movimento rastafári
+    pt_br: movimento rastafári
     ro: Mișcarea Rastafari
     ru: растафарианство
     sh: Rastafarijanstvo
@@ -163,8 +163,8 @@ dv_has_:
     sl: rastafarijanstvo
     sq: Rastafari
     sr: Растафаријанство
-    sr-ec: Растафаријанство
-    sr-el: Rastafarijanstvo
+    sr_ec: Растафаријанство
+    sr_el: Rastafarijanstvo
     sv: Rastafari
     sw: Rastafari
     ta: ராஸ்தஃபாரை
@@ -177,12 +177,12 @@ dv_has_:
     wuu: 拉斯塔法里运动
     yue: 拉斯特法里
     zh: 拉斯特法里运动
-    zh-cn: 拉斯特法里运动
-    zh-hans: 拉斯特法里运动
-    zh-hant: 拉斯特法里運動
-    zh-hk: 拉斯特法里運動
-    zh-sg: 拉斯特法里运动
-    zh-tw: 拉斯特法里運動
+    zh_cn: 拉斯特法里运动
+    zh_hans: 拉斯特法里运动
+    zh_hant: 拉斯特法里運動
+    zh_hk: 拉斯特法里運動
+    zh_sg: 拉斯特法里运动
+    zh_tw: 拉斯特法里運動
 ---
 # [[Rastafari]] 
 

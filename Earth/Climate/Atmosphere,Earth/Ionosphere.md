@@ -103,7 +103,7 @@ dv_has_:
     ast: Ionosfera
     az: İonosfer
     be: Іанасфера
-    be-tarask: іянасфэра
+    be_tarask: іянасфэра
     bg: Йоносфера
     bho: आयनमंडल
     bn: আয়নমণ্ডল
@@ -135,11 +135,11 @@ dv_has_:
     ja: 電離層
     ka: იონოსფერო
     kk: Ионосфера
-    kk-arab: ىيونوسفەرا
+    kk_arab: ىيونوسفەرا
     kk-cn: ىيونوسفەرا
-    kk-cyrl: Ионосфера
+    kk_cyrl: Ионосфера
     kk-kz: Ионосфера
-    kk-latn: Ïonosfera
+    kk_latn: Ïonosfera
     kk-tr: Ïonosfera
     kn: ಅಯಾನ್ಗೋಳ
     ko: 전리층
@@ -169,8 +169,8 @@ dv_has_:
     smn: Eennâm ionisfáár
     sms: ionisfääʹr
     sr: јоносфера
-    sr-ec: Јоносфера
-    sr-el: Jonosfera
+    sr_ec: Јоносфера
+    sr_el: Jonosfera
     sv: jonosfär
     ta: அயனியாக்கப்பட்ட வளிமண்டலம்
     th: ไอโอโนสเฟียร์
@@ -184,12 +184,12 @@ dv_has_:
     xmf: იონოსფერო
     yue: 電離層
     zh: 电离层
-    zh-cn: 电离层
-    zh-hans: 电离层
-    zh-hant: 電離層
-    zh-hk: 電離層
-    zh-sg: 电离层
-    zh-tw: 電離層
+    zh_cn: 电离层
+    zh_hans: 电离层
+    zh_hant: 電離層
+    zh_hk: 電離層
+    zh_sg: 电离层
+    zh_tw: 電離層
 ---
 # [[Ionosphere]] 
 

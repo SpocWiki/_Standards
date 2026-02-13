@@ -95,7 +95,7 @@ dv_has_:
     ar: أنبوب الأشعة المهبطية
     ast: tubu de rayos catódicos
     az: elektron-şüa borusu
-    be-tarask: электронна-прамянёвая трубка
+    be_tarask: электронна-прамянёвая трубка
     bg: електронно-лъчева тръба
     bn: ক্যাথোড রশ্মি নল
     br: skramm korzenn katodek
@@ -138,7 +138,7 @@ dv_has_:
     pl: kineskop
     pms: Tub a ragg catòdich
     pt: tubo de raios catódicos
-    pt-br: tubo de raios catódicos
+    pt_br: tubo de raios catódicos
     ro: tub catodic
     ru: электронно-лучевой прибор
     sh: katodni monitor
@@ -157,7 +157,7 @@ dv_has_:
     wuu: 阴极射线管
     yue: 映像管
     zh: 阴极射线管
-    zh-tw: 陰極射線管
+    zh_tw: 陰極射線管
 ---
 # [[Cathode_Ray_Tube]] 
 

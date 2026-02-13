@@ -255,7 +255,7 @@ dv_has_:
     ban: Pinakit gula
     bcl: Diabetes
     be: цукровы дыябет
-    be-tarask: цукровы дыябэт
+    be_tarask: цукровы дыябэт
     bg: Захарен диабет
     bho: शुगर रोग
     blk: ဆီႏနွိုးရောႏဂါႏ
@@ -368,7 +368,7 @@ dv_has_:
     pnb: شوگر
     ps: ډايبېټېز مېلېټوز
     pt: diabetes mellitus
-    pt-br: diabetes mellitus
+    pt_br: diabetes mellitus
     qu: Misk'i unquy
     rmf: gullesko duk
     ro: diabet
@@ -392,7 +392,7 @@ dv_has_:
     so: Sokorow
     sq: Diabetes mellitus
     sr: шећерна болест
-    sr-ec: шећерна болест
+    sr_ec: шећерна болест
     srn: sukru
     st: Lefu la Tswekere
     su: Diabétes mélitus
@@ -407,7 +407,7 @@ dv_has_:
     tl: diyabetes
     tr: diyabet
     tt: шикәр авыруы
-    tt-cyrl: шикәр авыруы
+    tt_cyrl: шикәр авыруы
     udm: сакырвисён
     ug: دىئابېت كېسىلى
     uk: цукровий діабет
@@ -425,9 +425,9 @@ dv_has_:
     yue: 糖尿
     za: Oknyouhdiemz
     zh: 糖尿病
-    zh-hans: 糖尿病
-    zh-hant: 糖尿病
-    zh-tw: 糖尿病
+    zh_hans: 糖尿病
+    zh_hant: 糖尿病
+    zh_tw: 糖尿病
     zu: isifo sikashukela
 ---
 ## #has_/text_of_/abstract 

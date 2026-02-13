@@ -130,7 +130,7 @@ dv_has_:
     ban: gas
     bcl: gas
     be: газ
-    be-tarask: газ
+    be_tarask: газ
     bg: газ
     bho: गैस
     bn: গ্যাসীয় পদার্থ
@@ -151,7 +151,7 @@ dv_has_:
     diq: qazo tabi
     el: αέριο
     en: gas
-    en-gb: gas
+    en_gb: gas
     eo: gaso
     es: gas
     et: gaas
@@ -212,7 +212,7 @@ dv_has_:
     mn: хий
     mr: वायू
     ms: gas
-    ms-arab: ݢس
+    ms_arab: ݢس
     my: အငွေ့
     myv: лекся
     nah: ahuiyapopotl
@@ -236,7 +236,7 @@ dv_has_:
     pnb: گیس
     ps: ګاز
     pt: gás
-    pt-br: gás
+    pt_br: gás
     qu: wapsi
     rmy: zaro
     ro: gaz
@@ -263,7 +263,7 @@ dv_has_:
     so: hawo
     sq: gazi
     sr: гас
-    sr-ec: гас
+    sr_ec: гас
     su: gas
     sv: gas
     sw: gesi
@@ -276,7 +276,7 @@ dv_has_:
     tok: kon
     tr: gaz
     tt: газ
-    tt-latn: gaz
+    tt_latn: gaz
     tyv: хей
     udm: газ
     uk: газ
@@ -294,9 +294,9 @@ dv_has_:
     yo: ẹ̀fúùfù
     yue: 氣體
     zh: 气体
-    zh-cn: 气体
-    zh-hans: 气体
-    zh-hant: 氣體
+    zh_cn: 气体
+    zh_hans: 气体
+    zh_hant: 氣體
     zu: gas
 ---
 # [[Gas]]

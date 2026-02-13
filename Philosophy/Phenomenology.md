@@ -83,7 +83,7 @@ dv_has_:
     ar: علم الظواهر
     az: fenomenologiya
     be: фенаменалогія
-    be-tarask: фэнамэналёгія
+    be_tarask: фэнамэналёгія
     bg: Феноменология
     bn: রূপতত্ত্ব (দর্শন)
     ca: fenomenologia
@@ -142,8 +142,8 @@ dv_has_:
     sl: fenomenologija
     sq: Fenomenologjia
     sr: феноменологија
-    sr-ec: Феноменологија
-    sr-el: fenomenologija
+    sr_ec: Феноменологија
+    sr_el: fenomenologija
     su: fénoménologi
     sv: fenomenologi
     ta: தோற்றப்பாட்டியல்
@@ -158,12 +158,12 @@ dv_has_:
     wuu: 现象学
     yue: 現象學
     zh: 現象學
-    zh-cn: 现象学
-    zh-hans: 现象学
-    zh-hant: 現象學
-    zh-hk: 現象學
-    zh-sg: 现象学
-    zh-tw: 現象學
+    zh_cn: 现象学
+    zh_hans: 现象学
+    zh_hant: 現象學
+    zh_hk: 現象學
+    zh_sg: 现象学
+    zh_tw: 現象學
 ---
 # [[Phenomenology]] 
 

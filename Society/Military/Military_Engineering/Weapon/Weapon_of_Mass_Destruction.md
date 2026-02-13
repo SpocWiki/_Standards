@@ -97,7 +97,7 @@ dv_has_:
     ast: Armes de destrucción masiva
     az: Kütləvi qırğın silahı
     be: Зброя масавага знішчэння
-    be-tarask: зброя масавага паражэньня
+    be_tarask: зброя масавага паражэньня
     bg: Оръжия за масово поразяване
     bn: গণবিধ্বংসী অস্ত্র
     ca: Arma de destrucció massiva
@@ -109,7 +109,7 @@ dv_has_:
     de: Massenvernichtungswaffe
     el: Όπλο μαζικής καταστροφής
     en: weapon of mass destruction
-    en-ca: Weapon of mass destruction
+    en_ca: Weapon of mass destruction
     en-us: weapon of mass destruction
     eo: armilo de amasa detruo
     es: arma de destrucción masiva
@@ -151,7 +151,7 @@ dv_has_:
     pnb: وڈی تباہی دے ہتھیار
     ps: د ډله ییزو وژنو وسله
     pt: arma de destruição em massa
-    pt-br: Arma de destruição em massa
+    pt_br: Arma de destruição em massa
     ro: armă de distrugere în masă
     ru: оружие массового поражения
     scn: Armi di sdisolu di fudda
@@ -161,8 +161,8 @@ dv_has_:
     sl: orožje za množično uničevanje
     sq: Arma e shkatërrimit në masë
     sr: оружје за масовно уништење
-    sr-ec: оружје за масовно уништење
-    sr-el: oružje za masovno uništenje
+    sr_ec: оружје за масовно уништење
+    sr_el: oružje za masovno uništenje
     sv: massförstörelsevapen
     ta: பேரழிவு ஆயுதம்
     th: อาวุธอานุภาพทำลายล้างสูง
@@ -177,7 +177,7 @@ dv_has_:
     yi: מאסן פארניכטונג וואפן
     yue: 大規模殺傷性武器
     zh: 大規模殺傷性武器
-    zh-hans: 大规模杀伤性武器
+    zh_hans: 大规模杀伤性武器
 ---
 # [[Weapon_of_Mass_Destruction]] 
 

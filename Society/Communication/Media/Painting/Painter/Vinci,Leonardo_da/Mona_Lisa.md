@@ -140,12 +140,12 @@ dv_has_:
     az: Mona Liza
     ba: Мона Лиза
     be: Мона Ліза
-    be-tarask: Мона Ліза
+    be_tarask: Мона Ліза
     bg: Мона Лиза
     bn: মোনা লিসা
     bo: མོ་ན་ལི་ས།
     ca: La Gioconda
-    cbk-zam: Monalisa
+    cbk_zam: Monalisa
     ckb: مۆنالیزا
     co: Giuconda
     cv: Мона Лиза
@@ -208,8 +208,8 @@ dv_has_:
     sl: Mona Liza
     sq: Mona Liza
     sr: Мона Лиза
-    sr-ec: Мона Лиза
-    sr-el: Mona Liza
+    sr_ec: Мона Лиза
+    sr_el: Mona Liza
     szy: Mong-na-li-sa
     ta: மோனா லிசா
     te: మోనాలిసా
@@ -224,14 +224,14 @@ dv_has_:
     yi: מאנא ליסע
     yue: 蒙娜麗莎
     zh: 蒙娜丽莎
-    zh-cn: 蒙娜丽莎
-    zh-hans: 蒙娜丽莎
-    zh-hant: 蒙娜麗莎
-    zh-hk: 蒙娜麗莎
-    zh-mo: 蒙娜麗莎
+    zh_cn: 蒙娜丽莎
+    zh_hans: 蒙娜丽莎
+    zh_hant: 蒙娜麗莎
+    zh_hk: 蒙娜麗莎
+    zh_mo: 蒙娜麗莎
     zh-my: 蒙娜丽莎
-    zh-sg: 蒙娜丽莎
-    zh-tw: 蒙娜麗莎
+    zh_sg: 蒙娜丽莎
+    zh_tw: 蒙娜麗莎
 ---
 # [[Mona_Lisa]] 
 

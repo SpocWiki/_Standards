@@ -162,7 +162,7 @@ short_name:
 - малагасійська
 dv_has_:
   name_:
-    aeb-arab: الملڨاشي
+    aeb_arab: الملڨاشي
     af: Malagasy
     am: መለጋሲ
     anp: मालागासी भाषा
@@ -175,7 +175,7 @@ dv_has_:
     ba: Малагаси теле
     bcl: tataramon na Malgatse
     be: малагасійская мова
-    be-tarask: малагасійская мова
+    be_tarask: малагасійская мова
     bg: Малгашки език
     bn: মালাগাসি ভাষা
     br: malagasieg
@@ -191,8 +191,8 @@ dv_has_:
     diq: Malgaşki
     el: Μαλαγασική γλώσσα
     en: Malagasy
-    en-ca: Malagasy
-    en-gb: Malagasy
+    en_ca: Malagasy
+    en_gb: Malagasy
     eo: malagasa lingvo
     es: malgache
     et: Malagassi keel
@@ -228,7 +228,7 @@ dv_has_:
     ko: 말라가시어
     krc: Малагаси тил
     ku: zimanê malagasî
-    ku-latn: zimanê malagasî
+    ku_latn: zimanê malagasî
     kv: Малагаси кыв
     ky: Малагаси тили
     la: lingua Malagasiana
@@ -256,7 +256,7 @@ dv_has_:
     pnb: مالاگاسی
     ps: مالاګاسي ژبه
     pt: Língua malgaxe
-    pt-br: Língua malgaxe
+    pt_br: Língua malgaxe
     qu: Malagasi simi
     ro: limba malgașă
     ru: малагасийский язык
@@ -268,7 +268,7 @@ dv_has_:
     so: Af Malagasi
     sq: Gjuha madagaskare
     sr: Малгашки језик
-    sr-ec: Малгашки језик
+    sr_ec: Малгашки језик
     sv: malagassiska
     sw: Kimalagasy
     ta: மலகசி மொழி
@@ -288,9 +288,9 @@ dv_has_:
     xmf: მალაგასიური ნინა
     yue: 馬拉加什文
     zh: 马达加斯加语
-    zh-cn: 马达加斯加语
-    zh-hans: 马达加斯加语
-    zh-hant: 馬達加斯加語
+    zh_cn: 马达加斯加语
+    zh_hans: 马达加斯加语
+    zh_hant: 馬達加斯加語
     zu: isi-Malagasy
 ---
 # [[Malagasy]] 

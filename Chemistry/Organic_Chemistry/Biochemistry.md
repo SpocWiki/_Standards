@@ -179,7 +179,7 @@ dv_has_:
     ba: биохимия
     bcl: Biyokimika
     be: біяхімія
-    be-tarask: біяхімія
+    be_tarask: біяхімія
     bg: Биохимия
     bho: बायोकेमेस्ट्री
     blk: ဇီဝဓါတုဗေဒ
@@ -193,11 +193,11 @@ dv_has_:
     cy: biocemeg
     da: biokemi
     de: Biochemie
-    de-ch: Biochemie
+    de_ch: Biochemie
     el: βιοχημεία
     en: biochemistry
-    en-ca: Biochemistry
-    en-gb: biochemistry
+    en_ca: Biochemistry
+    en_gb: biochemistry
     eo: bioĥemio
     es: bioquímica
     et: biokeemia
@@ -257,7 +257,7 @@ dv_has_:
     mn: Биохими
     mr: जैविक रसायनशास्त्र
     ms: biokimia
-    ms-arab: بيوکيميا
+    ms_arab: بيوکيميا
     my: ဇီဝဓာတု
     nan: Seng-hòa-ha̍k
     nb: biokjemi
@@ -273,7 +273,7 @@ dv_has_:
     pnb: بائیو کیمسٹری
     ps: ژونکيميا
     pt: bioquímica
-    pt-br: bioquímica
+    pt_br: bioquímica
     qu: Kawsay chaqllisinchi
     rki: ဇီဝဓာတုဗေဒ
     ro: biochimie
@@ -316,9 +316,9 @@ dv_has_:
     yo: Biochemistry
     yue: 生物化學
     zh: 生物化學
-    zh-cn: 生物化学
-    zh-hans: 生物化学
-    zh-hant: 生物化學
+    zh_cn: 生物化学
+    zh_hans: 生物化学
+    zh_hant: 生物化學
 ---
 # [[Biochemistry]] 
 

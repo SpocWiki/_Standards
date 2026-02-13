@@ -90,7 +90,7 @@ dv_has_:
     ar: توزيع إلكتروني
     ast: Configuración electrónica
     be: электронная канфігурацыя
-    be-tarask: электронная канхвігурацыя
+    be_tarask: электронная канхвігурацыя
     bg: Електронна конфигурация
     bn: ইলেকট্রন বিন্যাস
     bs: Elektronska konfiguracija
@@ -100,11 +100,11 @@ dv_has_:
     cy: Ffurfwedd electronig
     da: elektronkonfiguration
     de: Elektronenkonfiguration
-    de-ch: Elektronenkonfiguration
+    de_ch: Elektronenkonfiguration
     el: Ηλεκτρονική δομή
     en: electron configuration
-    en-ca: Electron configuration
-    en-gb: electron configuration
+    en_ca: Electron configuration
+    en_gb: electron configuration
     eo: elektrona distribuado
     es: configuración electrónica
     et: elektronkonfiguratsioon
@@ -143,7 +143,7 @@ dv_has_:
     pa: ਇਲੈਕਟ੍ਰਾਨ ਤਰਤੀਬ
     pl: konfiguracja elektronowa
     pt: configuração electrónica
-    pt-br: configuração electrônica
+    pt_br: configuração electrônica
     ro: Configurație electronică
     ru: электронная конфигурация
     sah: Электрон былыт
@@ -152,7 +152,7 @@ dv_has_:
     sk: Elektrónová konfigurácia
     sl: elektronska konfiguracija
     sr: електронска конфигурација
-    sr-ec: Електронска конфигурација
+    sr_ec: Електронска конфигурација
     sv: elektronkonfiguration
     ta: எதிர்மின்னி அமைப்பு
     th: การจัดเรียงอิเล็กตรอน
@@ -165,14 +165,14 @@ dv_has_:
     yi: עלעקטראנען-קאנפיגוראציע
     yue: 電子組態
     zh: 电子排布
-    zh-cn: 电子排布
-    zh-hans: 电子排布
-    zh-hant: 電子組態
-    zh-hk: 電子排佈
-    zh-mo: 電子排佈
+    zh_cn: 电子排布
+    zh_hans: 电子排布
+    zh_hant: 電子組態
+    zh_hk: 電子排佈
+    zh_mo: 電子排佈
     zh-my: 电子排布
-    zh-sg: 电子排布
-    zh-tw: 電子組態
+    zh_sg: 电子排布
+    zh_tw: 電子組態
 ---
 # [[Electron_Configuration]] 
 

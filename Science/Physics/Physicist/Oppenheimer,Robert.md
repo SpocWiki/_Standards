@@ -211,7 +211,7 @@ dv_has_:
     azb: رابرت اوپنهایمر
     ban: J. Robert Oppenheimer
     be: Роберт Опенгеймер
-    be-tarask: Робэрт Опэнгаймэр
+    be_tarask: Робэрт Опэнгаймэр
     bg: Робърт Опенхаймер
     bn: রবার্ট অপেনহাইমার
     bs: Robert Oppenheimer
@@ -223,12 +223,12 @@ dv_has_:
     da: J. Robert Oppenheimer
     dag: Robert Oppenheimer
     de: Robert Oppenheimer
-    de-ch: Robert Oppenheimer
+    de_ch: Robert Oppenheimer
     ee: J. Robert Oppenheimer
     el: Ρόμπερτ Οπενχάιμερ
     en: Robert Oppenheimer
-    en-ca: J. Robert Oppenheimer
-    en-gb: J. Robert Oppenheimer
+    en_ca: J. Robert Oppenheimer
+    en_gb: J. Robert Oppenheimer
     en-us: Robert Oppenheimer
     eo: Robert Oppenheimer
     es: Robert Oppenheimer
@@ -284,7 +284,7 @@ dv_has_:
     pl: Robert Oppenheimer
     ps: جوليوس روبرټ اوپنهايمر
     pt: Robert Oppenheimer
-    pt-br: Robert Oppenheimer
+    pt_br: Robert Oppenheimer
     ro: Robert Oppenheimer
     ru: Роберт Оппенгеймер
     sco: J. Robert Oppenheimer
@@ -293,8 +293,8 @@ dv_has_:
     sl: Julius Robert Oppenheimer
     sq: Robert Oppenheimer
     sr: Роберт Опенхајмер
-    sr-ec: Роберт Опенхајмер
-    sr-el: Robert Openhajmer
+    sr_ec: Роберт Опенхајмер
+    sr_el: Robert Openhajmer
     sv: Robert Oppenheimer
     sw: J. Robert Oppenheimer
     syl: ꠞꠛꠣꠞꠐ ꠅꠙꠦꠘꠦꠁꠝꠣꠞ
@@ -316,12 +316,12 @@ dv_has_:
     yo: J. Robert Oppenheimer
     yue: 奧本海默
     zh: 罗伯特·奥本海默
-    zh-cn: 罗伯特·奥本海默
-    zh-hans: 罗伯特·奥本海默
-    zh-hant: 羅伯特·奧本海默
-    zh-hk: 羅拔·奧本海默
-    zh-sg: 罗伯特·奥本海默
-    zh-tw: 羅伯特·歐本海默
+    zh_cn: 罗伯特·奥本海默
+    zh_hans: 罗伯特·奥本海默
+    zh_hant: 羅伯特·奧本海默
+    zh_hk: 羅拔·奧本海默
+    zh_sg: 罗伯特·奥本海默
+    zh_tw: 羅伯特·歐本海默
 ---
 # [[Oppenheimer,Robert]] 
 

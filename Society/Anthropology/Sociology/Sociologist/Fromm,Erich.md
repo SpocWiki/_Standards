@@ -133,7 +133,7 @@ dv_has_:
     az: Erix Fomm
     azb: اریش فروم
     be: Эрых Фром
-    be-tarask: Эрых Фром
+    be_tarask: Эрых Фром
     bg: Ерих Фром
     bn: এরিক ফ্রম
     br: Erich Fromm
@@ -192,7 +192,7 @@ dv_has_:
     pdc: Erich Fromm
     pl: Erich Fromm
     pt: Erich Fromm
-    pt-br: Erich Fromm
+    pt_br: Erich Fromm
     ro: Erich Fromm
     ru: Эрих Фромм
     sco: Erich Fromm

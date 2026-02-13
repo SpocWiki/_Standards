@@ -144,7 +144,7 @@ dv_has_:
     az: Fris Haber
     azb: فریتس هابر
     be: Фрыц Габер
-    be-tarask: Фрыц Габэр
+    be_tarask: Фрыц Габэр
     bg: Фриц Хабер
     bn: ফ্রিৎস হেবার
     br: Fritz Haber
@@ -153,11 +153,11 @@ dv_has_:
     cy: Fritz Haber
     da: Fritz Haber
     de: Fritz Haber
-    de-ch: Fritz Haber
+    de_ch: Fritz Haber
     el: Φριτς Χάμπερ
     en: Fritz Haber
-    en-ca: Fritz Haber
-    en-gb: Fritz Haber
+    en_ca: Fritz Haber
+    en_gb: Fritz Haber
     eo: Fritz Haber
     es: Fritz Haber
     et: Fritz Haber
@@ -198,7 +198,7 @@ dv_has_:
     pl: Fritz Haber
     pnb: فرتز ہابر
     pt: Fritz Haber
-    pt-br: Fritz Haber
+    pt_br: Fritz Haber
     qu: Fritz Haber
     rm: Fritz Haber
     ro: Fritz Haber

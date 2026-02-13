@@ -168,7 +168,7 @@ dv_has_:
     ban: tabia
     bcl: sili
     be: чырвоны перац
-    be-tarask: чырвоны перац
+    be_tarask: чырвоны перац
     bg: люта чушка
     bjn: lombok
     bn: মরিচ
@@ -184,8 +184,8 @@ dv_has_:
     dtp: losun
     el: τσίλι
     en: chili pepper
-    en-ca: chili pepper
-    en-gb: chilli pepper
+    en_ca: chili pepper
+    en_gb: chilli pepper
     eo: kapsiketo
     es: chile
     et: tšilli
@@ -257,7 +257,7 @@ dv_has_:
     pl: papryka chili
     pnb: مرچ
     pt: chili
-    pt-br: pimenta
+    pt_br: pimenta
     qu: utsu
     rki: ငရုတ်ပင်
     ro: ardei iute
@@ -285,7 +285,7 @@ dv_has_:
     tl: sili
     tr: acı biber
     tt: кызыл борыч
-    tt-cyrl: кызыл борыч
+    tt_cyrl: кызыл борыч
     ug: قىزىلمۇچ
     uk: перець чилі
     ur: مرچ

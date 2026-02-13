@@ -221,7 +221,7 @@ dv_has_:
     bas: mbóó
     bcl: Salud
     be: здароўе
-    be-tarask: здароўе
+    be_tarask: здароўе
     bg: здраве
     bjn: Kasihatan
     blk: ခြွိုင်ႏသန်ꩻရေꩻထာꩻသေ
@@ -320,7 +320,7 @@ dv_has_:
     ml: ആരോഗ്യം
     mr: आरोग्य
     ms: kesihatan
-    ms-arab: کصيحتن
+    ms_arab: کصيحتن
     mwl: Salude
     my: ကျန်းမာရေး
     nan: Kiān-khong
@@ -344,7 +344,7 @@ dv_has_:
     pnt: υεία
     ps: روغتيا
     pt: saúde
-    pt-br: saúde
+    pt_br: saúde
     qu: Qhali kay
     rki: ကျန်းမာရီး
     ro: sănătate
@@ -372,8 +372,8 @@ dv_has_:
     so: Caafimaad
     sq: Shëndeti
     sr: здравље
-    sr-ec: здравље
-    sr-el: zdravlje
+    sr_ec: здравље
+    sr_el: zdravlje
     su: Kaséhatan
     sv: hälsa
     sw: Afya
@@ -387,7 +387,7 @@ dv_has_:
     tr: sağlık
     ts: Rihanyo
     tt: сәламәтлек
-    tt-cyrl: сәламәтлек
+    tt_cyrl: сәламәтлек
     tum: Uchanda
     tw: Apomuden
     tyv: Кадыкшыл
@@ -407,8 +407,8 @@ dv_has_:
     za: genggangq
     zea: gezondeid
     zh: 健康
-    zh-hant: 健康
-    zh-tw: 健康
+    zh_hant: 健康
+    zh_tw: 健康
 ---
 # [[Health]] 
 

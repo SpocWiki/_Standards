@@ -84,7 +84,7 @@ dv_has_:
     oc: Rosoideae
     pl: Rosoideae
     pt: Rosoideae
-    pt-br: Rosoideae
+    pt_br: Rosoideae
     ro: Rosoideae
     ru: розановые
     sl: Rosoideae
@@ -98,12 +98,12 @@ dv_has_:
     vo: Rosoideae
     war: Rosoideae
     zh: 薔薇亞科
-    zh-cn: 蔷薇亚科
-    zh-hans: 蔷薇亚科
-    zh-hant: 薔薇亞科
-    zh-hk: 薔薇亞科
-    zh-sg: 蔷薇亚科
-    zh-tw: 薔薇亞科
+    zh_cn: 蔷薇亚科
+    zh_hans: 蔷薇亚科
+    zh_hant: 薔薇亞科
+    zh_hk: 薔薇亞科
+    zh_sg: 蔷薇亚科
+    zh_tw: 薔薇亞科
 ---
 # [[Rosoideae]] 
 

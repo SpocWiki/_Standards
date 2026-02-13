@@ -93,7 +93,7 @@ dv_has_:
     ast: Ocultismu
     az: Okkultizm
     be: акультызм
-    be-tarask: акультызм
+    be_tarask: акультызм
     bg: Окултизъм
     br: okultelezh
     bs: Okultizam
@@ -124,11 +124,11 @@ dv_has_:
     ja: オカルト
     ka: ოკულტიზმი
     kk: Оккультизм
-    kk-arab: وككۋلتىيزم
+    kk_arab: وككۋلتىيزم
     kk-cn: وككۋلتىيزم
-    kk-cyrl: Оккультизм
+    kk_cyrl: Оккультизм
     kk-kz: Оккультизм
-    kk-latn: Okkwlʹtïzm
+    kk_latn: Okkwlʹtïzm
     kk-tr: Okkwlʹtïzm
     ko: 오컬트
     ky: Оккультизм
@@ -163,8 +163,8 @@ dv_has_:
     sms: okkultismm
     sq: Okultizmi
     sr: окултизам
-    sr-ec: Окултизам
-    sr-el: Okultizam
+    sr_ec: Окултизам
+    sr_el: Okultizam
     sv: ockultism
     ta: மறைபொருள் நிலை
     tg: улуми ғариба
@@ -176,12 +176,12 @@ dv_has_:
     wuu: 神秘学
     yue: 神秘學
     zh: 神秘学
-    zh-cn: 神秘学
-    zh-hans: 神秘学
-    zh-hant: 神秘學
-    zh-hk: 神秘學
-    zh-sg: 神秘学
-    zh-tw: 神秘學
+    zh_cn: 神秘学
+    zh_hans: 神秘学
+    zh_hant: 神秘學
+    zh_hk: 神秘學
+    zh_sg: 神秘学
+    zh_tw: 神秘學
 ---
 # [[Occultism]] 
 

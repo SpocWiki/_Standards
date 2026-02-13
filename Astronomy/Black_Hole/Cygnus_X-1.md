@@ -107,14 +107,14 @@ dv_has_:
     af: Cygnus X-1
     ar: الدجاجة X-1
     ast: Cygnus X-1
-    be-tarask: Лебедзь X-1
+    be_tarask: Лебедзь X-1
     br: Cygnus X-1
     ca: Cygnus X-1
     cs: Cygnus X-1
     de: Cygnus X-1
     en: Cygnus X-1
-    en-ca: Cygnus X-1
-    en-gb: Cygnus X-1
+    en_ca: Cygnus X-1
+    en_gb: Cygnus X-1
     es: Cygnus X-1
     eu: Cygnus X-1
     fa: ماکیان ایکس یک
@@ -138,7 +138,7 @@ dv_has_:
     pl: Cygnus X-1
     pnb: دجاجہ ایکس اول
     pt: Cygnus X-1
-    pt-br: Cygnus X-1
+    pt_br: Cygnus X-1
     ro: Cygnus X-1
     ru: Лебедь X-1
     sk: Cygnus X-1
@@ -154,12 +154,12 @@ dv_has_:
     wuu: 天鹅座X-1
     yue: 天鵝座X-1
     zh: 天鵝座X-1
-    zh-cn: 天鹅座X-1
-    zh-hans: 天鹅座X-1
-    zh-hant: 天鵝座X-1
-    zh-hk: 天鵝座X-1
-    zh-sg: 天鹅座X-1
-    zh-tw: 天鵝座X-1
+    zh_cn: 天鹅座X-1
+    zh_hans: 天鹅座X-1
+    zh_hant: 天鵝座X-1
+    zh_hk: 天鵝座X-1
+    zh_sg: 天鹅座X-1
+    zh_tw: 天鵝座X-1
 ---
 # [[Cygnus_X-1]] 
 

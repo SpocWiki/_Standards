@@ -32,7 +32,7 @@ dv_has_:
     oc: Synemosyninae
     pl: Synemosyninae
     pt: Synemosyninae
-    pt-br: Synemosyninae
+    pt_br: Synemosyninae
     ro: Synemosyninae
     ru: Synemosyninae
     sq: Synemosyninae

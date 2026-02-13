@@ -39,7 +39,7 @@ dv_has_:
     nn: Tangerine Dream
     pl: Tangerine Dream
     pt: Tangerine Dream
-    pt-br: Tangerine Dream
+    pt_br: Tangerine Dream
     ro: Tangerine Dream
     ru: Tangerine Dream
     sk: Tangerine Dream
@@ -48,12 +48,12 @@ dv_has_:
     uk: Tangerine Dream
     vi: Tangerine Dream
     zh: 橘夢樂團
-    zh-cn: 橘梦乐团
-    zh-hans: 橘梦乐团
-    zh-hant: 橘夢樂團
-    zh-hk: 橘夢樂團
-    zh-sg: 橘梦乐团
-    zh-tw: 橘夢樂團
+    zh_cn: 橘梦乐团
+    zh_hans: 橘梦乐团
+    zh_hant: 橘夢樂團
+    zh_hk: 橘夢樂團
+    zh_sg: 橘梦乐团
+    zh_tw: 橘夢樂團
 aliases:
 - Tangerine Dream
 - Танджърин Дрийм

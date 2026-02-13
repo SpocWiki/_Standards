@@ -284,13 +284,13 @@ dv_has_:
     bar: Madonna
     bcl: Madonna
     be: Мадонна
-    be-tarask: Мадонна
+    be_tarask: Мадонна
     bg: Мадона
     bn: ম্যাডোনা
     br: Madonna
     bs: Madonna
     ca: Madonna
-    cbk-zam: Madonna
+    cbk_zam: Madonna
     cdo: Madonna
     chr: ᎹᏙᎾ
     ckb: مادۆنا
@@ -301,7 +301,7 @@ dv_has_:
     da: Madonna
     de: Madonna
     de-at: Madonna
-    de-ch: Madonna
+    de_ch: Madonna
     din: Madonna
     diq: Madonna
     dsb: Madonna
@@ -309,8 +309,8 @@ dv_has_:
     el: Μαντόνα
     eml: Madonna
     en: Madonna
-    en-ca: Madonna
-    en-gb: Madonna
+    en_ca: Madonna
+    en_gb: Madonna
     en-us: Madonna
     eo: Madonna
     es: Madonna
@@ -367,7 +367,7 @@ dv_has_:
     lmo: Madonna
     lt: Madonna
     lv: Madonna
-    map-bms: Madonna
+    map_bms: Madonna
     mg: Madonna
     mhr: Мадонна
     mk: Мадона
@@ -384,7 +384,7 @@ dv_has_:
     nan: Madonna
     nb: Madonna
     nds: Madonna
-    nds-nl: Madonna
+    nds_nl: Madonna
     ne: म्याडोना
     nl: Madonna
     nn: Madonna
@@ -395,7 +395,7 @@ dv_has_:
     pl: Madonna
     pms: Madonna
     pt: Madonna
-    pt-br: Madonna
+    pt_br: Madonna
     rmy: Madonna
     ro: Madonna
     ru: Мадонна
@@ -412,8 +412,8 @@ dv_has_:
     so: Madonna
     sq: Madonna
     sr: Мадона
-    sr-ec: Мадона
-    sr-el: Madona
+    sr_ec: Мадона
+    sr_el: Madona
     stq: Madonna
     sv: Madonna
     sw: Madonna
@@ -441,10 +441,10 @@ dv_has_:
     yo: Madonna
     yue: 麥當娜
     zh: 麥當娜
-    zh-cn: 麦当娜
-    zh-hant: 瑪丹娜
-    zh-hk: 麥當娜
-    zh-tw: 瑪丹娜
+    zh_cn: 麦当娜
+    zh_hant: 瑪丹娜
+    zh_hk: 麥當娜
+    zh_tw: 瑪丹娜
 ---
 # [[Madonna]] 
 

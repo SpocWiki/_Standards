@@ -106,7 +106,7 @@ dv_has_:
     az: təmsil
     ba: мэсэл
     be: байка
-    be-tarask: байка
+    be_tarask: байка
     bg: басня
     bn: উপকথা
     br: fablenn
@@ -119,11 +119,11 @@ dv_has_:
     cy: chwedl
     da: fabel
     de: Fabel
-    de-ch: Fabel
+    de_ch: Fabel
     el: αλληγορικός μύθος
     en: fable
-    en-ca: fable
-    en-gb: fable
+    en_ca: fable
+    en_gb: fable
     eo: fablo
     es: fábula
     et: valm
@@ -176,7 +176,7 @@ dv_has_:
     pnb: حکایت
     ps: نكل
     pt: fábula
-    pt-br: fábula
+    pt_br: fábula
     ro: fabulă
     ru: басня
     scn: fàula
@@ -186,7 +186,7 @@ dv_has_:
     sl: basen
     sq: fabula
     sr: басна
-    sr-ec: басна
+    sr_ec: басна
     stq: Foabel
     su: fabel
     sv: fabel
@@ -208,7 +208,7 @@ dv_has_:
     yi: משל
     yue: 寓言
     zh: 寓言
-    zh-hans: 寓言
+    zh_hans: 寓言
 ---
 # [[Fable]] 
 

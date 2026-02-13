@@ -53,7 +53,7 @@ dv_has_:
     oc: Ruellia
     pl: Ruellia
     pt: Ruellia
-    pt-br: Ruellia
+    pt_br: Ruellia
     ro: Ruellia
     ru: Руэллия
     sq: Ruellia
@@ -66,9 +66,9 @@ dv_has_:
     vo: Ruellia
     war: Ruellia
     zh: 芦莉草属
-    zh-cn: 芦莉草属
-    zh-hans: 芦莉草属
-    zh-tw: 蘆莉草屬
+    zh_cn: 芦莉草属
+    zh_hans: 芦莉草属
+    zh_tw: 蘆莉草屬
 ---
 ## Phylogeny 
 

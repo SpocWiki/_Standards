@@ -84,7 +84,7 @@ dv_has_:
     ar: منطقة هيدروجين II
     ast: Rexón H II
     be: вобласць H II
-    be-tarask: абшар H II
+    be_tarask: абшар H II
     bho: एच टू इलाका
     bn: H II অঞ্চল
     bs: H II područje
@@ -93,8 +93,8 @@ dv_has_:
     de: H-II-Gebiet
     el: Περιοχή H II
     en: H II region
-    en-ca: H II region
-    en-gb: H II region
+    en_ca: H II region
+    en_gb: H II region
     eo: regiono HII
     es: región H II
     et: H-II-piirkond
@@ -121,7 +121,7 @@ dv_has_:
     oc: Region HII
     pl: Obszar H II
     pt: região H II
-    pt-br: região H II
+    pt_br: região H II
     ro: Regiune H II
     ru: область H II
     scn: riggioni H II

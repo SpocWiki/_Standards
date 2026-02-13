@@ -78,7 +78,7 @@ dv_has_:
     pl: Sasebi przylądkowy
     pnb: بونٹبوک
     pt: Damaliscus pygargus
-    pt-br: Damaliscus pygargus
+    pt_br: Damaliscus pygargus
     ro: Damaliscus pygargus
     ru: Бонтбок
     sq: Damaliscus pygargus
@@ -90,8 +90,8 @@ dv_has_:
     vo: Damaliscus pygargus
     war: Damaliscus pygargus
     zh: 白纹牛羚
-    zh-cn: 白纹牛羚
-    zh-tw: 白紋牛羚
+    zh_cn: 白纹牛羚
+    zh_tw: 白紋牛羚
 ---
 # [[Bontebok]] 
 

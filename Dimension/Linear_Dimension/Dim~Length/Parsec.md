@@ -100,7 +100,7 @@ dv_has_:
     az: parsek
     ba: парсек
     be: парсек
-    be-tarask: парсэк
+    be_tarask: парсэк
     bg: парсек
     bn: পারসেক
     br: parsek
@@ -110,11 +110,11 @@ dv_has_:
     cv: парçек
     da: parsec
     de: Parsec
-    de-ch: Parsec
+    de_ch: Parsec
     el: παρσέκ
     en: parsec
-    en-ca: parsec
-    en-gb: parsec
+    en_ca: parsec
+    en_gb: parsec
     eo: parseko
     es: pársec
     et: parsek
@@ -162,7 +162,7 @@ dv_has_:
     pms: parsec
     pnb: پارسک
     pt: parsec
-    pt-br: parsec
+    pt_br: parsec
     ro: parsec
     ru: парсек
     sah: парсек
@@ -171,7 +171,7 @@ dv_has_:
     sk: parsek
     sl: parsek
     sr: парсек
-    sr-ec: парсек
+    sr_ec: парсек
     sv: parsec
     sw: parsek
     ta: புடைநொடி
@@ -180,7 +180,7 @@ dv_has_:
     tl: parsec
     tr: parsek
     tt: парсек
-    tt-cyrl: парсек
+    tt_cyrl: парсек
     uk: парсек
     ur: پارسک
     uz: Parsek
@@ -191,7 +191,7 @@ dv_has_:
     xmf: პარსეკი
     yue: 秒差距
     zh: 秒差距
-    zh-hant: 秒差距
+    zh_hant: 秒差距
 ---
 # [[Parsec]] 
 

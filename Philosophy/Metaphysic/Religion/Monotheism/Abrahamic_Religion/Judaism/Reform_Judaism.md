@@ -67,7 +67,7 @@ dv_has_:
     ar: يهودية إصلاحية
     arz: يهوديه اصلاحيه
     ast: Xudaísmu reformista
-    be-tarask: рэфармісцкі юдаізм
+    be_tarask: рэфармісцкі юдаізм
     bg: Реформистки юдаизъм
     br: Yuzevegezh adreizhet
     ca: judaisme reformista
@@ -75,11 +75,11 @@ dv_has_:
     cy: Iddewiaeth ddiwygiedig
     da: Reformjødedom
     de: Liberales Judentum
-    de-ch: Reformjudentum
+    de_ch: Reformjudentum
     el: Μεταρρυθμιστικός Ιουδαϊσμός
     en: Reform Judaism
-    en-ca: Reform Judaism
-    en-gb: Reform Judaism
+    en_ca: Reform Judaism
+    en_gb: Reform Judaism
     eo: reformisma judismo
     es: Judaísmo reformado
     eu: judaismo erreformista
@@ -107,7 +107,7 @@ dv_has_:
     pl: Judaizm reformowany
     ps: اصلاح پاله یهودیت
     pt: Judaísmo reformista
-    pt-br: Judaísmo reformista
+    pt_br: Judaísmo reformista
     ro: Iudaism reformat
     ru: Реформистский иудаизм
     sl: reformirano judovstvo
@@ -121,9 +121,9 @@ dv_has_:
     vi: Do Thái giáo Cải cách
     yi: רעפארם יידנטום
     zh: 猶太教改革派
-    zh-hans: 犹太教改革派
-    zh-hant: 猶太教改革派
-    zh-hk: 猶太教改革派
+    zh_hans: 犹太教改革派
+    zh_hant: 猶太教改革派
+    zh_hk: 猶太教改革派
 ---
 # [[Reform_Judaism]] 
 

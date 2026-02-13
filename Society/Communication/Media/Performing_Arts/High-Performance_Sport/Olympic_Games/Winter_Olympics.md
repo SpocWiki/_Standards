@@ -129,7 +129,7 @@ dv_has_:
     az: Qış Olimpiya Oyunları
     ba: Ҡышҡы Олимпия уйындары
     be: Зімовыя Алімпійскія гульні
-    be-tarask: Зімовыя Алімпійскія гульні
+    be_tarask: Зімовыя Алімпійскія гульні
     bg: Зимни олимпийски игри
     bho: विंटर ओलंपिक
     bn: শীতকালীন অলিম্পিক গেমস
@@ -143,7 +143,7 @@ dv_has_:
     cy: Gemau Olympaidd y Gaeaf
     da: Vinter-OL
     de: Olympische Winterspiele
-    de-ch: Olympische Winterspiele
+    de_ch: Olympische Winterspiele
     diq: Kayê Olimpiyatê Zımıstani
     el: Χειμερινοί Ολυμπιακοί Αγώνες
     en: Winter Olympic Games
@@ -198,7 +198,7 @@ dv_has_:
     pl: Zimowe igrzyska olimpijskie
     ps: د المپیک ژمنۍ لوبې
     pt: Jogos Olímpicos de Inverno
-    pt-br: Jogos Olímpicos de Inverno
+    pt_br: Jogos Olímpicos de Inverno
     ro: jocuri olimpice de iarnă
     ru: зимние Олимпийские игры
     sah: Кыhыҥҥы Олимпия оонньуулара
@@ -210,7 +210,7 @@ dv_has_:
     smn: tälviolympialiih
     sq: Lojërat olimpike dimërore
     sr: Зимске олимпијске игре
-    sr-ec: Зимске олимпијске игре
+    sr_ec: Зимске олимпијске игре
     sv: Olympiska vinterspelen
     ta: குளிர்கால ஒலிம்பிக் விளையாட்டுக்கள்
     tg: Бозиҳои олимпии зимистона
@@ -219,7 +219,7 @@ dv_has_:
     tl: Palarong Olimpiko sa Taglamig
     tr: Kış Olimpiyat Oyunları
     tt: Кышкы Олимпия уеннары
-    tt-cyrl: Кышкы Олимпия уеннары
+    tt_cyrl: Кышкы Олимпия уеннары
     uk: Зимові Олімпійські ігри
     ur: سرمائی اولمپک کھیلیں
     uz: Qishki olimpiada
@@ -229,14 +229,14 @@ dv_has_:
     yo: Àwọn Ìdíje Òlímpíkì Ìgbà Otútù
     yue: 冬季奧林匹克運動會
     zh: 冬季奥林匹克运动会
-    zh-cn: 冬季奥林匹克运动会
-    zh-hans: 冬季奥林匹克运动会
-    zh-hant: 冬季奧林匹克運動會
-    zh-hk: 冬季奧林匹克運動會
-    zh-mo: 冬季奧林匹克運動會
+    zh_cn: 冬季奥林匹克运动会
+    zh_hans: 冬季奥林匹克运动会
+    zh_hant: 冬季奧林匹克運動會
+    zh_hk: 冬季奧林匹克運動會
+    zh_mo: 冬季奧林匹克運動會
     zh-my: 冬季奥林匹克运动会
-    zh-sg: 冬季奥林匹克运动会
-    zh-tw: 冬季奧林匹克運動會
+    zh_sg: 冬季奥林匹克运动会
+    zh_tw: 冬季奧林匹克運動會
 ---
 # [[Winter_Olympics]]  
 

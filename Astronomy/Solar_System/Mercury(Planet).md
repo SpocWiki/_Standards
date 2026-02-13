@@ -307,7 +307,7 @@ dv_has_:
     bar: Merkur
     bcl: Merkuryo
     be: Планета Меркурый
-    be-tarask: Мэркурый
+    be_tarask: Мэркурый
     bew: Utarid
     bg: Меркурий
     bho: बुध ग्रह
@@ -327,7 +327,7 @@ dv_has_:
     co: Mercuriu (pianeta)
     cr: ᑖᐢᑕᐲᐊᐧᑖᕁ
     crh: Utarit
-    crh-latn: Utarit
+    crh_latn: Utarit
     cs: Merkur
     csb: Merkùri
     cu: Єрми́и
@@ -335,7 +335,7 @@ dv_has_:
     cy: Mercher
     da: Merkur
     de: Merkur
-    de-ch: Merkur
+    de_ch: Merkur
     diq: Merkur
     dsb: Merkur
     dty: बुधग्रह
@@ -343,7 +343,7 @@ dv_has_:
     el: Ερμής
     eml: Mercûri
     en: Mercury
-    en-ca: Mercury
+    en_ca: Mercury
     eo: Merkuro
     es: Mercurio
     et: Merkuur
@@ -426,7 +426,7 @@ dv_has_:
     lzh: 水星
     mad: Merkurius
     mag: बुध
-    map-bms: Merkurius
+    map_bms: Merkurius
     mdf: Меркури
     mg: Merkiora
     mi: Whiro
@@ -444,7 +444,7 @@ dv_has_:
     nap: Mercurio
     nb: Merkur
     nds: Merkur
-    nds-nl: Merkurius
+    nds_nl: Merkurius
     ne: बुधग्रह
     new: बुध
     nia: Merkurius
@@ -468,7 +468,7 @@ dv_has_:
     pnb: عطارد
     ps: عطارد
     pt: Mercúrio
-    pt-br: Mercúrio
+    pt_br: Mercúrio
     qu: Qatuylla
     rm: Mercur
     rmy: Budor
@@ -513,7 +513,7 @@ dv_has_:
     tok: mun Mekuli
     tr: Merkür
     tt: Меркурий
-    tt-cyrl: Меркурий
+    tt_cyrl: Меркурий
     tum: Chanya la Luskaka
     ty: Tāèro
     tyv: Меркурий
@@ -542,14 +542,14 @@ dv_has_:
     zea: Mercurius
     zgh: ⴰⵣⵡⴰⵇ
     zh: 水星
-    zh-cn: 水星
-    zh-hans: 水星
-    zh-hant: 水星
-    zh-hk: 水星
-    zh-mo: 水星
+    zh_cn: 水星
+    zh_hans: 水星
+    zh_hant: 水星
+    zh_hk: 水星
+    zh_mo: 水星
     zh-my: 水星
-    zh-sg: 水星
-    zh-tw: 水星
+    zh_sg: 水星
+    zh_tw: 水星
     zu: UMerkuriyu
 ---
 # [[Mercury(Planet)]]]

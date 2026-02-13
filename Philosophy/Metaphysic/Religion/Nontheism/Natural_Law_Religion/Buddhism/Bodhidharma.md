@@ -70,7 +70,7 @@ dv_has_:
     ast: Bodhidharma
     az: Bodhidharma
     ba: Бодхидхарма
-    be-tarask: Бадгідгарма
+    be_tarask: Бадгідгарма
     bg: Бодхидхарма
     bn: বোধিধর্ম
     ca: Bodhidharma
@@ -110,7 +110,7 @@ dv_has_:
     pl: Bodhidharma
     ps: بودي دارما
     pt: Bodhidharma
-    pt-br: Bodhidharma
+    pt_br: Bodhidharma
     ro: Bodhidharma
     ru: Бодхидхарма
     sco: Bodhidharma
@@ -120,8 +120,8 @@ dv_has_:
     sl: Bodhidharma
     sq: Bodhidharma
     sr: Бодидарма
-    sr-ec: Бодидарма
-    sr-el: Bodidarma
+    sr_ec: Бодидарма
+    sr_el: Bodidarma
     sv: Bodhidharma
     ta: போதி தருமன்
     te: బోధిధర్మ
@@ -135,12 +135,12 @@ dv_has_:
     wuu: 菩提达摩
     yue: 達摩
     zh: 菩提达摩
-    zh-cn: 菩提达摩
-    zh-hans: 菩提达摩
-    zh-hant: 菩提達摩
-    zh-hk: 菩提達摩
-    zh-sg: 菩提达摩
-    zh-tw: 菩提達摩
+    zh_cn: 菩提达摩
+    zh_hans: 菩提达摩
+    zh_hant: 菩提達摩
+    zh_hk: 菩提達摩
+    zh_sg: 菩提达摩
+    zh_tw: 菩提達摩
 ---
 # [[Bodhidharma]] 
 

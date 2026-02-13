@@ -103,7 +103,7 @@ dv_has_:
     bar: Hades
     bcl: Hades
     be: Аід
-    be-tarask: Аід
+    be_tarask: Аід
     bg: Хадес
     bn: হেডিস
     br: Haides
@@ -146,7 +146,7 @@ dv_has_:
     kk: Аид
     ko: 하데스
     ku: Hadês
-    ku-latn: Hadês
+    ku_latn: Hadês
     la: Hades
     lb: Hades
     lt: Hadas
@@ -196,7 +196,7 @@ dv_has_:
     wuu: 哈得斯
     yue: 哈帝斯
     zh: 哈得斯
-    zh-tw: 黑帝斯
+    zh_tw: 黑帝斯
 ---
 # [[Hades(Mythology)]] 
 

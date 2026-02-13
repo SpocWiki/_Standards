@@ -107,7 +107,7 @@ dv_has_:
     az: informatika
     azb: بیلگی بیلیمی
     ba: Мәғлүмәт фәне
-    be-tarask: інфармацыйная навука
+    be_tarask: інфармацыйная навука
     bg: Информационна наука
     bn: তথ্য বিজ্ঞান
     br: skiant an titouriñ
@@ -117,11 +117,11 @@ dv_has_:
     cy: Gwyddor gwybodaeth
     da: informationsvidenskab
     de: Informationswissenschaft
-    de-ch: Informationswissenschaft
+    de_ch: Informationswissenschaft
     el: πληροφορική
     en: information science
-    en-ca: information science
-    en-gb: information science
+    en_ca: information science
+    en_gb: information science
     eo: informadiko
     es: ciencia de la información
     et: infoteadus
@@ -154,7 +154,7 @@ dv_has_:
     pa: ਸੂਚਨਾ ਵਿਗਿਆਨ
     pl: informacja naukowa
     pt: ciência da informação
-    pt-br: ciência da informação
+    pt_br: ciência da informação
     ro: știința informației
     ru: информатика
     sd: انفارميشن سائنس
@@ -176,12 +176,12 @@ dv_has_:
     vi: khoa học thông tin
     yue: 資訊科學
     zh: 信息科学
-    zh-cn: 信息科学
-    zh-hans: 信息科学
-    zh-hant: 資訊科學
+    zh_cn: 信息科学
+    zh_hans: 信息科学
+    zh_hant: 資訊科學
     zh-my: 信息科学
-    zh-sg: 信息科学
-    zh-tw: 資訊科學
+    zh_sg: 信息科学
+    zh_tw: 資訊科學
     zu: INzululwazi yoKwaziswa
 ---
 # [[Information_Science]] 

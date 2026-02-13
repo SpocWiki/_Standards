@@ -27,7 +27,7 @@ dv_has_:
     arz: بيتر ثيل
     ast: Peter Thiel
     be: Пітэр Тыль
-    be-tarask: Пітэр Тыль
+    be_tarask: Пітэр Тыль
     ca: Peter Thiel
     ckb: پیتەر تیل
     cs: Peter Thiel
@@ -35,7 +35,7 @@ dv_has_:
     da: Peter Thiel
     de: Peter Thiel
     en: Peter Thiel
-    en-gb: Peter Thiel
+    en_gb: Peter Thiel
     eo: Peter Thiel
     es: Peter Thiel
     fa: پیتر تیل
@@ -66,7 +66,7 @@ dv_has_:
     pl: Peter Thiel
     pms: Peter Thiel
     pt: Peter Thiel
-    pt-br: Peter Thiel
+    pt_br: Peter Thiel
     ru: Питер Тиль
     sc: Peter Thiel
     sco: Peter Thiel
@@ -81,7 +81,7 @@ dv_has_:
     uz: Peter Thiel
     vi: Peter Thiel
     zh: 彼得·泰爾
-    zh-hk: 彼德·提路
+    zh_hk: 彼德·提路
 ---
 # [[Thiel,Peter]] 
 

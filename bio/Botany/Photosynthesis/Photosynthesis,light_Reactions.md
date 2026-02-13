@@ -54,7 +54,7 @@ dv_has_:
     ja: 光化学反応
     ko: 명반응
     ku: Karlêkên ronahiyê
-    ku-latn: karlêkên ronahiyê
+    ku_latn: karlêkên ronahiyê
     nl: Lichtreacties
     nn: lysreaksjon
     pl: reakcja fotochemiczna
@@ -64,8 +64,8 @@ dv_has_:
     si: අලෝක-පරායත්ත ප්රතික්රියා
     sl: svetlobna reakcija
     sr: Светла фаза фотосинтезе
-    sr-ec: Светла фаза фотосинтезе
-    sr-el: Svetla faza fotosinteze
+    sr_ec: Светла фаза фотосинтезе
+    sr_el: Svetla faza fotosinteze
     sv: Ljusreaktionen
     tl: Tugong nakadepende sa liwanag
     tr: Işıklı devre reaksiyonları

@@ -115,7 +115,7 @@ dv_has_:
     az: nitratlar
     azb: نیترات
     be: нітрат
-    be-tarask: нітрат
+    be_tarask: нітрат
     bg: нитрат
     bn: নাইট্রেট
     br: nitrat
@@ -170,8 +170,8 @@ dv_has_:
     sl: nitrat
     sq: nitrati
     sr: нитрат
-    sr-ec: нитрат
-    sr-el: nitrat
+    sr_ec: нитрат
+    sr_el: nitrat
     sv: nitrat
     ta: நைத்திரேட்டு
     th: ไนเตรต
@@ -185,12 +185,12 @@ dv_has_:
     wuu: 硝酸盐
     yue: 硝酸根離子
     zh: 硝酸盐
-    zh-cn: 硝酸盐
-    zh-hans: 硝酸盐
-    zh-hant: 硝酸鹽
-    zh-hk: 硝酸鹽
-    zh-sg: 硝酸盐
-    zh-tw: 硝酸鹽
+    zh_cn: 硝酸盐
+    zh_hans: 硝酸盐
+    zh_hant: 硝酸鹽
+    zh_hk: 硝酸鹽
+    zh_sg: 硝酸盐
+    zh_tw: 硝酸鹽
 ---
 # [[Nitrate_Ion]] 
 

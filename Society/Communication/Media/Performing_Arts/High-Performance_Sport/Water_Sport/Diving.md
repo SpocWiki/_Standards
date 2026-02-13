@@ -105,7 +105,7 @@ dv_has_:
     azb: سویا توللانما
     ba: Һыуға һикереү
     be: скачкі ў ваду
-    be-tarask: скачкі ў ваду
+    be_tarask: скачкі ў ваду
     bg: Скок във вода
     bn: ডাইভিং
     ca: salts
@@ -113,11 +113,11 @@ dv_has_:
     cy: Plymio
     da: udspring
     de: Wasserspringen
-    de-ch: Wasserspringen
+    de_ch: Wasserspringen
     el: καταδύσεις
     en: diving
-    en-ca: Diving
-    en-gb: diving
+    en_ca: Diving
+    en_gb: diving
     eo: plonĝado
     es: salto
     et: Vettehüpped
@@ -148,14 +148,14 @@ dv_has_:
     mn: Усанд үсрэлт
     ms: Terjun
     nb: stup
-    nds-nl: schoonspringen
+    nds_nl: schoonspringen
     nl: schoonspringen
     nn: stuping
     oc: Cabús
     pa: ਗੋਤਾਖੋਰੀ
     pl: skoki do wody
     pt: salto ornamental
-    pt-br: Salto ornamental
+    pt_br: Salto ornamental
     ro: Sărituri în apă
     ru: прыжки в воду
     sa: जलकूर्दनक्रीडा
@@ -166,7 +166,7 @@ dv_has_:
     sl: skoki v vodo
     sq: Zhytja (sport)
     sr: скок у воду
-    sr-ec: скок у воду
+    sr_ec: скок у воду
     sv: simhopp
     szl: Yntki do wody
     ta: நீரில் பாய்தல்
@@ -182,11 +182,11 @@ dv_has_:
     wuu: 跳水
     yue: 跳水
     zh: 跳水
-    zh-cn: 跳水
-    zh-hans: 跳水
-    zh-hant: 跳水
-    zh-hk: 跳水
-    zh-tw: 跳水
+    zh_cn: 跳水
+    zh_hans: 跳水
+    zh_hant: 跳水
+    zh_hk: 跳水
+    zh_tw: 跳水
 ---
 # [[Diving]] 
 

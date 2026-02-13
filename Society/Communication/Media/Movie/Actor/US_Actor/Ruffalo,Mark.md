@@ -50,7 +50,7 @@ dv_has_:
     azb: مارک روفالو
     bar: Mark Ruffalo
     be: Марк Рафала
-    be-tarask: Марк Руфала
+    be_tarask: Марк Руфала
     bg: Марк Ръфало
     bm: Mark Ruffalo
     bn: মার্ক রাফালো
@@ -63,12 +63,12 @@ dv_has_:
     da: Mark Ruffalo
     de: Mark Ruffalo
     de-at: Mark Ruffalo
-    de-ch: Mark Ruffalo
+    de_ch: Mark Ruffalo
     el: Μαρκ Ράφαλο
     eml: Mark Ruffalo
     en: Mark Ruffalo
-    en-ca: Mark Ruffalo
-    en-gb: Mark Ruffalo
+    en_ca: Mark Ruffalo
+    en_gb: Mark Ruffalo
     eo: Mark Ruffalo
     es: Mark Ruffalo
     et: Mark Ruffalo
@@ -121,7 +121,7 @@ dv_has_:
     nap: Mark Ruffalo
     nb: Mark Ruffalo
     nds: Mark Ruffalo
-    nds-nl: Mark Ruffalo
+    nds_nl: Mark Ruffalo
     ne: मार्क रफालो
     nl: Mark Ruffalo
     nn: Mark Ruffalo
@@ -134,7 +134,7 @@ dv_has_:
     pms: Mark Ruffalo
     prg: Mark Ruffalo
     pt: Mark Ruffalo
-    pt-br: Mark Ruffalo
+    pt_br: Mark Ruffalo
     rgn: Mark Ruffalo
     rm: Mark Ruffalo
     ro: Mark Ruffalo
@@ -147,7 +147,7 @@ dv_has_:
     sl: Mark Ruffalo
     sq: Mark Ruffalo
     sr: Марк Рафало
-    sr-el: Mark Ruffalo
+    sr_el: Mark Ruffalo
     su: Mark Ruffalo
     sv: Mark Ruffalo
     sw: Mark Ruffalo
@@ -156,7 +156,7 @@ dv_has_:
     th: มาร์ก รัฟฟาโล
     tr: Mark Ruffalo
     tt: Марк Руффало
-    tt-cyrl: Марк Руффало
+    tt_cyrl: Марк Руффало
     uk: Марк Раффало
     ur: مارک رفیلو
     uz: Mark Ruffalo
@@ -171,11 +171,11 @@ dv_has_:
     xmf: მარკ რუფალო
     yue: 麥克雷法路
     zh: 馬克·胡化路
-    zh-cn: 马克·鲁弗洛
-    zh-hans: 马克·鲁弗洛
-    zh-hant: 馬克·盧法洛
-    zh-hk: 馬克·路化奴
-    zh-tw: 馬克·盧法洛
+    zh_cn: 马克·鲁弗洛
+    zh_hans: 马克·鲁弗洛
+    zh_hant: 馬克·盧法洛
+    zh_hk: 馬克·路化奴
+    zh_tw: 馬克·盧法洛
     zu: Mark Ruffalo
 ---
 # [[Ruffalo,Mark]] 

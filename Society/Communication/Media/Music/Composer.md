@@ -254,7 +254,7 @@ dv_has_:
     bar: Komponist
     bcl: kompositor
     be: кампазітар
-    be-tarask: кампазытар
+    be_tarask: кампазытар
     bg: композитор
     bn: সুরকার
     br: sonaozour
@@ -265,19 +265,19 @@ dv_has_:
     ceb: kompositor
     ckb: ئاوازدانەر
     co: compusitore
-    crh-latn: bestekâr
+    crh_latn: bestekâr
     cs: hudební skladatel
     cv: кĕвĕçĕ
     cy: cyfansoddwr
     da: komponist
     de: Komponist
     de-at: Komponist
-    de-ch: Komponist
+    de_ch: Komponist
     diq: bestekar
     el: συνθέτης
     en: composer
-    en-ca: composer
-    en-gb: composer
+    en_ca: composer
+    en_gb: composer
     en-us: composer
     eo: komponisto
     es: compositor
@@ -328,7 +328,7 @@ dv_has_:
     ko: 작곡가
     ks: نغمہٕ ساز
     ku: awazdaner
-    ku-latn: awazdaner
+    ku_latn: awazdaner
     kv: шылад тэчысь
     kw: komposydh
     ky: композитор
@@ -348,7 +348,7 @@ dv_has_:
     mn: хөгжмийн зохиолч
     mr: संगीतकार
     ms: penggubah
-    ms-arab: ڤڠݢوبه
+    ms_arab: ڤڠݢوبه
     mt: kompożitur
     my: ဂီတစာဆို
     myv: седийсёрмадей
@@ -371,7 +371,7 @@ dv_has_:
     pl: kompozytor
     pnb: کمپوزر
     pt: compositor
-    pt-br: compositor
+    pt_br: compositor
     qu: takichaq
     ro: compozitor
     rsk: композитор
@@ -404,7 +404,7 @@ dv_has_:
     uk: композитор
     ur: نغمہ ساز
     uz: kompozitor
-    uz-cyrl: композитор
+    uz_cyrl: композитор
     vec: conpozitor
     vep: muzikankirjutai
     vi: nhà soạn nhạc
@@ -417,14 +417,14 @@ dv_has_:
     yi: קאמפאזיטאר
     yue: 作曲家
     zh: 作曲家
-    zh-cn: 作曲家
-    zh-hans: 作曲家
-    zh-hant: 作曲家
-    zh-hk: 作曲家
-    zh-mo: 作曲家
+    zh_cn: 作曲家
+    zh_hans: 作曲家
+    zh_hant: 作曲家
+    zh_hk: 作曲家
+    zh_mo: 作曲家
     zh-my: 作曲家
-    zh-sg: 作曲家
-    zh-tw: 作曲家
+    zh_sg: 作曲家
+    zh_tw: 作曲家
     zu: Umqambi
 ---
 # [[Composer]] 

@@ -94,7 +94,7 @@ dv_has_:
     ast: Réxime alimenticiu
     az: Pəhriz
     ba: диета
-    be-tarask: дыета
+    be_tarask: дыета
     bg: Диета
     bs: dijeta
     ca: dieta
@@ -129,11 +129,11 @@ dv_has_:
     jv: Diét
     ka: დიეტა
     kk: Диета
-    kk-arab: دىييەتا
+    kk_arab: دىييەتا
     kk-cn: دىييەتا
-    kk-cyrl: Диета
+    kk_cyrl: Диета
     kk-kz: Диета
-    kk-latn: Dïyeta
+    kk_latn: Dïyeta
     kk-tr: Dïyeta
     ko: 식단
     ky: Мүнөздөп тамактануу
@@ -165,7 +165,7 @@ dv_has_:
     tl: Diyeta
     tr: Diyet
     tt: диет
-    tt-cyrl: диет
+    tt_cyrl: диет
     uk: дієта
     uz: Diyeta
     vec: dieta
@@ -175,8 +175,8 @@ dv_has_:
     yue: 飲食配搭
     zh: 飲食
     zh-cn: 饮食
-    zh-hant: 飲食 (營養學)
-    zh-tw: 飲食
+    zh_hant: 飲食 (營養學)
+    zh_tw: 飲食
 ---
 # [[Diet]] 
 

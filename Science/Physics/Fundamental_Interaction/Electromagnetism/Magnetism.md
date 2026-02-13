@@ -97,7 +97,7 @@ dv_has_:
     bar: Magnetismus
     bcl: magnetismo
     be: магнетызм
-    be-tarask: магнэтызм
+    be_tarask: магнэтызм
     bg: магнетизъм
     bn: চুম্বকত্ব
     bo: ཁབ་ལེན།
@@ -108,11 +108,11 @@ dv_has_:
     cv: магнетизм
     da: magnetisme
     de: Magnetismus
-    de-ch: Magnetismus
+    de_ch: Magnetismus
     el: μαγνητισμός
     en: magnetism
-    en-ca: magnetism
-    en-gb: magnetism
+    en_ca: magnetism
+    en_gb: magnetism
     eo: magnetismo
     es: magnetismo
     et: magnetism
@@ -152,7 +152,7 @@ dv_has_:
     mk: магнетизам
     ml: കാന്തികത
     ms: kemagnetan
-    ms-arab: کمݢنيتن
+    ms_arab: کمݢنيتن
     my: သံလိုက်ဓာတ်
     nan: chû-khì
     nb: magnetisme
@@ -163,7 +163,7 @@ dv_has_:
     pl: magnetyzm
     ps: مقناطیسیت
     pt: magnetismo
-    pt-br: magnetismo
+    pt_br: magnetismo
     qu: llut'ariy
     ro: magnetism
     ru: магнетизм

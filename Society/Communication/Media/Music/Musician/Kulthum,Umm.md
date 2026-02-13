@@ -117,7 +117,7 @@ dv_has_:
     azb: ام کلثوم (شارکیچی)
     ba: Үмм Күлсүм
     be: Ум Кульсум
-    be-tarask: Ум Кульсум
+    be_tarask: Ум Кульсум
     bg: Ум Кулсум
     bn: উম্মে কুলসুম
     br: Umm Kulthum
@@ -180,7 +180,7 @@ dv_has_:
     pms: Umm Kulthum
     pnb: ام کلثوم
     pt: Umm Kulthum
-    pt-br: Umm Kulthum
+    pt_br: Umm Kulthum
     ro: Umm Kulthum
     roa-tara: Umm Kulthum
     ru: Умм Кульсум
@@ -195,8 +195,8 @@ dv_has_:
     sl: Um Kultum
     sq: Umm Kulthum
     sr: Ум Култум
-    sr-ec: Ум Култум
-    sr-el: Um Kultum
+    sr_ec: Ум Култум
+    sr_el: Um Kultum
     sv: Om Khalsoum
     sw: Umm Kulthum
     ta: உம் குல்தூம்
@@ -215,9 +215,9 @@ dv_has_:
     yi: אום קולטום
     yue: 烏姆庫勒蘇姆
     zh: 烏姆·庫勒蘇姆
-    zh-hans: 乌姆·库勒苏姆
-    zh-hant: 烏姆·庫勒蘇姆
-    zh-hk: 烏姆·庫勒蘇姆
+    zh_hans: 乌姆·库勒苏姆
+    zh_hant: 烏姆·庫勒蘇姆
+    zh_hk: 烏姆·庫勒蘇姆
 ---
 # [[Kulthum,Umm]] 
 

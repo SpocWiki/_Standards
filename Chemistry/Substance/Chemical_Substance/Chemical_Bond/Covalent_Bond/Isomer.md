@@ -85,7 +85,7 @@ dv_has_:
     ar: مصاوغ
     ast: isómero
     be: ізамер
-    be-tarask: ізамэр
+    be_tarask: ізамэр
     bg: изомер
     bn: সমাণু
     br: izomer
@@ -120,11 +120,11 @@ dv_has_:
     ja: 異性体
     ka: იზომერია
     kk: изомералар
-    kk-arab: ىيزومەرالار
+    kk_arab: ىيزومەرالار
     kk-cn: ىيزومەرالار
-    kk-cyrl: изомералар
+    kk_cyrl: изомералар
     kk-kz: изомералар
-    kk-latn: ïzomeralar
+    kk_latn: ïzomeralar
     kk-tr: ïzomeralar
     kn: ಐಸೋಮರ್
     ko: 이성질체
@@ -142,7 +142,7 @@ dv_has_:
     om: Ayisoomeriizimii
     pl: izomer
     pt: isómero
-    pt-br: isômero
+    pt_br: isômero
     ro: izomer
     ru: изомер
     se: isomera
@@ -153,8 +153,8 @@ dv_has_:
     sms: isomeeʹr
     sq: izomeri
     sr: изомер
-    sr-ec: изомер
-    sr-el: izomer
+    sr_ec: изомер
+    sr_el: izomer
     sv: isomer
     ta: சமபகுதியம்
     th: ไอโซเมอร์
@@ -167,12 +167,12 @@ dv_has_:
     wuu: 同分异构
     yue: 同分異構
     zh: 同分異構
-    zh-cn: 同分异构
-    zh-hans: 同分异构
-    zh-hant: 同分異構
-    zh-hk: 同分異構
-    zh-sg: 同分异构
-    zh-tw: 同分異構
+    zh_cn: 同分异构
+    zh_hans: 同分异构
+    zh_hant: 同分異構
+    zh_hk: 同分異構
+    zh_sg: 同分异构
+    zh_tw: 同分異構
 ---
 # [[Isomer]] 
 

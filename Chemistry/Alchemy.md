@@ -31,7 +31,7 @@ dv_has_:
     ba: алхимия
     bcl: alkimiya
     be: алхімія
-    be-tarask: альхімія
+    be_tarask: альхімія
     bg: алхимия
     bn: আলকেমি
     bo: གསེར་བཙོ་རྩལ།
@@ -48,8 +48,8 @@ dv_has_:
     diq: simya
     el: αλχημεία
     en: alchemy
-    en-ca: alchemy
-    en-gb: alchemy
+    en_ca: alchemy
+    en_gb: alchemy
     eo: alkemio
     es: alquimia
     et: alkeemia
@@ -100,7 +100,7 @@ dv_has_:
     pl: alchemia
     ps: کیمیاګري
     pt: alquimia
-    pt-br: alquimia
+    pt_br: alquimia
     ro: alchimie
     ru: алхимия
     scn: archimìa
@@ -134,7 +134,7 @@ dv_has_:
     xmf: ალქიმია
     yue: 煉金術
     zh: 炼金术
-    zh-hant: 鍊金術
+    zh_hant: 鍊金術
 aliases:
 - ailceimic
 - alcemi

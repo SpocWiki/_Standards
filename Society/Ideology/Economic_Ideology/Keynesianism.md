@@ -63,7 +63,7 @@ dv_has_:
     az: Keynsçilik
     azb: کینزین ایقتیصادی
     be: Кейнсіянства
-    be-tarask: кэйнсіянства
+    be_tarask: кэйнсіянства
     bg: Кейнсианска икономика
     ca: Keynesianisme
     ckb: ئابووری کەینیزی
@@ -72,8 +72,8 @@ dv_has_:
     de: Keynesianismus
     el: Κεϋνσιανικά οικονομικά
     en: Keynesian economics
-    en-ca: Keynesian economics
-    en-gb: Keynesian economics
+    en_ca: Keynesian economics
+    en_gb: Keynesian economics
     eo: Kejnsisma ekonomiko
     es: keynesianismo
     et: Keinsism
@@ -106,7 +106,7 @@ dv_has_:
     pl: Keynesizm
     ps: د کينز اقتصاد
     pt: Escola keynesiana
-    pt-br: Escola keynesiana
+    pt_br: Escola keynesiana
     ro: Keynesianism
     ru: Кейнсианство
     sh: Kejnzijanizam

@@ -71,7 +71,7 @@ dv_has_:
     ast: Desmodontinae
     ban: Lelawah vampir
     be: вампіры
-    be-tarask: вампіры
+    be_tarask: вампіры
     bg: кръвосмучещи прилепи
     ca: Vampir
     ceb: Desmodontinae
@@ -99,11 +99,11 @@ dv_has_:
     ja: チスイコウモリ亜科
     ka: სისხლისმწოვისებრნი
     kk: Вампирлер
-    kk-arab: ۆامپىيرلەر
+    kk_arab: ۆامپىيرلەر
     kk-cn: ۆامپىيرلەر
-    kk-cyrl: Вампирлер
+    kk_cyrl: Вампирлер
     kk-kz: Вампирлер
-    kk-latn: Vampïrler
+    kk_latn: Vampïrler
     kk-tr: Vampïrler
     ko: 흡혈박쥐아과
     la: Desmodontinae
@@ -135,12 +135,12 @@ dv_has_:
     wuu: 吸血蝠亚科
     yue: 吸血蝠屬
     zh: 吸血蝠亞科
-    zh-cn: 吸血蝠亚科
-    zh-hans: 吸血蝠亚科
-    zh-hant: 吸血蝠亞科
-    zh-hk: 吸血蝠亞科
-    zh-sg: 吸血蝠亚科
-    zh-tw: 吸血蝠亞科
+    zh_cn: 吸血蝠亚科
+    zh_hans: 吸血蝠亚科
+    zh_hant: 吸血蝠亞科
+    zh_hk: 吸血蝠亞科
+    zh_sg: 吸血蝠亚科
+    zh_tw: 吸血蝠亞科
 ---
 # [[Vampire_Bat]] 
 

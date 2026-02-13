@@ -4,7 +4,7 @@ dv_has_:
   name_:
     ar: نظام العد الأحادي
     be: унарная сістэма злічэння
-    be-tarask: унарная сыстэма зьлічэньня
+    be_tarask: унарная сыстэма зьлічэньня
     ca: sistema de numeració unari
     cs: jedničková soustava
     da: unære talsystem
@@ -27,7 +27,7 @@ dv_has_:
     nl: unair talstelsel
     pl: jedynkowy system liczbowy
     pt: sistema de numeração unário
-    pt-br: sistema de numeração unário
+    pt_br: sistema de numeração unário
     ro: sistem de numerație unar
     ru: унарная система счисления
     sk: Jednotková číselná sústava
@@ -40,10 +40,10 @@ dv_has_:
     vi: hệ đơn phân
     yue: 一進制
     zh: 一进制
-    zh-hans: 一进制
-    zh-hant: 一進制
-    zh-hk: 一進制
-    zh-tw: 一進制
+    zh_hans: 一进制
+    zh_hant: 一進制
+    zh_hk: 一進制
+    zh_tw: 一進制
 aliases:
 - egyes számrendszer
 - eniški številski sistem

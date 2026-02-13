@@ -33,7 +33,7 @@ dv_has_:
     oc: Stemmiulidae
     pl: Stemmiulidae
     pt: Stemmiulidae
-    pt-br: Stemmiulidae
+    pt_br: Stemmiulidae
     ro: Stemmiulidae
     ru: Stemmiulidae
     sq: Stemmiulidae
@@ -43,9 +43,9 @@ dv_has_:
     vo: Stemmiulidae
     war: Stemmiulidae
     zh: 冕蛩科
-    zh-cn: 冕蛩科
-    zh-hans: 冕蛩科
-    zh-tw: 斯特馬陸科
+    zh_cn: 冕蛩科
+    zh_hans: 冕蛩科
+    zh_tw: 斯特馬陸科
 ---
 # [[Stemmiulida]] 
 

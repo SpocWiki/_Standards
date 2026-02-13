@@ -108,7 +108,7 @@ dv_has_:
     ba: логарифм
     bcl: logaritmo
     be: лагарыфм
-    be-tarask: лягарытм
+    be_tarask: лягарытм
     bg: логаритъм
     bho: लघुगणक (Logarithm)
     bjn: logaritma
@@ -184,7 +184,7 @@ dv_has_:
     pms: Logaritm
     pnb: لاگرتھم
     pt: logaritmo
-    pt-br: logaritmo
+    pt_br: logaritmo
     ro: logaritm
     ru: логарифм
     sah: логарифм
@@ -200,7 +200,7 @@ dv_has_:
     sn: mhetapawa
     sq: logaritmet
     sr: логаритам
-    sr-ec: логаритам
+    sr_ec: логаритам
     sv: logaritm
     sw: logi
     ta: மடக்கை
@@ -218,7 +218,7 @@ dv_has_:
     yi: לאגאריטם
     yue: 對數
     zh: 對數
-    zh-hans: 对数
+    zh_hans: 对数
 ---
 #has_/inverse :: [[Exponentiation]] 
 #is_/same_as :: [[../../../../WikiData/WD~Logarithm,11197|WD~Logarithm,11197]] 

@@ -73,7 +73,7 @@ dv_has_:
     ast: artefautu esplosivu improvisáu
     az: Əldəqayırma partlayıcı qurğular
     be: самаробная выбухная прылада
-    be-tarask: самаробная выбуховая прылада
+    be_tarask: самаробная выбуховая прылада
     bn: তাৎক্ষণিক উদ্ভাবিত বোমা
     br: Improvised Explosive Device
     ca: artefacte explosiu improvisat
@@ -115,8 +115,8 @@ dv_has_:
     sl: improvizirana eksplozivna naprava
     sq: Pajisja shpërthyese e improvizuar
     sr: импровизовани експлозивни уређај
-    sr-ec: импровизовани експлозивни уређај
-    sr-el: improvizovani eksplozivni uređaj
+    sr_ec: импровизовани експлозивни уређај
+    sr_el: improvizovani eksplozivni uređaj
     sv: improviserade sprängmedel
     ta: கைவினை வெடி குண்டு
     th: ระเบิดแสวงเครื่อง
@@ -126,9 +126,9 @@ dv_has_:
     vi: Thiết bị nổ tự tạo
     yue: 土製炸彈
     zh: 簡易爆炸裝置
-    zh-hans: 简易爆炸装置
-    zh-hant: 簡易爆炸裝置
-    zh-hk: 簡易爆炸裝置
+    zh_hans: 简易爆炸装置
+    zh_hant: 簡易爆炸裝置
+    zh_hk: 簡易爆炸裝置
 ---
 # [[Improvised_explosive_Device]] 
 

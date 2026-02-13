@@ -124,7 +124,7 @@ dv_has_:
     az: Mendeleyevum
     ban: Méndelevium
     be: Мендзялевій
-    be-tarask: Мендзялеў
+    be_tarask: Мендзялеў
     bg: менделевий
     bho: मेंडेलेवियम
     bn: মেন্ডেলেভিয়াম
@@ -142,8 +142,8 @@ dv_has_:
     de: Mendelevium
     el: μεντελέβιο
     en: mendelevium
-    en-ca: Mendelevium
-    en-gb: mendelevium
+    en_ca: Mendelevium
+    en_gb: mendelevium
     eo: mendelevio
     es: mendelevio
     et: mendeleevium
@@ -216,7 +216,7 @@ dv_has_:
     pnb: مینڈلیوئیم
     ps: مندليفيوم
     pt: mendelévio
-    pt-br: mendelévio
+    pt_br: mendelévio
     qu: Mendelewyu
     ro: mendeleviu
     ru: менделевий
@@ -230,7 +230,7 @@ dv_has_:
     sl: mendelevij
     sq: Mendeleviumi
     sr: мендељејевијум
-    sr-ec: мендељејевијум
+    sr_ec: мендељејевијум
     stq: Mendelevium
     sv: mendelevium
     ta: மெண்டலீவியம்
@@ -253,14 +253,14 @@ dv_has_:
     yo: Mẹ̀ndẹ̀lẹ́fíọ̀m
     yue: 鍆
     zh: 钔
-    zh-cn: 钔
-    zh-hans: 钔
-    zh-hant: 鍆
-    zh-hk: 鍆
-    zh-mo: 鍆
+    zh_cn: 钔
+    zh_hans: 钔
+    zh_hant: 鍆
+    zh_hk: 鍆
+    zh_mo: 鍆
     zh-my: 钔
-    zh-sg: 钔
-    zh-tw: 鍆
+    zh_sg: 钔
+    zh_tw: 鍆
     zu: UMendele
   number_of_:
     period: 7

@@ -81,7 +81,7 @@ dv_has_:
     bar: Mahayana
     bcl: Mahayana
     be: Махаяна
-    be-tarask: Магаяна
+    be_tarask: Магаяна
     bg: Махаяна
     bho: महायान
     bn: মহাযান
@@ -164,7 +164,7 @@ dv_has_:
     sl: mahajana
     sq: Mahajana
     sr: Махајана
-    sr-ec: Махајана
+    sr_ec: Махајана
     sv: Mahayana
     ta: மகாயான பௌத்தம்
     te: మహాయానం
@@ -179,7 +179,7 @@ dv_has_:
     wuu: 大乘佛教
     yue: 大乘佛教
     zh: 大乘佛教
-    zh-hant: 大乘佛教
+    zh_hant: 大乘佛教
 ---
 # [[Mahayana]] 
 

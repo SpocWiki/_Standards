@@ -129,7 +129,7 @@ dv_has_:
     az: Kaşalot
     ban: Paus sperma
     be: Кашалот
-    be-tarask: кашалёт
+    be_tarask: кашалёт
     bg: кашалот
     bn: আম্বর মাছ (তিমি)
     br: C'hwezher bras
@@ -194,7 +194,7 @@ dv_has_:
     pl: kaszalot spermacetowy
     pnb: سپرم وہیل
     pt: cachalote
-    pt-br: Cachalote
+    pt_br: Cachalote
     ro: cașalot
     ru: кашалот
     sco: Sperm whaul
@@ -220,10 +220,10 @@ dv_has_:
     wuu: 抹香鲸
     yue: 抹香鯨
     zh: 抹香鲸
-    zh-cn: 抹香鲸
-    zh-hans: 抹香鲸
-    zh-hant: 抹香鯨
-    zh-tw: 抹香鯨
+    zh_cn: 抹香鲸
+    zh_hans: 抹香鲸
+    zh_hant: 抹香鯨
+    zh_tw: 抹香鯨
 ---
 # [[Sperm_Whale]] 
 

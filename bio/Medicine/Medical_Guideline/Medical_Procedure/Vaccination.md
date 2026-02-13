@@ -146,7 +146,7 @@ dv_has_:
     ban: Mesukit
     bcl: Pagbakuna
     be: прышчэпка
-    be-tarask: прышчэпка
+    be_tarask: прышчэпка
     bg: ваксинация
     bjn: Pamaksinan
     bn: টিকাদান
@@ -159,12 +159,12 @@ dv_has_:
     cv: Вакцинаци
     da: vaccination
     de: Impfung
-    de-ch: Impfung
+    de_ch: Impfung
     dty: खोप
     el: εμβολιασμός
     en: vaccination
-    en-ca: vaccination
-    en-gb: vaccination
+    en_ca: vaccination
+    en_gb: vaccination
     eo: vakcinado
     es: vacunación
     et: vaktsineerimine
@@ -192,11 +192,11 @@ dv_has_:
     ka: ვაქცინაცია
     kbp: Ɖatʊ kɔyɛ yaa Sɔbɩtʊ
     kk: Вакцина
-    kk-arab: ۆاكتسىينا
+    kk_arab: ۆاكتسىينا
     kk-cn: ۆاكتسىينا
-    kk-cyrl: Вакцина
+    kk_cyrl: Вакцина
     kk-kz: Вакцина
-    kk-latn: Vakcïna
+    kk_latn: Vakcïna
     kk-tr: Vakcïna
     kn: ವ್ಯಾಕ್ಸಿನೇಷನ್
     ko: 예방접종
@@ -225,7 +225,7 @@ dv_has_:
     pa: ਟੀਕਾਕਰਣ
     pl: szczepienie ochronne
     pt: vacinação
-    pt-br: vacinação
+    pt_br: vacinação
     ro: vaccinare
     ru: вакцинация
     rue: Вакцинация
@@ -255,12 +255,12 @@ dv_has_:
     wuu: 疫苗接种
     yue: 接種
     zh: 疫苗接種
-    zh-cn: 疫苗接种
-    zh-hans: 疫苗接种
-    zh-hant: 疫苗接種
-    zh-hk: 疫苗接種
-    zh-sg: 疫苗接种
-    zh-tw: 疫苗接種
+    zh_cn: 疫苗接种
+    zh_hans: 疫苗接种
+    zh_hant: 疫苗接種
+    zh_hk: 疫苗接種
+    zh_sg: 疫苗接种
+    zh_tw: 疫苗接種
 ---
 # [[Vaccination]] 
 

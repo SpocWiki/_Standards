@@ -74,7 +74,7 @@ dv_has_:
     ar: خيانة
     ba: Хыянат
     be: здрада
-    be-tarask: здрада
+    be_tarask: здрада
     bg: Предателство
     br: treitouriezh
     bs: izdaja

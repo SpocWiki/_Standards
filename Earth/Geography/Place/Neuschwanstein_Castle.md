@@ -153,7 +153,7 @@ dv_has_:
     ba: Нойшванштайн
     bar: Schloss Neischwanstoa
     be: Нойшванштайн
-    be-tarask: Нойшванштайн
+    be_tarask: Нойшванштайн
     bg: Нойшванщайн
     br: Kastell Neuschwanstein
     bs: Neuschwanstein
@@ -165,10 +165,10 @@ dv_has_:
     cy: Castell Neuschwanstein
     da: Neuschwanstein
     de: Schloss Neuschwanstein
-    de-ch: Schloss Neuschwanstein
+    de_ch: Schloss Neuschwanstein
     el: Κάστρο Νόισβανσταϊν
     en: Neuschwanstein Castle
-    en-ca: Neuschwanstein Castle
+    en_ca: Neuschwanstein Castle
     eo: Neuschwanstein
     es: Neuschwanstein
     et: Neuschwansteini loss
@@ -204,13 +204,13 @@ dv_has_:
     mul: Neuschwanstein
     nan: Neuschwanstein Siâⁿ-pó
     nb: Neuschwanstein
-    nds-nl: Neuschwanstein
+    nds_nl: Neuschwanstein
     nl: Slot Neuschwanstein
     nn: Neuschwanstein
     pl: Neuschwanstein
     pnb: نیوشوانسٹائن
     pt: Castelo de Neuschwanstein
-    pt-br: Castelo de Neuschwanstein
+    pt_br: Castelo de Neuschwanstein
     ro: Castelul Neuschwanstein
     ru: Нойшванштайн
     sco: Neuschwanstein Castle
@@ -219,7 +219,7 @@ dv_has_:
     sk: Neuschwanstein
     sl: grad Neuschwanstein
     sr: Нојшванштајн
-    sr-ec: Нојшванштајн
+    sr_ec: Нојшванштајн
     sv: Neuschwanstein
     ta: நோஸ்வான்ஸ்டைய்ன் கோட்டைமனை
     th: ปราสาทน็อยชวานชไตน์
@@ -233,9 +233,9 @@ dv_has_:
     yue: 新天鵝堡
     zea: Neuschwanstein
     zh: 新天鹅堡
-    zh-cn: 新天鹅堡
-    zh-hans: 新天鹅堡
-    zh-hant: 新天鹅堡
+    zh_cn: 新天鹅堡
+    zh_hans: 新天鹅堡
+    zh_hant: 新天鹅堡
 ---
 # [[Neuschwanstein_Castle]] 
 

@@ -90,7 +90,7 @@ dv_has_:
     az: radiologiya
     azb: رادیولوژی
     be: рэнтгеналогія
-    be-tarask: радыялёгія
+    be_tarask: радыялёгія
     bg: радиология
     bn: রঞ্জনবিদ্যা
     bpy: রঞ্জনবিদ্যা
@@ -102,11 +102,11 @@ dv_has_:
     cy: radioleg
     da: radiologi
     de: Radiologie
-    de-ch: Radiologie
+    de_ch: Radiologie
     el: Ακτινολογία
     en: radiology
-    en-ca: radiology
-    en-gb: radiology
+    en_ca: radiology
+    en_gb: radiology
     eo: radiologio
     es: radiología
     et: radioloogia
@@ -130,7 +130,7 @@ dv_has_:
     jv: radhiologi
     ka: რადიოლოგია
     kk: Радиология
-    kk-cyrl: радиология
+    kk_cyrl: радиология
     kn: ವಿಕಿರಣಶಾಸ್ತ್ರ
     ko: 영상의학
     ks: ریڈیالجی
@@ -151,7 +151,7 @@ dv_has_:
     pl: radiologia
     ps: وړانگپوهنه
     pt: radiologia
-    pt-br: radiologia
+    pt_br: radiologia
     ro: radiologie
     ru: радиология
     se: rádiologiija
@@ -162,8 +162,8 @@ dv_has_:
     sms: radiologia
     sq: radiologjia
     sr: радиологија
-    sr-ec: радиологија
-    sr-el: radiologija
+    sr_ec: радиологија
+    sr_el: radiologija
     sv: radiologi
     sw: Radiolojia
     ta: ஊடுகதிரியல்
@@ -179,8 +179,8 @@ dv_has_:
     xmf: რადიოლოგია
     yue: 放射科
     zh: 影像诊断学
-    zh-hans: 影像诊断学
-    zh-hant: 影像診斷學
+    zh_hans: 影像诊断学
+    zh_hant: 影像診斷學
 ---
 # [[Radiology]] 
 

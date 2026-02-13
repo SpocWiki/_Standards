@@ -81,7 +81,7 @@ dv_has_:
     ar: مبرهنة الألوان الأربعة
     ast: teorema de los cuatro colores
     az: dörd boya problemi
-    be-tarask: тэарэма аб чатырох фарбах
+    be_tarask: тэарэма аб чатырох фарбах
     bg: задача за четирите цвята
     bn: চার বর্ণ উপপাদ্য
     ca: Teorema dels quatre colors
@@ -90,11 +90,11 @@ dv_has_:
     cy: pôs y pedwar lliw
     da: firfarveproblemet
     de: Vier-Farben-Satz
-    de-ch: Vier-Farben-Satz
+    de_ch: Vier-Farben-Satz
     el: Θεώρημα των τεσσάρων χρωμάτων
     en: four color theorem
-    en-ca: four colour theorem
-    en-gb: four colour theorem
+    en_ca: four colour theorem
+    en_gb: four colour theorem
     eo: kvarkolormapa teoremo
     es: teorema de los cuatro colores
     et: Neljavärviprobleem
@@ -124,7 +124,7 @@ dv_has_:
     pl: twierdzenie o czterech barwach
     pms: Teorema dij quatr color
     pt: teorema das quatro cores
-    pt-br: teorema das quatro cores
+    pt_br: teorema das quatro cores
     ro: Teorema celor patru culori
     ru: проблема четырёх красок
     scn: Tiurema dî quattru culura
@@ -141,12 +141,12 @@ dv_has_:
     wuu: 四色定理
     yue: 四色定理
     zh: 四色定理
-    zh-cn: 四色定理
-    zh-hans: 四色定理
-    zh-hant: 四色定理
-    zh-hk: 四色定理
-    zh-sg: 四色定理
-    zh-tw: 四色定理
+    zh_cn: 四色定理
+    zh_hans: 四色定理
+    zh_hant: 四色定理
+    zh_hk: 四色定理
+    zh_sg: 四色定理
+    zh_tw: 四色定理
 ---
 # [[Four_Color_Theorem]] 
 

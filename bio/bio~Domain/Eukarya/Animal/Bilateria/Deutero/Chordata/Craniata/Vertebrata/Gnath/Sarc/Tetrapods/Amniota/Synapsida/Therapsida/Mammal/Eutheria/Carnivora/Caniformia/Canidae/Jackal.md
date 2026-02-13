@@ -8,7 +8,7 @@ dv_has_:
     ast: Chacal
     az: Çaqqal
     azb: چاقال
-    be-tarask: шакал
+    be_tarask: шакал
     bg: чакал
     bn: শিয়াল
     bo: འཕར་བ།
@@ -20,12 +20,12 @@ dv_has_:
     cv: шакал
     da: Sjakal
     de: Schakal
-    de-ch: Schakal
+    de_ch: Schakal
     el: Τσακάλι
     eml: Siacàl
     en: jackal
-    en-ca: Jackal
-    en-gb: jackal
+    en_ca: Jackal
+    en_gb: jackal
     en-us: jackal
     eo: ŝakalo
     es: chacal
@@ -53,8 +53,8 @@ dv_has_:
     ko: 자칼
     ks: شال
     ku: Wawik
-    ku-arab: واوک
-    ku-latn: Wawik
+    ku_arab: واوک
+    ku_latn: Wawik
     la: Thos
     lez: Лелевар
     lfn: Xacal
@@ -79,7 +79,7 @@ dv_has_:
     pnb: گدڑ
     ps: سورلنډی
     pt: chacal
-    pt-br: Chacal
+    pt_br: Chacal
     ro: Șacal
     ru: шакал
     sco: jackal
@@ -90,8 +90,8 @@ dv_has_:
     smn: šaakaal
     sq: Çakalli
     sr: шакал
-    sr-ec: шакал
-    sr-el: šakal
+    sr_ec: шакал
+    sr_el: šakal
     sv: schakaler
     sw: Bweha
     ta: குள்ள நரி
@@ -109,12 +109,12 @@ dv_has_:
     yi: שאקאל
     yue: 胡狼
     zh: 胡狼
-    zh-cn: 胡狼
-    zh-hans: 胡狼
-    zh-hant: 胡狼
-    zh-hk: 胡狼
-    zh-sg: 胡狼
-    zh-tw: 胡狼
+    zh_cn: 胡狼
+    zh_hans: 胡狼
+    zh_hant: 胡狼
+    zh_hk: 胡狼
+    zh_sg: 胡狼
+    zh_tw: 胡狼
 aliases:
 - Aourgi
 - Bweha

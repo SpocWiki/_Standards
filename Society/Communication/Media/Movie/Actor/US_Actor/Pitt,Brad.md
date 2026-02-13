@@ -63,7 +63,7 @@ dv_has_:
     ban: Brad Pitt
     bar: Brad Pitt
     be: Брэд Піт
-    be-tarask: Брэд Піт
+    be_tarask: Брэд Піт
     bg: Брад Пит
     bn: ব্র্যাড পিট
     bo: པ་རའི་པི་ཏ།
@@ -77,15 +77,15 @@ dv_has_:
     cy: Brad Pitt
     da: Brad Pitt
     de: Brad Pitt
-    de-ch: Brad Pitt
+    de_ch: Brad Pitt
     diq: Brad Pitt
     dty: ब्राड पिट
     ee: Brad Pitt
     el: Μπραντ Πιτ
     eml: Brad Pitt
     en: Brad Pitt
-    en-ca: Brad Pitt
-    en-gb: Brad Pitt
+    en_ca: Brad Pitt
+    en_gb: Brad Pitt
     en-us: Brad Pitt
     eo: Brad Pitt
     es: Brad Pitt
@@ -160,7 +160,7 @@ dv_has_:
     pms: Brad Pitt
     ps: براډ پېت
     pt: Brad Pitt
-    pt-br: Brad Pitt
+    pt_br: Brad Pitt
     qu: Brad Pitt
     ro: Brad Pitt
     ru: Брэд Питт
@@ -196,13 +196,13 @@ dv_has_:
     yo: Brad Pitt
     yue: 畢彼特
     zh: 布拉德·皮特
-    zh-cn: 布拉德·皮特
-    zh-hans: 布拉德·皮特
-    zh-hant: 布拉德·皮特
-    zh-hk: 畢彼特
+    zh_cn: 布拉德·皮特
+    zh_hans: 布拉德·皮特
+    zh_hant: 布拉德·皮特
+    zh_hk: 畢彼特
     zh-my: 毕·彼特
-    zh-sg: 布莱德·毕特
-    zh-tw: 布萊德·彼特
+    zh_sg: 布莱德·毕特
+    zh_tw: 布萊德·彼特
 ---
 #has_/time_/started :: 1963-12-18 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

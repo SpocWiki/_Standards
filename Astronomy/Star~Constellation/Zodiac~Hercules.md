@@ -113,7 +113,7 @@ dv_has_:
     az: Herkules
     ba: Геркулес
     be: Геркулес
-    be-tarask: Гэркулес
+    be_tarask: Гэркулес
     bg: Херкулес
     bn: হারকিউলিস মণ্ডল
     br: Harkul

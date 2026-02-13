@@ -11,7 +11,7 @@ dv_has_:
     ba: хәлифәлек
     bcl: Kalipato
     be: Халіфат
-    be-tarask: халіфат
+    be_tarask: халіфат
     bg: Халифат
     bn: খিলাফত
     br: Kalifad
@@ -25,8 +25,8 @@ dv_has_:
     diq: Xilafet
     el: Χαλιφάτο
     en: caliphate
-    en-ca: Caliphate
-    en-gb: Caliphate
+    en_ca: Caliphate
+    en_gb: Caliphate
     eo: kaliflando
     es: califato
     et: Kalifaat
@@ -56,11 +56,11 @@ dv_has_:
     kaa: xalifalıq
     kab: Taxalaft
     kk: Халифат
-    kk-arab: حالىيفات
+    kk_arab: حالىيفات
     kk-cn: حالىيفات
-    kk-cyrl: Халифат
+    kk_cyrl: Халифат
     kk-kz: Халифат
-    kk-latn: Xalïfat
+    kk_latn: Xalïfat
     kk-tr: Xalïfat
     ko: 칼리파국
     ku: Xelîfetî
@@ -84,7 +84,7 @@ dv_has_:
     pnb: خلافت
     ps: خلافت
     pt: califado
-    pt-br: Califado
+    pt_br: Califado
     ro: califat
     ru: халифат
     scn: Califfatu
@@ -96,12 +96,12 @@ dv_has_:
     so: Khilaafada Islaamka
     sq: Kalifati
     sr: калифат
-    sr-ec: калифат
-    sr-el: kalifat
+    sr_ec: калифат
+    sr_el: kalifat
     sv: kalifat
     ta: கலீபகம்
     tg: Хилофат
-    tg-latn: Xilofat
+    tg_latn: Xilofat
     th: รัฐเคาะลีฟะฮ์
     tl: Kalipato
     tr: halifelik
@@ -115,12 +115,12 @@ dv_has_:
     yi: כאליפאט
     yue: 哈里發國
     zh: 哈里發國
-    zh-cn: 哈里发国
-    zh-hans: 哈里发国
-    zh-hant: 哈里發國
-    zh-hk: 哈里發國
-    zh-sg: 哈里发国
-    zh-tw: 哈里發國
+    zh_cn: 哈里发国
+    zh_hans: 哈里发国
+    zh_hant: 哈里發國
+    zh_hk: 哈里發國
+    zh_sg: 哈里发国
+    zh_tw: 哈里發國
 aliases:
 - Arabų Kalifatas
 - cailifeacht

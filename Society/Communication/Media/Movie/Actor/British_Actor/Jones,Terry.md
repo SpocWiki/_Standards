@@ -50,21 +50,21 @@ dv_has_:
     br: Terry Jones
     bto: Terry Jones
     ca: Terry Jones
-    cbk-zam: Terry Jones
+    cbk_zam: Terry Jones
     ceb: Terry Jones
     ch: Terry Jones
     cho: Terry Jones
     chy: Terry Jones
     co: Terry Jones
     cps: Terry Jones
-    crh-latn: Terry Jones
+    crh_latn: Terry Jones
     cs: Terry Jones
     csb: Terry Jones
     cy: Terry Jones
     da: Terry Jones
     de: Terry Jones
     de-at: Terry Jones
-    de-ch: Terry Jones (Komiker)
+    de_ch: Terry Jones (Komiker)
     din: Terry Jones
     dsb: Terry Jones
     dtp: Terry Jones
@@ -73,8 +73,8 @@ dv_has_:
     el: Τέρι Τζόουνς
     eml: Terry Jones
     en: Terry Jones
-    en-ca: Terry Jones
-    en-gb: Terry Jones
+    en_ca: Terry Jones
+    en_gb: Terry Jones
     eo: Terry Jones
     es: Terry Jones
     et: Terry Jones
@@ -134,7 +134,7 @@ dv_has_:
     kg: Terry Jones
     ki: Terry Jones
     kj: Terry Jones
-    kk-latn: Terry Jones
+    kk_latn: Terry Jones
     kl: Terry Jones
     ko: 테리 존스
     kri: Terry Jones
@@ -153,7 +153,7 @@ dv_has_:
     ln: Terry Jones
     lt: Terry Jones
     lv: Terry Jones
-    map-bms: Terry Jones
+    map_bms: Terry Jones
     mg: Terry Jones
     mh: Terry Jones
     mi: Terry Jones
@@ -169,7 +169,7 @@ dv_has_:
     nap: Terry Jones
     nb: Terry Jones
     nds: Terry Jones
-    nds-nl: Terry Jones
+    nds_nl: Terry Jones
     ng: Terry Jones
     niu: Terry Jones
     nl: Terry Jones
@@ -194,7 +194,7 @@ dv_has_:
     pms: Terry Jones
     prg: Terry Jones
     pt: Terry Jones
-    pt-br: Terry Jones
+    pt_br: Terry Jones
     qu: Terry Jones
     qug: Terry Jones
     rgn: Terry Jones
@@ -259,7 +259,7 @@ dv_has_:
     yo: Terry Jones
     zea: Terry Jones
     zh: 特里·瓊斯
-    zh-tw: 泰瑞•瓊斯
+    zh_tw: 泰瑞•瓊斯
     zu: Terry Jones
 ---
 # [[Jones,Terry]] 

@@ -133,7 +133,7 @@ dv_has_:
     az: Maorilər
     ban: Anak Māori
     be: Маары
-    be-tarask: маоры
+    be_tarask: маоры
     bew: Orang Maori
     bg: Маори
     bn: মাওরি জাতি
@@ -171,7 +171,7 @@ dv_has_:
     ka: მაორი
     kge: Jolma Maori
     kk: Маори
-    kk-cyrl: маориялер
+    kk_cyrl: маориялер
     ko: 마오리족
     ky: Маорилер
     la: Maoriani
@@ -227,8 +227,8 @@ dv_has_:
     yue: 毛利人
     zea: Māori
     zh: 毛利人
-    zh-hant: 毛利人
-    zh-tw: 毛利人
+    zh_hant: 毛利人
+    zh_tw: 毛利人
 ---
 # [[Māori_People]] 
 

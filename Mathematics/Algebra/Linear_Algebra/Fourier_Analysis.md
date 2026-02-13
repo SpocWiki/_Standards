@@ -65,7 +65,7 @@ dv_has_:
   name_:
     ar: تحليل فورييه
     ba: Фурье анализы
-    be-tarask: аналіз Фур’е
+    be_tarask: аналіз Фур’е
     bg: Фурие анализ
     bn: ফুরিয়ার বিশ্লেষণ
     ca: anàlisi de Fourier
@@ -94,13 +94,13 @@ dv_has_:
     nl: Fourieranalyse
     pl: analiza Fouriera
     pt: análise de Fourier
-    pt-br: análise de Fourier
+    pt_br: análise de Fourier
     ro: analiză Fourier
     ru: анализ Фурье
     sl: Fourierova analiza
     sr: Фуријеова анализа
-    sr-ec: Фуријеова анализа
-    sr-el: Furijeova analiza
+    sr_ec: Фуријеова анализа
+    sr_el: Furijeova analiza
     su: Analisis Fourier
     sv: Fourieranalys
     tr: Fourier analizi
@@ -108,10 +108,10 @@ dv_has_:
     vi: Giải tích Fourier
     yue: 傅利耶分析
     zh: 傅里叶分析
-    zh-hans: 傅里叶分析
-    zh-hant: 傅立葉分析
-    zh-hk: 傅里葉分析
-    zh-tw: 傅立葉分析
+    zh_hans: 傅里叶分析
+    zh_hant: 傅立葉分析
+    zh_hk: 傅里葉分析
+    zh_tw: 傅立葉分析
 ---
 # [[Fourier_Analysis]] 
 

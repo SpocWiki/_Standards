@@ -55,7 +55,7 @@ dv_has_:
     oc: Parastacidae
     pl: Parastacidae
     pt: Parastacidae
-    pt-br: Parastacidae
+    pt_br: Parastacidae
     ro: Parastacidae
     ru: Parastacidae
     sl: Parastacidae
@@ -68,9 +68,9 @@ dv_has_:
     vo: Parastacidae
     war: Parastacidae
     zh: 副蝲蛄科
-    zh-cn: 副蝲蛄科
-    zh-hans: 拟螯虾科
-    zh-tw: 副蝲蛄科
+    zh_cn: 副蝲蛄科
+    zh_hans: 拟螯虾科
+    zh_tw: 副蝲蛄科
 ---
 ## [[Parastacoidea]] 
 

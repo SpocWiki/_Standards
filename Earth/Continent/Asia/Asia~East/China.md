@@ -65,7 +65,7 @@ dv_has_:
     ab: Китаи
     ace: Rèpublik Rakyat Cina
     ady: Китай
-    aeb-arab: الصين
+    aeb_arab: الصين
     af: Volksrepubliek China
     am: የቻይና ሕዝባዊ ሪፐብሊክ
     ami: China
@@ -91,7 +91,7 @@ dv_has_:
     bbc: Sina
     bcl: Republikang Popular kan Tsina
     be: Кітай
-    be-tarask: Кітайская народная рэспубліка
+    be_tarask: Кітайская народная рэспубліка
     bew: Tiongkok
     bg: Китай
     bgn: چین
@@ -110,7 +110,7 @@ dv_has_:
     bug: ᨌᨗᨊ
     bxr: Хитад Улас
     ca: República Popular de la Xina
-    cbk-zam: China
+    cbk_zam: China
     cdo: Dṳ̆ng-huà Ìng-mìng Gê̤ṳng-huò-guók
     ce: Цийн Халкъан Республика
     ceb: Republikang Popular sa Tsina
@@ -120,7 +120,7 @@ dv_has_:
     ckb: چین
     co: China
     crh: Çin Halq Cumhuriyeti
-    crh-latn: Çin Halq Cumhuriyeti
+    crh_latn: Çin Halq Cumhuriyeti
     crh-ro: Kîtay Kalk Ğumhuriyetí
     cs: Čína
     csb: Chińskô Lëdowô Repùblika
@@ -131,7 +131,7 @@ dv_has_:
     dag: China
     de: Volksrepublik China
     de-at: Volksrepublik China
-    de-ch: Volksrepublik China
+    de_ch: Volksrepublik China
     dga: China
     din: Caina
     diq: Cumhuriyetê Şariê Çini
@@ -144,8 +144,8 @@ dv_has_:
     el: Λαϊκή Δημοκρατία της Κίνας
     eml: Cina
     en: People's Republic of China
-    en-ca: China
-    en-gb: China
+    en_ca: China
+    en_gb: China
     en-us: China
     eo: Ĉinio
     es: República Popular China
@@ -217,7 +217,7 @@ dv_has_:
     kge: Cina
     ki: China
     kk: Қытай Халық Республикасы
-    kk-latn: Qytai Halyq Respublikasy
+    kk_latn: Qytai Halyq Respublikasy
     kl: Kina
     km: ប្រទេសចិន
     kn: ಚೀನಿ ಗಣರಾಜ್ಯ
@@ -251,7 +251,7 @@ dv_has_:
     lzh: 中華人民共和國
     mad: Tiongkok
     mai: चीन
-    map-bms: Republik Rakyat Cina
+    map_bms: Republik Rakyat Cina
     mdf: Китай
     mg: Repoblika Entim-bahoakan'i Sina
     mhr: Китай
@@ -264,7 +264,7 @@ dv_has_:
     mos: China
     mr: चीन
     ms: Republik Rakyat China
-    ms-arab: ريڤوبليک رعيت چينا
+    ms_arab: ريڤوبليک رعيت چينا
     mt: Repubblika tal-Poplu taċ-Ċina
     mwl: República Popular de la China
     my: တရုတ်ပြည်သူ့သမ္မတနိုင်ငံ
@@ -280,7 +280,7 @@ dv_has_:
     nap: Cina
     nb: Kina
     nds: Volksrepubliek China
-    nds-nl: Volksrippebliek China
+    nds_nl: Volksrippebliek China
     ne: जनवादी गणतन्त्र चीन
     new: चीन
     nia: Sina
@@ -311,7 +311,7 @@ dv_has_:
     pnt: Κίνα
     ps: چين
     pt: China
-    pt-br: República Popular da China
+    pt_br: República Popular da China
     pwn: Tailiku
     qu: Chunwa Runallaqta Republika
     rm: Republica populara da la China
@@ -347,8 +347,8 @@ dv_has_:
     so: Shiinaha
     sq: Kina
     sr: Кина
-    sr-ec: Кина
-    sr-el: Kina
+    sr_ec: Кина
+    sr_el: Kina
     srn: Sneysa
     ss: IShayina
     st: Tjhaena
@@ -366,7 +366,7 @@ dv_has_:
     te: చైనా
     tet: Xina
     tg: Ҷумҳурии Халқи Чин
-    tg-cyrl: Ҷумҳурии Халқии Чин
+    tg_cyrl: Ҷумҳурии Халқии Чин
     th: ประเทศจีน
     ti: ህዝባዊት ሪፓብሊክ ቻይና
     tk: Hytaý Halk Respublikasy
@@ -380,8 +380,8 @@ dv_has_:
     trv: China
     ts: China
     tt: Кытай
-    tt-cyrl: Кытай
-    tt-latn: Qıtay
+    tt_cyrl: Кытай
+    tt_latn: Qıtay
     tum: China
     tw: China
     ty: Tinitō
@@ -412,14 +412,14 @@ dv_has_:
     zea: Volksrepubliek China
     zgh: ⵛⵛⵉⵏⵡⴰ
     zh: 中华人民共和国
-    zh-cn: 中华人民共和国
-    zh-hans: 中华人民共和国
-    zh-hant: 中華人民共和國
-    zh-hk: 中華人民共和國
-    zh-mo: 中華人民共和國
+    zh_cn: 中华人民共和国
+    zh_hans: 中华人民共和国
+    zh_hant: 中華人民共和國
+    zh_hk: 中華人民共和國
+    zh_mo: 中華人民共和國
     zh-my: 中华人民共和国
-    zh-sg: 中华人民共和国
-    zh-tw: 中華人民共和國
+    zh_sg: 中华人民共和国
+    zh_tw: 中華人民共和國
     zu: IShayina
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-China

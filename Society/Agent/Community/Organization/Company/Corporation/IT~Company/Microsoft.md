@@ -1299,7 +1299,7 @@ dv_has_:
     as: মাইক্ৰ’ছফ্ট
     ay: Godsoft
     azb: مایکروسافت
-    be-tarask: Майкрасофт
+    be_tarask: Майкрасофт
     bew: Mikrosop
     bg: Майкрософт
     bho: माइक्रोसाफ्ट
@@ -1333,10 +1333,10 @@ dv_has_:
     lo: ໄມໂຄຼຊອຟທ໌
     lzh: 微軟
     mai: माइक्रोसफ्ट
-    map-bms: Microsoft Corporation
+    map_bms: Microsoft Corporation
     ml: മൈക്രോസോഫ്റ്റ്
     mr: मायक्रोसॉफ्ट कॉर्पोरेशन
-    ms-arab: مايکروسوفﺕ
+    ms_arab: مايکروسوفﺕ
     mul: Microsoft
     my: မိုက်ခရိုဆော့ဖ်
     mzn: ماکروسافت
@@ -1348,7 +1348,7 @@ dv_has_:
     pnb: مائیکروسوفٹ
     ps: مايکروسافټ
     pt: Microsoft
-    pt-br: Microsoft
+    pt_br: Microsoft
     rue: Microsoft Corporation
     sa: माइक्रोसाफ्ट्
     sat: ᱢᱟᱭᱠᱨᱚᱥᱚᱯᱴ
@@ -1362,7 +1362,7 @@ dv_has_:
     syl: ꠝꠣꠁꠇꠍꠚ
     ta: மைக்ரோசாப்ட்
     te: మైక్రోసాఫ్ట్
-    tg-cyrl: Майкрософт
+    tg_cyrl: Майкрософт
     th: ไมโครซอฟท์
     tok: kulupu Makosa
     ug: مىكروسوفىت شىركىتى
@@ -1372,14 +1372,14 @@ dv_has_:
     yi: מייקראסאפט
     yue: 微軟
     zh: 微軟
-    zh-cn: 微软
-    zh-hans: 微软
-    zh-hant: 微軟
-    zh-hk: 微軟
-    zh-mo: 微軟
+    zh_cn: 微软
+    zh_hans: 微软
+    zh_hant: 微軟
+    zh_hk: 微軟
+    zh_mo: 微軟
     zh-my: 微软
-    zh-sg: 微软
-    zh-tw: 微軟
+    zh_sg: 微软
+    zh_tw: 微軟
 ---
 # [[Microsoft]] 
 

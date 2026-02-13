@@ -86,7 +86,7 @@ dv_has_:
     az: Aralıq dənizi İttifaqı
     ba: Урта диңгеҙ буйы өсөн союз
     be: Саюз для Міжземнамор'я
-    be-tarask: Міжземнаморскі зьвяз
+    be_tarask: Міжземнаморскі зьвяз
     bg: Средиземноморски съюз
     bs: Mediteranska unija
     ca: Unió per la Mediterrània
@@ -127,8 +127,8 @@ dv_has_:
     so: Unionka Mediterraneanka
     sq: Bashkimi për Mesdheun
     sr: Унија за Медитеран
-    sr-ec: Унија за Медитеран
-    sr-el: Unija za Mediteran
+    sr_ec: Унија за Медитеран
+    sr_el: Unija za Mediteran
     sv: Medelhavsunionen
     sw: UFM
     tr: Akdeniz için Birlik
@@ -138,12 +138,12 @@ dv_has_:
     vi: Liên minh Địa Trung Hải
     yi: פארבאנד פאר די מיטלענדישע לענדער
     zh: 地中海聯盟
-    zh-cn: 地中海联盟
-    zh-hans: 地中海联盟
-    zh-hant: 地中海聯盟
-    zh-hk: 地中海聯盟
-    zh-sg: 地中海联盟
-    zh-tw: 地中海聯盟
+    zh_cn: 地中海联盟
+    zh_hans: 地中海联盟
+    zh_hant: 地中海聯盟
+    zh_hk: 地中海聯盟
+    zh_sg: 地中海联盟
+    zh_tw: 地中海聯盟
 ---
 # [[Union_for_the_Mediterranean]] 
 

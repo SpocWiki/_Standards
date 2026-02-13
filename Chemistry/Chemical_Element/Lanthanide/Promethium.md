@@ -147,7 +147,7 @@ dv_has_:
     ba: Прометий
     ban: Prométhium
     be: Праметый
-    be-tarask: Прамэт
+    be_tarask: Прамэт
     bg: прометий
     bho: प्रोमेथियम
     bn: প্রমিথিয়াম
@@ -165,7 +165,7 @@ dv_has_:
     de: Promethium
     el: προμήθειο
     en: promethium
-    en-gb: promethium
+    en_gb: promethium
     eo: prometiumo
     es: prometio
     et: Promeetium
@@ -241,7 +241,7 @@ dv_has_:
     pnb: پرومتھیم
     ps: پروميتيوم
     pt: promécio
-    pt-br: promécio
+    pt_br: promécio
     qu: Prometyu
     ro: promețiu
     ru: прометий
@@ -255,7 +255,7 @@ dv_has_:
     sl: prometij
     sq: Prometiumi
     sr: прометијум
-    sr-ec: Прометијум
+    sr_ec: Прометијум
     stq: Promethium
     sv: prometium
     sw: Promethi
@@ -279,10 +279,10 @@ dv_has_:
     yo: Promethium
     yue: 鉕
     zh: 鉕
-    zh-cn: 钷
-    zh-hans: 钷
-    zh-hant: 鉕
-    zh-tw: 鉕
+    zh_cn: 钷
+    zh_hans: 钷
+    zh_hant: 鉕
+    zh_tw: 鉕
     zu: UmPhomethimbi
   number_of_:
     period: 6

@@ -103,7 +103,7 @@ dv_has_:
   name_:
     ar: إسقاط مركاتور
     ast: proyeición de Mercator
-    be-tarask: праекцыя Мэркатара
+    be_tarask: праекцыя Мэркатара
     bg: Меркаторова проекция
     bn: মারকেটর অভিক্ষেপ
     ca: Projecció de Mercator
@@ -146,8 +146,8 @@ dv_has_:
     sh: Mercatorova projekcija
     sl: Mercatorjeva projekcija
     sr: Меркаторова пројекција
-    sr-ec: Меркаторова пројекција
-    sr-el: Merkatorova projekcija
+    sr_ec: Меркаторова пројекција
+    sr_el: Merkatorova projekcija
     sv: Mercators projektion
     ta: மெர்காதோர் வீழல்
     th: เส้นโครงแผนที่แบบเมอร์เคเตอร์
@@ -157,12 +157,12 @@ dv_has_:
     vi: phép chiếu Mercator
     yue: 麥卡托投影法
     zh: 麥卡托投影法
-    zh-cn: 麦卡托投影法
-    zh-hans: 麦卡托投影法
-    zh-hant: 麥卡托投影法
-    zh-hk: 麥卡托投影法
-    zh-sg: 麦卡托投影法
-    zh-tw: 麥卡托投影法
+    zh_cn: 麦卡托投影法
+    zh_hans: 麦卡托投影法
+    zh_hant: 麥卡托投影法
+    zh_hk: 麥卡托投影法
+    zh_sg: 麦卡托投影法
+    zh_tw: 麥卡托投影法
 ---
 # [[Mercator_Projection]] 
 

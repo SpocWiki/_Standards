@@ -72,7 +72,7 @@ dv_has_:
     ba: Симон Боливар
     bcl: Simon Bolivar
     be: Сімон Балівар
-    be-tarask: Сымон Балівар
+    be_tarask: Сымон Балівар
     bew: Simón Bolívar
     bg: Симон Боливар
     bn: সিমোন বোলিভার
@@ -84,7 +84,7 @@ dv_has_:
     ceb: Simón Bolívar
     ckb: سیمۆن بۆلیڤار
     crh: Simon Bolivar
-    crh-latn: Simon Bolivar
+    crh_latn: Simon Bolivar
     cs: Simón Bolívar
     cv: Симон Боливар
     cy: Simón Bolívar
@@ -92,8 +92,8 @@ dv_has_:
     de: Simón Bolívar
     el: Σιμόν Μπολίβαρ
     en: Simón Bolívar
-    en-ca: Simón Bolívar
-    en-gb: Simón Bolívar
+    en_ca: Simón Bolívar
+    en_gb: Simón Bolívar
     en-us: Simón Bolívar
     eo: Simón Bolívar
     es: Simón Bolívar
@@ -213,7 +213,7 @@ dv_has_:
     yo: Simón Bolívar
     yue: 斯文玻利華
     zh: 西蒙·玻利瓦尔
-    zh-hk: 施蒙·玻利華
+    zh_hk: 施蒙·玻利華
 ---
 ## #has_/text_of_/abstract 
 

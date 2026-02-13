@@ -192,7 +192,7 @@ dv_has_:
     ast: Trestornu por estrés postraumáticu
     az: Posttravmatik stress pozuntusu
     azb: تراماتیک سوراکی ایسترس پوزولماسی
-    be-tarask: посттраўматычны стрэсавы разлад
+    be_tarask: посттраўматычны стрэсавы разлад
     bg: Посттравматичен стрес
     bn: আঘাত পরবর্তী চাপজনিত ব্যাধি
     bs: Posttraumatski stresni poremećaj
@@ -203,7 +203,7 @@ dv_has_:
     de: Posttraumatische Belastungsstörung
     el: διαταραχή μετατραυματικού στρες
     en: post-traumatic stress disorder
-    en-gb: post-traumatic stress disorder
+    en_gb: post-traumatic stress disorder
     eo: posttraŭmata streĉa obstrukco
     es: trastorno por estrés postraumático
     et: posttraumaatiline stressihäire
@@ -228,8 +228,8 @@ dv_has_:
     ka: პოსტტრავმული სტრესული აშლილობა
     ko: 외상 후 스트레스 장애
     ku: Nexweşiya Zexta Piştî Trawmayê
-    ku-arab: نەخوەشیا زەختا پشتی تراومایێ
-    ku-latn: Nexweşiya Zexta Piştî Trawmayê
+    ku_arab: نەخوەشیا زەختا پشتی تراومایێ
+    ku_latn: Nexweşiya Zexta Piştî Trawmayê
     lfn: Angusa pos trauma
     ln: Depression ǒ sima ya bokási
     lt: potrauminio streso sindromas
@@ -246,7 +246,7 @@ dv_has_:
     pl: zespół stresu pourazowego
     pnb: مابعد صدمہ تناؤ دی بدنظمی
     pt: perturbação de stresse pós-traumático
-    pt-br: transtorno de estresse pós-traumático
+    pt_br: transtorno de estresse pós-traumático
     rn: Guhahamuka
     ro: tulburare de stres posttraumatic
     ru: посттравматическое стрессовое расстройство
@@ -258,8 +258,8 @@ dv_has_:
     so: Arami
     sq: Çrregullimi i stresit posttraumatik
     sr: посттрауматски стресни поремећај
-    sr-ec: Посттрауматски стресни поремећај
-    sr-el: Posttraumatski stresni poremećaj
+    sr_ec: Посттрауматски стресни поремећај
+    sr_el: Posttraumatski stresni poremećaj
     sv: posttraumatiskt stressyndrom
     sw: Posttraumatic Stress Disorder
     ta: அதிர்ச்சிக்குப் பிறகான மன அழுத்தப் பாதிப்பு
@@ -274,12 +274,12 @@ dv_has_:
     wuu: 创伤后压力综合征
     yue: 創傷後遺症
     zh: 创伤后应激障碍
-    zh-cn: 创伤后应激障碍
-    zh-hans: 创伤后应激障碍
-    zh-hant: 創傷後壓力症候群
-    zh-hk: 創傷後遺症
-    zh-sg: 创伤后心理压力紧张综合症
-    zh-tw: 創傷後壓力症候群
+    zh_cn: 创伤后应激障碍
+    zh_hans: 创伤后应激障碍
+    zh_hant: 創傷後壓力症候群
+    zh_hk: 創傷後遺症
+    zh_sg: 创伤后心理压力紧张综合症
+    zh_tw: 創傷後壓力症候群
 ---
 # [[PTSD(Post-Traumatic_Stress_Disorder)]] 
 

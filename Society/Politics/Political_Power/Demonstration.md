@@ -102,7 +102,7 @@ dv_has_:
     ast: Manifestación
     az: nümayiş
     be: дэманстрацыя
-    be-tarask: дэманстрацыя
+    be_tarask: дэманстрацыя
     bg: Демонстрация
     br: manifestadeg
     bs: demonstracija
@@ -112,11 +112,11 @@ dv_has_:
     cy: gwrthdystiad
     da: demonstration
     de: Demonstration
-    de-ch: Demonstration
+    de_ch: Demonstration
     el: διαδήλωση
     en: demonstration
-    en-ca: demonstration
-    en-gb: demonstration
+    en_ca: demonstration
+    en_gb: demonstration
     eo: manifestacio
     es: manifestación
     et: meeleavaldus
@@ -138,9 +138,9 @@ dv_has_:
     it: manifestazione
     ja: デモ活動
     kk: митинг
-    kk-arab: دەمونستراتسىييا
-    kk-cyrl: Демонстрация
-    kk-latn: Demonstracïya
+    kk_arab: دەمونستراتسىييا
+    kk_cyrl: Демонстрация
+    kk_latn: Demonstracïya
     ko: 시위
     ku: xwepêşandan
     ky: Демонстрация
@@ -148,7 +148,7 @@ dv_has_:
     lt: mitingas
     lv: demonstrācija
     ms: tunjuk perasaan
-    ms-arab: تونجوق ڤراساءن
+    ms_arab: تونجوق ڤراساءن
     mul: demonstration
     nb: demonstrasjon
     nl: betoging
@@ -157,7 +157,7 @@ dv_has_:
     pl: demonstracja
     ps: لاریون
     pt: manifestação
-    pt-br: manifestação
+    pt_br: manifestação
     qu: Kawpay rikuchiku
     ro: manifestație
     ru: демонстрация
@@ -173,8 +173,8 @@ dv_has_:
     sn: chiratidzo chechipolitiko
     sq: Manifestimi
     sr: демонстрација
-    sr-ec: демонстрација
-    sr-el: demonstracija
+    sr_ec: демонстрација
+    sr_el: demonstracija
     sv: demonstration
     ta: ஆர்ப்பாட்டம்
     tg: гирдиҳамоӣ
@@ -190,14 +190,14 @@ dv_has_:
     wuu: 示威
     yue: 示威
     zh: 示威
-    zh-cn: 示威
-    zh-hans: 示威
-    zh-hant: 示威
-    zh-hk: 示威
-    zh-mo: 示威
+    zh_cn: 示威
+    zh_hans: 示威
+    zh_hant: 示威
+    zh_hk: 示威
+    zh_mo: 示威
     zh-my: 示威
-    zh-sg: 示威
-    zh-tw: 示威
+    zh_sg: 示威
+    zh_tw: 示威
 ---
 # [[Demonstration]] 
 

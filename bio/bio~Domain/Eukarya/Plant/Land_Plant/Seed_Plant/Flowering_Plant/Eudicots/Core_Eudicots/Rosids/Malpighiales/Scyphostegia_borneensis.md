@@ -35,7 +35,7 @@ dv_has_:
     oc: Scyphostegia
     pl: Scyphostegia
     pt: Scyphostegia
-    pt-br: Scyphostegia
+    pt_br: Scyphostegia
     ro: Scyphostegia
     ru: Scyphostegia
     sq: Scyphostegia
@@ -45,9 +45,9 @@ dv_has_:
     vo: Scyphostegia
     war: Scyphostegia
     zh: 杯盖花属
-    zh-cn: 杯盖花属
-    zh-hans: 杯盖花属
-    zh-tw: 杯蓋花屬
+    zh_cn: 杯盖花属
+    zh_hans: 杯盖花属
+    zh_tw: 杯蓋花屬
 ---
 # [[Scyphostegia borneensis]]  
 

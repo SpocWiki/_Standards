@@ -104,7 +104,7 @@ dv_has_:
     ast: Grandes Lligues de Béisbol
     ban: Major League Baseball
     be: Галоўная ліга бейсбола
-    be-tarask: Галоўная бэйсбольная ліга
+    be_tarask: Галоўная бэйсбольная ліга
     bg: Мейджър Лийг Бейзбол
     ca: Major League Baseball
     cs: Major League Baseball
@@ -112,8 +112,8 @@ dv_has_:
     de: Major League Baseball
     el: MLB
     en: Major League Baseball
-    en-ca: Major League Baseball
-    en-gb: Major League Baseball
+    en_ca: Major League Baseball
+    en_gb: Major League Baseball
     en-us: Major League Baseball
     eo: Grandaj Ligoj de Basbalo
     es: Grandes Ligas de Béisbol
@@ -151,7 +151,7 @@ dv_has_:
     pap: Major League Baseball
     pl: Major League Baseball
     pt: Major League Baseball
-    pt-br: Major League Baseball
+    pt_br: Major League Baseball
     ro: Major League Baseball
     ru: Главная лига бейсбола
     ryu: メジャーリーグベースボール
@@ -171,10 +171,10 @@ dv_has_:
     yi: MLB
     yue: 美國職業棒球大聯盟
     zh: 美國職棒大聯盟
-    zh-cn: 美国职业棒球大联盟
-    zh-hans: 美国职业棒球大联盟
-    zh-hant: 美國職業棒球大聯盟
-    zh-tw: 美國職業棒球大聯盟
+    zh_cn: 美国职业棒球大联盟
+    zh_hans: 美国职业棒球大联盟
+    zh_hant: 美國職業棒球大聯盟
+    zh_tw: 美國職業棒球大聯盟
 ---
 # [[Major_League_Baseball]] 
 

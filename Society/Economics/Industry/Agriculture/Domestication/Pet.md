@@ -114,7 +114,7 @@ dv_has_:
     ar: حيوان منزلي
     ast: animal de compañía
     be: жывёлы-кампаньёны
-    be-tarask: гадаванец
+    be_tarask: гадаванец
     bg: Домашен любимец
     bm: Sokɔnɔbagan
     bn: পোষ্য
@@ -162,7 +162,7 @@ dv_has_:
     lv: mīļdzīvnieks
     mk: Милениче
     ms: haiwan peliharaan
-    ms-arab: حيوان ڤليهاراءن
+    ms_arab: حيوان ڤليهاراءن
     my: အိမ်မွေးတိရစ္ဆာန်
     nan: Thióng-bu̍t
     nb: kjæledyr
@@ -173,7 +173,7 @@ dv_has_:
     pam: sese
     pl: zwierzęta domowe
     pt: animal de estimação
-    pt-br: animal de estimação
+    pt_br: animal de estimação
     qu: Uywana
     ro: animal de companie
     ru: питомец
@@ -193,15 +193,15 @@ dv_has_:
     tok: soweli tomo
     tr: evcil hayvan
     tt: тәрбияләнүче хайван
-    tt-cyrl: тәрбияләнүче хайван
-    tt-latn: tärbiälänüçe xaywan
+    tt_cyrl: тәрбияләнүче хайван
+    tt_latn: tärbiälänüçe xaywan
     uk: тварини-компаньйони
     ur: پالتو جانور
     vi: vật cưng
     wuu: 宠物
     yue: 寵物
     zh: 宠物
-    zh-hans: 宠物
+    zh_hans: 宠物
 ---
 # [[Pet]] 
 

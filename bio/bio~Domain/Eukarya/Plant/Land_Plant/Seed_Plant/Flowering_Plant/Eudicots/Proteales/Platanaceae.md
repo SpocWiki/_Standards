@@ -37,8 +37,8 @@ dv_has_:
     ko: 버즘나무과
     koi: Платан котыр
     ku: Famîleya çinaran
-    ku-arab: فامیلەیا چناران
-    ku-latn: Famîleya çinaran
+    ku_arab: فامیلەیا چناران
+    ku_latn: Famîleya çinaran
     la: Platanaceae
     lt: Plataniniai
     mk: чинари
@@ -49,15 +49,15 @@ dv_has_:
     oc: Platanaceae
     pl: Platanowate
     pt: Platanaceae
-    pt-br: Platanaceae
+    pt_br: Platanaceae
     ro: Platanaceae
     ru: платановые
     sk: platanovité
     sl: platanovke
     sq: Platanaceae
     sr: Platanaceae
-    sr-ec: Platanaceae
-    sr-el: Platanaceae
+    sr_ec: Platanaceae
+    sr_el: Platanaceae
     tr: Çınargiller
     uk: Platanaceae
     vi: Họ Tiêu huyền
@@ -65,12 +65,12 @@ dv_has_:
     war: Platanaceae
     yue: 懸鈴木科
     zh: 悬铃木科
-    zh-cn: 悬铃木科
-    zh-hans: 悬铃木科
-    zh-hant: 懸鈴木科
-    zh-hk: 懸鈴木科
-    zh-sg: 悬铃木科
-    zh-tw: 懸鈴木科
+    zh_cn: 悬铃木科
+    zh_hans: 悬铃木科
+    zh_hant: 懸鈴木科
+    zh_hk: 懸鈴木科
+    zh_sg: 悬铃木科
+    zh_tw: 懸鈴木科
 aliases:
 - Famîleya çinaran
 - Họ Tiêu huyền

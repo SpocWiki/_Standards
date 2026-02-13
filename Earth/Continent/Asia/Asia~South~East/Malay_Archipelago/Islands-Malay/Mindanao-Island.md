@@ -106,14 +106,14 @@ dv_has_:
     ba: Минданао (утрау)
     bcl: Mindanao
     be: Мінданаа
-    be-tarask: Мінданао
+    be_tarask: Мінданао
     bg: Минданао
     bjn: Mindanao
     bn: মিন্দানাও
     br: Mindanao
     bs: Mindanao
     ca: Mindanao
-    cbk-zam: Mindanao
+    cbk_zam: Mindanao
     ceb: Mindanao
     cs: Mindanao
     cv: Минданао
@@ -149,11 +149,11 @@ dv_has_:
     jv: Mindanao
     ka: მინდანაო
     kk: Минданао
-    kk-arab: مىينداناو
+    kk_arab: مىينداناو
     kk-cn: مىينداناو
-    kk-cyrl: Минданао
+    kk_cyrl: Минданао
     kk-kz: Минданао
-    kk-latn: Mïndanao
+    kk_latn: Mïndanao
     kk-tr: Mïndanao
     km: កោះមីនដាណាវ
     ko: 민다나오섬
@@ -184,8 +184,8 @@ dv_has_:
     sh: Mindanao
     sl: Mindanao
     sr: Минданао
-    sr-ec: Минданао
-    sr-el: Mindanao
+    sr_ec: Минданао
+    sr_el: Mindanao
     sv: Mindanao
     sw: Mindanao
     ta: மிண்டனாவோ
@@ -205,12 +205,12 @@ dv_has_:
     yi: מינדאַנאַװ
     yue: 棉蘭老島
     zh: 棉兰老
-    zh-cn: 棉兰老
-    zh-hans: 棉兰老
-    zh-hant: 民答那峨
-    zh-hk: 棉蘭老
-    zh-sg: 棉兰老
-    zh-tw: 民答那峨
+    zh_cn: 棉兰老
+    zh_hans: 棉兰老
+    zh_hant: 民答那峨
+    zh_hk: 棉蘭老
+    zh_sg: 棉兰老
+    zh_tw: 民答那峨
 ---
 # [[Mindanao-Island]] 
 

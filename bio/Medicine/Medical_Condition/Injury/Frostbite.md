@@ -91,7 +91,7 @@ dv_has_:
     az: Donma
     ba: Тән туңыу
     be: Абмаражэнне
-    be-tarask: Абмаражэньне
+    be_tarask: Абмаражэньне
     bg: измръзване
     bn: হিমদংশন
     br: Goañvenn
@@ -102,8 +102,8 @@ dv_has_:
     de: Erfrierung
     el: Κρυοπάγημα
     en: frostbite
-    en-ca: Frostbite
-    en-gb: Frostbite
+    en_ca: Frostbite
+    en_gb: Frostbite
     eo: frostiĝo
     es: congelamiento
     eu: Izozte (medikuntza)
@@ -135,7 +135,7 @@ dv_has_:
     or: ତୁଷାରକ୍ଷତ
     pl: odmrożenie
     pt: geladura
-    pt-br: Geladura
+    pt_br: Geladura
     ro: Degerături
     ru: Отморожение
     sah: Үлүтүү

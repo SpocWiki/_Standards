@@ -51,7 +51,7 @@ dv_has_:
     arz: تبجيل
     ast: veneración de santos
     az: venerasiya
-    be-tarask: шанаваньне сьвятых
+    be_tarask: шанаваньне сьвятых
     bn: সাধুদের পূজা
     ca: veneració
     chr: ꮧꮣꮒꮈꮝꮧ
@@ -87,9 +87,9 @@ dv_has_:
     ur: تبجیل
     yue: 敬奉
     zh: 敬奉
-    zh-hans: 敬奉
-    zh-hant: 敬奉
-    zh-hk: 敬奉
+    zh_hans: 敬奉
+    zh_hant: 敬奉
+    zh_hk: 敬奉
 ---
 # [[Veneration]] 
 

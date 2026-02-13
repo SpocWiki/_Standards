@@ -39,8 +39,8 @@ dv_has_:
     tr: Alex Krizhevsky
     uk: Олександр Крижевський
     zh: 阿莱克斯·克里泽夫斯基
-    zh-hant: 亞歷克斯·克里澤夫斯基
-    zh-tw: 亞歷克斯·克里澤夫斯基
+    zh_hant: 亞歷克斯·克里澤夫斯基
+    zh_tw: 亞歷克斯·克里澤夫斯基
 ---
 ## #has_/text_of_/abstract 
 

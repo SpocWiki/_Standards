@@ -124,7 +124,7 @@ dv_has_:
     ast: conductividá térmica
     bar: Wärmeleitfähigkeit
     be: цеплаправоднасць
-    be-tarask: цеплаправоднасьць
+    be_tarask: цеплаправоднасьць
     bg: топлопроводимост
     bn: তাপ পরিবাহিতা
     bs: toplotna provodljivost
@@ -134,11 +134,11 @@ dv_has_:
     cv: Ăшăярăш
     da: specifik varmeledningsevne
     de: Wärmeleitfähigkeit
-    de-ch: Wärmeleitfähigkeit
+    de_ch: Wärmeleitfähigkeit
     el: Θερμική αγωγιμότητα
     en: thermal conductivity
-    en-ca: thermal conductivity
-    en-gb: thermal conductivity
+    en_ca: thermal conductivity
+    en_gb: thermal conductivity
     eo: termika konduktivo
     es: conductividad térmica
     et: soojusjuhtivus
@@ -160,9 +160,9 @@ dv_has_:
     jv: konduktivitas termal
     ka: თბოგამტარობა
     kk: жылу өткізгіштік
-    kk-arab: جىلۋ وتكىزگىشتىك
-    kk-cyrl: жылу өткізгіштік
-    kk-latn: jılw ötkizgiştik
+    kk_arab: جىلۋ وتكىزگىشتىك
+    kk_cyrl: жылу өткізгіштік
+    kk_latn: jılw ötkizgiştik
     ko: 열전도율
     la: conductivitas thermalis
     lmo: Conduttività tèrmica
@@ -180,7 +180,7 @@ dv_has_:
     pl: przewodność cieplna
     ps: د تودوخې تېرېدنه
     pt: condutividade térmica
-    pt-br: condutividade térmica
+    pt_br: condutividade térmica
     ro: conductivitate termică
     ru: теплопроводность
     sco: thermal conductivity
@@ -189,8 +189,8 @@ dv_has_:
     sl: toplotna prevodnost
     smn: liegâsvuođâsirdem
     sr: топлотна проводљивост
-    sr-ec: топлотна проводљивост
-    sr-el: toplotna provodljivost
+    sr_ec: топлотна проводљивост
+    sr_el: toplotna provodljivost
     sv: värmeledningsförmåga
     ta: வெப்ப கடத்துத் திறன்
     tg: Гармигузаронӣ

@@ -299,7 +299,7 @@ dv_has_:
     bar: Flächn
     bcl: hiwas
     be: плошча
-    be-tarask: плошча
+    be_tarask: плошча
     bg: площ
     bho: क्षेत्रफल
     bn: ক্ষেত্রফল
@@ -323,7 +323,7 @@ dv_has_:
     dv: އަކަމިން
     el: έκταση
     en: area
-    en-gb: area
+    en_gb: area
     eo: areo
     es: área
     et: pindala
@@ -373,7 +373,7 @@ dv_has_:
     krc: майданлыкъ
     ks: رۄقبہٕ
     ku: rûerd
-    ku-latn: rûerd
+    ku_latn: rûerd
     kw: enep
     ky: аянт
     la: area
@@ -397,7 +397,7 @@ dv_has_:
     mni: ꯄꯥꯛꯆꯥꯎꯕ
     mr: क्षेत्रफळ
     ms: luas
-    ms-arab: لواس
+    ms_arab: لواس
     mt: erja
     mwl: ária
     my: ဧရိယာ
@@ -405,7 +405,7 @@ dv_has_:
     nan: biān-chek
     nb: areal
     nds: Flach
-    nds-nl: oppervlakte
+    nds_nl: oppervlakte
     ne: क्षेत्रफल
     nl: oppervlakte
     nn: areal
@@ -418,7 +418,7 @@ dv_has_:
     pms: àrea
     pnb: رقبہ
     pt: área
-    pt-br: área
+    pt_br: área
     qu: hallka k'iti k'anchar
     ro: arie
     ru: площадь
@@ -453,7 +453,7 @@ dv_has_:
     tr: alan
     trv: mensoku
     tt: мәйдан
-    tt-cyrl: мәйдан
+    tt_cyrl: мәйдан
     udm: быдӟала
     uk: площа
     ur: رقبہ
@@ -472,11 +472,11 @@ dv_has_:
     yue: 面積
     zea: oppervlak
     zh: 面积
-    zh-cn: 面积
-    zh-hans: 面积
-    zh-hant: 面積
-    zh-hk: 面積
-    zh-tw: 面積
+    zh_cn: 面积
+    zh_hans: 面积
+    zh_hant: 面積
+    zh_hk: 面積
+    zh_tw: 面積
 ---
 # [[Area]] 
 

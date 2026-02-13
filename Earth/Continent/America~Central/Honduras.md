@@ -420,7 +420,7 @@ dv_has_:
     ab: Гондурас
     ace: Honduras
     ady: Гондурас
-    aeb-arab: هندوراس
+    aeb_arab: هندوراس
     af: Honduras
     am: ሆንዱራስ
     ami: Honduras
@@ -441,7 +441,7 @@ dv_has_:
     bbc: Honduras
     bcl: Honduras
     be: Гандурас
-    be-tarask: Гандурас
+    be_tarask: Гандурас
     bew: Honduras
     bg: Хондурас
     bho: होंडुरास
@@ -454,14 +454,14 @@ dv_has_:
     bs: Honduras
     bxr: Гренада
     ca: Hondures
-    cbk-zam: Honduras
+    cbk_zam: Honduras
     cdo: Honduras
     ce: Гондурас
     ceb: Kawondurhan
     chy: Honduras
     ckb: ھۆندووراس
     crh: Honduras
-    crh-latn: Honduras
+    crh_latn: Honduras
     cs: Honduras
     cu: Ондоурасъ
     cv: Гондурас
@@ -470,15 +470,15 @@ dv_has_:
     dag: Honduras
     de: Honduras
     de-at: Honduras
-    de-ch: Honduras
+    de_ch: Honduras
     diq: Honduras
     dsb: Honduras
     dty: होन्डुरस
     dv: ހޮންޑިއުރަސް
     el: Ονδούρα
     en: Honduras
-    en-ca: Honduras
-    en-gb: Honduras
+    en_ca: Honduras
+    en_gb: Honduras
     en-us: Honduras
     eo: Honduro
     es: Honduras
@@ -500,7 +500,7 @@ dv_has_:
     gn: Honduras
     gom: होंडुरास
     gom-deva: होन्डूरस
-    gom-latn: Honduras
+    gom_latn: Honduras
     gpe: Honduras
     gsw: Honduras
     gu: હોન્ડુરાસ
@@ -556,7 +556,7 @@ dv_has_:
     lv: Hondurasa
     lzh: 宏都拉斯
     mad: Honduras
-    map-bms: Honduras
+    map_bms: Honduras
     mdf: Гондурас
     mg: Hôndorasy
     mhr: Гондурас
@@ -580,7 +580,7 @@ dv_has_:
     nap: Honduras
     nb: Honduras
     nds: Honduras
-    nds-nl: Honduras
+    nds_nl: Honduras
     ne: होन्डुरस
     new: होण्डुरस
     nl: Honduras
@@ -603,7 +603,7 @@ dv_has_:
     pnb: ہونڈراس
     ps: هندوراس
     pt: Honduras
-    pt-br: Honduras
+    pt_br: Honduras
     qu: Unduras
     rmy: Honduras
     rn: Honduras
@@ -634,8 +634,8 @@ dv_has_:
     so: Honduras
     sq: Hondurasi
     sr: Хондурас
-    sr-ec: Хондурас
-    sr-el: Honduras
+    sr_ec: Хондурас
+    sr_el: Honduras
     ss: IHondulasi
     su: Honduras
     sv: Honduras
@@ -681,14 +681,14 @@ dv_has_:
     zea: Honduras
     zgh: ⵀⵓⵏⴷⵓⵔⴰⵙ
     zh: 洪都拉斯
-    zh-cn: 洪都拉斯
-    zh-hans: 洪都拉斯
-    zh-hant: 宏都拉斯
-    zh-hk: 洪都拉斯
-    zh-mo: 洪都拉斯
+    zh_cn: 洪都拉斯
+    zh_hans: 洪都拉斯
+    zh_hant: 宏都拉斯
+    zh_hk: 洪都拉斯
+    zh_mo: 洪都拉斯
     zh-my: 洪都拉斯
-    zh-sg: 洪都拉斯
-    zh-tw: 宏都拉斯
+    zh_sg: 洪都拉斯
+    zh_tw: 宏都拉斯
     zu: i-Honduras
   url_for_:
     code_repository: https://github.com/SpocWiki/America-Honduras

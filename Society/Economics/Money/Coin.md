@@ -184,7 +184,7 @@ dv_has_:
     ba: тәңкә
     bar: Gäidmünzn
     be: манета
-    be-tarask: манэта
+    be_tarask: манэта
     bg: монета
     bn: পয়সা
     br: pezh moneiz
@@ -268,7 +268,7 @@ dv_has_:
     pnb: ٹھیپا
     ps: ايکۍ
     pt: moeda
-    pt-br: moeda
+    pt_br: moeda
     qu: q'illay kañina
     ro: monedă
     ru: монета
@@ -288,8 +288,8 @@ dv_has_:
     so: qadaadic
     sq: monedhë
     sr: новчић
-    sr-ec: новчић
-    sr-el: novčić
+    sr_ec: новчић
+    sr_el: novčić
     su: duit logam
     sv: mynt
     sw: sarafu
@@ -299,7 +299,7 @@ dv_has_:
     tl: barya
     tr: madenî para
     tt: тәңкә
-    tt-cyrl: тәңкә
+    tt_cyrl: тәңкә
     uk: монета
     ur: سکّہ
     uz: tanga
@@ -311,9 +311,9 @@ dv_has_:
     yi: מטבע
     yue: 銀仔
     zh: 硬幣
-    zh-hant: 硬幣
-    zh-hk: 硬幣
-    zh-tw: 硬幣
+    zh_hant: 硬幣
+    zh_hk: 硬幣
+    zh_tw: 硬幣
 ---
 # [[Coin]] 🪙 
 

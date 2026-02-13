@@ -93,7 +93,7 @@ dv_has_:
     af: Cirruswolke
     ar: سمحاق
     be: Перыстыя воблакі
-    be-tarask: перкаваты воблак
+    be_tarask: перкаваты воблак
     bg: Перести облаци
     bn: অলক-স্তুপ
     ca: Cirrus
@@ -150,8 +150,8 @@ dv_has_:
     sl: cirus
     sq: Ciruset
     sr: цирус
-    sr-ec: цирус
-    sr-el: cirus
+    sr_ec: цирус
+    sr_el: cirus
     sv: cirrus
     sw: Wingu vundevunde
     th: เซอร์รัส
@@ -162,12 +162,12 @@ dv_has_:
     wuu: 卷云
     yue: 卷雲
     zh: 卷云
-    zh-cn: 卷云
-    zh-hans: 卷云
-    zh-hant: 捲雲
-    zh-hk: 捲雲
-    zh-sg: 卷云
-    zh-tw: 捲雲
+    zh_cn: 卷云
+    zh_hans: 卷云
+    zh_hant: 捲雲
+    zh_hk: 捲雲
+    zh_sg: 卷云
+    zh_tw: 捲雲
     zu: Amayezi
 ---
 # [[Cirrus]] 

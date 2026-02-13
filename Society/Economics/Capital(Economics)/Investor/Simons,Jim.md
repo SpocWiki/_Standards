@@ -91,16 +91,16 @@ dv_has_:
     arz: جيمس هاريس
     ast: Jim Simons
     az: Ceyms Saymons
-    be-tarask: Джэймз Сайманз
+    be_tarask: Джэймз Сайманз
     ca: James Harris Simons
     cs: James Harris Simons
     da: James Harris Simons
     dag: Jim Simons
     de: James Simons
-    de-ch: James Simons
+    de_ch: James Simons
     en: Jim Simons
-    en-ca: James Harris Simons
-    en-gb: James Harris Simons
+    en_ca: James Harris Simons
+    en_gb: James Harris Simons
     es: Jim Simons
     eu: Jim Simons
     fa: جیمز هریس سیمونز
@@ -124,7 +124,7 @@ dv_has_:
     nn: James Harris Simons
     pl: Jim Simons
     pt: James Harris Simons
-    pt-br: James Harris Simons
+    pt_br: James Harris Simons
     ru: Джеймс Харрис Саймонс
     sl: James Harris Simons
     sq: James Harris Simons
@@ -137,10 +137,10 @@ dv_has_:
     vi: James Harris Simons
     yue: 詹姆斯·西蒙斯
     zh: 詹姆斯·西蒙斯
-    zh-hans: 詹姆斯·西蒙斯
-    zh-hant: 詹姆斯·西蒙斯
-    zh-hk: 詹姆斯·西蒙斯
-    zh-tw: 詹姆斯·塞門斯
+    zh_hans: 詹姆斯·西蒙斯
+    zh_hant: 詹姆斯·西蒙斯
+    zh_hk: 詹姆斯·西蒙斯
+    zh_tw: 詹姆斯·塞門斯
 ---
 # [[Simons,Jim]] 
 

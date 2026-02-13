@@ -27,11 +27,11 @@ dv_has_:
     it: Oligosaccaride
     ja: オリゴ糖
     kk: Олигосахаридтер
-    kk-arab: ولىيگوساحارىيدتەر
+    kk_arab: ولىيگوساحارىيدتەر
     kk-cn: ولىيگوساحارىيدتەر
-    kk-cyrl: Олигосахаридтер
+    kk_cyrl: Олигосахаридтер
     kk-kz: Олигосахаридтер
-    kk-latn: Olïgosaxarïdter
+    kk_latn: Olïgosaxarïdter
     kk-tr: Olïgosaxarïdter
     ko: 소당류
     ky: Олигосахариддер
@@ -51,8 +51,8 @@ dv_has_:
     smn: oligosakkarid
     sms: oligosakkariid
     sr: Oligosaharid
-    sr-ec: Олигосахарид
-    sr-el: Oligosaharid
+    sr_ec: Олигосахарид
+    sr_el: Oligosaharid
     sv: oligosackarider
     th: โอลิโกแซ็กคาไรด์
     tr: Oligosakkarit
@@ -60,12 +60,12 @@ dv_has_:
     vi: oligosaccarit
     yue: 低聚醣
     zh: 寡醣
-    zh-cn: 寡糖
-    zh-hans: 寡糖
-    zh-hant: 寡醣
-    zh-hk: 寡醣
-    zh-sg: 寡糖
-    zh-tw: 寡醣
+    zh_cn: 寡糖
+    zh_hans: 寡糖
+    zh_hant: 寡醣
+    zh_hk: 寡醣
+    zh_sg: 寡糖
+    zh_tw: 寡醣
 aliases:
 - Chió-thn̂g
 - Oligosaccaride

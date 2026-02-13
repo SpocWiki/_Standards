@@ -111,7 +111,7 @@ dv_has_:
     az: Çömçəquyruq
     ba: Сүмесбаш
     be: апалонік
-    be-tarask: апалонік
+    be_tarask: апалонік
     bg: попова лъжичка
     ca: capgròs
     cdo: Bā-lāng-gū-tôi (liōng-chă̤ dông-ŭk)
@@ -123,8 +123,8 @@ dv_has_:
     de: Kaulquappe
     el: Γυρίνος
     en: tadpole
-    en-ca: Tadpole
-    en-gb: Tadpole
+    en_ca: Tadpole
+    en_gb: Tadpole
     eo: ranido
     es: renacuajo
     et: Kulles
@@ -148,11 +148,11 @@ dv_has_:
     ka: თავკომბალა
     kab: Timerdedda
     kk: Бақашабақ
-    kk-arab: باقاشاباق
+    kk_arab: باقاشاباق
     kk-cn: باقاشاباق
-    kk-cyrl: Бақашабақ
+    kk_cyrl: Бақашабақ
     kk-kz: Бақашабақ
-    kk-latn: Baqaşabaq
+    kk_latn: Baqaşabaq
     kk-tr: Baqaşabaq
     kn: ಗೊದಮೊಟ್ಟೆ
     ko: 올챙이
@@ -169,7 +169,7 @@ dv_has_:
     my: ဖားလောင်း
     nan: Tō͘-koai-á
     nb: rumpetroll
-    nds-nl: donderpad
+    nds_nl: donderpad
     nia: towulo
     nl: kikkervisje
     nn: rumpetroll
@@ -177,7 +177,7 @@ dv_has_:
     pa: ਡੱਡੀ
     pl: kijanka
     pt: girino
-    pt-br: Girino
+    pt_br: Girino
     qu: Huq'ullu
     ro: mormoloc
     ru: головастик
@@ -189,7 +189,7 @@ dv_has_:
     sl: Paglavec
     sq: Fulterza
     sr: пуноглавац
-    sr-ec: пуноглавац
+    sr_ec: пуноглавац
     sv: Grodyngel
     sw: Ndubwi
     ta: தலைப்பிரட்டை
@@ -205,12 +205,12 @@ dv_has_:
     yue: 蝌蚪
     za: Duzrug
     zh: 蝌蚪
-    zh-cn: 蝌蚪
-    zh-hans: 蝌蚪
-    zh-hant: 蝌蚪
-    zh-hk: 蝌蚪
-    zh-sg: 蝌蚪
-    zh-tw: 蝌蚪
+    zh_cn: 蝌蚪
+    zh_hans: 蝌蚪
+    zh_hant: 蝌蚪
+    zh_hk: 蝌蚪
+    zh_sg: 蝌蚪
+    zh_tw: 蝌蚪
 ---
 # [[Tadpole]] 
 

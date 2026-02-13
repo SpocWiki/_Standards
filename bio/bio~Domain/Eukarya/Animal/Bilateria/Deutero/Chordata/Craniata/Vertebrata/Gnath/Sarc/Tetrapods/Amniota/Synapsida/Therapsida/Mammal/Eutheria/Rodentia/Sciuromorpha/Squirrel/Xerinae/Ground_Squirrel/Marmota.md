@@ -128,7 +128,7 @@ dv_has_:
     ban: Marmot
     bar: Murmandl
     be: Суркі
-    be-tarask: суркі
+    be_tarask: суркі
     bg: мармоти
     bo: ཕྱི་ལྦགས།
     br: Moregan
@@ -170,11 +170,11 @@ dv_has_:
     jv: Marmut
     ka: ზაზუნა
     kk: Суырлар
-    kk-arab: سۋىرلار
+    kk_arab: سۋىرلار
     kk-cn: سۋىرلار
-    kk-cyrl: Суырлар
+    kk_cyrl: Суырлар
     kk-kz: Суырлар
-    kk-latn: Swırlar
+    kk_latn: Swırlar
     kk-tr: Swırlar
     ko: 마멋
     ks: درِٛن
@@ -196,7 +196,7 @@ dv_has_:
     pl: Świstak
     pms: Marmòta
     pt: Marmota
-    pt-br: Marmota
+    pt_br: Marmota
     ro: Marmotă
     ru: сурки
     sah: Таарбаҕаннар уустара
@@ -222,12 +222,12 @@ dv_has_:
     wuu: 旱獭属
     yue: 土撥鼠
     zh: 旱獭属
-    zh-cn: 旱獭属
-    zh-hans: 旱獭
-    zh-hant: 旱獺屬
-    zh-hk: 旱獺
-    zh-sg: 旱獭
-    zh-tw: 旱獺屬
+    zh_cn: 旱獭属
+    zh_hans: 旱獭
+    zh_hant: 旱獺屬
+    zh_hk: 旱獺
+    zh_sg: 旱獭
+    zh_tw: 旱獺屬
 ---
 # [[Marmota]] 
 

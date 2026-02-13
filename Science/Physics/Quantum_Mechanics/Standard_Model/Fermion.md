@@ -74,7 +74,7 @@ dv_has_:
     az: fermiyon
     azb: فرمیون
     be: ферміён
-    be-tarask: фэрміён
+    be_tarask: фэрміён
     bg: фермион
     bn: ফার্মিয়ন
     bs: fermion
@@ -136,7 +136,7 @@ dv_has_:
     pl: fermion
     pnb: فرمیون
     pt: fermião
-    pt-br: férmion
+    pt_br: férmion
     rki: ဖာမီယွန်
     ro: fermion
     ru: фермион
@@ -150,8 +150,8 @@ dv_has_:
     smn: fermioon
     sms: fermioon
     sr: фермион
-    sr-ec: фермион
-    sr-el: fermion
+    sr_ec: фермион
+    sr_el: fermion
     su: Fermion
     sv: fermion
     ta: பெர்மியான்
@@ -167,14 +167,14 @@ dv_has_:
     wuu: 费米子
     yue: 費米子
     zh: 费米子
-    zh-cn: 费米子
-    zh-hans: 费米子
-    zh-hant: 費米子
-    zh-hk: 費米子
-    zh-mo: 費米子
+    zh_cn: 费米子
+    zh_hans: 费米子
+    zh_hant: 費米子
+    zh_hk: 費米子
+    zh_mo: 費米子
     zh-my: 费米子
-    zh-sg: 费米子
-    zh-tw: 費米子
+    zh_sg: 费米子
+    zh_tw: 費米子
 ---
 # [[Fermion]] 
 

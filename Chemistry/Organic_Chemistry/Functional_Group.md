@@ -107,7 +107,7 @@ dv_has_:
     awa: क्रियात्मक समूह
     bcl: Minaganang grupo
     be: функцыянальная група
-    be-tarask: функцыянальная група
+    be_tarask: функцыянальная група
     bg: Функционална група
     bn: কার্যকরী মূলক
     bs: Funkcionalna grupa
@@ -154,7 +154,7 @@ dv_has_:
     pl: grupa funkcyjna
     pnb: فنکشنل گروپ
     pt: grupo funcional
-    pt-br: grupo funcional
+    pt_br: grupo funcional
     ro: Grupă funcțională
     ru: функциональная группа
     sh: Funkcionalna grupa
@@ -162,8 +162,8 @@ dv_has_:
     sl: funkcionalna skupina
     sq: Grupi funksionor
     sr: Funkcionalna grupa
-    sr-ec: Функционална група
-    sr-el: Funkcionalna grupa
+    sr_ec: Функционална група
+    sr_el: Funkcionalna grupa
     sv: funktionell grupp
     ta: வேதி வினைக்குழு
     th: หมู่ฟังก์ชัน
@@ -175,12 +175,12 @@ dv_has_:
     wuu: 官能团
     yue: 官能基
     zh: 官能团
-    zh-cn: 官能团
-    zh-hans: 官能团
-    zh-hant: 官能團
-    zh-hk: 官能團
-    zh-sg: 官能团
-    zh-tw: 官能團
+    zh_cn: 官能团
+    zh_hans: 官能团
+    zh_hant: 官能團
+    zh_hk: 官能團
+    zh_sg: 官能团
+    zh_tw: 官能團
 ---
 # [[Functional_Group]] 
 

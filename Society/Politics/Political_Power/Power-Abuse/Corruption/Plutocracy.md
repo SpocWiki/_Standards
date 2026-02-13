@@ -89,7 +89,7 @@ dv_has_:
     azb: پلوتوکراسی
     bar: Plutokratie
     be: Плутакратыя
-    be-tarask: плютакратыя
+    be_tarask: плютакратыя
     bg: Плутокрация
     br: Gladveli
     bs: Plutokratija
@@ -118,11 +118,11 @@ dv_has_:
     ja: 金権政治
     ka: პლუტოკრატია
     kk: Плутократия
-    kk-arab: پلۋتوكراتىييا
+    kk_arab: پلۋتوكراتىييا
     kk-cn: پلۋتوكراتىييا
-    kk-cyrl: Плутократия
+    kk_cyrl: Плутократия
     kk-kz: Плутократия
-    kk-latn: Plwtokratïya
+    kk_latn: Plwtokratïya
     kk-tr: Plwtokratïya
     ko: 금권정치
     ky: Плутократия
@@ -146,8 +146,8 @@ dv_has_:
     sl: plutokracija
     sq: Plutokracia
     sr: Плутократија
-    sr-ec: Плутократија
-    sr-el: Plutokratija
+    sr_ec: Плутократија
+    sr_el: Plutokratija
     sv: Plutokrati
     ta: செல்வக்குழு ஆட்சி
     tg: Зӯрсолорӣ
@@ -161,12 +161,12 @@ dv_has_:
     yi: פלוטאקראטיע
     yue: 金權政治
     zh: 金權政治
-    zh-cn: 金权政治
-    zh-hans: 金权政治
-    zh-hant: 金權政治
-    zh-hk: 金權政治
-    zh-sg: 金权政治
-    zh-tw: 金權政治
+    zh_cn: 金权政治
+    zh_hans: 金权政治
+    zh_hant: 金權政治
+    zh_hk: 金權政治
+    zh_sg: 金权政治
+    zh_tw: 金權政治
 ---
 # [[Plutocracy]] 
 

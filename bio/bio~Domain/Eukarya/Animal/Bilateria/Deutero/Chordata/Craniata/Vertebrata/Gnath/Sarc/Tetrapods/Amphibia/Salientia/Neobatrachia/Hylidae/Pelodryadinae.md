@@ -37,7 +37,7 @@ dv_has_:
     oc: Pelodryadinae
     pl: Pelodryadinae
     pt: Pelodryadinae
-    pt-br: Pelodryadinae
+    pt_br: Pelodryadinae
     ro: Pelodryadinae
     ru: Pelodryadinae
     sq: Pelodryadinae
@@ -46,9 +46,9 @@ dv_has_:
     vo: Pelodryadinae
     war: Pelodryadinae
     zh: 澳雨蛙亞科
-    zh-cn: 澳雨蛙亚科
-    zh-hans: 澳雨蛙亚科
-    zh-tw: 澳雨蛙亞科
+    zh_cn: 澳雨蛙亚科
+    zh_hans: 澳雨蛙亚科
+    zh_tw: 澳雨蛙亞科
 ---
 # [[Pelodryadinae]] 
 

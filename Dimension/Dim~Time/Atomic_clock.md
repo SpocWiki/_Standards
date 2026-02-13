@@ -89,7 +89,7 @@ dv_has_:
     az: atom saatı
     azb: آتوم ساعاتی
     be: атамны гадзіннік
-    be-tarask: атамны гадзіньнік
+    be_tarask: атамны гадзіньнік
     bg: атомен часовник
     bs: atomski sat
     ca: rellotge atòmic
@@ -97,11 +97,11 @@ dv_has_:
     cy: cloc atomig
     da: atomur
     de: Atomuhr
-    de-ch: Atomuhr
+    de_ch: Atomuhr
     el: ατομικό ρολόι
     en: atomic clock
-    en-ca: atomic clock
-    en-gb: atomic clock
+    en_ca: atomic clock
+    en_gb: atomic clock
     eo: atomhorloĝo
     es: reloj atómico
     et: aatomkell
@@ -135,7 +135,7 @@ dv_has_:
     pl: zegar atomowy
     pms: Arlògi atòmich
     pt: relógio atómico
-    pt-br: relógio atômico
+    pt_br: relógio atômico
     ro: ceas atomic
     ru: атомные часы
     sh: atomski sat
@@ -143,14 +143,14 @@ dv_has_:
     sl: atomska ura
     sq: ora atomike
     sr: атомски часовник
-    sr-ec: атомски часовник
-    sr-el: atomski časovnik
+    sr_ec: атомски часовник
+    sr_el: atomski časovnik
     sv: atomur
     ta: அணுக் கடிகாரம்
     th: นาฬิกาอะตอม
     tr: atom saati
     tt: атом сәгате
-    tt-cyrl: атом сәгате
+    tt_cyrl: атом сәгате
     uk: атомний годинник
     ur: جوہری گھڑی
     uz: atom soati
@@ -159,12 +159,12 @@ dv_has_:
     wuu: 原子钟
     yue: 原子鐘
     zh: 原子鐘
-    zh-cn: 原子钟
-    zh-hans: 原子钟
-    zh-hant: 原子鐘
-    zh-hk: 原子鐘
-    zh-sg: 原子钟
-    zh-tw: 原子鐘
+    zh_cn: 原子钟
+    zh_hans: 原子钟
+    zh_hant: 原子鐘
+    zh_hk: 原子鐘
+    zh_sg: 原子钟
+    zh_tw: 原子鐘
 ---
 # [[Atomic_clock]] 
 

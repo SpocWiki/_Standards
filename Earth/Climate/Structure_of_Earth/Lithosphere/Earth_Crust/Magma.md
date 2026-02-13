@@ -82,7 +82,7 @@ dv_has_:
     ba: магма
     bcl: Magma
     be: магма
-    be-tarask: магма
+    be_tarask: магма
     bg: магма
     bho: मैग्मा
     bjn: Magma
@@ -177,7 +177,7 @@ dv_has_:
     xmf: მაგმა
     yue: 岩漿
     zh: 岩漿
-    zh-hk: 岩漿
+    zh_hk: 岩漿
 ---
 # [[Magma]] 
 

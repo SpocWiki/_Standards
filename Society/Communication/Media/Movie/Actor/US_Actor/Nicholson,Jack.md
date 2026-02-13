@@ -134,7 +134,7 @@ dv_has_:
     azb: جک نیکلسون
     ba: Николсон Джек
     be: Джэк Нікалсан
-    be-tarask: Джэк Нікалсан
+    be_tarask: Джэк Нікалсан
     bg: Джак Никълсън
     bi: Jack Nicholson
     bn: জ্যাক নিকোলসন
@@ -149,13 +149,13 @@ dv_has_:
     cy: Jack Nicholson
     da: Jack Nicholson
     de: Jack Nicholson
-    de-ch: Jack Nicholson
+    de_ch: Jack Nicholson
     diq: Jack Nicholson
     dsb: Jack Nicholson
     el: Τζακ Νίκολσον
     en: Jack Nicholson
-    en-ca: Jack Nicholson
-    en-gb: Jack Nicholson
+    en_ca: Jack Nicholson
+    en_gb: Jack Nicholson
     eo: Jack Nicholson
     es: Jack Nicholson
     es-419: Jack Nicholson
@@ -214,7 +214,7 @@ dv_has_:
     pms: Jack Nicholson
     pnb: جیک نکولسن
     pt: Jack Nicholson
-    pt-br: Jack Nicholson
+    pt_br: Jack Nicholson
     qu: Jack Nicholson
     ro: Jack Nicholson
     ru: Джек Николсон
@@ -247,9 +247,9 @@ dv_has_:
     yo: Jack Nicholson
     yue: 積尼高遜
     zh: 杰克·尼科尔森
-    zh-hant: 傑克·尼克遜
+    zh_hant: 傑克·尼克遜
     zh-my: 杰克·尼克逊
-    zh-sg: 杰克·尼克逊
+    zh_sg: 杰克·尼克逊
 ---
 # [[Nicholson,Jack]] 
 

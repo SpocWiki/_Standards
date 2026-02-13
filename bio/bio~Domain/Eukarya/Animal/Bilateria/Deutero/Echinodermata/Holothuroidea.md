@@ -95,7 +95,7 @@ dv_has_:
     az: Dəniz xiyarları
     azb: دنیز خیارلاری
     be: Галатурыі
-    be-tarask: галятурыі
+    be_tarask: галятурыі
     bg: Морски краставици
     bn: সামুদ্রিক শসা
     bs: Morski krastavci
@@ -134,11 +134,11 @@ dv_has_:
     jv: Teripang
     ka: ჰოლოთურიები
     kk: Голотурийлер
-    kk-arab: گولوتۋرىييلەر
+    kk_arab: گولوتۋرىييلەر
     kk-cn: گولوتۋرىييلەر
-    kk-cyrl: Голотурийлер
+    kk_cyrl: Голотурийлер
     kk-kz: Голотурийлер
-    kk-latn: Golotwrïýler
+    kk_latn: Golotwrïýler
     kk-tr: Golotwrïýler
     kn: ಕಡಲ ಸೌತೆ
     ko: 해삼류
@@ -160,7 +160,7 @@ dv_has_:
     oc: Oloturia
     pl: strzykwy
     pt: pepino-do-mar
-    pt-br: Holothuroidea
+    pt_br: Holothuroidea
     qu: Yaku kumar
     ro: Holothuroidea
     ru: Голотурии
@@ -170,8 +170,8 @@ dv_has_:
     sl: Brizgači
     sq: Holothuroidea
     sr: морски краставац
-    sr-ec: Морски краставац
-    sr-el: Morski krastavac
+    sr_ec: Морски краставац
+    sr_el: Morski krastavac
     sv: sjögurkor
     sw: Jongoo Bahari
     szy: humhum
@@ -191,12 +191,12 @@ dv_has_:
     yue: 海參
     za: Binghaij
     zh: 海參綱
-    zh-cn: 海参纲
-    zh-hans: 海参纲
-    zh-hant: 海參
-    zh-hk: 海參
-    zh-sg: 海参
-    zh-tw: 海參
+    zh_cn: 海参纲
+    zh_hans: 海参纲
+    zh_hant: 海參
+    zh_hk: 海參
+    zh_sg: 海参
+    zh_tw: 海參
 ---
 # [[Holothuroidea]]
 

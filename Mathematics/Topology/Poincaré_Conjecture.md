@@ -61,7 +61,7 @@ dv_has_:
     ast: hipótesis de Poincaré
     az: Puankare teoremi
     be: Гіпотэза Пуанкарэ
-    be-tarask: гіпотэза Пуанкарэ
+    be_tarask: гіпотэза Пуанкарэ
     ca: conjectura de Poincaré
     cs: Poincarého věta
     cv: Пуанкаре гипотези
@@ -69,8 +69,8 @@ dv_has_:
     de: Poincaré-Vermutung
     el: Εικασία του Πουανκαρέ
     en: Poincaré conjecture
-    en-ca: Poincaré conjecture
-    en-gb: Poincaré conjecture
+    en_ca: Poincaré conjecture
+    en_gb: Poincaré conjecture
     eo: konjekto de Poincaré
     es: hipótesis de Poincaré
     eu: Poincaréren aierua
@@ -94,7 +94,7 @@ dv_has_:
     pl: hipoteza Poincarégo
     pms: Congetura ëd Poincaré
     pt: conjectura de Poincaré
-    pt-br: conjectura de Poincaré
+    pt_br: conjectura de Poincaré
     ro: Conjectura lui Poincaré
     ru: гипотеза Пуанкаре
     sl: Poincaréjeva domneva
@@ -106,12 +106,12 @@ dv_has_:
     vi: Giả thuyết Poincaré
     yue: 龐加萊猜想
     zh: 庞加莱猜想
-    zh-cn: 庞加莱猜想
-    zh-hans: 庞加莱猜想
-    zh-hant: 龐加萊猜想
-    zh-hk: 龐加萊猜想
-    zh-sg: 庞加莱猜想
-    zh-tw: 龐加萊猜想
+    zh_cn: 庞加莱猜想
+    zh_hans: 庞加莱猜想
+    zh_hant: 龐加萊猜想
+    zh_hk: 龐加萊猜想
+    zh_sg: 庞加莱猜想
+    zh_tw: 龐加萊猜想
 ---
 # [[Poincaré_Conjecture]] 
 

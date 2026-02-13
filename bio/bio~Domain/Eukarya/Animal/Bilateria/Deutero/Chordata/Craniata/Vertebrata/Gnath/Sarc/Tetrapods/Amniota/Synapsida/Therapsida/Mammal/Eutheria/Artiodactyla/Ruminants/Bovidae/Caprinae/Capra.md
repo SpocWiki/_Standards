@@ -98,7 +98,7 @@ dv_has_:
     ba: Тау кәзәләре
     bar: Goaß
     be: Горныя казлы
-    be-tarask: горныя казлы
+    be_tarask: горныя казлы
     bg: кози
     bn: ক্যাপরা
     br: Capra
@@ -140,11 +140,11 @@ dv_has_:
     ja: ヤギ属
     ka: თხა
     kk: Тау текелері
-    kk-arab: تاۋ تەكەلەرى
+    kk_arab: تاۋ تەكەلەرى
     kk-cn: تاۋ تەكەلەرى
-    kk-cyrl: Тау текелері
+    kk_cyrl: Тау текелері
     kk-kz: Тау текелері
-    kk-latn: Taw tekeleri
+    kk_latn: Taw tekeleri
     kk-tr: Taw tekeleri
     ko: 염소속
     ky: Тоо эчки
@@ -166,7 +166,7 @@ dv_has_:
     pl: Koziorożec
     pnb: جنگلی بکریاں
     pt: Capra
-    pt-br: Capra
+    pt_br: Capra
     ro: Capra
     ru: Горные козлы
     sco: Capra
@@ -175,8 +175,8 @@ dv_has_:
     sl: koza
     sq: Dhia
     sr: коза
-    sr-ec: Коза
-    sr-el: Koza
+    sr_ec: Коза
+    sr_el: Koza
     sv: getter
     ta: இபெக்ஸ் காட்டாடு
     tl: Capra
@@ -192,12 +192,12 @@ dv_has_:
     wuu: 山羊属
     yue: 山羊屬
     zh: 山羊屬
-    zh-cn: 山羊属
-    zh-hans: 山羊属
-    zh-hant: 山羊屬
-    zh-hk: 山羊屬
-    zh-sg: 山羊属
-    zh-tw: 山羊屬
+    zh_cn: 山羊属
+    zh_hans: 山羊属
+    zh_hant: 山羊屬
+    zh_hk: 山羊屬
+    zh_sg: 山羊属
+    zh_tw: 山羊屬
 ---
 # [[Capra]] 
 

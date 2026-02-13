@@ -91,7 +91,7 @@ dv_has_:
     ast: sofá
     bar: Ottoman
     be: канапа
-    be-tarask: канапа
+    be_tarask: канапа
     bg: Диван
     bho: सोफा
     br: Kanape
@@ -100,11 +100,11 @@ dv_has_:
     cs: gauč
     da: sofa
     de: Sofa
-    de-ch: Sofa
+    de_ch: Sofa
     el: Καναπές
     en: couch
-    en-ca: chesterfield
-    en-gb: couch
+    en_ca: chesterfield
+    en_gb: couch
     eo: sofo
     es: sofá
     et: Diivan
@@ -146,7 +146,7 @@ dv_has_:
     pl: sofa
     pnb: صوفا
     pt: sofá
-    pt-br: Sofá
+    pt_br: Sofá
     ro: Canapea
     ru: диван
     sd: صوفو
@@ -155,8 +155,8 @@ dv_has_:
     sn: Sofa
     sq: Kanapeja
     sr: софа
-    sr-ec: софа
-    sr-el: sofa
+    sr_ec: софа
+    sr_el: sofa
     sv: soffa
     sw: Sofa
     ta: சாய்வு இருக்கை
@@ -171,14 +171,14 @@ dv_has_:
     wuu: 沙发
     yue: 梳化
     zh: 沙發
-    zh-cn: 沙发
-    zh-hans: 沙发
-    zh-hant: 沙發
-    zh-hk: 梳化
-    zh-mo: 梳化
+    zh_cn: 沙发
+    zh_hans: 沙发
+    zh_hant: 沙發
+    zh_hk: 梳化
+    zh_mo: 梳化
     zh-my: 沙发
-    zh-sg: 沙发
-    zh-tw: 沙發
+    zh_sg: 沙发
+    zh_tw: 沙發
 ---
 # [[Couch]] 
 

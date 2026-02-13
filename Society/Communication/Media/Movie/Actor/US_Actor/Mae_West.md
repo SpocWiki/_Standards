@@ -96,7 +96,7 @@ dv_has_:
     azb: مائه وست
     ba: Мэй Уэст
     be: Мэй Уэст
-    be-tarask: Мэй Ўэст
+    be_tarask: Мэй Ўэст
     bg: Мей Уест
     bi: Mae West
     bn: মে ওয়েস্ট
@@ -152,7 +152,7 @@ dv_has_:
     pl: Mae West
     pnb: مئی ویسٹ
     pt: Mae West
-    pt-br: Mae West
+    pt_br: Mae West
     qu: Mae West
     ro: Mae West
     ru: Мэй Уэст
@@ -162,8 +162,8 @@ dv_has_:
     sl: Mae West
     sq: Mae West
     sr: Меј Вест
-    sr-ec: Меј Вест
-    sr-el: Mej Vest
+    sr_ec: Меј Вест
+    sr_el: Mej Vest
     sv: Mae West
     ta: மே வெஸ்ட்
     tr: Mae West
@@ -176,12 +176,12 @@ dv_has_:
     yo: Mae West
     yue: 梅蕙絲
     zh: 梅·蕙絲
-    zh-cn: 梅·蕙丝
-    zh-hans: 梅·蕙丝
-    zh-hant: 梅·蕙絲
-    zh-hk: 梅·蕙絲
-    zh-sg: 梅·蕙丝
-    zh-tw: 梅·蕙絲
+    zh_cn: 梅·蕙丝
+    zh_hans: 梅·蕙丝
+    zh_hant: 梅·蕙絲
+    zh_hk: 梅·蕙絲
+    zh_sg: 梅·蕙丝
+    zh_tw: 梅·蕙絲
 ---
 # [[Mae_West]] 
 

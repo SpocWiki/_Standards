@@ -302,7 +302,7 @@ dv_has_:
     ba: табип
     bbc: dokter
     be: урач
-    be-tarask: лекар
+    be_tarask: лекар
     bew: doktor
     bg: лекар
     bjn: duktur
@@ -312,14 +312,14 @@ dv_has_:
     bs: ljekar
     bxr: эмшэн
     ca: metge
-    cbk-zam: medico
+    cbk_zam: medico
     cdo: Ĭ-sĕng
     cho: alikchiʼ
     chr: ᎦᎾᎦᏘ
     chy: heséeotséve'ho'e
     ckb: پزیشک
     crh: ekim
-    crh-latn: ekim
+    crh_latn: ekim
     cs: lékař
     csb: lékôrz
     cv: тухтăр
@@ -327,14 +327,14 @@ dv_has_:
     da: læge
     de: Arzt
     de-at: Arzt
-    de-ch: Arzt
+    de_ch: Arzt
     diq: doktor
     dsb: gójc
     ee: d)bala
     el: ιατρός
     en: physician
-    en-ca: physician
-    en-gb: physician
+    en_ca: physician
+    en_gb: physician
     en-us: physician
     eo: kuracisto
     es: médico
@@ -388,7 +388,7 @@ dv_has_:
     krj: manugbulong
     ks: طبیب
     ku: bijîşk
-    ku-latn: bijîşk
+    ku_latn: bijîşk
     kw: medhek
     ky: догдур
     la: medicus
@@ -412,7 +412,7 @@ dv_has_:
     mos: logtore
     mr: डॉक्टर
     ms: pengamal perubatan
-    ms-arab: ڤاکر ڤراوبتن
+    ms_arab: ڤاکر ڤراوبتن
     mt: tabib
     my: ဆရာဝန်
     myv: ормань менстиця
@@ -436,7 +436,7 @@ dv_has_:
     pnb: طبیب
     ps: طبیب
     pt: médico
-    pt-br: médico
+    pt_br: médico
     qu: hampikamayuq
     rmf: drambeskiero
     rmy: dharmaskro
@@ -461,8 +461,8 @@ dv_has_:
     sn: chiremba
     sq: mjek
     sr: лекар
-    sr-ec: лекар
-    sr-el: lekar
+    sr_ec: лекар
+    sr_el: lekar
     su: dokter
     sv: läkare
     sw: daktari
@@ -478,7 +478,7 @@ dv_has_:
     tr: doktor
     ts: dokodela
     tt: табиб
-    tt-cyrl: табиб
+    tt_cyrl: табиб
     tw: dɔkota
     tyv: эмчи
     uk: лікар
@@ -494,14 +494,14 @@ dv_has_:
     yue: 醫生
     za: canghyw
     zh: 医生
-    zh-cn: 医生
-    zh-hans: 医生
-    zh-hant: 醫生
-    zh-hk: 醫生
-    zh-mo: 醫生
+    zh_cn: 医生
+    zh_hans: 医生
+    zh_hant: 醫生
+    zh_hk: 醫生
+    zh_mo: 醫生
     zh-my: 医生
-    zh-sg: 医生
-    zh-tw: 醫生
+    zh_sg: 医生
+    zh_tw: 醫生
     zu: inyanga
 ---
 # [[Physician]] 

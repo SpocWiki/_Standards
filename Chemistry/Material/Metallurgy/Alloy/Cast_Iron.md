@@ -122,7 +122,7 @@ dv_has_:
     az: Çuqun
     ba: Суйын
     be: чыгун
-    be-tarask: чыгун
+    be_tarask: чыгун
     bg: Чугун
     br: potin
     bs: Liveno gvožđe
@@ -155,9 +155,9 @@ dv_has_:
     ja: 鋳鉄
     ka: თუჯი
     kk: Ақ шойын
-    kk-arab: اق شويىن
-    kk-cyrl: Ақ шойын
-    kk-latn: Aq şoýın
+    kk_arab: اق شويىن
+    kk_cyrl: Ақ шойын
+    kk_latn: Aq şoýın
     kn: ಎರಕಹೊಯ್ದ ಕಬ್ಬಿಣ
     ko: 무쇠
     ky: Чоюн
@@ -183,7 +183,7 @@ dv_has_:
     pl: żeliwo
     pnb: کاسٹ آئرن
     pt: ferro fundido
-    pt-br: ferro fundido
+    pt_br: ferro fundido
     ro: fontă
     ru: чугун
     sat: ᱫᱩᱞ ᱢᱮᱬᱦᱮᱸᱫ
@@ -193,8 +193,8 @@ dv_has_:
     sk: liatina
     sl: železova litina
     sr: ливено гвожђе
-    sr-ec: ливено гвожђе
-    sr-el: liveno gvožđe
+    sr_ec: ливено гвожђе
+    sr_el: liveno gvožđe
     sv: gjutjärn
     ta: வார்ப்பிரும்பு
     th: เหล็กหล่อ
@@ -211,9 +211,9 @@ dv_has_:
     wuu: 铸铁
     yue: 鑄鐵
     zh: 鑄鐵
-    zh-hans: 铸铁
-    zh-hant: 鑄鐵
-    zh-hk: 鑄鐵
+    zh_hans: 铸铁
+    zh_hant: 鑄鐵
+    zh_hk: 鑄鐵
 ---
 # [[Cast_Iron]] 
 

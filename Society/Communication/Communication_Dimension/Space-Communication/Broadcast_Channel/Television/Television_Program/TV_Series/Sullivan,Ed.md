@@ -64,7 +64,7 @@ dv_has_:
     ar: إد سوليفان
     arz: اد سوليفان
     ast: Ed Sullivan
-    be-tarask: Эд Саліван
+    be_tarask: Эд Саліван
     bg: Ед Съливан
     ca: Ed Sullivan
     cs: Ed Sullivan
@@ -99,7 +99,7 @@ dv_has_:
     pap: Ed Sullivan
     pl: Ed Sullivan
     pt: Ed Sullivan
-    pt-br: Ed Sullivan
+    pt_br: Ed Sullivan
     ro: Ed Sullivan
     ru: Эд Салливан
     sh: Ed Sullivan

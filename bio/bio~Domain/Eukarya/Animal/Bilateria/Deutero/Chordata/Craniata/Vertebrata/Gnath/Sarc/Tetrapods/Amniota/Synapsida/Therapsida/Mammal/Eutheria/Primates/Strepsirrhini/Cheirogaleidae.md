@@ -44,7 +44,7 @@ dv_has_:
     az: Cırtdan lemurlar
     azb: جیرتدان لمورلار
     be: карлікавыя лемуры
-    be-tarask: Cheirogaleidae
+    be_tarask: Cheirogaleidae
     bg: Лемури джуджета
     br: Cheirogaleidae
     ca: Quirogaleid
@@ -86,7 +86,7 @@ dv_has_:
     pl: Lemurkowate
     pnb: نکا لیمر
     pt: Cheirogaleidae
-    pt-br: Cheirogaleidae
+    pt_br: Cheirogaleidae
     ro: Cheirogaleidae
     ru: карликовые лемуры
     sh: Patuljasti lemuri
@@ -98,12 +98,12 @@ dv_has_:
     vo: Cheirogaleidae
     war: Cheirogaleidae
     zh: 鼠狐猴科
-    zh-cn: 鼠狐猴科
-    zh-hans: 鼠狐猴科
-    zh-hant: 鼠狐猴科
-    zh-hk: 鼠狐猴科
-    zh-sg: 鼠狐猴科
-    zh-tw: 鼠狐猴科
+    zh_cn: 鼠狐猴科
+    zh_hans: 鼠狐猴科
+    zh_hant: 鼠狐猴科
+    zh_hk: 鼠狐猴科
+    zh_sg: 鼠狐猴科
+    zh_tw: 鼠狐猴科
 ---
 # [[Cheirogaleidae]]
 

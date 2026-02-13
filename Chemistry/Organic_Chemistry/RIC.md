@@ -39,9 +39,9 @@ dv_has_:
     uk: Код ідентифікації смоли
     vi: Mã số nhận diện nhựa cây
     zh: 塑膠分類標誌
-    zh-hans: 塑胶分类标志
-    zh-hant: 塑膠分類標誌
-    zh-hk: 塑膠分類標誌
+    zh_hans: 塑胶分类标志
+    zh_hant: 塑膠分類標誌
+    zh_hk: 塑膠分類標誌
 aliases:
 - Code d'identification des résines
 - codi d'identificació de resines

@@ -85,7 +85,7 @@ dv_has_:
     ar: حدث انقراض
     ast: Estinción masiva
     az: Yox olma hadisəsi
-    be-tarask: масавае выміраньне
+    be_tarask: масавае выміраньне
     bg: Масово измиране
     bn: বিলুপ্তি ঘটনা
     bs: Masovno izumiranje
@@ -97,8 +97,8 @@ dv_has_:
     de: Massenaussterben
     el: Γεγονός μαζικού αφανισμού
     en: extinction event
-    en-ca: extinction event
-    en-gb: extinction event
+    en_ca: extinction event
+    en_gb: extinction event
     en-us: Extinction event
     eo: formortiga evento
     es: extinción masiva
@@ -135,7 +135,7 @@ dv_has_:
     pl: masowe wymieranie
     ps: انقراض
     pt: extinção em massa
-    pt-br: Extinção em massa
+    pt_br: Extinção em massa
     ro: eveniment de extincție
     ru: массовое вымирание
     sh: Masovna izumiranja

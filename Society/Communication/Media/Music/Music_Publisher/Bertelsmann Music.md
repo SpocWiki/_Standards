@@ -89,7 +89,7 @@ dv_has_:
     uk: Bertelsmann Music Group
     yue: 貝塔斯曼音樂集團
     zh: 贝塔斯曼音乐集团
-    zh-hant: 貝塔斯曼音樂集團
+    zh_hant: 貝塔斯曼音樂集團
 ---
 # [[Bertelsmann Music]] 
 

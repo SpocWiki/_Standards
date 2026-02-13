@@ -159,7 +159,7 @@ dv_has_:
     bar: Indus Kuitua
     bcl: Sibilisasyong Indus
     be: Індская цывілізацыя
-    be-tarask: Індзкая цывілізацыя
+    be_tarask: Індзкая цывілізацыя
     bg: Индска цивилизация
     bho: सिंधु घाटी सभ्यता
     bn: সিন্ধু সভ্যতা
@@ -261,8 +261,8 @@ dv_has_:
     xmf: ინდიშ ცივილიზაცია
     yue: 印度河文明
     zh: 印度河流域文明
-    zh-hant: 印度河流域文明
-    zh-tw: 印度河流域文明
+    zh_hant: 印度河流域文明
+    zh_tw: 印度河流域文明
 ---
 # [[Indus_Valley_Civilization]] 
 

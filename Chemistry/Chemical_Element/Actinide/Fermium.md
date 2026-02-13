@@ -130,7 +130,7 @@ dv_has_:
     ba: Фермий
     ban: Fermium
     be: Фермій
-    be-tarask: Фэрм
+    be_tarask: Фэрм
     bg: фермий
     bho: फर्मियम
     bn: ফার্মিয়াম
@@ -146,11 +146,11 @@ dv_has_:
     cy: Ffermiwm
     da: fermium
     de: Fermium
-    de-ch: Fermium
+    de_ch: Fermium
     el: φέρμιο
     en: fermium
-    en-ca: Fermium
-    en-gb: fermium
+    en_ca: Fermium
+    en_gb: fermium
     eo: fermio
     es: fermio
     et: fermium
@@ -224,7 +224,7 @@ dv_has_:
     pnb: فرمئیم
     ps: فېرميوم
     pt: férmio
-    pt-br: férmio
+    pt_br: férmio
     qu: Fermyu
     ro: fermiu
     ru: фермий
@@ -238,7 +238,7 @@ dv_has_:
     sl: fermij
     sq: fermiumi
     sr: фермијум
-    sr-ec: Фермијум
+    sr_ec: Фермијум
     stq: Fermium
     sv: fermium
     sw: Fermi
@@ -262,14 +262,14 @@ dv_has_:
     yo: Fẹ́rmíọ̀m
     yue: 鐨
     zh: 鐨
-    zh-cn: 镄
-    zh-hans: 镄
-    zh-hant: 鐨
-    zh-hk: 鐨
-    zh-mo: 鐨
+    zh_cn: 镄
+    zh_hans: 镄
+    zh_hant: 鐨
+    zh_hk: 鐨
+    zh_mo: 鐨
     zh-my: 镄
-    zh-sg: 镄
-    zh-tw: 鐨
+    zh_sg: 镄
+    zh_tw: 鐨
     zu: UmFeme
   number_of_:
     period: 7

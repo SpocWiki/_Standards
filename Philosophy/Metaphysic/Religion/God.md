@@ -281,7 +281,7 @@ dv_has_:
     bar: Gott
     bcl: Dios
     be: Бог
-    be-tarask: бог
+    be_tarask: бог
     bg: Бог
     bho: परमेसर
     bi: God
@@ -311,8 +311,8 @@ dv_has_:
     el: Θεός
     eml: Dio
     en: God
-    en-ca: God
-    en-gb: God
+    en_ca: God
+    en_gb: God
     en-us: God
     eo: dio
     es: Dios
@@ -402,7 +402,7 @@ dv_has_:
     nan: Siōng-tè
     nb: gud
     nds: Gott
-    nds-nl: God
+    nds_nl: God
     ne: ईश्वर
     new: ईश्वर
     nia: So'aya
@@ -426,7 +426,7 @@ dv_has_:
     pnb: اللہ تعالیٰ
     ps: الله
     pt: Deus
-    pt-br: Deus
+    pt_br: Deus
     qu: Dyus
     rm: Dieu
     rmy: Devel
@@ -460,7 +460,7 @@ dv_has_:
     ta: கடவுள்
     te: దేవుడు
     tg: худо
-    tg-cyrl: Раб(б)
+    tg_cyrl: Раб(б)
     th: พระเป็นเจ้า
     tl: Diyos
     tok: sewi
@@ -492,10 +492,10 @@ dv_has_:
     yue: 上帝
     zea: God
     zh: 一神教中的神
-    zh-cn: 神
-    zh-hans: 神
-    zh-hant: 一神教中的神
-    zh-tw: 一神教中的神
+    zh_cn: 神
+    zh_hans: 神
+    zh_hant: 一神教中的神
+    zh_tw: 一神教中的神
     zu: UNkulunkulu
 ---
 # [[God]] 

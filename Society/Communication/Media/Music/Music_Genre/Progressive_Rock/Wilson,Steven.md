@@ -29,8 +29,8 @@ dv_has_:
     dag: Steven Wilson
     de: Steven Wilson
     en: Steven Wilson
-    en-ca: Steven Wilson
-    en-gb: Steven Wilson
+    en_ca: Steven Wilson
+    en_gb: Steven Wilson
     eo: Steven Wilson
     es: Steven Wilson
     et: Steven Wilson
@@ -54,7 +54,7 @@ dv_has_:
     nl: Steven Wilson
     pl: Steven Wilson
     pt: Steven Wilson
-    pt-br: Steven Wilson
+    pt_br: Steven Wilson
     ru: Стивен Уилсон
     sk: Steven Wilson
     sl: Steven Wilson
@@ -64,8 +64,8 @@ dv_has_:
     uk: Стівен Вілсон
     vmf: Steven Wilson
     zh: 史蒂芬·威爾森
-    zh-hant: 史蒂芬·威爾森
-    zh-tw: 史蒂芬·威爾森
+    zh_hant: 史蒂芬·威爾森
+    zh_tw: 史蒂芬·威爾森
 ---
 # [[Wilson,Steven]] 
 

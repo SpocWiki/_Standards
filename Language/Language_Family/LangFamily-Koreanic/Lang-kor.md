@@ -288,7 +288,7 @@ dv_has_:
   name_:
     ab: Акореи бызшәа
     acm: كورية
-    aeb-arab: الكوري
+    aeb_arab: الكوري
     af: Koreaans
     am: ኮሪይኛ
     an: Idioma corián
@@ -306,7 +306,7 @@ dv_has_:
     ban: Basa Koréa
     bcl: Koreano
     be: карэйская мова
-    be-tarask: карэйская мова
+    be_tarask: карэйская мова
     bg: корейски език
     bn: কোরীয় ভাষা
     br: koreaneg
@@ -327,14 +327,14 @@ dv_has_:
     cy: Corëeg
     da: koreansk
     de: Koreanisch
-    de-ch: Koreanisch
+    de_ch: Koreanisch
     diq: Koryaki
     dsb: korejańšćina
     dv: ކޮރެޔާ ބަސް
     el: Κορεατική γλώσσα
     en: Korean
-    en-ca: Korean
-    en-gb: Korean
+    en_ca: Korean
+    en_gb: Korean
     eo: korea lingvo
     es: coreano
     et: korea keel
@@ -413,7 +413,7 @@ dv_has_:
     mni: ꯀꯣꯔꯤꯌꯥꯟ ꯂꯣꯟ
     mr: कोरियन भाषा
     ms: bahasa Korea
-    ms-arab: بهاس کوريا
+    ms_arab: بهاس کوريا
     mt: Korean
     my: ကိုရီးယားဘာသာစကား
     myv: Кореянь кель
@@ -437,7 +437,7 @@ dv_has_:
     pnb: کوریائی
     ps: کوريايي ژبه
     pt: coreano
-    pt-br: coreano
+    pt_br: coreano
     qu: Kuryu simi
     ro: limba coreeană
     ru: корейский язык
@@ -461,7 +461,7 @@ dv_has_:
     sn: Chikoriya
     sq: Gjuha koreane
     sr: корејски
-    sr-ec: корејски
+    sr_ec: корејски
     su: Basa Koréa
     sv: koreanska
     sw: Kikorea
@@ -479,7 +479,7 @@ dv_has_:
     tr: Korece
     trv: Kari Han-guk
     tt: корея теле
-    tt-cyrl: корей теле
+    tt_cyrl: корей теле
     tyv: Көрей дыл
     udm: корей кыл
     ug: كورىيەچە
@@ -499,14 +499,14 @@ dv_has_:
     yue: 韓文
     zgh: ⵜⵓⵜⵍⴰⵢⵜ ⵜⴰⴽⵓⵔⵉⵜ
     zh: 朝鮮語
-    zh-cn: 朝鲜语
-    zh-hans: 朝鲜语
-    zh-hant: 韓語
-    zh-hk: 韓語
-    zh-mo: 韓語
+    zh_cn: 朝鲜语
+    zh_hans: 朝鲜语
+    zh_hant: 韓語
+    zh_hk: 韓語
+    zh_mo: 韓語
     zh-my: 韩语
-    zh-sg: 韩语
-    zh-tw: 韓語
+    zh_sg: 韩语
+    zh_tw: 韓語
     zu: isi-Korean
 ---
 # [[Lang-kor]]

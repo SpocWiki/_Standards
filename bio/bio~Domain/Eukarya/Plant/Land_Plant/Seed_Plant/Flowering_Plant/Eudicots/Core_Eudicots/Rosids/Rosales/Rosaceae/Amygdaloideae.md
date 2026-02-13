@@ -82,7 +82,7 @@ dv_has_:
     oc: Amygdaloideae
     pl: Amygdaloideae
     pt: Prunoideae
-    pt-br: prunoideae
+    pt_br: prunoideae
     ro: Prunoideae
     ru: сливовые
     sl: Amygdaloideae
@@ -93,11 +93,11 @@ dv_has_:
     war: Amygdaloideae
     xmf: დამაზიშობურეფი
     zh: 桃亚科
-    zh-cn: 桃亚科
-    zh-hans: 梅亚科
-    zh-hant: 梅亞科
-    zh-hk: 梅亞科
-    zh-tw: 桃亞科
+    zh_cn: 桃亚科
+    zh_hans: 梅亚科
+    zh_hant: 梅亞科
+    zh_hk: 梅亞科
+    zh_tw: 桃亞科
 ---
 # [[Amygdaloideae]] 
 

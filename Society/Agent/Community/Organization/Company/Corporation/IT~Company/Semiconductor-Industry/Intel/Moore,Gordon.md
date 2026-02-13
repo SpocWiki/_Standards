@@ -44,11 +44,11 @@ dv_has_:
     cy: Gordon Moore
     da: Gordon Moore
     de: Gordon Moore
-    de-ch: Gordon Moore
+    de_ch: Gordon Moore
     el: Γκόρντον Μουρ
     en: Gordon Moore
-    en-ca: Gordon Moore
-    en-gb: Gordon Moore
+    en_ca: Gordon Moore
+    en_gb: Gordon Moore
     eo: Gordon Moore
     es: Gordon Moore
     et: Gordon Moore
@@ -78,7 +78,7 @@ dv_has_:
     pl: Gordon E. Moore
     pnb: گورڈن مور
     pt: Gordon Moore
-    pt-br: Gordon Moore
+    pt_br: Gordon Moore
     ro: Gordon Moore
     ru: Гордон Мур
     sk: Gordon Moore
@@ -94,12 +94,12 @@ dv_has_:
     vi: Gordon Moore
     wuu: 戈登·摩尔
     zh: 高登·摩爾
-    zh-cn: 戈登·摩尔
-    zh-hans: 戈登·摩尔
-    zh-hant: 高登·摩爾
-    zh-hk: 高登·摩爾
-    zh-sg: 戈登·摩尔
-    zh-tw: 高登·摩爾
+    zh_cn: 戈登·摩尔
+    zh_hans: 戈登·摩尔
+    zh_hant: 高登·摩爾
+    zh_hk: 高登·摩爾
+    zh_sg: 戈登·摩尔
+    zh_tw: 高登·摩爾
 ---
 #has_/time_/started :: 1929-01-03 
 #has_/time_/stopped  :: 2023-03-24 

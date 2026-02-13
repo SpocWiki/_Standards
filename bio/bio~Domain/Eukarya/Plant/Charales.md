@@ -54,7 +54,7 @@ dv_has_:
     pcm: Charales
     pl: Ramienicowce
     pt: Charales
-    pt-br: Charales
+    pt_br: Charales
     ro: Charales
     ru: Charales
     sq: Charales
@@ -63,10 +63,10 @@ dv_has_:
     vo: Charales
     war: Charales
     zh: 轮藻目
-    zh-cn: 轮藻目
-    zh-hans: 轮藻目
-    zh-hant: 輪藻目
-    zh-tw: 輪藻目
+    zh_cn: 轮藻目
+    zh_hans: 轮藻目
+    zh_hant: 輪藻目
+    zh_tw: 輪藻目
 ---
 # [[Charales]] 
 

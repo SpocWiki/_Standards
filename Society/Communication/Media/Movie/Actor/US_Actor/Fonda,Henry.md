@@ -142,7 +142,7 @@ dv_has_:
     azb: هنری فوندا
     ba: Генри Фонда
     be: Генры Фонда
-    be-tarask: Гэнры Фонда
+    be_tarask: Гэнры Фонда
     bg: Хенри Фонда
     bi: Henry Fonda
     bn: হেনরি ফন্ডা
@@ -157,8 +157,8 @@ dv_has_:
     ee: Henry Fonda
     el: Χένρι Φόντα
     en: Henry Fonda
-    en-ca: Henry Fonda
-    en-gb: Henry Fonda
+    en_ca: Henry Fonda
+    en_gb: Henry Fonda
     eo: Henry Fonda
     es: Henry Fonda
     et: Henry Fonda
@@ -204,7 +204,7 @@ dv_has_:
     pl: Henry Fonda
     pms: Henry Fonda
     pt: Henry Fonda
-    pt-br: Henry Fonda
+    pt_br: Henry Fonda
     qu: Henry Fonda
     ro: Henry Fonda
     ru: Генри Фонда
@@ -233,8 +233,8 @@ dv_has_:
     yo: Henry Fonda
     yue: 亨利方達
     zh: 亨利·方达
-    zh-hans: 亨利·方达
-    zh-hant: 亨利·方達
+    zh_hans: 亨利·方达
+    zh_hant: 亨利·方達
 ---
 # [[Fonda,Henry]] 
 

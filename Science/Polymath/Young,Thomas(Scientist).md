@@ -144,7 +144,7 @@ dv_has_:
     az: Tomas Yunq
     azb: توماس یانق
     be: Томас Юнг
-    be-tarask: Томас Юнг
+    be_tarask: Томас Юнг
     bg: Томас Йънг
     bn: থমাস ইয়ং
     bs: Thomas Young
@@ -153,10 +153,10 @@ dv_has_:
     cy: Thomas Young
     da: Thomas Young
     de: Thomas Young
-    de-ch: Thomas Young
+    de_ch: Thomas Young
     el: Τόμας Γιανγκ Ντέιβις
     en: Thomas Young
-    en-gb: Thomas Young
+    en_gb: Thomas Young
     en-us: Thomas Young
     eo: Thomas Young
     es: Thomas Young Davis
@@ -201,7 +201,7 @@ dv_has_:
     pl: Thomas Young
     pms: Thomas Young
     pt: Thomas Young
-    pt-br: Thomas Young
+    pt_br: Thomas Young
     ro: Thomas Young
     ru: Томас Юнг
     sco: Thomas Young
@@ -223,7 +223,7 @@ dv_has_:
     xmf: ტომას იუნგი
     yue: 湯瑪士楊格
     zh: 托马斯·杨
-    zh-hans: 托马斯·杨
+    zh_hans: 托马斯·杨
 ---
 # [[Young,Thomas(Scientist)]] 
 

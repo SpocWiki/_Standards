@@ -56,7 +56,7 @@ dv_has_:
     ast: ENIAC
     az: ENIAC
     be: ЭНІАК
-    be-tarask: ЭНІАК
+    be_tarask: ЭНІАК
     bg: ENIAC
     bn: এনিয়াক
     bs: ENIAC
@@ -87,11 +87,11 @@ dv_has_:
     jv: ENIAC
     ka: ENIAC
     kk: ENIAC
-    kk-arab: ENIAC
+    kk_arab: ENIAC
     kk-cn: ENIAC
-    kk-cyrl: ЕНЫАЦ
+    kk_cyrl: ЕНЫАЦ
     kk-kz: ЕНЫАЦ
-    kk-latn: ENIAC
+    kk_latn: ENIAC
     kk-tr: ENIAC
     ko: 에니악
     la: ENIAC
@@ -119,8 +119,8 @@ dv_has_:
     sl: ENIAC
     sq: Eniac
     sr: ENIAC
-    sr-ec: ENIAC
-    sr-el: ENIAC
+    sr_ec: ENIAC
+    sr_el: ENIAC
     sv: ENIAC
     sw: ENIAC
     ta: எனியாக்
@@ -133,12 +133,12 @@ dv_has_:
     wuu: 电子数值积分计算机
     yue: ENIAC
     zh: 電子數值積分計算機
-    zh-cn: 电子数值积分计算机
-    zh-hans: 电子数值积分计算机
-    zh-hant: 電子數值積分計算機
-    zh-hk: 電子數值積分計數機
-    zh-sg: 电子数值积分计算机
-    zh-tw: 電子數值積分計算機
+    zh_cn: 电子数值积分计算机
+    zh_hans: 电子数值积分计算机
+    zh_hant: 電子數值積分計算機
+    zh_hk: 電子數值積分計數機
+    zh_sg: 电子数值积分计算机
+    zh_tw: 電子數值積分計算機
 ---
 # [[ENIAC]] 
 

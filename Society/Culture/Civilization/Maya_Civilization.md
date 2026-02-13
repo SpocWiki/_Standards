@@ -157,7 +157,7 @@ dv_has_:
     ba: Майя
     bar: Gschicht vo de Maya
     be: Цывілізацыя майя
-    be-tarask: Мая
+    be_tarask: Мая
     bg: Мая
     bn: মায়া সভ্যতা
     bo: གནའ་རབས་མ་ཡ།
@@ -173,11 +173,11 @@ dv_has_:
     cy: Gwareiddiad y Maya
     da: maya
     de: Maya
-    de-ch: Maya
+    de_ch: Maya
     el: Μάγια
     en: Maya civilization
-    en-ca: Maya civilization
-    en-gb: Maya civilisation
+    en_ca: Maya civilization
+    en_gb: Maya civilisation
     eo: Majaa civilizo
     es: cultura maya
     et: Maiade tsivilisatsioon
@@ -232,7 +232,7 @@ dv_has_:
     nan: Maya bûn-bêng
     nb: mayakulturen
     nds: Maya
-    nds-nl: olde majabeskaving
+    nds_nl: olde majabeskaving
     new: माया लहना
     nl: Mayacultuur
     nn: mayakulturen
@@ -244,7 +244,7 @@ dv_has_:
     pnb: مایا رہتل
     ps: مايا تمدن
     pt: Maias
-    pt-br: Maias
+    pt_br: Maias
     qu: Maya hawaykawsay
     ro: civilizația maiașă
     ru: Майя

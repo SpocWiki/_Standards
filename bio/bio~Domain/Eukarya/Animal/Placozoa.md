@@ -60,10 +60,10 @@ dv_has_:
     da: Placozoa
     de: Placozoa
     de-at: Placozoa
-    de-ch: Placozoa
+    de_ch: Placozoa
     en: Placozoa
-    en-ca: Placozoa
-    en-gb: Placozoa
+    en_ca: Placozoa
+    en_gb: Placozoa
     eo: Plakozoo
     es: Placozoa
     et: Placozoa
@@ -109,7 +109,7 @@ dv_has_:
     nap: Placozoa
     nb: Placozoer
     nds: Placozoa
-    nds-nl: Placozoa
+    nds_nl: Placozoa
     nl: Plakdiertjes
     nn: placozoar
     nrm: Placozoa
@@ -121,7 +121,7 @@ dv_has_:
     pl: płaskowce
     pms: Placozoa
     pt: Placozoa
-    pt-br: Placozoa
+    pt_br: Placozoa
     rm: Placozoa
     ro: Placozoa
     ru: пластинчатые
@@ -133,8 +133,8 @@ dv_has_:
     sl: plakozoji
     sq: Placozoa
     sr: плакозое
-    sr-ec: Плакозое
-    sr-el: Plakozoe
+    sr_ec: Плакозое
+    sr_el: Plakozoe
     sv: Placozoer
     sw: Placozoa
     th: พลาโคซัว
@@ -151,12 +151,12 @@ dv_has_:
     war: Placozoa
     wo: Placozoa
     zh: 扁盘动物门
-    zh-cn: 扁盘动物门
-    zh-hans: 扁盘动物门
-    zh-hant: 扁盤動物門
-    zh-hk: 扁盤動物門
-    zh-sg: 扁盘动物门
-    zh-tw: 扁盤動物門
+    zh_cn: 扁盘动物门
+    zh_hans: 扁盘动物门
+    zh_hant: 扁盤動物門
+    zh_hk: 扁盤動物門
+    zh_sg: 扁盘动物门
+    zh_tw: 扁盤動物門
     zu: Placozoa
 ---
 # [[Placozoa]] 

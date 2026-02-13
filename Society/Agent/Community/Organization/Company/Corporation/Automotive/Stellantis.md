@@ -103,7 +103,7 @@ dv_has_:
     ar: ستيلانتس
     ast: Stellantis
     be: Стэланціс
-    be-tarask: Стэланціс
+    be_tarask: Стэланціс
     bg: Стелантис
     ca: Stellantis
     cs: Stellantis
@@ -147,8 +147,8 @@ dv_has_:
     vi: Stellantis
     yue: 聖帝蘭帝斯汽車集團
     zh: 斯泰蘭蒂斯
-    zh-hans: 斯特兰蒂斯
-    zh-hant: Stellantis 斯泰蘭蒂斯
+    zh_hans: 斯特兰蒂斯
+    zh_hant: Stellantis 斯泰蘭蒂斯
 ---
 # [[Stellantis]] 
 

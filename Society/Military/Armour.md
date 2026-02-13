@@ -92,7 +92,7 @@ dv_has_:
     ast: armadura
     az: zireh
     be: браня
-    be-tarask: браня
+    be_tarask: браня
     bg: броня
     br: houarnwisk
     bs: oklop
@@ -103,8 +103,8 @@ dv_has_:
     da: rustning
     de: Rüstung
     en: body armor
-    en-ca: personal armor
-    en-gb: body armour
+    en_ca: personal armor
+    en_gb: body armour
     eo: korpa kiraso
     es: armadura
     et: soomus
@@ -140,7 +140,7 @@ dv_has_:
     pl: zbroja
     pms: Armadura
     pt: armadura
-    pt-br: armadura
+    pt_br: armadura
     qu: purupuru
     ro: armură
     ru: доспехи
@@ -149,8 +149,8 @@ dv_has_:
     sms: laatt
     sq: armatura
     sr: оклоп
-    sr-ec: оклоп
-    sr-el: oklop
+    sr_ec: оклоп
+    sr_el: oklop
     ta: கவசமிட்ட வீரர்
     tg: Зиреҳ
     th: เกราะส่วนบุคคล
@@ -162,9 +162,9 @@ dv_has_:
     xal: лувц
     yue: 護具
     zh: 身體盔甲
-    zh-hans: 盔甲
-    zh-hant: 盔甲
-    zh-hk: 盔甲
+    zh_hans: 盔甲
+    zh_hant: 盔甲
+    zh_hk: 盔甲
 ---
 # [[Armour]] 
 

@@ -284,7 +284,7 @@ dv_has_:
     bar: Neis Testament
     bcl: Bagong Tipan
     be: Новы Запавет
-    be-tarask: Новы Запавет
+    be_tarask: Новы Запавет
     bew: Wasiat Anyar
     bg: Нов Завет
     bn: নতুন নিয়ম
@@ -301,13 +301,13 @@ dv_has_:
     cy: y Testament Newydd
     da: Det Nye Testamente
     de: Neues Testament
-    de-ch: Neues Testament
+    de_ch: Neues Testament
     dsb: Nowy testament
     dtp: Pibatasan Wagu
     el: Καινή Διαθήκη
     en: New Testament
-    en-ca: New Testament
-    en-gb: New Testament
+    en_ca: New Testament
+    en_gb: New Testament
     en-us: New Testament
     eo: Nova testamento
     es: Nuevo Testamento
@@ -371,7 +371,7 @@ dv_has_:
     mn: Шинэ Гэрээ
     mr: नवा करार
     ms: Perjanjian Baru
-    ms-arab: ڤرجنجين بارو
+    ms_arab: ڤرجنجين بارو
     mt: Testment il-Ġdid
     my: ဓမ္မသစ်ကျမ်း
     na: Testament Etsimeduw
@@ -379,7 +379,7 @@ dv_has_:
     nap: Nuòv Testamento
     nb: Det nye testamentet
     nds: Nieg Testament
-    nds-nl: Ni'je Testement
+    nds_nl: Ni'je Testement
     ne: नयाँ करार
     nia: Amabu'ulali Sibohou
     nl: Nieuwe Testament
@@ -393,7 +393,7 @@ dv_has_:
     pms: Neuv Testament
     pnb: عہد نامہ جدید
     pt: Novo Testamento
-    pt-br: Novo Testamento
+    pt_br: Novo Testamento
     qu: Musuq Rimanakuy
     rm: Nov Testament
     ro: Noul Testament

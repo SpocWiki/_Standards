@@ -95,7 +95,7 @@ dv_has_:
     azb: نرد
     ba: Ҡыҫҡа нарды
     be: Кароткія нарды
-    be-tarask: Кароткія нарды
+    be_tarask: Кароткія нарды
     bg: Табла
     bn: ব্যাকগ্যামন
     br: Backgammon
@@ -110,7 +110,7 @@ dv_has_:
     de: Backgammon
     el: Τάβλι
     en: backgammon
-    en-gb: backgammon
+    en_gb: backgammon
     en-us: backgammon
     eo: triktrako
     es: backgammon

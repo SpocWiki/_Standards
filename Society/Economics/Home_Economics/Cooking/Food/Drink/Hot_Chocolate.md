@@ -107,7 +107,7 @@ dv_has_:
     az: Kakao
     ba: какао
     be: гарачы шакалад
-    be-tarask: гарачы шакаляд
+    be_tarask: гарачы шакаляд
     bg: Горещ шоколад
     bn: হট চকলেট
     ca: llet amb cacau
@@ -118,8 +118,8 @@ dv_has_:
     de: Kakao
     el: ζεστή σοκολάτα
     en: hot chocolate
-    en-ca: hot chocolate
-    en-gb: hot chocolate
+    en_ca: hot chocolate
+    en_gb: hot chocolate
     eo: varma ĉokolado
     es: chocolate caliente
     et: Kakao
@@ -157,7 +157,7 @@ dv_has_:
     pa: ਗਰਮ ਚਾਕਲੇਟ
     pl: czekolada pitna
     pt: chocolate quente
-    pt-br: Chocolate quente
+    pt_br: Chocolate quente
     qu: Kakawa upyana
     ru: какао
     sco: het chocolate

@@ -102,7 +102,7 @@ dv_has_:
     arz: چون ماكينرو
     ast: John McEnroe
     be: Джон Мак-Інрой
-    be-tarask: Джон Макінра
+    be_tarask: Джон Макінра
     bg: Джон Макенроу
     bn: জন ম্যাকেনরো
     ca: John McEnroe
@@ -112,11 +112,11 @@ dv_has_:
     da: John McEnroe
     de: John McEnroe
     de-at: John McEnroe
-    de-ch: John McEnroe
+    de_ch: John McEnroe
     el: Τζον Μακ Ένρο
     en: John McEnroe
-    en-ca: John McEnroe
-    en-gb: John McEnroe
+    en_ca: John McEnroe
+    en_gb: John McEnroe
     eo: John McEnroe
     es: John McEnroe
     et: John McEnroe
@@ -156,7 +156,7 @@ dv_has_:
     pl: John McEnroe
     pms: John McEnroe
     pt: John McEnroe
-    pt-br: John McEnroe
+    pt_br: John McEnroe
     rm: John McEnroe
     ro: John McEnroe
     ru: Джон Макинрой

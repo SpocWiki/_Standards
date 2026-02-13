@@ -180,7 +180,7 @@ dv_has_:
     az: Corc Pyer Sera
     bar: Georges Seurat
     be: Жорж-П'ер Сёра
-    be-tarask: Жорж-П’ер Сёра
+    be_tarask: Жорж-П’ер Сёра
     bg: Жорж Сьора
     bm: Georges Seurat
     bn: জর্জেস সেউরাত
@@ -194,11 +194,11 @@ dv_has_:
     dag: Georges Seurat
     de: Georges Seurat
     de-at: Georges Seurat
-    de-ch: Georges Seurat
+    de_ch: Georges Seurat
     el: Ζωρζ Σερά
     en: Georges Seurat
-    en-ca: Georges Seurat
-    en-gb: Georges Seurat
+    en_ca: Georges Seurat
+    en_gb: Georges Seurat
     eo: Georges Seurat
     es: Georges Seurat
     et: Georges Seurat
@@ -250,7 +250,7 @@ dv_has_:
     nap: Georges Seurat
     nb: Georges Seurat
     nds: Georges Seurat
-    nds-nl: Georges Seurat
+    nds_nl: Georges Seurat
     nl: Georges Seurat
     nn: Georges Seurat
     nrm: Georges Seurat
@@ -263,7 +263,7 @@ dv_has_:
     pnb: جارج سیورات
     prg: Georges Seurat
     pt: Georges Seurat
-    pt-br: Georges Seurat
+    pt_br: Georges Seurat
     rgn: Georges Seurat
     rm: Georges Seurat
     ro: Georges Seurat
@@ -275,8 +275,8 @@ dv_has_:
     sl: Georges Seurat
     sq: Georges Seurat
     sr: Жорж-Пјер Сера
-    sr-ec: Жорж-Пјер Сера
-    sr-el: Georges Seurat
+    sr_ec: Жорж-Пјер Сера
+    sr_el: Georges Seurat
     sv: Georges Seurat
     sw: Georges Seurat
     ta: யோர்ச் சோரா

@@ -72,7 +72,7 @@ Commons_category: Sustainable agriculture
 dv_has_:
   name_:
     ar: زراعة مستدامة
-    be-tarask: устойлівая сельская гаспадарка
+    be_tarask: устойлівая сельская гаспадарка
     bg: Устойчиво земеделие
     bn: টেকসই কৃষি
     ca: agricultura sostenible
@@ -81,8 +81,8 @@ dv_has_:
     de: nachhaltige Landwirtschaft
     el: βιώσιμη γεωργία
     en: sustainable agriculture
-    en-ca: sustainable agriculture
-    en-gb: sustainable agriculture
+    en_ca: sustainable agriculture
+    en_gb: sustainable agriculture
     eo: eltenebla agrikulturo
     es: agricultura sostenible
     eu: Nekazaritza jasangarri
@@ -106,13 +106,13 @@ dv_has_:
     mn: Тогтвортой хөдөө аж ахуй
     mr: sustainable
     ms: pertanian mampan
-    ms-arab: ڤرتانين ممڤن
+    ms_arab: ڤرتانين ممڤن
     nb: bærekraftig landbruk
     nl: duurzame landbouw
     pl: rolnictwo zrównoważone
     ps: تلپاتې کرنه
     pt: agricultura sustentável
-    pt-br: agricultura sustentável
+    pt_br: agricultura sustentável
     ro: agricultură durabilă
     ru: устойчивое сельское хозяйство
     rw: Ubuhinzi burambye

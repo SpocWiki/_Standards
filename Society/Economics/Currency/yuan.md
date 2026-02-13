@@ -106,7 +106,7 @@ dv_has_:
     bar: Renminbi
     bcl: renminbi
     be: юань
-    be-tarask: рэнмінбі
+    be_tarask: рэнмінбі
     bg: китайски юан
     bn: রেন্মিন্বি
     bo: མི་དམངས་ཤོག་དངུལ
@@ -123,8 +123,8 @@ dv_has_:
     dv: ރެންމިބީ
     el: ρενμίνμπι
     en: renminbi
-    en-ca: renminbi
-    en-gb: renminbi
+    en_ca: renminbi
+    en_gb: renminbi
     eo: renminbio
     es: yuan chino
     et: Renminbi
@@ -177,7 +177,7 @@ dv_has_:
     pa: ਰਨਮਿਨਬੀ
     pl: renminbi
     pt: yuan
-    pt-br: Renminbi
+    pt_br: Renminbi
     qu: Renminbi
     ro: Yuan renminbi
     ru: китайский юань
@@ -211,8 +211,8 @@ dv_has_:
     yue: 人民幣
     za: Yinzminzbi
     zh: 人民币
-    zh-hans: 人民币
-    zh-hant: 人民幣
+    zh_hans: 人民币
+    zh_hant: 人民幣
     zu: i-renminbi
 ---
 #is_/same_as :: [[WD~Renminbi,39099]] 

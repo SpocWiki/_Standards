@@ -171,7 +171,7 @@ dv_has_:
     azb: بنوشه(بنفشه)
     bar: Veigal
     be: фіялка
-    be-tarask: браткі
+    be_tarask: браткі
     bg: теменуга
     bo: མ་མེན་མེ་ཏོག
     br: Viola
@@ -214,8 +214,8 @@ dv_has_:
     ko: 제비꽃속
     ks: نوٗنہٕ پوش
     ku: Binefş
-    ku-arab: بنەفش
-    ku-latn: Binefş
+    ku_arab: بنەفش
+    ku_latn: Binefş
     kw: melion
     ky: Алагүл
     la: Viola
@@ -237,7 +237,7 @@ dv_has_:
     pl: Fiołek
     ps: چمبل
     pt: Viola
-    pt-br: Viola
+    pt_br: Viola
     ro: Viola
     rsk: Любичица
     ru: фиалка
@@ -250,8 +250,8 @@ dv_has_:
     sl: vijolica
     sq: Manushaqja
     sr: љубичица
-    sr-ec: Љубичица
-    sr-el: Ljubičica
+    sr_ec: Љубичица
+    sr_el: Ljubičica
     sv: Violsläktet
     tg: Бунафша
     th: Viola (พืช)
@@ -269,12 +269,12 @@ dv_has_:
     wuu: 堇菜属
     yue: 堇菜屬
     zh: 堇菜属
-    zh-cn: 堇菜属
-    zh-hans: 堇菜属
-    zh-hant: 堇菜屬
-    zh-hk: 堇菜屬
-    zh-sg: 堇菜属
-    zh-tw: 堇菜屬
+    zh_cn: 堇菜属
+    zh_hans: 堇菜属
+    zh_hant: 堇菜屬
+    zh_hk: 堇菜屬
+    zh_sg: 堇菜属
+    zh_tw: 堇菜屬
 ---
 # [[Viola(Plant)]] 
 

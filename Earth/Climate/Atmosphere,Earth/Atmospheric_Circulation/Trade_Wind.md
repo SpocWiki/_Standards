@@ -107,7 +107,7 @@ dv_has_:
     az: Passat
     ban: Angin kanginan
     be: Пасат
-    be-tarask: пасат
+    be_tarask: пасат
     bg: Пасат
     bho: ट्रेड विंड्स
     bn: অয়ন বায়ু
@@ -143,11 +143,11 @@ dv_has_:
     ja: 貿易風
     ka: პასატები
     kk: Пассат
-    kk-arab: پاسسات
+    kk_arab: پاسسات
     kk-cn: پاسسات
-    kk-cyrl: Пассат
+    kk_cyrl: Пассат
     kk-kz: Пассат
-    kk-latn: Passat
+    kk_latn: Passat
     kk-tr: Passat
     ko: 무역풍
     la: Venti anniversarii
@@ -178,8 +178,8 @@ dv_has_:
     sms: pasaatpiõgg
     sq: Pasatet
     sr: Пасати
-    sr-ec: Пасати
-    sr-el: Pasati
+    sr_ec: Пасати
+    sr_el: Pasati
     sv: passadvind
     sw: trade wind
     ta: வணிகக் காற்று
@@ -192,12 +192,12 @@ dv_has_:
     wuu: 信风
     yue: 信風
     zh: 信風
-    zh-cn: 信风
-    zh-hans: 信风
-    zh-hant: 信風
-    zh-hk: 信風
-    zh-sg: 信风
-    zh-tw: 信風
+    zh_cn: 信风
+    zh_hans: 信风
+    zh_hant: 信風
+    zh_hk: 信風
+    zh_sg: 信风
+    zh_tw: 信風
 ---
 # [[Trade_Wind]] 
 

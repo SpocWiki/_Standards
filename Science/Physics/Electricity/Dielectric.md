@@ -60,7 +60,7 @@ dv_has_:
     ast: Dieléctricu
     az: Dielektriklər
     be: Дыэлектрык
-    be-tarask: дыэлектрык
+    be_tarask: дыэлектрык
     bg: Диелектрик
     bn: অস্তরক
     ca: dielèctric
@@ -70,8 +70,8 @@ dv_has_:
     de: Dielektrikum
     el: διηλεκτρικό
     en: dielectric
-    en-ca: Dielectric
-    en-gb: Dielectric
+    en_ca: Dielectric
+    en_gb: Dielectric
     eo: dielektriko
     es: dieléctrico
     et: Dielektrik
@@ -94,11 +94,11 @@ dv_has_:
     ja: 誘電体
     ka: დიელექტრიკი
     kk: Диэлектрик
-    kk-arab: دىيەلەكترىيك
+    kk_arab: دىيەلەكترىيك
     kk-cn: دىيەلەكترىيك
-    kk-cyrl: Диэлектрик
+    kk_cyrl: Диэлектрик
     kk-kz: Диэлектрик
-    kk-latn: Dïélektrïk
+    kk_latn: Dïélektrïk
     kk-tr: Dïélektrïk
     ko: 유전체 (물리학)
     lt: Dielektrikas
@@ -110,7 +110,7 @@ dv_has_:
     nn: dielektrikum
     pl: dielektryk
     pt: dielétrico
-    pt-br: Dielétrico
+    pt_br: Dielétrico
     ro: dielectric
     ru: диэлектрик
     sh: Dielektrik
@@ -127,12 +127,12 @@ dv_has_:
     wuu: 介电质
     yue: 介電質
     zh: 介電質
-    zh-cn: 介电质
-    zh-hans: 介电质
-    zh-hant: 介電質
-    zh-hk: 介電質
-    zh-sg: 介电质
-    zh-tw: 介電質
+    zh_cn: 介电质
+    zh_hans: 介电质
+    zh_hant: 介電質
+    zh_hk: 介電質
+    zh_sg: 介电质
+    zh_tw: 介電質
 ---
 # [[Dielectric]] 
 

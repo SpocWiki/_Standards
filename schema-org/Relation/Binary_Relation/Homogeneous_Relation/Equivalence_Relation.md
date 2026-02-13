@@ -98,7 +98,7 @@ dv_has_:
     ar: علاقة تكافؤ
     ast: rellación d'equivalencia
     ba: Эквивалентлыҡ бәйләнеше
-    be-tarask: эквівалентная адносіна
+    be_tarask: эквівалентная адносіна
     bn: সমতুল্যতার অন্বয়
     bs: relacija ekvivalentnosti
     ca: relació d'equivalència
@@ -149,8 +149,8 @@ dv_has_:
     sl: ekvivalenčna relacija
     sq: Relacionet e ekuivalencës
     sr: релација еквиваленције
-    sr-ec: релација еквиваленције
-    sr-el: relacija ekvivalencije
+    sr_ec: релација еквиваленције
+    sr_el: relacija ekvivalencije
     sv: ekvivalensrelation
     ta: சமான உறவு
     tr: denklik bağıntısı
@@ -160,12 +160,12 @@ dv_has_:
     vi: tập hợp tương đương
     yue: 等價關係
     zh: 等价关系
-    zh-cn: 等价关系
-    zh-hans: 等价关系
-    zh-hant: 等價關係
-    zh-hk: 等價關係
-    zh-sg: 等价关系
-    zh-tw: 等價關係
+    zh_cn: 等价关系
+    zh_hans: 等价关系
+    zh_hant: 等價關係
+    zh_hk: 等價關係
+    zh_sg: 等价关系
+    zh_tw: 等價關係
 ---
 # [[Equivalence_Relation]] 
 

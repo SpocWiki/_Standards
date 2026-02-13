@@ -90,7 +90,7 @@ dv_has_:
     az: Atəşkəs
     azb: آتشکس
     bar: Woffnstuistand
-    be-tarask: спыненьне агню
+    be_tarask: спыненьне агню
     bew: Randekan gegaman
     br: Harz-tennañ
     ca: alto el foc
@@ -100,12 +100,12 @@ dv_has_:
     cy: Cadoediad
     da: våbenhvile
     de: Waffenruhe
-    de-ch: Waffenruhe
+    de_ch: Waffenruhe
     dsb: wójnski wótpócynk
     el: Εκεχειρία
     en: ceasefire
-    en-ca: ceasefire
-    en-gb: ceasefire
+    en_ca: ceasefire
+    en_gb: ceasefire
     eo: batalhalto
     es: alto el fuego
     et: Relvarahu
@@ -127,8 +127,8 @@ dv_has_:
     kn: ಕದನ ವಿರಾಮ
     ko: 정전
     ku: Agirbest
-    ku-arab: ئاگربەست
-    ku-latn: Agirbest
+    ku_arab: ئاگربەست
+    ku_latn: Agirbest
     la: Indutiae
     lmo: Cessee 'l foeugh
     mk: прекин на оган
@@ -142,7 +142,7 @@ dv_has_:
     pl: zawieszenie broni
     ps: اوربند
     pt: cessar-fogo
-    pt-br: Cessar-fogo
+    pt_br: Cessar-fogo
     ru: прекращение огня
     sc: tzessade-su-fogu
     scn: cissati lu focu
@@ -162,12 +162,12 @@ dv_has_:
     yi: וואפן שטילשטאנד
     yue: 停火
     zh: 停火
-    zh-cn: 停火
-    zh-hans: 停火
-    zh-hant: 停火
-    zh-hk: 停火
-    zh-sg: 停火
-    zh-tw: 停火
+    zh_cn: 停火
+    zh_hans: 停火
+    zh_hant: 停火
+    zh_hk: 停火
+    zh_sg: 停火
+    zh_tw: 停火
 ---
 # [[Ceasefire]] 
 

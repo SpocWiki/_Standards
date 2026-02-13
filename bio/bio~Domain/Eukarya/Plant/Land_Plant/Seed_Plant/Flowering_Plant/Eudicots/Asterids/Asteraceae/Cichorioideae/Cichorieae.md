@@ -75,14 +75,14 @@ dv_has_:
     oc: Cichorieae
     pl: Cichorieae
     pt: Cichorieae
-    pt-br: Cichorieae
+    pt_br: Cichorieae
     ro: Cichorieae
     ru: Cichorieae
     sl: Cichorieae
     sq: Cichorieae
     sr: Cichorieae
-    sr-ec: Cichorieae
-    sr-el: Cichorieae
+    sr_ec: Cichorieae
+    sr_el: Cichorieae
     sv: Cichorieae
     tr: Cichorieae
     uk: Cichorieae
@@ -90,12 +90,12 @@ dv_has_:
     vo: Cichorieae
     war: Cichorieae
     zh: 菊苣族
-    zh-cn: 菊苣族
-    zh-hans: 菊苣族
-    zh-hant: 菊苣族
-    zh-hk: 菊苣族
-    zh-sg: 菊苣族
-    zh-tw: 菊苣族
+    zh_cn: 菊苣族
+    zh_hans: 菊苣族
+    zh_hant: 菊苣族
+    zh_hk: 菊苣族
+    zh_sg: 菊苣族
+    zh_tw: 菊苣族
 ---
 # [[Cichorieae]] 
 

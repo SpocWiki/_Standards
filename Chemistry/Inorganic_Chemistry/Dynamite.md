@@ -111,7 +111,7 @@ dv_has_:
     az: dinamit
     bcl: Dynamite
     be: дынаміт
-    be-tarask: дынаміт
+    be_tarask: дынаміт
     bg: Динамит
     bho: डायनामाइट
     bn: ডায়নামাইট
@@ -200,7 +200,7 @@ dv_has_:
     wuu: 硝酸甘油炸药
     yue: 硝酸甘油炸藥
     zh: 矽藻土炸藥
-    zh-hant: 矽藻土炸藥
+    zh_hant: 矽藻土炸藥
 ---
 # [[Dynamite]] 
 

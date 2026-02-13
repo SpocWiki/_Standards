@@ -25,12 +25,12 @@ dv_has_:
     mul: Modern Library
     nb: Modern Library
     pt: Modern Library
-    pt-br: Modern Library
+    pt_br: Modern Library
     ur: ماڈرن لائبریری
     zh: 現代圖書館
-    zh-cn: 现代图书馆
-    zh-hans: 现代图书馆
-    zh-hant: 美國現代圖書館
+    zh_cn: 现代图书馆
+    zh_hans: 现代图书馆
+    zh_hant: 美國現代圖書館
 ---
 #is_a :: [[../../../../../Agent/Community/Organization/Company/Corporation|Corporation]] 
 

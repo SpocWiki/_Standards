@@ -84,7 +84,7 @@ dv_has_:
     ar: جون جورج كيميني
     arz: جون جورج كيمينى
     ast: John George Kemeny
-    be-tarask: Джон Джордж Кемэні
+    be_tarask: Джон Джордж Кемэні
     bg: Джон Кемени
     ca: John George Kemeny
     cs: John George Kemeny
@@ -92,10 +92,10 @@ dv_has_:
     da: John G. Kemeny
     dag: John George Kemeny
     de: John G. Kemeny
-    de-ch: John Kemeny
+    de_ch: John Kemeny
     en: John George Kemeny
-    en-ca: John Kemeny
-    en-gb: John Kemeny
+    en_ca: John Kemeny
+    en_gb: John Kemeny
     eo: János Kemény
     es: John George Kemeny
     eu: John George Kemeny
@@ -118,7 +118,7 @@ dv_has_:
     oc: John George Kemeny
     pl: John Kemeny
     pt: John George Kemeny
-    pt-br: John George Kemeny
+    pt_br: John George Kemeny
     ro: John G. Kemeny
     ru: Джон Джордж Кемени
     sk: John George Kemeny
@@ -132,7 +132,7 @@ dv_has_:
     vec: John George Kemeny
     war: John Kemeny
     zh: 约翰·克米尼
-    zh-hans: 约翰·克米尼
+    zh_hans: 约翰·克米尼
 ---
 # [[Kemeny,John_George]]
 

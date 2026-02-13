@@ -66,7 +66,7 @@ dv_has_:
     ar: تاوون
     as: টাউ
     be: тау-лептон
-    be-tarask: таў-лептон
+    be_tarask: таў-лептон
     bg: таон
     br: tauon
     bs: tau-čestica
@@ -77,8 +77,8 @@ dv_has_:
     de: τ-Lepton
     el: ταυ λεπτόνιο
     en: tau
-    en-ca: Tau
-    en-gb: Tau
+    en_ca: Tau
+    en_gb: Tau
     eo: taŭono
     es: tau
     eu: tau
@@ -114,14 +114,14 @@ dv_has_:
     pl: taon
     pnb: ٹاؤ لپٹن
     pt: tau
-    pt-br: Tau
+    pt_br: Tau
     ru: тау-лептон
     sh: Tauon
     sk: tauón
     sl: lepton tau
     sr: тау лептон
-    sr-ec: тау лептон
-    sr-el: tau lepton
+    sr_ec: тау лептон
+    sr_el: tau lepton
     sv: tau-lepton
     ta: தாவ் (துகள்)
     tl: tau
@@ -131,12 +131,12 @@ dv_has_:
     war: tau
     yue: Τ子
     zh: τ子
-    zh-cn: τ子
-    zh-hans: τ子
-    zh-hant: τ子
-    zh-hk: τ子
-    zh-sg: τ子
-    zh-tw: τ子
+    zh_cn: τ子
+    zh_hans: τ子
+    zh_hant: τ子
+    zh_hk: τ子
+    zh_sg: τ子
+    zh_tw: τ子
 ---
 # [[Tau_Lepton]] 
 

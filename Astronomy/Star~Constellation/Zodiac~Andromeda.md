@@ -103,7 +103,7 @@ dv_has_:
     azb: آندرومئدا
     ba: Андромеда
     be: Андрамеда
-    be-tarask: Андрамэда
+    be_tarask: Андрамэда
     bg: Андромеда
     bn: ধ্রুবমাতা মণ্ডল
     bo: ལྷ་མོའི་སྐར་ཚོམ་
@@ -174,7 +174,7 @@ dv_has_:
     pl: gwiazdozbiór Andromedy
     pnb: زنجیری سوانی
     pt: Andrómeda
-    pt-br: Andrômeda
+    pt_br: Andrômeda
     ro: Andromeda
     ru: Андромеда
     sah: Андромеда

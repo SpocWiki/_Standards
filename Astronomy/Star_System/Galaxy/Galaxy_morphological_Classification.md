@@ -73,14 +73,14 @@ dv_has_:
     af: Morfologiese klassifikasie van sterrestelsels
     ar: تصنيف المجرات
     be: Марфалагічная класіфікацыя галактык
-    be-tarask: марфалягічная клясыфікацыя галяктык
+    be_tarask: марфалягічная клясыфікацыя галяктык
     bs: Morfološka klasifikacija galaksija
     ca: classificació morfològica de les galàxies
     cs: morfologická klasifikace galaxií
     de: morphologischer Typ der Galaxie
     en: galaxy morphological classification
-    en-ca: Galaxy morphological classification
-    en-gb: galaxy morphological classification
+    en_ca: Galaxy morphological classification
+    en_gb: galaxy morphological classification
     eo: morfologia klasifiko de galaksioj
     es: clasificación morfológica de las galaxias
     eu: Galaxien sailkapen morfologiko
@@ -115,9 +115,9 @@ dv_has_:
     vi: Phân loại hình thái của thiên hà
     yue: 星系型態分類
     zh: 星系分類
-    zh-hans: 星系分类
-    zh-hant: 星系分類
-    zh-hk: 星系分類
+    zh_hans: 星系分类
+    zh_hant: 星系分類
+    zh_hk: 星系分類
 ---
 # [[Galaxy_morphological_Classification]] 
 

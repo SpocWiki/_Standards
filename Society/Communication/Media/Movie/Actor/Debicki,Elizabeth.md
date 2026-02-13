@@ -32,7 +32,7 @@ dv_has_:
     arz: اليزابيث ديبيكى
     ast: Elizabeth Debicki
     be: Элізабет Дэбікі
-    be-tarask: Элізабэт Дэбік
+    be_tarask: Элізабэт Дэбік
     bg: Елизабет Дебики
     bjn: Elizabeth Debicki
     bn: এলিজাবেথ ডেবিকি
@@ -65,7 +65,7 @@ dv_has_:
     ko: 엘리자베스 데비키
     lt: Elizabeth Debicki
     lv: Elizabete Debiki
-    map-bms: Elizabeth Debicki
+    map_bms: Elizabeth Debicki
     min: Elizabeth Debicki
     ms: Elizabeth Debicki
     nan: Elizabeth Debicki
@@ -75,7 +75,7 @@ dv_has_:
     pap: Elizabeth Debicki
     pl: Elizabeth Debicki
     pt: Elizabeth Debicki
-    pt-br: Elizabeth Debicki
+    pt_br: Elizabeth Debicki
     ro: Elizabeth Debicki
     ru: Элизабет Дебики
     sco: Elizabeth Debicki
@@ -89,14 +89,14 @@ dv_has_:
     th: เอลิซาเบธ เดบิคกี
     tr: Elizabeth Debicki
     tt: Элизабет Дебики
-    tt-cyrl: Элизабет Дебики
+    tt_cyrl: Элизабет Дебики
     uk: Елізабет Дебікі
     ur: الزبتھ ڈیبیکی
     uz: Elizabeth Debicki
     vi: Elizabeth Debicki
     yue: 伊麗莎白·迪碧琪
     zh: 伊莉莎白·戴比基
-    zh-hk: 伊麗莎白·迪碧琪
+    zh_hk: 伊麗莎白·迪碧琪
 ---
 #has_/time_/started :: 1936-08-18 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

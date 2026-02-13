@@ -135,7 +135,7 @@ dv_has_:
     az: Emili Dikinson
     azb: امیلی دیکنسون
     be: Эмілі Дзікінсан
-    be-tarask: Эмілі Дыкінсан
+    be_tarask: Эмілі Дыкінсан
     bg: Емили Дикинсън
     bi: Emily Dickinson
     bn: এমিলি ডিকিনসন
@@ -149,11 +149,11 @@ dv_has_:
     cy: Emily Dickinson
     da: Emily Dickinson
     de: Emily Dickinson
-    de-ch: Emily Dickinson
+    de_ch: Emily Dickinson
     el: Έμιλι Ντίκινσον
     en: Emily Dickinson
-    en-ca: Emily Dickinson
-    en-gb: Emily Dickinson
+    en_ca: Emily Dickinson
+    en_gb: Emily Dickinson
     eo: Emily Dickinson
     es: Emily Dickinson
     et: Emily Dickinson
@@ -201,7 +201,7 @@ dv_has_:
     nan: Emily Dickinson
     nb: Emily Dickinson
     nds: Emily Dickinson
-    nds-nl: Emily Dickinson
+    nds_nl: Emily Dickinson
     ne: एम्लि डिकिन्सन
     new: इमिली डिकिन्सन
     nl: Emily Dickinson
@@ -214,7 +214,7 @@ dv_has_:
     pms: Emily Dickinson
     pnb: ایملی ڈکنسن
     pt: Emily Dickinson
-    pt-br: Emily Dickinson
+    pt_br: Emily Dickinson
     ro: Emily Dickinson
     ru: Эмили Дикинсон
     sco: Emily Dickinson
@@ -241,9 +241,9 @@ dv_has_:
     yi: עמילי דיקענסאן
     yue: 狄更生
     zh: 艾蜜莉·狄金生
-    zh-cn: 艾米莉·狄金森
-    zh-hans: 艾米莉·狄金森
-    zh-hant: 艾蜜莉·狄金生
+    zh_cn: 艾米莉·狄金森
+    zh_hans: 艾米莉·狄金森
+    zh_hant: 艾蜜莉·狄金生
 ---
 # [[Dickinson,Emily]] 
 

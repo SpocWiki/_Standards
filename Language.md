@@ -368,7 +368,7 @@ dv_has_:
     bbc: Hata
     bcl: tataramon
     be: мова
-    be-tarask: мова
+    be_tarask: мова
     bew: Basa
     bg: език
     bho: भाषा
@@ -384,7 +384,7 @@ dv_has_:
     btm: saro
     bxr: хэлэн
     ca: llenguatge
-    cbk-zam: lenguaje
+    cbk_zam: lenguaje
     cdo: ngṳ̄-ngiòng
     ce: мотт
     ceb: pinulongan
@@ -401,7 +401,7 @@ dv_has_:
     da: sprog
     dag: balli
     de: Sprache
-    de-ch: Sprache
+    de_ch: Sprache
     diq: zıwan
     dty: भाषा
     dv: ބަސް
@@ -482,7 +482,7 @@ dv_has_:
     ks: زَبان
     ksh: Sprooch
     ku: ziman
-    ku-latn: ziman
+    ku_latn: ziman
     kv: кыв
     kw: yeth
     ky: тил
@@ -503,7 +503,7 @@ dv_has_:
     lzh: 語言
     mad: bhâsa
     mai: भाषा
-    map-bms: basa
+    map_bms: basa
     mdf: кяль
     mg: fiteny
     mhr: йылме
@@ -514,7 +514,7 @@ dv_has_:
     mni: ꯂꯣꯜ
     mr: भाषा
     ms: bahasa
-    ms-arab: بهاس
+    ms_arab: بهاس
     mt: lingwa
     my: ဘာသာစကား
     myv: кель
@@ -524,7 +524,7 @@ dv_has_:
     nap: lengua
     nb: språk
     nds: Spraak
-    nds-nl: taol
+    nds_nl: taol
     ne: भाषा
     new: भाषा
     nia: li
@@ -549,7 +549,7 @@ dv_has_:
     pnb: زبان
     ps: ژبه
     pt: linguagem
-    pt-br: linguagem
+    pt_br: linguagem
     pwn: kai
     qu: rimay
     rki: ဘာသာစကား
@@ -590,8 +590,8 @@ dv_has_:
     so: luuqad
     sq: gjuha
     sr: језик
-    sr-ec: језик
-    sr-el: jezik
+    sr_ec: језик
+    sr_el: jezik
     srn: tongo
     st: dipuo
     stq: Sproake
@@ -605,7 +605,7 @@ dv_has_:
     tcy: ಭಾಷೆ
     te: భాష
     tg: забон
-    tg-cyrl: забон
+    tg_cyrl: забон
     th: ภาษา
     tk: dil
     tl: wika
@@ -616,8 +616,8 @@ dv_has_:
     trv: kari
     ts: ririmi
     tt: тел
-    tt-cyrl: тел
-    tt-latn: tel
+    tt_cyrl: тел
+    tt_latn: tel
     tw: kasa
     udm: кыл
     ug: تىل
@@ -644,13 +644,13 @@ dv_has_:
     zea: taele
     zgh: ⵜⴰⵎⵙⵍⴰⵢⵜ
     zh: 语言
-    zh-cn: 语言
-    zh-hans: 语言
-    zh-hant: 語言
-    zh-hk: 語言
-    zh-mo: 語言
-    zh-sg: 语言
-    zh-tw: 語言
+    zh_cn: 语言
+    zh_hans: 语言
+    zh_hant: 語言
+    zh_hk: 語言
+    zh_mo: 語言
+    zh_sg: 语言
+    zh_tw: 語言
     zu: izilimi
 ---
 # [[Language]] 

@@ -92,7 +92,7 @@ dv_has_:
     ar: عدد تخيلي
     ast: númberu imaxinariu
     ba: уйланма һан
-    be-tarask: уяўны лік
+    be_tarask: уяўны лік
     bg: имагинерно число
     bn: অবাস্তব সংখ্যা
     bs: imaginarni broj
@@ -103,11 +103,11 @@ dv_has_:
     cy: rhif dychmygol
     da: imaginære tal
     de: imaginäre Zahl
-    de-ch: imaginäre Zahl
+    de_ch: imaginäre Zahl
     el: φΦανταστικός αριθμός
     en: imaginary number
-    en-ca: imaginary number
-    en-gb: imaginary number
+    en_ca: imaginary number
+    en_gb: imaginary number
     en-us: imaginary number
     eo: imaginara nombro
     es: número imaginario
@@ -139,7 +139,7 @@ dv_has_:
     ml: അവാസ്തവികസംഖ്യ
     mr: काल्पनिक संख्या
     ms: nombor khayalan
-    ms-arab: نومبور خيالن
+    ms_arab: نومبور خيالن
     my: ကိန်းတေး
     nb: imaginært tall
     nl: imaginair getal
@@ -147,7 +147,7 @@ dv_has_:
     pa: ਕਾਲਪਨਿਕ ਸੰਖਿਆ
     pl: liczby urojone
     pt: número imaginário puro
-    pt-br: número imaginário puro
+    pt_br: número imaginário puro
     ro: număr imaginar
     ru: чисто мнимое число
     si: අතාත්වික සංඛ්යා
@@ -155,7 +155,7 @@ dv_has_:
     smn: imaginaarloho
     sms: imaginaarlååkk
     sr: имагинарни број
-    sr-ec: имагинарни број
+    sr_ec: имагинарни број
     sv: imaginära tal
     ta: கற்பனை எண்
     th: จำนวนจินตภาพ
@@ -169,8 +169,8 @@ dv_has_:
     yo: nọ́mbà tíkòsí
     yue: 虛數
     zh: 虚数
-    zh-hk: 虛數
-    zh-tw: 虛數
+    zh_hk: 虛數
+    zh_tw: 虛數
 ---
 # [[Imaginary_Number]] 
 

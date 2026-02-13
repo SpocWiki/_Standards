@@ -71,15 +71,15 @@ dv_has_:
     as: বটম কোৱাৰ্ক
     ast: quark fondu
     be: b-кварк
-    be-tarask: b-кварк
+    be_tarask: b-кварк
     bg: дънен кварк
     ca: quark b
     cs: kvark b
     da: bottom-kvark
     de: Bottom-Quark
     en: bottom quark
-    en-ca: Bottom quark
-    en-gb: Bottom quark
+    en_ca: Bottom quark
+    en_gb: Bottom quark
     eo: b-kvarko
     es: cuark fondo
     et: b-kvark
@@ -111,7 +111,7 @@ dv_has_:
     pl: kwark b
     pnb: تھلا کوارک
     pt: quark bottom
-    pt-br: Quark bottom
+    pt_br: Quark bottom
     ru: b-кварк
     sh: dubinski kvark
     sk: kvark b

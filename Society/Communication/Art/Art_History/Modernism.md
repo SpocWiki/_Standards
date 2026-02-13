@@ -104,7 +104,7 @@ dv_has_:
     az: modernizm
     azb: مودرنیزم
     be: мадэрнізм
-    be-tarask: мадэрнізм
+    be_tarask: мадэрнізм
     bg: модернизъм
     bjn: modernisme
     bn: আধুনিকতা
@@ -167,7 +167,7 @@ dv_has_:
     mt: moderniżmu
     nan: Hiān-tāi-sèng
     nb: modernisme
-    nds-nl: modernisme
+    nds_nl: modernisme
     ne: आधुनिकवाद
     nl: modernisme
     nn: modernisme
@@ -195,8 +195,8 @@ dv_has_:
     sn: Chimanje-manje
     sq: Modernizmi
     sr: модернизам
-    sr-ec: модернизам
-    sr-el: modernizam
+    sr_ec: модернизам
+    sr_el: modernizam
     su: modernisme
     sv: modernism
     sw: Usasa
@@ -214,10 +214,10 @@ dv_has_:
     xmf: მოდერნიზმი
     yue: 現代主義
     zh: 現代主義
-    zh-cn: 现代主义
-    zh-hans: 现代性
-    zh-hant: 現代性
-    zh-hk: 現代性
+    zh_cn: 现代主义
+    zh_hans: 现代性
+    zh_hant: 現代性
+    zh_hk: 現代性
 ---
 # [[Modernism]] 
 

@@ -245,7 +245,7 @@ dv_has_:
     ace: tokoh
     acm: بشر
     ady: цӏыф
-    aeb-arab: عبد
+    aeb_arab: عبد
     af: mens
     am: የሰው ልጅ
     an: Homo sapiens
@@ -271,7 +271,7 @@ dv_has_:
     bcl: tao
     bdr: manusia'
     be: чалавек
-    be-tarask: чалавек
+    be_tarask: чалавек
     bew: manusia
     bg: човек
     bho: "\U000110A7\U000110A2\U000110B3\U000110AD\U000110B9\U000110A8"
@@ -308,8 +308,8 @@ dv_has_:
     ee: ame
     el: άνθρωπος
     en: human
-    en-ca: human
-    en-gb: human
+    en_ca: human
+    en_gb: human
     en-us: human
     eo: homo
     es: ser humano
@@ -371,7 +371,7 @@ dv_has_:
     kg: muntu
     kge: Manusia
     kk: адам
-    kk-cyrl: адам
+    kk_cyrl: адам
     km: មនុស្ស
     kn: ಮಾನವ
     knc: kam
@@ -381,7 +381,7 @@ dv_has_:
     ks: اِنسان
     ksh: Minsch
     ku: mirov
-    ku-latn: mirov
+    ku_latn: mirov
     kus: ninsaal
     kv: морт
     kw: tus
@@ -405,7 +405,7 @@ dv_has_:
     lzz: k'oçi
     mad: Manossa
     mai: लोक
-    map-bms: tokoh
+    map_bms: tokoh
     mdf: ломанць
     mg: olombelona
     mhr: айдеме
@@ -418,7 +418,7 @@ dv_has_:
     mos: neda
     mr: मानव
     ms: manusia
-    ms-arab: ماءنسي
+    ms_arab: ماءنسي
     mt: bniedem
     mwl: Homo sapiens
     my: လူ
@@ -430,7 +430,7 @@ dv_has_:
     nap: umane
     nb: menneske
     nds: Minsch
-    nds-nl: mense
+    nds_nl: mense
     ne: मानिस
     new: मनू
     nl: mens
@@ -457,7 +457,7 @@ dv_has_:
     pnt: άνθρωπος
     ps: انسان
     pt: humano
-    pt-br: ser humano
+    pt_br: ser humano
     pwn: caucau
     qu: runa
     rm: uman
@@ -487,8 +487,8 @@ dv_has_:
     so: biniaadan
     sq: njeri
     sr: човек
-    sr-ec: човек
-    sr-el: čovek
+    sr_ec: човек
+    sr_el: čovek
     stq: moanske
     su: manusa
     sv: människa
@@ -501,8 +501,8 @@ dv_has_:
     tcy: ಮಾನವೆ
     te: మానవుడు
     tg: инсон
-    tg-cyrl: инсон
-    tg-latn: inson
+    tg_cyrl: инсон
+    tg_latn: inson
     th: มนุษย์
     ti: ሰብ
     tig: ኣዳም
@@ -513,8 +513,8 @@ dv_has_:
     tr: insan
     ts: vanhu
     tt: кеше
-    tt-cyrl: кеше
-    tt-latn: keşe
+    tt_cyrl: кеше
+    tt_latn: keşe
     tum: munthu
     tw: nnipa
     udm: адями
@@ -540,14 +540,14 @@ dv_has_:
     za: vunz
     zgh: ⴰⴼⴳⴰⵏ
     zh: 人類
-    zh-cn: 人类
-    zh-hans: 人类
-    zh-hant: 人類
-    zh-hk: 人類
-    zh-mo: 人類
+    zh_cn: 人类
+    zh_hans: 人类
+    zh_hant: 人類
+    zh_hk: 人類
+    zh_mo: 人類
     zh-my: 人类
-    zh-sg: 人类
-    zh-tw: 人類
+    zh_sg: 人类
+    zh_tw: 人類
     zu: umuntu
 ---
 #is_/instance_of :: [[../../../../../../../../../../../../../../../../../bio~Domain/Eukarya/Animal/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species|bio~Species]] 

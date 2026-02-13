@@ -53,7 +53,7 @@ dv_has_:
     ar: نظرية التمثيل
     ba: Күрһәтмәләр теорияһы
     be: тэорыя прадстаўленняў
-    be-tarask: тэорыя выяўленьняў
+    be_tarask: тэорыя выяўленьняў
     bn: প্রতিনিধিত্বের তত্ত্ব
     ca: teoria de la representació
     cs: teorie reprezentací
@@ -63,8 +63,8 @@ dv_has_:
     de: Darstellungstheorie
     el: Θεωρία αναπαραστάσεων
     en: representation theory
-    en-ca: Representation theory
-    en-gb: representation theory
+    en_ca: Representation theory
+    en_gb: representation theory
     eo: prezenta teorio
     es: teoría de la representación
     eu: Errepresentazioaren teoria
@@ -82,7 +82,7 @@ dv_has_:
     nl: representatietheorie
     pl: teoria reprezentacji
     pt: teoria de representação
-    pt-br: teoria de representação
+    pt_br: teoria de representação
     ro: teoria reprezentării
     ru: теория представлений
     sl: teorija reprezentacij

@@ -154,7 +154,7 @@ dv_has_:
     ba: Эйзенштейн Сергей Михайлович
     bar: Sergei Eisenstein
     be: Сяргей Міхайлавіч Эйзенштэйн
-    be-tarask: Сяргей Эйзэнштэйн
+    be_tarask: Сяргей Эйзэнштэйн
     bew: Sarkis Ésenstén
     bg: Сергей Айзенщайн
     bi: Sergei Eisenstein
@@ -170,12 +170,12 @@ dv_has_:
     cy: Sergei Eisenstein
     da: Sergej Eisenstein
     de: Sergei Michailowitsch Eisenstein
-    de-ch: Sergei Michailowitsch Eisenstein
+    de_ch: Sergei Michailowitsch Eisenstein
     diq: Sergei Eisenstein
     el: Σεργκέι Αϊζενστάιν
     en: Sergei Eisenstein
-    en-ca: Sergei Eisenstein
-    en-gb: Sergei Eisenstein
+    en_ca: Sergei Eisenstein
+    en_gb: Sergei Eisenstein
     eo: Sergej Miĥajloviĉ Ejzenŝtejn
     es: Serguéi Eisenstein
     et: Sergei Eisenstein
@@ -238,7 +238,7 @@ dv_has_:
     pms: Sergej Ejzenštejn
     pnb: سرجی آئیزنشٹائن
     pt: Serguei Eisenstein
-    pt-br: Serguei Eisenstein
+    pt_br: Serguei Eisenstein
     ro: Serghei Eisenstein
     ru: Сергей Михайлович Эйзенштейн
     rue: Серґей Михайлович Ейзенштейн
@@ -252,7 +252,7 @@ dv_has_:
     sl: Sergej Mihajlovič Eisenstein
     sq: Sergei Eisenstein
     sr: Сергеј Ајзенштајн
-    sr-ec: Сергеј Ајзенштајн
+    sr_ec: Сергеј Ајзенштајн
     sv: Sergej Eisenstein
     sw: Sergei Eisenstein
     ta: செர்கீ ஐசென்ஸ்டைன்
@@ -273,9 +273,9 @@ dv_has_:
     yi: סערגיי אייזנשטיין
     yue: 愛森斯坦
     zh: 谢尔盖·米哈依洛维奇·爱森斯坦
-    zh-hans: 谢尔盖·米哈依洛维奇·爱森斯坦
-    zh-hant: 艾森斯坦
-    zh-tw: 艾森斯坦
+    zh_hans: 谢尔盖·米哈依洛维奇·爱森斯坦
+    zh_hant: 艾森斯坦
+    zh_tw: 艾森斯坦
 ---
 # [[Eisenstein,Sergei]] 
 

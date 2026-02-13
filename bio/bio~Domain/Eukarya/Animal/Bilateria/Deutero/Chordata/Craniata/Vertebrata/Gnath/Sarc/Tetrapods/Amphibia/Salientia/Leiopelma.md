@@ -40,7 +40,7 @@ dv_has_:
     oc: Leiopelma
     pl: Leiopelma
     pt: Leiopelma
-    pt-br: Leiopelma
+    pt_br: Leiopelma
     ro: Leiopelma
     ru: Лейопельмы
     sq: Leiopelma
@@ -50,8 +50,8 @@ dv_has_:
     vo: Leiopelma
     war: Leiopelma
     zh: 滑跖蟾属
-    zh-cn: 滑跖蟾属
-    zh-hans: 滑跖蟾属
+    zh_cn: 滑跖蟾属
+    zh_hans: 滑跖蟾属
 ---
 # [[Leiopelma]] 
 

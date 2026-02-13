@@ -120,7 +120,7 @@ dv_has_:
     az: Filiz
     ba: Мәғдән
     be: руда
-    be-tarask: руда
+    be_tarask: руда
     bg: Руда
     bn: আকরিক
     bs: Ruda
@@ -131,8 +131,8 @@ dv_has_:
     de: Erz
     el: Μετάλλευμα
     en: ore
-    en-ca: Ore
-    en-gb: ore
+    en_ca: Ore
+    en_gb: ore
     eo: erco
     es: mena
     et: maak
@@ -157,11 +157,11 @@ dv_has_:
     ka: მადანი
     kab: Azara
     kk: Кентас
-    kk-arab: كەنتاس
+    kk_arab: كەنتاس
     kk-cn: كەنتاس
-    kk-cyrl: Кентас
+    kk_cyrl: Кентас
     kk-kz: Кентас
-    kk-latn: Kentas
+    kk_latn: Kentas
     kk-tr: Kentas
     kn: ಅದಿರು
     ko: 광석
@@ -182,7 +182,7 @@ dv_has_:
     pa: ਕੱਚੀ ਧਾਤ
     pl: ruda
     pt: minério
-    pt-br: minério
+    pt_br: minério
     qu: Chuqi
     ro: minereu
     ru: руда
@@ -197,8 +197,8 @@ dv_has_:
     sms: malmm
     sn: Chitofu
     sr: руда
-    sr-ec: руда
-    sr-el: ruda
+    sr_ec: руда
+    sr_el: ruda
     sv: malm
     sw: Mtapo
     ta: கனிமூலம்
@@ -214,11 +214,11 @@ dv_has_:
     yi: ארץ
     yue: 礦石
     zh: 矿石
-    zh-cn: 矿石
-    zh-hans: 矿石
-    zh-hant: 礦石
-    zh-hk: 礦石
-    zh-tw: 礦石
+    zh_cn: 矿石
+    zh_hans: 矿石
+    zh_hant: 礦石
+    zh_hk: 礦石
+    zh_tw: 礦石
 ---
 # [[Ore]] 
 

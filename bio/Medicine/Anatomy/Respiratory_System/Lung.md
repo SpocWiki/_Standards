@@ -195,7 +195,7 @@ WordLift_URL: http://data.medicalrecords.com/medicalrecords/healthwise/lungs
 dv_has_:
   name_:
     ace: S'ueb
-    aeb-arab: ريّة
+    aeb_arab: ريّة
     af: Long
     ak: Ahrawa
     alt: Öкпö
@@ -215,7 +215,7 @@ dv_has_:
     ban: Peparu
     bcl: Bagâ
     be: Лёгкія
-    be-tarask: лёгкія
+    be_tarask: лёгкія
     bg: Бял дроб
     bn: ফুসফুস
     bo: གློ་བ།
@@ -236,14 +236,14 @@ dv_has_:
     da: lunge
     dag: Sapuɣu
     de: Lunge
-    de-ch: Lunge
+    de_ch: Lunge
     diq: Cigere
     dv: ފުއްޕާމޭ
     el: Πνεύμονας
     eml: Palmòṅ
     en: lung
-    en-ca: Lung
-    en-gb: lung
+    en_ca: Lung
+    en_gb: lung
     eo: pulmo
     es: pulmón
     et: Kopsud
@@ -305,7 +305,7 @@ dv_has_:
     lv: plaušas
     lzh: 肺
     mad: Bhârâ
-    map-bms: Paru-paru
+    map_bms: Paru-paru
     mcn: ba᷅̀̀᷆̄̄̀̀᷆̀́̀̀́gàf
     mdf: Тевлафне
     mg: Avokavoka
@@ -316,7 +316,7 @@ dv_has_:
     mr: फुफ्फुस
     mrj: Шоды
     ms: paru-paru
-    ms-arab: ڤارو٢
+    ms_arab: ڤارو٢
     mt: pulmun
     my: အဆုတ်
     myv: Тевеляв (мельке)
@@ -340,7 +340,7 @@ dv_has_:
     pnb: پھپھرے
     ps: سږي
     pt: pulmão
-    pt-br: Pulmão humano
+    pt_br: Pulmão humano
     qu: Surq'an
     ro: plămân
     ru: лёгкие
@@ -360,7 +360,7 @@ dv_has_:
     so: Sambab
     sq: Mushkëria
     sr: плућа
-    sr-ec: плућа
+    sr_ec: плућа
     su: Bayah
     sv: lunga
     sw: Mapafu
@@ -372,7 +372,7 @@ dv_has_:
     tl: Baga
     tr: akciğer
     tt: үпкә
-    tt-cyrl: үпкә
+    tt_cyrl: үпкә
     ug: ئۆپكە
     uk: легені
     ur: پھیپھڑے
@@ -391,9 +391,9 @@ dv_has_:
     yue: 肺
     za: Bwt
     zh: 肺
-    zh-cn: 肺
-    zh-hans: 肺
-    zh-hant: 肺
+    zh_cn: 肺
+    zh_hans: 肺
+    zh_hant: 肺
 ---
 # [[Lung]] 🫁 
 

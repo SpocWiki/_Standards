@@ -27,7 +27,7 @@ dv_has_:
     nn: Cainotheriidae
     pl: Cainotheriidae
     pt: Cainotheriidae
-    pt-br: Cainotheriidae
+    pt_br: Cainotheriidae
     ro: Cainotheriidae
     ru: Cainotheriidae
     sq: Cainotheriidae
@@ -38,8 +38,8 @@ dv_has_:
     vi: Cainotheriidae
     war: Cainotheriidae
     zh: 新兽科
-    zh-cn: 新兽科
-    zh-hans: 新兽科
+    zh_cn: 新兽科
+    zh_hans: 新兽科
 ---
 # Cainotheriidae 
 

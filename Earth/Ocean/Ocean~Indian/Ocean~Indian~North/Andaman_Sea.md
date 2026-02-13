@@ -165,7 +165,7 @@ dv_has_:
     ba: Андаман диңгеҙе
     ban: Segara Andaman
     be: Андаманскае мора
-    be-tarask: Андаманскае мора
+    be_tarask: Андаманскае мора
     bg: Андаманско море
     blk: အန်ဒမန်ပင်ႏလယ်ႏ
     bn: আন্দামান সাগর
@@ -180,11 +180,11 @@ dv_has_:
     cy: Môr Andaman
     da: Andamanhavet
     de: Andamanensee
-    de-ch: Andamanensee
+    de_ch: Andamanensee
     el: Θάλασσα Ανταμάν
     en: Andaman Sea
-    en-ca: Andaman Sea
-    en-gb: Andaman Sea
+    en_ca: Andaman Sea
+    en_gb: Andaman Sea
     eo: Andamana Maro
     es: mar de Andamán
     et: Andamani meri
@@ -243,7 +243,7 @@ dv_has_:
     pl: Morze Andamańskie
     pnb: انڈمان سمندر
     pt: Mar de Andamão
-    pt-br: Mar de Andamão
+    pt_br: Mar de Andamão
     ro: Marea Andaman
     ru: Андаманское море
     sd: انڊيمان سمنڊ

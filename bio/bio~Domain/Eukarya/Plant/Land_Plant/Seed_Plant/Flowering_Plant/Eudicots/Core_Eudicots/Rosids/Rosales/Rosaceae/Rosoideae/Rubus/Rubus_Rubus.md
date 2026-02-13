@@ -107,7 +107,7 @@ dv_has_:
     az: Böyürtkən
     ba: Ҡара бөрлөгән
     bar: Mur
-    be-tarask: ажына
+    be_tarask: ажына
     bg: Rubus subg. Rubus
     br: Mouar
     bs: Kupina
@@ -122,8 +122,8 @@ dv_has_:
     de: Brombeeren
     el: Βατόμουρο
     en: Rubus subg. Rubus
-    en-ca: Blackberry
-    en-gb: Blackberry
+    en_ca: Blackberry
+    en_gb: Blackberry
     eo: Rubuso
     es: Rubus subg. Rubus
     et: Pampel
@@ -174,7 +174,7 @@ dv_has_:
     pl: jeżyna
     ps: تورتوت
     pt: Rubus subg. Rubus
-    pt-br: Amora-silvestre
+    pt_br: Amora-silvestre
     ro: mur
     ru: ежевика
     rup: Amurâ
@@ -187,8 +187,8 @@ dv_has_:
     sl: Rubus subg. Rubus
     sq: Manaferra
     sr: купина
-    sr-ec: Купина
-    sr-el: Kupina
+    sr_ec: Купина
+    sr_el: Kupina
     stq: Brummelbäie
     sv: Björnbär
     tg: Марминҷон
@@ -204,8 +204,8 @@ dv_has_:
     war: Rubus subg. Rubus
     yue: 黑啤梨
     zh: 黑莓亚属
-    zh-cn: 黑莓亚属
-    zh-hans: 黑莓亚属
+    zh_cn: 黑莓亚属
+    zh_hans: 黑莓亚属
 ---
 # [[Rubus_Rubus]] 
 

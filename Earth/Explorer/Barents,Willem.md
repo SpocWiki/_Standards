@@ -119,7 +119,7 @@ dv_has_:
     avk: Willem Barentsz
     az: Villem Barens
     be: Вілем Барэнц
-    be-tarask: Вілем Барэнц
+    be_tarask: Вілем Барэнц
     bg: Вилем Баренц
     br: Willem Barentsz
     ca: Willem Barentsz
@@ -151,11 +151,11 @@ dv_has_:
     ja: ウィレム・バレンツ
     ka: ვილემ ბარენცი
     kk: Виллем Баренц
-    kk-arab: ۆىيللەم بارەنتس
+    kk_arab: ۆىيللەم بارەنتس
     kk-cn: ۆىيللەم بارەنتس
-    kk-cyrl: Виллем Баренц
+    kk_cyrl: Виллем Баренц
     kk-kz: Виллем Баренц
-    kk-latn: Vïllem Barenc
+    kk_latn: Vïllem Barenc
     kk-tr: Vïllem Barenc
     ko: 빌럼 바런츠
     la: Gulielmus Barentsius
@@ -177,7 +177,7 @@ dv_has_:
     pnb: ولیم بیرنٹس
     ps: ویليم بارينتس
     pt: Willem Barents
-    pt-br: Willem Barents
+    pt_br: Willem Barents
     rm: Willem Barents
     ro: Willem Barents
     ru: Виллем Баренц
@@ -187,8 +187,8 @@ dv_has_:
     sl: Willem Barents
     sq: Willem Barents
     sr: Вилем Баренц
-    sr-ec: Вилем Баренц
-    sr-el: Vilem Barenc
+    sr_ec: Вилем Баренц
+    sr_el: Vilem Barenc
     sv: Willem Barents
     sw: Willem Barents
     th: วิลเลิม บาเรินตส์
@@ -201,12 +201,12 @@ dv_has_:
     wuu: 威廉·巴伦支
     yue: 巴倫支
     zh: 威廉·巴伦支
-    zh-cn: 威廉·巴伦支
-    zh-hans: 威廉·巴伦支
-    zh-hant: 威廉·巴倫支
-    zh-hk: 威廉·巴倫支
-    zh-sg: 威廉·巴伦支
-    zh-tw: 威廉·巴倫支
+    zh_cn: 威廉·巴伦支
+    zh_hans: 威廉·巴伦支
+    zh_hant: 威廉·巴倫支
+    zh_hk: 威廉·巴倫支
+    zh_sg: 威廉·巴伦支
+    zh_tw: 威廉·巴倫支
 ---
 # [[Barents,Willem]] 
 
